@@ -8,10 +8,10 @@ pos: 1109
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 czerwca 2019 r.
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 31 maja 2019 r. zmieniające rozporządzenie w sprawie oceny tożsamości i czystości odmianowej materiału siewnego
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,15 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2019-05-31 |
 | Data wydania | 2019-06-14 |
+| Wejście w życie | 2019-06-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001109) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1109/text.pdf) |
 
-Poz. 1109 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 31 maja 2019 r.
-zmieniające rozporządzenie w sprawie oceny tożsamości i czystości odmianowej materiału siewnego Na podstawie art. 56 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. z 2019 r. poz. 568) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 16 maja 2017 r. w sprawie oceny tożsamości i czystości odmianowej materiału siewnego (Dz. U. poz. 1048) w załączniku do rozporządzenia w tabeli w części „Rośliny zbożowe” po lp. 7 dodaje się lp. 7a w brzmieniu: 7a Proso zwyczajne 500,0 § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: wz. S. Giżyński
+Treść rozporządzenia
+Na podstawie art. 56 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. z 2019 r. poz. 568) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 16 maja 2017 r. w sprawie oceny tożsamości i czystości odmianowej materiału siewnego (Dz. U. poz. 1048) w załączniku do rozporządzenia w tabeli w części „Rośliny zbożowe” po lp. 7 dodaje się lp. 7a w brzmieniu: 7a Proso zwyczajne 500,0 7a Proso zwyczajne 500,0
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).
 

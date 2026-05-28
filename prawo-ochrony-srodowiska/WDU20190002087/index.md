@@ -1,0 +1,454 @@
+---
+title: "Ustawa z dnia 30 sierpnia 2019 r. o zmianie ustawy - Prawo ochrony środowiska"
+address: WDU20190002087
+eli: DU/2019/2087
+publisher: DU
+year: 2019
+pos: 2087
+act_type: Ustawa
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Ustawa z dnia 30 sierpnia 2019 r. o zmianie ustawy – Prawo ochrony środowiska
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2019 poz. 2087 |
+| ISAP | WDU20190002087 |
+| Typ aktu | Ustawa |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2019-08-30 |
+| Data wydania | 2019-10-30 |
+| Wejście w życie | 2019-11-14 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002087) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2087/text.pdf) |
+
+1)
+dane podmiotu lub organu, o którym mowa w ust. 3, i wykonawcy mapy;
+2)
+charakterystykę terenu, dla którego jest sporządzana mapa;
+3)
+identyfikację i charakterystykę źródeł hałasu;
+4)
+uwarunkowania akustyczne wynikające z dokumentów planistycznych, w szczególności z miejscowego planu zagospodarowania przestrzennego;
+5)
+metody i dane wykorzystane do wykonania obliczeń akustycznych;
+6)
+zestawienie wyników pomiarów wykonanych na potrzeby sporządzenia mapy;
+7)
+wskazanie terenów zagrożonych hałasem;
+8)
+wskazanie danych liczbowych dotyczących ludności narażonej na hałas;
+9)
+analizę kierunków zmian stanu akustycznego środowiska;
+10)
+wyniki analiz rozkładu hałasu;
+11)
+propozycje działań w zakresie ochrony przed hałasem;
+12)
+oszacowanie efektów planowanych działań w zakresie ochrony przed hałasem;
+13)
+informacje o opracowanych i wdrożonych programach ochrony środowiska przed hałasem oraz oszacowanie efektów zrealizowanych działań w zakresie ochrony przed hałasem;
+14)
+streszczenie części opisowej sporządzone w języku niespecjalistycznym.
+7.
+1)
+emisyjną, która charakteryzuje hałas emitowany z poszczególnych źródeł hałasu;
+2)
+imisyjną, która charakteryzuje stan akustyczny środowiska;
+3)
+terenów zagrożonych hałasem, która charakteryzuje tereny, na których są przekroczone dopuszczalne poziomy hałasu określone wskaźnikami LDWN lub LN;
+4)
+przedstawiającą przewidywane rezultaty działań, o których mowa w ust. 6 pkt 11.
+8.
+Strategiczne mapy hałasu, o których mowa w ust. 2 pkt 1, zawierają odrębne mapy dotyczące dróg, linii tramwajowych, linii kolejowych, portów, lotnisk oraz miejsc prowadzenia działalności przemysłowej.
+9.
+Strategiczne mapy hałasu sporządza się z wykorzystaniem materiałów i zbiorów danych pochodzących z państwowego zasobu geodezyjnego i kartograficznego oraz z zastosowaniem metod oceny hałasu określonych w załączniku do dyrektywy Komisji (UE) 2015/996 z dnia 19 maja 2015 r. ustanawiającej wspólne metody oceny hałasu zgodnie z dyrektywą 2002/49/WE Parlamentu Europejskiego i Rady.
+10.
+Granice terenów objętych strategicznymi mapami hałasu w związku z eksploatacją głównych dróg, głównych linii kolejowych i głównych lotnisk określa się liniami rozgraniczającymi pokrywającymi się z izoliniami odpowiadającymi wartościom długookresowego średniego poziomu dźwięku A wyrażonego w decybelach (dB), wyznaczonego w ciągu wszystkich:
+1)
+dób w roku – LDWN równy 55;
+2)
+pór nocy w roku – LN równy 50.
+11.
+Strategiczne mapy hałasu mogą być aktualizowane przed upływem terminu, o którym mowa w ust. 4.
+12.
+Do aktualizacji strategicznych map hałasu stosuje się odpowiednio przepisy ust. 1 ̶ 10 oraz przepisy wydane na podstawie ust. 13.
+13.
+Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, szczegółowy zakres danych ujętych na strategicznych mapach hałasu, sposób ich prezentacji i formę ich przekazywania, uwzględniając charakter terenu objętego strategiczną mapą hałasu.
+1.
+Strategiczne mapy hałasu są przekazywane Głównemu Inspektorowi Ochrony Środowiska oraz właściwemu marszałkowi województwa w terminie, o którym mowa w art. 118 ust. 4.
+2.
+Głównemu Inspektorowi Ochrony Środowiska wraz ze strategicznymi mapami hałasu przekazuje się zaktualizowane dane identyfikujące, o których mowa w art. 117a ust. 8, oraz dane ze strategicznych map hałasu, w postaci arkuszy kalkulacyjnych i zbiorów danych przestrzennych, za pomocą elektronicznego formularza udostępnionego w Biuletynie Informacji Publicznej na stronie podmiotowej Głównego Inspektoratu Ochrony Środowiska.
+3.
+Główny Inspektor Ochrony Środowiska w terminie 45 dni od dnia upływu terminu, o którym mowa w art. 118 ust. 4, sporządza wykazy zarządzających głównymi drogami, głównymi liniami kolejowymi lub głównymi lotniskami lub prezydentów miast o liczbie mieszkańców większej niż 100 tysięcy, którzy:
+1)
+nie przekazali strategicznych map hałasu, zaktualizowanych danych identyfikujących, o których mowa w art. 117a ust. 8, ani danych ze strategicznych map hałasu w terminie,
+2)
+przekazali strategiczne mapy hałasu, zaktualizowane dane identyfikujące, o których mowa w art. 117a ust. 8, oraz dane ze strategicznych map hałasu w terminie 30 dni od dnia upływu terminu
+o którym mowa w art. 118 ust. 4.
+4.
+Wykazy, o których mowa w ust. 3, są przekazywane niezwłocznie właściwym wojewódzkim inspektorom ochrony środowiska. Przepis art. 117a ust. 7 stosuje się odpowiednio.
+5.
+Główny Inspektor Ochrony Środowiska co 5 lat przekazuje Komisji Europejskiej zaktualizowane arkusze sprawozdawcze, o których mowa w art. 117b ust. 1, oraz dane ze strategicznych map hałasu w terminie 6 miesięcy od dnia upływu terminów ich sporządzenia.
+6.
+W terminie 7 dni od dnia upływu terminu przekazania danych, o którym mowa w ust. 5, Główny Inspektor Ochrony Środowiska przekazuje ministrowi właściwemu do spraw środowiska informacje o przekazaniu tych danych do Komisji Europejskiej.
+” ;
+10)
+w art. 118b dodaje się ust. 3 w brzmieniu:
+„
+3.
+Starosta przy opracowywaniu projektu uchwały, o której mowa w ust. 1, zapewnia udział społeczeństwa na zasadach i w trybie określonych w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2018 r. poz. 2081, z późn. zm.).
+” ;
+11)
+uchyla się art. 119;
+12)
+po art. 119 dodaje się art. 119a w brzmieniu:
+„
+
+**Art. 1.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2019 r. poz. 1396, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w odnośniku nr 1 w pkt 16 kropkę zastępuje się średnikiem i dodaje się pkt 17 w brzmieniu: „
+- **17)** dyrektywy Komisji (UE) 2015/996 z dnia 19 maja 2015 r. ustanawiającej wspólne metody oceny hałasu zgodnie z dyrektywą 2002/49/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 168 z 01.07.2015, str. 1 i Dz. Urz. UE L 5 z 10.01.2018, str. 35). ” ;
+- **2)** w art. 3: po pkt 30 dodaje się pkt 30a w brzmieniu: „
+    - **a)**
+
+- **30a)** programie ochrony środowiska przed hałasem – rozumie się przez to program sporządzany na potrzeby zarządzania emisją i skutkami hałasu, w tym w celu zmniejszenia hałasu; ” , po pkt 35 dodaje się pkt 35a w brzmieniu: „
+    - **b)**
+
+- **35a)** strategicznej mapie hałasu – rozumie się przez to mapę sporządzoną do celów całościowej oceny narażenia na hałas z różnych źródeł na danym terenie albo do celów sporządzania ogólnych prognoz dla danego terenu; ” ;
+- **3)** w art. 73 w ust. 1 po pkt 2a dodaje się pkt 2b w brzmieniu: „
+- **2b)** strategicznych map hałasu; ” ;
+- **4)** art. 112a i art. 112b otrzymują brzmienie: „
+
+**Art. 112a.** Ilekroć w przepisach niniejszego działu jest mowa o:
+
+- **1)** wskaźnikach hałasu – rozumie się przez to wskaźniki hałasu mające zastosowanie do: sporządzania strategicznych map hałasu oraz programów ochrony środowiska przed hałasem: – LDWN – długookresowy średni poziom dźwięku A wyrażony w decybelach (dB), wyznaczony zgodnie z ISO 1996–2: 1987 w ciągu wszystkich dób w roku (rozumianym jako dany rok kalendarzowy w odniesieniu do emisji dźwięku i średni rok w odniesieniu do warunków meteorologicznych), z uwzględnieniem pory dnia (rozumianej jako przedział czasu od godz. 600do godz. 1800), pory wieczoru (rozumianej jako przedział czasu od godz. 1800do godz. 2200) oraz pory nocy (rozumianej jako przedział czasu od godz. 2200do godz. 600); wskaźnik ten służy do określenia ogólnej dokuczliwości hałasu, – LN – długookresowy średni poziom dźwięku A, wyrażony w decybelach (dB), wyznaczony zgodnie z ISO 1996–2: 1987 w ciągu wszystkich pór nocy (rozumianych jako przedział czasu od godz. 2200do godz. 600) w roku (rozumianym jako dany rok kalendarzowy w odniesieniu do emisji dźwięku i średni rok w odniesieniu do warunków meteorologicznych); wskaźnik ten służy do określenia zaburzenia snu, ustalania i kontroli warunków korzystania ze środowiska w odniesieniu do jednej doby: – LAeq D- równoważny poziom dźwięku A dla pory dnia (rozumianej jako przedział czasu od godz. 600 do godz. 2200), – LAeq N- równoważny poziom dźwięku A dla pory nocy (rozumianej jako przedział czasu od godz. 2200 do godz. 600);
+    - **a)**
+    - **b)**
+
+- **2)** głównej drodze – rozumie się przez to drogę, po której przejeżdża rocznie więcej niż 3 miliony pojazdów;
+- **3)** głównej linii kolejowej – rozumie się przez to linię kolejową, po której przejeżdża rocznie więcej niż 30 tysięcy pociągów;
+- **4)** głównym lotnisku – rozumie się przez to lotnisko cywilne, na którym rocznie odbywa się więcej niż 50 tysięcy operacji (startów lub lądowań), z wyłączeniem operacji dokonywanych wyłącznie w celach szkoleniowych przy użyciu samolotów o masie startowej poniżej 5700 kg. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, sposób ustalania wartości wskaźnika hałasu, o którym mowa w art. 112a pkt 1 lit. a tiret pierwsze, uwzględniając potrzebę jego wykorzystania przy sporządzaniu strategicznych map hałasu oraz obowiązujące w tym zakresie dokumenty normalizacyjne w rozumieniu ustawy z dnia 12 września 2002 r. o normalizacji (Dz. U. z 2015 r. poz. 1483). ” ;
+- **5)** po art. 112b dodaje się art. 112c w brzmieniu: „ Metody oceny hałasu na potrzeby sporządzania strategicznych map hałasu określa załącznik do dyrektywy Komisji (UE) 2015/996 z dnia 19 maja 2015 r. ustanawiającej wspólne metody oceny hałasu zgodnie z dyrektywą 2002/49/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 168 z 01.07.2015, str. 1 i Dz. Urz. UE L 5 z 10.01.2018, str. 35). ” ;
+- **6)** w art. 115a w ust. 4 uchyla się pkt 3;
+- **7)** w art. 117: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Oceny stanu akustycznego środowiska i obserwacji zmian dokonuje Główny Inspektor Ochrony Środowiska w ramach państwowego monitoringu środowiska dla terenów:
+
+- **1)** o których mowa w art. 118 ust. 2 – na podstawie strategicznych map hałasu lub wyników pomiarów poziomów hałasu wyrażonych wskaźnikami hałasu LAeq D, LAeq N, LDWN i LN, z uwzględnieniem w szczególności danych demograficznych oraz dotyczących sposobu zagospodarowania i użytkowania terenu;
+- **2)** innych niż tereny, o których mowa w art. 118 ust. 2 – na podstawie wyników pomiarów poziomów hałasu wyrażonych wskaźnikami hałasu LAeqD, LAeqN, LDWN i LN lub innych metod oceny poziomu hałasu. ” , uchyla się ust. 2, 3 i 5;
+    - **b)**
+
+- **8)** po art. 117 dodaje się art. 117a i art. 117b w brzmieniu: „
+
+**Art. 117a.**
+
+1. Zarządzający drogą, linią kolejową lub lotniskiem, z wyłączeniem zarządzających drogami gminnymi, dokonują identyfikacji głównych dróg, głównych linii kolejowych lub głównych lotnisk iprzekazują, w zakresie swojej właściwości, Głównemu Inspektorowi Ochrony Środowiska następujące dane:
+
+- **1)** w przypadku głównych dróg: europejski numer drogi (EU), krajowy numer drogi, nazwę drogi, o ile została nadana, unikalny kod odcinka drogi, zgodny z wymaganiami dotyczącymi raportowania do Komisji Europejskiej, roczne natężenie ruchu, długość odcinka drogi, współrzędne punktów początku i końca odcinka drogi wraz z nazwą układu współrzędnych, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2019 r. poz. 725, 730 i 1309), graficzne odwzorowanie przebiegu odcinka drogi wraz z nazwą układu współrzędnych, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+
+- **2)** w przypadku głównych linii kolejowych: krajowy numer linii kolejowej, unikalny kod odcinka linii kolejowej, zgodny z wymaganiami dotyczącymi raportowania do Komisji Europejskiej, roczną liczbę przejazdów pociągów, długość odcinka linii kolejowej, współrzędne punktów początku i końca odcinka linii kolejowej wraz z nazwą układu współrzędnych, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, graficzne odwzorowanie przebiegu odcinka linii kolejowej wraz znazwą układu współrzędnych, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+
+- **3)** w przypadku głównych lotnisk: nazwę lotniska, unikalny kod lotniska, roczną liczbę operacji lotniczych, współrzędne punktu odniesienia lotniska wraz z nazwą układu współrzędnych, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+2. Prezydent miasta o liczbie mieszkańców większej niż 100 tysięcy przekazuje Głównemu Inspektorowi Ochrony Środowiska następujące dane:
+
+- **1)** nazwę miasta;
+- **2)** unikalny kod miasta zgodny z wymaganiami dotyczącymi raportowania do Komisji Europejskiej;
+- **3)** liczbę mieszkańców miasta zgodnie z danymi statystycznymi z roku poprzedzającego rok raportowania do Komisji Europejskiej;
+- **4)** powierzchnię miasta;
+- **5)** unikalny kod statystyczny miasta;
+- **6)** graficzne odwzorowanie przebiegu granicy miasta wraz z nazwą układu współrzędnych, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne.
+
+3. Dane, o których mowa w ust. 1 i 2, zwane dalej „danymi identyfikującymi”, są przekazywane Głównemu Inspektorowi Ochrony Środowiska co 5 lat, do dnia 31 stycznia, za rok poprzedni, w postaci arkuszy kalkulacyjnych i zbiorów danych przestrzennych za pomocą elektronicznego formularza udostępnionego w Biuletynie Informacji Publicznej na stronie podmiotowej Głównego Inspektoratu Ochrony Środowiska. W przypadku głównych dróg uwzględnia się dane identyfikujące z ostatniego pomiaru ruchu na drogach.
+
+4. W przypadku niezidentyfikowania w zakresie swojej właściwości głównych dróg, głównych linii kolejowych lub głównych lotnisk podmioty, o których mowa w ust. 1, przekazują w terminie, o którym mowa w ust. 3, Głównemu Inspektorowi Ochrony Środowiska informację w tym zakresie.
+
+5. Główny Inspektor Ochrony Środowiska w terminie 30 dni od dnia upływu terminu, o którym mowa w ust. 3, sporządza wykazy:
+
+- **1)** zarządzających drogami, liniami kolejowymi lub lotniskami, którzy nie przekazali danych identyfikujących albo informacji, o której mowa w ust. 4, w terminie, o którym mowa w ust. 3;
+- **2)** prezydentów miast o liczbie mieszkańców większej niż 100 tysięcy, którzy nie przekazali danych identyfikujących w terminie, o którym mowa w ust. 3.
+
+6. Wykazy, o których mowa w ust. 5, są przekazywane niezwłocznie właściwym wojewódzkim inspektorom ochrony środowiska.
+
+7. Za nieprzekazanie danych identyfikujących albo informacji, o której mowa w ust. 4, uznaje się również przekazanie niekompletnych, nieprawdziwych lub wprowadzających w błąd danych albo informacji.
+
+8. Dane identyfikujące aktualizuje się, jeżeli uległy one zmianie w okresie między datą ich przekazania i datą sporządzenia strategicznej mapy hałasu.
+
+9. W przypadku przekazania przez podmiot lub organ, o którym mowa w ust. 5, danych identyfikujących albo informacji, o której mowa w ust. 4, po przekazaniu wykazu, o którym mowa w ust. 5, Główny Inspektor Ochrony Środowiska informuje niezwłocznie właściwych wojewódzkich inspektorów ochrony środowiska o dacie tego przekazania.
+
+1. Na podstawie danych identyfikujących Główny Inspektor Ochrony Środowiska sporządza arkusze sprawozdawcze według formatów określonych przez Europejską Agencję Środowiska i przekazuje je co 5 lat, do dnia 30 czerwca, Komisji Europejskiej i właściwym marszałkom województw.
+
+2. W terminie 7 dni od dnia przekazania arkuszy sprawozdawczych Główny Inspektor Ochrony Środowiska przekazuje ministrowi właściwemu do spraw środowiska informację o przekazaniu tych arkuszy Komisji Europejskiej. ” ;
+
+- **9)** art. 118 i art. 118a otrzymują brzmienie: „
+
+**Art. 118.**
+
+1. Strategiczne mapy hałasu stanowią podstawowe źródło danych wykorzystywanych do:
+
+- **1)** informowania społeczeństwa o zagrożeniach środowiska hałasem;
+- **2)** opracowania danych dla państwowego monitoringu środowiska;
+- **3)** tworzenia i aktualizacji programów ochrony środowiska przed hałasem;
+- **4)** planowania strategicznego;
+- **5)** planowania i zagospodarowania przestrzennego.
+
+2. Strategiczne mapy hałasu sporządza się dla:
+
+- **1)** miast o liczbie mieszkańców większej niż 100 tysięcy;
+- **2)** głównych dróg;
+- **3)** głównych linii kolejowych;
+- **4)** głównych lotnisk.
+
+3. Strategiczne mapy hałasu są sporządzane przez zarządzających głównymi drogami, głównymi liniami kolejowymi lub głównymi lotniskami oraz prezydentów miast o liczbie mieszkańców większej niż 100 tysięcy, w oparciu o dane dotyczące poprzedniego roku kalendarzowego oraz sąniezwłocznie zamieszczane na ich stronach internetowych.
+
+4. Strategiczne mapy hałasu sporządza się co 5 lat, w terminie do dnia 30 czerwca.
+
+5. Strategiczne mapy hałasu składają się z części opisowej i części graficznej.
+
+6.
+
+## Część opisowa zawiera w szczególności:
+
+## Część graficzna jest sporządzana w postaci zbiorów danych przestrzennych i zawiera w szczególności mapę:
+
+**Art. 119a.**
+
+1. Na podstawie strategicznych map hałasu marszałek województwa opracowuje dla obszaru województwa projekt uchwały w sprawie programu ochrony środowiska przed hałasem.
+
+2. Marszałek województwa sporządza wraz z projektem uchwały streszczenie programu ochrony środowiska przed hałasem zawierające dane o programie niezbędne do przekazania Komisji Europejskiej, na formularzu udostępnionym w Biuletynie Informacji Publicznej na stronie podmiotowej Głównego Inspektoratu Ochrony Środowiska.
+
+3. W programie ochrony środowiska przed hałasem wskazuje się działania ograniczające poziom hałasu w środowisku przedstawiony na strategicznych mapach hałasu:
+
+- **1)** zrealizowane,
+- **2)** planowane do realizacji w ciągu pięciu lat oraz
+- **3)** planowane do realizacji długoterminowej z uwzględnieniem liczby mieszkańców na terenie objętym programem oraz efektywności ekologicznej i ekonomicznej działań programu.
+
+4. Program ochrony środowiska przed hałasem jest sporządzany w formie pisemnej i składa się z następujących części:
+
+- **1)** wstępu zawierającego informacje ogólne o tym programie;
+- **2)** uzasadnienia zakresu zagadnień objętych tym programem, w tym: danych i wniosków wynikających ze sporządzonych strategicznych map hałasu, oceny realizacji poprzedniego programu, o ile został sporządzony, analizy materiałów, dokumentów i publikacji wykorzystanych do opracowania programu;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **3)** opisu działań w zakresie ograniczenia poziomu hałasu w środowisku, w tym harmonogramu ich realizacji, oraz obowiązków i ograniczeń wynikających z realizacji tego programu;
+- **4)** streszczenia tego programu sporządzonego w języku niespecjalistycznym.
+
+5. Marszałek województwa przy opracowywaniu programu ochrony środowiska przed hałasem zapewnia udział społeczeństwa na zasadach i w trybie określonych w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
+
+6. Marszałek województwa przedstawia projekt uchwały do zaopiniowania:
+
+- **1)** prezydentom miast o liczbie mieszkańców większej niż 100 tysięcy;
+- **2)** zarządzającym głównymi drogami;
+- **3)** zarządzającym głównymi liniami kolejowymi lub liniami kolejowymi innymi niż główne linie kolejowe położonymi na terenie miasta o liczbie mieszkańców większej niż 100 tysięcy;
+- **4)** zarządzającym głównymi lotniskami lub lotniskami, które zasięgiem emisji hałasu oddziałują na miasto o liczbie mieszkańców większej niż 100 tysięcy;
+- **5)** Głównemu Inspektorowi Ochrony Środowiska – w zakresie zgodności programu ochrony środowiska przed hałasem ze strategicznymi mapami hałasu.
+
+7. Podmioty i organy, o których mowa w ust. 6, przedstawiają opinię o projekcie w terminie 30 dni od dnia otrzymania projektu uchwały.
+
+8. Niewydanie opinii w terminie, o którym mowa w ust. 7, oznacza akceptację projektu uchwały.
+
+9. Program ochrony środowiska przed hałasem jest uchwalany przez sejmik województwa co 5 lat, w terminie do dnia 18 lipca.
+
+10. Programy ochrony środowiska przed hałasem mogą być aktualizowane przed upływem terminu, o którym mowa w ust. 9.
+
+11. Do aktualizacji programów ochrony środowiska przed hałasem stosuje się odpowiednio przepisy ust. 1–9, przepisy wydane na podstawie ust. 12 oraz przepis art. 120 ust. 3, z tym że streszczenia, o którym mowa w ust. 2, nie sporządza się.
+
+12. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, szczegółowy zakres programu ochrony środowiska przed hałasem oraz sposób ustalania harmonogramu planowanych działań ograniczających poziom hałasu w środowisku, kierując się koniecznością zapewnienia skuteczności działań w dziedzinie zarządzania hałasem. ” ;
+
+- **13)** w art. 120: uchyla się ust. 1 i 2, ust. 3 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+3. Marszałek województwa nie później niż w terminie 14 dni od dnia uchwalenia programu ochrony środowiska przed hałasem przekazuje:
+
+- **1)** wojewódzkim inspektorom ochrony środowiska,
+- **2)** podmiotom i organom, o których mowa w art. 119a ust. 6,
+- **3)** ministrowi właściwemu do spraw środowiska informację o uchwaleniu przez sejmik województwa programu ochrony środowiska przed hałasem. ” , dodaje się ust. 4–6 w brzmieniu: „
+    - **c)**
+
+4. Wraz z informacją, o której mowa w ust. 3, marszałek województwa przekazuje Głównemu Inspektorowi Ochrony Środowiska, na formularzu udostępnionym w Biuletynie Informacji Publicznej na stronie podmiotowej Głównego Inspektoratu Ochrony Środowiska, streszczenie, o którym mowa w art. 119a ust. 2.
+
+5. Główny Inspektor Ochrony Środowiska w terminie 30 dni od dnia upływu terminu, o którym mowa w ust. 3, powiadamia właściwego wojewódzkiego inspektora ochrony środowiska o nieprzekazaniu przez marszałka województwa informacji, o której mowa w ust. 3, i streszczenia, o którym mowa w art. 119a ust. 2.
+
+6. Główny Inspektor Ochrony Środowiska przekazuje Komisji Europejskiej streszczenie, o którym mowa w art. 119a ust. 2, w terminie 6 miesięcy od dnia upływu terminu na uchwalenie programów ochrony środowiska przed hałasem i informuje o tym ministra właściwego do spraw środowiska w terminie 7 dni od dnia przekazania Komisji Europejskiej tego streszczenia. ” ;
+
+- **14)** w art. 175: ust. 4a otrzymuje brzmienie: „
+    - **a)**
+
+4a. W przypadku dróg krajowych, linii kolejowych oraz lotnisk obowiązek, o którym mowa w ust. 3, należy wypełnić w ciągu 12 miesięcy od dnia rozpoczęcia eksploatacji przebudowanego obiektu, a jeżeli w przypadku drogi, linii kolejowej lub lotniska organ nałożył obowiązek wykonania analizy porealizacyjnej wymaganej przepisami ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko – w terminie przewidzianym na wykonanie analizy porealizacyjnej. ” , uchyla się ust. 6;
+
+- **b)**
+- **15)** uchyla się art. 179;
+- **16)** w art. 186 w ust. 1 pkt 4 otrzymuje brzmienie: „
+- **4)** wydanie pozwolenia byłoby niezgodne z programami działań, o których mowa w art. 17, art. 91 ust. 1 i art. 119a ust. 9; ” ;
+- **17)** w art. 236b w ust. 1a wyraz „usługobiorca” zastępuje się wyrazem „usługodawca”;
+- **18)** w tytule V w dziale III dodaje się rozdział 6 w brzmieniu: „
+
+#### Rozdział 6 Kary pieniężne za uchybienia w zakresie sporządzania strategicznych map hałasu oraz programów ochrony środowiska przed hałasem
+
+**Art. 315f.**
+
+1. W przypadku gdy podmiot lub organ, o którym mowa w art. 117a ust. 1 i 2, nie przekaże Głównemu Inspektorowi Ochrony Środowiska danych identyfikujących albo informacji, o której mowa w art. 117a ust. 4, w terminie, o którym mowa w art. 117a ust. 3, podlega karze pieniężnej w wysokości 1000 zł za każdy dzień opóźnienia.
+
+2. W przypadku gdy podmiot lub organ, o którym mowa w art. 118 ust. 3, nie przekaże Głównemu Inspektorowi Ochrony Środowiska w terminie, o którym mowa wart. 118 ust. 4, strategicznej mapy hałasu, zaktualizowanych danych identyfikujących, o których mowa w art. 117a ust. 8, oraz danych ze strategicznych map hałasu, o których mowa w art. 118a ust. 2, podlega karze pieniężnej w wysokości 500 000 zł.
+
+3. W przypadku, o którym mowa w art. 118a ust. 3 pkt 2, karę pieniężną wymierza się w wysokości 20% kary, o której mowa w ust. 2.
+
+4. W przypadku gdy:
+
+- **1)** sejmik województwa nie uchwali w terminie, o którym mowa w art. 119a ust. 9, programu ochrony środowiska przed hałasem,
+- **2)** marszałek województwa nie przekaże Głównemu Inspektorowi Ochrony Środowiska w terminie, o którym mowa w art. 120 ust. 3, streszczenia, o którym mowa w art. 119a ust. 2 podlega karze pieniężnej w wysokości 100 000 zł.
+
+5. Karę pieniężną, w drodze decyzji, wymierza właściwy wojewódzki inspektor ochrony środowiska.
+
+6. Wojewódzki inspektor ochrony środowiska stwierdza naruszenie, o którym mowa w:
+
+- **1)** ust. 1 – na podstawie wykazów, o których mowa w art. 117a ust. 5;
+- **2)** ust. 2 i 3 – na podstawie wykazów, o których mowa w art. 118a ust. 3;
+- **3)** ust. 4 – na podstawie powiadomienia, o którym mowa w art. 120 ust. 5.
+
+7. Po stwierdzeniu naruszenia, o którym mowa w ust. 1, wojewódzki inspektor ochrony środowiska informuje podmiot lub organ, o którym mowa w art. 117a ust. 1 lub 2, o stwierdzonym naruszeniu i zasadach wymierzania kary pieniężnej.
+
+8. Wojewódzki inspektor ochrony środowiska podejmuje decyzję o wymierzeniu kary pieniężnej za okres:
+
+- **1)** do ustania naruszenia – po stwierdzeniu z urzędu lub na wniosek podmiotu lub organu, o którym mowa w art. 117a ust. 1 lub 2, że przekroczenie lub naruszenie ustało lub
+- **2)** do dnia 31 grudnia każdego roku – jeżeli do tego dnia przekroczenie lub naruszenie nie zostało usunięte, lub
+- **3)** od dnia 1 stycznia roku następującego po roku, o którym mowa w pkt 2, do ustania naruszenia – po stwierdzeniu z urzędu lub na wniosek podmiotu lub organu, o którym mowa w art. 117a ust. 1 lub 2, że przekroczenie lub naruszenie ustało.
+
+1. Od decyzji o wymierzeniu kar pieniężnych, o których mowa w art. 315f ust. 1–4, przysługuje odwołanie do Głównego Inspektora Ochrony Środowiska.
+
+2. Karę pieniężną wnosi się na rachunek bankowy Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej w terminie 7 dni od dnia, w którym decyzja o jej wymierzeniu stała się ostateczna.
+
+3. Wpływy z tytułu kar pieniężnych stanowią przychód Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
+
+4. Kara pieniężna podlega przymusowemu ściągnięciu w trybie określonym w przepisach o postępowaniu egzekucyjnym w administracji.
+
+1. Termin płatności kary pieniężnej, o której mowa w art. 315f ust. 2, odracza się na wniosek podmiotu lub organu, o którym mowa w art. 118 ust. 3, obowiązanego do jej uiszczenia, jeżeli w momencie złożenia wniosku udokumentuje rozpoczęcie wykonywania strategicznej mapy hałasu.
+
+2. Odroczenie terminu płatności kary pieniężnej może dotyczyć części albo całości płatności kary.
+
+3. Termin płatności kary pieniężnej może być odroczony wyłącznie na okres niezbędny do sporządzenia strategicznej mapy hałasu, nie dłuższy jednak niż rok od upływu terminu, w którym mapa ta powinna być sporządzona.
+
+4. Wniosek o odroczenie terminu płatności kary pieniężnej składa się do właściwego wojewódzkiego inspektora ochrony środowiska przed upływem terminu, w którym płatność ta powinna być uiszczona.
+
+5. Złożenie wniosku o odroczenie terminu płatności kary pieniężnej nie zwalnia z obowiązku jej uiszczenia w części, w jakiej nie może podlegać odroczeniu.
+
+6. Wniosek o odroczenie terminu płatności kary pieniężnej zawiera:
+
+- **1)** wskazanie wysokości kary, o której odroczenie terminu płatności podmiot lub organ, o którym mowa art. 118 ust. 3, występuje;
+- **2)** opis zaawansowania procesu sporządzenia strategicznej mapy hałasu;
+- **3)** wnioskowany termin odroczenia płatności kary.
+
+7. Decyzja o odroczeniu terminu płatności kary pieniężnej określa:
+
+- **1)** karę, której termin płatności został odroczony, oraz jej wysokość;
+- **2)** termin odroczenia.
+
+8. Wojewódzki inspektor ochrony środowiska, w drodze decyzji, odmawia odroczenia terminu płatności kary pieniężnej, jeżeli nie są spełnione warunki, o których mowa w ust. 1 i 4.
+
+9. W przypadku gdy strategiczna mapa hałasu została sporządzona w terminie wskazanym w decyzji, o której mowa w ust. 7, wojewódzki inspektor ochrony środowiska, w drodze decyzji, orzeka o zmniejszeniu odroczonej kary pieniężnej o sumę środków wydatkowanych na sporządzenie strategicznej mapy hałasu.
+
+10. Jeżeli strategiczna mapa hałasu nie zostanie sporządzona w terminie wskazanym w decyzji, o której mowa w ust. 7, wojewódzki inspektor ochrony środowiska stwierdza, w drodze decyzji, obowiązek uiszczenia odroczonej kary pieniężnej wraz z odsetkami za zwłokę naliczanymi za okres odroczenia. Do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują wojewódzkiemu inspektorowi ochrony środowiska. W przypadku, o którym mowa w art. 315h ust. 9, do kwoty pozostającej do zapłaty stosuje się odpowiednio przepisy dotyczące opłaty prolongacyjnej. W przypadku, o którym mowa w art. 315h ust. 1, stosuje się odpowiednio przepisy w zakresie wstrzymania biegu terminu przedawnienia należności. ” ;
+
+- **19)** w art. 350 uchyla się ust. 2;
+- **20)** w art. 378: w ust. 2a w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+    - **a)**
+
+- **4)** o których mowa w art. 362 ust. 1 ̶ 3, w zakresie dróg innych niż autostrady i drogi ekspresowe, usytuowanych w miastach na prawach powiatu. ” , ust. 4 otrzymuje brzmienie: „
+    - **b)**
+
+4. Zadania samorządu województwa, o których mowa w ust. 2a i 2aa, art. 91 ust. 1, 3, 3a, 5, 9c, 9d i 9f, art. 92 ust. 1, art. 94 ust. 2 i 2a, art. 95 ust. 1, art. 96, art. 119a ust. 1, 9 i 10, art. 135 ust. 2 oraz art. 162 ust. 3, 6 i 7, są zadaniami z zakresu administracji rządowej. ” .
+
+**Art. 2.** Dane identyfikujące oraz informacja, o której mowa w art. 117a ust. 4 ustawy zmienianej w art. 1, są przekazywane Głównemu Inspektorowi Ochrony Środowiska po raz pierwszy w terminie do dnia 31 stycznia 2020 r.
+
+**Art. 3.** Arkusze sprawozdawcze, o których mowa w art. 117b ust. 1 ustawy zmienianej w art. 1, Główny Inspektor Ochrony Środowiska przekazuje Komisji Europejskiej po raz pierwszy w terminie do dnia 30 czerwca 2020 r.
+
+**Art. 4.** Strategiczne mapy hałasu są sporządzane po raz pierwszy w terminie do dnia 30 czerwca 2022 r.
+
+**Art. 5.** Sejmik województwa uchwala po raz pierwszy program ochrony środowiska przed hałasem, o którym mowa w art. 119a ust. 9 ustawy zmienianej w art. 1, w terminie do dnia 18 lipca 2024 r.
+
+**Art. 6.** Do sporządzania map akustycznych, których termin sporządzenia przypadał na dzień:
+
+- **1)** 30 czerwca 2012 r. albo
+- **2)** 30 czerwca 2017 r. stosuje się przepisy dotychczasowe.
+
+**Art. 7.** Mapy akustyczne sporządzone na podstawie art. 118 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, których termin sporządzenia przypadał na dzień 30 czerwca 2017 r., zachowują moc do dnia 30 czerwca 2022 r.
+
+**Art. 8.** Do sporządzania programów ochrony środowiska przed hałasem, których termin uchwalenia przypadał na dzień:
+
+- **1)** 18 lipca 2013 r. albo
+- **2)** 18 lipca 2018 r. stosuje się przepisy dotychczasowe.
+
+**Art. 9.** Programy ochrony środowiska przed hałasem uchwalone na podstawie art. 119 ust. 2 ustawy zmienianej w art. 1, których termin uchwalenia przypadał na dzień 18 lipca 2018 r., zachowują moc do dnia 18 lipca 2024 r.
+
+**Art. 10.**
+
+1. Do wszczętych i niezakończonych postępowań w sprawie wydania decyzji o dopuszczalnym poziomie hałasu stosuje się art. 115a ustawy zmienianej w art. 1 w brzmieniu dotychczasowym.
+
+2. Decyzje o dopuszczalnym poziomie hałasu wydane przed dniem wejścia w życie niniejszej ustawy na podstawie art. 115a ust. 1 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym pozostają w mocy.
+
+**Art. 11.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 112b ust. 1 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 112b ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 12.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 118a ust. 2 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 118 ust. 13 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 13.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 119 ust. 3 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 119a ust. 12 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 14.**
+
+1. W latach 2019 ̶ 2028 maksymalny limit wydatków budżetu państwa dla części budżetowej 41 – Środowisko będący skutkiem finansowym wejścia w życie niniejszej ustawy wynosi 3,988 mln zł, przy czym w:
+
+- **1)** 2019 r. – 0,0 mln zł;
+- **2)** 2020 r. – 1,1 mln zł;
+- **3)** 2021 r. – 0,286 mln zł;
+- **4)** 2022 r. – 0,286 mln zł;
+- **5)** 2023 r. – 0,586 mln zł;
+- **6)** 2024 r. – 0,286 mln zł;
+- **7)** 2025 r. – 0,286 mln zł;
+- **8)** 2026 r. – 0,286 mln zł;
+- **9)** 2027 r. – 0,286 mln zł;
+- **10)** 2028 r. – 0,586 mln zł.
+
+2. W latach 2019–2028 maksymalny limit wydatków budżetu państwa dla części budżetowej 85 – Województwa będący skutkiem finansowym wejścia w życie niniejszej ustawy wynosi 8,84 mln zł, przy czym w:
+
+- **1)** 2019 r. – 0,0 mln zł;
+- **2)** 2020 r. – 0,0 mln zł;
+- **3)** 2021 r. – 0,0 mln zł;
+- **4)** 2022 r. – 0,0 mln zł;
+- **5)** 2023 r. – 4,42 mln zł;
+- **6)** 2024 r. – 0,0 mln zł;
+- **7)** 2025 r. – 0,0 mln zł;
+- **8)** 2026 r. – 0,0 mln zł;
+- **9)** 2027 r. – 0,0 mln zł;
+- **10)** 2028 r. – 4,42 mln zł.
+
+3. Minister właściwy do spraw środowiska w zakresie części budżetowej 41 – Środowisko oraz właściwi wojewodowie w zakresie części budżetowej 85 – Województwa monitorują wykorzystanie limitów wydatków oraz wdrażają mechanizm korygujący, o którym mowa w ust. 4.
+
+4. W przypadku przekroczenia albo zagrożenia przekroczeniem przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa w ust. 1 i 2, odpowiednio minister właściwy do spraw środowiska albo właściwy wojewoda stosują mechanizm korygujący polegający na zmniejszeniu kosztów rzeczowych związanych z realizacją zadań wynikających z ustawy.
+
+**Art. 15.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+

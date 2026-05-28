@@ -8,12 +8,10 @@ pos: 125
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości
-
-*USTAWA z dnia 14 grudnia 2018 r.*
+# Ustawa z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości
 
 | Pole | Wartość |
 |---|---|
@@ -24,20 +22,52 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-14 |
 | Data wydania | 2019-01-22 |
+| Wejście w życie | 2019-02-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000125) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/125/text.pdf) |
-
-Art. 56–97. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zasady i warunki ochrony danych osobowych przetwarzanych przez właściwe organy w celu rozpoznawania, zapobiegania, wykrywania i zwalczania czynów zabronionych, w tym zagrożeń dla bezpieczeństwa i porządku publicznego, a także wykonywania tymczasowego aresztowania, kar, kar porządkowych i środków przymusu skutkujących pozbawieniem wolności;
+- **2)** prawa osób, których dane osobowe są przetwarzane przez właściwe organy w celach, o których mowa w pkt 1, oraz środki ochrony prawnej przysługujące tym osobom;
+- **3)** sposób prowadzenia nadzoru nad ochroną danych osobowych przetwarzanych przez właściwe organy w celach, o których mowa w pkt 1, z wyłączeniem danych osobowych przetwarzanych przez prokuraturę i sądy;
+- **4)** zadania organu nadzorczego oraz formy i sposób ich wykonania;
+- **5)** obowiązki administratora i podmiotu przetwarzającego oraz inspektora ochrony danych i tryb jego wyznaczania;
+- **6)** sposób zabezpieczenia danych osobowych;
+- **7)** tryb współpracy z organami nadzorczymi w innych państwach Unii Europejskiej;
+- **8)** odpowiedzialność karną za naruszenie przepisów niniejszej ustawy.
+
 **Art. 2.** Ustawę stosuje się do przetwarzania danych osobowych przez właściwe organy w celach, o których mowa w art. 1 pkt 1, w sposób:
+
+- **1)** całkowicie lub częściowo zautomatyzowany;
+- **2)** inny niż zautomatyzowany, w przypadku gdy dane te stanowią lub mają stanowić część zbioru danych.
 
 **Art. 3.** Przepisów ustawy nie stosuje się do ochrony danych osobowych:
 
+- **1)** znajdujących się w aktach spraw lub czynności lub urządzeniach ewidencyjnych, w tym tworzonych i przetwarzanych z wykorzystaniem technik informatycznych, prowadzonych na podstawie ustawy z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich (Dz. U. z 2018 r. poz. 969), ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2018 r. poz. 652, 1010, 1387 i 2432), ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2018 r. poz. 1987 i 2399), ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2018 r. poz. 1958, 2192, 2193, 2227 i 2354), ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2018 r. poz. 475, z późn. zm.), ustawy z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób (Dz. U. z 2014 r. poz. 24, z 2015 r. poz. 396, z 2016 r. poz. 2205 oraz z 2018 r. poz. 2435), ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2017 r. poz. 1767 oraz z 2018 r. poz. 5, 1000, 1443 i 1669);
+- **2)** przetwarzanych w związku z zapewnieniem bezpieczeństwa narodowego, w tym w ramach realizacji zadań ustawowych Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego oraz Centralnego Biura Antykorupcyjnego.
+
 **Art. 4.** Ilekroć w ustawie jest mowa o:
+
+- **1)** administratorze – rozumie się przez to właściwy organ, który samodzielnie lub wspólnie z innym właściwym organem lub właściwymi organami ustala cele i sposoby przetwarzania danych osobowych, podmiot wskazany przez ustawę jako administrator, jeżeli cele i sposoby przetwarzania danych osobowych są określone w ustawie, albo podmiot wskazany przez prawo Unii Europejskiej albo prawo państwa członkowskiego Unii Europejskiej lub podmiot wyznaczony zgodnie z kryteriami określonymi w prawie tego państwa;
+- **2)** danych biometrycznych – rozumie się przez to dane osobowe dotyczące cech fizycznych, fizjologicznych lub behawioralnych osoby fizycznej oraz umożliwiające lub potwierdzające jednoznaczną identyfikację tej osoby, w tym wizerunek twarzy lub dane daktyloskopijne, które zostały uzyskane wskutek specjalnego przetwarzania technicznego;
+- **3)** danych dotyczących zdrowia – rozumie się przez to dane osobowe dotyczące zdrowia fizycznego lub psychicznego osoby fizycznej, w tym dane o korzystaniu z usług opieki zdrowotnej, które ujawniają informacje o stanie jej zdrowia;
+- **4)** danych genetycznych – rozumie się przez to dane osobowe dotyczące odziedziczonych lub nabytych cech genetycznych osoby fizycznej, które ujawniają niepowtarzalne informacje o fizjologii lub zdrowiu tej osoby i które zostały uzyskane w szczególności z analizy próbki biologicznej pochodzącej od tej osoby;
+- **5)** danych osobowych – rozumie się przez to dane osobowe, o których mowa w art. 4 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych osobowych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.) ;
+- **6)** naruszeniu ochrony danych osobowych – rozumie się przez to naruszenie bezpieczeństwa prowadzące do przypadkowego lub niezgodnego z prawem zniszczenia, utracenia, zmodyfikowania, nieuprawnionego ujawnienia lub nieuprawnionego dostępu do danych osobowych przesyłanych, przechowywanych lub w inny sposób przetwarzanych;
+- **7)** odbiorcy – rozumie się przez to osobę fizyczną lub prawną, organ władzy publicznej, jednostkę organizacyjną lub inny podmiot, któremu ujawnia się dane osobowe, z wyłączeniem organów administracji publicznej, które mogą otrzymywać dane osobowe w ramach konkretnego postępowania zgodnie z prawem Unii Europejskiej lub prawem państwa członkowskiego Unii Europejskiej, a przetwarzanie tych danych jest zgodne z przepisami o ochronie danych mającymi zastosowanie do ich celów przetwarzania;
+- **8)** ograniczeniu przetwarzania – rozumie się przez to oznaczenie przechowywanych danych osobowych w celu ograniczenia ich przyszłego przetwarzania;
+- **9)** organie nadzorczym w innych państwach Unii Europejskiej – rozumie się przez to niezależny organ publiczny ustanowiony przez inne niż Rzeczpospolita Polska państwo członkowskie Unii Europejskiej, powołany dla ochrony podstawowych praw i wolności osób fizycznych w związku z przetwarzaniem oraz ułatwiania swobodnego przepływu danych osobowych w Unii Europejskiej;
+- **10)** organizacji międzynarodowej – rozumie się przez to organizację i organy jej podlegające działające na podstawie prawa międzynarodowego publicznego lub inny organ powołany w drodze umowy między co najmniej dwoma państwami lub na podstawie takiej umowy;
+- **11)** państwie trzecim – rozumie się przez to państwo niebędące państwem członkowskim Unii Europejskiej i niestosujące przepisów dorobku Schengen;
+- **12)** podmiocie przetwarzającym – rozumie się przez to osobę fizyczną lub prawną, organ władzy publicznej, jednostkę organizacyjną lub inny podmiot, który przetwarza dane osobowe w imieniu administratora;
+- **13)** profilowaniu – rozumie się przez to dowolną formę zautomatyzowanego przetwarzania danych osobowych, która polega na ich wykorzystaniu do oceny niektórych cech osoby fizycznej, w szczególności do analizy lub prognozy aspektów dotyczących efektów pracy tej osoby, jej sytuacji ekonomicznej, zdrowia, zainteresowań, wiarygodności, zachowania, lokalizacji lub przemieszczania się;
+- **14)** przetwarzaniu – rozumie się przez to operację lub zestaw operacji wykonywanych na danych osobowych lub zestawach danych osobowych w sposób zautomatyzowany lub niezautomatyzowany, takich jak: zbieranie, utrwalanie, organizowanie, porządkowanie, przechowywanie, adaptowanie lub modyfikowanie, pobieranie, przeglądanie, wykorzystywanie, ujawnianie przez przesłanie, rozpowszechnianie lub innego rodzaju udostępnianie, dopasowywanie lub łączenie, ograniczanie, usuwanie lub niszczenie;
+- **15)** pseudonimizacji – rozumie się przez to przetworzenie danych osobowych w taki sposób, aby nie można ich było już przypisać konkretnej osobie, której dane dotyczą, bez użycia dodatkowych informacji, pod warunkiem że takie dodatkowe informacje są przechowywane osobno i są objęte środkami technicznymi i organizacyjnymi uniemożliwiającymi ich przypisanie zidentyfikowanej lub możliwej do zidentyfikowania osobie fizycznej;
+- **16)** właściwym organie – rozumie się przez to organ władzy publicznej, jednostkę organizacyjną lub inny podmiot uprawniony na podstawie odrębnych przepisów do przetwarzania danych osobowych;
+- **17)** zbiorze danych – rozumie się przez to uporządkowany zestaw danych osobowych dostępnych według określonych kryteriów, niezależnie od tego, czy jest scentralizowany, zdecentralizowany czy rozproszony funkcjonalnie lub geograficznie.
 
 #### Rozdział 2 Zadania organu nadzorczego
 
@@ -62,7 +92,7 @@ Art. 56–97. (pominięte)
 
 3. Projekty ustaw i rozporządzeń dotyczące danych osobowych przetwarzanych w celu, o którym mowa w art. 1 pkt 1, są przedstawiane do zaopiniowania Prezesowi Urzędu.
 
-**Art. 6.** W celu wykonania zadań, o których mowa w art. 5 ust. 1 pkt 1 i 6–8, Prezes Urzędu może przeprowadzać kontrolę przetwarzania danych osobowych, zwaną dalej „kontrolą”. Do prowadzenia kontroli stosuje się odpowiednio przepisy rozdziału 9 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r. poz. 1781), z wyłączeniem art. 79 ust. 1 pkt 2, art. 83, art. 84 ust. 4 i art. 85 tej ustawy.
+**Art. 6.** W celu wykonania zadań, o których mowa w art. 5 ust. 1 pkt 1 i 6–8, Prezes Urzędu może przeprowadzać kontrolę przetwarzania danych osobowych, zwaną dalej „kontrolą”. Do prowadzenia kontroli stosuje się odpowiednio przepisy rozdziału 9 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. poz. 1000 i 1669), z wyłączeniem art. 79 ust. 1 pkt 2, art. 83, art. 84 ust. 4 i art. 85 tej ustawy.
 
 **Art. 7.** W toku kontroli upoważniony przez Prezesa Urzędu pracownik Urzędu Ochrony Danych Osobowych, zwany dalej „kontrolującym”, ma prawo wglądu do zbioru danych podlegającego kontroli oraz do innych dokumentów mających bezpośredni związek z przedmiotem kontroli. Kontrolujący ma prawo wglądu do zbioru danych oraz do innych dokumentów, o których mowa w zdaniu pierwszym, jedynie w obecności upoważnionego przedstawiciela właściwego organu, w którym jest prowadzona kontrola.
 
@@ -101,7 +131,7 @@ Art. 56–97. (pominięte)
 
 3. Przeprowadzenie przez inspektora ochrony danych sprawdzenia w przypadku, o którym mowa w ust. 1, nie wyłącza prawa Prezesa Urzędu do przeprowadzenia kontroli, o której mowa w art. 7.
 
-**Art. 12.** Do postępowań w sprawach objętych zakresem regulacji niniejszego rozdziału stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775), zwanej dalej „Kodeksem postępowania administracyjnego”, o ile przepisy niniejszej ustawy nie stanowią inaczej.
+**Art. 12.** Do postępowań w sprawach objętych zakresem regulacji niniejszego rozdziału stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096 oraz z 2019 r. poz. 60), zwanej dalej „Kodeksem postępowania administracyjnego”, o ile przepisy niniejszej ustawy nie stanowią inaczej.
 
 #### Rozdział 3 Zasady dotyczące przetwarzania danych osobowych
 
@@ -147,6 +177,11 @@ Art. 56–97. (pominięte)
 **Art. 18.** Jeżeli dane osobowe są przetwarzane w związku z dokumentowaniem czynności realizowanych przez właściwe organy, jako elektroniczna kopia akt kontrolnych, dane pozostawia się po ich zanonimizowaniu.
 
 **Art. 19.** Przy przetwarzaniu danych osobowych administrator zapewnia rozróżnienie, o ile jest ono możliwe lub nie jest dalece utrudnione, na dane osobowe dotyczące:
+
+- **1)** osób, w stosunku do których istnieją poważne podstawy, aby przypuszczać, że popełniły lub zamierzają popełnić czyn zabroniony;
+- **2)** osób skazanych za czyn zabroniony;
+- **3)** pokrzywdzonych czynem zabronionym lub osób, w przypadku których określone fakty wskazują, że mogą stać się ofiarami czynu zabronionego;
+- **4)** innych osób związanych z czynem zabronionym, takich jak osoby, które mogą zostać wezwane do złożenia zeznań w sprawie czynu zabronionego lub na dalszych etapach postępowania, osoby, które mogą dostarczyć informacji o czynach zabronionych, lub osoby, które mają kontakty lub powiązania z jedną z osób, o których mowa w pkt 1 i 2.
 
 **Art. 20.** Przy przetwarzaniu danych osobowych administrator zapewnia rozróżnienie, o ile jest ono możliwe lub nie jest dalece utrudnione, na dane osobowe mające swoje źródło w faktach i dane osobowe mające swoje źródło w indywidualnych ocenach.
 
@@ -232,7 +267,7 @@ Art. 56–97. (pominięte)
 1. Jeżeli:
 
 - **1)** osoba, której dane dotyczą, kwestionuje prawidłowość danych osobowych, a ich prawidłowości lub nieprawidłowości nie można stwierdzić,
-- **2)** dane osobowe, które podlegają usunięciu, muszą zostać zachowane do celów dowodowych – administrator jest obowiązany bez zbędnej zwłoki do czasowego ograniczenia przetwarzania kwestionowanych danych polegającego na nieudostępnianiu tych danych odbiorcom.
+- **2)** dane osobowe, które podlegają usunięciu, muszą zostać zachowane do celów dowodowych administrator jest obowiązany bez zbędnej zwłoki do czasowego ograniczenia przetwarzania kwestionowanych danych polegającego na nieudostępnianiu tych danych odbiorcom.
 
 2. Administrator jest obowiązany poinformować bez zbędnej zwłoki właściwy organ, od którego pochodzą nieprawidłowe dane osobowe, o dokonanym sprostowaniu tych danych.
 
@@ -248,7 +283,7 @@ Art. 56–97. (pominięte)
 
 - **1)** ujawnienie informacji uzyskanych w wyniku czynności operacyjno-rozpoznawczych;
 - **2)** utrudnienie lub uniemożliwienie rozpoznawania, zapobiegania, wykrywania lub zwalczania czynów zabronionych;
-- **3)** utrudnienie prowadzenia postępowania karnego, karnego wykonawczego, karnego skarbowego lub w sprawach o wykroczenia lub wykroczenia skarbowe, lub w sprawach, o których mowa w art. 359 ust. 1 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich;
+- **3)** utrudnienie prowadzenia postępowania karnego, karnego wykonawczego, karnego skarbowego lub w sprawach o wykroczenia lub wykroczenia skarbowe;
 - **4)** zagrożenie życia, zdrowia ludzkiego lub bezpieczeństwa i porządku publicznego;
 - **5)** zagrożenie bezpieczeństwa narodowego, w tym obronności lub bezpieczeństwa oraz ekonomicznych podstaw funkcjonowania państwa;
 - **6)** istotne naruszenie dóbr osobistych innych osób.
@@ -267,7 +302,7 @@ Art. 56–97. (pominięte)
 
 2. Administrator udziela informacji, o których mowa w art. 15, art. 22–25 i art. 45, osobie, której dane dotyczą, jasnym i prostym językiem, w takiej samej postaci, w jakiej wniesiono wniosek, chyba że udzielenie informacji w takiej postaci powodowałoby nadmierne trudności lub koszty lub przepis niniejszej ustawy stanowi inaczej.
 
-3. Administrator, bez zbędnej zwłoki, informuje pisemnie w postaci papierowej lub elektronicznej lub za pośrednictwem środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344) osobę, której dane dotyczą, o działaniach podjętych w związku z jej wnioskiem lub, jeżeli to możliwe, udziela wnioskowanych informacji.
+3. Administrator, bez zbędnej zwłoki, informuje pisemnie w postaci papierowej lub elektronicznej lub za pośrednictwem środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2019 r. poz. 123) osobę, której dane dotyczą, o działaniach podjętych w związku z jej wnioskiem lub, jeżeli to możliwe, udziela wnioskowanych informacji.
 
 4. Komunikacja prowadzona przez administratora z osobą, której dane dotyczą, na podstawie art. 15, art. 22–25 i art. 45 jest wolna od opłat. Jeżeli żądania osoby, której dane dotyczą, są nieuzasadnione lub nadmierne, zwłaszcza ze względu na ich powtarzalność, administrator może:
 
@@ -321,9 +356,9 @@ Art. 56–97. (pominięte)
 
 2. Współadministratorzy:
 
-- **1)** uzgadniają w drodze pisemnego porozumienia podział swoich obowiązków, w szczególności w zakresie:
-    - **a)** realizacji przez osobę, której dane dotyczą, przysługujących jej praw na mocy niniejszej ustawy,
-    - **b)** udzielania informacji, o których mowa w art. 22 ust. 4 – chyba że przepisy prawa, którym ci administratorzy podlegają, określają przypadające im obowiązki i ich zakres;
+- **1)** uzgadniają w drodze pisemnego porozumienia podział swoich obowiązków, w szczególności w zakresie: realizacji przez osobę, której dane dotyczą, przysługujących jej praw na mocy niniejszej ustawy, udzielania informacji, o których mowa w art. 22 ust. 4 chyba że przepisy prawa, którym ci administratorzy podlegają, określają przypadające im obowiązki i ich zakres;
+    - **a)**
+    - **b)**
 
 - **2)** wyznaczają punkt kontaktowy dla osób, których dane dotyczą, w celu realizacji obowiązku, o którym mowa w pkt 1 lit. a.
 
@@ -351,9 +386,9 @@ Art. 56–97. (pominięte)
 - **2)** działać wyłącznie zgodnie z upoważnieniem administratora;
 - **3)** zapewnić, aby osoby upoważnione do przetwarzania danych osobowych zobowiązały się do zachowania poufności, również w zakresie środków technicznych ich zabezpieczenia;
 - **4)** pomagać administratorowi w przestrzeganiu przepisów określających prawa osoby, której dane dotyczą;
-- **5)** po zakończeniu świadczenia usługi przetwarzania danych, w zależności od decyzji administratora:
-    - **a)** usunąć lub zwrócić administratorowi wszelkie dane osobowe oraz
-    - **b)** usunąć wszelkie istniejące kopie danych osobowych – chyba że przepisy prawa wymagają przechowywania danych osobowych;
+- **5)** po zakończeniu świadczenia usługi przetwarzania danych, w zależności od decyzji administratora: usunąć lub zwrócić administratorowi wszelkie dane osobowe oraz usunąć wszelkie istniejące kopie danych osobowych chyba że przepisy prawa wymagają przechowywania danych osobowych;
+    - **a)**
+    - **b)**
 
 - **6)** udostępniać administratorowi wszelkie informacje związane z weryfikacją prawidłowości realizacji umowy powierzenia, o której mowa w ust. 1;
 - **7)** przestrzegać warunków korzystania z usług innego podmiotu przetwarzającego, któremu powierzył przetwarzanie danych osobowych.
@@ -370,11 +405,11 @@ Art. 56–97. (pominięte)
 
 2. W wykazie, o którym mowa w ust. 1, zamieszcza się następujące informacje:
 
-- **1)** imię i nazwisko lub nazwę oraz dane kontaktowe:
-    - **a)** administratora,
-    - **b)** współadministratora – w przypadku, o którym mowa w art. 33 ust. 1,
-    - **c)** inspektora ochrony danych,
-    - **d)** podmiotu przetwarzającego – w przypadku, o którym mowa w art. 34 ust. 2 i 6;
+- **1)** imię i nazwisko lub nazwę oraz dane kontaktowe: administratora, współadministratora – w przypadku, o którym mowa w art. 33 ust. 1, inspektora ochrony danych, podmiotu przetwarzającego – w przypadku, o którym mowa w art. 34 ust. 2 i 6;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **2)** cele przetwarzania;
 - **3)** kategorie odbiorców, którym dane osobowe zostały lub zostaną ujawnione, w tym odbiorców w państwach trzecich lub organizacjach międzynarodowych;
@@ -389,10 +424,10 @@ Art. 56–97. (pominięte)
 
 4. W wykazie, o którym mowa w ust. 3, zamieszcza się następujące informacje:
 
-- **1)** imię i nazwisko lub nazwę oraz dane kontaktowe:
-    - **a)** podmiotu przetwarzającego w przypadku, o którym mowa w art. 34 ust. 2 i 6,
-    - **b)** każdego administratora, w imieniu którego działa podmiot przetwarzający,
-    - **c)** inspektora ochrony danych;
+- **1)** imię i nazwisko lub nazwę oraz dane kontaktowe: podmiotu przetwarzającego w przypadku, o którym mowa w art. 34 ust. 2 i 6, każdego administratora, w imieniu którego działa podmiot przetwarzający, inspektora ochrony danych;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **2)** kategorie przetwarzań dokonywanych w imieniu każdego z administratorów;
 - **3)** przypadki przekazania danych osobowych do państw trzecich lub organizacji międzynarodowej, w razie jednoznacznego polecenia administratora, łącznie z nazwą tego państwa trzeciego lub organizacji międzynarodowej – w przypadku gdy przekazanie nastąpiło;
@@ -469,6 +504,17 @@ Art. 56–97. (pominięte)
 
 **Art. 39.** Administrator i podmiot przetwarzający stosują środki techniczne i organizacyjne zapewniające ochronę przetwarzanych danych osobowych, odpowiednią do zagrożeń oraz kategorii danych objętych ochroną, które w szczególności mają na celu:
 
+- **1)** uniemożliwienie osobom nieuprawnionym dostępu do sprzętu używanego do przetwarzania (kontrola dostępu do sprzętu);
+- **2)** zapobiegnięcie nieuprawnionemu odczytywaniu, kopiowaniu, zmienianiu lub usuwaniu nośników danych (kontrola nośników danych);
+- **3)** zapobiegnięcie nieuprawnionemu wprowadzaniu danych osobowych oraz nieuprawnionemu oglądaniu, zmienianiu lub usuwaniu przechowywanych danych osobowych (kontrola przechowywania);
+- **4)** zapobiegnięcie korzystaniu z systemów zautomatyzowanego przetwarzania przez osoby nieuprawnione, używające sprzętu do przesyłu danych (kontrola użytkowników);
+- **5)** zapewnienie osobom, uprawnionym do korzystania z systemu zautomatyzowanego przetwarzania, dostępu wyłącznie do danych osobowych objętych posiadanym przez siebie uprawnieniem (kontrola dostępu do danych);
+- **6)** umożliwienie zweryfikowania i ustalenia podmiotów, którym dane osobowe zostały lub mogą zostać przesłane lub udostępnione, za pomocą sprzętu do przesyłu danych (kontrola przesyłu danych);
+- **7)** umożliwienie następczej weryfikacji i ustalenia, które dane osobowe zostały wprowadzone do systemów zautomatyzowanego przetwarzania, kiedy i przez kogo (kontrola wprowadzania danych);
+- **8)** zapobieżenie nieuprawnionemu odczytywaniu, kopiowaniu, zmienianiu lub usuwaniu danych osobowych podczas ich przekazywania lub podczas przenoszenia nośników danych (kontrola transportu);
+- **9)** zapewnienie przywrócenia zainstalowanych systemów w razie awarii (odzyskiwanie);
+- **10)** zapewnienie działania funkcji systemu, zgłaszania występujących w nich błędów (niezawodność) oraz odporności przechowywanych danych na uszkodzenia powodowane błędnym działaniem systemu (integralność).
+
 **Art. 40.** Administrator i podmiot przetwarzający niszczą w sposób trwały niepodlegające archiwizacji informatyczne nośniki danych wykorzystywane do przetwarzania danych osobowych wycofane z eksploatacji przy użyciu odpowiednich narzędzi i środków technicznych. Nośniki wycofane z eksploatacji nie mogą być zbywane. Ze zniszczenia nośników sporządza się protokół, w którym uwzględnia się wskazanie sposobu ich zniszczenia.
 
 **Art. 41.**
@@ -519,7 +565,7 @@ Art. 56–97. (pominięte)
 7. W przypadku gdy naruszenie ochrony danych osobowych dotyczyło danych osobowych:
 
 - **1)** otrzymanych od administratora innego państwa członkowskiego Unii Europejskiej,
-- **2)** przesłanych do administratora innego państwa członkowskiego Unii Europejskiej – informacje, o których mowa w ust. 4, przekazuje się bez zbędnej zwłoki administratorowi tego państwa członkowskiego Unii Europejskiej.
+- **2)** przesłanych do administratora innego państwa członkowskiego Unii Europejskiej informacje, o których mowa w ust. 4, przekazuje się bez zbędnej zwłoki administratorowi tego państwa członkowskiego Unii Europejskiej.
 
 8. Prezes Urzędu może przeprowadzać kontrolę realizacji przez administratora obowiązków, o których mowa w ust. 1–7.
 
@@ -596,170 +642,6 @@ Art. 56–97. (pominięte)
 
 3. Administrator może powierzyć inspektorowi ochrony danych wykonywanie innych obowiązków, jeżeli nie naruszy to prawidłowego wykonywania zadań inspektora ochrony danych oraz nie spowoduje to konfliktu interesów.
 
-4. Prezes Rady Ministrów określi, w drodze rozporządzenia, tryb i sposób realizacji zadań, o których mowa w ust. 1, uwzględniając konieczność zapewnienia prawidłowości realizacji zadań inspektora ochrony danych oraz niezależności i organizacyjnej odrębności w wykonywaniu przez niego zadań.
+4.
 
-#### Rozdział 6 Współpraca z organami nadzorczymi w innych państwach Unii Europejskiej
-
-**Art. 48.**
-
-1. Prezes Urzędu udziela pomocy organom nadzorczym w innych państwach Unii Europejskiej na ich wniosek.
-
-2. Wniosek o pomoc dotyczy w szczególności:
-
-- **1)** udzielenia informacji;
-- **2)** przeprowadzenia:
-    - **a)** konsultacji,
-    - **b)** kontroli,
-    - **c)** postępowań.
-
-3. Prezes Urzędu podejmuje wszelkie działania, aby wniosek o pomoc zrealizować bez zbędnej zwłoki, nie później niż w terminie jednego miesiąca po otrzymaniu wniosku.
-
-4. Prezes Urzędu może odmówić realizacji wniosku o pomoc wyłącznie w przypadku, gdy:
-
-- **1)** nie jest organem właściwym w zakresie przedmiotu tego wniosku;
-- **2)** wykonanie tego wniosku naruszyłoby przepis prawa.
-
-5. Prezes Urzędu informuje organ nadzorczy w innych państwach Unii Europejskiej, od którego wniosek pochodzi, o odmowie realizacji wniosku oraz przedstawia powody odmowy.
-
-6. Prezes Urzędu informuje organ nadzorczy w innych państwach Unii Europejskiej, od którego wniosek pochodzi, o wynikach lub, w razie potrzeby, o postępach lub działaniach podjętych w celu udzielenia odpowiedzi na ten wniosek.
-
-7. Prezes Urzędu przekazuje informacje organowi nadzorczemu w innych państwach Unii Europejskiej, od którego wniosek pochodzi, pisemnie w formie papierowej lub elektronicznej w uzgodnionym formacie.
-
-8. Prezes Urzędu nie pobiera od organu nadzorczego w innych państwach Unii Europejskiej, od którego wniosek pochodzi, opłaty za działania podejmowane w związku z jego realizacją.
-
-9. W szczególnie uzasadnionych przypadkach Prezes Urzędu oraz organ nadzorczy w innych państwach Unii Europejskiej mogą uzgodnić zasady wzajemnej rekompensaty wydatków poniesionych w wyniku realizacji konkretnego wniosku o pomoc.
-
-**Art. 49.**
-
-1. Prezes Urzędu może występować do organu nadzorczego w innych państwach Unii Europejskiej z wnioskiem o pomoc, w szczególności o udzielenie informacji, przeprowadzenie konsultacji, kontroli lub postępowań.
-
-2. Wniosek o pomoc zawiera wszelkie niezbędne informacje, w tym cel i uzasadnienie wniosku.
-
-3. Prezes Urzędu może wykorzystywać informacje otrzymane od organu nadzorczego w innych państwach Unii Europejskiej wyłącznie w celu określonym we wniosku o pomoc.
-
-4. Prezes Urzędu może wnosić o uzyskanie od organu nadzorczego w innych państwach Unii Europejskiej informacji o wynikach lub, w razie potrzeby, o postępach lub działaniach podjętych w celu udzielenia odpowiedzi na ten wniosek.
-
-#### Rozdział 7 Środki ochrony prawnej i odpowiedzialność prawna
-
-**Art. 50.**
-
-1. Osobie, której dane osobowe są przetwarzane niezgodnie z prawem, przysługuje prawo wniesienia skargi do Prezesa Urzędu w terminie 30 dni od powzięcia wiadomości o tym naruszeniu lub otrzymania informacji od administratora.
-
-2. Prezes Urzędu udziela osobie, która wniosła skargę, pomocy prawnej na jej wniosek do czasu rozpatrzenia skargi przez Prezesa Urzędu.
-
-3. Skargę można wnieść za pomocą formularza zamieszczonego w Biuletynie Informacji Publicznej na stronie podmiotowej Prezesa Urzędu, pisemnie, faxem, elektronicznie lub za pomocą elektronicznej platformy usług administracji publicznej ePUAP.
-
-4. Prezes Urzędu informuje osobę, która wniosła skargę, o postępach w jej wyjaśnianiu, sposobie jej rozpatrzenia oraz możliwości złożenia skargi do sądu administracyjnego. Do rozpatrywania skarg stosuje się odpowiednio przepisy art. 225, art. 231 oraz art. 237–239 Kodeksu postępowania administracyjnego.
-
-5. Prezes Urzędu nie przekazuje osobie, która wniosła skargę, informacji mogących wskazywać na przetwarzanie danych osobowych przez organy właściwe w sytuacjach, o których mowa w art. 26 ust. 1.
-
-6. Prawo do zgłoszenia naruszenia przetwarzania danych osobowych przysługuje również osobom innym niż wymienione w ust. 1 w przypadku powzięcia przez nie wiarygodnej wiadomości o tym naruszeniu. Do rozpatrywania zgłoszeń stosuje się odpowiednio art. 225 Kodeksu postępowania administracyjnego.
-
-7. Dane zgłaszającego naruszenie, o którym mowa w ust. 6, Prezes Urzędu zachowuje w poufności na uzasadniony wniosek zgłaszającego.
-
-**Art. 51.**
-
-1. Każdemu podmiotowi, wobec którego Prezes Urzędu wydał decyzję, przysługuje prawo do wniesienia na tę decyzję skargi do sądu administracyjnego.
-
-2. Każdej osobie, której dane dotyczą, przysługuje prawo do wniesienia do sądu administracyjnego skargi, jeżeli Prezes Urzędu nie rozpatrzył skargi lub zgłoszenia wniesionego na mocy art. 50 lub nie poinformował osoby, której dane dotyczą, w terminie 3 miesięcy od dnia wpływu skargi, o postępach lub wyniku jej rozpatrzenia.
-
-3. Do rozpatrywania skarg stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2023 r. poz. 259), z tym że:
-
-- **1)** przekazanie akt i odpowiedzi na skargę następuje w terminie 30 dni od dnia otrzymania skargi;
-- **2)** skargę rozpatruje się w terminie 30 dni od dnia otrzymania akt wraz z odpowiedzią na skargę.
-
-**Art. 52.** Osoba, której dane dotyczą, może umocować organizację społeczną o charakterze niezarobkowym, prowadzącą działalność statutową w interesie publicznym i działającą w dziedzinie ochrony praw i wolności osób, których dane dotyczą, w związku z ochroną ich danych osobowych – do wykonywania w jej imieniu praw, w tym wnoszenia środków zaskarżenia określonych w niniejszym rozdziale.
-
-**Art. 53.**
-
-1. Osobie, która poniosła szkodę lub doznała krzywdy w wyniku czynności naruszającej przepisy niniejszej ustawy, przysługuje od administratora odszkodowanie lub zadośćuczynienie.
-
-2. W sprawach o roszczenia, o których mowa w ust. 1, stosuje się odpowiednio przepisy rozdziału 10 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych.
-
-3. W sprawach o stwierdzenie niezgodności działania administratora z przepisami niniejszej ustawy, Prezes Urzędu może wytoczyć powództwo na rzecz i w imieniu osoby, o której mowa w ust. 1, a także wstąpić do postępowania przed sądem w każdym jego stadium.
-
-4. W przypadku przystąpienia Prezesa Urzędu do toczącego się postępowania przed sądem stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ) o interweniencie ubocznym.
-
-#### Rozdział 8 Przepisy karne
-
-**Art. 54.**
-
-1. Kto przetwarza dane osobowe, o których mowa w przepisach o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości, choć ich przetwarzanie nie jest dopuszczalne albo do których przetwarzania nie jest uprawniony, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat dwóch.
-
-2. Jeżeli czyn określony w ust. 1 dotyczy danych wrażliwych, sprawca podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat trzech.
-
-**Art. 55.** Kto udaremnia lub istotnie utrudnia kontrolującemu przeprowadzenie kontroli przestrzegania przepisów o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat dwóch.
-
-#### Rozdział 9 Zmiany w przepisach
-
-#### Rozdział 10 Przepisy przejściowe, dostosowujące i końcowe
-
-**Art. 98.**
-
-1. Osoba pełniąca w dniu wejścia w życie niniejszej ustawy funkcję inspektora ochrony danych osobowych na podstawie przepisów ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. poz. 1000 i 1669), staje się inspektorem ochrony danych i pełni swoją funkcję nie dłużej jednak niż 3 miesiące od dnia wejścia w życie niniejszej ustawy, chyba że przed tym dniem administrator zawiadomi Prezesa Urzędu Ochrony Danych Osobowych o wyznaczeniu innej osoby na inspektora ochrony danych, w sposób określony w art. 46.
-
-2. Osoba, która stała się inspektorem ochrony danych na podstawie ust. 1, pełni swoją funkcję także po upływie 3 miesięcy od dnia wejścia w życie niniejszej ustawy, jeżeli do tego dnia administrator zawiadomi Prezesa Urzędu Ochrony Danych Osobowych o jej wyznaczeniu, w sposób określony w art. 46.
-
-3. Administrator, który do dnia wejścia w życie niniejszej ustawy nie powołał inspektora ochrony danych osobowych, o którym mowa w ustawie z dnia 10 maja 2018 r. o ochronie danych osobowych, jest obowiązany do wyznaczenia inspektora ochrony danych i zawiadomienia Prezesa Urzędu Ochrony Danych Osobowych o jego wyznaczeniu, w terminie 1 miesiąca od dnia wejścia w życie niniejszej ustawy.
-
-**Art. 99.**
-
-1. Do kontroli wszczętych na podstawie przepisów ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2016 r. poz. 922 oraz z 2018 r. poz. 138 i 723) i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
-
-2. Upoważnienia oraz legitymacje służbowe wydane przed dniem wejścia w życie niniejszej ustawy zachowują ważność do czasu zakończenia kontroli, o których mowa w ust. 1.
-
-**Art. 100.**
-
-1. Postępowania prowadzone przez Prezesa Urzędu Ochrony Danych Osobowych, wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy, prowadzone są na podstawie przepisów dotychczasowych.
-
-2. Czynności dokonane w postępowaniach, o których mowa w ust. 1, pozostają skuteczne, o ile zostały dokonane zgodnie z przepisami obowiązującymi w czasie ich dokonywania.
-
-3. W przypadku wniesienia przed dniem wejścia w życie niniejszej ustawy, na podstawie art. 21 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych, wniosku o ponowne rozpatrzenie sprawy, będące w toku postępowanie wszczęte tym wnioskiem umarza się z mocy prawa z dniem wejścia w życie niniejszej ustawy.
-
-4. Stronę, która zainicjowała postępowanie, o którym mowa w ust. 3, organ poucza o prawie złożenia do sądu administracyjnego skargi na decyzję, od której strona złożyła wniosek o ponowne rozpatrzenie sprawy.
-
-5. Termin na wniesienie skargi w przypadku, o którym mowa w ust. 4, wynosi 3 miesiące od dnia doręczenia pouczenia. Do czasu upływu tego terminu decyzja, od której strona złożyła wniosek o ponowne rozpatrzenie sprawy, nie podlega wykonaniu.
-
-**Art. 101.** Podmiot, do którego przed dniem wejścia w życie niniejszej ustawy zostało skierowane wystąpienie lub wniosek, o których mowa w art. 19a ust. 1 i 2 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych, jest obowiązany przekazać Prezesowi Urzędu Ochrony Danych Osobowych odpowiedź na wystąpienie lub wniosek, na piśmie, w terminie 30 dni od dnia wejścia w życie niniejszej ustawy.
-
-**Art. 102.**
-
-1. W terminie 1 roku od dnia wejścia w życie niniejszej ustawy administrator dostosowuje zasady przetwarzania danych osobowych do środków technicznych i organizacyjnych, o których mowa w art. 39.
-
-2. Jeżeli wymaga to niewspółmiernie dużego wysiłku lub nakładów, administrator może dostosować zautomatyzowane systemy przetwarzania danych osobowych do środków technicznych i organizacyjnych, w terminie dłuższym niż wskazany w ust. 1, nie później jednak niż do dnia 6 maja 2023 r.
-
-3. Dotychczasowe rozstrzygnięcia określające zasady udostępniania informacji i danych osobowych z Centralnej Bazy Danych Osób Pozbawionych Wolności, za pośrednictwem systemu teleinformatycznego, zachowują moc do dnia wejścia w życie decyzji wydanych na podstawie art. 25d ust. 1 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej, nie dłużej jednak niż przez okres 2 lat od dnia wejścia w życie niniejszej ustawy.
-
-4. Dostosowanie zasad przetwarzania informacji i danych osobowych w zbiorach danych utworzonych przed dniem wejścia w życie niniejszej ustawy do wymogów, o których mowa w art. 19, art. 20 i art. 36, nastąpi nie później niż do dnia 6 maja 2023 r.
-
-**Art. 103.** Wydane przed dniem wejścia w życie ustawy upoważnienia do przetwarzania danych osobowych zachowują moc przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
-
-**Art. 104.** Zgody wydane przez służby, instytucje państwowe oraz organy władzy publicznej na udostępnianie za pomocą urządzeń telekomunikacyjnych lub w drodze teletransmisji informacji, w tym danych osobowych, jednostkom organizacyjnym Policji, jednostkom organizacyjnym Straży Granicznej, Służbie Ochrony Państwa oraz organom Krajowej Administracji Skarbowej zachowują swoją moc, z zastrzeżeniem art. 102 ust. 3.
-
-**Art. 105.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
-
-**Art. 106.**
-
-1. Maksymalny limit wydatków z budżetu państwa przeznaczonych na wykonywanie zadań wynikających z niniejszej ustawy wynosi w:
-
-- **1)** 2019 r. – 1 250 000 zł;
-- **2)** 2020 r. – 1 350 000 zł;
-- **3)** 2021 r. – 1 380 000 zł;
-- **4)** 2022 r. – 1 410 000 zł;
-- **5)** 2023 r. – 1 450 000 zł;
-- **6)** 2024 r. – 1 490 000 zł;
-- **7)** 2025 r. – 1 530 000 zł;
-- **8)** 2026 r. – 1 570 000 zł;
-- **9)** 2027 r. – 1 610 000 zł;
-- **10)** 2028 r. – 1 650 000 zł.
-
-2. Prezes Urzędu Ochrony Danych Osobowych monitoruje wykorzystanie limitu wydatków, o których mowa w ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu na koniec każdego kwartału. Ocena za IV kwartał jest dokonywana według stanu na dzień 20 listopada danego roku.
-
-3. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków określonego w ust. 1 oraz w przypadku gdy w okresie od początku roku kalendarzowego do dnia ostatniej oceny, o której mowa w ust. 2, część limitu rocznego przypadającego proporcjonalnie na ten okres zostanie przekroczona co najmniej o 10%, stosuje się mechanizm korygujący polegający na zmniejszeniu wydatków budżetu państwa będących skutkiem finansowym niniejszej ustawy.
-
-4. Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 3, jest Prezes Urzędu Ochrony Danych Osobowych.
-
-**Art. 107.** Tracą moc art. 1, art. 2, art. 3 ust. 1, art. 4–7, art. 14–22, art. 23–28, art. 31 oraz rozdziały 4, 5 i 7 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych zachowane w mocy w odniesieniu do przetwarzania danych osobowych w celu rozpoznawania, zapobiegania, wykrywania i zwalczania czynów zabronionych, prowadzenia postępowań w sprawach dotyczących tych czynów oraz wykonywania orzeczeń w nich wydanych, kar porządkowych i środków przymusu w zakresie określonym w przepisach stanowiących podstawę działania służb i organów uprawnionych do realizacji zadań w tym zakresie, w terminie do dnia wejścia w życie przepisów wdrażających dyrektywę Parlamentu Europejskiego i Rady (UE) 2016/680 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych przez właściwe organy do celów zapobiegania przestępczości, prowadzenia postępowań przygotowawczych, wykrywania i ścigania czynów zabronionych i wykonywania kar, w sprawie swobodnego przepływu takich danych oraz uchylającą decyzję ramową Rady 2008/977/WSiSW (Dz. Urz. UE L 119 z 04.05.2016, str. 89) na podstawie art. 175 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych.
-
-**Art. 108.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem:
 

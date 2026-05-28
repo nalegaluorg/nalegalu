@@ -8,10 +8,10 @@ pos: 453
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 marca 2023 r.
+# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 17 lutego 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Administracji i Cyfryzacji w sprawie wzorów informacji przekazywanych przez wójta (burmistrza, prezydenta miasta) i wojewodę, trybu zwrotu części wydatków gmin wykonanych w ramach funduszu sołeckiego oraz wzoru wniosku o ten zwrot
 
 | Pole | Wartość |
 |---|---|
@@ -25,31 +25,69 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000453) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/453/text.pdf) |
 
-445533 OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI dnia 17 lutego 2023 r.
-sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Administracji Cyfryzacji sprawie wzorów informacji przekazywanych przez wójta (burmistrza, prezydenta miasta) wojewodę, trybu zwrotu części wydatków gmin wykonanych ramach funduszu sołeckiego oraz wzoru wniosku ten zwrot
-1. Na podstawie art. 16 ust. 3 ustawy dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Administracji Cyfryzacji dnia 8 lipca 2014 r. sprawie wzorów informacji przekazywanych przez wójta (burmistrza, prezydenta miasta) wojewodę, trybu zwrotu części wydatków gmin wykonanych ramach funduszu sołeckiego oraz wzoru wniosku ten zwrot (Dz. U. poz. 916), uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Administracji Cyfryzacji dnia 20 sierpnia 2015 r. zmieniającym rozporządzenie sprawie wzorów informacji przekazywanych przez wójta (burmistrza, prezydenta miasta) wojewodę, trybu zwrotu części wydatków gmin wykonanych ramach funduszu sołeckiego oraz wzoru wniosku ten zwrot (Dz. U. poz. 1389).
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Administracji Cyfryzacji dnia 20 sierpnia 2015 r. zmieniającego rozporządzenie sprawie wzorów informacji przekazywanych przez wójta (burmistrza, prezydenta miasta) wojewodę, trybu zwrotu części wydatków gmin wykonanych ramach funduszu sołeckiego oraz wzoru wniosku ten zwrot (Dz. U. poz. 1389), który stanowi: „§ 2. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Spraw Wewnętrznych Administracji: wz. P. Szefernaker ROZPORZĄDZENIE MINISTRA ADMINISTRACJI I CYFRYZACJI dnia 8 lipca 2014 r.
-sprawie wzorów informacji przekazywanych przez wójta (burmistrza, prezydenta miasta) wojewodę, trybu zwrotu części wydatków gmin wykonanych ramach funduszu sołeckiego oraz wzoru wniosku ten zwrot Na podstawie art. 3 ust. 12 ustawy dnia 21 lutego 2014 r. funduszu sołeckim (Dz. U. poz. 301) zarządza się, co następuje: § 1. Rozporządzenie określa:
-1) wzór informacji wysokości środków przypadających na dane sołectwa oraz wysokości kwoty bazowej (K ) przekazywanej właściwemu wojewodzie przez wójta (burmistrza, prezydenta miasta) roku poprzedzającym rok budżetowy;
-2) wzór informacji zbiorczej wysokości środków funduszu sołeckiego gminach oraz wysokości kwoty bazowej (K ) poszczególnych gminach przekazywanej przez wojewodę ministrowi właściwemu do spraw administracji publicznej roku poprzedzającym rok budżetowy;
-3) tryb zwrotu budżetu państwa części wydatków gmin wykonanych ramach funduszu sołeckiego, zwanych dalej „wydatkami”;
-4) wzór wniosku zwrot budżetu państwa części wydatków, zwany dalej „wnioskiem”.
-§ 2. Wzór informacji, której mowa § pkt 1, jest określony załączniku nr do rozporządzenia.
-§ 3. Wzór informacji, której mowa § pkt 2, jest określony załączniku nr 2 do rozporządzenia.
-§ 4. 1. Zwrot części wydatków następuje na wniosek wójta (burmistrza, prezydenta miasta) przesłany postaci elektronicznej.
-2. Wójt (burmistrz, prezydent miasta) przesyła wniosek właściwemu wojewodzie terminie do dnia 31 maja roku następującego po roku, którym dokonano wydatków.
-3. We wniosku wójt (burmistrz, prezydent miasta) wykazuje wykonane wydatki według stanu na dzień 31 grudnia roku, za który jest przesyłany wniosek.
-4. Właściwy wojewoda sprawdza prawidłowość wniosku pod względem rachunkowym oraz formalnym.
-5. W przypadku stwierdzenia we wniosku braków lub błędów właściwy wojewoda wzywa wójta (burmistrza, prezydenta miasta) do ich usunięcia terminie 7 dni od dnia doręczenia wezwania. Wezwanie jest przesyłane postaci papierowej lub elektronicznej. W przypadku nieusunięcia braków lub błędów tym terminie wniosek pozostawia się bez rozpatrzenia.
-6. Zwrot wydatków następuje na rachunek budżetu gminy terminie do dnia 31 sierpnia roku następującego po roku, którym dokonano wydatków.
-7. Wzór wniosku, którym mowa § pkt 4, jest określony załączniku nr 3 do rozporządzenia.
-§ 5. Rozporządzenie wchodzi życie dniem następującym po dniu ogłoszenia , wyjątkiem § 4, który wchodzi życie dniem stycznia 2015 r.
-M … W …………………………… ………………………… ……………………… ……… ………… Załącznik nr 3 WZÓR WNIOSEK O ZWROT Z BUDŻETU PAŃSTWA CZĘŚCI WYDATKÓW GMIN W RAMACH FUNDUSZU SOŁECKIEGO za rok ....................
-Nazwa gminy Adresat: TERYT WOJEWODA ...........................
-A. Wysokość Kb ............ zł B. Wysokość Kbk ............ zł C. Kwota wydatków wykonanych ramach funduszu sołeckiego według stanu na dzień ............ zł 31 grudnia roku, za który jest składany wniosek, nie wyższa niż kwota środków przypadających na sołectwa obliczona na podstawie art. 3 ust. ustawy dnia 21 lutego 2014 r.
-funduszu sołeckim (Dz. U. poz. 301) D. Wysokość zwrotu obliczona zgodnie art. 3 ust. 8 ustawy dnia 21 lutego 2014 r.
-funduszu sołeckim jako procent wykonanych wydatków ramach funduszu sołeckiego ≤ E. Kwota zwrotu tytułu wydatków wykonanych ramach funduszu sołeckiego (kwotę lit. C ............ zł należy pomnożyć przez liczbę lit. D) ............................................ ............................. ...................................................
-.....................................
-WZÓR
+Treść obwieszczenia
+Załącznik – Rozporządzenie Ministra Administracji i Cyfryzacji z dnia 8 lipca 2014 r. w sprawie wzorów informacji przekazywanych przez wójta (burmistrza, prezydenta miasta) i wojewodę, trybu zwrotu części wydatków gmin wykonanych w ramach funduszu sołeckiego oraz wzoru wniosku o ten zwrot
+
+## Załącznik nr 1 — – Informacja o wysokości środków przypadających na dane sołectwa oraz o wysokości kwoty bazowej (Kb) przekazywanej właściwemu wojewodzie przez wójta (burmistrza, prezydenta miasta) w roku poprzedzającym rok budżetowy (wzór)
+
+## Załącznik nr 2 — – Informacja zbiorcza o wysokości środków funduszu sołeckiego w gminach oraz o wysokości kwoty bazowej (Kb) w poszczególnych gminach przekazywanej przez wojewodę ministrowi właściwemu do spraw administracji publicznej w roku poprzedzającym rok budżetowy (wzór)
+
+## Załącznik nr 3 — – Wniosek o zwrot z budżetu państwa części wydatków gmin w ramach funduszu sołeckiego (wzór)
+
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Administracji i Cyfryzacji z dnia 8 lipca 2014 r. w sprawie wzorów informacji przekazywanych przez wójta (burmistrza, prezydenta miasta) i wojewodę, trybu zwrotu części wydatków gmin wykonanych w ramach funduszu sołeckiego oraz wzoru wniosku o ten zwrot (Dz. U. poz. 916), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 20 sierpnia 2015 r. zmieniającym rozporządzenie w sprawie wzorów informacji przekazywanych przez wójta (burmistrza, prezydenta miasta) i wojewodę, trybu zwrotu części wydatków gmin wykonanych w ramach funduszu sołeckiego oraz wzoru wniosku o ten zwrot (Dz. U. poz. 1389).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Administracji i Cyfryzacji z dnia 20 sierpnia 2015 r. zmieniającego rozporządzenie w sprawie wzorów informacji przekazywanych przez wójta (burmistrza, prezydenta miasta) i wojewodę, trybu zwrotu części wydatków gmin wykonanych w ramach funduszu sołeckiego oraz wzoru wniosku o ten zwrot (Dz. U. poz. 1389), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+” .
+1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – administracja publiczna, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Załącznik – Rozporządzenie Ministra Administracji i Cyfryzacji z dnia 8 lipca 2014 r. w sprawie wzorów informacji przekazywanych przez wójta (burmistrza, prezydenta miasta) i wojewodę, trybu zwrotu części wydatków gmin wykonanych w ramach funduszu sołeckiego oraz wzoru wniosku o ten zwrot
+Na podstawie art. 3 ust. 12 ustawy z dnia 21 lutego 2014 r. o funduszu sołeckim (Dz. U. poz. 301) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+wzór informacji o wysokości środków przypadających na dane sołectwa oraz o wysokości kwoty bazowej ( Kb) przekazywanej właściwemu wojewodzie przez wójta (burmistrza, prezydenta miasta) w roku poprzedzającym rok budżetowy;
+2)
+wzór informacji zbiorczej o wysokości środków funduszu sołeckiego w gminach oraz o wysokości kwoty bazowej (Kb) w poszczególnych gminach przekazywanej przez wojewodę ministrowi właściwemu do spraw administracji publicznej w roku poprzedzającym rok budżetowy;
+3)
+tryb zwrotu z budżetu państwa części wydatków gmin wykonanych w ramach funduszu sołeckiego, zwanych dalej „wydatkami”;
+4)
+wzór wniosku o zwrot z budżetu państwa części wydatków, zwany dalej „wnioskiem”.
+§ 2.
+Wzór informacji, o której mowa w § 1 pkt 1, jest określony w załączniku nr 1 do rozporządzenia.
+§ 3.
+Wzór informacji, o której mowa w § 1 pkt 2, jest określony w załączniku nr 2 do rozporządzenia.
+§ 4.
+1.
+Zwrot części wydatków następuje na wniosek wójta (burmistrza, prezydenta miasta) przesłany w postaci elektronicznej.
+2.
+Wójt (burmistrz, prezydent miasta) przesyła wniosek właściwemu wojewodzie w terminie do dnia 31 maja roku następującego po roku, w którym dokonano wydatków.
+3.
+We wniosku wójt (burmistrz, prezydent miasta) wykazuje wykonane wydatki według stanu na dzień 31 grudnia roku, za który jest przesyłany wniosek.
+4.
+Właściwy wojewoda sprawdza prawidłowość wniosku pod względem rachunkowym oraz formalnym.
+5.
+W przypadku stwierdzenia we wniosku braków lub błędów właściwy wojewoda wzywa wójta (burmistrza, prezydenta miasta) do ich usunięcia w terminie 7 dni od dnia doręczenia wezwania. Wezwanie jest przesyłane w postaci papierowej lub elektronicznej. W przypadku nieusunięcia braków lub błędów w tym terminie wniosek pozostawia się bez rozpatrzenia.
+6.
+Zwrot wydatków następuje na rachunek budżetu gminy w terminie do dnia 31 sierpnia roku następującego po roku, w którym dokonano wydatków.
+7.
+Wzór wniosku, o którym mowa w § 1 pkt 4, jest określony w załączniku nr 3 do rozporządzenia.
+§ 5.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 4, który wchodzi w życie z dniem 1 stycznia 2015 r.
+1) Obecnie działem administracji rządowej – administracja publiczna kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Rozporządzenie zostało ogłoszone w dniu 10 lipca 2014 r. 3) Rozporządzenie w zakresie trybu zwrotu części wydatków gmin wykonanych w ramach funduszu sołeckiego było poprzedzone rozporządzeniem Ministra Finansów z dnia 25 stycznia 2010 r. w sprawie trybu zwrotu części wydatków gmin wykonanych w ramach funduszu sołeckiego (Dz. U. poz. 106), które na podstawie art. 9 ustawy z dnia 21 lutego 2014 r. o funduszu sołeckim w 2014 r. miało zastosowanie do zwrotu części wydatków wykonanych w ramach funduszu sołeckiego w 2013 r.
+
+## Załącznik nr 1 — – Informacja o wysokości środków przypadających na dane sołectwa oraz o wysokości kwoty bazowej (Kb) przekazywanej właściwemu wojewodzie przez wójta (burmistrza, prezydenta miasta) w roku poprzedzającym rok budżetowy (wzór)
+
+patrz oryginał
+
+## Załącznik nr 2 — – Informacja zbiorcza o wysokości środków funduszu sołeckiego w gminach oraz o wysokości kwoty bazowej (Kb) w poszczególnych gminach przekazywanej przez wojewodę ministrowi właściwemu do spraw administracji publicznej w roku poprzedzającym rok budżetowy (wzór)
+
+patrz oryginał
+
+## Załącznik nr 3 — – Wniosek o zwrot z budżetu państwa części wydatków gmin w ramach funduszu sołeckiego (wzór)
+
+patrz oryginał
 

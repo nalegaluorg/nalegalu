@@ -8,12 +8,10 @@ pos: 1222
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o nadaniu nowej nazwy Akademii Pedagogicznej im. Komisji Edukacji Narodowej w Krakowie
-
-*USTAWA z dnia 3 października 2008 r.*
+# Ustawa z dnia 3 października 2008 r. o nadaniu nowej nazwy Akademii Pedagogicznej im. Komisji Edukacji Narodowej w Krakowie
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2008-10-03 |
 | Data wydania | 2008-11-05 |
+| Wejście w życie | 2008-11-20 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081971222) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1222/text.pdf) |
 

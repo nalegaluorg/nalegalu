@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# o podmiotach obsługujących kredyty i nabywcach kredytów
-
-*USTAWA z dnia 20 grudnia 2024 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 lutego 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,144 +22,176 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-20 |
 | Data wydania | 2025-02-04 |
+| Wejście w życie | 2025-02-19 |
 | Ostatnia zmiana | 2026-04-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000146) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/146/text.pdf) |
+
+USTAWA z dnia 20 grudnia 2024 r.
+o podmiotach obsługujących kredyty i nabywcach kredytów
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zasady podejmowania i prowadzenia działalności w zakresie obsługi kredytów;
+- **2)** prawa i obowiązki podmiotów obsługujących kredyty, dostawców usług obsługi kredytów, nabywców kredytów oraz przedstawicieli, o których mowa w art. 24;
+- **3)** skutki uchybienia obowiązkom przez podmioty obsługujące kredyty, dostawców usług obsługi kredytów, nabywców kredytów oraz przedstawicieli, o których mowa w art. 24;
+- **4)** zasady sprawowania nadzoru nad podmiotami obsługującymi kredyty, dostawcami usług obsługi kredytów, nabywcami kredytów oraz przedstawicielami, o których mowa w art. 24.
+
 **Art. 2.** Ustawy nie stosuje się do:
+
+- **1)** obsługi praw kredytodawcy wynikających z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt prowadzonej przez: o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających (Dz. U. z 2024 r. poz. 352, 1635 i 1863), Prawo bankowe (Dz. U. z 2024 r. poz. 1646, 1685 i 1863 oraz z 2025 r. poz. 146),
+    - **a)** bank krajowy,
+    - **b)** instytucję kredytową,
+    - **c)** oddział instytucji kredytowej,
+    - **d)** podmiot, o którym mowa w art. 192 ust. 1 ustawy o funduszach, w zakresie zarządzania wierzytelnościami stanowiącymi lokaty funduszy inwestycyjnych zgodnie z ustawą o funduszach,
+    - **e)** jednostkę zarządzającą systemem ochrony, o której mowa w art. 22d ust. 1 pkt 2 ustawy z dnia 7 grudnia 2000 r.
+    - **f)** jednostkę zarządzającą systemem ochrony, o której mowa w art. 130e ust. 1 ustawy z dnia 29 sierpnia 1997 r.
+    - **g)** spółdzielczą kasę oszczędnościowo-kredytową,
+    - **h)** instytucję pożyczkową w rozumieniu art. 5 pkt 2a ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. z 2024 r. poz. 1497 oraz z 2025 r. poz. 146);
+
+- **2)** przeniesienia praw kredytodawcy wynikających z nieobsługiwanej umowy o kredyt między podmiotami, o których mowa w pkt 1 lit. a–c;
+- **3)** nabycia wierzytelności z tytułu nieobsługiwanej umowy o kredyt przez podmioty, o których mowa w pkt 1 lit. a–c;
+- **4)** czynności z zakresu wykonywania praw kredytodawcy przysługujących nabywcom kredytów, wynikających z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt, wykonywanych przez adwokatów, radców prawnych lub komorników sądowych, niezależnie od formy organizacyjnej, w której podmioty te prowadzą działalność zawodową w tym zakresie;
+- **5)** towarzystwa w rozumieniu art. 2 pkt 3 ustawy o funduszach ani zarządzanego przez to towarzystwo funduszu inwestycyjnego;
+- **6)** zarządzającego ASI w rozumieniu art. 2 pkt 3a ustawy o funduszach ani zarządzanej przez tego zarządzającego ASI alternatywnej spółki inwestycyjnej w rozumieniu art. 8a ust. 1 ustawy o funduszach;
+- **7)** zarządzanej wewnętrznie alternatywnej spółki inwestycyjnej w rozumieniu art. 8a ust. 1 ustawy o funduszach;
+- **8)** spółki zarządzającej w rozumieniu art. 2 pkt 10 ustawy o funduszach ani zarządzanego przez tę spółkę zarządzającą funduszu inwestycyjnego;
+- **9)** zarządzającego z UE w rozumieniu art. 2 pkt 10c ustawy o funduszach ani zarządzanych przez tego zarządzającego z UE funduszu inwestycyjnego i alternatywnej spółki inwestycyjnej w rozumieniu art. 8a ust. 1 ustawy o funduszach;
+- **10)** spółki, o której mowa w art. 276 ustawy o funduszach, oraz osoby prawnej, o której mowa w art. 276i ustawy o funduszach, a także zarządzanych przez nie funduszy inwestycyjnych i alternatywnych funduszy inwestycyjnych.
 
 **Art. 3.**
 
-1. Ilekroć ustawie jest mowa o:
+1. Ilekroć w ustawie jest mowa o:
 
-- **1)** banku krajowym – rozumie się przez to bank krajowy rozumieniu art. 4 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe;
-- **2)** dostawcy usług obsługi kredytów – rozumie się przez to przedsiębiorcę lub przedsiębiorcę zagranicznego, z których usług korzysta podmiot obsługujący kredyty celu wykonywania działalności zakresie obsługi kredytów; obsługiwanej umowy o kredyt lub nieobsługiwanej umowy o kredyt co najmniej jednej z następujących czynności: o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami (Dz. U. z 2022 r. poz. 2245 i 2339 oraz z 2025 r. poz. 146),
+- **1)** banku krajowym rozumie się przez to bank krajowy w rozumieniu art. 4 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe;
+- **2)** dostawcy usług obsługi kredytów rozumie się przez to przedsiębiorcę lub przedsiębiorcę zagranicznego, z których usług korzysta podmiot obsługujący kredyty w celu wykonywania działalności w zakresie obsługi kredytów;
+- **3)** działalności w zakresie obsługi kredytów rozumie się przez to prowadzenie działalności gospodarczej polegającej na wykonywaniu w odniesieniu do praw kredytodawcy przysługujących nabywcom kredytów, wynikających z nieobsługiwanej umowy o kredyt lub nieobsługiwanej umowy o kredyt co najmniej jednej z następujących czynności: o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami (Dz. U. z 2022 r. poz. 2245 i 2339 oraz z 2025 r. poz. 146),
     - **a)** odzyskiwanie od kredytobiorcy należności kredytodawcy wynikających z umowy o kredyt lub związanych z tą umową,
-    - **b)** renegocjowanie postanowień umowy o kredyt zakresie wynikających z niej praw kredytodawcy lub renegocjowanie postanowień umowy o kredyt, zgodnie z dyspozycjami nabywcy kredytu, przypadku gdy podmiot obsługujący kredyty nie jest pośrednikiem kredytowym rozumieniu art. 5 pkt 3 ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim lub pośrednikiem kredytu hipotecznego rozumieniu art. 4 pkt 15 ustawy z dnia 23 marca 2017 r.
+    - **b)** renegocjowanie postanowień umowy o kredyt w zakresie wynikających z niej praw kredytodawcy lub renegocjowanie postanowień umowy o kredyt, zgodnie z dyspozycjami nabywcy kredytu, w przypadku gdy podmiot obsługujący kredyty nie jest pośrednikiem kredytowym w rozumieniu art. 5 pkt 3 ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim lub pośrednikiem kredytu hipotecznego w rozumieniu art. 4 pkt 15 ustawy z dnia 23 marca 2017 r.
     - **c)** przyjmowanie i rozpatrywanie reklamacji i skarg, które dotyczą dochodzenia praw kredytodawcy wynikających z umowy o kredyt lub wykonywania tej umowy, a także odwołań od tych reklamacji i skarg,
     - **d)** informowanie kredytobiorcy o zmianach sposobu spłaty kredytu lub stopy oprocentowania lub o należnościach i opłatach ponoszonych bezpośrednio przez kredytobiorcę;
 
-- **4)** goszczącym państwie członkowskim – rozumie się przez to państwo członkowskie inne niż macierzyste państwo członkowskie, którym podmiot obsługujący kredyty ma oddział lub którym prowadzi transgranicznie działalność zakresie obsługi kredytów oraz którym kredytobiorca ma odpowiednio miejsce zamieszkania albo siedzibę;
-- **5)** instytucji kredytowej – rozumie się przez to instytucję kredytową rozumieniu art. 4 ust. 1 pkt 17 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe;
-- **6)** kodzie LEI – rozumie się przez to identyfikator zgodny z normą ISO 17442, nadany przez podmiot uprawniony do rejestrowania takich identyfikatorów;
-- **7)** Komisji – rozumie się przez to Komisję Nadzoru Finansowego;
-- **8)** konsumencie – rozumie się przez to konsumenta rozumieniu art. 22 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237);
-- **9)** kredytobiorcy – rozumie się przez to niebędącą kredytodawcą osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która jest stroną umowy o kredyt;
-- **10)** kredytodawcy – rozumie się przez to:
+- **4)** goszczącym państwie członkowskim rozumie się przez to państwo członkowskie inne niż macierzyste państwo członkowskie, w którym podmiot obsługujący kredyty ma oddział lub w którym prowadzi transgranicznie działalność w zakresie obsługi kredytów oraz w którym kredytobiorca ma odpowiednio miejsce zamieszkania albo siedzibę;
+- **5)** instytucji kredytowej rozumie się przez to instytucję kredytową w rozumieniu art. 4 ust. 1 pkt 17 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe;
+- **6)** kodzie LEI rozumie się przez to identyfikator zgodny z normą ISO 17442, nadany przez podmiot uprawniony do rejestrowania takich identyfikatorów;
+- **7)** Komisji rozumie się przez to Komisję Nadzoru Finansowego;
+- **8)** konsumencie rozumie się przez to konsumenta w rozumieniu art. 22 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237);
+- **9)** kredytobiorcy rozumie się przez to niebędącą kredytodawcą osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która jest stroną umowy o kredyt;
+- **10)** kredytodawcy rozumie się przez to:
     - **a)** bank krajowy,
     - **b)** instytucję kredytową,
     - **c)** oddział instytucji kredytowej,
     - **d)** nabywcę kredytu;
 
-- **11)** macierzystym państwie członkowskim – rozumie się przez to państwo członkowskie, którym podmiot obsługujący kredyty ma siedzibę, a przypadku nabywcy kredytu lub jego przedstawiciela, o którym mowa art. 24 – państwo członkowskie, którym ten nabywca lub ten przedstawiciel ma miejsce zamieszkania albo siedzibę;
-- **12)** nabywcy kredytu – rozumie się przez to osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, niebędącą podmiotem, o którym mowa pkt 10 lit. a–c, która nabywa prawa wynikające z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt, ramach wykonywanej działalności gospodarczej lub zawodowej;
-- **13)** nieobsługiwanej umowie o kredyt – rozumie się przez to umowę o kredyt, która zgodnie z art. 47a rozporządzenia nr 575/2013 została sklasyfikowana jako ekspozycja nieobsługiwana;
-- **14)** oddziale instytucji kredytowej – rozumie się przez to oddział instytucji kredytowej rozumieniu art. 4 ust. 1 pkt 18 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe;
-- **15)** organie zarządzającym – rozumie się przez to:
-    - **a)** zarząd oraz radę nadzorczą albo komisję rewizyjną, albo, o ile umowa tak stanowi, oba te organy – przypadku spółki z ograniczoną odpowiedzialnością,
-    - **b)** zarząd oraz radę nadzorczą – przypadku spółki akcyjnej,
-    - **c)** zarząd oraz radę nadzorczą albo radę dyrektorów – przypadku prostej spółki akcyjnej;
+- **11)** macierzystym państwie członkowskim rozumie się przez to państwo członkowskie, w którym podmiot obsługujący kredyty ma siedzibę, a w przypadku nabywcy kredytu lub jego przedstawiciela, o którym mowa w art. 24 państwo członkowskie, w którym ten nabywca lub ten przedstawiciel ma miejsce zamieszkania albo siedzibę;
+- **12)** nabywcy kredytu rozumie się przez to osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, niebędącą podmiotem, o którym mowa w pkt 10 lit. a–c, która nabywa prawa wynikające z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt, w ramach wykonywanej działalności gospodarczej lub zawodowej;
+- **13)** nieobsługiwanej umowie o kredyt rozumie się przez to umowę o kredyt, która zgodnie z art. 47a rozporządzenia nr 575/2013 została sklasyfikowana jako ekspozycja nieobsługiwana;
+- **14)** oddziale instytucji kredytowej rozumie się przez to oddział instytucji kredytowej w rozumieniu art. 4 ust. 1 pkt 18 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe;
+- **15)** organie zarządzającym rozumie się przez to:
+    - **a)** zarząd oraz radę nadzorczą albo komisję rewizyjną, albo, o ile umowa tak stanowi, oba te organy w przypadku spółki z ograniczoną odpowiedzialnością,
+    - **b)** zarząd oraz radę nadzorczą w przypadku spółki akcyjnej,
+    - **c)** zarząd oraz radę nadzorczą albo radę dyrektorów w przypadku prostej spółki akcyjnej;
 
-- **17)** podmiocie obsługującym kredyty – rozumie się przez to osobę prawną, która wykonuje działalność zakresie obsługi kredytów;
-- **18)** trwałym nośniku – rozumie się przez to trwały nośnik rozumieniu art. 4 ust. 1 pkt 46 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe;
-- **19)** umowie o kredyt – rozumie się przez to umowę kredytu, o której mowa art. 69 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, oraz umowę, na mocy której bank krajowy, instytucja kredytowa lub oddział instytucji kredytowej udziela finansowania formie płatności odroczonej, pożyczki lub innej podobnej formie finansowej;
-- **20)** umowie o obsługę kredytów – rozumie się przez to umowę, o której mowa art. 21;
-- **21)** znacznym pakiecie akcji lub udziałów – rozumie się przez to akcje lub udziały ilości:
+- **16)** państwie członkowskim rozumie się przez to państwo członkowskie Unii Europejskiej;
+- **17)** podmiocie obsługującym kredyty rozumie się przez to osobę prawną, która wykonuje działalność w zakresie obsługi kredytów;
+- **18)** trwałym nośniku rozumie się przez to trwały nośnik w rozumieniu art. 4 ust. 1 pkt 46 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe;
+- **19)** umowie o kredyt rozumie się przez to umowę kredytu, o której mowa w art. 69 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, oraz umowę, na mocy której bank krajowy, instytucja kredytowa lub oddział instytucji kredytowej udziela finansowania w formie płatności odroczonej, pożyczki lub innej podobnej formie finansowej;
+- **20)** umowie o obsługę kredytów rozumie się przez to umowę, o której mowa w art. 21;
+- **21)** znacznym pakiecie akcji lub udziałów rozumie się przez to akcje lub udziały w ilości:
     - **a)** oznaczającej posiadanie przez podmiot bezpośrednio lub pośrednio co najmniej 10 % kapitału innego podmiotu lub
-    - **b)** uprawniającej podmiot do wykonywania praw z co najmniej 10 % głosów organie stanowiącym innego podmiotu, lub
-    - **c)** dającej inne prawa do kapitału podmiotu sposób umożliwiający wywieranie wpływu na kierowanie jego polityką finansową i operacyjną.
+    - **b)** uprawniającej podmiot do wykonywania praw z co najmniej 10 % głosów w organie stanowiącym innego podmiotu, lub
+    - **c)** dającej inne prawa do kapitału podmiotu w sposób umożliwiający wywieranie wpływu na kierowanie jego polityką finansową i operacyjną.
 
-2. Użyte ustawie skróty oznaczają:
+2. Użyte w ustawie skróty oznaczają:
 
-- **1)** rozporządzenie nr 575/2013 – rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniające rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm. );
-- **2)** rozporządzenie nr 2016/679 – rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. sprawie ochrony osób fizycznych związku z przetwarzaniem danych osobowych i sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. );
-- **3)** ustawa o funduszach – ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2024 r. poz. 1034 i 1863 oraz z 2025 r. poz. 146).
+- **1)** rozporządzenie nr 575/2013 rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniające rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm. );
+- **2)** rozporządzenie nr 2016/679 rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. );
+- **3)** ustawa o funduszach ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2024 r. poz. 1034 i 1863 oraz z 2025 r. poz. 146).
 
 #### Rozdział 2 Udzielanie zezwoleń podmiotom obsługującym kredyty
 
 **Art. 4.**
 
-1. Prowadzenie działalności zakresie obsługi kredytów wymaga uzyskania zezwolenia Komisji na wykonywanie działalności zakresie obsługi kredytów, zwanego dalej „zezwoleniem”.
+1. Prowadzenie działalności w zakresie obsługi kredytów wymaga uzyskania zezwolenia Komisji na wykonywanie działalności w zakresie obsługi kredytów, zwanego dalej „zezwoleniem”.
 
 2. Zezwolenie wydaje się na wniosek zawierający:
 
-- **1)** firmę (nazwę), adres siedziby oraz numer wnioskodawcy rejestrze przedsiębiorców Krajowego Rejestru Sądowego;
-- **2)** imiona i nazwiska oraz numery PESEL, a przypadku braku numeru PESEL – daty urodzenia, oraz serie i numery dowodów osobistych lub innych dokumentów potwierdzających tożsamość członków organu zarządzającego oraz osób posiadających znaczny pakiet akcji lub udziałów wnioskodawcy, przy czym przypadku gdy znaczny pakiet akcji lub udziałów wnioskodawcy należy do osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej – jej firmę (nazwę) i adres siedziby oraz numer rejestrze przedsiębiorców Krajowego Rejestru Sądowego albo innym równoważnym rejestrze państwie członkowskim innym niż Rzeczpospolita Polska, którym ta osoba prawna lub ków organu zarządzającego tą osobą prawną lub jednostką;
+- **1)** firmę (nazwę), adres siedziby oraz numer wnioskodawcy w rejestrze przedsiębiorców Krajowego Rejestru Sądowego;
+- **2)** imiona i nazwiska oraz numery PESEL, a w przypadku braku numeru PESEL daty urodzenia, oraz serie i numery dowodów osobistych lub innych dokumentów potwierdzających tożsamość członków organu zarządzającego oraz osób posiadających znaczny pakiet akcji lub udziałów wnioskodawcy, przy czym w przypadku gdy znaczny pakiet akcji lub udziałów wnioskodawcy należy do osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej jej firmę (nazwę) i adres siedziby oraz numer w rejestrze przedsiębiorców Krajowego Rejestru Sądowego albo innym równoważnym rejestrze w państwie członkowskim innym niż Rzeczpospolita Polska, w którym ta osoba prawna lub jednostka posiada siedzibę, a także imiona i nazwiska oraz numery PESEL, a w przypadku braku numeru PESEL daty urodzenia, oraz serie i numery dowodów osobistych lub innych dokumentów potwierdzających tożsamość członków organu zarządzającego tą osobą prawną lub jednostką;
 - **3)** numer identyfikacji podatkowej (NIP) wnioskodawcy;
-- **4)** kod LEI wnioskodawcy – o ile został nadany;
-- **5)** dane kontaktowe wnioskodawcy, o których mowa art. 11 ust. 1 pkt 8.
+- **4)** kod LEI wnioskodawcy o ile został nadany;
+- **5)** dane kontaktowe wnioskodawcy, o których mowa w art. 11 ust. 1 pkt 8.
 
 3. Do wniosku załącza się:
 
 - **1)** statut, akt założycielski lub umowę spółki;
-- **2)** dokumenty potwierdzające spełnienie warunków, o których mowa art. 6 ust. 1 pkt 3 lit. b–e;
-- **3)** opis wewnętrznych procedur i polityk dotyczących prowadzenia działalności zakresie obsługi kredytów, o których mowa art. 17;
-- **4)** zatwierdzone sprawozdania finansowe wnioskodawcy za ostatnie 3 lata poprzedzające rok złożenia wniosku wraz z uchwałami o ich zatwierdzeniu, a przypadku gdy wnioskodawca prowadzi działalność przez okres krótszy niż 3 lata – za ten okres;
-- **5)** oświadczenia członków organów zarządzających wnioskodawcy o spełnianiu wymogu, o którym mowa art. 6 ust. 1 pkt 3 lit. a;
-- **6)** projekt umowy, o której mowa art. 23 ust. 1 – przypadku zamiaru współpracy wnioskodawcy z dostawcą usług obsługi kredytów;
-- **7)** potwierdzenie wniesienia opłaty, o której mowa art. 47 ust. 1.
+- **2)** dokumenty potwierdzające spełnienie warunków, o których mowa w art. 6 ust. 1 pkt 3 lit. b–e;
+- **3)** opis wewnętrznych procedur i polityk dotyczących prowadzenia działalności w zakresie obsługi kredytów, o których mowa w art. 17;
+- **4)** zatwierdzone sprawozdania finansowe wnioskodawcy za ostatnie 3 lata poprzedzające rok złożenia wniosku wraz z uchwałami o ich zatwierdzeniu, a w przypadku gdy wnioskodawca prowadzi działalność przez okres krótszy niż 3 lata za ten okres;
+- **5)** oświadczenia członków organów zarządzających wnioskodawcy o spełnianiu wymogu, o którym mowa w art. 6 ust. 1 pkt 3 lit. a;
+- **6)** projekt umowy, o której mowa w art. 23 ust. 1 w przypadku zamiaru współpracy wnioskodawcy z dostawcą usług obsługi kredytów;
+- **7)** potwierdzenie wniesienia opłaty, o której mowa w art. 47 ust. 1.
 
 **Art. 5.**
 
-1. Komisja dokonuje oceny kompletności wniosku, o którym mowa art. 4 ust. 2, terminie 45 dni od dnia jego złożenia.
+1. Komisja dokonuje oceny kompletności wniosku, o którym mowa w art. 4 ust. 2, w terminie 45 dni od dnia jego złożenia.
 
-2. W przypadku gdy wniosek, o którym mowa art. 4 ust. 2, jest niekompletny, Komisja wzywa wnioskodawcę do jego uzupełnienia.
+2. W przypadku gdy wniosek, o którym mowa w art. 4 ust. 2, jest niekompletny, Komisja wzywa wnioskodawcę do jego uzupełnienia.
 
-3. Komisja, drodze decyzji, udziela zezwolenia nie później niż terminie 90 dni od dnia otrzymania kompletnego wniosku, o którym mowa art. 4 ust. 2.
+3. Komisja, w drodze decyzji, udziela zezwolenia nie później niż w terminie 90 dni od dnia otrzymania kompletnego wniosku, o którym mowa w art. 4 ust. 2.
 
 **Art. 6.**
 
 1. Zezwolenie jest udzielane, jeżeli wnioskodawca:
 
 - **1)** posiada siedzibę na terytorium Rzeczypospolitej Polskiej;
-- **2)** prowadzi działalność formie spółki akcyjnej, prostej spółki akcyjnej albo spółki z ograniczoną odpowiedzialnością;
-- **3)** jest zarządzany i nadzorowany przez osoby wchodzące skład organów zarządzających:
+- **2)** prowadzi działalność w formie spółki akcyjnej, prostej spółki akcyjnej albo spółki z ograniczoną odpowiedzialnością;
+- **3)** jest zarządzany i nadzorowany przez osoby wchodzące w skład organów zarządzających:
     - **a)** posiadające pełną zdolność do czynności prawnych,
-    - **b)** dające rękojmię należytego wykonywania swoich obowiązków, tym: – wobec których łączne skutki drobnych incydentów nie rzutują na ich nieskazitelną opinię, – swoich wcześniejszych kontaktach służbowych z Komisją oraz właściwymi organami nadzoru państw członkowskich innych niż Rzeczpospolita Polska i państw trzecich, a także organami regulacyjnymi zawsze działały sposób przejrzysty i otwarty oraz współpracowały z tymi organami,
+    - **b)** dające rękojmię należytego wykonywania swoich obowiązków, w tym: wobec których łączne skutki drobnych incydentów nie rzutują na ich nieskazitelną opinię, w swoich wcześniejszych kontaktach służbowych z Komisją oraz właściwymi organami nadzoru państw członkowskich innych niż Rzeczpospolita Polska i państw trzecich, a także organami regulacyjnymi zawsze działały w sposób przejrzysty i otwarty oraz współpracowały z tymi organami,
     - **c)** wobec których nie toczy się postępowanie upadłościowe albo restrukturyzacyjne oraz nie została ogłoszona ich upadłość,
-    - **d)** które nie zostały skazane prawomocnym wyrokiem za przestępstwo przeciwko mieniu, przeciwko życiu i zdrowiu, przeciwko obrotowi gospodarczemu i interesom majątkowym obrocie cywilnoprawnym, przeciwko obrotowi pieniędzmi i papierami wartościowymi, przeciwko ochronie informacji lub za przestępstwo skarbowe, lub nie zostały skazane prawomocnym wyrokiem za wykroczenie przeciwko interesom konsumentów,
-    - **e)** posiadające odpowiednią wiedzę oraz doświadczenie niezbędne do wykonywania czynności kompetentny i odpowiedzialny sposób;
+    - **d)** które nie zostały skazane prawomocnym wyrokiem za przestępstwo przeciwko mieniu, przeciwko życiu i zdrowiu, przeciwko obrotowi gospodarczemu i interesom majątkowym w obrocie cywilnoprawnym, przeciwko obrotowi pieniędzmi i papierami wartościowymi, przeciwko ochronie informacji lub za przestępstwo skarbowe, lub nie zostały skazane prawomocnym wyrokiem za wykroczenie przeciwko interesom konsumentów,
+    - **e)** posiadające odpowiednią wiedzę oraz doświadczenie niezbędne do wykonywania czynności w kompetentny i odpowiedzialny sposób;
 
-- **4)** posiada procedury i polityki dotyczące prowadzenia działalności zakresie obsługi kredytów, o których mowa art. 17; okres krótszy niż 3 lata – za ten okres;
-- **6)** złożył wraz z wnioskiem, o którym mowa art. 4 ust. 2, projekt umowy, o której mowa art. 23 ust. 1 – przypadku zamiaru współpracy wnioskodawcy z dostawcą usług obsługi kredytów.
+- **4)** posiada procedury i polityki dotyczące prowadzenia działalności w zakresie obsługi kredytów, o których mowa w art. 17;
+- **5)** posiada zatwierdzone sprawozdania finansowe za ostatnie 3 lata poprzedzające rok złożenia wniosku, o którym mowa w art. 4 ust. 2, wraz z uchwałami o ich zatwierdzeniu, a w przypadku gdy wnioskodawca prowadzi działalność przez okres krótszy niż 3 lata za ten okres;
+- **6)** złożył wraz z wnioskiem, o którym mowa w art. 4 ust. 2, projekt umowy, o której mowa w art. 23 ust. 1 w przypadku zamiaru współpracy wnioskodawcy z dostawcą usług obsługi kredytów.
 
 2. Przepisy ust. 1 pkt 3 lit. c oraz d stosuje się także do osób posiadających znaczny pakiet akcji lub udziałów.
 
-3. Komisja, drodze decyzji, odmawia udzielenia zezwolenia, jeżeli nie zostały spełnione wymogi określone ust. 1 i 2.
+3. Komisja, w drodze decyzji, odmawia udzielenia zezwolenia, jeżeli nie zostały spełnione wymogi określone w ust. 1 i 2.
 
-4. Minister właściwy do spraw instytucji finansowych określi, drodze rozporządzenia, rodzaj i formę dokumentów potwierdzających spełnienie warunków, o których mowa ust. 1 pkt 3 lit. b–e, mając na względzie konieczność zapewnienia możliwości sprawdzenia, czy wnioskodawca spełnia te warunki, oraz kompletność i wiarygodność dokumentacji dołączanej do wniosku, o którym mowa art. 4 ust. 2.
+4. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, rodzaj i formę dokumentów potwierdzających spełnienie warunków, o których mowa w ust. 1 pkt 3 lit. b–e, mając na względzie konieczność zapewnienia możliwości sprawdzenia, czy wnioskodawca spełnia te warunki, oraz kompletność i wiarygodność dokumentacji dołączanej do wniosku, o którym mowa w art. 4 ust. 2.
 
-**Art. 7.** W terminie 2 dni roboczych od dnia udzielenia zezwolenia Komisja, z urzędu, dokonuje wpisu podmiotu obsługującego kredyty do rejestru, o którym mowa art. 9.
+**Art. 7.** W terminie 2 dni roboczych od dnia udzielenia zezwolenia Komisja, z urzędu, dokonuje wpisu podmiotu obsługującego kredyty do rejestru, o którym mowa w art. 9.
 
 **Art. 8.**
 
-1. Komisja stwierdza, drodze decyzji, wygaśnięcie zezwolenia, przypadku gdy:
+1. Komisja stwierdza, w drodze decyzji, wygaśnięcie zezwolenia, w przypadku gdy:
 
-- **1)** podmiot obsługujący kredyty nie podjął prowadzenia działalności zakresie obsługi kredytów przez okres 12 miesięcy od dnia udzielenia zezwolenia;
-- **2)** podmiot obsługujący kredyty nie prowadził działalności zakresie obsługi kredytów okresie dłuższym niż 12 kolejnych miesięcy;
+- **1)** podmiot obsługujący kredyty nie podjął prowadzenia działalności w zakresie obsługi kredytów przez okres 12 miesięcy od dnia udzielenia zezwolenia;
+- **2)** podmiot obsługujący kredyty nie prowadził działalności w zakresie obsługi kredytów w okresie dłuższym niż 12 kolejnych miesięcy;
 - **3)** wydane zostało prawomocne postanowienie o ogłoszeniu upadłości podmiotu obsługującego kredyty lub postanowienie o oddaleniu wniosku o ogłoszenie upadłości ze względu na to, że majątek tego podmiotu obsługującego kredyty nie wystarcza na zaspokojenie kosztów postępowania upadłościowego lub wystarcza jedynie na zaspokojenie kosztów tego postępowania.
 
-2. W terminie 2 dni roboczych od dnia wydania decyzji, o której mowa ust. 1, Komisja, z urzędu, dokonuje wpisu sprawie wygaśnięcia zezwolenia do rejestru, o którym mowa art. 9.
+2. W terminie 2 dni roboczych od dnia wydania decyzji, o której mowa w ust. 1, Komisja, z urzędu, dokonuje wpisu w sprawie wygaśnięcia zezwolenia do rejestru, o którym mowa w art. 9.
 
-3. W przypadku gdy podmiot obsługujący kredyty, o którym mowa art. 10 ust. 1 pkt 1, prowadzi działalność transgranicznie lub formie oddziału, Komisja niezwłocznie informuje o wygaśnięciu zezwolenia właściwe organy nadzoru goszczącego państwa członkowskiego, a także właściwe organy nadzoru państwa członkowskiego, którym zawarto umowę o kredyt, jeżeli jest ono inne niż goszczące państwo członkowskie i Rzeczpospolita Polska.
+3. W przypadku gdy podmiot obsługujący kredyty, o którym mowa w art. 10 ust. 1 pkt 1, prowadzi działalność transgranicznie lub w formie oddziału, Komisja niezwłocznie informuje o wygaśnięciu zezwolenia właściwe organy nadzoru goszczącego państwa członkowskiego, a także właściwe organy nadzoru państwa członkowskiego, w którym zawarto umowę o kredyt, jeżeli jest ono inne niż goszczące państwo członkowskie i Rzeczpospolita Polska.
 
 #### Rozdział 3 Rejestr podmiotów obsługujących kredyty
 
 **Art. 9.**
 
-1. Komisja prowadzi, systemie teleinformatycznym, rejestr podmiotów obsługujących kredyty, zwany dalej „rejestrem”.
+1. Komisja prowadzi, w systemie teleinformatycznym, rejestr podmiotów obsługujących kredyty, zwany dalej „rejestrem”.
 
-2. Dane zawarte rejestrze są jawne. Każdy ma prawo dostępu do tych danych i informacji.
+2. Dane zawarte w rejestrze są jawne. Każdy ma prawo dostępu do tych danych i informacji.
 
 **Art. 10.**
 
 1. Rejestr obejmuje:
 
 - **1)** podmioty obsługujące kredyty, które uzyskały zezwolenie;
-- **2)** podmioty obsługujące kredyty, odniesieniu do których organ nadzoru macierzystym państwie członkowskim przekazał Komisji zawiadomienie, o którym mowa art. 16 ust. 2.
+- **2)** podmioty obsługujące kredyty, w odniesieniu do których organ nadzoru w macierzystym państwie członkowskim przekazał Komisji zawiadomienie, o którym mowa w art. 16 ust. 2.
 
 2. Komisja udostępnia rejestr na swojej stronie internetowej.
 
@@ -170,47 +200,48 @@ source: "isap-pdf"
 1. Rejestr zawiera dane dotyczące podmiotu obsługującego kredyty, obejmujące:
 
 - **1)** numer wpisu do rejestru;
-- **2)** kod LEI – o ile posiada;
-- **3)** numer identyfikacji podatkowej (NIP) – o ile posiada;
-- **4)** numer rejestrze przedsiębiorców Krajowego Rejestru Sądowego lub innym równoważnym rejestrze państwie, którym podmiot ten posiada siedzibę, oraz nazwę tego rejestru;
-- **5)** numer REGON – o ile posiada;
+- **2)** kod LEI o ile posiada;
+- **3)** numer identyfikacji podatkowej (NIP) o ile posiada;
+- **4)** numer w rejestrze przedsiębiorców Krajowego Rejestru Sądowego lub innym równoważnym rejestrze w państwie, w którym podmiot ten posiada siedzibę, oraz nazwę tego rejestru;
+- **5)** numer REGON o ile posiada;
 - **6)** firmę (nazwę);
+- **7)** adres siedziby;
 - **8)** dane kontaktowe:
     - **a)** adres poczty elektronicznej,
     - **b)** adres strony internetowej zawierającej formularz elektroniczny podmiotu obsługującego kredyty,
     - **c)** numer telefonu,
     - **d)** adres do doręczeń elektronicznych,
-    - **e)** adres skrytki powiązanej z kontem na elektronicznej platformie usług administracji publicznej rozumieniu art. 3 pkt 13 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557 i 1717),
+    - **e)** adres skrytki powiązanej z kontem na elektronicznej platformie usług administracji publicznej w rozumieniu art. 3 pkt 13 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557 i 1717),
     - **f)** do celów przyjmowania reklamacji i skarg oraz odwołań od tych reklamacji i skarg;
 
 - **9)** status zezwolenia;
 - **10)** datę udzielenia zezwolenia;
 - **11)** datę cofnięcia albo wygaśnięcia zezwolenia;
 - **12)** datę ponownego udzielenia zezwolenia;
-- **13)** dane dotyczące prowadzenia przez podmiot obsługujący kredyty, o którym mowa art. 10 ust. 1 pkt 1, działalności goszczącym państwie członkowskim formie oddziału, obejmujące:
+- **13)** dane dotyczące prowadzenia przez podmiot obsługujący kredyty, o którym mowa w art. 10 ust. 1 pkt 1, działalności w goszczącym państwie członkowskim w formie oddziału, obejmujące:
     - **a)** nazwę (firmę) oddziału,
     - **b)** adres siedziby oddziału,
     - **c)** nazwę goszczącego państwa członkowskiego,
-    - **d)** datę rozpoczęcia działalności formie oddziału,
-    - **e)** datę zakończenia działalności formie oddziału;
+    - **d)** datę rozpoczęcia działalności w formie oddziału,
+    - **e)** datę zakończenia działalności w formie oddziału;
 
-- **14)** dane dotyczące prowadzenia przez podmiot obsługujący kredyty, o którym mowa art. 10 ust. 1 pkt 1, działalności transgranicznie goszczącym państwie członkowskim, obejmujące:
+- **14)** dane dotyczące prowadzenia przez podmiot obsługujący kredyty, o którym mowa w art. 10 ust. 1 pkt 1, działalności transgranicznie w goszczącym państwie członkowskim, obejmujące:
     - **a)** nazwę goszczącego państwa członkowskiego,
     - **b)** datę rozpoczęcia działalności transgranicznie,
     - **c)** datę zakończenia działalności transgranicznie.
 
-2. W przypadku podmiotów obsługujących kredyty, o których mowa art. 10 ust. 1 pkt 2, rejestr zawiera dane, o których mowa ust. 1 pkt 1–12, a także:
+2. W przypadku podmiotów obsługujących kredyty, o których mowa w art. 10 ust. 1 pkt 2, rejestr zawiera dane, o których mowa w ust. 1 pkt 1–12, a także:
 
-- **1)** firmę (nazwę) podmiotu obsługującego kredyty i nazwę handlową języku macierzystego państwa członkowskiego;
+- **1)** firmę (nazwę) podmiotu obsługującego kredyty i nazwę handlową w języku macierzystego państwa członkowskiego;
 - **2)** dane oddziału podmiotu obsługującego kredyty, który posiada siedzibę na terytorium państwa członkowskiego innego niż Rzeczpospolita Polska, obejmujące:
     - **a)** adres siedziby,
     - **b)** nazwę macierzystego państwa członkowskiego,
-    - **c)** numer rejestrze przedsiębiorców Krajowego Rejestru Sądowego;
+    - **c)** numer w rejestrze przedsiębiorców Krajowego Rejestru Sądowego;
 
 - **3)** datę rozpoczęcia działalności na terytorium Rzeczypospolitej Polskiej;
 - **4)** datę zakończenia działalności na terytorium Rzeczypospolitej Polskiej.
 
-3. W przypadku podmiotów obsługujących kredyty, o których mowa art. 10 ust. 1 pkt 2, dane, o których mowa ust. 1 pkt 9–12, obejmują informacje dotyczące zezwolenia udzielonego przez właściwy organ nadzoru macierzystym państwie członkowskim, wynikające z zawiadomienia, o którym mowa art. 16 ust. 2.
+3. W przypadku podmiotów obsługujących kredyty, o których mowa w art. 10 ust. 1 pkt 2, dane, o których mowa w ust. 1 pkt 9–12, obejmują informacje dotyczące zezwolenia udzielonego przez właściwy organ nadzoru w macierzystym państwie członkowskim, wynikające z zawiadomienia, o którym mowa w art. 16 ust. 2.
 
 **Art. 12.**
 
@@ -220,80 +251,86 @@ source: "isap-pdf"
 
 **Art. 13.**
 
-1. Podmiot obsługujący kredyty, o którym mowa art. 10 ust. 1 pkt 1, informuje Komisję o zmianie danych wpisanych do rejestru, nie później niż terminie 7 dni od dnia zmiany tych danych, składając wniosek o ich zmianę.
+1. Podmiot obsługujący kredyty, o którym mowa w art. 10 ust. 1 pkt 1, informuje Komisję o zmianie danych wpisanych do rejestru, nie później niż w terminie 7 dni od dnia zmiany tych danych, składając wniosek o ich zmianę.
 
-2. Komisja aktualizuje dane wpisane do rejestru terminie 7 dni od dnia otrzymania wniosku, o którym mowa ust. 1.
+2. Komisja aktualizuje dane wpisane do rejestru w terminie 7 dni od dnia otrzymania wniosku, o którym mowa w ust. 1.
 
-4. W przypadku gdy wniosek, o którym mowa ust. 1, jest niekompletny, Komisja wzywa do jego uzupełnienia we wskazanym terminie, nie krótszym niż 7 dni, pod rygorem pozostawienia wniosku bez rozpoznania.
+3. Do wniosku, o którym mowa w ust. 1, dołącza się potwierdzenie wniesienia opłaty, o której mowa w art. 47 ust. 2.
 
-5. Komisja informuje właściwy organ nadzoru goszczącego państwa członkowskiego o zmianie danych podmiotu obsługującego kredyty, o którym mowa art. 10 ust. 1 pkt 1, wpisanych do rejestru.
+4. W przypadku gdy wniosek, o którym mowa w ust. 1, jest niekompletny, Komisja wzywa do jego uzupełnienia we wskazanym terminie, nie krótszym niż 7 dni, pod rygorem pozostawienia wniosku bez rozpoznania.
 
-6. Przepis ust. 2 stosuje się odpowiednio przypadku otrzymania informacji o zmianie danych podmiotu obsługującego kredyty, o którym mowa art. 10 ust. 1 pkt 2, wpisanych do rejestru, przekazanych Komisji przez właściwy organ nadzoru macierzystego państwa członkowskiego.
+5. Komisja informuje właściwy organ nadzoru goszczącego państwa członkowskiego o zmianie danych podmiotu obsługującego kredyty, o którym mowa w art. 10 ust. 1 pkt 1, wpisanych do rejestru.
 
-#### Rozdział 4 Świadczenie usług zakresie obsługi kredytów
+6. Przepis ust. 2 stosuje się odpowiednio w przypadku otrzymania informacji o zmianie danych podmiotu obsługującego kredyty, o którym mowa w art. 10 ust. 1 pkt 2, wpisanych do rejestru, przekazanych Komisji przez właściwy organ nadzoru macierzystego państwa członkowskiego.
+
+#### Rozdział 4 Świadczenie usług w zakresie obsługi kredytów
 
 **Art. 14.**
 
-1. Podmiot obsługujący kredyty, o którym mowa art. 10 ust. 1 pkt 1, może prowadzić działalność na terytorium goszczącego państwa członkowskiego formie oddziału lub transgranicznie.
+1. Podmiot obsługujący kredyty, o którym mowa w art. 10 ust. 1 pkt 1, może prowadzić działalność na terytorium goszczącego państwa członkowskiego w formie oddziału lub transgranicznie.
 
-2. Podmiot obsługujący kredyty, o którym mowa art. 10 ust. 1 pkt 1, zawiadamia Komisję, formie pisemnej, o zamiarze prowadzenia działalności na terytorium goszczącego państwa członkowskiego.
+2. Podmiot obsługujący kredyty, o którym mowa w art. 10 ust. 1 pkt 1, zawiadamia Komisję, w formie pisemnej, o zamiarze prowadzenia działalności na terytorium goszczącego państwa członkowskiego.
 
-3. Zawiadomienie, o którym mowa ust. 2, zawiera:
+3. Zawiadomienie, o którym mowa w ust. 2, zawiera:
 
-- **1)** nazwę goszczącego państwa członkowskiego oraz nazwę państwa, którym zawarto umowę o kredyt, jeżeli nie jest to Rzeczpospolita Polska ani goszczące państwo członkowskie;
+- **1)** nazwę goszczącego państwa członkowskiego oraz nazwę państwa, w którym zawarto umowę o kredyt, jeżeli nie jest to Rzeczpospolita Polska ani goszczące państwo członkowskie;
 - **2)** firmę (nazwę) i adres siedziby oraz adres siedziby oddziału na terytorium goszczącego państwa członkowskiego albo informację o zamiarze prowadzenia działalności transgranicznie;
-- **3)** firmę (nazwę) i adres siedziby dostawcy usług obsługi kredytów albo jego oddziału – przypadku korzystania z usług dostawcy usług obsługi kredytów;
-- **4)** imiona i nazwiska oraz numery PESEL, a przypadku braku numeru PESEL – daty urodzenia, oraz serie i numery dowodów osobistych lub innych dokumentów potwierdzających tożsamość osób odpowiedzialnych za prowadzenie działalności zakresie obsługi kredytów goszczącym państwie członkowskim;
-- **5)** oświadczenie o posiadaniu wewnętrznych procedur i polityk dotyczących prowadzenia działalności zakresie obsługi kredytów, o których mowa art. 17, goszczącym państwie członkowskim, zgodnych z przepisami obowiązującymi tym goszczącym państwie członkowskim;
-- **6)** opis procedury ustanowionej celu zapewnienia zgodności prowadzonej działalności zakresie obsługi kredytów z przepisami goszczącego państwa członkowskiego dotyczącymi przeciwdziałania praniu pieniędzy i finansowaniu terroryzmu;
-- **7)** oświadczenie o posiadaniu odpowiednich środków do porozumiewania się języku goszczącego państwa członkowskiego lub języku, którym umowa o kredyt została sporządzona.
+- **3)** firmę (nazwę) i adres siedziby dostawcy usług obsługi kredytów albo jego oddziału w przypadku korzystania z usług dostawcy usług obsługi kredytów;
+- **4)** imiona i nazwiska oraz numery PESEL, a w przypadku braku numeru PESEL daty urodzenia, oraz serie i numery dowodów osobistych lub innych dokumentów potwierdzających tożsamość osób odpowiedzialnych za prowadzenie działalności w zakresie obsługi kredytów w goszczącym państwie członkowskim;
+- **5)** oświadczenie o posiadaniu wewnętrznych procedur i polityk dotyczących prowadzenia działalności w zakresie obsługi kredytów, o których mowa w art. 17, w goszczącym państwie członkowskim, zgodnych z przepisami obowiązującymi w tym goszczącym państwie członkowskim;
+- **6)** opis procedury ustanowionej w celu zapewnienia zgodności prowadzonej działalności w zakresie obsługi kredytów z przepisami goszczącego państwa członkowskiego dotyczącymi przeciwdziałania praniu pieniędzy i finansowaniu terroryzmu;
+- **7)** oświadczenie o posiadaniu odpowiednich środków do porozumiewania się w języku goszczącego państwa członkowskiego lub w języku, w którym umowa o kredyt została sporządzona.
 
-4. W terminie 45 dni od dnia otrzymania kompletnego zawiadomienia, o którym mowa ust. 2, Komisja przesyła je właściwym organom nadzoru goszczącego państwa członkowskiego wraz z informacją, że na terytorium Rzeczypospolitej Polskiej podmioty obsługujące kredyty są objęte zakazem, o którym mowa art. 18. O przesłaniu zawiadomienia Komisja powiadamia podmiot obsługujący kredyty, o którym mowa art. 10 ust. 1 pkt 1, oraz właściwy organ nadzoru państwa członkowskiego, którym zawarto umowę o kredyt, jeżeli jest inny niż organ nadzoru, do którego jest przesyłane zawiadomienie.
+4. W terminie 45 dni od dnia otrzymania kompletnego zawiadomienia, o którym mowa w ust. 2, Komisja przesyła je właściwym organom nadzoru goszczącego państwa członkowskiego wraz z informacją, że na terytorium Rzeczypospolitej Polskiej podmioty obsługujące kredyty są objęte zakazem, o którym mowa w art. 18. O przesłaniu zawiadomienia Komisja powiadamia podmiot obsługujący kredyty, o którym mowa w art. 10 ust. 1 pkt 1, oraz właściwy organ nadzoru państwa członkowskiego, w którym zawarto umowę o kredyt, jeżeli jest inny niż organ nadzoru, do którego jest przesyłane zawiadomienie.
 
-5. Podmiot obsługujący kredyty, o którym mowa art. 10 ust. 1 pkt 1, informuje Komisję o zmianie informacji, o których mowa ust. 3. Przepis ust. 4 stosuje się odpowiednio.
+5. Podmiot obsługujący kredyty, o którym mowa w art. 10 ust. 1 pkt 1, informuje Komisję o zmianie informacji, o których mowa w ust. 3. Przepis ust. 4 stosuje się odpowiednio.
 
-6. Komisja informuje podmiot obsługujący kredyty, o którym mowa art. 10 ust. 1 pkt 1, o potwierdzeniu otrzymania zawiadomienia, o którym mowa ust. 2, przez właściwy organ nadzoru goszczącego państwa członkowskiego.
+6. Komisja informuje podmiot obsługujący kredyty, o którym mowa w art. 10 ust. 1 pkt 1, o potwierdzeniu otrzymania zawiadomienia, o którym mowa w ust. 2, przez właściwy organ nadzoru goszczącego państwa członkowskiego.
 
-**Art. 15.** Podmiot obsługujący kredyty, o którym mowa art. 10 ust. 1 pkt 1, może rozpocząć prowadzenie działalności zakresie obsługi kredytów goszczącym państwie członkowskim:
+**Art. 15.** Podmiot obsługujący kredyty, o którym mowa w art. 10 ust. 1 pkt 1, może rozpocząć prowadzenie działalności w zakresie obsługi kredytów w goszczącym państwie członkowskim:
+
+- **1)** od dnia otrzymania od właściwych organów nadzoru goszczącego państwa członkowskiego potwierdzenia otrzymania zawiadomienia, o którym mowa w art. 14 ust. 2, albo
+- **2)** w przypadku nieotrzymania od właściwych organów nadzoru goszczącego państwa członkowskiego potwierdzenia otrzymania zawiadomienia, o którym mowa w art. 14 ust. 2 po upływie 2 miesięcy od dnia przekazania właściwym organom nadzoru goszczącego państwa członkowskiego tego zawiadomienia.
 
 **Art. 16.**
 
-1. Podmiot obsługujący kredyty, o którym mowa art. 10 ust. 1 pkt 2, może prowadzić działalność zakresie obsługi kredytów na terytorium Rzeczypospolitej Polskiej formie oddziału albo transgranicznie.
+1. Podmiot obsługujący kredyty, o którym mowa w art. 10 ust. 1 pkt 2, może prowadzić działalność w zakresie obsługi kredytów na terytorium Rzeczypospolitej Polskiej w formie oddziału albo transgranicznie.
 
-2. Jeżeli organ nadzoru macierzystego państwa członkowskiego, którym podmiot obsługujący kredyty, o którym mowa art. 10 ust. 1 pkt 2, ma siedzibę, zawiadamia Komisję o zamiarze rozpoczęcia przez ten podmiot prowadzenia działalności zakresie obsługi kredytów na terytorium Rzeczypospolitej Polskiej formie oddziału lub transgranicznie, Komisja z urzędu przekazuje potwierdzenie otrzymania zawiadomienia temu podmiotowi oraz organowi nadzoru macierzystego państwa członkowskiego terminie 14 dni od dnia otrzymania tego zawiadomienia.
+2. Jeżeli organ nadzoru macierzystego państwa członkowskiego, w którym podmiot obsługujący kredyty, o którym mowa w art. 10 ust. 1 pkt 2, ma siedzibę, zawiadamia Komisję o zamiarze rozpoczęcia przez ten podmiot prowadzenia działalności w zakresie obsługi kredytów na terytorium Rzeczypospolitej Polskiej w formie oddziału lub transgranicznie, Komisja z urzędu przekazuje potwierdzenie otrzymania zawiadomienia temu podmiotowi oraz organowi nadzoru macierzystego państwa członkowskiego w terminie 14 dni od dnia otrzymania tego zawiadomienia.
 
-3. Podmiot, o którym mowa art. 10 ust. 1 pkt 2, może rozpocząć prowadzenie działalności zakresie obsługi kredytów na terytorium Rzeczypospolitej Polskiej formie oddziału lub transgranicznie:
+3. Podmiot, o którym mowa w art. 10 ust. 1 pkt 2, może rozpocząć prowadzenie działalności w zakresie obsługi kredytów na terytorium Rzeczypospolitej Polskiej w formie oddziału lub transgranicznie:
 
-- **1)** od dnia otrzymania potwierdzenia otrzymania zawiadomienia, o którym mowa ust. 2, albo
-- **2)** przypadku nieotrzymania potwierdzenia otrzymania zawiadomienia, o którym mowa ust. 2 – po upływie 2 miesięcy od dnia przekazania Komisji zawiadomienia, o którym mowa ust. 2.
+- **1)** od dnia otrzymania potwierdzenia otrzymania zawiadomienia, o którym mowa w ust. 2, albo
+- **2)** w przypadku nieotrzymania potwierdzenia otrzymania zawiadomienia, o którym mowa w ust. 2 po upływie 2 miesięcy od dnia przekazania Komisji zawiadomienia, o którym mowa w ust. 2.
 
 **Art. 17.**
 
-1. Podmiot obsługujący kredyty jest obowiązany do opracowania i stosowania wewnętrznych procedur i polityk dotyczących prowadzenia działalności zakresie obsługi kredytów, obejmujących co najmniej:
+1. Podmiot obsługujący kredyty jest obowiązany do opracowania i stosowania wewnętrznych procedur i polityk dotyczących prowadzenia działalności w zakresie obsługi kredytów, obejmujących co najmniej:
 
-- **1)** system zarządzania ryzykiem i system kontroli wewnętrznej, tym procedury księgowe, które zapewniają ochronę praw kredytobiorcy oraz zgodność z przepisami regulującymi prawa kredytodawcy wynikające z umowy o kredyt, przepisami regulującymi umowę kredytu oraz przepisami rozporządzenia nr 2016/679;
-- **2)** procedury ochrony praw kredytobiorców zapewniające, z zachowaniem należytej staranności, sprawiedliwe ich traktowanie, tym przez uwzględnianie sytuacji finansowej kredytobiorców oraz konieczności poinformowania ich o istniejących możliwościach uzyskania wsparcia;
+- **1)** system zarządzania ryzykiem i system kontroli wewnętrznej, w tym procedury księgowe, które zapewniają ochronę praw kredytobiorcy oraz zgodność z przepisami regulującymi prawa kredytodawcy wynikające z umowy o kredyt, przepisami regulującymi umowę kredytu oraz przepisami rozporządzenia nr 2016/679;
+- **2)** procedury ochrony praw kredytobiorców zapewniające, z zachowaniem należytej staranności, sprawiedliwe ich traktowanie, w tym przez uwzględnianie sytuacji finansowej kredytobiorców oraz konieczności poinformowania ich o istniejących możliwościach uzyskania wsparcia;
 - **3)** procedury pozwalające na ocenę sytuacji finansowej kredytobiorcy;
 - **4)** procedury dotyczące przyjmowania reklamacji i skarg, a także odwołań od tych reklamacji i skarg;
-- **5)** procedury, tym rozwiązania techniczne i organizacyjne, zapewniające ochronę tajemnic prawnie chronionych oraz regulamin ochrony przepływu informacji objętych takimi tajemnicami;
+- **5)** procedury, w tym rozwiązania techniczne i organizacyjne, zapewniające ochronę tajemnic prawnie chronionych oraz regulamin ochrony przepływu informacji objętych takimi tajemnicami;
 - **6)** procedury przeciwdziałania praniu pieniędzy i finansowaniu terroryzmu.
 
-2. System zarządzania ryzykiem, o którym mowa ust. 1 pkt 1, zapewnia prawidłowość procesu wyznaczania i realizacji szczegółowych celów działalności prowadzonej przez podmiot obsługujący kredyty przez odpowiednio wdrożone procedury identyfikacji, pomiaru lub szacowania, monitorowania, raportowania i kontroli oraz ograniczania ryzyka.
+2. System zarządzania ryzykiem, o którym mowa w ust. 1 pkt 1, zapewnia prawidłowość procesu wyznaczania i realizacji szczegółowych celów działalności prowadzonej przez podmiot obsługujący kredyty przez odpowiednio wdrożone procedury identyfikacji, pomiaru lub szacowania, monitorowania, raportowania i kontroli oraz ograniczania ryzyka.
 
-3. System kontroli wewnętrznej, o którym mowa ust. 1 pkt 1, stanowiący zbiór mechanizmów kontrolnych, zapewnia osiąganie określonych celów tego systemu zakresie skuteczności i efektywności działania podmiotu obsługującego kredyty, wiarygodności sprawozdawczości finansowej, przestrzegania zasad zarządzania ryzykiem, zgodności działania z przepisami prawa, regulacjami wewnętrznymi i standardami rynkowymi.
+3. System kontroli wewnętrznej, o którym mowa w ust. 1 pkt 1, stanowiący zbiór mechanizmów kontrolnych, zapewnia osiąganie określonych celów tego systemu w zakresie skuteczności i efektywności działania podmiotu obsługującego kredyty, wiarygodności sprawozdawczości finansowej, przestrzegania zasad zarządzania ryzykiem, zgodności działania z przepisami prawa, regulacjami wewnętrznymi i standardami rynkowymi.
 
-4. Minister właściwy do spraw instytucji finansowych określi, drodze rozporządzenia, sposób organizacji systemu zarządzania ryzykiem, o którym mowa ust. 1 pkt 1, tym rodzaje procedur go tworzących, mając na względzie potrzebę zapewnienia skutecznego funkcjonowania organów statutowych podmiotów obsługujących kredyty i należytego podejścia do podejmowanego ryzyka zakresie prowadzonej działalności, a także zapewnienia skutecznego działania mechanizmów wykrywania tego ryzyka.
+4. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, sposób organizacji systemu zarządzania ryzykiem, o którym mowa w ust. 1 pkt 1, w tym rodzaje procedur go tworzących, mając na względzie potrzebę zapewnienia skutecznego funkcjonowania organów statutowych podmiotów obsługujących kredyty i należytego podejścia do podejmowanego ryzyka w zakresie prowadzonej działalności, a także zapewnienia skutecznego działania mechanizmów wykrywania tego ryzyka.
 
-**Art. 18.** Podmiot obsługujący kredyty nie może przyjmować ani przechowywać środków finansowych od kredytobiorców podczas prowadzenia działalności zakresie obsługi kredytów.
+**Art. 18.** Podmiot obsługujący kredyty nie może przyjmować ani przechowywać środków finansowych od kredytobiorców podczas prowadzenia działalności w zakresie obsługi kredytów.
 
 **Art. 19.**
 
-1. Podmiot obsługujący kredyty, o którym mowa art. 10 ust. 1 pkt 1, oraz oddział podmiotu obsługującego kredyty, o którym mowa art. 10 ust. 1 pkt 2, prowadzą i przechowują na trwałym nośniku przez 7 lat, licząc od końca roku, którym zakończyły działalność zakresie obsługi danej umowy o kredyt, dokumentację związaną z prowadzeniem tej działalności, obejmującą:
+1. Podmiot obsługujący kredyty, o którym mowa w art. 10 ust. 1 pkt 1, oraz oddział podmiotu obsługującego kredyty, o którym mowa w art. 10 ust. 1 pkt 2, prowadzą i przechowują na trwałym nośniku przez 7 lat, licząc od końca roku, w którym zakończyły działalność w zakresie obsługi danej umowy o kredyt, dokumentację związaną z prowadzeniem tej działalności, obejmującą:
 
 - **1)** korespondencję prowadzoną z nabywcą kredytu i kredytobiorcą,
-- **2)** umowę o obsługę kredytów, – oraz informują Komisję o miejscu przechowywania tej dokumentacji.
+- **2)** umowę o obsługę kredytów,
+- **3)** dokumenty dotyczące współpracy z dostawcą usług obsługi kredytów oraz informują Komisję o miejscu przechowywania tej dokumentacji.
 
-2. Obowiązek, o którym mowa ust. 1, uważa się za wykonany także przypadku zapewnienia przez podmiot obsługujący kredyty, o którym mowa art. 10 ust. 1 pkt 1, oraz oddział podmiotu obsługującego kredyty, o którym mowa art. 10 ust. 1 pkt 2, przechowywania dokumentacji przez następcę prawnego tego podmiotu obsługującego kredyty lub tego oddziału lub przez podmiot trzeci świadczący usługi zakresie przechowywania dokumentów.
+2. Obowiązek, o którym mowa w ust. 1, uważa się za wykonany także w przypadku zapewnienia przez podmiot obsługujący kredyty, o którym mowa w art. 10 ust. 1 pkt 1, oraz oddział podmiotu obsługującego kredyty, o którym mowa w art. 10 ust. 1 pkt 2, przechowywania dokumentacji przez następcę prawnego tego podmiotu obsługującego kredyty lub tego oddziału lub przez podmiot trzeci świadczący usługi w zakresie przechowywania dokumentów.
 
 #### Rozdział 5 Wyznaczenie podmiotu obsługującego kredyty
 
@@ -301,161 +338,172 @@ source: "isap-pdf"
 
 1. Nabywca kredytu posiadający miejsce zamieszkania albo siedzibę na terytorium państwa członkowskiego do obsługi praw kredytodawcy wynikających z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt, zawartej z konsumentem, wyznacza bank krajowy, oddział instytucji kredytowej albo podmiot obsługujący kredyty, chyba że sam jest takim bankiem krajowym, oddziałem instytucji kredytowej albo podmiotem obsługującym kredyty.
 
-2. W przypadku gdy nabywca kredytu nie posiada miejsca zamieszkania ani siedziby na terytorium państwa członkowskiego, jego przedstawiciel, o którym mowa art. 24, wyznacza podmiot obsługujący kredyty, bank krajowy albo oddział instytucji kredytowej do obsługi praw kredytodawcy wynikających z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt, zawartej z konsumentem, mikroprzedsiębiorcą lub małym lub średnim przedsiębiorcą, chyba że przedstawiciel, o którym mowa art. 24, jest takim bankiem krajowym, oddziałem instytucji kredytowej albo podmiotem obsługującym kredyty.
+2. W przypadku gdy nabywca kredytu nie posiada miejsca zamieszkania ani siedziby na terytorium państwa członkowskiego, jego przedstawiciel, o którym mowa w art. 24, wyznacza podmiot obsługujący kredyty, bank krajowy albo oddział instytucji kredytowej do obsługi praw kredytodawcy wynikających z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt, zawartej z konsumentem, mikroprzedsiębiorcą lub małym lub średnim przedsiębiorcą, chyba że przedstawiciel, o którym mowa w art. 24, jest takim bankiem krajowym, oddziałem instytucji kredytowej albo podmiotem obsługującym kredyty.
 
 **Art. 21.**
 
-1. Nabywca kredytu, który nie prowadzi działalności zakresie obsługi kredytów, lub przedstawiciel, o którym mowa art. 24, wyznaczając podmiot obsługujący kredyty, zgodnie z art. 20, zawiera z tym podmiotem obsługującym kredyty, formie pisemnej, umowę o obsługę kredytów.
+1. Nabywca kredytu, który nie prowadzi działalności w zakresie obsługi kredytów, lub przedstawiciel, o którym mowa w art. 24, wyznaczając podmiot obsługujący kredyty, zgodnie z art. 20, zawiera z tym podmiotem obsługującym kredyty, w formie pisemnej, umowę o obsługę kredytów.
 
-2. Umowa o obsługę kredytów, szczególności:
+2. Umowa o obsługę kredytów, w szczególności:
 
 - **1)** wskazuje dane identyfikacyjne podmiotu obsługującego kredyty;
-- **2)** zawiera szczegółowy opis działalności zakresie obsługi kredytów wykonywanej przez podmiot obsługujący kredyty;
+- **2)** zawiera szczegółowy opis działalności w zakresie obsługi kredytów wykonywanej przez podmiot obsługujący kredyty;
 - **3)** określa wysokość wynagrodzenia albo sposób jego obliczenia;
-- **4)** określa czynności zakresie obsługi kredytów wykonywane przez podmiot obsługujący kredyty imieniu i na rzecz nabywcy kredytu;
-- **5)** określa zobowiązanie stron do przestrzegania umowy o kredyt oraz prawa właściwego dla praw kredytodawcy wynikających z umowy o kredyt, tym zakresie ochrony konsumentów i ochrony danych osobowych;
-- **6)** określa zobowiązanie podmiotu obsługującego kredyty do sprawiedliwego traktowania kredytobiorców oraz do działania relacjach z nimi dobrej wierze oraz sposób uczciwy i profesjonalny, z uwzględnieniem indywidualnej sytuacji danego kredytobiorcy, oraz z zachowaniem należytej staranności;
-- **7)** określa obowiązek powiadomienia nabywcy kredytu przez podmiot obsługujący kredyty o powierzeniu dostawcy usług obsługi kredytów wykonywania czynności, o których mowa pkt 4, przed dokonaniem takiego powierzenia.
+- **4)** określa czynności w zakresie obsługi kredytów wykonywane przez podmiot obsługujący kredyty w imieniu i na rzecz nabywcy kredytu;
+- **5)** określa zobowiązanie stron do przestrzegania umowy o kredyt oraz prawa właściwego dla praw kredytodawcy wynikających z umowy o kredyt, w tym w zakresie ochrony konsumentów i ochrony danych osobowych;
+- **6)** określa zobowiązanie podmiotu obsługującego kredyty do sprawiedliwego traktowania kredytobiorców oraz do działania w relacjach z nimi w dobrej wierze oraz w sposób uczciwy i profesjonalny, z uwzględnieniem indywidualnej sytuacji danego kredytobiorcy, oraz z zachowaniem należytej staranności;
+- **7)** określa obowiązek powiadomienia nabywcy kredytu przez podmiot obsługujący kredyty o powierzeniu dostawcy usług obsługi kredytów wykonywania czynności, o których mowa w pkt 4, przed dokonaniem takiego powierzenia.
 
-3. Nabywca kredytu lub przedstawiciel, o którym mowa art. 24, informuje Komisję o zawarciu umowy o obsługę kredytów terminie 14 dni od dnia jej zawarcia, wskazując podmiot obsługujący kredyty, z którym została zawarta ta umowa o obsługę kredytów.
+3. Nabywca kredytu lub przedstawiciel, o którym mowa w art. 24, informuje Komisję o zawarciu umowy o obsługę kredytów w terminie 14 dni od dnia jej zawarcia, wskazując podmiot obsługujący kredyty, z którym została zawarta ta umowa o obsługę kredytów.
 
-4. Nabywca kredytu lub przedstawiciel, o którym mowa art. 24, informuje Komisję o zawarciu umowy o obsługę kredytów najpóźniej dniu zawarcia umowy o obsługę kredytów z podmiotem obsługującym kredyty innym niż dotychczasowy, wskazując ten podmiot.
+4. Nabywca kredytu lub przedstawiciel, o którym mowa w art. 24, informuje Komisję o zawarciu umowy o obsługę kredytów najpóźniej w dniu zawarcia umowy o obsługę kredytów z podmiotem obsługującym kredyty innym niż dotychczasowy, wskazując ten podmiot.
 
-5. Przepisy ust. 1–4 stosuje się odpowiednio przypadku wyznaczenia przez nabywcę kredytu podmiotu obsługującego kredyty do obsługi praw kredytodawcy wynikających z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt, zawartej z podmiotem innym niż konsument, mikroprzedsiębiorca lub mały lub średni przedsiębiorca.
+5. Przepisy ust. 1–4 stosuje się odpowiednio w przypadku wyznaczenia przez nabywcę kredytu podmiotu obsługującego kredyty do obsługi praw kredytodawcy wynikających z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt, zawartej z podmiotem innym niż konsument, mikroprzedsiębiorca lub mały lub średni przedsiębiorca.
 
 **Art. 22.**
 
-1. Nabywca kredytu lub przedstawiciel, o którym mowa art. 24, informuje Komisję o wyznaczeniu, zgodnie z art. 20, banku krajowego albo oddziału instytucji kredytowej, terminie 14 dni od dnia tego wyznaczenia, nie później niż dniu rozpoczęcia obsługi tego kredytu.
+1. Nabywca kredytu lub przedstawiciel, o którym mowa w art. 24, informuje Komisję o wyznaczeniu, zgodnie z art. 20, banku krajowego albo oddziału instytucji kredytowej, w terminie 14 dni od dnia tego wyznaczenia, nie później niż w dniu rozpoczęcia obsługi tego kredytu.
 
-2. Przepis art. 21 ust. 4 stosuje się odpowiednio przypadku wyznaczenia, zgodnie z art. 20, banku krajowego albo oddziału instytucji kredytowej innego niż dotychczasowy, do obsługi danego kredytu. Powierzanie wykonywania czynności przez podmiot obsługujący kredyty
+2. Przepis art. 21 ust. 4 stosuje się odpowiednio w przypadku wyznaczenia, zgodnie z art. 20, banku krajowego albo oddziału instytucji kredytowej innego niż dotychczasowy, do obsługi danego kredytu.
+
+#### Rozdział 6 Powierzanie wykonywania czynności przez podmiot obsługujący kredyty
 
 **Art. 23.**
 
-1. Podmiot obsługujący kredyty może, drodze umowy zawartej formie pisemnej, powierzyć dostawcy usług obsługi kredytów wykonywanie czynności zakresie obsługi kredytów.
+1. Podmiot obsługujący kredyty może, w drodze umowy zawartej w formie pisemnej, powierzyć dostawcy usług obsługi kredytów wykonywanie czynności w zakresie obsługi kredytów.
 
-2. Umowa, o której mowa ust. 1, szczególności:
+2. Umowa, o której mowa w ust. 1, w szczególności:
 
-- **1)** zapewnia podmiotowi obsługującemu kredyty bezpośredni dostęp do informacji dotyczących powierzonych czynności zakresie obsługi kredytów;
-- **2)** obejmuje postanowienia zakresie powierzenia przetwarzania danych osobowych kredytobiorców z uwzględnieniem przepisów rozporządzenia nr 2016/679.
+- **1)** zapewnia podmiotowi obsługującemu kredyty bezpośredni dostęp do informacji dotyczących powierzonych czynności w zakresie obsługi kredytów;
+- **2)** obejmuje postanowienia w zakresie powierzenia przetwarzania danych osobowych kredytobiorców z uwzględnieniem przepisów rozporządzenia nr 2016/679.
 
-3. Podmiot obsługujący kredyty zawiadamia Komisję o zamiarze zawarcia umowy, o której mowa ust. 1, oraz o jej zmianie, rozwiązaniu albo wygaśnięciu, co najmniej 14 dni przed dniem jej zawarcia, zmiany, rozwiązania albo wygaśnięcia.
+3. Podmiot obsługujący kredyty zawiadamia Komisję o zamiarze zawarcia umowy, o której mowa w ust. 1, oraz o jej zmianie, rozwiązaniu albo wygaśnięciu, co najmniej 14 dni przed dniem jej zawarcia, zmiany, rozwiązania albo wygaśnięcia.
 
-4. Dostawca usług obsługi kredytów prowadzi i przechowuje na trwałym nośniku przez 7 lat, licząc od końca roku, którym zakończył działalność zakresie obsługi danej umowy o kredyt, dokumentację dotyczącą współpracy z podmiotem obsługującym kredyty oraz dokumentację dotyczącą wykonywania czynności zakresie obsługi kredytów oraz informuje Komisję o miejscu przechowywania tej dokumentacji.
+4. Dostawca usług obsługi kredytów prowadzi i przechowuje na trwałym nośniku przez 7 lat, licząc od końca roku, w którym zakończył działalność w zakresie obsługi danej umowy o kredyt, dokumentację dotyczącą współpracy z podmiotem obsługującym kredyty oraz dokumentację dotyczącą wykonywania czynności w zakresie obsługi kredytów oraz informuje Komisję o miejscu przechowywania tej dokumentacji.
 
-5. Powierzenie wykonywania czynności zakresie obsługi kredytów nie może:
+5. Powierzenie wykonywania czynności w zakresie obsługi kredytów nie może:
 
-- **1)** obejmować powierzenia wykonywania wszystkich czynności objętych działalnością zakresie obsługi kredytów;
+- **1)** obejmować powierzenia wykonywania wszystkich czynności objętych działalnością w zakresie obsługi kredytów;
 - **2)** być sprzeczne z postanowieniami umowy o obsługę kredytów, zawartej przez podmiot obsługujący kredyty;
 - **3)** wpływać na spełnienie przez podmiot obsługujący kredyty przesłanek udzielenia zezwolenia;
 - **4)** uniemożliwiać Komisji sprawowania nadzoru nad podmiotem obsługującym kredyty;
-- **5)** prowadzić do pogorszenia jakości kontroli wewnętrznej podmiotu obsługującego kredyty, rzetelności lub ciągłości jego działalności zakresie obsługi kredytów.
+- **5)** prowadzić do pogorszenia jakości kontroli wewnętrznej podmiotu obsługującego kredyty, rzetelności lub ciągłości jego działalności w zakresie obsługi kredytów.
 
 #### Rozdział 7 Przedstawiciele nabywców kredytów z państw trzecich
 
 **Art. 24.**
 
-1. W przypadku gdy nabywca kredytu nie posiada miejsca zamieszkania albo siedziby na terytorium państwa członkowskiego, wyznacza, drodze umowy zawartej formie pisemnej, swojego przedstawiciela, zwanego dalej „przedstawicielem”, który posiada miejsce zamieszkania albo siedzibę na terytorium Rzeczypospolitej Polskiej, i terminie 14 dni od dnia jego wyznaczenia informuje o tym Komisję, przekazując dane dotyczące przedstawiciela, obejmujące:
+1. W przypadku gdy nabywca kredytu nie posiada miejsca zamieszkania albo siedziby na terytorium państwa członkowskiego, wyznacza, w drodze umowy zawartej w formie pisemnej, swojego przedstawiciela, zwanego dalej „przedstawicielem”, który posiada miejsce zamieszkania albo siedzibę na terytorium Rzeczypospolitej Polskiej, i w terminie 14 dni od dnia jego wyznaczenia informuje o tym Komisję, przekazując dane dotyczące przedstawiciela, obejmujące:
 
-- **1)** przypadku osoby fizycznej – imię i nazwisko, numer PESEL, a przypadku braku numeru PESEL – datę urodzenia, oraz serię i numer dowodu osobistego lub innego dokumentu potwierdzającego tożsamość, a także adres miejsca prowadzenia działalności gospodarczej;
-- **2)** przypadku osoby prawnej – firmę (nazwę) i adres siedziby oraz numer rejestrze przedsiębiorców Krajowego Rejestru Sądowego.
+- **1)** w przypadku osoby fizycznej imię i nazwisko, numer PESEL, a w przypadku braku numeru PESEL datę urodzenia, oraz serię i numer dowodu osobistego lub innego dokumentu potwierdzającego tożsamość, a także adres miejsca prowadzenia działalności gospodarczej;
+- **2)** w przypadku osoby prawnej firmę (nazwę) i adres siedziby oraz numer w rejestrze przedsiębiorców Krajowego Rejestru Sądowego.
 
-2. Nabywca kredytu informuje Komisję o zmianie przedstawiciela albo danych przedstawiciela, o których mowa ust. 1, terminie 14 dni od dnia tej zmiany.
+2. Nabywca kredytu informuje Komisję o zmianie przedstawiciela albo danych przedstawiciela, o których mowa w ust. 1, w terminie 14 dni od dnia tej zmiany.
 
 3. Umowa zbycia praw kredytodawcy wynikających z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt zawarta przez nabywcę kredytu nieposiadającego miejsca zamieszkania albo siedziby na terytorium państwa członkowskiego, który nie wyznaczył przedstawiciela zgodnie z ust. 1, jest nieważna.
 
-4. Przedstawiciel ponosi odpowiedzialność za wykonywanie obowiązków nabywcy kredytu określonych ustawie tym samym zakresie co nabywca kredytu.
+4. Przedstawiciel ponosi odpowiedzialność za wykonywanie obowiązków nabywcy kredytu określonych w ustawie w tym samym zakresie co nabywca kredytu.
 
 #### Rozdział 8 Obowiązki informacyjne
 
 **Art. 25.**
 
-1. Kredytodawca przekazuje na wniosek podmiotu, który przystąpił do negocjacji rozumieniu art. 72 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny celu nabycia praw kredytodawcy wynikających z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt, na trwałym nośniku, informacje dotyczące tych praw kredytodawcy lub tej wierzytelności, które umożliwiają ocenę możliwości odzyskania wartości wierzytelności wynikającej z takiej umowy przypadku nabycia praw kredytodawcy wynikających z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt. Przepisy art. 104 ust. 2 pkt 2 lit. d i pkt 4a oraz ust. 5 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe stosuje się odpowiednio. o kredyt.
+1. Kredytodawca przekazuje na wniosek podmiotu, który przystąpił do negocjacji w rozumieniu art. 72 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny w celu nabycia praw kredytodawcy wynikających z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt, na trwałym nośniku, informacje dotyczące tych praw kredytodawcy lub tej wierzytelności, które umożliwiają ocenę możliwości odzyskania wartości wierzytelności wynikającej z takiej umowy w przypadku nabycia praw kredytodawcy wynikających z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt. Przepisy art. 104 ust. 2 pkt 2 lit. d i pkt 4a oraz ust. 5 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe stosuje się odpowiednio.
 
-3. Przekazywanie informacji, o których mowa ust. 1, odbywa się zgodnie z art. 24 oraz art. 32 ust. 1 rozporządzenia nr 2016/679.
+2. Przekazując informacje, o których mowa w ust. 1, kredytodawca przekazuje dane osobowe kredytobiorców w zakresie niezbędnym do oceny możliwości odzyskania wartości wierzytelności wynikających z nieobsługiwanych umów o kredyt.
 
-4. Komisja współpracuje z organami nadzoru właściwymi dla miejsca zamieszkania albo siedziby nabywcy kredytu zakresie wymiany informacji dotyczących przeniesienia praw kredytodawcy wynikających z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt zakresie, o którym mowa art. 27 ust. 1.
+3. Przekazywanie informacji, o których mowa w ust. 1, odbywa się zgodnie z art. 24 oraz art. 32 ust. 1 rozporządzenia nr 2016/679.
 
-5. Dokonując oceny wykonania obowiązku, o którym mowa ust. 1, Komisja uwzględnia wytyczne Europejskiego Urzędu Nadzoru Bankowego wydane porozumieniu z Europejską Radą do spraw Ryzyka Systemowego zgodnie z art. 16 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1093/2010 z dnia 24 listopada 2010 r. sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Bankowego), zmiany decyzji nr 716/2009/WE oraz uchylenia decyzji Komisji 2009/78/WE (Dz. Urz. UE L 331 z 15.12.2010, str. 12, z późn. zm. ), rekomendację Komitetu Stabilności Finansowej dotyczącą metodyki, kryteriów identyfikacji i kalibracji buforów innych instytucji o znaczeniu systemowym oraz wykonawcze standardy techniczne wydane na podstawie art. 16 ust. 6 dyrektywy Parlamentu Europejskiego i Rady (UE) 2021/2167 z dnia 24 listopada 2021 r. sprawie podmiotów obsługujących kredyty i nabywców kredytów oraz sprawie zmiany dyrektyw 2008/48/WE i 2014/17/UE (Dz. Urz. UE L 438 z 08.12.2021, str. 1).
+4. Komisja współpracuje z organami nadzoru właściwymi dla miejsca zamieszkania albo siedziby nabywcy kredytu w zakresie wymiany informacji dotyczących przeniesienia praw kredytodawcy wynikających z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt w zakresie, o którym mowa w art. 27 ust. 1.
+
+5. Dokonując oceny wykonania obowiązku, o którym mowa w ust. 1, Komisja uwzględnia wytyczne Europejskiego Urzędu Nadzoru Bankowego wydane w porozumieniu z Europejską Radą do spraw Ryzyka Systemowego zgodnie z art. 16 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1093/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Bankowego), zmiany decyzji nr 716/2009/WE oraz uchylenia decyzji Komisji 2009/78/WE (Dz. Urz. UE L 331 z 15.12.2010, str. 12, z późn. zm. ), rekomendację Komitetu Stabilności Finansowej dotyczącą metodyki, kryteriów identyfikacji i kalibracji buforów innych instytucji o znaczeniu systemowym oraz wykonawcze standardy techniczne wydane na podstawie art. 16 ust. 6 dyrektywy Parlamentu Europejskiego i Rady (UE) 2021/2167 z dnia 24 listopada 2021 r. w sprawie podmiotów obsługujących kredyty i nabywców kredytów oraz w sprawie zmiany dyrektyw 2008/48/WE i 2014/17/UE (Dz. Urz. UE L 438 z 08.12.2021, str. 1).
 
 **Art. 26.**
 
-1. Nabywca kredytu, przedstawiciel, podmiot obsługujący kredyty i dostawca usług obsługi kredytów stosunkach z kredytobiorcami są obowiązani:
+1. Nabywca kredytu, przedstawiciel, podmiot obsługujący kredyty i dostawca usług obsługi kredytów w stosunkach z kredytobiorcami są obowiązani:
 
-- **1)** działać dobrej wierze, uczciwie i profesjonalnie;
-- **2)** przekazywać kredytobiorcom jasne, niewprowadzające błąd i zgodne z prawdą informacje;
-- **3)** przestrzegać przepisów, a stosownych przypadkach także procedur, zakresie ochrony danych osobowych kredytobiorców, z uwzględnieniem przepisów rozporządzenia nr 2016/679;
-- **4)** komunikować się z kredytobiorcami sposób, który nie stanowi nękania, przymusu lub bezprawnego nacisku.
+- **1)** działać w dobrej wierze, uczciwie i profesjonalnie;
+- **2)** przekazywać kredytobiorcom jasne, niewprowadzające w błąd i zgodne z prawdą informacje;
+- **3)** przestrzegać przepisów, a w stosownych przypadkach także procedur, w zakresie ochrony danych osobowych kredytobiorców, z uwzględnieniem przepisów rozporządzenia nr 2016/679;
+- **4)** komunikować się z kredytobiorcami w sposób, który nie stanowi nękania, przymusu lub bezprawnego nacisku.
 
-2. W przypadku przeniesienia na nabywcę kredytu praw kredytodawcy wynikających z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt, nabywca kredytu lub przedstawiciel albo podmiot obsługujący kredyty, terminie 21 dni od dnia tego przeniesienia, bezpłatnie przekazuje kredytobiorcy napisaną jasnym i powszechnie zrozumiałym językiem informację zawierającą:
+2. W przypadku przeniesienia na nabywcę kredytu praw kredytodawcy wynikających z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt, nabywca kredytu lub przedstawiciel albo podmiot obsługujący kredyty, w terminie 21 dni od dnia tego przeniesienia, bezpłatnie przekazuje kredytobiorcy napisaną jasnym i powszechnie zrozumiałym językiem informację zawierającą:
 
 - **1)** datę nabycia praw kredytodawcy wynikających z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt;
-- **2)** przypadku nabywcy kredytu lub przedstawiciela będącego:
-    - **a)** osobą fizyczną – imię i nazwisko oraz numer PESEL, a przypadku braku numeru PESEL – datę urodzenia, oraz serię i numer dowodu osobistego lub innego dokumentu potwierdzającego tożsamość i adres miejsca prowadzenia działalności gospodarczej,
-    - **b)** osobą prawną – firmę (nazwę) i adres siedziby oraz numer rejestrze przedsiębiorców Krajowego Rejestru Sądowego lub innym równoważnym rejestrze państwie, którym nabywca kredytu lub przedstawiciel posiada siedzibę, oraz nazwę tego rejestru;
+- **2)** w przypadku nabywcy kredytu lub przedstawiciela będącego:
+    - **a)** osobą fizyczną imię i nazwisko oraz numer PESEL, a w przypadku braku numeru PESEL datę urodzenia, oraz serię i numer dowodu osobistego lub innego dokumentu potwierdzającego tożsamość i adres miejsca prowadzenia działalności gospodarczej,
+    - **b)** osobą prawną firmę (nazwę) i adres siedziby oraz numer w rejestrze przedsiębiorców Krajowego Rejestru Sądowego lub innym równoważnym rejestrze w państwie, w którym nabywca kredytu lub przedstawiciel posiada siedzibę, oraz nazwę tego rejestru;
 
-- **3)** przypadku podmiotu obsługującego kredyty – numer wpisu do rejestru;
-- **4)** przypadku ustanowienia dostawcy usług obsługi kredytów będącego: nabycia praw kredytodawcy wynikających z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt, numer rachunku, na jaki kredytobiorca jest obowiązany wpłacać należności z tytułu umowy o kredyt;
-    - **a)** osobą fizyczną – imię i nazwisko oraz numer PESEL, a przypadku braku numeru PESEL – datę urodzenia, oraz serię i numer dowodu osobistego lub innego dokumentu potwierdzającego tożsamość i adres miejsca prowadzenia działalności gospodarczej,
-    - **b)** osobą prawną – firmę (nazwę) i adres siedziby oraz numer rejestrze przedsiębiorców Krajowego Rejestru Sądowego lub innym równoważnym rejestrze państwie, którym dostawca ten posiada siedzibę, oraz nazwę tego rejestru;
+- **3)** w przypadku podmiotu obsługującego kredyty numer wpisu do rejestru;
+- **4)** w przypadku ustanowienia dostawcy usług obsługi kredytów będącego:
+    - **a)** osobą fizyczną imię i nazwisko oraz numer PESEL, a w przypadku braku numeru PESEL datę urodzenia, oraz serię i numer dowodu osobistego lub innego dokumentu potwierdzającego tożsamość i adres miejsca prowadzenia działalności gospodarczej,
+    - **b)** osobą prawną firmę (nazwę) i adres siedziby oraz numer w rejestrze przedsiębiorców Krajowego Rejestru Sądowego lub innym równoważnym rejestrze w państwie, w którym dostawca ten posiada siedzibę, oraz nazwę tego rejestru;
 
+- **5)** kwotę należności z podziałem na kapitał, odsetki oraz inne koszty z tytułu umowy o kredyt, według stanu na dzień nabycia praw kredytodawcy wynikających z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt, numer rachunku, na jaki kredytobiorca jest obowiązany wpłacać należności z tytułu umowy o kredyt;
 - **6)** wskazanie procedury przyjmowania reklamacji i skarg oraz odwołań od tych reklamacji i skarg, a także korzystania z pozasądowych procedur rozwiązywania sporów;
 - **7)** wskazanie, że przeniesienie praw kredytodawcy wynikających z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt nie prowadzi do zmiany prawa właściwego dla umowy o kredyt zawartej przez kredytobiorcę.
 
-3. Informacja, o której mowa ust. 2, jest przekazywana:
+3. Informacja, o której mowa w ust. 2, jest przekazywana:
 
-- **1)** przed dokonaniem pierwszej czynności zakresie obsługi kredytów dotyczącej danej nieobsługiwanej umowy o kredyt;
+- **1)** przed dokonaniem pierwszej czynności w zakresie obsługi kredytów dotyczącej danej nieobsługiwanej umowy o kredyt;
 - **2)** na żądanie kredytobiorcy;
 - **3)** po zmianie nabywcy kredytu, przedstawiciela, podmiotu obsługującego kredyty lub dostawcy usług obsługi kredytów;
-- **4)** po zmianie danych, o których mowa ust. 2.
+- **4)** po zmianie danych, o których mowa w ust. 2.
 
-4. Nabywca kredytu, przedstawiciel oraz podmiot obsługujący kredyty przechowują na trwałym nośniku kopię informacji, o której mowa ust. 2, oraz dowód jej przekazania kredytobiorcy przez 7 lat, licząc od końca roku, którym wygasło ostatnie ze zobowiązań wynikających z nieobsługiwanej umowy o kredyt albo nabywca kredytu przeniósł na innego nabywcę kredytu prawa kredytodawcy wynikające z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt.
+4. Nabywca kredytu, przedstawiciel oraz podmiot obsługujący kredyty przechowują na trwałym nośniku kopię informacji, o której mowa w ust. 2, oraz dowód jej przekazania kredytobiorcy przez 7 lat, licząc od końca roku, w którym wygasło ostatnie ze zobowiązań wynikających z nieobsługiwanej umowy o kredyt albo nabywca kredytu przeniósł na innego nabywcę kredytu prawa kredytodawcy wynikające z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt.
 
-5. Nabywca kredytu, przedstawiciel oraz podmiot obsługujący kredyty, na żądanie Komisji, przekazują kopię informacji, o której mowa ust. 2, lub dowód jej przekazania, na własny koszt.
+5. Nabywca kredytu, przedstawiciel oraz podmiot obsługujący kredyty, na żądanie Komisji, przekazują kopię informacji, o której mowa w ust. 2, lub dowód jej przekazania, na własny koszt.
 
-6. Podmiot obsługujący kredyty przekazuje dostawcy usług obsługi kredytów kopię informacji, o której mowa ust. 2, oraz dowód jej przekazania kredytobiorcy.
+6. Podmiot obsługujący kredyty przekazuje dostawcy usług obsługi kredytów kopię informacji, o której mowa w ust. 2, oraz dowód jej przekazania kredytobiorcy.
 
-7. Dostawca usług obsługi kredytów przechowuje kopię informacji, o której mowa ust. 2, oraz dowód jej przekazania kredytobiorcy przez 7 lat, licząc od końca roku, którym ostatnie ze zobowiązań wynikających z nieobsługiwanej umowy o kredyt wygasło albo nabywca kredytu lub przedstawiciel przeniósł na innego nabywcę prawa kredytodawcy wynikające z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt, albo od rozwiązania albo wygaśnięcia umowy, o której mowa art. 23 ust. 1.
+7. Dostawca usług obsługi kredytów przechowuje kopię informacji, o której mowa w ust. 2, oraz dowód jej przekazania kredytobiorcy przez 7 lat, licząc od końca roku, w którym ostatnie ze zobowiązań wynikających z nieobsługiwanej umowy o kredyt wygasło albo nabywca kredytu lub przedstawiciel przeniósł na innego nabywcę prawa kredytodawcy wynikające z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt, albo od rozwiązania albo wygaśnięcia umowy, o której mowa w art. 23 ust. 1.
 
-8. Dostawca usług obsługi kredytów, na żądanie Komisji, przekazuje kopię informacji, o której mowa ust. 2, lub dowód jej przekazania, na własny koszt.
+8. Dostawca usług obsługi kredytów, na żądanie Komisji, przekazuje kopię informacji, o której mowa w ust. 2, lub dowód jej przekazania, na własny koszt.
 
 **Art. 27.**
 
 1. Nabywca kredytu informuje Komisję o:
 
-- **1)** dniu, którym na jego rzecz zostały po raz pierwszy przeniesione prawa kredytodawcy wynikające z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt, terminie 7 dni od dnia tego przeniesienia, jeżeli dniu tego przeniesienia nie wykonuje praw kredytodawcy wynikających z innej nieobsługiwanej umowy o kredyt albo wierzytelności z tytułu innej nieobsługiwanej umowy o kredyt;
-- **2)** dniu zbycia albo wygaśnięcia ostatniego z praw kredytodawcy wynikających z nieobsługiwanej umowy o kredyt albo ostatniej z wierzytelności z tytułu nieobsługiwanej umowy o kredyt, terminie 7 dni od dnia tego zbycia albo wygaśnięcia.
+- **1)** dniu, w którym na jego rzecz zostały po raz pierwszy przeniesione prawa kredytodawcy wynikające z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt, w terminie 7 dni od dnia tego przeniesienia, jeżeli w dniu tego przeniesienia nie wykonuje praw kredytodawcy wynikających z innej nieobsługiwanej umowy o kredyt albo wierzytelności z tytułu innej nieobsługiwanej umowy o kredyt;
+- **2)** dniu zbycia albo wygaśnięcia ostatniego z praw kredytodawcy wynikających z nieobsługiwanej umowy o kredyt albo ostatniej z wierzytelności z tytułu nieobsługiwanej umowy o kredyt, w terminie 7 dni od dnia tego zbycia albo wygaśnięcia.
 
-2. Nabywca kredytu albo przedstawiciel przekazuje Komisji, okresach półrocznych, informacje dotyczące przeniesienia na kolejnego nabywcę kredytu praw kredytodawcy wynikających z nieobsługiwanych umów o kredyt lub wierzytelności z tytułu nieobsługiwanych umów o kredyt, zawierające:
+2. Nabywca kredytu albo przedstawiciel przekazuje Komisji, w okresach półrocznych, informacje dotyczące przeniesienia na kolejnego nabywcę kredytu praw kredytodawcy wynikających z nieobsługiwanych umów o kredyt lub wierzytelności z tytułu nieobsługiwanych umów o kredyt, zawierające:
 
-- **1)** kod LEI dotychczasowego nabywcy kredytu, a przypadku braku kodu LEI dotychczasowego nabywcy kredytu – informacje, o których mowa art. 26 ust. 2 pkt 2;
-- **2)** dane przedstawiciela dotychczasowego nabywcy kredytu, o których mowa art. 24 ust. 1;
-- **3)** kod LEI kolejnego nabywcy kredytu, a przypadku braku kodu LEI kolejnego nabywcy kredytu – informacje, o których mowa art. 26 ust. 2 pkt 2;
-- **4)** dane przedstawiciela kolejnego nabywcy kredytu, o których mowa art. 24 ust. 1; mujące firmę (nazwę) i adres siedziby tego kredytodawcy oraz jego numer rejestrze przedsiębiorców Krajowego Rejestru Sądowego lub innym równoważnym rejestrze państwie, którym kredytodawca ten posiada siedzibę, oraz nazwę tego rejestru;
-- **6)** kwotę, którą nabywca zapłacił za prawa kredytodawcy wynikające z nieobsługiwanych umów o kredyt lub wierzytelności z tytułu nieobsługiwanych umów o kredyt danym okresie sprawozdawczym;
-- **7)** łączną wartość, na koniec okresu sprawozdawczego, należności z tytułu przeniesionych praw kredytodawcy wynikających z nieobsługiwanych umów o kredyt lub wierzytelności z tytułu nieobsługiwanych umów o kredyt, podziale na umowy o kredyt z kredytobiorcami będącymi konsumentami i pozostałymi podmiotami;
-- **8)** liczbę umów, na koniec okresu sprawozdawczego, dotyczących przeniesienia praw kredytodawcy wynikających z nieobsługiwanych umów o kredyt lub wierzytelności z tytułu nieobsługiwanych umów o kredyt, podziale na umowy o kredyt z konsumentami i pozostałymi podmiotami;
+- **1)** kod LEI dotychczasowego nabywcy kredytu, a w przypadku braku kodu LEI dotychczasowego nabywcy kredytu informacje, o których mowa w art. 26 ust. 2 pkt 2;
+- **2)** dane przedstawiciela dotychczasowego nabywcy kredytu, o których mowa w art. 24 ust. 1;
+- **3)** kod LEI kolejnego nabywcy kredytu, a w przypadku braku kodu LEI kolejnego nabywcy kredytu informacje, o których mowa w art. 26 ust. 2 pkt 2;
+- **4)** dane przedstawiciela kolejnego nabywcy kredytu, o których mowa w art. 24 ust. 1;
+- **5)** dane kredytodawcy, o którym mowa w art. 3 ust. 1 pkt 10 lit. a–c, który zawarł umowę o kredyt z kredytobiorcą, obejmujące firmę (nazwę) i adres siedziby tego kredytodawcy oraz jego numer w rejestrze przedsiębiorców Krajowego Rejestru Sądowego lub innym równoważnym rejestrze w państwie, w którym kredytodawca ten posiada siedzibę, oraz nazwę tego rejestru;
+- **6)** kwotę, którą nabywca zapłacił za prawa kredytodawcy wynikające z nieobsługiwanych umów o kredyt lub wierzytelności z tytułu nieobsługiwanych umów o kredyt w danym okresie sprawozdawczym;
+- **7)** łączną wartość, na koniec okresu sprawozdawczego, należności z tytułu przeniesionych praw kredytodawcy wynikających z nieobsługiwanych umów o kredyt lub wierzytelności z tytułu nieobsługiwanych umów o kredyt, w podziale na umowy o kredyt z kredytobiorcami będącymi konsumentami i pozostałymi podmiotami;
+- **8)** liczbę umów, na koniec okresu sprawozdawczego, dotyczących przeniesienia praw kredytodawcy wynikających z nieobsługiwanych umów o kredyt lub wierzytelności z tytułu nieobsługiwanych umów o kredyt, w podziale na umowy o kredyt z konsumentami i pozostałymi podmiotami;
 - **9)** informację o rodzajach i wartości zabezpieczeń wierzytelności wynikających z nieobsługiwanych umów o kredyt;
-- **10)** wartość nominalną praw kredytodawcy wynikających z nieobsługiwanych umów o kredyt lub wierzytelności z tytułu nieobsługiwanych umów o kredyt oraz wartość bilansową na dzień przeniesienia, podziale na umowy o kredyt z konsumentami i pozostałymi podmiotami;
-- **11)** średnią liczbę dni, których kredytobiorca nie spłaca rat kredytu wynikających z umowy o kredyt, ważoną wartościami nominalnymi poszczególnych składowych na dzień sprawozdawczy, podziale na umowy o kredyt z konsumentami i pozostałymi podmiotami;
-- **12)** łączną wartość dokonanych przez kredytobiorców okresie sprawozdawczym spłat wynikających z nieobsługiwanych umów o kredyt lub wierzytelności z tytułu nieobsługiwanych umów o kredyt;
-- **13)** łączną wartość poniesionych okresie sprawozdawczym kosztów dotyczących praw kredytodawcy wynikających z nieobsługiwanych umów o kredyt lub wierzytelności z tytułu nieobsługiwanych umów o kredyt.
+- **10)** wartość nominalną praw kredytodawcy wynikających z nieobsługiwanych umów o kredyt lub wierzytelności z tytułu nieobsługiwanych umów o kredyt oraz wartość bilansową na dzień przeniesienia, w podziale na umowy o kredyt z konsumentami i pozostałymi podmiotami;
+- **11)** średnią liczbę dni, w których kredytobiorca nie spłaca rat kredytu wynikających z umowy o kredyt, ważoną wartościami nominalnymi poszczególnych składowych na dzień sprawozdawczy, w podziale na umowy o kredyt z konsumentami i pozostałymi podmiotami;
+- **12)** łączną wartość dokonanych przez kredytobiorców w okresie sprawozdawczym spłat wynikających z nieobsługiwanych umów o kredyt lub wierzytelności z tytułu nieobsługiwanych umów o kredyt;
+- **13)** łączną wartość poniesionych w okresie sprawozdawczym kosztów dotyczących praw kredytodawcy wynikających z nieobsługiwanych umów o kredyt lub wierzytelności z tytułu nieobsługiwanych umów o kredyt.
 
-3. Obowiązek, o którym mowa ust. 2, dotyczy także nabywców kredytów, którzy przed końcem okresu sprawozdawczego dokonali przeniesienia wszystkich praw kredytodawcy wynikających z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt, albo przedstawicieli.
+3. Obowiązek, o którym mowa w ust. 2, dotyczy także nabywców kredytów, którzy przed końcem okresu sprawozdawczego dokonali przeniesienia wszystkich praw kredytodawcy wynikających z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt, albo przedstawicieli.
 
 **Art. 28.**
 
-1. Podmiot obsługujący kredyty sporządza roczne sprawozdanie z działalności zakresie obsługi kredytów, obejmujące informacje o:
+1. Podmiot obsługujący kredyty sporządza roczne sprawozdanie z działalności w zakresie obsługi kredytów, obejmujące informacje o:
 
-- **1)** łącznych przychodach uzyskanych z działalności zakresie obsługi kredytów, z uwzględnieniem struktury walutowej;
-- **2)** liczbie podmiotów, na rzecz których podmiot obsługujący kredyty prowadzi działalność zakresie obsługi kredytów na dzień sporządzenia sprawozdania finansowego;
+- **1)** łącznych przychodach uzyskanych z działalności w zakresie obsługi kredytów, z uwzględnieniem struktury walutowej;
+- **2)** liczbie podmiotów, na rzecz których podmiot obsługujący kredyty prowadzi działalność w zakresie obsługi kredytów na dzień sporządzenia sprawozdania finansowego;
 - **3)** liczbie obsługiwanych przez podmiot obsługujący kredyty nieobsługiwanych umów o kredyt na dzień sporządzenia sprawozdania finansowego;
 - **4)** liczbie otrzymanych oraz rozpatrzonych reklamacji i skarg dotyczących praw kredytodawcy, wynikających z obsługiwanych przez podmiot obsługujący kredyty nieobsługiwanych umów o kredyt, z podziałem na reklamacje i skargi uwzględnione i odrzucone oraz wskazaniem liczby odwołań od tych reklamacji i skarg na dzień sporządzenia sprawozdania finansowego.
 
-2. Podmiot obsługujący kredyty przekazuje Komisji sprawozdanie, o którym mowa ust. 1.
+2. Podmiot obsługujący kredyty przekazuje Komisji sprawozdanie, o którym mowa w ust. 1.
 
-3. Podmiot obsługujący kredyty, o którym mowa art. 10 ust. 1 pkt 1, oraz oddział podmiotu obsługującego kredyty, o którym mowa art. 10 ust. 1 pkt 2, przekazują Komisji roczne sprawozdanie finansowe, sporządzone zgodnie z przepisami o rachunkowości, wraz ze sprawozdaniem z badania oraz odpisem uchwały o zatwierdzeniu tego sprawozdania.
+3. Podmiot obsługujący kredyty, o którym mowa w art. 10 ust. 1 pkt 1, oraz oddział podmiotu obsługującego kredyty, o którym mowa w art. 10 ust. 1 pkt 2, przekazują Komisji roczne sprawozdanie finansowe, sporządzone zgodnie z przepisami o rachunkowości, wraz ze sprawozdaniem z badania oraz odpisem uchwały o zatwierdzeniu tego sprawozdania.
 
-**Art. 29.** Minister właściwy do spraw instytucji finansowych określi, drodze rozporządzenia:
+**Art. 29.** Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia:
+
+- **1)** terminy oraz sposób sporządzania i przekazywania informacji, o których mowa w art. 27 ust. 2 i 3,
+- **2)** terminy oraz sposób przekazywania sprawozdań, o których mowa w art. 28 ust. 1 i 3 mając na względzie konieczność zapewnienia Komisji dostępu do danych niezbędnych do sprawowania skutecznego nadzoru nad nabywcami kredytów, przedstawicielami oraz podmiotami obsługującymi kredyty.
+
+#### Rozdział 9 Nadzór Komisji
 
 **Art. 30.**
 
@@ -463,316 +511,551 @@ source: "isap-pdf"
 
 2. Celem nadzoru jest zapewnienie przestrzegania przepisów ustawy przez podmioty obsługujące kredyty, dostawców usług obsługi kredytów, nabywców kredytów oraz przedstawicieli, prowadzących działalność na terytorium Rzeczypospolitej Polskiej.
 
-3. Komisja ramach nadzoru może:
+3. Komisja w ramach nadzoru może:
 
 - **1)** żądać od podmiotu obsługującego kredyty:
-    - **a)** opracowania, stosowania lub zmiany wewnętrznych procedur i polityk dotyczących prowadzenia działalności zakresie obsługi kredytów, o których mowa art. 17, celu zapewnienia poszanowania praw kredytobiorców zgodnie z przepisami regulującymi umowę o kredyt,
-    - **b)** wykazania: – sprawiedliwego i należytego traktowania kredytobiorców, – należytego rozpatrywania reklamacji i skarg kredytobiorców oraz odwołań od tych reklamacji i skarg, a także dokumentowania czynności tym zakresie,
-    - **c)** zmiany lub rozwiązania umowy o obsługę kredytów, jeżeli jest to niezbędne celu zapewnienia przestrzegania przepisów art. 6 ust. 1 i 2, art. 17, art. 18, art. 21 ust. 2 oraz art. 26 ust. 1–4 i 6;
+    - **a)** opracowania, stosowania lub zmiany wewnętrznych procedur i polityk dotyczących prowadzenia działalności w zakresie obsługi kredytów, o których mowa w art. 17, w celu zapewnienia poszanowania praw kredytobiorców zgodnie z przepisami regulującymi umowę o kredyt,
+    - **b)** wykazania: sprawiedliwego i należytego traktowania kredytobiorców, należytego rozpatrywania reklamacji i skarg kredytobiorców oraz odwołań od tych reklamacji i skarg, a także dokumentowania czynności w tym zakresie,
+    - **c)** zmiany lub rozwiązania umowy o obsługę kredytów, jeżeli jest to niezbędne w celu zapewnienia przestrzegania przepisów art. 6 ust. 1 i 2, art. 17, art. 18, art. 21 ust. 2 oraz art. 26 ust. 1–4 i 6;
 
-- **2)** żądać od nabywcy kredytów lub przedstawiciela złożenia wyznaczonym terminie wyjaśnień dotyczących obowiązków, o których mowa art. 22 ust. 1, art. 24 ust. 2, art. 26 ust. 4 oraz art. 27;
-- **3)** dokonywać przeglądu umów, o których mowa art. 23 ust. 1, pod względem zgodności z art. 23 ust. 2 i 5;
-- **4)** żądać od podmiotu obsługującego kredyty, dostawcy usług obsługi kredytów, nabywcy kredytu oraz przedstawiciela złożenia dokumentacji, informacji i wyjaśnień innych niż określone pkt 1 i 2, które są niezbędne do realizacji celów nadzoru.
+- **2)** żądać od nabywcy kredytów lub przedstawiciela złożenia w wyznaczonym terminie wyjaśnień dotyczących obowiązków, o których mowa w art. 22 ust. 1, art. 24 ust. 2, art. 26 ust. 4 oraz art. 27;
+- **3)** dokonywać przeglądu umów, o których mowa w art. 23 ust. 1, pod względem zgodności z art. 23 ust. 2 i 5;
+- **4)** żądać od podmiotu obsługującego kredyty, dostawcy usług obsługi kredytów, nabywcy kredytu oraz przedstawiciela złożenia dokumentacji, informacji i wyjaśnień innych niż określone w pkt 1 i 2, które są niezbędne do realizacji celów nadzoru.
 
 **Art. 31.**
 
-1. W przypadku stwierdzenia, że podmiot obsługujący kredyty, o którym mowa art. 10 ust. 1 pkt 1, lub dostawca usług obsługi kredytów, któremu ten podmiot powierzył wykonywanie czynności zakresie obsługi kredytów, narusza przepisy ustawy lub narusza prawnie chroniony interes kredytobiorcy będącego konsumentem, mikroprzedsiębiorcą lub małym lub średnim przedsiębiorcą albo kredytodawcy, lub utrudnia lub uniemożliwia przeprowadzenie kontroli, o której mowa art. 39, Komisja, drodze decyzji, może:
+1. W przypadku stwierdzenia, że podmiot obsługujący kredyty, o którym mowa w art. 10 ust. 1 pkt 1, lub dostawca usług obsługi kredytów, któremu ten podmiot powierzył wykonywanie czynności w zakresie obsługi kredytów, narusza przepisy ustawy lub narusza prawnie chroniony interes kredytobiorcy będącego konsumentem, mikroprzedsiębiorcą lub małym lub średnim przedsiębiorcą albo kredytodawcy, lub utrudnia lub uniemożliwia przeprowadzenie kontroli, o której mowa w art. 39, Komisja, w drodze decyzji, może:
 
-- **1)** odwołać odpowiedzialnego za zaistniałe naruszenie członka organu zarządzającego podmiotu obsługującego kredyty lub tego dostawcy usług obsługi kredytów albo osoby podejmującej decyzje imieniu tego dostawcy usług obsługi kredytów, przypadku gdy naruszenia mają charakter rażący lub uporczywy;
-- **2)** nałożyć na osobę, o której mowa pkt 1, karę pieniężną;
+- **1)** odwołać odpowiedzialnego za zaistniałe naruszenie członka organu zarządzającego podmiotu obsługującego kredyty lub tego dostawcy usług obsługi kredytów albo osoby podejmującej decyzje w imieniu tego dostawcy usług obsługi kredytów, w przypadku gdy naruszenia mają charakter rażący lub uporczywy;
+- **2)** nałożyć na osobę, o której mowa w pkt 1, karę pieniężną;
 - **3)** nałożyć na podmiot obsługujący kredyty lub dostawcę usług obsługi kredytów karę pieniężną;
-- **4)** nakazać podmiotowi obsługującemu kredyty zmianę lub rozwiązanie umowy o obsługę kredytów lub umowy, o której mowa art. 23 ust. 1.
+- **4)** nakazać podmiotowi obsługującemu kredyty zmianę lub rozwiązanie umowy o obsługę kredytów lub umowy, o której mowa w art. 23 ust. 1.
 
-2. W przypadku stwierdzenia, że podmiot obsługujący kredyty, o którym mowa art. 10 ust. 1 pkt 2, lub dostawca usług obsługi kredytów, któremu ten podmiot powierzył wykonywanie czynności zakresie obsługi kredytów, narusza przepisy ustawy lub narusza prawnie chroniony interes kredytobiorcy będącego konsumentem, mikroprzedsiębiorcą lub małym lub średnim przedsiębiorcą albo kredytodawcy, lub utrudnia lub uniemożliwia przeprowadzenie kontroli, o której mowa art. 39, Komisja, drodze decyzji, może:
+2. W przypadku stwierdzenia, że podmiot obsługujący kredyty, o którym mowa w art. 10 ust. 1 pkt 2, lub dostawca usług obsługi kredytów, któremu ten podmiot powierzył wykonywanie czynności w zakresie obsługi kredytów, narusza przepisy ustawy lub narusza prawnie chroniony interes kredytobiorcy będącego konsumentem, mikroprzedsiębiorcą lub małym lub średnim przedsiębiorcą albo kredytodawcy, lub utrudnia lub uniemożliwia przeprowadzenie kontroli, o której mowa w art. 39, Komisja, w drodze decyzji, może:
 
 - **1)** nałożyć na podmiot obsługujący kredyty lub dostawcę usług obsługi kredytów karę pieniężną;
-- **2)** nakazać podmiotowi obsługującemu kredyty zmianę lub rozwiązanie umowy o obsługę kredytów lub umowy, o której mowa art. 23 ust. 1.
+- **2)** nakazać podmiotowi obsługującemu kredyty zmianę lub rozwiązanie umowy o obsługę kredytów lub umowy, o której mowa w art. 23 ust. 1.
 
-3. W przypadku stwierdzenia, że podmiot obsługujący kredyty, o którym mowa art. 10 ust. 1 pkt 1:
+3. W przypadku stwierdzenia, że podmiot obsługujący kredyty, o którym mowa w art. 10 ust. 1 pkt 1:
 
-- **1)** przestał spełniać wymogi, o których mowa art. 6 ust. 1 lub 2,
-- **3)** nie wprowadził lub nie stosuje wewnętrznych procedur i polityk dotyczących prowadzenia działalności zakresie obsługi kredytów, o których mowa art. 17, lub nie dokonał ich zmian na żądanie Komisji, o którym mowa art. 30 ust. 3 pkt 1 lit. a,
-- **4)** wykonuje działalność zakresie obsługi kredytów bez zawarcia umowy o obsługę kredytów lub na podstawie umowy, która została zawarta z naruszeniem przepisów art. 21 ust. 2,
-- **5)** nie przekazuje Komisji dokumentacji, informacji i wyjaśnień, o których mowa art. 30 ust. 3 pkt 4,
-- **6)** narusza przepis art. 18 lub rażąco lub uporczywie narusza przepisy art. 13 ust. 1, art. 14 ust. 5, art. 23 ust. 1, 2 i 5 lub art. 26 ust. 1–4 i 6 – Komisja może, drodze decyzji, cofnąć zezwolenie.
+- **1)** przestał spełniać wymogi, o których mowa w art. 6 ust. 1 lub 2,
+- **2)** uzyskał zezwolenie na podstawie fałszywych oświadczeń lub dokumentów lub w inny sposób niezgodny z prawem,
+- **3)** nie wprowadził lub nie stosuje wewnętrznych procedur i polityk dotyczących prowadzenia działalności w zakresie obsługi kredytów, o których mowa w art. 17, lub nie dokonał ich zmian na żądanie Komisji, o którym mowa w art. 30 ust. 3 pkt 1 lit. a,
+- **4)** wykonuje działalność w zakresie obsługi kredytów bez zawarcia umowy o obsługę kredytów lub na podstawie umowy, która została zawarta z naruszeniem przepisów art. 21 ust. 2,
+- **5)** nie przekazuje Komisji dokumentacji, informacji i wyjaśnień, o których mowa w art. 30 ust. 3 pkt 4,
+- **6)** narusza przepis art. 18 lub rażąco lub uporczywie narusza przepisy art. 13 ust. 1, art. 14 ust. 5, art. 23 ust. 1, 2 i 5 lub art. 26 ust. 1–4 i 6 Komisja może, w drodze decyzji, cofnąć zezwolenie.
 
-4. W przypadku stwierdzenia, że podmiot obsługujący kredyty, o którym mowa art. 10 ust. 1 pkt 2:
+4. W przypadku stwierdzenia, że podmiot obsługujący kredyty, o którym mowa w art. 10 ust. 1 pkt 2:
 
-- **1)** nie wprowadził lub nie stosuje wewnętrznych procedur i polityk dotyczących prowadzenia działalności zakresie obsługi kredytów, o których mowa art. 17, lub nie dokonał ich zmian na żądanie Komisji, o którym mowa art. 30 ust. 3 pkt 1 lit. a,
-- **2)** wykonuje działalność zakresie obsługi kredytów bez zawarcia umowy o obsługę kredytów lub na podstawie umowy, która została zawarta z naruszeniem przepisów art. 21 ust. 2,
-- **3)** nie przekazuje Komisji dokumentacji, informacji i wyjaśnień, o których mowa art. 30 ust. 3 pkt 4,
-- **4)** narusza przepis art. 18 lub rażąco lub uporczywie narusza przepisy art. 23 ust. 1, 2 i 5 oraz art. 26 ust. 1–4 i 6 – Komisja może, drodze decyzji, wykreślić ten podmiot z rejestru.
+- **1)** nie wprowadził lub nie stosuje wewnętrznych procedur i polityk dotyczących prowadzenia działalności w zakresie obsługi kredytów, o których mowa w art. 17, lub nie dokonał ich zmian na żądanie Komisji, o którym mowa w art. 30 ust. 3 pkt 1 lit. a,
+- **2)** wykonuje działalność w zakresie obsługi kredytów bez zawarcia umowy o obsługę kredytów lub na podstawie umowy, która została zawarta z naruszeniem przepisów art. 21 ust. 2,
+- **3)** nie przekazuje Komisji dokumentacji, informacji i wyjaśnień, o których mowa w art. 30 ust. 3 pkt 4,
+- **4)** narusza przepis art. 18 lub rażąco lub uporczywie narusza przepisy art. 23 ust. 1, 2 i 5 oraz art. 26 ust. 1–4 i 6 Komisja może, w drodze decyzji, wykreślić ten podmiot z rejestru.
 
-5. W przypadku stwierdzenia, że oddział podmiotu obsługującego kredyty, o którym mowa art. 10 ust. 1 pkt 2, nie przekazuje Komisji dokumentacji, informacji i wyjaśnień, o których mowa art. 30 ust. 3 pkt 4, Komisja może, drodze decyzji, wykreślić ten oddział z rejestru.
+5. W przypadku stwierdzenia, że oddział podmiotu obsługującego kredyty, o którym mowa w art. 10 ust. 1 pkt 2, nie przekazuje Komisji dokumentacji, informacji i wyjaśnień, o których mowa w art. 30 ust. 3 pkt 4, Komisja może, w drodze decyzji, wykreślić ten oddział z rejestru.
 
-6. W przypadku stwierdzenia, że dostawca usług obsługi kredytów nie przekazuje Komisji dokumentacji, informacji i wyjaśnień, o których mowa art. 30 ust. 3 pkt 4, Komisja może, drodze decyzji, cofnąć zezwolenie udzielone podmiotowi obsługującemu kredyty, o którym mowa art. 10 ust. 1 pkt 1, albo wykreślić z rejestru podmiot obsługujący kredyty, o którym mowa art. 10 ust. 1 pkt 2.
+6. W przypadku stwierdzenia, że dostawca usług obsługi kredytów nie przekazuje Komisji dokumentacji, informacji i wyjaśnień, o których mowa w art. 30 ust. 3 pkt 4, Komisja może, w drodze decyzji, cofnąć zezwolenie udzielone podmiotowi obsługującemu kredyty, o którym mowa w art. 10 ust. 1 pkt 1, albo wykreślić z rejestru podmiot obsługujący kredyty, o którym mowa w art. 10 ust. 1 pkt 2.
 
-7. W decyzji, o której mowa ust. 3, Komisja może określić termin i warunki zaprzestania prowadzenia działalności zakresie obsługi kredytów. Komisja terminie 2 dni roboczych od dnia wydania tej decyzji dokonuje wpisu do rejestru, wskazując datę cofnięcia zezwolenia.
+7. W decyzji, o której mowa w ust. 3, Komisja może określić termin i warunki zaprzestania prowadzenia działalności w zakresie obsługi kredytów. Komisja w terminie 2 dni roboczych od dnia wydania tej decyzji dokonuje wpisu do rejestru, wskazując datę cofnięcia zezwolenia.
 
-8. W przypadku gdy podmiot obsługujący kredyty, o którym mowa art. 10 ust. 1 pkt 1, prowadzi działalność transgranicznie lub formie oddziału, Komisja niezwłocznie informuje o cofnięciu zezwolenia właściwe organy nadzoru goszczącego państwa członkowskiego, a także właściwe organy nadzoru państwa członkowskiego, którym zawarto umowę o kredyt, jeżeli jest ono inne niż goszczące państwo członkowskie i Rzeczpospolita Polska.
+8. W przypadku gdy podmiot obsługujący kredyty, o którym mowa w art. 10 ust. 1 pkt 1, prowadzi działalność transgranicznie lub w formie oddziału, Komisja niezwłocznie informuje o cofnięciu zezwolenia właściwe organy nadzoru goszczącego państwa członkowskiego, a także właściwe organy nadzoru państwa członkowskiego, w którym zawarto umowę o kredyt, jeżeli jest ono inne niż goszczące państwo członkowskie i Rzeczpospolita Polska.
 
-9. W przypadku podmiotu obsługującego kredyty, o którym mowa art. 10 ust. 1 pkt 2, Komisja niezwłocznie informuje o wykreśleniu z rejestru właściwe organy nadzoru macierzystego państwa członkowskiego, a także właściwe organy nadzoru państwa członkowskiego, którym zawarto umowę o kredyt, jeżeli jest ono inne niż goszczące państwo członkowskie i Rzeczpospolita Polska.
+9. W przypadku podmiotu obsługującego kredyty, o którym mowa w art. 10 ust. 1 pkt 2, Komisja niezwłocznie informuje o wykreśleniu z rejestru właściwe organy nadzoru macierzystego państwa członkowskiego, a także właściwe organy nadzoru państwa członkowskiego, w którym zawarto umowę o kredyt, jeżeli jest ono inne niż goszczące państwo członkowskie i Rzeczpospolita Polska.
 
 10. W przypadku gdy nabywca kredytu lub przedstawiciel:
 
-- **1)** nie wykonuje obowiązków określonych art. 20, art. 24 ust. 1 lub art. 26 ust. 1–5 lub wykonuje te obowiązki niewłaściwie,
+- **1)** nie wykonuje obowiązków określonych w art. 20, art. 24 ust. 1 lub art. 26 ust. 1–5 lub wykonuje te obowiązki niewłaściwie,
 - **2)** narusza przepisy art. 21 ust. 1 i 2,
-- **3)** nie przekazuje Komisji informacji, o których mowa art. 22 ust. 1, art. 24 ust. 2 i art. 27 – Komisja może nałożyć, drodze decyzji, karę pieniężną na nabywcę kredytu lub przedstawiciela, lub odpowiedzialnego za naruszenie członka organu zarządzającego nabywcy kredytu lub przedstawiciela, lub osobę podejmującą decyzje imieniu nabywcy kredytu lub przedstawiciela.
+- **3)** nie przekazuje Komisji informacji, o których mowa w art. 22 ust. 1, art. 24 ust. 2 i art. 27 Komisja może nałożyć, w drodze decyzji, karę pieniężną na nabywcę kredytu lub przedstawiciela, lub odpowiedzialnego za naruszenie członka organu zarządzającego nabywcy kredytu lub przedstawiciela, lub osobę podejmującą decyzje w imieniu nabywcy kredytu lub przedstawiciela.
 
-11. Kara pieniężna, o której mowa ust. 1 pkt 2 i 3, ust. 2 pkt 1 oraz ust. 10, wynosi:
+11. Kara pieniężna, o której mowa w ust. 1 pkt 2 i 3, ust. 2 pkt 1 oraz ust. 10, wynosi:
 
-- **1)** przypadku podmiotu obsługującego kredyty, dostawcy usług obsługi kredytów, nabywcy kredytu lub przedstawiciela – nie więcej niż 20 000 000 zł; nabywcy kredytu lub przedstawiciela – nie więcej niż 2 250 000 zł.
+- **1)** w przypadku podmiotu obsługującego kredyty, dostawcy usług obsługi kredytów, nabywcy kredytu lub przedstawiciela nie więcej niż 20 000 000 zł;
+- **2)** w przypadku członka organu zarządzającego podmiotu obsługującego kredyty, dostawcy usług obsługi kredytów, nabywcy kredytu lub przedstawiciela albo osoby podejmującej decyzje w imieniu dostawcy usług obsługi kredytów, nabywcy kredytu lub przedstawiciela nie więcej niż 2 250 000 zł.
 
-12. W przypadku gdy Komisja stwierdzi, że nabywca kredytu prowadzi działalność sposób zagrażający prawnie chronionym interesom kredytobiorców lub podmiotu obsługującego kredyty lub inny sposób narusza przepisy ustawy, może nakazać nabywcy kredytu, drodze decyzji, zmianę lub rozwiązanie umowy o obsługę kredytów.
+12. W przypadku gdy Komisja stwierdzi, że nabywca kredytu prowadzi działalność w sposób zagrażający prawnie chronionym interesom kredytobiorców lub podmiotu obsługującego kredyty lub w inny sposób narusza przepisy ustawy, może nakazać nabywcy kredytu, w drodze decyzji, zmianę lub rozwiązanie umowy o obsługę kredytów.
 
-13. W przypadku gdy Komisja stwierdzi, że przedstawiciel prowadzi działalność sposób zagrażający prawnie chronionym interesom kredytobiorców lub podmiotu obsługującego kredyty lub inny sposób narusza przepisy ustawy, może nakazać przedstawicielowi, drodze decyzji, zmianę lub rozwiązanie umowy o obsługę kredytów.
+13. W przypadku gdy Komisja stwierdzi, że przedstawiciel prowadzi działalność w sposób zagrażający prawnie chronionym interesom kredytobiorców lub podmiotu obsługującego kredyty lub w inny sposób narusza przepisy ustawy, może nakazać przedstawicielowi, w drodze decyzji, zmianę lub rozwiązanie umowy o obsługę kredytów.
 
-14. Decyzja Komisji, o której mowa ust. 1 pkt 4, ust. 2 pkt 2, ust. 3–6, 12 i 13, jest natychmiast wykonalna.
+14. Decyzja Komisji, o której mowa w ust. 1 pkt 4, ust. 2 pkt 2, ust. 3–6, 12 i 13, jest natychmiast wykonalna.
 
 **Art. 32.**
 
-1. W decyzji, o której mowa art. 31 ust. 1 pkt 4, ust. 2 pkt 2, ust. 12 i 13, Komisja wyznacza termin, nie krótszy niż 14 dni, na zmianę lub rozwiązanie umowy o obsługę kredytów lub umowy, o której mowa art. 23 ust. 1. W przypadku gdy wyznaczonym terminie podmiot obsługujący kredyty, nabywca kredytu lub przedstawiciel nie dokona zmiany lub rozwiązania umowy o obsługę kredytów lub umowy, o której mowa art. 23 ust. 1, Komisja może nałożyć, drodze decyzji, karę pieniężną na podmiot obsługujący kredyty lub odpowiedzialnego za dokonanie zmiany lub rozwiązania umowy członka organu zarządzającego podmiotu obsługującego kredyty, nabywcę kredytu lub przedstawiciela.
+1. W decyzji, o której mowa w art. 31 ust. 1 pkt 4, ust. 2 pkt 2, ust. 12 i 13, Komisja wyznacza termin, nie krótszy niż 14 dni, na zmianę lub rozwiązanie umowy o obsługę kredytów lub umowy, o której mowa w art. 23 ust. 1. W przypadku gdy w wyznaczonym terminie podmiot obsługujący kredyty, nabywca kredytu lub przedstawiciel nie dokona zmiany lub rozwiązania umowy o obsługę kredytów lub umowy, o której mowa w art. 23 ust. 1, Komisja może nałożyć, w drodze decyzji, karę pieniężną na podmiot obsługujący kredyty lub odpowiedzialnego za dokonanie zmiany lub rozwiązania umowy członka organu zarządzającego podmiotu obsługującego kredyty, nabywcę kredytu lub przedstawiciela.
 
-2. Kara pieniężna, o której mowa ust. 1, wynosi:
+2. Kara pieniężna, o której mowa w ust. 1, wynosi:
 
-- **1)** przypadku podmiotu obsługującego kredyty, nabywcy kredytu lub przedstawiciela – nie więcej niż 20 000 000 zł;
-- **2)** przypadku członka organu zarządzającego podmiotu obsługującego kredyty – nie więcej niż 2 250 000 zł.
+- **1)** w przypadku podmiotu obsługującego kredyty, nabywcy kredytu lub przedstawiciela nie więcej niż 20 000 000 zł;
+- **2)** w przypadku członka organu zarządzającego podmiotu obsługującego kredyty nie więcej niż 2 250 000 zł.
 
-**Art. 33.** Komisja niezwłocznie przekazuje właściwym organom nadzoru państwa, którym nabywca kredytu prowadzi działalność, lub państwa, którym nabywca kredytu posiada miejsce zamieszkania albo siedzibę, informacje istotne dla nadzoru sprawowanego przez te organy nadzoru.
+**Art. 33.** Komisja niezwłocznie przekazuje właściwym organom nadzoru państwa, w którym nabywca kredytu prowadzi działalność, lub państwa, w którym nabywca kredytu posiada miejsce zamieszkania albo siedzibę, informacje istotne dla nadzoru sprawowanego przez te organy nadzoru.
 
 **Art. 34.**
 
 1. W celu wykonywania zadań wynikających z ustawy Komisja współpracuje z:
 
-- **1)** właściwymi organami nadzoru macierzystego państwa członkowskiego albo goszczącego państwa członkowskiego, tym zawiera z nimi porozumienia o współdziałaniu zakresie nadzoru;
+- **1)** właściwymi organami nadzoru macierzystego państwa członkowskiego albo goszczącego państwa członkowskiego, w tym zawiera z nimi porozumienia o współdziałaniu w zakresie nadzoru;
 - **2)** Narodowym Bankiem Polskim oraz bankami centralnymi z innych państw członkowskich.
 
-2. Przepis ust. 1 stosuje się również do państwa członkowskiego, którym zawarto umowę o kredyt, jeżeli jest ono inne niż goszczące państwo członkowskie i macierzyste państwo członkowskie.
+2. Przepis ust. 1 stosuje się również do państwa członkowskiego, w którym zawarto umowę o kredyt, jeżeli jest ono inne niż goszczące państwo członkowskie i macierzyste państwo członkowskie.
 
-3. Komisja informuje o środkach nadzorczych zastosowanych wobec podmiotu obsługującego kredyty właściwe organy nadzoru goszczącego państwa członkowskiego oraz państwa członkowskiego, którym zawarto umowę o kredyt, jeżeli jest ono inne niż goszczące państwo członkowskie i Rzeczpospolita Polska.
+3. Komisja informuje o środkach nadzorczych zastosowanych wobec podmiotu obsługującego kredyty właściwe organy nadzoru goszczącego państwa członkowskiego oraz państwa członkowskiego, w którym zawarto umowę o kredyt, jeżeli jest ono inne niż goszczące państwo członkowskie i Rzeczpospolita Polska.
 
 **Art. 35.**
 
-1. Komisja, drodze decyzji, cofa zezwolenie na wniosek podmiotu obsługującego kredyty, o którym mowa art. 10 ust. 1 pkt 1.
+1. Komisja, w drodze decyzji, cofa zezwolenie na wniosek podmiotu obsługującego kredyty, o którym mowa w art. 10 ust. 1 pkt 1.
 
-2. Postępowania sprawie cofnięcia zezwolenia na wniosek nie wszczyna się, jeżeli:
+2. Postępowania w sprawie cofnięcia zezwolenia na wniosek nie wszczyna się, jeżeli:
 
-- **1)** podmiocie obsługującym kredyty, o którym mowa art. 10 ust. 1 pkt 1, jest prowadzona kontrola, o której mowa art. 39, lub został on zawiadomiony o zamiarze przeprowadzenia takiej kontroli;
-- **2)** wszczęto postępowanie sprawie nałożenia kary pieniężnej, o której mowa art. 31 ust. 1 pkt 2 lub 3.
+- **1)** w podmiocie obsługującym kredyty, o którym mowa w art. 10 ust. 1 pkt 1, jest prowadzona kontrola, o której mowa w art. 39, lub został on zawiadomiony o zamiarze przeprowadzenia takiej kontroli;
+- **2)** wszczęto postępowanie w sprawie nałożenia kary pieniężnej, o której mowa w art. 31 ust. 1 pkt 2 lub 3.
 
 3. Postępowanie wszczęte na podstawie wniosku zawiesza się od dnia:
 
-- **1)** zawiadomienia podmiotu obsługującego kredyty, o którym mowa art. 10 ust. 1 pkt 1, o zamiarze przeprowadzenia kontroli, o której mowa art. 39, do 30. dnia od dnia doręczenia protokołu z tej kontroli;
-- **2)** wszczęcia postępowania sprawie nałożenia kary pieniężnej, o której mowa art. 31 ust. 1 pkt 2 lub 3, do dnia, którym decyzja sprawie nałożenia kary pieniężnej stała się ostateczna.
+- **1)** zawiadomienia podmiotu obsługującego kredyty, o którym mowa w art. 10 ust. 1 pkt 1, o zamiarze przeprowadzenia kontroli, o której mowa w art. 39, do 30. dnia od dnia doręczenia protokołu z tej kontroli;
+- **2)** wszczęcia postępowania w sprawie nałożenia kary pieniężnej, o której mowa w art. 31 ust. 1 pkt 2 lub 3, do dnia, w którym decyzja w sprawie nałożenia kary pieniężnej stała się ostateczna.
 
-4. W terminie 2 dni roboczych od dnia wydania decyzji, o której mowa ust. 1, Komisja z urzędu dokonuje wpisu do rejestru sprawie cofnięcia zezwolenia.
+4. W terminie 2 dni roboczych od dnia wydania decyzji, o której mowa w ust. 1, Komisja z urzędu dokonuje wpisu do rejestru w sprawie cofnięcia zezwolenia.
 
 **Art. 36.** W przypadku gdy:
 
-**Art. 37.** Komisja, ustalając wysokość kary pieniężnej, o której mowa art. 31 ust. 1 pkt 2 i 3, ust. 2 pkt 1 i ust. 10 oraz art. 32 ust. 1, uwzględnia:
+- **1)** podmiot obsługujący kredyty, o którym mowa w art. 10 ust. 1 pkt 1, wbrew obowiązkowi, o którym mowa w art. 19 ust. 1, nie prowadzi lub nie przechowuje dokumentacji związanej z prowadzeniem działalności w zakresie obsługi kredytów,
+- **2)** oddział podmiotu obsługującego kredyty, o którym mowa w art. 10 ust. 1 pkt 2, wbrew obowiązkowi, o którym mowa w art. 19 ust. 1, nie prowadzi lub nie przechowuje dokumentacji związanej z prowadzeniem działalności w zakresie obsługi kredytów,
+- **3)** dostawca usług obsługi kredytów, wbrew obowiązkowi, o którym mowa w art. 23 ust. 4, nie prowadzi lub nie przechowuje dokumentacji dotyczącej współpracy z podmiotem obsługującym kredyty oraz wykonywania czynności w zakresie obsługi kredytów Komisja może, w drodze decyzji, cofnąć zezwolenie podmiotowi obsługującemu kredyty, o którym mowa w art. 10 ust. 1 pkt 1, albo wykreślić z rejestru podmiot obsługujący kredyty, o którym mowa w art. 10 ust. 1 pkt 2, jeżeli podmiot obsługujący kredyty nie podjął odpowiednich i skutecznych działań w celu usunięcia nieprawidłowości. Decyzja ta jest natychmiast wykonalna.
+
+**Art. 37.** Komisja, ustalając wysokość kary pieniężnej, o której mowa w art. 31 ust. 1 pkt 2 i 3, ust. 2 pkt 1 i ust. 10 oraz art. 32 ust. 1, uwzględnia:
+
+- **1)** wagę i czas trwania naruszenia;
+- **2)** stopień przyczynienia się podmiotu odpowiedzialnego za naruszenie do powstałego naruszenia;
+- **3)** sytuację finansową podmiotu odpowiedzialnego za naruszenie, w tym w przypadku osoby prawnej przychody tej osoby, a w przypadku osoby fizycznej jej roczny dochód;
+- **4)** skalę korzyści uzyskanych lub strat unikniętych przez podmiot odpowiedzialny za naruszenie w wyniku tego naruszenia, o ile można te korzyści lub straty ustalić;
+- **5)** straty poniesione przez osoby trzecie w wyniku naruszenia, o ile można te straty ustalić;
+- **6)** gotowość podmiotu odpowiedzialnego za naruszenie do współpracy z Komisją;
+- **7)** uprzednie naruszenia dokonane przez podmiot odpowiedzialny za naruszenie;
+- **8)** rzeczywiste lub potencjalne skutki systemowe naruszenia.
 
 **Art. 38.**
 
-1. W przypadku wydania decyzji, o której mowa art. 31 ust. 1–6 i 10 oraz art. 36, Komisja może przekazać do publicznej wiadomości informację o treści ostatecznej decyzji oraz rodzaju i charakterze naruszenia wraz ze wskazaniem imienia i nazwiska osoby lub firmy (nazwy) podmiotu, których decyzja ta dotyczy.
+1. W przypadku wydania decyzji, o której mowa w art. 31 ust. 1–6 i 10 oraz art. 36, Komisja może przekazać do publicznej wiadomości informację o treści ostatecznej decyzji oraz rodzaju i charakterze naruszenia wraz ze wskazaniem imienia i nazwiska osoby lub firmy (nazwy) podmiotu, których decyzja ta dotyczy.
 
-2. W przypadku wydania decyzji, o której mowa art. 31 ust. 1–6 i 10 oraz art. 36, Komisja może przekazać do publicznej wiadomości informację o treści decyzji, która nie jest ostateczna, oraz rodzaju i charakterze naruszenia wraz ze wskazaniem imienia i nazwiska osoby lub firmy (nazwy) podmiotu, których decyzja ta dotyczy.
+2. W przypadku wydania decyzji, o której mowa w art. 31 ust. 1–6 i 10 oraz art. 36, Komisja może przekazać do publicznej wiadomości informację o treści decyzji, która nie jest ostateczna, oraz rodzaju i charakterze naruszenia wraz ze wskazaniem imienia i nazwiska osoby lub firmy (nazwy) podmiotu, których decyzja ta dotyczy.
 
-3. Komisja może przekazać do publicznej wiadomości informację o złożeniu zawiadomienia o podejrzeniu popełnienia przestępstwa, o którym mowa art. 51 i art. 52, jak również o wszczęciu postępowania administracyjnego przedmiocie wydania decyzji, o której mowa art. 31 ust. 1–6 i 10 oraz art. 36.
+3. Komisja może przekazać do publicznej wiadomości informację o złożeniu zawiadomienia o podejrzeniu popełnienia przestępstwa, o którym mowa w art. 51 i art. 52, jak również o wszczęciu postępowania administracyjnego w przedmiocie wydania decyzji, o której mowa w art. 31 ust. 1–6 i 10 oraz art. 36.
 
-4. Przekazanie do publicznej wiadomości informacji określonych ust. 1–3 wymaga podjęcia uchwały przez Komisję.
+4. Przekazanie do publicznej wiadomości informacji określonych w ust. 1–3 wymaga podjęcia uchwały przez Komisję.
 
-5. Informacje, o których mowa ust. 1–3, dotyczące imienia i nazwiska osoby, której dotyczy decyzja, Komisja udostępnia na swojej stronie internetowej przez rok, licząc od dnia ich udostępnienia. W pozostałym zakresie informacje, o których mowa ust. 1–3, są udostępniane na stronie internetowej Komisji przez 5 lat, licząc od dnia ich udostępnienia.
+5. Informacje, o których mowa w ust. 1–3, dotyczące imienia i nazwiska osoby, której dotyczy decyzja, Komisja udostępnia na swojej stronie internetowej przez rok, licząc od dnia ich udostępnienia. W pozostałym zakresie informacje, o których mowa w ust. 1–3, są udostępniane na stronie internetowej Komisji przez 5 lat, licząc od dnia ich udostępnienia.
 
-6. Komisja nie przekazuje do publicznej wiadomości informacji o imieniu i nazwisku osoby fizycznej przypadku, gdy udostępnienie tych danych byłoby środkiem niewspółmiernym do wagi dokonanego naruszenia, stanowiłoby zagrożenie dla stabilności rynków finansowych, zagroziłoby prowadzonemu postępowaniu karnemu lub postępowaniu sprawach o przestępstwa skarbowe lub wyrządziłoby niewspółmierną szkodę tej osobie.
+6. Komisja nie przekazuje do publicznej wiadomości informacji o imieniu i nazwisku osoby fizycznej w przypadku, gdy udostępnienie tych danych byłoby środkiem niewspółmiernym do wagi dokonanego naruszenia, stanowiłoby zagrożenie dla stabilności rynków finansowych, zagroziłoby prowadzonemu postępowaniu karnemu lub postępowaniu w sprawach o przestępstwa skarbowe lub wyrządziłoby niewspółmierną szkodę tej osobie.
 
 **Art. 39.**
 
 1. Komisja może przeprowadzać kontrolę działalności:
 
-- **1)** podmiotu obsługującego kredyty, o którym mowa art. 10 ust. 1 pkt 1, oraz oddziału podmiotu obsługującego kredyty, o którym mowa art. 10 ust. 1 pkt 2, obejmującą:
-    - **a)** badanie działalności zakresie obsługi kredytów,
+- **1)** podmiotu obsługującego kredyty, o którym mowa w art. 10 ust. 1 pkt 1, oraz oddziału podmiotu obsługującego kredyty, o którym mowa w art. 10 ust. 1 pkt 2, obejmującą:
+    - **a)** badanie działalności w zakresie obsługi kredytów,
     - **b)** powierzenie przez podmiot obsługujący kredyty wykonywania czynności przez dostawcę usług obsługi kredytów;
 
-- **2)** dostawcy usług obsługi kredytów obejmującą wykonanie umowy, o której mowa art. 23 ust. 1.
+- **2)** dostawcy usług obsługi kredytów obejmującą wykonanie umowy, o której mowa w art. 23 ust. 1.
 
-2. Do kontroli stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871). osobę.
+2. Do kontroli stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871).
 
-4. Upoważnienie, o którym mowa ust. 3, jest udzielane na piśmie utrwalonym postaci papierowej albo elektronicznej. Upoważnienie udzielane na piśmie utrwalonym postaci papierowej opatruje się podpisem własnoręcznym. Upoważnienie utrwalone postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo kwalifikowaną pieczęcią elektroniczną Komisji ze wskazaniem treści pisma osoby opatrującej pismo pieczęcią.
+3. Czynności kontrolne są wykonywane przez pracowników Urzędu Komisji po okazaniu legitymacji służbowej oraz upoważnienia do przeprowadzenia kontroli wydanego przez Przewodniczącego Komisji lub upoważnioną przez niego osobę.
 
-5. Upoważnienie, o którym mowa ust. 3, zawiadomienie o zamiarze wszczęcia kontroli, protokół kontroli oraz zalecenia pokontrolne, odpowiednio udzielone albo sporządzone na piśmie utrwalonym postaci elektronicznej, doręcza się na adres do doręczeń elektronicznych.
+4. Upoważnienie, o którym mowa w ust. 3, jest udzielane na piśmie utrwalonym w postaci papierowej albo elektronicznej. Upoważnienie udzielane na piśmie utrwalonym w postaci papierowej opatruje się podpisem własnoręcznym. Upoważnienie utrwalone w postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo kwalifikowaną pieczęcią elektroniczną Komisji ze wskazaniem w treści pisma osoby opatrującej pismo pieczęcią.
 
-6. Pracownicy, o których mowa ust. 3, zakresie ustalonym upoważnieniu do przeprowadzenia kontroli, mają prawo do:
+5. Upoważnienie, o którym mowa w ust. 3, zawiadomienie o zamiarze wszczęcia kontroli, protokół kontroli oraz zalecenia pokontrolne, odpowiednio udzielone albo sporządzone na piśmie utrwalonym w postaci elektronicznej, doręcza się na adres do doręczeń elektronicznych.
+
+6. Pracownicy, o których mowa w ust. 3, w zakresie ustalonym w upoważnieniu do przeprowadzenia kontroli, mają prawo do:
 
 - **1)** wstępu do pomieszczeń kontrolowanego podmiotu;
 - **2)** swobodnego dostępu do oddzielnego pomieszczenia biurowego i środków komunikacji elektronicznej;
 - **3)** wglądu do dokumentacji kontrolowanego podmiotu oraz żądania sporządzenia kopii i odpisów tych dokumentów oraz wyciągów z nich;
-- **4)** wglądu do danych zawartych systemie teleinformatycznym kontrolowanego podmiotu oraz żądania sporządzenia kopii tych danych lub wyciągów z nich, tym postaci dokumentów elektronicznych rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne;
-- **5)** żądania okazania nośników informacji oraz udostępnienia danych nich zawartych mających związek z przedmiotem kontroli.
+- **4)** wglądu do danych zawartych w systemie teleinformatycznym kontrolowanego podmiotu oraz żądania sporządzenia kopii tych danych lub wyciągów z nich, w tym w postaci dokumentów elektronicznych w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne;
+- **5)** żądania okazania nośników informacji oraz udostępnienia danych w nich zawartych mających związek z przedmiotem kontroli.
 
-7. Podmiot kontrolowany jest obowiązany umożliwić upoważnionym pracownikom, o których mowa ust. 3, wykonywanie czynności kontrolnych, a szczególności udostępnić do wglądu księgi, bilanse, rejestry, plany, sprawozdania i inne dokumenty oraz umożliwić, na pisemne żądanie, sporządzenie kopii tych dokumentów i innych nośników informacji, jak również udzielać wyjaśnień żądanych przez tych pracowników.
+7. Podmiot kontrolowany jest obowiązany umożliwić upoważnionym pracownikom, o których mowa w ust. 3, wykonywanie czynności kontrolnych, a w szczególności udostępnić do wglądu księgi, bilanse, rejestry, plany, sprawozdania i inne dokumenty oraz umożliwić, na pisemne żądanie, sporządzenie kopii tych dokumentów i innych nośników informacji, jak również udzielać wyjaśnień żądanych przez tych pracowników.
 
 8. Z kontroli sporządza się protokół.
 
-9. Podmiot kontrolowany przed podpisaniem protokołu kontroli ma prawo zgłoszenia zastrzeżeń lub wyjaśnień do ustaleń zawartych protokole kontroli terminie 14 dni od dnia jego doręczenia.
+9. Podmiot kontrolowany przed podpisaniem protokołu kontroli ma prawo zgłoszenia zastrzeżeń lub wyjaśnień do ustaleń zawartych w protokole kontroli w terminie 14 dni od dnia jego doręczenia.
 
 10. W przypadku stwierdzenia nieprawidłowości Komisja przedstawia podmiotowi kontrolowanemu zalecenia pokontrolne.
 
-11. Minister właściwy do spraw instytucji finansowych określi, drodze rozporządzenia:
+11. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia:
 
-- **1)** szczegółowy sposób i tryb wykonywania czynności kontrolnych podmiotach obsługujących kredyty, o których mowa art. 10 ust. 1 pkt 1, oddziałach podmiotów obsługujących kredyty, o których mowa art. 10 ust. 1 pkt 2, i u dostawców usług obsługi kredytów,
+- **1)** szczegółowy sposób i tryb wykonywania czynności kontrolnych w podmiotach obsługujących kredyty, o których mowa w art. 10 ust. 1 pkt 1, oddziałach podmiotów obsługujących kredyty, o których mowa w art. 10 ust. 1 pkt 2, i u dostawców usług obsługi kredytów,
 - **2)** szczegółowy zakres protokołu kontroli oraz sposób i tryb jego sporządzenia,
-- **3)** sposób i tryb wnoszenia zastrzeżeń lub wyjaśnień do ustaleń kontroli zawartych protokole kontroli,
-- **4)** sposób przekazania zaleceń pokontrolnych – uwzględniając cele nadzoru sprawowanego nad tymi podmiotami oraz konieczność zapewnienia efektywności tego nadzoru.
+- **3)** sposób i tryb wnoszenia zastrzeżeń lub wyjaśnień do ustaleń kontroli zawartych w protokole kontroli,
+- **4)** sposób przekazania zaleceń pokontrolnych uwzględniając cele nadzoru sprawowanego nad tymi podmiotami oraz konieczność zapewnienia efektywności tego nadzoru.
 
 **Art. 40.**
 
-1. Komisja przy przeprowadzaniu kontroli miejscu prowadzenia przez podmiot obsługujący kredyty, o którym mowa art. 10 ust. 1 pkt 1, działalności zakresie obsługi kredytów współpracuje z właściwym organem nadzoru goszczącego państwa członkowskiego oraz właściwym organem nadzoru państwa członkowskiego, którym zawarto umowę o kredyt, jeżeli nie jest to Rzeczpospolita Polska i goszczące państwo członkowskie, zakresie niezbędnym do prawidłowego wykonywania swoich funkcji i obowiązków.
+1. Komisja przy przeprowadzaniu kontroli w miejscu prowadzenia przez podmiot obsługujący kredyty, o którym mowa w art. 10 ust. 1 pkt 1, działalności w zakresie obsługi kredytów współpracuje z właściwym organem nadzoru goszczącego państwa członkowskiego oraz właściwym organem nadzoru państwa członkowskiego, w którym zawarto umowę o kredyt, jeżeli nie jest to Rzeczpospolita Polska i goszczące państwo członkowskie, w zakresie niezbędnym do prawidłowego wykonywania swoich funkcji i obowiązków.
 
-2. Komisja, na wniosek właściwego organu nadzoru macierzystego państwa członkowskiego, może prowadzić kontrole odniesieniu do działalności zakresie obsługi kredytów prowadzonej na terytorium Rzeczypospolitej Polskiej przez podmiot obsługujący kredyty, o którym mowa art. 10 ust. 1 pkt 2, lub u dostawców usług obsługi kredytów prowadzących działalność na terytorium Rzeczypospolitej Polskiej. Komisja przekazuje wyniki tych kontroli właściwym organom nadzoru macierzystego państwa członkowskiego. cje właściwym organom nadzoru macierzystego państwa członkowskiego oraz może zwrócić się do nich o zastosowanie odpowiednich środków nadzorczych, bez uszczerbku dla uprawnień przysługujących Komisji odniesieniu do podmiotu obsługującego kredyty na podstawie ustawy.
+2. Komisja, na wniosek właściwego organu nadzoru macierzystego państwa członkowskiego, może prowadzić kontrole w odniesieniu do działalności w zakresie obsługi kredytów prowadzonej na terytorium Rzeczypospolitej Polskiej przez podmiot obsługujący kredyty, o którym mowa w art. 10 ust. 1 pkt 2, lub u dostawców usług obsługi kredytów prowadzących działalność na terytorium Rzeczypospolitej Polskiej. Komisja przekazuje wyniki tych kontroli właściwym organom nadzoru macierzystego państwa członkowskiego.
 
-**Art. 41.** Komisja może zwrócić się do właściwego organu nadzoru goszczącego państwa członkowskiego o pomoc przeprowadzeniu kontroli działalności:
+3. Komisja, w przypadku posiadania informacji, że podmiot obsługujący kredyty, o którym mowa w art. 10 ust. 1 pkt 2, narusza przepisy mające zastosowanie do podmiotów obsługujących kredyty i nabywców kredytów, przekazuje te informacje właściwym organom nadzoru macierzystego państwa członkowskiego oraz może zwrócić się do nich o zastosowanie odpowiednich środków nadzorczych, bez uszczerbku dla uprawnień przysługujących Komisji w odniesieniu do podmiotu obsługującego kredyty na podstawie ustawy.
 
-**Art. 42.** Komisja, terminie 2 miesięcy od dnia zastosowania środka nadzorczego, przekazuje właściwym organom nadzoru macierzystego państwa członkowskiego informacje dotyczące środków nadzorczych zastosowanych wobec oddziału podmiotu obsługującego kredyty, o którym mowa art. 10 ust. 1 pkt 2, a przypadku, o którym mowa art. 40 ust. 3 – informację o niezastosowaniu sankcji. W przypadku wszczęcia działań nadzorczych Komisja regularnie informuje właściwe organy nadzoru macierzystego państwa członkowskiego o ich przebiegu.
+**Art. 41.** Komisja może zwrócić się do właściwego organu nadzoru goszczącego państwa członkowskiego o pomoc w przeprowadzeniu kontroli działalności:
 
-**Art. 43.** Przy wykonywaniu zadań zakresie nadzoru określonego ustawie Komisja uwzględnia wytyczne i zalecenia Europejskiego Urzędu Nadzoru Bankowego. W przypadku nieuwzględnienia wytycznych lub zaleceń Europejskiego Urzędu Nadzoru Bankowego Komisja podaje powody ich nieuwzględnienia.
+- **1)** podmiotu obsługującego kredyty, o którym mowa w art. 10 ust. 1 pkt 1, prowadzącego działalność na terytorium goszczącego państwa członkowskiego;
+- **2)** dostawcy usług obsługi kredytów wyznaczonego przez podmiot obsługujący kredyty, o którym mowa w art. 10 ust. 1 pkt 1, prowadzącego działalność na terytorium goszczącego państwa członkowskiego.
+
+**Art. 42.** Komisja, w terminie 2 miesięcy od dnia zastosowania środka nadzorczego, przekazuje właściwym organom nadzoru macierzystego państwa członkowskiego informacje dotyczące środków nadzorczych zastosowanych wobec oddziału podmiotu obsługującego kredyty, o którym mowa w art. 10 ust. 1 pkt 2, a w przypadku, o którym mowa w art. 40 ust. 3 informację o niezastosowaniu sankcji. W przypadku wszczęcia działań nadzorczych Komisja regularnie informuje właściwe organy nadzoru macierzystego państwa członkowskiego o ich przebiegu.
+
+**Art. 43.** Przy wykonywaniu zadań w zakresie nadzoru określonego w ustawie Komisja uwzględnia wytyczne i zalecenia Europejskiego Urzędu Nadzoru Bankowego. W przypadku nieuwzględnienia wytycznych lub zaleceń Europejskiego Urzędu Nadzoru Bankowego Komisja podaje powody ich nieuwzględnienia.
 
 #### Rozdział 10 Wpłaty i opłaty na pokrycie kosztów nadzoru
 
 **Art. 44.**
 
-1. Podmioty obsługujące kredyty, o których mowa art. 10 ust. 1 pkt 1, nabywcy kredytów oraz przedstawiciele są obowiązani do wnoszenia wpłat na pokrycie kosztów nadzoru, o którym mowa art. 30 ust. 1.
+1. Podmioty obsługujące kredyty, o których mowa w art. 10 ust. 1 pkt 1, nabywcy kredytów oraz przedstawiciele są obowiązani do wnoszenia wpłat na pokrycie kosztów nadzoru, o którym mowa w art. 30 ust. 1.
 
-2. Suma wpłat, o których mowa art. 46 ust. 1, oraz opłat, o których mowa art. 47 ust. 1 i 2, dokonanych poprzednim roku pomniejsza łączną kwotę wpłat na pokrycie kosztów nadzoru należnych danym roku zgodnie z art. 45 ust. 1.
+2. Suma wpłat, o których mowa w art. 46 ust. 1, oraz opłat, o których mowa w art. 47 ust. 1 i 2, dokonanych w poprzednim roku pomniejsza łączną kwotę wpłat na pokrycie kosztów nadzoru należnych w danym roku zgodnie z art. 45 ust. 1.
 
 **Art. 45.**
 
-1. Podmioty obsługujące kredyty, o których mowa art. 10 ust. 1 pkt 1, wnoszą roczne wpłaty na pokrycie kosztów nadzoru kwocie nie większej niż 0,5 % sumy przychodów uzyskanych z działalności zakresie obsługi kredytów za rok obrotowy poprzedzający rok kalendarzowy, którym należna jest wpłata, jednak nie mniejszej niż 4000 zł.
+1. Podmioty obsługujące kredyty, o których mowa w art. 10 ust. 1 pkt 1, wnoszą roczne wpłaty na pokrycie kosztów nadzoru w kwocie nie większej niż 0,5 % sumy przychodów uzyskanych z działalności w zakresie obsługi kredytów za rok obrotowy poprzedzający rok kalendarzowy, w którym należna jest wpłata, jednak nie mniejszej niż 4000 zł.
 
-2. Podmioty, o których mowa ust. 1, przekazują Urzędowi Komisji deklaracje o wysokości należnej wpłaty, o której mowa ust. 1, na pokrycie kosztów nadzoru.
+2. Podmioty, o których mowa w ust. 1, przekazują Urzędowi Komisji deklaracje o wysokości należnej wpłaty, o której mowa w ust. 1, na pokrycie kosztów nadzoru.
 
-3. Deklaracje, o których mowa ust. 2, składa się postaci elektronicznej za pomocą systemu teleinformatycznego udostępnionego na stronie internetowej Urzędu Komisji.
+3. Deklaracje, o których mowa w ust. 2, składa się w postaci elektronicznej za pomocą systemu teleinformatycznego udostępnionego na stronie internetowej Urzędu Komisji.
 
-4. Podmiot, o którym mowa art. 10 ust. 1 pkt 1, rozpoczynający działalność zakresie obsługi kredytów, pierwszą wpłatę, o której mowa ust. 1, wnosi za rok kalendarzowy następujący po roku, którym rozpoczął tę działalność, a przypadku podmiotów, dla których rok obrotowy obejmuje okres inny niż rok kalendarzowy, za rok kalendarzowy następujący po roku, którym zakończył się pierwszy rok obrotowy.
+4. Podmiot, o którym mowa w art. 10 ust. 1 pkt 1, rozpoczynający działalność w zakresie obsługi kredytów, pierwszą wpłatę, o której mowa w ust. 1, wnosi za rok kalendarzowy następujący po roku, w którym rozpoczął tę działalność, a w przypadku podmiotów, dla których rok obrotowy obejmuje okres inny niż rok kalendarzowy, za rok kalendarzowy następujący po roku, w którym zakończył się pierwszy rok obrotowy.
 
-5. Wpłaty, o których mowa ust. 1, wnosi się na rachunek bankowy Urzędu Komisji.
+5. Wpłaty, o których mowa w ust. 1, wnosi się na rachunek bankowy Urzędu Komisji.
 
 **Art. 46.**
 
-1. Nabywca kredytów wnosi wpłaty na pokrycie kosztów nadzoru wysokości 1000 zł za każde półrocze roku kalendarzowego, którym na jego rzecz zostały przeniesione prawa kredytodawcy wynikające z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt.
+1. Nabywca kredytów wnosi wpłaty na pokrycie kosztów nadzoru w wysokości 1000 zł za każde półrocze roku kalendarzowego, w którym na jego rzecz zostały przeniesione prawa kredytodawcy wynikające z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt.
 
-2. W przypadku gdy nabywca kredytu wyznaczył przedstawiciela, do wnoszenia wpłaty, o której mowa ust. 1, jest obowiązany ten przedstawiciel.
+2. W przypadku gdy nabywca kredytu wyznaczył przedstawiciela, do wnoszenia wpłaty, o której mowa w ust. 1, jest obowiązany ten przedstawiciel.
 
-3. Wpłaty, o których mowa ust. 1, wnosi się na rachunek bankowy Urzędu Komisji.
+3. Wpłaty, o których mowa w ust. 1, wnosi się na rachunek bankowy Urzędu Komisji.
 
 **Art. 47.**
 
-1. Wniosek, o którym mowa art. 4 ust. 2, podlega opłacie wysokości 18 000 zł.
+1. Wniosek, o którym mowa w art. 4 ust. 2, podlega opłacie w wysokości 18 000 zł.
 
-2. Wniosek o dokonanie zmiany wpisu do rejestru podlega opłacie wysokości 250 zł.
+2. Wniosek o dokonanie zmiany wpisu do rejestru podlega opłacie w wysokości 250 zł.
 
-3. Opłaty, o których mowa ust. 1 i 2, wnosi się na rachunek bankowy Urzędu Komisji.
+3. Opłaty, o których mowa w ust. 1 i 2, wnosi się na rachunek bankowy Urzędu Komisji.
 
-- **1)** sposób obliczenia wysokości wpłat, o których mowa art. 45 ust. 1, oraz termin ich wnoszenia,
-- **2)** termin wnoszenia wpłat, o których mowa art. 46 ust. 1 – uwzględniając rodzaje wpłat, zakres sprawowanego nadzoru oraz konieczność zapewnienia jego skuteczności, a także mając na względzie, że wysokość wpłaty nie powinna istotny sposób wpływać na zwiększenie kosztów działalności podmiotów obowiązanych do ich uiszczenia, a sposób obliczania wpłat nie powinien stwarzać nadmiernych obciążeń administracyjnych dla podmiotów obowiązanych.
+**Art. 48.** Prezes Rady Ministrów określi, w drodze rozporządzenia:
+
+- **1)** sposób obliczenia wysokości wpłat, o których mowa w art. 45 ust. 1, oraz termin ich wnoszenia,
+- **2)** termin wnoszenia wpłat, o których mowa w art. 46 ust. 1 uwzględniając rodzaje wpłat, zakres sprawowanego nadzoru oraz konieczność zapewnienia jego skuteczności, a także mając na względzie, że wysokość wpłaty nie powinna w istotny sposób wpływać na zwiększenie kosztów działalności podmiotów obowiązanych do ich uiszczenia, a sposób obliczania wpłat nie powinien stwarzać nadmiernych obciążeń administracyjnych dla podmiotów obowiązanych.
 
 #### Rozdział 11 Tajemnica zawodowa
 
 **Art. 49.**
 
-1. Przewodniczący Komisji, jego zastępcy, członkowie Komisji, pracownicy Urzędu Komisji oraz osoby wykonujące pracę na podstawie umowy o dzieło, umowy zlecenia albo innych umów o podobnym charakterze są obowiązani do zachowania tajemnicy zawodowej, którą stanowią wszystkie informacje uzyskane lub wytworzone związku ze sprawowaniem nadzoru, o którym mowa art. 30 ust. 1, których udzielenie, ujawnienie lub potwierdzenie mogłoby naruszyć chroniony prawem interes podmiotów, których te informacje bezpośrednio lub pośrednio dotyczą, lub utrudnić sprawowanie tego nadzoru.
+1. Przewodniczący Komisji, jego zastępcy, członkowie Komisji, pracownicy Urzędu Komisji oraz osoby wykonujące pracę na podstawie umowy o dzieło, umowy zlecenia albo innych umów o podobnym charakterze są obowiązani do zachowania tajemnicy zawodowej, którą stanowią wszystkie informacje uzyskane lub wytworzone w związku ze sprawowaniem nadzoru, o którym mowa w art. 30 ust. 1, których udzielenie, ujawnienie lub potwierdzenie mogłoby naruszyć chroniony prawem interes podmiotów, których te informacje bezpośrednio lub pośrednio dotyczą, lub utrudnić sprawowanie tego nadzoru.
 
-2. Obowiązek, o którym mowa ust. 1, istnieje również po ustaniu stosunków prawnych, o których mowa tym przepisie.
+2. Obowiązek, o którym mowa w ust. 1, istnieje również po ustaniu stosunków prawnych, o których mowa w tym przepisie.
 
-3. Nie stanowi naruszenia obowiązku, o którym mowa ust. 1:
+3. Nie stanowi naruszenia obowiązku, o którym mowa w ust. 1:
 
-- **1)** udzielenie informacji dotyczących nabywania kredytów i działalności zakresie obsługi kredytów właściwym organom nadzoru goszczącego państwa członkowskiego lub państwa członkowskiego, którym zawarto umowę o kredyt, dla celów sprawowanego przez te organy nadzoru nad rynkiem finansowym oraz sprawach związanych z wykonywaniem tego nadzoru, jeżeli wskutek tego nie zostanie naruszony interes gospodarczy Rzeczypospolitej Polskiej, jest zapewnione wykorzystanie udzielonych informacji tylko na potrzeby sprawowanego nadzoru nad rynkiem finansowym lub sprawach związanych z wykonywaniem tego nadzoru oraz jest zagwarantowane, że przekazywanie udzielonych informacji poza organ nadzoru jest możliwe wyłącznie po uprzednim uzyskaniu zgody Komisji;
+- **1)** udzielenie informacji dotyczących nabywania kredytów i działalności w zakresie obsługi kredytów właściwym organom nadzoru goszczącego państwa członkowskiego lub państwa członkowskiego, w którym zawarto umowę o kredyt, dla celów sprawowanego przez te organy nadzoru nad rynkiem finansowym oraz w sprawach związanych z wykonywaniem tego nadzoru, jeżeli wskutek tego nie zostanie naruszony interes gospodarczy Rzeczypospolitej Polskiej, jest zapewnione wykorzystanie udzielonych informacji tylko na potrzeby sprawowanego nadzoru nad rynkiem finansowym lub w sprawach związanych z wykonywaniem tego nadzoru oraz jest zagwarantowane, że przekazywanie udzielonych informacji poza organ nadzoru jest możliwe wyłącznie po uprzednim uzyskaniu zgody Komisji;
 - **2)** złożenie zawiadomienia o podejrzeniu popełnienia przestępstwa;
-- **3)** udzielenie informacji bankowi centralnemu, będącemu Europejskim Systemie Banków Centralnych, niezbędnych do realizacji przez niego zadań, tym zadań dotyczących polityki monetarnej i zapewnienia związanej z tym płynności, zadań związanych z nadzorem nad systemami płatności, rozliczeń i rozrachunku oraz zadań realizowanych przypadku zagrożenia dla stabilności systemu finansowego;
-- **4)** udzielenie informacji i udostępnienie dokumentacji dotyczących działalności zakresie obsługi kredytów właściwym organom nadzoru państw członkowskich przypadku zagrożenia dla stabilności systemu finansowego oraz wykonaniu zobowiązań międzynarodowych Rzeczypospolitej Polskiej;
+- **3)** udzielenie informacji bankowi centralnemu, będącemu w Europejskim Systemie Banków Centralnych, niezbędnych do realizacji przez niego zadań, w tym zadań dotyczących polityki monetarnej i zapewnienia związanej z tym płynności, zadań związanych z nadzorem nad systemami płatności, rozliczeń i rozrachunku oraz zadań realizowanych w przypadku zagrożenia dla stabilności systemu finansowego;
+- **4)** udzielenie informacji i udostępnienie dokumentacji dotyczących działalności w zakresie obsługi kredytów właściwym organom nadzoru państw członkowskich w przypadku zagrożenia dla stabilności systemu finansowego oraz w wykonaniu zobowiązań międzynarodowych Rzeczypospolitej Polskiej;
 - **5)** udzielenie Komitetowi Stabilności Finansowej informacji niezbędnych do realizacji przez niego zadań ustawowych;
-- **6)** udzielenie instytucjonalnym systemom ochrony, o których mowa art. 113 ust. 7 rozporządzenia nr 575/2013, informacji niezbędnych do realizacji ich zadań;
-- **7)** udzielenie informacji jednostce zarządzającej systemem ochrony, o której mowa art. 130e ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, zakresie informacji niezbędnych do realizacji celów, o których mowa art. 130b ust. 1 tej ustawy, i wsparcia, o którym mowa art. 130b ust. 2 tej ustawy, lub zadań organu zarządzającego systemem ochrony określonych art. 130k ust. 1 pkt 3 i 4 oraz ust. 2 tej ustawy;
+- **6)** udzielenie instytucjonalnym systemom ochrony, o których mowa w art. 113 ust. 7 rozporządzenia nr 575/2013, informacji niezbędnych do realizacji ich zadań;
+- **7)** udzielenie informacji jednostce zarządzającej systemem ochrony, o której mowa w art. 130e ust. 1 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, w zakresie informacji niezbędnych do realizacji celów, o których mowa w art. 130b ust. 1 tej ustawy, i wsparcia, o którym mowa w art. 130b ust. 2 tej ustawy, lub zadań organu zarządzającego systemem ochrony określonych w art. 130k ust. 1 pkt 3 i 4 oraz ust. 2 tej ustawy;
 - **8)** udzielenie Europejskiej Radzie do spraw Ryzyka Systemowego, Europejskiemu Urzędowi Nadzoru Bankowego, Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych lub Europejskiemu Urzędowi Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych informacji niezbędnych do realizacji ich zadań, jeżeli obowiązek taki wynika z przepisów dotyczących utworzenia i działalności tych podmiotów;
-- **9)** udzielenie informacji Generalnemu Inspektorowi Informacji Finansowej zakresie i na zasadach określonych ustawie z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2023 r. poz. 1124, z późn. zm. ). określonej ust. 1, 2 i 5–7.
+- **9)** udzielenie informacji Generalnemu Inspektorowi Informacji Finansowej w zakresie i na zasadach określonych w ustawie z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2023 r. poz. 1124, z późn. zm. ).
+
+4. Udzielenie właściwym organom nadzoru państwa innego niż państwo członkowskie informacji stanowiących tajemnicę zawodową może nastąpić jedynie wówczas, gdy zapewniona będzie ochrona tych informacji co najmniej równoważna określonej w ust. 1, 2 i 5–7.
 
 5. Uzyskane od właściwych organów nadzoru państwa innego niż państwo członkowskie informacje stanowiące tajemnicę zawodową tych organów mogą być udzielane jedynie po uzyskaniu zgody tych organów i dla celów określonych tą zgodą.
 
-6. Zgoda, o której mowa ust. 5, nie jest wymagana, jeżeli informacje uzyskane od właściwych organów nadzoru państwa członkowskiego są przekazywane właściwym organom nadzoru innych państw członkowskich lub udzielenie informacji jest niezbędne dla celów wykonywania nadzoru finansowego, o którym mowa art. 1 ust. 2 pkt 15 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2024 r. poz. 135 oraz z 2025 r. poz. 146).
+6. Zgoda, o której mowa w ust. 5, nie jest wymagana, jeżeli informacje uzyskane od właściwych organów nadzoru państwa członkowskiego są przekazywane właściwym organom nadzoru innych państw członkowskich lub udzielenie informacji jest niezbędne dla celów wykonywania nadzoru finansowego, o którym mowa w art. 1 ust. 2 pkt 15 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2024 r. poz. 135 oraz z 2025 r. poz. 146).
 
-7. Do zachowania tajemnicy informacji stanowiących tajemnicę zawodową są obowiązane także osoby, którym informacje te zostały ujawnione zgodnie z ust. 3, 5 lub 6, chyba że na ujawnienie takich informacji przez te osoby zezwala przepis prawa. Obowiązek zachowania tajemnicy informacji stanowiących tajemnicę zawodową istnieje również po ustaniu stosunków prawnych, na podstawie których uzyskano dostęp do tych informacji.
+7. Do zachowania w tajemnicy informacji stanowiących tajemnicę zawodową są obowiązane także osoby, którym informacje te zostały ujawnione zgodnie z ust. 3, 5 lub 6, chyba że na ujawnienie takich informacji przez te osoby zezwala przepis prawa. Obowiązek zachowania w tajemnicy informacji stanowiących tajemnicę zawodową istnieje również po ustaniu stosunków prawnych, na podstawie których uzyskano dostęp do tych informacji.
 
-8. Osoby, o których mowa ust. 1, mają obowiązek udostępnienia informacji stanowiących tajemnicę zawodową lub przekazywania związanych z nimi dokumentów na żądanie sądu lub prokuratora związku z toczącym się postępowaniem karnym lub postępowaniem sprawach o przestępstwa skarbowe.
+8. Osoby, o których mowa w ust. 1, mają obowiązek udostępnienia informacji stanowiących tajemnicę zawodową lub przekazywania związanych z nimi dokumentów na żądanie sądu lub prokuratora w związku z toczącym się postępowaniem karnym lub postępowaniem w sprawach o przestępstwa skarbowe.
 
 #### Rozdział 12 Przepisy karne
 
 **Art. 50.**
 
-1. Kto bez zezwolenia prowadzi działalność zakresie obsługi kredytów, podlega grzywnie do 5 000 000 zł albo karze pozbawienia wolności od 3 miesięcy do lat 5.
+1. Kto bez zezwolenia prowadzi działalność w zakresie obsługi kredytów, podlega grzywnie do 5 000 000 zł albo karze pozbawienia wolności od 3 miesięcy do lat 5.
 
-2. Tej samej karze podlega, kto dopuszcza się czynu określonego ust. 1, działając imieniu lub interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
+2. Tej samej karze podlega, kto dopuszcza się czynu określonego w ust. 1, działając w imieniu lub w interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
 
 **Art. 51.**
 
-1. Kto, będąc obowiązanym do zachowania tajemnicy zawodowej, o której mowa art. 49, ujawnia lub wykorzystuje informacje stanowiące taką tajemnicę, podlega grzywnie do 1 000 000 zł albo karze pozbawienia wolności do lat 3, albo obu tym karom łącznie.
+1. Kto, będąc obowiązanym do zachowania tajemnicy zawodowej, o której mowa w art. 49, ujawnia lub wykorzystuje informacje stanowiące taką tajemnicę, podlega grzywnie do 1 000 000 zł albo karze pozbawienia wolności do lat 3, albo obu tym karom łącznie.
 
-2. Tej samej karze podlega, kto dopuszcza się czynu określonego ust. 1, działając imieniu lub interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
+2. Tej samej karze podlega, kto dopuszcza się czynu określonego w ust. 1, działając w imieniu lub w interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
 
 **Art. 52.**
 
-1. Kto, działając imieniu własnym lub imieniu lub interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej:
+1. Kto, działając w imieniu własnym lub w imieniu lub w interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej:
 
-- **1)** wbrew obowiązkowi, o którym mowa art. 19 ust. 1, nie prowadzi lub nie przechowuje dokumentacji związanej z prowadzeniem działalności zakresie obsługi kredytów,
-- **2)** wbrew obowiązkowi, o którym mowa art. 23 ust. 4, nie prowadzi lub nie przechowuje dokumentacji dotyczącej współpracy z podmiotem obsługującym kredyty oraz dokumentacji dotyczącej wykonywania czynności zakresie obsługi kredytów,
-- **3)** nie wykonuje obowiązku przekazywania, na żądanie Komisji, informacji lub dokumentacji, o których mowa art. 19 ust. 1 oraz art. 23 ust. 4, podlega karze aresztu, ograniczenia wolności albo grzywny.
+- **1)** wbrew obowiązkowi, o którym mowa w art. 19 ust. 1, nie prowadzi lub nie przechowuje dokumentacji związanej z prowadzeniem działalności w zakresie obsługi kredytów,
+- **2)** wbrew obowiązkowi, o którym mowa w art. 23 ust. 4, nie prowadzi lub nie przechowuje dokumentacji dotyczącej współpracy z podmiotem obsługującym kredyty oraz dokumentacji dotyczącej wykonywania czynności w zakresie obsługi kredytów,
+- **3)** nie wykonuje obowiązku przekazywania, na żądanie Komisji, informacji lub dokumentacji, o których mowa w art. 19 ust. 1 oraz art. 23 ust. 4, podlega karze aresztu, ograniczenia wolności albo grzywny.
 
-2. Orzekanie sprawach o czyny, o których mowa ust. 1, następuje trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977 i 1544).
+2. Orzekanie w sprawach o czyny, o których mowa w ust. 1, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977 i 1544).
 
-#### Rozdział 13 Zmiany przepisach, przepisy przejściowe i dostosowujące oraz przepis końcowy
+#### Rozdział 13 Zmiany w przepisach, przepisy przejściowe i dostosowujące oraz przepis końcowy
 
-**Art. 53.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646, 1685 i 1863) wprowadza się następujące zmiany:
+**Art. 53.** W ustawie z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2024 r. poz. 1646, 1685 i 1863) wprowadza się następujące zmiany:
 
-**Art. 54.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2023 r. poz. 2500 oraz z 2024 r. poz. 1565) art. 18 ust. 3 otrzymuje brzmienie: „3. W przypadku nadania oświadczenia o wypowiedzeniu lub odstąpieniu od umowy ubezpieczenia obowiązkowego, o którym mowa art. 4 pkt 1–3, przesyłką listową, za chwilę jego złożenia uważa się datę nadania oświadczenia placówce pocztowej operatora pocztowego rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467, 1222 i 1717) albo placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej, a przypadku wysłania oświadczenia na adres do doręczeń elektronicznych, o którym mowa art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841) – datę wystawienia dowodu wysłania, o którym mowa art. 40 tej ustawy.”.
+- **1)** w art. 6d ust. 1i otrzymuje brzmienie: „1i. Terminy przewidziane dla doręczenia decyzji kończącej postępowanie w przedmiocie sprzeciwu uważa się za zachowane, jeżeli przed ich upływem decyzja została nadana w placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467, 1222 i 1717) albo placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej albo wysłana na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841), zwany dalej „adresem do doręczeń elektronicznych”, banku wpisany do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy, zwanej dalej „bazą adresów elektronicznych”.”;
+- **2)** w art. 25i ust. 2 otrzymuje brzmienie: „2. Terminy przewidziane dla doręczenia decyzji kończącej postępowanie w przedmiocie sprzeciwu uważa się za zachowane, jeżeli przed ich upływem decyzja została nadana w placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe albo w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej albo wysłana na adres do doręczeń elektronicznych.”;
+- **3)** w art. 104 w ust. 2:
+    - **a)** w pkt 2 w lit. c na końcu dodaje się przecinek i dodaje się lit. d w brzmieniu: „d) wykonującym czynności na podstawie umów, o których mowa w art. 21 ust. 1 lub art. 23 ust. 1 ustawy z dnia 20 grudnia 2024 r. o podmiotach obsługujących kredyty i nabywcach kredytów (Dz. U. z 2025 r. poz. 146)”,
+    - **b)** po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) udzielenie informacji objętych tajemnicą bankową jest niezbędne do zawarcia i wykonywania umów przeniesienia praw kredytodawcy wynikających z nieobsługiwanej umowy o kredyt lub nabycia wierzytelności z tytułu nieobsługiwanej umowy o kredyt w rozumieniu ustawy z dnia 20 grudnia 2024 r. o podmiotach obsługujących kredyty i nabywcach kredytów, w tym udostępnienia informacji w trybie, o którym mowa w art. 25 ust. 1 tej ustawy;”;
+
+- **4)** w art. 124c w ust. 1 wyrazy „art. 529 § 1 pkt 4” zastępuje się wyrazami „art. 529 § 1 pkt 4 albo 5”;
+- **5)** w art. 138 w ust. 8 we wprowadzeniu do wyliczenia wyrazy „ust. 3, 3a, 7a i 7f” zastępuje się wyrazami „ust. 3, 3a, 7a, 7aa i 7f”;
+- **6)** po art. 139 dodaje się art. 139a w brzmieniu: „Art. 139a. 1. Bank przekazuje Komisji Nadzoru Finansowego informację dotyczącą charakterystyki portfeli wierzytelności sprzedanych innym podmiotom, w szczególności nabywcom kredytów w rozumieniu ustawy z dnia 20 grudnia 2024 r. o podmiotach obsługujących kredyty i nabywcach kredytów.
+
+2. Informację, o której mowa w ust. 1, przekazuje się za okresy półroczne.
+
+3. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, szczegółowy zakres danych uwzględnianych w informacji, o której mowa w ust. 1, oraz sposób i terminy przekazywania tej informacji, mając na względzie konieczność zapewnienia Komisji Nadzoru Finansowego dostępu do danych niezbędnych do sprawowania skutecznego nadzoru.”.
+
+**Art. 54.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2023 r. poz. 2500 oraz z 2024 r. poz. 1565) w art. 18 ust. 3 otrzymuje brzmienie: „3. W przypadku nadania oświadczenia o wypowiedzeniu lub odstąpieniu od umowy ubezpieczenia obowiązkowego, o którym mowa w art. 4 pkt 1–3, przesyłką listową, za chwilę jego złożenia uważa się datę nadania oświadczenia w placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467, 1222 i 1717) albo w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej, a w przypadku wysłania oświadczenia na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841) datę wystawienia dowodu wysłania, o którym mowa w art. 40 tej ustawy.”.
 
 **Art. 55.** W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2024 r. poz. 1034 i 1863) wprowadza się następujące zmiany:
 
-**Art. 56.** W ustawie z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym (Dz. U. z 2024 r. poz. 1161 i 1222) art. 36:
+- **1)** w art. 8c:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Inwestorem alternatywnej spółki inwestycyjnej jest podmiot, który posiada prawa uczestnictwa alternatywnej spółki inwestycyjnej.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Inwestor alternatywnej spółki inwestycyjnej powinien spełniać kryteria klienta profesjonalnego, chyba że:
+
+- **1)** nabył akcje alternatywnej spółki inwestycyjnej, o której mowa w art. 70k ust. 8, lub
+- **2)** alternatywna spółka inwestycyjna uzyskała zezwolenie, o którym mowa w art. 5 ust. 1 rozporządzenia 2015/760.”;
+- **2)** w art. 54i ust. 2 otrzymuje brzmienie: „2. Terminy przewidziane dla doręczenia decyzji kończącej postępowanie w przedmiocie zawiadomienia uważa się za zachowane, jeżeli przed ich upływem decyzja została nadana w placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467, 1222 i 1717) albo placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej albo wysłana na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841).”;
+- **3)** w art. 70k dodaje się ust. 8 w brzmieniu: „8. Przepisu ust. 6 nie stosuje się w przypadku alternatywnej spółki inwestycyjnej, której akcje są dopuszczone do obrotu na rynku regulowanym lub wprowadzone do alternatywnego systemu obrotu.”;
+- **4)** w art. 81d w ust. 1 skreśla się wyrazy „ , która uzyskała zezwolenie, o którym mowa w art. 5 ust. 1 rozporządzenia 2015/760,”.
+
+**Art. 56.** W ustawie z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym (Dz. U. z 2024 r. poz. 1161 i 1222) w art. 36:
+
+- **1)** w ust. 1 zdanie piąte otrzymuje brzmienie: „Protokoły kontroli doręcza się kontrolowanemu bezpośrednio, za pokwitowaniem przez operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467, 1222 i 1717) albo podmiot zajmujący się doręczaniem korespondencji na terenie Unii Europejskiej albo na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.”;
+- **2)** ust. 9 otrzymuje brzmienie: „9. Terminy, o których mowa w ust. 1, 2a, 3–5a i 8, uważa się za zachowane, jeżeli przed ich upływem pismo zostało doręczone bezpośrednio, nadane w polskiej placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe albo placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej albo wysłane na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.”.
 
 **Art. 57.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722 i 1863) wprowadza się następujące zmiany:
 
+- **1)** w art. 7b w ust. 3 wyrazy „ISO 174420” zastępuje się wyrazami „ISO 17442”;
+- **2)** w art. 47i ust. 1 otrzymuje brzmienie: „1. Doręczanie przez Komisję pism w postępowaniach prowadzonych na podstawie art. 9–11, art. 18 i art. 19 rozporządzenia 2021/23 następuje, za pokwitowaniem, przez operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467, 1222 i 1717) albo podmiot zajmujący się doręczaniem korespondencji na terenie Unii Europejskiej albo na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841), CCP, wpisany do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy.”;
+- **3)** w art. 110zx ust. 8 otrzymuje brzmienie: „8. Termin 5 dni roboczych, o którym mowa w ust. 3, uważa się za zachowany, jeżeli przed jego upływem decyzja została nadana w polskiej placówce pocztowej operatora pocztowego albo placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej.”.
+
 **Art. 58.** W ustawie z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2024 r. poz. 620 i 1863) wprowadza się następujące zmiany:
+
+- **1)** w art. 69 w ust. 4 w pkt 10 wyrazy „ISO 174420” zastępuje się wyrazami „ISO 17442”;
+- **2)** w art. 92 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. W przypadku gdy podział spółki publicznej z siedzibą na terytorium Rzeczypospolitej Polskiej jest dokonywany w drodze podziału przez wyodrębnienie, o którym mowa w art. 529 § 1 pkt 5 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych, przepisu ust. 1 pkt 2 nie stosuje się.”.
 
 **Art. 59.** W ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2024 r. poz. 135) wprowadza się następujące zmiany:
 
+- **1)** w art. 1 w ust. 2 w pkt 14 kropkę zastępuje się średnikiem i dodaje się pkt 15 w brzmieniu: „15) nadzór nad podmiotami obsługującymi kredyty, dostawcami usług obsługi kredytów, nabywcami kredytów oraz przedstawicielami sprawowany zgodnie z przepisami ustawy z dnia 20 grudnia 2024 r. o podmiotach obsługujących kredyty i nabywcach kredytów (Dz. U. z 2025 r. poz. 146).”;
+- **2)** w art. 6 w ust. 2 w pkt 1 wyrazy „oraz ustawie z dnia 7 lipca 2022 r. o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom,” zastępuje się wyrazami „ , ustawie z dnia 7 lipca 2022 r. o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom, ustawie z dnia 12 maja 2011 r. o kredycie konsumenckim, ustawie z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami oraz ustawie z dnia 20 grudnia 2024 r. o podmiotach obsługujących kredyty i nabywcach kredytów,”;
+- **3)** w art. 6b w ust. 1:
+    - **a)** skreśla się wyrazy „art. 56a i”,
+    - **b)** wyrazy „lub art. 59h i art. 59i ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim lub art. 37 i art. 38 ustawy z dnia 7 lipca 2022 r. o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom” zastępuje się wyrazami „ , art. 59h i art. 59i ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim, art. 37 i art. 38 ustawy z dnia 7 lipca 2022 r. o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom, art. 76 i art. 77 ustawy z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami lub art. 50 ustawy z dnia 20 grudnia 2024 r. o podmiotach obsługujących kredyty i nabywcach kredytów”;
+
+- **4)** w art. 12 w ust. 2 w pkt 6 w lit. b kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) nadzoru nad:
+    - **a)** podmiotami obsługującymi kredyty w sprawach wydawania zezwolenia na prowadzenie działalności w zakresie obsługi kredytów,
+    - **b)** podmiotami obsługującymi kredyty w sprawach cofania zezwolenia na prowadzenie działalności w zakresie obsługi kredytów,
+    - **c)** podmiotami obsługującymi kredyty, dostawcami usług obsługi kredytów, nabywcami kredytów lub przedstawicielami w sprawach nakładania kar pieniężnych.”;
+
+- **5)** w art. 16:
+    - **a)** po ust. 1 dodaje się ust. 1a–1c w brzmieniu: „1a. Obowiązek, o którym mowa w ust. 1, dotyczy również pracowników podmiotów pozostających w stosunku zlecenia lub w innym stosunku prawnym o podobnym charakterze z Komisją lub Urzędem Komisji oraz osób wykonujących pracę na podstawie umowy o dzieło, umowy zlecenia albo innych umów o podobnym charakterze na rzecz tych podmiotów.
+
+1b. Przepis ust. 1a stosuje się odpowiednio w przypadku, gdy dany podmiot, wykonując zlecenie lub inną umowę o podobnym charakterze, posługuje się innym podmiotem, zlecając mu wykonanie umowy albo jej części.
+
+1c. Obowiązek, o którym mowa w ust. 1a i 1b, istnieje również po ustaniu stosunków prawnych, o których mowa w ust. 1a i 1b.”,
+
+- **b)** dodaje się ust. 6 i 7 w brzmieniu: „6. W przypadku gdy przepisy, o których mowa w art. 1 ust. 2, nie przewidują odrębnego trybu podania określonych informacji do wiadomości publicznej, Komisja może, w drodze uchwały, zdecydować o podaniu do publicznej wiadomości informacji, w tym informacji objętych tajemnicą chronioną na podstawie przepisów ustaw, o których mowa w art. 1 ust. 2, w zakresie, w jakim jest to uzasadnione celem nadzoru nad rynkiem finansowym.
+
+7. Informacje, o których mowa w ust. 6, nie mogą zawierać danych osobowych. Zakazu, o którym mowa w zdaniu pierwszym, nie narusza podanie do publicznej wiadomości firmy (nazwy), pod którą prowadzi działalność osoba fizyczna.”;
+
+- **6)** w art. 17ca:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Przewodniczący Komisji przekazuje Szefowi Agencji Bezpieczeństwa Wewnętrznego, Szefowi Centralnego Biura Antykorupcyjnego, Szefowi Krajowej Administracji Skarbowej, Generalnemu Inspektorowi Informacji Finansowej, Komendantowi Głównemu Policji, Komendantowi Głównemu Straży Granicznej, Prezesowi Urzędu Ochrony Konkurencji i Konsumentów, Prezesowi Urzędu Komunikacji Elektronicznej, Ministrowi Sprawiedliwości, Prokuratorowi Generalnemu oraz Prokuratorowi Krajowemu dokumenty i informacje, w tym chronione na podstawie odrębnych ustaw, w zakresie niezbędnym do realizacji ustawowych zadań Agencji Bezpieczeństwa Wewnętrznego, Centralnego Biura Antykorupcyjnego, Krajowej Administracji Skarbowej, Generalnego Inspektora Informacji Finansowej, Policji, Straży Granicznej, Prezesa Urzędu Ochrony Konkurencji i Konsumentów, Prezesa Urzędu Komunikacji Elektronicznej, Ministra Sprawiedliwości oraz Prokuratury.”,
+    - **b)** w ust. 2 po wyrazach „Prezes Urzędu Komunikacji Elektronicznej” dodaje się wyrazy „ , Minister Sprawiedliwości, Prokurator Generalny”,
+    - **c)** w ust. 2b wyrazy „Prokurator Krajowy nie przekazuje” zastępuje się wyrazami „Prokurator Generalny i Prokurator Krajowy nie przekazują”;
+
+- **7)** art. 17cd dodany ustawą z dnia 16 sierpnia 2023 r. o zmianie niektórych ustaw w związku z zapewnieniem rozwoju rynku finansowego oraz ochrony inwestorów na tym rynku (Dz. U. poz. 1723) oznacza się jako art. 17ce.
+
 **Art. 60.** W ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2024 r. poz. 512 i 879) wprowadza się następujące zmiany:
 
-**Art. 62.** W ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2024 r. poz. 30, 731 i 1222) art. 15a ust. 4 otrzymuje brzmienie: „4. Do zachowania terminów, o których mowa ust. 2 i ust. 3 pkt 3, jest wystarczające wysłanie odpowiedzi przed ich upływem, również na adres do doręczeń elektronicznych, a przypadku odpowiedzi udzielonych na piśmie – nadanie placówce pocztowej operatora pocztowego rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467, 1222 i 1717) albo placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej.”. art. 12 ust. 1 otrzymuje brzmienie: „1. Kredytobiorca może bez podania przyczyny odstąpić od umowy odwróconego kredytu hipotecznego, terminie 30 dni od dnia jej zawarcia. Termin do odstąpienia uważa się za zachowany, jeżeli kredytobiorca złoży oświadczenie o odstąpieniu od umowy przed upływem tego terminu pod wskazany przez kredytodawcę adres lub nada je placówce pocztowej operatora pocztowego rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467, 1222 i 1717) albo placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej albo wyśle je na adres do doręczeń elektronicznych, o którym mowa art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.”.
+- **1)** w art. 1a w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7–13 w brzmieniu: „7) fundusz inwestycyjny fundusz inwestycyjny, o którym mowa w art. 3 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2024 r. poz. 1034 i 1863 oraz z 2025 r. poz. 146), zwanej dalej „ustawą o funduszach inwestycyjnych”;
+- **8)** towarzystwo towarzystwo, o którym mowa w art. 2 pkt 3 ustawy o funduszach inwestycyjnych;
+- **9)** spółka zarządzająca spółkę zarządzającą, o której mowa w art. 2 pkt 10 ustawy o funduszach inwestycyjnych;
+- **10)** zarządzający z UE zarządzającego z UE, o którym mowa w art. 2 pkt 10c ustawy o funduszach inwestycyjnych;
+- **11)** alternatywna spółka inwestycyjna alternatywną spółkę inwestycyjną, o której mowa w art. 8a ust. 1 ustawy o funduszach inwestycyjnych;
+- **12)** zarządzający ASI zarządzającego ASI, o którym mowa w art. 2 pkt 3a ustawy o funduszach inwestycyjnych;
+- **13)** alternatywny fundusz inwestycyjny alternatywny fundusz inwestycyjny, o którym mowa w art. 2 pkt 10a ustawy o funduszach inwestycyjnych.”;
+- **2)** w art. 3 ust. 1a otrzymuje brzmienie: „1a. Kasa, po uzyskaniu zezwolenia Komisji Nadzoru Finansowego, o którym mowa w art. 32 ust. 2 ustawy o funduszach inwestycyjnych, może pośredniczyć w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych lub tytułów uczestnictwa funduszy zagranicznych oraz funduszy inwestycyjnych otwartych z siedzibą w państwach należących do Europejskiego Obszaru Gospodarczego (EEA).”;
+- **3)** w art. 38:
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Rezerwę płynną stanowią:
+
+- **1)** środki pieniężne zgromadzone w kasie w formie gotówki;
+- **2)** środki pieniężne utrzymywane na odrębnych rachunkach w Kasie Krajowej;
+- **3)** jednostki uczestnictwa funduszy rynku pieniężnego, o których mowa w art. 178 ustawy o funduszach inwestycyjnych, o ile ich odkupienie nie zostało zawieszone w trybie określonym w art. 89 ust. 4 i ust. 5 pkt 1 i art. 227b tej ustawy oraz w przypadku, o którym mowa w art. 246 ust. 3 tej ustawy;
+- **4)** papiery wartościowe emitowane przez Skarb Państwa lub Narodowy Bank Polski.”,
+    - **b)** dodaje się ust. 13 w brzmieniu: „13. Jeżeli konieczne stanie się finansowanie kredytu, o którym mowa w ust. 5, w związku z wykorzystaniem przez Kasę Krajową środków pieniężnych, o których mowa w ust. 3 pkt 2, Kasa Krajowa może wezwać kasę, która utrzymuje rezerwę płynną w formie określonej w ust. 3 pkt 4, do przekazania środków pieniężnych na rachunki, o których mowa w ust. 3 pkt 2, nie później niż w terminie 3 dni roboczych od dnia doręczenia wezwania, wskazując kwotę, która podlega przekazaniu.”;
+
+- **4)** po art. 39 dodaje się art. 39a w brzmieniu: „Art. 39a. 1. Nabywcą wymagalnych wierzytelności pieniężnych wynikających z tytułu udzielonych przez kasę lub Kasę Krajową pożyczek i kredytów nie może być:
+- **1)** podmiot, nad którym kasa lub Kasa Krajowa sprawuje: z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619, 1685 i 1863),
+    - **a)** kontrolę, o której mowa w art. 3 ust. 1 pkt 34 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U.
+    - **b)** współkontrolę, o której mowa w art. 3 ust. 1 pkt 35 ustawy z dnia 29 września 1994 r. o rachunkowości;
+
+- **2)** podmiot, na który kasa lub Kasa Krajowa ma znaczący wpływ w rozumieniu art. 3 ust. 1 pkt 36 ustawy z dnia 29 września 1994 r. o rachunkowości;
+- **3)** podmiot, wobec którego kasa lub Kasa Krajowa jest podmiotem dominującym w rozumieniu art. 4 pkt 14 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2024 r. poz. 620 i 1863 oraz z 2025 r. poz. 146);
+- **4)** podmiot posiadający bliskie powiązania w rozumieniu art. 4 ust. 1 pkt 15 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe z kasą lub Kasą Krajową, przy czym przepisy art. 4a ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe stosuje się odpowiednio;
+- **5)** fundusz inwestycyjny zarządzany przez towarzystwo, spółkę zarządzającą albo zarządzającego z UE, którzy są podmiotami, o których mowa w pkt 1–4, albo którego portfel inwestycyjny lub jego część zostały powierzone w zarządzanie kasie lub Kasie Krajowej zbywającym wierzytelności albo podmiotom, o których mowa w pkt 1–4;
+- **6)** alternatywna spółka inwestycyjna zarządzana przez zarządzającego ASI albo zarządzającego z UE, którzy są podmiotami, o których mowa w pkt 1–4, albo której portfel inwestycyjny lub jego część zostały powierzone w zarządzanie kasie lub Kasie Krajowej zbywającym wierzytelności albo podmiotom, o których mowa w pkt 1–4;
+- **7)** fundusz inwestycyjny lub alternatywny fundusz inwestycyjny utworzone poza terytorium Rzeczypospolitej Polskiej, zarządzane przez podmioty, o których mowa w pkt 1–4, albo których portfel inwestycyjny lub jego część zostały powierzone w zarządzanie kasie lub Kasie Krajowej zbywającym wierzytelności albo podmiotom, o których mowa w pkt 1–4.
+
+2. Podmioty, o których mowa w ust. 1, oraz podmioty z nimi powiązane lub przez nie kontrolowane w sposób, o którym mowa w ust. 1, nie mogą obejmować lub nabywać udziałów w podmiotach nabywających wierzytelności pieniężne wynikające z tytułu udzielonych przez kasę lub Kasę Krajową pożyczek i kredytów lub instrumentów finansowych w rozumieniu art. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722 i 1863 oraz z 2025 r. poz. 146) wyemitowanych lub wystawionych przez te podmioty, a także udzielać takim podmiotom pożyczek i kredytów.
+
+3. Przepisy ust. 1 i 2 stosuje się odpowiednio do kasy, która zbywa wierzytelności innej kasy.”;
+
+- **5)** w art. 74f w ust. 2 wyrazy „o których mowa w art. 38l pkt 1 ustawy z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym” zastępuje się wyrazami „o których mowa w art. 21 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji”;
+- **6)** w art. 74n w ust. 2 wyrazy „ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego obrotu oraz o spółkach publicznych” zastępuje się wyrazami „ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych”.
+
+**Art. 61.** W ustawie z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. z 2024 r. poz. 1497) wprowadza się następujące zmiany:
+
+- **1)** po art. 21 dodaje się art. 21a w brzmieniu: „Art. 21a. 1. W przypadku gdy konsument opóźnia się ze spłatą zobowiązania z tytułu udzielonego kredytu, kredytodawca wzywa go do dokonania spłaty, wyznaczając termin, nie krótszy niż 14 dni roboczych od dnia otrzymania zawiadomienia.
+
+2. W wezwaniu, o którym mowa w ust. 1, kredytodawca informuje konsumenta o możliwości złożenia, w terminie 14 dni roboczych od dnia otrzymania wezwania, wniosku o restrukturyzację zadłużenia.
+
+3. Kredytodawca, na wniosek konsumenta, jeżeli jest to uzasadnione jego sytuacją, może wyrazić zgodę na restrukturyzację zadłużenia polegającą na całkowitym albo częściowym refinansowaniu umowy o kredyt lub zmianie postanowień umowy o kredyt, które mogą obejmować, w szczególności:
+
+- **1)** wydłużenie okresu obowiązywania umowy o kredyt;
+- **2)** zmianę rodzaju umowy o kredyt;
+- **3)** odroczenie spłaty wszystkich lub części rat na wskazany okres;
+- **4)** zmianę oprocentowania;
+- **5)** zawieszenie spłaty kredytu;
+- **6)** częściowe spłaty;
+- **7)** przewalutowanie;
+- **8)** częściowe umorzenie i konsolidację zadłużenia.
+
+4. Restrukturyzacja zadłużenia, o której mowa w ust. 3, jest dokonywana na warunkach uzgodnionych przez kredytodawcę i konsumenta.
+
+5. Kredytodawca, w przypadku odrzucenia wniosku konsumenta o restrukturyzację zadłużenia, przekazuje konsumentowi, w formie pisemnej lub na trwałym nośniku, bez zbędnej zwłoki, szczegółowe wyjaśnienia dotyczące przyczyn odrzucenia tego wniosku.
+
+6. Kredytodawca jest obowiązany do posiadania odpowiednich polityk i procedur dotyczących stosowania adekwatnych środków restrukturyzacyjnych przed wszczęciem postępowania egzekucyjnego.”;
+
+- **2)** po art. 30 dodaje się art. 30a w brzmieniu: „Art. 30a. 1. Kredytodawca lub pośrednik kredytowy nie później niż na 30 dni przed zmianą postanowień umowy o kredyt konsumencki przekazuje konsumentowi:
+- **1)** przejrzysty opis proponowanych zmian, w tym zmian wymagających uzyskania zgody konsumenta, lub zmian wprowadzonych z mocy prawa, wraz z harmonogramem ich wdrożenia;
+- **2)** informację o przysługującej konsumentowi możliwości złożenia reklamacji do kredytodawcy, a w przypadku nieuwzględnienia jego roszczeń złożenia wniosku o rozpatrzenie sprawy do Rzecznika Finansowego zgodnie z ustawą z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej (Dz. U. z 2024 r. poz. 1109), wraz ze wskazaniem adresu, na który należy złożyć ten wniosek, a także informację o możliwości skierowania roszczeń na drogę sądową lub możliwości pozasądowego rozwiązywania sporów.
+
+2. Termin, o którym mowa w ust. 1, nie musi być zachowany, jeżeli zmiany postanowień umowy o kredyt konsumencki wprowadzane są na wniosek konsumenta lub konsument wyraził zgodę na przekazanie informacji, o których mowa w ust. 1, bez zachowania tego terminu.
+
+3. W przypadku, o którym mowa w ust. 2, przekazanie informacji, o których mowa w ust. 1, następuje przed zmianą postanowień umowy o kredyt konsumencki.
+
+4. W przypadku, o którym mowa w art. 36, przepisów ust. 1–3 nie stosuje się.”.
+
+**Art. 62.** W ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2024 r. poz. 30, 731 i 1222) w art. 15a ust. 4 otrzymuje brzmienie: „4. Do zachowania terminów, o których mowa w ust. 2 i ust. 3 pkt 3, jest wystarczające wysłanie odpowiedzi przed ich upływem, również na adres do doręczeń elektronicznych, a w przypadku odpowiedzi udzielonych na piśmie nadanie w placówce pocztowej operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467, 1222 i 1717) albo placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej.”.
+
+**Art. 63.** W ustawie z dnia 23 października 2014 r. o odwróconym kredycie hipotecznym (Dz. U. z 2023 r. poz. 152) w art. 12 ust. 1 otrzymuje brzmienie: „1. Kredytobiorca może bez podania przyczyny odstąpić od umowy odwróconego kredytu hipotecznego, w terminie 30 dni od dnia jej zawarcia. Termin do odstąpienia uważa się za zachowany, jeżeli kredytobiorca złoży oświadczenie o odstąpieniu od umowy przed upływem tego terminu pod wskazany przez kredytodawcę adres lub nada je w placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467, 1222 i 1717) albo placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej albo wyśle je na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.”.
 
 **Art. 64.** W ustawie z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej (Dz. U. z 2024 r. poz. 1109) wprowadza się następujące zmiany:
 
+- **1)** w art. 2: poz. 1843) oznacza się jako lit. na, w lit. o średnik zastępuje się przecinkiem i dodaje się lit. p–r w brzmieniu: „p) podmiot obsługujący kredyty w rozumieniu art. 3 ust. 1 pkt 17 ustawy o obsługujących kredyty,
+    - **a)** w pkt 1 w lit. g średnik zastępuje się przecinkiem i dodaje się lit. h–k w brzmieniu: „h) będącego osobą fizyczną kredytobiorcę zobowiązanego do spłaty wierzytelności przysługującej nabywcy kredytu w rozumieniu art. 3 ust. 1 pkt 12 ustawy z dnia 20 grudnia 2024 r. o podmiotach obsługujących kredyty i nabywcach kredytów (Dz. U. z 2025 r. poz. 146), zwanej dalej „ustawą o obsługujących kredyty”,
+    - **i)** będącego osobą fizyczną kredytobiorcę, w przypadku gdy nabywca kredytu, o którym mowa w lit. h, wyznaczył przedstawiciela, o którym mowa w art. 24 ustawy o obsługujących kredyty,
+    - **j)** będącego osobą fizyczną kredytobiorcę, którego zobowiązanie z tytułu umowy o kredyt w rozumieniu art. 3 ust. 1 pkt 19 ustawy o obsługujących kredyty jest obsługiwane przez podmiot obsługujący kredyty w rozumieniu art. 3 ust. 1 pkt 17 ustawy o obsługujących kredyty,
+    - **k)** będącego osobą fizyczną kredytobiorcę, którego zobowiązanie z tytułu umowy o kredyt w rozumieniu art. 3 ust. 1 pkt 19 ustawy o obsługujących kredyty jest obsługiwane przez dostawcę usług obsługi kredytów w rozumieniu art. 3 ust. 1 pkt 2 ustawy o obsługujących kredyty;”,
+    - **b)** w pkt 3: lit. n dodaną ustawą z dnia 7 lipca 2023 r. o ogólnoeuropejskim indywidualnym produkcie emerytalnym (Dz. U.
+    - **q)** nabywcę kredytu w rozumieniu art. 3 ust. 1 pkt 12 ustawy o obsługujących kredyty oraz przedstawiciela, o którym mowa w art. 24 tej ustawy,
+    - **r)** dostawcę usług obsługi kredytów w rozumieniu art. 3 ust. 1 pkt 2 ustawy o obsługujących kredyty;”;
+
+- **2)** w art. 3 w ust. 2 pkt 1 otrzymuje brzmienie: „1) na piśmie osobiście w jednostce podmiotu rynku finansowego obsługującej klientów albo wysłana przesyłką pocztową w rozumieniu art. 3 pkt 21 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467, 1222 i 1717) albo nadana w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej, albo wysłana na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841), wpisany do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy;”;
+- **3)** w art. 20 w ust. 1 w pkt 13 kropkę zastępuje się średnikiem i dodaje się pkt 14 w brzmieniu: „14) wartości przychodów z tytułu działalności w zakresie obsługi kredytów, o której mowa w art. 3 ust. 1 pkt 3 ustawy o obsługujących kredyty, w roku poprzedzającym o 2 lata rok, za który opłata jest należna, i stawki 0,025 % w przypadku podmiotu obsługującego kredyty w rozumieniu art. 3 ust. 1 pkt 17 ustawy o obsługujących kredyty.”;
+- **4)** w art. 20a w ust. 1 w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „10) wartości przychodów uzyskanych z działalności w zakresie obsługi kredytów, o której mowa w art. 3 ust. 1 pkt 3 ustawy o obsługujących kredyty.”.
+
+**Art. 65.** W ustawie z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym (Dz. U. z 2024 r. poz. 559) wprowadza się następujące zmiany:
+
+- **1)** w odnośniku nr 1 do tytułu ustawy tiret pierwsze otrzymuje brzmienie: „ w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2013/36/UE z dnia 26 czerwca 2013 r. w sprawie warunków dopuszczenia instytucji kredytowych do działalności oraz nadzoru ostrożnościowego nad instytucjami kredytowymi, zmieniającą dyrektywę 2002/87/WE i uchylającą dyrektywy 2006/48/WE oraz 2006/49/WE (Dz. Urz. UE L 176 z 27.06.2013, str. 338, Dz. Urz. UE L 208 z 02.08.2013, str. 73, Dz. Urz. UE L 60 z 28.02.2014, str. 34, Dz. Urz. UE L 173 z 12.06.2014, str. 190, Dz. Urz. UE L 337 z 23.12.2015, str. 35, Dz. Urz. UE L 20 z 25.01.2017, str. 1, Dz. Urz. UE L 156 z 19.06.2018, str. 43, Dz. Urz. UE L 150 z 07.06.2019, str. 253, Dz. Urz. UE L 314 z 05.12.2019, str. 64, Dz. Urz. UE L 203 z 26.06.2020, str. 95, Dz. Urz. UE L 212 z 03.07.2020, str. 20, Dz. Urz. UE L 68 z 26.02.2021, str. 14, Dz. Urz. UE L 150 z 09.06.2023, str. 40, Dz. Urz. UE L 2023/2864 z 20.12.2023 oraz Dz. Urz. UE L 2024/1619 z 19.06.2024),”;
+- **2)** w art. 49 ust. 2 otrzymuje brzmienie: „2. Jeżeli wymóg stanowiący sumę dodatkowej kwoty kapitału podstawowego Tier I nałożonej na instytucję na podstawie art. 47 oraz wyższej z kwot nałożonych na tę instytucję na podstawie art. 34 ust. 1 lub art. 38 ust. 1 w stosunku do łącznej kwoty ekspozycji na ryzyko obliczonej zgodnie z art. 92 ust. 3 rozporządzenia 575/2013 miałby być wyższy niż 5 %, na stosowanie tego wymogu w takiej wysokości jest wymagana zgoda Komisji Europejskiej, chyba że nałożenie nowych kwot na podstawie art. 34 ust. 1, art. 38 ust. 1 lub art. 47 skutkowałoby ich obniżeniem albo brakiem ich zmiany w stosunku do kwot nałożonych dotychczas na podstawie tych przepisów.”;
+- **3)** w art. 51:
+    - **a)** uchyla się ust. 3,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. W przypadku gdy wskaźnik bufora ryzyka systemowego ma być określony w przepisach wydanych na podstawie art. 50 ust. 8 w wysokości powyżej 3 % do 5 %, przekazując powiadomienie, o którym mowa w ust. 1 pkt 1, minister właściwy do spraw instytucji finansowych zwraca się także o opinie Komisji Europejskiej i Europejskiej Rady do spraw Ryzyka Systemowego. Jeżeli opinia Komisji Europejskiej, uwzględniająca opinię Europejskiej Rady do spraw Ryzyka Systemowego, jest negatywna, minister właściwy do spraw instytucji finansowych uwzględnia tę opinię albo informuje Komisję Europejską, za pośrednictwem Komitetu, o przyczynach jej nieuwzględnienia.”,
+    - **c)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Powiadomienie, o którym mowa w ust. 1 pkt 1, wysyła się nie później niż 3 miesiące przed dniem określenia wskaźnika bufora ryzyka systemowego.”,
+    - **d)** w ust. 5 wyrazy „Jeżeli zalecenia Komisji Europejskiej i Europejskiej Rady do spraw Ryzyka Systemowego, o których mowa w ust. 4 pkt 2” zastępuje się wyrazami „Jeżeli opinie Komisji Europejskiej i Europejskiej Rady do spraw Ryzyka Systemowego, o których mowa w ust. 4”,
+    - **e)** po ust. 6 dodaje się ust. 6a w brzmieniu: „6a. Do progów w wysokości 3 %, powyżej 3 % do 5 % i powyżej 5 %, o których mowa odpowiednio w ust. 2, 4 i 6, nie wlicza się wskaźnika bufora ryzyka systemowego ustalonego przez organ właściwy w sprawach nadzoru makroostrożnościowego państwa członkowskiego innego niż Rzeczpospolita Polska.”.
+
 **Art. 66.** W ustawie z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2024 r. poz. 838, 1565 i 1863) wprowadza się następujące zmiany:
 
-**Art. 68.** W ustawie z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami (Dz. U. z 2022 r. poz. 2245 i 2339) art. 10 dodaje się ust. 3–6 brzmieniu: „3. Kredytodawca nie później niż na 30 dni przed zmianą postanowień umowy o kredyt hipoteczny przekazuje konsumentowi na trwałym nośniku:
+- **1)** w art. 91 ust. 2 otrzymuje brzmienie: „2. Terminy przewidziane dla doręczenia decyzji kończącej postępowanie w przedmiocie zawiadomienia uważa się za zachowane, jeżeli przed ich upływem decyzja została nadana w placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467, 1222 i 1717) albo w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej albo wysłana na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841), zwany dalej „adresem do doręczeń elektronicznych”.”;
+- **2)** w art. 172 w ust. 12 wyrazy „są natychmiast wykonalna” zastępuje się wyrazami „są natychmiast wykonalne”;
+- **3)** w art. 312 w ust. 2 w zdaniu pierwszym skreśla się wyrazy „jest obowiązany”;
+- **4)** w art. 320 w ust. 1 wyrazy „organu nadzoru” zastępuje się wyrazami „organ nadzoru”.
+
+**Art. 67.** W ustawie z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2024 r. poz. 487) wprowadza się następujące zmiany:
+
+- **1)** w odnośniku nr 1 do tytułu ustawy tiret pierwsze otrzymuje brzmienie: „ dyrektywę Parlamentu Europejskiego i Rady 2014/59/UE z dnia 15 maja 2014 r. ustanawiającą ramy na potrzeby prowadzenia działań naprawczych oraz restrukturyzacji i uporządkowanej likwidacji w odniesieniu do instytucji kredytowych i firm inwestycyjnych oraz zmieniającą dyrektywę Rady 82/891/EWG i dyrektywy Parlamentu Europejskiego i Rady 2001/24/WE, 2002/47/WE, 2004/25/WE, 2005/56/WE, 2007/36/WE, 2011/35/UE, 2012/30/UE i 2013/36/EU oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1093/2010 i (UE) nr 648/2012 (Dz. Urz. UE L 173 z 12.06.2014, str. 190, Dz. Urz. UE L 349 z 05.12.2014, str. 68, Dz. Urz. UE L 169 z 30.06.2017, str. 46, Dz. Urz. UE L 345 z 27.12.2017, str. 96, Dz. Urz. UE L 150 z 07.06.2019, str. 296, Dz. Urz. UE L 203 z 01.08.2019, str. 10, Dz. Urz. UE L 314 z 05.12.2019, str. 64, Dz. Urz. UE L 328 z 18.12.2019, str. 29, Dz. Urz. UE L 283 z 31.08.2020, str. 2, Dz. Urz. UE L 22 z 22.01.2021, str. 1 oraz Dz. Urz. UE L 275 z 25.10.2022, str. 1),”;
+- **2)** w art. 97 ust. 19 otrzymuje brzmienie: „19. W celu realizacji art. 98 ust. 2d, w przypadku gdy więcej niż jeden podmiot będący częścią tej samej globalnej instytucji o znaczeniu systemowym jest podmiotem podlegającym przymusowej restrukturyzacji lub podmiotem z państwa trzeciego, który byłby podmiotem podlegającym przymusowej restrukturyzacji, gdyby miał siedzibę w państwie członkowskim, Fundusz i właściwe organy przymusowej restrukturyzacji dla podmiotów zależnych określają wymóg, o którym mowa w ust. 18, dla:
+- **1)** każdego podmiotu podlegającego przymusowej restrukturyzacji lub każdego podmiotu z państwa trzeciego, który byłby podmiotem podlegającym przymusowej restrukturyzacji, gdyby miał siedzibę w państwie członkowskim, oraz
+- **2)** krajowego podmiotu dominującego, tak jakby był jedynym podmiotem podlegającym przymusowej restrukturyzacji globalnej instytucji o znaczeniu systemowym.”;
+- **3)** w art. 98:
+    - **a)** ust. 2d i 2e otrzymują brzmienie: „2d. W przypadku gdy więcej niż jeden podmiot będący częścią tej samej globalnej instytucji o znaczeniu systemowym jest podmiotem podlegającym przymusowej restrukturyzacji lub podmiotem z państwa trzeciego, który byłby podmiotem podlegającym przymusowej restrukturyzacji, gdyby miał siedzibę w państwie członkowskim, oraz jeżeli jest to uzasadnione i zgodne ze strategią przymusowej restrukturyzacji tej globalnej instytucji o znaczeniu systemowym, Fundusz oraz właściwe organy przymusowej restrukturyzacji dla podmiotów zależnych wydają zgodę na stosowanie art. 72e rozporządzenia nr 575/2013 oraz na zastosowanie korekty służącej zmniejszeniu lub usunięciu różnicy między:
+
+- **1)** sumą kwot, o których mowa w art. 97 ust. 19 pkt 1, oraz kwot, o których mowa w art. 12a lit. a rozporządzenia nr 575/2013 dla podmiotu podlegającego przymusowej restrukturyzacji lub podmiotu z państwa trzeciego, który byłby podmiotem podlegającym przymusowej restrukturyzacji, gdyby miał siedzibę w państwie członkowskim, a
+- **2)** sumą kwot, o których mowa w art. 97 ust. 19 pkt 2, oraz kwot, o których mowa w art. 12a lit. b rozporządzenia nr 575/2013.
+
+2e. Suma kwot, o których mowa w art. 97 ust. 19 pkt 1, oraz kwot, o których mowa w art. 12a lit. a rozporządzenia nr 575/2013, określonych dla podmiotów podlegających przymusowej restrukturyzacji oraz podmiotów z państw trzecich, które byłyby podmiotami podlegającymi przymusowej restrukturyzacji, gdyby miały siedziby w państwach członkowskich, nie może być mniejsza niż suma kwot, o których mowa w art. 97 ust. 19 pkt 2, oraz kwot, o których mowa w art. 12a lit. b rozporządzenia nr 575/2013, określonych dla krajowego podmiotu dominującego.”,
+
+- **b)** w ust. 2f zdanie pierwsze otrzymuje brzmienie: „Korektę, o której mowa w ust. 2d, można zastosować w odniesieniu do różnic w obliczeniach łącznych kwot ekspozycji na ryzyko między odpowiednimi państwami członkowskimi lub państwami trzecimi.”;
+- **4)** w art. 99 w ust. 1 zdanie drugie otrzymuje brzmienie: „Przepisy art. 97 ust. 16–19 oraz art. 98 ust. 2c i 2d stosuje się odpowiednio.”;
+- **5)** po art. 121 dodaje się art. 121a w brzmieniu: „Art. 121a. Do działań podejmowanych przez Fundusz w związku z przygotowaniem i przeprowadzeniem przymusowej restrukturyzacji nie stosuje się przepisów ustawy z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego (Dz. U. z 2024 r. poz. 423).”;
+- **6)** w art. 193 dodaje się ust. 4 w brzmieniu: „4. W przypadkach, o których mowa w ust. 1 i ust. 2 pkt 1, a także w przypadku zbycia praw udziałowych w instytucji pomostowej przez akcjonariusza albo wspólnika innego niż Fundusz nie stosuje się przepisów ustawy z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego.”;
+- **7)** w art. 228 dodaje się ust. 3 w brzmieniu: „3. Do zbycia praw udziałowych w podmiocie zarządzającym aktywami nie stosuje się przepisów ustawy z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego.”.
+
+**Art. 68.** W ustawie z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami (Dz. U. z 2022 r. poz. 2245 i 2339) w art. 10 dodaje się ust. 3–6 w brzmieniu: „3. Kredytodawca nie później niż na 30 dni przed zmianą postanowień umowy o kredyt hipoteczny przekazuje konsumentowi na trwałym nośniku:
+
+- **1)** przejrzysty opis proponowanych zmian, w tym zmian wymagających uzyskania zgody konsumenta, lub zmian wprowadzonych z mocy prawa, wraz z harmonogramem ich wdrożenia;
+- **2)** informację o przysługującej konsumentowi możliwości złożenia reklamacji do kredytodawcy, a w przypadku nieuwzględnienia jego roszczeń złożenia wniosku o rozpatrzenie sprawy do Rzecznika Finansowego zgodnie z ustawą z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej (Dz. U. z 2024 r. poz. 1109 oraz z 2025 r. poz. 146), wraz ze wskazaniem adresu, na który należy złożyć ten wniosek, a także informację o możliwości skierowania roszczeń na drogę sądową lub możliwości pozasądowego rozwiązywania sporów.
+
+4. Termin, o którym mowa w ust. 3, nie musi być zachowany, jeżeli zmiany postanowień umowy o kredyt hipoteczny wprowadzane są na wniosek konsumenta lub konsument wyraził zgodę na przekazanie informacji, o których mowa w ust. 3, bez zachowania tego terminu.
+
+5. W przypadku, o którym mowa w ust. 4, przekazanie informacji, o których mowa w ust. 3, następuje przed zmianą postanowień umowy o kredyt hipoteczny.
+
+6. W przypadku, o którym mowa w art. 31, przepisów ust. 3–5 nie stosuje się.”.
 
 **Art. 69.** W ustawie z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2023 r. poz. 1124, 1285, 1723 i 1843 oraz z 2024 r. poz. 850 i 1222) wprowadza się następujące zmiany:
 
-**Art. 70.** W ustawie z dnia 12 kwietnia 2018 r. o zasadach pozyskiwania informacji o niekaralności osób ubiegających się o zatrudnienie i osób zatrudnionych podmiotach sektora finansowego (Dz. U. z 2024 r. poz. 580) art. 2 ust. 1 pkt 64 kropkę zastępuje się średnikiem i dodaje się pkt 65 brzmieniu: „65) podmiot obsługujący kredyty rozumieniu art. 3 ust. 1 pkt 17 ustawy z dnia 20 grudnia 2024 r. o podmiotach obsługujących kredyty i nabywcach kredytów (Dz. U. z 2025 r. poz. 146).”.
+- **1)** w art. 2 w ust. 1 w pkt 26 kropkę zastępuje się średnikiem i dodaje się pkt 27 w brzmieniu: „27) podmiot obsługujący kredyty w rozumieniu art. 3 ust. 1 pkt 17 ustawy z dnia 20 grudnia 2024 r. o podmiotach obsługujących kredyty i nabywcach kredytów (Dz. U. z 2025 r. poz. 146).”;
+- **2)** w art. 105:
+    - **a)** w ust. 3 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „6) ministra właściwego do spraw wewnętrznych w związku z realizacją zadań wynikających z ustawy z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców (Dz. U. z 2017 r. poz. 2278).”,
+    - **b)** ust. 5 otrzymuje brzmienie: „5. Do informacji udostępnianych na podstawie ust. 1, 2, ust. 3 pkt 5 i 6 oraz ust. 4 nie stosuje się art. 99 ust. 7, z wyjątkiem przepisów ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych.”.
+
+**Art. 70.** W ustawie z dnia 12 kwietnia 2018 r. o zasadach pozyskiwania informacji o niekaralności osób ubiegających się o zatrudnienie i osób zatrudnionych w podmiotach sektora finansowego (Dz. U. z 2024 r. poz. 580) w art. 2 w ust. 1 w pkt 64 kropkę zastępuje się średnikiem i dodaje się pkt 65 w brzmieniu: „65) podmiot obsługujący kredyty w rozumieniu art. 3 ust. 1 pkt 17 ustawy z dnia 20 grudnia 2024 r. o podmiotach obsługujących kredyty i nabywcach kredytów (Dz. U. z 2025 r. poz. 146).”.
 
 **Art. 71.**
 
 1. Do:
 
 - **1)** przeniesienia praw kredytodawcy wynikających z nieobsługiwanej umowy o kredyt,
-- **2)** nabycia wierzytelności z tytułu nieobsługiwanej umowy o kredyt – które nastąpiło przed dniem wejścia życie ustawy, stosuje się przepisy dotychczasowe.
+- **2)** nabycia wierzytelności z tytułu nieobsługiwanej umowy o kredyt które nastąpiło przed dniem wejścia w życie ustawy, stosuje się przepisy dotychczasowe.
 
-2. Do obsługi praw kredytodawcy wynikających z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt, o których mowa ust. 1, stosuje się przepisy dotychczasowe. przez Komisję wniosku o udzielenie zezwolenia, pod warunkiem złożenia wniosku o jego udzielenie terminie 60 dni od dnia wejścia życie ustawy.
+2. Do obsługi praw kredytodawcy wynikających z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt, o których mowa w ust. 1, stosuje się przepisy dotychczasowe.
 
-2. Nabywca kredytu, który nie prowadzi działalności zakresie obsługi kredytów, lub przedstawiciel, obowiązani zgodnie z art. 20 do wyznaczenia banku krajowego, oddziału instytucji kredytowej albo podmiotu obsługującego kredyty, mogą zawrzeć umowę o obsługę kredytów z podmiotem, który może, zgodnie z ust. 1, prowadzić taką działalność na podstawie przepisów dotychczasowych do czasu rozpatrzenia wniosku o udzielenie zezwolenia.
+**Art. 72.**
 
-**Art. 73.** Przepisów art. 39a ustawy zmienianej art. 60 nie stosuje się do:
+1. Podmiot prowadzący na terytorium Rzeczypospolitej Polskiej w dniu wejścia w życie ustawy działalność w zakresie obsługi kredytów może prowadzić taką działalność na podstawie przepisów dotychczasowych do czasu rozpatrzenia przez Komisję wniosku o udzielenie zezwolenia, pod warunkiem złożenia wniosku o jego udzielenie w terminie 60 dni od dnia wejścia w życie ustawy.
 
-**Art. 74.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 20 ust. 12 ustawy zmienianej art. 64 zachowują moc do dnia wejścia życie nowych przepisów wykonawczych wydanych na podstawie art. 20 ust. 12 ustawy zmienianej art. 64, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia życie ustawy.
+2. Nabywca kredytu, który nie prowadzi działalności w zakresie obsługi kredytów, lub przedstawiciel, obowiązani zgodnie z art. 20 do wyznaczenia banku krajowego, oddziału instytucji kredytowej albo podmiotu obsługującego kredyty, mogą zawrzeć umowę o obsługę kredytów z podmiotem, który może, zgodnie z ust. 1, prowadzić taką działalność na podstawie przepisów dotychczasowych do czasu rozpatrzenia wniosku o udzielenie zezwolenia.
 
-**Art. 75.** Do przymusowych restrukturyzacji rozpoczętych i niezakończonych przed dniem wejścia życie art. 67 stosuje się przepisy art. 121a, art. 193 ust. 4 i art. 228 ust. 3 ustawy zmienianej art. 67.
+**Art. 73.** Przepisów art. 39a ustawy zmienianej w art. 60 nie stosuje się do:
 
-**Art. 76.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+- **1)** wierzytelności pieniężnych wynikających z tytułu udzielonych przez spółdzielczą kasę oszczędnościowo-kredytową lub Krajową Spółdzielczą Kasę Oszczędnościowo-Kredytową pożyczek i kredytów nabytych przed dniem wejścia w życie ustawy;
+- **2)** udziałów w podmiotach nabywających wierzytelności pieniężne wynikające z tytułu udzielonych przez spółdzielczą kasę oszczędnościowo-kredytową lub Krajową Spółdzielczą Kasę Oszczędnościowo-Kredytową pożyczek i kredytów lub instrumentów finansowych w rozumieniu art. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722 i 1863 oraz z 2025 r. poz. 146), wyemitowanych lub wystawionych przez podmioty, o których mowa w art. 39a ust. 1 ustawy zmienianej w art. 60, objętych lub nabytych przed dniem wejścia w życie ustawy;
+- **3)** pożyczek i kredytów udzielonych przed dniem wejścia w życie ustawy podmiotom, o których mowa w art. 39a ust. 1 ustawy zmienianej w art. 60.
+
+**Art. 74.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 20 ust. 12 ustawy zmienianej w art. 64 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 20 ust. 12 ustawy zmienianej w art. 64, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie ustawy.
+
+**Art. 75.** Do przymusowych restrukturyzacji rozpoczętych i niezakończonych przed dniem wejścia w życie art. 67 stosuje się przepisy art. 121a, art. 193 ust. 4 i art. 228 ust. 3 ustawy zmienianej w art. 67.
+
+**Art. 76.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 65, art. 67 i art. 75, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 61 pkt 2 i art. 68, które wchodzą w życie po upływie 2 miesięcy od dnia ogłoszenia.
+
 

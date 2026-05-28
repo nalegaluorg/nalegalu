@@ -8,10 +8,10 @@ pos: 532
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# zmianie ustaw Kodeks rodzinny i opiekuńczy, Kodeks cywilny, Kodeks postępowania cywilnego niektórych innych ustaw 1 W ustawie dnia 25 lutego 1964 - Kodeks rodzinny i opiekuńczy (Dz.U. 9, 59, 1975 45, 234, 1986 36, 180, 1990 34, 198, 1995 83, 417 i 1998 117, 757) wprowadza następujące zmiany:
+# Ustawa z dnia 21 maja 1999 r. o zmianie ustaw Kodeks rodzinny i opiekuńczy, Kodeks cywilny, Kodeks postępowania cywilnego oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -22,52 +22,151 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1999-05-21 |
 | Data wydania | 1999-06-15 |
+| Wejście w życie | 1999-12-16 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990520532) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/532/text.pdf) |
 
-1) 2 wyrazy „artykułów poprzedzających” zastępuje wyrazami „artykułu poprzedzającego”;
-2) 10:
-a) § 2 otrzymuje brzmienie: „§2. Unieważnienia małżeństwa zawartego przez mężczyznę, który ukończył lat osiemnastu, przez kobietę, która ukończyła lat szesnastu albo bez zezwolenia sądu zawarła małżeństwo po ukończeniu lat szesnastu, lecz przed ukończeniem lat osiemnastu, może żądać każdy małżonków.”,
-b) dodaje § 4 brzmieniu: „§4. Jeżeli kobieta zaszła ciążę, jej mąż może żądać unieważnienia małżeństwa powodu braku przepisanego wieku.”;
-3) po dziale IV tytułu I dodaje dział V brzmieniu: „Dział V. Separacja 61 §1. Jeżeli między małżonkami nastąpił zupełny rozkład pożycia, każdy małżonków może żądać, ażeby sąd orzekł separację.
-§2. Jednakże mimo zupełnego rozkładu pożycia orzeczenie dopuszczalne, jeżeli wskutek niej miałoby ucierpieć dobro wspólnych małoletnich dzieci małżonków albo jeżeli innych względów orzeczenie byłoby sprzeczne zasadami współżycia społecznego.
-§3. Jeżeli małżonkowie mają wspólnych małoletnich dzieci, sąd może orzec separację na podstawie zgodnego żądania małżonków.
-61 §1. Jeżeli jeden małżonków żąda orzeczenia separacji, a drugi orze§2. Małżonek pozostający może zawrzeć małżeństwa.
-§3. Jeżeli wymagają tego względy słuszności, małżonkowie pozostający obowiązani są do wzajemnej pomocy.
-§4. Do obowiązku dostarczania środków utrzymania przez jednego małżonków pozostających drugiemu, stosuje odpowiednio przepisy 60, wyjątkiem § 3.
-§5. Przepisu 59 stosuje się.
-61 Orzeczenie powoduje powstanie między małżonkami rozdzielności majątkowej.
-61 §1. Na zgodne żądanie małżonków sąd orzeka zniesieniu separacji.
-§2. Z chwilą zniesienia ustają jej skutki.
-§3. Znosząc separację, sąd rozstrzyga władzy rodzicielskiej nad wspólnym małoletnim dzieckiem obojga małżonków. Na zgodny wniosek małżonków sąd orzeka utrzymaniu między małżonkami rozdzielności majątkowej.”;
-4) 62 § 1 dodaje zdanie drugie brzmieniu: „Domniemania tego stosuje się, jeżeli dziecko urodziło po upływie trzystu dni od orzeczenia separacji.”;
-5) 130 po wyrazach „lub unieważnieniu małżeństwa” dodaje wyrazy „albo po orzeczeniu separacji”.
-2 W ustawie dnia 23 kwietnia 1964 - Kodeks cywilny (Dz.U. 16, 93, 1971 27, 252, 1976 19, 122, 1982 11, 81, 19, 147 i 30, 210, 1984 45, 242, 1985 22, 99, 1989 3, 11, 1990 34, 198, 55, 321 i 79, 464, 1991 107, 464 i 115, 496, 1993 17, 78, 1994 27, 96, 85, 388 i 105, 509, 1995 83, 417, 1996 114, 542, 139, 646 i 149, 703, 1997 43, 272, 115, 741, 117, 751 i 157, 1040 1998 106, 668 i 117,
-758) wprowadza następujące zmiany:
-1) dodaje 935 brzmieniu: „Art. 935 Przepisów powołaniu do dziedziczenia ustawy stosuje do małżonka spadkodawcy pozostającego separacji.”;
-33, 1984 45, 241 i 242, 1985 20, 86, 1987 21, 123, 1988 41, 324, 1989 4, 21 i 33, 175, 1990 14, 88, 34, 198, 53, 306, 55, 318 i 79, 464, 1991 7, 24, 22, 92 i 115, 496, 1993 12, 53, 1994 105, 509, 1995 83, 417, 1996 24, 110, 43, 189, 73, 350 i 149, 703, 1997 43, 270, 54, 348, 75, 471, 102, 643, 117, 752, 121, 769 i 770, 133, 882, 139, 934, 140, 940 i 141, 944 1998 106, 668 i 117, 757) wprowadza następujące zmiany:
-1) 425 po wyrazie „rozwód” dodaje wyrazy „oraz separację na żądanie jednego małżonków”;
-2) 432 zdaniu pierwszym po wyrazach „sprawie rozwód” dodaje wyrazy „lub separację”;
-3) tytuł rozdziału 2 działu I tytułu VII księgi pierwszej części pierwszej otrzymuje brzmienie: „Rozdział 2. Sprawy rozwód i separację.”;
-4) 439 otrzymuje brzmienie: „Art. 439. §1. Powództwo wzajemne rozwód lub separację niedopuszczalne.
-§2. W czasie trwania procesu rozwód lub separację może być wszczęta odrębna sprawa rozwód albo separację.
-§3. Strona pozwana sprawie rozwód może jednak również żądać rozwodu albo separacji. Strona pozwana sprawie separację może również żądać albo rozwodu.”;
-5) 443 § 3 zdaniu pierwszym po wyrazach „sprawy rozwód” dodaje wyrazy „lub separację”;
-6) 444 zdaniu pierwszym kropkę zastępuje przecinkiem i dodaje wyrazy „jak również na wypadek orzeczenia separacji.”;
-7) 445 dodaje § 4 brzmieniu: „§4. W sprawach separację przepisy paragrafów poprzedzających stosuje odpowiednio.”;
-8) po 567 dodaje 567 -567 brzmieniu: „Art. 567 W sprawach separację na zgodny wniosek małżonków, a także sprawach zniesienie właściwe rzeczowo są sądy okręgowe. W sprawach tych miejscowo właściwym sąd, którego §2. W razie śmierci jednego małżonków postępowanie umarza się.
-567 §1. Postanowienie sąd wydaje po przeprowadzeniu rozprawy.
-§2. W toku postępowania sąd nakłania małżonków do pojednania. Jeżeli pojednanie nastąpi, a odroczenie rozprawy byłoby celowe, sąd przystępuje do rozpoznania sprawy.
-567 Postanowienie zniesieniu sąd wydaje po przeprowadzeniu rozprawy.
-567 Z chwilą wszczęcia postępowania zniesienie zawiesza urzędu postępowanie sprawie eksmisję jednego małżonków pozostających ze wspólnego mieszkania, jak również postępowanie sprawie korzystanie przez małżonków pozostających ze wspólnego mieszkania. Z chwilą uprawomocnienia orzeczenia zniesieniu postępowaumarza urzędu.”;
-9) 824 dodaje § 3 brzmieniu: „§3. Z chwilą uprawomocnienia orzeczenia zniesieniu dopuszczalne wszczęcie postępowania egzekucyjnego na podstawie tytułu egzekucyjnego wydanego sprawach, których mowa 567 , rozstrzygającego zaspokojeniu potrzeb rodziny, świadczeniach alimentacyjnych małżonka pozostającego względem drugiego małżonka lub względem wspólnego małoletniego dziecka małżonków co do świadczeń za okres po zniesieniu separacji. Wszczęte tych sprawach postępowanie egzekucyjne umarza urzędu.”.
-4 W ustawie dnia 12 listopada 1965 - Prawo prywatne międzynarodowe (Dz.U.
-46, 290 1995 83, 417) 18 zdanie pierwsze otrzymuje brzmienie: „Dla rozwodu lub właściwe wspólne prawo ojczyste małżonków chwili wystąpienia żądaniem rozwodu lub separacji.”.
-W ustawie dnia 13 lutego 1984 funkcjach konsulów Polskiej Rzeczypospolitej Ludowej (Dz.U. 9, 34, 1997 114, 739 i 1998 117,
-757) wprowadza następujące zmiany: 6 W ustawie dnia 29 września 1986 - Prawo aktach stanu cywilnego (Dz. U.
-36, 180, 1988 19, 132, 1989 29, 154, 1990 34, 198, 1995 83, 417 i 1998 117, 757) wprowadza następujące zmiany:
-1) tytuł rozdziału 6 otrzymuje brzmienie: „Rozdział 6. Zawieranie małżeństw i akt małżeństwa”;
-2) 62 dodaje ust. brzmieniu: „5. Prawomocne orzeczenie rozwodzie, unieważnieniu małżeństwa, separacji i zniesieniu stanowi podstawę wpisania wzmianki dodatkowej do aktu małżeństwa.”;
-3) 82 pkt 2 wyrazy „ , rozwodu lub unieważnienia małżeństwa - adnotację ustaniu lub unieważnieniu małżeństwa wraz oznaczeniem aktu zgonu lub sygnatury akt sprawy, której orzeczono rozwodzie lub unieważnieniu małżeństwa,” zastępuje wyrazami „albo rozwodu, zostało unieważnione, orzeczona została separacja jej zniesienie - adnotację ustaniu małżeństwa, jego unieważnieniu, zniesieniu separacji, wraz oznaczeniem aktu zgonu lub sygnatury akt sprawy, której orzeczono rozwodzie, unieważnieniu małżeństwa, zniesieniu separacji, ”.
-7 Ustawa wchodzi życie po upływie 6 miesięcy od dnia ogłoszenia.
+4)
+art. 439 otrzymuje brzmienie:
+„
+2)
+w art. 62 dodaje się ust. 5 w brzmieniu:
+„
+5.
+Prawomocne orzeczenie o rozwodzie, unieważnieniu małżeństwa, o separacji i o zniesieniu separacji stanowi podstawę wpisania wzmianki dodatkowej do aktu małżeństwa.
+” ;
+3)
+w art. 82 w pkt 2 wyrazy „, rozwodu lub unieważnienia małżeństwa – adnotację o ustaniu lub unieważnieniu małżeństwa wraz z oznaczeniem aktu zgonu lub sygnatury akt sprawy, w której orzeczono o rozwodzie lub unieważnieniu małżeństwa,” zastępuje się wyrazami „albo rozwodu, zostało unieważnione, orzeczona została separacja oraz jej zniesienie – adnotację o ustaniu małżeństwa, jego unieważnieniu, o separacji oraz o zniesieniu separacji, wraz z oznaczeniem aktu zgonu lub sygnatury akt sprawy, w której orzeczono o rozwodzie, unieważnieniu małżeństwa, o separacji oraz o zniesieniu separacji,”.
+
+**Art. 1.** W ustawie z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. Nr 9, poz. 59, z 1975 r. Nr 45, poz. 234, z 1986 r. Nr 36, poz. 180, z 1990 r. Nr 34, poz. 198, z 1995 r. Nr 83, poz. 417 i z 1998 r. Nr 117, poz. 757) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 wyrazy „artykułów poprzedzających” zastępuje się wyrazami „artykułu poprzedzającego”;
+- **2)** w art. 10: § 2 otrzymuje brzmienie: „
+    - **a)**
+
+§ 2. Unieważnienia małżeństwa zawartego przez mężczyznę, który nie ukończył lat osiemnastu, oraz przez kobietę, która nie ukończyła lat szesnastu albo bez zezwolenia sądu zawarła małżeństwo po ukończeniu lat szesnastu, lecz przed ukończeniem lat osiemnastu, może żądać każdy z małżonków. ” , dodaje się § 4 w brzmieniu: „
+
+- **b)**
+
+§ 4. Jeżeli kobieta zaszła w ciążę, jej mąż nie może żądać unieważnienia małżeństwa z powodu braku przepisanego wieku. ” ;
+
+- **3)** po dziale IV tytułu I dodaje się dział V w brzmieniu: „
+
+### Dział V. Separacja
+
+**Art. 611.**
+
+§ 1. Jeżeli między małżonkami nastąpił zupełny rozkład pożycia, każdy z małżonków może żądać, ażeby sąd orzekł separację.
+
+§ 2. Jednakże mimo zupełnego rozkładu pożycia orzeczenie separacji nie jest dopuszczalne, jeżeli wskutek niej miałoby ucierpieć dobro wspólnych małoletnich dzieci małżonków albo jeżeli z innych względów orzeczenie separacji byłoby sprzeczne z zasadami współżycia społecznego.
+
+§ 3. Jeżeli małżonkowie nie mają wspólnych małoletnich dzieci, sąd może orzec separację na podstawie zgodnego żądania małżonków.
+
+**Art. 612.**
+
+§ 1. Jeżeli jeden z małżonków żąda orzeczenia separacji, a drugi orzeczenia rozwodu i żądanie to jest uzasadnione, sąd orzeka rozwód.
+
+§ 2. Jeżeli jednak orzeczenie rozwodu nie jest dopuszczalne, a żądanie orzeczenia separacji jest uzasadnione, sąd orzeka separację.
+
+**Art. 613.**
+
+§ 1. Przy orzekaniu separacji stosuje się przepisy art. 57 i art. 58.
+
+§ 2. Orzekając separację na podstawie zgodnego żądania małżonków, sąd nie orzeka o winie rozkładu pożycia. W tym wypadku następują skutki takie, jak gdyby żaden z małżonków nie ponosił winy.
+
+**Art. 614.**
+
+§ 1. Orzeczenie separacji ma skutki takie jak rozwiązanie małżeństwa przez rozwód, chyba że ustawa stanowi inaczej.
+
+§ 2. Małżonek pozostający w separacji nie może zawrzeć małżeństwa.
+
+§ 3. Jeżeli wymagają tego względy słuszności, małżonkowie pozostający w separacji obowiązani są do wzajemnej pomocy.
+
+§ 4. Do obowiązku dostarczania środków utrzymania przez jednego z małżonków pozostających w separacji drugiemu stosuje się odpowiednio przepisy art. 60, z wyjątkiem § 3.
+
+§ 5. Przepisu art. 59 nie stosuje się.
+
+**Art. 615.** Orzeczenie separacji powoduje powstanie między małżonkami rozdzielności majątkowej.
+
+**Art. 616.**
+
+§ 1. Na zgodne żądanie małżonków sąd orzeka o zniesieniu separacji.
+
+§ 2. Z chwilą zniesienia separacji ustają jej skutki.
+
+§ 3. Znosząc separację, sąd rozstrzyga o władzy rodzicielskiej nad wspólnym małoletnim dzieckiem obojga małżonków. Na zgodny wniosek małżonków sąd orzeka o utrzymaniu między małżonkami rozdzielności majątkowej. ” ;
+
+- **4)** w art. 62 w § 1 dodaje się zdanie drugie w brzmieniu: „ Domniemania tego nie stosuje się, jeżeli dziecko urodziło się po upływie trzystu dni od orzeczenia separacji. ” ;
+- **5)** w art. 130 po wyrazach „lub unieważnieniu małżeństwa” dodaje się wyrazy „albo po orzeczeniu separacji”.
+
+**Art. 2.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040 oraz z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758) wprowadza się następujące zmiany:
+
+- **1)** dodaje się art. 9351 w brzmieniu: „
+
+**Art. 9351.** Przepisów o powołaniu do dziedziczenia z ustawy nie stosuje się do małżonka spadkodawcy pozostającego w separacji. ” ;
+
+- **2)** w art. 940 § 1 otrzymuje brzmienie: „
+
+§ 1. Małżonek jest wyłączony od dziedziczenia, jeżeli spadkodawca wystąpił o orzeczenie rozwodu lub separacji z jego winy, a żądanie to było uzasadnione. ”
+
+**Art. 3.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944 oraz z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757) wprowadza się następujące zmiany:
+
+- **1)** w art. 425 po wyrazie „rozwód” dodaje się wyrazy „oraz o separację na żądanie jednego z małżonków”;
+- **2)** w art. 432 w zdaniu pierwszym po wyrazach „sprawie o rozwód” dodaje się wyrazy „lub o separację”;
+- **3)** tytuł rozdziału 2 działu I tytułu VII księgi pierwszej części pierwszej otrzymuje brzmienie: „
+
+#### Rozdział 2. Sprawy o rozwód i o separację”;
+
+**Art. 439.**
+
+§ 1. Powództwo wzajemne o rozwód lub o separację jest niedopuszczalne.
+
+§ 2. W czasie trwania procesu o rozwód lub o separację nie może być wszczęta odrębna sprawa o rozwód albo o separację.
+
+§ 3. Strona pozwana w sprawie o rozwód może jednak również żądać rozwodu albo separacji. Strona pozwana w sprawie o separację może również żądać separacji albo rozwodu. ” ;
+
+- **5)** w art. 443 w § 3 w zdaniu pierwszym po wyrazach „sprawy o rozwód” dodaje się wyrazy „lub o separację”;
+- **6)** w art. 444 w zdaniu pierwszym kropkę zastępuje się przecinkiem i dodaje się wyrazy „jak również na wypadek orzeczenia separacji.”;
+- **7)** w art. 445 dodaje się § 4 w brzmieniu: „
+
+§ 4. W sprawach o separację przepisy paragrafów poprzedzających stosuje się odpowiednio. ” ;
+
+- **8)** po art. 567 dodaje się art. 5671–5675 w brzmieniu: „
+
+**Art. 5671.** W sprawach o separację na zgodny wniosek małżonków, a także w sprawach o zniesienie separacji właściwe rzeczowo są sądy okręgowe. W sprawach tych miejscowo właściwym jest sąd, w którego okręgu małżonkowie mają wspólne zamieszkanie, a w braku takiej podstawy – sąd miejsca ich wspólnego pobytu. Jeżeli małżonkowie nie mają wspólnego miejsca zamieszkania ani pobytu, wniosek należy zgłosić w sądzie właściwym dla jednego z małżonków, zgodnie z art. 508.
+
+**Art. 5672.**
+
+§ 1. W sprawie o separację na zgodny wniosek małżonków oraz w sprawie o zniesienie separacji w razie cofnięcia wniosku albo wyrażenia w inny sposób braku zgody na orzeczenie separacji lub na zniesienie separacji przez któregokolwiek z małżonków postępowanie umarza się. Przepisu art. 512 § 1 nie stosuje się.
+
+§ 2. W razie śmierci jednego z małżonków postępowanie umarza się.
+
+**Art. 5673.**
+
+§ 1. Postanowienie o separacji sąd wydaje po przeprowadzeniu rozprawy.
+
+§ 2. W toku postępowania sąd nakłania małżonków do pojednania. Jeżeli pojednanie nie nastąpi, a odroczenie rozprawy nie byłoby celowe, sąd przystępuje do rozpoznania sprawy.
+
+**Art. 5674.** Postanowienie o zniesieniu separacji sąd wydaje po przeprowadzeniu rozprawy.
+
+**Art. 5675.** Z chwilą wszczęcia postępowania o zniesienie separacji zawiesza się z urzędu postępowanie w sprawie o eksmisję jednego z małżonków pozostających w separacji ze wspólnego mieszkania, jak również postępowanie w sprawie o korzystanie przez małżonków pozostających w separacji ze wspólnego mieszkania. Z chwilą uprawomocnienia się orzeczenia o zniesieniu separacji postępowanie umarza się z urzędu. ” ;
+
+- **9)** w art. 824 dodaje się § 3 w brzmieniu: „
+
+§ 3. Z chwilą uprawomocnienia się orzeczenia o zniesieniu separacji nie jest dopuszczalne wszczęcie postępowania egzekucyjnego na podstawie tytułu egzekucyjnego wydanego w sprawach, o których mowa w art. 5675, oraz rozstrzygającego o zaspokojeniu potrzeb rodziny, o świadczeniach alimentacyjnych małżonka pozostającego w separacji względem drugiego małżonka lub względem wspólnego małoletniego dziecka małżonków co do świadczeń za okres po zniesieniu separacji. Wszczęte w tych sprawach postępowanie egzekucyjne umarza się z urzędu. ”
+
+**Art. 4.** W ustawie z dnia 12 listopada 1965 r. – Prawo prywatne międzynarodowe (Dz. U. Nr 46, poz. 290 i z 1995 r. Nr 83, poz. 417) w art. 18 zdanie pierwsze otrzymuje brzmienie: „ Dla rozwodu lub separacji właściwe jest wspólne prawo ojczyste małżonków z chwili wystąpienia z żądaniem rozwodu lub separacji. ”
+
+**Art. 5.** W ustawie z dnia 13 lutego 1984 r. o funkcjach konsulów Polskiej Rzeczypospolitej Ludowej (Dz. U. Nr 9, poz. 34, z 1997 r. Nr 114, poz. 739 i z 1998 r. Nr 117, poz. 757) wprowadza się następujące zmiany:
+
+- **1)** użyte w tytule ustawy, w art. 6, w art. 10 w pkt 1–3, 5 i 6, w art. 14, w art. 18 w ust. 1, w art. 19 w ust. 2, 3 i 5, w art. 20 w ust. 3, w art. 21, w art. 26 w ust. 1 w pkt 3 i 4, w art. 27 w ust. 1, w art. 28 w ust. 1 w pkt 9 i w art. 30 w ust. 1 w różnych przypadkach wyrazy „Polska Rzeczpospolita Ludowa” zastępuje się użytymi w odpowiednich przypadkach wyrazami „Rzeczpospolita Polska”;
+- **2)** w art. 26 w ust. 1 w pkt 1 po wyrazach „związek małżeński” dodaje się wyrazy „oraz o nazwisku małżonków i ich dzieci”.
+
+**Art. 6.** W ustawie z dnia 29 września 1986 r. – Prawo o aktach stanu cywilnego (Dz. U. Nr 36, poz. 180, z 1988 r. Nr 19, poz. 132, z 1989 r. Nr 29, poz. 154, z 1990 r. Nr 34, poz. 198, z 1995 r. Nr 83, poz. 417 i z 1998 r. Nr 117, poz. 757) wprowadza się następujące zmiany:
+
+- **1)** tytuł rozdziału 6 otrzymuje brzmienie: „
+
+#### Rozdział 6. Zawieranie małżeństw i akt małżeństwa”;
+
+**Art. 7.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
 

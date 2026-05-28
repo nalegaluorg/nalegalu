@@ -8,12 +8,10 @@ pos: 144
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o czasie urzędowym na obszarze Rzeczypospolitej Polskiej
-
-*USTAWA z dnia 10 grudnia 2003 r.*
+# Ustawa z dnia 10 grudnia 2003 r. o czasie urzędowym na obszarze Rzeczypospolitej Polskiej
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2003-12-10 |
 | Data wydania | 2004-02-04 |
+| Wejście w życie | 2004-02-19 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040160144) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/144/text.pdf) |
 

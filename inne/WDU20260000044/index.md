@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 stycznia 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 stycznia 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-01-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000044) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/44/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 stycznia 2026 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej (Dz. U. z 2024 r. poz. 1534), z uwzględnieniem zmian wprowadzonych ustawą z dnia 5 sierpnia 2025 r.
 o zmianie ustawy o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej (Dz. U.
 poz. 1166) oraz zmian wynikających z przepisów ogłoszonych przed dniem 8 stycznia 2026 r.
@@ -453,6 +453,13 @@ Art. 21–24. (pominięte)
 
 **Art. 13.** Minister Sprawiedliwości określi, w drodze rozporządzenia:
 
+- **1)** sposób udzielania nieodpłatnej pomocy prawnej i świadczenia nieodpłatnego poradnictwa obywatelskiego, w tym wymogi dotyczące lokalu, w którym będzie usytuowany punkt,
+- **2)** wzór karty informacyjnej poradnictwa, o której mowa w art. 5 ust. 5,
+- **3)** wzór karty pomocy,
+- **4)** sposób gromadzenia i przekazywania opinii osób uprawnionych o udzielonej pomocy,
+- **5)** sposób dokonywania oceny, o której mowa w art. 11d ust. 11,
+- **6)** zakres i sposób przekazywania informacji, o której mowa w art. 12 ust. 1 uwzględniając konieczność zapewnienia łatwego dostępu osób uprawnionych, w tym osób niepełnosprawnych, do nieodpłatnej pomocy prawnej i nieodpłatnego poradnictwa obywatelskiego, szerokiej informacji o dostępnych formach poradnictwa, konieczność zachowania poufności przy udzielaniu nieodpłatnej pomocy prawnej i świadczeniu nieodpłatnego poradnictwa obywatelskiego, konieczność zapewnienia kompletności informacji o wykonaniu zadania oraz możliwość wykazania problemów prawnych i społecznych, których dotyczą udzielana nieodpłatna pomoc prawna i świadczone nieodpłatne poradnictwo obywatelskie, konieczność zapewnienia odpowiednich standardów obsługi osób uprawnionych oraz odpowiednich standardów jakości, a także potrzebę sformułowania wniosków dotyczących efektywności i usprawniania systemu nieodpłatnej pomocy prawnej i nieodpłatnego poradnictwa obywatelskiego.
+
 #### Rozdział 3 Zadania z zakresu edukacji prawnej
 
 **Art. 14.** Organy administracji publicznej, realizując pozostające w ich właściwości zadania z zakresu edukacji prawnej, podejmują działania, o których mowa w art. 3b.
@@ -585,4 +592,12 @@ Art. 21–24. (pominięte)
 **Art. 28a.** (uchylony)
 
 **Art. 29.** Ustawa wchodzi w życie z dniem 1 stycznia 2016 r., z wyjątkiem art. 6, art. 8–11, art. 17, art. 18 i art. 20–28, które wchodzą w życie z dniem 31 sierpnia 2015 r. WZÓR Oświadczenie, o którym mowa w art. 4 ust. 2 ustawy z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej (Dz. U. z 2026 r. poz. 44) Ja, niżej podpisany(-na), (imię, nazwisko, adres) ................................................................................................................................ ................................................................................................................................ ..............................................................................................................................., PESEL ................................................., oświadczam, że:
+
+- **1)** nie jestem w stanie ponieść kosztów odpłatnej pomocy prawnej,
+- **2)** w ciągu ostatniego roku, nie zatrudniałem(-am) innych osób . ........................................................................... WZÓR Oświadczenie osoby uprawnionej, o którym mowa w art. 11 ust. 4 ustawy z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej (Dz. U. z 2026 r. poz. 44) Ja, niżej podpisany(-na), (imię, nazwisko, adres) ......................................................................................................................., PESEL .........................................................................., przyjmuję do wiadomości, że nieodpłatna pomoc prawna udzielana jest przez osobę, która:
+- **1)** ukończyła wyższe studia prawnicze i uzyskała tytuł magistra lub zagraniczne studia prawnicze uznane w Rzeczypospolitej Polskiej,
+- **2)** posiada co najmniej trzyletnie doświadczenie w wykonywaniu wymagających wiedzy prawniczej czynności bezpośrednio związanych ze świadczeniem pomocy prawnej,
+- **3)** korzysta z pełni praw publicznych oraz ma pełną zdolność do czynności prawnych,
+- **4)** nie była karana za umyślne przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe, a nie przez adwokata, radcę prawnego albo doradcę podatkowego. Oświadczam, że zostałem(-łam) poinformowany(-na), że jakakolwiek odpowiedzialność odszkodowawcza osoby udzielającej mi nieodpłatnej pomocy prawnej jest wyłączona, z wyjątkiem przypadku wyrządzenia szkody z winy umyślnej. Przyjmuję do wiadomości, że osoba udzielająca mi nieodpłatnej pomocy prawnej nie jest obowiązana do zachowania tajemnicy, w rozumieniu art. 180 § 2 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, 304, 1178, 1420 i 1872). Oświadczam, że zostałem(-łam) poinformowany(-na), że złożenie powyższego oświadczenia jest dobrowolne. Zapoznałem(-łam) się z treścią powyższego oświadczenia i wyrażam zgodę na udzielenie mi nieodpłatnej pomocy prawnej zgodnie z powyższymi warunkami. ...................................................................................
+
 

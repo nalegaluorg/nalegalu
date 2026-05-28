@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o systemie instytucji rozwoju
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 19 grudnia 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 stycznia 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +22,11 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2026-12-19 |
 | Data wydania | 2026-01-07 |
-| Ostatnia zmiana | 2026-05-12 |
+| Ostatnia zmiana | 2026-05-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000009) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/9/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 19 grudnia 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o systemie instytucji rozwoju
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 4 lipca 2019 r. o systemie instytucji rozwoju (Dz. U. z 2024 r. poz. 923), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 6 marca 2025 r. o zmianie ustawy o systemie instytucji rozwoju (Dz. U. poz. 352),
 2) ustawą z dnia 21 maja 2025 r. o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (Dz. U. poz. 769),
@@ -45,6 +45,10 @@ Art. 22–32. (pominięte)
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
+
+- **1)** zasady funkcjonowania systemu instytucji rozwoju i tryb współpracy między instytucjami tworzącymi system instytucji rozwoju;
+- **2)** rolę Polskiego Funduszu Rozwoju Spółki Akcyjnej z siedzibą w Warszawie, zwanego dalej „Polskim Funduszem Rozwoju”, w systemie instytucji rozwoju;
+- **3)** warunki finansowania przedsiębiorców przez Polski Fundusz Rozwoju.
 
 **Art. 2.**
 
@@ -281,6 +285,11 @@ Art. 22–32. (pominięte)
 3. Polski Fundusz Rozwoju może tworzyć i współtworzyć fundusze kapitałowe oraz przystępować do funduszy kapitałowych.
 
 **Art. 14.** Polski Fundusz Rozwoju udziela finansowania za pośrednictwem funduszy kapitałowych w formie:
+
+- **1)** obejmowania lub nabywania udziałów lub akcji funduszy kapitałowych;
+- **2)** uczestnictwa w funduszach kapitałowych działających w formie spółek komandytowych, komandytowo-akcyjnych lub innych jednostek organizacyjnych nieposiadających osobowości prawnej oraz instytucji wspólnego inwestowania mających siedzibę za granicą w rozumieniu przepisów ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi;
+- **3)** nabywania certyfikatów inwestycyjnych lub jednostek uczestnictwa funduszy kapitałowych;
+- **4)** nabywania emitowanych przez fundusze kapitałowe obligacji, obligacji zamiennych na akcje, obligacji z prawem pierwszeństwa i warrantów subskrypcyjnych.
 
 **Art. 15.**
 
@@ -664,6 +673,9 @@ Art. 22–32. (pominięte)
 **Art. 36.** Tworzy się Radę.
 
 **Art. 37.** W terminie 6 miesięcy od dnia wejścia w życie ustawy:
+
+- **1)** przewodniczący Rady zwołuje pierwsze posiedzenie Rady;
+- **2)** Rada podejmuje uchwałę w sprawie projektu pierwszej Strategii, która obejmuje okres do zakończenia 5 pełnych lat kalendarzowych następujących po dniu jej przyjęcia.
 
 **Art. 38.**
 

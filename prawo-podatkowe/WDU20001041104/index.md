@@ -8,12 +8,10 @@ pos: 1104
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy o podatku dochodowym od osób fizycznych oraz o zmianie niektórych innych ustaw
-
-*USTAWA z dnia 9 listopada 2000 r.*
+# Ustawa z dnia 9 listopada 2000 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz o zmianie niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,707 +22,1637 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2000-11-09 |
 | Data wydania | 2000-11-29 |
+| Wejście w życie | 2001-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001041104) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/1104/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz.U. z 2000 r. Nr 14, poz. 176, Nr 22, poz. 270, Nr 60 poz. 703 i Nr 70, poz. 816) wprowadza się następujące zmiany:
-
-**Art. 22b.**
-
-1. Amortyzacji podlegają, z zastrzeżeniem art. 22c, nabyte nadające się do gospodarczego wykorzystania w dniu przyjęcia do używania:
-
-- **1)** spółdzielcze własnościowe prawo do lokalu mieszkalnego,
-- **2)** spółdzielcze prawo do lokalu użytkowego,
-- **3)** prawo do domu jednorodzinnego w spółdzielni mieszkaniowej,
-- **4)** autorskie lub pokrewne prawa majątkowe,
-- **5)** licencje,
-- **6)** prawa do: wynalazków, patentów, znaków towarowych, wzorów użytkowych, wzorów zdobniczych,
-- **7)** wartość stanowiąca równowartość uzyskanych informacji związanych z wiedzą w dziedzinie przemysłowej, handlowej, naukowej lub organizacyjnej (know-how) – o przewidywanym okresie używania dłuższym niż rok, wykorzystywane przez podatnika na potrzeby związane z prowadzoną przez niego działalnością gospodarczą albo oddane przez niego do używania na podstawie umowy licencyjnej (sublicencji), umowy najmu, dzierżawy lub innej umowy o podobnym charakterze, zwane wartościami niematerialnymi i prawnymi.
-
-2. Amortyzacji podlegają również, z zastrzeżeniem art. 22c, niezależnie od przewidywanego okresu używania:
-
-- **1)** wartość firmy, jeżeli wartość ta powstała w wyniku nabycia przedsiębiorstwa lub jego zorganizowanej części w drodze:
-    - **a)** kupna,
-    - **b)** przyjęcia do odpłatnego korzystania, a przyjęte składniki majątku, zgodnie z przepisami wydanymi na podstawie art. 14 ust. 5, są zaliczane do składników majątku używającego,
-
-- **2)** koszty prac rozwojowych zakończonych wynikiem pozytywnym, który może być wykorzystany na potrzeby działalności gospodarczej podatnika, jeżeli:
-    - **a)** produkt lub technologia wytwarzania są ściśle ustalone, a dotyczące ich koszty prac rozwojowych wiarygodnie określone, oraz
-    - **b)** techniczna przydatność produktu lub technologii została przez podatnika odpowiednio udokumentowana i na tej podstawie podatnik podjął decyzję o wytwarzaniu tych produktów lub stosowaniu technologii, oraz
-    - **c)** z dokumentacji dotyczącej prac rozwojowych wynika, że koszty prac rozwojowych zostaną pokryte spodziewanymi przychodami ze sprzedaży tych produktów lub zastosowania technologii, datnika na podstawie umowy dzierżawy, umowy najmu, umowy licencyjnej (sublicencji) lub innej umowy o podobnym charakterze, zawartej z właścicielem lub współwłaścicielami albo uprawnionymi do korzystania z tych wartości jeżeli zgodnie z przepisami wydanymi na podstawie art. 14 ust. 5 są zaliczane do składników majątku podatnika – zwane także wartościami niematerialnymi i prawnymi.
-
-**Art. 22c.** Amortyzacji nie podlegają:
-
-**Art. 22d.**
-
-1. Podatnicy mogą nie dokonywać odpisów amortyzacyjnych od składników majątku, o których mowa w art. 22a i 22b, których wartość początkowa, określona zgodnie z art. 22g, nie przekracza 3 500 zł; wydatki poniesione na ich nabycie stanowią wówczas koszty uzyskania przychodów w miesiącu oddania ich do używania.
-
-2. Składniki majątku, o których mowa w art. 22a-22c, z wyłączeniem składników wymienionych w ust. 1, wprowadza się do ewidencji środków trwałych oraz wartości niematerialnych i prawnych zgodnie z art. 22n, najpóźniej w miesiącu przekazania ich do używania.
-
-**Art. 22e.**
-
-1. Jeżeli podatnicy nabędą lub wytworzą we własnym zakresie skł adniki majątku wymienione w art. 22a ust. 1 i art. 22b ust. 1, o wartości początkowej przekraczającej 3 500 zł, i ze względu na przewidywany przez nich okres używania równy lub krótszy niż rok nie zaliczą ich do środków trwałych albo wartości niematerialnych i prawnych, a faktyczny okres ich używania przekroczy rok - podatnicy są obowiązani, w pierwszym miesiącu następującym po miesiącu, w którym ten rok upłynął:
-
-- **1)** zaliczyć te składniki do środków trwałych albo wartości niematerialnych i prawnych, przyjmując je do ewidencji w cenie nabycia albo koszcie wytworzenia, ceną nabycia lub kosztem wytworzenia a kwotą odpisów amortyzacyjnych, przypadającą na okres ich dotychczasowego używania, obliczonych dla środków trwałych przy zastosowaniu stawek amortyzacyjnych określonych w Wykazie rocznych stawek amortyzacyjnych, stanowiącym załącznik nr 1 do ustawy, zwanym „Wykazem stawek amortyzacyjnych”, a dla wartości niematerialnych i prawnych przy zastosowaniu zasad określonych w art. 22m,
-- **3)** stosować stawki amortyzacji, o których mowa w pkt 2, w całym okresie dokonywania odpisów amortyzacyjnych,
-- **4)** wpłacić, w terminie do 20 dnia tego miesiąca, do właściwego urzędu skarbowego kwotę odsetek naliczonych od dnia zaliczenia do kosztów uzyskania przychodów wydatków na nabycie lub wytworzenie we własnym zakresie składników majątku do dnia, w którym okres ich używania przekroczył rok, i naliczoną kwotę odsetek wykazać w składanych deklaracjach lub zeznaniu, o których mowa w art. 44 ust. 6 i art. 45 ust. 1; odsetki obliczone od różnicy, o której mowa w pkt 2, wynoszą 0,1% za każdy dzień.
-
-2. Przepisy ust. 1 stosuje się odpowiednio w przypadku zaliczenia wydatków na nabycie lub wytworzenie we własnym zakresie składników majątku o wartości początkowej przekraczającej 3 500 zł do kosztów uzyskania przychodów, a następnie zaliczenia tych składników do środków trwałych lub wartości niematerialnych i prawnych przed upływem roku od dnia ich nabycia lub wytworzenia; w tym przypadku odsetki nalicza się do dnia zaliczenia ich do środków trwałych lub wartości niematerialnych i prawnych.
-
-3. Jeżeli różnica, o której mowa w ust. 1 pkt 2, jest wyższa od kosztów danego miesiąca, nierozliczona nadwyżka kosztów pomniejsza koszty w następnych miesiącach.
-
-**Art. 22f.**
-
-1. Podatnicy, z wyjątkiem tych, którzy ze względu na ogłoszoną upadłość nie prowadzą działalności gospodarczej, dokonują odpisów amortyzacyjnych od wartości początkowej środków trwałych oraz wartości niematerialnych i prawnych, o których mowa w art. 22a ust. 1 i ust. 2 pkt 1-3 oraz w art. 22b.
-
-2. Podatnicy będący armatorami, z wyją tkiem tych, którzy ze względu na ogłoszoną upadłość nie prowadzą działalności gospodarczej, mogą dokonywać odpisów amortyzacyjnych od zamówionego przez nich taboru transportu morskiego w budowie, o którym mowa w art. 22a ust. 2 pkt 4.
-
-3. Odpisów amortyzacyjnych dokonuje się zgodnie z art. 22h-22m, gdy wartość początkowa środka trwałego albo wartości niematerialnej i prawnej w dniu przyjęcia do używania jest wyższa niż 3 500 zł. W przypadku gdy wartość początkowa jest równa lub niższa niż 3 500 zł, podatnicy, z zastrzeżeniem art. 22d ust. 1, mogą dokonywać odpisów amortyzacyjnych zgodnie z art. 22h22m albo jednorazowo - w miesiącu oddania do używania tego miesiącu następnym.
-
-4. Jeżeli tylko część nieruchomości, w tym budynku mieszkalnego lub lokalu mieszkalnego, jest wykorzystywana do prowadzenia działalności gospodarczej bądź wynajmowana lub wydzierżawiana - odpisów amortyzacyjnych dokonuje się w wysokości ustalonej od wartości początkowej nieruchomości, budynku lub lokalu odpowiadającej stosunkowi powierzchni użytkowej wykorzystywanej do prowadzenia działalności gospodarczej, wynajmowanej lub wydzierżawianej, do ogólnej powierzchni użytkowej tej nieruchomości, budynku lub lokalu.
-
-5. Odpisów amortyzacyjnych od środków trwałych oraz wartości niematerialnych i prawnych, które zostały przewłaszczone w celu zabezpieczenia wierzytelności, w tym pożyczki lub kredytu, dokonuje dotychczasowy właściciel, w tym pożyczkobiorca lub kredytobiorca.
-
-**Art. 22g.**
-
-1. Za wartość początkową środków trwałych oraz wartości niematerialnych i prawnych, z uwzględnieniem ust. 2-18, uważa się:
-
-- **1)** w razie nabycia w drodze kupna - cenę ich nabycia,
-- **2)** w razie wytworzenia we własnym zakresie - koszt wytworzenia,
-- **3)** w razie nabycia w drodze spadku, darowizny lub w inny nieodpłatny sposób - wartość rynkową z dnia nabycia, chyba że umowa darowizny albo umowa o nieodpłatnym przekazaniu określa tę wartość w niższej wysokości,
-- **4)** w razie nabycia w postaci wkładu niepieniężnego (aportu) wniesionego do spółki cywilnej lub osobowej spółki handlowej - ustaloną przez wspólników na dzień wniesienia wkładu lub udziału, wartość poszczególnych środków trwałych oraz wartości niematerialnych i prawnych, nie wyższą jednak od ich wartości rynkowej, z dnia wniesienia wkładu.
-
-2. Wartość początkową firmy stanowi dodatnia różnica między ceną nabycia przedsiębiorstwa lub jego zorganizowanej części, ustaloną zgodnie z ust. 3 i 5, a wartością rynkową składników majątkowych wchodzących w skład kupionego, przyjętego do odpłatnego korzystania albo wniesionego do spółki przedsiębiorstwa lub jego zorganizowanej części, odpowiednio z dnia kupna, przyjęcia do odpłatnego korzystania albo wniesienia do spółki.
-
-3. Za cenę nabycia uważa się kwotę należną zbywcy, powiększoną o koszty związane z zakupem naliczone do dnia przekazania środka trwałego lub wartości niematerialnej i prawnej do używania, a w szczególności o koszty transportu, załadunku i wyładunku, ubezpieczenia w drodze, montażu, instalacji i uruchomienia programów oraz systemów komputerowych, opłat notarialnych, skarbowych i innych, odsetek, prowizji, oraz pomniejszoną o podatek od towarów i usług, z wyjątkiem przypadków, gdy zgodnie z odrębnymi przepisami podatnikowi nie przysługuje obniżenie kwoty należnego podatku o podatek naliczony albo zwrot różnicy poprzypadku importu cena nabycia obejmuje cło i podatek akcyzowy od importu składników majątku.
-
-4. Za koszt wytworzenia uważa się wartość, w cenie nabycia, zużytych do wytworzenia środków trwałych: rzeczowych składników majątku i wykorzystanych usług obcych, kosztów wynagrodzeń za prace wraz z pochodnymi i inne koszty dające się zaliczyć do wartości wytworzonych środków trwałych. Do kosztu wytworzenia nie zalicza się wartości własnej pracy podatnika, jego małżonka i małoletnich dzieci, kosztów ogólnych zarządu, kosztów sprzedaży oraz pozostałych kosztów operacyjnych i kosztów operacji finansowych, w szczególności odsetek od pożyczek (kredytów) i prowizji, z wyłączeniem odsetek i prowizji naliczonych do dnia przekazania środka trwałego do używania.
-
-5. Cenę nabycia, o której mowa w ust. 3, oraz koszt wytworzenia, o którym mowa w ust. 4, koryguje się o różnice kursowe, naliczone do dnia przekazania do używania środka trwałego lub wartości niematerialnej i prawnej, zgodnie z art. 22 ust. 1 i 1a.
-
-6. Wartość początkową składników majątku nabytych w sposób określony w ust. 1 pkt 3 i 4, wymagających montażu, powiększa się o wydatki poniesione na ich montaż.
-
-7. Wartość początkową inwestycji w obcych środkach trwałych oraz budynków i budowli wybudowanych na obcym gruncie ustala się, stosując odpowiednio ust. 3-5.
-
-8. Jeżeli nie można ustalić ceny nabycia środków trwałych lub ich części nabytych przez podatników przed dniem założenia ewidencji lub sporządzenia wykazu, o których mowa w art. 22n, wartość początkową tych środków przyjmuje się w wysokości wynikającej z wyceny dokonanej przez podatnika, z uwzględnieniem cen rynkowych środków trwałych tego samego rodzaju z grudnia roku poprzedzającego rok założenia ewidencji lub sporządzenia wykazu oraz stanu i stopnia ich zużycia.
-
-9. Jeżeli podatnik nie może ustalić kosztu wytworzenia, o którym mowa w ust. 4, wartość początkową środków trwałych ustala się w wysokości określonej z uwzględnieniem cen rynkowych, o których mowa w ust. 8, przez biegłego, powołanego przez podatnika.
-
-10. Podatnicy mogą ustalić wartość początkową budynków mieszkalnych lub lokali mieszkalnych: wynajmowanych, wydzierżawianych albo używanych przez właściciela na cele prowadzonej przez niego działalności gospodarczej, przyjmując w każdym roku podatkowym wartość stanowiącą iloczyn metrów kwadratowych wynajmowanej, wydzierżawianej lub używanej przez właściciela powierzchni użytkowej tego budynku lub lokalu i kwoty 988 zł, przy czym za powierzchnię użytkową uważa się powierzchnię przyjętą dla celów podatku od nieruchomości.
-
-11. W razie gdy składnik majątku stanowi współwłasność podatnika, wartość początkową tego składnika ustala się w takiej proporcji jego wartości, w jakiej pozostaje udział podatnika we własności tego składnika majątku; zasada ta nie ma zastosowania do składchyba że małżonkowie wykorzystują składnik majątku w działalności gospodarczej prowadzonej odrębnie.
-
-12. W razie zmiany formy prawnej, a także połączenia albo podziału przedsiębiorców dokonywanych na podstawie odrębnych przepisów, z których wynika, że przedsiębiorca powstały w wyniku takiej zmiany, podziału albo połączenia wstępuje we wszystkie prawa i obowiązki przedsiębiorcy o zmienionej formie prawnej, dzielonego albo połączonego - wartość początkową środków trwałych oraz wartości niematerialnych i prawnych ustala się w wysokości wartości początkowej określonej w ewidencji (wykazie) przedsiębiorcy o zmienionej formie prawnej, dzielonego albo połączonego.
-
-13. Przepis ust. 12 stosuje się odpowiednio w razie:
-
-- **1)** podjęcia działalności przez przedsiębiorcę po przerwie trwającej nie dłużej niż 3 lata,
-- **2)** zmiany formy prawnej prowadzonej działalności, polegającej na połączeniu lub podziale dotychczasowych przedsiębiorców albo zmianie wspólników spółki nie będącej osobą prawną,
-- **3)** zmiany działalności wykonywanej samodzielnie przez jednego lub odrębnie przez każdego z małżonków na działalność wykonywaną na imię obojga małżonków,
-- **4)** zmiany działalności wykonywanej na imię obojga małżonków na działalność wykonywaną przez jednego lub odrębnie przez każdego z małżonków,
-- **5)** zmiany działalności wykonywanej samodzielnie przez jednego z małżonków na działalność wykonywaną samodzielnie przez drugiego z małżonków – jeżeli przed przerwą lub zmianą składniki majątku były wprowadzone do ewidencji (wykazu).
-
-14. W razie nabycia w drodze kupna lub przyjęcia do odpłatnego korzystania przedsiębiorstwa lub jego zorganizowanej części, łączną wartość początkową nabytych środków trwałych oraz wartości niematerialnych i prawnych stanowi:
-
-- **1)** suma ich wartości rynkowej w przypadku wystąpienia dodatniej wartości firmy, ustalonej zgodnie z ust. 2,
-- **2)** różnica między ceną nabycia przedsiębiorstwa lub jego zorganizowanej części, ustaloną zgodnie z ust. 3 i 5, a wartością składników majątkowych nie będących środkami trwałymi ani wartościami niematerialnymi i prawnymi, w przypadku nie wystąpienia dodatniej wartości firmy.
-
-15. W razie nabycia przedsiębiorstwa lub jego zorganizowanej części w drodze spadku lub darowizny, łączną wartość początkową nabytych środków trwałych oraz wartości niematerialnych i prawnych stanowi suma ich wartości rynkowej, nie wyższa jednak od różnicy pomiędzy wartością tego przedsiębiorstwa, albo jego cych środkami trwałymi ani wartościami niematerialnymi i prawnymi, określoną dla celów podatku od spadków i darowizn.
-
-16. Przy ustalaniu wartości początkowej poszczególnych środków trwałych oraz wartości niematerialnych i prawnych, zgodnie z ust. 1 pkt 3 i 4 oraz ust. 2, 8, 9 i 14-15 stosuje się odpowiednio art. 19.
-
-17. Jeżeli środki trwałe uległy ulepszeniu w wyniku przebudowy, rozbudowy, rekonstrukcji, adaptacji lub modernizacji, wartość początkową tych środków, ustaloną zgodnie z ust. 1, 3-9 i 11-15, powiększa się o sumę wydatków na ich ulepszenie, w tym także o wydatki na nabycie części składowych lub peryferyjnych, których jednostkowa cena nabycia przekracza 3 500 zł. Środki trwałe uważa się za ulepszone, jeżeli wydatki poniesione na przebudowę, rozbudowę, rekonstrukcję, adaptację lub modernizację powodują wzrost ich wartości użytkowej w stosunku do wartości z dnia przyjęcia środków trwałych do używania, mierzonej w szczególności okresem używania, zdolnością wytwórczą, jakością produktów uzyskiwanych za pomocą ulepszonych środków trwałych i kosztami ich eksploatacji.
-
-18. Wartość początkową praw majątkowych, w tym licencji i autorskich praw majątkowych, stanowi cena nabycia tych praw; jeżeli wynagrodzenie (opłaty) wynikające z umowy licencyjnej albo z umowy o przeniesienie innych praw majątkowych jest uzależnione od wysokości przychodów z licencji lub praw uzyskanych przez licencjobiorcę albo nabywcę - przy ustalaniu wartości początkowej praw majątkowych, w tym licencji, nie uwzględnia się tej części wynagrodzenia.
-
-19. Jeżeli wartość początkowa środków trwałych lub wartości niematerialnych i prawnych zostanie ustalona niezgodnie z ust. 1-18, podatnik dokonuje korekty tej wartości początkowej. Korekta wartości początkowej powoduje obowiązek odpowiedniej zmiany wysokości dokonanych odpisów amortyzacyjnych oraz należnego podatku wraz z należnymi odsetkami za poszczególne okresy sprawozdawcze, poczynając od miesiąca następującego po miesiącu oddania do używania lub ulepszenia środka trwałego albo wartości niematerialnej i prawnej.
-
-**Art. 22h.**
-
-1. Odpisów amortyzacyjnych dokonuje się:
-
-- **1)** od wartości początkowej wprowadzonych do ewidencji, o której mowa w art. 22n, poszczególnych środków trwałych lub wartości niematerialnych i prawnych, z zastrzeżeniem art. 22k, w równych ratach co miesiąc, począwszy od pierwszego miesiąca następującego po miesiącu, w którym ten środek lub wartość przyjęto do używania do końca tego miesiąca, w którym następuje zrównanie sumy odpisów amortyzacyjnych z ich wartością początkową lub w którym postawiono je w stan likwidacji, zbyto lub stwierdzono ich niedobór; suma odpisów amortyzacyjnych obejmuje również odpisy, których przychodów,
-- **2)** od zamówionego przez armatora taboru transportu morskiego w budowie, o którym mowa w art. 22a ust. 2 pkt 4, począwszy od pierwszego miesiąca następującego po miesiącu, w którym armator poniósł wydatki (w tym dokonał wpłat zaliczek) na budowę taboru w wysokości co najmniej 10% wartości kontraktowej odrębnie dla każdego obiektu tego taboru; wartość kontraktową, o której mowa w niniejszym punkcie, ustala się na dzień zawarcia umowy na budowę danego obiektu,
-- **3)** od używanych sezonowo środków trwałych oraz wartości niematerialnych i prawnych w okresie ich wykorzystywania; w tym przypadku wysokość odpisu miesięcznego ustala się przez podzielenie rocznej kwoty odpisów amortyzacyjnych przez liczbę miesięcy w sezonie albo przez 12 miesięcy w roku,
-- **4)** od ujawnionych środków trwałych nie objętych dotychczas ewidencją - począwszy od miesiąca następującego po miesiącu, w którym środki te zostały wprowadzone do ewidencji.
-
-2. Podatnicy, z zastrzeżeniem art. 22l i 22ł, dokonują wyboru jednej z metod amortyzacji określonej w art. 22i-22k dla poszczególnych środków trwałych przed rozpoczęciem ich amortyzacji; wybraną metodę stosuje się do pełnego zamortyzowania danego środka trwałego.
-
-3. Przedsiębiorcy powstali w wyniku zmiany formy prawnej, podziału albo połączenia przedsiębiorców, o których mowa w art. 22g ust. 12 lub 13, dokonują odpisów amortyzacyjnych z uwzględnieniem dotychczasowej wysokości odpisów oraz kontynuują metodę amortyzacji przyjętą przez przedsiębiorcę powstałego w wyniku zmiany formy prawnej, podziału albo połączenia, z uwzględnieniem art. 22i ust. 2-7.
-
-**Art. 22i.**
-
-1. Odpisów amortyzacyjnych od środków trwałych, z zastrzeżeniem art. 22j-22ł, dokonuje się przy zastosowaniu stawek amortyzacyjnych określonych w Wykazie stawek amortyzacyjnych i zasad, o których mowa w art. 22h ust. 1 pkt 1.
-
-2. Podatnicy mogą podane w Wykazie stawek amortyzacyjnych stawki podwyższać:
-
-- **1)** dla budynków i budowli używanych w warunkach:
-    - **a)** pogorszonych - przy zastosowaniu współczynników nie wyższych niż 1,2,
-    - **b)** złych - przy zastosowaniu współczynników nie wyższych niż 1,4,
-
-- **2)** dla maszyn, urządzeń i środków transportu, z wyjątkiem morskiego taboru pływającego, używanych bardziej intensywnie w stosunku do warunków przeciętnych albo wymagających szczególnej sprawności technicznej - przy zastosowaniu w tym okresie współczynników nie wyższych niż 1,4, kacji Środków Trwałych (KŚT) wydanej na podstawie odrębnych przepisów, zwanej dalej "Klasyfikacją", poddanych szybkiemu postępowi technicznemu - przy zastosowaniu współczynników nie wyższych niż 2,0.
-
-3. W razie wystąpienia bądź ustania warunków uzasadniających podwyższenie stawek, o których mowa w ust. 2 pkt 1 i 2, stawki te ulegają podwyższeniu lub obniżeniu od miesiąca następującego po miesiącu, w którym zaistniały okoliczności uzasadniające te zmiany.
-
-4. Podwyższenia stawek dla środków trwałych wymienionych w ust. 2 pkt 3, bądź rezygnacji z ich stosowania, podatnicy mogą dokonać począwszy od pierwszego miesiąca następnego roku podatkowego.
-
-5. Podatnicy mogą obniżać podane w Wykazie stawek amortyzacyjnych stawki dla środków trwałych - nie więcej niż o połowę ich wysokości. Obniżenia stawki bądź przyjęcia w poprzedniej wysokości dokonuje się począwszy od pierwszego miesiąca następnego roku podatkowego.
-
-6. W przypadku podwyższenia stawek amortyzacyjnych, podanych w Wykazie stawek amortyzacyjnych przy zastosowaniu współczynników określonych w ust. 2, należy dla poszczególnych środków trwałych stosować jeden wybrany współczynnik, przez który mnoży się stawkę amortyzacyjną właściwą dla danego środka trwałego, przyjętą z Wykazu stawek amortyzacyjnych.
-
-7. Wyjaśnienia dotyczące warunków używania budynków i budowli, określenia szczególnej sprawności technicznej maszyn, urządzeń i środków transportu oraz maszyn i urządzeń poddanych szybkiemu postępowi technicznemu, o których mowa w ust. 2, zawarte są w objaśnieniach do Wykazu stawek amortyzacyjnych.
-
-**Art. 22j.**
-
-1. Podatnicy, z zastrzeżeniem art. 22l, mogą indywidualnie ustalić stawki amortyzacyjne dla używanych lub ulepszonych środków trwałych, po raz pierwszy wprowadzonych do ewidencji danego podatnika, z tym że okres amortyzacji nie może być krótszy niż:
-
-- **1)** dla środków trwałych zaliczonych do grupy 3-6 i 8 Klasyfikacji:
-    - **a)** 24 miesiące - gdy ich wartość początkowa nie przekracza 25 000 zł,
-    - **b)** 36 miesięcy - gdy ich wartość początkowa jest wyższa od 25 000 zł i nie przekracza 50 000 zł,
-    - **c)** 60 miesięcy - w pozostałych przypadkach,
-
-- **2)** dla środków transportu, w tym samochodów osobowych, o których mowa w art. 23 ust. 3a - 30 miesięcy,
-- **3)** dla budynków i budowli - 10 lat, z wyjątkiem budynków wymienionych w poz. 02 i 05 Wykazu stawek amortyzacyjnych, dla których okres ten nie może być krótszy niż 36 miesięcy.
-- **1)** używane - jeżeli podatnik udowodni, że przed ich nabyciem były wykorzystywane co najmniej przez okres 6 miesięcy, lub
-- **2)** ulepszone - jeżeli przed wprowadzeniem do ewidencji wydatki poniesione przez podatnika na ich ulepszenie stanowiły co najmniej 20% wartości początkowej.
-
-3. Środki trwałe, o których mowa w ust. 1 pkt 3, uznaje się za:
-
-- **1)** używane - jeżeli podatnik wykaże, że przed ich nabyciem były wykorzystywane co najmniej przez okres 60 miesięcy, lub
-- **2)** ulepszone - jeżeli przed wprowadzeniem do ewidencji wydatki poniesione przez podatnika na ulepszenie stanowiły co najmniej 30% wartości początkowej.
-
-4. Podatnicy mogą indywidualnie ustalić stawki amortyzacyjne dla przyjętych do używania inwestycji w obcych środkach trwałych, z tym że dla:
-
-- **1)** inwestycji w obcych budynkach (lokalach) lub budowlach okres amortyzacji nie może być krótszy niż 10 lat,
-- **2)** inwestycji w obcych środkach trwałych innych niż wymienione w pkt 1 - okres amortyzacji ustala się według zasad określonych w ust. 1 pkt 1 i 2.
-
-5. Przepisów ust. 1 pkt 2 i ust. 2 pkt 2 nie stosuje się do samochodów osobowych, o których mowa w art. 23 ust. 3a, ulepszonych i po raz pierwszy wprowadzonych do ewidencji.
-
-**Art. 22k.**
-
-1. Odpisów amortyzacyjnych można dokonywać od wartości początkowej maszyn i urządzeń zaliczonych do grupy 3-6 i 8 Klasyfikacji oraz środków transportu, z wyjątkiem samochodów osobowych, o których mowa w art. 23 ust. 3a, w pierwszym podatkowym roku ich używania przy zastosowaniu stawek podanych w Wykazie stawek amortyzacyjnych podwyższonych, z zastrzeżeniem ust. 2, o współczynnik nie wyższy niż 2,0, a w następnych latach podatkowych - od ich wartości początkowej pomniejszonej o dotychczasowe odpisy amortyzacyjne, ustalonej na początek kolejnych lat ich używania. Począwszy od roku podatkowego, w którym tak określona roczna kwota amortyzacji miałaby być niższa od rocznej kwoty amortyzacji obliczonej przy zastosowaniu metody określonej w art. 22i ust. 1, podatnicy dokonują dalszych odpisów amortyzacyjnych zgodnie z art. 22i.
-
-2. W przypadku używania środków trwałych, określonych w ust. 1, w zakładzie danego podatnika położonym na terenie gminy o szczególnym zagrożeniu wysokim bezrobociem strukturalnym albo w gminie zagrożonej recesją i degradacją społeczną, których wykaz na podstawie odrębnych przepisów ustala Rada Ministrów - stawki podane w Wykazie stawek amortyzacyjnych można podwyższyć przy zastosowaniu współczynników nie wyższych niż 3,0, dokonując obliczenia odpisów amortyzacyjnych zgodnie z zasadą określoną w ust. 1.
-
-- **1)** gmina zostanie wyłączona z wykazu, o którym mowa w ust. 2, lub
-- **2)** podatnik przestanie mieć siedzibę na terenie gminy, o której mowa w ust. 2 – podatnik może stosować do końca tego roku podwyższone stawki amortyzacyjne.
-
-**Art. 22l.**
-
-1. Odpisów amortyzacyjnych od taboru transportu morskiego w budowie, wymienionego w art. 22a ust. 2 pkt 4, dokonuje się w ratach co miesiąc przy zastosowaniu stawek amortyzacyjnych określonych dla taboru pływającego w Wykazie stawek amortyzacyjnych.
-
-2. Podstawę obliczenia odpisów amortyzacyjnych od obiektów taboru wymienionych w ust. 1 stanowi część wartości kontraktowej, o której mowa w art. 22h ust. 1 pkt 2, powiększona o kolejne wydatki (zaliczki), ponoszone na budowę danego obiektu; wydatki te zwiększają sukcesywnie podstawę dokonywania odpisów amortyzacyjnych w miesiącu następującym po miesiącu ich poniesienia.
-
-3. Odpisów amortyzacyjnych, o których mowa w ust. 1, dokonuje się do końca miesiąca, w którym dany obiekt taboru został przyjęty do używania; jeżeli nie dojdzie do zawarcia umowy przenoszącej na armatora własność zamawianego taboru, armator jest obowiązany zmniejszyć koszty uzyskania przychodów o dokonane odpisy amortyzacyjne, obliczone zgodnie z ust. 1 i 2, w miesiącu, w którym odstąpiono od umowy.
-
-4. Odpisów amortyzacyjnych od przyjętego do używania taboru morskiego dokonuje się zgodnie z art. 22i. Suma odpisów amortyzacyjnych dokonanych zgodnie z art. 22i i odpisów amortyzacyjnych, o których mowa w ust. 2, nie może przekroczyć wartości początkowej danego obiektu taboru transportu morskiego. Art. 22ł.1. Od środków trwałych oraz wartości niematerialnych i prawnych otrzymanych do odpłatnego korzystania, zgodnie z umowami zawartymi na podstawie przepisów o komercjalizacji i prywatyzacji przedsiębiorstw państwowych, jeżeli z tych umów wynika prawo zakupu tych środków albo wartości przez korzystającego za cenę ustaloną w umowach, podatnicy dokonują odpisów amortyzacyjnych na zasadach określonych w art. 22h ust. 1. Stawki amortyzacyjne, z uwzględnieniem art. 22i i 22m, ustala się w proporcji do okresu wynikającego z umowy, z wyjątkiem środków trwałych oraz wartości niematerialnych i prawnych o krótszym okresie amortyzacji niż okres trwania umowy.
-
-2. W razie nabycia środków trwałych lub wartości niematerialnych i prawnych otrzymanych do odpłatnego korzystania na podstawie umów, o których mowa w ust. 1, przed upływem okresu, na jaki została zawarta umowa, podatnicy dokonują dalszych odpisów amortyzacyjnych od tych środków i wartości, kontynuując stosowanie zasad i stawek, określonych w ust. 1. podstawie przepisów, o których mowa w ust.1, stawki odpisów amortyzacyjnych ulegają obniżeniu proporcjonalnie do okresu przedłużenia okresu obowiązywania umowy, z wyjątkiem środków trwałych lub wartości niematerialnych i prawnych o okresie amortyzacji krótszym niż okres obowiązywania umowy; zasada ta ma zastosowanie wyłącznie do stawek odpisów amortyzacyjnych, dokonywanych od następnego miesiąca po miesiącu, w którym zmieniono umowę.
-
-4. Od środków trwałych lub wartości niematerialnych i prawnych, przekazanych do używania na podstawie innych umów niż wymienione w ust. 1, odpisów amortyzacyjnych dokonują podatnicy, którzy zgodnie z przepisami wydanymi na podstawie art. 14 ust. 5 zaliczają te środki trwałe oraz wartości niematerialne i prawne do składników majątku, z tym że wówczas odpisów amortyzacyjnych dokonują odpowiednio wynajmujący (wydzierżawiający) albo korzystający na zasadach określonych w art. 22h-22k i 22m.
-
-5. Jeżeli umowa, o której mowa w ust. 4, dotyczy środków trwałych zaliczonych do grupy 3-6 Klasyfikacji i została zawarta na okres co najmniej 60 miesięcy oraz środki te zgodnie z przepisami wydanymi na podstawie art. 14 ust. 5 są zaliczane do składników majątku korzystającego, podatnik może stosować zasady określone w ust. 1-3.
-
-6. Jeżeli nastąpi zmiana, wygaśnięcie lub rozwiązanie umów, o których mowa w ust. 4 i 5, i w związku z tym nie zostanie przeniesiona na korzystającego własność środków trwałych oraz wartości niematerialnych i prawnych przyjętych do odpłatnego korzystania, właściciel, przejmując te środki lub wartości, określa ich wartość początkową, zgodnie z art. 22g, przed zawarciem pierwszej umowy o odpłatnym korzystaniu, pomniejszoną o kwotę odpisów amortyzacyjnych zaliczonych do kosztów uzyskania przychodów przez korzystającego, a w przypadku gdy korzystający nie dokonywał odpisów amortyzacyjnych, ich wielkość oblicza się przy zastosowaniu stawek określonych w Wykazie stawek amortyzacyjnych.
-
-**Art. 22m.**
-
-1. Z zastrzeżeniem ust. 2 i 3 oraz art. 22ł ust. 1-3, okres dokonywania odpisów amortyzacyjnych od wartości niematerialnych i prawnych nie może być krótszy niż:
-
-- **1)** od licencji (sublicencji) na programy komputerowe oraz od praw autorskich - 24 miesiące,
-- **2)** od licencji na wyświetlanie filmów oraz na emisję programów radiowych i telewizyjnych - 24 miesiące,
-- **3)** od poniesionych kosztów zakończonych prac rozwojowych 36 miesięcy,
-- **4)** od pozostałych wartości niematerialnych i prawnych - 60 miesięcy.
-
-2. Jeżeli wynikający z umowy okres używania praw majątkowych, o których mowa w ust. 1 pkt 2, jest krótszy od okresu ustalonego w nych w okresie wynikającym z umowy.
-
-3. Podatnicy ustalają stawki amortyzacyjne dla poszczególnych wartości niematerialnych i prawnych na cały okres amortyzacji przed rozpoczęciem dokonywania odpisów amortyzacyjnych.
-
-4. Odpisów amortyzacyjnych od własnościowego spółdzielczego prawa do lokalu mieszkalnego, spółdzielczego prawa do lokalu użytkowego oraz prawa do domu jednorodzinnego w spółdzielni mieszkaniowej dokonuje się przy zastosowaniu rocznej stawki amortyzacyjnej w wysokości 2,5%; przy ustalaniu wartości początkowej tych praw podatnicy mogą stosować zasadę określoną w art. 22g ust. 10, z tym że wówczas roczna stawka amortyzacyjna wynosi 1,5%.
-
-**Art. 22n.**
-
-1. Podatnicy prowadzący, zgodnie z przepisami o rachunkowości, księgi rachunkowe są obowiązani do uwzględnienia w ewidencji środków trwałych oraz wartości niematerialnych i prawnych informacji niezbędnych do obliczenia wysokości odpisów amortyzacyjnych zgodnie z art. 22a - 22m.
-
-2. Podatnicy prowadzący podatkową księgę przychodów i rozchodów są obowiązani do prowadzenia ewidencji środków trwałych oraz wartości niematerialnych i prawnych, zawierającej, z zastrzeżeniem ust. 3, co najmniej:
-
-- **1)** liczbę porządkową,
-- **2)** datę nabycia,
-- **3)** datę przyjęcia do używania,
-- **4)** określenie dokumentu stwierdzającego nabycie,
-- **5)** określenie środka trwałego lub wartości niematerialnej i prawnej,
-- **6)** symbol Klasyfikacji Środków Trwałych,
-- **7)** wartość początkową,
-- **8)** stawkę amortyzacyjną,
-- **9)** kwotę odpisu amortyzacyjnego za dany rok podatkowy i narastająco za okres dokonywania tych odpisów, w tym także, gdy składnik majątku był kiedykolwiek wprowadzony do ewidencji (wykazu), a następnie z niej wykreślony i ponownie wprowadzony,
-- **10)** zaktualizowaną wartość początkową,
-- **11)** zaktualizowaną kwotę odpisów amortyzacyjnych,
-- **12)** wartość ulepszenia zwiększaj ącą wartość początkową,
-- **13)** datę likwidacji oraz jej przyczynę albo datę zbycia.
-
-3. Nie podlegają objęciu ewidencją budynki mieszkalne, lokale mieszkalne i własnościowe spółdzielcze prawo do lokalu mieszkalnego, spółdzielcze prawo do lokalu użytkowego, prawo do wartość początkową ustala się zgodnie z art. 22g ust. 10.
-
-4. Zapisów dotyczących środków trwałych oraz wartości niematerialnych i prawnych dokonuje się w ewidencji najpóźniej w miesiącu przekazania ich do używania.
-
-5. W razie zmiany formy opodatkowania, podatnicy, zakładając ewidencję, o której mowa w ust. 2, uwzględniają w niej odpisy amortyzacyjne przypadające za okres opodatkowania w formie zryczałtowanego podatku dochodowego.
-
-6. W razie braku ewidencji środków trwałych oraz wartości niematerialnych i prawnych dokonywane odpisy amortyzacyjne nie stanowią kosztów uzyskania przychodów.
-
-**Art. 22o.**
-
-1. Minister właściwy do spraw finansów publicznych określa, w drodze rozporządzenia, tryb i terminy aktualizacji wyceny środków trwałych, o których mowa w art. 22a, wartości początkowej składników majątku, o której mowa w art. 22d ust. 1, kwoty określonej w art. 22g ust. 10 do obliczenia wartości początkowej budynków mieszkalnych lub lokali mieszkalnych, jednostkowej ceny nabycia części składowych i peryferyjnych, o których mowa w art. 22g ust. 17, oraz wartości początkowej środków trwałych, o której mowa w art. 22j ust. 1 pkt 1 lit.a) i b), jeżeli wskaźnik wzrostu cen nakładów inwestycyjnych w okresie trzech kwartałów w roku poprzedzającym rok podatkowy w stosunku do analogicznego okresu roku ubiegłego przekroczy 10%.
-
-2. Wskaźniki wzrostu cen nakładów inwestycyjnych ogłasza Prezes Głównego Urzędu Statystycznego w odstępach kwartalnych.”;
-
-- **20)** w art. 23: 10 ust. 1 pkt 8 lit. d), oraz gdy odpłatne zbycie rzeczy i praw jest przedmiotem działalności gospodarczej, a także w przypadku odpłatnego zbycia składników majątku związanych z działalnością goczas ich poniesienia,”, - pkt 4 otrzymuje brzmienie: „4) odpisów z tytułu zużycia samochodu osobowego, dokonywanych według zasad określonych w art. 22a-22o, w części ustalonej od wartości samochodu przewyższającej równowartość 10 000 EURO przeliczonej na złote według kursu średniego EURO ogłaszanego przez Narodowy Bank Polski z dnia przekazania samochodu do używania,”, – pkt 5 otrzymuje brzmienie: „5) strat w środkach trwałych oraz wartościach niematerialnych i prawnych w części pokrytej sumą odpisów amortyzacyjnych, o których mowa w art. 22h ust. 1 pkt 1,”, – w pkt 6 skreśla się wyrazy „lub metody jej prowadzenia”, – w pkt 10 na końcu dodaje się wyrazy „a w przypadku prowadzenia działalności w formie spółki cywilnej lub osobowej spółki handlowej także małżonków i małoletnich dzieci wspólników,”, – w pkt 30 skreśla się wyrazy „składek na rzecz organizacji pracodawców do wysokości określonej przez Radę Ministrów w drodze rozporządzenia, a także”, – w pkt 34 wyrazy „tytułu sprzedaży” zastępuje się wyrazami „odpłatnego zbycia”, – w pkt 36 skreśla się wyrazy „obowiązujących w przedsiębiorstwach państwowych,”, – pkt 38 otrzymuje brzmienie: „38) wydatków na objęcie lub nabycie udziałów albo wkładów w spółdzielni, udziałów (akcji) w spółce oraz innych papierów wartościowych, a także wydatków na nabycie jednostek uczestnictwa w funduszach powierniczych oraz certyfikatów inwestycyjnych lub jednostek uczestnictwa funduszy inwestycyjnych; wydatki takie są jednak kosztem uzyskania przychodu przy ustalaniu dochodu z odpłatnego zbycia tych udziałów (akcji), wkładów oraz innych papierów wartościowych, w tym dochodu z tytułu wykupu przez emitenta papierów wartościowych, a także dochodu z odpłatnego zbycia certyfikatów inwestycyjnych lub jednostek uczestnictwa funduszy inwestycyjnych, albo umorzenia jednostek uczestnictwa w funduszach powierniczych, a także z tytułu umorzenia jednostek uczestnictwa lub certyfikatów inwestycyjnych w przypadku likwidacji funduszu inwestycyjnego,”, – po pkt 38 dodaje się pkt 38a w brzmieniu: „38a) wydatków związanych z nabyciem pochodnych instrumentów finansowych - do czasu realizacji praw wynikających z tych instrumentów albo rezygnacji z realizacji praw wynikających z tych instrumentów albo ich odpłatnego zbycia - o ile wydatki te, stosownie do art. 22g ust. 3, nie powiększają wartości początkowej środka trwałego oraz wartości niematerialnych i prawnych,”, w rozumieniu przepisów o restrukturyzacji finansowej przedsiębiorstw i banków lub”, – w pkt 43 lit. b) otrzymuje brzmienie: „b) podatek należny w przypadku: – importu usług, jeżeli nie stanowi on podatku naliczonego w rozumieniu odrębnych przepisów, – przekazania lub zużycia przez podatnika towarów lub świadczenia usług na potrzeby reprezentacji i reklamy, obliczony zgodnie z odrębnymi przepisami,”, – pkt 44 otrzymuje brzmienie: „44) strat powstałych w wyniku nadmiernych ubytków lub zawinionych niedoborów wyrobów akcyzowych oraz podatku akcyzowego od tych ubytków lub niedoborów,”, – w pkt 45 wyrazy „odrębnych przepisach” zastępuje się wyrazami „art. 22a-22o”, – po pkt 45 dodaje się pkt 45a i 45b w brzmieniu: „45a) odpisów amortyzacyjnych od wartości początkowej środków trwałych oraz wartości niematerialnych i prawnych:
-    - **a)** w ust. 1: – pkt 1 otrzymuje brzmienie: „1) wydatków na:
-    - **a)** nabycie gruntów lub prawa wieczystego użytkowania gruntów, z wyjątkiem opłat za wieczyste użytkowanie gruntów,
-    - **b)** nabycie lub wytworzenie we własnym zakresie innych niż wymienione w lit. a) środków trwałych oraz wartości niematerialnych i prawnych, w tym również wchodzących w skład nabytego przedsiębiorstwa lub jego zorganizowanych części,
-    - **c)** ulepszenie środków trwałych, które zgodnie z art. 22g ust. 17 powiększają wartość środków trwałych, stanowiącą podstawę naliczania odpisów amortyzacyjnych – wydatki te, zaktualizowane zgodnie z odrębnymi przepisami, pomniejszone o sumę odpisów amortyzacyjnych, o których mowa w art. 22h ust. 1 pkt 1, są jednak kosztem uzyskania przychodów przy określaniu dochodu z odpłatnego zbycia rzeczy określonych w art.
-    - **a)** nabytych nieodpłatnie, z wyjątkiem nabytych w drodze spadku lub darowizny, jeżeli nabycie to nie stanowi przychodu w naturze albo dochód z tego tytułu jest zwolniony od podatku dochodowego,
-    - **b)** jeżeli przed dniem 1 stycznia 1995 r. zostały nabyte lecz nie zaliczone do środków trwałych albo wartości niematerialnych i prawnych,
-    - **c)** oddanych do nieodpłatnego używania, z wyjątkiem nieruchomości - za miesiące, w których składniki te były oddane do nieodpłatnego używania, 45b) odpisów amortyzacyjnych od wartości początkowej wartości niematerialnych i prawnych wniesionych do spółki w postaci wkładu niepieniężnego, stanowiących równowartość uzyskanych informacji związanych z wiedzą w dziedzinie przemysłowej, handlowej, naukowej lub organizacyjnej (knowhow),”, – w pkt 46 skreśla się wyrazy „lub innego samochodu o dopuszczalnej ładowności nie przekraczającej 500 kilogramów” oraz po wyrazach „właściwego ministra” skreśla się przecinek i wyrazy „obowiązującej w przedsiębiorstwach państwowych”, – w pkt 47 skreśla się wyrazy „lub innego samochodu o dopuszczalnej ładowności nie przekraczającej 500 kilogramów”, – w pkt 50 wyrazy „budżetu gminy” zastępuje się wyrazami „budżetów jednostek samorządu terytorialnego”, – skreśla się pkt 53, – pkt 56 otrzymuje brzmienie: o których mowa w art. 21 ust. 1 pkt 46 i 48,”, – pkt 57 otrzymuje brzmienie: „57) składek opłaconych przez pracodawcę z tytułu zawartych lub odnowionych umów ubezpieczenia na rzecz pracowników, z wyjątkiem umów dotyczących ryzyka grup 1, 3 i 5 działu I oraz grup 1 i 2 działu II, wymienionych w załączniku do ustawy z dnia 28 lipca 1990 r. o działalności ubezpieczeniowej (Dz.U. z 1996 r. Nr 11, poz. 62, z 1997 r. Nr 43, poz. 272, Nr 88, poz. 554, Nr 107, poz. 685, Nr 121, poz. 769 i 770 i Nr 139, poz. 934, z 1998 r. Nr 155, poz. 1015, z 1999 r. Nr 49, poz. 483, Nr 101, poz. 1178 i Nr 110, poz. 1255 oraz z 2000 r. Nr 43, poz. 483, Nr 48, poz. 552 i Nr 70, poz. 819) jeżeli uprawnionym do otrzymania świadczenia nie jest pracodawca i umowa ubezpieczenia w okresie pięciu lat, licząc od końca roku kalendarzowego, w którym ją zawarto lub odnowiono, wyklucza:
-    - **a)** wypłatę kwoty stanowiącej wartość odstąpienia od umowy,
-    - **b)** możliwość zaciągania zobowiązań pod zastaw praw wynikających z umowy,
-    - **c)** wypłatę z tytułu dożycia wieku oznaczonego w umowie,”, – w pkt 58 kropkę zastępuje się przecinkiem i dodaje pkt 59 w brzmieniu: „59) dodatkowej opłaty wymierzanej przez Zakład Ubezpieczeń Społecznych na podstawie przepisów o systemie ubezpieczeń społecznych.”,
-    - **b)** w ust. 2 pkt 3 otrzymuje brzmienie: „3) protokołem sporządzonym przez podatnika, stwierdzającym, że przewidywane koszty procesowe i egzekucyjne związane z dochodzeniem wierzytelności byłyby równe albo wyższe od jej kwoty.”,
-    - **c)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Ilekroć w ust. 1 jest mowa o samochodzie osobowym - rozumie się przez to każdy samochód, który nie posiada homologacji producenta lub importera wymaganej dla samochodów innych niż osobowe oraz którego dopuszczalna ładowność nie przekracza 500 kg.”,
-    - **d)** w ust. 5 po wyrazach „pkt 36” dodaje się wyrazy „i 46”;
-
-- **21)** w art. 24:
-    - **a)** w ust. 2 wyrazy „ze sprzedaży” zastępuje się wyrazami „z odpłatnego zbycia”,
-    - **b)** w ust. 4 po wyrazie „Dochodem” dodaje się wyraz „(stratą)” oraz na końcu kropkę zastępuje się przecinkiem i dodaje wyrazy „określonych w załączniku nr 2.”,
-    - **c)** po ust. 4 dodaje się ust. 4a-4e w brzmieniu: suje się od jednostek powierzchni upraw lub innych jednostek rodzajów produkcji określonych w kolumnie 3 załącznika nr 2, z tym że w przypadku:
-
-- **1)** upraw w szklarniach i tunelach foliowych - od 1 m powierzchni ogólnej obliczanej według wewnętrznej długości ścian,
-- **2)** upraw grzybów i ich grzybni - od 1 m powierzchni zajętej pod te uprawy,
-- **3)** wylęgarni drobiu - od 1 sztuki pisklęcia uzyskanego z wylęgu,
-- **4)** zwierząt laboratoryjnych - od 1 sztuki sprzedanych zwierząt,
-- **5)** hodowli i chowu zwierząt wymienionych pod lp. 15 lit. b)-h) załącznika nr 2 - od 1 sztuki zwierząt sprzedanych,
-- **6)** hodowli ryb akwariowych - od 1 dcm3 objętości akwarium, obliczonej według wewnętrznych długości krawędzi.
-
-4b. Jeżeli rozmiary działów specjalnych produkcji rolnej przekraczają wielkości określone w załączniku nr 2, opodatkowaniu podlegają dochody uzyskane w roku podatkowym z całej powierzchni upraw lub wszystkich jednostek produkcji.
-
-4c. Jeżeli w ciągu rocznego cyklu produkcji na tej samej powierzchni są prowadzone różne uprawy, dla których są ustalane różne normy szacunkowe dochodu, dochód z każdego rodzaju uprawy oblicza się, z zastrzeżeniem ust. 4e, przy zastosowaniu właściwej dla niej normy, proporcjonalnie do liczby miesięcy, w których była prowadzona taka uprawa, wliczając w to okres przygotowania do zaprowadzenia tej uprawy.
-
-4d. Przepis ust. 4c stosuje się również w razie rozpoczęcia lub zaprzestania w ciągu roku prowadzenia działów specjalnych produkcji rolnej.
-
-4e. W szklarniach nie ogrzewanych stosuje się normę roczną bez względu na okres i rodzaj prowadzonej uprawy.”,
-
-- **d)** w ust. 5 po wyrazach „w tym także:” dodaje się wyrazy „dochód z umorzenia udziałów lub akcji,”,
-- **e)** w ust. 6 wyrazy „ze sprzedaży” zastępuje się wyrazami „z odpłatnego zbycia” i skreśla się ostatnie zdanie,
-- **f)** ust. 7 otrzymuje brzmienie: „7. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw rolnictwa, poczynając od roku podatkowego 2002, ogłasza w drodze rozporządzenia normy szacunkowe, o których mowa w ust. 4, zmieniając je corocznie w stopniu odpowiadającym wskaźnikowi wzrostu cen towarowej produkcji rolniczej, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.”,
-- **g)** po ust. 7 dodaje się ust. 8-12 w brzmieniu: „8. W przypadku połączenia spółek mających osobowość prawną, dochód (przychód) udziałowca (akcjonariusza) spółki przejmowanej, stanowiący nadwyżkę pomiędzy wartością udziałów (akcji) przydzielonych (akcji) w spółce przejmowanej, nie podlega opodatkowaniu w momencie połączenia spółek; przy ustalaniu dochodu z odpłatnego zbycia udziałów (akcji) spółki przejmującej, udziałowiec (akcjonariusz) ustala koszt uzyskania przychodów na podstawie art. 22 ust. 1f albo art. 23 ust. 1 pkt 38 w odniesieniu do nabycia (objęcia) udziałów (akcji) w spółce przejętej.
-
-9. Przepisy ust. 8 stosuje się odpowiednio do połączenia spółek poprzez zawiązanie nowej spółki.
-
-10. Jeżeli podatnik dokonuje odpłatnego zbycia papierów wartościowych nabytych po różnych cenach, przy ustalaniu dochodu z takiego zbycia stosuje się zasadę, że każdorazowo zbycie dotyczy kolejno papierów wartościowych nabytych najwcześniej.
-
-11. Dochód stanowiący nadwyżkę pomiędzy wartością rynkową akcji objętych przez osoby uprawnione na podstawie uchwały walnego zgromadzenia akcjonariuszy spółki, a wydatkami poniesionymi na ich objęcie, nie podlega opodatkowaniu w momencie objęcia tych akcji; zasadę określoną w zdaniu pierwszym stosuje się odpowiednio do dochodu stanowiącego nadwyżkę pomiędzy wartością rynkową akcji a wydatkami poniesionymi na ich nabycie od spółki posiadającej osobowość prawną, która objęła te akcje wyłącznie w celu przeniesienia tytułu ich własności na osoby uprawnione na podstawie uchwały walnego zgromadzenia spółki będącej emitentem akcji.
-
-12. Zasada, o której mowa w ust. 11 nie ma zastosowania do dochodu osiągniętego ze zbycia akcji, przez osoby uprawnione na podstawie uchwały walnego zgromadzenia spółki będącej emitentem akcji.”;
-
-- **22)** po art. 24 dodaje się art. 24a i 24b w brzmieniu: “Art. 24a. 1. Osoby fizyczne i spółki cywilne osób fizycznych, wykonujące działalność gospodarczą, są obowiązane prowadzić podatkową księgę przychodów i rozchodów, zwaną dalej „księgą”, z zastrzeżeniem ust. 3 i 5, albo księgi rachunkowe, zgodnie z odrębnymi przepisami, w sposób zapewniający ustalenie dochodu (straty), podstawy opodatkowania i wysokości należnego podatku za rok podatkowy, w tym za okres sprawozdawczy, a także uwzględniać w ewidencji środków trwałych oraz wartości niematerialnych i prawnych informacje niezbędne do obliczenia wysokości odpisów amortyzacyjnych zgodnie z przepisami art. 22a-22o.
-
-2. Obowiązek prowadzenia księgi dotyczy również osób:
-
-- **1)** wykonujących działalność na podstawie umów agencyjnych i umów na warunkach zlecenia, zawartych na podstawie odrębnych przepisów,
-- **2)** prowadzących działy specjalne produkcji rolnej, jeżeli osoby te zgłosiły zamiar prowadzenia tych ksiąg,
-- **3)** duchownych, które zrzekły się opłacania zryczałtowanego podatku dochodowego.
-
-3. Obowiązek prowadzenia księgi nie dotyczy osób, które:
-
-- **1)** opłacają podatek dochodowy w formach zryczałtowanych, rem konnym,
-- **3)** wykonują zawód adwokata wyłącznie w zespole adwokackim,
-- **4)** dokonują sprzedaży środków trwałych po likwidacji działalności.
-
-4. Obowiązek prowadzenia ksiąg rachunkowych dotyczy osób fizycznych i spółek cywilnych osób fizycznych, jeżeli ich przychody, w rozumieniu art. 14, za poprzedni rok podatkowy wyniosły w walucie polskiej co najmniej równowartość kwoty określonej w EURO w przepisach o rachunkowości.
-
-5. Osoba fizyczna lub spółka cywilna osób fizycznych może prowadzić księgi rachunkowe również od początku następnego roku podatkowego, jeżeli przychody, w rozumieniu art. 14, za poprzedni rok podatkowy są niższe niż równowartość w walucie polskiej kwoty określonej w EURO w przepisach o rachunkowości. W tym przypadku osoba ta lub wspólnicy spółki przed rozpoczęciem roku podatkowego są obowiązani do zawiadomienia o tym urzędu skarbowego właściwego w sprawach opodatkowania podatkiem dochodowym.
-
-6. Wyrażone w EURO wielkości, o których mowa w ust. 4 i 5, przelicza się na walutę polską według średniego kursu ogłaszanego przez Narodowy Bank Polski, obowiązującego w dniu 30 września roku poprzedzającego rok podatkowy.
-
-7. Minister właściwy do spraw finansów publicznych, w drodze rozporządzenia, określi sposób prowadzenia podatkowej księgi przychodów i rozchodów, szczegółowe warunki, jakim powinna odpowiadać ta księga, aby stanowiła dowód pozwalający na określenie zobowiązań podatkowych, oraz szczegółowy zakres obowiązków związanych z jej prowadzeniem, a także terminy zawiadomienia urzędu skarbowego o prowadzeniu księgi.
-
-**Art. 24b.**
-
-1. Jeżeli ustalenie dochodu (straty) w sposób przewidziany w art. 24 i 24a nie jest możliwe, dochód (stratę) ustala się w drodze oszacowania.
-
-2. W przypadku podatników nie będących podatnikami, o których mowa w art. 3, obowiązanych do prowadzenia ksiąg wymienionych w art. 24a, gdy określenie dochodu na podstawie tych ksi ąg nie jest możliwe, dochód określa się w drodze oszacowania, z zastosowaniem wskaźnika dochodu w stosunku do przychodu w wysokości:
-
-- **1)** 5% - z działalności w zakresie handlu hurtowego lub detalicznego,
-- **2)** 10% - z działalności budowlanej lub montażowej albo w zakresie usług transportowych,
-- **3)** 60% - z działalności w zakresie pośrednictwa, jeżeli wynagrodzenie jest określone w formie prowizji, czoznawstwa,
-- **5)** 20% - z pozostałych źródeł przychodów.
-
-3. Przez pojęcie „działalność w zakresie handlu hurtowego lub detalicznego”, o której mowa w ust. 2 pkt 1, wykonywanej na terytorium Rzeczypospolitej Polskiej przez podatników nie będących podatnikami, o których mowa w art. 3, uważa się odpłatne zbycie towarów polskim odbiorcom – bez względu na miejsce zawarcia umowy, jeżeli podatnicy ci mają na terytorium Rzeczypospolitej Polskiej przedstawicielstwo działające na podstawie zezwolenia udzielonego przez ministra właściwego do spraw gospodarki lub innego właściwego ministra lub wpisu do ewidencji.
-
-4. Przepisów ust. 2 i 3 nie stosuje się, jeżeli umowa w sprawie zapobieżenia podwójnemu opodatkowaniu, której Rzeczpospolita Polska jest stroną, zawarta z krajem, na terytorium którego podatnik ma siedzibę lub miejsce zamieszkania, stanowi inaczej.”;
-
-- **23)** w art. 25:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Jeżeli:
-
-- **1)** podatnik podatku dochodowego mający siedzibę (zarząd) lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, zwany dalej „podmiotem krajowym”, bierze udział bezpośrednio lub pośrednio w zarządzaniu przedsiębiorstwem położonym za granicą lub w jego kontroli albo posiada udział w kapitale tego przedsiębiorstwa, albo
-- **2)** osoba fizyczna lub prawna mająca miejsce zamieszkania albo siedzibę (zarząd) za granicą, zwana dalej „podmiotem zagranicznym”, bierze udział bezpośrednio lub pośrednio w zarządzaniu podmiotem krajowym lub w jego kontroli albo posiada udział w kapitale tego podmiotu krajowego, albo
-- **3)** te same osoby prawne lub fizyczne równocześnie bezpośrednio lub pośrednio biorą udział w zarządzaniu podmiotem krajowym i podmiotem zagranicznym lub w ich kontroli albo posiadają udział w kapitale tych podmiotów – i jeżeli w wyniku takich powiązań zostaną ustalone lub narzucone warunki różniące się od warunków, które ustaliłyby między sobą niezależne podmioty, i w wyniku tego podmiot nie wykazuje dochodów albo wykazuje dochody niższe od tych, jakich należałoby oczekiwać, gdyby wymienione powiązania nie istniały - dochody danego podmiotu oraz należny podatek określa się bez uwzgl ędnienia warunków wynikających z tych powiązań.”,
-    - **b)** ust. 4 otrzymuje brzmienie: „4. Przepisy ust. 1-3 stosuje się odpowiednio, gdy podmiot krajowy:
-
-- **1)** wykorzystuje swój związek z innym podmiotem krajowym, któremu przysługują ulgi w podatku dochodowym lub który, będąc osobą fizyczną, korzysta ze zryczałtowanych form opodatkowania gospodarczą, lub
-- **2)** jest powiązany kapitałowo z innym podmiotem krajowym, lub
-- **3)** pozostaje w związku gospodarczym z innym podmiotem krajowym – i w związku z istnieniem takich powiązań lub związków wykonuje świadczenia na warunkach korzystniejszych, odbiegających od warunków ogólnie stosowanych w czasie i miejscu wykonania świadczenia, w wyniku czego nie wykazuje dochodów albo wykazuje dochody niższe od tych, jakich należałoby oczekiwać, gdyby warunki tych świadczeń nie odbiegały od warunków ogólnie stosowanych w czasie i miejscu wykonywania świadczenia.”,
-    - **c)** w ust. 7 wyrazy „ust. 5” zastępuje się wyrazami „ust. 4 i 5”,
-    - **d)** po ust. 7 dodaje się ust. 7a w brzmieniu: „7a. Związek gospodarczy, o którym mowa w ust. 4 pkt 3, zachodzi w przypadkach, gdy podmioty krajowe pozostające w takim związku układają swoje wzajemne stosunki na warunkach odbiegających od warunków, jakie stosują wobec podmiotów, z którymi nie pozostają w takim związku, bądź jakie stosują między sobą podmioty niezależne, w szczególności gdy między tymi podmiotami krajowymi zawarta jest umowa spółki cywilnej, osobowej spółki handlowej, wspólnego przedsięwzięcia, wspólnego użytkowania rzeczy lub praw oraz umowa kooperacyjna.”;
-
-- **24)** po art. 25 dodaje się art. 25a w brzmieniu: „Art. 25a. 1. Podatnicy dokonujący transakcji z podmiotami powiązanymi z tymi podatnikami - w rozumieniu art. 25 ust. 1 i 4 - lub transakcji, w związku z którymi zapłata należności wynikających z takich transakcji dokonywana jest bezpośrednio lub pośrednio na rzecz podmiotu mającego miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, są obowiązani do sporządzenia dokumentacji podatkowej takiej (takich) transakcji, obejmującej:
-- **1)** określenie funkcji, jakie spełniać będą podmioty uczestniczące w transakcji (uwzględniając użyte aktywa i podejmowane ryzyko),
-- **2)** określenie wszystkich przewidywanych kosztów związanych z transakcją oraz formę i termin zapłaty,
-- **3)** metodę i sposób kalkulacji zysków oraz określenie ceny przedmiotu transakcji,
-- **4)** określenie strategii gospodarczej oraz innych działań w jej ramach - w przypadku gdy na wartość transakcji miała wpływ strategia przyjęta przez podmiot,
-- **5)** wskazanie innych czynników - w przypadku gdy w celu określenia wartości przedmiotu transakcji przez podmioty uczestniczące w transakcji uwzględnione zostały te inne czynniki, rządzenia dokumentacji korzyści związanych z uzyskaniem świadczeń - w przypadku umów dotyczących świadczeń (w tym usług) o charakterze niematerialnym.
-
-2. Obowiązek, o którym mowa w ust. 1, obejmuje transakcję lub transakcje między podmiotami powiązanymi, w których łączna kwota (lub jej równowartość) wynikająca z umowy lub rzeczywiście zapłacona w roku podatkowym łączna kwota wymagalnych w roku podatkowym świadczeń przekracza równowartość:
-
-- **1)** 30 000 EURO - w przypadku świadczenia usług, sprzedaży lub udostępnienia wartości niematerialnych i prawnych, albo
-- **2)** 50 000 EURO - w pozostałych przypadkach.
-
-3. Obowiązek sporządzenia dokumentacji, o którym mowa w ust. 1, obejmuje również transakcję, w związku z którą zapłata należności wynikająca z takiej transakcji dokonywana jest bezpośrednio lub pośrednio na rzecz podmiotu mającego miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, jeżeli łączna kwota (lub jej równowartość) wynikająca z umowy lub rzeczywiście zapłacona w roku podatkowym łączna kwota wymagalnych w roku podatkowym świadczeń przekracza równowartość 20 000 EURO.
-
-4. Na żądanie organów podatkowych lub organów kontroli skarbowej podatnicy są obowiązani do przedłożenia dokumentacji, o której mowa w ust. 1-3, w terminie 7 dni od dnia doręczenia żądania tej dokumentacji przez te organy.
-
-5. Wyrażone w EURO wielkości, o których mowa w ust. 2 i 3, przelicza się na walutę polską po średnim kursie ogłaszanym przez Narodowy Bank Polski, obowiązującym w ostatnim dniu roku podatkowego poprzedzającego rok podatkowy, w którym została zawarta transakcja objęta obowiązkiem, o którym mowa w ust. 1.
-
-6. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wykaz krajów i terytoriów stosujących szkodliwą konkurencję podatkową. Sporządzając wykaz krajów i terytoriów, minister właściwy do spraw finansów publicznych uwzględnia w szczególności treść ustaleń w tym zakresie podjętych przez Organizację Współpracy Gospodarczej i Rozwoju (OECD).";
-
-- **25)** w art. 26: 21 i 52,”, – skreśla się pkt 8, – w pkt 9 na końcu kropkę zastępuje się przecinkiem i dodaje pkt 10 w brzmieniu: „10) kwoty równej funduszowi wynagrodzeń przysługujących osobom pozbawionym wolności i zatrudnionym u podatnika innego niż przywięzienny zakład pracy, o którym mowa w odrębnych przepisach.”,
-    - **a)** w ust. 1: – wyrazy „ust. 4-7” zastępuje się wyrazami „ust. 4-6 i 8-12 lub art. 24b ust. 1 i 2”, – skreśla się pkt 1, – pkt 2 otrzymuje brzmienie: „2) składek, określonych w przepisach o systemie ubezpieczeń społecznych:
-    - **a)** zapłaconych bezpośrednio na własne ubezpieczenia emerytalne, rentowe, chorobowe oraz wypadkowe podatnika oraz kosztów uzyskania przychodów,
-    - **b)** potrąconych przez płatnika ze środków podatnika na ubezpieczenia emerytalne i rentowe oraz na ubezpieczenie chorobowe, z tym że w przypadku podatnika osiągającego przychody określone w art. 12 ust. 6, tylko w części obliczonej, w sposób określony w art. 33 ust. 4, od przychodu podlegającego opodatkowaniu – odliczenie nie dotyczy składek, których podstawę wymiaru stanowi dochód (przychód) wolny od podatku na podstawie art.
-    - **b)** skreśla się ust. 2-4,
-    - **c)** ust. 7 otrzymuje brzmienie: „7. Wysokość wydatków na cele określone w ust. 1 ustala się na podstawie dokumentów stwierdzających ich poniesienie.”,
-    - **d)** po ust. 7 dodaje się ust. 7a-7g w brzmieniu: „7a. Za wydatki, o których mowa w ust. 1 pkt 6, uważa się wydatki poniesione na:
-
-- **1)** adaptację i wyposażenie mieszkań oraz budynków mieszkalnych stosownie do potrzeb wynikających z niepełnosprawności,
-- **2)** przystosowanie pojazdów mechanicznych do potrzeb wynikających z niepełnosprawności,
-- **3)** zakup i naprawę indywidualnego sprzętu, urządzeń i narzędzi technicznych niezbędnych w rehabilitacji oraz ułatwiających wykonywanie czynności życiowych, stosownie do potrzeb wynikających z niepełnosprawności,
-- **4)** zakup wydawnictw i materiałów (pomocy) szkoleniowych, stosownie do potrzeb wynikających z niepełnosprawności,
-- **5)** odpłatność za pobyt na turnusie rehabilitacyjno-usprawniającym,
-- **6)** odpłatność za pobyt na leczeniu sanatoryjnym, za pobyt w placówkach leczniczo-sanatoryjnych, rehabilitacyjno-szkoleniowych, leczniczo-opiekuńczych, opiekuńczo-pielęgnacyjnych, leczniczo-wychowawczych i szkolno-wychowawczych oraz odpłatność za zabiegi rehabilitacyjno-usprawniające,
-- **7)** opłacenie przewodników osób niewidomych I lub II grupy inwalidztwa oraz osób z niepełnosprawnością narządu ruchu zaliczonych do I grupy inwalidztwa, w kwocie nie przekraczającej w roku podatkowym trzykrotności najniższego wynagrodzenia za pracę poprzedzającego rok podatkowy,
-- **8)** utrzymanie przez osoby niewidome, o których mowa w pkt 7, psa przewodnika - w wysokości nie przekraczającej w roku podatkowym kwoty określonej w pkt 7,
-- **9)** opiekę pielęgniarską w domu nad osobą niepełnosprawną w okresie przewlekłej choroby uniemożliwiającej poruszanie się oraz usługi opiekuńcze świadczone dla osób niepełnosprawnych zaliczonych do I grupy inwalidztwa,
-- **10)** opłacenie tłumacza języka migowego,
-- **11)** kolonie i obozy dla dzieci i młodzieży niepełnosprawnej oraz dzieci osób niepełnosprawnych,
-- **12)** leki - w wysokości stanowiącej różnicę pomiędzy faktycznie poniesionymi wydatkami w danym miesiącu a kwotą odpowiadającą 20% najniższego wynagrodzenia za pracę, ogłaszanego na podstawie odrębnych przepisów, za grudzień roku poprzedzającego rok podatkowy, jeśli lekarz specjalista stwierdzi, że osoba niepełnosprawna powinna stosować określone leki (stale lub czasowo),
-- **13)** odpłatny, konieczny przewóz na niezbędne zabiegi leczniczorehabilitacyjne:
-    - **a)** osoby niepełnosprawnej - karetką transportu sanitarnego,
-    - **b)** osoby niepełnosprawnej, zaliczonej do I lub II grupy inwalidztwa, oraz dzieci niepełnosprawnych do lat 16 - również innymi środkami transportu niż wymienione w lit. a),
-
-- **14)** używanie samochodu osobowego, stanowiącego własność osoby niepełnosprawnej zaliczonej do I lub II grupy inwalidztwa lub podatnika mającego na utrzymaniu osobę niepełnosprawną zaliczoną do I lub II grupy inwalidztwa albo dzieci niepełnosprawne do lat 16, dla potrzeb związanych z koniecznym przewozem na niezbędne zabiegi leczniczo-rehabilitacyjne - w wysokości nie przekraczającej w roku podatkowym kwoty określonej w pkt 7,
-- **15)** odpłatne przejazdy środkami transportu publicznego związane z pobytem na:
-    - **a)** turnusie rehabilitacyjno-usprawniającym,
-    - **b)** leczeniu sanatoryjnym w placówkach leczniczo-sanatoryjnych, rehabilitacyjno-szkoleniowych, leczniczo-opiekuńczych, opiekuńczo-pielęgnacyjnych, leczniczo-wychowawczych oraz szkolno-wychowawczych,
-    - **c)** koloniach i obozach dla dzieci i młodzieży niepełnosprawnej oraz dzieci osób niepełnosprawnych.
-
-7b. Wydatki, o których mowa w ust. 7a, podlegają odliczeniu od dochodu, jeżeli nie były finansowane ze środków zakładowego funduszu rehabilitacji osób niepełnosprawnych, Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych lub ze środków Kas Chorych, albo nie zostały zwrócone podatnikowi w jakiejkolwiek innej formie. W przypadku gdy wydatki były częściowo finansowane z tych funduszy (środków), sfinansowaną z tych funduszy (środków) lub zwróconą z jakichkolwiek innych środków.
-
-7c. Podstawą do odliczenia wydatków, o których mowa w ust. 7a, jest posiadanie dowodu poniesienia tych wydatków, z wyjątkiem wydatków, o których mowa w ust. 7a pkt 7, 8 i 14.
-
-7d. Warunkiem odliczenia wydatków, o których mowa w ust. 7a, jest posiadanie przez osobę, której dotyczy wydatek:
-
-- **1)** orzeczenia o zakwalifikowaniu przez organy orzekające do jednego z trzech stopni niepełnosprawności, określonych w odrębnych przepisach, lub
-- **2)** decyzji przyznającej rentę z tytułu całkowitej lub częściowej niezdolności do pracy albo rentę szkoleniową, albo
-- **3)** orzeczenia o rodzaju i stopniu niepełnosprawności osoby, która nie ukończyła 16 roku życia, wydanego na podstawie odrębnych przepisów.
-
-7e. Przepisy ust. 7a-7d stosuje się odpowiednio do podatników, na których utrzymaniu pozostają następujące osoby niepełnosprawne: małżonek, dzieci własne i przysposobione, dzieci obce przyjęte na wychowanie, pasierbowie, rodzice, rodzice małżonka, rodzeństwo, ojczym, macocha, zięciowie i synowe - jeżeli w roku podatkowym dochody tych osób niepełnosprawnych nie przekraczają dwunastokrotności kwoty najniższego wynagrodzenia za pracę, ogłaszanego na podstawie odrębnych przepisów, za grudzień roku poprzedzającego rok podatkowy.
-
-7f. Ilekroć w przepisach ust. 7a jest mowa o osobach zaliczonych do:
-
-- **1)** I grupy inwalidztwa - należy przez to rozumieć odpowiednio osoby, w stosunku do których, na podstawie odrębnych przepisów, orzeczono:
-    - **a)** całkowitą niezdolność do pracy oraz niezdolność do samodzielnej egzystencji albo
-    - **b)** znaczny stopień niepełnosprawności,
-
-- **2)** II grupy inwalidztwa - należy przez to rozumieć odpowiednio osoby, w stosunku do których, na podstawie odrębnych przepisów, orzeczono:
-    - **a)** całkowitą niezdolność do pracy albo
-    - **b)** umiarkowany stopień niepełnosprawności.
-
-7g. Odliczenia, o których mowa w ust. 7a, mogą być dokonane również w przypadku, gdy osoba której dotyczy wydatek, posiada orzeczenie o niepełnosprawności wydane przez właściwy organ na podstawie odrębnych przepisów obowiązujących do dnia 31 sierpnia 1997 r. lub w odniesieniu do dzieci do lat 16 orzeczenie o niepełnosprawności wydane przez lekarza specjalistę.",
-
-- **e)** skreśla się ust. 8-12 i ust. 14;
-- **26)** skreśla się art. 26a;
-- **27)** w art. 27: „ustala” zastępuje się wyrazem „określa”,
-    - **b)** po ust. 6 dodaje się ust. 7 w brzmieniu: „7. Jeżeli organy podatkowe lub organy kontroli skarbowej określą, na podstawie art. 25, dochód podatnika w wysokości wyższej (stratę w wysokości niższej) niż zadeklarowana przez podatnika w związku z dokonaniem transakcji, o których mowa w art. 25a, a podatnik nie przedstawi tym organom wymaganej przez te przepisy dokumentacji podatkowej - różnicę między dochodem zadeklarowanym przez podatnika a określonym przez te organy opodatkowuje się stawką 50%.";
-
-- **28)** w art. 27a:
-    - **a)** w ust. 1: - w zdaniu pierwszym po wyrazach „z art. 27,” dodaje się wyrazy „obniżony zgodnie z art. 27b o kwotę składki na powszechne ubezpieczenie zdrowotne”, - pkt 3 otrzymuje brzmienie: „3) poniósł wydatki na:
-    - **a)** dojazd dzieci własnych i przysposobionych do szkół podstawowych, gimnazjów, szkół ponadpodstawowych i ponadgimnazjalnych, w tym z oddziałami integracyjnymi, szkół specjalnych, sportowych oraz mistrzostwa sportowego i szkół artystycznych, położonych poza miejscowością stałego lub czasowego zamieszkania dzieci,
-    - **b)** zakup przyrządów i pomocy naukowych, programów komputerowych oraz wydawnictw fachowych bezpośrednio związanych z wykonywanym zawodem i wykonywaną pracą,
-    - **c)** odpłatne dokształcanie i doskonalenie zawodowe podatnika,
-    - **d)** odpłatne kształcenie w szkołach wyższych, w rozumieniu przepisów o szkolnictwie wyższym lub przepisów o wyższych szkołach zawodowych.”,
-    - **b)** w ust. 3 w pkt 1: − w lit. d) wyrazy „pracowników, określonego w odrębnych przepisach” zastępuje się wyrazami „za pracę, ogłaszanego na podstawie odrębnych przepisów”, − skreśla się lit. e) i f), − w lit. g) wyrazy „lit. e)” zastępuje się wyrazami „lit. c)”, a wyrazy „pracowników, określonego w odrębnych przepisach” wyrazami „za pracę, ogłaszanego na podstawie odrębnych przepisów”, − w lit. h) wyrazy „lit. f)” zastępuje się wyrazami „lit. d)”, a wyrazy „pracow-ników, określonego w odrębnych przepisach” wyrazami „za pracę, ogłaszanego na podstawie odrębnych przepisów”,
-    - **c)** po ust 5 dodaje się ust 5a w brzmieniu: „5a. Odliczeniu od podatku podlegają wydatki, o których mowa w ust. 1 pkt 1 lit. b)-f), dokonywane dla danej inwestycji wynikającej z jeddłuższym niż cztery kolejne lata, licząc od początku roku podatkowego, za który podatnik po raz pierwszy dokonał odliczeń związanych z tą inwestycją.”,
-    - **d)** w ust. 6: − pkt 1 otrzymuje brzmienie: „1) wysokość wydatków na cele wymienione w ust. 1 pkt 1 lit. b) i
-    - **d)** -g) i pkt 3 lit. b) ustala się na podstawie faktury wystawionej wyłącznie przez podatnika podatku od towarów i usług, nie korzystającego ze zwolnienia od tego podatku, lub dowodu odprawy celnej, a w przypadku wpłat na wyodrębniony fundusz remontowy wspólnoty mieszkaniowej - na podstawie dowodu tej wpłaty,”, − skreśla się pkt 3,
-    - **e)** po ust. 7a dodaje się ust. 7b i 7c w brzmieniu: „7b. Za wydatki, o których mowa w ust. 1 pkt 3 lit. c), podlegające odliczeniu, uważa się wydatki z tytułu:
-
-- **1)** dokształcania w formach szkolnych i pozaszkolnych, określonych w przepisach w sprawie zasad i warunków podnoszenia kwalifikacji zawodowych i wykształcenia ogólnego dorosłych,
-- **2)** poddania się egzaminowi na tytuł kwalifikacyjny,
-- **3)** nauki języka obcego w formach zorganizowanych przez podmioty prowadzące działalność w tym zakresie.
-
-7c. Wydatki, o których mowa w ust. 7b, podlegają odliczeniu, jeżeli:
-
-- **1)** nie zostały odliczone od podatku, na podstawie ust. 1 pkt 3 lit. d),
-- **2)** nie zostały zaliczone do kosztów uzyskania przychodów lub nie zostały zwrócone podatnikowi w jakiejkolwiek formie.",
-    - **f)** w ust. 8: - w zdaniu pierwszym skreśla się wyrazy „i e)” oraz po wyrazie „małżonków” dodaje się przecinek i wyrazy „z wyjątkiem małżonków, w stosunku do których orzeczono separację”, - pkt 3 otrzymuje brzmienie: „3) w czasie trwania związku małżeńskiego lub do momentu orzeczenia separacji korzystali, w okresie obowiązywania ustawy, z odliczeń od podatku na cele określone w ust. 1 pkt 1 i 2, a następnie związek małżeński ustał lub orzeczona została separacja - przysługująca każdemu z nich kwota odliczenia podlega zmniejszeniu o kwotę odliczeń dokonanych w czasie trwania związku małżeńskiego lub do momentu orzeczenia separacji, w wysokości po 50% tych odliczeń, jeżeli byli opodatkowani łącznie, a jeżeli byli opodatkowani odrębnie - w wysokości odliczenia dokonanego przez każdego z nich.”,
-    - **g)** skreśla się ust. 9, „podatku dochodowego” dodaje się wyrazy „oraz dochodów w wysokości nie powodującej obowiązku zapłaty podatku”,
-    - **i)** w ust. 11 ostatnie zdanie otrzymuje brzmienie: „W ramach limitu przysługującego rodzicom wydatki poniesione na rzecz dzieci własnych i przysposobionych odlicza się od podatku jednego z rodziców lub od podatku obojga, w proporcji określonej przez nich w zeznaniach rocznych.”,
-    - **j)** w ust. 18 skreśla się wyrazy "i w art. 26 ust. 2",
-    - **k)** skreśla się ust. 21;
-
-- **29)** w art. 27b w ust. 1:
-    - **a)** w pkt 2 kropkę zastępuje się przecinkiem i dodaje wyrazy ”z tym że w przypadku podatnika osiągającego przychody określone w art. 12 ust. 6, tylko w części obliczonej, w sposób określony w art. 33 ust. 4, od przychodu podlegającego opodatkowaniu”,
-    - **b)** po pkt 2 dodaje się tiret w brzmieniu: „ − obniżenie nie dotyczy składek, których podstawę wymiaru stanowi dochód (przychód) wolny od podatku na podstawie art. 21 i 52.”;
-
-- **30)** po art. 27b dodaje się art. 27c w brzmieniu: „Art. 27c. 1. Podatnicy, uzyskujący przychody wymienione w art. 10 ust. 1 pkt 3, mogą korzystać z ulgi polegającej na obniżeniu podatku dochodowego z tytułu szkolenia uczniów, zwanej dalej „ulgą uczniowską”.
-
-2. Ulga uczniowska, o której mowa w ust. 1, przysługuje osobom fizycznym prowadzącym działalność gospodarczą, w tym również w formie spółki prawa cywilnego, uprawnionym na mocy odrębnych przepisów do szkolenia uczniów i zatrudniającym w ramach prowadzonej działalności pracowników w celu nauki zawodu. Ulga ta przysługuje także w przypadku, gdy uprawnionym do szkolenia uczniów jest przynajmniej jeden ze wspólników lub pracownik osoby (spółki) prowadzącej działalność gospodarczą.
-
-3. Ulga uczniowska przysługuje, jeżeli szkolenie zostało zakończone pozytywnym wynikiem egzaminu.
-
-4. Ulga uczniowska nie przysługuje za wyszkolenie pracownika będącego już wykwalifikowanym pracownikiem (czeladnikiem) w tym samym lub w innym zawodzie.
-
-5. Wysokość ulgi uczniowskiej za wyszkolenie jednego pracownika zależy od okresu szkolenia wynikającego z umowy o pracę.
-
-6. Ulga uczniowska z tytułu wyszkolenia jednego pracownika stanowi równowartość:
-
-- **1)** sześciokrotności najniższego wynagrodzenia za pracę ogłaszanego na podstawie odrębnych przepisów, określonego za miesiąc, w którym zakończono szkolenie pozytywnym wynikiem egzaminu - przy okresie szkolenia do 24 miesięcy, przy okresie szkolenia ponad 24 miesiące.
-
-7. Ulgę uczniowską stosuje się od miesiąca następującego po miesiącu, w którym została wydana decyzja o przyznaniu ulgi.
-
-8. Kwoty ulg uczniowskich, określone w ust. 6, podwyższa się o 20% podatnikom, którzy prowadzą działalność gospodarczą w miejscowościach o liczbie mieszkańców do 5 000 oraz w gminach o szczególnym zagrożeniu wysokim bezrobociem strukturalnym, określonych w odrębnych przepisach. Podwyżka ulgi uczniowskiej o 20% przysługuje także wtedy, gdy po zakończeniu szkolenia gmina, w której prowadzona jest działalność, wykreślona została z wykazu gmin zagrożonych szczególnie wysokim bezrobociem strukturalnym.
-
-9. Kwoty ulg uczniowskich, określone w ust. 6 i 8, dodatkowo podwyższa się o 20% podatnikom, którzy w danym roku podatkowym zakończyli szkolenie więcej niż jednego pracownika; podwyżka przysługuje z tytułu zakończenia szkolenia pozytywnym wynikiem egzaminu każdego następnego pracownika.
-
-10. Ulga uczniowska przysługuje, jeżeli zatrudnienie pracownika w celu nauki zawodu trwało przez cały okres szkolenia wynikający z umowy o pracę w celu nauki zawodu.
-
-11. Jeżeli umowa o pracę w celu przygotowania zawodowego została rozwiązana z przyczyn niezależnych od podatnika, a pracownik podjął naukę zawodu na podstawie umowy o pracę w celu przygotowania zawodowego u innego podatnika - przysługującą z tytułu wyszkolenia ulgę uczniowską dzieli się między obydwu podatników, proporcjonalnie do liczby miesięcy prowadzonego przez nich szkolenia. Jeżeli rozwiązanie umowy nastąpiło z winy szkolącego podatnika, ulga uczniowska przysługuje w wysokości proporcjonalnej do okresu szkolenia tylko temu podatnikowi, u którego pracownik ukończył naukę zawodu.
-
-12. Jeżeli działalność jest prowadzona w formie spółki, ulga uczniowska przysługuje wspólnikom proporcjonalnie do ich udziału w dochodach spółki. W przypadku zmiany wspólnika w ciągu okresu szkolenia, przepis ust. 11 stosuje się odpowiednio.
-
-13. Przepisy ust. 1-12 stosuje się odpowiednio do podatników, którzy na podstawie umowy zawartej ze szkołą prowadzą zajęcia praktyczne lub praktyki zawodowe uczniów szkół zasadniczych, techników, liceów zawodowych i policealnych szkół zawodowych, zwane dalej „praktyczną nauką zawodu”, pod warunkiem że praktyczna nauka zawodu trwała nie krócej niż 10 miesięcy.
-
-14. Wniosek o przyznanie ulg uczniowskich, o których mowa w ust 1, podatnik jest obowiązany złożyć w urzędzie skarbowym właściwym według miejsca zamieszkania podatnika w terminie miesiąca od daty złożenia przez pracownika egzaminu kończącego naukę zawodu, a w przypadku, o którym mowa w ust. 13 - w terminie miesiąca od daty zakończenia przez ucznia odbywania u podatnika praktycznej nauki zawodu. Podatnik jest obowiązany dołączyć do wniosku dokument stwierdzający datę złożenia przez tywnym, a w przypadku, o którym mowa w ust. 11, również oświadczenie stwierdzające przyczyny krótszego okresu szkolenia. Wniosek o ulgę uczniowską, o której mowa w ust. 13, powinien zawierać następujące dane: datę zawarcia ze szkołą umowy o praktyczną naukę zawodu, imię i nazwisko ucznia, datę rozpoczęcia i zakończenia przez ucznia odbywania u podatnika praktycznej nauki zawodu.
-
-15. Jeżeli podatnik w okresie korzystania z ulgi uczniowskiej zmieni formę opodatkowania i jest opodatkowany w sposób określony w ustawie o zryczałtowanym podatku dochodowym, nie wykorzystaną część ulgi w podatku dochodowym odlicza od podatku pobieranego w formie ryczałtu od przychodów ewidencjonowanych lub w formie karty podatkowej.
-
-16. W razie uchybienia terminu, o którym mowa w ust. 14, stosuje się przepisy art. 162-164 Ordynacji podatkowej.”;
-
-- **31)** art. 29 otrzymuje brzmienie: “Art. 29. 1. Podatek dochodowy od uzyskanych na terytorium Rzeczypospolitej Polskiej przez osoby, o których mowa w art. 4, przychodów:
-- **1)** z działalności określonej w art. 13 pkt 2 i 6-8 oraz z odsetek, z praw autorskich lub z praw pokrewnych, z praw do projektów wynalazczych, znaków towarowych i wzorów zdobniczych, w tym również ze sprzedaży tych praw, z należności za udostępnienie tajemnicy receptury lub procesu produkcyjnego, za użytkowanie lub prawo do użytkowania urządzenia przemysłowego, handlowego lub naukowego, w tym także środka transportu, oraz za informacje związane ze zdobytym doświadczeniem w dziedzinie przemysłowej, handlowej lub naukowej (know-how) – pobiera się w formie ryczałtu w wysokości 20% przychodu,
-- **2)** z opłat za usługi w zakresie działalności widowiskowej, rozrywkowej lub sportowej, wykonywanej przez osoby fizyczne mające miejsce zamieszkania za granicą, a organizowanej za pośrednictwem osób fizycznych lub osób prawnych prowadzących działalność w zakresie imprez artystycznych, rozrywkowych lub sportowych na terytorium Rzeczypospolitej Polskiej – pobiera się w formie ryczałtu w wysokości 20% przychodu,
-- **3)** z tytułu należnych opłat za wywóz ładunków i pasażerów przyjętych do przewozu w portach polskich przez zagraniczne przedsiębiorstwa morskiej żeglugi handlowej, z wyjątkiem ładunków i pasażerów tranzytowych – pobiera się w formie ryczałtu w wysokości 10% przychodów,
-- **4)** uzyskanych na terytorium Rzeczypospolitej Polskiej przez zagraniczne przedsiębiorstwa żeglugi powietrznej – pobiera się w formie ryczałtu w wysokości 10% przychodów.
-
-2. Przepisy ust. 1 stosuje się z uwzględnieniem umów w sprawie zapobieżenia podwójnemu opodatkowaniu, których stroną jest wynikającej z umowy w sprawie zapobieżenia podwójnemu opodatkowaniu jest możliwe wyłącznie po uzyskaniu od podatnika zaświadczenia o jego miejscu zamieszkania lub siedzibie za granicą dla celów podatkowych, wydanego przez właściwą administrację podatkową (certyfikat rezydencji).”;
-
-- **32)** w art. 30 w ust. 1: 1 pkt 6, 6a i 68 - w wysokości 10% wygranej lub nagrody,”,
-    - **a)** pkt 1 otrzymuje brzmienie: „1) z odsetek od pożyczek, z wyjątkiem gdy udzielanie pożyczek jest przedmiotem działalności gospodarczej, z odsetek i dyskonta od papierów wartościowych - w wysokości 20% uzyskanego przychodu,”,
-    - **b)** po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) z dywidend i innych przychodów z tytułu udziału w zyskach osób prawnych - w wysokości 15% uzyskanego przychodu,”,
-    - **c)** pkt 2 otrzymuje brzmienie: „2) z tytułu wygranych w konkursach, grach i zakładach wzajemnych lub nagród związanych ze sprzedażą premiową, z zastrzeżeniem art. 21 ust.
-    - **d)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Przepisy ust. 1 pkt 1-1a stosuje się z uwzględnieniem umów w sprawie zapobieżenia podwójnemu opodatkowaniu, których stroną jest Rzeczpospolita Polska, z tym że zastosowanie stawki wynikającej z tych umów jest możliwe wyłącznie po uzyskaniu od podatnika zaświadczenia o jego miejscu zamieszkania lub siedzibie za granicą dla celów podatkowych wydanego przez właściwą administrację podatkową (certyfikat rezydencji).”;
-
-- **33)** w art. 32:
-    - **a)** w ust. 1: − w pkt 1 wyrazy „20%” zastępuje się wyrazami „19%”, − w pkt 2 wyrazy „32%” zastępuje się wyrazami „30%”, − w pkt 3 wyrazy „44%” zastępuje się wyrazami „40%”,
-    - **b)** w ust. 1a: − w pkt 1 wyrazy „20%” zastępuje się wyrazami „19%”, − pkt 2 otrzymuje brzmienie: „2) dochody podatnika przekroczą górną granicę pierwszego lub drugiego przedziału skali, a odpowiednio małżonek lub dziecko nie uzyskują żadnych dochodów z wyjątkiem renty rodzinnej lub dochody małżonka mieszczą się w niższych przedziałach skali - zaliczki za miesiące od początku roku włącznie do miesiąca, w którym dochód podatnika przekroczył górną granicę drugiego przedziału skali, wynoszą 19%, a za miesiące następujące po tym miesiącu 30% dochodu uzyskanego w danym miesiącu.”,
-    - **c)** skreśla się ust. 1d, - po wyrazach "o którym mowa w ust. 1" dodaje się wyrazy "i ust. 1a", - po wyrazach „art. 12” dodaje się wyrazy „oraz zasiłki pieniężne z ubezpieczenia społecznego wypłacane przez płatnika”, - po wyrazach „pkt 2” dodaje się wyrazy „lit. b)”,
-    - **e)** ust. 3b po wyrazach „art. 27b” dodaje się wyrazy „ust. 1 pkt 2 i”;
-
-- **34)** w art. 33:
-    - **a)** w ust. 2 wyrazy „art. 32 ust. 1-1d” zastępuje się wyrazami „art. 32 ust. 11c”,
-    - **b)** w ust. 3 po wyrazach „pkt 2” dodaje się wyrazy „lit. b), obliczonych od przychodu podlegającego opodatkowaniu”,
-    - **c)** w ust. 3a po wyrazach „art. 27b” dodaje się wyrazy „ust. 1 pkt 2 i” oraz skreśla się ostatnie zdanie,
-    - **d)** ust. 4 otrzymuje brzmienie: „4. Po zakończeniu roku podatkowego płatnicy, o których mowa w ust. 1, określają za ten rok, według zasad wynikających z ust. 3, udział dochodu zwolnionego od podatku dochodowego od osób prawnych w ogólnej kwocie wypłat z tytułu dniówek obrachunkowych oraz kwoty składek na ubezpieczenia społeczne i zdrowotne obliczonych od przychodów podlegających opodatkowaniu i rozliczają podatek zgodnie z art. 3740.”,
-    - **e)** po ust. 4 dodaje się ust. 5 i 6 w brzmieniu: „5. W ewidencji księgowej dochodów i kosztów, prowadzonej przez rolnicze spółdzielnie produkcyjne lub inne spółdzielnie zajmujące się produkcją rolną, powinny być wyodrębnione dochody i koszty dotyczące produkcji rolniczej roślinnej i zwierzęcej nie polegającej na prowadzeniu działów specjalnych produkcji rolnej.
-
-6. Przy ustalaniu wyodrębnionych dochodów i kosztów z działalności, o której mowa w ust. 5, stosuje się odpowiednio zasady obowiązujące przy ewidencjonowaniu dochodów i kosztów z całokształtu działalności spółdzielni.”;
-
-- **35)** w art. 34:
-    - **a)** w ust. 2 wyrazy „art. 32 ust. 1-1d” zastępuje się wyrazami „art. 32 ust. 11c”,
-    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Organ rentowy na wniosek podatnika oblicza i pobiera zaliczki na podatek dochodowy w ciągu roku bez pomniejszania o kwotę określoną w art. 32 ust. 3, począwszy od miesiąca następującego po miesiącu, w którym został złożony wniosek.”,
-    - **c)** ust. 3 otrzymuje brzmienie: „3. Zaliczka, o której mowa w ust. 1, od zasiłków z ubezpieczenia społecznego wypłaconych bezpośrednio przez organ rentowy wynosi 19% kwoty zasiłków.",
-    - **e)** w ust. 9: − w pkt 2 wyrazy „pkt 1, 2 i 5-9” zastępuje się wyrazami „pkt 2, 5-7 i 9”, − po wyrazach „art. 27b” dodaje się wyrazy „ust. 1 pkt 2 i”;
-
-- **36)** w art. 35:
-    - **a)** w ust. 1: − w pkt 3 skreśla się wyrazy „pomniejszonych o składki potrącone przez płatnika w danym miesiącu na ubezpieczenia emerytalne i rentowe oraz na ubezpieczenie chorobowe,”, − w pkt 6 skreśla się kropkę i po pkt 6 dodaje się tiret w brzmieniu: „− pomniejszonych o składki potrącone przez płatnika w danym miesiącu na ubezpieczenia emerytalne i rentowe oraz na ubezpieczenie chorobowe, o których mowa w art. 26 ust. 1 pkt 2.”,
-    - **b)** w ust. 3 wyrazy „art. 32 ust. 1-1d” zastępuje się wyrazami „art.32 ust. 11c”,
-    - **c)** w ust. 5 wyrazy „20%” zastępuje się wyrazami „19%”,
-    - **d)** w ust. 6 wyrazy „20%” zastępuje się wyrazami „19%”,
-    - **e)** skreśla się ust. 8,
-    - **f)** w ust. 9 po wyrazach „art. 27b” dodaje się wyrazy „ust. 1 pkt 2 i”;
-
-- **37)** w art. 37:
-    - **a)** w ust. 1: − w pkt 2 wyrazy „pkt 1, 2, 4 i 6-9” zastępuje się wyrazami „pkt 2, 4, 6-7 i 9”, − skreśla się ostatnie zdanie,
-    - **b)** ust. 1a otrzymuje brzmienie: „1a. Przy dokonywaniu rocznego obliczenia podatku, o którym mowa w ust. 1, płatnik:
-
-- **1)** uwzględnia koszty, o których mowa w art. 22 ust. 11,
-- **2)** odlicza od dochodu potrącone w ciągu roku składki na ubezpieczenia emerytalne i rentowe oraz na ubezpieczenie chorobowe, o których mowa w art. 26 ust. 1 pkt 2 lit. b),
-- **3)** na wniosek podatnika odlicza od dochodu:
-    - **a)** wydatki na cele określone w art. 26 ust. 1 pkt 3 - do wysokości wynikającej z przedstawionych przez podatnika dokumentów stwierdzających poniesienie tych wydatków,
-    - **b)** zwrócone płatnikowi świadczenia, o których mowa w art. 26 ust. 1 pkt 5 - jeżeli nie zostały one potrącone od dochodu przy poborze zaliczek,
-
-- **4)** odlicza od podatku kwotę składki na ubezpieczenie zdrowotne pobranej w roku podatkowym zgodnie z przepisami o powszechpkt 2 i ust. 2.”,
-    - **c)** po ust. 1a dodaje się ust. 1b w brzmieniu: „1b. Podatek wynikający z obliczenia rocznego przez płatnika jest podatkiem dochodowym należnym od podatnika za dany rok, chyba że urząd skarbowy wyda decyzję określającą inną wysokość zobowiązania w podatku dochodowym.”;
-
-- **38)** w art. 38:
-    - **a)** w ust. 1 po wyrazach „siedziby płatnika” dodaje się wyrazy „ , a w przypadku braku siedziby według miejsca zamieszkania płatnika” oraz po wyrazach „art. 27b” dodaje się wyrazy „ust. 1 pkt 2 i”,
-    - **b)** ust. 2 otrzymuje brzmienie: „2. Płatnicy będący zakładami pracy chronionej lub zakładami aktywności zawodowej kwoty pobranych zaliczek na podatek od przychodów z tytułów określonych w art. 12 oraz od zasiłków pieniężnych z ubezpieczenia społecznego, wypłacanych przez tych płatników:
-
-- **1)** za miesiące od początku roku do miesiąca włącznie, w którym dochód podatnika uzyskany od początku roku u tego płatnika przekroczył kwotę stanowiącą górną granicę pierwszego przedziału skali, o której mowa w art. 27 ust. 1, przekazują:
-    - **a)** w 10% na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych,
-    - **b)** w 90% na zakładowy fundusz rehabilitacji osób niepełnosprawnych,
-
-- **2)** za miesiące następujące po miesiącu, w którym dochód podatnika uzyskany od początku roku u tego płatnika przekroczył kwotę, o której mowa w pkt 1, przekazują na zasadach określonych w ust.
-
-1. ”;
-
-- **39)** w art. 39 w ust. 1 po wyrazach „ust. 1 pkt 2” dodaje się wyrazy „lit. b)” oraz po wyrazach „art. 27b” dodaje wyrazy „ust. 1 pkt 2 i”;
-- **40)** w art. 41:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Osoby fizyczne będące przedsiębiorcami oraz osoby prawne i jednostki organizacyjne nie mające osobowości prawnej, które dokonują wypłaty należności osobom określonym w art. 3 z tytułu działalności określonej w art. 13 pkt 2 i 5-9, z praw autorskich i praw pokrewnych w rozumieniu odrębnych przepisów oraz z praw do projektów wynalazczych, topografii i układów scalonych, znaków towarowych i wzorów zdobniczych, w tym również z tytułu zakupu tych praw, są obowiązane jako płatnicy pobierać, z zastrzeżeniem ust. 4, zaliczki na podatek dochodowy w wysokości 20% należności pomniejszonej o koszty uzyskania przychodów w wysokości określonej w art. 22 ust. 9, oraz pomniejszonej o składki potrącone przez płatnika w danym miesiącu na ubezpieczenia emerytalne i rentowe oraz na ubezpieczenie chorobowe, o których mowa w art. 26 ust. 1 pkt 2 lit. b).”,
-    - **b)** w ust. 1a po wyrazach „art. 27b” dodaje się wyrazy „ust. 1 pkt 2 i”, podmioty uprawnione na podstawie odrębnych przepisów do prowadzenia gier i zakładów wzajemnych”,
-    - **d)** w ust. 5 wyrazy „uprawomocnienia się uchwały zgromadzenia członków o podwyższeniu funduszu udziałowego” zastępuje się wyrazami „podjęcia przez walne zgromadzenie uchwały dotyczącej podwyższenia funduszu udziałowego”,
-    - **e)** ust. 7 otrzymuje brzmienie: „7. Jeżeli przedmiotem wygranych: w grach liczbowych, loteriach pieniężnych, zakładach wzajemnych, loteriach promocyjnych, loteriach audioteksowych i loteriach fantowych oraz wygranych lub nagród w konkursach są rzeczy, podatnik jest obowiązany wpłacić płatnikowi oraz podmiotowi uprawnionemu na podstawie odrębnych przepisów do prowadzenia gier i zakładów wzajemnych, kwotę należnego podatku zryczałtowanego przed wydaniem rzeczy.”;
-
-- **41)** w art. 42:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Płatnicy, o których mowa w art. 41, przekazują:
-
-- **1)** kwoty pobranych zaliczek na podatek dochodowy, w terminie do dnia 20 miesiąca następującego po miesiącu, w którym pobrano zaliczki, na rachunek urzędu skarbowego, właściwego według siedziby płatnika, a w przypadku braku siedziby - według miejsca zamieszkania płatnika,
-- **2)** kwoty zryczałtowanego podatku, o którym mowa w art. 41 ust. 46, w terminie do dnia 7 miesiąca następującego po miesiącu, w którym pobrano ten podatek - na rachunek urzędu skarbowego właściwego dla siedziby płatnika a w przypadku: „Art. 42a. Osoby fizyczne będące przedsiębiorcami oraz osoby prawne i jednostki organizacyjne nie mające osobowości prawnej, które dokonują wypłaty należności lub świadczeń, o których mowa w art. 20 ust. 1, z wyjątkiem dochodów (przychodów) wymienionych w art. 21 i 52, od których nie są obowiązane pobierać zaliczki na podatek lub zryczałtowanego podatku dochodowego - mają obowiązek sporządzić w trzech egzemplarzach, odrębnie dla każdego podatnika, informację według ustalonego wzoru o wysokości przychodów i w terminie do dnia 15 marca następnego roku podatkowego przekazać jeden egzemplarz podatnikowi, a drugi urzędowi skarbowemu właściwemu według miejsca zamieszkania podatnika.
-    - **a)** braku siedziby - na rachunek urzędu skarbowego właściwego według miejsca zamieszkania płatnika,
-    - **b)** podatników określonych w art. 4 - na rachunek urzędu skarbowego właściwego w sprawach opodatkowania osób zagranicznych.”,
-    - **b)** ust. 3 otrzymuje brzmienie: „3. W terminie do dnia 15 marca roku następującego po roku podatkowym płatnicy są obowiązani przesłać podatnikom, o których mowa w art. 41 ust. 1 i 3a, oraz urzędowi skarbowemu właściwemu ze względu na miejsce zamieszkania podatnika imienne informacje o wysokości dochodu oraz potrąconych przez płatnika w roku podatkowym składek na ubezpieczenia emerytalne i rentowe oraz na ubezpieczenie chorobowe, o których mowa w art. 26 ust. 1 pkt 2, oraz składki na ubezpieczenie zdrowotne pobranej w roku podatkowym przez płatnika i składki na ubezpieczenie zdrowotne odliczonej, z zastrze żeniem art. 27b ust. 1 pkt 2 i ust. 2, a także o pobranych zaliczkach na podatek, sporządzone według ustalonego wzoru. W razie zaprzestania przez płatnika prowadzenia działalności przed terminem, o którym mowa w zdaniu pierwszym, jest on obowiązany przesłać tę informację w terminie do dnia zaprzestania działalności.”;
-
-**Art. 42b.** W celu ułatwiania płatnikom przekazywania:
-
-**Art. 2.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz.U. z 1996 r. Nr 67, poz. 329 i Nr 106, poz. 496, z 1997 r. Nr 28, poz. 153 i Nr 141, poz. 943, z 1998 r. Nr 117, poz. 759 i Nr 162, poz. 1126 oraz z 2000 r. Nr 12, poz. 136, Nr 19, poz. 239 i Nr 48, poz. 550) w art. 90:
-
-**Art. 3.** W ustawie z dnia 8 stycznia 1999 r. - Przepisy wprowadzające reformę ustroju szkolnego (Dz.U. Nr 12, poz. 96 i z 2000 r. Nr 12, poz. 136) w art. 12:
-
-**Art. 4.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz.U. Nr 144, poz. 930) wprowadza się następujące zmiany: Nr 43, poz. 163, Nr 90, poz. 419, Nr 113, poz. 547, Nr 123, poz. 602 i Nr 126, poz. 626, z 1995 r. Nr 5, poz. 25 i Nr 133, poz. 654, z 1996 r. Nr 25, poz. 113, Nr 87, poz. 395, Nr 137, poz. 638, Nr 147, poz. 686 i Nr 156, poz. 776, z 1997 r. Nr 28, poz. 153, Nr 30, poz. 164, Nr 71, poz. 449, Nr 85, poz. 538, Nr 96, poz. 592, Nr 121, poz. 770, Nr 123, poz. 776, Nr 137, poz. 926, Nr 139, poz. 932-934 i Nr 141, poz. 943 i 945 oraz z 1998 r. Nr 66, poz. 430, Nr 74, poz. 471, Nr 108, poz. 685, Nr 117, poz. 756 i Nr 137, poz. 887)” zastępuje się wyrazami „(Dz. U. z 2000 r. Nr 14, poz. 176, Nr 22, poz. 270, Nr 60, poz. 703, Nr 70, poz. 816 i Nr 104, poz. 1104)”;
-
-**Art. 5.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz.U. Nr 137, poz. 887, Nr 162, poz. 1118 i 1126, z 1999 r. Nr 26, poz. 228, Nr 60, poz. 636, Nr 72, poz. 802, Nr 78, poz. 875 i Nr 110, poz. 1256 oraz z 2000 r. Nr 9, poz. 118 i Nr 95, poz. 1041) w art. 8 w ust. 6 w pkt 3 wyrazy „podatku dochodowym od osób fizycznych” zastępuje się wyrazami „zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne”.
-
-**Art. 6.** W ustawie z dnia 1 grudnia 1994 r. o zasiłkach rodzinnych, pielęgnacyjnych i wychowawczych (Dz.U. z 1998 r. Nr 102, poz. 651, Nr 106, poz. 668 i Nr 162, poz. 1118 oraz z 1999 r. Nr 60, poz. 636 i Nr 110, poz. 1256) w art. 3 w ust. 2:
-
-**Art. 7.**
-
-1. Przepisy art. 1 pkt 5 lit. c)-f) mają zastosowanie także do strat poniesionych przez podatników za rok 2000.
-
-2. Przepisy art. 1 pkt 19:
-
-- **1)** w części dotyczącej art. 22g ust. 19 stosuje się odpowiednio do korekty wartości początkowej środków trwałych oraz wartości niematerialnych i prawnych oddanych do używania lub ulepszonych przed dniem 1 stycznia 2001 r.; w tym przypadku dla określenia wartości początkowej tych środków i wartości stosuje się przepisy obowiązujące w miesiącu oddania ich do używania lub ich ulepszenia, przy uwzględnieniu przyjętych w tej dacie zasad dokonywania odpisów amortyzacyjnych,
-- **2)** w części dotyczącej art. 22i ust. 1-6 można stosować także do środków trwałych oddanych do używania przed dniem 1 stycznia 2000 r.
-
-3. Ilekroć w ustawie jest mowa o dokonanych odpisach amortyzacyjnych - rozumie się przez to również odpisy amortyzacyjne dokonane zgodnie z przepisami wydanymi na podstawie art. 22 ust. 7 ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 2001 r.
-
-4. Podatnicy, którzy przed dniem 1 stycznia 2001 r. przekazali do używania samochody, o których mowa w art. 23 ust. 1 pkt 4, 46 i 47 oraz w przepisach wydanych na podstawie art. 22 ust. 7 ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 2001 r., określają wysokość kosztów uzyskania przychodów zgodnie z wymienionymi przepisami w brzmieniu obowiązującym do dnia 31 grudnia 2000 r.
-
-5. Dla środków trwałych oddanych do używania przed dniem 1 stycznia 2001 r. podatnicy:
-
-- **1)** kontynuują stosowanie metody amortyzacji określonej dla danego środka trwałego w miesiącu rozpoczęcia jego amortyzowania do czasu pełnego zamortyzowania,
-- **2)** mogą stosować stawki amortyzacyjne przyjęte po dniu 31 grudnia 1999 r. albo stawki amortyzacyjne z Wykazu stawek amortyzacyjnych, stanowiącego załącznik nr 1 do ustawy wymienionej w art. 1; postanowienia art. 22i ust. 2-5 ustawy wymienionej w art. 1 w brzmieniu obowiązującym od dnia 1 stycznia 2001 r. stosuje się odpowiednio.
-
-6. Zmiana symbolu grupy, podgrupy i rodzaju środków trwałych z tytułu zastąpienia Klasyfikacji Rodzajowej Środków Trwałych (KRŚT) nową Klasyfikacją Środków Trwałych (KŚT) nie może powodować zmiany wysokości stosowanej stawki amortyzacyjnej dla środków trwałych oddanych do używania do dnia 31 grudnia 2000 r.
-
-7. Dla środków trwałych oddanych do używania przed dniem 1 stycznia 2001 r., kwalifikowanych według Klasyfikacji Rodzajowej Środków Trwałych do grupy 5 i 6, a które zgodnie z Klasyfikacją Środków Trwałych kwalifikuje się od dnia 1 stycznia 2001 r. do grupy 2, stosuje się metody i zasady ich amortyzacji przyart. 1 w brzmieniu obowiązującym do dnia 31 grudnia 2000 r.
-
-8. Przepis art. 1 pkt 18 lit. b) ma zastosowanie do odpłatnego zbycia udziałów (akcji) w spółce albo wkładów w spółdzielni objętych po dniu 31 grudnia 2000 r.
-
-9. W przypadku odpłatnego zbycia udziałów (akcji) w spółce albo wkładów w spółdzielni objętych przed dniem 1 stycznia 2001 r. w zamian za wkład niepieniężny, koszt uzyskania przychodów określa się na podstawie przepisów obowiązujących w roku objęcia tych udziałów (akcji) lub wkładów; zasada ta ma zastosowanie także w przypadku połączenia spółek, o którym mowa w art. 24 ust. 8 ustawy wymienionej w art. 1.
-
-10. Przepisy art. 14 ust. 3 pkt 6 i art. 23 ust. 1 pkt 40 ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 2001 r. dotyczące umorzenia pożyczek (kredytów) związanych z bankowym postępowaniem ugodowym w rozumieniu przepisów o restrukturyzacji finansowej przedsiębiorstw i banków mają zastosowanie do czasu zakończenia tego bankowego postępowania.
-
-11. Przepisy art. 1 pkt 24 i 27 lit. b) stosuje się do transakcji dokonywanych po dniu 31 grudnia 2000 r. oraz transakcji wynikających z umów zawartych po tym dniu, a w przypadkach, w których zapłata należności wynikających z transakcji dokonywana jest na rzecz podmiotu mającego miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową do dokonanych transakcji albo umów zawartych w roku kalendarzowym następującym po roku, w którym minister właściwy do spraw finansów publicznych określi wykaz krajów i terytoriów stosujących szkodliwą konkurencję podatkową.
-
-12. Podatnicy, którzy przed dniem 1 stycznia 2001 r. ponieśli wydatki na budowę budynku mieszkalnego wielorodzinnego z przeznaczeniem znajdujących się w nim lokali mieszkalnych na wynajem oraz wydatki na zakup działki pod budowę tego budynku i nabyli prawo do odliczeń, na podstawie art. 26 ust. 1 pkt 6 ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 1997 r. oraz art. 26 ust. 1 pkt 8 ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 2001 r., zachowują prawo do odliczania na zasadach określonych w tej ustawie wydatków, które nie znalazły pokrycia w uzyskanych dochodach.
-
-13. Podatnikom, którzy przed dniem 1 stycznia 2001 r. ponieśli wydatki, o których mowa w ust. 12 i nabyli prawo do odliczeń na podstawie art. 26 ust. 1 pkt 6 ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 1997 r. oraz art. 26 ust. 1 pkt 8 ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 2001 r. i po tym dniu dokonali dalszych wydatków na zakup tej działki lub udziału we współwłasności tej działki oraz na budowę tego budynku, przysługuje prawo do odliczania, na zasadach określonych w tej ustawie, wydatków poniesionych od dnia 1 stycznia 2001 r. do dnia 31 grudnia 2003 r. [14. W przypadku zaistnienia okoliczności, o których mowa w art. 26 ust. 10 ustawy, wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 2001 r., w tym także w przypadku zbycia działki pod budowę tego budynku, stosuje się przepisy art. 26 ust. 10-12 tej ustawy.] <14. Podatnicy, którzy korzystali z odliczeń, o których mowa w art. 26 ust. 1 pkt 8 ustawy wymienionej w art. 1, w brzmieniu obowiązującym w latach 19972000 i przed upływem dziesięciu lat, licząc od końca roku kalendarzowego, w którym:
-
-- **1)** nastąpiło zbycie budynku, lokalu mieszkalnego, udziału we współwłasności lub
-- **2)** wynajęto budynek albo lokal mieszkalny osobom, które w stosunku do właściciela lub chociażby do jednego ze współwłaścicieli zaliczone są do I grupy podatkowej w rozumieniu przepisów ustawy o podatku od spadków i darowizn, lub
-- **3)** dokonano zmiany przeznaczenia budynku lub lokalu z mieszkalnego na użytkowy albo przeznaczono budynek lub lokal mieszkalny na potrzeby właściciela lub współwłaściciela, lub
-- **4)** zbyto działkę lub prawo wieczystego użytkowania gruntu pod budowę tego budynku - są obowiązani doliczyć do dochodów roku podatkowego, w którym nastąpiły te okoliczności, uprzednio odliczone kwoty.> <14a. Dziesięcioletni okres, o którym mowa w ust. 14:
-- **1)** w pkt 1-3 - liczy się od końca roku podatkowego, w którym otrzymano decyzję właściwego organu o pozwoleniu na użytkowanie budynku lub lokalu, w związku z budową którego dokonano odliczeń,
-- **2)** w pkt 4 - liczy się od końca roku podatkowego, w którym nabyto działkę lub prawo wieczystego użytkowania gruntu pod budowę tego budynku.>
-
-15. Jeżeli podatnik korzystał z odliczenia od dochodu wydatków poniesionych na budowę budynku mieszkalnego wielorodzinnego z przeznaczeniem znajdujących się w nim lokali mieszkalnych na wynajem oraz na zakup działki pod budowę tego budynku i zbył działkę lub budynek, jego część lub lokal (lokale) przed upływem dziesięciu lat, licząc od końca roku podatkowego, w którym nastąpiło wybudowanie, przychód uzyskany z tego zbycia podlega opodatkowaniu zgodnie z art. 28 ustawy wymienionej w art. 1. Przepis ten stosuje się odpowiednio w przypadku zbycia działki, z tym że okres dziesięcioletni liczy się od końca roku, w którym nastąpiło nabycie tej działki lub udziału we współwłasności działki.
-
-16. W przypadku małżonków, w stosunku do których na podstawie odrębnych przepisów orzeczono separację, ponoszących wydatki określone w ust. 12, stosuje się odpowiednio przepisy art. 27a ust. 8 ustawy wymienionej w art. 1 w brzmieniu obowiązującym od dnia 1 stycznia 2001 r.
-
-17. Wydatki na cele wymienione w ust. 12, z wyjątkiem wydatków na zakup gruntu, mogą być udokumentowane wyłącznie fakturami wystawionymi przez podatników podatku od towarów i usług nie korzystających ze zwolnienia od tych podatków lub dowodami odprawy celnej.
-
-18. Podatnicy, którzy przed dniem 1 stycznia 2001 r. ponieśli wydatki inwestycyjne i nabyli prawo do odliczeń, na podstawie art. 26a ustawy wymienionej w art. 1, w brzmieniu obowiązującym przed dniem 1 stycznia 2001 r. zachowują prawo do tych odliczeń po dniu 31 grudnia 2000 r., w zakresie i na zasadach w niej określonych. nia 2000 r. na podstawie art. 26a ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 2001 r.; w tym przypadku podatnicy są obowiązani do zwiększenia przychodu z działalności, o której mowa w art. 10 ust. 1 pkt 3 i 4 ustawy wymienionej w art. 1 w brzmieniu obowiązującym od dnia 1 stycznia 2001 r., za miesiąc, w którym utracili prawo do odliczeń, a gdy utrata prawa wystąpi w ostatnim miesiącu roku podatkowego - w rocznym rozliczeniu podatku.
-
-20. Przepisy ust. 18 i 19 stosuje się odpowiednio do podatników, którzy poczynając od dnia 1 stycznia 2001 r., nie dłużej jednak niż do dnia 31 grudnia 2003 r., poniosą zgodnie z art. 26a ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 2001 r. wydatki inwestycyjne na kontynuację objętej ulgą inwestycji rozpoczętej przed dniem 1 stycznia 2001 r.
-
-21. Przy ocenie nabycia prawa do odliczeń na podstawie art. 26a ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 2001 r., warunek określony w ust. 9 pkt 4 tego przepisu uważa się za spełniony, mimo wystąpienia zaległości przewyższającej odpowiednio 3% kwoty należnego podatku, jeżeli podatnik dokona korekty i ureguluje tę zaległość wraz z należnymi odsetkami albo w terminie 14 dni od dnia otrzymania decyzji organu pierwszej instancji określającej zobowiązanie podatkowe ureguluje taką zaległość wraz z należnymi odsetkami.
-
-22. Przy ocenie utraty prawa do odliczeń na podstawie art. 26a ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 2001 r., z przyczyn, o których mowa w ust. 22 pkt 1 tego przepisu, uznaje się, że nie występuje utrata tego prawa, jeżeli podatnik dokona korekty deklaracji podatkowej i ureguluje tę zaległość wraz z należnymi odsetkami albo w terminie 14 dni od dnia otrzymania decyzji organu pierwszej instancji określającej zobowiązanie podatkowe ureguluje taką zaległość wraz z należnymi odsetkami.
-
-23. Zasady, o których mowa w ust. 21 i 22 mają zastosowanie również do podatników, którzy korzystali z odliczeń od dochodu przed dniem 1 stycznia 2001 r., którym przysługuje prawo do odliczeń na podstawie art. 4 ustawy z dnia 27 sierpnia 1997 r. o stosowaniu szczególnych rozwiązań podatkowych w związku z likwidacją skutków powodzi, która miała miejsce w lipcu 1997 r. (Dz.U. Nr 113, poz. 736 i z 1998 r. Nr 94, poz. 593).
-
-24. Przepis art. 27a ust. 5a ustawy wymienionej w art. 1 w brzmieniu obowiązującym po dniu 31 grudnia 2000 r. ma zastosowanie do wydatków na cele, o których mowa w art. 27a ust. 1 pkt 1 lit. b)-f) ustawy wymienionej w art. 1, które zostały odliczone od podatku po dniu 31 grudnia 2000 r., w związku z inwestycją podjętą po tym dniu.
-
-25. Wydatki, o których mowa w art. 27a ust. 1 pkt 3 lit.d) ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 2001 r., poniesione w 2001 r., podlegają odliczeniu od podatku obliczonego za 2001 r. w wysokości i na zasadach określonych w art. 27a ust. 3 pkt 1 lit. f), ust. 6 pkt 3, ust. 7 pkt 3, ust. 9 i ust. 16 ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 2001 r.
-
-26. Przepisy ust. 1, ust. 2 pkt 2, ust. 3, 5-7, 12-17 i ust. 23-25 stosuje się odpowiednio do podatników, o których mowa w art. 6 ust. 1 ustawy o zryczałtowanym podatku dochodowym. roku poprzedzającego rok podatkowy 2001, 2002, 2003, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej "Monitor Polski", wysokość kwoty, o której mowa w art. 26 ust. 3 ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 1997 r. oraz w art. 26 ust. 2 ustawy wymienionej w art. 1 w brzmieniu obowiązującym w latach 1997-2000 <, z zastrzeżeniem ust. 28>. <28. W 2003 r. wysokość kwoty, o której mowa w art. 26 ust. 3 ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 1997 r. oraz w art. 26 ust. 2 ustawy wymienionej w art. 1 w brzmieniu obowiązującym w latach 1997-2000 nie może ulec zmniejszeniu. W tym celu dla ustalenia wysokości kwoty, o której mowa w art. 26 ust. 3 ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 1997 r. oraz w art. 26 ust. 2 ustawy wymienionej w art. 1 w brzmieniu obowiązującym w latach 1997-2000 przyjmuje się najwyższy w okresie obowiązywania ustawy wskaźnik przeliczeniowy 1 m powierzchni użytkowej budynku mieszkalnego, ustalonego do celów obliczania premii gwarancyjnej od wkładów na oszczędnościowych książeczkach mieszkaniowych za III kwartał.>
-
-**Art. 8.** Ustawa wchodzi w życie z dniem 1 stycznia 2001 r. i ma zastosowanie do opodatkowania dochodów (strat) uzyskanych od tego dnia.
-
-## Załącznik nr 1 — WYKAZ ROCZNYCH STAWEK AMORTYZACYJNYCH Symbol KŚT Pozycja Stawka (grupa, lub Nazwa środków trwałych % podgrupa lub rodzaj) 1 2 3 4 01 1,5 11 Budynki mieszkalne z wyjątkiem wymienionych w poz. 02 122 Lokale mieszkalne 02 2,5 10 Budynki niemieszkalne z wyjątkiem wymienionych w poz. 03 i 05 110 Z rodzaju 110 domy dziecka, domy opieki społecznej bez opieki medycznej 121 Lokale niemieszkalne 224 Budowle wodne, z wyjątkiem melioracji, doków stałych zalądowionych, wałów i grobli 21 Budowle sklasyfikowane jako budowle do uzdatniania z wyjątkiem wód, z wyjątkiem studni wierconych wymienionych w poz. 03 i 05 290 Budowle sportowe i rekreacyjne, z wyłączeniem ogrodów i parków publicznych, skwerów, ogrodów botanicznych i zoologicznych 291 Wieże przeciwpożarowe 225 Melioracje podstawowe 226 Melioracje szczegółowe 03 4,5 102 Podziemne garaże i zadaszone parkingi oraz budynki kontroli ruchu powietrznego (wieże) 104 Zbiorniki, silosy oraz magazyny podziemne, zbiorniki i komory podziemne (z wyłączeniem budynków magazynowych naziemnych) 2 Obiekty inżynierii lądowej i wodnej, z wyłączeniem z wyjątkiem ogrodów i parków publicznych, skwerów, ogrodów wymienionych botanicznych i zoologicznych w poz. 02, 05, 06 i 08 600 Zbiorniki naziemne ceglane 601 Zbiorniki naziemne betonowe (z wyjątkiem z wykładziną chemoodporną dla kwasu ponitracyjnego) 623 623-7 urządzenia telefoniczne systemów nośnych na liniach WN 641 Z rodzaju 641-7 wyciągi kopalniane (bez wyciągów przy głębieniu szybów) 648 Towarowe kolejki linowe i dźwignie linowe 657 Akumulatory hydrauliczne 660 Wagi pojazdowe, wagonowe i inne wbudowane 04 7,0 3 Kotły i maszyny energetyczne z wyjątkiem wymienionych w poz. 06 431 431-0 filtry (prasy) błotniarki, 431-4 cedzidła mechaniczne 450 Piece do przerobu surowców (z wyjątkiem 450-50 piece do przerobu surowca wielokomorowe) 451 Piece do przetwarzania paliw (z wyjątkiem 451-0 piece koksownicze) 454 Piece do wypalania tunelowe 475 Aparaty bębnowe 477 Suszarki komorowe: 477-0 do 4 oraz 477-6 do 8 506 506-1 i 506-2 aparaty do rektyfikacji powietrza 507 507-2 i 507-3 krystalizatory 507-4 komory potne 548 548-0 maszyny, urządzenia i aparaty do produkcji materiału zecerskiego 583 583-0 koparki i zwałowarki w kopalniach odkrywkowych węgla 583-1 koparki w piaskowniach przemysłu węglowego 70 Kolejowy tabor szynowy naziemny 71 Kolejowy tabor szynowy podziemny 72 Tramwajowy tabor szynowy 73 Pozostały tabor szynowy naziemny 77 Tabor pływający z wyjątkiem wymienionych w poz. 06 i 08 05 10,0 103 Kioski towarowe o kubaturze poniżej 500 m - trwale związane z gruntem 109 Domki kempingowe, budynki zastępcze - trwale związane z gruntem 211 Przewody sieci technologicznych wewnątrzzakładowych 221 Urządzenia zabezpieczające ruch pociągów 4 Maszyny, urządzenia i aparaty ogólnego zastosowania z wyjątkiem wymienionych w poz. 04, 06, 07, 08 i 10 512 Maszyny i urządzenia do eksploatacji otworów wiertniczych 513 Maszyny i urządzenia do przeróbki mechanicznej rud i węgla 514 514-0 maszyny i urządzenia aglomerowni 514-1 maszyny i urządzenia wielkopiecowe 514-2 maszyny i urządzenia hutnicze stalowni Z rodzaju 514-3 do 6 nożyce hutnicze do cięcia na gorąco, tabor hutniczy, walcowniczy 514-9 inne maszyny, urządzenia i aparaty hutnicze 520 Z rodzaju 520 maszyny i urządzenia przemysłu kamieniarskiego: 520-0 i 520-1 traki ramowe i tarczowe 520-2 cyrkularki 520-3 szlifierki 520-4 tokarki i wiertarki do kamienia 520-5 kombajny do robót przygotowawczych 523 Maszyny i urządzenia przemysłu cementowego 525 525-31 autoklawy 529 Z rodzaju 529 maszyny i urządzenia do produkcji materiałów budowlanych: 529-81 do produkcji elementów z lastryko, 529-82 do produkcji sztucznego kamienia 56 Maszyny, urządzenia i aparaty przemysłów rolnych z wyjątkiem wymienionych w poz. 06 582 Z rodzaju 582-1 pojemniki do bitumu stalowe powyżej
-
-20.000 l pojemności oraz z rodzaju 582-2 odśnieżarki o mocy silników powyżej 120 KM 6 Urządzenia techniczne z wyjątkiem wymienionych w poz. 03, 07, 08 i 09 805 Z rodzaju 805 wyposażenie kin, teatrów, placówek kulturalno-oświatowych oraz instrumenty muzyczne 806 Kioski, budki, baraki, domki kempingowe - nie związane trwale z gruntem 010 Plantacje wikliny 06 14,0 202 Z rodzaju 202 wieże ekstrakcyjne 323 Silniki spalinowe na paliwo lekkie 324 Silniki spalinowe na paliwo ciężkie 325 Silniki spalinowe na paliwo gazowe 326 Silniki powietrzne 343 Z rodzaju 343 zespoły elektroenergetyczne przenośne z silnikami spalinowymi na paliwo lekkie 344 Zespoły elektroenergetyczne z silnikami spalinowymi na paliwo ciężkie 349 Reaktory jądrowe 41 Obrabiarki do metali 44 Maszyny i urządzenia do przetłaczania i sprężania cieczy i gazów 46 Aparaty do wymiany ciepła (z wyjątkiem rodzaju 465 i 469-0) 47 Maszyny, urządzenia i aparaty do operacji i procesów materiałowych (z wyjątkiem rodzaju 474, 475, 477-0 do 4 i 6-8 oraz 479-0) 50 Maszyny, urządzenia i aparaty przemysłu chemicznego z wyjątkiem wymienionych w poz. 04, 07, 08 i 09 517 Maszyny i urządzenia torfiarskie 52 Maszyny dla przemysłu surowców mineralnych z wyjątkiem wymienionych w poz. 05 i 09 53 Maszyny do produkcji wyrobów z metali i tworzyw z wyjątkiem sztucznych wymienionych w poz. 08 54 Maszyny, urządzenia i aparaty do obróbki i przerobu z wyjątkiem drewna, produkcji wyrobów z drewna oraz maszyny i wymienionych aparaty papiernicze i poligraficzne w poz. 04 55 Maszyny i urządzenia do produkcji wyrobów włókienniczych i odzieżowych oraz do obróbki skóry i produkcji wyrobów z niej 561 561-6 maszyny, urządzenia i aparaty do produkcji napoi 568 Maszyny, urządzenia i aparaty przemysłu piekarniczego (z wyjątkiem 568-40 do 48) 57 z wyjątkiem wymienionych Maszyny, urządzenia i aparaty przemysłów spożyww poz. 08 i 09 czych 59 Maszyny, urządzenia i narzędzia rolnicze i gospodarki leśnej 700 700-7 drezyny i przyczepy do drezyn 710 710-01 lokomotywy akumulatorowe 710-02 i 710-03 lokomotywy ognioszczelne i typu „Karlik” 770 770-13 kontenerowce 773 773-1010 wodoloty 780 Samoloty 781 Śmigłowce 743 Samochody specjalne 745 Z rodzaju 745 trolejbusy i samochody ciężarowe o napędzie elektrycznym 746 Ciągniki 747 Naczepy 748 Przyczepy 75 Tabor konny 76 Pozostały tabor bezszynowy (wózki jezdniowe akumulatorowe, widłowe i inne wózki jezdniowe) 803 803-0 do 1 maszyny biurowe 803-30 dalekopisy do maszyn matematycznych 07 18,0 449 Z rodzaju 449-90 urządzenia dystrybucyjne do benzyny i olejów elektryczne i przepływomierze składowe do cieczy i paliw płynnych 465 Z rodzaju 465 wymienniki płynów obiegowych przy produkcji sody 469 469-0 chłodnice odmulin i prób kołowych rozkładni gazu 474 Kolumny nitracyjne i denitracyjne 479 479-0 odbieralnice hydrauliczne rozkładni gazu 481 Aparaty i urządzenia do powierzchniowej obróbki metali sposobem chemicznym i elektrogalwanicznym 482 Aparaty i urządzenia do powierzchniowej obróbki metali sposobem cieplnym 484 484-0 urządzenia do spawania i napawania łukowego w ochronie gazów oraz do spawania i napawania plazmowego, Z rodzaju 484-1 wytwornice acetylenowe przenośne wysokiego ciśnienia, 484-3 zgrzewarki oporowe i tarcicowe, Z rodzaju 484-6 urządzenia do metalizacji natryskowej i do natryskiwania tworzywami sztucznymi 490 Maszyny i urządzenia do przygotowywania maszynowych nośników danych oraz maszyny analityczne 492 Samodzielne urządzenia do automatycznej regulacji i sterowania procesami 493 Z rodzaju 493 roboty przemysłowe 505 505-1 piece prażalnicze fluidyzacyjne do produkcji kwasu siarkowego 51 Maszyny, urządzenia i aparaty wiertnicze, górnicze, z wyjątkiem gazownicze, odlewnicze, torfiarskie oraz geodezyjne i wymienionych kartograficzne w poz. 05, 06, 08 i 09 58 Maszyny do robót ziemnych, budowlanych i drogoz wyjątkiem wych wymienionych w poz. 04, 05, 08 i 09 61 Z podgrupy 61 urządzenia rozdzielcze i aparatura energii elektrycznej przewoźna 641 Dźwigniki, wciągarki i wciągniki przejezdne oraz nieprzejezdne, kołowroty, wyciągniki (z wyjątkiem rodzaju 641-63 oraz z rodzaju 641-7 wyciągi kopalniane łącznie z wyciągami przy głębieniu szybów a także wyciągi kolei i kolejek linowych) 662 662-1 projektory przenośne 16 mm i 35 mm 681 Kontenery 745 Z rodzaju 745 pozostałe samochody o napędzie elekz wyjątkiem trycznym wymienionych w poz. 06 783 Balony 788 Inne środki transportu lotniczego 79 Środki transportu pozostałe 08 20,0 200 Z rodzaju 200 wieże wiertnicze, wieżomaszty 434 434-01 maszyny do zamykania słoi, Z rodzaju 434-02 maszyny do zamykania puszek 465 Wymienniki przeponowe rurowe sklasyfikowane jako chłodnice kwasu siarkowego 506 506-3 odgazowywacze 510 Maszyny i urządzenia wiertnicze 511 Obudowy zmechanizowane 518 Z rodzaju 518 aparaty i urządzenia do: 518-01 pomiarów magnetycznych 518-02 pomiarów geoelektrycznych 518-03 pomiarów sejsmicznych i radiometrycznych 518-1 elektrycznego profilowania odwiertów, karotażu gazowego, perforacji otworów wiertniczych 535 Z rodzaju 535-0 aparaty specjalne do wytwarzania kwasu wolframowego i maszyny do redukcyjnych, próżniowych i specjalnych wytopów metali Z rodzaju 535-1 maszyny do produkcji węglanów i past emulsyjnych Z rodzaju 535-7 urządzenia do produkcji półprzewodników 579 579-000 dystrybutory 579-003 młynki młotkowe 579-01 maszyny i urządzenia do przerobu odpadów zwierzęcych na mąkę pastewną i tłuszcze utylizacyjne 579-09 inne maszyny i urządzenia do przerobu odpadów zwierzęcych 580 Maszyny do robót ziemnych i fundamentowych 581 z wyjąt- Maszyny do robót budowlanych kiem wymienionych w poz. 09 582 582-3 szczotki mechaniczne i osprzęt do utrzymania dróg 629 Telefony komórkowe 669 Kasy fiskalne i rejestrujące (z wyjątkiem zaliczonych do poz.10 - zespoły komputerowe) 633 Baterie akumulatorów elektrycznych stacjonarnych 634 Baterie akumulatorów elektrycznych zasadowych 662 662-5 ekrany kinowe 644 644-0 do 4 przenośniki w kopalniach i zakładach przetwórczych rud i węgla 664 Z rodzaju 664 urządzenia do przeprowadzania badań technicznych 740 Motocykle, przyczepy i wózki motocyklowe 741 Samochody osobowe 742 Samochody ciężarowe z wyjątkiem wymienionych w poz. 06 744 Autobusy i autokary 782 Szybowce 8 Narzędzia, przyrządy, ruchomości i wyposażenie z wyjątkiem wymienionych w poz. 05, 06 i 09 09 25,0 501 501-0 aparaty szklane i porcelanowe do destylacji 501-1 porcelanowe młyny kulowe 511 Maszyny górnicze, z wyłączeniem obudów zmechanizowanych 524 Z rodzaju 524 piece do trampowania głowic „Hagera” oraz piece do topienia żużla wielkopiecowego i bazaltu 571 571-8 autoklawy do hydrolizy 571-30 i 571-31 neutralizatory stalowe oraz neutralizatory i hydralizatory betonowe lub murowane 581 581-2 wibratory 581-4 wibromłoty oraz z rodzaju 581-3 zacieraczki do tynku 644 644-0 przenośniki zgrzebłowe ciężkie i lekkie w kopalniach węgla 801 801-0 elektroniczna aparatura kontrolno-pomiarowa do przeprowadzania badań laboratoryjnych 802 802-0 aparaty i sprzęt do hydro- i mechanoterapii 804 Z rodzaju 804 wyposażenie cyrkowe 10 30,0 491 Zespoły komputerowe Objaśnienia:
-1. Za pogorszone warunki używania budynków i budowli, o których mowa w art. 22i ust.
-pkt 1 lit. a) ustawy, uważa się używanie tych środków trwałych pod ciągłym działaniem wody, par wodnych, znacznych drgań, nagłych zmian temperatury oraz innych czynników powodujących przyspieszenie zużycia obiektu.
-2. Za złe warunki używania budynków i budowli, o których mowa w art. 22i ust. 2 pkt
-b) ustawy, uważa się używanie tych środków trwałych pod wpływem niszczących środków chemicznych, a zwłaszcza gdy służą one produkcji, wytwarzaniu lub przechowywaniu żrących środków chemicznych. Dotyczy to również przypadków silnego działania na budynek lub budowlę niszczących środków chemicznych rozproszonych w atmosfeznajdujące się w pobliżu.
-3. Przez maszyny, urządzenia i środki transportu wymagające szczególnej sprawności technicznej, o których mowa w art. 22i ust. 2 pkt 2 ustawy, rozumie się te obiekty, które używane są w pracy na trzy zmiany, mimo że nie działają ze swej istoty w ruchu głym, używane w warunkach terenowych, w warunkach leśnych, pod ziemią lub innych wskazujących na bardziej intensywne zużycie.
-4. Przez maszyny i urządzenia grupy 4-6 i 8 Klasyfikacji środków trwałych (KŚT), poddane szybkiemu postępowi technicznemu, o których mowa w art. 22i ust. 2 pkt 3 ustawy, rozumie się maszyny, urządzenia i aparaturę, w których zastosowane są układy mikroprocesorowe lub systemy komputerowe, spełniające założone funkcje dzięki wykorzystaniu w nich najnowszych zdobyczy techniki, a także pozostałą aparaturę naukowobadawczą i doświadczalno-produkcyjną.
-
-## Załącznik nr 2 — TABELA RODZAJÓW I ROZMIARÓW DZIAŁÓW SPECJALNYCH PRODUKCJI ROLNEJ ORAZ NORM SZACUNKOWYCH DOCHODU ROCZNEGO Jednostka po- Norma szacunkoLp. Rodzaje upraw i produkcji wierzchni upraw lub wa dochodu rodzajów produkcji nego zł 1 2 3 1 Uprawy w szklarniach ogrzewanych powyżej 25 m2:
-
-a) rośliny ozdobne 1 m2 7
-b) pozostałe 1 m2 2 2 Uprawy w szklarniach nie ogrzewanych 1 m2 1 powyżej 25 m2 3 Uprawy w tunelach foliowych ogrzewanych powyżej 50 m2:
-a) rośliny ozdobne 1 m2 5
-b) pozostałe 1 m2 3 4 Uprawy grzybów i ich grzybni - powyżej 25 1 m2 3 m2 powierzchni uprawowej 5 Drób rzeźny - powyżej 100 szt.:
-a) kurczęta 1 sztuka
-b) gęsi 1 sztuka
-c) kaczki 1 sztuka
-d) indyki 1 sztuka 6 Drób nieśny powyżej 80 szt.:
-a) kury nieśne (w stadzie reprodukcyjnym) 1 sztuka 1
-b) kury mięsne (w stadzie reprodukcyjnym) 1 sztuka 1
-c) gęsi (w stadzie reprodukcyjnym) 1 sztuka 1
-d) kaczki (w stadzie reprodukcyjnym) 1 sztuka 2
-e) indyki (w stadzie reprodukcyjnym) 1 sztuka 8
-f) kury (produkcja jaj konsumpcyjnych) 1 sztuka 1 7 Wylęgarnie drobiu:
-a) kurczęta 1 sztuka
-b) gęsi 1 sztuka
-c) kaczki 1 sztuka
-d) indyki 1 sztuka 8 Zwierzęta futerkowe:
-a) lisy i jenoty od 1 samicy stada podstawowego 25
-b) norki od 1 samicy stada podstawowego 11
-c) tchórzofretki od 1 samicy stada 8 podstawowego podstawowego
-e) nutrie powyżej 50 sztuk samic stada pod- od 1 samicy stada 3 stawowego podstawowego
-f) króliki powyżej 50 sztuk samic stada pod- od 1 samicy stada 3 stawowego podstawowego 9 Zwierzęta laboratoryjne:
-a) szczury białe 1 sztuka
-b) myszy białe 1 sztuka 10 Jedwabniki - produkcja kokonów 1 dm3 11 Pasieki powyżej 80 rodzin 1 rodzina 2 12 Uprawy roślin in vitro - powierzchnia półek 1 m2 120 13 Hodowla entomofagów - powierzchnia upraw 1 m2 100 roślin żywicielskich 14 Hodowla dżdżownic - powierzchnia łoża ho- 1 m2 50 dowlanego 15 Hodowla i chów innych zwierząt poza gospodarstwem rolnym:
-a) krowy powyżej 5 sztuk 1 sztuka 200
-b) cielęta powyżej 10 sztuk 1 sztuka 42
-c) bydło rzeźne powyżej 10 sztuk (z wyjąt- 1 sztuka 22 kiem opasów)
-d) tuczniki powyżej 50 sztuk 1 sztuka 25
-e) prosięta i warchlaki powyżej 50 sztuk 1 sztuka 10
-f) chów i hodowla owiec powyżej 10 sztuk od 1 matki 4
-g) tucz owiec powyżej 15 sztuk 1 sztuka 6
-h) konie rzeźne 1 sztuka 300
-i) konie hodowlane 1 sztuka stada pod- 240 stawowego
-j) hodowla ryb akwariowych powyżej 700 1 dm3 dm3 objętości akwarium, obliczonej według wewnętrznych długości krawędzi
-k) hodowla psów rasowych 1 sztuka stada pod- 27 stawowego
-l) hodowla kotów rasowych 1 sztuka stada pod- 10 stawowego
+## Załącznik nr 1 — – Wykaz rocznych stawek amortyzacyjnych
+
+## Załącznik nr 2 — – Tabela rodzajów i rozmiarów działów specjalnych produkcji rolnej oraz norm szacunkowych dochodu rocznego
+
+Art. 1.
+W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. Nr 14, poz. 176, Nr 22, poz. 270, Nr 60, poz. 703i Nr 70, poz. 816) wprowadza się następujące zmiany:
+1)
+w art. 2:
+a)
+ust. 2 otrzymuje brzmienie:
+„
+2.
+Działalnością rolniczą, w rozumieniu ust. 1 pkt 1, jest działalność polegająca na wytwarzaniu produktów roślinnych lub zwierzęcych w stanie nieprzetworzonym (naturalnym) z własnych upraw albo hodowli lub chowu, w tym również produkcja materiału siewnego, szkółkarskiego, hodowlanego oraz reprodukcyjnego, produkcja warzywnicza gruntowa, szklarniowa i pod folią, produkcja roślin ozdobnych, grzybów uprawnych i sadownicza, hodowla i produkcja materiału zarodowego zwierząt, ptactwa i owadów użytkowych, produkcja zwierzęca typu przemysłowo-fermowego oraz hodowla ryb, a także działalność, w której minimalne okresy przetrzymywania zakupionych zwierząt i roślin, w trakcie których następuje ich biologiczny wzrost, wynoszą co najmniej:
+1)
+miesiąc – w przypadku roślin,
+2)
+16 dni – w przypadku wysokointensywnego tuczu specjalizowanego gęsi lub kaczek,
+3)
+6 tygodni – w przypadku pozostałego drobiu rzeźnego,
+4)
+2 miesiące – w przypadku pozostałych zwierząt
+licząc od dnia nabycia.
+” ,
+b)
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+„
+3a.
+Nie stanowią działów specjalnych produkcji rolnej uprawy, hodowla i chów zwierząt w rozmiarach nieprzekraczających wielkości określonych w załączniku nr 2 do ustawy, zwanym «załącznikiem nr 2».
+” ,
+c)
+skreśla się ust. 5;
+2)
+w art. 6:
+a)
+ust. 2 otrzymuje brzmienie:
+„
+2.
+Małżonkowie podlegający obowiązkowi podatkowemu, o którym mowa w art. 3 ust. 1, między którymi istnieje wspólność majątkowa, pozostający w związku małżeńskim przez cały rok podatkowy, mogą być jednak, z zastrzeżeniem ust. 8, na wniosek wyrażony we wspólnym zeznaniu rocznym opodatkowani łącznie od sumy swoich dochodów określonych zgodnie z art. 9 ust. 1, po uprzednim odliczeniu, odrębnie przez każdego z małżonków, kwot określonych w art. 26; w tym przypadku podatek określa się na imię obojga małżonków w podwójnej wysokości podatku obliczonego od połowy łącznych dochodów małżonków, z tym że do sumy tych dochodów nie wlicza się dochodów (przychodów) opodatkowanych w sposób zryczałtowany na zasadach określonych w tej ustawie.
+” ,
+b)
+ust. 4 otrzymuje brzmienie:
+„
+4.
+Od osób samotnie wychowujących w roku podatkowym:
+1)
+dzieci małoletnie,
+2)
+dzieci, bez względu na ich wiek, na które, zgodnie z odrębnymi przepisami, pobierany był zasiłek pielęgnacyjny,
+3)
+dzieci do ukończenia 25 lat uczące się w szkołach, o których mowa w przepisach o systemie oświaty lub w przepisach o szkolnictwie wyższym, lub w przepisach o wyższych szkołach zawodowych, jeżeli w roku podatkowym dzieci te nie uzyskały dochodów, z wyjątkiem dochodów wolnych od podatku dochodowego, renty rodzinnej oraz dochodów w wysokości nie powodującej obowiązku zapłaty podatku
+podatek może być określony, z zastrzeżeniem ust. 8, na wniosek wyrażony w rocznym zeznaniu podatkowym, w podwójnej wysokości podatku obliczonego od połowy dochodów osoby samotnie wychowującej dzieci, z uwzględnieniem art. 7; z tym że do sumy tych dochodów nie wlicza się dochodów (przychodów) opodatkowanych w sposób zryczałtowany na zasadach określonych w tej ustawie.
+” ,
+c)
+ust. 5 otrzymuje brzmienie:
+„
+5.
+Za osobę samotnie wychowującą dzieci uważa się jednego z rodziców albo opiekuna prawnego, jeżeli osoba ta jest panną, kawalerem, wdową, wdowcem, rozwódką, rozwodnikiem albo osobą, w stosunku do której orzeczono separację w rozumieniu odrębnych przepisów. Za osobę samotnie wychowującą dzieci uważa się również osobę pozostającą w związku małżeńskim, jeżeli jej małżonek został pozbawiony praw rodzicielskich lub odbywa karę pozbawienia wolności.
+” ,
+d)
+dodaje się ust. 8 w brzmieniu:
+„
+8.
+Zasada wyrażona w ust. 2 i 4 nie ma zastosowania, jeżeli chociażby jeden z małżonków, osoba samotnie wychowująca dzieci lub jej dziecko uzyskały dochody (przychody) opodatkowane na zasadach określonych w ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 144, poz. 930 i z 2000 r. Nr 104, poz. 1104), zwanej dalej «ustawą o zryczałtowanym podatku dochodowym».
+” ;
+3)
+w art. 7 po ust. 2 dodaje się ust. 3 w brzmieniu:
+„
+3.
+Przepis ust. 2 nie ma zastosowania do małżonków, w stosunku do których orzeczono separację w rozumieniu odrębnych przepisów.
+” ;
+4)
+art. 8 otrzymuje brzmienie:
+„
+Art. 8.
+1.
+Przychody z udziału w spółce nie będącej osobą prawną, ze wspólnej własności, wspólnego przedsięwzięcia, wspólnego posiadania lub wspólnego użytkowania rzeczy lub praw majątkowych u każdego podatnika określa się proporcjonalnie do jego prawa w udziale w zysku oraz łączy się z pozostałymi przychodami ze źródeł, z których dochód podlega opodatkowaniu według skali, o której mowa w art. 27 ust. 1. W przypadku braku przeciwnego dowodu przyjmuje się, że prawa do udziału w zysku są równe.
+2.
+Zasady wyrażone w ust. 1 stosuje się odpowiednio do:
+1)
+rozliczania kosztów uzyskania przychodów, wydatków nie stanowiących kosztów uzyskania przychodów i strat,
+2)
+ulg podatkowych związanych z prowadzoną działalnością w formie spółki nie będącej osobą prawną.
+” ;
+5)
+w art. 9:
+a)
+w ust. 1 wyrazy „zwolnionych od podatku na podstawie odrębnych przepisów” zastępuje się wyrazem „52”,
+b)
+w ust. 2 wyrazy „art. 24 i 25” zastępuje się wyrazami „art. 24–25”,
+c)
+ust. 3 otrzymuje brzmienie:
+„
+3.
+O wysokość straty ze źródła przychodów, poniesionej w roku podatkowym, można obniżyć dochód uzyskany z tego źródła w najbliższych kolejno po sobie następujących pięciu latach podatkowych, z tym że wysokość obniżenia w którymkolwiek z tych lat nie może przekroczyć 50% kwoty tej straty.
+” ,
+d)
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+„
+3a.
+Przepis ust. 3 nie ma zastosowania do strat:
+1)
+z odpłatnego zbycia rzeczy i praw majątkowych, o których mowa w art. 10 ust. 1 pkt 8, oraz
+2)
+ze źródeł przychodów, z których dochody są wolne od podatku dochodowego.
+” ,
+e)
+w ust. 4 wyraz „trzech” zastępuje się wyrazem „pięciu”,
+f)
+po ust. 4 dodaje się ust. 5 w brzmieniu:
+„
+5.
+Przepis ust. 3 stosuje się odpowiednio, gdy w okresie, o którym mowa w tym przepisie, podatnik jest opodatkowany na zasadach określonych w rozdziale 2 ustawy o zryczałtowanym podatku dochodowym. W tym przypadku obniża się przychód, o którym mowa w art. 6 ust. 1 ustawy o zryczałtowanym podatku dochodowym.
+” ;
+6)
+w art. 10:
+a)
+w ust. 1:
+– w pkt 1 skreśla się wyraz „również”,
+– w pkt 3 skreśla się wyrazy „w tym również wykonywanie wolnego zawodu, z wyjątkiem działalności określonej w pkt 2,”
+– w pkt 6 na końcu dodaje się wyrazy „z wyjątkiem składników majątku związanych z działalnością gospodarczą,”
+– w pkt 7 wyrazy „sprzedaż i zamiana” zastępuje się wyrazami „odpłatne zbycie”,
+– pkt 8 otrzymuje brzmienie: „ 8) odpłatne zbycie, z zastrzeżeniem ust. 2: a) nieruchomości lub ich części oraz udziału w nieruchomości, b) spółdzielczego własnościowego prawa do lokalu mieszkalnego lub użytkowego oraz wynikającego z przydziału spółdzielni mieszkaniowych: prawa do domu jednorodzinnego lub prawa do lokalu w małym domu mieszkalnym, c) prawa wieczystego użytkowania gruntów, d) innych rzeczy, – jeżeli odpłatne zbycie nie następuje w wykonaniu działalności gospodarczej i zostało dokonane w przypadku odpłatnego zbycia nieruchomości i praw majątkowych określonych w lit. a)-c) – przed upływem pięciu lat, licząc od końca roku kalendarzowego, w którym nastąpiło nabycie lub wybudowanie, a innych rzeczy – przed upływem pół roku, licząc od końca miesiąca, w którym nastąpiło nabycie; w przypadku zamiany okresy te odnoszą się do każdej z osób dokonującej zamiany, ”
+b)
+ust. 2 otrzymuje brzmienie:
+„
+2.
+Przepisów ust. 1 pkt 8 nie stosuje się do odpłatnego zbycia:
+1)
+na podstawie umowy przewłaszczenia w celu zabezpieczenia wierzytelności, w tym pożyczki lub kredytu – do czasu ostatecznego przeniesienia własności przedmiotu umowy,
+2)
+w formie wniesienia wkładu niepieniężnego do spółki lub spółdzielni środków obrotowych, środków trwałych lub wartości niematerialnych i prawnych,
+3)
+praw majątkowych innych niż wymienione w ust. 1 pkt 8 lit. b) i c) lub rzeczy ruchomych będących składnikami majątku związanymi z działalnością gospodarczą, o których mowa w art. 14 ust. 2 pkt 1.
+” ;
+7)
+w art. 11:
+a)
+w ust. 1 wyrazy „art. 17 pkt 6” zastępuje się wyrazami „art. 17 ust. 1 pkt 6 i 9”,
+b)
+ust. 2 otrzymuje brzmienie:
+„
+2.
+Wartość pieniężną świadczeń w naturze, z zastrzeżeniem art. 12 ust. 2, określa się na podstawie cen rynkowych stosowanych w obrocie rzeczami lub prawami tego samego rodzaju i gatunku, z uwzględnieniem w szczególności ich stanu i stopnia zużycia oraz czasu i miejsca ich uzyskania.
+” ,
+c)
+ust. 2a otrzymuje brzmienie:
+„
+2a.
+Wartość pieniężną innych nieodpłatnych świadczeń ustala się:
+1)
+jeżeli przedmiotem świadczenia są usługi wchodzące w zakres działalności gospodarczej dokonującego świadczenia – według cen stosowanych wobec innych odbiorców,
+2)
+jeżeli przedmiotem świadczeń są usługi zakupione – według cen zakupu,
+3)
+jeżeli przedmiotem świadczeń jest udostępnienie lokalu lub budynku – według równowartości czynszu, jaki przysługiwałby w razie zawarcia umowy najmu tego lokalu lub budynku,
+4)
+w pozostałych przypadkach – na podstawie cen rynkowych stosowanych przy świadczeniu usług lub udostępnianiu rzeczy lub praw tego samego rodzaju i gatunku, z uwzględnieniem w szczególności ich stanu i stopnia zużycia oraz czasu i miejsca udostępnienia.
+” ,
+d)
+po ust. 2a dodaje się ust. 2b w brzmieniu:
+„
+2b.
+Jeżeli świadczenia są częściowo odpłatne, przychodem podatnika jest różnica pomiędzy wartością tych świadczeń, ustaloną według zasad określonych w ust. 2 lub 2a, a odpłatnością ponoszoną przez podatnika.
+” ,
+e)
+w ust. 3 skreśla się wyraz „dewizowy” i wyraz „dewizowego”;
+8)
+w art. 12:
+a)
+ust. 2 otrzymuje brzmienie:
+„
+2.
+Wartość pieniężną świadczeń w naturze przysługujących pracownikom na podstawie odrębnych przypisów ustala się według przeciętnych cen stosowanych wobec innych odbiorców – jeżeli przedmiotem świadczenia są rzeczy lub usługi wchodzące w zakres działalności pracodawcy.
+” ,
+b)
+ust. 3 otrzymuje brzmienie:
+„
+3.
+Wartość pieniężną innych nieodpłatnych świadczeń lub świadczeń częściowo odpłatnych ustala się według zasad określonych w art. 11 ust. 2–2b.
+” ,
+c)
+skreśla się ust. 3a i ust. 8;
+9)
+w art. 13:
+– w pkt 5 wyraz „wynagrodzenia” zastępuje się wyrazem „przychody” oraz na końcu dodaje się wyrazy „z wyjątkiem przychodów, o których mowa w pkt 7,”
+– pkt 6 otrzymuje brzmienie: „ 6) przychody osób, którym organ władzy lub administracji państwowej albo samorządowej, sąd lub prokurator, na podstawie właściwych przepisów, zlecił wykonanie określonych czynności, a zwłaszcza przychody biegłych w postępowaniu sądowym, dochodzeniowym i administracyjnym oraz płatników, z zastrzeżeniem art. 14 ust. 2 pkt 10, i inkasentów należności publicznoprawnych, a także przychody z tytułu udziału w komisjach powoływanych przez organy władzy lub administracji państwowej albo samorządowej, z wyjątkiem przychodów, o których mowa w pkt 9, ”
+– w pkt 7 wyraz „wynagrodzenia” zastępuje się wyrazem „przychody”,
+– w pkt 8 skreśla się wyrazy „albo wykonywania wolnego zawodu” oraz na końcu skreśla się kropkę i dodaje tiret w brzmieniu: „ – z wyjątkiem przychodów, o których mowa w pkt 9, ”
+– po pkt 8 dodaje się pkt 9 w brzmieniu: „ 9) przychody z tytułu osobiście wykonywanej działalności na podstawie kontraktu menedżerskiego lub umów o podobnym charakterze. ” ;
+10)
+w art. 14:
+a)
+w ust. 1a i 1b skreśla się wyraz „dewizowy”,
+b)
+w ust. 2:
+– pkt 1 otrzymuje brzmienie: „ 1) przychody z odpłatnego zbycia składników majątku wykorzystywanego w działalności gospodarczej oraz przy prowadzeniu działów specjalnych produkcji rolnej nie będących nieruchomościami lub prawami, o których mowa w art. 10 ust. 1 pkt 8; przy określaniu wysokości przychodów przepisy ust. 1 i art. 19 stosuje się odpowiednio, ”
+– w pkt 2 wyrazy „odrębnymi przepisami wydanymi na podstawie art. 15 ust. 5 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 1993 r. Nr 106, poz. 482 i Nr 134, poz. 646, z 1994 r. Nr 1, poz. 2, Nr 43, poz. 163, Nr 80, poz. 368, Nr 87, poz. 406, Nr 90, poz. 419, Nr 113, poz. 547, Nr 123, poz. 602 i Nr 127, poz. 627, z 1995 r. Nr 5, poz. 25, Nr 86, poz. 433, Nr 96, poz. 478, Nr 133, poz. 654 i Nr 142, poz. 704, z 1996 r. Nr 25, poz. 113, Nr 34, poz. 146, Nr 90, poz. 405, Nr 137, poz. 639 i Nr 147, poz. 686, z 1997 r. Nr 9, poz. 44, Nr 28, poz. 153, Nr 79, poz. 484, Nr 96, poz. 592, Nr 107, poz. 685, Nr 118, poz. 754, Nr 121, poz. 770, Nr 123, poz. 776 i 777, Nr 137, poz. 926, Nr 139, poz. 932, 933 i 934, Nr 140, poz. 939 i Nr 141, poz. 945, z 1998 r. Nr 60, poz. 383, Nr 108, poz. 685, Nr 117, poz. 756, Nr 137, poz. 887, Nr 144, poz. 931 i Nr 162, poz. 1112 i 1121 oraz z 1999 r. Nr 49, poz. 484, Nr 62, poz. 689 i Nr 95, poz. 1101)” zastępuje się wyrazami „art. 22a-22o”,
+– w pkt 6 skreśla się wyrazy „i Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych”,
+– w pkt 8 wyrazy „art. 12 ust. 2, 3 i 3a” zastępuje się wyrazami „art. 11 ust. 2–2b”,
+– w pkt 9 kropkę zastępuje się przecinkiem i dodaje pkt 10–12 w brzmieniu: „ 10) wynagrodzenia płatników z tytułu: a) terminowego wpłacania podatków pobranych na rzecz budżetu państwa, b) terminowego naliczania i odprowadzania składek na ubezpieczenie zdrowotne, zgodnie z przepisami o powszechnym ubezpieczeniu zdrowotnym, c) wykonywania zadań związanych z ustalaniem prawa do świadczeń i ich wysokości oraz wypłatą świadczeń z ubezpieczenia chorobowego, określonych w przepisach o systemie ubezpieczeń społecznych, 11) przychody z najmu, podnajmu, dzierżawy, poddzierżawy oraz z innych umów o podobnym charakterze, składników majątku związanych z działalnością gospodarczą, 12) otrzymane odszkodowania za szkody dotyczące składników majątku związanych z prowadzoną działalnością gospodarczą lub z prowadzeniem działów specjalnych produkcji rolnej. ” ,
+c)
+w ust. 3:
+– w pkt 2 skreśla się wyrazy „a także kwot należnych, lecz nie otrzymanych, z tytułu wykonywania wolnego zawodu,”
+– w pkt 3 wyraz „gmin” zastępuje się wyrazami „jednostek samorządu terytorialnego”,
+– po pkt 3a dodaje się pkt 3b w brzmieniu: „ 3b) zwróconych, umorzonych lub zaniechanych wpłat dokonywanych na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych na podstawie odrębnych przepisów, nie zaliczonych do kosztów uzyskania przychodów, ”
+– w pkt 6 skreśla się wyrazy „ z bankowym postępowaniem ugodowym w rozumieniu przepisów o restrukturyzacji finansowej przedsiębiorstw i banków lub”,
+– pkt 7 otrzymuje brzmienie: „ 7) należnego podatku od towarów i usług, zwolnionych od wpłat należności z tytułu podatku od towarów i usług, zwróconej różnicy i otrzymanego oprocentowania zwrotu różnicy podatku od towarów i usług, ”
+– po pkt 7 dodaje się pkt 8 w brzmieniu: „ 8) przychodów z odpłatnego zbycia na podstawie umowy przewłaszczenia w celu zabezpieczenia wierzytelności, w tym pożyczki lub kredytu – do czasu ostatecznego przeniesienia własności przedmiotu umowy. ” ;
+11)
+skreśla się art. 14a;
+12)
+w art. 16 w ust. 1 po wyrazach „czynszowa lokali” dodaje się wyrazy „lub budynków” oraz po wyrazach „nieodpłatne świadczenie” dodaje się przecinek, a wyrazy „określone w art. 12 ust. 3 pkt 3” zastępuje się wyrazami „o którym mowa w art. 12 ust. 1”;
+13)
+w art. 17:
+a)
+dotychczasową treść art. 17 oznacza się jako ust. 1 oraz:
+– w pkt 4 wyrazy „ustaloną według zasad określonych w art. 12 ust. 3 i 3a” zastępuje się wyrazami „określoną według zasad wynikających z art. 11 ust. 2–2b”,
+– w pkt 5 wyraz „utworzonych” zastępuje się wyrazami „w przypadku likwidacji funduszu inwestycyjnego utworzonego”,
+– w pkt 6 wyraz „przeniesienia” zastępuje się wyrazem „zbycia” oraz na końcu dodaje się wyrazy „w tym także pochodnych instrumentów finansowych od papierów wartościowych,”
+– w pkt 7 wyraz „przeniesienia” zastępuje się wyrazem „zbycia”,
+– w pkt 8 kropkę zastępuje się przecinkiem i dodaje pkt 9 w brzmieniu: „ 9) nominalną wartość udziałów (akcji) w spółce albo wkładów w spółdzielni objętych w zamian za wkład niepieniężny w innej postaci niż przedsiębiorstwo lub jego zorganizowana część. ” ,
+b)
+po ust. 1 dodaje się ust. 2 i 3 w brzmieniu:
+„
+2.
+Przy ustalaniu wartości przychodów, o których mowa w ust. 1 pkt 6, 7 i 9, stosuje się odpowiednio przepisy art. 19.
+3.
+Ilekroć w ustawie jest mowa o pochodnych instrumentach finansowych – rozumie się przez to prawa majątkowe, których cena zależy bezpośrednio lub pośrednio od ceny towarów, walut obcych, waluty polskiej, złota dewizowego, platyny dewizowej lub papierów wartościowych, albo od wysokości stóp procentowych lub indeksów, a w szczególności opcje i kontrakty terminowe.
+” ;
+14)
+w art. 18 skreśla się wyrazy „rentę, której tytuł prawny stanowi darowizna lub rozporządzenie ostatniej woli,” oraz wyrazy „ze sprzedaży lub zamiany” zastępuje się wyrazami „z odpłatnego zbycia”;
+15)
+art. 19 otrzymuje brzmienie:
+„
+Art. 19.
+1.
+Przychodem z odpłatnego zbycia nieruchomości lub praw majątkowych oraz innych rzeczy, o których mowa w art. 10 ust. 1 pkt 8, jest ich wartość wyrażona w cenie określonej w umowie, pomniejszona o koszty odpłatnego zbycia. Jeżeli jednak cena, bez uzasadnionej przyczyny, znacznie odbiega od wartości rynkowej tych rzeczy lub praw, przychód ten określa organ podatkowy lub organ kontroli skarbowej w wysokości wartości rynkowej. Przepis art. 14 ust. 1 zdanie drugie stosuje się odpowiednio.
+2.
+Przychodem z odpłatnego zbycia w drodze zamiany nieruchomości lub praw majątkowych, a także innych rzeczy, o których mowa w art. 10 ust. 1 pkt 8, u każdej ze stron umowy przenoszącej własność jest wartość nieruchomości, rzeczy lub prawa zbywanego w drodze zamiany. Przepisy ust. 1, 3 i 4 stosuje się odpowiednio.
+3.
+Wartość rynkową, o której mowa w ust. 1, rzeczy lub praw majątkowych określa się na podstawie cen rynkowych stosowanych w obrocie rzeczami lub prawami tego samego rodzaju i gatunku, z uwzględnieniem w szczególności ich stanu i stopnia zużycia oraz czasu i miejsca odpłatnego zbycia.
+4.
+Jeżeli wartość wyrażona w cenie określonej w umowie odpłatnego zbycia znacznie odbiega od wartości rynkowej nieruchomości lub praw majątkowych oraz innych rzeczy, organ podatkowy lub organ kontroli skarbowej wezwie strony umowy do zmiany tej wartości lub wskazania przyczyn uzasadniających podanie ceny znacznie odbiegającej od wartości rynkowej. W razie nieudzielenia odpowiedzi, niedokonania zmiany wartości lub niewskazania przyczyn, które uzasadniają podanie ceny znacznie odbiegającej od wartości rynkowej, organ podatkowy lub organ kontroli skarbowej określi wartość z uwzględnieniem opinii biegłego lub biegłych. Jeżeli wartość ustalona w ten sposób odbiega co najmniej o 33% od wartości wyrażonej w cenie, koszty opinii biegłego lub biegłych ponosi zbywający.
+” ;
+16)
+w art. 20 w ust. 1 wyrazy „art. 12, 14” zastępuje się wyrazami „art. 12–14”;
+17)
+w art. 21:
+a)
+w ust. 1:
+– w pkt 3 dodaje się lit. d)-f) w brzmieniu: „ d) odszkodowań przyznanych na podstawie przepisów o zakazie konkurencji, e) odszkodowań za szkody dotyczące składników majątku związanych z prowadzoną działalnością gospodarczą, f) odszkodowań za szkody dotyczące składników majątku związanych z prowadzeniem działów specjalnych produkcji rolnej, z których dochody opodatkowane są na zasadach, o których mowa w art. 27 ust. 1, ”
+– pkt 4 otrzymuje brzmienie: „ 4) kwoty otrzymane z tytułu ubezpieczeń majątkowych i osobowych, z wyjątkiem odszkodowań za szkody dotyczące składników majątku związanych z: a) prowadzoną działalnością gospodarczą, b) prowadzeniem działów specjalnych produkcji rolnej, z których dochody opodatkowane są na zasadach, o których mowa w art. 27 ust. 1, ”
+– w pkt 5 skreśla się wyrazy „lub bezpośrednio w związku z wykonywaniem wolnego zawodu”,
+– w pkt 5a na końcu skreśla się przecinek i dodaje wyrazy „- w wysokości wpłat wniesionych do funduszu,”
+– pkt 6 otrzymuje brzmienie: „ 6) wygrane w kasynach gry, grach na automatach oraz grach w bingo pieniężne i fantowe urządzanych i prowadzonych przez uprawniony podmiot na podstawie przepisów o grach losowych, zakładach wzajemnych i grach na automatach, ”
+– po pkt 6 dodaje się pkt 6a w brzmieniu: „ 6a) wygrane w grach liczbowych, loteriach pieniężnych, zakładach wzajemnych, loteriach promocyjnych, loteriach audioteksowych i loteriach fantowych, jeżeli jednorazowa wartość tych wygranych nie przekracza kwoty trzykrotności najniższego wynagrodzenia za pracę, ogłaszanego na podstawie odrębnych przepisów, za grudzień roku poprzedzającego rok podatkowy, urządzanych i prowadzonych na podstawie przepisów o grach losowych, zakładach wzajemnych i grach na automatach przez uprawniony podmiot, ”
+– w pkt 8 na końcu dodaje się wyrazy „wypłacone na podstawie odrębnych przepisów,”
+– w pkt 10a na końcu skreśla się przecinek i dodaje wyrazy „i paraolimpijskiej,”
+– w pkt 17 wyrazy „pracowników, określonego w odrębnych przepisach” zastępuje się wyrazami „za pracę, ogłaszanego na podstawie odrębnych przepisów”,
+– w pkt 19 w lit. b) wyrazy „pracowników, określonego w odrębnych przepisach” zastępuje się wyrazami „za pracę, ogłaszanego na podstawie odrębnych przepisów”,
+– w pkt 20 wyrazy „przepisach obowiązujących w przedsiębiorstwach państwowych w sprawie pokrywania kosztów podróży służbowych poza granicami kraju” zastępuje się wyrazami „ustawach lub przepisach wydanych przez właściwego ministra w sprawie diet i innych należności z tytułu podróży służbowych pracowników poza granicami kraju”,
+– po pkt 20 dodaje się pkt 20a w brzmieniu: „ 20a) część dochodów osób, o których mowa w art. 3 ust. 1, przebywających czasowo za granicą i uzyskujących tam dochody z innych tytułów niż wymienione w pkt 20 – w wysokości odpowiadającej równowartości diet, określonych w odrębnych ustawach lub przepisach wydanych przez właściwego ministra w sprawie diet i innych należności z tytułu podróży służbowych pracowników poza granicami kraju, obliczonych za okres, w którym osoby te uzyskiwały dochód; w przypadku uzyskiwania w tym samym okresie dochodów z kilku źródeł, zwolnienie stosuje się tylko do dochodu uzyskanego z jednego źródła, ”
+– w pkt 22 tiret otrzymuje brzmienie: „ – określonych w odrębnych przepisach wydanych przez właściwego ministra, jeżeli przebieg pojazdu, z wyłączeniem wypłat ryczałtu pieniężnego, jest udokumentowany w ewidencji przebiegu pojazdu prowadzonej przez pracownika według obowiązującego wzoru, ”
+– pkt 26 otrzymuje brzmienie: „ 26) zapomogi wypłacone w przypadku indywidualnych zdarzeń losowych, klęsk żywiołowych, długotrwałej choroby lub śmierci: a) z funduszu socjalnego, zakładowego funduszu świadczeń socjalnych, z funduszy związków zawodowych oraz zgodnie z odrębnymi przepisami wydanymi przez właściwego ministra – niezależnie od ich wysokości, b) z innych źródeł, z zastrzeżeniem pkt 40 i 79 – do wysokości nie przekraczającej w roku podatkowym trzykrotności najniższego wynagrodzenia za pracę, ogłaszanego na podstawie odrębnych przepisów, za grudzień roku poprzedzającego rok podatkowy, ”
+– w pkt 32b wyrazy „pracowników, określonego w odrębnych przepisach” zastępuje się wyrazami „za pracę, ogłaszanego na podstawie odrębnych przepisów”,
+– skreśla się pkt 35,
+– pkt 39 otrzymuje brzmienie: „ 39) stypendia otrzymywane na podstawie przepisów wydanych przez właściwego ministra w sprawie studiów doktoranckich i stypendiów naukowych oraz inne stypendia naukowe, których zasady przyznawania zostały zatwierdzone przez ministra właściwego do spraw szkolnictwa wyższego po zasięgnięciu opinii Rady Głównej Szkolnictwa Wyższego, ”
+– pkt 40 otrzymuje brzmienie: „ 40) świadczenia pomocy materialnej dla uczniów, studentów, uczestników studiów doktoranckich i osób uczestniczących w innych formach kształcenia, pochodzące z budżetu państwa, budżetów jednostek samorządu terytorialnego oraz ze środków własnych szkół i uczelni – przyznane na podstawie odrębnych przepisów o systemie oświaty, o szkolnictwie wyższym, o wyższych szkołach zawodowych oraz o tytule naukowym i stopniach naukowych, ”
+– skreśla się pkt 41,
+– pkt 46 otrzymuje brzmienie: „ 46) dochody uzyskane przez podatników od rządów państw obcych, organizacji międzynarodowych lub międzynarodowych instytucji finansowych, pochodzące ze środków bezzwrotnej pomocy przyznanych na podstawie jednostronnej deklaracji lub umów zawartych z tymi państwami, organizacjami lub instytucjami przez Radę Ministrów Rzeczypospolitej Polskiej, właściwego ministra lub agencje rządowe; w tym również w przypadkach, gdy przekazanie tych środków jest dokonywane za pośrednictwem podmiotu upoważnionego do rozdzielania środków bezzwrotnej pomocy zagranicznej na rzecz podmiotów, którym służyć ma ta pomoc, ”
+– w pkt 61 po wyrazach „kredytów studenckich” dodaje się wyrazy „udzielonych na podstawie przepisów o pożyczkach i kredytach studenckich”,
+– w pkt 63 na końcu kropkę zastępuje się przecinkiem i dodaje pkt 64–110 w brzmieniu: „ 64) dodatki do rent rodzinnych dla sierot zupełnych, wypłacone na podstawie odrębnych przepisów, 65) zasiłki chorobowe wypłacone na podstawie odrębnych przepisów o ubezpieczeniu społecznym rolników oraz ubezpieczeniu społecznym członków rolniczych spółdzielni produkcyjnych, spółdzielni kółek rolniczych oraz ich rodzin, w części odpowiadającej udziałowi dochodu z tytułu działalności rolniczej, z wyjątkiem polegającej na prowadzeniu działów specjalnych produkcji rolnej, w dochodzie podzielnym spółdzielni, 66) dochody osób fizycznych określonych w art. 3, ze źródeł przychodów położonych w państwie, z którym Rzeczpospolita Polska nie zawarła umowy o unikaniu podwójnego opodatkowania dochodów, jeżeli podlegają one w tym państwie podatkowi tego samego rodzaju i państwo to postępuje według zasad wzajemności co do takich samych dochodów ze źródeł położonych na obszarze Rzeczypospolitej Polskiej, 67) wartość rzeczowych świadczeń okolicznościowych, otrzymanych przez pracownika – do wysokości nie przekraczającej w roku podatkowym kwoty najniższego wynagrodzenia za pracę, ogłaszanego na podstawie odrębnych przepisów, za grudzień roku poprzedzającego rok podatkowy; rzeczowymi świadczeniami okolicznościowymi są w szczególności: paczki świąteczne dla dzieci, bilety na imprezy sportowe lub kulturalne, 68) wartość wygranych w konkursach i grach organizowanych i emitowanych (ogłaszanych) przez środki masowego przekazu (prasa, radio i telewizja) oraz konkursach z dziedziny nauki, kultury, sztuki, dziennikarstwa i sportu, a także nagród związanych ze sprzedażą premiową – jeżeli jednorazowa wartość tych wygranych i nagród nie przekracza kwoty trzykrotności najniższego wynagrodzenia za pracę, ogłaszanego na podstawie odrębnych przepisów, za grudzień roku poprzedzającego rok podatkowy, 69) wartość posiłków spożywanych w stołówce zakładowej prowadzonej przez pracodawcę lub inną wyspecjalizowaną jednostkę organizacyjną na zlecenie pracodawcy, z wyjątkiem ekwiwalentu za te posiłki, 70) dodatki dewizowe wypłacane na podstawie odrębnych przepisów marynarzom i rybakom zatrudnionym w krajowych przedsiębiorstwach żeglugi i rybołówstwa morskiego – w części nie przekraczającej 25% tych dodatków, 71) dochody ze sprzedaży produktów roślinnych i zwierzęcych pochodzących z własnej uprawy lub hodowli, nie stanowiących działów specjalnych produkcji rolnej, przerobionych sposobem przemysłowym, jeżeli przerób polega na kiszeniu produktów roślinnych lub przetwórstwie mleka albo na uboju zwierząt rzeźnych i obróbce poubojowej tych zwierząt, w tym również na rozbiorze, podziale i klasyfikacji mięsa, 72) dochody ze sprzedaży surowców roślin zielarskich i ziół dziko rosnących leśnych sklasyfikowanych w Polskiej Klasyfikacji Wyrobów i Usług (PKWiU) w grupie o symbolu 01.11.91–00, jagód, owoców leśnych (PKWiU 01.13.23–00) i grzybów (PKWiU 01.12.13–00.43) – ze zbioru dokonywanego osobiście albo z udziałem członków najbliższej rodziny, 73) kwoty jednorazowej pomocy finansowej wypłaconej ofiarom prześladowań hitlerowskich przez Fundację Polsko-Niemieckie Pojednanie, 74) otrzymywane z zagranicy: a) renty inwalidzkie z tytułu inwalidztwa wojennego, b) kwoty zaopatrzenia przyznane ofiarom wojny oraz członkom ich rodzin, c) renty wypadkowe osób, których inwalidztwo powstało w związku z przymusowym pobytem na robotach w III Rzeszy Niemieckiej w latach 1939–1945, – pod warunkiem przedstawienia płatnikowi dokumentu instytucji zagranicznej stwierdzającego charakter przyznanego świadczenia, 75) renty wypłacone osobom represjonowanym i członkom ich rodzin, przyznane na zasadach określonych w przepisach o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, 76) kwoty diet i kieszonkowego dla gości zagranicznych przybywających do Polski w ramach programów i umów oraz wartość wyżywienia dla tłumaczy (pilotów) towarzyszących tym gościom, z wyjątkiem ekwiwalentów za to wyżywienie, 77) równoważniki pieniężne za brak kwatery, wypłacone: funkcjonariuszom Policji i Służby Więziennej, Urzędu Ochrony Państwa, Straży Granicznej oraz strażakom Państwowej Straży Pożarnej – do wysokości nie przekraczającej trzykrotności najniższego wynagrodzenia za pracę, ogłaszanego na podstawie odrębnych przepisów, za grudzień roku poprzedzającego rok podatkowy, 78) dopłaty do: wypoczynku zorganizowanego przez podmioty prowadzące działalność w tym zakresie, w formie wczasów, kolonii, obozów i zimowisk, w tym również połączonego z nauką, pobytu na leczeniu sanatoryjnym, w placówkach leczniczo-sanatoryjnych, rehabilitacyjno-szkoleniowych i leczniczo-opiekuńczych, oraz przejazdów związanych z tym wypoczynkiem i pobytem na leczeniu – dzieci i młodzieży do lat 18: a) z funduszu socjalnego, zakładowego funduszu świadczeń socjalnych oraz zgodnie z odrębnymi przepisami wydanymi przez właściwego ministra niezależnie od ich wysokości, b) z innych źródeł – do wysokości nie przekraczającej w roku podatkowym najniższego wynagrodzenia za pracę ogłaszanego na podstawie odrębnych przepisów, za grudzień roku poprzedzającego rok podatkowy, 79) świadczenia z pomocy społecznej, 80) przychody ze stosunku służbowego otrzymane w służbie kandydackiej przez funkcjonariuszy Policji, Straży Granicznej i Państwowej Straży Pożarnej, 81) dochody stanowiące równowartość wydatków na zakwaterowanie, poniesionych przez osoby przebywające czasowo za granicą i uzyskujące tam dochody – jeżeli nie zostały zaliczone do kosztów uzyskania przychodów – w wysokości stwierdzonej rachunkiem hotelowym (lub równorzędnym dokumentem), do wysokości limitu na koszty hotelu, określonego w odrębnych ustawach lub przepisach wydanych przez właściwego ministra w sprawie zasad ustalania oraz wysokości należności przysługujących pracownikom z tytułu podróży służbowej poza granicami kraju, a w razie braku rachunku – w wysokości 25% tego limitu; zwolnienie nie dotyczy osób, którym zapewniono bezpłatne zakwaterowanie, 82) uposażenia funkcjonariuszy Organizacji Narodów Zjednoczonych, organizacji wyspecjalizowanych oraz innych międzynarodowych instytucji i organizacji, których Rzeczpospolita Polska jest członkiem i których statuty przewidują zwolnienie od podatku wypłacanych przez nie uposażeń, jeżeli funkcjonariusze znajdują się w wykazie Ministerstwa Spraw Zagranicznych, 83) należności pieniężne wypłacone policjantom, żołnierzom i pracownikom cywilnym jednostek wojskowych użytych poza granicami państwa w celu udziału w konflikcie zbrojnym lub dla wzmocnienia sił państwa albo państw sojuszniczych, misji pokojowej, akcji zapobieżenia aktom terroryzmu lub ich skutkom, a także należności pieniężne wypłacone żołnierzom, policjantom i pracownikom pełniącym funkcje obserwatorów w misjach pokojowych organizacji międzynarodowych i sił wielonarodowych, 84) wartość świadczeń z tytułu uprawnień do bezpłatnych i ulgowych przejazdów środkami publicznego transportu zbiorowego kolejowego i autobusowego, wynikających z ustawy o uprawnieniach do bezpłatnych i ulgowych przejazdów środkami publicznego transportu zbiorowego, 85) wartość świadczeń z tytułu realizacji uprawnień do ulgowych lub bezpłatnych przejazdów środkami komunikacji miejskiej, przysługujących na podstawie odrębnych przepisów, 86) dodatki mieszkaniowe oraz jednorazowe zasiłki na zagospodarowanie, wypłacone nauczycielom na podstawie Karty Nauczyciela, oraz dopłaty do czesnego dla studiującego nauczyciela finansowane ze środków budżetowych, 87) wartość świadczeń przysługujących na podstawie odrębnych przepisów dotyczących emerytów, rencistów i kombatantów oraz niektórych osób będących ofiarami represji wojennych i okresu powojennego z tytułu abonamentowych opłat telewizyjnych i radiowych, telefonicznych jednostek licznikowych oraz abonamentu telefonicznego, 88) ekwiwalenty pieniężne otrzymane przez emerytów i rencistów w zamian świadczeń rzeczowych przysługujących w związku z łączącym ich poprzednio z pracodawcą stosunkiem służbowym, stosunkiem pracy lub spółdzielczym stosunkiem pracy – do wysokości nie przekraczającej w roku podatkowym trzykrotności najniższego wynagrodzenia za pracę, ogłaszanego na podstawie odrębnych przepisów, za grudzień roku poprzedzającego rok podatkowy, 89) wartość świadczeń przysługujących od szkół wyższych, na podstawie odrębnych przepisów, studentom kierowanym przez uczelnię na studenckie praktyki zawodowe, 90) wartość świadczeń przyznanych zgodnie z odrębnymi przepisami przez pracodawcę na podnoszenie kwalifikacji zawodowych i wykształcenia ogólnego pracownika, z wyjątkiem wynagrodzeń otrzymywanych za czas urlopu szkoleniowego oraz za czas zwolnień z części dnia pracy, przysługujących pracownikom podejmującym naukę w szkołach lub podnoszącym kwalifikacje zawodowe w formach pozaszkolnych, 91) wypłacone, za pośrednictwem płatnika, przy emeryturach i rentach zagranicznych podwyżki (zwiększenia) mające charakter dodatków rodzinnych, pod warunkiem przedstawienia płatnikowi dokumentu stwierdzającego wysokość podwyżki, 92) świadczenia rzeczowe (w naturze) lub ekwiwalenty pieniężne w zamian tych świadczeń, przysługujące na podstawie odrębnych przepisów członkom rodzin zmarłych pracowników oraz zmarłych emerytów i rencistów – do wysokości nie przekraczającej w roku podatkowym trzykrotności najniższego wynagrodzenia za pracę ogłaszanego na podstawie odrębnych przepisów, za grudzień roku poprzedzającego rok podatkowy, 93) dochody uzyskane z tytułu zakupu zakładowych budynków mieszkalnych lub lokali mieszkalnych przez dotychczasowych najemców – w wysokości odpowiadającej różnicy między ceną rynkową tych budynków lub lokali a ceną zakupu, 94) wynagrodzenia otrzymywane przez członków rolniczych spółdzielni produkcyjnych z tytułu użytkowania przez spółdzielnie wniesionych wkładów gruntowych, 95) odsetki z tytułu nieterminowej wypłaty wynagrodzeń i świadczeń z tytułów, o których mowa w art. 10 ust. 1 pkt 1, 96) dochód uzyskany przez pracownika z tytułu ulgi w opłacie za energię elektryczną – w wysokości odpowiadającej różnicy pomiędzy ceną ustaloną dla innych odbiorców a ceną ustaloną dla pracownika, 97) dodatki mieszkaniowe i ryczałty na zakup opału, przyznane na podstawie odrębnych przepisów o najmie lokali mieszkalnych i dodatkach mieszkaniowych, 98) dodatek kombatancki oraz dodatek za tajne nauczanie przyznawane na podstawie odrębnych przepisów, 99) zasiłki na zmniejszenie wydatków na leki i artykuły sanitarne, przyznane na podstawie odrębnych przepisów, 100) dochody z tytułu emerytur lub rent otrzymywanych przez osoby, które utraciły wzrok w wyniku działań wojennych w okresie wojny 1939–1945 lub eksplozji pozostałych po tej wojnie niewypałów i niewybuchów, pod warunkiem przedłożenia płatnikowi: a) orzeczenia o uznaniu za inwalidę wzroku I lub II grupy, wydanego przez właściwy organ, b) dokumentacji leczniczej (szpitalnej) z okresu wypadku, potwierdzającej wypadek, bądź poświadczonego notarialnie oświadczenia dwóch świadków potwierdzających utratę wzroku w wyniku działań wojennych w latach 1939–1945 lub eksplozji niewypałów i niewybuchów pozostałych po tej wojnie, c) aktualnego zaświadczenia lekarskiego okulistycznego o urazowym uszkodzeniu wzroku bądź aktualnego zaświadczenia z przeprowadzonej obdukcji sądowo-lekarskiej, potwierdzającego utratę lub uszkodzenie wzroku w wyniku zdarzeń, o których mowa w lit. b), lub d) ważnej legitymacji Stowarzyszenia Niewidomych Cywilnych Ofiar Wojny lub Związku Ociemniałych Żołnierzy RP, 101) przychody uzyskane przez krwiodawców ze sprzedaży pobranych od nich: krwi lub osocza, 102) kwoty stanowiące zwrot kosztów dojazdu do pracy i zakwaterowania, wypłacane przez powiatowe urzędy pracy na podstawie przepisów o zatrudnieniu i przeciwdziałaniu bezrobociu, 103) jednorazowe zasiłki na zagospodarowanie, wypłacone nauczycielom akademickim na podstawie przepisów o szkolnictwie wyższym, 104) świadczenia otrzymane na podstawie art. 23 ust. 5 i 7 ustawy z dnia 9 maja 1996 r. o wykonywaniu mandatu posła i senatora (Dz. U. Nr 73, poz. 350 i Nr 137, poz. 638, z 1997 r. Nr 28, poz. 153, Nr 98, poz. 604, Nr 106, poz. 679, Nr 121, poz. 770 i Nr 160, poz. 1080, z 1998 r. Nr 162, poz. 1118, z 1999 r. Nr 52, poz. 527 i 528 oraz z 2000 r. Nr 6, poz. 69), 105) dochód uzyskany ze zbycia akcji (udziałów) otrzymanych w drodze spadku albo darowizny – w części odpowiadającej kwocie zapłaconego podatku od spadków i darowizn, 106) odszkodowania otrzymane na podstawie rezolucji Rady Bezpieczeństwa Narodów Zjednoczonych wypłacone osobom poszkodowanym na skutek działań wojennych w Kuwejcie, 107) nagrody wypłacone na podstawie przepisów wydanych przez właściwego ministra w sprawie organizowania zajęć rehabilitacyjnych w szpitalach psychiatrycznych i nagradzania uczestników tych zajęć, 108) kwoty pomocy pieniężnej i wartość innych świadczeń finansowanych ze środków budżetowych przyznawanych osobom, które ubiegają się o status uchodźcy, 109) nominalna wartość udziałów (akcji) w spółce albo wkładów w spółdzielni – objętych w zamian za wkład niepieniężny w postaci przedsiębiorstwa lub jego zorganizowanej części, 110) wartość świadczeń przysługujących pracownikom polskich placówek dyplomatycznych, urzędów konsularnych i innych polskich jednostek budżetowych mających siedzibę poza granicami Rzeczypospolitej Polskiej, wynikających z przepisów wydanych na podstawie art. 47 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. Nr 31, poz. 214, z 1984 r. Nr 35, poz. 187, z 1988 r. Nr 19, poz. 132, z 1989 r. Nr 4, poz. 24 i Nr 34, poz. 178 i 182, z 1990 r. Nr 20, poz. 121, z 1991 r. Nr 55, poz. 234, Nr 88, poz. 400 i Nr 95, poz. 425, z 1992 r. Nr 54, poz. 254 i Nr 90, poz. 451, z 1994 r. Nr 136, poz. 704, z 1995 r. Nr 132, poz. 640, z 1996 r. Nr 89, poz. 402 i Nr 106, poz. 496, z 1997 r. Nr 98, poz. 604, Nr 133, poz. 882 i 883 i Nr 141, poz. 943, z 1998 r. Nr 131, poz. 860, Nr 155, poz. 1016 i Nr 162, poz. 1118, z 1999 r. Nr 49, poz. 483 i Nr 70, poz. 778 oraz z 2000 r. Nr 6, poz. 69 i Nr 66, poz. 787), z wyjątkiem wynagrodzeń za pracę i ekwiwalentu pieniężnego za urlop wypoczynkowy oraz zasiłków chorobowych i macierzyńskich. ” ,
+b)
+skreśla się ust. 3,
+c)
+po ust. 5 dodaje się ust. 6–9 w brzmieniu:
+„
+6.
+Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór ewidencji przebiegu pojazdu, o której mowa w ust. 1 pkt 22 oraz w art. 23 ust. 5. Ewidencja przebiegu pojazdu powinna zawierać co najmniej następujące dane: nazwisko i imię pracownika oraz adres zamieszkania pracownika, numer rejestracyjny pojazdu i pojemność silnika, kolejny numer wpisu, datę i cel wyjazdu, opis trasy, liczbę faktycznie przejechanych kilometrów, stawkę za 1 km przebiegu, kwotę wynikającą z przemnożenia liczby faktycznie przejechanych kilometrów i stawki za 1 km przebiegu, podpis pracodawcy.
+7.
+Za wydatki, o których mowa w ust. 1 pkt 36, poniesione z tytułu prowadzenia szkoły niepublicznej w rozumieniu przepisów o systemie oświaty, jeżeli nie zostały zaliczone do kosztów uzyskania przychodów, uważa się wydatki na:
+1)
+zakup stanowiących środki trwałe pomocy dydaktycznych i innych urządzeń niezbędnych do prowadzenia szkoły,
+2)
+wydatki związane z organizowaniem wypoczynku wakacyjnego uczniów, w części stanowiącej wynagrodzenie personelu wychowawczego i obsługi, jeżeli nie zostało pokryte przez wpłaty rodziców.
+8.
+Zwolnienie, o którym mowa w ust. 1 pkt 71, nie dotyczy dochodów uzyskiwanych przez osoby, które dokonują sprzedaży towarów i produktów innych niż pochodzące z własnej uprawy lub hodowli.
+9.
+Zwolnienie, o którym mowa w ust. 1 pkt 90, stosuje się, jeżeli pracownik przed otrzymaniem świadczenia złoży pracodawcy oświadczenie, iż nie zaliczy ich do wydatków, o których mowa w art. 27a ust. 1 pkt 3 lit. c) i d).
+” ;
+18)
+w art. 22:
+a)
+w ust. 1 i 1a skreśla się wyraz „dewizowy”,
+b)
+po ust. 1c dodaje się ust. 1d-1f w brzmieniu:
+„
+1d.
+W przypadku odpłatnego zbycia nieodpłatnie nabytych rzeczy lub praw, a także otrzymanych nieodpłatnie świadczeń, w związku z którymi, stosownie do art. 11 ust. 2 i 2a, określony został przychód – kwota tego przychodu pomniejszona o sumę odpisów amortyzacyjnych, o których mowa w art. 22h ust. 1 pkt 1, stanowi koszt uzyskania przychodów z odpłatnego zbycia tych rzeczy, praw lub nieodpłatnych świadczeń.
+1e.
+W przypadku objęcia udziałów (akcji) w spółce albo wkładów w spółdzielni w zamian za wkład niepieniężny w innej postaci niż przedsiębiorstwo lub jego zorganizowana część – na dzień objęcia tych udziałów (akcji), wkładów – ustala się koszt uzyskania, przychodu, o którym mowa w art. 17 ust. 1 pkt 9, w wysokości:
+1)
+wartości początkowej przedmiotu wkładu, zaktualizowanej zgodnie z odrębnymi przepisami, pomniejszonej o sumę dokonanych przed wniesieniem tego wkładu odpisów amortyzacyjnych, o których mowa w art. 22h ust. 1 pkt 1, jeżeli przedmiotem wkładu niepieniężnego są środki trwałe lub wartości niematerialne i prawne,
+2)
+wartości:
+a)
+nominalnej wnoszonych w formie wkładu niepieniężnego udziałów (akcji) w spółce albo wkładów w spółdzielni, w przypadku gdy zostały objęte w zamian za wkład niepieniężny w innej postaci niż przedsiębiorstwo lub jego zorganizowana cześć,
+b)
+określonej zgodnie z art. 23 ust. 1 pkt 38, w przypadku gdy udziały (akcje) w spółce albo wkłady w spółdzielni, które są wnoszone w formie wkładu niepieniężnego, nie zostały objęte w zamian za wkład niepieniężny,
+c)
+określonej zgodnie z ust. 1f, w przypadku gdy udziały (akcje) w spółce albo wkłady w spółdzielni, które są wnoszone w formie wkładu niepieniężnego, zostały objęte w zamian za wkład niepieniężny w postaci przedsiębiorstwa lub jego zorganizowanej części
+jeżeli przedmiotem wkładu niepieniężnego są udziały (akcje) w spółce albo wkłady w spółdzielni,
+3)
+faktycznie poniesionych, niezaliczonych do kosztów uzyskania przychodów, wydatków na nabycie innych niż wymienione w pkt 1 i 2 składników majątku podatnika – jeżeli przedmiotem wkładu są te inne składniki.
+1f.
+W przypadku odpłatnego zbycia udziałów (akcji) w spółce albo wkładów w spółdzielni objętych w zamian za wkład niepieniężny, na dzień zbycia tych udziałów (akcji) albo wkładów, koszt uzyskania przychodów ustala się w wysokości:
+1)
+nominalnej wartości objętych udziałów (akcji) albo wkładów z dnia ich objęcia – jeżeli te udziały (akcje) albo wkłady zostały objęte w zamian za wkład niepieniężny w innej postaci niż przedsiębiorstwo lub jego zorganizowana część,
+2)
+wartości przedsiębiorstwa lub jego zorganizowanej części, wynikającej z ksiąg przedsiębiorstwa, określonej na dzień objęcia tych udziałów (akcji) albo wkładów, nie wyższej jednak niż ich wartość nominalna z dnia objęcia.
+” ,
+c)
+skreśla się ust. 7 i 7a,
+d)
+w ust. 8 wyrazy „przepisami wydanymi na podstawie ust. 7” zastępuje się wyrazami „art. 22a -22o, z uwzględnieniem art. 23”,
+e)
+w ust. 9:
+– pkt 3 otrzymuje brzmienie: „ 3) z tytułu korzystania przez twórców z praw autorskich i artystów wykonawców z praw pokrewnych, w rozumieniu odrębnych przepisów, lub rozporządzania przez nich tymi prawami – 50%, z tym że koszty te oblicza się od przychodu pomniejszonego o potrącone przez płatnika w danym miesiącu składki na ubezpieczenia emerytalne i rentowe oraz na ubezpieczenie chorobowe, o których mowa w art. 26 ust. 1 pkt 2 lit. b), których podstawę wymiaru stanowi ten przychód, ”
+– w pkt 4 na końcu kropkę zastępuje się przecinkiem i dodaje wyrazy „z tym że koszty te oblicza się od przychodu pomniejszonego o potrącone przez płatnika w danym miesiącu składki na ubezpieczenia emerytalne i rentowe oraz na ubezpieczenie chorobowe, o których mowa w art. 26 ust. 1 pkt 2 lit. b), których podstawę wymiaru stanowi ten przychód.”,
+f)
+w ust. 12 skreśla się wyrazy „i 14a”;
+19)
+po art. 22 dodaje się art. 22a-22o w brzmieniu:
+„
+Art. 22a.
+1.
+Amortyzacji podlegają, z zastrzeżeniem art. 22c, stanowiące własność lub współwłasność podatnika, nabyte lub wytworzone we własnym zakresie, kompletne i zdatne do użytku w dniu przyjęcia do używania:
+1)
+budowle, budynki oraz lokale będące odrębną własnością,
+2)
+maszyny, urządzenia i środki transportu,
+3)
+inne przedmioty
+o przewidywanym okresie używania dłuższym niż rok, wykorzystywane przez podatnika na potrzeby związane z prowadzoną przez niego działalnością gospodarczą albo oddane do używania na podstawie umowy najmu, dzierżawy lub innej umowy o podobnym charakterze, zwane środkami trwałymi.
+2.
+Amortyzacji podlegają również, z zastrzeżeniem art. 22c, niezależnie od przewidywanego okresu używania:
+1)
+przyjęte do używania inwestycje w obcych środkach trwałych, zwane dalej «inwestycjami w obcych środkach trwałych»,
+2)
+budynki i budowle wybudowane na cudzym gruncie,
+3)
+składniki majątku, wymienione w ust. 1, nie stanowiące własności lub współwłasności podatnika, wykorzystywane przez niego na potrzeby związane z prowadzoną działalnością na podstawie umowy o podobnym charakterze do umowy najmu lub dzierżawy, zawartej z właścicielem lub współwłaścicielami tych składników – jeżeli zgodnie z przepisami wydanymi na podstawie art. 14 ust. 5 składniki te są zaliczane do składników majątku podatnika (korzystającego)
+zwane także środkami trwałymi,
+4)
+tabor transportu morskiego w budowie, sklasyfikowany w Polskiej Klasyfikacji Wyrobów i Usług (PKWiU) w grupie „statki” o symbolu 35.11, zaliczone do branży 1051–1053 Systematycznego Wykazu Wyrobów (SWW) Głównego Urzędu Statystycznego (Dz. U. z 1997 r. Nr 42, poz. 264 i z 1999 r. Nr 92, poz. 1045).
+1.
+Amortyzacji podlegają, z zastrzeżeniem art. 22c, nabyte nadające się do gospodarczego wykorzystania w dniu przyjęcia do używania:
+1)
+spółdzielcze własnościowe prawo do lokalu mieszkalnego,
+2)
+spółdzielcze prawo do lokalu użytkowego,
+3)
+prawo do domu jednorodzinnego w spółdzielni mieszkaniowej,
+4)
+autorskie lub pokrewne prawa majątkowe,
+5)
+licencje,
+6)
+prawa do: wynalazków, patentów, znaków towarowych, wzorów użytkowych, wzorów zdobniczych,
+7)
+wartość stanowiąca równowartość uzyskanych informacji związanych z wiedzą w dziedzinie przemysłowej, handlowej, naukowej lub organizacyjnej (know-how)
+o przewidywanym okresie używania dłuższym niż rok, wykorzystywane przez podatnika na potrzeby związane z prowadzoną przez niego działalnością gospodarczą albo oddane przez niego do używania na podstawie umowy licencyjnej (sublicencji), umowy najmu, dzierżawy lub innej umowy o podobnym charakterze, zwane wartościami niematerialnymi i prawnymi.
+2.
+Amortyzacji podlegają również, z zastrzeżeniem art. 22c, niezależnie od przewidywanego okresu używania:
+1)
+wartość firmy, jeżeli wartość ta powstała w wyniku nabycia przedsiębiorstwa lub jego zorganizowanej części w drodze:
+a)
+kupna,
+b)
+przyjęcia do odpłatnego korzystania, a przyjęte składniki majątku, zgodnie z przepisami wydanymi na podstawie art. 14 ust. 5, są zaliczane do składników majątku używającego,
+2)
+koszty prac rozwojowych zakończonych wynikiem pozytywnym, który może być wykorzystany na potrzeby działalności gospodarczej podatnika, jeżeli:
+a)
+produkt lub technologia wytwarzania są ściśle ustalone, a dotyczące ich koszty prac rozwojowych wiarygodnie określone, oraz
+b)
+techniczna przydatność produktu lub technologii została przez podatnika odpowiednio udokumentowana i na tej podstawie podatnik podjął decyzję o wytwarzaniu tych produktów lub stosowaniu technologii, oraz
+c)
+z dokumentacji dotyczącej prac rozwojowych wynika, że koszty prac rozwojowych zostaną pokryte spodziewanymi przychodami ze sprzedaży tych produktów lub zastosowania technologii,
+3)
+składniki majątku wymienione w ust. 1, używane przez podatnika na podstawie umowy dzierżawy, umowy najmu, umowy licencyjnej (sublicencji) lub innej umowy o podobnym charakterze, zawartej z właścicielem lub współwłaścicielami albo uprawnionymi do korzystania z tych wartości – jeżeli zgodnie z przepisami wydanymi na podstawie art. 14 ust. 5 są zaliczane do składników majątku podatnika
+zwane także wartościami niematerialnymi i prawnymi.
+Amortyzacji nie podlegają:
+1)
+grunty i prawa wieczystego użytkowania gruntów,
+2)
+budynki mieszkalne wraz ze znajdującymi się w nich dźwigami lub lokale mieszkalne, służące prowadzonej działalności gospodarczej lub wydzierżawiane albo wynajmowane na podstawie umowy, jeżeli podatnik nie podejmie decyzji o ich amortyzowaniu,
+3)
+dzieła sztuki i eksponaty muzealne,
+4)
+wartość firmy, jeżeli wartość ta powstała w inny sposób niż określony w art. 22b ust. 2 pkt 1,
+5)
+składniki majątku, które nie są używane na skutek zaprzestania działalności, w której te składniki były używane; w tym przypadku składniki te nie podlegają amortyzacji od miesiąca następującego po miesiącu, w którym zaprzestano tej działalności
+zwane odpowiednio środkami trwałymi lub wartościami niematerialnymi i prawnymi.
+1.
+Podatnicy mogą nie dokonywać odpisów amortyzacyjnych od składników majątku, o których mowa w art. 22a i 22b, których wartość początkowa, określona zgodnie z art. 22g, nie przekracza 3 500 zł; wydatki poniesione na ich nabycie stanowią wówczas koszty uzyskania przychodów w miesiącu oddania ich do używania.
+2.
+Składniki majątku, o których mowa w art. 22a-22c, z wyłączeniem składników wymienionych w ust. 1, wprowadza się do ewidencji środków trwałych oraz wartości niematerialnych i prawnych zgodnie z art. 22n, najpóźniej w miesiącu przekazania ich do używania.
+1.
+Jeżeli podatnicy nabędą lub wytworzą we własnym zakresie składniki majątku wymienione w art. 22a ust. 1 i art. 22b ust. 1, o wartości początkowej przekraczającej 3 500 zł, i ze względu na przewidywany przez nich okres używania równy lub krótszy niż rok nie zaliczą ich do środków trwałych albo wartości niematerialnych i prawnych, a faktyczny okres ich używania przekroczy rok – podatnicy są obowiązani, w pierwszym miesiącu następującym po miesiącu, w którym ten rok upłynął:
+1)
+zaliczyć te składniki do środków trwałych albo wartości niematerialnych i prawnych, przyjmując je do ewidencji w cenie nabycia albo koszcie wytworzenia,
+2)
+zmniejszyć koszty uzyskania przychodów o różnicę między ceną nabycia lub kosztem wytworzenia a kwotą odpisów amortyzacyjnych, przypadającą na okres ich dotychczasowego używania, obliczonych dla środków trwałych przy zastosowaniu stawek amortyzacyjnych określonych w Wykazie rocznych stawek amortyzacyjnych, stanowiącym załącznik nr 1 do ustawy, zwanym «Wykazem stawek amortyzacyjnych», a dla wartości niematerialnych i prawnych – przy zastosowaniu zasad określonych w art. 22m,
+3)
+stosować stawki amortyzacji, o których mowa w pkt 2, w całym okresie dokonywania odpisów amortyzacyjnych,
+4)
+wpłacić, w terminie do 20 dnia tego miesiąca, do właściwego urzędu skarbowego kwotę odsetek naliczonych od dnia zaliczenia do kosztów uzyskania przychodów wydatków na nabycie lub wytworzenie we własnym zakresie składników majątku do dnia, w którym okres ich używania przekroczył rok, i naliczoną kwotę odsetek wykazać w składanych deklaracjach lub zeznaniu, o których mowa w art. 44 ust. 6 i art. 45 ust. 1; odsetki obliczone od różnicy, o której mowa w pkt 2, wynoszą 0,1% za każdy dzień.
+2.
+Przepisy ust. 1 stosuje się odpowiednio w przypadku zaliczenia wydatków na nabycie lub wytworzenie we własnym zakresie składników majątku o wartości początkowej przekraczającej 3 500 zł do kosztów uzyskania przychodów, a następnie zaliczenia tych składników do środków trwałych lub wartości niematerialnych i prawnych przed upływem roku od dnia ich nabycia lub wytworzenia; w tym przypadku odsetki nalicza się do dnia zaliczenia ich do środków trwałych lub wartości niematerialnych i prawnych.
+3.
+Jeżeli różnica, o której mowa w ust. 1 pkt 2, jest wyższa od kosztów danego miesiąca, nierozliczona nadwyżka kosztów pomniejsza koszty w następnych miesiącach.
+1.
+Podatnicy, z wyjątkiem tych, którzy ze względu na ogłoszoną upadłość nie prowadzą działalności gospodarczej, dokonują odpisów amortyzacyjnych od wartości początkowej środków trwałych oraz wartości niematerialnych i prawnych, o których mowa w art. 22a ust. 1 i ust. 2 pkt 1–3 oraz w art. 22b.
+2.
+Podatnicy będący armatorami, z wyjątkiem tych, którzy ze względu na ogłoszoną upadłość nie prowadzą działalności gospodarczej, mogą dokonywać odpisów amortyzacyjnych od zamówionego przez nich taboru transportu morskiego w budowie, o którym mowa w art. 22a ust. 2 pkt 4.
+3.
+Odpisów amortyzacyjnych dokonuje się zgodnie z art. 22h-22m, gdy wartość początkowa środka trwałego albo wartości niematerialnej i prawnej w dniu przyjęcia do używania jest wyższa niż 3 500 zł. W przypadku gdy wartość początkowa jest równa lub niższa niż 3 500 zł, podatnicy, z zastrzeżeniem art. 22d ust. 1, mogą dokonywać odpisów amortyzacyjnych zgodnie z art. 22h-22m albo jednorazowo – w miesiącu oddania do używania tego środka trwałego lub wartości niematerialnej i prawnej, albo w miesiącu następnym.
+4.
+Jeżeli tylko część nieruchomości, w tym budynku mieszkalnego lub lokalu mieszkalnego, jest wykorzystywana do prowadzenia działalności gospodarczej bądź wynajmowana lub wydzierżawiana – odpisów amortyzacyjnych dokonuje się w wysokości ustalonej od wartości początkowej nieruchomości, budynku lub lokalu odpowiadającej stosunkowi powierzchni użytkowej wykorzystywanej do prowadzenia działalności gospodarczej, wynajmowanej lub wydzierżawianej, do ogólnej powierzchni użytkowej tej nieruchomości, budynku lub lokalu.
+5.
+Odpisów amortyzacyjnych od środków trwałych oraz wartości niematerialnych i prawnych, które zostały przewłaszczone w celu zabezpieczenia wierzytelności, w tym pożyczki lub kredytu, dokonuje dotychczasowy właściciel, w tym pożyczkobiorca lub kredytobiorca.
+1.
+Za wartość początkową środków trwałych oraz wartości niematerialnych i prawnych, z uwzględnieniem ust. 2–18, uważa się:
+1)
+w razie nabycia w drodze kupna – cenę ich nabycia,
+2)
+w razie wytworzenia we własnym zakresie – koszt wytworzenia,
+3)
+w razie nabycia w drodze spadku, darowizny lub w inny nieodpłatny sposób – wartość rynkową z dnia nabycia, chyba że umowa darowizny albo umowa o nieodpłatnym przekazaniu określa tę wartość w niższej wysokości,
+4)
+w razie nabycia w postaci wkładu niepieniężnego (aportu) wniesionego do spółki cywilnej lub osobowej spółki handlowej – ustaloną przez wspólników na dzień wniesienia wkładu lub udziału, wartość poszczególnych środków trwałych oraz wartości niematerialnych i prawnych, nie wyższą jednak od ich wartości rynkowej, z dnia wniesienia wkładu.
+2.
+Wartość początkową firmy stanowi dodatnia różnica między ceną nabycia przedsiębiorstwa lub jego zorganizowanej części, ustaloną zgodnie z ust. 3 i 5, a wartością rynkową składników majątkowych wchodzących w skład kupionego, przyjętego do odpłatnego korzystania albo wniesionego do spółki przedsiębiorstwa lub jego zorganizowanej części, odpowiednio z dnia kupna, przyjęcia do odpłatnego korzystania albo wniesienia do spółki.
+3.
+Za cenę nabycia uważa się kwotę należną zbywcy, powiększoną o koszty związane z zakupem naliczone do dnia przekazania środka trwałego lub wartości niematerialnej i prawnej do używania, a w szczególności o koszty transportu, załadunku i wyładunku, ubezpieczenia w drodze, montażu, instalacji i uruchomienia programów oraz systemów komputerowych, opłat notarialnych, skarbowych i innych, odsetek, prowizji, oraz pomniejszoną o podatek od towarów i usług, z wyjątkiem przypadków, gdy zgodnie z odrębnymi przepisami podatnikowi nie przysługuje obniżenie kwoty należnego podatku o podatek naliczony albo zwrot różnicy podatku w rozumieniu ustawy o podatku od towarów i usług. W przypadku importu cena nabycia obejmuje cło i podatek akcyzowy od importu składników majątku.
+4.
+Za koszt wytworzenia uważa się wartość, w cenie nabycia, zużytych do wytworzenia środków trwałych: rzeczowych składników majątku i wykorzystanych usług obcych, kosztów wynagrodzeń za prace wraz z pochodnymi i inne koszty dające się zaliczyć do wartości wytworzonych środków trwałych. Do kosztu wytworzenia nie zalicza się wartości własnej pracy podatnika, jego małżonka i małoletnich dzieci, kosztów ogólnych zarządu, kosztów sprzedaży oraz pozostałych kosztów operacyjnych i kosztów operacji finansowych, w szczególności odsetek od pożyczek (kredytów) i prowizji, z wyłączeniem odsetek i prowizji naliczonych do dnia przekazania środka trwałego do używania.
+5.
+Cenę nabycia, o której mowa w ust. 3, oraz koszt wytworzenia, o którym mowa w ust. 4, koryguje się o różnice kursowe, naliczone do dnia przekazania do używania środka trwałego lub wartości niematerialnej i prawnej, zgodnie z art. 22 ust. 1 i 1a.
+6.
+Wartość początkową składników majątku nabytych w sposób określony w ust. 1 pkt 3 i 4, wymagających montażu, powiększa się o wydatki poniesione na ich montaż.
+7.
+Wartość początkową inwestycji w obcych środkach trwałych oraz budynków i budowli wybudowanych na obcym gruncie ustala się, stosując odpowiednio ust. 3–5.
+8.
+Jeżeli nie można ustalić ceny nabycia środków trwałych lub ich części nabytych przez podatników przed dniem założenia ewidencji lub sporządzenia wykazu, o których mowa w art. 22n, wartość początkową tych środków przyjmuje się w wysokości wynikającej z wyceny dokonanej przez podatnika, z uwzględnieniem cen rynkowych środków trwałych tego samego rodzaju z grudnia roku poprzedzającego rok założenia ewidencji lub sporządzenia wykazu oraz stanu i stopnia ich zużycia.
+9.
+Jeżeli podatnik nie może ustalić kosztu wytworzenia, o którym mowa w ust. 4, wartość początkową środków trwałych ustala się w wysokości określonej z uwzględnieniem cen rynkowych, o których mowa w ust. 8, przez biegłego, powołanego przez podatnika.
+10.
+Podatnicy mogą ustalić wartość początkową budynków mieszkalnych lub lokali mieszkalnych: wynajmowanych, wydzierżawianych albo używanych przez właściciela na cele prowadzonej przez niego działalności gospodarczej, przyjmując w każdym roku podatkowym wartość stanowiącą iloczyn metrów kwadratowych wynajmowanej, wydzierżawianej lub używanej przez właściciela powierzchni użytkowej tego budynku lub lokalu i kwoty 988 zł, przy czym za powierzchnię użytkową uważa się powierzchnię przyjętą dla celów podatku od nieruchomości.
+11.
+W razie gdy składnik majątku stanowi współwłasność podatnika, wartość początkową tego składnika ustala się w takiej proporcji jego wartości, w jakiej pozostaje udział podatnika we własności tego składnika majątku; zasada ta nie ma zastosowania do składników majątku stanowiących wspólność majątkową małżonków, chyba że małżonkowie wykorzystują składnik majątku w działalności gospodarczej prowadzonej odrębnie.
+12.
+W razie zmiany formy prawnej, a także połączenia albo podziału przedsiębiorców dokonywanych na podstawie odrębnych przepisów, z których wynika, że przedsiębiorca powstały w wyniku takiej zmiany, podziału albo połączenia wstępuje we wszystkie prawa i obowiązki przedsiębiorcy o zmienionej formie prawnej, dzielonego albo połączonego – wartość początkową środków trwałych oraz wartości niematerialnych i prawnych ustala się w wysokości wartości początkowej określonej w ewidencji (wykazie) przedsiębiorcy o zmienionej formie prawnej, dzielonego albo połączonego.
+13.
+Przepis ust. 12 stosuje się odpowiednio w razie:
+1)
+podjęcia działalności przez przedsiębiorcę po przerwie trwającej nie dłużej niż 3 lata,
+2)
+zmiany formy prawnej prowadzonej działalności, polegającej na połączeniu lub podziale dotychczasowych przedsiębiorców albo zmianie wspólników spółki nie będącej osobą prawną,
+3)
+zmiany działalności wykonywanej samodzielnie przez jednego lub odrębnie przez każdego z małżonków na działalność wykonywaną na imię obojga małżonków,
+4)
+zmiany działalności wykonywanej na imię obojga małżonków na działalność wykonywaną przez jednego lub odrębnie przez każdego z małżonków,
+5)
+zmiany działalności wykonywanej samodzielnie przez jednego z małżonków na działalność wykonywaną samodzielnie przez drugiego z małżonków
+jeżeli przed przerwą lub zmianą składniki majątku były wprowadzone do ewidencji (wykazu).
+14.
+W razie nabycia w drodze kupna lub przyjęcia do odpłatnego korzystania przedsiębiorstwa lub jego zorganizowanej części, łączną wartość początkową nabytych środków trwałych oraz wartości niematerialnych i prawnych stanowi:
+1)
+suma ich wartości rynkowej w przypadku wystąpienia dodatniej wartości firmy, ustalonej zgodnie z ust. 2,
+2)
+różnica między ceną nabycia przedsiębiorstwa lub jego zorganizowanej części, ustaloną zgodnie z ust. 3 i 5, a wartością składników majątkowych nie będących środkami trwałymi ani wartościami niematerialnymi i prawnymi, w przypadku niewystąpienia dodatniej wartości firmy.
+15.
+W razie nabycia przedsiębiorstwa lub jego zorganizowanej części w drodze spadku lub darowizny, łączną wartość początkową nabytych środków trwałych oraz wartości niematerialnych i prawnych stanowi suma ich wartości rynkowej, nie wyższa jednak od różnicy pomiędzy wartością tego przedsiębiorstwa albo jego zorganizowaną częścią a wartością składników mienia, nie będących środkami trwałymi ani wartościami niematerialnymi i prawnymi, określoną dla celów podatku od spadków i darowizn.
+16.
+Przy ustalaniu wartości początkowej poszczególnych środków trwałych oraz wartości niematerialnych i prawnych, zgodnie z ust. 1 pkt 3 i 4 oraz ust. 2, 8, 9 i 14–15 stosuje się odpowiednio art. 19.
+17.
+Jeżeli środki trwałe uległy ulepszeniu w wyniku przebudowy, rozbudowy, rekonstrukcji, adaptacji lub modernizacji, wartość początkową tych środków, ustaloną zgodnie z ust. 1, 3–9 i 11–15, powiększa się o sumę wydatków na ich ulepszenie, w tym także o wydatki na nabycie części składowych lub peryferyjnych, których jednostkowa cena nabycia przekracza 3 500 zł. Środki trwałe uważa się za ulepszone, jeżeli wydatki poniesione na przebudowę, rozbudowę, rekonstrukcję, adaptację lub modernizację powodują wzrost ich wartości użytkowej w stosunku do wartości z dnia przyjęcia środków trwałych do używania, mierzonej w szczególności okresem używania, zdolnością wytwórczą, jakością produktów uzyskiwanych za pomocą ulepszonych środków trwałych i kosztami ich eksploatacji.
+18.
+Wartość początkową praw majątkowych, w tym licencji i autorskich praw majątkowych, stanowi cena nabycia tych praw; jeżeli wynagrodzenie (opłaty) wynikające z umowy licencyjnej albo z umowy o przeniesienie innych praw majątkowych jest uzależnione od wysokości przychodów z licencji lub praw uzyskanych przez licencjobiorcę albo nabywcę – przy ustalaniu wartości początkowej praw majątkowych, w tym licencji, nie uwzględnia się tej części wynagrodzenia.
+19.
+Jeżeli wartość początkowa środków trwałych lub wartości niematerialnych i prawnych zostanie ustalona niezgodnie z ust. 1–18, podatnik dokonuje korekty tej wartości początkowej. Korekta wartości początkowej powoduje obowiązek odpowiedniej zmiany wysokości dokonanych odpisów amortyzacyjnych oraz należnego podatku wraz z należnymi odsetkami za poszczególne okresy sprawozdawcze, poczynając od miesiąca następującego po miesiącu oddania do używania lub ulepszenia środka trwałego albo wartości niematerialnej i prawnej.
+1.
+Odpisów amortyzacyjnych dokonuje się:
+1)
+od wartości początkowej wprowadzonych do ewidencji, o której mowa w art. 22n, poszczególnych środków trwałych lub wartości niematerialnych i prawnych, z zastrzeżeniem art. 22k, w równych ratach co miesiąc, począwszy od pierwszego miesiąca następującego po miesiącu, w którym ten środek lub wartość przyjęto do używania do końca tego miesiąca, w którym następuje zrównanie sumy odpisów amortyzacyjnych z ich wartością początkową lub w którym postawiono je w stan likwidacji, zbyto lub stwierdzono ich niedobór; suma odpisów amortyzacyjnych obejmuje również odpisy, których zgodnie z art. 23 ust. 1 nie uważa się za koszty uzyskania przychodów,
+2)
+od zamówionego przez armatora taboru transportu morskiego w budowie, o którym mowa w art. 22a ust. 2 pkt 4, począwszy od pierwszego miesiąca następującego po miesiącu, w którym armator poniósł wydatki (w tym dokonał wpłat zaliczek) na budowę taboru w wysokości co najmniej 10% wartości kontraktowej odrębnie dla każdego obiektu tego taboru; wartość kontraktową, o której mowa w niniejszym punkcie, ustala się na dzień zawarcia umowy na budowę danego obiektu,
+3)
+od używanych sezonowo środków trwałych oraz wartości niematerialnych i prawnych w okresie ich wykorzystywania; w tym przypadku wysokość odpisu miesięcznego ustala się przez podzielenie rocznej kwoty odpisów amortyzacyjnych przez liczbę miesięcy w sezonie albo przez 12 miesięcy w roku,
+4)
+od ujawnionych środków trwałych nie objętych dotychczas ewidencją – począwszy od miesiąca następującego po miesiącu, w którym środki te zostały wprowadzone do ewidencji.
+2.
+Podatnicy, z zastrzeżeniem art. 221 i 22ł, dokonują wyboru jednej z metod amortyzacji określonej w art. 22i-22k dla poszczególnych środków trwałych przed rozpoczęciem ich amortyzacji; wybraną metodę stosuje się do pełnego zamortyzowania danego środka trwałego.
+3.
+Przedsiębiorcy powstali w wyniku zmiany formy prawnej, podziału albo połączenia przedsiębiorców, o których mowa w art. 22g ust. 12 lub 13, dokonują odpisów amortyzacyjnych z uwzględnieniem dotychczasowej wysokości odpisów oraz kontynuują metodę amortyzacji przyjętą przez przedsiębiorcę powstałego w wyniku zmiany formy prawnej, podziału albo połączenia, z uwzględnieniem art. 22i ust. 2–7.
+1.
+Odpisów amortyzacyjnych od środków trwałych, z zastrzeżeniem art. 22j-22ł, dokonuje się przy zastosowaniu stawek amortyzacyjnych określonych w Wykazie stawek amortyzacyjnych i zasad, o których mowa w art. 22h ust. 1 pkt 1.
+2.
+Podatnicy mogą podane w Wykazie stawek amortyzacyjnych stawki podwyższać:
+1)
+dla budynków i budowli używanych w warunkach:
+a)
+pogorszonych – przy zastosowaniu współczynników nie wyższych niż 1,2,
+b)
+złych – przy zastosowaniu współczynników nie wyższych niż 1,4,
+2)
+dla maszyn, urządzeń i środków transportu, z wyjątkiem morskiego taboru pływającego, używanych bardziej intensywnie w stosunku do warunków przeciętnych albo wymagających szczególnej sprawności technicznej – przy zastosowaniu w tym okresie współczynników nie wyższych niż 1,4,
+3)
+dla maszyn i urządzeń zaliczonych do grupy 4–6 i 8 Klasyfikacji Środków Trwałych (KŚT) wydanej na podstawie odrębnych przepisów, zwanej dalej «Klasyfikacją», poddanych szybkiemu postępowi technicznemu – przy zastosowaniu współczynników nie wyższych niż 2,0.
+3.
+W razie wystąpienia bądź ustania warunków uzasadniających podwyższenie stawek, o których mowa w ust. 2 pkt 1 i 2, stawki te ulegają podwyższeniu lub obniżeniu od miesiąca następującego po miesiącu, w którym zaistniały okoliczności uzasadniające te zmiany.
+4.
+Podwyższenia stawek dla środków trwałych wymienionych w ust. 2 pkt 3, bądź rezygnacji z ich stosowania, podatnicy mogą dokonać począwszy od pierwszego miesiąca następnego roku podatkowego.
+5.
+Podatnicy mogą obniżać podane w Wykazie stawek amortyzacyjnych stawki dla środków trwałych – nie więcej niż o połowę ich wysokości. Obniżenia stawki bądź przyjęcia w poprzedniej wysokości dokonuje się począwszy od pierwszego miesiąca następnego roku podatkowego.
+6.
+W przypadku podwyższenia stawek amortyzacyjnych, podanych w Wykazie stawek amortyzacyjnych przy zastosowaniu współczynników określonych w ust. 2, należy dla poszczególnych środków trwałych stosować jeden wybrany współczynnik, przez który mnoży się stawkę amortyzacyjną właściwą dla danego środka trwałego, przyjętą z Wykazu stawek amortyzacyjnych.
+7.
+Wyjaśnienia dotyczące warunków używania budynków i budowli, określenia szczególnej sprawności technicznej maszyn, urządzeń i środków transportu oraz maszyn i urządzeń poddanych szybkiemu postępowi technicznemu, o których mowa w ust. 2, zawarte są w objaśnieniach do Wykazu stawek amortyzacyjnych.
+1.
+Podatnicy, z zastrzeżeniem art. 221, mogą indywidualnie ustalić stawki amortyzacyjne dla używanych lub ulepszonych środków trwałych, po raz pierwszy wprowadzonych do ewidencji danego podatnika, z tym że okres amortyzacji nie może być krótszy niż:
+1)
+dla środków trwałych zaliczonych do grupy 3–6 i 8 Klasyfikacji:
+a)
+24 miesiące – gdy ich wartość początkowa nie przekracza 25 000 zł,
+b)
+36 miesięcy – gdy ich wartość początkowa jest wyższa od 25 000 zł i nie przekracza 50 000 zł,
+c)
+60 miesięcy – w pozostałych przypadkach,
+2)
+dla środków transportu, w tym samochodów osobowych, o których mowa w art. 23 ust. 3a – 30 miesięcy,
+3)
+dla budynków i budowli – 10 lat, z wyjątkiem budynków wymienionych w poz. 02 i 05 Wykazu stawek amortyzacyjnych, dla których okres ten nie może być krótszy niż 36 miesięcy.
+2.
+Środki trwałe, o których mowa w ust. 1 pkt 1 i 2, uznaje się za:
+1)
+używane – jeżeli podatnik udowodni, że przed ich nabyciem były wykorzystywane co najmniej przez okres 6 miesięcy, lub
+2)
+ulepszone – jeżeli przed wprowadzeniem do ewidencji wydatki poniesione przez podatnika na ich ulepszenie stanowiły co najmniej 20% wartości początkowej.
+3.
+Środki trwałe, o których mowa w ust. 1 pkt 3, uznaje się za:
+1)
+używane – jeżeli podatnik wykaże, że przed ich nabyciem były wykorzystywane co najmniej przez okres 60 miesięcy, lub
+2)
+ulepszone – jeżeli przed wprowadzeniem do ewidencji wydatki poniesione przez podatnika na ulepszenie stanowiły co najmniej 30% wartości początkowej.
+4.
+Podatnicy mogą indywidualnie ustalić stawki amortyzacyjne dla przyjętych do używania inwestycji w obcych środkach trwałych, z tym że dla:
+1)
+inwestycji w obcych budynkach (lokalach) lub budowlach – okres amortyzacji nie może być krótszy niż 10 lat,
+2)
+inwestycji w obcych środkach trwałych innych niż wymienione w pkt 1 – okres amortyzacji ustala się według zasad określonych w ust. 1 pkt 1 i 2.
+5.
+Przepisów ust. 1 pkt 2 i ust. 2 pkt 2 nie stosuje się do samochodów osobowych, o których mowa w art. 23 ust. 3a, ulepszonych i po raz pierwszy wprowadzonych do ewidencji.
+1.
+Odpisów amortyzacyjnych można dokonywać od wartości początkowej maszyn i urządzeń zaliczonych do grupy 3–6 i 8 Klasyfikacji oraz środków transportu, z wyjątkiem samochodów osobowych, o których mowa w art. 23 ust. 3a, w pierwszym podatkowym roku ich używania przy zastosowaniu stawek podanych w Wykazie stawek amortyzacyjnych podwyższonych, z zastrzeżeniem ust. 2, o współczynnik nie wyższy niż 2,0, a w następnych latach podatkowych – od ich wartości początkowej pomniejszonej o dotychczasowe odpisy amortyzacyjne, ustalonej na początek kolejnych lat ich używania. Począwszy od roku podatkowego, w którym tak określona roczna kwota amortyzacji miałaby być niższa od rocznej kwoty amortyzacji obliczonej przy zastosowaniu metody określonej w art. 22i ust. 1, podatnicy dokonują dalszych odpisów amortyzacyjnych zgodnie z art. 22i.
+2.
+W przypadku używania środków trwałych, określonych w ust. 1, w zakładzie danego podatnika położonym na terenie gminy o szczególnym zagrożeniu wysokim bezrobociem strukturalnym albo w gminie zagrożonej recesją i degradacją społeczną, których wykaz na podstawie odrębnych przepisów ustala Rada Ministrów – stawki podane w Wykazie stawek amortyzacyjnych można podwyższyć przy zastosowaniu współczynników nie wyższych niż 3,0, dokonując obliczenia odpisów amortyzacyjnych zgodnie z zasadą określoną w ust. 1.
+3.
+Jeżeli w trakcie roku podatkowego:
+1)
+gmina zostanie wyłączona z wykazu, o którym mowa w ust. 2, lub
+2)
+podatnik przestanie mieć siedzibę na terenie gminy, o której mowa w ust. 2
+podatnik może stosować do końca tego roku podwyższone stawki amortyzacyjne.
+1.
+Odpisów amortyzacyjnych od taboru transportu morskiego w budowie, wymienionego w art. 22a ust. 2 pkt 4, dokonuje się w ratach co miesiąc przy zastosowaniu stawek amortyzacyjnych określonych dla taboru pływającego w Wykazie stawek amortyzacyjnych.
+2.
+Podstawę obliczenia odpisów amortyzacyjnych od obiektów taboru wymienionych w ust. 1 stanowi część wartości kontraktowej, o której mowa w art. 22h ust. 1 pkt 2, powiększona o kolejne wydatki (zaliczki), ponoszone na budowę danego obiektu; wydatki te zwiększają sukcesywnie podstawę dokonywania odpisów amortyzacyjnych w miesiącu następującym po miesiącu ich poniesienia.
+3.
+Odpisów amortyzacyjnych, o których mowa w ust. 1, dokonuje się do końca miesiąca, w którym dany obiekt taboru został przyjęty do używania; jeżeli nie dojdzie do zawarcia umowy przenoszącej na armatora własność zamawianego taboru, armator jest obowiązany zmniejszyć koszty uzyskania przychodów o dokonane odpisy amortyzacyjne, obliczone zgodnie z ust. 1 i 2, w miesiącu, w którym odstąpiono od umowy.
+4.
+Odpisów amortyzacyjnych od przyjętego do używania taboru morskiego dokonuje się zgodnie z art. 22i. Suma odpisów amortyzacyjnych dokonanych zgodnie z art. 22i i odpisów amortyzacyjnych, o których mowa w ust. 2, nie może przekroczyć wartości początkowej danego obiektu taboru transportu morskiego.
+1.
+Od środków trwałych oraz wartości niematerialnych i prawnych otrzymanych do odpłatnego korzystania, zgodnie z umowami zawartymi na podstawie przepisów o komercjalizacji i prywatyzacji przedsiębiorstw państwowych, jeżeli z tych umów wynika prawo zakupu tych środków albo wartości przez korzystającego za cenę ustaloną w umowach, podatnicy dokonują odpisów amortyzacyjnych na zasadach określonych w art. 22h ust. 1. Stawki amortyzacyjne, z uwzględnieniem art. 22i i 22m, ustala się w proporcji do okresu wynikającego z umowy, z wyjątkiem środków trwałych oraz wartości niematerialnych i prawnych o krótszym okresie amortyzacji niż okres trwania umowy.
+2.
+W razie nabycia środków trwałych lub wartości niematerialnych i prawnych otrzymanych do odpłatnego korzystania na podstawie umów, o których mowa w ust. 1, przed upływem okresu, na jaki została zawarta umowa, podatnicy dokonują dalszych odpisów amortyzacyjnych od tych środków i wartości, kontynuując stosowanie zasad i stawek, określonych w ust. 1.
+3.
+W razie przedłużenia okresu obowiązywania umowy zawartej na podstawie przepisów, o których mowa w ust. 1, stawki odpisów amortyzacyjnych ulegają obniżeniu proporcjonalnie do okresu przedłużenia okresu obowiązywania umowy, z wyjątkiem środków trwałych lub wartości niematerialnych i prawnych o okresie amortyzacji krótszym niż okres obowiązywania umowy; zasada ta ma zastosowanie wyłącznie do stawek odpisów amortyzacyjnych, dokonywanych od następnego miesiąca po miesiącu, w którym zmieniono umowę.
+4.
+Od środków trwałych lub wartości niematerialnych i prawnych, przekazanych do używania na podstawie innych umów niż wymienione w ust. 1, odpisów amortyzacyjnych dokonują podatnicy, którzy zgodnie z przepisami wydanymi na podstawie art. 14 ust. 5 zaliczają te środki trwałe oraz wartości niematerialne i prawne do składników majątku, z tym że wówczas odpisów amortyzacyjnych dokonują odpowiednio wynajmujący (wydzierżawiający) albo korzystający na zasadach określonych w art. 22h-22k i 22m.
+5.
+Jeżeli umowa, o której mowa w ust. 4, dotyczy środków trwałych zaliczonych do grupy 3–6 Klasyfikacji i została zawarta na okres co najmniej 60 miesięcy oraz środki te zgodnie z przepisami wydanymi na podstawie art. 14 ust. 5 są zaliczane do składników majątku korzystającego, podatnik może stosować zasady określone w ust. 1–3.
+6.
+Jeżeli nastąpi zmiana, wygaśnięcie lub rozwiązanie umów, o których mowa w ust. 4 i 5, i w związku z tym nie zostanie przeniesiona na korzystającego własność środków trwałych oraz wartości niematerialnych i prawnych przyjętych do odpłatnego korzystania, właściciel, przejmując te środki lub wartości, określa ich wartość początkową, zgodnie z art. 22g, przed zawarciem pierwszej umowy o odpłatnym korzystaniu, pomniejszoną o kwotę odpisów amortyzacyjnych zaliczonych do kosztów uzyskania przychodów przez korzystającego, a w przypadku gdy korzystający nie dokonywał odpisów amortyzacyjnych, ich wielkość oblicza się przy zastosowaniu stawek określonych w Wykazie stawek amortyzacyjnych.
+1.
+Z zastrzeżeniem ust. 2 i 3 oraz art. 22ł ust. 1–3, okres dokonywania odpisów amortyzacyjnych od wartości niematerialnych i prawnych nie może być krótszy niż:
+1)
+od licencji (sublicencji) na programy komputerowe oraz od praw autorskich – 24 miesiące,
+2)
+od licencji na wyświetlanie filmów oraz na emisję programów radiowych i telewizyjnych – 24 miesiące,
+3)
+od poniesionych kosztów zakończonych prac rozwojowych – 36 miesięcy,
+4)
+od pozostałych wartości niematerialnych i prawnych – 60 miesięcy.
+2.
+Jeżeli wynikający z umowy okres używania praw majątkowych, o których mowa w ust. 1 pkt 2, jest krótszy od okresu ustalonego w tym przepisie, podatnicy mogą dokonywać odpisów amortyzacyjnych w okresie wynikającym z umowy.
+3.
+Podatnicy ustalają stawki amortyzacyjne dla poszczególnych wartości niematerialnych i prawnych na cały okres amortyzacji przed rozpoczęciem dokonywania odpisów amortyzacyjnych.
+4.
+Odpisów amortyzacyjnych od własnościowego spółdzielczego prawa do lokalu mieszkalnego, spółdzielczego prawa do lokalu użytkowego oraz prawa do domu jednorodzinnego w spółdzielni mieszkaniowej dokonuje się przy zastosowaniu rocznej stawki amortyzacyjnej w wysokości 2,5%; przy ustalaniu wartości początkowej tych praw podatnicy mogą stosować zasadę określoną w art. 22g ust. 10, z tym że wówczas roczna stawka amortyzacyjna wynosi 1,5%.
+1.
+Podatnicy prowadzący, zgodnie z przepisami o rachunkowości, księgi rachunkowe są obowiązani do uwzględnienia w ewidencji środków trwałych oraz wartości niematerialnych i prawnych informacji niezbędnych do obliczenia wysokości odpisów amortyzacyjnych zgodnie z art. 22a-22m.
+2.
+Podatnicy prowadzący podatkową księgę przychodów i rozchodów są obowiązani do prowadzenia ewidencji środków trwałych oraz wartości niematerialnych i prawnych, zawierającej, z zastrzeżeniem ust. 3, co najmniej:
+1)
+liczbę porządkową,
+2)
+datę nabycia,
+3)
+datę przyjęcia do używania,
+4)
+określenie dokumentu stwierdzającego nabycie,
+5)
+określenie środka trwałego lub wartości niematerialnej i prawnej,
+6)
+symbol Klasyfikacji Środków Trwałych,
+7)
+wartość początkową,
+8)
+stawkę amortyzacyjną,
+9)
+kwotę odpisu amortyzacyjnego za dany rok podatkowy i narastająco za okres dokonywania tych odpisów, w tym także, gdy składnik majątku był kiedykolwiek wprowadzony do ewidencji (wykazu), a następnie z niej wykreślony i ponownie wprowadzony,
+10)
+zaktualizowaną wartość początkową,
+11)
+zaktualizowaną kwotę odpisów amortyzacyjnych,
+12)
+wartość ulepszenia zwiększającą wartość początkową,
+13)
+datę likwidacji oraz jej przyczynę albo datę zbycia.
+3.
+Nie podlegają objęciu ewidencją budynki mieszkalne, lokale mieszkalne i własnościowe spółdzielcze prawo do lokalu mieszkalnego, spółdzielcze prawo do lokalu użytkowego, prawo do domu jednorodzinnego w spółdzielni mieszkaniowej, których wartość początkową ustala się zgodnie z art. 22g ust. 10.
+4.
+Zapisów dotyczących środków trwałych oraz wartości niematerialnych i prawnych dokonuje się w ewidencji najpóźniej w miesiącu przekazania ich do używania.
+5.
+W razie zmiany formy opodatkowania, podatnicy, zakładając ewidencję, o której mowa w ust. 2, uwzględniają w niej odpisy amortyzacyjne przypadające za okres opodatkowania w formie zryczałtowanego podatku dochodowego.
+6.
+W razie braku ewidencji środków trwałych oraz wartości niematerialnych i prawnych dokonywane odpisy amortyzacyjne nie stanowią kosztów uzyskania przychodów.
+1.
+Minister właściwy do spraw finansów publicznych określa, w drodze rozporządzenia, tryb i terminy aktualizacji wyceny środków trwałych, o których mowa w art. 22a, wartości początkowej składników majątku, o której mowa w art. 22d ust. 1, kwoty określonej w art. 22g ust. 10 do obliczenia wartości początkowej budynków mieszkalnych lub lokali mieszkalnych, jednostkowej ceny nabycia części składowych i peryferyjnych, o których mowa w art. 22g ust. 17, oraz wartości początkowej środków trwałych, o której mowa w art. 22j ust. 1 pkt 1 lit. a) i b), jeżeli wskaźnik wzrostu cen nakładów inwestycyjnych w okresie trzech kwartałów w roku poprzedzającym rok podatkowy w stosunku do analogicznego okresu roku ubiegłego przekroczy 10%.
+2.
+Wskaźniki wzrostu cen nakładów inwestycyjnych ogłasza Prezes Głównego Urzędu Statystycznego w odstępach kwartalnych.
+” ;
+20)
+w art. 23:
+a)
+w ust. 1:
+– pkt 1 otrzymuje brzmienie: „ 1) wydatków na: a) nabycie gruntów lub prawa wieczystego użytkowania gruntów, z wyjątkiem opłat za wieczyste użytkowanie gruntów, b) nabycie lub wytworzenie we własnym zakresie innych niż wymienione w lit. a) środków trwałych oraz wartości niematerialnych i prawnych, w tym również wchodzących w skład nabytego przedsiębiorstwa lub jego zorganizowanych części, c) ulepszenie środków trwałych, które zgodnie z art. 22g ust. 17 powiększają wartość środków trwałych, stanowiącą podstawę naliczania odpisów amortyzacyjnych – wydatki te, zaktualizowane zgodnie z odrębnymi przepisami, pomniejszone o sumę odpisów amortyzacyjnych, o których mowa w art. 22h ust. 1 pkt 1, są jednak kosztem uzyskania przychodów przy określaniu dochodu z odpłatnego zbycia rzeczy określonych w art. 10 ust. 1 pkt 8 lit. d), oraz gdy odpłatne zbycie rzeczy i praw jest przedmiotem działalności gospodarczej, a także w przypadku odpłatnego zbycia składników majątku związanych z działalnością gospodarczą, o których mowa w art. 14 ust. 2 pkt 1, bez względu na czas ich poniesienia, ” ,
+– pkt 4 otrzymuje brzmienie: „ 4) odpisów z tytułu zużycia samochodu osobowego, dokonywanych według zasad określonych w art. 22a-22o, w części ustalonej od wartości samochodu przewyższającej równowartość 10 000 EURO przeliczonej na złote według kursu średniego EURO ogłaszanego przez Narodowy Bank Polski z dnia przekazania samochodu do używania, ”
+– pkt 5 otrzymuje brzmienie: „ 5) strat w środkach trwałych oraz wartościach niematerialnych i prawnych w części pokrytej sumą odpisów amortyzacyjnych, o których mowa w art. 22h ust. 1 pkt 1, ”
+– w pkt 6 skreśla się wyrazy „lub metody jej prowadzenia”,
+– w pkt 10 na końcu dodaje się wyrazy „a w przypadku prowadzenia działalności w formie spółki cywilnej lub osobowej spółki handlowej – także małżonków i małoletnich dzieci wspólników,”
+– w pkt 30 skreśla się wyrazy „składek na rzecz organizacji pracodawców do wysokości określonej przez Radę Ministrów w drodze rozporządzenia, a także”,
+– w pkt 34 wyrazy „tytułu sprzedaży” zastępuje się wyrazami „odpłatnego zbycia”,
+– w pkt 36 skreśla się wyrazy „obowiązujących w przedsiębiorstwach państwowych,”
+– pkt 38 otrzymuje brzmienie: „ 38) wydatków na objęcie lub nabycie udziałów albo wkładów w spółdzielni, udziałów (akcji) w spółce oraz innych papierów wartościowych, a także wydatków na nabycie jednostek uczestnictwa w funduszach powierniczych oraz certyfikatów inwestycyjnych lub jednostek uczestnictwa funduszy inwestycyjnych; wydatki takie są jednak kosztem uzyskania przychodu przy ustalaniu dochodu z odpłatnego zbycia tych udziałów (akcji), wkładów oraz innych papierów wartościowych, w tym dochodu z tytułu wykupu przez emitenta papierów wartościowych, a także dochodu z odpłatnego zbycia certyfikatów inwestycyjnych lub jednostek uczestnictwa funduszy inwestycyjnych, albo umorzenia jednostek uczestnictwa w funduszach powierniczych, a także z tytułu umorzenia jednostek uczestnictwa lub certyfikatów inwestycyjnych w przypadku likwidacji funduszu inwestycyjnego, ”
+– po pkt 38 dodaje się pkt 38a w brzmieniu: „ 38a) wydatków związanych z nabyciem pochodnych instrumentów finansowych – do czasu realizacji praw wynikających z tych instrumentów albo rezygnacji z realizacji praw wynikających z tych instrumentów albo ich odpłatnego zbycia – o ile wydatki te, stosownie do art. 22g ust. 3, nie powiększają wartości początkowej środka trwałego oraz wartości niematerialnych i prawnych, ”
+– w pkt 40 skreśla się wyrazy „z bankowym postępowaniem ugodowym w rozumieniu przepisów o restrukturyzacji finansowej przedsiębiorstw i banków lub”,
+– w pkt 43 lit. b) otrzymuje brzmienie: „ b) podatek należny w przypadku: – importu usług, jeżeli nie stanowi on podatku naliczonego w rozumieniu odrębnych przepisów, – przekazania lub zużycia przez podatnika towarów lub świadczenia usług na potrzeby reprezentacji i reklamy, obliczony zgodnie z odrębnymi przepisami, ”
+– pkt 44 otrzymuje brzmienie: „ 44) strat powstałych w wyniku nadmiernych ubytków lub zawinionych niedoborów wyrobów akcyzowych oraz podatku akcyzowego od tych ubytków lub niedoborów, ”
+– w pkt 45 wyrazy „odrębnych przepisach” zastępuje się wyrazami „art. 22a-22o”,
+– po pkt 45 dodaje się pkt 45a i 45b w brzmieniu: „ 45a) odpisów amortyzacyjnych od wartości początkowej środków trwałych oraz wartości niematerialnych i prawnych: a) nabytych nieodpłatnie, z wyjątkiem nabytych w drodze spadku lub darowizny, jeżeli nabycie to nie stanowi przychodu w naturze albo dochód z tego tytułu jest zwolniony od podatku dochodowego, b) jeżeli przed dniem 1 stycznia 1995 r. zostały nabyte lecz nie zaliczone do środków trwałych albo wartości niematerialnych i prawnych, c) oddanych do nieodpłatnego używania, z wyjątkiem nieruchomości – za miesiące, w których składniki te były oddane do nieodpłatnego używania, 45b) odpisów amortyzacyjnych od wartości początkowej wartości niematerialnych i prawnych wniesionych do spółki w postaci wkładu niepieniężnego, stanowiących równowartość uzyskanych informacji związanych z wiedzą w dziedzinie przemysłowej, handlowej, naukowej lub organizacyjnej (know-how), ”
+– w pkt 46 skreśla się wyrazy „lub innego samochodu o dopuszczalnej ładowności nie przekraczającej 500 kilogramów” oraz po wyrazach „właściwego ministra” skreśla się przecinek i wyrazy „obowiązującej w przedsiębiorstwach państwowych”,
+– w pkt 47 skreśla się wyrazy „lub innego samochodu o dopuszczalnej ładowności nie przekraczającej 500 kilogramów”,
+– w pkt 50 wyrazy „budżetu gminy” zastępuje się wyrazami „budżetów jednostek samorządu terytorialnego”,
+– skreśla się pkt 53,
+– pkt 56 otrzymuje brzmienie: „ 56) wydatków i kosztów sfinansowanych z dochodów (przychodów), o których mowa w art. 21 ust. 1 pkt 46 i 48, ”
+– pkt 57 otrzymuje brzmienie: „ 57) składek opłaconych przez pracodawcę z tytułu zawartych lub odnowionych umów ubezpieczenia na rzecz pracowników, z wyjątkiem umów dotyczących ryzyka grup 1, 3 i 5 działu I oraz grup 1 i 2 działu II, wymienionych w załączniku do ustawy z dnia 28 lipca 1990 r. o działalności ubezpieczeniowej (Dz. U. z 1996 r. Nr 11, poz. 62, z 1997 r. Nr 43, poz. 272, Nr 88, poz. 554, Nr 107, poz. 685, Nr 121, poz. 769 i 770 i Nr 139, poz. 934, z 1998 r. Nr 155, poz. 1015, z 1999 r. Nr 49, poz. 483, Nr 101, poz. 1178 i Nr 110, poz. 1255 oraz z 2000 r. Nr 43, poz. 483, Nr 48, poz. 552 i Nr 70, poz. 819), jeżeli uprawnionym do otrzymania świadczenia nie jest pracodawca i umowa ubezpieczenia w okresie pięciu lat, licząc od końca roku kalendarzowego, w którym ją zawarto lub odnowiono, wyklucza: a) wypłatę kwoty stanowiącej wartość odstąpienia od umowy, b) możliwość zaciągania zobowiązań pod zastaw praw wynikających z umowy, c) wypłatę z tytułu dożycia wieku oznaczonego w umowie, ”
+– w pkt 58 kropkę zastępuje się przecinkiem i dodaje pkt 59 w brzmieniu: „ 59) dodatkowej opłaty wymierzanej przez Zakład Ubezpieczeń Społecznych na podstawie przepisów o systemie ubezpieczeń społecznych. ” ,
+b)
+w ust. 2 pkt 3 otrzymuje brzmienie:
+„
+3)
+protokołem sporządzonym przez podatnika, stwierdzającym, że przewidywane koszty procesowe i egzekucyjne związane z dochodzeniem wierzytelności byłyby równe albo wyższe od jej kwoty.
+” ,
+c)
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+„
+3a.
+Ilekroć w ust. 1 jest mowa o samochodzie osobowym – rozumie się przez to każdy samochód, który nie posiada homologacji producenta lub importera wymaganej dla samochodów innych niż osobowe oraz którego dopuszczalna ładowność nie przekracza 500 kg.
+” ,
+d)
+w ust. 5 po wyrazach „pkt 36” dodaje się wyrazy „i 46”;
+21)
+w art. 24:
+a)
+w ust. 2 wyrazy „ze sprzedaży” zastępuje się wyrazami „z odpłatnego zbycia”,
+b)
+w ust. 4 po wyrazie „Dochodem” dodaje się wyraz „(stratą)” oraz na końcu kropkę zastępuje się przecinkiem i dodaje wyrazy „określonych w załączniku nr 2.”,
+c)
+po ust. 4 dodaje się ust. 4a-4e w brzmieniu:
+„
+4a.
+Normy szacunkowe dochodu rocznego, o których mowa w ust. 4, stosuje się od jednostek powierzchni upraw lub innych jednostek rodzajów produkcji określonych w kolumnie 3 załącznika nr 2, z tym że w przypadku:
+1)
+upraw w szklarniach i tunelach foliowych – od 1 m2 powierzchni ogólnej obliczanej według wewnętrznej długości ścian,
+2)
+upraw grzybów i ich grzybni – od 1 m2 powierzchni zajętej pod te uprawy,
+3)
+wylęgarni drobiu – od 1 sztuki pisklęcia uzyskanego z wylęgu,
+4)
+zwierząt laboratoryjnych – od 1 sztuki sprzedanych zwierząt,
+5)
+hodowli i chowu zwierząt wymienionych pod lp. 15 lit. b)-h) załącznika nr 2 – od 1 sztuki zwierząt sprzedanych,
+6)
+hodowli ryb akwariowych – od 1 dm3 objętości akwarium, obliczonej według wewnętrznych długości krawędzi.
+4b.
+Jeżeli rozmiary działów specjalnych produkcji rolnej przekraczają wielkości określone w załączniku nr 2, opodatkowaniu podlegają dochody uzyskane w roku podatkowym z całej powierzchni upraw lub wszystkich jednostek produkcji.
+4c.
+Jeżeli w ciągu rocznego cyklu produkcji na tej samej powierzchni są prowadzone różne uprawy, dla których są ustalane różne normy szacunkowe dochodu, dochód z każdego rodzaju uprawy oblicza się, z zastrzeżeniem ust. 4e, przy zastosowaniu właściwej dla niej normy, proporcjonalnie do liczby miesięcy, w których była prowadzona taka uprawa, wliczając w to okres przygotowania do zaprowadzenia tej uprawy.
+4d.
+Przepis ust. 4c stosuje się również w razie rozpoczęcia lub zaprzestania w ciągu roku prowadzenia działów specjalnych produkcji rolnej.
+4e.
+W szklarniach nie ogrzewanych stosuje się normę roczną bez względu na okres i rodzaj prowadzonej uprawy.
+” ,
+d)
+w ust. 5 po wyrazach „w tym także:” dodaje się wyrazy „dochód z umorzenia udziałów lub akcji,”
+e)
+w ust. 6 wyrazy „ze sprzedaży” zastępuje się wyrazami „z odpłatnego zbycia” i skreśla się ostatnie zdanie,
+f)
+ust. 7 otrzymuje brzmienie:
+„
+7.
+Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw rolnictwa, poczynając od roku podatkowego 2002, ogłasza w drodze rozporządzenia normy szacunkowe, o których mowa w ust. 4, zmieniając je corocznie w stopniu odpowiadającym wskaźnikowi wzrostu cen towarowej produkcji rolniczej, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej «Monitor Polski».
+” ,
+g)
+po ust. 7 dodaje się ust. 8–12 w brzmieniu:
+„
+8.
+W przypadku połączenia spółek mających osobowość prawną, dochód (przychód) udziałowca (akcjonariusza) spółki przejmowanej, stanowiący nadwyżkę pomiędzy wartością udziałów (akcji) przydzielonych przez spółkę przejmującą a wydatkami na nabycie (objęcie) udziałów (akcji) w spółce przejmowanej, nie podlega opodatkowaniu w momencie połączenia spółek; przy ustalaniu dochodu z odpłatnego zbycia udziałów (akcji) spółki przejmującej, udziałowiec (akcjonariusz) ustala koszt uzyskania przychodów na podstawie art. 22 ust. 1f albo art. 23 ust. 1 pkt 38 w odniesieniu do nabycia (objęcia) udziałów (akcji) w spółce przejętej.
+9.
+Przepisy ust. 8 stosuje się odpowiednio do połączenia spółek poprzez zawiązanie nowej spółki.
+10.
+Jeżeli podatnik dokonuje odpłatnego zbycia papierów wartościowych nabytych po różnych cenach, przy ustalaniu dochodu z takiego zbycia stosuje się zasadę, że każdorazowo zbycie dotyczy kolejno papierów wartościowych nabytych najwcześniej.
+11.
+Dochód stanowiący nadwyżkę pomiędzy wartością rynkową akcji objętych przez osoby uprawnione na podstawie uchwały walnego zgromadzenia akcjonariuszy spółki, a wydatkami poniesionymi na ich objęcie, nie podlega opodatkowaniu w momencie objęcia tych akcji; zasadę określoną w zdaniu pierwszym stosuje się odpowiednio do dochodu stanowiącego nadwyżkę pomiędzy wartością rynkową akcji a wydatkami poniesionymi na ich nabycie od spółki posiadającej osobowość prawną, która objęła te akcje wyłącznie w celu przeniesienia tytułu ich własności na osoby uprawnione na podstawie uchwały walnego zgromadzenia spółki będącej emitentem akcji.
+12.
+Zasada, o której mowa w ust. 11, nie ma zastosowania do dochodu osiągniętego ze zbycia akcji, przez osoby uprawnione na podstawie uchwały walnego zgromadzenia spółki będącej emitentem akcji.
+” ;
+22)
+po art. 24 dodaje się art. 24a i 24b w brzmieniu:
+„
+Art. 24a.
+1.
+Osoby fizyczne i spółki cywilne osób fizycznych, wykonujące działalność gospodarczą, są obowiązane prowadzić podatkową księgę przychodów i rozchodów, zwaną dalej «księgą», z zastrzeżeniem ust. 3 i 5, albo księgi rachunkowe, zgodnie z odrębnymi przepisami, w sposób zapewniający ustalenie dochodu (straty), podstawy opodatkowania i wysokości należnego podatku za rok podatkowy, w tym za okres sprawozdawczy, a także uwzględniać w ewidencji środków trwałych oraz wartości niematerialnych i prawnych informacje niezbędne do obliczenia wysokości odpisów amortyzacyjnych zgodnie z przepisami art. 22a-22o.
+2.
+Obowiązek prowadzenia księgi dotyczy również osób:
+1)
+wykonujących działalność na podstawie umów agencyjnych i umów na warunkach zlecenia, zawartych na podstawie odrębnych przepisów,
+2)
+prowadzących działy specjalne produkcji rolnej, jeżeli osoby te zgłosiły zamiar prowadzenia tych ksiąg,
+3)
+duchownych, które zrzekły się opłacania zryczałtowanego podatku dochodowego.
+3.
+Obowiązek prowadzenia księgi nie dotyczy osób, które:
+1)
+opłacają podatek dochodowy w formach zryczałtowanych,
+2)
+wykonują wyłącznie usługi przewozu osób i towarów taborem konnym,
+3)
+wykonują zawód adwokata wyłącznie w zespole adwokackim,
+4)
+dokonują sprzedaży środków trwałych po likwidacji działalności.
+4.
+Obowiązek prowadzenia ksiąg rachunkowych dotyczy osób fizycznych i spółek cywilnych osób fizycznych, jeżeli ich przychody, w rozumieniu art. 14, za poprzedni rok podatkowy wyniosły w walucie polskiej co najmniej równowartość kwoty określonej w EURO w przepisach o rachunkowości.
+5.
+Osoba fizyczna lub spółka cywilna osób fizycznych może prowadzić księgi rachunkowe również od początku następnego roku podatkowego, jeżeli przychody, w rozumieniu art. 14, za poprzedni rok podatkowy są niższe niż równowartość w walucie polskiej kwoty określonej w EURO w przepisach o rachunkowości. W tym przypadku osoba ta lub wspólnicy spółki przed rozpoczęciem roku podatkowego są obowiązani do zawiadomienia o tym urzędu skarbowego właściwego w sprawach opodatkowania podatkiem dochodowym.
+6.
+Wyrażone w EURO wielkości, o których mowa w ust. 4 i 5, przelicza się na walutę polską według średniego kursu ogłaszanego przez Narodowy Bank Polski, obowiązującego w dniu 30 września roku poprzedzającego rok podatkowy.
+7.
+Minister właściwy do spraw finansów publicznych, w drodze rozporządzenia, określi sposób prowadzenia podatkowej księgi przychodów i rozchodów, szczegółowe warunki, jakim powinna odpowiadać ta księga, aby stanowiła dowód pozwalający na określenie zobowiązań podatkowych, oraz szczegółowy zakres obowiązków związanych z jej prowadzeniem, a także terminy zawiadomienia urzędu skarbowego o prowadzeniu księgi.
+1.
+Jeżeli ustalenie dochodu (straty) w sposób przewidziany w art. 24 i 24a nie jest możliwe, dochód (stratę) ustala się w drodze oszacowania.
+2.
+W przypadku podatników nie będących podatnikami, o których mowa w art. 3, obowiązanych do prowadzenia ksiąg wymienionych w art. 24a, gdy określenie dochodu na podstawie tych ksiąg nie jest możliwe, dochód określa się w drodze oszacowania, z zastosowaniem wskaźnika dochodu w stosunku do przychodu w wysokości:
+1)
+5% – z działalności w zakresie handlu hurtowego lub detalicznego,
+2)
+10% – z działalności budowlanej lub montażowej albo w zakresie usług transportowych,
+3)
+60% – z działalności w zakresie pośrednictwa, jeżeli wynagrodzenie jest określone w formie prowizji,
+4)
+80% – z działalności w zakresie usług adwokackich lub rzeczoznawstwa,
+5)
+20% – z pozostałych źródeł przychodów.
+3.
+Przez pojęcie «działalność w zakresie handlu hurtowego lub detalicznego», o której mowa w ust. 2 pkt 1, wykonywanej na terytorium Rzeczypospolitej Polskiej przez podatników nie będących podatnikami, o których mowa w art. 3, uważa się odpłatne zbycie towarów polskim odbiorcom – bez względu na miejsce zawarcia umowy, jeżeli podatnicy ci mają na terytorium Rzeczypospolitej Polskiej przedstawicielstwo działające na podstawie zezwolenia udzielonego przez ministra właściwego do spraw gospodarki lub innego właściwego ministra lub wpisu do ewidencji.
+4.
+Przepisów ust. 2 i 3 nie stosuje się, jeżeli umowa w sprawie zapobieżenia podwójnemu opodatkowaniu, której Rzeczpospolita Polska jest stroną, zawarta z krajem, na terytorium którego podatnik ma siedzibę lub miejsce zamieszkania, stanowi inaczej.
+” ;
+23)
+w art. 25:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Jeżeli:
+1)
+podatnik podatku dochodowego mający siedzibę (zarząd) lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, zwany dalej «podmiotem krajowym», bierze udział bezpośrednio lub pośrednio w zarządzaniu przedsiębiorstwem położonym za granicą lub w jego kontroli albo posiada udział w kapitale tego przedsiębiorstwa, albo
+2)
+osoba fizyczna lub prawna mająca miejsce zamieszkania albo siedzibę (zarząd) za granicą, zwana dalej «podmiotem zagranicznym», bierze udział bezpośrednio lub pośrednio w zarządzaniu podmiotem krajowym lub w jego kontroli albo posiada udział w kapitale tego podmiotu krajowego, albo
+3)
+te same osoby prawne lub fizyczne równocześnie bezpośrednio lub pośrednio biorą udział w zarządzaniu podmiotem krajowym i podmiotem zagranicznym lub w ich kontroli albo posiadają udział w kapitale tych podmiotów
+i jeżeli w wyniku takich powiązań zostaną ustalone lub narzucone warunki różniące się od warunków, które ustaliłyby między sobą niezależne podmioty, i w wyniku tego podmiot nie wykazuje dochodów albo wykazuje dochody niższe od tych, jakich należałoby oczekiwać, gdyby wymienione powiązania nie istniały – dochody danego podmiotu oraz należny podatek określa się bez uwzględnienia warunków wynikających z tych powiązań.
+” ,
+b)
+ust. 4 otrzymuje brzmienie:
+„
+4.
+Przepisy ust. 1–3 stosuje się odpowiednio, gdy podmiot krajowy:
+1)
+wykorzystuje swój związek z innym podmiotem krajowym, któremu przysługują ulgi w podatku dochodowym lub który, będąc osobą fizyczną, korzysta ze zryczałtowanych form opodatkowania podatkiem dochodowym w związku z prowadzoną działalnością gospodarczą, lub
+2)
+jest powiązany kapitałowo z innym podmiotem krajowym, lub
+3)
+pozostaje w związku gospodarczym z innym podmiotem krajowym
+i w związku z istnieniem takich powiązań lub związków wykonuje świadczenia na warunkach korzystniejszych, odbiegających od warunków ogólnie stosowanych w czasie i miejscu wykonania świadczenia, w wyniku czego nie wykazuje dochodów albo wykazuje dochody niższe od tych, jakich należałoby oczekiwać, gdyby warunki tych świadczeń nie odbiegały od warunków ogólnie stosowanych w czasie i miejscu wykonywania świadczenia.
+” ,
+c)
+w ust. 7 wyrazy „ust. 5” zastępuje się wyrazami „ust. 4 i 5”,
+d)
+po ust. 7 dodaje się ust. 7a w brzmieniu:
+„
+7a.
+Związek gospodarczy, o którym mowa w ust. 4 pkt 3, zachodzi w przypadkach, gdy podmioty krajowe pozostające w takim związku układają swoje wzajemne stosunki na warunkach odbiegających od warunków, jakie stosują wobec podmiotów, z którymi nie pozostają w takim związku, bądź jakie stosują między sobą podmioty niezależne, w szczególności gdy między tymi podmiotami krajowymi zawarta jest umowa spółki cywilnej, osobowej spółki handlowej, wspólnego przedsięwzięcia, wspólnego użytkowania rzeczy lub praw oraz umowa kooperacyjna.
+” ;
+24)
+po art. 25 dodaje się art. 25a w brzmieniu:
+„
+Art. 25a.
+1.
+Podatnicy dokonujący transakcji z podmiotami powiązanymi z tymi podatnikami – w rozumieniu art. 25 ust. 1 i 4 – lub transakcji, w związku z którymi zapłata należności wynikających z takich transakcji dokonywana jest bezpośrednio lub pośrednio na rzecz podmiotu mającego miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, są obowiązani do sporządzenia dokumentacji podatkowej takiej (takich) transakcji, obejmującej:
+1)
+określenie funkcji, jakie spełniać będą podmioty uczestniczące w transakcji (uwzględniając użyte aktywa i podejmowane ryzyko),
+2)
+określenie wszystkich przewidywanych kosztów związanych z transakcją oraz formę i termin zapłaty,
+3)
+metodę i sposób kalkulacji zysków oraz określenie ceny przedmiotu transakcji,
+4)
+określenie strategii gospodarczej oraz innych działań w jej ramach – w przypadku gdy na wartość transakcji miała wpływ strategia przyjęta przez podmiot,
+5)
+wskazanie innych czynników – w przypadku gdy w celu określenia wartości przedmiotu transakcji przez podmioty uczestniczące w transakcji uwzględnione zostały te inne czynniki,
+6)
+określenie oczekiwanych przez podmiot obowiązany do sporządzenia dokumentacji korzyści związanych z uzyskaniem świadczeń – w przypadku umów dotyczących świadczeń (w tym usług) o charakterze niematerialnym.
+2.
+Obowiązek, o którym mowa w ust. 1, obejmuje transakcję lub transakcje między podmiotami powiązanymi, w których łączna kwota (lub jej równowartość) wynikająca z umowy lub rzeczywiście zapłacona w roku podatkowym łączna kwota wymagalnych w roku podatkowym świadczeń przekracza równowartość:
+1)
+30 000 EURO – w przypadku świadczenia usług, sprzedaży lub udostępnienia wartości niematerialnych i prawnych, albo
+2)
+50 000 EURO – w pozostałych przypadkach.
+3.
+Obowiązek sporządzenia dokumentacji, o którym mowa w ust. 1, obejmuje również transakcję, w związku z którą zapłata należności wynikająca z takiej transakcji dokonywana jest bezpośrednio lub pośrednio na rzecz podmiotu mającego miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, jeżeli łączna kwota (lub jej równowartość) wynikająca z umowy lub rzeczywiście zapłacona w roku podatkowym łączna kwota wymagalnych w roku podatkowym świadczeń przekracza równowartość 20 000 EURO.
+4.
+Na żądanie organów podatkowych lub organów kontroli skarbowej podatnicy są obowiązani do przedłożenia dokumentacji, o której mowa w ust. 1–3, w terminie 7 dni od dnia doręczenia żądania tej dokumentacji przez te organy.
+5.
+Wyrażone w EURO wielkości, o których mowa w ust. 2 i 3, przelicza się na walutę polską po średnim kursie ogłaszanym przez Narodowy Bank Polski, obowiązującym w ostatnim dniu roku podatkowego poprzedzającego rok podatkowy, w którym została zawarta transakcja objęta obowiązkiem, o którym mowa w ust. 1.
+6.
+Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wykaz krajów i terytoriów stosujących szkodliwą konkurencję podatkową. Sporządzając wykaz krajów i terytoriów, minister właściwy do spraw finansów publicznych uwzględnia w szczególności treść ustaleń w tym zakresie podjętych przez Organizację Współpracy Gospodarczej i Rozwoju (OECD).
+” ;
+25)
+w art. 26:
+a)
+w ust. 1:
+– wyrazy „ust. 4–7” zastępuje się wyrazami „ust. 4–6 i 8–12 lub art. 24b ust. 1 i 2”,
+– skreśla się pkt 1,
+– pkt 2 otrzymuje brzmienie: „ 2) składek, określonych w przepisach o systemie ubezpieczeń społecznych: a) zapłaconych bezpośrednio na własne ubezpieczenia emerytalne, rentowe, chorobowe oraz wypadkowe podatnika oraz osób z nim współpracujących, jeżeli nie zostały zaliczone do kosztów uzyskania przychodów, b) potrąconych przez płatnika ze środków podatnika na ubezpieczenia emerytalne i rentowe oraz na ubezpieczenie chorobowe, z tym że w przypadku podatnika osiągającego przychody określone w art. 12 ust. 6, tylko w części obliczonej, w sposób określony w art. 33 ust. 4, od przychodu podlegającego opodatkowaniu – odliczenie nie dotyczy składek, których podstawę wymiaru stanowi dochód (przychód) wolny od podatku na podstawie art. 21 i 52, ”
+– skreśla się pkt 8,
+– w pkt 9 na końcu kropkę zastępuje się przecinkiem i dodaje pkt 10 w brzmieniu: „ 10) kwoty równej funduszowi wynagrodzeń przysługujących osobom pozbawionym wolności i zatrudnionym u podatnika innego niż przywięzienny zakład pracy, o którym mowa w odrębnych przepisach. ” ,
+b)
+skreśla się ust. 2–4,
+c)
+ust. 7 otrzymuje brzmienie:
+„
+7.
+Wysokość wydatków na cele określone w ust. 1 ustala się na podstawie dokumentów stwierdzających ich poniesienie.
+” ,
+d)
+po ust. 7 dodaje się ust. 7a-7g w brzmieniu:
+„
+7a.
+Za wydatki, o których mowa w ust. 1 pkt 6, uważa się wydatki poniesione na:
+1)
+adaptację i wyposażenie mieszkań oraz budynków mieszkalnych stosownie do potrzeb wynikających z niepełnosprawności,
+2)
+przystosowanie pojazdów mechanicznych do potrzeb wynikających z niepełnosprawności,
+3)
+zakup i naprawę indywidualnego sprzętu, urządzeń i narzędzi technicznych niezbędnych w rehabilitacji oraz ułatwiających wykonywanie czynności życiowych, stosownie do potrzeb wynikających z niepełnosprawności,
+4)
+zakup wydawnictw i materiałów (pomocy) szkoleniowych, stosownie do potrzeb wynikających z niepełnosprawności,
+5)
+odpłatność za pobyt na turnusie rehabilitacyjno-usprawniającym,
+6)
+odpłatność za pobyt na leczeniu sanatoryjnym, za pobyt w placówkach leczniczo-sanatoryjnych, rehabilitacyjno-szkoleniowych, leczniczo-opiekuńczych, opiekuńczo-pielęgnacyjnych, leczniczo-wychowawczych i szkolno-wychowawczych oraz odpłatność za zabiegi rehabilitacyjno-usprawniające,
+7)
+opłacenie przewodników osób niewidomych I lub II grupy inwalidztwa oraz osób z niepełnosprawnością narządu ruchu zaliczonych do I grupy inwalidztwa, w kwocie nie przekraczającej w roku podatkowym trzykrotności najniższego wynagrodzenia za pracę ogłaszanego na podstawie odrębnych przepisów, za grudzień roku poprzedzającego rok podatkowy,
+8)
+utrzymanie przez osoby niewidome, o których mowa w pkt 7, psa przewodnika – w wysokości nie przekraczającej w roku podatkowym kwoty określonej w pkt 7,
+9)
+opiekę pielęgniarską w domu nad osobą niepełnosprawną w okresie przewlekłej choroby uniemożliwiającej poruszanie się oraz usługi opiekuńcze świadczone dla osób niepełnosprawnych zaliczonych do I grupy inwalidztwa,
+10)
+opłacenie tłumacza języka migowego,
+11)
+kolonie i obozy dla dzieci i młodzieży niepełnosprawnej oraz dzieci osób niepełnosprawnych,
+12)
+leki – w wysokości stanowiącej różnicę pomiędzy faktycznie poniesionymi wydatkami w danym miesiącu a kwotą odpowiadającą 20% najniższego wynagrodzenia za pracę, ogłaszanego na podstawie odrębnych przepisów, za grudzień roku poprzedzającego rok podatkowy, jeśli lekarz specjalista stwierdzi, że osoba niepełnosprawna powinna stosować określone leki (stale lub czasowo),
+13)
+odpłatny, konieczny przewóz na niezbędne zabiegi leczniczo-rehabilitacyjne:
+a)
+osoby niepełnosprawnej – karetką transportu sanitarnego,
+b)
+osoby niepełnosprawnej, zaliczonej do I lub II grupy inwalidztwa, oraz dzieci niepełnosprawnych do lat 16 – również innymi środkami transportu niż wymienione w lit. a),
+14)
+używanie samochodu osobowego, stanowiącego własność osoby niepełnosprawnej zaliczonej do I lub II grupy inwalidztwa lub podatnika mającego na utrzymaniu osobę niepełnosprawną zaliczoną do I lub II grupy inwalidztwa albo dzieci niepełnosprawne do lat 16, dla potrzeb związanych z koniecznym przewozem na niezbędne zabiegi leczniczo-rehabilitacyjne – w wysokości nie przekraczającej w roku podatkowym kwoty określonej w pkt 7,
+15)
+odpłatne przejazdy środkami transportu publicznego związane z pobytem na:
+a)
+turnusie rehabilitacyjno-usprawniającym,
+b)
+leczeniu sanatoryjnym w placówkach leczniczo-sanatoryjnych, rehabilitacyjno-szkoleniowych, leczniczo-opiekuńczych, opiekuńczo-pielęgnacyjnych, leczniczo-wychowawczych oraz szkolno-wychowawczych,
+c)
+koloniach i obozach dla dzieci i młodzieży niepełnosprawnej oraz dzieci osób niepełnosprawnych.
+7b.
+Wydatki, o których mowa w ust. 7a, podlegają odliczeniu od dochodu, jeżeli nie były finansowane ze środków zakładowego funduszu rehabilitacji osób niepełnosprawnych, Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych lub ze środków Kas Chorych, albo nie zostały zwrócone podatnikowi w jakiejkolwiek innej formie. W przypadku gdy wydatki były częściowo finansowane z tych funduszy (środków), odliczeniu podlega różnica pomiędzy poniesionymi wydatkami a kwotą sfinansowaną z tych funduszy (środków) lub zwróconą z jakichkolwiek innych środków.
+7c.
+Podstawą do odliczenia wydatków, o których mowa w ust. 7a, jest posiadanie dowodu poniesienia tych wydatków, z wyjątkiem wydatków, o których mowa w ust. 7a pkt 7, 8 i 14.
+7d.
+Warunkiem odliczenia wydatków, o których mowa w ust. 7a, jest posiadanie przez osobę, której dotyczy wydatek:
+1)
+orzeczenia o zakwalifikowaniu przez organy orzekające do jednego z trzech stopni niepełnosprawności, określonych w odrębnych przepisach, lub
+2)
+decyzji przyznającej rentę z tytułu całkowitej lub częściowej niezdolności do pracy albo rentę szkoleniową, albo
+3)
+orzeczenia o rodzaju i stopniu niepełnosprawności osoby, która nie ukończyła 16 roku życia, wydanego na podstawie odrębnych przepisów.
+7e.
+Przepisy ust. 7a-7d stosuje się odpowiednio do podatników, na których utrzymaniu pozostają następujące osoby niepełnosprawne: małżonek, dzieci własne i przysposobione, dzieci obce przyjęte na wychowanie, pasierbowie, rodzice, rodzice małżonka, rodzeństwo, ojczym, macocha, zięciowie i synowe – jeżeli w roku podatkowym dochody tych osób niepełnosprawnych nie przekraczają dwunastokrotności kwoty najniższego wynagrodzenia za pracę, ogłaszanego na podstawie odrębnych przepisów, za grudzień roku poprzedzającego rok podatkowy.
+7f.
+Ilekroć w przepisach ust. 7a jest mowa o osobach zaliczonych do:
+1)
+I grupy inwalidztwa – należy przez to rozumieć odpowiednio osoby, w stosunku do których, na podstawie odrębnych przepisów, orzeczono:
+a)
+całkowitą niezdolność do pracy oraz niezdolność do samodzielnej egzystencji albo
+b)
+znaczny stopień niepełnosprawności,
+2)
+II grupy inwalidztwa – należy przez to rozumieć odpowiednio osoby, w stosunku do których, na podstawie odrębnych przepisów, orzeczono:
+a)
+całkowitą niezdolność do pracy albo
+b)
+umiarkowany stopień niepełnosprawności.
+7g.
+Odliczenia, o których mowa w ust. 7a, mogą być dokonane również w przypadku, gdy osoba, której dotyczy wydatek, posiada orzeczenie o niepełnosprawności wydane przez właściwy organ na podstawie odrębnych przepisów obowiązujących do dnia 31 sierpnia 1997 r. lub w odniesieniu do dzieci do lat 16 orzeczenie o niepełnosprawności wydane przez lekarza specjalistę.
+” ,
+e)
+skreśla się ust. 8–12 i ust. 14;
+26)
+skreśla się art. 26a;
+27)
+w art. 27:
+a)
+w ust. 5 po wyrazach „pkt 33” dodaje się wyrazy „lub pkt 66” oraz wyraz „ustala” zastępuje się wyrazem „określa”,
+b)
+po ust. 6 dodaje się ust. 7 w brzmieniu:
+„
+7.
+Jeżeli organy podatkowe lub organy kontroli skarbowej określą, na podstawie art. 25, dochód podatnika w wysokości wyższej (stratę w wysokości niższej) niż zadeklarowana przez podatnika w związku z dokonaniem transakcji, o których mowa w art. 25a, a podatnik nie przedstawi tym organom wymaganej przez te przepisy dokumentacji podatkowej – różnicę między dochodem zadeklarowanym przez podatnika a określonym przez te organy opodatkowuje się stawką 50%.
+” ;
+28)
+w art. 27a:
+a)
+w ust. 1:
+– w zdaniu pierwszym po wyrazach „z art. 27,” dodaje się wyrazy „obniżony zgodnie z art. 27b o kwotę składki na powszechne ubezpieczenie zdrowotne”,
+– pkt 3 otrzymuje brzmienie: „ 3) poniósł wydatki na: a) dojazd dzieci własnych i przysposobionych do szkół podstawowych, gimnazjów, szkół ponadpodstawowych i ponadgimnazjalnych, w tym z oddziałami integracyjnymi, szkół specjalnych, sportowych oraz mistrzostwa sportowego i szkół artystycznych, położonych poza miejscowością stałego lub czasowego zamieszkania dzieci, b) zakup przyrządów i pomocy naukowych, programów komputerowych oraz wydawnictw fachowych bezpośrednio związanych z wykonywanym zawodem i wykonywaną pracą, c) odpłatne dokształcanie i doskonalenie zawodowe podatnika, d) odpłatne kształcenie w szkołach wyższych, w rozumieniu przepisów o szkolnictwie wyższym lub przepisów o wyższych szkołach zawodowych. ” ,
+b)
+w ust. 3 w pkt 1:
+– w lit. d) wyrazy „pracowników, określonego w odrębnych przepisach” zastępuje się wyrazami „za pracę, ogłaszanego na podstawie odrębnych przepisów”,
+– skreśla się lit. e) i f),
+– w lit. g) wyrazy „lit. e)” zastępuje się wyrazami „lit. c)”, a wyrazy „pracowników, określonego w odrębnych przepisach” wyrazami „za pracę, ogłaszanego na podstawie odrębnych przepisów”,
+– w lit. h) wyrazy „lit. f)” zastępuje się wyrazami „lit. d)”, a wyrazy „pracowników, określonego w odrębnych przepisach” wyrazami „za pracę, ogłaszanego na podstawie odrębnych przepisów”,
+c)
+po ust. 5 dodaje się ust. 5a w brzmieniu:
+„
+5a.
+Odliczeniu od podatku podlegają wydatki, o których mowa w ust. 1 pkt 1 lit. b)f), dokonywane dla danej inwestycji wynikającej z jednego z tytułów określonych w ust. 1 pkt 1 lit. b)-f), w okresie nie dłuższym niż cztery kolejne lata, licząc od początku roku podatkowego, za który podatnik po raz pierwszy dokonał odliczeń związanych z tą inwestycją.
+” ,
+d)
+w ust. 6:
+– pkt 1 otrzymuje brzmienie: „ 1) wysokość wydatków na cele wymienione w ust. 1 pkt 1 lit. b) i d)-g) i pkt 3 lit. b) ustala się na podstawie faktury wystawionej wyłącznie przez podatnika podatku od towarów i usług, nie korzystającego ze zwolnienia od tego podatku, lub dowodu odprawy celnej, a w przypadku wpłat na wyodrębniony fundusz remontowy wspólnoty mieszkaniowej – na podstawie dowodu tej wpłaty, ”
+– skreśla się pkt 3,
+e)
+po ust. 7a dodaje się ust. 7b i 7c w brzmieniu:
+„
+7b.
+Za wydatki, o których mowa w ust. 1 pkt 3 lit. c), podlegające odliczeniu, uważa się wydatki z tytułu:
+1)
+dokształcania w formach szkolnych i pozaszkolnych, określonych w przepisach w sprawie zasad i warunków podnoszenia kwalifikacji zawodowych i wykształcenia ogólnego dorosłych,
+2)
+poddania się egzaminowi na tytuł kwalifikacyjny,
+3)
+nauki języka obcego w formach zorganizowanych przez podmioty prowadzące działalność w tym zakresie.
+7c.
+Wydatki, o których mowa w ust. 7b, podlegają odliczeniu, jeżeli:
+1)
+nie zostały odliczone od podatku, na podstawie ust. 1 pkt 3 lit. d),
+2)
+nie zostały zaliczone do kosztów uzyskania przychodów lub nie zostały zwrócone podatnikowi w jakiejkolwiek formie.
+” ,
+f)
+w ust. 8:
+– w zdaniu pierwszym skreśla się wyrazy „i e)” oraz po wyrazie „małżonków” dodaje się przecinek i wyrazy „z wyjątkiem małżonków, w stosunku do których orzeczono separację”,
+– pkt 3 otrzymuje brzmienie: „ 3) w czasie trwania związku małżeńskiego lub do momentu orzeczenia separacji korzystali, w okresie obowiązywania ustawy, z odliczeń od podatku na cele określone w ust. 1 pkt 1 i 2, a następnie związek małżeński ustał lub orzeczona została separacja – przysługująca każdemu z nich kwota odliczenia podlega zmniejszeniu o kwotę odliczeń dokonanych w czasie trwania związku małżeńskiego lub do momentu orzeczenia separacji, w wysokości po 50% tych odliczeń, jeżeli byli opodatkowani łącznie, a jeżeli byli opodatkowani odrębnie – w wysokości odliczenia dokonanego przez każdego z nich. ” ,
+g)
+skreśla się ust. 9,
+h)
+w ust. 10 wyrazy „lit. f)” zastępuje się wyrazami „lit. d)” oraz po wyrazach „podatku dochodowego” dodaje się wyrazy „oraz dochodów w wysokości nie powodującej obowiązku zapłaty podatku”,
+i)
+w ust. 11 ostatnie zdanie otrzymuje brzmienie: „ W ramach limitu przysługującego rodzicom wydatki poniesione na rzecz dzieci własnych i przysposobionych odlicza się od podatku jednego z rodziców lub od podatku obojga, w proporcji określonej przez nich w zeznaniach rocznych. ” ,
+j)
+w ust. 18 skreśla się wyrazy „i w art. 26 ust. 2”,
+k)
+skreśla się ust. 21;
+29)
+w art. 27b w ust. 1:
+a)
+w pkt 2 kropkę zastępuje się przecinkiem i dodaje wyrazy „z tym że w przypadku podatnika osiągającego przychody określone w art. 12 ust. 6, tylko w części obliczonej, w sposób określony w art. 33 ust. 4, od przychodu podlegającego opodatkowaniu”,
+b)
+po pkt 2 dodaje się tiret w brzmieniu:
+„
+– obniżenie nie dotyczy składek, których podstawę wymiaru stanowi dochód (przychód) wolny od podatku na podstawie art. 21 i 52.
+” ;
+30)
+po art. 27b dodaje się art. 27c w brzmieniu:
+„
+Art. 27c.
+1.
+Podatnicy, uzyskujący przychody wymienione w art. 10 ust. 1 pkt 3, mogą korzystać z ulgi polegającej na obniżeniu podatku dochodowego z tytułu szkolenia uczniów, zwanej dalej «ulgą uczniowską».
+2.
+Ulga uczniowska, o której mowa w ust. 1, przysługuje osobom fizycznym prowadzącym działalność gospodarczą, w tym również w formie spółki prawa cywilnego, uprawnionym na mocy odrębnych przepisów do szkolenia uczniów i zatrudniającym w ramach prowadzonej działalności pracowników w celu nauki zawodu. Ulga ta przysługuje także w przypadku, gdy uprawnionym do szkolenia uczniów jest przynajmniej jeden ze wspólników lub pracownik osoby (spółki) prowadzącej działalność gospodarczą.
+3.
+Ulga uczniowska przysługuje, jeżeli szkolenie zostało zakończone pozytywnym wynikiem egzaminu.
+4.
+Ulga uczniowska nie przysługuje za wyszkolenie pracownika będącego już wykwalifikowanym pracownikiem (czeladnikiem) w tym samym lub w innym zawodzie.
+5.
+Wysokość ulgi uczniowskiej za wyszkolenie jednego pracownika zależy od okresu szkolenia wynikającego z umowy o pracę.
+6.
+Ulga uczniowska z tytułu wyszkolenia jednego pracownika stanowi równowartość:
+1)
+sześciokrotności najniższego wynagrodzenia za pracę ogłaszanego na podstawie odrębnych przepisów, określonego za miesiąc, w którym zakończono szkolenie pozytywnym wynikiem egzaminu – przy okresie szkolenia do 24 miesięcy,
+2)
+dziesięciokrotności wynagrodzenia, o którym mowa w pkt 1 – przy okresie szkolenia ponad 24 miesiące.
+7.
+Ulgę uczniowską stosuje się od miesiąca następującego po miesiącu, w którym została wydana decyzja o przyznaniu ulgi.
+8.
+Kwoty ulg uczniowskich, określone w ust. 6, podwyższa się o 20% podatnikom, którzy prowadzą działalność gospodarczą w miejscowościach o liczbie mieszkańców do 5 000 oraz w gminach o szczególnym zagrożeniu wysokim bezrobociem strukturalnym, określonych w odrębnych przepisach. Podwyżka ulgi uczniowskiej o 20% przysługuje także wtedy, gdy po zakończeniu szkolenia gmina, w której prowadzona jest działalność, wykreślona została z wykazu gmin zagrożonych szczególnie wysokim bezrobociem strukturalnym.
+9.
+Kwoty ulg uczniowskich, określone w ust. 6 i 8, dodatkowo podwyższa się o 20% podatnikom, którzy w danym roku podatkowym zakończyli szkolenie więcej niż jednego pracownika; podwyżka przysługuje z tytułu zakończenia szkolenia pozytywnym wynikiem egzaminu każdego następnego pracownika.
+10.
+Ulga uczniowska przysługuje, jeżeli zatrudnienie pracownika w celu nauki zawodu trwało przez cały okres szkolenia wynikający z umowy o pracę w celu nauki zawodu.
+11.
+Jeżeli umowa o pracę w celu przygotowania zawodowego została rozwiązana z przyczyn niezależnych od podatnika, a pracownik podjął naukę zawodu na podstawie umowy o pracę w celu przygotowania zawodowego u innego podatnika – przysługującą z tytułu wyszkolenia ulgę uczniowską dzieli się między obydwu podatników, proporcjonalnie do liczby miesięcy prowadzonego przez nich szkolenia. Jeżeli rozwiązanie umowy nastąpiło z winy szkolącego podatnika, ulga uczniowska przysługuje w wysokości proporcjonalnej do okresu szkolenia tylko temu podatnikowi, u którego pracownik ukończył naukę zawodu.
+12.
+Jeżeli działalność jest prowadzona w formie spółki, ulga uczniowska przysługuje wspólnikom proporcjonalnie do ich udziału w dochodach spółki. W przypadku zmiany wspólnika w ciągu okresu szkolenia, przepis ust. 11 stosuje się odpowiednio.
+13.
+Przepisy ust. 1–12 stosuje się odpowiednio do podatników, którzy na podstawie umowy zawartej ze szkołą prowadzą zajęcia praktyczne lub praktyki zawodowe uczniów szkół zasadniczych, techników, liceów zawodowych i policealnych szkół zawodowych, zwane dalej «praktyczną nauką zawodu», pod warunkiem że praktyczna nauka zawodu trwała nie krócej niż 10 miesięcy.
+14.
+Wniosek o przyznanie ulg uczniowskich, o których mowa w ust 1, podatnik jest obowiązany złożyć w urzędzie skarbowym właściwym według miejsca zamieszkania podatnika w terminie miesiąca od daty złożenia przez pracownika egzaminu kończącego naukę zawodu, a w przypadku, o którym mowa w ust. 13 – w terminie miesiąca od daty zakończenia przez ucznia odbywania u podatnika praktycznej nauki zawodu. Podatnik jest obowiązany dołączyć do wniosku dokument stwierdzający datę złożenia przez pracownika egzaminu kończącego naukę zawodu wynikiem pozytywnym, a w przypadku, o którym mowa w ust. 11, również oświadczenie stwierdzające przyczyny krótszego okresu szkolenia. Wniosek o ulgę uczniowską, o której mowa w ust. 13, powinien zawierać następujące dane: datę zawarcia ze szkołą umowy o praktyczną naukę zawodu, imię i nazwisko ucznia, datę rozpoczęcia i zakończenia przez ucznia odbywania u podatnika praktycznej nauki zawodu.
+15.
+Jeżeli podatnik w okresie korzystania z ulgi uczniowskiej zmieni formę opodatkowania i jest opodatkowany w sposób określony w ustawie o zryczałtowanym podatku dochodowym, nie wykorzystaną część ulgi w podatku dochodowym odlicza od podatku pobieranego w formie ryczałtu od przychodów ewidencjonowanych lub w formie karty podatkowej.
+16.
+W razie uchybienia terminu, o którym mowa w ust. 14, stosuje się przepisy art. 162–164 Ordynacji podatkowej.
+” ;
+31)
+art. 29 otrzymuje brzmienie:
+„
+Art. 29.
+1.
+Podatek dochodowy od uzyskanych na terytorium Rzeczypospolitej Polskiej przez osoby, o których mowa w art. 4, przychodów:
+1)
+z działalności określonej w art. 13 pkt 2 i 6–8 oraz z odsetek, z praw autorskich lub z praw pokrewnych, z praw do projektów wynalazczych, znaków towarowych i wzorów zdobniczych, w tym również ze sprzedaży tych praw, z należności za udostępnienie tajemnicy receptury lub procesu produkcyjnego, za użytkowanie lub prawo do użytkowania urządzenia przemysłowego, handlowego lub naukowego, w tym także środka transportu, oraz za informacje związane ze zdobytym doświadczeniem w dziedzinie przemysłowej, handlowej lub naukowej (know-how) – pobiera się w formie ryczałtu w wysokości 20% przychodu,
+2)
+z opłat za usługi w zakresie działalności widowiskowej, rozrywkowej lub sportowej, wykonywanej przez osoby fizyczne mające miejsce zamieszkania za granicą, a organizowanej za pośrednictwem osób fizycznych lub osób prawnych prowadzących działalność w zakresie imprez artystycznych, rozrywkowych lub sportowych na terytorium Rzeczypospolitej Polskiej – pobiera się w formie ryczałtu w wysokości 20% przychodu,
+3)
+z tytułu należnych opłat za wywóz ładunków i pasażerów przyjętych do przewozu w portach polskich przez zagraniczne przedsiębiorstwa morskiej żeglugi handlowej, z wyjątkiem ładunków i pasażerów tranzytowych – pobiera się w formie ryczałtu w wysokości 10% przychodów,
+4)
+uzyskanych na terytorium Rzeczypospolitej Polskiej przez zagraniczne przedsiębiorstwa żeglugi powietrznej – pobiera się w formie ryczałtu w wysokości 10% przychodów.
+2.
+Przepisy ust. 1 stosuje się z uwzględnieniem umów w sprawie zapobieżenia podwójnemu opodatkowaniu, których stroną jest Rzeczpospolita Polska. Jednakże zastosowanie stawki podatku wynikającej z umowy w sprawie zapobieżenia podwójnemu opodatkowaniu jest możliwe wyłącznie po uzyskaniu od podatnika zaświadczenia o jego miejscu zamieszkania lub siedzibie za granicą dla celów podatkowych, wydanego przez właściwą administrację podatkową (certyfikat rezydencji).
+” ;
+32)
+w art. 30 w ust. 1:
+a)
+pkt 1 otrzymuje brzmienie:
+„
+1)
+z odsetek od pożyczek, z wyjątkiem gdy udzielanie pożyczek jest przedmiotem działalności gospodarczej, z odsetek i dyskonta od papierów wartościowych – w wysokości 20% uzyskanego przychodu,
+”
+b)
+po pkt 1 dodaje się pkt 1a w brzmieniu:
+„
+1a)
+z dywidend i innych przychodów z tytułu udziału w zyskach osób prawnych – w wysokości 15% uzyskanego przychodu,
+”
+c)
+pkt 2 otrzymuje brzmienie:
+„
+2)
+z tytułu wygranych w konkursach, grach i zakładach wzajemnych lub nagród związanych ze sprzedażą premiową, z zastrzeżeniem art. 21 ust. 1 pkt 6, 6a i 68 – w wysokości 10% wygranej lub nagrody,
+”
+d)
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+„
+1a.
+Przepisy ust. 1 pkt 1–1a stosuje się z uwzględnieniem umów w sprawie zapobieżenia podwójnemu opodatkowaniu, których stroną jest Rzeczpospolita Polska, z tym że zastosowanie stawki wynikającej z tych umów jest możliwe wyłącznie po uzyskaniu od podatnika zaświadczenia o jego miejscu zamieszkania lub siedzibie za granicą dla celów podatkowych wydanego przez właściwą administrację podatkową (certyfikat rezydencji).
+” ;
+33)
+w art. 32:
+a)
+w ust. 1:
+– w pkt 1 wyrazy „20%” zastępuje się wyrazami „19%”,
+– w pkt 2 wyrazy „32%” zastępuje się wyrazami „30%”,
+– w pkt 3 wyrazy „44%” zastępuje się wyrazami „40%”,
+b)
+w ust. 1a:
+– w pkt 1 wyrazy „20%” zastępuje się wyrazami „19%”,
+– pkt 2 otrzymuje brzmienie: „ 2) dochody podatnika przekroczą górną granicę pierwszego lub drugiego przedziału skali, a odpowiednio małżonek lub dziecko nie uzyskują żadnych dochodów z wyjątkiem renty rodzinnej lub dochody małżonka mieszczą się w niższych przedziałach skali – zaliczki za miesiące od początku roku włącznie do miesiąca, w którym dochód podatnika przekroczył górną granicę drugiego przedziału skali, wynoszą 19%, a za miesiące następujące po tym miesiącu 30% dochodu uzyskanego w danym miesiącu. ” ,
+c)
+skreśla się ust. 1d,
+d)
+w ust. 2:
+– po wyrazach „o którym mowa w ust. 1” dodaje się wyrazy „i ust. 1a”,
+– po wyrazach „art. 12” dodaje się wyrazy „oraz zasiłki pieniężne z ubezpieczenia społecznego wypłacane przez płatnika”,
+– po wyrazach „pkt 2” dodaje się wyrazy „lit. b)”,
+e)
+w ust. 3b po wyrazach „art. 27b” dodaje się wyrazy „ust. 1 pkt 2 i”;
+34)
+w art. 33:
+a)
+w ust. 2 wyrazy „art. 32 ust. 1–1d” zastępuje się wyrazami „art. 32 ust. 1–1c”,
+b)
+w ust. 3 po wyrazach „pkt 2” dodaje się wyrazy „lit. b), obliczonych od przychodu podlegającego opodatkowaniu”,
+c)
+w ust. 3a po wyrazach „art. 27b” dodaje się wyrazy „ust. 1 pkt 2 i” oraz skreśla się ostatnie zdanie,
+d)
+ust. 4 otrzymuje brzmienie:
+„
+4.
+Po zakończeniu roku podatkowego płatnicy, o których mowa w ust. 1, określają za ten rok, według zasad wynikających z ust. 3, udział dochodu zwolnionego od podatku dochodowego od osób prawnych w ogólnej kwocie wypłat z tytułu dniówek obrachunkowych oraz kwoty składek na ubezpieczenia społeczne i zdrowotne obliczonych od przychodów podlegających opodatkowaniu i rozliczają podatek zgodnie z art. 37–40.
+” ,
+e)
+po ust. 4 dodaje się ust. 5 i 6 w brzmieniu:
+„
+5.
+W ewidencji księgowej dochodów i kosztów, prowadzonej przez rolnicze spółdzielnie produkcyjne lub inne spółdzielnie zajmujące się produkcją rolną, powinny być wyodrębnione dochody i koszty dotyczące produkcji rolniczej roślinnej i zwierzęcej nie polegającej na prowadzeniu działów specjalnych produkcji rolnej.
+6.
+Przy ustalaniu wyodrębnionych dochodów i kosztów z działalności, o której mowa w ust. 5, stosuje się odpowiednio zasady obowiązujące przy ewidencjonowaniu dochodów i kosztów z całokształtu działalności spółdzielni.
+” ;
+35)
+w art. 34:
+a)
+w ust. 2 wyrazy „art. 32 ust. 1–1d” zastępuje się wyrazami „art. 32 ust. 1–1c”,
+b)
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+„
+2a.
+Organ rentowy na wniosek podatnika oblicza i pobiera zaliczki na podatek dochodowy w ciągu roku bez pomniejszania o kwotę określoną w art. 32 ust. 3, począwszy od miesiąca następującego po miesiącu, w którym został złożony wniosek.
+” ,
+c)
+ust. 3 otrzymuje brzmienie:
+„
+3.
+Zaliczka, o której mowa w ust. 1, od zasiłków z ubezpieczenia społecznego wypłaconych bezpośrednio przez organ rentowy wynosi 19% kwoty zasiłków.
+” ,
+d)
+w ust. 4a po wyrazach „art. 27b” dodaje się wyrazy „ust. 1 pkt 2 i”,
+e)
+w ust. 9:
+– w pkt 2 wyrazy „pkt 1, 2 i 5–9” zastępuje się wyrazami „pkt 2, 5–7 i 9”,
+– po wyrazach „art. 27b” dodaje się wyrazy „ust. 1 pkt 2 i”;
+36)
+w art. 35:
+a)
+w ust. 1:
+– w pkt 3 skreśla się wyrazy „pomniejszonych o składki potrącone przez płatnika w danym miesiącu na ubezpieczenia emerytalne i rentowe oraz na ubezpieczenie chorobowe,”
+– w pkt 6 skreśla się kropkę i po pkt 6 dodaje się tiret w brzmieniu: „ – pomniejszonych o składki potrącone przez płatnika w danym miesiącu na ubezpieczenia emerytalne i rentowe oraz na ubezpieczenie chorobowe, o których mowa w art. 26 ust. 1 pkt 2. ” ,
+b)
+w ust. 3 wyrazy „art. 32 ust. 1–1d” zastępuje się wyrazami „art. 32 ust. 1–1c”,
+c)
+w ust. 5 wyrazy „20%” zastępuje się wyrazami „19%”,
+d)
+w ust. 6 wyrazy „20%” zastępuje się wyrazami „19%”,
+e)
+skreśla się ust. 8,
+f)
+w ust. 9 po wyrazach „art. 27b” dodaje się wyrazy „ust. 1 pkt 2 i”;
+37)
+w art. 37:
+a)
+w ust. 1:
+– w pkt 2 wyrazy „pkt 1, 2, 4 i 6–9” zastępuje się wyrazami „pkt 2, 4, 6–7 i 9”,
+– skreśla się ostatnie zdanie,
+b)
+ust. 1a otrzymuje brzmienie:
+„
+1a.
+Przy dokonywaniu rocznego obliczenia podatku, o którym mowa w ust. 1, płatnik:
+1)
+uwzględnia koszty, o których mowa w art. 22 ust. 11,
+2)
+odlicza od dochodu potrącone w ciągu roku składki na ubezpieczenia emerytalne i rentowe oraz na ubezpieczenie chorobowe, o których mowa w art. 26 ust. 1 pkt 2 lit. b),
+3)
+na wniosek podatnika odlicza od dochodu:
+a)
+wydatki na cele określone w art. 26 ust. 1 pkt 3 – do wysokości wynikającej z przedstawionych przez podatnika dokumentów stwierdzających poniesienie tych wydatków,
+b)
+zwrócone płatnikowi świadczenia, o których mowa w art. 26 ust. 1 pkt 5 – jeżeli nie zostały one potrącone od dochodu przy poborze zaliczek,
+4)
+odlicza od podatku kwotę składki na ubezpieczenie zdrowotne pobranej w roku podatkowym zgodnie z przepisami o powszechnym ubezpieczeniu zdrowotnym, z zastrzeżeniem art. 27b ust. 1 pkt 2 i ust. 2.
+” ,
+c)
+po ust. 1a dodaje się ust. 1b w brzmieniu:
+„
+1b.
+Podatek wynikający z obliczenia rocznego przez płatnika jest podatkiem dochodowym należnym od podatnika za dany rok, chyba że urząd skarbowy wyda decyzję określającą inną wysokość zobowiązania w podatku dochodowym.
+” ;
+38)
+w art. 38:
+a)
+w ust. 1 po wyrazach „siedziby płatnika” dodaje się wyrazy „, a w przypadku braku siedziby według miejsca zamieszkania płatnika” oraz po wyrazach „art. 27b” dodaje się wyrazy „ust. 1 pkt 2 i”,
+b)
+ust. 2 otrzymuje brzmienie:
+„
+2.
+Płatnicy będący zakładami pracy chronionej lub zakładami aktywności zawodowej kwoty pobranych zaliczek na podatek od przychodów z tytułów określonych w art. 12 oraz od zasiłków pieniężnych z ubezpieczenia społecznego, wypłacanych przez tych płatników:
+1)
+za miesiące od początku roku do miesiąca włącznie, w którym dochód podatnika uzyskany od początku roku u tego płatnika przekroczył kwotę stanowiącą górną granicę pierwszego przedziału skali, o której mowa w art. 27 ust. 1, przekazują:
+a)
+w 10% na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych,
+b)
+w 90% na zakładowy fundusz rehabilitacji osób niepełnosprawnych,
+2)
+za miesiące następujące po miesiącu, w którym dochód podatnika uzyskany od początku roku u tego płatnika przekroczył kwotę, o której mowa w pkt 1, przekazują na zasadach określonych w ust. 1.
+” ;
+39)
+w art. 39 w ust. 1 po wyrazach „ust. 1 pkt 2” dodaje się wyrazy „lit. b)” oraz po wyrazach „art. 27b” dodaje wyrazy „ust. 1 pkt 2 i”;
+40)
+w art. 41:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Osoby fizyczne będące przedsiębiorcami oraz osoby prawne i jednostki organizacyjne nie mające osobowości prawnej, które dokonują wypłaty należności osobom określonym w art. 3 z tytułu działalności określonej w art. 13 pkt 2 i 5–9, z praw autorskich i praw pokrewnych w rozumieniu odrębnych przepisów oraz z praw do projektów wynalazczych, topografii i układów scalonych, znaków towarowych i wzorów zdobniczych, w tym również z tytułu zakupu tych praw, są obowiązane jako płatnicy pobierać, z zastrzeżeniem ust. 4, zaliczki na podatek dochodowy w wysokości 20% należności pomniejszonej o koszty uzyskania przychodów w wysokości określonej w art. 22 ust. 9, oraz pomniejszonej o składki potrącone przez płatnika w danym miesiącu na ubezpieczenia emerytalne i rentowe oraz na ubezpieczenie chorobowe, o których mowa w art. 26 ust. 1 pkt 2 lit. b).
+” ,
+b)
+w ust. 1a po wyrazach „art. 27b” dodaje się wyrazy „ust. 1 pkt 2 i”,
+c)
+w ust. 4 w zdaniu pierwszym po wyrazach „ust. 1” dodaje się wyrazy „oraz podmioty uprawnione na podstawie odrębnych przepisów do prowadzenia gier i zakładów wzajemnych”,
+d)
+w ust. 5 wyrazy „uprawomocnienia się uchwały zgromadzenia członków o podwyższeniu funduszu udziałowego” zastępuje się wyrazami „podjęcia przez walne zgromadzenie uchwały dotyczącej podwyższenia funduszu udziałowego”,
+e)
+ust. 7 otrzymuje brzmienie:
+„
+7.
+Jeżeli przedmiotem wygranych: w grach liczbowych, loteriach pieniężnych, zakładach wzajemnych, loteriach promocyjnych, loteriach audioteksowych i loteriach fantowych oraz wygranych lub nagród w konkursach są rzeczy, podatnik jest obowiązany wpłacić płatnikowi oraz podmiotowi uprawnionemu na podstawie odrębnych przepisów do prowadzenia gier i zakładów wzajemnych, kwotę należnego podatku zryczałtowanego przed wydaniem rzeczy.
+” ;
+41)
+w art. 42:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Płatnicy, o których mowa w art. 41, przekazują:
+1)
+kwoty pobranych zaliczek na podatek dochodowy, w terminie do dnia 20 miesiąca następującego po miesiącu, w którym pobrano zaliczki, na rachunek urzędu skarbowego, właściwego według siedziby płatnika, a w przypadku braku siedziby – według miejsca zamieszkania płatnika,
+2)
+kwoty zryczałtowanego podatku, o którym mowa w art. 41 ust. 4–6, w terminie do dnia 7 miesiąca następującego po miesiącu, w którym pobrano ten podatek – na rachunek urzędu skarbowego właściwego dla siedziby płatnika, a w przypadku:
+a)
+braku siedziby – na rachunek urzędu skarbowego właściwego według miejsca zamieszkania płatnika,
+b)
+podatników określonych w art. 4 – na rachunek urzędu skarbowego właściwego w sprawach opodatkowania osób zagranicznych.
+” ,
+b)
+ust. 3 otrzymuje brzmienie:
+„
+3.
+W terminie do dnia 15 marca roku następującego po roku podatkowym płatnicy są obowiązani przesłać podatnikom, o których mowa w art. 41 ust. 1 i 3a, oraz urzędowi skarbowemu właściwemu ze względu na miejsce zamieszkania podatnika imienne informacje o wysokości dochodu oraz potrąconych przez płatnika w roku podatkowym składek na ubezpieczenia emerytalne i rentowe oraz na ubezpieczenie chorobowe, o których mowa w art. 26 ust. 1 pkt 2, oraz składki na ubezpieczenie zdrowotne pobranej w roku podatkowym przez płatnika i składki na ubezpieczenie zdrowotne odliczonej, z zastrzeżeniem art. 27b ust. 1 pkt 2 i ust. 2, a także o pobranych zaliczkach na podatek, sporządzone według ustalonego wzoru. W razie zaprzestania przez płatnika prowadzenia działalności przed terminem, o którym mowa w zdaniu pierwszym, jest on obowiązany przesłać tę informację w terminie do dnia zaprzestania działalności.
+” ;
+42)
+po art. 42 dodaje się art. 42a i 42b w brzmieniu:
+„
+Art. 42a.
+Osoby fizyczne będące przedsiębiorcami oraz osoby prawne i jednostki organizacyjne nie mające osobowości prawnej, które dokonują wypłaty należności lub świadczeń, o których mowa w art. 20 ust. 1, z wyjątkiem dochodów (przychodów) wymienionych w art. 21 i 52, od których nie są obowiązane pobierać zaliczki na podatek lub zryczałtowanego podatku dochodowego – mają obowiązek sporządzić w trzech egzemplarzach, odrębnie dla każdego podatnika, informację według ustalonego wzoru o wysokości przychodów i w terminie do dnia 15 marca następnego roku podatkowego przekazać jeden egzemplarz podatnikowi, a drugi – urzędowi skarbowemu właściwemu według miejsca zamieszkania podatnika.
+W celu ułatwiania płatnikom przekazywania:
+1)
+informacji, o których mowa w art. 34 ust. 8, art. 39 ust. 1, art. 42 ust. 3 oraz art. 42a,
+2)
+rocznego obliczenia podatku, o którym mowa w art. 34 ust. 7 i art. 37 ust. 1,
+minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, tryb sporządzania informacji i rocznego obliczenia podatku z wykorzystaniem masowych form transmisji danych; rozporządzenie to powinno zawierać w szczególności: format zapisu danych na nośniku cyfrowym, program sprawdzający zgodność danych ze specyfikacją formatu oraz wzór dokumentu, przy którym będą przekazywane nośniki cyfrowe do urzędu skarbowego.
+” ;
+43)
+w art. 44:
+a)
+w ust. 3 w pkt 2 wyrazy „art. 26, 26a i 27” zastępuje się wyrazami „art. 26, 27 i 27b”,
+b)
+skreśla się ust. 3b,
+c)
+w ust. 5 po wyrazie „podatnik” dodaje się przecinek i wyrazy „o którym mowa w ust. 1 pkt 1 i 5,”
+d)
+po ust. 6a dodaje się ust. 6b-6d w brzmieniu:
+„
+6b.
+Podatnicy, o których mowa w ust. 1 pkt 1, mogą wpłacać zaliczki miesięczne w uproszczonej formie, według następujących zasad:
+1)
+za miesiące od stycznia do maja roku podatkowego – w wysokości 1/6 podatku należnego wykazanego w deklaracji o wysokości dochodu (straty) osiągniętego za pierwsze półrocze roku poprzedzającego rok podatkowy,
+2)
+za miesiąc czerwiec roku podatkowego – w wysokości różnicy pomiędzy podatkiem obliczonym według zasad określonych w art. 26, 27 i 27b, od dochodu osiągniętego od początku roku do dnia 30 czerwca roku podatkowego, obliczonego zgodnie z ust. 2 i 3, a sumą należnych zaliczek za poprzednie miesiące, obliczonych zgodnie z pkt 1,
+3)
+za miesiące od lipca do grudnia roku podatkowego – w wysokości 1/6 należnego podatku za pierwsze półrocze roku podatkowego wynikającego z deklaracji, o której mowa w ust. 6c pkt 4.
+6c.
+Podatnicy, którzy wybrali uproszczoną formę wpłacania zaliczek, są zobowiązani:
+1)
+do dnia 20 lutego roku podatkowego zawiadomić o wyborze tej formy urząd skarbowy właściwy według miejsca zamieszkania podatnika,
+2)
+stosować uproszczoną formę wpłacania zaliczek przez cały rok podatkowy,
+3)
+wpłacać zaliczki w terminach określonych w ust. 6,
+4)
+złożyć deklarację, według ustalonego wzoru, o wysokości osiągniętego dochodu (straty) za pierwsze półrocze roku podatkowego, obliczonego zgodnie z ust. 2 i 3, i o wysokości należnych za ten okres zaliczek, ustalonych według zasad określonych w art. 26, 27 i 27b, w terminie do dnia 20 lipca roku podatkowego,
+5)
+dokonać rozliczenia podatku za rok podatkowy zgodnie z art. 45.
+6d.
+Przepisy ust. 6b i 6c nie mają zastosowania do podatników, którzy:
+1)
+po raz pierwszy podjęli działalność w roku poprzedzającym rok podatkowy lub w roku podatkowym, lub
+2)
+w pierwszym półroczu roku podatkowego poprzedzającego rok podatkowy odliczali stratę, lub
+3)
+za pierwsze półrocze roku podatkowego poprzedzającego rok podatkowy ponieśli stratę, lub
+4)
+w trakcie roku podatkowego poprzedzającego rok podatkowy dokonywali odliczeń, z wyjątkiem odliczeń, o których mowa w art. 27b, lub korzystali z ulg, lub dokonują takich odliczeń w trakcie roku podatkowego.
+” ,
+e)
+ust. 8 otrzymuje brzmienie:
+„
+8.
+Podatnicy osiągający dochody:
+1)
+z odpłatnego zbycia udziałów, akcji, obligacji lub innych papierów wartościowych, z zastrzeżeniem art. 52 pkt 1,
+2)
+z tytułu objęcia udziałów (akcji) w spółce albo wkładów w spółdzielni w zamian za wkład niepieniężny w innej postaci niż przedsiębiorstwo lub jego zorganizowana część
+są obowiązani wpłacać zaliczki miesięczne – w wysokości 19% dochodu za miesiące, w których uzyskali ten dochód, w terminie do dnia 20 następnego miesiąca za miesiąc poprzedni, a za grudzień – w terminie złożenia zeznania podatkowego. W terminach płatności zaliczek podatnicy są obowiązani składać urzędom skarbowym deklarację według ustalonego wzoru o wysokości uzyskanego dochodu.
+” ,
+f)
+skreśla się ust. 9;
+44)
+w art. 45 w ust. 3a po pkt 2 dodaje się przecinek i pkt 3 w brzmieniu:
+„
+3)
+otrzymania zwrotu uprzednio zapłaconych i odliczonych składek na powszechne ubezpieczenie zdrowotne
+” ;
+45)
+po art. 45a dodaje się art. 45b w brzmieniu:
+„
+Art. 45b.
+Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzory:
+1)
+deklaracji i informacji, o których mowa w art. 28 ust. 4, art. 34 ust. 5, art. 35 ust. 7, art. 38 ust. 1, art. 39 ust. 1, art. 42 ust. 2 i 3, art. 42a, art. 43 ust. 1, art. 44 ust. 3a, 6, 6a, 6c pkt 4 i ust. 8, art. 44a, art. 44b,
+2)
+rocznego obliczenia podatku, o którym mowa w art. 34 ust. 7, art. 37 ust. 1,
+3)
+zeznania podatkowego, o którym mowa w art. 45 ust. 1,
+4)
+oświadczeń, o których mowa w art. 32 ust. 3, art. 34 ust. 4, art. 35 ust. 4, art. 37 ust. 1
+wraz z objaśnieniami co do sposobu ich wypełniania, terminu i miejsca składania.
+” ;
+46)
+w art. 52 pkt 1 otrzymuje brzmienie:
+„
+1)
+w okresie od dnia 1 stycznia 2001 r. do dnia 31 grudnia 2003 r. dochody:
+a)
+z odpłatnego zbycia nabytych przed dniem 1 stycznia 2003 r. obligacji Skarbu Państwa wyemitowanych po dniu 1 stycznia 1989 r. oraz obligacji wyemitowanych przez jednostki samorządu terytorialnego po dniu 1 stycznia 1997 r.,
+b)
+z odpłatnego zbycia papierów wartościowych, które są dopuszczone do publicznego obrotu papierami wartościowymi, nabytych na podstawie publicznej oferty lub na giełdzie papierów wartościowych, albo w regulowanym pozagiełdowym wtórnym obrocie publicznym, albo na podstawie zezwolenia udzielonego w trybie art. 92 lub 93 przepisów ustawy z dnia 21 sierpnia 1997 r. – Prawo o publicznym obrocie papierami wartościowymi (Dz. U. Nr 118, poz. 754 i Nr 141, poz. 945, z 1998 r. Nr 107, poz. 669 i Nr 113, poz. 715 oraz z 2000 r. Nr 22, poz. 270, Nr 60, poz. 702 i 703, Nr 94, poz. 1037 i Nr 103, poz. 1099),
+c)
+ze sprzedaży akcji, które są dopuszczone do publicznego obrotu papierami wartościowymi, nabytych przed ich dopuszczeniem do tego obrotu, z wyjątkiem akcji nabytych nieodpłatnie od Skarbu Państwa oraz akcji objętych lub nabytych na zasadach określonych w art. 24 ust. 11, jeżeli sprzedaż nastąpiła po upływie trzech lat od daty ich pierwszego notowania na rynku regulowanym
+przy czym zwolnienie nie ma zastosowania, jeżeli sprzedaż tych papierów wartościowych jest przedmiotem działalności gospodarczej,
+d)
+uzyskane z realizacji praw wynikających z papierów wartościowych, o których mowa w art. 3 ust. 3 ustawy z dnia 21 sierpnia 1997 r. – Prawo o publicznym obrocie papierami wartościowymi (Dz. U. Nr 118, poz. 754 i Nr 141, poz. 945, z 1998 r. Nr 107, poz. 669 i Nr 113, poz. 715 oraz z 2000 r. Nr 22, poz. 270, Nr 60, poz. 702 i 703, Nr 94, poz. 1037 i Nr 103, poz. 1099),
+” ;
+47)
+skreśla się art. 53.
+Art. 2.
+W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 1996 r. Nr 67, poz. 329i Nr 106, poz. 496, z 1997 r. Nr 28, poz. 153i Nr 141, poz. 943, z 1998 r. Nr 117, poz. 759i Nr 162, poz. 1126oraz z 2000 r. Nr 12, poz. 136, Nr 19, poz. 239i Nr 48, poz. 550) w art. 90:
+1)
+dodaje się ust. 2a w brzmieniu:
+„
+2a.
+Dotacje dla szkół niepublicznych o uprawnieniach szkół publicznych, w których realizowany jest obowiązek szkolny lub obowiązek nauki, przysługują w wysokości nie niższej niż kwota przewidziana na jednego ucznia danego typu i rodzaju szkoły w części oświatowej subwencji ogólnej otrzymywanej przez jednostkę samorządu terytorialnego, o której mowa w ust. 1 i 2, pod warunkiem że osoba prowadząca szkołę poda organowi właściwemu do udzielania dotacji planowaną liczbę uczniów nie później niż do 30 września roku poprzedzającego rok udzielania dotacji.
+” ;
+2)
+ust. 3 otrzymuje brzmienie:
+„
+3.
+Dotacje dla niepublicznych przedszkoli oraz niepublicznych szkół o uprawnieniach szkół publicznych, niewymienionych w ust. 2a, przysługują w wysokości nie niższej niż 50% ustalonych w budżecie odpowiednio danej gminy lub powiatu wydatków bieżących ponoszonych w przedszkolach lub szkołach publicznych tego samego typu i rodzaju w przeliczeniu na jednego ucznia, pod warunkiem że osoba prowadząca niepubliczną szkołę lub przedszkole poda organowi właściwemu do udzielania dotacji planowaną liczbę uczniów nie później niż do 30 września roku poprzedzającego rok udzielania dotacji. W przypadku braku na terenie gminy lub powiatu odpowiednio przedszkola publicznego lub szkoły publicznej danego typu i rodzaju podstawą do ustalenia wysokości dotacji są wydatki bieżące ponoszone przez najbliższą gminę lub powiat na prowadzenie przedszkola publicznego lub szkoły publicznej danego typu lub rodzaju.
+” ;
+3)
+w ust. 4 wyrazy „w ust. 1, 2, 3a i 3b” zastępuje się wyrazami „w ust. 1–3b”.
+Art. 3.
+W ustawie z dnia 8 stycznia 1999 r. – Przepisy wprowadzające reformę ustroju szkolnego (Dz. U. Nr 12, poz. 96i z 2000 r. Nr 12, poz. 136) w art. 12:
+1)
+ust. 1a otrzymuje brzmienie:
+„
+1a.
+Do dotacji, o których mowa w ust. 1, stosuje się odpowiednio przepisy art. 90 ustawy, o której mowa w art. 1 ust. 1.
+” ;
+2)
+skreśla się ust. 2.
+Art. 4.
+W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 144, poz. 930) wprowadza się następujące zmiany:
+1)
+w art. 3 wyrazy „(Dz. U. z 1993 r. Nr 90, poz. 416 i Nr 134, poz. 646, z 1994 r. Nr 43, poz. 163, Nr 90, poz. 419, Nr 113, poz. 547, Nr 123, poz. 602 i Nr 126, poz. 626, z 1995 r. Nr 5, poz. 25 i Nr 133, poz. 654, z 1996 r. Nr 25, poz. 113, Nr 87, poz. 395, Nr 137, poz. 638, Nr 147, poz. 686 i Nr 156, poz. 776, z 1997 r. Nr 28, poz. 153, Nr 30, poz. 164, Nr 71, poz. 449, Nr 85, poz. 538, Nr 96, poz. 592, Nr 121, poz. 770, Nr 123, poz. 776, Nr 137, poz. 926, Nr 139, poz. 932, 933, 934 i Nr 141, poz. 943 i 945 oraz z 1998 r. Nr 66, poz. 430, Nr 74, poz. 471, Nr 108, poz. 685, Nr 117, poz. 756 i Nr 137, poz. 887)” zastępuje się wyrazami „(Dz. U. z 2000 r. Nr 14, poz. 176, Nr 22, poz. 270, Nr 60, poz. 703, Nr 70, poz. 816 i Nr 104, poz. 1104)”;
+2)
+w art. 4:
+a)
+w pkt 1 po wyrazach „poz. 264” dodaje się wyrazy „i z 1999 r. Nr 92, poz. 1045”,
+b)
+po pkt 11 kropkę zastępuje się przecinkiem i dodaje pkt 12 w brzmieniu:
+„
+12)
+wolny zawód – działalność wykonywana w szczególności przez: lekarzy wszystkich specjalności, techników dentystycznych, felczerów, położnych, pielęgniarki, prawników, ekonomistów, inżynierów, architektów, techników budowlanych, geodetów, rzeczników patentowych, tłumaczy oraz księgowych.
+” ;
+3)
+w art. 10 skreśla się wyrazy „35,”;
+4)
+w art. 11:
+a)
+w ust. 1 po wyrazach „ust. 3” dodaje się wyrazy „i 3a”,
+b)
+ust. 2 otrzymuje brzmienie:
+„
+2.
+W przypadku dokonywania odliczeń od przychodu stosuje się odpowiednio przepisy art. 9 ust. 3 i 3a oraz art. 26 ust. 5–7 ustawy o podatku dochodowym oraz art. 7 ust. 1, 2 pkt 2, ust. 3, 5–7, 12–17 i 23 ustawy z dnia 9 listopada 2000 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz o zmianie niektórych innych ustaw (Dz. U. Nr 104, poz. 1104).
+” ,
+c)
+w ust. 3 w pkt 7 i 12 wyrazy „pracowników, określonego w odrębnych przepisach” zastępuje się wyrazami „za pracę, ogłaszanego na podstawie odrębnych przepisów”,
+d)
+w ust. 4 po wyrazie „Niepełnosprawnych” dodaje się wyrazy „lub ze środków Kas Chorych” oraz ostatnie zdanie otrzymuje brzmienie: „ W przypadku gdy wydatki były częściowo finansowane z tych funduszy (środków), odliczeniu podlega różnica pomiędzy poniesionymi wydatkami a kwotą sfinansowaną z tych funduszy (środków) lub zwróconą z jakichkolwiek innych środków. ” ,
+e)
+w ust. 7 wyraz „pracowników” zastępuje się wyrazami „za pracę, ogłaszanego na podstawie odrębnych przepisów”;
+5)
+w art. 12 w ust. 1:
+a)
+w pkt 1 po lit. f) dodaje się lit. g) w brzmieniu:
+„
+g)
+przychodów, o których mowa w art. 14 ust. 2 pkt 11 i 12 ustawy o podatku dochodowym,
+”
+b)
+w pkt 3 w lit. e) wyrazy „5–9” zastępuje się wyrazami „5–10”;
+6)
+w art. 14 ust. 2 otrzymuje brzmienie:
+„
+2.
+W przypadku dokonywania odliczeń, o których mowa w ust. 1, stosuje się odpowiednio przepisy art. 27a ust. 2, ust. 3 z wyjątkiem pkt 1 lit. d), ust. 4–6, ust. 7 pkt 1, ust. 7a-7c, ust. 8, 10–15 i ust. 17–19 ustawy o podatku dochodowym oraz art. 7 ust. 24 i 25 ustawy z dnia 9 listopada 2000 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz o zmianie niektórych innych ustaw (Dz. U. Nr 104, poz. 1104).
+” ;
+7)
+w art. 17 wyraz „ustali” zastępuje się wyrazem „określi”;
+8)
+w art. 21:
+a)
+w ust. 2 skreśla się pkt 1,
+b)
+w ust. 4 wyraz „ustali” zastępuje się wyrazem „określi”,
+c)
+w ust. 5 skreśla się wyrazy „, z zastrzeżeniem art. 17,”;
+9)
+w art. 29 po ust. 1 dodaje się ust. 1a w brzmieniu:
+„
+1a.
+Podatnik może w terminie do końca roku podatkowego zrzec się zastosowania opodatkowania w formie karty podatkowej, poczynając od roku następnego.
+” ;
+10)
+w art. 31 w ust. 4 wyrazy „roczną informację” zastępuje się wyrazami „roczną deklarację”;
+11)
+w art. 44:
+a)
+w ust. 1 wyrazy „Kwartalna stawka ryczałtu” zastępuje się wyrazem „Ryczałt”,
+b)
+w ust. 4 wyrazy „roczną informację” zastępuje się wyrazami „roczną deklarację”;
+12)
+w art. 52 w ust. 3:
+a)
+pkt 2 otrzymuje brzmienie:
+„
+2)
+zeznania, o którym mowa w art. 21 ust. 2 pkt 2,
+”
+b)
+w pkt 4 wyrazy „rocznych informacji” zastępuje się wyrazami „rocznych deklaracji”;
+13)
+w art. 53:
+a)
+ust. 2 otrzymuje brzmienie:
+„
+2.
+Ulga uczniowska, o której mowa w ust. 1, przysługuje osobom fizycznym prowadzącym działalność gospodarczą, w tym również w formie spółki prawa cywilnego, uprawnionym na mocy odrębnych przepisów do szkolenia uczniów i zatrudniającym w ramach prowadzonej działalności pracowników w celu nauki zawodu. Ulga ta przysługuje także w przypadku, gdy uprawnionym do szkolenia uczniów jest przynajmniej jeden ze wspólników lub pracownik osoby (spółki) prowadzącej działalność gospodarczą.
+” ,
+b)
+w ust. 6 w pkt 1 wyraz „pracowników” zastępuje się wyrazami „za pracę ogłaszanego na podstawie odrębnych przepisów”,
+c)
+w ust. 13 wyrazy „zasadniczych szkół zawodowych” zastępuje się wyrazami „szkół zasadniczych” oraz skreśla się wyrazy „dla niepracujących”,
+d)
+w ust. 14 po wyrazach „zamieszkania podatnika,” dodaje się wyrazy „a w przypadku gdy podatnik jest opodatkowany w formie karty podatkowej – w urzędzie skarbowym, o którym mowa w art. 29 ust. 3,”
+e)
+dodaje się ust. 15 i 16 w brzmieniu:
+„
+15.
+Jeżeli podatnik w okresie korzystania z ulgi uczniowskiej zmieni formę opodatkowania i jest opodatkowany w sposób określony w ustawie o podatku dochodowym, nie wykorzystaną część ulgi w zryczałtowanym podatku dochodowym odlicza od podatku dochodowego.
+16.
+W razie uchybienia terminu, o którym mowa w ust. 14, stosuje się przepisy art. 162–164 Ordynacji podatkowej.
+” ;
+14)
+w załączniku nr 1 do ustawy w części VIII Wyroby rękodzieła ludowego i artystycznego osobno nie wymienione dodaje się lp. 7 w brzmieniu: „ 1 2 3 7 36.63 ex Wyroby pozostałe, gdzie indziej nie sklasyfikowane
+Art. 5.
+W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. Nr 137, poz. 887, Nr 162, poz. 1118 i 1126, z 1999 r. Nr 26, poz. 228, Nr 60, poz. 636, Nr 72, poz. 802, Nr 78, poz. 875i Nr 110, poz. 1256oraz z 2000 r. Nr 9, poz. 118i Nr 95, poz. 1041) w art. 8 w ust. 6 w pkt 3 wyrazy „podatku dochodowym od osób fizycznych” zastępuje się wyrazami „zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne”.
+Art. 6.
+W ustawie z dnia 1 grudnia 1994 r. o zasiłkach rodzinnych, pielęgnacyjnych i wychowawczych (Dz. U. z 1998 r. Nr 102, poz. 651, Nr 106, poz. 668i Nr 162, poz. 1118oraz z 1999 r. Nr 60, poz. 636i Nr 110, poz. 1256) w art. 3 w ust. 2:
+1)
+pkt 9 otrzymuje brzmienie:
+„
+9)
+dochody uzyskane przez podatników od rządów państw obcych, organizacji międzynarodowych lub międzynarodowych instytucji finansowych, pochodzące ze środków bezzwrotnej pomocy przyznanych na podstawie jednostronnej deklaracji lub umów zawartych z tymi państwami, organizacjami lub instytucjami przez Radę Ministrów, właściwego ministra lub agencje rządowe; w tym również w przypadkach, gdy przekazanie tych środków jest dokonywane za pośrednictwem podmiotu upoważnionego do rozdzielania środków bezzwrotnej pomocy zagranicznej na rzecz podmiotów, którym służyć ma ta pomoc,
+”
+2)
+pkt 12 otrzymuje brzmienie:
+„
+12)
+należności pieniężne wypłacone policjantom, żołnierzom i pracownikom cywilnym jednostek wojskowych użytych poza granicami państwa w celu udziału w konflikcie zbrojnym lub dla wzmocnienia sił państwa albo państw sojuszniczych, misji pokojowej, akcji zapobieżenia aktom terroryzmu lub ich skutkom, a także należności pieniężne wypłacone żołnierzom, policjantom i pracownikom pełniącym funkcje obserwatorów w misjach pokojowych organizacji międzynarodowych i sił wielonarodowych,
+” .
+Art. 7.
+1.
+Przepisy art. 1 pkt 5 lit. c)-f) mają zastosowanie także do strat poniesionych przez podatników za rok 2000.
+2.
+Przepisy art. 1 pkt 19:
+1)
+w części dotyczącej art. 22g ust. 19 stosuje się odpowiednio do korekty wartości początkowej środków trwałych oraz wartości niematerialnych i prawnych oddanych do używania lub ulepszonych przed dniem 1 stycznia 2001 r.; w tym przypadku dla określenia wartości początkowej tych środków i wartości stosuje się przepisy obowiązujące w miesiącu oddania ich do używania lub ich ulepszenia, przy uwzględnieniu przyjętych w tej dacie zasad dokonywania odpisów amortyzacyjnych,
+2)
+w części dotyczącej art. 22i ust. 1–6 można stosować także do środków trwałych oddanych do używania przed dniem 1 stycznia 2000 r.
+3.
+Ilekroć w ustawie jest mowa o dokonanych odpisach amortyzacyjnych – rozumie się przez to również odpisy amortyzacyjne dokonane zgodnie z przepisami wydanymi na podstawie art. 22 ust. 7 ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 2001 r.
+4.
+Podatnicy, którzy przed dniem 1 stycznia 2001 r. przekazali do używania samochody, o których mowa w art. 23 ust. 1 pkt 4, 46 i 47 oraz w przepisach wydanych na podstawie art. 22 ust. 7 ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 2001 r., określają wysokość kosztów uzyskania przychodów zgodnie z wymienionymi przepisami w brzmieniu obowiązującym do dnia 31 grudnia 2000 r.
+5.
+Dla środków trwałych oddanych do używania przed dniem 1 stycznia 2001 r. podatnicy:
+1)
+kontynuują stosowanie metody amortyzacji określonej dla danego środka trwałego w miesiącu rozpoczęcia jego amortyzowania do czasu pełnego zamortyzowania,
+2)
+mogą stosować stawki amortyzacyjne przyjęte po dniu 31 grudnia 1999 r. albo stawki amortyzacyjne z Wykazu stawek amortyzacyjnych, stanowiącego załącznik nr 1 do ustawy wymienionej w art. 1; postanowienia art. 22i ust. 2–5 ustawy wymienionej w art. 1 w brzmieniu obowiązującym od dnia 1 stycznia 2001 r. stosuje się odpowiednio.
+6.
+Zmiana symbolu grupy, podgrupy i rodzaju środków trwałych z tytułu zastąpienia Klasyfikacji Rodzajowej Środków Trwałych (KRŚT) nową Klasyfikacją Środków Trwałych (KŚT) nie może powodować zmiany wysokości stosowanej stawki amortyzacyjnej dla środków trwałych oddanych do używania do dnia 31 grudnia 2000 r.
+7.
+Dla środków trwałych oddanych do używania przed dniem 1 stycznia 2001 r., kwalifikowanych według Klasyfikacji Rodzajowej Środków Trwałych do grupy 5 i 6, a które zgodnie z Klasyfikacją Środków Trwałych kwalifikuje się od dnia 1 stycznia 2001 r. do grupy 2, stosuje się metody i zasady ich amortyzacji przyjęte w przepisach wydanych na podstawie art. 22 ust. 7 ustawy wymienionej w art. 1 w brzmieniu obowiązującym do dnia 31 grudnia 2000 r.
+8.
+Przepis art. 1 pkt 18 lit. b) ma zastosowanie do odpłatnego zbycia udziałów (akcji) w spółce albo wkładów w spółdzielni objętych po dniu 31 grudnia 2000 r.
+9.
+W przypadku odpłatnego zbycia udziałów (akcji) w spółce albo wkładów w spółdzielni objętych przed dniem 1 stycznia 2001 r. w zamian za wkład niepieniężny, koszt uzyskania przychodów określa się na podstawie przepisów obowiązujących w roku objęcia tych udziałów (akcji) lub wkładów; zasada ta ma zastosowanie także w przypadku połączenia spółek, o którym mowa w art. 24 ust. 8 ustawy wymienionej w art. 1.
+10.
+Przepisy art. 14 ust. 3 pkt 6 i art. 23 ust. 1 pkt 40 ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 2001 r. dotyczące umorzenia pożyczek (kredytów) związanych z bankowym postępowaniem ugodowym w rozumieniu przepisów o restrukturyzacji finansowej przedsiębiorstw i banków mają zastosowanie do czasu zakończenia tego bankowego postępowania.
+11.
+Przepisy art. 1 pkt 24 i 27 lit. b) stosuje się do transakcji dokonywanych po dniu 31 grudnia 2000 r. oraz transakcji wynikających z umów zawartych po tym dniu, a w przypadkach, w których zapłata należności wynikających z transakcji dokonywana jest na rzecz podmiotu mającego miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową – do dokonanych transakcji albo umów zawartych w roku kalendarzowym następującym po roku, w którym minister właściwy do spraw finansów publicznych określi wykaz krajów i terytoriów stosujących szkodliwą konkurencję podatkową.
+12.
+Podatnicy, którzy przed dniem 1 stycznia 2001 r. ponieśli wydatki na budowę budynku mieszkalnego wielorodzinnego z przeznaczeniem znajdujących się w nim lokali mieszkalnych na wynajem oraz wydatki na zakup działki pod budowę tego budynku i nabyli prawo do odliczeń, na podstawie art. 26 ust. 1 pkt 6 ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 1997 r. oraz art. 26 ust. 1 pkt 8 ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 2001 r., zachowują prawo do odliczania na zasadach określonych w tej ustawie wydatków, które nie znalazły pokrycia w uzyskanych dochodach.
+13.
+Podatnikom, którzy przed dniem 1 stycznia 2001 r. ponieśli wydatki, o których mowa w ust. 12 i nabyli prawo do odliczeń na podstawie art. 26 ust. 1 pkt 6 ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 1997 r. oraz art. 26 ust. 1 pkt 8 ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 2001 r. i po tym dniu dokonali dalszych wydatków na zakup tej działki lub udziału we współwłasności tej działki oraz na budowę tego budynku, przysługuje prawo do odliczania, na zasadach określonych w tej ustawie, wydatków poniesionych od dnia 1 stycznia 2001 r. do dnia 31 grudnia 2003 r.
+14.
+W przypadku zaistnienia okoliczności, o których mowa w art. 26 ust. 10 ustawy, wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 2001 r., w tym także w przypadku zbycia działki pod budowę tego budynku, stosuje się przepisy art. 26 ust. 10–12 tej ustawy.
+15.
+Jeżeli podatnik korzystał z odliczenia od dochodu wydatków poniesionych na budowę budynku mieszkalnego wielorodzinnego z przeznaczeniem znajdujących się w nim lokali mieszkalnych na wynajem oraz na zakup działki pod budowę tego budynku i zbył działkę lub budynek, jego część lub lokal (lokale) przed upływem dziesięciu lat, licząc od końca roku podatkowego, w którym nastąpiło wybudowanie, przychód uzyskany z tego zbycia podlega opodatkowaniu zgodnie z art. 28 ustawy wymienionej w art. 1. Przepis ten stosuje się odpowiednio w przypadku zbycia działki, z tym że okres dziesięcioletni liczy się od końca roku, w którym nastąpiło nabycie tej działki lub udziału we współwłasności działki.
+16.
+W przypadku małżonków, w stosunku do których na podstawie odrębnych przepisów orzeczono separację, ponoszących wydatki określone w ust. 12, stosuje się odpowiednio przepisy art. 27a ust. 8 ustawy wymienionej w art. 1 w brzmieniu obowiązującym od dnia 1 stycznia 2001 r.
+17.
+Wydatki na cele wymienione w ust. 12, z wyjątkiem wydatków na zakup gruntu, mogą być udokumentowane wyłącznie fakturami wystawionymi przez podatników podatku od towarów i usług nie korzystających ze zwolnienia od tych podatków lub dowodami odprawy celnej.
+18.
+Podatnicy, którzy przed dniem 1 stycznia 2001 r. ponieśli wydatki inwestycyjne i nabyli prawo do odliczeń, na podstawie art. 26a ustawy wymienionej w art. 1, w brzmieniu obowiązującym przed dniem 1 stycznia 2001 r., zachowują prawo do tych odliczeń po dniu 31 grudnia 2000 r., w zakresie i na zasadach w niej określonych.
+19.
+Utrata prawa do odliczeń, o których mowa w ust. 18, następuje po dniu 31 grudnia 2000 r. na podstawie art. 26a ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 2001 r.; w tym przypadku podatnicy są obowiązani do zwiększenia przychodu z działalności, o której mowa w art. 10 ust. 1 pkt 3 i 4 ustawy wymienionej w art. 1 w brzmieniu obowiązującym od dnia 1 stycznia 2001 r., za miesiąc, w którym utracili prawo do odliczeń, a gdy utrata prawa wystąpi w ostatnim miesiącu roku podatkowego – w rocznym rozliczeniu podatku.
+20.
+Przepisy ust. 18 i 19 stosuje się odpowiednio do podatników, którzy poczynając od dnia 1 stycznia 2001 r., nie dłużej jednak niż do dnia 31 grudnia 2003 r., poniosą zgodnie z art. 26a ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 2001 r. wydatki inwestycyjne na kontynuację objętej ulgą inwestycji rozpoczętej przed dniem 1 stycznia 2001 r.
+21.
+Przy ocenie nabycia prawa do odliczeń na podstawie art. 26a ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 2001 r., warunek określony w ust. 9 pkt 4 tego przepisu uważa się za spełniony, mimo wystąpienia zaległości przewyższającej odpowiednio 3% kwoty należnego podatku, jeżeli podatnik dokona korekty i ureguluje tę zaległość wraz z należnymi odsetkami albo w terminie 14 dni od dnia otrzymania decyzji organu pierwszej instancji określającej zobowiązanie podatkowe ureguluje taką zaległość wraz z należnymi odsetkami.
+22.
+Przy ocenie utraty prawa do odliczeń na podstawie art. 26a ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 2001 r., z przyczyn, o których mowa w ust. 22 pkt 1 tego przepisu, uznaje się, że nie występuje utrata tego prawa, jeżeli podatnik dokona korekty deklaracji podatkowej i ureguluje tę zaległość wraz z należnymi odsetkami albo w terminie 14 dni od dnia otrzymania decyzji organu pierwszej instancji określającej zobowiązanie podatkowe ureguluje taką zaległość wraz z należnymi odsetkami.
+23.
+Zasady, o których mowa w ust. 21 i 22, mają zastosowanie również do podatników, którzy korzystali z odliczeń od dochodu przed dniem 1 stycznia 2001 r., którym przysługuje prawo do odliczeń na podstawie art. 4 ustawy z dnia 27 sierpnia 1997 r. o stosowaniu szczególnych rozwiązań podatkowych w związku z likwidacją skutków powodzi, która miała miejsce w lipcu 1997 r. (Dz. U. Nr 113, poz. 736 i z 1998 r. Nr 94, poz. 593).
+24.
+Przepis art. 27a ust. 5a ustawy wymienionej w art. 1 w brzmieniu obowiązującym po dniu 31 grudnia 2000 r. ma zastosowanie do wydatków na cele, o których mowa w art. 27a ust. 1 pkt 1 lit. b)-f) ustawy wymienionej w art. 1, które zostały odliczone od podatku po dniu 31 grudnia 2000 r., w związku z inwestycją podjętą po tym dniu.
+25.
+Wydatki, o których mowa w art. 27a ust. 1 pkt 3 lit. d) ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 2001 r., poniesione w 2001 r., podlegają odliczeniu od podatku obliczonego za 2001 r. w wysokości i na zasadach określonych w art. 27a ust. 3 pkt 1 lit. f), ust. 6 pkt 3, ust. 7 pkt 3, ust. 9 i ust. 16 ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 2001 r.
+26.
+Przepisy ust. 1, ust. 2 pkt 2, ust. 3, 5–7, 12–17 i ust. 23–25 stosuje się odpowiednio do podatników, o których mowa w art. 6 ust. 1 ustawy o zryczałtowanym podatku dochodowym.
+27.
+Minister właściwy do spraw finansów publicznych ogłasza, do dnia 31 grudnia roku poprzedzającego rok podatkowy 2001, 2002, 2003, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wysokość kwoty, o której mowa w art. 26 ust. 3 ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 1997 r. oraz w art. 26 ust. 2 ustawy wymienionej w art. 1 w brzmieniu obowiązującym w latach 1997–2000.
+Ustawa wchodzi w życie z dniem 1 stycznia 2001 r. i ma zastosowanie do opodatkowania dochodów (strat) uzyskanych od tego dnia.
+
+## Załącznik nr 1 — – Wykaz rocznych stawek amortyzacyjnych
+
+Pozycja Stawka % Symbol KŚT (grupa lub podgrupa, lub rodzaj) Nazwa środków trwałych Powiązanie z KRŚT-91 1 2 3 4 5 01 1,5 11 z wyjątkiem wymienionych w poz. 02 Budynki mieszkalne 15,16 122 Lokale mieszkalne 02 2,5 10 z wyjątkiem wymienionych w poz. 03 i 05 Budynki niemieszkalne 10,11,12, 13,14,15, 17,18,19 110 Z rodzaju 110 domy dziecka, domy opieki społecznej bez opieki medycznej 154159 121 Lokale niemieszkalne 224 Budowle wodne, z wyjątkiem melioracji, doków stałych zalądowionych, wałów i grobli 250251253254255259293297 21 z wyjątkiem wymienionych w poz. 03 i 05 Budowle sklasyfikowane jako budowle do uzdatniania wód, z wyjątkiem studni wierconych 256 290 Budowle sportowe i rekreacyjne, z wyłączeniem ogrodów i parków publicznych, skwerów, ogrodów botanicznych i zoologicznych 28 291 Wieże przeciwpożarowe 291 225 Melioracje podstawowe 01 226 Melioracje szczegółowe 01 03 4,5 102 Podziemne garaże i zadaszone parkingi oraz budynki kontroli ruchu powietrznego (wieże) 227293 104 Zbiorniki, silosy oraz magazyny podziemne, zbiorniki i komory podziemne (z wyłączeniem budynków magazynowych naziemnych) 200202203205209220221222 2 z wyjątkiem wymienionych w poz. 02, 05, 06 i 08 Obiekty inżynierii lądowej i wodnej, z wyłączeniem ogrodów i parków publicznych, skwerów, ogrodów botanicznych i zoologicznych 2 600 Zbiorniki naziemne ceglane 600 601 Zbiorniki naziemne betonowe (z wyjątkiem z wykładziną chemoodporną dla kwasu ponitracyjnego) 601 623 623–7 urządzenia telefoniczne systemów nośnych na liniach WN 623 641 Z rodzaju 641–7 wyciągi kopalniane (bez wyciągów przy głębieniu szybów) 641 648 Towarowe kolejki linowe i dźwignie linowe 648 657 Akumulatory hydrauliczne 657 660 Wagi pojazdowe, wagonowe i inne wbudowane 660 04 7,0 3 z wyjątkiem wymienionych w poz. 06 Kotły i maszyny energetyczne 3 431 431–0 filtry (prasy) błotniarki 431 431–4 cedzidła mechaniczne 450 Piece do przerobu surowców (z wyjątkiem 450–50 piece do przerobu surowca wielokomorowe) 450 451 Piece do przetwarzania paliw (z wyjątkiem 451–0 piece koksownicze) 451 454 Piece do wypalania tunelowe 454 475 Aparaty bębnowe 475 477 Suszarki komorowe: 477–0 do 4 oraz 477–6 do 8 477 506 506–1 i 506–2 aparaty do rektyfikacji powietrza 506 507 507–2 i 507–3 krystalizatory 507 507–4 komory potne 548 548–0 maszyny, urządzenia i aparaty do produkcji materiału zecerskiego 548 583 583–0 koparki i zwałowarki w kopalniach odkrywkowych węgla 583 583–1 koparki w piaskowniach przemysłu węglowego 70 Kolejowy tabor szynowy naziemny 70 71 Kolejowy tabor szynowy podziemny 71 72 Tramwajowy tabor szynowy 72 73 Pozostały tabor szynowy naziemny 73 77 z wyjątkiem wymienionych w poz. 06 i 08 Tabor pływający 77 05 10,0 103 Kioski towarowe o kubaturze poniżej 500 m3 – trwale związane z gruntem 125 109 Domki kempingowe, budynki zastępcze – trwale związane z gruntem 169198 211 Przewody sieci technologicznych wewnątrzzakładowych 651 221 Urządzenia zabezpieczające ruch pociągów 680 4 z wyjątkiem wymienionych w poz. 04, 06, 07, 08 i 10 Maszyny, urządzenia i aparaty ogólnego zastosowania 4 512 Maszyny i urządzenia do eksploatacji otworów wiertniczych 512 513 Maszyny i urządzenia do przeróbki mechanicznej rud i węgla 513 514 514–0 maszyny i urządzenia aglomerowni 514 514–1 maszyny i urządzenia wielkopiecowe 514–2 maszyny i urządzenia hutnicze stalowni Z rodzaju 514–3 do 6 nożyce hutnicze do cięcia na gorąco, tabor hutniczy, walcowniczy 514–9 inne maszyny, urządzenia i aparaty hutnicze 520 Z rodzaju 520 maszyny i urządzenia przemysłu kamieniarskiego: 520 520–0 i 520–1 traki ramowe i tarczowe 520–2 cyrkularki 520–3 szlifierki 520–4 tokarki i wiertarki do kamienia 520–5 kombajny do robót przygotowawczych 523 Maszyny i urządzenia przemysłu cementowego 523 525 525–31 autoklawy 525 529 Z rodzaju 529 maszyny i urządzenia do produkcji materiałów budowlanych: 529 529–81 do produkcji elementów z lastryko 529–82 do produkcji sztucznego kamienia 56 z wyjątkiem wymienionych w poz. 06 Maszyny, urządzenia i aparaty przemysłów rolnych 56 582 Z rodzaju 582–1 pojemniki do bitumu stalowe powyżej 20.000 l pojemności oraz z rodzaju 582–2 odśnieżarki o mocy silników powyżej 120 KM 582 6 z wyjątkiem wymienionych w poz. 03, 07, 08 i 09 Urządzenia techniczne 6 805 Z rodzaju 805 wyposażenie kin, teatrów, placówek kulturalno- oświatowych oraz instrumenty muzyczne 805 806 Kioski, budki, baraki, domki kempingowe – nie związane trwale z gruntem 806 010 Plantacje wikliny 001 06 14,0 202 Z rodzaju 202 wieże ekstrakcyjne 507 323 Silniki spalinowe na paliwo lekkie 323 324 Silniki spalinowe na paliwo ciężkie 324 325 Silniki spalinowe na paliwo gazowe 325 326 Silniki powietrzne 326 343 Z rodzaju 343 zespoły elektroenergetyczne przenośne z silnikami spalinowymi na paliwo lekkie 343 344 Zespoły elektroenergetyczne z silnikami spalinowymi na paliwo ciężkie 344 349 Reaktory jądrowe 349 41 Obrabiarki do metali 40,41 44 Maszyny i urządzenia do przetłaczania i sprężania cieczy i gazów 44 46 Aparaty do wymiany ciepła (z wyjątkiem rodzaju 465 i 469–0) 46 47 Maszyny, urządzenia i aparaty do operacji i procesów materiałowych (z wyjątkiem rodzaju 474, 475, 477–0 do 4 i 6–8 oraz 479–0) 47 50 z wyjątkiem wymienionych w poz. 04, 07, 08 i 09 Maszyny, urządzenia i aparaty przemysłu chemicznego 50 517 Maszyny i urządzenia torfiarskie 517 52 z wyjątkiem wymienionych w poz. 05 i 09 Maszyny dla przemysłu surowców mineralnych 52 53 z wyjątkiem wymienionych w poz. 08 Maszyny do produkcji wyrobów z metali i tworzyw sztucznych 53 54 z wyjątkiem wymienionych w poz. 04 Maszyny, urządzenia i aparaty do obróbki i przerobu drewna, produkcji wyrobów z drewna oraz maszyny i aparaty papiernicze i poligraficzne 54 55 Maszyny i urządzenia do produkcji wyrobów włókienniczych i odzieżowych oraz do obróbki skóry i produkcji wyrobów z niej 55 561 561–6 maszyny, urządzenia i aparaty do produkcji napoi 561 568 Maszyny, urządzenia i aparaty przemysłu piekarniczego (z wyjątkiem 568–40 do 48) 568 57 z wyjątkiem wymienionych w poz. 08 i 09 Maszyny, urządzenia i aparaty przemysłów spożywczych 57 59 Maszyny, urządzenia i narzędzia rolnicze i gospodarki leśnej 59 700 700–7 drezyny i przyczepy do drezyn 700–7 710 710–01 lokomotywy akumulatorowe 710–01 do 03 710–02 i 710–03 lokomotywy ognioszczelne i typu „Karlik” 710–02 i 710–03 710–10 do 14 wozy kopalniane 710–10 do 14 770 770–13 kontenerowce 770–13 773 773–1010 wodoloty 773–1010 780 Samoloty 780 781 Śmigłowce 781 743 Samochody specjalne 743 745 Z rodzaju 745 trolejbusy i samochody ciężarowe o napędzie elektrycznym 745 746 Ciągniki 746 747 Naczepy 747 748 Przyczepy 748 75 Tabor konny 750 751 752 753 754 76 Pozostały tabor bezszynowy (wózki jezdniowe akumulatorowe, widłowe i inne wózki jezdniowe) 76 803 803–0 do 1 maszyny biurowe 803 803–30 dalekopisy do maszyn matematycznych 07 18,0 449 Z rodzaju 449–90 urządzenia dystrybucyjne do benzyny i olejów elektryczne i przepływomierze składowe do cieczy i paliw płynnych 449 465 Z rodzaju 465 wymienniki płynów obiegowych przy produkcji sody 465 469 469–0 chłodnice odmulin i prób kołowych rozkładni gazu 469 474 Kolumny nitracyjne i denitracyjne 474 479 479–0 odbieralnice hydrauliczne rozkładni gazu 479 481 Aparaty i urządzenia do powierzchniowej obróbki metali sposobem chemicznym i elektrogalwanicznym 481 482 Aparaty i urządzenia do powierzchniowej obróbki metali sposobem cieplnym 482 484 484–0 urządzenia do spawania i napawania łukowego w ochronie gazów oraz do spawania i napawania plazmowego 484 Z rodzaju 484–1 wytwornice acetylenowe przenośne wysokiego ciśnienia, 484–3 zgrzewarki oporowe i tarcicowe Z rodzaju 484–6 urządzenia do metalizacji natryskowej i do natryskiwania tworzywami sztucznymi 490 Maszyny i urządzenia do przygotowywania maszynowych nośników danych oraz maszyny analityczne 490 492 Samodzielne urządzenia do automatycznej regulacji i sterowania procesami 492 493 Z rodzaju 493 roboty przemysłowe 493 505 505–1 piece prażalnicze fluidyzacyjne do produkcji kwasu siarkowego 505 51 z wyjątkiem wymienionych w poz. 05, 06, 08 i 09 Maszyny, urządzenia i aparaty wiertnicze, górnicze, gazownicze, odlewnicze, torfiarskie oraz geodezyjne i kartograficzne 51 58 z wyjątkiem wymienionych w poz. 04, 05, 08 i 09 Maszyny do robót ziemnych, budowlanych i drogowych 58 61 Z podgrupy 61 urządzenia rozdzielcze i aparatura energii elektrycznej przewoźna 610 do615 641 Dźwigniki, wciągarki i wciągniki przejezdne oraz nieprzejezdne, kołowroty, wyciągniki (z wyjątkiem rodzaju 641–63 oraz z rodzaju 641–7 wyciągi kopalniane łącznie z wyciągami przy głębieniu szybów, a także wyciągi kolei i kolejek linowych) 641 662 662–1 projektory przenośne 16 mm i 35 mm 662 681 Kontenery 681 745 z wyjątkiem wymienionych w poz. 06 Z rodzaju 745 pozostałe samochody o napędzie elektrycznym 745 783 Balony 783 788 Inne środki transportu lotniczego 788 79 Środki transportu pozostałe 08 20,0 200 Z rodzaju 200 wieże wiertnicze, wieżomaszty 510 434 434–01 maszyny do zamykania słoi 434 Z rodzaju 434–02 maszyny do zamykania puszek 465 Wymienniki przeponowe rurowe sklasyfikowane jako chłodnice kwasu siarkowego 465 506 506–3 odgazowywacze 506 510 Maszyny i urządzenia wiertnicze 510 511 Obudowy zmechanizowane 511 518 Z rodzaju 518 aparaty i urządzenia do: 518 518–01 pomiarów magnetycznych 518–02 pomiarów geoelektrycznych 518–03 pomiarów sejsmicznych i radiometrycznych 518–1 elektrycznego profilowania odwiertów, karotażu gazowego, perforacji otworów wiertniczych 535 Z rodzaju 535–0 aparaty specjalne do wytwarzania kwasu wolframowego i maszyny do redukcyjnych, próżniowych i specjalnych wytopów metali 535 Z rodzaju 535–1 maszyny do produkcji węglanów i past emulsyjnych Z rodzaju 535–7 urządzenia do produkcji półprzewodników 579 579–000 dystrybutory 579 579–003 młynki młotkowe 579–01 maszyny i urządzenia do przerobu odpadów zwierzęcych na mąkę pastewną i tłuszcze utylizacyjne 579–09 inne maszyny i urządzenia do przerobu odpadów zwierzęcych 580 Maszyny do robót ziemnych i fundamentowych 580 581 z wyjątkiem wymienionych w poz. 09 Maszyny do robót budowlanych 581 582 582–3 szczotki mechaniczne i osprzęt do utrzymania dróg 582 629 Telefony komórkowe 629 669 Kasy fiskalne i rejestrujące (z wyjątkiem zaliczonych do poz. 10 – zespoły komputerowe) 669 633 Baterie akumulatorów elektrycznych stacjonarnych 633 634 Baterie akumulatorów elektrycznych zasadowych 634 662 662–5 ekrany kinowe 662 644 644–0 do 4 przenośniki w kopalniach i zakładach przetwórczych rud i węgla 644 664 Z rodzaju 664 urządzenia do przeprowadzania badań technicznych 664 740 Motocykle, przyczepy i wózki motocyklowe 740 741 Samochody osobowe 741 742 z wyjątkiem wymienionych w poz. 06 Samochody ciężarowe 742 744 Autobusy i autokary 744 782 Szybowce 782 8 z wyjątkiem wymienionych w poz. 05, 06 i 09 Narzędzia, przyrządy, ruchomości i wyposażenie 8 09 25,0 501 501–0 aparaty szklane i porcelanowe do destylacji 501 501–1 porcelanowe młyny kulowe 511 Maszyny górnicze, z wyłączeniem obudów zmechanizowanych 511 524 Z rodzaju 524 piece do trampowania głowic „Hagera” oraz piece do topienia żużla wielkopiecowego i bazaltu 524 571 571–8 autoklawy do hydrolizy 571 571–30 i 571–31 neutralizatory stalowe oraz neutralizatory i hydralizatory betonowe lub murowane 581 581–2 wibratory 581 581–4 wibromłoty oraz z rodzaju 581–3 zacieraczki do tynku 644 644–0 przenośniki zgrzebłowe ciężkie i lekkie w kopalniach węgla 644 801 801–0 elektroniczna aparatura kontrolno-pomiarowa do przeprowadzania badań laboratoryjnych 801 802 802–0 aparaty i sprzęt do hydro- i mechanoterapii 802 804 Z rodzaju 804 wyposażenie cyrkowe 804 10 30,0 491 Zespoły komputerowe 491 Objaśnienia
+1.
+Za pogorszone warunki używania budynków i budowli, o których mowa w art. 22i ust. 2 pkt 1 lit.a) ustawy, uważa się używanie tych środków trwałych pod ciągłym działaniem wody, par wodnych, znacznych drgań, nagłych zmian temperatury oraz innych czynników powodujących przyspieszenie zużycia obiektu.
+2.
+Za złe warunki używania budynków i budowli, o których mowa w art. 22i ust. 2 pkt 1 lit. b) ustawy, uważa się używanie tych środków trwałych pod wpływem niszczących środków chemicznych, a zwłaszcza gdy służą one produkcji, wytwarzaniu lub przechowywaniu żrących środków chemicznych. Dotyczy to również przypadków silnego działania na budynek lub budowlę niszczących środków chemicznych rozproszonych w atmosferze, wodzie lub wydzielających się w postaci oparów, których źródłem są inne obiekty znajdujące się w pobliżu.
+3.
+Przez maszyny, urządzenia i środki transportu wymagające szczególnej sprawności technicznej, o których mowa w art. 22i ust. 2 pkt 2 ustawy, rozumie się te obiekty, które używane są w pracy na trzy zmiany, mimo że nie działają ze swej istoty w ruchu ciągłym, używane w warunkach terenowych, w warunkach leśnych, pod ziemią lub innych wskazujących na bardziej intensywne zużycie.
+4.
+Przez maszyny i urządzenia grupy 4–6 i 8 Klasyfikacji środków trwałych (KŚT), poddane szybkiemu postępowi technicznemu, o których mowa w art. 22i ust. 2 pkt 3 ustawy, rozumie się maszyny, urządzenia i aparaturę, w których zastosowane są układy mikroprocesorowe lub systemy komputerowe, spełniające założone funkcje dzięki wykorzystaniu w nich najnowszych zdobyczy techniki, a także pozostałą aparaturę naukowo-badawczą i doświadczalno-produkcyjną.
+
+## Załącznik nr 2 — – Tabela rodzajów i rozmiarów działów specjalnych produkcji rolnej oraz norm szacunkowych dochodu rocznego
+
+Lp. Rodzaje upraw i produkcji Jednostka powierzchni upraw lub rodzajów produkcji Norma szacunkowa dochodu rocznego zł gr 1 2 3 4 1 Uprawy w szklarniach ogrzewanych powyżej 25 m2: a) rośliny ozdobne 1 m2 7 b) pozostałe 1 m2 2 60 2 Uprawy w szklarniach nie ogrzewanych powyżej 25 m2 1 m2 1 60 3 Uprawy w tunelach foliowych ogrzewanych powyżej 50 m2: a) rośliny ozdobne 1 m2 5 20 b) pozostałe 1 m2 3 20 4 Uprawy grzybów i ich grzybni – powyżej 25 m2 powierzchni uprawowej 1 m2 3 5 Drób rzeźny – powyżej 100 szt.: a) kurczęta 1 sztuka 10 b) gęsi 1 sztuka 79 c) kaczki 1 sztuka 21 d) indyki 1 sztuka 51 6 Drób nieśny powyżej 80 szt.: a) kury nieśne (w stadzie reprodukcyjnym) 1 sztuka 1 98 b) kury mięsne (w stadzie reprodukcyjnym) 1 sztuka 1 66 c) gęsi (w stadzie reprodukcyjnym) 1 sztuka 1 10 d) kaczki (w stadzie reprodukcyjnym) 1 sztuka 2 05 e) indyki (w stadzie reprodukcyjnym) 1 sztuka 8 70 f) kury (produkcja jaj konsumpcyjnych) 1 sztuka 1 45 7 Wylęgarnie drobiu: a) kurczęta 1 sztuka 1 b) gęsi 1 sztuka 5 c) kaczki 1 sztuka 2 d) indyki 1 sztuka 5 8 Zwierzęta futerkowe: a) lisy i jenoty od 1 samicy stada podstawowego 25 b) norki od 1 samicy stada podstawowego 11 c) tchórzofretki od 1 samicy stada podstawowego 8 50 d) szynszyle od 1 samicy stada podstawowego 13 e) nutrie powyżej 50 sztuk samic stada podstawowego od 1 samicy stada podstawowego 3 f) króliki powyżej 50 sztuk samic stada podstawowego od 1 samicy stada podstawowego 3 9 Zwierzęta laboratoryjne: a) szczury białe 1 sztuka 9 b) myszy białe 1 sztuka 2 10 Jedwabniki – produkcja kokonów 1 dm3 20 11 Pasieki powyżej 80 rodzin 1 rodzina 2 12 Uprawy roślin in vitro – powierzchnia półek 1 m2 120 13 Hodowla entomofagów – powierzchnia upraw roślin żywicielskich 1 m2 100 14 Hodowla dżdżownic – powierzchnia łoża hodowlanego 1 m2 50 15 Hodowla i chów innych zwierząt poza gospodarstwem rolnym: a) krowy powyżej 5 sztuk 1 sztuka 200 b) cielęta powyżej 10 sztuk 1 sztuka 42 c) bydło rzeźne powyżej 10 sztuk (z wyjątkiem opasów) 1 sztuka 22 d) tuczniki powyżej 50 sztuk 1 sztuka 25 e) prosięta i warchlaki powyżej 50 sztuk 1 sztuka 10 f) chów i hodowla owiec powyżej 10 sztuk od 1 matki 4 g) tucz owiec powyżej 15 sztuk 1 sztuka 6 h) konie rzeźne 1 sztuka 300 i) konie hodowlane 1 sztuka stada podstawowego 240 j) hodowla ryb akwariowych powyżej 700 dm3 objętości akwarium, obliczonej według wewnętrznych długości krawędzi 1 dm3 90 k) hodowla psów rasowych 1 sztuka stada podstawowego 27 l) hodowla kotów rasowych 1 sztuka stada podstawowego 10
 

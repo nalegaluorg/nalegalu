@@ -8,12 +8,10 @@ pos: 1572
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o dochodach jednostek samorządu terytorialnego
-
-*USTAWA z dnia 1 października 2024 r.*
+# Ustawa z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego
 
 | Pole | Wartość |
 |---|---|
@@ -24,14 +22,47 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2024-10-01 |
 | Data wydania | 2024-10-24 |
+| Wejście w życie | 2024-10-25 |
 | Ostatnia zmiana | 2025-12-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001572) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1572/text.pdf) |
+
+” ,
+b)
+po ust. 4 dodaje się ust. 4a w brzmieniu:
+„
+4a.
+” .
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
 
+- **1)** źródła dochodów jednostek samorządu terytorialnego;
+- **2)** zasady ustalania i przekazywania jednostkom samorządu terytorialnego dochodów własnych, subwencji ogólnej oraz dotacji celowych z budżetu państwa;
+- **3)** zasady ustalania potrzeb finansowych jednostek samorządu terytorialnego i ich finansowania.
+
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** dochodach podatników podatku dochodowego od osób fizycznych – rozumie się przez to: dochody podatników podatku dochodowego od osób fizycznych, stanowiące różnicę między osiągniętymi przychodami a poniesionymi kosztami uzyskania przychodów, do których mają zastosowanie zasady opodatkowania, o których mowa w art. 27 lub art. 30c ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2024 r. poz. 226, 232, 854, 858, 859 i 863), kwalifikowane dochody, o których mowa w art. 30ca ust. 3 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, kwotę odpowiadającą 14 % przychodów podatników objętych ryczałtem od przychodów ewidencjonowanych, do których mają zastosowanie zasady opodatkowania określone w ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2024 r. poz. 776 i 863) bez uwzględnienia dochodów (przychodów) wolnych (zwolnionych) od podatku;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** dochodach podatników podatku dochodowego od osób prawnych – rozumie się przez to dochody podatników podatku dochodowego od osób prawnych pomniejszone o dochody (przychody) wolne (zwolnione) od podatku;
+- **3)** jednostce samorządu terytorialnego – rozumie się przez to gminę niebędącą miastem na prawach powiatu, zwaną dalej „gminą”, miasto na prawach powiatu, powiat i województwo;
+- **4)** kategoriach jednostek samorządu terytorialnego – rozumie się przez to odpowiednio: wszystkie gminy, wszystkie miasta na prawach powiatu, wszystkie powiaty, wszystkie województwa;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **5)** liczbie mieszkańców – rozumie się przez to liczbę mieszkańców zamieszkałych na obszarze odpowiednio danej jednostki samorządu terytorialnego, danej kategorii jednostek samorządu terytorialnego oraz kraju, według stanu na dzień 31 grudnia roku bazowego, ustaloną przez Prezesa Głównego Urzędu Statystycznego do dnia 31 maja roku poprzedzającego rok budżetowy;
+- **6)** nowych jednostkach samorządu terytorialnego – rozumie się przez to jednostki samorządu terytorialnego, które zostały utworzone lub których granice uległy zmianie po dniu 31 grudnia roku bazowego;
+- **7)** podatniku podatku dochodowego od osób prawnych posiadającym siedzibę na obszarze jednostki samorządu terytorialnego – rozumie się przez to także podatnika podatku dochodowego od osób prawnych, mającego siedzibę lub zarząd poza terytorium Rzeczypospolitej Polskiej, prowadzącego działalność poprzez położony na terytorium Rzeczypospolitej Polskiej zagraniczny zakład, o którym mowa w ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2023 r. poz. 2805 oraz z 2024 r. poz. 232, 854 i 1222);
+- **8)** przewodniczącym zarządu jednostki samorządu terytorialnego – rozumie się przez to odpowiednio wójta, burmistrza, prezydenta miasta, starostę i marszałka województwa;
+- **9)** reprezentacji jednostek samorządu terytorialnego – rozumie się przez to przedstawicieli samorządu terytorialnego w Komisji Wspólnej Rządu i Samorządu Terytorialnego;
+- **10)** roku bazowym – rozumie się przez to rok poprzedzający o dwa lata rok budżetowy;
+- **11)** roku budżetowym – rozumie się przez to rok, na który jest uchwalana ustawa budżetowa.
 
 **Art. 3.**
 
@@ -55,11 +86,92 @@ source: "isap-pdf"
 
 **Art. 4.** Źródłami dochodów własnych gminy są:
 
+- **1)** wpływy z podatków: od nieruchomości, rolnego, leśnego, od środków transportowych, dochodowego od osób fizycznych, opłacanego w formie karty podatkowej, od spadków i darowizn, od czynności cywilnoprawnych;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+
+- **2)** wpływy z dodatkowego zobowiązania podatkowego związanego z unikaniem opodatkowania w podatkach określonych w pkt 1 lit. a-d;
+- **3)** wpływy z opłat: skarbowej, targowej, miejscowej, uzdrowiskowej, od posiadania psów, reklamowej, eksploatacyjnej – w części określonej w ustawie z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2024 r. poz. 1290), innych, stanowiących dochody gminy na podstawie odrębnych przepisów;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+
+- **4)** dochody uzyskiwane przez gminne jednostki budżetowe oraz wpłaty od gminnych zakładów budżetowych;
+- **5)** dochody z majątku gminy;
+- **6)** spadki, zapisy i darowizny na rzecz gminy;
+- **7)** kary pieniężne i grzywny, jeżeli odrębne przepisy tak stanowią;
+- **8)** 5,0 % dochodów uzyskiwanych na rzecz budżetu państwa w związku z realizacją zadań z zakresu administracji rządowej oraz innych zadań zleconych ustawami, o ile odrębne przepisy nie stanowią inaczej;
+- **9)** odsetki od pożyczek udzielanych przez gminę, o ile odrębne przepisy nie stanowią inaczej;
+- **10)** odsetki od nieterminowo przekazywanych należności stanowiących dochody gminy;
+- **11)** odsetki od środków finansowych gromadzonych na rachunkach bankowych gminy, o ile odrębne przepisy nie stanowią inaczej;
+- **12)** inne dochody należne gminie na podstawie odrębnych przepisów.
+
 **Art. 5.** Źródłami dochodów własnych miasta na prawach powiatu są:
+
+- **1)** wpływy z podatków: od nieruchomości, rolnego, leśnego, od środków transportowych, dochodowego od osób fizycznych, opłacanego w formie karty podatkowej, od spadków i darowizn, od czynności cywilnoprawnych;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+
+- **2)** wpływy z dodatkowego zobowiązania podatkowego związanego z unikaniem opodatkowania w podatkach określonych w pkt 1 lit. a-d;
+- **3)** wpływy z opłat: skarbowej, targowej, miejscowej, uzdrowiskowej, od posiadania psów, reklamowej, eksploatacyjnej – w części określonej w ustawie z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, innych, które w odrębnych przepisach są określane jako dochód gminy lub powiatu;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+
+- **4)** dochody uzyskiwane przez jednostki budżetowe miasta na prawach powiatu oraz wpłaty od zakładów budżetowych miasta na prawach powiatu;
+- **5)** dochody z majątku miasta na prawach powiatu;
+- **6)** spadki, zapisy i darowizny na rzecz miasta na prawach powiatu;
+- **7)** kary pieniężne i grzywny, jeżeli odrębne przepisy tak stanowią;
+- **8)** 5,0 % dochodów uzyskiwanych na rzecz budżetu państwa w związku z realizacją zadań z zakresu administracji rządowej oraz innych zadań zleconych ustawami, o ile odrębne przepisy nie stanowią inaczej;
+- **9)** odsetki od pożyczek udzielanych przez miasto na prawach powiatu, o ile odrębne przepisy nie stanowią inaczej;
+- **10)** odsetki od nieterminowo przekazywanych należności stanowiących dochody miasta na prawach powiatu;
+- **11)** odsetki od środków finansowych gromadzonych na rachunkach bankowych miasta na prawach powiatu, o ile odrębne przepisy nie stanowią inaczej;
+- **12)** inne dochody, które w odrębnych przepisach są określone jako dochód gminy lub powiatu.
 
 **Art. 6.** Źródłami dochodów własnych powiatu są:
 
+- **1)** wpływy z opłat stanowiących dochody powiatu na podstawie odrębnych przepisów;
+- **2)** dochody uzyskiwane przez powiatowe jednostki budżetowe oraz wpłaty od powiatowych zakładów budżetowych;
+- **3)** dochody z majątku powiatu;
+- **4)** spadki, zapisy i darowizny na rzecz powiatu;
+- **5)** kary pieniężne i grzywny, jeżeli odrębne przepisy tak stanowią;
+- **6)** 5,0 % dochodów uzyskiwanych na rzecz budżetu państwa w związku z realizacją zadań z zakresu administracji rządowej oraz innych zadań zleconych ustawami, o ile odrębne przepisy nie stanowią inaczej;
+- **7)** odsetki od pożyczek udzielanych przez powiat, o ile odrębne przepisy nie stanowią inaczej;
+- **8)** odsetki od nieterminowo przekazywanych należności stanowiących dochody powiatu;
+- **9)** odsetki od środków finansowych gromadzonych na rachunkach bankowych powiatu, o ile odrębne przepisy nie stanowią inaczej;
+- **10)** inne dochody należne powiatowi na podstawie odrębnych przepisów.
+
 **Art. 7.** Źródłami dochodów własnych województwa są:
+
+- **1)** dochody uzyskiwane przez wojewódzkie jednostki budżetowe oraz wpłaty od wojewódzkich zakładów budżetowych;
+- **2)** dochody z majątku województwa;
+- **3)** spadki, zapisy i darowizny na rzecz województwa;
+- **4)** kary pieniężne i grzywny, jeżeli odrębne przepisy tak stanowią;
+- **5)** 5,0 % dochodów uzyskiwanych na rzecz budżetu państwa w związku z realizacją zadań z zakresu administracji rządowej oraz innych zadań zleconych ustawami, o ile odrębne przepisy nie stanowią inaczej;
+- **6)** odsetki od pożyczek udzielanych przez województwo, o ile odrębne przepisy nie stanowią inaczej;
+- **7)** odsetki od nieterminowo przekazywanych należności stanowiących dochody województwa;
+- **8)** odsetki od środków finansowych gromadzonych na rachunkach bankowych województwa, o ile odrębne przepisy nie stanowią inaczej;
+- **9)** inne dochody należne województwu na podstawie odrębnych przepisów.
 
 **Art. 8.**
 
@@ -68,14 +180,14 @@ source: "isap-pdf"
 - **1)** gminy – 7,0 %,
 - **2)** miasta na prawach powiatu – 8,6 %,
 - **3)** powiatu – 2,0 %,
-- **4)** województwa – 0,35 % – dochodów podatników podatku dochodowego od osób fizycznych zamieszkałych na obszarze danej jednostki samorządu terytorialnego.
+- **4)** województwa – 0,35 % dochodów podatników podatku dochodowego od osób fizycznych zamieszkałych na obszarze danej jednostki samorządu terytorialnego.
 
 2. Wysokość udziału w podatku dochodowym od osób prawnych wynosi dla:
 
 - **1)** gminy – 1,6 %,
 - **2)** miasta na prawach powiatu – 2,2 %,
 - **3)** powiatu – 1,7 %,
-- **4)** województwa – 2,3 % – dochodów podatników podatku dochodowego od osób prawnych posiadających siedzibę na obszarze danej jednostki samorządu terytorialnego.
+- **4)** województwa – 2,3 % dochodów podatników podatku dochodowego od osób prawnych posiadających siedzibę na obszarze danej jednostki samorządu terytorialnego.
 
 **Art. 9.**
 
@@ -87,12 +199,12 @@ source: "isap-pdf"
 
 1. Jednostki samorządu terytorialnego mogą otrzymywać dotacje celowe z:
 
-- **1)** budżetu państwa na:
-    - **a)** zadania z zakresu administracji rządowej oraz inne zadania zlecone ustawami,
-    - **b)** zadania realizowane przez te jednostki na mocy porozumień zawartych z organami administracji rządowej,
-    - **c)** usuwanie bezpośrednich zagrożeń dla bezpieczeństwa lub porządku publicznego, skutków powodzi lub osuwisk ziemnych lub skutków innych klęsk żywiołowych,
-    - **d)** finansowanie lub dofinansowanie zadań własnych,
-    - **e)** realizację zadań wynikających z umów międzynarodowych;
+- **1)** budżetu państwa na: zadania z zakresu administracji rządowej oraz inne zadania zlecone ustawami, zadania realizowane przez te jednostki na mocy porozumień zawartych z organami administracji rządowej, usuwanie bezpośrednich zagrożeń dla bezpieczeństwa lub porządku publicznego, skutków powodzi lub osuwisk ziemnych lub skutków innych klęsk żywiołowych, finansowanie lub dofinansowanie zadań własnych, realizację zadań wynikających z umów międzynarodowych;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 - **2)** budżetów innych jednostek samorządu terytorialnego.
 
@@ -108,13 +220,13 @@ source: "isap-pdf"
 
 1. Kwotę rocznego dochodu jednostki samorządu terytorialnego z tytułu udziału w podatku dochodowym od osób fizycznych ustala się, mnożąc, zwaloryzowane zgodnie z ust. 2, dochody podatników podatku dochodowego od osób fizycznych zamieszkałych na obszarze danej jednostki samorządu terytorialnego za rok bazowy przez odpowiednią wysokość udziału w podatku dochodowym od osób fizycznych określoną w art. 8 ust. 1.
 
-2. Dochody podatników podatku dochodowego od osób fizycznych waloryzuje się według wzoru: DPIT = DPIT E(WYN ∙ ) WYN E(ZAT ∙ ) ZAT , w którym poszczególne symbole oznaczają: n – rok budżetowy, n−i – rok poprzedzający o i lat rok budżetowy (rok, z którego pochodzą waloryzowane dane), DPIT – dochody podatników podatku dochodowego od osób fizycznych w roku n, DPIT – dochody podatników podatku dochodowego od osób fizycznych w roku n−i, E(WYN ) – prognozowane przez ministra właściwego do spraw finansów publicznych w założeniach projektu budżetu państwa na rok n opracowanych zgodnie z przepisami o finansach publicznych przeciętne wynagrodzenie w gospodarce narodowej w roku n, WYN – przeciętne wynagrodzenie w gospodarce narodowej w roku n−i, ustalone przez Główny Urząd Statystyczny do dnia 30 czerwca roku poprzedzającego rok budżetowy, E(ZAT ) – prognozowane przez ministra właściwego do spraw finansów publicznych w założeniach projektu budżetu państwa na rok n opracowanych zgodnie z przepisami o finansach publicznych zatrudnienie w gospodarce narodowej w roku n, ZAT – zatrudnienie w gospodarce narodowej w roku n−i, ustalone przez Główny Urząd Statystyczny do dnia 30 czerwca roku poprzedzającego rok budżetowy.
+2. Dochody podatników podatku dochodowego od osób fizycznych waloryzuje się według wzoru: \( DPIT_n = DPIT_{n – i} \cdot {{E(WYN_n )} \over {WYN_{n – i} }} \cdot {{E(ZAT_n )} \over {ZAT_{n – i} }}, \) w którym poszczególne symbole oznaczają: n – rok budżetowy, n – i – rok poprzedzający o i lat rok budżetowy (rok, z którego pochodzą waloryzowane dane), DPITn – dochody podatników podatku dochodowego od osób fizycznych w roku n, DPITn-i – dochody podatników podatku dochodowego od osób fizycznych w roku n – i, E(WYNn) – prognozowane przez ministra właściwego do spraw finansów publicznych w założeniach projektu budżetu państwa na rok n opracowanych zgodnie z przepisami o finansach publicznych przeciętne wynagrodzenie w gospodarce narodowej w roku n, WYNn-i – przeciętne wynagrodzenie w gospodarce narodowej w roku n – i, ustalone przez Główny Urząd Statystyczny do dnia 30 czerwca roku poprzedzającego rok budżetowy, E(ZATn) – prognozowane przez ministra właściwego do spraw finansów publicznych w założeniach projektu budżetu państwa na rok n opracowanych zgodnie z przepisami o finansach publicznych zatrudnienie w gospodarce narodowej w roku n, ZATn-i – zatrudnienie w gospodarce narodowej w roku n – i, ustalone przez Główny Urząd Statystyczny do dnia 30 czerwca roku poprzedzającego rok budżetowy.
 
 **Art. 12.**
 
 1. Kwotę rocznego dochodu jednostki samorządu terytorialnego z tytułu udziału w podatku dochodowym od osób prawnych ustala się, mnożąc, zwaloryzowane zgodnie z ust. 2, dochody podatników podatku dochodowego od osób prawnych mających siedzibę na obszarze danej jednostki samorządu terytorialnego za rok bazowy przez odpowiednią wysokość udziału w podatku dochodowym od osób prawnych określoną w art. 8 ust. 2.
 
-2. Dochody podatników podatku dochodowego od osób prawnych waloryzuje się według wzoru: DCIT = DCIT E(PKB ∙ ) PKB , w którym poszczególne symbole oznaczają: n – rok budżetowy, n−i – rok poprzedzający o i lat rok budżetowy (rok, z którego pochodzą waloryzowane dane), DCIT – dochody podatników podatku dochodowego od osób prawnych w roku n, DCIT – dochody podatników podatku dochodowego od osób prawnych w roku n−i, E(PKB ) – prognozowaną przez ministra właściwego do spraw finansów publicznych w założeniach projektu budżetu państwa na rok n opracowanych zgodnie z przepisami o finansach publicznych wartość produktu krajowego brutto w roku n, PKB – wartość produktu krajowego brutto w roku n−i, ustalona przez Główny Urząd Statystyczny do dnia 30 czerwca roku poprzedzającego rok budżetowy.
+2. Dochody podatników podatku dochodowego od osób prawnych waloryzuje się według wzoru: \( DCIT_n = DCIT_{n – i} \cdot {{E(PKB_n )} \over {PKB_{n – i} }}, \) w którym poszczególne symbole oznaczają: n – rok budżetowy, n – i – rok poprzedzający o i lat rok budżetowy (rok, z którego pochodzą waloryzowane dane), DCITn – dochody podatników podatku dochodowego od osób prawnych w roku n, DCITn-i – dochody podatników podatku dochodowego od osób prawnych w roku n – i, E(PKBn) – prognozowaną przez ministra właściwego do spraw finansów publicznych w założeniach projektu budżetu państwa na rok n opracowanych zgodnie z przepisami o finansach publicznych wartość produktu krajowego brutto w roku n, PKBn-i – wartość produktu krajowego brutto w roku n – i, ustalona przez Główny Urząd Statystyczny do dnia 30 czerwca roku poprzedzającego rok budżetowy.
 
 **Art. 13.**
 
@@ -153,9 +265,61 @@ source: "isap-pdf"
 
 **Art. 18.** Wpływy z:
 
+- **1)** opłaty skarbowej są wpłacane na rachunek budżetu odpowiednio gminy albo miasta na prawach powiatu, na obszarze których ma siedzibę właściwy miejscowo organ podatkowy;
+- **2)** opłaty skarbowej z tytułu dokonania czynności urzędowej, wydania zaświadczenia lub zezwolenia przez wójta (burmistrza, prezydenta miasta) są wpłacane na rachunek budżetu odpowiednio gminy albo miasta na prawach powiatu, których jest on organem wykonawczym.
+
 **Art. 19.** Wpływy z podatku od spadków i darowizn są przekazywane:
 
+- **1)** w przypadku nabycia, w drodze darowizny lub tytułem polecenia darczyńcy: własności nieruchomości, prawa użytkowania wieczystego, spółdzielczego własnościowego prawa do lokalu mieszkalnego, spółdzielczego prawa do lokalu użytkowego oraz wynikających z przepisów prawa spółdzielczego: prawa do domu jednorodzinnego i prawa do lokalu w małym domu mieszkalnym: na rachunek budżetu odpowiednio gminy albo miasta na prawach powiatu, na obszarze których jest położona nieruchomość, na rachunek budżetu odpowiednio gminy albo miasta na prawach powiatu, na obszarze których w dniu powstania obowiązku podatkowego ma miejsce zamieszkania nabywca – jeżeli nieruchomość jest położona na obszarze różnych gmin lub miast na prawach powiatu lub darowizna albo polecenie darczyńcy obejmuje nieruchomości położone na obszarze różnych gmin lub miast na prawach powiatu, na rachunek budżetu odpowiednio gminy albo miasta na prawach powiatu, na obszarze których w dniu powstania obowiązku podatkowego ma miejsce zamieszkania lub siedzibę darczyńca – jeżeli darowizna albo polecenie darczyńcy obejmuje nieruchomości, o których mowa w lit. b, i nabywca nie ma miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej w tym dniu;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** w przypadku nabycia w drodze nieodpłatnego zniesienia współwłasności rzeczy lub praw majątkowych, o których mowa w pkt 1: na rachunek budżetu odpowiednio gminy albo miasta na prawach powiatu, na obszarze których jest położona nieruchomość, na rachunek budżetu odpowiednio gminy albo miasta na prawach powiatu, na obszarze których w dniu powstania obowiązku podatkowego ma miejsce zamieszkania nabywca – jeżeli nieruchomość jest położona na obszarze różnych gmin lub miast na prawach powiatu, na rachunek budżetu odpowiednio gminy albo miasta na prawach powiatu, na obszarze których w dniu powstania obowiązku podatkowego ma miejsce zamieszkania lub siedzibę zbywca – jeżeli nieruchomość jest położona na obszarze różnych gmin lub miast na prawach powiatu i nabywca nie ma miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej w tym dniu;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **3)** w przypadku darowizny lub nabycia tytułem polecenia darczyńcy innych rzeczy lub praw majątkowych, niż wymienione w pkt 1: na rachunek budżetu odpowiednio gminy albo miasta na prawach powiatu, na obszarze których w dniu powstania obowiązku podatkowego ma miejsce zamieszkania nabywca, na rachunek budżetu odpowiednio gminy albo miasta na prawach powiatu, na obszarze których w dniu powstania obowiązku podatkowego ma miejsce zamieszkania lub siedzibę darczyńca – jeżeli nabywca nie ma miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej w tym dniu;
+    - **a)**
+    - **b)**
+
+- **4)** w przypadku nieodpłatnego zniesienia współwłasności innych rzeczy lub praw majątkowych, niż wymienione w pkt 1: na rachunek budżetu odpowiednio gminy albo miasta na prawach powiatu, na obszarze których w dniu powstania obowiązku podatkowego ma miejsce zamieszkania nabywca, na rachunek budżetu odpowiednio gminy albo miasta na prawach powiatu, na obszarze których w dniu powstania obowiązku podatkowego ma miejsce zamieszkania lub siedzibę zbywca – jeżeli nabywca nie ma miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej w tym dniu;
+    - **a)**
+    - **b)**
+
+- **5)** z tytułu dziedziczenia, zapisu zwykłego, dalszego zapisu, zapisu windykacyjnego, polecenia testamentowego lub zachowku: na rachunek budżetu odpowiednio gminy albo miasta na prawach powiatu, na obszarze których są położone rzeczy lub prawa majątkowe nabyte tym tytułem, na rachunek budżetu odpowiednio gminy albo miasta na prawach powiatu, na obszarze których spadkodawca miał ostatnie miejsce zamieszkania, a w przypadku gdy nie miał on miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej – na rachunek budżetu odpowiednio gminy albo miasta na prawach powiatu, na obszarze których spadkodawca miał ostatnie miejsce pobytu, jeżeli przedmioty te są położone na obszarze różnych gmin lub miast na prawach powiatu, na rachunek budżetu odpowiednio gminy albo miasta na prawach powiatu, na obszarze których w dniu powstania obowiązku podatkowego ma miejsce zamieszkania nabywca – jeżeli przedmioty te są położone na obszarze różnych gmin lub miast na prawach powiatu i spadkodawca nie miał miejsca zamieszkania lub pobytu na terytorium Rzeczypospolitej Polskiej;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **6)** z tytułu zasiedzenia: na rachunek budżetu odpowiednio gminy albo miasta na prawach powiatu, na obszarze których jest położona nieruchomość – jeżeli przedmiotem zasiedzenia jest własność nieruchomości lub służebność gruntowa, na rachunek budżetu odpowiednio gminy albo miasta na prawach powiatu, na obszarze których w dniu powstania obowiązku podatkowego ma miejsce zamieszkania nabywca – jeżeli przedmiotem zasiedzenia jest własność nieruchomości położonej na obszarze różnych gmin lub miast na prawach powiatu lub rzeczy ruchomej;
+    - **a)**
+    - **b)**
+
+- **7)** z tytułu ustanowienia użytkowania lub służebności nieruchomości: na rachunek budżetu odpowiednio gminy albo miasta na prawach powiatu, na obszarze których jest położona nieruchomość, na rachunek budżetu odpowiednio gminy albo miasta na prawach powiatu, na obszarze których w dniu powstania obowiązku podatkowego ma miejsce zamieszkania nabywca – jeżeli obciążona nieruchomość jest położona na obszarze różnych gmin lub miast na prawach powiatu;
+    - **a)**
+    - **b)**
+
+- **8)** z tytułu nabycia: praw do wkładu oszczędnościowego wypłacanego na podstawie dyspozycji wkładem na wypadek śmierci lub jednostek uczestnictwa na podstawie dyspozycji uczestnika funduszu inwestycyjnego otwartego albo specjalistycznego funduszu inwestycyjnego otwartego na wypadek jego śmierci na rachunek budżetu odpowiednio gminy albo miasta na prawach powiatu, na obszarze których miał ostatnie miejsce zamieszkania lub pobytu wkładca lub uczestnik funduszu;
+    - **a)**
+    - **b)**
+
+- **9)** w przypadkach innych niż określone w pkt 1–8: na rachunek budżetu odpowiednio gminy albo miasta na prawach powiatu, na obszarze których w dniu powstania obowiązku podatkowego ma miejsce zamieszkania nabywca, na rachunek miasta stołecznego Warszawy – jeżeli nabywca w dniu powstania obowiązku podatkowego nie ma miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej.
+    - **a)**
+    - **b)**
+
 **Art. 20.** Wpływy z podatku od czynności cywilnoprawnych są przekazywane:
+
+- **1)** w przypadku czynności cywilnoprawnych, których przedmiotem jest przeniesienie własności nieruchomości, prawa użytkowania wieczystego, spółdzielczego własnościowego prawa do lokalu mieszkalnego, spółdzielczego prawa do lokalu użytkowego oraz wynikających z przepisów prawa spółdzielczego: prawa do domu jednorodzinnego i prawa do lokalu w małym domu mieszkalnym – na rachunek budżetu odpowiednio gminy albo miasta na prawach powiatu, na obszarze których jest położona nieruchomość;
+- **2)** w przypadku umowy spółki – na rachunek budżetu odpowiednio gminy albo miasta na prawach powiatu, na obszarze których ma siedzibę spółka;
+- **3)** w przypadku czynności cywilnoprawnych, których przedmiotem jest przeniesienie własności rzeczy ruchomych i praw majątkowych, niewymienionych w pkt 1: na rachunek budżetu odpowiednio gminy albo miasta na prawach powiatu, na obszarze których ma miejsce zamieszkania lub siedzibę nabywca, na rachunek budżetu odpowiednio gminy albo miasta na prawach powiatu, na obszarze których ma miejsce zamieszkania lub siedzibę zbywca – jeżeli jedynie zbywca ma miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej, na rachunek budżetu odpowiednio gminy albo miasta na prawach powiatu, na obszarze których czynność została dokonana – jeżeli żadna ze stron nie ma miejsca zamieszkania lub siedziby na terytorium Rzeczypospolitej Polskiej;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **4)** w przypadku umowy sprzedaży przedsiębiorstwa albo jego zorganizowanej części – na rachunek budżetu odpowiednio gminy albo miasta na prawach powiatu, na obszarze których znajduje się siedziba tego przedsiębiorstwa albo jego zorganizowana część;
+- **5)** w przypadku czynności cywilnoprawnych innych niż określone w pkt 1–4 – na rachunek budżetu odpowiednio gminy albo miasta na prawach powiatu, na obszarze których ma siedzibę właściwy miejscowo organ podatkowy.
 
 **Art. 21.**
 
@@ -175,6 +339,12 @@ source: "isap-pdf"
 
 **Art. 23.** Potrzeby finansowe jednostki samorządu terytorialnego, podlegające sfinansowaniu na podstawie niniejszej ustawy, to suma potrzeb:
 
+- **1)** wyrównawczych;
+- **2)** oświatowych;
+- **3)** rozwojowych;
+- **4)** ekologicznych;
+- **5)** uzupełniających.
+
 **Art. 24.**
 
 1. Potrzeby wyrównawcze ustala się dla jednostki samorządu terytorialnego, w której indywidualny wskaźnik zamożności, ustalony w sposób określony w ust. 3, jest równy określonej w ust. 2 procentowej wartości wskaźnika zamożności, ustalonego odpowiednio dla danej kategorii jednostek samorządu terytorialnego w sposób określony w ust. 4, albo niższy od niej.
@@ -190,19 +360,19 @@ source: "isap-pdf"
 
 5. Przez podstawowe dochody podatkowe, o których mowa w ust. 3 i 4, rozumie się łączną kwotę dochodów:
 
-- **1)** za rok bazowy, z tytułu:
-    - **a)** podatku od nieruchomości,
-    - **b)** podatku rolnego,
-    - **c)** podatku leśnego,
-    - **d)** podatku od środków transportowych,
-    - **e)** podatku od czynności cywilnoprawnych,
-    - **f)** podatku od osób fizycznych, opłacanego w formie karty podatkowej,
-    - **g)** opłaty skarbowej,
-    - **h)** opłaty eksploatacyjnej;
+- **1)** za rok bazowy, z tytułu: podatku od nieruchomości, podatku rolnego, podatku leśnego, podatku od środków transportowych, podatku od czynności cywilnoprawnych, podatku od osób fizycznych, opłacanego w formie karty podatkowej, opłaty skarbowej, opłaty eksploatacyjnej;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
 
-- **2)** planowanych na rok budżetowy, z tytułu udziału w:
-    - **a)** podatku dochodowym od osób fizycznych,
-    - **b)** podatku dochodowym od osób prawnych.
+- **2)** planowanych na rok budżetowy, z tytułu udziału w: podatku dochodowym od osób fizycznych, podatku dochodowym od osób prawnych.
+    - **a)**
+    - **b)**
 
 6. Do podstawowych dochodów podatkowych, o których mowa w ust. 5 pkt 1, przyjmuje się dochody, które jednostka samorządu terytorialnego może uzyskać z:
 
@@ -214,9 +384,9 @@ source: "isap-pdf"
 
 8. Kwoty potrzeb wyrównawczych dla gminy, powiatu i województwa ustala się w przypadku, gdy indywidualny wskaźnik zamożności jednostki samorządu terytorialnego:
 
-- **1)** nie jest większy od 80 % wskaźnika zamożności ustalonego odpowiednio dla danej kategorii jednostek samorządu terytorialnego – mnożąc przeliczeniową liczbę mieszkańców danej jednostki samorządu terytorialnego przez liczbę stanowiącą sumę:
-    - **a)** 100 % różnicy między 80 % wskaźnika zamożności ustalonego odpowiednio dla danej kategorii jednostek samorządu terytorialnego a indywidualnym wskaźnikiem zamożności jednostki samorządu terytorialnego,
-    - **b)** 80 % różnicy między 100 % wskaźnika zamożności ustalonego odpowiednio dla danej kategorii jednostek samorządu terytorialnego a 80 % tego wskaźnika;
+- **1)** nie jest większy od 80 % wskaźnika zamożności ustalonego odpowiednio dla danej kategorii jednostek samorządu terytorialnego – mnożąc przeliczeniową liczbę mieszkańców danej jednostki samorządu terytorialnego przez liczbę stanowiącą sumę: 100 % różnicy między 80 % wskaźnika zamożności ustalonego odpowiednio dla danej kategorii jednostek samorządu terytorialnego a indywidualnym wskaźnikiem zamożności jednostki samorządu terytorialnego, 80 % różnicy między 100 % wskaźnika zamożności ustalonego odpowiednio dla danej kategorii jednostek samorządu terytorialnego a 80 % tego wskaźnika;
+    - **a)**
+    - **b)**
 
 - **2)** jest większy od 80 % i nie jest większy od 100 % wskaźnika zamożności ustalonego odpowiednio dla danej kategorii jednostek samorządu terytorialnego – mnożąc przeliczeniową liczbę mieszkańców danej jednostki samorządu terytorialnego przez 80 % różnicy między wskaźnikiem zamożności ustalonym odpowiednio dla danej kategorii jednostek samorządu terytorialnego a indywidualnym wskaźnikiem zamożności jednostki samorządu terytorialnego.
 
@@ -230,7 +400,7 @@ source: "isap-pdf"
 
 3. Indeks bieżących potrzeb wydatkowych jednostki samorządu terytorialnego jest sumą cząstkowych indeksów bieżących potrzeb wydatkowych tej jednostki ustalonych dla obszarów wydatkowych, o których mowa w ust. 6 i 7.
 
-4. Cząstkowy indeks bieżących potrzeb wydatkowych dla danego obszaru wydatkowego oblicza się według wzoru: IPWf1j = λf1∙[β1∙( )+β2∙( )], w którym poszczególne symbole oznaczają: IPW – cząstkowy indeks bieżących potrzeb wydatkowych, f1 – pierwszy obszar wydatkowy, j – jednostkę samorządu terytorialnego, k – liczbę jednostek samorządu terytorialnego danej kategorii, λf1 – wagę pierwszego obszaru wydatkowego, β1, β2 – współczynnik regresji, gdzie β1+β2 = 1.
+4. Cząstkowy indeks bieżących potrzeb wydatkowych dla danego obszaru wydatkowego oblicza się według wzoru: \( IPWf1j = \lambda f1 \cdot \left[ {\beta 1 \cdot \left( {{{Determinanta1f1j} \over {\sum\nolimits_{j = 1}^k {Determinanta1f1j} }}} \right) + \beta 2 \cdot \left( {{{Determinanta1f1j} \over {\sum\nolimits_{j = 1}^k {Determinanta1f1j} }}} \right)} \right], \) w którym poszczególne symbole oznaczają: IPW – cząstkowy indeks bieżących potrzeb wydatkowych, f1 – pierwszy obszar wydatkowy, j – jednostkę samorządu terytorialnego, k – liczbę jednostek samorządu terytorialnego danej kategorii, λf1 – wagę pierwszego obszaru wydatkowego, β1, β2 – współczynnik regresji, gdzie β1 + β2 = 1.
 
 5. Cząstkowy indeks bieżących potrzeb wydatkowych oblicza się dla każdego z obszarów wydatkowych ustalonych dla poszczególnych kategorii jednostek samorządu terytorialnego.
 
@@ -248,12 +418,12 @@ source: "isap-pdf"
 
 2. Potrzeby oświatowe, o których mowa w ust. 1, w części wynikającej z realizacji zadań związanych z objęciem wychowaniem przedszkolnym dzieci, które ukończyły 5 lat albo mniej w roku poprzedzającym rok budżetowy, w przedszkolach, oddziałach przedszkolnych zorganizowanych w szkołach podstawowych i innych formach wychowania przedszkolnego, koryguje się, uwzględniając wyłącznie skutki wynikające ze:
 
-- **1)** zmiany realizowanych zadań związanych z:
-    - **a)** objęciem wychowaniem przedszkolnym dzieci posiadających orzeczenie o potrzebie kształcenia specjalnego, o którym mowa w art. 127 ust. 10 ustawy – Prawo oświatowe,
-    - **b)** objęciem zajęciami rewalidacyjno-wychowawczymi dzieci posiadających orzeczenie o potrzebie zajęć rewalidacyjno-wychowawczych, o którym mowa w art. 127 ust. 10 ustawy – Prawo oświatowe,
-    - **c)** objęciem wczesnym wspomaganiem rozwoju dzieci posiadających opinię o potrzebie wczesnego wspomagania rozwoju, o której mowa w art. 127 ust. 10 ustawy – Prawo oświatowe,
-    - **d)** zatrudnieniem nauczycieli, o których mowa w art. 42d ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2024 r. poz. 986), zwanej dalej „ustawą – Karta Nauczyciela”, w łącznej liczbie etatów nauczycieli, o której mowa w art. 42d ust. 3 tej ustawy,
-    - **e)** finansowaniem świadczenia na start, o którym mowa w art. 53a ustawy – Karta Nauczyciela;
+- **1)** zmiany realizowanych zadań związanych z: objęciem wychowaniem przedszkolnym dzieci posiadających orzeczenie o potrzebie kształcenia specjalnego, o którym mowa w art. 127 ust. 10 ustawy – Prawo oświatowe, objęciem zajęciami rewalidacyjno-wychowawczymi dzieci posiadających orzeczenie o potrzebie zajęć rewalidacyjno-wychowawczych, o którym mowa w art. 127 ust. 10 ustawy – Prawo oświatowe, objęciem wczesnym wspomaganiem rozwoju dzieci posiadających opinię o potrzebie wczesnego wspomagania rozwoju, o której mowa w art. 127 ust. 10 ustawy – Prawo oświatowe, zatrudnieniem nauczycieli, o których mowa w art. 42d ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2024 r. poz. 986), zwanej dalej „ustawą – Karta Nauczyciela”, w łącznej liczbie etatów nauczycieli, o której mowa w art. 42d ust. 3 tej ustawy, finansowaniem świadczenia na start, o którym mowa w art. 53a ustawy – Karta Nauczyciela;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 - **2)** wzrostu w roku budżetowym średnich wynagrodzeń nauczycieli, o których mowa w art. 30 ust. 3 ustawy – Karta Nauczyciela.
 
@@ -270,9 +440,9 @@ source: "isap-pdf"
 - **3)** liczby uczniów, słuchaczy i wychowanków odpowiednio w szkołach podstawowych, szkołach ponadpodstawowych, szkołach artystycznych, szkolnych schroniskach młodzieżowych oraz jednostkach systemu oświaty, o których mowa w art. 2 pkt 4, 6–8 i 11 ustawy – Prawo oświatowe, oraz liczby słuchaczy kwalifikacyjnych kursów zawodowych;
 - **4)** liczby dzieci objętych wychowaniem przedszkolnym w przedszkolach, oddziałach przedszkolnych zorganizowanych w szkołach podstawowych i innych formach wychowania przedszkolnego;
 - **5)** liczby dzieci objętych wychowaniem przedszkolnym w przedszkolach niebędących przedszkolami specjalnymi i oddziałach przedszkolnych zorganizowanych w szkołach podstawowych niebędących szkołami specjalnymi oraz liczby uczniów w szkołach niebędących szkołami specjalnymi, w związku z zatrudnieniem nauczycieli, o których mowa w art. 42d ust. 1 ustawy – Karta Nauczyciela, w łącznej liczbie etatów nauczycieli, o której mowa w art. 42d ust. 3 tej ustawy;
-- **6)** zróżnicowania kwot ustalanych na dzieci objęte wychowaniem przedszkolnym i uczniów realizujących obowiązek szkolny w szkołach podstawowych z uwzględnieniem wyższych kwot na:
-    - **a)** dzieci objęte wychowaniem przedszkolnym w przedszkolach, oddziałach przedszkolnych zorganizowanych w szkołach podstawowych i innych formach wychowania przedszkolnego, zlokalizowanych na terenach wiejskich i w miastach do 5000 mieszkańców,
-    - **b)** uczniów szkół podstawowych dla dzieci i młodzieży, zlokalizowanych na terenach wiejskich i w miastach do 5000 mieszkańców;
+- **6)** zróżnicowania kwot ustalanych na dzieci objęte wychowaniem przedszkolnym i uczniów realizujących obowiązek szkolny w szkołach podstawowych z uwzględnieniem wyższych kwot na: dzieci objęte wychowaniem przedszkolnym w przedszkolach, oddziałach przedszkolnych zorganizowanych w szkołach podstawowych i innych formach wychowania przedszkolnego, zlokalizowanych na terenach wiejskich i w miastach do 5000 mieszkańców, uczniów szkół podstawowych dla dzieci i młodzieży, zlokalizowanych na terenach wiejskich i w miastach do 5000 mieszkańców;
+    - **a)**
+    - **b)**
 
 - **7)** zróżnicowania kwot ustalanych na uczniów lub słuchaczy objętych kształceniem zawodowym w oparciu o prognozę zapotrzebowania na pracowników w zawodach szkolnictwa branżowego na krajowym i wojewódzkim rynku pracy, o której mowa w art. 46b ust. 1 ustawy – Prawo oświatowe;
 - **8)** liczby uczniów lub słuchaczy, niebędących uczniami lub słuchaczami niepełnosprawnymi, którzy uzyskali odpowiednio świadectwo dojrzałości, certyfikat kwalifikacji zawodowej, świadectwo potwierdzające kwalifikację w zawodzie, dyplom zawodowy lub dyplom potwierdzający kwalifikacje zawodowe, w liceach ogólnokształcących dla dorosłych, branżowych szkołach II stopnia oraz szkołach policealnych, niebędących szkołami specjalnymi;
@@ -305,7 +475,7 @@ source: "isap-pdf"
 - **1)** gmin – nie może być niższa niż 0,014 %,
 - **2)** miast na prawach powiatu – nie może być niższa niż 0,4 %,
 - **3)** powiatów – nie może być niższa niż 0,14 %,
-- **4)** województw – nie może być niższa niż 4,0 % – wysokości kwoty części podstawowej potrzeb rozwojowych danej kategorii jednostek samorządu terytorialnego.
+- **4)** województw – nie może być niższa niż 4,0 % wysokości kwoty części podstawowej potrzeb rozwojowych danej kategorii jednostek samorządu terytorialnego.
 
 5. Kwotę części inwestycyjnej potrzeb rozwojowych oblicza się dla jednostki samorządu terytorialnego proporcjonalnie do udziału przeliczeniowych wydatków majątkowych tej jednostki w przeliczeniowych wydatkach majątkowych danej kategorii jednostek samorządu terytorialnego.
 
@@ -313,7 +483,7 @@ source: "isap-pdf"
 
 - **1)** wydatków majątkowych własnych,
 - **2)** wydatków majątkowych na programy finansowane z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530),
-- **3)** wydatków majątkowych innych niż określone w pkt 1 i 2 – oraz wag im przypisanych, przy czym waga nie może być mniejsza niż 0 i większa niż 1.
+- **3)** wydatków majątkowych innych niż określone w pkt 1 i 2 oraz wag im przypisanych, przy czym waga nie może być mniejsza niż 0 i większa niż 1.
 
 7. Wydatki i dochody, o których mowa w ust. 1 i 6, oblicza się jako średnią arytmetyczną z okresu 3 lat obejmującego: rok bazowy, rok poprzedzający rok bazowy i rok poprzedzający o 2 lata rok bazowy.
 
@@ -411,9 +581,9 @@ source: "isap-pdf"
 4. Środki rezerwy mogą być przeznaczone także dla:
 
 - **1)** jednostek samorządu terytorialnego, w których dochody w przeliczeniu na jednego mieszkańca są niższe od średnich dochodów w przeliczeniu na jednego mieszkańca danej kategorii jednostek samorządu terytorialnego;
-- **2)** jednostek samorządu terytorialnego:
-    - **a)** w majątku których wystąpiły straty w wyniku nieprzewidzianych zdarzeń,
-    - **b)** udzielających pomocy repatriantom i członkom ich rodzin.
+- **2)** jednostek samorządu terytorialnego: w majątku których wystąpiły straty w wyniku nieprzewidzianych zdarzeń, udzielających pomocy repatriantom i członkom ich rodzin.
+    - **a)**
+    - **b)**
 
 5. Rezerwą dysponuje minister właściwy do spraw finansów publicznych.
 
@@ -448,7 +618,7 @@ source: "isap-pdf"
 
 - **1)** oświaty i wychowania – w zakresie potrzeb oświatowych,
 - **2)** środowiska – w zakresie potrzeb ekologicznych,
-- **3)** finansów publicznych – w zakresie pozostałych potrzeb finansowych – w terminie do dnia 30 czerwca roku następującego po roku bazowym, ponownie oblicza kwoty potrzeb finansowych jednostek samorządu terytorialnego za rok bazowy, porównuje potrzeby finansowe, o których jednostki zostały poinformowane na podstawie art. 39 ust. 1 pkt 2, z obliczonymi ponownie potrzebami finansowymi, i ustala różnicę między tymi kwotami.
+- **3)** finansów publicznych – w zakresie pozostałych potrzeb finansowych w terminie do dnia 30 czerwca roku następującego po roku bazowym, ponownie oblicza kwoty potrzeb finansowych jednostek samorządu terytorialnego za rok bazowy, porównuje potrzeby finansowe, o których jednostki zostały poinformowane na podstawie art. 39 ust. 1 pkt 2, z obliczonymi ponownie potrzebami finansowymi, i ustala różnicę między tymi kwotami.
 
 2. Minister właściwy do spraw oświaty i wychowania oblicza kwoty potrzeb oświatowych za rok bazowy z uwzględnieniem zmiany zakresu zadań oświatowych, w stosunku do zakresu zadań przyjętych do obliczenia potrzeb oświatowych, o których jednostki samorządu terytorialnego zostały poinformowane na podstawie art. 39 ust. 1 pkt 2, oraz środków z rezerwy na uzupełnienie dochodów jednostek samorządu terytorialnego przekazanych w roku bazowym z tytułu wzrostu zadań oświatowych.
 
@@ -484,17 +654,17 @@ source: "isap-pdf"
 
 1. Minister właściwy do spraw finansów publicznych informuje jednostki samorządu terytorialnego o:
 
-- **1)** ustalonej na rok budżetowy kwocie:
-    - **a)** potrzeb finansowych, o których mowa w art. 23,
-    - **b)** korekty z tytułu zamożności,
-    - **c)** należnych dochodów z tytułu udziału w podatku dochodowym od osób fizycznych i podatku dochodowym od osób prawnych,
-    - **d)** należnej subwencji ogólnej, ujętej w projekcie ustawy budżetowej – w terminie do dnia 15 października roku poprzedzającego rok budżetowy;
+- **1)** ustalonej na rok budżetowy kwocie: potrzeb finansowych, o których mowa w art. 23, korekty z tytułu zamożności, należnych dochodów z tytułu udziału w podatku dochodowym od osób fizycznych i podatku dochodowym od osób prawnych, należnej subwencji ogólnej, ujętej w projekcie ustawy budżetowej w terminie do dnia 15 października roku poprzedzającego rok budżetowy;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
-- **2)** ustalonej na rok budżetowy kwocie:
-    - **a)** potrzeb finansowych, o których mowa w art. 23,
-    - **b)** korekty z tytułu zamożności,
-    - **c)** należnych dochodów z tytułu udziału w podatku dochodowym od osób fizycznych i podatku dochodowym od osób prawnych,
-    - **d)** należnej subwencji ogólnej, wynikającej z ustawy budżetowej – w terminie 14 dni od dnia ogłoszenia ustawy budżetowej;
+- **2)** ustalonej na rok budżetowy kwocie: potrzeb finansowych, o których mowa w art. 23, korekty z tytułu zamożności, należnych dochodów z tytułu udziału w podatku dochodowym od osób fizycznych i podatku dochodowym od osób prawnych, należnej subwencji ogólnej, wynikającej z ustawy budżetowej w terminie 14 dni od dnia ogłoszenia ustawy budżetowej;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **3)** środkach wynikających z podziału rezerwy, o której mowa w art. 34.
 
@@ -562,9 +732,9 @@ source: "isap-pdf"
 
 1. Gmina powstała w wyniku połączenia gmin, w drodze rozporządzenia wydanego na wniosek zainteresowanych rad gmin, otrzymuje dodatkowy udział w podatku dochodowym od osób fizycznych, w okresie 5 lat, począwszy od dnia 1 stycznia roku, w którym nastąpiło połączenie, w wysokości 0,4 punktu procentowego.
 
-2. Dla gminy powstałej w wyniku połączenia gmin, w drodze rozporządzenia wydanego na wniosek zainteresowanych rad gmin, dla której dochód z tytułu udziału w podatku dochodowym od osób fizycznych w przeliczeniu na jednego mieszkańca jest niższy od dochodu z tytułu udziału w podatku dochodowym od osób fizycznych dla wszystkich gmin w kraju w przeliczeniu na jednego mieszkańca, dodatkowy udział, o którym mowa w ust. 1, w okresie 5 lat, począwszy od dnia 1 stycznia roku, w którym nastąpiło połączenie, zwiększa się o wskaźnik Z , wyrażony wzorem: Z = 0,4 punktu procentowego∙ , w którym poszczególne symbole oznaczają: ŚP – iloraz dochodów z tytułu udziału w podatku dochodowym od osób fizycznych dla wszystkich gmin w kraju oraz mieszkańców tych gmin, Ś – iloraz dochodów z tytułu udziału w podatku dochodowym od osób fizycznych w nowej gminie oraz liczby mieszkańców tej gminy.
+2. Dla gminy powstałej w wyniku połączenia gmin, w drodze rozporządzenia wydanego na wniosek zainteresowanych rad gmin, dla której dochód z tytułu udziału w podatku dochodowym od osób fizycznych w przeliczeniu na jednego mieszkańca jest niższy od dochodu z tytułu udziału w podatku dochodowym od osób fizycznych dla wszystkich gmin w kraju w przeliczeniu na jednego mieszkańca, dodatkowy udział, o którym mowa w ust. 1, w okresie 5 lat, począwszy od dnia 1 stycznia roku, w którym nastąpiło połączenie, zwiększa się o wskaźnik Zg, wyrażony wzorem: \( Z_g = 0,4punktuprocentowego \cdot {{SP_g } \over {S_g }}, \) w którym poszczególne symbole oznaczają: ŚPg – iloraz dochodów z tytułu udziału w podatku dochodowym od osób fizycznych dla wszystkich gmin w kraju oraz mieszkańców tych gmin, Śg – iloraz dochodów z tytułu udziału w podatku dochodowym od osób fizycznych w nowej gminie oraz liczby mieszkańców tej gminy.
 
-3. Wartości oznaczone symbolami ŚP oraz Ś oblicza się na podstawie danych za rok poprzedzający rok, w którym podjęto uchwały.
+3. Wartości oznaczone symbolami ŚPg oraz Śg oblicza się na podstawie danych za rok poprzedzający rok, w którym podjęto uchwały.
 
 4. Dochodów z tytułu zwiększonych udziałów, o których mowa w ust. 1 i 2, nie zalicza się do podstawowych dochodów podatkowych w rozumieniu niniejszej ustawy.
 
@@ -602,12 +772,12 @@ source: "isap-pdf"
 - **2)** sposób i tryb udzielania dotacji celowych, w tym sposób ogłoszenia naboru wniosków o udzielenie dotacji celowych, oraz ich rozliczania,
 - **3)** zakres wniosku o udzielenie dotacji celowej oraz wymagane dokumenty,
 - **4)** elementy umowy o udzielenie dotacji celowej,
-- **5)** sposób i tryb kontroli realizacji zadań – uwzględniając znaczenie i charakter zadań związanych z budową i remontami obiektów sportowych oraz rozwijaniem sportu, w szczególności wśród dzieci i młodzieży, a także sportu osób niepełnosprawnych.
+- **5)** sposób i tryb kontroli realizacji zadań uwzględniając znaczenie i charakter zadań związanych z budową i remontami obiektów sportowych oraz rozwijaniem sportu, w szczególności wśród dzieci i młodzieży, a także sportu osób niepełnosprawnych.
 
 9. Minister Obrony Narodowej określi, w drodze rozporządzenia:
 
 - **1)** zakres zadań, o których mowa w ust. 1 pkt 6,
-- **2)** sposób i tryb udzielania dotacji celowych – uwzględniając znaczenie i charakter zadań związanych z budową i remontami strzelnic oraz rozwijaniem sportu strzeleckiego, w szczególności wśród dzieci i młodzieży oraz organizacji proobronnych, a także konieczność efektywnego wykorzystania otrzymanych dotacji celowych.
+- **2)** sposób i tryb udzielania dotacji celowych uwzględniając znaczenie i charakter zadań związanych z budową i remontami strzelnic oraz rozwijaniem sportu strzeleckiego, w szczególności wśród dzieci i młodzieży oraz organizacji proobronnych, a także konieczność efektywnego wykorzystania otrzymanych dotacji celowych.
 
 **Art. 46.**
 
@@ -634,7 +804,7 @@ source: "isap-pdf"
 - **2)** sposób i tryb udzielania oraz rozliczania dotacji,
 - **3)** wzór oferty o udzielenie dotacji oraz wymagane dokumenty,
 - **4)** elementy umowy o udzielenie dotacji,
-- **5)** elementy sprawozdania z realizacji zadań, o którym mowa w ust. 6 – uwzględniając znaczenie i charakter zadań związanych z budową i remontami pomników upamiętniających historię Wojska Polskiego i tradycje oręża polskiego, konieczność efektywnego wykorzystania oraz rozliczenia przez jednostki samorządu terytorialnego dotacji.
+- **5)** elementy sprawozdania z realizacji zadań, o którym mowa w ust. 6 uwzględniając znaczenie i charakter zadań związanych z budową i remontami pomników upamiętniających historię Wojska Polskiego i tradycje oręża polskiego, konieczność efektywnego wykorzystania oraz rozliczenia przez jednostki samorządu terytorialnego dotacji.
 
 **Art. 47.**
 
@@ -698,21 +868,61 @@ source: "isap-pdf"
 
 **Art. 54.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505 i 2760 oraz z 2024 r. poz. 858, 859, 1222 i 1473) w art. 3a:
 
+- **1)** w § 1: we wprowadzeniu do wyliczenia skreśla się wyrazy „a także uznanego przez jednostkę samorządu terytorialnego zwrotu do budżetu państwa całej nienależnej kwoty części oświatowej subwencji ogólnej, o którym mowa w art. 37a ust. 2 pkt 1 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2022 r. poz. 2267 oraz z 2023 r. poz. 1586 i 2005),”, uchyla się pkt 14;
+    - **a)**
+    - **b)**
+
+- **2)** w § 2 w pkt 1 skreśla się wyrazy „w oświadczeniu, o którym mowa w art. 37a ust. 2 pkt 1 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego,”.
+
 **Art. 55.** W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2024 r. poz. 1465) wprowadza się następujące zmiany:
 
-**Art. 56.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2023 r. poz. 70, 1313 i 2291) w art. 7 ust. 4 otrzymuje brzmienie: „4. Z tytułu zwolnienia, o którym mowa w ust. 2 pkt 5a, jednostkom samorządu terytorialnego przysługuje z budżetu państwa zwrot utraconych dochodów za przedmioty opodatkowania, które podlegają opodatkowaniu i nie są z niego zwolnione na podstawie innych przepisów niniejszej ustawy.”.
+- **1)** w art. 4c w ust. 3 w pkt 1 wyrazy „ustawą z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2024 r. poz. 356)” zastępuje się wyrazami „ustawą z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572)”;
+- **2)** w art. 4d w pkt 1 wyrazy „ustawą z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego” zastępuje się wyrazami „ustawą z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego”.
+
+**Art. 56.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2023 r. poz. 70, 1313 i 2291) w art. 7 ust. 4 otrzymuje brzmienie: „ 4. Z tytułu zwolnienia, o którym mowa w ust. 2 pkt 5a, jednostkom samorządu terytorialnego przysługuje z budżetu państwa zwrot utraconych dochodów za przedmioty opodatkowania, które podlegają opodatkowaniu i nie są z niego zwolnione na podstawie innych przepisów niniejszej ustawy. ” .
 
 **Art. 57.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2024 r. poz. 226, 232, 854, 858, 859 i 863) w art. 22j:
 
+- **1)** ust. 7 otrzymuje brzmienie: „
+
+7. Podatnicy będący mikroprzedsiębiorcami, małymi lub średnimi przedsiębiorcami w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców mogą indywidualnie ustalić stawki amortyzacyjne dla wytworzonych we własnym zakresie środków trwałych będących budynkami (lokalami) niemieszkalnymi i budowlami, zaliczonymi do grupy 1 i 2 Klasyfikacji, po raz pierwszy wprowadzonych do ewidencji środków trwałych oraz wartości niematerialnych i prawnych danego podatnika, w przypadku gdy ten środek trwały znajduje się na obszarze:
+
+- **1)** gminy zlokalizowanej w powiecie lub miasta na prawach powiatu, w których przeciętna stopa bezrobocia wynosi co najmniej 120 % przeciętnej stopy bezrobocia w kraju, oraz
+- **2)** gminy lub miasta na prawach powiatu, w których indywidualny wskaźnik zamożności gminy lub miasta na prawach powiatu jest mniejszy niż 100 % wskaźnika zamożności wszystkich gmin lub miast na prawach powiatu. ” ;
+- **2)** w ust. 10 dodaje się zdanie drugie w brzmieniu: „ Przez przeciętną stopę bezrobocia w powiecie rozumie się także przeciętną stopę bezrobocia w mieście na prawach powiatu. ” ;
+- **3)** ust. 11 otrzymuje brzmienie: „
+
+11. Przez indywidualny wskaźnik zamożności gminy lub miasta na prawach powiatu i wskaźnik zamożności wszystkich gmin lub miast na prawach powiatu, o których mowa w ust. 7 pkt 2, rozumie się odpowiednio wskaźniki w rozumieniu art. 24 ust. 3 i 4 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572), stanowiące podstawę do wyliczenia kwot potrzeb wyrównawczych na rok bezpośrednio poprzedzający rok, w którym wystąpiło zdarzenie określone w ust. 9. ” .
+
 **Art. 58.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2023 r. poz. 2805 oraz z 2024 r. poz. 232, 854 i 1222) w art. 16j:
 
-**Art. 59.** W ustawie z dnia 7 października 1992 r. o regionalnych izbach obrachunkowych (Dz. U. z 2023 r. poz. 1325) art. 10 otrzymuje brzmienie: „Art. 10. Prezes izby przekazuje informację o stwierdzonych nieprawidłowościach w zakresie:
+- **1)** ust. 7 otrzymuje brzmienie: „
 
-**Art. 60.** W ustawie z dnia 13 października 1998 r. – Przepisy wprowadzające ustawy reformujące administrację publiczną (Dz. U. poz. 872, z późn. zm. ) w art. 85 dodaje się ust. 3 w brzmieniu: „3. Dochody miast na prawach powiatu z tytułu udziałów w podatku dochodowym od osób fizycznych i podatku dochodowym od osób prawnych oraz subwencji ogólnej stanowią dochód gminy z przeznaczeniem na wydatki związane z realizacją zadań gminnych i powiatowych.”.
+7. Podatnicy będący mikroprzedsiębiorcami, małymi lub średnimi przedsiębiorcami w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców mogą indywidualnie ustalić stawki amortyzacyjne dla wytworzonych we własnym zakresie środków trwałych będących budynkami (lokalami) niemieszkalnymi i budowlami, zaliczonymi do grupy 1 i 2 Klasyfikacji, po raz pierwszy wprowadzonych do ewidencji środków trwałych oraz wartości niematerialnych i prawnych danego podatnika, w przypadku gdy ten środek trwały znajduje się na obszarze:
+
+- **1)** gminy zlokalizowanej w powiecie lub miasta na prawach powiatu, w których przeciętna stopa bezrobocia wynosi co najmniej 120 % przeciętnej stopy bezrobocia w kraju, oraz
+- **2)** gminy lub miasta na prawach powiatu, w których indywidualny wskaźnik zamożności gminy lub miasta na prawach powiatu jest mniejszy niż 100 % wskaźnika zamożności wszystkich gmin lub miast na prawach powiatu. ” ;
+- **2)** w ust. 10 dodaje się zdanie drugie w brzmieniu: „ Przez przeciętną stopę bezrobocia w powiecie rozumie się także przeciętną stopę bezrobocia w mieście na prawach powiatu. ” ;
+- **3)** ust. 11 otrzymuje brzmienie: „
+
+11. Przez indywidualny wskaźnik zamożności gminy lub miasta na prawach powiatu i wskaźnik zamożności wszystkich gmin lub miast na prawach powiatu, o których mowa w ust. 7 pkt 2, rozumie się odpowiednio wskaźniki w rozumieniu art. 24 ust 3 i 4 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572), stanowiące podstawę do wyliczenia kwot potrzeb wyrównawczych na rok bezpośrednio poprzedzający rok, w którym wystąpiło zdarzenie określone w ust. 9. ” .
+
+**Art. 59.** W ustawie z dnia 7 października 1992 r. o regionalnych izbach obrachunkowych (Dz. U. z 2023 r. poz. 1325) art. 10 otrzymuje brzmienie: „ Prezes izby przekazuje informację o stwierdzonych nieprawidłowościach w zakresie:
+
+- **1)** danych przyjmowanych do ustalenia potrzeb finansowych, o których mowa w ustawie z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572) – organom ustalającym te potrzeby;
+- **2)** rozliczeń dotacji celowych – organom dokonującym podziału tych środków. ” .
+
+**Art. 60.** W ustawie z dnia 13 października 1998 r. – Przepisy wprowadzające ustawy reformujące administrację publiczną (Dz. U. poz. 872, z późn. zm.) w art. 85 dodaje się ust. 3 w brzmieniu: „ 3. Dochody miast na prawach powiatu z tytułu udziałów w podatku dochodowym od osób fizycznych i podatku dochodowym od osób prawnych oraz subwencji ogólnej stanowią dochód gminy z przeznaczeniem na wydatki związane z realizacją zadań gminnych i powiatowych. ” .
 
 **Art. 61.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2024 r. poz. 1283) wprowadza się następujące zmiany:
 
+- **1)** w art. 151 w ust. 3 wyrazy „ustawie z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2024 r. poz. 356)” zastępuje się wyrazami „ustawie z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572)”;
+- **2)** w art. 155 w ust. 2 wyrazy „art. 87 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego” zastępuje się wyrazami „art. 53 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego”.
+
 **Art. 62.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2024 r. poz. 475, 742, 858, 863 i 1089) wprowadza się następujące zmiany:
+
+- **1)** w art. 9 w ust. 2c wyrazy „art. 8 ust. 3 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2022 r. poz. 2267, z 2023 r. poz. 1586 i 2005 oraz z 2024 r. poz. 123)” zastępuje się wyrazami „art. 10 ust. 3 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572)”;
+- **2)** w art. 108g w ust. 4 wyrazy „art. 8 ust. 3 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego” zastępuje się wyrazami „art. 10 ust. 3 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego”.
 
 **Art. 63.** W ustawie z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2024 r. poz. 1420) w art. 49 w ust. 1 wyrazy „w roku poprzedzającym rok bazowy w rozumieniu ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2024 r. poz. 356)” zastępuje się wyrazami „w roku bazowym w rozumieniu ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572)”.
 
@@ -722,39 +932,181 @@ source: "isap-pdf"
 
 **Art. 66.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530) wprowadza się następujące zmiany:
 
-**Art. 67.** W ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2023 r. poz. 2408 oraz z 2024 r. poz. 721) w art. 37f w § 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Wójt gminy wiejskiej lub miejsko-wiejskiej ujętej w krajowym rejestrze urzędowym podziału terytorialnego kraju, o którym mowa w art. 47 ust. 1 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej, według stanu na dzień 1 stycznia roku, w którym przeprowadzane są wybory, w dniu wyborów organizuje bezpłatny gminny przewóz pasażerski dla wyborców ujętych w spisie wyborców w stałym obwodzie głosowania położonym na obszarze danej gminy, jeżeli w ramach tej gminy:”.
+- **1)** w art. 38b uchyla się pkt 3;
+- **2)** w art. 50 w ust. 6 w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „
+- **10)** wydatków w części budżetu państwa „subwencje ogólne dla jednostek samorządu terytorialnego”. ” ;
+- **3)** w art. 249 w ust. 4 uchyla się pkt 4.
+
+**Art. 67.** W ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2023 r. poz. 2408 oraz z 2024 r. poz. 721) w art. 37f w § 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wójt gminy wiejskiej lub miejsko-wiejskiej ujętej w krajowym rejestrze urzędowym podziału terytorialnego kraju, o którym mowa w art. 47 ust. 1 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej, według stanu na dzień 1 stycznia roku, w którym przeprowadzane są wybory, w dniu wyborów organizuje bezpłatny gminny przewóz pasażerski dla wyborców ujętych w spisie wyborców w stałym obwodzie głosowania położonym na obszarze danej gminy, jeżeli w ramach tej gminy: ” .
 
 **Art. 68.** W ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2024 r. poz. 152 i 858) wprowadza się następujące zmiany:
 
+- **1)** w art. 50 ust. 1 i 2 otrzymują brzmienie: „
+
+1. Na podstawie danych zgromadzonych w bazie danych SIO zawartych w zbiorach danych szkół i placówek oświatowych, zbiorach danych innych jednostek wykonujących zadania z zakresu oświaty, zbiorach danych uczniów oraz zbiorach danych nauczycieli, według stanu na dzień 15 czerwca danego roku są sporządzane:
+
+- **1)** zestawienia zawierające dane dotyczące liczby uczniów i liczby etatów nauczycieli, niezbędne do dokonania podziału kwoty potrzeb oświatowych między poszczególne jednostki samorządu terytorialnego;
+- **2)** zestawienia zawierające dane dotyczące liczby uczniów i liczby etatów nauczycieli w szkołach i placówkach oświatowych prowadzonych przez ministrów.
+
+2. Zestawienia, o których mowa w ust. 1 pkt 1, są udostępniane w bazie danych SIO jednostkom samorządu terytorialnego. ” ;
+
+- **2)** w art. 91 ust. 2 otrzymuje brzmienie: „
+
+2. W bazie danych SIO rejestruje się datę modyfikacji danych, a w przypadku modyfikacji danych stanowiących podstawę podziału kwoty potrzeb oświatowych między poszczególne jednostki samorządu terytorialnego, rejestrowana jest historia zmian. ” .
+
 **Art. 69.** W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2024 r. poz. 177, 742, 743 i 858) w art. 197 w ust. 7 wyrazy „art. 8 ust. 3 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2022 r. poz. 2267 oraz z 2023 r. poz. 1586 i 2005)” zastępuje się wyrazami „art. 10 ust. 3 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572)”.
 
-**Art. 70.** W ustawie z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących (Dz. U. z 2024 r. poz. 1410) w art. 51 ust. 2–4 otrzymują brzmienie: „2. Do podstawowych dochodów podatkowych, o których mowa w ustawie z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572), przyjmuje się dochód z podatku od nieruchomości, który gmina uzyskała od elektrowni jądrowej, w wysokości pomniejszonej o opłatę przekazaną na rzecz gmin z nią graniczących, o której mowa w art. 50 ust. 1. 3. Do dochodu z podatku od nieruchomości od elektrowni jądrowej, o którym mowa w ust. 2, przyjmuje się także dochód, który gmina może uzyskać z tego podatku, stosując do jego obliczenia górne granice stawek podatku obowiązujące w danym roku oraz skutki finansowe wynikające z zastosowania ulg podatkowych przewidzianych w przepisach prawa podatkowego oraz ulg w spłacie zobowiązań podatkowych w postaci umorzenia w całości lub w części zaległości podatkowych – w wysokości 50 % skutków finansowych tych ulg. 4. Do podstawowych dochodów podatkowych, o których mowa w ustawie z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego, przyjmuje się dochód z opłaty, o której mowa w art. 50 ust. 1.”.
+**Art. 70.** W ustawie z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących (Dz. U. z 2024 r. poz. 1410) w art. 51 ust. 2–4 otrzymują brzmienie: „ 2. Do podstawowych dochodów podatkowych, o których mowa w ustawie z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572), przyjmuje się dochód z podatku od nieruchomości, który gmina uzyskała od elektrowni jądrowej, w wysokości pomniejszonej o opłatę przekazaną na rzecz gmin z nią graniczących, o której mowa w art. 50 ust. 1. 3. Do dochodu z podatku od nieruchomości od elektrowni jądrowej, o którym mowa w ust. 2, przyjmuje się także dochód, który gmina może uzyskać z tego podatku, stosując do jego obliczenia górne granice stawek podatku obowiązujące w danym roku oraz skutki finansowe wynikające z zastosowania ulg podatkowych przewidzianych w przepisach prawa podatkowego oraz ulg w spłacie zobowiązań podatkowych w postaci umorzenia w całości lub w części zaległości podatkowych – w wysokości 50 % skutków finansowych tych ulg. 4. Do podstawowych dochodów podatkowych, o których mowa w ustawie z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego, przyjmuje się dochód z opłaty, o której mowa w art. 50 ust. 1. ” .
 
 **Art. 71.** W ustawie z dnia 4 listopada 2016 r. o wsparciu kobiet w ciąży i rodzin „Za życiem” (Dz. U. z 2023 r. poz. 1923) w art. 9 w ust. 5 wyrazy „art. 8 ust. 3 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2022 r. poz. 2267 oraz z 2023 r. poz. 1586)” zastępuje się wyrazami „art. 10 ust. 3 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572)”.
 
 **Art. 72.** W ustawie z dnia 9 marca 2017 r. o związku metropolitalnym w województwie śląskim (Dz. U. z 2022 r. poz. 2578) wprowadza się następujące zmiany:
 
+- **1)** art. 52 otrzymuje brzmienie: „
+
+1. Wysokość udziału związku metropolitalnego w podatku dochodowym od osób fizycznych, od dochodów podatników tego podatku zamieszkałych na obszarze związku metropolitalnego, wynosi 0,49 %.
+
+2. Kwotę rocznego dochodu związku metropolitalnego z tytułu udziału w podatku dochodowym od osób fizycznych ustala się, mnożąc, zwaloryzowane zgodnie z art. 11 ust. 2 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572), dochody podatników tego podatku zamieszkałych na obszarze związku metropolitalnego za rok bazowy, przez 0,49 %.
+
+3. Dochody związku metropolitalnego z tytułu udziału w podatku dochodowym od osób fizycznych przekazuje Naczelnik Pierwszego Urzędu Skarbowego w Bydgoszczy na rachunek bankowy związku w dwunastu równych ratach miesięcznych, w terminie do 25. dnia każdego miesiąca. ” ;
+
+- **2)** w art. 53: ust. 4 otrzymuje brzmienie: „
+    - **a)**
+
+4.
+
+## Część stałą składki rocznej ustala się dla gmin, niebędących miastami na prawach powiatu, wchodzących w skład związku metropolitalnego, mnożąc 0,24 % przez dochód gminy z tytułu udziału w podatku dochodowym od osób fizycznych, o którym mowa w art. 11 ust. 1 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego, ustalony na rok budżetowy.
+
+## Część stałą składki rocznej ustala się dla miast na prawach powiatu wchodzących w skład związku metropolitalnego, mnożąc 0,19 % przez dochód miasta na prawach powiatu z tytułu udziału w podatku dochodowym od osób fizycznych, o którym mowa w art. 11 ust. 1 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego, ustalony na rok budżetowy.
+
 **Art. 73.** W ustawie z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. z 2024 r. poz. 754 i 1562) wprowadza się następujące zmiany:
+
+- **1)** w art. 2: pkt 8 otrzymuje brzmienie: „
+    - **a)**
+
+- **8)** liczbie mieszkańców – należy przez to rozumieć liczbę mieszkańców zamieszkałych na obszarze odpowiednio danej jednostki samorządu terytorialnego oraz kraju, według stanu na dzień 31 grudnia roku poprzedzającego rok bazowy, ustaloną przez Prezesa Głównego Urzędu Statystycznego do dnia 31 maja roku bazowego; ” , po pkt 23 dodaje się pkt 23a w brzmieniu: „
+    - **b)**
+
+- **23a)** przewidzianej kwocie potrzeb oświatowych – należy przez to rozumieć przewidzianą kwotę potrzeb oświatowych dla jednostki samorządu terytorialnego ustaloną na podstawie art. 26 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572), zwanej dalej „ustawą o dochodach jednostek samorządu terytorialnego”; ” , w pkt 35 wyrazy „art. 20 ust. 2 i 4 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego” zastępuje się wyrazami „art. 24 ust. 3 ustawy o dochodach jednostek samorządu terytorialnego”, w pkt 36 wyrazy „art. 22 ust. 2 i 4 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego” zastępuje się wyrazami „art. 24 ust. 3 ustawy o dochodach jednostek samorządu terytorialnego”, po pkt 36 dodaje się pkt 36a w brzmieniu: „
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **36a)** internacie – należy przez to rozumieć internat, o którym mowa w art. 107 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe; ” ;
+- **2)** w art. 3 w ust. 1 wyrazy „ustawie z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego” zastępuje się wyrazami „ustawie o dochodach jednostek samorządu terytorialnego”;
+- **3)** tytuł rozdziału 2 otrzymuje brzmienie: „ Kwota potrzeb oświatowych ” ;
+- **4)** art. 7 otrzymuje brzmienie: „ Sposób ustalania łącznej kwoty potrzeb oświatowych dla jednostek samorządu terytorialnego oraz sposób jej podziału między poszczególne jednostki samorządu terytorialnego określają przepisy ustawy o dochodach jednostek samorządu terytorialnego. ” ;
+- **5)** użyte w art. 8 w ust. 1 i w ust. 3 we wprowadzeniu do wyliczenia oraz w pkt 1 i 2, w art. 31 w ust. 1 i 1a, w art. 31a w ust. 1, w art. 43 w ust. 1 w pkt 2, w art. 45 we wprowadzeniu do wyliczenia, w pkt 1 i 2 oraz w art. 50 w ust. 1 w pkt 3, 5 i 6, w różnej liczbie i różnym przypadku, wyrazy „kwota przewidziana w części oświatowej subwencji ogólnej” zastępuje się użytymi w odpowiedniej liczbie i odpowiednim przypadku wyrazami „przewidziana kwota potrzeb oświatowych”;
+- **6)** w art. 8 w ust. 2: pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** środków przeznaczonych w roku budżetowym na prowadzenie przedszkoli specjalnych, oddziałów przedszkolnych w szkołach podstawowych specjalnych, szkół specjalnych i placówek, o których mowa w art. 2 pkt 7 ustawy – Prawo oświatowe, prowadzonych przez jednostkę samorządu terytorialnego; ” , w pkt 3 objaśnienia symboli SSI, SSIN i S otrzymują brzmienie: „ SSI – przewidzianą kwotę potrzeb oświatowych dla jednostki samorządu terytorialnego na uczniów oddziałów specjalnych i oddziałów integracyjnych w tych szkołach, SSIN – przewidzianą kwotę potrzeb oświatowych dla jednostki samorządu terytorialnego na uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego oddziałów specjalnych i oddziałów integracyjnych w tych szkołach, w zakresie wynikającym z posiadania przez tych uczniów orzeczeń o potrzebie kształcenia specjalnego, S – przewidzianą kwotę potrzeb oświatowych dla jednostki samorządu terytorialnego na uczniów i uczestników zajęć rewalidacyjno-wychowawczych w tych szkołach. ” ;
+    - **b)**
+
+- **7)** użyte w art. 12 w ust. 1 w pkt 3, 5 i 6, w ust. 2 w pkt 3, 5 i 6 oraz w ust. 3 w pkt 3 i 4, w różnej liczbie i różnym przypadku, wyrazy „kwota przewidziana na rok budżetowy w części oświatowej subwencji ogólnej” zastępuje się użytymi w odpowiedniej liczbie i odpowiednim przypadku wyrazami „przewidziana na rok budżetowy kwota potrzeb oświatowych”;
+- **8)** w art. 14: w ust. 1 objaśnienia symboli St-1i LuSt-1 otrzymują brzmienie: „ St-1 – przewidzianą kwotę potrzeb oświatowych dla jednostki samorządu terytorialnego w roku bazowym na prowadzenie przez tę jednostkę szkół danego typu, w których jest realizowany obowiązek szkolny lub obowiązek nauki, niebędących szkołami specjalnymi, bez uwzględnienia przewidzianej kwoty potrzeb oświatowych dla jednostki samorządu terytorialnego na wychowanków internatów w prowadzonych przez tę jednostkę szkołach danego typu, w których jest realizowany obowiązek szkolny lub obowiązek nauki, niebędących szkołami specjalnymi, LuSt-1 – liczbę dzieci objętych wczesnym wspomaganiem rozwoju, uczniów i uczestników zajęć rewalidacyjno-wychowawczych, przyjętą do naliczenia kwoty potrzeb oświatowych ustalonej na podstawie art. 26 ustawy o dochodach jednostek samorządu terytorialnego dla jednostki samorządu terytorialnego w roku bazowym w prowadzonych przez jednostkę samorządu terytorialnego szkołach danego typu, w których jest realizowany obowiązek szkolny lub obowiązek nauki, niebędących szkołami specjalnymi, ” , w ust. 2 objaśnienia symboli St-1i LuSt-1 otrzymują brzmienie: „ St-1 – przewidzianą kwotę potrzeb oświatowych dla jednostki samorządu terytorialnego w roku bazowym na prowadzenie przez tę jednostkę szkół danego typu będących szkołami specjalnymi, bez uwzględnienia przewidzianej kwoty potrzeb oświatowych dla jednostki samorządu terytorialnego na wychowanków internatów w prowadzonych przez tę jednostkę szkołach danego typu będących szkołami specjalnymi, LuSt-1 – liczbę dzieci objętych wczesnym wspomaganiem rozwoju, uczniów i uczestników zajęć rewalidacyjno-wychowawczych, przyjętą do naliczenia kwoty potrzeb oświatowych ustalonej na podstawie art. 26 ustawy o dochodach jednostek samorządu terytorialnego dla jednostki samorządu terytorialnego w roku bazowym w prowadzonych przez jednostkę samorządu terytorialnego szkołach danego typu, będących szkołami specjalnymi, ” , ust. 3 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+3. Do przewidzianej kwoty potrzeb oświatowych dla jednostki samorządu terytorialnego, o której mowa w ust. 1 i 2, wlicza się środki, o których mowa w art. 34 ust. 3 pkt 1 ustawy o dochodach jednostek samorządu terytorialnego, w części stanowiącej wydatki bieżące związane z realizacją zadań, o których mowa w art. 11 ust. 2 i 3 ustawy – Prawo oświatowe. ” ;
+
+- **9)** w art. 15 wyrazy „kwocie przewidzianej na takie dziecko objęte wczesnym wspomaganiem rozwoju w części oświatowej subwencji ogólnej” zastępuje się wyrazami „przewidzianej kwocie potrzeb oświatowych na takie dziecko objęte wczesnym wspomaganiem rozwoju”;
+- **10)** użyte w art. 16 w ust. 1–3 oraz w art. 17 w ust. 1 we wprowadzeniu do wyliczenia i w ust. 2–5, w różnym przypadku, wyrazy „kwota przewidziana na takiego ucznia niepełnosprawnego przedszkola w części oświatowej subwencji ogólnej” zastępuje się użytymi w odpowiednim przypadku wyrazami „przewidziana kwota potrzeb oświatowych na takiego ucznia niepełnosprawnego przedszkola”;
+- **11)** użyte w art. 18 w ust. 1–3 oraz w art. 19 w ust. 1 we wprowadzeniu do wyliczenia i w ust. 2–5, w różnym przypadku, wyrazy „kwota przewidziana na takiego ucznia niepełnosprawnego oddziału przedszkolnego w szkole podstawowej w części oświatowej subwencji ogólnej” zastępuje się użytymi w odpowiednim przypadku wyrazami „przewidziana kwota potrzeb oświatowych na takiego ucznia niepełnosprawnego oddziału przedszkolnego w szkole podstawowej”;
+- **12)** użyte w art. 20 w ust. 1 i 2 oraz w art. 21 w ust. 1 we wprowadzeniu do wyliczenia i w ust. 2–4 wyrazy „kwota przewidziana na takiego ucznia niepełnosprawnego innej formy wychowania przedszkolnego w części oświatowej subwencji ogólnej” zastępuje się wyrazami „przewidziana kwota potrzeb oświatowych na takiego ucznia niepełnosprawnego innej formy wychowania przedszkolnego”;
+- **13)** użyte w art. 25 w ust. 1–4 oraz w art. 26 w ust. 1 i 2, w różnym przypadku, wyrazy „kwota przewidziana na takiego ucznia w części oświatowej subwencji ogólnej” zastępuje się użytymi w odpowiednim przypadku wyrazami „przewidziana kwota potrzeb oświatowych na takiego ucznia”;
+- **14)** użyte w art. 25 w ust. 5 w części wspólnej i w art. 26 w ust. 5 w części wspólnej wyrazy „kwocie przewidzianej na takiego ucznia, niebędącego uczniem niepełnosprawnym, w części oświatowej subwencji ogólnej” zastępuje się wyrazami „przewidzianej kwocie potrzeb oświatowych na takiego ucznia, niebędącego uczniem niepełnosprawnym,”;
+- **15)** użyte w art. 25 w ust. 8 i 9 oraz w art. 26 w ust. 8, w różnym przypadku, wyrazy „kwota przewidziana na takiego wychowanka internatu w części oświatowej subwencji ogólnej” zastępuje się użytymi w odpowiednim przypadku wyrazami „przewidziana kwota potrzeb oświatowych, na takiego wychowanka internatu,”;
+- **16)** użyte w art. 28 w ust. 1–3 i w art. 29 w ust. 1 i 2, w różnym przypadku, wyrazy „kwota przewidziana na takiego wychowanka w części oświatowej subwencji ogólnej” zastępuje się użytymi w odpowiednim przypadku wyrazami „przewidziana kwota potrzeb oświatowych na takiego wychowanka”;
+- **17)** w art. 30 wyrazy „kwocie przewidzianej na takiego uczestnika zajęć rewalidacyjno-wychowawczych w części oświatowej subwencji ogólnej” zastępuje się wyrazami „przewidzianej kwocie potrzeb oświatowych na takiego uczestnika zajęć rewalidacyjno-wychowawczych”;
+- **18)** w art. 35 w ust. 5 w pkt 4 objaśnienia symboli SSI, SSIN, SON, SONN i S otrzymują brzmienie: „ SSI – przewidzianą kwotę potrzeb oświatowych dla jednostki samorządu terytorialnego na uczniów oddziałów specjalnych i oddziałów integracyjnych w tej szkole, SSIN – przewidzianą kwotę potrzeb oświatowych dla jednostki samorządu terytorialnego na uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego oddziałów specjalnych i oddziałów integracyjnych tej szkoły, w zakresie wynikającym z posiadania przez tych uczniów orzeczeń o potrzebie kształcenia specjalnego, SON – przewidzianą kwotę potrzeb oświatowych dla jednostki samorządu terytorialnego na uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego oddziałów niebędących oddziałami specjalnymi albo oddziałami integracyjnymi i uczestników zajęć rewalidacyjno-wychowawczych w tej szkole, SONN – przewidzianą kwotę potrzeb oświatowych dla jednostki samorządu terytorialnego na uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego oddziałów niebędących oddziałami specjalnymi albo oddziałami integracyjnymi i uczestników zajęć rewalidacyjno-wychowawczych w tej szkole, w zakresie wynikającym z posiadania przez tych uczniów oraz uczestników zajęć rewalidacyjno-wychowawczych orzeczeń o potrzebie kształcenia specjalnego lub orzeczeń o potrzebie zajęć rewalidacyjno-wychowawczych, S – przewidzianą kwotę potrzeb oświatowych dla jednostki samorządu terytorialnego na uczniów i uczestników zajęć rewalidacyjno-wychowawczych w tej szkole. ” ;
+- **19)** w art. 39 w ust. 1 pkt 1 otrzymuje brzmienie: „
+- **1)** art. 16 ust. 1, art. 17 ust. 1, art. 18 ust. 1, art. 19 ust. 1, art. 21 ust. 1, art. 25 ust. 3 i 8 oraz art. 28 ust. 1 i 3, w odniesieniu do przewidzianej kwoty potrzeb oświatowych – w wysokości wyższej niż określona odpowiednio w art. 16 ust. 1, art. 17 ust. 1, art. 18 ust. 1, art. 19 ust. 1, art. 21 ust. 1, art. 25 ust. 3 i 8 oraz art. 28 ust. 1 i 3, w odniesieniu do przewidzianej kwoty potrzeb oświatowych; ” ;
+- **20)** w art. 50 w ust. 2 wyrazy „kwotę dotacji, o której mowa w art. 53 ust. 1, przewidzianej na ucznia na dany rok budżetowy” zastępuje się wyrazami „przewidzianą kwotę potrzeb oświatowych na ucznia określoną na dany rok budżetowy dla gminy prowadzącej placówkę wychowania przedszkolnego, do której uczęszcza ten uczeń”;
+- **21)** użyte w art. 51 w ust. 1–9 wyrazy „kwotę dotacji, o której mowa w art. 53 ust. 1, przewidzianej” zastępuje się wyrazami „przewidzianą kwotę potrzeb oświatowych dla gminy dotującej”;
+- **22)** uchyla się rozdział 6;
+- **23)** w art. 110 w ust. 1 uchyla się pkt 8–10.
 
 **Art. 74.** W ustawie z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg (Dz. U. z 2023 r. poz. 1983 oraz z 2024 r. poz. 1473) wprowadza się następujące zmiany:
 
+- **1)** w art. 14: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. Wysokość dofinansowania ustala się, biorąc pod uwagę indywidualny wskaźnik zamożności jednostki samorządu terytorialnego danej kategorii, o którym mowa w art. 24 ust. 1 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572), pomnożony przez przeliczeniową liczbę mieszkańców tej jednostki, o której mowa w art. 25 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego, i powiększony o przysługującą danej jednostce samorządu terytorialnego subwencję ogólną, podzielony przez przeliczeniową liczbę mieszkańców tej jednostki, w stosunku do sumy indywidualnych wskaźników zamożności jednostek danej kategorii jednostek samorządu terytorialnego pomnożonych przez przeliczeniowe liczby mieszkańców tych jednostek i powiększonej o sumę przysługującej im subwencji ogólnej, podzielonej przez przeliczeniową liczbę mieszkańców jednostek samorządu terytorialnego danej kategorii. ” , w ust. 3 pkt 1 i 2 otrzymują brzmienie: „
+
+- **b)**
+- **1)** subwencja ogólna ustalona na rok poprzedzający rok budżetowy;
+- **2)** przeliczeniowa liczba mieszkańców danej jednostki samorządu terytorialnego i kraju, według stanu na dzień 31 grudnia roku bazowego, ustalona przez ministra właściwego do spraw finansów publicznych na podstawie art. 25 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego. ” ;
+- **2)** w art. 16a: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. Wysokość dofinansowania zadania obwodnicowego ustala się, biorąc pod uwagę średni dochód gmin, powiatów i miast na prawach powiatu na mieszkańca podregionu, na terenie których jest planowana realizacja danego zadania obwodnicowego, w stosunku do średniego dochodu gmin, powiatów i miast na prawach powiatu na mieszkańca kraju. ” , ust. 4 i 5 otrzymują brzmienie: „
+
+- **b)**
+
+4. Średni dochód gmin, powiatów i miast na prawach powiatu na mieszkańca podregionu oblicza się, dzieląc dochody podatkowe podregionu przez liczbę jego mieszkańców.
+
+5. Kwotę dochodów podatkowych podregionu oblicza się jako sumę indywidualnych wskaźników zamożności jednostek samorządu terytorialnego, o których mowa w art. 24 ust. 1 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego, pomnożonych przez przeliczeniową liczbę mieszkańców danej jednostki samorządu terytorialnego, o której mowa w art. 25 tej ustawy. ” , ust. 7–9 otrzymują brzmienie: „
+
+- **c)**
+
+7. Średni dochód gmin, powiatów i miast na prawach powiatu na mieszkańca kraju oblicza się, dzieląc kwotę dochodów podatkowych wszystkich podregionów, o której mowa w ust. 5, przez liczbę mieszkańców kraju.
+
+8. Przy obliczaniu dochodów podatkowych i liczby mieszkańców bierze się pod uwagę dochody podatkowe i liczbę mieszkańców gmin, powiatów i miast na prawach powiatu, z wyłączeniem miast na prawach powiatu będących siedzibą wojewody lub sejmiku województwa.
+
+9. Podstawę wyliczenia średnich dochodów gmin, powiatów i miast na prawach powiatu, o których mowa w ust. 2, stanowi liczba mieszkańców zamieszkałych na obszarze danej jednostki samorządu terytorialnego, według stanu na dzień 31 grudnia roku bazowego, ustalona przez Prezesa Głównego Urzędu Statystycznego do dnia 31 maja następnego roku. ” .
+
 **Art. 75.** W ustawie z dnia 23 października 2018 r. o Funduszu Solidarnościowym (Dz. U. z 2024 r. poz. 296, 863 i 1089) w art. 10 wyrazy „art. 8 ust. 3 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2022 r. poz. 2267, z 2023 r. poz. 1586 i 2005 oraz z 2024 r. poz. 123)” zastępuje się wyrazami „art. 10 ust. 3 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572)”.
 
-**Art. 76.** W ustawie z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. z 2024 r. poz. 167, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 76.** W ustawie z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. z 2024 r. poz. 167, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 77.** W ustawie z dnia 16 czerwca 2023 r. o zmianie ustawy o publicznym transporcie zbiorowym oraz niektórych innych ustaw (Dz. U. poz. 1720) w art. 12 w pkt 6, w art. 11a w ust. 1 pkt 7 otrzymuje brzmienie: „7) w przypadku jednostki samorządu terytorialnego będącej organizatorem – indywidualny wskaźnik zamożności, o którym mowa w przepisach ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572), a w przypadku związku jednostek samorządu terytorialnego – średnią arytmetyczną indywidualnych wskaźników zamożności jednostek samorządu terytorialnego wchodzących w skład związku;”.
+- **1)** w art. 20 w pkt 6 wyrazy „art. 42 ust. 3 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2022 r. poz. 2267 oraz z 2023 r. poz. 1586 i 2005)” zastępuje się wyrazami „art. 45 ust. 2 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572)”;
+- **2)** w art. 50: w ust. 6 wyrazy „W latach 2023–2025” zastępuje się wyrazami „W latach 2023 i 2024”, po ust. 6 dodaje się ust. 6a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+6a. W roku 2025 w celu wsparcia jednostek samorządu terytorialnego w realizacji dodatkowych zadań oświatowych związanych z kształceniem, wychowaniem i opieką nad dziećmi i uczniami będącymi obywatelami Ukrainy, których pobyt na terytorium Rzeczypospolitej Polskiej jest uznawany za legalny na podstawie niniejszej ustawy albo którzy przebywają legalnie na terytorium Rzeczypospolitej Polskiej, w przypadku gdy przybyli na terytorium Rzeczypospolitej Polskiej z terytorium Ukrainy od dnia 24 lutego 2022 r. w związku z działaniami wojennymi prowadzonymi na terytorium tego państwa:
+
+- **1)** rezerwa na uzupełnienie dochodów jednostek samorządu terytorialnego, o której mowa w art. 34 ust. 1 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego, może ulec zwiększeniu o środki pochodzące z budżetu państwa;
+- **2)** jednostki samorządu terytorialnego mogą otrzymać środki z Funduszu; przepis art. 34 ust. 8 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego stosuje się odpowiednio. ” , po ust. 7 dodaje się ust. 7a w brzmieniu: „
+    - **c)**
+
+7a. Do podziału środków, o których mowa w ust. 6a, nie stosuje się wyłączenia zadań, o których mowa w art. 26 ust. 1 pkt 1 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego. ” , dodaje się ust. 9 w brzmieniu: „
+
+- **d)**
+
+9. Przy podziale środków, o których mowa w ust. 6a, nie uwzględnia się obywateli Ukrainy, o których mowa w ust. 6a, kształcących się w niepublicznych szkołach podstawowych dla dorosłych, niepublicznych liceach ogólnokształcących dla dorosłych, niepublicznych branżowych szkołach II stopnia lub niepublicznych szkołach policealnych. ” ;
+
+- **3)** użyte w art. 50a i art. 52a wyrazy „art. 50 ust. 6” zastępuje się wyrazami „art. 50 ust. 6 i 6a”;
+- **4)** art. 50ba otrzymuje brzmienie: „ W roku 2025 przy podziale łącznej kwoty potrzeb oświatowych między poszczególne jednostki samorządu terytorialnego, o którym mowa w art. 26 ust. 3 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego, nie uwzględnia się dzieci i uczniów będących obywatelami Ukrainy, których pobyt na terytorium Rzeczypospolitej Polskiej jest uznawany za legalny na podstawie niniejszej ustawy albo którzy przebywają legalnie na terytorium Rzeczypospolitej Polskiej, w przypadku gdy przybyli na terytorium Rzeczypospolitej Polskiej z terytorium Ukrainy od dnia 24 lutego 2022 r. w związku z działaniami wojennymi prowadzonymi na terytorium tego państwa, za okres od dnia 1 stycznia 2025 r. do dnia 30 września 2025 r. ” ;
+- **5)** w art. 50c: w ust. 10: – objaśnienia symboli WbUt-1, St-1 i LuSt-1 otrzymują brzmienie: „ WbUt-1 – poniesione w 2025 r. – w okresie, w którym jednostka samorządu terytorialnego otrzymała wsparcie, o którym mowa w art. 50 ust. 6a – z budżetu jednostki samorządu terytorialnego, inne niż wymienione w WbUEt-1, WbIt-1i WbPt-1wydatki bieżące na prowadzenie przeztę jednostkę szkół danego typu, w których jest realizowany obowiązek szkolny lub obowiązek nauki, niebędących szkołami specjalnymi, związane z kształceniem, wychowaniem i opieką nad dziećmi i uczniami, będącymi obywatelami Ukrainy, których pobyt na terytorium Rzeczypospolitej Polskiej jest uznawany za legalny na podstawie niniejszej ustawy albo którzy przebywają legalnie na terytorium Rzeczypospolitej Polskiej, w przypadku gdy przybyli na terytorium Rzeczypospolitej Polskiej z terytorium Ukrainy od dnia 24 lutego 2022 r. w związku z działaniami wojennymi prowadzonymi na terytorium tego państwa, St-1 – przewidzianą kwotę potrzeb oświatowych dla jednostki samorządu terytorialnego w 2025 r. na prowadzenie przez tę jednostkę szkół danego typu, w których jest realizowany obowiązek szkolny lub obowiązek nauki, niebędących szkołami specjalnymi, bez uwzględnienia przewidzianej kwoty potrzeb oświatowych dla jednostki samorządu terytorialnego na wychowanków internatów w prowadzonych przez tę jednostkę szkołach danego typu, w których jest realizowany obowiązek szkolny lub obowiązek nauki, niebędących szkołami specjalnymi, LuSt-1 – liczbę dzieci objętych wczesnym wspomaganiem rozwoju, uczniów i uczestników zajęć rewalidacyjno-wychowawczych, przyjętą do określenia kwoty potrzeb oświatowych dla jednostki samorządu terytorialnego w 2025 r. w prowadzonych przez jednostkę samorządu terytorialnego szkołach danego typu, w których jest realizowany obowiązek szkolny lub obowiązek nauki, niebędących szkołami specjalnymi, ” , – objaśnienie symbolu Lut-1 otrzymuje brzmienie: „ Lut-1 – liczbę dzieci objętych wczesnym wspomaganiem rozwoju, uczniów i uczestników zajęć rewalidacyjno-wychowawczych, ustaloną na podstawie danych systemu informacji oświatowej według stanu na dzień 30 września 2025 r., w prowadzonych przez jednostkę samorządu terytorialnego szkołach danego typu, w których jest realizowany obowiązek szkolny lub obowiązek nauki, niebędących szkołami specjalnymi, z wyłączeniem dzieci i uczniów będących obywatelami Ukrainy, których pobyt na terytorium Rzeczypospolitej Polskiej jest uznawany za legalny na podstawie niniejszej ustawy albo którzy przebywają legalnie na terytorium Rzeczypospolitej Polskiej, w przypadku gdy przybyli na terytorium Rzeczypospolitej Polskiej z terytorium Ukrainy od dnia 24 lutego 2022 r. w związku z działaniami wojennymi prowadzonymi na terytorium tego państwa, na których jednostka samorządu terytorialnego otrzymała w 2025 r. wsparcie, o którym mowa w art. 50 ust. 6a. ” , w ust. 11: – objaśnienia symboli WbUt-1, St-1 i LuSt-1 otrzymują brzmienie: „ WbUt-1 – poniesione w 2025 r. – w okresie, w którym jednostka samorządu terytorialnego otrzymała wsparcie, o którym mowa w art. 50 ust. 6a – z budżetu jednostki samorządu terytorialnego, inne niż wymienione w WbUEt-1, WbIt-1 i WbPt-1 wydatki bieżące na prowadzenie przez tę jednostkę szkół danego typu będących szkołami specjalnymi, związane z kształceniem, wychowaniem i opieką nad dziećmi i uczniami będącymi obywatelami Ukrainy, których pobyt na terytorium Rzeczypospolitej Polskiej jest uznawany za legalny na podstawie niniejszej ustawy albo którzy przebywają legalnie na terytorium Rzeczypospolitej Polskiej, w przypadku gdy przybyli na terytorium Rzeczypospolitej Polskiej z terytorium Ukrainy od dnia 24 lutego 2022 r. w związku z działaniami wojennymi prowadzonymi na terytorium tego państwa, St-1 – przewidzianą kwotę potrzeb oświatowych dla jednostki samorządu terytorialnego w 2025 r. na prowadzenie przez tę jednostkę szkół danego typu będących szkołami specjalnymi, bez uwzględnienia przewidzianej kwoty potrzeb oświatowych dla jednostki samorządu terytorialnego na wychowanków internatów w prowadzonych przez tę jednostkę szkołach danego typu będących szkołami specjalnymi, LuSt-1 – liczbę dzieci objętych wczesnym wspomaganiem rozwoju, uczniów i uczestników zajęć rewalidacyjno-wychowawczych, przyjętą do określenia kwoty potrzeb oświatowych dla jednostki samorządu terytorialnego w 2025 r. w prowadzonych przez jednostkę samorządu terytorialnego szkołach danego typu będących szkołami specjalnymi, ” , – objaśnienie symbolu Lut-1 otrzymuje brzmienie: „ Lut-1 – liczbę dzieci objętych wczesnym wspomaganiem rozwoju, uczniów i uczestników zajęć rewalidacyjno-wychowawczych, ustaloną na podstawie danych systemu informacji oświatowej według stanu na dzień 30 września 2025 r., w prowadzonych przez jednostkę samorządu terytorialnego szkołach danego typu będących szkołami specjalnymi, z wyłączeniem dzieci i uczniów, na których jednostka samorządu terytorialnego otrzymała w 2025 r. wsparcie, o którym mowa w art. 50 ust. 6a, będących obywatelami Ukrainy, których pobyt na terytorium Rzeczypospolitej Polskiej jest uznawany za legalny na podstawie niniejszej ustawy albo którzy przebywają legalnie na terytorium Rzeczypospolitej Polskiej, w przypadku gdy przybyli na terytorium Rzeczypospolitej Polskiej z terytorium Ukrainy od dnia 24 lutego 2022 r. w związku z działaniami wojennymi prowadzonymi na terytorium tego państwa. ” .
+    - **a)**
+    - **b)**
+
+**Art. 77.** W ustawie z dnia 16 czerwca 2023 r. o zmianie ustawy o publicznym transporcie zbiorowym oraz niektórych innych ustaw (Dz. U. poz. 1720) w art. 12 w pkt 6, w art. 11a w ust. 1 pkt 7 otrzymuje brzmienie: „
+
+- **7)** w przypadku jednostki samorządu terytorialnego będącej organizatorem – indywidualny wskaźnik zamożności, o którym mowa w przepisach ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572), a w przypadku związku jednostek samorządu terytorialnego – średnią arytmetyczną indywidualnych wskaźników zamożności jednostek samorządu terytorialnego wchodzących w skład związku; ” .
 
 **Art. 78.** W ustawie z dnia 30 sierpnia 2023 r. o zmianie ustawy – Prawo oświatowe oraz niektórych innych ustaw (Dz. U. poz. 2005) wprowadza się następujące zmiany:
 
-#### Rozdział 9a Przepisy epizodyczne
+- **1)** w art. 10 pkt 2 i 3 otrzymują brzmienie: „
+- **2)** po art. 29 dodaje się art. 29a w brzmieniu: „
 
-**Art. 78a.**
+1. Prowadzone przez osobę prawną niebędącą jednostką samorządu terytorialnego oraz osobę fizyczną branżowe centrum umiejętności otrzymuje z budżetu powiatu będącego dla tego centrum organem rejestrującym dotację w wysokości równej przewidzianej kwocie potrzeb oświatowych, związanej z dofinansowaniem funkcjonowania tego centrum, dla powiatu.
 
-1. W celu obliczenia na rok 2026 przeliczeniowej liczby mieszkańców jednostki samorządu terytorialnego przyjmuje się dla poszczególnych kategorii jednostek samorządu terytorialnego następujące obszary wydatkowe i wartości ich wag, determinanty wpływające na potrzeby wydatkowe w danym obszarze wydatkowym oraz wysokość współczynników regresji dla poszczególnych determinant:
+2. Branżowe centra umiejętności, niezależnie od dotacji, o której mowa w ust. 1, otrzymują na każdego ucznia objętego branżowym szkoleniem zawodowym dotację z budżetu powiatu będącego dla tych centrów organem rejestrującym w wysokości równej przewidzianej kwocie potrzeb oświatowych na takiego ucznia dla powiatu.
 
-2. W przypadku gdy na dzień 31 maja 2025 r. wartości determinant wpływających na potrzeby wydatkowe w danym obszarze wydatkowym były objęte tajemnicą statystyczną, do obliczenia przeliczeniowej liczby mieszkańców jednostek samorządu terytorialnego na rok 2026 przyjmuje się posiadane przez Główny Urząd Statystyczny i ostatnio dostępne wartości determinant, które nie były objęte tą tajemnicą w dniu 30 czerwca 2025 r.
+3. Wysokość dotacji, o której mowa w ust. 2, dla branżowych centrów umiejętności jest ustalana jako iloczyn przewidzianej kwoty potrzeb oświatowych na takiego ucznia objętego branżowym szkoleniem zawodowym dla powiatu oraz liczby dni trwania branżowego szkolenia zawodowego w tym centrum, z wyłączeniem dni, w których to szkolenie nie jest prowadzone, podzielony przez liczbę dni w roku budżetowym. Dotację ustala się w wysokości przewidzianej kwoty potrzeb oświatowych w roku budżetowym, w którym rozpoczyna się branżowe szkolenie zawodowe. ” ;
 
-**Art. 78b.** Do obliczenia dochodów jednostek samorządu terytorialnego na rok 2026 z tytułu udziału w podatku dochodowym od osób fizycznych, podatku dochodowym od osób prawnych i subwencji ogólnej przyjmuje się:
+- **3)** w art. 33: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Dotacje, o których mowa w art. 15–21, art. 25, art. 26, art. 28, art. 29, art. 30–31a i art. 32, są przekazywane pod warunkiem, że: ” , – pkt 2 otrzymuje brzmienie: „ 2) przedszkole, inna forma wychowania przedszkolnego, szkoła oraz placówka, o której mowa w art. 2 pkt 6–8 ustawy – Prawo oświatowe, przekażą dane do systemu informacji oświatowej według stanu na dzień 15 czerwca roku bazowego oraz na dzień 30 września roku bazowego – w przypadku dotacji, o których mowa w art. 15–21, art. 25, art. 26, art. 28, art. 29, art. 30–31a i art. 32; ” , w ust. 4 wyrazy „art. 28–31a i art. 32” zastępuje się wyrazami „art. 28, art. 29, art. 30–31a i art. 32”; ” ;
+    - **a)**
+    - **b)**
+
+- **2)** uchyla się art. 26;
+- **3)** po art. 33 dodaje się art. 33a w brzmieniu: „ Przepis art. 33 ust. 1 pkt 2 ustawy zmienianej w art. 10, w brzmieniu nadanym niniejszą ustawą, stosuje się po raz pierwszy do dotacji na 2026 r. ” ;
+- **4)** w art. 38 pkt 4 otrzymuje brzmienie: „
+- **4)** art. 4 pkt 1 i pkt 2 w zakresie art. 28 ust. 6 pkt 10, art. 10 pkt 1 i pkt 2 w zakresie art. 29a ust. 2 i 3, pkt 3–9, pkt 10 lit. a i pkt 11 oraz art. 33a, które wchodzą w życie z dniem 1 stycznia 2025 r.; ” .
 
 #### Rozdział 10 Przepisy przejściowe, dostosowujące oraz końcowe
 
@@ -769,6 +1121,10 @@ source: "isap-pdf"
 4. Przepisy ust. 1 i 2 stosuje się odpowiednio do ustalenia na rok 2025 dochodów związku metropolitalnego z tytułu udziału w podatku dochodowym od osób fizycznych.
 
 **Art. 80.** W celu obliczenia na rok 2025 kwoty potrzeb wyrównawczych jednostek samorządu terytorialnego, o których mowa w art. 23 pkt 1, przyjmuje się:
+
+- **1)** wartości determinant dla poszczególnych jednostek samorządu terytorialnego, dostępne na stronie internetowej Głównego Urzędu Statystycznego, według stanu na dzień 31 maja 2024 r.;
+- **2)** w zakresie podstawowych dochodów podatkowych określonych w art. 24 ust. 5 pkt 1 – dochody wykazane za rok 2023 w sprawozdaniach jednostek samorządu terytorialnego, których obowiązek sporządzania wynika z przepisów o finansach publicznych w zakresie sprawozdawczości budżetowej, z uwzględnieniem korekt złożonych do właściwych regionalnych izb obrachunkowych w terminie do dnia 31 maja 2024 r.;
+- **3)** dla poszczególnych kategorii jednostek samorządu terytorialnego następujące obszary wydatkowe i wartości ich wag, determinanty wpływające na potrzeby wydatkowe w danym obszarze wydatkowym oraz wysokość współczynników regresji dla poszczególnych determinant: Kategoria jednostki samorządu terytorialnego Obszar wydatkowy Wartość wagi obszaru wydatkowego (λf) Determinanty wpływające na potrzeby wydatkowe w danym obszarze wydatkowym Wysokość współczynników regresji dla poszczególnych determinant (β) gminy administracja publiczna 0,24 iloczyn liczby mieszkańców i relacji przeciętnego miesięcznego wynagrodzenia brutto w danym powiecie do średniej krajowej 1 oświata i wychowanie – szkoły 0,17 liczba oddziałów w szkołach podstawowych 1 oświata i wychowanie – wychowanie przedszkolne 0,19 liczba dzieci uczęszczających do przedszkola 1 polityka społeczna 0,12 liczba gospodarstw domowych korzystających ze środowiskowej pomocy społecznej 1 gospodarka komunalna i ochrona środowiska 0,07 ilość wody dostarczonej i ścieków bytowych odprowadzonych siecią kanalizacyjną [dam3] 1 transport i łączność 0,06 liczba mieszkańców w wieku 20–64 1 kultura i ochrona dziedzictwa narodowego 0,07 iloczyn liczby mieszkańców i relacji przeciętnego miesięcznego wynagrodzenia brutto w danym powiecie do średniej krajowej 1 pozostałe 0,08 liczba mieszkańców 1 miasta na prawach powiatu transport i łączność 0,18 liczba pracujących ogółem 1 administracja publiczna 0,15 iloczyn liczby mieszkańców i relacji przeciętnego miesięcznego wynagrodzenia brutto do średniej krajowej 1 oświata i wychowanie – szkoły 0,15 liczba oddziałów w szkołach podstawowych, ponadpodstawowych i policealnych 1 oświata i wychowanie – wychowanie przedszkolne 0,17 liczba dzieci uczęszczających do przedszkola 1 polityka społeczna 0,15 liczba osób korzystających ze środowiskowej pomocy społecznej (łącznie z filiami) 0,8065 liczba bezrobotnych zarejestrowanych 0,1935 gospodarka komunalna i ochrona środowiska 0,05 suma powierzchni parków spacerowo-wypoczynkowych, zieleńców i terenów zieleni osiedlowej oraz średniej powierzchni objętej utrzymaniem czystości i porządku przez gminy w okresie letnim i powierzchni objętej utrzymaniem czystości i porządku przez gminy w okresie zimowym – będąca w gestii miasta [w ha] 1 kultura i ochrona dziedzictwa narodowego 0,06 iloczyn liczby mieszkańców i relacji przeciętnego miesięcznego wynagrodzenia brutto do średniej krajowej 1 pozostałe 0,09 liczba mieszkańców 1 powiaty administracja publiczna 0,40 iloczyn liczby mieszkańców i relacji przeciętnego miesięcznego wynagrodzenia brutto do średniej krajowej 1 polityka społeczna 0,25 liczba mieszkańców zakładów stacjonarnych pomocy społecznej podległych samorządowi powiatu (łącznie z filiami) 0,3712 liczba bezrobotnych zarejestrowanych 0,6288 transport i łączność 0,12 długość dróg powiatowych o nawierzchni twardej [w km] 0,1632 liczba mieszkańców w wieku 20–64 0,8368 oświata i wychowanie -szkoły 0,16 liczba oddziałów w szkołach ponadpodstawowych i policealnych 1 pozostałe 0,07 liczba mieszkańców 1 województwa transport i łączność 0,36 suma długości dróg wojewódzkich o nawierzchni twardej i długości linii kolejowych eksploatowanych [w km] 1 administracja publiczna 0,24 iloczyn liczby mieszkańców i relacji przeciętnego miesięcznego wynagrodzenia brutto do średniej krajowej 1 ochrona zdrowia 0,05 liczba mieszkańców 1 polityka społeczna 0,08 suma liczby bezrobotnych zarejestrowanych i liczby osób w wieku poprodukcyjnym 1 kultura i ochrona dziedzictwa narodowego 0,16 iloczyn liczby mieszkańców i relacji przeciętnego miesięcznego wynagrodzenia brutto do średniej krajowej 1 pozostałe 0,11 liczba mieszkańców 1
 
 **Art. 81.**
 
@@ -801,6 +1157,12 @@ source: "isap-pdf"
 
 **Art. 84.** W celu obliczenia na rok 2025 potrzeb ekologicznych jednostek samorządu terytorialnego, o których mowa w art. 23 pkt 4, przyjmuje się:
 
+- **1)** dane o powierzchni obszarów prawnie chronionych znajdujących się na terenie danej jednostki samorządu terytorialnego, według stanu na dzień 31 grudnia 2023 r., ustalone przez ministra właściwego do spraw środowiska;
+- **2)** stawkę bazową za 1 ha powierzchni obszaru prawnie chronionego, o której mowa w art. 29 ust. 2, wynoszącą: 310 zł – dla gmin i miast na prawach powiatu, 70 zł – dla powiatów, 35 zł – dla województw.
+    - **a)**
+    - **b)**
+    - **c)**
+
 **Art. 85.**
 
 1. W celu obliczenia na rok 2025 potrzeb uzupełniających dla jednostki samorządu terytorialnego, o których mowa w art. 23 pkt 5, przyjmuje się minimalną kwotę dochodów jednostki samorządu terytorialnego w roku 2025 w wysokości odpowiadającej:
@@ -828,7 +1190,7 @@ source: "isap-pdf"
 
 - **1)** udziału w podatku dochodowym od osób fizycznych,
 - **2)** udziału w podatku dochodowym od osób prawnych,
-- **3)** subwencji ogólnej – pomniejszone o kwotę odpowiadającą wysokości części inwestycyjnej potrzeb rozwojowych jednostki samorządu terytorialnego.
+- **3)** subwencji ogólnej pomniejszone o kwotę odpowiadającą wysokości części inwestycyjnej potrzeb rozwojowych jednostki samorządu terytorialnego.
 
 7. W przypadku gdy dochody jednostki samorządu terytorialnego, ustalone na rok 2025 zgodnie z niniejszą ustawą, o których mowa w ust. 5, obliczone bez pomniejszenia o kwotę odpowiadającą wysokości części inwestycyjnej potrzeb rozwojowych jednostki, są niższe niż 104 % dochodów jednostki na rok 2025, o których mowa w ust. 4, obliczonych, wraz z korektami, o których mowa w art. 9c ustawy uchylanej w art. 120, oraz pełną kwotą części rozwojowej subwencji ogólnej, kwota potrzeb uzupełniających tej jednostki, o których mowa w ust. 5, podlega zwiększeniu o wysokość różnicy między tymi dochodami.
 
@@ -900,12 +1262,12 @@ source: "isap-pdf"
 
 1. Do obliczenia dochodów i wpłat jednostki samorządu terytorialnego do budżetu państwa na rok 2025, zgodnie z ustawą uchylaną w art. 120, przyjmuje się:
 
-- **1)** kwoty rocznego dochodu jednostki samorządu terytorialnego z tytułu udziału we wpływach z podatku dochodowego od osób fizycznych oraz podatku dochodowego od osób prawnych, ustalone zgodnie z art. 9 i art. 9a ustawy uchylanej w art. 120, przy czym:
-    - **a)** prognozowana ogólna kwota wpływów z tytułu podatku dochodowego od osób fizycznych na rok 2025 wynosi 168 373 731 366,30 zł,
-    - **b)** prognozowana ogólna kwota wpływów z tytułu podatku dochodowego od osób prawnych na rok 2025 wynosi 104 382 000 000,00 zł,
-    - **c)** udział gmin we wpływach z podatku dochodowego od osób fizycznych od podatników tego podatku zamieszkałych na obszarze gminy wynosi 38,52 %,
-    - **d)** wskaźnik udziału należnego podatku dochodowego od osób fizycznych ustala się na podstawie danych zawartych w złożonych za lata 2020– 2022 zeznaniach podatkowych o wysokości osiągniętego dochodu oraz rocznym obliczeniu podatku dokonanym przez płatników, przyjętych do ustalenia kwoty rocznych dochodów jednostki samorządu terytorialnego z tytułu udziału we wpływach z podatku dochodowego od osób fizycznych na rok 2024,
-    - **e)** wskaźnik udziału należnego podatku dochodowego od osób prawnych ustala się na podstawie danych zawartych w złożonych za lata 2020– 2022 zeznaniach podatkowych o wysokości osiągniętego dochodu i należnego podatku dochodowego od osób prawnych, przy czym za lata 2020 i 2021 przyjmuje się dane wykorzystane do ustalania kwoty rocznych dochodów jednostki samorządu terytorialnego z tytułu udziału we wpływach z podatku dochodowego od osób prawnych na rok 2024, a za rok 2022, według stanu na dzień 10 czerwca 2024 r.;
+- **1)** kwoty rocznego dochodu jednostki samorządu terytorialnego z tytułu udziału we wpływach z podatku dochodowego od osób fizycznych oraz podatku dochodowego od osób prawnych, ustalone zgodnie z art. 9 i art. 9a ustawy uchylanej w art. 120, przy czym: prognozowana ogólna kwota wpływów z tytułu podatku dochodowego od osób fizycznych na rok 2025 wynosi 168 373 731 366,30 zł, prognozowana ogólna kwota wpływów z tytułu podatku dochodowego od osób prawnych na rok 2025 wynosi 104 382 000 000,00 zł, udział gmin we wpływach z podatku dochodowego od osób fizycznych od podatników tego podatku zamieszkałych na obszarze gminy wynosi 38,52 %, wskaźnik udziału należnego podatku dochodowego od osób fizycznych ustala się na podstawie danych zawartych w złożonych za lata 2020–2022 zeznaniach podatkowych o wysokości osiągniętego dochodu oraz rocznym obliczeniu podatku dokonanym przez płatników, przyjętych do ustalenia kwoty rocznych dochodów jednostki samorządu terytorialnego z tytułu udziału we wpływach z podatku dochodowego od osób fizycznych na rok 2024, wskaźnik udziału należnego podatku dochodowego od osób prawnych ustala się na podstawie danych zawartych w złożonych za lata 2020–2022 zeznaniach podatkowych o wysokości osiągniętego dochodu i należnego podatku dochodowego od osób prawnych, przy czym za lata 2020 i 2021 przyjmuje się dane wykorzystane do ustalania kwoty rocznych dochodów jednostki samorządu terytorialnego z tytułu udziału we wpływach z podatku dochodowego od osób prawnych na rok 2024, a za rok 2022, według stanu na dzień 10 czerwca 2024 r.;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 - **2)** w zakresie podstawowych dochodów podatkowych – dochody wykazane za rok 2023 w sprawozdaniach jednostek samorządu terytorialnego, których obowiązek sporządzania wynika z przepisów o finansach publicznych w zakresie sprawozdawczości budżetowej, z uwzględnieniem korekt złożonych do właściwych regionalnych izb obrachunkowych, w terminie do dnia 31 maja 2024 r.;
 - **3)** kwotę części oświatowej subwencji ogólnej wynikającą z ustawy uchylanej w art. 120 w wysokości 94 626 768 375 zł, podzieloną między jednostki samorządu terytorialnego według zasad i na podstawie danych przyjętych do podziału potrzeb oświatowych na rok 2025, z wyłączeniem zadań, o których mowa w art. 26 ust. 1 pkt 1–3 i ust. 2;
@@ -959,6 +1321,9 @@ source: "isap-pdf"
 
 **Art. 98.** Podstawę do wyliczenia dochodów, o których mowa w art. 14 ust. 2 ustawy zmienianej w art. 74, w brzmieniu dotychczasowym, branych pod uwagę do ustalenia dofinansowania jednostek samorządu terytorialnego z Rządowego Funduszu Rozwoju Dróg w roku 2025, stanowią:
 
+- **1)** wskaźniki dochodów podatkowych jednostki samorządu terytorialnego danego rodzaju, o których mowa w art. 20 ust. 4 i art. 22 ust. 4 ustawy uchylanej w art. 120, uwzględnione do wyliczenia części wyrównawczej subwencji ogólnej na rok 2024;
+- **2)** część wyrównawcza i część równoważąca subwencji ogólnej oraz wpłaty do budżetu państwa ustalone na rok bazowy.
+
 **Art. 99.**
 
 1. Przepisy art. 22j ust. 7, 10 i 11 ustawy zmienianej w art. 57, w brzmieniu nadanym niniejszą ustawą, stosuje się do dochodów (przychodów) uzyskanych od dnia 1 stycznia 2026 r.
@@ -981,6 +1346,10 @@ source: "isap-pdf"
 
 **Art. 103.** Do:
 
+- **1)** subwencji ogólnej, w tym zmniejszenia i zwrotu nienależnej kwoty poszczególnych części tej subwencji oraz uznania przez jednostkę samorządu terytorialnego zasadności zwrotu do budżetu państwa całej nienależnej kwoty części oświatowej subwencji ogólnej,
+- **2)** wpłat jednostek samorządu terytorialnego do budżetu państwa, o których mowa w art. 29, art. 30 i art. 70a ustawy uchylanej w art. 120, w tym zapłaty należnej kwoty z tytułu tych wpłat,
+- **3)** nienależnej kwoty części oświatowej subwencji ogólnej, której zwrot został rozłożony na raty za rok 2024 i lata poprzedzające stosuje się przepisy dotychczasowe.
+
 **Art. 104.**
 
 1. W zakresie zobowiązań powstałych w przypadku uznanego przez jednostkę samorządu terytorialnego zwrotu do budżetu państwa całej nienależnej kwoty części oświatowej subwencji ogólnej, o którym mowa w art. 37a ust. 2 pkt 1 ustawy uchylanej w art. 120, za rok 2024 i lata poprzedzające stosuje się również egzekucję administracyjną, jeżeli wynikają one z oświadczenia, o którym mowa w art. 37a ust. 2 pkt 1 ustawy uchylanej w art. 120.
@@ -999,7 +1368,7 @@ source: "isap-pdf"
 
 1. W roku 2024 do ustalania i przekazywania jednostkom samorządu terytorialnego dochodów stosuje się przepisy ustawy uchylanej w art. 120.
 
-2. W roku 2024 do podziału rezerw, o których mowa w art. 26 ust. 1, art. 28 ust. 2, art. 36 ust. 4 pkt 1 i art. 36b ustawy uchylanej w art. 120, oraz przekazywania jednostkom samorządu terytorialnego środków pochodzących z tych rezerw stosuje się przepisy ustawy uchylanej w art. 120, z tym, że podział rezerwy, o której mowa w art. 28 ust. 2 tej ustawy następuje nie później niż do dnia 16 grudnia.
+2. W roku 2024 do podziału rezerw, o których mowa w art. 26 ust. 1, art. 28 ust. 2, art. 36 ust. 4 pkt 1 i art. 36b ustawy uchylanej w art. 120, oraz przekazywania jednostkom samorządu terytorialnego środków pochodzących z tych rezerw stosuje się przepisy ustawy uchylanej w art. 120.
 
 3. W roku 2024 do ustalania i przekazywania związkowi metropolitalnemu dochodów stosuje się przepisy ustawy zmienianej w art. 72, w brzmieniu dotychczasowym.
 
@@ -1062,6 +1431,14 @@ source: "isap-pdf"
 
 **Art. 116.** Przepisy niniejszej ustawy w zakresie:
 
+- **1)** ustalania i przekazywania dochodów jednostek samorządu terytorialnego,
+- **2)** ustalania i przekazywania dochodów związku metropolitalnego,
+- **3)** opracowania projektu ustawy budżetowej i projektów uchwał budżetowych,
+- **4)** ustawy budżetowej i uchwał budżetowych,
+- **5)** opracowania projektów uchwał w sprawie wieloletniej prognozy finansowej,
+- **6)** uchwał w sprawie wieloletniej prognozy finansowej,
+- **7)** udzielania dotacji stosuje się po raz pierwszy na rok 2025.
+
 **Art. 117.** Uchwały podjęte przed dniem wejścia w życie niniejszej ustawy na podstawie art. 39 ust. 1 pkt 1 ustawy zmienianej w art. 73, w brzmieniu dotychczasowym, zachowują moc nie dłużej niż do dnia dokonania w 2025 r. aktualizacji, o której mowa w art. 43 ust. 2 pkt 1 ustawy zmienianej w art. 73.
 
 **Art. 118.** Przepisy wykonawcze wydane na podstawie art. 28 ust. 6, art. 42 ust. 8 i 12 oraz art. 42a ust. 3 ustawy uchylanej w art. 120 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 26 ust. 6 oraz art. 45 ust. 8 i 9, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
@@ -1071,4 +1448,8 @@ source: "isap-pdf"
 **Art. 120.** Traci moc ustawa z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2024 r. poz. 356).
 
 **Art. 121.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
+
+- **1)** art. 19, art. 20, art. 46, art. 56–58, art. 72 pkt 2, art. 73 pkt 1–7, 9–18, 20 i 21, art. 74, art. 76 pkt 2 i 3 oraz art. 77, które wchodzą w życie z dniem 1 stycznia 2025 r.;
+- **2)** art. 73 pkt 8, który wchodzi w życie z dniem 1 stycznia 2026 r.
+
 

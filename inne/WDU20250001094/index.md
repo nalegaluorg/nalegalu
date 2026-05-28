@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych zasadach odbudowy, remontów, przebudowy i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych wyniku działania żywiołu
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 6 sierpnia 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 sierpnia 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,15 +25,17 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-08-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001094) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1094/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 6 sierpnia 2025 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych zasadach odbudowy, remontów, przebudowy i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych wyniku działania żywiołu
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 11 sierpnia 2001 r. o szczególnych zasadach odbudowy, remontów i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych wyniku działania żywiołu (Dz. U. z 2024 r. poz. 1190), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 1 października 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1473 i 1717 oraz z 2025 r. poz. 680),
 2) ustawą z dnia 21 listopada 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1717),
 3) ustawą z dnia 9 maja 2025 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 680) oraz zmian wynikających z przepisów ogłoszonych przed dniem 6 sierpnia 2025 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) art. 57, art. 59, art. 59 –59 , art. 74 oraz załącznika do ustawy z dnia 1 października 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1473 i 1717 oraz z 2025 r. poz. 680), które stanowią: „Art. 57. Przepisy ustawy zmienianej art. 10 stosuje się również do odbudowy, o której mowa art. 6a oraz art. 7 ust. 1a ustawy zmienianej art. 10, rozpoczętej przed dniem wejścia życie niniejszej ustawy.” „Art. 59. Do odbudowy, rozumieniu art. 4 pkt 1 lit. a ustawy zmienianej art. 10, zakresie budowli przeciwpowodziowych, dróg publicznych, linii kolejowych, dworców kolejowych lub napowietrznych linii elektroenergetycznych o napięciu znamionowym nie mniejszym niż 110 kV, zniszczonych lub uszkodzonych wyniku powodzi lub osunięcia ziemi nie stosuje się przepisów działu V ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2024 r. poz. 1112).” „Art. 59 . 1. Wykaz działań polegających na odbudowie lub modernizacji rozumianych jako wykonanie urządzeń wodnych o parametrach innych niż przed powodzią, która miała miejsce we wrześniu 2024 r., ich dotychczasowym miejscu, a przypadku wałów przeciwpowodziowych również odległości większej niż dotychczasowa odległość od koryta rzeki, planowanych do realizacji na obszarze, na którym wprowadzono stan klęski żywiołowej związku z powodzią, która miała miejsce we wrześniu 2024 r., jest określony załączniku do ustawy.
-2. Do działań, o których mowa załączniku do ustawy, podejmowanych do dnia 31 grudnia 2026 r.:
 1) nie wymaga się uzyskania decyzji, o której mowa art. 71 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko;
-mowa art. 389 pkt 6–9 oraz art. 394 ust. 1 pkt 5–7, 10 i 12 ustawy z dnia 20 lipca 2017 r. Prawo wodne;
+2) nie stosuje się przepisów art. 96 ust. 1 i 2 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko;
+3) nie wymaga się uzyskania pozwolenia wodnoprawnego oraz dokonania zgłoszenia wodnoprawnego, o których mowa art. 389 pkt 6–9 oraz art. 394 ust. 1 pkt 5–7, 10 i 12 ustawy z dnia 20 lipca 2017 r. Prawo wodne;
 4) stosuje się art. 118 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2024 r. poz. 1478 i 1940), z tym że do działań, o których mowa pkt 1–31 załącznika, zamiast zgłoszenia, o którym mowa art. 118 ust. 1 tej ustawy, składa się wniosek o zgodę na prowadzenie tych działań.
 3. We wniosku o wydanie zgody na prowadzenie działań, o którym mowa ust. 2 pkt 4, określa się: miejsce prowadzenia działań, rodzaj, zakres, sposób i termin prowadzenia działań, propozycję warunków prowadzenia działań oraz uzasadnienie prowadzenia działań. Do wniosku o wydanie zgody na prowadzenie działań stosuje się przepisy art. 118 ust. 3a, 4 i 5 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody. Wydanie zgody na prowadzenie działań następuje drodze decyzji regionalnego dyrektora ochrony środowiska.
 4. W przypadku gdy prowadzenie działań objętych wnioskiem, o którym mowa ust. 2 pkt 4, narusza przepisy dotyczące form ochrony przyrody, o których mowa art. 6 ust. 1 pkt 2 i 5 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, regionalny dyrektor ochrony środowiska drodze decyzji odmawia wydania zgody na prowadzenie tych działań. Do decyzji stosuje się odpowiednio przepisy art. 118 ust. 8 i 9 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody.
@@ -56,11 +56,11 @@ mowa art. 389 pkt 6–9 oraz art. 394 ust. 1 pkt 5–7, 10 i 12 ustawy z dnia 20
 
 1. Wniosek o wydanie oceny wodnoprawnej składa się zgodnie z art. 427 ustawy z dnia 20 lipca 2017 r. Prawo wodne, dla inwestycji, o których mowa przepisach wydanych na podstawie 425 ust. 2 ustawy z dnia 20 lipca 2017 r. Prawo wodne.
 
-2. Ocenę wodnoprawną wydaje się terminie 45 dni od dnia złożenia kompletnego wniosku.
+2. Ocenę wodnoprawną wydaje się terminie 45 dni od dnia złożenia kompletnego wniosku. o ocenach oddziaływania na środowisko.
 
-3. Do wydania oceny wodnoprawnej nie stosuje się przepisów art. 96 ust. 1–3 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko.
+4. Do terminu określonego ust. 2 nie wlicza się terminów dla dokonania czynności, o których mowa art. 50 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
 
-4. Do terminu określonego ust. 2 nie wlicza się terminów dla dokonania czynności, o których mowa art. 50 DZIAŁANIA POLEGAJĄCE NA ODBUDOWIE LUB MODERNIZACJI URZĄDZEŃ WODNYCH PLANOWANYCH DO REALIZACJI NA OBSZARZE, NA KTÓRYM WPROWADZONO STAN KLĘSKI ŻYWIOŁOWEJ W ZWIĄZKU Z POWODZIĄ, KTÓRA MIAŁA MIEJSCE WE WRZEŚNIU 2024 R.
+**Art. 59⁴.** Wniosek, o którym mowa art. 59 ust. 1, oraz wniosek o zgodę, o której mowa art. 59 ust. 2 pkt 4, można składać równocześnie.” „Art. 74. Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia.” DZIAŁANIA POLEGAJĄCE NA ODBUDOWIE LUB MODERNIZACJI URZĄDZEŃ WODNYCH PLANOWANYCH DO REALIZACJI NA OBSZARZE, NA KTÓRYM WPROWADZONO STAN KLĘSKI ŻYWIOŁOWEJ W ZWIĄZKU Z POWODZIĄ, KTÓRA MIAŁA MIEJSCE WE WRZEŚNIU 2024 R.
 
 - **1)** Prace na prawostronnym wale przeciwpowodziowym km 123+500 126+000 rzeki Odry miejscowości Otmęt, gmina Krapkowice;
 - **2)** Prace na prawostronnym wale przeciwpowodziowym km 105+500 107+000 rzeki Odry miejscowości Bystry Wielmierzowice I;
@@ -82,9 +82,10 @@ mowa art. 389 pkt 6–9 oraz art. 394 ust. 1 pkt 5–7, 10 i 12 ustawy z dnia 20
 - **18)** Prace dotyczące odbudowy koryta rzeki Kaczawa oraz naprawa obiektów piętrzących km 53+973 69+364;
 - **19)** Prace dotyczące koryta rzeki Bóbr km 127+180 155+600;
 - **20)** Prace dotyczące wału na rzece Bóbr km 35+500 60+800;
-- **21)** Prace dotyczące udrożnienia rzeki Bóbr miejscowościach Szprotawa i Żagań wraz z odbudową jazu oraz infrastruktury towarzyszącej na kanale Młynówka (km od 56+150 82+500);
 - **22)** Prace dotyczące odtworzenia koryta cieku Lesk km 0+000 18+500;
-- **23)** Prace dotyczące odbudowy koryta rzeki Szprotawa gminach Szprotawa, Przemków i Chocianów km 15+900 21+100; oraz km 22+367+33+200 na terenie gmin Środa Śląska, Miękinia i Malczyce;
+- **23)** Prace dotyczące odbudowy koryta rzeki Szprotawa gminach Szprotawa, Przemków i Chocianów km 15+900 21+100;
+- **24)** Prace dotyczące odbudowy wałów przeciwpowodziowych wraz z odtworzeniem koryta rzeki Nysa Kłodzka miejscowościach Ptakowice, Kantorowice, Lewin Brzeski, Mikolin, Wronów i Skorogoszcz (w km 21+000 4+500);
+- **25)** Prace dotyczące wału przeciwpowodziowego wraz z infrastrukturą towarzyszącą rzeki Odra km 0+000 4+182 oraz km 22+367+33+200 na terenie gmin Środa Śląska, Miękinia i Malczyce;
 - **26)** Prace dotyczące wału przeciwpowodziowego wraz z infrastrukturą towarzyszącą rzeki Średzka Woda na terenie gmin Środa Śląska, Malczyce i Kostomłoty wał lewy km 0+000 2+520, wał prawy km 0+000 3+065;
 - **27)** Prace dotyczące wałów przeciwpowodziowych i infrastruktury towarzyszącej rzeki Odra gminach Oława i Jelcz-Laskowice wał W-2(OKS) km 4+500, wał W-1(OKS) 3+400, 6+600, 1+300, 2+000, 2+600, 2+850, 4+200, wał Wp-5(S) km 0+000 5+270, wał W-1(S) km 0+000 4+218, wał W-3(S) km 0+000 5+270;
 - **28)** Prace dotyczące wału rzeki Oława km 0+148 12+900 wraz z infrastrukturą towarzyszącą;
@@ -108,9 +109,11 @@ mowa art. 389 pkt 6–9 oraz art. 394 ust. 1 pkt 5–7, 10 i 12 ustawy z dnia 20
 - **46)** Prace na zbiorniku wodnym Topola na rzece Nysa Kłodzka km 93+814;
 - **47)** Prace dotyczące koryta rzeki Nysy Kłodzkiej wraz z odbudową wału km 94+800 95+300 miejscowości Topola;
 - **48)** Prace dotyczące koryta rzeki Bodzanowski km 2+900 5+600;
-- **49)** Prace dotyczące wałów przeciwpowodziowych oraz koryta rzeki Widna miejscowościach Wierzbno i Kałków;
 - **50)** Prace dotyczące zbiornika Kozielno na rzece Nysa Kłodzka km 90+527;
 - **51)** Prace na prawostronnym wale przeciwpowodziowym rzeki Odry (km wału 0+000 0+900) miejscowości Księża Łąka;
+- **52)** Prace na prawostronnym wale przeciwpowodziowym rzeki Odry (km wału 0+000 3+336) miejscowości Lubieszów;
+- **53)** Prace na lewostronnym wale przeciwpowodziowym rzeki Odry (km wału 3+500 7+800) miejscowościach Miejsce Odrzańskie, Podlesie i Przewóz;
+- **54)** Prace na lewobrzeżnej zaporze km 6+800 8+000 zbiornika Racibórz Dolny;
 - **55)** Prace na kanale doprowadzająco-odpływowym do budowli przelewowo spustowej zbiornika Racibórz Dolny;
 - **56)** Prace na prawostronnym wale rzeki Odry km 0+000 1+750, gmina Bierawa;
 - **57)** Prace na lewostronnym brzegu rzeki Odry km 77+400 77+500 oraz odbudowa filaru ochronnego miejscowości Roszowicki Las, gmina Cisek;
@@ -127,11 +130,17 @@ mowa art. 389 pkt 6–9 oraz art. 394 ust. 1 pkt 5–7, 10 i 12 ustawy z dnia 20
 - **1)** plan ten uchwala się celu umożliwienia odbudowy obiektów budowlanych, o których mowa art. 6 pkt 6 ustawy zmienianej art. 7, zniszczonych lub uszkodzonych wyniku tej powodzi;
 - **2)** plan ten określa granice zewnętrzne gruntów przeznaczonych do odbudowy obiektów budowlanych zniszczonych lub uszkodzonych wyniku tej powodzi;
 - **3)** dopuszcza się ograniczenie form konsultacji społecznych do zbierania uwag oraz prowadzenie konsultacji społecznych przez okres co najmniej 14 dni.” „Art. 46. Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 19 pkt 7 zakresie art. 43a, który wchodzi życie z dniem ogłoszenia, z mocą od dnia 9 września 2024 r.”;
-- **3)** art. 27, art. 35 i art. 38 ustawy z dnia 9 maja 2025 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 680), które stanowią: „Art. 27. 1. Do spraw dotyczących decyzji o warunkach zabudowy i zagospodarowania terenu, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia życie niniejszej ustawy, stosuje się przepis art. 13ia pkt 1 ustawy zmienianej art. 6, z tym że terminy, o których mowa tym przepisie, rozpoczynają bieg z dniem wejścia życie niniejszej ustawy, chyba że terminy określone przepisach dotychczasowych upływają wcześniej. W takim przypadku stosuje się przepisy dotychczasowe.
+- **3)** art. 27, art. 35 i art. 38 ustawy z dnia 9 maja 2025 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 680), które stanowią: „Art. 27. 1. Do spraw dotyczących decyzji o warunkach zabudowy i zagospodarowania terenu, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia życie niniejszej ustawy, stosuje się przepis art. 13ia pkt 1 ustawy zmienianej art. 6, z tym że terminy, o których mowa tym przepisie, rozpoczynają bieg z dniem wejścia
 
-2. Do spraw dotyczących decyzji o warunkach zabudowy i zagospodarowania terenu, o których mowa art. 13ia pkt 2 ustawy zmienianej art. 6, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe. odpowiednio art. 1 i art. 6 zachowują moc i mogą być na podstawie tego przepisu zmieniane.” „Art. 38. Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 1 pkt 6 oraz art. 23, które wchodzą życie po upływie 21 dni od dnia ogłoszenia.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 11 sierpnia 2001 r. o szczególnych zasadach odbudowy, remontów, przebudowy i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych wyniku działania żywiołu
+2. Do spraw dotyczących decyzji o warunkach zabudowy i zagospodarowania terenu, o których mowa art. 13ia pkt 2 ustawy zmienianej art. 6, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+
+3. Do spraw dotyczących odbudowy obiektu budowlanego, którego kubatura nie przekracza 2000 m , odbudowy części obiektu budowanego, której kubatura nie przekracza 2000 m , przebudowy budynków uszkodzonych wyniku działania żywiołu, wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe.” „Art. 35. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 1 ust. 2 i art. 2 ustawy zmienianej odpowiednio art. 1 i art. 6 zachowują moc i mogą być na podstawie tego przepisu zmieniane.” „Art. 38. Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 1 pkt 6 oraz art. 23, które wchodzą życie po upływie 21 dni od dnia ogłoszenia.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 11 sierpnia 2001 r. o szczególnych zasadach odbudowy, remontów, przebudowy i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych wyniku działania żywiołu
 
 **Art. 1.** Ustawa określa szczególne zasady:
+
+- **1)** odbudowy, remontów, przebudowy i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych wyniku powodzi, wiatru, osunięcia ziemi lub działania innego żywiołu,
+- **2)** zagospodarowania terenów oraz zasady i tryb nabywania nieruchomości celu realizacji miejscowych planów odbudowy, związku z osunięciem ziemi,
+- **3)** wydawania decyzji o warunkach zabudowy i zagospodarowania terenu, celu odbudowy obiektów budowlanych zniszczonych wyniku powodzi, wiatru, osunięcia ziemi lub działania innego żywiołu na obszarze i okresie określonych trybie, o którym mowa art. 2.
 
 **Art. 2.**
 
@@ -146,6 +155,13 @@ mowa art. 389 pkt 6–9 oraz art. 394 ust. 1 pkt 5–7, 10 i 12 ustawy z dnia 20
 - **5)** Do odbudowy dróg publicznych zniszczonych lub uszkodzonych wyniku działania żywiołu nie stosuje się przepisów techniczno-budowlanych, o których mowa art. 7 ustawy z dnia 7 lipca 1994 r. Prawo budowlane, które uniemożliwiłyby odtworzenie drogi publicznej o wymiarach drogi zniszczonej lub uszkodzonej dotychczasowym przebiegu.
 
 **Art. 4.** Ilekroć ustawie jest mowa o:
+
+- **1)** odbudowie należy przez to rozumieć odtworzenie obiektu budowlanego całości lub części:
+    - **a)** o wymiarach obiektu zniszczonego lub uszkodzonego dotychczasowym miejscu, przy czym dopuszcza się zmianę parametrów obiektu budowlanego dotyczących: powierzchni zabudowy zakresie nieprzekraczającym 5 %, wysokości, długości lub szerokości zakresie nieprzekraczającym 2 %,
+    - **b)** o wymiarach obiektu zniszczonego lub uszkodzonego albo o innych wymiarach na terenie tej samej gminy innym miejscu albo innej gminy określonej przepisach wydanych na podstawie art. 2, miejscu: wskazanym miejscowym planie odbudowy, miejscowym planie zagospodarowania przestrzennego albo decyzji o warunkach zabudowy i zagospodarowania terenu, albo ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. z 2025 r. poz. 311 i 1019) lub przypadku infrastruktury technicznej, o której mowa art. 2 ust. 1 pkt 6 tej ustawy uzgodnionym z właścicielem, użytkownikiem wieczystym lub zarządcą nieruchomości, na której lub nad którą ta infrastruktura jest umieszczona przy czym dopuszcza się stosowanie wyrobów budowlanych innych niż użyto stanie pierwotnym;
+
+- **2)** (uchylony)
+- **3)** instalacjach należy przez to rozumieć urządzenia, tym stanowiące albo niestanowiące całości techniczno-użytkowej antenowe konstrukcje wsporcze i instalacje radiokomunikacyjne, a także związane z tymi urządzeniami osprzęt i urządzenia zasilające, instalowane na obiektach budowlanych.
 
 **Art. 5.** Przepisy ustawy stosuje się odpowiednio do urządzeń budowlanych związanych z obiektem budowlanym, o których mowa art. 3 pkt 9 ustawy Prawo budowlane.
 
@@ -236,7 +252,7 @@ mowa art. 389 pkt 6–9 oraz art. 394 ust. 1 pkt 5–7, 10 i 12 ustawy z dnia 20
 
 5. Nie wymaga uzyskania pozwolenia na rozbiórkę oraz zgłoszenia właściwemu organowi administracji architektoniczno-budowlanej rozbiórka:
 
-- **1)** budynków mieszkalnych jednorodzinnych nieobjętych formami ochrony konserwatorskiej, o których mowa art. 7 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907), jest nie mniejsza niż połowa wysokości zniszczonych wyniku działania żywiołu.
+- **1)** budynków mieszkalnych jednorodzinnych nieobjętych formami ochrony konserwatorskiej, o których mowa art. 7 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907), 2003 r. o ochronie zabytków i opiece nad zabytkami, o wysokości poniżej 8 m, jeżeli ich odległość od granicy działki jest nie mniejsza niż połowa wysokości zniszczonych wyniku działania żywiołu.
 
 6. O przystąpieniu do rozbiórki, o której mowa ust. 5, inwestor informuje, terminie 7 dni od dnia rozpoczęcia robót, właściwy organ administracji architektoniczno-budowlanej.
 
@@ -274,7 +290,7 @@ mowa art. 389 pkt 6–9 oraz art. 394 ust. 1 pkt 5–7, 10 i 12 ustawy z dnia 20
 - **7)** administracji geodezyjnej i kartograficznej;
 - **8)** nadzoru górniczego, na terenach górniczych.
 
-2. Zespół, o którym mowa ust. 1, opiniuje projekty architektoniczno-budowlane i zgłoszenia, zakresie określonym odrębnych przepisach.
+2. Zespół, o którym mowa ust. 1, opiniuje projekty architektoniczno-budowlane i zgłoszenia, zakresie określonym odrębnych przepisach. organ administracji architektoniczno-budowlanej sprawdza:
 
 - **1)** zgodność projektu architektoniczno-budowlanego albo projektu zagospodarowania działki lub terenu oraz projektu architektoniczno-budowlanego z ustaleniami aktów prawa miejscowego;
 - **2)** kompletność projektu architektoniczno-budowlanego albo projektu zagospodarowania działki lub terenu oraz projektu architektoniczno-budowlanego;
@@ -355,7 +371,7 @@ mowa art. 389 pkt 6–9 oraz art. 394 ust. 1 pkt 5–7, 10 i 12 ustawy z dnia 20
 
 4. Część graficzną miejscowego planu odbudowy przedstawia się na kopii mapy zasadniczej lub, przypadku jej braku, na kopii mapy ewidencyjnej, przyjętej do państwowego zasobu geodezyjnego i kartograficznego, skali odpowiedniej dla zobrazowania struktury własnościowej terenu.
 
-5. Sporządzenie projektu miejscowego planu odbudowy powierza się osobie, o której mowa art. 5 ustawy z dnia
+5. Sporządzenie projektu miejscowego planu odbudowy powierza się osobie, o której mowa art. 5 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz. 1130, 1907 i 1940 oraz z 2025 r. poz. 527 i 680).
 
 - **1)** właściwego wojewódzkiego konserwatora zabytków zakresie zasad zagospodarowania obszarów i obiektów objętych ochroną konserwatorską, a także ujętych gminnej ewidencji zabytków;
 - **2)** dyrektora właściwego urzędu morskiego zakresie zagospodarowania pasa technicznego, pasa ochronnego oraz morskich portów i przystani;
@@ -378,7 +394,7 @@ mowa art. 389 pkt 6–9 oraz art. 394 ust. 1 pkt 5–7, 10 i 12 ustawy z dnia 20
 - **15)** właściwego zarządcy linii kolejowej rozumieniu art. 4 pkt 2 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym jeżeli sposób zagospodarowania przyległego pasa gruntu wzdłuż linii kolejowej lub zmiana tego sposobu mogą mieć wpływ na ruch kolejowy lub samą linię kolejową;
 - **16)** ministra właściwego do spraw rozwoju wsi zakresie ochrony gruntów rolnych klas I–III położonych na obszarach wiejskich.
 
-7. Wójt, burmistrz albo prezydent miasta występuje o opinię do ministra właściwego do spraw administracji publicznej odbudowy terminie 14 dni od dnia doręczenia im projektu, a organ, o którym mowa ust. 7 terminie 21 dni od dnia doręczenia załącznika, o którym mowa ust. 10. Nieprzedstawienie opinii terminie oznacza brak uwag i zastrzeżeń do projektu.
+7. Wójt, burmistrz albo prezydent miasta występuje o opinię do ministra właściwego do spraw administracji publicznej zakresie określenia kwoty partycypacji z rezerwy celowej budżetu państwa na przeciwdziałanie i usuwanie skutków klęsk żywiołowych wydatkach związanych z realizacją obiektów liniowych, należących do zadań własnych gminy, oraz wywłaszczeń gruntów objętych miejscowym planem odbudowy, określonych załączniku, o którym mowa ust. 10. odbudowy terminie 14 dni od dnia doręczenia im projektu, a organ, o którym mowa ust. 7 terminie 21 dni od dnia doręczenia załącznika, o którym mowa ust. 10. Nieprzedstawienie opinii terminie oznacza brak uwag i zastrzeżeń do projektu.
 
 9. Do gruntów rolnych, stanowiących użytki rolne, objętych miejscowym planem odbudowy nie stosuje się przepisów ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2024 r. poz. 82).
 
@@ -405,25 +421,9 @@ mowa art. 389 pkt 6–9 oraz art. 394 ust. 1 pkt 5–7, 10 i 12 ustawy z dnia 20
 3. Dane osobowe, o których mowa ust. 1, podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazaniu polegającym co najmniej na:
 
 - **1)** dopuszczeniu do przetwarzania danych osobowych wyłącznie osób posiadających pisemne upoważnienie wydane przez administratora danych;
-- **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich poufności. Art. 13db. Wystąpienie z żądaniem, o którym mowa art. 18 ust. 1 rozporządzenia 2016/679, nie wpływa na przebieg i wynik postępowań przedmiocie uchwalania miejscowych planów odbudowy. niesieniu do których istnieje konieczność wywłaszczenia na rzecz gminy celu realizacji miejscowego planu odbudowy.
+- **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich poufności. Art. 13db. Wystąpienie z żądaniem, o którym mowa art. 18 ust. 1 rozporządzenia 2016/679, nie wpływa na przebieg i wynik postępowań przedmiocie uchwalania miejscowych planów odbudowy.
 
-2. W terminie 14 dni od dnia otrzymania wykazu, o którym mowa ust. 1, starosta wykonujący zadanie z zakresu administracji rządowej wydaje decyzję o wywłaszczeniu nieruchomości. Decyzja o wywłaszczeniu nieruchomości stanowi podstawę do dokonania wpisów księdze wieczystej i katastrze nieruchomości.
-
-3. Decyzją o wywłaszczeniu nieruchomości, o której mowa ust. 2, zatwierdza się podział nieruchomości. Granice terenu objętego miejscowym planem odbudowy stanowią linie podziału nieruchomości.
-
-4. Z tytułu wywłaszczenia nieruchomości, właścicielowi, użytkownikowi wieczystemu lub osobie, której przysługuje ograniczone prawo rzeczowe do nieruchomości, przysługuje odszkodowanie, wysokości uzgodnionej między wójtem, burmistrzem albo prezydentem miasta a dotychczasowym właścicielem, użytkownikiem wieczystym lub osobą, której przysługuje inne prawo rzeczowe do nieruchomości. Rokowania podejmuje się niezwłocznie po wydaniu decyzji, o której mowa ust. 2. Z rokowań sporządza się protokół formie pisemnej pod rygorem nieważności.
-
-5. Jeżeli terminie 30 dni od dnia podjęcia rokowań nie dojdzie do uzgodnienia, o którym mowa ust. 4, wysokość odszkodowania ustala się według zasad i trybu obowiązujących przy wywłaszczaniu nieruchomości.
-
-6. Do zapłaty odszkodowania za wywłaszczone nieruchomości obowiązana jest gmina.
-
-7. Wywłaszczoną nieruchomość do czasu jej wykorzystania na cel, na który nastąpiło wywłaszczenie, oddaje się dotychczasowemu właścicielowi lub użytkownikowi wieczystemu, na jego wniosek, nieodpłatne użytkowanie.
-
-8. Jeżeli miejscowym planem odbudowy jest objęta część nieruchomości, a pozostała część nie nadaje się do prawidłowego wykorzystywania na dotychczasowe cele, na żądanie właściciela lub użytkownika wieczystego nieruchomości gmina nabywa tę część drodze umowy.
-
-9. Do wywłaszczenia, ustalenia i wypłaty odszkodowania zakresie nieuregulowanym przepisami ustawy stosuje się odpowiednio przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
-
-10. Najem, dzierżawa lub użyczenie oraz trwały zarząd nieruchomości wygasają z upływem miesiąca, licząc od dnia, którym decyzja o wywłaszczeniu stała się ostateczna. Art. 13fa. Do miejscowego planu odbudowy zakresie nieuregulowanym ustawie stosuje się odpowiednio przepisy rozdziałów 1a, 5 oraz 5a ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym dotyczące aktów planowania przestrzennego.
+**Art. 13e.** Wydzielanie gruntów celu realizacji miejscowego planu odbudowy stanowi cel publiczny rozumieniu ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami. miasta przekazuje właściwemu miejscowo staroście wykaz nieruchomości objętych miejscowym planem odbudowy, odniesieniu do których istnieje konieczność wywłaszczenia na rzecz gminy celu realizacji miejscowego planu odbudowy. 2. W terminie 14 dni od dnia otrzymania wykazu, o którym mowa ust. 1, starosta wykonujący zadanie z zakresu administracji rządowej wydaje decyzję o wywłaszczeniu nieruchomości. Decyzja o wywłaszczeniu nieruchomości stanowi podstawę do dokonania wpisów księdze wieczystej i katastrze nieruchomości. 3. Decyzją o wywłaszczeniu nieruchomości, o której mowa ust. 2, zatwierdza się podział nieruchomości. Granice terenu objętego miejscowym planem odbudowy stanowią linie podziału nieruchomości. 4. Z tytułu wywłaszczenia nieruchomości, właścicielowi, użytkownikowi wieczystemu lub osobie, której przysługuje ograniczone prawo rzeczowe do nieruchomości, przysługuje odszkodowanie, wysokości uzgodnionej między wójtem, burmistrzem albo prezydentem miasta a dotychczasowym właścicielem, użytkownikiem wieczystym lub osobą, której przysługuje inne prawo rzeczowe do nieruchomości. Rokowania podejmuje się niezwłocznie po wydaniu decyzji, o której mowa ust. 2. Z rokowań sporządza się protokół formie pisemnej pod rygorem nieważności. 5. Jeżeli terminie 30 dni od dnia podjęcia rokowań nie dojdzie do uzgodnienia, o którym mowa ust. 4, wysokość odszkodowania ustala się według zasad i trybu obowiązujących przy wywłaszczaniu nieruchomości. 6. Do zapłaty odszkodowania za wywłaszczone nieruchomości obowiązana jest gmina. 7. Wywłaszczoną nieruchomość do czasu jej wykorzystania na cel, na który nastąpiło wywłaszczenie, oddaje się dotychczasowemu właścicielowi lub użytkownikowi wieczystemu, na jego wniosek, nieodpłatne użytkowanie. 8. Jeżeli miejscowym planem odbudowy jest objęta część nieruchomości, a pozostała część nie nadaje się do prawidłowego wykorzystywania na dotychczasowe cele, na żądanie właściciela lub użytkownika wieczystego nieruchomości gmina nabywa tę część drodze umowy. 9. Do wywłaszczenia, ustalenia i wypłaty odszkodowania zakresie nieuregulowanym przepisami ustawy stosuje się odpowiednio przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami. 10. Najem, dzierżawa lub użyczenie oraz trwały zarząd nieruchomości wygasają z upływem miesiąca, licząc od dnia, którym decyzja o wywłaszczeniu stała się ostateczna. Art. 13fa. Do miejscowego planu odbudowy zakresie nieuregulowanym ustawie stosuje się odpowiednio przepisy rozdziałów 1a, 5 oraz 5a ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym dotyczące aktów planowania przestrzennego.
 
 **Art. 13g.**
 
@@ -442,6 +442,8 @@ mowa art. 389 pkt 6–9 oraz art. 394 ust. 1 pkt 5–7, 10 i 12 ustawy z dnia 20
 1. Nieruchomości stanowiące własność gminy mogą być przedmiotem zamiany na nieruchomości objęte aktami prawa miejscowego, o których mowa art. 13a lub 13c, stanowiące własność osób fizycznych lub osób prawnych. Wniosek o zamianę składa się do właściwego wójta, burmistrza albo prezydenta miasta.
 
 2. W przypadku nierównej wartości zamienianych nieruchomości stosuje się dopłatę, której wysokość jest równa różnicy wartości zamienianych nieruchomości.
+
+3. W przypadku wpływu wniosków dotyczących tej samej nieruchomości o pierwszeństwie wniosku decyduje rejestracja jego złożenia. o której mowa ust. 2.
 
 5. W przypadku, gdy gmina przeznaczy nieruchomości do zamiany wójt, burmistrz albo prezydent miasta sporządza wykaz tych nieruchomości.
 

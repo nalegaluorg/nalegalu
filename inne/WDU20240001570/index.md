@@ -8,10 +8,10 @@ pos: 1570
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 23 października OBWIESZCZENIE MINISTRA OBRONY NARODOWEJ 11 października sprawie ogłoszenia jednolitego tekstu rozporządzenia sprawie wykazu uczelni, centrów szkolenia ośrodków szkolenia, których jest realizowane ochotnicze szkolenie wojskowe studentów absolwentów studiów
+# Obwieszczenie Ministra Obrony Narodowejz dnia 11 października 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Obrony Narodowej w sprawie wykazu uczelni, centrów szkolenia i ośrodków szkolenia, w których jest realizowane ochotnicze szkolenie wojskowe studentów i absolwentów studiów
 
 | Pole | Wartość |
 |---|---|
@@ -25,75 +25,159 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-10-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001570) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1570/text.pdf) |
 
-1. Na podstawie art. 16 ust. 3 ustawy 20 lipca 2000 o ogłaszaniu aktów normatywnych niektórych innych aktów prawnych 2019 1461) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst rozporządzenia 22 kwietnia 2022 sprawie wykazu uczelni, centrów szkolenia ośrodków szkolenia, których jest realizowane ochotnicze szkolenie wojskowe studentów absolwentów studiów 878), uwzględnieniem zmiany wprowadzonej rozporządzeniem 27 czerwca zmieniającym rozporządzenie sprawie wykazu uczelni, centrów szkolenia ośrodków szkolenia, których jest realizowane ochotnicze szkolenie wojskowe studentów absolwentów studiów 1271).
-2. Podany załączniku niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia 27 czerwca zmieniającego rozporządzenie sprawie wykazu uczelni, centrów szkolenia ośrodków szkolenia, których jest realizowane ochotnicze szkolenie wojskowe studentów absolwentów studiów 1271), który stanowi: „§ 2. Rozporządzenie wchodzi życie po upływie 14 dni od ogłoszenia.”.
-Minister Narodowej: up. P. Bejda ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ 22 kwietnia 2022 sprawie wykazu uczelni, centrów szkolenia ośrodków szkolenia, których jest realizowane ochotnicze szkolenie wojskowe studentów absolwentów studiów Na podstawie art. 110 ustawy 11 marca 2022 o obronie Ojczyzny 248, 834, 1089, 1222
-1248) zarządza się, co następuje: § 1. Rozporządzenie określa wykaz uczelni, tym uczelni wojskowych, centrów szkolenia ośrodków szkolenia, których jest realizowane ochotnicze szkolenie wojskowe studentów absolwentów studiów, tym ramach programu Legii Akademickiej, który jest określony załączniku rozporządzenia.
-§ 2. Rozporządzenie wchodzi życie dniem 23 kwietnia 2022 WYKAZ UCZELNI, CENTRÓW SZKOLENIA I OŚRODKÓW SZKOLENIA, W KTÓRYCH JEST REALIZOWANE OCHOTNICZE SZKOLENIE WOJSKOWE STUDENTÓW I ABSOLWENTÓW STUDIÓW
-1. Uczelnie wojskowe:
-1) Akademia Marynarki Wojennej Bohaterów Westerplatte;
-2) Akademia Sztuki Wojennej;
-3) Akademia Wojsk Lądowych imienia generała Tadeusza Kościuszki;
+Treść obwieszczenia
+Załącznik – Rozporządzenie Ministra Obrony Narodowej z dnia 22 kwietnia 2022 r. w sprawie wykazu uczelni, centrów szkolenia i ośrodków szkolenia, w których jest realizowane ochotnicze szkolenie wojskowe studentów i absolwentów studiów
+Załącznik – Wykaz uczelni, centrów szkolenia i ośrodków szkolenia, w których jest realizowane ochotnicze szkolenie wojskowe studentów i absolwentów studiów
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Obrony Narodowej z dnia 22 kwietnia 2022 r. w sprawie wykazu uczelni, centrów szkolenia i ośrodków szkolenia, w których jest realizowane ochotnicze szkolenie wojskowe studentów i absolwentów studiów (Dz. U. poz. 878), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Obrony Narodowej z dnia 27 czerwca 2023 r. zmieniającym rozporządzenie w sprawie wykazu uczelni, centrów szkolenia i ośrodków szkolenia, w których jest realizowane ochotnicze szkolenie wojskowe studentów i absolwentów studiów (Dz. U. poz. 1271).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 27 czerwca 2023 r. zmieniającego rozporządzenie w sprawie wykazu uczelni, centrów szkolenia i ośrodków szkolenia, w których jest realizowane ochotnicze szkolenie wojskowe studentów i absolwentów studiów (Dz. U. poz. 1271), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+” .
+Załącznik – Rozporządzenie Ministra Obrony Narodowej z dnia 22 kwietnia 2022 r. w sprawie wykazu uczelni, centrów szkolenia i ośrodków szkolenia, w których jest realizowane ochotnicze szkolenie wojskowe studentów i absolwentów studiów
+Na podstawie art. 110 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, 834, 1089, 1222 i 1248) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa wykaz uczelni, w tym uczelni wojskowych, centrów szkolenia i ośrodków szkolenia, w których jest realizowane ochotnicze szkolenie wojskowe studentów i absolwentów studiów, w tym w ramach programu Legii Akademickiej, który jest określony w załączniku do rozporządzenia.
+§ 2.
+Rozporządzenie wchodzi w życie z dniem 23 kwietnia 2022 r.
+Załącznik – Wykaz uczelni, centrów szkolenia i ośrodków szkolenia, w których jest realizowane ochotnicze szkolenie wojskowe studentów i absolwentów studiów
+1.
+Uczelnie wojskowe:
+1)
+Akademia Marynarki Wojennej im. Bohaterów Westerplatte;
+2)
+Akademia Sztuki Wojennej;
+3)
+Akademia Wojsk Lądowych imienia generała Tadeusza Kościuszki;
+4)
 Lotnicza Akademia Wojskowa;
-5) Wojskowa Akademia Techniczna Jarosława Dąbrowskiego.
-2. Uczelnie inne niż uczelnie wojskowe:
-1) Akademia Górniczo-Hutnicza Stanisława Staszica Krakowie;
-2) Akademia Medycznych Społecznych Nauk Stosowanych;
-3) Akademia Nauk Stosowanych Jana Amosa Komeńskiego Lesznie;
+5)
+Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego.
+2.
+Uczelnie inne niż uczelnie wojskowe:
+1)
+Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie;
+2)
+Akademia Medycznych i Społecznych Nauk Stosowanych;
+3)
+Akademia Nauk Stosowanych im. Jana Amosa Komeńskiego w Lesznie;
+4)
 Akademia Nauk Stosowanych Mazovia;
-5) Akademia Nauk Stosowanych Stefana Batorego;
-6) Akademia Nauk Stosowanych Towarzystwa Wiedzy Powszechnej Szczecinie;
-7) Akademia Nauk Stosowanych Wałczu;
-8) Uniwersytet Pomorski Słupsku;
-9) Akademia WSB;
-10) Akademia Wychowania Fizycznego Sportu Jędrzeja Śniadeckiego Gdańsku;
-11) Akademia Wychowania Fizycznego Eugeniusza Piaseckiego Poznaniu;
-12) Akademia Wychowania Fizycznego Jerzego Kukuczki Katowicach;
-13) Akademia Wychowania Fizycznego Polskich Olimpijczyków we Wrocławiu;
-14) Akademia Wychowania Fizycznego Józefa Piłsudskiego Warszawie;
-15) Collegium Humanum Szkoła Główna Menedżerska ;
-16) Collegium Witelona Uczelnia Państwowa;
-17) Krakowska Akademia Andrzeja Frycza Modrzewskiego siedzibą Krakowie ;
-18) Menedżerska Akademia Nauk Stosowanych Warszawie;
-19) Niepubliczna Wyższa Szkoła Medyczna we Wrocławiu siedzibą we Wrocławiu;
-20) Państwowa Akademia Nauk Stosowanych Krośnie;
-21) Państwowa Akademia Nauk Stosowanych Nysie;
-22) Państwowa Wyższa Szkoła Techniczno-Ekonomiczna ks. Bronisława Markiewicza Jarosławiu;
-23) Politechnika Koszalińska;
-24) Politechnika Rzeszowska imienia Ignacego Łukasiewicza;
-27) Uczelnia Państwowa Jana Grodka Sanoku;
-28) Uczelnia Techniczno-Handlowa Heleny Chodkowskiej;
-29) Uniwersytet Białymstoku;
-30) Uniwersytet Jana Kochanowskiego Kielcach;
-31) Uniwersytet Kardynała Stefana Wyszyńskiego Warszawie;
-32) Uniwersytet Mikołaja Kopernika Toruniu;
-33) Uniwersytet Opolski;
-34) Uniwersytet Pedagogiczny Komisji Edukacji Krakowie ;
-35) Uniwersytet Rolniczy Hugona Kołłątaja Krakowie;
-36) Uniwersytet Rzeszowski;
-37) Uniwersytet Szczeciński;
-38) Uniwersytet Warmińsko-Mazurski Olsztynie;
-39) Uniwersytet Warszawski;
-40) Uniwersytet Zielonogórski Zielonej Górze;
-41) Warszawska Uczelnia Medyczna Tadeusza Koźluka;
-42) WSHIU Akademia Nauk Stosowanych;
-43) Wyższa Szkoła Administracji Biznesu imienia Eugeniusza Kwiatkowskiego Gdyni;
-44) Uniwersytet WSB Merito Gdańsku;
-45) Uniwersytet WSB Merito Poznaniu;
-46) Wyższa Szkoła Gospodarki Zarządzania;
-47) Wyższa Szkoła Gospodarki siedzibą Bydgoszczy;
-48) Wyższa Szkoła Humanitas siedzibą Sosnowcu ;
-49) Wyższa Szkoła Zarządzania siedzibą Częstochowie.
-3. Centra szkolenia ośrodki szkolenia:
-1) Centrum Szkolenia Artylerii Uzbrojenia Toruniu;
-2) Centrum Szkolenia Inżynieryjno-Lotniczego Dęblinie;
-3) Centrum Szkolenia Logistyki Grudziądzu;
-Centrum Szkolenia Łączności Informatyki Zegrzu;
-5) Centrum Szkolenia Marynarki Wojennej Ustce;
-6) Centrum Szkolenia Sił Powietrznych Koszalinie;
-7) Centrum Szkolenia Wojsk Inżynieryjnych Chemicznych we Wrocławiu;
-8) Centrum Szkolenia Wojsk Lądowych Poznaniu;
-9) Centrum Szkolenia Wojsk Specjalnych;
-10) Centrum Szkolenia Żandarmerii Wojskowej Mińsku Mazowieckim;
-11) Wojskowe Centrum Kształcenia Medycznego Łodzi.
+5)
+Akademia Nauk Stosowanych Stefana Batorego;
+6)
+Akademia Nauk Stosowanych Towarzystwa Wiedzy Powszechnej w Szczecinie;
+7)
+Akademia Nauk Stosowanych w Wałczu;
+8)
+Uniwersytet Pomorski w Słupsku;
+9)
+Akademia WSB;
+10)
+Akademia Wychowania Fizycznego i Sportu im. Jędrzeja Śniadeckiego w Gdańsku;
+11)
+Akademia Wychowania Fizycznego im. Eugeniusza Piaseckiego w Poznaniu;
+12)
+Akademia Wychowania Fizycznego im. Jerzego Kukuczki w Katowicach;
+13)
+Akademia Wychowania Fizycznego im. Polskich Olimpijczyków we Wrocławiu;
+14)
+Akademia Wychowania Fizycznego Józefa Piłsudskiego w Warszawie;
+15)
+Collegium Humanum – Szkoła Główna Menedżerska ;
+16)
+Collegium Witelona Uczelnia Państwowa;
+17)
+Krakowska Akademia im. Andrzeja Frycza Modrzewskiego z siedzibą w Krakowie ;
+18)
+Menedżerska Akademia Nauk Stosowanych w Warszawie;
+19)
+Niepubliczna Wyższa Szkoła Medyczna we Wrocławiu z siedzibą we Wrocławiu;
+20)
+Państwowa Akademia Nauk Stosowanych w Krośnie;
+21)
+Państwowa Akademia Nauk Stosowanych w Nysie;
+22)
+Państwowa Wyższa Szkoła Techniczno-Ekonomiczna im. ks. Bronisława Markiewicza w Jarosławiu;
+23)
+Politechnika Koszalińska;
+24)
+Politechnika Rzeszowska imienia Ignacego Łukasiewicza;
+25)
+Politechnika Śląska;
+26)
+Politechnika Morska w Szczecinie;
+27)
+Uczelnia Państwowa im. Jana Grodka w Sanoku;
+28)
+Uczelnia Techniczno-Handlowa im. Heleny Chodkowskiej;
+29)
+Uniwersytet w Białymstoku;
+30)
+Uniwersytet Jana Kochanowskiego w Kielcach;
+31)
+Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie;
+32)
+Uniwersytet Mikołaja Kopernika w Toruniu;
+33)
+Uniwersytet Opolski;
+34)
+Uniwersytet Pedagogiczny im. Komisji Edukacji Narodowej w Krakowie ;
+35)
+Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie;
+36)
+Uniwersytet Rzeszowski;
+37)
+Uniwersytet Szczeciński;
+38)
+Uniwersytet Warmińsko-Mazurski w Olsztynie;
+39)
+Uniwersytet Warszawski;
+40)
+Uniwersytet Zielonogórski w Zielonej Górze;
+41)
+Warszawska Uczelnia Medyczna im. Tadeusza Koźluka;
+42)
+WSHIU Akademia Nauk Stosowanych;
+43)
+Wyższa Szkoła Administracji i Biznesu imienia Eugeniusza Kwiatkowskiego w Gdyni;
+44)
+Uniwersytet WSB Merito w Gdańsku;
+45)
+Uniwersytet WSB Merito w Poznaniu;
+46)
+Wyższa Szkoła Gospodarki i Zarządzania;
+47)
+Wyższa Szkoła Gospodarki z siedzibą w Bydgoszczy;
+48)
+Wyższa Szkoła Humanitas z siedzibą w Sosnowcu ;
+49)
+Wyższa Szkoła Zarządzania z siedzibą w Częstochowie.
+3.
+Centra szkolenia i ośrodki szkolenia:
+1)
+Centrum Szkolenia Artylerii i Uzbrojenia w Toruniu;
+2)
+Centrum Szkolenia Inżynieryjno-Lotniczego w Dęblinie;
+3)
+Centrum Szkolenia Logistyki w Grudziądzu;
+4)
+Centrum Szkolenia Łączności i Informatyki w Zegrzu;
+5)
+Centrum Szkolenia Marynarki Wojennej w Ustce;
+6)
+Centrum Szkolenia Sił Powietrznych w Koszalinie;
+7)
+Centrum Szkolenia Wojsk Inżynieryjnych i Chemicznych we Wrocławiu;
+8)
+Centrum Szkolenia Wojsk Lądowych w Poznaniu;
+9)
+Centrum Szkolenia Wojsk Specjalnych;
+10)
+Centrum Szkolenia Żandarmerii Wojskowej w Mińsku Mazowieckim;
+11)
+Wojskowe Centrum Kształcenia Medycznego w Łodzi.
 

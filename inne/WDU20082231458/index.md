@@ -8,12 +8,10 @@ pos: 1458
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o pracownikach samorządowych
-
-*USTAWA z dnia 21 listopada 2008 r.*
+# Ustawa z dnia 21 listopada 2008 r. o pracownikach samorządowych
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,9 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2008-11-21 |
 | Data wydania | 2008-12-18 |
+| Wejście w życie | 2009-01-01 |
 | Ostatnia zmiana | 2026-03-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082231458) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1458/text.pdf) |
-
-Art. 44–52. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -35,18 +32,23 @@ Art. 44–52. (pominięte)
 
 **Art. 2.** Przepisy ustawy stosuje się do pracowników samorządowych zatrudnionych w:
 
+- **1)** urzędach marszałkowskich oraz wojewódzkich samorządowych jednostkach organizacyjnych;
+- **2)** starostwach powiatowych oraz powiatowych jednostkach organizacyjnych;
+- **3)** urzędach gmin, jednostkach pomocniczych gmin oraz gminnych jednostkach i zakładach budżetowych;
+- **4)** biurach (ich odpowiednikach) związków jednostek samorządu terytorialnego oraz zakładów budżetowych utworzonych przez te związki;
+- **5)** biurach (ich odpowiednikach) jednostek administracyjnych jednostek samorządu terytorialnego.
+
 **Art. 3.** Przepisów ustawy nie stosuje się do pracowników zatrudnionych w jednostkach wymienionych w art. 2, których status prawny określają odrębne przepisy.
 
 **Art. 4.**
 
 1. Pracownicy samorządowi są zatrudniani na podstawie:
 
-- **1)** wyboru:
-    - **a)** w urzędzie marszałkowskim: marszałek województwa, wicemarszałek oraz pozostali członkowie zarządu województwa – jeżeli statut województwa tak stanowi,
-    - **b)** w starostwie powiatowym: starosta, wicestarosta oraz pozostali członkowie zarządu powiatu – jeżeli statut powiatu tak stanowi,
-    - **c)** w urzędzie gminy: wójt (burmistrz, prezydent miasta),
-    - **d)** w związkach jednostek samorządu terytorialnego: przewodniczący zarządu związku i pozostali członkowie zarządu – jeżeli statut związku tak stanowi,
-    - **e)** w urzędzie m.st. Warszawy: burmistrz dzielnicy m.st. Warszawy, zastępca burmistrza dzielnicy m.st. Warszawy i pozostali członkowie zarządu dzielnicy m.st. Warszawy;
+- **1)** wyboru: w urzędzie marszałkowskim: marszałek województwa, wicemarszałek oraz pozostali członkowie zarządu województwa – jeżeli statut województwa tak stanowi, w starostwie powiatowym: starosta, wicestarosta oraz pozostali członkowie zarządu powiatu – jeżeli statut powiatu tak stanowi, w urzędzie gminy: wójt (burmistrz, prezydent miasta), w związkach jednostek samorządu terytorialnego: przewodniczący zarządu związku i pozostali członkowie zarządu – jeżeli statut związku tak stanowi;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **2)** powołania – zastępca wójta (burmistrza, prezydenta miasta), skarbnik gminy, skarbnik powiatu, skarbnik województwa;
 - **3)** umowy o pracę – pozostali pracownicy samorządowi.
@@ -54,20 +56,12 @@ Art. 44–52. (pominięte)
 2. Pracownicy samorządowi są zatrudniani na stanowiskach:
 
 - **1)** urzędniczych, w tym kierowniczych stanowiskach urzędniczych;
-- **2)** (uchylony)
+- **2)** doradców i asystentów;
 - **3)** pomocniczych i obsługi.
-
-3. Osoby wyznaczone przez Prezesa Rady Ministrów do pełnienia funkcji albo przejęcia zadań i kompetencji organów jednostek samorządu terytorialnego oraz komisarze rządowi powołani w związku z ustanowieniem zarządu komisarycznego w jednostkach samorządu terytorialnego są zatrudniani w urzędzie jednostki samorządu terytorialnego na podstawie powołania na czas pełnienia funkcji albo wykonywania zadań i kompetencji.
-
-4. W odniesieniu do osób, o których mowa w ust. 3, przepisy o pracownikach samorządowych dotyczące wójta (burmistrza, prezydenta miasta), starosty albo marszałka województwa stosuje się odpowiednio, z tym że wynagrodzenie tych osób ustala Prezes Rady Ministrów.
 
 **Art. 5.**
 
 1. W urzędzie gminy, starostwie powiatowym i urzędzie marszałkowskim tworzy się odpowiednio stanowisko sekretarza gminy, powiatu i województwa, zwanego dalej „sekretarzem”.
-
-1a. Nabór kandydatów na wolne stanowisko sekretarza przeprowadza się nie później niż w ciągu 3 miesięcy od zwolnienia stanowiska.
-
-1b. Obsadzenie stanowiska sekretarza nie może nastąpić w drodze powierzenia pełnienia obowiązków. Przepisu art. 21 nie stosuje się.
 
 2. Na stanowisku sekretarza może być zatrudniona osoba posiadająca co najmniej czteroletni staż pracy na stanowisku urzędniczym w jednostkach, o których mowa w art. 2, w tym co najmniej dwuletni staż pracy na kierowniczym stanowisku urzędniczym w tych jednostkach lub osoba posiadająca co najmniej czteroletni staż pracy na stanowisku urzędniczym w jednostkach, o których mowa w art. 2, oraz co najmniej dwuletni staż pracy na kierowniczym stanowisku urzędniczym w innych jednostkach sektora finansów publicznych.
 
@@ -89,18 +83,21 @@ Art. 44–52. (pominięte)
 
 3. Pracownikiem samorządowym zatrudnionym na podstawie umowy o pracę na stanowisku urzędniczym może być osoba, która spełnia wymagania określone w ust. 1 oraz dodatkowo:
 
-- **1)** posiada co najmniej wykształcenie średnie lub średnie branżowe;
+- **1)** posiada co najmniej wykształcenie średnie;
 - **2)** nie była skazana prawomocnym wyrokiem sądu za umyślne przestępstwo ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe;
 - **3)** cieszy się nieposzlakowaną opinią.
 
 4. Pracownikiem samorządowym zatrudnionym na podstawie umowy o pracę na kierowniczym stanowisku urzędniczym może być osoba, która spełnia wymagania określone w ust. 1 i ust. 3 pkt 2 i 3 oraz dodatkowo:
 
 - **1)** posiada co najmniej trzyletni staż pracy lub wykonywała przez co najmniej 3 lata działalność gospodarczą o charakterze zgodnym z wymaganiami na danym stanowisku;
-- **2)** posiada wykształcenie wyższe w rozumieniu przepisów o szkolnictwie wyższym i nauce.
-
-**Art. 6a.** W przypadku skazania prawomocnym wyrokiem sądu za umyślne przestępstwo ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe zastępcy wójta (burmistrza, prezydenta miasta), starosty, wicestarosty, członka zarządu powiatu, marszałka województwa, wicemarszałka województwa, członka zarządu województwa, skarbnika gminy, skarbnika powiatu, skarbnika województwa, sekretarza gminy, sekretarza powiatu, sekretarza województwa, przewodniczącego zarządu związku jednostek samorządu terytorialnego, członka zarządu związku jednostek samorządu terytorialnego, burmistrza dzielnicy m.st. Warszawy, zastępcy burmistrza dzielnicy m.st. Warszawy, członka zarządu dzielnicy m.st. Warszawy lub pracownika samorządowego zatrudnionego na podstawie umowy o pracę na stanowisku urzędniczym właściwy organ jednostki samorządu terytorialnego lub związku jednostek samorządu terytorialnego albo podmiot wykonujący czynności z zakresu prawa pracy wobec pracownika samorządowego odwołuje go lub rozwiązuje z nim umowę o pracę za wypowiedzeniem najpóźniej po upływie miesiąca od dnia, w którym uzyskał informację o fakcie prawomocnego skazania.
+- **2)** posiada wykształcenie wyższe pierwszego lub drugiego stopnia w rozumieniu przepisów o szkolnictwie wyższym.
 
 **Art. 7.** Czynności w sprawach z zakresu prawa pracy za jednostki, o których mowa w art. 2, z zastrzeżeniem art. 8 ust. 2, art. 9 ust. 2 i 3 oraz art. 10 ust. 2 i 3, wykonują:
+
+- **1)** wójt (burmistrz, prezydent miasta) – wobec zastępcy wójta (burmistrza, prezydenta miasta), sekretarza gminy, skarbnika gminy oraz kierowników gminnych jednostek organizacyjnych;
+- **2)** przewodniczący zgromadzenia związku jednostek samorządu terytorialnego – wobec członków zarządu tego związku;
+- **3)** wójt (burmistrz, prezydent miasta), starosta, marszałek województwa w urzędzie jednostki samorządu terytorialnego – wobec pozostałych pracowników urzędu oraz wobec kierowników samorządowych jednostek organizacyjnych innych niż wymienione w pkt 1 i 2;
+- **4)** kierownik jednostki organizacyjnej – za inne niż wymienione w pkt 1–3 jednostki.
 
 **Art. 8.**
 
@@ -136,13 +133,13 @@ Art. 44–52. (pominięte)
 
 **Art. 12.**
 
-1. Wolnym stanowiskiem urzędniczym, w tym wolnym kierowniczym stanowiskiem urzędniczym, jest stanowisko, na które, zgodnie z przepisami ustawy albo w drodze porozumienia, nie został przeniesiony pracownik samorządowy zatrudniony na stanowisku urzędniczym, w tym kierowniczym stanowisku urzędniczym, posiadający kwalifikacje wymagane na danym stanowisku lub nie został przeprowadzony na to stanowisko nabór albo na którym mimo przeprowadzonego naboru nie został zatrudniony pracownik.
+1. Wolnym stanowiskiem urzędniczym, w tym wolnym kierowniczym stanowiskiem urzędniczym, jest stanowisko, na które, zgodnie z przepisami ustawy albo w drodze porozumienia, nie został przeniesiony pracownik samorządowy danej jednostki lub na które nie został przeniesiony inny pracownik samorządowy zatrudniony na stanowisku urzędniczym, w tym kierowniczym stanowisku urzędniczym, posiadający kwalifikacje wymagane na danym stanowisku lub nie został przeprowadzony na to stanowisko nabór albo na którym mimo przeprowadzonego naboru nie został zatrudniony pracownik.
 
 2. Nie wymaga przeprowadzenia naboru zatrudnienie osoby na zastępstwo w związku z usprawiedliwioną nieobecnością pracownika samorządowego.
 
 **Art. 13.**
 
-1. Ogłoszenie o wolnym stanowisku urzędniczym, w tym kierowniczym stanowisku urzędniczym, oraz o naborze kandydatów na to stanowisko umieszcza się w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902), zwanym dalej „Biuletynem”, oraz na tablicy informacyjnej w jednostce, w której jest prowadzony nabór.
+1. Ogłoszenie o wolnym stanowisku urzędniczym, w tym kierowniczym stanowisku urzędniczym, oraz o naborze kandydatów na to stanowisko umieszcza się w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. Nr 112, poz. 1198, z późn. zm.), zwanym dalej „Biuletynem”, oraz na tablicy informacyjnej w jednostce, w której jest prowadzony nabór.
 
 2. Ogłoszenie o naborze powinno zawierać:
 
@@ -150,27 +147,12 @@ Art. 44–52. (pominięte)
 - **2)** określenie stanowiska;
 - **3)** określenie wymagań związanych ze stanowiskiem, zgodnie z opisem danego stanowiska, ze wskazaniem, które z nich są niezbędne, a które dodatkowe;
 - **4)** wskazanie zakresu zadań wykonywanych na stanowisku;
-- **4a)** informację o warunkach pracy na danym stanowisku;
-- **4b)** informację, czy w miesiącu poprzedzającym datę upublicznienia ogłoszenia wskaźnik zatrudnienia osób niepełnosprawnych w jednostce, w rozumieniu przepisów o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, wynosi co najmniej 6 %;
 - **5)** wskazanie wymaganych dokumentów;
 - **6)** określenie terminu i miejsca składania dokumentów.
-
-2a. Wymagania, o których mowa w ust. 2 pkt 3, określa się w sposób następujący:
-
-- **1)** wymagania niezbędne to wymagania konieczne do podjęcia pracy na danym stanowisku;
-- **2)** wymagania dodatkowe to pozostałe wymagania, pozwalające na optymalne wykonywanie zadań na danym stanowisku.
-
-2b. Kandydat, który zamierza skorzystać z uprawnienia, o którym mowa w art. 13a ust. 2, jest obowiązany do złożenia wraz z dokumentami kopii dokumentu potwierdzającego niepełnosprawność.
 
 3. Termin do składania dokumentów określony w ogłoszeniu o naborze, nie może być krótszy niż 10 dni od dnia opublikowania tego ogłoszenia w Biuletynie.
 
 4. Informacje o kandydatach, którzy zgłosili się do naboru, stanowią informację publiczną w zakresie objętym wymaganiami związanymi ze stanowiskiem określonym w ogłoszeniu o naborze.
-
-**Art. 13a.**
-
-1. W toku naboru komisja wyłania nie więcej niż pięciu najlepszych kandydatów, spełniających wymagania niezbędne oraz w największym stopniu spełniających wymagania dodatkowe, których przedstawia kierownikowi jednostki celem zatrudnienia wybranego kandydata.
-
-2. Jeżeli w jednostce wskaźnik zatrudnienia osób niepełnosprawnych, w rozumieniu przepisów o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, w miesiącu poprzedzającym datę upublicznienia ogłoszenia o naborze, jest niższy niż 6 %, pierwszeństwo w zatrudnieniu na stanowiskach urzędniczych, z wyłączeniem kierowniczych stanowisk urzędniczych, przysługuje osobie niepełnosprawnej, o ile znajduje się w gronie osób, o których mowa w ust. 1.
 
 **Art. 14.**
 
@@ -178,7 +160,7 @@ Art. 44–52. (pominięte)
 
 2. Protokół zawiera:
 
-- **1)** określenie stanowiska, na które był przeprowadzany nabór, liczbę kandydatów oraz imiona, nazwiska i miejsca zamieszkania w rozumieniu przepisów Kodeksu cywilnego nie więcej niż pięciu najlepszych kandydatów wraz ze wskazaniem kandydatów niepełnosprawnych o ile do przeprowadzanego naboru stosuje się przepis art. 13a ust. 2, przedstawianych kierownikowi jednostki;
+- **1)** określenie stanowiska, na które był prowadzony nabór, liczbę kandydatów oraz imiona, nazwiska i miejsca zamieszkania w rozumieniu przepisów Kodeksu cywilnego nie więcej niż 5 najlepszych kandydatów uszeregowanych według poziomu spełniania przez nich wymagań określonych w ogłoszeniu o naborze;
 - **2)** liczbę nadesłanych ofert na stanowisko, w tym liczbę ofert spełniających wymagania formalne;
 - **3)** informację o zastosowanych metodach i technikach naboru;
 - **4)** uzasadnienie dokonanego wyboru;
@@ -195,17 +177,29 @@ Art. 44–52. (pominięte)
 - **3)** imię i nazwisko wybranego kandydata oraz jego miejsce zamieszkania w rozumieniu przepisów Kodeksu cywilnego;
 - **4)** uzasadnienie dokonanego wyboru albo uzasadnienie nierozstrzygnięcia naboru na stanowisko.
 
-3. Jeżeli w ciągu 3 miesięcy od dnia nawiązania stosunku pracy z osobą wyłonioną w drodze naboru istnieje konieczność ponownego obsadzenia tego samego stanowiska, możliwe jest zatrudnienie na tym samym stanowisku innej osoby spośród kandydatów, o których mowa w art. 13a ust. 1. Przepis art. 13a ust. 2 stosuje się odpowiednio.
+3. Jeżeli w okresie 3 miesięcy od dnia nawiązania stosunku pracy z osobą wyłonioną w drodze naboru zaistnieje konieczność ponownego obsadzenia tego samego stanowiska, możliwe jest zatrudnienie na tym samym stanowisku kolejnej osoby spośród najlepszych kandydatów wymienionych w protokole tego naboru. Przepisy ust. 1 i 2 stosuje się odpowiednio.
 
 **Art. 16.**
 
 1. Stosunek pracy pracownika samorządowego zatrudnionego na podstawie umowy o pracę nawiązuje się na czas nieokreślony lub na czas określony. Jeżeli zachodzi konieczność zastępstwa pracownika w czasie jego usprawiedliwionej nieobecności w pracy, pracodawca może w tym celu zatrudnić innego pracownika na podstawie umowy o pracę na czas określony, obejmujący czas tej nieobecności.
 
-2. W przypadku osób podejmujących po raz pierwszy pracę na stanowisku urzędniczym, w tym na kierowniczym stanowisku urzędniczym, w jednostkach, o których mowa w art. 2, umowę o pracę zawiera się na czas określony, nie dłuższy niż 6 miesięcy.
+2. W przypadku osób podejmujących po raz pierwszy pracę na stanowisku urzędniczym, w tym kierowniczym stanowisku urzędniczym, w jednostkach, o których mowa w art. 2, umowę o pracę zawiera się na czas określony, nie dłuższy niż 6 miesięcy, z możliwością wcześniejszego rozwiązania stosunku pracy za dwutygodniowym wypowiedzeniem.
 
 3. Przez osobę podejmującą po raz pierwszy pracę, o której mowa w ust. 2, rozumie się osobę, która nie była wcześniej zatrudniona w jednostkach, o których mowa w art. 2, na czas nieokreślony albo na czas określony, dłuższy niż 6 miesięcy, i nie odbyła służby przygotowawczej zakończonej zdaniem egzaminu z wynikiem pozytywnym.
 
-**Art. 17.** (uchylony)
+**Art. 17.**
+
+1. Wójt (burmistrz, prezydent miasta), starosta i marszałek województwa mogą zatrudniać osoby na stanowiskach doradców i asystentów odpowiednio w urzędzie gminy, starostwie powiatowym i urzędzie marszałkowskim.
+
+2. Zatrudnienie osób, o których mowa w ust. 1, następuje na czas pełnienia funkcji przez odpowiednio wójta (burmistrza, prezydenta miasta), starostę lub marszałka.
+
+3. Wcześniejsze rozwiązanie umowy o pracę może być dokonane za dwutygodniowym wypowiedzeniem.
+
+4. Liczba zatrudnionych doradców i asystentów nie może przekroczyć:
+
+- **1)** w gminach do 20 000 mieszkańców – 3 osoby;
+- **2)** w gminach do 100 000 mieszkańców oraz powiatach – 5 osób;
+- **3)** w pozostałych gminach oraz województwach – 7 osób.
 
 **Art. 18.**
 
@@ -233,11 +227,7 @@ Art. 44–52. (pominięte)
 
 9. Po uzyskaniu pozytywnego wyniku egzaminu, o którym mowa w ust. 6, przed zawarciem nowej umowy o pracę, pracownik składa ślubowanie.
 
-**Art. 20.**
-
-1. Pracownik samorządowy, który wykazuje inicjatywę w pracy i sumiennie wykonuje swoje obowiązki, może zostać przeniesiony na wyższe stanowisko (awans wewnętrzny).
-
-2. Awans wewnętrzny może zostać dokonany jedynie w ramach tej samej grupy stanowisk, o których mowa w art. 4 ust. 2 pkt 1 i 3.
+**Art. 20.** Pracownik samorządowy, który wykazuje inicjatywę w pracy i sumiennie wykonuje swoje obowiązki, może zostać przeniesiony na wyższe stanowisko (awans wewnętrzny).
 
 **Art. 21.** Jeżeli wymagają tego potrzeby jednostki, pracownikowi samorządowemu można powierzyć, na okres do 3 miesięcy w roku kalendarzowym, wykonywanie innej pracy niż określona w umowie o pracę, zgodnej z jego kwalifikacjami. W okresie tym przysługuje pracownikowi wynagrodzenie stosowne do wykonywanej pracy, lecz nie niższe od dotychczasowego.
 
@@ -333,9 +323,9 @@ Art. 44–52. (pominięte)
 
 2. Analizy danych zawartych w oświadczeniu dokonuje kierownik jednostki, w której pracownik samorządowy jest zatrudniony.
 
-3. Pracownik samorządowy, o którym mowa w ust. 1, składa oświadczenie o stanie majątkowym według wzoru oświadczenia majątkowego określonego na podstawie ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2024 r. poz. 609 i 721) dla wójta, zastępcy wójta, sekretarza gminy, skarbnika gminy, kierownika jednostki organizacyjnej gminy, osoby zarządzającej i członka organu zarządzającego gminną osobą prawną oraz osoby wydającej decyzje administracyjne w imieniu wójta.
+3. Pracownik samorządowy, o którym mowa w ust. 1, składa oświadczenie o stanie majątkowym według wzoru oświadczenia majątkowego określonego na podstawie ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2001 r. Nr 142, poz. 1591, z późn. zm.) dla wójta, zastępcy wójta, sekretarza gminy, skarbnika gminy, kierownika jednostki organizacyjnej gminy, osoby zarządzającej i członka organu zarządzającego gminną osobą prawną oraz osoby wydającej decyzje administracyjne w imieniu wójta.
 
-**Art. 33.** (uchylony)
+**Art. 33.** Przepisy art. 31 i 32 stosuje się odpowiednio do doradców i asystentów.
 
 **Art. 34.**
 
@@ -371,10 +361,10 @@ Art. 44–52. (pominięte)
 
 1. Rada Ministrów określi, w drodze rozporządzenia:
 
-- **1)** wykaz stanowisk, z uwzględnieniem podziału na stanowiska kierownicze urzędnicze, urzędnicze, pomocnicze i obsługi;
+- **1)** wykaz stanowisk, z uwzględnieniem podziału na stanowiska kierownicze urzędnicze, urzędnicze, pomocnicze i obsługi oraz doradców i asystentów;
 - **2)** minimalne wymagania kwalifikacyjne niezbędne do wykonywania pracy na poszczególnych stanowiskach;
 - **3)** warunki i sposób wynagradzania pracowników samorządowych, o których mowa w art. 4 ust. 1 pkt 3, w tym minimalny poziom wynagrodzenia zasadniczego na poszczególnych stanowiskach;
-- **4)** warunki i sposób wynagradzania pracowników samorządowych, o których mowa w art. 4 ust. 1 pkt 1, w tym maksymalny poziom wynagrodzenia zasadniczego oraz maksymalny poziom dodatku funkcyjnego;
+- **4)** warunki i sposób wynagradzania pracowników samorządowych, o których mowa w art. 4 ust. 1 pkt 1, oraz maksymalny poziom dodatku funkcyjnego;
 - **5)** maksymalny poziom wynagrodzenia zasadniczego pracowników samorządowych, o których mowa w art. 4 ust. 1 pkt 2, oraz maksymalny poziom dodatku funkcyjnego;
 - **6)** wysokość dodatku specjalnego dla osób, o których mowa w art. 36 ust. 3;
 - **7)** warunki przyznawania i wypłacania dodatku za wieloletnią pracę;
@@ -387,22 +377,20 @@ Art. 44–52. (pominięte)
 - **2)** potrzebę posiadania przez pracownika samorządowego umiejętności zawodowych i niezbędnego doświadczenia;
 - **3)** liczbę mieszkańców jednostki samorządu terytorialnego.
 
-3. Maksymalne wynagrodzenie osób, o których mowa w art. 4 ust. 1 pkt 1, nie może przekroczyć w okresie miesiąca 11,2-krotności kwoty bazowej określonej w ustawie budżetowej dla osób zajmujących kierownicze stanowiska państwowe na podstawie przepisów ustawy z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz. U. z 2023 r. poz. 2692 oraz z 2024 r. poz. 123).
-
-4. Minimalne wynagrodzenie osób, o których mowa w art. 4 ust. 1 pkt 1, nie może być niższe niż 80 % maksymalnego wynagrodzenia określonego dla poszczególnych stanowisk w przepisach wydanych na podstawie ust. 1. Maksymalne wynagrodzenie na danym stanowisku stanowi suma maksymalnego poziomu wynagrodzenia zasadniczego oraz maksymalnego poziomu dodatku funkcyjnego, a w przypadku osoby, o której mowa w art. 36 ust. 3, także kwoty dodatku specjalnego.
+3. Maksymalne wynagrodzenie osób, o których mowa w art. 4 ust. 1 pkt 1, nie może przekroczyć w okresie miesiąca siedmiokrotności kwoty bazowej określonej w ustawie budżetowej dla osób zajmujących kierownicze stanowiska państwowe na podstawie przepisów ustawy z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz. U. Nr 110, poz. 1255, z późn. zm.).
 
 **Art. 38.**
 
-1. Dodatek za wieloletnią pracę przysługuje po 5 latach pracy w wysokości wynoszącej 5 % miesięcznego wynagrodzenia zasadniczego. Dodatek ten wzrasta o 1 % za każdy dalszy rok pracy aż do osiągnięcia 20 % miesięcznego wynagrodzenia zasadniczego.
+1. Dodatek za wieloletnią pracę przysługuje po 5 latach pracy w wysokości wynoszącej 5% miesięcznego wynagrodzenia zasadniczego. Dodatek ten wzrasta o 1% za każdy dalszy rok pracy aż do osiągnięcia 20% miesięcznego wynagrodzenia zasadniczego.
 
 2. Nagroda jubileuszowa przysługuje w wysokości:
 
-- **1)** po 20 latach pracy – 75 % wynagrodzenia miesięcznego;
-- **2)** po 25 latach pracy – 100 % wynagrodzenia miesięcznego;
-- **3)** po 30 latach pracy – 150 % wynagrodzenia miesięcznego;
-- **4)** po 35 latach pracy – 200 % wynagrodzenia miesięcznego;
-- **5)** po 40 latach pracy – 300 % wynagrodzenia miesięcznego;
-- **6)** po 45 latach pracy – 400 % wynagrodzenia miesięcznego.
+- **1)** po 20 latach pracy – 75% wynagrodzenia miesięcznego;
+- **2)** po 25 latach pracy – 100% wynagrodzenia miesięcznego;
+- **3)** po 30 latach pracy – 150% wynagrodzenia miesięcznego;
+- **4)** po 35 latach pracy – 200% wynagrodzenia miesięcznego;
+- **5)** po 40 latach pracy – 300% wynagrodzenia miesięcznego;
+- **6)** po 45 latach pracy – 400% wynagrodzenia miesięcznego.
 
 3. W związku z przejściem na emeryturę lub rentę z tytułu niezdolności do pracy przysługuje jednorazowa odprawa w wysokości:
 
@@ -426,11 +414,11 @@ Art. 44–52. (pominięte)
 - **1)** warunki przyznawania oraz warunki i sposób wypłacania premii i nagród innych niż nagroda jubileuszowa;
 - **2)** warunki i sposób przyznawania dodatków, o których mowa w art. 36 ust. 4 i 5, oraz innych dodatków.
 
-3. Wójt (burmistrz, prezydent miasta), starosta lub marszałek określi, w drodze zarządzenia, maksymalne miesięczne wynagrodzenie kierowników i zastępców kierowników jednostek budżetowych oraz samorządowych zakładów budżetowych.
+3. Wójt (burmistrz, prezydent miasta), starosta lub marszałek określi, w drodze zarządzenia, maksymalne miesięczne wynagrodzenie kierowników i zastępców kierowników jednostek budżetowych, gospodarstw pomocniczych tych jednostek oraz zakładów budżetowych jednostek samorządu terytorialnego.
 
 **Art. 40.**
 
-1. Wójtowi (burmistrzowi, prezydentowi miasta), burmistrzowi dzielnicy m.st. Warszawy, zastępcy burmistrza dzielnicy m.st. Warszawy i pozostałym członkom zarządu dzielnicy m.st. Warszawy, staroście, wicestaroście, członkom zarządu powiatu oraz marszałkowi, wicemarszałkowi i członkom zarządu województwa, których stosunek pracy został rozwiązany w związku z upływem kadencji, przysługuje odprawa w wysokości trzymiesięcznego wynagrodzenia obliczonego według zasad obowiązujących przy ustalaniu ekwiwalentu pieniężnego za urlop wypoczynkowy.
+1. Wójtom (burmistrzom, prezydentom miasta), staroście, wicestaroście, członkom zarządu powiatu oraz marszałkom, wicemarszałkom i członkom zarządu województwa, których stosunek pracy został rozwiązany w związku z upływem kadencji, przysługuje odprawa w wysokości trzymiesięcznego wynagrodzenia obliczonego według zasad obowiązujących przy ustalaniu ekwiwalentu pieniężnego za urlop wypoczynkowy.
 
 2. W przypadku gdy osoba, o której mowa w ust. 1, zostanie ponownie zatrudniona w najbliższej kadencji na podstawie stosunku pracy z wyboru w tym samym urzędzie, odprawa nie przysługuje.
 
@@ -454,104 +442,59 @@ Art. 44–52. (pominięte)
 
 2. Spory ze stosunku pracy pracowników samorządowych rozpoznają właściwe sądy pracy.
 
-#### Rozdział 4a Zmiany w podziale terytorialnym państwa
-
-**Art. 43a.** Z dniem utworzenia nowej jednostki samorządu terytorialnego powstałej w wyniku połączenia pracownicy samorządowi dotychczasowych urzędów jednostek samorządu terytorialnego stają się pracownikami samorządowymi urzędu nowej jednostki samorządu terytorialnego.
-
-**Art. 43b.**
-
-1. Stosunki pracy z wyboru w dotychczasowych urzędach gmin, starostwach powiatowych lub urzędach marszałkowskich wygasają z dniem utworzenia nowej jednostki samorządu terytorialnego.
-
-2. Wygaśnięcie stosunku pracy wójta (burmistrza, prezydenta miasta) jest równoznaczne z odwołaniem jego zastępcy lub zastępców.
-
-**Art. 43c.**
-
-1. Stosunki pracy sekretarza oraz skarbnika gminy, powiatu i województwa wygasają po upływie jednego miesiąca od dnia utworzenia nowej jednostki samorządu terytorialnego, jeżeli najpóźniej na 14 dni przed upływem tego terminu nie zostaną im zaproponowane nowe warunki pracy lub płacy na dalszy okres albo w razie ich nieprzyjęcia w ciągu 7 dni od dnia ich zaproponowania.
-
-2. Wygaśnięcie stosunku pracy, o którym mowa w ust. 1, pociąga za sobą skutki, jakie przepisy Kodeksu pracy wiążą z rozwiązaniem stosunku pracy za wypowiedzeniem.
-
-3. Pracodawca obowiązany jest powiadomić na piśmie pracownika, o którym mowa w ust. 1, odpowiednio o terminie wygaśnięcia stosunku pracy albo o skutkach nieprzyjęcia nowych warunków pracy lub płacy.
-
 #### Rozdział 5 Zmiany w przepisach obowiązujących
 
-#### Rozdział 6 Przepisy przejściowe
+**Art. 44.** W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2004 r. Nr 241, poz. 2416, z późn. zm.) w art. 32a ust. 2 otrzymuje brzmienie: „ 2. Osobom, o których mowa w ust. 1 pkt 2, przysługuje wynagrodzenie nie niższe niż wynagrodzenie referentów z wykształceniem średnim, określone w przepisach wydanych na podstawie art. 37 ust. 1 ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych (Dz. U. Nr 223, poz. 1458). ” .
 
-**Art. 53.**
+**Art. 45.** W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2001 r. Nr 142, poz. 1591, z późn. zm.) wprowadza się następujące zmiany:
 
-1. Z dniem wejścia w życie ustawy dotychczasowe stosunki pracy osób zatrudnionych na podstawie powołania innych niż osoby wymienione w art. 4 ust. 1 pkt 2 przekształcają się w stosunki pracy na podstawie umowy o pracę na czas nieokreślony, chyba że odrębne przepisy przewidują nawiązanie stosunku pracy na podstawie powołania.
+- **1)** w art. 18 w ust. 2 pkt 3 otrzymuje brzmienie: „
+- **3)** powoływanie i odwoływanie skarbnika gminy, który jest głównym księgowym budżetu – na wniosek wójta, ” ;
+- **2)** w art. 24f ust. 4 otrzymuje brzmienie: „
 
-2. Warunek, o którym mowa w art. 6 ust. 4 pkt 1, nie dotyczy pracowników zatrudnionych na kierowniczym stanowisku urzędniczym przed dniem wejścia w życie ustawy.
+4. Jeżeli wybór lub powołanie, o których mowa w ust. 2, nastąpiły przed rozpoczęciem wykonywania mandatu radnego albo dniem wyboru wójta lub przed zatrudnieniem na stanowisku sekretarza gminy, powołaniem na stanowisko zastępcy wójta, skarbnika gminy, kierownika jednostki organizacyjnej gminy oraz osoby zarządzającej i członka organu zarządzającego gminną osobą prawną, osoby, o których mowa w ust. 2, są obowiązane zrzec się stanowiska lub funkcji w terminie 3 miesięcy od dnia złożenia ślubowania przez radnego albo wójta czy też od dnia zatrudnienia na podstawie umowy o pracę lub powołania na stanowisko. W razie niezrzeczenia się stanowiska lub funkcji osoba, o której mowa w ust. 2, traci je z mocy prawa po upływie terminu, o którym mowa w zdaniu pierwszym. ” ;
 
-3. Pracownicy, którzy w dniu wejścia w życie ustawy nie spełniają warunku, o którym mowa w art. 6 ust. 4 pkt 2, mogą nadal być zatrudnieni na dotychczasowych stanowiskach.
+- **3)** w art. 24k ust. 2 i 3 otrzymują brzmienie: „
 
-4. Sekretarze, którzy w dniu wejścia w życie ustawy nie spełniają warunków określonych w art. 5 ust. 2, mogą być nadal zatrudnieni na dotychczasowych stanowiskach.
+2. Jeżeli skarbnik gminy nie złoży w terminie oświadczenia majątkowego, rada gminy odwołuje go, w drodze uchwały, najpóźniej po upływie 30 dni od dnia, w którym upłynął termin do złożenia oświadczenia.
 
-**Art. 54.**
+3. Jeżeli sekretarz gminy, zastępca wójta, kierownik jednostki organizacyjnej gminy, osoba zarządzająca i członek organu zarządzającego gminną osobą prawną oraz osoba wydająca decyzje administracyjne w imieniu wójta nie złożą w terminie oświadczenia majątkowego, właściwy organ odwołuje ich albo rozwiązuje z nimi umowę o pracę najpóźniej po upływie 30 dni od dnia, w którym upłynął termin do złożenia oświadczenia. ” .
 
-1. Stosunek pracy osób zatrudnionych na podstawie mianowania na zasadach określonych w ustawie uchylanej w art. 60 przekształca się z dniem 1 stycznia 2012 r. w stosunek pracy na podstawie umowy o pracę na czas nieokreślony.
+**Art. 46.** W ustawie z dnia 20 grudnia 1996 r. o gospodarce komunalnej (Dz. U. z 1997 r. Nr 9, poz. 43, z późn. zm.) art. 8 otrzymuje brzmienie: „ Do pracowników komunalnych zakładów budżetowych stosuje się przepisy o pracownikach samorządowych, jeżeli przepisy szczególne nie stanowią inaczej. ” .
 
-2. Do pracowników samorządowych mianowanych stosuje się przepisy ustawy, z zastrzeżeniem art. 59 ust. 2.
+**Art. 47.** W ustawie z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2006 r. Nr 216, poz. 1584) wprowadza się następujące zmiany:
 
-**Art. 55.**
+- **1)** w art. 2 pkt 6b otrzymuje brzmienie: „
+- **6b)** członków zarządów województw, skarbników województw, sekretarzy województw, kierowników wojewódzkich samorządowych jednostek organizacyjnych, osoby zarządzające i członków organów zarządzających wojewódzkimi osobami prawnymi oraz inne osoby wydające decyzje administracyjne w imieniu marszałka województwa; ” ;
+- **2)** w art. 5 ust. 3 otrzymuje brzmienie: „
 
-1. Do dnia, o którym mowa w art. 54 ust. 1, rozwiązanie stosunku pracy z pracownikiem samorządowym mianowanym, z zachowaniem trzymiesięcznego okresu wypowiedzenia, może nastąpić w przypadku:
+3. Jeżeli zakazy, o których mowa w art. 4, narusza członek zarządu województwa lub powiatu, skarbnik województwa, powiatu lub gminy, organ stanowiący jednostki samorządu terytorialnego odwołuje tę osobę z pełnionej funkcji najpóźniej po upływie miesiąca od dnia, w którym przewodniczący organu stanowiącego uzyskał informację o przyczynie odwołania. ” ;
 
-- **1)** likwidacji lub reorganizacji jednostki, o której mowa w art. 2, jeżeli nie jest możliwe przeniesienie pracownika na inne stanowisko;
-- **2)** niezawinionej utraty uprawnień do wykonywania pracy na zajmowanym stanowisku;
-- **3)** stwierdzenia przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych trwałej niezdolności do pracy na zajmowanym stanowisku, jeżeli nie jest możliwe przeniesienie pracownika na inne stanowisko; w celu zbadania stanu zdrowia pracownika samorządowego mianowanego można skierować do Zakładu Ubezpieczeń Społecznych z urzędu lub na jego prośbę;
-- **4)** osiągnięcia wieku 65 lat, jeżeli okres zatrudnienia umożliwia pracownikowi uzyskanie prawa do emerytury, albo nabycia prawa do renty z tytułu niezdolności do pracy;
-- **5)** utraty nieposzlakowanej opinii.
+- **3)** w art. 12 ust. 7 otrzymuje brzmienie: „
 
-2. Jeżeli zatrudnienie ustało w przypadku, o którym mowa w ust. 1 pkt 1 lub 2, pracownikowi samorządowemu mianowanemu w okresie między ustaniem zatrudnienia a podjęciem pracy lub działalności gospodarczej przysługuje świadczenie pieniężne przez okres nie dłuższy niż 6 miesięcy, obliczane według zasad obowiązujących przy ustalaniu ekwiwalentu pieniężnego za urlop wypoczynkowy. Świadczenie to nie przysługuje pracownikowi samorządowemu mianowanemu, który nabył prawo do emerytury.
+7. Obowiązek zgłaszania informacji, o których mowa w ust. 2, 3 i 4, do Rejestru obejmuje członków Rady Ministrów, sekretarzy i podsekretarzy stanu w ministerstwach i Kancelarii Prezesa Rady Ministrów, kierowników urzędów centralnych, wojewodów, wicewojewodów, członków zarządów województw, sekretarzy województw, skarbników województw, członków zarządów powiatów, sekretarzy powiatów, skarbników powiatów, wójtów (burmistrzów, prezydentów miast), zastępców wójtów, sekretarzy gmin i skarbników gmin. ” .
 
-3. Jeżeli w okresie, o którym mowa w ust. 2, jest pobierany zasiłek chorobowy albo macierzyński, wysokość świadczenia pieniężnego ulega odpowiedniemu obniżeniu.
+**Art. 48.** W ustawie z dnia 29 sierpnia 1997 r. o strażach gminnych (Dz. U. Nr 123, poz. 779, z 2002 r. Nr 113, poz. 984 oraz z 2003 r. Nr 130, poz. 1190) art. 32 otrzymuje brzmienie: „ W sprawach dotyczących strażników, a nieuregulowanych w ustawie, mają zastosowanie przepisy o pracownikach samorządowych. ” .
 
-4. Okres pobierania świadczenia pieniężnego wlicza się do okresów pracy wymaganych do nabycia lub zachowania uprawnień pracowniczych. Od świadczenia pieniężnego pracodawca samorządowy odprowadza składki na ubezpieczenia społeczne na zasadach przewidzianych dla wynagrodzenia wypłacanego w czasie trwania stosunku pracy.
+**Art. 49.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2001 r. Nr 142, poz. 1590, z późn. zm.) wprowadza się następujące zmiany:
 
-5. Rozwiązanie stosunku pracy z pracownikiem samorządowym mianowanym bez wypowiedzenia z winy pracownika może nastąpić w przypadku:
+- **1)** w art. 27b ust. 3 i 4 otrzymują brzmienie: „
 
-- **1)** popełnienia przez pracownika w czasie trwania stosunku pracy przestępstwa, które uniemożliwia dalsze zatrudnianie, jeżeli przestępstwo jest oczywiste lub zostało stwierdzone prawomocnym wyrokiem;
-- **2)** zawinionej przez pracownika samorządowego mianowanego utraty uprawnień koniecznych do wykonywania pracy na zajmowanym stanowisku;
-- **3)** ciężkiego naruszenia podstawowych obowiązków pracowniczych.
+3. Radni i ich małżonkowie oraz małżonkowie członków zarządu województwa, skarbników województwa, sekretarzy województwa, kierowników wojewódzkich samorządowych jednostek organizacyjnych oraz osób zarządzających i członków organów zarządzających wojewódzkimi osobami prawnymi nie mogą być członkami władz zarządzających lub kontrolnych i rewizyjnych ani pełnomocnikami spółek handlowych z udziałem wojewódzkich osób prawnych lub przedsiębiorców, w których uczestniczą takie osoby. Wybór lub powołanie tych osób na te funkcje są z mocy prawa nieważne.
 
-6. Stosunek pracy z pracownikiem samorządowym mianowanym ulega z mocy prawa rozwiązaniu bez wypowiedzenia w przypadku utraty obywatelstwa polskiego.
+4. Jeżeli wybór lub powołanie, o których mowa w ust. 3, nastąpiły przed rozpoczęciem wykonywania mandatu radnego albo dniem wyboru członka zarządu województwa lub przed zatrudnieniem na stanowisku sekretarza województwa, powołaniem na stanowisko skarbnika województwa, kierownika wojewódzkiej samorządowej jednostki organizacyjnej oraz osoby zarządzającej i członka organu zarządzającego wojewódzką osobą prawną, osoby, o których mowa w ust. 3, są obowiązane zrzec się stanowiska lub funkcji w terminie 3 miesięcy od dnia złożenia ślubowania przez radnego albo od dnia wyboru, zatrudnienia lub powołania na stanowisko. W razie niezrzeczenia się stanowiska lub funkcji osoba, o której mowa w ust. 3, traci je z mocy prawa po upływie terminu, o którym mowa w zdaniu pierwszym. ” ;
 
-7. Rozwiązanie stosunku pracy z pracownikiem samorządowym mianowanym bez wypowiedzenia z winy pracownika nie może nastąpić po upływie miesiąca od dnia uzyskania wiadomości o okoliczności uzasadniającej rozwiązanie stosunku pracy.
+- **2)** w art. 27c: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Radny, członek zarządu województwa, skarbnik województwa, sekretarz województwa, kierownik wojewódzkiej samorządowej jednostki organizacyjnej, osoba zarządzająca i członek organu zarządzającego wojewódzką osobą prawną oraz osoba wydająca decyzje administracyjne w imieniu marszałka województwa są obowiązani do złożenia oświadczenia o swoim stanie majątkowym, zwanego dalej „oświadczeniem majątkowym”. Oświadczenie majątkowe dotyczy ich majątku odrębnego oraz majątku objętego małżeńską wspólnością majątkową. Oświadczenie majątkowe zawiera informacje o: ” , w ust. 3 pkt 3 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
 
-8. Rozwiązanie stosunku pracy bez wypowiedzenia z pracownikiem samorządowym mianowanym może nastąpić w razie jego nieobecności w pracy z powodu choroby trwającej dłużej niż rok, a także w razie usprawiedliwionej nieobecności w pracy z innych przyczyn – po upływie okresów przewidzianych w art. 53 § 1 Kodeksu pracy.
+- **3)** wicemarszałek województwa, członek zarządu województwa, sekretarz województwa, skarbnik województwa, kierownik wojewódzkiej samorządowej jednostki organizacyjnej, osoba zarządzająca i członek organu zarządzającego wojewódzką osobą prawną oraz osoba wydająca decyzje administracyjne w imieniu marszałka województwa – marszałkowi województwa. ” , ust. 5 otrzymuje brzmienie: „
+    - **c)**
 
-9. W przypadku niezdolności do pracy z powodu choroby, o której mowa w ust. 8, pracownik samorządowy mianowany zachowuje prawo do świadczeń pieniężnych przez okres przewidziany w przepisach o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa.
+5. Członek zarządu województwa, skarbnik województwa, sekretarz województwa, kierownik wojewódzkiej samorządowej jednostki organizacyjnej, osoba zarządzająca i członek organu zarządzającego wojewódzką osobą prawną oraz osoba wydająca decyzje administracyjne w imieniu marszałka województwa składają pierwsze oświadczenie majątkowe w terminie 30 dni od dnia wyboru lub powołania na stanowisko albo od dnia zatrudnienia na podstawie umowy o pracę. Do pierwszego oświadczenia majątkowego członek zarządu województwa, skarbnik województwa, sekretarz województwa, kierownik wojewódzkiej samorządowej jednostki organizacyjnej, osoba zarządzająca i członek organu zarządzającego wojewódzką osobą prawną oraz osoba wydająca decyzje administracyjne w imieniu marszałka województwa są obowiązani dołączyć informację o sposobie i terminie zaprzestania prowadzenia działalności gospodarczej, jeżeli prowadzili ją przed dniem wyboru, powołania lub zatrudnienia. Kolejne oświadczenia majątkowe są składane przez nich co roku do dnia 30 kwietnia, według stanu na dzień 31 grudnia roku poprzedniego, oraz w dniu odwołania ze stanowiska lub rozwiązania umowy o pracę. ” , ust. 13 otrzymuje brzmienie: „
 
-10. Pracownik samorządowy mianowany może rozwiązać stosunek pracy z zachowaniem trzymiesięcznego okresu wypowiedzenia. W okresie wypowiedzenia pracownik samorządowy mianowany może być zwolniony z pełnienia obowiązków, z zachowaniem prawa do wynagrodzenia.
+- **d)**
 
-11. Stosunek pracy z pracownikiem samorządowym mianowanym może ulec rozwiązaniu w drodze porozumienia stron.
+13.
 
-12. Stosunek pracy pracownika samorządowego mianowanego wygasa w przypadku:
-
-- **1)** prawomocnego orzeczenia utraty praw publicznych;
-- **2)** prawomocnego skazania za umyślne przestępstwo lub umyślne przestępstwo skarbowe.
-
-**Art. 56.** Do czasu upływu kadencji samorządu województwa, w czasie której trwania niniejsza ustawa weszła w życie, do sekretarza województwa mają zastosowanie przepisy o samorządzie gminnym w zakresie dotyczącym składania przez sekretarza gminy oświadczeń o działalności gospodarczej, o umowach cywilnoprawnych oraz oświadczeń o stanie majątkowym.
-
-**Art. 57.**
-
-1. Do postępowań dotyczących naboru wszczętych na podstawie dotychczasowych przepisów i niezakończonych do dnia wejścia w życie ustawy stosuje się przepisy dotychczasowe.
-
-2. Do ocen okresowych pracowników samorządowych zatrudnionych na stanowiskach urzędniczych, w tym na kierowniczych stanowiskach urzędniczych, niezakończonych przed dniem wejścia w życie ustawy stosuje się przepisy dotychczasowe.
-
-3. Do postępowań dyscyplinarnych wszczętych na podstawie dotychczasowych przepisów i niezakończonych do dnia wejścia w życie ustawy stosuje się przepisy dotychczasowe.
-
-**Art. 58.** (pominięty)
-
-**Art. 59.**
-
-1. (pominięty)
-
-2. Do dnia 31 grudnia 2011 r. w stosunku do pracowników samorządowych mianowanych stosuje się dotychczasowe przepisy dotyczące wynagrodzeń.
-
-#### Rozdział 7 Przepisy końcowe
-
-**Art. 60.** Traci moc ustawa z dnia 22 marca 1990 r. o pracownikach samorządowych (Dz. U. z 2001 r. poz. 1593, z późn. zm. ).
-
-**Art. 61.** Ustawa wchodzi w życie z dniem 1 stycznia 2009 r., z tym że art. 45 pkt 3, art. 49 pkt 3 oraz art. 50 pkt 3 mają zastosowanie do kadencji następujących po kadencji, w czasie której trwania ustawa weszła w życie.
 

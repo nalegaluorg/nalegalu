@@ -8,10 +8,10 @@ pos: 1796
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia października 2021 r.
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 30 września 2021 r. w sprawie otrzymywania przez strażaków Państwowej Straży Pożarnej równoważnika pieniężnego w zamian za umundurowanie
 
 | Pole | Wartość |
 |---|---|
@@ -22,8 +22,79 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2021-09-30 |
 | Data wydania | 2021-10-01 |
+| Wejście w życie | 2021-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001796) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1796/text.pdf) |
 
-TABELE KALKULACYJNE OKREŚLAJĄCE WARTOŚCI PIENIĘŻNE PRZEDMIOTÓW UMUNDUROWANIA, STANOWIĄCE PODSTAWĘ DO OKREŚLENIA WYSOKOŚCI RÓWNOWAŻNIKA PIENIĘŻNEGO W ZAMIAN ZA UMUNDUROWANIE DLA STRAŻAKA MĘŻCZYZNY W SŁUŻBIE STAŁEJ I PRZYGOTOWAWCZEJ Wartości (zł) Rodzaj jednostka Należność okres Lp. przedmiot ubioru miary wg norm używalności w latach cena należność należność jednostkowa całkowita roczna 2 3 4 5 6 7 8 9 Czapka W szt. 3 160,00 160,00 53,33 rogatywka Czapka 2 służbowa S szt. 3 40,00 40,00 13,33 zimowa 3 Czapka S szt. 3 35,00 35,00 11,67 służbowa letnia 4 Płaszcz W szt. 3 900,00 900,00 300,00 5 Mundur W kpl. 2 3 820,00 1640,00 546,67 6 Bluza służbowa S szt. 3 200,00 200,00 66,67 typu polar 7 Krawat W szt. 3 20,00 20,00 6,67 8 Szalik zimowy W szt. 3 30,00 30,00 10,00 Rękawiczki 9 skórzane czarne W para 3 70,00 70,00 23,33 ocieplane 10 Rękawiczki W para 3 65,00 65,00 21,67 skórzane czarne 11 Koszula W szt. 2 3 55,00 110,00 36,67 wyjściowa Koszula 12 wyjściowa W szt. 2 3 50,00 100,00 33,33 z krótkim rękawem Koszula 13 służbowa S szt. 2 3 139,00 278,00 92,67 z długim rękawem Koszula 14 służbowa S szt. 2 3 110,00 220,00 73,33 z krótkim rękawem 16 Skarpety czarne W para 2 15,00 30,00 30,00 letnie 17 Rękawice S para 3 118,98 dziane czarne 118,98 39,66 Skarpety czarne 18 termoaktywne typu ¾ S para 2 20,00 40,00 40,00 19 Botki ocieplane W para 3 225,00 225,00 75,00 czarne 20 Buty służbowe S para 2 6 500,00 1000,00 166,67 Półbuty 21 wyjściowe W para 3 160,00 160,00 53,33 skórzane czarne 22 Sznur galowy W szt. 3 100,00 100,00 33,33 23 Pasek skórzany W szt. 3 32,00 32,00 10,67 czarny 24 Pasek S szt. 3 30,00 30,00 10,00 25 Pokrowiec mundur na W szt. 2 55,00 55,00 27,50 Ryczałt za 26 pranie 300,50 300,50 300,50 RAZEM 4271,48 6001,48 2118,00 Należność dla strażaka w służbie przygotowawczej Równoważnik w zamian za umundurowanie 605,83 2 Ryczałt za pranie chemiczne 100,17 RAZEM 706 DLA STRAŻAKA KOBIETY W SŁUŻBIE STAŁEJ I PRZYGOTOWAWCZEJ Rodzaj jednostka Należność okres Lp. przedmiot ubioru miary wg norm używalności w latach Wartości (zł) cena należność należność jednostkowa całkowita roczna 2 3 4 5 6 7 8 9 Czapka W szt. 3 160,00 160,00 53,33 rogatywka 2 Czapka służbowa zimowa S szt. 3 40,00 40,00 13,33 3 Czapka S szt. 3 35,00 35,00 11,67 służbowa letnia Mundur 5 (marynarka W kpl. 3 848,00 848,00 282,67 i spodnie) Mundur 6 (marynarka W kpl. 3 700,00 700,00 233,33 i spódnica) 7 Bluza służbowa S szt. 3 200,00 200,00 66,67 typu polar 8 Krawat W szt. 3 20,00 20,00 6,67 9 Szalik zimowy W szt. 3 30,00 30,00 10,00 Rękawiczki 10 skórzane czarne W para 3 70,00 70,00 23,33 ocieplane 11 Rękawiczki W para 3 65,00 65,00 21,67 skórzane czarne 12 Koszula W szt. 2 3 55,00 110,00 36,67 wyjściowa Koszula 13 wyjściowa z krótkim rękawem W szt. 2 3 50,00 100,00 33,33 Koszula 14 służbowa S szt. 2 3 139,00 278,00 92,67 z długim rękawem Koszula 15 służbowa S szt. 2 3 110,00 220,00 73,33 z krótkim rękawem 16 Skarpety czarne W para 2 20,00 40,00 40,00 zimowe 17 Skarpety czarne W para 2 13,84 27,68 27,68 letnie 18 Rajstopy cieliste W para 2 7,99 15,98 15,98 zimowe 19 Rajstopy cieliste W para 2 7,00 14,00 14,00 letnie 20 Rękawice dziane S para 3 118,98 czarne 118,98 39,66 Skarpety czarne 21 termoaktywne typu ¾ S para 2 20,00 40,00 40,00 22 Kozaki czarne W para 3 210,00 210,00 70,00 23 Buty służbowe S para 2 6 500,00 1000,00 166,67 Półbuty 24 wyjściowe W para 3 160,00 160,00 53,33 skórzane czarne 25 Sznur galowy W szt. 3 100,00 100,00 33,33 26 Pasek skórzany W szt. 3 32,00 32,00 10,67 czarny 27 Pasek S szt. 3 30,00 30,00 10,00 28 Pokrowiec na W szt. 2 55,00 55,00 27,50 mundur RAZEM 5027,31 5950,15 2118,00 Należność dla strażaka w służbie przygotowawczej Równoważnik w zamian za umundurowanie 605,83 2 Ryczałt za pranie chemiczne 100,17 RAZEM 706 DLA STRAŻAKA NADBRYGADIERA I GENERAŁA BRYGADIERA MĘŻCZYZNY Lp. przedmiot 2 3 4 5 6 7 8 Spodnie bryczesy szt. 3 250,45 250,45 83,48 z lampasami 2 Mundur kpl. 2 3 590,00 1180,00 393,33 3 Koszula wyjściowa szt. 3 55,00 55,00 18,33 4 Skarpety zimowe para 20,76 20,76 20,76 5 Skarpety letnie para 15,00 15,00 15,00 6 Buty oficerskie para 4 1000,00 1000,00 250,00 z prawidłami 7 Półbuty wyjściowe para 2 180,00 180,00 90,00 lakierowane 8 Pas główny szt. 7 81,88 81,88 11,70 RAZEM 2783,09 882,60 DLA STRAŻAKA NADBRYGADIERA I GENERAŁA BRYGADIERA KOBIETY Lp. przedmiot Wartości (zł) 2 3 4 5 6 7 8 Spodnie bryczesy szt. 3 250,45 250,45 83,48 2 Mundur (marynarka kpl. 3 536,74 536,74 178,91 i spodnie) 3 Mundur (marynarka kpl. 3 525,83 525,83 175,28 i spódnica) 4 Koszula wyjściowa szt. 2 55,00 55,00 27,50 6 Skarpety letnie para 15,00 15,00 15,00 7 Rajstopy cieliste letnie para 2 7,99 15,98 15,98 8 Rajstopy cieliste para 2 7,00 14,00 14,00 zimowe 9 Buty oficerskie para 4 1000,00 1000,00 250,00 z prawidłami 10 Półbuty wyjściowe para 2 180,00 180,00 90,00 lakierowane 11 Pas główny szt. 7 81,88 81,88 11,70 RAZEM 2695,64 882,60
+Treść rozporządzenia
+Załącznik – Tabele kalkulacyjne określające wartości pieniężne przedmiotów umundurowania, stanowiące podstawę do określenia wysokości równoważnika pieniężnego w zamian za umundurowanie
+Treść rozporządzenia
+Na podstawie art. 61 ust. 9 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2020 r. poz. 1123, 1610 i 2112 oraz z 2021 r. poz. 464 i 1728) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+wartości pieniężne umundurowania, w tym jego przedmiotów, stanowiące podstawę do określenia wysokości równoważnika pieniężnego w zamian za umundurowanie;
+2)
+sposób ustalania wysokości równoważnika pieniężnego w zamian za umundurowanie;
+3)
+tryb i sposób przyznawania, zwrotu i wypłaty równoważnika w zamian za umundurowanie;
+4)
+terminy wypłacania równoważnika w zamian za umundurowanie;
+5)
+wysokość i terminy wypłaty ryczałtu za pranie chemiczne umundurowania wydanego w naturze, zwanego dalej„ ryczałtem za pranie”.
+§ 2.
+1.
+Strażak mianowany na stałe otrzymuje równoważnik pieniężny w zamian za umundurowanie, zwany dalej „równoważnikiem”, z góry za okres od dnia 1 kwietnia do dnia 31 marca następnego roku, zwany dalej „rokiem zaopatrzeniowym”.
+2.
+Strażak w służbie przygotowawczej otrzymuje równoważnik z dołu za okres poprzedniego roku zaopatrzeniowego.
+3.
+Równoważnik wypłaca się w terminie do dnia 31 maja roku kalendarzowego. Wypłata realizowana jest w sposób wybrany przez strażaka i może nastąpić w gotówce albo na rachunek bankowy.
+4.
+Strażakowi w służbie przygotowawczej, mianowanemu do służby stałej w trakcie roku zaopatrzeniowego, równoważnik za okres roku zaopatrzeniowego objęty okresem służby przygotowawczej wypłaca się wraz z pierwszą wypłatą równoważnika należnego w służbie stałej.
+5.
+Równoważnik wypłaca jednostka organizacyjna Państwowej Straży Pożarnej właściwa ze względu na miejsce pełnienia służby strażaka. W przypadku strażaków delegowanych do pełnienia służby w instytucji cywilnej równoważnik wypłaca jednostka organizacyjna Państwowej Straży Pożarnej, w której strażak pełnił służbę przed oddelegowaniem do wykonywania zadań w instytucji cywilnej.
+§ 3.
+1.
+Wysokość równoważnika ustala się w kwocie równej rocznej wartości pieniężnej przedmiotów umundurowania ujętych w tabelach kalkulacyjnych. Tabele kalkulacyjne określające wartości pieniężne przedmiotów umundurowania, stanowiące podstawę do określenia wysokości równoważnika, określa załącznik do rozporządzenia.
+2.
+Strażak w służbie przygotowawczej otrzymuje równoważnik w wysokości 1/3 równoważnika przysługującego strażakowi w służbie stałej.
+§ 4.
+1.
+Przy ustalaniu wysokości równoważnika za kolejny rok zaopatrzeniowy strażakowi mianowanemu na stałe odlicza się pełną wartość przedmiotów umundurowania określoną według odpowiedniej tabeli kalkulacyjnej, wydanych strażakowi w naturze w okresie do dnia 31 marca, z wyjątkiem przedmiotów umundurowania wydawanych mu po raz pierwszy w związku z jego mianowaniem na stałe oraz wydanych w związku ze zmianą korpusu.
+2.
+Przy ustalaniu wysokości równoważnika odliczeniu podlega część równoważnika za okres:
+1)
+korzystania z urlopu bezpłatnego lub wychowawczego;
+2)
+zawieszenia w czynnościach służbowych.
+3.
+Kwoty podlegające odliczeniu ustala się przez podzielenie należności rocznej przez liczbę dni roku, a następnie pomnożenie uzyskanego wyniku przez liczbę dni okresu podlegającego wyłączeniu z przyczyn, o których mowa w ust. 2.
+4.
+Wartość przedmiotów umundurowania stanowiącą podstawę do odliczeń ustala się według cen jednostkowych określonych w tabelach kalkulacyjnych, o których mowa w § 3 ust. 1.
+§ 5.
+1.
+Strażak mianowany na stałe, który nie nabył praw do emerytury lub renty, w przypadku zwolnienia ze służby zwraca część równoważnika za okres niepozostawania w służbie, nie później niż w ostatnim dniu pełnienia służby.
+2.
+Strażak mianowany na stałe zwolniony ze służby zwraca nienależną część równoważnika za okres, o którym mowa w § 4 ust. 2, najpóźniej w ostatnim dniu pełnienia służby.
+3.
+Strażak mianowany na stałe, zwolniony ze służby na podstawie art. 43 ust. 2 pkt 3, 4 albo 6 albo ust. 3 pkt 2 lub 4a ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej przed upływem okresu, za który wypłacono równoważnik, zwraca część równoważnika za okres niepozostawania w służbie, nie później niż w ostatnim dniu pełnienia służby.
+4.
+Zwrot równoważnika może nastąpić jednorazowo lub w ratach, których liczbę ustala kierownik jednostki organizacyjnej Państwowej Straży Pożarnej właściwy w sprawach wypłaty równoważnika, przy czym liczba rat nie może być mniejsza niż cztery i większa niż dwanaście.
+§ 6.
+1.
+Do kwoty równoważnika dolicza się ryczałt za pranie w wysokości określonej w załączniku do rozporządzenia.
+2.
+Strażak w służbie przygotowawczej otrzymuje ryczałt za pranie w wysokości 1/3 ryczałtu za pranie przysługującego strażakowi w służbie stałej.
+3.
+Ryczałt za pranie wypłaca się w terminie do dnia 31 maja roku kalendarzowego.
+§ 7.
+1.
+Do dnia 31 marca 2022 r. przy obliczaniu wysokości równoważnika stosuje się wartości pieniężne przewidziane przez przepisy dotychczasowe.
+2.
+W przypadku strażaków, którzy rozpoczęli służbę przygotowawczą przed dniem wejścia w życie niniejszego rozporządzenia, do dnia mianowania na stałe stosuje się przepisy dotychczasowe.
+§ 8.
+Rozporządzenie wchodzi w życie z dniem 1 października 2021 r.
+1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 19 grudnia 2005 r. w sprawie wysokości i warunków otrzymywania przez strażaków Państwowej Straży Pożarnej równoważnika pieniężnego w zamian za umundurowanie (Dz. U. z 2006 r. poz. 26), które zgodnie z art. 39 pkt 5 ustawy z dnia 14 sierpnia 2020 r. o szczególnych rozwiązaniach dotyczących wsparcia służb mundurowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1610) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+Załącznik – Tabele kalkulacyjne określające wartości pieniężne przedmiotów umundurowania, stanowiące podstawę do określenia wysokości równoważnika pieniężnego w zamian za umundurowanie
+patrz oryginał
 

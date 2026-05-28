@@ -8,10 +8,10 @@ pos: 286
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 stycznia 2018 r.
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 30 stycznia 2018 r. w sprawie znaku graficznego Służby Ochrony Państwa
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,26 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-01-30 |
 | Data wydania | 2018-01-31 |
+| Wejście w życie | 2018-02-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000286) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/286/text.pdf) |
 
-Poz. 286 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 30 stycznia 2018 r.
-w sprawie znaku graficznego Służby Ochrony Państwa Na podstawie art. 2 ust. 3 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138) zarządza się, co następuje: § 1. 1. Ustala się znak graficzny Służby Ochrony Państwa, zwany dalej „znakiem”.
-2. Znak stanowi skrót „SOP” ze stylizowaną literą „P”, w której górną część jest wpisany uproszczony wizerunek głowy orła. Znak posiada barwę granatową, a stosunek szerokości do długości znaku wynosi 1:1,5.
-3. Znak może być używany w różnych rozmiarach, z zachowaniem proporcji.
-4. Wzór znaku, o którym mowa w ust. 2, jest określony w załączniku do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 lutego 2018 r.
-Minister Spraw Wewnętrznych i Administracji: J. Brudziński WZÓR ZNAKU GRAFICZNEGO „SŁUŻBY OCHRONY PAŃSTWA”
+Treść rozporządzenia
+Załącznik – Wzór znaku graficznego „Służby Ochrony Państwa”
+Treść rozporządzenia
+Na podstawie art. 2 ust. 3 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138) zarządza się, co następuje:
+§ 1.
+1.
+Ustala się znak graficzny Służby Ochrony Państwa, zwany dalej „znakiem”.
+2.
+Znak stanowi skrót „SOP” ze stylizowaną literą „P”, w której górną część jest wpisany uproszczony wizerunek głowy orła. Znak posiada barwę granatową, a stosunek szerokości do długości znaku wynosi 1:1,5.
+3.
+Znak może być używany w różnych rozmiarach, z zachowaniem proporcji.
+4.
+Wzór znaku, o którym mowa w ust. 2, jest określony w załączniku do rozporządzenia.
+§ 2.
+Rozporządzenie wchodzi w życie z dniem 1 lutego 2018 r.
+1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
+Załącznik – Wzór znaku graficznego „Służby Ochrony Państwa”
+patrz oryginał
 

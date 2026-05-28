@@ -2,8 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 24 lipca 2003 r. o zmianie ustawy - Kodeks karny wykonawczy oraz niektórych innych ustaw*
 
-Łącznie: **3** orzeczeń
-(pominięto 1 orzeczeń sądów rejonowych)
+Łącznie: **1** orzeczeń
 
 ## art. 8 (1)
 
@@ -12,9 +11,4 @@ Orzeczenia powołujące: *Ustawa z dnia 24 lipca 2003 r. o zmianie ustawy - Kode
 ## § 9 ust. 2 (1)
 
 - 2004-07-20 | TK | [SK 31/03](https://www.saos.org.pl/judgments/106772) | Postanowienie ★
-
-## (ogólnie) (2)
-
-- 2013-05-24 | SO | [I ACa 1477/12](https://www.saos.org.pl/judgments/14726) | Wyrok
-- 2012-03-20 | SO | [I ACa 1025/11](https://www.saos.org.pl/judgments/29521) | Wyrok
 

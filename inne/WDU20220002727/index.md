@@ -8,12 +8,10 @@ pos: 2727
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o systemie identyfikacji i rejestracji zwierząt
-
-*USTAWA z dnia 4 listopada 2022 r.*
+# Ustawa z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt
 
 | Pole | Wartość |
 |---|---|
@@ -24,16 +22,70 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-04 |
 | Data wydania | 2022-12-22 |
+| Wejście w życie | 2023-01-06 |
 | Ostatnia zmiana | 2026-05-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002727) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2727/text.pdf) |
-
-Art. 57–63. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
 
+- **1)** właściwość organów w zakresie identyfikacji i rejestracji zwierząt określonym w przepisach: rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/429 z dnia 9 marca 2016 r. w sprawie przenośnych chorób zwierząt oraz zmieniającego i uchylającego niektóre akty w dziedzinie zdrowia zwierząt („Prawo o zdrowiu zwierząt”) (Dz. Urz. UE L 84 z 31.03.2016, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2016/429”, oraz w przepisach wydanych na podstawie rozporządzenia 2016/429 innych niż wymienione w lit. b-d, rozporządzenia delegowanego Komisji (UE) 2019/2035 z dnia 28 czerwca 2019 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/429 w odniesieniu do przepisów dotyczących zakładów utrzymujących zwierzęta lądowe i wylęgarni oraz identyfikowalności niektórych utrzymywanych zwierząt lądowych i jaj wylęgowych (Dz. Urz. UE L 314 z 05.12.2019, str. 115, z późn. zm.), zwanego dalej „rozporządzeniem 2019/2035”, rozporządzenia wykonawczego Komisji (UE) 2021/520 z dnia 24 marca 2021 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/429 w odniesieniu do identyfikowalności niektórych utrzymywanych zwierząt lądowych (Dz. Urz. UE L 104 z 25.03.2021, str. 39, z późn. zm.), zwanego dalej „rozporządzeniem 2021/520”, rozporządzenia wykonawczego Komisji (UE) 2021/963 z dnia 10 czerwca 2021 r. ustanawiającego zasady stosowania rozporządzeń Parlamentu Europejskiego i Rady (UE) 2016/429, (UE) 2016/1012 i (UE) 2019/6 w odniesieniu do identyfikacji i rejestracji koniowatych oraz określającego wzory dokumentów identyfikacyjnych dla tych zwierząt (Dz. Urz. UE L 213 z 16.06.2021, str. 3), zwanego dalej „rozporządzeniem 2021/963”, rozporządzenia delegowanego Komisji (UE) 2021/577 z dnia 29 stycznia 2021 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/6 w odniesieniu do treści i formatu informacji niezbędnych do stosowania art. 112 ust. 4 i art. 115 ust. 5, które mają być zawarte w unikalnym dożywotnim dokumencie identyfikacyjnym, o którym mowa w art. 8 ust. 4 tego rozporządzenia (Dz. Urz. UE L 123 z 09.04.2021, str. 3, z późn. zm.), rozporządzenia wykonawczego Komisji (UE) 2022/160 z dnia 4 lutego 2022 r. ustanawiającego jednolitą minimalną częstotliwość niektórych kontroli urzędowych w celu weryfikacji zgodności z wymaganiami Unii w zakresie zdrowia zwierząt zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2017/625 oraz uchylającego rozporządzenia (WE) nr 1082/2003 i (WE) nr 1505/2006 (Dz. Urz. UE L 26 z 07.02.2022, str. 11), rozporządzenia delegowanego Komisji (UE) 2022/671 z dnia 4 lutego 2022 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2017/625 w odniesieniu do przepisów szczególnych dotyczących kontroli urzędowych przeprowadzanych przez właściwe organy w odniesieniu do zwierząt, produktów pochodzenia zwierzęcego i materiału biologicznego, działań następczych, które ma podjąć właściwy organ w przypadku niezgodności z przepisami dotyczącymi identyfikacji i rejestracji bydła, owiec i kóz lub niezgodności podczas tranzytu przez terytorium Unii niektórych sztuk bydła, oraz uchylającego rozporządzenie Komisji (WE) nr 494/98 (Dz. Urz. UE L 122 z 25.04.2022, str. 17);
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+
+- **2)** sprawy identyfikacji i rejestracji zwierząt w zakresie nieuregulowanym w przepisach wymienionych w pkt 1.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** bydło – bydło lub zwierzę z gatunków bydła w rozumieniu art. 2 pkt 19 rozporządzenia 2019/2035;
+- **2)** cyrk objazdowy – cyrk objazdowy w rozumieniu art. 2 pkt 34 rozporządzenia 2019/2035;
+- **3)** elektroniczny identyfikator – środek identyfikacji, o którym mowa w: lit. c-e załącznika III do rozporządzenia 2019/2035 – w odniesieniu do bydła, lit. e załącznika III do rozporządzenia 2019/2035 – w odniesieniu do wielbłądowatych i jeleniowatych, lit. c-f załącznika III do rozporządzenia 2019/2035 – w odniesieniu do owiec i kóz, lit. c i e załącznika III do rozporządzenia 2019/2035 – w odniesieniu do świń, lit. e załącznika III do rozporządzenia 2019/2035 – w odniesieniu do koniowatych;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **4)** grupa tresowanych zwierząt – grupę zwierząt tresowanych w rozumieniu art. 2 pkt 35 rozporządzenia 2019/2035;
+- **5)** jednostka upoważniona – jednostkę upoważnioną w rozumieniu art. 2 pkt 25 rozporządzenia 2021/963;
+- **6)** jeleniowate – jeleniowate lub zwierzę jeleniowate w rozumieniu art. 2 pkt 32 rozporządzenia 2019/2035;
+- **7)** karta elektroniczna – kartę elektroniczną w rozumieniu art. 2 pkt 19 rozporządzenia 2021/963;
+- **8)** komputerowa baza danych – komputerową bazę danych w rozumieniu art. 2 pkt 25 rozporządzenia 2019/2035;
+- **9)** koniowate – koniowate lub zwierzę koniowate w rozumieniu art. 2 pkt 24 rozporządzenia 2019/2035;
+- **10)** koza – kozę w rozumieniu art. 2 pkt 21 rozporządzenia 2019/2035;
+- **11)** numer identyfikacyjny: kod identyfikacyjny zwierzęcia w rozumieniu art. 2 pkt 18 rozporządzenia 2019/2035 – w odniesieniu do bydła, wielbłądowatych, jeleniowatych, owiec i kóz, numer siedziby stada, w której świnia urodziła się, albo innej siedziby stada, w której świnia przebywała powyżej 30 dni, umożliwiający ustalenie miejsca pochodzenia tej świni – w odniesieniu do świń, niepowtarzalny kod w rozumieniu art. 2 pkt 17 rozporządzenia 2019/2035 – w odniesieniu do koniowatych;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **12)** owca – owcę w rozumieniu art. 2 pkt 20 rozporządzenia 2019/2035;
+- **13)** państwo członkowskie – państwo będące członkiem Unii Europejskiej;
+- **14)** państwo trzecie – państwo niebędące członkiem Unii Europejskiej;
+- **15)** paszport bydła – dokument identyfikacyjny, o którym mowa w art. 112 lit. b rozporządzenia 2016/429;
+- **16)** posiadacz – podmiot w rozumieniu: art. 4 pkt 24 rozporządzenia 2016/429 – w odniesieniu do bydła, wielbłądowatych, jeleniowatych, owiec, kóz i świń, art. 2 pkt 3 rozporządzenia 2021/963 – w odniesieniu do koniowatych z wyłączeniem przewoźnika w rozumieniu art. 4 pkt 25 rozporządzenia 2016/429;
+    - **a)**
+    - **b)**
+
+- **17)** program hodowlany – program hodowlany w rozumieniu art. 2 pkt 26 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/1012 z dnia 8 czerwca 2016 r. w sprawie zootechnicznych i genealogicznych warunków dotyczących hodowli zwierząt hodowlanych czystorasowych i mieszańców świni, handlu nimi i wprowadzania ich na terytorium Unii oraz handlu ich materiałem biologicznym wykorzystywanym do rozrodu i jego wprowadzania na terytorium Unii oraz zmieniającego rozporządzenie (UE) nr 652/2014, dyrektywy Rady 89/608/EWG i 90/425/EWG i uchylającego niektóre akty w dziedzinie hodowli zwierząt („rozporządzenie w sprawie hodowli zwierząt”) (Dz. Urz. UE L 171 z 29.06.2016, str. 66, z późn. zm.), zwanego dalej „rozporządzeniem 2016/1012”;
+- **18)** rzeźnia – rzeźnię w rozumieniu ust. 1 pkt 1.16 załącznika I do rozporządzenia (WE) nr 853/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. ustanawiającego szczególne przepisy dotyczące higieny w odniesieniu do żywności pochodzenia zwierzęcego (Dz. Urz. UE L 139 z 30.04.2004, str. 55, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 14);
+- **19)** siedziba stada – zakład w rozumieniu art. 4 pkt 27 rozporządzenia 2016/429 w odniesieniu do bydła, wielbłądowatych, jeleniowatych, owiec, kóz, świń i koniowatych, z wyłączeniem rzeźni;
+- **20)** spalarnia – spalarnię w rozumieniu pkt 56 załącznika I do rozporządzenia Komisji (UE) nr 142/2011 z dnia 25 lutego 2011 r. w sprawie wykonania rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1069/2009 określającego przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego, nieprzeznaczonych do spożycia przez ludzi, oraz w sprawie wykonania dyrektywy Rady 97/78/WE w odniesieniu do niektórych próbek i przedmiotów zwolnionych z kontroli weterynaryjnych na granicach w myśl tej dyrektywy (Dz. Urz. UE L 54 z 26.02.2011, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 142/2011”;
+- **21)** stado – zwierzę lub grupę zwierząt tego samego gatunku i o tym samym statusie epizootycznym;
+- **22)** status epizootyczny – status zdrowotny w rozumieniu art. 4 pkt 34 rozporządzenia 2016/429;
+- **23)** środek identyfikacji – środek identyfikacji wymieniony w załączniku III do rozporządzenia 2019/2035, z wyłączeniem środka identyfikacji, o którym mowa w lit. h załącznika III do rozporządzenia 2019/2035;
+- **24)** świnia – świnię w rozumieniu art. 2 pkt 22 rozporządzenia 2019/2035;
+- **25)** unikalny dożywotni dokument identyfikacyjny – unikalny dożywotni dokument identyfikacyjny w rozumieniu art. 2 pkt 27 rozporządzenia 2019/2035;
+- **26)** wielbłądowate – wielbłądowate lub zwierzę wielbłądowate w rozumieniu art. 2 pkt 31 rozporządzenia 2019/2035;
+- **27)** właściciel koniowatego – właściciela w rozumieniu art. 2 pkt 4 rozporządzenia 2021/963;
+- **28)** zakład drobiu – zakład w rozumieniu art. 4 pkt 27 rozporządzenia 2016/429 w odniesieniu do ptaków z gatunków: kura (Gallus gallus ), kaczka ( Anas platyrhynchos ), kaczka piżmowa ( Cairina moschata ), gęś ( Anser anser ), gęś garbonosa (Anser cygnoides ), indyk ( Meleagris gallopavo ), przepiórka japońska ( Coturnix japonica ), perlica ( Numida meleagris ) oraz struś ( Struthio camelus ), w tym wylęgarnię w rozumieniu art. 4 pkt 47 rozporządzenia 2016/429;
+- **29)** zakład przetwórczy – zakład przetwórczy w rozumieniu pkt 58 załącznika I do rozporządzenia 142/2011;
+- **30)** związek hodowców – związek hodowców uznany na podstawie rozdziału II sekcji 1 rozporządzenia 2016/1012.
 
 **Art. 3.**
 
@@ -45,7 +97,7 @@ Art. 57–63. (pominięte)
 
 1. Powiatowy lekarz weterynarii jest właściwy w sprawach określonych w:
 
-- **1)** art. 39 ust. 1, art. 47 ust. 1, art. 53, art. 54 ust. 1 i 3 oraz art. 77– 79 rozporządzenia 2019/2035;
+- **1)** art. 39 ust. 1, art. 47 ust. 1, art. 53, art. 54 ust. 1 i 3 oraz art. 77–79 rozporządzenia 2019/2035;
 - **2)** art. 32 ust. 1 i 2, art. 38 ust. 1 lit. b i art. 43 ust. 2 rozporządzenia 2021/963;
 - **3)** art. 6 rozporządzenia wykonawczego Komisji (UE) 2022/160 z dnia 4 lutego 2022 r. ustanawiającego jednolitą minimalną częstotliwość niektórych kontroli urzędowych w celu weryfikacji zgodności z wymaganiami Unii w zakresie zdrowia zwierząt zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2017/625 oraz uchylającego rozporządzenia (WE) nr 1082/2003 i (WE) nr 1505/2006;
 - **4)** art. 5 rozporządzenia delegowanego Komisji (UE) 2022/671 z dnia 4 lutego 2022 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2017/625 w odniesieniu do przepisów szczególnych dotyczących kontroli urzędowych przeprowadzanych przez właściwe organy w odniesieniu do zwierząt, produktów pochodzenia zwierzęcego i materiału biologicznego, działań następczych, które ma podjąć właściwy organ w przypadku niezgodności z przepisami dotyczącymi identyfikacji i rejestracji bydła, owiec i kóz lub niezgodności podczas tranzytu przez terytorium Unii niektórych sztuk bydła, oraz uchylającego rozporządzenie Komisji (WE) nr 494/98.
@@ -53,6 +105,14 @@ Art. 57–63. (pominięte)
 2. Główny Lekarz Weterynarii jest punktem kontaktowym, o którym mowa w art. 28 ust. 2 rozporządzenia 2021/963.
 
 **Art. 5.** Minister właściwy do spraw rolnictwa:
+
+- **1)** jest właściwy do: sporządzenia wzorów, o których mowa w art. 110 ust. 1 lit. c rozporządzenia 2016/429; wzory te udostępnia się na stronie internetowej urzędu obsługującego ministra właściwego do spraw rolnictwa, przekazywania i podawania do publicznej wiadomości informacji, o których mowa w art. 111 rozporządzenia 2016/429;
+    - **a)**
+    - **b)**
+
+- **2)** opracowuje i aktualizuje wykaz, o którym mowa w art. 4 ust. 1 rozporządzenia 2021/963, oraz udostępnia go i podaje do publicznej wiadomości zgodnie z tym przepisem;
+- **3)** udostępnia i podaje do publicznej wiadomości dane punktu kontaktowego, o którym mowa w art. 28 ust. 2 rozporządzenia 2021/963, zgodnie z art. 28 ust. 3 rozporządzenia 2021/963;
+- **4)** określa i podaje do publicznej wiadomości populacje, o których mowa w art. 60 ust. 1 rozporządzenia 2019/2035, oraz przekazuje Komisji Europejskiej zawiadomienie, o którym mowa w art. 60 ust. 2 rozporządzenia 2019/2035.
 
 **Art. 6.**
 
@@ -63,7 +123,10 @@ Art. 57–63. (pominięte)
 
 2. Ilekroć w ustawie jest mowa o związku hodowców koniowatych rozumie się przez to również jednostkę upoważnioną.
 
-**Art. 7.** Licencję, o której mowa w art. 92 ust. 2 lit. b rozporządzenia delegowanego Komisji (UE) 2020/688 z dnia 17 grudnia 2019 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/429 w odniesieniu do wymagań w zakresie zdrowia zwierząt dotyczących przemieszczania zwierząt lądowych i jaj wylęgowych w obrębie terytorium Unii (Dz. Urz. UE L 174 z 03.06.2020, str. 140, z późn. zm. ), zwanego dalej „rozporządzeniem 2020/688”, wydaje:
+**Art. 7.** Licencję, o której mowa w art. 92 ust. 2 lit. b rozporządzenia delegowanego Komisji (UE) 2020/688 z dnia 17 grudnia 2019 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/429 w odniesieniu do wymagań w zakresie zdrowia zwierząt dotyczących przemieszczania zwierząt lądowych i jaj wylęgowych w obrębie terytorium Unii (Dz. Urz. UE L 174 z 03.06.2020, str. 140, z późn. zm.), zwanego dalej „rozporządzeniem 2020/688”, wydaje:
+
+- **1)** Polski Klub Wyścigów Konnych – dla koni wyścigowych;
+- **2)** krajowa federacja zrzeszona w Międzynarodowej Federacji Jeździeckiej (FEI) – dla koni sportowych innych niż konie wyścigowe.
 
 **Art. 8.** Koszty związane z oznakowaniem środkiem identyfikacji bydła, wielbłądowatego, jeleniowatego, owcy, kozy i świni ponosi posiadacz, a koszty związane z identyfikacją koniowatego oraz wydaniem unikalnego dożywotniego dokumentu identyfikacyjnego ponosi właściciel koniowatego albo posiadacz koniowatego będący podmiotem, o którym mowa w art. 3 ust. 1 rozporządzenia 2021/963.
 
@@ -82,7 +145,7 @@ Art. 57–63. (pominięte)
 2. Komputerowa baza danych jest:
 
 - **1)** prowadzona w systemie teleinformatycznym Agencji;
-- **2)** rejestrem publicznym w rozumieniu art. 3 pkt 5 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703 oraz z 2026 r. poz. 160).
+- **2)** rejestrem publicznym w rozumieniu art. 3 pkt 5 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070 oraz z 2022 r. poz. 1087).
 
 3. Informacje, w tym dane osobowe, zawarte w komputerowej bazie danych są przetwarzane w celach określonych w art. 108 ust. 4 lit. a i b oraz ust. 5 lit. a rozporządzenia 2016/429.
 
@@ -90,81 +153,81 @@ Art. 57–63. (pominięte)
 
 1. Komputerowa baza danych oprócz informacji, o których mowa w art. 109 ust. 1 rozporządzenia 2016/429, art. 42, art. 49, art. 56 i art. 64 rozporządzenia 2019/2035, zawiera informacje ułatwiające identyfikowalność, o której mowa w art. 108 ust. 4 lit. b rozporządzenia 2016/429, w tym w odniesieniu do:
 
-- **1)** bydła:
-    - **a)** numer identyfikacyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (numer PESEL) i numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (numer REGON) posiadacza, o ile zostały nadane,
-    - **b)** datę urodzenia bydła,
-    - **c)** datę unieszkodliwienia zwłok bydła,
-    - **d)** opis systemu utrzymywania bydła w siedzibie stada;
+- **1)** bydła: numer identyfikacyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (numer PESEL) i numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (numer REGON) posiadacza, o ile zostały nadane, datę urodzenia bydła, datę unieszkodliwienia zwłok bydła, opis systemu utrzymywania bydła w siedzibie stada;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
-- **2)** wielbłądowatych i jeleniowatych:
-    - **a)** imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres posiadacza oraz jego numer PESEL i numer REGON, o ile zostały nadane,
-    - **b)** indywidualne dane identyfikacyjne wielbłądowatego i jeleniowatego,
-    - **c)** datę urodzenia wielbłądowatego i jeleniowatego,
-    - **d)** dotyczące siedziby stada, w której wielbłądowate i jeleniowate są utrzymywane,
-    - **e)** dotyczące przemieszczeń wielbłądowatego i jeleniowatego do siedzib stad i z siedzib stad lub do rzeźni lub ich zwłok do zakładu przetwórczego i spalarni,
-    - **f)** datę padnięcia, zabicia lub uboju wielbłądowatego i jeleniowatego,
-    - **g)** datę unieszkodliwienia zwłok wielbłądowatego i jeleniowatego;
+- **2)** wielbłądowatych i jeleniowatych: imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres posiadacza oraz jego numer PESEL i numer REGON, o ile zostały nadane, indywidualne dane identyfikacyjne wielbłądowatego i jeleniowatego, datę urodzenia wielbłądowatego i jeleniowatego, dotyczące siedziby stada, w której wielbłądowate i jeleniowate są utrzymywane, dotyczące przemieszczeń wielbłądowatego i jeleniowatego do siedzib stad i z siedzib stad lub do rzeźni lub ich zwłok do zakładu przetwórczego i spalarni, datę padnięcia, zabicia lub uboju wielbłądowatego i jeleniowatego, datę unieszkodliwienia zwłok wielbłądowatego i jeleniowatego;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
 
-- **3)** owiec i kóz:
-    - **a)** numer PESEL i numer REGON posiadacza, o ile zostały nadane,
-    - **b)** indywidualne dane identyfikacyjne owcy i kozy,
-    - **c)** datę urodzenia owcy i kozy,
-    - **d)** dotyczące przemieszczeń owcy i kozy do siedzib stad i z siedzib stad lub do rzeźni lub ich zwłok do zakładu przetwórczego i spalarni,
-    - **e)** datę padnięcia, zabicia lub uboju owcy i kozy,
-    - **f)** datę unieszkodliwienia zwłok owcy i kozy,
-    - **g)** opis systemu utrzymywania owiec i kóz w siedzibie stada;
+- **3)** owiec i kóz: numer PESEL i numer REGON posiadacza, o ile zostały nadane, indywidualne dane identyfikacyjne owcy i kozy, datę urodzenia owcy i kozy, dotyczące przemieszczeń owcy i kozy do siedzib stad i z siedzib stad lub do rzeźni lub ich zwłok do zakładu przetwórczego i spalarni, datę padnięcia, zabicia lub uboju owcy i kozy, datę unieszkodliwienia zwłok owcy i kozy, opis systemu utrzymywania owiec i kóz w siedzibie stada;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
 
-- **4)** świń:
-    - **a)** numer PESEL i numer REGON posiadacza, o ile zostały nadane,
-    - **b)** datę urodzenia świń,
-    - **c)** datę padnięcia, zabicia lub uboju świń,
-    - **d)** datę unieszkodliwienia zwłok świń,
-    - **e)** opis modelu produkcji oraz systemu utrzymywania świń w siedzibie stada,
-    - **f)** indywidualny numer identyfikacyjny lochy, o ile został nadany;
+- **4)** świń: numer PESEL i numer REGON posiadacza, o ile zostały nadane, datę urodzenia świń, datę padnięcia, zabicia lub uboju świń, datę unieszkodliwienia zwłok świń, opis modelu produkcji oraz systemu utrzymywania świń w siedzibie stada, indywidualny numer identyfikacyjny lochy, o ile został nadany;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
 
-- **5)** koniowatych:
-    - **a)** imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres właściciela koniowatego lub posiadacza koniowatego będącego podmiotem, o którym mowa w art. 3 ust. 1 rozporządzenia 2021/963, oraz ich numery PESEL i numery REGON, o ile zostały nadane,
-    - **b)** imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres posiadacza oraz jego numer PESEL i numer REGON, o ile zostały nadane,
-    - **c)** datę przemieszczenia i nazwę państwa, z którego koniowate jest przemieszczane, oraz numer świadectwa zdrowia, jeżeli przepisy rozporządzenia 2016/429 wymagają, aby przy przemieszczeniu koniowatego towarzyszyło mu świadectwo zdrowia,
-    - **d)** datę unieszkodliwienia zwłok koniowatego,
-    - **e)** informację, czy koniowate jest czy nie jest przeznaczone do uboju w celu spożycia przez ludzi,
-    - **f)** kod, o którym mowa w ust. 1 w części 1 załącznika I do rozporządzenia 2021/963,
-    - **g)** Uniwersalny Dożywotni Numer Konia (UELN) w rozumieniu art. 2 pkt 18 rozporządzenia 2021/963, o ile został nadany,
-    - **h)** informację o znaku zatwierdzenia, o którym mowa w art. 32 ust. 1 rozporządzenia 2021/963, o ile został wydany,
-    - **i)** informację o licencji, o której mowa w art. 33 ust. 1 rozporządzenia 2021/963, o ile została wydana,
-    - **j)** opis systemu utrzymywania koniowatych w siedzibie stada.
+- **5)** koniowatych: imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres właściciela koniowatego lub posiadacza koniowatego będącego podmiotem, o którym mowa w art. 3 ust. 1 rozporządzenia 2021/963, oraz ich numery PESEL i numery REGON, o ile zostały nadane, imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres posiadacza oraz jego numer PESEL i numer REGON, o ile zostały nadane, datę przemieszczenia i nazwę państwa, z którego koniowate jest przemieszczane, oraz numer świadectwa zdrowia, jeżeli przepisy rozporządzenia 2016/429 wymagają, aby przy przemieszczeniu koniowatego towarzyszyło mu świadectwo zdrowia, datę unieszkodliwienia zwłok koniowatego, informację, czy koniowate jest czy nie jest przeznaczone do uboju w celu spożycia przez ludzi, kod, o którym mowa w ust. 1 w części 1 załącznika I do rozporządzenia 2021/963, Uniwersalny Dożywotni Numer Konia (UELN) w rozumieniu art. 2 pkt 18 rozporządzenia 2021/963, o ile został nadany, informację o znaku zatwierdzenia, o którym mowa w art. 32 ust. 1 rozporządzenia 2021/963, o ile został wydany, informację o licencji, o której mowa w art. 33 ust. 1 rozporządzenia 2021/963, o ile została wydana, opis systemu utrzymywania koniowatych w siedzibie stada.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
 
 2. Komputerowa baza danych zawiera również informacje dotyczące:
 
-- **1)** zakładu drobiu, w tym:
-    - **a)** numer nadany zakładowi drobiu na podstawie art. 15 ust. 1,
-    - **b)** datę rejestracji albo zatwierdzenia zakładu drobiu oraz weterynaryjny numer identyfikacyjny nadany zakładowi drobiu,
-    - **c)** imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres podmiotu prowadzącego zakład drobiu oraz jego numer PESEL i numer REGON, o ile zostały nadane,
-    - **d)** adres i współrzędne geograficzne (szerokość i długość geograficzną) miejsca położenia zakładu drobiu,
-    - **e)** opis obiektów zakładu drobiu,
-    - **f)** rodzaj zakładu drobiu,
-    - **g)** gatunki, kategorie oraz liczbę ptaków lub jaj wylęgowych odpowiednio utrzymywanych lub przetrzymywanych w zakładzie drobiu,
-    - **h)** okres, w którym ptaki lub jaja wylęgowe są odpowiednio utrzymywane lub przetrzymywane w zakładzie drobiu,
-    - **i)** status epizootyczny zakładu drobiu, jeżeli został nadany,
-    - **j)** ograniczeń, o których mowa w art. 18 lit. j rozporządzenia 2019/2035, jeżeli organy Inspekcji Weterynaryjnej wprowadziły takie ograniczenia w odniesieniu do danego zakładu drobiu,
-    - **k)** datę zaprzestania prowadzenia działalności w zakładzie drobiu,
-    - **l)** opis systemu utrzymywania drobiu w zakładzie drobiu;
+- **1)** zakładu drobiu, w tym: numer nadany zakładowi drobiu na podstawie art. 15 ust. 1, datę rejestracji albo zatwierdzenia zakładu drobiu oraz weterynaryjny numer identyfikacyjny nadany zakładowi drobiu, imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres podmiotu prowadzącego zakład drobiu oraz jego numer PESEL i numer REGON, o ile zostały nadane, adres i współrzędne geograficzne (szerokość i długość geograficzną) miejsca położenia zakładu drobiu, opis obiektów zakładu drobiu, rodzaj zakładu drobiu, gatunki, kategorie oraz liczbę ptaków lub jaj wylęgowych odpowiednio utrzymywanych lub przetrzymywanych w zakładzie drobiu, okres, w którym ptaki lub jaja wylęgowe są odpowiednio utrzymywane lub przetrzymywane w zakładzie drobiu, status epizootyczny zakładu drobiu, jeżeli został nadany, ograniczeń, o których mowa w art. 18 lit. j rozporządzenia 2019/2035, jeżeli organy Inspekcji Weterynaryjnej wprowadziły takie ograniczenia w odniesieniu do danego zakładu drobiu, datę zaprzestania prowadzenia działalności w zakładzie drobiu, opis systemu utrzymywania drobiu w zakładzie drobiu;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
+    - **k)**
+    - **l)**
 
-- **2)** rzeźni, w tym:
-    - **a)** numer nadany rzeźni na podstawie art. 15 ust. 1,
-    - **b)** datę zatwierdzenia rzeźni oraz weterynaryjny numer identyfikacyjny nadany rzeźni,
-    - **c)** imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres podmiotu prowadzącego rzeźnię oraz jego numer PESEL i numer REGON, o ile zostały nadane,
-    - **d)** adres i współrzędne geograficzne (szerokość i długość geograficzną) miejsca położenia rzeźni,
-    - **e)** gatunki, kategorie, liczbę i numery identyfikacyjne zwierząt poddanych ubojowi w rzeźni,
-    - **f)** datę zaprzestania prowadzenia działalności w rzeźni;
+- **2)** rzeźni, w tym: numer nadany rzeźni na podstawie art. 15 ust. 1, datę zatwierdzenia rzeźni oraz weterynaryjny numer identyfikacyjny nadany rzeźni, imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres podmiotu prowadzącego rzeźnię oraz jego numer PESEL i numer REGON, o ile zostały nadane, adres i współrzędne geograficzne (szerokość i długość geograficzną) miejsca położenia rzeźni, gatunki, kategorie, liczbę i numery identyfikacyjne zwierząt poddanych ubojowi w rzeźni, datę zaprzestania prowadzenia działalności w rzeźni;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
 
-- **3)** zakładu przetwórczego i spalarni, w tym:
-    - **a)** numery nadane zakładowi przetwórczemu i spalarni na podstawie art. 15 ust. 1,
-    - **b)** datę rejestracji albo zatwierdzenia zakładu przetwórczego i spalarni oraz weterynaryjne numery identyfikacyjne nadane zakładowi przetwórczemu i spalarni,
-    - **c)** imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres podmiotu prowadzącego zakład przetwórczy i spalarnię oraz jego numer PESEL i numer REGON, o ile zostały nadane,
-    - **d)** adres i współrzędne geograficzne (szerokość i długość geograficzną) miejsca położenia zakładu przetwórczego i spalarni,
-    - **e)** gatunki, kategorie, liczbę i numery identyfikacyjne zwierząt, których zwłoki zostały poddane unieszkodliwieniu w zakładzie przetwórczym i spalarni,
-    - **f)** datę zaprzestania prowadzenia działalności w zakładzie przetwórczym i spalarni.
+- **3)** zakładu przetwórczego i spalarni, w tym: numery nadane zakładowi przetwórczemu i spalarni na podstawie art. 15 ust. 1, datę rejestracji albo zatwierdzenia zakładu przetwórczego i spalarni oraz weterynaryjne numery identyfikacyjne nadane zakładowi przetwórczemu i spalarni, imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres podmiotu prowadzącego zakład przetwórczy i spalarnię oraz jego numer PESEL i numer REGON, o ile zostały nadane, adres i współrzędne geograficzne (szerokość i długość geograficzną) miejsca położenia zakładu przetwórczego i spalarni, gatunki, kategorie, liczbę i numery identyfikacyjne zwierząt, których zwłoki zostały poddane unieszkodliwieniu w zakładzie przetwórczym i spalarni, datę zaprzestania prowadzenia działalności w zakładzie przetwórczym i spalarni.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
 
 3. Jeżeli posiadaczem, właścicielem koniowatego lub podmiotem prowadzącym zakład drobiu, rzeźnię, zakład przetwórczy lub spalarnię jest osoba fizyczna nieposiadająca numeru PESEL, komputerowa baza danych zamiast numeru PESEL zawiera kod kraju i numer paszportu lub innego dokumentu stwierdzającego tożsamość tej osoby.
 
@@ -175,8 +238,8 @@ Art. 57–63. (pominięte)
 - **1)** siedziby stada usuwa się z komputerowej bazy danych po upływie 5 lat od dnia zaprzestania utrzymywania zwierząt w danej siedzibie stada, jeżeli w odniesieniu do zwierząt, które były utrzymywane w tej siedzibie stada, jest zapewniona identyfikowalność, o której mowa w art. 108 ust. 4 lit. b rozporządzenia 2016/429;
 - **2)** świń usuwa się z komputerowej bazy danych po upływie 5 lat od dnia zgłoszenia do komputerowej bazy danych ostatniego zdarzenia dotyczącego świń utrzymywanych w danej siedzibie stada, jeżeli w odniesieniu do tych świń jest zapewniona identyfikowalność, o której mowa w art. 108 ust. 4 lit. b rozporządzenia 2016/429;
 - **3)** bydła, owiec, kóz, wielbłądowatych, jeleniowatych i koniowatych, których data śmierci została zgłoszona do komputerowej bazy danych, usuwa się z komputerowej bazy danych po upływie 5 lat od daty śmierci tych zwierząt, jeżeli w odniesieniu do tych zwierząt jest zapewniona identyfikowalność, o której mowa w art. 108 ust. 4 lit. b rozporządzenia 2016/429;
-- **4)** bydła, owiec, kóz, wielbłądowatych i jeleniowatych przemieszczonych bez wskazania w zgłoszeniu do komputerowej bazy danych numeru siedziby stada, do której te zwierzęta zostały przemieszczone, usuwa się z komputerowej bazy danych po upływie 5 lat od zgłoszonej daty ich przemieszczenia, jednak niewcześniej niż po upływie 20 lat od dnia urodzenia danego zwierzęcia;
-- **5)** koniowatych przemieszczonych bez wskazania w zgłoszeniu do komputerowej bazy danych numeru siedziby stada, do której koniowate zostało przemieszczone, usuwa się z komputerowej bazy danych po upływie 5 lat od zgłoszonej daty ich przemieszczenia, jednak niewcześniej niż po upływie 30 lat od dnia urodzenia danego koniowatego.
+- **4)** bydła, owiec, kóz, wielbłądowatych i jeleniowatych przemieszczonych bez wskazania w zgłoszeniu do komputerowej bazy danych numeru siedziby stada, do której te zwierzęta zostały przemieszczone, usuwa się z komputerowej bazy danych po upływie 5 lat od zgłoszonej daty ich przemieszczenia, jednak nie wcześniej niż po upływie 20 lat od dnia urodzenia danego zwierzęcia;
+- **5)** koniowatych przemieszczonych bez wskazania w zgłoszeniu do komputerowej bazy danych numeru siedziby stada, do której koniowate zostało przemieszczone, usuwa się z komputerowej bazy danych po upływie 5 lat od zgłoszonej daty ich przemieszczenia, jednak nie wcześniej niż po upływie 30 lat od dnia urodzenia danego koniowatego.
 
 2. Przepisu ust. 1 nie stosuje się do rzeźni oraz siedzib stad, w których:
 
@@ -195,30 +258,16 @@ Art. 57–63. (pominięte)
 
 1. Agencja zapewnia organom Inspekcji Weterynaryjnej dostęp do komputerowej bazy danych oraz umożliwia edycję w komputerowej bazie danych informacji dotyczącej przeznaczenia koniowatego do uboju w celu spożycia przez ludzi oraz informacji o statusie epizootycznym.
 
-1a. Agencja:
-
-- **1)** zapewnia lekarzom weterynarii, o których mowa w art. 16 ust. 1 pkt 1 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2024 r. poz. 12 oraz z 2025 r. poz. 1795), dostęp do komputerowej bazy danych i umożliwia tym lekarzom edycję informacji zawartych w zgłoszeniu zamiaru przemieszczenia świni;
-- **2)** umożliwia organom Inspekcji Weterynaryjnej edycję informacji zawartych w zgłoszeniu zamiaru przemieszczenia świni;
-- **3)** zapewnia osobom, które uzyskały prawo wykonywania zawodu lekarza weterynarii zgodnie z art. 2 ust. 1 i 2 ustawy z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych (Dz. U. z 2026 r. poz. 125), dostęp do komputerowej bazy danych na zasadach określonych w art. 7 ust. 5, art. 41 ust. 2 lit. b i art. 42 ust. 6 lit. b rozporządzenia 2021/963.
-
-1b. Główny Lekarz Weterynarii przekazuje Agencji listę lekarzy weterynarii określonych w ust. 1a pkt 1.
-
-1c. Krajowa Izba Lekarsko-Weterynaryjna na wniosek Agencji potwierdza, że osoby określone w ust. 1a pkt 3 uzyskały prawo wykonywania zawodu lekarza weterynarii zgodnie z art. 2 ust. 1 i 2 ustawy z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych.
-
-1d. Agencja umożliwia organom Krajowej Izby Lekarsko-Weterynaryjnej dokonanie potwierdzenia, o którym mowa w ust. 1c, w systemie teleinformatycznym Agencji, w którym jest prowadzona komputerowa baza danych.
-
-1e. Szczegółowe warunki i sposób współpracy Agencji z Głównym Lekarzem Weterynarii i Krajową Izbą Lekarsko-Weterynaryjną w zakresie zapewnienia lekarzom weterynarii i osobom określonym w ust. 1a pkt 1 i 3 dostępu do komputerowej bazy danych określa porozumienie zawarte między Prezesem Agencji, Głównym Lekarzem Weterynarii i Krajową Izbą Lekarsko-Weterynaryjną.
-
 2. Agencja zapewnia:
 
-- **1)** posiadaczowi:
-    - **a)** wielbłądowatego,
-    - **b)** jeleniowatego,
+- **1)** posiadaczowi: wielbłądowatego, jeleniowatego,
+    - **a)**
+    - **b)**
 
-- **2)** podmiotowi prowadzącemu:
-    - **a)** zakład drobiu,
-    - **b)** zakład przetwórczy,
-    - **c)** spalarnię – dostęp do komputerowej bazy danych na zasadach określonych w odniesieniu do posiadaczy bydła, owiec, kóz i świń w art. 4 rozporządzenia 2021/520.
+- **2)** podmiotowi prowadzącemu: zakład drobiu, zakład przetwórczy, spalarnię dostęp do komputerowej bazy danych na zasadach określonych w odniesieniu do posiadaczy bydła, owiec, kóz i świń w art. 4 rozporządzenia 2021/520.
+    - **a)**
+    - **b)**
+    - **c)**
 
 3. Jeżeli istnieją rozbieżności między informacjami zawartymi w komputerowej bazie danych a stanem faktycznym, posiadacz, właściciel koniowatego, który nie jest posiadaczem koniowatego, podmiot prowadzący zakład drobiu, zakład przetwórczy i spalarnię zgłaszają te rozbieżności, składając wniosek o aktualizację informacji w komputerowej bazie danych, a Agencja niezwłocznie dokonuje aktualizacji tych informacji w komputerowej bazie danych. Wniosek składa się niezwłocznie po ustaleniu istnienia rozbieżności.
 
@@ -226,7 +275,7 @@ Art. 57–63. (pominięte)
 
 - **1)** instytutu badawczego,
 - **2)** związku hodowców lub przedsiębiorstwa hodowlanego uznanych zgodnie z art. 4 rozporządzenia 2016/1012 lub
-- **3)** związku hodowców lub innego podmiotu posiadających zezwolenie wydane na podstawie art. 10 albo art. 13 ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 36 oraz z 2025 r. poz. 1795) – jeżeli te informacje będą wykorzystywane do celów naukowych, statystycznych lub hodowlanych.
+- **3)** związku hodowców lub innego podmiotu posiadających zezwolenie wydane na podstawie art. 10 albo art. 13 ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 36) jeżeli te informacje będą wykorzystywane do celów naukowych, statystycznych lub hodowlanych.
 
 5. Dostęp do komputerowej bazy danych, o którym mowa w ust. 1 i 2, oraz udostępnianie informacji, o których mowa w ust. 4, są nieodpłatne.
 
@@ -244,11 +293,11 @@ Art. 57–63. (pominięte)
 - **4)** prowadzi się cyrk objazdowy,
 - **5)** prowadzi się grupę tresowanych zwierząt,
 - **6)** prowadzi się obrót zwierzętami, pośrednictwo w tym obrocie lub skup zwierząt,
-- **7)** dokonuje się uboju zwierząt pochodzących z innych siedzib stada w celu produkcji mięsa na użytek własny – tej siedzibie stada w odniesieniu do każdej z tych działalności nadaje się odrębny numer.
+- **7)** dokonuje się uboju zwierząt pochodzących z innych siedzib stada w celu produkcji mięsa na użytek własny tej siedzibie stada w odniesieniu do każdej z tych działalności nadaje się odrębny numer.
 
 3. Wniosek, o którym mowa w ust. 1, zawiera informacje ułatwiające identyfikowalność, o której mowa w art. 108 ust. 4 lit. b rozporządzenia 2016/429, w tym:
 
-- **1)** numer identyfikacyjny, o którym mowa w art. 12 ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. z 2025 r. poz. 865 i 1700), zwany dalej „numerem EP”, nadany wnioskodawcy;
+- **1)** numer identyfikacyjny, o którym mowa w art. 12 ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. z 2022 r. poz. 2001 i 2727), nadany wnioskodawcy;
 - **2)** typ działalności spośród działalności wymienionych w ust. 2;
 - **3)** imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres wnioskodawcy oraz numer PESEL i numer REGON, o ile zostały nadane, a w przypadku gdy wnioskodawca będący osobą fizyczną nie posiada numeru PESEL – kod kraju i numer paszportu lub innego dokumentu stwierdzającego tożsamość wnioskodawcy;
 - **4)** numery, o których mowa w ust. 1 i 2, o ile zostały nadane;
@@ -259,27 +308,27 @@ Art. 57–63. (pominięte)
 
 4. Wniosek, o którym mowa w ust. 1, składa się w odniesieniu do:
 
-- **1)** siedziby stada – niepóźniej niż w dniu wprowadzenia pierwszego zwierzęcia do siedziby stada, z tym że jeżeli w siedzibie stada:
-    - **a)** prowadzi się miejsce gromadzenia zwierząt,
-    - **b)** organizuje się targi, wystawy, pokazy lub konkursy zwierząt,
-    - **c)** prowadzi się cyrk objazdowy,
-    - **d)** prowadzi się grupę tresowanych zwierząt,
-    - **e)** prowadzi się obrót zwierzętami, pośrednictwo w tym obrocie lub skup zwierząt,
-    - **f)** dokonuje się uboju zwierząt pochodzących z innych siedzib stada w celu produkcji mięsa na użytek własny – w terminie 14 dni od dnia rejestracji siedziby stada na podstawie art. 93 rozporządzenia 2016/429 lub zatwierdzenia siedziby stada na podstawie art. 97 ust. 1 rozporządzenia 2016/429, lecz niepóźniej niż w dniu wprowadzenia pierwszego zwierzęcia do tej siedziby stada;
+- **1)** siedziby stada – nie później niż w dniu wprowadzenia pierwszego zwierzęcia do siedziby stada, z tym że jeżeli w siedzibie stada: prowadzi się miejsce gromadzenia zwierząt, organizuje się targi, wystawy, pokazy lub konkursy zwierząt, prowadzi się cyrk objazdowy, prowadzi się grupę tresowanych zwierząt, prowadzi się obrót zwierzętami, pośrednictwo w tym obrocie lub skup zwierząt, dokonuje się uboju zwierząt pochodzących z innych siedzib stada w celu produkcji mięsa na użytek własny w terminie 14 dni od dnia rejestracji siedziby stada na podstawie art. 93 rozporządzenia 2016/429 lub zatwierdzenia siedziby stada na podstawie art. 97 ust. 1 rozporządzenia 2016/429, lecz nie później niż w dniu wprowadzenia pierwszego zwierzęcia do tej siedziby stada;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
 
-- **2)** rzeźni – w terminie 14 dni od dnia zatwierdzenia rzeźni zgodnie z rozporządzeniem (WE) nr 853/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. ustanawiającym szczególne przepisy dotyczące higieny w odniesieniu do żywności pochodzenia zwierzęcego, lecz niepóźniej niż w dniu poddania ubojowi pierwszego zwierzęcia w rzeźni;
-- **3)** zakładu drobiu – w terminie 14 dni od dnia rejestracji zakładu drobiu na podstawie art. 93 rozporządzenia 2016/429 lub zatwierdzenia zakładu drobiu na podstawie art. 97 ust. 1 rozporządzenia 2016/429, lecz niepóźniej niż w dniu wprowadzenia do zakładu drobiu pierwszego ptaka lub jaja;
-- **4)** zakładu przetwórczego i spalarni – w terminie 14 dni od dnia zatwierdzenia zgodnie z rozporządzeniem 142/2011, lecz niepóźniej niż w dniu pierwszego unieszkodliwienia zwłok zwierzęcia w zakładzie przetwórczym lub spalarni.
+- **2)** rzeźni – w terminie 14 dni od dnia zatwierdzenia rzeźni zgodnie z rozporządzeniem (WE) nr 853/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. ustanawiającym szczególne przepisy dotyczące higieny w odniesieniu do żywności pochodzenia zwierzęcego, lecz nie później niż w dniu poddania ubojowi pierwszego zwierzęcia w rzeźni;
+- **3)** zakładu drobiu – w terminie 14 dni od dnia rejestracji zakładu drobiu na podstawie art. 93 rozporządzenia 2016/429 lub zatwierdzenia zakładu drobiu na podstawie art. 97 ust. 1 rozporządzenia 2016/429, lecz nie później niż w dniu wprowadzenia do zakładu drobiu pierwszego ptaka lub jaja;
+- **4)** zakładu przetwórczego i spalarni – w terminie 14 dni od dnia zatwierdzenia zgodnie z rozporządzeniem 142/2011, lecz nie później niż w dniu pierwszego unieszkodliwienia zwłok zwierzęcia w zakładzie przetwórczym lub spalarni.
 
 5. Numer, o którym mowa w ust. 1 i 2, składa się z:
 
 - **1)** liter „PL”;
-- **2)** dziewięciu cyfr będących numerem EP nadanym wnioskodawcy;
+- **2)** dziewięciu cyfr będących numerem identyfikacyjnym, o którym mowa w art. 12 ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, nadanym wnioskodawcy;
 - **3)** trzech cyfr oznaczających kolejny numer siedziby stada albo numer rzeźni, albo numer zakładu drobiu, albo numer zakładu przetwórczego lub spalarni.
 
 6. Kierownik biura wydaje posiadaczowi, podmiotowi prowadzącemu rzeźnię, podmiotowi prowadzącemu zakład drobiu oraz podmiotowi prowadzącemu zakład przetwórczy lub spalarnię zaświadczenie o nadanym numerze, o którym mowa w ust. 1 i 2, w terminie 7 dni od dnia otrzymania wniosku, o którym mowa w ust. 1.
 
-7. Kierownik biura odmawia, w drodze decyzji, nadania numeru, o którym mowa w ust. 1, jeżeli wnioskodawcy nie został nadany numer EP.
+7. Kierownik biura odmawia, w drodze decyzji, nadania numeru, o którym mowa w ust. 1, jeżeli wnioskodawcy nie został nadany numer identyfikacyjny, o którym mowa w art. 12 ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności.
 
 #### Rozdział 4 Środki identyfikacji, kolczyki zawierające indywidualne numery identyfikacyjne loch i karty elektroniczne
 
@@ -293,10 +342,10 @@ Art. 57–63. (pominięte)
 
 1. Wpis na listę dostawców następuje po:
 
-- **1)** złożeniu przez dostawcę do Prezesa Agencji wniosku o wpis na listę dostawców na formularzu opracowanym przez Agencję, do którego dołącza się:
-    - **a)** wyniki badań wykonanych przez niezależne od dostawcy laboratorium badawcze, stwierdzających, że dostarczane środki identyfikacji będą zgodne ze specyfikacją techniczną określoną odpowiednio w przepisach wydanych na podstawie art. 20 lub w załączniku II do rozporządzenia 2021/520, lub w załączniku I do rozporządzenia 2021/963, a w przypadku środków identyfikacji, o których mowa w lit. c–f załącznika III do rozporządzenia 2019/2035 – również dokument wystawiony przez ośrodek badań akredytowany zgodnie z normą ISO/IEC 17025 „Ogólne wymagania dotyczące kompetencji laboratoriów badawczych i wzorcujących”, stwierdzający, że dostarczane środki identyfikacji, o których mowa w lit. c–f załącznika III do rozporządzenia 2019/2035, będą zgodne ze specyfikacją techniczną określoną odpowiednio w załączniku II do rozporządzenia 2021/520 lub w załączniku I do rozporządzenia 2021/963 lub
-    - **b)** dokument wystawiony przez niezależne od dostawcy laboratorium badawcze, stwierdzający, że dostarczana karta elektroniczna będzie zgodna ze specyfikacją techniczną określoną w załączniku III do rozporządzenia 2021/963, lub
-    - **c)** wyniki badań wykonanych przez niezależne od dostawcy laboratorium badawcze, stwierdzających, że dostarczany kolczyk zawierający indywidualny numer identyfikacyjny lochy będzie zgodny ze specyfikacją techniczną określoną w przepisach wydanych na podstawie art. 24 ust. 8;
+- **1)** złożeniu przez dostawcę do Prezesa Agencji wniosku o wpis na listę dostawców na formularzu opracowanym przez Agencję, do którego dołącza się: wyniki badań wykonanych przez niezależne od dostawcy laboratorium badawcze, stwierdzających, że dostarczane środki identyfikacji będą zgodne ze specyfikacją techniczną określoną odpowiednio w przepisach wydanych na podstawie art. 20 lub w załączniku II do rozporządzenia 2021/520, lub w załączniku I do rozporządzenia 2021/963, a w przypadku środków identyfikacji, o których mowa w lit. c-f załącznika III do rozporządzenia 2019/2035 – również dokument wystawiony przez ośrodek badań akredytowany zgodnie z normą ISO/IEC 17025 „Ogólne wymagania dotyczące kompetencji laboratoriów badawczych i wzorcujących”, stwierdzający, że dostarczane środki identyfikacji, o których mowa w lit. c-f załącznika III do rozporządzenia 2019/2035, będą zgodne ze specyfikacją techniczną określoną odpowiednio w załączniku II do rozporządzenia 2021/520 lub w załączniku I do rozporządzenia 2021/963 lub dokument wystawiony przez niezależne od dostawcy laboratorium badawcze, stwierdzający, że dostarczana karta elektroniczna będzie zgodna ze specyfikacją techniczną określoną w załączniku III do rozporządzenia 2021/963, lub wyniki badań wykonanych przez niezależne od dostawcy laboratorium badawcze, stwierdzających, że dostarczany kolczyk zawierający indywidualny numer identyfikacyjny lochy będzie zgodny ze specyfikacją techniczną określoną w przepisach wydanych na podstawie art. 24 ust. 8;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **2)** zawarciu z dostawcą umowy o dostarczanie środków identyfikacji, kolczyków zawierających indywidualne numery identyfikacyjne loch lub kart elektronicznych, zwanej dalej „umową z dostawcą”.
 
@@ -318,6 +367,11 @@ Art. 57–63. (pominięte)
 
 **Art. 18.** Umowa z dostawcą jest zawierana przez Agencję i zawiera co najmniej:
 
+- **1)** okres jej obowiązywania oraz sposób rozwiązania;
+- **2)** zobowiązanie do: terminowego dostarczania środków identyfikacji lub kolczyków zawierających indywidualne numery identyfikacyjne loch zgodnych ze specyfikacją techniczną określoną odpowiednio w przepisach wydanych na podstawie art. 20 lub art. 24 ust. 8, lub w załączniku II do rozporządzenia 2021/520, lub w załączniku I do rozporządzenia 2021/963, lub kart elektronicznych zgodnych ze specyfikacją techniczną określoną w załączniku III do rozporządzenia 2021/963, objętych wnioskiem, o którym mowa w art. 17 ust. 2, składania Prezesowi Agencji raportów dotyczących dostarczonych środków identyfikacji, kolczyków zawierających indywidualne numery identyfikacyjne loch oraz kart elektronicznych.
+    - **a)**
+    - **b)**
+
 **Art. 19.**
 
 1. Prezes Agencji niezwłocznie rozwiązuje umowę z dostawcą i skreśla dostawcę z listy dostawców, w przypadku gdy ten dostawca:
@@ -329,7 +383,7 @@ Art. 57–63. (pominięte)
 
 2. Jeżeli przyczyną rozwiązania umowy z dostawcą są naruszenia określone w ust. 1 pkt 2, dostawca ten zwraca Agencji koszty wykonania badań przez laboratorium badawcze.
 
-**Art. 20.** Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, wzory środków identyfikacji oraz szczegółową specyfikację techniczną środków identyfikacji, o których mowa w lit. a–c oraz f załącznika III do rozporządzenia 2019/2035, mając na względzie cele określone w art. 108 ust. 4 lit. a i b oraz ust. 5 lit. a rozporządzenia 2016/429.
+**Art. 20.** Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, wzory środków identyfikacji oraz szczegółową specyfikację techniczną środków identyfikacji, o których mowa w lit. a-c oraz f załącznika III do rozporządzenia 2019/2035, mając na względzie cele określone w art. 108 ust. 4 lit. a i b oraz ust. 5 lit. a rozporządzenia 2016/429.
 
 **Art. 21.**
 
@@ -357,33 +411,25 @@ Art. 57–63. (pominięte)
 
 **Art. 23.** W odniesieniu do zwierzęcia, które zostało poddane ubojowi, zabite lub padło, środek identyfikacji, którym zostało oznakowane to zwierzę, niszczy się pod nadzorem urzędowego lekarza weterynarii w sposób uniemożliwiający jego powtórne wykorzystanie, z tym że zniszczenia środka identyfikacji w przypadku:
 
+- **1)** uboju zwierzęcia – dokonuje podmiot prowadzący rzeźnię;
+- **2)** zabicia lub padnięcia zwierzęcia – dokonuje podmiot prowadzący zakład przetwórczy lub spalarnię, który unieszkodliwił zwłoki tego zwierzęcia;
+- **3)** uboju zwierzęcia na terenie gospodarstwa w celu produkcji mięsa na użytek własny – dokonuje posiadacz lub podmiot, w którego siedzibie stada dokonuje się uboju zwierząt pochodzących z innych siedzib stada w celu produkcji mięsa na użytek własny.
+
 **Art. 24.**
 
-1. Posiadacz owcy pochodzącej od owcy objętej wnioskiem o przyznanie pomocy finansowej w ramach działania, o którym mowa w art. 3 ust. 1 pkt 12a ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2023 r. poz. 2298), zwanej dalej „ustawą o PROW 2014–2020”, na potrzeby realizacji tego działania oznakowuje i zgłasza tę owcę do komputerowej bazy danych przed opuszczeniem przez nią siedziby stada, w której się urodziła, niepóźniej jednak niż w terminie 30 dni od dnia jej urodzenia.
+1. Posiadacz owcy pochodzącej od owcy objętej wnioskiem o przyznanie pomocy finansowej w ramach działania, o którym mowa w art. 3 ust. 1 pkt 12a ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2022 r. poz. 2422, 2433 i 2727), zwanej dalej „ustawą o PROW 2014–2020”, na potrzeby realizacji tego działania oznakowuje i zgłasza tę owcę do komputerowej bazy danych przed opuszczeniem przez nią siedziby stada, w której się urodziła, nie później jednak niż w terminie 30 dni od dnia jej urodzenia.
 
 2. Posiadacz owcy pochodzącej od owcy objętej po dniu urodzenia tej owcy wnioskiem o przyznanie pomocy finansowej w ramach działania, o którym mowa w art. 3 ust. 1 pkt 12a ustawy o PROW 2014–2020, na potrzeby realizacji tego działania oznakowuje i zgłasza tę owcę do komputerowej bazy danych w terminie 30 dni od dnia objęcia owcy, od której ona pochodzi, wnioskiem o przyznanie pomocy finansowej w ramach działania, o którym mowa w art. 3 ust. 1 pkt 12a ustawy o PROW 2014–2020, z tym że oznakowanie i zgłoszenie tej owcy nie może nastąpić później niż 180 dni od dnia urodzenia owcy, której dotyczy zgłoszenie, lub przed opuszczeniem przez tę owcę siedziby stada, w której się urodziła.
-
-2a. Posiadacz owcy lub kozy pochodzącej odpowiednio od owcy lub kozy objętej wnioskiem o przyznanie pomocy finansowej w ramach płatności dobrostanowej, o której mowa w art. 30 pkt 6 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. z 2024 r. poz. 1741, z 2025 r. poz. 321 oraz z 2026 r. poz. 305), zwanej dalej „ustawą o PS”, na potrzeby otrzymania tej płatności oznakowuje i zgłasza odpowiednio tę owcę lub kozę do komputerowej bazy danych przed opuszczeniem przez nią siedziby stada, w której się urodziła, niepóźniej jednak niż w terminie 30 dni od dnia jej urodzenia.
-
-2b. Posiadacz owcy lub kozy pochodzącej odpowiednio od owcy lub kozy objętej po dniu urodzenia odpowiednio tej owcy lub kozy wnioskiem o przyznanie pomocy finansowej w ramach płatności dobrostanowej, o której mowa w art. 30 pkt 6 ustawy o PS, na potrzeby otrzymania tej płatności oznakowuje i zgłasza odpowiednio tę owcę lub kozę do komputerowej bazy danych w terminie 30 dni od dnia objęcia odpowiednio owcy lub kozy, od której ona pochodzi, wnioskiem o przyznanie pomocy finansowej w ramach płatności dobrostanowej, o której mowa w art. 30 pkt 6 ustawy o PS, z tym że oznakowanie i zgłoszenie odpowiednio tej owcy lub kozy nie może nastąpić później niż 180 dni od dnia urodzenia odpowiednio owcy lub kozy, której dotyczy zgłoszenie, lub przed opuszczeniem przez odpowiednio tę owcę lub kozę siedziby stada, w której się urodziła.
 
 3. Posiadacz lochy na potrzeby realizacji działania, o którym mowa w art. 3 ust. 1 pkt 12a ustawy o PROW 2014–2020, oznakowuje ją dodatkowo przez założenie na małżowinę uszną kolczyka zawierającego indywidualny numer identyfikacyjny lochy.
 
 4. W przypadku utraty przez lochę kolczyka zawierającego indywidualny numer identyfikacyjny lochy lub uszkodzenia tego kolczyka w sposób uniemożliwiający identyfikację lochy posiadacz lochy realizujący działanie, o którym mowa w art. 3 ust. 1 pkt 12a ustawy o PROW 2014–2020, oznakowuje tę lochę kolczykiem zawierającym inny indywidualny numer identyfikacyjny lochy.
 
-4a. Posiadacz lochy na potrzeby otrzymania płatności dobrostanowej, o której mowa w art. 30 pkt 6 ustawy o PS, oznakowuje ją dodatkowo przez założenie na małżowinę uszną kolczyka zawierającego indywidualny numer identyfikacyjny lochy.
-
-4b. W przypadku utraty przez lochę kolczyka zawierającego indywidualny numer identyfikacyjny lochy lub uszkodzenia tego kolczyka w sposób uniemożliwiający identyfikację lochy posiadacz lochy na potrzeby otrzymania płatności dobrostanowej, o której mowa w art. 30 pkt 6 ustawy o PS, oznakowuje tę lochę kolczykiem zawierającym inny indywidualny numer identyfikacyjny lochy.
-
 5. Do kolczyka zawierającego indywidualny numer identyfikacyjny lochy przepisy art. 8 i art. 23 stosuje się odpowiednio.
 
 6. Posiadacz lochy, która została oznakowana kolczykiem zawierającym indywidualny numer identyfikacyjny lochy, realizujący działanie, o którym mowa w art. 3 ust. 1 pkt 12a ustawy o PROW 2014–2020, zgłasza do komputerowej bazy danych oznakowanie, przemieszczenie do siedziby stada lub z siedziby stada, ubój, zabicie lub padnięcie tej lochy w terminie 7 dni od dnia wystąpienia danego zdarzenia.
 
-7. W przypadku zagrożenia wystąpieniem lub wystąpienia choroby kategorii A w rozumieniu art. 1 pkt 1 rozporządzenia wykonawczego Komisji (UE) 2018/1882 z dnia 3 grudnia 2018 r. w sprawie stosowania niektórych przepisów dotyczących zapobiegania chorobom oraz ich zwalczania do kategorii chorób umieszczonych w wykazie oraz ustanawiającego wykaz gatunków i grup gatunków, z którymi wiąże się znaczne ryzyko rozprzestrzeniania się chorób umieszczonych w tym wykazie (Dz. Urz. UE L 308 z 04.12.2018, str. 21, z późn. zm. ), zwanego dalej „rozporządzeniem 2018/1882”, i określenia obszaru objętego ograniczeniami ustanowionego zgodnie z przepisami rozporządzenia 2016/429 i z przepisami Unii Europejskiej wydanymi na podstawie rozporządzenia 2016/429 posiadacz lochy, która została oznakowana kolczykiem zawierającym indywidualny numer identyfikacyjny lochy, realizujący działanie, o którym mowa w art. 3 ust. 1 pkt 12a ustawy o PROW 2014–2020, zgłasza do komputerowej bazy danych informacje o zdarzeniach, o których mowa w ust. 6, w terminie 2 dni od dnia wystąpienia danego zdarzenia.
-
-7a. Posiadacz lochy, która została oznakowana kolczykiem zawierającym indywidualny numer identyfikacyjny lochy na potrzeby otrzymania płatności dobrostanowej, o której mowa w art. 30 pkt 6 ustawy o PS, zgłasza do komputerowej bazy danych oznakowanie, przemieszczenie do siedziby stada lub z siedziby stada, ubój, zabicie lub padnięcie tej lochy w terminie 7 dni od dnia wystąpienia danego zdarzenia.
-
-7b. W przypadku zagrożenia wystąpieniem lub wystąpienia choroby kategorii A w rozumieniu art. 1 pkt 1 rozporządzenia 2018/1882 i określenia obszaru objętego ograniczeniami ustanowionego zgodnie z przepisami rozporządzenia 2016/429 i z przepisami Unii Europejskiej wydanymi na podstawie rozporządzenia 2016/429 posiadacz lochy, która została oznakowana kolczykiem zawierającym indywidualny numer identyfikacyjny lochy na potrzeby otrzymania płatności dobrostanowej, o której mowa w art. 30 pkt 6 ustawy o PS, zgłasza do komputerowej bazy danych informacje o zdarzeniach, o których mowa w ust. 7a, w terminie 2 dni od dnia wystąpienia danego zdarzenia.
+7. W przypadku zagrożenia wystąpieniem lub wystąpienia choroby zakaźnej zwierząt podlegającej obowiązkowi zwalczania i określenia obszaru zapowietrzonego, obszaru zagrożonego lub innego obszaru objętego ograniczeniami, ustanowionego zgodnie z przepisami rozporządzenia 2016/429 oraz przepisami Unii Europejskiej wydanymi na podstawie rozporządzenia 2016/429, posiadacz lochy, która została oznakowana kolczykiem zawierającym indywidualny numer identyfikacyjny lochy, realizujący działanie, o którym mowa w art. 3 ust. 1 pkt 12a ustawy o PROW 2014–2020, zgłasza do komputerowej bazy danych informacje o zdarzeniach, o których mowa w ust. 6, w terminie 2 dni od dnia wystąpienia danego zdarzenia.
 
 8. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, sposób oznakowania loch kolczykami zawierającymi indywidualne numery identyfikacyjne loch, w tym wzór tych kolczyków oraz ich specyfikację techniczną, mając na względzie ochronę zdrowia loch i zapewnienie trwałości informacji umieszczonych na tych kolczykach.
 
@@ -393,16 +439,16 @@ Art. 57–63. (pominięte)
 
 1. Termin, o którym mowa w:
 
-- **1)** art. 13:
-    - **a)** ust. 1 rozporządzenia 2021/520 – wynosi 7 dni,
-    - **b)** ust. 2 rozporządzenia 2021/520 – wynosi 60 dni;
+- **1)** art. 13: ust. 1 rozporządzenia 2021/520 – wynosi 7 dni, ust. 2 rozporządzenia 2021/520 – wynosi 60 dni;
+    - **a)**
+    - **b)**
 
 - **2)** art. 14 ust. 1 rozporządzenia 2021/520 – wynosi 180 dni;
 - **3)** art. 15 ust. 1 rozporządzenia 2021/520 – wynosi 37 dni;
 - **4)** art. 16 ust. 1 rozporządzenia 2021/520 – wynosi 9 miesięcy, z tym że termin ten nie ma zastosowania w odniesieniu do jeleniowatego, o którym mowa w art. 16 ust. 4 rozporządzenia 2021/520, które podlega identyfikacji przed opuszczeniem siedziby stada;
 - **5)** art. 21 ust. 1 rozporządzenia 2021/963 – wynosi 12 miesięcy, z tym że termin ten nie ma zastosowania w odniesieniu do koniowatego, o którym mowa w art. 60 ust. 1 rozporządzenia 2019/2035, które podlega identyfikacji przed opuszczeniem obszaru parku narodowego albo parku krajobrazowego.
 
-2. W przypadku gdy świnia została przemieszczona do siedziby stada innej niż siedziba stada, w której się urodziła, i przebywa w tej siedzibie stada dłużej niż 30 dni, posiadacz świni niezwłocznie, jednak niepóźniej niż przed opuszczeniem przez tę świnię tej siedziby stada, dodatkowo oznakowuje tę świnię numerem identyfikacyjnym zgodnym z numerem siedziby stada, w której ta świnia przebywa dłużej niż 30 dni.
+2. W przypadku gdy świnia została przemieszczona do siedziby stada innej niż siedziba stada, w której się urodziła, i przebywa w tej siedzibie stada dłużej niż 30 dni, posiadacz świni niezwłocznie, jednak nie później niż przed opuszczeniem przez tę świnię tej siedziby stada, dodatkowo oznakowuje tę świnię numerem identyfikacyjnym zgodnym z numerem siedziby stada, w której ta świnia przebywa dłużej niż 30 dni.
 
 **Art. 26.**
 
@@ -412,9 +458,12 @@ Art. 57–63. (pominięte)
 
 3. Posiadacz koniowatego może dokonać zgłoszenia do komputerowej bazy danych informacji, o których mowa w ust. 1, dotyczących koniowatych za pośrednictwem związku hodowców koniowatych, z tym że w takim przypadku do zgłoszenia do komputerowej bazy danych ten posiadacz dołącza kopię oświadczenia o skorzystaniu z pośrednictwa tego związku hodowców.
 
-4. Właściciel koniowatego przekazuje posiadaczowi koniowatego lub posiadaczowi koniowatego będącemu podmiotem, o którym mowa w art. 3 ust. 1 rozporządzenia 2021/963, informacje, których obowiązek zgłoszenia do komputerowej bazy danych wynika z przepisów wymienionych w art. 1 pkt 1 lit. a, b, d oraz e lub z przepisów ustawy.
-
 **Art. 27.** Informacje dotyczące urodzenia:
+
+- **1)** wielbłądowatego i jeleniowatego zgłasza się do komputerowej bazy danych w terminie określonym w art. 25 ust. 1 pkt 4, lecz nie później niż przed opuszczeniem siedziby stada, w której się urodziły;
+- **2)** owcy i kozy zgłasza się do komputerowej bazy danych w terminie określonym w art. 25 ust. 1 pkt 2, lecz nie później niż przed opuszczeniem siedziby stada, w której się urodziły;
+- **3)** świni zgłasza się do komputerowej bazy danych w terminie określonym w art. 25 ust. 1 pkt 3, lecz nie później niż przed opuszczeniem siedziby stada, w której się urodziła;
+- **4)** koniowatego zgłasza się do komputerowej bazy danych w terminie 3 miesięcy od dnia urodzenia, a w przypadku, o którym mowa w art. 42 ust. 3 – w terminie określonym w tym przepisie.
 
 **Art. 28.**
 
@@ -428,46 +477,15 @@ Art. 57–63. (pominięte)
 
 2. Kierownik biura wydaje bezpłatnie posiadaczowi bydła paszport bydła w terminie 3 dni od dnia otrzymania informacji, o której mowa w ust. 1.
 
-3. Posiadacz bydła odbiera paszport bydła osobiście, chyba że w informacji, o której mowa w ust. 1, złoży kierownikowi biura oświadczenie, w którym wyrazi zgodę na doręczenie mu paszportu bydła za pośrednictwem placówki pocztowej operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456) przesyłką poleconą za potwierdzeniem odbioru lub wyrazi zgodę na udostępnienie paszportu bydła w systemie teleinformatycznym Agencji, w którym jest prowadzona komputerowa baza danych.
+3. Posiadacz bydła odbiera paszport bydła osobiście, chyba że w informacji, o której mowa w ust. 1, złoży kierownikowi biura oświadczenie, w którym wyrazi zgodę na doręczenie mu paszportu bydła za pośrednictwem placówki pocztowej operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2022 r. poz. 896, 1933 i 2042) przesyłką poleconą za potwierdzeniem odbioru lub wyrazi zgodę na udostępnienie paszportu bydła w systemie teleinformatycznym Agencji, w którym jest prowadzona komputerowa baza danych.
 
 4. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, wzór paszportu bydła, mając na względzie cele określone w art. 108 ust. 4 lit. a i b oraz ust. 5 lit. a rozporządzenia 2016/429.
 
-**Art. 29a.**
-
-1. Posiadacz świni może zgłosić za pomocą systemu teleinformatycznego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa powiatowemu lekarzowi weterynarii lub lekarzowi weterynarii, o którym mowa w art. 16 ust. 1 pkt 1 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej, właściwym ze względu na miejsce położenia siedziby stada posiadacza świni zamiar przemieszczenia tej świni do innej siedziby stada lub do rzeźni w terminie 4 dni przed planowanym dniem jej przemieszczenia.
-
-2. Zgłoszenia, o którym mowa w ust. 1, dokonuje się wyłącznie w odniesieniu do przemieszczenia świni do innej siedziby stada lub do rzeźni położonych na terytorium Rzeczypospolitej Polskiej.
-
-3. Do zgłoszenia, o którym mowa w ust. 1, przepisów art. 74 nie stosuje się.
-
-4. Agencja przekazuje za pomocą systemu teleinformatycznego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa informację o zgłoszeniu, o którym mowa w ust. 1, powiatowemu lekarzowi weterynarii lub lekarzowi weterynarii, o którym mowa w art. 16 ust. 1 pkt 1 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej, właściwym ze względu na miejsce położenia siedziby stada posiadacza świni.
-
-5. Jeżeli wymagania, o których mowa w art. 143 ust. 2 akapit drugi rozporządzenia 2016/429 i w rozporządzeniu wykonawczym Komisji (UE) 2023/594 z dnia 16 marca 2023 r. ustanawiającym środki szczególne w zakresie zwalczania chorób w odniesieniu do afrykańskiego pomoru świń i uchylającym rozporządzenie wykonawcze (UE) 2021/605 (Dz. Urz. UE L 79 z 17.03.2023, str. 65, z późn. zm. ), są spełnione, powiatowy lekarz weterynarii lub lekarz weterynarii, o którym mowa w art. 16 ust. 1 pkt 1 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej, za pomocą systemu teleinformatycznego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa informują o możliwości przemieszczenia świni:
-
-- **1)** posiadacza świni, który zgłosił zamiar jej przemieszczenia, a jeżeli te wymagania nie są spełnione – informują tego posiadacza, że tej świni nie można przemieścić;
-- **2)** podmiot, który prowadzi obrót zwierzętami, pośrednictwo w tym obrocie lub skup zwierząt i którego siedziba stada będzie pośredniczyć w przemieszczeniu tej świni;
-- **3)** podmiot, do którego siedziby stada albo do którego rzeźni ta świnia ma zostać przemieszczona;
-- **4)** powiatowego lekarza weterynarii lub lekarza weterynarii, o którym mowa w art. 16 ust. 1 pkt 1 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej, właściwych ze względu na miejsce przeznaczenia tej świni.
-
-6. Świnię, której zamiar przemieszczenia został zgłoszony zgodnie z ust. 1, przemieszcza się do innej siedziby stada lub do rzeźni w terminie 48 godzin od daty i godziny zamieszczenia informacji o możliwości przemieszczenia tej świni zarejestrowanej w komputerowej bazie danych, o ile badanie, o którym mowa w art. 15 ust. 1 lit. b rozporządzenia wykonawczego Komisji (UE) 2023/594 z dnia 16 marca 2023 r. ustanawiającego środki szczególne w zakresie zwalczania chorób w odniesieniu do afrykańskiego pomoru świń oraz uchylającego rozporządzenie wykonawcze (UE) 2021/605, było konieczne. Przepisów art. 26 ust. 1 i art. 30 nie stosuje się.
-
-7. Świnię, której zamiar przemieszczenia został zgłoszony zgodnie z ust. 1, przemieszcza się do innej siedziby stada lub do rzeźni w terminie 2 dni od dnia przekazania informacji, o której mowa w ust. 5 pkt 1, o ile badanie określone w ust. 6 nie było konieczne. Przepisów art. 26 ust. 1 i art. 30 nie stosuje się.
-
-8. Posiadacz świni niezwłocznie, jednak niepóźniej niż w terminie określonym odpowiednio w ust. 6 lub 7, zgłasza za pomocą systemu teleinformatycznego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa przemieszczenie tej świni do innej siedziby stada lub do rzeźni. Przepisów art. 26 ust. 1 i art. 30 nie stosuje się.
-
-9. Posiadacz świni lub podmiot prowadzący rzeźnię, do których odpowiednio siedziby stada lub do rzeźni została przemieszczona świnia objęta zgłoszeniem, o którym mowa w ust. 1, niezwłocznie, jednak niepóźniej niż w terminie 2 dni od dnia przemieszczenia tej świni, potwierdzają za pomocą systemu teleinformatycznego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa przemieszczenie tej świni do tej siedziby stada lub tej rzeźni.
-
-10. Jeżeli powiatowy lekarz weterynarii lub lekarz weterynarii, o którym mowa w art. 16 ust. 1 pkt 1 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej, przekażą informację o braku możliwości przemieszczenia świni, zgłoszenie, o którym mowa w ust. 1, uznaje się za bezskuteczne.
-
-11. W sytuacjach wyjątkowych, które nie wynikają z przyczyn leżących odpowiednio po stronie dokonującego zgłoszenia, o którym mowa w ust. 1, lub po stronie Agencji, a które to sytuacje uniemożliwiają złożenie, przyjęcie lub przetworzenie tego zgłoszenia oraz przekazanie informacji o możliwości przemieszczenia świni lub braku tej możliwości, to zgłoszenie uznaje się za bezskuteczne. Przepisu art. 45 ust. 1 pkt 2 nie stosuje się.
-
-**Art. 30.** W przypadku zagrożenia wystąpieniem lub wystąpienia choroby kategorii A w rozumieniu art. 1 pkt 1 rozporządzenia 2018/1882 i określenia obszaru objętego ograniczeniami ustanowionego zgodnie z przepisami rozporządzenia 2016/429 i z przepisami Unii Europejskiej wydanymi na podstawie rozporządzenia 2016/429 informacje o zdarzeniach dotyczących świń, z wyłączeniem urodzenia, zgłasza się do komputerowej bazy danych w terminie 2 dni od dnia wystąpienia danego zdarzenia.
-
-**Art. 30a.** W przypadku zagrożenia wystąpieniem lub wystąpienia choroby kategorii A w rozumieniu art. 1 pkt 1 rozporządzenia 2018/1882 i określenia obszaru objętego ograniczeniami ustanowionego zgodnie z przepisami rozporządzenia 2016/429 i z przepisami Unii Europejskiej wydanymi na podstawie rozporządzenia 2016/429 minister właściwy do spraw rolnictwa może określić, w drodze rozporządzenia, terminy dokonywania zgłoszeń do komputerowej bazy danych informacji o zdarzeniach dotyczących bydła, jeleniowatych, koniowatych, kóz, owiec lub wielbłądowatych inne niż termin określony w art. 26 ust. 1, mając na względzie zapewnienie bezpieczeństwa epizootycznego i zapobieganie zagrożeniom dla zdrowia publicznego wynikającym z występowania chorób oraz ograniczenie lub eliminowanie takich zagrożeń.
+**Art. 30.** W przypadku zagrożenia wystąpieniem lub wystąpienia choroby zakaźnej zwierząt podlegającej obowiązkowi zwalczania i określenia obszaru zapowietrzonego, obszaru zagrożonego lub innego obszaru objętego ograniczeniami, ustanowionego zgodnie z przepisami rozporządzenia 2016/429 oraz przepisami Unii Europejskiej wydanymi na podstawie rozporządzenia 2016/429, informacje o zdarzeniach dotyczących świń, z wyłączeniem urodzenia, zgłasza się do komputerowej bazy danych w terminie 2 dni od dnia wystąpienia danego zdarzenia.
 
 **Art. 31.**
 
-1. Posiadacz świni dokonuje spisu świń przebywających w siedzibie stada, obejmującego liczbę świń oraz opis stosowanego modelu produkcji i systemu utrzymywania świń, co najmniej raz na sześć miesięcy, niepóźniej jednak niż w dniu 30 czerwca oraz w dniu 31 grudnia danego roku.
+1. Posiadacz świni dokonuje spisu świń przebywających w siedzibie stada, obejmującego liczbę świń oraz opis stosowanego modelu produkcji i systemu utrzymywania świń, co najmniej raz na sześć miesięcy, nie później jednak niż w dniu 30 czerwca oraz w dniu 31 grudnia danego roku.
 
 2. Posiadacz świni zgłasza do komputerowej bazy danych informacje objęte spisem, o którym mowa w ust. 1, w terminie 7 dni od dnia dokonania tego spisu.
 
@@ -479,7 +497,7 @@ Art. 57–63. (pominięte)
 
 3. Oświadczenie, o którym mowa w ust. 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-4. W przypadku koniowatego, o którym mowa w art. 60 ust. 1 rozporządzenia 2019/2035, zgłoszenia, o którym mowa w ust. 1, dokonuje dyrektor parku narodowego albo dyrektor parku krajobrazowego niepóźniej niż 150 dni przed planowanym dniem opuszczenia przez koniowatego obszaru parku narodowego albo parku krajobrazowego.
+4. W przypadku koniowatego, o którym mowa w art. 60 ust. 1 rozporządzenia 2019/2035, zgłoszenia, o którym mowa w ust. 1, dokonuje dyrektor parku narodowego albo dyrektor parku krajobrazowego nie później niż 150 dni przed planowanym dniem opuszczenia przez koniowatego obszaru parku narodowego albo parku krajobrazowego.
 
 5. Agencja przekazuje związkowi hodowców koniowatych informację o zgłoszeniu do komputerowej bazy danych urodzenia koniowatego wraz z wnioskiem o wydanie unikalnego dożywotniego dokumentu identyfikacyjnego w terminie 2 dni od dnia wprowadzenia do komputerowej bazy danych informacji zawartych w tym zgłoszeniu.
 
@@ -491,11 +509,11 @@ Art. 57–63. (pominięte)
 
 2. Czynności związane z identyfikacją koniowatego są wykonywane przez lekarza weterynarii lub osobę, o których mowa w art. 13 ust. 1 rozporządzenia 2021/963, którzy zawarli ze związkiem hodowców koniowatych pisemną umowę dotyczącą wykonywania tych czynności.
 
-3. Przed wykonaniem czynności związanych z identyfikacją koniowatego, które jest zwierzęciem hodowlanym czystorasowym w rozumieniu art. 2 pkt 9 rozporządzenia 2016/1012 osoba wykonująca te czynności odbiera od właściciela koniowatego albo od posiadacza koniowatego będącego podmiotem, o którym mowa w art. 3 ust. 1 rozporządzenia 2021/963, zaświadczenie o wykonaniu sztucznego unasienniania albo świadectwo pokrycia klaczy, która jest matką identyfikowanego koniowatego, lub zaświadczenie o przeniesieniu zarodka wydane na podstawie przepisów o organizacji hodowli i rozrodzie zwierząt gospodarskich, lub wynik badania markerów genetycznych potwierdzających pochodzenie koniowatego, o ile dopuszcza to program hodowlany danej rasy, sprawdza poprawność tych dokumentów i dołącza je do dokumentacji dotyczącej unikalnego dożywotniego dokumentu identyfikacyjnego.
+3. Przed wykonaniem czynności związanych z identyfikacją koniowatego osoba wykonująca te czynności odbiera od właściciela koniowatego albo od posiadacza koniowatego będącego podmiotem, o którym mowa w art. 3 ust. 1 rozporządzenia 2021/963, zaświadczenie o wykonaniu sztucznego unasienniania albo świadectwo pokrycia klaczy, która jest matką identyfikowanego koniowatego, lub zaświadczenie o przeniesieniu zarodka wydane na podstawie przepisów o organizacji hodowli i rozrodzie zwierząt gospodarskich, lub wynik badania markerów genetycznych potwierdzających pochodzenie koniowatego, o ile dopuszcza to program hodowlany danej rasy, sprawdza poprawność tych dokumentów i dołącza je do dokumentacji dotyczącej unikalnego dożywotniego dokumentu identyfikacyjnego.
 
 4. Przy wykonywaniu czynności związanych z identyfikacją koniowatego właściciel koniowatego albo posiadacz koniowatego będący podmiotem, o którym mowa w art. 3 ust. 1 rozporządzenia 2021/963, udziela osobie wykonującej te czynności niezbędnej pomocy.
 
-5. Jeżeli właściciel koniowatego albo posiadacz koniowatego będący podmiotem, o którym mowa w art. 3 ust. 1 rozporządzenia 2021/963, nie udziela osobie wykonującej czynności związane z identyfikacją koniowatego niezbędnej pomocy przy wykonywaniu tych czynności, odstępuje się od ich wykonania. O odstąpieniu od wykonania czynności związanych z identyfikacją koniowatego osoba wykonująca te czynności informuje niezwłocznie powiatowego lekarza weterynarii właściwego ze względu na miejsce położenia siedziby stada, w której są wykonywane te czynności.
+5. Jeżeli dokumenty wskazane w ust. 3 nie zostały przekazane osobie wykonującej czynności związane z identyfikacją koniowatego lub dokumenty te nie są poprawne, lub właściciel koniowatego albo posiadacz koniowatego będący podmiotem, o którym mowa w art. 3 ust. 1 rozporządzenia 2021/963, nie udziela osobie wykonującej te czynności niezbędnej pomocy przy ich wykonywaniu, odstępuje się od wykonania tych czynności. O odstąpieniu od wykonania czynności związanych z identyfikacją koniowatego osoba wykonująca te czynności informuje niezwłocznie powiatowego lekarza weterynarii właściwego ze względu na miejsce położenia siedziby stada, w której są wykonywane te czynności.
 
 6. W odniesieniu do koni rasy trakeńskiej dopuszcza się stosowanie alternatywnej metody identyfikacji, o której mowa w art. 59 ust. 1 lit. b rozporządzenia 2019/2035.
 
@@ -511,7 +529,7 @@ Art. 57–63. (pominięte)
 
 **Art. 35.**
 
-1. Związek hodowców koniowatych dokonuje zgłoszenia do komputerowej bazy danych informacji dotyczących unikalnego dożywotniego dokumentu identyfikacyjnego, tymczasowego dokumentu identyfikacyjnego, o którym mowa w art. 24 ust. 1 rozporządzenia 2021/963, duplikatu, o którym mowa w art. 25 ust. 1 rozporządzenia 2021/963, oraz zastępczego unikalnego dożywotniego dokumentu identyfikacyjnego, o którym mowa w art. 26 ust. 1 rozporządzenia 2021/963, w terminie 7 dni od dnia wydania odpowiednio unikalnego dożywotniego dokumentu identyfikacyjnego, tymczasowego dokumentu identyfikacyjnego, o którym mowa w art. 24 ust. 1 rozporządzenia 2021/963, duplikatu, o którym mowa w art. 25 ust. 1 rozporządzenia 2021/963, oraz zastępczego unikalnego dożywotniego dokumentu identyfikacyjnego, o którym mowa w art. 26 ust. 1 rozporządzenia 2021/963.
+1. Związek hodowców koniowatych dokonuje zgłoszenia do komputerowej bazy danych informacji dotyczących unikalnego dożywotniego dokumentu identyfikacyjnego, tymczasowego dokumentu identyfikacyjnego, o którym mowa w art. 24 ust. 1 rozporządzenia 2021/963, duplikatu, o którym mowa w art. 25 ust. 1 rozporządzenia 2021/963, oraz zastępczego unikalnego dożywotniego dokumentu identyfikacyjnego, o którym mowa w art. 26 ust. 1 rozporządzenia 2021/963, w terminie 2 dni od dnia wydania odpowiednio unikalnego dożywotniego dokumentu identyfikacyjnego, tymczasowego dokumentu identyfikacyjnego, o którym mowa w art. 24 ust. 1 rozporządzenia 2021/963, duplikatu, o którym mowa w art. 25 ust. 1 rozporządzenia 2021/963, oraz zastępczego unikalnego dożywotniego dokumentu identyfikacyjnego, o którym mowa w art. 26 ust. 1 rozporządzenia 2021/963.
 
 2. W przypadku, o którym mowa w art. 41 ust. 1 rozporządzenia 2021/963, związek hodowców koniowatych zgłasza do komputerowej bazy danych informację, czy koniowate jest czy nie jest przeznaczone do uboju w celu spożycia przez ludzi, w terminie 2 dni od dnia pozyskania tej informacji, chyba że posiadacz koniowatego zgłosił do komputerowej bazy danych tę informację zgodnie z tym przepisem.
 
@@ -523,7 +541,7 @@ Art. 57–63. (pominięte)
 
 3. Agencja przekazuje związkowi hodowców koniowatych, który wydał unikalny dożywotni dokument identyfikacyjny, informację o śmierci koniowatego w terminie 2 dni od dnia pozyskania tej informacji.
 
-4. W przypadku gdy unikalny dożywotni dokument identyfikacyjny został wydany przez związek hodowców koniowatych działający na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego, podmiot prowadzący rzeźnię, zakład przetwórczy lub spalarnię zgłasza do komputerowej bazy danych informację o śmierci koniowatego niepóźniej niż w terminie 7 dni od dnia odpowiednio uboju z konieczności albo zabicia z nakazu powiatowego lekarza weterynarii, albo śmierci koniowatego w innych okolicznościach.
+4. W przypadku gdy unikalny dożywotni dokument identyfikacyjny został wydany przez związek hodowców koniowatych działający na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego, podmiot prowadzący rzeźnię, zakład przetwórczy lub spalarnię zgłasza do komputerowej bazy danych informację o śmierci koniowatego nie później niż w terminie 7 dni od dnia odpowiednio uboju z konieczności albo zabicia z nakazu powiatowego lekarza weterynarii, albo śmierci koniowatego w innych okolicznościach.
 
 5. W przypadku uboju z konieczności albo zabicia z nakazu powiatowego lekarza weterynarii, albo śmierci koniowatego w innych okolicznościach podmiot prowadzący rzeźnię, zakład przetwórczy lub spalarnię:
 
@@ -544,7 +562,7 @@ Art. 57–63. (pominięte)
 
 **Art. 39.**
 
-1. W przypadku gdy w wyniku kontroli, o których mowa w art. 48 ust. 2 pkt 1 i ust. 3 lub art. 49 ust. 1, lub kontroli, o których mowa w art. 116 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/625 z dnia 15 marca 2017 r. w sprawie kontroli urzędowych i innych czynności urzędowych przeprowadzanych w celu zapewnienia stosowania prawa żywnościowego i paszowego oraz zasad dotyczących zdrowia i dobrostanu zwierząt, zdrowia roślin i środków ochrony roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001, (WE) nr 396/2005, (WE) nr 1069/2009, (WE) nr 1107/2009, (UE) nr 1151/2012, (UE) nr 652/2014, (UE) 2016/429 i (UE) 2016/2031, rozporządzenia Rady (WE) nr 1/2005 i (WE) nr 1099/2009 oraz dyrektywy Rady 98/58/WE, 1999/ 74/WE, 2007/43/WE, 2008/119/WE i 2008/120/WE, oraz uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 854/2004 i (WE) nr 882/2004, dyrektywy Rady 89/608/EWG, 89/662/ EWG, 90/425/EWG, 91/496/EWG, 96/23/WE, 96/93/WE i 97/78/WE oraz decyzję Rady 92/438/EWG (rozporządzenie w sprawie kontroli urzędowych) (Dz. Urz. UE L 95 z 07.04.2017, str. 1, z późn. zm. ), zostanie stwierdzone, że unikalny dożywotni dokument identyfikacyjny nie spełnia wymogów określonych w rozporządzeniu 2021/963 lub związek hodowców koniowatych, który wydaje te dokumenty, prowadzi działania niezgodnie z rozporządzeniem 2021/963, na wniosek Głównego Lekarza Weterynarii minister właściwy do spraw rolnictwa, w drodze decyzji, zakazuje związkowi hodowców koniowatych wydawania unikalnego dożywotniego dokumentu identyfikacyjnego.
+1. W przypadku gdy w wyniku kontroli, o których mowa w art. 48 ust. 2 pkt 1 i ust. 3 lub art. 49 ust. 1, lub kontroli, o których mowa w art. 116 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/625 z dnia 15 marca 2017 r. w sprawie kontroli urzędowych i innych czynności urzędowych przeprowadzanych w celu zapewnienia stosowania prawa żywnościowego i paszowego oraz zasad dotyczących zdrowia i dobrostanu zwierząt, zdrowia roślin i środków ochrony roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001, (WE) nr 396/2005, (WE) nr 1069/2009, (WE) nr 1107/2009, (UE) nr 1151/2012, (UE) nr 652/2014, (UE) 2016/429 i (UE) 2016/2031, rozporządzenia Rady (WE) nr 1/2005 i (WE) nr 1099/2009 oraz dyrektywy Rady 98/58/WE, 1999/ 74/WE, 2007/43/WE, 2008/119/WE i 2008/120/WE, oraz uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 854/2004 i (WE) nr 882/2004, dyrektywy Rady 89/608/EWG, 89/662/ EWG, 90/425/EWG, 91/496/EWG, 96/23/WE, 96/93/WE i 97/78/WE oraz decyzję Rady 92/438/EWG (rozporządzenie w sprawie kontroli urzędowych) (Dz. Urz. UE L 95 z 07.04.2017, str. 1, z późn. zm.), zostanie stwierdzone, że unikalny dożywotni dokument identyfikacyjny nie spełnia wymogów określonych w rozporządzeniu 2021/963 lub związek hodowców koniowatych, który wydaje te dokumenty, prowadzi działania niezgodnie z rozporządzeniem 2021/963, na wniosek Głównego Lekarza Weterynarii minister właściwy do spraw rolnictwa, w drodze decyzji, zakazuje związkowi hodowców koniowatych wydawania unikalnego dożywotniego dokumentu identyfikacyjnego.
 
 2. W przypadku gdy decyzja, o której mowa w ust. 1, stała się ostateczna:
 
@@ -553,7 +571,7 @@ Art. 57–63. (pominięte)
 
 **Art. 40.**
 
-1. W przypadkach określonych w art. 25 ust. 1 i art. 26 ust. 1 rozporządzenia 2021/963 właściciel koniowatego albo posiadacz koniowatego będący podmiotem, o którym mowa w art. 3 ust. 1 rozporządzenia 2021/963, składa do związku hodowców koniowatych za pośrednictwem kierownika biura wniosek o wydanie duplikatu, o którym mowa w art. 25 ust. 1 rozporządzenia 2021/963, albo zastępczego unikalnego dożywotniego dokumentu identyfikacyjnego, o którym mowa w art. 26 ust. 1 rozporządzenia 2021/963, niepóźniej niż w terminie 7 dni od dnia wystąpienia zdarzeń określonych w art. 25 ust. 1 i art. 26 ust. 1 rozporządzenia 2021/963.
+1. W przypadkach określonych w art. 25 ust. 1 i art. 26 ust. 1 rozporządzenia 2021/963 właściciel koniowatego albo posiadacz koniowatego będący podmiotem, o którym mowa w art. 3 ust. 1 rozporządzenia 2021/963, składa do związku hodowców koniowatych za pośrednictwem kierownika biura wniosek o wydanie duplikatu, o którym mowa w art. 25 ust. 1 rozporządzenia 2021/963, albo zastępczego unikalnego dożywotniego dokumentu identyfikacyjnego, o którym mowa w art. 26 ust. 1 rozporządzenia 2021/963, nie później niż w terminie 7 dni od dnia wystąpienia zdarzeń określonych w art. 25 ust. 1 i art. 26 ust. 1 rozporządzenia 2021/963.
 
 2. W przypadku określonym w art. 24 ust. 1 rozporządzenia 2021/963 właściciel koniowatego albo posiadacz koniowatego będący podmiotem, o którym mowa w art. 3 ust. 1 rozporządzenia 2021/963, składa do związku hodowców koniowatych wniosek o wydanie tymczasowego dokumentu identyfikacyjnego, o którym mowa w art. 24 ust. 1 rozporządzenia 2021/963.
 
@@ -562,6 +580,13 @@ Art. 57–63. (pominięte)
 4. Przepisy dotyczące unikalnego dożywotniego dokumentu identyfikacyjnego stosuje się odpowiednio do duplikatu, o którym mowa w art. 25 ust. 1 rozporządzenia 2021/963, oraz zastępczego unikalnego dożywotniego dokumentu identyfikacyjnego, o którym mowa w art. 26 ust. 1 rozporządzenia 2021/963.
 
 **Art. 41.** W przypadku zmiany właściciela koniowatego:
+
+- **1)** unikalny dożywotni dokument identyfikacyjny jest przekazywany nowemu właścicielowi koniowatego wraz z przeniesieniem posiadania tego koniowatego;
+- **2)** nowy właściciel koniowatego: przedstawia unikalny dożywotni dokument identyfikacyjny związkowi hodowców koniowatych, który go wydał, a ten związek hodowców dokonuje w unikalnym dożywotnim dokumencie identyfikacyjnym zmiany wpisu dotyczącego właściciela koniowatego, przedstawia umowę, na podstawie której zostało przeniesione prawo własności koniowatego, albo składa pisemne oświadczenie o nabyciu koniowatego, które zawiera imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres poprzedniego właściciela koniowatego w terminie 7 dni od dnia dokonania zmiany właściciela koniowatego;
+    - **a)**
+    - **b)**
+
+- **3)** związek hodowców koniowatych, który wydał unikalny dożywotni dokument identyfikacyjny, zgłasza informację o zmianie właściciela koniowatego do komputerowej bazy danych w terminie 2 dni od dnia dokonania w unikalnym dożywotnim dokumencie identyfikacyjnym zmiany wpisu dotyczącego właściciela koniowatego.
 
 **Art. 42.**
 
@@ -585,7 +610,7 @@ Art. 57–63. (pominięte)
 1. Podmiot prowadzący zakład drobiu zgłasza do komputerowej bazy danych:
 
 - **1)** zwiększenie lub zmniejszenie liczby ptaków i jaj wylęgowych w zakładzie drobiu,
-- **2)** zabicie ptaków z nakazu powiatowego lekarza weterynarii w zakładzie drobiu – z podaniem liczby ptaków i jaj wylęgowych, których przybyło lub ubyło w zakładzie drobiu, oraz miejsca pochodzenia lub przeznaczenia ptaków lub jaj wylęgowych w terminie 7 dni od dnia wystąpienia tych zdarzeń.
+- **2)** zabicie ptaków z nakazu powiatowego lekarza weterynarii w zakładzie drobiu z podaniem liczby ptaków i jaj wylęgowych, których przybyło lub ubyło w zakładzie drobiu, oraz miejsca pochodzenia lub przeznaczenia ptaków lub jaj wylęgowych w terminie 7 dni od dnia wystąpienia tych zdarzeń.
 
 2. W przypadku padnięć lub śmierci ptaków w innych okolicznościach niż zabicie z nakazu powiatowego lekarza weterynarii w zakładzie drobiu podmiot prowadzący zakład drobiu zgłasza do komputerowej bazy danych łączną liczbę sztuk ptaków, których ubyło z tych przyczyn w zakładzie drobiu w okresie tygodnia.
 
@@ -602,18 +627,39 @@ Art. 57–63. (pominięte)
 
 1. Zgłoszenia do komputerowej bazy danych, wnioski, o których mowa w art. 9 ust. 1, art. 14 ust. 3, art. 15 ust. 1, art. 22 ust. 1, art. 32 ust. 1, art. 40 ust. 1 i 3, wniosek, o którym mowa w art. 37 rozporządzenia 2021/963, oraz informację, o której mowa w art. 29 ust. 1, odpowiednio dokonuje się, składa lub przekazuje w postaci elektronicznej za pomocą:
 
-- **1)** systemu teleinformatycznego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa;
+- **1)** formularza udostępnionego na stronie internetowej Agencji;
 - **2)** środków komunikacji elektronicznej w sposób umożliwiający potwierdzenie tożsamości odpowiednio dokonującego zgłoszenia, składającego wniosek lub przekazującego informację oraz autentyczność tych zgłoszeń, wniosków i informacji – w sytuacjach wyjątkowych, niewynikających z przyczyn leżących po stronie odpowiednio dokonującego zgłoszenia, składającego wniosek lub przekazującego informację.
 
-2. (uchylony)
+2. Do wymiany korespondencji z dokonującym zgłoszenia do komputerowej bazy danych lub przekazującym informację, o której mowa w art. 29 ust. 1, przepisy ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2022 r. poz. 2157 i 2727) dotyczące wymiany korespondencji za pomocą systemu teleinformatycznego Agencji stosuje się odpowiednio.
 
 3. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia:
 
-- **1)** (uchylony)
-- **2)** szczegółowy zakres informacji, w tym zakres danych osobowych, jakie są zawarte w zgłoszeniu dokonywanym za pomocą systemu, o którym mowa w ust. 1 pkt 1, we wniosku składanym za pomocą tego systemu lub w informacji przekazywanej za pomocą tego systemu,
-- **3)** szczegółowe wymagania dotyczące potwierdzania tożsamości oraz autentyczności, o których mowa w ust. 1 pkt 2 – mając na względzie konieczność zapewnienia realizacji celów określonych w art. 108 ust. 4 lit. a i b oraz ust. 5 lit. a rozporządzenia 2016/429, bezpieczeństwa i wiarygodności przesyłanych informacji oraz należytej ochrony danych osobowych.
+- **1)** szczegółowe wymagania, jakie powinien spełniać formularz, o którym mowa w ust. 1 pkt 1, oraz szczegółowe warunki lub sposób odpowiednio dokonywania zgłoszeń, składania wniosków lub przekazywania informacji za pomocą tego formularza,
+- **2)** szczegółowy zakres informacji, w tym zakres danych osobowych, jakie są zawarte w zgłoszeniu dokonywanym za pomocą formularza, o którym mowa w ust. 1 pkt 1, wniosku składanym za pomocą tego formularza lub informacji przekazywanej za pomocą tego formularza,
+- **3)** szczegółowe wymagania dotyczące potwierdzania tożsamości oraz autentyczności, o których mowa w ust. 1 pkt 2 mając na względzie konieczność zapewnienia realizacji celów określonych w art. 108 ust. 4 lit. a i b oraz ust. 5 lit. a rozporządzenia 2016/429, bezpieczeństwa i wiarygodności przesyłanych informacji oraz należytej ochrony danych osobowych.
 
 **Art. 46.** Związek hodowców koniowatych za:
+
+- **1)** wykonanie czynności związanych z identyfikacją koniowatego, w tym: zidentyfikowanie konia zgodnie z zasadami księgi hodowlanej – w przypadku koni pełnej krwi angielskiej, koni czystej krwi arabskiej, koni rasy kłusak oraz kuców szetlandzkich, zastosowanie środka identyfikacji zgodnie z art. 11 ust. 1 rozporządzenia 2021/963, dokonanie opisu słownego i graficznego koniowatego,
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** wydanie i doręczenie: unikalnego dożywotniego dokumentu identyfikacyjnego, w tym w przypadku określonym w art. 68 rozporządzenia 2019/2035, tymczasowego dokumentu identyfikacyjnego, o którym mowa w art. 24 ust. 1 rozporządzenia 2021/963, duplikatu dokumentu identyfikacyjnego, o którym mowa w art. 25 ust. 1 rozporządzenia 2021/963, w tym w przypadku, o którym mowa w art. 25 ust. 1 lit. b rozporządzenia 2021/963, zastępczego unikalnego dożywotniego dokumentu identyfikacyjnego, o którym mowa w art. 26 ust. 1 rozporządzenia 2021/963, karty plastikowej lub karty elektronicznej,
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **3)** dokonanie zgłoszeń do komputerowej bazy danych,
+- **4)** wykonanie czynności, o których mowa w art. 30 ust. 1 lit. a-c rozporządzenia 2021/963,
+- **5)** sprawdzenie pochodzenia koniowatego, jeżeli nie przekazano oryginałów dokumentów wskazanych w art. 33 ust. 3 – w przypadku wydawania zastępczego unikalnego dożywotniego dokumentu identyfikacyjnego, o którym mowa w art. 26 ust. 1 rozporządzenia 2021/963,
+- **6)** sprawdzenie pochodzenia koniowatego zgłoszonego do identyfikacji po opuszczeniu na stałe siedziby stada, w której się urodziło, z wyłączeniem przypadku określonego w art. 21 ust. 1 i 2 rozporządzenia 2021/963, jeżeli przekazano oryginały dokumentów wskazanych w art. 33 ust. 3,
+- **7)** sprawdzenie tożsamości koniowatego urodzonego na terytorium Rzeczypospolitej Polskiej lub przywiezionego z innego niż Rzeczpospolita Polska państwa członkowskiego, dla którego unikalny dożywotni dokument identyfikacyjny został wydany przez związek hodowców koniowatych działający na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego,
+- **8)** wydanie dodatkowej kartki do unikalnego dożywotniego dokumentu identyfikacyjnego,
+- **9)** dokonanie w unikalnym dożywotnim dokumencie identyfikacyjnym wpisu dotyczącego znaku zatwierdzenia, o którym mowa w art. 92 ust. 2 lit. a rozporządzenia 2020/688, lub licencji, o której mowa w art. 92 ust. 2 lit. b rozporządzenia 2020/688,
+- **10)** pośrednictwo w wykonaniu czynności określonych w art. 26 ust. 3 i art. 32 ust. 6 może pobierać wynagrodzenie pokrywające co najmniej koszty wykonania tych czynności oraz koszty zniszczenia unikalnego dożywotniego dokumentu identyfikacyjnego po zwróceniu go związkowi hodowców koniowatych, który go wydał.
 
 **Art. 47.** Minister właściwy do spraw rolnictwa może określić, w drodze rozporządzenia, środki, o których mowa w art. 269 ust. 1 lit. e rozporządzenia 2016/429, mając na względzie cele określone w art. 108 ust. 4 lit. a i b oraz ust. 5 lit. a rozporządzenia 2016/429.
 
@@ -634,7 +680,7 @@ Art. 57–63. (pominięte)
 
 1. Agencja może przeprowadzać w siedzibie stada, o której mowa w art. 15 ust. 2 pkt 1, kontrole w zakresie identyfikacji i rejestracji zwierząt oraz prowadzenia dokumentacji dotyczącej zwierząt.
 
-2. Zdjęcie wykonane i przesłane przez stronę postępowania z wykorzystaniem aplikacji udostępnionej przez Agencję, w tym zdjęcie geotagowane będące zdjęciem zawierającym informacje o długości i szerokości geograficznej miejsca wykonania tego zdjęcia, ustalonych na podstawie dostępnych systemów pozycjonowania satelitarnego, stanowi dowód tego, co zostało zobrazowane na tym zdjęciu oraz zapisane w pliku zawierającym to zdjęcie. Zdjęcie przesłane z wykorzystaniem tej aplikacji ma charakter dokumentu, o którym mowa w art. 76 § 1 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691).
+2. Zdjęcie wykonane i przesłane przez stronę postępowania z wykorzystaniem aplikacji udostępnionej przez Agencję, w tym zdjęcie geotagowane będące zdjęciem zawierającym informacje o długości i szerokości geograficznej miejsca wykonania tego zdjęcia, ustalonych na podstawie dostępnych systemów pozycjonowania satelitarnego, stanowi dowód tego, co zostało zobrazowane na tym zdjęciu oraz zapisane w pliku zawierającym to zdjęcie. Zdjęcie przesłane z wykorzystaniem tej aplikacji ma charakter dokumentu, o którym mowa w art. 76 § 1 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2022 r. poz. 2000 i 2185).
 
 **Art. 50.**
 
@@ -670,11 +716,7 @@ Art. 57–63. (pominięte)
 
 12. Jeżeli podczas przeprowadzania kontroli zostanie ustalone, że w siedzibie stada znajduje się nieoznakowane zwierzę, którego pochodzenia nie można potwierdzić, powiatowy lekarz weterynarii na podstawie oceny ryzyka dla zdrowia zwierząt i bezpieczeństwa żywności może nakazać, w drodze decyzji, zabicie tego zwierzęcia bez odszkodowania i unieszkodliwienie jego zwłok na koszt posiadacza.
 
-13. Podmiot kontrolowany lub osoba przez niego upoważniona:
-
-- **1)** umożliwiają przeprowadzenie kontroli, w tym wstęp do siedziby stada, zakładu drobiu, rzeźni, zakładu przetwórczego lub spalarni;
-- **2)** udzielają osobie wykonującej czynności kontrolne pomocy niezbędnej przy ich wykonywaniu, w tym przygotowują do kontroli dokumenty, zwierzęta i pomieszczenia, w których przebywają zwierzęta;
-- **3)** okazują osobie wykonującej czynności kontrolne unikalny dożywotni dokument identyfikacyjny koniowatego niepóźniej niż w dniu roboczym przypadającym po dniu przeprowadzenia kontroli.
+13. Podmiot kontrolowany lub osoba przez niego upoważniona umożliwiają przeprowadzenie kontroli, w tym wstęp do siedziby stada, zakładu drobiu, rzeźni, zakładu przetwórczego lub spalarni, oraz udzielają osobie wykonującej czynności kontrolne pomocy niezbędnej przy wykonaniu tych czynności, w tym przygotowują do kontroli dokumenty, zwierzęta i pomieszczenia, w których przebywają zwierzęta.
 
 14. W przypadku niewykonania obowiązku, o którym mowa w ust. 13, osoba wykonująca czynności kontrolne może odstąpić od przeprowadzenia kontroli.
 
@@ -699,14 +741,14 @@ Art. 57–63. (pominięte)
 2. Kto, będąc:
 
 - **1)** podmiotem prowadzącym rzeźnię,
-- **2)** posiadaczem, który:
-    - **a)** prowadzi miejsce gromadzenia zwierząt,
-    - **b)** organizuje targi, wystawy, pokazy lub konkursy zwierząt,
-    - **c)** prowadzi obrót zwierzętami, pośrednictwo w tym obrocie lub skup zwierząt,
-    - **d)** prowadzi cyrk objazdowy,
-    - **e)** prowadzi grupę tresowanych zwierząt,
+- **2)** posiadaczem, który: prowadzi miejsce gromadzenia zwierząt, organizuje targi, wystawy, pokazy lub konkursy zwierząt, prowadzi obrót zwierzętami, pośrednictwo w tym obrocie lub skup zwierząt, prowadzi cyrk objazdowy, prowadzi grupę tresowanych zwierząt,
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
-- **3)** podmiotem prowadzącym zakład przetwórczy lub spalarnię – nie dokonuje zgłoszenia do komputerowej bazy danych informacji o zdarzeniach dotyczących zwierząt, których obowiązek zgłoszenia do komputerowej bazy danych wynika z przepisów wymienionych w art. 1 pkt 1 lub przepisów ustawy, w terminie określonym w art. 26 ust. 1, podlega karze pieniężnej w wysokości do trzydziestokrotnego przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej za rok poprzedzający, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+- **3)** podmiotem prowadzącym zakład przetwórczy lub spalarnię nie dokonuje zgłoszenia do komputerowej bazy danych informacji o zdarzeniach dotyczących zwierząt, których obowiązek zgłoszenia do komputerowej bazy danych wynika z przepisów wymienionych w art. 1 pkt 1 lub przepisów ustawy, w terminie określonym w art. 26 ust. 1, podlega karze pieniężnej w wysokości do trzydziestokrotnego przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej za rok poprzedzający, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
 **Art. 54.**
 
@@ -718,6 +760,13 @@ Art. 57–63. (pominięte)
 2. Kara pieniężna, o której mowa w art. 53, jest uiszczana na rachunek bankowy odpowiednio właściwego wojewódzkiego albo powiatowego inspektoratu weterynarii w terminie 14 dni od dnia, w którym decyzja o nałożeniu kary pieniężnej stała się ostateczna.
 
 **Art. 55.** Wymierzając karę pieniężną, o której mowa w art. 53, wojewódzki i powiatowy lekarz weterynarii biorą pod uwagę:
+
+- **1)** rodzaj, zakres lub stopień stwierdzonych naruszeń;
+- **2)** rodzaj działalności prowadzonej przez podmiot dopuszczający się naruszenia;
+- **3)** stopień zagrożenia dla bezpieczeństwa żywności lub zdrowia publicznego spowodowany stwierdzonym naruszeniem;
+- **4)** dotychczasową działalność podmiotu, w tym częstotliwość popełniania w przeszłości naruszenia tego samego rodzaju, co naruszenie, w następstwie którego ma być nałożona kara pieniężna;
+- **5)** stopień przyczynienia się podmiotu, na który jest nakładana kara pieniężna, do powstania naruszenia;
+- **6)** działania dobrowolnie podjęte przez podmiot, na który jest nakładana kara pieniężna, w celu uniknięcia skutków naruszenia.
 
 **Art. 56.**
 
@@ -742,19 +791,54 @@ Art. 57–63. (pominięte)
 - **17)** będąc nowym właścicielem koniowatego, nie wykonuje czynności, o których mowa w art. 41 pkt 2, zgodnie z tym przepisem,
 - **18)** będąc obowiązanym do wykonania czynności, o których mowa w art. 42, nie wykonuje tych czynności zgodnie z tym przepisem,
 - **19)** będąc obowiązanym do wykonania czynności, o których mowa w art. 44 ust. 1–3, nie wykonuje tych czynności zgodnie z tymi przepisami,
-- **20)** będąc podmiotem kontrolowanym lub osobą przez niego upoważnioną, uniemożliwia przeprowadzenie kontroli, o których mowa w art. 48 ust. 2 pkt 1 lub art. 49 ust. 1, lub nie udziela osobie wykonującej czynności kontrolne w ramach tych kontroli pomocy niezbędnej przy wykonaniu tych czynności, lub nie okazuje osobie wykonującej czynności kontrolne unikalnego dożywotniego dokumentu identyfikacyjnego koniowatego w terminie określonym w art. 50 ust. 13 pkt 3,
-- **21)** będąc obowiązanym do zidentyfikowania zwierząt w sposób określony w art. 81 rozporządzenia 2019/2035, nie dokonuje tej czynności zgodnie z tym przepisem,
-- **22)** będąc posiadaczem świni, który po dokonaniu zgłoszenia, o którym mowa w art. 29a ust. 1, przemieścił tę świnię mimo otrzymania od powiatowego lekarza weterynarii lub lekarza weterynarii, o którym mowa w art. 16 ust. 1 pkt 1 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej, informacji, że tej świni nie można przemieścić,
-- **23)** będąc właścicielem koniowatego, nie przekazuje informacji określonych w art. 26 ust. 4 posiadaczowi koniowatego lub posiadaczowi koniowatego będącemu podmiotem, o którym mowa w art. 3 ust. 1 rozporządzenia 2021/963, w terminie określonym w art. 26 ust. 1,
-- **24)** będąc obowiązanym do wykonania czynności, o których mowa w art. 29a ust. 8 i 9, nie wykonuje tych czynności zgodnie z tym przepisem,
-- **25)** będąc lekarzem weterynarii, o którym mowa w art. 39 ust. 1 rozporządzenia 2021/963, nie wykonuje obowiązków, o których mowa w art. 39 ust. 2 i 3 rozporządzenia 2021/963,
-- **26)** będąc lekarzem weterynarii, o którym mowa w art. 42 ust. 2 rozporządzenia 2021/963, nie wykonuje obowiązku, o którym mowa w art. 42 ust. 2 lit. b rozporządzenia 2021/963 – podlega karze grzywny.
+- **20)** będąc podmiotem kontrolowanym lub osobą przez niego upoważnioną, uniemożliwia przeprowadzenie kontroli, o których mowa w art. 48 ust. 2 pkt 1 lub art. 49 ust. 1, lub nie udziela osobie wykonującej czynności kontrolne w ramach tych kontroli pomocy niezbędnej przy wykonaniu tych czynności,
+- **21)** będąc obowiązanym do zidentyfikowania zwierząt w sposób określony w art. 81 rozporządzenia 2019/2035, nie dokonuje tej czynności zgodnie z tym przepisem podlega karze grzywny.
 
 2. Karze określonej w ust. 1 pkt 7 nie podlega podmiot wymieniony w art. 53 ust. 2.
 
-3. Orzekanie w sprawach o czyny określone w ust. 1 następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, z późn. zm. ).
+3. Orzekanie w sprawach o czyny określone w ust. 1 następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
 
 #### Rozdział 8 Zmiany w przepisach
+
+**Art. 57.** W ustawie z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. z 2022 r. poz. 2001) wprowadza się następujące zmiany:
+
+- **1)** w art. 3: pkt 3c otrzymuje brzmienie: „
+    - **a)**
+
+- **3c)** posiadacz zwierzęcia: podmiot w rozumieniu: – art. 4 pkt 24 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/429 z dnia 9 marca 2016 r. w sprawie przenośnych chorób zwierząt oraz zmieniającego i uchylającego niektóre akty w dziedzinie zdrowia zwierząt („Prawo o zdrowiu zwierząt”) (Dz. Urz. UE L 84 z 31.03.2016, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2016/429” – w odniesieniu do bydła, wielbłądowatych, jeleniowatych, owiec, kóz i świń, – art. 2 pkt 3 rozporządzenia wykonawczego Komisji (UE) 2021/963 z dnia 10 czerwca 2021 r. ustanawiającego zasady stosowania rozporządzeń Parlamentu Europejskiego i Rady (UE) 2016/429, (UE) 2016/1012 i (UE) 2019/6 w odniesieniu do identyfikacji i rejestracji koniowatych oraz określającego wzory dokumentów identyfikacyjnych dla tych zwierząt (Dz. Urz. UE L 213 z 16.06.2021, str. 3) – w odniesieniu do koniowatych – z wyłączeniem przewoźnika w rozumieniu art. 4 pkt 25 rozporządzenia 2016/429, zakład w rozumieniu art. 4 pkt 27 rozporządzenia 2016/429 – w odniesieniu do ptaków z gatunków: kura ( Gallus gallus ), kaczka ( Anas platyrhynchos ), kaczka piżmowa ( Cairina moschata ), gęś ( Anser anser ), gęś garbonosa ( Anser cygnoides ), indyk ( Meleagris gallopavo ), przepiórka japońska ( Coturnix japonica ), perlica ( Numida meleagris ) oraz struś ( Struthio camelus ), w tym wylęgarnię w rozumieniu art. 4 pkt 47 rozporządzenia 2016/429, rzeźnię w rozumieniu ust. 1 pkt 1.16 załącznika I do rozporządzenia (WE) nr 853/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. ustanawiającego szczególne przepisy dotyczące higieny w odniesieniu do żywności pochodzenia zwierzęcego (Dz. Urz. UE L 139 z 30.04.2004, str. 55, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 14), właściciela koniowatego; ” , po pkt 7 dodaje się pkt 7a w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **b)**
+
+- **7a)** właściciel koniowatego – właściciela w rozumieniu art. 2 pkt 4 rozporządzenia wykonawczego Komisji (UE) 2021/963 z dnia 10 czerwca 2021 r. ustanawiającego zasady stosowania rozporządzeń Parlamentu Europejskiego i Rady (UE) 2016/429, (UE) 2016/1012 i (UE) 2019/6 w odniesieniu do identyfikacji i rejestracji koniowatych oraz określającego wzory dokumentów identyfikacyjnych dla tych zwierząt;" pkt 8 otrzymuje brzmienie: „
+    - **c)**
+
+- **8)** zwierzęta – bydło, wielbłądowate, jeleniowate, owce, kozy, świnie i koniowate, o których mowa w przepisach o systemie identyfikacji i rejestracji zwierząt, oraz ptaki z gatunków: kura ( Gallus gallus ), kaczka ( Anas platyrhynchos ), kaczka piżmowa ( Cairina moschata ), gęś ( Anser anser ), gęś garbonosa ( Anser cygnoides ), indyk ( Meleagris gallopavo ), przepiórka japońska ( Coturnix japonica ), perlica ( Numida meleagris ) oraz struś ( Struthio camelus ); ” ;
+- **2)** w art. 9 ust. 2 otrzymuje brzmienie: „
+
+2. Do ustalenia liczby zwierząt, o których mowa w ust. 1 pkt 3, wykorzystuje się informacje zawarte w komputerowej bazie danych prowadzonej na podstawie ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. poz. 2727). ” ;
+
+- **3)** w art. 11 w ust. 3 pkt 1 i 2 otrzymują brzmienie: „
+- **1)** posiadacze zwierząt składają wniosek nie później niż w dniu złożenia wniosku o nadanie numeru siedzibie stada, rzeźni lub zakładowi drobiu zgodnie z przepisami o systemie identyfikacji i rejestracji zwierząt, a w przypadku właściciela koniowatego – w dniu zgłoszenia informacji o koniowatym do komputerowej bazy danych prowadzonej na podstawie ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt;
+- **2)** podmioty prowadzące zakłady utylizacyjne składają wniosek nie później niż w dniu złożenia wniosku o nadanie temu zakładowi numeru zgodnie z przepisami o systemie identyfikacji i rejestracji zwierząt; ” .
+
+**Art. 58.** W ustawie z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2022 r. poz. 2629) w art. 32 ust. 1 otrzymuje brzmienie: „ 1. Opłaty, o których mowa w art. 31 ust. 1 pkt 1, za kontrolę świń przeprowadzaną w gospodarstwie, w którym jest utrzymywane nie więcej niż 50 świń, pobiera się w wysokości obniżonej o 75%, jednak nie niższej niż 20 zł. ” .
+
+**Art. 59.** W ustawie z dnia 10 marca 2006 r. o zwrocie podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej (Dz. U. z 2022 r. poz. 846) w art. 6 w ust. 3 pkt 2 otrzymuje brzmienie: „
+
+- **2)** dokument wydany przez kierownika biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa zawierający informacje o liczbie dużych jednostek przeliczeniowych bydła będącego w posiadaniu producenta rolnego, w odniesieniu do każdej siedziby stada tego producenta, w ostatnim dniu każdego miesiąca roku poprzedzającego rok, w którym został złożony wniosek o zwrot podatku, ustalonej z uwzględnieniem wartości współczynników przeliczeniowych sztuk bydła na duże jednostki przeliczeniowe określonych w załączniku do ustawy, na podstawie informacji zawartych w komputerowej bazie danych prowadzonej na podstawie ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. poz. 2727) – w przypadku ubiegania się przez producenta rolnego o zwrot podatku w odniesieniu do bydła. ” .
+
+**Art. 60.** W ustawie z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2022 r. poz. 2157) w art. 6 w ust. 1 pkt 1 otrzymuje brzmienie: „
+
+- **1)** określone w odrębnych przepisach, w szczególności dotyczące płatności w ramach systemów wsparcia bezpośredniego, regulacji rynków rolnych, rozwoju obszarów wiejskich oraz identyfikacji i rejestracji zwierząt; ” .
+
+**Art. 61.** W ustawie z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego (Dz. U. z 2022 r. poz. 1775) w art. 16 w ust. 5b część wspólna otrzymuje brzmienie: „ – co potwierdzają informacje zawarte w komputerowej bazie danych prowadzonej na podstawie ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. poz. 2727). ” .
+
+**Art. 62.** W ustawie z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2022 r. poz. 2422 i 2433) art. 42a otrzymuje brzmienie: „ Za objęte wnioskiem o przyznanie pomocy w ramach działania, o którym mowa w art. 3 ust. 1 pkt 12a, uznaje się, zgodnie z art. 21 ust. 4 rozporządzenia nr 809/2014, zwierzęta spełniające warunki przyznania tej pomocy, co potwierdzają dane zawarte w komputerowej bazie danych prowadzonej na podstawie ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. poz. 2727). ” .
+
+**Art. 63.** W ustawie z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. z 2020 r. poz. 481, z późn. zm.) art. 16 otrzymuje brzmienie: „ 1. W celu realizacji zadań Krajowy Ośrodek jest uprawniony do użytkowania krajowego systemu ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, o którym mowa w ustawie z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. z 2022 r. poz. 2001 i 2727), oraz do pozyskiwania informacji z komputerowej bazy danych prowadzonej na podstawie ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. poz. 2727). 2. Agencja Restrukturyzacji i Modernizacji Rolnictwa zapewnia Krajowemu Ośrodkowi nieodpłatnie pełny dostęp do krajowego systemu ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, o którym mowa w ustawie z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, a także możliwość pozyskiwania informacji z komputerowej bazy danych prowadzonej na podstawie ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt. ” .
 
 #### Rozdział 9 Przepisy przejściowe, dostosowujące i końcowe
 
@@ -766,13 +850,13 @@ Art. 57–63. (pominięte)
 
 **Art. 65.**
 
-1. Posiadacz koniowatego, w tym posiadacz koniowatego będący podmiotem, o którym mowa w art. 3 ust. 1 rozporządzenia 2021/963, posiadający numer identyfikacyjny, o którym mowa w art. 12 ustawy zmienianej w art. 57 , składa wniosek o nadanie siedzibie stada numeru, o którym mowa w art. 15 ust. 1, oraz zgłasza do komputerowej bazy danych koniowate utrzymywane w tej siedzibie stada w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
+1. Posiadacz koniowatego, w tym posiadacz koniowatego będący podmiotem, o którym mowa w art. 3 ust. 1 rozporządzenia 2021/963, posiadający numer identyfikacyjny, o którym mowa w art. 12 ustawy zmienianej w art. 57, składa wniosek o nadanie siedzibie stada numeru, o którym mowa w art. 15 ust. 1, oraz zgłasza do komputerowej bazy danych koniowate utrzymywane w tej siedzibie stada w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-2. Posiadacz koniowatego, w tym posiadacz koniowatego będący podmiotem, o którym mowa w art. 3 ust. 1 rozporządzenia 2021/963, nieposiadający numeru identyfikacyjnego, o którym mowa w art. 12 ustawy zmienianej w art. 57 , po nadaniu tego numeru składa wniosek o nadanie siedzibie stada numeru, o którym mowa w art. 15 ust. 1, oraz zgłasza do komputerowej bazy danych koniowate utrzymywane w tej siedzibie stada w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
+2. Posiadacz koniowatego, w tym posiadacz koniowatego będący podmiotem, o którym mowa w art. 3 ust. 1 rozporządzenia 2021/963, nieposiadający numeru identyfikacyjnego, o którym mowa w art. 12 ustawy zmienianej w art. 57, po nadaniu tego numeru składa wniosek o nadanie siedzibie stada numeru, o którym mowa w art. 15 ust. 1, oraz zgłasza do komputerowej bazy danych koniowate utrzymywane w tej siedzibie stada w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 66.**
 
-1. Posiadacz wielbłądowatego lub jeleniowatego po nadaniu numeru identyfikacyjnego, o którym mowa w art. 12 ustawy zmienianej w art. 57 , składa wniosek o nadanie siedzibie stada numeru, o którym mowa w art. 15 ust. 1, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+1. Posiadacz wielbłądowatego lub jeleniowatego po nadaniu numeru identyfikacyjnego, o którym mowa w art. 12 ustawy zmienianej w art. 57, składa wniosek o nadanie siedzibie stada numeru, o którym mowa w art. 15 ust. 1, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 2. Posiadacz wielbłądowatego lub jeleniowatego oznakowuje posiadane zwierzę i zgłasza je do komputerowej bazy danych w terminie 18 miesięcy od dnia wejścia w życie ustawy. Termin ten nie ma zastosowania do jeleniowatego, o którym mowa w art. 16 ust. 4 rozporządzenia 2021/520, które podlega identyfikacji przed opuszczeniem siedziby stada.
 
@@ -789,21 +873,32 @@ Art. 57–63. (pominięte)
 3. Jeżeli przed dniem wejścia w życie ustawy posiadacz bydła wniósł opłatę za wydanie paszportu bydła lub jego duplikatu na podstawie przepisów ustawy uchylanej w art. 77, lecz do dnia wejścia w życie ustawy nie złożył:
 
 - **1)** zgłoszenia do rejestru zwierząt gospodarskich oznakowanych i siedzib stad tych zwierząt zwierzęcia z gatunku bydło – w przypadku paszportu bydła,
-- **2)** wniosku o wydanie duplikatu paszportu bydła – w przypadku duplikatu paszportu bydła – to opłata ta jest zwracana na wniosek tego posiadacza złożony do kierownika biura właściwego ze względu na miejsce jego zamieszkania, w którym wskazuje rachunek bankowy, na który należy dokonać zwrotu wniesionej opłaty.
+- **2)** wniosku o wydanie duplikatu paszportu bydła – w przypadku duplikatu paszportu bydła to opłata ta jest zwracana na wniosek tego posiadacza złożony do kierownika biura właściwego ze względu na miejsce jego zamieszkania, w którym wskazuje rachunek bankowy, na który należy dokonać zwrotu wniesionej opłaty.
 
-**Art. 70.** Posiadacze bydła, owiec, kóz i świń, którzy prowadzili przed dniem wejścia w życie ustawy księgi rejestracji w postaci papierowej i nie korzystali z możliwości zgłaszania zdarzeń dotyczących zwierząt za pomocą formularza umieszczonego na stronie internetowej administrowanej przez Agencję na podstawie przepisów wydanych na podstawie art. 22 ust. 6 ustawy uchylanej w art. 77, prowadzą księgi rejestracji na dotychczasowych zasadach do dnia rozpoczęcia zgłaszania do komputerowej bazy danych zdarzeń dotyczących zwierząt za pomocą formularza, o którym mowa w art. 45 ust. 1 pkt 1, jednak niedłużej niż do dnia 31 grudnia 2026 r.
+**Art. 70.** Posiadacze bydła, owiec, kóz i świń, którzy prowadzili przed dniem wejścia w życie ustawy księgi rejestracji w postaci papierowej i nie korzystali z możliwości zgłaszania zdarzeń dotyczących zwierząt za pomocą formularza umieszczonego na stronie internetowej administrowanej przez Agencję na podstawie przepisów wydanych na podstawie art. 22 ust. 6 ustawy uchylanej w art. 77, prowadzą księgi rejestracji na dotychczasowych zasadach do dnia rozpoczęcia zgłaszania do komputerowej bazy danych zdarzeń dotyczących zwierząt za pomocą formularza, o którym mowa w art. 45 ust. 1 pkt 1, jednak nie dłużej niż do dnia 31 grudnia 2025 r.
 
 **Art. 71.** Dane, w tym dane osobowe, pozyskane do dnia wejścia w życie ustawy przez:
+
+- **1)** Agencję w celu prowadzenia rejestru zwierząt gospodarskich oznakowanych i siedzib stad tych zwierząt,
+- **2)** związki hodowców koniowatych w celu prowadzenia ksiąg hodowlanych i rejestrów koniowatych,
+- **3)** organy Inspekcji Weterynaryjnej w celu prowadzenia rejestru podmiotów, o którym mowa w art. 11 ust. 1 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2020 r. poz. 1421 oraz z 2022 r. poz. 1570) wykorzystuje się przy tworzeniu systemu identyfikacji i rejestracji zwierząt, o którym mowa w art. 108 rozporządzenia 2016/429.
 
 **Art. 72.** Do postępowań w sprawach dotyczących identyfikacji i rejestracji zwierząt prowadzonych na podstawie ustawy uchylanej w art. 77, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
 **Art. 73.**
 
-1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 8 ust. 4, art. 14 ust. 16, art. 17a ust. 5, art. 19 ust. 7 oraz art. 22 ust. 6 ustawy uchylanej w art. 77 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 13, art. 33 ust. 7, art. 24 ust. 8, art. 29 ust. 4 oraz art. 45 ust. 3, jednak niedłużej niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
+1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 8 ust. 4, art. 14 ust. 16, art. 17a ust. 5, art. 19 ust. 7 oraz art. 22 ust. 6 ustawy uchylanej w art. 77 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 13, art. 33 ust. 7, art. 24 ust. 8, art. 29 ust. 4 oraz art. 45 ust. 3, jednak nie dłużej niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
 
-2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 17 ust. 5 ustawy uchylanej w art. 77 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 20, jednak niedłużej niż do dnia 20 kwietnia 2023 r.
+2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 17 ust. 5 ustawy uchylanej w art. 77 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 20, jednak nie dłużej niż do dnia 20 kwietnia 2023 r.
 
-**Art. 74.** Do dnia 31 grudnia 2026 r. zgłoszenia do komputerowej bazy danych, wnioski, o których mowa w art. 9 ust. 1, art. 14 ust. 3, art. 15 ust. 1, art. 22 ust. 1, art. 32 ust. 1, art. 40 ust. 1 i 3, wniosek, o którym mowa w art. 37 rozporządzenia 2021/963, oraz informację, o której mowa w art. 29 ust. 1, właściciel koniowatego oraz posiadacz bydła, owcy, kozy lub świni niebędący podmiotem:
+**Art. 74.** Do dnia 31 grudnia 2025 r. zgłoszenia do komputerowej bazy danych, wnioski, o których mowa w art. 9 ust. 1, art. 14 ust. 3, art. 15 ust. 1, art. 22 ust. 1, art. 32 ust. 1, art. 40 ust. 1 i 3, wniosek, o którym mowa w art. 37 rozporządzenia 2021/963, oraz informację, o której mowa w art. 29 ust. 1, właściciel koniowatego oraz posiadacz bydła, owcy, kozy lub świni niebędący podmiotem:
+
+- **1)** prowadzącym miejsce gromadzenia zwierząt,
+- **2)** organizującym targi, wystawy, pokazy lub konkursy zwierząt,
+- **3)** prowadzącym cyrk objazdowy,
+- **4)** prowadzącym grupę tresowanych zwierząt,
+- **5)** prowadzącym obrót zwierzętami, pośrednictwo w tym obrocie lub skup zwierząt,
+- **6)** prowadzącym rzeźnię, zakład drobiu, zakład przetwórczy lub spalarnię mogą składać w postaci papierowej na formularzu udostępnionym na stronie internetowej Agencji.
 
 **Art. 75.**
 
@@ -820,9 +915,9 @@ Art. 57–63. (pominięte)
 
 1. Lista dostawców, o której mowa w art. 26 ust. 1 ustawy uchylanej w art. 77, staje się listą dostawców.
 
-2. Prezes Agencji z dniem 20 kwietnia 2023 r. rozwiązuje umowę z dostawcą, o którym mowa w art. 26 ust. 1 ustawy uchylanej w art. 77, i skreśla go z listy dostawców, chyba że umowa zawarta z tym dostawcą zapewnia, że dostarczane środki identyfikacji, kolczyki zawierające indywidualne numery identyfikacyjne loch oraz karty elektroniczne są zgodne ze specyfikacją techniczną określoną odpowiednio w przepisach wydanych na podstawie art. 20 lub art. 24 ust. 8, lub w załączniku II do rozporządzenia 2021/520, lub w załącznikach I lub III do rozporządzenia 2021/963, co jest potwierdzone wynikami badań wykonanych przez niezależne od dostawcy laboratorium badawcze, a w przypadku środków identyfikacji, o których mowa w lit. c–f załącznika III do rozporządzenia 2019/2035 – dostawca dostarczył ponadto Prezesowi Agencji dokument wystawiony przez ośrodek badań akredytowany zgodnie z normą ISO/IEC 17025 „Ogólne wymagania dotyczące kompetencji laboratoriów badawczych i wzorcujących”, stwierdzający, że dostarczane środki identyfikacji, o których mowa w lit. c–f załącznika III do rozporządzenia 2019/2035, będą zgodne ze specyfikacją techniczną określoną odpowiednio w załączniku II do rozporządzenia 2021/520 lub w załączniku I do rozporządzenia 2021/963.
+2. Prezes Agencji z dniem 20 kwietnia 2023 r. rozwiązuje umowę z dostawcą, o którym mowa w art. 26 ust. 1 ustawy uchylanej w art. 77, i skreśla go z listy dostawców, chyba że umowa zawarta z tym dostawcą zapewnia, że dostarczane środki identyfikacji, kolczyki zawierające indywidualne numery identyfikacyjne loch oraz karty elektroniczne są zgodne ze specyfikacją techniczną określoną odpowiednio w przepisach wydanych na podstawie art. 20 lub art. 24 ust. 8, lub w załączniku II do rozporządzenia 2021/520, lub w załącznikach I lub III do rozporządzenia 2021/963, co jest potwierdzone wynikami badań wykonanych przez niezależne od dostawcy laboratorium badawcze, a w przypadku środków identyfikacji, o których mowa w lit. c-f załącznika III do rozporządzenia 2019/2035 – dostawca dostarczył ponadto Prezesowi Agencji dokument wystawiony przez ośrodek badań akredytowany zgodnie z normą ISO/IEC 17025 „Ogólne wymagania dotyczące kompetencji laboratoriów badawczych i wzorcujących”, stwierdzający, że dostarczane środki identyfikacji, o których mowa w lit. c-f załącznika III do rozporządzenia 2019/2035, będą zgodne ze specyfikacją techniczną określoną odpowiednio w załączniku II do rozporządzenia 2021/520 lub w załączniku I do rozporządzenia 2021/963.
 
 **Art. 77.** Traci moc ustawa z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2021 r. poz. 1542 oraz z 2022 r. poz. 1570).
 
-**Art. 78.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+**Art. 78.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

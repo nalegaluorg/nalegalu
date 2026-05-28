@@ -8,10 +8,10 @@ pos: 525
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 marca 2018 r.
+# Rozporządzenie Rady Ministrówz dnia 21 lutego 2018 r. w sprawie wielokrotności kwoty bazowej stanowiącej przeciętne uposażenie funkcjonariuszy Służby Wywiadu Wojskowego
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,18 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-02-21 |
 | Data wydania | 2018-03-13 |
+| Wejście w życie | 2018-03-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000525) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/525/text.pdf) |
 
-Poz. 525 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 21 lutego 2018 r.
-w sprawie wielokrotności kwoty bazowej stanowiącej przeciętne uposażenie funkcjonariuszy Służby Wywiadu Wojskowego Na podstawie art. 74 ust. 4 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2017 r. poz. 861 i 1321 oraz z 2018 r. poz. 138) zarządza się, co następuje: § 1. Wielokrotność kwoty bazowej stanowiącej przeciętne uposażenie funkcjonariuszy Służby Wywiadu Wojskowego ustala się na 4,99.
-§ 2. Przepisy rozporządzenia mają zastosowanie do uposażeń funkcjonariuszy Służby Wywiadu Wojskowego od dnia 1 stycznia 2018 r.
-§ 3. Traci moc rozporządzenie Rady Ministrów z dnia 23 grudnia 2016 r. w sprawie wielokrotności kwoty bazowej stanowiącej przeciętne uposażenie funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. z 2017 r. poz. 124).
-§ 4. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+Treść rozporządzenia
+Na podstawie art. 74 ust. 4 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2017 r. poz. 861 i 1321 oraz z 2018 r. poz. 138) zarządza się, co następuje:
+§ 1.
+Wielokrotność kwoty bazowej stanowiącej przeciętne uposażenie funkcjonariuszy Służby Wywiadu Wojskowego ustala się na 4,99.
+§ 2.
+Przepisy rozporządzenia mają zastosowanie do uposażeń funkcjonariuszy Służby Wywiadu Wojskowego od dnia 1 stycznia 2018 r.
+§ 3.
+Traci moc rozporządzenie Rady Ministrów z dnia 23 grudnia 2016 r. w sprawie wielokrotności kwoty bazowej stanowiącej przeciętne uposażenie funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. z 2017 r. poz. 124).
+§ 4.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

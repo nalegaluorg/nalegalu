@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o pracownikach sądów i prokuratury
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 26 września 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 października 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-10-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001332) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1332/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 26 września 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o pracownikach sądów i prokuratury
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku niniejszego obwieszczenia jednolity tekst ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. z 2018 r. poz. 577), z uwzględnieniem zmian wprowadzonych ustawą z dnia 24 stycznia 2025 r. o zmianie niektórych ustaw w związku z przystąpieniem Rzeczypospolitej Polskiej wzmocnionej współpracy w zakresie Prokuratury Europejskiej (Dz. U. poz. 304) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 września 2025 r.
 2. Podany w załączniku niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 6 i art. 7 ustawy z dnia 24 stycznia 2025 r. o zmianie niektórych ustaw w związku z przystąpieniem Rzeczypospolitej Polskiej wzmocnionej współpracy w zakresie Prokuratury Europejskiej (Dz. U. poz. 304), które stanowią: „Art. 6. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 11b ust. 12 ustawy zmienianej w art. 3 zachowują moc dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 11b ust. 12 ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
@@ -34,9 +34,21 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa określa obowiązki i prawa urzędników oraz innych pracowników zatrudnionych w:
 
+- **1)** sądach powszechnych i wojskowych;
+- **2)** powszechnych jednostkach organizacyjnych prokuratury;
+- **3)** Biurze Służby Prawnej Trybunału Konstytucyjnego.
+
 **Art. 1a.** Ilekroć w ustawie jest mowa o dyrektorze sądu, w przypadku sądów wojskowych należy przez to rozumieć prezesa wojskowego sądu okręgowego albo prezesa wojskowego sądu garnizonowego.
 
 **Art. 2.** Urzędnikiem może zostać osoba:
+
+- **1)** która ma pełną zdolność czynności prawnych;
+- **2)** o nieposzlakowanej opinii;
+- **3)** która nie była karana za przestępstwo lub przestępstwo skarbowe;
+- **4)** przeciwko której nie jest prowadzone postępowanie o przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe;
+- **5)** (uchylony)
+- **6)** posiadająca stan zdrowia pozwalający na zatrudnienie na określonym stanowisku;
+- **7)** która odbyła staż urzędniczy w sądzie lub w prokuraturze.
 
 **Art. 3.**
 
@@ -60,7 +72,7 @@ source: "isap-pdf"
 
 3. Konkurs przeprowadza komisja konkursowa powołana przez dyrektora sądu lub prokuratora.
 
-4. Konkurs ma na celu sprawdzenie wiedzy, umiejętności, predyspozycji oraz zdolności ogólnych kandydatów, niezbędnych wykonywania obowiązków urzędnika. nia stosunku pracy z osobą odbywającą staż urzędniczy przed ukończeniem tego stażu. Rezerwowa lista kandydatów jest ważna następnego konkursu, jednakże nie dłużej niż 12 miesięcy od przeprowadzenia ostatniego konkursu.
+4. Konkurs ma na celu sprawdzenie wiedzy, umiejętności, predyspozycji oraz zdolności ogólnych kandydatów, niezbędnych wykonywania obowiązków urzędnika. dydatów na wypadek zaistnienia możliwości zatrudnienia większej liczby osób, rezygnacji kandydata bądź w sytuacji ustania stosunku pracy z osobą odbywającą staż urzędniczy przed ukończeniem tego stażu. Rezerwowa lista kandydatów jest ważna następnego konkursu, jednakże nie dłużej niż 12 miesięcy od przeprowadzenia ostatniego konkursu.
 
 6. Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowy sposób i tryb przeprowadzania konkursów na staż urzędniczy w sądach i prokuraturze, w szczególności skład komisji konkursowych oraz sposób i tryb ich działania, etapy i przebieg konkursu, a także zakres i sposób udostępniania informacji kandydatowi, mając na uwadze właściwy dobór kadry urzędniczej pracy w sądach i prokuraturze.
 
@@ -84,7 +96,23 @@ source: "isap-pdf"
 
 **Art. 5.** Stosunek pracy z osobami, o których mowa w art. 4, nawiązuje i rozwiązuje odpowiednio w:
 
+- **1)** w sądzie dyrektor sądu;
+- **2)** (uchylony)
+- **3)** (uchylony) 3a) wojskowym sądzie okręgowym prezes wojskowego sądu okręgowego;
+- **4)** wojskowym sądzie garnizonowym prezes wojskowego sądu garnizonowego;
+- **4a)** Prokuraturze Krajowej Prokurator Krajowy;
+- **5)** (uchylony)
+- **6)** prokuraturze regionalnej prokurator regionalny;
+- **7)** prokuraturze okręgowej i rejonowej prokurator okręgowy.
+- **8)** (uchylony)
+
 **Art. 6.** Urzędnik jest obowiązany:
+
+- **1)** przestrzegać Konstytucji Rzeczypospolitej Polskiej i innych przepisów prawa;
+- **2)** rzetelnie i bezstronnie, sprawnie i terminowo wykonywać powierzone zadania;
+- **3)** dochowywać tajemnicy prawnie chronionej;
+- **4)** zachowywać się godnie;
+- **5)** poszerzać wiedzę zawodową.
 
 **Art. 7.**
 
@@ -201,7 +229,18 @@ source: "isap-pdf"
 
 **Art. 12c.** Dyrektor sądu lub prokurator może zawiesić urzędnika lub osobę odbywającą staż urzędniczy w pełnieniu obowiązków, przeciwko której prowadzone jest postępowanie o nieumyślne przestępstwo ścigane z oskarżenia publicznego lub nieumyślne przestępstwo skarbowe. Przepis art. 12b ust. 2–6 stosuje się.
 
-**Art. 13.** (uchylony)
+**Art. 13.** (uchylony) spraw pracy, określi, w drodze rozporządzenia:
+
+- **1)** stanowiska w sądach powszechnych i wojskowych oraz powszechnych jednostkach organizacyjnych prokuratury, na których zatrudniani są urzędnicy i inni pracownicy, a także kwalifikacje wymagane zajmowania tych stanowisk,
+- **2)** szczegółowe zasady wynagradzania urzędników i innych pracowników sądów i powszechnych jednostek organizacyjnych prokuratury,
+- **3)** tabele wynagrodzenia zasadniczego urzędników i innych pracowników sądów i powszechnych jednostek organizacyjnych prokuratury,
+- **4)** wysokość dodatku przysługującego z tytułu zajmowanego stanowiska oraz pełnionej funkcji,
+- **5)** sposób i tryb odbywania stażu urzędniczego oraz przeprowadzania egzaminu uwzględniając potrzebę zapewnienia prawidłowej organizacji działalności administracyjnej sądów i powszechnych jednostek organizacyjnych prokuratury, właściwego poziomu funkcjonowania sekretariatów sądów i powszechnych jednostek organizacyjnych prokuratury oraz wysokiego poziomu kultury pracy, sprawności, racjonalności, szybkości i profesjonalizmu przy wykonywaniu czynności niezbędnych sprawnego przebiegu postępowań w sądach i w powszechnych jednostkach organizacyjnych prokuratury, potrzebę zróżnicowania wynagrodzenia w zależności od stażu pracy, pełnionej funkcji oraz zajmowanego stanowiska i jego znaczenia dla funkcjonowania sądu lub powszechnych jednostek organizacyjnych prokuratury, a także potrzebę właściwego teoretycznego i praktycznego przygotowania wykonywania obowiązków urzędnika sądu lub powszechnych jednostek organizacyjnych prokuratury, specyfikę i charakter pracy urzędnika oraz szczególne wymagania dotyczące wykonywania czynności w sądach i powszechnych jednostkach organizacyjnych prokuratury.
+
+2. Minister Sprawiedliwości może określić, w drodze rozporządzenia:
+
+- **1)** regulamin premiowania urzędników i innych pracowników zatrudnionych przy ściąganiu należności sądowych oraz w wydziałach ksiąg wieczystych,
+- **2)** regulamin przyznawania urzędnikom i innym pracownikom sądów i prokuratury nagród za szczególne osiągnięcia w pracy uwzględniając charakter i rodzaj czynności wykonywanych przez urzędników i innych pracowników oraz zajmowane stanowisko, a także rzetelność, inicjatywę, sumienność i zaangażowanie przy wykonywaniu obowiązków i poleceń służbowych.
 
 **Art. 14a.** Podwyższenie wynagrodzeń urzędników i innych pracowników sądów i prokuratury lub pracowników Biura Służby Prawnej Trybunału Konstytucyjnego następuje w terminach i na zasadach określonych dla pracowników państwowej sfery budżetowej nieobjętych mnożnikowymi systemami wynagrodzeń.
 
@@ -209,7 +248,18 @@ source: "isap-pdf"
 
 **Art. 16.** Za wieloletnią pracę urzędnik i inny pracownik sądu lub prokuratury lub pracownik Biura Służby Prawnej Trybunału Konstytucyjnego otrzymuje nagrodę jubileuszową w wysokości:
 
+- **1)** po 20 latach pracy 75 % wynagrodzenia miesięcznego;
+- **2)** po 25 latach pracy 100 % wynagrodzenia miesięcznego;
+- **3)** po 30 latach pracy 150 % wynagrodzenia miesięcznego;
+- **4)** po 35 latach pracy 200 % wynagrodzenia miesięcznego;
+- **5)** po 40 latach pracy 300 % wynagrodzenia miesięcznego;
+- **6)** po 45 latach pracy 400 % wynagrodzenia miesięcznego.
+
 **Art. 17.** Urzędnikowi albo innemu pracownikowi sądu lub prokuratury lub pracownikowi Biura Służby Prawnej Trybunału Konstytucyjnego, którego stosunek pracy ustał w związku z przejściem na rentę z tytułu niezdolności pracy lub na emeryturę, przysługuje jednorazowa odprawa w wysokości:
+
+- **1)** dwumiesięcznego wynagrodzenia po 10 latach pracy w sądzie lub prokuraturze lub Trybunale Konstytucyjnym;
+- **2)** trzymiesięcznego wynagrodzenia po 15 latach pracy w sądzie lub prokuraturze lub Trybunale Konstytucyjnym;
+- **3)** sześciomiesięcznego wynagrodzenia po 20 latach pracy w sądzie lub prokuraturze lub Trybunale Konstytucyjnym. lub pracowników Biura Służby Prawnej Trybunału Konstytucyjnego stosuje się odpowiednio przepisy ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2023 r. poz. 1917 oraz z 2025 r. poz. 39, 620 i 820), a w sprawach nieuregulowanych także w tej ustawie przepisy ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277 i 807).
 
 **Art. 19.** (pominięty)
 

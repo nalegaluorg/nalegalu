@@ -8,10 +8,10 @@ pos: 2032
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 listopada Poz. 2032 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ dnia 24 października w sprawie sposobu ustalania nadwyżki środków finansowych Agencji Mienia Wojskowego Na podstawie art. 22 ust. 4 dnia 27 sierpnia 2009 o finansach publicznych (Dz. 2016 1870, późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa sposób ustalania nadwyżki środków finansowych Agencji Mienia Wojskowego, zwanej dalej „Agencją”, podlegających wpłacie do budżetu państwa.
+# Rozporządzenie Ministra Obrony Narodowejz dnia 24 października 2017 r. w sprawie sposobu ustalania nadwyżki środków finansowych Agencji Mienia Wojskowego
 
 | Pole | Wartość |
 |---|---|
@@ -22,24 +22,43 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2017-10-24 |
 | Data wydania | 2017-11-02 |
+| Wejście w życie | 2017-11-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002032) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2032/text.pdf) |
 
-§ 2. 1. Nadwyżkę środków finansowych Agencji stanowią środki finansowe pochodzące ze źródeł, o których mowa w ust. 2, niewykorzystane do końca danego roku budżetowego.
-2. Przy ustalaniu nadwyżki środków finansowych Agencji uwzględnia się uzyskane dochody pochodzące ze źródeł innych niż budżet państwa oraz wydatki poniesione przez Agencję, wyjątkiem wydatków na realizację zadań, na które Agencja otrzymała środki pochodzące budżetu państwa.
-3. Przy ustalaniu nadwyżki środków finansowych Agencji uwzględnia się środki finansowe zgromadzone na rachunkach bankowych na koniec danego roku budżetowego, wyjątkiem dywidend, niewykorzystanych środków dotacji podlegających zwrotowi, środków, o których mowa w art. 5 ust. 1 pkt 2 dnia 27 sierpnia 2009 o finansach publicznych, oraz środków finansowych o ograniczonej możliwości dysponowania:
-1) zakładowego funduszu świadczeń socjalnych oraz funduszu remontowego;
-2) wadiów;
-3) kaucji gwarancyjnych i zabezpieczeń należytego wykonania umów;
-4) przedpłat dokonanych przez kontrahentów Agencji, które znajdują się na rachunkach bankowych Agencji na koniec danego roku budżetowego, w tym przedpłat dokonywanych na rzecz Agencji w ramach realizacji zadań obszaru obronności i bezpieczeństwa państwa;
-5) nadpłat i wpłat omyłkowych dokonanych przez kontrahentów Agencji.
-4. Przy ustalaniu nadwyżki środków finansowych środki podlegające rozliczeniu pomniejsza się o ustalone na koniec roku budżetowego:
-1) zobowiązania podatkowe;
-2) zobowiązania tytułu odpisów na Fundusz Modernizacji Sił Zbrojnych i Fundusz Modernizacji Bezpieczeństwa Publicznego;
-Dziennik Ustaw – 2 – Poz. 2032
-3) zobowiązania wymagalne terminem płatności do dnia 31 marca roku następnego, wyłączeniem zobowiązań związanych ze środkami pieniężnymi nieuwzględnianymi przy ustalaniu nadwyżki;
-4) środki finansowe przeznaczone do wykonywania zadań dotyczących obronności i bezpieczeństwa państwa, o których mowa w art. 7 ust. 1 pkt 6, 9 i 15 dnia 10 lipca 2015 o Agencji Mienia Wojskowego (Dz.
-1456), ujęte w planie finansowym Agencji na kolejny rok budżetowy.
-§ 3. Rozporządzenie ma zastosowanie po raz pierwszy do ustalania nadwyżki środków finansowych Agencji za 2016 § 4. Rozporządzenie wchodzi w życie dniem następującym po dniu ogłoszenia.
-Minister Obrony Narodowej: A. Macierewicz
+Treść rozporządzenia
+Na podstawie art. 22 ust. 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa sposób ustalania nadwyżki środków finansowych Agencji Mienia Wojskowego, zwanej dalej „Agencją”, podlegających wpłacie do budżetu państwa.
+§ 2.
+1.
+Nadwyżkę środków finansowych Agencji stanowią środki finansowe pochodzące ze źródeł, o których mowa w ust. 2, niewykorzystane do końca danego roku budżetowego.
+2.
+Przy ustalaniu nadwyżki środków finansowych Agencji uwzględnia się uzyskane dochody pochodzące ze źródeł innych niż budżet państwa oraz wydatki poniesione przez Agencję, z wyjątkiem wydatków na realizację zadań, na które Agencja otrzymała środki pochodzące z budżetu państwa.
+3.
+Przy ustalaniu nadwyżki środków finansowych Agencji uwzględnia się środki finansowe zgromadzone na rachunkach bankowych na koniec danego roku budżetowego, z wyjątkiem dywidend, niewykorzystanych środków z dotacji podlegających zwrotowi, środków, o których mowa w art. 5 ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, oraz środków finansowych o ograniczonej możliwości dysponowania:
+1)
+zakładowego funduszu świadczeń socjalnych oraz funduszu remontowego;
+2)
+wadiów;
+3)
+kaucji gwarancyjnych i zabezpieczeń należytego wykonania umów;
+4)
+przedpłat dokonanych przez kontrahentów Agencji, które znajdują się na rachunkach bankowych Agencji na koniec danego roku budżetowego, w tym przedpłat dokonywanych na rzecz Agencji w ramach realizacji zadań z obszaru obronności i bezpieczeństwa państwa;
+5)
+nadpłat i wpłat omyłkowych dokonanych przez kontrahentów Agencji.
+4.
+Przy ustalaniu nadwyżki środków finansowych środki podlegające rozliczeniu pomniejsza się o ustalone na koniec roku budżetowego:
+1)
+zobowiązania podatkowe;
+2)
+zobowiązania z tytułu odpisów na Fundusz Modernizacji Sił Zbrojnych i Fundusz Modernizacji Bezpieczeństwa Publicznego;
+3)
+zobowiązania wymagalne z terminem płatności do dnia 31 marca roku następnego, z wyłączeniem zobowiązań związanych ze środkami pieniężnymi nieuwzględnianymi przy ustalaniu nadwyżki;
+4)
+środki finansowe przeznaczone do wykonywania zadań dotyczących obronności i bezpieczeństwa państwa, o których mowa w art. 7 ust. 1 pkt 6, 9 i 15 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2017 r. poz. 1456), ujęte w planie finansowym Agencji na kolejny rok budżetowy.
+§ 3.
+Rozporządzenie ma zastosowanie po raz pierwszy do ustalania nadwyżki środków finansowych Agencji za 2016 r.
+§ 4.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

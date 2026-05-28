@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy Prawo restrukturyzacyjne
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 marca 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 kwietnia 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-04-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000533) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/533/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 marca 2026 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy Prawo restrukturyzacyjne
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 maja 2015 r. Prawo restrukturyzacyjne (Dz. U. z 2024 r. poz. 1428), z uwzględnieniem stanu prawnego na dzień 25 marca 2026 r. oraz zmian wprowadzonych:
 1) ustawą z dnia 25 lipca 2025 r. o zmianie ustawy Prawo restrukturyzacyjne, ustawy Prawo upadłościowe oraz ustawy o Krajowym Rejestrze Zadłużonych (Dz. U. poz. 1085);
 2) ustawą z dnia 5 sierpnia 2025 r. o zmianie ustawy Prawo bankowe oraz niektórych innych ustaw (Dz. U. poz. 1170);
@@ -41,6 +41,13 @@ Art. 401–447. (pominięte)
 
 **Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
 
+- **3)** art. 16 ustawy z dnia 5 sierpnia 2025 r. o zmianie ustawy Kodeks postępowania cywilnego, ustawy Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1172), który stanowi: „Art. 16. Ustawa wchodzi w życie z dniem 1 marca 2026 r., z wyjątkiem:
+- **1)** art. 1 pkt 5 w zakresie art. 125 § 2, który wchodzi w życie z dniem 1 marca 2027 r.;
+- **2)** art. 1 pkt 9, 10, pkt 11 lit. c, pkt 14, 16–18, 21–23 i 35, art. 7, art. 10 oraz art. 14 ust. 3 i 4, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
+- **3)** art. 1 pkt 11 lit. a i b, które wchodzą w życie z dniem 1 czerwca 2026 r.;
+- **4)** art. 2, art. 9 i art. 13, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia.”;
+- **4)** art. 35 ustawy z dnia 23 stycznia 2026 r. o zmianie ustawy Kodeks spółek handlowych oraz niektórych innych ustaw (Dz. U. poz. 176), który stanowi: „Art. 35. Ustawa wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia, z wyjątkiem art. 28 i art. 33, które wchodzą w życie z dniem 28 lutego 2026 r.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 15 maja 2015 r. Prawo restrukturyzacyjne
+
 ## TYTUŁ I Przepisy ogólne o postępowaniach restrukturyzacyjnych i ich skutkach
 
 ### DZIAŁ I Przepisy ogólne
@@ -49,7 +56,15 @@ Art. 401–447. (pominięte)
 
 **Art. 1.** Ustawa reguluje:
 
+- **1)** zawieranie przez dłużnika niewypłacalnego lub zagrożonego niewypłacalnością układu z wierzycielami oraz skutki układu;
+- **2)** przeprowadzanie działań sanacyjnych.
+
 **Art. 2.** Restrukturyzację przeprowadza się w następujących postępowaniach restrukturyzacyjnych:
+
+- **1)** postępowaniu o zatwierdzenie układu;
+- **2)** przyspieszonym postępowaniu układowym;
+- **3)** postępowaniu układowym;
+- **4)** postępowaniu sanacyjnym.
 
 **Art. 3.**
 
@@ -516,6 +531,11 @@ Art. 401–447. (pominięte)
 2. Przepisy art. 36 ust. 2 i 3 oraz art. 37 ust. 1 stosuje się odpowiednio.
 
 **Art. 40.** Do czynności nadzorcy sądowego należy w szczególności:
+
+- **1)** zawiadomienie wierzycieli o otwarciu postępowania restrukturyzacyjnego;
+- **2)** sporządzenie planu restrukturyzacyjnego i spisu wierzytelności;
+- **3)** ocena propozycji układowych, w tym, w razie potrzeby, doradztwo w zakresie ich zmiany w celu zapewnienia zgodności z prawem i możliwości ich wykonania, podejmowanie działań w celu złożenia przez wierzycieli możliwie największej liczby ważnych głosów, udział w zgromadzeniu wierzycieli oraz złożenie opinii o możliwości wykonania układu;
+- **4)** w przyspieszonym postępowaniu układowym sporządzenie spisu wierzytelności spornych.
 
 **Art. 41.** Nadzorca sądowy nie ponosi odpowiedzialności za prawdziwość informacji dostarczonych mu przez dłużnika, pouczonego o odpowiedzialności karnej za dostarczanie nieprawdziwych informacji w celu wykorzystania w postępowaniu restrukturyzacyjnym oraz za zatajanie informacji mających istotne znaczenie dla przeprowadzenia postępowania restrukturyzacyjnego. Nie zwalnia to nadzorcy sądowego z obowiązku rzetelnego weryfikowania przedstawionych informacji, w szczególności w przypadku gdy istnieją uzasadnione wątpliwości co do ich prawdziwości.
 
@@ -1109,6 +1129,10 @@ Art. 401–447. (pominięte)
 ##### Oddział 1 Przepisy ogólne
 
 **Art. 104.** Zgromadzenie wierzycieli zwołuje sędzia-komisarz w:
+
+- **1)** celu głosowania nad układem;
+- **2)** przypadku, gdy rada wierzycieli podejmie uchwałę o zwołaniu zgromadzenia;
+- **3)** przypadku, gdy uzna to za potrzebne.
 
 **Art. 105.**
 
@@ -2374,6 +2398,24 @@ Art. 401–447. (pominięte)
 
 **Art. 220.** Sprawozdanie nadzorcy układu zawiera:
 
+- **1)** stwierdzenie przyjęcia układu;
+- **2)** ocenę zgodności z prawem przebiegu samodzielnego zbierania głosów wraz ze wskazaniem innych okoliczności, które mogą mieć wpływ na zatwierdzenie układu;
+- **3)** zastrzeżenia wierzycieli, o których mowa w art. 216 ust. 2;
+- **4)** ocenę możliwości wykonania układu;
+- **5)** wskazanie miejsc, w których znajduje się przedsiębiorstwo lub inny majątek dłużnika;
+- **6)** aktualny wykaz majątku dłużnika z szacunkową wyceną jego składników;
+- **7)** bilans sporządzony przez dłużnika dla celów postępowania o zatwierdzenie układu, na dzień przypadający w okresie trzydziestu dni przed dniem złożenia wniosku;
+- **8)** spis wierzytelności, sporządzony przez nadzorcę układu, ze wskazaniem, czy wierzyciel głosował za, czy przeciw układowi;
+- **9)** spis wierzytelności spornych, sporządzony przez nadzorcę układu;
+- **10)** wskazanie sumy wierzytelności z wyszczególnieniem, jaką część stanowią wierzytelności sporne;
+- **11)** listę zabezpieczeń dokonanych przez wierzycieli na majątku dłużnika wraz z datami ich ustanowienia;
+- **12)** spis podmiotów zobowiązanych majątkowo wobec dłużnika wraz z adresami, z określeniem wierzytelności i terminów ich zapłaty;
+- **13)** wykaz tytułów egzekucyjnych oraz tytułów wykonawczych przeciwko dłużnikowi;
+- **14)** informację o postępowaniach dotyczących ustanowienia na majątku dłużnika hipotek, zastawów, zastawów rejestrowych, zastawów skarbowych i hipotek morskich oraz innych obciążeń podlegających wpisowi w księdze wieczystej lub w rejestrach, jak również o prowadzonych innych postępowaniach sądowych, administracyjnych, sądowoadministracyjnych oraz przed sądami polubownymi dotyczących majątku dłużnika;
+- **15)** dokument potwierdzający zawarcie umowy ubezpieczenia odpowiedzialności cywilnej za szkody wyrządzone w związku z pełnieniem funkcji nadzorcy układu;
+- **16)** plan restrukturyzacyjny;
+- **17)** informacje, o których mowa w art. 140, oraz kopię zawiadomienia i opinii organu, o których mowa w art. 204, albo informację, że żaden organ takiego zawiadomienia lub opinii nie złożył.
+
 **Art. 221.**
 
 1. Do wniosku dłużnika o zatwierdzenie układu niespełniającego wymogów określonych w art. 219 lub art. 220 przepis art. 130 Kodeksu postępowania cywilnego stosuje się odpowiednio.
@@ -3356,6 +3398,10 @@ Art. 401–447. (pominięte)
 
 **Art. 348.** W ramach współpracy z sądem zagranicznym i zarządcą zagranicznym sąd i sędzia-komisarz mogą podejmować działania, które zapewniają sprawne prowadzenie postępowań restrukturyzacyjnych, w szczególności przekazywać oraz zwracać się o informacje o:
 
+- **1)** majątku dłużnika i miejscu jego położenia, jak również informacje o postępowaniach sądowych, administracyjnych, sądowoadministracyjnych i przed sądami polubownymi dotyczących dłużnika;
+- **2)** sposobie zabezpieczenia i restrukturyzacji zobowiązań;
+- **3)** zaspokojeniu poszczególnych wierzycieli.
+
 ## TYTUŁ IV Odrębne postępowania restrukturyzacyjne
 
 ### DZIAŁ I Postępowanie restrukturyzacyjne wobec deweloperów
@@ -3363,6 +3409,10 @@ Art. 401–447. (pominięte)
 **Art. 349.** Przepisy niniejszego działu stosuje się w przypadku wszczęcia postępowania restrukturyzacyjnego wobec dewelopera w rozumieniu art. 5 pkt 1 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. z 2024 r. poz. 695, z 2025 r. poz. 758, 1077, 1167 i 1669 oraz z 2026 r. poz. 27).
 
 **Art. 350.** Ilekroć w przepisach niniejszego działu jest mowa o:
+
+- **1)** nabywcy należy przez to rozumieć osobę fizyczną, osobę prawną, a także jednostkę organizacyjną niebędącą osobą prawną, której odrębna ustawa przyznaje zdolność prawną, wobec której deweloper zobowiązał się do przeniesienia praw wynikających z umowy deweloperskiej, o której mowa w art. 5 pkt 6 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym, albo jednej z umów, o których mowa w art. 2 ust. 1 pkt 2, 3 lub 5 lub ust. 2 tej ustawy, i która zobowiązała się do spełnienia świadczenia pieniężnego na rzecz dewelopera na poczet ceny nabycia tego prawa;
+- **2)** przeniesieniu własności lokalu należy przez to rozumieć przeniesienie własności lokalu mieszkalnego, a także przeniesienie własności nieruchomości gruntowej zabudowanej domem jednorodzinnym lub użytkowania wieczystego nieruchomości gruntowej i własności domu jednorodzinnego na niej posadowionego stanowiącego odrębną nieruchomość lub przeniesienie ułamkowej części własności nieruchomości, lub przeniesienie własności lokalu użytkowego na podstawie umowy, o której mowa w art. 2 ust. 2 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym;
+- **3)** umowie deweloperskiej należy przez to rozumieć umowę między dłużnikiem a nabywcą, której przedmiotem jest przeniesienie praw wynikających z umowy deweloperskiej, o której mowa w art. 5 pkt 6 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym, albo jednej z umów, o których mowa w art. 2 ust. 1 pkt 2, 3 lub 5 lub ust. 2 tej ustawy.
 
 **Art. 351.** Wobec dewelopera nie prowadzi się postępowania o zatwierdzenie układu, z wyjątkiem układu częściowego, jeżeli nie są nim objęte wierzytelności nabywców oraz wierzytelności zabezpieczone na nieruchomości, na której jest prowadzone przedsięwzięcie deweloperskie.
 
@@ -3521,4 +3571,9 @@ Art. 401–447. (pominięte)
 ### DZIAŁ III Przepis końcowy
 
 **Art. 456.** Ustawa wchodzi w życie z dniem 1 stycznia 2016 r., z wyjątkiem:
+
+- **1)** art. 5, który wchodzi w życie z dniem 26 czerwca 2018 r.;
+- **2)** art. 148 i art. 149, które wchodzą w życie z dniem 1 września 2015 r.;
+- **3)** art. 428 pkt 138 w zakresie dotyczącym art. 227, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
 

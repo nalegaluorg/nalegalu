@@ -8,12 +8,10 @@ pos: 2221
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o organizacji rynków owoców i warzyw oraz rynku chmielu
-
-*USTAWA z dnia 19 grudnia 2003 r.*
+# Ustawa z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego
 
 | Pole | Wartość |
 |---|---|
@@ -24,636 +22,445 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2003-12-19 |
 | Data wydania | 2003-12-29 |
+| Wejście w życie | 2004-05-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20032232221) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/2221/text.pdf) |
 
-Art. 41–43. (pominięte)
-Art. 44–54. (pominięte)
+W 2004 r. do kwotowania produkcji surowca tytoniowego oraz do rejonizacji upraw tytoniu stosuje się zasady określone w art. 45–50.
+1.
+Wprowadza się kwotowanie produkcji surowca tytoniowego na 2004 r.
+2.
+Krajowa kwota produkcji surowca tytoniowego, w podziale na grupy użytkowe tytoniu, wynosi:
+1)
+22 200 t tytoniu jasnego – odmian typu Virginia;
+2)
+12 633 t tytoniu jasnego – odmian typu Burley;
+3)
+1 867 t tytoniu ciemnego suszonego powietrzem;
+4)
+1 233 t tytoniu ciemnego suszonego powietrzem z możliwością dosuszenia i wędzenia.
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
 
-1. Ustawa określa:
+1. Ustawa określa zadania i właściwość jednostek organizacyjnych i organów w zakresie określonej przepisami Unii Europejskiej organizacji rynków:
 
-- **1)** zadania i właściwość jednostek organizacyjnych i organów w zakresie określonej przepisami Unii Europejskiej organizacji rynków:
-    - **a)** owoców i warzyw,
-    - **b)** chmielu.
-    - **c)** (uchylona)
-    - **d)** (uchylona)
-
-- **2)** (uchylony) 1a. Przepisy ustawy nie mają zastosowania do programów operacyjnych innych niż objęte przepisami art. 5 ust. 4 i ust. 6 akapit pierwszy lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2117 z dnia 2 grudnia 2021 r. zmieniającego rozporządzenia (UE) nr 1308/2013 ustanawiające wspólną organizację rynków produktów rolnych, (UE) nr 1151/2012 w sprawie systemów jakości produktów rolnych i środków spożywczych, (UE) nr 251/2014 w sprawie definicji, opisu, prezentacji, etykietowania i ochrony oznaczeń geograficznych aromatyzowanych produktów sektora wina i (UE) nr 228/2013 ustanawiające szczególne środki w dziedzinie rolnictwa na rzecz regionów najbardziej oddalonych w Unii Europejskiej (Dz. Urz. UE L 435 z 06.12.2021, str. 262).
+- **1)** owoców i warzyw;
+- **2)** chmielu;
+- **3)** tytoniu;
+- **4)** suszu paszowego.
 
 2. Do organizacji rynków, o których mowa w ust. 1, nie stosuje się przepisów o ochronie konkurencji.
 
-3. Minister właściwy do spraw rynków rolnych ogłosi, w drodze obwieszczenia, wykaz przepisów Unii Europejskiej, o których mowa w ust. 1 pkt 1.
-
-**Art. 1a.** (uchylony)
-
-**Art. 1b.** Do postępowania w sprawach indywidualnych rozstrzyganych w drodze decyzji administracyjnych stosuje się przepisy Kodeksu postępowania administracyjnego, chyba że ustawa albo przepisy wymienione w art. 1 ust. 1 pkt 1 stanowią inaczej.
+3. Minister właściwy do spraw rynków rolnych ogłosi, w drodze obwieszczenia, wykaz przepisów Unii Europejskiej, o których mowa w ust. 1.
 
 #### Rozdział 2 Rynki owoców i warzyw
 
 **Art. 2.**
 
-1. W zakresie określonym przepisami Unii Europejskiej, jeżeli ustawa nie stanowi inaczej, zadania i kompetencje właściwego organu państwa członkowskiego wykonuje dyrektor oddziału regionalnego Agencji Restrukturyzacji i Modernizacji Rolnictwa, zwanej dalej „Agencją”, w tym dokonuje powiadomień, przekazuje informacje oraz wydaje decyzje w sprawach:
+1. W zakresie określonym przepisami Unii Europejskiej wojewoda wydaje decyzje w sprawach:
 
-- **1)** zmian do zatwierdzonego planu dochodzenia do uznania wstępnie uznanej grupy producentów owoców i warzyw za organizację producentów owoców i warzyw, zwanego dalej „planem dochodzenia do uznania”, z wyłączeniem zmian określonych w przepisach wydanych na podstawie art. 19 ust. 2 pkt 19;
-- **2)** uznania organizacji producentów owoców i warzyw, zwanej dalej „organizacją producentów”, i zrzeszeń organizacji producentów;
-- **3)** uznania ponadnarodowych organizacji producentów i ich zrzeszeń;
-- **4)** zawieszenia albo cofnięcia:
-    - **a)** wstępnego uznania grupy producentów owoców i warzyw za organizację producentów, zwanej dalej „grupą producentów”,
-    - **b)** uznania organizacji producentów i ich zrzeszeń,
-    - **c)** uznania ponadnarodowych organizacji producentów i ich zrzeszeń;
-
-- **5)** innych niż wymienione w pkt 1–4, dotyczących rynków owoców i warzyw.
-
-2. Oprócz przypadków, o których mowa w art. 114 i art. 115 rozporządzenia wykonawczego Komisji (UE) nr 543/2011 z dnia 7 czerwca 2011 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1234/2007 w odniesieniu do sektora owoców i warzyw oraz sektora przetworzonych owoców i warzyw (Dz. Urz. UE L 157 z 15.06.2011, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 543/2011”, dyrektor oddziału regionalnego Agencji wydaje decyzję o zawieszeniu uznania albo wstępnego uznania także w przypadku, gdy:
-
-- **1)** organizacja producentów albo ich zrzeszenie nie przekazuje informacji, o których mowa w art. 13 ust. 1 pkt 2–5;
-- **2)** grupa producentów nie przekazuje informacji, o których mowa w art. 13 ust. 1a, albo informacji określonych w przepisach wydanych na podstawie art. 19 ust. 2 pkt 19.
-
-3. W zakresie określonym przepisami Unii Europejskiej dyrektor oddziału regionalnego Agencji przeprowadza kontrole w zakresie spełniania warunków:
-
-- **1)** wstępnego uznania grupy producentów;
-- **2)** zmian do zatwierdzonego planu dochodzenia do uznania;
+- **1)** wstępnego uznania grupy producentów owoców i warzyw, zwanej dalej „grupą producentów”, i zatwierdzenia planu dochodzenia do uznania tej grupy za organizację producentów owoców i warzyw, zwaną dalej „organizacją producentów”;
+- **2)** zmian do zatwierdzonego planu dochodzenia do uznania wstępnie uznanej grupy producentów za organizację producentów, zwanego dalej „planem dochodzenia do uznania”;
 - **3)** uznania organizacji producentów i ich zrzeszeń;
-- **4)** uznania ponadnarodowych organizacji producentów i ich zrzeszeń.
+- **4)** uznania ponadnarodowych organizacji producentów i ich zrzeszeń;
+- **5)** cofnięcia: wstępnego uznania grupy producentów, uznania organizacji producentów i ich zrzeszeń, uznania ponadnarodowych organizacji producentów i ich zrzeszeń.
+    - **a)**
+    - **b)**
+    - **c)**
 
-**Art. 2a.**
+2. W zakresie określonym przepisami Unii Europejskiej wojewoda:
 
-1. Realizacja planu dochodzenia do uznania może odbywać się w okresach rocznych lub półrocznych.
+- **1)** przeprowadza kontrole w zakresie spełniania warunków: wstępnego uznania grupy producentów i zatwierdzenia planu dochodzenia do uznania, zmian do zatwierdzonego planu dochodzenia do uznania, uznania organizacji producentów i ich zrzeszeń, uznania ponadnarodowych organizacji producentów i ich zrzeszeń;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
-2. Okres, o którym mowa w art. 49 ust. 4 rozporządzenia nr 543/2011, wynosi 4 miesiące.
+- **2)** współpracuje z właściwymi władzami państw członkowskich Unii Europejskiej w zakresie uznawania i kontroli ponadnarodowych organizacji producentów i ich zrzeszeń.
 
-**Art. 2b.**
+3. Od decyzji, o których mowa w ust. 1, przysługuje odwołanie do ministra właściwego do spraw rynków rolnych.
 
-1. Prezes Agencji prowadzi rejestr wstępnie uznanych grup producentów, uznanych organizacji producentów i ich zrzeszeń oraz ponadnarodowych organizacji producentów i ich zrzeszeń.
+**Art. 3.** Wojewoda przekazuje ministrowi właściwemu do spraw rynków rolnych, Prezesowi Agencji Rynku Rolnego, zwanej dalej „Agencją”, oraz Prezesowi Agencji Restrukturyzacji i Modernizacji Rolnictwa, zwanej dalej „Agencją Restrukturyzacji”, informacje o:
 
-2. Rejestr zawiera:
+- **1)** dacie wydania decyzji o wstępnym uznaniu grupy producentów i okresie realizacji zatwierdzonego planu dochodzenia do uznania,
+- **2)** wydaniu decyzji, o których mowa w art. 2 ust. 1 pkt 2–5 w terminie 7 dni od dnia wydania decyzji.
 
-- **1)** nazwę, siedzibę i dane teleadresowe wstępnie uznanych grup producentów, uznanych organizacji producentów i ich zrzeszeń oraz ponadnarodowych organizacji producentów i ich zrzeszeń;
-- **2)** datę wydania decyzji o wstępnym uznaniu grupy producentów i zatwierdzeniu planu dochodzenia do uznania oraz decyzji, o których mowa w art. 2 ust. 1 pkt 2–4;
-- **3)** nazwę grupy lub grup produktów, ze względu na które:
-    - **a)** grupa producentów otrzymała decyzję o wstępnym uznaniu grupy producentów i zatwierdzeniu planu dochodzenia do uznania,
-    - **b)** organizacja producentów i ich zrzeszenie oraz ponadnarodowa organizacja producentów i ich zrzeszenie otrzymały decyzje, o których mowa w art. 2 ust. 1 pkt 2 i 3;
+**Art. 4.**
 
-- **4)** liczbę członków wstępnie uznanej grupy producentów, uznanej organizacji producentów i ich zrzeszenia oraz ponadnarodowej organizacji producentów i ich zrzeszenia;
-- **5)** imię i nazwisko osoby uprawnionej do reprezentowania wstępnie uznanej grupy producentów, uznanej organizacji producentów i ich zrzeszenia oraz ponadnarodowej organizacji producentów i ich zrzeszenia.
+1. Wniosek o wydanie decyzji, o której mowa w art. 2 ust. 1 pkt 1, zawiera:
 
-3. Rejestr jest jawny i udostępniany na stronie internetowej Agencji.
+- **1)** nazwę, określenie siedziby i adres wnioskodawcy;
+- **2)** kategorię lub kategorie produktów określonych przepisami Unii Europejskiej, ze względu na które wnioskuje się o wstępne uznanie;
+- **3)** informacje o liczbie członków oraz wartości produktów wytworzonych przez członków grupy producentów i sprzedanych w roku poprzedzającym rok złożenia wniosku.
 
-4. Prezes Agencji jest obowiązany do wprowadzenia do rejestru każdej zmiany danych zawartych w rejestrze.
+2. Do wniosku dołącza się:
 
-**Art. 3.** (uchylony)
-
-**Art. 3a.** (uchylony)
-
-**Art. 3b.**
-
-1. Dyrektor oddziału regionalnego Agencji wydaje decyzję w sprawie zmiany do zatwierdzonego planu dochodzenia do uznania w zakresie zwiększenia wydatków zgodnie z art. 39 ust. 2 akapit trzeci rozporządzenia nr 543/2011.
-
-2. (uchylony)
-
-3. (uchylony)
-
-**Art. 3c.**
-
-1. Minister właściwy do spraw rynków rolnych dokonuje oceny wniosku, o którym mowa w art. 164 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.), zwanego dalej „rozporządzeniem nr 1308/2013”.
-
-2. Minister właściwy do spraw rynków rolnych może określić, w drodze rozporządzenia, poziom reprezentatywności, o którym mowa w art. 164 ust. 3 akapit drugi rozporządzenia nr 1308/2013, mając na względzie zapewnienie właściwego funkcjonowania porozumień, decyzji lub praktyk uzgodnionych w ramach uznanej organizacji producentów lub ich zrzeszenia rozszerzonych na producentów niebędących członkami tych organizacji oraz ochrony interesów podmiotów działających na rynku.
-
-3. W przypadku stwierdzenia spełniania warunków określonych w art. 164 rozporządzenia nr 1308/2013 oraz w przepisach wydanych na podstawie ust. 2, minister właściwy do spraw rynków rolnych wprowadza, w drodze rozporządzenia, porozumienia, decyzje lub praktyki uzgodnione w ramach uznanej organizacji producentów lub ich zrzeszenia, podając zakres stosowania tych porozumień, decyzji lub praktyk oraz okres, przez jaki mają być stosowane te porozumienia, decyzje lub praktyki, a także obszar gospodarczy, na którym mają być one stosowane, mając na względzie zapewnienie prawidłowego funkcjonowania rynku owoców i warzyw oraz niezakłócania konkurencji na tym rynku, a także biorąc pod uwagę cele, jakich mogą dotyczyć te porozumienia, decyzje lub praktyki.
-
-**Art. 3d.** Minister właściwy do spraw rynków rolnych przekazuje Komisji Europejskiej informacje, o których mowa w art. 164 ust. 6 rozporządzenia nr 1308/2013.
-
-**Art. 4.** (uchylony)
+- **1)** dokument urzędowy potwierdzający, że wnioskodawca jest osobą prawną, oraz wskazujący organy i osoby uprawnione do reprezentowania wnioskodawcy;
+- **2)** statut albo umowę grupy producentów;
+- **3)** dokumenty potwierdzające informacje, o których mowa w ust. 1 pkt 3;
+- **4)** plan dochodzenia do uznania pozytywnie zaopiniowany przez dyrektora oddziału regionalnego Agencji Restrukturyzacji właściwego ze względu na siedzibę grupy producentów.
 
 **Art. 5.**
 
-1. Wniosek o wydanie decyzji, o której mowa w art. 2 ust. 1 pkt 1, składa się w terminie do:
-
-- **1)** końca okresu rozliczeniowego, którego dotyczy zmiana w planie dochodzenia do uznania – w przypadku zmian w harmonogramie realizacji planu dochodzenia do uznania lub zmian harmonogramu etapu inwestycji realizowanych z podziałem na etapy;
-- **2)** 3 miesięcy przed końcem okresu rozliczeniowego, którego dotyczy zmiana w planie dochodzenia do uznania – w przypadku zmian wprowadzanych do zatwierdzonego planu dochodzenia do uznania innych niż określone w pkt 1.
+1. Wniosek o wydanie decyzji, o której mowa w art. 2 ust. 1 pkt 2, składa się w terminie do 3 miesięcy przed rozpoczęciem kolejnego rocznego okresu realizacji planu dochodzenia do uznania.
 
 2. Wniosek zawiera:
 
 - **1)** nazwę, określenie siedziby i adres wnioskodawcy;
-- **2)** określenie proponowanych zmian w planie dochodzenia do uznania wraz z uzasadnieniem;
-- **3)** numer wnioskodawcy w Krajowym Rejestrze Sądowym.
+- **2)** określenie proponowanych zmian w planie dochodzenia do uznania wraz z uzasadnieniem.
 
 3. Do wniosku dołącza się:
 
-- **1)** dokumenty potwierdzające aktualny stan realizacji planu dochodzenia do uznania.
-- **2)** (uchylony)
-- **3)** (uchylony)
+- **1)** dokumenty potwierdzające aktualny stan realizacji planu dochodzenia do uznania;
+- **2)** pozytywną opinię dyrektora oddziału regionalnego Agencji Restrukturyzacji właściwego ze względu na siedzibę grupy producentów, dotyczącą proponowanych zmian w planie dochodzenia do uznania;
+- **3)** dokument urzędowy wskazujący organy i osoby uprawnione do reprezentowania wnioskodawcy.
 
 **Art. 6.**
 
-1. Wniosek o wydanie decyzji, o których mowa w art. 2 ust. 1 pkt 2 i 3, zawiera:
+1. Wniosek o wydanie decyzji, o których mowa w art. 2 ust. 1 pkt 3 i 4, zawiera:
 
 - **1)** nazwę, określenie siedziby i adres wnioskodawcy;
 - **2)** wykaz organizacji producentów tworzących zrzeszenie;
-- **3)** nazwę grupy lub grup produktów określonych w przepisach wydanych na podstawie art. 8 ust. 1 pkt 2, ze względu na które wnioskuje się o uznanie;
-- **4)** informacje o liczbie członków organizacji producentów oraz wartości produktów wytworzonych przez członków organizacji producentów i sprzedanych w okresie odniesienia wskazanym w przepisach wydanych na podstawie art. 8 ust. 1 pkt 2;
-- **5)** numer wnioskodawcy w Krajowym Rejestrze Sądowym;
-- **6)** numer identyfikacyjny nadany wnioskodawcy w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności.
+- **3)** kategorię lub kategorie produktów określonych przepisami Unii Europejskiej, ze względu na które organizacja producentów wnioskuje o uznanie;
+- **4)** informacje o liczbie członków organizacji producentów oraz wartości produktów wytworzonych przez członków organizacji producentów i sprzedanych w roku poprzedzającym rok złożenia wniosku.
 
 2. Do wniosku dołącza się:
 
 - **1)** statut albo umowę organizacji producentów;
 - **2)** umowę o utworzeniu zrzeszenia organizacji producentów określającą przedmiot i zakres jego działania;
-- **3)** kopię decyzji o uznaniu organizacji producentów tworzących zrzeszenie.
-- **4)** (uchylony)
-
-3. Wniosek można składać za pomocą systemu teleinformatycznego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
+- **3)** kopię decyzji o uznaniu organizacji producentów tworzących zrzeszenie;
+- **4)** dokument urzędowy potwierdzający, że wnioskodawca jest osobą prawną, oraz wskazujący organy i osoby uprawnione do reprezentowania wnioskodawcy.
 
 **Art. 7.**
 
-1. Dyrektor oddziału regionalnego Agencji opracowuje roczny plan przeprowadzania kontroli, o których mowa w art. 2 ust. 3.
+1. Wojewoda opracowuje roczny plan przeprowadzania kontroli, o których mowa w art. 2 ust. 2 pkt 1.
 
-1a. Do kontroli, o których mowa w art. 2 ust. 3, stosuje się odpowiednio przepisy art. 20 i art. 21 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U. z 2023 r. poz. 287 i 412).
+2. Wojewoda może powierzyć przeprowadzenie kontroli, o których mowa w art. 2 ust. 2 pkt 1, jednostkom organizacyjnym dysponującym odpowiednimi warunkami organizacyjnymi, kadrowymi i technicznymi określonymi na podstawie ust. 11 pkt 2.
 
-2. (uchylony)
+3. Czynności kontrolne są wykonywane przez osoby posiadające imienne upoważnienie wydane przez wojewodę.
 
-3. (uchylony)
+4. Upoważnienie zawiera wskazanie osoby upoważnionej do wykonywania czynności kontrolnych, ich miejsce i zakres oraz podstawę prawną do ich wykonywania.
 
-4. (uchylony)
+5. Przed przystąpieniem do czynności kontrolnych osoba upoważniona do ich wykonywania jest obowiązana okazać imienne upoważnienie.
 
-5. (uchylony)
+6. Osoby upoważnione do wykonywania czynności kontrolnych mają prawo do:
 
-6. (uchylony)
+- **1)** wstępu na teren nieruchomości, obiektu, lokalu lub ich części należących do grupy producentów, organizacji producentów, zrzeszenia organizacji producentów lub ich członków i służących do prowadzenia działalności przez tę grupę, organizację, zrzeszenie lub ich członków;
+- **2)** żądania pisemnych lub ustnych informacji związanych z przedmiotem kontroli;
+- **3)** wglądu do dokumentów związanych z przedmiotem kontroli, sporządzania z nich odpisów, wyciągów lub kserokopii oraz zabezpieczania tych dokumentów.
 
-7. (uchylony)
+7. Osoba wykonująca czynności kontrolne sporządza z tych czynności protokół.
 
-8. (uchylony)
+8. Protokół podpisuje osoba wykonująca czynności kontrolne oraz kontrolowany.
 
-9. (uchylony)
+9. W przypadku odmowy podpisania protokołu przez kontrolowanego protokół podpisuje tylko osoba wykonująca czynności kontrolne, dokonując w protokole stosownej adnotacji o tej odmowie.
 
-10. (uchylony)
+10. W przypadku gdy kontrolowany nie zgadza się z ustaleniami zawartymi w protokole, może, w terminie 14 dni od dnia doręczenia protokołu, zgłosić odpowiednio wojewodzie albo jednostce organizacyjnej przeprowadzającej kontrolę umotywowane zastrzeżenia do ustaleń zawartych w protokole.
 
-11. (uchylony)
+11. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia:
+
+- **1)** wzór imiennego upoważnienia do wykonywania czynności kontrolnych, mając na względzie ujednolicenie informacji zawartych w upoważnieniu;
+- **2)** warunki organizacyjne, techniczne i kadrowe, jakie powinny spełniać jednostki organizacyjne, którym można powierzyć przeprowadzenie kontroli, mając na względzie zapewnienie wykonywania ich w jednolity sposób na obszarze całego kraju.
 
 **Art. 8.**
 
 1. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia:
 
 - **1)** warunki przystąpienia osób prawnych i osób fizycznych niebędących producentami owoców i warzyw do organizacji producentów, mając na względzie zapewnienie ochrony interesów producentów owoców i warzyw,
-- **2)** warunki wstępnego uznawania grup producentów oraz uznawania organizacji producentów lub ich zrzeszeń, w tym wykaz grup produktów, ze względu na które wnioskuje się o wstępne uznanie lub uznanie,
+- **2)** warunki wstępnego uznawania grup producentów oraz uznawania organizacji producentów,
 - **3)** warunki i wymagania, jakie powinny spełniać plany dochodzenia do uznania,
 - **4)** warunki, zgodnie z którymi organizacja producentów może zlecać zrzeszeniom organizacji producentów lub innym jednostkom organizacyjnym realizację zadań, o których mowa w przepisach Unii Europejskiej,
-- **5)** warunki wypowiedzenia członkostwa w organizacji producentów oraz okres, w którym występujący z organizacji producentów nie będzie mógł przystąpić do wstępnie uznanej grupy producentów w zakresie grupy produktów, w odniesieniu do której dana organizacja producentów została uznana,
-- **6)** maksymalną część produkcji lub produktów kwalifikującą się do sprzedaży przez członków organizacji producentów, po uzyskaniu zgody organizacji producentów, bezpośrednio w ich gospodarstwach lub poza nimi, konsumentom na ich własne potrzeby – mając na uwadze prawidłowe funkcjonowanie wstępnie uznanych grup producentów, organizacji producentów i zrzeszeń organizacji producentów oraz wykorzystanie pomocy finansowej i możliwość nadzorowania wydatkowania środków finansowych.
+- **5)** warunki wypowiedzenia członkostwa w organizacji producentów mając na uwadze prawidłowe funkcjonowanie wstępnie uznanych grup producentów, organizacji producentów i zrzeszeń organizacji producentów oraz wykorzystanie pomocy finansowej i możliwość nadzorowania wydatkowania środków finansowych,
 
-1a. Program operacyjny, o którym mowa w rozporządzeniu nr 1308/2013, zawiera co najmniej dwa działania w zakresie ochrony środowiska, o których mowa w ramach krajowych na rzecz działań w zakresie ochrony środowiska dla programów operacyjnych organizacji producentów w sektorze owoców i warzyw, zwanych dalej „ramami krajowymi”, albo co najmniej 10% wydatków poniesionych w ramach tego programu przeznacza się na działania w zakresie ochrony środowiska.
+2. Minister właściwy do spraw rynków rolnych powiadamia Komisję Europejską o:
 
-2. (uchylony)
-
-3. Prezes Agencji, w zakresie określonym przepisami Unii Europejskiej, jest organem właściwym do przekazywania Komisji Europejskiej informacji dotyczących grup producentów, organizacji producentów i zrzeszeń organizacji producentów, w tym rocznych sprawozdań, o których mowa w art. 97 rozporządzenia nr 543/2011.
-
-3a. Minister właściwy do spraw rynków rolnych, w zakresie określonym przepisami Unii Europejskiej, opracowuje projekt ram krajowych i strategii krajowej na rzecz programów operacyjnych.
-
-4. Minister właściwy do spraw rynków rolnych, w przypadku braku zastrzeżeń Komisji Europejskiej do opracowanego projektu ram krajowych, określi, w drodze rozporządzenia, warunki i sposób wdrażania strategii krajowej w programach operacyjnych, mając na względzie wytyczne Komisji Europejskiej w tym zakresie.
-
-5. (uchylony)
+- **1)** dacie wydania decyzji o wstępnym uznaniu grupy producentów i okresie realizacji zatwierdzonego planu dochodzenia do uznania;
+- **2)** decyzjach wojewody, o których mowa w art. 2 ust. 1 pkt 3–5;
+- **3)** obowiązujących w Rzeczypospolitej Polskiej wymaganiach dotyczących: minimalnej liczby członków i minimalnej wartości produktów sprzedanych niezbędnych do wstępnego uznania grupy producentów i uznania organizacji producentów, warunków, zgodnie z którymi organizacja producentów może zlecać zrzeszeniom organizacji producentów lub innym jednostkom organizacyjnym realizację zadań, o których mowa w przepisach Unii Europejskiej, warunków przystąpienia osób prawnych i osób fizycznych niebędących producentami owoców i warzyw do organizacji producentów, zapobieżenia powstawaniu dominującego wpływu jednego lub więcej członków organizacji producentów w zakresie zarządzania tą organizacją i jej funkcjonowania.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 **Art. 9.**
 
-1. W zakresie określonym przepisami Unii Europejskiej dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę wstępnie uznanej grupy producentów wydaje decyzje w sprawach:
+1. W zakresie określonym przepisami Unii Europejskiej dyrektor oddziału regionalnego Agencji Restrukturyzacji, właściwy ze względu na siedzibę wstępnie uznanej grupy producentów, organizacji producentów albo zrzeszenia organizacji producentów, wydaje decyzje w sprawach:
 
-- **1)** (uchylony)
-- **2)** (uchylony)
-- **3)** przyznania wstępnie uznanej grupie producentów pomocy finansowej na:
-    - **a)** pokrycie kosztów związanych z utworzeniem grupy producentów i prowadzeniem działalności administracyjnej,
-    - **b)** pokrycie części kwalifikowanych kosztów inwestycji ujętych w zatwierdzonym planie dochodzenia do uznania;
-
-- **4)** (uchylony)
-- **5)** (uchylony)
-- **6)** (uchylony) 6a) (uchylony)
-- **7)** (uchylony)
-- **8)** (uchylony)
-- **9)** (uchylony)
-- **10)** wymierzenia kary pieniężnej lub zastosowania innych sankcji;
-- **11)** (uchylony)
-- **12)** wyłączenia z objęcia pomocą finansową kwalifikowalnego kosztu inwestycji ujętej w zatwierdzonym planie dochodzenia do uznania, ze wskazaniem okresu tego wyłączenia;
-- **13)** wyłączenia grupy producentów ze wsparcia w ramach planu dochodzenia do uznania w kolejnym roku.
-
-1a. W decyzjach, o których mowa w ust. 1 pkt 3, określa się również obniżki pomocy, jeżeli wynikają one z przepisów Unii Europejskiej.
-
-1b. (uchylony) 1c. (uchylony) 1d. (uchylony)
-
-2. (uchylony)
-
-3. Odwołanie od decyzji, o których mowa w ust. 1 pkt 3, nie wstrzymuje ich wykonania.
-
-4. Do egzekucji należności wynikających z decyzji, o których mowa w ust. 1 pkt 10, stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
-
-5. Wnioski o wydanie decyzji, o których mowa w ust. 1 pkt 3, zawierają:
-
-- **1)** nazwę, siedzibę i adres wnioskodawcy;
-- **2)** numer identyfikacyjny nadany na podstawie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności;
-- **3)** numer rachunku bankowego, na który mają być przekazane środki finansowe;
-- **4)** kwotę wnioskowanej pomocy finansowej;
-- **5)** numer wnioskodawcy w Krajowym Rejestrze Sądowym.
-
-6. Do wniosków o wydanie decyzji, o których mowa w ust. 1 pkt 3, dołącza się:
-
-- **1)** kopie decyzji o wstępnym uznaniu grupy producentów, zatwierdzeniu planu dochodzenia do uznania oraz decyzji, o których mowa w art. 2 ust. 1 pkt 1;
-- **2)** dowody potwierdzające poniesienie kosztów kwalifikowalnych inwestycji ujętych w zatwierdzonym planie dochodzenia do uznania.
-
-7. Wnioski o wydanie decyzji, o których mowa w ust. 1 pkt 3, składa się na formularzach opracowanych przez Agencję, udostępnionych na stronie internetowej Agencji.
-
-7a. Decyzje, o których mowa w ust. 1:
-
-- **1)** pkt 3, są wydawane w terminie 3 miesięcy od dnia złożenia wniosku.
-- **2)** (uchylony)
-- **3)** (uchylony)
-- **4)** (uchylony)
-- **5)** (uchylony)
-
-8. (uchylony)
-
-9. (uchylony)
-
-10. Krajowe środki finansowe z budżetu państwa w ramach pomocy finansowej, o której mowa w ust. 1 pkt 3 lit. b, przeznacza się na dofinansowanie od 5% do 25% kwalifikowanych kosztów inwestycji.
-
-11. W przypadku wystąpienia producenta owoców i warzyw ze wstępnie uznanej grupy lub organizacji producentów i przystąpienia do innej wstępnie uznanej grupy lub organizacji producentów wartość produktów sprzedanych przez tę grupę lub organizację producentów określa się zgodnie z rzeczywistą, udokumentowaną ilością produktów sprzedanych, pochodzących od tego producenta.
-
-12. (uchylony)
-
-**Art. 9a.**
-
-1. W zakresie określonym przepisami Unii Europejskiej dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę organizacji producentów albo zrzeszenia organizacji producentów wydaje decyzje w sprawach:
-
-- **1)** zatwierdzenia organizacji producentów albo zrzeszeniu organizacji producentów:
-    - **a)** programu operacyjnego albo jego zmiany,
-    - **b)** corocznie: – wysokości funduszu operacyjnego oraz wydatków na działania zatwierdzone w programie operacyjnym albo ich zmiany, – wysokości pomocy finansowej ze środków pochodzących z Unii Europejskiej albo jej zmiany;
+- **1)** zatwierdzenia organizacji producentów albo zrzeszeniu organizacji producentów: programu operacyjnego albo jego zmiany, corocznie, wysokości funduszu operacyjnego i wysokości pomocy finansowej ze środków pochodzących z Unii Europejskiej;
+    - **a)**
+    - **b)**
 
 - **2)** zatwierdzenia częściowego programu operacyjnego zrzeszeniu organizacji producentów;
-- **3)** przyznania organizacji producentów albo zrzeszeniu organizacji producentów pomocy finansowej na dofinansowanie funduszu operacyjnego;
-- **4)** corocznego rozliczania środków finansowych, o których mowa w pkt 3;
-- **5)** wymierzania kar administracyjnych, o których mowa w tytule II rozdziału V sekcji 3 rozporządzenia delegowanego Komisji (UE) 2017/891 z dnia 13 marca 2017 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do sektora owoców i warzyw oraz sektora przetworzonych owoców i warzyw, uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do kar, które mają być stosowane w tych sektorach, a także zmieniającego rozporządzenie wykonawcze Komisji (UE) nr 543/2011 (Dz. Urz. UE L 138 z 25.05.2017, str. 4, z późn. zm. ), zwanego dalej „rozporządzeniem nr 2017/891”;
-- **6)** (uchylony)
-- **7)** (uchylony)
-- **8)** wyłączenia organizacji producentów lub zrzeszenia organizacji producentów ze wsparcia w ramach programu operacyjnego w kolejnym roku.
+- **3)** przyznania wstępnie uznanej grupie producentów pomocy finansowej na: pokrycie kosztów związanych z utworzeniem grupy producentów i prowadzeniem działalności administracyjnej, dofinansowanie kosztów kredytów zaciągniętych na realizację inwestycji ujętych w zatwierdzonym planie dochodzenia do uznania;
+    - **a)**
+    - **b)**
 
-1a. W decyzjach, o których mowa w ust. 1 pkt 1 lit. a i pkt 2, wydanych po terminie określonym w art. 7 ust. 2 akapit drugi rozporządzenia wykonawczego Komisji (UE) 2017/892 z dnia 13 marca 2017 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do sektora owoców i warzyw oraz sektora przetworzonych owoców i warzyw (Dz. Urz. UE L 138 z 25.05.2017, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem nr 2017/892”, rozstrzyga się również o odroczeniu programu operacyjnego.
+- **4)** przyznania organizacji producentów albo zrzeszeniu organizacji producentów pomocy finansowej na: realizację zatwierdzonego programu operacyjnego, dofinansowanie funduszu operacyjnego;
+    - **a)**
+    - **b)**
 
-2. W decyzjach, o których mowa w ust. 1 pkt 3 i 4, określa się kwotę:
+- **5)** przyznania rekompensaty finansowej z tytułu nieprzeznaczenia owoców i warzyw do sprzedaży;
+- **6)** corocznego rozliczenia środków finansowych, o których mowa w pkt 4 i 5;
+- **7)** przyznania zryczałtowanej kwoty kosztów transportu, pakowania i sortowania owoców lub warzyw nieprzeznaczonych do sprzedaży, w przypadku bezpłatnej dystrybucji;
+- **8)** zwolnienia zabezpieczenia wniesionego przed wypłatą pomocy finansowej, o której mowa w pkt 4 lit. a;
+- **9)** zwrotu nienależnie wypłaconych środków w ramach pomocy finansowej;
+- **10)** wymierzenia kary pieniężnej lub zastosowania innych sankcji;
+- **11)** wymierzania, na wniosek Prezesa Agencji, kar pieniężnych jednostkom organizacyjnym, o których mowa w art. 12 ust. 1 pkt 1 lit. a i b.
 
-- **1)** zmniejszenia pomocy finansowej – w przypadkach określonych w:
-    - **a)** ust. 16 lub
-    - **b)** art. 61 ust. 3 i 6 rozporządzenia nr 2017/891;
+2. Dyrektor oddziału regionalnego Agencji Restrukturyzacji opiniuje plan dochodzenia do uznania grupie producentów ubiegającej się o wstępne uznanie – w terminie miesiąca od dnia złożenia tego planu.
 
-- **2)** zwiększenia pomocy finansowej – w przypadku określonym w art. 34 ust. 3 rozporządzenia nr 1308/2013.
+3. Odwołanie od decyzji, o których mowa w ust. 1 pkt 1–8, nie wstrzymuje ich wykonania.
 
-2a. Wsparcie, o którym mowa w art. 45 ust. 1 rozporządzenia nr 2017/891, objęte pomocą finansową, o której mowa w ust. 1 pkt 3, ustala się jako kwotę równą cenie zakupu produktu objętego tym wsparciem od producenta, przy czym nie przekracza ono w przypadku produktów:
+4. Do egzekucji należności wynikających z decyzji, o których mowa w ust. 1 pkt 9 i 10, stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
 
-- **1)** wymienionych w załączniku IV do rozporządzenia nr 2017/891 maksymalnych kwot wsparcia określonych w tym załączniku;
-- **2)** niewymienionych w załączniku IV do rozporządzenia nr 2017/891 maksymalnej wysokości rekompensat określonych w przepisach wydanych na podstawie art. 19 ust. 2 pkt 16.
+5. Wnioski o wydanie decyzji, o których mowa w ust. 1 pkt 1–8, zawierają:
 
-3. Dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę organizacji producentów albo zrzeszenia organizacji producentów oblicza, na wniosek tej organizacji albo tego zrzeszenia, roczny pułap pomocy finansowej, o której mowa w ust. 1 pkt 3, w sposób określony w art. 23 ust. 3 zdanie pierwsze rozporządzenia nr 2017/891, z uwzględnieniem okresu referencyjnego stosowanego przy określeniu wartości owoców i warzyw sprzedanych, określonego w przepisach wydanych na podstawie art. 19 ust. 2 pkt 4.
-
-4. Pomoc, o której mowa w ust. 1 pkt 3, może być wypłacana w częściach.
-
-5. W przypadku gdy pomoc, o której mowa w ust. 1 pkt 3, jest wypłacana w częściach, wnioski o przyznanie tej pomocy składa się do dnia:
-
-- **1)** 30 kwietnia – za pierwszy kwartał roku;
-- **2)** 31 lipca – za drugi kwartał roku;
-- **3)** 31 października – za trzeci kwartał roku.
-
-6. Dyrektor oddziału regionalnego Agencji monitoruje sposób wdrażania przez organizacje producentów i ich zrzeszenia strategii krajowej w programach operacyjnych.
-
-7. Odwołanie od decyzji, o których mowa w ust. 1 pkt 1–4, nie wstrzymuje ich wykonania.
-
-8. Do egzekucji należności wynikających z decyzji, o których mowa w ust. 1 pkt 5, stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
-
-9. Wnioski o wydanie decyzji, o których mowa w ust. 1 pkt 1–4, zawierają:
-
-- **1)** nazwę, siedzibę i adres wnioskodawcy;
+- **1)** nazwę, określenie siedziby i adres wnioskodawcy;
 - **2)** numer identyfikacyjny nadany na podstawie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności;
-- **3)** w przypadku decyzji, o której mowa w ust. 1 pkt 3:
-    - **a)** numer rachunku bankowego utworzonego do obsługi funduszu operacyjnego,
-    - **b)** kwotę wnioskowanej pomocy finansowej;
+- **3)** w przypadku decyzji, o których mowa w ust. 1 pkt 3, 5 i 7: numer rachunku bankowego, na który mają być przekazane środki finansowe, kwotę wnioskowanej pomocy finansowej albo kwotę wnioskowanej rekompensaty;
+    - **a)**
+    - **b)**
 
-- **4)** numer wnioskodawcy w Krajowym Rejestrze Sądowym.
+- **4)** w przypadku decyzji, o których mowa w ust. 1 pkt 4: numer rachunku bankowego utworzonego do obsługi funduszu operacyjnego, kwotę wnioskowanej pomocy finansowej.
+    - **a)**
+    - **b)**
 
-10. Do wniosków o wydanie decyzji, o których mowa w ust. 1 pkt 3 i 4, dołącza się dokumenty potwierdzające wprowadzenie zmian niewymagających zatwierdzenia, o których mowa w przepisach wydanych na podstawie art. 19 ust. 2 pkt 2.
+6. Do wniosków o wydanie decyzji, o których mowa w ust. 1 pkt 1–8, dołącza się:
 
-11. Wnioski o wydanie decyzji, o których mowa w ust. 1 pkt 1–4, składa się na formularzach opracowanych przez Agencję, udostępnionych na stronie internetowej Agencji.
+- **1)** dokumenty urzędowe wskazujące organy i osoby uprawnione do reprezentowania wnioskodawcy;
+- **2)** kopie decyzji, o których mowa w art. 2 ust. 1 pkt 1, 3 i 4.
 
-12. Decyzje, o których mowa w ust. 1:
+7. Wnioski o wydanie decyzji, o których mowa w ust. 1 pkt 1–8, składa się na formularzach opracowanych i udostępnionych przez Agencję Restrukturyzacji.
 
-- **1)** pkt 3 – są wydawane w terminie 3 miesięcy od dnia złożenia wniosku;
-- **2)** pkt 4 – są wydawane w terminie 4 miesięcy od dnia złożenia wniosku.
+8. Organizacja producentów i zrzeszenie organizacji producentów gromadzi środki funduszu operacyjnego na wyodrębnionym rachunku bankowym.
 
-13. Organizacja producentów i zrzeszenie organizacji producentów gromadzą środki funduszu operacyjnego na wyodrębnionym rachunku bankowym.
+9. Organizacje producentów i zrzeszenia organizacji producentów prowadzą rachunkowość w sposób umożliwiający identyfikację każdego pojedynczego wydatku i przychodu związanego z funduszem operacyjnym w ramach poszczególnych działań określonych w programie operacyjnym.
 
-14. Organizacje producentów i zrzeszenia organizacji producentów prowadzą rachunkowość w sposób umożliwiający:
+10. Krajowe środki finansowe z budżetu państwa w ramach pomocy finansowej, o której mowa w ust. 1 pkt 3 lit. b, przeznacza się na dofinansowanie od 5 do 25% kosztów.
 
-- **1)** identyfikację każdego wydatku i przychodu związanego z funduszem operacyjnym w ramach poszczególnych działań określonych w programie operacyjnym;
-- **2)** identyfikację w systemie księgowym sprzedaży przez organizację producentów i zrzeszenie organizacji producentów produktów pochodzących od członków oraz podmiotów niebędących członkami, z grupy produktów, ze względu na którą dana organizacja producentów albo zrzeszenie organizacji producentów zostały uznane.
+11. W przypadku wystąpienia producenta owoców i warzyw z organizacji producentów i jego przystąpienia do innej organizacji producentów wartość produktów sprzedanych przez te organizacje określa się zgodnie z rzeczywistą, udokumentowaną ilością produktów sprzedanych, pochodzących od tego producenta.
 
-15. Wydatki na działania ujęte w programie operacyjnym mogą zostać zwiększone nie więcej niż o 20% bez konieczności wcześniejszego ich zatwierdzania, jeżeli:
+**Art. 10.**
 
-- **1)** nastąpi jednoczesne obniżenie wydatków na inne działania;
-- **2)** nie zostanie przekroczona zatwierdzona wysokość funduszu operacyjnego.
+1. W zakresie określonym przepisami Unii Europejskiej Prezes Agencji Restrukturyzacji:
 
-16. Jeżeli w roku realizacji programu operacyjnego organizacja producentów albo zrzeszenie organizacji producentów wykorzystuje środki funduszu operacyjnego niezgodnie z art. 32 ust. 2 rozporządzenia nr 1308/2013, kwotę pomocy finansowej za ten rok zmniejsza się o wysokość środków z funduszu operacyjnego, wykorzystanych niezgodnie z art. 32 ust. 2 rozporządzenia nr 1308/2013, maksymalnie do wartości 5% kwoty pomocy finansowej przyznanej na ten rok.
+- **1)** dokonuje wypłaty środków finansowych przyznanych decyzjami, o których mowa w art. 9 ust. 1 pkt 3–7;
+- **2)** przekazuje Komisji Europejskiej informacje dotyczące zatwierdzenia funduszu operacyjnego, udzielenia i wypłaty pomocy finansowej i innych środków finansowych wstępnie uznanym grupom producentów i uznanym organizacjom producentów oraz zrzeszeniom organizacji producentów.
 
-**Art. 9b.**
-
-1. Prezes Agencji oblicza, w sposób określony w art. 8a ust. 2 akapit drugi rozporządzenia nr 2017/892, odsetek produkcji owoców i warzyw, o którym mowa w tym przepisie, sprzedanej przez organizacje producentów oraz udostępnia informację o tym odsetku na stronie internetowej Agencji w terminie do dnia 30 listopada każdego roku.
-
-2. Odsetek produkcji owoców i warzyw, o którym mowa w art. 8a ust. 2 akapit drugi rozporządzenia nr 2017/892, sprzedanej przez organizacje producentów jest wykorzystywany na potrzeby:
-
-- **1)** zatwierdzania funduszy operacyjnych oraz programów operacyjnych organizacji producentów i zrzeszeniu organizacji producentów,
-- **2)** obliczania wartości pomocy finansowej w odniesieniu do funduszu operacyjnego zatwierdzonego – na rok następujący po roku udostępnienia na stronie internetowej Agencji informacji o odsetku produkcji owoców i warzyw.
-
-3. W obliczeniu, o którym mowa w ust. 1, wykorzystuje się dane dostępne w terminie sporządzania tego obliczenia zawarte w rocznym sprawozdaniu, o którym mowa w art. 54 lit. b rozporządzenia nr 2017/891, oraz dane dostępne w terminie sporządzania tego obliczenia dotyczące towarowej produkcji owoców, warzyw, grzybów oraz ziół na terytorium Rzeczypospolitej Polskiej udostępniane na podstawie przepisów ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2023 r. poz. 773).
-
-**Art. 9c.** Jeżeli inwestycja nabyta w ramach realizacji programu operacyjnego jest wykorzystywana niezgodnie z przeznaczeniem określonym w art. 31 ust. 5 akapit pierwszy lit. a rozporządzenia nr 2017/891:
-
-**Art. 9d.** Jeżeli, w przypadku inwestycji, dla których okres realizacji zobowiązań nie upłynął, organizacja producentów lub jej członek albo zrzeszenie organizacji producentów uniemożliwia dyrektorowi oddziału regionalnego Agencji przeprowadzenie kontroli wykorzystywania inwestycji zgodnie z przeznaczeniem opisanym w zatwierdzonym programie operacyjnym:
-
-**Art. 9e.** Kwotę pomocy podlegającą zwrotowi, o której mowa w art. 9c i art. 9d, ustala w drodze decyzji dyrektor oddziału regionalnego Agencji.
-
-**Art. 10.** W zakresie określonym przepisami Unii Europejskiej Prezes Agencji:
+2. Informacje, o których mowa w ust. 1 pkt 2, Prezes Agencji Restrukturyzacji przekazuje również ministrowi właściwemu do spraw rynków rolnych.
 
 **Art. 11.**
 
-1. W zakresie określonym przepisami Unii Europejskiej dyrektor oddziału regionalnego Agencji przeprowadza kontrole w zakresie:
+1. W zakresie określonym przepisami Unii Europejskiej dyrektor oddziału regionalnego Agencji Restrukturyzacji przeprowadza kontrole w zakresie:
 
-- **1)** realizacji działań ujętych w planach dochodzenia do uznania wstępnie uznanych grup producentów;
-- **2)** spełnienia warunków do przyznania i wypłacenia środków finansowych, o których mowa w art. 9 ust. 1 pkt 3, oraz sposobu ich wykorzystania, w tym zgodności z kryteriami wstępnego uznania grupy producentów, w roku, za który jest wypłacana pomoc finansowa;
-- **3)** zgodności faktycznie poniesionych kosztów i wydatków z kwotami deklarowanymi we wnioskach o wydanie decyzji, o których mowa w art. 9 ust. 1 pkt 3;
-- **4)** realizacji działań ujętych w programach operacyjnych uznanych organizacji producentów lub ich zrzeszeń;
-- **5)** spełnienia warunków do przyznania i wypłacenia środków finansowych, o których mowa w art. 9a ust. 1 pkt 3 i 4, oraz sposobu ich wykorzystania, w tym zgodności z kryteriami uznania organizacji producentów, w roku, za który jest wypłacana pomoc finansowa;
-- **6)** sposobu zarządzania funduszem operacyjnym;
-- **7)** zgodności faktycznie poniesionych kosztów i wydatków z kwotami deklarowanymi we wnioskach o wydanie decyzji, o których mowa w art. 9a ust. 1 pkt 3 i 4.
+- **1)** realizacji działań ujętych w planach dochodzenia do uznania wstępnie uznanych grup producentów oraz w programach operacyjnych uznanych organizacji producentów lub ich zrzeszeń;
+- **2)** spełnienia warunków do przyznania i wypłacenia oraz sposobu wykorzystania środków finansowych, o których mowa w art. 9 ust. 1 pkt 3–7;
+- **3)** sposobu zarządzania funduszem operacyjnym;
+- **4)** zgodności rzeczywiście poniesionych kosztów i wydatków z kwotami deklarowanymi we wnioskach o wydanie decyzji, o których mowa w art. 9 ust. 1 pkt 3, pkt 4 lit. b i pkt 6–8;
+- **5)** prawidłowości uiszczania składek członkowskich i wykorzystania uprzednio przyznanych zaliczek.
 
-1a. (uchylony)
+2. Dyrektor oddziału regionalnego Agencji Restrukturyzacji przeprowadza kontrole zgodnie z rocznym planem kontroli zatwierdzonym przez Prezesa Agencji Restrukturyzacji.
 
-2. Dyrektor oddziału regionalnego Agencji przeprowadza kontrole zgodnie z rocznym planem kontroli zatwierdzonym przez Prezesa Agencji. Do kontroli stosuje się odpowiednio przepisy art. 20 i art. 21 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych.
+3. Dyrektor oddziału regionalnego Agencji Restrukturyzacji może powierzyć przeprowadzenie kontroli jednostkom organizacyjnym dysponującym odpowiednimi warunkami organizacyjnymi, kadrowymi i technicznymi określonymi na podstawie ust. 12.
 
-2a. (uchylony)
+4. Czynności kontrolne są wykonywane przez osoby posiadające imienne upoważnienie wydane przez dyrektora oddziału regionalnego Agencji Restrukturyzacji.
 
-3. (uchylony)
+5. Upoważnienie zawiera wskazanie osoby upoważnionej do wykonywania czynności kontrolnych, ich miejsce i zakres oraz podstawę prawną do ich wykonywania.
 
-4. (uchylony)
+6. Przed rozpoczęciem czynności kontrolnych osoba upoważniona do ich wykonywania jest obowiązana okazać imienne upoważnienie.
 
-5. (uchylony)
+7. Osoby upoważnione do wykonywania czynności kontrolnych mają prawo do:
 
-6. (uchylony)
+- **1)** wstępu na teren nieruchomości, obiektu, lokalu lub ich części należących do wstępnie uznanej grupy producentów, organizacji producentów, zrzeszenia organizacji producentów lub ich członków i służących do prowadzenia działalności przez tę grupę, organizację, zrzeszenie lub ich członków;
+- **2)** żądania pisemnych lub ustnych informacji związanych z przedmiotem kontroli;
+- **3)** wglądu do dokumentów związanych z przedmiotem kontroli, sporządzania z nich odpisów, wyciągów lub kserokopii oraz zabezpieczania tych dokumentów.
 
-7. (uchylony)
+8. Osoba wykonująca czynności kontrolne sporządza z tych czynności protokół.
 
-8. (uchylony)
+9. Protokół podpisuje osoba wykonująca czynności kontrolne oraz kontrolowany.
 
-9. (uchylony)
+10. W przypadku odmowy podpisania protokołu przez kontrolowanego protokół podpisuje tylko osoba wykonująca czynności kontrolne, dokonując w protokole stosownej adnotacji o tej odmowie.
 
-10. (uchylony)
+11. W przypadku gdy kontrolowany nie zgadza się z ustaleniami zawartymi w protokole, może, w terminie 14 dni od dnia doręczenia protokołu, zgłosić odpowiednio dyrektorowi oddziału regionalnego Agencji Restrukturyzacji albo jednostce organizacyjnej przeprowadzającej kontrolę umotywowane zastrzeżenia do ustaleń zawartych w protokole.
 
-11. (uchylony)
+12. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia:
 
-12. (uchylony)
+- **1)** wzór imiennego upoważnienia do wykonywania czynności kontrolnych, mając na względzie ujednolicenie informacji zawartych w upoważnieniu;
+- **2)** warunki organizacyjne, techniczne i kadrowe, jakie powinny spełniać jednostki organizacyjne, którym można powierzyć przeprowadzenie kontroli, mając na względzie zapewnienie wykonywania ich w jednolity sposób na obszarze całego kraju.
 
 **Art. 12.**
 
 1. W zakresie określonym przepisami Unii Europejskiej Prezes Agencji:
 
-- **1)** wydaje decyzje w sprawie:
-    - **a)** uznania jednostki organizacyjnej za organizację charytatywną uprawnioną do dystrybucji otrzymanych od organizacji producentów i ich zrzeszeń nieprzeznaczonych do sprzedaży owoców i warzyw,
-    - **b)** wyznaczenia innych jednostek organizacyjnych lub osób fizycznych jako uprawnionych do otrzymania od organizacji producentów i ich zrzeszeń bezpłatnie owoców i warzyw nieprzeznaczonych do sprzedaży,
-    - **c)** cofnięcia uznania i uprawnienia, o których mowa w lit. a i b,
-    - **d)** zezwolenia uznanym organizacjom producentów i ich zrzeszeniom na rozdysponowanie owoców i warzyw nieprzeznaczonych do sprzedaży;
+- **1)** wydaje decyzje w sprawie: uznania jednostki organizacyjnej za organizację charytatywną uprawnioną do dystrybucji otrzymanych od organizacji producentów i ich zrzeszeń nieprzeznaczonych do sprzedaży owoców i warzyw, wyznaczenia innych jednostek organizacyjnych jako uprawnionych do otrzymania od organizacji producentów i ich zrzeszeń bezpłatnie owoców i warzyw nieprzeznaczonych do sprzedaży, cofnięcia uznania i uprawnienia, o których mowa w lit. a i b, zezwolenia uznanym organizacjom producentów i ich zrzeszeniom na rozdysponowanie owoców i warzyw nieprzeznaczonych do sprzedaży;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
-- **2)** (uchylony) 2a) (uchylony)
-- **3)** (uchylony)
-- **4)** (uchylony)
-- **5)** (uchylony)
-- **6)** przeprowadza kontrole w zakresie:
-    - **a)** spełnienia przez jednostki organizacyjne lub osoby fizyczne, o których mowa w pkt 1 lit. a i b, warunków uznania,
-    - **b)** sposobu zagospodarowania przez jednostki organizacyjne lub osoby fizyczne, o których mowa w pkt 1 lit. a oraz b, owoców i warzyw nieprzeznaczonych do sprzedaży,
-    - **c)** realizacji przez organizacje producentów i ich zrzeszenia wycofywania z rynku produktów zgodnie z tytułem II rozdziału III sekcją 5 rozporządzenia nr 2017/891.
+- **2)** przekazuje Komisji Europejskiej informacje o: organizacjach charytatywnych uprawnionych do dystrybucji otrzymanych od organizacji producentów i ich zrzeszeń nieprzeznaczonych do sprzedaży owoców i warzyw, planowanej powierzchni uprawy każdego gatunku owoców i warzyw, a w przypadku jabłek i gruszek – każdej odmiany, zapasach jabłek i gruszek na pierwszy dzień każdego miesiąca, ilości owoców i warzyw nieprzeznaczonych do sprzedaży w poprzednich miesiącach roku handlowego, na koniec każdego roku handlowego – ilości i sposobie zagospodarowania poszczególnych gatunków owoców i warzyw nieprzeznaczonych do sprzedaży, na podstawie informacji otrzymanych od organizacji producentów i ich zrzeszeń, z uwzględnieniem umów zawartych przez organizacje producentów i ich zrzeszenia z jednostkami organizacyjnymi, o których mowa w pkt 1 lit. a i b;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **3)** ogłasza i rozstrzyga przetargi na zagospodarowanie owoców i warzyw nieprzeznaczonych do sprzedaży;
+- **4)** przeprowadza kontrole w zakresie: spełnienia przez jednostki organizacyjne, o których mowa w pkt 1 lit. a i b, warunków uznania, sposobu zagospodarowania przez organizacje producentów i ich zrzeszenia oraz jednostki organizacyjne, o których mowa w pkt 1 lit. a i b, owoców i warzyw nieprzeznaczonych do sprzedaży.
+    - **a)**
+    - **b)**
 
 2. Wniosek o wydanie decyzji, o których mowa w ust. 1 pkt 1 lit. a i b, zawiera:
 
-- **1)** nazwę, określenie siedziby i adres jednostki organizacyjnej albo imię i nazwisko oraz adres i miejsce zamieszkania osoby fizycznej;
-- **2)** liczbę zwierząt, dla których jednostki organizacyjne lub osoby fizyczne uprawnione do otrzymania od organizacji producentów i ich zrzeszeń bezpłatnie owoców i warzyw nieprzeznaczonych do sprzedaży będą je przekazywały na paszę;
-- **3)** liczbę osób, którym jednostki organizacyjne uznane za organizacje charytatywne uprawnione do dystrybucji otrzymanych od organizacji producentów i ich zrzeszeń bezpłatnie owoców i warzyw nieprzeznaczonych do sprzedaży będą je przekazywały na cele konsumpcyjne.
-
-2a. Wniosek o wydanie decyzji, o których mowa w ust. 1 pkt 1 lit. a oraz b, składa się na formularzu opracowanym przez Agencję i udostępnionym na stronie internetowej Agencji.
+- **1)** nazwę, określenie siedziby i adres jednostki organizacyjnej;
+- **2)** wnioskowaną kategorię uznania, w przypadku organizacji charytatywnej.
 
 3. Do wniosku dołącza się:
 
-- **1)** dokumenty wskazujące organy i osoby uprawnione do reprezentowania wnioskodawcy;
+- **1)** dokumenty urzędowe wskazujące organy i osoby uprawnione do reprezentowania wnioskodawcy;
 - **2)** statut albo umowę o utworzeniu jednostki organizacyjnej;
-- **3)** zgodę osób zarządzających jednostką organizacyjną lub osoby fizycznej na przeprowadzenie kontroli w zakresie określonym przepisami Unii Europejskiej;
-- **4)** zobowiązanie do:
-    - **a)** przestrzegania przepisów Unii Europejskiej o nieprzeznaczeniu owoców i warzyw do sprzedaży,
-    - **b)** prowadzenia odrębnych rejestrów zapasów owoców i warzyw oraz odrębnej rachunkowości dotyczącej działań związanych z zagospodarowaniem owoców i warzyw nieprzeznaczonych do sprzedaży,
-    - **c)** przekazywania Prezesowi Agencji świadectwa przyjęcia owoców i warzyw nieprzeznaczonych do sprzedaży,
-    - **d)** (uchylona)
+- **3)** zgodę osób zarządzających jednostką organizacyjną na przeprowadzanie kontroli w zakresie określonym przepisami Unii Europejskiej.
 
 4. Od decyzji, o której mowa w ust. 1 pkt 1, przysługuje odwołanie do ministra właściwego do spraw rynków rolnych.
 
-5. Prezes Agencji prowadzi rejestr jednostek organizacyjnych i osób fizycznych, o których mowa w ust. 1 pkt 1 lit. a i b.
+5. Prezes Agencji prowadzi rejestr jednostek organizacyjnych, o których mowa w ust. 1 pkt 1 lit. a i b.
 
 6. Rejestr jest jawny i zawiera:
 
-- **1)** nazwę, określenie siedziby i adres jednostki organizacyjnej lub imię i nazwisko oraz miejsce zamieszkania osoby fizycznej;
+- **1)** nazwę, określenie siedziby i adres jednostki organizacyjnej;
 - **2)** nazwiska i imiona osób uprawnionych do reprezentowania jednostki organizacyjnej.
 
-7. (uchylony)
+7. Informacje, o których mowa w ust. 1 pkt 2, Prezes Agencji przekazuje również ministrowi właściwemu do spraw rynków rolnych.
 
-8. (uchylony)
-
-9. (uchylony)
-
-10. (uchylony)
+8. Do przetargów, o których mowa w ust. 1 pkt 3, nie stosuje się przepisów o zamówieniach publicznych.
 
 **Art. 13.**
 
-1. Organizacja producentów albo zrzeszenie organizacji producentów przekazuje dyrektorowi oddziału regionalnego Agencji:
+1. Organizacja producentów albo zrzeszenie organizacji producentów przekazuje:
 
-- **1)** informacje o ilości nieprzeznaczonych do sprzedaży owoców i warzyw w poprzednich miesiącach roku handlowego, z podziałem na ich gatunki – w terminie 5 dni roboczych od końca miesiąca, w którym nie przeznaczono owoców i warzyw do sprzedaży;
-- **2)** informacje o zakresie swojej działalności, na formularzu opracowanym przez Agencję, udostępnionym na stronie internetowej Agencji;
-- **3)** informacje o każdej zmianie składu członkowskiego organizacji producentów albo zrzeszenia organizacji producentów – w terminie 14 dni od dnia dokonania zmiany;
-- **4)** informacje o zmianach programu operacyjnego wprowadzonych w danym roku jego realizacji, które nie wymagają zatwierdzenia;
-- **5)** corocznie informacje o wartości produktów sprzedanych, jeżeli organizacja producentów nie złożyła wniosku o zatwierdzenie programu operacyjnego;
-- **6)** informacje o szacunkowych kwotach wkładu Unii Europejskiej oraz wkładów członków organizacji lub samej organizacji do funduszu operacyjnego – do dnia 15 września danego roku.
+- **1)** po jednym egzemplarzu umowy, o której mowa w art. 12 ust. 1 pkt 2 lit. e, Prezesowi Agencji, dyrektorowi oddziału regionalnego Agencji Restrukturyzacji, właściwemu ze względu na siedzibę organizacji producentów albo zrzeszenia organizacji producentów, oraz wojewódzkiemu inspektorowi jakości handlowej artykułów rolno-spożywczych, zwanemu dalej „wojewódzkim inspektorem”, niezwłocznie po jej zawarciu;
+- **2)** informacje o planowanej powierzchni uprawy każdego gatunku owoców i warzyw, a w przypadku jabłek i gruszek – każdej odmiany – Prezesowi Agencji, dyrektorowi oddziału regionalnego Agencji Restrukturyzacji, właściwemu ze względu na siedzibę organizacji producentów albo zrzeszenia organizacji producentów, w terminie 5 dni roboczych poprzedzających rozpoczęcie roku handlowego;
+- **3)** informacje o zapasach jabłek i gruszek na pierwszy dzień każdego miesiąca – Prezesowi Agencji, w terminie 5 dni roboczych;
+- **4)** informacje o ilości nieprzeznaczonych do sprzedaży owoców i warzyw w poprzednich miesiącach roku handlowego – w rozbiciu na gatunki – Prezesowi Agencji, w terminie 5 dni roboczych;
+- **5)** informacje o zmianach programu operacyjnego wprowadzonych w danym roku jego realizacji, które nie wymagają zatwierdzenia – dyrektorowi oddziału regionalnego Agencji Restrukturyzacji;
+- **6)** corocznie informacje o wartości produktów sprzedanych, jeżeli organizacja producentów nie złożyła wniosku o zatwierdzenie programu operacyjnego – wojewodzie i dyrektorowi oddziału regionalnego Agencji Restrukturyzacji.
 
-1a. Grupa producentów przekazuje dyrektorowi oddziału regionalnego Agencji właściwemu ze względu na siedzibę grupy producentów informacje o zakresie swojej działalności, na formularzu opracowanym przez Agencję, udostępnionym na stronie internetowej Agencji.
-
-2. (uchylony)
-
-3. (uchylony)
-
-4. Organizacja producentów albo zrzeszenie organizacji producentów dokonuje oznaczenia i zabezpieczenia owoców i warzyw nieprzeznaczonych do sprzedaży, tak aby uniemożliwić ich wprowadzenie do obrotu lub bezpośredniej konsumpcji.
-
-**Art. 13a.**
-
-1. Producent nie może być członkiem grupy producentów przez okres dłuższy niż 5 lat.
-
-2. Do okresu, o którym mowa w ust. 1, wlicza się okres, w którym producent był członkiem innych grup producentów.
-
-3. Jeżeli członek grupy producentów nie spełnia warunku, o którym mowa w ust. 1, dyrektor oddziału regionalnego Agencji wydaje decyzję o cofnięciu wstępnego uznania grupy producentów.
+2. Prezes Agencji informuje dyrektora oddziału regionalnego Agencji Restrukturyzacji, właściwego ze względu na siedzibę organizacji producentów albo zrzeszenia organizacji producentów, która była posiadaczem owoców i warzyw nieprzeznaczonych do sprzedaży i stanowiących przedmiot przetargu, o którym mowa w art. 12 ust. 1 pkt 3, o wynikach przetargu, w tym o wysokości środków finansowych należnych tej organizacji albo zrzeszeniu za dostarczenie owoców i warzyw do podmiotu, który wygrał przetarg, w terminie 14 dni od dnia ich dostarczenia.
 
 **Art. 14.**
 
-1. Prezes Agencji przeprowadza kontrole, o których mowa w art. 12 ust. 1 pkt 6, zgodnie z rocznym planem kontroli.
+1. Prezes Agencji przeprowadza kontrole, o których mowa w art. 12 ust. 1 pkt 4, zgodnie z rocznym planem kontroli.
 
-1a. Do kontroli, o których mowa w art. 12 ust. 1 pkt 6, stosuje się odpowiednio przepisy art. 20 i art. 21 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych.
+2. Prezes Agencji może powierzyć przeprowadzenie kontroli, o których mowa w ust. 1, innym jednostkom organizacyjnym dysponującym odpowiednimi warunkami organizacyjnymi, kadrowymi i technicznymi określonymi na podstawie ust. 11 pkt 2.
 
-2. (uchylony)
+3. Czynności kontrolne są wykonywane przez osoby posiadające imienne upoważnienie wydane przez Prezesa Agencji.
 
-3. (uchylony)
+4. Upoważnienie zawiera wskazanie osoby upoważnionej do wykonywania czynności kontrolnych, ich miejsce i zakres oraz podstawę prawną do ich wykonywania.
 
-4. (uchylony)
+5. Przed rozpoczęciem czynności kontrolnych osoba upoważniona do ich wykonywania jest obowiązana okazać imienne upoważnienie.
 
-5. (uchylony)
+6. Osoby upoważnione do wykonywania czynności kontrolnych mają prawo do:
 
-6. (uchylony)
+- **1)** wstępu na teren nieruchomości, obiektu, lokalu lub ich części należących do organizacji producentów, zrzeszenia organizacji producentów lub ich członków oraz organizacji charytatywnych i innych jednostek organizacyjnych uprawnionych do otrzymywania bezpłatnie owoców i warzyw nieprzeznaczonych do sprzedaży i służących do prowadzenia przez nie działalności;
+- **2)** żądania pisemnych lub ustnych informacji związanych z przedmiotem kontroli;
+- **3)** wglądu do dokumentów związanych z przedmiotem kontroli, sporządzania z nich odpisów, wyciągów lub kserokopii oraz zabezpieczania tych dokumentów.
 
-7. (uchylony)
+7. Osoba wykonująca czynności kontrolne sporządza z tych czynności protokół.
 
-8. (uchylony)
+8. Protokół podpisuje osoba wykonująca czynności kontrolne oraz kontrolowany.
 
-9. (uchylony)
+9. W przypadku odmowy podpisania protokołu przez kontrolowanego protokół podpisuje tylko osoba wykonująca czynności kontrolne, dokonując w protokole stosownej adnotacji o tej odmowie.
 
-10. (uchylony)
+10. W przypadku gdy kontrolowany nie zgadza się z ustaleniami zawartymi w protokole, może, w terminie 14 dni od dnia doręczenia protokołu, zgłosić odpowiednio Prezesowi Agencji albo jednostce organizacyjnej przeprowadzającej kontrolę umotywowane zastrzeżenia do ustaleń zawartych w protokole.
 
-11. (uchylony)
+11. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia:
+
+- **1)** wzór imiennego upoważnienia do wykonywania czynności kontrolnych, mając na względzie ujednolicenie informacji zawartych w upoważnieniu;
+- **2)** warunki organizacyjne, techniczne i kadrowe, jakie powinny spełniać jednostki organizacyjne, którym można powierzyć przeprowadzenie kontroli, mając na względzie zapewnienie wykonywania ich w jednolity sposób na obszarze całego kraju.
 
 **Art. 15.**
 
-1. W zakresie określonym przepisami Unii Europejskiej wojewódzki inspektor jakości handlowej artykułów rolno-spożywczych, zwany dalej „wojewódzkim inspektorem”:
+1. W zakresie określonym przepisami Unii Europejskiej wojewódzki inspektor:
 
-- **1)** pełni funkcję organu kontrolnego w zakresie kontroli na wszystkich etapach wprowadzania do obrotu owoców i warzyw;
-- **2)** wydaje i cofa, w drodze decyzji, zezwolenie na korzystanie ze specjalnego wzoru oznakowania opakowań określonego w załączniku II do rozporządzenia nr 543/2011;
-- **3)** kontroluje, czy owoce i warzywa nieprzeznaczone do sprzedaży spełniają wymagania w zakresie jakości handlowej;
-- **4)** przeprowadza kontrole wykonania czynności mających na celu uniemożliwienie wprowadzenia do obrotu lub bezpośredniej konsumpcji owoców i warzyw nieprzeznaczonych do sprzedaży oraz sporządza protokół z wykonania tych czynności;
-- **5)** przeprowadza kontrole w zakresie spełniania przez handlowców w rozumieniu art. 10 rozporządzenia nr 543/2011 obowiązku przekazywania informacji, o których mowa w art. 17 ust. 1, 2 i 4, oraz zgodności tych informacji ze stanem faktycznym.
-
-1a. Kontrole, o których mowa w ust. 1 pkt 3 i 4, są przeprowadzane na wniosek Prezesa Agencji.
-
-1b. (uchylony) 1c. Kontrolę zgodności w punkcie detalicznej sprzedaży konsumentowi końcowemu przeprowadza się w sposób określony w załączniku V do rozporządzenia nr 543/2011.
+- **1)** pełni funkcję jednostki kontrolnej;
+- **2)** wydaje i cofa, w drodze decyzji, zezwolenie na korzystanie ze specjalnego oznakowania opakowań;
+- **3)** kontroluje, czy owoce i warzywa nieprzeznaczone do sprzedaży spełniają wymagania jakości handlowej;
+- **4)** kontroluje na miejscu ilość i jakość handlową owoców i warzyw nieprzeznaczonych do sprzedaży poddawanych biodegradacji lub kompostowaniu.
 
 2. Zezwolenie, o którym mowa w ust. 1 pkt 2, wydaje się, jeżeli wnioskodawca spełnia wymagania określone przepisami Unii Europejskiej oraz zatrudnia rzeczoznawców, o których mowa w przepisach o jakości handlowej artykułów rolno-spożywczych, kontrolujących jakość handlową owoców i warzyw przed ich wprowadzeniem do obrotu.
 
-3. Do kontroli, o których mowa w ust. 1 pkt 3–5, stosuje się odpowiednio przepisy rozdziału 4 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2022 r. poz. 1688, 2185 i 2254 oraz z 2023 r. poz. 177, 412 i 588).
+3. Do kontroli, o których mowa w ust. 1 pkt 3 i 4, stosuje się odpowiednio przepisy rozdziału 4 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2001 r. Nr 5, poz. 44, z późn. zm.).
 
-3a. Pracownik Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych może także przeprowadzić kontrole, o których mowa w ust. 1 pkt 3 i 4, po okazaniu legitymacji służbowej oraz imiennego okresowego upoważnienia do przeprowadzenia kontroli, o których mowa w art. 25 ust. 2 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych.
-
-4. Wojewódzki inspektor informuje Prezesa Agencji o wynikach kontroli, o której mowa:
-
-- **1)** w ust. 1 pkt 3, w terminie 24 godzin od dnia jej zakończenia;
-- **2)** w ust. 1 pkt 4, w terminie 5 dni od dnia przeprowadzenia kontroli.
+4. Wojewódzki inspektor informuje dyrektora oddziału regionalnego Agencji Restrukturyzacji, właściwego ze względu na siedzibę organizacji producentów albo zrzeszenia organizacji producentów, o wynikach kontroli, o której mowa w ust. 1 pkt 3 i 4, w terminie 7 dni od dnia przeprowadzenia kontroli.
 
 5. Organizacja producentów albo zrzeszenie organizacji producentów:
 
-- **1)** powiadamia Prezesa Agencji o zamiarze nieprzeznaczenia do sprzedaży owoców i warzyw oraz o planowanym sposobie ich zagospodarowania;
-- **2)** przekazuje Prezesowi Agencji kopię protokołu kontroli owoców i warzyw nieprzeznaczonych do sprzedaży, sporządzonego przez wojewódzkiego inspektora.
-- **3)** (uchylony)
+- **1)** powiadamia Prezesa Agencji o zamiarze nieprzeznaczenia do sprzedaży owoców i warzyw;
+- **2)** przekazuje Prezesowi Agencji oświadczenie na formularzu opracowanym i udostępnionym przez Agencję, że owoce i warzywa nieprzeznaczone do sprzedaży spełniają wymagania jakości handlowej.
 
-6. (uchylony)
+6. Proces biodegradacji, o którym mowa w ust. 1 pkt 4, przeprowadza się w miejscu i w sposób zapewniający ochronę środowiska.
 
-7. W zakresie określonym przepisami Unii Europejskiej Główny Inspektor:
+7. W zakresie określonym przepisami Unii Europejskiej Główny Inspektor Jakości Handlowej Artykułów Rolno-Spożywczych, zwany dalej „Głównym Inspektorem”:
 
-- **1)** pełni rolę organu koordynującego;
+- **1)** pełni rolę jednostki koordynującej;
 - **2)** tworzy i prowadzi bazę danych o handlowcach.
-
-8. (uchylony)
-
-9. (uchylony)
-
-**Art. 15a.** (uchylony)
 
 **Art. 16.** W zakresie określonym przepisami Unii Europejskiej minister właściwy do spraw rynków rolnych przekazuje Komisji Europejskiej informacje o:
 
+- **1)** nazwie, adresie i adresie poczty elektronicznej jednostki koordynującej;
+- **2)** nazwie, adresie i adresie poczty elektronicznej jednostki kontrolnej;
+- **3)** zakresie działania jednostki kontrolnej.
+
 **Art. 17.**
 
-1. Handlowiec przekazuje wojewódzkiemu inspektorowi właściwemu ze względu na miejsce zamieszkania lub siedzibę tego handlowca, na formularzu opracowanym przez Głównego Inspektora i udostępnionym na stronie internetowej administrowanej przez urząd obsługujący Głównego Inspektora, informacje o:
+1. Handlowcy przekazują wojewódzkiemu inspektorowi informacje o:
 
-- **1)** rozpoczęciu prowadzenia działalności w zakresie obrotu owocami lub warzywami objętymi normami jakości handlowej, nie później niż w dniu rozpoczęcia prowadzenia tej działalności;
-- **2)** wyrażonej w kilogramach ilości owoców lub warzyw objętych normami handlowymi, wprowadzonych do obrotu w poprzednim roku kalendarzowym, w terminie do końca pierwszego kwartału roku następnego.
+- **1)** ich nazwie i adresie;
+- **2)** rodzaju i zakresie prowadzonej działalności;
+- **3)** wyrażonej w kilogramach ilości owoców i warzyw wprowadzonych do obrotu w poprzednim roku kalendarzowym, z podziałem na gatunki oraz obrót hurtowy i detaliczny.
 
-2. Informacja, o której mowa w ust. 1 pkt 1, zawiera w szczególności imię, nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres handlowca oraz rodzaj i zakres działalności.
-
-3. Handlowiec, który prowadzi działalność gospodarczą, do informacji, o której mowa w ust. 1 pkt 1, dołącza informację o numerze w Krajowym Rejestrze Sądowym, a w przypadku osób fizycznych prowadzących działalność gospodarczą – informację o numerze identyfikacji podatkowej NIP.
-
-4. Handlowiec informuje wojewódzkiego inspektora o każdej zmianie danych określonych w ust. 2, w terminie 7 dni od dnia jej dokonania.
-
-5. Handlowiec przekazuje wojewódzkiemu inspektorowi zgłoszenie o zaprzestaniu prowadzenia działalności, o której mowa w ust. 1 pkt 1, w terminie 7 dni od dnia jej zaprzestania.
-
-6. Wojewódzki inspektor przekazuje informacje, o których mowa w ust. 1, 2, 4 i 5, Głównemu Inspektorowi w postaci elektronicznej.
+2. Wojewódzki inspektor przekazuje informacje, o których mowa w ust. 1, Głównemu Inspektorowi w formie przekazu elektronicznego.
 
 **Art. 18.**
 
-1. Główny Inspektor, po zasięgnięciu opinii wojewódzkich inspektorów, opracowuje plany selektywnych kontroli zgodności, o których mowa w art. 11 rozporządzenia nr 543/2011.
+1. Główny Inspektor opracowuje, po zasięgnięciu opinii wojewódzkich inspektorów, plan wyrywkowych kontroli jakości handlowej owoców i warzyw wprowadzanych do obrotu.
 
-2. (uchylony)
-
-3. Do kontroli, o których mowa w ust. 1, stosuje się przepisy rozdziału 4 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych.
-
-4. Pracownik Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych może także przeprowadzić kontrolę jakości handlowej owoców i warzyw po okazaniu legitymacji służbowej oraz imiennego okresowego upoważnienia do przeprowadzenia kontroli, o których mowa w art. 25 ust. 2 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych.
-
-5. Do kontroli handlowców, którzy nie prowadzą działalności gospodarczej w zakresie obrotu owocami lub warzywami objętymi normami jakości handlowej owoców i warzyw, stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641 i 803).
-
-**Art. 18a.** W oznakowaniu świeżych owoców i warzyw objętych ogólną normą handlową, o której mowa w art. 3 ust. 1 rozporządzenia nr 543/2011, nazwę produktu podaje się w przypadku, gdy produkt nie jest widoczny lub nazwa jest niezbędna do ustalenia rodzaju produktu.
+2. Do kontroli, o których mowa w ust. 1, stosuje się odpowiednio przepisy rozdziału 4 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych.
 
 **Art. 19.**
 
-1. (uchylony)
+1. Minister właściwy do spraw rynków rolnych może określić, w drodze rozporządzenia:
+
+- **1)** inne niż wymienione w art. 9 ust. 6 dokumenty, które dołącza się do wniosków o wydanie decyzji, o których mowa w art. 9 ust. 1 pkt 1–8, mając na względzie zapewnienie prawidłowości przyznawania wstępnie uznanym grupom producentów i uznanym organizacjom producentów oraz uznanym zrzeszeniom organizacji producentów pomocy finansowej, a także innych środków finansowych określonych w przepisach Unii Europejskiej;
+- **2)** inne niż określone w przepisach Unii Europejskiej terminy wypłaty środków na dofinansowanie funduszu operacyjnego z tytułu realizacji programu operacyjnego w poprzednim roku, mając na względzie możliwość przeprowadzania kontroli realizowanych programów;
+- **3)** procentowy udział kosztów osobowych w ramach środków przewidzianych w funduszu operacyjnym na realizację programu operacyjnego, mając na względzie zapewnienie prawidłowego gospodarowania środkami publicznymi;
+- **4)** wykaz działań i wydatków objętych pomocą finansową z tytułu realizacji programu operacyjnego oraz stawki dopłat do powierzchni produkcji owoców i warzyw, w związku ze stosowaniem technologii mających na celu ochronę środowiska lub poprawę jakości produktów, mając na względzie wdrażanie do praktyki rolniczej metod produkcji przyjaznych dla środowiska oraz upowszechnianie osiągnięć nauki w praktyce rolniczej.
 
 2. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia:
 
 - **1)** warunki i tryb zmian programu operacyjnego wprowadzanych w trakcie jego realizacji, mając na względzie zmieniającą się sytuację rynkową oraz konieczność ochrony interesów ekonomicznych organizacji producentów;
-- **2)** warunki i tryb wprowadzania zmian w programie operacyjnym w trakcie jego realizacji, które nie wymagają zatwierdzenia przez dyrektora oddziału regionalnego Agencji, mając na względzie zmieniającą się sytuację rynkową, konieczność ochrony interesów ekonomicznych organizacji producentów oraz zakres dokonywanych zmian;
-- **3)** (uchylony)
+- **2)** warunki i tryb zmian programu operacyjnego wprowadzanych w trakcie jego realizacji, które nie wymagają zatwierdzenia przez dyrektora oddziału regionalnego Agencji Restrukturyzacji, mając na względzie zmieniającą się sytuację rynkową, konieczność ochrony interesów ekonomicznych organizacji producentów oraz zakres dokonywanych zmian;
+- **3)** działania w zakresie technologii bezpiecznych dla środowiska stosowanych w produkcji i zagospodarowaniu odpadów, z których przynajmniej jedno powinno zostać uwzględnione w programie operacyjnym, mając na względzie upowszechnienie tych działań przez członków organizacji producentów;
 - **4)** wskaźniki redukcji lub sposób ich ustalania, sposób określania wartości owoców i warzyw sprzedanych oraz okresy referencyjne stosowane przy określaniu wartości owoców i warzyw sprzedanych, o których mowa w przepisach Unii Europejskiej, mając na względzie prawidłowe wyliczenie wartości produkcji sprzedanej niezbędnej do określenia wysokości środków na dofinansowanie funduszu operacyjnego;
 - **5)** kryteria kwalifikacji produkcji jako doświadczalnej, mając na względzie nowatorstwo stosowanych rozwiązań, koncepcji oraz ryzyko ich wprowadzenia;
-- **6)** (uchylony)
-- **7)** warunki i tryb zwrotu składników majątkowych inwestycji zrealizowanej w ramach programu operacyjnego w gospodarstwie członka organizacji producentów lub jej wartości, w przypadku wystąpienia członka z organizacji, mając na względzie zabezpieczenie interesów organizacji producentów oraz zapewnienie prawidłowego gospodarowania środkami publicznymi;
-- **7a)** (uchylony)
-- **8)** (uchylony)
-- **9)** (uchylony)
-- **10)** (uchylony)
-- **11)** sposób oznaczania i zabezpieczenia owoców i warzyw nieprzeznaczonych do sprzedaży, o których mowa w art. 15 ust. 1 pkt 4, mając na względzie skuteczne uniemożliwienie wprowadzenia tych owoców i warzyw do obrotu lub bezpośredniej konsumpcji;
-- **12)** tryb i terminy powiadamiania, o którym mowa w art. 15 ust. 5, mając na względzie umożliwienie przeprowadzenia kontroli jakości owoców i warzyw nieprzeznaczonych do sprzedaży;
-- **13)** (uchylony)
-- **14)** terminy przekazywania informacji, o których mowa w art. 13 ust. 1 pkt 2 i 5 oraz ust. 1a, mając na względzie zapewnienie ich sprawnego i prawidłowego przekazania Komisji Europejskiej w zakresie wynikającym z przepisów Unii Europejskiej dotyczących funkcjonowania rynków owoców i warzyw;
-- **15)** przypadki, w których spadek wartości produkcji sprzedanej wystąpił z przyczyn niezależnych od grupy lub organizacji producentów, oraz sposób potwierdzenia wystąpienia tego spadku, mając na względzie złagodzenie skutków spadku wartości pomocy finansowej wynikającej ze spadku wartości produkcji sprzedanej;
-- **16)** maksymalną wysokość rekompensat z tytułu nieprzeznaczania do sprzedaży niektórych gatunków owoców i warzyw, dla których rekompensaty te nie zostały określone przepisami Unii Europejskiej, mając na względzie prawidłowe wykorzystanie funduszu operacyjnego na nieprzeznaczanie owoców i warzyw do sprzedaży;
-- **17)** sposób zagospodarowania owoców i warzyw nieprzeznaczonych do sprzedaży, mając na względzie prawidłowe funkcjonowanie rynku owoców i warzyw;
-- **18)** sposób, wysokość oraz terminy spłaty przez odbiorców produktów nieprzeznaczonych do sprzedaży wartości tych produktów oraz związanych z tym kosztów sortowania, pakowania oraz transportu, mając na względzie zapewnienie prawidłowego wdrożenia przepisów Unii Europejskiej w zakresie nieprzeznaczania owoców i warzyw do sprzedaży;
-- **19)** zmiany do zatwierdzonych planów dochodzenia do uznania wprowadzane w trakcie okresu rocznego lub półrocznego, które nie wymagają wydania przez dyrektora oddziału regionalnego Agencji właściwego ze względu na siedzibę grupy producentów decyzji w sprawie zmian do zatwierdzonych planów, oraz tryb przekazywania informacji o tych zmianach, mając na względzie uproszczenie trybu dokonywania takich zmian;
-- **20)** maksymalny odsetek, o którym mowa w art. 39 ust. 2 akapit trzeci rozporządzenia nr 543/2011, mając na względzie zapewnienie prawidłowego wdrożenia przepisów Unii Europejskiej w zakresie wsparcia finansowego grup producentów.
+- **6)** stawkę dopłaty za kilometr w związku z ponoszeniem dodatkowych kosztów transportu zewnętrznego, w porównaniu z kosztami transportu drogowego, przy korzystaniu z transportu kolejowego lub wodnego, mając na względzie ochronę środowiska;
+- **7)** warunki i tryb zwrotu składników majątkowych inwestycji zrealizowanej w ramach programu operacyjnego w gospodarstwie członka organizacji producentów lub jej wartości, w przypadku wystąpienia członka z organizacji, mając na względzie zabezpieczenie interesów organizacji producentów oraz zapewnienie prawidłowego gospodarowania środkami publicznymi.
 
-3. Minister właściwy do spraw rynków rolnych:
+3. Minister właściwy do spraw rynków rolnych w porozumieniu z ministrem właściwym do spraw finansów publicznych określa corocznie, w drodze rozporządzenia, wysokość środków finansowych, o których mowa w art. 9 ust. 10, mając na względzie możliwość zapewnienia kontynuacji inwestycji niezbędnych do spełnienia warunków wymaganych do uznania organizacji producentów.
 
-- **1)** określi, w drodze rozporządzenia, szczegółowe warunki przyznawania pomocy finansowej oraz wykaz kwalifikowanych kosztów inwestycji, o których mowa w art. 9 ust. 1 pkt 3 lit. b, mając na względzie zapewnienie prawidłowego wykorzystania pomocy finansowej na inwestycje realizowane w ramach zatwierdzonego planu dochodzenia do uznania;
-- **2)** w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wysokość krajowych środków finansowych, o których mowa w art. 9 ust. 10, wyrażoną jako procent kwalifikowanych kosztów inwestycji, mając na względzie zapewnienie kontynuacji inwestycji niezbędnych do spełnienia warunków wymaganych do uznania organizacji producentów.
+4. Minister właściwy do spraw rynków rolnych może upoważnić, w drodze rozporządzenia, organizacje producentów do:
 
-4. (uchylony)
+- **1)** przeznaczenia całości lub części własnych środków finansowych na zwiększenie funduszu operacyjnego,
+- **2)** ustanowienia indywidualnych poziomów składek dla producentów owoców i warzyw będących członkami organizacji producentów mając na względzie umożliwienie organizacji producentów pozyskania dodatkowych środków na finansowanie zadań ujętych w programie operacyjnym.
 
-5. Minister właściwy do spraw rynków rolnych może określić, w drodze rozporządzenia:
-
-- **1)** przypadki, w których wprowadzane do obrotu owoce lub warzywa mogą nie spełniać wymagań dotyczących jakości handlowej, mając na względzie obowiązujące w tym zakresie przepisy Unii Europejskiej;
-- **2)** warunki, sposób i tryb realizowania działań zapobiegających sytuacjom kryzysowym oraz zarządzania kryzysowego, mając na względzie zapewnienie prawidłowego wdrożenia przepisów Unii Europejskiej w zakresie takich działań.
+5. Minister właściwy do spraw rynków rolnych może określić, w drodze rozporządzenia, przypadki, w których wprowadzane do obrotu owoce lub warzywa mogą nie spełniać wymagań jakości handlowej, mając na względzie obowiązujące w tym zakresie przepisy Unii Europejskiej.
 
 6. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia:
 
 - **1)** przypadki, w których handlowcy są zwolnieni z obowiązku, o którym mowa w art. 17 ust. 1, mając na względzie zapewnienie sprawnego funkcjonowania systemu kontroli jakości handlowej owoców i warzyw wprowadzanych do obrotu;
 - **2)** kryteria wpisu do bazy danych, o której mowa w art. 15 ust. 7 pkt 2, mając na względzie obowiązujące w tym zakresie przepisy Unii Europejskiej.
-- **3)** (uchylony)
-
-**Art. 19a.** (uchylony)
-
-**Art. 19b.** (uchylony)
-
-**Art. 19c.** (uchylony)
 
 #### Rozdział 3 Rynek chmielu
 
@@ -664,151 +471,712 @@ Art. 44–54. (pominięte)
 - **1)** wydaje certyfikat na chmiel;
 - **2)** wydaje certyfikat na produkty chmielowe;
 - **3)** pobiera próbki chmielu lub produktów chmielowych do badań laboratoryjnych;
-- **4)** (uchylony)
-- **5)** sprawuje urzędowy nadzór w zakresie określonym w rozporządzeniu Komisji (WE) nr 1850/2006 z dnia 14 grudnia 2006 r. ustanawiającym szczegółowe zasady certyfikacji chmielu i produktów chmielowych (Dz. Urz. UE L 355 z 15.12.2006, str. 72, z późn. zm.), zwanym dalej „rozporządzeniem nr 1850/2006”;
-- **6)** wydaje dokumenty na chmiel przygotowany lub produkty chmielowe wytwarzane na zlecenie browaru i zużyte przez ten browar na własne potrzeby;
-- **7)** przyjmuje deklarację, o której mowa w art. 20 ust. 1 rozporządzenia nr 1850/2006.
+- **4)** prowadzi ewidencję: umów kontraktacji oraz umów potwierdzających przeniesienie własności chmielu, zawartych między producentem chmielu lub grupą producentów chmielu a nabywcą chmielu, ilości chmielu dostarczonego nabywcy przez producentów lub grupę producentów chmielu, chmielu zebranego z plantacji należących do browarów i zużytego przez te browary w stanie świeżym lub po przetworzeniu, ilości wyprodukowanych i sprzedanych zizomeryzowanych produktów chmielowych;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
-1a. (uchylony) 1b. (uchylony) 1c. Wojewódzki inspektor, właściwy ze względu na miejsce położenia uprawy chmielu, może zlecić pobieranie próbek chmielu do badań laboratoryjnych rzeczoznawcy wpisanemu do rejestru rzeczoznawców, prowadzonego na podstawie przepisów o jakości handlowej artykułów rolno-spożywczych.
+- **5)** sprawuje nadzór nad: zamkniętym obiegiem działania, sporządzaniem dokumentów potwierdzających ilość chmielu lub produktów chmielowych poddanych procesowi obróbki i ilość wytworzonych produktów chmielowych, mieszaniem chmielu, przepakowywaniem chmielu lub produktów chmielowych, na które został wydany certyfikat, oznaczaniem i pieczętowaniem opakowań chmielu przygotowanego lub produktów chmielowych, na które wydaje się certyfikat;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **6)** wydaje dokumenty na chmiel przygotowany lub produkty chmielowe wytwarzane na zlecenie browaru i zużyte przez ten browar na własne potrzeby.
 
 2. W zakresie określonym przepisami Unii Europejskiej wojewódzki inspektor, właściwy ze względu na miejsce objęcia importowanego chmielu lub produktu chmielowego procedurą dopuszczenia do obrotu, przeprowadza kontrole dotyczące spełniania przez chmiel lub produkt chmielowy minimalnych wymagań jakościowych.
 
-2a. Kontrolę, o której mowa w ust. 2, przeprowadza się zgodnie z przepisami rozdziału 4 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych.
-
 3. W zakresie określonym przepisami Unii Europejskiej Główny Inspektor:
 
-- **1)** zatwierdza, w drodze decyzji, ośrodki certyfikujące w rozumieniu art. 2 lit. l rozporządzenia nr 1850/2006, zwane dalej „ośrodkami certyfikującymi”, oraz cofa to zatwierdzenie;
-- **2)** opracowuje i udostępnia ośrodkom certyfikującym i zainteresowanym stronom instrukcję postępowania w celu zagwarantowania przestrzegania minimalnych wymagań, o których mowa w załączniku I do rozporządzenia nr 1850/2006;
-- **3)** przeprowadza kontrole, o których mowa w art. 22 ust. 1 akapit drugi rozporządzenia nr 1850/2006.
+- **1)** przeprowadza kontrole przestrzegania procedur certyfikacji chmielu lub produktów chmielowych;
+- **2)** wydaje decyzje w sprawie zatwierdzenia ośrodka certyfikacji;
+- **3)** wyznacza wojewódzkie inspektoraty jakości handlowej artykułów rolno-spożywczych jako ośrodki certyfikacji, w przypadku certyfikacji chmielu w gospodarstwie;
+- **4)** nadaje numery identyfikacyjne ośrodkom certyfikacji;
+- **5)** prowadzi ewidencję świadectw równoważności na chmiel i produkty chmielowe pochodzące z importu.
 
-4. W zakresie określonym przepisami Unii Europejskiej dyrektor oddziału regionalnego Agencji wydaje decyzje w sprawie:
+4. W zakresie określonym przepisami Unii Europejskiej wojewoda wydaje decyzje w sprawie:
 
-- **1)** uznania grupy producentów chmielu;
-- **2)** cofnięcia uznania grupie producentów chmielu.
+- **1)** uznania grupy producentów chmielu lub związku takich grup;
+- **2)** cofnięcia uznania grupie producentów chmielu lub związkowi takich grup.
 
-5. (uchylony)
+5. Wojewoda niezwłocznie przekazuje informacje o wydaniu decyzji, o których mowa w ust. 4, ministrowi właściwemu do spraw rynków rolnych oraz Prezesowi Agencji Restrukturyzacji.
 
-6. (uchylony)
+**Art. 21.**
 
-**Art. 20a.** (uchylony)
+1. Wojewódzki inspektor, po otrzymaniu wniosku o wydanie certyfikatu na chmiel nieprzygotowany, pobiera próbki do badań laboratoryjnych oraz dokonuje zważenia i zabezpieczenia chmielu przez:
 
-**Art. 20b.** Certyfikat na chmiel wydaje się producentowi:
+- **1)** zamknięcie oraz zaplombowanie opakowania w sposób uniemożliwiający jego otwarcie bez naruszenia plomby, na której umieszczony jest numer;
+- **2)** opatrzenie każdego opakowania etykietą zawierającą informacje o: rejonie uprawy, roku zbioru, nazwie odmiany, numerze identyfikacyjnym ośrodka certyfikacji, zawartości nasion, przy użyciu określeń: – 'chmiel zaziarniony” – w przypadku gdy zawartość nasion wynosi więcej niż 2% masy chmielu, – 'chmiel niezaziarniony” – w przypadku gdy zawartość nasion wynosi nie więcej niż 2% masy chmielu.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
-**Art. 21.** (uchylony)
+2. Datę i miejsce czynności, o których mowa w ust. 1, inspektor ustala z producentem chmielu.
 
-**Art. 22.** (uchylony)
+3. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, wzór wniosku o wydanie certyfikatu na chmiel nieprzygotowany i deklaracji dołączonej do chmielu nieprzygotowanego zgłoszonego do certyfikacji, mając na względzie zapewnienie jednolitości przekazywanych danych.
+
+**Art. 22.**
+
+1. Decyzję o zatwierdzeniu ośrodka certyfikacji wydaje się przedsiębiorcy wykonującemu działalność gospodarczą w zakresie:
+
+- **1)** obrotu chmielem lub
+- **2)** przygotowania chmielu, lub
+- **3)** wytwarzania produktów chmielowych jeżeli obiekt, w którym ma być certyfikowany chmiel lub produkty chmielowe, urządzenia techniczne oraz ich rozmieszczenie w obiekcie umożliwiają prowadzenie certyfikacji.
+
+2. Wniosek o wydanie decyzji, o której mowa w ust. 1, zawiera:
+
+- **1)** imię, nazwisko, określenie miejsca zamieszkania i adres albo nazwę, określenie siedziby i adres wnioskodawcy;
+- **2)** informację o miejscu położenia obiektu, w którym ma być certyfikowany chmiel lub produkty chmielowe;
+- **3)** informację o urządzeniach technicznych i ich rozmieszczeniu w obiekcie.
+
+3. Do wniosku dołącza się:
+
+- **1)** dokument potwierdzający tytuł prawny wnioskodawcy do obiektu;
+- **2)** zaświadczenie komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej, państwowego powiatowego inspektora sanitarnego i wojewódzkiego inspektora ochrony środowiska stwierdzające, że obiekty spełniają wymagania określone w przepisach o ochronie przeciwpożarowej, sanitarnych i o ochronie środowiska.
+
+4. Po wydaniu decyzji, o której mowa w ust. 1, Główny Inspektor informuje przedsiębiorcę o numerze identyfikacyjnym nadanym ośrodkowi certyfikacji.
+
+5. Główny Inspektor może cofnąć, w drodze decyzji, zatwierdzenie ośrodka certyfikacji, w przypadku gdy przedsiębiorca, o którym mowa w ust. 1, nie przestrzega przepisów dotyczących certyfikacji chmielu lub produktów chmielowych lub obiekt, w którym ma być certyfikowany chmiel lub produkty chmielowe, urządzenia techniczne i ich rozmieszczenie w obiekcie uniemożliwiają prowadzenie certyfikacji.
 
 **Art. 23.**
 
-1. W zakresie określonym przepisami Unii Europejskiej:
+1. W zakresie określonym przepisami Unii Europejskiej Główny Inspektor przekazuje Komisji Europejskiej informacje o:
 
-- **1)** minister właściwy do spraw rynków rolnych przekazuje Komisji Europejskiej informacje, o których mowa w:
-    - **a)** art. 23 rozporządzenia nr 1850/2006,
-    - **b)** art. 5 rozporządzenia Komisji (WE) nr 1299/2007 z dnia 6 listopada 2007 r. w sprawie uznawania grup producentów chmielu (Dz. Urz. UE L 289 z 07.11.2007, str. 4, z późn. zm.);
+- **1)** ośrodkach certyfikacji albo wyznaczonych jako ośrodki certyfikacji wojewódzkich inspektoratach jakości handlowej artykułów rolno-spożywczych i nadanych im numerach identyfikacyjnych;
+- **2)** stosowanej metodzie kontroli wilgotności względnej chmielu;
+- **3)** liczbie i wynikach przeprowadzonych w roku kalendarzowym kontroli przestrzegania procedur certyfikacji chmielu i produktów chmielowych;
+- **4)** liczbie i wynikach przeprowadzonych w roku kalendarzowym kontroli chmielu i produktów chmielowych pochodzących z importu;
+- **5)** nazwach i adresach jednostek certyfikujących;
+- **6)** ilości chmielu, która jest w roku kalendarzowym przedmiotem umów kontraktacji, oraz średniej cenie za 50 kg chmielu;
+- **7)** ilości chmielu dostarczonego w roku kalendarzowym oraz średniej cenie za 50 kg chmielu;
+- **8)** średnim koszcie wstępnego przygotowania 50 kg chmielu ponoszonym przez producenta;
+- **9)** średnim koszcie drugiego przygotowania 50 kg chmielu;
+- **10)** średnim koszcie składowania 50 kg chmielu ponoszonym przez grupę producentów chmielu;
+- **11)** średnim koszcie ponoszonym przez grupę producentów chmielu przy sprzedaży 50 kg chmielu.
 
-- **2)** Główny Inspektor przekazuje ministrowi właściwemu do spraw rynków rolnych oraz Komisji Europejskiej informacje, o których mowa w: Urz. UE L 340 z 19.12.2008, str. 45, z późn. zm.).
-    - **a)** art. 5 rozporządzenia Komisji (WE) nr 1557/2006 z dnia 18 października 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1952/2005 w odniesieniu do rejestracji umów i przekazywania danych odnoszących się do chmielu (Dz. Urz. UE L 288 z 19.10.2006, str. 18, z późn. zm.), zwanego dalej „rozporządzeniem nr 1557/2006”,
-    - **b)** art. 9 ust. 2 i 4 rozporządzenia Komisji (WE) nr 1295/2008 z dnia 18 grudnia 2008 r. w sprawie przywozu chmielu z państw trzecich (Dz.
+2. W zakresie określonym przepisami Unii Europejskiej minister właściwy do spraw rynków rolnych przekazuje Komisji Europejskiej informacje o:
 
-2. Podmioty gospodarcze prowadzące zakłady przetwórstwa chmielu przekazują Głównemu Inspektorowi informacje, o których mowa w art. 5 ust. 1 lit. f rozporządzenia nr 1557/2006, do dnia 15 marca roku następującego po roku zbioru.
+- **1)** rejonach uprawy chmielu;
+- **2)** uznanych grupach producentów chmielu;
+- **3)** jednostce odpowiedzialnej za przeprowadzenie kontroli przestrzegania procedur certyfikacji chmielu i produktów chmielowych.
 
-3. Producent chmielu, a w przypadku gdy producent chmielu jest członkiem uznanej grupy producentów albo uznanej organizacji producentów chmielu – uznana grupa producentów albo uznana organizacja producentów chmielu, przekazują wojewódzkiemu inspektorowi do dnia 1 marca informacje, o których mowa w art. 5 ust. 1 lit. a, b, e oraz g rozporządzenia nr 1557/2006, z tym że informacje, o których mowa w art. 5 ust. 1 lit. b, e oraz g rozporządzenia nr 1557/2006, przekazuje się, z uwzględnieniem podziału chmielu na odmiany.
+3. Grupa producentów chmielu przekazuje Głównemu Inspektorowi informacje, o których mowa w ust. 1 pkt 8, 10 i 11, do dnia 31 grudnia roku zbioru.
 
-**Art. 24.** (uchylony)
+4. Przedsiębiorca, o którym mowa w art. 22 ust. 1 pkt 2, przekazuje Głównemu Inspektorowi informacje, o których mowa w ust. 1 pkt 9, do dnia 31 grudnia roku zbioru.
 
-#### Rozdział 4 (uchylony)
+5. Główny Inspektor przekazuje informacje, o których mowa w ust. 1, również ministrowi właściwemu do spraw rynków rolnych.
 
-#### Rozdział 5 (uchylony)
+**Art. 24.** Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, rejony uprawy chmielu, z uwzględnieniem podziału terytorialnego kraju, mając na względzie czynniki przyrodnicze, tradycyjnie wyodrębnione rejony uprawy chmielu, a także plantacje chmielu założone przed dniem 1 września 2001 r.
 
-#### Rozdział 5a (uchylony)
+#### Rozdział 4 Rynek tytoniu
 
-#### Rozdział 6 Przepisy karne i kary pieniężne
+**Art. 25.** W zakresie określonym przepisami Unii Europejskiej dyrektor oddziału terenowego Agencji, właściwy że względu na miejsce zamieszkania albo siedzibę podmiotu, wydaje decyzje w sprawie:
+
+- **1)** zezwolenia na wykonywanie działalności gospodarczej w zakresie wstępnego przetwarzania surowca tytoniowego;
+- **2)** cofnięcia zezwolenia, o którym mowa w pkt 1;
+- **3)** zatwierdzenia punktów odbioru surowca tytoniowego;
+- **4)** przydzielania kwot produkcji surowca tytoniowego producentom, którzy nie są członkami grup producentów tytoniu;
+- **5)** przydzielania kwot produkcji surowca tytoniowego wynikających z przeniesienia grup odmian tytoniu producentom, którzy nie są członkami grup producentów tytoniu.
+
+**Art. 26.**
+
+1. Zezwolenie na wykonywanie działalności gospodarczej w zakresie wstępnego przetwarzania surowca tytoniowego wydaje się, jeżeli wnioskodawca dysponuje pomieszczeniami i urządzeniami technicznymi zapewniającymi uzyskanie stabilnego produktu nadającego się do przechowywania i dalszego przetwarzania.
+
+2. Wniosek o wydanie decyzji, o której mowa w art. 25 pkt 1, poza informacjami określonymi w przepisach o działalności gospodarczej, zawiera informacje o:
+
+- **1)** zdolnościach produkcyjnych w zakresie wstępnego przetwarzania surowca tytoniowego;
+- **2)** urządzeniach technicznych i ich rozmieszczeniu w pomieszczeniach służących do odbioru i klasyfikacji surowca tytoniowego oraz wstępnego przetwarzania surowca tytoniowego.
+
+3. Wniosek o wydanie decyzji, o której mowa w art. 25 pkt 3, zawiera:
+
+- **1)** imię, nazwisko, określenie miejsca zamieszkania i adres albo nazwę, określenie siedziby i adres wnioskodawcy;
+- **2)** informację o miejscu położenia obiektu, w którym ma być prowadzony odbiór i klasyfikacja surowca tytoniowego;
+- **3)** informację o urządzeniach technicznych i ich rozmieszczeniu w obiekcie.
+
+4. Do wniosków, o których mowa w ust. 2 i 3, dołącza się:
+
+- **1)** dokument potwierdzający tytuł prawny wnioskodawcy do obiektów, w których ma być prowadzona zamierzona działalność;
+- **2)** zaświadczenie komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej, państwowego powiatowego inspektora sanitarnego i wojewódzkiego inspektora ochrony środowiska stwierdzające, że obiekty spełniają wymagania określone w przepisach o ochronie przeciwpożarowej, sanitarnych i o ochronie środowiska.
+
+5. Dyrektor oddziału terenowego Agencji może, w drodze decyzji, cofnąć zatwierdzenie, o którym mowa w art. 25 pkt 3, w przypadku gdy punkt odbioru surowca tytoniowego przestał spełniać warunki niezbędne do uzyskania tego zatwierdzenia.
+
+6. Wniosek o wydanie decyzji, o których mowa w art. 25 pkt 4 i 5, zawiera:
+
+- **1)** imię, nazwisko, określenie miejsca zamieszkania i adres albo nazwę, określenie siedziby i adres wnioskodawcy;
+- **2)** numer identyfikacji podatkowej (NIP) i numer rachunku bankowego wnioskodawcy;
+- **3)** numer REGON – w przypadku, gdy wnioskodawcą jest osoba prawna;
+- **4)** numer identyfikacyjny wnioskodawcy nadany na podstawie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności;
+- **5)** określenie ilości surowca tytoniowego w poszczególnych grupach odmian tytoniu, której dotyczy wniosek;
+- **6)** informację o rejonie i wielkości powierzchni uprawy oraz określenie miejsca położenia plantacji, na której jest uprawiany tytoń;
+- **7)** informację o ilości surowca tytoniowego dostarczonego przetwórcom ze zbiorów z 3 lat poprzedzających ostatni zbiór, z podziałem na grupy odmian tytoniu;
+- **8)** informację o wystąpieniu wyjątkowych okoliczności, których skutkiem był nienormalnie niski zbiór tytoniu w danym roku okresu referencyjnego.
+
+7. Do wniosku dołącza się dokumenty potwierdzające informacje, o których mowa w ust. 6 pkt 7 i 8.
+
+8. Wnioski, o których mowa w ust. 2, 3 i 6, składa się na formularzach opracowanych i udostępnionych przez Agencję.
+
+**Art. 27.**
+
+1. W zakresie określonym przepisami Unii Europejskiej Prezes Agencji:
+
+- **1)** wydaje decyzje w sprawie: przydzielenia grupom producentów tytoniu kwoty produkcji surowca tytoniowego, przydzielenia grupom producentów tytoniu kwot produkcji surowca tytoniowego wynikających z przeniesienia grup odmian tytoniu, wykupu kwot produkcji surowca tytoniowego;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** wypłaca należności z tytułu wykupu kwot produkcji surowca tytoniowego;
+- **3)** podaje do publicznej wiadomości w sposób zwyczajowo przyjęty zamiar sprzedaży kwot produkcji surowca tytoniowego;
+- **4)** prowadzi ewidencję umów na uprawę tytoniu;
+- **5)** prowadzi ewidencję umów dotyczących: wymiany praw do kwot produkcji surowca tytoniowego, przekazania przyznanych kwot produkcji surowca tytoniowego;
+    - **a)**
+    - **b)**
+
+- **6)** opracowuje programy dotyczące przestawienia produkcji surowca tytoniowego;
+- **7)** zatwierdza, w drodze decyzji, na wniosek zainteresowanych podmiotów, projekty realizowane w ramach programów, o których mowa w pkt 6;
+- **8)** wypłaca zaliczki oraz środki na pomoc finansową na realizację projektów, o których mowa w pkt 7;
+- **9)** prowadzi kontrole dokumentacji (kontrole administracyjne) i kontrole w terenie realizacji projektów, o których mowa w pkt 7;
+- **10)** tworzy bazę danych o realizowanych projektach, o których mowa w pkt 7, i przechowuje zgromadzone w niej dane;
+- **11)** tworzy komputerową bazę danych służącą administrowaniu kwotami produkcji surowca tytoniowego;
+- **12)** przeprowadza kontrole administracyjne i kontrole w terenie: producentów i grup producentów tytoniu, przedsiębiorców prowadzących wstępne przetwarzanie surowca tytoniowego, przedsiębiorców prowadzących odbiór surowca tytoniowego.
+    - **a)**
+    - **b)**
+    - **c)**
+
+2. Wniosek o wydanie decyzji, o których mowa w ust. 1 pkt 1 lit. a i b, zawiera dane, o których mowa w art. 26 ust. 6, dotyczące grupy producentów tytoniu oraz każdego członka grupy producentów tytoniu.
+
+3. Wniosek o wydanie decyzji, o których mowa w ust. 1 pkt 1 lit. a i b, składa się na formularzu opracowanym i udostępnionym przez Agencję.
+
+4. Kontrole, o których mowa w ust. 1 pkt 12 lit. b i c, Prezes Agencji może zlecić Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych.
+
+**Art. 28.** W zakresie określonym przepisami Unii Europejskiej minister właściwy do spraw rynków rolnych występuje do Komisji Europejskiej z wnioskiem o przeniesienie grup odmian tytoniu.
+
+**Art. 29.**
+
+1. W zakresie określonym przepisami Unii Europejskiej wojewoda wydaje decyzje w sprawie:
+
+- **1)** uznania grupy producentów tytoniu;
+- **2)** cofnięcia uznania grupie producentów tytoniu.
+
+2. Wojewoda niezwłocznie przekazuje Informacje o wydaniu decyzji, o których mowa w ust. 1, ministrowi właściwemu do spraw rynków rolnych, Prezesowi Agencji oraz Prezesowi Agencji Restrukturyzacji.
+
+3. Wniosek o wydanie decyzji, o której mowa w ust. 1 pkt 1, zawiera:
+
+- **1)** nazwę, określenie siedziby i adres grupy producentów tytoniu;
+- **2)** informacje o: liczbie członków grupy producentów tytoniu, łącznej wielkości kwoty produkcji surowca tytoniowego przyznanej członkom grupy producentów tytoniu wnioskującej o uznanie.
+    - **a)**
+    - **b)**
+
+4. Do wniosku dołącza się:
+
+- **1)** dokument urzędowy potwierdzający, że wnioskodawca jest osobą prawną, oraz wskazujący organy i osoby uprawnione do reprezentowania wnioskodawcy;
+- **2)** statut albo umowę grupy producentów tytoniu;
+- **3)** dokumenty potwierdzające informacje, o których mowa w ust. 3 pkt 2 lit. b.
+
+**Art. 30.**
+
+1. Prezes Agencji przeprowadza kontrole, o których mowa w art. 27 ust. 1 pkt 12, zgodnie z rocznym planem kontroli administracyjnych i kontroli w terenie.
+
+2. Kontrole, o których mowa w art. 27 ust. 1 pkt 12 lit. a, prowadzi się w zakresie zgodności informacji zawartych w umowach na uprawę ze stanem faktycznym oraz przechowywania przez producentów w gospodarstwie surowca tytoniowego, który nie został dostarczony w celu wstępnego przetworzenia.
+
+3. Kontrole, o których mowa w art. 27 ust. 1 pkt 12 lit. b i c, prowadzi się w zakresie dostaw surowca tytoniowego, jego wstępnego przetwarzania i przygotowania do obrotu oraz w zakresie przestrzegania przez przedsiębiorców prowadzących wstępne przetwarzanie terminów zapłaty producentom ceny zakupu za dostarczony surowiec tytoniowy.
+
+4. Kontrole grup producentów tytoniu w zakresie spełniania przez grupę warunków uznania przeprowadza wojewoda właściwy ze względu na siedzibę grupy. Kopię protokołu kontroli wojewoda przekazuje, w terminie 14 dni od dnia zakończenia kontroli, Prezesowi Agencji oraz Prezesowi Agencji Restrukturyzacji.
+
+**Art. 31.**
+
+1. Czynności kontrolne są wykonywane przez osoby posiadające imienne upoważnienia wydane przez:
+
+- **1)** Prezesa Agencji – w przypadku kontroli, o których mowa w art. 27 ust. 1 pkt 9 i 12;
+- **2)** wojewodę – w przypadku kontroli, o których mowa w art. 30 ust. 4.
+
+2. Czynności kontrolne w przypadku, o którym mowa w art. 27 ust. 4, są wykonywane przez pracowników Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych posiadających imienne upoważnienie wydane przez wojewódzkiego inspektora.
+
+3. Upoważnienia zawierają wskazanie osoby upoważnionej do wykonywania czynności kontrolnych, ich miejsce i zakres oraz podstawę prawną do ich wykonywania.
+
+4. Przed rozpoczęciem czynności kontrolnych osoba upoważniona do ich wykonywania jest obowiązana okazać imienne upoważnienie.
+
+5. Osoby upoważnione do wykonywania czynności kontrolnych mają prawo do:
+
+- **1)** wstępu do pomieszczeń służących do odbioru i klasyfikacji surowca tytoniowego, jego wstępnego przetwarzania i czasowego składowania oraz przygotowania do obrotu;
+- **2)** żądania pisemnych lub ustnych informacji związanych z przedmiotem kontroli;
+- **3)** wglądu do dokumentów związanych z przedmiotem kontroli, odpisów, wyciągów lub kserokopii oraz zabezpieczania tych dokumentów;
+- **4)** pobierania próbek surowca tytoniowego do badania jakości.
+
+6. Osoba wykonująca czynności kontrolne sporządza z tych czynności protokół.
+
+7. Protokół podpisuje osoba wykonująca czynności kontrolne oraz kontrolowany.
+
+8. W przypadku odmowy podpisania protokołu przez kontrolowanego protokół podpisuje tylko osoba wykonująca czynności kontrolne, dokonując w protokole stosownej adnotacji o tej odmowie.
+
+9. W przypadku gdy kontrolowany nie zgadza się z ustaleniami zawartymi w protokole, może, w terminie 14 dni od dnia doręczenia protokołu, zgłosić organowi przeprowadzającemu kontrolę umotywowane zastrzeżenia do ustaleń zawartych w protokole.
+
+10. Minister właściwy do spraw rozwoju wsi, w drodze rozporządzenia, określi wzór imiennego upoważnienia do wykonywania czynności kontrolnych, mając na względzie ujednolicenie informacji zawartych w upoważnieniu.
+
+**Art. 32.**
+
+1. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia:
+
+- **1)** rejony uprawy tytoniu, z uwzględnieniem podziału terytorialnego kraju i tradycyjnie wyodrębnionych rejonów uprawy tytoniu oraz grupy odmian tytoniu przeznaczone do uprawy w poszczególnych rejonach, po zasięgnięciu opinii Krajowej Rady Izb Rolniczych, związków rolniczych zrzeszeń branżowych producentów surowca tytoniowego o zasięgu krajowym oraz Krajowego Stowarzyszenia Przemysłu Tytoniowego;
+- **2)** warunki podziału dodatkowych kwot produkcji surowca tytoniowego, w przypadku gdy gwarantowany próg ustalony dla grupy odmian na dane zbiory jest wyższy niż gwarantowany próg ustalony na poprzednie zbiory, mając na względzie racjonalizację produkcji surowca tytoniowego oraz redukcje kwot produkcji surowca tytoniowego zastosowane w odniesieniu do poprzedniego zbioru dla innej grupy odmian;
+- **3)** ostateczny termin rejestracji przekazania gospodarstwa, w którym jest produkowany tytoń, mając na względzie umożliwienie nabywcy wykorzystania kwoty produkcji surowca tytoniowego od dnia tej rejestracji.
+
+2. Minister właściwy do spraw rynków rolnych może określić, w drodze rozporządzenia, warunki podziału dodatkowych kwot produkcji surowca tytoniowego w przypadku przeniesienia grup odmian tytoniu, mając na względzie zapotrzebowanie na surowiec tytoniowy oraz racjonalizację jego produkcji.
+
+**Art. 33.**
+
+1. W zakresie określonym przepisami Unii Europejskiej Prezes Agencji przekazuje Komisji Europejskiej informacje o:
+
+- **1)** nazwach i adresach przedsiębiorców posiadających zezwolenie na wykonywanie działalności gospodarczej w zakresie wstępnego przetwarzania surowca tytoniowego;
+- **2)** uwzględnieniu przy przydzielaniu kwot produkcji surowca tytoniowego wyjątkowych okoliczności, których skutkiem był nienormalnie niski zbiór tytoniu w danym roku okresu referencyjnego;
+- **3)** przekazanych na stałe wielkościach kwot produkcji surowca tytoniowego;
+- **4)** ilościach surowca tytoniowego, które były przedmiotem wniosku o wykup kwot, oraz ilościach wykupionych, z podziałem na poszczególne grupy odmian;
+- **5)** liczbie zaewidencjonowanych umów na uprawę tytoniu oraz wielkości powierzchni uprawy prowadzonej na podstawie tych umów;
+- **6)** ogólnej liczbie producentów oraz liczbie producentów należących do uznanych grup producentów tytoniu;
+- **7)** liczbie przedsiębiorców posiadających zezwolenie na wykonywanie działalności gospodarczej w zakresie wstępnego przetwarzania surowca tytoniowego, którzy zawarli umowy na uprawę;
+- **8)** maksymalnych i minimalnych cenach za kilogram surowca tytoniowego, z wyłączeniem podatków i innych opłat, uzgodnionych w umowach na uprawę;
+- **9)** wielkości dostaw surowca tytoniowego w poszczególnych miesiącach danego roku zbioru;
+- **10)** szacowanej wielkości surowca tytoniowego pozostałej do dostarczenia z danego roku zbioru;
+- **11)** średniej cenie ważonej za kilogram surowca tytoniowego płaconej przez przedsiębiorców posiadających zezwolenie na wykonywanie działalności gospodarczej w zakresie wstępnego przetwarzania surowca tytoniowego;
+- **12)** przepływie zapasów surowca tytoniowego będącego w dyspozycji przedsiębiorców posiadających zezwolenie na wykonywanie działalności gospodarczej w zakresie wstępnego przetwarzania surowca tytoniowego;
+- **13)** postępie w realizacji programów dotyczących przestawienia produkcji surowca tytoniowego;
+- **14)** wydatkach poniesionych w danym roku obrachunkowym na działania mające na celu zmianę profilu produkcji.
+
+2. Informacje, o których mowa w ust. 1, Prezes Agencji przekazuje również ministrowi właściwemu do spraw rynków rolnych.
+
+3. W zakresie określonym przepisami Unii Europejskiej minister właściwy do spraw rynków rolnych przekazuje Komisji Europejskiej:
+
+- **1)** informacje o rejonach uprawy tytoniu oraz grupach odmian tytoniu przeznaczonych do uprawy w poszczególnych rejonach;
+- **2)** informacje o nazwach i adresach jednostek prowadzących ewidencję umów na uprawę tytoniu;
+- **3)** informacje o uznanych grupach producentów tytoniu;
+- **4)** informacje o odmowie lub cofnięciu uznania grupie producentów tytoniu;
+- **5)** informacje o umieszczeniu w statutach lub umowach grup producentów tytoniu informacji o możliwości rezygnacji z członkostwa w grupie producentów tytoniu;
+- **6)** informacje o warunkach podziału dodatkowych kwot produkcji surowca tytoniowego, w przypadku gdy gwarantowany próg ustalony na dane zbiory jest wyższy niż gwarantowany próg ustalony na poprzednie zbiory;
+- **7)** informacje o warunkach podziału dodatkowych kwot produkcji surowca tytoniowego w przypadku przeniesienia grup odmian tytoniu;
+- **8)** informacje o środkach podejmowanych w celu prawidłowego stosowania przepisów Unii Europejskiej dotyczących rynku tytoniu;
+- **9)** inne informacje o rynku tytoniu na jej wniosek.
+
+4. Przedsiębiorcy wykonujący działalność gospodarczą w zakresie wstępnego przetwarzania surowca tytoniowego przekazują Prezesowi Agencji:
+
+- **1)** informacje, o których mowa w ust. 1 pkt 8 – do dnia 30 czerwca roku zbioru;
+- **2)** informacje, o których mowa w ust. 1 pkt 9–11 – do 15 dnia każdego miesiąca;
+- **3)** informacje, o których mowa w ust. 1 pkt 12 – do 15 dnia miesiąca następującego po zakończeniu każdego kwartału.
+
+#### Rozdział 5 Rynek suszu paszowego
+
+**Art. 34.**
+
+1. W zakresie określonym przepisami Unii Europejskiej dyrektor oddziału terenowego Agencji, właściwy ze względu na miejsce zamieszkania albo siedzibę podmiotu prowadzącego przedsiębiorstwo przetwórcze lub podmiotu skupującego zielonkę do suszenia i śrutowania:
+
+- **1)** wydaje decyzje w sprawach: zatwierdzenia przedsiębiorstwa przetwórczego, w którym jest produkowany susz paszowy, zwanego dalej „przedsiębiorstwem przetwórczym”, zatwierdzenia podmiotu skupującego zielonkę do suszenia i śrutowania, zwanego dalej „podmiotem skupującym”, cofnięcia zatwierdzenia, o którym mowa w lit. a i b, przyznawania dopłat z tytułu produkcji suszu paszowego, zwanego dalej „suszem”;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **2)** prowadzi nadzór nad: ponownym wprowadzeniem na teren przedsiębiorstwa przetwórczego suszu wyprodukowanego przez to przedsiębiorstwo, w celu przepakowania lub powtórnego przerobu, wprowadzeniem na teren przedsiębiorstwa przetwórczego suszu wyprodukowanego przez inne przedsiębiorstwo przetwórcze;
+    - **a)**
+    - **b)**
+
+- **3)** przyjmuje informacje dotyczące pochodzenia i przeznaczenia suszu, o którym mowa w pkt 2 lit. b.
+
+2. Do wniosku o wydanie decyzji w sprawie zatwierdzenia przedsiębiorstwa przetwórczego, oprócz dokumentów określonych w przepisach Unii Europejskiej, dołącza się:
+
+- **1)** dokument potwierdzający tytuł prawny wnioskodawcy do obiektów, w których ma być prowadzona zamierzona działalność;
+- **2)** zaświadczenie komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej, państwowego powiatowego inspektora sanitarnego i wojewódzkiego inspektora ochrony środowiska stwierdzające, że obiekty spełniają wymagania określone w przepisach o ochronie przeciwpożarowej, sanitarnych i o ochronie środowiska.
+
+3. Do wniosku o zatwierdzenie podmiotu skupującego dołącza się dokument urzędowy potwierdzający, że wnioskodawca wykonuje działalność gospodarczą w zakresie skupu zielonki.
+
+4. Wniosek o przyznanie dopłaty, o której mowa w ust. 1 pkt 1 lit. d, składa się na formularzu udostępnionym przez Agencję.
+
+5. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, wzór wniosku o przyznanie dopłaty, o której mowa w ust. 1 pkt 1 lit. d, mając na względzie właściwe przepisy Unii Europejskiej w tym zakresie.
+
+**Art. 35.**
+
+1. Prezes Agencji przeprowadza kontrole administracyjne i kontrole w terenie ubiegających się o zatwierdzenie lub zatwierdzonych przedsiębiorstw przetwórczych i podmiotów skupujących, zgodnie z rocznym planem kontroli.
+
+2. Prezes Agencji może powierzyć przeprowadzenie kontroli, o których mowa w ust. 1, innym jednostkom organizacyjnym dysponującym odpowiednimi warunkami organizacyjnymi, kadrowymi i technicznymi określonymi na podstawie ust. 12 pkt 2.
+
+3. Czynności kontrolne są wykonywane przez osoby posiadające imienne upoważnienie wydane przez Prezesa Agencji.
+
+4. Upoważnienie zawiera wskazanie osoby upoważnionej do wykonywania czynności kontrolnych, ich miejsce i zakres oraz podstawę prawną do ich wykonywania.
+
+5. Przed rozpoczęciem czynności kontrolnych osoba upoważniona do ich wykonywania jest obowiązana okazać imienne upoważnienie.
+
+6. Osoby upoważnione do wykonywania czynności kontrolnych mają prawo do:
+
+- **1)** wstępu na grunty, do obiektów produkcyjnych i magazynowych;
+- **2)** żądania pisemnych lub ustnych informacji związanych z przedmiotem kontroli;
+- **3)** wglądu do dokumentów związanych z przedmiotem kontroli, sporządzania z nich odpisów, wyciągów lub kserokopii oraz zabezpieczania tych dokumentów;
+- **4)** sporządzania dokumentacji fotograficznej z przeprowadzonej kontroli;
+- **5)** pobierania próbek do badań.
+
+7. Osoba wykonująca czynności kontrolne sporządza z tych czynności protokół.
+
+8. Protokół podpisuje osoba wykonująca czynności kontrolne oraz kontrolowany.
+
+9. W przypadku odmowy podpisania protokołu przez kontrolowanego protokół podpisuje tylko osoba wykonująca czynności kontrolne, dokonując w protokole stosownej adnotacji o tej odmowie.
+
+10. W przypadku gdy kontrolowany nie zgadza się z ustaleniami zawartymi w protokole, może, w terminie 14 dni od dnia doręczenia protokołu, zgłosić odpowiednio Prezesowi Agencji albo jednostce organizacyjnej przeprowadzającej kontrolę umotywowane zastrzeżenia do ustaleń zawartych w tym protokole.
+
+11. Przy kwalifikowaniu do kontroli w terenie wniosków o przyznanie dopłaty z tytułu produkcji suszu, składanych przez podmioty prowadzące zatwierdzone przedsiębiorstwa przetwórcze, bierze się pod uwagę elementy analizy ryzyka określone przepisami Unii Europejskiej, a ponadto:
+
+- **1)** przeznaczenie suszu wyprodukowanego przez zatwierdzone przedsiębiorstwo przetwórcze na potrzeby własnego gospodarstwa rolnego;
+- **2)** liczbę umów zawartych na dostawę zielonki przez podmiot prowadzący zatwierdzone przedsiębiorstwo przetwórcze;
+- **3)** liczbę i wielkość powierzchni działek ewidencyjnych, z których pochodzi zielonka objęta umowami sprzedaży.
+
+12. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia:
+
+- **1)** wzór imiennego upoważnienia do wykonywania czynności kontrolnych, mając na względzie ujednolicenie informacji zawartych w upoważnieniu;
+- **2)** warunki organizacyjne, techniczne i kadrowe, jakie powinny spełniać jednostki organizacyjne, którym można powierzyć przeprowadzenie kontroli, mając na względzie zapewnienie wykonywania ich w jednolity sposób na obszarze całego kraju.
+
+**Art. 36.**
+
+1. Podmiot prowadzący zatwierdzone przedsiębiorstwo przetwórcze przekazuje dyrektorowi oddziału terenowego Agencji, właściwemu ze względu na miejsce zamieszkania albo siedzibę podmiotu prowadzącego zatwierdzone przedsiębiorstwo przetwórcze:
+
+- **1)** kopie umów na dostawę zielonki przeznaczonej do produkcji suszu, zawartych z producentami tej zielonki, lub kopię deklaracji dostaw;
+- **2)** informacje o: średniej wilgotności zielonki, zużytej do produkcji suszu, ustalonej w poprzednim kwartale – do 10 dnia miesiąca następującego po zakończeniu tego kwartału, określonej w tonach szacowanej masie zapasów suszu posiadanych przez to przedsiębiorstwo na dzień 31 marca poprzedniego roku gospodarczego – do dnia 10 kwietnia następnego roku gospodarczego, zamiarze: – wywozu partii suszu wyprodukowanego przez przedsiębiorstwo przetwórcze poza jego teren, – wprowadzenia na teren przedsiębiorstwa przetwórczego suszu – w przypadkach, o których mowa w art. 34 ust. 1 pkt 2, – wprowadzenia na teren przedsiębiorstwa przetwórczego produktów innych niż zielonka przeznaczona do produkcji suszu, w celu wyprodukowania mieszanek paszowych, wraz z informacją o rodzaju oraz ilości, określonej w kilogramach, wprowadzanych produktów.
+    - **a)**
+    - **b)**
+    - **c)**
+
+2. Informacje, o których mowa w ust. 1 pkt 2 lit. c, przekazuje się co najmniej na 3 dni przed zamierzonym dokonaniem czynności określonych w tym przepisie.
+
+3. Zatwierdzony podmiot skupujący przekazuje dyrektorowi oddziału terenowego Agencji, właściwemu ze względu na miejsce zamieszkania albo siedzibę podmiotu skupującego, kopie umów zawartych z producentami zielonki oraz z podmiotami prowadzącymi zatwierdzone przedsiębiorstwa przetwórcze, wraz ze spisem zbiorczym wszystkich działek rolnych, z których pochodzi zakupywana przez nich zielonka, z podaniem danych umożliwiających lokalizację tych działek, zawartych w krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, oraz wielkości ich powierzchni określonej w hektarach, w terminie określonym w przepisach Unii Europejskiej.
+
+**Art. 37.**
+
+1. W przypadku cofnięcia zatwierdzenia przedsiębiorstwa przetwórczego wniosek o ponowne zatwierdzenie może być złożony po upływie:
+
+- **1)** 6 miesięcy od dnia wydania ostatecznej decyzji o cofnięciu zatwierdzenia, jeżeli cofnięcie nastąpiło z powodu: nieprowadzenia wymaganej przepisami Unii Europejskiej dokumentacji lub prowadzenia jej bez zachowania należytej staranności lub nieinformowania dyrektora oddziału terenowego Agencji o zmianach stanu faktycznego w stosunku do informacji zawartych we wniosku o zatwierdzenie, lub nieprzekazywania dyrektorowi oddziału terenowego Agencji dokumentów, o których mowa w przepisach Unii Europejskiej, lub niepoddawania się kontrolom wymaganym przepisami Unii Europejskiej;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **2)** 4 miesięcy od dnia wydania ostatecznej decyzji o cofnięciu zatwierdzenia, jeżeli cofnięcie nastąpiło z powodu: przekazania nieprawdziwych danych dotyczących wielkości powierzchni, z której pochodzi zielonka objęta deklaracjami dostaw, a różnica powierzchni jest większa niż: – przy powierzchni do 0,5 ha – 7,0%, – przy powierzchni od 0,5 do 1 ha – 5,0%, – przy powierzchni od 1 do 3 ha – 4,0%, – przy powierzchni od 3 do 6 ha – 3,0%, – przy powierzchni od 6 do 15 ha – 2,0%, – przy powierzchni od 15 do 25 ha – 1,5%, – przy powierzchni powyżej 25 ha – 1,0% lub nieprzekazywania dyrektorowi oddziału terenowego Agencji informacji, o których mowa w art. 36 ust. 1 pkt 2.
+    - **a)**
+    - **b)**
+
+2. W przypadku cofnięcia zatwierdzenia podmiotowi skupującemu wniosek o ponowne zatwierdzenie może być złożony po upływie 6 miesięcy od dnia wydania ostatecznej decyzji o cofnięciu zatwierdzenia, jeżeli cofnięcie nastąpiło z powodu:
+
+- **1)** nieprowadzenia wymaganej przepisami Unii Europejskiej dokumentacji lub prowadzenia jej bez zachowania należytej staranności lub
+- **2)** nieprzekazywania dyrektorowi oddziału terenowego Agencji w wyznaczonym przepisami Unii Europejskiej terminie umów z producentami zielonki oraz z podmiotami prowadzącymi zatwierdzone przedsiębiorstwo przetwórcze, lub
+- **3)** nieudostępniania do kontroli prowadzonej dokumentacji finansowej.
+
+**Art. 38.**
+
+1. W zakresie określonym przepisami Unii Europejskiej Prezes Agencji przekazuje Komisji Europejskiej informacje o:
+
+- **1)** rodzaju i masie suszu, określonej w tonach, wywiezionego z zatwierdzonych przedsiębiorstw przetwórczych;
+- **2)** szacowanych zapasach suszu na dzień 31 marca poprzedniego roku gospodarczego;
+- **3)** średniej wilgotności zielonki.
+
+2. Informacje, o których mowa w ust. 1, Prezes Agencji przekazuje również ministrowi właściwemu do spraw rynków rolnych.
+
+**Art. 39.** Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, metody pobierania próbek suszu i wykonywania badań parametrów jakościowych suszu, mając na względzie jednolity sposób pobierania próbek i wykonywania badań parametrów jakościowych tego suszu.
+
+#### Rozdział 6 Przepisy karne
 
 **Art. 40.**
 
 1. Kto wprowadza do obrotu chmiel lub produkty chmielowe bez certyfikatu albo świadectwa równoważności, podlega karze grzywny.
 
-2. (uchylony)
+2. Kto wbrew obowiązkowi nie przekazuje Głównemu Inspektorowi informacji o:
 
-3. (uchylony)
+- **1)** średnim koszcie wstępnego przygotowania 50 kg chmielu ponoszonym przez producenta,
+- **2)** średnim koszcie składowania 50 kg chmielu ponoszonym przez grupę producentów chmielu,
+- **3)** średnim koszcie ponoszonym przez grupę producentów chmielu przy sprzedaży 50 kg chmielu,
+- **4)** średnim koszcie drugiego przygotowania 50 kg chmielu podlega karze grzywny.
 
-4. Kto:
+3. Kto wbrew obowiązkowi nie przekazuje Prezesowi Agencji informacji o:
 
-- **1)** działając w imieniu lub interesie organizacji producentów lub zrzeszenia organizacji producentów, wbrew obowiązkowi określonemu w art. 13 ust. 1:
-    - **a)** pkt 1 – nie przekazuje informacji o ilości owoców i warzyw nieprzeznaczonych do sprzedaży w poprzednich miesiącach roku handlowego, w rozbiciu na gatunki,
-    - **b)** pkt 4 – nie przekazuje informacji o szacunkowych kwotach wkładu Unii Europejskiej oraz wkładów członków organizacji lub samej organizacji do funduszu operacyjnego,
+- **1)** maksymalnych i minimalnych cenach za kilogram surowca tytoniowego, z wyłączeniem podatków i innych opłat, uzgodnionych w umowach na uprawę tytoniu,
+- **2)** wielkości dostaw surowca tytoniowego w poszczególnych miesiącach danego roku zbioru,
+- **3)** szacowanej ilości surowca tytoniowego pozostałej do dostarczenia z danego roku zbioru,
+- **4)** średniej cenie ważonej za kilogram surowca tytoniowego płaconej przez przedsiębiorców posiadających zezwolenie na wykonywanie działalności gospodarczej w zakresie wstępnego przetwarzania surowca tytoniowego,
+- **5)** przepływie zapasów surowca tytoniowego będącego w dyspozycji przedsiębiorców posiadających zezwolenie na wykonywanie działalności gospodarczej w zakresie wstępnego przetwarzania surowca tytoniowego podlega karze grzywny.
 
-- **2)** będąc upoważnionym do reprezentowania browaru, wbrew obowiązkowi określonemu w art. 20 ust. 1 rozporządzenia nr 1850/2006, nie przekazuje informacji o chmielu zebranym z plantacji należących do browaru i zużytym przez ten browar w stanie świeżym lub po przetworzeniu,
-- **3)** (uchylony)
-- **4)** będąc producentem chmielu nienależącym do grupy albo uznanej organizacji producentów chmielu, albo będąc upoważnionym do reprezentowania grupy albo uznanej organizacji producentów chmielu, przekazuje wojewódzkiemu inspektorowi właściwemu ze względu na miejsce położenia uprawy chmielu nieprawdziwe dane, o których mowa w art. 5 ust. 1 lit. a, b, e oraz g rozporządzenia nr 1557/2006, lub nie przekazuje tych danych lub przekazuje je po terminie,
-- **5)** będąc producentem chmielu, przekazuje wojewódzkiemu inspektorowi właściwemu ze względu na miejsce położenia uprawy chmielu nieprawdziwe dane w deklaracji, o której mowa w art. 3 ust. 1 rozporządzenia nr 1850/2006, dołączanej do chmielu zgłoszonego do certyfikacji,
-- **6)** będąc podmiotem gospodarczym prowadzącym zakład przetwórstwa chmielu, wbrew obowiązkowi określonemu w art. 23 ust. 2, nie przekazuje informacji, o których mowa w art. 5 ust. 1 lit. f rozporządzenia nr 1557/2006 – podlega karze grzywny.
+4. Kto wbrew obowiązkowi:
 
-4a. (uchylony) 4b. Kto:
+- **1)** działając w imieniu lub w interesie organizacji producentów albo zrzeszenia organizacji producentów, nie przekazuje informacji o: zapasach jabłek i gruszek na pierwszy dzień każdego miesiąca, planowanych powierzchniach uprawy każdego gatunku owoców i warzyw, a w przypadku jabłek i gruszek – każdej odmiany, ilości owoców i warzyw nieprzeznaczonych do sprzedaży w poprzednich miesiącach roku handlowego – w rozbiciu na gatunki,
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **1)** (uchylony)
-- **2)** nie przekazuje wojewódzkiemu inspektorowi informacji określonych w art. 17 ust. 1, 4 lub 5 lub przekazuje je niezgodnie z tymi przepisami
-- **3)** (uchylony)
-- **4)** (uchylony) 4a) (uchylony)
-- **5)** (uchylony)
-- **6)** (uchylony) – podlega karze grzywny.
+- **2)** działając w imieniu lub w interesie browaru, nie przekazuje informacji o chmielu zebranym z plantacji należących do browarów i zużytego przez te browary w stanie świeżym lub po przetworzeniu,
+- **3)** wykonując działalność gospodarczą w zakresie wytwarzania produktów chmielowych, nie przekazuje informacji o ilości wyprodukowanych i sprzedanych zizomeryzowanych produktów chmielowych,
+- **4)** działając w imieniu lub w interesie grupy producentów chmielu, nie przekazuje informacji o umowach kontraktacji oraz o umowach potwierdzających przeniesienie własności chmielu zawartych między grupą producentów chmielu a nabywcą chmielu oraz o ilości chmielu dostarczonego przez grupę producentów chmielu nabywcy chmielu,
+- **5)** będąc producentem chmielu nienależącym do grupy producentów chmielu, nie przekazuje informacji o umowach kontraktacji oraz o umowach potwierdzających przeniesienie własności chmielu zawartych z nabywcą chmielu oraz o ilości chmielu dostarczonego nabywcy chmielu podlega karze grzywny.
 
-5. Orzekanie w sprawach, o których mowa w ust. 1, 4 i 4b, następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.
-
-**Art. 40a.**
-
-1. Kto:
-
-- **1)** uniemożliwia wojewódzkiemu inspektorowi przeprowadzenie kontroli jakości handlowej owoców i warzyw wprowadzanych do obrotu lub kontroli składowania lub transportowania tych artykułów, podlega karze pieniężnej w wysokości do dwudziestokrotnego przeciętnego wynagrodzenia w gospodarce narodowej ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2022 r. poz. 504, 1504 i 2461), zwanego dalej „przeciętnym wynagrodzeniem”, za rok poprzedzający rok nałożenia kary;
-- **2)** utrudnia wojewódzkiemu inspektorowi przeprowadzenie kontroli jakości handlowej owoców i warzyw wprowadzanych do obrotu lub kontroli składowania lub transportowania tych artykułów, podlega karze pieniężnej w wysokości do piętnastokrotnego przeciętnego wynagrodzenia za rok poprzedzający rok nałożenia kary;
-- **3)** wprowadza do obrotu owoce i warzywa nieodpowiadające wymaganiom jakości handlowej, podlega karze pieniężnej w wysokości do pięciokrotnej wartości korzyści majątkowej uzyskanej lub która mogłaby zostać uzyskana przez wprowadzenie tych artykułów do obrotu, nie niższej jednak niż 500 zł;
-- **4)** odmawia okazania wojewódzkiemu inspektorowi dokumentów towarzyszących danej partii owoców i warzyw lub nie zamieszcza w tych dokumentach odpowiednich informacji wymaganych zgodnie z art. 5 rozporządzenia nr 543/2011 lub zamieszcza w tych dokumentach informacje nieprawdziwe lub niekompletne, podlega karze pieniężnej w wysokości do dwudziestokrotnego przeciętnego wynagrodzenia za rok poprzedzający rok nałożenia kary.
-
-2. Kto nie usunął nieprawidłowości stwierdzonych podczas kontroli w zakresie jakości handlowej owoców i warzyw w określonym terminie, podlega karze pieniężnej w wysokości do trzykrotnego przeciętnego wynagrodzenia za rok poprzedzający rok nałożenia kary.
-
-3. Kto wprowadza ponownie do obrotu owoce i warzywa, wobec których zostało wydane orzeczenie o niezgodności, o którym mowa w art. 17 rozporządzenia nr 543/2011, lub odnośnie do których nie podjęto środków wynikających z tego orzeczenia, podlega karze pieniężnej w wysokości do pięciokrotnej wartości korzyści majątkowej uzyskanej lub która mogłaby zostać uzyskana przez wprowadzenie tych artykułów do obrotu, nie niższej jednak niż 500 zł.
-
-4. Kto bez zgody wojewódzkiego inspektora zmienia sposób zabezpieczeń, o których mowa w art. 27 ust. 1 pkt 1 i 2 oraz ust. 2 i 3 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych, dokonanych podczas kontroli prowadzonej w odniesieniu do owoców i warzyw albo je zdejmuje, podlega karze pieniężnej w wysokości do trzykrotnego przeciętnego wynagrodzenia za rok poprzedzający rok nałożenia kary.
-
-5. (uchylony)
-
-6. Kary pieniężne, o których mowa w ust. 1–4, wymierza, w drodze decyzji, wojewódzki inspektor, który przeprowadził kontrolę, w wyniku której zostały stwierdzone przesłanki wymierzenia kary, a w przypadku, o którym mowa w ust. 1 pkt 1 i 2 – któremu uniemożliwiono lub utrudniono przeprowadzenie kontroli.
-
-7. (uchylony)
-
-8. Kary pieniężne, o których mowa w ust. 1–4, wymierza się przy uwzględnieniu stopnia szkodliwości czynu, zakresu naruszenia, dotychczasowej działalności dokonującego naruszenia i wielkości jego obrotów oraz przychodu w roku poprzedzającym rok nałożenia kary, a także wartości owoców i warzyw poddanych kontroli.
-
-9. Przed ustaleniem wysokości kary pieniężnej wojewódzki inspektor może żądać okazania dokumentów związanych z ustaleniem okoliczności, o których mowa w ust. 8, w szczególności dotyczących obrotów oraz przychodu w roku poprzedzającym rok nałożenia kary i wartości kontrolowanych owoców i warzyw.
-
-10. W przypadku niskiego stopnia szkodliwości czynu, niewielkiego zakresu naruszenia lub braku stwierdzenia istotnych uchybień w dotychczasowej działalności dokonującego naruszenia, można odstąpić od wymierzenia kar pieniężnych, o których mowa w ust. 1–4.
-
-11. O odstąpieniu, o którym mowa w ust. 10, rozstrzyga w drodze decyzji wojewódzki inspektor właściwy do wymierzenia kary pieniężnej.
-
-12. Termin zapłaty kary pieniężnej wynosi 30 dni od dnia, w którym decyzja o wymierzeniu kary stała się ostateczna.
-
-13. Kary pieniężne są wpłacane na rachunek bankowy wojewódzkiego inspektoratu jakości handlowej artykułów rolno-spożywczych.
-
-14. W zakresie nieuregulowanym w niniejszej ustawie oraz w Kodeksie postępowania administracyjnego do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm. ), z tym że uprawnienia organów podatkowych przysługują Głównemu Inspektorowi albo wojewódzkiemu inspektorowi właściwemu ze względu na miejsce przeprowadzenia kontroli.
-
-**Art. 40b.** Jeżeli naruszenie, o którym mowa w art. 40a ust. 1 pkt 3 lub ust. 3, wyczerpuje jednocześnie znamiona naruszenia, o którym mowa w art. 56 ustawy z dnia 9 marca 2023 r. o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, win lub napojów spirytusowych oraz o produktach tradycyjnych (Dz. U. poz. 588), lub art. 24 ust. 1 pkt 4, 5 lub 6 lub ust. 2 ustawy z dnia 23 czerwca 2022 r. o rolnictwie ekologicznym i produkcji ekologicznej (Dz. U. poz. 1370 oraz z 2023 r. poz. 412 i 588), karę pieniężną nakłada się na podstawie przepisów niniejszej ustawy.
+5. Orzekanie w sprawach o czyny określone w ust. 1–4 następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących
 
+**Art. 41.** W ustawie z dnia 29 listopada 2000 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego (Dz. U. z 2001 r. Nr 3, poz. 19 oraz z 2002 r. Nr 238, poz. 2019) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 pkt 6 otrzymuje brzmienie: „
+- **6)** świadectwo równoważności – świadectwo potwierdzające spełnianie przez importowany chmiel lub produkt chmielowy minimalnych wymagań jakościowych obowiązujących w Rzeczypospolitej Polskiej, wydane przez kraj pochodzenia, ” ;
+- **2)** w art. 3 uchyla się pkt 2 i 3;
+- **3)** uchyla się art. 4;
+- **4)** w art. 5 w ust. 1: pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** łączna wartość produktów wytworzonych przez członków grupy i sprzedanych w okresie roku poprzedzającego złożenie wniosku wynosi co najmniej równowartość 100 tys. euro, ” , w pkt 3 uchyla się lit. a;
+    - **b)**
+
+- **5)** uchyla się art. 9–21;
+- **6)** w art. 22 w ust. 1 pkt 2 otrzymuje brzmienie: „
+- **2)** łączna wartość produktów wytworzonych przez członków grupy i sprzedanych w okresie roku poprzedzającego złożenie wniosku wynosi co najmniej równowartość 50 tys. euro, ” ;
+- **7)** uchyla się art. 23 i art. 26;
+- **8)** w art. 24 w ust. 2: pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** realizacji planu działania, o którym mowa w art. 22 ust. 1 pkt 3, ” , uchyla się pkt 2;
+    - **b)**
+
+- **9)** w art. 37 po ust. 2 dodaje się ust. 2a w brzmieniu: „
+
+2a. Na chmiel uzyskany w wyniku mieszania wydaje się certyfikat. ” ;
+
+- **10)** art. 38 otrzymuje brzmienie: „
+
+1. Przepakowywanie chmielu albo produktów chmielowych, na które został wydany certyfikat, może odbywać się wyłącznie pod nadzorem inspektora.
+
+2. Po przepakowaniu każde opakowanie powinno być oznakowane w sposób, o którym mowa w art. 33 ust. 1 pkt 2 lub art. 36 ust. 2. W certyfikacie inspektor wpisuje informację o zmianie opakowania i oznakowaniu opakowań.
+
+3. W przypadku podziału partii chmielu lub produktu chmielowego, na którą wydano certyfikat albo świadectwo równoważności, sprzedawca dołącza do każdej części tej partii fakturę lub inny dokument handlowy, w którym umieszcza zgodne z certyfikatem albo świadectwem równoważności informacje o:
+
+- **1)** dla chmielu: określeniu towaru, masie netto, kraju i rejonie uprawy, roku zbioru, nazwie odmiany, numerze certyfikatu albo świadectwa równoważności i nazwie jednostki, która go wydała,
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+
+- **2)** dla produktu chmielowego: informacje, o których mowa w pkt 1, miejscu i dacie wytworzenia. ” ;
+    - **a)**
+    - **b)**
+
+- **11)** w art. 39: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Inspektor prowadzi ewidencję umów kontraktacji zawartych między producentem chmielu lub grupą producentów chmielu utworzoną na podstawie przepisów o grupach producentów rolnych i ich związkach a nabywcą chmielu i innych umów potwierdzających przeniesienie własności chmielu oraz ewidencję ilości dostarczonego chmielu. ” . w ust. 3 uchyla się pkt 6;
+
+- **b)**
+- **12)** w art. 40 ust. 2 otrzymuje brzmienie: „
+
+2. Kopie pozostałych umów potwierdzających przeniesienie własności chmielu producent chmielu lub grupa producentów chmielu przekazuje inspektorowi po dostarczeniu chmielu nabywcy, nie później jednak niż do dnia 31 stycznia każdego roku. ” ;
+
+- **13)** art. 44 i 45 otrzymują brzmienie: „
+
+**Art. 44.**
+
+1. Wykonywanie działalności gospodarczej w zakresie wstępnego przetwarzania surowca tytoniowego wymaga zezwolenia wydanego w drodze decyzji przez Prezesa Agencji Rynku Rolnego.
+
+2. Zezwolenia, o którym mowa w ust. 1, nie udziela się grupom producentów tytoniu i ich związkom utworzonym na podstawie przepisów o grupach producentów rolnych i ich związkach.
+
+3. Zezwolenie na wykonywanie działalności gospodarczej w zakresie wstępnego przetwarzania surowca tytoniowego wydaje się, jeżeli wnioskodawca dysponuje pomieszczeniami i urządzeniami technicznymi zapewniającymi uzyskanie stabilnego produktu nadającego się do przechowywania i dalszego przetwarzania.
+
+4. Wniosek o wydanie zezwolenia, o którym mowa w ust. 1, poza informacjami określonymi w przepisach o działalności gospodarczej, zawiera informacje o:
+
+- **1)** zdolnościach produkcyjnych w zakresie wstępnego przetwarzania surowca tytoniowego,
+- **2)** urządzeniach technicznych i ich rozmieszczeniu w pomieszczeniach służących do odbioru i klasyfikacji surowca tytoniowego oraz wstępnego przetwarzania surowca tytoniowego.
+
+5. Do wniosku, o którym mowa w ust. 4, dołącza się:
+
+- **1)** dokument potwierdzający tytuł prawny wnioskodawcy do nieruchomości, w których ma być prowadzona zamierzona działalność,
+- **2)** zaświadczenie komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej, państwowego powiatowego inspektora sanitarnego i wojewódzkiego inspektora ochrony środowiska stwierdzające, że obiekty przeznaczone do prowadzenia zamierzonej działalności gospodarczej spełniają wymagania określone w przepisach o ochronie przeciwpożarowej, sanitarnych i o ochronie środowiska.
+
+**Art. 45.**
+
+1. Prezes Agencji Rynku Rolnego może cofnąć, w drodze decyzji, zezwolenie, o którym mowa w art. 44 ust. 1, w przypadku gdy przedsiębiorca:
+
+- **1)** nie dokonał płatności za dostarczony surowiec tytoniowy w terminie określonym w umowie kontraktacji,
+- **2)** przestał spełniać warunki, o których mowa w art. 44 ust. 3.
+
+2. W przypadku cofnięcia zezwolenia z powodu przekroczenia określonego w umowie kontraktacji terminu płatności za dostarczony surowiec tytoniowy ponowne zezwolenie w takim samym zakresie może być wydane nie wcześniej niż po upływie:
+
+- **1)** roku – jeżeli termin płatności został przekroczony o 30 dni, ale nie więcej niż do 60 dni,
+- **2)** 2 lat – jeżeli termin płatności został przekroczony o 60 dni, ale nie więcej niż do 90 dni,
+- **3)** 3 lat – jeżeli termin płatności został przekroczony o 90 i więcej dni. ” ;
+- **14)** uchyla się art. 46–52 i art. 56.
+
+**Art. 42.** W ustawie z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2001 r. Nr 5, poz. 44, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 dodaje się pkt 5 w brzmieniu: „
+- **5)** owoców i warzyw, których wymagania jakości handlowej określają przepisy Unii Europejskiej. ” ;
+- **2)** w art. 23 dodaje się ust. 3 w brzmieniu: „
+
+3. Kontrole jakości handlowej owoców i warzyw wyprodukowanych i dostarczonych w danym roku gospodarczym przetwórcom, w rozumieniu przepisów o organizacji rynku przetworów owocowych i warzywnych, prowadzone są na podstawie planu kontroli uzgodnionego z Prezesem Agencji Restrukturyzacji i Modernizacji Rolnictwa, na wniosek dyrektora oddziału regionalnego Agencji Restrukturyzacji i Modernizacji Rolnictwa właściwego ze względu na siedzibę przetwórcy lub organizacji producentów. ” ;
+
+- **3)** w art. 28 dodaje się ust. 8 w brzmieniu: „
+
+8. Protokoły z kontroli, o których mowa w art. 23 ust. 3, przekazuje się Agencji Restrukturyzacji i Modernizacji Rolnictwa, w terminie 7 dni od dnia podpisania protokołu kontroli. ” .
+
+**Art. 43.** W ustawie z dnia 27 lipca 2002 r. o organizacji rynku przetworów owocowych i warzywnych (Dz. U. Nr 150, poz. 1238) w załączniku w części „Objaśnienia” w pkt 8 wyrazy „nie mniejszą niż 12%” zastępuje się wyrazami „mniejszą niż 12%”.
+
 #### Rozdział 8 Przepisy przejściowe i końcowe
 
-**Art. 55.** Decyzje wydane na podstawie art. 11 ust. 1, art. 47 i art. 48 ustawy, o której mowa w art. 41 , tracą moc z dniem 1 stycznia 2004 r.
+**Art. 46.**
+
+1. Prezes Agencji w ramach kwoty, o której mowa w art. 45 ust. 2, przyznaje, na wniosek, w drodze decyzji, kwotę produkcji surowca tytoniowego z podziałem na grupy użytkowe tytoniu:
+
+- **1)** producentom surowca tytoniowego posiadającym gospodarstwo rolne, zwanym dalej „producentami”, lub
+- **2)** grupom producentów tytoniu, z podziałem na poszczególnych członków.
+
+2. Ustalenie wielkości kwoty produkcji surowca tytoniowego dla producentów lub grup producentów tytoniu, z zastrzeżeniem ust. 3, następuje przez podział kwoty, o której mowa w art. 45 ust. 2, proporcjonalnie do średniej ilości surowca tytoniowego dostarczonego przetwórcom przez każdego producenta lub grupę producentów tytoniu w okresie 3 lat poprzedzających ostatni zbiór, a w przypadku producentów, którzy uprawiali tytoń na podstawie limitu otrzymanego na 2003 r. i nie uprawiali tytoniu w latach 2000–2002, proporcjonalnie do ilości surowca tytoniowego będącego przedmiotem umowy kontraktacji ze zbiorów 2003 r.
+
+3. Przy ustalaniu wielkości kwoty produkcji surowca tytoniowego uwzględnia się masę surowca tytoniowego, której producent nie zebrał w wyniku wystąpienia wyjątkowych okoliczności.
+
+4. Wniosek o przyznanie kwoty produkcji surowca tytoniowego zawiera:
+
+- **1)** imię, nazwisko, określenie miejsca zamieszkania i adres albo nazwę, określenie siedziby i adres wnioskodawcy;
+- **2)** numer identyfikacji podatkowej (NIP) i numer rachunku bankowego wnioskodawcy;
+- **3)** numer REGON, w przypadku gdy wnioskodawcą jest osoba prawna;
+- **4)** numer identyfikacyjny wnioskodawcy nadany na podstawie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności;
+- **5)** określenie ilości surowca tytoniowego w poszczególnych grupach odmian, której dotyczy wniosek;
+- **6)** informacje o rejonie i wielkości powierzchni uprawy oraz określenie miejsca położenia plantacji, na której uprawiany jest tytoń;
+- **7)** informację o ilości surowca tytoniowego dostarczonego przetwórcom ze zbiorów z 3 lat poprzedzających ostatni zbiór, z podziałem na grupy użytkowe tytoniu w przypadku producentów uprawiających tytoń w latach 2000–2002;
+- **8)** informację o wystąpieniu wyjątkowych okoliczności, których skutkiem było obniżenie produkcji surowca tytoniowego w danym roku w okresie, który stanowi podstawę do wyliczenia kwoty produkcji surowca tytoniowego;
+- **9)** listę producentów wraz z informacjami, o których mowa w pkt 1–8, jeżeli wnioskodawcą jest grupa producentów tytoniu.
+
+5. Wniosek składa się do dnia 20 stycznia 2004 r.
+
+6. Do wniosku dołącza się dokumenty potwierdzające informacje, o których mowa w ust. 4 pkt 7 i 8.
+
+7. Decyzję w sprawie przyznania kwoty produkcji surowca tytoniowego producentowi lub grupie producentów tytoniu wydaje się do dnia 10 marca 2004 r.
+
+**Art. 47.**
+
+1. Producenci mogą zbywać między sobą prawa do przyznanych kwot produkcji surowca tytoniowego lub ich części, nie później niż do dnia 14 marca 2004 r., jeżeli:
+
+- **1)** na uprawę tytoniu objętego kwotą nie została zawarta umowa kontraktacji lub umowa na uprawę;
+- **2)** nabywca prawa do kwoty posiada już kwotę na daną grupę użytkową tytoniu;
+- **3)** zbywana część kwoty jest nie mniejsza niż 100 kg;
+- **4)** grupa producentów tytoniu wyraziła zgodę na zbycie kwoty lub jej części przez członka grupy nabywcy niebędącemu członkiem tej grupy.
+
+2. O zbyciu kwoty produkcji surowca tytoniowego lub jej części zbywca zawiadamia niezwłocznie na piśmie Prezesa Agencji, nie później jednak niż do dnia 20 marca 2004 r., dołączając:
+
+- **1)** oryginały decyzji, o których mowa w art. 46 ust. 7, wydanych producentowi i nabywcy;
+- **2)** kopię umowy o zbyciu prawa do przyznanych kwot zawartej między zbywcą a nabywcą;
+- **3)** dokument potwierdzający zgodę grupy, o której mowa w ust. 1 pkt 4.
+
+3. Prezes Agencji, w drodze decyzji, przyznaje zbywcy i nabywcy nowe kwoty produkcji surowca tytoniowego do dnia 26 marca 2004 r.
+
+**Art. 48.**
+
+1. Uprawa tytoniu jest prowadzona wyłącznie w rejonach uprawy, na podstawie:
+
+- **1)** umowy na uprawę zawartej między grupą producentów tytoniu a przetwórcą oraz umowy kontraktacji zawartej między producentem a grupą producentów tytoniu, po wydaniu decyzji, o której mowa w art. 46 ust. 7;
+- **2)** umowy na uprawę zawartej po wydaniu decyzji, o której mowa w art. 46 ust. 7, między producentem niebędącym członkiem grupy producentów tytoniu a przetwórcą.
+
+2. Umowa kontraktacji lub umowa na uprawę są zawierane oddzielnie dla każdej z grup użytkowych tytoniu, na okres nie dłuższy niż jeden cykl produkcyjny.
+
+**Art. 49.**
+
+1. Umowa na uprawę określa w szczególności:
+
+- **1)** grupę użytkową tytoniu;
+- **2)** cenę i ilość surowca tytoniowego przewidzianą do dostarczenia;
+- **3)** wielkość kwoty produkcji surowca tytoniowego ustaloną w decyzji, o której mowa w art. 46 ust. 7;
+- **4)** rejon i wielkość powierzchni uprawy tytoniu oraz miejsce położenia plantacji, na których uprawia się tytoń;
+- **5)** minimalne wymagania co do jakości surowca tytoniowego, uzgodnione między stronami umowy;
+- **6)** termin płatności za dostarczony surowiec tytoniowy, nie dłuższy niż miesiąc, licząc od dnia dostarczenia;
+- **7)** listę producentów wraz z informacjami, o których mowa w pkt 1, 3 i 4, jeżeli umowa została zawarta z grupą producentów tytoniu.
+
+2. Umowa kontraktacji zawiera w szczególności postanowienia, o których mowa w ust. 1 pkt 1–6.
+
+3. Umowę kontraktacji oraz umowę na uprawę zawiera się do dnia 31 marca 2004 r. Kopię umowy na uprawę producent lub grupa producentów tytoniu przekazuje Prezesowi Agencji, w terminie 10 dni od dnia jej zawarcia.
+
+**Art. 50.**
+
+1. W przypadku niezawarcia umowy na uprawę lub w przypadku gdy po jej zawarciu producent lub grupa producentów tytoniu nie wykorzystała ustalonej kwoty produkcji surowca tytoniowego, o której mowa w art. 46 ust. 2, niezwłocznie zawiadamia o tym na piśmie Prezesa Agencji.
+
+2. Po otrzymaniu zawiadomienia, o którym mowa w ust. 1, Prezes Agencji poinformuje grupy producentów tytoniu, najpóźniej do dnia 15 kwietnia 2004 r., o możliwościach uzyskania dodatkowych kwot produkcji surowca tytoniowego.
+
+3. Dodatkową kwotę produkcji surowca tytoniowego mogą otrzymać tylko grupy producentów tytoniu.
+
+4. Wniosek o wydanie decyzji o przyznaniu dodatkowej kwoty produkcji surowca tytoniowego można składać do dnia 25 kwietnia 2004 r. Przepis art. 46 ust. 4 stosuje się odpowiednio.
+
+5. Decyzję, o której mowa w ust. 4, wydaje się do dnia 10 maja 2004 r.
+
+6. Grupa producentów tytoniu, która otrzymała decyzję o przyznaniu dodatkowej kwoty produkcji surowca tytoniowego, zawiera umowę na uprawę oraz umowy kontraktacji do dnia 30 maja 2004 r. i w terminie 10 dni od dnia zawarcia umowy na uprawę przekazuje jej kopię Prezesowi Agencji. Przepis ust. 1 stosuje się odpowiednio.
+
+**Art. 51.**
+
+1. Przedsiębiorcy, którzy przed dniem 1 stycznia 2004 r. uzyskali zezwolenie na wykonywanie działalności gospodarczej w zakresie wstępnego przetwarzania surowca tytoniowego na podstawie dotychczasowych przepisów, tracą prawo do wykonywania tej działalności, jeżeli do dnia 20 stycznia 2004 r. nie złożą do Prezesa Agencji wniosku o wydanie zezwolenia na wykonywanie działalności gospodarczej w zakresie wstępnego przetwarzania surowca tytoniowego.
+
+2. Przepis ust. 1 nie dotyczy działalności gospodarczej w zakresie wstępnego przetwarzania surowca tytoniowego odebranego na podstawie umów kontraktacji zawartych przed dniem 31 marca 2003 r.
+
+3. Przedsiębiorcy wykonujący działalność gospodarczą w zakresie wstępnego przetwarzania surowca tytoniowego składają Prezesowi Agencji, do dnia 31 maja 2004 r., sprawozdanie o ilości skupionego i przetworzonego surowca tytoniowego za okres od dnia 1 stycznia do dnia 30 kwietnia 2004 r.
+
+4. Przepis ust. 3 stosuje się odpowiednio do przedsiębiorcy, który na podstawie ust. 1 utracił prawo do wykonywania działalności w zakresie wstępnego przetwarzania surowca tytoniowego.
+
+**Art. 52.**
+
+1. Podmiot zajmujący się produkcją suszu, który zamierza korzystać z dopłaty z tytułu tej produkcji, przysługującej od dnia 1 maja 2004 r., składają wnioski o zatwierdzenie przedsiębiorstwa przetwórczego do dyrektora oddziału terenowego Agencji, do dnia 31 stycznia 2004 r.
+
+2. Wniosek o zatwierdzenie przedsiębiorstwa przetwórczego zawiera:
+
+- **1)** imię i nazwisko albo nazwę oraz oznaczenie miejsca zamieszkania albo siedziby wnioskodawcy i adres przedsiębiorstwa przetwórczego;
+- **2)** opis przedsiębiorstwa przetwórczego ze wskazaniem punktów wwozu zielonki przeznaczonej do produkcji suszu oraz punktów wywozu wyprodukowanego suszu, usytuowania magazynów do przechowywania zielonki, suszu, lokalizacji urządzeń do produkcji suszu;
+- **3)** opis urządzeń technicznych do produkcji suszu, w szczególności opis pieców, młynów oraz wag, a także określenie godzinowej wydajności ewaporacyjnej oraz temperatury na wlocie do komory suszenia;
+- **4)** wykazy: dodatków używanych przed suszeniem albo podczas suszenia zielonki, innych produktów używanych do produkcji suszu, produktów finalnych;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **5)** opis sposobu prowadzenia ewidencji produkcji suszu.
+
+3. Do wniosku o zatwierdzenie przedsiębiorstwa przetwórczego dołącza się:
+
+- **1)** dokument potwierdzający tytuł prawny wnioskodawcy do obiektów, w których ma być wykonywana działalność;
+- **2)** zaświadczenie komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej, państwowego powiatowego inspektora sanitarnego i wojewódzkiego inspektora ochrony środowiska stwierdzające, że obiekty spełniają wymagania określone w przepisach o ochronie przeciwpożarowej, sanitarnych i o ochronie środowiska.
+
+4. Decyzję w sprawie zatwierdzenia przedsiębiorstwa przetwórczego wydaje się do dnia 31 marca 2004 r., po stwierdzeniu, że:
+
+- **1)** przedsiębiorstwo przetwórcze zapewnia wyprodukowanie suszu o jakości określonej w ust. 5;
+- **2)** dodatki używane przed suszeniem albo podczas suszenia zielonki oraz inne produkty używane do produkcji suszu nadają się do tej produkcji i otrzymywania produktów finalnych;
+- **3)** sposób prowadzenia ewidencji, o której mowa w ust. 2 pkt 5, umożliwia uzyskiwanie dziennego zestawienia ilości zielonki, przeznaczonej do produkcji suszu, wyprodukowanego z niej suszu, środków wiążących i innych dodatków stosowanych do jego produkcji, przy czym oddzielnie powinien być ewidencjonowany susz wyprodukowany przez innych przedsiębiorców wprowadzany na teren przedsiębiorstwa przetwórczego oraz susz własnej produkcji powtórnie wprowadzany na teren przedsiębiorstwa przetwórczego.
+
+5. Susz powinien spełniać następujące wymagania jakościowe:
+
+- **1)** jego wilgotność nie powinna być większa niż: 12% – w przypadku suszu w postaci mączki, koncentratów białkowych oraz innych produktów otrzymywanych w wyniku suszenia w suszarniach, 14% – w przypadku suszu w postaci brykietów, granul, balotów i sieczki;
+    - **a)**
+    - **b)**
+
+- **2)** zawartość białka surowego w suchej masie nie powinna być mniejsza niż: 15% – w przypadku suszu i innych produktów otrzymywanych w wyniku suszenia zielonki w suszarniach, 45% – w przypadku koncentratów białkowych.
+    - **a)**
+    - **b)**
+
+**Art. 53.**
+
+1. Podmiot skupujący zielonkę do suszenia i śrutowania zamierzający od dnia 1 maja 2004 r. sprzedawać zielonkę podmiotowi prowadzącemu zatwierdzone przedsiębiorstwo przetwórcze składa wniosek o zatwierdzenie do dyrektora oddziału terenowego Agencji, do dnia 31 stycznia 2004 r.
+
+2. Do wniosku dołącza się dokument urzędowy potwierdzający, że wnioskodawca wykonuje działalność gospodarczą w zakresie skupu zielonki.
+
+3. Decyzję w sprawie zatwierdzenia podmiotu skupującego wydaje się do dnia 31 marca 2004 r.
+
+**Art. 54.** Przepisy wykonawcze wydane na podstawie art. 50 ust. 3 ustawy, o której mowa w art. 41, zachowują moc do czasu wydania przepisów wykonawczych na podstawie art. 32 ust. 1 pkt 1 niniejszej ustawy, nie dłużej jednak niż przez okres roku od dnia wejścia w życie tej ustawy.
+
+**Art. 55.** Decyzje wydane na podstawie art. 11 ust. 1, art. 47 i art. 48 ustawy, o której mowa w art. 41, tracą moc z dniem 1 stycznia 2004 r.
 
 **Art. 56.**
 
 1. Ilekroć w przepisach odrębnych jest mowa o grupie producentów owoców i warzyw lub związku grup producentów owoców i warzyw, należy przez to rozumieć odpowiednio organizację producentów owoców i warzyw lub zrzeszenie organizacji producentów owoców i warzyw.
 
-2. Wstępnie uznane lub uznane grupy producentów owoców i warzyw wpisane do rejestru na podstawie ustawy, o której mowa w art. 41 , uważa się za wstępnie uznane grupy producentów owoców i warzyw lub organizacje producentów owoców i warzyw, o których mowa w art. 2 ust. 1 pkt 1 i 3 niniejszej ustawy.
+2. Wstępnie uznane lub uznane grupy producentów owoców i warzyw wpisane do rejestru na podstawie ustawy, o której mowa w art. 41, uważa się za wstępnie uznane grupy producentów owoców i warzyw lub organizacje producentów owoców i warzyw, o których mowa w art. 2 ust. 1 pkt 1 i 3 niniejszej ustawy.
 
 **Art. 57.**
 
-1. Traci moc ustawa z dnia 29 listopada 2000 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego (Dz. U. z 2001 r. poz. 19, z 2002 r. poz. 2019 oraz z 2003 r. poz. 2221).
+1. Traci moc ustawa z dnia 29 listopada 2000 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego (Dz. U. z 2001 r. Nr 3, poz. 19, z 2002 r. Nr 238, poz. 2019 oraz z 2003 r. Nr 223, poz. 2221).
 
 2. Decyzje wydane na podstawie art. 44 ust. 1 ustawy, o której mowa w ust. 1, w brzmieniu obowiązującym od dnia 1 stycznia 2004 r., zachowują moc.
 
-**Art. 58.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej , z wyjątkiem art. 41 i art. 43–56, które wchodzą w życie z dniem 1 stycznia 2004 r.
+**Art. 58.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej, z wyjątkiem art. 41 i art. 43–56, które wchodzą w życie z dniem 1 stycznia 2004 r.
 

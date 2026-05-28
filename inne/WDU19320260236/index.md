@@ -22,6 +22,7 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1932-03-09 |
 | Data wydania | 1932-03-31 |
+| Wejście w życie | 1932-04-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19320260236) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1932/236/text.pdf) |
 
@@ -112,6 +113,17 @@ dotacje Skarbu Państwa.
 
 **Art. 10.** Z części Parcelacyjnej Funduszu Obrotowego Reformy Rolnej pokrywane będą:
 
+należności, względnie odszkodowania za nieruchomości ziemskie, zarówno przymusowo przejęte lub wykupione na cele parcelacji i osadnictwa, jak i nabyte na te cele z wolnej ręki, przymusowego przetargu lub przy zastosowaniu prawa odkupu i pierwokupu, oraz na pokrycie wydatków, związanych z przejmowaniem lub nabywaniem tych nieruchomości; opłata kuponów i wykup obligacyj państwowej renty ziemskiej; spłata skryptów dłużnych Skarbu Państwa, wystawianych w związku z przejęciem ziemi na rzecz Państwa; wydatki, związane z przygotowaniem państwowych nieruchomości ziemskich do parcelacji i z przeprowadzeniem tej parcelacji (spłata obciążeń hipotecznych, koszty likwidacji obszarów dworskich, likwidacji stosunków dzierżawnych i służbowych, przejściowa administracja, spłata ciężarów gminnych i kościelnych oraz podatków, koszty hipoteczne, koszty parcelacyjne melioracje, urządzanie dróg, mostów i studzien, zabudowa tworzonych gospodarstw tworzenie urządzeń ogólnej użyteczności w parcelowanych objektach i t. p); koszty nadzoru nad parcelacją prywatne; wydatki na zaliczkowe pokrywanie kosztów, związanych z przeprowadzaniem lub zakańczaniem przez urzędy ziemskie parcelacji nieruchomości prywatnych, w szczególności na spłatę obciążeń hipotecznych ną tych nieruchomościach, udział Skarbu Państwa w ogólnie użytecznych przedsiębiorstwach osadniczych (Dz. U. R. P. z 1925 r. Nr 112, poz. 796); wydatki, przewidziane w art. 9 rozporządzenia Prezydenta Rzeczypospolitej z dnia 24 listopada 1930 r. o uregulowaniu niektórych spraw z zakresu osadnictwa wojskowego (Dz. U. R. P. Nr 80, poz. 628).
+
+- **a)**
+- **b)**
+- **c)**
+- **d)**
+- **e)**
+- **f)**
+- **g)**
+- **h)**
+
 **Art. 11.** (1) Szacunek przejęcia państwowych nieruchomości ziemskich, rozparcelowanych przed dniem 1 kwietnia 1932 r., o ile nie został dokonany, będzie, ustalony w inwentarzu części Parcelacyjnej Funduszu w wysokości 75%szacunku sprzedażnego. (2) Szacunek przejęcia od Skarbu Państwa nieruchomości ziemskich i innych objektów, do których nie ma zastosowania przepis cz. 1, ustalony będzie według przepisów art. 27 ustawy z dnia 28 grudnia 1925 r. o wykonaniu reformy rolnej (Dz. U. R. P. z 1926 r. Nr 1, poz. 1) przez przedstawicieli Ministerstwa Reform Rolnych i władzy przekazującej. (3) Oszacowanie nieruchomości ziemskich i innych objektów, przejmowanych od Skarbu Państwa, winno być dokonywane przed ostatecznem przejęciem w posiadanie przez urzędy ziemskie. Obszary, wyłączone na cele państwowe, o ile nie pozostają pod zarządem Ministra Reform Rolnych, nie podlegają oszacowaniu. (4) Obciążenia hipoteczne i koszty likwidacji obszarów dworskich oraz ciężarów patronackich zmniejszają szacunek przejęcia od Skarbu Państwa. (5) Grunty i inne objekty, przekazywane przez Ministra Reform Rolnych innym władzom państwowym oraz przeznaczone na osadnictwo wojskowe, obciążać będą część Parcelacyjną Funduszu Obrotowego Reformy Rolnej w wysokości kosztów własnych.
 
 **Art. 12.** Minister Reform Rolnych może z sum części Parcelacyjnej Funduszu Obrotowego Reformy Rolnej wykupywać z wolnej ręki i na giełdzie obligacje 5% Państwowej Renty Ziemskiej w celu jej umorzenia na poczet planu lat następnych oraz wykupywać przedterminowo skrypty dłużne Skarbu Państwa.
@@ -122,9 +134,24 @@ dotacje Skarbu Państwa.
 
 **Art. 14.** Cześć Melioracyjną Funduszu Obrotowego Reformy Rolnej tworzą:
 
+aktywa i pasywa Państwowego Funduszu Kredytu na meljoracie rolne według stanu na dzień 1 kwietnia 1932 r.; część aktywów i pasywów Państwowego Funduszu Melioracyjnego (Dz. U. R, P. z 1921 r. Nr 91, poz. 671), w brzmieniu noweli z dnia 23 czerwca 1925 r. (Dz. U. R. P. Nr 65, poz. 534), przekazana Ministrowi Reform Rolnych na mocy ustawy z dnia 9 marca 1932 r. o właściwości Ministra RefomRolnych w zakresie wykonywania meljoracyj (Dz. U. R. P. Nr 26, poz. 235); wpłacone po dniu 1 kwietnia 1932 r. należności na rzecz Skarbu Państwa za czynności, przeprowadzane na podstawie rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 16 marca 1928 r. o przeprowadzaniu meljoracji przy dokonywanej przez urzędy ziemskie przebudowie ustroju rolnego (Dz. U. R. P. Nr 34, poz. 320); należności za wykonanie prac, oznaczonych w ust. A. art. 16; darowizny oraz dochody części Melioracyjnej Funduszu Obrotowego Reformy Rolnej, w szczególności z fruktyfikacji tej części Funduszu; inne wpływy; dotacje Skarbu Państwa.
+
+- **a)**
+- **b)**
+- **c)**
+- **d)**
+- **e)**
+- **f)**
+- **g)**
+
 **Art. 15.** Na rzecz części Melioracyjnej Funduszu Obrotowego Reformy Rolnej mogą być wpłacane zaliczki przez osoby zainteresowane (właścicieli gruntów meliorowanych, związki komunalne i t. p.) na koszty wykonania prac, określonych w ust. A. art. 16.
 
 **Art. 16.** (1) Z części Melioracyjnej Funduszu Obrotowego Reformy Rolnej będą na obszarze Rzeczypospolitej Polskiej z wyjątkiem województwa śląskiego A. pokrywane wydatki na wykonywanie dla celów rolniczych:
+
+meljoracyj i prac, z niemi związanych, w zakresie właściwości Ministra Reform Rolnych; budowy lub wiercenia studzien; B. udzielane pożyczki na wykonanie prac, oznaczonych w pkt. a) ust. A.; C. udzielane zasiłki (art. 17) na popieranie publicznych przedsiębiorstw melioracyjnych w zakresie właściwości Ministra Reform Rolnych, ustalonej w ustawie z dnia 9 marca 1932 r. o właściwości Ministra Reform Rolnych w zakresie wykonywania meljoracyj (Dz. U. R. P. Nr 26, poz. 235); D. pokrywane wydatki na obniżenie oprocentowania pożyczek, udzielonych w obligacjach melioracyjnych Państwowego Banku Rolnego, tak przed wejśelem, jak i po wejściu w życie niniejszej ustawy. (2) Oznaczone w ust. A. cz. 1 czynnoścj mogą być wykonywane bez pobierania należności na rzecz Funduszu tylko wówczas, gdy koszty ich wykonania znajdą pokrycie we wpływach, oznaczonych w punktach e) i g) art. 14. Pod tym samym warunkiem mogą być dokonywane wydatki, określone w ust. D. cz. 1. (3) Na cele, oznaczone w ustępie C. cz. 1, mogą być zużytkowane jedynie wpływy Funduszu, oznaczone w pkt. b) art. 14, oraz dotacje Skarbu Państwa, (przeznaczone na ten cel w budżecie Ministerstwa Reform Rolnych.
+
+- **a)**
+- **b)**
 
 **Art. 17.** Przy udzielaniu zasiłków (ust. C. art. 16) stosowane będą odpowiednie postanowienia ustawy z dnia 26 października 1921 r. o popieraniu publicznych przedsiębiorstw melioracyjnych (Dz. U. R. P. Nr 91, poz. 671) w brzmieniu noweli z dnia 23 czerwca 1925 r. (Dz. U. R. P. Nr 75, poz. 524) z tero, że zastrzeżona w tej sprawie właściwość Ministra Robót Publicznych będzie w tym przypadku należała do Ministra Reform Rolnych.
 
@@ -135,6 +162,13 @@ dotacje Skarbu Państwa.
 ## Część Kredytową Funduszu Obrotowego Reformy Rolnej tworzą:
 
 **Art. 19.** (1) z części Kredytowej Funduszu Obrotowego Reformy Rolnej udzielane będą pożyczki:
+
+nabywcom gruntu w związku z przebudową ustroju rolnego (przy parcelacji gruntów, nie stanowiących własności Skarbu Państwa, osadnictwie, scalaniu nieruchomości ziemskich i t. p. oraz uczestnikom scalenia) na kupno gruntu, wzniesienie lub przeniesienie budynków gospodarczych i mieszkalnych, urządzenie studzien, kupno inwentarzy żywych i martwych, nasion, nawozów, zakładanie sadów, stawów rybnych i t. p. inwestycje; nabywcom gruntu w trybie uwłaszczenia wieczystych czynszowników, b. wolnych ludzi, długoletnich dzierżawców i użytkowników, drobnych dzierżawców i żelarzy na spłatę należności za uwłaszczony objekt; na konwersję zobowiązań, ciążących na gospodarstwach, powstałych z przebudowy ustroju rolnego; na pokrycie zobowiązań, zaciągniętych na cele, wskazane w pkt. a) i b). (2) Z części Kredytowej Funduszu mogą być również wypłacane zasiłki na ulgowe oprocentowanie należności Skarbu Państwa z tytułu kredytów, udzielanych przy przebudowie ustroju rolnego oraz pożyczek w listach zastawnych Państwowego Banku Rolnego. Zasiłki te mogą być jednak udzielane tylko wówczas, gdy znajdą pokrycie we wpływach, oznaczonych w pkt. h) i j) art. 18.
+
+- **a)**
+- **b)**
+- **c)**
+- **d)**
 
 **Art. 20.** (1) Pożyczki z części Kredytowej Funduszu Obrotowego Reformy Rolnej mogą być udzielane zasadniczo tylko wówczas, gdy nie może być udzielony kredyt w listach zastawnych Państwowego Banku Rolnego albo też, gdy udzielony w tych listach kredyt okaże się niewystarczającym. Jednakże w przypadkach, uzasadnionych względami finansowo-gospodarczemi, pożyczki z tej części Funduszu mogą być udzielane niezależnie od powyższych okoliczności. (2) Pożyczki będą udzielane za zabezpieczeniem hipotecznem lub poręką zarówno poszczególnym uprawnionym, jak i ich zrzeszeniom. (3) Pożyczki mogą być udzielane zarówno w gotówce jak i w naturze.
 

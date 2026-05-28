@@ -8,10 +8,10 @@ pos: 514
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 kwietnia 2014 r.
+# Rozporządzenie Ministra Spraw Wewnętrznychz dnia 16 kwietnia 2014 r. w sprawie wzoru stempla potwierdzającego przedłużenie okresu pobytu w ramach ruchu bezwizowego na terytorium Rzeczypospolitej Polskiej o 90 dni
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,18 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2014-04-16 |
 | Data wydania | 2014-04-23 |
+| Wejście w życie | 2014-05-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000514) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/514/text.pdf) |
 
-Poz. 514 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 16 kwietnia 2014 r.
-w sprawie wzoru stempla potwierdzającego przedłużenie okresu pobytu w ramach ruchu bezwizowego na terytorium Rzeczypospolitej Polskiej o 90 dni Na podstawie art. 301 ust. 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650 oraz z 2014 r. poz. 463) zarządza się, co następuje: § 1. Wzór stempla potwierdzającego przedłużenie okresu pobytu w ramach ruchu bezwizowego na terytorium Rzeczypospolitej Polskiej o 90 dni określa załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 maja 2014 r.
-Minister Spraw Wewnętrznych: wz. P. Stachańczyk WZÓR STEMPLA POTWIERDZAJĄCEGO PRZEDŁUŻENIE OKRESU POBYTU W RAMACH RUCHU BEZWIZOWEGO NA TERYTORIUM RZECZYPOSPOLITEJ POLSKIEJ O 90 DNI Tekst w ramce o wymiarach: szerokość około 7,5 cm, wysokość około 9 cm
+Treść rozporządzenia
+Załącznik – Wzór stempla potwierdzającego przedłużenie okresu pobytu w ramach ruchu bezwizowego na terytorium Rzeczypospolitej Polskiej o 90 dni
+Treść rozporządzenia
+Na podstawie art. 301 ust. 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650 oraz z 2014 r. poz. 463) zarządza się, co następuje:
+§ 1.
+Wzór stempla potwierdzającego przedłużenie okresu pobytu w ramach ruchu bezwizowego na terytorium Rzeczypospolitej Polskiej o 90 dni określa załącznik do rozporządzenia.
+§ 2.
+Rozporządzenie wchodzi w życie z dniem 1 maja 2014 r.
+Załącznik – Wzór stempla potwierdzającego przedłużenie okresu pobytu w ramach ruchu bezwizowego na terytorium Rzeczypospolitej Polskiej o 90 dni
+patrz oryginał
 

@@ -8,12 +8,10 @@ pos: 1448
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw
-
-*USTAWA z dnia 10 października 2012 r.*
+# Ustawa z dnia 10 października 2012 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,101 +22,306 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2012-10-10 |
 | Data wydania | 2012-12-21 |
+| Wejście w życie | 2013-06-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001448) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1448/text.pdf) |
 
-Art. 70zn. 1. Spełnienie odpowiednich warunków lub wymagań technicznych danego pojazdu, potwierdza się dopuszczeniem jednostkowym pojazdu.
-2. Dopuszczeniu jednostkowemu pojazdu, z zastrzeżeniem ust. 3–6, podlega nowy pojazd:
-1) przed wprowadzeniem do obrotu na terytorium Rzeczypospolitej Polskiej, na którego typ producent lub importer nie uzyskał świadectwa homologacji typu WE pojazdu albo świadectwa homologacji typu pojazdu;
-2) na którego typ zostało wydane świadectwo homologacji typu WE pojazdu albo świadectwo homologacji typu pojazdu, w którym przed rejestracją zostały wprowadzone zmiany w pojeździe, przedmiocie wyposażenia lub części, wpływające na zmianę warunków stanowiących podstawę do wydania świadectwa homologacji typu tego pojazdu.
-3. Nowy pojazd zaprojektowany i zbudowany do użytku przede wszystkim na placach budowy, w kamieniołomach, w obiektach portowych lub w portach lotniczych, pojazd wolnobieżny, pojazd kategorii M przeznaczony do zawodów sportowych nie podlega obowiązkowi uzyskania dopuszczenia jednostkowego pojazdu.
-Producent takiego pojazdu może wystąpić o dopuszczenie fakultatywne poprzez uzyskanie dopuszczenia jednostkowego pojazdu, jeżeli pojazd spełnia odpowiednie warunki lub wymagania techniczne obowiązujące w procedurze dopuszczenia jednostkowego pojazdu, określone w przepisach wydanych na podstawie art. 70zs ust. 1 pkt 1. Przepisu nie stosuje się do pojazdów, o których mowa w załączniku nr 2 do ustawy.
-4. Nowy pojazd specjalny Sił Zbrojnych Rzeczypospolitej Polskiej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Biura Ochrony Rządu, Straży Granicznej, organów kontroli skarbowej, Służby Celnej, Inspekcji Transportu Drogowego, Służby Więziennej i jednostek ochrony przeciwpożarowej lub nowy pojazd używany do celów specjalnych nie podlega obowiązkowi uzyskania dopuszczenia jednostkowego pojazdu. Producent takiego pojazdu może wystąpić o uzyskanie dopuszczenia jednostkowego pojazdu, jeżeli pojazd spełnia odpowiednie warunki lub wymagania techniczne obowiązujące w procedurze dopuszczenia jednostkowego pojazdu, określone w przepisach wydanych na podstawie art. 70zs ust. 1 pkt
+Treść ustawy Art. 1. Art. 2. Art. 3. Art. 4. Art. 5. Art. 6. Art. 7. Art. 8. Art. 9. Art. 10. Art. 11. Art. 12. Art. 13.
+Załącznik
 1.
-5. Dopuszczenia jednostkowego pojazdu nie stosuje się do tramwaju i trolejbusu.
-6. W przypadku pojazdu kategorii M, N, O podlegającego dopuszczeniu jednostkowemu, minister właściwy do spraw transportu w uzasadnionych przypadkach zwalnia, w drodze decyzji administracyjnej, wnioskującego o dopuszczenie jednostkowe z obowiązku spełnienia niektórych wymagań technicznych, o których mowa w załączniku IV i XI do dyrektywy 2007/46/WE, pod warunkiem zastosowania wymagań alternatywnych równoważnych z wymaganiami określonymi w tych załącznikach w najwyższym możliwym do realizacji zakresie bezpieczeństwa ruchu drogowego i ochrony środowiska.
-Art. 70zo. 1. Dopuszczenia jednostkowego pojazdu udziela, w drodze decyzji administracyjnej, minister właściwy do spraw transportu, za opłatą, przy czym jej wysokość nie może przekroczyć 800 zł.
-2. Dopuszczenia jednostkowego pojazdu udziela się na wniosek producenta, importera, właściciela pojazdu albo ich upoważnionego przedstawiciela, posiadającego siedzibę lub miejsce zamieszkania na terytorium państwa członkowskiego Unii Europejskiej.
-3. Do wniosku, o którym mowa w ust. 2, dołącza się:
-1) dokument informacyjny sporządzony według wzoru określonego w przepisach wydanych na podstawie art. 70zs ust. 1 pkt 1;
-2) sprawozdanie z badań potwierdzające spełnienie odpowiednich warunków lub wymagań technicznych w celu dopuszczenia jednostkowego pojazdu;
-3) kopię dowodu uiszczenia opłaty za dopuszczenie jednostkowe pojazdu.
-Art. 70zp. 1. Dopuszczenie jednostkowe pojazdu udzielone na dany pojazd przez właściwy organ państwa członkowskiego Unii Europejskiej zgodnie z procedurą uznaje minister właściwy do spraw transportu, w drodze decyzji administracyjnej, jeżeli dany pojazd spełnia odpowiednie warunki lub wymagania techniczne, które są równoważne warunkom lub wymaganiom obowiązującym na terytorium Rzeczypospolitej Polskiej.
-2. Wydanie decyzji, o której mowa w ust. 1, następuje na wniosek producenta, importera lub właściciela pojazdu, za opłatą, przy czym jej wysokość nie może przekroczyć 800 zł.
-3. Do wniosku, o którym mowa w ust. 2, dołącza się:
-1) dokument potwierdzający dopuszczenie jednostkowe pojazdu wydane przez właściwy organ państwa członkowskiego Unii Europejskiej;
-2) dokument wydany przez właściwy organ państwa członkowskiego Unii Europejskiej wskazujący przepisy techniczne, na podstawie których udzielono dopuszczenia jednostkowego pojazdu.
-4. Minister właściwy do spraw transportu może zwrócić się o dodatkowe informacje o udzielonym dopuszczeniu jednostkowym pojazdu do właściwego organu państwa członkowskiego Unii Europejskiej.
-5. Minister właściwy do spraw transportu, na wniosek właściwego organu państwa członkowskiego Unii Europejskiej, udostępnia temu organowi informacje o udzielonym dopuszczeniu jednostkowym pojazdu.
-6. W przypadku gdy pojazd, który uzyskał dopuszczenie jednostkowe pojazdu, ma być sprzedany, zarejestrowany lub dopuszczony do ruchu na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, minister właściwy do spraw transportu, na wniosek producenta lub właściciela pojazdu, wydaje dokument wskazujący przepisy techniczne, na podstawie których udzielono dopuszczenia jednostkowego pojazdu.
-Art. 70zq. 1. Badanie potwierdzające spełnienie odpowiednich warunków lub wymagań technicznych oraz równoważności zastosowanych wymagań alternatywnych dla danego pojazdu w celu dopuszczenia jednostkowego pojazdu przeprowadza jednostka uprawniona, na wniosek producenta, importera lub właściciela pojazdu.
-2. Do wniosku, o którym mowa w ust. 1, dołącza się:
-1) dokument informacyjny pojazdu według wymagań określonych w przepisach wydanych na podstawie art. 70zs ust. 1 pkt 1;
-2) kopie świadectw homologacji typu lub inne dokumenty potwierdzające spełnienie odpowiednich wymagań technicznych określonych w przepisach Unii Europejskiej lub regulaminach EKG ONZ.
-3. Z przeprowadzonego badania jednostka sporządza sprawozdanie z badań potwierdzające spełnienie odpowiednich warunków lub wymagań technicznych w celu dopuszczenia jednostkowego pojazdu.
-Art. 70zr. Opłaty, o których mowa w art. 70zo ust. 1 oraz art. 70zp ust. 2, stanowią dochód budżetu państwa.
-Art. 70zs. 1. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
-1) zakres warunków lub wymagań technicznych obowiązujących w procedurze dopuszczenia jednostkowego pojazdu, zakres i sposób przeprowadzania badań potwierdzających spełnienie odpowiednich warunków lub wymagań technicznych w celu dopuszczenia jednostkowego pojazdu oraz wzory dokumentów z tym związanych;
-2) warunki oceny równoważności wymagań alternatywnych w procedurze dopuszczenia jednostkowego pojazdu;
-3) wysokość opłat za udzielenie dopuszczenia jednostkowego pojazdu oraz wydanie decyzji o uznaniu dopuszczenia jednostkowego pojazdu, wydanego na dany pojazd przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej.
-2. Wydając rozporządzenie, o którym mowa w ust. 1, minister uwzględnia:
-1) konieczność zapewnienia bezpieczeństwa w ruchu drogowym i ochrony środowiska;
-2) koszty czynności administracyjnych oraz koszty związane z udzieleniem dopuszczenia jednostkowego pojazdu.
-Art. 70zt. 1. Spełnienie odpowiednich warunków lub wymagań technicznych danego pojazdu określonych w dodatku 2 do części I do załącznika IV do dyrektywy 2007/46/WE, potwierdza się świadectwem dopuszczenia indywidualnego WE pojazdu.
-2. Dopuszczeniu indywidualnemu WE pojazdu podlega nowy pojazd kategorii M i N , o którym mowa w dodatku 2 do części I do załącznika IV do dyrektywy 2007/46/WE, przed wprowadzeniem do obrotu na terytorium Rzeczypospolitej Polskiej, na którego typ producent lub importer nie uzyskał świadectwa homologacji typu WE pojazdu.
-Art. 70zu. 1. Świadectwo dopuszczenia indywidualnego WE pojazdu wydaje, w drodze decyzji administracyjnej, minister właściwy do spraw transportu, za opłatą, przy czym jej wysokość nie może przekroczyć 800 zł.
-2. Świadectwo dopuszczenia indywidualnego WE pojazdu wydaje się na wniosek producenta, importera albo właściciela pojazdu.
-3. Do wniosku, o którym mowa w ust. 2, dołącza się:
-1) dokumenty, o których mowa w pkt 1 dodatku 2 do części I do załącznika IV do dyrektywy 2007/46/WE;
-2) kopię dowodu uiszczenia opłaty za dopuszczenie indywidualne WE pojazdu;
-3) oświadczenie o następującej treści: „Oświadczam, że w zakresie pojazdu o numerze VIN …, złożyłem tylko jeden wniosek i tylko w jednym państwie członkowskim Unii Europejskiej”.
-Art. 70zv. 1. Badanie potwierdzające spełnienie odpowiednich warunków lub wymagań technicznych w celu uzyskania świadectwa dopuszczenia indywidualnego WE pojazdu przeprowadza jednostka uprawniona, na wniosek producenta, importera albo właściciela pojazdu.
-2. Do wniosku, o którym mowa w ust. 1, dołącza się:
-1) dokument informacyjny pojazdu sporządzony zgodnie z załącznikiem I do dyrektywy 2007/46/WE;
-2) kopie świadectw homologacji typu lub inne dokumenty potwierdzające spełnienie odpowiednich wymagań technicznych określonych w pkt 4 w dodatku 2 do części I do załącznika IV do dyrektywy 2007/46/WE.
-3. Z przeprowadzonego badania jednostka sporządza sprawozdanie z badań potwierdzające spełnienie odpowiednich warunków lub wymagań technicznych w celu dopuszczenia indywidualnego WE pojazdu.
-Art. 70zw. Opłata, o której mowa w art. 70zu ust. 1, stanowi dochód budżetu państwa.
-Art. 70zx. 1. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
-1) wzory dokumentów związanych z wydaniem świadectwa dopuszczenia indywidualnego WE pojazdu;
-2) wysokość opłat za wydanie świadectwa dopuszczenia indywidualnego WE pojazdu.
-2. Wydając rozporządzenie, o którym mowa w ust. 1, minister uwzględnia:
-1) potrzebę zapewnienia zabezpieczenia dokumentów przez podrobieniem lub przerobieniem;
-2) koszty czynności administracyjnych oraz koszty związane z wydaniem świadectwa dopuszczenia indywidualnego WE pojazdu.
-Art. 70zy. Maksymalne stawki opłat, o których mowa w art. 70h ust. 2, art. 70j ust. 4, art. 70k ust. 4, art. 70za ust. 1, art. 70ze ust. 2, art. 70zo ust. 1, art. 70zp ust. 2 i art. 70zu ust. 1 ulegają corocznie zmianie na następny rok kalendarzowy w stopniu odpowiadającym średniorocznemu wskaźnikowi cen towarów i usług konsumpcyjnych ogółem, ogłaszanemu przez Prezesa Głównego Urzędu Statystycznego w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
-Art. 70zz. Przepisów rozdziałów 1a–1c nie stosuje się do:
-1) pojazdów zabytkowych lub pojazdu określonego w art. 79 ust. 4 pkt 3;
-2) nowego pojazdu oraz nowego przedmiotu wyposażenia lub części, nie przeznaczonych do wprowadzenia do obrotu, a krótkotrwale składowanych na terytorium Rzeczypospolitej Polskiej między operacjami transportowymi – pod warunkiem okazania na żądanie właściwego organu kontroli dokumentów potwierdzających odbiorcę i miejsce docelowego odbioru nowego pojazdu oraz nowego przedmiotu wyposażenia lub części.”;
-8) w art. 71 ust. 6 otrzymuje brzmienie: „6. Pojazd sprowadzony z terytorium państwa niebędącego państwem członkowskim Unii Europejskiej, po dokonaniu zwolnienia pojazdu przez organ Służby Celnej do procedury dopuszczenia do obrotu, dopuszcza się do ruchu na okres 30 dni.”;
-9) w art. 72:
-a) w ust. 1 pkt 3 i 4 otrzymują brzmienie: „3) świadectwa zgodności WE albo świadectwa zgodności wraz z oświadczeniem zawierającym dane i informacje o pojeździe niezbędne do rejestracji i ewidencji pojazdu, dopuszczenia jednostkowego pojazdu, decyzji o uznaniu dopuszczenia jednostkowego pojazdu albo świadectwa dopuszczenia indywidualnego WE pojazdu – jeżeli są wymagane;
-4) zaświadczenia o pozytywnym wyniku badania technicznego pojazdu, jeżeli jest wymagane albo dowodu rejestracyjnego pojazdu lub innego dokumentu wydanego przez właściwy organ państwa członkowskiego, potwierdzającego wykonanie oraz termin ważności badania technicznego;”,
-b) ust. 2a otrzymuje brzmienie: „2a. W przypadku pojazdu sprowadzanego z terytorium państwa niebędącego państwem członkowskim zamiast dowodu rejestracyjnego, o którym mowa w ust. 1 pkt 5, dopuszcza się przedstawienie innego dokumentu stwierdzającego rejestrację pojazdu, wydanego przez organ właściwy do rejestracji pojazdów w tym państwie.”,
-c) po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Świadectwo zgodności WE lub świadectwo zgodności traci ważność po upływie terminu określonego w przepisach wydanych na podstawie art. 70zm ust. 1 pkt 10 i nie może być uznane za dokument, o którym mowa w ust. 1 pkt 3.”;
-10) w art. 74 w ust. 2 pkt 3 otrzymuje brzmienie: „3) na wniosek jednostki uprawnionej lub jednostki badawczej producenta pojazdu, przedmiotu wyposażenia lub części – w celu umożliwienia odpowiednich badań;”;
-11) w art. 79 w ust. 1 w pkt 6 kropkę zastępuje się średnikiem i dodaje pkt 7 w brzmieniu: „7) wycofania pojazdu z obrotu, o którym mowa w art. 70g ust. 5.”;
-12) w art. 81:
-a) ust. 2 otrzymuje brzmienie: „2. Badania techniczne dzieli się na badania okresowe, badania dodatkowe oraz badania co do zgodności z warunkami technicznymi.”,
-b) ust. 4 otrzymuje brzmienie: „4. Badaniu, o którym mowa w ust. 3, nie podlega:
-1) nowy pojazd, dla którego wydano świadectwo zgodności WE, świadectwo zgodności, dopuszczenie jednostkowe pojazdu, decyzję o uznaniu dopuszczenia jednostkowego pojazdu albo świadectwo dopuszczenia indywidualnego WE pojazdu;
-2) zarejestrowany pojazd:
-a) na którego typ wydano świadectwo homologacji typu WE pojazdu – w okresie od dnia pierwszej rejestracji za granicą do dnia terminu okresowego badania technicznego, ustalonego na podstawie ust. 5, lub
-b) w którego dowodzie rejestracyjnym lub innym dokumencie wydanym przez właściwy organ państwa członkowskiego przedstawionym do rejestracji, zawarta jest informacja o wykonanym badaniu technicznym i jego terminie ważności – z wyjątkiem taksówki, pojazdu uprzywilejowanego lub pojazdu odpowiednio przystosowanego lub wyposażonego zgodnie z przepisami o przewozie towarów niebezpiecznych, pojazdu z zamontowanym urządzeniem technicznym podlegającym dozorowi technicznemu oraz pojazdu przystosowanego konstrukcyjnie do ruchu lewostronnego.”,
-c) po ust. 11 dodaje się ust. 11a w brzmieniu: „11a. Badaniu co do zgodności z warunkami technicznymi podlega pojazd zabytkowy przed pierwszą rejestracją na terytorium Rzeczypospolitej Polskiej.”,
-d) dodaje się ust. 16 w brzmieniu: „16. Minister właściwy do spraw transportu, uwzględniając konieczność zapewnienia bezpiecznego korzystania z pojazdów zabytkowych oraz zakres warunków technicznych tych pojazdów podlegających badaniu, określi, w drodze rozporządzenia, zakres i sposób przeprowadzania badań zgodności tych pojazdów z warunkami technicznymi, wzory dokumentów związanych z tymi badaniami.”;
-13) w art. 83 ust. 1 w pkt 2 w lit. b kropkę zastępuje się przecinkiem i dodaje lit. c w brzmieniu: „c) badań co do zgodności z warunkami technicznymi pojazdów zabytkowych.”;
-14) w art. 86:
-a) ust. 1 otrzymuje brzmienie: „1. Do pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Biura Ochrony Rządu, Straży Granicznej i Służby Celnej, których dotyczą warunki i tryb rejestracji określone w art. 73 ust. 3 oraz w art. 76 ust. 4 pkt 1 oraz pojazdów należących do obcych sił zbrojnych przebywających na terytorium Rzeczypospolitej Polskiej, na podstawie umów międzynarodowych, o których mowa w art. 73 ust.
-2b, a także do pojazdów Państwowej Straży Pożarnej, mają zastosowanie przepisy art. 83 ust. 1, z wyłączeniem wymogu posiadania zezwolenia starosty, o którym mowa w art. 83 ust. 1 pkt 1 lit. b.”,
-b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organizacyjne lub stacje kontroli pojazdów prowadzone przez służby, o których mowa w ust. 1, z wyłączeniem obcych sił zbrojnych przebywających na terytorium Rzeczypospolitej Polskiej;”;
-15) uchyla się art. 86a;
-16) w art. 129 w ust. 2 w pkt 8 lit. c otrzymuje brzmienie: „c) korzystania z pojazdu zarejestrowanego w kraju niebędącym państwem członkowskim, jeżeli kierujący nim nie okazał dokumentu potwierdzającego zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu lub dowodu opłacenia składki za to ubezpieczenie,”;
-17) po dziale Va dodaje się dział Vb w brzmieniu: „Dział Vb Kary pieniężne
+Spełnienie odpowiednich warunków lub wymagań technicznych danego pojazdu, potwierdza się dopuszczeniem jednostkowym pojazdu.
+2.
+Dopuszczeniu jednostkowemu pojazdu, z zastrzeżeniem ust. 3–6, podlega nowy pojazd:
+1)
+przed wprowadzeniem do obrotu na terytorium Rzeczypospolitej Polskiej, na którego typ producent lub importer nie uzyskał świadectwa homologacji typu WE pojazdu albo świadectwa homologacji typu pojazdu;
+2)
+na którego typ zostało wydane świadectwo homologacji typu WE pojazdu albo świadectwo homologacji typu pojazdu, w którym przed rejestracją zostały wprowadzone zmiany w pojeździe, przedmiocie wyposażenia lub części, wpływające na zmianę warunków stanowiących podstawę do wydania świadectwa homologacji typu tego pojazdu.
+3.
+Nowy pojazd zaprojektowany i zbudowany do użytku przede wszystkim na placach budowy, w kamieniołomach, w obiektach portowych lub w portach lotniczych, pojazd wolnobieżny, pojazd kategorii M1 przeznaczony do zawodów sportowych nie podlega obowiązkowi uzyskania dopuszczenia jednostkowego pojazdu. Producent takiego pojazdu może wystąpić o dopuszczenie fakultatywne poprzez uzyskanie dopuszczenia jednostkowego pojazdu, jeżeli pojazd spełnia odpowiednie warunki lub wymagania techniczne obowiązujące w procedurze dopuszczenia jednostkowego pojazdu, określone w przepisach wydanych na podstawie art. 70zs ust. 1 pkt 1. Przepisu nie stosuje się do pojazdów, o których mowa w załączniku nr 2 do ustawy.
+4.
+Nowy pojazd specjalny Sił Zbrojnych Rzeczypospolitej Polskiej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Biura Ochrony Rządu, Straży Granicznej, organów kontroli skarbowej, Służby Celnej, Inspekcji Transportu Drogowego, Służby Więziennej i jednostek ochrony przeciwpożarowej lub nowy pojazd używany do celów specjalnych nie podlega obowiązkowi uzyskania dopuszczenia jednostkowego pojazdu. Producent takiego pojazdu może wystąpić o uzyskanie dopuszczenia jednostkowego pojazdu, jeżeli pojazd spełnia odpowiednie warunki lub wymagania techniczne obowiązujące w procedurze dopuszczenia jednostkowego pojazdu, określone w przepisach wydanych na podstawie art. 70zs ust. 1 pkt 1.
+5.
+Dopuszczenia jednostkowego pojazdu nie stosuje się do tramwaju i trolejbusu.
+6.
+W przypadku pojazdu kategorii M, N, O podlegającego dopuszczeniu jednostkowemu, minister właściwy do spraw transportu w uzasadnionych przypadkach zwalnia, w drodze decyzji administracyjnej, wnioskującego o dopuszczenie jednostkowe z obowiązku spełnienia niektórych wymagań technicznych, o których mowa w załączniku IV i XI do dyrektywy 2007/46/WE, pod warunkiem zastosowania wymagań alternatywnych równoważnych z wymaganiami określonymi w tych załącznikach w najwyższym możliwym do realizacji zakresie bezpieczeństwa ruchu drogowego i ochrony środowiska.
+1.
+Dopuszczenia jednostkowego pojazdu udziela, w drodze decyzji administracyjnej, minister właściwy do spraw transportu, za opłatą, przy czym jej wysokość nie może przekroczyć 800 zł.
+2.
+Dopuszczenia jednostkowego pojazdu udziela się na wniosek producenta, importera, właściciela pojazdu albo ich upoważnionego przedstawiciela, posiadającego siedzibę lub miejsce zamieszkania na terytorium państwa członkowskiego Unii Europejskiej.
+3.
+Do wniosku, o którym mowa w ust. 2, dołącza się:
+1)
+dokument informacyjny sporządzony według wzoru określonego w przepisach wydanych na podstawie art. 70zs ust. 1 pkt 1;
+2)
+sprawozdanie z badań potwierdzające spełnienie odpowiednich warunków lub wymagań technicznych w celu dopuszczenia jednostkowego pojazdu;
+3)
+kopię dowodu uiszczenia opłaty za dopuszczenie jednostkowe pojazdu.
+1.
+Dopuszczenie jednostkowe pojazdu udzielone na dany pojazd przez właściwy organ państwa członkowskiego Unii Europejskiej zgodnie z procedurą uznaje minister właściwy do spraw transportu, w drodze decyzji administracyjnej, jeżeli dany pojazd spełnia odpowiednie warunki lub wymagania techniczne, które są równoważne warunkom lub wymaganiom obowiązującym na terytorium Rzeczypospolitej Polskiej.
+2.
+Wydanie decyzji, o której mowa w ust. 1, następuje na wniosek producenta, importera lub właściciela pojazdu, za opłatą, przy czym jej wysokość nie może przekroczyć 800 zł.
+3.
+Do wniosku, o którym mowa w ust. 2, dołącza się:
+1)
+dokument potwierdzający dopuszczenie jednostkowe pojazdu wydane przez właściwy organ państwa członkowskiego Unii Europejskiej;
+2)
+dokument wydany przez właściwy organ państwa członkowskiego Unii Europejskiej wskazujący przepisy techniczne, na podstawie których udzielono dopuszczenia jednostkowego pojazdu.
+4.
+Minister właściwy do spraw transportu może zwrócić się o dodatkowe informacje o udzielonym dopuszczeniu jednostkowym pojazdu do właściwego organu państwa członkowskiego Unii Europejskiej.
+5.
+Minister właściwy do spraw transportu, na wniosek właściwego organu państwa członkowskiego Unii Europejskiej, udostępnia temu organowi informacje o udzielonym dopuszczeniu jednostkowym pojazdu.
+6.
+W przypadku gdy pojazd, który uzyskał dopuszczenie jednostkowe pojazdu, ma być sprzedany, zarejestrowany lub dopuszczony do ruchu na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, minister właściwy do spraw transportu, na wniosek producenta lub właściciela pojazdu, wydaje dokument wskazujący przepisy techniczne, na podstawie których udzielono dopuszczenia jednostkowego pojazdu.
+1.
+Badanie potwierdzające spełnienie odpowiednich warunków lub wymagań technicznych oraz równoważności zastosowanych wymagań alternatywnych dla danego pojazdu w celu dopuszczenia jednostkowego pojazdu przeprowadza jednostka uprawniona, na wniosek producenta, importera lub właściciela pojazdu.
+2.
+Do wniosku, o którym mowa w ust. 1, dołącza się:
+1)
+dokument informacyjny pojazdu według wymagań określonych w przepisach wydanych na podstawie art. 70zs ust. 1 pkt 1;
+2)
+kopie świadectw homologacji typu lub inne dokumenty potwierdzające spełnienie odpowiednich wymagań technicznych określonych w przepisach Unii Europejskiej lub regulaminach EKG ONZ.
+3.
+Z przeprowadzonego badania jednostka sporządza sprawozdanie z badań potwierdzające spełnienie odpowiednich warunków lub wymagań technicznych w celu dopuszczenia jednostkowego pojazdu.
+Opłaty, o których mowa w art. 70zo ust. 1 oraz art. 70zp ust. 2, stanowią dochód budżetu państwa.
+1.
+Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
+1)
+zakres warunków lub wymagań technicznych obowiązujących w procedurze dopuszczenia jednostkowego pojazdu, zakres i sposób przeprowadzania badań potwierdzających spełnienie odpowiednich warunków lub wymagań technicznych w celu dopuszczenia jednostkowego pojazdu oraz wzory dokumentów z tym związanych;
+2)
+warunki oceny równoważności wymagań alternatywnych w procedurze dopuszczenia jednostkowego pojazdu;
+3)
+wysokość opłat za udzielenie dopuszczenia jednostkowego pojazdu oraz wydanie decyzji o uznaniu dopuszczenia jednostkowego pojazdu, wydanego na dany pojazd przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej.
+2.
+Wydając rozporządzenie, o którym mowa w ust. 1, minister uwzględnia:
+1)
+konieczność zapewnienia bezpieczeństwa w ruchu drogowym i ochrony środowiska;
+2)
+koszty czynności administracyjnych oraz koszty związane z udzieleniem dopuszczenia jednostkowego pojazdu.
+1.
+Spełnienie odpowiednich warunków lub wymagań technicznych danego pojazdu określonych w dodatku 2 do części I do załącznika IV do dyrektywy 2007/46/WE, potwierdza się świadectwem dopuszczenia indywidualnego WE pojazdu.
+2.
+Dopuszczeniu indywidualnemu WE pojazdu podlega nowy pojazd kategorii M1 i N1, o którym mowa w dodatku 2 do części I do załącznika IV do dyrektywy 2007/46/WE, przed wprowadzeniem do obrotu na terytorium Rzeczypospolitej Polskiej, na którego typ producent lub importer nie uzyskał świadectwa homologacji typu WE pojazdu.
+1.
+Świadectwo dopuszczenia indywidualnego WE pojazdu wydaje, w drodze decyzji administracyjnej, minister właściwy do spraw transportu, za opłatą, przy czym jej wysokość nie może przekroczyć 800 zł.
+2.
+Świadectwo dopuszczenia indywidualnego WE pojazdu wydaje się na wniosek producenta, importera albo właściciela pojazdu.
+3.
+Do wniosku, o którym mowa w ust. 2, dołącza się:
+1)
+dokumenty, o których mowa w pkt 1 dodatku 2 do części I do załącznika IV do dyrektywy 2007/46/WE;
+2)
+kopię dowodu uiszczenia opłaty za dopuszczenie indywidualne WE pojazdu;
+3)
+oświadczenie o następującej treści: „ Oświadczam, że w zakresie pojazdu o numerze VIN …, złożyłem tylko jeden wniosek i tylko w jednym państwie członkowskim Unii Europejskiej ” .
+1.
+Badanie potwierdzające spełnienie odpowiednich warunków lub wymagań technicznych w celu uzyskania świadectwa dopuszczenia indywidualnego WE pojazdu przeprowadza jednostka uprawniona, na wniosek producenta, importera albo właściciela pojazdu.
+2.
+Do wniosku, o którym mowa w ust. 1, dołącza się:
+1)
+dokument informacyjny pojazdu sporządzony zgodnie z załącznikiem I do dyrektywy 2007/46/WE;
+2)
+kopie świadectw homologacji typu lub inne dokumenty potwierdzające spełnienie odpowiednich wymagań technicznych określonych w pkt 4 w dodatku 2 do części I do załącznika IV do dyrektywy 2007/46/WE.
+3.
+Z przeprowadzonego badania jednostka sporządza sprawozdanie z badań potwierdzające spełnienie odpowiednich warunków lub wymagań technicznych w celu dopuszczenia indywidualnego WE pojazdu.
+Opłata, o której mowa w art. 70zu ust. 1, stanowi dochód budżetu państwa.
+1.
+Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
+1)
+wzory dokumentów związanych z wydaniem świadectwa dopuszczenia indywidualnego WE pojazdu;
+2)
+wysokość opłat za wydanie świadectwa dopuszczenia indywidualnego WE pojazdu.
+2.
+Wydając rozporządzenie, o którym mowa w ust. 1, minister uwzględnia:
+1)
+potrzebę zapewnienia zabezpieczenia dokumentów przez podrobieniem lub przerobieniem;
+2)
+koszty czynności administracyjnych oraz koszty związane z wydaniem świadectwa dopuszczenia indywidualnego WE pojazdu.
+Maksymalne stawki opłat, o których mowa w art. 70h ust. 2, art. 70j ust. 4, art. 70k ust. 4, art. 70za ust. 1, art. 70ze ust. 2, art. 70zo ust. 1, art. 70zp ust. 2 i art. 70zu ust. 1 ulegają corocznie zmianie na następny rok kalendarzowy w stopniu odpowiadającym średniorocznemu wskaźnikowi cen towarów i usług konsumpcyjnych ogółem, ogłaszanemu przez Prezesa Głównego Urzędu Statystycznego w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+Przepisów rozdziałów 1a-1c nie stosuje się do:
+1)
+pojazdów zabytkowych lub pojazdu określonego w art. 79 ust. 4 pkt 3;
+2)
+nowego pojazdu oraz nowego przedmiotu wyposażenia lub części, nieprzeznaczonych do wprowadzenia do obrotu, a krótkotrwale składowanych na terytorium Rzeczypospolitej Polskiej między operacjami transportowymi – pod warunkiem okazania na żądanie właściwego organu kontroli dokumentów potwierdzających odbiorcę i miejsce docelowego odbioru nowego pojazdu oraz nowego przedmiotu wyposażenia lub części.
+” ;
+8)
+w art. 71 ust. 6 otrzymuje brzmienie:
+„
+6.
+Pojazd sprowadzony z terytorium państwa niebędącego państwem członkowskim Unii Europejskiej, po dokonaniu zwolnienia pojazdu przez organ Służby Celnej do procedury dopuszczenia do obrotu, dopuszcza się do ruchu na okres 30 dni.
+” ;
+9)
+w art. 72:
+a)
+w ust. 1 pkt 3 i 4 otrzymują brzmienie:
+„
+3)
+świadectwa zgodności WE albo świadectwa zgodności wraz z oświadczeniem zawierającym dane i informacje o pojeździe niezbędne do rejestracji i ewidencji pojazdu, dopuszczenia jednostkowego pojazdu, decyzji o uznaniu dopuszczenia jednostkowego pojazdu albo świadectwa dopuszczenia indywidualnego WE pojazdu – jeżeli są wymagane;
+4)
+zaświadczenia o pozytywnym wyniku badania technicznego pojazdu, jeżeli jest wymagane albo dowodu rejestracyjnego pojazdu lub innego dokumentu wydanego przez właściwy organ państwa członkowskiego, potwierdzającego wykonanie oraz termin ważności badania technicznego;
+” ,
+b)
+ust. 2a otrzymuje brzmienie:
+„
+2a.
+W przypadku pojazdu sprowadzanego z terytorium państwa niebędącego państwem członkowskim zamiast dowodu rejestracyjnego, o którym mowa w ust. 1 pkt 5, dopuszcza się przedstawienie innego dokumentu stwierdzającego rejestrację pojazdu, wydanego przez organ właściwy do rejestracji pojazdów w tym państwie.
+” ,
+c)
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+„
+3a.
+Świadectwo zgodności WE lub świadectwo zgodności traci ważność po upływie terminu określonego w przepisach wydanych na podstawie art. 70zm ust. 1 pkt 10 i nie może być uznane za dokument, o którym mowa w ust. 1 pkt 3.
+” ;
+10)
+w art. 74 w ust. 2 pkt 3 otrzymuje brzmienie:
+„
+3)
+na wniosek jednostki uprawnionej lub jednostki badawczej producenta pojazdu, przedmiotu wyposażenia lub części – w celu umożliwienia odpowiednich badań;
+” ;
+11)
+w art. 79 w ust. 1 w pkt 6 kropkę zastępuje się średnikiem i dodaje pkt 7 w brzmieniu:
+„
+7)
+wycofania pojazdu z obrotu, o którym mowa w art. 70g ust. 5.
+” ;
+12)
+w art. 81:
+a)
+ust. 2 otrzymuje brzmienie:
+„
+2.
+Badania techniczne dzieli się na badania okresowe, badania dodatkowe oraz badania co do zgodności z warunkami technicznymi.
+” ,
+b)
+ust. 4 otrzymuje brzmienie:
+„
+4.
+Badaniu, o którym mowa w ust. 3, nie podlega:
+1)
+nowy pojazd, dla którego wydano świadectwo zgodności WE, świadectwo zgodności, dopuszczenie jednostkowe pojazdu, decyzję o uznaniu dopuszczenia jednostkowego pojazdu albo świadectwo dopuszczenia indywidualnego WE pojazdu;
+2)
+zarejestrowany pojazd:
+a)
+na którego typ wydano świadectwo homologacji typu WE pojazdu – w okresie od dnia pierwszej rejestracji za granicą do dnia terminu okresowego badania technicznego, ustalonego na podstawie ust. 5, lub
+b)
+w którego dowodzie rejestracyjnym lub innym dokumencie wydanym przez właściwy organ państwa członkowskiego przedstawionym do rejestracji, zawarta jest informacja o wykonanym badaniu technicznym i jego terminie ważności
+z wyjątkiem taksówki, pojazdu uprzywilejowanego lub pojazdu odpowiednio przystosowanego lub wyposażonego zgodnie z przepisami o przewozie towarów niebezpiecznych, pojazdu z zamontowanym urządzeniem technicznym podlegającym dozorowi technicznemu oraz pojazdu przystosowanego konstrukcyjnie do ruchu lewostronnego.
+” ,
+c)
+po ust. 11 dodaje się ust. 11a w brzmieniu:
+„
+11a.
+Badaniu co do zgodności z warunkami technicznymi podlega pojazd zabytkowy przed pierwszą rejestracją na terytorium Rzeczypospolitej Polskiej.
+” ,
+d)
+dodaje się ust. 16 w brzmieniu:
+„
+16.
+Minister właściwy do spraw transportu, uwzględniając konieczność zapewnienia bezpiecznego korzystania z pojazdów zabytkowych oraz zakres warunków technicznych tych pojazdów podlegających badaniu, określi, w drodze rozporządzenia, zakres i sposób przeprowadzania badań zgodności tych pojazdów z warunkami technicznymi, wzory dokumentów związanych z tymi badaniami.
+” ;
+13)
+w art. 83 w ust. 1 w pkt 2 w lit. b kropkę zastępuje się przecinkiem i dodaje lit. c w brzmieniu:
+„
+c)
+badań co do zgodności z warunkami technicznymi pojazdów zabytkowych.
+” ;
+14)
+w art. 86:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Do pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Biura Ochrony Rządu, Straży Granicznej i Służby Celnej, których dotyczą warunki i tryb rejestracji określone w art. 73 ust. 3 oraz w art. 76 ust. 4 pkt 1 oraz pojazdów należących do obcych sił zbrojnych przebywających na terytorium Rzeczypospolitej Polskiej, na podstawie umów międzynarodowych, o których mowa w art. 73 ust. 2b, a także do pojazdów Państwowej Straży Pożarnej, mają zastosowanie przepisy art. 83 ust. 1, z wyłączeniem wymogu posiadania zezwolenia starosty, o którym mowa w art. 83 ust. 1 pkt 1 lit. b.
+” ,
+b)
+w ust. 2 pkt 1 otrzymuje brzmienie:
+„
+1)
+przez upoważnione komórki organizacyjne lub stacje kontroli pojazdów prowadzone przez służby, o których mowa w ust. 1, z wyłączeniem obcych sił zbrojnych przebywających na terytorium Rzeczypospolitej Polskiej;
+” ;
+15)
+uchyla się art. 86a;
+16)
+w art. 129 w ust. 2 w pkt 8 lit. c otrzymuje brzmienie:
+„
+c)
+korzystania z pojazdu zarejestrowanego w kraju niebędącym państwem członkowskim, jeżeli kierujący nim nie okazał dokumentu potwierdzającego zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu lub dowodu opłacenia składki za to ubezpieczenie,
+” ;
+17)
+po dziale Va dodaje się dział Vb w brzmieniu:
+„
 
 **Art. 1.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137) wprowadza się następujące zmiany:
 
+- **1)** odnośnik nr 1 otrzymuje brzmienie: „ Niniejsza ustawa wdraża postanowienia następujących dyrektyw Unii Europejskiej:
+- **1)** dyrektywy Rady z dnia 16 grudnia 1991 r. odnoszącej się do obowiązkowego stosowania pasów bezpieczeństwa i urządzeń przytrzymujących dla dzieci w pojazdach (91/671/EWG) (Dz. Urz. WE L 373 z 31.12.1991, str. 26, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 1, str. 353, z późn. zm.);
+- **2)** dyrektywy Rady 92/6/EWG z dnia 10 lutego 1992 r. w sprawie montowania i zastosowania urządzeń ograniczenia prędkości w niektórych kategoriach pojazdów silnikowych we Wspólnocie (Dz. Urz. WE L 57 z 02.03.1992, str. 27, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 1, str. 359, z późn. zm.);
+- **3)** dyrektywy Rady 96/53/WE z dnia 25 lipca 1996 r. ustanawiającej dla niektórych pojazdów drogowych poruszających się na terytorium Wspólnoty maksymalne dopuszczalne wymiary w ruchu krajowym i międzynarodowym oraz maksymalne dopuszczalne obciążenia w ruchu międzynarodowym (Dz. Urz. WE L 235 z 17.09.1996, str. 59, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 2, str. 478, z późn. zm.);
+- **4)** dyrektywy 97/27/WE Parlamentu Europejskiego i Rady z dnia 22 lipca 1997 r. odnoszącej się do mas i wymiarów niektórych kategorii pojazdów silnikowych i ich przyczep oraz zmieniającej dyrektywę 70/156/EWG (Dz. Urz. WE L 233 z 25.08.1997, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 19, str. 200, z późn. zm.);
+- **5)** dyrektywy Rady 1999/37/WE z dnia 29 kwietnia 1999 r. w sprawie dokumentów rejestracyjnych pojazdów (Dz. Urz. WE L 138 z 01.06.1999, str. 57, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 4, str. 351, z późn. zm.);
+- **6)** dyrektywy 2000/30/WE Parlamentu Europejskiego i Rady z dnia 6 czerwca 2000 r. w sprawie drogowej kontroli przydatności do ruchu pojazdów użytkowych poruszających się we Wspólnocie (Dz. Urz. WE L 203 z 10.08.2000, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 5, str. 80, z późn. zm.);
+- **7)** dyrektywy 2002/24/WE Parlamentu Europejskiego i Rady z dnia 18 marca 2002 r. w sprawie homologacji typu dwu- lub trzykołowych pojazdów mechanicznych i uchylającej dyrektywę Rady 92/61/EWG (Dz. Urz. WE L 124 z 09.05.2002, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 29, str. 399, z późn. zm.);
+- **8)** dyrektywy 2003/20/WE Parlamentu Europejskiego i Rady z dnia 8 kwietnia 2003 r. zmieniającej dyrektywę Rady 91/671/EWG w sprawie zbliżenia ustawodawstw Państw Członkowskich odnoszących się do obowiązkowego stosowania pasów bezpieczeństwa w pojazdach poniżej 3,5 tony (Dz. Urz. UE L 115 z 09.05.2003, str. 63; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 277);
+- **9)** dyrektywy 2003/37/WE Parlamentu Europejskiego i Rady z dnia 26 maja 2003 r. w sprawie homologacji typu ciągników rolniczych lub leśnych, ich przyczep i wymiennych holowanych maszyn, łącznie z ich układami, częściami i oddzielnymi zespołami technicznymi oraz uchylającej dyrektywę 74/150/EWG (Dz. Urz. UE L 171 z 09.07.2003, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 31, str. 311, z późn. zm.);
+- **10)** dyrektywy 2007/46/WE Parlamentu Europejskiego i Rady z dnia 5 września 2007 r. ustanawiającej ramy dla homologacji pojazdów silnikowych i ich przyczep oraz układów, części i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów („dyrektywa ramowa”) (Dz. Urz. UE L 263 z 09.10.2007, str. 1, z późn. zm.);
+- **11)** dyrektywy Parlamentu Europejskiego i Rady 2009/40/WE z dnia 6 maja 2009 r. w sprawie badań zdatności do ruchu drogowego pojazdów silnikowych i ich przyczep (Dz. Urz. UE L 141 z 06.06.2009, str. 12, z późn. zm.). Dane odnoszące się do aktów prawa Unii Europejskiej, ogłoszone przed dniem 1 maja 2004 r., zamieszczone w niniejszej ustawie, dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej Polskie wydanie specjalne. ” ;
+- **2)** w art. 1 w ust. 1 pkt 2 otrzymuje brzmienie: „
+- **2)** zasady i warunki dopuszczenia pojazdów do tego ruchu, a także działalność właściwych organów i podmiotów w tym zakresie; ” ;
+- **3)** w art. 2: pkt 44 otrzymuje brzmienie: „
+    - **a)**
+
+- **44)** ciągnik rolniczy – pojazd silnikowy, którego konstrukcja umożliwia rozwijanie prędkości nie mniejszej niż 6 km/h, skonstruowany do używania łącznie ze sprzętem do prac rolnych, leśnych lub ogrodniczych; ciągnik taki może być również przystosowany do ciągnięcia przyczep oraz do prac ziemnych; ” , w pkt 59 kropkę zastępuje się średnikiem i dodaje pkt 60–82 w brzmieniu: „
+    - **b)**
+
+- **60)** kategoria pojazdu – klasyfikację pojazdu według wymagań homologacyjnych;
+- **61)** maksymalna masa całkowita – największą masę pojazdu obciążonego osobami i ładunkiem, określoną przez producenta pojazdu;
+- **62)** nowy pojazd – pojazd fabrycznie nowy, który nie był zarejestrowany;
+- **63)** państwo członkowskie – państwo członkowskie Unii Europejskiej, Konfederację Szwajcarską lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym;
+- **64)** pojazd kompletny – pojazd, który w celu spełnienia wymagań technicznych oraz uzyskania założonych cech użytkowych nie wymaga kompletacji;
+- **65)** pojazd marki „SAM” – pojazd zbudowany przy wykorzystaniu nadwozia, podwozia lub ramy, konstrukcji własnej;
+- **66)** pojazd produkowany w małych seriach – pojazd produkowany w limitowanej liczbie, określonej w przepisach wydanych na podstawie art. 70zm ust. 1 pkt 3;
+- **67)** pojazd niekompletny – pojazd, który w celu spełnienia wymagań technicznych oraz uzyskania założonych cech użytkowych powinien przejść co najmniej jeden etap kompletacji;
+- **68)** pojazd skompletowany – pojazd, który w celu spełnienia wymagań technicznych oraz uzyskania założonych cech użytkowych powstał w wyniku co najmniej jednego etapu kompletacji;
+- **69)** pojazd z końcowej partii produkcji – pojazd będący częścią zapasów producenta, który nie spełnia wymagań technicznych z powodu zmiany warunków stanowiących podstawę do wydania świadectwa homologacji typu WE pojazdu albo świadectwa homologacji typu pojazdu, a świadectwo to utraciło ważność;
+- **70)** przedmiot wyposażenia lub część – rozumie się przez to układ, oddzielny zespół techniczny lub część, podlegające wymaganiom technicznym określonym w dziale III, rozdziale 1a i 1b, przepisach Unii Europejskiej dotyczących badań homologacyjnych lub regulaminach EKG ONZ, przeznaczone do zastosowania w pojeździe;
+- **71)** świadectwo homologacji typu – świadectwo homologacji typu EKG ONZ, świadectwo homologacji typu pojazdu, świadectwo homologacji typu WE;
+- **72)** świadectwo homologacji typu EKG ONZ – dokument wydany przez właściwy organ państwa – strony Porozumienia dotyczącego przyjęcia jednolitych wymagań technicznych dla pojazdów kołowych, wyposażenia i części, które mogą być stosowane w tych pojazdach, oraz wzajemnego uznawania homologacji udzielonych na podstawie tych wymagań, sporządzonego w Genewie dnia 20 marca 1958 r. (Dz. U. z 2001 r. Nr 104, poz. 1135 i 1136), zwanego dalej „Porozumieniem”, stwierdzający, że typ przedmiotu wyposażenia lub części spełnia wymagania procedury homologacji typu EKG ONZ określone w regulaminach Europejskiej Komisji Gospodarczej Organizacji Narodów Zjednoczonych (EKG ONZ) stanowiących załączniki do tego Porozumienia;
+- **73)** świadectwo homologacji typu pojazdu – dokument wydany przez właściwy organ Rzeczypospolitej Polskiej stwierdzający, że typ pojazdu spełnia wymagania procedury homologacji typu pojazdu;
+- **74)** świadectwo homologacji typu WE – dokument wydany przez właściwy organ państwa członkowskiego Unii Europejskiej stwierdzający, że typ pojazdu, typ przedmiotu jego wyposażenia lub części, spełnia wymagania procedury homologacji typu WE;
+- **75)** typ przedmiotu wyposażenia lub części – oznaczenie przedmiotów wyposażenia lub części, spełniających tę samą funkcję w pojeździe, które nie różnią się od siebie pod względem istotnych cech mających wpływ na bezpieczeństwo ruchu drogowego lub ochronę środowiska, jeżeli wymagania określone w przepisach UE dotyczących badań homologacyjnych lub regulaminy EKG ONZ nie stanowią inaczej;
+- **76)** świadectwo dopuszczenia indywidualnego WE pojazdu – dokument wydany przez właściwy organ państwa członkowskiego Unii Europejskiej stwierdzający, że pojazd spełnia odpowiednie warunki lub wymagania techniczne procedury dopuszczenia indywidualnego WE pojazdu;
+- **77)** świadectwo homologacji sposobu montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem – dokument wydany przez właściwy organ Rzeczypospolitej Polskiej stwierdzający, że sposób montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem oraz elementy tej instalacji spełniają wymagania procedury homologacji sposobu montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem;
+- **78)** typ pojazdu – oznaczenie pojazdów jednej kategorii pojazdu, które nie różnią się od siebie pod względem istotnych cech, określonych w przepisach wydanych na podstawie art. 70zm ust. 1 pkt 5;
+- **79)** wprowadzenie do obrotu – odpłatne albo nieodpłatne przekazanie pojazdu, przedmiotu wyposażenia lub części po raz pierwszy na terytorium Rzeczypospolitej Polskiej użytkownikowi;
+- **80)** wariant pojazdu – oznaczenie pojazdów jednego typu, które nie różnią się od siebie co najmniej pod względem istotnych cech, określonych w przepisach wydanych na podstawie art. 70zm ust. 1 pkt 5;
+- **81)** wersja pojazdu – oznaczenie pojazdów jednego wariantu, o kompletacji określonej w opisie technicznym typu pojazdu w świadectwie homologacji typu pojazdu albo świadectwie homologacji typu WE pojazdu;
+- **82)** tramwaj – pojazd przeznaczony do przewozu osób lub rzeczy zasilany energią elektryczną, poruszający się po szynach na drogach publicznych;
+- **83)** trolejbus – autobus przystosowany do zasilania energią elektryczną z sieci trakcyjnej. ” ;
+- **4)** w art. 64 ust. 3 otrzymuje brzmienie: „
+
+3. Wymiary, masa, naciski osi pojazdów nienormatywnych uprawnionych do poruszania się na podstawie zezwoleń kategorii I-VII oraz drogi, po których pojazdy te mogą się poruszać, są określone w tabeli stanowiącej załącznik nr 1 do ustawy. ” ;
+
+- **5)** w art. 66: w ust. 4 w pkt 6 lit. a otrzymuje brzmienie: „ pojazdu, na którego typ zostało wydane świadectwo homologacji typu lub inny równoważny dokument, o którym mowa w art. 70j ust. 1, art. 70k ust. 1, art. 70o ust. 1, art. 70zo ust. 1, art. 70zp ust. 1 albo art. 70zu ust. 1, ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
+    - **a)**
+    - **a)**
+    - **b)**
+
+4a. Przepis ust. 4 nie dotyczy pojazdu zabytkowego – w zakresie pkt 1–3, z zastrzeżeniem, że w przypadku pkt 3 obowiązuje zakaz korzystania z tych urządzeń podczas jazdy i postoju. ” ;
+
+- **6)** uchyla się art. 68–70;
+- **7)** w dziale III po rozdziale 1 dodaje się rozdziały 1a-1c w brzmieniu: „
+
+#### Rozdział 1a Homologacja
+
 **Art. 70a.** Ilekroć w rozdziale jest mowa o:
 
-**Art. 70b.**
+- **1)** oryginalnym przedmiocie wyposażenia lub części – rozumie się przez to przedmiot wyposażenia lub część, które wyprodukowano zgodnie ze specyfikacjami i normami produkcyjnymi przewidzianymi przez producenta pojazdów dla produkcji przedmiotu wyposażenia lub części pojazdu, którego to dotyczy, oraz przedmiot wyposażenia lub część, które wyprodukowano na tej samej linii produkcyjnej; obejmuje to również przedmiot wyposażenia lub część dla których ich producent zaświadczy, że ten przedmiot wyposażenia lub część odpowiadają jakością przedmiotowi wyposażenia lub części, używanym do montażu pojazdu, którego to dotyczy, i zostały wyprodukowane zgodnie ze specyfikacjami i normami produkcyjnymi producenta pojazdu;
+- **2)** procedurze homologacji typu WE pojazdu albo procedurze homologacji typu pojazdu – rozumie się przez to jedną z następujących procedur: krok po kroku – procedurę homologacji typu, w ramach której producent uzyskuje wszystkie wymagane świadectwa homologacji typu WE przedmiotu wyposażenia lub części albo świadectwa homologacji typu EKG ONZ, na podstawie których jednostka uprawniona, o której mowa w art. 70y ust. 1, przeprowadza badanie homologacyjne typu pojazdu będące podstawą do wydania świadectwa homologacji typu WE pojazdu albo świadectwa homologacji typu pojazdu, jednostopniową – procedurę homologacji typu, w ramach której jednostka uprawniona, o której mowa w art. 70y ust. 1, przeprowadza badanie homologacyjne dla wszystkich wymaganych przedmiotów wyposażenia lub części oraz badanie homologacyjne typu pojazdu, będące podstawą do wydania świadectwa homologacji typu WE pojazdu albo świadectwa homologacji typu pojazdu, mieszaną – procedurę homologacji typu krok po kroku, podczas której producent może nie przedstawić jednego lub kilku świadectw homologacji typu WE przedmiotu wyposażenia lub części albo świadectw homologacji typu EKG ONZ, do badania homologacyjnego typu pojazdu pod warunkiem zastąpienia ich sprawozdaniami zawierającymi wyniki badań homologacyjnych tych przedmiotów wyposażenia lub części;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **3)** wirtualnej metodzie testowania – rozumie się przez to symulacje komputerowe, w tym obliczenia potwierdzające, że typ pojazdu, typ przedmiotu wyposażenia lub części spełnia odpowiednie wymagania techniczne, w zakresie określonym w załączniku XVI do dyrektywy 2007/46/WE Parlamentu Europejskiego i Rady z dnia 5 września 2007 r. ustanawiającej ramy dla homologacji pojazdów silnikowych i przyczep oraz układów, części i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów („dyrektywa ramowa”) (Dz. Urz. UE L 263 z 09.10.2007, str. 1, z późn. zm.), zwanej dalej „dyrektywą 2007/46/WE”;
+- **4)** zgodności produkcji pojazdu, przedmiotu wyposażenia lub części albo zgodności montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem – rozumie się przez to produkcję pojazdu, przedmiotu wyposażenia lub części zgodnie z wymaganiami dla typu, który uzyskał odpowiednie świadectwo homologacji typu albo zezwolenie na dopuszczenie do obrotu oraz stosowanie metod produkcji zapewniających spełnienie tych wymagań; w przypadku montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem – rozumie się przez to montaż zgodnie z wymaganiami dla typu, który uzyskał świadectwo homologacji sposobu montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem oraz stosowanie metod montażu zapewniających spełnienie tych wymagań.
 
 1. Nowy typ pojazdu, typ przedmiotu wyposażenia lub części, który ma być wprowadzony do obrotu na terytorium Rzeczypospolitej Polskiej, powinien spełniać wymagania techniczne, odpowiednie dla danej kategorii pojazdu, określone w przepisach wydanych na podstawie art. 70zm ust. 1 pkt 1.
 
@@ -135,11 +338,17 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 
 5. Obowiązek, o którym mowa w ust. 1, w odniesieniu do typu przedmiotu wyposażenia lub części dotyczy typów przedmiotu wyposażenia lub części, dla których zakres wymagań technicznych określają przepisy wydane na podstawie art. 70zm ust. 1 pkt 1.
 
-6. Jeżeli homologacja typu przedmiotu wyposażenia lub części obejmuje przedmioty wyposażenia lub części niezależnie od tego, czy są przeznaczone do napraw, przeglądów lub konserwacji pojazdów, nie wymaga się dodatkowej homologacji typu tych przedmiotów wyposażenia lub części, jeżeli ustawa nie przewiduje dla nich obowiązku uzyskania odrębnego świadectwa homologacji typu.
+6. Jeżeli homologacja typu przedmiotu wyposażenia lub części obejmuje przedmioty wyposażenia lub części niezależnie od tego, czy są przeznaczone do napraw, przeglądów lub konserwacji pojazdów, nie wymaga się dodatkowej homologacji typu tych przedmiotów wyposażenia lub części, jeżeli ustawa nie przewiduje dla nich obowiązku uzyskania odrębnego świadectwa homologacji typu. Potwierdzenie spełnienia wymagań technicznych następuje przez wydanie dla:
 
-**Art. 70c.** Potwierdzenie spełnienia wymagań technicznych następuje przez wydanie dla:
+- **1)** pojazdu: świadectwa homologacji typu WE pojazdu, świadectwa homologacji typu pojazdu;
+    - **a)**
+    - **b)**
 
-**Art. 70d.**
+- **2)** przedmiotu wyposażenia lub części: świadectwa homologacji typu WE przedmiotu wyposażenia lub części, świadectwa homologacji typu EKG ONZ;
+    - **a)**
+    - **b)**
+
+- **3)** sposobu montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem – świadectwa homologacji sposobu montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem.
 
 1. Producent nowego typu pojazdu, typu przedmiotu wyposażenia lub części jest obowiązany uzyskać dla każdego nowego typu pojazdu, typu przedmiotu wyposażenia lub części odpowiednie świadectwo homologacji typu WE, z zastrzeżeniem ust. 2–6.
 
@@ -150,43 +359,46 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 4. Producent:
 
 - **1)** tramwaju,
-- **2)** trolejbusu – jest obowiązany uzyskać dla każdego nowego typu tego pojazdu świadectwo homologacji typu pojazdu.
+- **2)** trolejbusu jest obowiązany uzyskać dla każdego nowego typu tego pojazdu świadectwo homologacji typu pojazdu.
 
 5. Podmiot dokonujący montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem jest obowiązany uzyskać świadectwo homologacji sposobu montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem.
 
 6. Producent:
 
-- **1)** nowego typu pojazdu, jest zwolniony z obowiązku, o którym mowa w ust. 1, jeżeli uzyskał:
-    - **a)** świadectwo homologacji typu WE pojazdu, w odniesieniu do pojazdów produkowanych w małych seriach,
-    - **b)** świadectwo homologacji typu pojazdu, w odniesieniu do pojazdów produkowanych w małych seriach,
-    - **c)** świadectwo homologacji typu pojazdu, w odniesieniu do pojazdów kategorii T , T , T , C, R,
-    - **d)** uznanie świadectwa homologacji typu pojazdu wydanego zgodnie z procedurą homologacji typu przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej,
-    - **e)** uznanie świadectwa homologacji typu pojazdu dla pojazdów produkowanych w małych seriach wydanego na dany typ pojazdu zgodnie z procedurą homologacji typu przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej,
-    - **f)** dopuszczenie jednostkowe pojazdu,
-    - **g)** uznanie dopuszczenia jednostkowego pojazdu wydanego przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej,
-    - **h)** świadectwo dopuszczenia indywidualnego WE pojazdu;
+- **1)** nowego typu pojazdu, jest zwolniony z obowiązku, o którym mowa w ust. 1, jeżeli uzyskał: świadectwo homologacji typu WE pojazdu, w odniesieniu do pojazdów produkowanych w małych seriach, świadectwo homologacji typu pojazdu, w odniesieniu do pojazdów produkowanych w małych seriach, świadectwo homologacji typu pojazdu, w odniesieniu do pojazdów kategorii T4.1, T4.2, T5, C, R, uznanie świadectwa homologacji typu pojazdu wydanego zgodnie z procedurą homologacji typu przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, uznanie świadectwa homologacji typu pojazdu dla pojazdów produkowanych w małych seriach wydanego na dany typ pojazdu zgodnie z procedurą homologacji typu przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, dopuszczenie jednostkowe pojazdu, uznanie dopuszczenia jednostkowego pojazdu wydanego przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, świadectwo dopuszczenia indywidualnego WE pojazdu;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
 
-- **2)** nowego typu przedmiotu wyposażenia lub części jest zwolniony z obowiązku, o którym mowa w ust. 1, jeżeli:
-    - **a)** uzyskał świadectwo homologacji typu EKG ONZ,
-    - **b)** nowy typ przedmiotu wyposażenia lub części jest objęty świadectwem homologacji typu WE pojazdu.
+- **2)** nowego typu przedmiotu wyposażenia lub części jest zwolniony z obowiązku, o którym mowa w ust. 1, jeżeli: uzyskał świadectwo homologacji typu EKG ONZ, nowy typ przedmiotu wyposażenia lub części jest objęty świadectwem homologacji typu WE pojazdu.
+    - **a)**
+    - **b)**
 
 7. W procedurze homologacji typu WE pojazdu świadectwa homologacji typu EKG ONZ uznaje się za równoważne świadectwom homologacji typu WE przedmiotu wyposażenia lub części w zakresie, w jakim wymagania określone w regulaminach EKG ONZ wymienionych w części II załącznika IV do dyrektywy 2007/46/WE pokrywają się z zakresem wymagań dla tego przedmiotu wyposażenia lub części, określonym w odpowiednich dyrektywach lub rozporządzeniach Unii Europejskiej.
 
 8. W przypadku gdy pojazd, o którym mowa w ust. 2, nie spełnia wszystkich wymagań dyrektywy 2007/46/WE oraz producent pojazdu nie może uzyskać zwolnienia z niektórych wymagań technicznych, o których mowa w art. 70zm ust. 1 pkt 1, uznaje się go za pojazd niekompletny.
 
-9. Przepisu ust. 6 pkt 1 lit. a nie stosuje się do pojazdów specjalnych.
+9. Przepisu ust. 6 pkt 1 lit. a nie stosuje się do pojazdów specjalnych. Obowiązek uzyskania świadectwa homologacji typu nie dotyczy pojazdu:
 
-**Art. 70e.** Obowiązek uzyskania świadectwa homologacji typu nie dotyczy pojazdu:
+- **1)** kategorii M1, przeznaczonego do zawodów sportowych;
+- **2)** kategorii L: przystosowanego do używania przez osoby niepełnosprawne, przeznaczonego do zawodów sportowych;
+    - **a)**
+    - **b)**
 
-**Art. 70f.**
+- **3)** kategorii T przeznaczonego do prac leśnych obejmującej: ciągnik zrywkowy i ciągnik z przednim systemem załadowczym, pojazd skonstruowany na ramie sprzętu do prac ziemnych.
+    - **a)**
+    - **b)**
 
 1. Producent pojazdu, przedmiotu wyposażenia lub części jest odpowiedzialny za wszystkie aspekty procesu homologacji oraz za zapewnienie zgodności produkcji niezależnie od tego, czy bezpośrednio uczestniczy we wszystkich etapach wytwarzania pojazdu, przedmiotu wyposażenia lub części.
 
 2. Producent pojazdu skompletowanego jest odpowiedzialny za uzyskanie świadectwa homologacji typu WE przedmiotu wyposażenia lub części albo świadectwa homologacji typu EKG ONZ oraz za zapewnienie zgodności produkcji w zakresie tych przedmiotów wyposażenia lub części, które zostały dodane na etapie dokonywanej przez niego kompletacji pojazdu.
 
 3. Producent pojazdu skompletowanego wprowadzający zmiany w przedmiocie wyposażenia lub części, które były objęte procedurą homologacji typu na wcześniejszym etapie kompletacji pojazdu, jest odpowiedzialny za uzyskanie świadectwa homologacji typu WE przedmiotu wyposażenia lub części albo świadectwa homologacji typu EKG ONZ oraz za zapewnienie zgodności produkcji w zakresie dokonanej zmiany.
-
-**Art. 70g.**
 
 1. Zakazuje się wprowadzania do obrotu nowego pojazdu bez wymaganego odpowiedniego świadectwa homologacji typu lub innego równoważnego dokumentu, o którym mowa w art. 70j ust. 1, art. 70k ust. 1, art. 70o ust. 1, art. 70zo ust. 1, art. 70zp ust. 1 albo art. 70zu ust. 1.
 
@@ -213,8 +425,6 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 
 11. Do postępowania w sprawach wycofania z obrotu pojazdu, przedmiotu wyposażenia lub części, stosuje się odpowiednio przepisy o postępowaniu egzekucyjnym w administracji.
 
-**Art. 70h.**
-
 1. Świadectwa homologacji typu albo świadectwo homologacji sposobu montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem wydaje, zmienia, odmawia wydania lub cofa, w drodze decyzji administracyjnej, minister właściwy do spraw transportu.
 
 2. Wydanie lub zmiana świadectwa homologacji typu albo świadectwa homologacji sposobu montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem następuje za opłatą, przy czym jej wysokość nie może przekroczyć 1600 zł.
@@ -225,20 +435,20 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 
 5. Do wniosku o wydanie lub zmianę świadectwa homologacji typu, z zastrzeżeniem art. 70m ust. 1, dołącza się:
 
-- **1)** pakiet informacyjny zawierający: 70zm ust. 1 pkt 8, – dane i informacje o pojeździe niezbędne do rejestracji i ewidencji pojazdu – o ile są wymagane, – kopie odpowiednich świadectw homologacji typu WE przedmiotu wyposażenia lub części – o ile są wymagane, – kopie odpowiednich świadectw homologacji typu EKG ONZ – o ile są wymagane, – informację i instrukcję, określające warunki lub ograniczenia związane z użytkowaniem pojazdu, przedmiotu wyposażenia lub części, mające wpływ na bezpieczeństwo w ruchu drogowym lub ochronę środowiska – o ile występują,
-    - **a)** spis treści pakietu informacyjnego,
-    - **b)** folder informacyjny składający się z: – dokumentu informacyjnego sporządzonego według wzoru określonego w przepisach wydanych na podstawie art.
-    - **c)** protokół z badania homologacyjnego wraz ze sprawozdaniem wydany przez jednostkę uprawnioną w przypadku badania homologacyjnego typu pojazdu – o ile jest wymagany,
-    - **d)** sprawozdanie zawierające wyniki badania homologacyjnego, wydane przez jednostkę uprawnioną w przypadku badania homologacyjnego typu przedmiotu wyposażenia lub części – o ile jest wymagane,
-    - **e)** dokumenty zawierające dane i informacje o wymaganiach technicznych przedmiotów wyposażenia lub części wraz z oświadczeniem, że spełniają one zasadnicze wymagania w tym zakresie, w przypadku pojazdów produkowanych w małych seriach;
+- **1)** pakiet informacyjny zawierający: spis treści pakietu informacyjnego, folder informacyjny składający się z: – dokumentu informacyjnego sporządzonego według wzoru określonego w przepisach wydanych na podstawie art. 70zm ust. 1 pkt 8, – dane i informacje o pojeździe niezbędne do rejestracji i ewidencji pojazdu – o ile są wymagane, – kopie odpowiednich świadectw homologacji typu WE przedmiotu wyposażenia lub części – o ile są wymagane, – kopie odpowiednich świadectw homologacji typu EKG ONZ – o ile są wymagane, – informację i instrukcję, określające warunki lub ograniczenia związane z użytkowaniem pojazdu, przedmiotu wyposażenia lub części, mające wpływ na bezpieczeństwo w ruchu drogowym lub ochronę środowiska – o ile występują, protokół z badania homologacyjnego wraz ze sprawozdaniem wydany przez jednostkę uprawnioną w przypadku badania homologacyjnego typu pojazdu – o ile jest wymagany, sprawozdanie zawierające wyniki badania homologacyjnego, wydane przez jednostkę uprawnioną w przypadku badania homologacyjnego typu przedmiotu wyposażenia lub części – o ile jest wymagane, dokumenty zawierające dane i informacje o wymaganiach technicznych przedmiotów wyposażenia lub części wraz z oświadczeniem, że spełniają one zasadnicze wymagania w tym zakresie, w przypadku pojazdów produkowanych w małych seriach;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 - **2)** instrukcję montażu – w przypadku świadectw homologacji typu, o których mowa w art. 70c pkt 2 lit. b;
 - **3)** kopię dowodu wniesienia opłaty za wydanie albo zmianę świadectwa homologacji typu;
 - **4)** oświadczenie o wpisie do Centralnej Ewidencji Informacji o Działalności Gospodarczej albo do rejestru przedsiębiorców w Krajowym Rejestrze Sądowym;
-- **5)** oświadczenie, w przypadku świadectwa homologacji typu WE, o następującej treści: „Oświadczam, że w zakresie typu pojazdu, typu przedmiotu wyposażenia lub części … złożyłem tylko jeden wniosek, i tylko w jednym państwie członkowskim Unii Europejskiej”;
-- **6)** wykaz osób upoważnionych do podpisywania:
-    - **a)** świadectw zgodności WE albo świadectw zgodności – w przypadku odpowiednio świadectw homologacji typu WE pojazdu albo świadectw homologacji typu pojazdu,
-    - **b)** oświadczeń o danych i informacjach o pojeździe niezbędnych do rejestracji i ewidencji pojazdu – zawierający ich dane osobowe: imię i nazwisko, zajmowane stanowisko oraz wzór podpisu;
+- **5)** oświadczenie, w przypadku świadectwa homologacji typu WE, o następującej treści: „ Oświadczam, że w zakresie typu pojazdu, typu przedmiotu wyposażenia lub części … złożyłem tylko jeden wniosek, i tylko w jednym państwie członkowskim Unii Europejskiej ” ;
+- **6)** wykaz osób upoważnionych do podpisywania: świadectw zgodności WE albo świadectw zgodności – w przypadku odpowiednio świadectw homologacji typu WE pojazdu albo świadectw homologacji typu pojazdu, oświadczeń o danych i informacjach o pojeździe niezbędnych do rejestracji i ewidencji pojazdu zawierający ich dane osobowe: imię i nazwisko, zajmowane stanowisko oraz wzór podpisu;
+    - **a)**
+    - **b)**
 
 - **7)** deklarację o sposobie i metodach zapewnienia zgodności produkcji pojazdu, przedmiotu wyposażenia, części, z typem podlegającym procedurze homologacji.
 
@@ -255,8 +465,6 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 7. Wniosek o zmianę świadectwa homologacji typu składa się wyłącznie w państwie, które wydało to świadectwo homologacji typu.
 
 8. Minister właściwy do spraw transportu może w uzasadnionych przypadkach wezwać producenta do przedstawienia dodatkowych informacji niezbędnych do określenia zakresu wymaganych badań lub do uproszczenia ich przeprowadzania.
-
-**Art. 70i.**
 
 1. Do wniosku o wydanie świadectwa homologacji typu WE pojazdu dla pojazdu, w którym w przedmiocie wyposażenia lub części zastosowano nowatorskie rozwiązania konstrukcyjne lub technologie, które nie spełniają wymagań określonych w przepisach dotyczących homologacji typu, producent dołącza również:
 
@@ -281,8 +489,6 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 
 8. W przypadku otrzymania od właściwego organu państwa członkowskiego Unii Europejskiej informacji o wydaniu świadectwa homologacji typu pojazdu, o którym mowa w ust. 4, minister właściwy do spraw transportu podejmuje decyzję o uznaniu tego świadectwa homologacji typu pojazdu w terminie 30 dni od dnia otrzymania tej informacji, na podstawie dokumentacji, o której mowa w ust. 1.
 
-**Art. 70j.**
-
 1. Minister właściwy do spraw transportu, w drodze decyzji administracyjnej, uznaje świadectwo homologacji typu wydane na dany typ pojazdu przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, na okres odpowiadający jego ważności, jeżeli dany typ pojazdu spełnia wymagania:
 
 - **1)** procedury uzyskania świadectwa homologacji typu WE pojazdu albo
@@ -298,14 +504,12 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 
 6. Minister właściwy do spraw transportu uchyla decyzję o uznaniu, o której mowa w ust. 1, w przypadku:
 
-- **1)** wystąpienia okoliczności, o których mowa w art. 70q:
-    - **a)** ust. 4 i 5 – w całości,
-    - **b)** ust. 6 – w zakresie wariantu lub wersji, w ramach których uznane świadectwo homologacji typu pojazdu wygasło;
+- **1)** wystąpienia okoliczności, o których mowa w art. 70q: ust. 4 i 5 – w całości, ust. 6 – w zakresie wariantu lub wersji, w ramach których uznane świadectwo homologacji typu pojazdu wygasło;
+    - **a)**
+    - **b)**
 
 - **2)** nieusunięcia zagrożeń, o których mowa w art. 70u ust. 1;
 - **3)** nieuwzględnienia zastrzeżeń, o których mowa w art. 70u ust. 3 pkt 3.
-
-**Art. 70k.**
 
 1. Minister właściwy do spraw transportu, w drodze decyzji administracyjnej, uznaje świadectwo homologacji typu pojazdu dla pojazdów produkowanych w małych seriach wydane na dany typ pojazdu, jeżeli wymagania techniczne stanowiące podstawę do jego wydania są równoważne wymaganiom technicznym obowiązującym na terytorium Rzeczypospolitej Polskiej w procedurze homologacji typu pojazdu dla pojazdów produkowanych w małych seriach.
 
@@ -319,22 +523,18 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 
 6. Minister właściwy do spraw transportu uchyla decyzję o uznaniu, o której mowa w ust. 1, w przypadku:
 
-- **1)** wystąpienia okoliczności, o których mowa w art. 70q:
-    - **a)** ust. 4 i 5 – w całości,
-    - **b)** ust. 6 – w zakresie wariantu lub wersji, w ramach których uznane świadectwo homologacji typu pojazdu wygasło;
+- **1)** wystąpienia okoliczności, o których mowa w art. 70q: ust. 4 i 5 – w całości, ust. 6 – w zakresie wariantu lub wersji, w ramach których uznane świadectwo homologacji typu pojazdu wygasło;
+    - **a)**
+    - **b)**
 
 - **2)** nieusunięcia zagrożeń, o których mowa w art. 70u ust. 1;
 - **3)** nieuwzględnienia zastrzeżeń, o których mowa w art. 70u ust. 3 pkt 3.
-
-**Art. 70l.**
 
 1. Na wniosek producenta, minister właściwy do spraw transportu przekazuje właściwym w sprawach homologacji organom państw członkowskich Unii Europejskiej kopie świadectwa homologacji typu pojazdu dla pojazdów produkowanych w małych seriach, w celu uznania tego świadectwa.
 
 2. W przypadku gdy pojazd, który uzyskał świadectwo homologacji typu pojazdu dla pojazdu produkowanego w małych seriach ma być sprzedany, zarejestrowany lub dopuszczony do ruchu na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, minister właściwy do spraw transportu, na wniosek właściciela pojazdu, wydaje kopię świadectwa homologacji typu pojazdu dla pojazdów produkowanych w małych seriach.
 
 3. W przypadku otrzymania od właściwego organu państwa członkowskiego Unii Europejskiej lub właściciela pojazdu, o którym mowa w ust. 2, świadectwa homologacji typu pojazdu dla pojazdów produkowanych w małych seriach, minister właściwy do spraw transportu uznaje to świadectwo w terminie 60 dni od dnia otrzymania, jeżeli wymagania techniczne stanowiące podstawę do jego wydania są równoważne wymaganiom technicznym obowiązującym na terytorium Rzeczypospolitej Polskiej w procedurze homologacji typu pojazdu dla pojazdów produkowanych w małych seriach.
-
-**Art. 70m.**
 
 1. W procedurze homologacji typu WE pojazdu dla pojazdów produkowanych w małych seriach, stosuje się wyłącznie procedurę mieszaną, w ramach której minister właściwy do spraw transportu, w drodze decyzji administracyjnej:
 
@@ -346,48 +546,42 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 3. W procedurze homologacji typu pojazdu dla pojazdów produkowanych w małych seriach:
 
 - **1)** niektóre wymagania, dotyczące jednego lub kilku przedmiotów wyposażenia lub części, zastępuje się wymaganiami alternatywnymi, określonymi w przepisach wydanych na podstawie art. 70zm ust. 1 pkt 2;
-- **2)** minister właściwy do spraw transportu zwalnia z obowiązku uzyskania jednego lub kilku świadectw homologacji typu WE przedmiotu wyposażenia lub części lub świadectwa homologacji typu EKG ONZ pod warunkiem zastąpienia ich:
-    - **a)** sprawozdaniami zawierającymi pozytywne wyniki badań tych przedmiotów wyposażenia lub części, uzyskiwanymi na zasadach określonych w ust. 1 pkt 2,
-    - **b)** dokumentami zawierającymi dane i informacje o wymaganiach technicznych przedmiotów wyposażenia lub części wraz z oświadczeniem, że spełniają one zasadnicze wymagania określone w przepisach Unii Europejskiej dotyczących badań homologacyjnych lub regulaminach EKG ONZ.
+- **2)** minister właściwy do spraw transportu zwalnia z obowiązku uzyskania jednego lub kilku świadectw homologacji typu WE przedmiotu wyposażenia lub części lub świadectwa homologacji typu EKG ONZ pod warunkiem zastąpienia ich: sprawozdaniami zawierającymi pozytywne wyniki badań tych przedmiotów wyposażenia lub części, uzyskiwanymi na zasadach określonych w ust. 1 pkt 2, dokumentami zawierającymi dane i informacje o wymaganiach technicznych przedmiotów wyposażenia lub części wraz z oświadczeniem, że spełniają one zasadnicze wymagania określone w przepisach Unii Europejskiej dotyczących badań homologacyjnych lub regulaminach EKG ONZ.
+    - **a)**
+    - **b)**
 
 4. Przedmioty wyposażenia lub części, o których mowa w ust. 3, określają załączniki IV i XI do dyrektywy 2007/46/WE.
 
 5. Przepis ust. 3 stosuje się w odniesieniu do pojazdów kategorii L, R, T w zakresie przedmiotów wyposażenia lub części określonych w:
 
-- **1)** części I i II oraz części II dodatku 1 do rozdziału B załącznika II do dyrektywy 2003/37/WE Parlamentu Europejskiego i Rady z dnia 26 maja 2003 r. w sprawie homologacji typu ciągników rolniczych lub leśnych, ich przyczep i wymiennych holowanych maszyn, łącznie z ich układami, częściami i oddzielnymi zespołami technicznymi oraz uchylającej dyrektywę 74/150/EWG (Dz. Urz. UE L 171 z 09.07.2003, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne rozdz. 13, t. 31, str. 311, z późn. zm.);
-- **2)** załączniku I do dyrektywy 2002/24/WE Parlamentu Europejskiego i Rady z dnia 18 marca 2002 r. w sprawie homologacji typu dwu- lub trzykołowych pojazdów mechanicznych i uchylającej dyrektywę Rady 92/61/EWG (Dz. Urz. WE L 124 z
-
-09. 05.2002, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne rozdz. 13, t. 29, str. 399, z późn. zm.).
-
-**Art. 70n.**
+- **1)** części I i II oraz części II dodatku 1 do rozdziału B załącznika II do dyrektywy 2003/37/WE Parlamentu Europejskiego i Rady z dnia 26 maja 2003 r. w sprawie homologacji typu ciągników rolniczych lub leśnych, ich przyczep i wymiennych holowanych maszyn, łącznie z ich układami, częściami i oddzielnymi zespołami technicznymi oraz uchylającej dyrektywę 74/150/EWG (Dz. Urz. UE L 171 z 09.07.2003, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 31, str. 311, z późn. zm.);
+- **2)** załączniku I do dyrektywy 2002/24/WE Parlamentu Europejskiego i Rady z dnia 18 marca 2002 r. w sprawie homologacji typu dwu- lub trzykołowych pojazdów mechanicznych i uchylającej dyrektywę Rady 92/61/EWG (Dz. Urz. WE L 124 z 09.05.2002, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 29, str. 399, z późn. zm.).
 
 1. Minister właściwy do spraw transportu wydaje lub zmienia:
 
-- **1)** świadectwo homologacji typu pojazdu lub świadectwo homologacji typu WE pojazdu, jeżeli:
-    - **a)** świadectwa homologacji typu WE przedmiotu wyposażenia lub części albo świadectwa homologacji typu EKG ONZ potwierdzają, że dany typ pojazdu odpowiada wymaganiom i warunkom określonym w pkt 2 i 3,
-    - **b)** protokół z badania homologacyjnego typu pojazdu wraz ze sprawozdaniem potwierdza spełnianie przez dany typ pojazdu warunków technicznych zawartych w opisie technicznym, w odniesieniu do wszystkich homologacji typu przedmiotów wyposażenia lub części, odpowiednio do wymagań dla danej kategorii pojazdu,
-    - **c)** warunki lub ograniczenia zawarte w informacji i instrukcji, o której mowa w art. 70h ust. 5 pkt 1 lit. b tiret piąte, nie zagrażają bezpieczeństwu ruchu drogowego lub środowisku;
+- **1)** świadectwo homologacji typu pojazdu lub świadectwo homologacji typu WE pojazdu, jeżeli: świadectwa homologacji typu WE przedmiotu wyposażenia lub części albo świadectwa homologacji typu EKG ONZ potwierdzają, że dany typ pojazdu odpowiada wymaganiom i warunkom określonym w pkt 2 i 3, protokół z badania homologacyjnego typu pojazdu wraz ze sprawozdaniem potwierdza spełnianie przez dany typ pojazdu warunków technicznych zawartych w opisie technicznym, w odniesieniu do wszystkich homologacji typu przedmiotów wyposażenia lub części, odpowiednio do wymagań dla danej kategorii pojazdu, warunki lub ograniczenia zawarte w informacji i instrukcji, o której mowa w art. 70h ust. 5 pkt 1 lit. b tiret piąte, nie zagrażają bezpieczeństwu ruchu drogowego lub środowisku;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **2)** świadectwa homologacji typu WE przedmiotu wyposażenia lub części – jeżeli sprawozdanie zawierające wyniki badań homologacyjnych potwierdza, że dany typ przedmiotu wyposażenia lub części odpowiada:
-    - **a)** wymaganiom technicznym określonym w niniejszym rozdziale i przepisach Unii Europejskiej dotyczących badań homologacyjnych,
-    - **b)** warunkom technicznym określonym w rozdziale 1,
-    - **c)** warunkom określonym w ustawie z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji (Dz. U. Nr 25, poz. 202, z późn. zm. );
+- **2)** świadectwa homologacji typu WE przedmiotu wyposażenia lub części – jeżeli sprawozdanie zawierające wyniki badań homologacyjnych potwierdza, że dany typ przedmiotu wyposażenia lub części odpowiada: wymaganiom technicznym określonym w niniejszym rozdziale i przepisach Unii Europejskiej dotyczących badań homologacyjnych, warunkom technicznym określonym w rozdziale 1, warunkom określonym w ustawie z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji (Dz. U. Nr 25, poz. 202, z późn. zm.);
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **3)** świadectwa homologacji typu EKG ONZ – jeżeli sprawozdanie zawierające wyniki badań homologacyjnych potwierdza, że dany typ przedmiotu wyposażenia lub części odpowiada:
-    - **a)** wymaganiom technicznym określonym w niniejszym rozdziale i regulaminach EKG ONZ,
-    - **b)** warunkom technicznym określonym w rozdziale 1,
-    - **c)** warunkom określonym w ustawie z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji;
+- **3)** świadectwa homologacji typu EKG ONZ – jeżeli sprawozdanie zawierające wyniki badań homologacyjnych potwierdza, że dany typ przedmiotu wyposażenia lub części odpowiada: wymaganiom technicznym określonym w niniejszym rozdziale i regulaminach EKG ONZ, warunkom technicznym określonym w rozdziale 1, warunkom określonym w ustawie z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **4)** świadectwo homologacji sposobu montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem – jeżeli protokół z badania homologacyjnego sposobu montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem wraz ze sprawozdaniem potwierdza, że:
-    - **a)** elementy instalacji przystosowującej dany typ pojazdu do zasilania gazem odpowiadają wymaganiom technicznym określonym w niniejszym rozdziale i regulaminach EKG ONZ,
-    - **b)** sposób montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem odpowiada warunkom technicznym określonym w rozdziale 1 i wymaganiom technicznym określonym w regulaminach EKG ONZ,
-    - **c)** elementy instalacji przystosowującej dany typ pojazdu do zasilania gazem odpowiadają warunkom określonym w ustawie z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji.
+- **4)** świadectwo homologacji sposobu montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem – jeżeli protokół z badania homologacyjnego sposobu montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem wraz ze sprawozdaniem potwierdza, że: elementy instalacji przystosowującej dany typ pojazdu do zasilania gazem odpowiadają wymaganiom technicznym określonym w niniejszym rozdziale i regulaminach EKG ONZ, sposób montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem odpowiada warunkom technicznym określonym w rozdziale 1 i wymaganiom technicznym określonym w regulaminach EKG ONZ, elementy instalacji przystosowującej dany typ pojazdu do zasilania gazem odpowiadają warunkom określonym w ustawie z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji.
+    - **a)**
+    - **b)**
+    - **c)**
 
 2. Producentowi, którego siedziba znajduje się poza terytorium państwa członkowskiego Unii Europejskiej, minister właściwy do spraw transportu wydaje świadectwo homologacji typu WE, jeżeli producent posiada upoważnionego przedstawiciela na terytorium państwa członkowskiego Unii Europejskiej do reprezentowania go w sprawach homologacji.
 
 3. W przypadku stosowania, w procedurze homologacji typu WE pojazdu albo w procedurze homologacji typu pojazdu, procedury mieszanej, minister właściwy do spraw transportu, na wniosek producenta, zwalnia go, w drodze decyzji administracyjnej, z przedstawienia jednego lub kilku świadectw homologacji typu WE przedmiotu wyposażenia lub części lub świadectwa homologacji typu EKG ONZ, do badania homologacyjnego typu pojazdu, pod warunkiem zastąpienia ich sprawozdaniami zawierającymi pozytywne wyniki badań homologacyjnych tych przedmiotów wyposażenia lub części.
-
-**Art. 70o.**
 
 1. Minister właściwy do spraw transportu, na wniosek producenta, udziela, w drodze decyzji administracyjnej, zezwolenia na dopuszczenie do ruchu drogowego pojazdu z końcowej partii produkcji, w terminie 3 miesięcy od dnia złożenia wniosku.
 
@@ -399,7 +593,7 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 - **2)** 12 miesięcy – dla pojazdów kompletnych kategorii M, N, O,
 - **3)** 18 miesięcy – dla pojazdów skompletowanych kategorii M, N, O,
 - **4)** 24 miesięcy – dla pojazdów kompletnych kategorii T, C, R,
-- **5)** 30 miesięcy – dla pojazdów skompletowanych kategorii T, C, R – licząc od dnia wygaśnięcia świadectwa homologacji typu WE pojazdu albo świadectwa homologacji typu pojazdu.
+- **5)** 30 miesięcy – dla pojazdów skompletowanych kategorii T, C, R licząc od dnia wygaśnięcia świadectwa homologacji typu WE pojazdu albo świadectwa homologacji typu pojazdu.
 
 4. Do wniosku, o którym mowa w ust. 1, dołącza się:
 
@@ -411,30 +605,26 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 
 6. Producent we wniosku, o którym mowa w ust. 1, jest obowiązany podać liczbę pojazdów oraz przyczyny techniczne lub ekonomiczne, powodujące niespełnianie przez pojazdy nowych wymagań technicznych.
 
-**Art. 70p.**
-
 1. Minister właściwy do spraw transportu odmawia wydania:
 
-- **1)** świadectwa homologacji typu – w przypadku gdy:
-    - **a)** typ pojazdu, typ przedmiotu wyposażenia lub części nie spełnia wymagań, o których mowa w art. 70n ust. 1 pkt 1–3,
-    - **b)** zostało wydane świadectwo homologacji typu WE przez inne państwo członkowskie Unii Europejskiej, na dany typ;
+- **1)** świadectwa homologacji typu – w przypadku gdy: typ pojazdu, typ przedmiotu wyposażenia lub części nie spełnia wymagań, o których mowa w art. 70n ust. 1 pkt 1–3, zostało wydane świadectwo homologacji typu WE przez inne państwo członkowskie Unii Europejskiej, na dany typ;
+    - **a)**
+    - **b)**
 
 - **2)** świadectwa homologacji sposobu montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem – w przypadku gdy elementy instalacji oraz sposób montażu nie spełnia wymagań, o których mowa w art. 70n ust. 1 pkt 4;
-- **3)** zezwolenia na dopuszczenie do ruchu drogowego pojazdu z końcowej partii produkcji – w przypadku:
-    - **a)** niespełniania warunków końcowej partii produkcji,
-    - **b)** niedostatecznego uzasadnienia niespełnienia przez pojazdy nowych wymagań technicznych.
+- **3)** zezwolenia na dopuszczenie do ruchu drogowego pojazdu z końcowej partii produkcji – w przypadku: niespełniania warunków końcowej partii produkcji, niedostatecznego uzasadnienia niespełnienia przez pojazdy nowych wymagań technicznych.
+    - **a)**
+    - **b)**
 
 2. Minister właściwy do spraw transportu odmawia zmiany świadectwa homologacji typu w przypadkach, o których mowa w ust. 1 pkt 1 lit. a i pkt 2.
 
 3. Minister właściwy do spraw transportu może odmówić wydania świadectwa homologacji typu WE, jeżeli stwierdzi, że typ pojazdu, typ przedmiotu wyposażenia lub części stanowi poważne zagrożenie dla bezpieczeństwa w ruchu drogowym lub ochrony środowiska, mimo iż spełnia wymagania, o których mowa w art. 70n ust. 1 pkt 1–3.
 
-**Art. 70q.**
-
 1. Producent jest obowiązany niezwłocznie powiadomić ministra właściwego do spraw transportu o:
 
-- **1)** potrzebie zmiany danych i informacji zawartych w świadectwie homologacji typu WE pojazdu wydanym na terytorium Rzeczypospolitej Polskiej albo świadectwie homologacji typu pojazdu w przypadku:
-    - **a)** zmiany warunków stanowiących podstawę do wydania świadectwa,
-    - **b)** zmiany w typie pojazdu, typie przedmiotu wyposażenia lub części wpływającej na zmianę warunków stanowiących podstawę do wydania tego świadectwa;
+- **1)** potrzebie zmiany danych i informacji zawartych w świadectwie homologacji typu WE pojazdu wydanym na terytorium Rzeczypospolitej Polskiej albo świadectwie homologacji typu pojazdu w przypadku: zmiany warunków stanowiących podstawę do wydania świadectwa, zmiany w typie pojazdu, typie przedmiotu wyposażenia lub części wpływającej na zmianę warunków stanowiących podstawę do wydania tego świadectwa;
+    - **a)**
+    - **b)**
 
 - **2)** zaprzestaniu produkcji danego typu pojazdu, typu przedmiotu wyposażenia lub części.
 
@@ -448,9 +638,9 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 
 4. Świadectwo homologacji typu WE pojazdu wydane na terytorium Rzeczypospolitej Polskiej albo świadectwo homologacji typu pojazdu wygasa:
 
-- **1)** w przypadkach, o których mowa w ust. 1:
-    - **a)** pkt 1 lit. a, jeżeli producent nie uzyska zmiany tego świadectwa albo uzyska nowe świadectwo,
-    - **b)** pkt 2;
+- **1)** w przypadkach, o których mowa w ust. 1: pkt 1 lit. a, jeżeli producent nie uzyska zmiany tego świadectwa albo uzyska nowe świadectwo, pkt 2;
+    - **a)**
+    - **b)**
 
 - **2)** jeżeli upłynął termin jego ważności.
 
@@ -458,26 +648,22 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 
 6. W przypadku gdy jeden z wariantów w ramach typu pojazdu lub jedna z wersji w ramach wariantu przestaje spełniać wymagania stanowiące podstawę do wydania świadectwa homologacji, świadectwo homologacji typu pojazdu lub świadectwo homologacji typu WE pojazdu wygasa wyłącznie w takim zakresie, w jakim dotyczy tego wariantu lub wersji.
 
-**Art. 70r.**
-
 1. Minister właściwy do spraw transportu cofa świadectwo homologacji typu wydane na terytorium Rzeczypospolitej Polskiej w przypadku:
 
-- **1)** negatywnego wyniku kontroli zgodności:
-    - **a)** produkcji pojazdu, przedmiotu wyposażenia lub części,
-    - **b)** montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem;
+- **1)** negatywnego wyniku kontroli zgodności: produkcji pojazdu, przedmiotu wyposażenia lub części, montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem;
+    - **a)**
+    - **b)**
 
 - **2)** uzyskania informacji, że przed dniem wydania tego świadectwa zostało wydane świadectwo homologacji typu WE pojazdu przez inne niż Rzeczpospolita Polska państwo członkowskie Unii Europejskiej, w odniesieniu do tego samego typu pojazdu;
 - **3)** niewykonania przez producenta czynności, o których mowa w art. 70u ust. 1.
 
 2. W przypadku, o którym mowa w ust. 1 pkt 1, minister właściwy do spraw transportu wzywa producenta do usunięcia niezgodności, w terminie 90 dni od dnia otrzymania wezwania. W przypadku nieusunięcia niezgodności w tym terminie, minister właściwy do spraw transportu cofa świadectwo homologacji typu.
 
-**Art. 70s.**
-
 1. Producent nowych pojazdów jest obowiązany:
 
-- **1)** wystawić: 1 albo art. 70k ust. 1;
-    - **a)** świadectwo zgodności WE albo świadectwo zgodności – do każdego pojazdu, na którego typ wydano odpowiednio świadectwo homologacji typu WE pojazdu albo świadectwo homologacji typu pojazdu, albo
-    - **b)** świadectwo zgodności – do każdego pojazdu, na którego typ wydano świadectwo homologacji typu wydane na dany typ pojazdu zgodnie z procedurą homologacji typu przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej i uznanego w trybie art. 70j ust.
+- **1)** wystawić: świadectwo zgodności WE albo świadectwo zgodności – do każdego pojazdu, na którego typ wydano odpowiednio świadectwo homologacji typu WE pojazdu albo świadectwo homologacji typu pojazdu, albo świadectwo zgodności – do każdego pojazdu, na którego typ wydano świadectwo homologacji typu wydane na dany typ pojazdu zgodnie z procedurą homologacji typu przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej i uznanego w trybie art. 70j ust. 1 albo art. 70k ust. 1;
+    - **a)**
+    - **b)**
 
 - **2)** złożyć oświadczenie zawierające dane i informacje o pojeździe niezbędne do rejestracji i ewidencji pojazdu;
 - **3)** zamieścić w instrukcji obsługi lub podręczniku użytkownika informacje zawierające ograniczenia lub specjalne warunki montażu mające wpływ na bezpieczeństwo w ruchu drogowym lub ochronę środowiska – o ile występują.
@@ -495,15 +681,11 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 - **1)** znak homologacji typu przedmiotu wyposażenia lub części, na każdym wyprodukowanym przedmiocie wyposażenia lub części, jeżeli obowiązek ten wynika z odpowiednich wymagań technicznych określonych w przepisach Unii Europejskiej lub regulaminach EKG ONZ albo
 - **2)** nazwę lub znak handlowy oraz numer indentyfikacyjny, w przypadku braku obowiązku, o którym mowa w pkt 1.
 
-**Art. 70t.**
-
 1. Producent pojazdu jest obowiązany udostępnić producentowi przedmiotu wyposażenia lub części, dane i informacje niezbędne do uzyskania świadectwa homologacji typu WE przedmiotu wyposażenia lub części mające wpływ na bezpieczeństwo w ruchu drogowym lub środowisko.
 
 2. Producent pojazdu ma prawo zobowiązać producenta przedmiotu wyposażenia lub części do ochrony poufności wszelkich niejawnych informacji, o których mowa w ust. 1, w tym dotyczących praw własności intelektualnej.
 
 3. Producent przedmiotu wyposażenia lub części jest obowiązany udostępnić producentowi pojazdu dane i informacje zawierające ograniczenia lub specjalne warunki montażu mające wpływ na bezpieczeństwo w ruchu drogowym lub środowisko.
-
-**Art. 70u.**
 
 1. Jeżeli producent, który uzyskał świadectwo homologacji typu WE pojazdu, stwierdził w pojeździe wprowadzonym do obrotu zagrożenia dla bezpieczeństwa w ruchu drogowym lub środowiska, jest obowiązany niezwłocznie powiadomić o tym ministra właściwego do spraw transportu oraz podjąć działania polegające na usunięciu tych zagrożeń.
 
@@ -533,15 +715,13 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 
 8. Koszty działań związanych z usunięciem zagrożeń ponosi producent pojazdu.
 
-**Art. 70v.**
-
 1. Minister właściwy do spraw transportu przekazuje właściwym w sprawach homologacji organom:
 
-- **1)** państw członkowskich Unii Europejskiej: c,
-    - **a)** kopię świadectwa homologacji typu WE pojazdu – w terminie 20 dni roboczych od dnia wydania lub zmiany świadectwa homologacji typu WE pojazdu,
-    - **b)** wykaz wydanych lub których wydania odmówiono, zmienionych, cofniętych, wygasłych świadectw homologacji typu WE przedmiotu wyposażenia lub części – w terminie 20 dni roboczych po zakończeniu każdego kwartału, z zastrzeżeniem lit.
-    - **c)** wykaz wydanych lub których wydania odmówiono świadectw homologacji typu WE przedmiotu wyposażenia lub części – w terminie 5 dni roboczych po zakończeniu każdego miesiąca w odniesieniu do pojazdów kategorii L, T, C,
-    - **d)** informację o: – odmowie wydania lub cofnięciu świadectwa homologacji typu WE pojazdu albo świadectwa homologacji typu WE przedmiotu wyposażenia lub części, wraz ze wskazaniem przyczyny – niezwłocznie, ale nie później niż w terminie 20 dni roboczych od dnia odmowy wydania lub cofnięcia odpowiednio świadectwa homologacji typu WE pojazdu albo świadectwa homologacji typu WE przedmiotu wyposażenia lub części, – wygaśnięciu świadectwa homologacji typu WE pojazdu – w terminie 20 dni roboczych od dnia wygaśnięcia tego świadectwa, – zaprzestaniu produkcji danego typu pojazdu, dla którego wydano świadectwo homologacji typu WE pojazdu – w terminie 20 dni roboczych od dnia otrzymania od producenta pojazdu powiadomienia o zaprzestaniu przez niego produkcji określonego typu pojazdu, – wydanym zezwoleniu na dopuszczenie do ruchu drogowego pojazdu z końcowej partii produkcji, dla których świadectwo homologacji typu WE pojazdu utraciło ważność – w terminie 20 dni roboczych po zakończeniu roku kalendarzowego;
+- **1)** państw członkowskich Unii Europejskiej: kopię świadectwa homologacji typu WE pojazdu – w terminie 20 dni roboczych od dnia wydania lub zmiany świadectwa homologacji typu WE pojazdu, wykaz wydanych lub których wydania odmówiono, zmienionych, cofniętych, wygasłych świadectw homologacji typu WE przedmiotu wyposażenia lub części – w terminie 20 dni roboczych po zakończeniu każdego kwartału, z zastrzeżeniem lit. c, wykaz wydanych lub których wydania odmówiono świadectw homologacji typu WE przedmiotu wyposażenia lub części – w terminie 5 dni roboczych po zakończeniu każdego miesiąca w odniesieniu do pojazdów kategorii L, T, C, informację o: – odmowie wydania lub cofnięciu świadectwa homologacji typu WE pojazdu albo świadectwa homologacji typu WE przedmiotu wyposażenia lub części, wraz ze wskazaniem przyczyny – niezwłocznie, ale nie póź niej niż w terminie 20 dni roboczych od dnia odmowy wydania lub cofnięcia odpowiednio świadectwa homologacji typu WE pojazdu albo świadectwa homologacji typu WE przedmiotu wyposażenia lub części, – wygaśnięciu świadectwa homologacji typu WE pojazdu – w terminie 20 dni roboczych od dnia wygaśnięcia tego świadectwa, – zaprzestaniu produkcji danego typu pojazdu, dla którego wydano świadectwo homologacji typu WE pojazdu – w terminie 20 dni roboczych od dnia otrzymania od producenta pojazdu powiadomienia o zaprzestaniu przez niego produkcji określonego typu pojazdu, – wydanym zezwoleniu na dopuszczenie do ruchu drogowego pojazdu z końcowej partii produkcji, dla których świadectwo homologacji typu WE pojazdu utraciło ważność – w terminie 20 dni roboczych po zakończeniu roku kalendarzowego;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **2)** państw będących stroną Porozumienia – wykaz wydanych lub których wydania odmówiono, zmienionych, cofniętych, wygasłych świadectw homologacji typu EKG ONZ – w terminie 20 dni roboczych po zakończeniu każdego kwartału.
 
@@ -552,15 +732,13 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 
 3. Minister właściwy do spraw transportu, na wniosek innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, przekazuje kopię wydanego przez niego świadectwa homologacji typu WE pojazdu albo świadectwa homologacji typu WE przedmiotu wyposażenia lub części, w terminie 20 dni roboczych od dnia otrzymania wniosku.
 
-**Art. 70w.**
-
 1. Minister właściwy do spraw transportu przeprowadza kontrolę zgodności produkcji pojazdu, przedmiotu wyposażenia, części lub kontrolę zgodności montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem:
 
 - **1)** przed wydaniem świadectwa homologacji typu w zakresie sposobu i metod zapewnienia zgodności produkcji, wskazanych przez producenta w deklaracji, o której mowa w art. 70h ust. 5 pkt 7;
 - **2)** przed wydaniem świadectwa homologacji sposobu montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem w zakresie sposobu i metod zapewnienia zgodności montażu, wskazanych w deklaracji, o której mowa w art. 70h ust. 6 pkt 3;
-- **3)** w przypadku uzyskania informacji o zastrzeżeniach co do:
-    - **a)** wyprodukowania pojazdów, przedmiotów wyposażenia lub części niezgodnie z warunkami określonymi w odpowiednim świadectwie homologacji typu, wydanym na terytorium Rzeczypospolitej Polskiej,
-    - **b)** dokonania montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem niezgodnie z warunkami określonymi w odpowiednim świadectwie homologacji sposobu montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem, wydanym na terytorium Rzeczypospolitej Polskiej.
+- **3)** w przypadku uzyskania informacji o zastrzeżeniach co do: wyprodukowania pojazdów, przedmiotów wyposażenia lub części niezgodnie z warunkami określonymi w odpowiednim świadectwie homologacji typu, wydanym na terytorium Rzeczypospolitej Polskiej, dokonania montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem niezgodnie z warunkami określonymi w odpowiednim świadectwie homologacji sposobu montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem, wydanym na terytorium Rzeczypospolitej Polskiej.
+    - **a)**
+    - **b)**
 
 2. Minister właściwy do spraw transportu przeprowadza kontrolę zgodności produkcji, o której mowa w ust. 1 pkt 3 lit. a, w odniesieniu do świadectwa homologacji typu WE, w przypadku informacji o zastrzeżeniach zgłoszonych przez inne niż Rzeczpospolita Polska państwo członkowskie Unii Europejskiej, do typu pojazdu, typu przedmiotu wyposażenia lub części, które uznał za zasadne.
 
@@ -568,21 +746,17 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 
 4. Minister właściwy do spraw transportu może upoważnić jednostkę uprawnioną do wykonywania badań homologacyjnych, do przeprowadzenia kontroli zgodności produkcji pojazdu, przedmiotu wyposażenia lub części, lub kontroli zgodności montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem, o której mowa w ust. 1.
 
-5. Przepisu ust. 4 nie stosuje się do jednostki uprawnionej, o której mowa w art. 70zb ust. 1.
-
-**Art. 70x.** W przypadku otrzymania informacji o zastrzeżeniach do pojazdu, przedmiotu wyposażenia lub części, na którego typ zostało wydane świadectwo homologacji typu WE przez inne państwo członkowskie Unii Europejskiej, minister właściwy do spraw transportu niezwłocznie przekazuje te informacje do właściwego organu państwa, które wydało świadectwo homologacji typu WE.
-
-**Art. 70y.**
+5. Przepisu ust. 4 nie stosuje się do jednostki uprawnionej, o której mowa w art. 70zb ust. 1. W przypadku otrzymania informacji o zastrzeżeniach do pojazdu, przedmiotu wyposażenia lub części, na którego typ zostało wydane świadectwo homologacji typu WE przez inne państwo członkowskie Unii Europejskiej, minister właściwy do spraw transportu niezwłocznie przekazuje te informacje do właściwego organu państwa, które wydało świadectwo homologacji typu WE.
 
 1. Jednostką właściwą do przeprowadzania badań homologacyjnych, badań potwierdzających spełnienie odpowiednich warunków lub wymagań technicznych oraz kontroli zgodności jest podmiot wyznaczony przez ministra właściwego do spraw transportu, zwany dalej „jednostką uprawnioną”.
 
 2. Do zadań jednostki uprawnionej, odpowiednio do zakresu uprawnienia, należy:
 
-- **1)** w zakresie homologacji:
-    - **a)** przeprowadzanie badań homologacyjnych typu pojazdu,
-    - **b)** przeprowadzanie badań homologacyjnych typu przedmiotu wyposażenia lub części,
-    - **c)** przeprowadzanie badań homologacyjnych sposobu montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem,
-    - **d)** przeprowadzanie kontroli zgodności produkcji pojazdu, przedmiotu wyposażenia, części lub kontroli zgodności montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem;
+- **1)** w zakresie homologacji: przeprowadzanie badań homologacyjnych typu pojazdu, przeprowadzanie badań homologacyjnych typu przedmiotu wyposażenia lub części, przeprowadzanie badań homologacyjnych sposobu montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem, przeprowadzanie kontroli zgodności produkcji pojazdu, przedmiotu wyposażenia, części lub kontroli zgodności montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **2)** w zakresie dopuszczenia jednostkowego pojazdu – przeprowadzanie badań potwierdzających spełnienie odpowiednich warunków lub wymagań technicznych danego pojazdu, w celu dopuszczenia jednostkowego pojazdu;
 - **3)** w zakresie dopuszczenia indywidualnego WE pojazdu – przeprowadzanie badań potwierdzających spełnienie odpowiednich warunków lub wymagań technicznych danego pojazdu, w celu dopuszczenia indywidualnego WE pojazdu;
@@ -593,13 +767,11 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 - **1)** badań homologacyjnych,
 - **2)** kontroli zgodności produkcji,
 - **3)** kontroli zgodności montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem,
-- **4)** badań potwierdzających spełnienie wymagań technicznych przez typ przedmiotu wyposażenia lub części – pokrywa producent albo podmiot dokonujący montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem.
+- **4)** badań potwierdzających spełnienie wymagań technicznych przez typ przedmiotu wyposażenia lub części pokrywa producent albo podmiot dokonujący montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem.
 
 4. W przypadku upoważnienia jednostki uprawnionej do przeprowadzenia kontroli, o której mowa w art. 70w ust. 1 pkt 3, koszty tej kontroli pokrywa producent albo podmiot dokonujący montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem, jeżeli wynik kontroli potwierdzi uzyskane informacje o zastrzeżeniach.
 
 5. Koszty badań potwierdzających spełnienie odpowiednich warunków lub wymagań technicznych w celu dopuszczenia jednostkowego pojazdu albo dopuszczenia indywidualnego WE pojazdu pokrywa producent, importer lub właściciel pojazdu.
-
-**Art. 70z.**
 
 1. Jednostka uprawniona przeprowadza badania homologacyjne na wniosek odpowiednio producenta albo podmiotu dokonującego montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem.
 
@@ -611,9 +783,9 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 - **4)** dokumenty potwierdzające spełnienie wymagań technicznych przez typ przedmiotu wyposażenia lub części przy zastosowaniu wirtualnych metod testowania – o ile producent zastosował takie metody;
 - **5)** instrukcję obsługi pojazdu z zamontowaną instalacją przystosowującą dany typ pojazdu do zasilania gazem – jeżeli jest wymagana;
 - **6)** dokumenty potwierdzające, że podmiot dokonujący montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem oraz jego zakłady montujące posiadają wieloskładnikowy analizator spalin i przyrząd do badania szczelności tej instalacji – jeżeli są wymagane;
-- **7)** w przypadku badań homologacyjnych przeprowadzanych w celu uzyskania świadectwa homologacji typu WE pojazdu albo świadectwa homologacji typu pojazdu, dla pojazdów produkowanych w małych seriach: 70m ust. 1,
-    - **a)** sprawozdania zawierające wyniki badań homologacyjnych typu przedmiotu wyposażenia lub części, o których mowa w art.
-    - **b)** dokumenty i oświadczenie, o którym mowa w art. 70h ust. 5 pkt 1 lit. e;
+- **7)** w przypadku badań homologacyjnych przeprowadzanych w celu uzyskania świadectwa homologacji typu WE pojazdu albo świadectwa homologacji typu pojazdu, dla pojazdów produkowanych w małych seriach: sprawozdania zawierające wyniki badań homologacyjnych typu przedmiotu wyposażenia lub części, o których mowa w art. 70m ust. 1, dokumenty i oświadczenie, o którym mowa w art. 70h ust. 5 pkt 1 lit. e;
+    - **a)**
+    - **b)**
 
 - **8)** w przypadku badań homologacyjnych przeprowadzanych w celu uzyskania świadectwa homologacji typu WE pojazdu albo świadectwa homologacji typu pojazdu w procedurze mieszanej, o której mowa w art. 70n ust. 3 – sprawozdania zawierające wyniki badań homologacyjnych tych typów przedmiotów wyposażenia lub części.
 
@@ -630,7 +802,9 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 
 7. W przypadku określenia przez producenta zakresu wymagań technicznych, do sprawdzenia z zastosowaniem wirtualnych metod testowania, jednostka uprawniona przeprowadza procedurę walidacji, o której mowa w załączniku XVI do dyrektywy 2007/46/WE, z której sporządza sprawozdanie. Jednostka uprawniona w porozumieniu z ministrem właściwym do spraw transportu na podstawie sprawozdania potwierdza możliwość zastosowania wirtualnych metod testowania.
 
-8. W sprawozdaniu, o którym mowa w ust. 6, jednostka uprawniona zamieszcza informacje o zastosowanych podczas przeprowadzanych badań homologacyjnych typu WE pojazdu, typu WE przedmiotu wyposażenia lub części wirtualnych metodach testowania. Art. 70za. 1. Wyznaczenia jednostki uprawnionej dokonuje minister właściwy do spraw transportu, w drodze decyzji administracyjnej, na wniosek zainteresowanego podmiotu, po uiszczeniu opłaty, przy czym jej wysokość w zależności od zakresu badań lub kontroli nie może przekroczyć 40 000 zł. W decyzji określa się szczegółowy zakres badań lub kontroli, do których jednostka jest uprawniona.
+8. W sprawozdaniu, o którym mowa w ust. 6, jednostka uprawniona zamieszcza informacje o zastosowanych podczas przeprowadzanych badań homologacyjnych typu WE pojazdu, typu WE przedmiotu wyposażenia lub części wirtualnych metodach testowania.
+
+1. Wyznaczenia jednostki uprawnionej dokonuje minister właściwy do spraw transportu, w drodze decyzji administracyjnej, na wniosek zainteresowanego podmiotu, po uiszczeniu opłaty, przy czym jej wysokość w zależności od zakresu badań lub kontroli nie może przekroczyć 40 000 zł. W decyzji określa się szczegółowy zakres badań lub kontroli, do których jednostka jest uprawniona.
 
 2. Jednostką uprawnioną może być podmiot, który spełnia następujące warunki:
 
@@ -655,38 +829,42 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 
 8. W przypadku badań homologacyjnych typu WE i badań potwierdzających spełnienie odpowiednich warunków lub wymagań technicznych danego pojazdu w celu dopuszczenia jednostkowego pojazdu albo dopuszczenia indywidualnego WE pojazdu, jednostka uprawniona może rozpocząć prowadzenie tych badań po dokonaniu przez ministra właściwego do spraw transportu zgłoszenia, o którym mowa w ust. 7.
 
-9. Minister właściwy do spraw transportu ogłasza, w drodze obwieszczenia, wykaz jednostek uprawnionych do przeprowadzania badań homologacyjnych oraz badań potwierdzających spełnienie odpowiednich warunków lub wymagań technicznych danego pojazdu w celu dopuszczenia jednostkowego pojazdu albo dopuszczenia indywidualnego WE pojazdu. Art. 70zb. 1. Producent pojazdów kategorii M, N, O lub podmiot przez niego upoważniony, spełniający warunki, o których mowa w art. 70za ust. 2 pkt 1–4, w odniesieniu do produkowanych przez tego producenta przedmiotów wyposażenia lub części, w zakresie określonym w załączniku XV do dyrektywy 2007/46/WE, może wystąpić z wnioskiem o wyznaczenie go jako jednostkę uprawnioną. Do wyznaczenia, przepisy art. 70za ust. 1 i 3–9, stosuje się odpowiednio.
+9. Minister właściwy do spraw transportu ogłasza, w drodze obwieszczenia, wykaz jednostek uprawnionych do przeprowadzania badań homologacyjnych oraz badań potwierdzających spełnienie odpowiednich warunków lub wymagań technicznych danego pojazdu w celu dopuszczenia jednostkowego pojazdu albo dopuszczenia indywidualnego WE pojazdu.
+
+1. Producent pojazdów kategorii M, N, O lub podmiot przez niego upoważniony, spełniający warunki, o których mowa w art. 70za ust. 2 pkt 1–4, w odniesieniu do produkowanych przez tego producenta przedmiotów wyposażenia lub części, w zakresie określonym w załączniku XV do dyrektywy 2007/46/WE, może wystąpić z wnioskiem o wyznaczenie go jako jednostkę uprawnioną. Do wyznaczenia, przepisy art. 70za ust. 1 i 3–9, stosuje się odpowiednio.
 
 2. Jednostka uprawniona, o której mowa w ust. 1:
 
 - **1)** przeprowadza badania homologacyjne wyłącznie we własnych obiektach;
-- **2)** nie może przeprowadzać badań homologacyjnych typu przedmiotu wyposażenia lub części na potrzeby uzyskania świadectwa homologacji typu WE pojazdu w odniesieniu do pojazdów produkowanych w małych seriach oraz pojazdów kategorii L, T lub C. Art. 70zc. 1. Nadzór nad jednostką uprawnioną w zakresie przeprowadzanych badań sprawuje minister właściwy do spraw transportu.
+- **2)** nie może przeprowadzać badań homologacyjnych typu przedmiotu wyposażenia lub części na potrzeby uzyskania świadectwa homologacji typu WE pojazdu w odniesieniu do pojazdów produkowanych w małych seriach oraz pojazdów kategorii L, T lub C.
+
+1. Nadzór nad jednostką uprawnioną w zakresie przeprowadzanych badań sprawuje minister właściwy do spraw transportu.
 
 2. W ramach sprawowanego nadzoru minister właściwy do spraw transportu:
 
 - **1)** sprawdza poprawność wykonywania badań i sporządzenia protokołu;
-- **2)** co najmniej raz na trzy lata przeprowadza kontrolę jednostki uprawnionej, o której mowa w:
-    - **a)** art. 70za ust. 1 – w zakresie spełniania warunków, o których mowa w art. 70za ust. 2,
-    - **b)** art. 70zb ust. 1 – w zakresie spełniania warunków, o których mowa w art. 70za ust. 2 pkt 1–4;
+- **2)** co najmniej raz na trzy lata przeprowadza kontrolę jednostki uprawnionej, o której mowa w: art. 70za ust. 1 – w zakresie spełniania warunków, o których mowa w art. 70za ust. 2, art. 70zb ust. 1 – w zakresie spełniania warunków, o których mowa w art. 70za ust. 2 pkt 1–4;
+    - **a)**
+    - **b)**
 
 - **3)** przeprowadza kontrolę jednostki uprawnionej w przypadku zawiadomienia o zmianie stanu faktycznego w zakresie warunków, o których mowa w art. 70za ust. 2 pkt 3.
 
 3. Minister właściwy do spraw transportu sporządza sprawozdanie oceniające z przeprowadzonej kontroli, o której mowa w ust. 2 pkt 2 i 3, oraz o którym mowa w art. 70za ust. 4, i przedstawia je jednostce uprawnionej.
 
-4. Minister właściwy do spraw transportu przedstawia Komisji Europejskiej, na jej wniosek, sprawozdanie oceniające z przeprowadzonej kontroli, o której mowa w ust. 2 pkt 2 lub 3 lub w art. 70za ust.
+4. Minister właściwy do spraw transportu przedstawia Komisji Europejskiej, na jej wniosek, sprawozdanie oceniające z przeprowadzonej kontroli, o której mowa w ust. 2 pkt 2 lub 3 lub w art. 70za ust. 4.
 
-4.
+5. Minister właściwy do spraw transportu wzywa jednostkę uprawnioną do usunięcia w terminie 90 dni naruszeń stwierdzonych w wyniku przeprowadzonych kontroli, o których mowa w ust. 2, i zawiesza jej uprawnienie do czasu usunięcia tych naruszeń. Minister właściwy do spraw transportu cofa, w drodze decyzji administracyjnej, uprawnienie, o którym mowa w art. 70za ust. 1 lub art. 70zb ust. 1, w przypadku stwierdzenia, że jednostka uprawniona:
 
-5. Minister właściwy do spraw transportu wzywa jednostkę uprawnioną do usunięcia w terminie 90 dni naruszeń stwierdzonych w wyniku przeprowadzonych kontroli, o których mowa w ust. 2, i zawiesza jej uprawnienie do czasu usunięcia tych naruszeń. Art. 70zd. Minister właściwy do spraw transportu cofa, w drodze decyzji administracyjnej, uprawnienie, o którym mowa w art. 70za ust. 1 lub art. 70zb ust. 1, w przypadku stwierdzenia, że jednostka uprawniona:
-
-- **1)** nie spełnia warunków określonych w: 70za ust. 1,
-    - **a)** art. 70za ust. 2 – w przypadku jednostki, o której mowa w art.
-    - **b)** art. 70za ust. 2 pkt 1–4 – w przypadku jednostki, o której mowa w art. 70zb ust. 1;
+- **1)** nie spełnia warunków określonych w: art. 70za ust. 2 – w przypadku jednostki, o której mowa w art. 70za ust. 1, art. 70za ust. 2 pkt 1–4 – w przypadku jednostki, o której mowa w art. 70zb ust. 1;
+    - **a)**
+    - **b)**
 
 - **2)** nie usunęła naruszeń w terminie, o którym mowa w art. 70zc ust. 5;
 - **3)** wielokrotnie przeprowadziła badania niezgodnie z zasadami określonymi w przepisach;
 - **4)** wielokrotnie sporządziła protokół z badania homologacyjnego lub sprawozdanie z tego badania niezgodnie ze stanem faktycznym;
-- **5)** nie zawiadomiła ministra właściwego do spraw transportu o zmianie danych i informacji oraz stanu faktycznego stanowiących podstawę do wydania uprawnienia. Art. 70ze. 1. Producent nowego typu przedmiotu wyposażenia lub części, nieobjętego procedurą homologacji, mogącego stwarzać zagrożenie dla bezpieczeństwa ruchu drogowego lub środowiska zamieszczonego w wykazie części lub wyposażenia określonym w załączniku XIII do dyrektywy 2007/46/WE, jest obowiązany uzyskać dla niego zezwolenie na dopuszczenie do obrotu, z zastrzeżeniem ust. 5.
+- **5)** nie zawiadomiła ministra właściwego do spraw transportu o zmianie danych i informacji oraz stanu faktycznego stanowiących podstawę do wydania uprawnienia.
+
+1. Producent nowego typu przedmiotu wyposażenia lub części, nieobjętego procedurą homologacji, mogącego stwarzać zagrożenie dla bezpieczeństwa ruchu drogowego lub środowiska zamieszczonego w wykazie części lub wyposażenia określonym w załączniku XIII do dyrektywy 2007/46/WE, jest obowiązany uzyskać dla niego zezwolenie na dopuszczenie do obrotu, z zastrzeżeniem ust. 5.
 
 2. Zezwolenie na dopuszczenie do obrotu wydaje, w drodze decyzji administracyjnej, za opłatą, minister właściwy do spraw transportu, na wniosek producenta, jeżeli typ przedmiotu wyposażenia lub części odpowiada wymaganiom określonym w przepisach Unii Europejskiej. Wysokość opłaty nie może przekroczyć 160 zł.
 
@@ -697,39 +875,50 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 - **3)** informację o sposobie oznaczania i pakowania przedmiotów wyposażenia lub części;
 - **4)** oświadczenie o wpisie do Centralnej Ewidencji Informacji o Działalności Gospodarczej albo do rejestru przedsiębiorców w Krajowym Rejestrze Sądowym;
 - **5)** deklarację o sposobie i metodach zapewnienia zgodności produkcji przedmiotu wyposażenia lub części zgodnie z wymaganiami technicznymi, o których mowa w ust. 1;
-- **6)** oświadczenie o następującej treści: „Oświadczam, że w zakresie typu przedmiotu wyposażenia lub części … złożyłem tylko jeden wniosek i tylko w jednym państwie członkowskim Unii Europejskiej”.
+- **6)** oświadczenie o następującej treści: „ Oświadczam, że w zakresie typu przedmiotu wyposażenia lub części … złożyłem tylko jeden wniosek i tylko w jednym państwie członkowskim Unii Europejskiej ” .
 
 4. Badanie spełnienia wymagań, o których mowa w ust. 2, przeprowadza na wniosek producenta jednostka uprawniona. Z przeprowadzonego badania jednostka uprawniona sporządza protokół wraz ze sprawozdaniem.
 
-5. Obowiązek, o którym mowa ust. 1, nie dotyczy:
+5. Obowiązek, o którym mowa w ust. 1, nie dotyczy:
 
 - **1)** oryginalnego przedmiotu wyposażenia lub części, który jest objęty homologacją typu w odniesieniu do typu pojazdu, typu przedmiotu wyposażenia lub części, na który udzielono homologacji typu zgodnie z przepisami jednego z aktów prawnych, których wykaz zamieszczono w załączniku IV albo XI do dyrektywy 2007/46/WE;
 - **2)** przedmiotu wyposażenia lub części produkowanego do pojazdów przeznaczonych do zawodów sportowych.
 
 6. Przedmioty wyposażenia lub części, których wykaz zamieszczono w załączniku XIII do dyrektywy 2007/46/WE, używane do pojazdów przeznaczonych do zawodów sportowych, nie mogą być wprowadzane do obrotu w celu użycia ich w pojazdach przeznaczonych do poruszania się po drogach publicznych, chyba że uzyskają one zezwolenie na dopuszczenie do obrotu, o którym mowa w ust. 1.
 
-7. Zezwolenia na dopuszczenie do obrotu wydane przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, są ważne na terytorium Rzeczypospolitej Polskiej. Art. 70zf. 1. Producent niezwłocznie zawiadamia ministra właściwego do spraw transportu o wszelkich zmianach warunków stanowiących podstawę do wydania zezwolenia na dopuszczenie do obrotu.
+7. Zezwolenia na dopuszczenie do obrotu wydane przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, są ważne na terytorium Rzeczypospolitej Polskiej.
+
+1. Producent niezwłocznie zawiadamia ministra właściwego do spraw transportu o wszelkich zmianach warunków stanowiących podstawę do wydania zezwolenia na dopuszczenie do obrotu.
 
 2. Po otrzymaniu zawiadomienia, o którym mowa w ust. 1, minister właściwy do spraw transportu dokonuje oceny zakresu zmian w odniesieniu do uprzednio wydanego zezwolenia na dopuszczenie do obrotu, a następnie niezwłocznie informuje producenta o:
 
 - **1)** konieczności uzyskania zmiany tego zezwolenia po przeprowadzeniu badań albo bez przeprowadzenia badań;
 - **2)** braku potrzeby zmiany danych i informacji zawartych w uprzednio wydanym zezwoleniu.
 
-3. W przypadkach, o których mowa w ust. 2 pkt 1, stosuje się odpowiednio art. 70ze. Art. 70zg. 1. Producent jest obowiązany zapewnić, że przedmiot wyposażenia lub część przeznaczone do wprowadzenia do obrotu będą produkowane zgodnie z warunkami stanowiącymi podstawę do wydania zezwolenia.
+3. W przypadkach, o których mowa w ust. 2 pkt 1, stosuje się odpowiednio art. 70ze.
 
-2. Producent jest obowiązany przedstawić na żądanie właściwego organu kontroli dokumenty potwierdzające przeznaczenie produkowanych przedmiotów wyposażenia i części. Art. 70zh. 1. Minister właściwy do spraw transportu przeprowadza kontrolę zgodności produkcji przedmiotu wyposażenia lub części:
+1. Producent jest obowiązany zapewnić, że przedmiot wyposażenia lub część przeznaczone do wprowadzenia do obrotu będą produkowane zgodnie z warunkami stanowiącymi podstawę do wydania zezwolenia.
+
+2. Producent jest obowiązany przedstawić na żądanie właściwego organu kontroli dokumenty potwierdzające przeznaczenie produkowanych przedmiotów wyposażenia i części.
+
+1. Minister właściwy do spraw transportu przeprowadza kontrolę zgodności produkcji przedmiotu wyposażenia lub części:
 
 - **1)** przed wydaniem zezwolenia na dopuszczenie do obrotu w zakresie sposobu i metod zapewnienia zgodności produkcji;
 - **2)** w przypadku otrzymania informacji o zastrzeżeniach co do wyprodukowania przedmiotów wyposażenia lub części niezgodnie z warunkami określonymi w zezwoleniu na dopuszczenie do obrotu.
 
 2. Kontrolę zgodności produkcji w przypadku, o którym mowa w ust. 1 pkt 2, przeprowadza się nie później niż w terminie 6 miesięcy od dnia otrzymania informacji o zastrzeżeniach.
 
-3. W przypadku negatywnego wyniku kontroli zgodności produkcji, minister właściwy do spraw transportu wzywa producenta do usunięcia braków, w terminie 90 dni od dnia otrzymania wezwania. W przypadku nieusunięcia braków minister właściwy do spraw transportu cofa zezwolenie. Art. 70zi. 1. Minister właściwy do spraw transportu, może upoważnić jednostkę uprawnioną do przeprowadzenia kontroli zgodności produkcji pojazdu, przedmiotu wyposażenia lub części.
+3. W przypadku negatywnego wyniku kontroli zgodności produkcji, minister właściwy do spraw transportu wzywa producenta do usunięcia braków, w terminie 90 dni od dnia otrzymania wezwania. W przypadku nieusunięcia braków minister właściwy do spraw transportu cofa zezwolenie.
 
-2. W przypadku upoważnienia jednostki uprawnionej do przeprowadzenia kontroli, o której mowa w art. 70zh ust. 1 pkt 2, koszty tej kontroli pokrywa producent, jeżeli wynik kontroli potwierdzi uzyskane informacje o zastrzeżeniach. Art. 70zj. Opłaty, o których mowa w art. 70h ust. 2, art. 70j ust. 4, art. 70k ust. 4, art. 70za ust. 1 oraz art. 70ze ust. 2, stanowią dochód budżetu państwa. Art. 70zk. Prawa i obowiązki producenta, o których mowa w:
+1. Minister właściwy do spraw transportu, może upoważnić jednostkę uprawnioną do przeprowadzenia kontroli zgodności produkcji pojazdu, przedmiotu wyposażenia lub części.
 
-- **1)** art. 70d ust. 1–4 i 6–9, art. 70e, art. 70f, art. 70g, art. 70h ust. 1– 5, 7 i 8, art. 70m, art. 70n ust. 1 pkt 1–3 i ust. 2 i 3, art. 70o, art. 70p ust. 1 pkt 1 i 3 i ust. 2 i 3, art. 70q, art. 70r ust. 1 pkt 1 lit. a, pkt 2 i 3 i ust. 2, art. 70s ust. 1, 2 i 4–6, art. 70t, art. 70u, art. 70w ust. 1 pkt 1, pkt 3 lit. a i ust. 2–5, art. 70z ust. 1–5 i 7 oraz art. 70zb stosuje się do podmiotu dokonującego zabudowy nowego pojazdu;
-- **2)** art. 70d ust. 1–4 i 6–9, art. 70e, art. 70f, art. 70g, art. 70h ust. 1– 5, 7 i 8, art. 70i, art. 70j, art. 70k, art. 70l ust. 1, art. 70m, art. 70n ust. 1 pkt 1–3 i ust. 2 i 3, art. 70o, art. 70p ust. 1 pkt 1 i 3 i ust. 2 i 3, art. 70q, art. 70r ust. 1 pkt 1 lit. a, pkt 2 i 3 i ust. 2, art. 70s ust. 1, 2 i 4–6, art. 70t, art. 70u, art. 70w ust. 1 pkt 1, pkt 3 lit. a i ust. 2–5, art. 70z ust. 1–5 i 7 oraz art. 70zb stosuje się do podmiotu wprowadzającego do obrotu na terytorium Rzeczypospolitej Polskiej nowy pojazd oraz nowe przedmioty wyposażenia lub części. Art. 70zl. 1. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
+2. W przypadku upoważnienia jednostki uprawnionej do przeprowadzenia kontroli, o której mowa w art. 70zh ust. 1 pkt 2, koszty tej kontroli pokrywa producent, jeżeli wynik kontroli potwierdzi uzyskane informacje o zastrzeżeniach. Opłaty, o których mowa w art. 70h ust. 2, art. 70j ust. 4, art. 70k ust. 4, art. 70za ust. 1 oraz art. 70ze ust. 2, stanowią dochód budżetu państwa. Prawa i obowiązki producenta, o których mowa w:
+
+- **1)** art. 70d ust. 1–4 i 6–9, art. 70e, art. 70f, art. 70g, art. 70h ust. 1–5, 7 i 8, art. 70m, art. 70n ust. 1 pkt 1–3 i ust. 2 i 3, art. 70o, art. 70p ust. 1 pkt 1 i 3 i ust. 2 i 3, art. 70q, art. 70r ust. 1 pkt 1 lit. a, pkt 2 i 3 i ust. 2, art. 70s ust. 1, 2 i 4–6, art. 70t, art. 70u, art. 70w ust. 1 pkt 1, pkt 3 lit. a i ust. 2–5, art. 70z ust. 1–5 i 7 oraz art. 70zb stosuje się do podmiotu dokonującego zabudowy nowego pojazdu;
+- **2)** art. 70d ust. 1–4 i 6–9, art. 70e, art. 70f, art. 70g, art. 70h ust. 1–5, 7 i 8, art. 70i, art. 70j, art. 70k, art. 70l ust. 1, art. 70m, art. 70n ust. 1 pkt 1–3 i ust. 2 i 3, art. 70o, art. 70p ust. 1 pkt 1 i 3 i ust. 2 i 3, art. 70q, art. 70r ust. 1 pkt 1 lit. a, pkt 2 i 3 i ust. 2, art. 70s ust. 1, 2 i 4–6, art. 70t, art. 70u, art. 70w ust. 1 pkt 1, pkt 3 lit. a i ust. 2–5, art. 70z ust. 1–5 i 7 oraz art. 70zb stosuje się do podmiotu wprowadzającego do obrotu na terytorium Rzeczypospolitej Polskiej nowy pojazd oraz nowe przedmioty wyposażenia lub części.
+
+1. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
+
 - **1)** szczegółowe wymagania, jakie powinien spełniać podmiot wnioskujący o wydanie uprawnienia, o którym mowa w art. 70za ust. 1 oraz art. 70zb ust. 1, w zakresie warunków lokalowych, środków i wyposażenia;
 - **2)** sposób i tryb przeprowadzania kontroli, o której mowa w art. 70za ust. 4 oraz art. 70zc ust. 2 pkt 2 i 3;
 - **3)** wzór sprawozdania oceniającego, o którym mowa w art. 70za ust. 4 i art. 70zc ust. 3;
@@ -739,24 +928,27 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 
 - **1)** zakres uprawnienia;
 - **2)** czynności administracyjne oraz koszty związane z wydaniem decyzji;
-- **3)** czynności oraz koszty związane z przeprowadzaniem kontroli. Art. 70zm. 1. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, odpowiednio dla danej kategorii pojazdu:
+- **3)** czynności oraz koszty związane z przeprowadzaniem kontroli.
+
+1. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, odpowiednio dla danej kategorii pojazdu:
+
 - **1)** zakres wymagań technicznych obowiązujących w procedurach homologacji typu oraz szczegółowy sposób przeprowadzania tych procedur;
 - **2)** wymagania alternatywne dotyczące przedmiotów wyposażenia lub części, stosowane w procedurze homologacji pojazdów produkowanych w małych seriach;
 - **3)** limity pojazdów kwalifikowanych do małej serii;
 - **4)** szczegółowe czynności organów w procedurach homologacji typu;
 - **5)** istotne cechy różnicujące kategorię, typ, wariant lub wersję pojazdu;
 - **6)** warunki i sposób wyboru pojazdów, przedmiotów wyposażenia lub części, o których mowa w art. 70z ust. 5;
-- **7)** zakres i sposób przeprowadzania:
-    - **a)** badań homologacyjnych,
-    - **b)** kontroli zgodności produkcji;
+- **7)** zakres i sposób przeprowadzania: badań homologacyjnych, kontroli zgodności produkcji;
+    - **a)**
+    - **b)**
 
 - **8)** wzory dokumentów związanych z homologacją typu oraz szczegółowe wymagania dla dokumentów, o których mowa w art. 70h ust. 5 i art. 70z ust. 2, w zależności od procedury homologacji typu;
 - **9)** wzór i opis znaku homologacji typu przedmiotu wyposażenia lub części;
 - **10)** terminy ważności świadectw zgodności WE lub świadectw zgodności;
-- **11)** wysokość opłat za:
-    - **a)** wydanie i zmianę świadectwa homologacji typu,
-    - **b)** uznanie świadectwa homologacji typu pojazdu dla pojazdów produkowanych w małych seriach,
-    - **c)** uznanie świadectwa homologacji typu pojazdu, o której mowa w art. 70j ust. 4.
+- **11)** wysokość opłat za: wydanie i zmianę świadectwa homologacji typu, uznanie świadectwa homologacji typu pojazdu dla pojazdów produkowanych w małych seriach, uznanie świadectwa homologacji typu pojazdu, o której mowa w art. 70j ust. 4.
+    - **a)**
+    - **b)**
+    - **c)**
 
 2. Wydając rozporządzenie, o którym mowa w ust. 1, minister uwzględnia:
 
@@ -771,15 +963,15 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 
 - **1)** warunki wydawania zezwolenia na dopuszczenie do obrotu oraz wzory dokumentów z tym związanych,
 - **2)** zakres i sposób przeprowadzania kontroli zgodności produkcji,
-- **3)** wysokość opłaty za wydanie zezwolenia na dopuszczenie do obrotu – uwzględniając koszty wydania zezwolenia na dopuszczenie do obrotu oraz konieczność zapewnienia właściwego poziomu bezpieczeństwa w ruchu drogowym i ochrony środowiska.
+- **3)** wysokość opłaty za wydanie zezwolenia na dopuszczenie do obrotu uwzględniając koszty wydania zezwolenia na dopuszczenie do obrotu oraz konieczność zapewnienia właściwego poziomu bezpieczeństwa w ruchu drogowym i ochrony środowiska.
 
 5. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
 
 - **1)** zakres wymagań technicznych obowiązujących w procedurze homologacji sposobu montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem;
 - **2)** szczegółowe czynności organów w procedurze homologacji sposobu montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem;
-- **3)** zakres i sposób przeprowadzania:
-    - **a)** badań homologacyjnych,
-    - **b)** kontroli zgodności montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem;
+- **3)** zakres i sposób przeprowadzania: badań homologacyjnych, kontroli zgodności montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem;
+    - **a)**
+    - **b)**
 
 - **4)** wzory dokumentów związanych z homologacją sposobu montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem;
 - **5)** wysokość opłat za wydanie i zmianę świadectwa homologacji sposobu montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem.
@@ -795,6 +987,8 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 
 #### Rozdział 1c Dopuszczenie indywidualne WE pojazdu
 
+### Dział Vb Kary pieniężne
+
 **Art. 140m.**
 
 1. Kto:
@@ -802,11 +996,9 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 - **1)** wbrew przepisowi art. 70g ust. 1 wprowadził do obrotu nowy pojazd bez wymaganego odpowiedniego świadectwa homologacji typu lub innego równoważnego dokumentu, o których mowa w art. 70j ust. 1, art. 70k ust. 1, art. 70o ust. 1, art. 70zo ust. 1, art. 70zp ust. 1 albo art. 70zu ust. 1,
 - **2)** wbrew przepisowi art. 70g ust. 5 ponownie wprowadził do obrotu pojazdy wycofane z obrotu,
 - **3)** wbrew przepisowi art. 70g ust. 6 wprowadził do obrotu nowy przedmiot wyposażenia lub część,
-- **4)** wbrew przepisowi art. 70g ust. 8 ponownie wprowadził do obrotu przedmiot wyposażenia lub część wycofane z obrotu – podlega karze pieniężnej w wysokości nie większej niż 25% wartości sprzedaży wynikającej z wprowadzenia do obrotu tego pojazdu, przedmiotu wyposażenia lub części.
+- **4)** wbrew przepisowi art. 70g ust. 8 ponownie wprowadził do obrotu przedmiot wyposażenia lub część wycofane z obrotu podlega karze pieniężnej w wysokości nie większej niż 25% wartości sprzedaży wynikającej z wprowadzenia do obrotu tego pojazdu, przedmiotu wyposażenia lub części.
 
 2. Kto wbrew obowiązkowi nie wykonuje decyzji, o których mowa w art. 70g ust. 4 lub ust. 10, podlega karze pieniężnej w wysokości nie większej niż 50% wartości sprzedaży wynikającej z wprowadzenia do obrotu tego pojazdu, przedmiotu wyposażenia lub części.
-
-**Art. 140n.**
 
 1. Kary pieniężne, w sprawach określonych w art. 140m, nakładane są w drodze decyzji administracyjnej.
 
@@ -821,31 +1013,56 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 
 5. Kary pieniężne są wnoszone na odrębny rachunek bankowy budżetu państwa, w terminie 14 dni od dnia, w którym decyzja o nałożeniu kary pieniężnej stała się ostateczna.
 
-6. Do kar pieniężnych, o których mowa w art. 140m, w zakresie nieuregulowanym w ustawie, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, 1101 i 1342).”;
+6. Do kar pieniężnych, o których mowa w art. 140m, w zakresie nieuregulowanym w ustawie, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, 1101 i 1342). ” ;
 
-- **18)** w załączniku do ustawy pozycja 6 otrzymuje brzmienie: „6 kategorii a) o szerokości nieprzekraczającej: VI – 3,4 m dla drogi jednojezdniowej, – 4 m dla drogi dwujezdniowej klasy A, S i GP,
-    - **b)** o długości nieprzekraczającej: – 15 m dla pojedynczego pojazdu, – 23 m dla zespołu pojazdów, – 30 m dla zespołu pojazdów o skrętnych osiach, krajowe - zgodnie z wykazem dróg, o którym mowa w art. 64c ust. 8”
-    - **c)** o wysokości nieprzekraczającej 4,3 m,
-    - **d)** o rzeczywistej masie całkowitej nieprzekraczającej 60 t,
-    - **e)** o naciskach osi nieprzekraczających wielkości przewidzianych dla dróg o dopuszczalnym nacisku pojedynczej osi napędowej do 11,5 t;
-
+- **18)** w załączniku do ustawy pozycja 6 otrzymuje brzmienie: 6 kategorii VI a) o szerokości nieprzekraczającej: krajowe – zgodnie z wykazem dróg, o którym mowa w art. 64c ust. 8 – 3,4 m dla drogi jednojezdniowej, – 4 m dla drogi dwujezdniowej klasy A, S i GP, b) o długości nieprzekraczającej: – 15 m dla pojedynczego pojazdu, – 23 m dla zespołu pojazdów, – 30 m dla zespołu pojazdów o skrętnych osiach, c) o wysokości nieprzekraczającej 4,3 m, d) o rzeczywistej masie całkowitej nieprzekraczającej 60 t, e) o naciskach osi nieprzekraczających wielkości przewidzianych dla dróg o dopuszczalnym nacisku pojedynczej osi napędowej do 11,5 t;
 - **19)** załącznik do ustawy oznacza się jako załącznik nr 1 i dodaje się załącznik nr 2 stanowiący załącznik do niniejszej ustawy.
 
-**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. 2011 r. Nr 74, poz. 397, z późn. zm. ) wprowadza się następujące zmiany:
+- **1)** w art. 5a w pkt 19a lit. e otrzymuje brzmienie: „ pojazdu samochodowego będącego pojazdem specjalnym – jeżeli z dokumentów wydanych zgodnie z przepisami prawa o ruchu drogowym, lub z innych dokumentów określonych w przepisach wydanych na podstawie art. 86a ust. 10 ustawy o podatku od towarów i usług, wynika, że jest to pojazd specjalny, ” ;
+    - **e)**
 
-**Art. 4.** W ustawie z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2009 r. Nr 151, poz. 1219, z późn. zm. ) w art. 3 w ust. 1 po pkt 1d dodaje się pkt 1e w brzmieniu: „1e) kontrola pojazdów, przedmiotów wyposażenia lub części przeznaczonych dla konsumentów w zakresie uzyskania przez producenta potwierdzenia spełnienia wymagań technicznych, o których mowa w art. 70c ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137 i 1448 oraz z 2013 r. poz. 700);”.
+- **2)** w art. 5d ust. 2 otrzymuje brzmienie: „
 
-**Art. 5.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. Nr 124, poz. 1152, z późn. zm. ) w art. 29 ust. 2 otrzymuje brzmienie: „2. Jeżeli umowa ubezpieczenia OC posiadaczy pojazdów mechanicznych jest zawierana przed rejestracją pojazdu, o którym mowa w art. 2 pkt 10 lit. a, posiadacz pojazdu mechanicznego, na żądanie zakładu ubezpieczeń, jest obowiązany przedstawić zaświadczenie o pozytywnym wyniku badania technicznego tego pojazdu albo świadectwo zgodności, świadectwo zgodności WE, dopuszczenia jednostkowego pojazdu, decyzji o uznaniu dopuszczenia jednostkowego pojazdu albo świadectwa dopuszczenia indywidualnego WE pojazdu.”.
+2. Dopuszczalna ładowność pojazdów oraz liczba miejsc (siedzeń), o których mowa w art. 5a pkt 19a lit. f, określona jest na podstawie dokumentów wydanych zgodnie z przepisami prawa o ruchu drogowym. Pojazdy, które w dokumentach, o których mowa w zdaniu pierwszym, nie mają określonej dopuszczalnej ładowności lub liczby miejsc, uznaje się również za samochody osobowe. ” .
+
+**Art. 3.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2011 r. Nr 74, poz. 397, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 4a w pkt 9a lit. e otrzymuje brzmienie: „ pojazdu samochodowego będącego pojazdem specjalnym – jeżeli z dokumentów wydanych zgodnie z przepisami prawa o ruchu drogowym, lub z innych dokumentów określonych w przepisach wydanych na podstawie art. 86a ust. 10 ustawy o podatku od towarów i usług, wynika, że jest to pojazd specjalny, ” ;
+    - **e)**
+
+- **2)** w art. 4c ust. 2 otrzymuje brzmienie: „
+
+2. Dopuszczalna ładowność pojazdów oraz liczba miejsc (siedzeń), o których mowa w art. 4a pkt 9a lit. f, określona jest na podstawie dokumentów wydanych zgodnie z przepisami prawa o ruchu drogowym. Pojazdy, które w dokumentach, o których mowa w zdaniu pierwszym, nie mają określonej dopuszczalnej ładowności lub liczby miejsc, uznaje się również za samochody osobowe. ” .
+
+**Art. 4.** W ustawie z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2009 r. Nr 151, poz. 1219, z późn. zm.) w art. 3 w ust. 1 po pkt 1c dodaje się pkt 1d w brzmieniu: „
+
+- **1d)** kontrola pojazdów, przedmiotów wyposażenia lub części przeznaczonych dla konsumentów w zakresie uzyskania przez producenta potwierdzenia spełnienia wymagań technicznych, o których mowa w art. 70c ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137 i 1448), ” .
+
+**Art. 5.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. Nr 124, poz. 1152, z późn. zm.) w art. 29 ust. 2 otrzymuje brzmienie: „ 2. Jeżeli umowa ubezpieczenia OC posiadaczy pojazdów mechanicznych jest zawierana przed rejestracją pojazdu, o którym mowa w art. 2 pkt 10 lit. a, posiadacz pojazdu mechanicznego, na żądanie zakładu ubezpieczeń, jest obowiązany przedstawić zaświadczenie o pozytywnym wyniku badania technicznego tego pojazdu albo świadectwo zgodności, świadectwo zgodności WE, dopuszczenia jednostkowego pojazdu, decyzji o uznaniu dopuszczenia jednostkowego pojazdu albo świadectwa dopuszczenia indywidualnego WE pojazdu. ” .
 
 **Art. 6.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054 oraz z 2012 r. poz. 1342) w art. 86a:
 
-**Art. 7.** W ustawie z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji (Dz. U. Nr 25, poz. 202, z późn. zm. ) w art. 28 ust. 2a otrzymuje brzmienie: „2a. Przepisów ust. 1 nie stosuje się do niektórych pojazdów specjalnych, o których mowa w przepisach wydanych na podstawie art. 70zm ust. 1 pkt 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.”.
+- **1)** w ust. 2 pkt 5 otrzymuje brzmienie: „
+- **5)** pojazdów specjalnych – jeżeli z dokumentów wydanych zgodnie z przepisami prawa o ruchu drogowym wynika, że jest to pojazd specjalny; ” ;
+- **2)** ust. 4 otrzymuje brzmienie: „
 
-**Art. 8.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2012 r. poz.
+4. Dopuszczalna ładowność pojazdu oraz liczba miejsc (siedzeń), o których mowa w ust. 2 pkt 6, określona jest na podstawie dokumentów wydanych zgodnie z przepisami prawa o ruchu drogowym. Pojazdy, które w dokumentach, o których mowa w zdaniu pierwszym, nie mają określonej dopuszczalnej ładowności lub liczby miejsc, uznaje się również za samochody osobowe, o których mowa w ust. 1 pkt 1. ” .
+
+**Art. 7.** W ustawie z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji (Dz. U. Nr 25, poz. 202, z późn. zm.) w art. 28 ust. 2a otrzymuje brzmienie: „ 2a. Przepisów ust. 1 nie stosuje się do niektórych pojazdów specjalnych, o których mowa w przepisach wydanych na podstawie art. 70zm ust. 1 pkt 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym. ” .
+
+**Art. 8.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2012 r. poz. 1282) w załączniku do ustawy:
+
+- **1)** w części I uchyla się ust. 38;
+- **2)** w części III: ust. 13 otrzymuje brzmienie: 1 2 3 4 13. Zezwolenia oraz upoważnienia wydane na podstawie przepisów o ruchu drogowym, z zastrzeżeniem ust. 13a: 1) na wykonywanie działalności gospodarczej, 433 zł 2) pozostałe 48 zł po ust. 13 dodaje się ust. 13a w brzmieniu: 13a. Zezwolenie na dopuszczenie do ruchu drogowego pojazdu z końcowej partii produkcji 1537 zł
+    - **a)**
+    - **b)**
 
 **Art. 9.** Obowiązek, o którym mowa w art. 70d ust. 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą uznaje się za spełniony, jeżeli producent pojazdów kategorii:
+
+- **1)** M1, M2, M3, N1, N2, N3, O1, O2, O3, O4 uzyskał w odniesieniu do tych pojazdów – świadectwo homologacji typu pojazdu przed upływem terminu określonego w załączniku XIX do dyrektywy 2007/46/WE Parlamentu Europejskiego i Rady z dnia 5 września 2007 r. ustanawiającej ramy dla homologacji pojazdów silnikowych i ich przyczep oraz układów, części i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów („dyrektywa ramowa”) (Dz. Urz. UE L 263 z 09.10.2007, str. 1, z późn. zm.)
+- **2)** T4.3 uzyskał w odniesieniu do tych pojazdów świadectwo homologacji typu pojazdu przed upływem terminów określonych w art. 6 ust. 2 dyrektywy Komisji 2010/62/UE z dnia 8 września 2010 r. zmieniającej dyrektywy Rady 80/720/EWG i 86/297/EWG oraz dyrektywy Parlamentu Europejskiego i Rady 2003/37/WE, 2009/60/WE i 2009/144/WE, odnoszących się do homologacji typu ciągników rolniczych lub leśnych, w celu dostosowania ich przepisów technicznych (Dz. Urz. UE L 238 z 09.09.2010, str. 7).
 
 **Art. 10.**
 
@@ -875,5 +1092,87 @@ b) w ust. 2 pkt 1 otrzymuje brzmienie: „1) przez upoważnione komórki organiz
 
 2. Dotychczasowe upoważnienia do przeprowadzania badań homologacyjnych oraz kontroli zgodności produkcji lub montażu, udzielone przez ministra właściwego do spraw transportu na podstawie dotychczasowych przepisów, zachowują ważność do czasu uzyskania nowych uprawnień, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie ustawy.
 
-**Art. 13.** Ustawa wchodzi w życie po upływie sześciu miesięcy od dnia ogłoszenia. „Załącznik nr 2 KATEGORIE POJAZDÓW 1. Kategoria M: pojazdy samochodowe przeznaczone do przewozu osób mające co najmniej cztery koła, w tym:
+**Art. 13.** Ustawa wchodzi w życie po upływie sześciu miesięcy od dnia ogłoszenia. Załącznik „
+
+## Załącznik nr 2 — KATEGORIE POJAZDÓW
+
+1.
+Kategoria M: pojazdy samochodowe przeznaczone do przewozu osób mające co najmniej cztery koła, w tym:
+1)
+kategoria M1: pojazdy do przewozu osób, mające nie więcej niż osiem miejsc oprócz siedzenia kierowcy;
+2)
+kategoria M2: pojazdy zaprojektowane i wykonane do przewozu osób, mające więcej niż osiem miejsc oprócz siedzenia kierowcy i mające maksymalną masę całkowitą nieprzekraczającą 5 t;
+3)
+kategoria M3: pojazdy zaprojektowane i wykonane do przewozu osób, mające więcej niż osiem miejsc oprócz siedzenia kierowcy i mające maksymalną masę całkowitą przekraczającą 5 t.
+2.
+Kategoria N: pojazdy samochodowe mające co najmniej cztery koła i zaprojektowane i wykonane do przewozu ładunków, w tym:
+1)
+kategoria N1: pojazdy zaprojektowane i wykonane do przewozu ładunków i mające maksymalną masę całkowitą nieprzekraczającą 3,5 t;
+2)
+kategoria N2: pojazdy zaprojektowane i wykonane do przewozu ładunków i mające maksymalną masę całkowitą przekraczającą 3,5 t, ale nieprzekraczającą 12 t;
+3)
+kategoria N3: pojazdy zaprojektowane i wykonane do przewozu ładunków i mające maksymalną masę całkowitą przekraczającą 12 t.
+3.
+Kategoria O: przyczepy, w tym:
+1)
+kategoria O1: przyczepy o maksymalnej masie całkowitej nieprzekraczającej 750 kg;
+2)
+kategoria O2: przyczepy o maksymalnej masie całkowitej przekraczającej 750 kg, ale nieprzekraczającej 3,5 t;
+3)
+kategoria O3: przyczepy o maksymalnej masie całkowitej przekraczającej 3,5 t, ale nieprzekraczającej 10 t;
+4)
+kategoria O4: przyczepy o maksymalnej masie całkowitej przekraczającej 10 t.
+4.
+Kategoria L: pojazdy dwukołowe lub trójkołowe, niektóre pojazdy czterokołowe, w tym:
+1)
+kategoria L1e – motorowery dwukołowe;
+2)
+kategoria L2e – motorowery trójkołowe;
+3)
+kategoria L3e – motocykle dwukołowe bez bocznego wózka;
+4)
+kategoria L4e – motocykle dwukołowe z bocznym wózkiem;
+5)
+kategoria L5e – motocykle trójkołowe;
+6)
+kategoria L6e – czterokołowce lekkie;
+7)
+kategoria L7e – czterokołowce.
+Do kategorii L nie mogą być zaliczone pojazdy:
+a)
+których maksymalna prędkość konstrukcyjna nie przekracza 6 km/h,
+b)
+przeznaczone do kierowania przez osobę pieszą,
+c)
+ciągniki i maszyny używane do celów rolniczych lub podobnych,
+d)
+rowery i wózki rowerowe.
+5.
+Kategoria T: ciągniki rolnicze, w tym:
+1)
+kategoria T1: ciągniki kołowe o maksymalnej prędkości konstrukcyjnej nieprzekraczającej 40 km/h, mające oś położoną najbliżej kierowcy, o minimalnym rozstawie kół nie mniejszym niż 1150 mm, masę własną, w stanie gotowości do jazdy, przekraczającą 600 kg i prześwit nie większy niż 1000 mm. W przypadku ciągników ze zmianą pozycji kierowcy (zmiana położenia siedzenia i koła kierownicy), osią położoną najbliżej kierowcy musi być oś z zamontowanymi oponami o największej średnicy;
+2)
+kategoria T2: ciągniki kołowe o maksymalnej prędkości konstrukcyjnej nieprzekraczającej 40 km/h, mające minimalny rozstaw kół mniejszy niż 1150 mm, masę własną, w stanie gotowości do jazdy, przekraczającą 600 kg i prześwit nie większy niż 600 mm. W przypadku gdy wysokość środka ciężkości ciągnika (mierzona względem podłoża) podzielona przez minimalny rozstaw kół każdej osi przekracza 0,90, maksymalna prędkość konstrukcyjna jest ograniczona do 30 km/h;
+3)
+kategoria T3: ciągniki kołowe o maksymalnej prędkości konstrukcyjnej nieprzekraczającej 40 km/h i masie własnej, w stanie gotowości do jazdy, nieprzekraczającej 600 kg;
+4)
+kategoria T4: ciągniki kołowe specjalnej konstrukcji o maksymalnej prędkości konstrukcyjnej nieprzekraczającej 40 km/h, w ramach której ze względu na prześwit i szerokość wyróżnia się kategorie T4.1, T4.2, oraz T4.3;
+5)
+kategoria T5: ciągniki kołowe o maksymalnej prędkości konstrukcyjnej przekraczającej 40 km/h.
+6.
+Kategoria C: ciągniki gąsienicowe, w tym ciągniki kategorii C1, C2, C3, C4, C5 – według kryteriów podziału jak dla kategorii T. W ramach kategorii C4 wyróżnia się kategorie C4.1, C4.2, oraz C4.3 według podziału jak dla kategorii T4.1, T4.2, oraz T4.3.
+7.
+Kategoria R: przyczepy rolnicze, w tym:
+1)
+kategoria R1: przyczepy o maksymalnej masie całkowitej nieprzekraczającej 1,5 t;
+2)
+kategoria R2: przyczepy o maksymalnej masie całkowitej przekraczającej 1,5 t, ale nieprzekraczającej 3,5 t;
+3)
+kategoria R3: przyczepy o maksymalnej masie całkowitej przekraczającej 3,5 t, ale nieprzekraczającej 21 t;
+4)
+kategoria R4: przyczepy o maksymalnej masie całkowitej przekraczającej 21 t.
+Każda kategoria przyczep oznaczona jest także indeksem „a” lub „b”, zależnie od jej konstrukcyjnej prędkości:
+– „a” dla przyczep o maksymalnej prędkości konstrukcyjnej mniejszej lub równej 40 km/h,
+– „b” dla przyczep o maksymalnej prędkości konstrukcyjnej większej niż 40 km/h.
+” .
 

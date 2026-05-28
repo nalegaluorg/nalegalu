@@ -8,12 +8,10 @@ pos: 60
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Przepisy wprowadzające ustawę – Prawo oświatowe
-
-*USTAWA z dnia 14 grudnia 2016 r.*
+# Ustawa z dnia 14 grudnia 2016 r.Przepisy wprowadzające ustawę – Prawo oświatowe
 
 | Pole | Wartość |
 |---|---|
@@ -24,26 +22,432 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-14 |
 | Data wydania | 2017-01-11 |
+| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2025-01-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000060) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/60/text.pdf) |
 
+” ,
+b)
+w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Upoważnienie, o którym mowa w ust. 1, potwierdza, że szkoła, placówka, o której mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawca lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, posiada warunki zapewniające prawidłowy przebieg egzaminu potwierdzającego kwalifikacje w zawodzie: ” ,
+c)
+ust. 4 otrzymuje brzmienie:
+„
+4.
+Upoważnienia, o którym mowa w ust. 1, udziela się na wniosek szkoły, placówki, o której mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcy lub podmiotu prowadzącego kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe.
+” ;
+107)
+w art. 44zzzo po ust. 3 dodaje się ust. 3a w brzmieniu:
+„
+3a.
+Zdający, o którym mowa w art. 44zzzd ust. 1a, po każdej części pisemnej lub każdej części praktycznej egzaminu potwierdzającego kwalifikacje w zawodzie otrzymuje informację o wynikach egzaminu potwierdzającego kwalifikacje w zawodzie z danej części tego egzaminu, opracowaną przez okręgową komisję egzaminacyjną.
+” ;
+108)
+w art. 44zzzq:
+a)
+ust. 2 otrzymuje brzmienie:
+„
+2.
+W przypadku zdających, o których mowa w art. 44zzzb ust. 3 pkt 1–3, informację, o której mowa w ust. 1, dyrektor okręgowej komisji egzaminacyjnej przekazuje za pośrednictwem dyrektora szkoły, dyrektora placówki, o której mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcy lub podmiotu prowadzącego kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe. Dyrektor szkoły, dyrektor placówki, o której mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawca albo podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, niezwłocznie przekazuje tę informację zdającemu, a w przypadku ucznia, o którym mowa w art. 44zzzb ust. 3 pkt 1 – uczniowi lub jego rodzicom.
+” ,
+b)
+ust. 10 otrzymuje brzmienie:
+„
+10.
+W przypadku braku możliwości przekazania zdającemu, o którym mowa w art. 44zzzb ust. 3 pkt 1–3, a w przypadku ucznia, o którym mowa w art. 44zzzb ust. 3 pkt 1 – uczniowi lub jego rodzicom, informacji, o której mowa w ust. 1, dyrektor szkoły, dyrektor placówki, o której mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawca albo podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, niezwłocznie informuje o tym dyrektora okręgowej komisji egzaminacyjnej, który, w terminie 7 dni od dnia otrzymania tej informacji, rozstrzyga o unieważnieniu części praktycznej egzaminu potwierdzającego kwalifikacje w zawodzie. W przypadku unieważnienia dyrektor okręgowej komisji egzaminacyjnej przekazuje, za pośrednictwem dyrektora szkoły, dyrektora placówki, o której mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcy lub podmiotu prowadzącego kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, pisemną informację o unieważnieniu wraz z uzasadnieniem, zdającemu, a w przypadku ucznia, o którym mowa w art. 44zzzb ust. 3 pkt 1 – uczniowi lub jego rodzicom. Przepisy ust. 3 i 4 stosuje się odpowiednio.
+” ,
+c)
+ust. 14 otrzymuje brzmienie:
+„
+14.
+Dyrektor okręgowej komisji egzaminacyjnej po dokonaniu rozstrzygnięcia w sprawie unieważnienia wydaje:
+1)
+świadectwo potwierdzające kwalifikację w zawodzie, o którym mowa w art. 44zzzo ust. 3, jeżeli w wyniku tego rozstrzygnięcia nie została unieważniona część praktyczna egzaminu potwierdzającego kwalifikacje w zawodzie tego zdającego i zdający spełnił warunki, o których mowa w art. 44zzzo ust. 2, lub
+2)
+informację, o której mowa w art. 44zzzo ust. 3a.
+” ;
+109)
+w art. 44zzzr ust. 8 otrzymuje brzmienie:
+„
+8.
+W przypadkach, o których mowa w ust. 6 i 7, unieważnienie może nastąpić w stosunku do wszystkich zdających, zdających w poszczególnych szkołach, placówkach, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, u pracodawców lub w podmiotach prowadzących kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, a także w stosunku do poszczególnych zdających.
+” ;
+110)
+w art. 44zzzt:
+a)
+w ust. 1 w części wspólnej wyrazy „art. 44zzzo ust. 3” zastępuje się wyrazami „art. 44zzzo ust. 3 lub 3a”,
+b)
+w ust. 6 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu:
+„
+3)
+anuluje dotychczasową informację, o której mowa w art. 44zzzo ust. 3a, i wydaje nową informację, o której mowa w art. 44zzzo ust. 3a.
+” ;
+111)
+po art. 44zzzu dodaje się art. 44zzzua w brzmieniu:
+„
+Zdający, o którym mowa w art. 44zzzd ust. 1a, który przystąpił wyłącznie do części pisemnej albo części praktycznej egzaminu potwierdzającego kwalifikacje w zawodzie, i który nie kontynuuje nauki w technikum, może przystąpić odpowiednio do części praktycznej albo części pisemnej tego egzaminu na zasadach określonych dla egzaminu eksternistycznego potwierdzającego kwalifikacje w zawodzie.
+” ;
+112)
+w art. 44zzzv:
+a)
+pkt 7 i 8 otrzymują brzmienie:
+„
+7)
+sposób postępowania z materiałami egzaminacyjnymi dostarczanymi do szkół, placówek, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawców, podmiotów prowadzących kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, w tym tryb zgłaszania nieprawidłowości w tym zakresie,
+8)
+sposób organizacji i przeprowadzania każdej części egzaminu potwierdzającego kwalifikacje w zawodzie, sposób postępowania w sytuacjach zagrożenia lub nagłego zakłócenia przebiegu egzaminu potwierdzającego kwalifikacje w zawodzie, przeprowadzania egzaminu potwierdzającego kwalifikacje w zawodzie w miejscu innym niż szkoła, placówka, o której mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, u danego pracodawcy lub w danym podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, ze względu na stan zdrowia zdającego lub jego niepełnosprawność,
+” ,
+b)
+pkt 10 otrzymuje brzmienie:
+„
+10)
+zakres informacji zawartych we wniosku, o którym mowa w art. 44zzzl ust. 4, termin złożenia tego wniosku oraz tryb udzielania i przedłużania upoważnienia szkołom, placówkom, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcom oraz podmiotom prowadzącym kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy – Prawo oświatowe,
+” ,
+c)
+w części wspólnej wyrazy „art. 2 pkt 3a” zastępuje się wyrazami „art. 2 pkt 4 ustawy – Prawo oświatowe”;
+113)
+art. 44zzzw otrzymuje brzmienie:
+„
+1.
+Minister właściwy do spraw oświaty i wychowania ogłasza w Biuletynie Informacji Publicznej komunikat w sprawie wykazu olimpiad przedmiotowych przeprowadzanych z przedmiotu lub przedmiotów objętych egzaminem ósmoklasisty lub egzaminem maturalnym, a także turniejów lub olimpiad tematycznych związanych z wybranym przedmiotem lub dziedziną wiedzy, uprawniających odpowiednio do:
+1)
+zwolnienia z przystąpienia do egzaminu ósmoklasisty z danego przedmiotu, egzaminu maturalnego z danego przedmiotu albo części pisemnej egzaminu potwierdzającego kwalifikacje w zawodzie,
+2)
+przyjmowania laureatów i finalistów tych olimpiad lub turniejów w pierwszej kolejności do szkół wymienionych w art. 132 ustawy – Prawo oświatowe
+nie później niż na 2 lata przed terminem ich przeprowadzania.
+2.
+W uzasadnionych przypadkach minister właściwy do spraw oświaty i wychowania może dokonać zmian w wykazie, o którym mowa w ust. 1. Wykaz wraz ze zmianami jest ogłaszany w Biuletynie Informacji Publicznej.
+” ;
+114)
+uchyla się rozdziały 4–6;
+115)
+w art. 78a w ust. 9 we wprowadzeniu do wyliczenia i w pkt 2, w ust. 10 we wprowadzeniu do wyliczenia i w pkt 2 oraz w ust. 17 w części wspólnej, w art. 78b w ust. 4 we wprowadzeniu do wyliczenia, w art. 80 w ust. 3a oraz w art. 90 w ust. 3a wyrazy „art. 2 pkt 5 i 7” zastępuje się wyrazami „art. 2 pkt 7 i 8 ustawy – Prawo oświatowe”;
+116)
+w art. 78b w ust. 1 w pkt 3, 6 i w części wspólnej, w ust. 2 w pkt 3 i 6 oraz w części wspólnej, w ust. 3 w pkt 2 i 5 oraz w części wspólnej oraz w art. 79a w ust. 1 w pkt 3 i 6 oraz w części wspólnej wyrazy „art. 71b ust. 3” zastępuje się wyrazami „art. 127 ust. 10 ustawy – Prawo oświatowe”;
+117)
+w art. 78b w ust. 1 w pkt 5, w ust. 2 w pkt 5, w ust. 3 w pkt 4, w ust. 4 w pkt 3 oraz w art. 79a w ust. 1 w pkt 5 wyrazy „art. 71b ust. 3 i 3a” zastępuje się wyrazami „art. 127 ust. 10 ustawy – Prawo oświatowe”;
+118)
+w art. 80:
+a)
+ust. 2c otrzymuje brzmienie:
+„
+2c.
+Prowadzone przez osoby prawne niebędące jednostkami samorządu terytorialnego lub osoby fizyczne publiczne przedszkola, inne formy wychowania przedszkolnego, szkoły podstawowe, specjalne ośrodki szkolno-wychowawcze, specjalne ośrodki wychowawcze, ośrodki rewalidacyjno-wychowawcze oraz poradnie psychologiczno-pedagogiczne, które zgodnie z art. 127 ust. 5 ustawy – Prawo oświatowe prowadzą wczesne wspomaganie rozwoju dziecka, otrzymują na każde dziecko objęte wczesnym wspomaganiem rozwoju, niezależnie od dotacji, o których mowa w ust. 2, 2aa, 2b, 2da, 2dc, 3, 3a, 3ab i 3ac, dotację z budżetu odpowiednio gminy lub powiatu w wysokości nie niższej niż kwota przewidziana na takie dziecko objęte wczesnym wspomaganiem rozwoju w części oświatowej subwencji ogólnej odpowiednio dla gminy lub powiatu, pod warunkiem że osoba prowadząca publiczne przedszkole, inną formę wychowania przedszkolnego, szkołę, ośrodek lub poradnię poda organowi właściwemu do udzielenia dotacji informację o planowanej liczbie dzieci, które mają być objęte wczesnym wspomaganiem rozwoju, nie później niż do dnia 30 września roku poprzedzającego rok udzielenia dotacji.
+” ,
+b)
+ust. 3aa otrzymuje brzmienie:
+„
+3aa.
+Wysokość dotacji, o której mowa w ust. 3a, dla prowadzonych przez osoby prawne niebędące jednostkami samorządu terytorialnego lub osoby fizyczne publicznych placówek zapewniających opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania, będących domami wczasów dziecięcych, o których mowa w przepisach wydanych na podstawie art. 123 ust. 1 pkt 1 ustawy – Prawo oświatowe, jest proporcjonalna do czasu pobytu wychowanka w tej placówce i jest ustalana jako iloczyn podstawowej kwoty dotacji dla placówek danego rodzaju, o których mowa w art. 2 pkt 7 i 8 ustawy – Prawo oświatowe, nie niższej jednak niż kwota przewidziana na takiego wychowanka w części oświatowej subwencji ogólnej dla powiatu, oraz liczby dni pobytu tego wychowanka w tej placówce, pomniejszonej o jeden dzień, i podzielonej przez liczbę dni w roku budżetowym.
+” ,
+c)
+ust. 3ac otrzymuje brzmienie:
+„
+3ac.
+Prowadzone przez osoby prawne niebędące jednostkami samorządu terytorialnego lub osoby fizyczne publiczne przedszkola, inne formy wychowania przedszkolnego, szkoły podstawowe, szkoły ponadpodstawowe, poradnie psychologiczno-pedagogiczne oraz ośrodki, o których mowa w art. 2 pkt 7 ustawy – Prawo oświatowe, które prowadzą zajęcia rewalidacyjno-wychowawcze, otrzymują na każdego uczestnika tych zajęć dotację z budżetu odpowiednio gminy lub powiatu w wysokości nie niższej niż kwota przewidziana na takiego uczestnika zajęć rewalidacyjno-wychowawczych w części oświatowej subwencji ogólnej odpowiednio dla gminy lub powiatu, pod warunkiem że osoba prowadząca publiczne przedszkole, inną formę wychowania przedszkolnego, szkołę, ośrodek lub poradnię poda organowi właściwemu do udzielenia dotacji informację o planowanej liczbie uczestników zajęć rewalidacyjno-wychowawczych nie później niż do dnia 30 września roku poprzedzającego rok udzielenia dotacji.
+” ,
+d)
+w ust. 3d w pkt 1 w lit. b wyrazy „art. 5 ust. 7” zastępuje się wyrazami „art. 10 ust. 1 ustawy – Prawo oświatowe”,
+e)
+w ust. 3h:
+– skreśla się wyrazy „lub placówka” i wyrazy „lub placówki”,
+– wyrazy „art. 5 ust. 5g” zastępuje się wyrazami „art. 9 ust. 1 ustawy – Prawo oświatowe”,
+f)
+w ust. 3i wyrazy „ust. 3” zastępuje się wyrazami „ust. 3 i 3ae”,
+g)
+w ust. 5b i 5c wyrazy „art. 5 ust. 5g” zastępuje się wyrazami „art. 9 ust. 1 ustawy – Prawo oświatowe”,
+h)
+w ust. 10:
+– pkt 1 i 2 otrzymują brzmienie: „ 1) ust. 2 i 2da w odniesieniu do ucznia niepełnosprawnego – w wysokości wyższej niż wysokość określona w ust. 2 i 2da w odniesieniu do ucznia niepełnosprawnego; 2) ust. 2aa, 2b, 2c, 2dc, 3ac, 5b i 5c – w wysokości wyższej niż wysokość określona w ust. 2aa, 2b, 2c, 2dc, 3ac, 5b i 5c; ” ,
+– w pkt 3 kropkę zastępuje się średnikiem oraz dodaje się pkt 4 w brzmieniu: „ 4) ust. 2 i 2da w odniesieniu do ucznia przedszkola integracyjnego, ucznia oddziału integracyjnego w przedszkolu z oddziałami integracyjnymi lub ucznia oddziału przedszkolnego integracyjnego zorganizowanego w szkole podstawowej – w wysokości wyższej niż wysokość określona w ust. 2 i 2da. ” ;
+119)
+uchyla się art. 82–85a;
+120)
+w art. 85b:
+a)
+uchyla się ust. 1,
+b)
+w ust. 4 wyrazy „przepisy wydane na podstawie art. 22ag” zastępuje się wyrazami „przepisy wydane na podstawie art. 22ag i art. 22aga”,
+c)
+uchyla się ust. 7;
+121)
+uchyla się art. 86;
+122)
+uchyla się art. 88–89a;
+123)
+w art. 90:
+a)
+w ust. 1 skreśla się wyrazy „i gimnazjów specjalnych”,
+b)
+ust. 1a otrzymuje brzmienie:
+„
+1a.
+Niepubliczne przedszkola, inne formy wychowania przedszkolnego, szkoły podstawowe, specjalne ośrodki szkolno-wychowawcze, specjalne ośrodki wychowawcze, ośrodki rewalidacyjno-wychowawcze oraz poradnie psychologiczno-pedagogiczne, które zgodnie z art. 127 ust. 5 ustawy – Prawo oświatowe prowadzą wczesne wspomaganie rozwoju dziecka, otrzymują na każde dziecko objęte wczesnym wspomaganiem rozwoju, niezależnie od dotacji, o których mowa w ust. 1b, 1ba, 1c, 2a, 2b, 2ca, 2d, 2ea, 2ec, 3a, 3ab i 3ac, dotację z budżetu odpowiednio gminy lub powiatu w wysokości nie niższej niż kwota przewidziana na takie dziecko objęte wczesnym wspomaganiem rozwoju w części oświatowej subwencji ogólnej odpowiednio dla gminy lub powiatu, pod warunkiem że osoba prowadząca niepubliczne przedszkole, inną formę wychowania przedszkolnego, szkołę, ośrodek lub poradnię poda organowi właściwemu do udzielenia dotacji informację o planowanej liczbie dzieci, które mają być objęte wczesnym wspomaganiem rozwoju, nie później niż do dnia 30 września roku poprzedzającego rok udzielenia dotacji.
+” ,
+c)
+w ust. 1b:
+– pkt 1 otrzymuje brzmienie: „ 1) spełni warunki określone w art. 13 ust. 1 ustawy – Prawo oświatowe, z tym że czas bezpłatnego nauczania, wychowania i opieki, o którym mowa w art. 13 ust. 1 pkt 2 ustawy – Prawo oświatowe, nie może być krótszy niż czas bezpłatnego nauczania, wychowania i opieki ustalony przez radę gminy dla przedszkoli prowadzonych przez gminę; ” ,
+– w pkt 4 wyrazy „art. 60 ust. 2” zastępuje się wyrazami „art. 111 ustawy – Prawo oświatowe”,
+– w pkt 5 wyrazy „art. 22 ust. 2 pkt 11” zastępuje się wyrazami „art. 47 ust. 1 pkt 5 ustawy – Prawo oświatowe”,
+– w pkt 6 wyrazy „w rozdziale 2a” zastępuje się wyrazami „w rozdziale 6 ustawy – Prawo oświatowe”,
+d)
+w ust. 1ba:
+– pkt 1 otrzymuje brzmienie: „ 1) spełni warunki określone w art. 13 ust. 1 ustawy – Prawo oświatowe, z tym że czas bezpłatnego nauczania, wychowania i opieki, o którym mowa w art. 13 ust. 1 pkt 2 ustawy – Prawo oświatowe, nie może być krótszy niż czas bezpłatnego nauczania, wychowania i opieki ustalony przez radę gminy dla przedszkoli prowadzonych przez gminę; ” ,
+– w pkt 4 wyrazy „art. 60 ust. 2” zastępuje się wyrazami „art. 111 ustawy – Prawo oświatowe”,
+– w pkt 5 wyrazy „art. 22 ust. 2 pkt 11” zastępuje się wyrazami „art. 47 ust. 1 pkt 5 ustawy – Prawo oświatowe”,
+– w pkt 6 wyrazy „w rozdziale 2a” zastępuje się wyrazami „w rozdziale 6 ustawy – Prawo oświatowe”,
+e)
+w ust. 1c:
+– pkt 1 otrzymuje brzmienie: „ 1) spełni warunki określone w art. 13 ust. 1 pkt 3 i ust. 2 ustawy – Prawo oświatowe, z tym że czas bezpłatnego nauczania, wychowania i opieki, o którym mowa w art. 13 ust. 2 ustawy – Prawo oświatowe, nie może być krótszy niż czas bezpłatnego nauczania, wychowania i opieki ustalony przez radę gminy dla publicznych innych form wychowania przedszkolnego prowadzonych przez gminę; ” ,
+– w pkt 3 wyrazy „w rozdziale 2a” zastępuje się wyrazami „w rozdziale 6 ustawy – Prawo oświatowe”,
+f)
+ust. 1i otrzymuje brzmienie:
+„
+1i.
+Informację o otrzymywaniu przez niepubliczne przedszkole, szkołę podstawową, w której zorganizowano oddział przedszkolny, lub inną formę wychowania przedszkolnego dotacji, o której mowa odpowiednio w ust. 1b, 1ba lub 1c, wpisuje się do ewidencji, o której mowa w art. 168 ust. 1 ustawy – Prawo oświatowe. Przepisy art. 168 ust. 9 ustawy – Prawo oświatowe stosuje się odpowiednio.
+” ,
+g)
+w ust. 2 skreśla się wyrazy „i gimnazja specjalne”,
+h)
+w ust. 3aa wyrazy „art. 71 ust. 1 pkt 1” zastępuje się wyrazami „art. 123 ust. 1 pkt 1 ustawy – Prawo oświatowe”,
+i)
+ust. 3ac otrzymuje brzmienie:
+„
+3ac.
+Niepubliczne przedszkola, inne formy wychowania przedszkolnego, szkoły podstawowe, szkoły ponadpodstawowe, poradnie psychologiczno-pedagogiczne oraz ośrodki, o których mowa w art. 2 pkt 7 ustawy – Prawo oświatowe, które prowadzą zajęcia rewalidacyjno-wychowawcze, otrzymują na każdego uczestnika tych zajęć dotację z budżetu odpowiednio gminy lub powiatu w wysokości nie niższej niż kwota przewidziana na takiego uczestnika zajęć rewalidacyjno-wychowawczych w części oświatowej subwencji ogólnej odpowiednio dla gminy lub powiatu, pod warunkiem że osoba prowadząca niepubliczne przedszkole, inną formę wychowania przedszkolnego, szkołę, ośrodek lub poradnię poda organowi właściwemu do udzielenia dotacji informację o planowanej liczbie uczestników zajęć rewalidacyjno-wychowawczych nie później niż do dnia 30 września roku poprzedzającego rok udzielenia dotacji.
+” ,
+j)
+w ust. 3b wyrazy „art. 2 pkt 3, 4 i 10” zastępuje się wyrazami „art. 2 pkt 3, 6 i 10 ustawy – Prawo oświatowe”,
+k)
+w ust. 3d wyrazy „art. 5 ust. 7” zastępuje się wyrazami „art. 10 ust. 1 ustawy – Prawo oświatowe”,
+l)
+w ust. 3fa wyrazy „art. 2 pkt 3, 4, 7 i 10” zastępuje się wyrazami „art. 2 pkt 3, 6, 8 i 10 ustawy – Prawo oświatowe”,
+m)
+ust. 10 otrzymuje brzmienie:
+„
+10.
+Organ stanowiący jednostki samorządu terytorialnego, w drodze uchwały, może wyrazić zgodę na udzielenie dotacji, o której mowa w:
+1)
+ust. 1a i 2a-3ad – w wysokości wyższej niż wysokość określona w ust. 1a i 2a-3ad;
+2)
+ust. 1b, 1ba, 2b i 2ea w odniesieniu do ucznia przedszkola integracyjnego, ucznia oddziału integracyjnego w przedszkolu z oddziałami integracyjnymi lub ucznia oddziału przedszkolnego integracyjnego zorganizowanego w szkole podstawowej – w wysokości wyższej niż wysokość określona w ust. 1b, 1ba, 2b i 2ea.
+” ;
+124)
+uchyla się art. 90a;
+125)
+w art. 90b w ust. 3 pkt 2 otrzymuje brzmienie:
+„
+2)
+wychowankom publicznych i niepublicznych ośrodków rewalidacyjno-wychowawczych – do czasu ukończenia realizacji obowiązku nauki.
+” ;
+126)
+po art. 90s dodaje się art. 90sa w brzmieniu:
+„
+Art. 90sa.
+1.
+Uczniom szkół i placówek prowadzonych przez Ministra Obrony Narodowej, o których mowa w przepisach wydanych na podstawie art. 49 ustawy – Prawo oświatowe, mogą być przyznane świadczenia w postaci bezpłatnego wyżywienia, zakwaterowania, umundurowania i pomocy lekarskiej.
+2.
+Minister Obrony Narodowej określi, w drodze rozporządzenia, szkoły i placówki, w których uczniowie mogą otrzymać świadczenia, o których mowa w ust. 1, zakres tych świadczeń, a także warunki korzystania z tych świadczeń, uwzględniając specyfikę nauczania w szkołach i placówkach prowadzonych przez Ministra Obrony Narodowej oraz konieczność właściwego zabezpieczenia procesu dydaktycznego.
+” ;
+127)
+w art. 92b w ust. 1 w pkt 2 lit. b otrzymuje brzmienie:
+„
+b)
+samotnie wychowywane w rozumieniu art. 4 pkt 43 ustawy – Prawo oświatowe;
+” ;
+128)
+w art. 92c w ust. 2 w pkt 2 w lit. b tiret drugie otrzymuje brzmienie:
+„
+– posiadają co najmniej wykształcenie średnie lub średnie branżowe,
+” ;
+129)
+w art. 92p w ust. 1 pkt 3 otrzymuje brzmienie:
+„
+3)
+posiada co najmniej wykształcenie średnie lub średnie branżowe;
+” ;
+130)
+w art. 93 ust. 3 otrzymuje brzmienie:
+„
+3.
+Jeżeli umowy międzynarodowe nie stanowią inaczej, świadectwa i inne dokumenty wydane za granicą przez szkoły lub instytucje edukacyjne uznawane przez państwo, na którego terytorium lub w którego systemie edukacji działają, mogą być uznane w drodze decyzji administracyjnej za dokument potwierdzający w Rzeczypospolitej Polskiej wykształcenie podstawowe, gimnazjalne, zasadnicze zawodowe, zasadnicze branżowe, średnie branżowe lub średnie, lub uprawnienie do kontynuacji nauki, w tym uprawnienie do ubiegania się o przyjęcie na studia wyższe, z uwzględnieniem zakresu uprawnień w państwie wydania świadectwa lub innego dokumentu.
+” ;
+131)
+w art. 93a część wspólna otrzymuje brzmienie:
+„
+– wykształcenie uzyskane przez tę osobę za granicą lub posiadane przez tę osobę uprawnienia do kontynuacji nauki uzyskane za granicą, w tym uprawnienia do ubiegania się o przyjęcie na studia wyższe, może być potwierdzone w Rzeczypospolitej Polskiej w drodze decyzji administracyjnej jako wykształcenie podstawowe, gimnazjalne, zasadnicze zawodowe, zasadnicze branżowe, średnie branżowe oraz średnie lub uprawnienia do kontynuacji nauki w Rzeczypospolitej Polskiej.
+” ;
+132)
+uchyla się art. 94–94aa;
+133)
+uchyla się art. 94c;
+134)
+uchyla się art. 95a.
+6.
+7.
+W latach szkolnych 2019/2020–2022/2023 oddziały międzynarodowe szkoły ponadgimnazjalnej prowadzone w szkole ponadpodstawowej działają na dotychczasowych zasadach.
+8.
+Do oddziału międzynarodowego działającego na podstawie ustawy z dnia 19 marca 2009 r. o zmianie ustawy o systemie oświaty oraz o zmianie niektórych innych ustaw (Dz. U. poz. 458, z późn. zm.) przepisy ust. 1–7 stosuje się odpowiednio.
+
 **Art. 1.** Ustawa z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59) wchodzi w życie z dniem 1 września 2017 r., z wyjątkiem:
+
+- **1)** art. 18 ust. 4, art. 47 ust. 3 pkt 2 oraz rozdziału 6, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
+- **2)** art. 47 ust. 1 pkt 1 lit. c, d i g oraz pkt 4, które wchodzą w życie z dniem 1 września 2018 r.
 
 **Art. 2.** W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2016 r. poz. 1534 i 2138) wprowadza się następujące zmiany:
 
+- **1)** w art. 32a w ust. 2 wyrazy „wykształceniem średnim” zastępuje się wyrazami „wykształceniem średnim lub średnim branżowym”;
+- **2)** użyty w art. 39 w ust. 1 w pkt 6, w art. 46 w ust. 3 w pkt 1, w art. 50 w ust. 2 oraz w art. 54 w ust. 1d w pkt 8, w różnej liczbie i przypadku, wyraz „ponadgimnazjalna” zastępuje się użytym w odpowiedniej liczbie i przypadku wyrazem „ponadpodstawowa”;
+- **3)** w art. 59b w ust. 6 w pkt 3 w lit. a oraz w art. 98a w ust. 4 w pkt 3 wyraz „gimnazjalne” zastępuje się wyrazami „gimnazjalne albo podstawowe po ukończeniu ośmioletniej szkoły podstawowej”;
+- **4)** w art. 59b w ust. 6 w pkt 3 w lit. b oraz w art. 98a w ust. 4 w pkt 2 wyraz „średnie” zastępuje się wyrazami „średnie lub średnie branżowe”;
+- **5)** w art. 76 w ust. 9 w pkt 1 wyraz „ponadgimnazjalnej” zastępuje się wyrazami „ponadgimnazjalnej lub ponadpodstawowej”;
+- **6)** w art. 132e w ust. 1 pkt 4 otrzymuje brzmienie: „
+- **4)** zwrot opłat związanych z nauką dzieci w szkole podstawowej i ponadpodstawowej, jeżeli przebywają z żołnierzem za granicą; ” ;
+- **7)** w art. 166 ust. 1 otrzymuje brzmienie: „
+
+1. Uczniowie szkół podstawowych i szkół ponadpodstawowych: liceum ogólnokształcącego, technikum i branżowej szkoły I stopnia, z wyjątkiem uczniów szkół dla dorosłych, podlegają obowiązkowi w zakresie edukacji dla bezpieczeństwa. ” .
+
 **Art. 3.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2016 r. poz. 1666, 2138 i 2255) wprowadza się następujące zmiany:
+
+- **1)** w art. 191: w § 1 w pkt 1 wyraz „gimnazjum” zastępuje się wyrazami „ośmioletnią szkołę podstawową”, w § 5: – w pkt 1 wyraz „gimnazjum” zastępuje się wyrazami „ośmioletniej szkoły podstawowej”, – w pkt 3 wyraz „gimnazjum” zastępuje się wyrazami „ośmioletnią szkołę podstawową”, – w pkt 4 wyraz „gimnazjum” zastępuje się wyrazami „ośmioletniej szkoły podstawowej”;
+    - **a)**
+    - **b)**
+
+- **2)** w art. 197 w § 2: w pkt 1 wyrazy „szkoły podstawowej i gimnazjum” zastępuje się wyrazami „ośmioletniej szkoły podstawowej”, w pkt 2 wyraz „ponadgimnazjalnej” zastępuje się wyrazem „ponadpodstawowej”.
+    - **a)**
+    - **b)**
 
 **Art. 4.** W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2016 r. poz. 1379) wprowadza się następujące zmiany:
 
+- **1)** w art. 1: w ust. 1 pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** publicznych przedszkolach, szkołach i placówkach oraz placówkach doskonalenia nauczycieli działających na podstawie ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59), z zastrzeżeniem ust. 2 pkt la, lb oraz pkt 2 lit. a; ” , w ust. 2 pkt 1b otrzymuje brzmienie: „
+    - **b)**
+
+- **1b)** nauczyciele zatrudnieni w publicznych placówkach doskonalenia nauczycieli o zasięgu ogólnokrajowym, publicznych placówkach doskonalenia nauczycieli szkół artystycznych oraz publicznych placówkach doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych, oraz publicznej placówce doskonalenia nauczycieli przedmiotów zawodowych o zasięgu ogólnokrajowym, o których mowa odpowiednio w art. 8 ust. 5 pkt 1 lit. b, ust. 6 i ust. 7 pkt 2 i ust. 14 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe; ” ;
+- **2)** w art. 3 pkt 5 otrzymuje brzmienie: „
+- **5)** ustawie – Prawo oświatowe – rozumie się ustawę, o której mowa w art. 1 ust. 1 pkt 1; ” ;
+- **3)** w art. 9d ust. 5 otrzymuje brzmienie: „
+
+5. W przypadku nieobecności nauczyciela w pracy z powodu pozostawania w stanie nieczynnym, czasowej niezdolności do pracy wskutek choroby, zwolnienia z obowiązku świadczenia pracy lub urlopu innego niż urlop wypoczynkowy i urlopy, o których mowa w ust. 5a, trwającej nieprzerwanie dłużej niż miesiąc, staż ulega przedłużeniu o czas trwania tej nieobecności. W przypadku nieobecności dłuższej niż rok nauczyciel jest obowiązany do ponownego odbycia stażu w pełnym wymiarze. ” ;
+
+- **4)** w art. 9g: ust. 6 otrzymuje brzmienie: „
+    - **a)**
+
+6. Komisję kwalifikacyjną dla nauczycieli mianowanych, o których mowa w art. 9e ust. 2, ubiegających się o awans na stopień nauczyciela dyplomowanego powołuje w przypadku nauczycieli zatrudnionych w:
+
+- **1)** urzędzie ministra właściwego do spraw oświaty i wychowania, kuratoriach oświaty, Centralnej Komisji Egzaminacyjnej, okręgowych komisjach egzaminacyjnych i publicznej placówce doskonalenia nauczycieli o zasięgu ogólnokrajowym – minister właściwy do spraw oświaty i wychowania;
+- **2)** urzędzie ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, specjalistycznej jednostce nadzoru oraz publicznej placówce doskonalenia nauczycieli szkół artystycznych – minister właściwy do spraw kultury i ochrony dziedzictwa narodowego;
+- **3)** organach sprawujących nadzór pedagogiczny nad zakładami poprawczymi, schroniskami dla nieletnich oraz szkołami przy zakładach karnych – Minister Sprawiedliwości;
+- **4)** urzędzie ministra właściwego do spraw zabezpieczenia społecznego i urzędach wojewódzkich – minister właściwy do spraw zabezpieczenia społecznego;
+- **5)** urzędzie ministra właściwego do spraw rolnictwa oraz publicznych placówkach doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych – minister właściwy do spraw rolnictwa;
+- **6)** urzędzie ministra właściwego do spraw zdrowia oraz publicznej placówce doskonalenia nauczycieli przedmiotów zawodowych, o zasięgu ogólnokrajowym, o której mowa odpowiednio w art. 8 ust. 14 – minister właściwy do spraw zdrowia. ” , w ust. 11a: – pkt 1 otrzymuje brzmienie: „ 1) posiada co najmniej wykształcenie wyższe i tytuł zawodowy magister, magister inżynier lub równorzędny; ” , – pkt 3 otrzymuje brzmienie: „ 3) przepracowała po uzyskaniu stopnia nauczyciela dyplomowanego co najmniej 3 lata i w tym czasie ukończyła z wynikiem pozytywnym szkolenie dla kandydatów na ekspertów organizowane przez publiczną placówkę doskonalenia nauczycieli, o której mowa w art. 8 ust. 5 pkt 1 lit. b ustawy – Prawo oświatowe, lub publiczną placówkę doskonalenia nauczycieli szkół artystycznych, o której mowa w art. 8 ust. 6 ustawy – Prawo oświatowe; wymóg ukończenia szkolenia nie dotyczy osób, o których mowa w pkt 5 lit. a, posiadających stopień naukowy doktora lub stopień doktora sztuki; ” ;
+    - **b)**
+
+- **5)** w art. 10 ust. 8b otrzymuje brzmienie: „
+
+8b. W celu potwierdzenia spełniania warunku, o którym mowa w ust. 5 pkt 4a, dyrektor szkoły, przed nawiązaniem stosunku pracy z nauczycielem, jest obowiązany zasięgnąć informacji z rejestru, o którym mowa w art. 85w ust. 1, w trybie określonym w art. 85y ust. 1a. ” ;
+
+- **6)** w art. 17 ust. 2a otrzymuje brzmienie: „
+
+2a. Nauczyciele skierowani w trybie określonym w przepisach wydanych na podstawie art. 47 ust. 3 pkt 1 ustawy – Prawo oświatowe do pracy w szkołach działających na podstawie Konwencji o Statucie Szkół Europejskich, zwanych dalej „szkołami europejskimi”, otrzymują urlop bezpłatny na czas skierowania. ” ;
+
+- **7)** w art. 32 ust. 2–4 otrzymują brzmienie: „
+
+2. Do nauczycieli mianowanych i dyplomowanych zatrudnionych na stanowiskach, na których wymagane są kwalifikacje pedagogiczne, w specjalistycznych jednostkach nadzoru, o których mowa w art. 53 ust. 1–3 ustawy – Prawo oświatowe, oraz w organach sprawujących nadzór pedagogiczny nad zakładami poprawczymi, schroniskami dla nieletnich i szkołami przy zakładach karnych, w zakresie wynagrodzenia i innych świadczeń stosuje się odpowiednio przepisy ustawy, o której mowa w ust. 1.
+
+3. Nauczycielom mianowanym i dyplomowanym zatrudnionym na stanowiskach, na których wymagane są kwalifikacje pedagogiczne, w Centralnej Komisji Egzaminacyjnej, okręgowych komisjach egzaminacyjnych, publicznych placówkach doskonalenia nauczycieli o zasięgu ogólnokrajowym, publicznych placówkach doskonalenia nauczycieli szkół artystycznych, publicznych placówkach doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych, oraz publicznej placówce doskonalenia nauczycieli przedmiotów zawodowych o zasięgu ogólnokrajowym, o których mowa odpowiednio w art. 8 ust. 5 pkt 1 lit. b, ust. 6 i ust. 7 pkt 2 i ust. 14 ustawy – Prawo oświatowe, oprócz wynagrodzenia zasadniczego przysługują dodatki: za wysługę lat, motywacyjny oraz służbowy.
+
+4. Minister właściwy do spraw oświaty i wychowania, w porozumieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego, ministrem właściwym do spraw rolnictwa oraz ministrem właściwym do spraw zdrowia, określi, w drodze rozporządzenia, wysokość i warunki przyznawania dodatków, o których mowa w ust. 3, z zastrzeżeniem art. 33, uwzględniając potrzebę zróżnicowania ich wysokości w zależności od jakości świadczonej pracy i zajmowanego stanowiska. ” ;
+
+- **8)** w art. 42: w ust. 2b pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** innych zajęć i czynności wynikających z zadań statutowych szkoły, o których mowa w ust. 2 pkt 2, nauczyciel jest obowiązany uczestniczyć w przeprowadzaniu odpowiednio: egzaminu ósmoklasisty, egzaminu potwierdzającego kwalifikacje zawodowe, egzaminu potwierdzającego kwalifikacje w zawodzie i egzaminu maturalnego – z wyjątkiem części ustnej. ” , po ust. 2c dodaje się ust. 2d w brzmieniu: „
+    - **b)**
+
+2d. W ramach zajęć i czynności, o których mowa w ust. 2 pkt 2, nauczyciel nie prowadzi zajęć świetlicowych oraz zajęć z zakresu pomocy psychologiczno-pedagogicznej. ” , w ust. 3 w tabeli w lp. 3 kol. 2 otrzymuje brzmienie: „ Nauczyciele: przedszkoli specjalnych, szkół podstawowych, szkół specjalnych, liceów ogólnokształcących, przedmiotów teoretycznych w szkołach prowadzących kształcenie zawodowe, w tym w szkołach specjalnych i szkolenia rzemieślniczego w schroniskach dla nieletnich oraz zakładach poprawczych, przedmiotów teoretycznych na kwalifikacyjnych kursach zawodowych, przedmiotów artystycznych i ogólnokształcących w szkołach artystycznych i innych placówkach kształcenia artystycznego ” , w ust. 7 pkt 3 otrzymuje brzmienie: „
+
+- **c)**
+- **d)**
+- **3)** tygodniowy obowiązkowy wymiar godzin zajęć nauczycieli szkół niewymienionych w ust. 3, nauczycieli szkół, o których mowa w art. 1 ust. 2 pkt 1a, nauczycieli prowadzących kształcenie w formie zaocznej, nauczycieli kolegiów pracowników służb społecznych, nauczycieli kształcenia na odległość, nauczycieli realizujących w ramach stosunku pracy obowiązki określone dla stanowisk o różnym tygodniowym obowiązkowym wymiarze godzin, pedagogów, psychologów, logopedów, doradców zawodowych prowadzących zajęcia związane z wyborem kierunku kształcenia i zawodu w celu wspomagania uczniów w podejmowaniu decyzji edukacyjnych i zawodowych, o których mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 5 ustawy – Prawo oświatowe, bibliotekarzy bibliotek pedagogicznych oraz zasady zaliczania do wymiaru godzin poszczególnych zajęć w formie zaocznej i w kształceniu na odległość. ” ;
+- **9)** po art. 70a dodaje się art. 70b w brzmieniu: „
+
+**Art. 70b.**
+
+1. Doskonalenie nauczycieli może odbywać się za granicą, na podstawie umów międzynarodowych, porozumień o współpracy bezpośredniej zawieranych przez szkoły, organy prowadzące szkoły, jednostki samorządu terytorialnego, organy administracji rządowej i placówki doskonalenia, programów edukacyjnych Unii Europejskiej lub na zaproszenie podmiotów zagranicznych.
+
+2. Okres doskonalenia za granicą jest zaliczany do okresu zatrudnienia nauczyciela w kraju, od którego zależą uprawnienia pracownicze, na warunkach określonych w rozporządzeniu, o którym mowa w ust. 3.
+
+3. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, warunki kierowania za granicę nauczycieli w celu doskonalenia, uwzględniając w szczególności:
+
+- **1)** możliwość udzielania nauczycielom pozostającym w zatrudnieniu urlopu szkoleniowego lub bezpłatnego oraz okres, na jaki udziela się tych urlopów, a także zasady obliczania wysokości wynagrodzenia za okres urlopu szkoleniowego;
+- **2)** możliwość przyznania świadczeń na rzecz rodzin osób, o których mowa w pkt 1;
+- **3)** organy uprawnione do przyznawania świadczeń oraz udzielania urlopów;
+- **4)** warunki zaliczania okresu doskonalenia za granicą do okresu zatrudnienia w kraju;
+- **5)** warunki odwoływania nauczycieli skierowanych za granicę oraz warunki zwrotu wypłaconych im świadczeń. ” ;
+- **10)** w art. 85x w ust. 1: uchyla się pkt 1, pkt 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **2)** dyrektorowi szkoły – w stosunku do osoby ubiegającej się o zatrudnienie na stanowisku nauczyciela oraz nauczycieli zatrudnionych w danej szkole; ” ;
+- **11)** w art. 85y: po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+
+1a. Dyrektor szkoły składa wniosek w trybie, o którym mowa w ust. 2–4, jeżeli:
+
+- **1)** ustalił za pomocą narzędzia informatycznego udostępnionego przez ministra właściwego do spraw oświaty i wychowania, że numer PESEL nauczyciela lub osoby ubiegającej się o zatrudnienie na stanowisku nauczyciela znajduje się w rejestrze;
+- **2)** nauczyciel lub osoba ubiegająca się o zatrudnienie na stanowisku nauczyciela nie posiada numeru PESEL. ” , w ust. 7 pkt 1 otrzymuje brzmienie: „
+    - **b)**
+
+- **1)** osobie, o której mowa w art. 85x ust. 1 pkt 2 oraz ust. 2 – w terminie 7 dni roboczych od dnia otrzymania wniosku; ” ;
+- **12)** w art. 88 ust. 1a otrzymuje brzmienie: „
+
+1a. Nauczyciele spełniający warunki określone w ust. 1 mogą przejść na emeryturę również w wypadku rozwiązania stosunku pracy lub wygaśnięcia stosunku pracy w okolicznościach określonych:
+
+- **1)** w art. 20 ust. 1, 5c i 7;
+- **2)** w art. 225 ust. 1, 6, 7 i 10 oraz art. 226 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60). ” ;
+- **13)** w art. 91a ust. 2 otrzymuje brzmienie: „
+
+2. Nauczycielom mianowanym i dyplomowanym zatrudnionym w Centralnej Komisji Egzaminacyjnej, okręgowych komisjach egzaminacyjnych na stanowiskach, na których wymagane są kwalifikacje pedagogiczne, publicznych placówkach doskonalenia nauczycieli o zasięgu ogólnokrajowym, publicznych placówkach doskonalenia nauczycieli szkół artystycznych, publicznych placówkach doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych, oraz publicznej placówce doskonalenia nauczycieli przedmiotów zawodowych o zasięgu ogólnokrajowym, o których mowa odpowiednio w art. 8 ust. 5 pkt 1 lit. b, ust. 6, ust. 7 pkt 2 i ust. 14 ustawy – Prawo oświatowe, przysługują uprawnienia wynikające z art. 9a-9i, art. 30 ust. 5, art. 32, art. 33, art. 47, art. 49 ust. 1 pkt 3, art. 51, art. 58, art. 60, art. 63, art. 86–88 i art. 90. ” ;
+
+- **14)** w art. 91b: w ust. 2 pkt 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+- **1)** przedszkolach i szkołach, o których mowa w art. 1 ust. 2 pkt 2, bez względu na wymiar zatrudnienia, mają zastosowanie przepisy art. 6, art. 6a ust. 4–10, 12 i 13, art. 9, art. 11a, art. 26, art. 63 i art. 75–85z;
+- **2)** placówkach, o których mowa w art. 1 ust. 2 pkt 2, bez względu na wymiar zatrudnienia, mają zastosowanie przepisy art. 6, art. 6a ust. 4–10, 12 i 13, art. 9, art. 26, art. 63 i art. 75–85z; ” , ust. 4 otrzymuje brzmienie: „
+    - **b)**
+
+4. Z nauczycielami, o których mowa w art. 17 ust. 2a, na czas skierowania do pracy w szkołach europejskich, nawiązuje się stosunek pracy na podstawie umowy o pracę w jednostce organizacyjnej, której zadaniem statutowym jest organizacja i koordynacja funkcjonowania szkół, o których mowa w art. 8 ust. 5 pkt 1 lit. a ustawy – Prawo oświatowe. ” .
+
 **Art. 5.** W ustawie z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2015 r. poz. 652) w art. 7 w ust. 5 wyraz „średnie lub” zastępuje się wyrazami „średnie, średnie branżowe lub”.
 
-**Art. 6.** W ustawie z dnia 22 marca 1989 r. o rzemiośle (Dz. U. z 2016 r. poz.
+**Art. 6.** W ustawie z dnia 22 marca 1989 r. o rzemiośle (Dz. U. z 2016 r. poz. 1285) wprowadza się następujące zmiany:
 
-**Art. 7.** W ustawie z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz. U. z 2013 r. poz. 1169, z 2014 r. poz. 498 oraz z 2016 r. poz. 1948) w art. 21 ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw oświaty i wychowania, na wniosek Sekretariatu Konferencji Episkopatu Polski, może określić, w drodze rozporządzenia, szczegółowy zakres uprawnień i obowiązków nauczycieli i wychowawców zatrudnionych w niepublicznych przedszkolach i niepublicznych placówkach działających na podstawie przepisów ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59), przepisów o systemie oświaty oraz niepublicznych placówkach działających na podstawie przepisów o pomocy społecznej prowadzonych przez kościelne osoby prawne.”.
+- **1)** w art. 3 w ust. 1 w pkt 1 wyrazy „wyższej lub ponadgimnazjalnej” zastępuje się wyrazami „wyższej, ponadgimnazjalnej lub ponadpodstawowej”;
+- **2)** w art. 4: w ust. 3 wyraz „ponadgimnazjalnych” zastępuje się wyrazem „ponadpodstawowych”, w ust. 4 wyrazy „gimnazjach, szkołach ponadgimnazjalnych” zastępuje się wyrazami „szkołach podstawowych, szkołach ponadpodstawowych”.
+    - **a)**
+    - **b)**
+
+**Art. 7.** W ustawie z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz. U. z 2013 r. poz. 1169, z 2014 r. poz. 498 oraz z 2016 r. poz. 1948) w art. 21 ust. 2 otrzymuje brzmienie: „ 2. Minister właściwy do spraw oświaty i wychowania, na wniosek Sekretariatu Konferencji Episkopatu Polski, może określić, w drodze rozporządzenia, szczegółowy zakres uprawnień i obowiązków nauczycieli i wychowawców zatrudnionych w niepublicznych przedszkolach i niepublicznych placówkach działających na podstawie przepisów ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59), przepisów o systemie oświaty oraz niepublicznych placówkach działających na podstawie przepisów o pomocy społecznej prowadzonych przez kościelne osoby prawne. ” .
 
 **Art. 8.** W ustawie z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2016 r. poz. 1629 i 1948) wprowadza się następujące zmiany:
 
+- **1)** w art. 40a w ust. 2 w pkt 2 w lit. a tiret pierwsze otrzymuje brzmienie: „ – jednostkom organizacyjnym wchodzącym w skład systemu oświaty, o którym mowa w ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59), ” ;
+- **2)** w art. 44 w ust. 1: w pkt 3 wyrazy „wyższe lub średnie” zastępuje się wyrazami „wyższe, średnie lub średnie branżowe”, w pkt 4 wyraz „średniego” zastępuje się wyrazami „średniego lub średniego branżowego”;
+    - **a)**
+    - **b)**
+
+- **3)** w art. 44a w ust. 2 w pkt 3 wyraz „średnie” zastępuje się wyrazami „średnie lub średnie branżowe”.
+
 **Art. 9.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2016 r. poz. 1782, 1948 i 1955) wprowadza się następujące zmiany:
+
+- **1)** w art. 25 w ust. 1 wyrazy „średnie wykształcenie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”;
+- **2)** w art. 28a: w ust. 1 wyraz „średnie” zastępuje się wyrazami „średnie lub średnie branżowe”, w ust. 2 wyrazy „średniego wykształcenia” zastępuje się wyrazami „wykształcenia średniego lub średniego branżowego”;
+    - **a)**
+    - **b)**
+
+- **3)** w art. 116a w ust. 2 wyraz „ponadgimnazjalnych” zastępuje się wyrazem „ponadpodstawowych”.
 
 **Art. 10.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2016 r. poz. 1643, 1948 i 1955) w art. 31 w ust. 1 wyrazy „średnie wykształcenie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”.
 
@@ -51,55 +455,767 @@ source: "isap-pdf"
 
 **Art. 12.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2016 r. poz. 2032 i 2048) wprowadza się następujące zmiany:
 
+- **1)** w art. 5a w pkt 40 kropkę zastępuje się średnikiem i dodaje się pkt 41 w brzmieniu: „
+- **41)** przepisach o systemie oświaty – oznacza to przepisy ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59) lub przepisy ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, 1954, 1985 i 2169). ” ;
+- **2)** w art. 21 w ust. 1 pkt 40c otrzymuje brzmienie: „
+- **40c)** zwrot kosztów przejazdu, o których mowa w art. 39 ust. 3 i 4 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe; ” .
+
 **Art. 13.** W ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2016 r. poz. 191, 298, 904 i 2138) wprowadza się następujące zmiany:
 
-**Art. 14.** W ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2016 r. poz. 603 i 960) wprowadza się następujące zmiany:
+- **1)** w art. 4 w ust. 2b wyraz „średnie” zastępuje się wyrazami „średnie lub średnie branżowe”;
+- **2)** w art. 16a w ust. 4 wyrazy „średniego wykształcenia” zastępuje się wyrazami „wykształcenia średniego lub średniego branżowego”.
+
+**Art. 14.** W ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2016 r. poz. 603 i 690) wprowadza się następujące zmiany:
+
+- **1)** w art. 28 w ust. 1 wyrazy „średnie wykształcenie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”;
+- **2)** w art. 36a ust. 2 otrzymuje brzmienie: „
+
+2. W przypadku strażaków – nauczycieli i nauczycieli akademickich opiniowanie służbowe dotyczy również wywiązywania się z obowiązków określonych w ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2016 r. poz. 1842, 1933, 2169 i 2260), ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, 1954, 1985 i 2169) oraz ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59). ” .
 
 **Art. 15.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, 1954, 1985 i 2169) wprowadza się następujące zmiany:
 
-**Art. 16.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2016 r. poz. 1888, 1926, 1933 i 1948) w art. 17 w ust. 1 pkt 45 otrzymuje brzmienie: „45) dochody z tytułu prowadzenia szkoły w rozumieniu przepisów prawa oświatowego – w części przeznaczonej na cele szkoły, z zastrzeżeniem ust. 8,”.
+- **1)** uchyla się preambułę do ustawy;
+- **2)** uchyla się art. 1–2a;
+- **3)** w art. 3: pkt 1a otrzymuje brzmienie: „
+    - **a)**
+
+- **1a)** szkole specjalnej lub oddziale specjalnym – należy przez to rozumieć odpowiednio szkołę lub oddział, o których mowa w art. 4 pkt 2 ustawy – Prawo oświatowe; ” , pkt 2a-2d otrzymują brzmienie: „
+    - **b)**
+
+- **2a)** oddziale integracyjnym – należy przez to rozumieć oddział szkolny, o którym mowa w art. 4 pkt 3 ustawy – Prawo oświatowe;
+- **2b)** oddziale dwujęzycznym – należy przez to rozumieć oddział szkolny, o którym mowa w art. 4 pkt 4 ustawy – Prawo oświatowe;
+- **2c)** szkole integracyjnej – należy przez to rozumieć szkołę, o której mowa w art. 4 pkt 5 ustawy – Prawo oświatowe;
+- **2d)** szkole dwujęzycznej – należy przez to rozumieć szkołę, o której mowa w art. 4 pkt 6 ustawy – Prawo oświatowe; ” , uchyla się pkt 2e-2g, pkt 3 otrzymuje brzmienie: „
+    - **c)**
+    - **d)**
+
+- **3)** placówce – należy przez to rozumieć jednostki organizacyjne wymienione w art. 2 pkt 3–8 i 10 ustawy – Prawo oświatowe; ” , uchyla się pkt 3a, dodaje się pkt 3b w brzmieniu: „
+    - **e)**
+    - **f)**
+
+- **3b)** szkole podstawowej, liceum ogólnokształcącym, technikum, branżowej szkole I stopnia, branżowej szkole II stopnia, szkole specjalnej przysposabiającej do pracy lub szkole policealnej – należy przez to rozumieć szkoły, o których mowa w art. 18 ust. 1 ustawy – Prawo oświatowe; ” , uchyla się pkt 11c i 11d, pkt 13 i 13a otrzymują brzmienie: „
+    - **g)**
+    - **h)**
+
+- **13)** podstawie programowej wychowania przedszkolnego lub podstawie programowej kształcenia ogólnego – należy przez to rozumieć podstawę programową, o której mowa w art. 4 pkt 24 ustawy – Prawo oświatowe;
+- **13a)** podstawie programowej kształcenia w zawodach – należy przez to rozumieć podstawę programową, o której mowa w art. 4 pkt 25 ustawy – Prawo oświatowe; ” , pkt 15 i 16 otrzymują brzmienie: „
+    - **i)**
+
+- **15)** szkole dla dorosłych – należy przez to rozumieć szkoły, o których mowa w art. 4 pkt 29 ustawy – Prawo oświatowe;
+- **16)** kształceniu ustawicznym – należy przez to rozumieć kształcenie, o którym mowa w art. 4 pkt 30 ustawy – Prawo oświatowe; ” , uchyla się pkt 17, uchyla się pkt 18b, pkt 21 otrzymuje brzmienie: „
+    - **j)**
+    - **k)**
+    - **l)**
+
+- **21)** egzaminie potwierdzającym kwalifikacje w zawodzie – należy przez to rozumieć egzamin umożliwiający uzyskanie świadectwa potwierdzającego kwalifikację w zawodzie w zakresie jednej kwalifikacji, a w przypadku uzyskania świadectw potwierdzających wszystkie kwalifikacje wyodrębnione w danym zawodzie oraz posiadania wykształcenia zasadniczego zawodowego, wykształcenia zasadniczego branżowego, wykształcenia średniego branżowego lub wyksztalcenia średniego – również dyplomu potwierdzającego kwalifikacje zawodowe; ” , uchyla się pkt 21b, pkt 21c otrzymuje brzmienie: „
+    - **m)**
+    - **n)**
+
+- **21c)** egzaminie maturalnym – należy przez to rozumieć egzamin przeprowadzany dla absolwentów posiadających wykształcenie średnie lub wykształcenie średnie branżowe, umożliwiający uzyskanie świadectwa dojrzałości; ” , po pkt 21c dodaje się pkt 21d w brzmieniu: „
+    - **o)**
+
+- **21d)** egzaminie ósmoklasisty – należy przez to rozumieć egzamin przeprowadzany w ostatnim roku nauki w szkole podstawowej, a w szkole artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej – w klasie, której zakres nauczania odpowiada klasie VIII szkoły podstawowej, sprawdzający wiadomości i umiejętności ucznia lub słuchacza określone w podstawie programowej kształcenia ogólnego; ” , pkt 22 otrzymuje brzmienie: „
+    - **p)**
+
+- **22)** opłatach za korzystanie z wychowania przedszkolnego – należy przez to rozumieć opłaty za nauczanie, wychowanie i opiekę w przedszkolu, oddziale przedszkolnym w szkole podstawowej lub innej formie wychowania przedszkolnego, prowadzone w czasie przekraczającym czas bezpłatnego nauczania, wychowania i opieki, ustalony zgodnie z art. 13 ust. 1 pkt 2, ust. 2 lub 3 ustawy – Prawo oświatowe; ” , w pkt 33 na końcu kropkę zastępuje się średnikiem i dodaje się pkt 34 w brzmieniu: „
+    - **q)**
+
+- **34)** ustawie – Prawo oświatowe – należy przez to rozumieć ustawę z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59). ” ;
+- **4)** w art. 3 w pkt 13c oraz w art. 9ca w ust. 7 w pkt 3 wyrazy „art. 24 ust. 1” zastępuje się wyrazami „art. 46 ust. 1 ustawy – Prawo oświatowe”;
+- **5)** użyte w art. 3 w pkt 18, w art. 22ae w ust. 5a w pkt 1, w art. 22aga, w art. 44i w ust. 7 w pkt 1, w art. 44zr, w art. 44zzr w ust. 8, w art. 44zzzh w ust. 1 oraz w art. 44zzzx, w różnym przypadku i liczbie, wyrazy „upośledzenie umysłowe” zastępuje się użytymi w odpowiednim przypadku i odpowiedniej liczbie wyrazami „niepełnosprawność intelektualna”;
+- **6)** uchyla się art. 4–5f;
+- **7)** art. 5g otrzymuje brzmienie: „ W zakresie określonym niniejszą ustawą z tytułu udostępniania rodzicom gromadzonych przez publiczne przedszkola, oddziały przedszkolne w szkołach podstawowych, inne formy wychowania przedszkolnego, szkoły i placówki informacji w zakresie nauczania, wychowania oraz opieki, dotyczących ich dzieci, nie mogą być pobierane od rodziców opłaty, bez względu na postać i sposób przekazywania tych informacji. ” ;
+- **8)** po art. 5g dodaje się art. 5h w brzmieniu: „ W przypadku publicznych innych form wychowania przedszkolnego prowadzonych przez osoby prawne niebędące jednostkami samorządu terytorialnego lub osoby fizyczne, oraz niepublicznych innych form wychowania przedszkolnego zadania i kompetencje określone w ustawie dla dyrektora przedszkola wykonuje osoba kierująca daną inną formą wychowania przedszkolnego wyznaczona przez osobę prowadzącą inną formę wychowania przedszkolnego. ” ;
+- **9)** uchyla się art. 6–9;
+- **10)** użyte w art. 9a w ust. 2 w pkt 1–5, 9 i 10, w art. 9c w ust. 2 w pkt 1, 2, 5, w pkt 6 w lit. a i w pkt 11, w ust. 3 w pkt 1 i 4, w ust. 5 w pkt 2 w lit. b i c, w ust. 11, w art. 9e w ust. 1, w art. 44zzr w ust. 1–6, 8–10, 12, 13, 16 i 17, w art. 44zzs w ust. 1–3, w ust. 4 w pkt 1, w ust. 5 i 6, w art. 44zzt, w art. 44zzy w ust. 11, w art. 44zzz w ust. 1 w pkt 5 i w ust. 6 w pkt 1, w art. 44zzza we wprowadzeniu do wyliczenia, w pkt 1, 4, 11 i 12 i w części wspólnej, w art. 44zzzy oraz w art. 90u w ust. 4 w pkt 2, w różnym przypadku i liczbie, wyrazy „egzamin gimnazjalny” zastępuje się użytymi w odpowiednim przypadku i odpowiedniej liczbie wyrazami „egzamin ósmoklasisty”;
+- **11)** w art. 9a w ust. 2 w pkt 10 w lit. a w tiret pierwszym podwójne tiret trzecie otrzymuje brzmienie: „ – – terminów przekazywania szkołom, placówkom, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcom oraz podmiotom prowadzącym kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, wyników egzaminu potwierdzającego kwalifikacje w zawodzie oraz terminów przekazywania szkołom, placówkom, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, i pracodawcom świadectw potwierdzających kwalifikację w zawodzie oraz terminów przekazywania szkołom dyplomów potwierdzających kwalifikacje zawodowe, ” ;
+- **12)** w art. 9c: w ust. 2 pkt 9 otrzymuje brzmienie: „
+    - **a)**
+
+- **9)** udzielanie szkołom, placówkom, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcom i podmiotom prowadzącym kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, upoważnień do przeprowadzania części praktycznej egzaminu potwierdzającego kwalifikacje w zawodzie oraz części pisemnej tego egzaminu przeprowadzanej z wykorzystaniem systemu elektronicznego, o których mowa w art. 44zzzl ust. 1; ” , ust. 2b otrzymuje brzmienie: „
+    - **b)**
+
+2b. Dla celów przeprowadzania egzaminu ósmoklasisty, egzaminu maturalnego oraz egzaminu potwierdzającego kwalifikacje w zawodzie okręgowe komisje egzaminacyjne nadają szkołom, placówkom, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcom i podmiotom prowadzącym kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, indywidualne numery identyfikacyjne. ” , w ust. 4 pkt 2 otrzymuje brzmienie: „
+
+- **c)**
+- **2)** posiada przygotowanie zawodowe uznane przez dyrektora szkoły lub placówki za odpowiednie do prowadzenia zajęć z zakresu kształcenia zawodowego, o którym mowa w art. 15 ust. 6 ustawy – Prawo oświatowe, i spełnia warunki określone w ust. 3 pkt 3 i 4. ” , ust. 9 otrzymuje brzmienie: „
+    - **d)**
+
+9. W przeprowadzaniu egzaminu ósmoklasisty, egzaminu maturalnego, egzaminu potwierdzającego kwalifikacje w zawodzie oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3, w zakresie ustalonym w przepisach prawa, biorą udział egzaminatorzy i nauczyciele, a w przypadku egzaminu potwierdzającego kwalifikacje w zawodzie – także pracodawcy lub upoważnieni przez nich pracownicy oraz podmioty prowadzące kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, lub upoważnieni przez nich pracownicy. W przeprowadzaniu części ustnej egzaminu maturalnego mogą również brać udział nauczyciele akademiccy. ” ;
+
+- **13)** w art. 9d w ust. 11 pkt 1 otrzymuje brzmienie: „
+- **1)** która posiada wykształcenie wyższe i tytuł zawodowy magister, magister inżynier lub równorzędny; ” ;
+- **14)** w art. 9e ust. 3 otrzymuje brzmienie: „
+
+3. W przypadku nieuprawnionego ujawnienia materiałów egzaminacyjnych, o których mowa w ust. 1, lub uzasadnionego podejrzenia nieuprawnionego ujawnienia tych materiałów decyzję co do dalszego przebiegu egzaminu ósmoklasisty, egzaminu maturalnego, egzaminu potwierdzającego kwalifikacje w zawodzie oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3, podejmuje dyrektor Centralnej Komisji Egzaminacyjnej. Dyrektor Centralnej Komisji Egzaminacyjnej może wyznaczyć nowy termin przeprowadzenia egzaminu ósmoklasisty lub egzaminu ósmoklasisty z danego przedmiotu, egzaminu maturalnego z danego przedmiotu w części pisemnej lub w części ustnej, egzaminu potwierdzającego kwalifikacje w zawodzie lub części pisemnej albo części praktycznej tego egzaminu oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3, z danego przedmiotu. ” ;
+
+- **15)** uchyla się art. 9f;
+- **16)** w art. 10: w ust. 1 po wyrazach „szkoły podstawowej” skreśla się przecinek oraz wyraz „gimnazjum”, w ust. 2 po wyrazach „szkoły podstawowej dla dorosłych” skreśla się przecinek oraz wyrazy „gimnazjum dla dorosłych”, w ust. 3 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** dyplom potwierdzający kwalifikacje zawodowe, jeżeli posiada świadectwa potwierdzające wszystkie kwalifikacje wyodrębnione w danym zawodzie oraz posiada: wykształcenie zasadnicze zawodowe albo zdała egzaminy eksternistyczne z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla zasadniczej szkoły zawodowej przeprowadzane przez okręgową komisję egzaminacyjną, lub wykształcenie zasadnicze branżowe albo zdała egzaminy eksternistyczne z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły I stopnia przeprowadzane przez okręgową komisję egzaminacyjną, lub wykształcenie średnie branżowe albo zdała egzaminy eksternistyczne z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły II stopnia przeprowadzane przez okręgową komisję egzaminacyjną, lub wykształcenie średnie. ” , ust. 4b otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **d)**
+
+4b. Do egzaminów eksternistycznych, o których mowa w ust. 1 i ust. 3 pkt 2 lit. a-c, przepisy art. 44zzz ust. 1–6 stosuje się odpowiednio. ” , w ust. 4g pkt 1 otrzymuje brzmienie: „
+
+- **e)**
+- **1)** w przypadku egzaminów eksternistycznych, o których mowa w ust. 1 i ust. 3 pkt 2 lit. a-c – nie później niż na 30 dni przed terminem rozpoczęcia sesji egzaminacyjnej, o którym mowa w przepisach wydanych na podstawie ust. 5, ” , ust. 5 otrzymuje brzmienie: „
+    - **f)**
+
+5. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
+
+- **1)** warunki i tryb przeprowadzania egzaminów eksternistycznych, o których mowa w ust. 1 i ust. 3 pkt 2 lit. a-c, w tym warunki ich oceniania, oraz zajęcia edukacyjne, z których są przeprowadzane egzaminy eksternistyczne, o których mowa w ust. 3 pkt 2 lit. a-c,
+- **2)** warunki dopuszczania do egzaminów eksternistycznych, o których mowa w ust. 1 i 3,
+- **3)** warunki wynagradzania egzaminatorów przeprowadzających egzaminy eksternistyczne, o których mowa w ust. 1 i ust. 3 pkt 2 lit. a-c z uwzględnieniem możliwości unieważnienia egzaminów eksternistycznych, o których mowa w ust. 1 i ust. 3 pkt 2 lit. a-c, ze względu na naruszenie przepisów dotyczących przeprowadzania tych egzaminów, jeżeli to naruszenie mogło mieć wpływ na wynik egzaminu, a także z uwzględnieniem możliwości zwalniania osób o niskich dochodach z całości lub części opłat za przeprowadzanie egzaminów eksternistycznych, o których mowa w ust. 1 i 3. Wynagrodzenie egzaminatorów powinno być ustalone w relacji do minimalnej stawki wynagrodzenia zasadniczego nauczyciela dyplomowanego posiadającego tytuł zawodowy magistra z przygotowaniem pedagogicznym, określonego na podstawie art. 30 ust. 5 pkt 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela. ” ;
+- **17)** uchyla się art. 11a;
+- **18)** w art. 12 w ust. 1 wyrazy „Publiczne przedszkola, szkoły podstawowe i gimnazja” zastępuje się wyrazami „Publiczne przedszkola i szkoły podstawowe”;
+- **19)** użyty w art. 12 w ust. 1, w art. 22ab w ust. 2 w pkt 2, w art. 44q w ust. 4, w art. 44zzh w ust. 2 i 3, w art. 80 w ust. 8, w art. 90 w ust. 2 i 8, w art. 90d w ust. 4 i 5 oraz w art. 90i w ust. 1 w pkt 3, w różnym przypadku i liczbie, wyraz „ponadgimnazjalna” zastępuje się użytym w odpowiednim przypadku i odpowiedniej liczbie wyrazem „ponadpodstawowa”;
+- **20)** uchyla się art. 13a;
+- **21)** w art. 14: uchyla się ust. 1–4b, w ust. 5 w pkt 1 lit. a i b otrzymują brzmienie: „ publicznym przedszkolu, oddziale przedszkolnym w publicznej szkole podstawowej, w czasie przekraczającym wymiar zajęć, o którym mowa w art. 13 ust. 1 pkt 2 ustawy – Prawo oświatowe, publicznej innej formie wychowania przedszkolnego w czasie przekraczającym czas bezpłatnego nauczania, wychowania i opieki ustalony dla przedszkoli publicznych na podstawie art. 13 ust. 1 pkt 2 ustawy – Prawo oświatowe; ” , ust. 5f-5h otrzymują brzmienie: „
+    - **a)**
+    - **b)**
+    - **a)**
+    - **b)**
+    - **c)**
+
+5f. Publiczne przedszkola, publiczne szkoły podstawowe z oddziałami przedszkolnymi oraz publiczne inne formy wychowania przedszkolnego, prowadzone przez osoby prawne niebędące jednostkami samorządu terytorialnego i osoby fizyczne, pobierają opłaty za korzystanie z wychowania przedszkolnego, w wysokości nie wyższej niż wysokość opłat ustalonych przez radę gminy na podstawie ust. 5 pkt 1.
+
+5g. Organ prowadzący publiczne przedszkole, publiczną szkołę podstawową z oddziałami przedszkolnymi, publiczną inną formę wychowania przedszkolnego, niepubliczne przedszkole, o którym mowa w art. 90 ust. 1b, niepubliczną szkołę podstawową z oddziałami przedszkolnymi, o których mowa w art. 90 ust. 1ba, lub niepubliczną inną formę wychowania przedszkolnego, o której mowa w art. 90 ust. 1c, zwalnia rodziców w całości lub w części z opłat za korzystanie z wychowania przedszkolnego, na warunkach określonych przez radę gminy na podstawie ust. 5 pkt 2. Organ prowadzący może upoważnić do udzielania tych zwolnień odpowiednio dyrektora przedszkola lub szkoły podstawowej.
+
+5h. Osoba prawna niebędąca jednostką samorządu terytorialnego lub osoba fizyczna prowadząca publiczne przedszkole, publiczną szkołę podstawową z oddziałami przedszkolnymi, publiczną inną formę wychowania przedszkolnego, niepubliczne przedszkole, o którym mowa w art. 90 ust. 1b, niepubliczną szkołę podstawową z oddziałami przedszkolnymi, o których mowa w art. 90 ust. 1ba, lub niepubliczną inną formę wychowania przedszkolnego, o której mowa w art. 90 ust. 1c, może przyznać częściowe lub całkowite zwolnienie z opłat za korzystanie z wychowania przedszkolnego również w przypadkach innych niż określone przez radę gminy na podstawie ust. 5 pkt 2. ” , ust. 6 otrzymuje brzmienie: „
+
+- **d)**
+
+6. Do ustalania opłat za korzystanie z wyżywienia w publicznych przedszkolach, oddziałach przedszkolnych w publicznych szkołach podstawowych oraz publicznych innych formach wychowania przedszkolnego przepisy art. 106 ustawy – Prawo oświatowe stosuje się odpowiednio. ” , uchyla się ust. 7, ust. 8 i 9 otrzymują brzmienie: „
+
+- **e)**
+- **f)**
+
+8. Publiczne przedszkola, publiczne szkoły podstawowe z oddziałami przedszkolnymi, publiczne inne formy wychowania przedszkolnego, niepubliczne przedszkola, o których mowa w art. 90 ust. 1b, niepubliczne szkoły podstawowe z oddziałami przedszkolnymi, o których mowa w art. 90 ust. 1ba, oraz niepubliczne inne formy wychowania przedszkolnego, o których mowa w art. 90 ust. 1c, nie mogą pobierać opłat innych niż opłaty ustalone zgodnie z ust. 5, 5f, 6 i 9.
+
+9. Do przedszkoli, szkół podstawowych z oddziałami przedszkolnymi lub innych form wychowania przedszkolnego prowadzonych przez organy, o których mowa w art. 8 ust. 4 i 17 ustawy – Prawo oświatowe, stosuje się odpowiednio przepisy ust. 5–5e, 5g, 5i oraz 6, z tym że kompetencje rady gminy określone w ust. 5 wykonują te organy. ” , dodaje się ust. 10 w brzmieniu: „
+
+- **g)**
+
+10. W przypadku przedszkoli, szkół podstawowych z oddziałami przedszkolnymi lub innych form wychowania przedszkolnego prowadzonych przez jednostki samorządu terytorialnego, zadania i kompetencje organu prowadzącego określone w ust. 5g, wykonuje organ wykonawczy tej jednostki. ” ;
+
+- **22)** uchyla się art. 14a-14c;
+- **23)** w art. 14d: ust. 4 otrzymuje brzmienie: „
+    - **a)**
+
+4. Kwota roczna dotacji, o której mowa w ust. 1, na każde dziecko, o którym mowa w ust. 3, bez względu na czas przebywania dziecka w przedszkolu, oddziale przedszkolnym w szkole podstawowej lub innej formie wychowania przedszkolnego, wynosi 1506 zł. ” , ust. 6 i 7 otrzymują brzmienie: „
+
+- **b)**
+
+6. Wysokość dotacji, o której mowa w ust. 1, obliczona zgodnie z ust. 3, jest pomniejszana o kwotę stanowiącą iloczyn kwoty rocznej w roku, na który jest udzielana dotacja, i liczby dzieci w wieku do lat 5, którym gmina ma obowiązek zapewnić możliwość korzystania z wychowania przedszkolnego, nieprzyjętych w danym roku szkolnym do publicznego przedszkola, oddziału przedszkolnego w publicznej szkole podstawowej lub publicznej innej formy wychowania przedszkolnego lub do niepublicznego przedszkola, o którym mowa w art. 90 ust. 1b, oddziału przedszkolnego w niepublicznej szkole podstawowej, o którym mowa w art. 90 ust. 1ba, lub niepublicznej innej formy wychowania przedszkolnego, o której mowa w art. 90 ust. 1c, którym wójt (burmistrz, prezydent miasta), wbrew obowiązkowi nie wskazał miejsca korzystania z wychowania przedszkolnego, zgodnie z art. 31 ust. 10 ustawy – Prawo oświatowe.
+
+7. Pomniejszenie dotacji nie zwalnia gminy z obowiązku zapewnienia dzieciom odpowiednio warunków do spełniania obowiązku, o którym mowa w art. 31 ust. 4 ustawy – Prawo oświatowe, i warunków do realizacji prawa, o którym mowa w art. 31 ust. 6 ustawy – Prawo oświatowe. ” , w ust. 11 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Informacje dotyczące dzieci nieprzyjętych w danym roku szkolnym do przedszkola, oddziału przedszkolnego w szkole podstawowej i innej formy wychowania przedszkolnego, przekazywane przez dyrektora przedszkola lub szkoły, wójta (burmistrza, prezydenta miasta) i wojewodę, zgodnie z przepisami wydanymi na podstawie ust. 10, zawierają: ” ;
+
+- **c)**
+- **24)** uchyla się art. 15;
+- **25)** uchyla się art. 16–20;
+- **26)** uchyla się rozdział 2a;
+- **27)** w art. 21 uchyla się ust. 1;
+- **28)** uchyla się art. 21a;
+- **29)** w art. 22: uchyla się ust. 1 i 1a, w ust. 2: – uchyla się pkt 1–2a i 5–7, – uchyla się pkt 11 i 12, uchyla się ust. 3;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **30)** w art. 22a: ust. 6–8 otrzymują brzmienie: „
+    - **a)**
+
+6. Dyrektor przedszkola lub szkoły, po zasięgnięciu opinii rady pedagogicznej, dopuszcza do użytku w danym przedszkolu, oddziale przedszkolnym w szkole podstawowej, danej innej formie wychowania przedszkolnego lub szkole przedstawiony przez nauczyciela lub zespół nauczycieli odpowiednio program wychowania przedszkolnego lub programy nauczania, o których mowa w ust. 1 i 3.
+
+7. Dopuszczone do użytku w danym przedszkolu, oddziale przedszkolnym w szkole podstawowej, danej innej formie wychowania przedszkolnego lub szkole programy wychowania przedszkolnego lub programy nauczania, o których mowa w ust. 1 i 3, stanowią odpowiednio zestaw programów wychowania przedszkolnego lub szkolny zestaw programów nauczania. Dyrektor przedszkola lub szkoły jest odpowiedzialny za uwzględnienie w zestawie programów wychowania przedszkolnego i szkolnym zestawie programów nauczania całości odpowiednio podstawy programowej wychowania przedszkolnego lub podstawy programowej kształcenia ogólnego ustalonej dla danego etapu edukacyjnego, a w przypadku szkoły prowadzącej kształcenie zawodowe – także całości podstawy programowej kształcenia w zawodach, w których kształci szkoła.
+
+8. Przepisów ust. 1–7 nie stosuje się do indywidualnych programów opracowywanych dla uczniów, o których mowa w art. 1 pkt 6 ustawy – Prawo oświatowe, oraz do indywidualnych programów nauki opracowywanych dla uczniów, o których mowa w art. 115 ustawy – Prawo oświatowe. ” , w ust. 9 wyrazy „konwencji, o której mowa w art. 32b ust. 1” zastępuje się wyrazami „Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r. (Dz. U. z 1984 r. poz. 201, z 1999 r. poz. 286 oraz z 2013 r. poz. 1092)”;
+
+- **b)**
+- **31)** w art. 22ab: w ust. 1: – we wprowadzeniu do wyliczenia wyrazy „w klasach IV-VI szkoły podstawowej, w gimnazjum i szkole ponadgimnazjalnej” zastępuje się wyrazami „w klasach IV-VIII szkoły podstawowej i szkole ponadpodstawowej”, – w pkt 2 wyrazy „klas IV-VI szkoły podstawowej, gimnazjum i szkoły ponadgimnazjalnej” zastępuje się wyrazami „klas IV-VIII szkoły podstawowej i szkoły ponadpodstawowej”, w ust. 2 w pkt 1 wyrazy „klas IV-VI szkoły podstawowej, gimnazjum i szkoły ponadgimnazjalnej” zastępuje się wyrazami „klas IV-VIII szkoły podstawowej i szkoły ponadpodstawowej”, w ust. 4 część wspólna otrzymuje brzmienie: „ – po zasięgnięciu opinii rady pedagogicznej i rady rodziców. ” ;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **32)** skreśla się użyte w art. 22ac w ust. 1, w art. 22ae w ust. 2, w art. 22ak w ust. 1, w art. 85b w ust. 2 i 5 oraz w art. 90 w ust. 1, w różnej liczbie i różnym przypadku, wyrazy „i gimnazjum”;
+- **33)** uchyla się art. 22ad;
+- **34)** w art. 22ae: w ust. 1: – pkt 1 i 2 otrzymują brzmienie: „ 1) szkół podstawowych i szkół artystycznych realizujących kształcenie ogólne w zakresie szkoły podstawowej w podręczniki do zajęć z zakresu edukacji: polonistycznej, matematycznej, przyrodniczej i społecznej, zajęć z zakresu danego języka obcego nowożytnego, materiały edukacyjne lub materiały ćwiczeniowe, dla klas I-III, 2) szkół podstawowych i szkół artystycznych realizujących kształcenie ogólne w zakresie szkoły podstawowej w podręczniki, materiały edukacyjne lub materiały ćwiczeniowe, dla klas IV-VIII ” , – uchyla się pkt 3, w ust. 4 wyrazy „szkoła podstawowa i gimnazjum prowadzone” zastępuje się wyrazami „szkoła podstawowa prowadzona”, w ust. 5: – pkt 1 otrzymuje brzmienie: „ 1) szkół podstawowych i szkół artystycznych realizujących kształcenie ogólne w zakresie szkoły podstawowej w podręczniki do zajęć z zakresu edukacji: polonistycznej, matematycznej, przyrodniczej i społecznej, zajęć z zakresu danego języka obcego nowożytnego lub materiały edukacyjne, dla klas I-III – do wysokości 75 zł na ucznia; ” , – pkt 3 otrzymuje brzmienie: „ 3) szkół podstawowych i szkół artystycznych realizujących kształcenie ogólne w zakresie szkoły podstawowej w podręczniki lub materiały edukacyjne dla klasy IV – do wysokości 140 zł na ucznia; ” , – po pkt 3 dodaje się pkt 3a i 3b w brzmieniu: „ 3a) szkół podstawowych i szkół artystycznych realizujących kształcenie ogólne w zakresie szkoły podstawowej w podręczniki lub materiały edukacyjne dla klas V i VI – do wysokości 180 zł na ucznia; 3b) szkół podstawowych i szkół artystycznych realizujących kształcenie ogólne w zakresie szkoły podstawowej w podręczniki lub materiały edukacyjne dla klas VII i VIII – do wysokości 250 zł na ucznia; ” , – pkt 4 otrzymuje brzmienie: „ 4) szkół podstawowych i szkół artystycznych realizujących kształcenie ogólne w zakresie szkoły podstawowej w materiały ćwiczeniowe dla klas IV-VIII – do wysokości 25 zł na ucznia. ” , – uchyla się pkt 5 i 6, w ust. 6 i 7 wyrazy „w ust. 5 pkt 1, 3 i 5” zastępuje się wyrazami „w ust. 5 pkt 1 i 3–3b”, po ust. 7 dodaje się ust. 7a w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+7a. Jeżeli w latach następujących po roku, w którym udzielono dotacji celowej na wszystkich uczniów danej klasy, istnieje konieczność zapewnienia kompletu podręczników, materiałów edukacyjnych lub materiałów ćwiczeniowych dla danej klasy, która nie funkcjonowała w danej szkole lub do tych klas nie uczęszczali uczniowie, dotacja celowa, o której mowa w ust. 5, jest udzielana do wysokości kosztu zakupu kompletów podręczników, materiałów edukacyjnych lub materiałów ćwiczeniowych, rocznie nieprzekraczającej odpowiednio kwot, o których mowa w ust. 5, z uwzględnieniem ust. 5a. ” , w ust. 8 w części wspólnej wyrazy „w ust. 5 pkt 1, 3 i 5” zastępuje się wyrazami „w ust. 5 pkt 1 i 3–3b”, w ust. 9 wyrazy „ust. 5 pkt 2, 4 i 6” zastępuje się wyrazami „ust. 5 pkt 2 i 4”, ust. 10b otrzymuje brzmienie: „
+
+- **f)**
+- **g)**
+- **h)**
+
+10b. Jeżeli w latach szkolnych następujących po roku, w którym udzielono dotacji celowej na wszystkich uczniów danej klasy na wyposażenie klas IV-VIII szkoły podstawowej oraz szkół artystycznych realizujących kształcenie ogólne w zakresie klas IV-VIII szkoły podstawowej, istnieje konieczność zapewnienia, ze względu na zdiagnozowany stopień zaawansowania znajomości danego języka obcego nowożytnego przez uczniów kolejnych roczników tych klas, podręczników lub materiałów edukacyjnych do danego języka obcego nowożytnego innych pod względem poziomu zaawansowania niż zakupione ze środków dotacji celowej, koszt zakupu tych brakujących podręczników lub materiałów edukacyjnych jest refundowany ze środków dotacji celowej przekazanej na kolejny rok szkolny. Koszt zapewnienia podręczników lub materiałów edukacyjnych do danego języka obcego nowożytnego dostosowanych do stopnia zaawansowania znajomości danego języka obcego nowożytnego jest refundowany do wysokości 25 zł na ucznia, uwzględniając koszty obsługi zadania, o których mowa w ust. 15. ” ;
+
+- **35)** w art. 22af w ust. 1, w art. 22ah w ust. 1 i 8 we wprowadzeniu do wyliczenia, w art. 22ai w ust. 1 we wprowadzeniu do wyliczenia i ust. 2 oraz w art. 22al skreśla się wyrazy „lub gimnazjum”;
+- **36)** w art. 22af: w ust. 2 wyrazy „szkoły podstawowej lub gimnazjum prowadzonych” zastępuje się wyrazami „szkoły podstawowej prowadzonej”, w ust. 7 wyrazy „szkołę podstawową lub gimnazjum prowadzone” zastępuje się wyrazami „szkołę podstawową prowadzoną”;
+    - **a)**
+    - **b)**
+
+- **37)** w art. 22ag pkt 1 i 2 otrzymują brzmienie: „
+- **1)** sposób przekazywania przez dyrektora szkoły podstawowej lub szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej, prowadzonych przez jednostki samorządu terytorialnego, oraz dyrektora szkoły podstawowej prowadzonej przez osobę prawną inną niż jednostka samorządu terytorialnego lub osobę fizyczną, jednostkom samorządu terytorialnego informacji niezbędnych dla ustalenia wysokości dotacji celowej, o której mowa w art. 22ae ust. 3 i 4, oraz wzór formularza zawierającego te informacje,
+- **2)** wzór wniosku o udzielenie dotacji celowej, o której mowa w art. 22ae ust. 4, szkole podstawowej prowadzonej przez osobę prawną inną niż jednostka samorządu terytorialnego lub osobę fizyczną, ” ;
+- **38)** w art. 22ai w ust. 1: w pkt 1 wyrazy „art. 22ae ust. 5 pkt 1, 3 i 5” zastępuje się wyrazami „art. 22ae ust. 5 pkt 1 i 3–3b”, w pkt 2 wyrazy „art. 22ae ust. 5 pkt 2, 4 i 6” zastępuje się wyrazami „art. 22ae ust. 5 pkt 2 i 4”;
+    - **a)**
+    - **b)**
+
+- **39)** w art. 22ak: ust. 3 otrzymuje brzmienie: „
+    - **a)**
+
+3. W przypadku uszkodzenia, zniszczenia lub niezwrócenia podręcznika lub materiału edukacyjnego szkoła podstawowa może żądać od rodziców ucznia zwrotu kwoty nieprzekraczającej kosztu zakupu podręcznika lub materiału edukacyjnego. Kwota zwrotu stanowi dochód organu prowadzącego szkołę. ” , uchyla się ust. 4, ust. 5 i 6 otrzymują brzmienie: „
+
+- **b)**
+- **c)**
+
+5. W przypadku gdy uczeń niepełnosprawny przechodzi z jednej szkoły do innej szkoły w trakcie roku szkolnego, podręczniki lub materiały edukacyjne dostosowane do potrzeb edukacyjnych i możliwości psychofizycznych tego ucznia, zakupione z dotacji celowej, o której mowa w art. 22ae ust. 3, z których uczeń korzysta, stają się własnością organu prowadzącego szkołę, do której uczeń przechodzi.
+
+6. W przypadku gdy szkoła dysponuje wolnymi podręcznikami lub materiałami edukacyjnymi, w tym dostosowanymi do potrzeb edukacyjnych i możliwości psychofizycznych uczniów niepełnosprawnych, zakupionymi z dotacji celowej, o której mowa w art. 22ae ust. 3, dyrektor szkoły, za zgodą organu prowadzącego, przekazuje te podręczniki lub materiały edukacyjne dyrektorowi szkoły, który wystąpi z wnioskiem o ich przekazanie. Podręczniki lub materiały edukacyjne stają się własnością organu prowadzącego szkołę, której zostały przekazane. ” , po ust. 6 dodaje się ust. 6a i 6b w brzmieniu: „
+
+- **d)**
+
+6a. W przypadku gdy szkoła dysponuje wolnymi podręcznikami lub materiałami edukacyjnymi, dostosowanymi do potrzeb edukacyjnych i możliwości psychofizycznych uczniów niepełnosprawnych, zakupionymi z dotacji celowej, o której mowa w art. 22ae ust. 3, dyrektor szkoły, za zgodą organu prowadzącego, może wypożyczyć te podręczniki lub materiały edukacyjne dyrektorowi szkoły, który wystąpi z wnioskiem o ich wypożyczenie.
+
+6b. W przypadku uszkodzenia, zniszczenia lub niezwrócenia podręcznika lub materiału edukacyjnego wypożyczonego innej szkole, o których mowa w ust. 6a, przysługuje zwrot kwoty nieprzekraczającej kosztu zakupu podręcznika lub materiału edukacyjnego. Kwota zwrotu stanowi dochód organu prowadzącego szkołę, która wypożyczyła podręcznik lub materiał edukacyjny. ” , ust. 7 otrzymuje brzmienie: „
+
+- **e)**
+
+7. Koszty przekazania lub wypożyczenia podręczników lub materiałów edukacyjnych, o których mowa w ust. 6 i 6a, pokrywa szkoła, która występuje z wnioskiem o przekazanie lub wypożyczenie. Koszty przekazania lub wypożyczenia tych podręczników lub materiałów edukacyjnych mogą być pokryte z dotacji celowej. ” ;
+
+- **40)** w art. 22al skreśla się wyrazy „art. 22ad,”;
+- **41)** w art. 22am: ust. 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+1. W przypadku likwidacji szkoły podstawowej, o której mowa w art. 22ae ust. 2, podręczniki, materiały edukacyjne lub urządzenia, sprzęt lub oprogramowanie, o których mowa w art. 22ae ust. 11, zakupione z dotacji celowej podlegają zwrotowi jednostce samorządu terytorialnego, która udzieliła dotacji.
+
+2. W przypadku likwidacji szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej, o której mowa w art. 22ah ust. 1, podręczniki, materiały edukacyjne lub urządzenia, sprzęt lub oprogramowanie, o których mowa w art. 22ae ust. 11, zakupione z dotacji celowej, podlegają zwrotowi ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+
+- **b)**
+
+2a. W przypadku likwidacji szkół, o których mowa w ust. 1 i 2, wypożyczone podręczniki lub materiały edukacyjne, o których mowa w art. 22ak ust. 6a, podlegają zwrotowi odpowiednio jednostce samorządu terytorialnego, która udzieliła dotacji, lub ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego. ” ;
+
+- **42)** w art. 22an: w ust. 2 wyrazy „konwencji, o której mowa w art. 32b ust. 1” zastępuje się wyrazami „Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r.”, w ust. 3 wyrazy „dopuszczenie do użytku szkolnego zmienionej wersji podręcznika” zastępuje się wyrazami „dopuszczenie do użytku szkolnego zmienionej wersji podręcznika do kształcenia w zawodzie”;
+    - **a)**
+    - **b)**
+
+- **43)** w art. 22ao w ust. 3 w pkt 2 wyrazy „w klasach IV-VI szkoły podstawowej, w gimnazjum i szkole ponadgimnazjalnej” zastępuje się wyrazami „w klasach IV-VIII szkoły podstawowej i szkole ponadpodstawowej”;
+- **44)** w art. 22ar, w art. 22at w ust. 1 w pkt 1, w art. 44zn w ust. 6, w art. 78e w ust. 2 oraz w art. 89d w ust. 2 wyrazy „art. 32a ust. 1” zastępuje się wyrazami „art. 53 ust. 1 ustawy – Prawo oświatowe”;
+- **45)** w art. 22as w ust. 1 pkt 1 otrzymuje brzmienie: „
+- **1)** wykształcenie wyższe i tytuł zawodowy magister, magister inżynier lub równorzędny, z tym że w przypadku rzeczoznawcy do spraw podręczników przeznaczonych do kształcenia specjalnego – wykształcenie wyższe i tytuł zawodowy magister, magister inżynier lub równorzędny, w zakresie specjalności odpowiedniej dla danej niepełnosprawności lub kwalifikacje wymagane do zajmowania stanowiska nauczyciela w szkole specjalnej; ” ;
+- **46)** w art. 22ax skreśla się wyrazy „art. 22ad ust. 2 i 3 oraz”;
+- **47)** w art. 22ay ust. 1 otrzymuje brzmienie: „
+
+1. Uczniowie szkolnych punktów konsultacyjnych, które umożliwiają tym uczniom uzupełnienie wykształcenia w zakresie szkoły podstawowej, zakładanych i prowadzonych przez ministra właściwego do spraw oświaty i wychowania, o których mowa w art. 8 ust. 5 pkt 1 lit. a ustawy – Prawo oświatowe, mają prawo do bezpłatnego dostępu do podręczników, materiałów edukacyjnych lub materiałów ćwiczeniowych, umożliwiających nauczanie obowiązkowych zajęć edukacyjnych, określonych w planie nauczania uzupełniającego, o którym mowa w przepisach wydanych na podstawie art. 47 ust. 3 pkt 1 ustawy – Prawo oświatowe. ” ;
+
+- **48)** w art. 22c: ust. 4 otrzymuje brzmienie: „
+    - **a)**
+
+4. Zadanie, o którym mowa w ust. 1, minister właściwy do spraw oświaty i wychowania oraz minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, mogą wykonywać wraz z jednostkami podległymi tym ministrom lub przez nich nadzorowanymi, a także we współdziałaniu z wojewodami i kuratorami oświaty. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
+
+- **b)**
+
+4a. Do książek pomocniczych, materiałów edukacyjnych i materiałów ćwiczeniowych, dostosowanych do potrzeb edukacyjnych i możliwości psychofizycznych uczniów niepełnosprawnych, stosuje się odpowiednio ust. 1 i 4, w zakresie dotyczącym ministra właściwego do spraw oświaty i wychowania. ” ;
+
+- **49)** po art. 22d dodaje się art. 22e w brzmieniu: „
+
+**Art. 22e.** Podręczniki, materiały edukacyjne i materiały ćwiczeniowe oraz książki pomocnicze, dostosowane do potrzeb edukacyjnych i możliwości psychofizycznych uczniów niepełnosprawnych są dofinansowywane z budżetu państwa, poprzez:
+
+- **1)** udzielanie dotacji celowej, o której mowa w art. 22ae ust. 3 i art. 85b ust. 3;
+- **2)** możliwość zlecenia opracowania i wydania, w tym dystrybucji podręczników, materiałów edukacyjnych, materiałów ćwiczeniowych lub książek pomocniczych, lub ich części, przez ministra właściwego do spraw oświaty i wychowania, o którym mowa w art. 22c. ” ;
+- **50)** uchyla się art. 24;
+- **51)** uchyla się art. 28–32;
+- **52)** w art. 32a: uchyla się ust. 1–3, w ust. 4 wyrazy „art. 22 ust. 1 pkt 1 i ust. 2 pkt 1, 2a i 5–8” zastępuje się wyrazami „art. 22 ust. 2 pkt 8”, uchyla się ust. 5;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **53)** uchyla się art. 32b-35;
+- **54)** uchyla się art. 35b-44;
+- **55)** w art. 44a wyrazy „art. 64 ust. 1 pkt 1 i 2” zastępuje się wyrazami „art. 109 ust. 1 pkt 1 i 2 ustawy – Prawo oświatowe”;
+- **56)** w art. 44b w ust. 6 pkt 4 otrzymuje brzmienie: „
+- **4)** przeprowadzanie egzaminów klasyfikacyjnych, o których mowa w art. 44k ust. 2 i 3, a także w art. 37 ust. 4, art. 115 ust. 3 i art. 164 ust. 3 i 4 ustawy – Prawo oświatowe; ” ;
+- **57)** w art. 44e ust. 5 otrzymuje brzmienie: „
+
+5. Na wniosek ucznia lub jego rodziców dokumentacja dotycząca:
+
+- **1)** egzaminu klasyfikacyjnego, o którym mowa w art. 44k ust. 2 i 3, a także w art. 37 ust. 4, art. 115 ust. 3 i art. 164 ust. 3 i 4 ustawy – Prawo oświatowe,
+- **2)** egzaminu poprawkowego, o którym mowa w art. 44m ust. 1,
+- **3)** zastrzeżeń, o których mowa w art. 44n,
+- **4)** oceniania ucznia, inna niż wymieniona w pkt 1–3 jest udostępniana do wglądu uczniowi lub jego rodzicom. ” ;
+- **58)** w art. 44f ust. 7 otrzymuje brzmienie: „
+
+7. W przypadku uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność intelektualną w stopniu umiarkowanym lub znacznym klasyfikacji śródrocznej i rocznej dokonuje się z uwzględnieniem ustaleń zawartych w indywidualnym programie edukacyjno-terapeutycznym, o którym mowa w art. 127 ust. 3 ustawy – Prawo oświatowe. ” ;
+
+- **59)** w art. 44h: w ust. 2 wyrazy „art. 70 ust. 4” zastępuje się wyrazami „art. 120 ust. 4 ustawy – Prawo oświatowe”, w ust. 3 i 4 wyrazy „art. 71b ust. 7 pkt 2” zastępuje się wyrazami „art. 127 ust. 19 pkt 2 ustawy – Prawo oświatowe”;
+    - **a)**
+    - **b)**
+
+- **60)** w art. 44i w ust. 7 w pkt 2 wyrazy „art. 9 ust. 1 pkt 3 lit. e” zastępuje się wyrazami „art. 18 ust. 1 pkt 2 lit. d ustawy – Prawo oświatowe”;
+- **61)** w art. 44l ust. 1 otrzymuje brzmienie: „
+
+1. Egzamin klasyfikacyjny, o którym mowa w art. 44k ust. 2 i 3, a także w art. 37 ust. 4, art. 115 ust. 3 i art. 164 ust. 3 i 4 ustawy – Prawo oświatowe, przeprowadza komisja powołana przez dyrektora szkoły. ” ;
+
+- **62)** w art. 44o ust. 5 i 6 otrzymują brzmienie: „
+
+5. O promowaniu do klasy programowo wyższej ucznia posiadającego orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność intelektualną w stopniu umiarkowanym lub znacznym postanawia rada pedagogiczna, uwzględniając ustalenia zawarte w indywidualnym programie edukacyjno-terapeutycznym, o którym mowa w art. 127 ust. 3 ustawy – Prawo oświatowe.
+
+6. Uczeń szkoły podstawowej, w tym szkoły podstawowej w zakładzie poprawczym lub schronisku dla nieletnich, który posiada orzeczenie o potrzebie kształcenia specjalnego i ma opóźnienie w realizacji programu nauczania co najmniej jednej klasy, a który w szkole podstawowej uzyskuje ze wszystkich obowiązkowych zajęć edukacyjnych oraz zajęć z języka mniejszości narodowej, mniejszości etnicznej lub języka regionalnego oceny uznane za pozytywne w ramach wewnątrzszkolnego oceniania oraz rokuje opanowanie w jednym roku szkolnym treści nauczania przewidzianych w programie nauczania dwóch klas, może być promowany do klasy programowo wyższej również w ciągu roku szkolnego. ” ;
+
+- **63)** uchyla się art. 44p;
+- **64)** w art. 44q: ust. 1–3 otrzymują brzmienie: „
+    - **a)**
+
+1. Uczeń kończy szkołę podstawową lub szkołę ponadpodstawową, jeżeli:
+
+- **1)** w wyniku klasyfikacji końcowej otrzymał ze wszystkich obowiązkowych zajęć edukacyjnych oraz zajęć z języka mniejszości narodowej, mniejszości etnicznej lub języka regionalnego pozytywne końcowe oceny klasyfikacyjne, o których mowa w przepisach wydanych na podstawie art. 44zb;
+- **2)** w przypadku szkoły podstawowej – przystąpił ponadto do egzaminu ósmoklasisty, z zastrzeżeniem art. 44zw, art. 44zx i art. 44zz ust. 2.
+
+2. O ukończeniu szkoły przez ucznia posiadającego orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność intelektualną w stopniu umiarkowanym lub znacznym postanawia rada pedagogiczna, uwzględniając ustalenia zawarte w indywidualnym programie edukacyjno-terapeutycznym, o którym mowa w art. 127 ust. 3 ustawy – Prawo oświatowe.
+
+3. Uczeń szkoły podstawowej, który nie spełnił warunków, o których mowa w ust. 1, powtarza ostatnią klasę szkoły podstawowej i przystępuje w roku szkolnym, w którym powtarza tę klasę, do egzaminu ósmoklasisty. ” , uchyla się ust. 3a;
+
+- **b)**
+- **65)** w art. 44u w ust. 2 i 4, w art. 44w w ust. 4 oraz w art. 44z w ust. 5 wyrazy „art. 16 ust. 6c pkt 1” zastępuje się wyrazami „art. 36 ust. 16 pkt 1 ustawy – Prawo oświatowe”;
+- **66)** w art. 44u ust. 5 otrzymuje brzmienie: „
+
+5. Na wniosek słuchacza szkoły dla dorosłych, a w przypadku słuchacza, o którym mowa w art. 36 ust. 16 pkt 1 ustawy – Prawo oświatowe – na wniosek słuchacza lub jego rodziców, dokumentacja dotycząca:
+
+- **1)** egzaminu klasyfikacyjnego, o którym mowa w art. 164 ust. 3 i 4 ustawy – Prawo oświatowe,
+- **2)** egzaminu semestralnego, o którym mowa w art. 44w ust. 1,
+- **3)** egzaminu poprawkowego, o którym mowa w art. 44y ust. 1,
+- **4)** zastrzeżeń, o których mowa w art. 44n,
+- **5)** oceniania słuchacza, inna niż wymieniona w pkt 1–4 jest udostępniana do wglądu odpowiednio temu słuchaczowi lub jego rodzicom. ” ;
+- **67)** art. 44za otrzymuje brzmienie: „ Art. 44za.
+
+1. Słuchacz kończy szkołę podstawową lub szkołę ponadpodstawową dla dorosłych, jeżeli:
+
+- **1)** w wyniku klasyfikacji końcowej otrzymał ze wszystkich obowiązkowych zajęć edukacyjnych pozytywne końcowe oceny klasyfikacyjne, o których mowa w przepisach wydanych na podstawie art. 44zb;
+- **2)** w przypadku szkoły podstawowej – przystąpił ponadto do egzaminu ósmoklasisty, z zastrzeżeniem art. 44zw, art. 44zx i art. 44zz ust. 2.
+
+2. Słuchacz szkoły podstawowej dla dorosłych, o którym mowa w art. 36 ust. 16 pkt 1 ustawy – Prawo oświatowe, który nie spełnił warunków, o których mowa w ust. 1, powtarza ostatni semestr i przystępuje w roku szkolnym, w którym powtarza semestr, do egzaminu ósmoklasisty. ” ;
+
+- **68)** w art. 44zb: uchyla się pkt 3, w pkt 6 wyrazy „art. 16 ust. 8” zastępuje się wyrazami „art. 37 ust. 1 ustawy – Prawo oświatowe”;
+    - **a)**
+    - **b)**
+
+- **69)** w art. 44zd w ust. 6 w pkt 3 wyrazy „egzaminu promocyjnego” zastępuje się wyrazami „egzaminu promocyjnego lub końcowego”;
+- **70)** w art. 44zg: w ust. 1 wyrazy „egzaminu promocyjnego” zastępuje się wyrazami „egzaminu promocyjnego lub końcowego”, ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2. Roczna i końcowa ocena klasyfikacyjna z wybranych zajęć edukacyjnych artystycznych określonych w przepisach wydanych na podstawie art. 44zq jest ustalana odpowiednio w trybie egzaminu promocyjnego lub końcowego, który ma na celu sprawdzenie wiedzy i umiejętności ucznia w zakresie tych zajęć. ” , w ust. 3 wyrazy „egzaminu promocyjnego” zastępuje się wyrazami „egzaminu promocyjnego lub końcowego”, w ust. 4 wyrazy „Egzamin promocyjny” zastępuje się wyrazami „Egzamin promocyjny i końcowy”, w ust. 5 wyrazy „egzaminów promocyjnych” zastępuje się wyrazami „egzaminów promocyjnych i końcowych”, w ust. 6 wyrazy „egzaminu promocyjnego” zastępuje się wyrazami „egzaminu promocyjnego lub końcowego”, ust. 7 otrzymuje brzmienie: „
+
+- **c)**
+- **d)**
+- **e)**
+- **f)**
+- **g)**
+
+7. W przypadkach losowych lub zdrowotnych rada pedagogiczna może zwolnić ucznia z egzaminu promocyjnego lub końcowego. W takim przypadku roczną lub końcową ocenę klasyfikacyjną ustala nauczyciel prowadzący dane zajęcia edukacyjne artystyczne. ” ;
+
+- **71)** art. 44zh otrzymuje brzmienie: „ Laureat ogólnopolskiego konkursu, przesłuchania lub przeglądu w zakresie przedmiotów artystycznych, których organizatorem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego lub specjalistyczna jednostka nadzoru, o której mowa w art. 53 ust. 1 ustawy – Prawo oświatowe, otrzymuje odpowiednio z danych zajęć edukacyjnych artystycznych najwyższą pozytywną roczną ocenę klasyfikacyjną, a w artystycznej szkole policealnej – najwyższą pozytywną semestralną ocenę klasyfikacyjną, o której mowa w przepisach wydanych na podstawie art. 44zq. W przypadku zajęć edukacyjnych artystycznych, z których ocena jest ustalana w trybie egzaminu promocyjnego lub końcowego, laureat jest jednocześnie zwolniony z tego egzaminu. ” ;
+- **72)** w art. 44zj uchyla się ust. 3;
+- **73)** w art. 44zk: w ust. 2 wyrazy „egzaminu promocyjnego” zastępuje się wyrazami „egzaminu promocyjnego lub końcowego”, w ust. 8 wyrazy „art. 39 ust. 2a” zastępuje się wyrazami „art. 68 ust. 3 ustawy – Prawo oświatowe”;
+    - **a)**
+    - **b)**
+
+- **74)** w art. 44zl: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Uczeń szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej lub liceum ogólnokształcącego otrzymuje promocję do klasy programowo wyższej, jeżeli:
+
+- **1)** ze wszystkich obowiązkowych zajęć edukacyjnych otrzymał pozytywne roczne oceny klasyfikacyjne, o których mowa w przepisach wydanych na podstawie art. 44zq, z zastrzeżeniem art. 44zk ust. 7, oraz
+- **2)** przystąpił do egzaminu ósmoklasisty, z zastrzeżeniem art. 44zw, art. 44zx i art. 44zz ust. 2 – w przypadku ucznia klasy, której zakres nauczania odpowiada klasie VIII szkoły podstawowej. ” , uchyla się ust. 2;
+    - **b)**
+
+- **75)** w art. 44zm: w ust. 1 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** w przypadku szkoły artystycznej realizującej kształcenie ogólne, w której ostatni rok nauki odpowiada klasie VIII szkoły podstawowej – ponadto przystąpił do egzaminu ósmoklasisty, z zastrzeżeniem art. 44zw, art. 44zx i art. 44zz ust. 2. ” , ust. 2 otrzymuje brzmienie: „
+    - **b)**
+
+2. Uczeń, który nie spełnił warunku, o którym mowa w ust. 1 pkt 2, może za zgodą rady pedagogicznej powtarzać ostatnią klasę i przystąpić do egzaminu ósmoklasisty. ” , uchyla się ust. 4;
+
+- **c)**
+- **76)** w art. 44zn ust. 8 otrzymuje brzmienie: „
+
+8. Laureat olimpiady artystycznej oraz laureat konkursu, którego organizatorem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego lub specjalistyczna jednostka nadzoru, o której mowa w art. 53 ust. 1 ustawy – Prawo oświatowe, jest zwolniony z części teoretycznej egzaminu dyplomowego w zakresie, który obejmowała olimpiada lub konkurs. Zwolnienie jest równoznaczne z uzyskaniem najwyższej pozytywnej oceny z tej części egzaminu. ” ;
+
+- **77)** w art. 44zq: uchyla się pkt 3, w pkt 5 wyrazy „egzaminu promocyjnego” zastępuje się wyrazami „egzaminu promocyjnego lub końcowego”, w pkt 6 wyrazy „poprawkowego i promocyjnego” zastępuje się wyrazami „poprawkowego, promocyjnego i końcowego”;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **78)** tytuł rozdziału 3b otrzymuje brzmienie: „Egzamin ósmoklasisty, egzamin maturalny i egzamin potwierdzający kwalifikacje w zawodzie”;
+- **79)** art. 44zs otrzymuje brzmienie: „ Egzamin ósmoklasisty jest przeprowadzany na podstawie wymagań określonych w podstawie programowej kształcenia ogólnego dla szkoły podstawowej, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 lit. b ustawy – Prawo oświatowe, oraz sprawdza, w jakim stopniu uczeń lub słuchacz spełnia te wymagania. ” ;
+- **80)** w art. 44zt wprowadzenie do wyliczenia otrzymuje brzmienie: „ Egzamin ósmoklasisty jest przeprowadzany: ” ;
+- **81)** w art. 44zu: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Egzamin ósmoklasisty jest przeprowadzany w formie pisemnej. ” , ust. 3 i 4 otrzymują brzmienie: „
+
+- **b)**
+
+3. Egzamin ósmoklasisty obejmuje następujące przedmioty obowiązkowe:
+
+- **1)** język polski;
+- **2)** matematykę;
+- **3)** język obcy nowożytny;
+- **4)** jeden przedmiot do wyboru spośród przedmiotów: biologia, chemia, fizyka, geografia lub historia.
+
+4. Uczeń lub słuchacz przystępuje do egzaminu ósmoklasisty z języka obcego nowożytnego, którego uczy się w szkole w ramach obowiązkowych zajęć edukacyjnych. ” , uchyla się ust. 5–7;
+
+- **c)**
+- **82)** w art. 44zv: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Uczeń szkoły lub oddziału, w którym zajęcia edukacyjne są prowadzone w języku mniejszości narodowej, mniejszości etnicznej lub języku regionalnym, przystępuje do egzaminu ósmoklasisty z przedmiotów, o których mowa w art. 44zu ust. 3 pkt 2 i 4, w języku polskim albo w języku danej mniejszości narodowej, mniejszości etnicznej lub języku regionalnym. ” , uchyla się ust. 2;
+
+- **b)**
+- **83)** w art. 44zw: ust. 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+1. Uczeń posiadający orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność intelektualną w stopniu umiarkowanym lub znacznym lub niepełnosprawności sprzężone, gdy jedną z niepełnosprawności jest niepełnosprawność intelektualna w stopniu umiarkowanym lub znacznym, nie przystępuje do egzaminu ósmoklasisty.
+
+2. Uczeń posiadający orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawności sprzężone inne niż wymienione w ust. 1 może być zwolniony przez dyrektora okręgowej komisji egzaminacyjnej z obowiązku przystąpienia do egzaminu ósmoklasisty, na wniosek rodziców pozytywnie zaopiniowany przez dyrektora szkoły. ” , uchyla się ust. 3;
+
+- **b)**
+- **84)** art. 44zx-44zz otrzymują brzmienie: „
+
+1. Laureat i finalista olimpiady przedmiotowej wymienionej w wykazie, o którym mowa w art. 44zzzw, oraz laureat konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim, przeprowadzanego zgodnie z przepisami wydanymi na podstawie art. 22 ust. 2 pkt 8, organizowanych z zakresu jednego z przedmiotów objętych egzaminem ósmoklasisty, są zwolnieni z egzaminu ósmoklasisty z tego przedmiotu.
+
+2. Zwolnienie, o którym mowa w ust. 1, następuje na podstawie zaświadczenia stwierdzającego uzyskanie odpowiednio przez ucznia lub słuchacza szkoły podstawowej lub ucznia szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej tytułu odpowiednio laureata lub finalisty. Zaświadczenie przedkłada się przewodniczącemu zespołu egzaminacyjnego, o którym mowa w art. 44zzs ust. 3.
+
+3. Zwolnienie, o którym mowa w ust. 1, jest równoznaczne z uzyskaniem z egzaminu ósmoklasisty z danego przedmiotu najwyższego wyniku.
+
+4. W przypadku gdy uczeń lub słuchacz uzyskał tytuł laureata lub finalisty, o których mowa w ust. 1, z innego języka obcego nowożytnego lub innego przedmiotu do wyboru, o którym mowa w art. 44zu ust. 3 pkt 4, niż ten, który został zadeklarowany, dyrektor szkoły, na wniosek rodziców ucznia lub na wniosek słuchacza, złożony nie później niż na 2 tygodnie przed terminem egzaminu ósmoklasisty, informuje okręgową komisję egzaminacyjną o zmianie języka obcego nowożytnego, jeżeli języka tego uczeń lub słuchacz uczy się w ramach obowiązkowych zajęć edukacyjnych, lub o zmianie przedmiotu do wyboru. Przepisy ust. 3 stosuje się odpowiednio.
+
+1. Rodzice ucznia lub słuchacz składają dyrektorowi szkoły, nie później niż do dnia 30 września roku szkolnego, w którym jest przeprowadzany egzamin ósmoklasisty, pisemną deklarację:
+
+- **1)** wskazującą język obcy nowożytny, z którego uczeń lub słuchacz przystąpi do egzaminu ósmoklasisty;
+- **2)** wskazującą przedmiot do wyboru, o którym mowa w art. 44zu ust. 3 pkt 4;
+- **3)** informującą o zamiarze przystąpienia do egzaminu ósmoklasisty z danego przedmiotu lub przedmiotów, o których mowa w art. 44zu ust. 3 pkt 2 i 4, w języku danej mniejszości narodowej, mniejszości etnicznej lub języku regionalnym.
+
+2. Rodzice ucznia lub słuchacz mogą złożyć dyrektorowi szkoły, nie później niż na 3 miesiące przed terminem egzaminu ósmoklasisty, z zastrzeżeniem art. 44zx ust. 4, pisemną informację o:
+
+- **1)** zmianie języka obcego nowożytnego wskazanego w deklaracji;
+- **2)** zmianie przedmiotu do wyboru, o którym mowa w art. 44zu ust. 3 pkt 4, wskazanego w deklaracji;
+- **3)** rezygnacji z przystąpienia do egzaminu ósmoklasisty z danego przedmiotu lub przedmiotów, o których mowa w art. 44zu ust. 3 pkt 2 i 4, w języku danej mniejszości narodowej, mniejszości etnicznej lub języku regionalnym.
+
+1. Uczeń lub słuchacz, który z przyczyn losowych lub zdrowotnych, w terminie głównym:
+
+- **1)** nie przystąpił do egzaminu ósmoklasisty z danego przedmiotu lub przedmiotów albo
+- **2)** przerwał egzamin ósmoklasisty z danego przedmiotu lub przedmiotów przystępuje do egzaminu z tego przedmiotu lub przedmiotów w terminie dodatkowym w szkole, której jest uczniem lub słuchaczem.
+
+2. W szczególnych przypadkach losowych lub zdrowotnych, uniemożliwiających przystąpienie do egzaminu ósmoklasisty z danego przedmiotu lub przedmiotów w terminie dodatkowym, dyrektor okręgowej komisji egzaminacyjnej, na udokumentowany wniosek dyrektora szkoły, może zwolnić ucznia lub słuchacza z obowiązku przystąpienia do egzaminu ósmoklasisty z danego przedmiotu lub przedmiotów. Dyrektor szkoły składa wniosek w porozumieniu z rodzicami ucznia lub ze słuchaczem. ” ;
+
+- **85)** w art. 44zza: ust. 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+1. Wyniki egzaminu ósmoklasisty są przedstawiane w procentach i na skali centylowej.
+
+2. Wyniki egzaminu ósmoklasisty w procentach ustala dyrektor okręgowej komisji egzaminacyjnej na podstawie:
+
+- **1)** liczby punktów przyznanych przez egzaminatorów sprawdzających prace egzaminacyjne oraz
+- **2)** elektronicznego odczytu karty odpowiedzi – w przypadku wykorzystania do sprawdzania prac egzaminacyjnych narzędzi elektronicznych. ” , ust. 4 i 5 otrzymują brzmienie: „
+    - **b)**
+
+4. Wyniki egzaminu ósmoklasisty obejmują:
+
+- **1)** wynik z języka polskiego;
+- **2)** wynik z matematyki;
+- **3)** wynik z języka obcego nowożytnego;
+- **4)** wynik z przedmiotu do wyboru, o którym mowa w art. 44zu ust. 3 pkt 4.
+
+5. Wyniki egzaminu ósmoklasisty na skali centylowej opracowuje Centralna Komisja Egzaminacyjna na podstawie wyników ustalonych przez dyrektorów okręgowych komisji egzaminacyjnych. ” , ust. 7 i 8 otrzymują brzmienie: „
+
+- **c)**
+
+7. Wyniki egzaminu ósmoklasisty nie wpływają na ukończenie szkoły, a w przypadku szkoły artystycznej realizującej kształcenie ogólne z zakresu szkoły podstawowej, w której klasa odpowiadająca klasie VIII szkoły podstawowej nie jest ostatnią klasą w cyklu kształcenia – również na promocję do klasy programowo wyższej.
+
+8. Dyrektor szkoły przekazuje uczniowi lub jego rodzicom albo słuchaczowi:
+
+- **1)** zaświadczenie o szczegółowych wynikach egzaminu ósmoklasisty, wydane przez okręgową komisję egzaminacyjną, wraz ze świadectwem ukończenia szkoły – w przypadku gdy uczeń lub słuchacz spełnił warunki określone odpowiednio w art. 44q ust. 1, art. 44za ust. 1 lub art. 44zm ust. 1 pkt 2, albo
+- **2)** w przypadku szkoły artystycznej realizującej kształcenie ogólne z zakresu szkoły podstawowej, w której klasa odpowiadająca klasie VIII szkoły podstawowej nie jest ostatnią klasą w cyklu kształcenia – zaświadczenie o szczegółowych wynikach egzaminu ósmoklasisty, wydane przez okręgową komisję egzaminacyjną, wraz ze świadectwem promocyjnym – w przypadku gdy uczeń spełnił warunki określone w art. 44zl ust. 1, albo
+- **3)** informację o szczegółowych wynikach egzaminu ósmoklasisty, opracowaną przez okręgową komisję egzaminacyjną – w przypadku gdy uczeń lub słuchacz nie spełnił warunków określonych w art. 44q ust. 1, art. 44za ust. 1, art. 44zl ust. 1 lub art. 44zm ust. 1 pkt 2. ” ;
+- **86)** art. 44zzb otrzymuje brzmienie: „ Egzamin maturalny jest przeprowadzany na podstawie wymagań określonych w podstawie programowej kształcenia ogólnego, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 lit. c i d ustawy – Prawo oświatowe, oraz sprawdza, w jakim stopniu absolwent spełnia te wymagania. ” ;
+- **87)** w art. 44zzd: po ust. 4 dodaje się ust. 4a-4c w brzmieniu: „
+    - **a)**
+
+4a. Absolwent szkoły lub oddziału dwujęzycznego przystępuje do części pisemnej egzaminu maturalnego z języka obcego nowożytnego na poziomie dwujęzycznym, o którym mowa w art. 44zze ust. 3 pkt 2, jako przedmiotu dodatkowego, o którym mowa w ust. 4. Przepis art. 44zze ust. 4 stosuje się odpowiednio.
+
+4b. Obowiązek przystąpienia do części pisemnej egzaminu maturalnego z jednego przedmiotu dodatkowego, o którym mowa w ust. 4, nie dotyczy absolwenta posiadającego dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika.
+
+4c. Przepisu ust. 4b nie stosuje się do absolwenta szkoły lub oddziału dwujęzycznego. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
+
+- **b)**
+
+5a. Absolwent, o którym mowa w ust. 4b, może w danym roku przystąpić do egzaminu maturalnego z nie więcej niż pięciu przedmiotów dodatkowych. ” ;
+
+- **88)** w art. 44zzh w ust. 6 pkt 6 otrzymuje brzmienie: „
+- **6)** języka obcego nowożytnego jako przedmiotu dodatkowego zdawanego w części pisemnej – jest równoznaczne z uzyskaniem z tego języka w części pisemnej egzaminu maturalnego najwyższego wyniku na poziomie: wskazanym w deklaracji, o której mowa w art. 44zzi, dwujęzycznym – w przypadku absolwenta, o którym mowa w art. 44zzd ust. 4a. ” ;
+    - **a)**
+    - **b)**
+
+- **89)** w art. 44zzl: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Absolwent zdał egzamin maturalny, jeżeli:
+
+- **1)** z każdego przedmiotu obowiązkowego w części ustnej i w części pisemnej otrzymał co najmniej 30% punktów możliwych do uzyskania, oraz
+- **2)** z co najmniej jednego przedmiotu dodatkowego w części pisemnej otrzymał co najmniej 30% punktów możliwych do uzyskania z zastrzeżeniem ust. 1a. ” , po ust. 1 dodaje ust. 1a w brzmieniu: „
+    - **b)**
+
+1a. Absolwent posiadający dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika zdał egzamin maturalny, jeżeli z każdego przedmiotu obowiązkowego w części ustnej i w części pisemnej otrzymał co najmniej 30% punktów możliwych do uzyskania. ” , uchyla się ust. 2, ust. 3 otrzymuje brzmienie: „
+
+- **c)**
+- **d)**
+
+3. Niezdanie lub nieprzystąpienie do egzaminu maturalnego z:
+
+- **1)** przedmiotu lub przedmiotów obowiązkowych w części ustnej lub w części pisemnej, albo
+- **2)** przedmiotu lub przedmiotów dodatkowych w części ustnej lub części pisemnej nie stanowi przeszkody w przystępowaniu do egzaminu maturalnego z pozostałych przedmiotów. ” ;
+- **90)** w art. 44zzm: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Absolwent, który przystąpił do egzaminu maturalnego ze wszystkich przedmiotów obowiązkowych w części ustnej i w części pisemnej oraz do co najmniej jednego przedmiotu dodatkowego w części pisemnej i nie zdał egzaminu maturalnego wyłącznie z jednego przedmiotu obowiązkowego w części ustnej albo w części pisemnej albo nie zdał egzaminu z co najmniej jednego przedmiotu dodatkowego w części pisemnej, może w tym samym roku przystąpić do egzaminu maturalnego z tego samego przedmiotu obowiązkowego odpowiednio w części ustnej albo w części pisemnej albo tego samego przedmiotu dodatkowego w części pisemnej, w terminie poprawkowym, z zastrzeżeniem ust. 1a. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+- **b)**
+
+1a. Absolwent posiadający dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika, który przystąpił do egzaminu maturalnego ze wszystkich przedmiotów obowiązkowych w części ustnej i w części pisemnej i nie zdał egzaminu maturalnego wyłącznie z jednego przedmiotu obowiązkowego w części ustnej albo w części pisemnej, może w tym samym roku przystąpić do egzaminu maturalnego z tego samego przedmiotu obowiązkowego odpowiednio w części ustnej albo w części pisemnej, w terminie poprawkowym. ” , ust. 2 otrzymuje brzmienie: „
+
+- **c)**
+
+2. Przepisów ust. 1 i 1a nie stosuje się w przypadku gdy egzamin maturalny z przedmiotu lub przedmiotów, o których mowa w ust. 1 lub 1a, został unieważniony. ” , w ust. 3 wyrazy „ust. 1” zastępuje się wyrazami „ust. 1 lub 1a”;
+
+- **d)**
+- **91)** w art. 44zzn: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. Absolwent, który nie zdał egzaminu maturalnego z co najmniej jednego przedmiotu dodatkowego w części pisemnej, może przystąpić ponownie do egzaminu maturalnego z dowolnego przedmiotu dodatkowego, zgodnie z przepisami obowiązującymi w roku, w którym ponownie przystępuje do egzaminu maturalnego, w okresie 5 lat od pierwszego egzaminu maturalnego, licząc od października roku, w którym absolwent przystąpił do egzaminu maturalnego po raz pierwszy, z zastrzeżeniem art. 44zzd ust. 4a. ” , w ust. 4 wyrazy „art. 44zzl ust. 1” zastępuje się wyrazami „art. 44zzl ust. 1 lub 1a”, w ust. 8 wyrazy „art. 44zzd ust. 5” zastępuje się wyrazami „44zzd ust. 5 lub 5a”;
+
+- **b)**
+- **c)**
+- **92)** po art. 44zzn dodaje się art. 44zzna w brzmieniu: „
+
+1. Absolwent, który nie zdał egzaminu maturalnego z co najmniej jednego przedmiotu dodatkowego w części pisemnej, może otrzymać świadectwo dojrzałości wydane przez okręgową komisję egzaminacyjną, jeżeli w okresie 5 lat od pierwszego egzaminu maturalnego, licząc od października roku, w którym absolwent przystąpił do egzaminu maturalnego po raz pierwszy, uzyskał dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika.
+
+2. Po upływie 5 lat od daty pierwszego przystąpienia do egzaminu maturalnego, licząc od października roku, w którym absolwent przystąpił do egzaminu maturalnego po raz pierwszy, absolwent, o którym mowa w ust. 1, przystępuje do egzaminu maturalnego w pełnym zakresie, zgodnie z przepisami obowiązującymi w roku, w którym ponownie przystępuje do egzaminu maturalnego. ” ;
+
+- **93)** w art. 44zzr ust. 7 otrzymuje brzmienie: „
+
+7. Uczeń albo absolwent, o którym mowa w art. 165 ust. 1 i 2 ustawy – Prawo oświatowe, któremu ograniczona znajomość języka polskiego utrudnia zrozumienie czytanego tekstu, może przystąpić do:
+
+- **1)** egzaminu ósmoklasisty, z wyjątkiem egzaminu ósmoklasisty z języka obcego nowożytnego – w warunkach i formie dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych wynikających z tego ograniczenia, na podstawie pozytywnej opinii rady pedagogicznej;
+- **2)** egzaminu maturalnego, z wyjątkiem egzaminu maturalnego z języka obcego nowożytnego, języka mniejszości narodowej, mniejszości etnicznej lub języka regionalnego – w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych wynikających z tego ograniczenia, na podstawie pozytywnej opinii rady pedagogicznej. ” ;
+- **94)** w art. 44zzu ust. 3 otrzymuje brzmienie: „
+
+3. Egzaminatorzy, o których mowa w ust. 1, tworzą odpowiednio zespół egzaminatorów w zakresie danego przedmiotu objętego egzaminem ósmoklasisty lub egzaminem maturalnym. W przypadku egzaminu ósmoklasisty z języka obcego nowożytnego egzaminatorzy tworzą zespół egzaminatorów w zakresie danego języka obcego nowożytnego. ” ;
+
+- **95)** w art. 44zzv: pkt 3 otrzymuje brzmienie: „
+    - **a)**
+
+- **3)** zakłócania przez ucznia, słuchacza albo absolwenta prawidłowego przebiegu egzaminu ósmoklasisty z danego przedmiotu albo części ustnej lub części pisemnej egzaminu maturalnego, w sposób utrudniający pracę pozostałym uczniom, słuchaczom albo absolwentom ” , część wspólna otrzymuje brzmienie: „ – przewodniczący zespołu egzaminacyjnego przerywa i unieważnia temu uczniowi, słuchaczowi albo absolwentowi odpowiednio egzamin ósmoklasisty z danego przedmiotu albo egzamin maturalny z danego przedmiotu odpowiednio w części ustnej lub w części pisemnej. Informację o przerwaniu i unieważnieniu zamieszcza się w protokole przebiegu odpowiednio egzaminu ósmoklasisty i egzaminu maturalnego. ” ;
+    - **b)**
+
+- **96)** w art. 44zzw: w ust. 1 część wspólna otrzymuje brzmienie: „ – dyrektor okręgowej komisji egzaminacyjnej przekazuje, za pośrednictwem dyrektora szkoły, uczniowi lub jego rodzicom, słuchaczowi albo absolwentowi pisemną informację o zamiarze unieważnienia temu uczniowi, słuchaczowi albo absolwentowi odpowiednio egzaminu ósmoklasisty z danego przedmiotu albo egzaminu maturalnego z danego przedmiotu w części pisemnej. Dyrektor szkoły niezwłocznie przekazuje tę informację uczniowi lub jego rodzicom, słuchaczowi albo absolwentowi. ” , ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2. Uczeń lub jego rodzice, słuchacz albo absolwent mają prawo złożyć wniosek o wgląd do dokumentacji, na podstawie której dyrektor okręgowej komisji egzaminacyjnej zamierza unieważnić odpowiednio egzamin ósmoklasisty z danego przedmiotu albo egzamin maturalny z danego przedmiotu w części pisemnej. Wniosek składa się do dyrektora okręgowej komisji egzaminacyjnej w terminie 2 dni roboczych od dnia otrzymania pisemnej informacji, o której mowa w ust. 1. ” , w ust. 4 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Dyrektor okręgowej komisji egzaminacyjnej rozstrzyga o unieważnieniu odpowiednio egzaminu ósmoklasisty z danego przedmiotu lub egzaminu maturalnego z danego przedmiotu w części pisemnej, w terminie 14 dni od dnia: ” , ust. 5 otrzymuje brzmienie: „
+
+- **c)**
+- **d)**
+
+5. Dyrektor okręgowej komisji egzaminacyjnej przekazuje uczniowi lub jego rodzicom, słuchaczowi albo absolwentowi pisemną informację o unieważnieniu odpowiednio egzaminu ósmoklasisty z danego przedmiotu lub egzaminu maturalnego z danego przedmiotu w części pisemnej, wraz z uzasadnieniem. ” , ust. 9 otrzymuje brzmienie: „
+
+- **e)**
+
+9. W przypadku braku możliwości przekazania uczniowi lub jego rodzicom, słuchaczowi albo absolwentowi pisemnej informacji, o której mowa w ust. 1, dyrektor szkoły niezwłocznie informuje o tym dyrektora okręgowej komisji egzaminacyjnej, który, w terminie 7 dni od dnia otrzymania informacji od dyrektora szkoły, rozstrzyga o unieważnieniu egzaminu ósmoklasisty z danego przedmiotu lub egzaminu maturalnego z danego przedmiotu w części pisemnej. W przypadku unieważnienia dyrektor okręgowej komisji egzaminacyjnej przekazuje, za pośrednictwem dyrektora szkoły, pisemną informację o tym unieważnieniu wraz z uzasadnieniem uczniowi lub jego rodzicom, słuchaczowi albo absolwentowi. Przepisy ust. 2 i 3 stosuje się odpowiednio. ” , w ust. 13 wyrazy „ust. 1” zastępuje się wyrazami „ust. 1 lub 1a”, ust. 15 i 16 otrzymują brzmienie: „
+
+- **f)**
+- **g)**
+
+15. Uczeń lub słuchacz, któremu unieważniono egzamin ósmoklasisty z danego przedmiotu, przystępuje ponownie do egzaminu ósmoklasisty z tego przedmiotu w dodatkowym terminie w szkole, której jest uczniem lub słuchaczem.
+
+16. W przypadku unieważnienia egzaminu maturalnego danego absolwenta z przedmiotu dodatkowego, o którym mowa w art. 44zzd ust. 5 i 5a, dyrektor okręgowej komisji egzaminacyjnej ustala wynik egzaminu maturalnego z tego przedmiotu dodatkowego jako „0%”. ” ;
+
+- **97)** art. 44zzx otrzymuje brzmienie: „ W przypadku unieważnienia z przyczyn, o których mowa w art. 44zzv lub art. 44zzw ust. 1, egzaminu ósmoklasisty z danego przedmiotu, przeprowadzonego w terminie dodatkowym, w sytuacjach określonych w art. 44zz ust. 1 i art. 44zzw ust. 15, dyrektor okręgowej komisji egzaminacyjnej ustala wynik egzaminu ósmoklasisty z danego przedmiotu jako „0%”. ” ;
+- **98)** w art. 44zzy: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Uczeń lub jego rodzice, słuchacz albo absolwent mogą, w terminie 2 dni roboczych od dnia przeprowadzenia egzaminu ósmoklasisty z danego przedmiotu lub egzaminu maturalnego z danego przedmiotu w części ustnej lub części pisemnej, zgłosić zastrzeżenia wraz z uzasadnieniem do dyrektora okręgowej komisji egzaminacyjnej, jeżeli uznają, że w trakcie egzaminu zostały naruszone przepisy dotyczące jego przeprowadzania. ” , ust. 7 i 8 otrzymują brzmienie: „
+
+- **b)**
+
+7. W przypadku stwierdzenia naruszenia przepisów dotyczących przeprowadzania egzaminu ósmoklasisty lub egzaminu maturalnego, na skutek zastrzeżeń, o których mowa w ust. 1, lub z urzędu, dyrektor okręgowej komisji egzaminacyjnej, w porozumieniu z dyrektorem Centralnej Komisji Egzaminacyjnej, może unieważnić egzamin ósmoklasisty z danego przedmiotu lub egzamin maturalny z danego przedmiotu w części ustnej lub części pisemnej i zarządzić ich ponowne przeprowadzenie, jeżeli to naruszenie mogło wpłynąć na wynik tego egzaminu.
+
+8. W przypadku, o którym mowa w ust. 6, dyrektor Centralnej Komisji Egzaminacyjnej może unieważnić egzamin ósmoklasisty z danego przedmiotu lub egzamin maturalny z danego przedmiotu w części ustnej lub części pisemnej i zarządzić ich ponowne przeprowadzenie, jeżeli to naruszenie mogło wpłynąć na wynik egzaminu. O rozstrzygnięciu w sprawie unieważnienia dyrektor Centralnej Komisji Egzaminacyjnej informuje dyrektora okręgowej komisji egzaminacyjnej. ” , ust. 10 otrzymuje brzmienie: „
+
+- **c)**
+
+10. W przypadku niemożności ustalenia wyników egzaminu ósmoklasisty z danego przedmiotu lub egzaminu maturalnego z danego przedmiotu w części pisemnej z powodu zaginięcia lub zniszczenia prac egzaminacyjnych, dyrektor okręgowej komisji egzaminacyjnej, w porozumieniu z dyrektorem Centralnej Komisji Egzaminacyjnej, unieważnia egzamin ósmoklasisty z danego przedmiotu lub egzamin maturalny z danego przedmiotu w części pisemnej danego ucznia, słuchacza albo absolwenta i zarządza jego ponowne przeprowadzenie. ” ;
+
+- **99)** w art. 44zzz w ust. 6 w pkt 2 w lit. a wyrazy „ust. 1” zastępuje się wyrazami „ust. 1 lub 1a”;
+- **100)** w art. 44zzza pkt 10 otrzymuje brzmienie: „
+- **10)** czas trwania, sposób organizacji i przeprowadzania egzaminu ósmoklasisty z poszczególnych przedmiotów oraz części ustnej i części pisemnej egzaminu maturalnego z danego przedmiotu, sposób postępowania w sytuacjach zagrożenia lub nagłego zakłócenia przebiegu egzaminu ósmoklasisty i egzaminu maturalnego, przeprowadzania egzaminu ósmoklasisty i egzaminu maturalnego w miejscu innym niż szkoła ze względu na stan zdrowia ucznia, słuchacza lub jego niepełnosprawność, ” ;
+- **101)** w art. 44zzzb w ust. 3 pkt 1 i 2 otrzymują brzmienie: „
+- **1)** uczniów branżowych szkół I stopnia, branżowych szkół II stopnia i techników oraz uczniów i słuchaczy szkół policealnych,
+- **2)** absolwentów zasadniczych szkół zawodowych, branżowych szkół I stopnia, branżowych szkół II stopnia, techników i szkół policealnych, ” ;
+- **102)** w art. 44zzzc ust. 1 otrzymuje brzmienie: „
+
+1. Egzamin potwierdzający kwalifikacje w zawodzie jest przeprowadzany w ciągu całego roku szkolnego, a w przypadku części praktycznej tego egzaminu – w szczególności w okresie ferii letnich lub zimowych, w terminach ustalonych przez dyrektora okręgowej komisji egzaminacyjnej, na podstawie harmonogramu ogłoszonego w komunikacie, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze. ” ;
+
+- **103)** w art. 44zzzd: po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
+    - **a)**
+
+1a. W technikum zdający przystępuje do:
+
+- **1)** części pisemnej egzaminu potwierdzającego kwalifikacje w zawodzie w trakcie nauki w technikum;
+- **2)** części praktycznej egzaminu potwierdzającego kwalifikacje w zawodzie w ostatnim roku nauki w technikum.
+
+1b. W uzasadnionych przypadkach związanych ze specyfiką kształcenia w danym zawodzie lub wynikających ze względów organizacyjnych związanych z przeprowadzaniem egzaminu potwierdzającego kwalifikacje w danym zawodzie, część praktyczna tego egzaminu, o której mowa w ust. 1a pkt 2, po uzgodnieniu z dyrektorem okręgowej komisji egzaminacyjnej, może zostać przeprowadzona w roku szkolnym poprzedzającym ostatni rok nauki w technikum. ” , ust. 5 otrzymuje brzmienie: „
+
+- **b)**
+
+5. Dyrektor okręgowej komisji egzaminacyjnej udostępnia szkole, placówce, o której mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawcy lub podmiotowi prowadzącemu kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, elektroniczny system przeprowadzania egzaminu potwierdzającego kwalifikacje w zawodzie. ” ;
+
+- **104)** w art. 44zzzi: ust. 1–3 otrzymują brzmienie: „
+    - **a)**
+
+1. Za organizację i przebieg egzaminu potwierdzającego kwalifikacje w zawodzie w danej szkole, placówce, o której mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, u danego pracodawcy lub w danym podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, odpowiada dyrektor tej szkoły, placówki, o której mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, ten pracodawca lub upoważniony przez niego pracownik lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, lub upoważniony przez niego pracownik.
+
+2. Do przeprowadzenia egzaminu potwierdzającego kwalifikacje w zawodzie dyrektor szkoły, placówki, o której mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawca lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, powołuje zespół egzaminacyjny.
+
+3. Dyrektor szkoły, placówki, o której mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, pracodawca lub upoważniony przez niego pracownik lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, lub upoważniony przez niego pracownik jest przewodniczącym zespołu egzaminacyjnego. W przypadku choroby przewodniczącego zespołu egzaminacyjnego lub innych ważnych przyczyn uniemożliwiających jego udział w egzaminie potwierdzającym kwalifikacje w zawodzie albo wynikających z konieczności zapewnienia właściwej organizacji tego egzaminu, przewodniczącym zespołu egzaminacyjnego może być osoba wskazana przez dyrektora okręgowej komisji egzaminacyjnej. ” , w ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przewodniczący zespołu egzaminacyjnego organizuje i nadzoruje przebieg w danej szkole, placówce, o której mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, u danego pracodawcy lub w danym podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, egzaminu potwierdzającego kwalifikacje w zawodzie, w tym: ” ;
+
+- **b)**
+- **105)** art. 44zzzk otrzymuje brzmienie: „
+
+1. Egzamin potwierdzający kwalifikacje w zawodzie przeprowadza się w danej szkole, placówce, o której mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, u danego pracodawcy albo w miejscu wskazanym przez pracodawcę, w danym podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, albo w miejscu wskazanym przez ten podmiot.
+
+2. Dla osób, o których mowa w art. 44zzzb ust. 3 pkt 3, egzamin potwierdzający kwalifikacje w zawodzie organizuje podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe. ” ;
+
+- **106)** w art. 44zzzl: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1.
+
+## Część praktyczną egzaminu potwierdzającego kwalifikacje w zawodzie oraz część pisemną tego egzaminu przeprowadzaną z wykorzystaniem elektronicznego systemu przeprowadzania egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadza się w szkole, placówce, o której mowa w art. 2 pkt 4 ustawy – Prawo oświatowe, u pracodawcy lub w podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy – Prawo oświatowe, posiadających upoważnienie wydane przez dyrektora okręgowej komisji egzaminacyjnej.
+
+**Art. 16.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2016 r. poz. 1888, 1926, 1933 i 1948) w art. 17 w ust. 1 pkt 45 otrzymuje brzmienie: „
+
+- **45)** dochody z tytułu prowadzenia szkoły w rozumieniu przepisów prawa oświatowego – w części przeznaczonej na cele szkoły, z zastrzeżeniem ust. 8, ” .
 
 **Art. 17.** W ustawie z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. z 2012 r. poz. 1138, z 2013 r. poz. 1421 i 1650, z 2014 r. poz. 1863 oraz z 2016 r. poz. 1948) wprowadza się następujące zmiany:
 
-**Art. 18.** W ustawie z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz.U. z 2016 r. poz. 666 i 1333) w art. 6 w ust. 1 pkt 13 otrzymuje brzmienie: „13) instytucją oświatową są jednostki organizacyjne, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59), a także szkoły, zespoły szkół oraz szkolne punkty konsultacyjne przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 1 lit. a tej ustawy, oraz szkoły podoficerskie i ośrodki szkolenia, o których mowa w art. 127 pkt 2 i 3 ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2016 r. poz. 1726 i
+- **1)** w art. 4: w ust. 4 w pkt 2 wyrazy „gimnazjum, szkoły ponadpodstawowej lub ponadgimnazjalnej” zastępuje się wyrazami „szkoły podstawowej lub ponadpodstawowej”, w ust. 7 w pkt 1 wyrazy „szkół podstawowych, gimnazjów i szkół ponadgimnazjalnych” zastępuje się wyrazami „szkół podstawowych i szkół ponadpodstawowych”;
+    - **a)**
+    - **b)**
 
-**Art. 19.** W ustawie z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2015 r. poz. 282 oraz z 2016 r. poz. 1020, 1206 i 2260) w art. 8 w ust. 1 w pkt 6 lit. a otrzymuje brzmienie: „a) ze szkołami ponadpodstawowymi, o których mowa w art. 18 ust. 1 pkt 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59),”.
+- **2)** w art. 5: w ust. 1 wyrazy „gimnazjum, szkoły ponadpodstawowej lub ponadgimnazjalnej” zastępuje się wyrazami „szkoły podstawowej lub ponadpodstawowej”, w ust. 2 w pkt 1 wyrazy „szkół podstawowych, gimnazjów i szkół ponadgimnazjalnych” zastępuje się wyrazami „szkół podstawowych i szkół ponadpodstawowych”;
+    - **a)**
+    - **b)**
+
+- **3)** art. 5a otrzymuje brzmienie: „ W przypadku nabywania przez gminę biletów miesięcznych dla dzieci w celu wykonania obowiązku określonego w art. 32 ust. 5 oraz art. 39 ust. 3 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59) uwzględnia się ulgi, o których mowa w art. 4 ust. 6 i art. 5 ust. 1. ” .
+
+**Art. 18.** W ustawie z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2016 r. poz. 666 i 1333) w art. 6 w ust. 1 pkt 13 otrzymuje brzmienie: „
+
+- **13)** instytucją oświatową są jednostki organizacyjne, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59), a także szkoły, zespoły szkół oraz szkolne punkty konsultacyjne przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 1 lit. a tej ustawy, oraz szkoły podoficerskie i ośrodki szkolenia, o których mowa w art. 127 pkt 2 i 3 ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2016 r. poz. 1726 i 2138). ” .
+
+**Art. 19.** W ustawie z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2015 r. poz. 282 oraz z 2016 r. poz. 1020, 1206 i 2260) w art. 8 w ust. 1 w pkt 6 lit. a otrzymuje brzmienie: „
+
+ze szkołami ponadpodstawowymi, o których mowa w art. 18 ust. 1 pkt 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59), ” .
+
+- **a)**
 
 **Art. 20.** W ustawie z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2016 r. poz. 1068) wprowadza się następujące zmiany:
 
-**Art. 21.** W ustawie z dnia 13 października 1995 r. – Prawo łowieckie (Dz. U. z 2015 r. poz. 2168 oraz z 2016 r. poz. 1082) w art. 42 w ust. 5 w pkt 1 wyrazy „wyższe lub średnie wykształcenie” zastępuje się wyrazami „wyższe, średnie lub średnie branżowe wykształcenie”.
+- **1)** w art. 28 w ust. 4 wyrazy „wykształcenie średnie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”;
+- **2)** w art. 42: ust. 2a otrzymuje brzmienie: „
+    - **a)**
 
-**Art. 22.** W ustawie z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2012 r. poz. 987, z 2015 r. poz. 1505 oraz z 2016 r. poz. 352, 749, 868 i 1330) w art. 32c:
+2a. Wpisowi do rejestru podmiotów nie podlega osoba fizyczna w zakresie prowadzonej działalności oświatowej obejmującej prowadzenie przedszkola, szkoły, placówki lub innej jednostki organizacyjnej, o której mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59). ” , w ust. 7 pkt 3 otrzymuje brzmienie: „
 
-**Art. 23.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557, z późn. zm. ) w art. 130:
+- **b)**
+- **3)** przedszkoli, szkół, placówek i innych jednostek organizacyjnych, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, i ich zespołów – następuje na podstawie przepisów ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2016 r. poz. 1927 i 1984). ” .
 
-**Art. 24.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 21.** W ustawie z dnia 13 października 1995 r. – Prawo łowieckie (Dz. U. z 2015 r. poz. 2168 oraz z 2016 r. poz. 1082) w art. 42 w ust. 5 w pkt 1 wyrazy „wyższe lub średnie wykształcenie” zastępuje się wyrazami „wyższe, średnie lub średnie branżowe wykształcenie”. W ustawie z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2012 r. poz. 987, z 2015 r. poz. 1505 oraz z 2016 r. poz. 352, 749, 868 i 1330) w art. 32c:
+
+- **1)** w ust. 8 i 9 wyrazy „wykształcenie średnie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”;
+- **2)** w ust. 10 wyrazy „średnie lub zasadnicze zawodowe” zastępuje się wyrazami „średnie, średnie branżowe, zasadnicze zawodowe lub zasadnicze branżowe”.
+
+**Art. 23.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557, z późn. zm.) w art. 130:
+
+- **1)** w § 1 skreśla się wyrazy „i gimnazjum” oraz wyraz „(ponadgimnazjalnym)”;
+- **2)** w § 3 skreśla się wyraz „(ponadgimnazjalnej)”.
+
+**Art. 24.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 79a w ust. 1 w pkt 2 wyrazy „średnie wykształcenie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”;
+- **2)** w art. 84 w ust. 2b w pkt 2 i 4 wyrazy „średnie wykształcenie techniczne” zastępuje się wyrazami „średnie wykształcenie techniczne lub wykształcenie średnie branżowe,”.
 
 **Art. 25.** W ustawie z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. z 2012 r. poz. 642 i 908 oraz z 2013 r. poz. 829) w art. 29 w ust. 2 wyrazy „wykształceniem średnim” zastępuje się wyrazami „wykształceniem średnim lub średnim branżowym”.
 
 **Art. 26.** W ustawie z dnia 27 czerwca 1997 r. o służbie medycyny pracy (Dz. U. z 2014 r. poz. 1184) w art. 5 w ust. 1 w pkt 4 wyraz „ponadgimnazjalnych” zastępuje się wyrazem „ponadpodstawowych”.
 
-**Art. 27.** W ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2013 r. poz. 856, z 2014 r. poz. 1794, z 2015 r. poz. 266 oraz z 2016 r. poz. 1605, 1948 i 2102) w art. 12a w ust. 1 pkt 4 otrzymuje brzmienie: „4) są absolwentami szkół prowadzących kształcenie w zawodach ujętych w klasyfikacji zawodów szkolnictwa zawodowego, o której mowa w art. 46 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59), związanych z chowem lub hodowlą zwierząt, lub”.
+**Art. 27.** W ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2013 r. poz. 856, z 2014 r. poz. 1794, z 2015 r. poz. 266 i 1605 oraz z 2016 r. poz. 1948 i 2102) w art. 12a w ust. 1 pkt 4 otrzymuje brzmienie: „
+
+- **4)** są absolwentami szkół prowadzących kształcenie w zawodach ujętych w klasyfikacji zawodów szkolnictwa zawodowego, o której mowa w art. 46 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59), związanych z chowem lub hodowlą zwierząt, lub ” .
 
 **Art. 28.** W ustawie z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2016 r. poz. 1432 i 2255) w art. 26:
+
+- **1)** w ust. 3 w pkt 3 wyraz „gimnazjum” zastępuje się wyrazami „gimnazjum lub ośmioletnią szkołę podstawową”;
+- **2)** w ust. 7 pkt 5 i 6 otrzymują brzmienie: „
+- **5)** zaświadczenie o ukończeniu kwalifikacyjnego kursu zawodowego lub kursu umiejętności zawodowych, potwierdzających przygotowanie teoretyczne i praktyczne w zakresie wyszkolenia strzeleckiego, samoobrony, technik interwencyjnych oraz znajomości przepisów prawa związanych z wykonywaniem ochrony osób i mienia, realizowanych zgodnie z przepisami wydanymi na podstawie art. 117 ust. 5 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59);
+- **6)** zaświadczenia o ukończeniu innych kursów potwierdzających przygotowanie teoretyczne i praktyczne w zakresie wyszkolenia strzeleckiego, samoobrony, technik interwencyjnych oraz znajomości przepisów prawa związanych z wykonywaniem ochrony osób i mienia, prowadzonych przez publiczne i niepubliczne placówki i ośrodki zgodnie z przepisami wydanymi na podstawie art. 117 ust. 5 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe; ” .
 
 **Art. 29.** W ustawie z dnia 29 sierpnia 1997 r. o strażach gminnych (Dz. U. z 2016 r. poz. 706) w art. 24 w pkt 4 wyrazy „wykształcenie średnie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”.
 
 **Art. 30.** W ustawie z dnia 29 sierpnia 1997 r. o usługach turystycznych (Dz. U. z 2016 r. poz. 187 i 1334) w art. 21 w ust. 1b w pkt 3 oraz w art. 22 w pkt 3 wyrazy „wykształcenie średnie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”.
 
-**Art. 31.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2016 r. poz. 963, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 31.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2016 r. poz. 963, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 32.** W ustawie z dnia 7 października 1999 r. o języku polskim (Dz. U. z 2011 r. poz. 224 i 455 oraz z 2015 r. poz. 1132) w art. 11a ust. 4 otrzymuje brzmienie: „4. Osoba, o której mowa w ust. 1, będąca absolwentem szkoły wyższej, która ukończyła studia w języku polskim, albo szkoły ponadgimnazjalnej lub szkoły ponadpodstawowej, która posiada świadectwo dojrzałości, działających w systemie edukacji Rzeczypospolitej Polskiej, po złożeniu wniosku i uiszczeniu opłaty za wydanie certyfikatu otrzymuje certyfikat bez konieczności zdawania egzaminu.”.
+- **1)** w art. 6 w ust. 4 skreśla się wyrazy „gimnazjów, szkół ponadgimnazjalnych,”;
+- **2)** w art. 8 w ust. 6 pkt 5 otrzymuje brzmienie: „
+- **5)** osobę prowadzącą publiczną lub niepubliczną szkołę, inną formę wychowania przedszkolnego, placówkę lub ich zespół, na podstawie przepisów ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59). ” .
 
-**Art. 33.** W ustawie z dnia 9 listopada 2000 r. o repatriacji (Dz. U. z 2014 r. poz. 1392 oraz z 2015 r. poz. 1274) w art. 17 w ust. 1 pkt 3 otrzymuje brzmienie: „3) pokrycie kosztów związanych z podjęciem na terytorium Rzeczypospolitej Polskiej nauki przez małoletniego, podlegającego obowiązkowi szkolnemu w rozumieniu art. 35 ust. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59), w wysokości przeciętnego miesięcznego wynagrodzenia na każde dziecko.”.
+**Art. 32.** W ustawie z dnia 7 października 1999 r. o języku polskim (Dz. U. z 2011 r. poz. 224 i 455 oraz z 2015 r. poz. 1132) w art. 11a ust. 4 otrzymuje brzmienie: „ 4. Osoba, o której mowa w ust. 1, będąca absolwentem szkoły wyższej, która ukończyła studia w języku polskim, albo szkoły ponadgimnazjalnej lub szkoły ponadpodstawowej, która posiada świadectwo dojrzałości, działających w systemie edukacji Rzeczypospolitej Polskiej, po złożeniu wniosku i uiszczeniu opłaty za wydanie certyfikatu otrzymuje certyfikat bez konieczności zdawania egzaminu. ” .
 
-**Art. 34.** W ustawie z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2014 r. poz. 1512, z późn. zm. ) w art. 7 w ust. 6 w pkt 2 wyrazy „średnie wykształcenie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”.
+**Art. 33.** W ustawie z dnia 9 listopada 2000 r. o repatriacji (Dz. U. z 2014 r. poz. 1392 oraz z 2015 r. poz. 1274) w art. 17 w ust. 1 pkt 3 otrzymuje brzmienie: „
+
+- **3)** pokrycie kosztów związanych z podjęciem na terytorium Rzeczypospolitej Polskiej nauki przez małoletniego, podlegającego obowiązkowi szkolnemu w rozumieniu art. 35 ust. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59), w wysokości przeciętnego miesięcznego wynagrodzenia na każde dziecko. ” .
+
+**Art. 34.** W ustawie z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2014 r. poz. 1512, z późn. zm.) w art. 7 w ust. 6 w pkt 2 wyrazy „średnie wykształcenie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”.
 
 **Art. 35.** W ustawie z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2015 r. poz. 1125 oraz z 2016 r. poz. 1165, 1228 i 2255) w art. 22 w ust. 1 w pkt 2 wyrazy „wykształcenie średnie techniczne” zastępuje się wyrazami „wykształcenie średnie techniczne lub średnie branżowe”.
 
 **Art. 36.** W ustawie z dnia 18 stycznia 2001 r. o wyścigach konnych (Dz. U. z 2015 r. poz. 642 i 1893 oraz z 2016 r. poz. 967) wprowadza się następujące zmiany:
 
+- **1)** w art. 21c w ust. 1 w pkt 2 w lit. b w tiret drugim wyrazy „średnie wykształcenie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”;
+- **2)** w art. 21e w ust. 2 w pkt 2 wyrazy „wykształcenie średnie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”.
+
 **Art. 37.** W ustawie z dnia 16 marca 2001 r. o Biurze Ochrony Rządu (Dz. U. z 2016 r. poz. 552, 904, 960 i 1250) wprowadza się następujące zmiany:
+
+- **1)** w art. 20: w ust. 1 wyrazy „średnie wykształcenie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”, w ust. 2 i 3 wyrazy „wykształcenia średniego” zastępuje się wyrazami „wykształcenia średniego lub średniego branżowego”;
+    - **a)**
+    - **b)**
+
+- **2)** w art. 107a w ust. 2 wyraz „ponadgimnazjalnych” zastępuje się wyrazem „ponadpodstawowych”;
+- **3)** w art. 127a w ust. 1 wyrazy „średnie wykształcenie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”;
+- **4)** w art. 139 w ust. 4 wyrazy „wykształcenia średniego” zastępuje się wyrazami „wykształcenia średniego lub średniego branżowego”.
 
 **Art. 38.** W ustawie z dnia 26 kwietnia 2001 r. o rentach strukturalnych w rolnictwie (Dz. U. poz. 539, z 2003 r. poz. 2273 oraz z 2004 r. poz. 873) w art. 8 w ust. 2 w pkt 1 wyrazy „zasadnicze, średnie” zastępuje się wyrazami „zasadnicze zawodowe, zasadnicze branżowe, średnie lub średnie branżowe”.
 
@@ -107,113 +1223,420 @@ source: "isap-pdf"
 
 **Art. 40.** W ustawie z dnia 6 lipca 2001 r. o usługach detektywistycznych (Dz. U. z 2014 r. poz. 273 i 822 oraz z 2015 r. poz. 1893) w art. 29 w ust. 1 w pkt 3 wyraz „średnie” zastępuje się wyrazami „średnie lub średnie branżowe”.
 
-**Art. 41.** W ustawie z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2015 r. poz. 469, z późn. zm. ) w art. 144 w ust. 2 wyrazy „szkół podstawowych, gimnazjów i szkół ponadgimnazjalnych ogólnokształcących i zawodowych” zastępuje się wyrazami „szkół podstawowych i szkół ponadpodstawowych”.
+**Art. 41.** W ustawie z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2015 r. poz. 469, z późn. zm.) w art. 144 w ust. 2 wyrazy „szkół podstawowych, gimnazjów i szkół ponadgimnazjalnych ogólnokształcących i zawodowych” zastępuje się wyrazami „szkół podstawowych i szkół ponadpodstawowych”.
 
-**Art. 42.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2016 r. poz. 2062, 1948, 2103 i 2261 oraz z 2017 r. poz.
+**Art. 42.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2016 r. poz. 2062, 1948, 2103 i 2261 oraz z 2017 r. poz. 38) w art. 158 w § 1 w pkt 7 wyraz „średnie” zastępuje się wyrazami „średnie lub średnie branżowe”.
 
-**Art. 43.** W ustawie z dnia 27 lipca 2001 r. o kuratorach sądowych (Dz. U. z 2014 r. poz. 795 i 1689) w art. 84 w ust. 1 w pkt 2 wyraz „średnie” zastępuje się wyrazami „średnie lub średnie branżowe”.
+**Art. 43.** W ustawie z dnia 27 lipca 2001 r. o kuratorach sądowych (Dz. U. z 2014 r. poz. 795 i 1689) w art. 84 w ust. 1 w pkt 2 wyraz „średnie” zastępuje się wyrazami „średnie lub średnie branżowe”. W ustawie z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2016 r. poz. 1897, 1948 i 1955) wprowadza się następujące zmiany:
 
-**Art. 44.** W ustawie z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2016 r. poz. 1897, 1948 i 1955) wprowadza się następujące zmiany:
+- **1)** w art. 44 w pkt 5 wyrazy „średnie wykształcenie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”;
+- **2)** w art. 134a w ust. 2 wyraz „ponadgimnazjalnych” zastępuje się wyrazem „ponadpodstawowych”.
 
-**Art. 45.** W ustawie z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2015 r. poz. 1100, z późn. zm. ) w art. 11 w ust. 1 w pkt 1 w lit. a wyraz „średnie” zastępuje się wyrazami „średnie lub średnie branżowe”.
+**Art. 45.** W ustawie z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2015 r. poz. 1100, z późn. zm.) w art. 11 w ust. 1 w pkt 1 w lit. a wyraz „średnie” zastępuje się wyrazami „średnie lub średnie branżowe”.
 
 **Art. 46.** W ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2016 r. poz. 605, 904, 1361 i 1948) wprowadza się następujące zmiany:
 
-**Art. 47.** W ustawie z dnia 23 listopada 2002 r. o restrukturyzacji zobowiązań koncesyjnych operatorów stacjonarnych publicznych sieci telefonicznych (Dz. U. z 2016 r. poz. 1414 i 2260) w art. 7 w ust. 2 w pkt 5 lit. b otrzymuje brzmienie: „b) bezpośrednio w związku z uruchomieniem szerokopasmowego dostępu do internetu w szkołach i placówkach oświatowych w rozumieniu ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59).”.
+- **1)** w art. 95 w ust. 3 w pkt 8 i 9 wyrazy „średniego wykształcenia” zastępuje się wyrazami „wykształcenia średniego lub średniego branżowego”;
+- **2)** w art. 96 w ust. 2 pkt 9 i 10 otrzymują brzmienie: „
+- **9)** kontroler ruchu lotniczego – ukończone 21 lat, oraz: wykształcenie co najmniej średnie oraz świadectwo dojrzałości po zdaniu egzaminu maturalnego lub egzaminu dojrzałości, albo wykształcenie co najmniej średnie branżowe oraz świadectwo dojrzałości po zdaniu egzaminu maturalnego;
+    - **a)**
+    - **b)**
+
+- **10)** praktykant – kontroler ruchu lotniczego – ukończone 18 lat, oraz: wykształcenie co najmniej średnie oraz świadectwo dojrzałości po zdaniu egzaminu maturalnego lub egzaminu dojrzałości, albo wykształcenie co najmniej średnie branżowe oraz świadectwo dojrzałości po zdaniu egzaminu maturalnego; ” .
+    - **a)**
+    - **b)**
+
+**Art. 47.** W ustawie z dnia 23 listopada 2002 r. o restrukturyzacji zobowiązań koncesyjnych operatorów stacjonarnych publicznych sieci telefonicznych (Dz. U. z 2016 r. poz. 1414 i 2260) w art. 7 w ust. 2 w pkt 5 lit. b otrzymuje brzmienie: „
+
+bezpośrednio w związku z uruchomieniem szerokopasmowego dostępu do internetu w szkołach i placówkach oświatowych w rozumieniu ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59). ” .
+
+- **b)**
 
 **Art. 48.** W ustawie z dnia 14 lutego 2003 r. o stopniach górniczych, honorowych szpadach górniczych i mundurach górniczych (Dz. U. poz. 449 oraz z 2016 r. poz. 266) w art. 4 w ust. 3 wyrazy „średnie wykształcenie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”.
 
 **Art. 49.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2016 r. poz. 1727, 1823, 1920, 1923, 1948 i 2138) wprowadza się następujące zmiany:
 
+- **1)** w art. 22 w ust. 2 w pkt 3 wyrazy „zasadnicze zawodowe” zastępuje się wyrazami „zasadnicze zawodowe lub zasadnicze branżowe”;
+- **2)** w art. 59 w ust. 4 w pkt 3 wyraz „średnie” zastępuje się wyrazami „średnie lub średnie branżowe”.
+
 **Art. 50.** W ustawie z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego (Dz. U. z 2016 r. poz. 2052 i 2260) wprowadza się następujące zmiany:
 
-**Art. 51.** W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2016 r. poz. 1817 i 1948) w art. 33a w ust. 2 w pkt 3 lit. a otrzymuje brzmienie: „a) placówek zapewniających całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku, centrum integracji społecznej, domów pomocy społecznej, placówek opiekuńczo-wychowawczych, regionalnych placówek opiekuńczo-terapeutycznych i interwencyjnych ośrodków preadopcyjnych, określonych w przepisach o wspieraniu rodziny i systemie pieczy zastępczej, oraz szkół lub placówek publicznych określonych w ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59), bez zezwolenia,”.
+- **1)** w art. 6 w ust. 2 w pkt 2: w lit. a wyrazy „zasadnicze zawodowe, średnie” zastępuje się wyrazami „zasadnicze zawodowe, zasadnicze branżowe, średnie, średnie branżowe”, w lit. c wyraz „średnie” zastępuje się wyrazami „średnie lub średnie branżowe”, w lit. d wyrazy „podstawowe, gimnazjalne lub zasadnicze zawodowe” zastępuje się wyrazami „podstawowe, gimnazjalne, zasadnicze zawodowe lub zasadnicze branżowe”;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** w art. 7 w ust. 8 w pkt 2 wyrazy „średnie rolnicze lub wykształcenie zasadnicze zawodowe rolnicze” zastępuje się wyrazami „średnie rolnicze, średnie branżowe rolnicze, zasadnicze zawodowe rolnicze lub zasadnicze branżowe rolnicze”.
+
+**Art. 51.** W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2016 r. poz. 1817 i 1948) w art. 33a w ust. 2 w pkt 3 lit. a otrzymuje brzmienie: „
+
+placówek zapewniających całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku, centrum integracji społecznej, domów pomocy społecznej, placówek opiekuńczo-wychowawczych, regionalnych placówek opiekuńczo-terapeutycznych i interwencyjnych ośrodków preadopcyjnych, określonych w przepisach o wspieraniu rodziny i systemie pieczy zastępczej, oraz szkół lub placówek publicznych określonych w ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59), bez zezwolenia, ” .
+
+- **a)**
 
 **Art. 52.** W ustawie z dnia 22 maja 2003 r. o pośrednictwie ubezpieczeniowym (Dz. U. z 2016 r. poz. 2077) w art. 9 w ust. 1 w pkt 4 oraz w art. 28 w ust. 3 w pkt 1 w lit. d wyrazy „średnie wykształcenie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”.
 
-**Art. 53.** W ustawie z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2016 r. poz. 1836 i
+**Art. 53.** W ustawie z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2016 r. poz. 1836 i 2003) użyte w art. 71 w ust. 1 w pkt 1 w lit. g, w ust. 3 w pkt 1 oraz w ust. 4 w pkt 2, w różnej liczbie i przypadku, wyrazy „szkoła podstawowa, gimnazjum lub szkoła ponadgimnazjalna” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „szkoła podstawowa lub szkoła ponadpodstawowa”.
 
-**Art. 54.** W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2014 r. poz. 1446, z późn. zm. ) w art. 37a w ust. 2 w pkt 1 oraz w art. 37b w ust. 3 wyrazy „średnie” zastępuje się wyrazami „średnie lub średnie branżowe”.
+**Art. 54.** W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2014 r. poz. 1446, z późn. zm.) w art. 37a w ust. 2 w pkt 1 oraz w art. 37b w ust. 3 wyrazy „średnie” zastępuje się wyrazami „średnie lub średnie branżowe”.
 
 **Art. 55.** W ustawie z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2016 r. poz. 1726 i 2138) wprowadza się następujące zmiany:
 
-**Art. 56.** W ustawie z dnia 28 listopada 2003 r. o służbie zastępczej (Dz. U. z 2016 r. poz. 1811) w art. 21 w ust. 1 pkt 5 otrzymuje brzmienie: „5) pobieranie nauki w szkole ponadpodstawowej, a do dnia 31 sierpnia 2023 r. także w szkole ponadgimnazjalnej – na czas pobierania tej nauki, nie dłużej jednak niż do końca roku szkolnego w tym roku kalendarzowym, w którym osoba podlegająca kwalifikacji wojskowej kończy 23 rok życia.”.
+- **1)** w art. 11 w ust. 2 w pkt 2 w lit. b tiret pierwsze otrzymuje brzmienie: „ – posiada wykształcenie średnie lub średnie branżowe, ” ;
+- **2)** w art. 12: w ust. 1 pkt 2 i 3 otrzymują brzmienie: „
+    - **a)**
+
+- **2)** w korpusie podoficerów zawodowych – żołnierza służby kandydackiej, posiadającego wykształcenie średnie lub średnie branżowe, mianowanego na stopień wojskowy kaprala (mata), po ukończeniu przez niego nauki w szkole podoficerskiej;
+- **3)** w korpusie szeregowych zawodowych – żołnierza służby kandydackiej, posiadającego wykształcenie gimnazjalne, zasadnicze zawodowe lub zasadnicze branżowe, po odbyciu przez niego szkolenia wojskowego w ośrodku szkolenia. ” , w ust. 2 pkt 2 i 3 otrzymują brzmienie: „
+    - **b)**
+
+- **2)** w korpusie podoficerów zawodowych – podoficera rezerwy, który posiada wykształcenie średnie lub średnie branżowe oraz stopień wojskowy równy lub bezpośrednio niższy od stopnia wojskowego stanowiska etatowego, do którego ma być zaszeregowany po powołaniu do zawodowej służby wojskowej;
+- **3)** w korpusie szeregowych zawodowych – żołnierza rezerwy, który odbył czynną służbę wojskową oraz posiada wykształcenie gimnazjalne, zasadnicze zawodowe lub zasadnicze branżowe i posiada przygotowanie zawodowe lub kwalifikacje albo umiejętności przydatne w korpusie osobowym, w jakim ma pełnić zawodową służbę wojskową, oraz stopień wojskowy szeregowego (marynarza) lub starszego szeregowego (starszego marynarza). ” ;
+- **3)** w art. 24 w ust. 5 pkt 4 otrzymuje brzmienie: „
+- **4)** zwrot opłat związanych z nauką dzieci w szkole podstawowej i ponadpodstawowej; ” ;
+- **4)** w art. 29 wyraz „średnie” zastępuje się wyrazami „średnie lub średnie branżowe”;
+- **5)** w art. 36 w ust. 1 pkt 1 i 2 otrzymują brzmienie: „
+- **1)** szeregowych zawodowych – posiadanie wykształcenia gimnazjalnego, zasadniczego zawodowego lub zasadniczego branżowego; 2) podoficerów zawodowych – posiadanie wykształcenia średniego lub średniego branżowego; ” .
+
+**Art. 56.** W ustawie z dnia 28 listopada 2003 r. o służbie zastępczej (Dz. U. z 2016 r. poz. 1811) w art. 21 w ust. 1 pkt 5 otrzymuje brzmienie: „
+
+- **5)** pobieranie nauki w szkole ponadpodstawowej, a do dnia 31 sierpnia 2023 r. także w szkole ponadgimnazjalnej – na czas pobierania tej nauki, nie dłużej jednak niż do końca roku szkolnego w tym roku kalendarzowym, w którym osoba podlegająca kwalifikacji wojskowej kończy 23 rok życia. ” .
 
 **Art. 57.** W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2016 r. poz. 1518 i 1579) wprowadza się następujące zmiany:
 
+- **1)** w art. 3 pkt 18 otrzymuje brzmienie: „
+- **18)** szkole – oznacza to szkołę podstawową, szkołę ponadpodstawową oraz szkołę artystyczną, w której realizowany jest obowiązek szkolny i obowiązek nauki, a także młodzieżowy ośrodek socjoterapii, specjalny ośrodek szkolno-wychowawczy, specjalny ośrodek wychowawczy dla dzieci i młodzieży wymagających stosowania specjalnej organizacji nauki, metod pracy i wychowania oraz ośrodek rewalidacyjno-wychowawczy; ” ;
+- **2)** w art. 15 w ust. 1: w pkt 1: – wyraz „ponadgimnazjalnej” zastępuje się wyrazem „ponadpodstawowej”, – skreśla się wyrazy „lub gimnazjum”, w pkt 2 użyty dwukrotnie wyraz „ponadgimnazjalnej” zastępuje się użytym wyrazem „ponadpodstawowej”.
+    - **a)**
+    - **b)**
+
 **Art. 58.** W ustawie z dnia 18 grudnia 2003 r. o zakładach leczniczych dla zwierząt (Dz. U. z 2015 r. poz. 1047 i 1893) w art. 12 w ust. 1 w pkt 1 wyraz „ponadgimnazjalnych” zastępuje się wyrazem „ponadpodstawowych”.
 
-**Art. 59.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2016 r. poz. 710, z późn. zm. ) w art. 43 w ust. 1:
+**Art. 59.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2016 r. poz. 710, z późn. zm.) w art. 43 w ust. 1:
+
+- **1)** w pkt 24 lit. a otrzymuje brzmienie: „ w formach i na zasadach określonych w przepisach o pomocy społecznej, w przepisach o systemie oświaty oraz w przepisach ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59), ” ;
+    - **a)**
+
+- **2)** w pkt 26 lit. a otrzymuje brzmienie: „ jednostki objęte systemem oświaty w rozumieniu przepisów ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, w zakresie kształcenia i wychowania, ” ;
+    - **a)**
+
+- **3)** w pkt 27 wyrazy „gimnazjalnym, ponadgimnazjalnym” zastępuje się wyrazem „ponadpodstawowym”;
+- **4)** w pkt 29 lit. b otrzymuje brzmienie: „ świadczone przez podmioty, które uzyskały akredytację w rozumieniu przepisów ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe – wyłącznie w zakresie usług objętych akredytacją, lub ” .
+    - **b)**
 
 **Art. 60.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2016 r. poz. 930, 1583, 1948 i 2174 oraz z 2017 r. poz. 38) wprowadza się następujące zmiany:
+
+- **1)** w art. 89: w ust. 2 wyrazy „gimnazjum, szkole ponadgimnazjalnej” zastępuje się wyrazami „szkole podstawowej, szkole ponadpodstawowej”, w ust. 8 w pkt 1 skreśla się wyrazy „szkole ponadgimnazjalnej,”;
+    - **a)**
+    - **b)**
+
+- **2)** w art. 105 ust. 1 otrzymuje brzmienie: „
+
+1. Jednostki sektora finansów publicznych, w tym sądy, Policja, Zakład Ubezpieczeń Społecznych, Kasa Rolniczego Ubezpieczenia Społecznego i organy administracji publicznej, a także kuratorzy sądowi, pracodawcy, podmioty wykonujące działalność leczniczą, przedszkola, szkoły, placówki, poradnie i ośrodki, o których mowa w art. 2 pkt 1–8 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59), szkoły wyższe, organizacje pozarządowe, o których mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, oraz podmioty wymienione w art. 3 ust. 3 tej ustawy są obowiązani niezwłocznie, nie później jednak niż w terminie 7 dni od dnia otrzymania wniosku kierownika ośrodka pomocy społecznej lub pracownika socjalnego udostępnić informacje, które mają znaczenie dla rozstrzygnięcia o przyznaniu lub wysokości świadczeń z pomocy społecznej, dla ustalenia wysokości odpłatności za świadczenia z pomocy społecznej lub dla weryfikacji uprawnień do świadczeń z pomocy społecznej, wysokości tych świadczeń lub odpłatności za te świadczenia. ” ;
+
+- **3)** w art. 107 w ust. 5b w pkt 12 wyrazy „gimnazjum, szkole ponadgimnazjalnej” zastępuje się wyrazami „szkole podstawowej”.
 
 **Art. 61.** W ustawie z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2015 r. poz. 1172 i 1893 oraz z 2016 r. poz. 588 i 1605) w art. 14 w ust. 13 wyrazy „średnie wykształcenie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”.
 
 **Art. 62.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2016 r. poz. 2134, 2249 i 2260) w art. 108 w ust. 2 w pkt 5 wyraz „średnie” zastępuje się wyrazami „średnie lub średnie branżowe”.
 
-**Art. 63.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2016 r. poz. 645, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 63.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2016 r. poz. 645, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 64.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2016 r. poz. 1793, z późn. zm. ) wprowadza się następujące zmiany:
+- **1)** w art. 2 w ust. 1: w pkt 27a w lit. c: – w tiret pierwszym wyrazy „zasadnicze zawodowe” zastępuje się wyrazami „zasadnicze zawodowe lub zasadnicze branżowe”, – w tiret drugim wyrazy „zasadniczej szkoły zawodowej” zastępuje się wyrazami „zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia”, – w tiret trzecim wyraz „średnie” zastępuje się wyrazami „średnie lub średnie branżowe”, w pkt 35 wyraz „ponadgimnazjalnej” zastępuje się wyrazem „ponadpodstawowej”;
+    - **a)**
+    - **b)**
+
+- **2)** w art. 8 w ust. 1 pkt 15 otrzymuje brzmienie: „
+- **15)** coroczne określanie i ogłaszanie w wojewódzkim dzienniku urzędowym, w terminie do dnia 30 kwietnia, po zasięgnięciu opinii wojewódzkiej rady rynku pracy, na podstawie klasyfikacji zawodów i specjalności na potrzeby rynku pracy, o której mowa w art. 4 ust. 1 pkt 7 lit. b, oraz klasyfikacji zawodów szkolnictwa zawodowego określonej w przepisach ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59), wykazu zawodów, w których za przygotowanie zawodowe młodocianych pracowników może być dokonywana refundacja, o której mowa w art. 12 ust. 6, przy uwzględnieniu zapotrzebowania na kwalifikacje i umiejętności na rynku pracy; ” ;
+- **3)** w art. 12: w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) umożliwienie młodzieży, która nie ukończyła szkoły podstawowej albo nie kontynuuje nauki po ukończeniu tej szkoły, zdobycie kwalifikacji zawodowych oraz uzupełnienie wykształcenia podstawowego; ” , – w pkt 2 wyraz „ponadgimnazjalnego” zastępuje się wyrazami „ponadgimnazjalnego lub ponadpodstawowego”, ust. 3 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+3. Ochotnicze Hufce Pracy w zakresie, o którym mowa w ust. 2, organizują rekrutacje młodzieży do Ochotniczych Hufców Pracy, prowadzą działalność edukacyjno-szkoleniową oraz w porozumieniu z kuratorami oświaty i organami prowadzącymi szkoły kierują uczestników Ochotniczych Hufców Pracy do szkół i placówek, o których mowa w przepisach ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe. ” , w ust. 4 w pkt 1 skreśla się wyrazy „lub gimnazjum”, w ust. 5 w pkt 1 lit. a otrzymuje brzmienie: „ młodzieży w wieku powyżej 15 lat, która nie ukończyła szkoły podstawowej albo nie kontynuuje nauki po ukończeniu tej szkoły, ” ;
+
+- **c)**
+- **d)**
+- **a)**
+- **4)** w art. 18c w ust. 2: pkt 3 otrzymuje brzmienie: „
+    - **a)**
+
+- **3)** działalność, o której mowa w art. 18 ust. 1 pkt 1 lit. f, prowadzona przez organy określone w przepisach ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, kierujące nauczycieli do pracy za granicą w środowiskach polonijnych; ” , pkt 6 otrzymuje brzmienie: „
+    - **b)**
+
+- **6)** działalność w zakresie organizowania praktycznej nauki zawodu, o której mowa w przepisach ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe; ”
+- **5)** w art. 46 ust. 1a otrzymuje brzmienie: „
+
+1a. Przepis ust. 1 pkt 1 stosuje się odpowiednio do niepublicznych przedszkoli i niepublicznych szkół, o których mowa w przepisach ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe. ” ;
+
+- **6)** w art. 53e ust. 4 otrzymuje brzmienie: „
+
+4. W przypadku gdy pracodawca nie może zapewnić warunków do zrealizowania w pełni programu praktycznej nauki zawodu dorosłych, możliwe jest zrealizowanie części tego programu przez wskazane przez starostę Centrum Kształcenia Praktycznego lub Centrum Kształcenia Ustawicznego, działające na podstawie przepisów ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, w wymiarze nieprzekraczającym 20% czasu programu. ” ;
+
+- **7)** w art. 55 w ust. 1 wyraz „ponadgimnazjalnej” zastępuje się wyrazem „ponadpodstawowej”;
+- **8)** w art. 108 w ust. 1 pkt 55 otrzymuje brzmienie: „
+- **55)** dofinansowania pracodawcom kosztów kształcenia młodocianych pracowników w zakresie i na zasadach określonych w przepisach ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe; ” .
+
+**Art. 64.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2016 r. poz. 1793, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 27 w ust. 3 wyraz „ponadgimnazjalnych” zastępuje się wyrazem „ponadpodstawowych”;
+- **2)** w art. 67 w ust. 5 w pkt 1 wyraz „ponadgimnazjalną” zastępuje się wyrazem „ponadpodstawową”.
 
 **Art. 65.** W ustawie z dnia 22 października 2004 r. o jednostkach doradztwa rolniczego (Dz. U. z 2016 r. poz. 356 i 1176) w art. 9:
 
+- **1)** w ust. 5 w pkt 2 w lit. f wyraz „ponadgimnazjalnych” zastępuje się wyrazem „ponadpodstawowych”;
+- **2)** w ust. 7 w pkt 2 wyrazy „średnie wykształcenie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”.
+
 **Art. 66.** W ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2016 r. poz. 1842, 1933, 2169 i 2260) wprowadza się następujące zmiany:
 
-**Art. 67.** W ustawie z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2016 r. poz. 879, 960 i 2260) art. 12 otrzymuje brzmienie: „Art. 12. Szpital uzdrowiskowy dla dzieci i sanatorium uzdrowiskowe dla dzieci udzielające świadczeń opieki zdrowotnej osobom objętym obowiązkiem szkolnym i obowiązkiem nauki zapewniają warunki do prowadzenia nauczania i wychowania w zakresie i na zasadach określonych w art. 128 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59).”.
+- **1)** w art. 40 w ust. 1 wyrazy „w uzgodnieniu z ministrem właściwym do spraw szkolnictwa wyższego” zastępuje się wyrazami „po zawiadomieniu ministra właściwego do spraw szkolnictwa wyższego”;
+- **2)** w art. 130 w ust. 6 wyrazy „gimnazjum i szkole ponadgimnazjalnej” zastępuje się wyrazami „szkole podstawowej i ponadpodstawowej”;
+- **3)** w art. 169: w ust. 1 pkt 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+- **1)** w przypadku ubiegania się o przyjęcie na studia pierwszego stopnia lub jednolite studia magisterskie: świadectwo dojrzałości, lub świadectwo dojrzałości i zaświadczenie o wynikach egzaminu maturalnego z poszczególnych przedmiotów, o których mowa w ustawie z dnia 7 września 1991 r. o systemie oświaty, lub świadectwo dojrzałości i dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika, o którym mowa w ustawie z dnia 7 września 1991 r. o systemie oświaty, lub świadectwo dojrzałości i zaświadczenie o wynikach egzaminu maturalnego z poszczególnych przedmiotów, o którym mowa w ustawie z dnia 7 września 1991 r. o systemie oświaty, oraz dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika, o którym mowa w ustawie z dnia 7 września 1991 r. o systemie oświaty;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **2)** w przypadku ubiegania się o przyjęcie na studia drugiego stopnia – tytuł magistra, licencjata, inżyniera lub równorzędny i spełnia warunki określone w ust. 2. ” , ust. 3 i 4 otrzymują brzmienie: „
+    - **b)**
+
+3. Podstawę przyjęcia na studia pierwszego stopnia lub jednolite studia magisterskie stanowią wyniki:
+
+- **1)** egzaminu dojrzałości, lub
+- **2)** egzaminu maturalnego, lub
+- **3)** egzaminu dojrzałości lub egzaminu maturalnego i egzaminu lub egzaminów potwierdzających kwalifikacje w zawodzie ujęte odpowiednio na świadectwie dojrzałości, zaświadczeniu lub dyplomie, o których mowa w ust. 1 pkt 1. Senat uczelni ustala w trybie określonym na podstawie ust. 2, jakie wyniki egzaminów stanowią podstawę przyjęcia na studia.
+
+4. Uczelnia może przeprowadzić dodatkowe egzaminy wstępne, w trybie określonym na podstawie ust. 2, tylko w przypadku konieczności sprawdzenia uzdolnień artystycznych, sprawności fizycznej lub szczególnych predyspozycji do podejmowania studiów na danym kierunku niesprawdzanych w trybie egzaminu maturalnego albo egzaminu potwierdzającego kwalifikacje w zawodzie, lub gdy osoba ubiegająca się o przyjęcie na studia posiada świadectwo dojrzałości uzyskane za granicą. Egzaminy te nie mogą dotyczyć przedmiotów objętych egzaminem maturalnym lub kwalifikacji objętej egzaminem potwierdzającym kwalifikacje w zawodzie. ” .
+
+**Art. 67.** W ustawie z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2016 r. poz. 879, 960 i 2260) art. 12 otrzymuje brzmienie: „ Szpital uzdrowiskowy dla dzieci i sanatorium uzdrowiskowe dla dzieci udzielające świadczeń opieki zdrowotnej osobom objętym obowiązkiem szkolnym i obowiązkiem nauki zapewniają warunki do prowadzenia nauczania i wychowania w zakresie i na zasadach określonych w art. 128 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59). ” .
 
 **Art. 68.** W ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2016 r. poz. 224, 437, 1948 i 2003) wprowadza się następujące zmiany:
 
-**Art. 69.** W ustawie z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2016 r. poz. 1310, 1948, 1955 i 2255) w art. 48 w pkt 6 wyrazy „średnie wykształcenie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”.
+- **1)** w art. 5 w ust. 2 pkt 1 otrzymuje brzmienie: „
+- **1)** przedszkola, szkoły i inne jednostki organizacyjne wymienione w art. 2 pkt 3–9 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59); ” ;
+- **2)** w art. 27 w ust. 8 wyraz „średnie” zastępuje się wyrazami „średnie lub średnie branżowe”.
 
-**Art. 70.** W ustawie z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2016 r. poz. 740, 904, 960 i 1955) w art. 3 w pkt 5 wyrazy „średnie wykształcenie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”.
+**Art. 69.** W ustawie z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2016 r. poz. 1310, 1948, 1955 i 2255) w art. 48 w pkt 6 wyrazy „średnie wykształcenie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”. W ustawie z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2016 r. poz. 740, 904, 960 i 1955) w art. 3 w pkt 5 wyrazy „średnie wykształcenie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”.
 
 **Art. 71.** W ustawie z dnia 22 lipca 2006 r. o paszach (Dz. U. z 2014 r. poz. 398, z 2015 r. poz. 1893 oraz z 2016 r. poz. 1228 i 2034) w art. 17 w ust. 3 w pkt 1 wyraz „średnie” zastępuje się wyrazami „średnie lub średnie branżowe”.
 
-**Art. 72.** W ustawie z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2015 r. poz. 594, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 72.** W ustawie z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2015 r. poz. 594, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 73.** W ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2016 r. poz. 1868 i 2020) w art. 8 ust. 1 otrzymuje brzmienie: „1. Podstawa programowa, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59), uwzględnia edukację w zakresie udzielania pierwszej pomocy.”.
+- **1)** w art. 1 w ust. 3 część wspólna otrzymuje brzmienie: „ – w przedszkolach, innych formach wychowania przedszkolnego, szkołach, z wyłączeniem szkół dla dorosłych, a także w placówkach systemu oświaty, o których mowa w art. 2 pkt 3, 7 i 8 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59), zwanych dalej „jednostkami systemu oświaty”. ” ;
+- **2)** w art. 43: w ust. 1 w pkt 2 w lit. a wyraz „gimnazjum” zastępuje się wyrazami „gimnazjum lub ośmioletnią szkołę podstawową”, w ust. 2 w pkt 2 wyraz „średnie” zastępuje się wyrazami „średnie lub średnie branżowe”;
+    - **a)**
+    - **b)**
 
-**Art. 74.** W ustawie z dnia 8 września 2006 r. o finansowym wsparciu rodzin i innych osób w nabywaniu własnego mieszkania (Dz. U. z 2012 r. poz. 90 i 951, z 2014 r. poz. 1198 oraz z 2016 r. poz. 1250) w art. 3 w ust. 1 w pkt 2 lit. c otrzymuje brzmienie: „c) dziecko do ukończenia przez nie 25. roku życia, uczące się w szkołach oraz kolegiach pracowników służb społecznych, o których mowa w ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59), a także w szkołach wyższych w rozumieniu ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2016 r. poz. 1842, 1933, 2169 i 2260 oraz z 2017 r. poz. 60) oraz szkołach wyższych i wyższych seminariach duchownych, prowadzonych przez Kościół Katolicki, inne kościoły i związki wyznaniowe na podstawie przepisów o stosunku państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej oraz przepisów o stosunku państwa do innych kościołów i związków wyznaniowych,”.
+- **3)** w art. 52c ust. 3–5 otrzymują brzmienie: „
 
-**Art. 75.** W ustawie z dnia 7 września 2007 r. o Karcie Polaka (Dz. U. z 2014 r. poz. 1187, z 2015 r. poz. 1274 oraz z 2016 r. poz. 753 i 2066) w art. 6 w ust. 1 pkt 4 otrzymuje brzmienie: „4) korzystania z form kształcenia na zasadach określonych w ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59) oraz ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, 1954, 1985 i 2169 oraz z 2017 r. poz. 60);”.
+3. Dyrektor przedszkola, a w przypadku innej formy wychowania przedszkolnego prowadzonej przez osobę prawną niebędącą jednostką samorządu terytorialnego lub osobę fizyczną – także osoba kierująca daną inną formą wychowania przedszkolnego albo dyrektor szkoły lub dyrektor jednostki systemu oświaty może ustalić, w porozumieniu z radą rodziców, szczegółową listę produktów dopuszczonych do sprzedaży lub stosowania w ramach żywienia zbiorowego w oparciu o przepisy wydane na podstawie ust. 6.
 
-**Art. 76.** W ustawie z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2016 r. poz. 169, 195 i 1579) w art. 2 pkt 13 otrzymuje brzmienie: „13) szkole – oznacza to szkołę podstawową, szkołę ponadpodstawową oraz szkołę artystyczną, w której realizowany jest obowiązek szkolny i obowiązek nauki, a także młodzieżowy ośrodek socjoterapii, specjalny ośrodek szkolno-wychowawczy, specjalny ośrodek wychowawczy dla dzieci i młodzieży wymagających stosowania specjalnej organizacji nauki, metod pracy i wychowania, a także ośrodek rewalidacyjno-wychowawczy;”.
+4. W jednostkach systemu oświaty, w których nie funkcjonuje rada rodziców, listę produktów, o której mowa w ust. 3, może ustalić dyrektor przedszkola, a w przypadku innej formy wychowania przedszkolnego prowadzonej przez osobę prawną niebędącą jednostką samorządu terytorialnego lub osobę fizyczną – także osoba kierująca daną inną formą wychowania przedszkolnego albo dyrektor szkoły lub dyrektor jednostki systemu oświaty.
+
+5. W przypadku naruszenia przepisów ust. 1–4, dyrektor przedszkola, a w przypadku innej formy wychowania przedszkolnego prowadzonej przez osobę prawną niebędącą jednostką samorządu terytorialnego lub osobę fizyczną – także osoba kierująca daną inną formą wychowania przedszkolnego, dyrektor szkoły oraz dyrektor jednostki systemu oświaty są uprawnieni do rozwiązania, bez zachowania terminu wypowiedzenia, umowy z podmiotem prowadzącym sprzedaż środków spożywczych lub działalność w zakresie zbiorowego żywienia dzieci i młodzieży, bez odszkodowania. ” .
+
+**Art. 73.** W ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2016 r. poz. 1868 i 2020) w art. 8 ust. 1 otrzymuje brzmienie: „ 1. Podstawa programowa, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59), uwzględnia edukację w zakresie udzielania pierwszej pomocy. ” .
+
+**Art. 74.** W ustawie z dnia 8 września 2006 r. o finansowym wsparciu rodzin i innych osób w nabywaniu własnego mieszkania (Dz. U. z 2012 r. poz. 90 i 951, z 2014 r. poz. 1198 oraz z 2016 r. poz. 1250) w art. 3 w ust. 1 w pkt 2 lit. c otrzymuje brzmienie: „
+
+dziecko do ukończenia przez nie 25. roku życia, uczące się w szkołach oraz kolegiach pracowników służb społecznych, o których mowa w ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59), a także w szkołach wyższych w rozumieniu ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2016 r. poz. 1842, 1933, 2169 i 2260 oraz z 2017 r. poz. 60) oraz szkołach wyższych i wyższych seminariach duchownych, prowadzonych przez Kościół Katolicki, inne kościoły i związki wyznaniowe na podstawie przepisów o stosunku państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej oraz przepisów o stosunku państwa do innych kościołów i związków wyznaniowych, ” .
+
+- **c)**
+
+**Art. 75.** W ustawie z dnia 7 września 2007 r. o Karcie Polaka (Dz. U. z 2014 r. poz. 1187, z 2015 r. poz. 1274 oraz z 2016 r. poz. 753 i 2066) w art. 6 w ust. 1 pkt 4 otrzymuje brzmienie: „
+
+- **4)** korzystania z form kształcenia na zasadach określonych w ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59) oraz ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, 1954, 1985 i 2169 oraz z 2017 r. poz. 60); ” .
+
+**Art. 76.** W ustawie z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2016 r. poz. 169, 195 i 1579) w art. 2 pkt 13 otrzymuje brzmienie: „
+
+- **13)** szkole – oznacza to szkołę podstawową, szkołę ponadpodstawową oraz szkołę artystyczną, w której realizowany jest obowiązek szkolny i obowiązek nauki, a także młodzieżowy ośrodek socjoterapii, specjalny ośrodek szkolno-wychowawczy, specjalny ośrodek wychowawczy dla dzieci i młodzieży wymagających stosowania specjalnej organizacji nauki, metod pracy i wychowania, a także ośrodek rewalidacyjno-wychowawczy; ” .
 
 **Art. 77.** W ustawie z dnia 21 listopada 2008 r. o pracownikach samorządowych (Dz. U. z 2016 r. poz. 902) w art. 6 w ust. 3 w pkt 1 wyraz „średnie” zastępuje się wyrazami „średnie lub średnie branżowe”.
 
 **Art. 78.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2017 r. poz. 43) wprowadza się następujące zmiany:
 
-**Art. 79.** W ustawie z dnia 19 marca 2009 r. o zmianie ustawy o systemie oświaty oraz o zmianie niektórych innych ustaw (Dz. U. poz. 458, z późn. zm. ) w art. 2 pkt 2 otrzymuje brzmienie: „2) w art. 191 w § 5 pkt 3 i 4 otrzymują brzmienie:
+- **1)** w art. 31a w ust. 1 pkt 3 otrzymuje brzmienie: „
+- **3)** przez gospodarstwo domowe, organ administracji publicznej, jednostkę Sił Zbrojnych Rzeczypospolitej Polskiej, podmiot systemu oświaty, o którym mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59), żłobek i klub dziecięcy, o których mowa w ustawie z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2016 r. poz. 157), podmiot leczniczy, o którym mowa w art. 4 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2016 r. poz. 1638, 1948 i 2260), jednostkę organizacyjną pomocy społecznej, o której mowa w art. 6 pkt 5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2016 r. poz. 930, 1583, 1948 i 2174 oraz z 2017 r. poz. 38 i 60), organizacje, o których mowa w art. 3 ust. 2 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2016 r. poz. 1817 i 1948 oraz z 2017 r. poz. 60); ” ;
+- **2)** w art. 31b w ust. 2 pkt 4 otrzymuje brzmienie: „
+- **4)** podmioty systemu oświaty, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe; ” .
+
+**Art. 79.** W ustawie z dnia 19 marca 2009 r. o zmianie ustawy o systemie oświaty oraz o zmianie niektórych innych ustaw (Dz. U. poz. 458, z późn. zm.) w art. 2 pkt 2 otrzymuje brzmienie: „
+
+- **2)** w art. 191 w § 5 pkt 3 i 4 otrzymują brzmienie:
+- **3)** zatrudnianie osób niemających 15 lat, które ukończyły ośmioletnią szkołę podstawową;
+- **4)** zatrudnianie osób niemających 15 lat, które nie ukończyły ośmioletniej szkoły podstawowej. ” .
 
 **Art. 80.** W ustawie z dnia 22 maja 2009 r. o nauczycielskich świadczeniach kompensacyjnych (Dz. U. poz. 800, z 2011 r. poz. 398, z 2012 r. poz. 637 oraz z 2017 r. poz. 38) wprowadza się następujące zmiany:
 
+- **1)** w art. 2 w pkt 1 lit. c otrzymuje brzmienie: „ publicznych i niepublicznych placówkach kształcenia ustawicznego i placówkach, o których mowa w art. 2 pkt 7 i 8 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59); ” ;
+    - **c)**
+
+- **2)** w art. 4 ust. 2 otrzymuje brzmienie: „
+
+2. Nauczycielom spełniającym warunki określone w ust. 1 pkt 1 i 2 świadczenie przysługuje również w przypadku rozwiązania stosunku pracy lub wygaśnięcia stosunku pracy w okolicznościach określonych:
+
+- **1)** w art. 20 ust. 1, 5c i 7 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela;
+- **2)** w art. 225 ust. 1, 6, 7 i 10 oraz art. 226 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60). ” .
+
 **Art. 81.** W ustawie z dnia 17 lipca 2009 r. o praktykach absolwenckich (Dz. U. poz. 1052) w art. 2:
+
+- **1)** w ust. 1 wyraz „gimnazjum” zastępuje się wyrazami „gimnazjum lub ośmioletnią szkołę podstawową”;
+- **2)** w ust. 2 wyraz „gimnazjum” zastępuje się wyrazami „gimnazjum lub ośmioletniej szkoły podstawowej”.
 
 **Art. 82.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, 1948, 1984 i 2260) wprowadza się następujące zmiany:
 
+- **1)** w art. 11a w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Państwowe jednostki budżetowe, dla których organem prowadzącym są organy administracji państwowej, prowadzące działalność określoną w ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59) gromadzą na wydzielonym rachunku dochody uzyskiwane: ” ;
+- **2)** w art. 54 w ust. 9 wyraz „średnie” zastępuje się wyrazami „średnie lub średnie branżowe”;
+- **3)** w art. 223 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Samorządowe jednostki budżetowe prowadzące działalność określoną w ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe gromadzą na wydzielonym rachunku dochody określone w uchwale przez organ stanowiący jednostki samorządu terytorialnego, pochodzące w szczególności: ” .
+
 **Art. 83.** W ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2016 r. poz. 1910, 1948 i 1997) w art. 18 w ust. 4 wyraz „średnie” zastępuje się wyrazami „średnie lub średnie branżowe”.
 
-**Art. 84.** W ustawie z dnia 4 marca 2010 r. o świadczeniu usług na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2016 r. poz. 893 i 1948) w art. 3 w ust. 1 pkt 5 otrzymuje brzmienie: „5) ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59), z wyłączeniem działalności oświatowej, o której mowa w art. 170 ust. 2 tej ustawy oraz w ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, 1954, 1985 i 2169 oraz z 2017 r. poz. 60);”.
+**Art. 84.** W ustawie z dnia 4 marca 2010 r. o świadczeniu usług na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2016 r. poz. 893 i 1948) w art. 3 w ust. 1 pkt 5 otrzymuje brzmienie: „
+
+- **5)** ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59), z wyłączeniem działalności oświatowej, o której mowa w art. 170 ust. 2 tej ustawy oraz w ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, 1954, 1985 i 2169 oraz z 2017 r. poz. 60); ” .
 
 **Art. 85.** W ustawie z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2016 r. poz. 713, 904, 960, 1250 i 2149) wprowadza się następujące zmiany:
 
+- **1)** w art. 38 w pkt 7 wyrazy „średnie wykształcenie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”;
+- **2)** w art. 44 w ust. 4 wyraz „średniego” zastępuje się wyrazami „średniego lub średniego branżowego”.
+
 **Art. 86.** W ustawie z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2016 r. poz. 176, 1170 i 1171) w art. 41 w ust. 3 w pkt 2 wyraz „średnie” zastępuje się wyrazami „średnie lub średnie branżowe”.
 
-**Art. 87.** W ustawie z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2016 r. poz. 1867, 1920 i 1954) w art. 46 w ust. 1 w pkt 6 w lit. a tiret czwarte otrzymuje brzmienie: „– ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59) oraz ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, 1954, 1985 i 2169 oraz z 2017 r. poz. 60),”.
+**Art. 87.** W ustawie z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2016 r. poz. 1867, 1920 i 1954) w art. 46 w ust. 1 w pkt 6 w lit. a tiret czwarte otrzymuje brzmienie: „ – ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59) oraz ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, 1954, 1985 i 2169 oraz z 2017 r. poz. 60), ” .
 
 **Art. 88.** W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2016 r. poz. 627, 904, 1241, 1579, 1948 i 2001) wprowadza się następujące zmiany:
 
+- **1)** w art. 31 w ust. 1 pkt 5 otrzymuje brzmienie: „
+- **5)** posiada akredytację kuratora oświaty, o której mowa w art. 118 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59). ” ;
+- **2)** w art. 41 ust. 1 otrzymuje brzmienie: „
+
+1. W podstawie programowej kształcenia ogólnego w poszczególnych typach szkół, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 lit. b-h ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, zawiera się treści umożliwiające przygotowanie ucznia szkoły podstawowej do ubiegania się o wydanie karty rowerowej. ” ;
+
+- **3)** w art. 58 w ust. 1 w pkt 1 oraz w art. 117 w ust. 2 w pkt 1 wyraz „średnie” zastępuje się wyrazami „średnie lub średnie branżowe”.
+
 **Art. 89.** W ustawie z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2016 r. poz. 157) wprowadza się następujące zmiany:
 
-**Art. 90.** W ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2016 r. poz. 1927 i 1984) wprowadza się następujące zmiany:
+- **1)** w art. 9a ust. 2 otrzymuje brzmienie: „
+
+2. Obsługa, o której mowa w ust. 1, może również być wykonywana przez jednostki, o których mowa w art. 10 ust. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59). ” ;
+
+- **2)** w art. 13 w ust. 2 w pkt 2 oraz w art. 16 w ust. 2 we wprowadzeniu do wyliczenia wyraz „średnie” zastępuje się wyrazami „średnie lub średnie branżowe”. W ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2016 r. poz. 1927 i 1984) wprowadza się następujące zmiany:
+- **1)** w art. 3: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) publicznych i niepublicznych przedszkoli, szkół i placówek oraz innych jednostek organizacyjnych, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59), zwanych dalej „szkołami i placówkami oświatowymi”; ” , – w pkt 2 lit. h otrzymuje brzmienie: „ h) specjalistycznych jednostek nadzoru, o których mowa w art. 53 ust. 1 i 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, zwanej dalej „ustawą – Prawo oświatowe”, ” , w ust. 2 pkt 2a i 3 otrzymują brzmienie: „
+    - **a)**
+    - **b)**
+
+- **2a)** nauczycieli, o których mowa w art. 16 ust. 1 ustawy – Prawo oświatowe;
+- **3)** osób niebędących nauczycielami, o których mowa w art. 15 ust. 1–5 oraz art. 62 ust. 2 ustawy – Prawo oświatowe; ” ;
+- **2)** użyty w art. 7 w ust. 1 w pkt 20, w art. 14 w pkt 5 i 6, w art. 57 w ust. 1 i 2, w art. 62 w ust. 1, w art. 107 w ust. 6 w pkt 1 i w art. 127 w ust. 2, w różnym przypadku i liczbie, wyraz „ponadgimnazjalna” zastępuje się użytym w odpowiednim przypadku i odpowiedniej liczbie wyrazem „ponadpodstawowa”;
+- **3)** w art. 8: w pkt 1 lit. k otrzymuje brzmienie: „ danych o wysokości przeciętnego wynagrodzenia przypadającego na 1 etat, z uwzględnieniem nieperiodycznych składników wynagrodzenia nauczycieli mianowanych i dyplomowanych zatrudnionych na stanowiskach, na których wymagane są kwalifikacje pedagogiczne, w publicznych placówkach doskonalenia nauczycieli o zasięgu ogólnokrajowym, publicznych placówkach doskonalenia nauczycieli szkół artystycznych oraz publicznych placówkach doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych, o których mowa odpowiednio w art. 8 ust. 5 pkt 1 lit. b, ust. 6 i ust. 7 pkt 2 ustawy – Prawo oświatowe; ” , w pkt 2 lit. b-e otrzymują brzmienie: „ liczba diagnoz sporządzonych przez poradnię oraz liczba dzieci do 3 roku życia, dzieci w wieku, o którym mowa w art. 31 ust. 1 ustawy – Prawo oświatowe, w tym objętych rocznym obowiązkowym przygotowaniem przedszkolnym, oraz uczniów, według typów szkół i klas – dla których sporządzono diagnozy, według rodzajów tych diagnoz, liczba dzieci do 3 roku życia, dzieci w wieku, o którym mowa w art. 31 ust. 1 ustawy – Prawo oświatowe, w tym objętych rocznym obowiązkowym przygotowaniem przedszkolnym, oraz uczniów, według typów szkół i klas – uczestniczących w zajęciach organizowanych przez poradnię, według rodzajów tych zajęć, liczba opinii innych niż opinia o potrzebie wczesnego wspomagania rozwoju wydanych przez poradnię oraz liczba dzieci do 3 roku życia, dzieci w wieku, o którym mowa w art. 31 ust. 1 ustawy – Prawo oświatowe, w tym objętych rocznym obowiązkowym przygotowaniem przedszkolnym, oraz uczniów, według typów szkół i klas – dla których wydano opinie, według rodzajów tych opinii, numer i data wydania opinii o potrzebie wczesnego wspomagania rozwoju, orzeczenia o potrzebie zajęć rewalidacyjno-wychowawczych oraz orzeczenia o potrzebie kształcenia specjalnego, wraz z informacją, czy opinia lub orzeczenie zostało wydane dziecku do 3 roku życia, dziecku w wieku, o którym mowa w art. 31 ust. 1 ustawy – Prawo oświatowe, w tym objętemu rocznym obowiązkowym przygotowaniem przedszkolnym, oraz uczniowi, według typu szkoły i klasy, do której uczeń uczęszcza, oraz informacją o rodzaju niepełnosprawności, a w przypadku niepełnosprawności sprzężonych – współwystępujących niepełnosprawności, niedostosowaniu społecznym lub zagrożeniu niedostosowaniem społecznym, ” ;
+    - **a)**
+    - **k)**
+    - **b)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **4)** w art. 9 pkt 2 otrzymuje brzmienie: „
+- **2)** dane dziedzinowe dotyczące: nauczycieli mianowanych lub dyplomowanych zatrudnionych na stanowiskach, na których wymagane są kwalifikacje pedagogiczne, w urzędach obsługujących ministrów, kuratoriach oświaty, specjalistycznej jednostce nadzoru, o której mowa w art. 53 ust. 1 i 2 ustawy – Prawo oświatowe, organach sprawujących nadzór pedagogiczny, o których mowa w art. 1 ust. 2 pkt 1 lit. e ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, Centralnej Komisji Egzaminacyjnej i okręgowych komisjach egzaminacyjnych – dane o wysokości przeciętnego wynagrodzenia przypadającego na 1 etat, z uwzględnieniem nieperiodycznych składników wynagrodzenia, pracowników odpowiedzialnych za zarządzanie i administrowanie oświatą zatrudnionych w komórkach merytorycznych w urzędach gmin, starostwach powiatowych, urzędach marszałkowskich, jednostkach obsługujących, urzędach obsługujących ministrów prowadzących szkoły i placówki oświatowe, kuratoriach oświaty, Centralnej Komisji Egzaminacyjnej, okręgowych komisjach egzaminacyjnych i specjalistycznej jednostce nadzoru, o której mowa w art. 53 ust. 1 i 2 ustawy – Prawo oświatowe: – liczba pracowników, – łączna wysokość ich wynagrodzeń, – wymiar zatrudnienia, według rodzaju zajmowanych stanowisk. ” ;
+    - **a)**
+    - **b)**
+
+- **5)** w art. 13: pkt 5 otrzymuje brzmienie: „
+    - **a)**
+
+- **5)** korzystanie z nauczania, wychowania i opieki w wymiarze wyższym niż określony w art. 13 ust. 1 pkt 2 ustawy – Prawo oświatowe; ” , pkt 11 otrzymuje brzmienie: „
+    - **b)**
+
+- **11)** korzystanie z bezpłatnego transportu lub zwrotu kosztów przejazdu ucznia i opiekuna, o których mowa w art. 32 ust. 5 albo 6 ustawy – Prawo oświatowe; ” ;
+- **6)** w art. 14: pkt 3 otrzymuje brzmienie: „
+    - **a)**
+
+- **3)** rodzaj oddziału: ogólnodostępny, integracyjny, specjalny, przysposabiający do pracy, sportowy, dwujęzyczny, międzynarodowy lub inny rodzaj oddziału, w szczególności, o którym mowa w przepisach wydanych na podstawie art. 13 ust. 3 ustawy z dnia 7 września 1991 r. o systemie oświaty oraz art. 47 ust. 1 pkt 5, art. 111, art. 112 ust. 2, art. 113 i art. 165 ust. 16 ustawy – Prawo oświatowe; ” , pkt 12 otrzymuje brzmienie: „
+    - **b)**
+
+- **12)** korzystanie z dodatkowej bezpłatnej nauki języka polskiego oraz nauki języka i kultury kraju pochodzenia, o których mowa w art. 165 ust. 7, 9 i 15 ustawy – Prawo oświatowe; ” , pkt 25 otrzymuje brzmienie: „
+    - **c)**
+
+- **25)** uczestniczenie w zajęciach rozwijających zainteresowania i uzdolnienia, o których mowa w art. 109 ust. 1 pkt 6 ustawy – Prawo oświatowe, według rodzajów tych zajęć, oraz innych niż wymienione w art. 109 ust. 1 ustawy – Prawo oświatowe formach działalności dydaktyczno-wychowawczej; ” , pkt 27 otrzymuje brzmienie: „
+    - **d)**
+
+- **27)** korzystanie z bezpłatnego transportu lub zwrotu kosztów przejazdu, o których mowa w art. 39 ust. 3 i 4 ustawy – Prawo oświatowe; ” ;
+- **7)** w art. 20: wprowadzenie do wyliczenia otrzymuje brzmienie: „ Dane dziedzinowe ucznia w związku z egzaminami przeprowadzanymi przez okręgowe komisje egzaminacyjne obejmują: ” , w pkt 1 wyrazy „egzaminu gimnazjalnego” zastępuje się wyrazami „egzaminu ósmoklasisty”, w pkt 2 lit. c otrzymuje brzmienie: „ zdanie egzaminu eksternistycznego z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły I stopnia lub branżowej szkoły II stopnia; ” ;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **c)**
+
+- **8)** w art. 22 we wprowadzeniu do wyliczenia skreśla się wyrazy „i dyrektora gimnazjum”;
+- **9)** w art. 23: pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** informację o spełnianiu obowiązku nauki w formie, o której mowa w art. 36 ust. 9 pkt 2 i ust. 12 ustawy – Prawo oświatowe; ” , pkt 3a otrzymuje brzmienie: „
+    - **b)**
+
+- **3a)** informację, o której mowa w art. 36 ust. 15 ustawy – Prawo oświatowe, przekazaną wójtowi gminy (burmistrzowi, prezydentowi miasta) przez osoby kierujące podmiotami prowadzącymi kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 pkt 4 i 5 tej ustawy; ” ;
+- **10)** w art. 29: w ust. 1: – w pkt 1a wprowadzenie do wyliczenia otrzymuje brzmienie: „ w odniesieniu do nauczycieli, o których mowa w art. 16 ust. 1 ustawy – Prawo oświatowe: ” , – w pkt 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ w odniesieniu do nauczycieli mianowanych lub dyplomowanych zatrudnionych na stanowiskach, na których wymagane są kwalifikacje pedagogiczne, w urzędach obsługujących ministrów, kuratoriach oświaty, specjalistycznej jednostce nadzoru, o której mowa w art. 53 ust. 1 i 2 ustawy – Prawo oświatowe, organach sprawujących nadzór pedagogiczny, o których mowa w art. 1 ust. 2 pkt 1 lit. e ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, Centralnej Komisji Egzaminacyjnej i okręgowych komisjach egzaminacyjnych, publicznych placówkach doskonalenia nauczycieli o zasięgu ogólnokrajowym, publicznych placówkach doskonalenia nauczycieli szkół artystycznych oraz publicznych placówkach doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych, o których mowa odpowiednio w art. 8 ust. 5 pkt 1 lit. b, ust. 6 i ust. 7 pkt 2 ustawy – Prawo oświatowe: ” , w ust. 3: – w pkt 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ w odniesieniu do osób niebędących nauczycielami, o których mowa w art. 15 ust. 2–6 ustawy – Prawo oświatowe: ” , – w pkt 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ w odniesieniu do dyrektorów szkół i placówek oświatowych, niebędących nauczycielami, o których mowa w art. 62 ust. 2 ustawy – Prawo oświatowe: ” ;
+    - **a)**
+    - **b)**
+
+- **11)** użyte w art. 30, w art. 31 w ust. 1, w art. 42 w pkt 10, w art. 55 w ust. 1 i 2 oraz w art. 57 w ust. 1 w pkt 2, w różnym przypadku, wyrazy „egzamin gimnazjalny” zastępuje się użytymi w odpowiednim przypadku wyrazami „egzamin ósmoklasisty”;
+- **12)** w art. 41 w ust. 1: wprowadzenie do wyliczenia otrzymuje brzmienie: „ Ministrowie prowadzący szkoły i placówki oświatowe, minister właściwy do spraw oświaty i wychowania, Centralna Komisja Egzaminacyjna, okręgowe komisje egzaminacyjne, kuratorzy oświaty, organy sprawujące nadzór pedagogiczny, o których mowa w art. 1 ust. 2 pkt 1 lit. e ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, oraz specjalistyczne jednostki nadzoru, o których mowa w art. 53 ust. 1 i 2 ustawy – Prawo oświatowe, do zbiorów danych tych podmiotów przekazują dane identyfikacyjne oraz dane dziedzinowe dotyczące: ” , pkt 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **2)** pracowników odpowiedzialnych za zarządzanie i administrowanie oświatą zatrudnionych w komórkach merytorycznych w urzędach obsługujących ministrów prowadzących szkoły i placówki oświatowe, kuratoriach oświaty, Centralnej Komisji Egzaminacyjnej, okręgowych komisjach egzaminacyjnych i specjalistycznej jednostce nadzoru, o której mowa w art. 53 ust. 1 i 2 ustawy – Prawo oświatowe. ” ;
+- **13)** w art. 42: w pkt 8 skreśla się wyrazy „i gimnazja”, w pkt 9 wyraz „gimnazjum” zastępuje się wyrazami „szkoły podstawowej”;
+    - **a)**
+    - **b)**
+
+- **14)** w art. 43 w ust. 1 w pkt 1 lit. g otrzymuje brzmienie: „ specjalistyczne jednostki nadzoru, o których mowa w art. 53 ust. 1 i 2 ustawy – Prawo oświatowe, ” ;
+    - **g)**
+
+- **15)** w art. 58 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Szkoły i placówki oświatowe, jednostki organizacyjne, o których mowa w art. 1 ust. 1 pkt 2 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, Centralna Komisja Egzaminacyjna, okręgowe komisje egzaminacyjne, ministrowie prowadzący szkoły i placówki oświatowe, kuratorzy oświaty, organy sprawujące nadzór pedagogiczny, o których mowa w art. 1 ust. 2 pkt 1 lit. e ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, specjalistyczne jednostki nadzoru, o których mowa w art. 53 ust. 1 i 2 ustawy – Prawo oświatowe, w związku z zatrudnieniem nauczyciela, mogą pozyskiwać następujące dane nauczyciela: ” ;
+- **16)** w art. 106 pkt 2 otrzymuje brzmienie: „
+- **2)** właściwych ministrach – należy przez to rozumieć ministrów, o których mowa w art. 8 ust. 4–8 ustawy – Prawo oświatowe, prowadzących szkoły i placówki oświatowe; ” ;
+- **17)** w art. 107: w ust. 3: – w pkt 1 lit. h otrzymuje brzmienie: „ h) specjalnych potrzeb edukacyjnych wynikających z opinii lub orzeczeń, o których mowa w art. 127 ust. 9 i 10 ustawy – Prawo oświatowe, albo posiadania zezwolenia na indywidualny program lub tok nauki, ” , – w pkt 2 lit. b otrzymuje brzmienie: „ b) są dowożeni lub otrzymują zwrot kosztów przejazdu na podstawie art. 39 ust. 3 i 4 ustawy – Prawo oświatowe, z uwzględnieniem odległości od miejsca zamieszkania do szkoły lub placówki oświatowej, ” , w ust. 6 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **2)** spełniającej obowiązek nauki w formach, o których mowa w art. 36 ust. 9 pkt 2 oraz ust. 10 i 12 ustawy – Prawo oświatowe; ” ;
+- **18)** w art. 108: w ust. 8 w pkt 1 lit. b otrzymuje brzmienie: „ szkół i placówek oświatowych, publicznych i niepublicznych, prowadzonych przez inne niż jednostki samorządu terytorialnego osoby prawne i osoby fizyczne, dla których są odpowiednio organem właściwym do wydania zezwolenia, o którym mowa w art. 88 ust. 4 ustawy – Prawo oświatowe, albo organem prowadzącym ewidencję, o której mowa w art. 168 ust. 1 ustawy – Prawo oświatowe; ” , w ust. 9 w pkt 1 lit. b otrzymuje brzmienie: „ szkół i placówek oświatowych, publicznych i niepublicznych, prowadzonych przez inne niż jednostki samorządu terytorialnego osoby prawne i osoby fizyczne, dla których są odpowiednio organem właściwym do wydania zezwolenia, o którym mowa w art. 88 ust. 4 ustawy – Prawo oświatowe, albo organem prowadzącym ewidencję, o której mowa w art. 168 ust. 2 ustawy – Prawo oświatowe; ” ;
+    - **a)**
+    - **b)**
+    - **b)**
+    - **b)**
+
+- **19)** w art. 113 ust. 2 otrzymuje brzmienie: „
+
+2. Obowiązek dodatkowego aktualizowania i przekazywania danych, o których mowa w art. 107 ust. 3 pkt 1 lit. c, nie dotyczy szkół i placówek oświatowych prowadzonych przez właściwych ministrów, a także szkół wpisanych do ewidencji, o której mowa w art. 168 ust. 2 ustawy – Prawo oświatowe. ” .
 
 **Art. 91.** W ustawie z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2016 r. poz. 1131 i 1991) w art. 56 w pkt 1:
 
+- **1)** w lit. a wyraz „średnie” zastępuje się wyrazami „średnie lub średnie branżowe”;
+- **2)** w lit. c wyraz „ponadgimnazjalnej” zastępuje się wyrazami „ponadgimnazjalnej lub ponadpodstawowej”.
+
 **Art. 92.** W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2016 r. poz. 575, 1583 i 1860) wprowadza się następujące zmiany:
 
-**Art. 93.** W ustawie z dnia 28 lipca 2011 r. o zalegalizowaniu pobytu niektórych cudzoziemców na terytorium Rzeczypospolitej Polskiej oraz o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej i ustawy o cudzoziemcach (Dz. U. poz. 1133 i 1707 oraz z 2015 r. poz.
+- **1)** w art. 82 w ust. 1b w pkt 1 wyraz „ponadgimnazjalnej” zastępuje się wyrazami „ponadgimnazjalnej lub ponadpodstawowej”;
+- **2)** w art. 129 pkt 7 otrzymuje brzmienie: „
+- **7)** informowania sądu o potrzebie umieszczenia dziecka w placówce działającej na podstawie przepisów ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59), przepisów o działalności leczniczej lub o pomocy społecznej. ” ;
+- **3)** w art. 136 pkt 7 otrzymuje brzmienie: „
+- **7)** informowania sądu o potrzebie umieszczenia dziecka w placówce działającej na podstawie przepisów ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, przepisów ustawy o działalności leczniczej lub o pomocy społecznej. ” ;
+- **4)** w art. 146 w ust. 5 w pkt 1 wyraz „ponadgimnazjalnej” zastępuje się wyrazami „ponadgimnazjalnej lub ponadpodstawowej”.
+
+**Art. 93.** W ustawie z dnia 28 lipca 2011 r. o zalegalizowaniu pobytu niektórych cudzoziemców na terytorium Rzeczypospolitej Polskiej oraz o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej i ustawy o cudzoziemcach (Dz. U. poz. 1133 i 1707 oraz z 2015 r. poz. 1607) w art. 19 w ust. 1 w pkt 2 lit. c otrzymuje brzmienie: „
+
+obniżenie wydatków na zakup pomocy dydaktycznych dla dzieci korzystających z nauki i opieki w publicznych placówkach, szkołach podstawowych lub szkołach ponadpodstawowych o nie więcej niż 50%, ” .
+
+- **c)**
 
 **Art. 94.** W ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2016 r. poz. 281 i 1948 oraz z 2017 r. poz. 32) wprowadza się następujące zmiany:
+
+- **1)** użyty w art. 64 w ust. 1 w pkt 1 w lit. a oraz w ust. 2 w różnym przypadku wyraz „średnie” zastępuje się użytymi w odpowiednim przypadku wyrazami „średnie lub średnie branżowe”;
+- **2)** w art. 74 w ust. 2 w pkt 3 wyraz „ponadgimnazjalne” zastępuje się wyrazem „ponadpodstawowe”.
 
 **Art. 95.** W ustawie z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U. poz. 1203) w art. 26 w ust. 1 w pkt 1 wyraz „ponadgimnazjalnej” zastępuje się wyrazem „ponadpodstawowej”.
 
@@ -225,35 +1648,98 @@ source: "isap-pdf"
 
 **Art. 99.** W ustawie z dnia 13 czerwca 2013 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 827, z 2014 r. poz. 7 i 811, z 2015 r. poz. 357 oraz z 2016 r. poz. 35 i 1985) wprowadza się następujące zmiany:
 
+- **1)** w art. 1: w pkt 3 uchyla się lit. b, w pkt 4: – uchyla się lit. d, e i f w zakresie art. 14 ust. 4a, – uchyla się lit. i, w pkt 5 uchyla się lit. a w zakresie art. 14a ust. 1, 1a, 2 i 3, uchyla się pkt 6, uchyla się pkt 7 w zakresie art. 14d ust. 7, uchyla się pkt 8;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+
+- **2)** uchyla się art. 3;
+- **3)** uchyla się art. 5;
+- **4)** w art. 18 uchyla się pkt 6 i 7.
+
 **Art. 100.** W ustawie z dnia 30 sierpnia 2013 r. o zmianie ustawy o systemie oświaty oraz ustawy o zmianie ustawy o systemie oświaty oraz o zmianie niektórych innych ustaw (Dz. U. poz. 1265 oraz z 2016 r. poz. 35) uchyla się art. 5.
 
-**Art. 101.** W ustawie z dnia 27 września 2013 r. o pomocy państwa w nabyciu pierwszego mieszkania przez młodych ludzi (Dz. U. z 2015 r. poz. 1865 oraz z 2016 r. poz. 1250) w art. 7 w ust. 1a pkt 3 otrzymuje brzmienie: „3) dzieci do ukończenia przez nie 25. roku życia, uczących się w szkołach oraz kolegiach pracowników służb społecznych, o których mowa w przepisach ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59), przepisach o szkolnictwie wyższym lub przepisach regulujących system oświatowy lub szkolnictwo wyższe obowiązujących w innym niż Rzeczpospolita Polska państwie oraz szkołach wyższych i wyższych seminariach duchownych, prowadzonych przez Kościół Katolicki, inne kościoły i związki wyznaniowe na podstawie przepisów o stosunku państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej oraz przepisów o stosunku państwa do innych kościołów i związków wyznaniowych”.
+**Art. 101.** W ustawie z dnia 27 września 2013 r. o pomocy państwa w nabyciu pierwszego mieszkania przez młodych ludzi (Dz. U. z 2015 r. poz. 1865 oraz z 2016 r. poz. 1250) w art. 7 w ust. 1a pkt 3 otrzymuje brzmienie: „
+
+- **3)** dzieci do ukończenia przez nie 25. roku życia, uczących się w szkołach oraz kolegiach pracowników służb społecznych, o których mowa w przepisach ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59), przepisach o szkolnictwie wyższym lub przepisach regulujących system oświatowy lub szkolnictwo wyższe obowiązujących w innym niż Rzeczpospolita Polska państwie oraz szkołach wyższych i wyższych seminariach duchownych, prowadzonych przez Kościół Katolicki, inne kościoły i związki wyznaniowe na podstawie przepisów o stosunku państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej oraz przepisów o stosunku państwa do innych kościołów i związków wyznaniowych ” .
 
 **Art. 102.** W ustawie z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego (Dz. U. poz. 1635 oraz z 2014 r. poz. 1877 i 1915) w art. 16 w ust. 2 w pkt 1 wyrazy „średnie wykształcenie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”.
 
 **Art. 103.** W ustawie z dnia 6 grudnia 2013 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. z 2014 r. poz. 7 i 811, z 2015 r. poz. 357 oraz z 2016 r. poz. 35) wprowadza się następujące zmiany:
 
+- **1)** w art. 10 w ust. 12 wyrazy „2014/2015–2017/2018” zastępuje się wyrazami „2014/2015–2020/2021”;
+- **2)** w art. 19 uchyla się pkt 1.
+
 **Art. 104.** W ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2016 r. poz. 1990, 1948 i 2066) w art. 237 w ust. 1 w pkt 2 wyraz „ponadgimnazjalnej” zastępuje się wyrazem „ponadpodstawowej”.
 
 **Art. 105.** W ustawie z dnia 30 maja 2014 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 811 oraz z 2015 r. poz. 357) wprowadza się następujące zmiany:
+
+- **1)** uchyla się art. 9–11;
+- **2)** w art. 13 uchyla się ust. 1, 3 i 4;
+- **3)** w art. 16 w ust. 11 w pkt 3 wyrazy „2016/2017” zastępuje się wyrazami „2017/2018”;
+- **4)** uchyla się art. 20.
 
 **Art. 106.** W ustawie z dnia 19 grudnia 2014 r. o rybołówstwie morskim (Dz. U. z 2015 r. poz. 222 oraz z 2016 r. poz. 1948) w art. 84 w ust. 2 w pkt 2 wyraz „ponadgimnazjalnej” zastępuje się wyrazem „ponadpodstawowej”.
 
 **Art. 107.** W ustawie z dnia 15 stycznia 2015 r. o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych (Dz. U. poz. 266) wprowadza się następujące zmiany:
 
-**Art. 108.** W ustawie z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 349 i 1888, z 2016 r. poz. 337 i 1579 oraz z 2017 r. poz.
+- **1)** w art. 20 w pkt 1 oraz w art. 21 w ust. 3 w pkt 2 w lit. a wyrazy „zasadnicze zawodowe lub średnie” zastępuje się wyrazami „zasadnicze zawodowe, zasadnicze branżowe, średnie lub średnie branżowe”;
+- **2)** w art. 21 w ust. 2 w pkt 3 wyraz „średnie” zastępuje się wyrazami „średnie lub średnie branżowe”;
+- **3)** w art. 24 w ust. 2 w pkt 1 wyrazy „średnie wykształcenie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”.
+
+**Art. 108.** W ustawie z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 349 i 1888, z 2016 r. poz. 337 i 1579 oraz z 2017 r. poz. 5) w art. 51:
+
+- **1)** w ust. 5 w pkt 4 w lit. b wyrazy „średnie leśne” zastępuje się wyrazami „średnie leśne, średnie branżowe leśne”;
+- **2)** w ust. 6 w pkt 3 lit. b otrzymuje brzmienie: „ średnie leśne, jeżeli ukończyła technikum leśne, lub średnie branżowe leśne, jeżeli ukończyła leśną branżową szkołę II stopnia. ” .
+    - **b)**
 
 **Art. 109.** W ustawie z dnia 20 lutego 2015 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 357) w art. 9 uchyla się pkt 1.
 
-**Art. 110.** W ustawie z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. poz.
+**Art. 110.** W ustawie z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. poz. 1569) użyty w art. 2 w pkt 6, w art. 9 w pkt 2, w art. 11 w ust. 5 oraz w art. 14 w ust. 2 w pkt 2 i w ust. 3, w różnej liczbie i różnym przypadku, wyraz „ponadgimnazjalna” zastępuje się użytym w odpowiedniej liczbie i odpowiednim przypadku wyrazem „ponadpodstawowa”.
 
 **Art. 111.** W ustawie z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2016 r. poz. 64 i 1010) wprowadza się następujące zmiany:
 
+- **1)** w art. 8 pkt 1–6 otrzymują brzmienie: „
+- **1)** świadectwo ukończenia sześcioletniej szkoły podstawowej, świadectwo ukończenia szkoły muzycznej I stopnia i świadectwo ukończenia sześcioletniej ogólnokształcącej szkoły muzycznej I stopnia – potwierdza nadanie kwalifikacji na poziomie 1 Polskiej Ramy Kwalifikacji;
+- **2)** świadectwo ukończenia ośmioletniej szkoły podstawowej i świadectwo ukończenia gimnazjum – potwierdza nadanie kwalifikacji na poziomie 2 Polskiej Ramy Kwalifikacji;
+- **3)** dyplom potwierdzający kwalifikacje zawodowe: po ukończeniu zasadniczej szkoły zawodowej albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. a ustawy z dnia 7 września 1991 r. o systemie oświaty, po ukończeniu branżowej szkoły I stopnia albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. b ustawy z dnia 7 września 1991 r. o systemie oświaty oraz po zdaniu egzaminów potwierdzających kwalifikacje w danym zawodzie – potwierdza nadanie kwalifikacji na poziomie 3 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw oświaty i wychowania w rozporządzeniu wydanym na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59) określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;
+    - **a)**
+    - **b)**
+
+- **4)** świadectwo czeladnicze wydawane po ukończeniu zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia po zdaniu egzaminów w zawodach, o których mowa w art. 3 ust. 3b ustawy z dnia 22 marca 1989 r. o rzemiośle – potwierdza nadanie kwalifikacji na poziomie 3 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw oświaty i wychowania w rozporządzeniu wydanym na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;
+- **5)** dyplom potwierdzający kwalifikacje zawodowe: po ukończeniu technikum lub szkoły policealnej albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. d ustawy z dnia 7 września 1991 r. o systemie oświaty, albo po ukończeniu branżowej szkoły II stopnia albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. c ustawy z dnia 7 września 1991 r. o systemie oświaty oraz po zdaniu egzaminów potwierdzających kwalifikacje w danym zawodzie – potwierdza nadanie kwalifikacji na poziomie 4 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw oświaty i wychowania w rozporządzeniu wydanym na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;
+    - **a)**
+    - **b)**
+
+- **6)** dyplom ukończenia szkoły artystycznej potwierdzający uzyskanie tytułu zawodowego – potwierdza nadanie kwalifikacji na poziomie 4 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw oświaty i wychowania w rozporządzeniu wydanym na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji; ” ;
+- **2)** w art. 92 po pkt 5 dodaje się pkt 5a w brzmieniu: „
+- **5a)** Konferencji Rektorów Publicznych Szkół Zawodowych – 2 osoby; ” .
+
 **Art. 112.** W ustawie z dnia 29 grudnia 2015 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. z 2016 r. poz. 35, 668 i 1010) wprowadza się następujące zmiany:
+
+- **1)** w art. 1: w pkt 2 uchyla się lit. b w zakresie art. 14 ust. 3b, w pkt 3 uchyla się lit. a;
+    - **a)**
+    - **b)**
+
+- **2)** uchyla się art. 12–15;
+- **3)** w art. 20 uchyla się pkt 2 i 3.
 
 **Art. 113.** W ustawie z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U. poz. 195 i 1579) wprowadza się następujące zmiany:
 
-**Art. 114.** W ustawie z dnia 25 lutego 2016 r. o ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 352) w art. 4 w ust. 1 pkt 5 otrzymuje brzmienie: „5) podmiotów, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59)”.
+- **1)** w art. 2 pkt 17 otrzymuje brzmienie: „
+- **17)** szkole – oznacza to szkołę podstawową, szkołę ponadpodstawową oraz szkołę artystyczną, w której jest realizowany obowiązek szkolny i obowiązek nauki, a także młodzieżowy ośrodek socjoterapii, specjalny ośrodek szkolno-wychowawczy, specjalny ośrodek wychowawczy dla dzieci i młodzieży wymagających stosowania specjalnej organizacji nauki, metod pracy i wychowania, a także ośrodek rewalidacyjno-wychowawczy; ” ;
+- **2)** art. 57 otrzymuje brzmienie: „
+
+1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 107 ust. 6 ustawy, o której mowa w art. 42, oraz art. 187 ust. 6 ustawy, o której mowa w art. 46, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 107 ust. 6 ustawy, o której mowa w art. 42, oraz art. 187 ust. 6 ustawy, o której mowa w art. 46, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 23 ust. 5 ustawy, o której mowa w art. 41, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 23 ust. 5 ustawy, o której mowa w art. 41, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy. ” .
+
+**Art. 114.** W ustawie z dnia 25 lutego 2016 r. o ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 352) w art. 4 w ust. 1 pkt 5 otrzymuje brzmienie: „
+
+- **5)** podmiotów, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59) ” .
 
 **Art. 115.** W ustawie z dnia 23 czerwca 2016 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 1010 i 1985) uchyla się art. 8.
 
@@ -277,7 +1763,7 @@ source: "isap-pdf"
 
 **Art. 118.**
 
-1. Z dniem 1 września 2017 r. uczniowie klas I–VI dotychczasowej sześcioletniej szkoły podstawowej stają się uczniami odpowiednich klas ośmioletniej szkoły podstawowej, o której mowa w art. 18 ust. 1 pkt 1 ustawy – Prawo oświatowe.
+1. Z dniem 1 września 2017 r. uczniowie klas I-VI dotychczasowej sześcioletniej szkoły podstawowej stają się uczniami odpowiednich klas ośmioletniej szkoły podstawowej, o której mowa w art. 18 ust. 1 pkt 1 ustawy – Prawo oświatowe.
 
 2. W roku szkolnym 2016/2017 uczniowie klasy VI dotychczasowej sześcioletniej szkoły podstawowej podlegają promocji do klasy VII szkoły podstawowej, o której mowa w art. 18 ust. 1 pkt 1 ustawy – Prawo oświatowe, zgodnie z przepisami rozdziału 3a ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą.
 
@@ -297,7 +1783,7 @@ source: "isap-pdf"
 
 2. Organ jednostki samorządu terytorialnego, o którym mowa w ust. 1, na wniosek osoby prawnej niebędącej jednostką samorządu terytorialnego lub osoby fizycznej prowadzącej dotychczasową publiczną sześcioletnią szkołę podstawową, o której mowa w art. 117 ust. 1 i 2, w tym szkołę filialną, może postanowić o przedłużeniu terminu, o którym mowa w ust. 1, nie dłużej jednak niż do dnia 31 lipca 2017 r.
 
-3. W przypadku nieprzedłożenia dokumentów, o których mowa w ust. 1, w terminie, o którym mowa w ust. 1 lub 2, dotychczasowa publiczna sześcioletnia szkoła podstawowa, o której mowa w art. 117 ust. 1, staje się z dniem 1 września 2017 r. ośmioletnią szkołą podstawową obejmującą strukturą organizacyjną klasy I–VI i ulega likwidacji z dniem 31 sierpnia 2018 r., zgodnie z art. 89 ustawy – Prawo oświatowe. Likwidacja szkoły nie wymaga uzyskania zgody, o której mowa w art. 89 ust. 3 ustawy – Prawo oświatowe.
+3. W przypadku nieprzedłożenia dokumentów, o których mowa w ust. 1, w terminie, o którym mowa w ust. 1 lub 2, dotychczasowa publiczna sześcioletnia szkoła podstawowa, o której mowa w art. 117 ust. 1, staje się z dniem 1 września 2017 r. ośmioletnią szkołą podstawową obejmującą strukturą organizacyjną klasy I-VI i ulega likwidacji z dniem 31 sierpnia 2018 r., zgodnie z art. 89 ustawy – Prawo oświatowe. Likwidacja szkoły nie wymaga uzyskania zgody, o której mowa w art. 89 ust. 3 ustawy – Prawo oświatowe.
 
 4. W przypadku nieprzedłożenia dokumentów, o których mowa w ust. 1, w terminie, o którym mowa w ust. 1 lub 2, dotychczasowa publiczna sześcioletnia szkoła podstawowa obejmująca strukturą organizacyjną część klas publicznej sześcioletniej szkoły podstawowej staje się szkołą, o której mowa w art. 117 ust. 2, i ulega likwidacji z dniem 31 sierpnia 2018 r., zgodnie z art. 89 ustawy – Prawo oświatowe. Likwidacja szkoły nie wymaga uzyskania zgody, o której mowa w art. 89 ust. 3 ustawy – Prawo oświatowe.
 
@@ -313,7 +1799,7 @@ source: "isap-pdf"
 2. Do wniosku, o którym mowa w ust. 1, dołącza się:
 
 - **1)** dokumenty, o których mowa w art. 120 ust. 1;
-- **2)** pozytywną opinię państwowego powiatowego inspektora sanitarnego o warunkach bezpieczeństwa i higieny w budynku, w którym będzie się mieścić szkoła publiczna, i najbliższym jego otoczeniu – w przypadku gdy zwiększenie liczby klas dotyczy klas I–III szkoły podstawowej.
+- **2)** pozytywną opinię państwowego powiatowego inspektora sanitarnego o warunkach bezpieczeństwa i higieny w budynku, w którym będzie się mieścić szkoła publiczna, i najbliższym jego otoczeniu – w przypadku gdy zwiększenie liczby klas dotyczy klas I-III szkoły podstawowej.
 
 3. Organ jednostki samorządu terytorialnego, który wydał zezwolenie, o którym mowa w art. 58 ust. 3 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, na założenie dotychczasowej publicznej sześcioletniej szkoły podstawowej na wniosek osoby prawnej niebędącej jednostką samorządu terytorialnego lub osoby fizycznej prowadzącej dotychczasową publiczną sześcioletnią szkołę podstawową, o której mowa w art. 117 ust. 6 i 7, może postanowić o przedłużeniu terminu, o którym mowa w ust. 1, na złożenie opinii, o której mowa w ust. 2 pkt 2, nie dłużej jednak niż do dnia 14 lutego 2017 r.
 
@@ -328,7 +1814,7 @@ source: "isap-pdf"
 2. W przypadku, o którym mowa w ust. 1, organ wykonawczy jednostki samorządu terytorialnego może wskazać miejsce realizacji obowiązku szkolnego w innej publicznej szkole podstawowej prowadzonej przez:
 
 - **1)** tę jednostkę samorządu terytorialnego;
-- **2)** osobę prawną niebędącą jednostką samorządu terytorialnego lub osobę fizyczną, jeżeli zawarł z tą osobą porozumienie.
+- **2)** osobę prawną niebędącą jednostką samorządu terytorialnego lub osobę fizyczną, jeżeli zawarła z tą osobą porozumienie.
 
 **Art. 123.**
 
@@ -337,7 +1823,7 @@ source: "isap-pdf"
 2. W przypadku, o którym mowa w art. 121 ust. 1, organ jednostki samorządu terytorialnego, który wydał zezwolenie, o którym mowa w art. 58 ust. 3 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, na założenie:
 
 - **1)** dotychczasowej publicznej sześcioletniej szkoły podstawowej – w przypadku, o którym mowa w art. 117 ust. 6,
-- **2)** dotychczasowej publicznej sześcioletniej szkoły podstawowej, której jest podporządkowana organizacyjnie szkoła filialna – w przypadku, o którym mowa w art. 117 ust. 7 – w terminie do dnia 10 sierpnia 2017 r., dokonuje zmiany tego zezwolenia, na podstawie dokumentów, o których mowa w art. 121 ust. 2.
+- **2)** dotychczasowej publicznej sześcioletniej szkoły podstawowej, której jest podporządkowana organizacyjnie szkoła filialna – w przypadku, o którym mowa w art. 117 ust. 7 w terminie do dnia 10 sierpnia 2017 r., dokonuje zmiany tego zezwolenia, na podstawie dokumentów, o których mowa w art. 121 ust. 2.
 
 3. W przypadku, o którym mowa w art. 121 ust. 5, organ jednostki samorządu terytorialnego, który wydał zezwolenie, o którym mowa w art. 58 ust. 3 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, na założenie dotychczasowej publicznej sześcioletniej szkoły podstawowej, w terminie do dnia 25 sierpnia 2017 r., dokonuje zmiany tego zezwolenia, na podstawie dokumentów, o których mowa w art. 121 ust. 5.
 
@@ -351,15 +1837,15 @@ source: "isap-pdf"
 - **2)** statut niepublicznej ośmioletniej szkoły podstawowej, dostosowany do przepisów ustawy – Prawo oświatowe;
 - **3)** zobowiązanie do przestrzegania wymagań określonych w art. 14 ust. 3 ustawy – Prawo oświatowe;
 - **4)** informację o miejscu prowadzenia szkoły;
-- **5)** zobowiązanie do zapewnienia warunków lokalowych umożliwiających:
-    - **a)** prowadzenie zajęć dydaktyczno-wychowawczych,
-    - **b)** realizację innych zadań statutowych;
+- **5)** zobowiązanie do zapewnienia warunków lokalowych umożliwiających: prowadzenie zajęć dydaktyczno-wychowawczych, realizację innych zadań statutowych;
+    - **a)**
+    - **b)**
 
 - **6)** zobowiązanie do zapewnienia bezpiecznych i higienicznych warunków nauki, wychowania i opieki.
 
 2. Organ jednostki samorządu terytorialnego, o którym mowa w ust. 1, na wniosek osoby prawnej niebędącej jednostką samorządu terytorialnego lub osoby fizycznej prowadzącej dotychczasową niepubliczną sześcioletnią szkołę podstawową może postanowić o przedłużeniu terminu, o którym mowa w ust. 1, nie dłużej jednak niż do dnia 31 lipca 2017 r.
 
-3. W przypadku nieprzedłożenia dokumentów, o których mowa w ust. 1, w terminie, o którym mowa w ust. 1 lub 2, dotychczasowa niepubliczna sześcioletnia szkoła podstawowa staje się z dniem 1 września 2017 r. niepubliczną ośmioletnią szkołą podstawową obejmującą strukturą organizacyjną klasy I–VI i ulega likwidacji z dniem 31 sierpnia 2018 r. Wpis do ewidencji podlega wykreśleniu zgodnie z art. 169 ust. 2 ustawy – Prawo oświatowe.
+3. W przypadku nieprzedłożenia dokumentów, o których mowa w ust. 1, w terminie, o którym mowa w ust. 1 lub 2, dotychczasowa niepubliczna sześcioletnia szkoła podstawowa staje się z dniem 1 września 2017 r. niepubliczną ośmioletnią szkołą podstawową obejmującą strukturą organizacyjną klasy I-VI i ulega likwidacji z dniem 31 sierpnia 2018 r. Wpis do ewidencji podlega wykreśleniu zgodnie z art. 169 ust. 2 ustawy – Prawo oświatowe.
 
 4. Niepubliczne szkoły podstawowe zachowują uprawnienia szkół publicznych nabyte na podstawie przepisów art. 85 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym.
 
@@ -425,7 +1911,7 @@ source: "isap-pdf"
 
 6. Rozpoczęcie działalności przez szkołę utworzoną zgodnie z ust. 3 pkt 9 i 10, może nastąpić z dniem 1 września 2017 r., z dniem 1 września 2018 r. albo z dniem 1 września 2019 r.
 
-7. Dzień rozpoczęcia działalności przez szkołę, o którym mowa w ust. 2 i 4– 6, uznaje się za dzień odpowiednio przekształcenia, o którym mowa w ust. 1 pkt 1 i ust. 3 pkt 1, 2, 5, 6 i 9, albo włączenia, o którym mowa w ust. 1 pkt 2 i ust. 3 pkt 3, 4, 7, 8 i 10.
+7. Dzień rozpoczęcia działalności przez szkołę, o którym mowa w ust. 2 i 4–6, uznaje się za dzień odpowiednio przekształcenia, o którym mowa w ust. 1 pkt 1 i ust. 3 pkt 1, 2, 5, 6 i 9, albo włączenia, o którym mowa w ust. 1 pkt 2 i ust. 3 pkt 3, 4, 7, 8 i 10.
 
 8. W roku szkolnym odpowiednio 2017/2018 i 2018/2019 w szkole utworzonej zgodnie z ust. 1 i ust. 3 pkt 1–4, 9 i 10, prowadzi się klasy dotychczasowego gimnazjum, aż do czasu likwidacji tych klas zgodnie z art. 127.
 
@@ -439,7 +1925,7 @@ source: "isap-pdf"
 
 13. Dotychczasowe trzyletnie liceum ogólnokształcące albo dotychczasowe czteroletnie technikum, utworzone zgodnie z ust. 3 pkt 1–4, z dniem 1 września 2019 r. staje się odpowiednio czteroletnim liceum ogólnokształcącym albo pięcioletnim technikum. Przepisy art. 146 ust. 2–4, art. 147–150, art. 152 ust. 2–4, art. 153–160, art. 184 ust. 2–4 i art. 185–190 stosuje się.
 
-14. W przypadku publicznej szkoły tworzonej zgodnie z ust. 1 i ust. 3 pkt 1– 4 oraz pkt 9 i 10, która rozpoczyna działalność z dniem 1 września 2017 r., przepisów art. 59 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, nie stosuje się.
+14. W przypadku publicznej szkoły tworzonej zgodnie z ust. 1 i ust. 3 pkt 1–4 oraz pkt 9 i 10, która rozpoczyna działalność z dniem 1 września 2017 r., przepisów art. 59 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, nie stosuje się.
 
 15. W przypadku publicznej szkoły tworzonej zgodnie z ust. 1 i 3, która rozpoczyna działalność odpowiednio z dniem 1 września 2018 r. albo z dniem 1 września 2019 r., przepisów art. 89 ustawy – Prawo oświatowe nie stosuje się.
 
@@ -495,8 +1981,8 @@ source: "isap-pdf"
 
 1. W przypadku przekształcenia publicznego gimnazjum, o którym mowa w art. 129 ust. 1 pkt 1, organ jednostki samorządu terytorialnego, który wydał zezwolenie, o którym mowa w art. 58 ust. 3 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, na założenie dotychczasowego publicznego gimnazjum, w terminie odpowiednio do dnia 10 sierpnia 2017 r., do dnia 10 sierpnia 2018 r. albo do dnia 10 sierpnia 2019 r., dokonuje zmiany tego zezwolenia, na podstawie:
 
-- **1)** dokumentów, o których mowa w art. 131 ust. 4 pkt 1–4 – jeżeli dzień rozpoczęcia działalności przez publiczną ośmioletnią szkołę podstawową, określony zgodnie z art. 129 ust. 2 przypada w tym samym roku szkolnym, co rok szkolny, wskazany we wniosku, o którym mowa w ust. 1, w którym rozpoczyna się kształcenie w klasach I–III,
-- **2)** dokumentów, o których mowa w art. 131 ust. 4 pkt 1–3 – jeżeli dzień rozpoczęcia działalności przez publiczną ośmioletnią szkołę podstawową, określony zgodnie z art. 129 ust. 2 przypada w roku szkolnym innym niż rok szkolny, wskazany we wniosku, o którym mowa w ust. 1, w którym rozpoczyna się kształcenie w klasach I–III – oraz po uzyskaniu pozytywnej opinii kuratora oświaty w zakresie zapewnienia odpowiednich warunków nauki, opieki i wychowania, w tym warunków realizacji podstawy programowej. Zezwolenie zawiera postanowienia o prowadzeniu przez publiczną ośmioletnią szkołę podstawową klas dotychczasowego gimnazjum, aż do czasu likwidacji tych klas zgodnie z art. 127.
+- **1)** dokumentów, o których mowa w art. 131 ust. 4 pkt 1–4 – jeżeli dzień rozpoczęcia działalności przez publiczną ośmioletnią szkołę podstawową, określony zgodnie z art. 129 ust. 2 przypada w tym samym roku szkolnym, co rok szkolny, wskazany we wniosku, o którym mowa w ust. 1, w którym rozpoczyna się kształcenie w klasach I-III,
+- **2)** dokumentów, o których mowa w art. 131 ust. 4 pkt 1–3 – jeżeli dzień rozpoczęcia działalności przez publiczną ośmioletnią szkołę podstawową, określony zgodnie z art. 129 ust. 2 przypada w roku szkolnym innym niż rok szkolny, wskazany we wniosku, o którym mowa w ust. 1, w którym rozpoczyna się kształcenie w klasach I-III oraz po uzyskaniu pozytywnej opinii kuratora oświaty w zakresie zapewnienia odpowiednich warunków nauki, opieki i wychowania, w tym warunków realizacji podstawy programowej. Zezwolenie zawiera postanowienia o prowadzeniu przez publiczną ośmioletnią szkołę podstawową klas dotychczasowego gimnazjum, aż do czasu likwidacji tych klas zgodnie z art. 127.
 
 2. W przypadku włączenia publicznego gimnazjum do publicznej ośmioletniej szkoły podstawowej, o którym mowa w art. 129 ust. 1 pkt 2, organ jednostki samorządu terytorialnego, który wydał zezwolenie, o którym mowa w art. 58 ust. 3 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, na założenie dotychczasowej publicznej sześcioletniej szkoły podstawowej, w terminie do dnia odpowiednio 10 sierpnia 2017 r., do dnia 10 sierpnia 2018 r. albo do dnia 10 sierpnia 2019 r. dokonuje zmiany tego zezwolenia, na podstawie dokumentów, o których mowa w art. 131 ust. 4 pkt 1–3. Zezwolenie zawiera postanowienia o prowadzeniu przez publiczną ośmioletnią szkołę podstawową klas dotychczasowego gimnazjum, aż do czasu likwidacji tych klas zgodnie z art. 127.
 
@@ -504,8 +1990,8 @@ source: "isap-pdf"
 
 1. Organ jednostki samorządu terytorialnego, który wydał zezwolenie, o którym mowa w art. 58 ust. 3 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, na założenie dotychczasowego publicznego gimnazjum odmawia dokonania zmiany tego zezwolenia:
 
-- **1)** w przypadku nieprzedłożenia dokumentów, o których mowa w art. 131 ust. 4 pkt 1–4, lub braku pozytywnej opinii kuratora oświaty, o której mowa w art. 132 ust. 1 – w przypadku gdy dzień rozpoczęcia działalności przez publiczną ośmioletnią szkołę podstawową, o której mowa w art. 129 ust. 1 pkt 1, określony zgodnie z art. 129 ust. 2, przypada w tym samym roku szkolnym, co rok szkolny, w którym rozpoczyna się kształcenie w klasach I–III ośmioletniej szkoły podstawowej;
-- **2)** w przypadku nieprzedłożenia dokumentów, o których mowa w art. 131 ust. 4 pkt 1–3, lub braku pozytywnej opinii kuratora oświaty, o której mowa w art. 132 ust. 1 – w przypadku gdy dzień rozpoczęcia działalności przez publiczną ośmioletnią szkołę podstawową, o której mowa w art. 129 ust. 1 pkt 1, określony zgodnie z art. 129 ust. 2, przypada w roku szkolnym innym niż rok szkolny, w którym rozpoczyna się kształcenie w klasach I–III ośmioletniej szkoły podstawowej.
+- **1)** w przypadku nieprzedłożenia dokumentów, o których mowa w art. 131 ust. 4 pkt 1–4, lub braku pozytywnej opinii kuratora oświaty, o której mowa w art. 132 ust. 1 – w przypadku gdy dzień rozpoczęcia działalności przez publiczną ośmioletnią szkołę podstawową, o której mowa w art. 129 ust. 1 pkt 1, określony zgodnie z art. 129 ust. 2, przypada w tym samym roku szkolnym, co rok szkolny, w którym rozpoczyna się kształcenie w klasach I-III ośmioletniej szkoły podstawowej;
+- **2)** w przypadku nieprzedłożenia dokumentów, o których mowa w art. 131 ust. 4 pkt 1–3, lub braku pozytywnej opinii kuratora oświaty, o której mowa w art. 132 ust. 1 – w przypadku gdy dzień rozpoczęcia działalności przez publiczną ośmioletnią szkołę podstawową, o której mowa w art. 129 ust. 1 pkt 1, określony zgodnie z art. 129 ust. 2, przypada w roku szkolnym innym niż rok szkolny, w którym rozpoczyna się kształcenie w klasach I-III ośmioletniej szkoły podstawowej.
 
 2. W przypadku nieprzedłożenia pozytywnej opinii, o której mowa w art. 131 ust. 4 pkt 4, organ jednostki samorządu terytorialnego, który dokonał zmiany zezwolenia na założenie dotychczasowego publicznego gimnazjum zgodnie z art. 132 ust. 1 pkt 2, cofa zezwolenie na założenie publicznej ośmioletniej szkoły podstawowej.
 
@@ -542,9 +2028,9 @@ source: "isap-pdf"
 - **2)** statut niepublicznej ośmioletniej szkoły podstawowej, dostosowany do przepisów ustawy – Prawo oświatowe;
 - **3)** zobowiązanie do przestrzegania wymagań określonych w art. 14 ust. 3 ustawy – Prawo oświatowe;
 - **4)** informację o miejscu prowadzenia szkoły;
-- **5)** zobowiązanie do zapewnienia warunków lokalowych umożliwiających:
-    - **a)** prowadzenie zajęć dydaktyczno-wychowawczych,
-    - **b)** realizację innych zadań statutowych;
+- **5)** zobowiązanie do zapewnienia warunków lokalowych umożliwiających: prowadzenie zajęć dydaktyczno-wychowawczych, realizację innych zadań statutowych;
+    - **a)**
+    - **b)**
 
 - **6)** zobowiązanie do zapewnienia bezpiecznych i higienicznych warunków nauki, wychowania i opieki;
 - **7)** pozytywną opinię państwowego powiatowego inspektora sanitarnego o warunkach bezpieczeństwa i higieny w budynku, w którym będzie się mieścić szkoła niepubliczna, i najbliższym jego otoczeniu – w przypadku przekształcenia niepublicznego gimnazjum, o którym mowa w art. 129 ust. 1 pkt 1.
@@ -572,8 +2058,8 @@ source: "isap-pdf"
 
 1. W przypadku przekształcenia niepublicznego gimnazjum, o którym mowa w art. 129 ust. 1 pkt 1, organ jednostki samorządu terytorialnego, który dokonał wpisu niepublicznego gimnazjum do ewidencji szkół niepublicznych, o której mowa w art. 82 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, w terminie odpowiednio do dnia 10 sierpnia 2017 r., do dnia 10 sierpnia 2018 r. albo do dnia 10 sierpnia 2019 r., dokonuje zmiany tego wpisu, na podstawie:
 
-- **1)** dokumentów, o których mowa w art. 135 ust. 4 pkt 1–7 – jeżeli dzień rozpoczęcia działalności przez niepubliczną ośmioletnią szkołę podstawową, określony zgodnie z art. 129 ust. 2 przypada w tym samym roku szkolnym, co rok szkolny, wskazany we wniosku, o którym mowa w ust. 1, w którym rozpoczyna się kształcenie w klasach I–III,
-- **2)** dokumentów, o których mowa w art. 135 ust. 4 pkt 1–6 – jeżeli dzień rozpoczęcia działalności przez niepubliczną ośmioletnią szkołę podstawową, określony zgodnie z art. 129 ust. 2 przypada w roku szkolnym innym niż rok szkolny, wskazany we wniosku, o którym mowa w ust. 1, w którym rozpoczyna się kształcenie w klasach I–III – oraz po uzyskaniu pozytywnej opinii kuratora oświaty w zakresie zapewnienia odpowiednich warunków nauki, opieki i wychowania, w tym warunków realizacji podstawy programowej. Wpis do ewidencji uwzględnia prowadzenie przez niepubliczną ośmioletnią szkołę podstawową klas dotychczasowego gimnazjum, aż do czasu likwidacji tych klas zgodnie z art. 127.
+- **1)** dokumentów, o których mowa w art. 135 ust. 4 pkt 1–7 – jeżeli dzień rozpoczęcia działalności przez niepubliczną ośmioletnią szkołę podstawową, określony zgodnie z art. 129 ust. 2 przypada w tym samym roku szkolnym, co rok szkolny, wskazany we wniosku, o którym mowa w ust. 1, w którym rozpoczyna się kształcenie w klasach I-III,
+- **2)** dokumentów, o których mowa w art. 135 ust. 4 pkt 1–6 – jeżeli dzień rozpoczęcia działalności przez niepubliczną ośmioletnią szkołę podstawową, określony zgodnie z art. 129 ust. 2 przypada w roku szkolnym innym niż rok szkolny, wskazany we wniosku, o którym mowa w ust. 1, w którym rozpoczyna się kształcenie w klasach I-III oraz po uzyskaniu pozytywnej opinii kuratora oświaty w zakresie zapewnienia odpowiednich warunków nauki, opieki i wychowania, w tym warunków realizacji podstawy programowej. Wpis do ewidencji uwzględnia prowadzenie przez niepubliczną ośmioletnią szkołę podstawową klas dotychczasowego gimnazjum, aż do czasu likwidacji tych klas zgodnie z art. 127.
 
 2. W przypadku włączenia niepublicznego gimnazjum do niepublicznej ośmioletniej szkoły podstawowej, o którym mowa w art. 129 ust. 1 pkt 2, organ jednostki samorządu terytorialnego, który dokonał wpisu dotychczasowej niepublicznej sześcioletniej szkoły podstawowej do ewidencji szkół niepublicznych, o której mowa w art. 82 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, odpowiednio w terminie do dnia 10 sierpnia 2017 r., do dnia 10 sierpnia 2018 r. albo do dnia 10 sierpnia 2019 r., dokonuje zmiany tego wpisu, na podstawie dokumentów, o których mowa w art. 135 ust. 4 pkt 1–6. Wpis do ewidencji uwzględnia prowadzenie przez niepubliczną ośmioletnią szkołę podstawową klas dotychczasowego gimnazjum, aż do czasu likwidacji tych klas zgodnie z art. 127.
 
@@ -581,8 +2067,8 @@ source: "isap-pdf"
 
 1. Organ jednostki samorządu terytorialnego, który dokonał wpisu dotychczasowego niepublicznego gimnazjum do ewidencji szkół niepublicznych, o której mowa w art. 82 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, odmawia dokonania zmiany tego wpisu:
 
-- **1)** w przypadku nieprzedłożenia dokumentów, o których mowa w art. 135 ust. 4 pkt 1–7, lub braku pozytywnej opinii kuratora oświaty, o której mowa w art. 136 ust. 1 – w przypadku gdy dzień rozpoczęcia działalności przez niepubliczną ośmioletnią szkołę podstawową, o której mowa w art. 129 ust. 1 pkt 1, określony zgodnie z art. 129 ust. 2, przypada w tym samym roku szkolnym, co rok szkolny, w którym rozpoczyna się kształcenie w klasach I–III ośmioletniej szkoły podstawowej;
-- **2)** w przypadku nieprzedłożenia dokumentów, o których mowa w art. 135 ust. 4 pkt 1–6, lub braku pozytywnej opinii kuratora oświaty, o której mowa w art. 136 ust. 1 – w przypadku gdy dzień rozpoczęcia działalności przez niepubliczną ośmioletnią szkołę podstawową, o której mowa w art. 129 ust. 1 pkt 1, określony zgodnie z art. 129 ust. 2, przypada w roku szkolnym innym niż rok szkolny, w którym rozpoczyna się kształcenie w klasach I–III ośmioletniej szkoły podstawowej.
+- **1)** w przypadku nieprzedłożenia dokumentów, o których mowa w art. 135 ust. 4 pkt 1–7, lub braku pozytywnej opinii kuratora oświaty, o której mowa w art. 136 ust. 1 – w przypadku gdy dzień rozpoczęcia działalności przez niepubliczną ośmioletnią szkołę podstawową, o której mowa w art. 129 ust. 1 pkt 1, określony zgodnie z art. 129 ust. 2, przypada w tym samym roku szkolnym, co rok szkolny, w którym rozpoczyna się kształcenie w klasach I-III ośmioletniej szkoły podstawowej;
+- **2)** w przypadku nieprzedłożenia dokumentów, o których mowa w art. 135 ust. 4 pkt 1–6, lub braku pozytywnej opinii kuratora oświaty, o której mowa w art. 136 ust. 1 – w przypadku gdy dzień rozpoczęcia działalności przez niepubliczną ośmioletnią szkołę podstawową, o której mowa w art. 129 ust. 1 pkt 1, określony zgodnie z art. 129 ust. 2, przypada w roku szkolnym innym niż rok szkolny, w którym rozpoczyna się kształcenie w klasach I-III ośmioletniej szkoły podstawowej.
 
 2. W przypadku nieprzedłożenia pozytywnej opinii, o której mowa w art. 135 ust. 4 pkt 7, organ jednostki samorządu terytorialnego, który dokonał wpisu dotychczasowego niepublicznego gimnazjum do ewidencji szkół niepublicznych zgodnie art. 136 ust. 1 pkt 2, dokonuje wykreślenia wpisu niepublicznej ośmioletniej szkoły podstawowej.
 
@@ -595,17 +2081,17 @@ source: "isap-pdf"
 2. W przypadku gdy jednostka samorządu terytorialnego prowadząca dotychczasowe publiczne gimnazjum, dla której prowadzenie tego gimnazjum jest zadaniem własnym, i prowadząca na podstawie porozumienia, o którym mowa w:
 
 - **1)** art. 5 ust. 5b ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, odpowiednio liceum ogólnokształcące, technikum albo zasadniczą szkołę zawodową,
-- **2)** art. 8 ust. 17 ustawy – Prawo oświatowe, branżową szkołę I stopnia – dokonuje włączenia tego gimnazjum odpowiednio do tego liceum ogólnokształcącego, technikum albo branżowej szkoły I stopnia, o którym mowa w art. 129 ust. 3 pkt 3, 4, 7, 8 i 10, porozumienie to dostosowuje się w zakresie prowadzenia klas dotychczasowego gimnazjum.
+- **2)** art. 8 ust. 17 ustawy – Prawo oświatowe, branżową szkołę I stopnia dokonuje włączenia tego gimnazjum odpowiednio do tego liceum ogólnokształcącego, technikum albo branżowej szkoły I stopnia, o którym mowa w art. 129 ust. 3 pkt 3, 4, 7, 8 i 10, porozumienie to dostosowuje się w zakresie prowadzenia klas dotychczasowego gimnazjum.
 
 3. W przypadku gdy dotychczasowe publiczne gimnazjum jest prowadzone przez jednostkę samorządu terytorialnego, dla której prowadzenie tego gimnazjum nie jest zadaniem własnym:
 
 - **1)** przekształcenia tego gimnazjum odpowiednio w liceum ogólnokształcące, technikum albo branżową szkołę I stopnia, o którym mowa w art. 129 ust. 3 pkt 1, 2, 5, 6 i 9,
-- **2)** włączenia tego gimnazjum odpowiednio do liceum ogólnokształcącego, technikum albo branżowej szkoły I stopnia, o którym mowa w art. 129 ust. 3 pkt 3, 4, 7, 8 i 10 – dokonuje się po zmianie porozumienia zawartego na podstawie art. 5 ust. 5b ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, z jednostką samorządu terytorialnego, dla której prowadzenie tego gimnazjum jest zadaniem własnym, w zakresie prowadzenia klas dotychczasowego gimnazjum.
+- **2)** włączenia tego gimnazjum odpowiednio do liceum ogólnokształcącego, technikum albo branżowej szkoły I stopnia, o którym mowa w art. 129 ust. 3 pkt 3, 4, 7, 8 i 10 dokonuje się po zmianie porozumienia zawartego na podstawie art. 5 ust. 5b ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, z jednostką samorządu terytorialnego, dla której prowadzenie tego gimnazjum jest zadaniem własnym, w zakresie prowadzenia klas dotychczasowego gimnazjum.
 
 4. W przypadku gdy dotychczasowe publiczne gimnazjum jest prowadzone przez jednostkę samorządu terytorialnego, dla której prowadzenie tego gimnazjum nie jest zadaniem własnym:
 
 - **1)** przekształcenia tego gimnazjum w ośmioletnią szkołę podstawową, o którym mowa w art. 129 ust. 1 pkt 1,
-- **2)** włączenia tego gimnazjum do ośmioletniej szkoły podstawowej, o którym mowa w art. 129 ust. 1 pkt 2 – dokonuje się po zmianie porozumienia lub porozumień zawartych na podstawie art. 5 ust. 5b ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, lub art. 8 ust. 17 ustawy – Prawo oświatowe, z jednostką samorządu terytorialnego, dla której prowadzenie tego gimnazjum oraz prowadzenie ośmioletniej szkoły podstawowej jest zadaniem własnym.
+- **2)** włączenia tego gimnazjum do ośmioletniej szkoły podstawowej, o którym mowa w art. 129 ust. 1 pkt 2 dokonuje się po zmianie porozumienia lub porozumień zawartych na podstawie art. 5 ust. 5b ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, lub art. 8 ust. 17 ustawy – Prawo oświatowe, z jednostką samorządu terytorialnego, dla której prowadzenie tego gimnazjum oraz prowadzenie ośmioletniej szkoły podstawowej jest zadaniem własnym.
 
 5. Porozumienia, o których mowa w ust. 1–4, zawierają w szczególności:
 
@@ -650,7 +2136,7 @@ source: "isap-pdf"
 
 6. Opinie, o których mowa w ust. 4 pkt 4, dołącza się do wniosku, w przypadku gdy praktyczna nauka zawodu w publicznym technikum lub publicznej branżowej szkole I stopnia jest organizowana przez szkołę w jej warsztatach lub pracowniach szkolnych.
 
-7. W przypadku szkół, o których mowa w art. 129 ust. 3 pkt 2, 4, 9 i 10, które rozpoczynają działalność z dniem 1 września 2017 r., projekt statutu, o którym mowa w ust. 4 pkt 2, przedkłada się właściwemu organowi jednostki samorządu terytorialnego, o którym mowa w ust.1, w terminie do dnia 28 lutego 2017 r.
+7. W przypadku szkół, o których mowa w art. 129 ust. 3 pkt 2, 4, 9 i 10, które rozpoczynają działalność z dniem 1 września 2017 r., projekt statutu, o którym mowa w ust. 4 pkt 2, przedkłada się właściwemu organowi jednostki samorządu terytorialnego, o którym mowa w ust. 1, w terminie do dnia 28 lutego 2017 r.
 
 8. W przypadku przekształcenia publicznego gimnazjum, o którym mowa w art. 129 ust. 3 pkt 2, 6 i 9, organ jednostki samorządu terytorialnego, który wydał zezwolenie, o którym mowa w art. 58 ust. 3 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, na założenie dotychczasowego publicznego gimnazjum, na wniosek osoby prawnej niebędącej jednostką samorządu terytorialnego lub osoby fizycznej prowadzącej dotychczasowe gimnazjum, może wskazać inny termin na przedłożenie opinii, o których mowa w ust. 4 pkt 4 i 5, nie później jednak niż odpowiednio w terminie do dnia 30 czerwca 2017 r., do dnia 28 lutego 2018 r. albo do dnia 28 lutego 2019 r.
 
@@ -658,7 +2144,7 @@ source: "isap-pdf"
 
 - **1)** wniosek, o którym mowa w ust. 1, oraz dokumenty, o których mowa w ust. 4 pkt 1–3 – w przypadku przekształcenia publicznego gimnazjum, o którym mowa w art. 129 ust. 3 pkt 1 i 5,
 - **2)** wniosek, o którym mowa w ust. 1, oraz dokumenty, o których mowa w ust. 4 – w przypadku przekształcenia publicznego gimnazjum, o którym mowa w art. 129 ust. 3 pkt 2, 6 i 9,
-- **3)** kopie dokumentów stanowiących podstawę wydania zezwolenia, o którym mowa w art. 58 ust. 3 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, na założenie dotychczasowego gimnazjum, oraz kopię tego zezwolenia – w przypadku przekształcenia publicznego gimnazjum, o którym mowa w art. 129 ust. 3 pkt 1, 2, 5, 6 i 9 – do organu jednostki samorządu terytorialnego, dla której prowadzenie odpowiednio liceum ogólnokształcącego, technikum albo branżowej szkoły I stopnia jest zadaniem własnym i na terenie której będzie funkcjonować odpowiednio liceum ogólnokształcące, technikum albo branżowa szkoła I stopnia.
+- **3)** kopie dokumentów stanowiących podstawę wydania zezwolenia, o którym mowa w art. 58 ust. 3 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, na założenie dotychczasowego gimnazjum, oraz kopię tego zezwolenia – w przypadku przekształcenia publicznego gimnazjum, o którym mowa w art. 129 ust. 3 pkt 1, 2, 5, 6 i 9 do organu jednostki samorządu terytorialnego, dla której prowadzenie odpowiednio liceum ogólnokształcącego, technikum albo branżowej szkoły I stopnia jest zadaniem własnym i na terenie której będzie funkcjonować odpowiednio liceum ogólnokształcące, technikum albo branżowa szkoła I stopnia.
 
 10. Przepisów ust. 9 nie stosuje się do miast na prawach powiatu.
 
@@ -680,6 +2166,9 @@ source: "isap-pdf"
 3. W przypadku włączenia publicznego gimnazjum odpowiednio do publicznego liceum ogólnokształcącego, publicznego technikum albo publicznej branżowej szkoły I stopnia, o którym mowa w art. 129 ust. 3 pkt 3, 4, 7, 8 i 10, zezwolenie, o którym mowa w art. 58 ust. 3 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, na założenie dotychczasowego publicznego gimnazjum wygasa z dniem rozpoczęcia działalności odpowiednio przez publiczne liceum ogólnokształcące, publiczne technikum albo publiczną branżową szkołę I stopnia, określonym zgodnie z art. 129 ust. 4–6.
 
 **Art. 141.** W przypadku nieprzedłożenia odpowiednio dokumentów, o których mowa w art. 139 ust. 4, lub braku pozytywnej opinii kuratora oświaty, o której mowa w art. 140 ust. 1 pkt 2, organ jednostki samorządu terytorialnego, o którym mowa w art. 139 ust. 11, odmawia dokonania zmiany:
+
+- **1)** zezwolenia, o którym mowa w art. 58 ust. 3 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, na założenie dotychczasowego publicznego gimnazjum, dotychczasowego publicznego trzyletniego liceum ogólnokształcącego, dotychczasowego publicznego czteroletniego technikum albo dotychczasowej zasadniczej szkoły zawodowej;
+- **2)** zezwolenia, o którym mowa w art. 88 ust. 4 ustawy – Prawo oświatowe, na założenie publicznego liceum ogólnokształcącego, publicznego technikum albo publicznej branżowej szkoły I stopnia.
 
 **Art. 142.**
 
@@ -717,7 +2206,7 @@ source: "isap-pdf"
 
 - **1)** wniosek, o którym mowa w ust. 1, oraz dokumenty, o których mowa w ust. 4 pkt 1 i 2 – w przypadku przekształcenia niepublicznego gimnazjum, o którym mowa w art. 129 ust. 3 pkt 1 i 5,
 - **2)** wniosek, o którym mowa w ust. 1, oraz dokumenty, o których mowa w ust. 4 – w przypadku przekształcenia niepublicznego gimnazjum, o którym mowa w art. 129 ust. 3 pkt 2, 6 i 9,
-- **3)** kopie dokumentów stanowiących podstawę dokonania wpisu dotychczasowego niepublicznego gimnazjum do ewidencji szkół niepublicznych, o której mowa w art. 82 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, oraz kopię zaświadczenia o wpisie do tej ewidencji – w przypadku przekształcenia niepublicznego gimnazjum, o którym mowa w art. 129 ust. 3 pkt 1, 2, 5, 6 i 9 – do organu jednostki samorządu terytorialnego, dla której prowadzenie odpowiednio liceum ogólnokształcącego, technikum albo branżowej szkoły I stopnia jest zadaniem własnym i na terenie której będzie funkcjonować odpowiednio liceum ogólnokształcące, technikum albo branżowa szkoła I stopnia.
+- **3)** kopie dokumentów stanowiących podstawę dokonania wpisu dotychczasowego niepublicznego gimnazjum do ewidencji szkół niepublicznych, o której mowa w art. 82 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, oraz kopię zaświadczenia o wpisie do tej ewidencji – w przypadku przekształcenia niepublicznego gimnazjum, o którym mowa w art. 129 ust. 3 pkt 1, 2, 5, 6 i 9 do organu jednostki samorządu terytorialnego, dla której prowadzenie odpowiednio liceum ogólnokształcącego, technikum albo branżowej szkoły I stopnia jest zadaniem własnym i na terenie której będzie funkcjonować odpowiednio liceum ogólnokształcące, technikum albo branżowa szkoła I stopnia.
 
 9. Przepisów ust. 8 nie stosuje się do miast na prawach powiatu.
 
@@ -740,11 +2229,11 @@ source: "isap-pdf"
 
 **Art. 144.** W przypadku nieprzedłożenia odpowiednio dokumentów, o których mowa w art. 142 ust. 4, lub braku pozytywnej opinii kuratora oświaty, o której mowa w art. 143 ust. 1 pkt 2, organ jednostki samorządu terytorialnego, o którym mowa w art. 142 ust. 10, odmawia dokonania zmiany wpisu dotychczasowego niepublicznego gimnazjum, niepublicznego liceum ogólnokształcącego, niepublicznego technikum albo niepublicznej branżowej szkoły I stopnia do ewidencji szkół niepublicznych, o której mowa odpowiednio w art. 82 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, albo w art. 168 ustawy – Prawo oświatowe.
 
-**Art. 145.** Z dniem 1 września 2019 r. tworzy się czteroletnie liceum ogólnokształcące, o którym mowa w art. 18 ust. 1 pkt 2 lit. a ustawy – Prawo oświatowe.
+**Art. 145.** Zdniem 1 września 2019 r. tworzy się czteroletnie liceum ogólnokształcące, o którym mowa w art. 18 ust. 1 pkt 2 lit. a ustawy – Prawo oświatowe.
 
 **Art. 146.**
 
-1. Z dniem 1 września 2019 r. dotychczasowe trzyletnie liceum ogólnokształcące staje się czteroletnim liceum ogólnokształcącym, o którym mowa w art. 18 ust. 1 pkt 2 lit. a ustawy – Prawo oświatowe.
+1. Z dniem 1 września 2019 r. dotychczasowe trzyletnie liceum ogólnokształcące staje się czteroletnim liceum ogólnokształcącym, o którym mowa w art. 18 ust. 1 pkt 2 lit. a ustawy – Prawo oświatowe .
 
 2. Organ stanowiący jednostki samorządu terytorialnego prowadzącej dotychczasowe trzyletnie liceum ogólnokształcące, w terminie do dnia 30 listopada 2019 r., w drodze uchwały, stwierdza jego przekształcenie w czteroletnie liceum ogólnokształcące zgodnie z ust. 1.
 
@@ -764,9 +2253,7 @@ source: "isap-pdf"
 
 1. W latach szkolnych 2019/2020–2021/2022 w czteroletnim liceum ogólnokształcącym, o którym mowa w art. 146, prowadzi się klasy dotychczasowego trzyletniego liceum ogólnokształcącego dla absolwentów dotychczasowego gimnazjum, aż do czasu likwidacji tych klas zgodnie z art. 147.
 
-1a. W latach szkolnych 2019/2020–2021/2022 w nowo tworzonych czteroletnich liceach ogólnokształcących oraz czteroletnich liceach ogólnokształcących utworzonych zgodnie z art. 129 ust. 3 pkt 5 i 7, można prowadzić klasy dotychczasowego trzyletniego liceum ogólnokształcącego dla absolwentów dotychczasowego gimnazjum, aż do czasu likwidacji tych klas zgodnie z art. 147.
-
-2. Do klas, o których mowa w ust. 1 i 1a, stosuje się przepisy dotyczące dotychczasowego trzyletniego liceum ogólnokształcącego.
+2. Do klas, o których mowa w ust. 1, stosuje się przepisy dotyczące dotychczasowego trzyletniego liceum ogólnokształcącego.
 
 **Art. 149.**
 
@@ -782,11 +2269,11 @@ source: "isap-pdf"
 - **1)** dotychczasowego gimnazjum, którzy są przyjmowani do klas, o których mowa w art. 148;
 - **2)** ośmioletniej szkoły podstawowej.
 
-4. Do postępowania rekrutacyjnego do publicznego liceum ogólnokształcącego na lata szkolne 2017/2018–2019/2020, o którym mowa w ust. 1 i ust. 2 pkt 1, stosuje się odpowiednio przepisy art. 7b ust. 1c, art. 20a, art. 20b, art. 20c ust. 2 i 3, art. 20d, art. 20f, art. 20h ust. 1, 4, 5, ust. 6 pkt 2–5 i ust. 7, art. 20j, art. 20m, art. 20s pkt 1, art. 20t, art. 20v i art. 20z–20zf ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, oraz przepisy wydane na podstawie art. 367.
+4. Do postępowania rekrutacyjnego do publicznego liceum ogólnokształcącego na lata szkolne 2017/2018–2019/2020, o którym mowa w ust. 1 i ust. 2 pkt 1, stosuje się odpowiednio przepisy art. 7b ust. 1c, art. 20a, art. 20b, art. 20c ust. 2 i 3, art. 20d, art. 20f, art. 20h ust. 1, 4, 5, ust. 6 pkt 2–5 i ust. 7, art. 20j, art. 20m, art. 20s pkt 1, art. 20t, art. 20v i art. 20z-20zf ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, oraz przepisy wydane na podstawie art. 367.
 
 5. Do postępowania rekrutacyjnego do publicznego liceum ogólnokształcącego na lata szkolne 2018/2019 i 2019/2020, o którym mowa w ust. 1 i ust. 2 pkt 1, stosuje się także przepis art. 20wa ustawy zmienianej w art. 15, w brzmieniu dotychczasowym.
 
-6. Do postępowania rekrutacyjnego, o którym mowa w ust. 2 pkt 2, stosuje się przepisy ustawy – Prawo oświatowe.
+6. Do postępowania rekrutacyjnego, o którym mowa w ust. 2 pkt 2, stosuje się przepisy ustawy – Prawo oświatowe .
 
 7. Przepisy ust. 1–6 stosuje się odpowiednio do postępowania rekrutacyjnego na lata szkolne 2017/2018–2019/2020 do liceum ogólnokształcącego dwujęzycznego, liceum ogólnokształcącego z oddziałami dwujęzycznymi, liceum ogólnokształcącego z oddziałami międzynarodowymi, liceum ogólnokształcącego sportowego, liceum ogólnokształcącego mistrzostwa sportowego oraz liceum ogólnokształcącego z oddziałami sportowymi lub z oddziałami mistrzostwa sportowego.
 
@@ -810,7 +2297,7 @@ source: "isap-pdf"
 
 **Art. 152.**
 
-1. Z dniem 1 września 2019 r. dotychczasowe czteroletnie technikum staje się pięcioletnim technikum, o którym mowa w art. 18 ust. 1 pkt 2 lit. b ustawy – Prawo oświatowe.
+1. Z dniem 1 września 2019 r. dotychczasowe czteroletnie technikum staje się pięcioletnim technikum, o którym mowa w art. 18 ust. 1 pkt 2 lit. b ustawy – Prawo oświatowe .
 
 2. Organ stanowiący jednostki samorządu terytorialnego prowadzącej dotychczasowe czteroletnie technikum, w terminie do dnia 30 listopada 2019 r., w drodze uchwały, stwierdza jego przekształcenie w pięcioletnie technikum zgodnie z ust. 1.
 
@@ -830,9 +2317,7 @@ source: "isap-pdf"
 
 1. W latach szkolnych 2019/2020–2022/2023 w pięcioletnim technikum, o którym mowa w art. 152, prowadzi się klasy dotychczasowego czteroletniego technikum dla absolwentów dotychczasowego gimnazjum, aż do czasu likwidacji tych klas zgodnie z art. 153.
 
-1a. W latach szkolnych 2019/2020–2022/2023 w nowo tworzonych pięcioletnich technikach oraz pięcioletnich technikach utworzonych zgodnie z art. 129 ust. 3 pkt 6 i 8, można prowadzić klasy dotychczasowego czteroletniego technikum dla absolwentów dotychczasowego gimnazjum, aż do czasu likwidacji tych klas zgodnie z art. 153.
-
-2. Do klas, o których mowa w ust. 1 i 1a, stosuje się przepisy dotyczące dotychczasowego czteroletniego technikum.
+2. Do klas, o których mowa w ust. 1, stosuje się przepisy dotyczące dotychczasowego czteroletniego technikum.
 
 **Art. 155.**
 
@@ -848,11 +2333,11 @@ source: "isap-pdf"
 - **1)** dotychczasowego gimnazjum, którzy są przyjmowani do klas, o których mowa w art. 154;
 - **2)** ośmioletniej szkoły podstawowej.
 
-4. Do postępowania rekrutacyjnego do publicznego technikum na lata szkolne 2017/2018–2019/2020, o którym mowa w ust. 1 i ust. 2 pkt 1, stosuje się odpowiednio przepisy art. 7b ust. 1c, art. 20a, art. 20b, art. 20c ust. 2 i 3, art. 20d, art. 20f, art. 20h ust. 1, 4, 5, ust. 6 pkt 2–5 i ust. 7, art. 20j, art. 20m, art. 20s pkt 1, art. 20t, art. 20v i art. 20z–20zf ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, oraz przepisy wydane na podstawie art. 367, z tym że do postępowania rekrutacyjnego, o którym mowa w ust. 2 pkt 1, na rok szkolny 2019/2020, stosuje się odpowiednio warunek, o którym mowa w art. 134 ust. 1 pkt 3–5 ustawy – Prawo oświatowe, w brzmieniu nadanym ustawą z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245).
+4. Do postępowania rekrutacyjnego do publicznego technikum na lata szkolne 2017/2018–2019/2020, o którym mowa w ust. 1 i ust. 2 pkt 1, stosuje się odpowiednio przepisy art. 7b ust. 1c, art. 20a, art. 20b, art. 20c ust. 2 i 3, art. 20d, art. 20f, art. 20h ust. 1, 4, 5, ust. 6 pkt 2–5 i ust. 7, art. 20j, art. 20m, art. 20s pkt 1, art. 20t, art. 20v i art. 20z-20zf ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, oraz przepisy wydane na podstawie art. 367 .
 
 5. Do postępowania rekrutacyjnego do publicznego technikum na lata szkolne 2018/2019 i 2019/2020, o którym mowa w ust. 1 i ust. 2 pkt 1, stosuje się także przepis art. 20wa ustawy zmienianej w art. 15, w brzmieniu dotychczasowym.
 
-6. Do postępowania rekrutacyjnego, o którym mowa w ust. 2 pkt 2, stosuje się przepisy ustawy – Prawo oświatowe.
+6. Do postępowania rekrutacyjnego, o którym mowa w ust. 2 pkt 2, stosuje się przepisy ustawy – Prawo oświatowe .
 
 7. Przepisy ust. 1–6 stosuje się do postępowania rekrutacyjnego na lata szkolne 2017/2018–2019/2020 do technikum dwujęzycznego, technikum z oddziałami dwujęzycznymi, technikum z oddziałami międzynarodowymi, technikum sportowego, technikum mistrzostwa sportowego oraz technikum z oddziałami sportowymi lub z oddziałami mistrzostwa sportowego.
 
@@ -910,7 +2395,7 @@ source: "isap-pdf"
 
 **Art. 160.** Organ jednostki samorządu terytorialnego, który dokonał wpisu odpowiednio niepublicznego liceum ogólnokształcącego lub niepublicznego technikum do ewidencji szkół niepublicznych, o której mowa odpowiednio w art. 82 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, albo w art. 168 ustawy – Prawo oświatowe, w terminie do dnia 10 sierpnia 2019 r., dokonuje zmiany tego wpisu na podstawie dokumentów, o których mowa w art. 159 ust. 1. Przepisu nie stosuje się w przypadku niepublicznego czteroletniego liceum lub niepublicznego pięcioletniego technikum, utworzonych zgodnie z art. 129 ust. 3 pkt 7 i 8, które rozpoczynają działalność z dniem 1 września 2019 r., jeżeli wskutek złożenia wniosku, o którym mowa w art. 142 ust. 1 pkt 2 i 3, dokonano zmiany wpisu do ewidencji szkół niepublicznych na podstawie art. 143 ust. 1 pkt 3.
 
-**Art. 161.** Z dniem 1 września 2017 r. tworzy się branżową szkołę I stopnia, o której mowa w art. 18 ust.1 pkt 2 lit. c ustawy – Prawo oświatowe.
+**Art. 161.** Z dniem 1 września 2017 r. tworzy się branżową szkołę I stopnia, o której mowa w art. 18 ust. 1 pkt 2 lit. c ustawy – Prawo oświatowe.
 
 **Art. 162.**
 
@@ -934,7 +2419,7 @@ source: "isap-pdf"
 
 1. W latach szkolnych 2017/2018–2019/2020 w branżowej szkole I stopnia, o której mowa w art. 162, prowadzi się klasy dotychczasowej zasadniczej szkoły zawodowej aż do czasu likwidacji tych klas zgodnie z art. 163.
 
-2. Do klas, o których mowa w ust. 1, stosuje się przepisy dotyczące dotychczasowych zasadniczych szkół zawodowych.
+2. Do klas, o których mowa w ust. 1, stosuje się dotychczasowe przepisy dotyczące zasadniczych szkół zawodowych.
 
 3. Uczniowie klas, o których mowa w ust. 1, otrzymują świadectwa, ustalone dla dotychczasowych zasadniczych szkół zawodowych, opatrzone pieczęcią zasadniczej szkoły zawodowej.
 
@@ -947,15 +2432,13 @@ source: "isap-pdf"
 - **1)** dotychczasowego gimnazjum;
 - **2)** ośmioletniej szkoły podstawowej.
 
-3. Do postępowania rekrutacyjnego do publicznej branżowej szkoły I stopnia na lata szkolne 2017/2018–2019/2020, o którym mowa w ust. 1 i ust. 2 pkt 1, stosuje się odpowiednio przepisy art. 7b ust. 1c, art. 20a, art. 20b, art. 20c ust. 2 i 3, art. 20d, art. 20f, art. 20h ust. 1, 4, 5, ust. 6 pkt 2–5 i ust. 7, art. 20j, art. 20m, art. 20s pkt 1, art. 20t, art. 20v i art. 20z–20zf ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, w zakresie dotyczącym postępowania rekrutacyjnego do szkół ponadgimnazjalnych oraz przepisy wydane na podstawie art. 367, z tym że do postępowania rekrutacyjnego, o którym mowa w ust. 2 pkt 1, na rok szkolny 2019/2020, stosuje się odpowiednio warunek, o którym mowa w art. 134 ust. 1 pkt 3–5 ustawy – Prawo oświatowe, w brzmieniu nadanym ustawą z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw.
+3. Do postępowania rekrutacyjnego do publicznej branżowej szkoły I stopnia na lata szkolne 2017/2018–2019/2020, o którym mowa w ust. 1 i ust. 2 pkt 1, stosuje się odpowiednio przepisy art. 7b ust. 1c, art. 20a, art. 20b, art. 20c ust. 2 i 3, art. 20d, art. 20f, art. 20h ust. 1, 4, 5, ust. 6 pkt 2–5 i ust. 7, art. 20j, art. 20m, art. 20s pkt 1, art. 20t, art. 20v i art. 20z-20zf ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, w zakresie dotyczącym postępowania rekrutacyjnego do szkół ponadgimnazjalnych oraz przepisy wydane na podstawie art. 367 .
 
 4. Do postępowania rekrutacyjnego do publicznej branżowej szkoły I stopnia na lata szkolne 2018/2019 i 2019/2020, o którym mowa w ust. 1 i ust. 2 pkt 1, stosuje się także odpowiednio przepisy art. 20wa ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, w zakresie dotyczącym postępowania rekrutacyjnego do szkół ponadgimnazjalnych.
 
-5. Do postępowania rekrutacyjnego, o którym mowa w ust. 2 pkt 2, stosuje się przepisy ustawy – Prawo oświatowe.
+5. Do postępowania rekrutacyjnego, o którym mowa w ust. 2 pkt 2, stosuje się przepisy ustawy – Prawo oświatowe .
 
 6. Przepisy ust. 1–5 stosuje się odpowiednio do postępowania rekrutacyjnego na lata szkolne 2017/2018–2019/2020 do branżowej szkoły I stopnia sportowej, branżowej szkoły I stopnia mistrzostwa sportowego, branżowej szkoły I stopnia z oddziałami sportowymi lub z oddziałami mistrzostwa sportowego oraz branżowej szkoły I stopnia z oddziałami międzynarodowymi.
-
-**Art. 165a.** Na rok szkolny 2019/2020 do klasy I publicznej branżowej szkoły I stopnia dla kandydatów będących absolwentami dotychczasowego gimnazjum młodocianych pracowników przyjmuje się na podstawie świadectwa ukończenia gimnazjum i umowy o pracę w celu przygotowania zawodowego odbywanego w formie nauki zawodu.
 
 **Art. 166.**
 
@@ -1043,7 +2526,7 @@ source: "isap-pdf"
 
 4. Uchwała, o której mowa w ust. 3, stanowi akt założycielski szkoły policealnej w rozumieniu przepisów ustawy – Prawo oświatowe.
 
-**Art. 175.** Z dniem 1 września 2017 r. tworzy się szkołę podstawową, o której mowa w art. 18 ust. 1 pkt 1 ustawy – Prawo oświatowe, dla dorosłych.
+**Art. 175.** Zdniem 1 września 2017 r. tworzy się szkołę podstawową, o której mowa w art. 18 ust. 1 pkt 1 ustawy – Prawo oświatowe, dla dorosłych.
 
 **Art. 176.**
 
@@ -1070,7 +2553,7 @@ source: "isap-pdf"
 6. Słuchacz klasy VI szkoły podstawowej dla dorosłych, który:
 
 - **1)** rozpoczął naukę w semestrze pierwszym w tej szkole od lutego 2017 r. i który w roku szkolnym 2016/2017 nie ukończył tego semestru,
-- **2)** rozpoczął naukę w semestrze drugim w tej szkole od września 2017 r. i który w roku szkolnym 2017/2018 nie ukończył tego semestru – zostaje skreślony z listy słuchaczy.
+- **2)** rozpoczął naukę w semestrze drugim w tej szkole od września 2017 r. i który w roku szkolnym 2017/2018 nie ukończył tego semestru zostaje skreślony z listy słuchaczy.
 
 7. Słuchacz, o którym mowa w ust. 6, może przystąpić do postępowania rekrutacyjnego.
 
@@ -1186,11 +2669,11 @@ source: "isap-pdf"
 - **1)** dotychczasowego gimnazjum, którzy są przyjmowani do klas, o których mowa w art. 186;
 - **2)** ośmioletniej szkoły podstawowej.
 
-4. Do postępowania rekrutacyjnego do publicznego liceum ogólnokształcącego dla dorosłych na lata szkolne 2017/2018–2019/2020, o którym mowa w ust. 1 i ust. 2 pkt 1, stosuje się odpowiednio przepisy art. 20a, art. 20b, art. 20c ust. 2 i 3, art. 20d, art. 20g ust. 2 pkt 2 i ust. 3, art. 20k ust. 1 pkt 3, ust. 2– 4 i 6, art. 20s pkt 1, art. 20t, art. 20v i art. 20z–20zf ustawy zmienianej w art. 15, w brzmieniu dotychczasowym oraz przepisy wydane na podstawie art. 367.
+4. Do postępowania rekrutacyjnego do publicznego liceum ogólnokształcącego dla dorosłych na lata szkolne 2017/2018–2019/2020, o którym mowa w ust. 1 i ust. 2 pkt 1, stosuje się odpowiednio przepisy art. 20a, art. 20b, art. 20c ust. 2 i 3, art. 20d, art. 20g ust. 2 pkt 2 i ust. 3, art. 20k ust. 1 pkt 3, ust. 2–4 i 6, art. 20s pkt 1, art. 20t, art. 20v i art. 20z-20zf ustawy zmienianej w art. 15, w brzmieniu dotychczasowym oraz przepisy wydane na podstawie art. 367.
 
 5. Do postępowania rekrutacyjnego do publicznego liceum ogólnokształcącego dla dorosłych na lata szkolne 2018/2019 i 2019/2020, o którym mowa w ust. 1 i ust. 2 pkt 1, stosuje się także odpowiednio przepisy art. 20wa ustawy zmienianej w art. 15, w brzmieniu dotychczasowym.
 
-6. Do postępowania rekrutacyjnego, o którym mowa w ust. 2 pkt 2, stosuje się przepisy ustawy – Prawo oświatowe.
+6. Do postępowania rekrutacyjnego, o którym mowa w ust. 2 pkt 2, stosuje się przepisy ustawy – Prawo oświatowe .
 
 **Art. 188.**
 
@@ -1292,7 +2775,7 @@ source: "isap-pdf"
 
 **Art. 195.**
 
-1. Do dnia 31 sierpnia 2019 r. do dotychczasowego gimnazjum wchodzącego w skład dotychczasowego zespołu publicznych szkół, o którym mowa w art. 193 ust. 1 i 2, stosuje się odpowiednio przepisy art. 129–134, art. 138– 141 i art. 180–182, z tym że w wyniku przekształcenia lub włączenia gimnazjum, o którym mowa w art. 129 i art. 182, nie mogą powstać zespoły publicznych szkół, w skład których wchodzą szkoły tego samego typu.
+1. Do dnia 31 sierpnia 2019 r. do dotychczasowego gimnazjum wchodzącego w skład dotychczasowego zespołu publicznych szkół, o którym mowa w art. 193 ust. 1 i 2, stosuje się odpowiednio przepisy art. 129–134, art. 138–141 i art. 180–182, z tym że w wyniku przekształcenia lub włączenia gimnazjum, o którym mowa w art. 129 i art. 182, nie mogą powstać zespoły publicznych szkół, w skład których wchodzą szkoły tego samego typu.
 
 2. W przypadku, o którym mowa w ust. 1, nie jest wymagane rozwiązanie zespołu lub wyłączenie z zespołu publicznych szkół, o którym mowa w art. 193 ust. 1 i 2, dotychczasowego gimnazjum w celu jego przekształcenia lub włączenia, o którym mowa w art. 129 i art. 182.
 
@@ -1326,7 +2809,7 @@ source: "isap-pdf"
 
 2. W przypadku, o którym mowa w ust. 1, nie jest wymagane rozwiązanie zespołu lub wyłączenie z zespołu szkół dotychczasowego gimnazjum w celu jego przekształcenia lub włączenia, o którym mowa w art. 129, art. 182, art. 200 i art. 201.
 
-**Art. 199.** Dotychczasowe szkoły podstawowe, gimnazja i szkoły ponadgimnazjalne prowadzone przez ministrów, o których mowa w art. 5 ust. 3a– 3g ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, oraz zespoły tych szkół podlegają zmianom organizacyjnym zgodnie z przepisami niniejszej ustawy dotyczącymi danego typu szkoły, z tym że kompetencje organu jednostki samorządu terytorialnego wykonuje właściwy minister, o którym mowa odpowiednio w art. 5 ust. 3a–3g ustawy zmienianej w art. 15, w brzmieniu dotychczasowym.
+**Art. 199.** Dotychczasowe szkoły podstawowe, gimnazja i szkoły ponadgimnazjalne prowadzone przez ministrów, o których mowa w art. 5 ust. 3a-3g ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, oraz zespoły tych szkół podlegają zmianom organizacyjnym zgodnie z przepisami niniejszej ustawy dotyczącymi danego typu szkoły, z tym że kompetencje organu jednostki samorządu terytorialnego wykonuje właściwy minister, o którym mowa odpowiednio w art. 5 ust. 3a-3g ustawy zmienianej w art. 15, w brzmieniu dotychczasowym.
 
 **Art. 200.**
 
@@ -1354,7 +2837,7 @@ source: "isap-pdf"
 - **5)** przekształcić odpowiednio w technikum albo technikum z oddziałami międzynarodowymi,
 - **6)** włączyć odpowiednio do technikum albo technikum z oddziałami międzynarodowymi,
 - **7)** przekształcić odpowiednio w branżową szkołę I stopnia albo branżową szkołę I stopnia z oddziałami międzynarodowymi,
-- **8)** włączyć odpowiednio do branżowej szkoły I stopnia albo branżowej szkoły I stopnia z oddziałami międzynarodowymi – z zastrzeżeniem art. 265.
+- **8)** włączyć odpowiednio do branżowej szkoły I stopnia albo branżowej szkoły I stopnia z oddziałami międzynarodowymi z zastrzeżeniem art. 265.
 
 3. Dotychczasowe gimnazjum sportowe, gimnazjum mistrzostwa sportowego lub gimnazjum ogólnodostępne z oddziałami sportowymi można:
 
@@ -1396,18 +2879,18 @@ source: "isap-pdf"
 3. W postępowaniu rekrutacyjnym i postępowaniu uzupełniającym, o którym mowa w ust. 1, odpowiednio na:
 
 - **1)** lata szkolne 2017/2018–2019/2020 do klasy I publicznej ośmioletniej szkoły podstawowej,
-- **2)** rok szkolny 2019/2020 do klasy I publicznego czteroletniego liceum ogólnokształcącego, publicznego pięcioletniego technikum albo publicznej branżowej szkoły I stopnia – czynności dyrektora w zakresie przeprowadzania tego postępowania, o których mowa odpowiednio w art. 130 ust. 2 i 3, art. 154 ust. 2, 4, 6 i 9, art. 155, art. 157 ust. 1, art. 158 ust. 9, art. 160 i art. 161 ustawy – Prawo oświatowe, wykonuje dyrektor, o którym mowa w ust. 1.
+- **2)** rok szkolny 2019/2020 do klasy I publicznego czteroletniego liceum ogólnokształcącego, publicznego pięcioletniego technikum albo publicznej branżowej szkoły I stopnia czynności dyrektora w zakresie przeprowadzania tego postępowania, o których mowa odpowiednio w art. 130 ust. 2 i 3, art. 154 ust. 2, 4, 6 i 9, art. 155, art. 157 ust. 1, art. 158 ust. 9, art. 160 i art. 161 ustawy – Prawo oświatowe, wykonuje dyrektor, o którym mowa w ust. 1.
 
 **Art. 204.**
 
 1. Terminy przeprowadzania postępowania rekrutacyjnego i postępowania uzupełniającego, w tym terminy składania dokumentów, na rok szkolny 2017/2018 do:
 
-- **1)** publicznych przedszkoli, oddziałów przedszkolnych w publicznych szkołach podstawowych, publicznych innych form wychowania przedszkolnego, klas I publicznych szkół podstawowych, a także klas wyższych niż klasa I publicznych szkół i oddziałów, o których mowa w art. 137 ust. 1 ustawy – Prawo oświatowe, oraz oddziałów dwujęzycznych, o których mowa w art. 139 ust. 1 ustawy – Prawo oświatowe – określa do dnia 15 kwietnia 2017 r. organ prowadzący odpowiednio publiczne przedszkole, publiczną inną formę wychowania przedszkolnego lub publiczną szkołę podstawową;
+- **1)** publicznych przedszkoli, oddziałów przedszkolnych w publicznych szkołach podstawowych, publicznych innych form wychowania przedszkolnego i klas I publicznych szkół podstawowych – określa do dnia 15 kwietnia 2017 r. organ prowadzący odpowiednio publiczne przedszkole, publiczną inną formę wychowania przedszkolnego lub publiczną szkołę podstawową;
 - **2)** publicznych szkół podstawowych dla dorosłych, klas I publicznych szkół ponadgimnazjalnych, klasy I publicznej szkoły ponadpodstawowej, o której mowa w art. 18 ust. 1 pkt 2 lit. c ustawy – Prawo oświatowe, i na semestr pierwszy klas I publicznych szkół policealnych – określa do dnia 15 kwietnia 2017 r. właściwy kurator oświaty.
 
 2. Na rok szkolny 2017/2018 organ prowadzący publiczne przedszkole, publiczną inną formę wychowania przedszkolnego lub publiczną szkołę podstawową do dnia 15 kwietnia 2017 r. podaje do publicznej wiadomości kryteria brane pod uwagę w postępowaniu rekrutacyjnym i postępowaniu uzupełniającym oraz dokumenty niezbędne do potwierdzenia spełnienia tych kryteriów, a także liczbę punktów możliwą do uzyskania za poszczególne kryteria, zgodnie z art. 131 ust. 4–6 i art. 133 ust. 3 i 4 ustawy – Prawo oświatowe.
 
-3. Przepis art. 154 ust. 4 ustawy – Prawo oświatowe stosuje się do postępowania rekrutacyjnego na rok szkolny 2017/2018 do klasy I ośmioletniej szkoły podstawowej, a także klas wyższych niż klasa I publicznych szkół i oddziałów, o których mowa w art. 137 ust. 1 ustawy – Prawo oświatowe, oraz oddziałów dwujęzycznych, o których mowa w art. 139 ust. 1 ustawy – Prawo oświatowe, z tym że terminy, które miały być podane do końca lutego, podaje się do publicznej wiadomości do końca kwietnia. Przepisy art. 154 ust. 5–9 ustawy – Prawo oświatowe stosuje się odpowiednio.
+3. Przepis art. 154 ust. 4 ustawy – Prawo oświatowe stosuje się do postępowania rekrutacyjnego na rok szkolny 2017/2018 do klasy I ośmioletniej szkoły podstawowej, z tym że terminy, które miały być podane do końca lutego, podaje się do publicznej wiadomości do końca kwietnia. Przepisy art. 154 ust. 5–9 ustawy – Prawo oświatowe stosuje się odpowiednio.
 
 4. Przepisy art. 20wa ust. 2 i 4 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, stosuje się do postępowania rekrutacyjnego na rok szkolny 2017/2018 do klasy I publicznej szkoły ponadgimnazjalnej i klasy I publicznej szkoły ponadpodstawowej, o której mowa w art. 18 ust. 1 pkt 2 lit. c ustawy – Prawo oświatowe i na semestr pierwszy klas I publicznych szkół policealnych, z tym że terminy, które miały być podane do końca lutego, podaje się do publicznej wiadomości do końca kwietnia.
 
@@ -1433,7 +2916,7 @@ source: "isap-pdf"
 
 9. W przypadkach, o których mowa w ust. 2 i 5, organ prowadzący może postanowić o stosowaniu przepisów art. 39 ust. 2 i 3 ustawy – Prawo oświatowe.
 
-10. Jeżeli w danej szkole podstawowej w latach szkolnych 2017/2018– 2023/2024 nie zorganizowano oddziału danej klasy, a w przypadku szkół podstawowych powstałych z przekształcenia gimnazjum – w latach szkolnych 2017/2018–2025/2026, uczniowi tej klasy zamieszkałemu w obwodzie tej szkoły organ wykonawczy jednostki samorządu terytorialnego może wskazać miejsce realizacji obowiązku szkolnego w innej publicznej szkole podstawowej prowadzonej przez:
+10. Jeżeli w danej szkole podstawowej w latach szkolnych 2017/2018–2023/2024 nie zorganizowano oddziału danej klasy, a w przypadku szkół podstawowych powstałych z przekształcenia gimnazjum – w latach szkolnych 2017/2018–2025/2026, uczniowi tej klasy zamieszkałemu w obwodzie tej szkoły organ wykonawczy jednostki samorządu terytorialnego może wskazać miejsce realizacji obowiązku szkolnego w innej publicznej szkole podstawowej prowadzonej przez:
 
 - **1)** tę jednostkę samorządu terytorialnego;
 - **2)** osobę prawną niebędącą jednostką samorządu terytorialnego lub osobę fizyczną, jeżeli zawarł z tą osobą porozumienie. W tym przypadku przepisu art. 130 ustawy – Prawo oświatowe nie stosuje się.
@@ -1448,14 +2931,14 @@ source: "isap-pdf"
 
 - **1)** plan sieci publicznych szkół podstawowych prowadzonych przez gminę, a także granice obwodów publicznych szkół podstawowych, z wyjątkiem specjalnych, mających siedzibę na obszarze gminy, z zastrzeżeniem art. 88 ust. 2 ustawy – Prawo oświatowe, prowadzonych przez gminę, a także przez inne organy, na okres od dnia 1 września 2017 r. do dnia 31 sierpnia 2019 r.;
 - **2)** plan sieci prowadzonych przez gminę publicznych gimnazjów i klas dotychczasowych publicznych gimnazjów prowadzonych w szkołach podstawowych, liceach ogólnokształcących, technikach i branżowych szkołach I stopnia, oraz granice obwodów dotychczasowych publicznych gimnazjów i klas dotychczasowych gimnazjów, z wyjątkiem specjalnych, mających siedzibę na obszarze gminy, z zastrzeżeniem art. 88 ust. 2 ustawy – Prawo oświatowe, prowadzonych przez gminę, a także przez inne organy, na okres od dnia 1 września 2017 r. do dnia 31 sierpnia 2019 r.;
-- **3)** warunki przekształcenia dotychczasowych gimnazjów w ośmioletnie szkoły podstawowe, prowadzonych przez gminę, w tym:
-    - **a)** dzień rozpoczęcia działalności przez ośmioletnią szkołę podstawową, określony zgodnie z art. 129 ust. 2,
-    - **b)** rok szkolny, w którym rozpoczyna się kształcenie w klasie I ośmioletniej szkoły podstawowej;
+- **3)** warunki przekształcenia dotychczasowych gimnazjów w ośmioletnie szkoły podstawowe, prowadzonych przez gminę, w tym: dzień rozpoczęcia działalności przez ośmioletnią szkołę podstawową, określony zgodnie z art. 129 ust. 2, rok szkolny, w którym rozpoczyna się kształcenie w klasie I ośmioletniej szkoły podstawowej;
+    - **a)**
+    - **b)**
 
-- **4)** warunki włączenia dotychczasowych gimnazjów do publicznych ośmioletnich szkół podstawowych, publicznych liceów ogólnokształcących, publicznych techników lub publicznych branżowych szkół I stopnia, prowadzonych przez gminę, w tym:
-    - **a)** dzień rozpoczęcia działalności przez ośmioletnią szkołę podstawową, liceum ogólnokształcące, technikum lub branżową szkołę I stopnia, określony zgodnie z art. 129 ust. 2, 4 i 6,
-    - **b)** rok szkolny, w którym rozpoczyna się kształcenie w klasie I ośmioletniej szkoły podstawowej,
-    - **c)** dzień zakończenia działalności gimnazjum, określony zgodnie z art. 129 ust. 16;
+- **4)** warunki włączenia dotychczasowych gimnazjów do publicznych ośmioletnich szkół podstawowych, publicznych liceów ogólnokształcących, publicznych techników lub publicznych branżowych szkół I stopnia, prowadzonych przez gminę, w tym: dzień rozpoczęcia działalności przez ośmioletnią szkołę podstawową, liceum ogólnokształcące, technikum lub branżową szkołę I stopnia, określony zgodnie z art. 129 ust. 2, 4 i 6, rok szkolny, w którym rozpoczyna się kształcenie w klasie I ośmioletniej szkoły podstawowej, dzień zakończenia działalności gimnazjum, określony zgodnie z art. 129 ust. 16;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **5)** warunki przekształcenia dotychczasowych publicznych gimnazjów odpowiednio w publiczne licea ogólnokształcące, publiczne technika lub publiczne branżowe szkoły I stopnia, prowadzone przez gminę, w tym dzień rozpoczęcia działalności przez liceum ogólnokształcące, technikum lub branżową szkołę I stopnia, określony zgodnie z art. 129 ust. 4 i 6;
 - **6)** projekt planu sieci publicznych ośmioletnich szkół podstawowych prowadzonych przez gminę, a także granice obwodów publicznych ośmioletnich szkół podstawowych, z wyjątkiem specjalnych, mających siedzibę na obszarze gminy, z zastrzeżeniem art. 88 ust. 2 ustawy – Prawo oświatowe oraz planu sieci publicznych gimnazjów dla dorosłych i klas dotychczasowych publicznych gimnazjów dla dorosłych prowadzonych w szkołach podstawowych dla dorosłych i publicznych liceach ogólnokształcących dla dorosłych, prowadzonych przez gminę, a także przez inne organy, od dnia 1 września 2019 r.
@@ -1504,7 +2987,7 @@ source: "isap-pdf"
 - **1)** typ, nazwę i siedzibę szkoły;
 - **2)** dzień rozpoczęcia działalności przez te szkoły, określony zgodnie z art. 129 ust. 2, 4 i 6;
 - **3)** rok szkolny, w którym rozpoczyna się kształcenie w klasie I – w przypadku szkół podstawowych powstałych w wyniku przekształcenia gimnazjów;
-- **4)** wskazanie klas, które będzie obejmowała struktura szkoły podstawowej – w przypadku szkół, o których mowa odpowiednio w art. 117 ust. 6 i 7 oraz art. 200 ust.1.
+- **4)** wskazanie klas, które będzie obejmowała struktura szkoły podstawowej – w przypadku szkół, o których mowa odpowiednio w art. 117 ust. 6 i 7 oraz art. 200 ust. 1.
 
 5. Do ustalania planu sieci publicznych ośmioletnich szkół podstawowych prowadzonych przez gminę, a także określania granic obwodów publicznych szkół podstawowych, z wyjątkiem specjalnych, mających siedzibę na obszarze gminy, z zastrzeżeniem art. 88 ust. 2 ustawy – Prawo oświatowe, prowadzonych przez gminę i inne organy, na okres od dnia 1 września 2019 r. stosuje się przepisy art. 39 ustawy – Prawo oświatowe.
 
@@ -1532,14 +3015,14 @@ source: "isap-pdf"
 
 - **1)** plan sieci publicznych szkół ponadgimnazjalnych i szkół specjalnych, prowadzonych przez powiat, z uwzględnieniem szkół ponadgimnazjalnych i specjalnych mających siedzibę na obszarze powiatu prowadzonych przez inne organy, tak aby umożliwić dzieciom i młodzieży zamieszkującym na obszarze powiatu lub przebywającym w podmiotach i jednostkach, o których mowa w art. 4 pkt 2 lit. b ustawy – Prawo oświatowe, realizację odpowiednio obowiązku szkolnego lub obowiązku nauki, na okres od dnia 1 września 2017 r. do dnia 31 sierpnia 2019 r., z uwzględnieniem klas dotychczasowych gimnazjów specjalnych prowadzonych w szkołach innego typu;
 - **2)** plan sieci publicznych szkół ponadpodstawowych i szkół specjalnych, prowadzonych przez powiat, z uwzględnieniem szkół ponadpodstawowych i specjalnych mających siedzibę na obszarze powiatu prowadzonych przez inne organy, tak aby umożliwić dzieciom i młodzieży zamieszkującym na obszarze powiatu lub przebywającym w podmiotach i jednostkach, o których mowa w art. 4 pkt 2 lit. b ustawy – Prawo oświatowe, realizację odpowiednio obowiązku szkolnego lub obowiązku nauki, na okres od dnia 1 września 2017 r. do dnia 31 sierpnia 2019 r., z uwzględnieniem klas dotychczasowych zasadniczych szkół zawodowych, o których mowa w art. 164;
-- **3)** warunki przekształcenia dotychczasowych publicznych gimnazjów w odpowiednio publiczne ośmioletnie szkoły podstawowe, publiczne licea ogólnokształcące, publiczne technika lub publiczne branżowe szkoły I stopnia, a w przypadku gimnazjów specjalnych – także w publiczne szkoły podstawowe specjalne, prowadzonych przez powiat, w tym:
-    - **a)** dzień rozpoczęcia działalności przez te szkoły, określony zgodnie z art. 129 ust. 2, 4 i 6,
-    - **b)** rok szkolny, w którym rozpoczyna się kształcenie w klasie I – w przypadku szkół podstawowych, w tym szkół podstawowych specjalnych;
+- **3)** warunki przekształcenia dotychczasowych publicznych gimnazjów w odpowiednio publiczne ośmioletnie szkoły podstawowe, publiczne licea ogólnokształcące, publiczne technika lub publiczne branżowe szkoły I stopnia, a w przypadku gimnazjów specjalnych – także w publiczne szkoły podstawowe specjalne, prowadzonych przez powiat, w tym: dzień rozpoczęcia działalności przez te szkoły, określony zgodnie z art. 129 ust. 2, 4 i 6, rok szkolny, w którym rozpoczyna się kształcenie w klasie I – w przypadku szkół podstawowych, w tym szkół podstawowych specjalnych;
+    - **a)**
+    - **b)**
 
-- **4)** warunki włączenia publicznych gimnazjów odpowiednio do publicznych ośmioletnich szkół podstawowych, publicznych liceów ogólnokształcących, publicznych techników lub publicznych branżowych szkół I stopnia, a w przypadku gimnazjów specjalnych – także do publicznych szkół podstawowych specjalnych, prowadzonych przez powiat, w tym:
-    - **a)** dzień rozpoczęcia działalności przez ośmioletnią szkołę podstawową, w tym szkołę podstawową specjalną, liceum ogólnokształcące, technikum lub branżową szkołę I stopnia, określony zgodnie z art. 129 ust. 2, 4 i 6,
-    - **b)** rok szkolny, w którym rozpoczyna się kształcenie w klasie I ośmioletniej szkoły podstawowej, w tym szkoły podstawowej specjalnej,
-    - **c)** dzień zakończenia działalności gimnazjum, w tym gimnazjum specjalnego, określony zgodnie z art. 129 ust. 16;
+- **4)** warunki włączenia publicznych gimnazjów odpowiednio do publicznych ośmioletnich szkół podstawowych, publicznych liceów ogólnokształcących, publicznych techników lub publicznych branżowych szkół I stopnia, a w przypadku gimnazjów specjalnych – także do publicznych szkół podstawowych specjalnych, prowadzonych przez powiat, w tym: dzień rozpoczęcia działalności przez ośmioletnią szkołę podstawową, w tym szkołę podstawową specjalną, liceum ogólnokształcące, technikum lub branżową szkołę I stopnia, określony zgodnie z art. 129 ust. 2, 4 i 6, rok szkolny, w którym rozpoczyna się kształcenie w klasie I ośmioletniej szkoły podstawowej, w tym szkoły podstawowej specjalnej, dzień zakończenia działalności gimnazjum, w tym gimnazjum specjalnego, określony zgodnie z art. 129 ust. 16;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **5)** projekt planu sieci publicznych szkół ponadpodstawowych oraz szkół specjalnych, prowadzonych przez powiat, z uwzględnieniem szkół ponadpodstawowych i specjalnych mających siedzibę na obszarze powiatu prowadzonych przez inne organy prowadzące, tak aby umożliwić dzieciom i młodzieży zamieszkującym na obszarze powiatu lub przebywającym w podmiotach i jednostkach, o których mowa w art. 4 pkt 2 lit. b ustawy – Prawo oświatowe, realizację odpowiednio obowiązku szkolnego lub obowiązku nauki, od dnia 1 września 2019 r., z uwzględnieniem klas dotychczasowych publicznych zasadniczych szkół zawodowych, o których mowa w art. 164, publicznych trzyletnich liceów ogólnokształcących, o których mowa w art. 148 oraz klas dotychczasowych publicznych czteroletnich techników, o których mowa w art. 154.
 
@@ -1618,6 +3101,10 @@ source: "isap-pdf"
 2. Ilekroć w przepisach ust. 1 pkt 3 i 4, art. 222 ust. 1, 2 i 4, art. 223, art. 224 ust. 1 i 3, art. 225 ust. 7 pkt 2 oraz art. 228 ust. 2 jest mowa o szkole, należy przez to rozumieć przedszkole, szkołę, placówkę i ich zespoły.
 
 **Art. 221.** W roku szkolnym 2019/2020:
+
+- **1)** w szczególnych wypadkach, podyktowanych wyłącznie koniecznością realizacji programu nauczania, nauczyciel zatrudniony w szkole ponadpodstawowej prowadzonej przez jednostkę samorządu terytorialnego może być zobowiązany do odpłatnej pracy w godzinach ponadwymiarowych zgodnie z posiadaną specjalnością; średnia liczba godzin ponadwymiarowych przypadających na etat nauczyciela w danej szkole nie może przekroczyć średniej liczby godzin ponadwymiarowych przypadających na etat nauczyciela w tej szkole w roku szkolnym 2016/2017;
+- **2)** ograniczenie, o którym mowa w pkt 1, nie dotyczy nauczycieli przedmiotów teoretycznych w szkołach prowadzących kształcenie zawodowe oraz na kwalifikacyjnych kursach zawodowych, nauczycieli praktycznej nauki zawodu oraz nauczycieli przedmiotów artystycznych w szkołach artystycznych;
+- **3)** do nauczycieli, o których mowa w pkt 1, przepisy art. 35 ust. 2, 3 i 4 ustawy – Karta Nauczyciela stosuje się odpowiednio.
 
 **Art. 222.**
 
@@ -1951,13 +3438,17 @@ source: "isap-pdf"
 
 **Art. 256.** Ilekroć w niniejszej ustawie jest mowa o:
 
+- **1)** dotychczasowym gimnazjum – należy przez to rozumieć również klasy dotychczasowego gimnazjum;
+- **2)** dotychczasowym trzyletnim liceum ogólnokształcącym – należy przez to rozumieć również klasy dotychczasowego trzyletniego liceum ogólnokształcącego prowadzone w czteroletnim liceum ogólnokształcącym;
+- **3)** dotychczasowym czteroletnim technikum – należy przez to rozumieć również klasy dotychczasowego czteroletniego technikum prowadzone w pięcioletnim technikum.
+
 **Art. 257.**
 
 1. W przypadku zakończenia działalności publicznego lub niepublicznego gimnazjum, organ prowadzący gimnazjum zapewnia zachowanie trwałości infrastruktury i środków trwałych zakupionych w ramach projektów współfinansowanych ze środków Unii Europejskiej.
 
 2. W przypadku, o którym mowa w ust. 1, organ prowadzący gimnazjum może nieodpłatnie przekazać innej szkole, przedszkolu lub placówce prowadzonym przez ten organ infrastrukturę i środki trwałe zakupione w ramach projektów współfinansowanych ze środków Unii Europejskiej, pod warunkiem że szkoła, przedszkole lub placówka, które otrzymają infrastrukturę i środki trwałe, wykorzystają je na cele edukacyjne.
 
-**Art. 258.** Ośrodki umożliwiające dzieciom i młodzieży z niepełnosprawnością intelektualną w stopniu głębokim, a także dzieciom i młodzieży z niepełnosprawnościami sprzężonymi, z których jedną z niepełnosprawności jest niepełnosprawność intelektualna, realizację odpowiednio obowiązku rocznego przygotowania przedszkolnego, obowiązku szkolnego i obowiązku nauki, o których mowa w art. 2 pkt 5 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, dostosują swoją działalność do przepisów ustawy – Prawo oświatowe oraz ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą, w terminie do dnia 31 sierpnia 2018 r.
+**Art. 258.** Ośrodki umożliwiające dzieciom i młodzieży z niepełnosprawnością intelektualną w stopniu głębokim, atakże dzieciom i młodzieży z niepełnosprawnościami sprzężonymi, z których jedną z niepełnosprawności jest niepełnosprawność intelektualna, realizację odpowiednio obowiązku rocznego przygotowania przedszkolnego, obowiązku szkolnego i obowiązku nauki, o których mowa w art. 2 pkt 5 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, dostosują swoją działalność do przepisów ustawy – Prawo oświatowe oraz ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą, w terminie do dnia 31 sierpnia 2018 r.
 
 **Art. 259.**
 
@@ -1965,7 +3456,7 @@ source: "isap-pdf"
 
 2. Jeżeli w dniu 31 sierpnia 2022 r. jednostka samorządu terytorialnego, o której mowa w ust. 1, nie będzie prowadziła co najmniej odpowiednio jednego przedszkola lub jednej szkoły, którą jednostka samorządu terytorialnego będzie zobowiązana prowadzić zgodnie z art. 8 ust. 15 i 16 ustawy – Prawo oświatowe, umowa, na podstawie której przekazano prowadzenie jedynego przedszkola albo jedynej szkoły danego typu, wygasa z mocy prawa z dniem 31 sierpnia 2022 r. Wygaśnięcie umowy jest równoznaczne z przejęciem prowadzenia przedszkola lub szkoły przez jednostkę samorządu terytorialnego.
 
-**Art. 260.** Umowy, o których mowa w art. 5 ust. 5g ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, w drodze których przekazano prowadzenie placówek, zawarte przed dniem 1 września 2017 r., zachowują moc. Przepisy art. 5 ust. 5g–5r ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, stosuje się odpowiednio.
+**Art. 260.** Umowy, o których mowa w art. 5 ust. 5g ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, w drodze których przekazano prowadzenie placówek, zawarte przed dniem 1 września 2017 r., zachowują moc. Przepisy art. 5 ust. 5g-5r ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, stosuje się odpowiednio.
 
 **Art. 261.**
 
@@ -1973,11 +3464,7 @@ source: "isap-pdf"
 
 2. W terminie do dnia 10 sierpnia roku, w którym nastąpi przekształcenie, o którym mowa w ust. 1, dokonuje się odpowiedniego dostosowania umowy, na podstawie której przekazano prowadzenie szkoły.
 
-3. Organ stanowiący jednostki samorządu terytorialnego po przejęciu prowadzenia szkoły na podstawie art. 9 ust. 5 lub ust. 6 ustawy – Prawo oświatowe, w terminie jednego miesiąca do dnia przejęcia szkoły, w drodze uchwały, stwierdza jej przekształcenie odpowiednio w ośmioletnią szkołę podstawową, branżową szkołę I stopnia, czteroletnie liceum ogólnokształcące lub pięcioletnie technikum.
-
-4. Uchwała, o której mowa w ust. 3, stanowi akt założycielski szkoły w rozumieniu przepisów ustawy – Prawo oświatowe.
-
-**Art. 262.** Placówki publiczne, których prowadzenie przed dniem 1 września 2017 r. zostało przekazane osobie prawnej niebędącej jednostką samorządu terytorialnego lub osobie fizycznej na podstawie umowy, o której mowa w art. 5 ust. 5g ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, otrzymują dotacje, o których mowa w art. 80 ust. 2–3b ustawy zmienianej w art. 15, od dnia przekazania tej placówki, z zastrzeżeniem art. 98 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. poz. 2203), zwanej dalej „ustawą o finansowaniu zadań oświatowych”.
+**Art. 262.** Placówki publiczne, których prowadzenie przed dniem 1 września 2017 r. zostało przekazane osobie prawnej niebędącej jednostką samorządu terytorialnego lub osobie fizycznej na podstawie umowy, o której mowa w art. 5 ust. 5g ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, otrzymują dotacje, o których mowa w art. 80 ust. 2–3b ustawy zmienianej w art. 15, od dnia przekazania tej placówki.
 
 **Art. 263.** Do gimnazjum, o którym mowa w art. 127, którego prowadzenie przekazano w drodze umowy, o której mowa w art. 5 ust. 5g ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, nie stosuje się przepisu art. 5 ust. 5k ustawy zmienianej w art. 15, w brzmieniu dotychczasowym.
 
@@ -1999,15 +3486,11 @@ source: "isap-pdf"
 
 4. Jeżeli wnioskodawca nie dostosuje wniosku w terminie, o którym mowa w ust. 1, postępowanie umarza się.
 
-5. Oddział międzynarodowy utworzony przed dniem 1 września 2017 r. w dotychczasowej sześcioletniej szkole podstawowej dostosuje swoją działalność do przepisów ustawy – Prawo oświatowe, w terminie do dnia 31 grudnia 2017 r.
+5.
 
-5a. Zezwolenie na utworzenie oddziału międzynarodowego w dotychczasowej szkole ponadgimnazjalnej zachowuje moc również w odniesieniu do szkoły ponadpodstawowej, która powstała w wyniku przekształcenia dotychczasowej szkoły ponadgimnazjalnej.
+##### Oddział międzynarodowy utworzony przed dniem 1 września 2017 r. w dotychczasowej sześcioletniej szkole podstawowej dostosuje swoją działalność do przepisów ustawy – Prawo oświatowe, w terminie do dnia 31 grudnia 2017 r.
 
-6. Oddział międzynarodowy utworzony przed dniem 1 września 2019 r. w szkole ponadgimnazjalnej dostosuje swoją działalność do przepisów ustawy – Prawo oświatowe, w terminie do dnia 31 sierpnia 2019 r.
-
-7. W latach szkolnych 2019/2020–2022/2023 oddziały międzynarodowe szkoły ponadgimnazjalnej prowadzone w szkole ponadpodstawowej działają na dotychczasowych zasadach.
-
-8. Do oddziału międzynarodowego działającego na podstawie ustawy z dnia 19 marca 2009 r. o zmianie ustawy o systemie oświaty oraz o zmianie niektórych innych ustaw (Dz. U. poz. 458, z późn. zm. ) przepisy ust. 1–7 stosuje się odpowiednio.
+##### Oddział międzynarodowy utworzony przed dniem 1 września 2019 r. w szkole ponadgimnazjalnej dostosuje swoją działalność do przepisów ustawy – Prawo oświatowe, w terminie do dnia 31 sierpnia 2019 r.
 
 **Art. 266.**
 
@@ -2035,7 +3518,7 @@ source: "isap-pdf"
 
 - **1)** dotychczasowym czteroletnim technikum i szkole policealnej – do dnia 1 września 2017 r.;
 - **2)** branżowej szkole I stopnia – do dnia 1 września 2018 r.;
-- **3)** (uchylony)
+- **3)** branżowej szkole II stopnia – do dnia 1 września 2019 r.
 
 **Art. 268.** Komunikat w sprawie harmonogramu przeprowadzania egzaminu ósmoklasisty, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret pierwsze ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą, w roku szkolnym 2018/2019 ogłasza się do dnia 1 września 2018 r.
 
@@ -2045,9 +3528,9 @@ source: "isap-pdf"
 
 **Art. 271.**
 
-1. Z dniem 1 stycznia 2019 r. egzaminatorzy wpisani do ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7 ustawy zmienianej w art. 15, w zakresie egzaminu przeprowadzanego w ostatnim roku nauki w dotychczasowym gimnazjum i egzaminów eksternistycznych z obowiązkowych zajęć edukacyjnych określonych w ramowym planie nauczania dotychczasowej sześcioletniej szkoły podstawowej dla dorosłych i dotychczasowym gimnazjum dla dorosłych, stają się również egzaminatorami w zakresie egzaminu ósmoklasisty, o którym mowa w rozdziale 3b ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą, i egzaminów eksternistycznych z obowiązkowych zajęć edukacyjnych określonych w ramowym planie nauczania ośmioletniej szkoły podstawowej dla dorosłych, w zakresie przedmiotu, do którego nauczania posiadają wymagane kwalifikacje.
+1. Z dniem 1 stycznia 2018 r. egzaminatorzy wpisani do ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7 ustawy zmienianej w art. 15, w zakresie egzaminu przeprowadzanego w ostatnim roku nauki w dotychczasowym gimnazjum i egzaminów eksternistycznych z obowiązkowych zajęć edukacyjnych określonych w ramowym planie nauczania dotychczasowej sześcioletniej szkoły podstawowej dla dorosłych i dotychczasowym gimnazjum dla dorosłych, stają się również egzaminatorami w zakresie egzaminu ósmoklasisty, o którym mowa w rozdziale 3b ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą, i egzaminów eksternistycznych z obowiązkowych zajęć edukacyjnych określonych w ramowym planie nauczania ośmioletniej szkoły podstawowej dla dorosłych.
 
-2. Z dniem 1 lipca 2020 r. egzaminatorzy wpisani do ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7 ustawy zmienianej w art. 15, w zakresie egzaminu maturalnego oraz egzaminów eksternistycznych z obowiązkowych zajęć edukacyjnych określonych w ramowym planie nauczania trzyletniego liceum ogólnokształcącego dla dorosłych, stają się również egzaminatorami w zakresie egzaminów eksternistycznych z obowiązkowych zajęć edukacyjnych określonych w ramowym planie nauczania czteroletniego liceum ogólnokształcącego dla dorosłych oraz egzaminów eksternistycznych zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły I stopnia i branżowej szkoły II stopnia.
+2. Z dniem 1 lipca 2020 r. egzaminatorzy wpisani do ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7 ustawy zmienianej w art. 15, w zakresie egzaminu maturalnego oraz egzaminów eksternistycznych z obowiązkowych zajęć edukacyjnych określonych w ramowym planie nauczania liceum ogólnokształcącego dla dorosłych, stają się również egzaminatorami w zakresie egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły I stopnia i branżowej szkoły II stopnia.
 
 3. Z dniem 31 sierpnia 2020 r. okręgowe komisje egzaminacyjne zaprzestają prowadzenia ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7 ustawy zmienianej w art. 15, w zakresie egzaminu przeprowadzanego w ostatnim roku nauki w dotychczasowym gimnazjum i egzaminów eksternistycznych z obowiązkowych zajęć edukacyjnych określonych w ramowym planie nauczania dotychczasowej sześcioletniej szkoły podstawowej dla dorosłych i dotychczasowego gimnazjum dla dorosłych.
 
@@ -2089,11 +3572,7 @@ source: "isap-pdf"
 
 17. Egzaminy eksternistyczne, o których mowa w ust. 2, 5, 7 i 8, są przeprowadzane z zakresu wymagań określonych odpowiednio w podstawie programowej kształcenia ogólnego, określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 lit. b, c, e i g ustawy – Prawo oświatowe, z tym że w przypadku czteroletniego liceum ogólnokształcącego dla dorosłych – na podstawie wymagań określonych w podstawie programowej kształcenia ogólnego dla zakresu podstawowego.
 
-18. Osoby, które do dnia 31 stycznia 2019 r. złożyły wniosek o dopuszczenie do egzaminu eksternistycznego potwierdzającego kwalifikacje w zawodzie z zakresu co najmniej jednej z kwalifikacji wyodrębnionych w danym zawodzie, przystępują do egzaminu eksternistycznego potwierdzającego kwalifikacje w zawodzie z zakresu kwalifikacji wyodrębnionej w tym zawodzie, a w przypadku gdy w zawodzie wyodrębniono więcej niż jedną kwalifikację – egzaminów eksternistycznych potwierdzających kwalifikacje w zawodzie z zakresu wszystkich kwalifikacji wyodrębnionych w tym zawodzie, przeprowadzanych na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach, określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a ustawy zmienianej w art. 15 do dnia 31 października 2025 r.
-
-19. Do dnia 31 października 2025 r. do egzaminu eksternistycznego potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach, określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a ustawy zmienianej w art. 15, przystępują także osoby, o których mowa w art. 302a ust. 1 pkt 1–3, w przypadku gdy przystępują do tego egzaminu zgodnie z art. 44zzzu ust. 2 ustawy zmienianej w art. 15, w brzmieniu obowiązującym przed dniem 1 września 2017 r.
-
-20. (uchylony)
+18. Do dnia 31 października 2025 r. egzamin eksternistyczny potwierdzający kwalifikacje w zawodzie jest przeprowadzany na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach, określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a ustawy zmienianej w art. 15.
 
 **Art. 273.**
 
@@ -2134,81 +3613,88 @@ source: "isap-pdf"
 
 2. Podstawę programową kształcenia ogólnego określoną w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2 lit. b ustawy zmienianej w art. 15 stosuje się:
 
-- **1)** w roku szkolnym 2017/2018 w semestrach II–V szkoły policealnej;
+- **1)** w roku szkolnym 2017/2018 w semestrach II-V szkoły policealnej;
 - **2)** w roku szkolnym 2018/2019 w semestrach IV i V szkoły policealnej.
 
 **Art. 281.** W dotychczasowym gimnazjum, do czasu zakończenia kształcenia, stosuje się podstawę programową kształcenia ogólnego dla gimnazjum określoną w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2 lit. b ustawy zmienianej w art. 15.
 
 **Art. 282.**
 
-1. (uchylony)
+1. Podstawę programową kształcenia w zawodach określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy – Prawo oświatowe stosuje się, począwszy od roku szkolnego 2017/2018 w:
+
+- **1)** klasach I branżowej szkoły I stopnia,
+- **2)** klasach I dotychczasowego czteroletniego technikum,
+- **3)** semestrach I szkoły policealnej, a w latach następnych również w kolejnych klasach lub semestrach tych szkół.
 
 2. Podstawę programową kształcenia w zawodach określoną w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a ustawy zmienianej w art. 15 stosuje się:
 
-- **1)** w roku szkolnym 2017/2018 w klasach II–IV dotychczasowego czteroletniego technikum i w semestrach II–V szkoły policealnej;
+- **1)** w roku szkolnym 2017/2018 w klasach II-IV dotychczasowego czteroletniego technikum i w semestrach II-V szkoły policealnej;
 - **2)** w roku szkolnym 2018/2019 w klasach III i IV dotychczasowego czteroletniego technikum i w semestrach IV i V szkoły policealnej;
 - **3)** w roku szkolnym 2019/2020 w klasach IV dotychczasowego czteroletniego technikum.
 
 **Art. 283.** W klasach dotychczasowej zasadniczej szkoły zawodowej prowadzonych w branżowej szkole I stopnia, do czasu zakończenia kształcenia, stosuje się podstawę programową kształcenia w zawodach określoną w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a ustawy zmienianej w art. 15.
 
-**Art. 284.** (uchylony)
+**Art. 284.** Podstawę programową kształcenia w zawodach określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy – Prawo oświatowe stosuje się, począwszy od roku szkolnego 2019/2020 w pięcioletnim technikum.
 
-**Art. 285.** (uchylony)
+**Art. 285.** Podstawę programową kształcenia w zawodach określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy – Prawo oświatowe stosuje się, począwszy od roku szkolnego 2020/2021 w branżowej szkole II stopnia.
 
 **Art. 286.**
 
-1. (uchylony)
+1. Klasyfikację zawodów szkolnictwa zawodowego określoną w przepisach wydanych na podstawie art. 46 ust. 1 ustawy – Prawo oświatowe stosuje się, począwszy od roku szkolnego 2017/2018 w:
+
+- **1)** klasach I branżowej szkoły I stopnia,
+- **2)** klasach I dotychczasowego czteroletniego technikum,
+- **3)** semestrach I szkoły policealnej, a w latach następnych również w kolejnych klasach lub semestrach tych szkół.
 
 2. Klasyfikację zawodów szkolnictwa zawodowego określoną w przepisach wydanych na podstawie art. 24 ust. 1 ustawy zmienianej w art. 15, stosuje się:
 
-- **1)** w roku szkolnym 2017/2018 w klasach II–IV dotychczasowego czteroletniego technikum i w semestrach II–V szkoły policealnej;
+- **1)** w roku szkolnym 2017/2018 w klasach II-IV dotychczasowego czteroletniego technikum i w semestrach II-V szkoły policealnej;
 - **2)** w roku szkolnym 2018/2019 w klasach III i IV dotychczasowego czteroletniego technikum i w semestrach IV i V szkoły policealnej;
 - **3)** w roku szkolnym 2019/2020 w klasach IV dotychczasowego czteroletniego technikum.
 
 **Art. 287.** W klasach dotychczasowej zasadniczej szkoły zawodowej prowadzonych w branżowej szkole I stopnia, do czasu zakończenia kształcenia, stosuje się klasyfikację zawodów szkolnictwa zawodowego określoną w przepisach wydanych na podstawie art. 24 ust. 1 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym.
 
-**Art. 288.** (uchylony)
+**Art. 288.** Klasyfikację zawodów szkolnictwa zawodowego określoną w przepisach wydanych na podstawie art. 46 ust. 1 ustawy – Prawo oświatowe stosuje się, począwszy od roku szkolnego 2019/2020 w pięcioletnim technikum.
 
-**Art. 289.** (uchylony)
+**Art. 289.** Klasyfikację zawodów szkolnictwa zawodowego określoną w przepisach wydanych na podstawie art. 46 ust. 1 ustawy – Prawo oświatowe stosuje się, począwszy od roku szkolnego 2020/2021 w branżowej szkole II stopnia.
 
 **Art. 290.**
 
-1. Kształcenie na kwalifikacyjnych kursach zawodowych, w oparciu o podstawę programową kształcenia w zawodach określoną w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a ustawy zmienianej w art. 15, odbywa się do dnia 31 grudnia 2019 r.
+1. Do dnia 31 grudnia 2019 r. kształcenie na kwalifikacyjnych kursach zawodowych odbywa się w oparciu o podstawę programową kształcenia w zawodach określoną w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a ustawy zmienianej w art. 15.
 
-2. (uchylony)
+2. Od dnia 1 stycznia 2020 r. kształcenie na kwalifikacyjnych kursach zawodowych odbywa się w oparciu o podstawę programową kształcenia w zawodach określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy – Prawo oświatowe.
 
 **Art. 291.**
 
 1. Ramowe plany nauczania w szkołach publicznych określone w przepisach wydanych na podstawie art. 47 ust. 1 pkt 3 ustawy – Prawo oświatowe stosuje się:
 
-- **1)** począwszy od roku szkolnego 2017/2018 w:
-    - **a)** klasach I, IV i VII szkoły podstawowej, a w latach następnych również w kolejnych klasach szkoły podstawowej,
-    - **b)** branżowej szkole I stopnia,
-    - **c)** szkole specjalnej przysposabiającej do pracy,
-    - **d)** semestrach I szkoły policealnej, a w latach następnych również w kolejnych semestrach szkoły policealnej,
-    - **e)** szkole podstawowej specjalnej dla uczniów z niepełnosprawnością intelektualną w stopniu umiarkowanym lub znacznym;
+- **1)** począwszy od roku szkolnego 2017/2018 w: klasach I, IV i VII szkoły podstawowej, a w latach następnych również w kolejnych klasach szkoły podstawowej, branżowej szkole I stopnia, szkole specjalnej przysposabiającej do pracy, semestrach I szkoły policealnej, a w latach następnych również w kolejnych semestrach szkoły policealnej;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
-- **2)** począwszy od roku szkolnego 2019/2020 w:
-    - **a)** czteroletnim liceum ogólnokształcącym,
-    - **b)** pięcioletnim technikum;
+- **2)** począwszy od roku szkolnego 2019/2020 w: czteroletnim liceum ogólnokształcącym, pięcioletnim technikum;
+    - **a)**
+    - **b)**
 
 - **3)** począwszy od roku szkolnego 2020/2021 w branżowej szkole II stopnia.
 
 2. Ramowe plany nauczania w szkołach publicznych określone w przepisach wydanych na podstawie art. 22 ust. 2 pkt 1 ustawy zmienianej w art. 15 stosuje się:
 
-- **1)** w roku szkolnym 2017/2018 – w klasach II, III, V i VI szkoły podstawowej, z wyjątkiem szkoły podstawowej, o której mowa w ust. 1 pkt 1 lit. e;
-- **2)** w roku szkolnym 2018/2019 – w klasach III i VI szkoły podstawowej, z wyjątkiem szkoły podstawowej, o której mowa w ust. 1 pkt 1 lit. e.
+- **1)** w roku szkolnym 2017/2018 – w klasach II, III, V i VI szkoły podstawowej;
+- **2)** w roku szkolnym 2018/2019 – w klasach III i VI szkoły podstawowej.
 
 3. Ramowe plany nauczania w szkołach publicznych określone w przepisach wydanych na podstawie art. 22 ust. 2 pkt 1 ustawy zmienianej w art. 15 stosuje się:
 
 - **1)** w dotychczasowym gimnazjum,
 - **2)** w dotychczasowym trzyletnim liceum ogólnokształcącym,
 - **3)** w dotychczasowym czteroletnim technikum,
-- **4)** w klasach dotychczasowej zasadniczej szkoły zawodowej prowadzonych w branżowej szkole I stopnia – do czasu zakończenia kształcenia.
+- **4)** w klasach dotychczasowej zasadniczej szkoły zawodowej prowadzonych w branżowej szkole I stopnia do czasu zakończenia kształcenia.
 
 4. Ramowe plany nauczania w szkołach publicznych określone w przepisach wydanych na podstawie art. 22 ust. 2 pkt 1 ustawy zmienianej w art. 15 stosuje się:
 
-- **1)** w roku szkolnym 2017/2018 w semestrach II–V szkoły policealnej;
+- **1)** w roku szkolnym 2017/2018 w semestrach II-V szkoły policealnej;
 - **2)** w roku szkolnym 2018/2019 w semestrach IV i V szkoły policealnej.
 
 **Art. 292.**
@@ -2227,7 +3713,7 @@ source: "isap-pdf"
 
 **Art. 295.**
 
-1. (uchylony)
+1. Egzamin ósmoklasisty, o którym mowa w rozdziale 3b ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą, jest przeprowadzany, począwszy od roku szkolnego 2018/2019, z zastrzeżeniem ust. 2.
 
 2. W latach szkolnych 2018/2019–2020/2021 egzamin ósmoklasisty obejmuje następujące przedmioty obowiązkowe:
 
@@ -2235,7 +3721,7 @@ source: "isap-pdf"
 - **2)** matematykę;
 - **3)** język obcy nowożytny.
 
-3. (uchylony)
+3. Począwszy od roku szkolnego 2021/2022, egzamin ósmoklasisty, o którym mowa w rozdziale 3b ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą, obejmuje przedmioty, o których mowa w art. 44zu ust. 3 ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą.
 
 4. Do egzaminu ósmoklasisty, o którym mowa w ust. 2, stosuje się odpowiednio przepisy rozdziału 3b ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą.
 
@@ -2250,23 +3736,25 @@ source: "isap-pdf"
 
 **Art. 297.**
 
-1. (uchylony)
+1. Egzamin maturalny, o którym mowa w rozdziale 3b ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą, jest przeprowadzany dla:
+
+- **1)** absolwentów czteroletniego liceum ogólnokształcącego – począwszy od roku szkolnego 2022/2023,
+- **2)** absolwentów pięcioletniego technikum – począwszy od roku szkolnego 2023/2024,
+- **3)** absolwentów branżowej szkoły II stopnia, którzy ukończyli kształcenie w branżowej szkole I stopnia jako absolwenci ośmioletniej szkoły podstawowej – począwszy od roku szkolnego 2023/2024 na podstawie wymagań określonych w podstawie programowej kształcenia ogólnego, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 lit. c i d ustawy – Prawo oświatowe.
 
 2. Egzamin maturalny, o którym mowa w rozdziale 3b ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, jest przeprowadzany dla:
 
 - **1)** absolwentów dotychczasowego trzyletniego liceum ogólnokształcącego – do roku szkolnego 2026/2027,
 - **2)** absolwentów dotychczasowego czteroletniego technikum – do roku szkolnego 2027/2028,
-- **3)** absolwentów branżowej szkoły II stopnia, którzy ukończyli kształcenie w branżowej szkole I stopnia jako absolwenci dotychczasowego gimnazjum – do roku szkolnego 2028/2029 – na podstawie wymagań określonych w podstawie programowej kształcenia ogólnego, o której mowa w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2 lit. b ustawy zmienianej w art. 15, z uwzględnieniem art. 127 i art. 127a ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw, art. 3 ustawy z dnia 25 kwietnia 2019 r. o zmianie ustawy o systemie oświaty i ustawy – Prawo oświatowe (Dz. U. poz. 761), art. 19 ust. 1 i ust. 2 pkt 1 oraz art. 20–26 ustawy z dnia 12 maja 2022 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 1116, z 2023 r. poz. 2005 oraz z 2024 r. poz. 1933), art. 24 ust. 1 i 2 ustawy z dnia 30 sierpnia 2023 r. o zmianie ustawy – Prawo oświatowe oraz niektórych innych ustaw (Dz. U. poz. 2005 oraz z 2024 r. poz. 1572) i art. 12 ustawy z dnia 21 listopada 2024 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 1933), a także z uwzględnieniem przepisów wydanych na podstawie art. 30c ustawy – Prawo oświatowe w zakresie przeprowadzania tego egzaminu w latach szkolnych 2019/2020–2021/2022.
+- **3)** absolwentów branżowej szkoły II stopnia, którzy ukończyli kształcenie w branżowej szkole I stopnia jako absolwenci dotychczasowego gimnazjum – do roku szkolnego 2028/2029 na podstawie wymagań określonych w podstawie programowej kształcenia ogólnego, o której mowa w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2 lit. b ustawy zmienianej w art. 15.
 
-2a. W przeprowadzaniu egzaminu maturalnego, o którym mowa w ust. 2, z informatyki może brać udział operator pracowni informatycznej.
+3. Do absolwenta, o którym mowa w ust. 2 pkt 3, posiadającego dyplom potwierdzający kwalifikacje zawodowe, stosuje się przepisy rozdziału 3b ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą, w zakresie dotyczącym zwolnienia z obowiązku przystąpienia do części pisemnej egzaminu maturalnego z przedmiotu dodatkowego, o którym mowa w art. 44zzd ust. 4 ustawy zmienianej w art. 15.
 
-2b. Do operatora pracowni informatycznej, o którym mowa w ust. 2a, stosuje się przepisy art. 9c ust. 9 i 10a oraz art. 44zzsa ustawy zmienianej w art. 15, w brzmieniu nadanym ustawą z dnia 21 listopada 2024 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw, a także przepisy wydane na podstawie art. 22 ust. 2 pkt 13 ustawy zmienianej w art. 15, w brzmieniu nadanym ustawą z dnia 21 listopada 2024 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw, w związku z art. 16 ust. 2 ustawy z dnia 21 listopada 2024 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw.
+4. Począwszy od roku szkolnego:
 
-3. (uchylony)
-
-4. (uchylony)
-
-**Art. 297a.** Do egzaminu maturalnego, o którym mowa w art. 297 ust. 2, może przystąpić:
+- **1)** 2027/2028 – dla absolwentów dotychczasowego trzyletniego liceum ogólnokształcącego,
+- **2)** 2028/2029 – dla absolwentów dotychczasowego czteroletniego technikum,
+- **3)** 2029/2030 – dla absolwentów branżowej szkoły II stopnia, którzy ukończyli kształcenie w branżowej szkole I stopnia jako absolwenci dotychczasowego gimnazjum egzamin maturalny jest przeprowadzany zgodnie z przepisami rozdziału 3b ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą, na podstawie wymagań określonych w podstawie programowej kształcenia ogólnego, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 lit. c i d ustawy – Prawo oświatowe.
 
 **Art. 298.**
 
@@ -2294,7 +3782,7 @@ source: "isap-pdf"
 
 **Art. 302.**
 
-1. Uczniowie, którzy w roku szkolnym 2017/2018 i 2018/2019 rozpoczęli naukę w dotychczasowym czteroletnim technikum przystępują do egzaminu potwierdzającego kwalifikacje w zawodzie zgodnie z przepisami rozdziału 3b ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą.
+1. Uczniowie, którzy w latach szkolnych 2017/2018–2019/2020 rozpoczęli naukę w dotychczasowym czteroletnim technikum przystępują do egzaminu potwierdzającego kwalifikacje w zawodzie zgodnie z przepisami rozdziału 3b ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą.
 
 2. Uczniowie, którzy przed rokiem szkolnym 2017/2018 rozpoczęli naukę w dotychczasowym czteroletnim technikum przystępują do egzaminu potwierdzającego kwalifikacje w zawodzie zgodnie z przepisami rozdziału 3b ustawy zmienianej w art. 15, w brzmieniu dotychczasowym.
 
@@ -2302,40 +3790,26 @@ source: "isap-pdf"
 
 4. Uczniowie klas dotychczasowej zasadniczej szkoły zawodowej prowadzonych w branżowej szkole I stopnia przystępują do egzaminu potwierdzającego kwalifikacje w zawodzie, o którym mowa w rozdziale 3b ustawy zmienianej w art. 15, w brzmieniu dotychczasowym.
 
-5. Uczniowie i słuchacze szkół policealnych, którzy rozpoczęli naukę przed rokiem szkolnym 2017/2018, przystępują do egzaminu potwierdzającego kwalifikacje w zawodzie zgodnie z przepisami rozdziału 3b ustawy zmienianej w art. 15, w brzmieniu obowiązującym przed dniem 1 września 2017 r.
-
-**Art. 302a.**
-
-1. Do egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego zgodnie z przepisami rozdziału 3b ustawy zmienianej w art. 15, w brzmieniu obowiązującym przed dniem 1 września 2017 r., z uwzględnieniem art. 19 ust. 2 pkt 2 ustawy z dnia 12 maja 2022 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw oraz art. 13 i art. 15 ust. 1 ustawy z dnia 21 listopada 2024 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw, przystępują:
-
-- **1)** absolwenci dotychczasowych czteroletnich techników, którzy realizowali podstawę programową kształcenia w zawodach określoną w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a ustawy zmienianej w art. 15 – do zakończenia roku szkolnego 2024/2025;
-- **2)** absolwenci dotychczasowych zasadniczych szkół zawodowych i absolwenci dotychczasowych zasadniczych szkół zawodowych, o których mowa w art. 164 – do zakończenia roku szkolnego 2024/2025;
-- **3)** absolwenci szkół policealnych, którzy realizowali podstawę programową kształcenia w zawodach określoną w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a ustawy zmienianej w art. 15 – do zakończenia roku szkolnego 2024/2025;
-- **4)** osoby, które ukończyły kwalifikacyjny kurs zawodowy prowadzony w oparciu o podstawę programową kształcenia w zawodach określoną w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a ustawy zmienianej w art. 15 – do dnia 31 października 2025 r.
-- **5)** osoby dorosłe, które ukończyły praktyczną naukę zawodu dorosłych lub przyuczenie do pracy dorosłych, o których mowa odpowiednio w art. 53c i art. 53d ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2017 r. poz. 1065, 1292, 1321, 1428 i 1543), jeżeli program przyuczenia do pracy uwzględniał wymagania określone w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a ustawy zmienianej w art. 15 – do dnia 31 października 2025 r.
-
-2. (uchylony)
-
 **Art. 303.**
 
 1. Ustala się następujący maksymalny limit wydatków z budżetu państwa przeznaczonych na zadania związane z przeprowadzaniem egzaminu gimnazjalnego, egzaminu ósmoklasisty, egzaminu maturalnego, egzaminu potwierdzającego kwalifikacje w zawodzie oraz egzaminów eksternistycznych:
 
 - **1)** w 2017 r. – 219 mln zł;
 - **2)** w 2018 r. – 228 mln zł;
-- **3)** (uchylony)
-- **4)** (uchylony)
-- **5)** (uchylony)
-- **6)** (uchylony)
-- **7)** (uchylony)
-- **8)** (uchylony)
-- **9)** (uchylony)
-- **10)** (uchylony)
+- **3)** w 2019 r. – 257 mln zł;
+- **4)** w 2020 r. – 240 mln zł;
+- **5)** w 2021 r. – 248 mln zł;
+- **6)** w 2022 r. – 262 mln zł;
+- **7)** w 2023 r. – 269 mln zł;
+- **8)** w 2024 r. – 277 mln zł;
+- **9)** w 2025 r. – 285 mln zł;
+- **10)** w 2026 r. – 293 mln zł.
 
 2. Minister właściwy do spraw oświaty i wychowania monitoruje wykorzystanie limitów wydatków na zadanie, o którym mowa w ust. 1, oraz, w razie potrzeby, wdraża mechanizmy korygujące.
 
 3. W przypadku gdy łączne wydatki budżetu państwa na zadania związane z przeprowadzaniem egzaminu gimnazjalnego, egzaminu ósmoklasisty, egzaminu maturalnego, egzaminu potwierdzającego kwalifikacje w zawodzie oraz egzaminów eksternistycznych powodowałyby zagrożenie przekroczenia w danym roku budżetowym limitu określonego w ust. 1, minister właściwy do spraw oświaty i wychowania określa warunki wynagradzania egzaminatorów i nauczycieli akademickich biorących udział w przeprowadzaniu części ustnej egzaminu maturalnego, określone na podstawie przepisów wydanych na podstawie art. 22 ust. 2 pkt 13 ustawy zmienianej w art. 15, w sposób powodujący wyeliminowanie zagrożenia przekroczenia w danym roku budżetowym limitu określonego w ust. 1.
 
-**Art. 304.** Organy prowadzące w dniu 1 września 2017 r. szkoły podstawowe, w których zorganizowano oddziały przedszkolne, dostosują lokale, w których zorganizowano te oddziały, do warunków określonych w art. 126 ust. 1–3 ustawy – Prawo oświatowe i przepisach wydanych na podstawie art. 126 ust. 4 tej ustawy, w terminie do dnia 31 sierpnia 2024 r.
+**Art. 304.** Organy prowadzące w dniu 1 września 2017 r. szkoły podstawowe, w których zorganizowano oddziały przedszkolne, dostosują lokale, w których zorganizowano te oddziały, do warunków określonych w art. 126 ust. 1–3 ustawy – Prawo oświatowe i przepisy wydane na podstawie art. 126 ust. 4 tej ustawy, w terminie do dnia 31 sierpnia 2022 r.
 
 **Art. 305.**
 
@@ -2377,7 +3851,7 @@ source: "isap-pdf"
 
 **Art. 308.**
 
-1. Przepisy dotyczące szkół ponadpodstawowych stosuje się również do szkół ponadgimnazjalnych i klas dotychczasowych szkół ponadgimnazjalnych w szkołach ponadpodstawowych do czasu wygaśnięcia kształcenia w tych szkołach i klasach, z uwzględnieniem zmian wynikających z niniejszej ustawy.
+1. Przepisy dotyczące szkół ponadpodstawowych stosuje się również do szkół ponadgimnazjalnych do czasu wygaśnięcia kształcenia w tych szkołach, z uwzględnieniem zmian wynikających z niniejszej ustawy.
 
 2. Do uczniów i słuchaczy dotychczasowego gimnazjum stosuje się przepisy dotychczasowe.
 
@@ -2412,15 +3886,13 @@ source: "isap-pdf"
 
 1. Do postępowań dotyczących wydawania opinii o potrzebie wczesnego wspomagania rozwoju dziecka, o których mowa w art. 71b ust. 3 i 3a ustawy zmienianej w art. 15, wszczętych i niezakończonych przed dniem 1 lutego 2017 r., stosuje się przepisy dotychczasowe.
 
-2. Od dnia 1 lutego 2017 r. opinie o potrzebie wczesnego wspomagania rozwoju dziecka, o których mowa w art. 71b ust. 3 i 3a ustawy zmienianej w art. 15, mogą wydawać wyłącznie zespoły orzekające działające w publicznych poradniach psychologiczno-pedagogicznych, w tym w poradniach specjalistycznych.
+2. Od dnia 1 lutego 2017 r. opinie o potrzebie wczesnego wspomagania rozwoju dziecka, o których mowa w art. 71b ust. 3 i 3a ustawy zmienianej w art. 15, mogą wydawać wyłącznie zespoły opiniujące działające w publicznych poradniach psychologiczno-pedagogicznych, w tym w poradniach specjalistycznych.
 
 **Art. 315.** Opinie o potrzebie wczesnego wspomagania rozwoju dziecka, wydane na podstawie art. 71b ust. 3 i 3a ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, zachowują ważność.
 
 **Art. 316.** Niepubliczne przedszkola, szkoły podstawowe, w tym specjalne, inne formy wychowania przedszkolnego, specjalne ośrodki szkolno-wychowawcze, specjalne ośrodki wychowawcze, ośrodki rewalidacyjno-wychowawcze i poradnie psychologiczno-pedagogiczne, w których przed dniem 1 września 2017 r. został utworzony zespół wczesnego wspomagania rozwoju dziecka, dostosują swoją działalność do warunków określonych w art. 175 ustawy – Prawo oświatowe, w terminie do dnia 30 września 2017 r.
 
 **Art. 317.** Do spraw o uznanie świadectwa lub innego dokumentu, o których mowa w art. 93 ust. 3 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, albo o potwierdzenie wykształcenia lub uprawnień do kontynuacji nauki, o których mowa w art. 93a ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, wszczętych i niezakończonych przed dniem 1 września 2017 r., stosuje się przepisy dotychczasowe.
-
-**Art. 317a.** Do przyjmowania w roku szkolnym 2016/2017 dzieci i uczniów przybywających z zagranicy do przedszkoli, innych form wychowania przedszkolnego i szkół, z wyjątkiem dotychczasowych gimnazjów i szkół ponadgimnazjalnych, a także placówek, stosuje się przepisy wydane na podstawie art. 94a ust. 6 ustawy zmienianej w art. 15 w brzmieniu dotychczasowym, z tym że zamiast odpowiednich przepisów ustawy zmienianej w art. 15 w brzmieniu dotychczasowym dotyczących przyjmowania do publicznych przedszkoli, innych form wychowania przedszkolnego, szkół i placówek stosuje się odpowiednie przepisy rozdziału 6 ustawy – Prawo oświatowe.
 
 **Art. 318.** W roku szkolnym 2017/2018 i 2018/2019 przepis art. 105 ustawy – Prawo oświatowe stosuje się odpowiednio do dotychczasowych gimnazjów, jeżeli zachodzi potrzeba zapewnienia zajęć świetlicowych.
 
@@ -2466,45 +3938,74 @@ source: "isap-pdf"
 
 **Art. 326.**
 
-1. Z dniem 1 września 2017 r. dotacja, o której mowa w art. 80 ust. 2c, 2da, 2dc, 3 i 3ab–3ae oraz art. 90 ust. 1a, 1ba, 2a, 2ea, 2ec, 3 i 3ab–3ad ustawy zmienianej w art. 15, przyznana dotychczasowej szkole podstawowej, prowadzonej przez osobę prawną niebędącą jednostką samorządu terytorialnego lub osobę fizyczną, przysługuje szkole podstawowej, o której mowa w art. 117, art. 129 ust. 1 pkt 2, art. 176 ust. 1, art. 182 ust. 1 pkt 2, art. 191 ust. 1 i art. 201 ust. 1 pkt 2, ust. 2 pkt 2 i ust. 3 pkt 2.
+1. Z dniem 1 września 2017 r. dotacja, o której mowa w art. 80 ust. 2c, 2da, 2dc, 3 i 3ab-3ae oraz art. 90 ust. 1a, 1ba, 2a, 2ea, 2ec, 3 i 3ab-3ad ustawy zmienianej w art. 15, przyznana dotychczasowej szkole podstawowej, prowadzonej przez osobę prawną niebędącą jednostką samorządu terytorialnego lub osobę fizyczną, przysługuje szkole podstawowej, o której mowa w art. 117, art. 129 ust. 1 pkt 2, art. 176 ust. 1, art. 182 ust. 1 pkt 2, art. 191 ust. 1 i art. 201 ust. 1 pkt 2, ust. 2 pkt 2 i ust. 3 pkt 2.
 
-2. Z dniem 1 września 2017 r. dotacja, o której mowa w art. 80 ust. 3, 3ab– 3ad i 8 oraz art. 90 ust. 2a, 3ab–3ad, 3b i 8 ustawy zmienianej w art. 15, przyznana dotychczasowej zasadniczej szkole zawodowej, prowadzonej przez osobę prawną niebędącą jednostką samorządu terytorialnego lub osobę fizyczną, przysługuje branżowej szkole I stopnia, o której mowa w art. 129 ust. 3 pkt 10, art. 162 ust. 1, art. 196 ust. 1 i art. 201 ust. 2 pkt 8 i ust. 3 pkt 8.
+2. Z dniem 1 września 2017 r. dotacja, o której mowa w art. 80 ust. 3, 3ab-3ad i 8 oraz art. 90 ust. 2a, 3ab-3ad, 3b i 8 ustawy zmienianej w art. 15, przyznana dotychczasowej zasadniczej szkole zawodowej, prowadzonej przez osobę prawną niebędącą jednostką samorządu terytorialnego lub osobę fizyczną, przysługuje branżowej szkole I stopnia, o której mowa w art. 129 ust. 3 pkt 10, art. 162 ust. 1, art. 196 ust. 1 i art. 201 ust. 2 pkt 8 i ust. 3 pkt 8.
 
-3. Z dniem 1 września 2017 r. dotacja, o której mowa w art. 80 ust. 3 i 3ab– 3ad oraz art. 90 ust. 2a, 3ab–3ad i 3b ustawy zmienianej w art. 15, przyznana dotychczasowej szkole specjalnej przysposabiającej do pracy dla uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym oraz dla uczniów z niepełnosprawnościami sprzężonymi, prowadzonej przez osobę prawną niebędącą jednostką samorządu terytorialnego lub osobę fizyczną, przysługuje szkole specjalnej przysposabiającej do pracy, o której mowa w art. 172 ust. 2.
+3. Z dniem 1 września 2017 r. dotacja, o której mowa w art. 80 ust. 3 i 3ab-3ad oraz art. 90 ust. 2a, 3ab-3ad i 3b ustawy zmienianej w art. 15, przyznana dotychczasowej szkole specjalnej przysposabiającej do pracy dla uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym oraz dla uczniów z niepełnosprawnościami sprzężonymi, prowadzonej przez osobę prawną niebędącą jednostką samorządu terytorialnego lub osobę fizyczną, przysługuje szkole specjalnej przysposabiającej do pracy, o której mowa w art. 172 ust. 2.
 
 4. Z dniem 1 września 2017 r. dotacja, o której mowa w art. 80 ust. 3ab, 3ac, 3ae i 8 oraz art. 90 ust. 3, 3ab, 3ac, 3b i 8 ustawy zmienianej w art. 15, przyznana dotychczasowej szkole policealnej, prowadzonej przez osobę prawną niebędącą jednostką samorządu terytorialnego lub osobę fizyczną, przysługuje szkole policealnej, o której mowa w art. 174 ust. 2.
 
-5. W przypadkach, o których mowa w ust. 1–4, przepisy art. 78a–78e, art. 80 i art. 89b–90 ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
+5. W przypadkach, o których mowa w ust. 1–4, przepisy art. 78a-78e, art. 80 i art. 89b-90 ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
 
 **Art. 327.**
 
-1. Z dniem 1 września 2019 r. dotacja, o której mowa odpowiednio w art. 25, art. 26, art. 28–30 i art. 32 ustawy o finansowaniu zadań oświatowych, przyznana dotychczasowemu trzyletniemu liceum ogólnokształcącemu, prowadzonemu przez osobę prawną niebędącą jednostką samorządu terytorialnego lub osobę fizyczną, przysługuje czteroletniemu liceum ogólnokształcącemu, o którym mowa w art. 129 ust. 3 pkt 7, art. 146 ust. 1, art. 184 ust. 1, art. 193 ust. 1 i art. 201 ust. 1 pkt 4, ust. 2 pkt 4 i ust. 3 pkt 4.
+1. Z dniem 1 września 2019 r. dotacja, o której mowa w art. 80 ust. 3 i 3ab-3ae oraz art. 90 ust. 2a, 3, 3ab-3ad i 3b ustawy zmienianej w art. 15, przyznana dotychczasowemu trzyletniemu liceum ogólnokształcącemu, prowadzonemu przez osobę prawną niebędącą jednostką samorządu terytorialnego lub osobę fizyczną, przysługuje czteroletniemu liceum ogólnokształcącemu, o którym mowa w art. 129 ust. 3 pkt 7, art. 146 ust. 1, art. 184 ust. 1, art. 193 ust. 1 i art. 201 ust. 1 pkt 4, ust. 2 pkt 4 i ust. 3 pkt 4.
 
-2. Z dniem 1 września 2019 r. dotacja, o której mowa odpowiednio w art. 25, art. 26 i art. 28–32 ustawy o finansowaniu zadań oświatowych, przyznana dotychczasowemu czteroletniemu technikum, prowadzonemu przez osobę prawną niebędącą jednostką samorządu terytorialnego lub osobę fizyczną, przysługuje pięcioletniemu technikum, o którym mowa w art. 129 ust. 3 pkt 8, art. 152 ust. 1, art. 193 ust. 2 i art. 201 ust. 1 pkt 6, ust. 2 pkt 6 i ust. 3 pkt 6.
+2. Z dniem 1 września 2019 r. dotacja, o której mowa w art. 80 ust. 3, 3ab-3ad i 8 oraz art. 90 ust. 2a, 3ab-3ad, 3b i 8 ustawy zmienianej w art. 15, przyznana dotychczasowemu czteroletniemu technikum, prowadzonemu przez osobę prawną niebędącą jednostką samorządu terytorialnego lub osobę fizyczną, przysługuje pięcioletniemu technikum, o którym mowa w art. 129 ust. 3 pkt 8, art. 152 ust. 1, art. 193 ust. 2 i art. 201 ust. 1 pkt 6, ust. 2 pkt 6 i ust. 3 pkt 6.
 
-3. W przypadkach, o których mowa w ust. 1 i 2, przepisy rozdziału 3 ustawy o finansowaniu zadań oświatowych, stosuje się odpowiednio.
+3. W przypadkach, o których mowa w ust. 1 i 2, przepisy art. 78a-78e, art. 80 i art. 89b-90 ustawy zmienianej w art. 15, stosuje się odpowiednio.
 
-**Art. 328.** W roku 2017 przez podstawową kwotę dotacji, o której mowa w art. 78b ust. 3 ustawy zmienianej w art. 15, dla gimnazjów i klas dotychczasowego gimnazjum prowadzonych w szkołach podstawowych, liceach ogólnokształcących, technikach i branżowych szkołach I stopnia, danego rodzaju, należy rozumieć kwotę wydatków bieżących zaplanowanych na prowadzenie przez jednostkę samorządu terytorialnego dotychczasowych gimnazjów i klas dotychczasowego gimnazjum w szkołach podstawowych, liceach ogólnokształcących, technikach i branżowych szkołach I stopnia, danego rodzaju, pomniejszonych o:
+**Art. 328.** W latach 2017–2019 przez podstawową kwotę dotacji, o której mowa w art. 78b ust. 3 ustawy zmienianej w art. 15, dla gimnazjów i klas dotychczasowego gimnazjum prowadzonych w szkołach podstawowych, liceach ogólnokształcących, technikach i branżowych szkołach I stopnia, danego rodzaju, należy rozumieć kwotę wydatków bieżących zaplanowanych na prowadzenie przez jednostkę samorządu terytorialnego dotychczasowych gimnazjów i klas dotychczasowego gimnazjum w szkołach podstawowych, liceach ogólnokształcących, technikach i branżowych szkołach I stopnia, danego rodzaju, pomniejszonych o:
 
-**Art. 329.** W latach 2019–2023 do wyliczenia wskaźnika zwiększającego, o którym mowa w art. 14 ust. 1, 2 i 8 ustawy o finansowaniu zadań oświatowych, dla czteroletnich liceów ogólnokształcących i klas dotychczasowego trzyletniego liceum ogólnokształcącego prowadzonych w czteroletnich liceach ogólnokształcących, należy przyjąć sumę odpowiednich wydatków bieżących i dochodów oraz sumę kwoty części oświatowej subwencji ogólnej dla czteroletnich liceów ogólnokształcących i klas dotychczasowego trzyletniego liceum ogólnokształcącego prowadzonych w czteroletnich liceach ogólnokształcących, a także sumę liczby uczniów i uczestników zajęć rewalidacyjno-wychowawczych w czteroletnich liceach ogólnokształcących i klasach dotychczasowego trzyletniego liceum ogólnokształcącego prowadzonych w czteroletnich liceach ogólnokształcących.
+- **1)** zaplanowane na rok budżetowy w budżecie jednostki samorządu terytorialnego opłaty za wyżywienie w tych gimnazjach i klasach dotychczasowego gimnazjum w szkołach podstawowych, liceach ogólnokształcących, technikach i branżowych szkołach I stopnia, stanowiące dochody budżetu jednostki samorządu terytorialnego,
+- **2)** sumę iloczynów odpowiednich kwot przewidzianych w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego na uczniów niepełnosprawnych, niedostosowanych społecznie lub zagrożonych niedostosowaniem społecznym w gimnazjach i klasach dotychczasowego gimnazjum w szkołach podstawowych, liceach ogólnokształcących, technikach i branżowych szkołach I stopnia, danego rodzaju, posiadających orzeczenie o potrzebie kształcenia specjalnego, o którym mowa w art. 127 ust. 10 ustawy – Prawo oświatowe, wydane ze względu na odpowiednie rodzaje niepełnosprawności, niedostosowanie społeczne lub zagrożenie niedostosowaniem społecznym, oraz statystycznej liczby tych uczniów w tych gimnazjach i klasach dotychczasowego gimnazjum, z wyłączeniem uczniów szkół specjalnych,
+- **3)** zaplanowane na rok budżetowy w budżecie jednostki samorządu terytorialnego wydatki bieżące finansowane z użyciem środków pochodzących z budżetu Unii Europejskiej na prowadzenie tych gimnazjów i klas dotychczasowego gimnazjum,
+- **4)** iloczyn kwoty przewidzianej w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego na uczestnika zajęć rewalidacyjno-wychowawczych w gimnazjach i klasach dotychczasowego gimnazjum w szkołach podstawowych, liceach ogólnokształcących, technikach i branżowych szkołach I stopnia, danego rodzaju, posiadającego orzeczenie o potrzebie zajęć rewalidacyjno-wychowawczych, o którym mowa w art. 127 ust. 10 ustawy – Prawo oświatowe, oraz statystycznej liczby uczestników zajęć rewalidacyjno-wychowawczych w tych gimnazjach i klasach dotychczasowego gimnazjum,
+- **5)** zaplanowaną na rok budżetowy w budżecie jednostki samorządu terytorialnego kwotę dotacji, o której mowa w art. 22ae ust. 3 ustawy zmienianej w art. 15, dla tych gimnazjów i klas dotychczasowego gimnazjum,
+- **6)** zaplanowane na rok budżetowy w budżecie jednostki samorządu terytorialnego wydatki bieżące na finansowanie działalności internatów w tych gimnazjach i klasach dotychczasowego gimnazjum,
+- **7)** zaplanowane na rok budżetowy w budżecie jednostki samorządu terytorialnego wydatki bieżące na programy, o których mowa w art. 90u ustawy zmienianej w art. 15, w tych gimnazjach i klasach dotychczasowego gimnazjum i podzielonych przez statystyczną liczbę uczniów w tych gimnazjach i klasach dotychczasowego gimnazjum w szkołach podstawowych, liceach ogólnokształcących, technikach i branżowych szkołach I stopnia, danego rodzaju, pomniejszoną, w przypadku szkół niebędących szkołami specjalnymi, o statystyczną liczbę uczniów niepełnosprawnych, niedostosowanych społecznie lub zagrożonych niedostosowaniem społecznym w tych gimnazjach i klasach dotychczasowego gimnazjum, posiadających orzeczenie o potrzebie kształcenia specjalnego, o którym mowa w art. 127 ust. 10 ustawy – Prawo oświatowe, wydane ze względu na odpowiednie rodzaje niepełnosprawności, niedostosowanie społeczne lub zagrożenie niedostosowaniem społecznym.
 
-**Art. 330.** W latach 2019–2023 do wyliczenia wskaźnika zwiększającego, o którym mowa w art. 14 ust. 1, 2 i 8 ustawy o finansowaniu zadań oświatowych, dla pięcioletnich techników i klas dotychczasowego czteroletniego technikum prowadzonych w pięcioletnich technikach, należy przyjąć sumę odpowiednich wydatków bieżących i dochodów oraz sumę kwoty części oświatowej subwencji ogólnej dla pięcioletnich techników i klas dotychczasowego czteroletniego technikum prowadzonych w pięcioletnich technikach, a także sumę liczby uczniów i uczestników zajęć rewalidacyjno-wychowawczych w pięcioletnich technikach i klasach dotychczasowego czteroletniego technikum prowadzonych w pięcioletnich technikach.
+**Art. 329.** W latach 2019–2023 przez podstawową kwotę dotacji, o której mowa w art. 78b ust. 3 ustawy zmienianej w art. 15, dla czteroletnich liceów ogólnokształcących i klas dotychczasowego trzyletniego liceum ogólnokształcącego prowadzonych w czteroletnich liceach ogólnokształcących, danego rodzaju, należy rozumieć kwotę wydatków bieżących zaplanowanych na prowadzenie przez jednostkę samorządu terytorialnego czteroletnich liceów ogólnokształcących i klas dotychczasowego trzyletniego liceum ogólnokształcącego w czteroletnich liceach ogólnokształcących, danego rodzaju, pomniejszonych o:
 
-**Art. 331.** W roku 2017 przez podstawową kwotę dotacji, o której mowa w art. 78b ust. 3 ustawy zmienianej w art. 15, dla branżowych szkół I stopnia i klas dotychczasowej zasadniczej szkoły zawodowej prowadzonych w branżowych szkołach I stopnia, danego rodzaju, należy rozumieć kwotę wydatków bieżących zaplanowanych na prowadzenie przez jednostkę samorządu terytorialnego branżowych szkół I stopnia i klas dotychczasowej zasadniczej szkoły zawodowej prowadzonych w branżowych szkołach I stopnia, danego rodzaju, pomniejszonych o:
+- **1)** zaplanowane na rok budżetowy w budżecie jednostki samorządu terytorialnego opłaty za wyżywienie w tych czteroletnich liceach ogólnokształcących i klasach dotychczasowego trzyletniego liceum ogólnokształcącego w czteroletnich liceach ogólnokształcących, stanowiące dochody budżetu jednostki samorządu terytorialnego,
+- **2)** sumę iloczynów odpowiednich kwot przewidzianych w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego na uczniów niepełnosprawnych, niedostosowanych społecznie lub zagrożonych niedostosowaniem społecznym w czteroletnich liceach ogólnokształcących i klasach dotychczasowego trzyletniego liceum ogólnokształcącego w czteroletnich liceach ogólnokształcących, danego rodzaju, posiadających orzeczenie o potrzebie kształcenia specjalnego, o którym mowa w art. 127 ust. 10 ustawy – Prawo oświatowe, wydane ze względu na odpowiednie rodzaje niepełnosprawności, niedostosowanie społeczne lub zagrożenie niedostosowaniem społecznym, oraz statystycznej liczby tych uczniów w tych czteroletnich liceach ogólnokształcących i klasach dotychczasowego trzyletniego liceum ogólnokształcącego w czteroletnich liceach ogólnokształcących, z wyłączeniem uczniów szkół specjalnych,
+- **3)** zaplanowane na rok budżetowy w budżecie jednostki samorządu terytorialnego wydatki bieżące finansowane z użyciem środków pochodzących z budżetu Unii Europejskiej na prowadzenie tych czteroletnich liceów ogólnokształcących i klas dotychczasowego trzyletniego liceum ogólnokształcącego w czteroletnich liceach ogólnokształcących,
+- **4)** iloczyn kwoty przewidzianej w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego na uczestnika zajęć rewalidacyjno-wychowawczych w czteroletnich liceach ogólnokształcących i klasach dotychczasowego trzyletniego liceum ogólnokształcącego w czteroletnich liceach ogólnokształcących, danego rodzaju, posiadającego orzeczenie o potrzebie zajęć rewalidacyjno-wychowawczych, o którym mowa w art. 127 ust. 10 ustawy – Prawo oświatowe, oraz statystycznej liczby uczestników zajęć rewalidacyjno-wychowawczych w tych czteroletnich liceach ogólnokształcących i klasach dotychczasowego trzyletniego liceum ogólnokształcącego w czteroletnich liceach ogólnokształcących,
+- **5)** zaplanowane na rok budżetowy w budżecie jednostki samorządu terytorialnego wydatki bieżące na finansowanie działalności internatów w tych czteroletnich liceach ogólnokształcących i klasach dotychczasowego trzyletniego liceum ogólnokształcącego w czteroletnich liceach ogólnokształcących,
+- **6)** zaplanowane na rok budżetowy w budżecie jednostki samorządu terytorialnego wydatki bieżące na programy, o których mowa w art. 90u ustawy zmienianej w art. 15, w tych czteroletnich liceach ogólnokształcących i klasach dotychczasowego trzyletniego liceum ogólnokształcącego w czteroletnich liceach ogólnokształcących i podzielonych przez statystyczną liczbę uczniów w tych czteroletnich liceach ogólnokształcących i klasach dotychczasowego trzyletniego liceum ogólnokształcącego w czteroletnich liceach ogólnokształcących, pomniejszoną, w przypadku szkół niebędących szkołami specjalnymi, o statystyczną liczbę uczniów niepełnosprawnych, niedostosowanych społecznie lub zagrożonych niedostosowaniem społecznym w tych czteroletnich liceach ogólnokształcących i klasach dotychczasowego trzyletniego liceum ogólnokształcącego w czteroletnich liceach ogólnokształcących, posiadających orzeczenie o potrzebie kształcenia specjalnego, o którym mowa w art. 127 ust. 10 ustawy – Prawo oświatowe, wydane ze względu na odpowiednie rodzaje niepełnosprawności, niedostosowanie społeczne lub zagrożenie niedostosowaniem społecznym.
+
+**Art. 330.** W latach 2019–2023 przez podstawową kwotę dotacji, o której mowa w art. 78b ust. 3 ustawy zmienianej w art. 15, dla pięcioletnich techników i klas dotychczasowego czteroletniego technikum prowadzonych w pięcioletnich technikach, danego rodzaju, należy rozumieć kwotę wydatków bieżących zaplanowanych na prowadzenie przez jednostkę samorządu terytorialnego pięcioletnich techników i klas dotychczasowego czteroletniego technikum prowadzonych w pięcioletnich technikach, danego rodzaju, pomniejszonych o:
+
+- **1)** zaplanowane na rok budżetowy w budżecie jednostki samorządu terytorialnego opłaty za wyżywienie w tych pięcioletnich technikach i klasach dotychczasowego czteroletniego technikum prowadzonych w pięcioletnich technikach, stanowiące dochody budżetu jednostki samorządu terytorialnego,
+- **2)** sumę iloczynów odpowiednich kwot przewidzianych w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego na uczniów niepełnosprawnych, niedostosowanych społecznie lub zagrożonych niedostosowaniem społecznym w pięcioletnich technikach i klasach dotychczasowego czteroletniego technikum prowadzonych w pięcioletnich technikach, danego rodzaju, posiadających orzeczenie o potrzebie kształcenia specjalnego, o którym mowa w art. 127 ust. 10 ustawy – Prawo oświatowe, wydane ze względu na odpowiednie rodzaje niepełnosprawności, niedostosowanie społeczne lub zagrożenie niedostosowaniem społecznym, oraz statystycznej liczby tych uczniów w tych pięcioletnich technikach i klasach dotychczasowego czteroletniego technikum prowadzonych w pięcioletnich technikach, z wyłączeniem uczniów szkół specjalnych,
+- **3)** zaplanowane na rok budżetowy w budżecie jednostki samorządu terytorialnego wydatki bieżące finansowane z użyciem środków pochodzących z budżetu Unii Europejskiej na prowadzenie tych pięcioletnich techników i klas dotychczasowego czteroletniego technikum prowadzonych w pięcioletnich technikach,
+- **4)** iloczyn kwoty przewidzianej w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego na uczestnika zajęć rewalidacyjno-wychowawczych w pięcioletnich technikach i klasach dotychczasowego czteroletniego technikum prowadzonych w pięcioletnich technikach, danego rodzaju, posiadającego orzeczenie o potrzebie zajęć rewalidacyjno-wychowawczych, o którym mowa w art. 127 ust. 10 ustawy – Prawo oświatowe, oraz statystycznej liczby uczestników zajęć rewalidacyjno-wychowawczych w tych pięcioletnich technikach i klasach dotychczasowego czteroletniego technikum prowadzonych w pięcioletnich technikach,
+- **5)** zaplanowane na rok budżetowy w budżecie jednostki samorządu terytorialnego wydatki bieżące na finansowanie działalności internatów w tych pięcioletnich technikach i klasach dotychczasowego czteroletniego technikum prowadzonych w pięcioletnich technikach,
+- **6)** zaplanowane na rok budżetowy w budżecie jednostki samorządu terytorialnego wydatki bieżące na programy, o których mowa w art. 90u ustawy zmienianej w art. 15, w tych pięcioletnich technikach i klasach dotychczasowego czteroletniego technikum prowadzonych w pięcioletnich technikach i podzielonych przez statystyczną liczbę uczniów w tych pięcioletnich technikach i klasach dotychczasowego czteroletniego technikum prowadzonych w pięcioletnich technikach, pomniejszoną, w przypadku szkół niebędących szkołami specjalnymi, o statystyczną liczbę uczniów niepełnosprawnych, niedostosowanych społecznie lub zagrożonych niedostosowaniem społecznym w tych pięcioletnich technikach i klasach dotychczasowego czteroletniego technikum prowadzonych w pięcioletnich technikach, posiadających orzeczenie o potrzebie kształcenia specjalnego, o którym mowa w art. 127 ust. 10 ustawy – Prawo oświatowe, wydane ze względu na odpowiednie rodzaje niepełnosprawności, niedostosowanie społeczne lub zagrożenie niedostosowaniem społecznym.
+
+**Art. 331.** W latach 2017–2019 przez podstawową kwotę dotacji, o której mowa w art. 78b ust. 3 ustawy zmienianej w art. 15, dla branżowych szkół I stopnia i klas dotychczasowej zasadniczej szkoły zawodowej prowadzonych w branżowych szkołach I stopnia, danego rodzaju, należy rozumieć kwotę wydatków bieżących zaplanowanych na prowadzenie przez jednostkę samorządu terytorialnego branżowych szkół I stopnia i klas dotychczasowej zasadniczej szkoły zawodowej prowadzonych w branżowych szkołach I stopnia, danego rodzaju, pomniejszonych o:
+
+- **1)** zaplanowane na rok budżetowy w budżecie jednostki samorządu terytorialnego opłaty za wyżywienie w tych branżowych szkołach I stopnia i klasach dotychczasowej zasadniczej szkoły zawodowej prowadzonych w branżowych szkołach I stopnia, stanowiące dochody budżetu jednostki samorządu terytorialnego,
+- **2)** sumę iloczynów odpowiednich kwot przewidzianych w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego na uczniów niepełnosprawnych, niedostosowanych społecznie lub zagrożonych niedostosowaniem społecznym w branżowych szkołach I stopnia i klasach dotychczasowej zasadniczej szkoły zawodowej prowadzonych w branżowych szkołach I stopnia, danego rodzaju, posiadających orzeczenie o potrzebie kształcenia specjalnego, o którym mowa w art. 127 ust. 10 ustawy – Prawo oświatowe, wydane ze względu na odpowiednie rodzaje niepełnosprawności, niedostosowanie społeczne lub zagrożenie niedostosowaniem społecznym, oraz statystycznej liczby tych uczniów w tych branżowych szkołach I stopnia i klasach dotychczasowej zasadniczej szkoły zawodowej prowadzonych w tych szkołach, z wyłączeniem uczniów szkół specjalnych,
+- **3)** zaplanowane na rok budżetowy w budżecie jednostki samorządu terytorialnego wydatki bieżące finansowane z użyciem środków pochodzących z budżetu Unii Europejskiej na prowadzenie tych branżowych szkół I stopnia i klas dotychczasowej zasadniczej szkoły zawodowej prowadzonych w branżowych szkołach I stopnia,
+- **4)** iloczyn kwoty przewidzianej w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego na uczestnika zajęć rewalidacyjno-wychowawczych w branżowych szkołach I stopnia i klasach dotychczasowej zasadniczej szkoły zawodowej prowadzonych w branżowych szkołach I stopnia, danego rodzaju, posiadającego orzeczenie o potrzebie zajęć rewalidacyjno-wychowawczych, o którym mowa w art. 127 ust. 10 ustawy – Prawo oświatowe, oraz statystycznej liczby uczestników zajęć rewalidacyjno-wychowawczych w tych branżowych szkołach I stopnia i klasach dotychczasowej zasadniczej szkoły zawodowej prowadzonych w tych szkołach,
+- **5)** zaplanowane na rok budżetowy w budżecie jednostki samorządu terytorialnego wydatki bieżące na finansowanie działalności internatów w tych branżowych szkołach I stopnia i klasach dotychczasowej zasadniczej szkoły zawodowej prowadzonych w tych szkołach,
+- **6)** zaplanowane na rok budżetowy w budżecie jednostki samorządu terytorialnego wydatki bieżące na programy, o których mowa w art. 90u ustawy zmienianej w art. 15, w tych branżowych szkołach I stopnia i klasach dotychczasowej zasadniczej szkoły zawodowej prowadzonych w tych szkołach i podzielonych przez statystyczną liczbę uczniów w tych branżowych szkołach I stopnia i klasach dotychczasowej zasadniczej szkoły zawodowej prowadzonych w branżowych szkołach I stopnia, pomniejszoną, w przypadku szkół niebędących szkołami specjalnymi, o statystyczną liczbę uczniów niepełnosprawnych, niedostosowanych społecznie lub zagrożonych niedostosowaniem społecznym w tych branżowych szkołach I stopnia i klasach dotychczasowej zasadniczej szkoły zawodowej prowadzonych w branżowych szkołach I stopnia, posiadających orzeczenie o potrzebie kształcenia specjalnego, o którym mowa w art. 127 ust. 10 ustawy – Prawo oświatowe, wydane ze względu na odpowiednie rodzaje niepełnosprawności, niedostosowanie społeczne lub zagrożenie niedostosowaniem społecznym.
 
 **Art. 332.**
 
-1. W przypadku przekształcenia dotychczasowego gimnazjum albo włączenia dotychczasowego gimnazjum do szkoły podstawowej, liceum ogólnokształcącego, technikum albo branżowej szkoły I stopnia, o którym mowa w art. 129 ust. 1 i 3, art. 182 ust. 1, art. 200 ust. 1 i art. 201 ust. 1–3 dotacje, o których mowa w art. 80 ust. 3 i 3ab–3ae oraz art. 90 ust. 2a, 3 i 3ab–3ad ustawy zmienianej w art. 15, przyznane dotychczasowym gimnazjom, od dnia przekształcenia dotychczasowego gimnazjum odpowiednio w szkołę podstawową, liceum ogólnokształcące, technikum lub branżową szkołę I stopnia lub włączenia gimnazjum do szkoły podstawowej, liceum ogólnokształcącego, technikum lub branżowej szkoły I stopnia, przysługują na uczniów klas dotychczasowego gimnazjum, z zastrzeżeniem art. 101 ustawy o finansowaniu zadań oświatowych.
+1. W przypadku przekształcenia dotychczasowego gimnazjum albo włączenia dotychczasowego gimnazjum do szkoły podstawowej, liceum ogólnokształcącego, technikum albo branżowej szkoły I stopnia, o którym mowa w art. 129 ust. 1 i 3, art. 182 ust. 1, art. 200 ust. 1 i art. 201 ust. 1–3 dotacje, o których mowa w art. 80 ust. 3 i 3ab-3ae oraz art. 90 ust. 2a, 3 i 3ab-3ad ustawy zmienianej w art. 15, przyznane dotychczasowym gimnazjom, od dnia przekształcenia dotychczasowego gimnazjum odpowiednio w szkołę podstawową, liceum ogólnokształcące, technikum lub branżową szkołę I stopnia lub włączenia gimnazjum do szkoły podstawowej, liceum ogólnokształcącego, technikum lub branżowej szkoły I stopnia, przysługują na uczniów klas dotychczasowego gimnazjum.
 
-2. W przypadku przekształcenia dotychczasowego gimnazjum albo włączenia dotychczasowego gimnazjum do szkoły podstawowej, liceum ogólnokształcącego, technikum albo branżowej szkoły I stopnia, o którym mowa w art. 129 ust. 1 i 3, art. 182 ust. 1, art. 200 ust. 1 i art. 201 ust. 1–3 w roku kalendarzowym, w którym nastąpiło przekształcenie dotychczasowego gimnazjum odpowiednio w szkołę podstawową, liceum ogólnokształcące, technikum lub branżową szkołę I stopnia lub włączenie dotychczasowego gimnazjum do szkoły podstawowej, liceum ogólnokształcącego, technikum lub branżowej szkoły I stopnia, organem udzielającym dotacji, o której mowa w art. 80 ust. 3 i 3ab–3ae oraz art. 90 ust. 2a, 3 i 3ab–3ad ustawy zmienianej w art. 15, na uczniów klas dotychczasowego gimnazjum jest organ, który odpowiednio wydał zezwolenie na założenie dotychczasowego gimnazjum albo dokonał wpisu dotychczasowego gimnazjum do ewidencji szkół niepublicznych, z zastrzeżeniem art. 101 ustawy o finansowaniu zadań oświatowych.
+2. W przypadku przekształcenia dotychczasowego gimnazjum albo włączenia dotychczasowego gimnazjum do szkoły podstawowej, liceum ogólnokształcącego, technikum albo branżowej szkoły I stopnia, o którym mowa w art. 129 ust. 1 i 3, art. 182 ust. 1, art. 200 ust. 1 i art. 201 ust. 1–3 w roku kalendarzowym, w którym nastąpiło przekształcenie dotychczasowego gimnazjum odpowiednio w szkołę podstawową, liceum ogólnokształcące, technikum lub branżową szkołę I stopnia lub włączenie dotychczasowego gimnazjum do szkoły podstawowej, liceum ogólnokształcącego, technikum lub branżowej szkoły I stopnia, organem udzielającym dotacji, o której mowa w art. 80 ust. 3 i 3ab-3ae oraz art. 90 ust. 2a, 3 i 3ab-3ad ustawy zmienianej w art. 15, na uczniów klas dotychczasowego gimnazjum jest organ, który odpowiednio wydał zezwolenie na założenie dotychczasowego gimnazjum albo dokonał wpisu dotychczasowego gimnazjum do ewidencji szkół niepublicznych.
 
-3. W przypadku przekształcenia dotychczasowego gimnazjum albo włączenia dotychczasowego gimnazjum do szkoły podstawowej, liceum ogólnokształcącego, technikum albo branżowej szkoły I stopnia, o którym mowa w art. 129 ust. 1 i 3, art. 182 ust. 1, art. 200 ust. 1 i art. 201 ust. 1–3 w roku kalendarzowym, innym niż wymieniony w ust. 2, organem udzielającym dotacji, o której mowa w art. 80 ust. 3 i 3ab–3ae oraz art. 90 ust. 2a, 3 i 3ab–3ad ustawy zmienianej w art. 15, na uczniów klas dotychczasowego gimnazjum jest organ, który dokonał zmiany zezwolenia zgodnie z art. 132 i art. 139 ust. 11, albo zmiany wpisu do ewidencji szkół niepublicznych zgodnie z art. 136 i art. 142 ust. 10, z zastrzeżeniem art. 101 ustawy o finansowaniu zadań oświatowych.
+3. W przypadku przekształcenia dotychczasowego gimnazjum albo włączenia dotychczasowego gimnazjum do szkoły podstawowej, liceum ogólnokształcącego, technikum albo branżowej szkoły I stopnia, o którym mowa w art. 129 ust. 1 i 3, art. 182 ust. 1, art. 200 ust. 1 i art. 201 ust. 1–3 w roku kalendarzowym, innym niż wymieniony w ust. 2, organem udzielającym dotacji, o której mowa w art. 80 ust. 3 i 3ab-3ae oraz art. 90 ust. 2a, 3 i 3ab-3ad ustawy zmienianej w art. 15, na uczniów klas dotychczasowego gimnazjum jest organ, który dokonał zmiany zezwolenia zgodnie z art. 132 i art. 139 ust. 11, albo zmiany wpisu do ewidencji szkół niepublicznych zgodnie z art. 136 i art. 142 ust. 10.
 
-4. Organ udzielający dotacji, o którym mowa w ust. 3, oblicza wysokość dotacji na podstawie podstawowej kwoty dotacji, o której mowa w art. 78b ust. 3 ustawy zmienianej w art. 15, określonej przez jednostkę samorządu terytorialnego, która odpowiednio wydała zezwolenie na założenie dotychczasowego gimnazjum, które zostało przekształcone odpowiednio w szkołę podstawową, liceum ogólnokształcące, technikum lub branżową szkołę I stopnia lub włączone do szkoły podstawowej, liceum ogólnokształcącego, technikum lub branżowej szkoły I stopnia albo dokonała wpisu tego gimnazjum do ewidencji szkół niepublicznych, z zastrzeżeniem art. 101 ustawy o finansowaniu zadań oświatowych.
+4. Organ udzielający dotacji, o którym mowa w ust. 3, oblicza wysokość dotacji na podstawie podstawowej kwoty dotacji, o której mowa w art. 78b ust. 3 ustawy zmienianej w art. 15, określonej przez jednostkę samorządu terytorialnego, która odpowiednio wydała zezwolenie na założenie dotychczasowego gimnazjum, które zostało przekształcone odpowiednio w szkołę podstawową, liceum ogólnokształcące, technikum lub branżową szkołę I stopnia lub włączone do szkoły podstawowej, liceum ogólnokształcącego, technikum lub branżowej szkoły I stopnia albo dokonała wpisu tego gimnazjum do ewidencji szkół niepublicznych.
 
-5. W przypadku przekształcenia dotychczasowego gimnazjum albo włączenia dotychczasowego gimnazjum do szkoły podstawowej, liceum ogólnokształcącego, technikum albo branżowej szkoły I stopnia, o którym mowa w art. 129 ust. 1 i 3, art. 182 ust. 1, art. 200 ust. 1 i art. 201 ust. 1–3 dotację, o której mowa w art. 80 ust. 2c–3, 3ab– 3ae i 8 oraz art. 90 ust. 1a, 1ba, 2a, 2ea, 2ec, 3, 3ab–3ad i 8, ustawy zmienianej w art. 15, przyznaje się odpowiednio szkole podstawowej, liceum ogólnokształcącemu, technikum i branżowej szkole I stopnia od dnia rozpoczęcia działalności, określonego zgodnie z art. 129 ust. 2 i 4–6, z zastrzeżeniem art. 101 ustawy o finansowaniu zadań oświatowych.
+5. W przypadku przekształcenia dotychczasowego gimnazjum albo włączenia dotychczasowego gimnazjum do szkoły podstawowej, liceum ogólnokształcącego, technikum albo branżowej szkoły I stopnia, o którym mowa w art. 129 ust. 1 i 3, art. 182 ust. 1, art. 200 ust. 1 i art. 201 ust. 1–3 dotację, o której mowa w art. 80 ust. 2c-3, 3ab- 3ae i 8 oraz art. 90 ust. 1a, 1ba, 2a, 2ea, 2ec, 3, 3ab-3ad i 8, ustawy zmienianej w art. 15, przyznaje się odpowiednio szkole podstawowej, liceum ogólnokształcącemu, technikum i branżowej szkole I stopnia od dnia rozpoczęcia działalności, określonego zgodnie z art. 129 ust. 2 i 4–6.
 
-6. W przypadkach, o których mowa w ust. 1–5, przepisy art. 78a–78e, art. 80 i art. 89b–90 ustawy zmienianej w art. 15, stosuje się odpowiednio, z zastrzeżeniem art. 101 ustawy o finansowaniu zadań oświatowych.
+6. W przypadkach, o których mowa w ust. 1–5, przepisy art. 78a-78e, art. 80 i art. 89b-90 ustawy zmienianej w art. 15, stosuje się odpowiednio.
 
 **Art. 333.**
 
@@ -2540,9 +4041,9 @@ source: "isap-pdf"
 - **2)** statut odpowiednio niepublicznej ośmioletniej szkoły podstawowej albo niepublicznej branżowej szkoły I stopnia, dostosowany do przepisów ustawy – Prawo oświatowe;
 - **3)** zobowiązanie do przestrzegania wymagań określonych w art. 14 ust. 3 ustawy – Prawo oświatowe;
 - **4)** informację o miejscu prowadzenia szkoły;
-- **5)** zobowiązanie do zapewnienia warunków lokalowych umożliwiających:
-    - **a)** prowadzenie zajęć dydaktyczno-wychowawczych,
-    - **b)** realizację innych zadań statutowych;
+- **5)** zobowiązanie do zapewnienia warunków lokalowych umożliwiających: prowadzenie zajęć dydaktyczno-wychowawczych, realizację innych zadań statutowych;
+    - **a)**
+    - **b)**
 
 - **6)** zobowiązanie do zapewnienia bezpiecznych i higienicznych warunków nauki, wychowania i opieki.
 
@@ -2553,7 +4054,7 @@ source: "isap-pdf"
 1. Wykazy, o których mowa w art. 22ap ustawy zmienianej w art. 15, prowadzi się odrębnie dla podręczników dopuszczonych do użytku szkolnego uwzględniających podstawę programową kształcenia ogólnego określoną w przepisach wydanych na podstawie:
 
 - **1)** art. 22 ust. 2 pkt 2 lit. b ustawy zmienianej w art. 15, w brzmieniu dotychczasowym;
-- **2)** art. 47 ust. 1 pkt 1 lit. b–h ustawy – Prawo oświatowe.
+- **2)** art. 47 ust. 1 pkt 1 lit. b-h ustawy – Prawo oświatowe.
 
 2. Wykazy, o których mowa w art. 22ap ustawy zmienianej w art. 15, prowadzi się odrębnie dla podręczników dopuszczonych do użytku szkolnego uwzgledniających podstawę programową kształcenia w zawodach określoną w przepisach wydanych na podstawie:
 
@@ -2570,31 +4071,31 @@ source: "isap-pdf"
 - **2)** klasy II i V dotychczasowej sześcioletniej szkoły podstawowej – wygasają z dniem 31 sierpnia 2018 r.,
 - **3)** klasy III i VI dotychczasowej sześcioletniej szkoły podstawowej – wygasają z dniem 31 sierpnia 2019 r.,
 - **4)** dotychczasowego gimnazjum – wygasają z dniem 29 lutego 2020 r.,
-- **5)** szkoły ponadgimnazjalnej, o której mowa w art. 9 ust. 1 pkt 3 lit. a ustawy zmienianej w art. 15, w brzmieniu dotychczasowym – wygasają z dniem 31 sierpnia 2022 r.,
+- **5)** szkoły ponadgimnazjalnej, o której mowa w art. 9 ust. 1 pkt 3 lit. a ustawy zmienianej w art. 15, w brzmieniu dotychczasowym – wygasają z dniem 29 lutego 2020 r.,
 - **6)** szkół ponadgimnazjalnych, o których mowa w art. 9 ust. 1 pkt 3 lit. b i c ustawy zmienianej w art. 15, w brzmieniu dotychczasowym – wygasają z dniem 31 sierpnia 2023 r.,
-- **7)** szkoły ponadgimnazjalnej, o której mowa w art. 9 ust. 1 pkt 3 lit. d ustawy zmienianej w art. 15, w brzmieniu dotychczasowym – wygasają z dniem 31 sierpnia 2019 r. – z wyjątkiem podręczników do kształcenia specjalnego i podręczników do kształcenia uczniów w zakresie niezbędnym do podtrzymywania poczucia tożsamości narodowej, etnicznej i językowej.
+- **7)** szkoły ponadgimnazjalnej, o której mowa w art. 9 ust. 1 pkt 3 lit. d ustawy zmienianej w art. 15, w brzmieniu dotychczasowym – wygasają z dniem 31 sierpnia 2019 r. z wyjątkiem podręczników do kształcenia specjalnego i podręczników do kształcenia uczniów w zakresie niezbędnym do podtrzymywania poczucia tożsamości narodowej, etnicznej i językowej.
 
 6. Do postępowań wszczętych i niezakończonych, przed dniem 15 lutego 2017 r., w sprawach o dopuszczenie do użytku szkolnego podręczników do:
 
 - **1)** danych zajęć edukacyjnych z zakresu kształcenia ogólnego w dotychczasowej sześcioletniej szkole podstawowej, dotychczasowym gimnazjum i szkołach ponadgimnazjalnych, uwzględniających podstawę programową kształcenia ogólnego określoną w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2 lit. b ustawy zmienianej w art. 15,
-- **2)** kształcenia w zawodach w szkołach ponadgimnazjalnych, uwzględniających podstawę programową kształcenia w zawodach, określoną w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a ustawy zmienianej w art. 15 – stosuje się odpowiednio przepisy art. 22an, art. 22ao, art. 22aq, art. 22at, art. 22au i art. 22av w brzmieniu dotychczasowym, oraz przepisy wydane na podstawie art. 22aw ustawy zmienianej w art. 15, w brzmieniu przed dniem 15 lutego 2017 r.
+- **2)** kształcenia w zawodach w szkołach ponadgimnazjalnych, uwzględniających podstawę programową kształcenia w zawodach, określoną w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a ustawy zmienianej w art. 15 stosuje się odpowiednio przepisy art. 22an, art. 22ao, art. 22aq, art. 22at, art. 22au i art. 22av w brzmieniu dotychczasowym, oraz przepisy wydane na podstawie art. 22aw ustawy zmienianej w art. 15, w brzmieniu przed dniem 15 lutego 2017 r.
 
 7. Do postępowań wszczętych, po dniu 15 lutego 2017 r., w sprawach o dopuszczenie do użytku szkolnego podręczników do:
 
 - **1)** danych zajęć edukacyjnych z zakresu kształcenia ogólnego w dotychczasowej sześcioletniej szkole podstawowej, dotychczasowym gimnazjum i szkołach ponadgimnazjalnych, uwzględniających podstawę programową kształcenia ogólnego określoną w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2 lit. b ustawy zmienianej w art. 15,
-- **2)** kształcenia w zawodach w szkołach ponadgimnazjalnych, uwzględniających podstawę programową kształcenia w zawodach, określoną w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a ustawy zmienianej w art. 15 – stosuje się odpowiednio przepisy art. 22an, art. 22ao, art. 22aq, art. 22at, art. 22au i art. 22av w brzmieniu dotychczasowym, oraz przepisy wydane na podstawie art. 22aw ustawy zmienianej w art. 15, w brzmieniu przed dniem 15 lutego 2017 r.
+- **2)** kształcenia w zawodach w szkołach ponadgimnazjalnych, uwzględniających podstawę programową kształcenia w zawodach, określoną w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a ustawy zmienianej w art. 15 stosuje się odpowiednio przepisy art. 22an, art. 22ao, art. 22aq, art. 22at, art. 22au i art. 22av w brzmieniu dotychczasowym, oraz przepisy wydane na podstawie art. 22aw ustawy zmienianej w art. 15, w brzmieniu przed dniem 15 lutego 2017 r.
 
 8. Postępowania w sprawach o dopuszczenie do użytku szkolnego podręczników do danych zajęć edukacyjnych z zakresu kształcenia ogólnego, o których mowa w ust. 6 pkt 1 i ust. 7 pkt 1, są prowadzone:
 
-- **1)** w przypadku dotychczasowej sześcioletniej szkoły podstawowej:
-    - **a)** do klas I i IV – do dnia 15 lutego 2017 r.,
-    - **b)** do klas II i V – do dnia 15 lutego 2018 r.,
-    - **c)** do klas III i VI – do dnia 15 lutego 2019 r.,
+- **1)** w przypadku dotychczasowej sześcioletniej szkoły podstawowej: do klas I i IV – do dnia 15 lutego 2017 r., do klas II i V – do dnia 15 lutego 2018 r., do klas III i VI – do dnia 15 lutego 2019 r.,
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **2)** w przypadku dotychczasowego gimnazjum – do dnia 15 lutego 2019 r.,
 - **3)** w przypadku szkoły ponadgimnazjalnej, o której mowa w art. 9 ust. 1 pkt 3 lit. a ustawy zmienianej w art. 15, w brzmieniu dotychczasowym – do dnia 15 lutego 2019 r.,
 - **4)** w przypadku szkół ponadgimnazjalnych, o których mowa w art. 9 ust. 1 pkt 3 lit. b i c ustawy zmienianej w art. 15, w brzmieniu dotychczasowym – do dnia 15 lutego 2023 r.,
-- **5)** w przypadku szkoły ponadgimnazjalnej, o której mowa w art. 9 ust. 1 pkt 3 lit. d ustawy zmienianej w art. 15, w brzmieniu dotychczasowym – do dnia 15 lutego 2019 r. – z wyjątkiem podręczników do kształcenia specjalnego i podręczników do kształcenia uczniów w zakresie niezbędnym do podtrzymywania poczucia tożsamości narodowej, etnicznej i językowej.
+- **5)** w przypadku szkoły ponadgimnazjalnej, o której mowa w art. 9 ust. 1 pkt 3 lit. d ustawy zmienianej w art. 15, w brzmieniu dotychczasowym – do dnia 15 lutego 2019 r. z wyjątkiem podręczników do kształcenia specjalnego i podręczników do kształcenia uczniów w zakresie niezbędnym do podtrzymywania poczucia tożsamości narodowej, etnicznej i językowej.
 
 9. Postępowania w sprawach o dopuszczenie do użytku szkolnego podręczników do kształcenia w zawodach, o których mowa w ust. 6 pkt 2 i ust. 7 pkt 2, są prowadzone do dnia 31 grudnia 2018 r.
 
@@ -2602,37 +4103,177 @@ source: "isap-pdf"
 
 11. Podręczniki do danych zajęć z zakresu kształcenia ogólnego w ośmioletniej szkole podstawowej oraz szkołach ponadpodstawowych, uwzględniające podstawę programową kształcenia ogólnego określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 ustawy – Prawo oświatowe dopuszcza się na podstawie przepisów ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą, przepisów wydanych na podstawie art. 22aw ustawy zmienianej w art. 15, w brzmieniu po dniu 15 lutego 2017 r.
 
-12. (uchylony)
+12. Podręczniki do kształcenia w zawodach w szkołach ponadgimnazjalnych i szkołach ponadpodstawowych, uwzględniające podstawę programową kształcenia w zawodach określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy – Prawo oświatowe dopuszcza się na podstawie przepisów ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą, oraz przepisów wydanych na podstawie art. 22aw ustawy zmienianej w art. 15, w brzmieniu po dniu 15 lutego 2017 r.
 
-**Art. 338.** (uchylony)
+**Art. 338.**
 
-**Art. 339.** (uchylony)
+1. Prawo do bezpłatnego dostępu do podręczników, materiałów edukacyjnych i materiałów ćwiczeniowych, o którym mowa w art. 22ac ust. 1 ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą, uczniowie szkół podstawowych uzyskują, począwszy od roku szkolnego:
 
-**Art. 340.** (uchylony)
+- **1)** 2017/2018 – uczniowie klas I, IV i VII;
+- **2)** 2018/2019 – uczniowie klas II, V i VIII;
+- **3)** 2019/2020 – uczniowie klasy III i VI.
 
-**Art. 341.** (uchylony)
+2. Prawo do bezpłatnego dostępu do podręczników, materiałów edukacyjnych i materiałów ćwiczeniowych, o którym mowa w art. 22ac ust. 1 ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą, mają również w roku szkolnym:
+
+- **1)** 2016/2017 – uczniowie klas I-V szkoły podstawowej;
+- **2)** 2017/2018 – uczniowie klas II, III, V i VI szkoły podstawowej;
+- **3)** 2018/2019 – uczniowie klasy III i VI szkoły podstawowej.
+
+3. Prawo do bezpłatnego dostępu do podręczników, materiałów edukacyjnych lub materiałów ćwiczeniowych, o którym mowa w art. 22ac ust. 1 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, do dnia 31 sierpnia 2019 r. przysługuje także uczniom dotychczasowych gimnazjów oraz uczniom klas dotychczasowych gimnazjów, o których mowa w art. 129 ust. 8.
+
+4. Do dotychczasowych gimnazjów, o których mowa w art. 127, klas dotychczasowych gimnazjów, o których mowa w art. 129 ust. 8 oraz szkół ponadgimnazjalnych, stosuje się odpowiednio przepisy art. 22aa-22af, art. 22ai-22am i art. 22ax-22b oraz przepisy wydane na podstawie art. 22aga ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, a także przepisy wydane na podstawie art. 22ag i art. 22ah ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą, aż do czasu zakończenia kształcenia odpowiednio w dotychczasowym gimnazjum lub dotychczasowej szkole ponadgimnazjalnej.
+
+5. Przepis ust. 1–3 oraz przepis art. 85b ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, stosuje się odpowiednio do niepublicznych szkół podstawowych i dotychczasowych niepublicznych gimnazjów.
+
+**Art. 339.**
+
+1. Na lata szkolne 2016/2017–2018/2019 wyposażenie szkół podstawowych w podręczniki do zajęć z zakresu edukacji: polonistycznej, matematycznej, przyrodniczej i społecznej odpowiednio dla klas I-III, o których mowa w art. 22ad ust. 1 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, w roku szkolnym:
+
+- **1)** 2016/2017 – dla klas I-III,
+- **2)** 2017/2018 – dla klas II i III,
+- **3)** 2018/2019 – dla klasy III zapewnia minister właściwy do spraw oświaty i wychowania. Przepisy art. 22ak i art. 22am ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą, a także art. 22al, art. 22ax i art. 22ay ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, stosuje się.
+
+2. Na lata szkolne 2016/2017–2018/2019 w przypadku niepublicznej szkoły podstawowej lub niepublicznej szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej, wyposażenie tych szkół w podręczniki do zajęć z zakresu edukacji: polonistycznej, matematycznej, przyrodniczej i społecznej odpowiednio dla klas I-III, o których mowa w art. 22ad ust. 1 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, w roku szkolnym:
+
+- **1)** 2016/2017 – dla klas I-III,
+- **2)** 2017/2018 – dla klas II i III,
+- **3)** 2018/2019 – dla klasy III zapewnia minister właściwy do spraw oświaty i wychowania, na wniosek dyrektora szkoły. Przepisy art. 85b ust. 1 i 7 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym stosuje się.
+
+**Art. 340.**
+
+1. Zadanie zlecone z zakresu administracji rządowej, o którym mowa w art. 22ae ust. 1 i 2 ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą oraz art. 85b ust. 3 ustawy zmienianej w art. 15, jest wykonywane przez jednostki samorządu terytorialnego, począwszy od roku:
+
+- **1)** 2017 – w zakresie wyposażenia: szkół podstawowych w podręczniki do zajęć z zakresu edukacji: polonistycznej, matematycznej, przyrodniczej i społecznej, zajęć z zakresu danego języka obcego nowożytnego, lub materiały edukacyjne dla klasy I, szkół podstawowych w podręczniki lub materiały edukacyjne dla klas IV i VII, szkół podstawowych w materiały ćwiczeniowe dla klas I, IV i VII;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** 2018 – w zakresie wyposażenia: szkół podstawowych w podręczniki do zajęć z zakresu edukacji: polonistycznej, matematycznej, przyrodniczej i społecznej, zajęć z zakresu danego języka obcego nowożytnego, lub materiały edukacyjne dla klasy II, szkół podstawowych w podręczniki lub materiały edukacyjne dla klas V i VIII, szkół podstawowych w materiały ćwiczeniowe dla klas II, V i VIII;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **3)** 2019 – w zakresie wyposażenia: szkół podstawowych w podręczniki do zajęć z zakresu edukacji: polonistycznej, matematycznej, przyrodniczej i społecznej, zajęć z zakresu danego języka obcego nowożytnego, lub materiały edukacyjne dla klasy III, szkół podstawowych w podręczniki lub materiały edukacyjne dla klasy VI, szkół podstawowych w materiały ćwiczeniowe dla klas III i VI.
+    - **a)**
+    - **b)**
+    - **c)**
+
+2. Zadanie zlecone z zakresu administracji rządowej, o którym mowa w art. 22ae ust. 1 i 2 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym oraz art. 85b ust. 3 ustawy zmienianej w art. 15, jest wykonywane przez jednostki samorządu terytorialnego, w roku:
+
+- **1)** 2017 – również w zakresie wyposażenia: szkół podstawowych w podręczniki lub materiały edukacyjne dla klas VI, gimnazjów w podręczniki lub materiały edukacyjne dla klasy III, szkół podstawowych w materiały ćwiczeniowe dla klas II, III, V i VI, gimnazjów w materiały ćwiczeniowe dla klas II i III, szkół podstawowych w podręczniki do zajęć z zakresu danego języka obcego nowożytnego, materiały edukacyjne do zajęć z zakresu danego języka obcego nowożytnego lub materiały ćwiczeniowe dla klasy II i III, w zakresie, o którym mowa odpowiednio w art. 22ae ust. 8 i 10b ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, oraz art. 22ae ust. 10 i 10a ustawy zmienianej w art. 15, szkół podstawowych w podręczniki, materiały edukacyjne lub materiały ćwiczeniowe dla klasy V i VI, w zakresie, o którym mowa odpowiednio w art. 22ae ust. 8 i 10b ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, oraz art. 22ae ust. 10 i 10a ustawy zmienianej w art. 15, gimnazjów w podręczniki, materiały edukacyjne lub materiały ćwiczeniowe dla klasy II i III, w zakresie, o którym mowa odpowiednio w art. 22ae ust. 8 i 10b ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, oraz art. 22ae ust. 10 i 10a ustawy zmienianej w art. 15;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+
+- **2)** 2018 – również w zakresie wyposażenia: szkół podstawowych w materiały ćwiczeniowe dla klas III i VI, gimnazjów w materiały ćwiczeniowe dla klasy III, szkół podstawowych w podręczniki do zajęć z zakresu danego języka obcego nowożytnego, materiały edukacyjne do zajęć z zakresu danego języka obcego nowożytnego lub materiały ćwiczeniowe dla klasy III, w zakresie, o którym mowa odpowiednio w art. 22ae ust. 8 i 10b ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, oraz art. 22ae ust. 10 i 10a ustawy zmienianej w art. 15, szkół podstawowych w podręczniki, materiały edukacyjne lub materiały ćwiczeniowe dla klasy VI, w zakresie, o którym mowa odpowiednio w art. 22ae ust. 8 i 10b ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, oraz art. 22ae ust. 10 i 10a ustawy zmienianej w art. 15, gimnazjów w podręczniki, materiały edukacyjne lub materiały ćwiczeniowe dla klasy III, w zakresie, o którym mowa odpowiednio w art. 22ae ust. 8 i 10b ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, oraz art. 22ae ust. 10 i 10a ustawy zmienianej w art. 15.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+**Art. 341.**
+
+1. Dotacja celowa, o której mowa w art. 22ae ust. 3 i art. 85b ust. 3 ustawy zmienianej w art. 15, jest udzielana, począwszy od roku:
+
+- **1)** 2017 – w zakresie wyposażenia: szkół podstawowych w podręczniki do zajęć z zakresu edukacji: polonistycznej, matematycznej, przyrodniczej i społecznej, zajęć z zakresu danego języka obcego nowożytnego, lub materiały edukacyjne dla klasy I, szkół podstawowych w podręczniki lub materiały edukacyjne dla klas IV i VII, szkół podstawowych w materiały ćwiczeniowe dla klas I, IV i VII;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** 2018 – w zakresie wyposażenia: szkół podstawowych w podręczniki do zajęć z zakresu edukacji: polonistycznej, matematycznej, przyrodniczej i społecznej, zajęć z zakresu danego języka obcego nowożytnego, lub materiały edukacyjne dla klasy II, szkół podstawowych w podręczniki lub materiały edukacyjne dla klas V i VIII, szkół podstawowych w materiały ćwiczeniowe dla klas II, V i VIII;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **3)** 2019 – w zakresie wyposażenia: szkół podstawowych w podręczniki do zajęć z zakresu edukacji: polonistycznej, matematycznej, przyrodniczej i społecznej, zajęć z zakresu danego języka obcego nowożytnego, lub materiały edukacyjne dla klasy III, szkół podstawowych w podręczniki lub materiały edukacyjne dla klasy VI, szkół podstawowych w materiały ćwiczeniowe dla klas III i VI.
+    - **a)**
+    - **b)**
+    - **c)**
+
+2. Dotacja celowa, o której mowa w art. 22ae ust. 3 i art. 85b ust. 3 ustawy zmienianej w art. 15, jest udzielana, w roku:
+
+- **1)** 2017 – również w zakresie wyposażenia: szkół podstawowych w podręczniki, materiały edukacyjne lub materiały ćwiczeniowe dla klasy VI, szkół podstawowych w materiały ćwiczeniowe dla klas II, III i V, szkół podstawowych w podręczniki lub materiały edukacyjne dla klas II, III i V w zakresie, o którym mowa w art. 22ae ust. 8 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, gimnazjów w podręczniki, materiały edukacyjne lub materiały ćwiczeniowe dla klasy III, gimnazjów w materiały ćwiczeniowe dla klasy II, gimnazjów w podręczniki lub materiały edukacyjne dla klasy II w zakresie, o którym mowa w art. 22ae ust. 8 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, szkół podstawowych w podręczniki do zajęć z zakresu danego języka obcego nowożytnego, materiały edukacyjne do zajęć z zakresu danego języka obcego nowożytnego lub materiały ćwiczeniowe dla klas I-III, w zakresie, o którym mowa odpowiednio w art. 22ae ust. 10 i 10a ustawy zmienianej w art. 15, oraz art. 22ae ust. 10b ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, szkół podstawowych w podręczniki, materiały edukacyjne lub materiały ćwiczeniowe dla klas IV i V, w zakresie, o którym mowa odpowiednio w art. 22ae ust. 10 i 10a ustawy zmienianej w art. 15, oraz art. 22ae ust. 10b ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, gimnazjów w podręczniki, materiały edukacyjne lub materiały ćwiczeniowe dla klas I i II, w zakresie, o którym mowa odpowiednio w art. 22ae ust. 10 i 10a ustawy zmienianej w art. 15, oraz art. 22ae ust. 10b ustawy zmienianej w art. 15, w brzmieniu dotychczasowym;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+
+- **2)** 2018 – również w zakresie wyposażenia: szkół podstawowych w materiały ćwiczeniowe dla klas III i VI, szkół podstawowych w podręczniki lub materiały edukacyjne dla klas III i VI w zakresie, o którym mowa w art. 22ae ust. 8 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, gimnazjów w materiały ćwiczeniowe dla klasy III, gimnazjów w podręczniki lub materiały edukacyjne dla klasy III w zakresie, o którym mowa w art. 22ae ust. 8 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, szkół podstawowych w podręczniki do zajęć z zakresu danego języka obcego nowożytnego, materiały edukacyjne do zajęć z zakresu danego języka obcego nowożytnego lub materiały ćwiczeniowe dla klasy II i III, w zakresie, o którym mowa odpowiednio w art. 22ae ust. 10 i 10a ustawy zmienianej w art. 15, oraz art. 22ae ust. 10b ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, szkół podstawowych w podręczniki, materiały edukacyjne lub materiały ćwiczeniowe dla klas V i VI, w zakresie, o którym mowa odpowiednio w art. 22ae ust. 10 i 10a ustawy zmienianej w art. 15, oraz art. 22ae ust. 10b ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, gimnazjów w podręczniki, materiały edukacyjne lub materiały ćwiczeniowe dla klasy II i III, w zakresie, o którym mowa odpowiednio w art. 22ae ust. 10 i 10a ustawy zmienianej w art. 15, oraz art. 22ae ust. 10b ustawy zmienianej w art. 15, w brzmieniu dotychczasowym;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+
+- **3)** 2019 – również w zakresie wyposażenia: szkół podstawowych w podręczniki, materiały edukacyjne lub materiały ćwiczeniowe dla klas II, III, V i VI, w zakresie, o którym mowa odpowiednio w art. 22ae ust. 10 i 10a ustawy zmienianej w art. 15, oraz art. 22ae ust. 10b ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, gimnazjów w podręczniki, materiały edukacyjne lub materiały ćwiczeniowe dla klas II i III, w zakresie, o którym mowa odpowiednio w art. 22ae ust. 10 i 10a ustawy zmienianej w art. 15, oraz art. 22ae ust. 10b ustawy zmienianej w art. 15, w brzmieniu dotychczasowym;
+    - **a)**
+    - **b)**
+
+- **4)** 2020 – również w zakresie wyposażenia: szkół podstawowych w podręczniki, materiały edukacyjne lub materiały ćwiczeniowe dla klas III i VI, w zakresie, o którym mowa odpowiednio w art. 22ae ust. 10 i 10a ustawy zmienianej w art. 15, oraz art. 22ae ust. 10b ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, gimnazjów w podręczniki, materiały edukacyjne lub materiały ćwiczeniowe dla klasy III, w zakresie, o którym mowa odpowiednio w art. 22ae ust. 10 i 10a ustawy zmienianej w art. 15, oraz art. 22ae ust. 10b ustawy zmienianej w art. 15, w brzmieniu dotychczasowym.
+    - **a)**
+    - **b)**
+
+3. W przypadkach, o których mowa w ust. 1 i 2, przepis art. 22ae ust. 7a ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio do szkół utworzonych zgodnie z art. 129 ust. 1 pkt 1 i ust. 3 pkt 1, 2 i 9 oraz art. 201 ust. 1 pkt 1, 3 i 5, ust. 2 pkt 1, 3, 5 i 7 oraz ust. 3 pkt 1, 3, 5 i 7.
+
+4. W przypadkach, o których mowa w ust. 1 i 2, przepis art. 22af, art. 22ak oraz przepisy wydane na podstawie art. 22ag ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio do dyrektorów szkół utworzonych zgodnie z art. 129 ust. 1 pkt 1 i ust. 3 pkt 1, 2 i 9 oraz art. 201 ust. 1 pkt 1, 3 i 5, ust. 2 pkt 1, 3, 5 i 7 oraz ust. 3 pkt 1, 3, 5 i 7, w których prowadzi się klasy dotychczasowego gimnazjum, o których mowa w art. 129 ust. 8.
 
 **Art. 342.** W roku szkolnym 2017/2018 w przypadku podręczników lub materiałów edukacyjnych do klasy VI szkoły podstawowej nie stosuje się art. 22ab ust. 4 pkt 1 ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą, w zakresie dotyczącym obowiązywania tych podręczników lub materiałów edukacyjnych w zestawie przez co najmniej trzy lata szkolne. W tym przypadku podręczniki lub materiały edukacyjne powinny obowiązywać w zestawie przez co najmniej dwa lata szkolne.
 
 **Art. 343.**
 
-1. Przepisy art. 337 i art. 342 stosuje się odpowiednio do szkół artystycznych realizujących kształcenie ogólne w zakresie szkoły podstawowej.
+1. Przepisy art. 337–342 stosuje się odpowiednio do szkół artystycznych realizujących kształcenie ogólne w zakresie szkoły podstawowej.
 
-2. W latach szkolnych 2017/2018 i 2018/2019 przepisy art. 337 stosuje się odpowiednio do szkół artystycznych realizujących kształcenie ogólne w zakresie gimnazjum.
+2. W latach szkolnych 2017/2018 i 2018/2019 przepisy art. 337, art. 338, art. 340 i art. 341 stosuje się odpowiednio do szkół artystycznych realizujących kształcenie ogólne w zakresie gimnazjum.
 
 **Art. 344.** Podręczniki dopuszczone do użytku szkolnego przed dniem 15 lutego 2017 r. do:
 
-**Art. 345.**
+- **1)** kształcenia w zawodzie,
+- **2)** kształcenia specjalnego,
+- **3)** kształcenia uczniów w zakresie niezbędnym do podtrzymywania poczucia tożsamości narodowej, etnicznej i językowej zachowują dopuszczenie do użytku szkolnego.
 
-1. W kształceniu uczniów niepełnosprawnych mogą być stosowane również:
+**Art. 345.** W kształceniu uczniów niepełnosprawnych mogą być stosowane również:
 
 - **1)** podręczniki do kształcenia ogólnego, dofinansowane z budżetu państwa przed dniem 15 lutego 2017 r., celem wykorzystania przez uczniów niepełnosprawnych;
 - **2)** adaptacje podręczników do kształcenia ogólnego dopuszczonych do użytku szkolnego przed dniem 15 lutego 2017 r., dostosowane do potrzeb edukacyjnych i możliwości psychofizycznych uczniów niepełnosprawnych;
 - **3)** podręczniki, o których mowa w art. 22ad ust. 4 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, dostosowane do potrzeb edukacyjnych i możliwości psychofizycznych uczniów niepełnosprawnych.
 
-2. W kształceniu uczniów branżowej szkoły I stopnia będących absolwentami gimnazjum w latach szkolnych 2017/2018–2021/2022 mogą być stosowane podręczniki do danych zajęć z zakresu kształcenia ogólnego, o których mowa w art. 337 ust. 5 pkt 5 i 6.
+**Art. 346.**
 
-**Art. 346.** (uchylony)
+1. Ustala się następujący maksymalny limit wydatków z budżetu państwa przeznaczonych na realizację zadania, o którym mowa w art. 22ac ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą, art. 85b ust. 3 ustawy zmienianej w art. 15, oraz art. 85b ust. 5 ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą, z uwzględnieniem art. 338 ust. 2 i 3, art. 339, art. 340 ust. 2 i art. 341 ust. 2–4:
+
+- **1)** w 2017 r. – 502 mln zł;
+- **2)** w 2018 r. – 404 mln zł;
+- **3)** w 2019 r. – 286 mln zł;
+- **4)** w 2020 r. – 393 mln zł;
+- **5)** w 2021 r. – 439 mln zł;
+- **6)** w 2022 r. – 273 mln zł;
+- **7)** w 2023 r. – 373 mln zł;
+- **8)** w 2024 r. – 429 mln zł;
+- **9)** w 2025 r. – 287 mln zł;
+- **10)** w 2026 r. – 396 mln zł.
+
+2. Minister właściwy do spraw oświaty i wychowania monitoruje wykorzystanie limitów wydatków na zadanie, o którym mowa w ust. 1, oraz, w razie potrzeby, wdraża mechanizmy korygujące.
+
+3. W przypadku gdy łączne wydatki budżetu państwa na zadanie, o którym mowa w art. 22ac ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą, art. 85b ust. 3 ustawy zmienianej w art. 15, oraz art. 85b ust. 5 ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą, z uwzględnieniem art. 338 ust. 2 i 3, art. 339, art. 340 ust. 2 i art. 341 ust. 2–4 powodowałyby zagrożenie przekroczenia w danym roku budżetowym limitu określonego w ust. 1, kwoty dotacji celowej na ucznia, o których mowa w art. 22ae ust. 5 ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą, z uwzględnieniem art. 338 ust. 2 i 3, art. 339, art. 340 ust. 2 i art. 341 ust. 2–4, zostaną odpowiednio pomniejszone:
+
+- **1)** w pierwszej kolejności, począwszy od kwot, co do których wydatki na ucznia poniesione w poprzednim roku i uwzględnione w rozliczeniu dotacji były mniejsze od przewidzianych w art. 22ae ust. 5 ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą, z uwzględnieniem art. 338 ust. 2 i 3, art. 339, art. 340 ust. 2 i art. 341 ust. 2–4. W takim przypadku kwoty dotacji na ucznia mogą zostać pomniejszone do wysokości wydatków na ucznia poniesionych w poprzednim roku i uwzględnionych w rozliczeniu dotacji, nie więcej jednak niż niezbędne do wyeliminowania zagrożenia przekroczenia w danym roku budżetowym limitu określonego w ust. 1;
+- **2)** jeżeli w wyniku operacji określonej w pkt 1 nadal istnieje zagrożenie przekroczenia w danym roku budżetowym limitu określonego w ust. 1, pomniejszenia kwot dotacji celowej określonych w art. 22ae ust. 5 ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą, z uwzględnieniem art. 338 ust. 2 i 3, art. 339, art. 340 ust. 2 i art. 341 ust. 2–4, dokonuje się proporcjonalnie, z uwzględnieniem pkt 1, do wysokości eliminującej zagrożenie przekroczenia w danym roku budżetowym limitu określonego w ust. 1.
+
+4. Minister właściwy do spraw oświaty i wychowania ogłasza, w drodze obwieszczenia, do dnia 1 marca, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, pomniejszone, zgodnie z ust. 3, kwoty dotacji celowej, o których mowa w art. 22ae ust. 5 ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą, z uwzględnieniem art. 338 ust. 2 i 3, art. 339, art. 340 ust. 2 i art. 341 ust. 2–4.
+
+5. W przypadku zadziałania mechanizmów korygujących określonych w ust. 3, rada pedagogiczna, ustalając zestaw podręczników lub materiałów edukacyjnych obowiązujący we wszystkich oddziałach danej klasy przez co najmniej trzy lata szkolne lub ustalając materiały ćwiczeniowe obowiązujące w poszczególnych oddziałach w danym roku szkolnym, może podjąć decyzję o prowadzeniu obowiązkowych zajęć edukacyjnych z zakresu kształcenia ogólnego o najmniejszej liczbie godzin nauczania bez podręczników, materiałów edukacyjnych lub materiałów ćwiczeniowych.
 
 **Art. 347.** Uchwały w sprawie sieci publicznych przedszkoli i oddziałów przedszkolnych w szkołach podstawowych podjęte na podstawie art. 14a ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, pozostają w mocy.
 
@@ -2644,7 +4285,7 @@ source: "isap-pdf"
 
 **Art. 351.** Przepis art. 17 ust. 1 pkt 3 ustawy zmienianej w art. 33, w brzmieniu dotychczasowym, stosuje się również do małoletniego podlegającego obowiązkowi szkolnemu w rozumieniu art. 15 ust. 2 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym.
 
-**Art. 352.** (uchylony)
+**Art. 352.** Przepisy art. 169 ust. 1, 3 i 4 ustawy zmienianej w art. 66, w brzmieniu nadanym niniejszą ustawą, stosuje się do uchwał senatów uczelni ustalających warunki i tryb rekrutacji na studia, poczynając od uchwały dotyczącej roku akademickiego 2022/2023.
 
 **Art. 353.**
 
@@ -2654,9 +4295,81 @@ source: "isap-pdf"
 
 **Art. 354.** Przepisy:
 
+- **1)** art. 39 ust. 1 pkt 6, art. 46 ust. 3 pkt 1, art. 50 ust. 2, art. 54 ust. 1d pkt 8, art. 166 ust. 1 ustawy zmienianej w art. 2,
+- **2)** art. 197 § 2 pkt 2 ustawy zmienianej w art. 3,
+- **3)** art. 4 ust. 3 i 4 ustawy zmienianej w art. 6,
+- **4)** art. 116a ust. 2 ustawy zmienianej w art. 9,
+- **5)** art. 4 ust. 4 pkt 2 i ust. 7 pkt 1, art. 5 ust. 1 i 2 pkt 1 ustawy zmienianej w art. 17,
+- **6)** art. 8 ust. 1 pkt 6 lit. a ustawy zmienianej w art. 19,
+- **7)** art. 130 § 1 i 3 ustawy zmienianej w art. 23,
+- **8)** art. 5 ust. 1 pkt 4 ustawy zmienianej w art. 26,
+- **9)** art. 6 ust. 4 ustawy zmienianej w art. 31,
+- **10)** art. 107a ust. 2 ustawy zmienianej w art. 37,
+- **11)** art. 144 ust. 2 ustawy zmienianej w art. 41,
+- **12)** art. 134a ust. 2 ustawy zmienianej w art. 44,
+- **13)** art. 71 ust. 1 pkt 1 lit. g, ust. 3 pkt 1 oraz ust. 4 pkt 2 ustawy zmienianej w art. 53,
+- **14)** art. 24 ust. 5 pkt 4 ustawy zmienianej w art. 55,
+- **15)** art. 3 pkt 18 oraz art. 15 ust. 1 pkt 1 i 2 ustawy zmienianej w art. 57,
+- **16)** art. 12 ust. 1 pkt 1 ustawy zmienianej w art. 58,
+- **17)** art. 43 ust. 1 pkt 27 ustawy zmienianej w art. 59,
+- **18)** art. 89 ust. 2 i ust. 8 pkt 1, art. 107 ust. 5b pkt 12 ustawy zmienianej w art. 60,
+- **19)** art. 2 ust. 1 pkt 35, art. 12 ust. 2 pkt 2, art. 55 ust. 1 ustawy zmienianej w art. 63,
+- **20)** art. 27 ust. 3 i art. 67 ust. 5 pkt 1 ustawy zmienianej w art. 64,
+- **21)** art. 9 ust. 5 pkt 2 lit. f ustawy zmienianej w art. 65,
+- **22)** art. 130 ust. 6 ustawy zmienianej w art. 66,
+- **23)** art. 2 pkt 13 ustawy zmienianej w art. 76,
+- **24)** art. 7 ust. 1 pkt 20, art. 14 pkt 5 i 6, art. 57 ust. 1 i 2, art. 62 ust. 1, art. 107 ust. 6 pkt 1 i art. 127 ust. 2 ustawy zmienianej w art. 90,
+- **25)** art. 19 ust. 1 pkt 2 lit. c ustawy zmienianej w art. 93,
+- **26)** art. 74 ust. 2 pkt 3 ustawy zmienianej w art. 94,
+- **27)** art. 26 ust. 1 pkt 1 ustawy zmienianej w art. 95,
+- **28)** art. 64 ust. 4 pkt 1 i ust. 6 pkt 1 ustawy zmienianej w art. 98,
+- **29)** art. 237 ust. 1 pkt 2 ustawy zmienianej w art. 104,
+- **30)** art. 84 ust. 2 pkt 2 ustawy zmienianej w art. 106,
+- **31)** art. 2 pkt 6, art. 9 pkt 2, art. 11 ust. 5, art. 14 ust. 2 pkt 2 i ust. 3 ustawy zmienianej w art. 110,
+- **32)** art. 2 pkt 17 ustawy zmienianej w art. 113 w brzmieniu nadanym niniejszą ustawą stosuje się również do szkół ponadgimnazjalnych do czasu zakończenia kształcenia w tych szkołach.
+
 **Art. 355.** Przepisy:
 
+- **1)** art. 132e ust. 1 pkt 4, art. 166 ust. 1 ustawy zmienianej w art. 2,
+- **2)** art. 191 § 1 pkt 1 i § 5 pkt 1, 3 i 4 oraz art. 197 § 2 pkt 1 ustawy zmienianej w art. 3,
+- **3)** art. 4 ust. 4 ustawy zmienianej w art. 6,
+- **4)** art. 4 ust. 4 pkt 2 i ust. 7 pkt 1, art. 5 ust. 1 i 2 pkt 1 ustawy zmienianej w art. 17,
+- **5)** art. 130 § 1 ustawy zmienianej w art. 23,
+- **6)** art. 6 ust. 4 ustawy zmienianej w art. 31,
+- **7)** art. 144 ust. 2 ustawy zmienianej w art. 41,
+- **8)** art. 71 ust. 1 pkt 1 lit. g, ust. 3 pkt 1 oraz ust. 4 pkt 2 ustawy zmienianej w art. 53,
+- **9)** art. 24 ust. 5 pkt 4 ustawy zmienianej w art. 55,
+- **10)** art. 3 pkt 18 oraz art. 15 ust. 1 pkt 1 ustawy zmienianej w art. 57,
+- **11)** art. 43 ust. 1 pkt 27 ustawy zmienianej w art. 59,
+- **12)** art. 89 ust. 2 i art. 107 ust. 5b pkt 12 ustawy zmienianej w art. 60,
+- **13)** art. 12 ust. 2 pkt 1, ust. 4 pkt 1 i ust. 5 pkt 1 lit. a ustawy zmienianej w art. 63,
+- **14)** art. 130 ust. 6 ustawy zmienianej w art. 66,
+- **15)** art. 2 pkt 13 ustawy zmienianej w art. 76,
+- **16)** art. 2 pkt 2 ustawy zmienianej w art. 79,
+- **17)** art. 42 pkt 8 i 9 ustawy zmienianej w art. 90,
+- **18)** art. 19 ust. 1 pkt 2 lit. c ustawy zmienianej w art. 93,
+- **19)** art. 2 pkt 17 ustawy zmienianej w art. 113 stosuje się również do dotychczasowych gimnazjów do czasu zakończenia kształcenia.
+
 **Art. 356.** Przepisy:
+
+- **1)** art. 17 ust. 1 pkt 45 ustawy zmienianej w art. 16,
+- **2)** art. 6 ust. 1 pkt 13 ustawy zmienianej w art. 18,
+- **3)** art. 42 ust. 2a i ust. 7 pkt 3 ustawy zmienianej w art. 20,
+- **4)** art. 7 ust. 2 pkt 5 lit. b ustawy zmienianej w art. 47,
+- **5)** art. 33a ust. 2 pkt 3 lit. a ustawy zmienianej w art. 51,
+- **6)** art. 43 ust. 1 pkt 24 lit. a i pkt 26 lit. a ustawy zmienianej w art. 59,
+- **7)** art. 105 ust. 1 ustawy zmienianej w art. 60,
+- **8)** art. 12 ust. 3, art. 46 ust. 1a ustawy zmienianej w art. 63,
+- **9)** art. 5 ust. 2 pkt 1 ustawy zmienianej w art. 68,
+- **10)** art. 1 ust. 3 ustawy zmienianej w art. 72,
+- **11)** art. 3 ust. 1 pkt 2 lit. c ustawy zmienianej w art. 74,
+- **12)** art. 2 pkt 13 ustawy zmienianej w art. 76,
+- **13)** art. 31a ust. 1 pkt 3 i art. 31b ust. 2 pkt 4 ustawy zmienianej w art. 78,
+- **14)** art. 11a ust. 1 i art. 223 ust. 1 ustawy zmienianej w art. 82,
+- **15)** art. 3 ust. 1 pkt 1 ustawy zmienianej w art. 90,
+- **16)** art. 7 ust. 1a pkt 3 ustawy zmienianej w art. 101,
+- **17)** art. 2 pkt 17 ustawy zmienianej w art. 113,
+- **18)** art. 4 ust. 1 pkt 5 ustawy zmienianej w art. 114 stosuje się również do odpowiednich szkół, o których mowa w art. 2 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, do czasu zakończenia kształcenia w tych szkołach.
 
 **Art. 357.** W sprawach wydawania przez kuratora oświaty opinii dotyczącej likwidacji lub przekształcenia szkoły lub placówki, wszczętych i niezakończonych przed dniem 1 września 2017 r., stosuje się przepisy ustawy – Prawo oświatowe.
 
@@ -2668,7 +4381,7 @@ source: "isap-pdf"
 
 **Art. 361.**
 
-1. Klasy wstępne, o których mowa w art. 25 ust. 3 ustawy – Prawo oświatowe, mogą być tworzone wyłącznie w czteroletnich liceach ogólnokształcących dwujęzycznych, czteroletnich liceach ogólnokształcących z oddziałami dwujęzycznymi, pięcioletnich technikach dwujęzycznych i pięcioletnich technikach z oddziałami dwujęzycznymi.
+1. Oddziały wstępne, o których mowa w art. 25 ust. 3 ustawy – Prawo oświatowe, mogą być tworzone wyłącznie w czteroletnich liceach ogólnokształcących dwujęzycznych, czteroletnich liceach ogólnokształcących z oddziałami dwujęzycznymi, pięcioletnich technikach dwujęzycznych i pięcioletnich technikach z oddziałami dwujęzycznymi.
 
 2. Przepisy art. 25 ust. 3–5 i art. 98 ust. 1 pkt 6 ustawy – Prawo oświatowe, w zakresie dotyczącym klas wstępnych, stosuje się począwszy od roku szkolnego 2019/2020.
 
@@ -2693,17 +4406,45 @@ source: "isap-pdf"
 
 3. Organem właściwym do wdrożenia mechanizmu korygującego oraz do monitorowania wykorzystania limitów wydatków, o których mowa w ust. 1, jest minister właściwy do spraw zdrowia.
 
-**Art. 363.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 9 ust. 5, art. 13a ust. 3, art. 16 ust. 6c, art. 20zh ust. 4, art. 22 ust. 1 pkt 3 i ust. 1a, art. 22 ust. 2 pkt 1, art. 22 ust. 2 pkt 1 w związku z art. 32a ust. 4, art. 22 ust. 2 pkt 2 lit. a i b, art. 22 ust. 2 pkt 2a, art. 22 ust. 2 pkt 2a w związku z art. 32a ust. 4, art. 22 ust. 2 pkt 5, art. 22 ust. 2 pkt 5 w związku z art. 32a ust. 4, art. 22 ust. 2 pkt 7, art. 22 ust. 2 pkt 7 w związku z art. 32a ust. 4, art. 22 ust. 2 pkt 11, art. 22 ust. 2 pkt 12, art. 22 ust. 3, art. 22aga, art. 24 ust. 1, art. 29, art. 36 ust. 3, art. 36a ust. 12, art. 44, art. 44zb, art. 44zq, art. 44zzza, art. 44zzzv, art. 53 ust. 6, art. 55 ust. 6, art. 66 ust. 2, art. 66 ust. 3, art. 68a ust. 5, art. 70 ust. 4, art. 71 ust. 1 pkt 1, art. 71b ust. 7 pkt 2, art. 71b ust. 8, art. 71c ust. 2 oraz art. 94a ust. 6 ustawy zmienianej w art. 15 zachowują moc do czasu zakończenia kształcenia odpowiednio w dotychczasowym gimnazjum, trzyletnim liceum ogólnokształcącym, czteroletnim technikum, klasach dotychczasowej zasadniczej szkoły zawodowej prowadzonych w branżowej szkole I stopnia, dotychczasowej szkole policealnej i szkole specjalnej przysposabiającej do pracy, a także w dotychczasowych szkołach artystycznych albo do czasu zakończenia przeprowadzania egzaminu maturalnego albo egzaminu potwierdzającego kwalifikacje w zawodzie, o którym mowa w art. 297 ust. 2 albo art. 302a ust. 1, oraz mogą być zmieniane na podstawie tych przepisów.
+**Art. 363.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 9 ust. 5, art. 13a ust. 3, art. 16 ust. 6c, art. 20zh ust. 4, art. 22 ust. 1 pkt 3 i ust. 1a, art. 22 ust. 2 pkt 1, art. 22 ust. 2 pkt 1 w związku z art. 32a ust. 4, art. 22 ust. 2 pkt 2 lit. a i b, art. 22 ust. 2 pkt 2a, art. 22 ust. 2 pkt 2a w związku z art. 32a ust. 4, art. 22 ust. 2 pkt 5, art. 22 ust. 2 pkt 5 w związku z art. 32a ust. 4, art. 22 ust. 2 pkt 7, art. 22 ust. 2 pkt 7 w związku z art. 32a ust. 4, art. 22 ust. 2 pkt 11, art. 22 ust. 2 pkt 12, art. 22 ust. 3, art. 22aga, art. 24 ust. 1, art. 29, art. 36 ust. 3, art. 36a ust. 12, art. 44, art. 44zb, art. 44zq, art. 44zzza, art. 44zzzv, art. 53 ust. 6, art. 55 ust. 6, art. 66 ust. 2, art. 66 ust. 3, art. 68a ust. 5, art. 70 ust. 4, art. 71 ust. 1 pkt 1, art. 71b ust. 7 pkt 2, art. 71b ust. 8, art. 71c ust. 2 oraz art. 94a ust. 6 ustawy zmienianej w art. 15 zachowują moc do czasu zakończenia kształcenia odpowiednio w dotychczasowym gimnazjum, trzyletnim liceum ogólnokształcącym, czteroletnim technikum, klasach dotychczasowej zasadniczej szkoły zawodowej prowadzonych w branżowej szkole I stopnia, dotychczasowej szkole policealnej i szkole specjalnej przysposabiającej do pracy, a także w dotychczasowych szkołach artystycznych, oraz mogą być zmieniane na podstawie tych przepisów.
 
 **Art. 364.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
-**Art. 365.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 9 ust. 3, art. 9f ust. 4, art. 9f ust. 5, art. 14a ust. 7, art. 20n ust. 10, art. 21a ust. 3, art. 22 ust. 1 pkt 3a, art. 22 ust. 1 pkt 4, art. 30 ust. 9, art. 32 ust. 4, art. 32a ust. 1, art. 32a ust. 1a, art. 35 ust. 6, art. 36a ust. 1f i 1g, art. 68b ust. 9, art. 71 ust. 1 pkt 2 i 3, art. 71b ust. 6, art. 71b ust. 7 pkt 1, art. 77a ust. 11, art. 78 ust. 1, art. 82 ust. 1b oraz art. 95a ustawy zmienianej w art. 15, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 18 ust. 4, art. 30 ust. 4, art. 30 ust. 5, art. 32 ust. 11, art. 142 ust. 10, art. 44 ust. 3, art. 47 ust. 3 pkt 2, art. 47 ust. 3 pkt 3, art. 50 ust. 9, art. 52 ust. 4, art. 53 ust. 1, art. 53 ust. 2, art. 60 ust. 10, art. 63 ust. 7 i 8, art. 118 ust. 9, art. 123 ust. 1 pkt 2 i 3, art. 127 ust. 18, art. 127 ust. 19 pkt 1, art. 187 ust. 1, art. 188 ust. 1, art. 168 ust. 3 oraz art. 125 ustawy – Prawo oświatowe, oraz mogą być zmieniane na podstawie tych przepisów.
+- **1)** art. 60 ust. 2 ustawy zmienianej w art. 15, w zakresie dotyczącym ramowych statutów szkół publicznych,
+- **2)** art. 60 ust. 2 ustawy zmienianej w art. 15, w zakresie dotyczącym ramowych statutów szkół publicznych artystycznych zachowują moc do czasu zakończenia kształcenia w dotychczasowym gimnazjum, trzyletnim liceum ogólnokształcącym, czteroletnim technikum, klasach dotychczasowej zasadniczej szkoły zawodowej prowadzonych w branżowej szkole I stopnia, dotychczasowej szkole policealnej i szkole specjalnej przysposabiającej do pracy, a także w dotychczasowych szkołach artystycznych, oraz mogą być zmieniane na podstawie tych przepisów.
+
+**Art. 365.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 9 ust. 3, art. 9f ust. 4, art. 9f ust. 5, art. 14a ust. 7, art. 20n ust. 10, art. 21a ust. 3, art. 22 ust. 1 pkt 3a, art. 22 ust. 1 pkt 4, art. 30 ust. 9, art. 32 ust. 4, art. 32a ust. 1, art. 32a ust. 1a, art. 35 ust. 6, art. 36a ust. 1f i 1g, art. 68b ust. 9, art. 71 ust. 1 pkt 2 i 3, art. 71b ust. 6, art. 71b ust. 7 pkt 1, art. 77a ust. 11, art. 78 ust. 1, art. 82 ust. 1b oraz art. 95a ustawy zmienianej w art. 15, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 18 ust. 4, art. 30 ust. 4, art. 30 ust. 5, art. 32 ust. 11, art. 142 ust. 10, art. 44 ust. 3, art. 47 ust. 3 pkt 2, art. 47 ust. 3 pkt 4, art. 50 ust. 9, art. 52 ust. 4, art. 53 ust. 1, art. 53 ust. 2, art. 60 ust. 10, art. 63 ust. 7 i 8, art. 118 ust. 9, art. 123 ust. 1 pkt 2 i 3, art. 127 ust. 18, art. 127 ust. 19 pkt 1, art. 187 ust. 1, art. 188 ust. 1, art. 168 ust. 3 oraz art. 125 ustawy – Prawo oświatowe, oraz mogą być zmieniane na podstawie tych przepisów.
 
 **Art. 366.** Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółowe zasady i warunki udzielania i cofania zezwolenia na założenie odpowiednio z dniem 1 września 2017 r. lub z dniem 1 września 2018 r. dotychczasowego trzyletniego liceum ogólnokształcącego i czteroletniego technikum, tak aby tworzenie tych szkół przez osoby prawne i fizyczne sprzyjało poprawie warunków kształcenia, a także korzystnie uzupełniało sieć szkół publicznych na danym terenie.
 
 **Art. 367.** W przypadku postępowania rekrutacyjnego do dotychczasowego trzyletniego liceum ogólnokształcącego, czteroletniego technikum i branżowej szkoły I stopnia przeprowadzanego dla kandydatów będących absolwentami dotychczasowego gimnazjum, minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, na lata szkolne 2017/2018–2019/2020:
 
+- **1)** sposób przeliczania na punkty poszczególnych kryteriów, o których mowa w art. 20f ust. 2 pkt 1–4, art. 20h ust. 6 oraz art. 20j ust. 2 pkt 1 i 3–5 ustawy zmienianej w art. 15, w brzmieniu dotychczasowym, uwzględniając konieczność zapewnienia przyjmowania kandydatów do wybranych szkół na równych i przejrzystych zasadach oceny ich wiedzy, umiejętności i osiągnięć;
+- **2)** sposób ustalania punktacji w przypadku osób zwolnionych z obowiązku przystąpienia odpowiednio do egzaminu gimnazjalnego, danej części egzaminu gimnazjalnego lub danego zakresu albo poziomu odpowiedniej części egzaminu gimnazjalnego, uwzględniając rodzaje obowiązkowych zajęć edukacyjnych, z których oceny są przeliczane na punkty;
+- **3)** skład i szczegółowe zadania komisji rekrutacyjnej oraz szczegółowy tryb przeprowadzania postępowania rekrutacyjnego i postępowania uzupełniającego, uwzględniając konieczność zapewnienia bezstronnego wykonywania zadań przez komisję rekrutacyjną, dokonania weryfikacji spełniania przez kandydata warunków lub kryteriów branych pod uwagę w postępowaniu rekrutacyjnym i postępowaniu uzupełniającym oraz właściwego dokumentowania postępowania rekrutacyjnego i postępowania uzupełniającego.
+
 **Art. 368.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
+- **1)** art. 191 § 5 ustawy zmienianej w art. 3 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 191 § 5 ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, oraz mogą być zmieniane na podstawie tych przepisów;
+- **2)** art. 21 ust. 2 ustawy zmienianej w art. 7 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 21 ust. 2 ustawy zmienianej w art. 7, w brzmieniu nadanym niniejszą ustawą, oraz mogą być zmieniane na podstawie tych przepisów;
+- **3)** art. 94 ust. 2 ustawy zmienianej w art. 15 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 70b ust. 3 ustawy zmienianej w art. 4, w brzmieniu nadanym niniejszą ustawą, oraz mogą być zmieniane na podstawie tych przepisów;
+- **4)** art. 60 ust. 2 ustawy zmienianej w art. 15, w zakresie dotyczącym ramowych statutów placówek publicznych, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 112 ust. 2 ustawy – Prawo oświatowe, oraz mogą być zmieniane na podstawie tych przepisów;
+- **5)** art. 60 ust. 2 ustawy zmienianej w art. 15, w zakresie dotyczącym ramowych statutów przedszkoli publicznych, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 111 ustawy – Prawo oświatowe, oraz mogą być zmieniane na podstawie tych przepisów;
+- **6)** art. 60 ust. 2 ustawy zmienianej w art. 15, w zakresie dotyczącym ramowych statutów placówek publicznych artystycznych, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 113 ustawy – Prawo oświatowe, oraz mogą być zmieniane na podstawie tych przepisów;
+- **7)** art. 10 ust. 5, art. 22ag i art. 22ah ust. 8 ustawy zmienianej w art. 15 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 10 ust. 5, art. 22ag i art. 22ah ust. 8 ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą, oraz mogą być zmieniane na podstawie tych przepisów;
+- **8)** art. 20 ust. 3 ustawy zmienianej w art. 37 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 20 ust. 3 ustawy zmienianej w art. 37, w brzmieniu nadanym niniejszą ustawą, oraz mogą być zmieniane na podstawie tych przepisów;
+- **9)** art. 7 ust. 8 ustawy zmienianej w art. 50 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 7 ust. 8 ustawy zmienianej w art. 50, w brzmieniu nadanym niniejszą ustawą, oraz mogą być zmieniane na podstawie tych przepisów;
+- **10)** art. 27 ust. 3 ustawy zmienianej w art. 64 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 27 ust. 3 ustawy zmienianej w art. 64, w brzmieniu nadanym niniejszą ustawą, oraz mogą być zmieniane na podstawie tych przepisów;
+- **11)** art. 31 ust. 1 ustawy zmienianej w art. 90 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 31 ust. 1 ustawy zmienianej w art. 90, w brzmieniu nadanym niniejszą ustawą, oraz mogą być zmieniane na podstawie tych przepisów.
+
 **Art. 369.** Ustawa wchodzi w życie z dniem 1 września 2017 r., z wyjątkiem:
+
+- **1)** art. 1, art. 116–219, art. 314, art. 326–336, art. 347, art. 348, art. 358 i art. 359, które wchodzą w życie po upływie 3 dni od dnia ogłoszenia;
+- **2)** art. 4 pkt 9, 12, 14 lit. a, art. 15 pkt 26, pkt 29 lit. a w zakresie art. 22 ust. 1 pkt 3a, pkt 48, 49, pkt 54 w zakresie art. 36a ust. 14 i pkt 114 w zakresie art. 71d, art. 66 pkt 1, art. 80, art. 111 pkt 2, art. 113 pkt 2, art. 115, art. 220–223, art. 225–313, art. 315–325, art. 349–357 i art. 360–368, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
+- **3)** art. 15 pkt 118 lit. f i h oraz pkt 123 lit. m, które wchodzą w życie z dniem 1 lutego 2017 r.;
+- **4)** art. 15 pkt 31, pkt 32 w zakresie art. 22ac ust. 1, art. 22ae ust. 2, art. 22ak ust. 1 i art. 85b ust. 2 i 5, pkt 33–43, pkt 44 w zakresie art. 22ar i art. 22at ust. 1 pkt 1, pkt 46, 47 i 120, art. 105 i art. 337–346, które wchodzą w życie z dniem 15 lutego 2017 r.;
+- **5)** art. 4 pkt 5, 10 i 11, które wchodzą w życie z dniem 1 marca 2017 r.;
+- **6)** art. 224, który wchodzi w życie z dniem 1 kwietnia 2017 r.;
+- **7)** art. 66 pkt 3, który wchodzi w życie z dniem 1 stycznia 2022 r.
+
 

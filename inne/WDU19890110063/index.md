@@ -22,6 +22,7 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1989-02-11 |
 | Data wydania | 1989-03-06 |
+| Wejście w życie | 1989-03-20 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890110063) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1989/63/text.pdf) |
 

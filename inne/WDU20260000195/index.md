@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o Banku Gospodarstwa Krajowego
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 13 lutego 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 lutego 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-02-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000195) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/195/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 13 lutego 2026 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o Banku Gospodarstwa Krajowego
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 14 marca 2003 r. o Banku Gospodarstwa Krajowego (Dz. U. z 2025 r. poz. 503), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 20 marca 2025 r. o zmianie ustawy o współpracy rozwojowej oraz niektórych innych ustaw (Dz. U.
 poz. 525),
@@ -160,6 +160,11 @@ poz. 525),
 
 **Art. 4.** Do podstawowych celów działalności BGK, zakresie określonym ustawą oraz odrębnymi przepisami, należy wspieranie polityki gospodarczej Rady Ministrów, rządowych programów społeczno-gospodarczych, tym poręczeniowo-gwarancyjnych lub zakresie współpracy rozwojowej, o której mowa ustawie z dnia 16 września 2011 r. o współpracy rozwojowej, oraz programów samorządności lokalnej i rozwoju regionalnego, obejmujących szczególności projekty:
 
+- **1)** realizowane z wykorzystaniem środków pochodzących z funduszy Unii Europejskiej oraz międzynarodowych instytucji finansowych rozumieniu art. 4 ust. 1 pkt 3 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe,
+- **2)** infrastrukturalne,
+- **3)** związane z rozwojem sektora mikroprzedsiębiorców, małych i średnich przedsiębiorców,
+- **4)** związane z realizacją zadań z zakresu współpracy rozwojowej, o której mowa ustawie z dnia 16 września 2011 r. o współpracy rozwojowej tym realizowane z wykorzystaniem środków publicznych.
+
 **Art. 4a.**
 
 1. W przypadku gdy inwestycja jest zgodna z celami działalności lub zadaniami BGK, BGK może dokonywać inwestycji samodzielnie lub wspólnie z innymi podmiotami, szczególności w:
@@ -258,6 +263,10 @@ poz. 525),
 3. Uchwała, o której mowa ust. 1, określa wysokość, o jaką fundusz statutowy ma zostać obniżony, oraz sposób jego obniżenia.
 
 **Art. 5d.** Zysk netto BGK może zostać przeznaczony na:
+
+- **1)** zwiększenie funduszy własnych BGK;
+- **2)** wpłatę do budżetu państwa;
+- **3)** inne cele określone przez Radę Nadzorczą.
 
 **Art. 6.**
 
@@ -359,6 +368,12 @@ poz. 525),
 8. Prezes Zarządu reprezentuje BGK na zewnątrz, przewodniczy obradom Zarządu oraz organizuje działalność BGK.
 
 **Art. 10a.** Do kompetencji:
+
+- **1)** pierwszego wiceprezesa Zarządu należą sprawy z zakresu funkcjonowania rynku finansowego;
+- **2)** wiceprezesa Zarządu należą sprawy z zakresu rozwoju infrastruktury transportu;
+- **3)** członka Zarządu powołanego na wniosek ministra właściwego do spraw rozwoju regionalnego należą sprawy z zakresu polityki regionalnej i rozwoju regionów;
+- **4)** członka Zarządu powołanego na wniosek ministra właściwego do spraw gospodarki należą sprawy z zakresu wspierania gospodarki;
+- **5)** członka Zarządu powołanego na wniosek ministra właściwego do spraw finansów publicznych należą sprawy z zakresu realizacji dochodów i wydatków budżetu państwa.
 
 **Art. 11.**
 

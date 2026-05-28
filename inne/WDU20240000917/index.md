@@ -8,12 +8,10 @@ pos: 917
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o ochronie zdrowia psychicznego Uznając, że zdrowie psychiczne jest fundamentalnym dobrem osobistym człowieka, a ochrona praw osób z zaburzeniami psychicznymi należy do obowiązków państwa, stanowi się, co następuje:
-
-*USTAWA z dnia 19 sierpnia 1994 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 14 czerwca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie zdrowia psychicznego
 
 | Pole | Wartość |
 |---|---|
@@ -26,6 +24,119 @@ source: "isap-pdf"
 | Data wydania | 2024-06-21 |
 | Ostatnia zmiana | 2026-03-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000917) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/917/text.pdf) |
+
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego Rozdział 1 – Przepisy ogólne Rozdział 2 – Badanie, leczenie, rehabilitacja oraz opieka i pomoc Rozdział 3 – Postępowanie lecznicze Rozdział 4 – Przyjęcie do domu pomocy społecznej Rozdział 5 – Postępowanie przed sądem opiekuńczym Rozdział 6 – Ochrona tajemnicy Rozdział 7 – Przepisy karne, zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2022 r. poz. 2123), z uwzględnieniem zmian wprowadzonych ustawą z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych (Dz. U. poz. 1972) oraz zmian wynikających z przepisów ogłoszonych przed dniem 13 czerwca 2024 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 106 i art. 108 ustawy z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych (Dz. U. poz. 1972), które stanowią:
+„
+1.
+Osoba korzystająca ze świadczeń zdrowotnych udzielanych przez szpital psychiatryczny ma prawo do pomocy w ochronie swoich praw.
+2.
+Prawo do pomocy w ochronie praw osoby, o której mowa w ust. 1, przysługuje również jej przedstawicielowi ustawowemu, opiekunowi prawnemu lub faktycznemu.
+3.
+Świadczeniodawca informuje osoby, o których mowa w ust. 1 i 2, o zakresie działania i sposobie kontaktu z Rzecznikiem Praw Pacjenta Szpitala Psychiatrycznego, o którym mowa w art. 10b ust. 1.
+4.
+Osoby, o których mowa w ust. 1 i 2, mają prawo w szczególności do:
+1)
+przekazania ustnych i pisemnych skarg dotyczących naruszenia praw osoby, o której mowa w ust. 1;
+2)
+spotkania z Rzecznikiem Praw Pacjenta Szpitala Psychiatrycznego, w warunkach zapewniających swobodę wypowiedzi, nie później niż w terminie 7 dni od dnia zgłoszenia takiej potrzeby;
+3)
+uzyskania informacji o rozstrzygnięciu zgłoszonej sprawy.
+1.
+Ochrona praw osób, o których mowa w art. 10a ust. 1, jest zadaniem Rzecznika Praw Pacjenta, które realizuje w szczególności przy pomocy Rzeczników Praw Pacjenta Szpitala Psychiatrycznego.
+2.
+Do zadań Rzecznika Praw Pacjenta Szpitala Psychiatrycznego należy w szczególności:
+1)
+pomoc w dochodzeniu praw w sprawach związanych z przyjęciem, leczeniem, warunkami pobytu i wypisaniem ze szpitala psychiatrycznego;
+2)
+wyjaśnianie lub pomoc w wyjaśnianiu ustnych i pisemnych skarg tych osób;
+3)
+współpraca z rodziną, przedstawicielem ustawowym, opiekunem prawnym lub faktycznym tych osób;
+4)
+inicjowanie i prowadzenie działalności edukacyjno-informacyjnej w zakresie praw osób korzystających ze świadczeń zdrowotnych udzielanych przez szpital psychiatryczny.
+3.
+W zakresie zadań, o których mowa w ust. 1 i 2, Rzecznik Praw Pacjenta Szpitala Psychiatrycznego współpracuje z:
+1)
+Rzecznikiem Praw Obywatelskich;
+2)
+Rzecznikiem Praw Dziecka;
+3)
+konsultantem krajowym i konsultantami wojewódzkimi w dziedzinie psychiatrii.
+4.
+Rzecznik Praw Pacjenta Szpitala Psychiatrycznego w celu realizacji zadań, o których mowa w ust. 1 i 2, ma prawo:
+1)
+wstępu do pomieszczeń szpitala psychiatrycznego związanych z udzielaniem świadczeń zdrowotnych;
+2)
+występowania z wnioskiem do personelu podmiotu leczniczego w rozumieniu przepisów o działalności leczniczej, w szczególności do lekarza prowadzącego, ordynatora oddziału psychiatrycznego (lekarza kierującego oddziałem) lub kierownika podmiotu leczniczego, oraz do podmiotu tworzącego w rozumieniu tej ustawy, o podjęcie działań zmierzających do usunięcia przyczyny skargi lub zaistniałych naruszeń;
+3)
+dostępu do dokumentacji medycznej osoby, o której mowa w art. 10a ust. 1;
+4)
+porozumiewania się z osobami, o których mowa w art. 10a ust. 1 i 2, bez udziału innych osób.
+5.
+Kierownik zapewnia Rzecznikowi Praw Pacjenta Szpitala Psychiatrycznego warunki do wykonywania jego zadań, w szczególności:
+1)
+umożliwia przyjmowanie skarg, o których mowa w art. 10a ust. 4 pkt 1, przez Rzecznika;
+2)
+udostępnia pomieszczenia przeznaczone do odbywania spotkań z osobami, o których mowa w art. 10a ust. 1 i 2.
+6.
+Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczegółowy tryb i sposób działania Rzecznika Praw Pacjenta Szpitala Psychiatrycznego, uwzględniając terytorialny obszar działania Rzeczników w odniesieniu do różnych form opieki psychiatrycznej.
+1.
+Rzecznikiem Praw Pacjenta Szpitala Psychiatrycznego może być osoba, z zastrzeżeniem ust. 2, która:
+1)
+posiada wykształcenie wyższe;
+2)
+posiada wiedzę na temat praw i wolności człowieka, w szczególności osoby z zaburzeniami psychicznymi, a także możliwości skutecznej ochrony tych praw;
+3)
+posiada doświadczenie w pracy z osobami z zaburzeniami psychicznymi;
+4)
+jest obywatelem polskim;
+5)
+korzysta z pełni praw publicznych;
+6)
+nie była karana za przestępstwo popełnione z winy umyślnej;
+7)
+cieszy się nieposzlakowaną opinią.
+2.
+Rzecznik Praw Pacjenta Szpitala Psychiatrycznego nie może być:
+1)
+świadczeniodawcą w rozumieniu art. 5 pkt 41 ustawy o świadczeniach;
+2)
+właścicielem podmiotu wykonującego działalność leczniczą będącym świadczeniodawcą, o którym mowa w art. 5 pkt 41 lit. a ustawy o świadczeniach, jego pracownikiem lub osobą współpracującą ze świadczeniodawcą;
+3)
+właścicielem lub pracownikiem apteki, hurtowni farmaceutycznej lub wytwórcą produktu leczniczego lub producentem wyrobu medycznego lub wyposażenia wyrobu medycznego, w rozumieniu przepisów rozporządzenia 2017/745, lub podmiotem zestawiającym system lub zestaw zabiegowy lub sterylizującym zestaw lub system zabiegowy, w rozumieniu przepisów rozporządzenia 2017/745, lub producentem wyrobu medycznego do diagnostyki in vitro lub wyposażenia wyrobu medycznego do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia 2017/746;
+4)
+właścicielem akcji albo udziałów w spółce prowadzącej aptekę lub hurtownię farmaceutyczną albo wytwarzającej produkty lecznicze lub wyroby medyczne lub wyposażenie wyrobu medycznego, w rozumieniu przepisów rozporządzenia 2017/745, lub wyroby medyczne do diagnostyki in vitro lub wyposażenie wyrobu medycznego do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia 2017/746;
+5)
+członkiem Rady Narodowego Funduszu Zdrowia albo rady oddziału wojewódzkiego Narodowego Funduszu Zdrowia;
+6)
+pracownikiem Narodowego Funduszu Zdrowia.
+Rzecznicy Praw Pacjenta Szpitala Psychiatrycznego są pracownikami Biura Rzecznika Praw Pacjenta, o którym mowa w ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581), i wykonują swoje zadania przy pomocy tego Biura.
+Przyjęcie do szpitala psychiatrycznego
+
+**Art. 106.**
+
+1. Osoba, która:
+
+- **1)** przed dniem 31 grudnia 2028 r. spełniła warunek, o którym mowa w art. 5 ust. 3 pkt 1 lit. b tiret pierwsze ustawy zmienianej w art. 87, albo
+- **2)** spełniła warunek, o którym mowa w art. 5 ust. 3 pkt 1 lit. b tiret drugie albo trzecie ustawy zmienianej w art. 87 może przystąpić do Państwowego Egzaminu Specjalizacyjnego w dziedzinie psychoterapii zgodnie z przepisami ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia.
+
+2. Osoba, o której mowa w ust. 1, może przystąpić do Państwowego Egzaminu Specjalizacyjnego zgodnie z przepisami ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia, w dziedzinie psychoterapii dzieci i młodzieży, jeżeli dodatkowo posiada rekomendację superwizora lub superwizorów psychoterapii mających doświadczenie w superwizji procesów psychoterapeutycznych dzieci lub młodzieży oraz ich rodzin potwierdzającą, że posiada kwalifikacje do prowadzenia tej psychoterapii, a także że prowadzona psychoterapia była przedmiotem superwizji w wymiarze co najmniej 100 godzin, a także:
+
+- **1)** zaświadczenie, że co najmniej 320 godzin jej szkolenia lub szkoleń podyplomowych dotyczyło zagadnień rozwojowych, psychopatologii dzieci i młodzieży oraz metod ich leczenia, lub ukończyła podyplomowe szkolenie uzupełniające z psychoterapii dzieci i młodzieży, lub
+- **2)** zaświadczenie, że prowadziła psychoterapię w placówkach prowadzących psychoterapię pacjentów w wieku rozwojowym i ich rodzin przez okres co najmniej 2088 godzin. ” „
+
+**Art. 108.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 90, art. 93, art. 104 i art. 105, które wchodzą w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 22 czerwca 2023 r.;
+- **2)** art. 89, art. 95 i art. 103, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **3)** art. 92 pkt 3, pkt 5 lit. a i c oraz pkt 6 i art. 96, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
+- **4)** art. 87 i art. 106, które wchodzą w życie z dniem 1 stycznia 2024 r.;
+- **5)** art. 92 pkt 1, pkt 2 lit. a, pkt 4 oraz pkt 5 lit. b, które wchodzą w życie po upływie 18 miesięcy od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego Uznając, że zdrowie psychiczne jest fundamentalnym dobrem osobistym człowieka, a ochrona praw osób z zaburzeniami psychicznymi należy do obowiązków państwa, stanowi się, co następuje:
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -74,6 +185,28 @@ source: "isap-pdf"
 
 **Art. 3.** Ilekroć przepisy niniejszej ustawy stanowią o:
 
+- **1)** osobie z zaburzeniami psychicznymi, odnosi się to do osoby: chorej psychicznie (wykazującej zaburzenia psychotyczne), upośledzonej umysłowo, wykazującej inne zakłócenia czynności psychicznych, które zgodnie ze stanem wiedzy medycznej zaliczane są do zaburzeń psychicznych, a osoba ta wymaga świadczeń zdrowotnych lub innych form pomocy i opieki niezbędnych do życia w środowisku rodzinnym lub społecznym;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** szpitalu psychiatrycznym, odnosi się to również do: oddziału psychiatrycznego w szpitalu ogólnym, kliniki psychiatrycznej, sanatorium dla osób z zaburzeniami psychicznymi, innego zakładu leczniczego podmiotu leczniczego w rozumieniu przepisów o działalności leczniczej, sprawującego całodobową opiekę psychiatryczną lub odwykową, niezależnie od podmiotu, który je tworzy i utrzymuje;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **3)** domu pomocy społecznej lub środowiskowym domu samopomocy, odnosi się to również do wszelkich form pomocy instytucjonalnej dla osób, o których mowa w pkt 1;
+- **4)** zgodzie, oznacza to swobodnie wyrażoną zgodę osoby z zaburzeniami psychicznymi, która – niezależnie od stanu jej zdrowia psychicznego – jest rzeczywiście zdolna do zrozumienia przekazywanej w dostępny sposób informacji o celu przyjęcia do szpitala psychiatrycznego, jej stanie zdrowia, proponowanych czynnościach diagnostycznych i leczniczych oraz o dających się przewidzieć skutkach tych działań lub ich zaniechania;
+- **5)** dyspozytorze medycznym, kierującym akcją prowadzenia medycznych czynności ratunkowych, zespole ratownictwa medycznego, należy przez to rozumieć odpowiednio: dyspozytora medycznego, kierującego akcją prowadzenia medycznych czynności ratunkowych, zespół ratownictwa medycznego w rozumieniu ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2024 r. poz. 652);
+- **6)** przymusie bezpośrednim, bez wskazania środka przymusu bezpośredniego, należy przez to rozumieć: przytrzymanie – doraźne, krótkotrwałe unieruchomienie osoby z użyciem siły fizycznej, przymusowe zastosowanie leków – doraźne lub przewidziane w planie postępowania leczniczego wprowadzenie leków do organizmu osoby – bez jej zgody, unieruchomienie – obezwładnienie osoby z użyciem pasów, uchwytów, prześcieradeł lub kaftana bezpieczeństwa, izolację – umieszczenie osoby, pojedynczo, w zamkniętym i odpowiednio przystosowanym pomieszczeniu;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **7)** lekarzu psychiatrze – należy przez to rozumieć lekarza specjalistę w dziedzinie psychiatrii lub lekarza specjalistę w dziedzinie psychiatrii dzieci i młodzieży.
+
 **Art. 4.**
 
 1. Działania zapobiegawcze w zakresie ochrony zdrowia psychicznego są podejmowane przede wszystkim wobec dzieci, młodzieży, osób starszych i wobec osób znajdujących się w sytuacjach stwarzających zagrożenie dla ich zdrowia psychicznego.
@@ -89,8 +222,6 @@ source: "isap-pdf"
 - **7)** uwzględnianie zagadnień zdrowia psychicznego w działalności publicznych środków masowego przekazu, a zwłaszcza w programach radiowych i telewizyjnych.
 
 3. (uchylony)
-
-**Art. 4a.**
 
 1. Tworzy się Radę do spraw Zdrowia Psychicznego, zwaną dalej „Radą”, jako działający przy ministrze właściwym do spraw zdrowia organ opiniodawczo-doradczy w sprawach z zakresu ochrony zdrowia psychicznego.
 
@@ -118,23 +249,23 @@ source: "isap-pdf"
 
 3. Psychoterapię w ramach opieki, o której mowa w ust. 1, prowadzi:
 
-- **1)** osoba posiadająca certyfikat psychoterapeuty, która spełnia łącznie następujące warunki: [a) posiada tytuł zawodowy lekarza lub tytuł zawodowy magistra albo spełnia warunki określone w art. 63 ust. 1 ustawy z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów (Dz. U. z 2019 r. poz. 1026),] <a) posiada tytuł zawodowy lekarza lub tytuł zawodowy magistra albo prawo wykonywania zawodu psychologa, o którym mowa w art. 5 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz. 187),>
-    - **b)** udokumentuje: – ukończenie podyplomowego szkolenia w wymiarze co najmniej 1200 godzin w zakresie oddziaływań psychoterapeutycznych mających zastosowanie w leczeniu zaburzeń zdrowia, prowadzonego metodami o udowodnionej naukowo skuteczności, w szczególności metodą terapii humanistyczno-doświadczeniowej lub integracyjnej, lub poznawczo-behawioralnej, lub psychoanalitycznej, lub psychodynamicznej, lub systemowej, obejmującego psychoterapię własną lub doświadczenie własne, superwizję psychoterapii i staże, albo – ukończenie przed dniem 31 grudnia 2028 r. rozpoczętego przed dniem 1 stycznia 2024 r. podyplomowego szkolenia w zakresie oddziaływań psychoterapeutycznych mających zastosowanie w leczeniu zaburzeń zdrowia, prowadzonego metodami o udowodnionej naukowo skuteczności, w szczególności metodą terapii humanistyczno-doświadczeniowej lub integracyjnej, lub poznawczo-behawioralnej, lub psychoanalitycznej, lub psychodynamicznej, lub systemowej, i odbycie – realizowanych po rozpoczęciu szkolenia – psychoterapii własnej, doświadczenia własnego, superwizji psychoterapii lub staży, które łącznie ze szkoleniem obejmują co najmniej 1200 godzin, albo – ukończenie przed 2012 r. podyplomowego szkolenia w zakresie oddziaływań psychoterapeutycznych mających zastosowanie w leczeniu zaburzeń zdrowia w wymiarze czasu określonym w programie tego szkolenia,
-    - **c)** zdała egzamin certyfikujący przeprowadzony przez komisję zewnętrzną wobec podmiotu kształcącego, w skład której nie wchodzą przedstawiciele podmiotu kształcącego, w szczególności powołaną przez stowarzyszenia wydające certyfikaty psychoterapeuty, lub
+- **1)** osoba posiadająca certyfikat psychoterapeuty, która spełnia łącznie następujące warunki: posiada tytuł zawodowy lekarza lub tytuł zawodowy magistra albo spełnia warunki określone w art. 63 ust. 1 ustawy z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów (Dz. U. z 2019 r. poz. 1026), udokumentuje: – ukończenie podyplomowego szkolenia w wymiarze co najmniej 1200 godzin w zakresie oddziaływań psychoterapeutycznych mających zastosowanie w leczeniu zaburzeń zdrowia, prowadzonego metodami o udowodnionej naukowo skuteczności, w szczególności metodą terapii humanistyczno-doświadczeniowej lub integracyjnej, lub poznawczo-behawioralnej, lub psychoanalitycznej, lub psychodynamicznej, lub systemowej, obejmującego psychoterapię własną lub doświadczenie własne, superwizję psychoterapii i staże, albo – ukończenie przed dniem 31 grudnia 2028 r. rozpoczętego przed dniem 1 stycznia 2024 r. podyplomowego szkolenia w zakresie oddziaływań psychoterapeutycznych mających zastosowanie w leczeniu zaburzeń zdrowia, prowadzonego metodami o udowodnionej naukowo skuteczności, w szczególności metodą terapii humanistyczno-doświadczeniowej lub integracyjnej, lub poznawczo-behawioralnej, lub psychoanalitycznej, lub psychodynamicznej, lub systemowej, i odbycie – realizowanych po rozpoczęciu szkolenia – psychoterapii własnej, doświadczenia własnego, superwizji psychoterapii lub staży, które łącznie ze szkoleniem obejmują co najmniej 1200 godzin, albo – ukończenie przed 2012 r. podyplomowego szkolenia w zakresie oddziaływań psychoterapeutycznych mających zastosowanie w leczeniu zaburzeń zdrowia w wymiarze czasu określonym w programie tego szkolenia, zdała egzamin certyfikujący przeprowadzony przez komisję zewnętrzną wobec podmiotu kształcącego, w skład której nie wchodzą przedstawiciele podmiotu kształcącego, w szczególności powołaną przez stowarzyszenia wydające certyfikaty psychoterapeuty, lub
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **2)** osoba, która uzyskała tytuł specjalisty w dziedzinie psychoterapii dzieci i młodzieży lub osoba posiadająca decyzję ministra właściwego do spraw zdrowia o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie, zgodnie z art. 28 ust. 1 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. z 2023 r. poz. 506), lub
 - **3)** osoba, która uzyskała tytuł specjalisty w dziedzinie psychoterapii lub osoba posiadająca decyzję ministra właściwego do spraw zdrowia o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie, zgodnie z art. 28 ust. 1 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia, lub
-- **4)** osoba, która ubiega się o otrzymanie certyfikatu psychoterapeuty, która spełnia łącznie następujące warunki: [a) posiada tytuł zawodowy lekarza lub tytuł zawodowy magistra albo spełnia warunki określone w art. 63 ust. 1 ustawy z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów,] <a) posiada tytuł zawodowy lekarza lub tytuł zawodowy magistra albo prawo wykonywania zawodu psychologa, o którym mowa w art. 5 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów,>
-    - **b)** posiada status osoby odbywającej szkolenie, o którym mowa w pkt 1 lit. b tiret pierwsze albo drugie, i zaświadczenie wydane przez podmiot prowadzący to szkolenie o ukończeniu co najmniej 2 roku tego szkolenia, albo spełnia warunek, o którym mowa w pkt 1 lit. b tiret pierwsze albo drugie,
-    - **c)** uczestniczy w superwizji psychoterapii i posiada zaświadczenie w tym zakresie wystawione przez superwizora psychoterapii, lub
+- **4)** osoba, która ubiega się o otrzymanie certyfikatu psychoterapeuty, która spełnia łącznie następujące warunki: posiada tytuł zawodowy lekarza lub tytuł zawodowy magistra albo spełnia warunki określone w art. 63 ust. 1 ustawy z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów, posiada status osoby odbywającej szkolenie, o którym mowa w pkt 1 lit. b tiret pierwsze albo drugie, i zaświadczenie wydane przez podmiot prowadzący to szkolenie o ukończeniu co najmniej 2 roku tego szkolenia, albo spełnia warunek, o którym mowa w pkt 1 lit. b tiret pierwsze albo drugie, uczestniczy w superwizji psychoterapii i posiada zaświadczenie w tym zakresie wystawione przez superwizora psychoterapii, lub
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **5)** osoba w trakcie specjalizacji z psychoterapii dzieci i młodzieży lub psychoterapii, która spełnia łącznie następujące warunki:
-    - **a)** posiada status osoby w trakcie szkolenia specjalizacyjnego, ukończyła co najmniej 2 rok szkolenia specjalizacyjnego i posiada zaświadczenie wydane przez podmiot prowadzący kształcenie o ukończeniu co najmniej 2 roku tego szkolenia,
-    - **b)** posiada zaświadczenie od pracodawcy o pracy pod nadzorem osoby posiadającej certyfikat psychoterapeuty lub specjalisty w dziedzinie psychoterapii dzieci i młodzieży, lub specjalisty w dziedzinie psychoterapii.
+- **5)** osoba w trakcie specjalizacji z psychoterapii dzieci i młodzieży lub psychoterapii, która spełnia łącznie następujące warunki: posiada status osoby w trakcie szkolenia specjalizacyjnego, ukończyła co najmniej 2 rok szkolenia specjalizacyjnego i posiada zaświadczenie wydane przez podmiot prowadzący kształcenie o ukończeniu co najmniej 2 roku tego szkolenia, posiada zaświadczenie od pracodawcy o pracy pod nadzorem osoby posiadającej certyfikat psychoterapeuty lub specjalisty w dziedzinie psychoterapii dzieci i młodzieży, lub specjalisty w dziedzinie psychoterapii.
+    - **a)**
+    - **b)**
 
-4. Psychoterapia, o której mowa w ust. 2, udzielana w ramach rehabilitacji w rozumieniu art. 4 pkt 22 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2023 r. poz. 1939) albo jako psychoterapia osób uzależnionych od alkoholu albo psychoterapia członków rodzin, o której mowa w art. 22 ust. 2a ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 2151), jest realizowana na zasadach określonych w tych ustawach.
-
-**Art. 5a.** Podmiot leczniczy prowadzący centrum zdrowia psychicznego zapewnia kompleksową opiekę zdrowotną nad osobami z zaburzeniami psychicznymi na określonym obszarze terytorialnym w formie pomocy doraźnej, ambulatoryjnej, dziennej, szpitalnej i środowiskowej.
+4. Psychoterapia, o której mowa w ust. 2, udzielana w ramach rehabilitacji w rozumieniu art. 4 pkt 22 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2023 r. poz. 1939) albo jako psychoterapia osób uzależnionych od alkoholu albo psychoterapia członków rodzin, o której mowa w art. 22 ust. 2a ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 2151), jest realizowana na zasadach określonych w tych ustawach. Podmiot leczniczy prowadzący centrum zdrowia psychicznego zapewnia kompleksową opiekę zdrowotną nad osobami z zaburzeniami psychicznymi na określonym obszarze terytorialnym w formie pomocy doraźnej, ambulatoryjnej, dziennej, szpitalnej i środowiskowej.
 
 **Art. 6.**
 
@@ -152,9 +283,7 @@ source: "isap-pdf"
 
 - **1)** imię lub imiona i nazwisko;
 - **2)** numer prawa wykonywania zawodu;
-- **3)** adres poczty elektronicznej i numer telefonu.
-
-**Art. 6a.** Powiat organizuje i zapewnia usługi w odpowiednim standardzie w domach pomocy społecznej dostosowanych do szczególnych potrzeb osób z zaburzeniami psychicznymi. Domy te są tworzone na zasadach określonych w ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901, z późn. zm. ).
+- **3)** adres poczty elektronicznej i numer telefonu. Powiat organizuje i zapewnia usługi w odpowiednim standardzie w domach pomocy społecznej dostosowanych do szczególnych potrzeb osób z zaburzeniami psychicznymi. Domy te są tworzone na zasadach określonych w ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901, z późn. zm.).
 
 **Art. 7.**
 
@@ -192,79 +321,11 @@ source: "isap-pdf"
 
 1. Za świadczenia zdrowotne w zakresie psychiatrycznej opieki zdrowotnej udzielane osobie z zaburzeniami psychicznymi przez świadczeniodawcę, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej, o której mowa w art. 132 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146 i 858), zwanej dalej „ustawą o świadczeniach”, nie pobiera się od tej osoby opłat.
 
-2. Osobom z zaburzeniami psychicznymi przebywającym w szpitalu psychiatrycznym przysługują bez pobierania od nich opłat, produkty lecznicze, wyroby medyczne, wyposażenie wyrobów medycznych, systemy i zestawy zabiegowe, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2017/745”, oraz wyroby medyczne do diagnostyki in vitro i wyposażenie wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. ), zwanego dalej „rozporządzeniem 2017/746”, środki pomocnicze oraz środki spożywcze specjalnego przeznaczenia żywieniowego, o których mowa w ustawie z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2023 r. poz. 1448).
+2. Osobom z zaburzeniami psychicznymi przebywającym w szpitalu psychiatrycznym przysługują bez pobierania od nich opłat, produkty lecznicze, wyroby medyczne, wyposażenie wyrobów medycznych, systemy i zestawy zabiegowe, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2017/745”, oraz wyroby medyczne do diagnostyki in vitro i wyposażenie wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.), zwanego dalej „rozporządzeniem 2017/746”, środki pomocnicze oraz środki spożywcze specjalnego przeznaczenia żywieniowego, o których mowa w ustawie z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2023 r. poz. 1448).
 
 3. Osobom z zaburzeniami psychicznymi przysługują także produkty lecznicze, wyroby medyczne oraz środki spożywcze specjalnego przeznaczenia żywieniowego określone w wykazach, o których mowa w art. 37 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2023 r. poz. 826, 1733, 1938 i 2105), w zakresie kategorii, o której mowa w art. 6 ust. 1 pkt 1 lit. b tej ustawy, zakwalifikowane do odpłatności zgodnie z art. 6 ust. 2 tej ustawy.
 
 #### Rozdział 2 Badanie, leczenie, rehabilitacja oraz opieka i pomoc
-
-**Art. 10a.**
-
-1. Osoba korzystająca ze świadczeń zdrowotnych udzielanych przez szpital psychiatryczny ma prawo do pomocy w ochronie swoich praw.
-
-2. Prawo do pomocy w ochronie praw osoby, o której mowa w ust. 1, przysługuje również jej przedstawicielowi ustawowemu, opiekunowi prawnemu lub faktycznemu.
-
-3. Świadczeniodawca informuje osoby, o których mowa w ust. 1 i 2, o zakresie działania i sposobie kontaktu z Rzecznikiem Praw Pacjenta Szpitala Psychiatrycznego, o którym mowa w art. 10b ust. 1.
-
-4. Osoby, o których mowa w ust. 1 i 2, mają prawo w szczególności do:
-
-- **1)** przekazania ustnych i pisemnych skarg dotyczących naruszenia praw osoby, o której mowa w ust. 1;
-- **2)** spotkania z Rzecznikiem Praw Pacjenta Szpitala Psychiatrycznego, w warunkach zapewniających swobodę wypowiedzi, nie później niż w terminie 7 dni od dnia zgłoszenia takiej potrzeby;
-- **3)** uzyskania informacji o rozstrzygnięciu zgłoszonej sprawy.
-
-**Art. 10b.**
-
-1. Ochrona praw osób, o których mowa w art. 10a ust. 1, jest zadaniem Rzecznika Praw Pacjenta, które realizuje w szczególności przy pomocy Rzeczników Praw Pacjenta Szpitala Psychiatrycznego.
-
-2. Do zadań Rzecznika Praw Pacjenta Szpitala Psychiatrycznego należy w szczególności:
-
-- **1)** pomoc w dochodzeniu praw w sprawach związanych z przyjęciem, leczeniem, warunkami pobytu i wypisaniem ze szpitala psychiatrycznego;
-- **2)** wyjaśnianie lub pomoc w wyjaśnianiu ustnych i pisemnych skarg tych osób;
-- **3)** współpraca z rodziną, przedstawicielem ustawowym, opiekunem prawnym lub faktycznym tych osób;
-- **4)** inicjowanie i prowadzenie działalności edukacyjno-informacyjnej w zakresie praw osób korzystających ze świadczeń zdrowotnych udzielanych przez szpital psychiatryczny.
-
-3. W zakresie zadań, o których mowa w ust. 1 i 2, Rzecznik Praw Pacjenta Szpitala Psychiatrycznego współpracuje z:
-
-- **1)** Rzecznikiem Praw Obywatelskich;
-- **2)** Rzecznikiem Praw Dziecka;
-- **3)** konsultantem krajowym i konsultantami wojewódzkimi w dziedzinie psychiatrii.
-
-4. Rzecznik Praw Pacjenta Szpitala Psychiatrycznego w celu realizacji zadań, o których mowa w ust. 1 i 2, ma prawo:
-
-- **1)** wstępu do pomieszczeń szpitala psychiatrycznego związanych z udzielaniem świadczeń zdrowotnych;
-- **2)** występowania z wnioskiem do personelu podmiotu leczniczego w rozumieniu przepisów o działalności leczniczej, w szczególności do lekarza prowadzącego, ordynatora oddziału psychiatrycznego (lekarza kierującego oddziałem) lub kierownika podmiotu leczniczego, oraz do podmiotu tworzącego w rozumieniu tej ustawy, o podjęcie działań zmierzających do usunięcia przyczyny skargi lub zaistniałych naruszeń;
-- **3)** dostępu do dokumentacji medycznej osoby, o której mowa w art. 10a ust. 1;
-- **4)** porozumiewania się z osobami, o których mowa w art. 10a ust. 1 i 2, bez udziału innych osób.
-
-5. Kierownik zapewnia Rzecznikowi Praw Pacjenta Szpitala Psychiatrycznego warunki do wykonywania jego zadań, w szczególności:
-
-- **1)** umożliwia przyjmowanie skarg, o których mowa w art. 10a ust. 4 pkt 1, przez Rzecznika;
-- **2)** udostępnia pomieszczenia przeznaczone do odbywania spotkań z osobami, o których mowa w art. 10a ust. 1 i 2.
-
-6. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczegółowy tryb i sposób działania Rzecznika Praw Pacjenta Szpitala Psychiatrycznego, uwzględniając terytorialny obszar działania Rzeczników w odniesieniu do różnych form opieki psychiatrycznej.
-
-**Art. 10c.**
-
-1. Rzecznikiem Praw Pacjenta Szpitala Psychiatrycznego może być osoba, z zastrzeżeniem ust. 2, która:
-
-- **1)** posiada wykształcenie wyższe;
-- **2)** posiada wiedzę na temat praw i wolności człowieka, w szczególności osoby z zaburzeniami psychicznymi, a także możliwości skutecznej ochrony tych praw;
-- **3)** posiada doświadczenie w pracy z osobami z zaburzeniami psychicznymi;
-- **4)** jest obywatelem polskim;
-- **5)** korzysta z pełni praw publicznych;
-- **6)** nie była karana za przestępstwo popełnione z winy umyślnej;
-- **7)** cieszy się nieposzlakowaną opinią.
-
-2. Rzecznik Praw Pacjenta Szpitala Psychiatrycznego nie może być:
-
-- **1)** świadczeniodawcą w rozumieniu art. 5 pkt 41 ustawy o świadczeniach;
-- **2)** właścicielem podmiotu wykonującego działalność leczniczą będącym świadczeniodawcą, o którym mowa w art. 5 pkt 41 lit. a ustawy o świadczeniach, jego pracownikiem lub osobą współpracującą ze świadczeniodawcą;
-- **3)** właścicielem lub pracownikiem apteki, hurtowni farmaceutycznej lub wytwórcą produktu leczniczego lub producentem wyrobu medycznego lub wyposażenia wyrobu medycznego, w rozumieniu przepisów rozporządzenia 2017/745, lub podmiotem zestawiającym system lub zestaw zabiegowy lub sterylizującym zestaw lub system zabiegowy, w rozumieniu przepisów rozporządzenia 2017/745, lub producentem wyrobu medycznego do diagnostyki in vitro lub wyposażenia wyrobu medycznego do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia 2017/746;
-- **4)** właścicielem akcji albo udziałów w spółce prowadzącej aptekę lub hurtownię farmaceutyczną albo wytwarzającej produkty lecznicze lub wyroby medyczne lub wyposażenie wyrobu medycznego, w rozumieniu przepisów rozporządzenia 2017/745, lub wyroby medyczne do diagnostyki in vitro lub wyposażenie wyrobu medycznego do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia 2017/746;
-- **5)** członkiem Rady Narodowego Funduszu Zdrowia albo rady oddziału wojewódzkiego Narodowego Funduszu Zdrowia;
-- **6)** pracownikiem Narodowego Funduszu Zdrowia.
-
-**Art. 10d.** Rzecznicy Praw Pacjenta Szpitala Psychiatrycznego są pracownikami Biura Rzecznika Praw Pacjenta, o którym mowa w ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581), i wykonują swoje zadania przy pomocy tego Biura.
 
 **Art. 11.**
 
@@ -292,9 +353,9 @@ source: "isap-pdf"
 
 1. Przymus bezpośredni wobec osób z zaburzeniami psychicznymi, przy wykonywaniu czynności przewidzianych w niniejszej ustawie, można stosować tylko wtedy, gdy przepis niniejszej ustawy do tego upoważnia albo osoby te:
 
-- **1)** dopuszczają się zamachu przeciwko:
-    - **a)** życiu lub zdrowiu własnemu lub innej osoby lub
-    - **b)** bezpieczeństwu powszechnemu, lub
+- **1)** dopuszczają się zamachu przeciwko: życiu lub zdrowiu własnemu lub innej osoby lub bezpieczeństwu powszechnemu, lub
+    - **a)**
+    - **b)**
 
 - **2)** w sposób gwałtowny niszczą lub uszkadzają przedmioty znajdujące się w ich otoczeniu, lub
 - **3)** poważnie zakłócają lub uniemożliwiają funkcjonowanie zakładu leczniczego udzielającego świadczenia zdrowotnego w zakresie psychiatrycznej opieki zdrowotnej, innego zakładu leczniczego lub jednostki organizacyjnej pomocy społecznej.
@@ -328,8 +389,6 @@ source: "isap-pdf"
 
 11. (uchylony)
 
-**Art. 18a.**
-
 1. Zastosowanie przymusu bezpośredniego może nastąpić z użyciem więcej niż jednego środka spośród wymienionych w art. 3 pkt 6.
 
 2. Osobie z zaburzeniami psychicznymi, wobec której jest stosowany przymus bezpośredni w formie unieruchomienia lub izolacji, należy odebrać przedmioty, które mogą być niebezpieczne dla życia lub zdrowia tej osoby albo innych osób, w szczególności: przedmioty ostre, okulary, protezy zębowe, pas, szelki, sznurowadła i źródła ognia.
@@ -352,15 +411,11 @@ source: "isap-pdf"
 
 11. Po upływie 24 godzin stosowania przymusu bezpośredniego w formie unieruchomienia lub izolacji lekarz powiadamia o jego stosowaniu ordynatora (lekarza kierującego oddziałem albo jednostką lub komórką organizacyjną, w której zastosowano przymus bezpośredni).
 
-**Art. 18b.**
-
 1. W jednostce organizacyjnej pomocy społecznej, w przypadku braku możliwości uzyskania zlecenia lekarza, pielęgniarka może przedłużyć stosowanie przymusu bezpośredniego w formie unieruchomienia lub izolacji na okres nie dłuższy niż 4 godziny.
 
 2. W jednostce organizacyjnej pomocy społecznej czas stosowania wobec osoby z zaburzeniami psychicznymi przymusu bezpośredniego w formie unieruchomienia lub izolacji nie może przekroczyć 8 godzin. Dalsze przedłużenie stosowania przymusu bezpośredniego w tych formach jest dopuszczalne jedynie w warunkach szpitalnych.
 
 3. O przewiezieniu osoby z zaburzeniami psychicznymi do szpitala psychiatrycznego kierownik jednostki organizacyjnej pomocy społecznej powiadamia przedstawiciela ustawowego lub opiekuna faktycznego tej osoby.
-
-**Art. 18c.**
 
 1. Zastosowanie każdego rodzaju środka przymusu bezpośredniego podlega odnotowaniu w indywidualnej i zbiorczej dokumentacji medycznej.
 
@@ -381,13 +436,9 @@ source: "isap-pdf"
 - **2)** kierownik jednostki organizacyjnej pomocy społecznej – dla osób zatrudnionych w kierowanej przez niego jednostce lub osób wykonujących w tej jednostce działalność na podstawie zawartej umowy lub porozumienia;
 - **3)** dysponent zespołów ratownictwa medycznego – dla osób wchodzących w skład zespołów ratownictwa medycznego.
 
-**Art. 18d.**
-
 1. Osobę, wobec której zastosowano przymus bezpośredni w formie unieruchomienia, umieszcza się w pomieszczeniu jednoosobowym; przepis nie dotyczy sytuacji, o których mowa w art. 18 ust. 5.
 
 2. W przypadku braku możliwości umieszczenia osoby, o której mowa w ust. 1, w pomieszczeniu jednoosobowym, osłania się ją od innych osób przebywających w tym samym pomieszczeniu, zapewniając poszanowanie jej godności i intymności, w tym również przy wykonywaniu zabiegów pielęgnacyjnych.
-
-**Art. 18e.**
 
 1. Przymus bezpośredni w formie izolacji jest stosowany w pomieszczeniu urządzonym w sposób zabezpieczający przed uszkodzeniem ciała osoby z zaburzeniami psychicznymi i odpowiadającym wymogom, jakie powinny spełniać pokoje łóżkowe w szpitalu psychiatrycznym lub w innym zakładzie leczniczym albo pokoje mieszkalne w jednostce organizacyjnej pomocy społecznej.
 
@@ -399,15 +450,17 @@ source: "isap-pdf"
 
 5. Dane utrwalone za pomocą urządzeń monitorujących mogą być przetwarzane wyłącznie przez osoby posiadające pisemne upoważnienie wydane przez administratora danych, w szczególności sędziów oraz Rzeczników Praw Pacjenta Szpitala Psychiatrycznego, w celu realizacji zadań określonych w ustawie. Osoby posiadające pisemne upoważnienie są zobowiązane do zachowania tych danych w tajemnicy.
 
-6. Zapis z monitoringu przechowuje się przez okres co najmniej 12 miesięcy od dnia jego zarejestrowania, nie dłużej jednak niż przez 13 miesięcy od dnia jego zarejestrowania, o ile nie zostanie on zabezpieczony jako dowód w sprawie w przypadku toczącego się postępowania. Po upływie terminu przechowywania zapis usuwa się w sposób uniemożliwiający jego odzyskanie. Z usunięcia zapisu sporządza się protokół, w którym należy wskazać datę tej czynności oraz imię i nazwisko osoby, która dokonała usunięcia. Dopuszcza się niszczenie zapisu na urządzeniu monitorującym przez jego automatyczne nadpisanie w przypadku, gdy warunki techniczne tego urządzenia umożliwiają przechowywanie zapisu przez okres, o którym mowa w zdaniu pierwszym.
+6. Zapis z monitoringu przechowuje się przez okres co najmniej 12 miesięcy od dnia jego zarejestrowania, nie dłużej jednak niż przez 13 miesięcy od dnia jego zarejestrowania, o ile nie zostanie on zabezpieczony jako dowód w sprawie w przypadku toczącego się postępowania. Po upływie terminu przechowywania zapis usuwa się w sposób uniemożliwiający jego odzyskanie. Z usunięcia zapisu sporządza się protokół, w którym należy wskazać datę tej czynności oraz imię i nazwisko osoby, która dokonała usunięcia. Dopuszcza się niszczenie zapisu na urządzeniu monitorującym przez jego automatyczne nadpisanie w przypadku, gdy warunki techniczne tego urządzenia umożliwiają przechowywanie zapisu przez okres, o którym mowa w zdaniu pierwszym. Minister właściwy do spraw zdrowia w porozumieniu z Ministrem Sprawiedliwości oraz ministrem właściwym do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia:
 
-**Art. 18f.** Minister właściwy do spraw zdrowia w porozumieniu z Ministrem Sprawiedliwości oraz ministrem właściwym do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia:
+- **1)** sposób dokumentowania zastosowania przymusu bezpośredniego oraz sposób dokonywania oceny zasadności jego zastosowania,
+- **2)** sposób przeprowadzania oceny stanu fizycznego osoby z zaburzeniami psychicznymi unieruchomionej lub izolowanej,
+- **3)** rodzaje i wzory dokumentów stosowanych przy wykonywaniu czynności, o których mowa w pkt 1 i 2 uwzględniając potrzebę ochrony praw i godności osoby, wobec której jest stosowany przymus bezpośredni, oraz skutecznej oceny zasadności stosowania tego przymusu.
 
 **Art. 19.** Przewidziane w innych ustawach badanie stanu psychicznego osoby, przeprowadzane na żądanie sądu, prokuratora lub innego uprawnionego organu, powinno się odbywać w podmiotach leczniczych udzielających świadczeń zdrowotnych w zakresie psychiatrycznej opieki zdrowotnej. W razie potrzeby badanie to może być przeprowadzone w opiniodawczych zespołach sądowych specjalistów, a wyjątkowo także w miejscu zamieszkania osoby badanej.
 
 **Art. 20.** Przepisy ustawy przewidujące wymóg wyrażenia zgody przez przedstawiciela ustawowego osoby małoletniej lub osoby ubezwłasnowolnionej całkowicie stosuje się również do osoby ubezwłasnowolnionej częściowo, jeżeli wynika to z postanowienia sądu opiekuńczego o ustanowieniu kuratora.
 
-#### Rozdział 3 Postępowanie lecznicze Przyjęcie do szpitala psychiatrycznego
+#### Rozdział 3 Postępowanie lecznicze
 
 **Art. 21.**
 
@@ -496,17 +549,13 @@ source: "isap-pdf"
 
 3. W przypadku, o którym mowa w ust. 2, jeżeli treść wniosku lub załączone do wniosku dokumenty uprawdopodabniają zasadność przyjęcia do szpitala psychiatrycznego, a złożenie orzeczenia, o którym mowa w ust. 1, nie jest możliwe, sąd zarządza poddanie osoby, której dotyczy wniosek, odpowiedniemu badaniu.
 
-4. Jeżeli osoba, o której mowa w art. 29 ust. 1, odmawia poddania się badaniu, może być ono przeprowadzone bez jej zgody. Przepis art. 21 stosuje się odpowiednio.
-
-**Art. 30a.** (uchylony)
-
-**Art. 30b.**
+4. Jeżeli osoba, o której mowa w art. 29 ust. 1, odmawia poddania się badaniu, może być ono przeprowadzone bez jej zgody. Przepis art. 21 stosuje się odpowiednio. (uchylony)
 
 1. W szpitalu psychiatrycznym jest prowadzony rejestr osób przyjętych do szpitala:
 
 - **1)** bez zgody,
 - **2)** bez zgody, jeżeli zgoda na pobyt została następnie wyrażona,
-- **3)** niezdolnych do wyrażenia zgody lub stanowiska odnośnie przyjęcia do szpitala psychiatrycznego – zwany dalej „rejestrem”.
+- **3)** niezdolnych do wyrażenia zgody lub stanowiska odnośnie przyjęcia do szpitala psychiatrycznego zwany dalej „rejestrem”.
 
 2. W przypadku oddziału psychiatrycznego funkcjonującego w szpitalu psychiatrycznym dysponującym więcej niż jednym oddziałem psychiatrycznym rejestr jest prowadzony wspólnie dla wszystkich tych oddziałów.
 
@@ -607,9 +656,7 @@ source: "isap-pdf"
 
 #### Rozdział 5 Postępowanie przed sądem opiekuńczym
 
-**Art. 42.** W postępowaniu przed sądem opiekuńczym w sprawach określonych w niniejszej ustawie stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o postępowaniu nieprocesowym, ze zmianami wynikającymi z niniejszej ustawy. Do wysłuchania osoby ubezwłasnowolnionej, która na wniosek jej opiekuna prawnego ma być przyjęta do szpitala psychiatrycznego albo domu pomocy społecznej, stosuje się odpowiednio art. 547 Kodeksu postępowania cywilnego.
-
-**Art. 42a.** Sąd może zarządzić przeprowadzenie przez kuratora sądowego wywiadu środowiskowego w celu ustalenia warunków życiowych osoby, której postępowanie dotyczy, oraz jej funkcjonowania w środowisku.
+**Art. 42.** W postępowaniu przed sądem opiekuńczym w sprawach określonych w niniejszej ustawie stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o postępowaniu nieprocesowym, ze zmianami wynikającymi z niniejszej ustawy. Do wysłuchania osoby ubezwłasnowolnionej, która na wniosek jej opiekuna prawnego ma być przyjęta do szpitala psychiatrycznego albo domu pomocy społecznej, stosuje się odpowiednio art. 547 Kodeksu postępowania cywilnego. Sąd może zarządzić przeprowadzenie przez kuratora sądowego wywiadu środowiskowego w celu ustalenia warunków życiowych osoby, której postępowanie dotyczy, oraz jej funkcjonowania w środowisku.
 
 **Art. 43.**
 
@@ -666,8 +713,6 @@ source: "isap-pdf"
 
 15. O niewykonaniu lub niewłaściwym wykonaniu zaleceń pokontrolnych prezes sądu okręgowego zawiadamia organ sprawujący nadzór nad kontrolowanym podmiotem.
 
-**Art. 43a.**
-
 1. Domy pomocy społecznej niewymienione w art. 43 ust. 1 oraz placówki zapewniające całodobową opiekę, o których mowa w art. 67 i art. 69 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, podlegają kontroli w zakresie przestrzegania praw osób, w stosunku do których zastosowano ograniczenie możliwości samodzielnego opuszczania domu pomocy społecznej lub placówki.
 
 2. Do kontroli, o której mowa w ust. 1, stosuje się odpowiednio przepisy art. 43.
@@ -710,8 +755,6 @@ source: "isap-pdf"
 
 5. W sprawach dotyczących wypisania osoby chorej psychicznie ze szpitala psychiatrycznego uczestnikiem postępowania z mocy prawa jest również szpital psychiatryczny.
 
-**Art. 46a.**
-
 1. Przy wykonywaniu postanowień sądowych o przyjęciu do domu pomocy społecznej lub szpitala psychiatrycznego stosuje się art. 18.
 
 2. W przypadku, o którym mowa w ust. 1, przewidziane w innych przepisach środki przymusu bezpośredniego mogą być stosowane jedynie po uprzednim bezskutecznym zastosowaniu przymusu bezpośredniego przewidzianego w niniejszej ustawie albo gdy jego zastosowanie byłoby niecelowe.
@@ -727,6 +770,13 @@ source: "isap-pdf"
 2. Sąd ustanawia adwokata lub radcę prawnego z urzędu, jeżeli postępowanie dotyczy bezpośrednio osoby przyjmowanej do szpitala psychiatrycznego albo do domu pomocy społecznej, albo przebywającej w danym podmiocie, bez jej zgody.
 
 **Art. 49.** Minister właściwy do spraw zdrowia w porozumieniu z Ministrem Sprawiedliwości określi, w drodze rozporządzenia:
+
+- **1)** szczegółowy sposób postępowania w sprawach przyjęcia oraz wypisania ze szpitala psychiatrycznego,
+- **2)** wzory: skierowania do szpitala psychiatrycznego, zawiadomień kierownika szpitala psychiatrycznego oraz sądu opiekuńczego o przyjęciu do tego szpitala osoby chorej psychicznie bez jej pisemnej zgody na podstawie art. 23 ust. 1 lub osoby z zaburzeniami psychicznymi na podstawie art. 24 ust. 1, (uchylona) zawiadomień sądu opiekuńczego o wypisaniu ze szpitala psychiatrycznego oraz o pozostaniu w szpitalu psychiatrycznym za zgodą osoby przyjętej do tego szpitala uwzględniając ochronę praw i godności osób przyjmowanych i wypisywanych ze szpitali psychiatrycznych oraz potrzebę zapewnienia sprawnego przebiegu procesu leczniczego.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 #### Rozdział 6 Ochrona tajemnicy
 
@@ -764,5 +814,8 @@ source: "isap-pdf"
 
 3. Realizacja sieci, o której mowa w ust. 2, nastąpi w terminie do dnia 31 grudnia 2025 r.
 
-**Art. 56.** Ustawa wchodzi w życie po upływie trzech miesięcy od dnia ogłoszenia .
+**Art. 56.** Ustawa wchodzi w życie po upływie trzech miesięcy od dnia ogłoszenia.
+
+- **1)** Oznaczenie ust. 1 nadane przez art. 87 ustawy z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych (Dz. U. poz. 1972); wszedł w życie z dniem 1 stycznia 2024 r. 2) Dodany przez art. 87 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 1 stycznia 2024 r. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1693, 1938 i 2760 oraz z 2024 r. poz. 743, 858 i 859. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 117 z 03.05.2019, str. 9, Dz. Urz. UE L 334 z 27.12.2019, str. 165, Dz. Urz. UE L 130 z 24.04.2020, str. 18 i Dz. Urz. UE L 241 z 08.07.2021, str. 7. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 117 z 03.05.2019, str. 11, Dz. Urz. UE L 334 z 27.12.2019, str. 167 i Dz. Urz. UE L 233 z 01.07.2021, str. 9. 6) Ustawa została ogłoszona w dniu 20 października 1994 r.
+
 

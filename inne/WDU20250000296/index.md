@@ -11,7 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o dniach wolnych od pracy
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 marca 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,13 +25,32 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-03-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000296) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/296/text.pdf) |
 
+Poz. 296 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 6 marca 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o dniach wolnych od pracy
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 18 stycznia 1951 r. o dniach wolnych od pracy (Dz. U. z 2020 r. poz. 1920), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 6 grudnia 2024 r. o zmianie ustawy o dniach wolnych od pracy oraz niektórych innych ustaw (Dz. U. poz. 1965) oraz zmian wynikających z przepisów ogłoszonych przed dniem 6 marca 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 5 ustawy z dnia 6 grudnia 2024 r. o zmianie ustawy o dniach wolnych od pracy oraz niektórych innych ustaw (Dz. U. poz. 1965), który stanowi: „Art. 5. Ustawa wchodzi w życie z dniem 1 lutego 2025 r.”.
-Marszałek Sejmu: S. Hołownia
+Marszałek Sejmu: S. Hołownia Dziennik Ustaw – 2 – Poz. 296
 USTAWA z dnia 18 stycznia 1951 r.
 o dniach wolnych od pracy
 
 **Art. 1.** Dniami wolnymi od pracy są:
+
+- **1)** dni niżej wymienione:
+    - **a)** 1 stycznia – Nowy Rok,
+    - **b)** 6 stycznia – Święto Trzech Króli,
+    - **c)** pierwszy dzień Wielkiej Nocy,
+    - **d)** drugi dzień Wielkiej Nocy,
+    - **e)** 1 maja – Święto Państwowe,
+    - **f)** 3 maja – Święto Narodowe Trzeciego Maja,
+    - **g)** pierwszy dzień Zielonych Świątek,
+    - **h)** dzień Bożego Ciała,
+    - **i)** 15 sierpnia – Wniebowzięcie Najświętszej Maryi Panny,
+    - **j)** 1 listopada – Wszystkich Świętych,
+    - **k)** 11 listopada – Narodowe Święto Niepodległości, ka) 24 grudnia – Wigilia Bożego Narodzenia,
+    - **l)** 25 grudnia – pierwszy dzień Bożego Narodzenia,
+    - **m)** 26 grudnia – drugi dzień Bożego Narodzenia;
+
+- **2)** niedziele.
 
 **Art. 1a.**
 

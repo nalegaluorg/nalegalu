@@ -22,6 +22,7 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1956-09-11 |
 | Data wydania | 1956-10-01 |
+| Wejście w życie | 1956-11-01 |
 | Ostatnia zmiana | 2024-11-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19560410188) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1956/188/text.pdf) |
 

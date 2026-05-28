@@ -1,0 +1,1561 @@
+---
+title: "Rozporządzenie Ministra Zdrowia z dnia 6 kwietnia 2020 r. w sprawie rodzajów, zakresu i wzorów dokumentacji medycznej oraz sposobu jej przetwarzania"
+address: WDU20200000666
+eli: DU/2020/666
+publisher: DU
+year: 2020
+pos: 666
+act_type: Rozporządzenie
+status: akt posiada tekst jednolity
+domain: null
+source: "eli-html"
+---
+
+# Rozporządzenie Ministra Zdrowiaz dnia 6 kwietnia 2020 r. w sprawie rodzajów, zakresu i wzorów dokumentacji medycznej oraz sposobu jej przetwarzania
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2020 poz. 666 |
+| ISAP | WDU20200000666 |
+| Typ aktu | Rozporządzenie |
+| Status | akt posiada tekst jednolity |
+| W mocy | tak |
+| Data ogłoszenia | 2020-04-06 |
+| Data wydania | 2020-04-14 |
+| Wejście w życie | 2020-04-15 |
+| Ostatnia zmiana | 2025-12-23 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000666) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/666/text.pdf) |
+
+Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Dokumentacja podmiotu leczniczego Rozdział 3 – Dokumentacja lekarza udzielającego świadczeń zdrowotnych w ramach praktyki zawodowej Rozdział 4 – Dokumentacja pielęgniarki i położnej udzielających świadczeń zdrowotnych w ramach praktyki zawodowej Rozdział 5 – Dokumentacja fizjoterapeuty udzielającego świadczeń zdrowotnych w ramach praktyki zawodowej Rozdział 6 – Dokumentacja z zakresu opieki zdrowotnej nad uczniami Rozdział 7 – Szczególne rodzaje dokumentacji Rozdział 8 – Przechowywanie i udostępnianie dokumentacji Rozdział 9 – Przepisy przejściowe i końcowe
+
+## Załącznik nr 1 — – Kryteria oceny stosowane przy dokonywaniu wpisów w dokumentacji dotyczących czasu trwania ciąży, poronień, urodzeń żywych i martwych
+
+## Załącznik nr 2 — – Karta obserwacji porodu (wzór)
+
+## Załącznik nr 3 — – Książeczka zdrowia dziecka (wzór)
+
+Treść rozporządzenia
+Na podstawie art. 30 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2019 r. poz. 1127, 1128, 1590, 1655 i 1696) zarządza się, co następuje:
+Rozdział 1 Przepisy ogólne
+§ 1.
+1.
+Dokumentacja medyczna, zwana dalej „dokumentacją”, jest prowadzona przez podmiot udzielający świadczeń zdrowotnych, zwany dalej „podmiotem”, w postaci elektronicznej.
+2.
+Dokumentacja może być prowadzona w postaci papierowej, jeżeli przepis rozporządzenia tak stanowi lub warunki organizacyjno-techniczne uniemożliwiają prowadzenie dokumentacji w postaci elektronicznej.
+3.
+Dokument prowadzony w jednej z postaci, o których mowa w ust. 1 i 2, nie może być jednocześnie prowadzony w drugiej z nich.
+4.
+Dokumentację uważa się za zabezpieczoną, jeżeli w sposób ciągły są spełnione łącznie następujące warunki:
+1)
+jest zapewniona jej dostępność wyłącznie dla osób uprawnionych, o których mowa w art. 24 ust. 2 i art. 26 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta oraz innych przepisach prawa powszechnie obowiązującego;
+2)
+są zastosowane metody i środki ochrony dokumentacji, których skuteczność w czasie ich zastosowania jest powszechnie uznawana.
+5.
+Zabezpieczenie dokumentacji wymaga w szczególności:
+1)
+systematycznego szacowania ryzyka zagrożeń oraz zarządzania tym ryzykiem;
+2)
+opracowania i stosowania udokumentowanych procedur zabezpieczania dokumentacji i systemów ich przetwarzania, w tym procedur dostępu oraz przechowywania;
+3)
+stosowania środków bezpieczeństwa adekwatnych do zagrożeń, uwzględniających najnowszy stan wiedzy;
+4)
+dbałości o aktualizację oprogramowania;
+5)
+bieżącego kontrolowania funkcjonowania organizacyjnych i techniczno-informatycznych sposobów zabezpieczenia, a także okresowego dokonywania oceny skuteczności tych sposobów;
+6)
+przygotowania i realizacji planów przechowywania dokumentacji w długim czasie, w tym jej przenoszenia na informatyczne nośniki danych i do nowych formatów danych, jeżeli tego wymaga zapewnienie ciągłości dostępu do dokumentacji.
+6.
+System teleinformatyczny, w którym jest prowadzona dokumentacja, zapewnia:
+1)
+integralność treści dokumentacji i metadanych polegającą na zabezpieczeniu przed wprowadzaniem zmian, z wyjątkiem zmian wprowadzanych w ramach udokumentowanych procedur;
+2)
+stały dostęp do dokumentacji dla osób uprawnionych oraz zabezpieczenie przed dostępem osób nieuprawnionych;
+3)
+wymagalność identyfikacji osoby sporządzającej dokumentację oraz dokonującej wpisu lub innej zmiany i zakresu dokonanych zmian w dokumentacji lub metadanych;
+4)
+informację o czasie sporządzenia dokumentacji oraz dokonania wpisu lub innej zmiany;
+5)
+przyporządkowanie cech informacyjnych dla odpowiednich rodzajów dokumentacji, zgodnie z § 10 pkt 3;
+6)
+możliwość prowadzenia i udostępniania dokumentacji w formatach i standardach wydanych na podstawie art. 11 ust. 1a i 1b ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2019 r. poz. 408, 730, 1590 i 1905), a w przypadku ich braku – możliwość prowadzenia i udostępniania dokumentacji w standardach HL7 oraz DICOM lub innych standardach i formatach;
+7)
+możliwość wydruku dokumentacji;
+8)
+możliwość eksportu całości danych w standardach i formatach, o których mowa w pkt 6, w sposób umożliwiający odtworzenie ich w innym systemie teleinformatycznym.
+7.
+Podmiot zapewnia odpowiednie warunki zabezpieczające dokumentację przed zniszczeniem, uszkodzeniem lub utratą i dostępem osób nieupoważnionych, a także umożliwiające jej wykorzystanie bez zbędnej zwłoki.
+§ 2.
+1.
+Dokumentację stanowi:
+1)
+dokumentacja indywidualna – dotycząca poszczególnych pacjentów korzystających ze świadczeń zdrowotnych;
+2)
+dokumentacja zbiorcza – dotycząca ogółu pacjentów lub określonych grup pacjentów korzystających ze świadczeń zdrowotnych.
+2.
+Dokumentacja indywidualna obejmuje:
+1)
+dokumentację indywidualną wewnętrzną – przeznaczoną na potrzeby podmiotu;
+2)
+dokumentację indywidualną zewnętrzną – przeznaczoną na potrzeby pacjenta.
+3.
+Dokumentację indywidualną wewnętrzną stanowią:
+1)
+historia zdrowia i choroby;
+2)
+historia choroby;
+3)
+karta noworodka;
+4)
+karta indywidualnej opieki pielęgniarskiej;
+5)
+karta indywidualnej opieki prowadzonej przez położną;
+6)
+karta wizyty patronażowej;
+7)
+karta indywidualnej opieki fizjoterapeutycznej;
+8)
+karta wywiadu środowiskowo-rodzinnego;
+9)
+karta zlecenia wyjazdu;
+10)
+karta zlecenia wylotu lotniczego zespołu ratownictwa medycznego;
+11)
+karta medycznych czynności ratunkowych;
+12)
+karta medyczna lotniczego zespołu ratownictwa medycznego;
+13)
+karta uodpornienia, o której mowa w ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2019 r. poz. 1239 i 1495 oraz z 2020 r. poz. 284, 322, 374 i 567);
+14)
+karta transportu medycznego;
+15)
+karta transportu wyjazdowym sanitarnym zespołem typu „N”;
+16)
+karta zlecenia transportu lotniczego;
+17)
+karta przebiegu znieczulenia;
+18)
+karta obserwacji;
+19)
+karta obserwacji porodu;
+20)
+wyniki badań diagnostycznych wraz z opisem;
+21)
+protokół operacyjny;
+22)
+okołooperacyjna karta kontrolna;
+23)
+dokumentacja określona w innych przepisach prawa powszechnie obowiązującego.
+4.
+Dokumentację indywidualną zewnętrzną stanowią:
+1)
+skierowanie do szpitala lub innego podmiotu, udzielającego stacjonarnych i całodobowych świadczeń zdrowotnych innych niż szpitalne;
+2)
+skierowanie na badanie diagnostyczne, konsultację lub leczenie;
+3)
+karta przebiegu ciąży;
+4)
+książeczka zdrowia dziecka;
+5)
+karta informacyjna z leczenia szpitalnego;
+6)
+informacja dla lekarza kierującego świadczeniobiorcę do poradni specjalistycznej lub leczenia szpitalnego o rozpoznaniu, sposobie leczenia, rokowaniu, ordynowanych produktach leczniczych, środkach spożywczych specjalnego przeznaczenia żywieniowego i wyrobach medycznych, w tym okresie ich stosowania i sposobie dawkowania oraz wyznaczonych wizytach kontrolnych, o której mowa w przepisach wydanych na podstawie art. 137 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm.);
+7)
+książeczka szczepień, o której mowa w ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi;
+8)
+karta medycznych czynności ratunkowych;
+9)
+zaświadczenie, orzeczenie, opinia;
+10)
+dokumentacja określona w innych przepisach prawa powszechnie obowiązującego.
+5.
+W dokumentacji indywidualnej wewnętrznej dokonuje się wpisu o wydaniu dokumentacji indywidualnej zewnętrznej oraz zamieszcza się adres repozytorium, pod którym znajduje się wydana dokumentacja indywidualna zewnętrzna, lub załącza się cyfrowe odwzorowanie tej dokumentacji w postaci papierowej. W przypadku prowadzenia dokumentacji indywidualnej wewnętrznej w postaci papierowej załącza się kopię lub dokładny opis wydanej dokumentacji indywidualnej zewnętrznej.
+§ 3.
+1.
+Dokumentacja, o której mowa w § 2 ust. 4 pkt 5 i 6 i § 24 ust. 2, jest przekazywana przez podmiot, który ją wytworzył, podmiotowi kierującemu na badanie diagnostyczne, konsultację lub leczenie za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344), w terminie 7 dni od dnia jej wytworzenia, z wyłączeniem sytuacji, w której osobą kierującą jest lekarz udzielający świadczeń nocnej i świątecznej opieki zdrowotnej albo lekarz udzielający świadczeń w tym samym podmiocie lub nastąpił zgon pacjenta.
+2.
+W przypadku gdy warunki organizacyjno-techniczne uniemożliwiają przekazanie dokumentacji, o której mowa w § 2 ust. 4 pkt 5 i 6, § 9 ust. 4 i § 24 ust. 2, za pomocą środków komunikacji elektronicznej, dokumentacja jest przekazywana w postaci papierowej.
+§ 4.
+1.
+Wpisu w dokumentacji dokonuje się niezwłocznie po udzieleniu świadczenia zdrowotnego, z zapewnieniem niezaprzeczalności i integralności danych, a w dokumentacji w postaci papierowej w sposób czytelny i w porządku chronologicznym.
+2.
+Wpisy i zmiany wpisów opatruje się oznaczeniem osoby ich dokonującej zgodnie z § 10 pkt 3.
+3.
+Dokumentację podpisuje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych.
+4.
+Dokumentację wewnętrzną można podpisać również przy wykorzystaniu wewnętrznych mechanizmów systemu teleinformatycznego.
+5.
+Dokumentację w postaci papierowej opatruje się własnoręcznym podpisem.
+6.
+Wpis w dokumentacji w postaci papierowej nie może być z niej usunięty, a jeżeli został dokonany błędnie, skreśla się go i zamieszcza adnotację o przyczynie błędu oraz datę i oznaczenie osoby dokonującej adnotacji, zgodnie z § 10 pkt 3.
+§ 5.
+1.
+Przy dokonywaniu w dokumentacji wpisu dotyczącego czasu trwania ciąży, poronienia, urodzenia żywego lub urodzenia martwego stosuje się kryteria oceny określone w załączniku nr 1 do rozporządzenia.
+2.
+Ilekroć w przepisach rozporządzenia jest mowa o lekarzu bez bliższego określenia, rozumie się przez to również lekarza dentystę.
+§ 6.
+1.
+Strony wydruku dokumentacji oraz strony dokumentacji w postaci papierowej są numerowane i stanowią chronologicznie uporządkowaną całość.
+2.
+Pierwsza strona wydruku dokumentacji indywidualnej oraz pierwsza strona dokumentacji w postaci papierowej zawierają oznaczenie pacjenta zgodnie z § 10 pkt 2, a kolejne strony – co najmniej imię (imiona) i nazwisko pacjenta.
+3.
+Jeżeli nie jest możliwe ustalenie tożsamości pacjenta, w pierwszej wytworzonej dla tego pacjenta dokumentacji wewnętrznej dokonuje się oznaczenia „NN”, z podaniem przyczyny i okoliczności uniemożliwiających ustalenie tożsamości.
+4.
+Do dokumentacji indywidualnej wewnętrznej włącza się dokumentację udostępnioną przez pacjenta lub zamieszcza się adres repozytorium, pod którym znajduje się dokumentacja udostępniona za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną, lub załącza się cyfrowe odwzorowanie dokumentacji w postaci papierowej lub odnotowuje się zawarte w udostępnionej dokumentacji informacje, które są istotne dla procesu diagnostycznego, leczniczego, pielęgnacyjnego lub rehabilitacyjnego.
+5.
+Dokument włączony do dokumentacji indywidualnej wewnętrznej w postaci papierowej nie może być z niej usunięty, z zastrzeżeniem § 15 ust. 5.
+6.
+W przypadku załączenia cyfrowego odwzorowania dokumentacji w postaci papierowej lub odnotowania zawartych w udostępnionej dokumentacji informacji, które są istotne dla procesu diagnostycznego, leczniczego, rehabilitacyjnego lub pielęgnacyjnego, o których mowa w ust. 4, dokumentacja dostarczona przez pacjenta w postaci papierowej jest zwracana pacjentowi.
+7.
+W przypadku braku możliwości zwrotu dokumentacja dostarczona przez pacjenta w postaci papierowej może być zniszczona w sposób uniemożliwiający identyfikację pacjenta.
+§ 7.
+1.
+W dokumentacji wpisuje się nazwę i numer statystyczny rozpoznania choroby, problemu zdrowotnego lub urazu, według Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów Zdrowotnych Rewizja Dziesiąta.
+2.
+W dokumentacji prowadzonej przez fizjoterapeutę przy opisie stanu funkcjonowania uwzględnia się Międzynarodową Klasyfikację Funkcjonowania, Niepełnosprawności i Zdrowia.
+3.
+W dokumentacji, o której mowa w § 67 i § 68, dopuszcza się odstąpienie od wpisywania numeru statystycznego rozpoznania choroby, problemu zdrowotnego lub urazu, o którym mowa w ust. 1.
+§ 8.
+1.
+Oświadczenie pacjenta:
+1)
+o wyrażeniu zgody na udzielanie informacji, o której mowa w art. 9 ust. 3 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, ze wskazaniem imienia i nazwiska osoby upoważnionej oraz danych umożliwiających kontakt z tą osobą,
+2)
+o upoważnieniu do dostępu do dokumentacji, o którym mowa w art. 26 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta,
+3)
+o wyrażeniu zgody na udzielenie świadczeń zdrowotnych, o której mowa w art. 16–18 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta
+złożone w inny sposób niż za pośrednictwem Internetowego Konta Pacjenta, o którym mowa w art. 7a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, zamieszcza się w dokumentacji indywidualnej wewnętrznej.
+2.
+Podmiot informuje pacjenta przed złożeniem przez niego oświadczeń, o których mowa w ust. 1, o możliwości ich złożenia za pośrednictwem Internetowego Konta Pacjenta i skutkach ich złożenia.
+§ 9.
+1.
+Osoba wystawiająca skierowanie przekazuje wraz ze skierowaniem informacje zawarte w dokumentacji indywidualnej wewnętrznej pacjenta niezbędne do przeprowadzenia badania, konsultacji lub leczenia.
+2.
+Skierowanie zawiera:
+1)
+oznaczenie podmiotu wystawiającego skierowanie, zgodnie z § 10 pkt 1;
+2)
+oznaczenie pacjenta, zgodnie z § 10 pkt 2;
+3)
+oznaczenie rodzaju badania, konsultacji lub leczenia, na które kieruje się pacjenta;
+4)
+rozpoznanie ustalone przez osobę kierującą;
+5)
+inne informacje lub dane, w zakresie niezbędnym do przeprowadzenia badania, konsultacji lub leczenia;
+6)
+datę wystawienia skierowania;
+7)
+oznaczenie osoby kierującej, zgodnie z § 10 pkt 3;
+8)
+numer identyfikujący skierowanie, o którym mowa w art. 59aa ust. 4 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, jeżeli dotyczy.
+3.
+W przypadku gdy osobą wystawiającą skierowanie jest lekarz ubezpieczenia zdrowotnego, pielęgniarka ubezpieczenia zdrowotnego albo położna ubezpieczenia zdrowotnego, skierowanie zawiera dodatkowo numer umowy o udzielanie świadczeń opieki zdrowotnej zawartej z Narodowym Funduszem Zdrowia, chyba że skierowanie jest wystawiane w postaci elektronicznej i możliwe jest dokonanie weryfikacji uprawnień lekarza ubezpieczenia zdrowotnego, pielęgniarki ubezpieczenia zdrowotnego albo położnej ubezpieczenia zdrowotnego w systemie, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
+4.
+Podmiot przeprowadzający badanie, konsultację lub leczenie przekazuje podmiotowi, który wystawił skierowanie, wyniki tych badań lub konsultacji w sposób określony w § 3 ust. 1.
+§ 10.
+Dokumentacja indywidualna, jeżeli przepisy rozporządzenia nie stanowią inaczej, zawiera:
+1)
+oznaczenie podmiotu:
+a)
+nazwę podmiotu,
+b)
+kod resortowy, stanowiący część I systemu resortowych kodów identyfikacyjnych,
+c)
+nazwę zakładu leczniczego – w przypadku podmiotu leczniczego,
+d)
+nazwę jednostki organizacyjnej oraz jej kod resortowy stanowiący część V systemu resortowych kodów identyfikacyjnych – w przypadku podmiotu leczniczego, w którego strukturze organizacyjnej wyodrębniono jednostki organizacyjne,
+e)
+nazwę komórki organizacyjnej, w której udzielono świadczeń zdrowotnych, oraz jej kod resortowy stanowiący część VII systemu resortowych kodów identyfikacyjnych – w przypadku podmiotu leczniczego, w którego strukturze organizacyjnej wyodrębniono komórki organizacyjne;
+2)
+oznaczenie pacjenta zgodnie z art. 25 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, przy czym:
+a)
+określenie rodzaju dokumentu potwierdzającego tożsamość obejmuje jego nazwę oraz nazwę kraju, w którym został wystawiony,
+b)
+datę urodzenia oraz płeć pacjenta wpisuje się tylko w przypadku, jeżeli numer PESEL nie został nadany,
+c)
+adres miejsca zamieszkania wpisuje się w pierwszej wytworzonej dla tego pacjenta dokumentacji wewnętrznej;
+3)
+oznaczenie osoby udzielającej świadczeń zdrowotnych oraz osoby kierującej na badanie diagnostyczne, konsultację lub leczenie:
+a)
+imię (imiona) i nazwisko,
+b)
+tytuł zawodowy – nie dotyczy osoby upoważnionej, o której mowa w art. 31b ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia,
+c)
+numer prawa wykonywania zawodu, jeżeli został nadany,
+d)
+unikalny identyfikator upoważnienia nadany przez Rejestr Asystentów Medycznych, o którym mowa w art. 31b ust. 7 pkt 7 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia – w przypadku osoby upoważnionej, o której mowa w art. 31b ust. 1 tej ustawy,
+e)
+podpis;
+4)
+informacje dotyczące stanu zdrowia lub stanu funkcjonowania oraz procesu diagnostycznego, leczniczego, pielęgnacyjnego lub rehabilitacji, w szczególności:
+a)
+opis udzielonych świadczeń zdrowotnych,
+b)
+rozpoznanie choroby, problemu zdrowotnego, urazu lub rozpoznanie ciąży lub opis stanu funkcjonowania,
+c)
+zalecenia,
+d)
+informacje o wydanych zaświadczeniach, orzeczeniach oraz opiniach,
+e)
+informacje o produktach leczniczych, wraz z dawkowaniem, lub wyrobach medycznych przepisanych pacjentowi na receptach lub zleceniach na zaopatrzenie w wyroby medyczne oraz unikalne numery identyfikujące recepty w postaci elektronicznej, o których mowa w art. 96a ust. 1 pkt 6 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2019 r. poz. 499, z późn. zm.);
+5)
+inne informacje wynikające z innych przepisów prawa powszechnie obowiązującego;
+6)
+adres poczty elektronicznej lub elektronicznej skrzynki podawczej pacjenta, na który ma być przekazana dokumentacja medyczna – w przypadkach udostępniania dokumentacji w sposób, o którym mowa w art. 27 ust. 1 pkt 4 i ust. 3 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta.
+§ 11.
+Dokumentacja zbiorcza, jeżeli przepisy rozporządzenia nie stanowią inaczej, zawiera oznaczenie podmiotu, zgodnie z § 10 pkt 1, numer kolejny wpisu, imię (imiona) i nazwisko oraz numer PESEL pacjenta – jeżeli został nadany, w przypadku noworodka – numer PESEL matki, a w przypadku braku numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego tożsamość, oznaczenie osoby udzielającej świadczeń zdrowotnych, zgodnie z § 10 pkt 3 lit. a-d, datę dokonania wpisu oraz, jeżeli to wynika z przeznaczenia dokumentacji, istotne informacje dotyczące udzielonych świadczeń zdrowotnych.
+Rozdział 2 Dokumentacja podmiotu leczniczego
+§ 12.
+1.
+Podmiot leczniczy prowadzący szpital sporządza i prowadzi:
+1)
+dokumentację indywidualną wewnętrzną w formie historii choroby lub karty noworodka;
+2)
+dokumentację indywidualną zewnętrzną w formie:
+a)
+karty informacyjnej z leczenia szpitalnego,
+b)
+książeczki zdrowia dziecka,
+c)
+skierowania;
+3)
+dokumentację zbiorczą wewnętrzną w formie:
+a)
+wykazu głównego przyjęć i wypisów,
+b)
+wykazu odmów przyjęć i porad ambulatoryjnych udzielanych w izbie przyjęć lub wykazu odmów przyjęć w szpitalnym oddziale ratunkowym,
+c)
+wykazu chorych oddziału,
+d)
+wykazu raportów lekarskich,
+e)
+wykazu raportów pielęgniarskich,
+f)
+wykazu raportów fizjoterapeutycznych,
+g)
+wykazu zabiegów,
+h)
+wykazu bloku operacyjnego albo sali operacyjnej,
+i)
+wykazu bloku porodowego albo sali porodowej,
+j)
+wykazu noworodków,
+k)
+wykazu pracowni diagnostycznej;
+4)
+dokumentację zbiorczą zewnętrzną dla celów określonych w innych przepisach prawa powszechnie obowiązującego.
+2.
+W przypadku gdy co najmniej dokumentacja, o której mowa w ust. 1 pkt 1 i pkt 2 lit. a, jest prowadzona w postaci elektronicznej, prowadzenie dokumentacji, o której mowa w ust. 1 pkt 3, nie jest wymagane.
+§ 13.
+1.
+Historię choroby zakłada się niezwłocznie po przyjęciu pacjenta do szpitala.
+2.
+W przypadku gdy leczenie pacjenta wymaga wielokrotnego udzielania świadczeń zdrowotnych w tym samym zakładzie leczniczym, dopuszcza się dokonywanie kolejnych wpisów w historii choroby założonej przy przyjęciu pacjenta po raz pierwszy.
+§ 14.
+1.
+Historia choroby zawiera informacje dotyczące:
+1)
+przyjęcia pacjenta do szpitala;
+2)
+przebiegu hospitalizacji;
+3)
+wypisania pacjenta ze szpitala.
+2.
+W przypadku rozpoznania onkologicznego ustalonego po wypisaniu pacjenta ze szpitala, na podstawie wyniku badania diagnostycznego, który nie był znany w dniu wypisu ze szpitala, historia choroby, o której mowa w ust. 1, zawiera także to rozpoznanie.
+§ 15.
+1.
+Do historii choroby dołącza się dokumenty dodatkowe, w szczególności:
+1)
+kartę indywidualnej opieki pielęgniarskiej;
+2)
+kartę indywidualnej opieki prowadzonej przez położną;
+3)
+kartę indywidualnej opieki fizjoterapeutycznej;
+4)
+kartę obserwacji lub kartę obserwacji porodu;
+5)
+kartę gorączkową;
+6)
+kartę zleceń lekarskich;
+7)
+kartę przebiegu znieczulenia;
+8)
+kartę medycznych czynności ratunkowych;
+9)
+kartę informacyjną z leczenia szpitalnego;
+10)
+wyniki badań diagnostycznych wraz z opisem, jeżeli nie zostały wpisane w historii choroby;
+11)
+wyniki konsultacji, jeżeli nie zostały wpisane w historii choroby;
+12)
+protokół operacyjny;
+13)
+okołooperacyjną kartę kontrolną;
+14)
+skierowanie – w przypadku przyjęcia pacjenta do szpitala na podstawie skierowania w postaci papierowej;
+15)
+kartę transportu medycznego lub transportu wyjazdowym sanitarnym zespołem typu „N”.
+2.
+W przypadku operacji w trybie natychmiastowym, dopuszcza się odstąpienie od prowadzenia okołooperacyjnej karty kontrolnej.
+3.
+Do historii choroby dołącza się również:
+1)
+dokumentację indywidualną udostępnioną przez pacjenta, w szczególności wyniki wcześniejszych badań diagnostycznych, kartę przebiegu ciąży, karty informacyjne z leczenia szpitalnego, zaświadczenia, orzeczenia oraz opinie,
+2)
+dokumentację indywidualną pacjenta prowadzoną przez inne jednostki lub komórki organizacyjne szpitala i dokumentację archiwalną szpitala dotyczącą poprzednich hospitalizacji pacjenta
+jeżeli są istotne dla procesu diagnostycznego, leczniczego, pielęgnacyjnego lub rehabilitacji.
+4.
+Do historii choroby przepis § 6 ust. 4 stosuje się odpowiednio.
+5.
+Dokumenty, o których mowa w ust. 3 pkt 1, udostępnione w postaci papierowej, zwraca się za pokwitowaniem pacjentowi przy wypisie.
+§ 16.
+1.
+Historia choroby, w zakresie informacji, o których mowa w § 14 ust. 1 pkt 1, zawiera dane określone w § 10 pkt 1–4 oraz:
+1)
+tryb przyjęcia;
+2)
+datę przyjęcia pacjenta do szpitala, ze wskazaniem roku, miesiąca, dnia oraz godziny i minuty w systemie 24-godzinnym;
+3)
+istotne dane z wywiadu i badania przedmiotowego przy przyjęciu pacjenta do szpitala oraz ewentualnych obserwacji, wyniki badań dodatkowych i dane o postępowaniu lekarskim przy przyjęciu do szpitala oraz uzasadnienie przyjęcia;
+4)
+rozpoznanie wstępne ustalone przez lekarza przyjmującego;
+5)
+oznaczenie lekarza przyjmującego, zgodnie z § 10 pkt 3;
+6)
+numer identyfikujący skierowanie, o którym mowa w art. 59aa ust. 4 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w przypadku przyjęcia pacjenta do szpitala na podstawie skierowania w postaci elektronicznej.
+2.
+Historia choroby, w zakresie informacji, o których mowa w § 14 ust. 1 pkt 2, zawiera:
+1)
+dane uzyskane z wywiadu oraz z badania przedmiotowego;
+2)
+wyniki badań diagnostycznych wraz z opisem, jeżeli został sporządzony;
+3)
+dane uzyskane z badania funkcjonalnego, jeżeli zostało przeprowadzone;
+4)
+wyniki konsultacji;
+5)
+opis zastosowanego leczenia, wykonanych zabiegów oraz operacji, z podaniem numeru statystycznego procedury medycznej, ustalonego według Międzynarodowej Klasyfikacji Procedur Medycznych Rewizja Dziewiąta;
+6)
+informacje na temat stopnia natężenia bólu, działań podjętych w zakresie leczenia bólu oraz skuteczności tego leczenia, w przypadkach wymagających monitorowania bólu;
+7)
+opis przebiegu rehabilitacji oraz opis stanu funkcjonowania pacjenta.
+3.
+Historia choroby, w zakresie informacji, o których mowa w § 14 ust. 1 pkt 3, zawiera:
+1)
+rozpoznanie kliniczne składające się z określenia choroby zasadniczej, będącej główną przyczyną hospitalizacji, chorób współistniejących i powikłań;
+2)
+numery statystyczne chorób zasadniczych i chorób współistniejących, ustalone według klasyfikacji, o której mowa w § 7 ust. 1;
+3)
+epikryzę;
+4)
+adnotację o przyczynie i okolicznościach wypisania ze szpitala, o których mowa w art. 29 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2020 r. poz. 295 i 567);
+5)
+adnotację o miejscu, do którego pacjent został skierowany, wraz z adnotacją o zleceniu transportu sanitarnego;
+6)
+datę wypisu.
+4.
+Historia choroby w zakresie informacji, o których mowa w § 14 ust. 1 pkt 3, w przypadku zgonu pacjenta, poza informacjami wymienionymi w ust. 3 pkt 1–3, zawiera:
+1)
+datę zgonu pacjenta, ze wskazaniem roku, miesiąca, dnia oraz godziny i minuty w systemie 24-godzinnym;
+2)
+opis słowny stanów chorobowych prowadzących do zgonu wraz z odstępami czasu między ich wystąpieniem:
+a)
+przyczynę wyjściową albo przyczynę zewnętrzną urazu lub zatrucia,
+b)
+przyczynę wtórną,
+c)
+przyczynę bezpośrednią;
+3)
+protokół komisji stwierdzającej śmierć mózgową, jeżeli taka miała miejsce, lub trwałe nieodwracalne zatrzymanie krążenia poprzedzające pobranie narządów, jeżeli takie miało miejsce;
+4)
+adnotację o dokonaniu albo zaniechaniu sekcji zwłok, z odpowiednim uzasadnieniem oraz sprzeciwem, o którym mowa w art. 31 ust. 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
+5)
+adnotację o pobraniu ze zwłok komórek, tkanek lub narządów.
+§ 17.
+W przypadku, o którym mowa w § 14 ust. 2, wynik badania dołącza się do historii choroby. Przepis § 6 ust. 4 stosuje się odpowiednio.
+§ 18.
+1.
+Wpisy w karcie obserwacji lub w karcie obserwacji porodu są dokonywane przez lekarza, pielęgniarkę, położną lub ratownika medycznego.
+2.
+W przypadku porodu z zastosowaniem analgezji regionalnej prowadzi się kartę przebiegu znieczulenia.
+3.
+Wpisy w karcie zleceń lekarskich są dokonywane przez lekarza prowadzącego lub lekarza sprawującego opiekę nad pacjentem. Wpisy o wykonaniu zlecenia są dokonywane przez osobę wykonującą zlecenie.
+4.
+Wpisy w okołooperacyjnej karcie kontrolnej są dokonywane przez koordynatora karty, którym jest osoba określona w regulaminie organizacyjnym podmiotu leczniczego.
+5.
+Koordynator karty, o którym mowa w ust. 4, dokonuje wpisów w okołooperacyjnej karcie kontrolnej na podstawie informacji udzielanych przez członków zespołu operacyjnego, zgodnie z zakresem ich zadań podczas operacji.
+6.
+Wpisy w karcie indywidualnej opieki pielęgniarskiej lub karcie indywidualnej opieki prowadzonej przez położną są dokonywane przez pielęgniarkę lub położną sprawującą opiekę nad pacjentem. Wpisy o wykonaniu zlecenia, czynności pielęgniarskiej lub położniczej są dokonywane przez osobę realizującą plan opieki.
+7.
+Wpisy w karcie indywidualnej opieki fizjoterapeutycznej są dokonywane przez fizjoterapeutę sprawującego opiekę nad pacjentem. Wpisy o wykonaniu czynności określonych w planie postępowania fizjoterapeutycznego są dokonywane przez fizjoterapeutę realizującego plan.
+8.
+Wpisy dotyczące monitorowania bólu są dokonywane przez lekarza, pielęgniarkę, położną lub fizjoterapeutę.
+9.
+Wzór karty obserwacji porodu określa załącznik nr 2 do rozporządzenia.
+§ 19.
+1.
+Okołooperacyjna karta kontrolna zawiera oznaczenie podmiotu zgodnie z § 10 pkt 1 oraz informacje dotyczące niezbędnych czynności wykonywanych:
+1)
+przed znieczuleniem pacjenta;
+2)
+przed wykonaniem nacięcia;
+3)
+przed opuszczeniem przez pacjenta bloku operacyjnego.
+2.
+Okołooperacyjna karta kontrolna zawiera imię (imiona) i nazwisko pacjenta.
+3.
+Okołooperacyjna karta kontrolna w części dotyczącej czynności wykonywanych przed znieczuleniem pacjenta zawiera w szczególności:
+1)
+datę operacji;
+2)
+nazwę jednostki lub komórki organizacyjnej, w której pacjent przebywał;
+3)
+numer pacjenta w wykazie głównym przyjęć i wypisów;
+4)
+określenie trybu wykonania operacji (planowy, pilny, przyspieszony);
+5)
+potwierdzenie:
+a)
+tożsamości pacjenta,
+b)
+miejsca operowanego,
+c)
+procedury operacyjnej,
+d)
+zgody na operację,
+e)
+rodzaju znieczulenia;
+6)
+informację o oznaczeniu miejsca operowanego (tak, nie);
+7)
+potwierdzenie dokonania oceny bezpieczeństwa przebiegu znieczulenia;
+8)
+potwierdzenie zapewnienia monitorowania:
+a)
+EKG,
+b)
+pulsoksymetrii,
+c)
+ciśnienia tętniczego krwi,
+d)
+kapnometrii;
+9)
+informację o alergiach (tak – ze wskazaniem jakie, nie);
+10)
+informację o przewidywanych trudnościach w utrzymaniu drożności dróg oddechowych (tak – zapewniono właściwy sprzęt, nie);
+11)
+informację o ryzyku krwawienia >500 ml u dorosłych albo >7 ml/kg masy ciała u dzieci (tak – zabezpieczono płyny i preparaty krwiopochodne, nie).
+4.
+Okołooperacyjna karta kontrolna w części dotyczącej czynności wykonywanych przed wykonaniem nacięcia zawiera w szczególności:
+1)
+informację o potwierdzeniu przez członków zespołu operacyjnego, że znają wzajemnie swoją tożsamość oraz funkcję w zespole operacyjnym (tak, nie);
+2)
+informację o przedstawieniu się wszystkich członków zespołu (tak, nie) – w przypadku gdy członkowie zespołu operacyjnego nie znają się wzajemnie;
+3)
+potwierdzenie przez operatora, anestezjologa, pielęgniarkę anestezjologiczną, położną anestezjologiczną, pielęgniarkę operacyjną i położną operacyjną:
+a)
+tożsamości pacjenta,
+b)
+miejsca operowanego,
+c)
+procedury operacyjnej;
+4)
+potwierdzenie właściwego ułożenia pacjenta;
+5)
+potwierdzenie przez pielęgniarkę operacyjną lub położną operacyjną właściwego zestawu narzędzi;
+6)
+informację o możliwych odstępstwach od zaplanowanej procedury operacyjnej, w szczególności zmianie typu lub techniki operacji, wydłużeniu czasu operacji, zmianie rodzaju znieczulenia, oczekiwanej utracie krwi, uzupełnieniu lub zmianie zestawu narzędzi:
+a)
+przez operatora (tak, nie, nie dotyczy),
+b)
+przez anestezjologa (tak, nie, nie dotyczy),
+c)
+przez pielęgniarkę operacyjną (tak, nie, nie dotyczy),
+d)
+przez położną operacyjną (tak, nie, nie dotyczy);
+7)
+informację o zastosowaniu i udokumentowaniu okołooperacyjnej profilaktyki antybiotykowej w okresie do 60 minut przed operacją (tak, nie, nie dotyczy);
+8)
+informację o zastosowaniu profilaktyki przeciwzakrzepowej (tak – ze wskazaniem daty i godziny, nie, nie dotyczy);
+9)
+informację o przygotowaniu wyników badań obrazowych (tak, nie, nie dotyczy).
+5.
+Okołooperacyjna karta kontrolna w części dotyczącej czynności wykonywanych przed opuszczeniem przez pacjenta bloku operacyjnego zawiera w szczególności:
+1)
+potwierdzenie przez zespół operacyjny nazwy wykonanej procedury;
+2)
+potwierdzenie przez pielęgniarkę operacyjną lub położną operacyjną zgodności liczby użytych narzędzi i materiałów;
+3)
+informację o oznaczeniu materiału pobranego do badań (tak, nie, nie dotyczy);
+4)
+informację o wystąpieniu powikłań w trakcie operacji (tak, nie);
+5)
+informację o wystąpieniu problemów ze sprzętem lub trudności technicznych (tak, nie);
+6)
+informację o określeniu przez operatora i anestezjologa ewentualnych problemów pooperacyjnych (tak, nie);
+7)
+informację o wypisaniu zleceń pooperacyjnych przez:
+a)
+operatora (tak, nie),
+b)
+anestezjologa (tak, nie);
+8)
+informację o udokumentowaniu oceny stanu pacjenta przed przekazaniem z bloku operacyjnego do oddziału pooperacyjnego albo sali pooperacyjnej (tak, nie).
+6.
+Okołooperacyjną kartę kontrolną podpisuje koordynator karty, o którym mowa w § 18 ust. 4.
+§ 20.
+1.
+Kartę noworodka zakłada się niezwłocznie po urodzeniu noworodka.
+2.
+Karta noworodka zawiera dane, o których mowa w § 10 pkt 1–4, oraz:
+1)
+dane dotyczące matki noworodka:
+a)
+imię (imiona) i nazwisko,
+b)
+adres zamieszkania,
+c)
+numer PESEL, a w przypadku braku numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego tożsamość,
+d)
+wiek, w przypadku braku numeru PESEL,
+e)
+grupę krwi oraz czynnik Rh;
+2)
+dane dotyczące noworodka:
+a)
+datę urodzenia, ze wskazaniem roku, miesiąca, dnia oraz godziny i minuty w systemie 24-godzinnym,
+b)
+płeć,
+c)
+masę ciała,
+d)
+długość ciała,
+e)
+obwód głowy,
+f)
+obwód klatki piersiowej,
+g)
+ocenę według skali Apgar,
+h)
+urazy okołoporodowe,
+i)
+stwierdzone nieprawidłowości,
+j)
+w przypadku martwego urodzenia – wskazanie, czy zgon nastąpił przed czy w trakcie porodu;
+3)
+opis postępowania po urodzeniu (odśluzowanie, osuszanie, zaopatrzenie pępowiny, zastosowanie tlenu, intubacja, cewnikowanie żyły pępowinowej, masaż serca, sztuczna wentylacja, zastosowane produkty lecznicze);
+4)
+informacje o przebiegu obserwacji w kolejnych dobach;
+5)
+informacje o stanie noworodka w dniu wypisu;
+6)
+informacje o wykonanych testach przesiewowych, szczepieniach i konsultacjach specjalistycznych;
+7)
+informacje o zleceniu transportu medycznego lub transportu wyjazdowym sanitarnym zespołem typu „N”;
+8)
+datę wypisania, a w przypadku zgonu noworodka albo martwego urodzenia – datę zgonu albo martwego urodzenia, ze wskazaniem roku, miesiąca, dnia oraz godziny i minuty w systemie 24-godzinnym, oraz opis słowny stanów chorobowych prowadzących do zgonu, wraz z odstępami czasu między ich wystąpieniem.
+§ 21.
+1.
+Karta informacyjna z leczenia szpitalnego wystawiana jest na podstawie informacji zawartych w historii choroby, o których mowa w § 16, § 18 i § 19, lub w karcie noworodka.
+2.
+Kartę informacyjną z leczenia szpitalnego podpisuje lekarz kierujący oddziałem albo lekarz przez niego upoważniony.
+3.
+W przypadku gdy leczenie pacjenta wymaga wielokrotnego udzielania tego samego świadczenia zdrowotnego, dopuszcza się wystawienie karty informacyjnej po zakończeniu cyklu leczenia.
+4.
+Karta informacyjna z leczenia szpitalnego zawiera dane, o których mowa w § 10 pkt 1–4, oraz:
+1)
+rozpoznania choroby w języku polskim wraz z numerem statystycznym, o którym mowa w § 7 ust. 1;
+2)
+wyniki badań diagnostycznych wraz z opisem oraz wyniki konsultacji;
+3)
+opis zastosowanego leczenia, a w przypadku wykonania zabiegu lub operacji – datę wykonania;
+4)
+wskazania dotyczące dalszego sposobu leczenia, rehabilitacji, żywienia, pielęgnowania lub trybu życia;
+5)
+orzeczony przy wypisie okres czasowej niezdolności do pracy, a w miarę potrzeby ocenę zdolności do wykonywania dotychczasowego zatrudnienia;
+6)
+adnotacje o produktach leczniczych wraz z dawkowaniem i wyrobach medycznych w ilościach odpowiadających ilościom na receptach lub zleceniach na zaopatrzenie w wyroby medyczne wystawionych pacjentowi;
+7)
+terminy planowanych konsultacji, na które wystawiono skierowania;
+8)
+datę wypisu.
+5.
+Karta informacyjna z leczenia szpitalnego w przypadku zgonu pacjenta zawiera dane, o których mowa w § 10 pkt 1–4, rozpoznanie choroby w języku polskim oraz dane, o których mowa w § 16 ust. 4 pkt 1, 2 i 4.
+6.
+Kartę informacyjną z leczenia szpitalnego wydaje się pacjentowi, jego przedstawicielowi ustawowemu albo osobie, o której mowa w § 8 ust. 1 pkt 2, w dniu wypisu, a w przypadku, o którym mowa w art. 29 ust. 1 pkt 2 lub 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, bez zbędnej zwłoki.
+§ 22.
+1.
+W przypadku podjęcia decyzji o wykonaniu sekcji zwłok historię choroby udostępnia się lekarzowi mającemu wykonać sekcję.
+2.
+Lekarz wykonujący sekcję zwłok sporządza protokół badania sekcyjnego z ustalonym rozpoznaniem anatomopatologicznym, który jest przechowywany przez podmiot wykonujący sekcję oraz dołączany do historii choroby. Do dołączania protokołu badania sekcyjnego do historii choroby stosuje się odpowiednio przepis § 6 ust. 4.
+3.
+Historię choroby wraz z protokołem badania sekcyjnego przekazuje się lekarzowi prowadzącemu lub lekarzowi wyznaczonemu przez lekarza kierującego oddziałem, w celu porównania rozpoznania klinicznego i epikryzy z rozpoznaniem anatomopatologicznym. W przypadku rozbieżności między rozpoznaniem klinicznym i rozpoznaniem anatomopatologicznym lekarz dokonuje zwięzłej oceny przyczyn rozbieżności oraz podaje ostateczne rozpoznanie choroby zasadniczej, chorób współistniejących i powikłań.
+§ 23.
+Wykaz główny przyjęć i wypisów, opatrzony numerem wykazu, zawiera:
+1)
+numer kolejny pacjenta w wykazie;
+2)
+datę przyjęcia pacjenta, ze wskazaniem roku, miesiąca, dnia oraz godziny i minuty w systemie 24-godzinnym;
+3)
+imię (imiona) i nazwisko, numer PESEL – jeżeli został nadany, w przypadku noworodka – numer PESEL matki, a w przypadku braku numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+4)
+kody resortowe komórek organizacyjnych, w których pacjent przebywał;
+5)
+rozpoznanie wstępne;
+6)
+rozpoznanie przy wypisie;
+7)
+rozpoznanie onkologiczne po wypisaniu pacjenta, na podstawie wyniku badania diagnostycznego, który nie był znany w dniu wypisu;
+8)
+datę wypisu, a w przypadku zgonu pacjenta – datę zgonu;
+9)
+w przypadku zgonu – przyczyny zgonu, z podaniem ich numerów statystycznych, według klasyfikacji, o której mowa w § 7 ust. 1.
+§ 24.
+1.
+Wykaz odmów przyjęć i porad ambulatoryjnych udzielanych w izbie przyjęć lub wykaz odmów przyjęć w szpitalnym oddziale ratunkowym, opatrzony numerem wykazu, zawiera:
+1)
+numer kolejny pacjenta w wykazie;
+2)
+imię (imiona) i nazwisko, numer PESEL – jeżeli został nadany, w przypadku noworodka – numer PESEL matki, a w przypadku braku numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+3)
+oznaczenie lekarza kierującego, zgodnie z § 10 pkt 3 lit. a-d, jeżeli dotyczy;
+4)
+datę zgłoszenia się pacjenta, ze wskazaniem roku, miesiąca, dnia oraz godziny i minuty w systemie 24-godzinnym;
+5)
+rozpoznanie ustalone przez lekarza kierującego albo adnotację o braku skierowania;
+6)
+istotne dane z wywiadu lekarskiego i badania przedmiotowego oraz wyniki wykonanych badań diagnostycznych;
+7)
+rozpoznanie choroby, problemu zdrowotnego lub urazu;
+8)
+informację o udzielonych świadczeniach zdrowotnych oraz produktach leczniczych wraz z dawkowaniem lub wyrobach medycznych, w ilościach odpowiadających ilościom przepisanym na receptach lub zleceniach na zaopatrzenie w wyroby medyczne wydanych pacjentowi;
+9)
+datę odmowy przyjęcia pacjenta do szpitala, ze wskazaniem roku, miesiąca, dnia oraz godziny i minuty w systemie 24-godzinnym;
+10)
+wskazanie powodu odmowy przyjęcia do szpitala;
+11)
+adnotację o braku zgody pacjenta na pobyt w szpitalu;
+12)
+adnotację o miejscu, do którego pacjent został skierowany, wraz z adnotacją o zleceniu transportu sanitarnego, jeżeli zostało wydane;
+13)
+oznaczenie lekarza, zgodnie z § 10 pkt 3.
+2.
+W przypadku odmowy przyjęcia do szpitala pacjent lub jego przedstawiciel ustawowy otrzymuje informację o rozpoznaniu choroby, problemu zdrowotnego lub urazu, wynikach przeprowadzonych badań, przyczynie odmowy przyjęcia do szpitala, udzielonych świadczeniach zdrowotnych oraz ewentualnych zaleceniach.
+3.
+W przypadku nieprowadzenia wykazu, o którym mowa w ust. 1, adnotacji, o której mowa w ust. 1 pkt 11, dokonuje się w historii choroby.
+§ 25.
+Wykaz chorych oddziału, opatrzony numerem wykazu, zawiera:
+1)
+numer pacjenta w wykazie;
+2)
+datę przyjęcia, ze wskazaniem roku, miesiąca, dnia oraz godziny i minuty w systemie 24-godzinnym;
+3)
+numer pacjenta w wykazie głównym przyjęć i wypisów;
+4)
+imię (imiona) i nazwisko oraz numer PESEL pacjenta, jeżeli został nadany, w przypadku noworodka – numer PESEL matki, a w przypadku braku numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego tożsamość matki;
+5)
+oznaczenie lekarza prowadzącego, zgodnie z § 10 pkt 3 lit. a;
+6)
+datę i godzinę wypisu, przeniesienia do innego oddziału albo zgonu pacjenta;
+7)
+rozpoznanie wstępne;
+8)
+rozpoznanie przy wypisie albo adnotację o wystawieniu karty zgonu;
+9)
+rozpoznanie onkologiczne po wypisaniu pacjenta, na podstawie wyniku badania diagnostycznego, który nie był znany w dniu wypisu;
+10)
+adnotację o miejscu, do którego pacjent został wypisany, lub oddziale, do którego został przeniesiony;
+11)
+oznaczenie lekarza wypisującego, zgodnie z § 10 pkt 3 lit. a.
+§ 26.
+Wykaz raportów lekarskich zawiera informacje niezbędne dla zapewnienia bezpieczeństwa pacjentów i ciągłości udzielania świadczeń zdrowotnych oraz oznaczenie lekarza dokonującego wpisu, zgodnie z § 10 pkt 3.
+§ 27.
+Wykaz raportów pielęgniarskich zawiera informacje niezbędne dla zapewnienia bezpieczeństwa pacjentów i ciągłości udzielania świadczeń zdrowotnych oraz oznaczenie pielęgniarki lub położnej dokonującej wpisu, zgodnie z § 10 pkt 3.
+§ 28.
+Wykaz raportów fizjoterapeutycznych zawiera informacje niezbędne dla zapewnienia bezpieczeństwa pacjentów i ciągłości udzielania świadczeń zdrowotnych oraz oznaczenie fizjoterapeuty dokonującego wpisu, zgodnie z § 10 pkt 3.
+§ 29.
+Wykaz zabiegów zawiera:
+1)
+numer kolejny pacjenta w wykazie;
+2)
+datę wykonania zabiegu;
+3)
+imię (imiona) i nazwisko oraz numer PESEL pacjenta, jeżeli został nadany, w przypadku noworodka – numer PESEL matki, a w przypadku braku numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+4)
+oznaczenie osoby zlecającej zabieg, zgodnie z § 10 pkt 3 lit. a, a w przypadku gdy zlecającym jest inny podmiot – także nazwę tego podmiotu;
+5)
+adnotację o rodzaju zabiegu i jego przebiegu;
+6)
+oznaczenie lekarza albo innej osoby uprawnionej do udzielania świadczeń zdrowotnych wykonującej zabieg, zgodnie z § 10 pkt 3.
+§ 30.
+Wykaz bloku operacyjnego albo sali operacyjnej zawiera:
+1)
+numer kolejny pacjenta w wykazie;
+2)
+imię (imiona) i nazwisko oraz numer PESEL pacjenta, jeżeli został nadany, w przypadku noworodka – numer PESEL matki, a w przypadku braku numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+3)
+kod resortowy jednostki lub komórki organizacyjnej, w której pacjent przebywał;
+4)
+rozpoznanie przedoperacyjne;
+5)
+oznaczenie lekarza kierującego na zabieg albo operację, zgodnie z § 10 pkt 3 lit. a, a w przypadku gdy kierującym jest inny podmiot – także nazwę tego podmiotu;
+6)
+oznaczenie lekarza kwalifikującego pacjenta do zabiegu albo operacji, zgodnie z § 10 pkt 3 lit. a;
+7)
+datę rozpoczęcia oraz zakończenia zabiegu albo operacji, ze wskazaniem roku, miesiąca, dnia oraz godziny i minuty w systemie 24-godzinnym;
+8)
+rodzaj zabiegu albo operacji;
+9)
+szczegółowy opis przebiegu zabiegu albo operacji wraz z rozpoznaniem pooperacyjnym;
+10)
+zlecone badania diagnostyczne;
+11)
+rodzaj znieczulenia zastosowanego u pacjenta i jego szczegółowy opis oraz oznaczenie lekarza anestezjologa, zgodnie z § 10 pkt 3 lit. a;
+12)
+oznaczenie osób wchodzących odpowiednio w skład zespołu operacyjnego, zespołu zabiegowego, zespołu anestezjologicznego, zgodnie z § 10 pkt 3 lit. a, z wyszczególnieniem osoby kierującej wykonaniem operacji albo zabiegu, oznaczonej zgodnie z § 10 pkt 3.
+§ 31.
+Wykaz bloku porodowego albo sali porodowej zawiera:
+1)
+numer kolejny pacjentki w wykazie;
+2)
+imię (imiona) i nazwisko oraz numer PESEL pacjentki, a w przypadku braku numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+3)
+oznaczenie grupy krwi i czynnika Rh pacjentki;
+4)
+kod resortowy jednostki lub komórki organizacyjnej, w której pacjentka przebywała;
+5)
+rozpoznanie wstępne i ostateczne;
+6)
+informację o zastosowanych produktach leczniczych lub wyrobach medycznych;
+7)
+rodzaj znieczulenia zastosowanego u pacjentki, jeżeli było wykonane, i jego szczegółowy opis oraz oznaczenie lekarza anestezjologa, zgodnie z § 10 pkt 3 lit. a;
+8)
+datę przyjęcia pacjentki na blok porodowy albo salę porodową, ze wskazaniem roku, miesiąca, dnia oraz godziny i minuty w systemie 24-godzinnym;
+9)
+datę porodu, ze wskazaniem roku, miesiąca, dnia oraz godziny i minuty w systemie 24-godzinnym;
+10)
+czas trwania poszczególnych okresów porodu;
+11)
+szczegółowy opis przebiegu porodu;
+12)
+datę wypisania pacjentki z bloku porodowego albo sali porodowej, ze wskazaniem roku, miesiąca, dnia oraz godziny i minuty w systemie 24-godzinnym;
+13)
+adnotację o miejscu, do którego pacjentka została wypisana z bloku porodowego albo sali porodowej;
+14)
+oznaczenie lekarza albo położnej przyjmującej poród, zgodnie z § 10 pkt 3.
+§ 32.
+1.
+Wykaz noworodków zawiera:
+1)
+numer kolejny noworodka w wykazie;
+2)
+imię (imiona) i nazwisko oraz numer PESEL matki noworodka, a w przypadku braku numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+3)
+datę urodzenia noworodka, ze wskazaniem roku, miesiąca, dnia oraz godziny i minuty w systemie 24-godzinnym;
+4)
+dane dotyczące noworodka:
+a)
+płeć,
+b)
+masę ciała,
+c)
+długość ciała,
+d)
+ocenę według skali Apgar;
+5)
+datę wypisu noworodka, a w przypadku zgonu albo martwego urodzenia – datę zgonu albo martwego urodzenia, ze wskazaniem roku, miesiąca, dnia oraz godziny i minuty w systemie 24-godzinnym, oraz przyczynę zgonu.
+2.
+W wykazie noworodków wpisuje się noworodki urodzone w szpitalu.
+§ 33.
+1.
+Wykaz pracowni diagnostycznej zawiera:
+1)
+numer kolejny pacjenta w wykazie;
+2)
+datę wpisu i datę wykonania badania;
+3)
+imię (imiona) i nazwisko, numer PESEL pacjenta – jeżeli został nadany, w przypadku noworodka – numer PESEL matki, a w przypadku braku numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+4)
+kod resortowy jednostki lub komórki organizacyjnej zlecającej badanie, a w przypadku gdy zlecającym jest inny podmiot – także nazwę tego podmiotu;
+5)
+oznaczenie lekarza zlecającego badanie, zgodnie z § 10 pkt 3 lit. a;
+6)
+adnotację o rodzaju badania;
+7)
+oznaczenie osoby wykonującej badanie, zgodnie z § 10 pkt 3.
+2.
+W przypadku gdy dokumentacja w rodzaju wyniki badań jest prowadzona w postaci elektronicznej, prowadzenie dokumentacji, o której mowa w ust. 1, nie jest wymagane.
+§ 34.
+1.
+Do prowadzenia dokumentacji w zakładzie opiekuńczo-leczniczym, zakładzie pielęgnacyjno-opiekuńczym, zakładzie rehabilitacji leczniczej lub innym zakładzie leczniczym przeznaczonym dla osób, których stan zdrowia wymaga udzielania stacjonarnych i całodobowych świadczeń zdrowotnych innych niż szpitalne, stosuje się odpowiednio przepisy § 13, § 14–16, § 21, § 23, § 25–29 i § 33.
+2.
+Dokumentacja, o której mowa w ust. 1, jest sporządzana przez osoby udzielające świadczeń zdrowotnych w tym zakładzie.
+3.
+Do prowadzenia dokumentacji w zakładzie lecznictwa uzdrowiskowego stosuje się odpowiednio przepisy właściwe dla rodzaju działalności leczniczej wykonywanej w tym zakładzie.
+§ 35.
+1.
+Podmiot leczniczy prowadzący szpital, w którym czas pobytu pacjenta niezbędny do udzielenia świadczenia zdrowotnego nie przekracza 24 godzin, sporządza i prowadzi:
+1)
+dokumentację indywidualną wewnętrzną w formie historii choroby;
+2)
+dokumentację zbiorczą w formie wykazu:
+a)
+głównego przyjęć i wypisów,
+b)
+chorych oddziału,
+c)
+zabiegów,
+d)
+bloku operacyjnego lub sali operacyjnej.
+2.
+W przypadku, o którym mowa w ust. 1, do historii choroby dołącza się dokumenty dodatkowe, w szczególności:
+1)
+kartę obserwacji;
+2)
+kartę gorączkową;
+3)
+kartę zleceń lekarskich;
+4)
+kartę przebiegu znieczulenia, jeżeli było wykonane w związku z udzielonymi świadczeniami zdrowotnymi;
+5)
+wyniki badań diagnostycznych;
+6)
+protokół operacyjny, jeżeli była wykonana operacja.
+3.
+Przepisy § 6 ust. 4, § 12 ust. 2, § 13–15 ust. 2, 3 i 5, § 16–19, § 21–23, § 25–30 i § 33 stosuje się odpowiednio do dokumentacji prowadzonej przez podmiot, o którym mowa w ust. 1.
+4.
+Przepisy ust. 1–3 stosuje się także do jednostki lub komórki organizacyjnej podmiotu leczniczego, przyjmującej pacjentów z intencją wypisania w ciągu 24 godzin.
+§ 36.
+1.
+Podmiot leczniczy udzielający ambulatoryjnych świadczeń zdrowotnych sporządza i prowadzi:
+1)
+dokumentację indywidualną wewnętrzną w formie historii zdrowia i choroby;
+2)
+dokumentację indywidualną zewnętrzną, o której mowa w § 2 ust. 4 pkt 1–4 i 6–8;
+3)
+dokumentację zbiorczą w formie wykazu:
+a)
+przyjęć,
+b)
+pracowni diagnostycznej,
+c)
+zabiegów,
+d)
+porad ambulatoryjnych w zakresie nocnej i świątecznej opieki zdrowotnej.
+2.
+W przypadku gdy dokumentacja, o której mowa w ust. 1 pkt 1 i 2, jest prowadzona w postaci elektronicznej, prowadzenie dokumentacji, o której mowa w ust. 1 pkt 3, nie jest wymagane.
+§ 37.
+1.
+Historię zdrowia i choroby zakłada się przy udzielaniu świadczenia zdrowotnego po raz pierwszy pacjentowi w podmiocie, o którym mowa w § 36.
+2.
+Jeżeli jest to uzasadnione rodzajem udzielanych świadczeń zdrowotnych, historię zdrowia i choroby zakłada się również w określonej komórce organizacyjnej podmiotu, o którym mowa w § 36.
+§ 38.
+1.
+Historia zdrowia i choroby zawiera dane określone w § 10 pkt 1–4 oraz informacje dotyczące:
+1)
+ogólnego stanu zdrowia, chorób, problemów zdrowotnych lub urazów;
+2)
+porad ambulatoryjnych lub wizyt domowych;
+3)
+świadczeń pielęgniarki lub położnej realizowanych w warunkach domowych, w tym wizyt patronażowych;
+4)
+pielęgniarskiej opieki długoterminowej domowej.
+2.
+W przypadku gdy pacjent posiada szczególne uprawnienia do świadczeń opieki zdrowotnej, o których mowa w art. 43–47c ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w historii zdrowia i choroby zamieszcza się o tym adnotację, wraz z numerem dokumentu potwierdzającego przysługujące uprawnienia.
+3.
+Historia zdrowia i choroby w zakresie informacji, o których mowa w ust. 1 pkt 1, zawiera w szczególności informacje o:
+1)
+przebytych chorobach;
+2)
+chorobach przewlekłych;
+3)
+pobytach w szpitalu;
+4)
+zabiegach lub operacjach;
+5)
+szczepieniach i stosowanych surowicach;
+6)
+uczuleniach;
+7)
+obciążeniach dziedzicznych;
+8)
+orzeczeniu o niepełnosprawności, orzeczeniu o stopniu niepełnosprawności albo innych orzeczeniach traktowanych na równi z tym orzeczeniem.
+4.
+Historia zdrowia i choroby w zakresie informacji, o których mowa w ust. 1 pkt 2, zawiera:
+1)
+datę porady ambulatoryjnej lub wizyty domowej;
+2)
+dane z wywiadu i badania przedmiotowego;
+3)
+rozpoznanie choroby, problemu zdrowotnego lub urazu;
+4)
+informację o zleconych badaniach diagnostycznych lub konsultacjach;
+5)
+adnotacje o zaleconych zabiegach oraz produktach leczniczych wraz z dawkowaniem lub wyrobach medycznych, w ilościach odpowiadających ilościom zapisanym na receptach lub zleceniach na zaopatrzenie w wyroby medyczne wydanych pacjentowi oraz unikalne numery identyfikujące recepty w postaci elektronicznej, o których mowa w art. 96a ust. 1 pkt 6 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne;
+6)
+wyniki badań diagnostycznych wraz z opisem;
+7)
+wyniki konsultacji;
+8)
+opis innych udzielonych świadczeń zdrowotnych;
+9)
+adnotacje o zleceniu transportu sanitarnego;
+10)
+adnotacje o orzeczonym okresie czasowej niezdolności do pracy;
+11)
+oznaczenie osoby udzielającej świadczeń, zgodnie z § 10 pkt 3.
+5.
+Historia zdrowia i choroby w zakresie informacji, o których mowa w ust. 1 pkt 3, zawiera:
+1)
+uzyskane na podstawie wywiadu informacje o warunkach nauczania, wychowania lub pracy;
+2)
+opis warunków zamieszkania, jeżeli jest to istotne dla zapewnienia opieki środowiskowej;
+3)
+datę rozpoczęcia i zakończenia opieki pielęgniarskiej lub położniczej;
+4)
+rodzaj i zakres świadczeń zdrowotnych realizowanych przez pielęgniarkę lub położną, w szczególności: dane z wywiadu i badania fizykalnego, diagnozę pielęgniarską lub położniczą, plan opieki pielęgniarskiej lub położniczej oraz adnotacje związane z wykonywaniem świadczeń zdrowotnych, w tym wynikających ze zleceń lekarskich;
+5)
+oznaczenie pielęgniarki lub położnej, zgodnie z § 10 pkt 3.
+6.
+Do dołączania dokumentów do historii zdrowia i choroby stosuje się odpowiednio przepis § 6 ust. 4.
+§ 39.
+1.
+Podmiot sprawujący opiekę nad kobietą ciężarną prowadzi kartę przebiegu ciąży.
+2.
+Karta przebiegu ciąży jest prowadzona w postaci papierowej.
+3.
+Karta przebiegu ciąży zawiera dane określone w § 10 pkt 1–4 oraz:
+1)
+informacje o ogólnym stanie zdrowia;
+2)
+informacje o poradach ambulatoryjnych lub wizytach domowych.
+4.
+Karta przebiegu ciąży w zakresie informacji, o których mowa w ust. 3 pkt 1, zawiera informacje, o których mowa w § 38 ust. 3, oraz:
+1)
+oznaczenie grupy krwi i czynnika Rh;
+2)
+datę ostatniej miesiączki;
+3)
+przybliżony termin porodu;
+4)
+wynik pomiaru masy ciała przed ciążą lub w momencie rozpoznania ciąży;
+5)
+wzrost;
+6)
+liczbę poprzednich ciąż i porodów, w tym liczbę dzieci żywo urodzonych lub martwo urodzonych;
+7)
+czynniki ryzyka dla przebiegu ciąży i porodu, z uwzględnieniem powikłań ciąż i porodów przebytych;
+8)
+opis wyniku badania ginekologicznego w momencie rozpoznania ciąży;
+9)
+datę rozpoznania ciąży – datę pierwszej wizyty w związku z ciążą;
+10)
+wyniki badań diagnostycznych zleconych w związku z ciążą.
+5.
+Karta przebiegu ciąży w zakresie informacji, o których mowa w ust. 3 pkt 2, zawiera informacje, o których mowa w § 38 ust. 4, oraz:
+1)
+zmierzony każdorazowo wynik pomiaru masy ciała;
+2)
+dokonaną każdorazowo ocenę czynników ryzyka dla przebiegu ciąży i porodu;
+3)
+kwalifikację do odpowiedniego poziomu opieki perinatalnej.
+§ 40.
+Wykaz przyjęć zawiera:
+1)
+numer kolejny pacjenta;
+2)
+datę i godzinę zgłoszenia się pacjenta;
+3)
+imię (imiona) i nazwisko, numer PESEL – jeżeli został nadany, w przypadku noworodka – numer PESEL matki, a w przypadku braku numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+4)
+oznaczenie osoby udzielającej świadczenia zdrowotnego, zgodnie z § 10 pkt 3 lit. a;
+5)
+rodzaj udzielonego świadczenia zdrowotnego;
+6)
+imię (imiona) i nazwisko oraz podpis osoby dokonującej wpisu.
+§ 41.
+Do wykazu pracowni diagnostycznej prowadzonego przez podmiot leczniczy udzielający ambulatoryjnych świadczeń zdrowotnych stosuje się odpowiednio przepisy § 33.
+§ 42.
+Do wykazu zabiegów prowadzonego przez podmiot leczniczy udzielający ambulatoryjnych świadczeń zdrowotnych stosuje się odpowiednio przepisy § 29.
+§ 43.
+1.
+Podmiot realizujący świadczenia nocnej i świątecznej opieki zdrowotnej sporządza i prowadzi wykaz świadczeń udzielanych w zakresie nocnej i świątecznej opieki zdrowotnej.
+2.
+Wykaz, o którym mowa w ust. 1, zawiera:
+1)
+numer kolejny pacjenta;
+2)
+datę i godzinę zgłoszenia się pacjenta lub przyjęcia zgłoszenia przy użyciu systemów teleinformatycznych lub systemów łączności;
+3)
+imię (imiona) i nazwisko, numer PESEL – jeżeli został nadany, w przypadku noworodka – numer PESEL matki, a w przypadku braku numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+4)
+opis udzielonego świadczenia zdrowotnego;
+5)
+oznaczenie osoby udzielającej świadczenia zdrowotnego, zgodnie z § 10 pkt 3.
+3.
+Podmiot leczniczy udzielający świadczeń nocnej i świątecznej opieki zdrowotnej nie prowadzi dokumentacji indywidualnej wewnętrznej.
+4.
+Przepisy ust. 1 i 2 stosuje się odpowiednio do podmiotu leczniczego prowadzącego szpital w zakresie udzielanych świadczeń nocnej i świątecznej opieki zdrowotnej.
+§ 44.
+1.
+Dysponent zespołów ratownictwa medycznego sporządza i prowadzi dokumentację indywidualną w formie:
+1)
+karty zlecenia wyjazdu;
+2)
+karty zlecenia wylotu lotniczego zespołu ratownictwa medycznego;
+3)
+karty medycznych czynności ratunkowych;
+4)
+karty medycznej lotniczego zespołu ratownictwa medycznego.
+2.
+W przypadku gdy w strukturze organizacyjnej dysponenta zespołów ratownictwa medycznego nie ma stanowiska dyspozytora medycznego, przepisów ust. 1 pkt 1 i 2 nie stosuje się.
+§ 45.
+Karta zlecenia wyjazdu i karta zlecenia wylotu lotniczego zespołu ratownictwa medycznego zawierają:
+1)
+oznaczenie dyspozytorni medycznej, dyspozytora medycznego przyjmującego i wysyłającego, miejsca stacjonowania i zespołu ratownictwa medycznego realizującego zlecenie wyjazdu lub wylotu, kodu wyjazdu lub wylotu zespołu ratownictwa medycznego;
+2)
+adnotację o ponagleniu wyjazdu lub wylotu zespołu ratownictwa medycznego;
+3)
+oznaczenie daty oraz godziny, minuty i sekundy w systemie 24-godzinnym:
+a)
+przyjęcia wezwania przez dyspozytora medycznego,
+b)
+przekazania zlecenia wyjazdu lub wylotu do zespołu ratownictwa medycznego,
+c)
+przyjęcia zlecenia przez zespół ratownictwa medycznego,
+d)
+ponaglenia wyjazdu lub wylotu zespołu ratownictwa medycznego do zdarzenia,
+e)
+wyjazdu lub wylotu zespołu ratownictwa medycznego do zdarzenia,
+f)
+odwołania zlecenia wyjazdu lub wylotu zespołu ratownictwa medycznego,
+g)
+przybycia zespołu ratownictwa medycznego na miejsce zdarzenia,
+h)
+przybycia zespołu ratownictwa medycznego do szpitalnego oddziału ratunkowego lub izby przyjęć szpitala, centrum urazowego, centrum urazowego dla dzieci, jednostki organizacyjnej szpitala wyspecjalizowanej w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego lub innego miejsca przekazania pacjenta,
+i)
+przekazania pacjenta do szpitalnego oddziału ratunkowego lub izby przyjęć szpitala, centrum urazowego, centrum urazowego dla dzieci, jednostki organizacyjnej szpitala wyspecjalizowanej w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego lub innego miejsca przekazania pacjenta,
+j)
+zakończenia realizacji zlecenia wyjazdu lub wylotu zespołu ratownictwa medycznego,
+k)
+powrotu do miejsca stacjonowania zespołu ratownictwa medycznego;
+4)
+numer zdarzenia i numer karty zlecenia wyjazdu lub wylotu;
+5)
+adres albo informację o lokalizacji miejsca zdarzenia;
+6)
+dane wzywającego obejmujące: imię (imiona) i nazwisko oraz numer telefonu do kontaktu z wzywającym;
+7)
+opis powodu wezwania zespołu ratownictwa medycznego oraz opis wywiadu medycznego przeprowadzonego przez dyspozytora medycznego;
+8)
+dane pacjenta obejmujące:
+a)
+imię (imiona) i nazwisko,
+b)
+wiek,
+c)
+płeć;
+9)
+informacje o powiadomieniu służb ustawowo powołanych do niesienia pomocy;
+10)
+informacje o wydaniu karty medycznych czynności ratunkowych albo karty medycznej lotniczego zespołu ratownictwa medycznego;
+11)
+informację o składzie osobowym zespołu ratownictwa medycznego.
+§ 46.
+1.
+Karta medycznych czynności ratunkowych oraz karta medyczna lotniczego zespołu ratownictwa medycznego zawierają:
+1)
+informacje, o których mowa w § 10 pkt 1–4;
+2)
+oznaczenie zespołu ratownictwa medycznego realizującego zlecenie wyjazdu lub wylotu;
+3)
+opis powodu wezwania zespołu ratownictwa medycznego;
+4)
+wskazanie roku, miesiąca, dnia oraz godziny, minuty i sekundy w systemie 24-godzinnym:
+a)
+przekazania zlecenia wyjazdu lub wylotu do zespołu ratownictwa medycznego,
+b)
+wyjazdu lub wylotu zespołu ratownictwa medycznego do zdarzenia,
+c)
+przybycia zespołu ratownictwa medycznego na miejsce zdarzenia,
+d)
+przybycia zespołu ratownictwa medycznego do podmiotu leczniczego,
+e)
+przekazania pacjenta przez zespół ratownictwa medycznego do podmiotu leczniczego,
+f)
+przekazania pacjenta innemu zespołowi ratownictwa medycznego,
+g)
+zakończenia realizacji zlecenia wyjazdu lub wylotu zespołu ratownictwa medycznego;
+5)
+adres albo informację o lokalizacji miejsca zdarzenia;
+6)
+oświadczenie pacjenta o rezygnacji z udzielania mu pomocy medycznej bądź przewozu do szpitala, wraz z podaniem daty i godziny, minuty i sekundy odmowy w systemie 24-godzinnym;
+7)
+informację dotyczącą pozostawienia pacjenta w miejscu zdarzenia lub przekazania go przez zespół ratownictwa medycznego do innego podmiotu leczniczego lub innego zespołu ratownictwa medycznego, Policji lub Straży Miejskiej;
+8)
+informację o odstąpieniu od medycznych czynności ratunkowych wraz ze wskazaniem przesłanek podjęcia takiej decyzji;
+9)
+w przypadku zgonu pacjenta – przyczynę i datę zgonu, ze wskazaniem roku, miesiąca, dnia oraz godziny i minuty w systemie 24-godzinnym;
+10)
+informację o wystawieniu i wydaniu karty medycznych czynności ratunkowych ze wskazaniem imienia i nazwiska osoby, której została wydana;
+11)
+informację o składzie osobowym zespołu ratownictwa medycznego ze wskazaniem roli pełnionej przez poszczególnych jego członków;
+12)
+informację o powiadomieniu innych podmiotów ustawowo powołanych do niesienia pomocy;
+13)
+inne istotne informacje dotyczące okoliczności realizacji zlecenia przez zespół ratownictwa medycznego;
+14)
+wykaz dodatkowych dokumentów wystawionych przez zespół ratownictwa medycznego.
+2.
+Kartę medycznych czynności ratunkowych lub kartę medyczną lotniczego zespołu ratownictwa medycznego wydaje się pacjentowi lub jego przedstawicielowi ustawowemu, a w przypadku przewiezienia pacjenta do podmiotu leczniczego – temu podmiotowi leczniczemu.
+§ 47.
+Do dokumentacji prowadzonej przez zakład badań diagnostycznych i medyczne laboratorium diagnostyczne stosuje się odpowiednio przepisy § 33.
+§ 48.
+1.
+Pracownia protetyki stomatologicznej i ortodoncji prowadzi dokumentację zbiorczą w formie wykazu pracowni.
+2.
+Wykaz pracowni zawiera:
+1)
+oznaczenie pacjenta, zgodnie z § 10 pkt 2;
+2)
+oznaczenie lekarza kierującego, zgodnie z § 10 pkt 3 lit. a;
+3)
+datę przyjęcia i datę zakończenia zleconej pracy;
+4)
+rodzaj i opis zleconej pracy, w tym diagram zębowy;
+5)
+dane o użytych materiałach;
+6)
+oznaczenie osoby wykonującej zleconą pracę, zgodnie z § 10 pkt 3.
+§ 49.
+1.
+Zakład rehabilitacji leczniczej prowadzi dokumentację:
+1)
+zbiorczą w formie wykazu świadczeń fizjoterapeutycznych;
+2)
+indywidualną w formie karty indywidualnej opieki fizjoterapeutycznej.
+2.
+W przypadku gdy karta, o której mowa w ust. 1 pkt 2, jest prowadzona w postaci elektronicznej, prowadzenie dokumentacji, o której mowa w ust. 1 pkt 1, nie jest wymagane.
+3.
+Wykaz świadczeń fizjoterapeutycznych zawiera:
+1)
+numer kolejny pacjenta w wykazie;
+2)
+imię (imiona) i nazwisko oraz numer PESEL pacjenta – jeżeli został nadany, w przypadku noworodka – numer PESEL matki, a w przypadku braku numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+3)
+datę zabiegu leczniczego;
+4)
+rodzaj wykonanego zabiegu leczniczego.
+4.
+Karta indywidualnej opieki fizjoterapeutycznej zawiera informacje wymienione w ust. 3 oraz:
+1)
+informacje dotyczące stanu zdrowia, stanu funkcjonowania oraz postępowania fizjoterapeutycznego, w tym:
+a)
+rozpoznanie choroby, problemu zdrowotnego, urazu lub rozpoznanie ciąży oraz informacje o chorobach przebytych i współistniejących oraz opis stanu funkcjonowania,
+b)
+dane o postępowaniu fizjoterapeutycznym i jego wykonaniu,
+c)
+opis udzielonych świadczeń zdrowotnych,
+d)
+zalecenia,
+e)
+informacje o wydanych orzeczeniach, opiniach lub zaświadczeniach,
+f)
+informacje o zleconych przez fizjoterapeutę wyrobach medycznych;
+2)
+datę dokonania wpisu;
+3)
+oznaczenie fizjoterapeuty udzielającego świadczenia zdrowotnego, zgodnie z § 10 pkt 3.
+5.
+Do karty opieki fizjoterapeutycznej dołącza się skierowanie, jeżeli dotyczy.
+§ 50.
+1.
+Podmiot wykonujący transport medyczny lub transport wyjazdowy sanitarnym zespołem typu „N” lub transport lotniczy, zwany dalej „transportem”, sporządza i prowadzi odpowiednio do rodzaju transportu kartę transportu medycznego lub kartę transportu wyjazdowego sanitarnym zespołem typu „N” lub kartę zlecenia transportu lotniczego.
+2.
+Karta transportu medycznego oraz karta transportu wyjazdowego sanitarnym zespołem typu „N” zawierają:
+1)
+oznaczenie podmiotu wykonującego transport, zgodnie z § 10 pkt 1;
+2)
+oznaczenie pacjenta, zgodnie z § 10 pkt 2;
+3)
+informacje dotyczące stanu zdrowia pacjenta, zawierające główne rozpoznanie według klasyfikacji, o której mowa w § 7 ust. 1;
+4)
+oznaczenie podmiotu zlecającego, zgodnie z § 10 pkt 1, oraz numer zlecenia;
+5)
+datę i godzinę przyjęcia lub odmowy przyjęcia zlecenia transportu;
+6)
+oznaczenie podmiotu, do którego wykonywany jest transport, zgodnie z § 10 pkt 1;
+7)
+opis udzielonych w trakcie transportu świadczeń zdrowotnych, jeżeli dotyczy;
+8)
+datę i godzinę rozpoczęcia i zakończenia transportu;
+9)
+oznaczenie osoby udzielającej świadczeń i dokonującej wpisu, zgodnie z § 10 pkt 3.
+3.
+Karta zlecenia transportu lotniczego zawiera:
+1)
+oznaczenie podmiotu zlecającego transport, zgodnie z § 10 pkt 1;
+2)
+datę i godzinę przyjęcia lub odmowy przyjęcia zlecenia transportu lotniczego;
+3)
+numer zlecenia;
+4)
+rodzaj transportu;
+5)
+dane pacjenta, zgodnie z § 10 pkt 2;
+6)
+informacje dotyczące stanu zdrowia pacjenta, zawierające główne rozpoznanie według klasyfikacji, o której mowa w § 7 ust. 1;
+7)
+opis świadczeń zdrowotnych udzielonych w trakcie transportu lotniczego – jeżeli dotyczy;
+8)
+identyfikator zadysponowanego lotniczego zespołu ratownictwa medycznego;
+9)
+określenie miejsca, skąd realizowany jest transport co najmniej przez kod lądowiska;
+10)
+określenie miejsca, dokąd jest realizowany transport co najmniej przez kod lądowiska;
+11)
+datę i godzinę rozpoczęcia i zakończenia realizacji transportu;
+12)
+oznaczenie kierownika zespołu realizującego transport lotniczy, zgodnie z § 10 pkt 3 lit. a-c.
+Rozdział 3 Dokumentacja lekarza udzielającego świadczeń zdrowotnych w ramach praktyki zawodowej
+§ 51.
+1.
+Lekarz udzielający świadczeń zdrowotnych w ramach praktyki zawodowej, z wyłączeniem wykonywania indywidualnej praktyki lekarskiej wyłącznie w zakładzie leczniczym na podstawie umowy z podmiotem leczniczym prowadzącym ten zakład albo indywidualnej specjalistycznej praktyki lekarskiej wyłącznie w zakładzie leczniczym, na podstawie umowy z podmiotem leczniczym prowadzącym ten zakład, prowadzi dokumentację indywidualną.
+2.
+Lekarz wykonujący indywidualną praktykę lekarską wyłącznie w zakładzie leczniczym na podstawie umowy z podmiotem leczniczym prowadzącym ten zakład albo indywidualną specjalistyczną praktykę lekarską wyłącznie w zakładzie leczniczym na podstawie umowy z podmiotem leczniczym prowadzącym ten zakład dokonuje wpisów w dokumentacji indywidualnej i zbiorczej prowadzonej przez podmiot leczniczy, w sposób określony w rozdziale 2.
+§ 52.
+Dokumentacja, o której mowa w § 51 ust. 1, obejmuje dokumentację:
+1)
+wewnętrzną w formie:
+a)
+historii zdrowia i choroby lub karty noworodka,
+b)
+karty obserwacji porodu;
+2)
+zewnętrzną w formie skierowania do szpitala lub innego podmiotu, skierowania na badania diagnostyczne, konsultacje lub leczenie, karty przebiegu ciąży, książeczki zdrowia dziecka, zaświadczenia, orzeczenia oraz opinii.
+§ 53.
+1.
+Historię zdrowia i choroby zakłada się przy udzielaniu świadczenia zdrowotnego po raz pierwszy.
+2.
+Historia zdrowia i choroby zawiera dane określone w § 10 pkt 1–4 oraz informacje dotyczące:
+1)
+ogólnego stanu zdrowia, chorób, problemów zdrowotnych lub urazów;
+2)
+porad ambulatoryjnych lub wizyt domowych;
+3)
+oceny środowiskowej.
+3.
+Historia zdrowia i choroby w części dotyczącej ogólnego stanu zdrowia, chorób, problemów zdrowotnych lub urazów zawiera informacje, o których mowa w § 38 ust. 3.
+4.
+Historia zdrowia i choroby w części dotyczącej porad ambulatoryjnych lub wizyt domowych zawiera informacje, o których mowa w § 38 ust. 4.
+5.
+Historia zdrowia i choroby w części dotyczącej oceny środowiskowej zawiera informacje uzyskane na podstawie wywiadu, w tym dotyczące:
+1)
+zawodu wykonywanego przez pacjenta oraz zagrożeń zdrowia w miejscu pracy lub nauki,
+2)
+zagrożeń zdrowia w miejscu zamieszkania
+jeżeli mają znaczenie dla oceny stanu zdrowia pacjenta.
+6.
+Do historii zdrowia i choroby stosuje się przepis § 38 ust. 2.
+§ 54.
+W przypadku przyjmowania porodu przez lekarza udzielającego świadczeń zdrowotnych w ramach praktyki zawodowej stosuje się odpowiednio przepisy § 18 ust. 9, § 20 i § 69.
+§ 55.
+Do prowadzenia karty przebiegu ciąży przez lekarza udzielającego świadczeń zdrowotnych w ramach praktyki zawodowej stosuje się odpowiednio przepisy § 39.
+Rozdział 4 Dokumentacja pielęgniarki i położnej udzielających świadczeń zdrowotnych w ramach praktyki zawodowej
+§ 56.
+1.
+Pielęgniarka udzielająca świadczeń zdrowotnych w ramach praktyki zawodowej, z wyłączeniem wykonywania indywidualnej praktyki pielęgniarki wyłącznie w zakładzie leczniczym na podstawie umowy z podmiotem leczniczym prowadzącym ten zakład albo indywidualnej specjalistycznej praktyki pielęgniarki wyłącznie w zakładzie leczniczym na podstawie umowy z podmiotem leczniczym prowadzącym ten zakład, prowadzi dokumentację indywidualną:
+1)
+wewnętrzną w formie:
+a)
+historii zdrowia i choroby,
+b)
+karty wywiadu środowiskowo-rodzinnego,
+c)
+karty wizyty patronażowej;
+2)
+zewnętrzną w formie opinii, zaświadczenia, orzeczenia, skierowania na badania diagnostyczne oraz innych dokumentów o podobnym charakterze i przeznaczeniu, sporządzanych na wniosek pacjenta lub innych uprawnionych podmiotów.
+2.
+Pielęgniarka wykonująca indywidualną praktykę pielęgniarki wyłącznie w zakładzie leczniczym na podstawie umowy z podmiotem leczniczym prowadzącym ten zakład albo indywidualną specjalistyczną praktykę pielęgniarki wyłącznie w zakładzie leczniczym na podstawie umowy z podmiotem leczniczym prowadzącym ten zakład dokonuje wpisów w dokumentacji indywidualnej i zbiorczej prowadzonej przez podmiot leczniczy, w sposób określony w rozdziale 2.
+§ 57.
+1.
+Położna udzielająca świadczeń zdrowotnych w ramach praktyki zawodowej, z wyłączeniem wykonywania indywidualnej praktyki położnej wyłącznie w zakładzie leczniczym na podstawie umowy z podmiotem leczniczym prowadzącym ten zakład albo indywidualnej specjalistycznej praktyki położnej wyłącznie w zakładzie leczniczym na podstawie umowy z podmiotem leczniczym prowadzącym ten zakład, prowadzi dokumentację indywidualną:
+1)
+wewnętrzną w formie:
+a)
+karty indywidualnej opieki prowadzonej przez położną,
+b)
+karty wizyty patronażowej,
+c)
+karty obserwacji porodu;
+2)
+zewnętrzną w formie karty przebiegu ciąży, opinii, zaświadczenia, orzeczenia, skierowania na badania diagnostyczne, książeczki zdrowia dziecka oraz innych dokumentów o podobnym charakterze i przeznaczeniu, sporządzanych na wniosek pacjenta lub innych uprawnionych podmiotów.
+2.
+Położna wykonująca indywidualną praktykę położnej wyłącznie w zakładzie leczniczym na podstawie umowy z podmiotem leczniczym prowadzącym ten zakład albo indywidualną specjalistyczną praktykę położnej wyłącznie w zakładzie leczniczym na podstawie umowy z podmiotem leczniczym prowadzącym ten zakład dokonuje wpisów w dokumentacji indywidualnej i zbiorczej prowadzonej przez podmiot leczniczy, w sposób określony w rozdziale 2.
+§ 58.
+Historię zdrowia i choroby, kartę indywidualnej opieki prowadzonej przez położną, kartę wizyty patronażowej i kartę wywiadu środowiskowo-rodzinnego zakłada się przy udzielaniu świadczenia zdrowotnego po raz pierwszy.
+§ 59.
+1.
+Dokumentacja, o której mowa w § 56 ust. 1 pkt 1 i § 57 ust. 1 pkt 1 lit. a i b, zawiera dane określone w § 10 pkt 1–4 oraz:
+1)
+informacje dotyczące ogólnego stanu zdrowia, chorób oraz problemów zdrowotnych pacjenta;
+2)
+informacje dotyczące porad ambulatoryjnych lub wizyt domowych;
+3)
+informacje dotyczące oceny środowiskowej;
+4)
+oznaczenie lekarza, zgodnie z § 10 pkt 3 lit. a, w przypadku wykonywania zleceń lekarskich.
+2.
+Dokumentacja, o której mowa w ust. 1, w części dotyczącej ogólnego stanu zdrowia, chorób oraz problemów zdrowotnych zawiera informacje, o których mowa w § 38 ust. 3.
+3.
+Dokumentacja, o której mowa w ust. 1, w części dotyczącej porad ambulatoryjnych lub wizyt domowych zawiera informacje, o których mowa w § 38 ust. 4.
+4.
+Dokumentacja, o której mowa w ust. 1, w części dotyczącej oceny środowiskowej zawiera informacje uzyskane na podstawie przeprowadzonego wywiadu.
+§ 60.
+W przypadku przyjmowania porodu przez położną udzielającą świadczeń zdrowotnych w ramach praktyki zawodowej stosuje się odpowiednio przepisy § 18 ust. 9, § 20 i § 69.
+§ 61.
+Do prowadzenia karty przebiegu ciąży przez położną udzielającą świadczeń zdrowotnych w ramach praktyki zawodowej stosuje się odpowiednio przepisy § 39.
+Rozdział 5 Dokumentacja fizjoterapeuty udzielającego świadczeń zdrowotnych w ramach praktyki zawodowej
+§ 62.
+1.
+Fizjoterapeuta udzielający świadczeń zdrowotnych w ramach praktyki zawodowej, z wyłączeniem wykonywania indywidualnej praktyki fizjoterapeutycznej wyłącznie w zakładzie leczniczym na podstawie umowy z podmiotem leczniczym prowadzącym ten zakład, prowadzi dokumentację indywidualną:
+1)
+wewnętrzną w formie karty indywidualnej opieki fizjoterapeutycznej;
+2)
+zewnętrzną w formie zaświadczenia, orzeczenia lub opinii fizjoterapeutycznej oraz innych dokumentów sporządzanych na wniosek pacjenta lub innych uprawnionych podmiotów.
+2.
+Fizjoterapeuta wykonujący indywidualną praktykę fizjoterapeutyczną wyłącznie w zakładzie leczniczym na podstawie umowy z podmiotem leczniczym prowadzącym ten zakład dokonuje wpisów w dokumentacji indywidualnej i zbiorczej prowadzonej przez podmiot leczniczy, w sposób określony w rozdziale 2.
+3.
+Kartę indywidualnej opieki fizjoterapeutycznej zakłada się przy udzielaniu świadczenia po raz pierwszy.
+4.
+Dokumentacja, o której mowa w ust. 1 pkt 1, zawiera dane, o których mowa w § 49 ust. 4.
+Rozdział 6 Dokumentacja z zakresu opieki zdrowotnej nad uczniami
+§ 63.
+1.
+Dokumentację z zakresu profilaktycznej opieki zdrowotnej nad uczniami stanowi:
+1)
+karta profilaktycznego badania ucznia;
+2)
+dokumentacja indywidualna ucznia prowadzona przez pielęgniarkę środowiska nauczania i wychowania lub higienistkę szkolną.
+2.
+Dokumentację z zakresu opieki stomatologicznej nad uczniami stanowi dokumentacja lekarza dentysty udzielającego świadczeń stomatologicznych w gabinecie dentystycznym w szkole albo w gabinecie dentystycznym prowadzonym przez podmiot, z którym organ prowadzący szkołę zawarł porozumienie, o którym mowa w art. 12 ust. 3 ustawy z dnia 12 kwietnia 2019 r. o opiece zdrowotnej nad uczniami (Dz. U. poz. 1078), lub w dentobusie.
+§ 64.
+1.
+Karta profilaktycznego badania ucznia zawiera dane określone w § 10 pkt 1–4 oraz:
+1)
+informacje dotyczące stanu zdrowia i istotnych chorób oraz problemów zdrowotnych ucznia, w szczególności występujących w okresie 12 miesięcy przed badaniem;
+2)
+informacje o problemach zdrowotnych zgłaszanych przez rodziców lub przedstawiciela ustawowego ucznia;
+3)
+informacje pielęgniarki środowiska nauczania i wychowania lub higienistki szkolnej o uczniu, w szczególności wyniki testów przesiewowych oraz informacje dotyczące wysokości i masy ciała ucznia, funkcjonowania narządu wzroku i słuchu, rozwoju układu ruchu, ciśnienia tętniczego krwi;
+4)
+wyniki badania lekarskiego ucznia, w szczególności dotyczące wzrastania i rozwoju ucznia, stanu odżywienia, dojrzewania płciowego według skali Tannera od klasy III szkoły podstawowej, rozwoju psychospołecznego, funkcjonowania układów i narządów, stwierdzone problemy zdrowotne;
+5)
+zalecenia dotyczące udziału ucznia w zajęciach wychowania fizycznego i ewentualnych ograniczeń w tym zakresie oraz inne zalecenia lekarza podstawowej opieki zdrowotnej.
+2.
+Wpisów w karcie profilaktycznego badania ucznia dokonuje lekarz podstawowej opieki zdrowotnej wybrany przez ucznia albo jego przedstawiciela ustawowego, zgodnie z art. 9 ust. 2 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2020 r. poz. 172), oraz pielęgniarka środowiska nauczania i wychowania lub higienistka szkolna sprawująca profilaktyczną opiekę zdrowotną nad uczniami w szkole.
+§ 65.
+1.
+Dokumentacja indywidualna ucznia, o której mowa w § 63 ust. 1 pkt 2, zawiera dane określone w § 10 pkt 1–3 oraz:
+1)
+informacje o przebytych chorobach i problemach zdrowotnych ucznia;
+2)
+informacje o innych problemach mających wpływ na zdrowie ucznia;
+3)
+wyniki przeprowadzanych testów przesiewowych.
+2.
+Do karty profilaktycznego badania ucznia dołącza się informację lekarza podstawowej opieki zdrowotnej oraz informację lekarza dentysty, o których mowa odpowiednio w art. 15 i art. 16 ustawy z dnia 12 kwietnia 2019 r. o opiece zdrowotnej nad uczniami.
+Rozdział 7 Szczególne rodzaje dokumentacji
+§ 66.
+1.
+Lekarz wystawiający recepty w postaci papierowej dla siebie albo dla małżonka, osoby pozostającej we wspólnym pożyciu, krewnych lub powinowatych w linii prostej, a w linii bocznej do stopnia pokrewieństwa między dziećmi rodzeństwa prowadzi dokumentację zbiorczą wewnętrzną w formie wykazu.
+2.
+Wykaz może być prowadzony dla wszystkich osób, o których mowa w ust. 1, albo odrębnie dla każdej z nich.
+3.
+Wykaz, opatrzony imieniem i nazwiskiem lekarza, o którym mowa w ust. 1, zawiera:
+1)
+numer kolejny wpisu;
+2)
+datę wystawienia recepty;
+3)
+numer PESEL pacjenta, jeżeli został nadany, w przypadku noworodka – numer PESEL matki, a w razie przypadku numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+4)
+rozpoznanie choroby, problemu zdrowotnego lub urazu;
+5)
+międzynarodową lub własną nazwę produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego albo rodzajową lub handlową nazwę wyrobu medycznego;
+6)
+postać, w jakiej produkt leczniczy, środek spożywczy specjalnego przeznaczenia żywieniowego lub wyrób medyczny ma być wydany, jeżeli występuje w obrocie w więcej niż jednej postaci;
+7)
+dawkę produktu leczniczego lub środka spożywczego specjalnego przeznaczenia żywieniowego, jeżeli występuje w obrocie w więcej niż jednej dawce;
+8)
+ilość produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego, a w przypadku produktu leczniczego recepturowego – nazwę i ilość surowców farmaceutycznych, które mają być użyte do jego sporządzenia;
+9)
+sposób dawkowania.
+4.
+W przypadku prowadzenia wykazu odrębnie dla każdej z osób, o których mowa w ust. 1, gdy dane, o których mowa w ust. 3 pkt 3–9, nie uległy zmianie, kolejne wpisy w tym zakresie można zastąpić adnotacją o kontynuacji leczenia.
+§ 67.
+Pielęgniarka lub położna wystawiająca recepty w postaci papierowej dla siebie albo dla małżonka, osoby pozostającej we wspólnym pożyciu, krewnych lub powinowatych w linii prostej, a w linii bocznej do stopnia pokrewieństwa między dziećmi rodzeństwa prowadzi dokumentację zbiorczą wewnętrzną w formie wykazu. Przepisy § 66 ust. 2–4 stosuje się odpowiednio.
+§ 68.
+1.
+Podmiot leczniczy, w którym nastąpił poród albo do którego przyjęto noworodka urodzonego w warunkach pozaszpitalnych, wydaje książeczkę zdrowia dziecka przy wypisie ze szpitala.
+2.
+Książeczka zdrowia dziecka jest prowadzona w postaci papierowej.
+3.
+Możliwe jest dołączanie do książeczki zdrowia dziecka innej dokumentacji w postaci papierowej oraz wydruków z dokumentacji w postaci elektronicznej.
+4.
+W przypadku przyjmowania porodu w warunkach domowych przez lekarza, o którym mowa w § 54, albo położną, o której mowa w § 60, książeczkę zdrowia dziecka wydają odpowiednio ten lekarz albo położna.
+5.
+Książeczka zdrowia dziecka jest wydawana przedstawicielowi ustawowemu dziecka za pokwitowaniem.
+6.
+Książeczka zdrowia dziecka zawiera informacje dotyczące okresu prenatalnego, porodu, stanu zdrowia po urodzeniu, wizyt patronażowych, badań profilaktycznych, w tym stomatologicznych, przebytych chorób zakaźnych, uczuleń i reakcji anafilaktycznych, procedur radiologicznych, zaopatrzenia w wyroby medyczne, zwolnienia z zajęć sportowych oraz inne informacje istotne dla oceny prawidłowości rozwoju dziecka od urodzenia do uzyskania pełnoletności.
+7.
+Wpisy i inne zmiany w książeczce zdrowia dziecka są dokonywane przez lekarza, położną, pielęgniarkę lub inną osobę wykonującą zawód medyczny niezwłocznie po udzieleniu świadczenia zdrowotnego, a w przypadku gdy nie jest to możliwe, są uzupełniane w trakcie następnej wizyty na podstawie dokumentacji indywidualnej wewnętrznej.
+8.
+Książeczka zdrowia dziecka zawiera kartki formatu A5, dwustronnie zadrukowane, w oprawie zeszytowej i tekturowych okładkach.
+9.
+Wzór książeczki zdrowia dziecka określa załącznik nr 3 do rozporządzenia.
+Rozdział 8 Przechowywanie i udostępnianie dokumentacji
+§ 69.
+1.
+Dokumentacja wewnętrzna jest przechowywana przez podmiot, który ją sporządził.
+2.
+Dokumentacja zewnętrzna w formie skierowań w postaci papierowej jest przechowywana przez podmiot, który zrealizował świadczenie zdrowotne na podstawie skierowania.
+§ 70.
+1.
+Dokumentację udostępnia się z zachowaniem jej integralności, poufności oraz autentyczności, bez zbędnej zwłoki.
+2.
+W przypadku gdy dokumentacja jest udostępniana w formie wydruku, osoba upoważniona przez podmiot potwierdza jego zgodność z dokumentacją i opatruje swoim oznaczeniem, zawierającym imię (imiona), nazwisko, stanowisko i podpis. Wydruk sporządza się w sposób umożliwiający identyfikację osoby udzielającej świadczeń zdrowotnych, zgodnie z § 10 pkt 3.
+3.
+W przypadku udostępnienia dokumentacji w postaci papierowej w sposób określony w art. 27 ust. 1 pkt 3 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta pozostawia się kopię lub pełny odpis wydanej dokumentacji.
+§ 71.
+W przypadku gdy udostępnienie dokumentacji nie jest możliwe, odmowę przekazuje się w postaci elektronicznej albo papierowej, zgodnie z żądaniem uprawnionego organu lub podmiotu. W każdym przypadku wymagane jest podanie przyczyny odmowy.
+Rozdział 9 Przepisy przejściowe i końcowe
+§ 72.
+1.
+Podmioty mogą prowadzić dokumentację zgodnie z przepisami rozporządzenia Ministra Zdrowia z dnia 9 listopada 2015 r. w sprawie rodzajów, zakresu i wzorów dokumentacji medycznej oraz sposobu jej przetwarzania (Dz. U. poz. 2069) do dnia 31 grudnia 2020 r.
+2.
+Książeczki zdrowia dziecka wydane przed dniem 31 grudnia 2020 r. zachowują ważność również po tym terminie.
+3.
+Dysponenci zespołów ratownictwa medycznego, w tym lotniczych zespołów ratownictwa medycznego, mogą prowadzić dokumentację zgodnie z przepisami rozporządzenia, o którym mowa w ust. 1, do dnia 31 grudnia 2021 r.
+§ 73.
+Rozporządzenie wchodzi w życie z dniem 15 kwietnia 2020 r.
+1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 399, 959, 1495, 1542, 1556, 1590, 1818 i 1905 oraz z 2020 r. poz. 322, 374 i 567. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 9 listopada 2015 r. w sprawie rodzajów, zakresu i wzorów dokumentacji medycznej oraz sposobu jej przetwarzania (Dz. U. poz. 2069), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 8 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 2219 oraz z 2020 r. poz. 567).
+
+## Załącznik nr 1 — – Kryteria oceny stosowane przy dokonywaniu wpisów w dokumentacji dotyczących czasu trwania ciąży, poronień, urodzeń żywych i martwych
+
+1.
+Czas trwania ciąży oblicza się w tygodniach, licząc od pierwszego dnia ostatniego normalnego krwawienia miesięcznego. Prawidłowy czas trwania ciąży wynosi 280 dni (40 tygodni) od pierwszego dnia ostatniego krwawienia miesiączkowego w cyklu 28-dniowym albo 266 dni (38 tygodni) od dnia owulacji (reguła Naegelego). W przypadku gdy zastosowanie reguły Naegelego nie jest możliwe, czas trwania ciąży ustala się na podstawie wyniku badania ultrasonograficznego.
+2.
+Poronieniem określa się wydalenie lub wydobycie z ustroju matki płodu, który nie oddycha ani nie wykazuje żadnego innego znaku życia, jak czynność serca, tętnienie pępowiny lub wyraźne skurcze mięśni zależnych od woli, o ile nastąpiło to przed upływem 22. tygodnia ciąży (21 tygodni i 7 dni).
+3.
+Urodzeniem żywym określa się całkowite wydalenie lub wydobycie z ustroju matki noworodka, niezależnie od czasu trwania ciąży, który po takim wydaleniu lub wydobyciu oddycha lub wykazuje jakiekolwiek inne oznaki życia, takie jak czynność serca, tętnienie pępowiny lub wyraźne skurcze mięśni zależnych od woli, bez względu na to, czy sznur pępowiny został przecięty lub łożysko zostało oddzielone.
+4.
+Urodzeniem martwym określa się całkowite wydalenie lub wydobycie z ustroju matki płodu, o ile nastąpiło po upływie 22. tygodnia ciąży, który po takim wydaleniu lub wydobyciu nie oddycha ani nie wykazuje żadnego innego znaku życia, jak czynność serca, tętnienie pępowiny lub wyraźne skurcze mięśni zależnych od woli.
+
+## Załącznik nr 2 — – Karta obserwacji porodu (wzór)
+
+patrz oryginał
+
+## Załącznik nr 3 — – Książeczka zdrowia dziecka (wzór)
+
+patrz oryginał
+

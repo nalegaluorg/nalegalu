@@ -8,12 +8,10 @@ pos: 586
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# zmieniająca ustawę – Kodeks pracy oraz ustawę o zmianie ustawy – Kodeks pracy oraz o zmianie niektórych ustaw
-
-*USTAWA z dnia 9 maja 2008 r.*
+# Ustawa z dnia 9 maja 2008 r. zmieniająca ustawę – Kodeks pracy oraz ustawę o zmianie ustawy – Kodeks pracy oraz o zmianie niektórych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +22,22 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2008-05-09 |
 | Data wydania | 2008-05-30 |
+| Wejście w życie | 2008-06-30 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080930586) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/586/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm. ) w art. 241 :
+**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.) w art. 24118:
 
-**Art. 2.** W ustawie z dnia 29 września 1994 r. o zmianie ustawy – Kodeks pracy oraz o zmianie niektórych ustaw (Dz. U. Nr 113, poz. 547, z późn. zm. ) uchyla się art. 17.
+- **1)** § 1 otrzymuje brzmienie: „
+
+§ 1. Na wspólny wniosek organizacji pracodawców i ponadzakładowych organizacji związkowych, które zawarty układ ponadzakładowy, minister właściwy do spraw pracy może – gdy wymaga tego ważny interes społeczny – rozszerzyć, w drodze rozporządzenia, stosowanie tego układu w całości lub w części na pracowników zatrudnionych u pracodawcy nieobjętego żadnym układem ponadzakładowym, prowadzącego działalność gospodarczą taką samą lub zbliżoną do działalności pracodawców objętych tym układem, ustalonej na podstawie odrębnych przepisów dotyczących klasyfikacji działalności, po zasięgnięciu opinii tego pracodawcy lub wskazanej przez niego organizacji pracodawców oraz zakładowej organizacji związkowej, o ile taka działa u pracodawcy. ” ;
+
+- **2)** uchyla się § 3;
+- **3)** § 5 otrzymuje brzmienie: „
+
+§ 5. Do wniosku o uchylenie rozszerzenia stosowania układu stosuje się odpowiednio przepisy § 1 i 2 oraz art. 2418 § 2. ” .
+
+**Art. 2.** W ustawie z dnia 29 września 1994 r. o zmianie ustawy – Kodeks pracy oraz o zmianie niektórych ustaw (Dz. U. Nr 113, poz. 547, z 1995 r. Nr 1, poz. 2, z 1996 r. Nr 87, poz. 396 oraz z 2000 r. Nr 120, poz. 1268) uchyla się art. 17.
 
 **Art. 3.** Znosi się Komisję do Spraw Układów Zbiorowych Pracy.
 

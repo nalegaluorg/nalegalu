@@ -8,10 +8,10 @@ pos: 342
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ Warszawa, dnia 11 marca 2024 334422 Tabela 1. Parametry techniczne geodezyjnego układu odniesienia Tabela 2. Parametry techniczne geodezyjnego układu odniesienia Tabela 3. Parametry techniczne układu współrzędnych geocentrycznych Tabela 4. Parametry techniczne układu współrzędnych geocentrycznych Tabela 5. Parametry techniczne układu współrzędnych geodezyjnych Tabela 6. Parametry techniczne układu wysokościowego PL-EVRF2007-NH Tabela 7. Parametry techniczne układu wysokościowego PL-KRON86-NH Tabela 8. Parametry techniczne układu współrzędnych płaskich Tabela 9. Parametry techniczne układu współrzędnych płaskich Tabela 10. Parametry techniczne układu współrzędnych płaskich Tabela 11. Parametry techniczne układu współrzędnych płaskich × Tabela 12. Parametry techniczne układu współrzędnych płaskich ×
+# Obwieszczenie Prezesa Rady Ministrówz dnia 20 lutego 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie państwowego systemu odniesień przestrzennych
 
 | Pole | Wartość |
 |---|---|
@@ -25,78 +25,271 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-01-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000342) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/342/text.pdf) |
 
-2. Schemat aplikacyjny UML: Słowniki
-3. Model podstawowy Tabela nr 1 Klasa: SOP_Elipsoida Nazwa: elipsoida Definicja: Elipsoida obrotowa, wykorzystywana najlepsze przybliżenie figury osią obrotu jest oś krótsza.
-Stereotypy: «FeatureType» Atrybut: Nazwa: nazwa Nazwa (pełna): nazwa Dziedzina: CharacterString Liczność: 1 Definicja: Przyjęta nazwa elipsoidy. Ciąg identyfikator w ramach bazy Atrybut: Nazwa: duzaPolos Nazwa (pełna): duża półoś Dziedzina: Distance Liczność: 1 Definicja: Połowa dłuższej osi elipsoidy Atrybut: Nazwa: odwrotnoscSplaszczenia Nazwa (pełna): odwrotność spłaszczenia Dziedzina: Real Liczność: 1 Definicja: Parametr określający odstępstwo kształtu sfery. Wyraża je stosunek dużej półosi i krótkiej półosi Atrybut: Nazwa: informDodatkowa Nazwa (pełna): informacja dodatkowa Dziedzina: CharacterString Liczność: 0..1 Definicja: Informacja dodatkowa dotycząca Relacja: Typ: Aggregation Rola: Dziedzina: SOP_UkladGeodezyjny Liczność: 1..* Definicja: Układ geodezyjny, w którego Klasa: SOP_Elipsoida Relacja: Typ: Association Rola: geoida2 Dziedzina: SOP_Geoida Liczność: 0..* Definicja: Określa powiązanie modelu której została oparta.
-Tabela nr 2 Klasa: SOP_Geoida Nazwa: model quasi-geoidy Definicja: Dyskretny model będący aproksymacją wyrażony w postaci regularnej węzłowych zostały określone powierzchni quasi-geoidy od odniesienia.
-Stereotypy: «FeatureType» Atrybut: Nazwa: nazwa Nazwa (pełna): nazwa Dziedzina: CharacterString Liczność: 1 Definicja: Przyjęta nazwa geoidy. Ciąg identyfikator w ramach bazy Atrybut: Nazwa: innaNazwa Nazwa (pełna): inna nazwa Dziedzina: CharacterString Liczność: 0..* Definicja: Alternatywna nazwa, przez którą geoidy.
-Atrybut: Nazwa: epokaRealizacji Nazwa (pełna): epoka realizacji Dziedzina: Date Liczność: 1 Definicja: Określenie daty, na którą zostały geoidy.
-Atrybut: Nazwa: rozdzielczoscPol Nazwa (pełna): rozdzielczość wzdłuż południka Dziedzina: Angle Liczność: 1 Definicja: Odległość pomiędzy punktami południka. Jednostką zapisu Klasa: SOP_Geoida Atrybut: Nazwa: rozdzielczoscRown Nazwa (pełna): rozdzielczość wzdłuż równoleżnika Dziedzina: Angle Liczność: 1 Definicja: Odległość pomiędzy punktami równoleżnika. Jednostką zapisu Atrybut: Nazwa: informDodatkowa Nazwa (pełna): informacja dodatkowa Dziedzina: CharacterString Liczność: 0..1 Definicja: Informacja dodatkowa dotycząca Relacja: Typ: Aggregation Rola: Dziedzina: SOP_UkladWysokosciowy Liczność: 1 Definicja: Układ wysokościowy, w którego Relacja: Typ: Association Rola: elipsoida2 Dziedzina: SOP_Elipsoida Liczność: 1 Definicja: Określa elipsoidę, na której został geoidy.
-Tabela nr 3 Klasa: SOP_Odwzorowanie Nazwa: odwzorowanie kartograficzne Definicja: Definicja i zbiór parametrów elipsoidą a płaszczyzną odwzorowania.
-Stereotypy: «FeatureType» Atrybut: Nazwa: identyfikator Nazwa (pełna): identyfikator odwzorowania Dziedzina: CharacterString Liczność: 1 Definicja: Przyjęta nazwa odwzorowania tworzący unikalny identyfikator Atrybut: Nazwa: innaNazwa Nazwa (pełna): inna nazwa odwzorowania Dziedzina: CharacterString Liczność: 0..* Definicja: Alternatywna nazwa, przez którą odwzorowanie.
-Klasa: SOP_Odwzorowanie Atrybut: Nazwa: typOdwz Nazwa (pełna): typ odwzorowania Dziedzina: CharacterString Liczność: 1 Definicja: Określenie typu odwzorowania.
-Atrybut: Nazwa: parametr Nazwa (pełna): parametr odwzorowania Dziedzina: SOP_ParametrOdwzor Liczność: 4..8 Definicja: Parametr odwzorowania.
-Atrybut: Nazwa: formulyObliczeniowe Nazwa (pełna): formuły obliczeniowe Dziedzina: CharacterString Liczność: 0..* Definicja: Informacja na temat literatury, formuły odwzorowawcze danego Atrybut: Nazwa: zastosowanie Nazwa (pełna): zastosowanie Dziedzina: CharacterString Liczność: 0..1 Definicja: Rodzaj prac oraz dziedziny gospodarki, zastosowane odwzorowanie.
-Atrybut: Nazwa: informDodatkowa Nazwa (pełna): informacja dodatkowa Dziedzina: CharacterString Liczność: 0..1 Definicja: Informacja dodatkowa dotycząca Relacja: Typ: Association Rola: siatkaKarto Dziedzina: SOP_SiatkaKarto Liczność: 1 Definicja: Określa siatkę kartograficzną kartograficznego.
-Relacja: Typ: Association Rola: uklWspGeod Dziedzina: SOP_UklWspGeod Liczność: 2 Definicja: Określa układ współrzędnych realizowane odwzorowanie. Jeden geodezyjnych jest układem wyjściowym, odwzorowanym.
-Tabela nr 4 Klasa: SOP_OsUkladu Nazwa: oś układu Definicja: Opis poszczególnych osi dla współrzędnych.
-Stereotypy: «FeatureType» Atrybut: Nazwa: nazwa Nazwa (pełna): nazwa Dziedzina: CharacterString Liczność: 1 Definicja: Przyjęta nazwa osi.
-Atrybut: Nazwa: oznaczenie Nazwa (pełna): oznaczenie Dziedzina: CharacterString Liczność: 1 Definicja: Przyjęte oznaczenie dla nazwy Atrybut: Nazwa: jednostkaMiary Nazwa (pełna): jednostka miary Dziedzina: SOP_Jednostka Liczność: 1 Definicja: Jednostka miary wybrana dla współrzędnych są to metry lub Atrybut: Nazwa: zwrot Nazwa (pełna): zwrot osi Dziedzina: SOP_ZwrotOsi Liczność: 1 Definicja: Kierunek zmian jednostki osi Atrybut: Nazwa: informDodatkowa Nazwa (pełna): informacja dodatkowa Dziedzina: CharacterString Liczność: 0..1 Definicja: Informacja dodatkowa na temat Relacja: Typ: Aggregation Rola: Dziedzina: SOP_UkladWsp Liczność: 1..* Definicja: Układ współrzędnych, w którego Tabela nr 5 Klasa: SOP_PojSystOdn Nazwa: pojedynczy system odniesienia Definicja: Definicja systemu odniesienia.
-Klasa bazowa: SOP_SystOdn Stereotypy: «FeatureType» Klasa: SOP_PojSystOdn Atrybut: Nazwa: identyfikator Nazwa (pełna): identyfikator Dziedzina: SOP_IdSystOdn Liczność: 1 Definicja: Identyfikator systemu odniesienia.
-unikalny identyfikator w ramach Atrybut: Nazwa: typ Nazwa (pełna): typ systemu odniesienia Dziedzina: SOP_TypSystOdn Liczność: 1 Definicja: Informacja na temat typu systemu czy dany układ jest układem czy wysokościowym.
-Atrybut: Nazwa: zastosowanie Nazwa (pełna): zastosowanie Dziedzina: CharacterString Liczność: 0..1 Definicja: Asortyment prac oraz dziedzin być stosowany zdefiniowany Relacja: Typ: Aggregation Rola: ukladOdn Dziedzina: SOP_UkladOdn Liczność: 1 Definicja: Układ odniesienia wchodzący odniesienia.
-Relacja: Typ: Aggregation Rola: ukladWsp Dziedzina: SOP_UkladWsp Liczność: 1 Definicja: Układ współrzędnych wchodzący systemu odniesienia.
-Relacja: Typ: Generalization Dziedzina: SOP_SystOdn Relacja: Typ: Aggregation Rola: Dziedzina: SOP_ZlozSystOdn Liczność: 0..* Definicja: Złożony system odniesienia, pojedyncze systemy odniesienia.
-Tabela nr 6 Klasa: SOP_PolPocz Nazwa: południk początkowy Definicja: Południk, względem którego innych południków.
-Stereotypy: «FeatureType» Atrybut: Nazwa: nazwa Nazwa (pełna): nazwa Dziedzina: CharacterString Liczność: 1 Definicja: Przyjęta nazwa południka początkowego.
-tworzący unikalny identyfikator Atrybut: Nazwa: wartosc Nazwa (pełna): wartość Dziedzina: Angle Liczność: 1 Definicja: Wartość długości geodezyjnej wyrażana względem południka Atrybut: Nazwa: informDodatkowa Nazwa (pełna): informacja dodatkowa Dziedzina: CharacterString Liczność: 0..1 Definicja: Informacja dodatkowa dotycząca Relacja: Typ: Aggregation Rola: Dziedzina: SOP_UkladGeodezyjny Liczność: 1..* Definicja: Układ geodezyjny, w którego początkowy.
-Tabela nr 7 Klasa: SOP_SiatkaKarto Nazwa: siatka kartograficzna Definicja: Opis siatki kartograficznej.
-Stereotypy: «FeatureType» Atrybut: Nazwa: naroznik Nazwa (pełna): narożnik Dziedzina: DirectPosition Liczność: 1 Definicja: Współrzędne dolnego lewego kartograficznej.
-Klasa: SOP_SiatkaKarto Atrybut: Nazwa: jednostka Nazwa (pełna): jednostka rozdzielczości Dziedzina: SOP_Jednostka Liczność: 1 Definicja: Określenie jednostek, w których siatki kartograficznej.
-Atrybut: Nazwa: rozdzielczoscN Nazwa (pełna): rozdzielczość północna Dziedzina: Angle Liczność: 1 Definicja: Rozdzielczość siatki kartograficznej północnej. Jednostką zapisu jest łuku.
-Atrybut: Nazwa: rozdzielczoscE Nazwa (pełna): rozdzielczość wschodnia Dziedzina: Angle Liczność: 1 Definicja: Rozdzielczość siatki kartograficznej wschodniej. Jednostką zapisu łuku.
-Atrybut: Nazwa: informDodatkowa Nazwa (pełna): informacja dodatkowa Dziedzina: CharacterString Liczność: 0..1 Definicja: Informacja dodatkowa dotycząca Relacja: Typ: Association Rola: odwzorowanie2 Dziedzina: SOP_Odwzorowanie Liczność: 1 Definicja: Określa odwzorowanie kartograficzne kartograficznej.
-Tabela nr 8 Klasa: SOP_SystOdn Abstract Nazwa: system odniesienia Definicja: Zbiór informacji pozwalający w świecie rzeczywistym za pomocą zrealizowanym w konkretnym Stereotypy: «FeatureType» Klasa: SOP_SystOdn Abstract Atrybut: Nazwa: idIIP Nazwa (pełna): identyfikator IIP Dziedzina: BT_Identyfikator Liczność: 1 Definicja: Identyfikator obiektu infrastruktury Atrybut: Nazwa: innaNazwa Nazwa (pełna): inna nazwa Dziedzina: CharacterString Liczność: 0..* Definicja: Alternatywna nazwa, przez którą odniesienia.
-Relacja: Typ: Generalization Dziedzina: SOP_PojSystOdn Relacja: Typ: Generalization Dziedzina: SOP_ZlozSystOdn Tabela nr 9 Klasa: SOP_UklWspGeod Nazwa: układ współrzędnych geodezyjnych Definicja: Szczególny typ układu współrzędnych trzy osie określające położenie Klasa bazowa: SOP_UkladWsp Stereotypy: «FeatureType» Relacja: Typ: Generalization Dziedzina: SOP_UkladWsp Relacja: Typ: Association Rola: odwzorowanie1 Dziedzina: SOP_Odwzorowanie Liczność: 1 Definicja: Określa odwzorowanie dla układu geodezyjnych.
-Ograniczenie: tylkoDlaOdwzorowania Relacja jest realizowana tylko współrzędnych geodezyjnych, odwzorowania został określony inv: if SOP_PojSystOdn.typ='odwzorowany' notEmpty() else self--> isEmpty() Tabela nr 10 Klasa: SOP_UklWspPion Nazwa: układ pionowy Definicja: Szczególny typ układu współrzędnych jedną oś związaną z pionem.
-Klasa bazowa: SOP_UkladWsp Stereotypy: «FeatureType» Relacja: Typ: Generalization Dziedzina: SOP_UkladWsp Tabela nr 11 Klasa: SOP_UkladGeodezyjny Nazwa: geodezyjny układ odniesienia Definicja: Układ odniesienia opisujący trójwymiarowego układu współrzędnych Klasa bazowa: SOP_UkladOdn Stereotypy: «FeatureType» Atrybut: Nazwa: punktPrzylozenia Nazwa (pełna): punkt przyłożenia Dziedzina: CharacterString Liczność: 1 Definicja: Definicja fizycznych punktów których została określona relacja Relacja: Typ: Generalization Dziedzina: SOP_UkladOdn Relacja: Typ: Aggregation Rola: elipsoida1 Dziedzina: SOP_Elipsoida Liczność: 1 Definicja: Elipsoida wchodząca w skład Relacja: Typ: Aggregation Rola: polPocz Dziedzina: SOP_PolPocz Liczność: 1 Definicja: Południk początkowy wchodzący geodezyjnego.
-Tabela nr 12 Klasa: SOP_UkladOdn Nazwa: układ odniesienia Definicja: Zbiór parametrów definiujący skalę i orientację układu współrzędnych.
-Stereotypy: «FeatureType» Klasa: SOP_UkladOdn Atrybut: Nazwa: identyfikator Nazwa (pełna): identyfikator Dziedzina: CharacterString Liczność: 1 Definicja: Przyjęta nazwa układu odniesienia.
-unikalny identyfikator w ramach Atrybut: Nazwa: nazwaPelna Nazwa (pełna): nazwa pełna Dziedzina: CharacterString Liczność: 1 Definicja: Pełna nazwa układu odniesienia.
-Atrybut: Nazwa: innaNazwa Nazwa (pełna): inna nazwa Dziedzina: CharacterString Liczność: 0..* Definicja: Alternatywna nazwa, przez odniesienia.
-Atrybut: Nazwa: epokaRealizacji Nazwa (pełna): epoka realizacji Dziedzina: Date Liczność: 1 Definicja: Określenie daty, na którą zostały układu odniesienia.
-Atrybut: Nazwa: informDodatkowa Nazwa (pełna): informacja dodatkowa Dziedzina: CharacterString Liczność: 0..1 Definicja: Informacja dodatkowa dotycząca Relacja: Typ: Generalization Dziedzina: SOP_UkladGeodezyjny Relacja: Typ: Generalization Dziedzina: SOP_UkladWysokosciowy Relacja: Typ: Aggregation Rola: Dziedzina: SOP_PojSystOdn Liczność: 1..* Definicja: Pojedynczy system odniesienia, układ odniesienia.
-Tabela nr 13 Klasa: SOP_UkladWsp Nazwa: układ współrzędnych Definicja: Zbiór reguł matematycznych punktom są przypisywane współrzędne.
-Stereotypy: «FeatureType» Atrybut: Nazwa: identyfikator Nazwa (pełna): identyfikator Dziedzina: CharacterString Liczność: 1 Definicja: Przyjęta nazwa układu współrzędnych.
-tworzący unikalny identyfikator Atrybut: Nazwa: innaNazwa Nazwa (pełna): inna nazwa Dziedzina: CharacterString Liczność: 1 Definicja: Alternatywna nazwa, przez którą współrzędnych.
-Atrybut: Nazwa: typUkladu Nazwa (pełna): typ układu współrzędnych Dziedzina: SOP_TypUkladuWsp Liczność: 1 Definicja: Informacja na temat typu układu czy dany układ jest układem czy pionowym. Wybranie odpowiedniego relacje pomiędzy osiami układu Atrybut: Nazwa: zastosowanie Nazwa (pełna): zastosowanie Dziedzina: CharacterString Liczność: 0..1 Definicja: Asortyment prac oraz dziedzin być zastosowany układ współrzędnych.
-Atrybut: Nazwa: liczbaOsi Nazwa (pełna): liczba osi Dziedzina: Integer Liczność: 1 Definicja: Wymiar układu współrzędnych układu.
-Relacja: Typ: Aggregation Rola: Dziedzina: SOP_PojSystOdn Liczność: 1..* Definicja: Pojedynczy system odniesienia, układ współrzędnych.
-Klasa: SOP_UkladWsp Relacja: Typ: Generalization Dziedzina: SOP_UklWspGeod Relacja: Typ: Generalization Dziedzina: SOP_UklWspPion Relacja: Typ: Aggregation Rola: osUkladu Dziedzina: SOP_OsUkladu Liczność: 1..3 Definicja: Oś układu wchodząca w skład Tabela nr 14 Klasa: SOP_UkladWysokosciowy Nazwa: układ wysokościowy Definicja: Układ odniesienia opisujący fizyczną (zależną od pola grawitacyjnego) Klasa bazowa: SOP_UkladOdn Stereotypy: «FeatureType» Atrybut: Nazwa: poziomOdniesienia Nazwa (pełna): poziom odniesienia Dziedzina: CharacterString Liczność: 1 Definicja: Nazwa punktu lub punktów których została określona relacja (geoidą).
-Relacja: Typ: Generalization Dziedzina: SOP_UkladOdn Relacja: Typ: Aggregation Rola: geoida1 Dziedzina: SOP_Geoida Liczność: 0..1 Definicja: Geoida wchodząca w skład Tabela nr 15 Klasa: SOP_ZlozSystOdn Nazwa: złożony system odniesienia Definicja: System odniesienia wykorzystujący niezależne systemy odniesienia.
-Klasa bazowa: SOP_SystOdn Stereotypy: «FeatureType» Klasa: SOP_ZlozSystOdn Atrybut: Nazwa: identyfikator Nazwa (pełna): identyfikator systemu złożonego Dziedzina: CharacterString Liczność: 1 Definicja: Identyfikator składa się z dwóch pojedynczego, oddzielonych Relacja: Typ: Generalization Dziedzina: SOP_SystOdn Relacja: Typ: Aggregation Rola: pojSystOdn Dziedzina: SOP_PojSystOdn Liczność: 2 Definicja: Pojedynczy system odniesienia systemu odniesienia.
-Ograniczenie: systemZlozony Dopuszcza się jedynie relacje, jest systemem geodezyjnym lub systemem wysokościowym.
-Tabela nr 16 Klasa: SOP_IdSystOdn Nazwa: identyfikator systemu odniesienia Definicja: Słownik identyfikatorów systemów Stereotypy: «enumeration» Atrybut: Nazwa: PL-ETRF89-GRS80H Nazwa (pełna): PL-ETRF89-GRS80H Definicja: Atrybut: Nazwa: PL-ETRF2000-GRS80H Nazwa (pełna): PL-ETRF2000-GRS80H Definicja: Atrybut: Nazwa: PL-ETRF2000-GRS80h Nazwa (pełna): PL-ETRF2000-GRS80h Definicja: Atrybut: Nazwa: PL-ETRF2000-XYZ Nazwa (pełna): PL-ETRF2000-XYZ Definicja: Atrybut: Nazwa: PL-EVRF2007-NH Nazwa (pełna): PL-EVRF2007-NH Definicja: Klasa: SOP_IdSystOdn Atrybut: Nazwa: PL-KRON86-NH Nazwa (pełna): PL-KRON86-NH Definicja: Atrybut: Nazwa: PL-ETRF89-LAEA Nazwa (pełna): PL-ETRF89-LAEA Definicja: Atrybut: Nazwa: PL-ETRF89-LCC Nazwa (pełna): PL-ETRF89-LCC Definicja: Atrybut: Nazwa: PL-ETRF89-UTM Nazwa (pełna): PL-ETRF89-UTM Definicja: Atrybut: Nazwa: PL-ETRF89-1992 Nazwa (pełna): PL-ETRF89-1992 Definicja: Atrybut: Nazwa: PL-ETRF89-2000 Nazwa (pełna): PL-ETRF89-2000 Definicja: Atrybut: Nazwa: PL-ETRF2000-LAEA Nazwa (pełna): PL-ETRF2000-LAEA Definicja: Atrybut: Nazwa: PL-ETRF2000-LCC Nazwa (pełna): PL-ETRF2000-LCC Definicja: Atrybut: Nazwa: PL-ETRF2000-UTM Nazwa (pełna): PL-ETRF2000-UTM Definicja: Atrybut: Nazwa: PL-ETRF2000-1992 Nazwa (pełna): PL-ETRF2000-1992 Definicja: Atrybut: Nazwa: PL-ETRF2000-2000 Nazwa (pełna): PL-ETRF2000-2000 Definicja: Tabela nr 17 Klasa: SOP_Jednostka Nazwa: jednostka miary Definicja: Słownik jednostek miar.
-Stereotypy: «enumeration» Atrybut: Nazwa: metry Nazwa (pełna): metry Definicja: Miara zgodna z SI.
-Atrybut: Nazwa: stopnie Nazwa (pełna): stopnie Definicja: Miara zgodna z SI.
-Tabela nr 18 Klasa: SOP_ParametrOdwzor Nazwa: parametr odwzorowania Definicja: Wykaz parametrów odwzorowania.
-Stereotypy: «DataType» Atrybut: Nazwa: nazwaParametru Nazwa (pełna): nazwa parametru Dziedzina: CharacterString Liczność: 1 Definicja: Przyjęta nazwa dla parametru Atrybut: Nazwa: wartoscParametru Nazwa (pełna): wartość parametru Dziedzina: CharacterString Liczność: 1 Definicja: Wartość parametru.
-Atrybut: Nazwa: informDodatkowa Nazwa (pełna): informacja dodatkowa Dziedzina: CharacterString Liczność: 0..1 Definicja: Informacja dodatkowa dotycząca Tabela nr 19 Klasa: SOP_TypSystOdn Nazwa: typ systemu odniesienia Definicja: Słownik typów systemów odniesienia.
-Stereotypy: «enumeration» Atrybut: Nazwa: geodezyjny Nazwa (pełna): geodezyjny Definicja: System odniesienia opisujący trójwymiarowego układu współrzędnych Klasa: SOP_TypSystOdn Atrybut: Nazwa: wysokosciowy Nazwa (pełna): wysokościowy Definicja: System odniesienia opisujący fizyczną a Ziemią.
-Atrybut: Nazwa: odwzorowany Nazwa (pełna): odwzorowany Definicja: System odniesienia powstały geodezyjnego systemu odniesienia odwzorowania.
-Tabela nr 20 Klasa: SOP_TypUkladuWsp Nazwa: typ układu współrzędnych Definicja: Słownik typów układów współrzędnych.
-Stereotypy: «enumeration» Atrybut: Nazwa: kartezjanski Nazwa (pełna): kartezjański Definicja: Układ współrzędnych, który względem dwóch lub trzech Wszystkie osie powinny mieć Atrybut: Nazwa: elipsoidalny Nazwa (pełna): elipsoidalny Definicja: Układ współrzędnych, w którym przez szerokość geodezyjną, przypadku układu trójwymiarowego) Atrybut: Nazwa: pionowy Nazwa (pełna): pionowy Definicja: Jednowymiarowy układ współrzędnych wyrażenia wysokości punktu grawitacyjnego Ziemi.
-Tabela nr 21 Klasa: SOP_ZwrotOsi Nazwa: kierunek osi Definicja: Słownik zwrotów osi.
-Stereotypy: «enumeration» Atrybut: Nazwa: polnoc Nazwa (pełna): północ Definicja: Klasa: SOP_ZwrotOsi Atrybut: Nazwa: poludnie Nazwa (pełna): południe Definicja: Atrybut: Nazwa: wschod Nazwa (pełna): wschód Definicja: Atrybut: Nazwa: zachod Nazwa (pełna): zachód Definicja: Atrybut: Nazwa: gora Nazwa (pełna): w górę Definicja: Zwrot osi przeciwny do zwrotu Atrybut: Nazwa: geocentrycznyX Nazwa (pełna): geocentryczny X Definicja: Oś jest zwrócona od środka elipsoidy równika z południkiem Greenwich.
-Atrybut: Nazwa: geocentrycznyY Nazwa (pełna): geocentryczny Y Definicja: Oś jest zwrócona od środka elipsoidy równika z południkiem 90°.
-Atrybut: Nazwa: geocentrycznyZ Nazwa (pełna): geocentryczny Z Definicja: Oś jest zwrócona od środka elipsoidy geograficznego.
-Tabela nr 22 Klasa: BT_Identyfikator Nazwa: identyfikator IIP Definicja: Typ reprezentujący unikalny przez dostawcę zbioru danych.
-wykorzystany przez zewnętrzne zbudować referencję do obiektu.
-Stereotypy: «DataType» Atrybut: Nazwa: lokalnyId Nazwa (pełna): identyfikator lokalny Dziedzina: CharacterString Liczność: 1 Definicja: Lokalny identyfikator obiektu przez dostawcę zbioru danych.
-unikalny w zakresie przestrzeni może mieć takiego samego identyfikatora.
-Klasa: BT_Identyfikator identyfikatora w przestrzeni nazw zbioru danych.
-Atrybut: Nazwa: przestrzenNazw Nazwa (pełna): przestrzeń nazw Dziedzina: CharacterString Liczność: 1 Definicja: Nazwa przestrzeni nazw identyfikującej którego pochodzi obiekt przestrzenny.
-Atrybut: Nazwa: wersjaId Nazwa (pełna): identyfikator wersji Dziedzina: CharacterString Liczność: 0..1 Definicja: Identyfikator poszczególnej wersji Jeżeli specyfikacja obiektu zawiera obiektu, identyfikator wersji jest poszczególnych wersji obiektu.
-danego obiektu identyfikator wersji Ograniczenie: Nazwa: dozwolone znaki dla atrybutów Język naturalny: Atrybuty lokalnyId i przestrzenNazw tylko przy użyciu następującego …„Z”, „a”…„z”, „0”…„9”, „_”, tylko litery alfabetu łacińskiego, myślnik.
-OCL: inv: let allowedChar : Set {'A'..'Z', (przestrzenNazw.element->forAll( >exists(char)) and lokalnyId.element->forAll( allowedChar->exists( char ) )) Tabela. Rozdzielczość siatki kilometrowej w zależności od skali Skala mapy Odstępy linii siatki 1:1 000 000 co 100 000 000 (dopuszczalne co 10 1:500 000, 1:250 000 co 10 000 m 1:100 000 co 1000 m (dopuszczalne co 10 000 1:50 000, 1:25 000 co 1000 m 1:10 000, 1:5000 co 1000 m (dopuszczalne co 100 m) 1:2000, 1:1000, 1:500 co 100 m Tabela 1. Podział i oznaczenie godeł arkuszy map w układach i PL-1992, PL-UTM (na przykładzie arkusza mapy M-34) Skala mapy Arkusz pojedynczy obszar [º,’] oznaczenie godła szerokość długość mapy szerokość 1:1 000 000 4° 6° M-34 4° 1:500 000 2° 3° M-34-D 2° 1:250 000 1° 1,5° M-34-D-d 1° 1:100 000 20’ 30’ M-34-144 20’ 1:50 000 10’ 15’ M-34-144-D 10’ 1:25 000 5’ 7,5’ M-34-144-D-d 5’ 1:10 000 2,5’ 3,75’ M-34-144-D-d-4 2,5’ Tabela 2. Podział i oznaczenia arkuszy map w układzie współrzędnych arkusza mapy w skali 1:10 000 o godle 6.115.27) Skala mapy Obszar [km] Oznaczenie szerokość długość 1:10 000 5,0 8,0 6.115.27 1:5 000 2,5 4,0 6.115.27.4 1:2 000 1,0 1,6 6.115.27.25 1:1 000 0,5 0,8 6.115.27.25.4 1:500 0,25 0,4 6.115.27.25.4.4
+Treść obwieszczenia
+Załącznik – Rozporządzenie Rady Ministrów z dnia 15 października 2012 r. w sprawie państwowego systemu odniesień przestrzennych Rozdział 1 – Przepisy ogólne Rozdział 2 – Państwowy system odniesień przestrzennych Rozdział 3 – Stosowanie państwowego systemu odniesień przestrzennych Rozdział 4 – Przepisy przejściowe i końcowe
+
+## Załącznik nr 1 — – Parametry techniczne geodezyjnych układów odniesienia, układów wysokościowych i układów współrzędnych
+
+## Załącznik nr 2 — – Specyfikacja modelu pojęciowego państwowego systemu odniesień przestrzennych
+
+## Załącznik nr 3 — – Katalog obiektów i atrybutów państwowego systemu odniesień przestrzennych
+
+## Załącznik nr 4 — – Rozdzielczość siatki kilometrowej w zależności od skali mapy
+
+## Załącznik nr 5 — – Podział i oznaczenia arkuszy map w układach współrzędnych: PL-LCC, PL-1992, PL-UTM oraz PL-2000
+
+## Załącznik nr 6 — – Schemat aplikacyjny GML państwowego systemu odniesień przestrzennych
+
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 15 października 2012 r. w sprawie państwowego systemu odniesień przestrzennych (Dz. U. poz. 1247), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Rady Ministrów z dnia 19 grudnia 2019 r. zmieniającym rozporządzenie w sprawie państwowego systemu odniesień przestrzennych (Dz. U. poz. 2494).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 19 grudnia 2019 r. zmieniającego rozporządzenie w sprawie państwowego systemu odniesień przestrzennych (Dz. U. poz. 2494), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie z dniem 31 grudnia 2019 r.
+” .
+Załącznik – Rozporządzenie Rady Ministrów z dnia 15 października 2012 r. w sprawie państwowego systemu odniesień przestrzennych
+Na podstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2023 r. poz. 1752, 1615, 1688 i 1762) zarządza się, co następuje:
+Rozdział 1 Przepisy ogólne
+§ 1.
+Rozporządzenie określa państwowy system odniesień przestrzennych obowiązujący na terenie całego kraju.
+§ 2.
+Ilekroć w rozporządzeniu jest mowa o:
+1)
+ETRS89 – rozumie się przez to geodezyjny europejski ziemski system odniesienia, przyjęty rezolucją nr 7 na XVII Zgromadzeniu Generalnym Międzynarodowej Unii Geodezji i Geofizyki w Canberze w 1979 r., zatwierdzony rezolucją nr 1 na zgromadzeniu podkomisji EUREF (IAG Reference Frame Sub-Commission for Europe) we Florencji w 1990 r. jako identyczny z Międzynarodowym Ziemskim Systemem Odniesienia ITRS (International Terrestrial Reference System) na epokę 1989.0;
+2)
+EVRS – rozumie się przez to kinematyczny, europejski system wysokościowy, wykorzystujący różnice potencjału siły ciężkości odniesione do poziomu odniesienia Amsterdam lub odpowiadające im wysokości normalne, zatwierdzony rezolucją nr 5 na zgromadzeniu podkomisji EUREF w Tromsø w 2000 r.;
+3)
+konserwacji geodezyjnego układu odniesienia – rozumie się przez to ciągłą lub okresową kontrolę stałości wyznaczanych współrzędnych wektorów położenia i prędkości punktów podstawowej osnowy geodezyjnej realizujących układ odniesienia;
+4)
+quasi-geoidzie – rozumie się przez to powierzchnię powstającą przez odłożenie od punktów na powierzchni Ziemi w kierunku ku elipsoidzie odniesienia, wzdłuż normalnych linii pionu, wysokości normalnych tych punktów;
+5)
+modelu quasi-geoidy – rozumie się przez to numeryczną, dyskretną (punktową) reprezentację wysokości powierzchni quasi-geoidy, wraz z algorytmem interpolacyjnym umożliwiającym obliczenie tej wysokości w określonym punkcie;
+6)
+obiekcie przestrzennym – rozumie się przez to obiekt, o którym mowa w art. 3 pkt 5 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej (Dz. U. z 2021 r. poz. 214);
+7)
+siatce odniesienia – rozumie się przez to siatkę złożoną z dwóch lub więcej zbiorów krzywych, tak że krzywe każdego zbioru przecinają krzywe innych zbiorów w sposób algorytmiczny;
+8)
+wysokości normalnej – rozumie się przez to wielkość powstałą z podzielenia liczby geopotencjalnej przez przeciętne wartości przyspieszenia normalnego siły ciężkości na elipsoidzie odniesienia.
+Rozdział 2 Państwowy system odniesień przestrzennych
+§ 3.
+1.
+Państwowy system odniesień przestrzennych tworzą:
+1)
+geodezyjne układy odniesienia oznaczone symbolami PL-ETRF2000 i PL-ETRF89, będące matematyczną i fizyczną realizacją europejskiego ziemskiego systemu odniesienia ETRS89;
+2)
+układy wysokościowe oznaczone symbolami PL-KRON86-NH i PL-EVRF2007-NH, będące matematyczną i fizyczną realizacją europejskiego ziemskiego systemu wysokościowego EVRS;
+3)
+układy współrzędnych: geocentrycznych kartezjańskich oznaczone symbolem XYZ, geocentrycznych geodezyjnych oznaczone symbolem GRS80h oraz geodezyjnych oznaczone symbolem GRS80H;
+4)
+układy współrzędnych płaskich prostokątnych oznaczone symbolami: PL-LAEA, PL-LCC, PL-UTM, PL-1992 i PL-2000.
+2.
+Parametry techniczne geodezyjnych układów odniesienia, układów wysokościowych i układów współrzędnych, o których mowa w ust. 1, określa załącznik nr 1 do rozporządzenia.
+3.
+Specyfikację modelu pojęciowego państwowego systemu odniesień przestrzennych, w postaci schematu aplikacyjnego UML, określa załącznik nr 2 do rozporządzenia.
+§ 4.
+1.
+Fizyczną realizacją geodezyjnego układu odniesienia PL-ETRF2000 jest sieć europejskich stacji permanentnych EPN (European Permanent Network) o dokładnie wyznaczonych współrzędnych oraz zmianach tych współrzędnych w czasie.
+2.
+Przenoszenie na obszar Polski i konserwacja geodezyjnego układu odniesienia PL-ETRF2000 odbywają się przez sieć stacji permanentnych ASG-EUPOS (Aktywna Sieć Geodezyjna EUPOS).
+§ 5.
+Przenoszenie na obszar Polski i konserwacja geodezyjnego układu odniesienia PL-ETRF89 odbywają się przez sieć punktów podstawowej osnowy geodezyjnej za pośrednictwem obserwacji satelitarnych GNSS (Global Navigation Satellite Systems).
+§ 6.
+1.
+Geodezyjny układ wysokościowy PL-EVRF2007-NH tworzą wysokości normalne odniesione do średniego poziomu Morza Północnego, wyznaczonego dla mareografu w Amsterdamie (Normaal Amsterdams Peil), Holandia.
+2.
+Elipsoidą normalnego pola siły ciężkości jest elipsoida odniesienia GRS80.
+§ 7.
+Geodezyjny układ wysokościowy PL-KRON86-NH tworzą wysokości normalne odniesione do średniego poziomu Morza Bałtyckiego, wyznaczonego dla mareografu w Kronsztadzie koło Sankt Petersburga, Federacja Rosyjska.
+§ 8.
+1.
+Fizyczną realizacją układów wysokościowych, o których mowa w § 3 ust. 1 pkt 2, jest podstawowa osnowa wysokościowa.
+2.
+Wysokości normalne określa się na podstawie pomiarów geodezyjnych odniesionych do pola grawitacyjnego Ziemi, względem przyjętej powierzchni odniesienia, albo na podstawie pomiarów satelitarnych GNSS, z uwzględnieniem wysokości obowiązującej quasi-geoidy nad elipsoidą odniesienia.
+3.
+Wysokości normalne oznacza się literą H i podaje w metrach [m].
+§ 9.
+Układ współrzędnych płaskich prostokątnych PL-LAEA jest utworzony na podstawie matematycznie jednoznacznego przyporządkowania punktów na elipsoidzie odniesienia GRS80 odpowiednim punktom na płaszczyźnie według teorii azymutalnego równopowierzchniowego odwzorowania Lamberta.
+§ 10.
+1.
+Układ współrzędnych płaskich prostokątnych PL-LCC jest utworzony na podstawie matematycznie jednoznacznego przyporządkowania punktów na elipsoidzie odniesienia GRS80 odpowiednim punktom na płaszczyźnie według teorii stożkowego równokątnego odwzorowania Lamberta.
+2.
+Obszar Polski obejmuje jeden pas równoleżnikowy układu współrzędnych PL-LCC.
+§ 11.
+1.
+Układ współrzędnych płaskich prostokątnych PL-1992 jest utworzony na podstawie matematycznie jednoznacznego przyporządkowania punktów na elipsoidzie odniesienia GRS80 odpowiednim punktom na płaszczyźnie według teorii odwzorowania Gaussa-Krügera.
+2.
+Obszar Polski obejmuje jeden pas południkowy układu współrzędnych PL-1992 o rozciągłości od 14º00’E do 24º30’E i południku osiowym 19ºE.
+§ 12.
+1.
+Układ współrzędnych płaskich prostokątnych PL-UTM jest utworzony na podstawie matematycznie jednoznacznego przyporządkowania punktów na elipsoidzie odniesienia GRS80 odpowiednim punktom na płaszczyźnie według teorii odwzorowania poprzecznego Merkatora.
+2.
+Obszar Polski obejmują trzy pasy południkowe układu współrzędnych PL-UTM o rozciągłości równej 6º długości geodezyjnej każdy, o południkach osiowych: 15ºE, 21ºE i 27ºE, oznaczane odpowiednio numerami: 33, 34 i 35.
+§ 13.
+1.
+Układ współrzędnych płaskich prostokątnych PL-2000 jest utworzony na podstawie matematycznie jednoznacznego przyporządkowania punktów na elipsoidzie odniesienia GRS80 odpowiednim punktom na płaszczyźnie według teorii odwzorowania Gaussa-Krügera.
+2.
+Obszar Polski obejmują cztery pasy południkowe układu współrzędnych PL-2000 o rozciągłości równej 3º długości geodezyjnej każdy, o południkach osiowych: 15ºE, 18ºE, 21ºE i 24ºE, oznaczane odpowiednio numerami: 5, 6, 7 i 8.
+§ 14.
+Katalog obiektów i atrybutów państwowego systemu odniesień przestrzennych określa załącznik nr 3 do rozporządzenia.
+Rozdział 3 Stosowanie państwowego systemu odniesień przestrzennych
+§ 15.
+1.
+Państwowy system odniesień przestrzennych stosuje się w pracach geodezyjnych i kartograficznych oraz przy tworzeniu zbiorów danych przestrzennych przez organy władzy publicznej, przy czym:
+1)
+układ współrzędnych PL-LAEA stosuje się na potrzeby analiz przestrzennych i sprawozdawczości na poziomie ogólnoeuropejskim;
+2)
+układ współrzędnych PL-LCC stosuje się na potrzeby wydawania map w skali 1:500 000 i w mniejszych skalach;
+3)
+układ współrzędnych PL-UTM stosuje się na potrzeby wydawania standardowych opracowań kartograficznych w skalach od 1:10 000 do 1:250 000, wydawania map morskich oraz wydawania innych map przeznaczonych na potrzeby bezpieczeństwa i obronności państwa;
+4)
+układ współrzędnych PL-2000 stosuje się na potrzeby wykonywania map w skalach większych od 1:10 000 – w szczególności mapy ewidencyjnej i mapy zasadniczej.
+2.
+W pracach geodezyjnych i kartograficznych innych niż wymienione w ust. 1 pkt 1–4 stosuje się układ współrzędnych PL-UTM lub układ współrzędnych PL-1992.
+3.
+W pracach geodezyjnych i kartograficznych, pracach hydrograficznych na akwenach morskich, a także przy tworzeniu zbiorów danych przestrzennych, będących przedmiotem umów międzynarodowych, których Polska jest sygnatariuszem, mogą być stosowane inne niż określone w § 3 układy odniesienia, układy wysokościowe lub układy współrzędnych.
+4.
+W przypadku gdy prace, o których mowa w ust. 3, dotyczą obiektów przestrzennych znajdujących się w bazach danych, o których mowa w art. 4 ust. 1a i 1b ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, do określenia położenia tych obiektów oprócz układów odniesienia, układów wysokościowych lub układów współrzędnych określonych w umowie stosuje się także państwowy system odniesień przestrzennych.
+5.
+W pracach, w których wymagana dokładność określenia współrzędnych nie przekracza 1 m, a wykorzystuje się geocentryczne systemy odniesienia i powiązane z figurą Ziemi układy współrzędnych zgodne z konwencją Międzynarodowej Służby Ruchu Obrotowego Ziemi (IERS) z 1996 r., w szczególności:
+1)
+Światowy System Geodezyjny 1984 (WGS84),
+2)
+Międzynarodowy Ziemski System Odniesienia (ITRS),
+3)
+Europejski Ziemski System Odniesienia 1989 (ETRS89)
+nie stosuje się transformacji współrzędnych między tymi systemami a układami odniesienia, o których mowa w § 3 ust. 1 pkt 1.
+§ 16.
+1.
+Położenie obiektów przestrzennych w geodezyjnych układach odniesienia, o których mowa w § 3 ust. 1 pkt 1, określa się za pomocą układów współrzędnych:
+1)
+układu współrzędnych geocentrycznych kartezjańskich XYZ, którego osie są oznaczane literami: X, Y, Z, a wartości współrzędnych podawane w metrach [m], lub
+2)
+układu współrzędnych geocentrycznych geodezyjnych GRS80h, którego osie są oznaczane literami:
+a)
+szerokość geodezyjna – literą φ,
+b)
+długość geodezyjna – literą λ
+– wartości tych współrzędnych są podawane w stopniach [º], minutach [’] i sekundach [’’], przy czym za wartością współrzędnej φ dodaje się literę N (North), a za wartością współrzędnej λ dodaje się literę E (East),
+c)
+wysokość elipsoidalna – literą h, wartość tej współrzędnej jest podawana w metrach [m].
+2.
+W przypadkach, w których wyznaczenie wysokości elipsoidalnych jednoczesne z wyznaczeniem współrzędnych geodezyjnych φ i λ jest niemożliwe, położenie obiektów przestrzennych określa się za pomocą współrzędnych geodezyjnych w układzie GRS80H oraz wysokości normalnych H.
+3.
+Osie układów współrzędnych płaskich prostokątnych, o których mowa w § 3 ust. 1 pkt 4, oznacza się literami: oś północną – literą x, a oś wschodnią – literą y, przy czym za wartością współrzędnej x dodaje się literę N (North), a za wartością współrzędnej y dodaje się literę E (East).
+§ 17.
+1.
+Graficzną prezentacją współrzędnych, o których mowa w § 16 ust. 1 pkt 2 oraz ust. 2 i 3, na opracowaniach kartograficznych są siatki odniesienia, odpowiednio: siatka kartograficzna – dla współrzędnych geodezyjnych i siatka kilometrowa – dla współrzędnych płaskich prostokątnych, przy czym:
+1)
+współrzędne geodezyjne narożników arkuszy map i linie siatki kartograficznej opisuje się w pełnych stopniach, minutach lub sekundach;
+2)
+linie siatki kilometrowej opisuje się w metrach lub kilometrach;
+3)
+dopuszcza się podawanie tylko punktów przecięcia siatek odniesienia, o których mowa w pkt 1 i 2.
+2.
+Siatka kilometrowa otrzymuje nazwę od układu współrzędnych, dla którego została obliczona, przy czym:
+1)
+początek siatki pokrywa się z początkiem układu współrzędnych płaskich prostokątnych;
+2)
+linie siatki biegną z południa na północ i z zachodu na wschód;
+3)
+punktem odniesienia komórki siatki jest dolny lewy narożnik komórki siatki.
+3.
+Na potrzeby jednoznacznych odniesień i jednoznacznej identyfikacji komórki siatki stosuje się kod komórki, który zawiera wielkość komórki oraz współrzędne dolnego lewego rogu tej komórki. Wielkość komórki wyraża się w metrach [m] dla komórek o wielkości 100 m lub mniejszej oraz w kilometrach [km] dla komórek o wielkości 1000 m lub większej. Wartości współrzędnych północnych i współrzędnych wschodnich dzieli się przez 10 n, gdzie n oznacza liczbę zer znaczących dla wartości określającej wielkość komórki.
+4.
+Rozdzielczość siatki kilometrowej w zależności od skali mapy określa załącznik nr 4 do rozporządzenia.
+§ 18.
+1.
+Podstawą podziału na arkusze mapy i nadawania im godła w układzie współrzędnych PL-LCC, PL-UTM lub PL-1992 jest arkusz mapy w skali 1:1 000 000. Godło każdego arkusza składa się z litery i liczb oddzielonych myślnikiem, wynikających z podziału Międzynarodowej Mapy Świata w skali 1:1 000 000 na arkusze o wymiarach 4º szerokości i 6º długości, gdzie:
+1)
+litera oznacza pas równoleżnikowy (pas), do którego przynależy arkusz,
+2)
+dwucyfrowa liczba oznacza pas południkowy (słup), do którego przynależy arkusz
+przy czym obszar Polski leży na przecięciu dwóch pasów oznaczonych literami M i N w kierunku z południa na północ i trzech słupów oznaczonych liczbami: 33, 34 i 35 w kierunku z zachodu na wschód.
+2.
+Godło arkusza mapy w skali 1:500 000, 1:250 000, 1:100 000, 1:50 000, 1:25 000 i 1:10 000 powstaje przez dodanie do godła mapy w skali 1:1 000 000 liter i liczb, wynikających z podziału odpowiednio:
+1)
+arkusza mapy w skali 1:1 000 000 na 4 arkusze mapy w skali 1:500 000, po 2 arkusze w rzędzie, oznaczone literami A, B, C i D, poczynając od górnego lewego arkusza, rzędami z lewej do prawej;
+2)
+arkusza mapy w skali 1:500 000 na 4 arkusze mapy w skali 1:250 000, po 2 arkusze w rzędzie, oznaczone literami a, b, c i d, poczynając od górnego lewego arkusza, rzędami z lewej do prawej;
+3)
+arkusza mapy w skali 1:1 000 000 na 144 arkusze mapy w skali 1:100 000, po 12 arkuszy w rzędzie, oznaczone liczbami od 001 do 144, poczynając od górnego lewego arkusza, rzędami z lewej do prawej;
+4)
+arkusza mapy w skali 1:100 000 na 4 arkusze mapy w skali 1:50 000, po 2 arkusze w rzędzie, oznaczone literami A, B, C i D, poczynając od górnego lewego arkusza, rzędami z lewej do prawej;
+5)
+arkusza mapy w skali 1:50 000 na 4 arkusze mapy w skali 1:25 000, po 2 arkusze w rzędzie, oznaczone literami a, b, c i d, poczynając od górnego lewego arkusza, rzędami z lewej do prawej;
+6)
+arkusza mapy w skali 1:25 000 na 4 arkusze mapy w skali 1:10 000, po 2 arkusze w rzędzie, oznaczone cyframi 1, 2, 3 i 4, poczynając od górnego lewego arkusza, rzędami z lewej do prawej.
+3.
+W pracach geodezyjnych i kartograficznych, pracach hydrograficznych na akwenach morskich, a także przy wydawaniu map będących przedmiotem umów międzynarodowych, których Polska jest sygnatariuszem, może być stosowany inny niż określony w ust. 1 i 2 podział map na arkusze i inny sposób nadawania godła.
+§ 19.
+1.
+Podstawą podziału na arkusze mapy i nadawania im godła w układzie współrzędnych PL-2000 jest arkusz mapy w skali 1:10 000 o wymiarach 5 km na 8 km, przy czym godło każdego arkusza mapy w skali 1:10 000 składa się z trzech liczb rozdzielonych kropkami, gdzie:
+1)
+pierwsza, jednocyfrowa liczba oznacza numer pasa południkowego (5, 6, 7 lub 8) i powstaje przez podzielenie wartości południka osiowego pasa południkowego przez liczbę 3;
+2)
+druga, trzycyfrowa liczba określa numer rzędu, do którego przynależy arkusz, i powstaje jako liczba całkowita dzielenia (xi – 4920) przez 5, gdzie xi oznacza współrzędną północną dowolnego punktu z pasa południkowego wyrażoną w kilometrach [km];
+3)
+trzecia, dwucyfrowa liczba określa numer kolumny, do której przynależy arkusz, i powstaje jako liczba całkowita dzielenia (yi – 332) przez 8, gdzie yi oznacza współrzędną wschodnią dowolnego punktu z pasa południkowego wyrażoną w kilometrach [km] z pominięciem początkowej cyfry oznaczającej numer pasa południkowego.
+2.
+Godło arkusza mapy w skali 1:5000, 1:2000, 1:1000 i 1:500 powstaje przez dodanie do godła mapy w skali 1:10 000 liczby wynikającej z podziału odpowiednio:
+1)
+arkusza mapy w skali 1:10 000 na 4 arkusze mapy w skali 1:5000, po 2 arkusze w rzędzie, oznaczone liczbami 1, 2, 3 i 4, poczynając od górnego lewego arkusza, rzędami z lewej do prawej;
+2)
+arkusza mapy w skali 1:10 000 na 25 arkuszy mapy w skali 1:2000, po 5 arkuszy w rzędzie, oznaczone liczbami od 01 do 25, poczynając od górnego lewego arkusza, rzędami z lewej do prawej;
+3)
+arkusza mapy w skali 1:2000 na 4 arkusze mapy w skali 1:1000, po 2 arkusze w rzędzie, oznaczone liczbami 1, 2, 3 i 4, poczynając od górnego lewego arkusza, rzędami z lewej do prawej;
+4)
+arkusza mapy w skali 1:1000 na 4 arkusze mapy w skali 1:500, po 2 arkusze w rzędzie, oznaczone liczbami 1, 2, 3 i 4, poczynając od górnego lewego arkusza, rzędami z lewej do prawej.
+§ 20.
+Podział i oznaczenia arkuszy map w układach współrzędnych: PL-LCC, PL-1992, PL-UTM oraz PL-2000 określa załącznik nr 5 do rozporządzenia.
+Rozdział 4 Przepisy przejściowe i końcowe
+§ 21.
+Tworzenie, aktualizacja i udostępnianie parametrów technicznych państwowego systemu odniesień przestrzennych są realizowane zgodnie ze schematem aplikacyjnym GML, określonym w załączniku nr 6 do rozporządzenia oraz umieszczonym na ePUAP.
+§ 22.
+Faktyczne granice pasów południkowych w układzie współrzędnych PL-2000 wyznacza się wzdłuż granic jednostek administracyjnych szczebla powiatowego, przy czym w przypadku jednostek administracyjnych przecinanych na dwie części przez południki graniczne pasów południkowych: 16,5ºE, 19,5ºE lub 22,5ºE o przynależności obszaru powiatu do określonego pasa południkowego przesądza część o większej powierzchni.
+§ 23.
+Dane określające wartości modelu:
+1)
+różnic współrzędnych pomiędzy układami odniesienia PL-ETRF2000 a PL-ETRF89,
+2)
+różnic wysokości pomiędzy układami wysokościowymi PL-EVRF2007-NH a PL-KRON86-NH,
+3)
+obowiązującej quasi-geoidy
+publikuje się w Biuletynie Informacji Publicznej Głównego Urzędu Geodezji i Kartografii, nie później niż w dniu 1 stycznia 2014 r.
+§ 24.
+1.
+Układ wysokościowy PL-KRON86-NH stosuje się do czasu wdrożenia układu wysokościowego PL-EVRF2007-NH na obszarze całego kraju, nie dłużej jednak niż do dnia 31 grudnia 2023 r.
+2.
+Parametry techniczne geodezyjnych układów odniesienia, układów wysokościowych i układów współrzędnych płaskich prostokątnych obowiązujących na mocy dotychczasowych przepisów, w przypadku wycofania tych układów, archiwizuje się w sposób zapewniający w razie potrzeby wykonanie przeliczeń lub transformacji współrzędnych i wysokości określonych w tych układach do układów tworzących państwowy system odniesień przestrzennych, o których mowa w § 3 ust. 1.
+§ 25.
+Traci moc rozporządzenie Rady Ministrów z dnia 8 sierpnia 2000 r. w sprawie państwowego systemu odniesień przestrzennych (Dz. U. poz. 821).
+§ 26.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+1) Uchylony przez art. 1 pkt 2 lit. b ustawy z dnia 16 kwietnia 2020 r. o zmianie ustawy – Prawo geodezyjne i kartograficzne oraz niektórych innych ustaw (Dz. U. poz. 782), która weszła w życie z dniem 31 lipca 2020 r. 2) W brzmieniu ustalonym przez § 1 rozporządzenia Rady Ministrów z dnia 19 grudnia 2019 r. zmieniającego rozporządzenie w sprawie państwowego systemu odniesień przestrzennych (Dz. U. poz. 2494), które weszło w życie z dniem 31 grudnia 2019 r. 3) Rozporządzenie zostało ogłoszone w dniu 14 listopada 2012 r.
+
+## Załącznik nr 1 — – Parametry techniczne geodezyjnych układów odniesienia, układów wysokościowych i układów współrzędnych
+
+patrz oryginał
+
+## Załącznik nr 2 — – Specyfikacja modelu pojęciowego państwowego systemu odniesień przestrzennych
+
+patrz oryginał
+
+## Załącznik nr 3 — – Katalog obiektów i atrybutów państwowego systemu odniesień przestrzennych
+
+patrz oryginał
+
+## Załącznik nr 4 — – Rozdzielczość siatki kilometrowej w zależności od skali mapy
+
+patrz oryginał
+
+## Załącznik nr 5 — – Podział i oznaczenia arkuszy map w układach współrzędnych: PL-LCC, PL-1992, PL-UTM oraz PL-2000
+
+patrz oryginał
+
+## Załącznik nr 6 — – Schemat aplikacyjny GML państwowego systemu odniesień przestrzennych
+
+patrz oryginał
 

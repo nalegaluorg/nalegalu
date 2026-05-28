@@ -8,12 +8,10 @@ pos: 748
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o systemie powiadamiania ratunkowego
-
-*USTAWA z dnia 22 listopada 2013 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 10 marca 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o systemie powiadamiania ratunkowego
 
 | Pole | Wartość |
 |---|---|
@@ -27,15 +25,46 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-07-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000748) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/748/text.pdf) |
 
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego (Dz. U. z 2022 r. poz. 2175), z uwzględnieniem zmian wprowadzonych:
+1)
+ustawą z dnia 1 grudnia 2022 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2023 (Dz. U. poz. 2666),
+2)
+ustawą z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705)
+oraz zmian wynikających z przepisów ogłoszonych przed dniem 7 marca 2023 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+1)
+art. 57 ustawy z dnia 1 grudnia 2022 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2023 (Dz. U. poz. 2666), który stanowi:
+„
+
+**Art. 57.** Ustawa wchodzi w życie z dniem 1 stycznia 2023 r. ” ;
+
+- **2)** art. 234 ustawy z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705), który stanowi: „
+
+**Art. 234.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem art. 217 oraz art. 227–232, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego
+
 **Art. 1.** Ustawa określa zadania i zasady działania w ramach systemu powiadamiania ratunkowego, zasady jego finansowania oraz organy właściwe w sprawach powiadamiania ratunkowego.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** zgłoszeniu alarmowym – należy przez to rozumieć informację o wystąpieniu lub podejrzeniu wystąpienia nagłego zagrożenia życia lub zdrowia, w tym aktu przemocy, a także nagłego zagrożenia środowiska lub mienia oraz zagrożeń bezpieczeństwa i porządku publicznego, kierowaną do numerów obsługiwanych w ramach systemu powiadamiania ratunkowego, przez dostawcę publicznie dostępnych usług telefonicznych, z zewnętrznych systemów monitoringu albo z wykorzystaniem środków komunikacji, które umożliwiają niezwłoczne przekazanie tej informacji do centrum powiadamiania ratunkowego;
+- **2)** obsłudze zgłoszeń alarmowych – należy przez to rozumieć zespół czynności mających na celu odbiór zgłoszenia alarmowego, zakwalifikowanie tego zgłoszenia, przekazanie go drogą elektroniczną z wykorzystaniem systemu teleinformatycznego do właściwego merytorycznie ze względu na rodzaj zgłoszenia podmiotu ratowniczego, a w przypadku gdy zachodzi taka potrzeba – przekierowanie połączenia telefonicznego do podmiotu ratowniczego lub podmiotu pomocniczego, a także monitorowanie statusu tego zgłoszenia w systemie teleinformatycznym;
+- **3)** zasobach ratowniczych – należy przez to rozumieć siły i środki, w tym ludzi, infrastrukturę, materiały i środki finansowe oraz bazy danych i systemy wymiany informacji, które mogą być zadysponowane w związku ze zgłoszeniem alarmowym;
+- **4)** systemie teleinformatycznym – należy przez to rozumieć zespół współpracujących ze sobą urządzeń informatycznych i oprogramowania zapewniający przetwarzanie, przechowywanie, a także wysyłanie i odbieranie danych przez sieci telekomunikacyjne za pomocą właściwego dla danego rodzaju sieci telekomunikacyjnego urządzenia końcowego w rozumieniu art. 2 pkt 43 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2022 r. poz. 1648, 1933 i 2581), wykorzystywany do wykonywania zadań centrum powiadamiania ratunkowego;
+- **5)** sieci teleinformatycznej na potrzeby obsługi numerów alarmowych – należy przez to rozumieć sieć teleinformatyczną łączącą centra powiadamiania ratunkowego, Krajowe Centrum Monitorowania Systemu Powiadamiania Ratunkowego, jednostki organizacyjne Policji, Państwowej Straży Pożarnej i urzędu obsługującego ministra właściwego do spraw zdrowia, dyspozytornie medyczne oraz dysponentów zespołów ratownictwa medycznego, służącą do wymiany danych dotyczących zgłoszenia alarmowego przez interfejs komunikacyjny systemów teleinformatycznych i umożliwiającą dostęp do danych przestrzennych, informacji dotyczących lokalizacji zakończenia sieci, z którego zostało wykonane połączenie na numer alarmowy, oraz danych dotyczących abonenta;
+- **6)** podmiocie ratowniczym – należy przez to rozumieć jednostkę organizacyjną Policji i Państwowej Straży Pożarnej, dyspozytornię medyczną oraz podmiot, do którego zadań należy ochrona życia, zdrowia, bezpieczeństwa i porządku publicznego, mienia lub środowiska, zarejestrowany w systemie teleinformatycznym, którego numer telefoniczny jest obsługiwany w ramach systemu powiadamiania ratunkowego;
+- **7)** podmiocie pomocniczym – należy przez to rozumieć podmiot, do którego zadań należy ochrona życia, zdrowia, bezpieczeństwa i porządku publicznego, mienia lub środowiska, zarejestrowany w systemie teleinformatycznym, którego numer telefoniczny nie jest obsługiwany w ramach systemu powiadamiania ratunkowego;
+- **8)** aplikacji mobilnej – należy przez to rozumieć aplikację będącą częścią systemu teleinformatycznego umożliwiającą wysyłanie zgłoszeń alarmowych za pośrednictwem krótkich wiadomości tekstowych (sms) do centrum powiadamiania ratunkowego.
 
 **Art. 3.**
 
 1. Tworzy się system powiadamiania ratunkowego, zwany dalej „systemem”.
 
-2. System składa się z centrów powiadamiania ratunkowego, zwanych dalej „centrami”, tworzących jednolity system do obsługi zgłoszeń alarmowych, kierowanych do numerów alarmowych 112, 997 i 998, umożliwiający przekazanie zgłoszenia alarmowego w celu zaangażowania właściwych zasobów ratowniczych.
+2. System składa się z centrów powiadamiania ratunkowego, zwanych dalej „centrami”, tworzących jednolity system do obsługi zgłoszeń alarmowych, kierowanych do numerów alarmowych 112, 997, 998 i 999, umożliwiający przekazanie zgłoszenia alarmowego w celu zaangażowania właściwych zasobów ratowniczych.
 
 3. W ramach systemu mogą być obsługiwane numery 991, 992, 993, 994 i 987 oraz inne niż wymienione w ust. 2 numery alarmowe podmiotów, do których zadań należy ochrona życia, zdrowia, bezpieczeństwa i porządku publicznego, mienia lub środowiska.
 
@@ -61,7 +90,7 @@ source: "isap-pdf"
 
 **Art. 5.**
 
-1. Podmioty, których numery telefoniczne mogą być obsługiwane w ramach systemu na podstawie art. 3 ust. 3, uzgadniają z dostawcami publicznie dostępnych usług komunikacji interpersonalnej wykorzystujących numery z planu numeracji krajowej lub międzynarodowych planów numeracji i umożliwiających nawiązywanie połączeń z numerami z tych planów warunki techniczne obsługi użytkowanego numeru telefonicznego oraz własnego stanowiska kierowania, które umożliwią współpracę z systemem.
+1. Podmioty, których numery telefoniczne mogą być obsługiwane w ramach systemu na podstawie art. 3 ust. 3, uzgadniają z dostawcami publicznie dostępnych usług telefonicznych warunki techniczne obsługi użytkowanego numeru telefonicznego oraz własnego stanowiska kierowania, które umożliwią współpracę z systemem.
 
 2. Po uzgodnieniu podmioty, o których mowa w ust. 1, składają wnioski do ministra właściwego do spraw administracji publicznej o włączenie swoich numerów telefonicznych do systemu.
 
@@ -73,7 +102,7 @@ source: "isap-pdf"
 - **4)** określenie szacunkowej liczby zgłoszeń w skali roku;
 - **5)** charakterystykę rodzaju zgłoszeń alarmowych;
 - **6)** charakterystykę systemu teleinformatycznego wnioskodawcy;
-- **7)** wynik uzgodnień z dostawcą publicznie dostępnych usług komunikacji interpersonalnej wykorzystujących numery z planu numeracji krajowej lub międzynarodowych planów numeracji i umożliwiających nawiązywanie połączeń z numerami z tych planów;
+- **7)** wynik uzgodnień z dostawcą publicznie dostępnych usług telefonicznych;
 - **8)** wskazanie oczekiwanego terminu włączenia numeru;
 - **9)** dane kontaktowe osób odpowiedzialnych za współpracę.
 
@@ -81,14 +110,14 @@ source: "isap-pdf"
 
 5. Podmioty, o których mowa w ust. 1, pokrywają koszty:
 
-- **1)** włączenia swojego numeru telefonicznego do systemu i jego wyłączenia z tego systemu, w tym:
-    - **a)** budowy interfejsu komunikacyjnego, umożliwiającego współpracę własnego systemu teleinformatycznego z systemem teleinformatycznym,
-    - **b)** rozbudowy systemu teleinformatycznego proporcjonalnie do wzrostu liczby zgłoszeń alarmowych kierowanych do numeru podmiotu;
+- **1)** włączenia swojego numeru telefonicznego do systemu i jego wyłączenia z tego systemu, w tym: budowy interfejsu komunikacyjnego, umożliwiającego współpracę własnego systemu teleinformatycznego z systemem teleinformatycznym, rozbudowy systemu teleinformatycznego proporcjonalnie do wzrostu liczby zgłoszeń alarmowych kierowanych do numeru podmiotu;
+    - **a)**
+    - **b)**
 
-- **2)** utrzymania systemu i obsługi swojego numeru telefonicznego, proporcjonalnie do liczby zgłoszeń kierowanych do tego numeru, w tym:
-    - **a)** zatrudnienia operatorów numerów alarmowych oraz obsługi technicznej,
-    - **b)** utrzymania systemu teleinformatycznego,
-    - **c)** połączenia centrów z publiczną siecią telekomunikacyjną.
+- **2)** utrzymania systemu i obsługi swojego numeru telefonicznego, proporcjonalnie do liczby zgłoszeń kierowanych do tego numeru, w tym: zatrudnienia operatorów numerów alarmowych oraz obsługi technicznej, utrzymania systemu teleinformatycznego, połączenia centrów z publiczną siecią telekomunikacyjną.
+    - **a)**
+    - **b)**
+    - **c)**
 
 6. Minister właściwy do spraw administracji publicznej określi, w drodze rozporządzenia:
 
@@ -96,7 +125,7 @@ source: "isap-pdf"
 - **2)** sposób rozliczania kosztów utrzymania systemu i obsługi danego numeru telefonicznego,
 - **3)** warunki techniczne obsługi numerów telefonicznych w systemie,
 - **4)** tryb i warunki współpracy oraz warunki wymiany informacji między centrami i podmiotami, których numery telefoniczne mogą być obsługiwane w ramach systemu na podstawie art. 3 ust. 3, w tym zakres wymienianych informacji,
-- **5)** wzory wniosków, o których mowa w ust. 2 i 4 – kierując się potrzebą zapewnienia jednolitego sposobu obsługi numerów telefonicznych w ramach systemu.
+- **5)** wzory wniosków, o których mowa w ust. 2 i 4 kierując się potrzebą zapewnienia jednolitego sposobu obsługi numerów telefonicznych w ramach systemu.
 
 **Art. 6.**
 
@@ -122,12 +151,12 @@ source: "isap-pdf"
 
 1. Do zadań centrum należy:
 
-- **1)** obsługa zgłoszeń alarmowych, z wyłączeniem systemów sygnalizacji pożarowej, o których mowa w ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2022 r. poz. 2057), w tym:
-    - **a)** odbiór zgłoszenia alarmowego,
-    - **b)** powiązanie zgłoszenia alarmowego z danymi teleadresowymi miejsca zgłoszenia oraz jego pozycją geograficzną, ustalonymi na podstawie danych pochodzących z sieci telekomunikacyjnych oraz informacji z telekomunikacyjnego urządzenia końcowego, jeżeli zapewnia ono taką możliwość,
-    - **c)** wybór odpowiedniej grupy podmiotów, do której zostaną skierowane zgromadzone dane o zgłoszeniu alarmowym,
-    - **d)** przekazanie, gdy zachodzi taka potrzeba, zgromadzonych danych drogą elektroniczną z wykorzystaniem systemu teleinformatycznego, a w uzasadnionych przypadkach – wraz z przekierowaniem połączenia głosowego zgodnie z kwalifikacją zgłoszenia do podmiotów ratowniczych,
-    - **e)** wymiana danych o zgłoszeniach alarmowych przetwarzanych w systemie teleinformatycznym, zgodnie z zakresem określonym w przepisach wydanych na podstawie art. 5 ust. 6 oraz art. 13 ust. 3, z podmiotami ratowniczymi lub podmiotami pomocniczymi;
+- **1)** obsługa zgłoszeń alarmowych, z wyłączeniem systemów sygnalizacji pożarowej, o których mowa w ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2022 r. poz. 2057), w tym: odbiór zgłoszenia alarmowego, powiązanie zgłoszenia alarmowego z danymi teleadresowymi miejsca zgłoszenia oraz jego pozycją geograficzną, wybór odpowiedniej grupy podmiotów, do której zostaną skierowane zgromadzone dane o zgłoszeniu alarmowym, przekazanie, gdy zachodzi taka potrzeba, zgromadzonych danych drogą elektroniczną z wykorzystaniem systemu teleinformatycznego, a w uzasadnionych przypadkach – wraz z przekierowaniem połączenia telefonicznego zgodnie z kwalifikacją zgłoszenia do podmiotów ratowniczych, wymiana danych o zgłoszeniach alarmowych przetwarzanych w systemie teleinformatycznym, zgodnie z zakresem określonym w przepisach wydanych na podstawie art. 5 ust. 6 oraz art. 13 ust. 3, z podmiotami ratowniczymi lub podmiotami pomocniczymi;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 - **2)** wprowadzanie do systemu teleinformatycznego i ewidencjonowanie w tym systemie danych dotyczących treści zgłoszeń alarmowych, w tym nagrań rozmów telefonicznych obejmujących całość zgłoszenia alarmowego, danych osób zgłaszających i innych osób wskazanych w trakcie przyjmowania zgłoszenia, pozycji geograficznych, informacji o miejscu zdarzenia i jego rodzaju oraz skróconego opisu zdarzenia;
 - **3)** wykonywanie analiz związanych z funkcjonowaniem systemu na obszarze obsługiwanym przez centrum oraz tworzenie statystyk w zakresie liczby, rodzaju oraz czasów realizacji zgłoszeń alarmowych;
@@ -135,8 +164,6 @@ source: "isap-pdf"
 - **5)** wymiana informacji i danych, z wyłączeniem danych osobowych i nagrań rozmów telefonicznych, z podmiotami ratowniczymi, na potrzeby analiz.
 
 2. W przypadku braku możliwości przekazania zgłoszenia alarmowego w ramach systemu i gdy jest to uzasadnione charakterem tego zgłoszenia, centrum podejmuje działania mające na celu przekazanie informacji o tym zgłoszeniu do podmiotów, do których zadań należy ochrona życia, zdrowia, bezpieczeństwa i porządku publicznego, mienia lub środowiska, których numery telefoniczne nie są obsługiwane w ramach systemu.
-
-**Art. 8a.**
 
 1. Obsługę zgłoszeń alarmowych wykonują operatorzy numerów alarmowych, starsi operatorzy numerów alarmowych, koordynatorzy oraz koordynatorzy-trenerzy.
 
@@ -146,11 +173,15 @@ source: "isap-pdf"
 
 **Art. 9.** Minister właściwy do spraw administracji publicznej określi, w drodze rozporządzenia:
 
+- **1)** organizację centrum oraz oddziałów centrum, o których mowa w art. 6 ust. 3,
+- **2)** sposób funkcjonowania centrum i sposób realizacji jego zadań przez operatorów numerów alarmowych, starszych operatorów numerów alarmowych, koordynatorów oraz koordynatorów-trenerów,
+- **3)** procedury obsługi zgłoszeń alarmowych oraz sposób ich opracowywania i aktualizacji,
+- **4)** procedury obsługi zgłoszeń alarmowych w przypadku, o którym mowa w art. 8 ust. 2, oraz sposób ich opracowywania i aktualizacji,
+- **5)** maksymalną liczbę operatorów numerów alarmowych, starszych operatorów numerów alarmowych, koordynatorów i koordynatorów-trenerów oraz sposób jej podziału na poszczególne centra uwzględniając konieczność ujednolicenia struktury organizacyjnej i realizacji zadań przez centrum oraz jego oddziały, zapewnienia właściwego funkcjonowania centrum i jego oddziałów i sprawnej obsługi zgłoszeń alarmowych oraz unifikacji procedur ich obsługi.
+
 **Art. 10.**
 
 1. Wykonywanie zadań centrum jest wspomagane przez system teleinformatyczny.
-
-1a. System teleinformatyczny, o którym mowa w ust. 1, spełnia wymagania dostępności określone w art. 13 ustawy z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (Dz. U. poz. 731).
 
 2. Dane, o których mowa w art. 8 ust. 1 pkt 2, są przechowywane w systemie teleinformatycznym przez 3 lata.
 
@@ -193,15 +224,13 @@ source: "isap-pdf"
 
 11. Minister właściwy do spraw administracji publicznej usuwa dane dotyczące treści zgłoszeń alarmowych przetwarzane w systemie teleinformatycznym po upływie terminu, o którym mowa w ust. 2.
 
-12. Minister właściwy do spraw administracji publicznej, wojewoda lub podmiot, o którym mowa w art. 7 ust. 2, przetwarza dane w systemie teleinformatycznym uzyskane w związku z wykonywaniem zadań centrum, o których mowa w art. 8, w tym dane, o których mowa w art. 9 ust. 1 i art. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2016/679”, podane przez zgłaszającego.
+12. Minister właściwy do spraw administracji publicznej, wojewoda lub podmiot, o którym mowa w art. 7 ust. 2, przetwarza dane w systemie teleinformatycznym uzyskane w związku z wykonywaniem zadań centrum, o których mowa w art. 8, w tym dane, o których mowa w art. 9 ust. 1 i art. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2016/679”, podane przez zgłaszającego.
 
 13. W związku z przetwarzaniem danych osobowych w systemie teleinformatycznym wykonanie obowiązku, o którym mowa w art. 13 ust. 1 i 2 rozporządzenia 2016/679, następuje przez udostępnienie informacji w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw administracji publicznej, wojewody lub podmiotu, o którym mowa w art. 7 ust. 2, na ich stronach internetowych oraz w widocznym miejscu w ich siedzibie.
 
 14. Wojewoda lub podmiot, o którym mowa w art. 7 ust. 2, udostępnia dane przetwarzane w systemie teleinformatycznym, o których mowa w art. 8 ust. 1 pkt 2, na wniosek sądu, prokuratury lub Policji.
 
-15. Osoba występująca z żądaniem na podstawie art. 15 rozporządzenia 2016/679 jest obowiązana do podania informacji o okolicznościach zdarzenia, którego to żądanie dotyczy, w tym daty i miejsca zdarzenia oraz numeru telefonu, z którego zostało wykonane połączenie dotyczące powiadomienia o zdarzeniu.
-
-**Art. 10a.** (uchylony)
+15. Osoba występująca z żądaniem na podstawie art. 15 rozporządzenia 2016/679 jest obowiązana do podania informacji o okolicznościach zdarzenia, którego to żądanie dotyczy, w tym daty i miejsca zdarzenia oraz numeru telefonu, z którego zostało wykonane połączenie dotyczące powiadomienia o zdarzeniu. (uchylony)
 
 **Art. 11.** (uchylony)
 
@@ -214,34 +243,28 @@ source: "isap-pdf"
 2. Połączenie i wymiana danych między systemami, o których mowa w ust. 1, są realizowane przez interfejs komunikacyjny, który zapewnia wzajemne przekazywanie:
 
 - **1)** zgromadzonych danych dotyczących treści zgłoszenia alarmowego, w tym danych osoby zgłaszającej i innych osób, których dotyczy zgłoszenie, oraz nagrań rozmów telefonicznych;
-- **2)** połączeń głosowych związanych z obsługą zgłoszeń alarmowych;
-- **3)** informacji o statusach zgłoszeń alarmowych, w tym potwierdzenia:
-    - **a)** przyjęcia zgłoszenia alarmowego przez systemy teleinformatyczne podmiotów ratowniczych,
-    - **b)** przyjęcia zgłoszenia alarmowego przez dyspozytora,
-    - **c)** zadysponowania zasobów ratowniczych,
-    - **d)** zakończenia działań ratowniczych.
+- **2)** połączeń telefonicznych związanych z obsługą zgłoszeń alarmowych;
+- **3)** informacji o statusach zgłoszeń alarmowych, w tym potwierdzenia: przyjęcia zgłoszenia alarmowego przez systemy teleinformatyczne podmiotów ratowniczych, przyjęcia zgłoszenia alarmowego przez dyspozytora, zadysponowania zasobów ratowniczych, zakończenia działań ratowniczych.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 3. Minister właściwy do spraw administracji publicznej w porozumieniu z ministrem właściwym do spraw wewnętrznych oraz ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia:
 
 - **1)** wymagania funkcjonalne dla systemu teleinformatycznego,
 - **2)** wymagania funkcjonalne dla interfejsu komunikacyjnego,
-- **3)** zakres informacji przekazywanych za pośrednictwem interfejsu komunikacyjnego – mając na uwadze potrzebę sprawnego przekazania zgłoszenia alarmowego między systemem teleinformatycznym a podmiotami ratowniczymi.
-
-**Art. 13a.**
-
-1. System teleinformatyczny łączy się i wymienia dane z systemami teleinformatycznymi innych podmiotów niż wymienione w art. 13 ust. 1 przez sieć teleinformatyczną na potrzeby obsługi numerów alarmowych, za pośrednictwem centralnego punktu systemu powiadamiania ratunkowego. Centralny punkt systemu powiadamiania ratunkowego może być wykorzystywany również przez System Wspomagania Dowodzenia Policji, System Wspomagania Decyzji Państwowej Straży Pożarnej oraz System Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego.
-
-2. Minister właściwy do spraw administracji publicznej określi, w drodze rozporządzenia, organizację, funkcjonowanie oraz wymagania techniczne dla centralnego punktu systemu powiadamiania ratunkowego, o którym mowa w ust. 1, mając na uwadze zapewnienie sprawnej dystrybucji informacji i danych centrom powiadamiania ratunkowego oraz jednostkom Policji, Państwowej Straży Pożarnej i dyspozytorniom medycznym.
+- **3)** zakres informacji przekazywanych za pośrednictwem interfejsu komunikacyjnego mając na uwadze potrzebę sprawnego przekazania zgłoszenia alarmowego między systemem teleinformatycznym a podmiotami ratowniczymi.
 
 **Art. 14.**
 
-1. Centrum uzyskuje nieodpłatnie, za pośrednictwem centralnego punktu systemu powiadamiania ratunkowego, o którym mowa w art. 337 ust. 4 pkt 1 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, informacje dotyczące lokalizacji zakończenia sieci, z którego zostało wykonane połączenie do numeru alarmowego 112 albo innego numeru alarmowego, oraz dane dotyczące abonenta, o których mowa w art. 337 ust. 2 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej.
+1. Centrum uzyskuje nieodpłatnie, za pośrednictwem centralnego punktu systemu powiadamiania ratunkowego, o którym mowa w art. 78 ust. 4 pkt 1 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, informacje dotyczące lokalizacji zakończenia sieci, z którego zostało wykonane połączenie do numeru alarmowego 112 albo innego numeru alarmowego, oraz dane dotyczące abonenta, o których mowa w art. 78 ust. 2 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne.
 
 2. Centrum uzyskuje nieodpłatnie dostęp do danych przestrzennych i związanych z nimi usług, udostępnianych za pośrednictwem systemu, o którym mowa w art. 40 ust. 3e ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2021 r. poz. 1990 oraz z 2022 r. poz. 1846 i 2185).
 
 **Art. 15.**
 
-1. Centra są połączone z publiczną siecią telekomunikacyjną w rozumieniu art. 2 pkt 42 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej.
+1. Centra są połączone z publiczną siecią telekomunikacyjną w rozumieniu art. 2 pkt 29 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne.
 
 2. Minister właściwy do spraw administracji publicznej wybiera przedsiębiorcę telekomunikacyjnego, który zapewnia połączenie centrów z publiczną siecią telekomunikacyjną, w tym w szczególności:
 
@@ -280,8 +303,6 @@ source: "isap-pdf"
 
 - **1)** spełnia warunki określone w ust. 1, w ust. 2 pkt 3 oraz w ust. 3 pkt 2 i 3;
 - **2)** uzyskała wynik co najmniej 90% z każdej z 2 rocznych ocen pracy sporządzonych przez kierownika centrum lub jego zastępcę.
-
-**Art. 16a.**
 
 1. Osoba zatrudniona na stanowisku operatora numerów alarmowych przed rozpoczęciem realizacji zadań związanych z obsługą zgłoszeń alarmowych odbywa szkolenie podstawowe zakończone egzaminem.
 
@@ -324,8 +345,6 @@ source: "isap-pdf"
 
 17. W przypadku niewykonywania zadań obsługi zgłoszeń alarmowych na stanowisku operatora numerów alarmowych, starszego operatora numerów alarmowych, koordynatora lub koordynatora-trenera przez 2 lata ponowne podjęcie tych zadań jest poprzedzone szkoleniem podstawowym dla operatorów numerów alarmowych oraz zdaniem egzaminu.
 
-**Art. 16b.**
-
 1. Operator numerów alarmowych, starszy operator numerów alarmowych, koordynator, koordynator-trener, zastępca kierownika centrum i kierownik centrum są obowiązani do stałego podnoszenia poziomu wiedzy i umiejętności przez uczestnictwo w doskonaleniu zawodowym.
 
 2. Operator numerów alarmowych, starszy operator numerów alarmowych, koordynator i koordynator-trener odbywają 4 obowiązkowe szkolenia w ramach doskonalenia zawodowego w okresie 2 lat. Ukończenie każdego z nich potwierdza zaświadczenie.
@@ -335,8 +354,9 @@ source: "isap-pdf"
 4. Wykładowcą lub instruktorem może być:
 
 - **1)** osoba, która posiada co najmniej trzyletnie doświadczenie zawodowe w zakresie obsługi zgłoszeń alarmowych, albo
+- **2)** lekarz systemu w rozumieniu art. 3 pkt 3 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2022 r. poz. 1720, 1733, 2705 i 2770), pielęgniarka systemu w rozumieniu art. 3 pkt 6 tej ustawy albo ratownik medyczny w rozumieniu art. 10 ust. 1 tej ustawy, którzy posiadają co najmniej dwuletnie doświadczenie zawodowe w zakresie wykonywania medycznych czynności ratunkowych w rozumieniu tej ustawy, albo
 - **2)** lekarz systemu w rozumieniu art. 3 pkt 3 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2022 r. poz. 1720, 1733, 2705 i 2770), pielęgniarka systemu w rozumieniu art. 3 pkt 6 tej ustawy albo ratownik medyczny, który spełnia wymagania określone w ustawie z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705), którzy posiadają co najmniej dwuletnie doświadczenie zawodowe w zakresie wykonywania medycznych czynności ratunkowych w rozumieniu art. 3 pkt 4 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, albo
-- **3)** psycholog, który posiada co najmniej dwuletnie doświadczenie zawodowe w zakresie związanym z interwencjami kryzysowymi w rozumieniu art. 47 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2021 r. poz. 2268, z późn. zm. ) lub co najmniej dwuletnie doświadczenie w zakresie związanym z interwencjami kryzysowymi świadczonymi w innych instytucjach, w tym Policji, Państwowej Straży Pożarnej, systemie Państwowego Ratownictwa Medycznego oraz innych podmiotach, które zatrudniają psychologów w celu świadczenia zadań z zakresu interwencji kryzysowej.
+- **3)** psycholog, który posiada co najmniej dwuletnie doświadczenie zawodowe w zakresie związanym z interwencjami kryzysowymi w rozumieniu art. 47 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2021 r. poz. 2268, z późn. zm.) lub co najmniej dwuletnie doświadczenie w zakresie związanym z interwencjami kryzysowymi świadczonymi w innych instytucjach, w tym Policji, Państwowej Straży Pożarnej, systemie Państwowego Ratownictwa Medycznego oraz innych podmiotach, które zatrudniają psychologów w celu świadczenia zadań z zakresu interwencji kryzysowej.
 
 5. Minister właściwy do spraw administracji publicznej określi, w drodze rozporządzenia:
 
@@ -347,9 +367,7 @@ source: "isap-pdf"
 - **5)** wymagania dotyczące bazy dydaktycznej,
 - **6)** szczegółową formę i szczegółowy tryb przeprowadzania oraz sposób dokumentowania egzaminu, o którym mowa w art. 16a ust. 2,
 - **7)** wzór certyfikatu operatora numerów alarmowych,
-- **8)** wzór zaświadczenia o ukończeniu szkolenia w ramach doskonalenia zawodowego – uwzględniając konieczność zapewnienia jednakowego poziomu wiedzy i umiejętności zdobytych przez pracowników centrum podczas szkolenia oraz czytelności wzorów certyfikatu i zaświadczenia.
-
-**Art. 16c.**
+- **8)** wzór zaświadczenia o ukończeniu szkolenia w ramach doskonalenia zawodowego uwzględniając konieczność zapewnienia jednakowego poziomu wiedzy i umiejętności zdobytych przez pracowników centrum podczas szkolenia oraz czytelności wzorów certyfikatu i zaświadczenia.
 
 1. Nadzór nad prawidłową realizacją pracy operatorów numerów alarmowych, starszych operatorów numerów alarmowych, koordynatorów oraz koordynatorów-trenerów sprawuje kierownik centrum lub jego zastępca.
 
@@ -374,15 +392,28 @@ source: "isap-pdf"
 
 **Art. 17.** (uchylony)
 
-**Art. 18.** (uchylony)
+**Art. 18.** (uchylony) Do zadań KCMSPR należą:
 
-**Art. 18a.** Do zadań KCMSPR należą:
+- **1)** utrzymanie i rozwój systemu teleinformatycznego;
+- **2)** zachowanie ciągłości funkcjonowania systemu teleinformatycznego;
+- **3)** przygotowywanie i prowadzenie szkoleń podstawowych dla operatorów numerów alarmowych;
+- **4)** przygotowywanie i prowadzenie szkoleń w ramach doskonalenia zawodowego dla operatorów numerów alarmowych, starszych operatorów numerów alarmowych, koordynatorów oraz koordynatorów-trenerów;
+- **5)** przygotowywanie i prowadzenie szkoleń dla kierowników centrum;
+- **6)** opracowywanie szczegółowego programu szkoleń: podstawowych dla operatorów numerów alarmowych, w ramach doskonalenia zawodowego dla operatorów numerów alarmowych, starszych operatorów numerów alarmowych, koordynatorów oraz koordynatorów-trenerów;
+    - **a)**
+    - **b)**
+
+- **7)** prowadzenie platformy szkoleniowej (e-learning) dla pracowników centrum;
+- **8)** nadzór nad przestrzeganiem procedur obsługi zgłoszeń alarmowych, w szczególności przez sporządzanie kwartalnej karty oceny pracy centrum;
+- **9)** współpraca międzynarodowa w zakresie funkcjonowania systemu;
+- **10)** działania związane z upowszechnianiem wiedzy o numerach alarmowych;
+- **11)** wykonywanie innych czynności mających na celu zapewnienie jednolitych standardów obsługi zgłoszeń alarmowych.
 
 **Art. 19.**
 
 1. Z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw administracji publicznej, są finansowane:
 
-- **1)** utrzymanie, rozbudowa i modyfikacje systemu teleinformatycznego i centralnego punktu systemu powiadamiania ratunkowego, o którym mowa w art. 337 ust. 4 pkt 1 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej;
+- **1)** utrzymanie, rozbudowa i modyfikacje systemu teleinformatycznego i centralnego punktu systemu powiadamiania ratunkowego, o którym mowa w art. 78 ust. 4 pkt 1 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne;
 - **2)** połączenia centrów z publiczną siecią telekomunikacyjną;
 - **3)** szkolenia operatorów numerów alarmowych;
 - **4)** upowszechnianie wiedzy o numerach alarmowych;
@@ -398,19 +429,16 @@ source: "isap-pdf"
 
 **Art. 20.**
 
-1. Dostawca publicznie dostępnych usług komunikacji interpersonalnej wykorzystujących numery z planu numeracji krajowej lub międzynarodowych planów numeracji i umożliwiających nawiązywanie połączeń z numerami z tych planów zapewnia:
+1. Dostawca publicznie dostępnych usług telefonicznych zapewnia:
 
 - **1)** swoim użytkownikom końcowym, w tym korzystającym z aparatów publicznych, bezpłatne połączenia z numerami alarmowymi;
-- **2)** kierowanie: o Państwowym Ratownictwie Medycznym.
-    - **a)** połączeń głosowych do numerów alarmowych 112, 997 i 998 do właściwego terytorialnie centrum powiadamiania ratunkowego oraz połączeń głosowych do innych numerów alarmowych do właściwych terytorialnie jednostek służb ustawowo powołanych do niesienia pomocy oraz podmiotów uprawnionych do wykonywania ratownictwa na podstawie przepisów odrębnych,
-    - **b)** krótkich wiadomości tekstowych (sms) do numeru alarmowego 112 do centralnego punktu systemu powiadamiania ratunkowego;
-    - **c)** połączeń głosowych do numeru alarmowego 999 do właściwej terytorialnie dyspozytorni medycznej wskazanej w wojewódzkim planie działania systemu, o którym mowa w art. 21 ust. 1 ustawy z dnia 8 września 2006 r.
+- **2)** kierowanie: połączeń telefonicznych do numerów alarmowych 112, 997, 998 i 999 do właściwego terytorialnie centrum powiadamiania ratunkowego oraz połączeń telefonicznych do innych numerów alarmowych do właściwych terytorialnie jednostek służb ustawowo powołanych do niesienia pomocy, krótkich wiadomości tekstowych (sms) do numeru alarmowego 112 do właściwego terytorialnie centrum powiadamiania ratunkowego.
+    - **a)**
+    - **b)**
 
 2. Przepisu ust. 1 pkt 2 lit. b nie stosuje się do usług świadczonych w stacjonarnej publicznej sieci telekomunikacyjnej oraz usług świadczonych w roamingu międzynarodowym.
 
 3. Przepis ust. 1 pkt 2 lit. b stosuje się, o ile użytkownik końcowy na podstawie warunków obowiązującej umowy o świadczenie usług telekomunikacyjnych jest uprawniony do korzystania z usług w zakresie wysyłania krótkich wiadomości tekstowych (sms).
-
-**Art. 20a.**
 
 1. Minister właściwy do spraw administracji publicznej udostępnia aplikację mobilną.
 
@@ -420,19 +448,19 @@ source: "isap-pdf"
 
 **Art. 21.**
 
-1. Dostawca publicznie dostępnych usług komunikacji interpersonalnej wykorzystujących numery z planu numeracji krajowej lub międzynarodowych planów numeracji i umożliwiających nawiązywanie połączeń z numerami z tych planów, który nie wykonuje obowiązku zapewnienia bezpłatnych połączeń z numerami alarmowymi, o którym mowa w art. 20, podlega karze pieniężnej.
+1. Dostawca publicznie dostępnych usług telefonicznych, który nie wykonuje obowiązku zapewnienia bezpłatnych połączeń z numerami alarmowymi, o którym mowa w art. 20, podlega karze pieniężnej.
 
-2. Kara pieniężna, o której mowa w ust. 1, może zostać nałożona także w przypadku, gdy dostawca publicznie dostępnych usług komunikacji interpersonalnej wykorzystujących numery z planu numeracji krajowej lub międzynarodowych planów numeracji i umożliwiających nawiązywanie połączeń z numerami z tych planów zaprzestał naruszania prawa lub naprawił wyrządzoną szkodę, jeżeli Prezes Urzędu Komunikacji Elektronicznej uzna, że przemawiają za tym czas trwania, zakres lub skutki naruszenia.
+2. Kara pieniężna, o której mowa w ust. 1, może zostać nałożona także w przypadku, gdy dostawca publicznie dostępnych usług telefonicznych zaprzestał naruszania prawa lub naprawił wyrządzoną szkodę, jeżeli Prezes Urzędu Komunikacji Elektronicznej uzna, że przemawiają za tym czas trwania, zakres lub skutki naruszenia.
 
-3. Karę pieniężną, o której mowa w ust. 1, nakłada Prezes Urzędu Komunikacji Elektronicznej, w drodze decyzji, w wysokości do 3% przychodu ukaranego przedsiębiorcy telekomunikacyjnego, będącego dostawcą publicznie dostępnych usług komunikacji interpersonalnej wykorzystujących numery z planu numeracji krajowej lub międzynarodowych planów numeracji i umożliwiających nawiązywanie połączeń z numerami z tych planów, osiągniętego w poprzednim roku kalendarzowym. Decyzji o nałożeniu kary pieniężnej nie nadaje się rygoru natychmiastowej wykonalności.
+3. Karę pieniężną, o której mowa w ust. 1, nakłada Prezes Urzędu Komunikacji Elektronicznej, w drodze decyzji, w wysokości do 3% przychodu ukaranego przedsiębiorcy telekomunikacyjnego, będącego dostawcą publicznie dostępnych usług telefonicznych, osiągniętego w poprzednim roku kalendarzowym. Decyzji o nałożeniu kary pieniężnej nie nadaje się rygoru natychmiastowej wykonalności.
 
-4. Niezależnie od kary pieniężnej, o której mowa w ust. 1, Prezes Urzędu Komunikacji Elektronicznej może nałożyć, w drodze decyzji, na kierującego przedsiębiorstwem telekomunikacyjnym, będącego dostawcą publicznie dostępnych usług komunikacji interpersonalnej wykorzystujących numery z planu numeracji krajowej lub międzynarodowych planów numeracji i umożliwiających nawiązywanie połączeń z numerami z tych planów, w szczególności osobę pełniącą funkcję kierowniczą lub wchodzącą w skład organu zarządzającego przedsiębiorcy telekomunikacyjnego lub związku takich przedsiębiorców, karę pieniężną w wysokości do 300% jego miesięcznego wynagrodzenia, naliczanego jak dla celów ekwiwalentu za urlop wypoczynkowy. Decyzji o nałożeniu kary pieniężnej nie nadaje się rygoru natychmiastowej wykonalności.
+4. Niezależnie od kary pieniężnej, o której mowa w ust. 1, Prezes Urzędu Komunikacji Elektronicznej może nałożyć, w drodze decyzji, na kierującego przedsiębiorstwem telekomunikacyjnym, będącego dostawcą publicznie dostępnych usług telefonicznych, w szczególności osobę pełniącą funkcję kierowniczą lub wchodzącą w skład organu zarządzającego przedsiębiorcy telekomunikacyjnego lub związku takich przedsiębiorców, karę pieniężną w wysokości do 300% jego miesięcznego wynagrodzenia, naliczanego jak dla celów ekwiwalentu za urlop wypoczynkowy. Decyzji o nałożeniu kary pieniężnej nie nadaje się rygoru natychmiastowej wykonalności.
 
-5. Ustalając wysokość kary pieniężnej, Prezes Urzędu Komunikacji Elektronicznej uwzględnia zakres naruszenia oraz możliwości finansowe podmiotu, a w przypadku kary pieniężnej nakładanej na przedsiębiorcę telekomunikacyjnego, będącego dostawcą publicznie dostępnych usług komunikacji interpersonalnej wykorzystujących numery z planu numeracji krajowej lub międzynarodowych planów numeracji i umożliwiających nawiązywanie połączeń z numerami z tych planów, także dotychczasową działalność tego przedsiębiorcy.
+5. Ustalając wysokość kary pieniężnej, Prezes Urzędu Komunikacji Elektronicznej uwzględnia zakres naruszenia oraz możliwości finansowe podmiotu, a w przypadku kary pieniężnej nakładanej na przedsiębiorcę telekomunikacyjnego, będącego dostawcą publicznie dostępnych usług telefonicznych, także dotychczasową działalność tego przedsiębiorcy.
 
-6. Przedsiębiorca telekomunikacyjny, będący dostawcą publicznie dostępnych usług komunikacji interpersonalnej wykorzystujących numery z planu numeracji krajowej lub międzynarodowych planów numeracji i umożliwiających nawiązywanie połączeń z numerami z tych planów, dostarcza Prezesowi Urzędu Komunikacji Elektronicznej, na każde jego żądanie, w terminie 30 dni od dnia otrzymania żądania, dane niezbędne do określenia podstawy wymiaru kary pieniężnej. W przypadku niedostarczenia danych lub gdy dostarczone dane uniemożliwiają ustalenie podstawy wymiaru kary pieniężnej, Prezes Urzędu Komunikacji Elektronicznej może ustalić podstawę wymiaru tej kary w sposób szacunkowy, nie mniejszą jednak niż kwota 500 000 zł.
+6. Przedsiębiorca telekomunikacyjny, będący dostawcą publicznie dostępnych usług telefonicznych, dostarcza Prezesowi Urzędu Komunikacji Elektronicznej, na każde jego żądanie, w terminie 30 dni od dnia otrzymania żądania, dane niezbędne do określenia podstawy wymiaru kary pieniężnej. W przypadku niedostarczenia danych lub gdy dostarczone dane uniemożliwiają ustalenie podstawy wymiaru kary pieniężnej, Prezes Urzędu Komunikacji Elektronicznej może ustalić podstawę wymiaru tej kary w sposób szacunkowy, nie mniejszą jednak niż kwota 500 000 zł.
 
-7. Jeżeli okres działania przedsiębiorcy telekomunikacyjnego, będącego dostawcą publicznie dostępnych usług komunikacji interpersonalnej wykorzystujących numery z planu numeracji krajowej lub międzynarodowych planów numeracji i umożliwiających nawiązywanie połączeń z numerami z tych planów, jest krótszy niż rok kalendarzowy, za podstawę wymiaru kary pieniężnej, o której mowa w ust. 1, przyjmuje się kwotę 500 000 zł.
+7. Jeżeli okres działania przedsiębiorcy telekomunikacyjnego, będącego dostawcą publicznie dostępnych usług telefonicznych, jest krótszy niż rok kalendarzowy, za podstawę wymiaru kary pieniężnej, o której mowa w ust. 1, przyjmuje się kwotę 500 000 zł.
 
 8. Prezes Urzędu Komunikacji Elektronicznej wydaje decyzję o wymierzeniu kary pieniężnej w terminie 2 lat od dnia stwierdzenia naruszenia obowiązku, o którym mowa w art. 20 ust. 1.
 
@@ -448,53 +476,43 @@ source: "isap-pdf"
 
 14. Kara pieniężna stanowi dochód budżetu państwa. Art. 22–28. (pominięte)
 
-**Art. 28a.** (uchylony)
-
-**Art. 28b.**
-
-1. W okresie stanu zagrożenia epidemicznego, stanu epidemii albo w razie niebezpieczeństwa szerzenia się zakażenia lub choroby zakaźnej, które może stanowić zagrożenie dla zdrowia publicznego, w szczególności wystąpienia choroby szczególnie niebezpiecznej lub wysoce zakaźnej, o których mowa w art. 2 pkt 4 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2022 r. poz. 1657, 2280, 2674, 2705 i 2770), zadanie szkolenia operatorów numerów alarmowych i ich egzaminowania, o którym mowa w art. 16a, jest realizowane przez organ prowadzący centrum, w którym są oni zatrudnieni, z wykorzystaniem zasobów kadrowych i sprzętowych tego centrum.
-
-2. W przypadku, o którym mowa w ust. 1, przepisy wykonawcze wydane na podstawie art. 16b ust. 5 oraz przepis art. 18a pkt 6 stosuje się odpowiednio. Nie stosuje się przepisów art. 16a ust. 4, 7 i 9–15.
-
-3. Certyfikat operatora numerów alarmowych uzyskany w przypadku, o którym mowa w ust. 1, traci ważność po upływie 90 dni po odwołaniu stanu zagrożenia epidemicznego albo stanu epidemii.
-
-4. KCMSPR udostępni niezwłocznie centrom szczegółowy program szkolenia operatorów numerów alarmowych opracowany na podstawie art. 18a pkt 6 oraz materiały szkoleniowe.
+**Art. 28a.** (uchylony) 1. W okresie stanu zagrożenia epidemicznego, stanu epidemii albo w razie niebezpieczeństwa szerzenia się zakażenia lub choroby zakaźnej, które może stanowić zagrożenie dla zdrowia publicznego, w szczególności wystąpienia choroby szczególnie niebezpiecznej lub wysoce zakaźnej, o których mowa w art. 2 pkt 4 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2022 r. poz. 1657, 2280, 2674, 2705 i 2770), zadanie szkolenia operatorów numerów alarmowych i ich egzaminowania, o którym mowa w art. 16a, jest realizowane przez organ prowadzący centrum, w którym są oni zatrudnieni, z wykorzystaniem zasobów kadrowych i sprzętowych tego centrum. 2. W przypadku, o którym mowa w ust. 1, przepisy wykonawcze wydane na podstawie art. 16b ust. 5 oraz przepis art. 18a pkt 6 stosuje się odpowiednio. Nie stosuje się przepisów art. 16a ust. 4, 7 i 9–15. 3. Certyfikat operatora numerów alarmowych uzyskany w przypadku, o którym mowa w ust. 1, traci ważność po upływie 90 dni po odwołaniu stanu zagrożenia epidemicznego albo stanu epidemii. 4. KCMSPR udostępni niezwłocznie centrom szczegółowy program szkolenia operatorów numerów alarmowych opracowany na podstawie art. 18a pkt 6 oraz materiały szkoleniowe.
 
 **Art. 29.**
 
-1. Po rozpoczęciu działania centrum powiadamiania ratunkowego lub rozszerzeniu zasięgu terytorialnego obszaru obsługi centrum powiadamiania ratunkowego dostawca publicznie dostępnych usług komunikacji interpersonalnej wykorzystujących numery z planu numeracji krajowej lub międzynarodowych planów numeracji i umożliwiających nawiązywanie połączeń z numerami z tych planów rozpoczyna realizację obowiązku, o którym mowa w art. 20 ustawy, w zakresie:
+1. Po rozpoczęciu działania centrum powiadamiania ratunkowego lub rozszerzeniu zasięgu terytorialnego obszaru obsługi centrum powiadamiania ratunkowego dostawca publicznie dostępnych usług telefonicznych rozpoczyna realizację obowiązku, o którym mowa w art. 20 ustawy, w zakresie:
 
 - **1)** krótkich wiadomości tekstowych (sms), o których mowa w art. 20 ust. 1 pkt 2 lit. b ustawy – w terminie 3 miesięcy od dnia ogłoszenia przez ministra właściwego do spraw administracji publicznej informacji o gotowości centrów powiadamiania ratunkowego do odbioru krótkich wiadomości tekstowych (sms) w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” oraz na stronie podmiotowej Biuletynu Informacji Publicznej urzędu obsługującego ministra właściwego do spraw administracji publicznej;
 - **2)** połączeń do numeru alarmowego 112 do właściwego terytorialnie centrum powiadamiania ratunkowego – w terminie 6 miesięcy od dnia ogłoszenia przez ministra właściwego do spraw administracji publicznej informacji o uruchomieniu centrum powiadamiania ratunkowego albo o rozszerzeniu terytorialnego obszaru obsługi centrum powiadamiania ratunkowego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” oraz na stronie podmiotowej Biuletynu Informacji Publicznej urzędu obsługującego ministra właściwego do spraw administracji publicznej;
-- **3)** połączeń do numerów alarmowych 997 i 998 do właściwego terytorialnie centrum powiadamiania ratunkowego – w terminie 6 miesięcy od dnia ogłoszenia przez ministra właściwego do spraw administracji publicznej informacji o gotowości centrów powiadamiania ratunkowego do obsługi zgłoszeń alarmowych kierowanych do tych numerów w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” oraz na stronie podmiotowej Biuletynu Informacji Publicznej urzędu obsługującego ministra właściwego do spraw administracji publicznej.
+- **3)** połączeń do numerów alarmowych 997, 998 i 999 do właściwego terytorialnie centrum powiadamiania ratunkowego – w terminie 6 miesięcy od dnia ogłoszenia przez ministra właściwego do spraw administracji publicznej informacji o gotowości centrów powiadamiania ratunkowego do obsługi zgłoszeń alarmowych kierowanych do tych numerów w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” oraz na stronie podmiotowej Biuletynu Informacji Publicznej urzędu obsługującego ministra właściwego do spraw administracji publicznej.
 
 2. Ogłoszenie, o którym mowa w ust. 1 pkt 3, jest poprzedzone uzyskaniem pozytywnej opinii w zakresie gotowości do obsługi w centrum powiadamiania ratunkowego numerów alarmowych:
 
 - **1)** 997 – wydanej przez ministra właściwego do spraw wewnętrznych;
-- **2)** 998 – wydanej przez ministra właściwego do spraw wewnętrznych.
-- **3)** (uchylony)
+- **2)** 998 – wydanej przez ministra właściwego do spraw wewnętrznych;
+- **3)** 999 – wydanej przez ministra właściwego do spraw zdrowia.
 
-3. Do czasu zapewnienia kierowania połączeń do numerów alarmowych 997 i 998 do właściwego terytorialnie centrum powiadamiania ratunkowego dostawca publicznie dostępnych usług komunikacji interpersonalnej wykorzystujących numery z planu numeracji krajowej lub międzynarodowych planów numeracji i umożliwiających nawiązywanie połączeń z numerami z tych planów kieruje te połączenia do właściwych terytorialnie jednostek Policji oraz Państwowej Straży Pożarnej.
+3. Do czasu zapewnienia kierowania połączeń do numerów alarmowych 997, 998 i 999 do właściwego terytorialnie centrum powiadamiania ratunkowego, dostawca publicznie dostępnych usług telefonicznych kieruje te połączenia do właściwych terytorialnie jednostek Policji, Państwowej Straży Pożarnej oraz dysponentów zespołów ratownictwa medycznego.
 
-4. Do czasu zapewnienia kierowania połączeń do numerów alarmowych 997 i 998 do właściwego terytorialnie centrum powiadamiania ratunkowego właściwe terytorialnie jednostki Policji oraz Państwowej Straży Pożarnej odbierają zgłoszenia alarmowe kierowane do tych numerów.
+4. Do czasu zapewnienia kierowania połączeń do numerów alarmowych 997, 998 i 999 do właściwego terytorialnie centrum powiadamiania ratunkowego, właściwe terytorialnie jednostki Policji, Państwowej Straży Pożarnej oraz dysponenci zespołów ratownictwa medycznego odbierają zgłoszenia alarmowe kierowane do tych numerów.
 
 **Art. 30.**
 
-1. Operatorzy numerów alarmowych, o których mowa w art. 14a ust. 5 ustawy zmienianej w art. 24 , stają się, z dniem wejścia w życie ustawy, operatorami numerów alarmowych w rozumieniu niniejszej ustawy.
+1. Operatorzy numerów alarmowych, o których mowa w art. 14a ust. 5 ustawy zmienianej w art. 24, stają się, z dniem wejścia w życie ustawy, operatorami numerów alarmowych w rozumieniu niniejszej ustawy.
 
-2. Operatorzy numerów alarmowych, o których mowa w art. 14a ust. 5 ustawy zmienianej w art. 24 , w terminie 3 lat od dnia zdania egzaminu z zakresu wiedzy i umiejętności praktycznych objętych programem szkolenia operatorów numerów alarmowych, który był przeprowadzony na podstawie przepisów wydanych na podstawie art. 14e ustawy zmienianej w art. 24 , są obowiązani uzyskać certyfikat operatora numerów alarmowych na zasadach określonych w art. 17 ust. 1 i 3.
+2. Operatorzy numerów alarmowych, o których mowa w art. 14a ust. 5 ustawy zmienianej w art. 24, w terminie 3 lat od dnia zdania egzaminu z zakresu wiedzy i umiejętności praktycznych objętych programem szkolenia operatorów numerów alarmowych, który był przeprowadzony na podstawie przepisów wydanych na podstawie art. 14e ustawy zmienianej w art. 24, są obowiązani uzyskać certyfikat operatora numerów alarmowych na zasadach określonych w art. 17 ust. 1 i 3.
 
 **Art. 31.**
 
-1. Wojewódzkie centrum powiadamiania ratunkowego i centrum powiadamiania ratunkowego, działające na podstawie art. 14c ust. 1 ustawy zmienianej w art. 24 , stają się, z dniem wejścia w życie ustawy, centrum powiadamiania ratunkowego w rozumieniu niniejszej ustawy.
+1. Wojewódzkie centrum powiadamiania ratunkowego i centrum powiadamiania ratunkowego, działające na podstawie art. 14c ust. 1 ustawy zmienianej w art. 24, stają się, z dniem wejścia w życie ustawy, centrum powiadamiania ratunkowego w rozumieniu niniejszej ustawy.
 
-2. Centrum powiadamiania ratunkowego utworzone na podstawie porozumienia, o którym mowa w art. 14c ust. 3 ustawy zmienianej w art. 24 , staje się, z dniem wejścia w życie ustawy, centrum powiadamiania ratunkowego w rozumieniu niniejszej ustawy.
+2. Centrum powiadamiania ratunkowego utworzone na podstawie porozumienia, o którym mowa w art. 14c ust. 3 ustawy zmienianej w art. 24, staje się, z dniem wejścia w życie ustawy, centrum powiadamiania ratunkowego w rozumieniu niniejszej ustawy.
 
 **Art. 32.**
 
-1. Do osiągnięcia przez interfejs komunikacyjny funkcjonalności, o których mowa w art. 13 ust. 2, umożliwiających łączenie i wymianę danych między systemem teleinformatycznym systemu powiadamiania ratunkowego i Systemem Wspomagania Dowodzenia Policji oraz Systemem Wspomagania Decyzji Państwowej Straży Pożarnej, przekazywanie zgłoszeń alarmowych z centrum powiadamiania ratunkowego do Policji i Państwowej Straży Pożarnej następuje w drodze połączeń głosowych.
+1. Do osiągnięcia przez interfejs komunikacyjny funkcjonalności, o których mowa w art. 13 ust. 2, umożliwiających łączenie i wymianę danych między systemem teleinformatycznym systemu powiadamiania ratunkowego i Systemem Wspomagania Dowodzenia Policji oraz Systemem Wspomagania Decyzji Państwowej Straży Pożarnej, przekazywanie zgłoszeń alarmowych z centrum powiadamiania ratunkowego do Policji i Państwowej Straży Pożarnej następuje w drodze połączeń telefonicznych.
 
-2. Do czasu osiągnięcia przez interfejs komunikacyjny funkcjonalności, o których mowa w art. 13 ust. 2, umożliwiających łączenie i wymianę danych między systemem teleinformatycznym i Systemem Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego przekazywanie zgłoszeń alarmowych z centrum do dyspozytorni medycznej następuje w drodze połączeń głosowych.
+2. Do czasu osiągnięcia przez interfejs komunikacyjny funkcjonalności, o których mowa w art. 13 ust. 2, umożliwiających łączenie i wymianę danych między systemem teleinformatycznym i Systemem Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego przekazywanie zgłoszeń alarmowych z centrum do dyspozytorni medycznej następuje w drodze połączeń telefonicznych.
 
 3. Minister właściwy do spraw administracji publicznej, po uzgodnieniu z ministrem właściwym do spraw wewnętrznych, ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” oraz na stronie podmiotowej Biuletynu Informacji Publicznej urzędu obsługującego ministra właściwego do spraw administracji publicznej informację o osiągnięciu przez interfejs komunikacyjny funkcjonalności, o których mowa w art. 13 ust. 2, w odniesieniu do Systemu Wspomagania Dowodzenia Policji i Systemu Wspomagania Decyzji Państwowej Straży Pożarnej.
 
@@ -515,7 +533,7 @@ source: "isap-pdf"
 1. Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
 - **1)** art. 78 ust. 7 i 7a ustawy zmienianej w art. 26 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 78 ust. 7 i 7a ustawy zmienianej w art. 26 w brzmieniu nadanym niniejszą ustawą,
-- **2)** art. 185 ust. 12 ustawy zmienianej w art. 26 zachowują moc – jednak nie dłużej niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
+- **2)** art. 185 ust. 12 ustawy zmienianej w art. 26 zachowują moc jednak nie dłużej niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
 
 2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 21 ust. 17 ustawy zmienianej w art. 27 zachowują moc, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
@@ -545,7 +563,7 @@ source: "isap-pdf"
 4. Minister właściwy do spraw administracji publicznej określi, w drodze rozporządzenia, co najmniej jeden z mechanizmów korygujących, o których mowa w ust. 3, w przypadku gdy:
 
 - **1)** nastąpi zagrożenie przekroczenia bądź przekroczenie limitu wydatków budżetowych przewidzianych na jeden rok,
-- **2)** w okresie od początku roku kalendarzowego do końca okresu objętego ostatnim monitoringiem wydatków część limitu rocznego przypadającego proporcjonalnie na ten okres została przekroczona co najmniej o 10% – mając na względzie zapewnienie ciągłości funkcjonowania systemu powiadamiania ratunkowego.
+- **2)** w okresie od początku roku kalendarzowego do końca okresu objętego ostatnim monitoringiem wydatków część limitu rocznego przypadającego proporcjonalnie na ten okres została przekroczona co najmniej o 10% mając na względzie zapewnienie ciągłości funkcjonowania systemu powiadamiania ratunkowego.
 
 5. Maksymalny limit wydatków z budżetu państwa, w częściach, których dysponentem jest minister właściwy do spraw wewnętrznych w zakresie dotyczącym współpracy Policji, Państwowej Straży Pożarnej, dyspozytorni medycznych i ministra właściwego do spraw zdrowia z systemem oraz wojewodów w zakresie dotyczącym współpracy Państwowej Straży Pożarnej z systemem, będących skutkiem finansowym ustawy, wynosi 342 173 239 zł, z tego:
 
@@ -562,7 +580,7 @@ source: "isap-pdf"
 
 6. W przypadku zagrożenia przekroczenia lub przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa w ust. 5, zostaną zastosowane mechanizmy korygujące polegające na:
 
-- **1)** ograniczeniu wydatków związanych z funkcjonowaniem Systemu Wspomagania Dowodzenia Policji oraz Systemu Wspomagania Decyzji Państwowej Straży Pożarnej, o których mowa odpowiednio w art. 20e ustawy zmienianej w art. 23 i art. 14g ustawy zmienianej w art. 24 , w szczególności ograniczeniu wydatków na rozwój nowych usług tych systemów w zakresie dotyczącym współpracy z systemem powiadamiania ratunkowego;
+- **1)** ograniczeniu wydatków związanych z funkcjonowaniem Systemu Wspomagania Dowodzenia Policji oraz Systemu Wspomagania Decyzji Państwowej Straży Pożarnej, o których mowa odpowiednio w art. 20e ustawy zmienianej w art. 23 i art. 14g ustawy zmienianej w art. 24, w szczególności ograniczeniu wydatków na rozwój nowych usług tych systemów w zakresie dotyczącym współpracy z systemem powiadamiania ratunkowego;
 - **2)** ograniczeniu wydatków związanych z modernizacją i wdrażaniem nowych usług w sieci teleinformatycznej w zakresie dotyczącym współpracy z systemem powiadamiania ratunkowego.
 
 7. Organem właściwym do monitorowania wykorzystania limitu wydatków, o których mowa w ust. 5, oraz odpowiedzialnym za wdrożenie mechanizmów korygujących, o których mowa w ust. 6, jest minister właściwy do spraw wewnętrznych.

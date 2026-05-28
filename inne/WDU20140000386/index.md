@@ -8,12 +8,10 @@ pos: 386
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# § 2. Do zawiadomienia, którym mowa art. 132c ust. 1 ustawy, podmiot składający zawiadomienie załącza:
-
-*ROZPORZĄDZENIE MINISTRA FINANSÓW dnia 6 marca 2014 sprawie dokumentów załączanych do zawiadomień zamiarze nabycia albo objęcia akcji udziałów Na podstawie art. 132d ust. dnia 19 sierpnia 2011 usługach płatniczych (Dz. 199, 1175, późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa dokumenty, które należy załączyć do zawiadomienia zamiarze bezpośredniego pośredniego nabycia albo objęcia akcji udziałów elektronicznego, składanego na podstawie art. 132c ust. 1 dnia 19 sierpnia 2011 usługach płatniczych, zwanej dalej „ustawą”.*
+# Rozporządzenie Ministra Finansówz dnia 6 marca 2014 r. w sprawie dokumentów załączanych do zawiadomień o zamiarze nabycia albo objęcia akcji lub udziałów krajowej instytucji pieniądza elektronicznego
 
 | Pole | Wartość |
 |---|---|
@@ -24,39 +22,109 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2014-03-06 |
 | Data wydania | 2014-03-25 |
+| Wejście w życie | 2014-04-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000386) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/386/text.pdf) |
 
-1) fizycznych poświadczoną kopię dokumentu potwierdzającego tożsamość składającego zawiadomienie, zawierającego co najmniej imię, nazwisko, adres zameldowania, datę miejsce urodzenia wizerunek;
-2) prawnych jednostek organizacyjnych nieposiadających osobowości prawnej:
-a) oryginał poświadczoną kopię odpisu Krajowego Rejestru Sądowego innego właściwego rejestru prowadzonego przez upoważniony organ, wydane nie później niż terminie miesięcy przed dniem złożenia zawiadomienia, wydruk komputerowy aktualnych informacji Krajowego Rejestru Sądowego, którym mowa art. 4 ust. 4aa dnia 20 sierpnia 1997 Krajowym Rejestrze Sądowym (Dz. 2013 1203), zawierający co najmniej nazwę, adres, imiona nazwiska uprawnionych do reprezentacji wraz zasadami reprezentacji formę prawną; jeżeli zgodnie przepisami dotyczącymi innego właściwego rejestru odpis nie zawiera wszystkich informacji wskazanych zdaniu poprzednim, informacje te należy przekazać formie oświadczenia,
-b) poświadczone kopie dokumentów potwierdzających tożsamość zarządzających działalnością składającego zawiadomienie, zawierających co najmniej imię, nazwisko, adres zameldowania, datę miejsce urodzenia wizerunek;
-3) poświadczone kopie statutu, umowy spółki innego dokumentu poświadczającego przedmiot działalności składającego zawiadomienie, ile wykonuje działalność gospodarczą, albo oświadczenie, że nie wykonuje działalności gospodarczej;
-4) graficzny schemat organizacyjny grupy, której mowa art. 132d ust. 1 pkt 5 ustawy, do której należy podmiot składzających krajową instytucją elektronicznego, zawierających co najmniej imię, nazwisko, adres zameldowania, datę miejsce urodzenia wizerunek, ile przewidywane są zmiany tym zakresie, albo oświadczenie braku zamiaru dokonywania takich zmian;
-6) oświadczenie zamiarze nabycia albo objęcia akcji udziałów elektronicznego, ze wskazaniem nazwy adresu elektronicznego, której dotyczy zawiadomienie;
-7) dokumenty poświadczające wykształcenie, kwalifikacje doświadczenie zawodowe składającego zawiadomienie jeżeli jest osobą fizyczną wymienionych pkt 2 lit. b pkt 5;
-8) informacje dotyczące składającego zawiadomienie każdej wymienionych pkt 2 lit. b pkt 5:
-a) Krajowego Rejestru Karnego skazaniu za przestępstwo przestępstwo skarbowe, postępowaniach warunkowo umorzonych, wydane nie później niż miesiące przed dniem złożenia zawiadomienia oświadczenia skazaniach za przestępstwo przestępstwo skarbowe postępowaniach warunkowo umorzonych,
-b) oświadczenia zakończonych ukaraniem, okresie 5 lat poprzedzających złożenie zawiadomienia, postępowaniach administracyjnych fizycznych postępowaniach dyscyplinarnych,
-c) oświadczenia zakończonych, okresie 5 lat poprzedzających złożenie zawiadomienia, postępowaniach sądowych sprawach gospodarczych, postępowaniach związanych likwidacją, upadłością, likwidacją majątku upadłego postępowaniem naprawczym, a także informacje zakończonych, okresie 5 lat poprzedzających złożenie zawiadomienia, postępowaniach związanych likwidacją, upadłością, likwidacją majątku upadłego postępowaniem naprawczym prowadzonych przeciwko podmiotowi, którym podmiot składający zawiadomienie posiada udział równy przekraczający 10% ogólnej liczby głosów organie stanowiącym udziału kapitale zakładowym wobec którego podmiot składający zawiadomienie jest podmiotem dominującym;
-9) oświadczenia składającego zawiadomienie każdej wymienionych pkt 2 lit. b pkt 5 fakcie toczących się aktualnie postępowań:
-a) karnych przestępstwo umyślne wyłączeniem przestępstw ściganych oskarżenia prywatnego postępowaniach sprawie przestępstwo skarbowe, tym związanych odpowiedzialnością, której mowa przepisach odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary,
-b) dyscyplinarnych administracyjnych nałożenie kary innej sankcji administracyjnej stosunku do danej osoby,
-c) sądowych sprawach gospodarczych przeciwko danej osobie, postępowaniach związanych likwidacją, upadłością, likwidacją majątku upadłego postępowaniem naprawczym, a także postępowaniach związanych likwidacją, upadłością, likwidacją majątku upadłego postępowaniem naprawczym, prowadzonych przeciwko podmiotowi, którym podmiot składający zawiadomienie posiada udział równy przekraczający 10% ogólnej liczby głosów organie stanowiącym udziału kapitale zakładowym wobec którego podmiot składający zawiadomienie jest podmiotem dominującym;
-10) oświadczenia składającego zawiadomienie o:
-a) środkach nadzorczych, które okresie 5 lat poprzedzających złożenie zawiadomienia były podejmowane przez właściwy organ stosunku do składającego zawiadomienie będącego osobą fizyczną albo stosunku do członków organu stanowiącego składającego zawiadomienie, związku nieprawidłowościami działalności innych podmiotów podlegających nadzorowi właściwego organu nadzoru, których podmiot składający zawiadomienie będący osobą fizyczną albo członek organu stanowiącego składającego zawiadomienie był członkiem organu stanowiącego okresie podjęcia środków nadzorczych, albo oświadczenie, że podmiot składający zawiadomienie będący osobą fizyczną albo członek organu stanowiącego podmiotu składającego zawiadomienie nie był członkiem organu stanowiącego podlegającego nadzorowi właściwego organu nadzoru,
-d) zobowiązaniach, których mowa art. 132d ust. 1 pkt 9 ustawy,
-e) przypadkach odmowy uzyskania cofnięcia zezwolenia zgody związku wykonywaną planowaną działalnością albo pełnieniem funkcji na rynku finansowym, podaniem przyczyn,
-f) przypadkach ustania inicjatywy pracodawcy zleceniodawcy zatrudnienia jakiejkolwiek postaci instytucji wykonującej działalność na rynku finansowym, podaniem przyczyn,
-g) prowadzonych przez właściwe organy państw członkowskich Unii Europejskiej okresie ostatnich 5 lat postępowaniach wniosku zawiadomienia składającego zawiadomienie, dotyczących zamiaru nabycia albo objęcia akcji udziałów albo stania się podmiotem dominującym kredytowej, zakładu ubezpieczeń, firmy inwestycyjnej elektronicznego, podaniem organu prowadzącego postępowanie, daty wszczęcia zakończenia postępowania oznaczeniem podmiotu, którego dotyczył zamiar, wskazaniem wyników postępowania;
-11) sprawozdania finansowe składającego zawiadomienie za ostatnie lata przed datą złożenia zawiadomienia całego okresu działalności, jeżeli podmiot składający zawiadomienie wykonuje działalność gospodarczą przez czas krótszy niż okres lat, gdy obowiązek sporządzania takich sprawozdań finansowych wynika odrębnych przepisów prawa; gdy odrębne przepisy nakładają obowiązek badania sprawozdań finansowych, podmiot składający zawiadomienie załącza sprawozdania finansowe zbadane przez podmiot uprawniony do badania sprawozdań finansowych; gdy zawiadomienie zostało złożone okresie poprzedzającym sporządzenie sprawozdania finansowego za dany rok obrotowy jego badanie, składający zawiadomienie powinien przedłożyć wstępne sprawozdanie finansowe, a razie jego braku inne dokumenty potwierdzające jego sytuację finansową aktualną na dzień złożenia zawiadomienia;
-12) informacje przepływach środków pieniężnych na rachunkach składającego zawiadomienie, związanych działalnością gospodarczą zawodową, obejmujące okres 1 roku poprzedzającego złożenie zawiadomienia;
-13) oświadczenie dotyczące wywiązywania się obowiązków podatkowych okresie lat podatkowych poprzedzających złożenie zawiadomienia składającego zawiadomienie będącego osobą fizyczną, który nie ma obowiązku sporządzania sprawozdań finansowych;
-14) oświadczenie niezaleganiu podatkach oświadczenie stanie zaległości składającego zawiadomienie oświadczenie niezaleganiu opłacaniu składek na ubezpieczenia społeczne oświadczenie stanie zaległości składającego zawiadomienie;
-15) informację ratingach składającego zawiadomienie jego podmiotów zależnych ich zmianach okresie ostatnich lat poprzedzających dzień złożenia zawiadomienia, ze wskazaniem nadającej rating nia plany inwestycyjne składającego zawiadomienie stosunku do proponowane kierunki rozwoju działalności elektronicznego:
-a) zamiaru nabycia albo objęcia akcji udziałów liczbie pozwalającej na uzyskanie przekroczenie 50% ogólnej liczby głosów organie stanowiącym udziałów kapitale zakładowym albo skutkującym uzyskaniem pozycji jednostki dominującej wobec plan działalności obejmujący: plan rozwoju działalności elektronicznego, obejmujący uzasadnienie zamiaru, którego dotyczy zawiadomienie, średnioterminowe cele finansowe, kierunki rozwoju działalności obejmujące przewidywane zmiany zakresie docelowych grup użytkowników posiadaczy oferowanych usług, działania mające na celu integrację grupą podmiotów, do której należy podmiot składający zawiadomienie, oczekiwane przyszłe dane finansowe na okres lat, obejmujące przewidywany bilans rachunek zysków strat, przewidywane wskaźniki wypłacalności, informację poziomie narażenia na poszczególne rodzaje ryzyka, przewidywane transakcje wewnątrz grupy, opis wpływu realizacji zamiaru objętego zawiadomieniem na organizację elektronicznego zarządzanie krajową instytucją obejmujący liczbę zarządzających podział zadań między nimi, projektowane regulacje wewnętrzne elektronicznego, tym zakresie rachunkowości, badania sprawozdań finansowych systemu zarządzania ryzykiem kontroli wewnętrznej dane odpowiedzialnych za ich realizację obejmujące imię, nazwisko, datę miejsce urodzenia, obywatelstwo, a biegłych rewidentów także informację numerze wpisu do rejestru biegłych rewidentów, którym mowa ustawie dnia 7 maja 2009 biegłych rewidentach ich samorządzie, podmiotach uprawnionych do badania sprawozdań finansowych nadzorze publicznym (Dz. 77, 649, późn. zm. ), projektowaną architekturę systemów informatycznych elektronicznego, tym zakresie polityki kontraktowej, przepływu danych, zastosowania oprogramowania wewnętrznego zewnętrznego bezpieczeństwa danych systemów, politykę zakresie zlecenia wykonywania czynności objętych zakresem zezwolenia pieniądza innym podmiotom, tym zakresie praw obowiązków ramach umów tymi podmiotami,
-b) gdy zamiar dotyczy nabycia albo objęcia akcji udziałów liczbie odpowiadającej 20% więcej ogólnej liczby głosów organie stanowiącym udziałów kapitale zakładowym strategię działalności obejmującą: okres, przez jaki podmiot składający zawiadomienie zamierza posiadać akcje udziały elektronicznego, zamiary zwiększenia, zmniejszenia utrzymania liczby posiadanych akcji udziałów przyszłości, oświadczenie, czy podmiot składający zawiadomienie zamierza być aktywnym akcjonariuszem mniejszościowym innym udziałowcem mniejszościowym, ze wskazaniem, jakie kierunki rozwoju działalności będzie popierał, a jakich nie, wraz uzasadnieniem takiego stanowiska, imieniu składającego zawiadomienie;
-22) pełnomocnictwo do doręczeń toku postępowania przedmiocie zawiadomienia gdy podmiot składający zawiadomienie ma miejsce zamieszkania siedzibę poza granicami Rzeczypospolitej Polskiej.
-§ 3. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów: wz. J. Cichoń
+Treść rozporządzenia
+Na podstawie art. 132d ust. 3 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. Nr 199, poz. 1175, z późn. zm.) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa dokumenty, które należy załączyć do zawiadomienia o zamiarze bezpośredniego lub pośredniego nabycia albo objęcia akcji lub udziałów krajowej instytucji pieniądza elektronicznego, składanego na podstawie art. 132c ust. 1 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, zwanej dalej „ustawą”.
+§ 2.
+Do zawiadomienia, o którym mowa w art. 132c ust. 1 ustawy, podmiot składający zawiadomienie załącza:
+1)
+w przypadku osób fizycznych – poświadczoną kopię dokumentu potwierdzającego tożsamość podmiotu składającego zawiadomienie, zawierającego co najmniej imię, nazwisko, adres zameldowania, datę i miejsce urodzenia oraz wizerunek;
+2)
+w przypadku osób prawnych lub jednostek organizacyjnych nieposiadających osobowości prawnej:
+a)
+oryginał lub poświadczoną kopię odpisu z Krajowego Rejestru Sądowego lub innego właściwego rejestru prowadzonego przez upoważniony organ, wydane nie później niż w terminie 3 miesięcy przed dniem złożenia zawiadomienia, lub wydruk komputerowy aktualnych informacji z Krajowego Rejestru Sądowego, o którym mowa w art. 4 ust. 4aa ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2013 r. poz. 1203), zawierający co najmniej nazwę, adres, imiona i nazwiska osób uprawnionych do reprezentacji wraz z zasadami reprezentacji i formę prawną; jeżeli zgodnie z przepisami dotyczącymi innego właściwego rejestru odpis nie zawiera wszystkich informacji wskazanych w zdaniu poprzednim, informacje te należy przekazać w formie oświadczenia,
+b)
+poświadczone kopie dokumentów potwierdzających tożsamość osób zarządzających działalnością podmiotu składającego zawiadomienie, zawierających co najmniej imię, nazwisko, adres zameldowania, datę i miejsce urodzenia oraz wizerunek;
+3)
+poświadczone kopie statutu, umowy spółki lub innego dokumentu poświadczającego przedmiot działalności podmiotu składającego zawiadomienie, o ile wykonuje działalność gospodarczą, albo oświadczenie, że nie wykonuje działalności gospodarczej;
+4)
+graficzny schemat organizacyjny grupy, o której mowa w art. 132d ust. 1 pkt 5 ustawy, do której należy podmiot składający zawiadomienie, obejmującej podmioty od niego zależne oraz podmioty, w których podmiot ten oraz podmioty od niego zależne posiadają znaczący udział kapitałowy w rozumieniu art. 3 pkt 14 ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego (Dz. U. Nr 83, poz. 719, z późn. zm.), z oznaczeniem nazw i adresów podmiotów wchodzących w skład grupy, przedmiotów ich działalności oraz rodzaju i zakresu powiązań między podmiotami w grupie, z uwzględnieniem prawnych i faktycznych powiązań finansowych, kapitałowych i osobowych, a w przypadku podmiotów podlegających nadzorowi sprawowanemu przez organ nadzoru nad rynkiem finansowym – ze wskazaniem także organu nadzoru;
+5)
+poświadczone kopie dokumentów potwierdzających tożsamość osób przewidzianych do objęcia funkcji osób zarządzających krajową instytucją pieniądza elektronicznego, zawierających co najmniej imię, nazwisko, adres zameldowania, datę i miejsce urodzenia oraz wizerunek, o ile przewidywane są zmiany w tym zakresie, albo oświadczenie o braku zamiaru dokonywania takich zmian;
+6)
+oświadczenie o zamiarze nabycia albo objęcia akcji lub udziałów krajowej instytucji pieniądza elektronicznego, ze wskazaniem nazwy oraz adresu krajowej instytucji pieniądza elektronicznego, której dotyczy zawiadomienie;
+7)
+dokumenty poświadczające wykształcenie, kwalifikacje i doświadczenie zawodowe podmiotu składającego zawiadomienie – jeżeli jest osobą fizyczną – lub osób wymienionych w pkt 2 lit. b i pkt 5;
+8)
+informacje dotyczące podmiotu składającego zawiadomienie oraz każdej z osób wymienionych w pkt 2 lit. b i pkt 5:
+a)
+z Krajowego Rejestru Karnego o skazaniu za przestępstwo lub przestępstwo skarbowe, postępowaniach warunkowo umorzonych, wydane nie później niż 3 miesiące przed dniem złożenia zawiadomienia lub oświadczenia o skazaniach za przestępstwo lub przestępstwo skarbowe lub postępowaniach warunkowo umorzonych,
+b)
+oświadczenia o zakończonych ukaraniem, w okresie 5 lat poprzedzających złożenie zawiadomienia, postępowaniach administracyjnych i – w przypadku osób fizycznych – postępowaniach dyscyplinarnych,
+c)
+oświadczenia o zakończonych, w okresie 5 lat poprzedzających złożenie zawiadomienia, postępowaniach sądowych w sprawach gospodarczych, postępowaniach związanych z likwidacją, upadłością, likwidacją majątku upadłego lub postępowaniem naprawczym, a także informacje o zakończonych, w okresie 5 lat poprzedzających złożenie zawiadomienia, postępowaniach związanych z likwidacją, upadłością, likwidacją majątku upadłego lub postępowaniem naprawczym prowadzonych przeciwko podmiotowi, w którym podmiot składający zawiadomienie posiada udział równy lub przekraczający 10% ogólnej liczby głosów w organie stanowiącym lub udziału w kapitale zakładowym lub wobec którego podmiot składający zawiadomienie jest podmiotem dominującym;
+9)
+oświadczenia podmiotu składającego zawiadomienie oraz każdej z osób wymienionych w pkt 2 lit. b i pkt 5 o fakcie toczących się aktualnie postępowań:
+a)
+karnych o przestępstwo umyślne – z wyłączeniem przestępstw ściganych z oskarżenia prywatnego – lub postępowaniach w sprawie o przestępstwo skarbowe, w tym związanych z odpowiedzialnością, o której mowa w przepisach o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary,
+b)
+dyscyplinarnych lub administracyjnych o nałożenie kary lub innej sankcji administracyjnej w stosunku do danej osoby,
+c)
+sądowych w sprawach gospodarczych przeciwko danej osobie, postępowaniach związanych z likwidacją, upadłością, likwidacją majątku upadłego lub postępowaniem naprawczym, a także o postępowaniach związanych z likwidacją, upadłością, likwidacją majątku upadłego lub postępowaniem naprawczym, prowadzonych przeciwko podmiotowi, w którym podmiot składający zawiadomienie posiada udział równy lub przekraczający 10% ogólnej liczby głosów w organie stanowiącym lub udziału w kapitale zakładowym lub wobec którego podmiot składający zawiadomienie jest podmiotem dominującym;
+10)
+oświadczenia podmiotu składającego zawiadomienie o:
+a)
+środkach nadzorczych, które w okresie 5 lat poprzedzających złożenie zawiadomienia były podejmowane przez właściwy organ nadzoru w stosunku do podmiotu składającego zawiadomienie w związku z nieprawidłowościami w jego działalności, jeżeli podmiot składający zawiadomienie wykonuje lub wykonywał działalność podlegającą nadzorowi właściwego organu nadzoru w państwie, w którym ma swoją siedzibę, albo oświadczenie, że nie wykonywał i nie wykonuje takiej działalności,
+b)
+środkach nadzorczych, które w okresie 5 lat poprzedzających złożenie zawiadomienia były podejmowane przez właściwy organ nadzoru w stosunku do podmiotu, w którym podmiot składający zawiadomienie posiada lub posiadał udział równy lub przekraczający 10% ogólnej liczby głosów w organie stanowiącym lub udziału w kapitale zakładowym lub wobec którego podmiot składający zawiadomienie jest lub był podmiotem dominującym, w związku z nieprawidłowościami w działalności tego podmiotu, jeżeli podmiot ten wykonuje lub wykonywał działalność podlegającą nadzorowi właściwego organu nadzoru w państwie, w którym ma swoją siedzibę, albo oświadczenie, że podmiot składający zawiadomienie nie posiadał i nie posiada takich udziałów lub że nie był i nie jest takim podmiotem dominującym,
+c)
+środkach nadzorczych, które w okresie 5 lat poprzedzających złożenie zawiadomienia były podejmowane przez właściwy organ nadzoru w stosunku do podmiotu składającego zawiadomienie będącego osobą fizyczną albo w stosunku do członków organu stanowiącego podmiotu składającego zawiadomienie, w związku z nieprawidłowościami w działalności innych podmiotów podlegających nadzorowi właściwego organu nadzoru, w których podmiot składający zawiadomienie będący osobą fizyczną albo członek organu stanowiącego podmiotu składającego zawiadomienie był członkiem organu stanowiącego w okresie podjęcia środków nadzorczych, albo oświadczenie, że podmiot składający zawiadomienie będący osobą fizyczną albo członek organu stanowiącego podmiotu składającego zawiadomienie nie był członkiem organu stanowiącego podmiotu podlegającego nadzorowi właściwego organu nadzoru,
+d)
+zobowiązaniach, o których mowa w art. 132d ust. 1 pkt 9 ustawy,
+e)
+przypadkach odmowy uzyskania lub cofnięcia zezwolenia lub zgody w związku z wykonywaną lub planowaną działalnością albo pełnieniem funkcji na rynku finansowym, z podaniem przyczyn,
+f)
+przypadkach ustania z inicjatywy pracodawcy lub zleceniodawcy zatrudnienia w jakiejkolwiek postaci w instytucji wykonującej działalność na rynku finansowym, z podaniem przyczyn,
+g)
+prowadzonych przez właściwe organy nadzoru państw członkowskich Unii Europejskiej w okresie ostatnich 5 lat postępowaniach z wniosku lub zawiadomienia podmiotu składającego zawiadomienie, dotyczących zamiaru nabycia albo objęcia akcji lub udziałów albo stania się podmiotem dominującym instytucji kredytowej, zakładu ubezpieczeń, firmy inwestycyjnej lub instytucji pieniądza elektronicznego, z podaniem organu prowadzącego postępowanie, daty wszczęcia i zakończenia postępowania oraz z oznaczeniem podmiotu, którego dotyczył zamiar, oraz wskazaniem wyników postępowania;
+11)
+sprawozdania finansowe podmiotu składającego zawiadomienie za ostatnie 3 lata przed datą złożenia zawiadomienia lub z całego okresu działalności, jeżeli podmiot składający zawiadomienie wykonuje działalność gospodarczą przez czas krótszy niż okres 3 lat, w przypadku gdy obowiązek sporządzania takich sprawozdań finansowych wynika z odrębnych przepisów prawa; w przypadku gdy odrębne przepisy nakładają obowiązek badania sprawozdań finansowych, podmiot składający zawiadomienie załącza sprawozdania finansowe zbadane przez podmiot uprawniony do badania sprawozdań finansowych; w przypadku gdy zawiadomienie zostało złożone w okresie poprzedzającym sporządzenie sprawozdania finansowego za dany rok obrotowy i jego badanie, składający zawiadomienie powinien przedłożyć wstępne sprawozdanie finansowe, a w razie jego braku – inne dokumenty potwierdzające jego sytuację finansową aktualną na dzień złożenia zawiadomienia;
+12)
+informacje o przepływach środków pieniężnych na rachunkach podmiotu składającego zawiadomienie, związanych z działalnością gospodarczą lub zawodową, obejmujące okres 1 roku poprzedzającego złożenie zawiadomienia;
+13)
+oświadczenie dotyczące wywiązywania się z obowiązków podatkowych w okresie 3 lat podatkowych poprzedzających złożenie zawiadomienia – w przypadku podmiotu składającego zawiadomienie będącego osobą fizyczną, który nie ma obowiązku sporządzania sprawozdań finansowych;
+14)
+oświadczenie o niezaleganiu w podatkach lub oświadczenie o stanie zaległości podmiotu składającego zawiadomienie oraz oświadczenie o niezaleganiu w opłacaniu składek na ubezpieczenia społeczne lub oświadczenie o stanie zaległości podmiotu składającego zawiadomienie;
+15)
+informację o ratingach podmiotu składającego zawiadomienie oraz jego podmiotów zależnych oraz ich zmianach w okresie ostatnich 3 lat poprzedzających dzień złożenia zawiadomienia, ze wskazaniem instytucji nadającej rating oraz wyjaśnieniem jego znaczenia, albo informację o braku nadanego ratingu;
+16)
+oświadczenie o liczbie akcji lub udziałów, które mają być nabyte albo objęte, ze wskazaniem ich udziału w liczbie głosów w organie stanowiącym i w kapitale zakładowym z uwzględnieniem wszystkich przywilejów lub ograniczeń;
+17)
+w przypadku działania w porozumieniu – charakterystykę porozumienia, ze wskazaniem prawa właściwego oraz praw i obowiązków stron porozumienia;
+18)
+oświadczenie o wysokości i udokumentowanym źródle pochodzenia środków, które mają być przeznaczone na realizację zamiaru, o którym mowa w art. 132c ust. 1 ustawy, oraz o sposobie i terminach ich przekazania, jak również wskazanie, czy są one pożyczone lub w inny sposób obciążone, ze wskazaniem pożyczkodawcy lub podmiotu, na rzecz którego środki są obciążone, oraz tytułu prawnego do korzystania z tych środków, warunków udzielenia pożyczki lub obciążenia środków i zwrotu pożyczki lub ustania obciążenia;
+19)
+oświadczenie o aktywach podmiotu składającego zawiadomienie, które mają być zbyte w ciągu 1 roku od dnia złożenia zawiadomienia, ze wskazaniem ich wartości;
+20)
+w zakresie informacji dotyczących planów marketingowych, operacyjnych, finansowych oraz organizacji i zarządzania – plany inwestycyjne składającego zawiadomienie w stosunku do krajowej instytucji pieniądza elektronicznego oraz proponowane kierunki rozwoju działalności krajowej instytucji pieniądza elektronicznego:
+a)
+w przypadku zamiaru nabycia albo objęcia akcji lub udziałów krajowej instytucji pieniądza elektronicznego w liczbie pozwalającej na uzyskanie lub przekroczenie 50% ogólnej liczby głosów w organie stanowiącym lub udziałów w kapitale zakładowym albo skutkującym uzyskaniem pozycji jednostki dominującej wobec krajowej instytucji pieniądza elektronicznego – plan działalności obejmujący:
+– plan rozwoju działalności krajowej instytucji pieniądza elektronicznego, obejmujący uzasadnienie zamiaru, którego dotyczy zawiadomienie, średnioterminowe cele finansowe, kierunki rozwoju działalności obejmujące przewidywane zmiany w zakresie docelowych grup użytkowników lub posiadaczy pieniądza elektronicznego i oferowanych usług, działania mające na celu integrację krajowej instytucji pieniądza elektronicznego z grupą podmiotów, do której należy podmiot składający zawiadomienie,
+– oczekiwane przyszłe dane finansowe krajowej instytucji pieniądza elektronicznego na okres 3 lat, obejmujące przewidywany bilans oraz rachunek zysków i strat, przewidywane wskaźniki wypłacalności, informację o poziomie narażenia na poszczególne rodzaje ryzyka, przewidywane transakcje wewnątrz grupy,
+– opis wpływu realizacji zamiaru objętego zawiadomieniem na organizację krajowej instytucji pieniądza elektronicznego i zarządzanie krajową instytucją pieniądza elektronicznego obejmujący liczbę osób zarządzających i podział zadań między nimi, projektowane regulacje wewnętrzne krajowej instytucji pieniądza elektronicznego, w tym w zakresie rachunkowości,
+– badania sprawozdań finansowych oraz systemu zarządzania ryzykiem i kontroli wewnętrznej oraz dane osób odpowiedzialnych za ich realizację obejmujące imię, nazwisko, datę i miejsce urodzenia, obywatelstwo, a w przypadku biegłych rewidentów – także informację o numerze wpisu do rejestru biegłych rewidentów, o którym mowa w ustawie z dnia 7 maja 2009 r. o biegłych rewidentach i ich samorządzie, podmiotach uprawnionych do badania sprawozdań finansowych oraz o nadzorze publicznym (Dz. U. Nr 77, poz. 649, z późn. zm.),
+– projektowaną architekturę systemów informatycznych krajowej instytucji pieniądza elektronicznego, w tym w zakresie polityki kontraktowej, przepływu danych, zastosowania oprogramowania wewnętrznego i zewnętrznego oraz bezpieczeństwa danych i systemów,
+– politykę w zakresie zlecenia wykonywania czynności objętych zakresem zezwolenia krajowej instytucji pieniądza elektronicznego innym podmiotom, w tym w zakresie praw i obowiązków krajowej instytucji pieniądza elektronicznego w ramach umów z tymi podmiotami,
+b)
+w przypadku gdy zamiar dotyczy nabycia albo objęcia akcji lub udziałów w liczbie odpowiadającej 20% lub więcej ogólnej liczby głosów w organie stanowiącym lub udziałów w kapitale zakładowym krajowej instytucji pieniądza elektronicznego strategię działalności obejmującą:
+– okres, przez jaki podmiot składający zawiadomienie zamierza posiadać akcje lub udziały krajowej instytucji pieniądza elektronicznego, oraz zamiary zwiększenia, zmniejszenia lub utrzymania liczby posiadanych akcji lub udziałów w przyszłości,
+– oświadczenie, czy podmiot składający zawiadomienie zamierza być aktywnym akcjonariuszem mniejszościowym lub innym udziałowcem mniejszościowym, ze wskazaniem, jakie kierunki rozwoju działalności krajowej instytucji pieniądza elektronicznego będzie popierał, a jakich nie, wraz z uzasadnieniem takiego stanowiska,
+– oświadczenie o woli i możliwościach finansowych udziału w podwyższaniu kapitału zakładowego krajowej instytucji pieniądza elektronicznego w przypadku rozwoju jego działalności lub trudności finansowych,
+– szczegółowy opis wpływu na finanse krajowej instytucji pieniądza elektronicznego (z uwzględnieniem polityki w zakresie dywidendy),
+– strategię rozwoju krajowej instytucji pieniądza elektronicznego,
+– lokaty aktywów,
+– oczekiwania podmiotu składającego zawiadomienie w zakresie wskazanym w lit. a tiret pierwsze,
+c)
+w przypadku gdy zamiar dotyczy nabycia albo objęcia akcji lub udziałów w liczbie odpowiadającej 10% lub więcej głosów w organie stanowiącym lub udziałów w kapitale zakładowym krajowej instytucji pieniądza elektronicznego strategię działalności obejmującą dane wskazane w lit. b tiret 1–3;
+21)
+pełnomocnictwo lub inny dokument potwierdzający umocowanie osób podpisujących zawiadomienie do działania w imieniu podmiotu składającego zawiadomienie;
+22)
+pełnomocnictwo do doręczeń w toku postępowania w przedmiocie zawiadomienia – w przypadku gdy podmiot składający zawiadomienie ma miejsce zamieszkania lub siedzibę poza granicami Rzeczypospolitej Polskiej.
+§ 3.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -8,10 +8,10 @@ pos: 1140
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 września 2013 r.
+# Rozporządzenie Ministra Administracji i Cyfryzacjiz dnia 10 września 2013 r. w sprawie kontroli wykonywania obowiązków związanych z opłatami abonamentowymi
 
 | Pole | Wartość |
 |---|---|
@@ -22,17 +22,34 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2013-09-10 |
 | Data wydania | 2013-09-26 |
+| Wejście w życie | 2013-10-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001140) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1140/text.pdf) |
 
-Poz. 1140 ROZPORZĄDZENIE MINISTRA ADMINISTRACJI I CYFRYZACJI” z dnia 10 września 2013 r.
-w sprawie kontroli wykonywania obowiązków związanych z opłatami abonamentowymi Na podstawie art. 7 ust. 10 ustawy z dnia 21 kwietnia 2005 r. o opłatach abonamentowych (Dz. U. Nr 85, poz. 728, z późn. zm.) zarządza się, co następuje: $ 1. Rozporządzenie określa:
-1) jednostki operatora wyznaczonego przeprowadzające kontrolę wykonywania obowiązku rejestracji odbiorników radiofonicznych i telewizyjnych oraz obowiązku uiszczania opłaty abonamentowej;
-2) wzór upoważnienia do wykonywania czynności kontrolnych oraz zasady i tryb wydawania upoważnień.
-$ 2. Jednostką Poczty Polskiej S.A. uprawnioną do przeprowadzania na terenie kraju kontroli wykonywania obowiązku rejestracji odbiorników radiofonicznych i telewizyjnych oraz obowiązku uiszczania opłaty abonamentowej za ich używanie jest Centrum Obsługi Finansowej.
-$3. 1. Określa się wzór druku upoważnienia do wykonywania czynności kontrolnych w zakresie obowiązku rejestracji odbiorników radiofonicznych i telewizyjnych oraz obowiązku uiszczania opłaty abonamentowej za ich używanie, stanowiący załącznik do rozporządzenia.
-2. Druk upoważnienia do wykonywania czynności kontrolnych jest drukiem ścisłego zarachowania.
-$ 4. 1. Kierownik Centrum Obsługi Finansowej upoważnia pracownika tej jednostki do wykonywania czynności kontrolnych na rok z możliwością przedłużenia na kolejne lata i wydaje druk upoważnienia do wykonywania czynności kontrolnych.
-2. Centrum Obsługi Finansowej prowadzi ewidencję wydanych upoważnień.
-$ 5. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.) Minister Administracji i Cyfryzacji: M. Boni D__ Minister Administracji i Cyfryzacji kieruje działem administracji rządowej — łączność, na podstawie $ 1 ust. 2 pkt 3 rozporządzenia >. Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 157, poz. 1314, z 2010 r. Nr 13, poz. 70 i Nr 152, poz. 1023, Dziennik Ustaw Po z . 1140 WZÓR DRUKU UPOWAŻNIENIA DO WYKONYWANIA CZYNNOŚCI KONTROLNYCH W ZAKRESIE OBOWIĄZKU REJESTRACJI ODBIORNIKÓW RADIOFONICZNYCH I TELEWIZYJNYCH ORAZ OBOWIĄZKU UISZCZANIA OPŁATY ABONAMENTOWEJ ZA ICH UŻYWANIE s t r . 1 s t r . 2 UPOWAŻNIENIE Opis: Upoważnienie ma wymiary 11 x 8 cm i jest wykonane dwustronnie na białym papierze o gramaturze 220 g/m”.
+Treść rozporządzenia
+Załącznik – Druk upoważnienia do wykonywania czynności kontrolnych w zakresie obowiązku rejestracji odbiorników radiofonicznych i telewizyjnych oraz obowiązku uiszczania opłaty abonamentowej za ich używanie (wzór)
+Treść rozporządzenia
+Na podstawie art. 7 ust. 10 ustawy z dnia 21 kwietnia 2005 r. o opłatach abonamentowych (Dz. U. Nr 85, poz. 728, z późn. zm.) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+jednostki operatora wyznaczonego przeprowadzające kontrolę wykonywania obowiązku rejestracji odbiorników radiofonicznych i telewizyjnych oraz obowiązku uiszczania opłaty abonamentowej;
+2)
+wzór upoważnienia do wykonywania czynności kontrolnych oraz zasady i tryb wydawania upoważnień.
+§ 2.
+Jednostką Poczty Polskiej S.A. uprawnioną do przeprowadzania na terenie kraju kontroli wykonywania obowiązku rejestracji odbiorników radiofonicznych i telewizyjnych oraz obowiązku uiszczania opłaty abonamentowej za ich używanie jest Centrum Obsługi Finansowej.
+§ 3.
+1.
+Określa się wzór druku upoważnienia do wykonywania czynności kontrolnych w zakresie obowiązku rejestracji odbiorników radiofonicznych i telewizyjnych oraz obowiązku uiszczania opłaty abonamentowej za ich używanie, stanowiący załącznik do rozporządzenia.
+2.
+Druk upoważnienia do wykonywania czynności kontrolnych jest drukiem ścisłego zarachowania.
+§ 4.
+1.
+Kierownik Centrum Obsługi Finansowej upoważnia pracownika tej jednostki do wykonywania czynności kontrolnych na rok z możliwością przedłużenia na kolejne lata i wydaje druk upoważnienia do wykonywania czynności kontrolnych.
+2.
+Centrum Obsługi Finansowej prowadzi ewidencję wydanych upoważnień.
+§ 5.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Załącznik – Druk upoważnienia do wykonywania czynności kontrolnych w zakresie obowiązku rejestracji odbiorników radiofonicznych i telewizyjnych oraz obowiązku uiszczania opłaty abonamentowej za ich używanie (wzór)
+patrz oryginał
 

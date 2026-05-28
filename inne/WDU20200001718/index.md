@@ -8,10 +8,10 @@ pos: 1718
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 października 2020 r.
+# Rozporządzenie Prezesa Rady Ministrówz dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju, Pracy i Technologii
 
 | Pole | Wartość |
 |---|---|
@@ -22,24 +22,44 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2020-10-06 |
 | Data wydania | 2020-10-06 |
+| Wejście w życie | 2020-10-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001718) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1718/text.pdf) |
 
-Poz. 1718 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 6 października 2020 r.
-w sprawie szczegółowego zakresu działania Ministra Rozwoju, Pracy i Technologii Na podstawie art. 33 ust. 1 i 1a ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2019 r. poz. 1171 oraz z 2020 r. poz. 568 i 695) zarządza się, co następuje: § 1. 1. Rozporządzenie określa szczegółowy zakres działania Ministra Rozwoju, Pracy i Technologii, zwanego dalej „ministrem”.
-2. Minister kieruje następującymi działami administracji rządowej:
-1) budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo;
-2) gospodarka;
-3) turystyka;
-4) praca.
-3. Minister jest dysponentem części 18, 20, 40 i 31 budżetu państwa.
-4. Obsługę ministra zapewnia Ministerstwo Rozwoju, Pracy i Technologii.
-5. Organy podległe ministrowi lub przez niego nadzorowane określa załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki Dziennik Ustaw – 2 – Poz. 1718 WYKAZ ORGANÓW PODLEGŁYCH MINISTROWI ROZWOJU, PRACY I TECHNOLOGII LUB PRZEZ NIEGO NADZOROWANYCH
-1) Główny Geodeta Kraju;
-2) Główny Inspektor Nadzoru Budowlanego;
-3) Prezes Głównego Urzędu Miar;
-4) Prezes Urzędu Zamówień Publicznych;
-5) Urząd Patentowy Rzeczypospolitej Polskiej.
+Treść rozporządzenia
+Załącznik – Wykaz organów podległych Ministrowi Rozwoju, Pracy i Technologii lub przez niego nadzorowanych
+Treść rozporządzenia
+Na podstawie art. 33 ust. 1 i 1a ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2019 r. poz. 1171 oraz z 2020 r. poz. 568 i 695) zarządza się, co następuje:
+§ 1.
+1.
+Rozporządzenie określa szczegółowy zakres działania Ministra Rozwoju, Pracy i Technologii, zwanego dalej „ministrem”.
+2.
+Minister kieruje następującymi działami administracji rządowej:
+1)
+budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo;
+2)
+gospodarka;
+3)
+turystyka;
+4)
+praca.
+3.
+Minister jest dysponentem części 18, 20, 40 i 31 budżetu państwa.
+4.
+Obsługę ministra zapewnia Ministerstwo Rozwoju, Pracy i Technologii.
+5.
+Organy podległe ministrowi lub przez niego nadzorowane określa załącznik do rozporządzenia.
+§ 2.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+Załącznik – Wykaz organów podległych Ministrowi Rozwoju, Pracy i Technologii lub przez niego nadzorowanych
+1)
+Główny Geodeta Kraju;
+2)
+Główny Inspektor Nadzoru Budowlanego;
+3)
+Prezes Głównego Urzędu Miar;
+4)
+Prezes Urzędu Zamówień Publicznych;
+5)
+Urząd Patentowy Rzeczypospolitej Polskiej.
 

@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o partiach politycznych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 25 maja 2023 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 czerwca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,12 +25,18 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2023-06-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001215) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1215/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 25 maja 2023 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o partiach politycznych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (Dz. U. z 2022 r. poz. 372), z uwzględnieniem zmian wprowadzonych ustawą z dnia 26 stycznia 2023 r. o zmianie ustawy Kodeks wyborczy oraz niektórych innych ustaw (Dz. U. poz. 497) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 maja 2023 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 13 ust. 3 i art. 19 ustawy z dnia 26 stycznia 2023 r. o zmianie ustawy Kodeks wyborczy oraz niektórych innych ustaw (Dz. U. poz. 497), które stanowią:
 Art. 50–59. (pominięte)
 Art. 60 i 61. (pominięte)
 
 **Art. 13.** „3. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 34 oraz art. 38 ustawy zmienianej w art. 2 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 34 oraz art. 38 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.” „Art. 19. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1 pkt 3, 4 i 120, art. 10 ust. 1 i art. 13 ust. 1, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 1 pkt 1 lit. a i c, pkt 5 lit. b, c, e i h, pkt 6, 7, 13–34, pkt 36 lit. a tiret pierwsze podwójne tiret drugie oraz tiret trzecie, pkt 44 lit. a, pkt 45 lit. c i d, pkt 46–48, pkt 73 lit. a, pkt 74, 75, 86–88, 93, 95, 96, 105–107, 111, 112, 117, 119, pkt 126 lit. b oraz art. 5 pkt 2, art. 6, art. 8, art. 9, art. 12 i art. 14, które wchodzą w życie w terminie określonym w komunikacie Prezesa Rady Ministrów wydanym na podstawie art. 15 ust. 1 pkt 7;
+- **3)** art. 1 pkt 42 lit. c i pkt 58, które wchodzą w życie w terminie określonym w komunikacie Prezesa Rady Ministrów wydanym na podstawie art. 15 ust. 1 pkt 8.”. Marszałek Sejmu: E. Witek USTAWA z dnia 27 czerwca 1997 r. o partiach politycznych
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -140,6 +144,16 @@ Art. 60 i 61. (pominięte)
 **Art. 17.** Nazwa, skrót nazwy i symbol graficzny partii politycznej zgłoszonej do ewidencji w sposób określony w art. 11 korzystają z ochrony prawnej przewidzianej dla dóbr osobistych.
 
 **Art. 17a.** Ewidencja zawiera następujące informacje:
+
+- **1)** datę zgłoszenia partii do ewidencji;
+- **2)** nazwę, skrót nazwy oraz adres siedziby partii;
+- **3)** wzorzec symbolu graficznego partii;
+- **4)** imiona, nazwiska i adresy zamieszkania osób wchodzących w skład organów uprawnionych w statucie do reprezentowania partii na zewnątrz oraz do zaciągania zobowiązań majątkowych;
+- **5)** imiona, nazwiska i adresy zamieszkania osób zgłaszających partię do ewidencji;
+- **6)** datę wydania orzeczenia w przedmiocie wpisu partii do ewidencji;
+- **7)** datę, sygnaturę i sentencję orzeczenia Trybunału Konstytucyjnego dotyczącego partii;
+- **8)** wzmiankę o podjęciu przez partię uchwały o samorozwiązaniu oraz imię i nazwisko wyznaczonego likwidatora;
+- **9)** datę wykreślenia partii z ewidencji.
 
 **Art. 18.**
 
@@ -311,7 +325,7 @@ Art. 60 i 61. (pominięte)
 
 **Art. 29.**
 
-1. Wysokość rocznej subwencji, o której mowa w art. 28, dla danej partii politycznej albo koalicji wyborczej ustalana jest na zasadzie stopniowej degresji proporcjonalnie do łącznej liczby głosów ważnych oddanych na listy okręgowe kandydatów na posłów tej partii albo koalicji wyborczej, w rozbiciu na liczby głosów odpowiadające poszczególnym przedziałom określonym w procentach, według następującego wzoru: S=W ×M +W ×M +W ×M +W ×M +W ×M gdzie poszczególne symbole oznaczają: S kwotę rocznej subwencji, W liczby głosów kolejno obliczane dla każdego wiersza poniższej tabeli, podane odrębnie w wyniku rozbicia łącznej liczby głosów ważnych oddanych w skali kraju łącznie na listy okręgowe kandydatów na posłów danej partii politycznej albo koalicji wyborczej, odpowiednio do wyznaczonego w procentach przedziału, M wysokość kwoty w złotych dla kolejnych wierszy poniższej tabeli: Głosy ważne oddane w całym kraju łącznie na listy okręgowe kandydatów na posłów danej partii politycznej albo koalicji Wiersz wyborczej w rozbiciu odpowiednio dla każdego przedziału Wysokość kwoty za jeden głos (M) procent liczba głosów (W) 1 do 5% 5 złotych 77 groszy 2 powyżej 5% do 10% 4 złote 61 groszy 3 powyżej 10% do 20% 4 złote 4 grosze 4 powyżej 20% do 30% 2 złote 31 groszy 5 powyżej 30% 87 groszy
+1. Wysokość rocznej subwencji, o której mowa w art. 28, dla danej partii politycznej albo koalicji wyborczej ustalana jest na zasadzie stopniowej degresji proporcjonalnie do łącznej liczby głosów ważnych oddanych na listy okręgowe kandydatów na posłów tej partii albo koalicji wyborczej, w rozbiciu na liczby głosów odpowiadające poszczególnym przedziałom określonym w procentach, według następującego wzoru: S=W ×M +W ×M +W ×M +W ×M +W ×M gdzie poszczególne symbole oznaczają: S kwotę rocznej subwencji, W liczby głosów kolejno obliczane dla każdego wiersza poniższej tabeli, podane odrębnie w wyniku rozbicia łącznej liczby głosów ważnych oddanych w skali kraju łącznie na listy okręgowe kandydatów na posłów danej partii politycznej albo koalicji wyborczej, odpowiednio do wyznaczonego w procentach przedziału, M wysokość kwoty w złotych dla kolejnych wierszy poniższej tabeli: Głosy ważne oddane w całym kraju łącznie na listy okręgowe Wysokość kwoty kandydatów na posłów danej partii politycznej albo koalicji za jeden głos (M) Wiersz wyborczej w rozbiciu odpowiednio dla każdego przedziału procent liczba głosów (W) 1 do 5% 5 złotych 77 groszy 2 powyżej 5% do 10% 4 złote 61 groszy 3 powyżej 10% do 20% 4 złote 4 grosze 4 powyżej 20% do 30% 2 złote 31 groszy 5 powyżej 30% 87 groszy
 
 2. Roczna subwencja, w kwocie ustalonej na podstawie ust. 1 i art. 28, jest każdego roku w okresie kadencji Sejmu wypłacana danej partii politycznej w czterech równych kwartalnych ratach, z zastrzeżeniem art. 32.
 
@@ -462,7 +476,14 @@ Art. 60 i 61. (pominięte)
 
 **Art. 37.** Środki finansowe Funduszu Wyborczego partii politycznej:
 
+- **1)** w przypadku połączenia się z inną partią lub innymi partiami przekazywane są na rzecz Funduszu Wyborczego nowej partii;
+- **2)** w razie podziału partii przekazywane są na rzecz Funduszu Wyborczego nowo powstałych partii w częściach równych, chyba że partia rozwiązując się ustanowi inne proporcje podziału;
+- **3)** w razie likwidacji partii przekazywane są na rzecz instytucji charytatywnej.
+
 **Art. 37a.** Wszelkie wezwania i informacje pisemne dostarczane przez partię polityczną, mające na celu uzyskanie środków:
+
+- **1)** na wybory muszą zawierać informacje o treści przepisów art. 25, art. 36a, art. 49c pkt 3 oraz art. 49g pkt 2;
+- **2)** na referendum muszą zawierać informacje o treści przepisów art. 25 i art. 49c pkt 3.
 
 **Art. 38.**
 
@@ -552,6 +573,9 @@ Art. 60 i 61. (pominięte)
 
 **Art. 45.** Partia polityczna podlega likwidacji wskutek:
 
+- **1)** rozwiązania mocą uchwały uprawnionego statutowego organu partii;
+- **2)** postanowienia Sądu o wykreśleniu wpisu partii z ewidencji z przyczyn, o których mowa w art. 20, 21, 39 i 44.
+
 **Art. 46.**
 
 1. W razie rozwiązania się partii politycznej na podstawie własnej uchwały właściwy organ partii niezwłocznie przesyła Sądowi uchwałę o samorozwiązaniu partii oraz o wyznaczeniu jej likwidatora.
@@ -572,7 +596,15 @@ Art. 60 i 61. (pominięte)
 
 **Art. 49b.** Kto:
 
+- **1)** w imieniu partii politycznej użycza posiadane przez nią nieruchomości lub lokale z innym przeznaczeniem niż na biura poselskie, senatorskie lub biura radnych gminy, powiatu albo województwa,
+- **2)** narusza zasady określone w art. 24 ust. 8 dotyczące sposobu gromadzenia środków finansowych partii politycznej, podlega karze grzywny.
+
 **Art. 49c.** Kto:
+
+- **1)** przeznacza majątek partii politycznej na cele inne niż określone w art. 24 ust. 2,
+- **2)** w imieniu partii politycznej prowadzi działalność gospodarczą z naruszeniem przepisu art. 24 ust. 3,
+- **3)** przekazuje partii politycznej albo przyjmuje w imieniu partii politycznej środki finansowe lub wartości niepieniężne z naruszeniem przepisów art. 25,
+- **4)** dokonuje czynności skutkującej zmniejszeniem wartości zobowiązań partii politycznej będąc osobą inną aniżeli wymieniona w art. 25 ust. 1 i art. 25a ust. 1 lub z naruszeniem limitu wpłat, o którym mowa w art. 25 ust. 4, podlega grzywnie od 1000 do 100 000 złotych.
 
 **Art. 49d.** Kto nie wykonuje lub nie dopuszcza do wykonania obowiązku sporządzenia i złożenia informacji, o której mowa w art. 34 ust. 1, albo podaje w niej nieprawdziwe dane, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
@@ -580,7 +612,14 @@ Art. 60 i 61. (pominięte)
 
 **Art. 49f.** Kto:
 
+- **1)** wydatkuje środki partii politycznej w celu finansowania kampanii wyborczych bez pośrednictwa Funduszu Wyborczego,
+- **2)** nie wykonuje lub nie dopuszcza do wykonania obowiązku sporządzenia i złożenia sprawozdania, o którym mowa w art. 38, albo podaje w nim nieprawdziwe dane, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+
 **Art. 49g.** Kto:
+
+- **1)** narusza zasady określone w art. 36 ust. 3 dotyczące sposobu gromadzenia środków finansowych Funduszu Wyborczego,
+- **2)** dokonuje wpłat na Fundusz Wyborczy w wysokości przekraczającej limity określone w art. 36a ust. 1 lub 2,
+- **3)** nie wprowadza zastrzeżenia do umowy rachunku bankowego zawartej przez niego w imieniu Funduszu Wyborczego, że wpłaty na rzecz Funduszu Wyborczego mogą być dokonywane tylko w sposób określony w art. 36a ust. 3, podlega karze grzywny.
 
 **Art. 49h.** Do postępowania w sprawach, o których mowa w art. 49b oraz art. 49g, stosuje się przepisy o postępowaniu w sprawach o wykroczenia.
 

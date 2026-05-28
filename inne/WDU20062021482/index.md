@@ -8,12 +8,10 @@ pos: 1482
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o dotacji przeznaczonej dla przedsiębiorstwa państwowego Zakłady Chemiczne „Tarnowskie Góry” w Tarnowskich Górach w likwidacji
-
-*USTAWA z dnia 18 października 2006 r.*
+# Ustawa z dnia 18 października 2006 r. o dotacji przeznaczonej dla przedsiębiorstwa państwowego Zakłady Chemiczne „Tarnowskie Góry” w Tarnowskich Górach w likwidacji
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2006-10-18 |
 | Data wydania | 2006-11-08 |
+| Wejście w życie | 2006-11-08 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062021482) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1482/text.pdf) |
 
@@ -31,9 +30,23 @@ source: "isap-pdf"
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
-**Art. 3.** Dotację przeznacza się na dofinansowanie przedsięwzięcia „Ochrona Głównego Zbiornika Wód Podziemnych 330 - Gliwice, poprzez kompleksowe unieszkodliwienie odpadów wraz z rekultywacją terenów skażonych Zakładów Chemicznych „Tarnowskie Góry” w Tarnowskich Górach w likwidacji”, w zakresie:
+- **1)** dotacja – dotację w rozumieniu przepisów o finansach publicznych, która w przypadku gdy stanowi pomoc publiczną została uznana przez Komisję Europejską za zgodną z regułami wspólnego rynku;
+- **2)** zakład – przedsiębiorstwo państwowe Zakłady Chemiczne „Tarnowskie Góry” w Tarnowskich Górach w likwidacji.
+
+**Art. 3.** Dotację przeznacza się na dofinansowanie przedsięwzięcia „Ochrona Głównego Zbiornika Wód Podziemnych 330 – Gliwice, poprzez kompleksowe unieszkodliwienie odpadów wraz z rekultywacją terenów skażonych Zakładów Chemicznych „Tarnowskie Góry” w Tarnowskich Górach w likwidacji”, w zakresie:
+
+- **1)** naprawiania szkód w środowisku wyrządzonych działalnością zakładu, poprzez: usuwanie, transport i umieszczenie w Centralnym Składowisku Odpadów należącym do zakładu odpadów zalegających na terenie i w rejonie zakładu, wypełnienie niecek powstałych po usuniętych odpadach oraz rekultywację terenów, o których mowa w lit. a;
+    - **a)**
+    - **b)**
+
+- **2)** wykonania działań zabezpieczających istniejącą infrastrukturę techniczną i środowisko w czasie realizacji zadań określonych w pkt 1, poprzez: utrzymywanie we właściwym stanie dróg kołowych i bocznicy kolejowej, zabezpieczenie gazociągu wysokociśnieniowego na czas wykonywanych prac.
+    - **a)**
+    - **b)**
 
 **Art. 4.** Dotację na wykonanie działań określonych w art. 3 przyznaje się na wniosek zakładu, w oparciu o zaakceptowany przez wojewodę śląskiego:
+
+- **1)** program likwidacji przedsiębiorstwa;
+- **2)** harmonogram rzeczowo-finansowy prac planowanych do wykonania.
 
 **Art. 5.**
 
@@ -47,7 +60,7 @@ source: "isap-pdf"
 
 **Art. 6.** Przyznana przez wojewodę śląskiego dotacja jest wypłacana w terminach określonych w umowie, o której mowa w art. 5 ust. 1, na specjalnie w tym celu wyodrębniony przez zakład, rachunek bankowy.
 
-**Art. 7.** Zakład przedstawia wojewodzie śląskiemu, do dnia 31 stycznia 2007 r., sprawozdanie z realizacji działań wykonanych w 2006 r. wraz z rozliczeniem rzeczowofinansowym.
+**Art. 7.** Zakład przedstawia wojewodzie śląskiemu, do dnia 31 stycznia 2007 r., sprawozdanie z realizacji działań wykonanych w 2006 r. wraz z rozliczeniem rzeczowo-finansowym.
 
 **Art. 8.** Dysponentem dotacji na wykonanie działań określonych w art. 3 jest wojewoda śląski.
 

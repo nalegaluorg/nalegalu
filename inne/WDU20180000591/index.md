@@ -8,10 +8,10 @@ pos: 591
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Warszawa, dnia 21 marca 2018 r.
+# Rozporządzenie Ministra Sprawiedliwościz dnia 7 marca 2018 r. w sprawie funkcji oraz sposobu ustalania dodatków funkcyjnych przysługujących sędziom
 
 | Pole | Wartość |
 |---|---|
@@ -22,8 +22,38 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-03-07 |
 | Data wydania | 2018-03-21 |
+| Wejście w życie | 2018-04-05 |
 | Ostatnia zmiana | 2026-02-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000591) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/591/text.pdf) |
 
-Lp. FUNKCJA MNOŻNIK obowiązków podsekretarza stanu 0,4−1,1 Ministerstwie prezes sądu apelacyjnego prezes sądu okręgowego obowiązków dyrektora departamentu lub biura Ministerstwie obowiązków dyrektora obowiązków dyrektora Instytutu Wymiaru funkcji poza granicami państwa koordynator spraw informatyzacji sądownictwa powszechnego 0,4−1,1 wiceprezes sądu apelacyjnego 0,35−0,8 wiceprezes sądu okręgowego obowiązków zastępcy dyrektora departamentu lub biura Ministerstwie obowiązków zastępcy dyrektora 4 rzecznik dyscyplinarny 0,8 5 prezes sądu rejonowego 0,3−0,55 odwoławczej izby morskiej przy okręgowym izby morskiej przy okręgowym apelacyjnym kierownik ośrodka zamiejscowego prowadzenia zajęć szkoleniowych Szkole 6 obowiązków wizytatora Ministerstwie wizytator apelacyjnym wizytator okręgowym pełnomocnik apelacyjnym spraw wdrożeń systemów informatycznych pełnomocnik okręgowym spraw wdrożeń systemów 0,25−0,5 informatycznych wiceprzewodniczący odwoławczej izby morskiej przy okręgowym wiceprzewodniczący izby morskiej przy okręgowym zastępca przewodniczącego apelacyjnym zastępca przewodniczącego okręgowym czynności Biurze Rady czynności Instytucie Pamięci Narodowej − Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu wykonywania pracy Radzie Programowej obowiązków kierownika działu albo sekcji Szkole koordynator spraw współpracy międzynarodowej praw człowieka sprawach cywilnych 7 wiceprezes sądu rejonowego 0,2 zastępca rzecznika dyscyplinarnego obowiązków głównego specjalisty Ministerstwie obowiązków głównego specjalisty Szkole − 0,45 rzecznik prasowy koordynator spraw współpracy międzynarodowej praw człowieka sprawach karnych 9 kierownik sekcji rejonowym 0,15−0,35 zastępca przewodniczącego rejonowym wizytujący zakłady dla nieletnich zakłady lecznicze osób z zaburzeniami psychicznymi 10 koordynator spraw mediacji 0,1−0,3
+Treść rozporządzenia
+Załącznik – Tabela funkcji oraz mnożników do ustalania wysokości dodatku funkcyjnego
+Treść rozporządzenia
+Na podstawie art. 91 § 8 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2018 r. poz. 23, 3, 5, 106 i 138) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa funkcje, z tytułu pełnienia których przysługują sędziom dodatki funkcyjne, oraz sposób ustalania tych dodatków.
+§ 2.
+1.
+Wysokość dodatku funkcyjnego ustala się z zastosowaniem mnożników podstawy ustalenia wynagrodzenia zasadniczego sędziego, o której mowa w art. 91 § 1c ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych.
+2.
+Kwotę dodatku funkcyjnego zaokrągla się w górę do pełnych złotych w ten sposób, że końcówki kwot wynoszące mniej niż 50 groszy pomija się, natomiast końcówki kwot wynoszące 50 i więcej groszy podwyższa się do pełnych złotych.
+3.
+Tabela funkcji oraz mnożników służących do ustalania wysokości dodatków funkcyjnych jest określona w załączniku do rozporządzenia.
+§ 3.
+1.
+Przy ustalaniu wysokości dodatku funkcyjnego przysługującego sędziemu z tytułu pełnienia funkcji prezesa sądu, wiceprezesa sądu, kierownika ośrodka zamiejscowego sądu, przewodniczącego i zastępcy przewodniczącego wydziału oraz kierownika sekcji uwzględnia się liczbę stanowisk sędziowskich, asesorskich i referendarskich, odpowiednio, w sądzie, ośrodku, wydziale albo sekcji, w których funkcja została powierzona.
+2.
+Przy ustalaniu wysokości dodatku funkcyjnego przysługującego sędziemu z tytułu pełnienia funkcji zastępcy rzecznika dyscyplinarnego oraz rzecznika prasowego przepis ust. 1 stosuje się odpowiednio.
+§ 4.
+W przypadku powierzenia sędziemu pełnienia funkcji innej niż wymienione w § 3, przy ustalaniu wysokości dodatku funkcyjnego uwzględnia się zakres obowiązków związanych z powierzoną funkcją.
+§ 5.
+W przypadku pełnienia więcej niż jednej funkcji sędziemu przysługuje jeden dodatek funkcyjny, najwyższy spośród dodatków przysługujących z tytułu pełnienia poszczególnych funkcji i ustalonych według zasad wskazanych w § 2–4. Dodatek ten może zostać podwyższony o 10–50% z zastosowaniem zasad określonych w § 3 ust. 1 lub § 4.
+§ 6.
+W zakresie ustalania funkcji, z tytułu pełnienia których przysługują dodatki funkcyjne, oraz sposobu ustalania tych dodatków przepisy rozporządzenia mają zastosowanie od dnia 12 sierpnia 2017 r.
+§ 7.
+Traci moc rozporządzenie Ministra Sprawiedliwości z dnia 23 czerwca 2009 r. w sprawie funkcji oraz sposobu ustalania dodatków funkcyjnych przysługujących sędziom (Dz. U. z 2013 r. poz. 151).
+§ 8.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Załącznik – Tabela funkcji oraz mnożników do ustalania wysokości dodatku funkcyjnego
+Lp. FUNKCJA MNOŻNIK 1 2 3 1 sędzia delegowany do pełnienia obowiązków podsekretarza stanu w Ministerstwie Sprawiedliwości 0,4–1,1 2 prezes sądu apelacyjnegoprezes sądu okręgowegosędzia delegowany do pełnienia obowiązków dyrektora departamentu lubbiura w Ministerstwie Sprawiedliwościsędzia delegowany do pełnienia obowiązków dyrektora Krajowej SzkołySądownictwa i Prokuraturysędzia delegowany do pełnienia obowiązków dyrektora InstytutuWymiaru Sprawiedliwościsędzia delegowany do pełnienia funkcji poza granicami państwakoordynator do spraw informatyzacji sądownictwa powszechnego 0,4–1,1 3 wiceprezes sądu apelacyjnegowiceprezes sądu okręgowegosędzia delegowany do pełnienia obowiązków zastępcy dyrektoradepartamentu lub biura w Ministerstwie Sprawiedliwościsędzia delegowany do pełnienia obowiązków zastępcy dyrektoraKrajowej Szkoły Sądownictwa i Prokuratury 0,35–0,8 4 rzecznik dyscyplinarny 0,8 5 prezes sądu rejonowegoprzewodniczący odwoławczej izby morskiej przy sądzie okręgowymprzewodniczący izby morskiej przy sądzie okręgowymprzewodniczący wydziału w sądzie apelacyjnymkierownik ośrodka zamiejscowegoprzewodniczący wydziału w sądzie okręgowymsędzia delegowany do pełnienia obowiązków naczelnika wydziałuw Ministerstwie Sprawiedliwościsędzia delegowany do prowadzenia zajęć szkoleniowych w KrajowejSzkole Sądownictwa i Prokuratury 0,3–0,55 6 sędzia delegowany do pełnienia obowiązków wizytatora w MinisterstwieSprawiedliwościwizytator w sądzie apelacyjnymwizytator w sądzie okręgowympełnomocnik w sądzie apelacyjnym do spraw wdrożeń systemówinformatycznychpełnomocnik w sądzie okręgowym do spraw wdrożeń systemówinformatycznychwiceprzewodniczący odwoławczej izby morskiej przy sądzie okręgowymwiceprzewodniczący izby morskiej przy sądzie okręgowymzastępca przewodniczącego wydziału w sądzie apelacyjnymzastępca przewodniczącego wydziału w sądzie okręgowymsędzia delegowany do pełnienia czynności w Biurze Krajowej RadySądownictwasędzia delegowany do pełnienia czynności w Instytucie PamięciNarodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemusędzia delegowany do wykonywania pracy w Radzie ProgramowejKrajowej Szkoły Sądownictwa i Prokuraturysędzia delegowany do pełnienia obowiązków kierownika działu albosekcji w Krajowej Szkole Sądownictwa i Prokuraturykoordynator do spraw współpracy międzynarodowej i praw człowiekaw sprawach cywilnych 0,25–0,5 7 wiceprezes sądu rejonowegozastępca rzecznika dyscyplinarnegosędzia delegowany do pełnienia obowiązków głównego specjalistyw Ministerstwie Sprawiedliwościsędzia delegowany do pełnienia obowiązków głównego specjalistyw Krajowej Szkole Sądownictwa i Prokuratury 0,2–0,45 8 przewodniczący wydziału w sądzie rejonowymkierownik sekcji w sądzie apelacyjnymkierownik sekcji w sądzie okręgowymrzecznik prasowykoordynator do spraw współpracy międzynarodowej i praw człowiekaw sprawach karnych 0,2–0,4 9 kierownik sekcji w sądzie rejonowym zastępca przewodniczącego wydziału w sądzie rejonowym sędzia wizytujący zakłady dla nieletnich i zakłady lecznicze osób z zaburzeniami psychicznymi 0,15–0,35 10 koordynator do spraw mediacji 0,1–0,3
 

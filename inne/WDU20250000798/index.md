@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy opiece nad dziećmi wieku do lat 3
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 czerwca 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 czerwca 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-06-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000798) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/798/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 czerwca 2025 r.
+sprawie ogłoszenia jednolitego tekstu ustawy opiece nad dziećmi wieku do lat 3
 1. Na podstawie 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 4 lutego 2011 r. opiece nad dziećmi wieku do lat 3 (Dz. U. z 2024 r. poz. 338), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 26 kwietnia 2024 r. zmianie ustawy pomocy społecznej oraz niektórych innych ustaw (Dz. U. poz. 743),
 2) ustawą z dnia 15 maja 2024 r. wspieraniu rodziców aktywności zawodowej oraz wychowaniu dziecka „Aktywny rodzic” (Dz. U. poz. 858),
@@ -39,7 +39,7 @@ poz. 743), który stanowi: „Art. 4. Ustawa wchodzi życie po upływie 14 dni o
 3. Dofinansowanie, którym 64c ust. 1 ustawy zmienianej 68, brzmieniu dotychczasowym, nie przysługuje, jeżeli na to samo dziecko, za dany miesiąc, zostało przyznane prawo do świadczeń „aktywny rodzic”.
 4. Świadczenia „aktywny rodzic” nie przysługują, jeżeli na to samo dziecko, za dany miesiąc, zostało przyznane prawo do dofinansowania, którym 64c ust. 1 ustawy zmienianej 68, brzmieniu dotychczasowym, z uwzględnieniem ust. 5.
 5. W przypadku złożenia wniosku ustalenie prawa do świadczenia „aktywnie żłobku” terminie 3 miesięcy od dnia wejścia życie niniejszej prawo do świadczenia „aktywnie żłobku” ustala się, począwszy od miesiąca wejścia życie niniejszej ustawy. Przepisy 47 ust. 2–4 stosuje się.
-6. W przypadku osób, które nabyły prawo do świadczenia „aktywny rodzic” za okres, za który zostało wypłacone dofinansowanie, którym 64c ust. 1 ustawy zmienianej 68, brzmieniu dotychczasowym, albo prawo do rodzinnego kapitału opiekuńczego, którym ustawie uchylanej 87, świadczenie „aktywny rodzic” rozlicza się poprzez zaliczenie odpowiednio wypłaconego dofinansowania, którym 64c ust. 1 ustawy zmienianej 68, brzmieniu dotychczasowym, albo rodzinnego kapitału opiekuńczego, którym ustawie uchylanej 87, poczet przyznanego świadczenia „aktywny rodzic”. Rozliczenie nie wymaga wydania decyzji nienależnie pobranym świadczeniu.
+dofinansowanie, którym 64c ust. 1 ustawy zmienianej 68, brzmieniu dotychczasowym, albo prawo do rodzinnego kapitału opiekuńczego, którym ustawie uchylanej 87, świadczenie „aktywny rodzic” rozlicza się poprzez zaliczenie odpowiednio wypłaconego dofinansowania, którym 64c ust. 1 ustawy zmienianej 68, brzmieniu dotychczasowym, albo rodzinnego kapitału opiekuńczego, którym ustawie uchylanej 87, poczet przyznanego świadczenia „aktywny rodzic”. Rozliczenie nie wymaga wydania decyzji nienależnie pobranym świadczeniu.
 7. Osoby, którym zostało przyznane prawo do rodzinnego kapitału opiekuńczego, którym ustawie uchylanej 87, zachowują prawo do tego kapitału, jeżeli spełniają dotychczasowe warunki określone ustawie uchylanej 87.
 8. W sprawach dotyczących rodzinnego kapitału opiekuńczego, którym ustawie uchylanej 87, do którego prawo powstało do dnia poprzedzającego dzień wejścia życie niniejszej stosuje się przepisy dotychczasowe.
 9. Rodzinny kapitał opiekuńczy, którym ustawie uchylanej 87, nie przysługuje, jeżeli na to samo dziecko, za dany miesiąc, zostało przyznane prawo do świadczeń „aktywny rodzic”.
@@ -67,13 +67,8 @@ poz. 743), który stanowi: „Art. 4. Ustawa wchodzi życie po upływie 14 dni o
 
 2. Od wniosku, którym ust. 1, nie pobiera się opłaty.
 
-3. Wójt, burmistrz lub prezydent miasta prowadzący wykaz, którym 36 ust. 1a ustawy zmienianej 68, jest obowiązany do dnia 31 marca 2026 r. do uzupełnienia danych zawartych tym wykazie dane, których 46 ust. 2 7a ustawy zmienianej 68.
+3. Wójt, burmistrz lub prezydent miasta prowadzący wykaz, którym 36 ust. 1a ustawy zmienianej 68, jest obowiązany do dnia 31 marca 2026 r. do uzupełnienia danych zawartych tym wykazie dane, któ1) ogłoszone przed dniem wejścia życie niniejszego przepisu programy, których 62 ust. 1 ustawy zmienianej 68, mogą być dofinansowane ze środków na finansowanie planu rozwojowego, których 14ln ust. 1 ustawy z dnia 6 grudnia 2006 r. zasadach prowadzenia polityki rozwoju (Dz. U. z 2024 r. poz. 324);
 
-**Art. 78.**
-
-1. Uznaje się, że od dnia 19 stycznia 2023 r.:
-
-- **1)** ogłoszone przed dniem wejścia życie niniejszego przepisu programy, których 62 ust. 1 ustawy zmienianej 68, mogą być dofinansowane ze środków na finansowanie planu rozwojowego, których 14ln ust. 1 ustawy z dnia 6 grudnia 2006 r. zasadach prowadzenia polityki rozwoju (Dz. U. z 2024 r. poz. 324);
 - **2)** przyznanie środków finansowych, których 1, ramach realizacji programów, których 1, mogą ubiegać się podmioty, których 8 ust. 1 ustawy zmienianej 68, które nie figurują rejestrze podmiotów wykluczonych z możliwości otrzymania środków przeznaczonych na realizację programów finansowanych z udziałem środków europejskich, którym 210 ust. 1 ustawy zmienianej 67;
 - **3)** wojewoda może przyznawać dofinansowanie do wysokości łącznej kwoty wydatków określonych ministra właściwego do spraw rodziny na cały okres realizacji programów, których 1;
 - **4)** do terminu zwrotu środków, których 62 ust. 1a 3 ustawy zmienianej 68, stosuje się odpowiednio przepisy wydane na podstawie 189 ust. 4 ustawy zmienianej 67.
@@ -94,9 +89,21 @@ poz. 743), który stanowi: „Art. 4. Ustawa wchodzi życie po upływie 14 dni o
 
 **Art. 84.** Wysokość kosztu, którym 15 ust. 4, na okres od dnia 1 października 2024 r. do dnia 31 marca 2025 r., wynosi 2200 zł.” „Art. 86. Dotychczasowe przepisy wykonawcze wydane na podstawie 6c ustawy zmienianej 68, brzmieniu dotychczasowym, zachowują moc do dnia wydania przepisów wykonawczych na podstawie 6c ustawy zmienianej 68, brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż okres 24 miesięcy od dnia wejścia życie niniejszej ustawy.” „Art. 88. Ustawa wchodzi życie z dniem 1 października 2024 r., z wyjątkiem:
 
+- **1)** 5, 55 ust. 4–7, 18 i 19, 75 ust. 14 i 78–81, które wchodzą życie z dniem następującym po dniu ogłoszenia;
+- **4)** 4, 15 lit. b, 16 lit. b, 17 lit. a i 18 lit. d oraz 83, które wchodzą życie z dniem 1 stycznia 2026 r.”;
+- **3)** 461 ustawy z dnia 20 marca 2025 r. rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), który stanowi: „Art. 461. Ustawa wchodzi życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+- **1)** 392 2 lit. b oraz 458, które wchodzą życie z dniem następującym po dniu ogłoszenia;
+- **2)** 106, 128 ust. 2, 203 oraz 300 ust. 3 11, które wchodzą życie z dniem 1 stycznia 2026 r.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 4 lutego 2011 r. opiece nad dziećmi wieku do lat 3
+
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
+
+- **1)** zasady organizowania i funkcjonowania opieki nad dziećmi wieku do lat 3;
+- **2)** warunki świadczonych usług;
+- **3)** kwalifikacje osób sprawujących opiekę;
+- **4)** zasady finansowania opieki;
+- **5)** nadzór nad warunkami i jakością sprawowanej opieki.
 
 **Art. 2.**
 
@@ -124,9 +131,15 @@ poz. 743), który stanowi: „Art. 4. Ustawa wchodzi życie po upływie 14 dni o
 - **6)** dane stanie zdrowia, stosowanej diecie i rozwoju psychofizycznym dziecka;
 - **7)** dane wysokości dochodów rodziców przypadku ubiegania się rodziców częściowe lub całkowite zwolnienie z opłat, jeżeli zwolnienie to jest uzależnione od wysokości dochodów.
 
-2. Podmiot prowadzący żłobek lub klub dziecięcy, podmiot zatrudniający dziennego opiekuna oraz dzienny opiekun prowadzący działalność na własny rachunek przetwarzają dane, których ust. 1, wyłącznie związku z rekrutacją oraz zakresie i celu zapewnienia dziecku prawidłowej opieki, oraz celu realizacji Zakład Ubezpieczeń Społecznych świadczenia „aktywnie żłobku”, którym ustawie z dnia 15 maja 2024 r. wspieraniu rodziców aktywności zawodowej oraz wychowaniu dziecka „Aktywny rodzic” (Dz. U. poz. 858 oraz z 2025 r. poz. 619). i chorób zakaźnych u ludzi (Dz. U. z 2024 r. poz. 924 i 1897).
+2. Podmiot prowadzący żłobek lub klub dziecięcy, podmiot zatrudniający dziennego opiekuna oraz dzienny opiekun prowadzący działalność na własny rachunek przetwarzają dane, których ust. 1, wyłącznie związku z rekrutacją oraz zakresie i celu zapewnienia dziecku prawidłowej opieki, oraz celu realizacji Zakład Ubezpieczeń Społecznych świadczenia „aktywnie żłobku”, którym ustawie z dnia 15 maja 2024 r. wspieraniu rodziców aktywności zawodowej oraz wychowaniu dziecka „Aktywny rodzic” (Dz. U. poz. 858 oraz z 2025 r. poz. 619). badaniom sanitarno-epidemiologicznym zgodnie z ustawą z dnia 5 grudnia 2008 r. zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2024 r. poz. 924 i 1897).
 
 **Art. 5.** Minister właściwy do spraw rodziny:
+
+- **1)** monitoruje proces realizacji ustawy;
+- **2)** upowszechnia informacje formach opieki nad dzieckiem wieku do lat 3;
+- **2a)** podejmuje działania zmierzające do zapewnienia właściwych warunków i jakości świadczonej opieki nad dziećmi wieku do lat 3, szczególności mające na celu wsparcie wójta, burmistrza lub prezydenta miasta sprawowaniu tym zakresie nadzoru nad żłobkiem, klubem dziecięcym oraz dziennym opiekunem;
+- **3)** inspiruje badania, ekspertyzy i analizy dotyczące systemu opieki nad dzieckiem wieku do lat 3.
+- **4)** (uchylony)
 
 **Art. 6.** Rada Ministrów składa corocznie Sejmowi i Senatowi, terminie do dnia 30 września, sprawozdanie z realizacji ustawy.
 
@@ -162,7 +175,7 @@ poz. 743), który stanowi: „Art. 4. Ustawa wchodzi życie po upływie 14 dni o
 - **2)** osoby fizyczne;
 - **3)** osoby prawne i jednostki organizacyjne nieposiadające osobowości prawnej.
 
-2. Jednostki samorządu terytorialnego tworzą żłobki i kluby dziecięce formie samorządowych jednostek budżetowych.
+2. Jednostki samorządu terytorialnego tworzą żłobki i kluby dziecięce formie samorządowych jednostek budżetowych. instytucjach.
 
 2b. Do żłobka lub klubu dziecięcego prowadzonych instytucje publiczne mogą być przyjmowane dzieci inne niż dzieci pracowników zatrudnionych tych instytucjach, jeżeli żłobku lub klubie dziecięcym są wolne miejsca.
 
@@ -190,6 +203,10 @@ poz. 743), który stanowi: „Art. 4. Ustawa wchodzi życie po upływie 14 dni o
 
 **Art. 10.** Do zadań żłobka i klubu dziecięcego należy szczególności:
 
+- **1)** zapewnienie dziecku opieki warunkach bytowych zbliżonych do warunków domowych;
+- **2)** zagwarantowanie dziecku właściwej opieki pielęgnacyjnej oraz edukacyjnej, prowadzenie zajęć zabawowych z elementami edukacji, z uwzględnieniem indywidualnych potrzeb dziecka;
+- **3)** prowadzenie zajęć opiekuńczo-wychowawczych i edukacyjnych, uwzględniających rozwój psychomotoryczny dziecka, właściwych do wieku dziecka.
+
 **Art. 11.**
 
 1. Żłobek i klub dziecięcy działa na podstawie statutu.
@@ -207,7 +224,7 @@ poz. 743), który stanowi: „Art. 4. Ustawa wchodzi życie po upływie 14 dni o
 
 1. Godziny pracy żłobka lub klubu dziecięcego ustala się regulaminie organizacyjnym, którym 21, biorąc pod uwagę opinie rodziców.
 
-2. W żłobku i klubie dziecięcym zapewnia się opiekę nad dzieckiem wymiarze do 10 godzin dziennie względem każdego dziecka.
+2. W żłobku i klubie dziecięcym zapewnia się opiekę nad dzieckiem wymiarze do 10 godzin dziennie względem każdego dziecka. rodzica dziecka, wydłużony, za dodatkową opłatą.
 
 4. (uchylony)
 
@@ -254,7 +271,7 @@ poz. 743), który stanowi: „Art. 4. Ustawa wchodzi życie po upływie 14 dni o
 2. Jeden opiekun może sprawować opiekę:
 
 - **1)** żłobku nad maksymalnie ośmiorgiem dzieci, a przypadku gdy grupie znajduje się dziecko niepełnosprawne, dziecko wymagające szczególnej opieki lub dziecko, które nie ukończyło pierwszego roku życia maksymalnie nad pięciorgiem dzieci;
-- **2)** klubie dziecięcym nad maksymalnie ośmiorgiem dzieci, a przypadku gdy grupie znajduje się dziecko niepełnosprawne lub dziecko wymagające szczególnej opieki maksymalnie nad pięciorgiem dzieci.
+- **2)** klubie dziecięcym nad maksymalnie ośmiorgiem dzieci, a przypadku gdy grupie znajduje się dziecko niepełnosprawne lub dziecko wymagające szczególnej opieki maksymalnie nad pięciorgiem dzieci. położną.
 
 4. Dyrektorem żłobka, osobą kierującą pracą klubu dziecięcego, osobą, 8 ust. 1 2, opiekunem, pielęgniarką, położną, wolontariuszem lub inną osobą zatrudnioną do wykonywania pracy lub świadczenia usług żłobku lub klubie dziecięcym nie może być osoba, która figuruje bazie danych Rejestru Sprawców Przestępstw na Tle Seksualnym z dostępem ograniczonym lub została skazana prawomocnym wyrokiem za inne przestępstwo umyślne.
 
@@ -289,6 +306,11 @@ poz. 743), który stanowi: „Art. 4. Ustawa wchodzi życie po upływie 14 dni o
 3. W przypadku gdy wolontariusz posiada kwalifikacje, których 16, przepisów ust. 2 nie stosuje się.
 
 **Art. 18.** Dyrektorem żłobka, osobą kierującą pracą klubu dziecięcego oraz osobą, 8 ust. 1 2, opiekunem, pielęgniarką, położną oraz wolontariuszem żłobku lub klubie dziecięcym może być osoba, która:
+
+- **1)** daje rękojmię należytego sprawowania opieki nad dziećmi;
+- **2)** nie jest i nie była pozbawiona władzy rodzicielskiej oraz władza rodzicielska nie została jej zawieszona ani ograniczona;
+- **3)** wypełnia obowiązek alimentacyjny, przypadku gdy taki obowiązek został nałożony na podstawie tytułu wykonawczego pochodzącego lub zatwierdzonego sąd;
+- **4)** nie została skazana prawomocnym wyrokiem za przestępstwo umyślne.
 
 **Art. 18a.**
 
@@ -391,7 +413,7 @@ poz. 743), który stanowi: „Art. 4. Ustawa wchodzi życie po upływie 14 dni o
 
 5. Adres będącego osobą fizyczną podmiotu prowadzącego żłobek lub klub dziecięcy, jeżeli jest inny niż adres prowadzenia tę osobę żłobka lub klubu dziecięcego, informacja spełnianiu poszczególnych fakultatywnych standardów opieki określonych przepisach wydanych na podstawie 6c oraz dane i informacje, których ust. 4 11–13, nie podlegają ujawnieniu na stronach podmiotowych gminy prowadzącej rejestr i ministra właściwego do spraw rodziny.
 
-6. Informacje, których ust. 4, są przetwarzane ministra właściwego do spraw rodziny celu umożliwienia prowadzenia rejestru, monitorowania spełniania żłobki i kluby dziecięce standardów opieki określonych przepisach wydanych na podstawie 6c oraz umożliwienia uzyskania rodziców świadczenia „aktywni rodzice pracy” lub świadczenia „aktywnie żłobku”, których ustawie z dnia 15 maja 2024 r. wspieraniu rodziców aktywności zawodowej oraz wychowaniu dziecka „Aktywny rodzic”, realizacji prawa do tych świadczeń Zakład Ubezpieczeń Społecznych, a także monitorowania realizacji tego prawa.
+6. Informacje, których ust. 4, są przetwarzane ministra właściwego do spraw rodziny celu umożliwienia prowadzenia rejestru, monitorowania spełniania żłobki i kluby dziecięce standardów opieki określonych przepisach wydanych na podstawie 6c oraz umożliwienia uzyskania rodziców świadczenia „aktywni rodzice pracy” lub świadczenia „aktywnie żłobku”, których ustawie z dnia 15 maja 2024 r. wspieraniu rodziców aktywności zawodowej oraz wychowaniu dziecka „Aktywny rodzic”, realizacji prawa do tych świadczeń Zakład Ubezpieczeń Społecznych, a także monitorowania realizacji tego prawa. złożonego podmiot zamierzający prowadzić żłobek lub klub dziecięcy. Wniosek zawiera:
 
 - **1)** przypadku osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej numer lub indeks identyfikujący podmiot we właściwym rejestrze publicznym, potwierdzający status podmiotu;
 - **2)** numer NIP, ile wnioskodawcy taki numer nadano;
@@ -442,7 +464,18 @@ poz. 743), który stanowi: „Art. 4. Ustawa wchodzi życie po upływie 14 dni o
 
 **Art. 31.** Wójt, burmistrz lub prezydent miasta odmawia wpisu do rejestru, przypadku gdy:
 
+- **1)** podmiot nie spełnia warunków wymaganych do utworzenia i prowadzenia żłobka lub klubu dziecięcego;
+- **2)** wydano prawomocne orzeczenie zakazujące przedsiębiorcy wykonywania działalności gospodarczej objętej wpisem;
+- **3)** stosunku do przedsiębiorcy wydano decyzję zakazie wykonywania działalności objętej wpisem, okresie 3 lat poprzedzających złożenie wniosku.
+
 **Art. 32.** Wykreślenie z rejestru następuje przypadku:
+
+- **1)** złożenia podmiot wpisany do rejestru wniosku wykreślenie;
+- **2)** nieusunięcia podmiot, wyznaczonym terminie, nieprawidłowości zakresie prowadzenia żłobka lub klubu dziecięcego;
+- **3)** przekazania we wniosku oraz dołączonych do niego dokumentach, których 28, informacji niezgodnych ze stanem faktycznym;
+- **4)** wydania prawomocnego orzeczenia zakazującego przedsiębiorcy wykonywania działalności gospodarczej objętej wpisem;
+- **5)** (uchylony)
+- **6)** uzyskania organ prowadzący rejestr informacji z Centralnej Ewidencji i Informacji Działalności Gospodarczej albo Krajowego Rejestru Sądowego wykreśleniu przedsiębiorcy.
 
 **Art. 32a.** Wraz z wykreśleniem z rejestru z przyczyn, których 32 2 lub 3, wójt, burmistrz lub prezydent miasta może wydać decyzję zakazie wykonywania przedsiębiorcę działalności objętej wpisem, mając na uwadze skalę, zakres oraz powtarzalność naruszeń.
 
@@ -680,6 +713,11 @@ poz. 743), który stanowi: „Art. 4. Ustawa wchodzi życie po upływie 14 dni o
 
 **Art. 47a.** W przypadku zmiany danych lub informacji zawartych wykazie, podmiot zatrudniający dziennego opiekuna oraz osoba, 36 ust. 1 1, zobowiązani są do:
 
+- **1)** wystąpienia, terminie 14 dni od dnia zaistnienia zmian, do organu prowadzącego wykaz z wnioskiem zmianę danych lub informacji przypadku danych lub informacji, których 46 ust. 2 1–5;
+- **2)** dokonania zmian, za pośrednictwem systemu teleinformatycznego, którym 62a, terminie:
+    - **a)** 3 dni od dnia zaistnienia zmian przypadku danych lub informacji, których 46 ust. 2 6–8,
+    - **b)** 5 dni roboczych liczonych od pierwszego dnia danego miesiąca, według stanu na ostatni dzień poprzedzającego miesiąca przypadku danych lub informacji, których 46 ust. 2 9–12.
+
 **Art. 47b.**
 
 - **36)** 1. Podmiot zatrudniający dziennego opiekuna oraz osoba, 36 ust. 1 1, są obowiązani do obniżenia opłaty rodzica za pobyt dziecka u dziennego opiekuna kwotę otrzymanego świadczenia „aktywnie żłobku”, którym ustawie z dnia 15 maja 2024 r. wspieraniu rodziców aktywności zawodowej oraz wychowaniu dziecka „Aktywny rodzic”.
@@ -913,7 +951,7 @@ poz. 743), który stanowi: „Art. 4. Ustawa wchodzi życie po upływie 14 dni o
 
 - **1)** otrzymał płatność na podstawie przedstawionych jako autentyczne dokumentów podrobionych lub przerobionych lub dokumentów potwierdzających nieprawdę lub
 - **2)** nie zwrócił środków wraz z odsetkami terminie 14 dni od dnia upływu terminu, którym ust. 10, lub
-- **3)** okoliczności, których ust. 10, wystąpiły wskutek popełnienia przestępstwa podmiot upoważniony do dokonywania wydatków, a przypadku gdy podmiot ten nie jest osobą fizyczną osobę uprawnioną do wykonywania czynności imieniu podmiotu, przy czym fakt popełnienia przestępstwa wyżej wymieniony podmiot został potwierdzony prawomocnym wyrokiem sądowym.
+- **3)** okoliczności, których ust. 10, wystąpiły wskutek popełnienia przestępstwa podmiot upoważniony do dokonywania wydatków, a przypadku gdy podmiot ten nie jest osobą fizyczną osobę uprawnioną do wykonywania czynności imieniu podmiotu, przy czym fakt popełnienia przestępstwa wyżej wymieniony podmiot został potwierdzony prawomocnym wyrokiem sądowym. 27 sierpnia 2009 r. finansach publicznych.
 
 15. Do spraw dotyczących należności z tytułu zwrotu środków, których ust. 1a, przeznaczonych na realizację programów, których ust. 1, oraz innych należności związanych z realizacją tych programów, a także odsetek od tych środków i od tych należności, zakresie nieuregulowanym niniejszej ustawie stosuje się:
 
@@ -960,7 +998,7 @@ poz. 743), który stanowi: „Art. 4. Ustawa wchodzi życie po upływie 14 dni o
 
 - **59)** 1. Minister właściwy do spraw rodziny może opracowywać resortowe oraz rządowe programy dofinansowania zadań z zakresu organizacji opieki nad dziećmi wieku do lat 3.
 
-2. Programy, których ust. 1, kieruje się szczególności do jednostek samorządu terytorialnego.
+2. Programy, których ust. 1, kieruje się szczególności do jednostek samorządu terytorialnego. Funduszu Pracy.
 
 4. Do udzielania dotacji celowych z budżetu państwa na realizację zadań, których ust. 1, nie stosuje się przepisu 128 ust. 2 ustawy z dnia 27 sierpnia 2009 r. finansach publicznych.
 
@@ -1081,7 +1119,7 @@ poz. 743), który stanowi: „Art. 4. Ustawa wchodzi życie po upływie 14 dni o
 2. Do pracowników żłobków zatrudnionych do dnia wejścia życie ustawy w:
 
 - **1)** publicznych zakładach opieki zdrowotnej, stosuje się przepisy pracownikach samorządowych;
-- **2)** niepublicznych zakładach opieki zdrowotnej, stosuje się przepisy Kodeksu pracy.
+- **2)** niepublicznych zakładach opieki zdrowotnej, stosuje się przepisy Kodeksu pracy. zane do odbycia szkoleń, których niniejszej ustawie.
 
 4. Osoby zatrudnione do opieki żłobkach, działających na podstawie przepisów dotychczasowych, nieposiadające średniego wykształcenia, a pozostające zatrudnieniu dniu wejścia życie niniejszej są zobowiązane do jego uzupełnienia okresie 3 lat od dnia wejścia życie tej ustawy.
 
@@ -1092,4 +1130,10 @@ poz. 743), który stanowi: „Art. 4. Ustawa wchodzi życie po upływie 14 dni o
 #### Rozdział 11 Przepis końcowy
 
 **Art. 79.** Ustawa wchodzi życie po upływie miesiąca od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** 6, który wchodzi życie z dniem 1 stycznia 2013 r.;
+- **2)** 50–53 i 70–73, które wchodzą życie pierwszego dnia miesiąca następującego po upływie 6 miesięcy od dnia ogłoszenia;
+- **3)** 62 i 63, które wchodzą życie z dniem ogłoszenia;
+- **4)** 64 ust. 2, który wchodzi życie po upływie 12 miesięcy od dnia wejścia życie ustawy.
+
 

@@ -8,10 +8,10 @@ pos: 1286
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie uchyleniu niektórych upoważnień wydawania aktów wykonawczych zakresu ochrony środowiska gospodarki wodnej
+# Ustawa z dnia 24 sierpnia 2007 r. o zmianie i uchyleniu niektórych upoważnień do wydawania aktów wykonawczych z zakresu ochrony środowiska i gospodarki wodnej
 
 | Pole | Wartość |
 |---|---|
@@ -22,16 +22,102 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2007-08-24 |
 | Data wydania | 2007-10-01 |
+| Wejście w życie | 2007-10-16 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071811286) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1286/text.pdf) |
 
-**Art. 1.** W ustawie dnia 28 września 1991 o lasach (Dz.U. 2005 45, 435, późn. zm. ) 38d uchyla ust. 2.
+**Art. 1.** W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2005 r. Nr 45, poz. 435, z późn. zm.) w art. 38d uchyla się ust. 2.
 
-**Art. 2.** W ustawie dnia 27 kwietnia 2001 – Prawo ochrony środowiska (Dz.U. 2006 129, 902, późn. zm. ) wprowadza następujące zmiany:
+**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2006 r. Nr 129, poz. 902, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie dnia 18 lipca 2001 – Prawo wodne (Dz.U. 2005 239, 2019, późn. zm. ) wprowadza następujące zmiany:
+- **1)** w art. 24a w ust. 3 uchyla się pkt 2;
+- **2)** w art. 286a: ust. 5 otrzymuje brzmienie: „
+    - **a)**
 
-**Art. 4.** W ustawie dnia 16 kwietnia 2004 o ochronie przyrody (Dz.U. 92, 880, późn. zm. ) wprowadza następujące zmiany:
+5. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, wzór raportu wojewódzkiego zawierający informacje o zakresie korzystania ze środowiska oraz sposób jego przekazywania. ” , w ust. 6 pkt 4 otrzymuje brzmienie: „
 
-**Art. 5.** Dotychczasowe przepisy wykonawcze wydane na podstawie 286a ust. 5 ustawy zmienianej 2 oraz 121 ustawy zmienianej 3 zachowują moc dnia wejścia życie przepisów wykonawczych wydanych na podstawie 286a ust. 5 ustawy zmienianej 2 oraz 121 ustawy zmienianej 3, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 2 lata od dnia wejścia życie niniejszej ustawy.
+- **b)**
+- **4)** wymagane techniki i termin przekazywania raportu. ” .
+
+**Art. 3.** W ustawie z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2005 r. Nr 239, poz. 2019, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 38a: ust. 2 i 3 otrzymują brzmienie: „
+    - **a)**
+
+2. Minister właściwy do spraw gospodarki wodnej w porozumieniu z ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia:
+
+- **1)** elementy jakości dla klasyfikacji: stanu ekologicznego jednolitych części wód powierzchniowych w ciekach naturalnych, jeziorach i innych naturalnych zbiornikach wodnych, wodach przejściowych oraz wodach przybrzeżnych, potencjału ekologicznego sztucznych jednolitych części wód powierzchniowych i silnie zmienionych jednolitych części wód powierzchniowych;
+    - **a)**
+    - **b)**
+
+- **2)** definicje klasyfikacji: stanu ekologicznego jednolitych części wód powierzchniowych w ciekach naturalnych, jeziorach i innych naturalnych zbiornikach wodnych, wodach przejściowych oraz wodach przybrzeżnych, potencjału ekologicznego sztucznych jednolitych części wód powierzchniowych i silnie zmienionych jednolitych części wód powierzchniowych, stanu chemicznego jednolitych części wód powierzchniowych;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **3)** typy wód powierzchniowych, z podziałem na kategorie tych wód.
+
+3. Minister właściwy do spraw gospodarki wodnej w porozumieniu z ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia, sposób klasyfikacji stanu jednolitych części wód powierzchniowych, w tym:
+
+- **1)** sposób klasyfikacji: elementów fizykochemicznych, biologicznych i hydromorfologicznych, w oparciu o wchodzące w ich skład wskaźniki jakości, dla poszczególnych kategorii jednolitych części wód, uwzględniającą różne typy wód powierzchniowych, stanu ekologicznego jednolitych części wód powierzchniowych w ciekach naturalnych, jeziorach lub innych zbiornikach naturalnych, wodach przejściowych oraz wodach przybrzeżnych, uwzględniającą klasyfikację elementów, o których mowa w lit. a, potencjału ekologicznego sztucznych jednolitych części wód powierzchniowych i silnie zmienionych jednolitych części wód powierzchniowych, uwzględniającą klasyfikację elementów, o których mowa w lit. a, stanu chemicznego jednolitych części wód powierzchniowych;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **2)** sposób interpretacji wyników badań wskaźników jakości, o których mowa w pkt 1 lit. a;
+- **3)** sposób oceny stanu jednolitych części wód powierzchniowych;
+- **4)** sposób prezentacji wyników klasyfikacji: stanu ekologicznego jednolitych części wód powierzchniowych, o którym mowa w pkt 1 lit. b, potencjału ekologicznego jednolitych części wód powierzchniowych, o którym mowa w pkt 1 lit. c, stanu chemicznego jednolitych części wód powierzchniowych;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **5)** częstotliwość dokonywania: klasyfikacji poszczególnych elementów, o których mowa w pkt 1 lit. a, klasyfikacji stanu ekologicznego, potencjału ekologicznego i stanu chemicznego jednolitych części wód powierzchniowych. ” , uchyla się ust. 4, ust. 5 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **b)**
+    - **c)**
+
+5. Minister, wydając rozporządzenia, o których mowa w ust. 1 i 2, będzie się kierować istniejącym stanem rozpoznania procesów zachodzących w środowisku wodnym oraz dostępnymi wynikami pomiarów i badań. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
+
+- **d)**
+
+5a. Minister, wydając rozporządzenie, o którym mowa w ust. 3, będzie się kierować potrzebą uwzględnienia poszczególnych wskaźników jakości w systemie oceny stanu wód, istniejącym stanem rozpoznania procesów zachodzących w środowisku wodnym oraz dostępnymi wynikami pomiarów i badań. ” ;
+
+- **2)** art. 121 otrzymuje brzmienie: „
+
+**Art. 121.** Rada Ministrów, kierując się zasadami i potrzebami ochrony wód, określi, w drodze rozporządzenia, szczegółowy zakres opracowywania planów gospodarowania wodami na obszarach dorzeczy, w tym:
+
+- **1)** szczegółowy zakres informacji koniecznych do sporządzania planów oraz sposób ich wykorzystania i przetwarzania;
+- **2)** zakres identyfikacji znaczących oddziaływań antropogenicznych i oceny ich wpływu na stan wód powierzchniowych i podziemnych;
+- **3)** wymagania, jakie należy spełnić przy ustalaniu celów środowiskowych;
+- **4)** zakres analiz ekonomicznych związanych z korzystaniem z wód;
+- **5)** częstotliwość weryfikacji pozyskiwanych informacji i sporządzanych dokumentów. ” ;
+- **3)** w art. 155b ust. 1 otrzymuje brzmienie: „
+
+1. Minister właściwy do spraw gospodarki wodnej w porozumieniu z ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia, formy i sposób prowadzenia monitoringu jednolitych części wód powierzchniowych i podziemnych, w tym:
+
+- **1)** dla wód powierzchniowych: rodzaje monitoringu i cele ich ustanowienia, kryteria wyboru jednolitych części wód do monitorowania, rodzaje punktów pomiarowo-kontrolnych i kryteria ich wyznaczania, zakres i częstotliwość prowadzonych badań dla poszczególnych elementów klasyfikacji stanu ekologicznego i chemicznego jednolitych części wód w ciekach naturalnych, jeziorach i innych naturalnych zbiornikach wodnych, wodach przejściowych oraz wodach przybrzeżnych, z uwzględnieniem specyfiki poszczególnych typów wód, zakres prowadzonych badań dla poszczególnych elementów klasyfikacji potencjału ekologicznego i stanu chemicznego sztucznych jednolitych części wód powierzchniowych i silnie zmienionych jednolitych części wód powierzchniowych, metodyki referencyjne oraz warunki zapewnienia jakości pomiarów i badań;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+
+- **2)** dla wód podziemnych: rodzaje monitoringu i cele ich ustanowienia, kryteria wyboru jednolitych części wód do monitorowania, kryteria wyznaczania punktów pomiarowych, zakres i częstotliwość monitoringu, metodyki referencyjne oraz warunki zapewnienia jakości monitoringu. ” .
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+**Art. 4.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. Nr 92, poz. 880, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 62 uchyla się ust. 3;
+- **2)** w art. 80 uchyla się ust. 1.
+
+**Art. 5.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 286a ust. 5 ustawy zmienianej w art. 2 oraz art. 121 ustawy zmienianej w art. 3 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 286a ust. 5 ustawy zmienianej w art. 2 oraz art. 121 ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 2 lata od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

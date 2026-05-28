@@ -8,10 +8,10 @@ pos: 498
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 kwietnia 2016 r.
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 12 kwietnia 2016 r. w sprawie wymogów technicznych, jakie musi spełniać aplikacja do przesyłania informacji do Zintegrowanego Rejestru Kwalifikacji
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,18 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2016-04-12 |
 | Data wydania | 2016-04-13 |
+| Wejście w życie | 2016-04-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000498) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/498/text.pdf) |
 
-Poz. 498 ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ z dnia 12 kwietnia 2016 r.
-w sprawie wymogów technicznych, jakie musi spełniać aplikacja do przesyłania informacji do Zintegrowanego Rejestru Kwalifikacji Na podstawie art. 85 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2016 r.
-poz. 64) zarządza się, co następuje: § 1. Aplikacja do przesyłania informacji do Zintegrowanego Rejestru Kwalifikacji za pośrednictwem systemu teleinformatycznego spełnia następujące wymogi techniczne:
-1) jest dostępna poprzez przeglądarkę internetową wspierającą protokół TLS;
-2) umożliwia komunikację za pomocą protokołu HTTPS z certyfikatem bezpieczeństwa minimum 2048-bitowym kluczem, w którym integralność, uwierzytelnianie i szyfrowanie przesyłanych danych chronione są protokołem TLS minimum w wersji 1.1.
-§ 2. Rozporządzenie wchodzi w życie z dniem 15 kwietnia 2016 r.
-Minister Edukacji Narodowej: A. Zalewska
+Treść rozporządzenia
+Na podstawie art. 85 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2016 r. poz. 64) zarządza się, co następuje:
+§ 1.
+Aplikacja do przesyłania informacji do Zintegrowanego Rejestru Kwalifikacji za pośrednictwem systemu teleinformatycznego spełnia następujące wymogi techniczne:
+1)
+jest dostępna poprzez przeglądarkę internetową wspierającą protokół TLS;
+2)
+umożliwia komunikację za pomocą protokołu HTTPS z certyfikatem bezpieczeństwa minimum 2048-bitowym kluczem, w którym integralność, uwierzytelnianie i szyfrowanie przesyłanych danych chronione są protokołem TLS minimum w wersji 1.1.
+§ 2.
+Rozporządzenie wchodzi w życie z dniem 15 kwietnia 2016 r.
 

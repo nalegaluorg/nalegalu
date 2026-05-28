@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 20 grudnia 2002 r. o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz o zmianie niektórych innych ustaw*
 
-Łącznie: **6** orzeczeń
+Łącznie: **5** orzeczeń
 
 ## art. 1 (4)
 
@@ -16,14 +16,6 @@ Orzeczenia powołujące: *Ustawa z dnia 20 grudnia 2002 r. o zmianie ustawy o re
 - 2006-03-21 | TK | [K 13/05](https://www.saos.org.pl/judgments/107587) | Wyrok ★
 - 2005-03-22 | TK | [Tw 18/04](https://www.saos.org.pl/judgments/107523) | Postanowienie ★
 - 2004-07-14 | TK | [Tw 18/04](https://www.saos.org.pl/judgments/107095) | Postanowienie ★
-
-## art. 25 (1)
-
-- 2010-02-10 | SN | [II UZP 11/09](https://www.saos.org.pl/judgments/91839) | Uchwała ★
-
-## art. 28 (1)
-
-- 2010-02-10 | SN | [II UZP 11/09](https://www.saos.org.pl/judgments/91839) | Uchwała ★
 
 ## art. 32 (1)
 

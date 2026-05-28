@@ -8,10 +8,10 @@ pos: 131
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 stycznia 2020 r.
+# Protokół o Zrównoważonym Rolnictwie i Rozwoju Obszarów Wiejskich do Ramowej Konwencji o Ochronie i Zrównoważonym Rozwoju Karpatsporządzony w Lillafüred dnia 12 października 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,14 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2017-10-12 |
 | Data wydania | 2020-01-28 |
+| Wejście w życie | 2020-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000131) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/131/text.pdf) |
 
-ProtokÓł o zrównoważonym rolnictwie i rozwoju obszarów wiejskich do ramowej konwencji o ochronie i zrównoważonym rozwoju karpat, sporządzony w Lillafüred dnia 12 października 2017 r.
-Przekład
+Treść protokołu
+Dodatek – Tekst protokołu w języku angielskim
+Treść protokołu
+Przekład patrz oryginał
+Dodatek – Tekst protokołu w języku angielskim
+patrz oryginał
 

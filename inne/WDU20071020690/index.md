@@ -1,0 +1,152 @@
+---
+title: Ustawa z dnia 9 maja 2007 r. o zmianie ustawy o pracownikach sądów i prokuratury
+address: WDU20071020690
+eli: DU/2007/690
+publisher: DU
+year: 2007
+pos: 690
+act_type: Ustawa
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Ustawa z dnia 9 maja 2007 r. o zmianie ustawy o pracownikach sądów i prokuratury
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2007 nr 102 poz. 690 |
+| ISAP | WDU20071020690 |
+| Typ aktu | Ustawa |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2007-05-09 |
+| Data wydania | 2007-06-11 |
+| Wejście w życie | 2007-06-26 |
+| Ostatnia zmiana | 2024-03-15 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071020690) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/690/text.pdf) |
+
+**Art. 1.** W ustawie z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. Nr 162, poz. 1125, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** art. 2 otrzymuje brzmienie: „
+
+**Art. 2.** Urzędnikiem może zostać osoba:
+
+- **1)** która ma pełną zdolność do czynności prawnych,
+- **2)** o nieposzlakowanej opinii,
+- **3)** która nie była karana za przestępstwo lub przestępstwo skarbowe,
+- **4)** przeciwko której nie jest prowadzone postępowanie o przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe,
+- **5)** która ukończyła co najmniej studia pierwszego stopnia i uzyskała tytuł zawodowy,
+- **6)** posiadająca stan zdrowia pozwalający na zatrudnienie na określonym stanowisku,
+- **7)** która odbyła staż urzędniczy w sądzie lub w prokuraturze. ” ;
+- **2)** po art. 3 dodaje się art. 3a i 3b w brzmieniu: „
+
+**Art. 3a.**
+
+1. Na staż urzędniczy może być przyjęta osoba, która spełnia wymogi określone w art. 2 pkt 1–6.
+
+2. Właściwy prezes sądu, o którym mowa w art. 5 pkt 1–4, zwany dalej „prezesem”, lub właściwy prokurator, o którym mowa w art. 5 pkt 5–8, zwany dalej „prokuratorem”, może zwolnić z obowiązku odbywania stażu urzędniczego lub jego części osobę, wybraną w drodze konkursu na staż urzędniczy, zwanego dalej „konkursem”, która wykaże się wymaganą programem stażu urzędniczego wiedzą teoretyczną, w szczególności znajomością organizacji i funkcjonowania sądu lub prokuratury, umiejętnościami stosowania tej wiedzy w praktyce oraz znajomością metod i techniki pracy biurowej.
+
+1. Prezes lub prokurator organizuje, w drodze konkursu, nabór kandydatów na staż urzędniczy w sądzie lub prokuraturze.
+
+2. Prezes lub prokurator informuje o konkursie przez umieszczenie ogłoszenia w miejscu powszechnie dostępnym w siedzibie sądu lub prokuratury, we właściwym, ze względu na siedzibę sądu lub prokuratury, urzędzie pracy, w Biuletynie Informacji Publicznej oraz może poinformować w inny sposób, w szczególności zamieszczając ogłoszenie w prasie lokalnej.
+
+3. Konkurs przeprowadza komisja konkursowa powołana przez prezesa lub prokuratora.
+
+4. Konkurs ma na celu sprawdzenie wiedzy, umiejętności, predyspozycji oraz zdolności ogólnych kandydatów, niezbędnych do wykonywania obowiązków urzędnika.
+
+5. Komisja konkursowa po przeprowadzeniu konkursu, w oparciu o jego wyniki, może wyłonić rezerwową listę kandydatów na wypadek zaistnienia możliwości zatrudnienia większej liczby osób, rezygnacji kandydata bądź w sytuacji ustania stosunku pracy z osobą odbywającą staż urzędniczy przed ukończeniem tego stażu. Rezerwowa lista kandydatów jest ważna do następnego konkursu, jednakże nie dłużej niż 12 miesięcy od przeprowadzenia ostatniego konkursu.
+
+6. Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowy sposób i tryb przeprowadzania konkursów na staż urzędniczy w sądach i prokuraturze, w szczególności skład komisji konkursowych oraz sposób i tryb ich działania, etapy i przebieg konkursu, a także zakres i sposób udostępniania informacji kandydatowi, mając na uwadze właściwy dobór kadry urzędniczej do pracy w sądach i prokuraturze. ” ;
+
+- **3)** w art. 4 dodaje się ust. 4–7 w brzmieniu: „
+
+4. Warunkiem ubiegania się o zatrudnienie w sądzie lub prokuraturze jest złożenie przez osobę ubiegającą się o przyjęcie na staż urzędniczy oświadczenia, że nie jest prowadzone przeciwko niej postępowanie o przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe.
+
+5. Prezes lub prokurator przed przyjęciem osoby na staż urzędniczy zwraca się do właściwego organu Policji o nadesłanie informacji o tej osobie oraz zasięga informacji z Krajowego Rejestru Karnego.
+
+6. W uzasadnionych przypadkach prezes lub prokurator zwraca się do właściwego organu Policji o nadesłanie informacji, o której mowa w ust. 5, o osobie zatrudnionej w sądzie lub prokuraturze oraz zasięga informacji z Krajowego Rejestru Karnego.
+
+7. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółowy sposób i tryb oraz zakres uzyskiwania informacji przez organy Policji o osobie ubiegającej się o przyjęcie na staż urzędniczy, osobie zatrudnionej w sądzie lub prokuraturze oraz wzór kwestionariusza informacji, mając na względzie charakter i miejsce pracy, sprawność uzyskiwania informacji, dbałość o ochronę dóbr osobistych kandydatów oraz ich praw i wolności chronionych konstytucyjnie. ” ;
+
+- **4)** art. 8 otrzymuje brzmienie: „
+
+**Art. 8.**
+
+1. Urzędnicy i inni pracownicy sądów i prokuratury podlegają okresowym ocenom kwalifikacyjnym. Oceny dokonuje prezes lub prokurator, biorąc pod uwagę opinię bezpośredniego przełożonego i komisji kwalifikacyjnej, powoływanej przez prezesa lub prokuratora.
+
+2. Ocena okresowa sporządzana jest na piśmie nie rzadziej niż raz na 24 miesiące i nie częściej niż raz na 12 miesięcy.
+
+3. Ocena okresowa dotyczy wykonywania przez urzędnika lub innego pracownika sądu lub prokuratury powierzonych im obowiązków. Ocenę niezwłocznie doręcza się osobie ocenianej.
+
+4. Od oceny służy, w ciągu 7 dni od dnia doręczenia, sprzeciw do prezesa lub prokuratora.
+
+5. Sprzeciw rozpatruje się w terminie 14 dni od dnia jego wniesienia.
+
+6. W razie uwzględnienia sprzeciwu ocenę okresową zmienia się albo sporządza ponownie.
+
+7. Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowe zasady i tryb postępowania przy dokonywaniu ocen urzędników i innych pracowników sądów i prokuratury, mając na uwadze właściwy poziom wykonywanych przez nich obowiązków. ” ;
+
+- **5)** art. 12 otrzymuje brzmienie: „
+
+**Art. 12.**
+
+1. Rozwiązanie stosunku pracy z urzędnikiem bez wypowiedzenia następuje w razie prawomocnego skazania za umyślne przestępstwo lub umyślne przestępstwo skarbowe.
+
+2. Rozwiązanie stosunku pracy z urzędnikiem bez wypowiedzenia może nastąpić w razie prawomocnego skazania za nieumyślne przestępstwo lub nieumyślne przestępstwo skarbowe.
+
+3. Rozwiązanie stosunku pracy z urzędnikiem bez wypowiedzenia następuje w razie prawomocnego orzeczenia ubezwłasnowolnienia częściowego lub całkowitego.
+
+4. Rozwiązanie stosunku pracy z urzędnikiem bez wypowiedzenia może nastąpić w razie jego nieobecności w pracy z powodu choroby trwającej dłużej niż rok lub odosobnienia ze względu na chorobę zakaźną w okresie pobierania z tego tytułu zasiłku, a także w razie usprawiedliwionej nieobecności w pracy z innych przyczyn, po upływie okresów przewidzianych w art. 53 Kodeksu pracy.
+
+5. Przepisy ust. 1–3 stosuje się odpowiednio do urzędników zatrudnionych na podstawie mianowania. W takim przypadku przepisu art. 22 nie stosuje się.
+
+6. Przepis art. 52 Kodeksu pracy stosuje się odpowiednio. ” ;
+
+- **6)** po art. 12a dodaje się art. 12b i 12c w brzmieniu: „
+
+1. Prezes lub prokurator zawiesza urzędnika lub osobę odbywającą staż urzędniczy w pełnieniu obowiązków, jeżeli:
+
+- **1)** przy wszczęciu lub w toku postępowania o częściowe bądź całkowite ubezwłasnowolnienie urzędnika lub osoby odbywającej staż urzędniczy ustanowiono doradcę tymczasowego,
+- **2)** przeciwko urzędnikowi lub osobie odbywającej staż urzędniczy prowadzone jest postępowanie o umyślne przestępstwo ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe, chyba że stosunek pracy został rozwiązany w trybie art. 52 Kodeksu pracy.
+
+2. Okres zawieszenia, o którym mowa w ust. 1, trwa do prawomocnego zakończenia postępowania.
+
+3. Okres zawieszenia wlicza się do okresu zatrudnienia, od którego zależą uprawnienia pracownicze.
+
+4. W okresie zawieszenia, o którym mowa w ust. 1, urzędnik lub osoba odbywająca staż urzędniczy zachowuje prawo do wynagrodzenia w pełnej wysokości oraz do innych przysługujących mu uprawnień i świadczeń, nie dłużej jednak niż przez 3 miesiące.
+
+5. Po upływie 3 miesięcy, o których mowa w ust. 4, urzędnik lub osoba odbywająca staż urzędniczy otrzymuje połowę przysługującego mu wynagrodzenia do prawomocnego zakończenia postępowania.
+
+6. W przypadku oddalenia lub odrzucenia wniosku o ubezwłasnowolnienie albo umorzenia postępowania o ubezwłasnowolnienie bądź umorzenia postępowania karnego albo wydania wyroku uniewinniającego urzędnikowi lub osobie odbywającej staż urzędniczy należy wypłacić pozostałą część wynagrodzenia. Prezes lub prokurator może zawiesić urzędnika lub osobę odbywającą staż urzędniczy w pełnieniu obowiązków, przeciwko której prowadzone jest postępowanie o nieumyślne przestępstwo ścigane z oskarżenia publicznego lub nieumyślne przestępstwo skarbowe. Przepisy art. 12b ust. 2–6 stosuje się. ” ;
+
+- **7)** art. 14 otrzymuje brzmienie: „
+
+**Art. 14.**
+
+1. Minister Sprawiedliwości w porozumieniu z Ministrem Obrony Narodowej i ministrem właściwym do spraw pracy określa, w drodze rozporządzenia:
+
+- **1)** stanowiska w sądach powszechnych i wojskowych oraz w powszechnych i wojskowych jednostkach organizacyjnych prokuratury, na których zatrudniani są urzędnicy i inni pracownicy, a także kwalifikacje wymagane do zajmowania tych stanowisk,
+- **2)** szczegółowe zasady wynagradzania urzędników i innych pracowników sądów i prokuratury,
+- **3)** tabele wynagrodzenia zasadniczego urzędników i innych pracowników sądów i prokuratury,
+- **4)** wysokość dodatku przysługującego z tytułu zajmowanego stanowiska oraz pełnionej funkcji,
+- **5)** szczegółowe zasady odbywania stażu urzędniczego oraz przeprowadzania egzaminu uwzględniając potrzebę zapewnienia prawidłowej organizacji działalności administracyjnej sądów i prokuratury, właściwego poziomu funkcjonowania sekretariatów sądów i prokuratury oraz wysokiego poziomu kultury pracy, sprawności, racjonalności, szybkości i profesjonalizmu przy wykonywaniu czynności niezbędnych do sprawnego przebiegu postępowań w sądach i prokuraturze, potrzebę zróżnicowania wynagrodzenia w zależności od stażu pracy, pełnionej funkcji oraz zajmowanego stanowiska i jego znaczenia dla funkcjonowania sądu lub prokuratury, a także potrzebę właściwego teoretycznego i praktycznego przygotowania do wykonywania obowiązków urzędnika sądu lub prokuratury, specyfikę i charakter pracy urzędnika oraz szczególne wymagania dotyczące wykonywania czynności w sądach i prokuraturze.
+
+2. Minister Sprawiedliwości może określić, w drodze rozporządzenia:
+
+- **1)** regulamin premiowania urzędników i innych pracowników zatrudnionych przy ściąganiu należności sądowych oraz w wydziałach ksiąg wieczystych,
+- **2)** regulamin przyznawania urzędnikom i innym pracownikom sądów i prokuratury nagród za szczególne osiągnięcia w pracy uwzględniając charakter i rodzaj czynności wykonywanych przez urzędników i innych pracowników oraz zajmowane stanowisko, a także rzetelność, inicjatywę, sumienność i zaangażowanie przy wykonywaniu obowiązków i poleceń służbowych. ” ;
+- **8)** art. 14a otrzymuje brzmienie: „ Podwyższenie wynagrodzeń urzędników i innych pracowników sądów i prokuratury następuje w terminach i na zasadach określonych dla pracowników państwowej sfery budżetowej nieobjętych mnożnikowymi systemami wynagrodzeń. ” .
+
+1. Urzędnicy oraz osoby odbywające staż urzędniczy, zatrudnieni w sądach lub prokuraturze przed dniem wejścia w życie ustawy, którzy nie spełniają wymagań, o których mowa w art. 2 pkt 5 ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury, w brzmieniu nadanym niniejszą ustawą, obowiązani są do ukończenia studiów pierwszego stopnia i uzyskania tytułu zawodowego w okresie 10 lat od dnia wejścia w życie ustawy.
+
+2. Z obowiązku, o którym mowa w ust. 1, zwolnieni są urzędnicy, którzy najpóźniej w dniu wejścia w życie niniejszej ustawy ukończyli 40. rok życia i posiadają co najmniej 15-letni staż pracy w sądzie lub prokuraturze, pod warunkiem że w okresie 10 lat od dnia wejścia w życie ustawy ukończą studium zawodowe jako cykliczną formę doskonalenia zawodowego w Krajowym Centrum Szkolenia Kadr Sądów Powszechnych i Prokuratury.
+
+3. W przypadku niewywiązania się z obowiązku, o którym mowa w ust. 1 lub 2, właściwy prezes sądu lub prokurator rozwiązuje stosunek pracy z urzędnikiem w drodze wypowiedzenia.
+
+4. W stosunku do urzędnika lub osoby odbywającej staż urzędniczy, zatrudnionej w sądzie lub prokuraturze przed dniem wejścia w życie ustawy, dla których w toku postępowania o częściowe lub całkowite ubezwłasnowolnienie ustanowiono doradcę tymczasowego albo przeciwko którym prowadzone jest postępowanie o przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe, stosuje się odpowiednio przepisy art. 12b lub 12c ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury, w brzmieniu nadanym niniejszą ustawą.
+
+5. Minister Sprawiedliwości określi, w drodze zarządzenia, organizację, sposób działania oraz szczegółowy program studium zawodowego, o którym mowa w ust. 2, zakres doskonalenia zawodowego, tryb kierowania osób, o których mowa w ust. 2, do studium zawodowego oraz wzór dokumentu potwierdzającego ukończenie studium zawodowego, uwzględniając w szczególności wymagania dotyczące realizowanego programu, wymiaru i zakresu zajęć, a także dostosowanie tego programu do potrzeb sądów i prokuratury i zapewnienie standardu szkolenia i doskonalenia zawodowego właściwego do wypełniania zadań przez urzędników sądów i prokuratury. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 14 ust. 1 ustawy, o której mowa w art. 1, zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 14 ust. 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 8, który wchodzi w życie z dniem 1 stycznia 2008 r.
+

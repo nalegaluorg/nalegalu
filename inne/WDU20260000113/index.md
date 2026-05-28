@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o udzielaniu pomocy publicznej celu ratowania lub restrukturyzacji przedsiębiorców
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 26 stycznia 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 stycznia 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-02-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000113) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/113/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 26 stycznia 2026 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o udzielaniu pomocy publicznej celu ratowania lub restrukturyzacji przedsiębiorców
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 16 lipca 2020 r. o udzielaniu pomocy publicznej celu ratowania lub restrukturyzacji przedsiębiorców (Dz. U. poz. 1298), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 21 maja 2025 r. o zmianie niektórych ustaw celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (Dz. U. poz. 769) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 stycznia 2026 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) art. 49 i art. 50 ustawy z dnia 16 lipca 2020 r. o udzielaniu pomocy publicznej celu ratowania lub restrukturyzacji przedsiębiorców (Dz. U. poz. 1298), które stanowią: „Art. 49. W ustawie z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2020 r. poz. 256 i 695) art. 189k § 4a:
@@ -35,13 +35,38 @@ source: "isap-pdf"
 
 **Art. 50.** W ustawie z dnia 15 maja 2015 r. Prawo restrukturyzacyjne (Dz. U. z 2020 r. poz. 814) uchyla się art. 139a.”;
 
+- **2)** art. 45 i art. 48 ustawy z dnia 21 maja 2025 r. o zmianie niektórych ustaw celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (Dz. U. poz. 769), które stanowią: „Art. 45. Przepis art. 52 ust. 2 ustawy zmienianej art. 29, brzmieniu nadanym niniejszą ustawą, ma zastosowanie do wysokości środków przeznaczonych na pomoc, o których mowa art. 52 ust. 2 ustawy zmienianej art. 29, począwszy od 2025 r.” „Art. 48. Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
+- **1)** art. 6, art. 11, art. 18, art. 22, art. 24 pkt 4, 7 i 9, art. 38 oraz art. 40 ust. 1 i 2, które wchodzą życie z dniem 1 stycznia 2026 r.;
+- **2)** art. 28 oraz art. 44, które wchodzą życie po upływie 9 miesięcy od dnia ogłoszenia.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 16 lipca 2020 r. o udzielaniu pomocy publicznej celu ratowania lub restrukturyzacji przedsiębiorców
+
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa warunki, tryb i formy udzielania pomocy publicznej przedsiębiorcom na ich:
 
+- **1)** ratowanie,
+- **2)** tymczasowe wsparcie restrukturyzacyjne,
+- **3)** restrukturyzację zwanej dalej „pomocą”.
+
 **Art. 2.** Pomoc:
 
+- **1)** na ratowanie i restrukturyzację może być udzielana przedsiębiorcy, o którym mowa art. 141 ust. 1 ustawy z dnia 15 maja 2015 r. Prawo restrukturyzacyjne (Dz. U. z 2024 r. poz. 1428 oraz z 2025 r. poz. 1085, 1170 i 1172): poz. 614, 1085, 1170 i 1172),
+    - **a)** spełniającemu warunki określone art. 141 ust. 2 tej ustawy albo
+    - **b)** niewypłacalnemu rozumieniu art. 11 ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe (Dz. U. z 2025 r.
+
+- **2)** na tymczasowe wsparcie restrukturyzacyjne może być udzielana mikro-, małemu i średniemu przedsiębiorcy, spełniającemu warunki, o których mowa pkt 1, sytuacji, o której mowa art. 11 ust. 2 zwanemu dalej „przedsiębiorcą znajdującym się trudnej sytuacji ekonomicznej”.
+
 **Art. 3.** Ilekroć ustawie jest mowa o:
+
+- **1)** długookresowej zdolności do konkurowania na rynku rozumie się przez to zdolność przedsiębiorcy do pokrywania kosztów wykonywanej działalności gospodarczej, tym kosztów amortyzacji i kosztów finansowych, bez konieczności ponownego wspierania tego przedsiębiorcy środkami publicznymi pochodzącymi z pomocy na ratowanie lub restrukturyzację przez okres co najmniej 10 lat;
+- **2)** środkach restrukturyzacyjnych rozumie się przez to działania, wskazane planie restrukturyzacji lub uproszczonym planie restrukturyzacji, umożliwiające odzyskanie przez przedsiębiorcę długookresowej zdolności do konkurowania na rynku;
+- **3)** mikro-, małym lub średnim przedsiębiorcy rozumie się przez to przedsiębiorcę będącego mikroprzedsiębiorstwem, małym lub średnim przedsiębiorstwem rozumieniu art. 2 załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm. ), a sytuacji, o której mowa art. 11 ust. 2, z wyłączeniem art. 3 ust. 4 tego załącznika;
+- **4)** postępowaniu restrukturyzacyjnym rozumie się przez to postępowanie, o którym mowa art. 2 ustawy z dnia 15 maja 2015 r. Prawo restrukturyzacyjne;
+- **5)** grupie kapitałowej rozumie się przez to przedsiębiorców będących przedsiębiorstwami partnerskimi lub powiązanymi rozumieniu art. 3 ust. 2 i 3 załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym zastosowaniu art. 107 i 108 Traktatu;
+- **6)** procesie restrukturyzacji rozumie się przez to całokształt realizowanych przez przedsiębiorcę środków restrukturyzacyjnych na podstawie planu restrukturyzacji lub uproszczonego planu restrukturyzacji;
+    - **a)** przypadku mikro-, małego lub średniego przedsiębiorcy znajdującego się trudnej sytuacji ekonomicznej, sytuacji, o której mowa art. 11 ust. 2: ryzyko opuszczenia rynku przez mikro-, małego lub średniego przedsiębiorcę wykonującego działalność innowacyjną, mającego duży potencjał wzrostu lub o silnych powiązaniach z innymi lokalnymi lub regionalnymi przedsiębiorcami, skutkującego negatywnymi konsekwencjami dla danego regionu lub sektora, występowanie ograniczeń na rynku finansowym, skutkujących zwiększeniem liczby upadłości przedsiębiorców,
+    - **b)** przypadku przedsiębiorcy znajdującego się trudnej sytuacji ekonomicznej, innego niż mikro-, mały lub średni przedsiębiorca lub mikro-, małego lub średniego przedsiębiorcy znajdującego się trudnej sytuacji ekonomicznej, jeśli nie występuje sytuacja, o której mowa art. 11 ust. 2: wyższą niż średnia unijna lub średnia krajowa stopę bezrobocia regionie określonym na poziomie województwa, która ma charakter stały i której towarzyszą trudności związane z tworzeniem nowych miejsc pracy tym regionie, ryzyko przerwania świadczenia usługi ogólnym interesie gospodarczym lub innej ważnej usługi, którą trudno jest zastąpić i przypadku której konkurentom trudno byłoby rozpocząć jej świadczenie, negatywne konsekwencje opuszczenia rynku przez przedsiębiorcę o istotnym znaczeniu dla danego regionu lub sektora, występowanie ograniczeń na rynku finansowym, skutkujących zwiększeniem liczby upadłości przedsiębiorców, ryzyko opuszczenia rynku przez przedsiębiorcę, skutkującego utratą ważnej wiedzy technicznej lub eksperckiej,
+
+- **8)** kosztach restrukturyzacji rozumie się przez to koszty środków restrukturyzacyjnych wskazanych planie restrukturyzacji oraz koszty środków restrukturyzacyjnych poniesione przez przedsiębiorcę przed otwarciem postępowania restrukturyzacyjnego ramach tego samego procesu restrukturyzacji.
 
 **Art. 4.** Pomoc może być udzielana, jeżeli zapobiega i prowadzi do ograniczenia trudności społecznych lub przezwyciężenia niedoskonałości rynku, przypadku gdy bez jej udzielenia cel ten nie zostałby osiągnięty lub zostałby osiągnięty mniejszym zakresie.
 
@@ -148,7 +173,7 @@ source: "isap-pdf"
 1. Pomoc na ratowanie może być udzielana przedsiębiorcy znajdującemu się trudnej sytuacji ekonomicznej celu umożliwienia mu wykonywania działalności gospodarczej przez okres niezbędny do:
 
 - **1)** opracowania planu restrukturyzacji,
-- **2)** likwidacji działalności gospodarczej oraz przeprowadzenia koniecznych tym zakresie analiz. sytuacji ekonomicznej, jednak z powodu zaistnienia wyjątkowych i nieprzewidzianych okoliczności wymaga pilnego wsparcia płynności finansowej.
+- **2)** likwidacji działalności gospodarczej oraz przeprowadzenia koniecznych tym zakresie analiz. słanki określone art. 141 ust. 1 ustawy z dnia 15 maja 2015 r. Prawo restrukturyzacyjne, który nie znajduje się trudnej sytuacji ekonomicznej, jednak z powodu zaistnienia wyjątkowych i nieprzewidzianych okoliczności wymaga pilnego wsparcia płynności finansowej.
 
 3. Do przedsiębiorcy, o którym mowa ust. 2, przepisy art. 16–25 stosuje się.
 
@@ -220,11 +245,9 @@ source: "isap-pdf"
 5. W przypadku złożenia wniosku o pomoc na ratowanie za:
 
 - **1)** pośrednictwem operatora pocztowego rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe, za dzień złożenia wniosku uznaje się dzień nadania go polskiej placówce pocztowej tego operatora;
-- **2)** pomocą środków komunikacji elektronicznej przez elektroniczną skrzynkę podawczą podmiotu udzielającego pomocy, za dzień złożenia wniosku uznaje się dzień wprowadzenia wniosku do systemu teleinformatycznego podmiotu udzielającego pomocy.
+- **2)** pomocą środków komunikacji elektronicznej przez elektroniczną skrzynkę podawczą podmiotu udzielającego pomocy, za dzień złożenia wniosku uznaje się dzień wprowadzenia wniosku do systemu teleinformatycznego podmiotu udzielającego pomocy. niedłuższym niż 30 dni od dnia złożenia wniosku o pomoc na ratowanie.
 
-**Art. 20.**
-
-1. Minister właściwy do spraw gospodarki albo ARP rozpatruje wniosek o pomoc na ratowanie terminie niedłuższym niż 30 dni od dnia złożenia wniosku o pomoc na ratowanie. minister właściwy do spraw gospodarki albo ARP wydaje postanowienie o odrzuceniu wniosku o pomoc na ratowanie.
+2. W przypadku stwierdzenia braków formalnych wniosku o pomoc na ratowanie przedsiębiorcę znajdującego się trudnej sytuacji ekonomicznej wzywa się do ich usunięcia terminie 7 dni. W razie nieusunięcia braków tym terminie minister właściwy do spraw gospodarki albo ARP wydaje postanowienie o odrzuceniu wniosku o pomoc na ratowanie.
 
 3. Na postanowienie, o którym mowa ust. 2, przysługuje:
 
@@ -265,8 +288,8 @@ source: "isap-pdf"
 3. Odwołanie od decyzji zawiera:
 
 - **1)** oznaczenie decyzji nieuwzględniającej wniosku o pomoc na ratowanie, od której jest wniesione, ze wskazaniem, czy jest ona zaskarżona całości lub części;
-- **2)** przedstawienie przyczyn odwołania od decyzji i ich uzasadnienie;
-- **3)** razie potrzeby powołanie nowych faktów i okoliczności oraz wykazanie, że ich powołanie na etapie rozpatrywania wniosku o pomocy na ratowanie nie było możliwe albo że potrzeba powołania się na nie wynikła później; z oznaczeniem zakresu żądanego uchylenia lub zmiany tej decyzji.
+- **2)** przedstawienie przyczyn odwołania od decyzji i ich uzasadnienie; wniosku o pomocy na ratowanie nie było możliwe albo że potrzeba powołania się na nie wynikła później;
+- **4)** wniosek o uchylenie całości albo części lub zmianę decyzji nieuwzględniającej wniosku o pomoc na ratowanie z oznaczeniem zakresu żądanego uchylenia lub zmiany tej decyzji.
 
 4. Minister właściwy do spraw gospodarki rozpatruje odwołanie od decyzji zakresie, o którym mowa ust. 3, terminie 60 dni.
 
@@ -282,6 +305,15 @@ source: "isap-pdf"
 8. Sąd administracyjny, uwzględniając skargę na postanowienie, o którym mowa ust. 6, stwierdza jego wydanie z naruszeniem prawa.
 
 **Art. 22.** Przedsiębiorca znajdujący się trudnej sytuacji ekonomicznej, któremu udzielono pomocy na ratowanie, jest obowiązany do:
+
+- **1)** wykorzystania pomocy na ratowanie zgodnie z jej przeznaczeniem;
+- **2)** poddania się kontroli przez ministra właściwego do spraw gospodarki albo ARP na zasadach przewidzianych dla przedsiębiorców zakresie wykorzystania pomocy na ratowanie zgodnie z jej przeznaczeniem i spełniania warunków, o których mowa art. 10;
+- **3)** zwrotu kwoty stanowiącej równowartość udzielonej pomocy na ratowanie wraz z odsetkami na zasadach określonych rozporządzeniu Komisji (WE) nr 794/2004 z dnia 21 kwietnia 2004 r. sprawie wykonania rozporządzenia Rady (UE) nr 2015/1589 ustanawiającego szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 140 z 30.04.2004, str. 1, z późn. zm. ), przypadku stwierdzenia przez ministra właściwego do spraw gospodarki, że:
+    - **a)** decyzja, o której mowa art. 20 ust. 7, została wydana oparciu o nieprawdziwe dane, przekazane przez przedsiębiorcę znajdującego się trudnej sytuacji ekonomicznej korzystającego z pomocy na ratowanie lub
+    - **b)** udzielana przedsiębiorcy pomoc na ratowanie jest wykorzystywana lub została wykorzystana niezgodnie z jej przeznaczeniem lub
+    - **c)** naruszono warunki określone art. 10;
+
+- **4)** spłaty otrzymanej pomocy na ratowanie zgodnie z terminem określonym decyzji, o której mowa art. 20 ust. 7.
 
 **Art. 23.**
 
@@ -368,10 +400,7 @@ source: "isap-pdf"
 2. Jeżeli mikro-, mały lub średni przedsiębiorca, któremu udzielono pomocy na ratowanie, przedłożył do zatwierdzenia uproszczony plan restrukturyzacji, minister właściwy do spraw gospodarki albo ARP, terminie 5 miesięcy:
 
 - **1)** od dnia zatwierdzenia przez Komisję Europejską pomocy na ratowanie, albo
-- **2)** przypadku, o którym mowa art. 11 ust. 2, od dnia udzielenia pomocy na ratowanie zatwierdza uproszczony plan restrukturyzacji, o którym mowa art. 29 ust. 6, albo odmawia jego zatwierdzenia.
-
-3. Mikro-, mały lub średni przedsiębiorca, któremu udzielono tymczasowego wsparcia restrukturyzacyjnego, terminie 15 miesięcy od dnia jego udzielenia albo, jeżeli bezpośrednio przed udzieleniem tymczasowego wsparcia ministrowi właściwemu do spraw gospodarki albo ARP:
-
+- **2)** przypadku, o którym mowa art. 11 ust. 2, od dnia udzielenia pomocy na ratowanie zatwierdza uproszczony plan restrukturyzacji, o którym mowa art. 29 ust. 6, albo odmawia jego zatwierdzenia. nie 15 miesięcy od dnia jego udzielenia albo, jeżeli bezpośrednio przed udzieleniem tymczasowego wsparcia restrukturyzacyjnego była udzielona mu pomoc na ratowanie, terminie 15 miesięcy od dnia zatwierdzenia przez Komisję Europejską pomocy na ratowanie, a przypadku, o którym mowa art. 11 ust. 2, od dnia udzielenia tej pomocy przedkłada ministrowi właściwemu do spraw gospodarki albo ARP:
 - **1)** do zatwierdzenia:
     - **a)** plan restrukturyzacji, o którym mowa art. 42 ust. 2, jeżeli ubiega się o pomoc na restrukturyzację albo
     - **b)** plan likwidacji, albo
@@ -411,9 +440,7 @@ source: "isap-pdf"
 
 - **1)** zapobiega trudnościom społecznym lub prowadzi do przezwyciężenia niedoskonałości rynku;
 - **2)** bez tej pomocy przedsiębiorca znajdujący się trudnej sytuacji ekonomicznej zostałby zrestrukturyzowany, sprzedany lub zlikwidowany taki sposób, że cel, o którym mowa pkt 1, nie zostałby osiągnięty lub zostałby osiągnięty mniejszym zakresie;
-- **3)** zostanie przedstawiony wiarygodny scenariusz alternatywny obejmujący działania niebędące pomocą na restrukturyzację, stanowiące element planu restrukturyzacji, z którego wynika, że bez niej cel, o którym mowa pkt 1, nie zostałby osiągnięty lub zostałby osiągnięty mniejszym zakresie.
-
-2. Scenariusz alternatywny, o którym mowa ust. 1 pkt 3, może obejmować szczególności sprzedaż przedsiębiorstwa, zorganizowanej części przedsiębiorstwa lub aktywów ramach postępowania likwidacyjnego prowadzonego zgodnie wego prowadzonego zgodnie z ustawą z dnia 28 lutego 2003 r. Prawo upadłościowe.
+- **3)** zostanie przedstawiony wiarygodny scenariusz alternatywny obejmujący działania niebędące pomocą na restrukturyzację, stanowiące element planu restrukturyzacji, z którego wynika, że bez niej cel, o którym mowa pkt 1, nie zostałby osiągnięty lub zostałby osiągnięty mniejszym zakresie. stwa, zorganizowanej części przedsiębiorstwa lub aktywów ramach postępowania likwidacyjnego prowadzonego zgodnie z ustawą z dnia 15 września 2000 r. Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96) lub postępowania upadłościowego prowadzonego zgodnie z ustawą z dnia 28 lutego 2003 r. Prawo upadłościowe.
 
 3. Pomoc na restrukturyzację może być udzielana, jeżeli zastosowanie przez przedsiębiorcę trudnej sytuacji ekonomicznej scenariusza alternatywnego, o którym mowa ust. 1 pkt 3, bez tej pomocy, nie prowadziłoby do osiągnięcia celu, o którym mowa ust. 1 pkt 1, lub ten cel osiągnięty byłby mniejszym zakresie.
 
@@ -453,11 +480,9 @@ source: "isap-pdf"
 - **2)** objęcia akcji lub udziałów podwyższonym kapitale zakładowym albo udziału podwyższeniu kapitału zakładowego przez podwyższenie wartości nominalnej dotychczasowych udziałów lub akcji;
 - **3)** objęcia obligacji;
 - **4)** zmiany terminów spłaty pożyczki wobec podmiotu udzielającego pomocy na restrukturyzację;
-- **5)** konwersji pożyczki, udzielonej jako pomoc na ratowanie lub jako tymczasowe wsparcie restrukturyzacyjne, na udziały lub akcje przedsiębiorcy.
-
-2. Pomoc na restrukturyzację może być także udzielona formie ulgi wykonaniu administracyjnej kary pieniężnej przez:
-
+- **5)** konwersji pożyczki, udzielonej jako pomoc na ratowanie lub jako tymczasowe wsparcie restrukturyzacyjne, na udziały lub akcje przedsiębiorcy. przez:
 - **1)** odroczenie terminu wykonania administracyjnej kary pieniężnej lub rozłożenie jej na raty,
+- **2)** odroczenie terminu wykonania zaległej administracyjnej kary pieniężnej lub rozłożenie jej na raty,
 - **3)** umorzenie administracyjnej kary pieniężnej całości lub części,
 - **4)** umorzenie odsetek za zwłokę całości lub części pod warunkiem przeznaczenia równowartości udzielonej pomocy na realizację planu restrukturyzacji.
 
@@ -489,8 +514,8 @@ source: "isap-pdf"
 
 1. Wniosek o udzielenie pomocy na restrukturyzację, zwany dalej „wnioskiem o pomoc na restrukturyzację”, zawiera:
 
-- **1)** oznaczenie przedsiębiorcy znajdującego się trudnej sytuacji ekonomicznej, adres stałego wykonywania działalności albo siedziby, a przypadku ich braku adres do doręczeń, numer NIP albo numer Krajowym Rejestrze Sądowym, a przypadku ich braku inne dane umożliwiające jego jednoznaczną identyfikację, oznaczenie formy prawnej wykonywanej działalności, a także, jeżeli przedsiębiorcą znajdującym się trudnej sytuacji ekonomicznej jest spółka osobowa, osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną imiona i nazwiska reprezentantów spółki, osoby prawnej albo jednostki organizacyjnej, tym likwidatorów, jeżeli zostali ustanowieni;
-- **2)** określenie wykonywanej działalności gospodarczej i działalności operacyjnej poprzez wskazanie odpowiednich numerów Polskiej Klasyfikacji Działalności (PKD);
+- **1)** oznaczenie przedsiębiorcy znajdującego się trudnej sytuacji ekonomicznej, adres stałego wykonywania działalności albo siedziby, a przypadku ich braku adres do doręczeń, numer NIP albo numer Krajowym Rejestrze Sądowym, a przypadku ich braku inne dane umożliwiające jego jednoznaczną identyfikację, oznaczenie formy prawnej wykonywanej działalności, a także, jeżeli przedsiębiorcą znajdującym się trudnej sytuacji ekonomicznej jest spółka osobowa, osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną imiona i nazwiska reprezentantów spółki, osoby prawnej albo jednostki organizacyjnej, tym likwidatorów, jeżeli zostali ustanowieni; Polskiej Klasyfikacji Działalności (PKD);
+- **3)** oświadczenie przedsiębiorcy znajdującego się trudnej sytuacji ekonomicznej o:
     - **a)** posiadaniu statusu mikro-, małego, średniego albo dużego przedsiębiorcy,
     - **b)** spełnieniu przesłanek, o których mowa art. 2;
 
@@ -524,10 +549,9 @@ source: "isap-pdf"
 
 1. Przyznanie pomocy na restrukturyzację uwarunkowane jest wdrożeniem planu restrukturyzacji, o którym mowa art. 42 ust. 6, który umożliwi przedsiębiorcy znajdującemu się trudnej sytuacji ekonomicznej, przez wdrożenie środków restrukturyzacji majątkowej, finansowej, organizacyjnej, zatrudnienia lub mającej na celu modernizację lub racjonalizację produkcji, tym zmianę profilu produkcyjnego, odzyskanie długoterminowej zdolności do konkurowania na rynku.
 
-2. Plan restrukturyzacji, o którym mowa art. 42 ust. 6, obejmuje:
-
 - **1)** opis przedsiębiorcy znajdującego się trudnej sytuacji ekonomicznej składającego wniosek o pomoc na restrukturyzację;
 - **2)** opis rynku lub rynków, na których działa przedsiębiorca znajdujący się trudnej sytuacji ekonomicznej;
+- **3)** opis przyczyn trudności przedsiębiorcy znajdującego się trudnej sytuacji ekonomicznej wraz z oceną, co przyczyniło się do wystąpienia tych trudności;
 - **4)** wskazanie trudności społecznych, którym ma zapobiec udzielona pomoc, lub niedoskonałości rynku, związku z którymi udziela się tej pomocy, oraz porównanie z wiarygodnym alternatywnym scenariuszem obejmującym działania niebędące pomocą na restrukturyzację, którym należy wskazać, że przypadku realizacji alternatywnego scenariusza cele te nie zostałyby osiągnięte lub zostałyby osiągnięte mniejszym zakresie;
 - **5)** opis możliwych planów rozwiązania problemów przedsiębiorcy znajdującego się trudnej sytuacji ekonomicznej oraz porównanie tych planów pod kątem wymaganej kwoty pomocy na restrukturyzację i przewidywanych rezultatów tych planów;
 - **6)** szczegółowy opis każdego środka restrukturyzacji, tym formy, kwoty i wynagrodzenia z tytułu każdego środka oraz wskazanie, że wybrane instrumenty pomocy są adekwatne do problemów, których rozwiązaniu mają służyć;
@@ -540,22 +564,35 @@ source: "isap-pdf"
 
 **Art. 44.** Zmiana planu restrukturyzacji, o którym mowa art. 42 ust. 6, tym przewidywanej nim wielkości pomocy na restrukturyzację, jest możliwa tylko czasie trwania restrukturyzacji, o ile zmieniony plan prowadzi do osiągnięcia przez przedsiębiorcę znajdującego się trudnej sytuacji ekonomicznej długookresowej zdolności do konkurowania na rynku, oraz pod warunkiem że:
 
+- **1)** przy wzroście kosztów restrukturyzacji zostaje odpowiednio zwiększony wkład własny albo
+- **2)** zwiększenie kwoty pomocy na restrukturyzację wiąże się z rozszerzeniem środków wyrównujących zakłócenia konkurencji na rynku, o których mowa art. 145 ust. 2–6 ustawy z dnia 15 maja 2015 r. Prawo restrukturyzacyjne, albo
+- **3)** planowane zmniejszenie środków wyrównujących zakłócenia konkurencji na rynku, o których mowa art. 145 ust. 2–6 ustawy z dnia 15 maja 2015 r. Prawo restrukturyzacyjne, lub opóźnienia we wdrożeniu tych środków następują z przyczyn niezależnych od przedsiębiorcy znajdującego się trudnej sytuacji ekonomicznej i wiążą się ze zmniejszeniem kwoty pomocy na restrukturyzację.
+
 **Art. 45.** Pomoc na restrukturyzację nie może być udzielona, jeżeli środki restrukturyzacyjne określone planie restrukturyzacji:
+
+- **1)** ograniczają się wyłącznie do restrukturyzacji zobowiązań;
+- **2)** przewidują nowe inwestycje, z wyjątkiem inwestycji niezbędnych do przywrócenia przedsiębiorcy długookresowej zdolności do konkurowania na rynku.
 
 **Art. 46.**
 
 1. Przepisy art. 19–23 i art. 25 stosuje się odpowiednio.
 
-2. W przypadku gdy plan restrukturyzacji przewiduje udzielenie pomocy na restrukturyzację formie ulgi wykonaniu administracyjnej kary pieniężnej, o której mowa art. 39 ust. 2, minister właściwy do spraw gospodarki albo ARP przekazuje wniosek o udzielenie ulgi wykonaniu administracyjnej kary pieniężnej organowi, o którym mowa art. 39 ust. 3.
+2. W przypadku gdy plan restrukturyzacji przewiduje udzielenie pomocy na restrukturyzację formie ulgi wykonaniu administracyjnej kary pieniężnej, o której mowa art. 39 ust. 2, minister właściwy do spraw gospodarki albo ARP przekazuje wniosek o udzielenie ulgi wykonaniu administracyjnej kary pieniężnej organowi, o którym mowa art. 39 ust. 3. do czasu uzyskania informacji o sposobie rozstrzygnięcia sprawy przez organ, o którym mowa art. 39 ust. 3.
 
-3. Minister właściwy do spraw gospodarki albo ARP zawiesza postępowanie o udzielenie pomocy na restrukturyzację do czasu uzyskania informacji o sposobie rozstrzygnięcia sprawy przez organ, o którym mowa art. 39 ust. 3.
+4. Organ, o którym mowa art. 39 ust. 3, rozpatruje wniosek o udzielenie ulgi wykonaniu administracyjnej kary pieniężnej, o której mowa art. 39 ust. 2, terminie 21 dni od dnia doręczenia tego wniosku. O sposobie rozstrzygnięcia organ ten niezwłocznie informuje ministra właściwego do spraw gospodarki albo ARP.
 
-4. Organ, o którym mowa art. 39 ust. 3, rozpatruje wniosek o udzielenie ulgi wykonaniu administracyjnej kary pieniężnej, o której mowa art. 39 ust. 2, terminie 21 dni od dnia doręczenia tego wniosku. O sposobie rozstrzygnięcia organ ten niezwłocznie informuje ministra właściwego do spraw gospodarki albo ARP. pieniężnej, o której mowa art. 39 ust. 2:
+5. Organ, o którym mowa art. 39 ust. 3, rozpatrując wniosek o udzielenie ulgi wykonaniu administracyjnej kary pieniężnej, o której mowa art. 39 ust. 2:
 
 - **1)** zakresie warunków udzielania pomocy na restrukturyzację, o których mowa art. 4–8, związany jest oceną ministra właściwego do spraw gospodarki albo ARP;
 - **2)** zakresie trybu udzielania ulgi wykonaniu administracyjnej kary pieniężnej stosuje przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, z uwzględnieniem przepisów niniejszej ustawy.
 
 **Art. 47.** Przed udzieleniem pomocy na restrukturyzację minister właściwy do spraw gospodarki albo ARP ocenia zasadność jej udzielenia, uwzględniając szczególności:
+
+- **1)** priorytety wyznaczone rządowych programach restrukturyzacji;
+- **2)** przewidywaną efektywność ekonomiczną przedsiębiorcy znajdującego się trudnej sytuacji ekonomicznej po przeprowadzeniu procesu restrukturyzacji;
+- **3)** wielkość zatrudnienia u przedsiębiorcy znajdującego się trudnej sytuacji ekonomicznej;
+- **4)** prognozy zakresie podaży i popytu na rynku, na którym przedsiębiorca znajdujący się trudnej sytuacji ekonomicznej wykonuje działalność;
+- **5)** lokalizację działalności wykonywanej przez przedsiębiorcę znajdującego się trudnej sytuacji ekonomicznej.
 
 **Art. 48.**
 
@@ -578,11 +615,7 @@ source: "isap-pdf"
 
 2. Do dnia 31 grudnia 2021 r. realizacja zadań wynikających z ustawy zakresie udzielania pomocy przedsiębiorcom znajdującym się trudnej sytuacji ekonomicznej przypadku, o którym mowa ust. 1, może być dofinansowana ze środków Funduszu Przeciwdziałania COVID-19, o którym mowa art. 65 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm. ).
 
-**Art. 52.**
-
-1. Pomoc może być udzielana do wysokości środków przeznaczonych na ten cel budżecie państwa.
-
-2. Wysokość środków, o których mowa ust. 1, nie może przekroczyć kwoty 120 000 000 zł każdym roku, przy czym każdym roku wysokość środków przeznaczonych na pożyczki, o których mowa art. 16 ust. 1, art. 28 i art. 39
+2. Wysokość środków, o których mowa ust. 1, nie może przekroczyć kwoty 120 000 000 zł każdym roku, przy czym każdym roku wysokość środków przeznaczonych na pożyczki, o których mowa art. 16 ust. 1, art. 28 i art. 39 ust. 1 pkt 1, wynosi 69 % przeznaczonej kwoty, wysokość środków przeznaczonych na pomoc formach, o których mowa art. 39 ust. 1 pkt 2 i 3 26 % przeznaczonej kwoty oraz przeznacza się do 5 % kwoty na koszty udzielania pomocy.
 
 3. W latach 2020–2029 maksymalny limit wydatków z budżetu państwa przeznaczonych na realizację zadań wynikających z niniejszej ustawy wynosi 1 200 000 000 zł, tym w:
 

@@ -22,6 +22,7 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-25 |
 | Data wydania | 2015-10-29 |
+| Wejście w życie | 2015-11-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001735) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1735/text.pdf) |
 
@@ -41,11 +42,27 @@ w art. 9 w pkt 2, w ust. 6b wyrazy „art. 1821d” zastępuje się wyrazami „
 
 **Art. 2.** W ustawie z dnia 15 maja 2015 r. o zmianie ustawy o świadczeniach rodzinnych (Dz. U. poz. 995) w art. 1 pkt 2 otrzymuje brzmienie: „
 
+- **2)** w art. 24 ust. 7 otrzymuje brzmienie: „
+
+7. W przypadku gdy uzyskanie dochodu powoduje utratę prawa do świadczeń rodzinnych lub obniżenie ich wysokości, świadczenia nie przysługują lub przysługują w niższej wysokości od miesiąca następującego po pierwszym miesiącu od miesiąca, w którym dochód został uzyskany.”; ” . ” .
+
 **Art. 3.** W ustawie z dnia 15 maja 2015 r. o zmianie ustawy o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa oraz niektórych innych ustaw (Dz. U. poz. 1066) wprowadza się następujące zmiany:
+
+- **1)** w art. 22 uchyla się ust. 2 i 3;
+- **2)** w art. 26 uchyla się pkt 2.
 
 **Art. 4.** W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy o świadczeniach rodzinnych oraz niektórych innych ustaw (Dz. U. poz. 1217) w art. 1 w pkt 7 uchyla się lit. b.
 
 **Art. 5.** W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw (Dz. U. poz. 1268) wprowadza się następujące zmiany:
+
+- **1)** w art. 1: w pkt 2, w art. 1791 w § 2 wyrazy „art. 1821b § 2 i 4” zastępuje się wyrazami „art. 1821c § 2 i 4”, po pkt 8 dodaje się pkt 8a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **8a)** uchyla się art. 1821b; ” , pkt 9 otrzymuje brzmienie: „
+    - **c)**
+
+- **9)** po art. 1821b dodaje się art. 1821c-1821g w brzmieniu: „
 
 **Art. 1821c.**
 
@@ -89,4 +106,8 @@ w art. 9 w pkt 2, w ust. 6b wyrazy „art. 1821d” zastępuje się wyrazami „
 ## Część urlopu rodzicielskiego, o którą urlop został proporcjonalnie wydłużony zgodnie z § 1–4, wydłuża część urlopu rodzicielskiego, podczas której pracownik łączył korzystanie z urlopu z wykonywaniem pracy w niepełnym wymiarze czasu pracy u pracodawcy udzielającego urlopu.
 
 **Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 3, który wchodzi w życie z dniem 31 października 2015 r.;
+- **2)** art. 1, który wchodzi w życie z dniem 1 stycznia 2016 r.
+
 

@@ -8,10 +8,10 @@ pos: 2465
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 grudnia 2018 r.
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 21 grudnia 2018 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach Priorytetu 3. Wspieranie wdrażania Wspólnej Polityki Rybołówstwa, zawartego w Programie Operacyjnym „Rybactwo i Morze ”
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,21 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-21 |
 | Data wydania | 2018-12-29 |
+| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002465) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2465/text.pdf) |
 
-Poz. 2465 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 21 grudnia 2018 r.
-zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach Priorytetu 3. Wspieranie wdrażania Wspólnej Polityki Rybołówstwa, zawartego w Programie Operacyjnym „Rybactwo i Morze” Na podstawie art. 24 ust. 1 ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego (Dz. U. z 2017 r. poz. 1267) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 6 września 2016 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach Priorytetu 3. Wspieranie wdrażania Wspólnej Polityki Rybołówstwa, zawartego w Programie Operacyjnym „Rybactwo i Morze” (Dz. U. poz. 1437 i 2297) w § 5 w pkt 1 lit. b otrzymuje brzmienie: „b) Głównemu Inspektorowi Rybołówstwa Morskiego na realizację operacji, o których mowa w art. 76 ust. 2 lit. a, b, d–h oraz j–l rozporządzenia nr 508/2014,”.
-§ 2. Do postępowań w sprawie przyznania pomocy finansowej na realizacje operacji w ramach Priorytetu 3 – Wspieranie wdrażania Wspólnej Polityki Rybołówstwa, wszczętych przed dniem wejścia w życie niniejszego rozporządzenia i niezakończonych zawarciem umowy o dofinansowanie, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
-Minister Gospodarki Morskiej i Żeglugi Śródlądowej: wz. A. Moskwa
+Treść rozporządzenia
+Na podstawie art. 24 ust. 1 ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego (Dz. U. z 2017 r. poz. 1267) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 6 września 2016 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach Priorytetu 3. Wspieranie wdrażania Wspólnej Polityki Rybołówstwa, zawartego w Programie Operacyjnym „Rybactwo i Morze” (Dz. U. poz. 1437 i 2297) w § 5 w pkt 1 lit. b otrzymuje brzmienie:
+„
+b)
+Głównemu Inspektorowi Rybołówstwa Morskiego na realizację operacji, o których mowa w art. 76 ust. 2 lit. a, b, d-h oraz j-l rozporządzenia nr 508/2014,
+” .
+§ 2.
+Do postępowań w sprawie przyznania pomocy finansowej na realizacje operacji w ramach Priorytetu 3 – Wspieranie wdrażania Wspólnej Polityki Rybołówstwa, wszczętych przed dniem wejścia w życie niniejszego rozporządzenia i niezakończonych zawarciem umowy o dofinansowanie, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
+§ 3.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
+1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100).
 

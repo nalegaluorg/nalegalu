@@ -8,10 +8,10 @@ pos: 423
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Warszawa, dnia 6 marca 2023 r.
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 3 marca 2023 r. w sprawie przetwarzania danych biometrycznych Systemu Informacyjnego Schengen
 
 | Pole | Wartość |
 |---|---|
@@ -22,55 +22,112 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2023-03-03 |
 | Data wydania | 2023-03-06 |
+| Wejście w życie | 2023-03-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000423) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/423/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI dnia marca 2023 r.
-sprawie przetwarzania biometrycznych Systemu Informacyjnego Schengen Na podstawie 4 ust. 11 ustawy dnia 24 sierpnia 2007 r. udziale Rzeczypospolitej Polskiej Systemie Informacyjnym Schengen Wizowym Systemie Informacyjnym (Dz. U. 2021 r. poz. 1041 2022 r. poz. 2642) zarządza się, co następuje:
-1) sposób i tryb przetwarzania biometrycznych;
-2) sposób i tryb weryfikacji dopasowań opartych porównaniu daktyloskopijnych.
-2. Użyte rozporządzeniu określenia oznaczają:
-1) dane biometryczne dane, których pkt 13 Parlamentu Europejskiego i Rady (UE) 2018/1861 dnia 28 listopada 2018 r. sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) dziedzinie odpraw granicznych, zmiany konwencji wykonawczej do układu Schengen zmiany i uchylenia (WE) nr 1987/2006 (Dz. 312 07.12.2018, 14, późn. zm. ), zwanego dalej „rozporządzeniem 2018/1861”, pkt 12 Parlamentu Europejskiego i Rady (UE) 2018/1862 dnia 28 listopada 2018 r. sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen
-3) wizerunek twarzy dane, których pkt 15 2018/1861 pkt 14 rozporządzenia 2018/1862;
-4) ślady palców lub dłoni dane stanowiące kompletne lub niekompletne zestawy odbitek linii papilarnych palców lub dłoni nieznanego pochodzenia znalezione miejscu popełnienia przestępstw charakterze terrorystycznym lub innych poważnych przestępstw będących przedmiotem postępowania przygotowawczego;
-5) profil DNA dane, których pkt 15 2018/1862;
-6) właściwy format NIST format zgodny minimalnymi normami jakości i specyfikacjami technicznymi określonymi załączniku do decyzji wykonawczej Komisji (UE) 2021/31 dnia 13 stycznia 2021 r. sprawie ustanowienia zasad stosowania Parlamentu Europejskiego i Rady (UE) 2018/1862 odniesieniu do minimalnych norm jakości i specyfikacji technicznych dotyczących wprowadzania fotografii, profili DNA i do Systemu Informacyjnego Schengen (SIS) dziedzinie współpracy policyjnej i współpracy wymiarów sprawiedliwości sprawach karnych uchylającej decyzję wykonawczą Komisji (UE) 2016/1345 (Dz. 15 18.01.2021, 1) dokumencie kontroli interfejsu SIS;
-7) dopasowanie dopasowanie, którym pkt 7 2018/1861 pkt 6 rozporządzenia 2018/1862.
-3. Organ, którym ust. ustawy dnia 24 sierpnia 2007 r. udziale Rzeczypospolitej Polskiej Systemie Informacyjnym Schengen Wizowym Systemie Informacyjnym, zwanej dalej „ustawą”, zakresie swoich ustawowych uprawnień, pobiera dane daktyloskopijne od osób, których 21h ust. 2 pkt lit. a–g ustawy dnia 6 kwietnia 1990 r. Policji (Dz. U. 2023 r. poz. 171, 2022 r. poz. 2600 2023 r. poz. 185, 240, 289 i 347), zwanej dalej „ustawą Policji”, potrzeby wprowadzenia tych do SIS, wykorzystując tym celu karty daktyloskopijne, których wzory określają przepisy wykonawcze wydane podstawie 20 ust. 1o ustawy Policji.
-2. Organ, którym ust. ustawy, zakresie swoich ustawowych uprawnień zabezpiecza dane daktyloskopijne, których 21h ust. 2 pkt lit. h i ustawy Policji, potrzeby wprowadzenia tych do SIS.
-3. Przed wprowadzeniem do SIS organ, którym ust. ustawy, wyszukuje je SIS.
-4. Pobrane lub zabezpieczone dane daktyloskopijne, których ust. i 2, organ, którym ust. ustawy, przekształca do właściwego formatu NIST i wprowadza do SIS.
-5. W przypadku braku możliwości przekształcenia we własnym zakresie daktyloskopijnych, których ust. i 2, do właściwego formatu NIST organ, którym ust. ustawy, przekazuje te dane do organu posiadającego taką możliwość celu ich przekształcenia do właściwego formatu NIST, a następnie wprowadza je do SIS.
-4. W celu wprowadzenia do SIS przetwarzanych zbiorach daktyloskopijnych, których 21h ust. ustawy Policji, organ, którym ust. ustawy, zwraca się postaci pisemnej lub elektronicznej do Centralnego Laboratorium Kryminalistycznego Policji, zwanego dalej „CLKP”, przekazanie we właściwym formacie NIST.
-5. Organ, którym 4 ust. ustawy, pobiera dane daktyloskopijne potrzeby potwierdzenia lub ustalenia tożsamości osoby, a następnie wykorzystuje te dane do wyszukania SIS. Przepis ust. 5 stosuje się odpowiednio.
-6. W przypadku uzyskania przez organ, którym ust. ustawy, informacji dotyczących jakości przetwarzanych daktyloskopijnych, udostępnionych przez CLKP, organ ten prowadzi konsultacje CLKP, celu wyjaśnienia i sprostowania ewentualnych rozbieżności dotyczących jakości tych danych.
-opracowanego interfejsu wymiany danych, do CLKP.
-3. Funkcjonariusze lub pracownicy CLKP dokonują weryfikacji dopasowanych par daktyloskopijnych.
-4. Wynik zweryfikowanego dopasowania opartego porównaniu przekazuje się automatycznie, poprzez Krajowy System Informatyczny (KSI), do organu, którym ust. lub 4 ust. ustawy.
-8. W przypadku otrzymania przez biuro SIRENE informacji konieczności weryfikacji dopasowania opartego porównaniu udostępnionych przez inne państwo danymi daktyloskopijnymi lub śladami palców lub dłoni znajdującymi się we wpisie utworzonym przez organ, którym ust. ustawy, biuro SIRENE przekazuje niezwłocznie taką informację do CLKP celu weryfikacji dopasowania opartego porównaniu daktyloskopijnych.
-2. CLKP niezwłocznie informuje biuro SIRENE i organ, którym ust. ustawy, wyniku weryfikacji dopasowania opartego porównaniu daktyloskopijnych.
-3. Po uzyskaniu informacji, której ust. 2, biuro SIRENE informuje państwo, którym ust. 1, drodze wymiany informacji uzupełniających, wyniku weryfikacji dopasowania opartego porównaniu daktyloskopijnych.
-9. Jeżeli wyniku wyszukiwania, którym ust. lub 5, organ, którym ust. lub 4 ust. ustawy, uzyska dopasowanie oparte porównaniu wprowadzonych do SIS przez inne państwo, zwraca się wnioskiem do CLKP dokonanie weryfikacji dopasowania opartego porównaniu daktyloskopijnych.
-2. O wyniku weryfikacji dopasowania opartego porównaniu daktyloskopijnych, której ust. 1, CLKP niezwłocznie informuje organ wskazany ust. lub 4 ust. ustawy, który zwrócił się wnioskiem dokonanie weryfikacji dopasowania opartego porównaniu daktyloskopijnych.
-3. O potwierdzeniu dopasowania opartego porównaniu organ wskazany ust.
-lub 4 ust. ustawy, który zwrócił się wnioskiem dokonanie weryfikacji dopasowania opartego porównaniu daktyloskopijnych, informuje biuro SIRENE celu uzyskania informacji uzupełniających przesyła jednocześnie dane daktyloskopijne we właściwym formacie NIST.
-4. Biuro SIRENE informuje państwo, którym ust. 1, drodze wymiany informacji uzupełniających, potwierdzeniu dopasowania opartego porównaniu daktyloskopijnych.
-10. W przypadku uzyskania przez organ, którym ust. lub 4 ust. ustawy, potwierdzenia dopasowania opartego porównaniu do wprowadzonych do SIS przez inne państwo, gdy dane alfanumeryczne znajdujące się we wpisie SIS nie są tożsame, organ ten zwraca się do biura SIRENE wnioskiem wystąpienie do państwa, które utworzyło wpis SIS, celu uzyskania informacji uzupełniających odpowiedniej aktualizacji SIS przesyła jednocześnie dane daktyloskopijne we właściwym formacie NIST.
-2. W przypadku uzyskania przez organ, którym ust. lub 4 ust. ustawy, dopasowania opartego porównaniu do wprowadzonych do SIS przez inne państwo, gdy dane alfanumeryczne znajdujące się we wpisie SIS są tożsame, organ ten zwraca się wnioskiem do CLKP weryfikację dopasowania opartego porównaniu daktyloskopijnych, jeżeli jest to niezbędne do podjęcia dalszych działań.
-2) Rejestrze Dokumentów Paszportowych prowadzonym podstawie 78 ustawy dnia 27 stycznia 2022 r. dokumentach paszportowych (Dz. U. 2023 r. poz. 410), zakresie określonym ust. pkt 1–3 i 7–11 ustawy;
-3) Krajowym Systemie Informacyjnym Policji prowadzonym podstawie 21nb ustawy Policji, zakresie określonym ust. pkt 6 ustawy;
-4) wykazie prowadzonym przez Szefa Urzędu ds. Cudzoziemców podstawie 434 ustawy dnia 12 grudnia 2013 r.
-cudzoziemcach (Dz. U. 2021 r. poz. 2354, późn. zm. ), zakresie określonym ust. pkt 4 ustawy;
-5) innych systemach lub zbiorach prowadzonych przez organy, których ust. ustawy, jeżeli cele przetwarzania tych systemach lub zbiorach są zgodne celami przetwarzania SIS, związku realizacją uprawnień, których ust. pkt 1–11 ustawy.
-12. W celu udostępnienia, potrzeby wprowadzenia do SIS, profili DNA osób, których 21a ust. 2 pkt lit. a–f, i j ustawy Policji, organ, którym ust. ustawy, zwraca się wnioskiem do CLKP przekazanie profili DNA.
-2. Wymiana informacji dotyczących profili DNA pomiędzy organami, których ust. lub 4 ust.
-ustawy, biurem SIRENE i CLKP odbywa się drodze teletransmisji danych, a uzasadnionych przypadkach przez operatora pocztowego rozumieniu ustawy dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. 2022 r. poz. 896, 1933 i 2042).
-13. Rozporządzenie wchodzi życie dniem 7 marca 2023 r.
-Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
+Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Przetwarzanie danych daktyloskopijnych Rozdział 3 – Weryfikacja dopasowań opartych na porównaniu danych daktyloskopijnych Rozdział 4 – Przetwarzanie fotografii i wizerunków twarzy Rozdział 5 – Przetwarzanie profili DNA Rozdział 6 – Przepis końcowy
+Treść rozporządzenia
+Na podstawie art. 4 ust. 11 ustawy z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym (Dz. U. z 2021 r. poz. 1041 oraz z 2022 r. poz. 2642) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+sposób i tryb przetwarzania danych biometrycznych;
+2)
+sposób i tryb weryfikacji dopasowań opartych na porównaniu danych daktyloskopijnych.
+§ 2.
+Użyte w rozporządzeniu określenia oznaczają:
+1)
+dane biometryczne – dane, o których mowa w art. 3 pkt 13 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1861 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie odpraw granicznych, zmiany konwencji wykonawczej do układu z Schengen oraz zmiany i uchylenia rozporządzenia (WE) nr 1987/2006 (Dz. Urz. UE L 312 z 07.12.2018, str. 14, z późn. zm.), zwanego dalej „rozporządzeniem 2018/1861”, oraz art. 3 pkt 12 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1862 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie współpracy policyjnej i współpracy wymiarów sprawiedliwości w sprawach karnych, zmiany i uchylenia decyzji Rady 2007/533/WSiSW oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1986/2006 i decyzji Komisji 2010/261/UE (Dz. Urz. UE L 312 z 07.12.2018, str. 56, z późn. zm.), zwanego dalej „rozporządzeniem 2018/1862”;
+2)
+pary danych daktyloskopijnych – dopasowane przez System Informacyjny Schengen, zwany dalej „SIS”, pary danych daktyloskopijnych składające się z danych daktyloskopijnych, przy użyciu których prowadzi się wyszukiwanie w SIS, i danych daktyloskopijnych będących wynikiem tego wyszukania;
+3)
+wizerunek twarzy – dane, o których mowa w art. 3 pkt 15 rozporządzenia 2018/1861 oraz w art. 3 pkt 14 rozporządzenia 2018/1862;
+4)
+ślady palców lub dłoni – dane stanowiące kompletne lub niekompletne zestawy odbitek linii papilarnych palców lub dłoni nieznanego pochodzenia znalezione na miejscu popełnienia przestępstw o charakterze terrorystycznym lub innych poważnych przestępstw będących przedmiotem postępowania przygotowawczego;
+5)
+profil DNA – dane, o których mowa w art. 3 pkt 15 rozporządzenia 2018/1862;
+6)
+właściwy format NIST – format zgodny z minimalnymi normami jakości danych i specyfikacjami technicznymi określonymi w załączniku do decyzji wykonawczej Komisji (UE) 2021/31 z dnia 13 stycznia 2021 r. w sprawie ustanowienia zasad stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1862 w odniesieniu do minimalnych norm jakości danych i specyfikacji technicznych dotyczących wprowadzania fotografii, profili DNA i danych daktyloskopijnych do Systemu Informacyjnego Schengen (SIS) w dziedzinie współpracy policyjnej i współpracy wymiarów sprawiedliwości w sprawach karnych oraz uchylającej decyzję wykonawczą Komisji (UE) 2016/1345 (Dz. Urz. UE L 15 z 18.01.2021, str. 1) oraz w dokumencie kontroli interfejsu SIS;
+7)
+dopasowanie – dopasowanie, o którym mowa w art. 3 pkt 7 rozporządzenia 2018/1861 oraz w art. 3 pkt 6 rozporządzenia 2018/1862.
+§ 3.
+1.
+Organ, o którym mowa w art. 3 ust. 1 ustawy z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym, zwanej dalej „ustawą”, w zakresie swoich ustawowych uprawnień, pobiera dane daktyloskopijne od osób, o których mowa w art. 21h ust. 2 pkt 1 lit. a-g ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z 2022 r. poz. 2600 oraz z 2023 r. poz. 185, 240, 289 i 347), zwanej dalej „ustawą o Policji”, na potrzeby wprowadzenia tych danych do SIS, wykorzystując w tym celu karty daktyloskopijne, których wzory określają przepisy wykonawcze wydane na podstawie art. 20 ust. 1o ustawy o Policji.
+2.
+Organ, o którym mowa w art. 3 ust. 1 ustawy, w zakresie swoich ustawowych uprawnień zabezpiecza dane daktyloskopijne, o których mowa w art. 21h ust. 2 pkt 1 lit. h oraz i ustawy o Policji, na potrzeby wprowadzenia tych danych do SIS.
+3.
+Przed wprowadzeniem do SIS danych daktyloskopijnych organ, o którym mowa w art. 3 ust. 1 ustawy, wyszukuje je w SIS.
+4.
+Pobrane lub zabezpieczone dane daktyloskopijne, o których mowa w ust. 1 i 2, organ, o którym mowa w art. 3 ust. 1 ustawy, przekształca do właściwego formatu NIST i wprowadza do SIS.
+5.
+W przypadku braku możliwości przekształcenia we własnym zakresie danych daktyloskopijnych, o których mowa w ust. 1 i 2, do właściwego formatu NIST organ, o którym mowa w art. 3 ust. 1 ustawy, przekazuje te dane do organu posiadającego taką możliwość w celu ich przekształcenia do właściwego formatu NIST, a następnie wprowadza je do SIS.
+§ 4.
+W celu wprowadzenia do SIS danych daktyloskopijnych przetwarzanych w zbiorach danych daktyloskopijnych, o których mowa w art. 21h ust. 1 ustawy o Policji, organ, o którym mowa w art. 3 ust. 1 ustawy, zwraca się w postaci pisemnej lub elektronicznej do Centralnego Laboratorium Kryminalistycznego Policji, zwanego dalej „CLKP”, o przekazanie danych daktyloskopijnych we właściwym formacie NIST.
+§ 5.
+Organ, o którym mowa w art. 4 ust. 1 ustawy, pobiera dane daktyloskopijne na potrzeby potwierdzenia lub ustalenia tożsamości osoby, a następnie wykorzystuje te dane do wyszukania w SIS. Przepis § 3 ust. 5 stosuje się odpowiednio.
+§ 6.
+W przypadku uzyskania przez organ, o którym mowa w art. 3 ust. 1 ustawy, informacji dotyczących jakości przetwarzanych danych daktyloskopijnych, udostępnionych przez CLKP, organ ten prowadzi konsultacje z CLKP, w celu wyjaśnienia i sprostowania ewentualnych rozbieżności dotyczących jakości tych danych.
+§ 7.
+1.
+Dopasowanie danych w SIS oparte na porównaniu danych daktyloskopijnych, powstałe w wyniku wyszukiwania, o którym mowa w § 3 ust. 3 lub § 5, wymaga potwierdzenia przez funkcjonariuszy lub pracowników CLKP.
+2.
+Pary danych daktyloskopijnych dopasowane w SIS i wymagające weryfikacji dopasowania opartego na porównaniu danych daktyloskopijnych przekazuje się automatycznie, poprzez Krajowy System Informatyczny (KSI), z wykorzystaniem opracowanego interfejsu wymiany danych, do CLKP.
+3.
+Funkcjonariusze lub pracownicy CLKP dokonują weryfikacji dopasowanych par danych daktyloskopijnych.
+4.
+Wynik zweryfikowanego dopasowania opartego na porównaniu danych daktyloskopijnych przekazuje się automatycznie, poprzez Krajowy System Informatyczny (KSI), do organu, o którym mowa w art. 3 ust. 1 lub art. 4 ust. 1 ustawy.
+§ 8.
+1.
+W przypadku otrzymania przez biuro SIRENE informacji o konieczności weryfikacji dopasowania opartego na porównaniu danych daktyloskopijnych udostępnionych przez inne państwo z danymi daktyloskopijnymi lub śladami palców lub dłoni znajdującymi się we wpisie utworzonym przez organ, o którym mowa w art. 3 ust. 1 ustawy, biuro SIRENE przekazuje niezwłocznie taką informację do CLKP w celu weryfikacji dopasowania opartego na porównaniu danych daktyloskopijnych.
+2.
+CLKP niezwłocznie informuje biuro SIRENE i organ, o którym mowa w art. 3 ust. 1 ustawy, o wyniku weryfikacji dopasowania opartego na porównaniu danych daktyloskopijnych.
+3.
+Po uzyskaniu informacji, o której mowa w ust. 2, biuro SIRENE informuje państwo, o którym mowa w ust. 1, w drodze wymiany informacji uzupełniających, o wyniku weryfikacji dopasowania opartego na porównaniu danych daktyloskopijnych.
+§ 9.
+1.
+Jeżeli w wyniku wyszukiwania, o którym mowa w § 3 ust. 3 lub § 5, organ, o którym mowa w art. 3 ust. 1 lub art. 4 ust. 1 ustawy, uzyska dopasowanie oparte na porównaniu danych daktyloskopijnych wprowadzonych do SIS przez inne państwo, zwraca się z wnioskiem do CLKP o dokonanie weryfikacji dopasowania opartego na porównaniu danych daktyloskopijnych.
+2.
+O wyniku weryfikacji dopasowania opartego na porównaniu danych daktyloskopijnych, o której mowa w ust. 1, CLKP niezwłocznie informuje organ wskazany w art. 3 ust. 1 lub art. 4 ust. 1 ustawy, który zwrócił się z wnioskiem o dokonanie weryfikacji dopasowania opartego na porównaniu danych daktyloskopijnych.
+3.
+O potwierdzeniu dopasowania opartego na porównaniu danych daktyloskopijnych organ wskazany w art. 3 ust. 1 lub art. 4 ust. 1 ustawy, który zwrócił się z wnioskiem o dokonanie weryfikacji dopasowania opartego na porównaniu danych daktyloskopijnych, informuje biuro SIRENE w celu uzyskania informacji uzupełniających oraz przesyła jednocześnie dane daktyloskopijne we właściwym formacie NIST.
+4.
+Biuro SIRENE informuje państwo, o którym mowa w ust. 1, w drodze wymiany informacji uzupełniających, o potwierdzeniu dopasowania opartego na porównaniu danych daktyloskopijnych.
+§ 10.
+1.
+W przypadku uzyskania przez organ, o którym mowa w art. 3 ust. 1 lub art. 4 ust. 1 ustawy, potwierdzenia dopasowania opartego na porównaniu danych daktyloskopijnych do danych daktyloskopijnych wprowadzonych do SIS przez inne państwo, gdy dane alfanumeryczne znajdujące się we wpisie danych SIS nie są tożsame, organ ten zwraca się do biura SIRENE z wnioskiem o wystąpienie do państwa, które utworzyło wpis danych SIS, w celu uzyskania informacji uzupełniających oraz odpowiedniej aktualizacji danych SIS oraz przesyła jednocześnie dane daktyloskopijne we właściwym formacie NIST.
+2.
+W przypadku uzyskania przez organ, o którym mowa w art. 3 ust. 1 lub art. 4 ust. 1 ustawy, dopasowania opartego na porównaniu danych daktyloskopijnych do danych daktyloskopijnych wprowadzonych do SIS przez inne państwo, gdy dane alfanumeryczne znajdujące się we wpisie danych SIS są tożsame, organ ten zwraca się z wnioskiem do CLKP o weryfikację dopasowania opartego na porównaniu danych daktyloskopijnych, jeżeli jest to niezbędne do podjęcia dalszych działań.
+3.
+Biuro SIRENE lub odpowiednio CLKP informuje organ, o którym mowa w art. 3 ust. 1 lub art. 4 ust. 1 ustawy, o wyniku weryfikacji dopasowania opartego na porównaniu danych daktyloskopijnych.
+§ 11.
+W celu wprowadzenia do SIS danych w postaci fotografii i wizerunków twarzy organ, o którym mowa w art. 3 ust. 1 ustawy, pobiera dane w postaci fotografii i wizerunków twarzy przetwarzane w:
+1)
+Rejestrze Dowodów Osobistych prowadzonym na podstawie art. 55 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych (Dz. U. z 2022 r. poz. 671), w zakresie określonym w art. 3 ust. 1 pkt 1–3 i 7–11 ustawy;
+2)
+Rejestrze Dokumentów Paszportowych prowadzonym na podstawie art. 78 ustawy z dnia 27 stycznia 2022 r. o dokumentach paszportowych (Dz. U. z 2023 r. poz. 410), w zakresie określonym w art. 3 ust. 1 pkt 1–3 i 7–11 ustawy;
+3)
+Krajowym Systemie Informacyjnym Policji prowadzonym na podstawie art. 21nb ustawy o Policji, w zakresie określonym w art. 3 ust. 1 pkt 6 ustawy;
+4)
+wykazie prowadzonym przez Szefa Urzędu ds. Cudzoziemców na podstawie art. 434 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2021 r. poz. 2354, z późn. zm.), w zakresie określonym w art. 3 ust. 1 pkt 4 ustawy;
+5)
+innych systemach lub zbiorach danych prowadzonych przez organy, o których mowa w art. 3 ust. 1 ustawy, jeżeli cele przetwarzania danych w tych systemach lub zbiorach danych są zgodne z celami przetwarzania danych w SIS, oraz w związku z realizacją uprawnień, o których mowa w art. 3 ust. 1 pkt 1–11 ustawy.
+§ 12.
+1.
+W celu udostępnienia, na potrzeby wprowadzenia do SIS, profili DNA osób, o których mowa w art. 21a ust. 2 pkt 1 lit. a-f, i oraz j ustawy o Policji, organ, o którym mowa w art. 3 ust. 1 ustawy, zwraca się z wnioskiem do CLKP o przekazanie profili DNA.
+2.
+Wymiana informacji dotyczących profili DNA pomiędzy organami, o których mowa w art. 3 ust. 1 lub art. 4 ust. 1 ustawy, biurem SIRENE i CLKP odbywa się w drodze teletransmisji danych, a w uzasadnionych przypadkach przez operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2022 r. poz. 896, 1933 i 2042).
+§ 13.
+Rozporządzenie wchodzi w życie z dniem 7 marca 2023 r.
+1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Niniejsze rozporządzenie, w zakresie swojej regulacji, służy stosowaniu: 1) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1860 z dnia 28 listopada 2018 r. w sprawie użytkowania Systemu Informacyjnego Schengen do celów powrotu nielegalnie przebywających obywateli państw trzecich (Dz. Urz. UE L 312 z 07.12.2018, str. 1, Dz. Urz. UE L 248 z 13.07.2021, str. 11 oraz Dz. Urz. UE L 249 z 14.07.2021, str. 15); 2) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1861 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie odpraw granicznych, zmiany konwencji wykonawczej do układu z Schengen oraz zmiany i uchylenia rozporządzenia (WE) nr 1987/2006 (Dz. Urz. UE L 312 z 07.12.2018, str. 14, Dz. Urz. UE L 135 z 22.05.2019, str. 27, Dz. Urz. UE L 248 z 13.07.2021, str. 11 oraz Dz. Urz. UE L 249 z 14.07.2021, str. 15); 3) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1862 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie współpracy policyjnej i współpracy wymiarów sprawiedliwości w sprawach karnych, zmiany i uchylenia decyzji Rady 2007/533/WSiSW oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1986/2006 i decyzji Komisji 2010/261/UE (Dz. Urz. UE L 312 z 07.12.2018, str. 56, Dz. Urz. UE L 135 z 22.05.2019, str. 85, Dz. Urz. UE L 316I z 06.12.2019, str. 4, Dz. Urz. UE L 248 z 13.07.2021, str. 1, Dz. Urz. UE L 249 z 14.07.2021, str. 1 oraz Dz. Urz. UE L 185 z 12.07.2022, str. 1). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 135 z 22.05.2019, str. 27, Dz. Urz. UE L 248 z 13.07.2021, str. 11 oraz Dz. Urz. UE L 249 z 14.07.2021, str. 15. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 135 z 22.05.2019, str. 85, Dz. Urz. UE L 316I z 06.12.2019, str. 4, Dz. Urz. UE L 248 z 13.07.2021, str. 1, Dz. Urz. UE L 249 z 14.07.2021, str. 1 oraz Dz. Urz. UE L 185 z 12.07.2022, str. 1. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 91, 583, 830, 835, 1383, 1561 i 2185 oraz z 2023 r. poz. 185.
 
-#### Rozdział Przepisy ogólne Rozporządzenie określa:
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Przetwarzanie
+#### Rozdział 2 Przetwarzanie danych daktyloskopijnych
+
+#### Rozdział 3 Weryfikacja dopasowań opartych na porównaniu danych daktyloskopijnych
+
+#### Rozdział 4 Przetwarzanie fotografii i wizerunków twarzy
 
 #### Rozdział 5 Przetwarzanie profili DNA
 

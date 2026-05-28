@@ -2,17 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 1 grudnia 1961 r. o izbach morskich.*
 
-Łącznie: **5** orzeczeń
-(pominięto 1 orzeczeń sądów rejonowych)
-
-## art. 20 (2)
-
-- 2022-10-12 | SO | [II AKa 384/21](https://www.saos.org.pl/judgments/490650) | Wyrok
-- 2019-05-13 | SO | [II AKa 379/18](https://www.saos.org.pl/judgments/386853) | Wyrok
-
-## art. 35 (1)
-
-- 2019-05-13 | SO | [II AKa 379/18](https://www.saos.org.pl/judgments/386853) | Wyrok
+Łącznie: **3** orzeczeń
 
 ## art. 45 (1)
 

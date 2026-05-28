@@ -3,7 +3,6 @@
 Orzeczenia powołujące: *Ustawa z dnia 4 lipca 1996 r. o zmianie ustaw o podatku rolnym, o lasach, o podatkach i opłatach lokalnych oraz o ochronie przyrody.*
 
 Łącznie: **1** orzeczeń
-(pominięto 1 orzeczeń sądów rejonowych)
 
 ## art. 3 (1)
 

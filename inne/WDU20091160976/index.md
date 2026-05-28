@@ -8,12 +8,10 @@ pos: 976
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy o systemie identyfikacji i rejestracji zwierząt
-
-*USTAWA z dnia 25 czerwca 2009 r.*
+# Ustawa z dnia 25 czerwca 2009 r. o zmianie ustawy o systemie identyfikacji i rejestracji zwierząt
 
 | Pole | Wartość |
 |---|---|
@@ -24,196 +22,415 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2009-06-25 |
 | Data wydania | 2009-07-23 |
+| Wejście w życie | 2009-08-07 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091160976) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/976/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2008 r. Nr 204, poz. 1281) wprowadza się następujące zmiany:
 
-**Art. 13b.**
+- **1)** w tytule ustawy dodaje się odnośnik nr 1 w brzmieniu: „
+- **1)** Przepisy ustawy:
+- **1)** wykonują postanowienia: rozporządzenia Komisji (WE) nr 494/98 z dnia 27 lutego 1998 r. ustanawiającego szczegółowe przepisy wykonawcze do rozporządzenia Rady (WE) nr 820/97 w odniesieniu do stosowania minimalnych sankcji administracyjnych w ramach systemu identyfikacji i rejestracji bydła (Dz. Urz. WE L 60 z 28.02.1998, str. 78; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 46, str. 12), rozporządzenia (WE) nr 1760/2000 Parlamentu Europejskiego i Rady z dnia 17 lipca 2000 r. ustanawiającego system identyfikacji i rejestracji bydła i dotyczącego etykietowania wołowiny i produktów z wołowiny oraz uchylającego rozporządzenie Rady (WE) nr 820/97 (Dz. Urz. WE L 204 z 11.08.2000, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 30, str. 248, z późn. zm.), rozporządzenia Komisji (WE) nr 1082/2003 z dnia 23 czerwca 2003 r. ustanawiającego szczegółowe zasady w celu wykonania rozporządzenia (WE) nr 1760/2000 Parlamentu Europejskiego i Rady w zakresie minimalnego poziomu kontroli przeprowadzanych w ramach systemu identyfikacji i rejestracji bydła (Dz. Urz. UE L 156 z 25.06.2003, str. 9, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 39, str. 135, z późn. zm.), rozporządzenia Rady (WE) nr 21/2004 z dnia 17 grudnia 2003 r. ustanawiającego system identyfikacji i rejestracji owiec i kóz oraz zmieniającego rozporządzenie (WE) nr 1782/2003 i dyrektywy 92/102/EWG i 64/432/EWG (Dz. Urz. UE L 5 z 09.01.2004, str. 8, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 42, str. 56), rozporządzenia Komisji (WE) nr 911/2004 z dnia 29 kwietnia 2004 r. w sprawie wykonania rozporządzenia (WE) nr 1760/2000 Parlamentu Europejskiego i Rady w zakresie kolczyków, paszportów i rejestrów gospodarstw (Dz. Urz. UE L 163 z 30.04.2004, str. 65, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 46, str. 242), rozporządzenia Komisji (WE) nr 1505/2006 z dnia 11 października 2006 r. wdrażającego rozporządzenie Rady (WE) nr 21/2004 w zakresie minimalnego poziomu kontroli prowadzonych w związku z identyfikacją i rejestrowaniem owiec i kóz (Dz. Urz. UE L 280 z 12.10.2006, str. 3), rozporządzenia Komisji (WE) nr 504/2008 z dnia 6 czerwca 2008 r. wykonującego dyrektywy Rady 90/426/EWG i 90/427/EWG w odniesieniu do metod identyfikacji koniowatych (Dz. Urz. UE L 149 z 07.06.2008, str. 3);
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
 
-1. Koszty związane z prowadzeniem, utrzymaniem i modernizacją centralnej bazy danych, o której mowa art. 13a, mogą być dofinansowywane z budżetu państwa formie dotacji celowej.
+- **2)** wdrażają postanowienia: decyzji Komisji 2006/968/WE z dnia 15 grudnia 2006 r. wykonującej rozporządzenie Rady (WE) nr 21/2004 w odniesieniu do wytycznych i procedur elektronicznej identyfikacji i rejestrowania owiec i kóz (Dz. Urz. UE L 401 z 30.12.2006, str. 41, z późn. zm.), dyrektywy Rady 2008/71/WE z dnia 15 lipca 2008 r. w sprawie identyfikacji i rejestracji świń (Dz. Urz. UE L 213 z 08.08.2008, str. 31). ” ;
+    - **a)**
+    - **b)**
 
-2. Dofinansowania udziela się na wniosek podmiotu prowadzącego centralną bazę danych, o którym mowa art. 5 pkt 2, na podstawie umowy zawartej między tym podmiotem a ministrem właściwym do spraw rolnictwa.
+- **2)** w art. 1 pkt 1 otrzymuje brzmienie: „
+- **1)** zasady identyfikacji i rejestracji zwierząt, w tym tryb nadawania numerów siedzib stad oraz numerów identyfikacyjnych zwierząt, a także wpisywania na listę prowadzoną przez Agencję Restrukturyzacji i Modernizacji Rolnictwa i skreślania z tej listy podmiotów dostarczających kolczyki lub duplikaty kolczyków, kolczyki lub duplikaty kolczyków zawierające elektroniczne identyfikatory albo czytniki elektronicznych identyfikatorów, zwanych dalej „dostawcami”; ” ;
+- **3)** w art. 2 w ust. 1: pkt 3 otrzymuje brzmienie: „
+    - **a)**
 
-3. Do umowy, o której mowa ust. 2, stosuje się przepisy art. 130 ustawy z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z poźn. zm. ).”;
+- **3)** koniowate – koniowate w rozumieniu art. 2 ust. 2 lit. c rozporządzenia Komisji (WE) nr 504/2008 z dnia 6 czerwca 2008 r. wykonującego dyrektywy Rady 90/426/EWG i 90/427/EWG w odniesieniu do metod identyfikacji koniowatych (Dz. Urz. UE L 149 z 07.06.2008, str. 3), zwanego dalej „rozporządzeniem nr 504/2008”; ” , pkt 10 otrzymuje brzmienie: „
+    - **b)**
 
-- **11)** art. 14–16 otrzymują brzmienie: „Art. 14. 1. Koniowate są zaopatrywane paszport koniowatego zgodnie z rozporządzeniem nr 504/2008.
+- **10)** zakład przetwórczy – zakład, w którym jest prowadzona działalność polegająca na przetwarzaniu zwłok zwierzęcych, w zakresie określonym w przepisach rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1774/2002 z dnia 3 października 2002 r. ustanawiającego przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego nieprzeznaczonych do spożycia przez ludzi (Dz. Urz. WE L 273 z 10.10.2002, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 37, str. 92, z późn. zm.); ” , po pkt 10 dodaje się pkt 10a w brzmieniu: „
+    - **c)**
 
-2. Wzór paszportu koniowatego jest określony załączniku I do rozporządzenia nr 504/2008.
+- **10a)** spalarnia – spalarnię w rozumieniu pkt 30 albo 36 załącznika I do rozporządzenia wymienionego w pkt 10; ” , w pkt 11: – lit. c otrzymuje brzmienie: „ c) w odniesieniu do świń – osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadająca osobowości prawnej, władającą zwierzęciem, nawet tymczasowo, ” , – dodaje się lit. d w brzmieniu: „ d) w odniesieniu do koniowatych – podmiot, o którym mowa w art. 2 ust. 2 lit. a rozporządzenia nr 504/2008; ” , pkt 12 otrzymuje brzmienie: „
+    - **d)**
+    - **e)**
 
-3. Informacje inne niż określone rozporządzeniu nr 504/2008 umieszcza się paszporcie koniowatego po informacjach, o których mowa rozporządzeniu nr 504/2008, nie naruszając struktury tego paszportu przewidzianej rozporządzeniu nr 504/2008. którym mowa art. 5, przed dniem opuszczenia przez koniowatego lub jego matkę siedziby stada, której ten koniowaty się urodził, nie później niż terminie 90 dni przed terminem określonym art. 5 ust. 6 rozporządzenia nr 504/2008.
+- **12)** siedziba stada – wszelkie budynki, zagrody, pastwiska lub miejsca na otwartej przestrzeni, w których przebywa dane stado lub stada różnych zwierząt gospodarskich, a także jest prowadzony chów lub hodowla tych zwierząt; ” , po pkt 14 dodaje się pkt 14a w brzmieniu: „
+    - **f)**
 
-5. Po otrzymaniu zgłoszenia podmiot, o którym mowa art. 5, nadaje koniowatemu numer identyfikacyjny rozumieniu art. 2 ust. 2 lit. d rozporządzenia nr 504/2008 oraz wydaje zgłaszającemu paszport koniowatego terminie 90 dni od dnia otrzymania zgłoszenia.
+- **14a)** świnie – wszystkie zwierzęta z rodziny Suidae, z wyłączeniem dzików wolno żyjących; ” ;
+- **4)** w art. 3 w ust. 1 pkt 4 otrzymuje brzmienie: „
+- **4)** elementy, o których mowa w art. 3 ust. 3 rozporządzenia nr 504/2008; ” ;
+- **5)** w art. 8: w ust. 1 pkt 3 otrzymuje brzmienie: „
+    - **a)**
 
-6. Identyfikacja koniowatego jest dokonywana przez osobę posiadającą co najmniej średnie wykształcenie, która zawarła pisemną umowę z podmiotem, o którym mowa art. 5.
+- **3)** dane dotyczące zwłok zwierząt gospodarskich oraz zakładów przetwórczych lub spalarni. ” , ust. 3 otrzymuje brzmienie: „
+    - **b)**
 
-7. Przy dokonywaniu identyfikacji koniowatego sposób określony art. 11 rozporządzenia nr 504/2008 właściciel koniowatego jest obowiązany udzielić osobie dokonującej tej identyfikacji pomocy niezbędnej do wykonania tej czynności.
+3. Dane dotyczące zakładów przetwórczych lub spalarni mogą być usunięte z rejestru zwierząt gospodarskich oznakowanych po upływie okresu, o którym mowa w art. 11 ust. 2, nie wcześniej jednak niż po upływie 3 lat od dnia zaprzestania przetwarzania lub spalania zwłok zwierząt gospodarskich przez podmioty prowadzące zakład przetwórczy lub spalarnię. ” ;
 
-8. Jeżeli warunek określony ust. 7 nie zostanie spełniony można odstąpić od dokonania identyfikacji koniowatego. W przypadku odstąpienia od dokonania identyfikacji koniowatego opłata, o której mowa art. 15 ust. 1, podlega zwrotowi wysokości pomniejszonej o koszty poniesione przez podmiot dokonujący tej identyfikacji związane z przystąpieniem do identyfikacji tego koniowatego.
+- **6)** art. 9 otrzymuje brzmienie: „
+
+**Art. 9.**
+
+1. Posiadacz zwierzęcia gospodarskiego, podmiot prowadzący miejsce gromadzenia zwierząt, podmiot prowadzący rzeźnię oraz podmiot prowadzący zakład przetwórczy lub spalarnię są obowiązani zgłosić kierownikowi biura powiatowego Agencji, zwanemu dalej „kierownikiem biura”, siedzibę stada, miejsce gromadzenia zwierząt, rzeźnię oraz zakład przetwórczy lub spalarnię w celu nadania numeru siedziby stada, numeru miejsca gromadzenia zwierząt, numeru rzeźni, numeru zakładu przetwórczego lub spalarni, nie później niż w dniu:
+
+- **1)** wprowadzenia pierwszego zwierzęcia gospodarskiego do siedziby stada lub miejsca gromadzenia zwierząt;
+- **2)** uboju pierwszego zwierzęcia gospodarskiego;
+- **3)** unieszkodliwienia zwłok zwierzęcia gospodarskiego w zakładzie przetwórczym lub spalarni.
+
+2. Zgłoszenia dokonuje się w formie:
+
+- **1)** pisemnej na formularzu udostępnionym przez Agencję albo
+- **2)** elektronicznej: przez umieszczenie danych na informatycznym nośniku danych w sposób określony przez Agencję albo na formularzu umieszczonym na stronie internetowej administrowanej przez Agencję, umożliwiającym wprowadzenie danych do systemu teleinformatycznego Agencji, w którym jest prowadzony rejestr zwierząt gospodarskich oznakowanych.
+    - **a)**
+    - **b)**
+
+3. Numer siedziby stada, numer rzeźni oraz numer zakładu przetwórczego lub spalarni składa się z:
+
+- **1)** liter „PL”;
+- **2)** dziewięciu cyfr oznaczających, nadawany na podstawie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, numer identyfikacyjny posiadacza zwierzęcia gospodarskiego, w tym podmiotu prowadzącego rzeźnię, a w przypadku podmiotu prowadzącego zakład przetwórczy lub spalarnię – numer podmiotu prowadzącego zakład utylizacyjny;
+- **3)** trzech cyfr oznaczających kolejny numer siedziby stada albo numer rzeźni, albo numer zakładu przetwórczego lub spalarni.
+
+4. Kierownik biura wydaje posiadaczowi zwierzęcia gospodarskiego oraz podmiotowi prowadzącemu rzeźnię, zakład przetwórczy lub spalarnię zaświadczenie o nadanym numerze w terminie 7 dni od dnia otrzymania zgłoszenia, o którym mowa w ust. 1.
+
+5. Kierownik biura odmawia, w drodze decyzji, nadania numeru siedziby stada albo numeru rzeźni, albo numeru zakładu przetwórczego lub spalarni, jeżeli nie został nadany numer, o którym mowa w ust. 3 pkt 2.
+
+6. Przepisów ust. 1–5 nie stosuje się do posiadacza zwierząt gospodarskich:
+
+- **1)** władającego tymi zwierzętami tymczasowo w związku z ich transportem;
+- **2)** utrzymującego te zwierzęta jako zwierzęta cyrkowe w rozumieniu rozporządzenia Komisji (WE) nr 1739/2005 z dnia 21 października 2005 r. ustanawiającego wymogi dotyczące zdrowia zwierząt w odniesieniu do przemieszczania zwierząt cyrkowych między państwami członkowskimi (Dz. Urz. UE L 279 z 22.10.2005, str. 47). ” ;
+- **7)** po art. 10 dodaje się art. 10a w brzmieniu: „
+
+**Art. 10a.**
+
+1. Posiadacz zwierzęcia gospodarskiego jest uprawniony do uzyskania informacji w zakresie danych dotyczących zwierząt w siedzibie jego stada, zawartych w rejestrze zwierząt gospodarskich oznakowanych.
+
+2. Jeżeli istnieją rozbieżności między danymi zawartymi w rejestrze zwierząt gospodarskich oznakowanych a stanem faktycznym, Agencja dokonuje aktualizacji tych danych, na wniosek posiadacza zwierzęcia gospodarskiego, złożony na formularzu udostępnionym przez Agencję.
+
+3. Podstawę dokonania aktualizacji stanowią dane zawarte w księdze rejestracji prowadzonej dla danego stada. ” ;
+
+- **8)** w art. 12: w ust. 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+    - **a)**
+
+- **3)** ubój, zabicie lub padnięcie zwierzęcia w terminie 7 dni – w przypadku owiec i kóz. ” , uchyla się ust. 2, ust. 4 otrzymuje brzmienie: „
+    - **b)**
+    - **c)**
+
+4. Przepisów ust. 3 nie stosuje się do posiadaczy świń władających nimi tymczasowo w związku z:
+
+- **1)** transportem zwierząt;
+- **2)** organizowaniem wystaw, pokazów lub konkursów. ” , ust. 6 i 7 otrzymują brzmienie: „
+    - **d)**
+
+6. Podmiot prowadzący zakład przetwórczy lub spalarnię jest obowiązany zgłosić kierownikowi biura, w terminie 7 dni, unieszkodliwienie zwłok zwierzęcia gospodarskiego.
+
+7. Zgłoszeń, o których mowa w ust. 1, 3 i 6, dokonuje się w formie:
+
+- **1)** pisemnej na formularzu udostępnionym przez Agencję albo
+- **2)** elektronicznej: przez umieszczenie danych na informatycznym nośniku danych w sposób określony przez Agencję albo na formularzu umieszczonym na stronie internetowej administrowanej przez Agencję, umożliwiającym wprowadzenie danych do systemu teleinformatycznego Agencji, w którym jest prowadzony rejestr zwierząt gospodarskich oznakowanych. ” , uchyla się ust. 8;
+    - **a)**
+    - **b)**
+    - **e)**
+
+- **9)** art. 13 otrzymuje brzmienie: „
+
+**Art. 13.** W rejestrze koniowatych gromadzi się dane określone w art. 21 ust. 1 rozporządzenia nr 504/2008. ” ;
+
+- **10)** po art. 13 dodaje się art. 13a i 13b w brzmieniu: „
+
+1. Tworzy się centralną bazę danych w rozumieniu art. 23 ust. 1 rozporządzenia nr 504/2008.
+
+2. Centralną bazę danych prowadzi podmiot, o którym mowa w art. 5 pkt 2.
+
+3. Podmioty, o których mowa w art. 5, niezwłocznie przekazują do centralnej bazy danych informacje, o których mowa w art. 21 ust. 1 rozporządzenia nr 504/2008.
+
+4. Za przekazanie i wprowadzenie do centralnej bazy danych informacji, o których mowa w art. 21 ust. 1 rozporządzenia nr 504/2008, oraz ich przechowywanie pobiera się opłatę od podmiotów innych niż podmioty, o których mowa w art. 5 pkt 2.
+
+5. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia:
+
+- **1)** sposób przekazywania do centralnej bazy danych informacji, o których mowa w art. 21 ust. 1 rozporządzenia nr 504/2008, mając na względzie zapewnienie prawidłowego funkcjonowania centralnej bazy danych oraz wiarygodność informacji w niej zawartych;
+- **2)** wysokość i sposób pobierania opłaty, o której mowa w ust. 4, mając na względzie koszty ponoszone przez podmiot, o którym mowa w art. 5 pkt 2, związane z utrzymaniem centralnej bazy danych.
+
+1. Koszty związane z prowadzeniem, utrzymaniem i modernizacją centralnej bazy danych, o której mowa w art. 13a, mogą być dofinansowywane z budżetu państwa w formie dotacji celowej.
+
+2. Dofinansowania udziela się na wniosek podmiotu prowadzącego centralną bazę danych, o którym mowa w art. 5 pkt 2, na podstawie umowy zawartej między tym podmiotem a ministrem właściwym do spraw rolnictwa.
+
+3. Do umowy, o której mowa w ust. 2, stosuje się przepisy art. 130 ustawy z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm.). ” ;
+
+- **11)** art. 14–16 otrzymują brzmienie: „
+
+**Art. 14.**
+
+1. Koniowate są zaopatrywane w paszport koniowatego zgodnie z rozporządzeniem nr 504/2008.
+
+2. Wzór paszportu koniowatego jest określony w załączniku I do rozporządzenia nr 504/2008.
+
+3. Informacje inne niż określone w rozporządzeniu nr 504/2008 umieszcza się w paszporcie koniowatego po informacjach, o których mowa w rozporządzeniu nr 504/2008, nie naruszając struktury tego paszportu przewidzianej w rozporządzeniu nr 504/2008.
+
+4. Właściciel koniowatego dokonuje zgłoszenia koniowatego, o którym mowa w art. 5 rozporządzenia nr 504/2008, podmiotowi, o którym mowa w art. 5, przed dniem opuszczenia przez koniowatego lub jego matkę siedziby stada, w której ten koniowaty się urodził, nie później niż w terminie 90 dni przed terminem określonym w art. 5 ust. 6 rozporządzenia nr 504/2008.
+
+5. Po otrzymaniu zgłoszenia podmiot, o którym mowa w art. 5, nadaje koniowatemu numer identyfikacyjny w rozumieniu art. 2 ust. 2 lit. d rozporządzenia nr 504/2008 oraz wydaje zgłaszającemu paszport koniowatego w terminie 90 dni od dnia otrzymania zgłoszenia.
+
+6. Identyfikacja koniowatego jest dokonywana przez osobę posiadającą co najmniej średnie wykształcenie, która zawarła pisemną umowę z podmiotem, o którym mowa w art. 5.
+
+7. Przy dokonywaniu identyfikacji koniowatego w sposób określony w art. 11 rozporządzenia nr 504/2008 właściciel koniowatego jest obowiązany udzielić osobie dokonującej tej identyfikacji pomocy niezbędnej do wykonania tej czynności.
+
+8. Jeżeli warunek określony w ust. 7 nie zostanie spełniony można odstąpić od dokonania identyfikacji koniowatego. W przypadku odstąpienia od dokonania identyfikacji koniowatego opłata, o której mowa w art. 15 ust. 1, podlega zwrotowi w wysokości pomniejszonej o koszty poniesione przez podmiot dokonujący tej identyfikacji związane z przystąpieniem do identyfikacji tego koniowatego.
 
 9. Podstawą wystawienia paszportu koniowatego jest:
 
 - **1)** dla koni pełnej krwi angielskiej, koni czystej krwi arabskiej, koni rasy kłusak oraz kuców szetlandzkich – zidentyfikowanie konia oraz zaświadczenie potwierdzające dokonanie wpisu do księgi hodowlanej, wydane na podstawie przepisów o organizacji hodowli i rozrodzie zwierząt gospodarskich;
-- **2)** dla koni hodowlanych innych ras niż wymienione pkt 1 – zgłoszenie właściciela konia zawierające numery identyfikacyjne rodziców konia, do którego dołącza się:
-    - **a)** oświadczenie potwierdzające, że jest właścicielem tego koniowatego,
-    - **b)** zaświadczenie o wykonaniu sztucznego unasienniania albo świadectwo pokrycia klaczy, która jest matką identyfikowanego konia, wydane na podstawie przepisów o organizacji hodowli i rozrodzie zwierząt gospodarskich;
+- **2)** dla koni hodowlanych innych ras niż wymienione w pkt 1 – zgłoszenie właściciela konia zawierające numery identyfikacyjne rodziców konia, do którego dołącza się: oświadczenie potwierdzające, że jest właścicielem tego koniowatego, zaświadczenie o wykonaniu sztucznego unasienniania albo świadectwo pokrycia klaczy, która jest matką identyfikowanego konia, wydane na podstawie przepisów o organizacji hodowli i rozrodzie zwierząt gospodarskich;
+    - **a)**
+    - **b)**
 
-- **3)** dla pozostałych koniowatych:
-    - **a)** zgłoszenie właściciela koniowatego zawierające numery identyfikacyjne rodziców koniowatego, do którego dołącza się: – oświadczenie potwierdzające, że jest właścicielem tego koniowatego, ką identyfikowanego koniowatego, wydane na podstawie przepisów o organizacji hodowli i rozrodzie zwierząt gospodarskich, albo
-    - **b)** zgłoszenie właściciela koniowatego, do którego dołącza się: – oświadczenie potwierdzające, że jest właścicielem tego koniowatego, – wyniki badań tego koniowatego kierunku nosacizny (Glanders), niedokrwistości zakaźnej koni (Equine infectious anaemia) i zarazy stadniczej (Dourine).
+- **3)** dla pozostałych koniowatych: zgłoszenie właściciela koniowatego zawierające numery identyfikacyjne rodziców koniowatego, do którego dołącza się: – oświadczenie potwierdzające, że jest właścicielem tego koniowatego, – zaświadczenie o wykonaniu sztucznego unasienniania albo świadectwo pokrycia klaczy, która jest matką identyfikowanego koniowatego, wydane na podstawie przepisów o organizacji hodowli i rozrodzie zwierząt gospodarskich, albo zgłoszenie właściciela koniowatego, do którego dołącza się: – oświadczenie potwierdzające, że jest właścicielem tego koniowatego, – wyniki badań tego koniowatego w kierunku nosacizny (Glanders), niedokrwistości zakaźnej koni (Equine infectious anaemia) i zarazy stadniczej (Dourine).
+    - **a)**
+    - **b)**
 
-10. W przypadku koniowatych, o których mowa art. 7 ust. 1 rozporządzenia nr 504/2008, pochodzących z obszaru parku narodowego lub parku krajobrazowego podstawą wystawienia paszportu koniowatego jest zgłoszenie dyrektora parku narodowego lub dyrektora parku krajobrazowego.
+10. W przypadku koniowatych, o których mowa w art. 7 ust. 1 rozporządzenia nr 504/2008, pochodzących z obszaru parku narodowego lub parku krajobrazowego podstawą wystawienia paszportu koniowatego jest zgłoszenie dyrektora parku narodowego lub dyrektora parku krajobrazowego.
 
-11. Zgłoszenia, o którym mowa ust. 10, dokonuje się podmiotowi o którym mowa art. 5, nie później niż terminie 60 dni przed dniem opuszczenia przez koniowatego obszaru parku narodowego lub parku krajobrazowego.
+11. Zgłoszenia, o którym mowa w ust. 10, dokonuje się podmiotowi o którym mowa w art. 5, nie później niż w terminie 60 dni przed dniem opuszczenia przez koniowatego obszaru parku narodowego lub parku krajobrazowego.
 
-12. Właściciel koniowatego, a przypadku koniowatych, o których mowa art. 7 ust. 1 rozporządzenia nr 504/2008 – dyrektor parku narodowego lub dyrektor parku krajobrazowego, odbiera paszport koniowatego lub jego duplikat osobiście, chyba że złoży podmiotowi prowadzącemu rejestr koniowatych oświadczenie, którym wyrazi zgodę na doręczenie mu tego paszportu lub jego duplikatu za pośrednictwem placówki pocztowej operatora publicznego, przesyłką poleconą za potwierdzeniem odbioru.
+12. Właściciel koniowatego, a w przypadku koniowatych, o których mowa w art. 7 ust. 1 rozporządzenia nr 504/2008 – dyrektor parku narodowego lub dyrektor parku krajobrazowego, odbiera paszport koniowatego lub jego duplikat osobiście, chyba że złoży podmiotowi prowadzącemu rejestr koniowatych oświadczenie, w którym wyrazi zgodę na doręczenie mu tego paszportu lub jego duplikatu za pośrednictwem placówki pocztowej operatora publicznego, przesyłką poleconą za potwierdzeniem odbioru.
 
-13. Minister właściwy do spraw rolnictwa może określić, drodze rozporządzenia, inny sposób identyfikacji koniowatych niż określony art. 11 rozporządzenia nr 504/2008, mając na względzie zapewnienie możliwości weryfikacji tożsamości koniowatych, zapobieżenia wielokrotnego wydawania dokumentów identyfikacyjnych oraz wykonanie wytycznych określonych art. 12 ust. 3 rozporządzenia nr 504/2008.
+13. Minister właściwy do spraw rolnictwa może określić, w drodze rozporządzenia, inny sposób identyfikacji koniowatych niż określony w art. 11 rozporządzenia nr 504/2008, mając na względzie zapewnienie możliwości weryfikacji tożsamości koniowatych, zapobieżenia wielokrotnego wydawania dokumentów identyfikacyjnych oraz wykonanie wytycznych określonych w art. 12 ust. 3 rozporządzenia nr 504/2008.
 
 **Art. 15.**
 
-1. Za czynności związane z identyfikacją koniowatych przeprowadzone sposób określony art. 11 rozporządzenia nr 504/2008, dokonywanie opisu koniowatych, rejestrowanie i wydawanie paszportów koniowatych, dokonywanie zmian tych rejestrach oraz za doręczenie paszportu koniowatego lub jego duplikatu, sposób określony art. 14 ust. 12, podmioty wymienione art. 5 pobierają opłaty. Opłaty nie są pobierane za czynności związane ze zmianą rejestrze koniowatych dotyczącą podania daty uboju koniowatego rzeźni.
+1. Za czynności związane z identyfikacją koniowatych przeprowadzone w sposób określony w art. 11 rozporządzenia nr 504/2008, dokonywanie opisu koniowatych, rejestrowanie i wydawanie paszportów koniowatych, dokonywanie zmian w tych rejestrach oraz za doręczenie paszportu koniowatego lub jego duplikatu, w sposób określony w art. 14 ust. 12, podmioty wymienione w art. 5 pobierają opłaty. Opłaty nie są pobierane za czynności związane ze zmianą w rejestrze koniowatych dotyczącą podania daty uboju koniowatego w rzeźni.
 
-2. Opłaty, o których mowa ust. 1, są pobierane przed dokonaniem czynności określonych ust. 1. miotu, który go wydał.
+2. Opłaty, o których mowa w ust. 1, są pobierane przed dokonaniem czynności określonych w ust. 1.
 
-4. Minister właściwy do spraw rolnictwa porozumieniu z ministrem właściwym do spraw finansów publicznych określi, drodze rozporządzenia, wysokość i sposób pobierania oraz sposób i termin zwrotu opłat za:
+3. Opłata pobierana za wydanie paszportu koniowatego obejmuje również koszty zniszczenia paszportu po zwróceniu go do podmiotu, który go wydał.
 
-- **1)** identyfikację koniowatego przeprowadzoną sposób określony art. 11 rozporządzenia nr 504/2008,
-- **2)** dokonanie opisu słownego i graficznego koniowatego, a przypadku koni pełnej krwi angielskiej, koni czystej krwi arabskiej, koni rasy kłusak oraz kuców szetlandzkich – zidentyfikowanie konia,
+4. Minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wysokość i sposób pobierania oraz sposób i termin zwrotu opłat za:
+
+- **1)** identyfikację koniowatego przeprowadzoną w sposób określony w art. 11 rozporządzenia nr 504/2008,
+- **2)** dokonanie opisu słownego i graficznego koniowatego, a w przypadku koni pełnej krwi angielskiej, koni czystej krwi arabskiej, koni rasy kłusak oraz kuców szetlandzkich – zidentyfikowanie konia,
 - **3)** zarejestrowanie koniowatego,
 - **4)** wydanie i doręczenie paszportu koniowatego lub jego duplikatu oraz ich zniszczenie,
-- **5)** dokonanie zmian rejestrze koniowatych – uwzględniając koszty ponoszone przez podmioty, o których mowa art. 5, oraz koszty modernizacji centralnej bazy danych, o której mowa art. 13a ust. 1.
+- **5)** dokonanie zmian w rejestrze koniowatych uwzględniając koszty ponoszone przez podmioty, o których mowa w art. 5, oraz koszty modernizacji centralnej bazy danych, o której mowa w art. 13a ust. 1.
 
 **Art. 16.** W przypadku zmiany właściciela koniowatego:
 
-**Art. 16b.**
+- **1)** paszport koniowatego jest przekazywany nowemu właścicielowi koniowatego wraz z przeniesieniem posiadania tego koniowatego;
+- **2)** nowy właściciel jest obowiązany zawiadomić o tej zmianie, w terminie 7 dni, podmiot, o którym mowa w art. 5, przedstawiając: umowę, na podstawie której zostało przeniesione prawo własności koniowatego albo pisemne oświadczenie o nabyciu koniowatego, w którym są zawarte dane poprzedniego właściciela tego koniowatego, a w szczególności: – imię i nazwisko albo nazwa, – miejsce zamieszkania i adres albo siedziba i adres, – numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) albo numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), paszport koniowatego;
+    - **a)**
+    - **b)**
 
-1. Wykaz, o którym mowa art. 4 ust. 5 rozporządzenia nr 504/2008, oraz informacje określone art. 12 ust. 4, art. 22 oraz art. 23 ust. 3 i 4 akapit trzeci tego rozporządzenia są publikowane na stronie internetowej administrowanej przez urząd obsługujący ministra właściwego do spraw rolnictwa.
+- **3)** opłatę za wprowadzenie danych nowego właściciela do rejestru, o którym mowa w art. 13, oraz do paszportu koniowatego ponosi nowy właściciel koniowatego. ” ;
+- **12)** po art. 16 dodaje się art. 16a i 16b w brzmieniu: „
 
-2. Główny Lekarz Weterynarii jest punktem kontaktowym, o którym mowa art. 23 ust. 4 akapit pierwszy rozporządzenia nr 504/2008.”;
+1. Właściciel koniowatego jest uprawniony do uzyskania informacji zawartych w rejestrze koniowatych w zakresie danych dotyczących koniowatych będących jego własnością.
 
-- **13)** art. 17:
-    - **a)** ust. 2 pkt 2 i 3 otrzymują brzmienie: „2) oznakowaniu owcy i kozy sposób określony art. 4 ust. 1 rozporządzenia nr 21/2004, tym założeniu na lewą małżowinę uszną owcy i kozy identyfikatora, o którym mowa załączniku części A ust. 3 lit. b tego rozporządzenia, a ponadto:
-    - **a)** założeniu na prawą małżowinę uszną kolczyka z numerem identyfikacyjnym zwierzęcia gospodarskiego – przypadku owiec i kóz nieprzeznaczonych do handlu, albo
-    - **b)** założeniu na prawą małżowinę uszną kolczyka zawierającego elektroniczny identyfikator spełniający wymagania określone ust. 1 i 3 rozdziału II załącznika do decyzji Komisji 2006/968/WE z dnia 15 grudnia 2006 r. wykonującej rozporządzenie Rady (WE) nr 21/2004 odniesieniu do wytycznych i procedur elektronicznej identyfikacji i rejestrowania owiec i kóz (Dz. Urz. UE L 401 z 30.12.2006, str. 41), zwanej dalej „decyzją Komisji nr 2006/968” – przypadku owiec i kóz przeznaczonych do handlu;
+2. Jeżeli istnieją rozbieżności między informacjami zawartymi w rejestrze koniowatych a stanem faktycznym, podmioty, o których mowa w art. 5, na wniosek właściciela koniowatego dokonują aktualizacji tych informacji.
 
-- **3)** wytatuowaniu świni numeru identyfikacyjnego zwierzęcia gospodarskiego albo założeniu na lewą małżowinę uszną kolczyka z numerem identyfikacyjnym zwierzęcia gospodarskiego.”,
-    - **b)** ust. 3 i 3a otrzymują brzmienie: „3. W przypadku utraty kolczyka lub kolczyka zawierającego elektroniczny identyfikator lub uszkodzenia go sposób uniemożliwiający identyfikację zwierzęcia zastępuje się go odpowiednio duplikatem kolczyka lub duplikatem kolczyka zawierającym elektroniczny identyfikator.
+1. Wykaz, o którym mowa w art. 4 ust. 5 rozporządzenia nr 504/2008, oraz informacje określone w art. 12 ust. 4, art. 22 oraz art. 23 ust. 3 i 4 akapit trzeci tego rozporządzenia są publikowane na stronie internetowej administrowanej przez urząd obsługujący ministra właściwego do spraw rolnictwa.
 
-3a. Kolczyk lub duplikat kolczyka oraz kolczyk lub duplikat kolczyka zawierający elektroniczny identyfikator zwierzęcia gospodarskiego, które zostało poddane ubojowi, zabite lub padło, niszczy się pod nadzorem urzędowego lekarza weterynarii sposób uniemożliwiający jego powtórne wykorzystanie, z tym że przypadku:
+2. Główny Lekarz Weterynarii jest punktem kontaktowym, o którym mowa w art. 23 ust. 4 akapit pierwszy rozporządzenia nr 504/2008. ” ;
 
-- **1)** uboju zwierzęcia gospodarskiego – zniszczenia kolczyka lub duplikatu kolczyka oraz kolczyka lub duplikatu kolczyka zawierają2) zabicia lub padnięcia zwierzęcia gospodarskiego – zniszczenia kolczyka lub duplikatu kolczyka oraz kolczyka lub duplikatu kolczyka zawierającego elektroniczny identyfikator dokonuje podmiot prowadzący zakład przetwórczy lub spalarnię, który unieszkodliwił zwłoki tego zwierzęcia;
-- **3)** uboju na terenie gospodarstwa cieląt do szóstego miesiąca życia, świń, owiec i kóz, celu produkcji mięsa przeznaczonego na użytek własny, zgodnie z przepisami o produktach pochodzenia zwierzęcego – zniszczenia kolczyka lub duplikatu kolczyka oraz kolczyka lub duplikatu kolczyka zawierającego elektroniczny identyfikator dokonuje posiadacz tych zwierząt.”;
-- **14)** art. 18 ust. 5 otrzymuje brzmienie: „5. Wniosek, o którym mowa ust. 2, jest składany formie:
+- **13)** w art. 17: w ust. 2 pkt 2 i 3 otrzymują brzmienie: „
+    - **a)**
+
+- **2)** oznakowaniu owcy i kozy w sposób określony w art. 4 ust. 1 rozporządzenia nr 21/2004, w tym założeniu na lewą małżowinę uszną owcy i kozy identyfikatora, o którym mowa w załączniku w części A w ust. 3 lit. b tego rozporządzenia, a ponadto: założeniu na prawą małżowinę uszną kolczyka z numerem identyfikacyjnym zwierzęcia gospodarskiego – w przypadku owiec i kóz nieprzeznaczonych do handlu, albo założeniu na prawą małżowinę uszną kolczyka zawierającego elektroniczny identyfikator spełniający wymagania określone w ust. 1 i 3 rozdziału II załącznika do decyzji Komisji 2006/968/WE z dnia 15 grudnia 2006 r. wykonującej rozporządzenie Rady (WE) nr 21/2004 w odniesieniu do wytycznych i procedur elektronicznej identyfikacji i rejestrowania owiec i kóz (Dz. Urz. UE L 401 z 30.12.2006, str. 41), zwanej dalej „decyzją Komisji nr 2006/968” w przypadku owiec i kóz przeznaczonych do handlu;
+    - **a)**
+    - **b)**
+
+- **3)** wytatuowaniu świni numeru identyfikacyjnego zwierzęcia gospodarskiego albo założeniu na lewą małżowinę uszną kolczyka z numerem identyfikacyjnym zwierzęcia gospodarskiego. ” , ust. 3 i 3a otrzymują brzmienie: „
+    - **b)**
+
+3. W przypadku utraty kolczyka lub kolczyka zawierającego elektroniczny identyfikator lub uszkodzenia go w sposób uniemożliwiający identyfikację zwierzęcia zastępuje się go odpowiednio duplikatem kolczyka lub duplikatem kolczyka zawierającym elektroniczny identyfikator.
+
+3a. Kolczyk lub duplikat kolczyka oraz kolczyk lub duplikat kolczyka zawierający elektroniczny identyfikator zwierzęcia gospodarskiego, które zostało poddane ubojowi, zabite lub padło, niszczy się pod nadzorem urzędowego lekarza weterynarii w sposób uniemożliwiający jego powtórne wykorzystanie, z tym że w przypadku:
+
+- **1)** uboju zwierzęcia gospodarskiego – zniszczenia kolczyka lub duplikatu kolczyka oraz kolczyka lub duplikatu kolczyka zawierającego elektroniczny identyfikator dokonuje podmiot prowadzący rzeźnię;
+- **2)** zabicia lub padnięcia zwierzęcia gospodarskiego – zniszczenia kolczyka lub duplikatu kolczyka oraz kolczyka lub duplikatu kolczyka zawierającego elektroniczny identyfikator dokonuje podmiot prowadzący zakład przetwórczy lub spalarnię, który unieszkodliwił zwłoki tego zwierzęcia;
+- **3)** uboju na terenie gospodarstwa cieląt do szóstego miesiąca życia, świń, owiec i kóz, w celu produkcji mięsa przeznaczonego na użytek własny, zgodnie z przepisami o produktach pochodzenia zwierzęcego – zniszczenia kolczyka lub duplikatu kolczyka oraz kolczyka lub duplikatu kolczyka zawierającego elektroniczny identyfikator dokonuje posiadacz tych zwierząt. ” ;
+- **14)** w art. 18 ust. 5 otrzymuje brzmienie: „
+
+5. Wniosek, o którym mowa w ust. 2, jest składany w formie:
+
 - **1)** pisemnej na formularzu udostępnionym przez Agencję albo
-- **2)** elektronicznej:
-    - **a)** przez umieszczenie danych na informatycznym nośniku danych sposób określony przez Agencję albo
-    - **b)** na formularzu umieszczonym na stronie internetowej administrowanej przez Agencję, umożliwiającym wprowadzenie danych do systemu teleinformatycznego Agencji, którym jest prowadzony rejestr zwierząt gospodarskich oznakowanych.”;
+- **2)** elektronicznej: przez umieszczenie danych na informatycznym nośniku danych w sposób określony przez Agencję albo na formularzu umieszczonym na stronie internetowej administrowanej przez Agencję, umożliwiającym wprowadzenie danych do systemu teleinformatycznego Agencji, w którym jest prowadzony rejestr zwierząt gospodarskich oznakowanych. ” ;
+    - **a)**
+    - **b)**
 
-- **15)** art. 19:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Posiadacz bydła zgłasza kierownikowi biura fakt oznakowania zwierzęcia, zgodnie z art. 4 ust. 2 rozporządzenia nr 1760/2000, każdym przypadku przed opuszczeniem przez to zwierzę siedziby stada, której się urodziło, nie później jednak niż terminie 7 dni od dnia urodzenia tego zwierzęcia, z zastrzeżeniem art. 22.”,
-    - **b)** po ust. 1 dodaje się ust. 1a brzmieniu: „1a. Zgłoszenia, o którym mowa ust. 1, dokonuje się formie:
+- **15)** w art. 19: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Posiadacz bydła zgłasza kierownikowi biura fakt oznakowania zwierzęcia, zgodnie z art. 4 ust. 2 rozporządzenia nr 1760/2000, w każdym przypadku przed opuszczeniem przez to zwierzę siedziby stada, w której się urodziło, nie później jednak niż w terminie 7 dni od dnia urodzenia tego zwierzęcia, z zastrzeżeniem art. 22. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+- **b)**
+
+1a. Zgłoszenia, o którym mowa w ust. 1, dokonuje się w formie:
 
 - **1)** pisemnej na formularzu udostępnionym przez Agencję albo
-- **2)** elektronicznej:
-    - **a)** przez umieszczenie danych na informatycznym nośniku danych sposób określony przez Agencję albo
-    - **b)** na formularzu umieszczonym na stronie internetowej administrowanej przez Agencję, umożliwiającym wprowadzenie danych do systemu teleinformatycznego Agencji, którym jest prowadzony rejestr zwierząt gospodarskich oznakowanych.”,
-    - **c)** ust. 5a otrzymuje brzmienie: „5a. Posiadacz bydła odbiera paszport bydła lub jego duplikat osobiście, chyba że złoży podmiotowi prowadzącemu rejestr zwierząt gospodarki pocztowej operatora publicznego, przesyłką poleconą za potwierdzeniem odbioru.”,
-    - **d)** po ust. 5a dodaje się ust. 5b brzmieniu: „5b. Opłaty, o których mowa ust. 5, są pobierane przed dokonaniem czynności określonych ust. 5.”;
+- **2)** elektronicznej: przez umieszczenie danych na informatycznym nośniku danych w sposób określony przez Agencję albo na formularzu umieszczonym na stronie internetowej administrowanej przez Agencję, umożliwiającym wprowadzenie danych do systemu teleinformatycznego Agencji, w którym jest prowadzony rejestr zwierząt gospodarskich oznakowanych. ” , ust. 5a otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **16)** art. 20 dodaje się ust. 4 brzmieniu: „4. Zgłoszeń, o których mowa ust. 1 i 2, dokonuje się formie:
+5a. Posiadacz bydła odbiera paszport bydła lub jego duplikat osobiście, chyba że złoży podmiotowi prowadzącemu rejestr zwierząt gospodarskich oznakowanych oświadczenie, w którym wyrazi zgodę na doręczenie mu tego paszportu lub jego duplikatu za pośrednictwem placówki pocztowej operatora publicznego, przesyłką poleconą za potwierdzeniem odbioru. ” , po ust. 5a dodaje się ust. 5b w brzmieniu: „
+
+- **d)**
+
+5b. Opłaty, o których mowa w ust. 5, są pobierane przed dokonaniem czynności określonych w ust. 5. ” ;
+
+- **16)** w art. 20 dodaje się ust. 4 w brzmieniu: „
+
+4. Zgłoszeń, o których mowa w ust. 1 i 2, dokonuje się w formie:
+
 - **1)** pisemnej na formularzu udostępnionym przez Agencję albo
-- **2)** elektronicznej:
-    - **a)** przez umieszczenie danych na informatycznym nośniku danych sposób określony przez Agencję albo
-    - **b)** na formularzu umieszczonym na stronie internetowej administrowanej przez Agencję, umożliwiającym wprowadzenie danych do systemu teleinformatycznego Agencji, którym jest prowadzony rejestr zwierząt gospodarskich oznakowanych.”;
+- **2)** elektronicznej: przez umieszczenie danych na informatycznym nośniku danych w sposób określony przez Agencję albo na formularzu umieszczonym na stronie internetowej administrowanej przez Agencję, umożliwiającym wprowadzenie danych do systemu teleinformatycznego Agencji, w którym jest prowadzony rejestr zwierząt gospodarskich oznakowanych. ” ;
+    - **a)**
+    - **b)**
 
-- **17)** art. 20a ust. 3 otrzymuje brzmienie: „3. Posiadacz owcy lub kozy, o którym mowa art. 7 ust. 1 rozporządzenia nr 21/2004, przekazuje liczbę i numery identyfikacyjne owiec i kóz ustalone podczas spisu kierownikowi biura:
+- **17)** w art. 20a ust. 3 otrzymuje brzmienie: „
+
+3. Posiadacz owcy lub kozy, o którym mowa w art. 7 ust. 1 rozporządzenia nr 21/2004, przekazuje liczbę i numery identyfikacyjne owiec i kóz ustalone podczas spisu kierownikowi biura:
+
 - **1)** na formularzu udostępnionym przez Agencję albo
-- **2)** formie elektronicznej:
-    - **a)** przez umieszczenie danych na informatycznym nośniku danych sposób określony przez Agencję albo
-    - **b)** na formularzu umieszczonym na stronie internetowej administrowanej przez Agencję, umożliwiającym wprowadzenie danych do systemu teleinformatycznego Agencji, którym jest prowadzony rejestr zwierząt gospodarskich oznakowanych – terminie 7 dni od dnia dokonania tego spisu.”;
+- **2)** w formie elektronicznej: przez umieszczenie danych na informatycznym nośniku danych w sposób określony przez Agencję albo na formularzu umieszczonym na stronie internetowej administrowanej przez Agencję, umożliwiającym wprowadzenie danych do systemu teleinformatycznego Agencji, w którym jest prowadzony rejestr zwierząt gospodarskich oznakowanych w terminie 7 dni od dnia dokonania tego spisu. ” ;
+    - **a)**
+    - **b)**
 
-- **18)** art. 21 otrzymuje brzmienie: „Art. 21. Posiadacz zwierzęcia gospodarskiego nabywa bezpośrednio u dostawcy znajdującego się na liście, o której mowa art. 26:
+- **18)** art. 21 otrzymuje brzmienie: „
+
+**Art. 21.** Posiadacz zwierzęcia gospodarskiego nabywa bezpośrednio u dostawcy znajdującego się na liście, o której mowa w art. 26:
+
 - **1)** kolczyki lub duplikaty kolczyków z numerami identyfikacyjnymi zwierząt gospodarskich, lub
 - **2)** kolczyki lub duplikaty kolczyków zawierające elektroniczne identyfikatory, lub
-- **3)** czytniki elektronicznych identyfikatorów.”;
-- **19)** art. 22 dodaje się ust. 5 i 6 brzmieniu: „5. Zgłoszeń, o których mowa ust. 1 i 2, dokonuje się formie pisemnej na formularzu udostępnionym przez Agencję albo formie elektronicznej
+- **3)** czytniki elektronicznych identyfikatorów. ” ;
+- **19)** w art. 22 dodaje się ust. 5 i 6 w brzmieniu: „
 
-6. Minister właściwy do spraw rolnictwa określi, drodze rozporządzenia, szczegółowe wymagania, jakie powinien spełniać formularz umieszczany na stronie internetowej administrowanej przez Agencję, o którym mowa art. 9 ust. 2 pkt 2 lit. b, art. 12 ust. 7 pkt 2 lit. b, art. 18 ust. 5 pkt 2 lit. b, art. 19 ust. 1a pkt 2 lit. b, art. 20 ust. 4 pkt 2 lit. b oraz art. 20a ust. 3 pkt 2 lit. b, oraz szczegółowe warunki i sposób przekazywania danych na tym formularzu, mając na uwadze zapewnienie bezpieczeństwa i wiarygodności przesyłanych informacji.”;
+5. Zgłoszeń, o których mowa w ust. 1 i 2, dokonuje się w formie pisemnej na formularzu udostępnionym przez Agencję albo w formie elektronicznej przez umieszczenie danych na informatycznym nośniku danych w sposób określony przez Agencję.
 
-- **20)** art. 23 ust. 3 otrzymuje brzmienie: „3. Posiadacz świni, z wyłączeniem podmiotu prowadzącego rzeźnię, zarobkowy transport zwierząt oraz przetrzymującego zwierzęta miejscach gromadzenia zwierząt albo na wystawach, pokazach lub konkursach, jest obowiązany prowadzić księgę rejestracji, której umieszcza numer siedziby stada oraz liczbę zwierząt gospodarskich tej siedzibie.”;
-- **21)** art. 26:
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Wpis na listę dostawców, o której mowa ust. 1, następuje po:
+6. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, szczegółowe wymagania, jakie powinien spełniać formularz umieszczany na stronie internetowej administrowanej przez Agencję, o którym mowa w art. 9 ust. 2 pkt 2 lit. b, art. 12 ust. 7 pkt 2 lit. b, art. 18 ust. 5 pkt 2 lit. b, art. 19 ust. 1a pkt 2 lit. b, art. 20 ust. 4 pkt 2 lit. b oraz art. 20a ust. 3 pkt 2 lit. b, oraz szczegółowe warunki i sposób przekazywania danych na tym formularzu, mając na uwadze zapewnienie bezpieczeństwa i wiarygodności przesyłanych informacji. ” ;
 
-- **1)** złożeniu przez wnioskodawcę do Prezesa Agencji wniosku na formularzu opracowanym przez Agencję, do którego dołącza się:
-    - **a)** wyniki badań wykonanych przez niezależne od wnioskodawcy laboratorium badawcze, stwierdzających, że dostarczany kolczyk lub duplikat kolczyka będzie spełniał wymagania określone przepisach wydanych na podstawie art. 17 ust. 5 albo
-    - **b)** wyniki badań wykonanych przez niezależne od wnioskodawcy laboratorium badawcze, stwierdzających, że dostarczany kolczyk i duplikat kolczyka zawierający elektroniczny identyfikator będzie spełniał wymagania określone przepisach wydanych na podstawie art. 17 ust. 5 oraz dokument wystawiony przez laboratorium badawcze, znajdujące się wykazie laboratoriów, o którym mowa art. 32a ust. 5 pkt 2, stwierdzający, że dostarczany kolczyk i duplikat kolczyka zawierający elektroniczny identyfikator będzie spełniał wymagania określone decyzji Komisji nr 2006/968, albo
-    - **c)** dokument wystawiony przez laboratorium badawcze znajdujące się wykazie laboratoriów badawczych, o którym mowa art. 32a ust. 5 pkt 2, stwierdzający, że dostarczany czytnik elektronicznych identyfikatorów będzie spełniał wymagania określone decyzji Komisji nr 2006/968;
+- **20)** w art. 23 ust. 3 otrzymuje brzmienie: „
 
-- **2)** zawarciu umowy, o której mowa art. 27.”,
-    - **b)** po ust. 2 dodaje się ust. 2a brzmieniu: „2a. Wniosek, o którym mowa ust. 2, zawiera:
+3. Posiadacz świni, z wyłączeniem podmiotu prowadzącego rzeźnię, zarobkowy transport zwierząt oraz przetrzymującego zwierzęta w miejscach gromadzenia zwierząt albo na wystawach, pokazach lub konkursach, jest obowiązany prowadzić księgę rejestracji, w której umieszcza numer siedziby stada oraz liczbę zwierząt gospodarskich w tej siedzibie. ” ;
+
+- **21)** w art. 26: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. Wpis na listę dostawców, o której mowa w ust. 1, następuje po:
+
+- **1)** złożeniu przez wnioskodawcę do Prezesa Agencji wniosku na formularzu opracowanym przez Agencję, do którego dołącza się: wyniki badań wykonanych przez niezależne od wnioskodawcy laboratorium badawcze, stwierdzających, że dostarczany kolczyk lub duplikat kolczyka będzie spełniał wymagania określone w przepisach wydanych na podstawie art. 17 ust. 5 albo wyniki badań wykonanych przez niezależne od wnioskodawcy laboratorium badawcze, stwierdzających, że dostarczany kolczyk i duplikat kolczyka zawierający elektroniczny identyfikator będzie spełniał wymagania określone w przepisach wydanych na podstawie art. 17 ust. 5 oraz dokument wystawiony przez laboratorium badawcze, znajdujące się w wykazie laboratoriów, o którym mowa w art. 32a ust. 5 pkt 2, stwierdzający, że dostarczany kolczyk i duplikat kolczyka zawierający elektroniczny identyfikator będzie spełniał wymagania określone w decyzji Komisji nr 2006/968, albo dokument wystawiony przez laboratorium badawcze znajdujące się w wykazie laboratoriów badawczych, o którym mowa w art. 32a ust. 5 pkt 2, stwierdzający, że dostarczany czytnik elektronicznych identyfikatorów będzie spełniał wymagania określone w decyzji Komisji nr 2006/968;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** zawarciu umowy, o której mowa w art. 27. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **b)**
+
+2a. Wniosek, o którym mowa w ust. 2, zawiera:
 
 - **1)** imię, nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres wnioskodawcy;
-- **3)** numer Krajowym Rejestrze Sądowym albo Ewidencji Działalności Gospodarczej;
-- **4)** rodzaj towaru, jaki wnioskodawca zamierza dostarczać ramach umowy, o której mowa art. 27;
-- **5)** obszar, na którym wnioskodawca prowadzi działalność gospodarczą.”;
-- **22)** art. 27 pkt 2 otrzymuje brzmienie: „2) zobowiązanie do:
-    - **a)** terminowego dostarczania kolczyków, duplikatów kolczyków, kolczyków lub duplikatów kolczyków zawierających elektroniczne identyfikatory, spełniających wymagania określone przepisach wydanych na podstawie art. 17 ust. 5 oraz decyzji Komisji nr 2006/968, albo czytników elektronicznych identyfikatorów, spełniających wymagania określone decyzji Komisji nr 2006/968,
-    - **b)** składania Prezesowi Agencji miesięcznych raportów dotyczących dostarczonych kolczyków, duplikatów kolczyków, kolczyków lub duplikatów kolczyków zawierających elektroniczne identyfikatory albo czytników elektronicznych identyfikatorów.”;
+- **2)** numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON);
+- **3)** numer w Krajowym Rejestrze Sądowym albo Ewidencji Działalności Gospodarczej;
+- **4)** rodzaj towaru, jaki wnioskodawca zamierza dostarczać w ramach umowy, o której mowa w art. 27;
+- **5)** obszar, na którym wnioskodawca prowadzi działalność gospodarczą. ” ;
+- **22)** w art. 27 pkt 2 otrzymuje brzmienie: „
+- **2)** zobowiązanie do: terminowego dostarczania kolczyków, duplikatów kolczyków, kolczyków lub duplikatów kolczyków zawierających elektroniczne identyfikatory, spełniających wymagania określone w przepisach wydanych na podstawie art. 17 ust. 5 oraz w decyzji Komisji nr 2006/968, albo czytników elektronicznych identyfikatorów, spełniających wymagania określone w decyzji Komisji nr 2006/968, składania Prezesowi Agencji miesięcznych raportów dotyczących dostarczonych kolczyków, duplikatów kolczyków, kolczyków lub duplikatów kolczyków zawierających elektroniczne identyfikatory albo czytników elektronicznych identyfikatorów. ” ;
+    - **a)**
+    - **b)**
 
-- **23)** art. 28 otrzymuje brzmienie: „Art. 28. 1. Prezes Agencji niezwłocznie rozwiązuje umowę z dostawcą i skreśla go z listy, o której mowa art. 26, przypadku gdy dostawca:
+- **23)** art. 28 otrzymuje brzmienie: „
+
+**Art. 28.**
+
+1. Prezes Agencji niezwłocznie rozwiązuje umowę z dostawcą i skreśla go z listy, o której mowa w art. 26, w przypadku gdy dostawca:
+
 - **1)** zaprzestał dostarczania kolczyków lub duplikatów kolczyków, kolczyków lub duplikatów kolczyków zawierających elektroniczne identyfikatory albo czytników elektronicznych identyfikatorów;
-- **2)** dostarcza kolczyki lub duplikaty kolczyków, kolczyki lub duplikaty kolczyków zawierających elektroniczne identyfikatory albo czytniki elektronicznych identyfikatorów, które nie spełniają wymagań określonych przepisach wydanych na podstawie art. 17 ust. 5 oraz decyzji Komisji nr 2006/968, co jest potwierdzone wynikami badań wykonanych przez laboratorium badawcze, znajdujące si ę wykazie laboratoriów, o którym mowa art. 32a ust. 5 pkt 2, lub inne niezależne laboratorium badawcze;
-- **3)** nie składa raportów, o których mowa art. 27 pkt 2 lit. b.
+- **2)** dostarcza kolczyki lub duplikaty kolczyków, kolczyki lub duplikaty kolczyków zawierających elektroniczne identyfikatory albo czytniki elektronicznych identyfikatorów, które nie spełniają wymagań określonych w przepisach wydanych na podstawie art. 17 ust. 5 oraz w decyzji Komisji nr 2006/968, co jest potwierdzone wynikami badań wykonanych przez laboratorium badawcze, znajdujące się w wykazie laboratoriów, o którym mowa w art. 32a ust. 5 pkt 2, lub inne niezależne laboratorium badawcze;
+- **3)** nie składa raportów, o których mowa w art. 27 pkt 2 lit. b.
 
-2. Jeżeli przyczyną rozwiązania umowy z dostawcą są naruszenia, o których mowa ust. 1 pkt 2, dostawca ten zwraca Agencji koszty wykonania badań przez laboratorium badawcze.”;
+2. Jeżeli przyczyną rozwiązania umowy z dostawcą są naruszenia, o których mowa w ust. 1 pkt 2, dostawca ten zwraca Agencji koszty wykonania badań przez laboratorium badawcze. ” ;
 
-- **24)** art. 29 dodaje się ust. 3 brzmieniu: „3. Wojewódzki lekarz weterynarii właściwy ze względu na siedzibę podmiotu prowadzącego rejestr koniowatych może przeprowadzać kontrole miejscu
-- **25)** art. 30 ust. 3 otrzymuje brzmienie: „3. Agencja może przeprowadzać kontrolę siedzibie stada.”;
-- **26)** art. 32:
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Agencja oraz podmioty, o których mowa art. 5, zapewniają zakresie nadzoru, o którym mowa art. 29, oraz współpracy, o której mowa ust. 1, organom Inspekcji Weterynaryjnej lub osobom upoważnionym przez te organy:
+- **24)** w art. 29 dodaje się ust. 3 w brzmieniu: „
 
-- **1)** dostęp do danych zawartych odpowiednio rejestrze zwierząt gospodarskich oznakowanych, rejestrach koniowatych lub centralnej bazie danych, o której mowa art. 13a ust. 1, przez:
-    - **a)** umożliwienie wglądu odpowiednio do rejestru zwierząt gospodarskich oznakowanych lub centralnej bazy danych, tym również za pomocą sieci Internet,
-    - **b)** udostępnienie informatycznych nośników danych,
-    - **c)** umożliwienie sporządzania wydruków tych danych;
+3. Wojewódzki lekarz weterynarii właściwy ze względu na siedzibę podmiotu prowadzącego rejestr koniowatych może przeprowadzać kontrole w miejscu prowadzenia działalności przez podmioty, o których mowa w art. 5, w zakresie prowadzenia zgodnie z przepisami prawa rejestrów koniowatych. ” ;
 
-- **2)** dostęp do innych danych Systemu przez:
-    - **a)** umożliwienie wglądu do dokumentów,
-    - **b)** przekazywanie na żądanie pisemnych lub ustnych informacji objętych tym Systemem,
-    - **c)** umożliwienie sporządzania odpisów, wyciągów, kopii lub fotokopii dokumentów;
+- **25)** w art. 30 ust. 3 otrzymuje brzmienie: „
 
-- **3)** możliwość:
-    - **a)** wprowadzania odpowiednio do rejestru zwierząt gospodarskich oznakowanych informacji o statusie epizootycznym zwierząt gospodarskich oznakowanych i siedzib stad lub do centralnej bazy danych informacji o statusie epizootycznym koniowatych oraz informacji, o których mowa art. 21 ust. 1 lit. l rozporządzenia nr 504/2008,
-    - **b)** dokonywania korekt i uzupełnień danych zawartych rejestrach koniowatych i centralnej bazie danych oraz rejestrze zwierz ąt gospodarskich oznakowanych.”,
-    - **b)** po ust. 2 dodaje się ust. 2a brzmieniu: „2a. Agencja informuje Inspekcję Weterynaryjną o każdym zarejestrowanym Systemie przemieszczeniu oznakowanego zwierzęcia gospodarskiego z siedziby stada o niższym statusie epizootycznym do siedziby stada o wyższym statusie epizootycznym lub z obszaru podlegającego ograniczeniom i do takiego obszaru związku ze zwalczaniem chorób zakaźnych zwierząt.”,
-    - **c)** ust. 3 otrzymuje brzmienie:
+3. Agencja może przeprowadzać kontrolę w siedzibie stada. ” ;
 
-- **1)** sposób wykonywania nadzoru, o którym mowa art. 29,
-- **2)** warunki i sposób współpracy, o której mowa ust. 1,
-- **3)** sposób wprowadzania odpowiednio do rejestru zwierząt gospodarskich oznakowanych informacji o statusie epizootycznym zwierząt gospodarskich oznakowanych i siedzib stad lub do centralnej bazy danych informacji o statusie epizootycznym koniowatych oraz informacji, o których mowa art. 21 ust. 1 lit. l rozporządzenia nr 504/2008,
-- **4)** zakres i sposób dokonywania korekt i uzupełnień danych zawartych rejestrach, o których mowa art. 3 ust. 1 pkt 4, i centralnej bazie danych oraz rejestrze zwierząt gospodarskich oznakowanych – mając na względzie zapewnienie prawidłowego funkcjonowania Systemu, ochronę zdrowia ludzi i zwierząt oraz zapewnienie organom Inspekcji Weterynaryjnej dostępu do danych zawartych rejestrze, o którym mowa art. 3 ust. 1 pkt 4, i rejestrze zwierząt gospodarskich oznakowanych, a także umożliwienie tym organom skutecznego przeprowadzenia kontroli siedzibie stada i siedzibie podmiotu prowadzącego rejestr koniowatych oraz dokonywanie korekt i uzupełnień tych rejestrach, tym wprowadzenie informacji o statusie epizootycznym siedzib stad.”;
-- **27)** po art. 32a dodaje się art. 32b – 32d brzmieniu: „Art. 32b. 1. Agencja współpracuje z organami Inspekcji Weterynaryjnej zakresie identyfikacji i rejestracji zwierząt gospodarskich utrzymywanych siedzibach stad.
+- **26)** w art. 32: ust. 2 otrzymuje brzmienie: „
+    - **a)**
 
-2. Szczegółowe warunki i sposób współpracy, o której mowa ust. 1, określa porozumienie zawarte między Prezesem Agencji a Głównym Lekarzem Weterynarii.
+2. Agencja oraz podmioty, o których mowa w art. 5, zapewniają w zakresie nadzoru, o którym mowa w art. 29, oraz współpracy, o której mowa w ust. 1, organom Inspekcji Weterynaryjnej lub osobom upoważnionym przez te organy:
 
-**Art. 32c.** Po przeprowadzeniu kontroli, o której mowa art. 29 ust. 2 pkt 2, Agencja dokonuje aktualizacji stanu siedziby stada zgodnie z danymi zawartymi protokole kontroli, o którym mowa art. 31 ust. 5.
+- **1)** dostęp do danych zawartych odpowiednio w rejestrze zwierząt gospodarskich oznakowanych, rejestrach koniowatych lub centralnej bazie danych, o której mowa w art. 13a ust. 1, przez: umożliwienie wglądu odpowiednio do rejestru zwierząt gospodarskich oznakowanych lub centralnej bazy danych, w tym również za pomocą sieci Internet, udostępnienie informatycznych nośników danych, umożliwienie sporządzania wydruków tych danych;
+    - **a)**
+    - **b)**
+    - **c)**
 
-**Art. 32d.** Po przeprowadzeniu kontroli, o której mowa art. 30 ust. 3, Agencja dokonuje aktualizacji stanu siedziby stada zgodnie ze stanem faktycznym.”;
+- **2)** dostęp do innych danych Systemu przez: umożliwienie wglądu do dokumentów, przekazywanie na żądanie pisemnych lub ustnych informacji objętych tym Systemem, umożliwienie sporządzania odpisów, wyciągów, kopii lub fotokopii dokumentów;
+    - **a)**
+    - **b)**
+    - **c)**
 
-**Art. 2.** Do zamówień na kolczyki lub duplikaty kolczyków złożonych, zgodnie z art. 21 ust. 1 ustawy wymienionej art. 1, przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+- **3)** możliwość: wprowadzania odpowiednio do rejestru zwierząt gospodarskich oznakowanych informacji o statusie epizootycznym zwierząt gospodarskich oznakowanych i siedzib stad lub do centralnej bazy danych informacji o statusie epizootycznym koniowatych oraz informacji, o których mowa w art. 21 ust. 1 lit. I rozporządzenia nr 504/2008, dokonywania korekt i uzupełnień danych zawartych w rejestrach koniowatych i w centralnej bazie danych oraz w rejestrze zwierząt gospodarskich oznakowanych. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **b)**
+
+2a. Agencja informuje Inspekcję Weterynaryjną o każdym zarejestrowanym w Systemie przemieszczeniu oznakowanego zwierzęcia gospodarskiego z siedziby stada o niższym statusie epizootycznym do siedziby stada o wyższym statusie epizootycznym lub z obszaru podlegającego ograniczeniom i do takiego obszaru w związku ze zwalczaniem chorób zakaźnych zwierząt. ” , ust. 3 otrzymuje brzmienie: „
+
+- **c)**
+
+3. Minister właściwy do spraw rolnictwa, w drodze rozporządzenia, określi:
+
+- **1)** sposób wykonywania nadzoru, o którym mowa w art. 29,
+- **2)** warunki i sposób współpracy, o której mowa w ust. 1,
+- **3)** sposób wprowadzania odpowiednio do rejestru zwierząt gospodarskich oznakowanych informacji o statusie epizootycznym zwierząt gospodarskich oznakowanych i siedzib stad lub do centralnej bazy danych informacji o statusie epizootycznym koniowatych oraz informacji, o których mowa w art. 21 ust. 1 lit. I rozporządzenia nr 504/2008,
+- **4)** zakres i sposób dokonywania korekt i uzupełnień danych zawartych w rejestrach, o których mowa w art. 3 ust. 1 pkt 4, i w centralnej bazie danych oraz w rejestrze zwierząt gospodarskich oznakowanych mając na względzie zapewnienie prawidłowego funkcjonowania Systemu, ochronę zdrowia ludzi i zwierząt oraz zapewnienie organom Inspekcji Weterynaryjnej dostępu do danych zawartych w rejestrze, o którym mowa w art. 3 ust. 1 pkt 4, i w rejestrze zwierząt gospodarskich oznakowanych, a także umożliwienie tym organom skutecznego przeprowadzenia kontroli w siedzibie stada i w siedzibie podmiotu prowadzącego rejestr koniowatych oraz dokonywanie korekt i uzupełnień w tych rejestrach, w tym wprowadzenie informacji o statusie epizootycznym siedzib stad. ” ;
+- **27)** po art. 32a dodaje się art. 32b-32d w brzmieniu: „
+
+**Art. 32b.**
+
+1. Agencja współpracuje z organami Inspekcji Weterynaryjnej w zakresie identyfikacji i rejestracji zwierząt gospodarskich utrzymywanych w siedzibach stad.
+
+2. Szczegółowe warunki i sposób współpracy, o której mowa w ust. 1, określa porozumienie zawarte między Prezesem Agencji a Głównym Lekarzem Weterynarii. Po przeprowadzeniu kontroli, o której mowa w art. 29 ust. 2 pkt 2, Agencja dokonuje aktualizacji stanu siedziby stada zgodnie z danymi zawartymi w protokole kontroli, o którym mowa w art. 31 ust. 5. Po przeprowadzeniu kontroli, o której mowa w art. 30 ust. 3, Agencja dokonuje aktualizacji stanu siedziby stada zgodnie ze stanem faktycznym. ” ;
+
+- **28)** w art. 33 w ust. 1: pkt 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+- **1)** będąc posiadaczem zwierzęcia gospodarskiego lub podmiotem prowadzącym rzeźnię, miejsce gromadzenia zwierząt, zakład przetwórczy lub spalarnię, nie zgłasza kierownikowi biura siedziby stada, rzeźni, zakładu przetwórczego lub spalarni w celu nadania numeru siedziby stada, numeru rzeźni lub numeru zakładu przetwórczego lub spalarni,
+- **2)** będąc podmiotem prowadzącym zakład przetwórczy lub spalarnię, nie zgłasza kierownikowi biura unieszkodliwienia zwłok zwierząt gospodarskich w terminie 7 dni od dnia tego unieszkodliwienia, ” , pkt 6 otrzymuje brzmienie: „
+    - **b)**
+
+- **6)** wbrew obowiązkowi określonemu w art. 17 ust. 3a nie niszczy kolczyka lub duplikatu kolczyka albo kolczyka lub duplikatu kolczyka zawierającego elektroniczny identyfikator w sposób uniemożliwiający jego powtórne wykorzystanie lub niszczy go bez nadzoru urzędowego lekarza weterynarii, ” , pkt 10 otrzymuje brzmienie: „
+    - **c)**
+
+- **10)** będąc posiadaczem zwierzęcia gospodarskiego, z wyłączeniem podmiotu prowadzącego rzeźnię, zarobkowy transport zwierząt oraz przetrzymującego świnie w miejscach gromadzenia zwierząt albo na wystawach, pokazach lub konkursach, nie prowadzi księgi rejestracji lub, będąc podmiotem przetrzymującym zwierzęta na wystawach, pokazach lub konkursach, nie prowadzi ewidencji zwierząt przywiezionych do tych miejsc, ” , pkt 13 otrzymuje brzmienie: „
+    - **d)**
+
+- **13)** będąc posiadaczem zwierzęcia gospodarskiego lub podmiotem prowadzącym zakład przetwórczy lub spalarnię, nie zgłasza kierownikowi biura informacji, o których mowa w art. 12 ust. 1, 3 i 6, ” , w pkt 14 na końcu dodaje się przecinek i dodaje się pkt 15 i 16 w brzmieniu: „
+    - **e)**
+
+- **15)** nabywa zwierzęta gospodarskie nieoznakowane lub bez wymaganego dla bydła i koniowatych paszportu lub duplikatu paszportu,
+- **16)** prowadząc rejestr koniowatych nie przekazuje niezwłocznie do centralnej bazy danych informacji, o których mowa w art. 21 ust. 1 rozporządzenia nr 504/2008 ” .
+
+**Art. 2.** Do zamówień na kolczyki lub duplikaty kolczyków złożonych, zgodnie z art. 21 ust. 1 ustawy wymienionej w art. 1, przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
 **Art. 3.**
 
-1. Dostawcy kolczyków i duplikatów kolczyków, kolczyków i duplikatów kolczyków zawierających elektroniczne identyfikatory lub czytników elektronicznych identyfikatorów wpisani, przed dniem wejścia życie niniejszej ustawy, na listę dostawców, o której mowa art. 26 ust. 1 ustawy wymienionej art. 1, są obowiązani do złożenia wniosku o wpisanie na tę listę, o którym mowa art. 26 ust. 2 pkt 1 ustawy wymienionej art. 1, brzmieniu nadanym niniejszą ustawą, terminie 6 miesięcy od dnia wejścia życie tej ustawy.
+1. Dostawcy kolczyków i duplikatów kolczyków, kolczyków i duplikatów kolczyków zawierających elektroniczne identyfikatory lub czytników elektronicznych identyfikatorów wpisani, przed dniem wejścia w życie niniejszej ustawy, na listę dostawców, o której mowa w art. 26 ust. 1 ustawy wymienionej w art. 1, są obowiązani do złożenia wniosku o wpisanie na tę listę, o którym mowa w art. 26 ust. 2 pkt 1 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, w terminie 6 miesięcy od dnia wejścia w życie tej ustawy.
 
-2. Umowa z dostawcą, o którym mowa ust. 1, który terminie 6 miesięcy od dnia wejścia życie niniejszej ustawy nie dopełnił obowiązku, o którym mowa ust. 1, zostaje rozwiązana z mocy prawa po upływie tego terminu.
+2. Umowa z dostawcą, o którym mowa w ust. 1, który w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy nie dopełnił obowiązku, o którym mowa w ust. 1, zostaje rozwiązana z mocy prawa po upływie tego terminu.
 
-**Art. 4.** Podmioty prowadzące dniu wejścia życie niniejszej ustawy rzeźnię, której prowadzenie zgodnie z dotychczasowymi przepisami nie wymagało zgłoszenia kierownikowi biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa celu nadania numeru tej rzeźni, a zgodnie z przepisami niniejszej ustawy wymaga takiego zgłoszenia, są obowiązane terminie 3 miesięcy od dnia wejścia życie ustawy dokonać tego zgłoszenia.
+**Art. 4.** Podmioty prowadzące w dniu wejścia w życie niniejszej ustawy rzeźnię, której prowadzenie zgodnie z dotychczasowymi przepisami nie wymagało zgłoszenia kierownikowi biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa w celu nadania numeru tej rzeźni, a zgodnie z przepisami niniejszej ustawy wymaga takiego zgłoszenia, są obowiązane w terminie 3 miesięcy od dnia wejścia w życie ustawy dokonać tego zgłoszenia.
 
-**Art. 5.** Numery miejsca unieszkodliwiania zwłok zwierząt gospodarskich, nadane zgodnie z art. 9 ust. 1 ustawy wymienionej art. 1, stają się z dniem wejścia życie niniejszej ustawy numerami zakładów przetwórczych lub spalarni.
+**Art. 5.** Numery miejsca unieszkodliwiania zwłok zwierząt gospodarskich, nadane zgodnie z art. 9 ust. 1 ustawy wymienionej w art. 1, stają się z dniem wejścia w życie niniejszej ustawy numerami zakładów przetwórczych lub spalarni.
 
-**Art. 6.** Przepisy wykonawcze wydane na podstawie art. 15 ust. 2, art. 21 ust. 4 oraz art. 32 ust. 3 ustawy wymienionej art. 1 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 15 ust. 4, art. 22 ust. 6 oraz art. 32 ust. 3 ustawy wymienionej art. 1, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 24 miesiące od dnia wejścia życie niniejszej ustawy.
+**Art. 6.** Przepisy wykonawcze wydane na podstawie art. 15 ust. 2, art. 21 ust. 4 oraz art. 32 ust. 3 ustawy wymienionej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 15 ust. 4, art. 22 ust. 6 oraz art. 32 ust. 3 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 7.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

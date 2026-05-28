@@ -8,12 +8,10 @@ pos: 1551
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
 # Ustawa z dnia 9 listopada 2012 r. o umorzeniu należności powstałych z tytułu nieopłaconych składek przez osoby prowadzące pozarolniczą działalność
-
-*USTAWA dnia 9 listopada 2012 umorzeniu należności powstałych tytułu nieopłaconych składek przez osoby prowadzące pozarolniczą działalność*
 
 | Pole | Wartość |
 |---|---|
@@ -24,64 +22,74 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2012-11-09 |
 | Data wydania | 2012-12-31 |
+| Wejście w życie | 2013-01-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001551) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1551/text.pdf) |
 
 **Art. 1.**
 
-1. Na wniosek osoby podlegającej okresie od dnia 1 stycznia 1999 do dnia 28 lutego 2009 obowiązkowo ubezpieczeniom emerytalnemu rentowym oraz wypadkowemu tytułu prowadzenia pozarolniczej działalności rozumieniu art. 8 6 ustawy dnia 13 października 1998 systemie ubezpieczeń społecznych (Dz. U. 2009 205, 1585, późn. zm. ):
+1. Na wniosek osoby podlegającej w okresie od dnia 1 stycznia 1999 r. do dnia 28 lutego 2009 r. obowiązkowo ubezpieczeniom emerytalnemu i rentowym oraz wypadkowemu z tytułu prowadzenia pozarolniczej działalności w rozumieniu art. 8 ust. 6 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2009 r. Nr 205, poz. 1585, z późn. zm.):
 
-- **1)** która przed dniem 1 września 2012 zakończyła prowadzenie pozarolniczej działalności nie prowadzi jej dniu wydania decyzji, której 8,
-- **2)** innej niż wymieniona pkt 1 – umarza się nieopłacone składki na te ubezpieczenia za okres od dnia 1 stycznia 1999 do dnia 28 lutego 2009 oraz należne od nich odsetki za zwłokę, opłaty prolongacyjne, koszty upomnienia, opłaty dodatkowe, a także koszty egzekucyjne naliczone przez dyrektora oddziału Zakładu Ubezpieczeń Społecznych, naczelnika urzędu skarbowego lub komornika sądowego.
+- **1)** która przed dniem 1 września 2012 r. zakończyła prowadzenie pozarolniczej działalności i nie prowadzi jej w dniu wydania decyzji, o której mowa w ust. 8,
+- **2)** innej niż wymieniona w pkt 1 umarza się nieopłacone składki na te ubezpieczenia za okres od dnia 1 stycznia 1999 r. do dnia 28 lutego 2009 r. oraz należne od nich odsetki za zwłokę, opłaty prolongacyjne, koszty upomnienia, opłaty dodatkowe, a także koszty egzekucyjne naliczone przez dyrektora oddziału Zakładu Ubezpieczeń Społecznych, naczelnika urzędu skarbowego lub komornika sądowego.
 
-2. W przypadku osób prowadzących pozarolniczą działalność, których art. 8 6 pkt 4 ustawy wymienionej wniosek umorzenie składa płatnik składek.
+2. W przypadku osób prowadzących pozarolniczą działalność, o których mowa w art. 8 ust. 6 pkt 4 ustawy wymienionej w ust. 1, wniosek o umorzenie składa płatnik składek.
 
-3. W przypadku, gdy płatnik, którym 2, zakończył prowadzenie pozarolniczej działalności, wniosek umorzenie składa osoba, której 1.
+3. W przypadku, gdy płatnik, o którym mowa w ust. 2, zakończył prowadzenie pozarolniczej działalności, wniosek o umorzenie składa osoba, o której mowa w ust. 1.
 
-4. Wniosek umorzenie można złożyć terminie 24 miesięcy od dnia wejścia życie niniejszej ustawy.
+4. Wniosek o umorzenie można złożyć w terminie 24 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-5. Jeżeli decyzję podleganiu obowiązkowym ubezpieczeniom społecznym lub decyzję wysokości zadłużenia tytułu składek na obowiązkowe ubezpieczenia społeczne, których Zakład Ubezpieczeń Społecznych wyda po dniu wejścia życie niniejszej ustawy, wniosek umorzenie można złożyć terminie 12 miesięcy od dnia uprawomocnienia się tej decyzji, chyba że termin określony 4 jest dłuższy.
+5. Jeżeli decyzję o podleganiu obowiązkowym ubezpieczeniom społecznym lub decyzję o wysokości zadłużenia z tytułu składek na obowiązkowe ubezpieczenia społeczne, o których mowa w ust. 1, Zakład Ubezpieczeń Społecznych wyda po dniu wejścia w życie niniejszej ustawy, wniosek o umorzenie można złożyć w terminie 12 miesięcy od dnia uprawomocnienia się tej decyzji, chyba że termin określony w ust. 4 jest dłuższy.
 
-6. Umorzenie należności, których skutkuje umorzeniem nieopłaconych składek na ubezpieczenie zdrowotne na Fundusz Pracy za ten sam okres oraz należnych od nich, za ten sam okres, odsetek za zwłokę, opłat prolongacyjnych, kosztów upomnienia, opłat dodatkowych, a także kosztów egzekucyjnych naliczonych przez dyrektora oddziału Zakładu Ubezpieczeń Społecznych, naczelnika urzędu skarbowego lub komornika sądowego.
+6. Umorzenie należności, o których mowa w ust. 1, skutkuje umorzeniem nieopłaconych składek na ubezpieczenie zdrowotne i na Fundusz Pracy za ten sam okres oraz należnych od nich, za ten sam okres, odsetek za zwłokę, opłat prolongacyjnych, kosztów upomnienia, opłat dodatkowych, a także kosztów egzekucyjnych naliczonych przez dyrektora oddziału Zakładu Ubezpieczeń Społecznych, naczelnika urzędu skarbowego lub komornika sądowego.
 
-7. Umorzeniu podlegają również należności, których 1 6, które do dnia wejścia życie niniejszej ustawy zostały rozłożone na raty nie zostały opłacone do dnia złożenia wniosku umorzenie. Należności te podlegają wyłączeniu umowy rozłożeniu należności tytułu składek na raty. Warunek, którym 10, uważa się za spełniony po opłaceniu pozostałych należności objętych umową.
+7. Umorzeniu podlegają również należności, o których mowa w ust. 1 i 6, które do dnia wejścia w życie niniejszej ustawy zostały rozłożone na raty i nie zostały opłacone do dnia złożenia wniosku o umorzenie. Należności te podlegają wyłączeniu z umowy o rozłożeniu należności z tytułu składek na raty. Warunek, o którym mowa w ust. 10, uważa się za spełniony po opłaceniu pozostałych należności objętych umową.
 
-8. Zakład Ubezpieczeń Społecznych wydaje decyzję określającą warunki umorzenia, której ustala także kwoty należności, których 1 6, wyłączeniem kosztów egzekucyjnych.
+8. Zakład Ubezpieczeń Społecznych wydaje decyzję określającą warunki umorzenia, w której ustala także kwoty należności, o których mowa w ust. 1 i 6, z wyłączeniem kosztów egzekucyjnych.
 
-9. W przypadku prowadzenia przez Zakład Ubezpieczeń Społecznych albo wszczęcia po dniu złożenia wniosku, którym postępowania sprawie podlegania ubezpieczeniom społecznym tytułu określonego art. 6 1 pkt 2 ustawy wymienionej 1 odniesieniu do osób zgłoszonych do tych ubezpieczeń przez osoby prowadzące pozarolniczą działalność albo spółki, których art. 8 6 pkt 4 ustawy wymienionej postępowanie, którym 8, ulega zawieszeniu do dnia uprawomocnienia się decyzji sprawie podlegania tym ubezpieczeokres od dnia 1 stycznia 1999 r., do opłacenia których zobowiązana jest osoba prowadząca pozarolniczą działalność lub płatnik składek, którym 2, oraz należnych od tych składek odsetek za zwłokę, opłat prolongacyjnych, kosztów upomnienia, opłat dodatkowych, a także kosztów egzekucyjnych naliczonych przez dyrektora oddziału Zakładu Ubezpieczeń Społecznych, naczelnika urzędu skarbowego lub komornika sądowego.
+9. W przypadku prowadzenia przez Zakład Ubezpieczeń Społecznych albo wszczęcia po dniu złożenia wniosku, o którym mowa w ust. 1, postępowania w sprawie podlegania ubezpieczeniom społecznym z tytułu określonego w art. 6 ust. 1 pkt 2 ustawy wymienionej w ust. 1 w odniesieniu do osób zgłoszonych do tych ubezpieczeń przez osoby prowadzące pozarolniczą działalność albo spółki, o których mowa w art. 8 ust. 6 pkt 4 ustawy wymienionej w ust. 1, postępowanie, o którym mowa w ust. 8, ulega zawieszeniu do dnia uprawomocnienia się decyzji w sprawie podlegania tym ubezpieczeniom.
 
-11. Niepodlegające umorzeniu należności, których 10, podlegają spłacie terminie 12 miesięcy od dnia uprawomocnienia się decyzji, której 8.
+10. Warunkiem umorzenia należności, o których mowa w ust. 1 i 6, jest nieposiadanie na dzień wydania decyzji, o której mowa w ust. 13 pkt 1, niepodlegających umorzeniu składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych oraz na Fundusz Emerytur Pomostowych, za okres od dnia 1 stycznia 1999 r., do opłacenia których zobowiązana jest osoba prowadząca pozarolniczą działalność lub płatnik składek, o którym mowa w ust. 2, oraz należnych od tych składek odsetek za zwłokę, opłat prolongacyjnych, kosztów upomnienia, opłat dodatkowych, a także kosztów egzekucyjnych naliczonych przez dyrektora oddziału Zakładu Ubezpieczeń Społecznych, naczelnika urzędu skarbowego lub komornika sądowego.
 
-12. W przypadku, gdy terminie 12 miesięcy od dnia uprawomocnienia się decyzji, której 8, niepodlegające umorzeniu należności, wyłączeniem składek finansowanych przez ubezpieczonych niebędących płatnikami składek, zostaną rozłożone na raty albo zostanie odroczony termin ich płatności, warunek, którym 10, uważa się za spełniony po ich opłaceniu.
+11. Niepodlegające umorzeniu należności, o których mowa w ust. 10, podlegają spłacie w terminie 12 miesięcy od dnia uprawomocnienia się decyzji, o której mowa w ust. 8.
+
+12. W przypadku, gdy w terminie 12 miesięcy od dnia uprawomocnienia się decyzji, o której mowa w ust. 8, niepodlegające umorzeniu należności, z wyłączeniem składek finansowanych przez ubezpieczonych niebędących płatnikami składek, zostaną rozłożone na raty albo zostanie odroczony termin ich płatności, warunek, o którym mowa w ust. 10, uważa się za spełniony po ich opłaceniu.
 
 13. Zakład Ubezpieczeń Społecznych wydaje decyzję o:
 
-- **1)** umorzeniu należności, których 1 6 – po spełnieniu warunku, którym 10, uwzględnieniem 7, 11 12, lub
-- **2)** odmowie umorzenia należności, których 1 6 – przypadku niespełnienia warunku, którym 10, uwzględnieniem 7, 11 12.
+- **1)** umorzeniu należności, o których mowa w ust. 1 i 6 – po spełnieniu warunku, o którym mowa w ust. 10, z uwzględnieniem ust. 7, 11 i 12, lub
+- **2)** odmowie umorzenia należności, o których mowa w ust. 1 i 6 – w przypadku niespełnienia warunku, o którym mowa w ust. 10, z uwzględnieniem ust. 7, 11 i 12.
 
-14. W okresie od dnia złożenia wniosku umorzenie do dnia uprawomocnienia się decyzji, której 13, postępowanie egzekucyjne ulega zawieszeniu. Do postępowania egzekucyjnego nie stosuje się art. 823 ustawy dnia 17 listopada 1964 – Kodeks postępowania cywilnego (Dz. U. 43, 296, późn. zm. ).
+14. W okresie od dnia złożenia wniosku o umorzenie do dnia uprawomocnienia się decyzji, o której mowa w ust. 13, postępowanie egzekucyjne ulega zawieszeniu. Do postępowania egzekucyjnego nie stosuje się art. 823 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.).
 
-15. Bieg terminu przedawnienia należności, których 6, 10 12, ulega zawieszeniu na okres od dnia złożenia wniosku umorzenie do dnia uprawomocnienia się decyzji, której 13.
+15. Bieg terminu przedawnienia należności, o których mowa w ust. 1, 6, 10 i 12, ulega zawieszeniu na okres od dnia złożenia wniosku o umorzenie do dnia uprawomocnienia się decyzji, o której mowa w ust. 13.
 
-16. Od decyzji, których 8 13, przysługuje odwołanie do właściwego sądu terminie na zasadach określonych art. 83 2, 3 5–7 ustawy wymienionej 1.
+16. Od decyzji, o których mowa w ust. 8 i 13, przysługuje odwołanie do właściwego sądu w terminie i na zasadach określonych w art. 83 ust. 2, 3 i 5–7 ustawy wymienionej w ust. 1.
 
-17. Zakład Ubezpieczeń Społecznych niezwłocznie przekazuje decyzję, której 13 pkt dyrektorowi dzialności.
+17. Zakład Ubezpieczeń Społecznych niezwłocznie przekazuje decyzję, o której mowa w ust. 13 pkt 1, dyrektorowi oddziału Zakładu Ubezpieczeń Społecznych jako organowi egzekucyjnemu, naczelnikowi urzędu skarbowego lub komornikowi sądowemu w celu wydania postanowienia o umorzeniu kosztów egzekucyjnych.
 
-2. Wniosek, którym można złożyć terminie 24 miesięcy od dnia wejścia życie niniejszej ustawy, zastrzeżeniem 3.
+**Art. 2.**
 
-3. Jeżeli decyzję, której Zakład Ubezpieczeń Społecznych wyda po dniu wejścia życie niniejszej ustawy, wniosek umorzenie spadkobierca lub osoba trzecia może złożyć terminie 12 miesięcy od dnia uprawomocnienia się tej decyzji, chyba że termin określony 2 jest dłuższy.
+1. Z wnioskiem o umorzenie należności, o których mowa w art. 1 ust. 1, może również wystąpić spadkobierca lub osoba trzecia, jeżeli w zakresie tych zobowiązań Zakład Ubezpieczeń Społecznych wydał decyzję o ich odpowiedzialności.
 
-4. Do postępowania sprawach, których przepisy art. 1 3 stosuje się odpowiednio.
+2. Wniosek, o którym mowa w ust. 1, można złożyć w terminie 24 miesięcy od dnia wejścia w życie niniejszej ustawy, z zastrzeżeniem ust. 3.
 
-**Art. 3.** Przychody tytułu umorzenia należności, których art. 1 1 6, nie stanowią przychodu rozumieniu przepisów podatku dochodowym od osób fizycznych.
+3. Jeżeli decyzję, o której mowa w ust. 1, Zakład Ubezpieczeń Społecznych wyda po dniu wejścia w życie niniejszej ustawy, wniosek o umorzenie spadkobierca lub osoba trzecia może złożyć w terminie 12 miesięcy od dnia uprawomocnienia się tej decyzji, chyba że termin określony w ust. 2 jest dłuższy.
 
-**Art. 4.** W przypadku umorzenia składek na ubezpieczenia emerytalne rentowe:
+4. Do postępowania w sprawach, o których mowa w ust. 1, przepisy art. 1 i 3 stosuje się odpowiednio.
+
+**Art. 3.** Przychody z tytułu umorzenia należności, o których mowa w art. 1 ust. 1 i 6, nie stanowią przychodu w rozumieniu przepisów o podatku dochodowym od osób fizycznych.
+
+**Art. 4.** W przypadku umorzenia składek na ubezpieczenia emerytalne i rentowe:
+
+- **1)** okres, za który składki zostały umorzone nie podlega uwzględnieniu przy ustalaniu prawa i wysokości emerytur i rent z ubezpieczeń społecznych oraz innych świadczeń, do których prawo uzależnione jest od posiadania wymaganego okresu składkowego i nieskładkowego w rozumieniu przepisów ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2009 r. Nr 153, poz. 1227, z późn. zm.);
+- **2)** kwota umorzonych składek nie podlega wliczeniu do podstawy obliczenia emerytury, o której mowa w art. 25 ustawy wymienionej w pkt 1.
 
 **Art. 5.**
 
-1. Do osób, których art. 1 1 pkt 2, przepisy art. 1 8 13 stosuje się od dnia ogłoszenia decyzji Komisji Europejskiej stwierdzającej, że umorzenie, którym art. nie stanowi pomocy publicznej rozumieniu art. 107 1 Traktatu funkcjonowaniu Unii Europejskiej (wersja skonsolidowana traktatu – Dz. Urz. UE C 83 dnia 30 marca 2010 r.) lub stwierdzającej, że umorzenie, którym art. stanowi pomoc publiczną zgodną rynkiem wewnętrznym.
+1. Do osób, o których mowa w art. 1 ust. 1 pkt 2, przepisy art. 1 ust. 8 i 13 stosuje się od dnia ogłoszenia decyzji Komisji Europejskiej stwierdzającej, że umorzenie, o którym mowa w art. 1, nie stanowi pomocy publicznej w rozumieniu art. 107 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej (wersja skonsolidowana traktatu – Dz. Urz. UE C 83 z z dnia 30 marca 2010 r.) lub stwierdzającej, że umorzenie, o którym mowa w art. 1, stanowi pomoc publiczną zgodną z rynkiem wewnętrznym.
 
-2. W przypadku złożenia przez osobę, której wniosku umorzenie przed dniem wydania decyzji Komisji Europejskiej, do zawieszenia postępowania egzekucyjnego stosuje się przepisy pomocy publicznej.
+2. W przypadku złożenia przez osobę, o której mowa w ust. 1, wniosku o umorzenie przed dniem wydania decyzji Komisji Europejskiej, do zawieszenia postępowania egzekucyjnego stosuje się przepisy o pomocy publicznej.
 
-**Art. 6.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

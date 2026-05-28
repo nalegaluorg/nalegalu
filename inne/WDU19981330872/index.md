@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1998-10-13 |
 | Data wydania | 1998-10-29 |
+| Wejście w życie | 1998-10-29 |
 | Ostatnia zmiana | 2024-11-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981330872) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1998/872/text.pdf) |
 

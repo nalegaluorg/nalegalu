@@ -8,12 +8,10 @@ pos: 1483
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o nadaniu nowych nazw niektórym publicznym uczelniom akademickim
-
-*USTAWA z dnia 18 października 2006 r.*
+# Ustawa z dnia 18 października 2006 r. o nadaniu nowych nazw niektórym publicznym uczelniom akademickim
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2006-10-18 |
 | Data wydania | 2006-11-08 |
+| Wejście w życie | 2006-11-23 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062021483) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1483/text.pdf) |
 

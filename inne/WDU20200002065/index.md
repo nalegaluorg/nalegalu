@@ -8,12 +8,10 @@ pos: 2065
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych
-
-*USTAWA z dnia 15 maja 2015 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 8 października 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych
 
 | Pole | Wartość |
 |---|---|
@@ -27,7 +25,34 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-01-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002065) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2065/text.pdf) |
 
-Art. 54–59. (pominięte)
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 15 maja 2015 r. o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych Rozdział 1 – Przepisy ogólne Rozdział 2 – Obowiązek prowadzenia dokumentacji przez operatorów urządzeń Rozdział 3 – Wyspecjalizowana jednostka Rozdział 4 – Centralny Rejestr Operatorów Rozdział 5 – Certyfikacja Rozdział 6 – Komitet Odwoławczy Rozdział 7 – Obowiązki podmiotów prowadzących działalność związaną z systemami klimatyzacji w niektórych pojazdach silnikowych zawierającymi substancje kontrolowane lub fluorowane gazy cieplarniane oraz zasady prowadzenia szkoleń w zakresie odzysku substancji kontrolowanych lub fluorowanych gazów cieplarnianych z tych systemów Rozdział 8 – Sprawozdawczość w zakresie substancji zubożających warstwę ozonową oraz fluorowanych gazów cieplarnianych Rozdział 9 – Organy właściwe w sprawach substancji zubożających warstwę ozonową i fluorowanych gazów cieplarnianych Rozdział 10 – Kontrola Rozdział 11 – Administracyjne kary pieniężne i przepisy karne Rozdział 12 – Zmiany w przepisach obowiązujących Rozdział 13 – Przepisy przejściowe i końcowe
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 maja 2015 r. o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych (Dz. U. z 2019 r. poz. 2158), z uwzględnieniem zmian wprowadzonych ustawą z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284) oraz zmian wynikających z przepisów ogłoszonych przed dniem 1 października 2020 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 98, art. 101, art. 102 i art. 114 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), które stanowią:
+„
+Art. 54–59.
+(pominięte)
+
+**Art. 98.**
+
+1. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe, z tym że sprawy te toczą się przed organami, które przejęły zadania i kompetencje na podstawie niniejszej ustawy, z zastrzeżeniem art. 99.
+
+2. Organy, które przejęły zadania i kompetencje na podstawie niniejszej ustawy, przejmują związane z tymi zadaniami i kompetencjami prawa i obowiązki organów, które utraciły te zadania i kompetencje, w tym także wynikające z umów i porozumień.
+
+3. Akta spraw, rejestry, ewidencje, listy i bazy danych, prowadzone przed dniem wejścia w życie niniejszej ustawy przez organy, które utraciły zadania i kompetencje na podstawie niniejszej ustawy, przejmują organy, które przejęły od nich w tym zakresie zadania i kompetencje na podstawie niniejszej ustawy.
+
+4. Organy, które utraciły zadania i kompetencje na podstawie niniejszej ustawy, przekazują niezwłocznie organom, które przejęły od nich zadania i kompetencje na podstawie niniejszej ustawy, dokumentację związaną z wykonywaniem przejętych zadań i kompetencji, w tym także w postaci informatycznych nośników danych.
+
+5. Z czynności, o których mowa w ust. 3 i 4, sporządza się protokół. ” „
+
+**Art. 101.** Czynności dokonane przed dniem wejścia w życie niniejszej ustawy przez organy, które utraciły zadania i kompetencje na podstawie niniejszej ustawy, a także dokumenty sporządzone przed dniem wejścia w życie niniejszej ustawy przez te organy albo przy ich udziale, w szczególności uzgodnienia, zatwierdzenia, akceptacje, wezwania, wpisy do rejestrów, zlecenia, wskazania, weryfikacje, notyfikacje, opinie i zaświadczenia, zachowują ważność, przy czym dokumenty wydane na czas określony – zachowują ważność przez okres, na który zostały wydane.
+
+**Art. 102.** Wzory dokumentów określone na podstawie przepisów zmienianych niniejszą ustawą w formie dokumentu elektronicznego przez organy, które utraciły zadania i kompetencje na podstawie niniejszej ustawy, zachowują ważność. ” „
+
+**Art. 114.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 106 ust. 4, art. 107 ust. 2 i art. 108 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 15 maja 2015 r. o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -35,13 +60,13 @@ Art. 54–59. (pominięte)
 
 1. Ustawa określa postępowanie i właściwość organów w sprawach wykonywania obowiązków wynikających z:
 
-- **1)** rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 517/2014 z dnia 16 kwietnia 2014 r. w sprawie fluorowanych gazów cieplarnianych i uchylenia rozporządzenia (WE) nr 842/2006 (Dz. Urz. UE L 150 z 20.05.2014, str. 195, z późn. zm. ), zwanego dalej „rozporządzeniem (UE) nr 517/2014”;
+- **1)** rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 517/2014 z dnia 16 kwietnia 2014 r. w sprawie fluorowanych gazów cieplarnianych i uchylenia rozporządzenia (WE) nr 842/2006 (Dz. Urz. UE L 150 z 20.05.2014, str. 195, z późn. zm.), zwanego dalej „rozporządzeniem (UE) nr 517/2014”;
 - **2)** rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1005/2009 z dnia 16 września 2009 r. w sprawie substancji zubożających warstwę ozonową (Dz. Urz. UE L 286 z 31.10.2009, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem (WE) nr 1005/2009”.
 
 2. Ustawa reguluje:
 
 - **1)** obowiązki podmiotów prowadzących działalność gospodarczą w zakresie produkcji i usług związanych ze stosowaniem substancji zubożających warstwę ozonową lub fluorowanych gazów cieplarnianych oraz pozostałych fluorowanych gazów cieplarnianych, a także z obrotem tymi substancjami i gazami oraz produktami i urządzeniami zawierającymi te substancje lub gazy lub od nich uzależnionymi, oraz obowiązki podmiotów użytkujących produkty i urządzenia zawierające te substancje lub gazy lub od nich uzależnione,
-- **2)** zadania organów i jednostek właściwych w sprawach substancji zubożających warstwę ozonową oraz fluorowanych gazów cieplarnianych i pozostałych fluorowanych gazów cieplarnianych oraz zasady postępowania z produktami i urządzeniami, zawierającymi te substancje lub gazy lub od nich uzależnionymi – w zakresie nieuregulowanym rozporządzeniami, o których mowa w ust. 1;
+- **2)** zadania organów i jednostek właściwych w sprawach substancji zubożających warstwę ozonową oraz fluorowanych gazów cieplarnianych i pozostałych fluorowanych gazów cieplarnianych oraz zasady postępowania z produktami i urządzeniami, zawierającymi te substancje lub gazy lub od nich uzależnionymi w zakresie nieuregulowanym rozporządzeniami, o których mowa w ust. 1;
 - **3)** sankcje za naruszenie przepisów dotyczących substancji zubożających warstwę ozonową i fluorowanych gazów cieplarnianych, pozostałych fluorowanych gazów cieplarnianych oraz produktów i urządzeń, zawierających te substancje lub gazy lub od nich uzależnionych.
 
 **Art. 2.**
@@ -50,26 +75,28 @@ Art. 54–59. (pominięte)
 
 - **1)** certyfikacie – oznacza to dokument wydany przez jednostkę certyfikującą, potwierdzający, że osoba fizyczna lub przedsiębiorca spełnia wymagania określone w ustawie;
 - **2)** fluorowanych gazach cieplarnianych – oznacza to fluorowane gazy cieplarniane w rozumieniu art. 2 pkt 1 rozporządzenia (UE) nr 517/2014;
-- **3)** ilości substancji kontrolowanych lub ilości fluorowanych gazów cieplarnianych zawartych w:
-    - **a)** urządzeniach chłodniczych, klimatyzacyjnych i pompach ciepła – oznacza to dopuszczalne napełnienie pojedynczego obiegu czynnika chłodniczego określone w specyfikacji technicznej sporządzonej przez producenta danego urządzenia, lub – w przypadku jej braku – określone podczas doświadczalnego napełnienia przy pierwszej czynności serwisowej,
-    - **b)** rozdzielnicach elektrycznych – oznacza to znamionowe napełnienie wyodrębnionego przedziału gazowego określone w specyfikacji technicznej sporządzonej przez producenta danej rozdzielnicy,
-    - **c)** urządzeniach zawierających rozpuszczalniki – oznacza to dopuszczalne napełnienie całego zbiornika urządzenia określone w specyfikacji technicznej sporządzonej przez producenta danego urządzenia,
-    - **d)** systemach ochrony przeciwpożarowej – oznacza to dopuszczalne napełnienie całego systemu ochrony przeciwpożarowej,
-    - **e)** gaśnicach – oznacza to dopuszczalne napełnienie gaśnicy określone w specyfikacji technicznej sporządzonej przez producenta danej gaśnicy;
+- **3)** ilości substancji kontrolowanych lub ilości fluorowanych gazów cieplarnianych zawartych w: urządzeniach chłodniczych, klimatyzacyjnych i pompach ciepła – oznacza to dopuszczalne napełnienie pojedynczego obiegu czynnika chłodniczego określone w specyfikacji technicznej sporządzonej przez producenta danego urządzenia, lub – w przypadku jej braku – określone podczas doświadczalnego napełnienia przy pierwszej czynności serwisowej, rozdzielnicach elektrycznych – oznacza to znamionowe napełnienie wyodrębnionego przedziału gazowego określone w specyfikacji technicznej sporządzonej przez producenta danej rozdzielnicy, urządzeniach zawierających rozpuszczalniki – oznacza to dopuszczalne napełnienie całego zbiornika urządzenia określone w specyfikacji technicznej sporządzonej przez producenta danego urządzenia, systemach ochrony przeciwpożarowej – oznacza to dopuszczalne napełnienie całego systemu ochrony przeciwpożarowej, gaśnicach – oznacza to dopuszczalne napełnienie gaśnicy określone w specyfikacji technicznej sporządzonej przez producenta danej gaśnicy;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 - **4)** instalowaniu – oznacza to łączenie dwóch lub większej liczby urządzeń lub obiegów zawierających lub mających zawierać substancję kontrolowaną, w celu zmontowania układu w miejscu jego eksploatacji, którego wynikiem jest złączenie przewodów gazu danego układu, niezależnie od tego, czy układ będzie wymagał napełnienia po zakończeniu montażu – w stosunku do urządzeń zawierających substancje kontrolowane lub zaprojektowanych tak, aby zawierać substancje kontrolowane;
 - **5)** konserwacji lub serwisowaniu – oznacza to wszystkie czynności, z wyłączeniem dokonywania odzysku i sprawdzania pod względem wycieków, związane z dostaniem się do obwodów zawierających lub zaprojektowanych tak, aby zawierać substancje kontrolowane, w szczególności dostarczeniem substancji kontrolowanych do układu, usuwaniem jednego lub większej ilości elementów obwodu lub urządzenia, ponownym montażem dwóch lub większej liczby elementów obwodu lub urządzenia oraz naprawą nieszczelności – w stosunku do urządzeń zawierających substancje kontrolowane;
 - **5a)** likwidacji – oznacza to ostateczne wyłączenie z eksploatacji lub użycia produktu lub urządzenia zawierających substancje kontrolowane – w odniesieniu do produktów i urządzeń zawierających substancje kontrolowane;
 - **5b)** naprawie – oznacza to renowację uszkodzonych lub nieszczelnych produktów lub urządzeń zawierających substancje kontrolowane lub których działanie jest od nich uzależnione, dotyczącą części zawierającej lub zaprojektowanej tak, aby zawierać substancje kontrolowane – w odniesieniu do produktów i urządzeń zawierających substancje kontrolowane lub których działanie jest od nich uzależnione;
-- **6)** niektórych pojazdach silnikowych – oznacza to pojazdy samochodowe określone w załączniku nr 2 do ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2020 r. poz. 110, 284, 568, 695, 1087 i 1517) kategorii M oraz kategorii N o masie odniesienia nieprzekraczającej 1305 kg, przy czym przez masę odniesienia należy rozumieć masę własną pojazdu powiększoną o 100 kg;
+- **6)** niektórych pojazdach silnikowych – oznacza to pojazdy samochodowe określone w załączniku nr 2 do ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2020 r. poz. 110, 284, 568, 695, 1087 i 1517) kategorii M1 oraz kategorii N1 o masie odniesienia nieprzekraczającej 1305 kg, przy czym przez masę odniesienia należy rozumieć masę własną pojazdu powiększoną o 100 kg;
 - **7)** nowych substancjach – oznacza to nowe substancje w rozumieniu art. 3 pkt 10 rozporządzenia (WE) nr 1005/2009;
 - **8)** oddziale – oznacza to wyodrębnioną i samodzielną organizacyjnie część działalności gospodarczej, wykonywaną przez przedsiębiorcę poza siedzibą przedsiębiorcy lub głównym miejscem wykonywania działalności;
 - **9)** operatorze – oznacza to operatora w rozumieniu art. 2 pkt 8 rozporządzenia (UE) nr 517/2014 lub przedsiębiorstwo w rozumieniu art. 3 pkt 26 lit. e rozporządzenia (WE) nr 1005/2009;
-- **10)** (uchylony) 10a) pozostałych fluorowanych gazach cieplarnianych – oznacza to pozostałe fluorowane gazy cieplarniane wymienione w załączniku II do rozporządzenia (UE) nr 517/2014;
+- **10)** (uchylony)
+- **10a)** pozostałych fluorowanych gazach cieplarnianych – oznacza to pozostałe fluorowane gazy cieplarniane wymienione w załączniku II do rozporządzenia (UE) nr 517/2014;
 - **10b)** produkcie lub urządzeniu – oznacza to odpowiednio produkt albo urządzenie w rozumieniu przepisów rozporządzenia (WE) nr 1005/2009 w odniesieniu do substancji zubożających warstwę ozonową albo produkt albo urządzenie, o których mowa w rozporządzeniu (UE) nr 517/2014, w odniesieniu do fluorowanych gazów cieplarnianych lub pozostałych fluorowanych gazów cieplarnianych;
-- **11)** przedsiębiorstwie – oznacza to przedsiębiorstwo w rozumieniu art. 3 pkt 26 lit. a–d rozporządzenia (WE) nr 1005/2009;
+- **11)** przedsiębiorstwie – oznacza to przedsiębiorstwo w rozumieniu art. 3 pkt 26 lit. a-d rozporządzenia (WE) nr 1005/2009;
 - **11a)** przyczepie chłodni – oznacza to przyczepę chłodnię w rozumieniu art. 2 pkt 27 rozporządzenia (UE) nr 517/2014;
-- **12)** (uchylony) 12a) rozdzielnicy elektrycznej – oznacza to rozdzielnicę elektryczną w rozumieniu art. 2 pkt 36 rozporządzenia (UE) nr 517/2014;
+- **12)** (uchylony)
+- **12a)** rozdzielnicy elektrycznej – oznacza to rozdzielnicę elektryczną w rozumieniu art. 2 pkt 36 rozporządzenia (UE) nr 517/2014;
 - **13)** ruchomym urządzeniu – oznacza to urządzenie, które jest zwykle przemieszczane podczas eksploatacji, z wyłączeniem urządzeń stanowiących systemy klimatyzacji w niektórych pojazdach silnikowych;
 - **13a)** samochodzie ciężarowym chłodni – oznacza to samochód ciężarowy chłodnię w rozumieniu art. 2 pkt 26 rozporządzenia (UE) nr 517/2014;
 - **14)** substancjach kontrolowanych – oznacza to substancje kontrolowane w rozumieniu art. 3 pkt 4 rozporządzenia (WE) nr 1005/2009;
@@ -77,11 +104,11 @@ Art. 54–59. (pominięte)
 - **16)** systemie klimatyzacji w niektórych pojazdach silnikowych – oznacza to urządzenie stanowiące układ elementów zawierający substancję kontrolowaną lub fluorowany gaz cieplarniany, którego celem jest obniżenie temperatury i wilgotności powietrza w kabinie pasażerskiej pojazdu, umieszczony w niektórych pojazdach silnikowych;
 - **17)** systemie ochrony przeciwpożarowej – oznacza to urządzenie przeciwpożarowe stanowiące zbiornik lub szereg połączonych zbiorników wraz z elementami towarzyszącymi zainstalowane ze względu na określone zagrożenie pożarowe na określonej przestrzeni;
 - **18)** (uchylony)
-- **19)** tonie ekwiwalentu CO – oznacza to tonę ekwiwalentu CO w rozumieniu art. 2 pkt 7 rozporządzenia (UE) nr 517/2014.
+- **19)** tonie ekwiwalentu CO2 – oznacza to tonę ekwiwalentu CO2 w rozumieniu art. 2 pkt 7 rozporządzenia (UE) nr 517/2014.
 
 2. Ilekroć w ustawie jest mowa o urządzeniu, oznacza to również urządzenie podstawowe wraz z elementami towarzyszącymi, w szczególności zewnętrznymi obiegami substancji kontrolowanej lub fluorowanego gazu cieplarnianego, zaworami, złączkami, elementami serwisowymi, przyrządami pomiarowymi i sterującymi.
 
-3. Przepisy ustawy dotyczące przedsiębiorstwa stosuje się również do jednostki organizacyjnej niebędącej osobą prawną wykonującej działalność, o której mowa w art. 3 pkt 26 lit. a–d rozporządzenia (WE) nr 1005/2009.
+3. Przepisy ustawy dotyczące przedsiębiorstwa stosuje się również do jednostki organizacyjnej niebędącej osobą prawną wykonującej działalność, o której mowa w art. 3 pkt 26 lit. a-d rozporządzenia (WE) nr 1005/2009.
 
 4. Przepisy ustawy dotyczące personelu stosuje się również do:
 
@@ -121,11 +148,11 @@ Art. 54–59. (pominięte)
 2. Wnioski sporządza się w postaci elektronicznej opatrzone kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym, na formularzu według wzoru określonego:
 
 - **1)** w przepisach wydanych na podstawie ust. 12 – w przypadku wniosku, o którym mowa w ust. 1,
-- **2)** zgodnie z ust. 13 – w przypadku wniosku, o którym mowa w ust. 1a – w języku polskim wraz z tłumaczeniem wniosku na język angielski.
+- **2)** zgodnie z ust. 13 – w przypadku wniosku, o którym mowa w ust. 1a w języku polskim wraz z tłumaczeniem wniosku na język angielski.
 
 3. Wnioski o odstępstwa, o których mowa w art. 11 ust. 8, art. 12 ust. 3, art. 13 ust. 4 i art. 17 ust. 3 rozporządzenia (WE) nr 1005/2009, zawierają:
 
-- **1)** nazwę wnioskodawcy oraz adres i siedzibę, a w przypadku gdy wnioskodawcą jest osoba fizyczna prowadząca działalność gospodarczą − adres wykonywania działalności, numer telefonu lub adres poczty elektronicznej lub adres strony internetowej – o ile je posiada;
+- **1)** nazwę wnioskodawcy oraz adres i siedzibę, a w przypadku gdy wnioskodawcą jest osoba fizyczna prowadząca działalność gospodarczą – adres wykonywania działalności, numer telefonu lub adres poczty elektronicznej lub adres strony internetowej – o ile je posiada;
 - **2)** datę sporządzenia wniosku;
 - **3)** przedmiot wniosku;
 - **4)** odniesienie do właściwego przepisu rozporządzenia (WE) nr 1005/2009, na podstawie którego składany jest wniosek.
@@ -152,17 +179,17 @@ Art. 54–59. (pominięte)
 
 4a. Wnioski o odstępstwa, o których mowa w art. 11 ust. 3 oraz art. 15 ust. 4 rozporządzenia (UE) nr 517/2014, zawierają:
 
-- **1)** nazwę wnioskodawcy oraz adres i siedzibę, a w przypadku gdy wnioskodawcą jest osoba fizyczna prowadząca działalność gospodarczą − adres wykonywania działalności, numer telefonu lub adres poczty elektronicznej lub adres strony internetowej – o ile je posiada;
+- **1)** nazwę wnioskodawcy oraz adres i siedzibę, a w przypadku gdy wnioskodawcą jest osoba fizyczna prowadząca działalność gospodarczą – adres wykonywania działalności, numer telefonu lub adres poczty elektronicznej lub adres strony internetowej – o ile je posiada;
 - **2)** datę sporządzenia wniosku;
 - **3)** przedmiot wniosku;
 - **4)** odniesienie do właściwego przepisu rozporządzenia (UE) nr 517/2014, na podstawie którego składany jest wniosek;
-- **5)** szczegółowe uzasadnienie wniosku, w szczególności wskazanie, w zależności od przedmiotu wniosku, informacji, dlaczego w odniesieniu do:
-    - **a)** produktu lub urządzenia, którego dotyczy wniosek, lub szczególnej kategorii produktów lub urządzeń, których dotyczy wniosek, nie są dostępne rozwiązania alternatywne lub nie można ich stosować ze względów technicznych lub bezpieczeństwa lub zastosowanie rozwiązań, które są wykonalne technicznie, wiązałoby się z nieproporcjonalnymi kosztami albo
-    - **b)** szczególnego zastosowania produktu lub urządzenia, którego dotyczy wniosek, nie są dostępne rozwiązania alternatywne lub nie można ich stosować ze względów technicznych lub bezpieczeństwa lub nie można zapewnić dostaw wodorofluorowęglowodorów bez poniesienia nieproporcjonalnych kosztów.
+- **5)** szczegółowe uzasadnienie wniosku, w szczególności wskazanie, w zależności od przedmiotu wniosku, informacji, dlaczego w odniesieniu do: produktu lub urządzenia, którego dotyczy wniosek, lub szczególnej kategorii produktów lub urządzeń, których dotyczy wniosek, nie są dostępne rozwiązania alternatywne lub nie można ich stosować ze względów technicznych lub bezpieczeństwa lub zastosowanie rozwiązań, które są wykonalne technicznie, wiązałoby się z nieproporcjonalnymi kosztami albo szczególnego zastosowania produktu lub urządzenia, którego dotyczy wniosek, nie są dostępne rozwiązania alternatywne lub nie można ich stosować ze względów technicznych lub bezpieczeństwa lub nie można zapewnić dostaw wodorofluorowęglowodorów bez poniesienia nieproporcjonalnych kosztów.
+    - **a)**
+    - **b)**
 
 5. W przypadku gdy wniosek dotyczy kilku oddziałów wnioskodawcy, dane, o których mowa w ust. 4 pkt 5–17 i ust. 4a pkt 5, podaje się dla każdego oddziału oddzielnie.
 
-6. Minister właściwy do spraw klimatu przekazuje wniosek wyspecjalizowanej jednostce, o której mowa w art. 16, w celu wydania opinii. Przy zasięganiu opinii przepisu art. 106 ustawy z dnia 14 czerwca 1960 r. − Kodeks postępowania administracyjnego (Dz. U. z 2020 r. poz. 256, 695 i 1298) nie stosuje się.
+6. Minister właściwy do spraw klimatu przekazuje wniosek wyspecjalizowanej jednostce, o której mowa w art. 16, w celu wydania opinii. Przy zasięganiu opinii przepisu art. 106 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2020 r. poz. 256, 695 i 1298) nie stosuje się.
 
 7. Wyspecjalizowana jednostka, o której mowa w art. 16, wydaje opinię w terminie 14 dni od dnia otrzymania wniosku.
 
@@ -191,11 +218,11 @@ Art. 54–59. (pominięte)
 5. Rejestr zawiera w zależności od przedmiotu wniosku:
 
 - **1)** nazwę przedsiębiorstwa lub operatora;
-- **2)** adres i siedzibę, a w przypadku przedsiębiorstwa lub operatora będącego osobą fizyczną prowadzącą działalność gospodarczą − adres wykonywania działalności;
-- **3)** numer telefonu, adres poczty elektronicznej lub adres strony internetowej przedsiębiorstwa lub operatora − o ile je posiada;
+- **2)** adres i siedzibę, a w przypadku przedsiębiorstwa lub operatora będącego osobą fizyczną prowadzącą działalność gospodarczą – adres wykonywania działalności;
+- **3)** numer telefonu, adres poczty elektronicznej lub adres strony internetowej przedsiębiorstwa lub operatora – o ile je posiada;
 - **4)** informację, czy przedsiębiorstwo jest producentem nowych substancji, stosującym te substancje, czy wprowadzającym na terytorium Rzeczypospolitej Polskiej te substancje;
 - **5)** nazwy chemiczne nowych substancji;
-- **6)** w przypadku gdy przedsiębiorstwo jest stosującym nowe substancje − rodzaj zastosowania;
+- **6)** w przypadku gdy przedsiębiorstwo jest stosującym nowe substancje – rodzaj zastosowania;
 - **7)** informację, czy przedsiębiorstwo stosuje substancje kontrolowane w charakterze substratów, czy prowadzi ich niszczenie.
 
 **Art. 8.**
@@ -226,11 +253,11 @@ Art. 54–59. (pominięte)
 
 3. W przypadku przedsiębiorstw stosujących substancje kontrolowane w charakterze substratów, zgodnie z art. 7 rozporządzenia (WE) nr 1005/2009, oraz prowadzących niszczenie substancji kontrolowanych, zgodnie z art. 22 i załącznikiem VII do tego rozporządzenia wniosek o wpis do rejestru, o którym mowa w art. 7 ust. 1, zawiera dane i informacje, o których mowa w art. 7 ust. 5 pkt 1–3 i 7, oraz:
 
-- **1)** w przypadku gdy przedsiębiorstwo stosuje substancje kontrolowane w charakterze substratów:
-    - **a)** nazwę chemiczną substancji kontrolowanej,
-    - **b)** skrócony opis procesu, w którym substancja jest stosowana, z określeniem reakcji chemicznej zachodzącej w tym procesie, w której substancja kontrolowana ulega całkowitemu przekształceniu ze stanu pierwotnego,
-    - **c)** nazwę chemiczną produktu otrzymywanego w tym procesie w wyniku transformacji chemicznej substancji kontrolowanej,
-    - **d)** wielkość emisji substancji kontrolowanej w tym procesie;
+- **1)** w przypadku gdy przedsiębiorstwo stosuje substancje kontrolowane w charakterze substratów: nazwę chemiczną substancji kontrolowanej, skrócony opis procesu, w którym substancja jest stosowana, z określeniem reakcji chemicznej zachodzącej w tym procesie, w której substancja kontrolowana ulega całkowitemu przekształceniu ze stanu pierwotnego, nazwę chemiczną produktu otrzymywanego w tym procesie w wyniku transformacji chemicznej substancji kontrolowanej, wielkość emisji substancji kontrolowanej w tym procesie;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **2)** w przypadku gdy przedsiębiorstwo prowadzi niszczenie substancji kontrolowanej – skrócony opis technologii niszczenia.
 
@@ -246,7 +273,7 @@ Art. 54–59. (pominięte)
 
 **Art. 10.**
 
-1. Nabywania substancji kontrolowanej lub fluorowanego gazu cieplarnianego w celu wykonywania czynności wymagających posiadania certyfikatu dla personelu, o którym mowa w art. 20, lub zaświadczenia o odbytym szkoleniu, o którym mowa w art. 37 ust. 1, może dokonywać osoba fizyczna posiadająca certyfikat dla personelu odpowiedni do wykonywanych przez tę osobę czynności związanych z substancjami kontrolowanymi lub fluorowanymi gazami cieplarnianymi albo – w przypadku osoby fizycznej wykonującej czynności serwisowe i naprawcze systemów klimatyzacji w niektórych pojazdach silnikowych − zaświadczenie, o którym mowa w art. 37 ust. 1, lub przedsiębiorca posiadający certyfikat dla przedsiębiorców, o którym mowa w art. 29.
+1. Nabywania substancji kontrolowanej lub fluorowanego gazu cieplarnianego w celu wykonywania czynności wymagających posiadania certyfikatu dla personelu, o którym mowa w art. 20, lub zaświadczenia o odbytym szkoleniu, o którym mowa w art. 37 ust. 1, może dokonywać osoba fizyczna posiadająca certyfikat dla personelu odpowiedni do wykonywanych przez tę osobę czynności związanych z substancjami kontrolowanymi lub fluorowanymi gazami cieplarnianymi albo – w przypadku osoby fizycznej wykonującej czynności serwisowe i naprawcze systemów klimatyzacji w niektórych pojazdach silnikowych – zaświadczenie, o którym mowa w art. 37 ust. 1, lub przedsiębiorca posiadający certyfikat dla przedsiębiorców, o którym mowa w art. 29.
 
 2. Nabywanie substancji kontrolowanej, o którym mowa w ust. 1, może mieć miejsce tylko w przypadku halonów wykorzystywanych do celów krytycznych lub w przypadku uzyskania odstępstwa, o którym mowa w art. 11 ust. 8 rozporządzenia (WE) nr 1005/2009.
 
@@ -262,7 +289,7 @@ Art. 54–59. (pominięte)
 
 1. Stacjonarne urządzenia chłodnicze, klimatyzacyjne i pompy ciepła, agregaty chłodnicze w samochodach ciężarowych chłodniach i przyczepach chłodniach oraz stacjonarne systemy ochrony przeciwpożarowej, zawierające co najmniej 3 kg substancji kontrolowanych, sprawdzane są pod względem wycieków zgodnie z art. 23 rozporządzenia (WE) nr 1005/2009.
 
-2. Stacjonarne urządzenia chłodnicze, klimatyzacyjne i pompy ciepła, agregaty chłodnicze w samochodach ciężarowych chłodniach i przyczepach chłodniach oraz stacjonarne systemy ochrony przeciwpożarowej, a także rozdzielnice elektryczne i organiczne obiegi Rankine’a, zawierające co najmniej 5 ton ekwiwalentu CO fluorowanych gazów cieplarnianych sprawdzane są pod względem wycieków zgodnie z art. 4 rozporządzenia (UE) nr 517/2014.
+2. Stacjonarne urządzenia chłodnicze, klimatyzacyjne i pompy ciepła, agregaty chłodnicze w samochodach ciężarowych chłodniach i przyczepach chłodniach oraz stacjonarne systemy ochrony przeciwpożarowej, a także rozdzielnice elektryczne i organiczne obiegi Rankine’a, zawierające co najmniej 5 ton ekwiwalentu CO2 fluorowanych gazów cieplarnianych sprawdzane są pod względem wycieków zgodnie z art. 4 rozporządzenia (UE) nr 517/2014.
 
 3. (uchylony)
 
@@ -270,15 +297,13 @@ Art. 54–59. (pominięte)
 
 1. Podmioty wprowadzające na terytorium Rzeczypospolitej Polskiej:
 
-- **1)** produkty i urządzenia:
-    - **a)** zawierające substancje kontrolowane lub od nich uzależnione,
-    - **b)** zawierające fluorowane gazy cieplarniane lub od nich uzależnione,
+- **1)** produkty i urządzenia: zawierające substancje kontrolowane lub od nich uzależnione, zawierające fluorowane gazy cieplarniane lub od nich uzależnione,
+    - **a)**
+    - **b)**
 
-- **2)** pojemniki zawierające substancje kontrolowane albo fluorowane gazy cieplarniane – są obowiązane do umieszczenia na nich etykiety oraz dołączenia instrukcji dotyczącej ich przeznaczenia i funkcjonowania, sporządzonych w języku polskim.
+- **2)** pojemniki zawierające substancje kontrolowane albo fluorowane gazy cieplarniane są obowiązane do umieszczenia na nich etykiety oraz dołączenia instrukcji dotyczącej ich przeznaczenia i funkcjonowania, sporządzonych w języku polskim.
 
 2. (uchylony)
-
-**Art. 13a.**
 
 1. Dowodem, o którym mowa w art. 11 ust. 5 rozporządzenia (UE) nr 517/2014, jest umowa na wykonanie usługi instalowania, zawierająca w szczególności dane pozwalające na identyfikację urządzenia, które ma zostać zainstalowane, oraz:
 
@@ -297,21 +322,21 @@ Art. 54–59. (pominięte)
 
 **Art. 14.**
 
-1. Dokumentację, o której mowa w art. 6 ust. 1 rozporządzenia (UE) nr 517/2014 oraz art. 23 ust. 3 rozporządzenia (WE) nr 1005/2009, dla stacjonarnych urządzeń chłodniczych i klimatyzacyjnych, pomp ciepła, urządzeń będących agregatami chłodniczymi w samochodach ciężarowych chłodniach i przyczepach chłodniach, urządzeń będących organicznymi obiegami Rankine’a, zawierających co najmniej 3 kg substancji kontrolowanych lub co najmniej 5 ton ekwiwalentu CO fluorowanych gazów cieplarnianych, jak również dla urządzeń będących rozdzielnicami elektrycznymi zawierającymi fluorowane gazy cieplarniane w ilości co najmniej 5 ton ekwiwalentu CO lub stacjonarnych urządzeń zawierających rozpuszczalniki na bazie fluorowanych gazów cieplarnianych w ilości co najmniej 5 ton ekwiwalentu CO , z zastrzeżeniem art. 4 ust. 1 rozporządzenia (UE) nr 517/2014, sporządza się w formie Karty Urządzenia, a w przypadku urządzeń będących stacjonarnymi systemami ochrony przeciwpożarowej zawierających co najmniej 3 kg substancji kontrolowanych lub co najmniej 5 ton ekwiwalentu CO fluorowanych gazów cieplarnianych, w formie Karty Systemu Ochrony Przeciwpożarowej.
+1. Dokumentację, o której mowa w art. 6 ust. 1 rozporządzenia (UE) nr 517/2014 oraz art. 23 ust. 3 rozporządzenia (WE) nr 1005/2009, dla stacjonarnych urządzeń chłodniczych i klimatyzacyjnych, pomp ciepła, urządzeń będących agregatami chłodniczymi w samochodach ciężarowych chłodniach i przyczepach chłodniach, urządzeń będących organicznymi obiegami Rankine’a, zawierających co najmniej 3 kg substancji kontrolowanych lub co najmniej 5 ton ekwiwalentu CO2 fluorowanych gazów cieplarnianych, jak również dla urządzeń będących rozdzielnicami elektrycznymi zawierającymi fluorowane gazy cieplarniane w ilości co najmniej 5 ton ekwiwalentu CO2 lub stacjonarnych urządzeń zawierających rozpuszczalniki na bazie fluorowanych gazów cieplarnianych w ilości co najmniej 5 ton ekwiwalentu CO2, z zastrzeżeniem art. 4 ust. 1 rozporządzenia (UE) nr 517/2014, sporządza się w formie Karty Urządzenia, a w przypadku urządzeń będących stacjonarnymi systemami ochrony przeciwpożarowej zawierających co najmniej 3 kg substancji kontrolowanych lub co najmniej 5 ton ekwiwalentu CO2 fluorowanych gazów cieplarnianych, w formie Karty Systemu Ochrony Przeciwpożarowej.
 
 2. Dokumentację, o której mowa w art. 6 ust. 1 rozporządzenia (UE) nr 517/2014 oraz art. 23 ust. 3 rozporządzenia (WE) nr 1005/2009, operator sporządza i prowadzi oddzielnie dla każdego urządzenia, w tym także dla wyłączonego z eksploatacji lub użycia nieprzekazanego do unieszkodliwienia, zawierającego ilości substancji kontrolowanych lub ilości fluorowanych gazów cieplarnianych, z uwzględnieniem art. 2 ust. 1 pkt 3.
 
 3. Karta Urządzenia oraz Karta Systemu Ochrony Przeciwpożarowej zawierają w szczególności:
 
 - **1)** dane urządzenia;
-- **2)** nazwę operatora, jego adres i siedzibę oraz numer identyfikacji podatkowej, o ile został nadany, a w przypadku operatora będącego osobą fizyczną prowadzącą działalność gospodarczą − adres wykonywania działalności, a także imię i nazwisko, numer telefonu i adres poczty elektronicznej wszystkich osób kontaktowych wyznaczonych przez operatora, którym został przez niego nadany dostęp do karty, imię i nazwisko osoby, która założyła kartę, i każdej osoby, która dokonała wpisu do karty, datę sporządzenia karty oraz datę dokonania każdego kolejnego wpisu do karty;
+- **2)** nazwę operatora, jego adres i siedzibę oraz numer identyfikacji podatkowej, o ile został nadany, a w przypadku operatora będącego osobą fizyczną prowadzącą działalność gospodarczą – adres wykonywania działalności, a także imię i nazwisko, numer telefonu i adres poczty elektronicznej wszystkich osób kontaktowych wyznaczonych przez operatora, którym został przez niego nadany dostęp do karty, imię i nazwisko osoby, która założyła kartę, i każdej osoby, która dokonała wpisu do karty, datę sporządzenia karty oraz datę dokonania każdego kolejnego wpisu do karty;
 - **3)** dane dotyczące ilości i rodzaju substancji kontrolowanej albo fluorowanego gazu cieplarnianego, a w przypadku mieszanin – dane dotyczące składu mieszaniny, zawartych w urządzeniu w momencie sporządzenia karty, jak również wszelkich ilości substancji kontrolowanej albo fluorowanego gazu cieplarnianego dodanych i odzyskanych podczas wykonywania czynności określonych w pkt 4, informacje, czy dodany gaz lub substancja zostały poddane recyklingowi lub regeneracji, a także nazwę i adres zakładu, w którym poddano je recyklingowi lub dokonano regeneracji, oraz – w wymaganych przypadkach – numer certyfikatu dla personelu osoby wykonującej te czynności oraz numer certyfikatu przedsiębiorcy zatrudniającego taką osobę;
-- **4)** zestawienie wykonanych czynności dotyczących instalowania, konserwacji lub serwisowania i kontroli szczelności, naprawy oraz naprawy nieszczelności i likwidacji urządzenia, w tym:
-    - **a)** wyniki kontroli szczelności, zawierające w szczególności informację o stwierdzonych przyczynach nieszczelności, jeżeli została wykryta, naprawy nieszczelności i ponownej kontroli szczelności zgodnie z art. 3 ust. 3 rozporządzenia (UE) nr 517/2014,
-    - **b)** informacje na temat przekazania do unieszkodliwienia lub unieszkodliwiania substancji kontrolowanej albo fluorowanego gazu cieplarnianego albo likwidacji urządzenia,
-    - **c)** informacje na temat instalowania systemów wykrywania wycieków w urządzeniu oraz ich kontrolowania zgodnie z art. 5 rozporządzenia (UE) nr 517/2014,
-    - **d)** informacje na temat odzysku z urządzenia substancji kontrolowanych albo fluorowanych gazów cieplarnianych,
-    - **e)** nazwę i siedzibę podmiotu, imię i nazwisko osoby wykonującej te czynności, a w przypadku gdy wymagany jest certyfikat dla personelu – numer certyfikatu dla personelu osoby wykonującej te czynności oraz datę rozpoczęcia i zakończenia ich wykonywania;
+- **4)** zestawienie wykonanych czynności dotyczących instalowania, konserwacji lub serwisowania i kontroli szczelności, naprawy oraz naprawy nieszczelności i likwidacji urządzenia, w tym: wyniki kontroli szczelności, zawierające w szczególności informację o stwierdzonych przyczynach nieszczelności, jeżeli została wykryta, naprawy nieszczelności i ponownej kontroli szczelności zgodnie z art. 3 ust. 3 rozporządzenia (UE) nr 517/2014, informacje na temat przekazania do unieszkodliwienia lub unieszkodliwiania substancji kontrolowanej albo fluorowanego gazu cieplarnianego albo likwidacji urządzenia, informacje na temat instalowania systemów wykrywania wycieków w urządzeniu oraz ich kontrolowania zgodnie z art. 5 rozporządzenia (UE) nr 517/2014, informacje na temat odzysku z urządzenia substancji kontrolowanych albo fluorowanych gazów cieplarnianych, nazwę i siedzibę podmiotu, imię i nazwisko osoby wykonującej te czynności, a w przypadku gdy wymagany jest certyfikat dla personelu – numer certyfikatu dla personelu osoby wykonującej te czynności oraz datę rozpoczęcia i zakończenia ich wykonywania;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 - **5)** jeżeli urządzenie zostało zlikwidowane – środki podjęte w celu odzyskania i unieszkodliwienia substancji kontrolowanych albo fluorowanych gazów cieplarnianych, które były zawarte w zlikwidowanym urządzeniu;
 - **6)** informację, czy został zainstalowany system wykrywania wycieków zgodny z wymogami rozporządzenia (UE) nr 517/2014.
@@ -357,6 +382,21 @@ Art. 54–59. (pominięte)
 
 **Art. 16.** Tworzy się wyspecjalizowaną jednostkę, do której zadań należy:
 
+- **1)** prowadzenie Centralnego Rejestru Operatorów, o którym mowa w art. 19, w tym dokonywanie w nim zmian;
+- **2)** sporządzanie analiz i opracowań danych: przekazywanych do rejestru, o którym mowa w pkt 1, zawartych w zbiorczych zestawieniach, o których mowa w art. 14 ust. 10;
+    - **a)**
+    - **b)**
+
+- **3)** prowadzenie bazy danych, o której mowa w art. 41 ust. 1, oraz sporządzanie analiz i opracowań danych przekazywanych do tej bazy oraz danych zawartych w zbiorczych zestawieniach, o których mowa w art. 40 ust. 6 i art. 41 ust. 5;
+- **4)** wykonywanie bieżących zaleceń Unii Europejskiej w zakresie substancji kontrolowanych i fluorowanych gazów cieplarnianych, obejmujące w szczególności: analizę i opiniowanie materiałów dotyczących substancji kontrolowanych i fluorowanych gazów cieplarnianych przekazywanych i publikowanych przez Komisję Europejską lub inne organy Unii Europejskiej, pełnienie funkcji punktu kontaktowego dla podmiotów krajowych i Komisji Europejskiej w zakresie rozporządzenia (UE) nr 517/2014 oraz rozporządzenia (WE) nr 1005/2009, sporządzanie analizy danych zawartych w sprawozdaniach przekazywanych przez podmioty zgodnie z art. 19 ust. 1–4 rozporządzenia (UE) nr 517/2014 oraz art. 27 rozporządzenia (WE) nr 1005/2009, opracowywanie raportów i dokumentacji wynikających z rozporządzenia (UE) nr 517/2014, rozporządzenia (WE) nr 1005/2009 i rozporządzeń wykonawczych Komisji Europejskiej, w tym rozporządzenia Komisji (UE) nr 291/2011 z dnia 24 marca 2011 r. w sprawie nieodzownych zastosowań substancji kontrolowanych innych niż wodorochlorofluorowęglowodory do celów laboratoryjnych i analitycznych w Unii zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 1005/2009 w sprawie substancji zubożających warstwę ozonową (Dz. Urz. UE L 79 z 25.03.2011, str. 4), zwanego dalej „rozporządzeniem (UE) nr 291/2011”, rozporządzenia Komisji (UE) nr 537/2011 z dnia 1 czerwca 2011 r. w sprawie mechanizmu przyznawania ilości substancji kontrolowanych dopuszczonych do celów zastosowań laboratoryjnych i analitycznych w Unii zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 1005/2009 w sprawie substancji zubożających warstwę ozonową (Dz. Urz. UE L 147 z 02.06.2011, str. 4), wymaganych do przekazania do Komisji Europejskiej lub innych organów Unii Europejskiej, opracowywanie informacji, o których mowa w art. 26 ust. 1 rozporządzenia (WE) nr 1005/2009, wymaganych do przekazania do Komisji Europejskiej;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **5)** opiniowanie wniosków o odstępstwa, o których mowa w art. 6;
+- **6)** weryfikacja danych zawartych w Kartach Urządzenia oraz Kartach Systemu Ochrony Przeciwpożarowej, o których mowa w art. 14, oraz w sprawozdaniach, o których mowa w art. 39 ust. 1.
+
 **Art. 17.** Wykonywanie zadań wyspecjalizowanej jednostki powierza się Sieci Badawczej Łukasiewicz – Instytutowi Chemii Przemysłowej im. prof. Ignacego Mościckiego.
 
 **Art. 18.**
@@ -385,7 +425,7 @@ Art. 54–59. (pominięte)
 
 **Art. 19.**
 
-1. Karty Urządzenia, Karty Systemu Ochrony Przeciwpożarowej oraz dane zawarte w tych kartach gromadzi się, w postaci dokumentów elektronicznych, w Centralnym Rejestrze Operatorów dla urządzeń, zawierających co najmniej 3 kg substancji kontrolowanych lub co najmniej 5 ton ekwiwalentu CO fluorowanych gazów cieplarnianych, zwanym dalej „Centralnym Rejestrem Operatorów”.
+1. Karty Urządzenia, Karty Systemu Ochrony Przeciwpożarowej oraz dane zawarte w tych kartach gromadzi się, w postaci dokumentów elektronicznych, w Centralnym Rejestrze Operatorów dla urządzeń, zawierających co najmniej 3 kg substancji kontrolowanych lub co najmniej 5 ton ekwiwalentu CO2 fluorowanych gazów cieplarnianych, zwanym dalej „Centralnym Rejestrem Operatorów”.
 
 2. (uchylony)
 
@@ -393,7 +433,7 @@ Art. 54–59. (pominięte)
 
 4. Operator urządzenia oraz upoważniona przez niego osoba mają dostęp do zawartych w Centralnym Rejestrze Operatorów danych dotyczących wyłącznie tego urządzenia.
 
-5. Dane jednostkowe w rozumieniu art. 2 pkt 9 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2020 r. poz. 443 i 1486) zawarte w Centralnym Rejestrze Operatorów podlegają ochronie na zasadach określonych w ustawie z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742).
+5. Dane jednostkowe w rozumieniu art. 2 pkt 9 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2020 r. poz. 443 i 1486) zawarte wCentralnym Rejestrze Operatorów podlegają ochronie na zasadach określonych w ustawie z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742).
 
 6. Administratorem danych zawartych w Centralnym Rejestrze Operatorów jest wyspecjalizowana jednostka.
 
@@ -411,7 +451,7 @@ Art. 54–59. (pominięte)
 
 2. Personel, o którym mowa w art. 2 ust. 1 rozporządzenia Komisji (WE) nr 304/2008 z dnia 2 kwietnia 2008 r. ustanawiającego, na mocy rozporządzenia (WE) nr 842/2006 Parlamentu Europejskiego i Rady, minimalne wymagania i warunki dotyczące wzajemnego uznawania certyfikacji przedsiębiorstw i personelu w odniesieniu do stacjonarnych systemów ochrony przeciwpożarowej i gaśnic zawierających niektóre fluorowane gazy cieplarniane (Dz. Urz. UE L 92 z 03.04.2008, str. 12), zwanego dalej „rozporządzeniem (WE) nr 304/2008”, obowiązany jest do posiadania odpowiedniego certyfikatu dla personelu, o którym mowa w art. 4 tego rozporządzenia.
 
-3. Personel, o którym mowa w art. 1 rozporządzenia wykonawczego Komisji (UE) 2015/2066 z dnia 17 listopada 2015 r. ustanawiającego, zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 517/2014, minimalne wymagania i warunki dotyczące wzajemnego uznawania certyfikacji osób fizycznych dokonujących instalacji, serwisowania, konserwacji, napraw lub likwidacji rozdzielnic elektrycznych zawierających fluorowane gazy cieplarniane bądź dokonujących odzysku fluorowanych gazów cieplarnianych ze stacjonarnych rozdzielnic elektrycznych (Dz. Urz. UE L 301 z 18.11.2015, str. 22), zwanego dalej „rozporządzeniem (UE) 2015/2066”, oraz w art. 1 rozporządzenia Komisji (WE) nr 306/2008 z dnia 2 kwietnia 2008 r. ustanawiającego na mocy rozporządzenia (WE) nr 842/2006 Parlamentu Europejskiego i Rady minimalne wymagania i warunki wzajemnego uznawania certyfikacji personelu dokonującego odzysku rozpuszczalników na bazie fluorowanych gazów cieplarnianych z urządzeń (Dz. Urz. UE L 92 z 03.04.2008, str. 21, z późn. zm. ), zwanego dalej „rozporządzeniem (WE) nr 306/2008”, jest obowiązany do posiadania odpowiedniego certyfikatu dla personelu, o którym mowa w art. 2 rozporządzenia (UE) nr 2015/2066 albo w art. 2 rozporządzenia (WE) nr 306/2008.
+3. Personel, o którym mowa w art. 1 rozporządzenia wykonawczego Komisji (UE) 2015/2066 z dnia 17 listopada 2015 r. ustanawiającego, zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 517/2014, minimalne wymagania i warunki dotyczące wzajemnego uznawania certyfikacji osób fizycznych dokonujących instalacji, serwisowania, konserwacji, napraw lub likwidacji rozdzielnic elektrycznych zawierających fluorowane gazy cieplarniane bądź dokonujących odzysku fluorowanych gazów cieplarnianych ze stacjonarnych rozdzielnic elektrycznych (Dz. Urz. UE L 301 z 18.11.2015, str. 22), zwanego dalej „rozporządzeniem (UE) 2015/2066”, oraz w art. 1 rozporządzenia Komisji (WE) nr 306/2008 z dnia 2 kwietnia 2008 r. ustanawiającego na mocy rozporządzenia (WE) nr 842/2006 Parlamentu Europejskiego i Rady minimalne wymagania i warunki wzajemnego uznawania certyfikacji personelu dokonującego odzysku rozpuszczalników na bazie fluorowanych gazów cieplarnianych z urządzeń (Dz. Urz. UE L 92 z 03.04.2008, str. 21, z późn. zm.), zwanego dalej „rozporządzeniem (WE) nr 306/2008”, jest obowiązany do posiadania odpowiedniego certyfikatu dla personelu, o którym mowa w art. 2 rozporządzenia (UE) nr 2015/2066 albo w art. 2 rozporządzenia (WE) nr 306/2008.
 
 4. Personel wykonujący czynności w zakresie instalacji, kontroli szczelności, konserwacji lub serwisowania, a także naprawy i likwidacji stacjonarnych urządzeń chłodniczych, klimatyzacyjnych lub pomp ciepła, jak również stacjonarnych systemów ochrony przeciwpożarowej, zawierających substancje kontrolowane oraz odzysku substancji kontrolowanych z tych urządzeń lub systemów ochrony przeciwpożarowej oraz gaśnic jest obowiązany do posiadania certyfikatów dla personelu, o których mowa odpowiednio w ust. 1 lub 2.
 
@@ -449,7 +489,7 @@ Art. 54–59. (pominięte)
 
 6. Odwołanie wnosi się w terminie 14 dni od dnia otrzymania zawiadomienia o odmowie wydania certyfikatu dla personelu i dokonania wpisu do rejestru wydanych certyfikatów dla personelu lub cofnięciu certyfikatu dla personelu i wykreśleniu z rejestru wydanych certyfikatów dla personelu, za pośrednictwem kierownika jednostki certyfikującej personel.
 
-7. Nadanie pisma z odwołaniem w polskiej placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. − Prawo pocztowe (Dz. U. z 2020 r. poz. 1041) lub w polskim urzędzie konsularnym jest równoznaczne z wniesieniem go do Komitetu Odwoławczego.
+7. Nadanie pisma z odwołaniem w polskiej placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2020 r. poz. 1041) lub w polskim urzędzie konsularnym jest równoznaczne z wniesieniem go do Komitetu Odwoławczego.
 
 8. Odwołanie rozpatruje trzyosobowy zespół, wyznaczony spośród członków Komitetu Odwoławczego przez Przewodniczącego Komitetu Odwoławczego, w terminie 30 dni od dnia doręczenia odwołania.
 
@@ -471,17 +511,17 @@ Art. 54–59. (pominięte)
 1. Jednostka certyfikująca personel wykonuje czynności wynikające z przepisów rozporządzenia (UE) 2015/2067, rozporządzenia (WE) nr 304/2008, rozporządzenia (UE) 2015/2066 i rozporządzenia (WE) nr 306/2008, w tym:
 
 - **1)** ustanawia i stosuje procedurę wydawania i cofania certyfikatów dla personelu;
-- **2)** tworzy, prowadzi i udostępnia na swojej stronie internetowej:
-    - **a)** rejestr jednostek oceniających personel,
-    - **b)** rejestr jednostek prowadzących szkolenia,
-    - **c)** rejestr jednostek wydających zaświadczenia o odbytym szkoleniu,
-    - **d)** rejestr wydanych certyfikatów dla personelu;
+- **2)** tworzy, prowadzi i udostępnia na swojej stronie internetowej: rejestr jednostek oceniających personel, rejestr jednostek prowadzących szkolenia, rejestr jednostek wydających zaświadczenia o odbytym szkoleniu, rejestr wydanych certyfikatów dla personelu;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **3)** ustanawia procedurę dotyczącą sprawdzania spełnienia wymagań przez jednostki oceniające personel i jednostki prowadzące szkolenia oraz jednostki wydające zaświadczenia o odbytym szkoleniu.
 
 2. Rejestry, o których mowa w ust. 1 pkt 2, są prowadzone w postaci elektronicznej przy użyciu systemów teleinformatycznych w rozumieniu art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne. Administratorem danych zawartych w rejestrach, o których mowa w ust. 1 pkt 2, jest jednostka certyfikująca personel.
 
-3. Rejestry, o których mowa w ust. 1 pkt 2 lit. a–c, zawierają:
+3. Rejestry, o których mowa w ust. 1 pkt 2 lit. a-c, zawierają:
 
 - **1)** nazwę jednostki;
 - **2)** adres i siedzibę jednostki;
@@ -546,7 +586,7 @@ Art. 54–59. (pominięte)
 
 4. Podmiot zamierzający pełnić funkcję jednostki oceniającej personel zgłasza taki zamiar w formie pisemnej w postaci papierowej albo elektronicznej do jednostki certyfikującej personel. Zgłoszenie w postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym.
 
-5. Zgłoszenie zawiera nazwę podmiotu, jego siedzibę i adres, a w przypadku podmiotu zamierzającego pełnić funkcję jednostki oceniającej personel będącego osobą fizyczną prowadzącą działalność gospodarczą − adres wykonywania działalności oraz numer identyfikacji podatkowej, o ile został nadany, i numer wpisu do Krajowego Rejestru Sądowego, jeżeli podmiot podlega wpisowi do tego rejestru.
+5. Zgłoszenie zawiera nazwę podmiotu, jego siedzibę i adres, a w przypadku podmiotu zamierzającego pełnić funkcję jednostki oceniającej personel będącego osobą fizyczną prowadzącą działalność gospodarczą – adres wykonywania działalności oraz numer identyfikacji podatkowej, o ile został nadany, i numer wpisu do Krajowego Rejestru Sądowego, jeżeli podmiot podlega wpisowi do tego rejestru.
 
 6. Do zgłoszenia dołącza się, w formie pisemnej w postaci papierowej albo elektronicznej, oświadczenie o dysponowaniu odpowiednim wyposażeniem technicznym niezbędnym do przeprowadzania egzaminów oraz zatrudnianiu osób posiadających odpowiednią wiedzę teoretyczną i doświadczenie praktyczne. Oświadczenie w postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym. Oświadczenie składane jest pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Oświadczenie zawiera klauzulę następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych zeznań.
 
@@ -600,7 +640,7 @@ Art. 54–59. (pominięte)
 
 2. Podmiot zamierzający pełnić funkcję jednostki prowadzącej szkolenia zgłasza taki zamiar w formie pisemnej w postaci papierowej albo elektronicznej do jednostki certyfikującej personel. Zgłoszenie w postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym.
 
-3. Zgłoszenie, o którym mowa w ust. 2, zawiera nazwę podmiotu, jego siedzibę i adres, a w przypadku podmiotu będącego osobą fizyczną prowadzącą działalność gospodarczą − adres wykonywania działalności, oraz numer identyfikacji podatkowej, o ile został nadany, i numer wpisu do Krajowego Rejestru Sądowego, jeżeli podmiot podlega wpisowi do tego rejestru, oraz planowany zakres prowadzenia szkoleń.
+3. Zgłoszenie, o którym mowa w ust. 2, zawiera nazwę podmiotu, jego siedzibę i adres, a w przypadku podmiotu będącego osobą fizyczną prowadzącą działalność gospodarczą – adres wykonywania działalności, oraz numer identyfikacji podatkowej, o ile został nadany, i numer wpisu do Krajowego Rejestru Sądowego, jeżeli podmiot podlega wpisowi do tego rejestru, oraz planowany zakres prowadzenia szkoleń.
 
 4. Do zgłoszenia dołącza się, w formie pisemnej w postaci papierowej albo elektronicznej, oświadczenie o spełnieniu wymagań określonych w ust. 1 pkt 1–3, składane pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Oświadczenie w postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym. Oświadczenie zawiera klauzulę następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych zeznań.
 
@@ -617,7 +657,7 @@ Art. 54–59. (pominięte)
 10. Jednostka certyfikująca personel jest obowiązana do przeprowadzania:
 
 - **1)** kontroli podmiotu zamierzającego pełnić funkcję jednostki prowadzącej szkolenia przed dokonaniem wpisu podmiotu do rejestru jednostek prowadzących szkolenia,
-- **2)** nie rzadziej niż co trzy lata kontroli jednostki prowadzącej szkolenia – w celu sprawdzenia spełnienia wymagań, o których mowa w ust. 1 pkt 1–3; przepisy art. 26 ust. 2–9 stosuje się odpowiednio.
+- **2)** nie rzadziej niż co trzy lata kontroli jednostki prowadzącej szkolenia w celu sprawdzenia spełnienia wymagań, o których mowa w ust. 1 pkt 1–3; przepisy art. 26 ust. 2–9 stosuje się odpowiednio.
 
 11. W razie stwierdzenia naruszenia przez jednostkę prowadzącą szkolenia wymagań, o których mowa w ust. 1 pkt 1–3, kierownik jednostki certyfikującej personel wykreśla tę jednostkę prowadzącą szkolenia z rejestru jednostek prowadzących szkolenia, zawiadamiając tę jednostkę o wykreśleniu.
 
@@ -628,20 +668,20 @@ Art. 54–59. (pominięte)
 1. Minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia:
 
 - **1)** wzór zgłoszenia podmiotu zamierzającego pełnić funkcję jednostki oceniającej personel,
-- **2)** wzór zgłoszenia podmiotu zamierzającego pełnić funkcję jednostki prowadzącej szkolenia – kierując się koniecznością uwzględnienia zakresu informacji, jaki powinien być zawarty w zgłoszeniach.
+- **2)** wzór zgłoszenia podmiotu zamierzającego pełnić funkcję jednostki prowadzącej szkolenia kierując się koniecznością uwzględnienia zakresu informacji, jaki powinien być zawarty w zgłoszeniach.
 
 2. Minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia:
 
 - **1)** minimalne wymagania dotyczące wyposażenia technicznego niezbędnego do prowadzenia szkoleń i przeprowadzania egzaminów, kierując się potrzebą zapewnienia bezpieczeństwa osób wykonujących czynności objęte szkoleniem i egzaminem oraz zapewnienia ochrony środowiska;
 - **2)** minimalne wymagania dotyczące wiedzy teoretycznej i doświadczenia praktycznego osób przeprowadzających egzaminy oraz osób prowadzących szkolenia, kierując się potrzebą zapewnienia możliwości właściwego sprawdzenia umiejętności teoretycznych i praktycznych osób przystępujących do egzaminu lub uczestniczących w szkoleniu;
-- **3)** wymagania dotyczące przeprowadzania egzaminów, w tym:
-    - **a)** wymagania dotyczące składu komisji egzaminacyjnej oraz sposobu jej działania, kierując się potrzebą zapewnienia udziału w komisji egzaminacyjnej co najmniej trzech osób z odpowiednią wiedzą teoretyczną i doświadczeniem praktycznym w zakresie objętym egzaminem oraz potrzebą zapewnienia obiektywnego działania komisji,
-    - **b)** sposób organizowania i wytyczne do procedury przeprowadzania egzaminów, w tym egzaminu poprawkowego, kierując się potrzebą sprawnego i obiektywnego przeprowadzenia egzaminu oraz egzaminu poprawkowego oraz zapewnienia, aby egzaminy obejmowały część teoretyczną i część praktyczną, a także potrzebą zapewnienia przez jednostkę oceniającą personel wyposażenia technicznego umożliwiającego przeprowadzenie egzaminu w części praktycznej;
+- **3)** wymagania dotyczące przeprowadzania egzaminów, w tym: wymagania dotyczące składu komisji egzaminacyjnej oraz sposobu jej działania, kierując się potrzebą zapewnienia udziału w komisji egzaminacyjnej co najmniej trzech osób z odpowiednią wiedzą teoretyczną i doświadczeniem praktycznym w zakresie objętym egzaminem oraz potrzebą zapewnienia obiektywnego działania komisji, sposób organizowania i wytyczne do procedury przeprowadzania egzaminów, w tym egzaminu poprawkowego, kierując się potrzebą sprawnego i obiektywnego przeprowadzenia egzaminu oraz egzaminu poprawkowego oraz zapewnienia, aby egzaminy obejmowały część teoretyczną i część praktyczną, a także potrzebą zapewnienia przez jednostkę oceniającą personel wyposażenia technicznego umożliwiającego przeprowadzenie egzaminu w części praktycznej;
+    - **a)**
+    - **b)**
 
 - **4)** zakresy tematyczne egzaminów, uwzględniając minimalne wymagania zawarte w rozporządzeniu (UE) 2015/2067, rozporządzeniu (WE) nr 304/2008, rozporządzeniu (UE) 2015/2066 i rozporządzeniu (WE) nr 306/2008, a także zapewniając, że obejmą one zagadnienia teoretyczne i praktyczne dotyczące substancji kontrolowanych oraz odzysku substancji kontrolowanych i fluorowanych gazów cieplarnianych z ruchomych urządzeń, a także biorąc pod uwagę konieczność zapewnienia posiadania przez personel odpowiedniego poziomu wiedzy i umiejętności w odniesieniu do wykonywanych czynności objętych certyfikatem dla personelu, w tym wiedzy i umiejętności dotyczących technologii alternatywnych w stosunku do technologii wykorzystujących substancje kontrolowane lub fluorowane gazy cieplarniane;
-- **5)** wzór:
-    - **a)** dokumentu potwierdzającego, w celu wydania certyfikatu dla personelu, złożenie egzaminu z wynikiem pozytywnym oraz określającego zakres złożonego egzaminu,
-    - **b)** wniosku o wydanie certyfikatu dla personelu – kierując się potrzebą ujednolicenia tych dokumentów i wniosków;
+- **5)** wzór: dokumentu potwierdzającego, w celu wydania certyfikatu dla personelu, złożenie egzaminu z wynikiem pozytywnym oraz określającego zakres złożonego egzaminu, wniosku o wydanie certyfikatu dla personelu kierując się potrzebą ujednolicenia tych dokumentów i wniosków;
+    - **a)**
+    - **b)**
 
 - **6)** wzory certyfikatów dla personelu wraz z wyszczególnieniem zakresu tych certyfikatów oraz ich opisy, uwzględniając minimalne wymagania dotyczące wydawania certyfikatów dla personelu zawarte w rozporządzeniu (UE) 2015/2067, rozporządzeniu (WE) nr 304/2008, rozporządzeniu (UE) 2015/2066 i rozporządzeniu (WE) nr 306/2008, a także potrzebę wydawania certyfikatu dla personelu w formie odpornej na zniszczenie karty o niewielkich wymiarach, konieczność zabezpieczenia certyfikatów przed podrobieniem lub przerobieniem oraz potrzebę identyfikacji jednostki certyfikującej personel, rodzaju certyfikatu oraz jego posiadacza.
 
@@ -653,10 +693,10 @@ Art. 54–59. (pominięte)
 
 2. Certyfikat dla przedsiębiorców może uzyskać przedsiębiorca, który:
 
-- **1)** spełnia wymagania odpowiednie do rodzaju prowadzonej działalności, określone w rozporządzeniu (UE) 2015/2067 albo rozporządzeniu (WE) nr 304/2008, w szczególności:
-    - **a)** posiada i stosuje w głównym miejscu wykonywania działalności oraz we wszystkich oddziałach procedury prowadzenia działalności,
-    - **b)** posiada w głównym miejscu wykonywania działalności oraz we wszystkich oddziałach wdrożony system dokumentowania czynności wykonywanych przez personel posiadający odpowiedni certyfikat dla personelu,
-    - **c)** dysponuje w głównym miejscu wykonywania działalności oraz we wszystkich oddziałach wyposażeniem technicznym spełniającym minimalne wymagania odpowiednie do zakresu prowadzonej działalności;
+- **1)** spełnia wymagania odpowiednie do rodzaju prowadzonej działalności, określone w rozporządzeniu (UE) 2015/2067 albo rozporządzeniu (WE) nr 304/2008, w szczególności: posiada i stosuje w głównym miejscu wykonywania działalności oraz we wszystkich oddziałach procedury prowadzenia działalności, posiada w głównym miejscu wykonywania działalności oraz we wszystkich oddziałach wdrożony system dokumentowania czynności wykonywanych przez personel posiadający odpowiedni certyfikat dla personelu, dysponuje w głównym miejscu wykonywania działalności oraz we wszystkich oddziałach wyposażeniem technicznym spełniającym minimalne wymagania odpowiednie do zakresu prowadzonej działalności;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **2)** będąc osobą fizyczną nie został skazany prawomocnym wyrokiem za przestępstwo przeciwko środowisku w związku z prowadzoną działalnością albo za takie przestępstwo nie zostały skazane osoby wchodzące w skład organów przedsiębiorcy będącego osobą prawną albo jednostką organizacyjną niebędącą osobą prawną;
 - **3)** złoży do jednostki certyfikującej przedsiębiorców wniosek o wydanie certyfikatu dla przedsiębiorców.
@@ -670,7 +710,7 @@ Art. 54–59. (pominięte)
 6. Wniosek o wydanie certyfikatu dla przedsiębiorców zawiera:
 
 - **1)** nazwę wnioskodawcy;
-- **2)** adres i siedzibę, a w przypadku gdy przedsiębiorcą jest osoba fizyczna prowadząca działalność gospodarczą − adres wykonywania działalności;
+- **2)** adres i siedzibę, a w przypadku gdy przedsiębiorcą jest osoba fizyczna prowadząca działalność gospodarczą – adres wykonywania działalności;
 - **3)** numer identyfikacji podatkowej, o ile został nadany, i numer wpisu do Krajowego Rejestru Sądowego, jeżeli podlega wpisowi do tego rejestru;
 - **4)** prośbę o wydanie certyfikatu dla przedsiębiorców w określonym zakresie;
 - **5)** oświadczenie woli o wykonywaniu działalności zgodnie z zakresem certyfikatu dla przedsiębiorców.
@@ -821,7 +861,7 @@ Art. 54–59. (pominięte)
 8. Zgłoszenie zawiera:
 
 - **1)** nazwę podmiotu;
-- **2)** adres i siedzibę, a w przypadku gdy podmiotem zamierzającym pełnić funkcję jednostki, o której mowa w ust. 2, jest osoba fizyczna prowadząca działalność gospodarczą − adres wykonywania działalności;
+- **2)** adres i siedzibę, a w przypadku gdy podmiotem zamierzającym pełnić funkcję jednostki, o której mowa w ust. 2, jest osoba fizyczna prowadząca działalność gospodarczą – adres wykonywania działalności;
 - **3)** numer identyfikacji podatkowej, o ile został nadany, i numer wpisu do Krajowego Rejestru Sądowego, jeżeli podmiot podlega wpisowi do tego rejestru.
 
 9. Do zgłoszenia dołącza się, w formie pisemnej w postaci papierowej albo elektronicznej, oświadczenie o spełnieniu wymagań określonych w ust. 2 pkt 1–3, składane pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Oświadczenie w postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym. Oświadczenie zawiera klauzulę następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych zeznań.
@@ -890,22 +930,22 @@ Art. 54–59. (pominięte)
 3. Sprawozdania, o których mowa w art. 39 ust. 1, zawierają:
 
 - **1)** rodzaj substancji kontrolowanych, nowych substancji oraz fluorowanych gazów cieplarnianych i pozostałych fluorowanych gazów cieplarnianych, ich nazwy chemiczne i oznaczenie ASHRAE – Amerykańskiego Stowarzyszenia Inżynierów Ogrzewnictwa, Chłodnictwa i Klimatyzacji;
-- **2)** ilość każdej substancji kontrolowanej, nowej substancji oraz każdego z fluorowanych gazów cieplarnianych i pozostałych fluorowanych gazów cieplarnianych:
-    - **a)** przywiezionych z terytorium innego państwa członkowskiego Unii Europejskiej,
-    - **b)** przywiezionych spoza Unii Europejskiej,
-    - **c)** zawartych w przywiezionych i wytworzonych na terytorium Rzeczypospolitej Polskiej produktach i urządzeniach,
-    - **d)** zakupionych lub nabytych nieodpłatnie na terytorium Rzeczypospolitej Polskiej,
-    - **e)** odzyskanych we własnym zakresie,
-    - **f)** wstępnie oczyszczonych we własnym zakresie w ramach recyklingu,
-    - **g)** zregenerowanych we własnym zakresie,
-    - **h)** wywiezionych na terytorium innego państwa członkowskiego Unii Europejskiej,
-    - **i)** wywiezionych poza Unię Europejską,
-    - **j)** zawartych w wywiezionych z terytorium Rzeczypospolitej Polskiej produktach i urządzeniach,
-    - **k)** sprzedanych lub przekazanych nieodpłatnie na terytorium Rzeczypospolitej Polskiej, z wyodrębnieniem sprzedanych lub przekazanych nieodpłatnie do recyklingu, regeneracji lub zniszczenia oraz do innych celów,
-    - **l)** zastosowanych w poszczególnych sektorach z podaniem rodzaju zastosowania,
-    - **m)** poddanych zniszczeniu we własnym zakresie,
-    - **n)** zmagazynowanych na dzień 1 stycznia i 31 grudnia roku, którego dotyczy sprawozdanie,
-    - **o)** utraconych w trakcie roku, którego dotyczy sprawozdanie – z wyodrębnieniem ilości substancji kontrolowanych, nowych substancji, fluorowanych gazów cieplarnianych lub pozostałych fluorowanych gazów cieplarnianych utraconych wskutek wycieku lub z innych przyczyn.
+- **2)** ilość każdej substancji kontrolowanej, nowej substancji oraz każdego z fluorowanych gazów cieplarnianych i pozostałych fluorowanych gazów cieplarnianych: przywiezionych z terytorium innego państwa członkowskiego Unii Europejskiej, przywiezionych spoza Unii Europejskiej, zawartych w przywiezionych i wytworzonych na terytorium Rzeczypospolitej Polskiej produktach i urządzeniach, zakupionych lub nabytych nieodpłatnie na terytorium Rzeczypospolitej Polskiej, odzyskanych we własnym zakresie, wstępnie oczyszczonych we własnym zakresie w ramach recyklingu, zregenerowanych we własnym zakresie, wywiezionych na terytorium innego państwa członkowskiego Unii Europejskiej, wywiezionych poza Unię Europejską, zawartych w wywiezionych z terytorium Rzeczypospolitej Polskiej produktach i urządzeniach, sprzedanych lub przekazanych nieodpłatnie na terytorium Rzeczypospolitej Polskiej, z wyodrębnieniem sprzedanych lub przekazanych nieodpłatnie do recyklingu, regeneracji lub zniszczenia oraz do innych celów, zastosowanych w poszczególnych sektorach z podaniem rodzaju zastosowania, poddanych zniszczeniu we własnym zakresie, zmagazynowanych na dzień 1 stycznia i 31 grudnia roku, którego dotyczy sprawozdanie, utraconych w trakcie roku, którego dotyczy sprawozdanie – z wyodrębnieniem ilości substancji kontrolowanych, nowych substancji, fluorowanych gazów cieplarnianych lub pozostałych fluorowanych gazów cieplarnianych utraconych wskutek wycieku lub z innych przyczyn.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
+    - **k)**
+    - **l)**
+    - **m)**
+    - **n)**
+    - **o)**
 
 4. Ilości każdej substancji lub gazu, o których mowa w ust. 3 pkt 2, poza przywozem, wywozem lub stosowaniem tych substancji lub gazów do celów laboratoryjnych lub analitycznych oraz produkcją, przywozem i wywozem produktów i urządzeń, podaje się z dokładnością do 0,1 kg, przyjmując, że wartości do 49 g zaokrągla się w dół, a wartości od 50 g zaokrągla się w górę. W przypadku przywozu, wywozu lub stosowania substancji lub gazów, o których mowa w ust. 3 pkt 2, do celów laboratoryjnych lub analitycznych ilości tych substancji lub gazów podaje się z dokładnością do 0,001 kg, przyjmując, że wartości do 0,49 g zaokrągla się w dół, a wartości od 0,50 g zaokrągla się w górę. W przypadku produkcji, przywozu i wywozu produktów i urządzeń ilość każdej substancji lub gazu zawartej w 1 kg masy produktu lub w 1 sztuce urządzenia podaje się z dokładnością do 0,001 kg, przyjmując, że wartości do 0,49 g zaokrągla się w dół, a wartości od 0,50 g zaokrągla się w górę.
 
@@ -923,7 +963,9 @@ Art. 54–59. (pominięte)
 
 2. Wszelkie dane zawarte w bazie danych, o której mowa w ust. 1, są zabezpieczone, a dostęp do nich mają wyłącznie osoby upoważnione przez kierownika wyspecjalizowanej jednostki.
 
-3. (uchylony) 3a. Dane, o których mowa w ust. 1, są gromadzone odrębnie dla każdego podmiotu przekazującego sprawozdanie, o którym mowa w art. 39 ust. 1.
+3. (uchylony)
+
+3a. Dane, o których mowa w ust. 1, są gromadzone odrębnie dla każdego podmiotu przekazującego sprawozdanie, o którym mowa w art. 39 ust. 1.
 
 3b. Zapisywanie danych, o których mowa w ust. 1, w systemie następuje po zatwierdzeniu ich kompletności i poprawności przez osobę przekazującą dane.
 
@@ -941,11 +983,11 @@ Art. 54–59. (pominięte)
 - **3)** zapewnienia dostępności danych, w szczególności przez tworzenie kopii zapasowych danych;
 - **4)** zapewnienia poufności danych, w szczególności przez przechowywanie danych w formie zaszyfrowanej;
 - **5)** rozliczalności działań związanych z dostępem do danych;
-- **6)** reagowania na incydenty związane z bezpieczeństwem danych, w szczególności mechanizmów:
-    - **a)** monitorowania aktualności wdrożonych zabezpieczeń,
-    - **b)** wykrywania incydentów,
-    - **c)** podejmowania działań związanych z wyjaśnianiem zaistniałych incydentów,
-    - **d)** przywracania systemu teleinformatycznego, w którym są przetwarzane dane, do stanu niezakłóconego funkcjonowania po zaistniałym incydencie.
+- **6)** reagowania na incydenty związane z bezpieczeństwem danych, w szczególności mechanizmów: monitorowania aktualności wdrożonych zabezpieczeń, wykrywania incydentów, podejmowania działań związanych z wyjaśnianiem zaistniałych incydentów, przywracania systemu teleinformatycznego, w którym są przetwarzane dane, do stanu niezakłóconego funkcjonowania po zaistniałym incydencie.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 3f. Minister właściwy do spraw klimatu w porozumieniu z Ministrem Obrony Narodowej określi wzór sprawozdania, o którym mowa w art. 39 ust. 1, oraz wzór sprawozdania, o którym mowa w art. 40 ust. 5, w formie dokumentu elektronicznego.
 
@@ -976,22 +1018,22 @@ Art. 54–59. (pominięte)
 - **1)** przestrzegania przepisów ustawy, rozporządzenia (WE) nr 1005/2009, z zastrzeżeniem ust. 5, rozporządzenia (UE) nr 517/2014, z wyłączeniem przepisów dotyczących systemów ochrony przeciwpożarowej, gaśnic, certyfikacji i zaświadczeń, rozporządzenia (UE) nr 291/2011, rozporządzenia wykonawczego Komisji (UE) 2015/2068 z dnia 17 listopada 2015 r. ustanawiającego, zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 517/2014, formę etykiet dla produktów i urządzeń zawierających fluorowane gazy cieplarniane (Dz. Urz. UE L 301 z 18.11.2015, str. 39), zwanego dalej „rozporządzeniem (UE) 2015/2068”, rozporządzenia wykonawczego Komisji (UE) nr 1191/2014 z dnia 30 października 2014 r. określającego format i sposób składania sprawozdania, o którym mowa w art. 19 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 517/2014 w sprawie fluorowanych gazów cieplarnianych (Dz. Urz. UE L 318 z 05.11.2014, str. 5), zwanego dalej „rozporządzeniem (UE) nr 1191/2014”, oraz rozporządzenia (WE) nr 1516/2007,
 - **2)** w zakresie posiadania wymaganych certyfikatów wynikających z rozporządzenia (UE) 2015/2067, rozporządzenia (UE) 2015/2066 oraz rozporządzenia (WE) nr 306/2008,
 - **3)** przestrzegania przepisów rozporządzenia wykonawczego Komisji (UE) 2016/879 z dnia 2 czerwca 2016 r. ustanawiającego, zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 517/2014, szczegółowe uzgodnienia dotyczące deklaracji zgodności przy wprowadzaniu do obrotu urządzeń chłodniczych, klimatyzacyjnych i pomp ciepła napełnionych wodorofluorowęglowodorami i weryfikacji tych deklaracji przez niezależnego audytora (Dz. Urz. UE L 146 z 03.06.2016, str. 1), zwanego dalej „rozporządzeniem (UE) 2016/879”,
-- **4)** w zakresie posiadania wymaganych zaświadczeń wynikających z rozporządzenia (WE) nr 307/2008 – sprawują organy Inspekcji Ochrony Środowiska.
+- **4)** w zakresie posiadania wymaganych zaświadczeń wynikających z rozporządzenia (WE) nr 307/2008 sprawują organy Inspekcji Ochrony Środowiska.
 
 2. Organy Inspekcji Ochrony Środowiska kontrolują postępowanie z substancjami kontrolowanymi, nowymi substancjami, fluorowanymi gazami cieplarnianymi i pozostałymi fluorowanymi gazami cieplarnianymi oraz postępowanie z produktami i urządzeniami, zawierającymi substancje kontrolowane, nowe substancje, fluorowane gazy cieplarniane lub pozostałe fluorowane gazy cieplarniane, z zastrzeżeniem ust. 4.
 
 3. Kontrolę:
 
 - **1)** przestrzegania przepisów ustawy, rozporządzenia (WE) nr 1005/2009, rozporządzenia (UE) nr 517/2014, z wyłączeniem przepisów dotyczących certyfikacji i zaświadczeń oraz z zastrzeżeniem ust. 5 pkt 1 i 2, rozporządzenia (WE) nr 1497/2007, rozporządzenia (UE) nr 1191/2014 oraz rozporządzenia (UE) 2015/2068,
-- **2)** w zakresie posiadania wymaganych certyfikatów wynikających z rozporządzenia (WE) nr 304/2008, dotyczących systemów ochrony przeciwpożarowej oraz gaśnic – sprawują organy Państwowej Straży Pożarnej.
+- **2)** w zakresie posiadania wymaganych certyfikatów wynikających z rozporządzenia (WE) nr 304/2008, dotyczących systemów ochrony przeciwpożarowej oraz gaśnic sprawują organy Państwowej Straży Pożarnej.
 
 4. Organy Państwowej Straży Pożarnej kontrolują postępowanie z substancjami kontrolowanymi, nowymi substancjami, fluorowanymi gazami cieplarnianymi i pozostałymi fluorowanymi gazami cieplarnianymi wykorzystywanymi w ochronie przeciwpożarowej, a także systemami ochrony przeciwpożarowej oraz gaśnicami zawierającymi substancje kontrolowane, nowe substancje, fluorowane gazy cieplarniane lub pozostałe fluorowane gazy cieplarniane.
 
 5. Kontrolę w zakresie zastosowań krytycznych halonów w odniesieniu do poszczególnych kategorii sprzętu lub obiektu wymienionych w załączniku VI do rozporządzenia (WE) nr 1005/2009 wykonują:
 
-- **1)** dla kategorii 1–3 i 7 oraz dla kategorii 4 i 8 w odniesieniu do statków powietrznych i obiektów o przeznaczeniu wojskowym − Minister Obrony Narodowej lub organy przez niego wskazane;
-- **2)** dla kategorii 4 w odniesieniu do cywilnych statków powietrznych i kategorii 6 − organy Inspekcji Ochrony Środowiska;
-- **3)** dla kategorii 5, 8 w odniesieniu do obiektów o przeznaczeniu innym niż wojskowe i kategorii 9 − organy Państwowej Straży Pożarnej.
+- **1)** dla kategorii 1–3 i 7 oraz dla kategorii 4 i 8 w odniesieniu do statków powietrznych i obiektów o przeznaczeniu wojskowym – Minister Obrony Narodowej lub organy przez niego wskazane;
+- **2)** dla kategorii 4 w odniesieniu do cywilnych statków powietrznych i kategorii 6 – organy Inspekcji Ochrony Środowiska;
+- **3)** dla kategorii 5, 8 w odniesieniu do obiektów o przeznaczeniu innym niż wojskowe i kategorii 9 – organy Państwowej Straży Pożarnej.
 
 6. Organy, o których mowa w ust. 1, 3 i 5, w związku ze sprawowaną kontrolą mogą żądać udzielenia informacji i okazania dokumentów związanych z postępowaniem przez dany podmiot z substancjami kontrolowanymi, nowymi substancjami, fluorowanymi gazami cieplarnianymi oraz pozostałymi fluorowanymi gazami cieplarnianymi, a także odpowiednio produktami i urządzeniami zawierającymi te substancje lub gazy, w szczególności udostępniania Kart Urządzeń lub Kart Systemów Ochrony Przeciwpożarowej.
 
@@ -1006,21 +1048,21 @@ Art. 54–59. (pominięte)
 11. Sprawozdanie, o którym mowa w ust. 10, obejmuje:
 
 - **1)** informację o liczbie podmiotów skontrolowanych w roku, którego dotyczy sprawozdanie;
-- **2)** wykaz nieprawidłowości stwierdzonych w czasie kontroli z podziałem na kategorie: 13 rozporządzenia (UE) nr 517/2014, niezastosowanie się do ograniczeń w zakresie wprowadzania do obrotu, a także sprzedaży i nabywania fluorowanych gazów cieplarnianych oraz produktów i urządzeń zawierających fluorowane gazy cieplarniane lub od nich uzależnionych, określonych w art. 11 i art. 14–16 rozporządzenia (UE) nr 517/2014,
-    - **a)** kategoria 1 – brak realizacji lub naruszenie obowiązków niezwiązanych z bezpośrednim oddziaływaniem na środowisko, takich jak: nieprowadzenie lub niewłaściwe prowadzenie dokumentacji, niesporządzenie lub niesporządzenie w terminie Karty Urządzenia lub Karty Systemu Ochrony Przeciwpożarowej, nieprzekazywanie lub nieprzekazywanie w terminie danych do Karty Urządzenia lub Karty Systemu Ochrony Przeciwpożarowej lub ich korekt do Centralnego Rejestru Operatorów lub nieprzekazywanie lub nieprzekazywanie w terminie sprawozdań lub ich korekt do bazy danych lub do Komisji Europejskiej, nieetykietowanie lub niewłaściwe etykietowanie pojemników, produktów i urządzeń, nierejestrowanie się w elektronicznym rejestrze kontyngentów na wprowadzanie wodorofluorowęglowodorów do obrotu zgodnie z przepisami art. 17 rozporządzenia (UE) nr 517/2014,
-    - **b)** kategoria 2 – naruszenie obowiązków związanych z bezpośrednim oddziaływaniem na środowisko, takich jak: wykonywanie czynności wymagających certyfikatu bez jego posiadania, niezapewnienie dokonywania odzysku lub przeprowadzania kontroli szczelności, przeprowadzanie kontroli szczelności niezgodnie z wymaganiami, użytkowanie systemów ochrony przeciwpożarowej lub gaśnic zawierających halony nieprzeznaczone do zastosowań krytycznych, gromadzenie halonów bez posiadania autoryzacji, stosowanie fluorowanych gazów cieplarnianych do celów zabronionych na mocy art.
-    - **c)** kategoria 3 – bezpośrednie zanieczyszczenie środowiska spowodowane zaniedbaniami w postępowaniu z substancjami kontrolowanymi lub fluorowanymi gazami cieplarnianymi, takimi jak niedokonanie odzysku substancji kontrolowanych lub fluorowanych gazów cieplarnianych z pojemników przed ich unieszkodliwieniem;
+- **2)** wykaz nieprawidłowości stwierdzonych w czasie kontroli z podziałem na kategorie: kategoria 1 – brak realizacji lub naruszenie obowiązków niezwiązanych z bezpośrednim oddziaływaniem na środowisko, takich jak: nieprowadzenie lub niewłaściwe prowadzenie dokumentacji, niesporządzenie lub niesporządzenie w terminie Karty Urządzenia lub Karty Systemu Ochrony Przeciwpożarowej, nieprzekazywanie lub nieprzekazywanie w terminie danych do Karty Urządzenia lub Karty Systemu Ochrony Przeciwpożarowej lub ich korekt do Centralnego Rejestru Operatorów lub nieprzekazywanie lub nieprzekazywanie w terminie sprawozdań lub ich korekt do bazy danych lub do Komisji Europejskiej, nieetykietowanie lub niewłaściwe etykietowanie pojemników, produktów i urządzeń, nierejestrowanie się w elektronicznym rejestrze kontyngentów na wprowadzanie wodorofluorowęglowodorów do obrotu zgodnie z przepisami art. 17 rozporządzenia (UE) nr 517/2014, kategoria 2 – naruszenie obowiązków związanych z bezpośrednim oddziaływaniem na środowisko, takich jak: wykonywanie czynności wymagających certyfikatu bez jego posiadania, niezapewnienie dokonywania odzysku lub przeprowadzania kontroli szczelności, przeprowadzanie kontroli szczelności niezgodnie z wymaganiami, użytkowanie systemów ochrony przeciwpożarowej lub gaśnic zawierających halony nieprzeznaczone do zastosowań krytycznych, gromadzenie halonów bez posiadania autoryzacji, stosowanie fluorowanych gazów cieplarnianych do celów zabronionych na mocy art. 13 rozporządzenia (UE) nr 517/2014, niezastosowanie się do ograniczeń w zakresie wprowadzania do obrotu, a także sprzedaży i nabywania fluorowanych gazów cieplarnianych oraz produktów i urządzeń zawierających fluorowane gazy cieplarniane lub od nich uzależnionych, określonych w art. 11 i art. 14–16 rozporządzenia (UE) nr 517/2014, kategoria 3 – bezpośrednie zanieczyszczenie środowiska spowodowane zaniedbaniami w postępowaniu z substancjami kontrolowanymi lub fluorowanymi gazami cieplarnianymi, takimi jak niedokonanie odzysku substancji kontrolowanych lub fluorowanych gazów cieplarnianych z pojemników przed ich unieszkodliwieniem;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **3)** informacje o działaniach pokontrolnych podjętych przez Inspekcję Ochrony Środowiska lub Państwową Straż Pożarną w roku, którego dotyczy sprawozdanie;
 - **4)** informacje o skuteczności działań pokontrolnych podjętych przez Inspekcję Ochrony Środowiska lub Państwową Straż Pożarną w roku poprzedzającym rok, którego dotyczy sprawozdanie;
-- **5)** charakterystykę podmiotów skontrolowanych w roku, którego dotyczy sprawozdanie, z podziałem na grupy podmiotów:
-    - **a)** grupa I – podmioty stosujące substancje zubożające warstwę ozonową lub fluorowane gazy cieplarniane,
-    - **b)** grupa II – operatorzy urządzeń zawierających substancje kontrolowane lub fluorowane gazy cieplarniane,
-    - **c)** grupa III – podmioty dokonujące obrotu substancjami zubożającymi warstwę ozonową lub fluorowanymi gazami cieplarnianymi, lub pozostałymi fluorowanymi substancjami lub produktami i urządzeniami zawierającymi substancje zubożające warstwę ozonową lub fluorowane gazy cieplarniane, lub pozostałe fluorowane gazy cieplarniane lub od nich uzależnionymi;
+- **5)** charakterystykę podmiotów skontrolowanych w roku, którego dotyczy sprawozdanie, z podziałem na grupy podmiotów: grupa I – podmioty stosujące substancje zubożające warstwę ozonową lub fluorowane gazy cieplarniane, grupa II – operatorzy urządzeń zawierających substancje kontrolowane lub fluorowane gazy cieplarniane, grupa III – podmioty dokonujące obrotu substancjami zubożającymi warstwę ozonową lub fluorowanymi gazami cieplarnianymi, lub pozostałymi fluorowanymi substancjami lub produktami i urządzeniami zawierającymi substancje zubożające warstwę ozonową lub fluorowane gazy cieplarniane, lub pozostałe fluorowane gazy cieplarniane lub od nich uzależnionymi;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **6)** podsumowanie i wnioski.
 
-12. Organy, o których mowa w ust. 5, przedstawiają ministrowi właściwemu do spraw klimatu, do dnia 31 marca każdego roku kalendarzowego, sprawozdanie z kontroli, o której mowa w ust. 5, w roku poprzednim, w zakresie swoich kompetencji.
+12. Organy, o których mowa w ust. 5, przedstawiają ministrowi właściwemu do spraw klimatu, do dnia 31 marca każdego roku kalendarzowego, sprawozdanie z kontroli, o której mowa w ust. 5, w roku poprzednim, wzakresie swoich kompetencji.
 
 **Art. 46.**
 
@@ -1034,9 +1076,9 @@ Art. 54–59. (pominięte)
 
 5. Organy Krajowej Administracji Skarbowej przedkładają ministrowi właściwemu do spraw klimatu, do dnia 31 marca roku następnego, sprawozdanie zawierające:
 
-- **1)** raport z przypadków zatrzymania substancji kontrolowanej, a także produktu lub urządzenia zawierających taką substancję lub od niej uzależnionych, w danym roku kalendarzowym, w tym:
-    - **a)** roczne dane o ilości zatrzymanej substancji kontrolowanej, a także o ilości zatrzymanego produktu i urządzenia zawierających taką substancję lub od niej uzależnionych, oraz o terminie przekazania ich do unieszkodliwienia, z podaniem nazwy i adresu podmiotu, któremu ta substancja, produkt lub urządzenie zostały przekazane do unieszkodliwienia,
-    - **b)** roczne zestawienie wszczętych, kontynuowanych i zakończonych postępowań w stosunku do osób, które dokonały nielegalnego przywozu lub wywozu substancji kontrolowanej, a także produktu lub urządzenia zawierających taką substancję lub od niej uzależnionych;
+- **1)** raport z przypadków zatrzymania substancji kontrolowanej, a także produktu lub urządzenia zawierających taką substancję lub od niej uzależnionych, w danym roku kalendarzowym, w tym: roczne dane o ilości zatrzymanej substancji kontrolowanej, a także o ilości zatrzymanego produktu i urządzenia zawierających taką substancję lub od niej uzależnionych, oraz o terminie przekazania ich do unieszkodliwienia, z podaniem nazwy i adresu podmiotu, któremu ta substancja, produkt lub urządzenie zostały przekazane do unieszkodliwienia, roczne zestawienie wszczętych, kontynuowanych i zakończonych postępowań w stosunku do osób, które dokonały nielegalnego przywozu lub wywozu substancji kontrolowanej, a także produktu lub urządzenia zawierających taką substancję lub od niej uzależnionych;
+    - **a)**
+    - **b)**
 
 - **2)** informację o przeprowadzonych w danym roku kalendarzowym szkoleniach i działaniach promocyjnych, wspomagających ograniczenie nielegalnego przywozu lub wywozu substancji kontrolowanych, a także produktów i urządzeń zawierających taką substancję lub od niej uzależnionych.
 
@@ -1046,9 +1088,78 @@ Art. 54–59. (pominięte)
 
 **Art. 47.** Administracyjną karę pieniężną w wysokości od 600 zł do 4500 zł wymierza się za:
 
+- **1)** nieprzekazanie w terminie sprawozdania, o którym mowa w art. 27 rozporządzenia (WE) nr 1005/2009, albo sprawozdania, o którym mowa w art. 19 rozporządzenia (UE) nr 517/2014;
+- **2)** wprowadzenie do obrotu, wbrew art. 12 ust. 1 rozporządzenia (UE) nr 517/2014, urządzenia lub produktu albo, wbrew art. 7 ust. 2 rozporządzenia (WE) nr 1005/2009, pojemnika bez odpowiedniej etykiety;
+- **3)** wprowadzenie, wbrew art. 13, na terytorium Rzeczypospolitej Polskiej pojemnika, produktu lub urządzenia bez etykiety w języku polskim albo bez instrukcji w języku polskim albo wprowadzenie produktu lub urządzenia niezgodnie z art. 12 ust. 1, 2 lub 5 rozporządzenia (UE) nr 517/2014 albo z art. 2 rozporządzenia (UE) 2015/2068;
+- **4)** wprowadzenie, wbrew art. 13, na terytorium Rzeczypospolitej Polskiej systemu ochrony przeciwpożarowej lub gaśnicy bez etykiety w języku polskim albo bez instrukcji w języku polskim albo wprowadzenie produktu lub urządzenia niezgodnie z art. 12 ust. 1, 2 lub 5 rozporządzenia (UE) nr 517/2014 albo z art. 2 rozporządzenia (UE) 2015/2068;
+- **5)** niesporządzenie w terminie, o którym mowa w art. 14 ust. 4, Karty Urządzenia lub jej korekty w terminie, o którym mowa w art. 14 ust. 5;
+- **6)** niesporządzenie w terminie, o którym mowa w art. 14 ust. 4, Karty Systemu Ochrony Przeciwpożarowej lub jej korekty w terminie, o którym mowa w art. 14 ust. 5;
+- **7)** niezapewnienie, wbrew art. 15 ust. 1, dokonania wpisu danych do Karty Urządzenia przez osobę wykonującą czynności i posiadającą, w stosownych przypadkach, odpowiedni certyfikat dla personelu lub przez osobę posiadającą dostęp do Karty Urządzenia nadany przez operatora dokonującą wpisu na podstawie protokołu dotyczącego wykonanych czynności;
+- **8)** niezapewnienie, wbrew art. 15 ust. 1, dokonania wpisu danych do Karty Systemu Ochrony Przeciwpożarowej przez osobę wykonującą czynności i posiadającą, w stosownych przypadkach, odpowiedni certyfikat dla personelu lub przez osobę posiadającą dostęp do Karty Systemu Ochrony Przeciwpożarowej nadany przez operatora dokonującą wpisu na podstawie protokołu dotyczącego wykonanych czynności;
+- **9)** niedokonanie w terminie, o którym mowa w art. 15 ust. 2, wpisu danych do Karty Urządzenia;
+- **10)** niedokonanie w terminie, o którym mowa w art. 15 ust. 2, wpisu danych do Karty Systemu Ochrony Przeciwpożarowej;
+- **11)** nieprzekazanie w terminie, o którym mowa w art. 40 ust. 2, wyspecjalizowanej jednostce sprawozdania, o którym mowa w art. 39 ust. 1, lub nieprzekazanie korekty tego sprawozdania w terminie, o którym mowa w art. 39 ust. 2;
+- **12)** niezłożenie, wbrew art. 9 ust. 1, wniosku o wpis do rejestru, o którym mowa w art. 7 ust. 1, przez przedsiębiorstwo produkujące, stosujące lub wprowadzające na terytorium Rzeczypospolitej Polskiej nowe substancje do zastosowania w charakterze substratów lub do celów laboratoryjnych i analitycznych, zgodnie z art. 24 rozporządzenia (WE) nr 1005/2009, albo niepoinformowanie przez takie przedsiębiorstwo, wbrew art. 9 ust. 6, o zaprzestaniu prowadzenia działalności, o której mowa w art. 9 ust. 1;
+- **13)** niezłożenie, wbrew art. 9 ust. 1, wniosku o wpis do rejestru, o którym mowa w art. 7 ust. 1, przez przedsiębiorstwo stosujące substancje kontrolowane w charakterze substratów, zgodnie z art. 7 rozporządzenia (WE) nr 1005/2009, lub przedsiębiorstwo prowadzące niszczenie substancji kontrolowanych, zgodnie z art. 22 i załącznikiem VII do rozporządzenia (WE) nr 1005/2009, albo niepoinformowanie przez takie przedsiębiorstwo, wbrew art. 9 ust. 6, o zaprzestaniu prowadzenia działalności, o której mowa w art. 9 ust. 1;
+- **14)** wykonanie czynności, o których mowa w art. 2 ust. 1 rozporządzenia (UE) 2015/2067, bez posiadania wymaganego certyfikatu dla personelu, o którym mowa w art. 4 rozporządzenia (UE) 2015/2067, albo wykonanie czynności, o których mowa w art. 1 rozporządzenia (UE) 2015/2066, bez posiadania wymaganego certyfikatu dla personelu, o którym mowa w art. 3 rozporządzenia (UE) 2015/2066, albo wykonanie czynności, o których mowa w art. 1 rozporządzenia (WE) nr 306/2008, bez posiadania wymaganego certyfikatu dla personelu, o którym mowa w art. 2 rozporządzenia (WE) nr 306/2008;
+- **15)** wykonanie czynności, o których mowa w art. 2 ust. 1 rozporządzenia (WE) nr 304/2008, bez posiadania wymaganego certyfikatu dla personelu, o którym mowa w art. 4 rozporządzenia (WE) nr 304/2008;
+- **16)** wykonanie czynności, o których mowa w art. 20 ust. 4, bez posiadania wymaganego certyfikatu dla personelu, o którym mowa w art. 20 ust. 1 i 2, w odniesieniu do substancji kontrolowanych niebędących halonami;
+- **17)** wykonanie czynności, o których mowa w art. 20 ust. 4, bez posiadania wymaganego certyfikatu dla personelu, o którym mowa w art. 20 ust. 1 i 2, w odniesieniu do halonów;
+- **18)** niedokonanie naprawy, o której mowa w art. 36 ust. 1, przed napełnieniem systemu klimatyzacji w niektórych pojazdach silnikowych;
+- **19)** wykonanie czynności, o których mowa w art. 37 ust. 1, bez posiadania zaświadczenia o odbytym szkoleniu, o którym mowa w art. 3 rozporządzenia (WE) nr 307/2008;
+- **20)** niewypełnienie obowiązków określonych w art. 1 ust. 1 lub 2, art. 2 lub art. 4 rozporządzenia (UE) 2016/879;
+- **21)** niedokonanie audytu sprawozdania, o którym mowa w art. 19 rozporządzenia (UE) nr 517/2014, w przypadku określonym w art. 19 ust. 6 rozporządzenia (UE) nr 517/2014.
+
 **Art. 48.** Administracyjną karę pieniężną w wysokości od 4000 zł do 15 000 zł wymierza się za:
 
+- **1)** niezapewnienie, wbrew art. 22 ust. 1 rozporządzenia (WE) nr 1005/2009, dokonania odzysku do celów recyklingu, regeneracji lub zniszczenia halonów;
+- **2)** niezapewnienie, wbrew art. 22 ust. 1 rozporządzenia (WE) nr 1005/2009, dokonania odzysku do celów recyklingu, regeneracji lub zniszczenia substancji kontrolowanych niebędących halonami;
+- **3)** niezapewnienie, wbrew art. 22 ust. 4 rozporządzenia (WE) nr 1005/2009, dokonania odzysku lub zniszczenia substancji kontrolowanych niebędących halonami zawartych w innych produktach i urządzeniach niż określone w art. 22 ust. 1 rozporządzenia (WE) nr 1005/2009, w zakresie, w jakim jest to osiągalne z technicznego i ekonomicznego punktu widzenia, w celu zapewnienia ich recyklingu, regeneracji lub zniszczenia;
+- **4)** niezapewnienie, wbrew art. 22 ust. 4 rozporządzenia (WE) nr 1005/2009, dokonania odzysku lub zniszczenia halonów zawartych w innych produktach i urządzeniach niż określone w art. 22 ust. 1 rozporządzenia (WE) nr 1005/2009, w zakresie, w jakim jest to osiągalne z technicznego i ekonomicznego punktu widzenia, w celu zapewnienia ich recyklingu, regeneracji lub zniszczenia;
+- **5)** niezapewnienie sprawdzenia pod względem wycieków stacjonarnych urządzeń chłodniczych, klimatyzacyjnych i pomp ciepła zawierających substancje kontrolowane oraz ich obiegów w terminach, o których mowa w art. 23 ust. 2 rozporządzenia (WE) nr 1005/2009;
+- **6)** niezapewnienie sprawdzenia pod względem wycieków stacjonarnych systemów ochrony przeciwpożarowej zawierających substancje kontrolowane w terminach, o których mowa w art. 23 ust. 2 rozporządzenia (WE) nr 1005/2009;
+- **7)** niezapewnienie wykonania kontroli szczelności, o których mowa w art. 4 rozporządzenia (UE) nr 517/2014, albo niespełnienie wymogów kontroli, o których mowa w rozporządzeniu (WE) nr 1516/2007, z wyłączeniem stacjonarnych systemów ochrony przeciwpożarowej;
+- **8)** niezapewnienie wykonania kontroli szczelności albo niespełnienie wymogów kontroli, o których mowa w rozporządzeniu (WE) nr 1516/2007, w odniesieniu do stacjonarnych systemów ochrony przeciwpożarowej zawierających fluorowane gazy cieplarniane w terminach, o których mowa w art. 4 rozporządzenia (UE) nr 517/2014;
+- **9)** niezapewnienie, wbrew art. 5 rozporządzenia (UE) nr 517/2014, zainstalowania systemów wykrywania wycieków, z wyłączeniem stacjonarnych systemów ochrony przeciwpożarowej;
+- **10)** niezapewnienie w terminie, o którym mowa w art. 5 rozporządzenia (UE) nr 517/2014, kontroli systemów wykrywania wycieków, z wyłączeniem stacjonarnych systemów ochrony przeciwpożarowej;
+- **11)** niezapewnienie, wbrew art. 5 rozporządzenia (UE) nr 517/2014, zainstalowania w stacjonarnych systemach ochrony przeciwpożarowej zawierających fluorowane gazy cieplarniane w ilości 500 ton ekwiwalentu CO2 lub większej systemów wykrywania wycieków;
+- **12)** niezapewnienie w terminie, o którym mowa w art. 5 rozporządzenia (UE) nr 517/2014, kontroli systemów wykrywania wycieków zainstalowanych w stacjonarnych systemach ochrony przeciwpożarowej zawierających fluorowane gazy cieplarniane w ilości 500 ton ekwiwalentu CO2 lub większej;
+- **13)** niezapewnienie, wbrew art. 8 ust. 1 rozporządzenia (UE) nr 517/2014, dokonania właściwego odzysku fluorowanych gazów cieplarnianych;
+- **14)** niezapewnienie, wbrew art. 8 ust. 2 rozporządzenia (UE) nr 517/2014, dokonania odzysku fluorowanych gazów cieplarnianych;
+- **15)** niezapewnienie, wbrew art. 8 ust. 3 rozporządzenia (UE) nr 517/2014, dokonania odzysku fluorowanych gazów cieplarnianych;
+- **16)** przekazanie, wbrew art. 10 ust. 4, substancji kontrolowanych niebędących halonami osobom fizycznym na ich własne potrzeby;
+- **17)** przekazanie, wbrew art. 10 ust. 4, halonów osobom fizycznym na ich własne potrzeby;
+- **18)** przekazanie, wbrew art. 10 ust. 5, fluorowanych gazów cieplarnianych osobom fizycznym na ich własne potrzeby;
+- **19)** niezapewnienie sprawdzenia pod względem wycieków stacjonarnych urządzeń chłodniczych, klimatyzacyjnych i pomp ciepła zawierających fluorowane gazy cieplarniane oraz ich obiegów przez personel, o którym mowa w art. 20 ust. 1, albo zawierających substancje kontrolowane oraz ich obiegów przez personel, o którym mowa w art. 20 ust. 4;
+- **20)** niezapewnienie sprawdzenia pod względem wycieków stacjonarnych systemów ochrony przeciwpożarowej zawierających fluorowane gazy cieplarniane przez personel, o którym mowa w art. 20 ust. 2, albo zawierających substancje kontrolowane przez personel, o którym mowa w art. 20 ust. 4;
+- **21)** niezapewnienie, wbrew art. 20 ust. 4, dokonania odzysku substancji kontrolowanych niebędących halonami zawartych w innych produktach i urządzeniach niż określone w art. 22 ust. 1 rozporządzenia (WE) nr 1005/2009 przez personel posiadający odpowiedni certyfikat;
+- **22)** niezapewnienie, wbrew art. 20 ust. 4, dokonania odzysku halonów zawartych w innych produktach i urządzeniach niż określone w art. 22 ust. 1 rozporządzenia (WE) nr 1005/2009 przez personel posiadający odpowiedni certyfikat;
+- **23)** prowadzenie szkolenia dla osób fizycznych ubiegających się o certyfikat dla personelu, bez uzyskania wpisu do rejestru jednostek prowadzących szkolenia, o którym mowa w art. 27 ust. 8;
+- **24)** wydanie zaświadczenia bez uzyskania wpisu do rejestru jednostek wydających zaświadczenia o odbytym szkoleniu, o którym mowa w art. 37 ust. 11;
+- **25)** niezapewnienie, wbrew art. 10 ust. 11 rozporządzenia (UE) nr 517/2014, aby podmiot, któremu zleca się wykonanie czynności, o której mowa w art. 10 ust. 1 tego rozporządzenia, posiadał certyfikat niezbędny dla danego zastosowania i wykonywanej czynności, z wyłączeniem systemów ochrony przeciwpożarowej;
+- **26)** niezapewnienie, wbrew art. 10 ust. 11 rozporządzenia (UE) nr 517/2014, aby podmiot, któremu zleca się wykonanie czynności, o której mowa w art. 10 ust. 1 tego rozporządzenia, posiadał certyfikat w zakresie systemów ochrony przeciwpożarowej;
+- **27)** nabycie, wbrew art. 10 ust. 1, substancji kontrolowanej lub fluorowanego gazu cieplarnianego lub, wbrew art. 11 ust. 4 rozporządzenia (UE) nr 517/2014, fluorowanego gazu cieplarnianego, bez posiadania certyfikatu dla personelu odpowiedniego do wykonywanych czynności związanych z substancjami kontrolowanymi lub fluorowanymi gazami cieplarnianymi albo – w przypadku czynności serwisowych i naprawczych systemów klimatyzacji w niektórych pojazdach silnikowych – bez posiadania zaświadczenia o odbytym szkoleniu albo w obu przypadkach bez zatrudnienia osoby z takim certyfikatem lub takim zaświadczeniem albo bez posiadania certyfikatu dla przedsiębiorcy;
+- **28)** przeprowadzenie egzaminu bez uzyskania wpisu do rejestru jednostek oceniających personel, o którym mowa w art. 25 ust. 1 pkt 4;
+- **29)** prowadzenie działalności bez posiadania certyfikatu dla przedsiębiorców, o którym mowa w art. 29, z wyłączeniem systemów ochrony przeciwpożarowej;
+- **30)** prowadzenie działalności bez posiadania certyfikatu dla przedsiębiorców, o którym mowa w art. 29, w zakresie systemów ochrony przeciwpożarowej;
+- **31)** sprzedaż, wbrew art. 11 ust. 4 rozporządzenia (UE) nr 517/2014, fluorowanego gazu cieplarnianego, bez upewnienia się zgodnie z wymogiem określonym w art. 13a ust. 1, że kupujący posiada certyfikat dla personelu odpowiedni do wykonywanych czynności związanych z fluorowanymi gazami cieplarnianymi albo – w przypadku czynności serwisowych i naprawczych systemów klimatyzacji w niektórych pojazdach silnikowych – zaświadczenie o odbytym szkoleniu, albo że jest podmiotem zatrudniającym taką osobę;
+- **32)** nieprowadzenie, wbrew art. 13a ust. 3 oraz wbrew art. 6 ust. 3 rozporządzenia (UE) nr 517/2014, dokumentacji dotyczącej nabywców fluorowanych gazów cieplarnianych;
+- **33)** celowe uwalnianie fluorowanych gazów cieplarnianych wbrew art. 3 ust. 1 rozporządzenia (UE) nr 517/2014 lub niezapobieganie wyciekowi fluorowanych gazów cieplarnianych wbrew art. 3 ust. 2 rozporządzenia (UE) nr 517/2014 lub niezapewnienie naprawy bez zbędnej zwłoki wbrew art. 3 ust. 3 rozporządzenia (UE) nr 517/2014 lub niezapewnienie kontroli czy naprawa była skuteczna w ciągu 1 miesiąca zgodnie z art. 3 ust. 3 zdanie drugie rozporządzenia 517/2014, z wyłączeniem systemów ochrony przeciwpożarowej;
+- **34)** celowe uwalnianie fluorowanych gazów cieplarnianych wbrew art. 3 ust. 1 rozporządzenia (UE) nr 517/2014 lub niezapobieganie wyciekowi fluorowanych gazów cieplarnianych wbrew art. 3 ust. 2 rozporządzenia (UE) nr 517/2014 lub niezapewnienie naprawy bez zbędnej zwłoki wbrew art. 3 ust. 3 rozporządzenia (UE) nr 517/2014 lub niezapewnienie kontroli czy naprawa była skuteczna w ciągu 1 miesiąca zgodnie z art. 3 ust. 3 zdanie drugie rozporządzenia 517/2014, w zakresie systemów ochrony przeciwpożarowej.
+
 **Art. 49.** Administracyjną karę pieniężną w wysokości od 6000 zł do 45 000 zł wymierza się za:
+
+- **1)** zastosowanie, wbrew art. 13 ust. 1 i 2 rozporządzenia (UE) nr 517/2014, heksafluorku siarki;
+- **2)** wprowadzenie do obrotu, wbrew art. 11 ust. 1 rozporządzenia (UE) nr 517/2014, produktów i urządzeń wymienionych w załączniku III do tego rozporządzenia, z wyłączeniem stacjonarnych systemów ochrony przeciwpożarowej;
+- **3)** wprowadzenie do obrotu, wbrew art. 11 ust. 1 rozporządzenia (UE) nr 517/2014, produktów i urządzeń wymienionych w załączniku III do tego rozporządzenia, w odniesieniu do stacjonarnych systemów ochrony przeciwpożarowej;
+- **4)** sprzedaż, wbrew art. 11 ust. 5 rozporządzenia (UE) nr 517/2014, niehermetycznie zamkniętych urządzeń bez dowodu spełniającego wymagania określone w art. 13a ust. 1 i 2;
+- **5)** wprowadzenie, wbrew art. 16 rozporządzenia (UE) nr 517/2014, do obrotu fluorowanych gazów cieplarnianych bez uprzedniego uzyskania kontyngentu na wprowadzanie wodorofluorowęglowodorów do obrotu lub przekroczenie ilości przyznanych w kontyngencie;
+- **6)** stosowanie, wbrew art. 13 ust. 3 rozporządzenia (UE) nr 517/2014, fluorowanych gazów cieplarnianych;
+- **7)** niewypełnienie obowiązku rejestracyjnego określonego w art. 17 ust. 1 rozporządzenia (UE) nr 517/2014;
+- **8)** nieprowadzenie, wbrew art. 13a ust. 3, rejestru sprzedanych niehermetycznie zamkniętych urządzeń napełnionych fluorowanymi gazami cieplarnianymi;
+- **9)** nieprzedstawienie, wbrew art. 7 ust. 2 rozporządzenia (UE) nr 517/2014, organom celnym w chwili wprowadzania fluorowanych gazów cieplarnianych do obrotu dowodu określonego w art. 13a ust. 4;
+- **10)** wprowadzenie do obrotu, wbrew art. 14 ust. 1 rozporządzenia (UE) nr 517/2014, urządzeń chłodniczych, klimatyzacyjnych lub pomp ciepła napełnionych wodorofluorowęglowodorami bez uprzedniego uzyskania upoważnienia na wykorzystanie kontyngentu zgodnie z art. 18 ust. 2 tego rozporządzenia;
+- **11)** niesporządzenie, wbrew art. 14 ust. 2 rozporządzenia (UE) nr 517/2014, deklaracji zgodności lub niezapewnienie weryfikacji dokumentacji i deklaracji zgodności przez niezależnego audytora.
 
 **Art. 50.**
 
@@ -1058,7 +1169,7 @@ Art. 54–59. (pominięte)
 
 **Art. 51.**
 
-1. Administracyjne kary pieniężne za czyny określone w art. 47 pkt 1– 3, 5, 7, 9, 11–14, 16, 18–21, art. 48 pkt 2, 3, 5, 7, 9, 10, 13–15, 16, 18, 19, 21, 23–25, 27–29, 31–33 oraz art. 49 pkt 1, 2 i 4–11 wymierza, w drodze decyzji administracyjnej, wojewódzki inspektor ochrony środowiska.
+1. Administracyjne kary pieniężne za czyny określone w art. 47 pkt 1–3, 5, 7, 9, 11–14, 16, 18–21, art. 48 pkt 2, 3, 5, 7, 9, 10, 13–15, 16, 18, 19, 21, 23–25, 27–29, 31–33 oraz art. 49 pkt 1, 2 i 4–11 wymierza, w drodze decyzji administracyjnej, wojewódzki inspektor ochrony środowiska.
 
 2. Administracyjne kary pieniężne za czyny określone w art. 47 pkt 4, 6, 8, 10, 15 i 17, art. 48 pkt 1, 4, 6, 8, 11, 12, 17, 20, 22, 26, 30 i 34 oraz art. 49 pkt 3 wymierza, w drodze decyzji administracyjnej, właściwy organ Państwowej Straży Pożarnej.
 
@@ -1108,7 +1219,22 @@ Art. 54–59. (pominięte)
 
 **Art. 66.** Przekazane na rachunek bankowy Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej po dniu wejścia w życie niniejszej ustawy wpływy z tytułu:
 
+- **1)** opłat ustalonych na podstawie przepisów ustawy, o której mowa w art. 71,
+- **2)** kar pieniężnych wymierzonych na podstawie art. 37 ust. 1 i 2 ustawy, o której mowa w art. 71 stanowią przychody tego funduszu.
+
 **Art. 67.** Środki Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej w wysokości ustalonego na dzień poprzedzający dzień wejścia w życie niniejszej ustawy stanu zobowiązania określonego w art. 401c ust. 6 ustawy, o której mowa w art. 57, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, oraz przychody, o których mowa w art. 66 niniejszej ustawy, przeznacza się na:
+
+- **1)** finansowanie realizacji zadań wyspecjalizowanej jednostki;
+- **2)** utworzenie centralnych systemów gromadzenia danych w wyspecjalizowanej jednostce;
+- **3)** finansowanie zadań realizowanych przez gminy i podmioty związane: ze zbiórką odpadów zawierających substancje kontrolowane, z odzyskiwaniem substancji kontrolowanych, z gromadzeniem substancji kontrolowanych, z unieszkodliwianiem substancji zubożających warstwę ozonową lub fluorowanych gazów cieplarnianych;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **4)** finansowanie zadań związanych: ze szkoleniem pracowników Państwowej Straży Pożarnej w zakresie przygotowania do prowadzenia kontroli postępowania z substancjami kontrolowanymi, nowymi substancjami i fluorowanymi gazami cieplarnianymi wykorzystywanymi w ochronie przeciwpożarowej, a także systemami ochrony przeciwpożarowej oraz gaśnicami zawierającymi substancje kontrolowane, nowe substancje lub fluorowane gazy cieplarniane, z zakupem sprzętu do identyfikacji i pobierania próbek.
+    - **a)**
+    - **b)**
 
 **Art. 68.** Przedsiębiorstwa produkujące, stosujące lub wprowadzające na terytorium Rzeczypospolitej Polskiej nowe substancje do zastosowania w charakterze substratów lub do celów laboratoryjnych i analitycznych, prowadzące działalność do dnia wejścia w życie niniejszej ustawy, obowiązane są do złożenia wniosku o wpis do rejestru, o którym mowa w art. 7 ust. 1, w terminie 90 dni od dnia wejścia w życie niniejszej ustawy.
 
@@ -1129,24 +1255,20 @@ Art. 54–59. (pominięte)
 - **9)** 2023 r. – 604 000,00 zł;
 - **10)** 2024 r. – 618 000,00 zł.
 
-1a. W latach 2025–2030 maksymalny limit wydatków dla Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej będący skutkiem finansowym wejścia w życie niniejszej ustawy wynosi 4 545 224 zł, w tym w:
+2. Minister właściwy do spraw klimatu monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, oraz wdraża mechanizm korygujący, o którym mowa w ust. 3.
 
-- **1)** 2025 r. – 742 000 zł;
-- **2)** 2026 r. – 800 936 zł;
-- **3)** 2027 r. – 867 509 zł;
-- **4)** 2028 r. – 896 880 zł;
-- **5)** 2029 r. – 927 810 zł;
-- **6)** 2030 r. – 310 089 zł.
-
-2. Minister właściwy do spraw klimatu monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1 i 1a, oraz wdraża mechanizm korygujący, o którym mowa w ust. 3.
-
-3. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków określonego w ust. 1 i 1a oraz w przypadku, gdy część planowanych wydatków, o których mowa w ust. 1 i 1a, przypadająca proporcjonalnie na okres od początku roku kalendarzowego do końca danego kwartału została przekroczona:
+3. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków określonego w ust. 1 oraz w przypadku, gdy część planowanych wydatków, o których mowa w ust. 1, przypadająca proporcjonalnie na okres od początku roku kalendarzowego do końca danego kwartału została przekroczona:
 
 - **1)** po pierwszym kwartale – co najmniej o 20%,
 - **2)** po dwóch kwartałach – co najmniej o 15%,
-- **3)** po trzech kwartałach – co najmniej o 10% – minister właściwy do spraw klimatu stosuje mechanizm korygujący polegający na wstrzymaniu wydatków.
+- **3)** po trzech kwartałach – co najmniej o 10% minister właściwy do spraw klimatu stosuje mechanizm korygujący polegający na wstrzymaniu wydatków.
 
 **Art. 71.** Traci moc ustawa z dnia 20 kwietnia 2004 r. o substancjach zubożających warstwę ozonową (Dz. U. z 2014 r. poz. 436).
 
-**Art. 72.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem:
+**Art. 72.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 10 ust. 1–3, art. 12 ust. 1 i 2, art. 20 ust. 1–5, art. 29, art. 37 ust. 1, art. 47 pkt 14–17 i 19 oraz art. 48 pkt 1, 2, 5–8, 13, 14, 16, 20–23 oraz 26–28, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
+- **2)** art. 14 ust. 1–10, art. 15, art. 47 pkt 5–10 oraz art. 48 pkt 30 i 31, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia.
+- **1)** W zakresie swojej regulacji ustawa umożliwia wykonanie: 1) rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1005/2009 z dnia 16 września 2009 r. w sprawie substancji zubożających warstwę ozonową (Dz. Urz. UE L 286 z 31.10.2009, str. 1, z późn. zm.); 2) rozporządzenia Komisji (WE) nr 291/2011 z dnia 24 marca 2011 r. w sprawie nieodzownych zastosowań substancji kontrolowanych innych niż wodorochlorofluorowęglowodory do celów laboratoryjnych i analitycznych w Unii zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 1005/2009 w sprawie substancji zubożających warstwę ozonową (Dz. Urz. UE L 79 z 25.03.2011, str. 4); 3) rozporządzenia Komisji (WE) nr 537/2011 z dnia 1 czerwca 2011 r. w sprawie mechanizmu przyznawania ilości substancji kontrolowanych dopuszczonych do celów zastosowań laboratoryjnych i analitycznych w Unii zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 1005/2009 w sprawie substancji zubożających warstwę ozonową (Dz. Urz. UE L 147 z 02.06.2011, str. 4); 4) rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 517/2014 z dnia 16 kwietnia 2014 r. w sprawie fluorowanych gazów cieplarnianych i uchylenia rozporządzenia (WE) nr 842/2006 (Dz. Urz. UE L 150 z 20.05.2014, str. 195 i Dz. Urz. UE L 297 z 15.10.2014, str. 42); 5) rozporządzenia wykonawczego Komisji (UE) nr 1191/2014 z dnia 30 października 2014 r. określającego format i sposób składania sprawozdania, o którym mowa w art. 19 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 517/2014 w sprawie fluorowanych gazów cieplarnianych (Dz. Urz. UE L 318 z 05.11.2014, str. 5); 6) rozporządzenia wykonawczego Komisji (UE) 2015/2068 z dnia 17 listopada 2015 r. ustanawiającego, zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 517/2014, formę etykiet dla produktów i urządzeń zawierających fluorowane gazy cieplarniane (Dz. Urz. UE L 301 z 18.11.2015, str. 39); 7) rozporządzenia Komisji (WE) nr 1497/2007 z dnia 18 grudnia 2007 r. określającego, zgodnie z rozporządzeniem (WE) nr 842/2006 Parlamentu Europejskiego i Rady, standardowe wymogi w zakresie kontroli szczelności w odniesieniu do stacjonarnych systemów ochrony przeciwpożarowej zawierających niektóre fluorowane gazy cieplarniane (Dz. Urz. UE L 333 z 19.12.2007, str. 4); 8) rozporządzenia Komisji (WE) nr 1516/2007 z dnia 19 grudnia 2007 r. ustanawiającego, zgodnie z rozporządzeniem (WE) nr 842/2006 Parlamentu Europejskiego i Rady, standardowe wymogi w zakresie kontroli szczelności w odniesieniu do stacjonarnych urządzeń chłodniczych i klimatyzacyjnych oraz pomp ciepła zawierających niektóre fluorowane gazy cieplarniane (Dz. Urz. UE L 335 z 20.12.2007, str. 10); 9) rozporządzenia wykonawczego Komisji (UE) 2015/2067 z dnia 17 listopada 2015 r. ustanawiającego, zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 517/2014, minimalne wymagania i warunki wzajemnego uznawania certyfikacji osób fizycznych w odniesieniu do stacjonarnych urządzeń chłodniczych, klimatyzacyjnych i pomp ciepła oraz agregatów chłodniczych samochodów ciężarowych i przyczep chłodni, zawierających fluorowane gazy cieplarniane, a także certyfikacji przedsiębiorstw w odniesieniu do stacjonarnych urządzeń chłodniczych, klimatyzacyjnych i pomp ciepła zawierających fluorowane gazy cieplarniane (Dz. Urz. UE L 301 z 18.11.2015, str. 28); 10) rozporządzenia Komisji (WE) nr 304/2008 z dnia 2 kwietnia 2008 r. ustanawiającego, na mocy rozporządzenia (WE) nr 842/2006 Parlamentu Europejskiego i Rady, minimalne wymagania i warunki dotyczące wzajemnego uznawania certyfikacji przedsiębiorstw i personelu w odniesieniu do stacjonarnych systemów ochrony przeciwpożarowej i gaśnic zawierających niektóre fluorowane gazy cieplarniane (Dz. Urz. UE L 92 z 03.04.2008, str. 12); 11) rozporządzenia wykonawczego Komisji (UE) 2015/2066 z dnia 17 listopada 2015 r. ustanawiającego, zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 517/2014, minimalne wymagania i warunki dotyczące wzajemnego uznawania certyfikacji osób fizycznych dokonujących instalacji, serwisowania, konserwacji, napraw lub likwidacji rozdzielnic elektrycznych zawierających fluorowane gazy cieplarniane bądź dokonujących odzysku fluorowanych gazów cieplarnianych ze stacjonarnych rozdzielnic elektrycznych (Dz. Urz. UE L 301 z 18.11.2015, str. 22); 12) rozporządzenia Komisji (WE) nr 306/2008 z dnia 2 kwietnia 2008 r. ustanawiającego, na mocy rozporządzenia (WE) nr 842/2006 Parlamentu Europejskiego i Rady, minimalne wymagania i warunki wzajemnego uznawania certyfikacji personelu dokonującego odzysku rozpuszczalników na bazie fluorowanych gazów cieplarnianych z urządzeń (Dz. Urz. UE L 92 z 03.04.2008, str. 21); 13) rozporządzenia Komisji (WE) nr 307/2008 z dnia 2 kwietnia 2008 r. ustanawiającego, na mocy rozporządzenia (WE) nr 842/2006 Parlamentu Europejskiego i Rady, minimalne wymagania w zakresie programów szkoleniowych oraz warunki wzajemnego uznawania zaświadczeń o odbytym szkoleniu dla personelu w odniesieniu do wykorzystywanych w niektórych pojazdach silnikowych systemów klimatyzacyjnych zawierających niektóre fluorowane gazy cieplarniane (Dz. Urz. UE L 92 z 03.04.2008, str. 25); 14) rozporządzenia wykonawczego Komisji (UE) 2015/2065 z dnia 17 listopada 2015 r. określającego, zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 517/2014, formę powiadamiania o programach szkoleń i certyfikacji państw członkowskich (Dz. Urz. UE L 301 z 18.11.2015, str. 14); 15) rozporządzenia wykonawczego Komisji (UE) 2016/879 z dnia 2 czerwca 2016 r. ustanawiającego, zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 517/2014, szczegółowe uzgodnienia dotyczące deklaracji zgodności przy wprowadzaniu do obrotu urządzeń chłodniczych, klimatyzacyjnych i pomp ciepła napełnionych wodorofluorowęglowodorami i weryfikacji tych deklaracji przez niezależnego audytora (Dz. Urz. UE L 146 z 03.06.2016, str. 1); 16) rozporządzenia Komisji (UE) nr 1088/2013 z dnia 4 listopada 2013 r. zmieniającego rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 1005/2009 w odniesieniu do wniosków o licencje na przywóz i wywóz produktów i sprzętu zawierających halony lub od nich uzależnionych do krytycznych zastosowań w statkach powietrznych (Dz. Urz. UE L 293 z 05.11.2013, str. 29); 17) rozporządzenia Komisji (UE) nr 744/2010 z dnia 18 sierpnia 2010 r. zmieniającego rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 1005/2009 w sprawie substancji zubożających warstwę ozonową, w zakresie zastosowań krytycznych halonów (Dz. Urz. UE L 218 z 19.08.2010, str. 2). 2) W zakresie swojej regulacji ustawa dokonuje wdrożenia art. 6 ust. 3 dyrektywy 2006/40/WE Parlamentu Europejskiego i Rady z dnia 17 maja 2006 r. dotyczącej emisji z systemów klimatyzacji w pojazdach silnikowych oraz zmieniającej dyrektywę Rady 70/156/EWG (Dz. Urz. UE L 161 z 14.06.2006, str. 12). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 297 z 15.10.2014, str. 42. 4) Ze zmianą wprowadzoną przez art. 80 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), która weszła w życie z dniem 29 lutego 2020 r. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 280 z 23.10.2008, str. 38. 6) Ustawa została ogłoszona w dniu 25 czerwca 2015 r.
+
 

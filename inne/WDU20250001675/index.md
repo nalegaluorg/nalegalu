@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi
-
-*USTAWA z dnia 5 grudnia 2008 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 grudnia 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,13 +25,77 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-04-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001675) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1675/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 listopada 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2024 r.
+poz. 924), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 27 listopada 2024 r. o zmianie ustawy o Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (Dz. U. poz. 1897) oraz zmian wynikających z przepisów ogłoszonych przed dniem 5 listopada 2025 r.
+2. Podany w załączniku do niniejszego obwieszczenia jednolity tekst ustawy nie obejmuje art. 41 ustawy z dnia 27 listopada 2024 r. o zmianie ustawy o Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (Dz. U.
+poz. 1897), który stanowi: „Art. 41. Ustawa wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem:
+1) art. 12, art. 15, art. 19 i art. 40, które wchodzą w życie z dniem 30 grudnia 2024 r.;
+2) art. 9 pkt 14 i 15 oraz art. 28 ust. 5 i 6, które wchodzą w życie z dniem 16 stycznia 2025 r.;
+3) art. 2 pkt 3 i 4 oraz art. 35, które wchodzą w życie z dniem 1 września 2025 r.;
+4) art. 9 pkt 7 lit. b–e i pkt 9, które wchodzą w życie z dniem 1 stycznia 2027 r.”.
+Marszałek Sejmu: S. Hołownia
+USTAWA z dnia 5 grudnia 2008 r.
+o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi
 Art. 55–63. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zasady i tryb zapobiegania oraz zwalczania zakażeń i chorób zakaźnych u ludzi, w tym zasady i tryb rozpoznawania i monitorowania sytuacji epidemiologicznej oraz podejmowania działań przeciwepidemicznych i zapobiegawczych w celu unieszkodliwienia źródeł zakażenia, przecięcia dróg szerzenia się zakażeń i chorób zakaźnych oraz uodpornienia osób podatnych na zakażenie;
+- **2)** zadania organów administracji publicznej w zakresie zapobiegania oraz zwalczania zakażeń i chorób zakaźnych u ludzi;
+- **3)** uprawnienia i obowiązki świadczeniodawców oraz osób przebywających na terytorium Rzeczypospolitej Polskiej w zakresie zapobiegania oraz zwalczania zakażeń i chorób zakaźnych u ludzi.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** badanie sanitarno-epidemiologiczne badanie, w którego skład wchodzą badanie lekarskie, badania laboratoryjne oraz dodatkowe badania i konsultacje specjalistyczne, wykonywane w ramach nadzoru epidemiologicznego w celu wykrycia biologicznych czynników chorobotwórczych lub potwierdzenia rozpoznania choroby zakaźnej;
+- **2)** biologiczny czynnik chorobotwórczy posiadające zdolność wywoływania objawów chorobowych drobnoustroje komórkowe lub wytwarzane przez nie produkty, zewnętrzne i wewnętrzne pasożyty człowieka lub wytwarzane przez nie produkty, cząstki bezkomórkowe zdolne do replikacji lub przenoszenia materiału genetycznego, w tym zmodyfikowane genetycznie hodowle komórkowe lub wytwarzane przez nie produkty;
+- **3)** choroba zakaźna choroba, która została wywołana przez biologiczny czynnik chorobotwórczy;
+- **4)** choroba szczególnie niebezpieczna i wysoce zakaźna choroba zakaźna łatwo rozprzestrzeniająca się, o wysokiej śmiertelności, powodująca szczególne zagrożenie dla zdrowia publicznego i wymagająca specjalnych metod zwalczania, w tym cholera, dżuma, ospa prawdziwa, wirusowe gorączki krwotoczne;
+- **5)** czynnik alarmowy biologiczny czynnik chorobotwórczy o szczególnej zjadliwości lub oporności;
+- **6)** dekontaminacja proces niszczenia biologicznych czynników chorobotwórczych przez mycie, dezynfekcję i sterylizację;
+- **7)** dezynfekcja proces redukcji ilości biologicznych czynników chorobotwórczych przez zastosowanie metod fizycznych i chemicznych;
+- **8)** dochodzenie epidemiologiczne wykrywanie zachorowań, czynnika etiologicznego oraz określanie przyczyn, źródeł, rezerwuarów i mechanizmów szerzenia się choroby zakaźnej lub zakażenia;
+- **9)** epidemia wystąpienie na danym obszarze zakażeń lub zachorowań na chorobę zakaźną w liczbie wyraźnie większej niż we wcześniejszym okresie albo wystąpienie zakażeń lub chorób zakaźnych dotychczas niewystępujących;
+- **10)** informacje dane nieobejmujące danych osobowych w rozumieniu przepisów o ochronie danych osobowych;
+- **10a)** instytut badawczy instytut badawczy w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534 oraz z 2025 r. poz. 1017 i 1080);
+- **11)** izolacja odosobnienie osoby lub grupy osób chorych na chorobę zakaźną albo osoby lub grupy osób podejrzanych o chorobę zakaźną, w celu uniemożliwienia przeniesienia biologicznego czynnika chorobotwórczego na inne osoby;
+- **11a)** izolacja w warunkach domowych odosobnienie osoby chorej z przebiegiem choroby zakaźnej niewymagającej bezwzględnej hospitalizacji ze względów medycznych w jej miejscu zamieszkania lub pobytu, w celu zapobieżenia szerzenia się chorób szczególnie niebezpiecznych i wysoce zakaźnych;
+- **12)** kwarantanna odosobnienie osoby zdrowej, która była narażona na zakażenie, w celu zapobieżenia szerzeniu się chorób szczególnie niebezpiecznych i wysoce zakaźnych;
+- **13)** łańcuch chłodniczy środki techniczne i rozwiązania organizacyjne służące utrzymaniu oraz monitorowaniu, zgodnych z zaleceniami wytwórcy warunków przechowywania, transportu i dystrybucji produktów immunologicznych w rozumieniu art. 2 pkt 30 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2025 r. poz. 750, 905, 924 i 1416) w celu zachowania ich trwałości i zapobieżenia zmniejszeniu ich skuteczności;
+- **14)** nadzór epidemiologiczny obserwację osoby zakażonej lub podejrzanej o zakażenie, bez ograniczenia jej swobody przemieszczania się, wykonywanie badań sanitarno-epidemiologicznych u tej osoby w celu wykrycia biologicznych czynników chorobotwórczych lub potwierdzenia rozpoznania choroby zakaźnej oraz zebranie, analizę i interpretację informacji o okolicznościach i skutkach zakażenia (nadzór indywidualny), jak i stałe, systematyczne gromadzenie, analizę oraz interpretację informacji o zachorowaniach lub innych procesach zachodzących w sferze zdrowia publicznego, wykorzystywane w celu zapobiegania i zwalczania zakażeń lub chorób zakaźnych (nadzór ogólny);
+- **15)** nadzór sentinel wybiórczy nadzór epidemiologiczny, prowadzony przez wybrany podmiot lub zespół podmiotów w zakresie ich podstawowej działalności;
+- **16)** niepożądany odczyn poszczepienny niepożądany objaw chorobowy pozostający w związku czasowym z wykonanym szczepieniem ochronnym;
+- **17)** nosiciel osobę bez objawów choroby zakaźnej, w której organizmie bytują biologiczne czynniki chorobotwórcze, stanowiącą potencjalne źródło zakażenia innych osób;
+- **18)** ośrodek referencyjny podmiot lub wyodrębnioną w jego strukturze jednostkę, wskazane przez ministra właściwego do spraw zdrowia, które uzyskały akredytację w zakresie przedmiotu referencyjności na podstawie przepisów ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2025 r. poz. 568) lub akredytację Światowej Organizacji Zdrowia lub Europejskiego Centrum do Spraw Zapobiegania i Kontroli Chorób, realizujące zadania z zakresu diagnostyki mikrobiologicznej lub klinicznej, obejmujące weryfikację rozpoznań zakażeń i wyników badań laboratoryjnych;
+- **19)** ozdrowieniec osobę, u której ustąpiły objawy choroby zakaźnej;
+- **20)** podejrzany o chorobę zakaźną osobę, u której występują objawy kliniczne lub odchylenia od stanu prawidłowego w badaniach dodatkowych, mogące wskazywać na chorobę zakaźną;
+- **21)** podejrzany o zakażenie osobę, u której nie występują objawy zakażenia ani choroby zakaźnej, która miała styczność ze źródłem zakażenia, a charakter czynnika zakaźnego i okoliczności styczności uzasadniają podejrzenie zakażenia;
+- **21a)** publiczna służba krwi podmioty, o których mowa w art. 4 ust. 3 ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. z 2024 r. poz. 1782);
+- **22)** stan epidemii sytuację prawną wprowadzoną na danym obszarze w związku z wystąpieniem epidemii w celu podjęcia określonych w ustawie działań przeciwepidemicznych i zapobiegawczych dla zminimalizowania skutków epidemii;
+- **23)** stan zagrożenia epidemicznego sytuację prawną wprowadzoną na danym obszarze w związku z ryzykiem wystąpienia epidemii w celu podjęcia określonych w ustawie działań zapobiegawczych;
+- **24)** sterylizacja proces zniszczenia zdolnych do namnażania się form biologicznych czynników chorobotwórczych;
+- **25)** styczność bezpośredni lub pośredni kontakt osoby ze źródłem zakażenia, jeżeli charakter tego kontaktu zagrażał lub zagraża przeniesieniem na tę osobę biologicznych czynników chorobotwórczych;
+- **26)** szczepienie ochronne podanie szczepionki przeciw chorobie zakaźnej w celu sztucznego uodpornienia przeciwko tej chorobie;
+- **27)** świadczenie zdrowotne świadczenie zdrowotne w rozumieniu art. 5 pkt 40 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461);
+- **28)** świadczeniodawca świadczeniodawcę w rozumieniu art. 5 pkt 41 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **29)** ubezpieczony ubezpieczonego w rozumieniu art. 3 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **30)** zabiegi sanitarne działania służące poprawie higieny osobistej, w tym mycie i strzyżenie, higieny odzieży, higieny pomieszczeń, podejmowane w celu zapobiegania oraz zwalczania zakażeń i chorób zakaźnych;
+- **31)** zagrożenie epidemiczne zaistnienie na danym obszarze warunków lub przesłanek wskazujących na ryzyko wystąpienia epidemii;
+- **32)** zakażenie wniknięcie do organizmu i rozwój w nim biologicznego czynnika chorobotwórczego;
+- **33)** zakażenie szpitalne zakażenie, które wystąpiło w związku z udzieleniem świadczeń zdrowotnych, w przypadku gdy choroba:
+    - **a)** nie pozostawała w momencie udzielania świadczeń zdrowotnych w okresie wylęgania albo
+    - **b)** wystąpiła po udzieleniu świadczeń zdrowotnych, w okresie nie dłuższym niż najdłuższy okres jej wylęgania;
+
+- **34)** zaraźliwość zdolność biologicznego czynnika chorobotwórczego do przeżycia i namnażania oraz do wywołania objawów chorobowych po przeniesieniu go do organizmu innego człowieka lub zwierzęcia;
+- **35)** zdrowie publiczne stan zdrowotny całego społeczeństwa lub jego części, określany na podstawie wskaźników epidemiologicznych i demograficznych;
+- **36)** strefa zero obszar, na którym wystąpił stan epidemii, znajdujący się bezpośrednio wokół ogniska wirusa, podlegający ograniczeniom, w szczególności zakazom, nakazom oraz środkom kontroli;
+- **37)** strefa buforowa obszar wokół strefy zero, podlegający ograniczeniom, w szczególności zakazom lub nakazom dotyczącym przemieszczania się ludzi;
+- **38)** strefa zagrożenia obszar, na którym możliwe jest ryzyko wystąpienia stanu epidemii;
+- **39)** zagrożony obszar obszar jednej lub kilku jednostek podziału terytorialnego kraju lub obszar określony w sposób inny niż przez odniesienie do jednostek podziału terytorialnego kraju.
+- **40)** (uchylony)
 
 **Art. 3.**
 
@@ -47,7 +109,7 @@ Art. 55–63. (pominięte)
 
 - **1)** kryteria rozpoznawania, na potrzeby nadzoru epidemiologicznego, zakażenia lub choroby zakaźnej, w tym choroby szczególnie niebezpiecznej i wysoce zakaźnej,
 - **2)** metody zapobiegania zakażeniu lub chorobie zakaźnej oraz lekooporności biologicznych czynników chorobotwórczych wywołujących te choroby,
-- **3)** rodzaje badań laboratoryjnych niezbędnych do rozpoznania oraz identyfikacji biologicznych czynników chorobotwórczych – mając na względzie zapewnienie poprawności rozpoznawania zakażeń i chorób zakaźnych, potrzeby nadzoru epidemiologicznego oraz ochronę zdrowia publicznego.
+- **3)** rodzaje badań laboratoryjnych niezbędnych do rozpoznania oraz identyfikacji biologicznych czynników chorobotwórczych mając na względzie zapewnienie poprawności rozpoznawania zakażeń i chorób zakaźnych, potrzeby nadzoru epidemiologicznego oraz ochronę zdrowia publicznego.
 
 **Art. 4.**
 
@@ -73,12 +135,12 @@ Art. 55–63. (pominięte)
     - **i)** izolacji,
     - **j)** izolacji w warunkach domowych;
 
-- **2)** zaniechania wykonywania prac, przy wykonywaniu których istnieje możliwość przeniesienia zakażenia lub choroby zakaźnej na inne osoby – jeżeli są osobami zakażonymi, chorymi na chorobę zakaźną lub nosicielami;
+- **2)** zaniechania wykonywania prac, przy wykonywaniu których istnieje możliwość przeniesienia zakażenia lub choroby zakaźnej na inne osoby jeżeli są osobami zakażonymi, chorymi na chorobę zakaźną lub nosicielami;
 - **3)** stosowania się do nakazów i zakazów organów Państwowej Inspekcji Sanitarnej służących zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych;
 - **4)** udzielania danych i informacji:
-    - **a)** organom Państwowej Inspekcji Sanitarnej, Wojskowej Inspekcji Sanitarnej, Inspekcji Weterynaryjnej, Wojskowej Inspekcji Weterynaryjnej, Inspekcji Ochrony Środowiska, jednostkom, o których mowa w art. 30 ust. 1, oraz ośrodkom referencyjnym i instytutom badawczym – niezbędnych do prowadzenia nadzoru epidemiologicznego nad zakażeniami i chorobami zakaźnymi i zapobiegania oraz zwalczania zakażeń i chorób zakaźnych,
-    - **b)** właściwym państwowym inspektorom sanitarnym – niezbędnych do prowadzenia nadzoru epidemiologicznego nad niepożądanymi odczynami poszczepiennymi,
-    - **c)** organom Państwowej Inspekcji Sanitarnej – niezbędnych do sprawowania nadzoru nad realizacją obowiązków, o których mowa w pkt 1–3.
+    - **a)** organom Państwowej Inspekcji Sanitarnej, Wojskowej Inspekcji Sanitarnej, Inspekcji Weterynaryjnej, Wojskowej Inspekcji Weterynaryjnej, Inspekcji Ochrony Środowiska, jednostkom, o których mowa w art. 30 ust. 1, oraz ośrodkom referencyjnym i instytutom badawczym niezbędnych do prowadzenia nadzoru epidemiologicznego nad zakażeniami i chorobami zakaźnymi i zapobiegania oraz zwalczania zakażeń i chorób zakaźnych,
+    - **b)** właściwym państwowym inspektorom sanitarnym niezbędnych do prowadzenia nadzoru epidemiologicznego nad niepożądanymi odczynami poszczepiennymi,
+    - **c)** organom Państwowej Inspekcji Sanitarnej niezbędnych do sprawowania nadzoru nad realizacją obowiązków, o których mowa w pkt 1–3.
 
 2. W przypadku osoby nieposiadającej pełnej zdolności do czynności prawnych odpowiedzialność za wypełnienie obowiązków, o których mowa w ust. 1, ponosi osoba, która sprawuje prawną pieczę nad osobą małoletnią lub bezradną, albo opiekun faktyczny w rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581).
 
@@ -98,9 +160,9 @@ Art. 55–63. (pominięte)
 
 2. Na obowiązkowe badania sanitarno-epidemiologiczne, określone na podstawie art. 10 ust. 2 pkt 2, kieruje:
 
-- **1)** osoby, o których mowa w ust. 1 pkt 1–3 – właściwy dla ich miejsca pobytu państwowy powiatowy inspektor sanitarny;
-- **2)** osoby, o których mowa w ust. 1 pkt 4 – kierujący szkołą albo rektor uczelni lub osoba przez nich upoważniona;
-- **3)** osoby, o których mowa w ust. 1 pkt 5 – pracodawca albo zlecający wykonanie prac.
+- **1)** osoby, o których mowa w ust. 1 pkt 1–3 właściwy dla ich miejsca pobytu państwowy powiatowy inspektor sanitarny;
+- **2)** osoby, o których mowa w ust. 1 pkt 4 kierujący szkołą albo rektor uczelni lub osoba przez nich upoważniona;
+- **3)** osoby, o których mowa w ust. 1 pkt 5 pracodawca albo zlecający wykonanie prac.
 
 2a. W przypadku osób poszukujących zatrudnienia lub innej pracy zarobkowej, przy wykonywaniu której istnieje możliwość przeniesienia zakażenia lub choroby zakaźnej na inne osoby, badanie sanitarno-epidemiologiczne jest wykonywane na wniosek tej osoby. Osoba poddająca się badaniu wskazuje, jakiego rodzaju prac ma dotyczyć badanie sanitarno-epidemiologiczne i wydawane na jego podstawie orzeczenie lekarskie dla celów sanitarno-epidemiologicznych.
 
@@ -174,7 +236,7 @@ Art. 55–63. (pominięte)
 - **3)** sposób dokumentowania badań oraz sposób dokumentowania wyników tych badań,
 - **4)** wzór karty badań dla celów sanitarno-epidemiologicznych i wzór orzeczenia lekarskiego, o których mowa w art. 7 ust. 2 i 3,
 - **5)** rodzaje prac, przy wykonywaniu których istnieje możliwość przeniesienia zakażenia lub choroby zakaźnej na inne osoby,
-- **6)** sposób postępowania z osobą, u której stwierdzono przeciwwskazania do wykonywania prac, o których mowa w pkt 5 – mając na uwadze ochronę zdrowia publicznego oraz uwzględniając rodzaje zakażeń i chorób zakaźnych, wywołujące je biologiczne czynniki chorobotwórcze i drogi ich szerzenia się.
+- **6)** sposób postępowania z osobą, u której stwierdzono przeciwwskazania do wykonywania prac, o których mowa w pkt 5 mając na uwadze ochronę zdrowia publicznego oraz uwzględniając rodzaje zakażeń i chorób zakaźnych, wywołujące je biologiczne czynniki chorobotwórcze i drogi ich szerzenia się.
 
 #### Rozdział 3 Zakażenia związane z udzielaniem świadczeń zdrowotnych oraz innych czynności, w trakcie wykonywania których dochodzi do naruszenia ciągłości tkanek ludzkich
 
@@ -186,11 +248,9 @@ Art. 55–63. (pominięte)
 
 - **1)** ocenę ryzyka wystąpienia zakażenia związanego z wykonywaniem świadczeń zdrowotnych;
 - **2)** monitorowanie czynników alarmowych i zakażeń związanych z udzielaniem świadczeń zdrowotnych w zakresie wykonywanych świadczeń;
-- **3)** opracowanie, wdrożenie i nadzór nad procedurami zapobiegającymi zakażeniom i chorobom zakaźnym związanym z udzielaniem świadczeń zdrowotnych, w tym dekontaminacji: w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z
+- **3)** opracowanie, wdrożenie i nadzór nad procedurami zapobiegającymi zakażeniom i chorobom zakaźnym związanym z udzielaniem świadczeń zdrowotnych, w tym dekontaminacji:
     - **a)** skóry i błon śluzowych lub innych tkanek,
-    - **b)** wyrobów medycznych, wyposażenia wyrobów medycznych, systemów i zestawów zabiegowych, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r.
-
-05. 05.2017, str. 1, z późn. zm. ), oraz wyrobów medycznych do diagnostyki in vitro i wyposażenia wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. ), zwanych dalej „wyrobami medycznymi”, oraz powierzchni pomieszczeń i urządzeń;
+    - **b)** wyrobów medycznych, wyposażenia wyrobów medycznych, systemów i zestawów zabiegowych, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ), oraz wyrobów medycznych do diagnostyki in vitro i wyposażenia wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. ), zwanych dalej „wyrobami medycznymi”, oraz powierzchni pomieszczeń i urządzeń;
 
 - **4)** stosowanie środków ochrony indywidualnej i zbiorowej w celu zapobieżenia przeniesieniu na inne osoby biologicznych czynników chorobotwórczych;
 - **5)** wykonywanie badań laboratoryjnych oraz analizę lokalnej sytuacji epidemiologicznej w celu optymalizacji profilaktyki i terapii antybiotykowej;
@@ -239,7 +299,7 @@ Art. 55–63. (pominięte)
 
 - **1)** imię i nazwisko;
 - **2)** datę urodzenia;
-- **3)** numer PESEL, a w przypadku gdy osobie nie nadano tego numeru – serię i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego jest możliwe ustalenie danych osobowych;
+- **3)** numer PESEL, a w przypadku gdy osobie nie nadano tego numeru serię i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego jest możliwe ustalenie danych osobowych;
 - **4)** płeć;
 - **5)** adres miejsca zamieszkania;
 - **6)** rozpoznanie kliniczne zakażenia szpitalnego lub czynnika alarmowego oraz charakterystykę podstawowych objawów klinicznych oraz okoliczności wystąpienia zakażenia, zachorowania lub zgonu z powodu zakażenia szpitalnego lub czynnika alarmowego, ze szczególnym uwzględnieniem czynników ryzyka oraz charakterystyki biologicznego czynnika chorobotwórczego, oraz inne informacje niezbędne do sprawowania nadzoru epidemiologicznego, zgodnie z zasadami współczesnej wiedzy medycznej.
@@ -250,7 +310,7 @@ Art. 55–63. (pominięte)
 
 - **1)** listę czynników alarmowych,
 - **2)** sposób prowadzenia rejestru zakażeń szpitalnych i czynników alarmowych, udostępniania danych nim objętych oraz okres ich przechowywania,
-- **3)** wzory oraz sposób sporządzania raportów o bieżącej sytuacji epidemiologicznej szpitala, o których mowa w ust. 1 pkt 5, oraz tryb i terminy ich przekazywania właściwemu państwowemu inspektorowi sanitarnemu – mając na względzie zapewnienie skuteczności zapobiegania szerzeniu się zakażeń i chorób zakaźnych oraz cele nadzoru epidemiologicznego.
+- **3)** wzory oraz sposób sporządzania raportów o bieżącej sytuacji epidemiologicznej szpitala, o których mowa w ust. 1 pkt 5, oraz tryb i terminy ich przekazywania właściwemu państwowemu inspektorowi sanitarnemu mając na względzie zapewnienie skuteczności zapobiegania szerzeniu się zakażeń i chorób zakaźnych oraz cele nadzoru epidemiologicznego.
 
 **Art. 15.**
 
@@ -269,7 +329,7 @@ Art. 55–63. (pominięte)
 
 3. W skład komitetu kontroli zakażeń szpitalnych wchodzą pracownicy szpitala:
 
-- **1)** kierownik szpitala lub jego przedstawiciel oraz wyznaczeni przez niego kierownicy komórek organizacyjnych szpitala, w tym działu diagnostyki mikrobiologicznej, centralnej sterylizatorni, apteki szpitalnej – jeżeli szpital posiada takie komórki organizacyjne;
+- **1)** kierownik szpitala lub jego przedstawiciel oraz wyznaczeni przez niego kierownicy komórek organizacyjnych szpitala, w tym działu diagnostyki mikrobiologicznej, centralnej sterylizatorni, apteki szpitalnej jeżeli szpital posiada takie komórki organizacyjne;
 - **2)** przewodniczący oraz członkowie zespołu kontroli zakażeń szpitalnych;
 - **3)** osoba kierująca pracą pielęgniarek w szpitalu;
 - **4)** lekarz wykonujący zadania służby medycyny pracy w rozumieniu przepisów ustawy z dnia 27 czerwca 1997 r. o służbie medycyny pracy.
@@ -322,20 +382,20 @@ Art. 55–63. (pominięte)
 9b. Lekarz sprawujący profilaktyczną opiekę zdrowotną nad osobą małoletnią przekazuje państwowemu powiatowemu inspektorowi sanitarnemu, właściwemu dla miejsca udzielania świadczeń opieki zdrowotnej, imienny wykaz:
 
 - **1)** osób małoletnich objętych obowiązkowymi szczepieniami ochronnymi, które nie były poddane lekarskiemu badaniu kwalifikacyjnemu albo u których nie zostały przeprowadzone obowiązkowe szczepienia ochronne, mimo niestwierdzenia u nich przeciwwskazań do szczepienia,
-- **2)** osób sprawujących prawną pieczę nad osobą małoletnią, o której mowa w pkt 1, o ile jest to możliwe do ustalenia – zwany dalej „raportem o przypadkach niewykonania obowiązkowych szczepień ochronnych”.
+- **2)** osób sprawujących prawną pieczę nad osobą małoletnią, o której mowa w pkt 1, o ile jest to możliwe do ustalenia zwany dalej „raportem o przypadkach niewykonania obowiązkowych szczepień ochronnych”.
 
 9c. Raport o przypadkach niewykonania obowiązkowych szczepień ochronnych zawiera dane:
 
 - **1)** osoby małoletniej, o której mowa w ust. 9b pkt 1:
     - **a)** imię i nazwisko,
     - **b)** datę urodzenia,
-    - **c)** numer PESEL, a w przypadku jego braku – rodzaj i numer dokumentu potwierdzającego tożsamość,
+    - **c)** numer PESEL, a w przypadku jego braku rodzaj i numer dokumentu potwierdzającego tożsamość,
     - **d)** adres miejsca zamieszkania,
-    - **e)** rodzaj i liczbę niewykonanych obowiązkowych szczepień ochronnych wraz ze wskazaniem przyczyn niewykonania tych szczepień – o ile są znane;
+    - **e)** rodzaj i liczbę niewykonanych obowiązkowych szczepień ochronnych wraz ze wskazaniem przyczyn niewykonania tych szczepień o ile są znane;
 
 - **2)** osób, o których mowa w ust. 9b pkt 2:
     - **a)** imię i nazwisko,
-    - **b)** numer PESEL, a w przypadku jego braku – rodzaj i numer dokumentu potwierdzającego tożsamość,
+    - **b)** numer PESEL, a w przypadku jego braku rodzaj i numer dokumentu potwierdzającego tożsamość,
     - **c)** adres miejsca zamieszkania.
 
 10. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
@@ -348,34 +408,34 @@ Art. 55–63. (pominięte)
 - **6)** wzory zaświadczenia, o którym mowa w ust. 4, książeczki szczepień oraz karty uodpornienia,
 - **7)** sposób prowadzenia dokumentacji, o której mowa w ust. 8 pkt 1, i jej obiegu,
 - **8)** wzory sprawozdań z przeprowadzonych obowiązkowych szczepień ochronnych oraz tryb i terminy ich przekazywania,
-- **9)** papierową lub elektroniczną formę raportu o przypadkach niewykonania obowiązkowych szczepień ochronnych oraz terminy i sposób jego przekazywania – uwzględniając dane epidemiologiczne dotyczące zachorowań, aktualną wiedzę medyczną oraz zalecenia Światowej Organizacji Zdrowia.
+- **9)** papierową lub elektroniczną formę raportu o przypadkach niewykonania obowiązkowych szczepień ochronnych oraz terminy i sposób jego przekazywania uwzględniając dane epidemiologiczne dotyczące zachorowań, aktualną wiedzę medyczną oraz zalecenia Światowej Organizacji Zdrowia.
 
 11. Główny Inspektor Sanitarny ogłasza w formie komunikatu, w dzienniku urzędowym ministra właściwego do spraw zdrowia, Program Szczepień Ochronnych na dany rok, ze szczegółowymi wskazaniami dotyczącymi stosowania poszczególnych szczepionek, wynikającymi z aktualnej sytuacji epidemiologicznej, przepisów wydanych na podstawie ust. 10 i art. 19 ust. 10 oraz zaleceń, w terminie do dnia 31 października roku poprzedzającego realizację tego programu.
 
 **Art. 17a.**
 
-1. W przypadku gdy w wyniku szczepienia ochronnego, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 4 pkt 2, art. 17 ust. 10 albo art. 46 ust. 4 pkt 7, u osoby, u której zostało przeprowadzone to szczepienie, wystąpiły w ciągu 5 lat od dnia podania szczepionki albo szczepionek działania niepożądane wymienione w Charakterystyce Produktu Leczniczego, o której mowa w ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne, w wyniku których:
+1. W przypadku gdy w wyniku szczepienia ochronnego, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 4 pkt 2, art. 17 ust. 10 albo art. 46 ust. 4 pkt 7, u osoby, u której zostało przeprowadzone to szczepienie, wystąpiły w ciągu 5 lat od dnia podania szczepionki albo szczepionek działania niepożądane wymienione w Charakterystyce Produktu Leczniczego, o której mowa w ustawie z dnia 6 września 2001 r. Prawo farmaceutyczne, w wyniku których:
 
 - **1)** osoba ta wymagała hospitalizacji przez okres nie krótszy niż 14 dni albo
-- **2)** u osoby tej wystąpił wstrząs anafilaktyczny powodujący konieczność obserwacji w szpitalnym oddziale ratunkowym lub izbie przyjęć albo hospitalizacji przez okres krótszy niż 14 dni – osobie tej przysługuje świadczenie kompensacyjne wypłacane z Funduszu Kompensacyjnego Szczepień Ochronnych, zwanego dalej „Funduszem”.
+- **2)** u osoby tej wystąpił wstrząs anafilaktyczny powodujący konieczność obserwacji w szpitalnym oddziale ratunkowym lub izbie przyjęć albo hospitalizacji przez okres krótszy niż 14 dni osobie tej przysługuje świadczenie kompensacyjne wypłacane z Funduszu Kompensacyjnego Szczepień Ochronnych, zwanego dalej „Funduszem”.
 
 2. Świadczenie kompensacyjne wynosi w przypadku:
 
-- **1)** obserwacji w szpitalnym oddziale ratunkowym lub izbie przyjęć w związku z wystąpieniem wstrząsu anafilaktycznego – 3000 zł;
-- **2)** hospitalizacji w związku z wystąpieniem wstrząsu anafilaktycznego trwającej krócej niż 14 dni – 10 000 zł;
-- **3)** hospitalizacji trwającej od 14 do 30 dni – od 10 000 zł do 20 000 zł proporcjonalnie do okresu hospitalizacji;
-- **4)** hospitalizacji trwającej od 31 do 50 dni – od 21 000 zł do 35 000 zł proporcjonalnie do okresu hospitalizacji;
-- **5)** hospitalizacji trwającej od 51 do 70 dni – od 36 000 zł do 50 000 zł proporcjonalnie do okresu hospitalizacji;
-- **6)** hospitalizacji trwającej od 71 do 90 dni – od 51 000 zł do 65 000 zł proporcjonalnie do okresu hospitalizacji;
-- **7)** hospitalizacji trwającej od 91 do 120 dni – od 66 000 zł do 89 000 zł proporcjonalnie do okresu hospitalizacji;
-- **8)** hospitalizacji trwającej powyżej 120 dni – 100 000 zł.
+- **1)** obserwacji w szpitalnym oddziale ratunkowym lub izbie przyjęć w związku z wystąpieniem wstrząsu anafilaktycznego 3000 zł;
+- **2)** hospitalizacji w związku z wystąpieniem wstrząsu anafilaktycznego trwającej krócej niż 14 dni 10 000 zł;
+- **3)** hospitalizacji trwającej od 14 do 30 dni od 10 000 zł do 20 000 zł proporcjonalnie do okresu hospitalizacji;
+- **4)** hospitalizacji trwającej od 31 do 50 dni od 21 000 zł do 35 000 zł proporcjonalnie do okresu hospitalizacji;
+- **5)** hospitalizacji trwającej od 51 do 70 dni od 36 000 zł do 50 000 zł proporcjonalnie do okresu hospitalizacji;
+- **6)** hospitalizacji trwającej od 71 do 90 dni od 51 000 zł do 65 000 zł proporcjonalnie do okresu hospitalizacji;
+- **7)** hospitalizacji trwającej od 91 do 120 dni od 66 000 zł do 89 000 zł proporcjonalnie do okresu hospitalizacji;
+- **8)** hospitalizacji trwającej powyżej 120 dni 100 000 zł.
 
 3. Świadczenie kompensacyjne jest dodatkowo podwyższane w przypadku:
 
-- **1)** zabiegu operacyjnego w znieczuleniu ogólnym – o 15 000 zł;
-- **2)** innego niż określony w pkt 1 zabiegu operacyjnego albo metody leczenia lub diagnostyki stwarzającej podwyższone ryzyko – o 5000 zł;
-- **3)** hospitalizacji na oddziale intensywnej terapii lub intensywnej opieki medycznej trwającej co najmniej 7 dni – o 10 000 zł;
-- **4)** hospitalizacji na oddziale intensywnej terapii lub intensywnej opieki medycznej trwającej dłużej niż 30 dni – o 20 000 zł.
+- **1)** zabiegu operacyjnego w znieczuleniu ogólnym o 15 000 zł;
+- **2)** innego niż określony w pkt 1 zabiegu operacyjnego albo metody leczenia lub diagnostyki stwarzającej podwyższone ryzyko o 5000 zł;
+- **3)** hospitalizacji na oddziale intensywnej terapii lub intensywnej opieki medycznej trwającej co najmniej 7 dni o 10 000 zł;
+- **4)** hospitalizacji na oddziale intensywnej terapii lub intensywnej opieki medycznej trwającej dłużej niż 30 dni o 20 000 zł.
 
 4. Świadczenie kompensacyjne obejmuje również zwrot kosztów dalszego leczenia lub rehabilitacji po zakończeniu obserwacji lub hospitalizacji, w kwocie nie wyższej niż 10 000 zł.
 
@@ -433,13 +493,13 @@ Art. 55–63. (pominięte)
 
 1. Postępowanie w sprawie przyznania świadczenia kompensacyjnego jest prowadzone przez Rzecznika Praw Pacjenta.
 
-2. Przy Rzeczniku Praw Pacjenta działa Zespół do spraw Świadczeń z Funduszu Kompensacyjnego Szczepień Ochronnych, zwany dalej „Zespołem”, do którego zadań należy wydawanie, w toku postępowania w sprawie przyznania świadczenia kompensacyjnego, opinii dotyczących wystąpienia działania niepożądanego wymienionego w Charakterystyce Produktu Leczniczego, o której mowa w ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne, po podanej szczepionce albo podanych szczepionkach i jego skutków.
+2. Przy Rzeczniku Praw Pacjenta działa Zespół do spraw Świadczeń z Funduszu Kompensacyjnego Szczepień Ochronnych, zwany dalej „Zespołem”, do którego zadań należy wydawanie, w toku postępowania w sprawie przyznania świadczenia kompensacyjnego, opinii dotyczących wystąpienia działania niepożądanego wymienionego w Charakterystyce Produktu Leczniczego, o której mowa w ustawie z dnia 6 września 2001 r. Prawo farmaceutyczne, po podanej szczepionce albo podanych szczepionkach i jego skutków.
 
 3. Obsługę administracyjną Zespołu zapewnia Rzecznik Praw Pacjenta.
 
 4. W skład Zespołu wchodzi osoba, która:
 
-- **1)** posiada prawo wykonywania zawodu lekarza i tytuł specjalisty w dziedzinie chorób zakaźnych, pediatrii, alergologii, neurologii, chirurgii ogólnej, kardiologii lub w dziedzinie chorób płuc, a w przypadku braku kandydatów posiadających tytuł specjalisty w tych dziedzinach – w dziedzinie pokrewnej;
+- **1)** posiada prawo wykonywania zawodu lekarza i tytuł specjalisty w dziedzinie chorób zakaźnych, pediatrii, alergologii, neurologii, chirurgii ogólnej, kardiologii lub w dziedzinie chorób płuc, a w przypadku braku kandydatów posiadających tytuł specjalisty w tych dziedzinach w dziedzinie pokrewnej;
 - **2)** przez ostatnie 5 lat poprzedzających powołanie w skład Zespołu udzielała świadczeń opieki zdrowotnej lub prowadziła prace badawcze w dziedzinie nauk medycznych i nauk o zdrowiu;
 - **3)** posiada wiedzę w zakresie szczepień ochronnych dającą rękojmię prawidłowego wykonywania zadań członka Zespołu.
 
@@ -464,7 +524,7 @@ Art. 55–63. (pominięte)
 
 11. Kandydat na członka Zespołu i członek Zespołu przed podjęciem wykonywania zadań oraz przed każdym posiedzeniem Zespołu składa Rzecznikowi Praw Pacjenta pisemne oświadczenie o braku konfliktu interesów, dotyczące jego samego oraz jego małżonka, zstępnych i wstępnych w linii prostej, a także osób, z którymi pozostaje we wspólnym pożyciu, oraz wykazuje, że nie są:
 
-- **1)** członkami organów spółek handlowych lub przedstawicielami przedsiębiorców wykonujących działalność gospodarczą w zakresie wytwarzania produktu leczniczego będącego produktem immunologicznym w rozumieniu art. 2 pkt 30 lit. a ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne lub obrotu tym produktem;
+- **1)** członkami organów spółek handlowych lub przedstawicielami przedsiębiorców wykonujących działalność gospodarczą w zakresie wytwarzania produktu leczniczego będącego produktem immunologicznym w rozumieniu art. 2 pkt 30 lit. a ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne lub obrotu tym produktem;
 - **2)** członkami organów spółek handlowych lub przedstawicielami przedsiębiorców wykonujących działalność gospodarczą w zakresie doradztwa związanego z wytwarzaniem lub obrotem, o którym mowa w pkt 1;
 - **3)** członkami organów spółdzielni, stowarzyszeń lub fundacji wykonujących działalność, o której mowa w pkt 1 i 2;
 - **4)** posiadaczami akcji lub udziałów w spółkach handlowych wykonujących działalność, o której mowa w pkt 1 i 2, lub udziałów w spółdzielniach wykonujących działalność, o której mowa w pkt 1 i 2;
@@ -472,7 +532,7 @@ Art. 55–63. (pominięte)
 
 12. Oświadczenia, o których mowa w ust. 10 i 11, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenia jest obowiązany do zawarcia w nich klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-13. Członek Zespołu podlega wyłączeniu na zasadach i w trybie określonych w art. 24 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769). Członek Zespołu podlega wyłączeniu także wtedy, gdy okoliczności, o których mowa we wskazanym przepisie, odnoszą się do przedsiębiorcy prowadzącego działalność gospodarczą w zakresie wytwarzania szczepionki lub obrotu szczepionką, której działania niepożądanego dotyczy postępowanie w sprawie przyznania świadczenia kompensacyjnego.
+13. Członek Zespołu podlega wyłączeniu na zasadach i w trybie określonych w art. 24 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769). Członek Zespołu podlega wyłączeniu także wtedy, gdy okoliczności, o których mowa we wskazanym przepisie, odnoszą się do przedsiębiorcy prowadzącego działalność gospodarczą w zakresie wytwarzania szczepionki lub obrotu szczepionką, której działania niepożądanego dotyczy postępowanie w sprawie przyznania świadczenia kompensacyjnego.
 
 14. Przewodniczącego Zespołu wyznacza spośród jego członków Rzecznik Praw Pacjenta.
 
@@ -489,11 +549,11 @@ Art. 55–63. (pominięte)
 
 1. Wniosek o przyznanie świadczenia kompensacyjnego wnosi się do Rzecznika Praw Pacjenta.
 
-2. Osobą uprawnioną do złożenia wniosku o przyznanie świadczenia kompensacyjnego jest osoba, o której mowa w art. 17a ust. 1, a w przypadku osoby zaszczepionej, która nie może samodzielnie wystąpić z wnioskiem – jej przedstawiciel ustawowy.
+2. Osobą uprawnioną do złożenia wniosku o przyznanie świadczenia kompensacyjnego jest osoba, o której mowa w art. 17a ust. 1, a w przypadku osoby zaszczepionej, która nie może samodzielnie wystąpić z wnioskiem jej przedstawiciel ustawowy.
 
 3. Wniosek o przyznanie świadczenia kompensacyjnego może być złożony w terminie roku od dnia, który był ostatnim dniem obserwacji albo hospitalizacji, o których mowa w art. 17a ust. 1, nie później niż po upływie 5 lat od dnia przeprowadzenia szczepienia ochronnego, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 4 pkt 2, art. 17 ust. 10 albo art. 46 ust. 4 pkt 7.
 
-4. W przypadku aktualizacji Charakterystyki Produktu Leczniczego, o której mowa w ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne, podanej szczepionki albo podanych szczepionek, polegającej na dodaniu niewymienionego w niej wcześniej działania niepożądanego, wniosek o przyznanie świadczenia kompensacyjnego dotyczącego takiego działania niepożądanego może być złożony w terminie roku od dnia dokonania tej aktualizacji, jednak nie później niż po upływie 5 lat od dnia przeprowadzenia szczepienia ochronnego, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 4 pkt 2, art. 17 ust. 10 albo art. 46 ust. 4 pkt 7.
+4. W przypadku aktualizacji Charakterystyki Produktu Leczniczego, o której mowa w ustawie z dnia 6 września 2001 r. Prawo farmaceutyczne, podanej szczepionki albo podanych szczepionek, polegającej na dodaniu niewymienionego w niej wcześniej działania niepożądanego, wniosek o przyznanie świadczenia kompensacyjnego dotyczącego takiego działania niepożądanego może być złożony w terminie roku od dnia dokonania tej aktualizacji, jednak nie później niż po upływie 5 lat od dnia przeprowadzenia szczepienia ochronnego, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 4 pkt 2, art. 17 ust. 10 albo art. 46 ust. 4 pkt 7.
 
 5. Złożenie wniosku o przyznanie świadczenia kompensacyjnego podlega opłacie w wysokości 200 zł. Opłatę uiszcza się na rachunek bankowy Funduszu.
 
@@ -510,7 +570,7 @@ Art. 55–63. (pominięte)
 - **1)** dane wnioskodawcy:
     - **a)** imię i nazwisko,
     - **b)** datę urodzenia,
-    - **c)** numer PESEL, a w przypadku gdy osobie nie nadano tego numeru – serię i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego jest możliwe ustalenie danych osobowych;
+    - **c)** numer PESEL, a w przypadku gdy osobie nie nadano tego numeru serię i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego jest możliwe ustalenie danych osobowych;
 
 - **2)** imię i nazwisko przedstawiciela ustawowego, jeżeli dotyczy;
 - **3)** adres korespondencyjny;
@@ -554,7 +614,7 @@ Art. 55–63. (pominięte)
 
 3. Zespół przetwarza dokumentację gromadzoną w związku z postępowaniem w sprawie przyznania świadczenia kompensacyjnego w zakresie koniecznym do sporządzenia opinii, o której mowa w art. 17d ust. 2.
 
-4. Zawarte w dokumentacji, o której mowa w ust. 1, jednostkowe dane medyczne dotyczące osoby, o której mowa w art. 17a ust. 1, mogą być w celu prowadzenia analiz obejmujących porównywanie tych danych z danymi zawartymi w rejestrze zgłoszeń niepożądanych odczynów poszczepiennych, o których mowa w art. 21 ust. 3 pkt 2 – udostępniane przez Rzecznika Praw Pacjenta:
+4. Zawarte w dokumentacji, o której mowa w ust. 1, jednostkowe dane medyczne dotyczące osoby, o której mowa w art. 17a ust. 1, mogą być w celu prowadzenia analiz obejmujących porównywanie tych danych z danymi zawartymi w rejestrze zgłoszeń niepożądanych odczynów poszczepiennych, o których mowa w art. 21 ust. 3 pkt 2 udostępniane przez Rzecznika Praw Pacjenta:
 
 - **1)** państwowym powiatowym inspektorom sanitarnym;
 - **2)** krajowej specjalistycznej jednostce, o której mowa w art. 30 ust. 1, wskazanej przez Głównego Inspektora Sanitarnego jako właściwej ze względu na rodzaj zakażenia lub choroby zakaźnej.
@@ -563,7 +623,7 @@ Art. 55–63. (pominięte)
 
 - **1)** imię i nazwisko;
 - **2)** datę urodzenia;
-- **3)** numer PESEL, a w przypadku gdy osobie nie nadano tego numeru – serię i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego jest możliwe ustalenie danych osobowych;
+- **3)** numer PESEL, a w przypadku gdy osobie nie nadano tego numeru serię i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego jest możliwe ustalenie danych osobowych;
 - **4)** adres miejsca zamieszkania;
 - **5)** dane o stanie zdrowia oraz inne informacje niezbędne do sprawowania nadzoru nad występowaniem odczynów poszczepiennych, zgodnie ze współczesną wiedzą medyczną.
 
@@ -619,7 +679,7 @@ Art. 55–63. (pominięte)
 
 6a. Podmiotami obowiązanymi do sporządzania ilościowego zapotrzebowania na szczepionki służące do przeprowadzania obowiązkowych szczepień ochronnych wraz z harmonogramem dostaw szczepionek oraz do sporządzania raportów o rodzajach, liczbie, numerach seryjnych oraz terminach ważności posiadanych szczepionek są organy Państwowej Inspekcji Sanitarnej. Podmiotem obowiązanym do wykonywania sprawozdawczości z realizacji harmonogramów dostaw szczepionek jest dystrybutor centralny wyznaczony przez ministra właściwego do spraw zdrowia.
 
-6b. Podmiotami odpowiedzialnymi za dystrybucję i przechowywanie szczepionek służących do przeprowadzania obowiązkowych szczepień ochronnych oraz szczepionek, o których mowa w ust. 5a, od których wymaga się przestrzegania Dobrej Praktyki Dystrybucyjnej w rozumieniu przepisów prawa farmaceutycznego i bezpieczeństwa obrotu szczepionkami, są: dystrybutor centralny wyznaczony przez ministra właściwego do spraw zdrowia, wojewódzkie stacje sanitarnoepidemiologiczne i powiatowe stacje sanitarno-epidemiologiczne.
+6b. Podmiotami odpowiedzialnymi za dystrybucję i przechowywanie szczepionek służących do przeprowadzania obowiązkowych szczepień ochronnych oraz szczepionek, o których mowa w ust. 5a, od których wymaga się przestrzegania Dobrej Praktyki Dystrybucyjnej w rozumieniu przepisów prawa farmaceutycznego i bezpieczeństwa obrotu szczepionkami, są: dystrybutor centralny wyznaczony przez ministra właściwego do spraw zdrowia, wojewódzkie stacje sanitarno-epidemiologiczne i powiatowe stacje sanitarno-epidemiologiczne.
 
 7. (uchylony)
 
@@ -633,7 +693,7 @@ Art. 55–63. (pominięte)
 
 - **1)** podmioty zobowiązane do sporządzania ilościowego zapotrzebowania na szczepionki służące do przeprowadzania szczepień obowiązkowych wraz z harmonogramem dostaw szczepionek, przechowywania i dystrybucji tych szczepionek,
 - **2)** zadania w zakresie sporządzania ilościowego zapotrzebowania na szczepionki służące do przeprowadzania szczepień obowiązkowych wraz z harmonogramem dostaw, przechowywania i dystrybucji szczepionek służących do przeprowadzania szczepień obowiązkowych wraz ze wskazaniem podmiotów odpowiedzialnych za ich realizację oraz sprawozdawczości z realizacji raportów z rodzajów, liczby posiadanych szczepionek, numerów seryjnych oraz terminów ważności,
-- **3)** sposób i terminy wykonywania zadań, o których mowa w pkt 2 – mając na względzie konieczność stworzenia stałego systemu zaopatrzenia w szczepionki służące do przeprowadzania szczepień obowiązkowych podmiotów przechowujących i przeprowadzających szczepienia ochronne oraz wymagania Dobrej Praktyki Dystrybucyjnej w rozumieniu przepisów prawa farmaceutycznego i bezpieczeństwa obrotu szczepionkami.
+- **3)** sposób i terminy wykonywania zadań, o których mowa w pkt 2 mając na względzie konieczność stworzenia stałego systemu zaopatrzenia w szczepionki służące do przeprowadzania szczepień obowiązkowych podmiotów przechowujących i przeprowadzających szczepienia ochronne oraz wymagania Dobrej Praktyki Dystrybucyjnej w rozumieniu przepisów prawa farmaceutycznego i bezpieczeństwa obrotu szczepionkami.
 
 **Art. 18a.**
 
@@ -648,7 +708,7 @@ Art. 55–63. (pominięte)
 - **1)** skład, wielkość i sposób przechowywania rezerwy, o której mowa w ust. 1,
 - **2)** tryb uruchamiania rezerwy, o której mowa w ust. 1,
 - **3)** sposób dystrybucji produktów leczniczych uruchomionych z rezerwy, o której mowa w ust. 1,
-- **4)** sposób postępowania z produktami leczniczymi, o których mowa w ust. 2, stanowiącymi rezerwę, o której mowa w ust. 1, dla których kończą się terminy ważności – uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego.
+- **4)** sposób postępowania z produktami leczniczymi, o których mowa w ust. 2, stanowiącymi rezerwę, o której mowa w ust. 1, dla których kończą się terminy ważności uwzględniając konieczność zapewnienia bezpieczeństwa zdrowotnego.
 
 **Art. 19.**
 
@@ -656,7 +716,7 @@ Art. 55–63. (pominięte)
 
 2. Zalecane szczepienia ochronne i lekarskie badania kwalifikacyjne ubezpieczonych przeprowadzają świadczeniodawcy, z którymi Narodowy Fundusz Zdrowia zawarł umowę o udzielanie tych świadczeń.
 
-2a. Przeprowadzenie u pacjenta w aptece szczepienia ochronnego na podstawie art. 86 ust. 8a ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, a w przypadku wykonania w tej aptece, przez zatrudnionego w niej farmaceutę, badania kwalifikacyjnego, o którym mowa w ust. 5a, poprzedzającego przeprowadzenie szczepienia – również wykonanie tego badania, podlegają finansowaniu ze środków Funduszu.
+2a. Przeprowadzenie u pacjenta w aptece szczepienia ochronnego na podstawie art. 86 ust. 8a ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne, a w przypadku wykonania w tej aptece, przez zatrudnionego w niej farmaceutę, badania kwalifikacyjnego, o którym mowa w ust. 5a, poprzedzającego przeprowadzenie szczepienia również wykonanie tego badania, podlegają finansowaniu ze środków Funduszu.
 
 2b. Minister właściwy do spraw zdrowia ogłasza, w drodze obwieszczenia, szczepienia ochronne przeprowadzane w aptece, które mogą być w całości lub w części finansowane ze środków publicznych.
 
@@ -673,12 +733,12 @@ Art. 55–63. (pominięte)
 
 5b. Zalecane szczepienie ochronne oraz szczepienie przeciw COVID-19 przeprowadza w przypadku:
 
-- **1)** osoby dorosłej – lekarz, lekarz dentysta, felczer, pielęgniarka, położna, higienistka szkolna, ratownik medyczny, fizjoterapeuta, diagnosta laboratoryjny albo farmaceuta,
-- **2)** osoby do ukończenia 18. roku życia – lekarz, felczer, pielęgniarka, położna, higienistka szkolna lub ratownik medyczny – posiadający kwalifikacje określone w przepisach wydanych na podstawie art. 17 ust. 10 pkt 3 albo przepisach wydanych na podstawie art. 76 pkt 1 ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty (Dz. U. z 2025 r. poz. 608) lub którzy ukończyli kurs teoretyczny i praktyczny do szczepień, którego program został zatwierdzony przez Centrum Medycznego Kształcenia Podyplomowego. 5ba. Farmaceuta przeprowadza zalecane szczepienie ochronne oraz szczepienie przeciw COVID-19 w przypadkach określonych w ust. 5b, jeżeli:
+- **1)** osoby dorosłej lekarz, lekarz dentysta, felczer, pielęgniarka, położna, higienistka szkolna, ratownik medyczny, fizjoterapeuta, diagnosta laboratoryjny albo farmaceuta,
+- **2)** osoby do ukończenia 18. roku życia lekarz, felczer, pielęgniarka, położna, higienistka szkolna lub ratownik medyczny posiadający kwalifikacje określone w przepisach wydanych na podstawie art. 17 ust. 10 pkt 3 albo przepisach wydanych na podstawie art. 76 pkt 1 ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty (Dz. U. z 2025 r. poz. 608) lub którzy ukończyli kurs teoretyczny i praktyczny do szczepień, którego program został zatwierdzony przez Centrum Medycznego Kształcenia Podyplomowego. 5ba. Farmaceuta przeprowadza zalecane szczepienie ochronne oraz szczepienie przeciw COVID-19 w przypadkach określonych w ust. 5b, jeżeli:
 - **1)** samodzielnie dokonał kwalifikacji, o której mowa w ust. 5a, w stosunku do pacjenta podlegającemu zaszczepieniu albo
 - **2)** kwalifikacji do szczepienia dokonał lekarz, felczer, lekarz dentysta i wystawił on receptę na szczepionkę.
 
-5c. W przypadku przeprowadzenia szczepienia na podstawie recepty farmaceutycznej, o której mowa w art. 96 ust. 4 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, osoba poddana szczepieniu ponosi jedynie koszt, o którym mowa w ust. 7.
+5c. W przypadku przeprowadzenia szczepienia na podstawie recepty farmaceutycznej, o której mowa w art. 96 ust. 4 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne, osoba poddana szczepieniu ponosi jedynie koszt, o którym mowa w ust. 7.
 
 6. Do przeprowadzania zalecanych szczepień ochronnych oraz szczepień przeciw COVID-19 stosuje się odpowiednio przepisy art. 17 ust. 3, z tym że w przypadku gdy badanie kwalifikacyjne dotyczy szczepienia zalecanego, nie stosuje się art. 17 ust. 5.
 
@@ -694,7 +754,7 @@ Art. 55–63. (pominięte)
 10. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
 - **1)** wykaz zalecanych szczepień ochronnych,
-- **2)** wzór Międzynarodowej Książeczki Szczepień oraz sposób jej wydawania i dokonywania w niej wpisów – uwzględniając zalecenia Światowej Organizacji Zdrowia i cele nadzoru epidemiologicznego.
+- **2)** wzór Międzynarodowej Książeczki Szczepień oraz sposób jej wydawania i dokonywania w niej wpisów uwzględniając zalecenia Światowej Organizacji Zdrowia i cele nadzoru epidemiologicznego.
 
 **Art. 20.**
 
@@ -714,7 +774,7 @@ Art. 55–63. (pominięte)
 
 - **1)** imię i nazwisko;
 - **2)** datę urodzenia;
-- **3)** numer PESEL, a w przypadku gdy osobie nie nadano tego numeru – serię i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego jest możliwe ustalenie danych osobowych;
+- **3)** numer PESEL, a w przypadku gdy osobie nie nadano tego numeru serię i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego jest możliwe ustalenie danych osobowych;
 - **4)** płeć;
 - **5)** adres miejsca zamieszkania;
 - **6)** dane o stanie zdrowia oraz inne informacje niezbędne do sprawowania nadzoru nad występowaniem odczynów poszczepiennych, zgodnie ze współczesną wiedzą medyczną.
@@ -732,7 +792,7 @@ Art. 55–63. (pominięte)
 
 - **1)** imię i nazwisko;
 - **2)** datę urodzenia;
-- **3)** numer PESEL, a w przypadku gdy osobie nie nadano tego numeru – serię i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego jest możliwe ustalenie danych osobowych;
+- **3)** numer PESEL, a w przypadku gdy osobie nie nadano tego numeru serię i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego jest możliwe ustalenie danych osobowych;
 - **4)** płeć;
 - **5)** adres miejsca zamieszkania;
 - **6)** dane o stanie zdrowia oraz inne informacje niezbędne do sprawowania nadzoru nad występowaniem odczynów poszczepiennych, zgodnie ze współczesną wiedzą medyczną;
@@ -747,7 +807,7 @@ Art. 55–63. (pominięte)
 - **1)** rodzaje niepożądanych odczynów poszczepiennych i kryteria ich rozpoznawania na potrzeby nadzoru epidemiologicznego,
 - **2)** sposób zgłaszania niepożądanych odczynów poszczepiennych,
 - **3)** wzory formularzy zgłoszeń niepożądanych odczynów poszczepiennych,
-- **4)** sposób prowadzenia rejestru zgłoszeń niepożądanych odczynów poszczepiennych, udostępniania danych nim objętych oraz okres ich przechowywania – mając na względzie jednolitość rodzajów rozpoznawanych niepożądanych odczynów poszczepiennych i zapewnienie skutecznego nadzoru epidemiologicznego w zakresie występowania tych odczynów.
+- **4)** sposób prowadzenia rejestru zgłoszeń niepożądanych odczynów poszczepiennych, udostępniania danych nim objętych oraz okres ich przechowywania mając na względzie jednolitość rodzajów rozpoznawanych niepożądanych odczynów poszczepiennych i zapewnienie skutecznego nadzoru epidemiologicznego w zakresie występowania tych odczynów.
 
 9. (uchylony)
 
@@ -756,7 +816,7 @@ Art. 55–63. (pominięte)
 1. Osoba przeprowadzająca:
 
 - **1)** badanie kwalifikacyjne,
-- **2)** szczepienie ochronne – może dokonywać wpisu do Karty Szczepień określonej w przepisach wydanych na podstawie art. 30 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, prowadzonej w postaci elektronicznej w systemie, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
+- **2)** szczepienie ochronne może dokonywać wpisu do Karty Szczepień określonej w przepisach wydanych na podstawie art. 30 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, prowadzonej w postaci elektronicznej w systemie, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
 
 2. Po przeprowadzonym badaniu kwalifikacyjnym osoba je przeprowadzająca dokonuje wpisu o tym badaniu do Karty Szczepień ze wskazaniem daty i godziny przeprowadzonego badania.
 
@@ -787,7 +847,7 @@ Art. 55–63. (pominięte)
 5. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
 - **1)** kwalifikacje osób przeprowadzających badanie kwalifikacyjne, o których mowa w ust. 1,
-- **2)** kwalifikacje osób przeprowadzających szczepienia ochronne przeciwko COVID-19, o których mowa w ust. 2 pkt 2 – uwzględniając konieczność zapewnienia bezpieczeństwa osób poddanych tym szczepieniom.
+- **2)** kwalifikacje osób przeprowadzających szczepienia ochronne przeciwko COVID-19, o których mowa w ust. 2 pkt 2 uwzględniając konieczność zapewnienia bezpieczeństwa osób poddanych tym szczepieniom.
 
 **Art. 21d.**
 
@@ -796,7 +856,7 @@ Art. 55–63. (pominięte)
 2. Skierowanie w postaci elektronicznej jest wystawiane przez:
 
 - **1)** system, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia,
-- **2)** lekarza za pośrednictwem systemu, o którym mowa w pkt 1 – zgodnie z kryteriami określonymi w przepisach wydanych na podstawie art. 3 ust. 4.
+- **2)** lekarza za pośrednictwem systemu, o którym mowa w pkt 1 zgodnie z kryteriami określonymi w przepisach wydanych na podstawie art. 3 ust. 4.
 
 2a. Skierowanie przechowuje się w systemie, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia. Dostęp do tego skierowania przysługuje usługodawcy w rozumieniu art. 2 pkt 15 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
 
@@ -817,8 +877,8 @@ Art. 55–63. (pominięte)
 2. Do systemu rejestracji dane o planowanych szczepieniach ochronnych przeciwko COVID-19:
 
 - **1)** wprowadza administrator systemu, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia;
-- **2)** wprowadza się w ramach działalności: o systemie informacji w ochronie zdrowia, wystawiającego skierowanie,
-    - **a)** usługodawcy w rozumieniu art. 2 pkt 15 ustawy z dnia 28 kwietnia 2011 r.
+- **2)** wprowadza się w ramach działalności:
+    - **a)** usługodawcy w rozumieniu art. 2 pkt 15 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, wystawiającego skierowanie,
     - **b)** punktu szczepień.
 
 3. Do systemu rejestracji dane o przeprowadzanych szczepieniach ochronnych przeciwko COVID-19 wprowadza się w ramach działalności punktu szczepień.
@@ -835,7 +895,7 @@ Art. 55–63. (pominięte)
 
 **Art. 21f.**
 
-1. Rejestracja na wykonanie szczepienia ochronnego przeciwko COVID-19 następuje w systemie rejestracji po udostępnieniu imienia i nazwiska oraz numeru PESEL osoby poddawanej temu szczepieniu, a w przypadku jego braku – numeru i serii dokumentu tożsamości wskazanego na skierowaniu, za pośrednictwem:
+1. Rejestracja na wykonanie szczepienia ochronnego przeciwko COVID-19 następuje w systemie rejestracji po udostępnieniu imienia i nazwiska oraz numeru PESEL osoby poddawanej temu szczepieniu, a w przypadku jego braku numeru i serii dokumentu tożsamości wskazanego na skierowaniu, za pośrednictwem:
 
 - **1)** Internetowego Konta Pacjenta, o którym mowa w art. 7a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, lub telefonicznie;
 - **2)** usługodawcy wystawiającego skierowanie;
@@ -861,7 +921,7 @@ Art. 55–63. (pominięte)
 - **1)** lokalizacji obiektów produkcyjnych, usługowych oraz handlowych,
 - **2)** minimalnej ilości i powierzchni oraz przeznaczenia pomieszczeń wchodzących w skład obiektów produkcyjnych, usługowych oraz handlowych,
 - **3)** procedur utrzymania czystości i dekontaminacji,
-- **4)** warunków produkcji, świadczenia usług i prowadzenia handlu – z uwzględnieniem rodzajów prowadzonej działalności, zapewniając ochronę osób korzystających z usług świadczonych przez te podmioty przed zakażeniami oraz chorobami zakaźnymi.
+- **4)** warunków produkcji, świadczenia usług i prowadzenia handlu z uwzględnieniem rodzajów prowadzonej działalności, zapewniając ochronę osób korzystających z usług świadczonych przez te podmioty przed zakażeniami oraz chorobami zakaźnymi.
 
 **Art. 23.**
 
@@ -872,7 +932,7 @@ Art. 55–63. (pominięte)
 - **1)** produkty, które z uwagi na swoje właściwości mogą stać się źródłem zakażenia,
 - **2)** sposoby postępowania z produktami, o których mowa w pkt 1,
 - **3)** wymogi sanitarne i higieniczne, które musi spełniać wprowadzany produkt,
-- **4)** wymogi, które muszą spełniać pomieszczenia, urządzenia i środki transportu służące do przechowywania i dystrybucji wprowadzanego produktu – mając na względzie zapobieganie szerzeniu się zakażeń i chorób zakaźnych, w związku z wprowadzaniem do obrotu produktów mogących stanowić źródło zakażenia.
+- **4)** wymogi, które muszą spełniać pomieszczenia, urządzenia i środki transportu służące do przechowywania i dystrybucji wprowadzanego produktu mając na względzie zapobieganie szerzeniu się zakażeń i chorób zakaźnych, w związku z wprowadzaniem do obrotu produktów mogących stanowić źródło zakażenia.
 
 #### Rozdział 6 Postępowanie w przypadku podejrzenia lub rozpoznania zakażenia lub choroby zakaźnej oraz w przypadku stwierdzenia zgonu z powodu choroby zakaźnej
 
@@ -884,7 +944,7 @@ Art. 55–63. (pominięte)
 
 - **1)** imię i nazwisko;
 - **2)** datę urodzenia;
-- **3)** numer PESEL, a w przypadku gdy osobie nie nadano tego numeru – serię i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego jest możliwe ustalenie danych osobowych;
+- **3)** numer PESEL, a w przypadku gdy osobie nie nadano tego numeru serię i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego jest możliwe ustalenie danych osobowych;
 - **4)** płeć;
 - **5)** adres miejsca zamieszkania;
 - **6)** rozpoznanie kliniczne zakażenia lub choroby zakaźnej, charakterystykę podstawowych objawów klinicznych, okoliczności wystąpienia zakażenia, zachorowania lub zgonu z powodu zakażenia lub choroby zakaźnej, ze szczególnym uwzględnieniem czynników ryzyka i charakterystyki biologicznego czynnika zakaźnego, oraz inne informacje niezbędne do sprawowania nadzoru epidemiologicznego, zgodnie z zasadami współczesnej wiedzy medycznej.
@@ -892,7 +952,7 @@ Art. 55–63. (pominięte)
 3. Minister właściwy do spraw zdrowia w porozumieniu z Ministrem Obrony Narodowej, ministrem właściwym do spraw wewnętrznych oraz ministrem właściwym do spraw rolnictwa określi, w drodze rozporządzenia:
 
 - **1)** wykaz zakażeń i chorób zakaźnych, o których mowa w ust. 2,
-- **2)** sposób udostępniania danych, o których mowa w ust. 2, oraz okres ich przechowywania – uwzględniając konieczność zapewnienia skutecznego nadzoru epidemiologicznego oraz zapobiegania i zwalczania zakażeń i chorób zakaźnych.
+- **2)** sposób udostępniania danych, o których mowa w ust. 2, oraz okres ich przechowywania uwzględniając konieczność zapewnienia skutecznego nadzoru epidemiologicznego oraz zapobiegania i zwalczania zakażeń i chorób zakaźnych.
 
 4. Organy Państwowej Inspekcji Sanitarnej, Inspekcji Weterynaryjnej oraz Inspekcji Ochrony Środowiska współdziałają w zakresie zwalczania zakażeń i chorób zakaźnych, które mogą być przenoszone ze zwierząt na ludzi lub z ludzi na zwierzęta.
 
@@ -900,7 +960,7 @@ Art. 55–63. (pominięte)
 
 - **1)** imię i nazwisko;
 - **2)** datę urodzenia;
-- **3)** numer PESEL, a w przypadku gdy osobie nie nadano tego numeru – serię i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego jest możliwe ustalenie danych osobowych;
+- **3)** numer PESEL, a w przypadku gdy osobie nie nadano tego numeru serię i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego jest możliwe ustalenie danych osobowych;
 - **4)** płeć;
 - **5)** adres miejsca zamieszkania;
 - **6)** rozpoznanie kliniczne zakażenia lub choroby zakaźnej, charakterystykę podstawowych objawów klinicznych, okoliczności wystąpienia zakażenia, zachorowania lub zgonu z powodu zakażenia lub choroby zakaźnej, ze szczególnym uwzględnieniem czynników ryzyka i charakterystyki biologicznego czynnika zakaźnego, oraz inne informacje niezbędne do sprawowania nadzoru epidemiologicznego, zgodnie z zasadami współczesnej wiedzy medycznej.
@@ -912,7 +972,7 @@ Art. 55–63. (pominięte)
 - **3)** terminy i sposoby przekazywania informacji epidemiologicznych oraz epizootycznych,
 - **4)** sposób udostępniania danych, o których mowa w ust. 5, oraz okres ich przechowywania,
 - **5)** sposób wykorzystania sił i środków posiadanych przez organy, o których mowa w ust. 4,
-- **6)** rodzaje badań laboratoryjnych wykonywanych przez organy, o których mowa w ust. 4 – mając na uwadze cele nadzoru epidemiologicznego i epizootiologicznego, skuteczność nadzoru epidemiologicznego i epizootiologicznego oraz ochronę zdrowia publicznego.
+- **6)** rodzaje badań laboratoryjnych wykonywanych przez organy, o których mowa w ust. 4 mając na uwadze cele nadzoru epidemiologicznego i epizootiologicznego, skuteczność nadzoru epidemiologicznego i epizootiologicznego oraz ochronę zdrowia publicznego.
 
 **Art. 25.**
 
@@ -952,7 +1012,7 @@ Art. 55–63. (pominięte)
 
 - **1)** imię i nazwisko;
 - **2)** datę urodzenia;
-- **3)** numer PESEL, a w przypadku gdy osobie nie nadano tego numeru – serię i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego jest możliwe ustalenie danych osobowych;
+- **3)** numer PESEL, a w przypadku gdy osobie nie nadano tego numeru serię i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego jest możliwe ustalenie danych osobowych;
 - **3a)** obywatelstwo;
 - **4)** płeć;
 - **5)** adres miejsca zamieszkania;
@@ -969,15 +1029,20 @@ Art. 55–63. (pominięte)
 - **1)** dowódca statku powietrznego za pośrednictwem instytucji zapewniających służby ruchu lotniczego,
 - **2)** kapitan statku morskiego osobiście lub za pośrednictwem Morskiej Służby Poszukiwania i Ratownictwa, agenta statku lub kapitanatu portu,
 - **3)** kierujący środkiem transportu drogowego,
-- **4)** pilot wycieczki lub przewodnik turystyczny – jest obowiązany do niezwłocznego zgłoszenia tego faktu, dostępnymi środkami łączności, państwowemu powiatowemu inspektorowi sanitarnemu lub państwowemu granicznemu inspektorowi sanitarnemu właściwemu dla planowanego miejsca przekroczenia granicy państwowej albo portu lotniczego lub morskiego, a jeżeli podejrzenie zachorowania na chorobę szczególnie niebezpieczną i wysoce zakaźną lub zgonu z powodu takiej choroby powzięto po przekroczeniu granicy państwowej – państwowemu powiatowemu inspektorowi sanitarnemu lub państwowemu granicznemu inspektorowi sanitarnemu właściwemu dla miejsca powzięcia podejrzenia zachorowania na taką chorobę lub zgonu z jej powodu.
+- **4)** pilot wycieczki lub przewodnik turystyczny jest obowiązany do niezwłocznego zgłoszenia tego faktu, dostępnymi środkami łączności, państwowemu powiatowemu inspektorowi sanitarnemu lub państwowemu granicznemu inspektorowi sanitarnemu właściwemu dla planowanego miejsca przekroczenia granicy państwowej albo portu lotniczego lub morskiego, a jeżeli podejrzenie zachorowania na chorobę szczególnie niebezpieczną i wysoce zakaźną lub zgonu z powodu takiej choroby powzięto po przekroczeniu granicy państwowej państwowemu powiatowemu inspektorowi sanitarnemu lub państwowemu granicznemu inspektorowi sanitarnemu właściwemu dla miejsca powzięcia podejrzenia zachorowania na taką chorobę lub zgonu z jej powodu.
 
 9. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
 - **1)** zakażenia i choroby zakaźne, w przypadku których podejrzenia lub rozpoznania zakażenia, choroby zakaźnej lub zgonu z ich powodu dokonywane są zgłoszenia, o którym mowa w ust. 1,
 - **2)** sposób dokonywania zgłoszeń podejrzenia lub rozpoznania zakażenia, choroby zakaźnej lub zgonu z powodu zakażenia lub choroby zakaźnej, o których mowa w ust. 1, oraz właściwych państwowych inspektorów sanitarnych, którym są przekazywane te zgłoszenia,
-- **3)** wzory formularzy zgłoszeń podejrzenia lub rozpoznania zakażenia, choroby zakaźnej lub zgonu z powodu zakażenia lub choroby zakaźnej – uwzględniając konieczność ochrony danych osobowych, stworzenia rozwiązań umożliwiających prowadzenie skutecznego nadzoru epidemiologicznego oraz stopień zagrożenia zakażeniem lub chorobą zakaźną.
+- **3)** wzory formularzy zgłoszeń podejrzenia lub rozpoznania zakażenia, choroby zakaźnej lub zgonu z powodu zakażenia lub choroby zakaźnej uwzględniając konieczność ochrony danych osobowych, stworzenia rozwiązań umożliwiających prowadzenie skutecznego nadzoru epidemiologicznego oraz stopień zagrożenia zakażeniem lub chorobą zakaźną.
 
 **Art. 28.** Lekarz, felczer lub kierownik zespołu ratownictwa medycznego, który podejrzewa lub rozpoznaje chorobę szczególnie niebezpieczną i wysoce zakaźną, stanowiącą zagrożenie dla zdrowia publicznego, lub stwierdza zgon w wyniku takiej choroby, podejmuje działania zapobiegające szerzeniu się zachorowań, w tym:
+
+- **1)** kieruje osobę podejrzaną o zakażenie lub zachorowanie oraz zakażoną lub chorą na chorobę zakaźną do szpitala specjalistycznego zapewniającego izolację i leczenie tej osoby oraz niezwłocznie informuje szpital o tym fakcie;
+- **2)** organizuje transport uniemożliwiający przeniesienie zakażenia na inne osoby;
+- **3)** poucza osobę chorą lub osobę sprawującą prawną pieczę nad chorą osobą małoletnią lub bezradną albo opiekuna faktycznego w rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, osoby najbliższe oraz osoby, o których mowa w art. 17 ust. 1a, o obowiązkach wynikających z art. 5 ust. 1;
+- **4)** niezwłocznie powiadamia państwowego powiatowego inspektora sanitarnego właściwego dla miejsca podejrzenia, rozpoznania choroby szczególnie niebezpiecznej i wysoce zakaźnej lub stwierdzenia zgonu o podjętych działaniach.
 
 **Art. 29.**
 
@@ -991,7 +1056,7 @@ Art. 55–63. (pominięte)
 
 - **1)** imię i nazwisko;
 - **2)** datę urodzenia;
-- **3)** numer PESEL, a w przypadku gdy osobie nie nadano tego numeru – serię i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego jest możliwe ustalenie danych osobowych;
+- **3)** numer PESEL, a w przypadku gdy osobie nie nadano tego numeru serię i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego jest możliwe ustalenie danych osobowych;
 - **3a)** obywatelstwo;
 - **4)** płeć;
 - **5)** adres miejsca zamieszkania;
@@ -1009,7 +1074,7 @@ Art. 55–63. (pominięte)
 
 - **1)** biologiczne czynniki chorobotwórcze podlegające obowiązkowi zgłoszenia, o którym mowa w ust. 1, oraz przesłanki dokonywania zgłoszeń, z uwzględnieniem zgłoszeń wyników dodatnich i ujemnych,
 - **2)** sposób dokonywania zgłoszeń wyników badania w kierunku biologicznych czynników chorobotwórczych oraz właściwych państwowych inspektorów sanitarnych, którym są przekazywane te zgłoszenia,
-- **3)** wzory formularzy zgłoszeń wyników badania w kierunku biologicznych czynników chorobotwórczych – uwzględniając stopień zagrożenia czynnikami chorobotwórczymi, konieczność ochrony danych osobowych oraz stworzenia rozwiązań umożliwiających prowadzenie skutecznego nadzoru epidemiologicznego.
+- **3)** wzory formularzy zgłoszeń wyników badania w kierunku biologicznych czynników chorobotwórczych uwzględniając stopień zagrożenia czynnikami chorobotwórczymi, konieczność ochrony danych osobowych oraz stworzenia rozwiązań umożliwiających prowadzenie skutecznego nadzoru epidemiologicznego.
 
 **Art. 29a.**
 
@@ -1032,7 +1097,7 @@ Art. 55–63. (pominięte)
 - **1)** zakażenia lub choroby zakaźne objęte nadzorem sentinel,
 - **2)** sposób prowadzenia nadzoru sentinel,
 - **3)** jednostki podziału terytorialnego kraju, w których jest prowadzony nadzór sentinel,
-- **4)** zadania realizowane przez podmioty uczestniczące w nadzorze sentinel – mając na względzie cele nadzoru sentinel oraz zapewnienie reprezentatywności zbieranych w nim danych.
+- **4)** zadania realizowane przez podmioty uczestniczące w nadzorze sentinel mając na względzie cele nadzoru sentinel oraz zapewnienie reprezentatywności zbieranych w nim danych.
 
 **Art. 30.**
 
@@ -1042,7 +1107,7 @@ Art. 55–63. (pominięte)
 
 - **1)** imię i nazwisko;
 - **2)** datę urodzenia;
-- **3)** numer PESEL, a w przypadku gdy osobie nie nadano tego numeru – rodzaj i numer dokumentu potwierdzającego tożsamość;
+- **3)** numer PESEL, a w przypadku gdy osobie nie nadano tego numeru rodzaj i numer dokumentu potwierdzającego tożsamość;
 - **4)** płeć;
 - **5)** obywatelstwo;
 - **6)** dane o kraju pochodzenia;
@@ -1094,13 +1159,13 @@ Art. 55–63. (pominięte)
 
 - **1)** osobach zakażonych lub podejrzanych o zakażenie, chorych lub podejrzanych o chorobę zakaźną, osobach zmarłych z powodu choroby zakaźnej lub osobach, wobec których istnieje takie podejrzenie,
 - **2)** osobach, które mogły mieć styczność z osobami, o których mowa w pkt 1,
-- **3)** posiadaczach zwierząt, które mogły stanowić źródło narażenia na zakażenie lub chorobę zakaźną – od każdego, kto takie dane posiada, lub jednostek administracji publicznej, które dane takie mogą ustalić.
+- **3)** posiadaczach zwierząt, które mogły stanowić źródło narażenia na zakażenie lub chorobę zakaźną od każdego, kto takie dane posiada, lub jednostek administracji publicznej, które dane takie mogą ustalić.
 
 2. Dane osób, o których mowa w ust. 1, obejmują:
 
 - **1)** imię i nazwisko;
 - **2)** datę urodzenia;
-- **3)** numer PESEL, a w przypadku gdy osobie nie nadano tego numeru – serię i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego jest możliwe ustalenie danych osobowych;
+- **3)** numer PESEL, a w przypadku gdy osobie nie nadano tego numeru serię i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego jest możliwe ustalenie danych osobowych;
 - **4)** płeć;
 - **5)** adres miejsca zamieszkania;
 - **6)** informacje o aktualnym miejscu pobytu;
@@ -1124,7 +1189,7 @@ Art. 55–63. (pominięte)
 
 - **1)** wprowadzić zakaz wstępu do pomieszczeń skażonych;
 - **2)** nakazać przeprowadzenie dekontaminacji, dezynsekcji lub deratyzacji nieruchomości lub pomieszczeń;
-- **3)** nakazać przeprowadzenie dekontaminacji przedmiotów, a jeżeli nie jest to możliwe – ich zniszczenie;
+- **3)** nakazać przeprowadzenie dekontaminacji przedmiotów, a jeżeli nie jest to możliwe ich zniszczenie;
 - **4)** wprowadzić zakaz korzystania z wody przeznaczonej do spożycia przez ludzi i na potrzeby gospodarcze, pochodzącej z ujęć, co do których istnieje podejrzenie skażenia biologicznymi czynnikami chorobotwórczymi;
 - **5)** wprowadzić zakaz spożywania żywności podejrzanej o skażenie, a w razie potrzeby, zarządzić jej zbadanie, odkażenie, zniszczenie lub przeznaczenie do innych celów;
 - **6)** nakazać sekcję zwłok osoby zmarłej, u której rozpoznano lub podejrzewano zakażenie lub chorobę zakaźną;
@@ -1157,7 +1222,7 @@ Art. 55–63. (pominięte)
 4. Zakazuje się opuszczania miejsca:
 
 - **1)** izolacji lub izolacji w warunkach domowych,
-- **2)** kwarantanny – chyba, że odpowiednio dana osoba wymaga hospitalizacji albo organ inspekcji sanitarnej postanowi inaczej.
+- **2)** kwarantanny chyba, że odpowiednio dana osoba wymaga hospitalizacji albo organ inspekcji sanitarnej postanowi inaczej.
 
 5. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
@@ -1165,7 +1230,7 @@ Art. 55–63. (pominięte)
 - **2)** obowiązki lekarza lub felczera w przypadku podejrzenia lub rozpoznania zakażenia lub choroby zakaźnej powodujących powstanie obowiązku hospitalizacji, izolacji lub izolacji w warunkach domowych,
 - **3)** organ, któremu jest przekazywana informacja o obowiązkowej hospitalizacji, izolacji lub izolacji w warunkach domowych danej osoby,
 - **4)** obowiązki szpitala w przypadku samowolnego opuszczenia szpitala przez osobę podlegającą obowiązkowej hospitalizacji,
-- **5)** choroby zakaźne powodujące powstanie obowiązku kwarantanny lub nadzoru epidemiologicznego u osób, o których mowa w ust. 2, oraz okresy obowiązkowej kwarantanny – mając na względzie rodzaj biologicznego czynnika chorobotwórczego lub choroby zakaźnej oraz potrzebę zapobiegania i zwalczania zakażeń i chorób zakaźnych u ludzi oraz ochrony zdrowia publicznego.
+- **5)** choroby zakaźne powodujące powstanie obowiązku kwarantanny lub nadzoru epidemiologicznego u osób, o których mowa w ust. 2, oraz okresy obowiązkowej kwarantanny mając na względzie rodzaj biologicznego czynnika chorobotwórczego lub choroby zakaźnej oraz potrzebę zapobiegania i zwalczania zakażeń i chorób zakaźnych u ludzi oraz ochrony zdrowia publicznego.
 
 **Art. 35.**
 
@@ -1193,7 +1258,7 @@ Art. 55–63. (pominięte)
 
 7. Unieruchomienie jest dłużej trwającym obezwładnieniem osoby z użyciem pasów, uchwytów, prześcieradeł lub kaftana bezpieczeństwa.
 
-8. Przymusowe podanie leku jest doraźnym lub przewidzianym w planie postępowania leczniczego wprowadzeniem leków do organizmu osoby – bez jej zgody.
+8. Przymusowe podanie leku jest doraźnym lub przewidzianym w planie postępowania leczniczego wprowadzeniem leków do organizmu osoby bez jej zgody.
 
 **Art. 37.**
 
@@ -1210,8 +1275,8 @@ Art. 55–63. (pominięte)
 
 1. Koszty świadczeń zdrowotnych udzielonych w celu zwalczania zakażeń i chorób zakaźnych, o których mowa w art. 33 i 34, oraz świadczeń zdrowotnych związanych przyczynowo z tymi zakażeniami i chorobami zakaźnymi, udzielonych:
 
-- **1)** ubezpieczonym – są finansowane na zasadach określonych w przepisach o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
-- **2)** osobom nieposiadającym uprawnień z tytułu ubezpieczenia zdrowotnego – są finansowane z budżetu państwa z części, której dysponentem jest minister właściwy do spraw zdrowia.
+- **1)** ubezpieczonym są finansowane na zasadach określonych w przepisach o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **2)** osobom nieposiadającym uprawnień z tytułu ubezpieczenia zdrowotnego są finansowane z budżetu państwa z części, której dysponentem jest minister właściwy do spraw zdrowia.
 
 2. (uchylony)
 
@@ -1259,7 +1324,7 @@ Art. 55–63. (pominięte)
 
 - **1)** wykaz zakażeń i chorób zakaźnych, o których mowa w ust. 1,
 - **2)** zakres danych spośród wymienionych w art. 30 ust. 2, okoliczności, termin i sposób ich przekazywania,
-- **3)** właściwość państwowego inspektora sanitarnego w zakresie otrzymania danych na podstawie ust. 1 – w celu zapewnienia skuteczności zapobiegania tym chorobom zakaźnym i zakażeniom i ich zwalczania, zgodnie z zasadami współczesnej wiedzy medycznej, oraz porównywalności informacji zbieranych w krajowym i międzynarodowym nadzorze epidemiologicznym.
+- **3)** właściwość państwowego inspektora sanitarnego w zakresie otrzymania danych na podstawie ust. 1 w celu zapewnienia skuteczności zapobiegania tym chorobom zakaźnym i zakażeniom i ich zwalczania, zgodnie z zasadami współczesnej wiedzy medycznej, oraz porównywalności informacji zbieranych w krajowym i międzynarodowym nadzorze epidemiologicznym.
 
 **Art. 41.**
 
@@ -1315,6 +1380,14 @@ Art. 55–63. (pominięte)
 
 **Art. 43.** Jednostki, o których mowa w art. 42 ust. 1, realizując zadania z zakresu ochrony zdrowia publicznego przed zakażeniami i chorobami zakaźnymi, współpracują z:
 
+- **1)** Państwową Inspekcją Sanitarną i Wojskową Inspekcją Sanitarną;
+- **2)** jednostkami Systemu Państwowego Ratownictwa Medycznego, o których mowa w ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2025 r. poz. 91 i 637);
+- **3)** podmiotami, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. );
+- **4)** Narodowym Funduszem Zdrowia;
+- **5)** podmiotami wchodzącymi w skład międzynarodowego nadzoru epidemiologicznego;
+- **6)** organami samorządu terytorialnego;
+- **7)** Policją, Państwową Strażą Pożarną i Strażą Graniczną.
+
 **Art. 44.**
 
 1. W celu zapewnienia skuteczności działań służących ochronie zdrowia publicznego przed zakażeniami i chorobami zakaźnymi wojewoda sporządza wojewódzki plan działania na wypadek wystąpienia epidemii, zwany dalej „planem”, na okres trzech lat, z możliwością aktualizacji.
@@ -1344,7 +1417,7 @@ Art. 55–63. (pominięte)
 - **1)** imię i nazwisko;
 - **2)** wykonywany zawód;
 - **3)** datę urodzenia;
-- **4)** numer PESEL, a w przypadku gdy osobie nie nadano tego numeru – serię i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego jest możliwe ustalenie danych osobowych;
+- **4)** numer PESEL, a w przypadku gdy osobie nie nadano tego numeru serię i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego jest możliwe ustalenie danych osobowych;
 - **5)** płeć;
 - **6)** adres miejsca zamieszkania.
 
@@ -1374,7 +1447,7 @@ Art. 55–63. (pominięte)
 - **4)** zakaz organizowania widowisk i innych zgromadzeń ludności,
 - **5)** obowiązek wykonania określonych zabiegów sanitarnych, jeżeli wykonanie ich wiąże się z funkcjonowaniem określonych obiektów produkcyjnych, usługowych, handlowych lub innych obiektów,
 - **6)** nakaz udostępnienia nieruchomości, lokali, terenów i dostarczenia środków transportu do działań przeciwepidemicznych przewidzianych planami przeciwepidemicznymi,
-- **7)** obowiązek przeprowadzenia szczepień ochronnych, o których mowa w ust. 3, oraz grupy osób podlegające tym szczepieniom, rodzaj przeprowadzanych szczepień ochronnych – uwzględniając drogi szerzenia się zakażeń i chorób zakaźnych oraz sytuację epidemiczną na obszarze, na którym ogłoszono stan zagrożenia epidemicznego lub stan epidemii.
+- **7)** obowiązek przeprowadzenia szczepień ochronnych, o których mowa w ust. 3, oraz grupy osób podlegające tym szczepieniom, rodzaj przeprowadzanych szczepień ochronnych uwzględniając drogi szerzenia się zakażeń i chorób zakaźnych oraz sytuację epidemiczną na obszarze, na którym ogłoszono stan zagrożenia epidemicznego lub stan epidemii.
 
 5. Rozporządzenia, o których mowa w ust. 1 i 2, są:
 
@@ -1385,7 +1458,25 @@ Art. 55–63. (pominięte)
 
 **Art. 46a.** W przypadku wystąpienia stanu epidemii lub stanu zagrożenia epidemicznego o charakterze i w rozmiarach przekraczających możliwości działania właściwych organów administracji rządowej i organów jednostek samorządu terytorialnego, Rada Ministrów może określić, w drodze rozporządzenia, na podstawie danych przekazanych przez ministra właściwego do spraw zdrowia, ministra właściwego do spraw wewnętrznych, ministra właściwego do spraw administracji publicznej, Głównego Inspektora Sanitarnego oraz wojewodów:
 
+- **1)** zagrożony obszar wraz ze wskazaniem rodzaju strefy, na którym wystąpił stan epidemii lub stan zagrożenia epidemicznego,
+- **2)** rodzaj stosowanych rozwiązań w zakresie określonym w art. 46b mając na względzie zakres stosowanych rozwiązań oraz uwzględniając bieżące możliwości budżetu państwa oraz budżetów jednostek samorządu terytorialnego.
+
 **Art. 46b.** W rozporządzeniu, o którym mowa w art. 46a, można ustanowić:
+
+- **1)** ograniczenia, obowiązki i nakazy, o których mowa w art. 46 ust. 4;
+- **2)** czasowe ograniczenie określonych zakresów działalności przedsiębiorców;
+- **3)** czasową reglamentację zaopatrzenia w określonego rodzaju artykuły;
+- **4)** obowiązek poddania się badaniom lekarskim przez osoby chore i podejrzane o zachorowanie;
+- **4a)** obowiązek stosowania określonych środków profilaktycznych i zabiegów;
+- **5)** obowiązek poddania się kwarantannie;
+- **6)** miejsce kwarantanny;
+- **7)** (uchylony)
+- **8)** czasowe ograniczenie korzystania z lokali lub terenów oraz obowiązek ich zabezpieczenia;
+- **9)** nakaz ewakuacji w ustalonym czasie z określonych miejsc, terenów i obiektów;
+- **10)** nakaz lub zakaz przebywania w określonych miejscach i obiektach oraz na określonych obszarach;
+- **11)** zakaz opuszczania strefy zero przez osoby chore i podejrzane o zachorowanie;
+- **12)** nakaz określonego sposobu przemieszczania się;
+- **13)** nakaz zakrywania ust i nosa, w określonych okolicznościach, miejscach i obiektach oraz na określonych obszarach, wraz ze sposobem realizacji tego nakazu. Art. 46ba. W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii, minister właściwy do spraw zdrowia może określić, w drodze rozporządzenia, uproszczone rodzaje i zakres dokumentacji medycznej, uproszczony sposób jej przetwarzania oraz skrócony okres przechowywania, obowiązujące od dnia ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii, uwzględniając konieczność szybkiego i skutecznego podejmowania działań zapobiegających szerzeniu się epidemii oraz ochrony danych i informacji dotyczących stanu zdrowia pacjenta. Art. 46bb. Nieprzestrzeganie obowiązku, o którym mowa w art. 46b pkt 13, stanowi uzasadnioną przyczynę odmowy sprzedaży, o której mowa w art. 135 ustawy z dnia 20 maja 1971 r. Kodeks wykroczeń (Dz. U. z 2025 r. poz. 734).
 
 **Art. 46c.**
 
@@ -1396,18 +1487,18 @@ Art. 55–63. (pominięte)
 - **1)** warunku uzyskania opinii o celowości inwestycji, o której mowa w art. 95d ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, jeżeli budowa, przebudowa lub remont są inwestycją, o której mowa w art. 95d ust. 1 tej ustawy;
 - **2)** przepisów § 6 ust. 1 pkt 1 lit. b, c oraz f, pkt 2 i 3 rozporządzenia wydanego na podstawie art. 134 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
-3. W okresie ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii do projektowania, budowy, przebudowy, remontu, utrzymania i rozbiórki obiektów budowlanych, w tym zmiany sposobu użytkowania, przez podmioty wykonujące działalność leczniczą albo inne podmioty w związku z realizacją zadań objętych obowiązkiem albo poleceniem wydanym na podstawie art. 10d albo art. 11h ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2025 r. poz. 764), w związku z przeciwdziałaniem epidemii, nie stosuje się przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418 i 1080), ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz. 1130, 1907 i 1940 oraz z 2025 r. poz. 527 i 680) oraz aktów planistycznych, o których mowa w tej ustawie, ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907 oraz z 2025 r. poz. 1168), a w przypadku konieczności poszerzenia bazy do udzielania świadczeń zdrowotnych, także przepisów wydanych na podstawie art. 22 ust. 3, 4 i 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej. Odstąpienie od stosowania przepisów, o których mowa w zdaniu pierwszym, wymaga zgody wojewody.
+3. W okresie ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii do projektowania, budowy, przebudowy, remontu, utrzymania i rozbiórki obiektów budowlanych, w tym zmiany sposobu użytkowania, przez podmioty wykonujące działalność leczniczą albo inne podmioty w związku z realizacją zadań objętych obowiązkiem albo poleceniem wydanym na podstawie art. 10d albo art. 11h ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2025 r. poz. 764), w związku z przeciwdziałaniem epidemii, nie stosuje się przepisów ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2025 r. poz. 418 i 1080), ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz. 1130, 1907 i 1940 oraz z 2025 r. poz. 527 i 680) oraz aktów planistycznych, o których mowa w tej ustawie, ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907 oraz z 2025 r. poz. 1168), a w przypadku konieczności poszerzenia bazy do udzielania świadczeń zdrowotnych, także przepisów wydanych na podstawie art. 22 ust. 3, 4 i 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej. Odstąpienie od stosowania przepisów, o których mowa w zdaniu pierwszym, wymaga zgody wojewody.
 
 4. Prowadzenie robót budowlanych oraz zmiana sposobu użytkowania obiektu budowlanego lub jego części w związku z przeciwdziałaniem epidemii wymagają niezwłocznego poinformowania organu administracji architektoniczno-budowlanej.
 
 5. W informacji, o której mowa w ust. 4, należy określić:
 
-- **1)** rodzaj, zakres i sposób wykonywania robót budowlanych oraz termin ich rozpoczęcia – w przypadku prowadzenia robót budowlanych;
-- **2)** dotychczasowy i zamierzony sposób użytkowania obiektu budowlanego lub jego części – w przypadku zmiany sposobu użytkowania.
+- **1)** rodzaj, zakres i sposób wykonywania robót budowlanych oraz termin ich rozpoczęcia w przypadku prowadzenia robót budowlanych;
+- **2)** dotychczasowy i zamierzony sposób użytkowania obiektu budowlanego lub jego części w przypadku zmiany sposobu użytkowania.
 
 6. Jeżeli prowadzenie robót budowlanych, o których mowa w ust. 4, powoduje zagrożenie życia lub zdrowia ludzi, organ administracji architektoniczno-budowlanej, w drodze decyzji podlegającej natychmiastowemu wykonaniu, niezwłocznie ustala wymagania dotyczące niezbędnych zabezpieczeń ich prowadzenia.
 
-7. W przypadku prowadzenia robót budowlanych w związku z przeciwdziałaniem epidemii, których rozpoczęcie, zgodnie z przepisami ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, wymaga uzyskania decyzji o pozwoleniu na budowę, inwestor jest obowiązany zapewnić objęcie kierownictwa oraz nadzoru nad tymi robotami przez osobę posiadającą uprawnienia budowlane w odpowiednich specjalnościach, o których mowa w art. 15a tej ustawy.
+7. W przypadku prowadzenia robót budowlanych w związku z przeciwdziałaniem epidemii, których rozpoczęcie, zgodnie z przepisami ustawy z dnia 7 lipca 1994 r. Prawo budowlane, wymaga uzyskania decyzji o pozwoleniu na budowę, inwestor jest obowiązany zapewnić objęcie kierownictwa oraz nadzoru nad tymi robotami przez osobę posiadającą uprawnienia budowlane w odpowiednich specjalnościach, o których mowa w art. 15a tej ustawy.
 
 **Art. 46d.**
 
@@ -1440,12 +1531,15 @@ Art. 55–63. (pominięte)
 
 **Art. 46e.** Udostępnione z rezerw strategicznych:
 
+- **1)** produkty lecznicze,
+- **2)** środki spożywcze specjalnego przeznaczenia żywieniowego oraz wyroby medyczne, jeżeli wymagają przechowywania w szczególnych warunkach są dystrybuowane na zasadach określonych w ustawie z dnia 6 września 2001 r. Prawo farmaceutyczne.
+
 **Art. 46f.**
 
 1. Produkty lecznicze, środki spożywcze specjalnego przeznaczenia żywieniowego, wyroby medyczne, produkty biobójcze oraz środki ochrony osobistej, które:
 
 - **1)** zostały udostępnione na podstawie art. 46d ust. 1 lub na podstawie przepisów o rezerwach strategicznych,
-- **2)** stanowią majątek Skarbu Państwa na podstawie innej niż przepisy o rezerwach strategicznych – określone w obwieszczeniu, o którym mowa w ust. 2, mogą być wydawane pacjentom ze stacji sanitarno-epidemiologicznych, aptek lub punktów aptecznych nieodpłatnie wyłącznie na podstawie nr PESEL pacjenta.
+- **2)** stanowią majątek Skarbu Państwa na podstawie innej niż przepisy o rezerwach strategicznych określone w obwieszczeniu, o którym mowa w ust. 2, mogą być wydawane pacjentom ze stacji sanitarno-epidemiologicznych, aptek lub punktów aptecznych nieodpłatnie wyłącznie na podstawie nr PESEL pacjenta.
 
 2. Minister właściwy do spraw zdrowia może określić w obwieszczeniu:
 
@@ -1479,22 +1573,24 @@ Art. 55–63. (pominięte)
 - **4)** inwalidzi i osoby z orzeczonymi chorobami przewlekłymi, na których przebieg ma wpływ zakażenie lub zachorowanie na chorobę zakaźną będącą przyczyną epidemii lub orzeczona choroba przewlekła ma wpływ na przebieg lub zachorowanie na chorobę zakaźną;
 - **5)** osoby, o których mowa w art. 2 ustawy z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. z 2023 r. poz. 624), oraz posłowie i senatorowie Rzeczypospolitej Polskiej.
 
-3a. W przypadku gdy dziecko w wieku do 18 lat jest wychowywane przez dwoje osób, którym przysługuje władza rodzicielska, do pracy przy zwalczaniu epidemii może zostać skierowana wyłącznie jedna z nich. [3b. Orzeczenie w sprawie choroby, o której mowa w ust. 3 pkt 4, wydaje lekarz, o którym mowa w art. 14 ust. 1 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674 oraz z 2025 r. poz. 718, 769 i 1159).] <3b. Orzeczenie w sprawie choroby, o której mowa w ust. 3 pkt 4, jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ).>
+3a. W przypadku gdy dziecko w wieku do 18 lat jest wychowywane przez dwoje osób, którym przysługuje władza rodzicielska, do pracy przy zwalczaniu epidemii może zostać skierowana wyłącznie jedna z nich.
 
-4. Decyzję o skierowaniu do pracy przy zwalczaniu epidemii na terenie województwa, w którym osoba skierowana posiada miejsce pobytu lub jest zatrudniona, wydaje właściwy wojewoda, a w razie skierowania do pracy na obszarze innego województwa – minister właściwy do spraw zdrowia.
+3b. Orzeczenie w sprawie choroby, o której mowa w ust. 3 pkt 4, wydaje lekarz, o którym mowa w art. 14 ust. 1 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674 oraz z 2025 r. poz. 718, 769 i 1159).
+
+4. Decyzję o skierowaniu do pracy przy zwalczaniu epidemii na terenie województwa, w którym osoba skierowana posiada miejsce pobytu lub jest zatrudniona, wydaje właściwy wojewoda, a w razie skierowania do pracy na obszarze innego województwa minister właściwy do spraw zdrowia.
 
 4a. Wojewoda oraz minister właściwy do spraw zdrowia przetwarza dane osobowe zawarte w wykazach, o których mowa w ust. 1a, oraz uzyskane w postępowaniach o skierowaniu do pracy przy zwalczaniu epidemii.
 
 4b. Decyzja, o której mowa w ust. 2, jest wydawana w przypadku:
 
-- **1)** policjantów – po uzyskaniu pozytywnej opinii Komendanta Głównego Policji;
-- **2)** funkcjonariuszy Straży Granicznej – po uzyskaniu pozytywnej opinii Komendanta Głównego Straży Granicznej;
-- **3)** strażaków pełniących służbę w Państwowej Straży Pożarnej – po uzyskaniu pozytywnej opinii Komendanta Głównego Państwowej Straży Pożarnej;
-- **4)** funkcjonariuszy Służby Ochrony Państwa – po uzyskaniu pozytywnej opinii Komendanta Służby Ochrony Państwa;
-- **5)** żołnierzy zawodowych – po uzyskaniu pozytywnej opinii Ministra Obrony Narodowej;
-- **6)** funkcjonariuszy Służby Kontrwywiadu Wojskowego – po uzyskaniu pozytywnej opinii Szefa Służby Kontrwywiadu Wojskowego;
-- **7)** funkcjonariuszy Służby Wywiadu Wojskowego – po uzyskaniu pozytywnej opinii Szefa Służby Wywiadu Wojskowego;
-- **8)** funkcjonariuszy Służby Więziennej – po uzyskaniu pozytywnej opinii Dyrektora Generalnego Służby Więziennej.
+- **1)** policjantów po uzyskaniu pozytywnej opinii Komendanta Głównego Policji;
+- **2)** funkcjonariuszy Straży Granicznej po uzyskaniu pozytywnej opinii Komendanta Głównego Straży Granicznej;
+- **3)** strażaków pełniących służbę w Państwowej Straży Pożarnej po uzyskaniu pozytywnej opinii Komendanta Głównego Państwowej Straży Pożarnej;
+- **4)** funkcjonariuszy Służby Ochrony Państwa po uzyskaniu pozytywnej opinii Komendanta Służby Ochrony Państwa;
+- **5)** żołnierzy zawodowych po uzyskaniu pozytywnej opinii Ministra Obrony Narodowej;
+- **6)** funkcjonariuszy Służby Kontrwywiadu Wojskowego po uzyskaniu pozytywnej opinii Szefa Służby Kontrwywiadu Wojskowego;
+- **7)** funkcjonariuszy Służby Wywiadu Wojskowego po uzyskaniu pozytywnej opinii Szefa Służby Wywiadu Wojskowego;
+- **8)** funkcjonariuszy Służby Więziennej po uzyskaniu pozytywnej opinii Dyrektora Generalnego Służby Więziennej.
 
 4c. Opinia, o której mowa w ust. 4b, jest wydawana na wniosek kierownika podmiotu leczniczego wskazującego przewidywaną liczbę godzin pracy w wymiarze minimum 40 godzin tygodniowo ponad wymiar wynikający z dotychczasowej formy świadczenia usług, jeżeli osoba, o której mowa w ust. 4b, takie usługi świadczy.
 
@@ -1505,7 +1601,7 @@ Art. 55–63. (pominięte)
 5a. W ramach postępowania w sprawie rozpatrzenia odwołania, o którym mowa w ust. 5, albo wniosku o ponowne rozpatrzenie sprawy:
 
 - **1)** wojewoda może wystąpić do konsultanta wojewódzkiego,
-- **2)** minister właściwy do spraw zdrowia może wystąpić do konsultanta krajowego – z dziedziny medycyny, której dotyczy choroba przewlekła, lub z dziedziny chorób zakaźnych, celem uzyskania orzeczenia w sprawie choroby, o której mowa w ust. 3 pkt 4.
+- **2)** minister właściwy do spraw zdrowia może wystąpić do konsultanta krajowego z dziedziny medycyny, której dotyczy choroba przewlekła, lub z dziedziny chorób zakaźnych, celem uzyskania orzeczenia w sprawie choroby, o której mowa w ust. 3 pkt 4.
 
 5b. Orzeczenie właściwego konsultanta wojewódzkiego albo właściwego konsultanta krajowego z dziedziny medycyny, której dotyczy choroba przewlekła, lub z dziedziny chorób zakaźnych, o którym mowa w ust. 5a, jest wydawane w terminie 14 dni od dnia otrzymania wniosku.
 
@@ -1529,16 +1625,13 @@ Art. 55–63. (pominięte)
 
 10a. Osoby, o których mowa w ust. 4b, skierowane do pracy przy zwalczaniu epidemii są zwolnione ze świadczenia służby przy zachowaniu prawa do należnego uposażenia zasadniczego wraz z dodatkami do uposażenia o charakterze stałym w wysokości należnej w miesiącu poprzedzającym miesiąc skierowania oraz otrzymują wynagrodzenie, o którym mowa w ust. 10.
 
-10b. (uchylony) 10c. Wobec policjanta, funkcjonariusza Straży Granicznej, strażaka pełniącego służbę w Państwowej Straży Pożarnej, funkcjonariusza Służby Więziennej, funkcjonariusza Służby Ochrony Państwa, żołnierza zawodowego, funkcjonariusza Służby Kontrwywiadu Wojskowego oraz funkcjonariusza Służby Wywiadu Wojskowego skierowanego do pracy na podstawie decyzji, o której mowa w ust. 2, nie stosuje się odpowiednio przepisu art. 62 ust. 1 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636, 718 i 1366), art. 67 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2025 r. poz. 914 i 1366), art. 57a ust. 1 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2025 r. poz. 1312 i
-
-- **1366)** , art. 160 ust. 1 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2024 r. poz. 1869 i 1871 oraz z 2025 r. poz. 179, 240, 718 i 820), art. 138 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2025 r. poz. 34, z 2024 r. poz. 1871 oraz z 2025 r. poz. 179, 718 i 1366), art. 335 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080) oraz art. 39 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2025 r. poz. 694, 718 i
-- **1366)** .
+10b. (uchylony) 10c. Wobec policjanta, funkcjonariusza Straży Granicznej, strażaka pełniącego służbę w Państwowej Straży Pożarnej, funkcjonariusza Służby Więziennej, funkcjonariusza Służby Ochrony Państwa, żołnierza zawodowego, funkcjonariusza Służby Kontrwywiadu Wojskowego oraz funkcjonariusza Służby Wywiadu Wojskowego skierowanego do pracy na podstawie decyzji, o której mowa w ust. 2, nie stosuje się odpowiednio przepisu art. 62 ust. 1 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636, 718 i 1366), art. 67 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2025 r. poz. 914 i 1366), art. 57a ust. 1 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2025 r. poz. 1312 i 1366), art. 160 ust. 1 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2024 r. poz. 1869 i 1871 oraz z 2025 r. poz. 179, 240, 718 i 820), art. 138 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2025 r. poz. 34, z 2024 r. poz. 1871 oraz z 2025 r. poz. 179, 718 i 1366), art. 335 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080) oraz art. 39 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2025 r. poz. 694, 718 i 1366).
 
 11. Osobie, o której mowa w ust. 10, przysługuje zwrot kosztów przejazdu, zakwaterowania i wyżywienia, na zasadach określonych w przepisach o ustalaniu oraz wysokości należności przysługującej pracownikom państwowych jednostek z tytułu podróży służbowych na obszarze kraju. Zwrot kosztów z tytułu zakwaterowania lub wyżywienia nie przysługuje w przypadku zapewnienia w miejscu wykonywania pracy bezpłatnego zakwaterowania lub wyżywienia.
 
 12. Koszty świadczeń zdrowotnych udzielanych w związku ze zwalczaniem epidemii oraz koszty, o których mowa w ust. 10 i 11, są finansowane z budżetu państwa z części, której dysponentem jest wojewoda właściwy ze względu na miejsce udzielania świadczeń.
 
-13. Przez czas trwania obowiązku, o którym mowa w ust. 7, z osobą skierowaną do pracy przy zwalczaniu epidemii nie może być rozwiązany dotychczasowy stosunek pracy ani nie może być dokonane wypowiedzenie umowy o pracę, chyba że istnieje podstawa do rozwiązania umowy o pracę bez wypowiedzenia z winy pracownika albo w przypadku zmiany lub uchylenia decyzji. Przepisy art. 63–67 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807 i 1423) stosuje się odpowiednio.
+13. Przez czas trwania obowiązku, o którym mowa w ust. 7, z osobą skierowaną do pracy przy zwalczaniu epidemii nie może być rozwiązany dotychczasowy stosunek pracy ani nie może być dokonane wypowiedzenie umowy o pracę, chyba że istnieje podstawa do rozwiązania umowy o pracę bez wypowiedzenia z winy pracownika albo w przypadku zmiany lub uchylenia decyzji. Przepisy art. 63–67 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807 i 1423) stosuje się odpowiednio.
 
 14. W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii:
 
@@ -1546,13 +1639,13 @@ Art. 55–63. (pominięte)
 - **2)** doktoranci w dziedzinie nauk medycznych i nauk o zdrowiu w dyscyplinach naukowych: nauki medyczne, nauki farmaceutyczne i nauki o zdrowiu,
 - **3)** osoby kształcące się w zawodzie medycznym,
 - **4)** osoby posiadające wykształcenie w zawodzie medycznym, które ukończyły kształcenie w tym zawodzie w okresie ostatnich 5 lat,
-- **5)** ratownicy, o których mowa w art. 13 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym – mogą brać udział w udzielaniu świadczeń zdrowotnych udzielanych w związku z ogłoszeniem stanu zagrożenia epidemicznego lub stanu epidemii, na podstawie decyzji o skierowaniu do pracy przy zwalczaniu epidemii, o której mowa w ust. 2.
+- **5)** ratownicy, o których mowa w art. 13 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym mogą brać udział w udzielaniu świadczeń zdrowotnych udzielanych w związku z ogłoszeniem stanu zagrożenia epidemicznego lub stanu epidemii, na podstawie decyzji o skierowaniu do pracy przy zwalczaniu epidemii, o której mowa w ust. 2.
 
 15. Na wniosek wojewody albo ministra właściwego do spraw zdrowia:
 
 - **1)** rektorzy uczelni prowadzących kształcenie na kierunkach, o których mowa w ust. 14 pkt 1, albo studia doktoranckie w dziedzinie nauk medycznych w dyscyplinach, o których mowa w ust. 14 pkt 2,
 - **2)** kierujący innymi niż wskazane w pkt 1 podmiotami kształcącymi w zawodach medycznych,
-- **3)** podmioty prowadzące egzaminy kończące się uzyskaniem tytułu ratownika, o którym mowa w art. 13 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym – przekazują w terminie 7 dni od dnia otrzymania wniosku odpowiednio wykazy studentów i doktorantów, osób kształcących się w zawodzie medycznym i osób, które uzyskały tytuł ratownika zawierające: imię, nazwisko, numer PESEL i adres miejsca zamieszkania danej osoby, jeżeli zobowiązany do przekazania danych posiada ten adres. Jeżeli tak wskazano we wniosku, podmiot zobowiązany przekazuje również dane osób, które ukończyły kształcenie w zawodzie medycznym w okresie wskazanym we wniosku, nie dłuższym niż 5 lat.
+- **3)** podmioty prowadzące egzaminy kończące się uzyskaniem tytułu ratownika, o którym mowa w art. 13 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym przekazują w terminie 7 dni od dnia otrzymania wniosku odpowiednio wykazy studentów i doktorantów, osób kształcących się w zawodzie medycznym i osób, które uzyskały tytuł ratownika zawierające: imię, nazwisko, numer PESEL i adres miejsca zamieszkania danej osoby, jeżeli zobowiązany do przekazania danych posiada ten adres. Jeżeli tak wskazano we wniosku, podmiot zobowiązany przekazuje również dane osób, które ukończyły kształcenie w zawodzie medycznym w okresie wskazanym we wniosku, nie dłuższym niż 5 lat.
 
 16. Osoby, o których mowa w ust. 14, biorą udział w udzielaniu świadczeń zdrowotnych pod bezpośrednim nadzorem osoby wykonującej zawód medyczny właściwej ze względu na rodzaj świadczenia.
 
@@ -1577,7 +1670,7 @@ Art. 55–63. (pominięte)
 
 3. Decyzja, o której mowa w ust. 1, wygasa po upływie 30 dni od dnia odwołania stanu zagrożenia epidemicznego lub stanu epidemii.
 
-4. Od decyzji, o której mowa w ust. 1, podmiot tworzący w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, rada nadzorcza, komisja rewizyjna albo wspólnik mający prawo prowadzenia spraw spółki lub jej reprezentowania może wnieść skargę do sądu administracyjnego w terminie 7 dni od daty doręczenia decyzji. Wniesienie skargi nie wstrzymuje wykonania decyzji. Przepisu art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
+4. Od decyzji, o której mowa w ust. 1, podmiot tworzący w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, rada nadzorcza, komisja rewizyjna albo wspólnik mający prawo prowadzenia spraw spółki lub jej reprezentowania może wnieść skargę do sądu administracyjnego w terminie 7 dni od daty doręczenia decyzji. Wniesienie skargi nie wstrzymuje wykonania decyzji. Przepisu art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego nie stosuje się.
 
 5. Pełnomocnikiem może być osoba, która:
 
@@ -1595,7 +1688,7 @@ Art. 55–63. (pominięte)
 
 8. Na okres ustanowienia pełnomocnika kompetencje innych organów podmiotu leczniczego ulegają zawieszeniu.
 
-9. Pełnomocnikowi, w przypadku złożenia wniosku zgodnie z art. 174 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, udziela się urlopu bezpłatnego na okres pełnienia tej funkcji.
+9. Pełnomocnikowi, w przypadku złożenia wniosku zgodnie z art. 174 § 1 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy, udziela się urlopu bezpłatnego na okres pełnienia tej funkcji.
 
 10. Okres urlopu bezpłatnego udzielonego na podstawie ust. 9 jest wliczany do okresu pracy, od którego zależą uprawnienia pracownicze.
 
@@ -1608,6 +1701,9 @@ Art. 55–63. (pominięte)
 14. Skarb Państwa jest odpowiedzialny za szkodę solidarnie z pełnomocnikiem. Skarb Państwa w przypadku naprawienia szkody ma zwrotne roszczenie do pełnomocnika, chyba że szkoda powstała wyłącznie na skutek stosowania się przez pełnomocnika do poleceń ministra właściwego do spraw zdrowia. Pełnomocnik w przypadku naprawienia szkody ma zwrotne roszczenie do Skarbu Państwa, jeżeli szkoda powstała wyłącznie na skutek stosowania się przez pełnomocnika do poleceń ministra właściwego do spraw zdrowia.
 
 **Art. 47c.** W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii ratownik, o którym mowa w art. 13 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, jednostki:
+
+- **1)** współpracującej z systemem Państwowe Ratownictwo Medyczne, o której mowa w art. 15 ust. 1 pkt 1–4 tej ustawy,
+- **2)** podległej Ministrowi Obrony Narodowej może pobierać materiał z górnych dróg oddechowych w celu wykonania testu diagnostycznego w kierunku SARS-CoV-2 po odbyciu w tej jednostce przeszkolenia obejmującego procedurę pobrania materiału i jego zabezpieczenia oraz bezpieczeństwa osób pobierających, potwierdzonego zaświadczeniem.
 
 **Art. 48.** Pracownikom podmiotów leczniczych oraz innym osobom podejmującym na zasadach określonych w niniejszej ustawie działania w celu zapobiegania i zwalczania chorób zakaźnych i zakażeń u ludzi przysługuje ochrona prawna należna funkcjonariuszowi publicznemu.
 
@@ -1641,7 +1737,7 @@ Art. 55–63. (pominięte)
 
 7. Kary pieniężne stanowią dochód budżetu państwa i są wpłacane w terminie 7 dni od dnia wydania decyzji. W przypadku kar, o których mowa w ust. 1, są one wpłacane na rachunek bankowy właściwej stacji sanitarno-epidemiologicznej.
 
-8. W zakresie nieuregulowanym w ustawie do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ).
+8. W zakresie nieuregulowanym w ustawie do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ).
 
 #### Rozdział 9 Przepisy karne
 
@@ -1651,15 +1747,29 @@ Art. 55–63. (pominięte)
 
 **Art. 50.** Kto:
 
+- **1)** wbrew obowiązkowi, o którym mowa w art. 16 ust. 1, nie wdraża lub nie stosuje procedur zapewniających ochronę przed zakażeniami oraz chorobami zakaźnymi,
+- **2)** wbrew obowiązkom, o których mowa w art. 22 ust. 1 i 2, nie przestrzega wymagań higieniczno-sanitarnych,
+- **3)** wbrew obowiązkowi przeciwdziałania szerzeniu się zakażeń szpitalnych, nie podejmuje działań określonych w art. 14 ust. 1 i 2 podlega karze grzywny.
+
 **Art. 51.** Kto:
+
+- **1)** nie będąc uprawnionym, przeprowadza szczepienia ochronne,
+- **2)** wbrew obowiązkowi prowadzenia dokumentacji medycznej dotyczącej szczepień ochronnych, nie dokonuje wpisu szczepienia, nie wystawia zaświadczenia o wykonaniu szczepienia lub nie prowadzi dokumentacji medycznej w tym zakresie lub prowadzi ją nierzetelnie,
+- **3)** wbrew obowiązkowi nie zawiadamia pacjenta lub osoby sprawującej prawną pieczę nad osobą małoletnią lub bezradną albo opiekuna faktycznego w rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, o obowiązku poddania się obowiązkowym szczepieniom ochronnym lub nie informuje o ochronnych szczepieniach zalecanych podlega karze grzywny.
 
 **Art. 52.** Kto:
 
+- **1)** wbrew obowiązkowi nie poucza pacjenta, osoby sprawującej prawną pieczę nad osobą małoletnią lub bezradną albo opiekuna faktycznego w rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, o środkach ostrożności zapobiegających przeniesieniu zakażenia na inne osoby lub o ewentualnym obowiązku wynikającym z art. 6,
+- **2)** wbrew obowiązkowi nie informuje zakażonego o konieczności zgłoszenia się do lekarza jego partnera lub partnerów seksualnych,
+- **3)** wbrew obowiązkowi, o którym mowa w art. 21 ust. 1, nie zgłasza niepożądanego odczynu poszczepiennego,
+- **4)** wbrew obowiązkowi, o którym mowa w art. 27 ust. 1 lub 2, nie zgłasza zakażenia, zachorowania na chorobę zakaźną lub zgonu z powodu zakażenia lub choroby zakaźnej albo ich podejrzenia,
+- **5)** wbrew obowiązkowi, o którym mowa w art. 29 ust. 1, nie zgłasza wyniku badania w kierunku biologicznych czynników chorobotwórczych, które wywołują zakażenie lub chorobę zakaźną podlega karze grzywny.
+
 **Art. 53.** Kto nie wykonuje decyzji o skierowaniu do pracy przy zapobieganiu oraz zwalczaniu epidemii, wydanej na podstawie art. 47, podlega karze grzywny.
 
-**Art. 54.** W sprawach o czyny, o których mowa w art. 50–53, orzekanie następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860 i 1178).
+**Art. 54.** W sprawach o czyny, o których mowa w art. 50–53, orzekanie następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860 i 1178).
 
-**Art. 54a.** W stanie zagrożenia epidemicznego lub stanie epidemii uprawnienie do nakładania grzywien w drodze mandatu karnego za wykroczenia, o których mowa w art. 116 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń, przysługuje funkcjonariuszom organów, którzy na mocy przepisów odrębnych są uprawnieni do nakładania grzywien w postępowaniu mandatowym.
+**Art. 54a.** W stanie zagrożenia epidemicznego lub stanie epidemii uprawnienie do nakładania grzywien w drodze mandatu karnego za wykroczenia, o których mowa w art. 116 ustawy z dnia 20 maja 1971 r. Kodeks wykroczeń, przysługuje funkcjonariuszom organów, którzy na mocy przepisów odrębnych są uprawnieni do nakładania grzywien w postępowaniu mandatowym.
 
 #### Rozdział 10 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
@@ -1671,9 +1781,77 @@ Art. 55–63. (pominięte)
 
 **Art. 67.** Do dnia 31 grudnia 2015 r.:
 
+- **1)** przewodniczącym zespołu kontroli zakażeń szpitalnych może być lekarz, który posiada specjalizację inną niż określona na podstawie art. 15 ust. 5 oraz ukończył kurs specjalistyczny z zakresu epidemiologii i kontroli zakażeń szpitalnych;
+- **2)** w skład zespołu kontroli zakażeń szpitalnych mogą wchodzić pielęgniarki i położne, które do tego dnia zostały zatrudnione na stanowisku pielęgniarki epidemiologicznej oraz ukończyły kurs kwalifikacyjny z zakresu pielęgniarstwa epidemiologicznego;
+- **3)** szczepienia ochronne mogą wykonywać lekarze lub felczerzy, pielęgniarki, położne i higienistki szkolne, nieposiadający kwalifikacji określonych na podstawie art. 17 ust. 10 pkt 3, o ile posiadają 2,5-letnią praktykę w zakresie przeprowadzania szczepień ochronnych.
+
 **Art. 68.** (pominięty)
 
 **Art. 69.** Traci moc ustawa z dnia 6 września 2001 r. o chorobach zakaźnych i zakażeniach (Dz. U. poz. 1384, z późn. zm. ).
 
-**Art. 70.** Ustawa wchodzi w życie z dniem 1 stycznia 2009 r., z wyjątkiem art. 9, który wchodzi w życie z dniem 1 stycznia 2010 r. Załącznik do ustawy z dnia 5 grudnia 2008 r. (Dz. U. z 2025 r. poz.
+**Art. 70.** Ustawa wchodzi w życie z dniem 1 stycznia 2009 r., z wyjątkiem art. 9, który wchodzi w życie z dniem 1 stycznia 2010 r. WYKAZ ZAKAŻEŃ I CHORÓB ZAKAŹNYCH
+
+- **1)** (uchylony)
+- **2)** bąblowica i wągrzyca;
+- **3)** biegunki o etiologii infekcyjnej lub nieustalonej u dzieci do lat 2;
+- **4)** błonica;
+- **5)** borelioza z Lyme;
+- **6)** bruceloza;
+- **6a)** Chikungunya;
+- **7)** chlamydiozy i inne zakażenia nierzeżączkowe układu moczopłciowego;
+- **8)** cholera;
+- **9)** choroba Creutzfeldta-Jakoba i inne encefalopatie gąbczaste;
+- **9a)** choroba wirusowa Ebola (EVD);
+- **10)** czerwonka bakteryjna;
+- **11)** dur brzuszny i zakażenia pałeczkami durowymi;
+- **12)** dur wysypkowy (w tym choroba Brill-Zinssera) i inne riketsjozy;
+- **13)** dury rzekome A, B, C i zakażenia pałeczkami rzekomodurowymi;
+- **14)** dżuma;
+- **15)** giardioza;
+- **16)** gorączka Q;
+- **17)** gruźlica i inne mikobakteriozy;
+- **18)** grypa (w tym grypa ptaków u ludzi);
+- **19)** inwazyjne zakażenia Neisseria meningitidis;
+- **20)** inwazyjne zakażenia Streptococcus pneumoniae;
+- **21)** inwazyjne zakażenia Streptococcus pyogenes;
+- **22)** inwazyjne zakażenie Haemophilus influenzae;
+- **23)** jersinioza;
+- **24)** kampylobakterioza;
+- **25)** kiła;
+- **26)** kryptosporydioza;
+- **27)** krztusiec;
+- **28)** legioneloza;
+- **29)** leptospirozy;
+- **30)** listerioza;
+- **31)** nagminne zapalenie przyusznic (świnka);
+- **32)** nosacizna;
+- **33)** odra;
+- **34)** ornitozy;
+- **35)** ospa prawdziwa;
+- **36)** ospa wietrzna;
+- **37)** ostre nagminne porażenie dziecięce (poliomyelitis) oraz inne ostre porażenia wiotkie, w tym zespół Guillaina-Barrégo;
+- **38)** płonica;
+- **39)** pryszczyca;
+- **40)** różyczka i zespół różyczki wrodzonej;
+- **41)** rzeżączka;
+- **42)** salmonelozy inne niż wywołane przez pałeczki Salmonella Typhi i Salmonella Paratyphi A, B, C oraz zakażenia przez nie wywołane;
+- **43)** tężec;
+- **44)** toksoplazmoza wrodzona;
+- **45)** tularemia;
+- **46)** wąglik;
+- **47)** wirusowe gorączki krwotoczne, w tym żółta gorączka;
+- **48)** wirusowe zapalenia wątroby (A, B, C, inne) oraz zakażenia wywołane przez wirusy zapalenia wątroby;
+- **49)** (uchylony)
+- **50)** włośnica;
+- **51)** wścieklizna;
+- **52)** zakażenia żołądkowo-jelitowe oraz zatrucia pokarmowe o etiologii infekcyjnej lub nieustalonej;
+- **53)** zakażenia szpitalne oraz zakażenia biologicznymi czynnikami chorobotwórczymi opornymi na antybiotyki kluczowe dla leczenia;
+- **54)** zakażenia wirusem zachodniego Nilu;
+- **55)** zakażenie ludzkim wirusem niedoboru odporności (HIV) i zespół nabytego niedoboru odporności (AIDS);
+- **55a)** zapalenia opon mózgowo-rdzeniowych lub mózgu o etiologii infekcyjnej lub nieustalonej;
+- **56)** zatrucie jadem kiełbasianym (botulizm);
+- **57)** zespół hemolityczno-mocznicowy i inne postaci zakażenia werotoksycznymi pałeczkami Escherichia coli (STEC/VTEC);
+- **58)** zespoły ciężkiej ostrej niewydolności oddechowej (SARI) lub innej niewydolności narządowej o etiologii infekcyjnej lub nieustalonej;
+- **59)** zimnica (malaria).
+
 

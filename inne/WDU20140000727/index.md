@@ -1,0 +1,47 @@
+---
+title: "Rozporządzenie Rady Ministrów z dnia 20 maja 2014 r. zmieniające rozporządzenie w sprawie kostrzyńsko-słubickiej specjalnej strefy ekonomicznej"
+address: WDU20140000727
+eli: DU/2014/727
+publisher: DU
+year: 2014
+pos: 727
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Rozporządzenie Rady Ministrówz dnia 20 maja 2014 r. zmieniające rozporządzenie w sprawie kostrzyńsko-słubickiej specjalnej strefy ekonomicznej
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2014 poz. 727 |
+| ISAP | WDU20140000727 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2014-05-20 |
+| Data wydania | 2014-05-30 |
+| Wejście w życie | 2014-05-31 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000727) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/727/text.pdf) |
+
+Treść rozporządzenia
+Na podstawie art. 4 ust. 1 i art. 5a ust. 1 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2007 r. Nr 42, poz. 274, z 2008 r. Nr 118, poz. 746 oraz z 2009 r. Nr 18, poz. 97) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie kostrzyńsko-słubickiej specjalnej strefy ekonomicznej (Dz. U. Nr 232, poz. 1551, z późn. zm.) wprowadza się następujące zmiany:
+1)
+w § 1 ust. 2 otrzymuje brzmienie:
+„
+2.
+Strefa obejmuje grunty o powierzchni 1746,9769 ha, położone na terenach miast: Białogard, Gorzów Wielkopolski, Gubin, Kostrzyn nad Odrą, Nowa Sól, Poznań, Szczecin, Zielona Góra i Żary oraz gmin: Barlinek, Buk, Bytom Odrzański, Chodzież, Czerwieńsk, Dębno, Dobiegniew, Drezdenko, Goleniów, Gryfino, Gubin, Kamień Pomorski, Kargowa, Karlino, Kożuchów, Krosno Odrzańskie, Lubsko, Łobez, Międzyrzecz, Nowogard, Nowy Tomyśl, Pełczyce, Przemęt, Rzepin, Skwierzyna, Słubice, Stęszew, Strzelce Krajeńskie, Sulęcin, Swarzędz, Śmigiel, Wągrowiec, Wronki i Zielona Góra.
+” ;
+2)
+w załączniku do rozporządzenia SZCZEGÓŁOWY OPIS GRANIC I TERENU KOSTRZYŃSKO-SŁUBICKIEJ SPECJALNEJ STREFY EKONOMICZNEJ:
+a)
+w Podstrefie Słubice w Kompleksie 2 skreśla się opisy granic i terenów Obszarów: 1 i 2,
+b)
+na końcu SZCZEGÓŁOWEGO OPISU GRANIC I TERENU KOSTRZYŃSKO-SŁUBICKIEJ SPECJALNEJ STREFY EKONOMICZNEJ dodaje się opis granic i terenu Podstrefy Żary w brzmieniu: „ Podstrefa Żary Kompleks 1 Obręb ewidencyjny nr 0007 – Żary, miasto Żary, arkusz mapy 1 Granica biegnie od punktu nr 7–16014, stanowiącego południowo-zachodni narożnik działki nr 13/3, w kierunku północno-zachodnim do punktu nr 7–16029, w którym zmienia kierunek na północno-wschodni, i biegnie wzdłuż granic działek nr: 13/3 i 14/2 przez punkt nr 7–16041 do punktu nr 7–16042. Tu załamuje się w kierunku północno-zachodnim i biegnie wzdłuż granicy działki nr 15/1 przez punkty nr: 7–16086, 7–16096, 7–16109, 7–16114, 7–16134, 7–16139 do punktu nr 7–16143. Stąd biegnie na północny wschód wzdłuż granic działek nr: 15/1 i 734 przez punkty nr: 7–16146 i 7–16169 do punktu nr 7–16217, w którym skręca na południowy wschód, i dochodzi do punktu nr 7–16218. Tu załamuje się w kierunku północno-zachodnim i biegnie wzdłuż granicy działki nr 734 przez punkt nr 7–16220 do punktu nr 7–16226, w którym załamuje się w kierunku północno-wschodnim, i dochodzi do punktu nr 7–16239. Stąd biegnie na południowy wschód wzdłuż granicy działki nr 734 przez punkty nr: 7–16235 i 7–16233 do punktu nr 7–16179. Tu skręca w kierunku północno-zachodnim i biegnie do punktu nr 7–16181, w którym zmienia kierunek na południowo-wschodni, i dochodzi do punktu nr 7–16175. Stąd biegnie na północny zachód wzdłuż granicy działki nr 734 przez punkty nr: 7–16177 i 7–16178 do punktu nr 7–16183. Tu zmienia kierunek na południowo-zachodni i biegnie wzdłuż granicy działki nr 734 przez punkt nr 7–16151 do punktu nr 7–16130, w którym załamuje się w kierunku południowo-wschodnim, i, biegnąc wzdłuż granicy działki nr 15/1 przez punkt nr 7–16129, dochodzi do punktu nr 7–16105. Stąd biegnie na zachód do punktu nr 7–16097, w którym skręca na południowy zachód, i biegnie przez punkt nr 7–16043 wzdłuż granicy działki nr 15/1 do punktu nr 7–16040. Tu skręca na zachód i biegnie wzdłuż granicy działki nr 15/1 przez punkty nr: 7–16037 i 7–16034 do punktu nr 7–16019, w którym załamuje się w kierunku północno-zachodnim, i wzdłuż granicy działki nr 15/1 dochodzi do punktu nr 7–16021. Stąd biegnie na zachód wzdłuż granic działek nr: 14/2 i 13/3 przez punkt nr 7–16020 do punktu nr 7–16014, od którego rozpoczęto opis. Kompleks 2 Obręb ewidencyjny nr 0007 – Żary, miasto Żary, arkusze mapy: 2, 3 Granica biegnie od punktu nr 7–16101, położonego w południowo-zachodnim narożniku działki nr 29/16, w kierunku północno-zachodnim wzdłuż zachodniej granicy działki nr 29/16 przez punkty nr: 7–16107, 7–16126, 7–16160, 7–16172, 7–16215, 7–16238, 7–16244, 7–16246, 7–16249, 7–16254 i 7–16263 do punktu nr 7–16265, w którym załamuje się w kierunku wschodnim, i wzdłuż granicy działki nr 29/16 dochodzi do punktu nr 7–16267. Stąd biegnie wzdłuż granicy działki nr 29/16 w kierunku północno-wschodnim do punktu nr 7–16273, w którym zmienia kierunek na wschodni, i biegnie wzdłuż granic działek nr: 29/16, 31/2 i 41/1 przez punkty nr: 7–16280, 7–16288, 7–16328, 7–16361, 7–16402, 7–16424, 7–16425, 7–16440, 7–16446, 7–16450, 7–16454, 7–16472, 7–16490, 7–16494, 7–16506, 7–16508, 7–16519 i 7–16538 do punktu nr 7–10969. Tu załamuje się w kierunku południowo-wschodnim i biegnie wzdłuż granic działek nr: 41/1, 40/100, 40/104, 40/105, 40/106 i 40/107 przez punkty nr: 7–10978, 7–10983, 7–10992, 7–11007, 7–11012, 7–11019 i 7–11021 do punktu nr 7–11044. Stąd biegnie na południowy zachód wzdłuż granicy działki nr 40/107 do punktu nr 7–11015, w którym skręca na północny zachód, i biegnie wzdłuż granic działek nr: 40/107 i 40/106 przez punkt nr 7–11008 do punktu nr 7–11002. Tu załamuje się na południowy zachód i biegnie wzdłuż granic działek nr: 40/82, 40/96 i 49/1 przez punkty nr: 7–16478, 7–16477, 7–16473, 7–16470 do punktu nr 7–16466. Dalej biegnie w tym samym kierunku wzdłuż granic działek nr: 49/1, 48/5, 48/3, 48/2 i 47 przez punkty nr: 7–16462, 7–16459, 7–16443, 7–16437, 7–16429, 7–16428 i 7–16426 do punktu nr 7–16420. Tu załamuje się w kierunku północno-zachodnim i biegnie wzdłuż działek nr: 47 i 29/14 przez punkty nr: 7–16383, 7–16382, 7–16371 i 7–16370 do punktu nr 7–16358, w którym skręca na południowy zachód, i biegnie wzdłuż granicy działki nr 29/9 do punktu 7–16350. Stąd biegnie na południe wzdłuż granicy działki nr 29/17 do punktu nr 7–16346, w którym zmienia kierunek na zachodni, i przez punkt nr 7–16339 dochodzi do punktu nr 7–16335. Tu załamuje się w kierunku południowo-zachodnim i biegnie wzdłuż granicy działki nr 29/9 do punktu nr 7–16325, w którym skręca na zachód, i wzdłuż granicy działki nr 29/9 dochodzi do punktu nr 7–16314. Stąd biegnie w kierunku południowym wzdłuż granicy działki nr 29/16 do punktu nr 7–16308, w którym załamuje się na zachód, i biegnie wzdłuż granicy działki nr 29/16 przez punkt nr 7–16303 do punktu nr 7–16286. Tu skręca na południe i biegnie wzdłuż granicy działki nr 29/16 do punktu nr 7–16275, w którym zmienia kierunek na południowo-zachodni, i biegnie wzdłuż granicy działki nr 29/16 do punktu nr 7–16101, od którego rozpoczęto opis. Wewnątrz Kompleksu 2 znajduje się działka nr 29/2, która nie wchodzi w obszar strefy, stanowiąc enklawę opisaną punktami nr: 7–16118, 7–16152, 7–16154, 7–16168, 7–16209 i 7–16158. Kompleks 3 Obręb ewidencyjny nr 0007 – Żary, miasto Żary, arkusz mapy 14 Granica biegnie od punktu nr 7–16123, stanowiącego północno-zachodni narożnik działki nr 460/1, w kierunku wschodnim wzdłuż granic działek nr: 460/1, 446, 450/1 i 417/2 przez punkty nr: 7–16144, 7–16200, 7–16203, 7–16211, 7–16214 i 7–16212 do punktu nr 7–16247. Tu zmienia kierunek na południowy i biegnie wzdłuż granicy działki nr 417/2 przez punkty nr: 7–16245, 7–16242, 7–16125, 7–16068 i 7–16059 do punktu nr 7–16053, w którym załamuje się na zachód, i dochodzi do punktu nr 7–16047. Stąd biegnie na północny zachód wzdłuż rowu (działka nr 450/1) przez punkty nr: 7–16061 i 7–16085 do punktu nr 7–16127, w którym zmienia kierunek na południowo-zachodni, i biegnie wzdłuż granicy działki nr 446 przez punkt nr 7–16111 do punktu nr 7–16045. Tu załamuje się w kierunku północno-zachodnim i biegnie wzdłuż granicy działki nr 446 do punktu nr 7–16089, w którym skręca na południowy zachód, i biegnie wzdłuż granicy działki nr 460/1 do punktu nr 7–16048. Stąd biegnie na północny zachód przez punkty nr: 7–16062, 7–16120 i 7–16122 do punktu nr 7–16123, od którego rozpoczęto opis. ” .
+§ 2.
+Rozporządzenie wchodzi w życie z dniem 31 maja 2014 r.
+

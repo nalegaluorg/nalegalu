@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o Żandarmerii Wojskowej i wojskowych organach porządkowych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 lutego 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 lutego 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-02-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000159) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/159/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 lutego 2026 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o Żandarmerii Wojskowej i wojskowych organach porządkowych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2025 r.
 poz. 12), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 24 stycznia 2025 r. o zmianie ustawy Prawo lotnicze oraz niektórych innych ustaw (Dz. U. poz. 179),
@@ -81,7 +81,7 @@ Art. 54–68. (pominięte)
 - **4)** osób przebywających na terenach lub obiektach jednostek wojskowych;
 - **4a)** osób przebywających na terenach lub obiektach placówek zagranicznych Rzeczypospolitej Polskiej;
 - **4b)** osób stwarzających lub mogących stwarzać zagrożenie dla osoby ochranianej;
-- **5)** innych osób niż określone pkt 1–4, podlegających orzecznictwu sądów wojskowych albo jeżeli wynika to z odrębnych przepisów; albo czynów przeciwko życiu lub zdrowiu żołnierza albo mieniu wojskowemu;
+- **5)** innych osób niż określone pkt 1–4, podlegających orzecznictwu sądów wojskowych albo jeżeli wynika to z odrębnych przepisów; zabronionego przez ustawę pod groźbą kary albo też jeżeli dokonują czynów zagrażających dyscyplinie wojskowej albo czynów przeciwko życiu lub zdrowiu żołnierza albo mieniu wojskowemu;
 - **7)** żołnierzy sił zbrojnych państw obcych, przebywających na terytorium Rzeczypospolitej Polskiej oraz członków ich personelu cywilnego, jeżeli pozostają związku z pełnieniem obowiązków służbowych, o ile umowa międzynarodowa, której Rzeczpospolita Polska jest stroną, nie stanowi inaczej.
 
 **Art. 4.**
@@ -226,7 +226,7 @@ Art. 54–68. (pominięte)
     - **s)** wykształcenie,
     - **t)** wynik rozmowy kwalifikacyjnej,
     - **u)** wyniki wywiadu miejscu zamieszkania i pracy,
-    - **v)** wyniki sprawdzeń kartotekach niedostępnych powszechnie, o których mowa art. 25 ust. 1 pkt 2 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych,
+    - **v)** wyniki sprawdzeń kartotekach niedostępnych powszechnie, o których mowa art. 25 ust. 1 pkt 2 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych, trum Informacji Kryminalnych,
     - **x)** wynik badania psychologicznego,
     - **y)** wynik badania psychofizjologicznego;
 
@@ -461,7 +461,7 @@ Art. 54–68. (pominięte)
 - **5)** który, będąc pozbawiony wolności, samowolnie opuścił izbę zatrzymań, areszt śledczy, zakład karny lub wojskowy areszt dyscyplinarny albo opuścił je na podstawie zezwolenia właściwego organu i wyznaczonym terminie nie powrócił do nich;
 - **6)** który, pełniąc niezawodową służbę wojskową, samowolnie przebywa poza jednostką wojskową lub wyznaczonym miejscem przebywania;
 - **7)** który mundurze wojskowym znajduje się miejscu publicznym pod wpływem środka odurzającego lub substancji psychotropowej albo środka zastępczego;
-- **8)** który nosi mundur wojskowy albo posiada uzbrojenie lub wyekwipowanie wojskowe, niezgodne z obowiązującymi przepisami. z 2024 r. poz. 1673), zwanej dalej „ustawą o przeciwdziałaniu przemocy domowej”, stwarzającego bezpośrednie zagrożenie dla życia lub zdrowia ludzkiego.
+- **8)** który nosi mundur wojskowy albo posiada uzbrojenie lub wyekwipowanie wojskowe, niezgodne z obowiązującymi przepisami. przemoc domową rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej (Dz. U. z 2024 r. poz. 1673), zwanej dalej „ustawą o przeciwdziałaniu przemocy domowej”, stwarzającego bezpośrednie zagrożenie dla życia lub zdrowia ludzkiego.
 
 3. Żołnierz Żandarmerii Wojskowej celu stwierdzenia zasadności zatrzymania, o którym mowa ust. 2, ocenia ryzyko bezpośredniego zagrożenia dla życia lub zdrowia ludzkiego, odrębnie dla osoby dorosłej i dziecka, biorąc pod uwagę szczególności:
 
@@ -493,7 +493,7 @@ Art. 54–68. (pominięte)
 
 3. (uchylony)
 
-4. (uchylony)
+4. (uchylony) mieszkania, którą osoba stosująca przemoc domową jest obowiązana zachować.
 
 6. Przepis ust. 1 stosuje się do każdego lokalu służącego zaspokajaniu bieżących potrzeb mieszkaniowych. Art. 18aa. 1. Żołnierz Żandarmerii Wojskowej ma prawo wydać wobec osoby stosującej przemoc domową rozumieniu przepisów ustawy o przeciwdziałaniu przemocy domowej, stwarzającej zagrożenie dla życia lub zdrowia osoby doznającej tej przemocy, zakaz zbliżania się do tej osoby na wyrażoną metrach odległość, zwany dalej „zakazem zbliżania”, lub zakaz kontaktowania się z osobą doznającą przemocy domowej, zwany dalej „zakazem kontaktowania”.
 
@@ -551,11 +551,9 @@ Art. 54–68. (pominięte)
 - **7)** uzasadnienie, którym wskazuje się podstawy faktyczne ich wydania;
 - **8)** pouczenia, tym o trybie, formie i sposobie wnoszenia zażalenia.
 
-2. Minister Obrony Narodowej określi, drodze rozporządzenia, wzór nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania oraz zakazu wstępu, sposób wykonywania i dokumentowania czynności związanych z wydaniem nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania oraz zakazu wstępu i wzór kwestionariusza szacowania ryzyka zagrożenia życia lub zdrowia ludzkiego służący stwierdzeniu zasadności zatrzymania, o którym mowa art. 18 ust. 2, lub wydania nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, mając na względzie potrzebę zawarcia niezbędnych pouczeń nakazie i zakazie, zakazie zbliżania, zakazie kontaktowania oraz zakazie wstępu, a także sprawnego sporządzania dokumentacji oraz konieczność natychmiastowej i skutecznej ochrony osób doznających przemocy domowej.
+2. Minister Obrony Narodowej określi, drodze rozporządzenia, wzór nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania oraz zakazu wstępu, sposób wykonywania i dokumentowania czynności związanych z wydaniem nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania oraz zakazu wstępu i wzór kwestionariusza szacowania ryzyka zagrożenia życia lub zdrowia ludzkiego służący stwierdzeniu zasadności zatrzymania, o którym mowa art. 18 ust. 2, lub wydania nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, mając na względzie potrzebę zawarcia niezbędnych pouczeń nakazie i zakazie, zakazie zbliżania, zakazie kontaktowania oraz zakazie wstępu, a także sprawnego sporządzania dokumentacji oraz konieczność natychmiastowej i skutecznej ochrony osób doznających przemocy domowej. lub zakazu wstępu niezwłocznie po ich wydaniu osobie stosującej przemoc domową oraz osobie doznającej tej przemocy.
 
-**Art. 18d.**
-
-1. Żołnierz Żandarmerii Wojskowej doręcza odpis nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu niezwłocznie po ich wydaniu osobie stosującej przemoc domową oraz osobie doznającej tej przemocy. ust. 1, odpis należy złożyć we właściwej jednostce organizacyjnej Żandarmerii Wojskowej, umieszczając zawiadomienie o ich wydaniu na drzwiach wspólnie zajmowanego mieszkania, ze wskazaniem przyczyny umieszczenia zawiadomienia oraz wskazaniem, gdzie i kiedy pismo pozostawiono. Doręczenie uważa się za dokonane z chwilą umieszczenia zawiadomienia na drzwiach wspólnie zajmowanego mieszkania.
+1a. W razie niemożności doręczenia osobie stosującej przemoc domową, zamieszkującej wspólnie z osobą doznającą tej przemocy odpisu nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, sposób określony ust. 1, odpis należy złożyć we właściwej jednostce organizacyjnej Żandarmerii Wojskowej, umieszczając zawiadomienie o ich wydaniu na drzwiach wspólnie zajmowanego mieszkania, ze wskazaniem przyczyny umieszczenia zawiadomienia oraz wskazaniem, gdzie i kiedy pismo pozostawiono. Doręczenie uważa się za dokonane z chwilą umieszczenia zawiadomienia na drzwiach wspólnie zajmowanego mieszkania.
 
 1b. W przypadku wydania zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, gdy osoba stosująca przemoc domową nie zamieszkuje wspólnie z osobą doznającą tej przemocy, zawiadomienie o ich wydaniu umieszcza się niezwłocznie na drzwiach mieszkania osoby doznającej przemocy domowej. Żandarmeria Wojskowa terminie 24 godzin od chwili wydania zakazów, o których mowa zdaniu pierwszym, doręcza osobie stosującej przemoc domową ich odpisy miejscu jej zamieszkania lub innym miejscu, którym osoba ta przebywa lub ją zastano. Doręczenie uważa się za dokonane z chwilą doręczenia osobie stosującej przemoc domową odpisu zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu. Przepis art. 138 Kodeksu postępowania cywilnego stosuje się odpowiednio.
 
@@ -581,7 +579,7 @@ Art. 54–68. (pominięte)
 
 - **1)** datę, czas, miejsce oraz podstawę prawną przeprowadzenia czynności;
 - **2)** dane żołnierzy Żandarmerii Wojskowej przeprowadzających czynność oraz osób niej uczestniczących;
-- **3)** oznaczenie czynności oraz jej przebieg;
+- **4)** wzmiankę o wydaniu nakazu i zakazu;
 - **5)** oświadczenia osób uczestniczących czynności oraz żołnierzy Żandarmerii Wojskowej;
 - **6)** wzmiankę o udzieleniu pouczeń oraz udzielonych informacjach, o których mowa art. 18g i art. 18h;
 - **7)** miarę potrzeby stwierdzenie innych okoliczności dotyczących przebiegu czynności, szczególności wskazanie zabranych ze wspólnie zajmowanego mieszkania i z jego bezpośredniego otoczenia przedmiotów osobistego użytku i przedmiotów niezbędnych do wykonywania osobistej pracy zarobkowej lub zwierząt domowych będących własnością osoby stosującej przemoc domową niezbędnych do codziennego funkcjonowania lub pracy zarobkowej oraz opis pozostawionego mienia, które według twierdzeń osoby stosującej przemoc domową, wobec której wydano nakaz i zakaz, stanowi jej własność.
@@ -606,12 +604,9 @@ Art. 54–68. (pominięte)
 
 3. Niedoręczenie korespondencji wymaga udokumentowania ze wskazaniem przyczyny niedoręczenia.
 
-4. Minister Obrony Narodowej określi, drodze rozporządzenia, wzór zawiadomienia osoby stosującej przemoc domową, wobec której został wydany nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu, pozostawianego razie niemożności doręczenia jej korespondencji, mając na uwadze konieczność zrozumienia zawiadomienia również przez osoby niekorzystające z profesjonalnej pomocy prawnej.
+4. Minister Obrony Narodowej określi, drodze rozporządzenia, wzór zawiadomienia osoby stosującej przemoc domową, wobec której został wydany nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu, pozostawianego razie niemożności doręczenia jej korespondencji, mając na uwadze konieczność zrozumienia zawiadomienia również przez osoby niekorzystające z profesjonalnej pomocy prawnej. taktowania lub zakazu wstępu, informuje osobę doznającą przemocy domowej o:
 
-**Art. 18g.**
-
-1. Żołnierz Żandarmerii Wojskowej, przypadku wydania nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, informuje osobę doznającą przemocy domowej o: mieszkania i jego bezpośredniego otoczenia, zakaz zbliżania się do osoby doznającej przemocy domowej, zakaz kontaktowania się z osobą doznającą przemocy domowej lub zakaz wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, lub obiektu sportowego, do których uczęszcza osoba doznająca przemocy domowej, miejsca pracy lub innego miejsca, którym zwykle lub regularnie przebywa osoba doznająca przemocy domowej, i przebywania na tym terenie, o których mowa przepisach ustawy o przeciwdziałaniu przemocy domowej;
-
+- **1)** możliwości i sposobie złożenia żądania, aby sąd zobowiązał osobę stosującą przemoc domową do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, wydał zakaz zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, zakaz zbliżania się do osoby doznającej przemocy domowej, zakaz kontaktowania się z osobą doznającą przemocy domowej lub zakaz wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, lub obiektu sportowego, do których uczęszcza osoba doznająca przemocy domowej, miejsca pracy lub innego miejsca, którym zwykle lub regularnie przebywa osoba doznająca przemocy domowej, i przebywania na tym terenie, o których mowa przepisach ustawy o przeciwdziałaniu przemocy domowej;
 - **2)** obowiązku wszczęcia przez organy ścigania, niezależnie od wydanego nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, postępowania karnego związku z popełnieniem ściganego z urzędu przestępstwa z użyciem przemocy i możliwości stosowania toku prowadzonego postępowania środków zapobiegawczych, o których mowa przepisach Kodeksu postępowania karnego;
 - **3)** możliwości uzyskania wsparcia we właściwym miejscowo ośrodku pomocy społecznej, specjalistycznym ośrodku wsparcia dla osób doznających przemocy domowej rodzinie i innych placówkach świadczących pomoc osobom doznającym przemocy domowej rodzinie;
 - **4)** całodobowym ogólnopolskim telefonie dla osób doznających przemocy domowej rodzinie;
@@ -633,9 +628,9 @@ Art. 54–68. (pominięte)
 
 1. Osobie, wobec której wydano nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu, oraz prokuratorowi przysługuje zażalenie do sądu rejonowego, do którego należy rozpoznawanie spraw z zakresu przeciwdziałania przemocy domowej. Zażalenie wnosi się terminie 3 dni od dnia doręczenia nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, o czym należy osobę stosującą przemoc domową pouczyć przy doręczeniu. W zażaleniu można domagać się zbadania prawidłowości prowadzenia czynności, zasadności oraz legalności wydanego nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu. W zakresie nieuregulowanym do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o postępowaniu nieprocesowym, z tym że nie stosuje się przepisu art. 373 tego Kodeksu.
 
-1a. Zażalenie wnosi się do sądu rejonowego właściwego ze względu na miejsce położenia wspólnie zajmowanego mieszkania. W przypadku gdy osoba stosująca przemoc domową, wobec której wydano zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu, nie mieszka wspólnie z osobą doznającą tej przemocy, zażalenie wnosi się do sądu rejonowego właściwego ze względu na miejsce zamieszkania osoby doznającej przemocy domowej.
+1a. Zażalenie wnosi się do sądu rejonowego właściwego ze względu na miejsce położenia wspólnie zajmowanego mieszkania. W przypadku gdy osoba stosująca przemoc domową, wobec której wydano zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu, nie mieszka wspólnie z osobą doznającą tej przemocy, zażalenie wnosi się do sądu rejonowego właściwego ze względu na miejsce zamieszkania osoby doznającej przemocy domowej. jego wpływu do sądu. Uczestnikami postępowania są organ, który wydał nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu, osoba, wobec której zostały one wydane, oraz prokurator, jeżeli złożył zażalenie.
 
-2. Sąd rozpoznaje zażalenie składzie jednego sędziego niezwłocznie, niepóźniej jednak niż terminie 3 dni od dnia jego wpływu do sądu. Uczestnikami postępowania są organ, który wydał nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu, osoba, wobec której zostały one wydane, oraz prokurator, jeżeli złożył zażalenie. dzenia jego bezzasadności lub nielegalności, o czym niezwłocznie zawiadamia osobę, wobec której zostały one wydane, osobę doznającą przemocy domowej, prokuratora, właściwą jednostkę organizacyjną Żandarmerii Wojskowej oraz zespół interdyscyplinarny, o którym mowa ustawie o przeciwdziałaniu przemocy domowej, a gdy czynności podejmował sąd opiekuńczy także ten sąd.
+3. Sąd uchyla zaskarżony nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu przypadku stwierdzenia jego bezzasadności lub nielegalności, o czym niezwłocznie zawiadamia osobę, wobec której zostały one wydane, osobę doznającą przemocy domowej, prokuratora, właściwą jednostkę organizacyjną Żandarmerii Wojskowej oraz zespół interdyscyplinarny, o którym mowa ustawie o przeciwdziałaniu przemocy domowej, a gdy czynności podejmował sąd opiekuńczy także ten sąd.
 
 3a. Jeżeli jest to niezbędne dla zapewnienia szybkości postępowania, sąd może dokonywać doręczeń przez Żandarmerię Wojskową. Do doręczeń stosuje się odpowiednio przepis art. 560 Kodeksu postępowania cywilnego.
 
@@ -671,11 +666,9 @@ Art. 54–68. (pominięte)
 
 1. Na sposób przeprowadzenia czynności, o których mowa art. 17 ust. 1 pkt 1, 2, 12–14 i 16, osobie, wobec której została wykonana taka czynność, przysługuje zażalenie do prokuratora do spraw wojskowych powszechnej jednostce organizacyjnej prokuratury właściwej ze względu na miejsce dokonania czynności, terminie 7 dni od dnia jej dokonania.
 
-2. W sprawach, o których mowa ust. 1, stosuje się odpowiednio przepisy o postępowaniu karnym sprawach podlegających orzecznictwu sądów wojskowych, dotyczące postępowania odwoławczego.
+2. W sprawach, o których mowa ust. 1, stosuje się odpowiednio przepisy o postępowaniu karnym sprawach podlegających orzecznictwu sądów wojskowych, dotyczące postępowania odwoławczego. wanie innych środków jest nieskuteczne.
 
-**Art. 25.**
-
-1. Zatrzymanie żołnierza przypadkach, o których mowa art. 17 ust. 1 pkt 4, może nastąpić, gdy zastosowanie innych środków jest nieskuteczne. skowych, a na Żandarmerii Wojskowej ciążą obowiązki wynikające z tych przepisów.
+2. Żołnierzowi zatrzymanemu przypadkach, o których mowa art. 17 ust. 1 pkt 4, przysługują uprawnienia przewidziane przepisach o postępowaniu karnym dla osób zatrzymanych sprawach podlegających orzecznictwu sądów wojskowych, a na Żandarmerii Wojskowej ciążą obowiązki wynikające z tych przepisów.
 
 3. Osoba zatrzymana przypadkach, o których mowa art. 17 ust. 1 pkt 3 i 4, może być okazywana, fotografowana i poddawana badaniom daktyloskopijnym, gdy jej tożsamości nie można ustalić inny sposób.
 
@@ -710,9 +703,7 @@ Art. 54–68. (pominięte)
 
 1. Osobom udzielającym pomocy, o której mowa art. 17 ust. 1 pkt 12 i 13, przysługują czasie jej udzielania uprawnienia żołnierzy Żandarmerii Wojskowej określone art. 17 ust. 1 pkt 1, 3, 4, 10 i 14.
 
-2. Osobom udzielającym pomocy, o której mowa art. 17 ust. 1 pkt 12 i 13, związku z użyciem ich nieruchomości i rzeczy ruchomych oraz zainstalowanie i eksploatowanie urządzeń technicznych przysługuje ryczałt, a także odszkodowanie za szkody dotyczące tych nieruchomości i rzeczy ruchomych powstałe czasie udzielania pomocy i związku z nią, na zasadach i trybie określonych przepisach o świadczeniach rzeczowych na rzecz obrony czasie pokoju.
-
-3. Osobom, które doznały uszczerbku na zdrowiu wskutek wypadku powstałego czasie udzielania pomocy, o której mowa art. 17 ust. 1 pkt 12 i 13, lub związku z jej udzielaniem, oraz członkom rodzin osób zmarłych wskutek takiego dach i trybie określonym przepisach o świadczeniach osobistych na rzecz obrony czasie pokoju.
+2. Osobom udzielającym pomocy, o której mowa art. 17 ust. 1 pkt 12 i 13, związku z użyciem ich nieruchomości i rzeczy ruchomych oraz zainstalowanie i eksploatowanie urządzeń technicznych przysługuje ryczałt, a także odszkodowanie za szkody dotyczące tych nieruchomości i rzeczy ruchomych powstałe czasie udzielania pomocy i związku z nią, na zasadach i trybie określonych przepisach o świadczeniach rzeczowych na rzecz obrony czasie pokoju. mowa art. 17 ust. 1 pkt 12 i 13, lub związku z jej udzielaniem, oraz członkom rodzin osób zmarłych wskutek takiego wypadku przysługuje jednorazowe odszkodowanie, renta inwalidzka i rodzinna oraz świadczenie wyrównawcze, na zasadach i trybie określonym przepisach o świadczeniach osobistych na rzecz obrony czasie pokoju.
 
 **Art. 28.**
 
@@ -747,9 +738,9 @@ Art. 54–68. (pominięte)
 
 9. Komendant Główny Żandarmerii Wojskowej może upoważnić osoby, o których mowa ust. 8, do udzielania i cofania, jego imieniu, upoważnień do przetwarzania danych osobowych podległym im żołnierzom i pracownikom Żandarmerii Wojskowej.
 
-10. Komendanci i szefowie jednostek i komórek organizacyjnych, o których mowa ust. 7 i 8, mogą tworzyć lub likwidować zbiory danych, których przetwarza się informacje, tym dane osobowe, celu realizacji zadań ustawowych.
+10. Komendanci i szefowie jednostek i komórek organizacyjnych, o których mowa ust. 7 i 8, mogą tworzyć lub likwidować zbiory danych, których przetwarza się informacje, tym dane osobowe, celu realizacji zadań ustawowych. ust. 10.
 
-11. W przypadku likwidowania zbiorów danych, dokonuje tego komisja wyznaczona przez osoby, o których mowa ust. 10.
+12. Komendanci i szefowie jednostek i komórek organizacyjnych, o których mowa ust. 7 i 8, prowadzą rejestr zbiorów danych, których przetwarza się informacje, tym dane osobowe.
 
 13. Żandarmeria Wojskowa udostępnia właściwym podmiotom informacje, o których mowa art. 4 ust. 2 pkt 19, tym dane osobowe, na pisemny wniosek, który powinien zawierać podstawę prawną, przeznaczenie, wskazanie okresu oraz zakresu danych podlegających sprawdzeniu, a także podpis upoważnionej osoby.
 
@@ -778,9 +769,7 @@ Art. 54–68. (pominięte)
 
 - **1)** żołnierzowi Żandarmerii Wojskowej wskazanemu pisemnym wniosku Komendanta Głównego Żandarmerii Wojskowej lub komendanta oddziału Żandarmerii Wojskowej albo osoby przez nich upoważnionej;
 - **2)** na ustne żądanie żołnierza Żandarmerii Wojskowej posiadającego pisemne upoważnienie osób, o których mowa pkt 1;
-- **3)** za pośrednictwem sieci telekomunikacyjnej żołnierzowi Żandarmerii Wojskowej posiadającemu pisemne upoważnienie osób, o których mowa pkt 1.
-
-3. W przypadku, o którym mowa ust. 2 pkt 3, udostępnianie danych, o których mowa ust. 1, odbywa się bez udziału pracowników przedsiębiorcy telekomunikacyjnego, operatora pocztowego lub usługodawcy świadczącego usługi Komendantem Głównym Żandarmerii Wojskowej a tym podmiotem.
+- **3)** za pośrednictwem sieci telekomunikacyjnej żołnierzowi Żandarmerii Wojskowej posiadającemu pisemne upoważnienie osób, o których mowa pkt 1. udziału pracowników przedsiębiorcy telekomunikacyjnego, operatora pocztowego lub usługodawcy świadczącego usługi drogą elektroniczną, lub przy ich niezbędnym współudziale, jeżeli możliwość taką przewiduje porozumienie zawarte pomiędzy Komendantem Głównym Żandarmerii Wojskowej a tym podmiotem.
 
 4. Udostępnienie Żandarmerii Wojskowej danych, o których mowa ust. 1, może nastąpić za pośrednictwem sieci telekomunikacyjnej, jeżeli:
 
@@ -822,8 +811,8 @@ Art. 54–68. (pominięte)
 1. W celu zapobiegania lub wykrywania przestępstw, tym przestępstw skarbowych, popełnionych przez osoby, o których mowa art. 3 ust. 2, albo celu ratowania życia lub zdrowia ludzkiego bądź wsparcia działań poszukiwawczych lub ratowniczych, Żandarmeria Wojskowa może uzyskiwać dane:
 
 - **1)** o których mowa art. 43 ust. 1 pkt 1 lit. a tiret drugie ustawy z dnia 12 lipca 2024 r. Prawo komunikacji elektronicznej,
-- **2)** o których mowa art. 389 ustawy z dnia 12 lipca 2024 r. Prawo komunikacji elektronicznej,
-- **3)** przypadku użytkownika, który nie jest osobą fizyczną numer zakończenia sieci oraz siedzibę lub miejsce wykonywania działalności gospodarczej, firmę lub nazwę i formę organizacyjną tego użytkownika, duje się zakończenie sieci, udostępnione użytkownikowi oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
+- **2)** o których mowa art. 389 ustawy z dnia 12 lipca 2024 r. Prawo komunikacji elektronicznej, wania działalności gospodarczej, firmę lub nazwę i formę organizacyjną tego użytkownika,
+- **4)** przypadku stacjonarnej publicznej sieci telekomunikacyjnej także nazwę miejscowości oraz ulicy, przy której znajduje się zakończenie sieci, udostępnione użytkownikowi oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
 
 2. Do udostępniania i przetwarzania danych, o których mowa ust. 1, art. 30 ust. 2–7 stosuje się.
 
@@ -849,7 +838,7 @@ Art. 54–68. (pominięte)
 - **5)** skarbowych, jeżeli wartość przedmiotu czynu lub uszczuplenie należności publicznoprawnej przekraczają pięćdziesięciokrotną wysokość najniższego wynagrodzenia za pracę określonego na podstawie odrębnych przepisów,
 - **6)** określonych art. 8 ustawy z dnia 6 czerwca 1997 r. Przepisy wprowadzające Kodeks karny (Dz. U. poz. 554 i 1083, z 2009 r. poz. 1149 i 1589, z 2010 r. poz. 626 oraz z 2022 r. poz. 2600), 6a) określonych rozdziale 11 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907 oraz z 2025 r. poz. 1168 i 1673), rozdziale 5 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164 oraz z 2025 r. poz. 1173), rozdziale 6 ustawy z dnia 25 maja 2017 r. o restytucji narodowych dóbr kultury (Dz. U. z 2019 r. poz. 1591), rozdziale 5a ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2022 r. poz. 385) oraz rozdziale 11a ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. z 2022 r. poz. 2393),
 - **7)** określonych art. 43 i art. 44 ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2023 r. poz. 1185),
-- **8)** określonych art. 53 ust. 1, art. 55 ust. 1, art. 56 ust. 1, art. 58 ust. 1, art. 59 ust. 1, art. 62 ust. 1 oraz art. 62b ust. 1 i 2 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2023 r. poz. 1939),
+- **8)** określonych art. 53 ust. 1, art. 55 ust. 1, art. 56 ust. 1, art. 58 ust. 1, art. 59 ust. 1, art. 62 ust. 1 oraz art. 62b ust. 1 i 2 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2023 r. poz. 1939), polskiej ustawie karnej,
 - **10)** o których mowa pkt 1–9 lub, o których mowa art. 45 § 2 Kodeksu karnego albo art. 33 § 2 Kodeksu karnego skarbowego celu ujawnienia mienia zagrożonego przepadkiem związku z tymi przestępstwami gdy inne środki okazały się bezskuteczne albo będą nieprzydatne, wojskowy sąd okręgowy, na pisemny wniosek Komendanta Głównego Żandarmerii Wojskowej, złożony po uzyskaniu pisemnej zgody Pierwszego Zastępcy Prokuratora Generalnego Prokuratora Krajowego, lub na pisemny wniosek komendanta oddziału Żandarmerii Wojskowej, złożony po uzyskaniu zgody Komendanta Głównego Żandarmerii Wojskowej i pisemnej zgody właściwego zastępcy prokuratora okręgowego do spraw wojskowych, może, drodze postanowienia, zarządzić kontrolę operacyjną.
 
 1a. Wniosek, o którym mowa ust. 1, przedstawia się wraz z materiałami uzasadniającymi potrzebę zastosowania kontroli operacyjnej.
@@ -903,7 +892,7 @@ Art. 54–68. (pominięte)
 
 16a. (uchylony) 16b. (uchylony) 16c. (uchylony) 16d. (uchylony) 16e. (uchylony) 16f. W przypadku, gdy materiały, o których mowa ust. 16:
 
-- **1)** zawierają informacje, o których mowa art. 178 Kodeksu postępowania karnego, Komendant Główny Żandarmerii Wojskowej albo komendant oddziału Żandarmerii Wojskowej zarządza ich niezwłoczne, komisyjne i protokolarne zniszczenie; związane z wykonywaniem zawodu lub funkcji, o których mowa art. 180 § 2 Kodeksu postępowania karnego, Komendant Główny Żandarmerii Wojskowej albo komendant oddziału Żandarmerii Wojskowej przekazuje prokuratorowi do spraw wojskowych te materiały.
+- **1)** zawierają informacje, o których mowa art. 178 Kodeksu postępowania karnego, Komendant Główny Żandarmerii Wojskowej albo komendant oddziału Żandarmerii Wojskowej zarządza ich niezwłoczne, komisyjne i protokolarne zniszczenie; informacji o przestępstwach, o których mowa art. 240 § 1 Kodeksu karnego, albo informacje stanowiące tajemnice związane z wykonywaniem zawodu lub funkcji, o których mowa art. 180 § 2 Kodeksu postępowania karnego, Komendant Główny Żandarmerii Wojskowej albo komendant oddziału Żandarmerii Wojskowej przekazuje prokuratorowi do spraw wojskowych te materiały.
 
 16g. W przypadku, o którym mowa ust. 16f pkt 2, prokurator do spraw wojskowych niezwłocznie po otrzymaniu materiałów, kieruje je do sądu, który zarządził kontrolę operacyjną albo wyraził na nią zgodę trybie określonym ust. 4, wraz z wnioskiem o:
 
@@ -1018,7 +1007,7 @@ Art. 54–68. (pominięte)
 - **1)** kto poleca sporządzenie lub kieruje sporządzeniem dokumentów, o których mowa ust. 2;
 - **2)** kto sporządza lub wydaje dokumenty, o których mowa ust. 2, lub wydaje środki identyfikacji elektronicznej, o których mowa ust. 2a, lub dopuszcza swoim systemie do uwierzytelnienia z wykorzystaniem takich środków;
 - **3)** kto udziela pomocy sporządzeniu dokumentów, o których mowa ust. 2, lub wydaniu środków identyfikacji elektronicznej, o których mowa ust. 2a;
-- **4)** żołnierz Żandarmerii Wojskowej lub osoba wymieniona art. 36 ust. 1 posługująca się przy wykonywaniu czynności operacyjno-rozpoznawczych dokumentami, o których mowa ust. 2, lub środkami identyfikacji elektronicznej, o których mowa ust. 2a. dokumentów oraz przepisów o ochronie informacji niejawnych.
+- **4)** żołnierz Żandarmerii Wojskowej lub osoba wymieniona art. 36 ust. 1 posługująca się przy wykonywaniu czynności operacyjno-rozpoznawczych dokumentami, o których mowa ust. 2, lub środkami identyfikacji elektronicznej, o których mowa ust. 2a. nia się i przechowywania dokumentów, o których mowa ust. 2, z uwzględnieniem przepisów dotyczących odpowiednich dokumentów oraz przepisów o ochronie informacji niejawnych.
 
 **Art. 40a.** Żandarmeria Wojskowa może, zakresie koniecznym do wykonywania jej zadań ustawowych, korzystać z informacji kryminalnej zgromadzonej Krajowym Centrum Informacji Kryminalnych.
 
@@ -1045,7 +1034,7 @@ Art. 54–68. (pominięte)
 4. Informacje i dane, o których mowa ust. 1:
 
 - **1)** dotyczące dokumentacji związanej z nadaniem NIP oraz aktualizowaniem danych zawartych zgłoszeniach identyfikacyjnych, określonej art. 13 ust. 1 ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2025 r. poz. 237, 769 i 820),
-- **2)** zawarte aktach niezawierających informacji, o których mowa art. 182 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ), o których mowa art. 3 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, umożliwiające weryfikację zawarcia takich umów i czasu ich obowiązywania,
+- **2)** zawarte aktach niezawierających informacji, o których mowa art. 182 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ), o wykonywanie czynności, o których mowa art. 5 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, lub czynności, o których mowa art. 3 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, umożliwiające weryfikację zawarcia takich umów i czasu ich obowiązywania,
 - **4)** dotyczące objęcia osoby fizycznej ubezpieczeniem społecznym i zwaloryzowanej wysokości składek na ubezpieczenie emerytalne osoby fizycznej, a także dane płatnika składek, o których mowa art. 40, art. 45 i art. 50 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych,
 - **5)** niezbędne do ustalenia, czy osoba fizyczna lub prawna, a także podmiot nieposiadający osobowości prawnej dokonywała transakcji dotyczących towarów giełdowych, o których mowa ustawie z dnia 26 października 2000 r. o giełdach towarowych,
 - **6)** niezbędne do ustalenia, czy osoba fizyczna lub prawna, a także podmiot nieposiadający osobowości prawnej, jest uczestnikiem funduszu inwestycyjnego, o którym mowa ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi,
@@ -1115,7 +1104,7 @@ Art. 54–68. (pominięte)
 - **4)** ochrona i obrona obiektów wojskowych;
 - **5)** wykonywanie czynności przewidzianych dla wojskowych organów porządkowych przepisach o postępowaniu karnym, karnym skarbowym, karnym wykonawczym i cywilnym oraz przepisach o dyscyplinie wojskowej, a także o postępowaniu egzekucyjnym administracji.
 
-2. Wojskowe organy porządkowe wchodzące skład służby garnizonowej wykonują zadania, o których mowa ust. 1, stosunku do osób określonych art. 3 ust. 2 pkt 1 i 3–6. art. 3 ust. 2 pkt 7.
+2. Wojskowe organy porządkowe wchodzące skład służby garnizonowej wykonują zadania, o których mowa ust. 1, stosunku do osób określonych art. 3 ust. 2 pkt 1 i 3–6. do czasu przybycia Żandarmerii Wojskowej lub innego właściwego organu również stosunku do osób określonych art. 3 ust. 2 pkt 7.
 
 4. Minister Obrony Narodowej określi, drodze rozporządzenia, szczegółowe czynności wojskowych organów porządkowych wchodzących skład służby garnizonowej, granicach zadań wymienionych ust. 1.
 
@@ -1156,7 +1145,7 @@ Art. 54–68. (pominięte)
 
 **Art. 52.**
 
-1. Na sposób przeprowadzenia czynności, o których mowa art. 17 ust. 1 pkt 1, 2 i 16, przez żołnierzy wojskowych organów porządkowych oraz na sposób użycia lub wykorzystania przez nich środków przymusu bezpośredniego lub broni palnej osobie, wobec której zostały wykonane te czynności lub użyto lub wykorzystano środki przymusu bezpośredniego lub broń palną, przysługuje zażalenie do prokuratora do spraw wojskowych powszechnej jednostce organizacyjnej prokuratury właściwej ze względu na miejsce dokonania czynności, terminie 7 dni od dnia jej dokonania.
+1. Na sposób przeprowadzenia czynności, o których mowa art. 17 ust. 1 pkt 1, 2 i 16, przez żołnierzy wojskowych organów porządkowych oraz na sposób użycia lub wykorzystania przez nich środków przymusu bezpośredniego lub broni palnej osobie, wobec której zostały wykonane te czynności lub użyto lub wykorzystano środki przymusu bezpośredniego lub broń palną, przysługuje zażalenie do prokuratora do spraw wojskowych powszechnej jednostce organizacyjnej prokuratury właściwej ze względu na miejsce dokonania czynności, terminie 7 dni od dnia jej dokonania. legających orzecznictwu sądów wojskowych dotyczące postępowania odwoławczego.
 
 **Art. 53.**
 

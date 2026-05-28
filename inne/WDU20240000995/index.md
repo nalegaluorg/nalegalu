@@ -8,10 +8,10 @@ pos: 995
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Warszawa, dnia 5 lipca 2024 r.
+# Obwieszczenie Ministra Sprawiedliwościz dnia 23 czerwca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie sposobu przeprowadzenia licytacji elektronicznej ruchomości w sądowym postępowaniu egzekucyjnym
 
 | Pole | Wartość |
 |---|---|
@@ -25,61 +25,135 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-07-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000995) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/995/text.pdf) |
 
-OBWIESZCZENIE MINISTRA SPRAWIEDLIWOŚCI dnia 23 czerwca 2024 r.
-sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości sprawie sposobu przeprowadzenia licytacji elektronicznej ruchomości sądowym postępowaniu egzekucyjnym
-1. Na podstawie art. 16 ust. 3 ustawy dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 r. poz. 1461) ogłasza załączniku niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości dnia 7 września 2016 r. sprawie sposobu przeprowadzenia licytacji elektronicznej ruchomości sądowym postępowaniu egzekucyjnym (Dz. U. poz. 1431), uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości dnia 27 lipca 2023 r. zmieniającym rozporządzenie sprawie sposobu przeprowadzenia licytacji elektronicznej ruchomości sądowym postępowaniu egzekucyjnym (Dz. U. poz. 1644).
-Podany załączniku niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje 2 i 3 rozporządzenia Ministra Sprawiedliwości dnia 27 lipca 2023 r. zmieniającego rozporządzenie sprawie sposobu przeprowadzenia licytacji elektronicznej ruchomości sądowym postępowaniu egzekucyjnym (Dz. U. poz. 1644), które stanowią: „§ Przepisy rozporządzenia zmienianego brzmieniu nadanym niniejszym rozporządzeniem stosuje egzekucji ruchomości wszczętej i niezakończonej przed dniem wejścia życie niniejszego ile jej toku nie doszło wyznaczenia pierwszego terminu licytacji ruchomości, a jeżeli licytacja pierwszym terminie nie doszła skutku jeżeli nie doszło jeszcze wyznaczenia drugiego terminu licytacji.
-3. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Sprawiedliwości: A. Bodnar MINISTRA SPRAWIEDLIWOŚCI dnia 7 września 2016 r.
-sprawie sposobu przeprowadzenia licytacji elektronicznej ruchomości sądowym postępowaniu egzekucyjnym Na podstawie art. 879 ustawy dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. 2023 r. poz. 1550, późn. zm. ) zarządza się, co następuje:
-1. Rozporządzenie określa:
-1) sposób przeprowadzenia sprzedaży ruchomości drodze licytacji elektronicznej oraz
-2) sposób wykorzystania systemu teleinformatycznego obsługującego licytację elektroniczną czynności, których art. 879 ustawy dnia 17 listopada 1964 r. Kodeks postępowania cywilnego.
-Ilekroć rozporządzeniu jest o:
-1) systemie teleinformatycznym rozumie to system teleinformatyczny obsługujący licytację elektroniczną;
-2) użytkowniku rozumie to osobę fizyczną posiadającą konto systemie teleinformatycznym;
-3) operatorze rozumie to Krajową Radę Komorniczą;
-4) komorniku rozumie to komornika i asesora komorniczego;
-5) aktach sprawy rozumie to zbiór dokumentów dotyczących licytacji elektronicznej utrwalonych wyłącznie systemie teleinformatycznym;
-6) loginie rozumie to niepowtarzalne i przyporządkowane użytkownika dane wykorzystywane użytkownika uwierzytelnienia systemie teleinformatycznym;
-7) haśle rozumie to poufne dane wykorzystywane użytkownika uwierzytelnienia systemie teleinformatycznym;
-8) uwierzytelnieniu rozumie to proces elektroniczny, który umożliwia identyfikację elektroniczną użytkownika systemie teleinformatycznym, przy proces ten może nastąpić także przy wykorzystaniu węzła krajowego, art. 21a ust. 2 ustawy dnia 5 września 2016 r. usługach zaufania oraz identyfikacji elektronicznej (Dz. U. 2024 r. poz. 422);
-9) koncie rozumie to zbiór danych określających użytkownika zasobami systemu teleinformatycznego przyporządkowanymi tego użytkownika.
-3. 1. Licytacja elektroniczna jest dostępna systemie teleinformatycznym wyłącznie dla komornika oraz użytkowników biorących niej udział.
-Obwieszczenie licytacji elektronicznej udostępnia za pośrednictwem strony internetowej operatora. Zapoznanie obwieszczeniem nie wymaga uwierzytelnienia.
-4. 1. Konto zakłada systemie teleinformatycznym po złożeniu wniosku założenie konta użytkownika. Wniosek ten zawiera:
-1) imiona i nazwisko wnioskodawcy, numer PESEL, ile został mu nadany, a przypadku osoby nieposiadającej numeru PESEL serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, wydano ten dokument;
-5) oświadczenie wnioskodawcy, że dane, których i 2, są prawdziwe oraz że zapoznał pouczeniem co sposobu i skutków doręczeń dokonywanych zgodnie 9a.
-Wniosek założenie konta użytkownika składa za pośrednictwem systemu teleinformatycznego.
-3. Osoba nieposiadająca numeru PESEL składa wniosek za pośrednictwem wybranego komornika sądowego.
-4. Warunki dotyczące hasła, ust. 3, szczególności liczba, rodzaj i wielkość znaków, są udostępniane przed złożeniem wniosku założenie konta użytkownika za pośrednictwem systemu teleinformatycznego.
-5. Imiona, nazwisko oraz numer PESEL podlegają automatycznej weryfikacji rejestrze PESEL.
-6. razie negatywnego wyniku weryfikacji zawiadamia osobę składającą wniosek odmowie założenia konta.
-zawiadomieniu podaje przyczynę tej odmowy i poucza możliwości złożenia ponownego wniosku za pośrednictwem wybranego komornika sądowego.
-7. przypadkach, których ust. 3 i 6, komornik zakłada osobie składającej wniosek konto systemie teleinformatycznym, po przeprowadzeniu weryfikacji jej tożsamości.
-8. Osobę składającą wniosek zawiadamia założeniu konta systemie teleinformatycznym; zawiadomieniu podaje login.
-9. Zawiadomienia, których ust. 6 i 8, doręcza wnioskodawcy na podany, we wniosku, adres poczty elektronicznej lub numer telefonu komórkowego wnioskodawcy.
-10. Użytkownik ma obowiązek niezwłocznie aktualizować dane, których ust. 1, należy pouczyć użytkownika zawiadomieniu założeniu konta.
-11. Użytkownik jest uprawniony zmiany hasła za pośrednictwem systemu teleinformatycznego.
-5. Konto użytkownika jest udostępniane wyłącznie po uwierzytelnieniu, które następuje za pomocą loginu i hasła.
-6. 1. Użytkownik może brać udział nieograniczonej liczbie licytacji za pośrednictwem konta.
-razie braku uwierzytelnienia użytkownika okresie roku, jego konto systemie teleinformatycznym może być usunięte, należy pouczyć użytkownika zawiadomieniu założeniu konta.
-7. 1. Użytkownik zgłasza przystąpienie przetargu.
-Użytkownik, przystąpieniem przetargu, składa oświadczenie, że nie zachodzą wobec niego podstawy wyłączenia od udziału przetargu.
-3. momencie zgłoszenia użytkownika przystąpienia przetargu dochodzi przypisania użytkownikowi unikalnego identyfikatora licytanta.
-8. 1. Użytkownik będący pełnomocnikiem, przedstawicielem ustawowym albo osobą uprawnioną działania imieniu osoby prawnej albo innej jednostki organizacyjnej posiadającej zdolność prawną, przystępując przetargu, oświadcza, że występuje imieniu osoby trzeciej.
-Oświadczenie, ust. 1, składa za pośrednictwem systemu teleinformatycznego. Do oświadczenia załącza systemie teleinformatycznym utrwalone postaci elektronicznej kopie dokumentów potwierdzających uprawnienie występowania imieniu osoby trzeciej.
-3. Komornik potwierdza systemie teleinformatycznym uprawnienia pełnomocnika, przedstawiciela ustawowego albo osoby uprawnionej działania imieniu osoby prawnej albo innej jednostki organizacyjnej posiadającej zdolność prawną.
-10. 1. Dokonanie postąpienia wymaga:
-1) uwierzytelnienia na koncie użytkownika;
-2) utworzenia oświadczenia postąpieniu;
-3) zatwierdzenia oświadczenia postąpieniu.
-Niezwłocznie po dokonaniu postąpienia aktach sprawy jest automatycznie umieszczane potwierdzenie dokonania postąpienia.
-3. trakcie licytacji systemie teleinformatycznym ujawnia licytantom najwyższą aktualną cenę i unikalny identyfikator licytanta, który ją ofiaruje, oraz czas pozostały zakończenia licytacji. Każdemu postąpieniu przypisuje inny numer porządkowy. Dane osobowe licytanta przed zakończeniem licytacji są ujawniane wyłącznie komornikowi sądowemu.
-11. 1. Zakończenie licytacji elektronicznej następuje automatycznie chwili wskazanej obwieszczeniu licytacji, a jeżeli doszło jej automatycznego odroczenia, momentem wskazanym art. 879 2 ustawy dnia 17 listopada 1964 r. Kodeks postępowania cywilnego.
-chwili zakończenia licytacji następuje automatyczne ustalenie licytanta, który zaofiarował najwyższą cenę.
-12. Wniosek dokonanie wyboru przedsiębiorcy albo przedsiębiorstwa, których art. 879 ustawy dnia 17 listopada 1964 r. Kodeks postępowania cywilnego, może być złożony wierzyciela będącego użytkownikiem.
-13. 1. Komornik ogłasza za pośrednictwem systemu teleinformatycznego zamiarze dokonania czynności, których art. 879 2 ustawy dnia 17 listopada 1964 r. Kodeks postępowania cywilnego. Użytkownik składa ofertę nabycia ruchomości za pośrednictwem systemu teleinformatycznego.
-Do złożenia oferty, której ust. 1, stosuje odpowiednio przepis 10 ust. 1.
-14. Rozporządzenie wchodzi życie dniem marca 2017 r.
+Treść obwieszczenia
+Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 7 września 2016 r. w sprawie sposobu przeprowadzenia licytacji elektronicznej ruchomości w sądowym postępowaniu egzekucyjnym
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 7 września 2016 r. w sprawie sposobu przeprowadzenia licytacji elektronicznej ruchomości w sądowym postępowaniu egzekucyjnym (Dz. U. poz. 1431), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 27 lipca 2023 r. zmieniającym rozporządzenie w sprawie sposobu przeprowadzenia licytacji elektronicznej ruchomości w sądowym postępowaniu egzekucyjnym (Dz. U. poz. 1644).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Sprawiedliwości z dnia 27 lipca 2023 r. zmieniającego rozporządzenie w sprawie sposobu przeprowadzenia licytacji elektronicznej ruchomości w sądowym postępowaniu egzekucyjnym (Dz. U. poz. 1644), które stanowią:
+„
+§ 2.
+Przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem stosuje się do egzekucji z ruchomości wszczętej i niezakończonej przed dniem wejścia w życie niniejszego rozporządzenia, o ile w jej toku nie doszło do wyznaczenia pierwszego terminu licytacji ruchomości, a jeżeli licytacja w pierwszym terminie nie doszła do skutku – jeżeli nie doszło jeszcze do wyznaczenia drugiego terminu licytacji.
+§ 3.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+” .
+Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 7 września 2016 r. w sprawie sposobu przeprowadzenia licytacji elektronicznej ruchomości w sądowym postępowaniu egzekucyjnym
+Na podstawie art. 87911 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm.) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+sposób przeprowadzenia sprzedaży ruchomości w drodze licytacji elektronicznej oraz
+2)
+sposób wykorzystania systemu teleinformatycznego obsługującego licytację elektroniczną do czynności, o których mowa w art. 87910 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
+§ 2.
+Ilekroć w rozporządzeniu jest mowa o:
+1)
+systemie teleinformatycznym – rozumie się przez to system teleinformatyczny obsługujący licytację elektroniczną;
+2)
+użytkowniku – rozumie się przez to osobę fizyczną posiadającą konto w systemie teleinformatycznym;
+3)
+operatorze – rozumie się przez to Krajową Radę Komorniczą;
+4)
+komorniku – rozumie się przez to komornika i asesora komorniczego;
+5)
+aktach sprawy – rozumie się przez to zbiór dokumentów dotyczących licytacji elektronicznej utrwalonych wyłącznie w systemie teleinformatycznym;
+6)
+loginie – rozumie się przez to niepowtarzalne i przyporządkowane do użytkownika dane wykorzystywane przez użytkownika do uwierzytelnienia w systemie teleinformatycznym;
+7)
+haśle – rozumie się przez to poufne dane wykorzystywane przez użytkownika do uwierzytelnienia w systemie teleinformatycznym;
+8)
+uwierzytelnieniu – rozumie się przez to proces elektroniczny, który umożliwia identyfikację elektroniczną użytkownika w systemie teleinformatycznym, przy czym proces ten może nastąpić także przy wykorzystaniu węzła krajowego, o którym mowa w art. 21a ust. 2 ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2024 r. poz. 422);
+9)
+koncie – rozumie się przez to zbiór danych określających użytkownika wraz z zasobami systemu teleinformatycznego przyporządkowanymi do tego użytkownika.
+§ 3.
+1.
+Licytacja elektroniczna jest dostępna w systemie teleinformatycznym wyłącznie dla komornika oraz użytkowników biorących w niej udział.
+2.
+Obwieszczenie o licytacji elektronicznej udostępnia się za pośrednictwem strony internetowej operatora. Zapoznanie się z obwieszczeniem nie wymaga uwierzytelnienia.
+§ 4.
+1.
+Konto zakłada się w systemie teleinformatycznym po złożeniu wniosku o założenie konta użytkownika. Wniosek ten zawiera:
+1)
+imiona i nazwisko wnioskodawcy, numer PESEL, o ile został mu nadany, a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, w którym wydano ten dokument;
+2)
+adres poczty elektronicznej oraz adres do korespondencji;
+3)
+wskazanie hasła umożliwiającego uwierzytelnienie;
+4)
+wskazanie adresu poczty elektronicznej lub numeru telefonu komórkowego, na które mają być wysyłane powiadomienia o zamieszczeniu pisma, o ile wnioskodawca chce otrzymywać takie powiadomienia;
+5)
+oświadczenie wnioskodawcy, że dane, o których mowa w pkt 1 i 2, są prawdziwe oraz że zapoznał się z pouczeniem co do sposobu i skutków doręczeń dokonywanych zgodnie z § 9a.
+2.
+Wniosek o założenie konta użytkownika składa się za pośrednictwem systemu teleinformatycznego.
+3.
+Osoba nieposiadająca numeru PESEL składa wniosek za pośrednictwem wybranego komornika sądowego.
+4.
+Warunki dotyczące hasła, o którym mowa w ust. 1 pkt 3, w szczególności liczba, rodzaj i wielkość znaków, są udostępniane przed złożeniem wniosku o założenie konta użytkownika za pośrednictwem systemu teleinformatycznego.
+5.
+Imiona, nazwisko oraz numer PESEL podlegają automatycznej weryfikacji w rejestrze PESEL.
+6.
+W razie negatywnego wyniku weryfikacji zawiadamia się osobę składającą wniosek o odmowie założenia konta. W zawiadomieniu podaje się przyczynę tej odmowy i poucza o możliwości złożenia ponownego wniosku za pośrednictwem wybranego komornika sądowego.
+7.
+W przypadkach, o których mowa w ust. 3 i 6, komornik zakłada osobie składającej wniosek konto w systemie teleinformatycznym, po przeprowadzeniu weryfikacji jej tożsamości.
+8.
+Osobę składającą wniosek zawiadamia się o założeniu konta w systemie teleinformatycznym; w zawiadomieniu podaje się login.
+9.
+Zawiadomienia, o których mowa w ust. 6 i 8, doręcza się wnioskodawcy na podany, we wniosku, adres poczty elektronicznej lub numer telefonu komórkowego wnioskodawcy.
+10.
+Użytkownik ma obowiązek niezwłocznie aktualizować dane, o których mowa w ust. 1 pkt 1, o czym należy pouczyć użytkownika w zawiadomieniu o założeniu konta.
+11.
+Użytkownik jest uprawniony do zmiany hasła za pośrednictwem systemu teleinformatycznego.
+§ 5.
+Konto użytkownika jest udostępniane wyłącznie po uwierzytelnieniu, które następuje za pomocą loginu i hasła.
+§ 6.
+1.
+Użytkownik może brać udział w nieograniczonej liczbie licytacji za pośrednictwem konta.
+2.
+W razie braku uwierzytelnienia użytkownika w okresie roku, jego konto w systemie teleinformatycznym może być usunięte, o czym należy pouczyć użytkownika w zawiadomieniu o założeniu konta.
+§ 7.
+1.
+Użytkownik zgłasza przystąpienie do przetargu.
+2.
+Użytkownik, wraz z przystąpieniem do przetargu, składa oświadczenie, że nie zachodzą wobec niego podstawy do wyłączenia od udziału w przetargu.
+3.
+W momencie zgłoszenia przez użytkownika przystąpienia do przetargu dochodzi do przypisania użytkownikowi unikalnego identyfikatora licytanta.
+§ 8.
+1.
+Użytkownik będący pełnomocnikiem, przedstawicielem ustawowym albo osobą uprawnioną do działania w imieniu osoby prawnej albo innej jednostki organizacyjnej posiadającej zdolność prawną, przystępując do przetargu, oświadcza, że występuje w imieniu osoby trzeciej.
+2.
+Oświadczenie, o którym mowa w ust. 1, składa się za pośrednictwem systemu teleinformatycznego. Do oświadczenia załącza się w systemie teleinformatycznym utrwalone w postaci elektronicznej kopie dokumentów potwierdzających uprawnienie do występowania w imieniu osoby trzeciej.
+3.
+Komornik potwierdza w systemie teleinformatycznym uprawnienia pełnomocnika, przedstawiciela ustawowego albo osoby uprawnionej do działania w imieniu osoby prawnej albo innej jednostki organizacyjnej posiadającej zdolność prawną.
+§ 9.
+(uchylony).
+§ 9a.
+Wezwanie do uzupełnienia danych, złożenia rękojmi lub przedłożenia dokumentów oraz zawiadomienie o odmowie dopuszczenia do przetargu uważa się za doręczone z dniem zamieszczenia ich w systemie teleinformatycznym. Powiadomienie o zamieszczeniu wezwania lub zawiadomienia doręcza się wnioskodawcy na podany przez niego adres poczty elektronicznej lub numer telefonu komórkowego, o których mowa w § 4 ust. 1 pkt 4.
+§ 10.
+1.
+Dokonanie postąpienia wymaga:
+1)
+uwierzytelnienia się na koncie użytkownika;
+2)
+utworzenia oświadczenia o postąpieniu;
+3)
+zatwierdzenia oświadczenia o postąpieniu.
+2.
+Niezwłocznie po dokonaniu postąpienia w aktach sprawy jest automatycznie umieszczane potwierdzenie dokonania postąpienia.
+3.
+W trakcie licytacji w systemie teleinformatycznym ujawnia się licytantom najwyższą aktualną cenę i unikalny identyfikator licytanta, który ją ofiaruje, oraz czas pozostały do zakończenia licytacji. Każdemu postąpieniu przypisuje się inny numer porządkowy. Dane osobowe licytanta przed zakończeniem licytacji są ujawniane wyłącznie komornikowi sądowemu.
+§ 11.
+1.
+Zakończenie licytacji elektronicznej następuje automatycznie w chwili wskazanej w obwieszczeniu o licytacji, a jeżeli doszło do jej automatycznego odroczenia, z momentem wskazanym w art. 8796 § 21 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
+2.
+W chwili zakończenia licytacji następuje automatyczne ustalenie licytanta, który zaofiarował najwyższą cenę.
+§ 12.
+Wniosek o dokonanie wyboru przedsiębiorcy albo przedsiębiorstwa, o których mowa w art. 87910 § 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, może być złożony przez wierzyciela będącego użytkownikiem.
+§ 13.
+1.
+Komornik ogłasza za pośrednictwem systemu teleinformatycznego o zamiarze dokonania czynności, o których mowa w art. 87910 § 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego. Użytkownik składa ofertę nabycia ruchomości za pośrednictwem systemu teleinformatycznego.
+2.
+Do złożenia oferty, o której mowa w ust. 1, stosuje się odpowiednio przepis § 10 ust. 1.
+§ 14.
+Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
 

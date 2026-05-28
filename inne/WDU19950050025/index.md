@@ -8,10 +8,10 @@ pos: 25
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie niektórych ustaw regulujących zasady opodatkowania oraz niektórych innych ustaw
+# Ustawa z dnia 2 grudnia 1994 r. o zmianie niektórych ustaw regulujących zasady opodatkowania oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -22,26 +22,362 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1994-12-02 |
 | Data wydania | 1995-01-20 |
+| Wejście w życie | 1995-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950050025) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1995/25/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz.U. z 1993 r. Nr 90, poz. 416 i Nr 134, poz. 646 oraz z 1994 r. Nr 43, poz. 163, Nr 90, poz. 419, Nr 113, poz. 547, Nr 123, poz. 602 i Nr 126, poz. 626) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 1993 r. Nr 90, poz. 416 i Nr 134, poz. 646 oraz z 1994 r. Nr 43, poz. 163, Nr 90, poz. 419, Nr 113, poz. 547, Nr 123, poz. 602 i Nr 126, poz. 626) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz.U. z 1993 r. Nr 106, poz. 482 i Nr 134, poz 646 oraz z 1994 r. Nr 1, poz. 2, Nr 43, poz. 163, Nr 80, poz. 368, Nr 87, poz, 406, Nr 90, poz. 419, Nr 113, poz. 547, Nr 123, poz. 602 i Nr 127, poz. 627) wprowadza się następujące zmiany:
+- **1)** w art. 6: ust. 2 otrzymuje brzmienie: „
+    - **a)**
 
-**Art. 3.** W ustawie z dnia 19 grudnia 1980 r. o zobowiązaniach podatkowych (Dz.U. z 1993 r. Nr 108, poz 486 i Nr 134, poz. 646) w art. 11 w ust. 2 wyraz "określa" zastępuje się wyrazami "może określić".
+2. Małżonkowie podlegający obowiązkowi podatkowemu, o którym mowa w art. 3 ust. 1, między którymi istnieje wspólność majątkowa, pozostający w związku małżeńskim przez cały rok podatkowy, mogą być jednak, na wniosek wyrażony we wspólnym zeznaniu rocznym, opodatkowani łącznie od sumy swoich dochodów ustalonych zgodnie z art. 9 ust. 1, po uprzednim odliczeniu, odrębnie przez każdego z małżonków, kwot określonych w art. 26; w tym przypadku podatek ustala się na imię obojga małżonków w podwójnej wysokości podatku obliczonego od połowy łącznych dochodów małżonków, z tym że do sumy tych dochodów nie wlicza się dochodów (przychodów) opodatkowanych w sposób zryczałtowany. ” , w ust. 3 wyrazy „nie osiąga dochodu lub osiąga” zastępuje się wyrazami „w roku podatkowym nie uzyskał przychodów ze źródeł, z których dochód jest opodatkowany zgodnie z art. 27, lub osiągnął”, w ust. 4 na końcu dodaje się zdanie w brzmieniu: „ Przepisy ust. 2 zdanie drugie i ust. 3 stosuje się odpowiednio. ” , skreśla się ust. 7;
 
-**Art. 4.** W ustawie z dnia 7 lipca 1994 r. o zmianie ustawy - Prawo spółdzielcze oraz o zmianie niektórych innych ustaw (Dz.U. Nr 90, poz. 419) wprowadza się następujące zmiany:
+- **b)**
+- **c)**
+- **d)**
+- **2)** w art. 8 na końcu dodaje się zdanie w brzmieniu: „ Zasady wyrażone w zdaniach poprzednich stosuje się odpowiednio do rozliczenia strat powstałych z tych źródeł. ” ;
+- **3)** w art. 10: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) działalność wykonywana osobiście, ” – w pkt 3 na końcu dodaje się wyrazy „w tym również wykonywanie wolnego zawodu, z wyjątkiem działalności określonej w pkt 2,” – w pkt 7 na końcu dodaje się wyrazy „w tym sprzedaż i zamiana praw majątkowych innych niż wymienione w pkt 8 lit. a)-c),” – pkt 8 otrzymuje brzmienie: „ 8) sprzedaż lub zamiana, z zastrzeżeniem ust. 2: a) nieruchomości lub ich części oraz udziału w nieruchomości, b) spółdzielczego własnościowego prawa do lokalu mieszkalnego lub użytkowego oraz wynikającego z przydziału spółdzielni mieszkaniowych: prawa do domu jednorodzinnego lub prawa do lokalu w małym domu mieszkalnym, c) prawa wieczystego użytkowania gruntów, d) innych rzeczy – jeżeli sprzedaż lub zamiana nie następuje w wykonywaniu działalności gospodarczej i została dokonana w przypadku sprzedaży lub zamiany nieruchomości i praw majątkowych określonych pod lit. a)-c) – przed upływem pięciu lat, licząc od końca roku kalendarzowego, w którym nastąpiło nabycie lub wybudowanie, a innych rzeczy – przed upływem pół roku, licząc od końca miesiąca, w którym nastąpiło nabycie; w przypadku zamiany okresy te odnoszą się wyłącznie do osób uzyskujących przychód, ” w ust. 2 po wyrazie „sprzedaż” dodaje się odpowiednio wyrazy „lub zamiana”;
+    - **a)**
+    - **b)**
 
-**Art. 5.** W ustawie z dnia 9 maja 1991 r. o zatrudnianiu i rehabilitacji zawodowej osób niepełnosprawnych (Dz.U. Nr 46, poz. 201, Nr 80, poz. 350 i Nr 110, poz. 472, z 1992 r. Nr 21, poz.85 oraz z 1993 r. Nr 11, poz. 50 i Nr 28, poz. 127) w art. 41 wyrazy "1995 r." zastępuje się wyrazami "1998 r.".
+- **4)** w art. 11: w ust. 1 wyrazy „art. 14–19, art. 20 ust. 3 i art. 20” zastępuje się wyrazami „art. 14–19 i art. 20 ust. 3”, w ust. 3 na końcu dodaje się zdanie w brzmieniu: „ Jeżeli podatnik nie korzysta z usług banku dewizowego, przychody przelicza się na złote według kursów kupna walut obcych z dnia uzyskania przychodów, ogłaszanych przez Narodowy Bank Polski. ” ;
+    - **a)**
+    - **b)**
+
+- **5)** w art. 13: pierwsze zdanie otrzymuje brzmienie: „ Za przychody z działalności wykonywanej osobiście, o której mowa w art. 10 ust. 1 pkt 2, uważa się: ” , skreśla się pkt 1, pkt 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** przychody z osobiście wykonywanej działalności artystycznej, literackiej, naukowej, trenerskiej, oświatowej i publicystycznej, w tym z tytułu udziału w konkursach z dziedziny nauki, kultury i sztuki oraz dziennikarstwa, jak również przychody z uprawiania sportu, stypendia sportowe przyznawane na podstawie odrębnych przepisów oraz przychody sędziów z tytułu prowadzenia zawodów sportowych, ” pkt 8 otrzymuje brzmienie: „
+    - **d)**
+
+- **8)** przychody z tytułu osobistego wykonywania usług na podstawie umowy zlecenia lub umowy o dzieło albo wykonywania wolnego zawodu, uzyskiwane wyłącznie od: osoby prawnej, jednostki organizacyjnej nie mającej osobowości prawnej lub podmiotu gospodarczego – jeżeli podatnik wykonuje te usługi wyłącznie dla potrzeb tych podmiotów i tego samego rodzaju usług nie wykonuje na rzecz ludności, właściciela (posiadacza) nieruchomości, w której lokale są wynajmowane, lub działającego w jego imieniu zarządcy albo administratora – jeżeli podatnik wykonuje te usługi wyłącznie dla potrzeb związanych z tą nieruchomością. ” ;
+    - **a)**
+    - **b)**
+
+- **6)** w art. 14: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Za przychód z działalności, o której mowa w art. 10 ust. 1 pkt 3, uważa się kwoty należne, choćby nie zostały faktycznie otrzymane, po wyłączeniu wartości zwróconych towarów, udzielonych bonifikat i skont. U podatników dokonujących sprzedaży towarów i usług opodatkowanych podatkiem od towarów i usług za przychód z tej sprzedaży uważa się przychód pomniejszony o należny podatek od towarów i usług. ” , w ust. 2 pkt 2 otrzymuje brzmienie: „
+
+- **b)**
+- **2)** dotacje, subwencje, dopłaty i inne nieodpłatne świadczenia otrzymane na pokrycie kosztów albo jako zwrot wydatków, z wyjątkiem gdy przychody te są związane z otrzymaniem, zakupem albo wytworzeniem we własnym zakresie środków trwałych lub wartości niematerialnych i prawnych, od których, zgodnie z odrębnymi przepisami wydanymi na podstawie art. 15 ust. 5 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 1993 r. Nr 106, poz. 482 i Nr 134, poz. 646 oraz z 1994 r. Nr 1, poz. 2, Nr 43, poz. 163, Nr 80, poz. 368, Nr 87, poz. 406, Nr 90, poz. 419, Nr 113, poz. 547, Nr 123, poz. 602 i Nr 127, poz. 627), dokonuje się odpisów amortyzacyjnych, ” w ust. 3: – w pkt 2 na końcu dodaje się wyrazy „a także kwot należnych, lecz nie otrzymanych, z tytułu wykonywania wolnego zawodu,” – pkt 3 otrzymuje brzmienie: „ 3) zwróconych, umorzonych lub zaniechanych podatków i opłat stanowiących dochody budżetu państwa albo budżetów gmin, nie zaliczonych do kosztów uzyskania przychodów, ” – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) zwróconych lub umorzonych innych wydatków nie zaliczonych do kosztów uzyskania przychodów, ” – dodaje się pkt 7 w brzmieniu: „ 7) otrzymanych zwrotów różnicy podatku od towarów i usług oraz zwrotów podatku od towarów i usług, dokonywanych na podstawie odrębnych przepisów. ” ;
+    - **c)**
+
+- **7)** po art. 14 dodaje się art. 14a w brzmieniu: „
+
+**Art. 14a.** Za przychody uzyskane z wykonywania wolnego zawodu, o których mowa w art. 13 pkt 8 i art. 14, uważa się przychody z osobiście wykonywanej działalności, w szczególności: lekarzy wszystkich specjalności, techników dentystycznych, felczerów, położnych, pielęgniarek, prawników, ekonomistów, inżynierów, architektów, techników budowlanych, geodetów, rzeczników patentowych, tłumaczy oraz księgowych. ” ;
+
+- **8)** w art. 18 po wyrazach „ze sprzedaży” dodaje się wyrazy „lub zamiany”;
+- **9)** w art. 19 dodaje się ust. 1a w brzmieniu: „
+
+1a. Przychodem z zamiany rzeczy i praw majątkowych, o którym mowa w art. 10 ust. 1 pkt 8 i art. 18, jest nadwyżka między, określonymi w umowie zamiany, wartościami zamienianych rzeczy i praw, uzyskana przez tę stronę umowy, która zamienia rzecz lub prawo majątkowe o wyższej wartości, pomniejszona o koszty zamiany. Przepisy ust. 1 ostatnie zdanie oraz ust. 2 i 3 stosuje się odpowiednio. ” ;
+
+- **10)** skreśla się art. 20a;
+- **11)** w art. 21: w ust. 1: – w pkt 5 po wyrazie „odsetki” dodaje się wyrazy „i dyskonto”, – w pkt 12 po wyrazie „wartość” dodaje się wyrazy „napojów bezalkoholowych i”, – w pkt 32 zdanie pierwsze oraz lit. a) otrzymują brzmienie: „ 32) przychody uzyskane ze sprzedaży nieruchomości i praw majątkowych określonych w art. 10 ust. 1 pkt 8 lit. a)-c): a) w części wydatkowanej na nabycie w kraju, nie później niż w okresie dwóch lat od dnia sprzedaży, budynku mieszkalnego lub jego części, lokalu mieszkalnego stanowiącego odrębną nieruchomość, spółdzielczego własnościowego prawa do lokalu mieszkalnego, gruntu albo prawa wieczystego użytkowania gruntu pod budowę budynku mieszkalnego, lub na nabycie wynikających z przydziału spółdzielni mieszkaniowej: prawa do jednorodzinnego domu mieszkalnego, prawa do lokalu mieszkalnego w małym domu mieszkalnym oraz na budowę, rozbudowę albo remont lub modernizację własnego budynku mieszkalnego lub lokalu mieszkalnego, ” – po pkt 32 dodaje się pkt 32a i 32b w brzmieniu: „ 32a) przychody uzyskane z zamiany: a) budynków mieszkalnych lub ich części oraz udziałów w tych budynkach lub b) spółdzielczego własnościowego prawa do lokalu mieszkalnego oraz wynikającego z przydziału spółdzielni mieszkaniowych: prawa do domu jednorodzinnego lub prawa do lokalu mieszkalnego w małym domu mieszkalnym lub c) gruntów lub prawa wieczystego użytkowania gruntów, związanych z budynkami lub prawami wymienionymi pod lit. a) i b), – jeżeli przedmiotem zamiany są wyłącznie nieruchomości i prawa wymienione pod lit. a)-c), 32b) przychody z zamiany rzeczy lub praw, innych niż wymienione w pkt 32a, jeżeli z tytułu jednej umowy nie przekraczają kwoty stanowiącej trzykrotność najniższego wynagrodzenia pracowników, określonego w odrębnych przepisach, za grudzień roku poprzedzającego rok podatkowy, ” – po pkt 42 dodaje się pkt 43 i 44 w brzmieniu: „ 43) dochody uzyskane z tytułu wynajmu pokoi gościnnych, w budynkach mieszkalnych położonych na terenach wiejskich w gospodarstwie rolnym, osobom przebywającym na wypoczynku oraz dochody uzyskane z tytułu wyżywienia tych osób, jeżeli liczba wynajmowanych pokoi nie przekracza 5, 44) przychody uzyskane z tytułu uczestnictwa w szkoleniach i akcjach związanych z likwidowaniem skutków klęsk żywiołowych członków ochotniczych straży pożarnych, ” ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2. Przepisy ust. 1 pkt 32 i 32a nie mają zastosowania, jeżeli:
+
+- **1)** budowa i sprzedaż budynków i lokali oraz sprzedaż gruntów i prawa wieczystego użytkowania gruntów jest przedmiotem działalności gospodarczej podatnika,
+- **2)** przychód ze sprzedaży lub zamiany jest wydatkowany na nabycie gruntu, prawa wieczystego użytkowania gruntu, zakup, budowę, rozbudowę lub remont budynku albo jego części, przeznaczonych na cele rekreacyjne. ” ;
+- **12)** w art. 22: w ust. 2 na końcu dodaje się zdanie w brzmieniu: „ Jeżeli podatnik uzyskuje przychody z tych tytułów równocześnie od kilku zakładów pracy, koszty uzyskania za rok podatkowy nie mogą przekroczyć łącznie 4,5% kwoty, o której mowa w zdaniu poprzednim. ” ; po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+2a. Koszty uzyskania przychodów, o których mowa w ust. 2, podwyższa się o 25%, jeżeli miejsce stałego lub czasowego zamieszkania podatnika jest położone poza miejscowością, w której znajduje się zakład pracy, a podatnik nie otrzymuje podatku za rozłąkę. ” , w ust. 7 po wyrazie „oraz” dodaje się wyrazy „uznawanej za koszty uzyskania przychodów”, dodaje się ust. 11 w brzmieniu: „
+
+- **c)**
+- **d)**
+
+11. Jeżeli koszty uzyskania przychodów, określone w ust. 2 i 2a, są niższe od wydatków na dojazd do zakładu lub zakładów pracy środkami transportu autobusowego, kolejowego, promowego lub komunikacji miejskiej, w rocznym rozliczeniu podatku koszty te mogą być przyjęte w wysokości wydatków faktycznie poniesionych, udokumentowanych wyłącznie imiennymi biletami okresowymi. ” ;
+
+- **13)** w art. 23 w ust. 1: pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** wydatków na: nabycie gruntów lub prawa wieczystego użytkowania gruntów, z wyjątkiem opłat za wieczyste użytkowanie gruntów, nabycie lub wytworzenie we własnym zakresie środków trwałych oraz wartości niematerialnych i prawnych, w tym również wchodzących w skład nabytego przedsiębiorstwa lub jego zorganizowanych części, ulepszenie (przebudowę, rozbudowę, rekonstrukcję, adaptacją lub modernizację) środków trwałych, które zgodnie z odrębnymi przepisami powiększają wartość tych środków stanowiącą podstawę naliczania odpisów amortyzacyjnych wydatki te, po ich zaktualizowaniu zgodnie z odrębnymi przepisami, pomniejszone o dokonane odpisy amortyzacyjne, są kosztem uzyskania przychodów przy ustalaniu dochodu ze sprzedaży rzeczy określonych w art. 10 ust. 1 pkt 8 lit. d), bez względu na czas ich poniesienia, oraz gdy sprzedaż nieruchomości i praw jest przedmiotem działalności gospodarczej, ” skreśla się pkt 28 i 39, dodaje się pkt 50–52 w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **b)**
+    - **c)**
+
+- **50)** opłat sankcyjnych, które zgodnie z odrębnymi przepisami podlegają wpłacie do budżetu państwa lub budżetu gminy,
+- **51)** kosztów utrzymania zakładowych obiektów socjalnych, w części pokrytej ze środków zakładowego funduszu świadczeń socjalnych,
+- **52)** wartości diet z tytułu podróży służbowych osób prowadzących działalność gospodarczą i osób z nimi współpracujących – w części przekraczającej wysokość diet przysługujących pracownikom, określoną w odrębnych przepisach wydanych przez właściwego ministra. ” ;
+- **14)** w art. 24: w ust. 5 na końcu dodaje się zdanie w brzmieniu: „ Dochód osoby fizycznej z tytułu udziału w zyskach osób prawnych ustala się zgodnie z przepisami o podatku dochodowym od osób prawnych. ” , w ust. 6 na końcu dodaje się zdanie w brzmieniu: „ Dochodem z zamiany rzeczy i praw majątkowych jest kwota stanowiąca równowartość przychodu, o którym mowa w art. 19 ust. 1a. ” ;
+    - **a)**
+    - **b)**
+
+- **15)** w art. 25 dodaje się ust. 6 w brzmieniu: „
+
+6. Przez pojęcie powiązań kapitałowych, o których mowa w ust. 4, rozumie się sytuację, w której jedna z osób lub jeden z kontrahentów posiada lub dysponuje, bezpośrednio lub pośrednio, prawem głosu wynoszącym co najmniej 5% wszystkich praw głosu. ” ;
+
+- **16)** w art. 26: w ust. 1 pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** darowizn: na cele naukowe, naukowo-techniczne, oświatowe, oświatowo-wychowawcze, kulturalne, kultury fizycznej i sportu, ochrony zdrowia i pomocy społecznej, rehabilitacji zawodowej i społecznej inwalidów, a także wspierania inicjatyw społecznych w zakresie budowy dróg i sieci telekomunikacyjnej na wsi oraz zaopatrzenia wsi w wodę – łącznie do wysokości nie przekraczającej 15% dochodu, na cele kultu religijnego i na działalność charytatywno-opiekuńczą, bezpieczeństwa publicznego, obrony narodowej, ochrony środowiska, dobroczynne, a także na cele związane z budownictwem mieszkaniowym dla samorządu terytorialnego i na budowę strażnic jednostek ochrony przeciwpożarowej w rozumieniu przepisów o ochronie przeciwpożarowej oraz ich wyposażenie i utrzymywanie – łącznie do wysokości nie przekraczającej 10% dochodu, ” w ust. 1 w pkt 5: – w lit. c) skreśla się wyrazy „wniesiony przed objęciem lokalu lub budynku mieszkalnego”, – lit. d) otrzymuje brzmienie: „ d) zakup nowo wybudowanego budynku mieszkalnego lub lokalu mieszkalnego w takim budynku od gmin, a także od osób, które wybudowały ten budynek w wykonywaniu działalności gospodarczej, ” – w lit. f) po wyrazie „mieszkalne” dodaje się wyrazy „oraz wykończenie lokalu mieszkalnego w nowo wybudowanym budynku mieszkalnym, do dnia zasiedlenia tego lokalu,” w ust. 1 pkt 7 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **b)**
+    - **c)**
+
+- **7)** wydatków poniesionych przez podatnika na odpłatne dokształcanie i doskonalenie zawodowe, do wysokości nie przekraczającej w roku podatkowym kwoty trzykrotnego najniższego wynagrodzenia pracowników, określonego w odrębnych przepisach, za grudzień roku poprzedzającego rok podatkowy, jeżeli nie zostały zaliczone do kosztów uzyskania przychodów, ” w ust. 1 pkt 7a otrzymuje brzmienie: „
+    - **d)**
+
+- **7a)** wydatków poniesionych przez podatnika na dojazd dzieci własnych i przysposobionych do podstawowych, zawodowych i średnich szkół publicznych i niepublicznych o uprawnieniach szkół publicznych, położonych poza miejscowością stałego lub czasowego zamieszkania dzieci – do wysokości wydatków faktycznie poniesionych na te dojazdy środkami transportu autobusowego, kolejowego lub promowego, udokumentowanych imiennymi biletami okresowymi, ” w ust. 1 dodaje się pkt 7b i 7c w brzmieniu: „
+    - **e)**
+
+- **7b)** wydatków poniesionych przez podatników osiągających przychody określone w art. 12 ust. 1 na zakup przyrządów i pomocy naukowych, programów komputerowych oraz wydawnictw fachowych bezpośrednio związanych z wykonywanym zawodem i wykonywaną pracą – łącznie do wysokości, o której mowa w pkt 7,
+- **7c)** wydatków poniesionych przez podatnika na odpłatne kształcenie dzieci własnych i przysposobionych w podstawowych, zawodowych i średnich szkołach niepublicznych o uprawnieniach szkół publicznych, do wysokości 1/5 przeciętnego wynagrodzenia w gospodarce narodowej, w rozumieniu art. 27 ust. 3 ustawy, na każde dziecko, ” w ust. 1 w pkt 9 po wyrazie „obniżona” dodaje się wyraz „podstawowa”, dodaje się nowy ust. 1a w brzmieniu: „
+    - **f)**
+    - **g)**
+
+1a. Łączna kwota odliczeń z tytułów określonych w ust. 1 pkt 1 nie może przekroczyć 15% dochodu, z tym że odliczeniom nie podlegają darowizny na rzecz osób fizycznych i prawnych oraz jednostek organizacyjnych nie mających osobowości prawnej, które prowadzą działalność gospodarczą polegającą na wytwarzaniu wyrobów przemysłu elektronicznego, paliwowego, tytoniowego, spirytusowego, winiarskiego, piwowarskiego, a także pozostałych wyrobów alkoholowych o zawartości alkoholu powyżej 1,5% oraz wyrobów z metali szlachetnych albo z udziałem tych metali, lub handlu tymi wyrobami. ” , dotychczasowy ust. 1a oznacza się jako ust. 1b, dodaje się nowy ust. 5a w brzmieniu: „
+
+- **h)**
+- **i)**
+
+5a. Jeżeli wydatki na cele wymienione w ust. 1 pkt 7b poniesione w roku podatkowym przekraczały kwotę określoną w tym przepisie, nie odliczoną kwotę wydatków na zakup przyrządów i pomocy naukowych można odliczyć od dochodów za dwa następne lata podatkowe, z tym że łączna kwota odliczeń z tytułów określonych w tym przepisie nie może w każdym z tych lat przekroczyć wysokości, o której mowa w ust. 1 pkt 7. ” , ust. 6 otrzymuje brzmienie: „
+
+- **j)**
+
+6. Wysokość wydatków na cele określone w ust. 1 ustala się na podstawie dokumentów stwierdzających ich poniesienie, z tym że odliczenie wydatków na cele wymienione w ust. 1 pkt 5 lit. b) i d)-g), w pkt 6 z wyjątkiem wydatków na zakup działki oraz w pkt 7b z wyjątkiem wydatków na zakup wydawnictw fachowych może być dokonane, jeżeli wydatki te zostały udokumentowane fakturą (rachunkiem) wystawioną wyłącznie przez podatnika podatku od towarów i usług nie korzystającego ze zwolnienia od tego podatku albo dowodem odprawy celnej. ” , ust. 7 otrzymuje brzmienie: „
+
+- **k)**
+
+7. Odliczeniu podlegają wydatki na cele określone w ust. 1:
+
+- **1)** pkt 5 i 6, jeżeli dotyczą budynków mieszkalnych położonych w kraju i nie zostały zaliczone do kosztów uzyskania przychodów lub nie zostały zwrócone podatnikowi w jakiejkolwiek formie,
+- **2)** pkt 7a w czasie cyklu kształcenia określonego w przepisach o ramowych planach nauczania dla danego typu szkoły,
+- **3)** pkt 7c w czasie cyklu kształcenia określonego w przepisach o ramowych planach nauczania dla danego typu szkoły, jeżeli ich suma w roku podatkowym na każde dziecko nie przekracza 20% kwoty stanowiącej górną granicę pierwszego przedziału skali podatkowej obowiązującej w tym roku. ” , w ust. 8 wyrazy „pkt 5 i 6” zastępuje się wyrazami „pkt 5, 6 i 7a”, wyrazy „pkt 7a” zastępuje się wyrazami „pkt 7a lub pkt 7c”, a wyrazy „lit. a)-f)” skreśla się, dodaje się ust. 15 w brzmieniu: „
+    - **l)**
+    - **ł)**
+
+15. Minister Edukacji Narodowej w porozumieniu z Ministrem Finansów, w drodze rozporządzenia, określi rodzaje przyrządów i pomocy naukowych, o których mowa w ust. 1 pkt 7b. ” ;
+
+- **17)** w art. 27: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Podatek dochodowy, z zastrzeżeniem art. 28, 29, 30 i 44 ust. 4, pobiera się od podstawy jego obliczenia według następującej skali: Podstawa obliczenia podatku w złotych Podatek wynosi ponad do 124 000 000 21% podstawy obliczenia minus kwota 1 656 000 zł 124 000 000 248 000 000 24 384 000 zł + 33% nadwyżki ponad 124 000 000 zł 248 000 000 65 304 000 zł + 45% nadwyżki ponad 248 000 000 zł w ust. 2 kwotę „12 000 000 zł” zastępuje się wyrazami „kwota stanowiąca 20% górnej granicy pierwszego przedziału skali podatkowej określonej w ust. 1,” w ust. 3 wyraz „1994” zastępuje się wyrazem „1996”;
+
+- **b)**
+- **c)**
+- **18)** w art. 28: w ust. 1 po wyrazie „sprzedaży” dodaje się wyrazy „lub zamiany”, w ust. 2 wyraz „dochód” zastępuje się wyrazem „przychód”;
+    - **a)**
+    - **b)**
+
+- **19)** w art. 29: dotychczasową treść oznacza się jako ust. 1, a po wyrazach „lub naukowego” dodaje się wyrazy „a także środka transportu”, dodaje się ust. 2 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+2. Przepisu ust. 1 nie stosuje się do środków transportu – z wyłączeniem samochodów osobowych – bezpośrednio używanych przez płatnika do świadczenia usług transportowych. ” ;
+
+- **20)** w art. 30: w ust. 1: – pkt 3 otrzymuje brzmienie: „ 3) od przychodów określonych w art. 13 pkt 2 i 5–8, jeżeli kwota należności określona w umowie zawartej z osobą nie będącą pracownikiem płatnika nie przekracza 450 000 zł – w wysokości 20% przychodu, ” – pkt 6 otrzymuje brzmienie: „ 6) od przychodów określonych w art. 14, z wyłączeniem przychodów z wykonywania wolnego zawodu, uzyskanych w roku podatkowym – w wysokości nie przekraczającej 12% przychodu w przypadkach: a) rozpoczęcia w roku podatkowym tej działalności samodzielnie lub w formie spółki cywilnej osób fizycznych, b) gdy w roku poprzedzającym rok podatkowy kwota przychodów uzyskanych przez osobę prowadzącą działalność samodzielnie lub suma przychodów wspólników spółki cywilnej, której wspólnikami są wyłącznie osoby fizyczne, nie przekroczyła 1 600 000 000 zł, ” ust. 4 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+4. Podatnik opodatkowany w sposób określony w ust. 1 pkt 6 może:
+
+- **1)** zrzec się opodatkowania w tej formie i opłacać podatek dochodowy na zasadach ustawy albo, jeżeli spełnia warunki określone w odrębnych przepisach, wybrać inną formę zryczałtowanego opodatkowania,
+- **2)** odliczyć od przychodów wydatki określone w art. 26 ust. 1; przepisy art. 26 ust. 2–10 stosuje się odpowiednio. ” , w ust. 5 wyraz „1995” zastępuje się wyrazem „1996”, ust. 6 otrzymuje brzmienie: „
+    - **c)**
+    - **d)**
+
+6. Minister Finansów, w drodze rozporządzenia:
+
+- **1)** może obniżyć stawkę podatku, zróżnicować ją dla poszczególnych rodzajów działalności oraz ograniczyć zakres podmiotowy, warunki, zasady i tryb poboru podatku od przychodów, o których mowa w ust. 1 pkt 6,
+- **2)** określi terminy oraz sposób zrzeczenia się przez podatnika opodatkowania w formie ryczałtu, o którym mowa w ust. 1 pkt 6. ” , w ust. 7 po wyrazach „nie zaewidencjonowanego przychodu” dodaje się wyrazy „w tym również”;
+    - **e)**
+
+- **21)** w art. 32: w ust. 1: – w pkt 1 wyrazy „20%” zastępuje się wyrazami „21%”, – w pkt 2 wyrazy „30%” zastępuje się wyrazami „33%”, – w pkt 3 wyrazy „40%” zastępuje się wyrazami „45%”, w ust. 1a: – w pkt 1 po wyrazie „dochodów” dodaje się wyrazy „z wyjątkiem renty rodzinnej”, a wyrazy „20%” zastępuje się wyrazami „21%”, – w pkt 2 wyrazy „20%” zastępuje się wyrazami „21%”, a wyrazy „30%” zastępuje się wyrazami „33%”, dodaje się nowy ust. 1b w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+1b. Płatnicy, którym podatnik złożył oświadczenie wymienione w ust. 1a, pobierają zaliczki według zasad określonych w ust. 1a pkt 1 i 2 począwszy od miesiąca następującego po miesiącu, w którym zostało złożone oświadczenie. ” , dotychczasowy ust. 1b oznacza się jako ust. 1c, ust. 2 otrzymuje brzmienie: „
+
+- **d)**
+- **e)**
+
+2. Za dochód, o którym mowa w ust. 1, uważa się uzyskane w ciągu miesiąca przychody w rozumieniu art. 12, po odliczeniu kosztów uzyskania w wysokości określonej w art. 22 ust. 2 i 2a. Jeżeli świadczenia w naturze, świadczenia ponoszone za podatnika lub inne nieodpłatne świadczenia przysługują podatnikowi za okres dłuższy niż miesiąc, przy obliczaniu zaliczek za poszczególne miesiące przyjmuje się ich wartość w wysokości przypadającej na jeden miesiąc. Jeżeli nie jest możliwe określenie, jaka część tych świadczeń przypada na jeden miesiąc, a doliczenie całej wartości w miesiącu ich uzyskania spowodowałoby niewspółmiernie wysoką zaliczkę w stosunku do wypłaty pieniężnej, zakład pracy, na wniosek podatnika, ograniczy pobór zaliczki za dany miesiąc i pobierze pozostałą część zaliczki w następnych miesiącach roku podatkowego. ” , w ust. 3 w pkt 5 skreśla się wyrazy „odliczenia kosztów uzyskania oraz do”, dodaje się ust. 5 w brzmieniu: „
+
+- **f)**
+- **g)**
+
+5. Zakład pracy może podwyższyć koszty uzyskania przychodów zgodnie z art. 22 ust. 2a, jeżeli pracownik złoży oświadczenie o spełnieniu warunku określonego w tym przepisie; przepisy ust. 3a i 4 stosuje się odpowiednio. ” ;
+
+- **22)** w art. 33 w ust. 2 wyrazy „ust. 1, 1a oraz 1b” zastępuje się wyrazami „ust. 1–1c”;
+- **23)** w art. 34: w ust. 2 wyrazy „ust. 1, 1a oraz 1b” zastępuje się wyrazami „ust. 1–1c”, w ust. 3 wyrazy „20%” zastępuje się wyrazami „21%”, w ust. 7 w pkt 2 wyrazy „ust. 1–1b” zastępuje się wyrazami „ust. 1–1c”;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **24)** w art. 35: w ust. 1 dodaje się pkt 5 w brzmieniu: „
+    - **a)**
+
+- **5)** kierownicy wojewódzkich urzędów pracy – od wypłacanych przez nich świadczeń z Funduszu Gwarantowanych Świadczeń Pracowniczych. ” , ust. 3 otrzymuje brzmienie: „
+    - **b)**
+
+3. Zaliczki, o których mowa w ust. 1 pkt 1, 2 i 4, za miesiące od stycznia do grudnia ustala się w sposób określony w art. 32 ust. 1–1c, z tym że w przypadku poboru przez banki zaliczek od emerytur i rent z zagranicy stosuje się postanowienia umowy w sprawie zapobieżenia podwójnemu opodatkowaniu, zawartej z krajem, z którego pochodzą te emerytury i renty. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+
+- **c)**
+
+3a. Podatnik przy odbiorze emerytury lub renty, o której mowa w ust. 3, może wpłacić bankowi ustaloną zaliczkę w złotych. Wpłatę tę uznaje się za zaliczkę potrąconą przez płatnika. ” , dodaje się ust. 5 w brzmieniu: „
+
+- **d)**
+
+5. Zaliczkę od przychodów, o których mowa w ust. 1 pkt 3 i 5, pobiera się w wysokości 15% świadczenia. ” ;
+
+- **25)** w art. 37: w ust. 1 w ostatnim zdaniu wyraz „ustalającą” zastępuje się wyrazem „określającą”, w ust. 1a po wyrazach „określone w art.” dodaje się wyrazy „22 ust. 11 i art.”;
+    - **a)**
+    - **b)**
+
+- **26)** w art. 38 w ust. 2 po wyrazie „podatek” dodaje się wyrazy „od przychodów z tytułów określonych w art. 12”;
+- **27)** w art. 41 ust. 2 otrzymuje brzmienie: „
+
+2. Płatnicy nie są obowiązani do poboru zaliczek od wypłaconych należności z tytułu umów o dzieło lub umów zlecenia, o których mowa w art. 13 pkt 2 i 8, jeżeli podatnik złoży oświadczenie, że wykonywane przez niego usługi wchodzą w zakres prowadzonej działalności gospodarczej, o której mowa w art. 10 ust. 1 pkt 3. ” ;
+
+- **28)** w art. 42 w ust. 2 pkt 1 otrzymuje brzmienie: „
+- **1)** podatnikom określonym w art. 4 – imienne informacje o wysokości dochodu i pobranego zryczałtowanego podatku, sporządzone według ustalonego wzoru, ” ;
+- **29)** w art. 44: w ust. 1 pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** z działalności gospodarczej, o której mowa w art. 14, ” w ust. 2 skreśla się ostatnie zdanie, w ust. 4 po wyrazach „wykonywaną działalnością” dodaje się wyrazy „w tym także dzieł sztuki, eksponatów muzealnych i aparatury audio-wizualnej, jeżeli wydatki na ich nabycie zostały zaliczone do kosztów uzyskania przychodów”, w ust. 8 wyrazy „20%” zastępuje się wyrazami „21%”;
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **30)** w art. 45 w ust. 6 wyrazy „ustali” i „ustalającą” zastępuje się odpowiednio wyrazami „określi” i „określającą”;
+- **31)** w art. 52 w pkt 1 lit. a) otrzymuje brzmienie: „ ze sprzedaży: udziałów (akcji) spółek utworzonych w celu oddania tym spółkom do odpłatnego korzystania, na podstawie przepisów o prywatyzacji przedsiębiorstw państwowych, przedsiębiorstwa lub zorganizowanych części mienia przedsiębiorstwa, obligacji Skarbu Państwa wyemitowanych po dniu 1 stycznia 1989 r., a także akcji dopuszczonych do obrotu publicznego, nabytych na podstawie publicznej oferty lub na giełdzie papierów wartościowych; zwolnienie nie ma jednak zastosowania, jeżeli sprzedaż tych udziałów, obligacji lub akcji jest przedmiotem działalności gospodarczej. ”
+    - **a)**
+
+**Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 1993 r. Nr 106, poz. 482 i Nr 134, poz. 646 oraz z 1994 r. Nr 1, poz. 2, Nr 43, poz. 163, Nr 80, poz. 368, Nr 87, poz. 406, Nr 90, poz. 419, Nr 113, poz. 547, Nr 123, poz. 602 i Nr 127, poz. 627) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 w ust. 1 w pkt 1 na końcu dodaje się wyrazy „chyba że ustalenie przychodów jest wymagane dla celów określenia dochodów wolnych od podatku dochodowego na podstawie art. 17 ust. 1 pkt 4e,”
+- **2)** w art. 5 na końcu dodaje się zdanie w brzmieniu: „ Zasady wyrażone w zdaniach poprzednich stosuje się odpowiednio do rozliczania strat poniesionych z tych źródeł. ” ,
+- **3)** w art. 6: w ust. 1 w pkt 6 skreśla się wyrazy „i związki gmin”, w ust. 2 wyrazy „jednostkach wojskowych, jednostkach więziennictwa” zastępuje się wyrazami „jednostkach: wojskowych, więziennictwa, Policji, Urzędu Ochrony Państwa, Straży Granicznej i Państwowej Straży Pożarnej.”;
+    - **a)**
+    - **b)**
+
+- **4)** w art. 10 po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+1a. Jeżeli osoba prawna uzyskuje przychody z działalności rolniczej oraz z innych źródeł przychodów, łączną kwotę dochodu, o którym mowa w ust. 1, zmniejsza się o dochód z działalności rolniczej, uzyskany za ten sam okres sprawozdawczy, z wyjątkiem dochodu z działów specjalnych produkcji rolnej. Gdy ustalenie dochodu zmniejszającego jego łączną kwotę nie jest możliwe, dochód ten ustala się w takim stosunku, w jakim pozostają przychody z działalności rolniczej, z wyjątkiem przychodów z działów specjalnych produkcji rolnej, w ogólnej kwocie przychodów. ” ;
+
+- **5)** w art. 11 dodaje się ust. 6 w brzmieniu: „
+
+6. Przez pojęcie powiązań kapitałowych, o których mowa w ust. 4, rozumie się sytuację, w której jedna z osób lub jeden z kontrahentów posiada lub dysponuje, bezpośrednio lub pośrednio, prawem głosu wynoszącym co najmniej 5% wszystkich praw głosu. ” ;
+
+- **6)** w art. 12: w ust. 1: – po wyrazie „sąd” dodaje się wyrazy „w szczególności”, – w pkt 4 kropkę zastępuje się przecinkiem, – dodaje się pkt 5 w brzmieniu: „ 5) u ubezpieczycieli – kwota stanowiąca równowartość zmniejszenia stanu rezerw techniczno-ubezpieczeniowych, utworzonych zgodnie z odrębnymi przepisami. ” w ust. 4: – pkt 6 otrzymuje brzmienie: „ 6) zwróconych, umorzonych lub zaniechanych podatków i opłat stanowiących dochody budżetu państwa albo budżetów gmin, nie zaliczonych do kosztów uzyskania przychodów, ” – po pkt 6 dodaje się pkt 6a w brzmieniu: „ 6a) zwróconych lub umorzonych innych wydatków nie zaliczonych do kosztów uzyskania przychodów, ” ;
+    - **a)**
+    - **b)**
+
+- **7)** w art. 15: po ust. 1a dodaje się ust. 1b w brzmieniu: „
+    - **a)**
+
+1b. U ubezpieczycieli kosztem uzyskania przychodów za rok podatkowy są rezerwy techniczno-ubezpieczeniowe utworzone zgodnie z odrębnymi przepisami – do wysokości stanowiącej przyrost tych rezerw na koniec roku podatkowego w stosunku do ich stanu na początek roku. Przy ustalaniu zaliczek, o których mowa w art. 25 ust. 1, kosztem uzyskania jest przyrost stanu rezerw techniczno-ubezpieczeniowych na koniec miesiąca, za który składana jest deklaracja podatkowa, w stosunku do stanu tych rezerw na początek roku podatkowego. ” , w ust. 5 po wyrazach „niematerialne i prawne” dodaje się wyrazy „oraz sposób ustalania ich wartości początkowej”, dodaje się ust. 6 w brzmieniu: „
+
+- **b)**
+- **c)**
+
+6. Kosztem uzyskania przychodów są odpisy z tytułu zużycia środków trwałych oraz wartości niematerialnych i prawnych (odpisy amortyzacyjne) dokonywane wyłącznie zgodnie z przepisami wydanymi na podstawie ust. 5. ” ;
+
+- **8)** w art. 16: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) wydatków na: a) nabycie gruntów lub prawa wieczystego użytkowania gruntów, z wyjątkiem opłat za wieczyste użytkowanie gruntów, b) nabycie lub wytworzenie we własnym zakresie środków trwałych oraz wartości niematerialnych i prawnych, w tym również wchodzących w skład nabytego przedsiębiorstwa lub jego zorganizowanych części, c) ulepszenie (przebudowę, rozbudowę, rekonstrukcję, adaptacją lub modernizację) środków trwałych, które zgodnie z odrębnymi przepisami powiększają wartość tych środków stanowiącą podstawę naliczania odpisów amortyzacyjnych, – wydatki te po ich zaktualizowaniu, zgodnie z odrębnymi przepisami, pomniejszone o dokonane odpisy amortyzacyjne, są jednak kosztem uzyskania przychodów przy ustalaniu dochodu ze sprzedaży rzeczy i praw majątkowych, bez względu na czas ich poniesienia, ” – skreśla się pkt 35 i 42, – w pkt 53 kropkę zastępuje się przecinkiem, – dodaje się pkt 54 i 55 w brzmieniu: „ 54) opłat sankcyjnych, które zgodnie z odrębnymi przepisami podlegają wpłacie do budżetu państwa lub budżetu gminy, 55) kosztów utrzymania zakładowych obiektów socjalnych, w części pokrytej ze środków zakładowego funduszu świadczeń socjalnych. ” , skreśla się ust. 3;
+    - **a)**
+    - **b)**
+
+- **9)** w art. 17: w ust. 1: – skreśla się pkt 4c, – pkt 4e otrzymuje brzmienie: „ 4e) dochody podatników z działalności pozarolniczej, w tym z działów specjalnych produkcji rolnej – w części przeznaczonej na działalność rolniczą, o której mowa w art. 2 ust. 2, jeżeli w roku poprzedzającym rok podatkowy udział przychodów z działalności rolniczej, ustalonych zgodnie z art. 12–14, powiększonych o wartość zużytych do przetwórstwa rolnego i spożywczego surowców i materiałów pochodzących z własnej produkcji roślinnej i zwierzęcej, stanowił co najmniej 60% przychodów osiągniętych ze wszystkich rodzajów działalności, ” – po pkt 4f dodaje się pkt 4g i 4h w brzmieniu: „ 4g) dochody związków gmin – w części przeznaczonej dla gmin, 4h) dochody komunalnych zakładów gospodarki mieszkaniowej uzyskane z gospodarki zasobami mieszkaniowymi i z innych źródeł przychodów – w części przeznaczonej na cele związane z utrzymaniem zasobów mieszkaniowych, ” – w pkt 4, 4a, 4b, 4d, 4f, 5 oraz pkt 7 i 8 skreśla się odpowiednio wyrazy „w roku podatkowym” i „w roku podatkowym lub w roku po nim następującym”, a wyraz „wydatkowanej” zastępuje się wyrazem „przeznaczonej”, – pkt 6 otrzymuje brzmienie: „ 6) dochody związków zawodowych, społeczno-zawodowych organizacji rolników, organizacji pracodawców i partii politycznych, działających na podstawie odrębnych ustaw – w części przeznaczonej na cele statutowe, z wyłączeniem działalności gospodarczej, ” – pkt 14 otrzymuje brzmienie: „ 14) dotacje otrzymane na podstawie odrębnych przepisów na tworzenie rezerw państwowych i gospodarowanie tymi rezerwami oraz w związku z umowami zawartymi na podstawie art. 222 ust. 3 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 1992 r. Nr 4, poz. 16, Nr 40, poz. 174 i Nr 54, poz. 254 oraz z 1994 r. Nr 43, poz. 165), ” – pkt 21 otrzymuje brzmienie: „ 21) dotacje, subwencje, dopłaty i inne nieodpłatne świadczenia, z zastrzeżeniem pkt 14, otrzymane na pokrycie kosztów albo jako zwrot wydatków związanych z otrzymaniem, zakupem albo wytworzeniem we własnym zakresie środków trwałych lub wartości niematerialnych i prawnych, od których dokonuje się odpisów amortyzacyjnych zgodnie z przepisami wydanymi na podstawie art. 15 ust. 5. ” , ust. 1a otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+1a. Zwolnienie, o którym mowa w ust. 1 pkt 4–8, nie dotyczy:
+
+- **1)** dochodów uzyskanych z działalności polegającej na wytwarzaniu wyrobów przemysłu elektronicznego, paliwowego, tytoniowego, spirytusowego, winiarskiego, piwowarskiego, a także pozostałych wyrobów alkoholowych o zawartości alkoholu powyżej 1,5% oraz wyrobów z metali szlachetnych albo z udziałem tych metali lub dochodów uzyskanych z handlu tymi wyrobami,
+- **2)** dochodów, bez względu na czas ich osiągnięcia, wydatkowanych na inne cele niż wymienione w tych przepisach. ” , dodaje się ust. 1b w brzmieniu: „
+    - **c)**
+
+1b. Zwolnienie, o którym mowa w ust. 1 pkt 4–8, ma zastosowanie, jeżeli dochód jest przeznaczony i – bez względu na termin – wydatkowany na cele określone w tych przepisach, w tym także na nabycie środków trwałych oraz wartości niematerialnych i prawnych służących bezpośrednio realizacji tych celów oraz na opłacenie podatków, nie stanowiących kosztu uzyskania przychodów. ” ;
+
+- **10)** w art. 18 w ust. 1: pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** darowizn: na cele naukowe, naukowo-techniczne, oświatowe, oświatowo-wychowawcze, kulturalne, kultury fizycznej i sportu, ochrony zdrowia i pomocy społecznej, rehabilitacji zawodowej i społecznej inwalidów, a także wspierania inicjatyw społecznych w zakresie budowy dróg i sieci telekomunikacyjnej na wsi oraz zaopatrzenia wsi w wodę – łącznie do wysokości nie przekraczającej 15% dochodu, o którym mowa w art. 7 ust. 3, na cele kultu religijnego i na działalność charytatywno-opiekuńczą, bezpieczeństwa publicznego, obrony narodowej, ochrony środowiska, dobroczynne, a także na cele związane z budownictwem mieszkaniowym dla samorządu terytorialnego i na budowę strażnic jednostek ochrony przeciwpożarowej w rozumieniu przepisów o ochronie przeciwpożarowej oraz ich wyposażenie i utrzymywanie – łącznie do wysokości nie przekraczającej 10% dochodu, o którym mowa w art. 7 ust. 3. ” dodaje się nowy ust. 1a w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **b)**
+
+1a. Łączna kwota odliczeń z tytułów określonych w ust. 1 pkt 1 nie może przekroczyć 15% dochodu, o którym mowa w art. 7 ust. 3, z tym że odliczeniom nie podlegają darowizny na rzecz osób fizycznych i prawnych oraz jednostek organizacyjnych nie mających osobowości prawnej, które prowadzą działalność wymienioną w art. 17 ust. 1a pkt 1. ” , dotychczasowy ust. 1a oznacza się jako ust. 1b;
+
+- **c)**
+- **11)** w art. 21: dotychczasową treść oznacza się jako ust. 1, a po wyrazach „lub naukowego” dodaje się wyrazy „a także środka transportu”, dodaje się ust. 2 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+2. Przepisu ust. 1 nie stosuje się do środków transportu – z wyłączeniem samochodów osobowych – bezpośrednio używanych przez płatnika do świadczenia usług transportowych. ” ;
+
+- **12)** skreśla się art. 24;
+- **13)** w art. 25: w ust. 1 wyrazy „ust. 3” zastępuje się wyrazami „ust. 2a i 3–5”, po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+2a. Podatnicy uzyskujący w roku podatkowym przychody z działalności rolniczej, określone w art. 2 ust. 2, oraz z innych źródeł, u których w roku poprzedzającym rok podatkowy udział przychodów z działalności rolniczej w ogólnej kwocie przychodów, ustalony zgodnie z art. 17 ust. 1 pkt 4e, wynosił mniej niż 60%, mogą składać deklarację i wpłacać zaliczki, o których mowa w ust. 1 i 2, począwszy od dnia 20 października każdego roku. ” , dodaje się ust. 4 i 5 w brzmieniu: „
+
+- **c)**
+
+4. Jeżeli podatnicy, o których mowa w art. 17 ust. 1 pkt 4–8, uprzednio zadeklarowali, że przeznaczą dochód na cele określone w tych przepisach i dochód ten wydatkowali na inne cele – podatek od tego dochodu, bez wezwania, wpłaca się do 20 dnia miesiąca następującego po miesiącu, w którym dokonano wydatku; przepis ten stosuje się również do dochodów za lata poprzedzające rok podatkowy, zadeklarowanych i nie wydatkowanych w tych latach na cele określone w art. 17 ust. 1b. W deklaracjach miesięcznych podatnicy są obowiązani do wykazania sumy dochodów, w tym także z lat poprzedzających rok podatkowy, przeznaczonych a nie wydatkowanych do końca okresu, za który składana jest deklaracja.
+
+5. W razie okresowego zaprzestania działalności, a w przypadku podatników, o których mowa w ust. 4, także w razie nieosiągania przychodów z działalności wymienionej w art. 17 ust. 1a pkt 1 i niedokonywania wydatków na inne cele niż określone w art. 17 ust. 1b, urząd skarbowy może zwolnić podatnika, na jego wniosek, od obowiązków wynikających z ust. 1. W razie zmiany stanu faktycznego uzasadniającego to zwolnienie, podatnik, bez wezwania, jest obowiązany stosować przepisy ust. 1–4. ” ;
+
+- **14)** w art. 26: w ust. 1 po wyrazach „pkt 4–8, że” dodaje się odpowiednio wyraz „przeznaczą”, w ust. 2 na końcu dodaje się zdanie w brzmieniu: „ W tym przypadku podatnikom nie przysługuje uprawnienie do złożenia oświadczenia, o którym mowa w ust. 1. ” , dodaje się ust. 4 i 5 w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+4. Podatnicy są obowiązani bez wezwania złożyć urzędowi skarbowemu określonemu w ust. 3 deklarację według ustalonego wzoru i wpłacić należny zryczałtowany podatek, jeżeli dochód z tytułu udziału w spółce, od którego płatnik nie pobrał podatku, w związku z oświadczeniem, o którym mowa w ust. 1, odpowiednio:
+
+- **1)** został wydatkowany na inne cele niż wymienione w art. 17 ust. 1 pkt 4–8 lub
+- **2)** nie został wydatkowany na cele wymienione w art. 17 ust. 1 pkt 9.
+
+5. Podatek, o którym mowa w ust. 4:
+
+- **1)** w przypadku określonym w pkt 1 wpłaca się do 20 dnia miesiąca następującego po miesiącu, w którym dokonano tego wydatku,
+- **2)** w przypadku określonym w pkt 2 podatek wraz z odsetkami w wysokości połowy odsetek za zwłokę od zaległości podatkowych, naliczonymi od następnego dnia po dokonaniu wypłaty przez płatnika, wpłaca się do 20 dnia pierwszego miesiąca następnego roku podatkowego. ” ;
+- **15)** w art. 27 ust. 1 po wyrazie „Podatnicy” dodaje się wyrazy „, z wyjątkiem zwolnionych od podatku na podstawie art. 6,”;
+- **16)** w art. 37 w ust. 1 pkt 4 otrzymuje brzmienie: „
+- **4)** dochód ze sprzedaży: udziałów (akcji) spółek utworzonych w celu oddania tym spółkom do odpłatnego korzystania, na podstawie przepisów o prywatyzacji przedsiębiorstw państwowych, przedsiębiorstwa lub zorganizowanych części mienia przedsiębiorstwa, obligacji Skarbu Państwa wyemitowanych po dniu 1 stycznia 1989 r., a także akcji dopuszczonych do obrotu publicznego, nabytych na giełdzie papierów wartościowych; zwolnienie nie ma jednak zastosowania, jeżeli sprzedaż tych udziałów, obligacji lub akcji jest przedmiotem działalności gospodarczej. ” ;
+- **17)** w art. 40 w ust. 2 skreśla się pkt 7.
+
+**Art. 3.** W ustawie z dnia 19 grudnia 1980 r. o zobowiązaniach podatkowych (Dz. U. z 1993 r. Nr 108, poz. 486 i Nr 134, poz. 646) w art. 11 w ust. 2 wyraz „określa” zastępuje się wyrazami „może określić”.
+
+**Art. 4.** W ustawie z dnia 7 lipca 1994 r. o zmianie ustawy – Prawo spółdzielcze oraz o zmianie niektórych innych ustaw (Dz. U. Nr 90, poz. 419) wprowadza się następujące zmiany:
+
+- **1)** art. 3 otrzymuje brzmienie: „ W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 1993 r. Nr 90, poz. 416 i Nr 134, poz. 646 oraz z 1994 r. Nr 43, poz. 163 i Nr 90, poz. 419, Nr 113, poz. 547, Nr 123, poz. 602 i Nr 126, poz. 626) w art. 41:
+- **1)** ust. 5 otrzymuje brzmienie: «
+
+5. W razie przeznaczenia dochodu na powiększenie kapitału zakładowego lub akcyjnego, a w spółdzielniach funduszu udziałowego płatnicy, o których mowa w ust. 4, pobierają zryczałtowany podatek dochodowy w terminie 14 dni od dnia uprawomocnienia się postanowienia sądu rejestrowego o dokonaniu wpisu o podwyższeniu kapitału zakładowego lub akcyjnego, a w spółdzielniach od dnia uprawomocnienia się uchwały zgromadzenia członków o podwyższeniu funduszu udziałowego. » ,
+
+- **2)** po ust. 5 dodaje się ust. 5a w brzmieniu: «
+
+5a. W latach 1995–1997 spółdzielnie nie pobierają zryczałtowanego podatku dochodowego według zasad określonych w ust. 5; w tym okresie pobierają jednak, jako płatnicy, zryczałtowany podatek dochodowy od wypłat dokonywanych z funduszu udziałowego. Podatek wynosi 20% kwoty wypłaty i jest pobierany w dniu jej dokonania. Rolnicze spółdzielnie produkcyjne i inne spółdzielnie zajmujące się produkcją rolną ustalającą kwotę wypłat podlegającą opodatkowaniu w takim stosunku, w jakim w roku poprzedzającym te wypłaty pozostają przychody z działalności innej niż wymieniona w art. 2 ust. 1 pkt 1 w ogólnej kwocie przychodów. »” ; »” ;
+
+- **2)** w art. 6 pkt 3 otrzymuje brzmienie: „
+- **3)** w art. 17 w ust. 1 dodaje się pkt 6a w brzmieniu: «
+- **6a)** dochody spółdzielczych związków rewizyjnych – w części przeznaczonej na cele statutowe, z wyłączeniem działalności gospodarczej». ” ”
+
+**Art. 5.** W ustawie z dnia 9 maja 1991 r. o zatrudnianiu i rehabilitacji zawodowej osób niepełnosprawnych (Dz. U. Nr 46, poz. 201, Nr 80, poz. 350 i Nr 110, poz. 472, z 1992 r. Nr 21, poz. 85 oraz z 1993 r. Nr 11, poz. 50 i Nr 28, poz. 127) w art. 41 wyrazy „1995 r.” zastępuje się wyrazami „1998 r.”
 
 **Art. 6.**
 
-- **1)** (ust 1utracił moc z dniem 1.I.1997 r. (Dz.U. Nr 137, poz. 638)
+1. Przy ustalaniu podstawy obliczenia podatku, zgodnie z art. 26 ust. 1 ustawy wymienionej w art. 1, podatnik może w latach 1995–1999 odliczyć od dochodu wydatki poniesione na spłatę zadłużenia z tytułu zaciągniętych przez spółdzielnie mieszkaniowe do dnia 31 maja 1992 r. kredytów na budownictwo mieszkaniowe, o których mowa w przepisach dotyczących wykupu odsetek od tych kredytów ze środków budżetu państwa. Kwota tych odliczeń w każdym roku podatkowym nie może przekroczyć 20% kwoty określonej w art. 26 ust. 3 tej ustawy; art. 26 ust. 3, 7 pkt 1 i ust. 8–10a stosuje się odpowiednio.
 
 2. Do opodatkowania dochodów uzyskanych i nie wydatkowanych w 1994 r. przez podatników wymienionych w art. 17 ust. 1 pkt 4, 4a, 4b, 4d, 4f-6 oraz pkt 7 i 8 ustawy, o której mowa w art. 2, stosuje się przepisy obowiązujące od 1995 r.
 
-3. Przepisy art. 29 ustawy wymienionej w art. 1 i art. 21 ustawy wymienionej w art. 2, w brzmieniu nadanym niniejszą ustawą, stosuje się do podatników, którzy zawarli umowy po dniu 31 grudnia 1994 r. Podatnicy, którzy zawarli umowy do końca 1994 r., są obowiązani, w terminie 14 dni od dnia wejścia w życie ustawy, zawiadomić urząd skarbowy właściwy w sprawach opodatkowania osób zagranicznych o zawarciu tych umów i przesłać temu urzędowi ich wykazy zawierające dane dotyczące stron umów, rodzaju i wartości transakcji oraz okresu, na jaki została zawarta umowa. września 1994 r. o rachunkowości (Dz.U. Nr 121, poz. 591), z wyjątkiem rezerw wymienionych w ustawach, o których mowa w art. 1 i 2.
+3. Przepisy art. 29 ustawy wymienionej w art. 1 i art. 21 ustawy wymienionej w art. 2, w brzmieniu nadanym niniejszą ustawą, stosuje się do podatników, którzy zawarli umowy po dniu 31 grudnia 1994 r. Podatnicy, którzy zawarli umowy do końca 1994 r., są obowiązani, w terminie 14 dni od dnia wejścia w życie ustawy, zawiadomić urząd skarbowy właściwy w sprawach opodatkowania osób zagranicznych o zawarciu tych umów i przesłać temu urzędowi ich wykazy zawierające dane dotyczące stron umów, rodzaju i wartości transakcji oraz okresu, na jaki została zawarta umowa.
+
+4. W 1995 r. nie stanowią kosztów uzyskania przychodów rezerwy utworzone zgodnie z ustawą z dnia 29 września 1994 r. o rachunkowości (Dz. U. Nr 121, poz. 591), z wyjątkiem rezerw wymienionych w ustawach, o których mowa w art. 1 i 2.
 
 5. Kwota wydatków na cele określone w art. 26 ust. 1 pkt 5 lit. b)-f) ustawy, o której mowa w art. 1, odliczonych od dochodu uzyskanego w 1995 r., nie może przekroczyć kwoty limitu obowiązującego w 1994 r.
 

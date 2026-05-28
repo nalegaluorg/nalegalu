@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# o zmianie ustawy o fundacjach oraz ustawy – Prawo o stowarzyszeniach
-
-*USTAWA z dnia 23 stycznia 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 marca 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +22,13 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2026-01-23 |
 | Data wydania | 2026-03-12 |
+| Wejście w życie | 2026-03-27 |
 | Ostatnia zmiana | 2026-03-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000316) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/316/text.pdf) |
+
+Poz. 316
+USTAWA z dnia 23 stycznia 2026 r.
+o zmianie ustawy o fundacjach oraz ustawy – Prawo o stowarzyszeniach
 
 **Art. 1.** W ustawie z dnia 6 kwietnia 1984 r. o fundacjach (Dz. U. z 2023 r. poz. 166) w art. 5 uchyla się ust. 1b.
 

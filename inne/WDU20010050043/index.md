@@ -22,7 +22,8 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2000-12-21 |
 | Data wydania | 2001-01-24 |
-| Ostatnia zmiana | 2026-01-12 |
+| Wejście w życie | 2001-04-25 |
+| Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010050043) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/43/text.pdf) |
 
 Art. 64–68. (pominięte)

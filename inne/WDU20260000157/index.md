@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 lutego 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 lutego 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-02-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000157) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/157/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 lutego 2026 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U.
 z 2024 r. poz. 1405), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 24 stycznia 2025 r. o zmianie ustawy Prawo lotnicze oraz niektórych innych ustaw (Dz. U. poz. 179),
@@ -105,7 +105,7 @@ o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego
     - **b)** zagrożeniom międzynarodowym terroryzmem;
 
 - **3)** rozpoznawanie międzynarodowego obrotu bronią, amunicją i materiałami wybuchowymi oraz towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także rozpoznawanie międzynarodowego obrotu bronią masowej zagłady i zagrożeń związanych z rozprzestrzenianiem tej broni oraz środków jej przenoszenia;
-- **3a)** rozpoznawanie, przeciwdziałanie i zapobieganie zdarzeniom o charakterze terrorystycznym wymierzonym przeciwko personelowi i mieniu SZ RP poza granicami państwa oraz zwalczanie skutków takich zdarzeń; eliminowanie tych zagrożeń;
+- **3a)** rozpoznawanie, przeciwdziałanie i zapobieganie zdarzeniom o charakterze terrorystycznym wymierzonym przeciwko personelowi i mieniu SZ RP poza granicami państwa oraz zwalczanie skutków takich zdarzeń; mających wpływ na obronność państwa oraz zdolność bojową SZ RP, a także podejmowanie działań mających na celu eliminowanie tych zagrożeń;
 - **5)** prowadzenie wywiadu elektronicznego na rzecz SZ RP oraz przedsięwzięć z zakresu kryptoanalizy i kryptografii;
 - **6)** współdziałanie organizowaniu polskich przedstawicielstw wojskowych za granicą;
 - **7)** uczestniczenie planowaniu i przeprowadzaniu kontroli realizacji umów międzynarodowych dotyczących rozbrojenia;
@@ -182,7 +182,7 @@ o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego
 
 1. Organy administracji rządowej, organy samorządu terytorialnego, instytucje państwowe oraz przedsiębiorcy prowadzący działalność zakresie użyteczności publicznej są obowiązani, zakresie swojego działania, do współdziałania z SKW i SWW, a szczególności do udzielania pomocy realizacji zadań SKW i SWW.
 
-2. Przedsiębiorcy, instytucje oraz inne organizacje realizujące umowy z jednostkami organizacyjnymi MON, zakresie badań naukowych i prac rozwojowych oraz produkcji i obrotu towarami, technologiami i usługami o przeznaczeniu wojskowym są obowiązane, zakresie realizowanych umów, do współdziałania z SKW i SWW, jeżeli nie stoi to sprzeczności z ich prawnie chronionym interesem. elektronicznych (Dz. U. z 2026 r. poz. 3), nie stosuje się:
+2. Przedsiębiorcy, instytucje oraz inne organizacje realizujące umowy z jednostkami organizacyjnymi MON, zakresie badań naukowych i prac rozwojowych oraz produkcji i obrotu towarami, technologiami i usługami o przeznaczeniu wojskowym są obowiązane, zakresie realizowanych umów, do współdziałania z SKW i SWW, jeżeli nie stoi to sprzeczności z ich prawnie chronionym interesem. elektronicznego albo publicznej usługi hybrydowej, o których mowa ustawie z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2026 r. poz. 3), nie stosuje się:
 
 - **1)** sprawach dotyczących przyjęcia do służby albo pracy SKW i SWW;
 - **2)** sprawach wynikających ze stosunku służbowego funkcjonariuszy SKW i SWW oraz żołnierzy zawodowych wyznaczonych na stanowiska służbowe SKW i SWW;
@@ -206,6 +206,15 @@ o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego
 **Art. 15.** Powołanie na stanowisko Szefa SKW, Szefa SWW lub ich zastępców osoby niebędącej żołnierzem zawodowym albo funkcjonariuszem SKW albo SWW, jest równoznaczne z nawiązaniem stosunku pracy na podstawie powołania, rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25).
 
 **Art. 16.** Szefem SKW i Szefem SWW może zostać osoba, która:
+
+- **1)** posiada wyłącznie obywatelstwo polskie;
+- **2)** korzysta z pełni praw publicznych;
+- **3)** wykazuje nieskazitelną postawę moralną, obywatelską i patriotyczną;
+- **4)** daje rękojmię należytego wykonywania zadań;
+- **5)** spełnia wymagania określone przepisach ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych zakresie dostępu do informacji niejawnych o klauzuli tajności „ściśle tajne”;
+- **6)** posiada wyższe wykształcenie;
+- **7)** nie pełniła służby zawodowej, nie pracowała i nie była współpracownikiem organów bezpieczeństwa państwa, wymienionych art. 5 ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2023 r. poz. 102);
+- **8)** nie została skazana prawomocnym wyrokiem sądu dyscyplinarnego za czyn, o którym mowa art. 1 ust. 1 lub 3 ustawy z dnia 3 grudnia 1998 r. o odpowiedzialności dyscyplinarnej sędziów, którzy latach 1944–1989 sprzeniewierzyli się niezawisłości sędziowskiej (Dz. U. z 1999 r. poz. 1 oraz z 2001 r. poz. 1070).
 
 **Art. 17.**
 
@@ -264,7 +273,14 @@ o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego
 
 **Art. 25.** W granicach zadań, o których mowa art. 5, funkcjonariusze SKW wykonują czynności:
 
+- **1)** operacyjno-rozpoznawcze;
+- **2)** analityczno-informacyjne;
+- **3)** wynikające z przepisów ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych.
+
 **Art. 26.** W granicach zadań, o których mowa art. 6 ust. 1, funkcjonariusze SWW wykonują czynności:
+
+- **1)** operacyjno-rozpoznawcze;
+- **2)** analityczno-informacyjne.
 
 **Art. 27.**
 
@@ -296,7 +312,7 @@ o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego
 2. Szef SKW może odstąpić od obowiązku, o którym mowa ust. 1, przypadku gdy sprawca przestępstwa szpiegostwa albo podejrzewany o przestępstwa o charakterze terrorystycznym świadomie i dobrowolnie:
 
 - **1)** ujawnił wszelkie okoliczności popełnionego czynu lub prowadzonej działalności;
-- **2)** zobowiązał się do podjęcia tajnej współpracy z SKW. działalności brał on udział, ujawni okoliczności popełnionego czynu lub prowadzonej działalności, zobowiązując się do dalszego jej prowadzenia ramach tajnej współpracy z SKW lub do bieżącego informowania o zakresie prowadzonych przez ten wywiad czynności, uzyskując zgodę następczą na zasadach określonych art. 9a.
+- **2)** zobowiązał się do podjęcia tajnej współpracy z SKW. mowa art. 130 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny, gdy wywiad państwa sojuszniczego, którego działalności brał on udział, ujawni okoliczności popełnionego czynu lub prowadzonej działalności, zobowiązując się do dalszego jej prowadzenia ramach tajnej współpracy z SKW lub do bieżącego informowania o zakresie prowadzonych przez ten wywiad czynności, uzyskując zgodę następczą na zasadach określonych art. 9a.
 
 3. Szef SKW może odstąpić od obowiązku, o którym mowa ust. 1, po zasięgnięciu opinii Pierwszego Zastępcy Prokuratora Generalnego Prokuratora Krajowego oraz Ministra Koordynatora Służb Specjalnych, jeżeli został powołany.
 
@@ -332,7 +348,7 @@ o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego
 
 **Art. 28a.**
 
-1. Funkcjonariusze SKW i SWW mają prawo przeprowadzania doprowadzenia, o którym mowa art. 4 pkt 2 lit. a ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2025 r. poz. 555 i 820), lub konwoju, o którym mowa art. 4 pkt 3 tej ustawy. nego zachowania się.
+1. Funkcjonariusze SKW i SWW mają prawo przeprowadzania doprowadzenia, o którym mowa art. 4 pkt 2 lit. a ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2025 r. poz. 555 i 820), lub konwoju, o którym mowa art. 4 pkt 3 tej ustawy. jest to niezbędne do zapewnienia bezpieczeństwa tego doprowadzenia lub konwoju, mają prawo wydawania poleceń określonego zachowania się.
 
 3. Do wykonywania zadań zakresie przeprowadzania doprowadzenia lub konwoju stosuje się przepisy art. 30–30b.
 
@@ -402,7 +418,7 @@ o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego
 10. Na postanowienia sądu, o których mowa w:
 
 - **1)** ust. 1, 3, 6 i 7 przysługuje zażalenie Szefowi SKW;
-- **2)** ust. 3 i 14c przysługuje zażalenie Pierwszemu Zastępcy Prokuratora Generalnego Prokuratorowi Krajowemu. Do zażalenia stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego. SKW kontroli operacyjnej.
+- **2)** ust. 3 i 14c przysługuje zażalenie Pierwszemu Zastępcy Prokuratora Generalnego Prokuratorowi Krajowemu. Do zażalenia stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego. obowiązani do zapewnienia na własny koszt warunków technicznych i organizacyjnych umożliwiających prowadzenie przez SKW kontroli operacyjnej.
 
 11a. Usługodawca świadczący usługi drogą elektroniczną będący mikroprzedsiębiorcą lub małym przedsiębiorcą rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826) zapewnia warunki techniczne i organizacyjne umożliwiające prowadzenie przez SKW kontroli operacyjnej stosownie do posiadanej infrastruktury.
 
@@ -426,7 +442,7 @@ o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego
 
 14i. Na postanowienie sądu przedmiocie dopuszczenia do wykorzystania postępowaniu karnym materiałów, o których mowa ust. 14g pkt 2, Pierwszemu Zastępcy Prokuratora Generalnego Prokuratorowi Krajowemu przysługuje zażalenie. Do zażalenia stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego.
 
-14j. Szef SKW jest obowiązany do wykonania zarządzenia sądu o zniszczeniu materiałów, o którym mowa ust. 14h, oraz niezwłocznego, komisyjnego i protokolarnego zniszczenia materiałów, których wykorzystanie postępowaniu karnym jest niedopuszczalne. Szef SKW niezwłocznie informuje Pierwszego Zastępcę Prokuratora Generalnego Prokuratora Krajowego o zniszczeniu tych materiałów. zarządza Szef SKW.
+14j. Szef SKW jest obowiązany do wykonania zarządzenia sądu o zniszczeniu materiałów, o którym mowa ust. 14h, oraz niezwłocznego, komisyjnego i protokolarnego zniszczenia materiałów, których wykorzystanie postępowaniu karnym jest niedopuszczalne. Szef SKW niezwłocznie informuje Pierwszego Zastępcę Prokuratora Generalnego Prokuratora Krajowego o zniszczeniu tych materiałów. zaistnienie przestępstwa, podlegają niezwłocznemu, protokolarnemu, komisyjnemu zniszczeniu. Zniszczenie materiałów zarządza Szef SKW.
 
 15a. O wydaniu i wykonaniu zarządzenia dotyczącego zniszczenia materiałów, o których mowa ust. 15, Szef SKW jest obowiązany do niezwłocznego poinformowania Pierwszego Zastępcy Prokuratora Generalnego Prokuratora Krajowego.
 
@@ -466,7 +482,7 @@ o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego
 
 8. Dane, o których mowa ust. 1, które mają znaczenie dla postępowania karnego, Szef SKW przekazuje Pierwszemu Zastępcy Prokuratora Generalnego Prokuratorowi Krajowemu. Pierwszy Zastępca Prokuratora Generalnego Prokurator Krajowy podejmuje decyzję o zakresie i sposobie wykorzystania przekazanych danych.
 
-9. Dane, o których mowa ust. 1, które nie mają znaczenia dla postępowania karnego albo nie są istotne dla obronności Państwa, podlegają niezwłocznemu, komisyjnemu i protokolarnemu zniszczeniu.
+9. Dane, o których mowa ust. 1, które nie mają znaczenia dla postępowania karnego albo nie są istotne dla obronności Państwa, podlegają niezwłocznemu, komisyjnemu i protokolarnemu zniszczeniu. sprawuje Wojskowy Sąd Okręgowy Warszawie.
 
 2. Szef SKW przekazuje, z zachowaniem przepisów o ochronie informacji niejawnych, sądowi, o którym mowa ust. 1, okresach półrocznych, sprawozdanie obejmujące:
 
@@ -581,7 +597,7 @@ o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego
 - **3)** dyrektorów generalnych ministerstwach, urzędach centralnych lub urzędach wojewódzkich;
 - **4)** sędziów, asesorów sądowych, prokuratorów, adwokatów i radców prawnych;
 - **5)** członków rady nadzorczej, członków zarządu oraz dyrektorów programów „Telewizji Polskiej Spółka Akcyjna” i „Polskiego Radia Spółka Akcyjna”, a także dyrektorów terenowych oddziałów „Telewizji Polskiej Spółka Akcyjna”;
-- **6)** dyrektora generalnego, dyrektorów biur oraz kierowników oddziałów regionalnych „Polskiej Agencji Prasowej Spółka Akcyjna”;
+- **6)** dyrektora generalnego, dyrektorów biur oraz kierowników oddziałów regionalnych „Polskiej Agencji Prasowej Spółka Akcyjna”; oraz z 2024 r. poz. 96 i 1222);
 - **8)** redaktorów naczelnych, dziennikarzy lub osób prowadzących działalność wydawniczą, o których mowa ustawie z dnia 26 stycznia 1984 r. Prawo prasowe (Dz. U. z 2018 r. poz. 1914);
 - **9)** rektorów;
 - **10)** członków Rady Głównej Nauki i Szkolnictwa Wyższego, Polskiej Komisji Akredytacyjnej i Rady Doskonałości Naukowej.
@@ -644,7 +660,7 @@ o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego
 
 **Art. 44a.**
 
-1. Sprawdzenie prewencyjne o którym mowa art. 44 ust. 2 pkt 5, polega na manualnym sprawdzeniu osoby, zawartości jej odzieży oraz przedmiotów znajdujących się na jej ciele lub przez nią posiadanych, sprawdzeniu za pomocą środków technicznych niezbędnych do wykrywania materiałów i urządzeń niebezpiecznych lub których posiadanie jest zabronione, szczególności broni, materiałów wybuchowych, środków odurzających, substancji psychotropowych i ich prekursorów, sprawdzeniu biochemicznym lub z wykorzystaniem psa służbowego zakresie niezbędnym do realizacji celu podejmowanych czynności danych okolicznościach oraz sposób możliwie najmniej naruszający dobra osobiste osoby, wobec której czynności są wykonywane. lub sprawdzenie bagaży i ładunków z wykorzystaniem urządzeń i sprzętu specjalistycznego lub psa służbowego lub sprawdzeniu środków transportu z wykorzystaniem urządzeń i sprzętu specjalistycznego lub psa służbowego, jeżeli jest to niezbędne dla zapewnienia bezpieczeństwa ochranianych obiektów.
+1. Sprawdzenie prewencyjne o którym mowa art. 44 ust. 2 pkt 5, polega na manualnym sprawdzeniu osoby, zawartości jej odzieży oraz przedmiotów znajdujących się na jej ciele lub przez nią posiadanych, sprawdzeniu za pomocą środków technicznych niezbędnych do wykrywania materiałów i urządzeń niebezpiecznych lub których posiadanie jest zabronione, szczególności broni, materiałów wybuchowych, środków odurzających, substancji psychotropowych i ich prekursorów, sprawdzeniu biochemicznym lub z wykorzystaniem psa służbowego zakresie niezbędnym do realizacji celu podejmowanych czynności danych okolicznościach oraz sposób możliwie najmniej naruszający dobra osobiste osoby, wobec której czynności są wykonywane. poprzez manualne sprawdzenie ładunków i elementów konstrukcyjnych bagaży oraz znajdujących się nich przedmiotów lub sprawdzenie bagaży i ładunków z wykorzystaniem urządzeń i sprzętu specjalistycznego lub psa służbowego lub sprawdzeniu środków transportu z wykorzystaniem urządzeń i sprzętu specjalistycznego lub psa służbowego, jeżeli jest to niezbędne dla zapewnienia bezpieczeństwa ochranianych obiektów.
 
 3. Sprawdzenia prewencyjnego, o którym mowa art. 44 ust. 2 pkt 5, dokonuje funkcjonariusz tej samej płci, co osoba sprawdzana, miejscu niedostępnym czasie wykonywania sprawdzenia dla osób postronnych.
 
@@ -716,7 +732,7 @@ o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego
 
 - **1)** jest członkiem zarządu, rady nadzorczej lub komisji rewizyjnej spółki prawa handlowego,
 - **2)** jest członkiem zarządu, rady nadzorczej lub komisji rewizyjnej spółdzielni, z wyjątkiem rady nadzorczej spółdzielni mieszkaniowej,
-- **3)** jest członkiem zarządu fundacji prowadzącej działalność gospodarczą,
+- **3)** jest członkiem zarządu fundacji prowadzącej działalność gospodarczą, zakładowego każdej z tych spółek lub
 - **5)** prowadzi działalności gospodarczą na własny rachunek lub wspólnie z innymi osobami zarządza taką działalnością lub jest przedstawicielem czy pełnomocnikiem prowadzeniu takiej działalności podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
 
 2. Nie popełnia przestępstwa określonego ust. 1 funkcjonariusz albo żołnierz, który uzyskał zgodę odpowiednio Szefa SKW albo Szefa SWW, o której mowa art. 41 ust. 3 pkt 2–4.

@@ -8,12 +8,10 @@ pos: 2693
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# sprawie udzielania pomocy inwestycje układy wysokosprawnej kogeneracji propagowanie energii ze źródeł odnawialnych ramach regionalnych programów lata 2021–2027 Na podstawie 30 4 ustawy dnia 28 kwietnia 2022 r. zasadach realizacji zadań finansowanych ze środków europejskich perspektywie finansowej 2021‒2027 (Dz. U. poz. 1079) zarządza się, co następuje:
-
-*ROZPORZĄDZENIE MINISTRA FUNDUSZY I POLITYKI REGIONALNEJ dnia 11 grudnia 2022 r.*
+# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 11 grudnia 2022 r. w sprawie udzielania pomocy na inwestycje w układy wysokosprawnej kogeneracji oraz na propagowanie energii ze źródeł odnawialnych w ramach regionalnych programów na lata 2021–2027
 
 | Pole | Wartość |
 |---|---|
@@ -24,60 +22,129 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-11 |
 | Data wydania | 2022-12-21 |
+| Wejście w życie | 2023-01-01 |
 | Ostatnia zmiana | 2025-07-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002693) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2693/text.pdf) |
 
-1. Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przedsiębiorcom, ramach regionalnych programów lata 2021–2027, następujących rodzajów pomocy:
-1) pomocy inwestycje układy wysokosprawnej kogeneracji,
-2) pomocy inwestycyjnej propagowanie energii ze źródeł odnawialnych,
-3) pomocy badania środowiska zwanych dalej „pomocą”, do których mają zastosowanie przepisy Komisji (UE) 651/2014 dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne rynkiem wewnętrznym zastosowaniu 107 i 108 Traktatu (Dz. 187 26.06.2014, 1, późn. zm. ), zwanego dalej „rozporządzeniem 651/2014”, a także podmioty udzielające tej pomocy.
-1. Przepisów nie stosuje się do pomocy, 1 2 lit. c i d, 3 lit. a, c i d, 4 lit. c 5 651/2014.
-Przepisów zakresie pomocy, 1:
-1) 2, nie stosuje się również przypadkach, których 41 3 i 4 651/2014;
-2) 3, nie stosuje się również przypadku, którym 49 5 651/2014.
-3. Ilekroć rozporządzeniu jest mowa:
-1) intensywności pomocy oznacza to intensywność pomocy rozumieniu 2 26 651/2014;
-2) przedsiębiorcy oznacza to przedsiębiorstwo rozumieniu 1 załącznika I do 651/2014.
-4. Pomoc nie może zostać udzielona ani wypłacona przedsiębiorcy, którym ciąży obowiązek zwrotu pomocy publicznej wynikający decyzji Komisji Europejskiej uznającej taką pomoc za niezgodną prawem rynkiem wewnętrznym.
-i Akwakultury, a także przepisy finansowe potrzeby tych funduszy potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego rzecz Zarządzania Granicami i Polityki Wizowej (Dz. 231 30.06.2021, 159, późn. zm. ).
-6. Pomoc ma celu wspieranie rozwoju gospodarczego i społecznego województwa objętego regionalnym programem lata 2021–2027 i jest udzielana:
-1) inwestycje układy wysokosprawnej kogeneracji rozumieniu 2 107 651/2014, zgodnie 40 651/2014;
-2) propagowanie energii ze źródeł odnawialnych rozumieniu 2 109 651/2014, zgodnie 41 651/2014;
-3) badania środowiska bezpośrednio związane inwestycjami lub działaniami, których 1 lub 2, zgodnie 49 651/2014.
-7. Pomoc jest udzielana:
-1) zgodnie 5 1 651/2014;
-2) formie:
-a) dotacji, których 5 2 lit. a 651/2014,
-b) pożyczek, których 5 2 lit. b 651/2014, udzielanych warunkach, których tym przepisie,
-c) gwarancji, których 5 2 lit. c 651/2014, udzielanych warunkach, których tym przepisie,
-d) poręczenia, którym tytule XXXII księgi trzeciej ustawy dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. 2022 r. poz. 1360, 2337 i 2339), spełniającego warunki gwarancji rozumieniu 2 67 rozporządzenia 651/2014.
-8. 1. Pomoc, 1 1, jest udzielana, jeżeli są spełnione warunki, których 40 2 i 3 651/2014.
-Pomoc, 1 2, jest udzielana, jeżeli są spełnione warunki, których 41 2 i 5 651/2014.
-9. Pomoc, 1:
-1) 1, jest udzielana pokrycie kosztów kwalifikowalnych, których 40 4 651/2014;
-2) 2, jest udzielana pokrycie kosztów kwalifikowalnych, których 41 6 651/2014;
-3) 3, jest udzielana pokrycie kosztów kwalifikowalnych, których 49 2 651/2014.
-10. 1. Maksymalną intensywność pomocy, 1 1, określa się zgodnie 40 5 zdanie pierwsze 651/2014.
-Maksymalną intensywność pomocy, 1 1, można zwiększyć zgodnie 40 5 zdanie drugie 651/2014.
-skiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego lub zachodniopomorskiego lub regionu mazowieckiego regionalnego.
-11. 1. Maksymalną intensywność pomocy, 1 2, określa się zgodnie 41 7 rozporządzenia 651/2014.
-Maksymalną intensywność pomocy, 1 2, można zwiększyć zgodnie 41 8 rozporządzenia 651/2014.
-3. Maksymalną intensywność pomocy, 1 2, można zwiększyć również:
-1) 5 punktów procentowych przypadku gdy inwestycja jest realizowana obszarze województw: dolnośląskiego i wielkopolskiego regionu warszawskiego stołecznego obszarach należących do gmin: Baranów, Błonie, Dąbrówka, Dobre, Góra Kalwaria, Grodzisk Mazowiecki, Jadów, Jaktorów, Kałuszyn, Kampinos, Kołbiel, Latowicz, Leoncin, Leszno, Mrozy, Nasielsk, Osieck, Prażmów, Serock, Siennica, Sobienie-Jeziory, Strachówka, Tarczyn, Tłuszcz, Zakroczym i Żabia Wola;
-2) 15 punktów procentowych przypadku gdy inwestycja jest realizowana obszarze województw: kujawsko-pomorskiego, lubelskiego, lubuskiego, łódzkiego, małopolskiego, opolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego lub zachodniopomorskiego lub regionu mazowieckiego regionalnego.
-12. 1. Maksymalną intensywność pomocy, 1 3, określa się zgodnie 49 3 rozporządzenia 651/2014.
-Maksymalną intensywność pomocy, 1 3, można zwiększyć zgodnie 49 4 rozporządzenia 651/2014.
-13. Do obliczenia intensywności wartości pomocy i kosztów kwalifikowalnych stosuje się 7 1–3 rozporządzenia 651/2014.
-14. Pomoc podlega kumulacji zasadach określonych 8 651/2014.
-15. W przypadku, którym 4 1 lit. s 651/2014, pomoc stanowi pomoc indywidualną podlegającą notyfikacji Komisji Europejskiej i może być udzielona po jej zatwierdzeniu przez Komisję Europejską.
-16. Pomoc może być udzielona, jeżeli przedsiębiorca złożył wniosek udzielenie pomocy, zwany dalej „wnioskiem”, zgodnie 6 2 zdanie pierwsze 651/2014.
-17. 1. Przedsiębiorca składa wniosek do podmiotu udzielającego pomocy.
+Treść rozporządzenia
+Na podstawie art. 30 ust. 4 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przedsiębiorcom, w ramach regionalnych programów na lata 2021–2027, następujących rodzajów pomocy:
+1)
+pomocy na inwestycje w układy wysokosprawnej kogeneracji,
+2)
+pomocy inwestycyjnej na propagowanie energii ze źródeł odnawialnych,
+3)
+pomocy na badania środowiska
+zwanych dalej „pomocą”, do których mają zastosowanie przepisy rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 651/2014”, a także podmioty udzielające tej pomocy.
+§ 2.
+1.
+Przepisów rozporządzenia nie stosuje się do pomocy, o której mowa w art. 1 ust. 2 lit. c i d, ust. 3 lit. a, c i d, ust. 4 lit. c oraz ust. 5 rozporządzenia nr 651/2014.
+2.
+Przepisów rozporządzenia w zakresie pomocy, o której mowa w § 1:
+1)
+pkt 2, nie stosuje się również w przypadkach, o których mowa w art. 41 ust. 3 i 4 rozporządzenia nr 651/2014;
+2)
+pkt 3, nie stosuje się również w przypadku, o którym mowa w art. 49 ust. 5 rozporządzenia nr 651/2014.
+§ 3.
+Ilekroć w rozporządzeniu jest mowa:
+1)
+o intensywności pomocy – oznacza to intensywność pomocy w rozumieniu art. 2 pkt 26 rozporządzenia nr 651/2014;
+2)
+o przedsiębiorcy – oznacza to przedsiębiorstwo w rozumieniu art. 1 załącznika I do rozporządzenia nr 651/2014.
+§ 4.
+Pomoc nie może zostać udzielona ani wypłacona przedsiębiorcy, na którym ciąży obowiązek zwrotu pomocy publicznej wynikający z decyzji Komisji Europejskiej uznającej taką pomoc za niezgodną z prawem oraz z rynkiem wewnętrznym.
+§ 5.
+1.
+Podmiotami udzielającymi pomocy są instytucje zarządzające, instytucje pośredniczące lub instytucje wdrażające, o których mowa w art. 30 ust. 2 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027, zwanej dalej „ustawą”.
+2.
+Podmiotami udzielającymi pomocy mogą być również podmioty wdrażające instrument finansowy w rozumieniu art. 2 pkt 22 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej (Dz. Urz. UE L 231 z 30.06.2021, str. 159, z późn. zm.).
+§ 6.
+Pomoc ma na celu wspieranie rozwoju gospodarczego i społecznego województwa objętego regionalnym programem na lata 2021–2027 i jest udzielana:
+1)
+na inwestycje w układy wysokosprawnej kogeneracji w rozumieniu art. 2 pkt 107 rozporządzenia nr 651/2014, zgodnie z art. 40 rozporządzenia nr 651/2014;
+2)
+na propagowanie energii ze źródeł odnawialnych w rozumieniu art. 2 pkt 109 rozporządzenia nr 651/2014, zgodnie z art. 41 rozporządzenia nr 651/2014;
+3)
+na badania środowiska bezpośrednio związane z inwestycjami lub działaniami, o których mowa w pkt 1 lub 2, zgodnie z art. 49 rozporządzenia nr 651/2014.
+§ 7.
+Pomoc jest udzielana:
+1)
+zgodnie z art. 5 ust. 1 rozporządzenia nr 651/2014;
+2)
+w formie:
+a)
+dotacji, o których mowa w art. 5 ust. 2 lit. a rozporządzenia nr 651/2014,
+b)
+pożyczek, o których mowa w art. 5 ust. 2 lit. b rozporządzenia nr 651/2014, udzielanych na warunkach, o których mowa w tym przepisie,
+c)
+gwarancji, o których mowa w art. 5 ust. 2 lit. c rozporządzenia nr 651/2014, udzielanych na warunkach, o których mowa w tym przepisie,
+d)
+poręczenia, o którym mowa w tytule XXXII księgi trzeciej ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2022 r. poz. 1360, 2337 i 2339), spełniającego warunki gwarancji w rozumieniu art. 2 pkt 67 rozporządzenia nr 651/2014.
+§ 8.
+1.
+Pomoc, o której mowa w § 1 pkt 1, jest udzielana, jeżeli są spełnione warunki, o których mowa w art. 40 ust. 2 i 3 rozporządzenia nr 651/2014.
+2.
+Pomoc, o której mowa w § 1 pkt 2, jest udzielana, jeżeli są spełnione warunki, o których mowa w art. 41 ust. 2 i 5 rozporządzenia nr 651/2014.
+§ 9.
+Pomoc, o której mowa w § 1:
+1)
+pkt 1, jest udzielana na pokrycie kosztów kwalifikowalnych, o których mowa w art. 40 ust. 4 rozporządzenia nr 651/2014;
+2)
+pkt 2, jest udzielana na pokrycie kosztów kwalifikowalnych, o których mowa w art. 41 ust. 6 rozporządzenia nr 651/2014;
+3)
+pkt 3, jest udzielana na pokrycie kosztów kwalifikowalnych, o których mowa w art. 49 ust. 2 rozporządzenia nr 651/2014.
+§ 10.
+1.
+Maksymalną intensywność pomocy, o której mowa w § 1 pkt 1, określa się zgodnie z art. 40 ust. 5 zdanie pierwsze rozporządzenia nr 651/2014.
+2.
+Maksymalną intensywność pomocy, o której mowa w § 1 pkt 1, można zwiększyć zgodnie z art. 40 ust. 5 zdanie drugie rozporządzenia nr 651/2014.
+3.
+Maksymalną intensywność pomocy, o której mowa w § 1 pkt 1, można zwiększyć również:
+1)
+o 5 punktów procentowych – w przypadku gdy inwestycja jest realizowana na obszarze województw: dolnośląskiego i wielkopolskiego oraz regionu warszawskiego stołecznego na obszarach należących do gmin: Baranów, Błonie, Dąbrówka, Dobre, Góra Kalwaria, Grodzisk Mazowiecki, Jadów, Jaktorów, Kałuszyn, Kampinos, Kołbiel, Latowicz, Leoncin, Leszno, Mrozy, Nasielsk, Osieck, Prażmów, Serock, Siennica, Sobienie-Jeziory, Strachówka, Tarczyn, Tłuszcz, Zakroczym i Żabia Wola;
+2)
+o 15 punktów procentowych – w przypadku gdy inwestycja jest realizowana na obszarze województw: kujawsko-pomorskiego, lubelskiego, lubuskiego, łódzkiego, małopolskiego, opolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego lub zachodniopomorskiego lub regionu mazowieckiego regionalnego.
+§ 11.
+1.
+Maksymalną intensywność pomocy, o której mowa w § 1 pkt 2, określa się zgodnie z art. 41 ust. 7 rozporządzenia nr 651/2014.
+2.
+Maksymalną intensywność pomocy, o której mowa w § 1 pkt 2, można zwiększyć zgodnie z art. 41 ust. 8 rozporządzenia nr 651/2014.
+3.
+Maksymalną intensywność pomocy, o której mowa w § 1 pkt 2, można zwiększyć również:
+1)
+o 5 punktów procentowych – w przypadku gdy inwestycja jest realizowana na obszarze województw: dolnośląskiego i wielkopolskiego oraz regionu warszawskiego stołecznego na obszarach należących do gmin: Baranów, Błonie, Dąbrówka, Dobre, Góra Kalwaria, Grodzisk Mazowiecki, Jadów, Jaktorów, Kałuszyn, Kampinos, Kołbiel, Latowicz, Leoncin, Leszno, Mrozy, Nasielsk, Osieck, Prażmów, Serock, Siennica, Sobienie-Jeziory, Strachówka, Tarczyn, Tłuszcz, Zakroczym i Żabia Wola;
+2)
+o 15 punktów procentowych – w przypadku gdy inwestycja jest realizowana na obszarze województw: kujawsko-pomorskiego, lubelskiego, lubuskiego, łódzkiego, małopolskiego, opolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego lub zachodniopomorskiego lub regionu mazowieckiego regionalnego.
+§ 12.
+1.
+Maksymalną intensywność pomocy, o której mowa w § 1 pkt 3, określa się zgodnie z art. 49 ust. 3 rozporządzenia nr 651/2014.
+2.
+Maksymalną intensywność pomocy, o której mowa w § 1 pkt 3, można zwiększyć zgodnie z art. 49 ust. 4 rozporządzenia nr 651/2014.
+§ 13.
+Do obliczenia intensywności oraz wartości pomocy i kosztów kwalifikowalnych stosuje się art. 7 ust. 1–3 rozporządzenia nr 651/2014.
+§ 14.
+Pomoc podlega kumulacji na zasadach określonych w art. 8 rozporządzenia nr 651/2014.
+§ 15.
+W przypadku, o którym mowa w art. 4 ust. 1 lit. s rozporządzenia nr 651/2014, pomoc stanowi pomoc indywidualną podlegającą notyfikacji Komisji Europejskiej i może być udzielona po jej zatwierdzeniu przez Komisję Europejską.
+§ 16.
+Pomoc może być udzielona, jeżeli przedsiębiorca złożył wniosek o udzielenie pomocy, zwany dalej „wnioskiem”, zgodnie z art. 6 ust. 2 zdanie pierwsze rozporządzenia nr 651/2014.
+§ 17.
+1.
+Przedsiębiorca składa wniosek do podmiotu udzielającego pomocy.
+2.
 Wniosek zawiera:
-1) informacje wskazane 6 2 zdanie drugie 651/2014;
-2) inne informacje niezbędne do dokonania oceny wniosku, wskazane przez podmiot udzielający pomocy.
-3. Do wniosku przedsiębiorca załącza dokumenty przygotowane zgodnie przepisami wydanymi podstawie 37 6 ustawy dnia 30 kwietnia 2004 r. postępowaniu sprawach dotyczących pomocy publicznej (Dz. U. 2021 r.
-poz. 743 2022 r. poz. 807).
-4. Po przeprowadzeniu oceny wniosku pomoc może być udzielona przedsiębiorcy podstawie umowy albo porozumienia, którym 2 32 lit. b ustawy, albo decyzji dofinansowaniu projektu rozumieniu 2 2 ustawy.
-18. Pomoc jest udzielana do końca okresu dostosowawczego, którym 58 4 zdanie pierwsze, związku 59 651/2014.
-19. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.
+1)
+informacje wskazane w art. 6 ust. 2 zdanie drugie rozporządzenia nr 651/2014;
+2)
+inne informacje niezbędne do dokonania oceny wniosku, wskazane przez podmiot udzielający pomocy.
+3.
+Do wniosku przedsiębiorca załącza dokumenty przygotowane zgodnie z przepisami wydanymi na podstawie art. 37 ust. 6 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2021 r. poz. 743 oraz z 2022 r. poz. 807).
+4.
+Po przeprowadzeniu oceny wniosku pomoc może być udzielona przedsiębiorcy na podstawie umowy albo porozumienia, o którym mowa w art. 2 pkt 32 lit. b ustawy, albo decyzji o dofinansowaniu projektu w rozumieniu art. 2 pkt 2 ustawy.
+§ 18.
+Pomoc jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4 zdanie pierwsze, w związku z art. 59 rozporządzenia nr 651/2014.
+§ 19.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 261 z 22.07.2021, str. 58, Dz. Urz. UE L 241 z 19.09.2022, str. 16 oraz Dz. Urz. UE L 275 z 25.10.2022, str. 23.
 

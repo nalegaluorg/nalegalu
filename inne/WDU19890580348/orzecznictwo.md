@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Obwieszczenie Ministra Rolnictwa, Leśnictwa i Gospodarki Żywnościowej z dnia 20 października 1989 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 12 marca 1958 r. o sprzedaży nieruchomości Państwowego Funduszu Ziemi oraz uporządkowaniu niektórych spraw związanych z przeprowadzeniem reformy rolnej i osadnictwa rolnego.*
 
-Łącznie: **10** orzeczeń
+Łącznie: **4** orzeczeń
 
 ## art. 3 (1)
 
@@ -28,26 +28,18 @@ Orzeczenia powołujące: *Obwieszczenie Ministra Rolnictwa, Leśnictwa i Gospoda
 
 - 1990-10-23 | TK | [U 1/90](https://www.saos.org.pl/judgments/205451) | Wyrok ★
 
-## art. 9 (5)
+## art. 9 (1)
 
 - 1990-10-23 | TK | [U 1/90](https://www.saos.org.pl/judgments/205451) | Wyrok ★
-- 2015-04-15 | SN | [III CZP 82/14](https://www.saos.org.pl/judgments/245417) | Uchwała ★
-- 2011-09-08 | SN | [III CSK 159/09](https://www.saos.org.pl/judgments/95680) | Wyrok ★
-- 2015-10-09 | SN | [IV CSK 473/13](https://www.saos.org.pl/judgments/243449) | Postanowienie
-- 2014-03-21 | SN | [IV CSK 473/13](https://www.saos.org.pl/judgments/165673) | Postanowienie
 
 ## art. 10 (1)
 
 - 1990-10-23 | TK | [U 1/90](https://www.saos.org.pl/judgments/205451) | Wyrok ★
 
-## art. 16 (6)
+## art. 16 (2)
 
 - 1991-02-20 | TK | [W 5/90](https://www.saos.org.pl/judgments/205497) | Uchwała ★
-- 2015-04-15 | SN | [III CZP 82/14](https://www.saos.org.pl/judgments/245417) | Uchwała ★
-- 2009-06-25 | SN | [III CSK 344/08](https://www.saos.org.pl/judgments/90472) | Wyrok ★
 - 2008-08-27 | SN | [II CSK 105/08](https://www.saos.org.pl/judgments/88620) | Wyrok ★
-- 2015-10-09 | SN | [IV CSK 473/13](https://www.saos.org.pl/judgments/243449) | Postanowienie
-- 2011-09-16 | SN | [IV CSK 77/11](https://www.saos.org.pl/judgments/95749) | Postanowienie
 
 ## art. 20 (1)
 

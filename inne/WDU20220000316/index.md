@@ -8,10 +8,10 @@ pos: 316
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 lutego 2022 r.
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 2 lutego 2022 r. w sprawie wniosku o przyznanie świadczenia ratowniczego
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,24 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2022-02-02 |
 | Data wydania | 2022-02-08 |
+| Wejście w życie | 2022-02-09 |
 | Ostatnia zmiana | 2024-03-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000316) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/316/text.pdf) |
 
-Poz. 316 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 2 lutego 2022 r.
-w sprawie wniosku o przyznanie świadczenia ratowniczego Na podstawie art. 17 ust. 11 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych (Dz. U. poz. 2490) zarządza się, co następuje: § 1. 1. Rozporządzenie określa wzór wniosku o przyznanie świadczenia ratowniczego.
-2. Wzór wniosku o przyznanie świadczenia ratowniczego jest określony w załączniku do rozporządzenia.
-§ 2. Przepisy niniejszego rozporządzenia stosuje się od dnia 1 stycznia 2022 r.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński
+Treść rozporządzenia
+Załącznik – Wniosek o przyznanie świadczenia ratowniczego (wzór)
+Treść rozporządzenia
+Na podstawie art. 17 ust. 11 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych (Dz. U. poz. 2490) zarządza się, co następuje:
+§ 1.
+1.
+Rozporządzenie określa wzór wniosku o przyznanie świadczenia ratowniczego.
+2.
+Wzór wniosku o przyznanie świadczenia ratowniczego jest określony w załączniku do rozporządzenia.
+§ 2.
+Przepisy niniejszego rozporządzenia stosuje się od dnia 1 stycznia 2022 r.
+§ 3.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+Załącznik – Wniosek o przyznanie świadczenia ratowniczego (wzór)
+patrz oryginał
 

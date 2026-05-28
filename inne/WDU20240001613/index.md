@@ -8,10 +8,10 @@ pos: 1613
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 listopada 2024 r.
+# Rozporządzenie Ministra Infrastrukturyz dnia 29 października 2024 r. zmieniające rozporządzenie w sprawie wzoru zaświadczenia na przewozy drogowe na potrzeby własne oraz wypisu z tego zaświadczenia
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,29 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2024-10-29 |
 | Data wydania | 2024-11-04 |
+| Wejście w życie | 2024-11-05 |
 | Ostatnia zmiana | 2024-11-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001613) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1613/text.pdf) |
 
-Opis zabezpieczeń:
-1. Zaświadczenie na przewozy drogowe na potrzeby własne ma formę dwustronicowego dokumentu formatu A4.
-2. Zabezpieczenia zastosowane papierze: papier zabezpieczony chemicznie, niewykazujący luminescencji promieniowaniu ultrafioletowym, dwutonowy, bieżący znak wodny, włókna zabezpieczające widoczne promieniowaniu ultrafioletowym.
-3. Zabezpieczenia zastosowane druku: tło giloszowe, elementy graficzne wykonane farbą aktywną promieniowaniu ultrafioletowym, mikrodruki.
-4. Inne zabezpieczenia: element graficzny wykonany techniką suchego tłoczenia.
-5. Numeracja typograficzna wykonana farbą aktywną promieniowaniu ultrafioletowym.
-Opis zabezpieczeń:
-1. Wypis z zaświadczenia na przewozy drogowe na potrzeby własne ma formę dwustronicowego dokumentu formatu A4.
-2. Zabezpieczenia zastosowane papierze: papier zabezpieczony chemicznie, niewykazujący luminescencji promieniowaniu ultrafioletowym, dwutonowy, bieżący znak wodny, włókna zabezpieczające widoczne promieniowaniu ultrafioletowym.
-3. Zabezpieczenia zastosowane druku: tło giloszowe, elementy graficzne wykonane farbą aktywną promieniowaniu ultrafioletowym, mikrodruki.
-4. Inne zabezpieczenia: element graficzny wykonany techniką suchego tłoczenia.
-5. Numeracja typograficzna wykonana farbą aktywną promieniowaniu ultrafioletowym.
+Treść rozporządzenia
+
+## Załącznik nr 1 — – Zaświadczenie na przewozy drogowe na potrzeby własne (wzór)
+
+## Załącznik nr 2 — – Wypis z zaświadczenia na przewozy drogowe na potrzeby własne (wzór)
+
+Treść rozporządzenia
+Na podstawie art. 33 ust. 10 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2024 r. poz. 1539 i 1544) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 4 lipca 2014 r. w sprawie wzoru zaświadczenia na przewozy drogowe na potrzeby własne oraz wypisu z tego zaświadczenia (Dz. U. poz. 961) załączniki nr 1 i 2 do rozporządzenia otrzymują brzmienie określone w załącznikach nr 1 i 2 do niniejszego rozporządzenia.
+§ 2.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
+
+## Załącznik nr 1 — – Zaświadczenie na przewozy drogowe na potrzeby własne (wzór)
+
+patrz oryginał
+
+## Załącznik nr 2 — – Wypis z zaświadczenia na przewozy drogowe na potrzeby własne (wzór)
+
+patrz oryginał
 

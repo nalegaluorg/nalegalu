@@ -8,10 +8,10 @@ pos: 1537
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 października 2024 r.
+# Rozporządzenie Ministra Sprawiedliwościz dnia 11 października 2024 r. zmieniające rozporządzenie w sprawie rejestru fundacji rodzinnych
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,18 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2024-10-11 |
 | Data wydania | 2024-10-16 |
+| Wejście w życie | 2024-10-31 |
 | Ostatnia zmiana | 2024-10-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001537) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1537/text.pdf) |
 
-Poz. 1537 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 11 października 2024 r.
-zmieniające rozporządzenie w sprawie rejestru fundacji rodzinnych Na podstawie art. 127 ustawy z dnia 26 stycznia 2023 r. o fundacji rodzinnej (Dz. U. poz. 326 i 825) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 18 maja 2023 r. w sprawie rejestru fundacji rodzinnych (Dz. U.
-poz. 971) wprowadza się następujące zmiany:
-1) w § 16 wyrazy „w rubryce 4 lub 6” zastępuje się wyrazami „w rubryce 3, 4 lub 6”;
-2) w § 23 w pkt 4 we wprowadzeniu do wyliczenia wyrazy „w rubryce trzeciej” zastępuje się wyrazami „w rubryce czwartej”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Sprawiedliwości: A. Bodnar
+Treść rozporządzenia
+Na podstawie art. 127 ustawy z dnia 26 stycznia 2023 r. o fundacji rodzinnej (Dz. U. poz. 326 i 825) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Ministra Sprawiedliwości z dnia 18 maja 2023 r. w sprawie rejestru fundacji rodzinnych (Dz. U. poz. 971) wprowadza się następujące zmiany:
+1)
+w § 16 wyrazy „w rubryce 4 lub 6” zastępuje się wyrazami „w rubryce 3, 4 lub 6”;
+2)
+w § 23 w pkt 4 we wprowadzeniu do wyliczenia wyrazy „w rubryce trzeciej” zastępuje się wyrazami „w rubryce czwartej”.
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

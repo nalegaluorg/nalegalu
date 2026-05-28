@@ -22,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2014-12-18 |
 | Data wydania | 2015-01-07 |
+| Wejście w życie | 2015-01-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000022) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/22/text.pdf) |
 

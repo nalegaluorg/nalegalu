@@ -11,7 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Rządowym Funduszu Rozwoju Dróg
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 stycznia 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,11 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2025-01-15 |
 | Data wydania | 2025-01-23 |
-| Ostatnia zmiana | 2025-01-24 |
+| Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000094) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/94/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 15 stycznia 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o Rządowym Funduszu Rozwoju Dróg
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg (Dz. U. z 2023 r. poz. 1983), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 1 października 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1473),
 2) ustawą z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572),
@@ -49,6 +51,10 @@ Art. 40–42. (pominięte)
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa zasady:
+
+- **1)** działania Rządowego Funduszu Rozwoju Dróg, zwanego dalej „Funduszem”;
+- **2)** gromadzenia środków Funduszu;
+- **3)** udzielania dofinansowania i finansowania ze środków Funduszu.
 
 **Art. 2.**
 
@@ -201,6 +207,10 @@ Art. 40–42. (pominięte)
 
 **Art. 8.** Rada Ministrów określi, w drodze rozporządzenia, sposób podziału środków Funduszu na zadania powiatowe oraz zadania gminne na poszczególne województwa, mając na uwadze:
 
+- **1)** długość sieci dróg powiatowych i dróg gminnych w województwie;
+- **2)** liczbę ludności i powierzchnię województwa;
+- **3)** wartość produktu krajowego brutto województwa.
+
 **Art. 9.**
 
 1. Minister właściwy do spraw transportu w porozumieniu z Bankiem sporządza roczny plan finansowy Funduszu.
@@ -229,6 +239,12 @@ Art. 40–42. (pominięte)
 5. Minister właściwy do spraw transportu może dokonywać przesunięć przewidzianych w planie finansowym Funduszu kwot pomiędzy poszczególnymi pozycjami wydatków w ramach łącznej kwoty wydatków określonej w planie finansowym.
 
 **Art. 9a.** Minister właściwy do spraw transportu zawiera z Bankiem porozumienie określające:
+
+- **1)** tryb opracowania planu finansowego Funduszu;
+- **2)** szczegółowy sposób i terminy dokonywania wypłat ze środków Funduszu;
+- **3)** sposób i terminy dokonywania przez Bank lokat, o których mowa w art. 7a;
+- **4)** terminy i sposób przekazywania przez Bank informacji o realizacji planu finansowego Funduszu;
+- **5)** sposób rozporządzania skarbowymi papierami wartościowymi, o których mowa w art. 6 ust. 1.
 
 **Art. 9b.**
 
@@ -555,6 +571,10 @@ Art. 40–42. (pominięte)
 
 **Art. 27.** Do procedury udzielania dofinansowania zadań powiatowych oraz zadań gminnych ze środków Funduszu, w tym do:
 
+- **1)** składania wniosków o dofinansowanie, o których mowa w art. 23 ust. 1, i ich oceny,
+- **2)** ustalania list, o których mowa w art. 24 ust. 5,
+- **3)** wprowadzania na listach, o których mowa w art. 24 ust. 5, zmian, zgodnie z art. 26 ust. 1, oraz zatwierdzania tych list, zgodnie z art. 26 ust. 3 pkt 1 nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572), z wyjątkiem przepisów dotyczących doręczeń i sposobu obliczania terminów.
+
 **Art. 28.**
 
 1. Na podstawie listy zadań powiatowych oraz zadań gminnych przeznaczonych do dofinansowania w danym województwie, o której mowa w art. 26 ust. 3 pkt 1 albo ust. 8, wojewoda zawiera umowy z wnioskodawcami o udzielenie dofinansowania zadania powiatowego albo zadania gminnego.
@@ -778,6 +798,11 @@ Art. 40–42. (pominięte)
 
 **Art. 36d.** Do procedury udzielania dofinansowania zadań obwodnicowych ze środków Funduszu, w tym do:
 
+- **1)** składania wniosków o dofinansowanie, o których mowa w art. 36a ust. 1,
+- **2)** sporządzania listy, o której mowa w art. 36b ust. 3,
+- **3)** wprowadzania zmian na liście, o której mowa w art. 36b ust. 3, zgodnie z art. 36c ust. 2,
+- **4)** dokonywania zatwierdzenia, o którym mowa w art. 36c ust. 4 nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, z wyjątkiem przepisów dotyczących doręczeń i sposobu obliczania terminów.
+
 **Art. 36e.**
 
 1. Minister właściwy do spraw transportu zawiera z właściwą jednostką samorządu terytorialnego umowę o udzielenie dofinansowania zadania obwodnicowego przeznaczonego do dofinansowania ze środków Funduszu zgodnie z art. 36c ust. 6.
@@ -867,6 +892,11 @@ Art. 40–42. (pominięte)
 
 **Art. 36i.** Do procedury udzielania dofinansowania zadań miejskich ze środków Funduszu, w tym:
 
+- **1)** składania wniosków o dofinansowanie, o których mowa w art. 36f ust. 1,
+- **2)** sporządzania listy, o której mowa w art. 36g ust. 3,
+- **3)** wprowadzania zmian na liście, o której mowa w art. 36g ust. 3, zgodnie z art. 36h ust. 2,
+- **4)** dokonywania zatwierdzenia, o którym mowa w art. 36h ust. 4 nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, z wyjątkiem przepisów dotyczących doręczeń i sposobu obliczania terminów.
+
 **Art. 36j.**
 
 1. Minister właściwy do spraw transportu zawiera z właściwą jednostką samorządu terytorialnego umowę o udzielenie dofinansowania zadania miejskiego przeznaczonego do dofinansowania ze środków Funduszu zgodnie z art. 36h ust. 6.
@@ -931,6 +961,10 @@ Art. 40–42. (pominięte)
 8. W przypadku, o którym mowa w ust. 7, zadanie o najwyższym priorytecie do dofinansowania umieszczone na liście, o której mowa w ust. 4 pkt 2, jest przenoszone na listę, o której mowa w ust. 4 pkt 1, do wysokości środków przeznaczonych na dofinansowanie zadań dojazdowych.
 
 **Art. 36m.** Do procedury udzielania dofinansowania zadań dojazdowych ze środków Funduszu, w tym do:
+
+- **1)** składania wniosków o dofinansowanie, o których mowa w art. 36k ust. 1,
+- **2)** sporządzania listy, o której mowa w art. 36l ust. 3,
+- **3)** wprowadzania zmian na liście, o której mowa w art. 36l ust. 3 nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, z wyjątkiem przepisów dotyczących doręczeń i sposobu obliczania terminów.
 
 **Art. 36n.**
 
@@ -1025,6 +1059,11 @@ Art. 40–42. (pominięte)
 10. Lista zadań wojewódzkich przeznaczonych do dofinansowania zmieniona zgodnie z ust. 7 nie wymaga zatwierdzenia przez Prezesa Rady Ministrów.
 
 **Art. 36s.** Do procedury udzielania dofinansowania zadań wojewódzkich ze środków Funduszu, w tym do:
+
+- **1)** składania wniosków o dofinansowanie, o których mowa w art. 36o ust. 1,
+- **2)** sporządzania listy, o której mowa w art. 36p ust. 4,
+- **3)** wprowadzania zmian na liście, o której mowa w art. 36p ust. 4, zgodnie z art. 36r ust. 2,
+- **4)** dokonywania zatwierdzenia, o którym mowa w art. 36r ust. 4 nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, z wyjątkiem przepisów dotyczących doręczeń i sposobu obliczania terminów.
 
 **Art. 36t.**
 
@@ -1170,6 +1209,9 @@ Art. 40–42. (pominięte)
 
 **Art. 42b.** W przypadku gdy wydatek budżetu państwa z tytułu wpłaty do Funduszu w roku 2020 zostanie umieszczony w wykazie ustalonym w przepisach wydanych na podstawie:
 
+- **1)** art. 181 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych albo
+- **2)** art. 21 ust. 1 ustawy z dnia 7 października 2020 r. o zmianie niektórych ustaw w celu przeciwdziałania społeczno-gospodarczym skutkom COVID-19 (Dz. U. poz. 1747) Fundusz może wydatkować środki z przekazanej wpłaty do dnia 31 grudnia 2028 r.
+
 **Art. 42c.** W roku 2021 w planie finansowym Funduszu na rok 2021 mogą być dokonywane zmiany mimo niespełnienia wymogów określonych w art. 29 ust. 9–12 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
 **Art. 42d.**
@@ -1253,19 +1295,19 @@ Art. 40–42. (pominięte)
 
 1. Maksymalny limit wydatków z budżetu państwa przeznaczonych na dofinansowanie Funduszu wynosi w roku:
 
-- **1)** 2018 1 100 tys. zł;
-- **2)** 2019 500 tys. zł;
-- **3)** 2020 5 400 tys. zł;
-- **4)** 2021 3 600 tys. zł;
-- **5)** 2022 500 tys. zł;
+- **1)** 2018 1 100 000 tys. zł;
+- **2)** 2019 500 000 tys. zł;
+- **3)** 2020 5 400 000 tys. zł;
+- **4)** 2021 3 600 000 tys. zł;
+- **5)** 2022 500 000 tys. zł;
 - **6)** 2023 674 123 tys. zł;
 - **7)** 2024 1 908 626 tys. zł;
 - **8)** 2025 1 958 626 tys. zł;
 - **9)** 2026 1 958 626 tys. zł;
-- **10)** 2027 1 650 tys. zł;
-- **11)** 2028 1 750 tys. zł;
-- **12)** 2029 1 600 tys. zł;
-- **13)** 2030 1 600 tys. zł.
+- **10)** 2027 1 650 000 tys. zł;
+- **11)** 2028 1 750 000 tys. zł;
+- **12)** 2029 1 600 000 tys. zł;
+- **13)** 2030 1 600 000 tys. zł.
 
 2. Minister właściwy do spraw transportu monitoruje wykorzystanie limitów wydatków, o których mowa w ust. 1, oraz jest odpowiedzialny za wdrożenie mechanizmu korygującego, o którym mowa w ust. 3.
 

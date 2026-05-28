@@ -8,12 +8,10 @@ pos: 1898
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy – Prawo lotnicze oraz ustawy o Straży Granicznej
-
-*USTAWA z dnia 17 września 2021 r.*
+# Ustawa z dnia 17 września 2021 r. o zmianie ustawy – Prawo lotnicze oraz ustawy o Straży Granicznej
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +22,78 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2021-09-17 |
 | Data wydania | 2021-10-21 |
+| Wejście w życie | 2021-12-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001898) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1898/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2020 r. poz. 1970 oraz z 2021 r. poz. 784 i 847) wprowadza się następujące zmiany:
 
-**Art. 189c.**
+- **1)** w art. 22 ust. 9 otrzymuje brzmienie: „
+
+9. Przed upoważnieniem podmiotu, o którym mowa w ust. 3, do wykonywania czynności nadzoru i kontroli w zakresie ochrony lotnictwa cywilnego Prezes Urzędu przeprowadza rozszerzone sprawdzenie przeszłości, o którym mowa w pkt 11.1.3 załącznika do rozporządzenia wykonawczego Komisji (UE) 2015/1998 z dnia 5 listopada 2015 r. ustanawiającego szczegółowe środki w celu wprowadzenia w życie wspólnych podstawowych norm ochrony lotnictwa cywilnego (Dz. Urz. UE L 299 z 14.11.2015, str. 1, z późn. zm.), zwane dalej „rozszerzonym sprawdzeniem przeszłości”, w stosunku do osoby ubiegającej się o upoważnienie albo osoby mającej wykonywać czynności nadzoru i kontroli w zakresie ochrony lotnictwa cywilnego na rzecz organu albo wyspecjalizowanej jednostki organizacyjnej ubiegającej się o takie upoważnienie. ” ;
+
+- **2)** w art. 186b: ust. 11 otrzymuje brzmienie: „
+    - **a)**
+
+11. W celu uzyskania certyfikatu operatora kontroli bezpieczeństwa w szkoleniu może wziąć udział osoba, wobec której przeprowadzono rozszerzone sprawdzenie przeszłości z wynikiem pozytywnym. ” , uchyla się ust. 12 i 13, w ust. 14 pkt 1 otrzymuje brzmienie: „
+
+- **b)**
+- **c)**
+- **1)** przejście rozszerzonego sprawdzenia przeszłości z wynikiem pozytywnym; ” , ust. 18 otrzymuje brzmienie: „
+    - **d)**
+
+18. Prezes Urzędu może uznać certyfikat operatora kontroli bezpieczeństwa wydany w innym państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym lub przez Organizację Międzynarodowego Lotnictwa Cywilnego lub inną międzynarodową organizację lotniczą za ważny na równi z polskim certyfikatem operatora kontroli bezpieczeństwa, chyba że wymagania stawiane przy jego wydaniu były łagodniejsze od stawianych w Rzeczypospolitej Polskiej, po uprzednim przeprowadzeniu przez Prezesa Urzędu rozszerzonego sprawdzenia przeszłości z wynikiem pozytywnym. ” , uchyla się ust. 19;
+
+- **e)**
+- **3)** w art. 186c: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Prezes Urzędu wyznacza zarejestrowanego agenta, o którym mowa w art. 186b ust. 1 pkt 2, w drodze decyzji administracyjnej, po sprawdzeniu spełnienia wymagań w zakresie ochrony lotnictwa cywilnego oraz po uzyskaniu informacji o braku negatywnych przesłanek dla ochrony lotnictwa cywilnego, zwanych dalej „negatywnymi przesłankami”, dotyczących osób: ” , ust. 4 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+4. Przy ustalaniu braku negatywnych przesłanek stosuje się przepis art. 189d. ” ;
+
+- **4)** w art. 186d w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Prezes Urzędu wyznacza zarejestrowanego dostawcę zaopatrzenia pokładowego, o którym mowa w art. 186b ust. 1 pkt 3, w drodze decyzji administracyjnej, po sprawdzeniu spełnienia wymagań w zakresie ochrony lotnictwa cywilnego oraz po uzyskaniu informacji o braku negatywnych przesłanek dotyczących osób: ” ;
+- **5)** w art. 186e w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Prezes Urzędu wyznacza znanego nadawcę na podstawie pkt 6.4.1 załącznika do rozporządzenia nr 2015/1998/UE, w drodze decyzji administracyjnej, po sprawdzeniu spełnienia wymagań w zakresie ochrony lotnictwa cywilnego oraz po uzyskaniu informacji o braku negatywnych przesłanek dotyczących osób: ” ;
+- **6)** uchyla się art. 186ea;
+- **7)** w art. 188a uchyla się ust. 4–7;
+- **8)** w art. 188b: w ust. 1 pkt 3 otrzymuje brzmienie: „
+    - **a)**
+
+- **3)** wobec której przeprowadzono rozszerzone sprawdzenie przeszłości z wynikiem pozytywnym. ” , uchyla się ust. 3;
+    - **b)**
+
+- **9)** po art. 189a dodaje się art. 189b-189j w brzmieniu: „
+
+**Art. 189b.**
+
+1. Standardowe sprawdzenie przeszłości, o którym mowa w pkt 11.1.4 załącznika do rozporządzenia nr 2015/1998/UE, zwane dalej „standardowym sprawdzeniem przeszłości”, obejmuje:
+
+- **1)** ustalenie tożsamości osoby podlegającej sprawdzeniu na podstawie dokumentu potwierdzającego tożsamość;
+- **2)** uzyskanie od osoby podlegającej sprawdzeniu informacji z rejestrów karnych we wszystkich państwach pobytu z ostatnich 5 lat;
+- **3)** uzyskanie od osoby podlegającej sprawdzeniu informacji o zatrudnieniu, kształceniu i wszystkich przerwach w zatrudnieniu i kształceniu z ostatnich 5 lat.
+
+2. Standardowe sprawdzenie przeszłości przeprowadza się wobec osób:
+
+- **1)** prowadzących kontrolę bezpieczeństwa, kontrolę dostępu lub stosujących inne środki kontroli w zakresie ochrony – innych niż wymienione w art. 189c ust. 2 pkt 1 i 2,
+- **2)** bezpośrednio nadzorujących osoby stosujące środki kontroli w zakresie ochrony, o których mowa w pkt 1,
+- **3)** mających dostęp bez eskorty do ładunku i poczty, poczty i materiałów przewoźnika lotniczego, zaopatrzenia pokładowego lub zaopatrzenia portu lotniczego, do których zastosowano wymagane środki kontroli w zakresie ochrony,
+- **4)** odpowiedzialnych za zapewnienie zgodności programu ochrony z przepisami prawa i jego wdrożenie w podmiocie prowadzącym działalność lotniczą (kierownicy do spraw ochrony) – innych niż wymienione w art. 189c ust. 2 pkt 5,
+- **5)** biorących udział w przewozie ładunku i poczty, poczty i materiałów przewoźnika lotniczego, zaopatrzenia pokładowego lub zaopatrzenia portu lotniczego, do których zastosowano wymagane środki kontroli w zakresie ochrony,
+- **6)** zatrudnionych w strefie operacyjnej lotniska, zatrudnionych w punktach handlowych lub usługowych zlokalizowanych w strefie ogólnodostępnej lotniska albo wykonujących w tych strefach obowiązki związane z funkcjonowaniem lotniska,
+- **7)** mających uprawnienia administratora lub nieograniczony dostęp bez nadzoru do krytycznych systemów technologii informacyjno-komunikacyjnych i danych wykorzystywanych do celów ochrony lotnictwa cywilnego z wyłączeniem osób podlegających rozszerzonemu sprawdzeniu przeszłości.
+
+3. Standardowe sprawdzenie przeszłości przeprowadza:
+
+- **1)** podmiot, na rzecz którego wykonywane są środki kontroli w zakresie ochrony – wobec osób wymienionych w ust. 2 pkt 1 i 2;
+- **2)** podmiot odpowiedzialny za zabezpieczenie ładunku i poczty, poczty i materiałów przewoźnika lotniczego, zaopatrzenia pokładowego i zaopatrzenia portu lotniczego – wobec osób wymienionych w ust. 2 pkt 3 i 5;
+- **3)** podmiot odpowiedzialny za wyznaczenie kierownika do spraw ochrony – wobec osób wymienionych w ust. 2 pkt 4;
+- **4)** zarządzający lotniskiem – wobec osób wymienionych w ust. 2 pkt 6;
+- **5)** podmiot korzystający z krytycznych systemów technologii informacyjno-komunikacyjnych – wobec osób wymienionych w ust. 2 pkt 7.
+
+4. Standardowe sprawdzenie przeszłości przeprowadza się co najmniej raz na 3 lata.
+
+5. Negatywny wynik standardowego sprawdzenia przeszłości uniemożliwia wykonywanie zadań, w związku z którymi sprawdzenie było przeprowadzone.
+
+6. Osoba podlegająca standardowemu sprawdzeniu przeszłości otrzymuje negatywny wynik standardowego sprawdzenia przeszłości, jeżeli z informacji, o której mowa w ust. 1 pkt 2, wynika, że została skazana prawomocnym wyrokiem w związku z przestępstwem określonym w art. 189e ust. 1.
 
 1. Rozszerzone sprawdzenie przeszłości obejmuje:
 
@@ -44,55 +108,53 @@ source: "isap-pdf"
 - **2)** osób prowadzących kontrolę bezpieczeństwa, kontrolę dostępu lub stosujących inne środki kontroli w zakresie ochrony na rzecz zarejestrowanego agenta lub zarejestrowanego dostawcy zaopatrzenia pokładowego;
 - **3)** posiadaczy karty identyfikacyjnej członka załogi i posiadaczy CMC;
 - **4)** osób bezpośrednio nadzorujących osoby stosujące środki kontroli w zakresie ochrony, o których mowa w pkt 1 i 2;
-- **5)** kierowników do spraw ochrony:
-    - **a)** portu lotniczego,
-    - **b)** polskiego przewoźnika lotniczego,
-    - **c)** zarejestrowanego agenta, zarejestrowanego dostawcy zaopatrzenia pokładowego, znanego nadawcy,
-    - **d)** Polskiej Agencji Żeglugi Powietrznej,
-    - **e)** lotniska innego niż port lotniczy;
+- **5)** kierowników do spraw ochrony: portu lotniczego, polskiego przewoźnika lotniczego, zarejestrowanego agenta, zarejestrowanego dostawcy zaopatrzenia pokładowego, znanego nadawcy, Polskiej Agencji Żeglugi Powietrznej, lotniska innego niż port lotniczy;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 - **6)** instruktorów szkolenia w zakresie ochrony lotnictwa cywilnego;
 - **7)** krajowych i wewnętrznych audytorów kontroli jakości w zakresie ochrony lotnictwa cywilnego oraz posiadaczy certyfikatu inspektora lotnictwa cywilnego wydanego przez Prezesa Urzędu;
 - **8)** osób pełniących funkcję unijnego podmiotu zatwierdzającego;
 - **9)** osób kierowanych na szkolenie w celu uzyskania certyfikatu operatora kontroli bezpieczeństwa;
-- **10)** osób mających uprawnienia administratora lub nieograniczony dostęp bez nadzoru do krytycznych systemów technologii informacyjno-komunikacyjnych i danych wykorzystywanych do celów ochrony lotnictwa cywilnego przez:
-    - **a)** zarządzających lotniskami,
-    - **b)** przewoźników lotniczych,
-    - **c)** zarejestrowanych agentów,
-    - **d)** Polską Agencję Żeglugi Powietrznej,
-    - **e)** zarejestrowanych dostawców zaopatrzenia pokładowego;
+- **10)** osób mających uprawnienia administratora lub nieograniczony dostęp bez nadzoru do krytycznych systemów technologii informacyjno-komunikacyjnych i danych wykorzystywanych do celów ochrony lotnictwa cywilnego przez: zarządzających lotniskami, przewoźników lotniczych, zarejestrowanych agentów, Polską Agencję Żeglugi Powietrznej, zarejestrowanych dostawców zaopatrzenia pokładowego;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 - **11)** kontrolerów ruchu lotniczego.
 
 3. Rozszerzone sprawdzenie przeszłości przeprowadza:
 
-- **1)** zarządzający lotniskiem – wobec osób:
-    - **a)** o których mowa w ust. 2 pkt 1 i pkt 5 lit. a oraz pkt 10 lit. a,
-    - **b)** bezpośrednio nadzorujących osoby stosujące środki kontroli w zakresie ochrony, o których mowa w ust. 2 pkt 1,
-    - **c)** o których mowa w ust. 2 pkt 9, które są rekrutowane do pracy lub zatrudnione w służbie ochrony lotniska;
+- **1)** zarządzający lotniskiem – wobec osób: o których mowa w ust. 2 pkt 1 i pkt 5 lit. a oraz pkt 10 lit. a, bezpośrednio nadzorujących osoby stosujące środki kontroli w zakresie ochrony, o których mowa w ust. 2 pkt 1, o których mowa w ust. 2 pkt 9, które są rekrutowane do pracy lub zatrudnione w służbie ochrony lotniska;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **2)** przewoźnik lotniczy – wobec osób, o których mowa w ust. 2 pkt 3, pkt 5 lit. b i pkt 10 lit. b;
 - **3)** Polska Agencja Żeglugi Powietrznej – wobec osób, o których mowa w ust. 2 pkt 5 lit. d, pkt 10 lit. d i pkt 11;
 - **4)** Prezes Urzędu – wobec osób, o których mowa w ust. 2 pkt 6–8;
 - **5)** podmiot kierujący na szkolenie – wobec osób, o których mowa w ust. 2 pkt 9, innych niż rekrutowane do pracy lub zatrudnione w służbie ochrony lotniska;
-- **6)** podmiot, na rzecz którego są wykonywane środki kontroli w zakresie ochrony – wobec osób:
-    - **a)** o których mowa w ust. 2 pkt 2,
-    - **b)** bezpośrednio nadzorujących osoby, o których mowa w ust. 2 pkt 2,
-    - **c)** o których mowa w ust. 2 pkt 5 lit. c,
-    - **d)** o których mowa w ust. 2 pkt 10 lit. c i e;
+- **6)** podmiot, na rzecz którego są wykonywane środki kontroli w zakresie ochrony – wobec osób: o których mowa w ust. 2 pkt 2, bezpośrednio nadzorujących osoby, o których mowa w ust. 2 pkt 2, o których mowa w ust. 2 pkt 5 lit. c, o których mowa w ust. 2 pkt 10 lit. c i e;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **7)** zarządzający lotniskiem innym niż port lotniczy – wobec osób, o których mowa w ust. 2 pkt 5 lit. e.
 
-4. Rozszerzone sprawdzenie przeszłości przeprowadza się raz na 12 miesięcy, z wyjątkiem informacji o istnieniu negatywnych przesłanek albo o ich braku, udzielanych w trybie i na zasadach określonych w art. 189d–189g.
+4. Rozszerzone sprawdzenie przeszłości przeprowadza się raz na 12 miesięcy, z wyjątkiem informacji o istnieniu negatywnych przesłanek albo o ich braku, udzielanych w trybie i na zasadach określonych w art. 189d-189g.
 
 5. Negatywny wynik rozszerzonego sprawdzenia przeszłości uniemożliwia wykonywanie zadań, w związku z którymi sprawdzenie było przeprowadzone.
-
-**Art. 189d.**
 
 1. W ramach rozszerzonego sprawdzenia przeszłości:
 
 - **1)** podmiot przeprowadzający rozszerzone sprawdzenie przeszłości, o którym mowa w art. 189c ust. 3 pkt 1–4,
-- **2)** Prezes Urzędu, na wniosek podmiotu przeprowadzającego rozszerzone sprawdzenie przeszłości, o którym mowa w art. 189c ust. 3 pkt 5–7 – zwani dalej „podmiotami sprawdzającymi”, składają do komendanta oddziału Straży Granicznej właściwego miejscowo ze względu na siedzibę podmiotu sprawdzającego wniosek o udzielenie informacji o istnieniu negatywnych przesłanek albo o ich braku, zwany dalej „wnioskiem o sprawdzenie”.
+- **2)** Prezes Urzędu, na wniosek podmiotu przeprowadzającego rozszerzone sprawdzenie przeszłości, o którym mowa w art. 189c ust. 3 pkt 5–7 zwani dalej „podmiotami sprawdzającymi”, składają do komendanta oddziału Straży Granicznej właściwego miejscowo ze względu na siedzibę podmiotu sprawdzającego wniosek o udzielenie informacji o istnieniu negatywnych przesłanek albo o ich braku, zwany dalej „wnioskiem o sprawdzenie”.
 
 2. Wniosek o sprawdzenie oraz wniosek, o którym mowa w ust. 1 pkt 2, zawierają:
 
@@ -100,13 +162,13 @@ source: "isap-pdf"
 - **2)** nazwę podmiotu sprawdzającego;
 - **3)** nazwę oddziału Straży Granicznej, do którego jest składany wniosek – w przypadku wniosku o sprawdzenie;
 - **4)** podstawę prawną;
-- **5)** informacje dotyczące osoby podlegającej sprawdzeniu obejmujące:
-    - **a)** imię i nazwisko,
-    - **b)** imię ojca,
-    - **c)** datę urodzenia,
-    - **d)** obywatelstwo,
-    - **e)** płeć,
-    - **f)** numer PESEL, jeżeli osoba podlegająca sprawdzeniu go posiada;
+- **5)** informacje dotyczące osoby podlegającej sprawdzeniu obejmujące: imię i nazwisko, imię ojca, datę urodzenia, obywatelstwo, płeć, numer PESEL, jeżeli osoba podlegająca sprawdzeniu go posiada;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
 
 - **6)** rodzaj, serię i numer dokumentu tożsamości, na podstawie którego ustalono tożsamość osoby podlegającej sprawdzeniu;
 - **7)** nazwę podmiotu, na rzecz którego osoba podlegająca sprawdzeniu wykonuje albo będzie wykonywać środki kontroli w zakresie ochrony;
@@ -140,12 +202,10 @@ source: "isap-pdf"
 
 11. Wniosek o sprawdzenie złożony przez osobę nieuprawnioną albo nieupoważnioną pozostawia się bez rozpoznania, informując o tym odpowiednio wnioskodawcę albo podmiot sprawdzający.
 
-**Art. 189e.**
-
 1. Komendant oddziału Straży Granicznej stwierdza istnienie negatywnych przesłanek w przypadku wystąpienia zagrożenia dla obronności lub bezpieczeństwa państwa i porządku publicznego albo powzięcia wiadomości o aktualnie prowadzonym postępowaniu karnym przeciwko osobie lub o skazaniu jej prawomocnym wyrokiem w związku z:
 
 - **1)** przestępstwem o charakterze terrorystycznym, przestępstwem przeciwko pokojowi, ludzkości oraz przestępstwem wojennym, przestępstwem przeciwko Rzeczypospolitej Polskiej, przestępstwem przeciwko obronności, przestępstwem przeciwko życiu i zdrowiu, przestępstwem przeciwko bezpieczeństwu powszechnemu, przestępstwem przeciwko bezpieczeństwu w komunikacji, przestępstwem przeciwko środowisku, przestępstwem przeciwko wolności, przestępstwem przeciwko wolności seksualnej i obyczajności, przestępstwem przeciwko rodzinie i opiece, przestępstwem przeciwko działalności instytucji państwowych oraz samorządu terytorialnego, przestępstwem przeciwko wymiarowi sprawiedliwości, przestępstwem przeciwko porządkowi publicznemu, przestępstwem przeciwko ochronie informacji, przestępstwem przeciwko wiarygodności dokumentów, przestępstwem przeciwko mieniu, przestępstwem przeciwko obrotowi gospodarczemu i interesom majątkowym w obrocie cywilnoprawnym, przestępstwem przeciwko obrotowi pieniędzmi i papierami wartościowymi, przestępstwem przeciwko zasadom dyscypliny wojskowej, przestępstwem przeciwko mieniu wojskowemu, przestępstwem skarbowym przeciwko obowiązkom celnym oraz zasadom obrotu z zagranicą towarami i usługami lub przestępstwem skarbowym przeciwko obowiązkom podatkowym i rozliczeniom z tytułu dotacji lub subwencji lub
-- **2)** przestępstwem określonym w ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2020 r. poz. 1896, z późn. zm. ), ustawie z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2021 r. poz. 324), ustawie z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2020 r. poz. 509), ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2021 r. poz. 974 i 981), ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2021 r. poz. 710 i 954), ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2021 r. poz. 1098 i 1718), ustawie z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2020 r. poz. 2134), ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2020 r. poz. 2050), ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2021 r. poz. 328, 355, 680, 1505 i 1595) lub ustawie z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2020 r. poz. 1545 oraz z 2021 r. poz. 1329) – jeżeli przestępstwo to zostało popełnione umyślnie i górna granica ustawowego zagrożenia karą pozbawienia wolności za to przestępstwo wynosi co najmniej 3 lata.
+- **2)** przestępstwem określonym w ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2020 r. poz. 1896, z późn. zm.), ustawie z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2021 r. poz. 324), ustawie z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2020 r. poz. 509), ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2021 r. poz. 974 i 981), ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2021 r. poz. 710 i 954), ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2021 r. poz. 1098 i 1718), ustawie z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2020 r. poz. 2134), ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2020 r. poz. 2050), ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2021 r. poz. 328, 355, 680, 1505 i 1595) lub ustawie z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2020 r. poz. 1545 oraz z 2021 r. poz. 1329) jeżeli przestępstwo to zostało popełnione umyślnie i górna granica ustawowego zagrożenia karą pozbawienia wolności za to przestępstwo wynosi co najmniej 3 lata.
 
 2. Komendant oddziału Straży Granicznej dokonuje ustaleń i udziela, w formie pisemnej, podmiotowi sprawdzającemu informacji o istnieniu negatywnych przesłanek albo o ich braku w terminie 30 dni od dnia otrzymania wniosku o sprawdzenie.
 
@@ -177,8 +237,6 @@ source: "isap-pdf"
 
 14. W przypadku uzyskania informacji o istnieniu negatywnych przesłanek albo o ich braku Prezes Urzędu niezwłocznie przekazuje ją podmiotowi, na którego wniosek wystąpił z wnioskiem o sprawdzenie.
 
-**Art. 189f.**
-
 1. Ustalenia w zakresie istnienia negatywnych przesłanek wobec osób, co do których podmiot sprawdzający uzyskał informację o braku negatywnych przesłanek, z wyjątkiem przypadków, o których mowa w art. 189e ust. 11 pkt 3, komendant oddziału Straży Granicznej powtarza z urzędu, nie rzadziej niż raz na 12 miesięcy od dnia wystąpienia przez podmiot sprawdzający z wnioskiem o sprawdzenie albo od dnia zakończenia ostatnich powtórnych ustaleń.
 
 2. Powtórne ustalenia wobec osoby nieprzerwanie realizującej zadania, w związku z którymi wystąpiono z wnioskiem o sprawdzenie, są dokonywane do czasu upływu ważności informacji o braku negatywnych przesłanek, chyba że wcześniej komendant oddziału Straży Granicznej przekaże podmiotowi sprawdzającemu informację o istnieniu negatywnych przesłanek.
@@ -197,17 +255,11 @@ source: "isap-pdf"
 
 9. Wobec osób, które zostały zgłoszone przez podmiot sprawdzający w trybie określonym w ust. 6, nie dokonuje się powtórnych ustaleń.
 
-**Art. 189g.**
-
 1. Organy władzy publicznej, organy administracji publicznej oraz służby odpowiedzialne za bezpieczeństwo państwa i porządek publiczny, współpracujące ze Strażą Graniczną w zakresie ustalania istnienia negatywnych przesłanek i realizujące zadania, których skutkiem jest przetwarzanie informacji kryminalnych, w przypadku uzyskania od Straży Granicznej informacji, że osoba, wobec której podejmują czynności służbowe, podlega lub podlegała ustaleniom w zakresie istnienia negatywnych przesłanek, dokonują w danym przypadku analizy informacji mogących stanowić podstawę do stwierdzenia istnienia negatywnych przesłanek, a w razie stwierdzenia ich istnienia przekazują informację w tym zakresie komendantowi oddziału Straży Granicznej.
 
 2. W przypadku gdy poza terminem powtórnych ustaleń komendant oddziału Straży Granicznej uzyska informację o istnieniu negatywnych przesłanek wobec osoby podlegającej rozszerzonemu sprawdzeniu przeszłości, przekazuje on tę informację podmiotowi sprawdzającemu, który wystąpił z wnioskiem o sprawdzenie, nie później niż w terminie 14 dni od dnia jej uzyskania.
 
-3. Straż Graniczna może przekazywać informacje uzyskane w związku z dokonywaniem ustaleń w zakresie istnienia negatywnych przesłanek albo ich braku służbom odpowiedzialnym za bezpieczeństwo państwa i porządek publiczny w celu realizacji ich ustawowych zadań związanych z przeciwdziałaniem zagrożeniom terrorystycznym oraz ze zwalczaniem takich zagrożeń i innej poważnej przestępczości.
-
-**Art. 189h.** Do uzyskiwania przez Prezesa Urzędu informacji o braku negatywnych przesłanek w przypadkach określonych w art. 186c ust. 1, art. 186d ust. 1 i art. 186e ust. 1 przepisy art. 189d–189g stosuje się odpowiednio.
-
-**Art. 189i.**
+3. Straż Graniczna może przekazywać informacje uzyskane w związku z dokonywaniem ustaleń w zakresie istnienia negatywnych przesłanek albo ich braku służbom odpowiedzialnym za bezpieczeństwo państwa i porządek publiczny w celu realizacji ich ustawowych zadań związanych z przeciwdziałaniem zagrożeniom terrorystycznym oraz ze zwalczaniem takich zagrożeń i innej poważnej przestępczości. Do uzyskiwania przez Prezesa Urzędu informacji o braku negatywnych przesłanek w przypadkach określonych w art. 186c ust. 1, art. 186d ust. 1 i art. 186e ust. 1 przepisy art. 189d-189g stosuje się odpowiednio.
 
 1. Komendant Główny Straży Granicznej oraz komendant oddziału Straży Granicznej właściwy miejscowo ze względu na siedzibę podmiotu sprawdzającego sprawują nadzór nad podmiotami sprawdzającymi w zakresie realizacji obowiązków związanych z występowaniem z wnioskiem o sprawdzenie oraz z uzyskiwaniem informacji o istnieniu negatywnych przesłanek albo o ich braku.
 
@@ -220,24 +272,29 @@ source: "isap-pdf"
 
 3. Nadzór, o którym mowa w ust. 1, może być realizowany w ramach bezpośrednich wizytacji w siedzibie podmiotu sprawdzającego lub w trybie korespondencyjnym.
 
-**Art. 189j.**
-
 1. Komendant Główny Straży Granicznej jest uprawniony do przeprowadzenia kontroli wobec zarządzającego lotniskiem, przewoźnika lotniczego i Polskiej Agencji Żeglugi Powietrznej w zakresie, o którym mowa w art. 189i ust. 1.
 
-2. Komendant Główny Straży Granicznej zawiadamia Prezesa Urzędu o stwierdzonym w toku kontroli niewykonaniu przez podmiot sprawdzający obowiązku występowania z wnioskiem o sprawdzenie w ramach rozszerzonego sprawdzenia przeszłości.”;
+2. Komendant Główny Straży Granicznej zawiadamia Prezesa Urzędu o stwierdzonym w toku kontroli niewykonaniu przez podmiot sprawdzający obowiązku występowania z wnioskiem o sprawdzenie w ramach rozszerzonego sprawdzenia przeszłości. ” ;
 
-- **10)** po art. 209x dodaje się art. 209xa i art. 209xb w brzmieniu: „Art. 209xa. 1. Zarządzający lotniskiem, przewoźnik lotniczy i Polska Agencja Żeglugi Powietrznej, którzy:
+- **10)** po art. 209x dodaje się art. 209xa i art. 209xb w brzmieniu: „ Art. 209xa.
+
+1. Zarządzający lotniskiem, przewoźnik lotniczy i Polska Agencja Żeglugi Powietrznej, którzy:
+
 - **1)** nie realizują obowiązku określonego w art. 189f ust. 5 zdanie pierwsze,
-- **2)** realizując obowiązek określony w art. 189f ust. 6, przekazują informację nieprawdziwą lub niepełną za dany kwartał – podlegają karze pieniężnej w wysokości od 2000 do 20 000 zł.
+- **2)** realizując obowiązek określony w art. 189f ust. 6, przekazują informację nieprawdziwą lub niepełną za dany kwartał podlegają karze pieniężnej w wysokości od 2000 do 20 000 zł.
 
-2. Karę pieniężną, o której mowa w ust. 1, nakłada, w drodze decyzji administracyjnej, Komendant Główny Straży Granicznej po stwierdzeniu uchybień w ramach kontroli. Art. 209xb. 1. Podmiot, na którego wniosek Prezes Urzędu występuje o informację o istnieniu negatywnych przesłanek, który:
+2. Karę pieniężną, o której mowa w ust. 1, nakłada, w drodze decyzji administracyjnej, Komendant Główny Straży Granicznej po stwierdzeniu uchybień w ramach kontroli.
+
+1. Podmiot, na którego wniosek Prezes Urzędu występuje o informację o istnieniu negatywnych przesłanek, który:
 
 - **1)** nie realizuje obowiązku określonego w art. 189f ust. 5 zdanie drugie,
-- **2)** nie realizuje obowiązku określonego w art. 189f ust. 8 lub realizując ten obowiązek, przekazuje informację nieprawdziwą lub niepełną za dany kwartał – podlega karze pieniężnej w wysokości od 2000 do 20 000 zł.
+- **2)** nie realizuje obowiązku określonego w art. 189f ust. 8 lub realizując ten obowiązek, przekazuje informację nieprawdziwą lub niepełną za dany kwartał podlega karze pieniężnej w wysokości od 2000 do 20 000 zł.
 
-2. Karę pieniężną, o której mowa w ust. 1, nakłada, w drodze decyzji administracyjnej, Prezes Urzędu po stwierdzeniu uchybień w ramach kontroli, o której mowa w art. 29b ust. 7.”.
+2. Karę pieniężną, o której mowa w ust. 1, nakłada, w drodze decyzji administracyjnej, Prezes Urzędu po stwierdzeniu uchybień w ramach kontroli, o której mowa w art. 29b ust. 7. ” .
 
-**Art. 2.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2021 r. poz. 1486 i 1728) w art. 1 w ust. 2 po pkt 13a dodaje się pkt 13b w brzmieniu: „13b) sprawowanie nadzoru nad podmiotami sprawdzającymi w rozumieniu art. 189d ust. 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2020 r. poz. 1970 oraz z 2021 r. poz. 784, 847 i 1898) w zakresie określonym w art. 189i tej ustawy;”.
+**Art. 2.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2021 r. poz. 1486 i 1728) w art. 1 w ust. 2 po pkt 13a dodaje się pkt 13b w brzmieniu: „
+
+- **13b)** sprawowanie nadzoru nad podmiotami sprawdzającymi w rozumieniu art. 189d ust. 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2020 r. poz. 1970 oraz z 2021 r. poz. 784, 847 i 1898) w zakresie określonym w art. 189i tej ustawy; ” .
 
 **Art. 3.**
 
@@ -253,37 +310,44 @@ source: "isap-pdf"
 
 **Art. 5.** W terminie do dnia 1 grudnia 2021 r. zarządzający lotniskiem, przewoźnik lotniczy, Polska Agencja Żeglugi Powietrznej oraz Prezes Urzędu Lotnictwa Cywilnego:
 
+- **1)** informują właściwego miejscowo komendanta oddziału Straży Granicznej o osobach upoważnionych w ich imieniu do składania wniosku o sprawdzenie, o którym mowa w art. 189d ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą – w przypadku udzielenia takiego upoważnienia;
+- **2)** występują do właściwego miejscowo komendanta oddziału Straży Granicznej z wnioskiem o przyznanie przez Straż Graniczną uprawnień dostępu do aplikacji dostępowej „Weryfikacja negatywnych przesłanek – Straż Graniczna”, o której mowa w art. 189d ust. 4 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
+
 **Art. 6.**
 
 1. W latach 2021–2030 maksymalny limit wydatków budżetu państwa będących skutkiem finansowym ustawy wynosi dla:
 
-- **1)** Komendanta Głównego Straży Granicznej – 9 314 000,00 zł, z czego w:
-    - **a)** 2021 r. – 4 314 000,00 zł,
-    - **b)** 2022 r. – 0 zł,
-    - **c)** 2023 r. – 0 zł,
-    - **d)** 2024 r. – 0 zł,
-    - **e)** 2025 r. – 0 zł,
-    - **f)** 2026 r. – 5 000 000,00 zł,
-    - **g)** 2027 r. – 0 zł,
-    - **h)** 2028 r. – 0 zł,
-    - **i)** 2029 r. – 0 zł,
-    - **j)** 2030 r. – 0 zł;
+- **1)** Komendanta Głównego Straży Granicznej – 9 314 000,00 zł, z czego w: 2021 r. – 4 314 000,00 zł, 2022 r. – 0 zł, 2023 r. – 0 zł, 2024 r. – 0 zł, 2025 r. – 0 zł, 2026 r. – 5 000 000,00 zł, 2027 r. – 0 zł, 2028 r. – 0 zł, 2029 r. – 0 zł, 2030 r. – 0 zł;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
 
-- **2)** Prezesa Urzędu Lotnictwa Cywilnego – 2 104 000,00 zł, z czego w:
-    - **a)** 2021 r. – 16 000,00 zł,
-    - **b)** 2022 r. – 216 000,00 zł,
-    - **c)** 2023 r. – 234 000,00 zł,
-    - **d)** 2024 r. – 234 000,00 zł,
-    - **e)** 2025 r. – 234 000,00 zł,
-    - **f)** 2026 r. – 234 000,00 zł,
-    - **g)** 2027 r. – 234 000,00 zł,
-    - **h)** 2028 r. – 234 000,00 zł,
-    - **i)** 2029 r. – 234 000,00 zł,
-    - **j)** 2030 r. – 234 000,00 zł.
+- **2)** Prezesa Urzędu Lotnictwa Cywilnego – 2 104 000,00 zł, z czego w: 2021 r. – 16 000,00 zł, 2022 r. – 216 000,00 zł, 2023 r. – 234 000,00 zł, 2024 r. – 234 000,00 zł, 2025 r. – 234 000,00 zł, 2026 r. – 234 000,00 zł, 2027 r. – 234 000,00 zł, 2028 r. – 234 000,00 zł, 2029 r. – 234 000,00 zł, 2030 r. – 234 000,00 zł.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
 
 2. Komendant Główny Straży Granicznej monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1 pkt 1, a w przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa w ust. 1 pkt 1, wdraża mechanizm korygujący, polegający na zmniejszeniu wydatków budżetu państwa będących skutkiem finansowym ustawy.
 
 3. Prezes Urzędu Lotnictwa Cywilnego monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1 pkt 2, a w przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa w ust. 1 pkt 2, wdraża mechanizm korygujący, polegający na zmniejszeniu wydatków budżetu państwa będących skutkiem finansowym ustawy.
 
 **Art. 7.** Ustawa wchodzi w życie z dniem 31 grudnia 2021 r., z wyjątkiem:
+
+- **1)** art. 1 pkt 9 w zakresie art. 189d ust. 6 i 7 i art. 5, które wchodzą w życie z dniem 15 listopada 2021 r.;
+- **2)** art. 4, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
 

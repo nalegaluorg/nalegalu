@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o zdrowiu publicznym
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 lutego 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 lutego 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-02-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000149) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/149/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 lutego 2026 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o zdrowiu publicznym
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 11 września 2015 r. o zdrowiu publicznym (Dz. U. z 2024 r. poz. 1670), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 20 lutego 2025 r. o zmianie ustawy o podatku akcyzowym, ustawy o zdrowiu publicznym oraz niektórych innych ustaw (Dz. U. poz. 340),
 2) ustawą z dnia 17 października 2025 r. o zmianie ustawy o zdrowiu publicznym (Dz. U. poz. 1698) oraz zmian wynikających z przepisów ogłoszonych przed dniem 4 lutego 2026 r.
@@ -35,6 +35,8 @@ source: "isap-pdf"
 Art. 19–25. (pominięte)
 
 **Art. 9.** Ustawa wchodzi życie z dniem 1 kwietnia 2025 r., z wyjątkiem art. 2–4 i art. 8, które wchodzą życie z dniem następującym po dniu ogłoszenia.”;
+
+- **2)** art. 2 ustawy z dnia 17 października 2025 r. o zmianie ustawy o zdrowiu publicznym (Dz. U. poz. 1698), który stanowi: „Art. 2. Ustawa wchodzi życie z dniem 1 stycznia 2026 r.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 11 września 2015 r. o zdrowiu publicznym
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -50,6 +52,22 @@ Art. 19–25. (pominięte)
 2. Przez zdrowie publiczne rozumie się zadania określone art. 2.
 
 **Art. 2.** Zadania z zakresu zdrowia publicznego obejmują:
+
+- **1)** monitorowanie i ocenę stanu zdrowia społeczeństwa, zagrożeń zdrowia oraz jakości życia związanej ze zdrowiem społeczeństwa;
+- **2)** edukację zdrowotną dostosowaną do potrzeb różnych grup społeczeństwa, szczególności dzieci, młodzieży i osób starszych;
+- **3)** promocję zdrowia;
+- **3a)** kreowanie postaw zdrowotnych i społecznych sprzyjających profilaktyce zachowań ryzykownych;
+- **3b)** zapobieganie uzależnieniom oraz skutkom zdrowotnym i społecznym wynikającym z uzależnień;
+- **4)** profilaktykę chorób;
+- **5)** działania celu rozpoznawania, eliminowania lub ograniczania zagrożeń i szkód dla zdrowia fizycznego i psychicznego środowisku zamieszkania, nauki, pracy i rekreacji;
+- **6)** analizę adekwatności i efektywności udzielanych świadczeń opieki zdrowotnej odniesieniu do rozpoznanych potrzeb zdrowotnych społeczeństwa;
+- **7)** inicjowanie i prowadzenie:
+    - **a)** działalności naukowej zakresie zdrowia publicznego,
+    - **b)** współpracy międzynarodowej dotyczącej działalności naukowej zakresie zdrowia publicznego;
+
+- **8)** rozwój kadr uczestniczących realizacji zadań z zakresu zdrowia publicznego;
+- **9)** ograniczanie nierówności zdrowiu wynikających z uwarunkowań społeczno-ekonomicznych;
+- **10)** działania obszarze aktywności fizycznej.
 
 **Art. 3.**
 
@@ -140,7 +158,7 @@ Art. 19–25. (pominięte)
 
 **Art. 8.**
 
-1. Członkom Rady oraz osobom, o których mowa art. 7 ust. 6 i 8, związku z wykonywanymi czynnościami przysługuje zwrot kosztów przejazdu wysokości i na warunkach określonych przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25). wysokość utraconego wynagrodzenia za czas tego zwolnienia celu uzyskania przez pracownika od ministra właściwego do spraw zdrowia rekompensaty pieniężnej z tego tytułu wysokości przewidzianej zaświadczeniu, chyba że obowiązujące u danego pracodawcy przepisy prawa pracy przewidują zachowanie przez pracownika prawa do wynagrodzenia za czas zwolnienia.
+1. Członkom Rady oraz osobom, o których mowa art. 7 ust. 6 i 8, związku z wykonywanymi czynnościami przysługuje zwrot kosztów przejazdu wysokości i na warunkach określonych przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25). Rady. W przypadku skorzystania przez pracownika ze zwolnienia od pracy pracodawca wydaje zaświadczenie określające wysokość utraconego wynagrodzenia za czas tego zwolnienia celu uzyskania przez pracownika od ministra właściwego do spraw zdrowia rekompensaty pieniężnej z tego tytułu wysokości przewidzianej zaświadczeniu, chyba że obowiązujące u danego pracodawcy przepisy prawa pracy przewidują zachowanie przez pracownika prawa do wynagrodzenia za czas zwolnienia.
 
 3. Zwrot kosztów przejazdu oraz rekompensata, o których mowa ust. 1 i 2, są finansowane z budżetu państwa z części pozostającej dyspozycji ministra właściwego do spraw zdrowia.
 
@@ -197,7 +215,7 @@ Art. 19–25. (pominięte)
 - **26)** opracowywanie analizy realizacji działań, które są podejmowane danym roku przez samorząd województwa oraz samorząd gminny ramach programu profilaktyki i rozwiązywania problemów alkoholowych oraz przeciwdziałania narkomanii;
 - **27)** wykonywanie innych zadań zleconych przez ministra właściwego do spraw zdrowia.
 
-3. Minister właściwy do spraw zdrowia nadaje, drodze zarządzenia, statut Centrum, który określa strukturę organizacyjną Centrum, mając na uwadze stworzenie optymalnych warunków do efektywnej realizacji zadań przez Centrum.
+3. Minister właściwy do spraw zdrowia nadaje, drodze zarządzenia, statut Centrum, który określa strukturę organizacyjną Centrum, mając na uwadze stworzenie optymalnych warunków do efektywnej realizacji zadań przez Centrum. Centrum otoku.
 
 **Art. 8d.**
 
@@ -242,7 +260,7 @@ Art. 19–25. (pominięte)
 
 5. Po upływie terminu składania dokumentów, który jest określony ogłoszeniu o naborze, niezwłocznie upowszechnia się listę kandydatów, którzy spełniają wymagania formalne określone ogłoszeniu o naborze, przez umieszczenie jej miejscu powszechnie dostępnym siedzibie Centrum, której jest prowadzony nabór, a także przez zamieszczenie jej Biuletynie Informacji Publicznej na stronie podmiotowej Centrum.
 
-6. Lista, o której mowa ust. 5, zawiera imię i nazwisko kandydata oraz określenie jego miejsca zamieszkania rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508).
+6. Lista, o której mowa ust. 5, zawiera imię i nazwisko kandydata oraz określenie jego miejsca zamieszkania rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508). tokół oraz informację o wyniku naboru.
 
 8. Protokół, o którym mowa ust. 7, zawiera:
 
@@ -322,13 +340,21 @@ Art. 19–25. (pominięte)
 
 **Art. 8m.** Do zadań Rady do spraw Przeciwdziałania Uzależnieniom należy:
 
+- **1)** monitorowanie i koordynowanie działań zakresie realizacji polityki państwa obszarze uzależnień;
+- **2)** występowanie do ministra właściwego do spraw zdrowia sprawach, które dotyczą tworzenia, zmian i uzupełnień do krajowych strategii i planów przeciwdziałania problemom wywoływanym przez uzależnienia;
+- **3)** monitorowanie informacji o realizacji krajowych strategii i planów przeciwdziałania problemom wywoływanym przez uzależnienia;
+- **4)** monitorowanie realizacji Narodowego Programu Zdrowia zakresie działań, które dotyczą uzależnień;
+- **5)** zalecanie rozwiązań organizacyjnych zakresie dotyczącym uzależnień;
+- **6)** współdziałanie z podmiotami, które realizują zadania zakresie problematyki dotyczącej przedmiotu działalności tej rady;
+- **7)** wydawanie opinii sprawach zleconych przez Prezesa Rady Ministrów albo ministra właściwego do spraw zdrowia.
+
 **Art. 8n.**
 
 1. Do udziału posiedzeniach Rady do spraw Przeciwdziałania Uzależnieniom jej przewodniczący może zapraszać specjalistów zajmujących się problematyką przeciwdziałania uzależnieniom.
 
 2. Rada do spraw Przeciwdziałania Uzależnieniom wydaje opinie i przedstawia wnioski formie uchwał podejmowanych większością głosów.
 
-**Art. 8o.** W celu wykonywania zadań Rady do spraw Przeciwdziałania Uzależnieniom jej przewodniczący może powoływać zespoły robocze, których skład wchodzą członkowie tej rady lub inne osoby, szczególności specjaliści zajmujący się problematyką przeciwdziałania uzależnieniom. 2. Osobom wchodzącym skład Rady do spraw Przeciwdziałania Uzależnieniom przysługuje zwrot kosztów przejazdu wysokości i na warunkach określonych przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy. 3. Obsługę techniczno-organizacyjną Rady do spraw Przeciwdziałania Uzależnieniom zapewnia Centrum.
+**Art. 8o.** W celu wykonywania zadań Rady do spraw Przeciwdziałania Uzależnieniom jej przewodniczący może powoływać zespoły robocze, których skład wchodzą członkowie tej rady lub inne osoby, szczególności specjaliści zajmujący się problematyką przeciwdziałania uzależnieniom. przysługuje wynagrodzenie. 2. Osobom wchodzącym skład Rady do spraw Przeciwdziałania Uzależnieniom przysługuje zwrot kosztów przejazdu wysokości i na warunkach określonych przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy. 3. Obsługę techniczno-organizacyjną Rady do spraw Przeciwdziałania Uzależnieniom zapewnia Centrum.
 
 **Art. 8q.**
 
@@ -439,7 +465,7 @@ Art. 19–25. (pominięte)
 3. Przez sprzedaż detaliczną, o której mowa ust. 2, rozumie się dokonywanie na terytorium Rzeczypospolitej Polskiej, ramach działalności gospodarczej zbywcy, odpłatnego zbywania towarów konsumentom na podstawie umowy zawartej:
 
 - **1)** lokalu przedsiębiorstwa rozumieniu art. 2 pkt 3 ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2024 r. poz. 1796 oraz z 2025 r. poz. 1172),
-- **2)** poza lokalem przedsiębiorstwa rozumieniu art. 2 pkt 2 ustawy z dnia 30 maja 2014 r. o prawach konsumenta także przypadku, gdy zbywaniu towaru towarzyszy świadczenie usługi odrębnie niezaewidencjonowanej. znajduje się co najmniej jedna z substancji, o których mowa art. 12a ust. 1, z wyłączeniem substancji występujących nich naturalnie.
+- **2)** poza lokalem przedsiębiorstwa rozumieniu art. 2 pkt 2 ustawy z dnia 30 maja 2014 r. o prawach konsumenta także przypadku, gdy zbywaniu towaru towarzyszy świadczenie usługi odrębnie niezaewidencjonowanej. spożywczym, ujęty Polskiej Klasyfikacji Wyrobów i Usług klasach 10.32 i 10.89 oraz dziale 11, którego składzie znajduje się co najmniej jedna z substancji, o których mowa art. 12a ust. 1, z wyłączeniem substancji występujących nich naturalnie.
 
 2. Opłacie nie podlega wprowadzenie na rynek krajowy napojów:
 
@@ -465,7 +491,7 @@ Art. 19–25. (pominięte)
 1. Obowiązek zapłaty opłaty ciąży na osobie fizycznej, osobie prawnej oraz jednostce organizacyjnej nieposiadającej osobowości prawnej będącej:
 
 - **1)** podmiotem sprzedającym napoje do punktów sprzedaży detalicznej albo prowadzącym sprzedaż detaliczną napojów przypadku: producenta, podmiotu nabywającego napoje ramach wewnątrzwspólnotowego nabycia towarów lub importera napoju;
-- **2)** zamawiającym, przypadku gdy skład napoju objętego opłatą stanowi element umowy zawartej przez producenta a dotyczącej produkcji tego napoju dla zamawiającego.
+- **2)** zamawiającym, przypadku gdy skład napoju objętego opłatą stanowi element umowy zawartej przez producenta a dotyczącej produkcji tego napoju dla zamawiającego. zamawiającym, o którym mowa ust. 1 pkt 2.
 
 3. Informację o zawarciu umowy, o której mowa ust. 1 pkt 2, producent zgłasza do organu właściwego sprawie opłaty na piśmie niepóźniej niż dniu powstania obowiązku zapłaty opłaty.
 
@@ -616,11 +642,18 @@ Art. 19–25. (pominięte)
 
 **Art. 13.** Zadania z zakresu zdrowia publicznego są finansowane ze środków pozostających dyspozycji:
 
+- **1)** ministra właściwego do spraw zdrowia, tym ze środków państwowych funduszy celowych;
+- **2)** realizujących zadania z zakresu zdrowia publicznego:
+    - **a)** innych ministrów lub centralnych organów administracji rządowej, tym ze środków państwowych funduszy celowych,
+    - **b)** agencji wykonawczych i innych państwowych jednostek organizacyjnych, tym Narodowego Funduszu Zdrowia;
+
+- **3)** jednostek samorządu terytorialnego.
+
 **Art. 14.**
 
 1. Powierzenie realizacji zadań z zakresu zdrowia publicznego przez odpowiedniego dysponenta środków, o których mowa art. 13, odbywa się trybie konkursu ofert ogłaszanego przez tego dysponenta.
 
-2. Dysponent środków, o których mowa art. 13, nie ogłasza konkursu ofert na realizację zadania, o którym mowa ust. 1, jeżeli NPZ określono podmiot właściwy do realizacji tego zadania oraz wskazano, że powierzenie jego realizacji następuje na wniosek tego podmiotu składany do odpowiedniego dysponenta środków.
+2. Dysponent środków, o których mowa art. 13, nie ogłasza konkursu ofert na realizację zadania, o którym mowa ust. 1, jeżeli NPZ określono podmiot właściwy do realizacji tego zadania oraz wskazano, że powierzenie jego realizacji następuje na wniosek tego podmiotu składany do odpowiedniego dysponenta środków. na podstawie umowy zawartej z realizatorem zadania.
 
 4. Do wyboru realizatorów zadań nie stosuje się przepisów o zamówieniach publicznych oraz przepisów o prowadzeniu działalności pożytku publicznego na podstawie zlecenia realizacji zadań publicznych, o których mowa rozdziale 2 działu II ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie.
 
@@ -686,6 +719,13 @@ Art. 19–25. (pominięte)
 
 **Art. 18.** Niemniej niż 10 % środków przeznaczonych na realizację zadań NPZ przeznacza się na zadania z zakresu:
 
+- **1)** monitorowania i oceny stanu zdrowia i związanej z nim jakości życia społeczeństwa;
+- **2)** identyfikacji i analizy rozpowszechnienia czynników stanowiących zagrożenie stanu zdrowia społeczeństwa;
+- **3)** identyfikacji przyczyn nierówności zdrowiu wynikających z uwarunkowań społeczno-ekonomicznych;
+- **4)** inicjowania i prowadzenia badań naukowych:
+    - **a)** zmierzających do oceny związku między potencjalnymi czynnikami szkodliwymi dla zdrowia lub innymi czynnikami ryzyka a stanem zdrowia ludności,
+    - **b)** dotyczących oceny skuteczności i efektywności działań z zakresu zdrowia publicznego, obejmujących testowanie skuteczności zadań z zakresu zdrowia publicznego polegających na promocji zdrowia lub profilaktyce chorób innych niż określone NPZ.
+
 #### Rozdział 4a (uchylony)
 
 #### Rozdział 4b Przepisy karne
@@ -711,6 +751,9 @@ Art. 19–25. (pominięte)
 #### Rozdział 5 Zmiany przepisach obowiązujących, przepisy przejściowe, dostosowujące i końcowe
 
 **Art. 26.** Wojewoda po raz pierwszy dołącza opinię dotyczącą zgodności zrealizowanych lub podjętych zadań z priorytetami dla regionalnej polityki zdrowotnej, o których mowa art. 95c ustawy zmienianej art. 22 , do:
+
+- **1)** informacji zbiorczej, o której mowa art. 12 ust. 5, za 2017 r.;
+- **2)** wniosku, o którym mowa art. 48d ust. 2 ustawy zmienianej art. 22 , składanego 2017 r.
 
 **Art. 27.**
 
@@ -761,4 +804,10 @@ Art. 19–25. (pominięte)
 5. Minister właściwy do spraw kultury fizycznej, inni właściwi ministrowie wskazani jako podmioty odpowiedzialne za realizację zadań Narodowym Programie Zdrowia oraz wojewodowie są obowiązani do przekazywania ministrowi właściwemu do spraw zdrowia informacji o stopniu realizacji zadań z zakresu zdrowia publicznego, umożliwiających monitorowanie limitu wydatków, o których mowa ust. 1 i 2, terminie umożliwiającym wdrożenie mechanizmu korygującego.
 
 **Art. 30.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 4 ust. 2 pkt 7, który wchodzi życie z dniem 1 października 2017 r.;
+- **2)** art. 9, art. 19 pkt 1, 3, 4 i 6, art. 20, art. 23 i art. 25 pkt 1, które wchodzą życie z dniem 1 stycznia 2016 r.;
+- **3)** art. 12 i art. 22, które wchodzą życie z dniem 1 stycznia 2017 r.;
+- **4)** art. 21, który wchodzi życie z dniem 1 stycznia 2018 r.
+
 

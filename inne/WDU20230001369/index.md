@@ -8,12 +8,10 @@ pos: 1369
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o wsparciu rozwoju kompetencji cyfrowych nauczycieli
-
-*USTAWA z dnia 7 lipca 2023 r.*
+# Ustawa z dnia 7 lipca 2023 r. o wsparciu rozwoju kompetencji cyfrowych uczniów i nauczycieli
 
 | Pole | Wartość |
 |---|---|
@@ -24,38 +22,63 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2023-07-07 |
 | Data wydania | 2023-07-18 |
+| Wejście w życie | 2023-08-02 |
 | Ostatnia zmiana | 2025-10-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001369) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1369/text.pdf) |
 
-**Art. 1.** Ustawa określa zasady i tryb przyznawania wsparcia nauczycielom w związku z rozwojem kompetencji cyfrowych.
+**Art. 1.** Ustawa określa zasady i tryb przyznawania wsparcia uczniom i nauczycielom w związku z rozwojem kompetencji cyfrowych.
 
 **Art. 2.**
 
 1. W celu wspierania rozwoju kompetencji cyfrowych:
 
-- **1)** (uchylony)
-- **2)** nauczycielom, wychowawcom i innym pracownikom pedagogicznym pozostającym w stosunku pracy na dzień 30 września 2023 r. w publicznych i niepublicznych szkołach podstawowych i ponadpodstawowych oraz w publicznych szkołach artystycznych, a także w niepublicznych szkołach artystycznych posiadających uprawnienia publicznej szkoły artystycznej, zwanych dalej „nauczycielami” – przysługuje wsparcie sfinansowane ze środków publicznych.
+- **1)** uczniom klasy IV publicznej i niepublicznej szkoły podstawowej oraz uczniom publicznej i niepublicznej szkoły artystycznej realizującej kształcenie ogólne, klasy odpowiadającej klasie IV szkoły podstawowej, zwanych dalej „uczniami klasy objętej wsparciem”,
+- **2)** nauczycielom, wychowawcom i innym pracownikom pedagogicznym pozostającym w stosunku pracy na dzień 30 września 2023 r. w publicznych i niepublicznych szkołach podstawowych i ponadpodstawowych oraz w publicznych szkołach artystycznych, a także w niepublicznych szkołach artystycznych posiadających uprawnienia publicznej szkoły artystycznej, zwanych dalej „nauczycielami” przysługuje wsparcie sfinansowane ze środków publicznych.
 
 2. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, grupy nauczycieli, wychowawców i innych pracowników pedagogicznych ze szkół, o których mowa w ust. 1 pkt 2, uprawnionych do otrzymania wsparcia, o którym mowa w ust. 3 pkt 2, oraz ich kolejność, mając na uwadze typ szkoły i wykładany przez nauczyciela przedmiot oraz charakter realizowanych zadań przez wychowawców i innych pracowników pedagogicznych, a także sytuację społeczno-gospodarczą i stan finansów publicznych.
 
 3. Wsparcie, o którym mowa w ust. 1, polega na:
 
-- **1)** (uchylony)
-- **2)** przekazaniu nauczycielom jednorazowych świadczeń w formie bonów na zakup komputerów przenośnych typu laptop, zwanych dalej „laptopami” lub laptopów przeglądarkowych, zwanych dalej „bonami”.
+- **1)** dokonaniu zakupu komputerów przenośnych typu laptop, zwanych dalej „laptopami”, i przekazaniu ich uczniom klasy objętej wsparciem;
+- **2)** przekazaniu nauczycielom jednorazowych świadczeń w formie bonów na zakup laptopów lub laptopów przeglądarkowych, zwanych dalej „bonami”.
 
 4. Organem właściwym do udzielania wsparcia jest minister właściwy do spraw informatyzacji.
 
-**Art. 3.** (uchylony)
+**Art. 3.**
 
-**Art. 4.** (uchylony)
+1. W celu udzielania wsparcia, o którym mowa w art. 2 ust. 3 pkt 1, minister właściwy do spraw oświaty i wychowania przekazuje corocznie ministrowi właściwemu do spraw informatyzacji, informacje o prognozowanej liczbie uczniów, rozpoczynających naukę w klasie objętej wsparciem, w terminie do dnia 30 marca roku poprzedzającego rozpoczęcie roku szkolnego, w którym uczeń rozpocznie naukę w klasie objętej wsparciem.
+
+2. Minister właściwy do spraw informatyzacji w oparciu o informacje, o których mowa w ust. 1, dokonuje zakupu laptopów, które muszą spełniać minimalne wymagania dla sprzętu komputerowego typu laptop dla ucznia, o których mowa w przepisach wydanych na podstawie art. 29 ust. 3 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2023 r. poz. 984 i 1234).
+
+3. Minister właściwy do spraw informatyzacji przekazuje uczniom klasy objętej wsparciem zakupione laptopy, za pośrednictwem organu prowadzącego szkołę, o którym mowa w art. 4 pkt 16 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 r. poz. 900), zwanego dalej „organem prowadzącym szkołę”.
+
+4. Ilekroć w ustawie jest mowa o organie prowadzącym szkołę, w przypadku szkoły artystycznej prowadzonej przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego należy przez to rozumieć również specjalistyczną jednostkę nadzoru, o której mowa w art. 53 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe.
+
+5. Dyrektor specjalistycznej jednostki nadzoru, o której mowa w art. 53 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, może upoważnić dyrektora szkoły artystycznej, o której mowa w ust. 4, do realizacji określonych w ustawie zadań organu prowadzącego szkołę.
+
+6. Minister właściwy do spraw informatyzacji opracowuje i udostępnia w Biuletynie Informacji Publicznej na swojej stronie podmiotowej wzór graficzny identyfikacji wizualnej laptopa. Minister właściwy do spraw informatyzacji przekazuje zakupione laptopy, organom prowadzącym szkołę, oznaczone zgodnie z opracowanym wzorem graficznym oraz dołącza do nich dokumenty otrzymane przy ich zakupie, w szczególności deklaracje zgodności z normami i certyfikaty lub równoważne oraz poradniki obsługi w języku polskim dostępne on-line lub na dysku twardym laptopa.
+
+7. Zadania ministra właściwego do spraw informatyzacji, o których mowa w ust. 2, 3 i 6, mogą być realizowane w całości lub w części przez centralnego zamawiającego wyznaczonego na podstawie ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2022 r. poz. 1710, 1812, 1933 i 2185 oraz z 2023 r. poz. 412 i 825).
+
+8. Minister właściwy do spraw informatyzacji zapewnia pomoc informacyjno-techniczną odnośnie zakupionych i przekazanych laptopów objętych wsparciem, o którym mowa w art. 2 ust. 1.
+
+**Art. 4.**
+
+1. Minister właściwy do spraw informatyzacji przekaże na podstawie umowy organowi prowadzącemu szkołę laptopy, w terminie umożliwiającym ich przekazanie uczniom klasy objętej wsparciem do dnia 30 września roku, w którym uczniowie ci rozpoczęli naukę w tej klasie. Umowę, o której mowa w zdaniu pierwszym, oraz inne dokumenty niezbędne do przeprowadzenia procesu przekazania laptopów, sporządza się w postaci elektronicznej i opatruje kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+
+2. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, wzór umowy, o której mowa w ust. 1, mając na względzie ujednolicenie i usprawnienie procesu przekazywania laptopów oraz przejrzystość wydatkowania środków publicznych.
+
+3. Jeżeli liczba laptopów przekazanych organowi, o którym mowa w ust. 1, jest mniejsza niż faktyczna liczba uczniów klasy objętej wsparciem, organ prowadzący szkołę, w terminie nie późniejszym niż 30 dni od dnia ich otrzymania, występuje do ministra właściwego do spraw informatyzacji z wnioskiem o przekazanie większej liczby laptopów. W takim przypadku minister właściwy do spraw informatyzacji przekazuje brakującą liczbę laptopów niezwłocznie.
+
+4. Wniosek, o którym mowa w ust. 3, zawiera informację o liczbie przekazanych laptopów, liczbie brakujących laptopów i faktyczną liczbę uczniów klasy objętej wsparciem.
+
+5. Jeżeli liczba laptopów przekazanych organowi, o którym mowa w ust. 1, jest większa niż faktyczna liczba uczniów klasy objętej wsparciem, organ prowadzący szkołę zwraca nadwyżkę otrzymanych laptopów pod wskazany przez ministra właściwego do spraw informatyzacji adres, w terminie nie późniejszym niż 30 dni od dnia ich przekazania, o którym mowa w ust. 1.
+
+6. Procedury, o których mowa w ust. 3 i 5, organ prowadzący szkołę może przeprowadzić w każdym momencie roku szkolnego.
 
 **Art. 5.**
 
-1. Minister właściwy do spraw informatyzacji prowadzi ewidencję zakupionych i przekazanych laptopów organom prowadzącym szkołę, o których mowa w art. 4 pkt 16 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737, 854, 1562 i 1635), zwanym dalej „organami prowadzącymi szkołę”.
-
-1a. Ilekroć w ustawie jest mowa o organie prowadzącym szkołę, w przypadku szkoły artystycznej prowadzonej przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego należy przez to rozumieć również specjalistyczną jednostkę nadzoru, o której mowa w art. 53 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe.
-
-1b. Dyrektor specjalistycznej jednostki nadzoru, o której mowa w art. 53 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, może upoważnić dyrektora szkoły artystycznej, o której mowa w ust. 1a, do realizacji określonych w ustawie zadań organu prowadzącego szkołę.
+1. Minister właściwy do spraw informatyzacji prowadzi ewidencję zakupionych i przekazanych laptopów organom prowadzącym szkołę.
 
 2. Ewidencja, o której mowa w ust. 1, zawiera w szczególności:
 
@@ -66,15 +89,47 @@ source: "isap-pdf"
 
 3. Dane, o których mowa w ust. 2, minister właściwy do spraw informatyzacji przetwarza w celach ewidencyjnych, weryfikacyjnych, kontrolnych i audytowych.
 
-**Art. 6.** (uchylony)
+**Art. 6.** Uczniowi klasy objętej wsparciem w ramach wsparcia, o którym mowa w art. 2 ust. 3 pkt 1, przysługuje tylko jeden laptop.
 
-**Art. 7.** (uchylony)
+**Art. 7.**
 
-**Art. 8.** (uchylony)
+1. Laptop przekazany uczniowi klasy objętej wsparciem stanowi własność jego rodziców.
 
-**Art. 9.** (uchylony)
+2. Ilekroć w ustawie jest mowa o rodzicach należy przez to rozumieć również opiekunów prawnych.
 
-**Art. 10.** W celu udzielania wsparcia, o którym mowa w art. 2 ust. 3 pkt 2, minister właściwy do spraw oświaty i wychowania przekazuje ministrowi właściwemu do spraw informatyzacji informacje o faktycznej liczbie nauczycieli ujętych w grupie nauczycieli uprawnionych do otrzymania wsparcia, w terminie 30 dni od dnia ich wskazania w przepisach wydanych na podstawie art. 2 ust. 2.
+3. Przekazanie laptopa uczniowi klasy objętej wsparciem następuje na podstawie umowy zawartej przez organ prowadzący szkołę z rodzicem ucznia.
+
+4. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, wzór umowy, o której mowa w ust. 3, mając na względzie ujednolicenie i usprawnienie procesu przekazywania laptopów oraz przejrzystość wydatkowania środków publicznych.
+
+5. Organ prowadzący szkołę sporządza protokół z przekazania laptopa.
+
+6. Umowę, o której mowa w ust. 3, oraz protokół, o którym mowa w ust. 5, sporządza się w postaci papierowej i opatruje własnoręcznym podpisem albo w postaci elektronicznej i opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+
+7. W przypadku zmiany klasy lub szkoły przez ucznia klasy objętej wsparciem laptop jemu przekazany stanowiący własność jego rodziców, nie podlega zwrotowi do organu prowadzącego szkołę.
+
+8. Rodzic ucznia klasy objętej wsparciem składa oświadczenie do organu prowadzącego szkołę, że uczeń nie otrzymał laptopa w innej szkole lub klasie objętej wsparciem, o którym mowa w art. 2 ust. 3 pkt 1. Oświadczenie składane jest pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
+
+9. Laptop przekazany uczniowi klasy objętej wsparciem nie może być przedmiotem jakichkolwiek czynności rozporządzających w okresie 5 lat od dnia przyjęcia laptopa na własność przez rodzica ucznia.
+
+**Art. 8.**
+
+1. Rodzice ucznia klasy objętej wsparciem mogą odmówić przyjęcia laptopa na własność, wówczas właścicielem laptopa staje się organ prowadzący szkołę, który przekazuje uczniowi laptop na podstawie umowy użyczenia zawartej z rodzicami tego ucznia. Umowę sporządza się w postaci papierowej i opatruje własnoręcznym podpisem albo w postaci elektronicznej i opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+
+2. Minister właściwy do spraw informatyzacji może określić, w drodze rozporządzenia, wzór umowy użyczenia laptopa, o której mowa w ust. 1, mając na względzie ujednolicenie i usprawnienie procesu przekazywania laptopów uczniom.
+
+3. Laptop przyznany uczniowi klasy objętej wsparciem, na podstawie umowy użyczenia, stanowiący własność organu prowadzącego szkołę, w przypadku zmiany szkoły przez ucznia podlega zwrotowi do organu prowadzącego szkołę, w terminie 30 dni od dnia zmiany szkoły.
+
+4. Przepisy ust. 1–3 stosuje się do osób oraz podmiotów sprawujących pieczę zastępczą nad dzieckiem, który jest uczniem klasy objętej wsparciem.
+
+**Art. 9.**
+
+1. Uczniowi klasy objętej wsparciem przysługuje jeden laptop sfinansowany ze środków publicznych.
+
+2. Jeżeli uczeń klasy objętej wsparciem otrzymał laptop w ramach wsparcia z innych programów finansowanych ze środków publicznych, rodzice tego ucznia decydują, czy korzystają ze wsparcia, o którym mowa w art. 2 ust. 3 pkt 1, czy wsparcia przewidzianego w tych programach.
+
+3. W przypadku wyboru laptopa zakupionego w ramach wsparcia, o którym mowa w art. 2 ust. 3 pkt 1, laptop otrzymany w ramach innych programów finansowanych ze środków publicznych podlega zwrotowi do podmiotu, od którego uczeń go otrzymał.
+
+**Art. 10.** Wcelu udzielania wsparcia, o którym mowa w art. 2 ust. 3 pkt 2, minister właściwy do spraw oświaty i wychowania przekazuje ministrowi właściwemu do spraw informatyzacji informacje o faktycznej liczbie nauczycieli ujętych w grupie nauczycieli uprawnionych do otrzymania wsparcia, w terminie 30 dni od dnia ich wskazania w przepisach wydanych na podstawie art. 2 ust. 2.
 
 **Art. 11.**
 
@@ -104,7 +159,7 @@ source: "isap-pdf"
 
 **Art. 14.**
 
-1. Zakupiony przez nauczyciela w ramach wsparcia, o którym mowa w art. 2 ust. 3 pkt 2, laptop lub laptop przeglądarkowy musi spełniać minimalne wymagania dla sprzętu komputerowego typu laptop lub laptop przeglądarkowy dla nauczyciela, o których mowa w przepisach wydanych na podstawie art. 29 ust. 3 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2024 r. poz. 986).
+1. Zakupiony przez nauczyciela w ramach wsparcia, o którym mowa w art. 2 ust. 3 pkt 2, laptop lub laptop przeglądarkowy musi spełniać minimalne wymagania dla sprzętu komputerowego typu laptop lub laptop przeglądarkowy dla nauczyciela, o których mowa w przepisach wydanych na podstawie art. 29 ust. 3 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela.
 
 2. Zakupiony przez nauczyciela w ramach wsparcia, o którym mowa w art. 2 ust. 3 pkt 2, laptop lub laptop przeglądarkowy nie może być przedmiotem jakichkolwiek czynności rozporządzających w okresie 5 lat od dnia zakupu.
 
@@ -115,19 +170,19 @@ source: "isap-pdf"
 2. Organ prowadzący szkołę w terminie 30 dni od dnia otrzymania wniosku, o którym mowa w ust. 1, składa jeden wniosek dla wszystkich nauczycieli uprawnionych do otrzymania wsparcia, o którym mowa w art. 2 ust. 3 pkt 2, w systemie teleinformatycznym, o którym mowa w art. 20 ust. 1, zawierający:
 
 - **1)** dane, o których mowa w ust. 1;
-- **2)** dane dotyczące szkoły, w imieniu której wnioskuje organ prowadzący szkołę:
-    - **a)** nazwa szkoły,
-    - **b)** adres szkoły,
-    - **c)** numer identyfikacyjny szkoły w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON),
-    - **d)** numer z Rejestru Szkół i Placówek Oświatowych, o którym mowa w art. 4 ust. 1 pkt 1 ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2024 r. poz. 152, 858 i 1572);
+- **2)** dane dotyczące szkoły, w imieniu której wnioskuje organ prowadzący szkołę: nazwa szkoły, adres szkoły, numer identyfikacyjny szkoły w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), numer z Rejestru Szkół i Placówek Oświatowych, o którym mowa w art. 4 ust. 1 pkt 1 ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2022 r. poz. 2597 oraz z 2023 r. poz. 185 i 1234);
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
-- **3)** dane dotyczące organu prowadzącego szkołę:
-    - **a)** nazwa organu,
-    - **b)** numer identyfikacji podatkowej (NIP) organu,
-    - **c)** numer identyfikacyjny organu w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON),
-    - **d)** adres organu,
-    - **e)** imię (imiona) i nazwisko osoby składającej wniosek, upoważnionej do reprezentowania organu,
-    - **f)** numer PESEL osoby składającej wniosek, upoważnionej do reprezentowania organu.
+- **3)** dane dotyczące organu prowadzącego szkołę: nazwa organu, numer identyfikacji podatkowej (NIP) organu, numer identyfikacyjny organu w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), adres organu, imię (imiona) i nazwisko osoby składającej wniosek, upoważnionej do reprezentowania organu, numer PESEL osoby składającej wniosek, upoważnionej do reprezentowania organu.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
 
 3. Organ prowadzący szkołę przed złożeniem wniosku, o którym mowa w ust. 2, może zobowiązać nauczyciela do złożenia dodatkowych wyjaśnień w zakresie weryfikacji warunków, o których mowa w ust. 4.
 
@@ -157,18 +212,18 @@ source: "isap-pdf"
 
 **Art. 16.**
 
-1. W celu umożliwienia przyjmowania płatności dokonywanych za pomocą bonu przedsiębiorca mający siedzibę na terytorium Rzeczypospolitej Polskiej albo innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, zarejestrowany jako podatnik VAT czynny lub podatnik VAT zwolniony w rozumieniu ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2024 r. poz. 361, 852, 1473 i 1721) prowadzący sprzedaż laptopów lub laptopów przeglądarkowych dokonuje rejestracji w systemie teleinformatycznym, o którym mowa w art. 20 ust. 1.
+1. W celu umożliwienia przyjmowania płatności dokonywanych za pomocą bonu przedsiębiorca mający siedzibę na terytorium Rzeczypospolitej Polskiej albo innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, zarejestrowany jako podatnik VAT czynny lub podatnik VAT zwolniony w rozumieniu ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, z późn. zm.) prowadzący sprzedaż laptopów lub laptopów przeglądarkowych dokonuje rejestracji w systemie teleinformatycznym, o którym mowa w art. 20 ust. 1.
 
 2. Dokonując rejestracji, przedsiębiorca prowadzący sprzedaż laptopów lub laptopów przeglądarkowych podaje:
 
 - **1)** firmę (nazwę) lub imię (imiona) i nazwisko;
-- **2)** adres:
-    - **a)** siedziby – w przypadku przedsiębiorcy niebędącego osobą fizyczną albo stałego miejsca prowadzenia działalności, albo miejsca zamieszkania, w przypadku nieposiadania stałego miejsca prowadzenia działalności – w odniesieniu do osoby fizycznej,
-    - **b)** poczty elektronicznej przyporządkowany do wykonywanej działalności,
-    - **c)** strony internetowej, o ile ją prowadzi;
+- **2)** adres: siedziby – w przypadku przedsiębiorcy niebędącego osobą fizyczną albo stałego miejsca prowadzenia działalności, albo miejsca zamieszkania, w przypadku nieposiadania stałego miejsca prowadzenia działalności – w odniesieniu do osoby fizycznej, poczty elektronicznej przyporządkowany do wykonywanej działalności, strony internetowej, o ile ją prowadzi;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **3)** numer, za pomocą którego podmiot został zidentyfikowany na potrzeby podatku;
-- **4)** numery rachunków rozliczeniowych, o których mowa w art. 49 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646 i 1685), lub imiennych rachunków w spółdzielczej kasie oszczędnościowo-kredytowej, której podmiot jest członkiem, otwartych w związku z prowadzoną przez członka działalnością gospodarczą;
+- **4)** numery rachunków rozliczeniowych, o których mowa w art. 49 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2022 r. poz. 2324, z późn. zm.), lub imiennych rachunków w spółdzielczej kasie oszczędnościowo-kredytowej, której podmiot jest członkiem, otwartych w związku z prowadzoną przez członka działalnością gospodarczą;
 - **5)** numer telefonu przyporządkowany do wykonywanej działalności;
 - **6)** imię i nazwisko oraz numer PESEL osoby dokonującej rejestracji, upoważnionej do reprezentowania przedsiębiorcy;
 - **7)** listę sklepów (punktów sprzedaży) wraz z adresami, w których będą realizowane bony.
@@ -201,11 +256,11 @@ source: "isap-pdf"
 
 1. Minister właściwy do spraw informatyzacji prowadzi system teleinformatyczny zapewniający obsługę bonu.
 
-2. System teleinformatyczny, o którym mowa w ust. 1, zapewnia bezpieczeństwo przetwarzanych danych osobowych oraz środki określone w art. 32 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ).
+2. System teleinformatyczny, o którym mowa w ust. 1, zapewnia bezpieczeństwo przetwarzanych danych osobowych oraz środki określone w art. 32 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.).
 
 3. Administratorem danych osobowych przetwarzanych w systemie teleinformatycznym, o którym mowa w ust. 1, w związku z obsługą bonu jest minister właściwy do spraw informatyzacji.
 
-4. Uwierzytelnianie podmiotów w systemie teleinformatycznym, o którym mowa w ust. 1, następuje w sposób, o którym mowa w art. 20a ust. 1 i 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557 i 1717).
+4. Uwierzytelnianie podmiotów w systemie teleinformatycznym, o którym mowa w ust. 1, następuje w sposób, o którym mowa w art. 20a ust. 1 i 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz. 57, 1123 i 1234).
 
 5. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, szczegółowy sposób i tryb składania wniosków o przyznanie bonu oraz ich obsługi w systemie teleinformatycznym, o którym mowa w ust. 1, mając na uwadze zapewnienie sprawnej obsługi składanych wniosków.
 
@@ -235,7 +290,7 @@ source: "isap-pdf"
 
 **Art. 24.** Minister właściwy do spraw informatyzacji może realizować zadania, o których mowa w ustawie, w całości albo w części przy pomocy jednostek jemu podległych lub przez niego nadzorowanych.
 
-**Art. 25.** Do zużytych laptopów i laptopów przeglądarkowych zakupionych w ramach wsparcia, o którym mowa w art. 2 ust. 3, stosuje się przepisy ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. z 2024 r. poz. 573).
+**Art. 25.** Do zużytych laptopów i laptopów przeglądarkowych zakupionych w ramach wsparcia, o którym mowa w art. 2 ust. 3, stosuje się przepisy ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. z 2022 r. poz. 1622).
 
 **Art. 26.**
 
@@ -243,15 +298,64 @@ source: "isap-pdf"
 
 2. Kontrolę i postępowanie pokontrolne minister właściwy do spraw informatyzacji wszczyna z urzędu.
 
-3. Do kontroli, o której mowa w ust. 1, stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236 i 1222).
+3. Do kontroli, o której mowa w ust. 1, stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641 i 803).
 
-4. Do doręczeń pism w ramach kontroli oraz zaleceń pokontrolnych stosuje się przepisy działu I rozdziału 8 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
+4. Do doręczeń pism w ramach kontroli oraz zaleceń pokontrolnych stosuje się przepisy działu I rozdziału 8 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
 
 5. Minister właściwy do spraw informatyzacji może upoważnić do udziału w kontroli osobę posiadającą wiedzę specjalistyczną, jeżeli przeprowadzenie czynności kontrolnych wymaga takiej wiedzy.
 
 6. Zakres uprawnień osoby, o której mowa w ust. 5, minister właściwy do spraw informatyzacji określa w upoważnieniu.
 
-7. Osoba, o której mowa w ust. 5, jest obowiązana do zachowania w tajemnicy informacji, o których dowiedziała się w toku kontroli. Art. 27–29. (pominięte)
+7. Osoba, o której mowa w ust. 5, jest obowiązana do zachowania w tajemnicy informacji, o których dowiedziała się w toku kontroli.
+
+**Art. 27.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm.) w art. 8 w § 1 w pkt 18 kropkę zastępuje się średnikiem i dodaje się pkt 19 w brzmieniu: „
+
+- **19)** laptopy, laptopy przeglądarkowe oraz bony na zakup laptopów lub laptopów przeglądarkowych przekazane w ramach wsparcia, o którym mowa w ustawie z dnia 7 lipca 2023 r. o wsparciu rozwoju kompetencji cyfrowych uczniów i nauczycieli (Dz. U. poz. 1369). ” .
+
+**Art. 28.** W ustawie z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2021 r. poz. 1043, z późn. zm.) w art. 3 w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „
+
+- **10)** nabycie przez rodziców uczniów laptopów oraz przez nauczycieli laptopów, laptopów przeglądarkowych oraz bony na zakup laptopów lub laptopów przeglądarkowych otrzymanych w ramach wsparcia, o którym mowa w ustawie z dnia 7 lipca 2023 r. o wsparciu rozwoju kompetencji cyfrowych uczniów i nauczycieli (Dz. U. poz. 1369). ” .
+
+**Art. 29.** W ustawie z dnia 28 kwietnia 2022 r. o Akademii Kopernikańskiej (Dz. U. poz. 1459) wprowadza się następujące zmiany:
+
+- **1)** w art. 3 ust. 5 otrzymuje brzmienie: „
+
+5. Statut Akademii i jego zmiany wchodzą w życie po ich zatwierdzeniu przez ministra właściwego do spraw szkolnictwa wyższego i nauki, zwanego dalej „ministrem”. ” ;
+
+- **2)** art. 4 otrzymuje brzmienie: „
+
+1. Minister sprawuje nadzór nad Akademią w zakresie zgodności działania jej organów z przepisami prawa i statutem Akademii.
+
+2. Sekretarz Generalny Akademii, zwany dalej „Sekretarzem”, przedstawia ministrowi roczne sprawozdanie z działalności Akademii, roczne sprawozdanie finansowe wraz ze sprawozdaniem z badania w rozumieniu art. 2 pkt 31 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2023 r. poz. 1015).
+
+3. W ramach sprawowanego nadzoru minister może żądać:
+
+- **1)** informacji i wyjaśnień od organów Akademii;
+- **2)** dostarczenia przez Sekretarza odpisów uchwał Zgromadzenia.
+
+4. W razie stwierdzenia, że działalność Akademii jest niezgodna z prawem lub statutem Akademii, minister, w zależności od rodzaju i stopnia stwierdzonych nieprawidłowości, może:
+
+- **1)** wystąpić o ich usunięcie w określonym terminie;
+- **2)** uchylić uchwałę Zgromadzenia.
+
+5. Minister może uchylić uchwałę Zgromadzenia w przypadku stwierdzenia jej niezgodności z prawem lub statutem Akademii. Uchylenie uchwały następuje w drodze decyzji w terminie 3 miesięcy od dnia powzięcia wiadomości o podjęciu uchwały. ” ;
+
+- **3)** w art. 14 w ust. 3 zdanie pierwsze otrzymuje brzmienie: „ Sekretarz może zwołać dodatkowe posiedzenie Zgromadzenia z własnej inicjatywy, na wniosek ministra, Izby Akademii lub dziesięciu członków Akademii. ” ;
+- **4)** w art. 15 w ust. 3 zdanie pierwsze otrzymuje brzmienie: „ Minister może zgłosić sprzeciw wobec kandydata na Sekretarza wybranego przez Zgromadzenie w terminie 14 dni od dnia doręczenia uchwały Zgromadzenia w tej sprawie. ” ;
+- **5)** w art. 17 w ust. 3 zdanie pierwsze otrzymuje brzmienie: „ Minister, na wniosek Prezydenta Rzeczypospolitej Polskiej, odwołuje Sekretarza z pełnionej funkcji, w przypadku naruszenia ust. 1 i 2. ” ;
+- **6)** w art. 22 ust. 8 otrzymuje brzmienie: „
+
+8. Informację o naborze na stanowisko Dyrektora Centrum ogłasza się przez umieszczenie informacji o konkursie wraz z regulaminem konkursu, w miejscu powszechnie dostępnym w siedzibie Centrum, na stronie podmiotowej Akademii w Biuletynie Informacji Publicznej oraz w Biuletynie Informacji Publicznej urzędu obsługującego ministra. ” ;
+
+- **7)** w art. 23 ust. 9 otrzymuje brzmienie: „
+
+9. Informację o naborze na stanowisko Dyrektora Biura Akademii ogłasza się przez umieszczenie informacji o konkursie wraz z regulaminem konkursu, w miejscu powszechnie dostępnym w siedzibie Biura Akademii, na stronie podmiotowej Akademii w Biuletynie Informacji Publicznej oraz w Biuletynie Informacji Publicznej urzędu obsługującego ministra. ” ;
+
+- **8)** art. 60 otrzymuje brzmienie: „
+
+**Art. 60.** Akademia lub Szkoła mogą być wyposażone lub doposażone w mienie na zasadach określonych w dziale II w rozdziale 6 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2023 r. poz. 344 i 1113). ” ;
+
+- **9)** uchyla się art. 61.
 
 **Art. 30.**
 
@@ -263,5 +367,5 @@ source: "isap-pdf"
 
 **Art. 31.** Minister właściwy do spraw oświaty i wychowania przekaże po raz pierwszy ministrowi właściwemu do spraw informatyzacji informacje, o których mowa w art. 10, w terminie 30 dni od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 32.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem art. 29, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 32.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 29, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

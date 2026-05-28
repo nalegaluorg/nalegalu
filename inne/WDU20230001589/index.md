@@ -8,12 +8,10 @@ pos: 1589
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o gatunkach obcych
-
-*USTAWA z dnia 11 sierpnia 2021 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 12 lipca 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o gatunkach obcych
 
 | Pole | Wartość |
 |---|---|
@@ -27,21 +25,474 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-03-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001589) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1589/text.pdf) |
 
-Art. 37–48. (pominięte)
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych Rozdział 1 – Przepisy ogólne Rozdział 2 – Centralny Rejestr Danych o IGO Rozdział 3 – Zakazy i zezwolenia dotyczące gatunków obcych Rozdział 4 – Postępowanie w przypadku stwierdzenia obecności IGO w środowisku Rozdział 5 – Działania zaradcze przeprowadzane w stosunku do IGO stwarzającego zagrożenie dla Unii lub IGO stwarzającego zagrożenie dla Polski Rozdział 6 – Działania zaradcze podejmowane w przypadku wprowadzenia IGO do środowiska Rozdział 7 – Kontrole dotyczące IGO pochodzącego z terytorium państwa trzeciego Rozdział 8 – Postępowanie w stosunku do IGO, który prawdopodobnie spełnia kryteria uznania go za stwarzający zagrożenie dla Unii Rozdział 9 – Administracyjne kary pieniężne Rozdział 10 – Przepisy karne Rozdział 11 – Zmiany w przepisach Rozdział 12 – Przepisy przejściowe, dostosowujące i końcowe
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych (Dz. U. poz. 1718), z uwzględnieniem zmian wprowadzonych ustawą z dnia 4 listopada 2022 r. o Centralnym Azylu dla Zwierząt (Dz. U. poz. 2375) oraz zmian wynikających z przepisów ogłoszonych przed dniem 11 lipca 2023 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+1)
+art. 37–48 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych (Dz. U. poz. 1718), które stanowią:
+„
+(pominięte)
+
+**Art. 37.** W ustawie z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2019 r. poz. 2168) wprowadza się następujące zmiany:
+
+- **1)** w art. 3 po ust. 2 dodaje się ust. 2a w brzmieniu: „
+
+2a. Chów, hodowla lub działanie z wykorzystaniem ryb gatunku uznanego za nierodzimy, należącego do inwazyjnych gatunków obcych stwarzających zagrożenie dla Unii w rozumieniu art. 3 pkt 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1143/2014 z dnia 22 października 2014 r. w sprawie działań zapobiegawczych i zaradczych w odniesieniu do wprowadzania i rozprzestrzeniania inwazyjnych gatunków obcych (Dz. Urz. UE L 317 z 04.11.2014, str. 35, z późn. zm.)a) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 317 z 23.11.2016, str. 4. lub do inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski, umieszczonych na liście inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski określonej w przepisach wydanych na podstawie art. 23 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych (Dz. U. poz. 1718) są możliwe tylko w zamkniętym zakładzie akwakultury, w przypadku spełniania warunków określonych w przepisach wydanych na podstawie art. 3f oraz po uzyskaniu zezwolenia na odstępstwo od zakazów, o których mowa w art. 7 ust. 1 rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1143/2014 z dnia 22 października 2014 r. w sprawie działań zapobiegawczych i zaradczych w odniesieniu do wprowadzania i rozprzestrzeniania inwazyjnych gatunków obcych, lub odstępstwo od zakazów, o których mowa w art. 7 ust. 2 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych. ” ;
+
+- **2)** w art. 3c dodaje się ust. 3 i 4 w brzmieniu: „
+
+3. W przypadku gdy gatunek ryby został umieszczony w wykazie inwazyjnych gatunków obcych stwarzających zagrożenie dla Unii, o którym mowa w art. 4 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1143/2014 z dnia 22 października 2014 r. w sprawie działań zapobiegawczych i zaradczych w odniesieniu do wprowadzania i rozprzestrzeniania inwazyjnych gatunków obcych, albo na liście inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski określonej w przepisach wydanych na podstawie art. 23 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych, minister właściwy do spraw rybołówstwa cofa, w drodze decyzji administracyjnej, zezwolenie, o którym mowa w art. 3 ust. 1, na wprowadzenie ryb tego gatunku i określa w tej decyzji termin, do którego może być prowadzona działalność objęta cofniętym zezwoleniem, nie dłuższy niż 2 lata.
+
+4. Minister właściwy do spraw rybołówstwa informuje Generalnego Dyrektora Ochrony Środowiska o cofnięciu zezwolenia, o którym mowa w art. 3 ust. 1, w terminie 30 dni od dnia cofnięcia zezwolenia. ” .
+
+**Art. 38.** W ustawie z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2020 r. poz. 2135 oraz z 2021 r. poz. 234) w art. 42 w ust. 2 po pkt 31 dodaje się pkt 31a w brzmieniu: „
+
+- **31a)** związane z zapobieganiem rozprzestrzenianiu się w środowisku inwazyjnych gatunków obcych stwarzających zagrożenie dla Unii lub inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski, lub inwazyjnych gatunków obcych, które prawdopodobnie spełniają kryteria uznania ich za stwarzające zagrożenie dla Unii, w zakresie określonym w ustawie z dnia 11 sierpnia 2021 r. o gatunkach obcych (Dz. U. poz. 1718); ” .
+
+**Art. 39.** W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2021 r. poz. 1275) w art. 34 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „
+
+- **9)** wykonuje zadania związane z zapobieganiem rozprzestrzenianiu się w środowisku inwazyjnych gatunków obcych stwarzających zagrożenie dla Unii lub inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski, lub inwazyjnych gatunków obcych, które prawdopodobnie spełniają kryteria uznania ich za stwarzające zagrożenie dla Unii, w zakresie określonym w ustawie z dnia 11 sierpnia 2021 r. o gatunkach obcych (Dz. U. poz. 1718). ” .
+
+**Art. 40.** W ustawie z dnia 13 października 1995 r. – Prawo łowieckie (Dz. U. z 2020 r. poz. 1683 i 2320) wprowadza się następujące zmiany:
+
+- **1)** po art. 3 dodaje się art. 3a w brzmieniu: „
+
+**Art. 3a.**
+
+1. Ochrona, zachowanie różnorodności i gospodarowanie populacjami zwierząt łownych polegają w szczególności na eliminowaniu ze środowiska ptaków i ssaków należących do:
+
+- **1)** inwazyjnych gatunków obcych stwarzających zagrożenie dla Unii w rozumieniu art. 3 pkt 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1143/2014 z dnia 22 października 2014 r. w sprawie działań zapobiegawczych i zaradczych w odniesieniu do wprowadzania i rozprzestrzeniania inwazyjnych gatunków obcych (Dz. Urz. UE L 317 z 04.11.2014, str. 35, z późn. zm.)b) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 317 z 23.11.2016, str. 4., zwanych dalej „IGO stwarzającymi zagrożenie dla Unii”,
+- **2)** inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski, zwanych dalej „IGO stwarzającymi zagrożenie dla Polski”, umieszczonych na liście inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski, określonej w przepisach wydanych na podstawie art. 23 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych (Dz. U. poz. 1718),
+- **3)** inwazyjnych gatunków obcych, które prawdopodobnie spełniają kryteria uznania ich za stwarzające zagrożenie dla Unii, umieszczonych na liście określonej w przepisach wydanych na podstawie art. 30 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych w drodze polowań lub działań zaradczych w ramach współpracy, o której mowa w art. 22 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych.
+
+2. Do inwazyjnych gatunków obcych, które prawdopodobnie spełniają kryteria uznania ich za stwarzające zagrożenie dla Unii, stosuje się przepisy dotyczące IGO stwarzających zagrożenie dla Unii. ” ;
+
+- **2)** w art. 4 w ust. 2: pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** tropienie, strzelanie z myśliwskiej broni palnej, łowienie sposobami dozwolonymi: zwierzyny żywej, ptaków lub ssaków należących do IGO stwarzających zagrożenie dla Unii lub IGO stwarzających zagrożenie dla Polski, ” , w pkt 2 dodaje się przecinek i dodaje się pkt 3 w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **b)**
+
+- **3)** łowienie zwierząt należących do IGO stwarzających zagrożenie dla Unii lub IGO stwarzających zagrożenie dla Polski ” ;
+- **3)** w art. 8a w ust. 6 w pkt 4 w lit. j kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
+- **5)** liczbę zaobserwowanych zwierząt należących do IGO stwarzających zagrożenie dla Unii lub IGO stwarzających zagrożenie dla Polski oraz liczbę takich zwierząt pozyskanych w drodze polowań lub działań zaradczych w łowieckim roku gospodarczym poprzedzającym łowiecki rok gospodarczy, na który jest sporządzany roczny plan łowiecki, podaną oddzielnie dla każdego gatunku zwierząt. ” ;
+- **4)** po art. 16 dodaje się art. 16a brzmieniu: „
+
+**Art. 16a.**
+
+1. Wprowadzenie do środowiska w rozumieniu art. 2 pkt 23 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych bażanta, daniela lub muflona w celu zasiedleń, zwane dalej „wprowadzeniem do środowiska”, wymaga zgłoszenia ministrowi właściwemu do spraw środowiska przed terminem dokonania wprowadzenia do środowiska, a w przypadku gdy wprowadzenie do środowiska dotyczy daniela lub muflona – także zasięgnięcia opinii właściwego miejscowo nadleśniczego Państwowego Gospodarstwa Leśnego Lasy Państwowe.
+
+2. Zgłoszenia, o którym mowa w ust. 1, dokonuje dzierżawca lub zarządca obwodu łowieckiego.
+
+3. Zgłoszenie, o którym mowa w ust. 1, zawiera:
+
+- **1)** nazwę i siedzibę dokonującego zgłoszenia;
+- **2)** obwód łowiecki, w którym zostanie dokonane wprowadzenie do środowiska;
+- **3)** cel i uzasadnienie konieczności wprowadzenia do środowiska, w tym opis wpływu wprowadzenia do środowiska na prowadzenie prawidłowej gospodarki łowieckiej oraz na rodzime gatunki i siedliska przyrodnicze;
+- **4)** nazwę naukową gatunku, nazwę polską, jeżeli nazwa polska istnieje, oraz liczbę osobników, które zostaną wprowadzone do środowiska;
+- **5)** określenie sposobu, miejsca i czasu wprowadzenia do środowiska oraz zagrożeń związanych z wprowadzeniem do środowiska;
+- **6)** podmiot, który dokona wprowadzenia do środowiska;
+- **7)** plan kontroli liczebności gatunku objętego wprowadzeniem do środowiska;
+- **8)** proponowany okres, w jakim wprowadzenie do środowiska zostanie dokonane, nie dłuższy niż 5 lat.
+
+4. W przypadku gdy wprowadzenie do środowiska dotyczy daniela lub muflona, do zgłoszenia, o którym mowa w ust. 1, dołącza się opinię właściwego miejscowo nadleśniczego Państwowego Gospodarstwa Leśnego Lasy Państwowe.
+
+5. Jeżeli zgłoszenie, o którym mowa w ust. 1, nie spełnia wymagań określonych w ust. 3 i 4, minister właściwy do spraw środowiska wzywa zgłaszającego do usunięcia braków w wyznaczonym terminie, nie krótszym niż 7 dni od dnia doręczenia wezwania.
+
+6. Minister właściwy do spraw środowiska może wystąpić do Generalnego Dyrektora Ochrony Środowiska o wydanie opinii o wpływie zamierzonego wprowadzenia do środowiska na rodzime gatunki i siedliska przyrodnicze, w szczególności na gatunki będące przedmiotem zainteresowania Wspólnoty i siedliska będące przedmiotem zainteresowania Wspólnoty, o których mowa odpowiednio w art. 5 pkt 1a i 17a ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody.
+
+7. Generalny Dyrektor Ochrony Środowiska wydaje opinię, o której mowa w ust. 6, w terminie 10 dni od dnia doręczenia mu wystąpienia ministra właściwego do spraw środowiska. Przepisów art. 106 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
+
+8. Wprowadzenie do środowiska może zostać dokonane, jeżeli minister właściwy do spraw środowiska nie wniesie, w drodze decyzji, sprzeciwu w terminie 45 dni od dnia doręczenia zgłoszenia.
+
+9. Minister właściwy do spraw środowiska wnosi sprzeciw, jeżeli:
+
+- **1)** wprowadzenie do środowiska będzie szkodliwe dla rodzimych gatunków i siedlisk przyrodniczych albo
+- **2)** zgłaszający nie usunie braków w zgłoszeniu w terminie wyznaczonym w wezwaniu, o którym mowa w ust. 5.
+
+10. Minister właściwy do spraw środowiska może, w celu dokonania weryfikacji stanu faktycznego ze zgłoszeniem, o którym mowa w ust. 1, przeprowadzić kontrolę wprowadzenia do środowiska poprzez:
+
+- **1)** sprawdzenie dokumentów związanych z wprowadzeniem do środowiska lub
+- **2)** zapewnienie obecności osoby wyznaczonej do przeprowadzenia kontroli przy wprowadzeniu do środowiska.
+
+11. Do kontroli wprowadzenia do środowiska stosuje się przepisy art. 44 ust. 6–12.
+
+12. Zakazuje się wprowadzenia do środowiska:
+
+- **1)** bez zgłoszenia, o którym mowa w ust. 1;
+- **2)** przed upływem terminu, o którym mowa w ust. 5;
+- **3)** niezgodnie z dokonanym zgłoszeniem, o którym mowa w ust. 1;
+- **4)** w przypadku wniesienia sprzeciwu, o którym mowa w ust. 8. ” ;
+- **5)** w art. 42 po ust. 8 dodaje się ust. 8a w brzmieniu: „
+
+8a. Na podstawie upoważnienia do wykonywania polowania indywidualnego możliwe jest polowanie na ptaki i ssaki, w dowolnej liczbie, należące do IGO stwarzających zagrożenie dla Unii lub IGO stwarzających zagrożenie dla Polski. ” ;
+
+- **6)** w art. 42b: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Termin rozpoczęcia i zakończenia oraz jednoznaczne określenie miejsca wykonywania polowania indywidualnego, imię i nazwisko myśliwego, numer upoważnienia do wykonywania polowania indywidualnego, liczba i gatunek pozyskanej zwierzyny albo ptaków lub ssaków należących do IGO stwarzających zagrożenie dla Unii lub do IGO stwarzających zagrożenie dla Polski oraz liczba wszystkich oddanych strzałów do zwierzyny grubej podlegają wpisowi w książce ewidencji pobytu na polowaniu indywidualnym, którą są obowiązani prowadzić dzierżawcy i zarządcy obwodów łowieckich, w postaci papierowej lub elektronicznej, dla każdego obwodu łowieckiego. ” , ust. 2 otrzymuje brzmienie: „
+
+- **b)**
+
+2. W przypadku pozyskania zwierzyny albo ptaków lub ssaków należących do IGO stwarzającego zagrożenie dla Unii lub do IGO stwarzającego zagrożenie dla Polski na polowaniu indywidualnym myśliwy jest obowiązany odnotować ten fakt w posiadanym upoważnieniu do wykonywania polowania indywidualnego niezwłocznie po zakończeniu polowania, a w przypadku zwierzyny grubej – przed podjęciem czynności transportowych. ” ;
+
+- **7)** w art. 51 w ust. 1 w pkt 7 wyraz „przepisom” zastępuje się wyrazem „przepisowi”;
+- **8)** w art. 52 w pkt 8 dodaje się przecinek i dodaje się pkt 9 w brzmieniu: „
+- **9)** dokonuje wprowadzenia do środowiska: bez zgłoszenia, o którym mowa w art. 16a ust. 1, albo niezgodnie z tym zgłoszeniem, przed upływem terminu, o którym mowa w art. 16a ust. 5, w przypadku wniesienia sprzeciwu, o którym mowa w art. 16a ust. 8 ” .
+    - **a)**
+    - **b)**
+    - **c)**
+
+**Art. 41.** W ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2020 r. poz. 638) w art. 6 w ust. 1 pkt 9 otrzymuje brzmienie: „
+
+- **9)** uśmiercania zwierząt należących do: inwazyjnych gatunków obcych stwarzających zagrożenie dla Unii w rozumieniu art. 3 pkt 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1143/2014 z dnia 22 października 2014 r. w sprawie działań zapobiegawczych i zaradczych w odniesieniu do wprowadzania i rozprzestrzeniania inwazyjnych gatunków obcych (Dz. Urz. UE L 317 z 04.11.2014, str. 35, z późn. zm.)c) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 317 z 23.11.2016, str. 4., inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski, umieszczonych na liście inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski określonej w przepisach wydanych na podstawie art. 23 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych (Dz. U. poz. 1718), inwazyjnych gatunków obcych, które prawdopodobnie spełniają kryteria uznania ich za inwazyjne gatunki obce stwarzające zagrożenie dla Unii, umieszczonych na liście inwazyjnych gatunków obcych, które prawdopodobnie spełniają kryteria uznania ich za inwazyjne gatunki obce stwarzające zagrożenie dla Unii, określonej w przepisach wydanych na podstawie art. 30 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych ” .
+    - **a)**
+    - **b)**
+    - **c)**
+
+**Art. 42.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219, z późn. zm.)d) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1378, 1565, 2127 i 2338 oraz z 2021 r. poz. 802, 868, 1047, 1162, 1535, 1642 i 1648. w art. 400a w ust. 1:
+
+- **1)** po pkt 19 dodaje się pkt 19a w brzmieniu: „
+- **19a)** zapobieganie wprowadzaniu do środowiska i przeciwdziałanie rozprzestrzenianiu się w środowisku inwazyjnych gatunków obcych w rozumieniu art. 3 pkt 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1143/2014 z dnia 22 października 2014 r. w sprawie działań zapobiegawczych i zaradczych w odniesieniu do wprowadzania i rozprzestrzeniania inwazyjnych gatunków obcych (Dz. Urz. UE L 317 z 04.11.2014, str. 35, z późn. zm.)e) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 317 z 23.11.2016, str. 4.; ” ;
+- **2)** po pkt 41a dodaje się pkt 41b w brzmieniu: „
+- **41b)** finansowanie, w części, funkcjonowania azyli dla zwierząt w rozumieniu art. 5 pkt 1e ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody; ” .
+
+**Art. 43.** W ustawie z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2021 r. poz. 117) w art. 6:
+
+- **1)** w ust. 5 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+- **4)** identyfikację cech roślin GMO oraz GMO innych niż rośliny GMO, które mogą mieć potencjalny wpływ na biotyczne i abiotyczne elementy ekosystemu. ” ;
+- **2)** po ust. 5 dodaje się ust. 5a i 5b w brzmieniu: „
+
+5a. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia:
+
+- **1)** sposób przeprowadzania oceny zagrożenia,
+- **2)** szczegółowe wytyczne, metodologię oraz tryb przeprowadzania oceny zagrożenia,
+- **3)** informacje wymagane w przypadku oceny zagrożenia GMO innych niż rośliny GMO oraz roślin GMO w przypadku zamierzonego uwolnienia GMO do środowiska lub wprowadzenia do obrotu.
+
+5b. Wydając rozporządzenie, o którym mowa w ust. 5a, minister właściwy do spraw środowiska uwzględni stopień zagrożenia stwarzanego przez GMO dla zdrowia ludzi i dla środowiska. ” .
+
+**Art. 44.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2021 r. poz. 1098) wprowadza się następujące zmiany:
+
+- **1)** w art. 5: pkt 1c otrzymuje brzmienie: „
+    - **a)**
+
+- **1c)** gatunek obcy – gatunek obcy w rozumieniu art. 3 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1143/2014 z dnia 22 października 2014 r. w sprawie działań zapobiegawczych i zaradczych w odniesieniu do wprowadzania i rozprzestrzeniania inwazyjnych gatunków obcych (Dz. Urz. UE L 317 z 04.11.2014, str. 35, z późn. zm.)f) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 317 z 23.11.2016, str. 4.; ” , po pkt 1d dodaje się pkt 1e-1g w brzmieniu: „
+    - **b)**
+
+- **1e)** azyl dla zwierząt – ośrodek, w którym przetrzymuje się żywe zwierzęta: gatunków obcych, gatunków podlegających ochronie na podstawie przepisów rozporządzenia Rady (WE) nr 338/97 z dnia 9 grudnia 1996 r. w sprawie ochrony gatunków dzikiej fauny i flory w drodze regulacji handlu nimi (Dz. Urz. WE L 61 z 03.03.1997, str. 1, z późn. zm.g) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 215 z 27.08.2003, str. 3 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 519, Dz. Urz. UE L 284 z 31.10.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 1, t. 4, str. 447, Dz. Urz. UE L 127 z 29.04.2004, str. 40 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 343, Dz. Urz. UE L 215 z 19.08.2005, str. 1, Dz. Urz. UE L 175 z 05.07.2007, str. 39, Dz. Urz. UE L 95 z 08.04.2008, str. 3, Dz. Urz. UE L 126 z 21.05.2009, str. 5, Dz. Urz. UE L 212 z 12.08.2010, str. 1, Dz. Urz. UE L 39 z 11.02.2012, str. 133, Dz. Urz. UE L 339 z 12.12.2012, str. 1, Dz. Urz. UE L 212 z 07.08.2013, str. 1, Dz. Urz. UE L 361 z 17.12.2014, str. 1, Dz. Urz. UE L 316 z 23.11.2016, str. 1, Dz. Urz. UE L 21 z 26.01.2017, str. 1, Dz. Urz. UE L 27 z 01.02.2017, str. 1, Dz. Urz. UE L 170 z 25.06.2019, str. 115, Dz. Urz. UE L 320 z 11.12.2019, str. 13 oraz Dz. Urz. UE L 330 z 20.12.2019, str. 104. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 3, str. 136), gatunków niebezpiecznych dla życia i zdrowia ludzi, gatunków objętych ochroną gatunkową, które są niezdolne do życia w środowisku przyrodniczym;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **1f)** inwazyjny gatunek obcy, który prawdopodobnie spełnia kryteria uznania go za inwazyjny gatunek obcy stwarzający zagrożenie dla Unii – inwazyjny gatunek obcy stwarzający zagrożenie dla Unii w rozumieniu art. 3 pkt 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1143/2014 z dnia 22 października 2014 r. w sprawie działań zapobiegawczych i zaradczych w odniesieniu do wprowadzania i rozprzestrzeniania inwazyjnych gatunków obcych oraz inwazyjny gatunek obcy, który prawdopodobnie spełnia kryteria uznania go za stwarzający zagrożenie dla Unii, umieszczony na liście określonej w przepisach wydanych na podstawie art. 30 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych (Dz. U. poz. 1718);
+- **1g)** inwazyjny gatunek obcy stwarzający zagrożenie dla Polski – inwazyjny gatunek obcy stwarzający zagrożenie dla Polski, umieszczony na liście inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski określonej w przepisach wydanych na podstawie art. 23 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych; ” , w pkt 11 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „ azyli dla zwierząt; ” ;
+    - **c)**
+    - **d)**
+
+- **2)** w art. 8e dodaje się ust. 6 w brzmieniu: „
+
+6. Dyrektor parku narodowego realizuje zadania związane z zapobieganiem rozprzestrzenianiu się w środowisku inwazyjnego gatunku obcego stwarzającego zagrożenie dla Unii, zwanego dalej „IGO stwarzającym zagrożenie dla Unii”, lub inwazyjnego gatunku obcego stwarzającego zagrożenie dla Polski, zwanego dalej „IGO stwarzającym zagrożenie dla Polski”, w zakresie określonym w ustawie z dnia 11 sierpnia 2021 r. o gatunkach obcych. ” ;
+
+- **3)** w art. 17 ust. 3a otrzymuje brzmienie: „
+
+3a. Zakaz, o którym mowa w ust. 1 pkt 3, nie dotyczy usunięcia drzewa lub krzewu należącego do IGO stwarzającego zagrożenie dla Unii lub do IGO stwarzającego zagrożenie dla Polski, znajdującego się w obrębie zadrzewienia. ” ;
+
+- **4)** w art. 24 ust. 3a otrzymuje brzmienie: „
+
+3a. Zakaz, o którym mowa w ust. 1 pkt 3, nie dotyczy usunięcia drzewa lub krzewu należącego do IGO stwarzającego zagrożenie dla Unii lub do IGO stwarzającego zagrożenie dla Polski, znajdującego się w obrębie zadrzewienia. ” ;
+
+- **5)** w art. 62 ust. 2 otrzymuje brzmienie: „
+
+2. Okazy gatunków, o których mowa w ust. 1, mogą być przekazywane do ogrodów botanicznych, ogrodów zoologicznych, ośrodków rehabilitacji zwierząt lub azyli dla zwierząt. ” ;
+
+- **6)** tytuł rozdziału 3 otrzymuje brzmienie: „ Ogrody botaniczne, ogrody zoologiczne, ośrodki rehabilitacji zwierząt i azyle dla zwierząt ” ;
+- **7)** w art. 73 ust. 2 otrzymuje brzmienie: „
+
+2. Zakazy, o których mowa w ust. 1 pkt 1 i 2, nie dotyczą ogrodów zoologicznych i placówek naukowych prowadzących badania nad zwierzętami, a zakazy, o których mowa w ust. 1 pkt 1, nie dotyczą ośrodków rehabilitacji zwierząt i azyli dla zwierząt. ” ;
+
+- **8)** po art. 76 dodaje się art. 76a-76c w brzmieniu: „
+
+**Art. 76a.**
+
+1. Utworzenie i prowadzenie azylu dla zwierząt wymaga uzyskania zezwolenia Generalnego Dyrektora Ochrony Środowiska.
+
+2. Zezwolenie wydaje się po zasięgnięciu opinii regionalnego dyrektora ochrony środowiska właściwego ze względu na miejsce położenia azylu dla zwierząt, na wniosek, który zawiera:
+
+- **1)** imię, nazwisko i adres albo nazwę i siedzibę wnioskodawcy;
+- **2)** wskazanie podmiotu odpowiedzialnego za prowadzenie azylu dla zwierząt;
+- **3)** wskazanie miejsca położenia azylu dla zwierząt;
+- **4)** wykaz gatunków lub grup gatunków zwierząt, które mogą być przetrzymywane w azylu dla zwierząt;
+- **5)** opis zakresu działalności azylu dla zwierząt;
+- **6)** opis pomieszczeń do przetrzymywania okazów zwierząt i wskazanie urządzeń technicznych, w które wyposaża się miejsca przebywania zwierząt w azylu dla zwierząt.
+
+3. Do wniosku o wydanie zezwolenia, w przypadku przetrzymywania zwierzęcia należącego do IGO stwarzającego zagrożenie dla Unii lub do IGO stwarzającego zagrożenie dla Polski, dołącza się:
+
+- **1)** opis obiektu izolowanego, w którym to zwierzę będzie przetrzymywane lub badane;
+- **2)** dokument potwierdzający tytuł prawny wnioskodawcy do obiektu izolowanego;
+- **3)** procedury dotyczące sprzątania obiektu izolowanego, postępowania z odpadami powstającymi w tym obiekcie oraz przeprowadzania w tym obiekcie prac konserwacyjnych;
+- **4)** opis sposobu usunięcia tego zwierzęcia z obiektu izolowanego, zniszczenia lub humanitarnego uśmiercenia;
+- **5)** oświadczenie, że wnioskodawca lub osoba zatrudniona przez wnioskodawcę, która będzie wykonywała czynności objęte zezwoleniem, posiadają wiedzę w zakresie biologii gatunku tego zwierzęcia oraz zapobiegania ucieczce lub rozprzestrzenianiu się tego zwierzęcia, a także wskazanie kwalifikacji posiadanych przez wnioskodawcę i zatrudnioną przez wnioskodawcę osobę;
+- **6)** procedurę przemieszczenia tego zwierzęcia do i z obiektu izolowanego;
+- **7)** ocenę i opis ryzyka ucieczki i rozprzestrzenienia się tego zwierzęcia oraz ryzyka związanego z usunięciem tego zwierzęcia z obiektu izolowanego;
+- **8)** opis systemu ciągłego nadzoru i plan awaryjny na wypadek ewentualnej ucieczki lub rozprzestrzenienia się tego zwierzęcia, w tym plan eliminacji tego zwierzęcia ze środowiska;
+- **9)** oświadczenie, że wnioskodawca będący osobą fizyczną, a w przypadku wnioskodawcy będącego osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej – urzędujący członek jego organu zarządzającego lub nadzorczego, wspólnik spółki w spółce jawnej lub partnerskiej albo komplementariusz w spółce komandytowej lub komandytowo-akcyjnej lub prokurent nie był: prawomocnie ukarany, w okresie roku przed dniem złożenia tego wniosku, za wykroczenia, o których mowa w art. 35 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych oraz w art. 127 pkt 3 i 5 i art. 131 pkt 1–5, 8, 13 i 14, skazany prawomocnym wyrokiem sądu, w okresie 5 lat przed dniem złożenia tego wniosku, za przestępstwa, o których mowa w art. 181 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2020 r. poz. 1444 i 1517 oraz z 2021 r. poz. 1023), art. 35 ust. 1–2 ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2020 r. poz. 638 oraz z 2021 r. poz. 1718), art. 34 ust. 1 i 2 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych oraz w art. 127a, art. 128 pkt 1 i 2 i art. 128a.
+    - **a)**
+    - **b)**
+
+4. Oświadczenie, o którym mowa w ust. 3 pkt 5 i 9, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+5. Zezwolenie zawiera:
+
+- **1)** imię, nazwisko i adres albo nazwę i siedzibę wnioskodawcy;
+- **2)** wskazanie podmiotu odpowiedzialnego za prowadzenie azylu dla zwierząt;
+- **3)** wskazanie miejsca położenia azylu dla zwierząt;
+- **4)** wykaz gatunków lub grup gatunków zwierząt, które mogą być przetrzymywane w azylu dla zwierząt;
+- **5)** opis zakresu działalności azylu dla zwierząt;
+- **6)** warunki prowadzenia azylu dla zwierząt wynikające z potrzeby zapewnienia dobrostanu zwierząt lub ochrony przyrody oraz termin, w jakim mają zostać spełnione.
+
+6. Zezwolenie, w przypadku przetrzymywania w azylu dla zwierząt zwierzęcia należącego do IGO stwarzającego zagrożenie dla Unii lub do IGO stwarzającego zagrożenie dla Polski, zawiera także:
+
+- **1)** warunki niezbędne do zmniejszenia ryzyka ucieczki tego zwierzęcia z obiektu izolowanego lub jego rozprzestrzenienia się oraz termin, w jakim mają zostać spełnione;
+- **2)** sposób usunięcia tego zwierzęcia z obiektu izolowanego, jego zniszczenia lub humanitarnego uśmiercenia;
+- **3)** określenie planu awaryjnego na wypadek ucieczki tego zwierzęcia lub jego rozprzestrzenienia się, w tym plan eliminacji tego zwierzęcia ze środowiska.
+
+7. Azyl dla zwierząt:
+
+- **1)** zapewnia warunki utrzymywania zwierząt zgodne z biologią danego gatunku zwierząt i ich stanem fizjologicznym, zapewniające swobodę ruchu i wypoczynek w czasie zgodnym z ich aktywnością życiową;
+- **2)** spełnia warunki, o których mowa w art. 8 ust. 2 i 3 rozporządzenia nr 1143/2014 z dnia 22 października 2014 r. w sprawie działań zapobiegawczych i zaradczych w odniesieniu do wprowadzania i rozprzestrzeniania inwazyjnych gatunków obcych – w przypadku utrzymywania IGO stwarzających zagrożenie dla Unii oraz warunki, o których mowa w art. 8 ust. 8 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych – w przypadku utrzymywania IGO stwarzających zagrożenie dla Polski;
+- **3)** ma wyodrębnione pomieszczenia przeznaczone na kwarantannę zwierząt oraz separację osobników agresywnych.
+
+8. Zezwolenie jest wydawane na czas nieokreślony.
+
+9. Generalny Dyrektor Ochrony Środowiska odmawia wydania zezwolenia, jeżeli:
+
+- **1)** nie są spełnione warunki określone w ust. 7;
+- **2)** wnioskodawca będący osobą fizyczną, a w przypadku wnioskodawcy będącego osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej – urzędujący członek jego organu zarządzającego lub nadzorczego, wspólnik spółki w spółce jawnej lub partnerskiej albo komplementariusz w spółce komandytowej lub komandytowo-akcyjnej lub prokurent był: prawomocnie ukarany za wykroczenia, o których mowa w art. 35 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych lub w art. 127 pkt 3 lub 5 lub art. 131 pkt 1–5, 8, 13 lub 14 – w okresie roku poprzedzającego dzień złożenia wniosku o wydanie tego zezwolenia, skazany prawomocnym wyrokiem sądu za przestępstwa, o których mowa w art. 181 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, art. 35 ust. 1–2 ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt, art. 34 ust. 1 lub 2 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych lub w art. 127a, art. 128 pkt 1 lub 2 lub art. 128a – w okresie 5 lat poprzedzających dzień złożenia wniosku o wydanie tego zezwolenia.
+    - **a)**
+    - **b)**
+
+10. Generalny Dyrektor Ochrony Środowiska, w drodze decyzji, może zmienić zezwolenie, jeżeli podmiot, który uzyskał to zezwolenie, nie spełnia warunków prowadzenia azylu dla zwierząt, o których mowa w ust. 5 pkt 6, lub warunków, o których mowa w ust. 6.
+
+11. Generalny Dyrektor Ochrony Środowiska, w drodze decyzji, zawiesza albo cofa zezwolenie w zakresie przetrzymywania zwierzęcia należącego do IGO stwarzającego zagrożenie dla Unii lub do IGO stwarzającego zagrożenie dla Polski, w przypadku gdy wystąpiły nieprzewidziane zdarzenia o niepożądanym oddziaływaniu na różnorodność biologiczną lub powiązane usługi ekosystemowe. Zawieszenie albo cofnięcie zezwolenia musi być uzasadnione naukowo, a w przypadku gdy dowody naukowe są niewystarczające – opierać się na zasadzie przezorności.
+
+12. Decyzję o zawieszeniu zezwolenia wydaje się w przypadku, gdy zdarzenie, o którym mowa w ust. 11, ma charakter czasowy lub odwracalny.
+
+13. Decyzję o zawieszeniu zezwolenia wydaje się na czas określony, nie dłuższy niż 5 lat.
+
+14. W przypadku ustania niepożądanego oddziaływania, które nastąpiło w wyniku zdarzenia, o którym mowa w ust. 11, Generalny Dyrektor Ochrony Środowiska cofa decyzję o zawieszeniu zezwolenia.
+
+15. Generalny Dyrektor Ochrony Środowiska cofa zezwolenie w przypadku, o którym mowa w ust. 11, jeżeli:
+
+- **1)** zdarzenie, o którym mowa w ust. 11, ma charakter stały lub nieodwracalny;
+- **2)** upłynął termin, o którym mowa w ust. 13, a niepożądane oddziaływanie, które nastąpiło w wyniku zdarzenia, o którym mowa w ust. 11, nie ustało.
+
+16. W decyzji o zawieszeniu zezwolenia oraz w decyzji o cofnięciu zezwolenia określa się termin wykonania tej decyzji oraz sposób postępowania z inwazyjnym gatunkiem obcym w rozumieniu art. 3 pkt 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1143/2014 z dnia 22 października 2014 r. w sprawie działań zapobiegawczych i zaradczych w odniesieniu do wprowadzania i rozprzestrzeniania inwazyjnych gatunków obcych objętym tym zezwoleniem.
+
+17. Generalny Dyrektor Ochrony Środowiska, w drodze decyzji, cofa zezwolenie, jeżeli:
+
+- **1)** podmiot, który uzyskał to zezwolenie, nie usunie w wyznaczonym terminie, nie dłuższym niż 2 lata, nieprawidłowości stwierdzonych w wyniku kontroli przeprowadzonej przez regionalnego dyrektora ochrony środowiska lub inne organy uprawnione do przeprowadzenia kontroli na podstawie odrębnych przepisów;
+- **2)** osoba fizyczna prowadząca azyl dla zwierząt, a w przypadku gdy prowadzący azyl jest osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej – urzędujący członek jego organu zarządzającego lub nadzorczego, wspólnik spółki w spółce jawnej lub partnerskiej albo komplementariusz w spółce komandytowej lub komandytowo-akcyjnej lub prokurent został: prawomocnie ukarany za wykroczenia, o których mowa w art. 35 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych lub w art. 127 pkt 3 lub 5 lub art. 131 pkt 1–5, 8, 13 lub 14, skazany prawomocnym wyrokiem sądu za przestępstwa, o których mowa w art. 181 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, art. 35 ust. 1–2 ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt, art. 34 ust. 1 lub 2 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych lub w art. 127a, art. 128 pkt 1 lub 2 lub art. 128a.
+    - **a)**
+    - **b)**
+
+18. Jeżeli zezwolenie zostanie cofnięte, azyl dla zwierząt podlega likwidacji.
+
+19. W decyzji o cofnięciu zezwolenia Generalny Dyrektor Ochrony Środowiska:
+
+- **1)** określa termin wykonania tej decyzji;
+- **2)** wyznacza podmiot, do którego zostaną przekazane zwierzęta przetrzymywane w azylu dla zwierząt, a w przypadku gdy nie można wyznaczyć podmiotu – nakazuje uśmiercenie zwierząt na koszt podmiotu, któremu cofnięto zezwolenie.
+
+20. Do czasu likwidacji azylu dla zwierząt podmiot, który uzyskał zezwolenie, o którym mowa w ust. 1, jest obowiązany zapewnić przetrzymywanym zwierzętom warunki, o których mowa w ust. 5 pkt 6.
+
+21. Działalność azylu dla zwierząt może być dofinansowywana, w tym ze środków regionalnego dyrektora ochrony środowiska, Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej oraz wojewódzkich funduszy ochrony środowiska i gospodarki wodnej.
+
+1. Podmiot, który uzyskał zezwolenie, o którym mowa w art. 76a ust. 1, ma obowiązek:
+
+- **1)** przyjmować okazy zwierząt, w szczególności: zatrzymane przez właściwe organy, w stosunku do których orzeczono przepadek na rzecz Skarbu Państwa, znalezione w środowisku przyrodniczym, wymagające zapewnienia im odpowiednich warunków funkcjonowania w takim zakresie, w jakim pozwalają na to warunki przetrzymywania zwierząt w danym azylu dla zwierząt;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **2)** prowadzić ewidencję przetrzymywanych zwierząt;
+- **3)** składać regionalnemu dyrektorowi ochrony środowiska właściwemu ze względu na miejsce położenia azylu dla zwierząt roczne sprawozdanie z prowadzonej działalności w terminie do dnia 31 marca za rok następujący po roku, za który jest składane to sprawozdanie.
+
+2. Ewidencja, o której mowa w ust. 1 pkt 2, zawiera:
+
+- **1)** datę: dokonania wpisu zwierzęcia do ewidencji, dokonania zmiany danych wpisanych do ewidencji, wykreślenia z ewidencji zwierząt uśmierconych, padłych albo przekazanych innemu podmiotowi;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** nazwę naukową przetrzymywanego zwierzęcia oraz nazwę polską, jeżeli nazwa polska istnieje;
+- **3)** liczbę przetrzymywanych zwierząt;
+- **4)** płeć zwierzęcia, jeżeli jest możliwa do ustalenia;
+- **5)** datę przyjęcia zwierzęcia oraz źródło jego pochodzenia;
+- **6)** opis trwałego oznakowania zwierzęcia, w tym numer mikroczipa, jeżeli zwierzę zostało oznakowane przez wszczepienie mikroczipa.
+
+3. Sprawozdanie, o którym mowa w ust. 1 pkt 3, zawiera:
+
+- **1)** nazwę naukową przetrzymywanych zwierząt oraz nazwę polską, jeżeli nazwa polska istnieje;
+- **2)** liczbę okazów zwierząt: przyjętych do azylu dla zwierząt, z podaniem źródła, z jakiego pochodzą, padłych, uśmierconych, ze wskazaniem przyczyny ich uśmiercenia, przekazanych do innego podmiotu, z podaniem imienia i nazwiska oraz adresu albo nazwy i siedziby tego podmiotu.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+1. Zwierząt przetrzymywanych w azylu dla zwierząt nie rozmnaża się.
+
+2. Zwierzęta przetrzymywane w azylu dla zwierząt uśmierca się w przypadku:
+
+- **1)** konieczności podjęcia działań niezbędnych do usunięcia poważnego zagrożenia sanitarnego dla życia lub zdrowia ludzi lub zwierząt lub
+- **2)** konieczności bezzwłocznego uśmiercenia w rozumieniu art. 4 pkt 3 ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt, lub
+- **3)** gdy zwierzęta te bezpośrednio zagrażają innym zwierzętom lub ludziom, a niemożliwy jest inny sposób usunięcia tego zagrożenia. ” ;
+- **9)** w art. 77: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Regionalny dyrektor ochrony środowiska właściwy ze względu na miejsce położenia ogrodu botanicznego, ogrodu zoologicznego, ośrodka lub azylu dla zwierząt przeprowadza kontrole ogrodów botanicznych, ogrodów zoologicznych, ośrodków i azyli dla zwierząt w zakresie ich działalności. ” , ust. 4 otrzymuje brzmienie: „
+
+- **b)**
+
+4. Upoważnienie, o którym mowa w ust. 3, zawiera wskazanie osoby upoważnionej do wykonywania czynności kontrolnych, wskazanie ogrodu botanicznego, ogrodu zoologicznego, ośrodka lub azylu dla zwierząt, który ma zostać skontrolowany, zakresu kontroli oraz podstawy prawnej do przeprowadzenia tej kontroli. ” , w ust. 6 pkt 1 otrzymuje brzmienie: „
+
+- **c)**
+- **1)** wstępu na teren ogrodu botanicznego, ogrodu zoologicznego, ośrodka lub azylu dla zwierząt; ” , dodaje się ust. 14 w brzmieniu: „
+    - **d)**
+
+14. Generalny Dyrektor Ochrony Środowiska, rozpatrując umotywowane zastrzeżenia w zakresie niezapewnienia warunków hodowli i utrzymywania poszczególnych grup zwierząt w ogrodzie zoologicznym lub azylu dla zwierząt, uwzględnia je, w przypadku gdy dotychczasowe warunki hodowli i utrzymywania zwierząt w kontrolowanym obiekcie zapewniały ich dobrostan. ” ;
+
+- **10)** w art. 83f w ust. 1 pkt 15 otrzymuje brzmienie: „
+- **15)** drzew lub krzewów należących do IGO stwarzających zagrożenie dla Unii lub do IGO stwarzających zagrożenie dla Polski. ” ;
+- **11)** w art. 119a: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Zabrania się, bez zezwolenia Generalnego Dyrektora Ochrony Środowiska, rozmnażania zwierząt uzyskanych w wyniku krzyżowania i krzyżowania zwierząt należących do gatunków objętych ochroną częściową lub ścisłą, zwierząt należących do gatunków obcych oraz zwierząt łownych ze zwierzętami innych gatunków, a także ze zwierzętami z form i odmian hodowlanych. ” , w ust. 4 pkt 1 otrzymuje brzmienie: „
+
+- **b)**
+- **1)** odmawia wydania zezwolenia, o którym mowa w ust. 1, jeżeli wnioskodawca będący osobą fizyczną, a w przypadku wnioskodawcy będącego osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej – urzędujący członek jego organu zarządzającego lub nadzorczego, wspólnik spółki w spółce jawnej lub partnerskiej albo komplementariusz w spółce komandytowej lub komandytowo-akcyjnej lub prokurent był skazany prawomocnym wyrokiem sądu za przestępstwo, o którym mowa w art. 53 ustawy z dnia 13 października 1995 r. – Prawo łowieckie, art. 34 ust. 1 lub 2 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych lub w art. 127a, art. 128 pkt 1 lub 2 lub art. 128a, w okresie 3 lat od dnia uprawomocnienia się tego wyroku; ” ;
+- **12)** uchyla się art. 120;
+- **13)** w art. 128 w pkt 2 po lit. f dodaje się przecinek i dodaje się pkt 3 w brzmieniu: „
+- **3)** wbrew zakazom, o których mowa w art. 73 ust. 1, posiada i przetrzymuje lub sprowadza z zagranicy żywe zwierzęta gatunków niebezpiecznych dla życia i zdrowia ludzi, lub je sprzedaje, wymienia, wynajmuje, udziela z nich darowizny lub użycza je podmiotom nieuprawnionym do ich posiadania ” ;
+- **14)** w art. 131: pkt 2 i 3 otrzymują brzmienie: „
+    - **a)**
+
+- **2)** bez zezwolenia lub wbrew jego warunkom utworzy lub prowadzi ogród botaniczny, ogród zoologiczny, ośrodek lub azyl dla zwierząt,
+- **3)** przeprowadzając likwidację: ogrodu zoologicznego albo ośrodka – nie zapewnia przebywającym tam zwierzętom warunków odpowiadających ich potrzebom biologicznym, azylu dla zwierząt – nie zapewnia dobrostanu zwierząt tam przebywających, ” , uchyla się pkt 4, pkt 4a otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **b)**
+    - **c)**
+
+- **4a)** nie zachowując należytej ostrożności, dopuszcza do ucieczki zwierzęcia gatunku niebezpiecznego dla życia i zdrowia ludzi, ” , uchyla się pkt 9 i 10;
+    - **d)**
+
+- **15)** uchyla się art. 131a.
+
+**Art. 45.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2020 r. poz. 1546, z późn. zm.h) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1565, 2023 i 2369 oraz z 2021 r. poz. 72, 694 i 1000.) w załączniku do ustawy w części III wprowadza się następujące zmiany:
+
+- **1)** po ust. 37 dodaje się ust. 37a w brzmieniu: 1 2 3 4 37a. Zezwolenia wydawane na podstawie przepisów ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych (Dz. U. poz. 1718) 400 zł 1) zezwolenie wydawane w przypadkach, o których mowa w art. 8 ust. 1, ust. 2 pkt 2 lit. a oraz ust. 3 pkt 1 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych, wydawane podmiotom, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce;2) zezwolenie wydawane w przypadkach, o których mowa w art. 8 ust. 2 pkt 1, pkt 2 lit. b i c oraz ust. 3 pkt 2 i 3 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych
+- **2)** w kolumnie drugiej ust. 38 otrzymuje brzmienie: „
+
+38. Zezwolenie na utworzenie ogrodu botanicznego, ogrodu zoologicznego, ośrodka rehabilitacji zwierząt lub azylu dla zwierząt ” .
+
+**Art. 46.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2021 r. poz. 247, 784, 922, 1211 i 1551) wprowadza się następujące zmiany:
+
+- **1)** w art. 21 w ust. 2: w pkt 24: – lit. e otrzymuje brzmienie: „ e) zezwoleniach na prowadzenie ogrodu botanicznego, ogrodu zoologicznego, ośrodka rehabilitacji zwierząt lub azylu dla zwierząt, ” , – uchyla się lit. h, po pkt 24 dodaje się pkt 24a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **24a)** z zakresu ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych (Dz. U. poz. 1718): o zezwoleniach wydanych na podstawie art. 8 ust. 1–3 tej ustawy, zawarte w Centralnym Rejestrze Danych o Inwazyjnych Gatunkach Obcych; ” ;
+    - **a)**
+    - **b)**
+
+- **2)** w art. 127 w ust. 1 w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „
+- **12)** wykonywanie zadań związanych z zapobieganiem wprowadzaniu do środowiska i przeciwdziałaniem rozprzestrzenianiu się w środowisku inwazyjnych gatunków obcych stwarzających zagrożenie dla Unii, inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski oraz inwazyjnych gatunków obcych, które prawdopodobnie spełniają kryteria uznania ich za stwarzające zagrożenie dla Unii, w zakresie określonym w ustawie z dnia 11 sierpnia 2021 r. o gatunkach obcych. ” ;
+- **3)** w art. 131 w ust. 1 w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „
+- **12)** wykonywanie zadań związanych z zapobieganiem wprowadzaniu do środowiska i przeciwdziałaniem rozprzestrzenianiu się w środowisku inwazyjnych gatunków obcych stwarzających zagrożenie dla Unii, inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski oraz inwazyjnych gatunków obcych, które prawdopodobnie spełniają kryteria uznania ich za stwarzające zagrożenie dla Unii, w zakresie określonym w ustawie z dnia 11 sierpnia 2021 r. o gatunkach obcych. ” .
+
+**Art. 47.** W ustawie z dnia 19 grudnia 2014 r. o rybołówstwie morskim (Dz. U. z 2021 r. poz. 650 i 694) wprowadza się następujące zmiany:
+
+- **1)** w art. 99: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Wprowadzenie do obszarów morskich Rzeczypospolitej Polskiej lub przenoszenie na tych obszarach organizmów morskich gatunków obcych lub gatunków niewystępujących miejscowo w rozumieniu odpowiednio art. 3 pkt 6 i 7 rozporządzenia nr 708/2007, w tym w celu wykorzystania w chowie lub hodowli, wymaga uzyskania zezwolenia wydawanego, w drodze decyzji, przez ministra właściwego do spraw rybołówstwa w porozumieniu z ministrem właściwym do spraw środowiska. ” , w ust. 9 pkt 2 otrzymuje brzmienie: „
+
+- **b)**
+- **2)** cofa zezwolenie, o którym mowa w ust. 1, jeżeli: działalność nim objęta: – jest realizowana niezgodnie z zezwoleniem lub – stanowi zagrożenie trwałości lub równowagi środowiska morskiego, w szczególności przez negatywny wpływ na gatunki rodzime organizmów morskich, lub gatunek, którego dotyczy zezwolenie, został umieszczony w wykazie inwazyjnych gatunków obcych stwarzających zagrożenie dla Unii, o którym mowa w art. 4 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1143/2014 z dnia 22 października 2014 r. w sprawie działań zapobiegawczych i zaradczych w odniesieniu do wprowadzania i rozprzestrzeniania inwazyjnych gatunków obcych (Dz. Urz. UE L 317 z 04.11.2014, str. 35, z późn. zm.)i) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 317 z 23.11.2016, str. 4., lub na liście IGO stwarzających zagrożenie dla Polski określonej w przepisach wydanych na podstawie art. 23 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych (Dz. U. poz. 1718). ” , po ust. 9 dodaje się ust. 9a i 9b w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+9a. Minister właściwy do spraw rybołówstwa, cofając zezwolenie, o którym mowa w ust. 1, w przypadku określonym w ust. 9 pkt 2 lit. b, określa w decyzji o cofnięciu zezwolenia termin prowadzenia działalności, nie dłuższy niż 2 lata.
+
+9b. Minister właściwy do spraw rybołówstwa informuje Generalnego Dyrektora Ochrony Środowiska o cofnięciu zezwolenia, o którym mowa w ust. 9a, w terminie 30 dni od dnia cofnięcia zezwolenia. ” ;
+
+- **2)** w art. 107 w ust. 1 po pkt 6 dodaje się pkt 6a w brzmieniu: „
+- **6a)** realizuje zadania związane z zapobieganiem wprowadzaniu do środowiska i przeciwdziałaniem rozprzestrzenianiu się w środowisku inwazyjnych gatunków obcych stwarzających zagrożenie dla Unii, inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski oraz inwazyjnych gatunków obcych prawdopodobnie spełniających kryteria uznania ich za stwarzające zagrożenie dla Unii, w zakresie określonym w ustawie z dnia 11 sierpnia 2021 r. o gatunkach obcych; ” .
+
+**Art. 48.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2021 r. poz. 422, z późn. zm.j) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 464, 694, 802, 815, 954, 1003 i 1005.) w art. 33 w ust. 1 w pkt 10:
+
+- **1)** lit. i otrzymuje brzmienie: „ art. 128, art. 131 pkt 4 w zakresie, o którym mowa w art. 73 ust. 1 pkt 2, oraz art. 131 pkt 14 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2021 r. poz. 1098 i 1718), ” ;
+    - **i)**
+
+- **2)** w lit. I dodaje się przecinek i dodaje się lit. m w brzmieniu: „ art. 34 ust. 1 pkt 2 i 3 oraz art. 35 ust. 1 pkt 2 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych (Dz. U. poz. 1718)”. ” ; ” ;
+    - **m)**
+
+- **2)** art. 35 i art. 37 ustawy z dnia 4 listopada 2022 r. o Centralnym Azylu dla Zwierząt (Dz. U. poz. 2375), które stanowią: „
+
+**Art. 35.** Do spraw wszczętych na podstawie art. 28 ust. 19 ustawy zmienianej w art. 31 i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 31, w brzmieniu dotychczasowym. ” „ Ustawa wchodzi w życie z dniem 1 stycznia 2024 r., z wyjątkiem art. 29 pkt 1, art. 33, art. 34 i art. 36, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia. ” .
+
+Załącznik – Tekst jednolity ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych
+
+- **a)** Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 317 z 23.11.2016, str. 4. b) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 317 z 23.11.2016, str. 4. c) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 317 z 23.11.2016, str. 4. d) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1378, 1565, 2127 i 2338 oraz z 2021 r. poz. 802, 868, 1047, 1162, 1535, 1642 i 1648. e) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 317 z 23.11.2016, str. 4. f) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 317 z 23.11.2016, str. 4. g) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 215 z 27.08.2003, str. 3 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 519, Dz. Urz. UE L 284 z 31.10.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 1, t. 4, str. 447, Dz. Urz. UE L 127 z 29.04.2004, str. 40 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 343, Dz. Urz. UE L 215 z 19.08.2005, str. 1, Dz. Urz. UE L 175 z 05.07.2007, str. 39, Dz. Urz. UE L 95 z 08.04.2008, str. 3, Dz. Urz. UE L 126 z 21.05.2009, str. 5, Dz. Urz. UE L 212 z 12.08.2010, str. 1, Dz. Urz. UE L 39 z 11.02.2012, str. 133, Dz. Urz. UE L 339 z 12.12.2012, str. 1, Dz. Urz. UE L 212 z 07.08.2013, str. 1, Dz. Urz. UE L 361 z 17.12.2014, str. 1, Dz. Urz. UE L 316 z 23.11.2016, str. 1, Dz. Urz. UE L 21 z 26.01.2017, str. 1, Dz. Urz. UE L 27 z 01.02.2017, str. 1, Dz. Urz. UE L 170 z 25.06.2019, str. 115, Dz. Urz. UE L 320 z 11.12.2019, str. 13 oraz Dz. Urz. UE L 330 z 20.12.2019, str. 104. h) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1565, 2023 i 2369 oraz z 2021 r. poz. 72, 694 i 1000. i) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 317 z 23.11.2016, str. 4. j) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 464, 694, 802, 815, 954, 1003 i 1005.
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zadania i kompetencje organów administracji publicznej oraz innych podmiotów związane z wykonywaniem przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1143/2014 z dnia 22 października 2014 r. w sprawie działań zapobiegawczych i zaradczych w odniesieniu do wprowadzania i rozprzestrzeniania inwazyjnych gatunków obcych (Dz. Urz. UE L 317 z 04.11.2014, str. 35, z późn. zm.), zwanego dalej „rozporządzeniem nr 1143/2014”;
+- **2)** ograniczenia inne niż wynikające z rozporządzenia nr 1143/2014, dotyczące wprowadzania do środowiska oraz przemieszczania w środowisku gatunków obcych;
+- **3)** zasady odpowiedzialności za naruszenie przepisów ustawy oraz rozporządzenia nr 1143/2014.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
-**Art. 3.**
+- **1)** badania naukowe – badania naukowe w rozumieniu art. 3 pkt 8 rozporządzenia nr 1143/2014;
+- **2)** drogi przenoszenia – drogi przenoszenia w rozumieniu art. 3 pkt 11 rozporządzenia nr 1143/2014;
+- **3)** działania zaradcze – działania zaradcze w rozumieniu art. 3 pkt 17 rozporządzenia nr 1143/2014;
+- **4)** eliminacja – eliminację w rozumieniu art. 3 pkt 13 rozporządzenia nr 1143/2014;
+- **5)** gatunek obcy – gatunek obcy w rozumieniu art. 3 pkt 1 rozporządzenia nr 1143/2014;
+- **6)** inwazyjny gatunek obcy – inwazyjny gatunek obcy w rozumieniu art. 3 pkt 2 rozporządzenia nr 1143/2014;
+- **7)** inwazyjny gatunek obcy stwarzający zagrożenie dla Polski – inwazyjny gatunek obcy stwarzający zagrożenie dla państwa członkowskiego w rozumieniu art. 3 pkt 4 rozporządzenia nr 1143/2014, umieszczony na liście inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski;
+- **8)** inwazyjny gatunek obcy stwarzający zagrożenie dla Unii – inwazyjny gatunek obcy stwarzający zagrożenie dla Unii w rozumieniu art. 3 pkt 3 rozporządzenia nr 1143/2014;
+- **9)** izolacja – izolację w rozumieniu art. 3 pkt 15 rozporządzenia nr 1143/2014;
+- **10)** kontrola populacji – kontrolę populacji w rozumieniu art. 3 pkt 14 rozporządzenia nr 1143/2014;
+- **11)** lista inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski – listę inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski określoną w przepisach wydanych na podstawie art. 23 ust. 1;
+- **12)** obiekt izolowany – obiekt izolowany w rozumieniu art. 3 pkt 9 rozporządzenia nr 1143/2014;
+- **13)** obszar morski – obszar morski Rzeczypospolitej Polskiej, o którym mowa w art. 2 ust. 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2023 r. poz. 960);
+- **14)** ochrona ex situ – ochronę ex situ w rozumieniu art. 3 pkt 10 rozporządzenia nr 1143/2014;
+- **15)** okaz inwazyjnego gatunku obcego – pojedynczego żywego osobnika inwazyjnego gatunku obcego lub jego część, gametę, nasiono, jajo lub diasporę, zdolne do przeżycia i rozmnażania;
+- **16)** pas techniczny – pas techniczny w rozumieniu art. 36 ust. 2 pkt 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej;
+- **17)** podmiot władający – osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, władające nieruchomością, na której stwierdzono obecność inwazyjnego gatunku obcego stwarzającego zagrożenie dla Unii lub inwazyjnego gatunku obcego stwarzającego zagrożenie dla Polski;
+- **18)** przemieszczanie w środowisku – zmianę, na skutek interwencji człowieka, miejsca występowania w środowisku gatunku, który już wcześniej został wprowadzony do środowiska;
+- **19)** inwazyjny gatunek obcy rozprzestrzeniony na szeroką skalę – inwazyjny gatunek obcy rozprzestrzeniony na szeroką skalę w rozumieniu art. 3 pkt 16 rozporządzenia nr 1143/2014;
+- **20)** różnorodność biologiczna – różnorodność biologiczną w rozumieniu art. 3 pkt 5 rozporządzenia nr 1143/2014;
+- **21)** terytorium państwa trzeciego – terytorium państwa nienależącego do Unii Europejskiej;
+- **22)** usługi ekosystemowe – usługi ekosystemowe w rozumieniu art. 3 pkt 6 rozporządzenia nr 1143/2014;
+- **23)** wprowadzenie do środowiska – wprowadzenie w rozumieniu art. 3 pkt 7 rozporządzenia nr 1143/2014;
+- **24)** zapas inwazyjnego gatunku obcego – inwazyjny gatunek obcy przetrzymywany w celach komercyjnych.
 
 1. Generalny Dyrektor Ochrony Środowiska:
 
-- **1)** składa do Komisji Europejskiej wniosek o:
-    - **a)** upoważnienie, o którym mowa w art. 9 ust. 1 rozporządzenia nr 1143/2014,
-    - **b)** dodanie inwazyjnego gatunku obcego, zwanego dalej „IGO”, do wykazu inwazyjnych gatunków obcych stwarzających zagrożenie dla Unii, o którym mowa w art. 4 ust. 1 rozporządzenia nr 1143/2014, zwanego dalej „wykazem IGO stwarzających zagrożenie dla Unii”;
+- **1)** składa do Komisji Europejskiej wniosek o: upoważnienie, o którym mowa w art. 9 ust. 1 rozporządzenia nr 1143/2014, dodanie inwazyjnego gatunku obcego, zwanego dalej „IGO”, do wykazu inwazyjnych gatunków obcych stwarzających zagrożenie dla Unii, o którym mowa w art. 4 ust. 1 rozporządzenia nr 1143/2014, zwanego dalej „wykazem IGO stwarzających zagrożenie dla Unii”;
+    - **a)**
+    - **b)**
 
 - **2)** przeprowadza ocenę ryzyka dla IGO objętego wnioskiem o dodanie do wykazu IGO stwarzających zagrożenie dla Unii, o której mowa w art. 5 ust. 1 rozporządzenia nr 1143/2014;
 - **3)** ustala IGO wymagające wzmocnionej współpracy regionalnej oraz składa wniosek do Komisji Europejskiej odpowiednio zgodnie z art. 11 ust. 1 i 2 rozporządzenia nr 1143/2014;
@@ -65,9 +516,7 @@ Art. 37–48. (pominięte)
 
 6. Generalny Dyrektor Ochrony Środowiska przekazuje plan działań, o którym mowa w ust. 1, do Komisji Europejskiej niezwłocznie po jego przyjęciu przez Radę Ministrów.
 
-7. Do zmiany planu działań, o którym mowa w ust. 1, stosuje się przepisy ust. 1–
-
-6.
+7. Do zmiany planu działań, o którym mowa w ust. 1, stosuje się przepisy ust. 1–6.
 
 **Art. 5.** Minister właściwy do spraw środowiska jest organem wyższego stopnia w rozumieniu ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803) w stosunku do dyrektora parku narodowego w sprawach, o których mowa w art. 19 ust. 1 i art. 25 ust. 2.
 
@@ -79,44 +528,44 @@ Art. 37–48. (pominięte)
 
 2. W Rejestrze IGO gromadzi się informacje o IGO stwarzających zagrożenie dla Unii oraz IGO stwarzających zagrożenie dla Polski, w tym o:
 
-- **1)** stwierdzeniu obecności IGO w środowisku, obejmujące:
-    - **a)** nazwę naukową IGO oraz nazwę polską, jeżeli nazwa polska istnieje,
-    - **b)** liczbę okazów IGO lub określenie zajmowanej przez nie powierzchni, jeżeli te dane są dostępne,
-    - **c)** miejsce i datę stwierdzenia obecności IGO w środowisku,
-    - **d)** imię i nazwisko albo nazwę oraz adres lub siedzibę, lub adres poczty elektronicznej, lub numer telefonu zgłaszającego IGO niebędącego osobą fizyczną, w przypadku gdy informacja o stwierdzeniu obecności IGO pochodzi ze zgłoszenia, o którym mowa w art. 15 ust. 1;
+- **1)** stwierdzeniu obecności IGO w środowisku, obejmujące: nazwę naukową IGO oraz nazwę polską, jeżeli nazwa polska istnieje, liczbę okazów IGO lub określenie zajmowanej przez nie powierzchni, jeżeli te dane są dostępne, miejsce i datę stwierdzenia obecności IGO w środowisku, imię i nazwisko albo nazwę oraz adres lub siedzibę, lub adres poczty elektronicznej, lub numer telefonu zgłaszającego IGO niebędącego osobą fizyczną, w przypadku gdy informacja o stwierdzeniu obecności IGO pochodzi ze zgłoszenia, o którym mowa w art. 15 ust. 1;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
-- **2)** IGO objętym zezwoleniem na odstępstwo od zakazów, o których mowa w art. 7 ust. 1 rozporządzenia nr 1143/2014, oraz na odstępstwo od zakazów, o których mowa w art. 7 ust. 2, obejmujące: WE L 256 z 07.09.1987, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 2, t. 2, str. 382) – w przypadku przywozu IGO na terytorium Rzeczypospolitej Polskiej z terytorium państwa trzeciego lub wywozu IGO z terytorium Rzeczypospolitej Polskiej na terytorium państwa trzeciego;
-    - **a)** imię i nazwisko albo nazwę oraz adres lub siedzibę podmiotu, któremu wydano to zezwolenie,
-    - **b)** nazwę naukową IGO oraz nazwę polską, jeżeli nazwa polska istnieje,
-    - **c)** liczbę lub ilość okazów IGO, którego dotyczą czynności objęte tym zezwoleniem,
-    - **d)** nazwę, cel, miejsce i czas wykonania czynności objętych tym zezwoleniem,
-    - **e)** numer tego zezwolenia,
-    - **f)** numer mikroczipa, który został wszczepiony IGO, w przypadku gdy dokonano wszczepienia mikroczipa,
-    - **g)** kody Nomenklatury Scalonej (CN) określone w rozporządzeniu Rady (EWG) nr 2658/87 z dnia 23 lipca 1987 r. w sprawie nomenklatury taryfowej i statystycznej oraz w sprawie Wspólnej Taryfy Celnej (Dz. Urz.
+- **2)** IGO objętym zezwoleniem na odstępstwo od zakazów, o których mowa w art. 7 ust. 1 rozporządzenia nr 1143/2014, oraz na odstępstwo od zakazów, o których mowa w art. 7 ust. 2, obejmujące: imię i nazwisko albo nazwę oraz adres lub siedzibę podmiotu, któremu wydano to zezwolenie, nazwę naukową IGO oraz nazwę polską, jeżeli nazwa polska istnieje, liczbę lub ilość okazów IGO, którego dotyczą czynności objęte tym zezwoleniem, nazwę, cel, miejsce i czas wykonania czynności objętych tym zezwoleniem, numer tego zezwolenia, numer mikroczipa, który został wszczepiony IGO, w przypadku gdy dokonano wszczepienia mikroczipa, kody Nomenklatury Scalonej (CN) określone w rozporządzeniu Rady (EWG) nr 2658/87 z dnia 23 lipca 1987 r. w sprawie nomenklatury taryfowej i statystycznej oraz w sprawie Wspólnej Taryfy Celnej (Dz. Urz. WE L 256 z 07.09.1987, str. 1, z późn. zm.- Dz. Urz. UE Polskie wydanie specjalne, rozdz. 2, t. 2, str. 382) – w przypadku przywozu IGO na terytorium Rzeczypospolitej Polskiej z terytorium państwa trzeciego lub wywozu IGO z terytorium Rzeczypospolitej Polskiej na terytorium państwa trzeciego;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
 
-- **3)** przeprowadzonych działaniach zaradczych, obejmujące:
-    - **a)** nazwę podmiotu przeprowadzającego działania zaradcze,
-    - **b)** miejsce przeprowadzenia działań zaradczych,
-    - **c)** datę rozpoczęcia i zakończenia działań zaradczych,
-    - **d)** określenie środków zastosowanych w ramach działań zaradczych oraz środków mających na celu przywrócenie naturalnego stanu ekosystemów, które zostały zdegradowane, uszkodzone lub zniszczone przez IGO, wobec którego zastosowano te działania zaradcze,
-    - **e)** liczbę okazów IGO lub określenie zajmowanej przez nie powierzchni po przeprowadzeniu działań zaradczych,
-    - **f)** określenie oddziaływania przeprowadzonych działań zaradczych na gatunki niedocelowe,
-    - **g)** opis skuteczności przeprowadzonych działań zaradczych,
-    - **h)** wysokość kosztów przeprowadzonych działań zaradczych oraz środków mających na celu przywrócenie naturalnego stanu ekosystemów, które zostały zdegradowane, uszkodzone lub zniszczone przez IGO, wobec którego zastosowano działania zaradcze.
+- **3)** przeprowadzonych działaniach zaradczych, obejmujące: nazwę podmiotu przeprowadzającego działania zaradcze, miejsce przeprowadzenia działań zaradczych, datę rozpoczęcia i zakończenia działań zaradczych, określenie środków zastosowanych w ramach działań zaradczych oraz środków mających na celu przywrócenie naturalnego stanu ekosystemów, które zostały zdegradowane, uszkodzone lub zniszczone przez IGO, wobec którego zastosowano te działania zaradcze, liczbę okazów IGO lub określenie zajmowanej przez nie powierzchni po przeprowadzeniu działań zaradczych, określenie oddziaływania przeprowadzonych działań zaradczych na gatunki niedocelowe, opis skuteczności przeprowadzonych działań zaradczych, wysokość kosztów przeprowadzonych działań zaradczych oraz środków mających na celu przywrócenie naturalnego stanu ekosystemów, które zostały zdegradowane, uszkodzone lub zniszczone przez IGO, wobec którego zastosowano działania zaradcze.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
 
-3. Rejestr IGO w zakresie informacji, o których mowa w ust. 2 pkt 1 lit. a–c, jest ogólnodostępny przez zamieszczenie go na stronie podmiotowej Generalnej Dyrekcji Ochrony Środowiska.
+3. Rejestr IGO w zakresie informacji, o których mowa w ust. 2 pkt 1 lit. a-c, jest ogólnodostępny przez zamieszczenie go na stronie podmiotowej Generalnej Dyrekcji Ochrony Środowiska.
 
 4. Rejestr IGO jest prowadzony przy użyciu systemu teleinformatycznego w rozumieniu art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz. 57, 1123 i 1234) umożliwiającego zarządzanie danymi przez Generalnego Dyrektora Ochrony Środowiska, regionalnych dyrektorów ochrony środowiska, dyrektorów parków narodowych, dyrektorów urzędów morskich oraz Głównego Inspektora Rybołówstwa Morskiego.
 
 5. Regionalny dyrektor ochrony środowiska, dyrektor parku narodowego, dyrektor urzędu morskiego oraz Główny Inspektor Rybołówstwa Morskiego, każdy w zakresie swojej właściwości, wprowadzają do Rejestru IGO informacje określone w ust. 2 pkt 1 – w przypadku stwierdzenia obecności w środowisku:
 
-- **1)** IGO podlegającego szybkiej eliminacji – niezwłocznie po:
-    - **a)** otrzymaniu zgłoszenia, o którym mowa w art. 15 ust. 1,
-    - **b)** stwierdzeniu obecności tego IGO w środowisku na obszarze właściwości danego organu;
+- **1)** IGO podlegającego szybkiej eliminacji – niezwłocznie po: otrzymaniu zgłoszenia, o którym mowa w art. 15 ust. 1, stwierdzeniu obecności tego IGO w środowisku na obszarze właściwości danego organu;
+    - **a)**
+    - **b)**
 
-- **2)** IGO rozprzestrzenionego na szeroką skalę – w terminie 3 miesięcy od dnia:
-    - **a)** otrzymania zgłoszenia, o którym mowa w art. 15 ust. 1,
-    - **b)** stwierdzenia obecności tego IGO w środowisku na obszarze właściwości danego organu.
+- **2)** IGO rozprzestrzenionego na szeroką skalę – w terminie 3 miesięcy od dnia: otrzymania zgłoszenia, o którym mowa w art. 15 ust. 1, stwierdzenia obecności tego IGO w środowisku na obszarze właściwości danego organu.
+    - **a)**
+    - **b)**
 
 6. Generalny Dyrektor Ochrony Środowiska oraz regionalni dyrektorzy ochrony środowiska, każdy w zakresie swojej właściwości, niezwłocznie wprowadzają do Rejestru IGO informacje o IGO objętych zezwoleniem na odstępstwo od zakazów, o których mowa w art. 7 ust. 1 rozporządzenia nr 1143/2014, oraz zezwoleniem na odstępstwo od zakazów, o których mowa w art. 7 ust. 2, określone w ust. 2 pkt 2.
 
@@ -145,19 +594,20 @@ Art. 37–48. (pominięte)
 
 - **1)** działań z wykorzystaniem organizmów wodnych, o których mowa w art. 3 ust. 1 i 2 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2022 r. poz. 883) oraz w art. 97 ust. 1 i art. 99 ust. 1 ustawy z dnia 19 grudnia 2014 r. o rybołówstwie morskim (Dz. U. z 2023 r. poz. 475 i 1273),
 - **2)** wprowadzania do środowiska zwierząt łownych należących do gatunków obcych zgodnie z art. 16a ust. 1 ustawy z dnia 13 października 1995 r. – Prawo łowieckie (Dz. U. z 2023 r. poz. 1082),
-- **3)** roślin wykorzystywanych:
-    - **a)** przy zakładaniu i utrzymywaniu terenów zieleni w granicach wsi o zwartej zabudowie lub w granicach miast, a także przy zakładaniu i utrzymywaniu zieleni towarzyszącej obiektom budowlanym,
-    - **b)** w ramach trwale zrównoważonej gospodarki leśnej i racjonalnej gospodarki rolnej,
-    - **c)** tymczasowo, w celu rekultywacji gruntów zdegradowanych lub zdewastowanych w wyniku działalności przemysłowej,
-    - **d)** w badaniach naukowych oraz ochronie ex situ, o ile te badania i ta ochrona są prowadzone w granicach wsi o zwartej zabudowie lub w granicach miast – chyba że te organizmy wodne, zwierzęta łowne lub rośliny są IGO stwarzającymi zagrożenie dla Unii lub IGO stwarzającymi zagrożenie dla Polski.
+- **3)** roślin wykorzystywanych: przy zakładaniu i utrzymywaniu terenów zieleni w granicach wsi o zwartej zabudowie lub w granicach miast, a także przy zakładaniu i utrzymywaniu zieleni towarzyszącej obiektom budowlanym, w ramach trwale zrównoważonej gospodarki leśnej i racjonalnej gospodarki rolnej, tymczasowo, w celu rekultywacji gruntów zdegradowanych lub zdewastowanych w wyniku działalności przemysłowej, w badaniach naukowych oraz ochronie ex situ, o ile te badania i ta ochrona są prowadzone w granicach wsi o zwartej zabudowie lub w granicach miast chyba że te organizmy wodne, zwierzęta łowne lub rośliny są IGO stwarzającymi zagrożenie dla Unii lub IGO stwarzającymi zagrożenie dla Polski.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 4. Wprowadzenia do środowiska lub przemieszczenia w środowisku roślin, o których mowa w ust. 3 pkt 3, dokonuje się tak, aby gatunek obcy nie rozprzestrzenił się poza teren, na którym dokonano jego wprowadzenia do środowiska lub przemieszczenia w środowisku, a podmiot, który dokonał tego wprowadzenia do środowiska lub przemieszczenia w środowisku, ma obowiązek dokonać eliminacji tego gatunku obcego ze środowiska po zakończeniu jego użytkowania w taki sposób, aby uniemożliwić jego rozprzestrzenienie się.
+
+5. Zakazów, o których mowa w art. 7 ust. 1 lit. b rozporządzenia nr 1143/2014 oraz w ust. 2 pkt 3, nie stosuje się w odniesieniu do IGO stwarzającego zagrożenie dla Unii lub IGO stwarzającego zagrożenie dla Polski, przetrzymywanego w azylu dla zwierząt i ujętego w wykazie, o którym mowa w art. 76a ust. 5 pkt 4 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2022 r. poz. 916, 1726, 2185 i 2375).
 
 5. Zakazów, o których mowa w art. 7 ust. 1 lit. b rozporządzenia nr 1143/2014 oraz w ust. 2 pkt 3, nie stosuje się w odniesieniu do IGO stwarzającego zagrożenie dla Unii lub IGO stwarzającego zagrożenie dla Polski:
 
 - **1)** przetrzymywanego w Centralnym Azylu dla Zwierząt, o którym mowa w ustawie z dnia 4 listopada 2022 r. o Centralnym Azylu dla Zwierząt (Dz. U. poz. 2375), zwanym dalej „Centralnym Azylem dla Zwierząt”;
-- **2)** ujętego w wykazie, o którym mowa w art. 76a ust. 5 pkt 4 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2022 r. poz. 916, 1726, 2185 i
-- **2375)** , przetrzymywanego w azylu dla zwierząt.
+- **2)** ujętego w wykazie, o którym mowa w art. 76a ust. 5 pkt 4 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2022 r. poz. 916, 1726, 2185 i 2375), przetrzymywanego w azylu dla zwierząt.
 
 **Art. 8.**
 
@@ -165,25 +615,25 @@ Art. 37–48. (pominięte)
 
 2. Generalny Dyrektor Ochrony Środowiska może, w drodze decyzji, wydać zezwolenie także na odstępstwo, w odniesieniu do:
 
-- **1)** IGO stwarzającego zagrożenie dla Unii, od:
-    - **a)** zakazu przetrzymywania, w tym w obiekcie izolowanym, oraz zakazu wykorzystywania w celu: – przeprowadzenia działań zaradczych, – komercyjnego wykorzystania w ramach działań zaradczych w stosunku do IGO stwarzającego zagrożenie dla Unii zgodnie z art. 19 ust. 2 rozporządzenia nr 1143/2014,
-    - **b)** zakazów, o których mowa w art. 7 ust. 1 lit. b oraz d rozporządzenia nr 1143/2014, w odniesieniu do: – zwierzęcia domowego – w przypadku, o którym mowa w art. 11, lub – zapasu IGO – w przypadku, o którym mowa w art. 12 ust. 4;
+- **1)** IGO stwarzającego zagrożenie dla Unii, od: zakazu przetrzymywania, w tym w obiekcie izolowanym, oraz zakazu wykorzystywania w celu: – przeprowadzenia działań zaradczych, – komercyjnego wykorzystania w ramach działań zaradczych w stosunku do IGO stwarzającego zagrożenie dla Unii zgodnie z art. 19 ust. 2 rozporządzenia nr 1143/2014, zakazów, o których mowa w art. 7 ust. 1 lit. b oraz d rozporządzenia nr 1143/2014, w odniesieniu do: – zwierzęcia domowego – w przypadku, o którym mowa w art. 11, lub – zapasu IGO – w przypadku, o którym mowa w art. 12 ust. 4;
+    - **a)**
+    - **b)**
 
-- **2)** IGO stwarzającego zagrożenie dla Polski, od zakazu, o którym mowa w art. 7 ust. 2 pkt 1:
-    - **a)** w celu przeprowadzenia badań naukowych, ochrony ex situ lub wykorzystania IGO stwarzającego zagrożenie dla Polski do celów medycznych lub w przypadkach wynikających z nadrzędnego interesu publicznego, w tym ze względów społecznych lub gospodarczych,
-    - **b)** w celu: – przeprowadzenia działań zaradczych, – komercyjnego wykorzystania w ramach działań zaradczych IGO stwarzającego zagrożenie dla Polski,
-    - **c)** w odniesieniu do: – zwierzęcia domowego – w przypadku, o którym mowa w art. 11, lub – zapasu IGO – w przypadkach, o których mowa w art. 12 ust. 1 i 2.
+- **2)** IGO stwarzającego zagrożenie dla Polski, od zakazu, o którym mowa w art. 7 ust. 2 pkt 1: w celu przeprowadzenia badań naukowych, ochrony ex situ lub wykorzystania IGO stwarzającego zagrożenie dla Polski do celów medycznych lub w przypadkach wynikających z nadrzędnego interesu publicznego, w tym ze względów społecznych lub gospodarczych, w celu: – przeprowadzenia działań zaradczych, – komercyjnego wykorzystania w ramach działań zaradczych IGO stwarzającego zagrożenie dla Polski, w odniesieniu do: – zwierzęcia domowego – w przypadku, o którym mowa w art. 11, lub – zapasu IGO – w przypadkach, o których mowa w art. 12 ust. 1 i 2.
+    - **a)**
+    - **b)**
+    - **c)**
 
 3. Regionalny dyrektor ochrony środowiska może, w drodze decyzji, wydać zezwolenie na odstępstwo, w odniesieniu do IGO stwarzającego zagrożenie dla Polski, od zakazów, o których mowa w art. 7 ust. 2:
 
 - **1)** pkt 2–4, 6 i 7, w celu przeprowadzenia badań naukowych, ochrony ex situ lub wykorzystania IGO stwarzającego zagrożenie dla Polski do celów medycznych lub w przypadkach wynikających z nadrzędnego interesu publicznego, w tym ze względów społecznych lub gospodarczych;
-- **2)** pkt 3 i 6, w celu:
-    - **a)** przeprowadzenia działań zaradczych,
-    - **b)** komercyjnego wykorzystania w ramach działań zaradczych IGO stwarzającego zagrożenie dla Polski;
+- **2)** pkt 3 i 6, w celu: przeprowadzenia działań zaradczych, komercyjnego wykorzystania w ramach działań zaradczych IGO stwarzającego zagrożenie dla Polski;
+    - **a)**
+    - **b)**
 
-- **3)** pkt 2 i 3, w odniesieniu do:
-    - **a)** zwierzęcia domowego – w przypadku, o którym mowa w art. 11, lub
-    - **b)** zapasu IGO – w przypadkach, o których mowa w art. 12 ust. 1 i 2.
+- **3)** pkt 2 i 3, w odniesieniu do: zwierzęcia domowego – w przypadku, o którym mowa w art. 11, lub zapasu IGO – w przypadkach, o których mowa w art. 12 ust. 1 i 2.
+    - **a)**
+    - **b)**
 
 4. W przypadku gdy zezwolenie na odstępstwo od zakazu, o którym mowa w art. 7 ust. 2 pkt 1, obejmuje również odstępstwo od zakazów, o których mowa w art. 7 ust. 2 pkt 2–4, 6 i 7, właściwy do jego wydania jest Generalny Dyrektor Ochrony Środowiska.
 
@@ -201,9 +651,9 @@ Art. 37–48. (pominięte)
 
 - **1)** posiada tytuł prawny do obiektu izolowanego spełniającego warunki określone w art. 8 ust. 3 rozporządzenia nr 1143/2014;
 - **2)** posiada wiedzę w zakresie biologii danego IGO objętego zezwoleniem oraz zapobiegania ucieczce lub rozprzestrzenianiu się tego IGO lub zatrudnia osobę, która będzie wykonywała czynności objęte zezwoleniem, posiadającą taką wiedzę;
-- **3)** posiada procedury zapewniające, że przemieszczanie w środowisku IGO stwarzającego zagrożenie dla Polski do i z obiektu izolowanego będzie przeprowadzone:
-    - **a)** zgodnie z warunkami określonymi w tym zezwoleniu,
-    - **b)** w sposób wykluczający ucieczkę tego IGO stwarzającego zagrożenie dla Polski;
+- **3)** posiada procedury zapewniające, że przemieszczanie w środowisku IGO stwarzającego zagrożenie dla Polski do i z obiektu izolowanego będzie przeprowadzone: zgodnie z warunkami określonymi w tym zezwoleniu, w sposób wykluczający ucieczkę tego IGO stwarzającego zagrożenie dla Polski;
+    - **a)**
+    - **b)**
 
 - **4)** skutecznie kontroluje ryzyko ucieczki lub rozprzestrzeniania się IGO stwarzającego zagrożenie dla Polski, w tym przez posiadanie systemu ciągłego nadzoru;
 - **5)** posiada plan awaryjny na wypadek ucieczki lub rozprzestrzenienia się IGO stwarzającego zagrożenie dla Polski, w tym plan eliminacji ze środowiska tego IGO stwarzającego zagrożenie dla Polski.
@@ -227,9 +677,9 @@ Art. 37–48. (pominięte)
 - **6)** procedurę przemieszczenia IGO do i z obiektu izolowanego;
 - **7)** ocenę i opis ryzyka ucieczki IGO z obiektu izolowanego i rozprzestrzenienia się tego IGO oraz usunięcia IGO z obiektu izolowanego;
 - **8)** opis systemu ciągłego nadzoru i plan awaryjny na wypadek ucieczki lub rozprzestrzenienia się IGO, w tym plan eliminacji tego IGO ze środowiska;
-- **9)** oświadczenie wnioskodawcy, że ten wnioskodawca będący osobą fizyczną, a w przypadku wnioskodawcy będącego osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej – urzędujący członek jego organu zarządzającego lub nadzorczego, wspólnik spółki w spółce jawnej lub partnerskiej albo komplementariusz w spółce komandytowej lub komandytowo-akcyjnej lub prokurent nie był:
-    - **a)** prawomocnie ukarany, w okresie roku przed dniem złożenia wniosku, za wykroczenia, o których mowa w art. 127 pkt 3 i 5 i art. 131 pkt 1–5, 8, 13 i 14 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody oraz w art. 35 ust. 1,
-    - **b)** skazany prawomocnym wyrokiem sądu, w okresie 5 lat przed dniem złożenia wniosku, za przestępstwa, o których mowa w art. 181 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138, z późn. zm. ), art. 35 ust. 1–2 ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2022 r. poz. 572 i 2375), art. 127a, art. 128 pkt 1 i 2 i art. 128a ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody oraz w art. 34 ust. 1 i 2;
+- **9)** oświadczenie wnioskodawcy, że ten wnioskodawca będący osobą fizyczną, a w przypadku wnioskodawcy będącego osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej – urzędujący członek jego organu zarządzającego lub nadzorczego, wspólnik spółki w spółce jawnej lub partnerskiej albo komplementariusz w spółce komandytowej lub komandytowo-akcyjnej lub prokurent nie był: prawomocnie ukarany, w okresie roku przed dniem złożenia wniosku, za wykroczenia, o których mowa w art. 127 pkt 3 i 5 i art. 131 pkt 1–5, 8, 13 i 14 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody oraz w art. 35 ust. 1, skazany prawomocnym wyrokiem sądu, w okresie 5 lat przed dniem złożenia wniosku, za przestępstwa, o których mowa w art. 181 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138, z późn. zm.), art. 35 ust. 1–2 ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2022 r. poz. 572 i 2375), art. 127a, art. 128 pkt 1 i 2 i art. 128a ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody oraz w art. 34 ust. 1 i 2;
+    - **a)**
+    - **b)**
 
 - **10)** dokumenty potwierdzające, że zwierzę domowe było przetrzymywane przed umieszczeniem gatunku, do którego to zwierzę należy, w wykazie IGO stwarzających zagrożenie dla Unii albo na liście IGO stwarzających zagrożenie dla Polski, albo oświadczenie w tym zakresie – w przypadku, o którym mowa w art. 11 ust. 1;
 - **11)** dokumenty potwierdzające, że zapas IGO był przetrzymywany przed umieszczeniem gatunku, do którego należą zwierzę lub roślina objęte tym zapasem IGO, w wykazie IGO stwarzających zagrożenie dla Unii albo na liście IGO stwarzających zagrożenie dla Polski, albo oświadczenie w tym zakresie – w przypadku, o którym mowa w art. 12.
@@ -264,17 +714,17 @@ Art. 37–48. (pominięte)
 
 18. Generalny Dyrektor Ochrony Środowiska i regionalny dyrektor ochrony środowiska odmawiają wydania zezwolenia, o którym mowa w art. 8 i art. 9 rozporządzenia nr 1143/2014, oraz zezwolenia, o którym mowa w ust. 2 i 3, jeżeli:
 
-- **1)** wnioskodawca będący osobą fizyczną, a w przypadku wnioskodawcy będącego osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej – urzędujący członek jego organu zarządzającego lub nadzorczego, wspólnik spółki w spółce jawnej lub partnerskiej albo komplementariusz w spółce komandytowej lub komandytowo-akcyjnej lub prokurent był: o ochronie przyrody lub w art. 35 ust. 1, w okresie roku od dnia prawomocnego ukarania za te wykroczenia,
-    - **a)** prawomocnie ukarany za wykroczenia, o których mowa w art. 127 pkt 3 lub 5 lub art. 131 pkt 1–5, 8, 13 lub 14 ustawy z dnia 16 kwietnia 2004 r.
-    - **b)** skazany prawomocnym wyrokiem sądu za przestępstwa, o których mowa w art. 181 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, art. 35 ust. 1–2 ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt, art. 127a, art. 128 pkt 1 lub 2 lub art. 128a ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody lub w art. 34 ust. 1 lub 2, w okresie 5 lat od dnia uprawomocnienia się tego wyroku;
+- **1)** wnioskodawca będący osobą fizyczną, a w przypadku wnioskodawcy będącego osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej – urzędujący członek jego organu zarządzającego lub nadzorczego, wspólnik spółki w spółce jawnej lub partnerskiej albo komplementariusz w spółce komandytowej lub komandytowo-akcyjnej lub prokurent był: prawomocnie ukarany za wykroczenia, o których mowa w art. 127 pkt 3 lub 5 lub art. 131 pkt 1–5, 8, 13 lub 14 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody lub w art. 35 ust. 1, w okresie roku od dnia prawomocnego ukarania za te wykroczenia, skazany prawomocnym wyrokiem sądu za przestępstwa, o których mowa w art. 181 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, art. 35 ust. 1–2 ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt, art. 127a, art. 128 pkt 1 lub 2 lub art. 128a ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody lub w art. 34 ust. 1 lub 2, w okresie 5 lat od dnia uprawomocnienia się tego wyroku;
+    - **a)**
+    - **b)**
 
-- **2)** nie są spełnione warunki określone w:
-    - **a)** art. 8 ust. 2 i 3 rozporządzenia nr 1143/2014 – w przypadku zezwolenia, o którym mowa w art. 8 i art. 9 rozporządzenia nr 1143/2014,
-    - **b)** ust. 7 – w przypadku zezwolenia, o którym mowa w ust. 2 pkt 1, pkt 2 lit. b i c oraz ust. 3 pkt 2 i 3,
-    - **c)** ust. 8 – w przypadku zezwolenia, o którym mowa w ust. 2 pkt 2 lit. a oraz ust. 3 pkt 1;
+- **2)** nie są spełnione warunki określone w: art. 8 ust. 2 i 3 rozporządzenia nr 1143/2014 – w przypadku zezwolenia, o którym mowa w art. 8 i art. 9 rozporządzenia nr 1143/2014, ust. 7 – w przypadku zezwolenia, o którym mowa w ust. 2 pkt 1, pkt 2 lit. b i c oraz ust. 3 pkt 2 i 3, ust. 8 – w przypadku zezwolenia, o którym mowa w ust. 2 pkt 2 lit. a oraz ust. 3 pkt 1;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **3)** czynność objęta wnioskiem o wydanie zezwolenia stwarza zagrożenie dla rodzimych gatunków lub siedlisk przyrodniczych;
-- **4)** chów lub hodowla organizmów wodnych, do których ma zastosowanie rozporządzenie Rady (WE) nr 708/2007 z dnia 11 czerwca 2007 r. w sprawie wykorzystania w akwakulturze gatunków obcych i niewystępujących miejscowo (Dz. Urz. UE L 168 z 28.06.2007, str. 1, z późn. zm. ), nie spełnia warunków w zakresie wprowadzania gatunku obcego do zamkniętego zakładu akwakultury określonych w przepisach wydanych na podstawie art. 3f ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym;
+- **4)** chów lub hodowla organizmów wodnych, do których ma zastosowanie rozporządzenie Rady (WE) nr 708/2007 z dnia 11 czerwca 2007 r. w sprawie wykorzystania w akwakulturze gatunków obcych i niewystępujących miejscowo (Dz. Urz. UE L 168 z 28.06.2007, str. 1, z późn. zm.), nie spełnia warunków w zakresie wprowadzania gatunku obcego do zamkniętego zakładu akwakultury określonych w przepisach wydanych na podstawie art. 3f ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym;
 - **5)** Komisja Europejska odrzuciła wniosek o udzielenie upoważnienia, o którym mowa w art. 9 ust. 1 rozporządzenia nr 1143/2014, w odniesieniu do IGO stwarzającego zagrożenie dla Unii.
 
 **Art. 9.**
@@ -303,10 +753,7 @@ Art. 37–48. (pominięte)
 
 6. W ramach czynności kontrolnych osoby upoważnione do przeprowadzenia kontroli mają prawo do:
 
-- **1)** wstępu na teren będący we władaniu podmiotu kontrolowanego w godzinach od
-
-6. 00 do 22.00;
-
+- **1)** wstępu na teren będący we władaniu podmiotu kontrolowanego w godzinach od 6.00 do 22.00;
 - **2)** żądania pisemnych lub ustnych informacji związanych z przedmiotem kontroli;
 - **3)** wglądu do dokumentów związanych z przedmiotem kontroli oraz sporządzania z nich odpisów, wyciągów lub ich kopii;
 - **4)** sporządzania szkiców, filmowania, fotografowania oraz dokonywania nagrań dźwiękowych w zakresie związanym z przedmiotem kontroli.
@@ -345,11 +792,12 @@ Art. 37–48. (pominięte)
 1. W przypadku gdy zwierzę domowe było przetrzymywane w celach niekomercyjnych przed umieszczeniem gatunku, do którego to zwierzę należy, w wykazie IGO stwarzających zagrożenie dla Unii albo na liście IGO stwarzających zagrożenie dla Polski, posiadacz tego zwierzęcia:
 
 - **1)** zatrzymuje to zwierzę do jego naturalnej śmierci, pod warunkiem że posiada zezwolenie na odstępstwo od zakazów, o których mowa w art. 7 ust. 1 lit. b oraz d rozporządzenia nr 1143/2014, albo zezwolenie na odstępstwo od zakazów, o których mowa w art. 7 ust. 2 pkt 2 i 3, albo
-- **2)** przekazuje to zwierzę:
-    - **a)** podmiotowi, który posiada zezwolenie na odstępstwo od zakazów, o których mowa w art. 7 ust. 1 lit. b oraz d rozporządzenia nr 1143/2014,
-    - **b)** podmiotowi, który posiada zezwolenie na odstępstwo od zakazów, o których mowa w art. 7 ust. 2 pkt 2 i 3,
-    - **c)** do Centralnego Azylu dla Zwierząt albo
-    - **d)** do azylu dla zwierząt, albo
+- **2)** przekazuje to zwierzę podmiotowi, który posiada zezwolenie na odstępstwo od zakazów, o których mowa w art. 7 ust. 1 lit. b oraz d rozporządzenia nr 1143/2014, albo zezwolenie na odstępstwo od zakazów, o których mowa w art. 7 ust. 2 pkt 2 i 3, albo do azylu dla zwierząt, albo
+- **2)** przekazuje to zwierzę: podmiotowi, który posiada zezwolenie na odstępstwo od zakazów, o których mowa w art. 7 ust. 1 lit. b oraz d rozporządzenia nr 1143/2014, podmiotowi, który posiada zezwolenie na odstępstwo od zakazów, o których mowa w art. 7 ust. 2 pkt 2 i 3, do Centralnego Azylu dla Zwierząt albo do azylu dla zwierząt, albo
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **3)** poddaje to zwierzę uśmierceniu.
 
@@ -367,10 +815,10 @@ Art. 37–48. (pominięte)
 
 1. Posiadacz IGO, który nabył zapas IGO przed umieszczeniem gatunku, do którego należy ten zapas IGO, na liście IGO stwarzających zagrożenie dla Polski, ma prawo, w terminie 2 lat od dnia umieszczenia gatunku, do którego należy ten zapas IGO, na liście IGO stwarzających zagrożenie dla Polski, przetrzymywać lub przemieszczać ten IGO w celu:
 
-- **1)** sprzedaży lub przekazania podmiotom:
-    - **a)** prowadzącym badania naukowe,
-    - **b)** prowadzącym ochronę ex situ,
-    - **c)** wykorzystującym IGO do celów medycznych – pod warunkiem że podmioty te posiadają zezwolenie, o którym mowa w art. 8 ust. 2 pkt 2 lit. a lub art. 8 ust. 3 pkt 1;
+- **1)** sprzedaży lub przekazania podmiotom: prowadzącym badania naukowe, prowadzącym ochronę ex situ, wykorzystującym IGO do celów medycznych pod warunkiem że podmioty te posiadają zezwolenie, o którym mowa w art. 8 ust. 2 pkt 2 lit. a lub art. 8 ust. 3 pkt 1;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **2)** uśmiercenia zwierzęcia lub unieszkodliwienia rośliny.
 
@@ -437,7 +885,7 @@ Art. 37–48. (pominięte)
 
 - **1)** wymagania dotyczące mikroczipa i sposobu wszczepienia mikroczipa zwierzęciu kręgowemu należącemu do IGO stwarzającego zagrożenie dla Unii albo do IGO stwarzającego zagrożenie dla Polski, w tym minimalne wymiary lub wiek zwierzęcia oraz miejsce wszczepienia mikroczipa,
 - **2)** wymagania dotyczące obiektu lub pojemnika, w którym umieszcza się zwierzę należące do IGO stwarzającego zagrożenie dla Unii albo do IGO stwarzającego zagrożenie dla Polski,
-- **3)** wymagania dotyczące wykonania dokumentacji fotograficznej indywidualnych cech zwierzęcia należącego do IGO stwarzającego zagrożenie dla Unii albo do IGO stwarzającego zagrożenie dla Polski, w tym maksymalną liczbę zwierząt, dla których taką dokumentację się sporządza – kierując się potrzebą zapewnienia identyfikacji tych zwierząt i ujednolicenia sposobów ich oznakowania oraz mając na uwadze potrzebę uniknięcia przez znakowane zwierzęta niepotrzebnego bólu, dystresu lub cierpienia.
+- **3)** wymagania dotyczące wykonania dokumentacji fotograficznej indywidualnych cech zwierzęcia należącego do IGO stwarzającego zagrożenie dla Unii albo do IGO stwarzającego zagrożenie dla Polski, w tym maksymalną liczbę zwierząt, dla których taką dokumentację się sporządza kierując się potrzebą zapewnienia identyfikacji tych zwierząt i ujednolicenia sposobów ich oznakowania oraz mając na uwadze potrzebę uniknięcia przez znakowane zwierzęta niepotrzebnego bólu, dystresu lub cierpienia.
 
 #### Rozdział 4 Postępowanie w przypadku stwierdzenia obecności IGO w środowisku
 
@@ -446,7 +894,7 @@ Art. 37–48. (pominięte)
 1. Kto stwierdzi obecność w środowisku:
 
 - **1)** IGO stwarzającego zagrożenie dla Unii,
-- **2)** IGO stwarzającego zagrożenie dla Polski – niezwłocznie zgłasza ten fakt wójtowi, burmistrzowi albo prezydentowi miasta, właściwemu ze względu na miejsce stwierdzenia obecności tego IGO w środowisku.
+- **2)** IGO stwarzającego zagrożenie dla Polski niezwłocznie zgłasza ten fakt wójtowi, burmistrzowi albo prezydentowi miasta, właściwemu ze względu na miejsce stwierdzenia obecności tego IGO w środowisku.
 
 2. Zgłoszenie zawiera:
 
@@ -473,10 +921,8 @@ Art. 37–48. (pominięte)
 
 9. Jeżeli stwierdzenia obecności w środowisku IGO stwarzającego zagrożenie dla Unii albo IGO stwarzającego zagrożenie dla Polski dokona regionalny dyrektor ochrony środowiska, dyrektor parku narodowego, dyrektor urzędu morskiego albo Główny Inspektor Rybołówstwa Morskiego poza obszarem właściwości każdego z tych organów, to w przypadku:
 
-- **1)** IGO podlegającego szybkiej eliminacji – informacje w tym zakresie przekazuje się podmiotowi właściwemu do podjęcia działań zaradczych; przepisów ust. 1– 7 nie stosuje się;
+- **1)** IGO podlegającego szybkiej eliminacji – informacje w tym zakresie przekazuje się podmiotowi właściwemu do podjęcia działań zaradczych; przepisów ust. 1–7 nie stosuje się;
 - **2)** IGO rozprzestrzenionego na szeroką skalę – stosuje się przepisy ust. 1–7.
-
-**Art. 16.**
 
 1. Wójt, burmistrz albo prezydent miasta przekazuje zgłoszenie, o którym mowa w art. 15 ust. 1, w postaci elektronicznej, w formacie danych oraz zgodnie ze wzorem udostępnionym przez Generalnego Dyrektora Ochrony Środowiska w Biuletynie Informacji Publicznej na stronie podmiotowej Generalnej Dyrekcji Ochrony Środowiska:
 
@@ -536,7 +982,7 @@ Art. 37–48. (pominięte)
 
 5. W przypadku, o którym mowa w ust. 3 pkt 2, podmiot władający udostępnia nieruchomość, na której stwierdzono obecność w środowisku IGO stwarzającego zagrożenie dla Unii lub IGO stwarzającego zagrożenie dla Polski, organowi właściwemu do przeprowadzenia działań zaradczych na jego żądanie oraz umożliwia przeprowadzenie działań zaradczych wobec stwierdzonego IGO.
 
-6. W przypadku niewykonania obowiązku, o którym mowa w ust. 2 i 5, stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm. ).
+6. W przypadku niewykonania obowiązku, o którym mowa w ust. 2 i 5, stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm.).
 
 **Art. 20.**
 
@@ -576,18 +1022,18 @@ Art. 37–48. (pominięte)
 
 - **1)** na obszarze tego parku narodowego – dyrektor parku narodowego;
 - **2)** na obszarze rezerwatu przyrody, z wyłączeniem lasów stanowiących rezerwat przyrody – właściwy regionalny dyrektor ochrony środowiska;
-- **3)** poza obszarami parku narodowego i rezerwatu przyrody:
-    - **a)** Główny Inspektor Rybołówstwa Morskiego – na obszarze morskim,
-    - **b)** właściwy dyrektor urzędu morskiego – na obszarze pasa technicznego;
+- **3)** poza obszarami parku narodowego i rezerwatu przyrody: Główny Inspektor Rybołówstwa Morskiego – na obszarze morskim, właściwy dyrektor urzędu morskiego – na obszarze pasa technicznego;
+    - **a)**
+    - **b)**
 
 - **4)** na obszarach innych niż wymienione w pkt 1–3 oraz ust. 2 – właściwy wójt, burmistrz albo prezydent miasta.
 
 2. Działania zaradcze w stosunku do IGO stwarzającego zagrożenie dla Unii lub IGO stwarzającego zagrożenie dla Polski, rozprzestrzenionego na szeroką skalę, przeprowadza, po otrzymaniu od wójta, burmistrza albo prezydenta miasta informacji, o której mowa w art. 16 ust. 7:
 
 - **1)** w lasach stanowiących rezerwat przyrody – właściwy dyrektor regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe;
-- **2)** poza obszarami parku narodowego i rezerwatu przyrody:
-    - **a)** zarządca nieruchomości – na nieruchomości stanowiącej własność Skarbu Państwa oraz na nieruchomości stanowiącej własność państwowej osoby prawnej,
-    - **b)** podmiot władający będący osobą fizyczną albo inną niż państwowa osobą prawną, albo inną niż państwowa jednostką organizacyjną – na nieruchomości, którą włada.
+- **2)** poza obszarami parku narodowego i rezerwatu przyrody: zarządca nieruchomości – na nieruchomości stanowiącej własność Skarbu Państwa oraz na nieruchomości stanowiącej własność państwowej osoby prawnej, podmiot władający będący osobą fizyczną albo inną niż państwowa osobą prawną, albo inną niż państwowa jednostką organizacyjną – na nieruchomości, którą włada.
+    - **a)**
+    - **b)**
 
 3. Podmiot władający, o którym mowa w ust. 2 pkt 2 lit. b, niezwłocznie po otrzymaniu od wójta, burmistrza albo prezydenta miasta informacji, o której mowa w art. 16 ust. 7, może wystąpić do wójta, burmistrza albo prezydenta miasta z wnioskiem o zwolnienie z obowiązku przeprowadzenia działań zaradczych, jeżeli nie ma możliwości przeprowadzenia tych działań we własnym zakresie, w szczególności ze względów finansowych.
 
@@ -606,17 +1052,17 @@ Art. 37–48. (pominięte)
 6. Wójt, burmistrz albo prezydent miasta, w drodze decyzji, w terminie 30 dni od dnia złożenia wniosku, o którym mowa w ust. 3, przez podmiot władający, o którym mowa w ust. 2 pkt 2 lit. b:
 
 - **1)** wyraża zgodę na zwolnienie podmiotu władającego z przeprowadzenia działań zaradczych w stosunku do IGO stwarzającego zagrożenie dla Unii lub IGO stwarzającego zagrożenie dla Polski, rozprzestrzenionego na szeroką skalę, i przeprowadza te działania zaradcze za ten podmiot albo
-- **2)** może odmówić przeprowadzenia działań zaradczych w stosunku do IGO stwarzającego zagrożenie dla Unii lub IGO stwarzającego zagrożenie dla Polski, rozprzestrzenionego na szeroką skalę, za podmiot władający, jeżeli: o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207), obowiązującego w dniu 1 stycznia roku, w którym podmiot władający otrzymał informację, o której mowa w art. 16 ust. 7, lub
-    - **a)** te działania zaradcze mają zostać przeprowadzone w stosunku do IGO, którego obecność w środowisku nie stwarza zagrożenia dla zdrowia ludzi, lub
-    - **b)** eliminacja IGO stwarzającego zagrożenie dla Unii lub IGO stwarzającego zagrożenie dla Polski, rozprzestrzenionego na szeroką skalę, nie wiąże się z kosztami wyższymi niż 25% minimalnego wynagrodzenia za pracę określonego na podstawie ustawy z dnia 10 października 2002 r.
-    - **c)** działania zaradcze dotyczą rośliny należącej do IGO stwarzającego zagrożenie dla Unii lub IGO stwarzającego zagrożenie dla Polski, rozprzestrzenionego na szeroką skalę, a powierzchnia zajmowana przez tę roślinę wynosi nie więcej niż 50% powierzchni nieruchomości, na której stwierdzono obecność tej rośliny, lub
-    - **d)** podmiot ten nie wykazał, że nie ma możliwości przeprowadzenia tych działań zaradczych we własnym zakresie;
+- **2)** może odmówić przeprowadzenia działań zaradczych w stosunku do IGO stwarzającego zagrożenie dla Unii lub IGO stwarzającego zagrożenie dla Polski, rozprzestrzenionego na szeroką skalę, za podmiot władający, jeżeli: te działania zaradcze mają zostać przeprowadzone w stosunku do IGO, którego obecność w środowisku nie stwarza zagrożenia dla zdrowia ludzi, lub eliminacja IGO stwarzającego zagrożenie dla Unii lub IGO stwarzającego zagrożenie dla Polski, rozprzestrzenionego na szeroką skalę, nie wiąże się z kosztami wyższymi niż 25% minimalnego wynagrodzenia za pracę określonego na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207), obowiązującego w dniu 1 stycznia roku, w którym podmiot władający otrzymał informację, o której mowa w art. 16 ust. 7, lub działania zaradcze dotyczą rośliny należącej do IGO stwarzającego zagrożenie dla Unii lub IGO stwarzającego zagrożenie dla Polski, rozprzestrzenionego na szeroką skalę, a powierzchnia zajmowana przez tę roślinę wynosi nie więcej niż 50% powierzchni nieruchomości, na której stwierdzono obecność tej rośliny, lub podmiot ten nie wykazał, że nie ma możliwości przeprowadzenia tych działań zaradczych we własnym zakresie;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **3)** odmawia przeprowadzenia tych działań zaradczych za podmiot władający, jeżeli obecność na nieruchomości, którą włada ten podmiot, IGO stwarzającego zagrożenie dla Unii lub IGO stwarzającego zagrożenie dla Polski, rozprzestrzenionego na szeroką skalę, jest spowodowana wprowadzeniem tego IGO do środowiska przez podmiot władający będący wnioskodawcą.
 
 7. Zadania, o których mowa w ust. 1 pkt 4 i ust. 6 pkt 1, są zadaniami własnymi gminy.
 
-8. W przypadku, o którym mowa w ust. 6 pkt 3, wójt, burmistrz albo prezydent miasta niezwłocznie powiadamia o wprowadzeniu IGO do środowiska przez podmiot władający, o którym mowa w ust. 2 pkt 2 lit. b, organy, o których mowa w art. 24 ust. 1 pkt 1 i 2 lit. a–e.
+8. W przypadku, o którym mowa w ust. 6 pkt 3, wójt, burmistrz albo prezydent miasta niezwłocznie powiadamia o wprowadzeniu IGO do środowiska przez podmiot władający, o którym mowa w ust. 2 pkt 2 lit. b, organy, o których mowa w art. 24 ust. 1 pkt 1 i 2 lit. a-e.
 
 9. Wójt, burmistrz albo prezydent miasta może, na koszt podmiotu władającego, o którym mowa w ust. 2 pkt 2 lit. b, przeprowadzić działania zaradcze, w przypadku gdy podmiot władający nie wystąpił do wójta, burmistrza albo prezydenta miasta z wnioskiem o zwolnienie z przeprowadzenia działań zaradczych ani nie przeprowadził działań zaradczych we własnym zakresie w terminie roku od dnia otrzymania od wójta, burmistrza albo prezydenta miasta informacji, o której mowa w art. 16 ust. 7. Do przeprowadzenia działań zaradczych na koszt podmiotu władającego, o którym mowa w ust. 2 pkt 2 lit. b, stosuje się przepisy art. 19 ust. 1, 2 i 6.
 
@@ -624,7 +1070,7 @@ Art. 37–48. (pominięte)
 
 11. Roszczenia wobec podmiotu władającego, o którym mowa w ust. 2 pkt 2 lit. b, o zwrot kosztów przeprowadzenia działań zaradczych, o których mowa w ust. 9, przedawniają się z upływem 6 lat od dnia zakończenia tych działań zaradczych.
 
-12. Do należności z tytułu obowiązku uiszczenia kosztów przeprowadzenia działań zaradczych stosuje się przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm. ), z tym że uprawnienia organów podatkowych przysługują wójtowi, burmistrzowi albo prezydentowi miasta, który przeprowadził działania zaradcze za podmiot władający, o którym mowa w ust. 2 pkt 2 lit. b.
+12. Do należności z tytułu obowiązku uiszczenia kosztów przeprowadzenia działań zaradczych stosuje się przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm.), z tym że uprawnienia organów podatkowych przysługują wójtowi, burmistrzowi albo prezydentowi miasta, który przeprowadził działania zaradcze za podmiot władający, o którym mowa w ust. 2 pkt 2 lit. b.
 
 13. Podmioty, o których mowa w ust. 2, zawiadamiają niezwłocznie wójta, burmistrza albo prezydenta miasta o przeprowadzeniu działań zaradczych we własnym zakresie. Zawiadomienie zawiera informacje, o których mowa w art. 6 ust. 2 pkt 3.
 
@@ -649,16 +1095,16 @@ Art. 37–48. (pominięte)
 
 1. Rada Ministrów określi, w drodze rozporządzenia:
 
-- **1)** listę IGO stwarzających zagrożenie dla Unii:
-    - **a)** podlegających szybkiej eliminacji,
-    - **b)** rozprzestrzenionych na szeroką skalę,
+- **1)** listę IGO stwarzających zagrożenie dla Unii: podlegających szybkiej eliminacji, rozprzestrzenionych na szeroką skalę,
+    - **a)**
+    - **b)**
 
-- **2)** listę IGO stwarzających zagrożenie dla Polski:
-    - **a)** podlegających szybkiej eliminacji,
-    - **b)** rozprzestrzenionych na szeroką skalę,
+- **2)** listę IGO stwarzających zagrożenie dla Polski: podlegających szybkiej eliminacji, rozprzestrzenionych na szeroką skalę,
+    - **a)**
+    - **b)**
 
 - **3)** działania zaradcze przeprowadzane w stosunku do IGO stwarzających zagrożenie dla Unii lub IGO stwarzających zagrożenie dla Polski oraz warunki ich przeprowadzania,
-- **4)** środki mające na celu przywrócenie naturalnego stanu ekosystemów, które zostały zdegradowane, uszkodzone lub zniszczone przez IGO – w stosunku do IGO stwarzających zagrożenie dla Unii lub IGO stwarzających zagrożenie dla Polski – kierując się potrzebą zapewnienia skutecznej ochrony środowiska przed IGO stwarzającymi zagrożenie dla Unii i IGO stwarzającymi zagrożenie dla Polski.
+- **4)** środki mające na celu przywrócenie naturalnego stanu ekosystemów, które zostały zdegradowane, uszkodzone lub zniszczone przez IGO – w stosunku do IGO stwarzających zagrożenie dla Unii lub IGO stwarzających zagrożenie dla Polski kierując się potrzebą zapewnienia skutecznej ochrony środowiska przed IGO stwarzającymi zagrożenie dla Unii i IGO stwarzającymi zagrożenie dla Polski.
 
 2. Przy opracowaniu projektu działań zaradczych w stosunku do IGO stwarzających zagrożenie dla Unii lub w stosunku do IGO stwarzających zagrożenie dla Polski oraz warunków ich przeprowadzenia zapewnia się możliwość udziału społeczeństwa na zasadach i w trybie określonych w dziale III rozdziale 3 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
@@ -669,13 +1115,13 @@ Art. 37–48. (pominięte)
 1. Jeżeli do środowiska został wprowadzony IGO stwarzający zagrożenie dla Unii lub IGO stwarzający zagrożenie dla Polski, działania zaradcze, na koszt sprawcy wprowadzenia tego IGO do środowiska, przeprowadza w stosunku do:
 
 - **1)** IGO podlegającego szybkiej eliminacji – organ właściwy do przeprowadzenia tych działań;
-- **2)** IGO rozprzestrzenionego na szeroką skalę:
-    - **a)** dyrektor parku narodowego – na obszarze tego parku narodowego,
-    - **b)** właściwy regionalny dyrektor ochrony środowiska – na obszarze rezerwatu przyrody, z wyłączeniem lasów stanowiących rezerwat przyrody,
-    - **c)** poza obszarami parku narodowego i rezerwatu przyrody: – Główny Inspektor Rybołówstwa Morskiego – na obszarze morskim, – właściwy dyrektor urzędu morskiego – na obszarze pasa technicznego,
-    - **d)** właściwy dyrektor regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe – w lasach będących w zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe,
-    - **e)** właściwy dyrektor regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie – na terenie zarządzanym przez Państwowe Gospodarstwo Wodne Wody Polskie,
-    - **f)** właściwy wójt, burmistrz albo prezydent miasta – na obszarach innych niż wymienione w lit. a–e.
+- **2)** IGO rozprzestrzenionego na szeroką skalę: dyrektor parku narodowego – na obszarze tego parku narodowego, właściwy regionalny dyrektor ochrony środowiska – na obszarze rezerwatu przyrody, z wyłączeniem lasów stanowiących rezerwat przyrody, poza obszarami parku narodowego i rezerwatu przyrody: – Główny Inspektor Rybołówstwa Morskiego – na obszarze morskim, – właściwy dyrektor urzędu morskiego – na obszarze pasa technicznego, właściwy dyrektor regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe – w lasach będących w zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe, właściwy dyrektor regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie – na terenie zarządzanym przez Państwowe Gospodarstwo Wodne Wody Polskie, właściwy wójt, burmistrz albo prezydent miasta – na obszarach innych niż wymienione w lit. a-e.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
 
 2. Organy, o których mowa w ust. 1, przeprowadzają działania zaradcze również w przypadku, gdy nie można ustalić sprawcy wprowadzenia do środowiska IGO stwarzającego zagrożenie dla Unii lub IGO stwarzającego zagrożenie dla Polski, podlegającego szybkiej eliminacji lub rozprzestrzenionego na szeroką skalę.
 
@@ -702,18 +1148,27 @@ Art. 37–48. (pominięte)
 
 #### Rozdział 7 Kontrole dotyczące IGO pochodzącego z terytorium państwa trzeciego
 
-**Art. 26.** Kontrole urzędowe w rozumieniu art. 47 rozporządzenia nr 2017/625 z dnia 15 marca 2017 r. w sprawie kontroli urzędowych i innych czynności urzędowych przeprowadzanych w celu zapewnienia stosowania prawa żywnościowego i paszowego oraz zasad dotyczących zdrowia i dobrostanu zwierząt, zdrowia roślin i środków ochrony roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001, (WE) nr 396/2005, (WE) nr 1069/2009, (WE) nr 1107/2009, (UE) nr 1151/2012, (UE) nr 652/2014, (UE) 2016/429 i (UE) 2016/2031, rozporządzenia Rady (WE) nr 1/2005 i (WE) nr 1099/2009 oraz dyrektywy Rady 98/58/WE, 1999/74/WE, 2007/43/WE, 2008/119/WE i 2008/120/WE, oraz uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 854/2004 i (WE) nr 882/2004, dyrektywy Rady 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/WE, 96/93/WE i 97/78/WE oraz decyzję Rady 92/438/EWG (Dz. Urz. UE L 95 z 07.04.2017, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem nr 2017/625”, są przeprowadzane przez:
+**Art. 26.** Kontrole urzędowe w rozumieniu art. 47 rozporządzenia nr 2017/625 z dnia 15 marca 2017 r. w sprawie kontroli urzędowych i innych czynności urzędowych przeprowadzanych w celu zapewnienia stosowania prawa żywnościowego i paszowego oraz zasad dotyczących zdrowia i dobrostanu zwierząt, zdrowia roślin i środków ochrony roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001, (WE) nr 396/2005, (WE) nr 1069/2009, (WE) nr 1107/2009, (UE) nr 1151/2012, (UE) nr 652/2014, (UE) 2016/429 i (UE) 2016/2031, rozporządzenia Rady (WE) nr 1/2005 i (WE) nr 1099/2009 oraz dyrektywy Rady 98/58/WE, 1999/74/WE, 2007/43/WE, 2008/119/WE i 2008/120/WE, oraz uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 854/2004 i (WE) nr 882/2004, dyrektywy Rady 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/WE, 96/93/WE i 97/78/WE oraz decyzję Rady 92/438/EWG (Dz. Urz. UE L 95 z 07.04.2017, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 2017/625”, są przeprowadzane przez:
+
+- **1)** granicznych lekarzy weterynarii w punktach kontroli granicznej – w odniesieniu do: zwierząt należących do IGO stwarzających zagrożenie dla Unii lub IGO stwarzających zagrożenie dla Polski i niejadalnych produktów pochodzenia zwierzęcego pochodzących od zwierząt należących do IGO stwarzających zagrożenie dla Unii oraz IGO stwarzających zagrożenie dla Polski, materiału biologicznego pochodzącego od zwierzęcia należącego do IGO stwarzającego zagrożenie dla Unii lub IGO stwarzającego zagrożenie dla Polski podlegających weterynaryjnej kontroli granicznej;
+    - **a)**
+    - **b)**
+
+- **2)** wojewódzkich inspektorów ochrony roślin i nasiennictwa – w odniesieniu do roślin należących do IGO stwarzających zagrożenie dla Unii lub IGO stwarzających zagrożenie dla Polski, podlegających kontroli, o której mowa w art. 47 ust. 1 lit. c rozporządzenia 2017/625.
 
 **Art. 27.** Organy celne przeprowadzają kontrole przemieszczania o charakterze niehandlowym z terytorium państwa trzeciego:
+
+- **1)** zwierząt domowych towarzyszących podróżnym, o których mowa w art. 24b ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2023 r. poz. 1075), należących do IGO stwarzających zagrożenie dla Unii lub IGO stwarzających zagrożenie dla Polski;
+- **2)** roślin należących do IGO stwarzających zagrożenie dla Unii lub IGO stwarzających zagrożenie dla Polski, jeżeli nie podlegają kontroli, o której mowa w art. 47 ust. 1 lit. c rozporządzenia nr 2017/625.
 
 **Art. 28.**
 
 1. Kontrole, o których mowa w:
 
 - **1)** art. 47 ust. 1 rozporządzenia nr 2017/625, obejmują weryfikację, czy przywożone z terytorium państwa trzeciego gatunki roślin i zwierząt są umieszczone na liście IGO stwarzających zagrożenie dla Polski oraz objęte zezwoleniem na odstępstwo od zakazu, o którym mowa w art. 7 ust. 2 pkt 1;
-- **2)** art. 27, obejmują weryfikację, czy przywożone z terytorium państwa trzeciego gatunki roślin i zwierząt są umieszczone:
-    - **a)** w wykazie IGO stwarzających zagrożenie dla Unii oraz objęte zezwoleniem na odstępstwo od zakazu, o którym mowa w art. 7 ust. 1 lit. a rozporządzenia nr 1143/2014,
-    - **b)** na liście IGO stwarzających zagrożenie dla Polski oraz objęte zezwoleniem na odstępstwo od zakazu, o którym mowa w art. 7 ust. 2 pkt 1.
+- **2)** art. 27, obejmują weryfikację, czy przywożone z terytorium państwa trzeciego gatunki roślin i zwierząt są umieszczone: w wykazie IGO stwarzających zagrożenie dla Unii oraz objęte zezwoleniem na odstępstwo od zakazu, o którym mowa w art. 7 ust. 1 lit. a rozporządzenia nr 1143/2014, na liście IGO stwarzających zagrożenie dla Polski oraz objęte zezwoleniem na odstępstwo od zakazu, o którym mowa w art. 7 ust. 2 pkt 1.
+    - **a)**
+    - **b)**
 
 2. Zezwolenie na odstępstwo od zakazu, o którym mowa w art. 7 ust. 1 lit. a rozporządzenia nr 1143/2014, oraz zezwolenie na odstępstwo od zakazu, o którym mowa w art. 7 ust. 2 pkt 1, przedstawia się podczas kontroli, o której mowa w art. 47 ust. 1 rozporządzenia nr 2017/625, oraz dołącza się do zgłoszenia celnego, a w przypadku gdy zgłoszenie celne jest dokonywane w formie ustnej – przedstawia się bez wezwania organowi celnemu podczas dokonywania zgłoszenia celnego.
 
@@ -740,29 +1195,47 @@ Art. 37–48. (pominięte)
 
 10. Badanie kliniczne oraz ocena, o których mowa w ust. 7 pkt 2, są przeprowadzane przez powiatowego lekarza weterynarii. Wyniki tego badania i tę ocenę powiatowy lekarz weterynarii przekazuje organowi celnemu.
 
+11. W przypadku gdy:
+
+- **1)** powiatowy lekarz weterynarii w wyniku czynności, o których mowa w ust. 7 pkt 2, stwierdzi, że zwierzę stwarza zagrożenie dla życia lub zdrowia ludzi lub zwierząt lub niemożliwy jest transport tego zwierzęcia,
+- **2)** niemożliwe jest przekazanie zwierzęcia do azylu dla zwierząt albo ogrodu zoologicznego organ celny przekazuje informacje w tym zakresie właściwemu regionalnemu dyrektorowi ochrony środowiska.
+
 11. W przypadku gdy powiatowy lekarz weterynarii w wyniku czynności, o których mowa w ust. 7 pkt 2, stwierdzi, że zwierzę stwarza zagrożenie dla życia lub zdrowia ludzi lub zwierząt lub że niemożliwy jest transport tego zwierzęcia, organ celny przekazuje informacje w tym zakresie właściwemu regionalnemu dyrektorowi ochrony środowiska.
 
 12. Regionalny dyrektor ochrony środowiska, w drodze decyzji, nakazuje podmiotowi dokonującemu przywozu zwierzęcia wskazanego w informacji, o której mowa w ust. 11, poddanie tego zwierzęcia uśmierceniu. Koszty uśmiercenia zwierzęcia ponosi podmiot dokonujący przywozu tego zwierzęcia. Decyzja podlega natychmiastowemu wykonaniu.
 
 13. Do uśmiercenia stosuje się przepisy art. 11 ust. 4 i 5.
 
+14. IGO będący zwierzęciem, wobec którego zastosowano art. 31 ust. 1 pkt 2 lub 3 ustawy z dnia 19 marca 2004 r. – Prawo celne, może zostać przekazany przez organ celny do azylu dla zwierząt albo ogrodu zoologicznego na koszt podmiotu dokonującego przywozu.
+
 14. IGO będący zwierzęciem, wobec którego zastosowano art. 31 ust. 1 pkt 2 albo 3 ustawy z dnia 19 marca 2004 r. – Prawo celne, może zostać przekazany przez organ celny do Centralnego Azylu dla Zwierząt, azylu dla zwierząt albo ogrodu zoologicznego na koszt podmiotu dokonującego przywozu.
 
+15. Organ celny przy przekazywaniu IGO będącego zwierzęciem, wobec którego zastosowano art. 31 ust. 1 pkt 2 albo 3 ustawy z dnia 19 marca 2004 r. – Prawo celne, do azylu dla zwierząt albo ogrodu zoologicznego współpracuje z podmiotami prowadzącymi dany azyl dla zwierząt albo ogród zoologiczny.
+
 15. Organ celny przy przekazywaniu IGO będącego zwierzęciem, wobec którego zastosowano art. 31 ust. 1 pkt 2 albo 3 ustawy z dnia 19 marca 2004 r. – Prawo celne, do Centralnego Azylu dla Zwierząt, azylu dla zwierząt albo ogrodu zoologicznego współpracuje z Centralnym Azylem dla Zwierząt lub podmiotami prowadzącymi azyl dla zwierząt lub ogród zoologiczny.
+
+16. Współpraca, o której mowa w ust. 15, polega zwłaszcza na:
+
+- **1)** odbiorze i transporcie zwierzęcia;
+- **2)** przekazywaniu informacji dotyczących zwierzęcia, w tym o: poniesionych kosztach jego transportu, wyżywienia, opieki weterynaryjnej lub uśmiercenia, uśmierceniu albo padnięciu zwierzęcia.
+    - **a)**
+    - **b)**
 
 16. Współpraca, o której mowa w ust. 15, polega w szczególności na:
 
 - **1)** odbiorze i transporcie zwierzęcia przez Centralny Azyl dla Zwierząt lub podmioty prowadzące azyl dla zwierząt albo ogród zoologiczny;
-- **2)** przekazywaniu informacji dotyczących zwierzęcia, w tym o:
-    - **a)** poniesionych kosztach jego transportu, wyżywienia, opieki weterynaryjnej nad nim, jego kwarantanny lub izolacji, znakowania lub uśmiercenia, w tym utylizacji zwłok,
-    - **b)** uśmierceniu albo padnięciu zwierzęcia.
+- **2)** przekazywaniu informacji dotyczących zwierzęcia, w tym o: poniesionych kosztach jego transportu, wyżywienia, opieki weterynaryjnej nad nim, jego kwarantanny lub izolacji, znakowania lub uśmiercenia, w tym utylizacji zwłok, uśmierceniu albo padnięciu zwierzęcia.
+    - **a)**
+    - **b)**
 
 17. Za odbiór i transport IGO będącego zwierzęciem, wobec którego zastosowano art. 31 ust. 1 pkt 2 albo 3 ustawy z dnia 19 marca 2004 r. – Prawo celne, odpowiada podmiot, do którego to zwierzę zostanie przekazane.
 
-18. Podmiot dokonujący przywozu IGO będącego zwierzęciem, wobec którego zastosowano art. 31 ust. 1 pkt 2 albo 3 ustawy z dnia 19 marca 2004 r. – Prawo celne, ponosi koszty utrzymywania tego zwierzęcia, o których mowa w ust. 16 pkt 2 lit. a, poniesione przez podmioty, o których mowa w ust. 15, do czasu:
+18. Podmiot dokonujący przywozu IGO będącego zwierzęciem, wobec którego zastosowano art. 31 ust. 1 pkt 2 lub 3 ustawy z dnia 19 marca 2004 r. – Prawo celne, ponosi koszty utrzymywania tego zwierzęcia w azylu dla zwierząt albo ogrodzie zoologicznym do czasu: Podmiot dokonujący przywozu IGO będącego zwierzęciem, wobec którego zastosowano art. 31 ust. 1 pkt 2 albo 3 ustawy z dnia 19 marca 2004 r. – Prawo celne, ponosi koszty utrzymywania tego zwierzęcia, o których mowa w ust. 16 pkt 2 lit. a, poniesione przez podmioty, o których mowa w ust. 15, do czasu:
 
 - **1)** prawomocnego orzeczenia o przepadku tego zwierzęcia na rzecz Skarbu Państwa;
 - **2)** zrzeczenia się tego zwierzęcia na rzecz Skarbu Państwa – w przypadku, o którym mowa w ust. 14.
+
+19. Organ celny ustala, w drodze decyzji, wysokość kosztów, o których mowa w ust. 4, 14 i 18, uwzględniając poniesione koszty transportu, wyżywienia, opieki weterynaryjnej lub uśmiercenia.
 
 19. Organ celny ustala, w drodze decyzji, wysokość kosztów, o których mowa w ust. 4, 14 i 18, uwzględniając poniesione koszty transportu, wyżywienia, opieki weterynaryjnej, kwarantanny lub izolacji, znakowania lub uśmiercenia, w tym utylizacji zwłok.
 
@@ -778,13 +1251,13 @@ Art. 37–48. (pominięte)
 
 1. Rada Ministrów może określić, w drodze rozporządzenia:
 
-- **1)** listę IGO, które prawdopodobnie spełniają kryteria uznania ich za stwarzające zagrożenie dla Unii zgodnie z art. 10 ust. 1 rozporządzenia nr 1143/2014:
-    - **a)** podlegających szybkiej eliminacji,
-    - **b)** rozprzestrzenionych na szeroką skalę,
+- **1)** listę IGO, które prawdopodobnie spełniają kryteria uznania ich za stwarzające zagrożenie dla Unii zgodnie z art. 10 ust. 1 rozporządzenia nr 1143/2014: podlegających szybkiej eliminacji, rozprzestrzenionych na szeroką skalę,
+    - **a)**
+    - **b)**
 
 - **2)** zakazy obowiązujące wobec IGO, o których mowa w pkt 1, wybrane spośród zakazów, o których mowa w art. 7 ust. 1 rozporządzenia nr 1143/2014,
 - **3)** działania zaradcze w stosunku do IGO, o których mowa w pkt 1, oraz warunki ich przeprowadzenia,
-- **4)** środki mające na celu przywrócenie naturalnego stanu ekosystemów, które zostały zdegradowane, uszkodzone lub zniszczone przez IGO – w stosunku do poszczególnych IGO lub grup IGO, o których mowa w pkt 1 – kierując się potrzebą zapewnienia skutecznej ochrony środowiska przed IGO, które prawdopodobnie spełniają kryteria uznania ich za stwarzające zagrożenie dla Unii.
+- **4)** środki mające na celu przywrócenie naturalnego stanu ekosystemów, które zostały zdegradowane, uszkodzone lub zniszczone przez IGO – w stosunku do poszczególnych IGO lub grup IGO, o których mowa w pkt 1 kierując się potrzebą zapewnienia skutecznej ochrony środowiska przed IGO, które prawdopodobnie spełniają kryteria uznania ich za stwarzające zagrożenie dla Unii.
 
 2. Przy opracowaniu projektu działań zaradczych w stosunku do IGO, które prawdopodobnie spełniają kryteria uznania ich za stwarzające zagrożenie dla Unii zgodnie z art. 10 ust. 1 rozporządzenia nr 1143/2014, oraz warunków ich przeprowadzenia zapewnia się możliwość udziału społeczeństwa na zasadach i w trybie określonych w dziale III rozdziale 3 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
@@ -806,7 +1279,7 @@ Art. 37–48. (pominięte)
 
 - **1)** zakaz, o którym mowa w art. 7 ust. 1, wprowadzając do środowiska lub przemieszczając do środowiska IGO stwarzający zagrożenie dla Polski,
 - **2)** zakazy, o których mowa w art. 7 ust. 1 rozporządzenia nr 1143/2014,
-- **3)** zakazy, o których mowa w art. 7 ust. 2 – podlega administracyjnej karze pieniężnej w wysokości do 1 000 000 złotych.
+- **3)** zakazy, o których mowa w art. 7 ust. 2 podlega administracyjnej karze pieniężnej w wysokości do 1 000 000 złotych.
 
 2. Administracyjną karę pieniężną wymierza regionalny dyrektor ochrony środowiska właściwy ze względu na miejsce naruszenia.
 
@@ -837,27 +1310,26 @@ Art. 37–48. (pominięte)
 - **3)** narusza zakazy, o których mowa w art. 7 ust. 2,
 - **4)** wykonuje czynności objęte zezwoleniem na odstępstwo od zakazów, o których mowa w art. 7 ust. 1 rozporządzenia nr 1143/2014, albo zezwoleniem na odstępstwo od zakazów, o których mowa w art. 7 ust. 2, z naruszeniem warunków, sposobu, miejsca i czasu ich wykonywania określonych w tych zezwoleniach, w tym warunków wykonania czynności niezbędnych do zmniejszenia ryzyka ucieczki lub rozprzestrzenienia się IGO objętego tymi zezwoleniami,
 - **5)** wbrew wymaganiom określonym w przepisach art. 12 ust. 1, 2 lub 4 sprzedaje albo przekazuje zwierzę lub roślinę podmiotowi, który nie uzyskał zezwolenia na odstępstwo od zakazów, o których mowa w art. 7 ust. 1 lit. b oraz d rozporządzenia nr 1143/2014, lub zezwolenia na odstępstwo od zakazów, o których mowa w art. 7 ust. 2 pkt 2 i 3,
-- **6)** wbrew obowiązkowi określonemu w art. 12 ust. 5 nie poddaje uśmierceniu zwierzęcia lub nie unieszkodliwia rośliny w warunkach uniemożliwiających rozprzestrzenienie się tego zwierzęcia lub tej rośliny – podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+- **6)** wbrew obowiązkowi określonemu w art. 12 ust. 5 nie poddaje uśmierceniu zwierzęcia lub nie unieszkodliwia rośliny w warunkach uniemożliwiających rozprzestrzenienie się tego zwierzęcia lub tej rośliny podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
 
 2. Jeżeli sprawca czynu określonego w ust. 1 działa nieumyślnie, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
 3. W przypadku skazania za przestępstwo określone w ust. 1 lub 2 sąd może orzec przepadek przedmiotów służących do popełnienia przestępstwa oraz gatunku obcego pochodzącego z przestępstwa, chociażby nie stanowiły własności sprawcy.
-
-**Art. 35.**
 
 1. Kto:
 
 - **1)** narusza zakaz, o którym mowa w art. 7 ust. 1, wprowadzając do środowiska lub przemieszczając w środowisku gatunek obcy inny niż IGO stwarzający zagrożenie dla Unii lub IGO stwarzający zagrożenie dla Polski,
 - **2)** wbrew obowiązkowi określonemu w art. 28 ust. 2 nie przedstawia podczas kontroli, o której mowa w art. 47 ust. 1 rozporządzenia nr 2017/625, zezwolenia na odstępstwo od zakazu, o którym mowa w art. 7 ust. 2 pkt 1, albo zezwolenia na odstępstwo od zakazu, o którym mowa w art. 7 ust. 1 lit. a rozporządzenia nr 1143/2014, w przypadku wwożenia do Unii Europejskiej lub wywożenia poza obszar celny Unii Europejskiej IGO stwarzającego zagrożenie dla Unii lub IGO stwarzającego zagrożenie dla Polski, lub nie dołącza tego zezwolenia do zgłoszenia celnego, a w przypadku gdy zgłoszenie celne jest dokonywane w formie ustnej – nie przedstawia tego zezwolenia bez wezwania organowi celnemu podczas dokonywania zgłoszenia celnego,
 - **3)** wbrew obowiązkowi określonemu w art. 7 ust. 4, nie dokonuje eliminacji gatunku obcego ze środowiska po zakończeniu jego użytkowania w sposób uniemożliwiający jego późniejsze rozprzestrzenienie się,
-- **4)** wbrew obowiązkom określonym w art. 11 ust. 1:
-    - **a)** zatrzymuje zwierzę do jego naturalnej śmierci, nie posiadając zezwolenia na odstępstwo od zakazów, o których mowa w art. 7 ust. 1 lit. b oraz d rozporządzenia nr 1143/2014, albo zezwolenia na odstępstwo od zakazów, o których mowa w art. 7 ust. 2 pkt 2 i 3, albo
-    - **b)** nie przekazuje zwierzęcia: – podmiotowi, który posiada zezwolenie na odstępstwo od zakazów, o których mowa w art. 7 ust. 1 lit. b oraz d rozporządzenia nr 1143/2014, – podmiotowi, który posiada zezwolenie na odstępstwo od zakazów, o których mowa w art. 7 ust. 2 pkt 2 i 3, – do Centralnego Azylu dla Zwierząt albo – do azylu dla zwierząt, albo
-    - **c)** nie poddaje zwierzęcia uśmierceniu,
+- **4)** wbrew obowiązkom określonym w art. 11 ust. 1: zatrzymuje zwierzę do jego naturalnej śmierci, nie posiadając zezwolenia na odstępstwo od zakazów, o których mowa w art. 7 ust. 1 lit. b oraz d rozporządzenia nr 1143/2014, albo zezwolenia na odstępstwo od zakazów, o których mowa w art. 7 ust. 2 pkt 2 i 3, albo nie przekazuje zwierzęcia podmiotowi, który uzyskał zezwolenie na odstępstwo od zakazów, o których mowa w art. 7 ust. 1 lit. b oraz d rozporządzenia nr 1143/2014, albo zezwolenia na odstępstwo od zakazów, o których mowa w art. 7 ust. 2 pkt 2 i 3, albo do azylu dla zwierząt, albo nie przekazuje zwierzęcia: – podmiotowi, który posiada zezwolenie na odstępstwo od zakazów, o których mowa w art. 7 ust. 1 lit. b oraz d rozporządzenia nr 1143/2014, – podmiotowi, który posiada zezwolenie na odstępstwo od zakazów, o których mowa w art. 7 ust. 2 pkt 2 i 3, – do Centralnego Azylu dla Zwierząt albo – do azylu dla zwierząt, albo nie poddaje zwierzęcia uśmierceniu,
+    - **a)**
+    - **b)**
+    - **b)**
+    - **c)**
 
 - **5)** wbrew obowiązkowi określonemu w art. 12 ust. 3, nie zapewnia przetrzymywania i przemieszczania zapasu IGO w obiekcie izolowanym lub nie podejmuje niezbędnych środków uniemożliwiających rozmnażanie się lub ucieczkę IGO objętego tym zapasem IGO,
 - **6)** nie oznakowuje zwierzęcia należącego do IGO stwarzającego zagrożenie dla Unii lub do IGO stwarzającego zagrożenie dla Polski lub nie dokumentuje indywidualnych cech takiego zwierzęcia zgodnie z art. 14,
-- **7)** wbrew obowiązkowi określonemu w art. 14 ust. 10, nie przekazuje, w terminie określonym w tym przepisie, organowi, który wydał zezwolenie, kopii zaświadczenia o wszczepieniu mikroczipa albo kopii dokumentu potwierdzającego wszczepienie mikroczipa, zawierającego numer wszczepionego mikroczipa – podlega karze aresztu albo grzywny.
+- **7)** wbrew obowiązkowi określonemu w art. 14 ust. 10, nie przekazuje, w terminie określonym w tym przepisie, organowi, który wydał zezwolenie, kopii zaświadczenia o wszczepieniu mikroczipa albo kopii dokumentu potwierdzającego wszczepienie mikroczipa, zawierającego numer wszczepionego mikroczipa podlega karze aresztu albo grzywny.
 
 2. W przypadku ukarania za wykroczenie określone w ust. 1 sąd może orzec przepadek przedmiotów służących do popełnienia wykroczenia oraz gatunku obcego pochodzącego z wykroczenia, chociażby nie stanowiły własności sprawcy.
 
@@ -867,9 +1339,9 @@ Art. 37–48. (pominięte)
 
 2. Regionalny dyrektor ochrony środowiska właściwy ze względu na miejsce przetrzymywania gatunku obcego, którego przepadek orzekł sąd, wyznacza, w drodze decyzji, termin przekazania tego gatunku obcego oraz podmiot, któremu zostanie przekazany gatunek obcy:
 
-- **1)** spełniający warunki określone w:
-    - **a)** art. 8 ust. 2 i 3 rozporządzenia nr 1143/2014 – w przypadku IGO stwarzającego zagrożenie dla Unii,
-    - **b)** art. 8 ust. 8 – w przypadku IGO stwarzającego zagrożenie dla Polski;
+- **1)** spełniający warunki określone w: art. 8 ust. 2 i 3 rozporządzenia nr 1143/2014 – w przypadku IGO stwarzającego zagrożenie dla Unii, art. 8 ust. 8 – w przypadku IGO stwarzającego zagrożenie dla Polski;
+    - **a)**
+    - **b)**
 
 - **2)** dający rękojmię przetrzymywania gatunku obcego w warunkach zapewniających jego dobrostan – w przypadku gatunku obcego innego niż IGO stwarzający zagrożenie dla Unii lub IGO stwarzający zagrożenie dla Polski.
 
@@ -888,7 +1360,7 @@ Art. 37–48. (pominięte)
 1. Zwierzę, o którym mowa w art. 73 ust. 3 ustawy zmienianej w art. 44, które w dniu wejścia w życie niniejszej ustawy jest przetrzymywane w cyrku, podmiot prowadzący cyrk:
 
 - **1)** zgłasza regionalnemu dyrektorowi ochrony środowiska właściwemu ze względu na miejsce zarejestrowania działalności cyrkowej albo
-- **2)** przekazuje podmiotowi uprawnionemu do przetrzymywania tego zwierzęcia – w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+- **2)** przekazuje podmiotowi uprawnionemu do przetrzymywania tego zwierzęcia w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 2. Do zwierzęcia zgłoszonego zgodnie z ust. 1 pkt 1 stosuje się art. 73 ust. 2 ustawy zmienianej w art. 44 w brzmieniu dotychczasowym.
 
@@ -923,7 +1395,7 @@ Art. 37–48. (pominięte)
 - **2)** nazwę naukową IGO oraz nazwę polską, jeżeli nazwa polska istnieje,
 - **3)** liczbę lub ilość okazów IGO, którego dotyczą czynności objęte tym zezwoleniem,
 - **4)** nazwę, cel, miejsce i czas wykonania czynności objętych tym zezwoleniem,
-- **5)** numer tego zezwolenia – gromadzi się w Rejestrze IGO.
+- **5)** numer tego zezwolenia gromadzi się w Rejestrze IGO.
 
 **Art. 52.** Zezwolenia wydane na podstawie art. 120 ust. 2 ustawy zmienianej w art. 44 dotyczące IGO, które zostały umieszczone w wykazie IGO stwarzających zagrożenie dla Unii, wygasają po upływie 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
@@ -939,7 +1411,7 @@ Art. 37–48. (pominięte)
 
 **Art. 58.**
 
-1. Generalny Dyrektor Ochrony Środowiska wprowadza do Rejestru IGO informacje, o których mowa w art. 6 ust. 2 pkt 1 lit. a–c, dotyczące stwierdzenia obecności IGO w środowisku, uzyskane przed dniem wejścia w życie ustawy, w terminie 6 miesięcy od dnia wejścia w życie ustawy.
+1. Generalny Dyrektor Ochrony Środowiska wprowadza do Rejestru IGO informacje, o których mowa w art. 6 ust. 2 pkt 1 lit. a-c, dotyczące stwierdzenia obecności IGO w środowisku, uzyskane przed dniem wejścia w życie ustawy, w terminie 6 miesięcy od dnia wejścia w życie ustawy.
 
 2. Regionalny dyrektor ochrony środowiska wprowadza do Rejestru IGO informacje, o których mowa w art. 51 ust. 2, w terminie 6 miesięcy od dnia wejścia w życie ustawy.
 
@@ -949,5 +1421,9 @@ Art. 37–48. (pominięte)
 
 2. Do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 23 ust. 1 gatunki wymienione w przepisach wykonawczych wydanych na podstawie art. 120 ust. 2f ustawy zmienianej w art. 44, które nie są wymienione w wykazie IGO stwarzających zagrożenie dla Unii, uznaje się za IGO stwarzające zagrożenie dla Polski.
 
-**Art. 60.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia , z wyjątkiem:
+**Art. 60.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 43, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;
+- **2)** art. 40 pkt 6, który wchodzi w życie z dniem 1 kwietnia 2022 r.
+
 

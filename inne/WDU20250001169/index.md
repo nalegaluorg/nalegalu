@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# o ustalaniu wysokości emerytur z Funduszu Ubezpieczeń Społecznych ustalonych w czerwcu w latach 2009–2019 oraz rent rodzinnych po ubezpieczonych, którym ustalono emerytury w czerwcu w latach 2009–2019
-
-*USTAWA z dnia 5 sierpnia 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 sierpnia 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,19 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2025-08-05 |
 | Data wydania | 2025-08-25 |
+| Wejście w życie | 2026-01-01 |
 | Ostatnia zmiana | 2025-08-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001169) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1169/text.pdf) |
 
+Poz. 1169
+USTAWA z dnia 5 sierpnia 2025 r.
+o ustalaniu wysokości emerytur z Funduszu Ubezpieczeń Społecznych ustalonych w czerwcu w latach 2009–2019 oraz rent rodzinnych po ubezpieczonych, którym ustalono emerytury w czerwcu w latach 2009–2019
+
 **Art. 1.** Ustawa określa zasady ustalania wysokości:
+
+- **1)** emerytur ustalonych w czerwcu w latach 2009–2019 na podstawie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674 oraz z 2025 r. poz. 718, 769 i 1159);
+- **2)** rent rodzinnych przysługujących uprawnionym osobom na podstawie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych po ubezpieczonych, którym ustalono emerytury w czerwcu w latach 2009–2019;
+- **3)** rent rodzinnych przysługujących uprawnionym osobom na podstawie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych po ubezpieczonych, którzy osiągnęli wiek emerytalny określony w art. 24 ust. 1 tej ustawy i zmarli w czerwcu w latach 2009–2019 oraz nie mieli ustalonego prawa do emerytury.
 
 **Art. 2.**
 
@@ -47,7 +54,7 @@ source: "isap-pdf"
 
 2. Zakład Ubezpieczeń Społecznych podejmuje z urzędu postępowanie zawieszone z przyczyny określonej w ust. 1 w przypadku prawomocnego zakończenia postępowania w tej sprawie.
 
-**Art. 5.** Postępowania administracyjne i cywilne w sprawie ustalenia wysokości emerytury lub renty rodzinnej, o których mowa w art. 1, w celu uwzględnienia art. 25a ust. 2 pkt 2 oraz ust. 2a i 2b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy, toczą się do czasu uprawomocnienia się kończących je decyzji lub orzeczeń.
+**Art. 5.** Postępowania administracyjne i cywilne w sprawie ustalenia wysokości emerytury lub renty rodzinnej, o których mowa w art. 1, w celu uwzględnienia art. 25a ust. 2 pkt 2 oraz ust. 2a i 2b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy, toczą się do czasu uprawomocnienia się kończących je decyzji lub orzeczeń. Dziennik Ustaw – 2 – Poz. 1169
 
 **Art. 6.** Od dnia wejścia w życie niniejszej ustawy nie wszczyna się innych niż określone w niniejszej ustawie postępowań administracyjnych i cywilnych w sprawie ustalenia wysokości emerytury lub renty rodzinnej, o których mowa w art. 1, w celu uwzględnienia art. 25a ust. 2 pkt 2 oraz ust. 2a i 2b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 

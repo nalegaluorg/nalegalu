@@ -8,12 +8,10 @@ pos: 13
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o publicznym transporcie zbiorowym
-
-*USTAWA z dnia 16 grudnia 2010 r.*
+# Ustawa z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym
 
 | Pole | Wartość |
 |---|---|
@@ -24,77 +22,228 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2010-12-16 |
 | Data wydania | 2011-01-07 |
+| Wejście w życie | 2011-03-01 |
 | Ostatnia zmiana | 2026-04-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110050013) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/13/text.pdf) |
 
-Art. 66–76. (pominięte)
+Treść ustawy Dział I – Przepisy ogólne Dział II – Organizacja publicznego transportu zbiorowego Rozdział 1 – Organizator publicznego transportu zbiorowego Rozdział 2 – Plan zrównoważonego rozwoju publicznego transportu zbiorowego Rozdział 3 – Organizowanie publicznego transportu zbiorowego Rozdział 4 – Zarządzanie publicznym transportem zbiorowym Rozdział 5 – Funkcjonowanie publicznego transportu zbiorowego Rozdział 6 – Finansowanie przewozów o charakterze użyteczności publicznej Dział III – Skarga i kary pieniężne Rozdział 1 – Postępowanie skargowe Rozdział 2 – Kary pieniężne Dział IV – Zmiany w przepisach obowiązujących Dział V – Przepisy przejściowe i końcowe
+Umowy o świadczenie usług publicznych zawierane są przez organizatorów publicznego transportu kolejowego wyłącznie na podstawie i w zakresie określonym w obowiązujących planach transportowych.
+Otwarty dostęp dla pasażerskich przewozów kolejowych
+Przewóz osób w transporcie kolejowym niebędący przewozem o charakterze użyteczności publicznej może być wykonywany przez przewoźnika kolejowego na podstawie decyzji o przyznaniu otwartego dostępu.
+1.
+Decyzję w sprawie wykonywania przez przewoźnika kolejowego przewozów w ramach otwartego dostępu na danej trasie wydaje, za opłatą, Prezes UTK na podstawie wniosku złożonego przez przewoźnika kolejowego, po przeprowadzeniu analizy wpływu działalności określonej we wniosku na warunki ekonomiczne usług świadczonych na tej samej linii na podstawie umowy o świadczenie usług publicznych.
+2.
+Decyzja o przyznaniu otwartego dostępu jest wydawana na okres nieprzekraczający 5 lat.
+3.
+Opłata, o której mowa w ust. 1, stanowi dochód budżetu państwa.
+W decyzji o przyznaniu otwartego dostępu określa się w szczególności:
+1)
+przedsiębiorcę, jego siedzibę i adres;
+2)
+linię kolejową lub linie kolejowe, na których mają być realizowane przewozy w ramach otwartego dostępu;
+3)
+okres, na jaki decyzja została wydana;
+4)
+warunki oraz zakres wykorzystywania dostępu do linii kolejowej lub linii kolejowych.
+1.
+Prezes UTK cofa decyzję o przyznaniu otwartego dostępu w przypadku:
+1)
+wystąpienia rażącego naruszenia warunków określonych w decyzji;
+2)
+zaprzestania wykonywania przewozów przez co najmniej 6 miesięcy z przyczyn leżących po stronie przewoźnika kolejowego.
+2.
+Decyzja o przyznaniu otwartego dostępu wygasa w przypadku:
+1)
+cofnięcia uprawnienia do podejmowania i wykonywania działalności w zakresie transportu kolejowego;
+2)
+likwidacji albo ogłoszenia upadłości przedsiębiorcy, któremu decyzja została wydana;
+3)
+upływu okresu, na jaki decyzja została wydana;
+4)
+zrzeczenia się wykonywania przewozu przez przewoźnika, któremu decyzja została wydana, i wydania decyzji o jej wygaśnięciu.
+W przypadku odwołań od decyzji, o których mowa w art. 28r ust. 1 oraz art. 28t, przepis art. 14 ust. 5 stosuje się odpowiednio.
+Prezes UTK dokonuje okresowej kontroli działalności przewoźników kolejowych wykonujących usługę w ramach otwartego dostępu w zakresie warunków jej wykonywania określonych w decyzji o przyznaniu otwartego dostępu.
+1.
+Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
+1)
+dokumenty i informacje, jakie należy dołączyć do wniosku o wydanie decyzji o przyznaniu otwartego dostępu;
+2)
+wysokość opłaty za wydanie decyzji o przyznaniu otwartego dostępu, która nie może być wyższa niż równowartość w złotych 5 000 euro.
+2.
+Wydając rozporządzenie, o którym mowa w ust. 1, minister uwzględnia:
+1)
+zakres danych i informacji niezbędnych do wydania decyzji o przyznaniu otwartego dostępu;
+2)
+zakres i pracochłonność czynności do przeprowadzenia analizy, o której mowa w art. 28r ust. 1;
+3)
+okres ważności decyzji o przyznaniu otwartego dostępu;
+4)
+zasięg wykonywanego przewozu.
+Okazjonalny przewóz na linii kolejowej realizowany jest w granicach wolnej przepustowości infrastruktury.
+1.
+Podmiot zainteresowany realizowaniem przewozu okazjonalnego składa wniosek do zarządcy co najmniej na 7 dni przed planowanym przewozem.
+2.
+Zarządca, w ramach wolnej przepustowości infrastruktury, uwzględnia wniosek i określa szczegóły wykonania przewozu w umowie o udostępnienie infrastruktury kolejowej.
+” ;
+9)
+w art. 29:
+a)
+po ust. 1b dodaje się ust. 1c i 1d w brzmieniu:
+„
+1c.
+Przewoźnik kolejowy nabywa prawo do korzystania z przydzielonych w rozkładzie jazdy tras pociągów po zawarciu umowy o udostępnienie infrastruktury kolejowej. W zakresie pasażerskich przewozów kolejowych zarządca zawiera umowę o udostępnienie infrastruktury z przewoźnikiem kolejowym, który zawarł umowę o świadczenie usług publicznych, uzyskał decyzję o przyznaniu otwartego dostępu albo uwzględniono jego wniosek na wykonanie przewozu okazjonalnego.
+1d.
+Przydzielenie trasy przejazdów pociągu przez zarządcę infrastruktury w zakresie pasażerskich przewozów kolejowych możliwe jest na podstawie:
+1)
+umowy o świadczenie usług publicznych;
+2)
+decyzji o przyznaniu otwartego dostępu;
+3)
+uwzględnionego wniosku na wykonanie przewozu okazjonalnego.
+” ,
+b)
+uchyla się ust. 3,
+c)
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+„
+3a.
+W zakresie pasażerskich przewozów kolejowych zarządca w okresie obowiązywania umowy o udostępnienie infrastruktury kolejowej albo umowy ramowej obowiązany jest zachować parametry linii kolejowej i czas przejazdu pociągów zgodnie z danymi przekazanymi organizatorom publicznego transportu kolejowego w trybie art. 5b.
+” ;
+10)
+w art. 30:
+a)
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+„
+1a.
+W zakresie pasażerskich przewozów kolejowych, zarządca planuje trasy pociągów w rozkładzie jazdy pociągów na podstawie zawartych umów o świadczenie usług publicznych lub decyzji o przyznaniu otwartego dostępu.
+” ,
+b)
+ust. 2 otrzymuje brzmienie:
+„
+2.
+Zarządca przydziela trasy pociągów przewoźnikom kolejowym uwzględniając:
+1)
+pierwszeństwo przewozu osób;
+2)
+ogłoszone plany transportowe lub zawarte umowy o świadczenie usług publicznych;
+3)
+obowiązek wykonywania przewozu nałożony przepisami prawa przewozowego;
+4)
+umowy ramowe w zakresie przewozu rzeczy.
+” ,
+c)
+uchyla się ust. 2a,
+d)
+ust. 2b otrzymuje brzmienie:
+„
+2b.
+Zarządca przed dokonaniem przydziału tras pociągów w rozkładzie jazdy dla przewozu osób dokonuje, w miarę potrzeby, koordynacji połączeń z udziałem zainteresowanych przewoźników.
+” ,
+e)
+uchyla się ust. 2c,
+f)
+ust. 5b otrzymuje brzmienie:
+„
+5b.
+Zmiany rozkładu jazdy nieprzewidziane w trakcie jego tworzenia są wprowadzane z inicjatywy zarządcy infrastruktury lub na wniosek przewoźnika. Zmiana rozkładu jazdy pociągów następuje o północy w drugą sobotę czerwca. Zarządcy mogą uzgodnić inne daty; w przypadku gdy może to naruszyć ruch międzynarodowy, informują o tym organy krajowe właściwe w sprawie kontroli granicznej i kontroli celnej oraz Komisję Europejską.
+” ,
+g)
+ust. 7 otrzymuje brzmienie:
+„
+7.
+Przydział tras pociągów na okres krótszy niż czas obowiązywania rozkładu jazdy pociągów, na które przewoźnik złożył wnioski w innym niż określony w ust. 1 terminie, może nastąpić wyłącznie w miarę wolnej zdolności przepustowej.
+” ;
+11)
+w art. 31 ust. 1 otrzymuje brzmienie:
+„
+1.
+Sposób i warunki korzystania z tras pociągów przydzielonych w rozkładzie jazdy pociągów określa umowa, o której mowa w art. 29 ust. 1c
+” ;
+12)
+w art. 33 ust. 4a otrzymuje brzmienie:
+„
+4a.
+Zarządca może stosować minimalną stawkę jednostkową opłaty podstawowej. Minimalną stawkę stosuje się na jednakowych zasadach wobec wszystkich przewoźników kolejowych osób za korzystanie z infrastruktury kolejowej związane z działalnością wykonywaną zgodnie z umową o świadczenie usług publicznych.
+” ;
+13)
+w art. 37 w ust. 2 uchyla się pkt 1;
+14)
+uchyla się art. 39–40a;
+15)
+w art. 66 w ust. 1 w pkt 1 po lit. c średnik zastępuje się przecinkiem i dodaje się lit. d i e w brzmieniu:
+„
+d)
+nie przedstawi organizatorowi publicznego transportu kolejowego informacji, o których mowa w art. 5b,
+e)
+wbrew ustawowym przesłankom wyraził zgodę na realizowanie przejazdu okazjonalnego;
+” .
 
-### DZIAŁ I Przepisy ogólne
+### Dział I Przepisy ogólne
 
 **Art. 1.**
 
 1. Ustawa określa zasady organizacji i funkcjonowania regularnego przewozu osób w publicznym transporcie zbiorowym realizowanego na terytorium Rzeczypospolitej Polskiej oraz w strefie transgranicznej, w transporcie drogowym, kolejowym, innym szynowym, linowym, linowo-terenowym, morskim oraz w żegludze śródlądowej.
 
-2. Ustawa określa także zasady finansowania regularnego przewozu osób w publicznym transporcie zbiorowym, realizowanego na terytorium Rzeczypospolitej Polskiej w transporcie, o którym mowa w ust. 1.
+2. Ustawa określa także zasady finansowania regularnego przewozu osób w publicznym transporcie zbiorowym, w zakresie przewozów o charakterze użyteczności publicznej, realizowanego na terytorium Rzeczypospolitej Polskiej w transporcie, o którym mowa w ust. 1.
 
 **Art. 2.** Przepisów ustawy nie stosuje się do regularnego przewozu osób realizowanego w:
+
+- **1)** międzynarodowym transporcie drogowym;
+- **2)** międzynarodowym transporcie morskim;
+- **3)** międzynarodowej żegludze śródlądowej;
+- **4)** celach turystycznych.
 
 **Art. 3.**
 
 1. Przepisy ustawy stosuje się z uwzględnieniem przepisów:
 
 - **1)** rozporządzenia (WE) nr 1370/2007 Parlamentu Europejskiego i Rady z dnia 23 października 2007 r. dotyczącego usług publicznych w zakresie kolejowego i drogowego transportu pasażerskiego oraz uchylającego rozporządzenia Rady (EWG) nr 1191/69 i (EWG) nr 1107/70 (Dz. Urz. UE L 315 z 03.12.2007, str. 1), zwanego dalej „rozporządzeniem (WE) nr 1370/2007”;
-- **2)** rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/782 z dnia 29 kwietnia 2021 r. dotyczącego praw i obowiązków pasażerów w ruchu kolejowym (Dz. Urz. UE L 172 z 17.05.2021, str. 1);
-- **3)** (uchylony)
+- **2)** rozporządzenia (WE) nr 1371/2007 Parlamentu Europejskiego i Rady z dnia 23 października 2007 r. dotyczącego praw i obowiązków pasażerów w ruchu kolejowym (Dz. Urz. UE L 315 z 03.12.2007, str. 14, z późn. zm.), zwanego dalej „rozporządzeniem (WE) nr 1371/2007”;
+- **3)** rozporządzenia Rady (WE) nr 12/98 z dnia 11 grudnia 1997 r. ustanawiającego warunki dostępu przewoźników niemających stałej siedziby w Państwie Członkowskim do transportu drogowego osób w Państwie Członkowskim (Dz. Urz. UE L 4 z 08.01.1998, str. 10, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 3, str. 10);
 - **4)** rozporządzenia Rady (EWG) nr 3577/92 z dnia 7 grudnia 1992 r. dotyczącego stosowania zasady swobody świadczenia usług w transporcie morskim w obrębie Państw Członkowskich (kabotaż morski) (Dz. Urz. WE L 364 z 12.12.1992, str. 7; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 6, t. 2, str. 10);
 - **5)** rozporządzenia Rady (EWG) nr 3921/91 z dnia 16 grudnia 1991 r. ustanawiającego warunki, zgodnie z którymi przewoźnicy niemający stałej siedziby w Państwie Członkowskim mogą dokonywać transportu rzeczy lub osób żeglugą śródlądową w Państwie Członkowskim (Dz. Urz. WE L 373 z 31.12.1991, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 1, str. 345);
-- **6)** rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1071/2009 z dnia 21 października 2009 r. ustanawiającego wspólne zasady dotyczące warunków wykonywania zawodu przewoźnika drogowego i uchylającego dyrektywę Rady 96/26/WE (Dz. Urz. UE L 300 z 14.11.2009, str. 51, z późn. zm. );
-- **7)** rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1073/2009 z dnia 21 października 2009 r. w sprawie wspólnych zasad dostępu do międzynarodowego rynku usług autokarowych i autobusowych i zmieniającego rozporządzenie (WE) nr 561/2006 (Dz. Urz. UE L 300 z 14.11.2009, str. 88);
-- **8)** rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 181/2011 z dnia 16 lutego 2011 r. dotyczącego praw pasażerów w transporcie autobusowym i autokarowym i zmieniającego rozporządzenie (WE) nr 2006/2004 (Dz. Urz. UE L 55 z 28.02.2011, str. 1);
-- **9)** rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1177/2010 z dnia 24 listopada 2010 r. o prawach pasażerów podróżujących drogą morską i drogą wodną śródlądową oraz zmieniającego rozporządzenie (WE) nr 2006/2004 (Dz. Urz. UE L 334 z 17.12.2010, str. 1, z późn. zm. ).
+- **6)** rozporządzenia Rady (EWG) nr 684/92 z dnia 16 marca 1992 r. w sprawie wspólnych zasad międzynarodowego przewozu osób autokarem i autobusem (Dz. Urz. WE L 74 z 20.03.1992, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 6, t. 1, str. 306), zwanego dalej „rozporządzeniem (EWG) nr 684/92”;
+- **7)** rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1073/2009 z dnia 21 października 2009 r. w sprawie wspólnych zasad dostępu do międzynarodowego rynku usług autokarowych i autobusowych i zmieniającego rozporządzenie (WE) nr 561/2006 (Dz. Urz. UE L 300 z 14.11.2009, str. 88).
 
-2. W zakresie regularnego przewozu osób realizowanego w strefie transgranicznej, przepisy ustawy stosuje się z uwzględnieniem przepisów ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2024 r. poz. 1539, 1544 i 1855) oraz rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1073/2009 z dnia 21 października 2009 r. w sprawie wspólnych zasad dostępu do międzynarodowego rynku usług autokarowych i autobusowych i zmieniającego rozporządzenie (WE) nr 561/2006 w zakresie międzynarodowego transportu drogowego.
+2. W zakresie regularnego przewozu osób realizowanego w strefie transgranicznej, przepisy ustawy stosuje się z uwzględnieniem przepisów ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2007 r. Nr 125, poz. 874, z późn. zm.) oraz rozporządzenia (EWG) nr 684/92 w zakresie międzynarodowego transportu drogowego.
 
 **Art. 4.**
 
 1. Użyte w ustawie określenia oznaczają:
 
-- **1)** (uchylony)
+- **1)** decyzja o przyznaniu otwartego dostępu – uprawnienie przewoźnika do wykonywania regularnego przewozu osób w ramach otwartego dostępu w transporcie kolejowym, określonego w ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2007 r. Nr 16, poz. 94, z późn. zm.);
 - **2)** dworzec – miejsce przeznaczone do odprawy pasażerów, w którym znajdują się w szczególności: przystanki komunikacyjne, punkt sprzedaży biletów oraz punkt informacji dla podróżnych;
-- **3)** gminne przewozy pasażerskie – przewóz osób w ramach publicznego transportu zbiorowego wykonywany w granicach administracyjnych jednej gminy lub gmin sąsiadujących, które zawarły stosowne porozumienie lub które utworzyły związek międzygminny; inne niż przewozy powiatowe, powiatowo-gminne, metropolitalne, wojewódzkie i międzywojewódzkie;
-- **4)** komunikacja miejska – gminne przewozy pasażerskie wykonywane w granicach administracyjnych miasta albo:
-    - **a)** miasta i gminy,
-    - **b)** miast, albo
-    - **c)** miast i gmin sąsiadujących – jeżeli zostało zawarte porozumienie lub został utworzony związek międzygminny w celu wspólnej realizacji publicznego transportu zbiorowego, a także metropolitalne przewozy pasażerskie;
+- **3)** gminne przewozy pasażerskie – przewóz osób w ramach publicznego transportu zbiorowego wykonywany w granicach administracyjnych jednej gminy lub gmin sąsiadujących, które zawarły stosowne porozumienie lub które utworzyły związek międzygminny; inne niż przewozy powiatowe, wojewódzkie i międzywojewódzkie;
+- **4)** komunikacja miejska – gminne przewozy pasażerskie wykonywane w granicach administracyjnych miasta albo: miasta i gminy, miast, albo miast i gmin sąsiadujących jeżeli zostało zawarte porozumienie lub został utworzony związek międzygminny w celu wspólnej realizacji publicznego transportu zbiorowego;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **5)** linia komunikacyjna – połączenie komunikacyjne na:
-    - **a)** sieci dróg publicznych albo
-    - **b)** liniach kolejowych, innych szynowych, linowych, linowo-terenowych, albo
-    - **c)** akwenach morskich lub wodach śródlądowych – wraz z oznaczonymi miejscami do wsiadania i wysiadania pasażerów na liniach komunikacyjnych, po których odbywa się publiczny transport zbiorowy;
+- **5)** linia komunikacyjna – połączenie komunikacyjne na: sieci dróg publicznych albo liniach kolejowych, innych szynowych, linowych, linowo-terenowych, albo akwenach morskich lub wodach śródlądowych wraz z oznaczonymi miejscami do wsiadania i wysiadania pasażerów na liniach komunikacyjnych, po których odbywa się publiczny transport zbiorowy;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **5a)** metropolitalne przewozy pasażerskie – przewóz osób w ramach publicznego transportu zbiorowego wykonywany w granicach związku metropolitalnego; inne niż gminne, powiatowe, powiatowo-gminne, wojewódzkie i międzywojewódzkie;
 - **6)** międzynarodowe przewozy pasażerskie – przewóz osób w ramach publicznego transportu zbiorowego wykonywany z przekroczeniem granicy Rzeczypospolitej Polskiej, z wyłączeniem przewozów realizowanych w strefie transgranicznej;
-- **7)** międzywojewódzkie przewozy pasażerskie – przewóz osób w ramach publicznego transportu zbiorowego wykonywany z przekroczeniem granicy województwa; inne niż przewozy gminne, powiatowe, powiatowo-gminne, metropolitalne i wojewódzkie;
+- **7)** międzywojewódzkie przewozy pasażerskie – przewóz osób w ramach publicznego transportu zbiorowego wykonywany z przekroczeniem granicy województwa; inne niż przewozy gminne, powiatowe i wojewódzkie;
 - **8)** operator publicznego transportu zbiorowego – samorządowy zakład budżetowy oraz przedsiębiorca uprawniony do prowadzenia działalności gospodarczej w zakresie przewozu osób, który zawarł z organizatorem publicznego transportu zbiorowego umowę o świadczenie usług w zakresie publicznego transportu zbiorowego, na linii komunikacyjnej określonej w umowie;
 - **9)** organizator publicznego transportu zbiorowego – właściwa jednostka samorządu terytorialnego albo minister właściwy do spraw transportu, zapewniający funkcjonowanie publicznego transportu zbiorowego na danym obszarze; organizator publicznego transportu zbiorowego jest „właściwym organem”, o którym mowa w przepisach rozporządzenia (WE) nr 1370/2007;
-- **9a)** autobus zeroemisyjny – autobus zeroemisyjny w rozumieniu art. 2 pkt 1 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. z 2024 r. poz. 1289, 1853 i 1881);
-- **10)** powiatowe przewozy pasażerskie – przewóz osób w ramach publicznego transportu zbiorowego wykonywany w granicach administracyjnych co najmniej dwóch gmin i niewykraczający poza granice jednego powiatu albo w granicach administracyjnych powiatów sąsiadujących, które zawarły stosowne porozumienie lub które utworzyły związek powiatów; inne niż przewozy gminne, powiatowo-gminne, metropolitalne, wojewódzkie i międzywojewódzkie;
-- **10a)** powiatowo-gminne przewozy pasażerskie – przewóz osób w ramach publicznego transportu zbiorowego wykonywany w granicach administracyjnych gmin i powiatów, które utworzyły związek powiatowo-gminny; inne niż przewozy gminne, powiatowe, metropolitalne, wojewódzkie i międzywojewódzkie;
-- **11)** przewoźnik – przedsiębiorca uprawniony do prowadzenia działalności gospodarczej w zakresie przewozu osób na podstawie zezwolenia na wykonywanie regularnych przewozów osób w krajowym transporcie drogowym, o którym mowa w art. 18 ust. 1 pkt 1 ustawy z dnia 6 września 2001 r. o transporcie drogowym, a w transporcie kolejowym – przewoźnik kolejowy, o którym mowa w art. 4 pkt 9 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2024 r. poz. 697 i 731), wykonujący przewóz osób;
+- **10)** powiatowe przewozy pasażerskie – przewóz osób w ramach publicznego transportu zbiorowego wykonywany w granicach administracyjnych co najmniej dwóch gmin i niewykraczający poza granice jednego powiatu albo w granicach administracyjnych powiatów sąsiadujących, które zawarły stosowne porozumienie lub które utworzyły związek powiatów; inne niż przewozy gminne, wojewódzkie i międzywojewódzkie;
+- **11)** przewoźnik – przedsiębiorca uprawniony do prowadzenia działalności gospodarczej w zakresie przewozu osób na podstawie potwierdzenia zgłoszenia przewozu, a w transporcie kolejowym – na podstawie decyzji o przyznaniu otwartego dostępu;
 - **12)** przewóz o charakterze użyteczności publicznej – powszechnie dostępna usługa w zakresie publicznego transportu zbiorowego wykonywana przez operatora publicznego transportu zbiorowego w celu bieżącego i nieprzerwanego zaspokajania potrzeb przewozowych społeczności na danym obszarze;
-- **13)** przystanek komunikacyjny – miejsce przeznaczone do wsiadania lub wysiadania pasażerów na danej linii komunikacyjnej, w którym umieszcza się informacje dotyczące w szczególności godzin odjazdów środków transportu, a ponadto, w transporcie drogowym, oznaczone zgodnie z przepisami ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251);
+- **13)** przystanek komunikacyjny – miejsce przeznaczone do wsiadania lub wysiadania pasażerów na danej linii komunikacyjnej, w którym umieszcza się informacje dotyczące w szczególności godzin odjazdów środków transportu, a ponadto, w transporcie drogowym, oznaczone zgodnie z przepisami ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.);
 - **14)** publiczny transport zbiorowy – powszechnie dostępny regularny przewóz osób wykonywany w określonych odstępach czasu i po określonej linii komunikacyjnej, liniach komunikacyjnych lub sieci komunikacyjnej;
 - **15)** rekompensata – środki pieniężne lub inne korzyści majątkowe przyznane operatorowi publicznego transportu zbiorowego w związku ze świadczeniem usług w zakresie publicznego transportu zbiorowego;
 - **16)** sieć komunikacyjna – układ linii komunikacyjnych obejmujących obszar działania organizatora publicznego transportu zbiorowego lub część tego obszaru;
 - **17)** strefa transgraniczna – obszar co najmniej jednej gminy, powiatu lub co najmniej jednego województwa, na którym operator publicznego transportu zbiorowego świadczy usługi w zakresie publicznego transportu zbiorowego, położony bezpośrednio przy granicy Rzeczypospolitej Polskiej i obszar odpowiedniej jednostki administracyjnej położonej poza granicą Rzeczypospolitej Polskiej na terytorium sąsiedniego państwa;
 - **18)** transport drogowy – transport w rozumieniu ustawy z dnia 6 września 2001 r. o transporcie drogowym;
-- **19)** transport inny szynowy – przewóz osób środkiem transportu poruszającym się po szynach lub torach kolejowych, w tym tramwajem lub metrem, lub przewóz osób środkiem transportu poruszającym się po jednej szynie lub na poduszkach powietrznych lub magnetycznych, inny niż transport kolejowy i transport linowo-terenowy;
-- **20)** transport kolejowy – przewóz osób środkiem transportu poruszającym się po torach kolejowych, z wyłączeniem środków, które służą do przewozu osób w transporcie innym szynowym;
+- **19)** transport inny szynowy – przewóz osób środkiem transportu poruszającym się po szynach lub torach kolejowych, w tym tramwajem lub metrem; inny niż transport kolejowy i transport linowo-terenowy;
+- **20)** transport kolejowy – przewóz osób środkiem transportu poruszającym się po torach kolejowych;
 - **21)** transport linowy – przewóz osób środkiem transportu poruszającym się za pomocą napowietrznej liny ciągnącej;
-- **22)** transport linowo-terenowy – przewóz osób środkiem transportu poruszającym się po szynach lub po jednej szynie za pomocą liny napędowej;
+- **22)** transport linowo-terenowy – przewóz osób środkiem transportu poruszającym się po szynach za pomocą liny napędowej;
 - **23)** transport morski – przewóz osób środkiem transportu morskiego po morskich wodach wewnętrznych lub po morzu terytorialnym;
 - **24)** umowa o świadczenie usług w zakresie publicznego transportu zbiorowego – umowa między organizatorem publicznego transportu zbiorowego a operatorem publicznego transportu zbiorowego, która przyznaje temu operatorowi prawo i zobowiązuje go do wykonywania określonych usług związanych z wykonywaniem przewozu o charakterze użyteczności publicznej;
-- **25)** wojewódzkie przewozy pasażerskie – przewóz osób w ramach publicznego transportu zbiorowego wykonywany w granicach administracyjnych co najmniej dwóch powiatów i niewykraczający poza granice jednego województwa, a w przypadku linii komunikacyjnych w transporcie kolejowym także przewóz do najbliższej stacji w województwie sąsiednim, umożliwiający przesiadki w celu odbycia dalszej podróży lub techniczne odwrócenie biegu pociągu, oraz przewóz powrotny lub przewóz do stacji w województwie sąsiednim, położonej nie dalej niż 30 km od granicy województwa; inne niż przewozy gminne, powiatowe, powiatowo-gminne, metropolitalne i międzywojewódzkie;
+- **25)** wojewódzkie przewozy pasażerskie – przewóz osób w ramach publicznego transportu zbiorowego wykonywany w granicach administracyjnych co najmniej dwóch powiatów i niewykraczający poza granice jednego województwa, a w przypadku linii komunikacyjnych w transporcie kolejowym także przewóz do najbliższej stacji w województwie sąsiednim, umożliwiający przesiadki w celu odbycia dalszej podróży lub techniczne odwrócenie biegu pociągu, oraz przewóz powrotny; inne niż przewozy gminne, powiatowe i międzywojewódzkie;
 - **26)** zintegrowany system taryfowo-biletowy – rozwiązanie polegające na umożliwieniu wykorzystywania przez pasażera biletu, uprawniającego do korzystania z różnych środków transportu na obszarze właściwości organizatora publicznego transportu zbiorowego;
 - **27)** zintegrowany węzeł przesiadkowy – miejsce umożliwiające dogodną zmianę środka transportu wyposażone w niezbędną dla obsługi podróżnych infrastrukturę, w szczególności: miejsca postojowe, przystanki komunikacyjne, punkty sprzedaży biletów, systemy informacyjne umożliwiające zapoznanie się zwłaszcza z rozkładem jazdy, linią komunikacyjną lub siecią komunikacyjną;
 - **28)** zrównoważony rozwój publicznego transportu zbiorowego – proces rozwoju transportu uwzględniający oczekiwania społeczne dotyczące zapewnienia powszechnej dostępności do usług publicznego transportu zbiorowego, zmierzający do wykorzystywania różnych środków transportu, a także promujący przyjazne dla środowiska i wyposażone w nowoczesne rozwiązania techniczne środki transportu;
@@ -102,7 +251,7 @@ Art. 66–76. (pominięte)
 
 2. Ilekroć w ustawie jest mowa o:
 
-- **1)** jednostce samorządu terytorialnego – należy przez to rozumieć również związek międzygminny, związek powiatów, związek powiatowo-gminny lub związek metropolitalny;
+- **1)** jednostce samorządu terytorialnego – należy przez to rozumieć również związek międzygminny lub związek powiatów;
 - **2)** rozkładzie jazdy – należy przez to rozumieć również rozkład rejsu w transporcie morskim oraz w żegludze śródlądowej;
 - **3)** przystanku komunikacyjnym – należy przez to rozumieć również port lub przystań usytuowane na wodach morskich lub wodach śródlądowych;
 - **4)** umowie o świadczenie usług w zakresie publicznego transportu zbiorowego – należy przez to rozumieć również akt wewnętrzny określający warunki wykonywania usług w zakresie publicznego transportu zbiorowego przez samorządowy zakład budżetowy.
@@ -114,27 +263,23 @@ Art. 66–76. (pominięte)
 2. Publiczny transport zbiorowy może odbywać się na podstawie:
 
 - **1)** umowy o świadczenie usług w zakresie publicznego transportu zbiorowego;
-- **2)** zezwolenia na wykonywanie regularnych przewozów osób w krajowym transporcie drogowym, o którym mowa w art. 18 ust. 1 pkt 1 ustawy z dnia 6 września 2001 r. o transporcie drogowym;
-- **3)** decyzji o przyznaniu otwartego dostępu albo decyzji o przyznaniu ograniczonego dostępu, o których mowa w art. 29c ust. 1 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym;
-- **4)** jednolitego certyfikatu bezpieczeństwa, o którym mowa w art. 17e ust. 1 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym, albo świadectwa bezpieczeństwa, o którym mowa w art. 17e ust. 3 tej ustawy.
+- **2)** potwierdzenia zgłoszenia przewozu;
+- **3)** decyzji o przyznaniu otwartego dostępu.
 
 **Art. 6.**
 
 1. Publiczny transport zbiorowy może być wykonywany przez operatora publicznego transportu zbiorowego, zwanego dalej „operatorem”, lub przewoźnika spełniających warunki do podejmowania i wykonywania działalności w zakresie przewozu osób określone odpowiednio w:
 
-- **1)** ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2024 r. poz. 1068 i 1933);
-- **2)** ustawie z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2025 r. poz.
-- **18)** ;
+- **1)** ustawie z dnia 9 listopada 2000 r. o bezpieczeństwie morskim (Dz. U. z 2006 r. Nr 99, poz. 693, z późn. zm.);
+- **2)** ustawie z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2006 r. Nr 123, poz. 857, z późn. zm.);
 - **3)** ustawie z dnia 6 września 2001 r. o transporcie drogowym;
 - **4)** ustawie z dnia 28 marca 2003 r. o transporcie kolejowym;
-- **5)** ustawie z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871);
-- **6)** ustawie z dnia 18 września 2001 r. – Kodeks morski (Dz. U. z 2023 r. poz. 1309).
+- **5)** ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2010 r. Nr 220, poz. 1447 i Nr 239, poz. 1593);
+- **6)** ustawie z dnia 18 września 2001 r. – Kodeks morski (Dz. U. z 2009 r. Nr 217, poz. 1689 oraz z 2010 r. Nr 127, poz. 857).
 
 2. Jeżeli wykonywanie przewozu osób wymaga posiadania odpowiednich kwalifikacji, w szczególności do kierowania środkami transportu, wynikających z odrębnych przepisów, posiadanie tych kwalifikacji jest również niezbędne do wykonywania publicznego transportu zbiorowego.
 
-**Art. 6a.** Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), nie wpływa na przebieg kontroli oraz na uprawnienie właściwego organu do nałożenia kary.
-
-### DZIAŁ II Organizacja publicznego transportu zbiorowego
+### Dział II Organizacja publicznego transportu zbiorowego
 
 #### Rozdział 1 Organizator publicznego transportu zbiorowego
 
@@ -142,29 +287,24 @@ Art. 66–76. (pominięte)
 
 1. Organizatorem publicznego transportu zbiorowego, zwanym dalej „organizatorem”, właściwym ze względu na obszar działania lub zasięg przewozów, jest:
 
-- **1)** gmina:
-    - **a)** na linii komunikacyjnej albo sieci komunikacyjnej w gminnych przewozach pasażerskich,
-    - **b)** której powierzono zadanie organizacji publicznego transportu zbiorowego na mocy porozumienia między gminami – na linii komunikacyjnej albo sieci komunikacyjnej w gminnych przewozach pasażerskich, na obszarze gmin, które zawarły porozumienie;
+- **1)** gmina: na linii komunikacyjnej albo sieci komunikacyjnej w gminnych przewozach pasażerskich, której powierzono zadanie organizacji publicznego transportu zbiorowego na mocy porozumienia między gminami – na linii komunikacyjnej albo sieci komunikacyjnej w gminnych przewozach pasażerskich, na obszarze gmin, które zawarły porozumienie;
+    - **a)**
+    - **b)**
 
 - **2)** związek międzygminny – na linii komunikacyjnej albo sieci komunikacyjnej w gminnych przewozach pasażerskich, na obszarze gmin tworzących związek międzygminny;
-- **3)** powiat:
-    - **a)** na linii komunikacyjnej albo sieci komunikacyjnej w powiatowych przewozach pasażerskich,
-    - **b)** któremu powierzono zadanie organizacji publicznego transportu zbiorowego na mocy porozumienia między powiatami – na linii komunikacyjnej albo sieci komunikacyjnej w powiatowych przewozach pasażerskich, na obszarze powiatów, które zawarły porozumienie;
+- **3)** powiat: na linii komunikacyjnej albo sieci komunikacyjnej w powiatowych przewozach pasażerskich, któremu powierzono zadanie organizacji publicznego transportu zbiorowego na mocy porozumienia między powiatami – na linii komunikacyjnej albo sieci komunikacyjnej w powiatowych przewozach pasażerskich, na obszarze powiatów, które zawarły porozumienie;
+    - **a)**
+    - **b)**
 
 - **4)** związek powiatów – na linii komunikacyjnej albo sieci komunikacyjnej w powiatowych przewozach pasażerskich, na obszarze powiatów tworzących związek powiatów;
-- **4a)** związek powiatowo-gminny na linii komunikacyjnej albo sieci komunikacyjnej w powiatowo-gminnych przewozach pasażerskich na obszarze gmin lub powiatów tworzących związek powiatowo-gminny;
-- **4b)** związek metropolitalny:
-    - **a)** na linii komunikacyjnej albo sieci komunikacyjnej w metropolitalnych przewozach pasażerskich,
-    - **b)** któremu powierzono zadanie organizacji publicznego transportu zbiorowego na mocy porozumienia z jednostką samorządu terytorialnego;
-
-- **5)** województwo:
-    - **a)** na linii komunikacyjnej albo sieci komunikacyjnej w wojewódzkich przewozach pasażerskich oraz w transporcie morskim,
-    - **b)** właściwe ze względu na najdłuższy odcinek planowanego przebiegu linii komunikacyjnej, w uzgodnieniu z województwami właściwymi ze względu na przebieg tej linii komunikacyjnej albo sieci komunikacyjnej – na linii komunikacyjnej albo sieci komunikacyjnej w międzywojewódzkich przewozach pasażerskich,
-    - **c)** któremu powierzono zadanie organizacji publicznego transportu zbiorowego na mocy porozumienia między województwami właściwymi ze względu na planowany przebieg linii komunikacyjnej albo sieci komunikacyjnej – na linii komunikacyjnej albo sieci komunikacyjnej w wojewódzkich przewozach pasażerskich, na obszarze województw, które zawarły porozumienie;
+- **5)** województwo: na linii komunikacyjnej albo sieci komunikacyjnej w wojewódzkich przewozach pasażerskich oraz w transporcie morskim, właściwe ze względu na najdłuższy odcinek planowanego przebiegu linii komunikacyjnej, w uzgodnieniu z województwami właściwymi ze względu na przebieg tej linii komunikacyjnej albo sieci komunikacyjnej – na linii komunikacyjnej albo sieci komunikacyjnej w międzywojewódzkich przewozach pasażerskich, któremu powierzono zadanie organizacji publicznego transportu zbiorowego na mocy porozumienia między województwami właściwymi ze względu na planowany przebieg linii komunikacyjnej albo sieci komunikacyjnej – na linii komunikacyjnej albo sieci komunikacyjnej w wojewódzkich przewozach pasażerskich, na obszarze województw, które zawarły porozumienie;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **6)** minister właściwy do spraw transportu – na linii komunikacyjnej albo sieci komunikacyjnej w międzywojewódzkich i międzynarodowych przewozach pasażerskich w transporcie kolejowym.
 
-2. Jeżeli inny organizator byłby właściwy ze względu na obszar działania, a inny ze względu na zasięg przewozów, to właściwym organizatorem jest organizator, o którym mowa w ust. 1 pkt 1 lit. b, pkt 2, pkt 3 lit. b, pkt 4, 4a albo 4b.
+2. Jeżeli inny organizator byłby właściwy ze względu na obszar działania, a inny ze względu na zasięg przewozów, to właściwym organizatorem jest organizator, o którym mowa w ust. 1 pkt 1 lit. b, pkt 2, pkt 3 lit. b albo pkt 4.
 
 3. Organizator, o którym mowa w ust. 1 pkt 1–5, jest organizatorem publicznego transportu zbiorowego realizowanego w strefie transgranicznej.
 
@@ -175,11 +315,13 @@ Art. 66–76. (pominięte)
 - **3)** miasta na prawach powiatu – prezydent miasta na prawach powiatu;
 - **4)** powiatu – starosta;
 - **5)** związku powiatów – zarząd związku powiatów;
-- **5a)** związku powiatowo-gminnego – zarząd związku powiatowo-gminnego;
-- **5b)** związku metropolitalnego – zarząd związku metropolitalnego;
 - **6)** województwa – marszałek województwa.
 
 **Art. 8.** Do zadań organizatora należy:
+
+- **1)** planowanie rozwoju transportu;
+- **2)** organizowanie publicznego transportu zbiorowego;
+- **3)** zarządzanie publicznym transportem zbiorowym.
 
 #### Rozdział 2 Plan zrównoważonego rozwoju publicznego transportu zbiorowego
 
@@ -187,35 +329,25 @@ Art. 66–76. (pominięte)
 
 1. Plan zrównoważonego rozwoju publicznego transportu zbiorowego, zwany dalej „planem transportowym”, w przypadku planowanego organizowania przewozów o charakterze użyteczności publicznej, opracowuje:
 
-- **1)** gmina:
-    - **a)** licząca co najmniej 50 000 mieszkańców – w zakresie linii komunikacyjnej albo sieci komunikacyjnej w gminnych przewozach pasażerskich,
-    - **b)** której powierzono zadanie organizacji publicznego transportu zbiorowego na mocy porozumienia między gminami, których obszar liczy łącznie co najmniej 80 000 mieszkańców – w zakresie linii komunikacyjnej albo sieci komunikacyjnej na danym obszarze;
+- **1)** gmina: licząca co najmniej 50 000 mieszkańców – w zakresie linii komunikacyjnej albo sieci komunikacyjnej w gminnych przewozach pasażerskich, której powierzono zadanie organizacji publicznego transportu zbiorowego na mocy porozumienia między gminami, których obszar liczy łącznie co najmniej 80 000 mieszkańców – w zakresie linii komunikacyjnej albo sieci komunikacyjnej na danym obszarze;
+    - **a)**
+    - **b)**
 
 - **2)** związek międzygminny obejmujący obszar liczący co najmniej 80 000 mieszkańców – w zakresie linii komunikacyjnej albo sieci komunikacyjnej na obszarze gmin tworzących związek międzygminny;
-- **3)** powiat:
-    - **a)** liczący co najmniej 80 000 mieszkańców – w zakresie linii komunikacyjnej albo sieci komunikacyjnej w powiatowych przewozach pasażerskich,
-    - **b)** któremu powierzono zadanie organizacji publicznego transportu zbiorowego na mocy porozumienia między powiatami, których obszar liczy łącznie co najmniej 120 000 mieszkańców – w zakresie linii komunikacyjnej albo sieci komunikacyjnej na danym obszarze;
+- **3)** powiat: liczący co najmniej 80 000 mieszkańców – w zakresie linii komunikacyjnej albo sieci komunikacyjnej w powiatowych przewozach pasażerskich, któremu powierzono zadanie organizacji publicznego transportu zbiorowego na mocy porozumienia między powiatami, których obszar liczy łącznie co najmniej 120 000 mieszkańców – w zakresie linii komunikacyjnej albo sieci komunikacyjnej na danym obszarze;
+    - **a)**
+    - **b)**
 
 - **4)** związek powiatów obejmujący obszar liczący co najmniej 120 000 mieszkańców – w zakresie linii komunikacyjnej albo sieci komunikacyjnej na obszarze powiatów tworzących związek powiatów;
-- **4a)** związek powiatowo-gminny obejmujący obszar liczący co najmniej 80 000 mieszkańców – w zakresie linii komunikacyjnej albo sieci komunikacyjnej na obszarze gmin lub powiatów tworzących związek powiatowo-gminny;
-- **4b)** związek metropolitalny:
-    - **a)** w zakresie linii komunikacyjnej albo sieci komunikacyjnej w metropolitalnych przewozach pasażerskich,
-    - **b)** któremu powierzono zadanie organizacji publicznego transportu zbiorowego na mocy porozumienia z jednostką samorządu terytorialnego – w zakresie linii komunikacyjnej albo sieci komunikacyjnej na danym obszarze,
-    - **c)** w zakresie linii komunikacyjnej albo sieci komunikacyjnej na obszarze gmin wchodzących w skład związku metropolitalnego;
-
-- **5)** województwo:
-    - **a)** w zakresie linii komunikacyjnej albo sieci komunikacyjnej w wojewódzkich przewozach pasażerskich,
-    - **b)** któremu powierzono zadanie organizacji publicznego transportu zbiorowego na mocy porozumienia między województwami właściwymi ze względu na planowany przebieg linii komunikacyjnej albo sieci komunikacyjnej – w zakresie linii komunikacyjnej albo sieci komunikacyjnej na danym obszarze;
+- **5)** województwo: w zakresie linii komunikacyjnej albo sieci komunikacyjnej w wojewódzkich przewozach pasażerskich, któremu powierzono zadanie organizacji publicznego transportu zbiorowego na mocy porozumienia między województwami właściwymi ze względu na planowany przebieg linii komunikacyjnej albo sieci komunikacyjnej – w zakresie linii komunikacyjnej albo sieci komunikacyjnej na danym obszarze;
+    - **a)**
+    - **b)**
 
 - **6)** minister właściwy do spraw transportu – w zakresie linii komunikacyjnej albo sieci komunikacyjnej w międzywojewódzkich i międzynarodowych przewozach pasażerskich w transporcie kolejowym.
 
-1a. Plan transportowy opracowywany przez ministra właściwego do spraw transportu obejmuje także wyznaczone w uzgodnieniu z województwami linie komunikacyjne w wojewódzkich przewozach pasażerskich w transporcie kolejowym zapewniające połączenie komunikacyjne między sąsiednimi województwami, które mają szczególne znaczenie dla dostępności sieci komunikacyjnej i spójności połączeń komunikacyjnych na terenie Rzeczypospolitej Polskiej. Minister właściwy do spraw transportu nie jest organizatorem publicznego transportu zbiorowego na liniach komunikacyjnych, o których mowa w zdaniu pierwszym.
-
-2. Plan transportowy może być opracowany przez właściwego organizatora na obszarze liczącym mniejszą liczbę mieszkańców niż określona w ust. 1 pkt 1–4.
+2. Plan transportowy może być opracowany przez właściwego organizatora na obszarze liczącym mniejszą liczbę mieszkańców niż określona w ust. 1 pkt 1 -4.
 
 3. Plan transportowy uchwalony przez właściwe organy jednostek samorządu terytorialnego stanowi akt prawa miejscowego.
-
-**Art. 9a.** W przypadku opracowania planu transportowego przez związek metropolitalny:
 
 **Art. 10.**
 
@@ -228,8 +360,8 @@ Art. 66–76. (pominięte)
 1. W projekcie planu transportowego opracowanym przez:
 
 - **1)** marszałka województwa – uwzględnia się ogłoszony plan transportowy opracowany przez ministra właściwego do spraw transportu,
-- **2)** starostę, zarząd związku powiatów, zarząd związku powiatowo-gminnego, zarząd związku metropolitalnego – uwzględnia się ogłoszony plan transportowy opracowany przez marszałka województwa,
-- **3)** wójta, burmistrza, prezydenta miasta, zarząd związku międzygminnego – uwzględnia się ogłoszony plan transportowy opracowany przez starostę, zarząd związku powiatów, zarząd związku powiatowo-gminnego, o ile jest utworzony, lub marszałka województwa – w zakresie linii komunikacyjnych, na których jest planowane wykonywanie przewozów o charakterze użyteczności publicznej.
+- **2)** starostę, zarząd związku powiatów – uwzględnia się ogłoszony plan transportowy opracowany przez marszałka województwa,
+- **3)** wójta, burmistrza, prezydenta miasta, zarząd związku międzygminnego – uwzględnia się ogłoszony plan transportowy opracowany przez starostę, zarząd związku powiatów, o ile jest utworzony, lub marszałka województwa w zakresie linii komunikacyjnych, na których jest planowane wykonywanie przewozów o charakterze użyteczności publicznej.
 
 2. Plan transportowy może być, w zależności od uzasadnionych potrzeb, poddawany aktualizacji.
 
@@ -243,43 +375,26 @@ Art. 66–76. (pominięte)
 - **4)** preferencje dotyczące wyboru rodzaju środków transportu;
 - **5)** zasady organizacji rynku przewozów;
 - **6)** pożądany standard usług przewozowych w przewozach o charakterze użyteczności publicznej;
-- **7)** przewidywany sposób organizowania systemu informacji dla pasażera;
-- **8)** linie komunikacyjne, na których przewidywane jest wykorzystanie pojazdów elektrycznych lub pojazdów napędzanych gazem ziemnym, oraz planowany termin rozpoczęcia ich użytkowania.
-
-1a. Jeżeli plan transportowy przewiduje wykorzystanie autobusów zeroemisyjnych lub autobusów napędzanych gazem ziemnym, określa także:
-
-- **1)** geograficzne położenie stacji gazu ziemnego;
-- **2)** geograficzne położenie infrastruktury ładowania drogowego transportu publicznego w rozumieniu art. 2 pkt 3 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych, zwanej dalej „infrastrukturą ładowania”;
-- **3)** miejsce przyłączenia do:
-    - **a)** sieci dystrybucyjnej elektroenergetycznej – planowanej infrastruktury ładowania lub
-    - **b)** sieci dystrybucyjnej gazowej – planowanej stacji gazu ziemnego, lub
-    - **c)** magazynu energii, o którym mowa w art. 3 pkt 10k ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, 834, 859, 1847 i 1881).
+- **7)** przewidywany sposób organizowania systemu informacji dla pasażera.
 
 2. Przy opracowywaniu planu transportowego należy uwzględnić w szczególności:
 
-- **1)** stan zagospodarowania przestrzennego oraz ustalenia odpowiednio:
-    - **a)** (uchylona)
-    - **b)** planu zagospodarowania przestrzennego województwa,
-    - **c)** planu ogólnego gminy,
-    - **d)** miejscowego planu zagospodarowania przestrzennego;
+- **1)** stan zagospodarowania przestrzennego oraz ustalenia odpowiednio: koncepcji przestrzennego zagospodarowania kraju, planu zagospodarowania przestrzennego województwa, studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy, miejscowego planu zagospodarowania przestrzennego;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **2)** sytuację społeczno-gospodarczą danego obszaru;
 - **3)** wpływ transportu na środowisko;
 - **4)** potrzeby zrównoważonego rozwoju publicznego transportu zbiorowego, w szczególności potrzeby osób niepełnosprawnych i osób o ograniczonej zdolności ruchowej, w zakresie usług przewozowych;
-- **5)** potrzeby wynikające z kierunku polityki państwa, w zakresie linii komunikacyjnych w międzywojewódzkich i międzynarodowych przewozach pasażerskich, a także linii komunikacyjnych, o których mowa w art. 9 ust. 1a;
+- **5)** potrzeby wynikające z kierunku polityki państwa, w zakresie linii komunikacyjnych w międzywojewódzkich i międzynarodowych przewozach pasażerskich;
 - **6)** rentowność linii komunikacyjnych;
 - **7)** w zakresie transportu kolejowego – dane dotyczące przepustowości infrastruktury oraz standard jakości dostępu otrzymane od zarządcy infrastruktury kolejowej.
 
-2a. (uchylony) 2b. Jeżeli plan transportowy przewiduje wykorzystanie autobusów zeroemisyjnych lub autobusów napędzanych gazem ziemnym, to podlega on konsultacjom odpowiednio z operatorem systemu dystrybucyjnego elektroenergetycznego oraz z operatorem systemu dystrybucyjnego gazowego, w rozumieniu przepisów ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, w zakresie wykorzystania autobusów zeroemisyjnych lub autobusów napędzanych gazem ziemnym przy wykonywaniu przewozów pasażerskich w transporcie drogowym w ramach komunikacji miejskiej.
-
-2c. W toku konsultacji, o których mowa w ust. 2b:
-
-- **1)** operator systemu dystrybucyjnego elektroenergetycznego przedstawia ocenę technicznych i ekonomicznych warunków przyłączenia do sieci infrastruktury ładowania w miejscach wskazanych w projekcie planu transportowego jako jej lokalizacje oraz możliwości dostawy energii elektrycznej do sieci z magazynu energii stanowiącego część tej infrastruktury;
-- **2)** operator systemu dystrybucyjnego gazowego przedstawia ocenę technicznych i ekonomicznych warunków przyłączenia do sieci stacji gazu ziemnego w miejscach wskazanych w projekcie planu transportowego jako lokalizacje instalacji służących do zaopatrywania pojazdów publicznego transportu zbiorowego.
-
 3. W przypadku opracowywania planu transportowego w zakresie transportu kolejowego organizator występuje do zarządcy infrastruktury kolejowej z wnioskiem o przedstawienie informacji niezbędnych do opracowania projektu planu transportowego.
 
-4. Do planu transportowego opracowywanego przez ministra właściwego do spraw transportu nie mają zastosowania przepisy ust. 1 pkt 4 oraz ust. 2 pkt 1 lit. b–d.
+4. Do planu transportowego opracowywanego przez ministra właściwego do spraw transportu nie mają zastosowania przepisy ust. 1 pkt 4 oraz ust. 2 pkt 1 lit. b-d.
 
 5. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, szczegółowy zakres planu transportowego z podziałem na część tekstową i graficzną, uwzględniając skalę opracowań kartograficznych, stosowane oznaczenia i nazewnictwo oraz rodzaj transportu, którym będzie wykonywany przewóz.
 
@@ -288,31 +403,22 @@ Art. 66–76. (pominięte)
 1. Marszałek województwa przedstawia sejmikowi województwa do uchwalenia projekt planu transportowego:
 
 - **1)** uzgodniony z marszałkami sąsiednich województw,
-- **2)** zaopiniowany przez zarząd związku metropolitalnego położonego na terenie województwa, o ile jest utworzony,
-- **3)** zaopiniowany przez zarząd sąsiedniego związku powiatów lub związku powiatowo-gminnego, o ile jest utworzony – w zakresie linii komunikacyjnych przebiegających na obszarach ich właściwości.
+- **2)** zaopiniowany przez zarząd sąsiedniego związku powiatów, o ile jest utworzony w zakresie linii komunikacyjnych przebiegających na obszarach ich właściwości.
 
-1a. Zarząd związku metropolitalnego przedstawia zgromadzeniu związku metropolitalnego do uchwalenia projekt planu transportowego:
+2. Starosta lub zarząd związku powiatów, o ile jest utworzony, przedstawia odpowiednio radzie powiatu albo zgromadzeniu związku powiatów do uchwalenia projekt planu transportowego:
 
-- **1)** zaopiniowany przez marszałka właściwego województwa;
-- **2)** uzgodniony ze starostą sąsiadujących powiatów, zarządem sąsiedniego związku powiatów lub związku powiatowo-gminnego, o ile jest utworzony w zakresie linii komunikacyjnych przebiegających na obszarze ich właściwości.
+- **1)** uzgodniony ze starostą sąsiedniego powiatu lub zarządem sąsiedniego związku powiatów, o ile jest utworzony,
+- **2)** zaopiniowany przez zarząd sąsiedniego związku międzygminnego, o ile jest utworzony w zakresie linii komunikacyjnych przebiegających na obszarach ich właściwości.
 
-2. Starosta, zarząd związku powiatów lub zarząd związku powiatowo-gminnego, o ile jest utworzony, przedstawia odpowiednio radzie powiatu albo zgromadzeniu związku powiatów albo zgromadzeniu związku powiatowo-gminnego do uchwalenia projekt planu transportowego:
-
-- **1)** uzgodniony ze starostą sąsiedniego powiatu, zarządem sąsiedniego związku metropolitalnego lub związku powiatów lub związku powiatowo-gminnego, o ile jest utworzony,
-- **2)** zaopiniowany przez zarząd sąsiedniego związku międzygminnego, o ile jest utworzony – w zakresie linii komunikacyjnych przebiegających na obszarach ich właściwości.
-
-3. Wójt, burmistrz, prezydent miasta lub zarząd związku międzygminnego przedstawia odpowiednio radzie gminy albo zgromadzeniu związku międzygminnego do uchwalenia projekt planu transportowego uzgodniony z właściwymi organami sąsiednich gmin, zarządem sąsiadującego związku metropolitalnego, związku międzygminnego lub zarządem sąsiedniego związku powiatowo-gminnego, o ile jest utworzony, w zakresie linii komunikacyjnych przebiegających na obszarach ich właściwości.
+3. Wójt, burmistrz, prezydent miasta lub zarząd związku międzygminnego przedstawia odpowiednio radzie gminy albo zgromadzeniu związku międzygminnego do uchwalenia projekt planu transportowego uzgodniony z właściwymi organami sąsiednich gmin lub zarządem sąsiedniego związku międzygminnego, o ile jest utworzony, w zakresie linii komunikacyjnych przebiegających na obszarach ich właściwości.
 
 4. Gmina licząca mniej niż 50 000 osób, może zgłosić potrzeby transportowe dotyczące linii komunikacyjnych wykraczających poza obszar swojej właściwości, bezpośrednio do starosty albo marszałka województwa właściwego ze względu na przebieg tych linii komunikacyjnych.
 
-5. Plan transportowy jest podawany do publicznej wiadomości przez jego ogłoszenie we właściwym dla organizatora dzienniku urzędowym, a w przypadku gdy organizatorem jest związek międzygminny, związek powiatów, związek powiatowo-gminny albo związek metropolitalny – w sposób zwyczajowo przyjęty na obszarach gmin albo powiatów tworzących te związki oraz w dzienniku urzędowym województwa, na którego obszarze działa związek międzygminny, związek powiatów, związek powiatowo-gminny albo związek metropolitalny.
+5. Plan transportowy jest podawany do publicznej wiadomości przez jego ogłoszenie we właściwym dla organizatora dzienniku urzędowym, a w przypadku gdy organizatorem jest związek międzygminny albo związek powiatów – w sposób zwyczajowo przyjęty na obszarach gmin albo powiatów tworzących te związki oraz w dzienniku urzędowym województwa, na którego obszarze działa związek międzygminny albo związek powiatów.
 
-6. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, plan transportowy w zakresie:
+6. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, plan transportowy w zakresie linii komunikacyjnej lub sieci komunikacyjnej w międzywojewódzkich i międzynarodowych przewozach pasażerskich w transporcie kolejowym, uwzględniając zakres niezbędnych danych, które powinny zostać określone w tym planie.
 
-- **1)** linii komunikacyjnej lub sieci komunikacyjnej w międzywojewódzkich i międzynarodowych przewozach pasażerskich w transporcie kolejowym,
-- **2)** linii komunikacyjnych w wojewódzkich przewozach pasażerskich w transporcie kolejowym, o których mowa w art. 9 ust. 1a – uwzględniając zakres niezbędnych danych, które powinny zostać określone w tym planie, oraz potrzeby wynikające z kierunku polityki państwa.
-
-**Art. 14.** Do aktualizacji planu transportowego, o której mowa w art. 11 ust. 2, stosuje się odpowiednio przepisy art. 10, art. 11 ust. 1, art. 12 ust. 1–2 i 2b–4 oraz art. 13.
+**Art. 14.** Do aktualizacji planu transportowego, o której mowa w art. 11 ust. 2, stosuje się odpowiednio przepisy art. 10, art. 11 ust. 1, art. 12 ust. 1–4 oraz art. 13.
 
 #### Rozdział 3 Organizowanie publicznego transportu zbiorowego
 
@@ -324,12 +430,12 @@ Art. 66–76. (pominięte)
 
 - **1)** badaniu i analizie potrzeb przewozowych w publicznym transporcie zbiorowym, z uwzględnieniem potrzeb osób niepełnosprawnych i osób o ograniczonej zdolności ruchowej;
 - **2)** podejmowaniu działań zmierzających do realizacji istniejącego planu transportowego albo do aktualizacji tego planu;
-- **3)** zapewnieniu odpowiednich warunków funkcjonowania publicznego transportu zbiorowego, w szczególności w zakresie:
-    - **a)** standardów dotyczących przystanków komunikacyjnych oraz dworców,
-    - **b)** korzystania z przystanków komunikacyjnych oraz dworców,
-    - **c)** funkcjonowania zintegrowanych węzłów przesiadkowych,
-    - **d)** funkcjonowania zintegrowanego systemu taryfowo-biletowego,
-    - **e)** systemu informacji dla pasażera;
+- **3)** zapewnieniu odpowiednich warunków funkcjonowania publicznego transportu zbiorowego, w szczególności w zakresie: standardów dotyczących przystanków komunikacyjnych oraz dworców, korzystania z przystanków komunikacyjnych oraz dworców, funkcjonowania zintegrowanych węzłów przesiadkowych, funkcjonowania zintegrowanego systemu taryfowo-biletowego, systemu informacji dla pasażera;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 - **4)** określaniu sposobu oznakowania środków transportu wykorzystywanych w przewozach o charakterze użyteczności publicznej;
 - **5)** ustalaniu stawek opłat za korzystanie przez operatorów i przewoźników z przystanków komunikacyjnych i dworców, których właścicielem albo zarządzającym nie jest jednostka samorządu terytorialnego, zlokalizowanych na liniach komunikacyjnych na obszarze właściwości organizatora;
@@ -337,27 +443,11 @@ Art. 66–76. (pominięte)
 - **7)** określaniu przystanków komunikacyjnych i dworców, których właścicielem lub zarządzającym nie jest jednostka samorządu terytorialnego, udostępnionych dla wszystkich operatorów i przewoźników oraz informowaniu o stawce opłat za korzystanie z tych obiektów;
 - **8)** przygotowaniu i przeprowadzeniu postępowania prowadzącego do zawarcia umowy o świadczenie usług w zakresie publicznego transportu zbiorowego;
 - **9)** zawieraniu umowy o świadczenie usług w zakresie publicznego transportu zbiorowego;
-- **10)** ustalaniu opłat za przewóz oraz innych opłat, o których mowa w ustawie z dnia 15 listopada 1984 r. – Prawo przewozowe (Dz. U. z 2024 r. poz. 1262), za usługę świadczoną przez operatora w zakresie publicznego transportu zbiorowego;
+- **10)** ustalaniu opłat za przewóz oraz innych opłat, o których mowa w ustawie z dnia 15 listopada 1984 r. – Prawo przewozowe (Dz. U. z 2000 r. Nr 50, poz. 601, z późn. zm.), za usługę świadczoną przez operatora w zakresie publicznego transportu zbiorowego;
 - **11)** ustalaniu sposobu dystrybucji biletów za usługę świadczoną przez operatora w zakresie publicznego transportu zbiorowego;
 - **12)** wykonywaniu zadań, o których mowa w art. 7 ust. 2 rozporządzenia (WE) nr 1370/2007.
 
 2. Określenie przystanków komunikacyjnych i dworców oraz warunków i zasad korzystania, o których mowa w ust. 1 pkt 6, następuje w drodze uchwały podjętej przez właściwy organ danej jednostki samorządu terytorialnego.
-
-**Art. 15¹.**
-
-1. Organizator inny niż związek metropolitalny i minister właściwy do spraw transportu, samodzielnie lub w porozumieniu z innymi organizatorami, może ustanowić, na obszarze swojej właściwości w ramach danego województwa, zintegrowany system taryfowo-biletowy obowiązujący w jego granicach.
-
-2. Organizator działający w ramach jednego województwa, w tym związek metropolitalny, może przystąpić do uczestnictwa w systemie taryfowo-biletowym, jeżeli system ten ustanawia województwo.
-
-3. Wzajemne rozliczenia z tytułu uczestnictwa organizatora w zintegrowanym systemie taryfowo-biletowym określa porozumienie zawarte przez województwo z pozostałymi organizatorami.
-
-**Art. 15a.**
-
-1. Związek metropolitalny ustanawia zintegrowany system taryfowo-biletowy obowiązujący w jego granicach.
-
-2. Organizatorzy gminnych i powiatowych przewozów pasażerskich na terenie związku metropolitalnego są obowiązani do uczestnictwa w systemie taryfowo-biletowym, o którym mowa w ust. 1.
-
-3. Wzajemne rozliczenia z tytułu uczestnictwa organizatorów gminnych i powiatowych przewozów pasażerskich w zintegrowanym systemie taryfowo-biletowym na terenie związku metropolitalnego określa porozumienie zawarte przez związek metropolitalny i odpowiednią jednostkę samorządu terytorialnego.
 
 **Art. 16.**
 
@@ -372,8 +462,7 @@ Art. 66–76. (pominięte)
 5. Stawka opłaty, o której mowa w ust. 4, nie może być wyższa niż:
 
 - **1)** 0,05 zł za jedno zatrzymanie środka transportu na przystanku komunikacyjnym;
-- **2)** 1 zł za jedno zatrzymanie środka transportu na dworcu;
-- **3)** 2 zł za jedno zatrzymanie środka transportu na dworcu wyznaczonym zgodnie z art. 47h ust. 1 pkt 1 ustawy z dnia 6 września 2001 r. o transporcie drogowym do udzielania pomocy osobom niepełnosprawnym i osobom o ograniczonej sprawności ruchowej w zakresie określonym w załączniku I lit. a do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 181/2011 z dnia 16 lutego 2011 r. dotyczącego praw pasażerów w transporcie autobusowym i autokarowym i zmieniającego rozporządzenie (WE) nr 2006/2004.
+- **2)** 1 zł za jedno zatrzymanie środka transportu na dworcu.
 
 6. Stawka opłaty, o której mowa w ust. 5, ulega zmianie w stopniu odpowiadającym planowanemu średniorocznemu wskaźnikowi cen towarów i usług konsumpcyjnych, ustalonemu w ustawie budżetowej na dany rok. Zmiana następuje od pierwszego dnia miesiąca następującego po miesiącu, w którym została ogłoszona ustawa budżetowa.
 
@@ -390,7 +479,8 @@ Art. 66–76. (pominięte)
 
 **Art. 18.** Do zadań własnych gminy w zakresie publicznego transportu zbiorowego należą budowa, przebudowa i remont:
 
-**Art. 18a.** Minister właściwy do spraw informatyzacji zapewnia organizatorowi możliwość świadczenia usługi, która pozwala na wydawanie i obsługę dokumentów elektronicznych uprawniających do korzystania z usług związanych ze świadczeniem publicznego transportu zbiorowego, jeżeli organizator takie dokumenty wydaje, obsługiwanych przy użyciu aplikacji mObywatel w rozumieniu ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717).
+- **1)** przystanków komunikacyjnych oraz dworców, których właścicielem lub zarządzającym jest gmina;
+- **2)** wiat przystankowych lub innych budynków służących pasażerom, posadowionych na miejscu przeznaczonym do wsiadania i wysiadania pasażerów lub przylegających do tego miejsca, usytuowanych w pasie drogowym dróg publicznych bez względu na kategorię tych dróg.
 
 ##### Oddział 2 Umowa o świadczenie usług w zakresie publicznego transportu zbiorowego
 
@@ -398,29 +488,25 @@ Art. 66–76. (pominięte)
 
 1. Organizator dokonuje wyboru operatora w trybie:
 
-- **1)** ustawy z dnia 11 września 2019 r. ‒ Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320) albo
-- **2)** (uchylony)
+- **1)** ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2010 r. Nr 113, poz. 759, Nr 161, poz. 1078 i Nr 182, poz. 1228) albo
+- **2)** ustawy z dnia 9 stycznia 2009 r. o koncesji na roboty budowlane lub usługi (Dz. U. Nr 19, poz. 101, z późn. zm.) albo
 - **3)** art. 22 ust. 1.
 
 2. Organizator może realizować przewozy w ramach publicznego transportu zbiorowego w formie samorządowego zakładu budżetowego.
 
 **Art. 20.** Operatorowi nie przyznaje się prawa wyłącznego, o którym mowa w rozporządzeniu (WE) nr 1370/2007.
 
-**Art. 20a.** Organizator, o którym mowa w art. 7 ust. 1 pkt 6, może zawrzeć z tym samym operatorem jedną umowę o świadczenie usług w zakresie publicznego transportu zbiorowego w transporcie kolejowym obejmującą międzywojewódzkie przewozy pasażerskie i międzynarodowe przewozy pasażerskie.
-
 **Art. 21.**
 
-1. Przy udzielaniu zamówienia publicznego na wykonywanie publicznego transportu zbiorowego, w dokumentach zamówienia można uwzględnić w szczególności normy jakości i powszechną dostępność świadczonych usług, w tym:
+1. Przy udzielaniu zamówienia publicznego na wykonywanie publicznego transportu zbiorowego, w specyfikacji istotnych warunków zamówienia można uwzględnić w szczególności normy jakości i powszechną dostępność świadczonych usług, w tym:
 
 - **1)** liczbę i rodzaj środków transportu, niezbędnych do realizacji usług wraz z odpowiednim personelem oraz zapleczem technicznym, zabezpieczającym ich obsługę, które przedsiębiorca posiada w chwili składania oferty lub w których posiadaniu będzie najpóźniej w chwili rozpoczęcia świadczenia usług;
-- **2)** rozwiązania techniczne zastosowane w środkach transportu służące zwłaszcza zapewnieniu ochrony środowiska oraz dogodnej obsługi pasażerów;
+- **2)** rozwiązania techniczne zastosowane w środkach transportu służące zwłaszcza zapewnieniu ochrony środowiska oraz dogodnej obsługi pasażerów, w tym osób niepełnosprawnych i osób o ograniczonej zdolności ruchowej;
 - **3)** standard wyposażenia środków transportu.
 
-1a. Przy udzielaniu zamówienia publicznego na wykonywanie publicznego transportu zbiorowego, w dokumentach zamówienia uwzględnia się konieczność zapewnienia w środkach transportu rozwiązań technicznych służących zapewnieniu ich dostępności dla osób niepełnosprawnych i osób o ograniczonej zdolności ruchowej.
+2. Organizator może określić w specyfikacji istotnych warunków zamówienia, o której mowa w ust. 1, iż świadczenie usług w zakresie publicznego transportu zbiorowego na danej linii komunikacyjnej, liniach komunikacyjnych lub sieci komunikacyjnej, które są nierentowne, będzie wiązało się ze świadczeniem takich usług przez tego samego operatora na innej linii komunikacyjnej, liniach komunikacyjnych lub sieci komunikacyjnej, które są rentowne.
 
-2. Organizator może określić w dokumentach zamówienia, o których mowa w ust. 1, iż świadczenie usług w zakresie publicznego transportu zbiorowego na danej linii komunikacyjnej, liniach komunikacyjnych lub sieci komunikacyjnej, które są nierentowne, będzie wiązało się ze świadczeniem takich usług przez tego samego operatora na innej linii komunikacyjnej, liniach komunikacyjnych lub sieci komunikacyjnej, które są rentowne.
-
-3. Do dokumentów zamówienia dołącza się projekt umowy, o której mowa w art. 25.
+3. Do specyfikacji istotnych warunków zamówienia dołącza się projekt umowy, o której mowa w art. 25.
 
 **Art. 22.**
 
@@ -428,34 +514,31 @@ Art. 66–76. (pominięte)
 
 - **1)** średnia wartość roczna przedmiotu umowy jest mniejsza niż 1 000 000 euro lub świadczenie usług w zakresie publicznego transportu zbiorowego dotyczy świadczenia tych usług w wymiarze mniejszym niż 300 000 kilometrów rocznie albo
 - **2)** świadczenie usług w zakresie publicznego transportu zbiorowego ma być wykonywane przez podmiot wewnętrzny, w rozumieniu rozporządzenia (WE) nr 1370/2007, powołany do świadczenia usług w zakresie publicznego transportu zbiorowego albo
-- **3)** świadczenie usług w zakresie publicznego transportu zbiorowego ma być wykonywane w transporcie kolejowym, przy zastosowaniu jednego z trybów, o których mowa w art. 5 ust. 2, 3a i 4–6 rozporządzenia (WE) nr 1370/2007, z zastrzeżeniem art. 22a, albo
-- **4)** wystąpi zakłócenie w świadczeniu usług w zakresie publicznego transportu zbiorowego lub bezpośrednie ryzyko powstania takiej sytuacji zarówno z przyczyn zależnych, jak i niezależnych od operatora, o ile nie można zachować terminów określonych dla innych trybów zawarcia umowy o świadczenie publicznego transportu zbiorowego, o których mowa w art. 19 ust. 1 pkt 1.
+- **3)** świadczenie usług w zakresie publicznego transportu zbiorowego ma być wykonywane w transporcie kolejowym albo
+- **4)** wystąpi zakłócenie w świadczeniu usług w zakresie publicznego transportu zbiorowego lub bezpośrednie ryzyko powstania takiej sytuacji zarówno z przyczyn zależnych, jak i niezależnych od operatora, o ile nie można zachować terminów określonych dla innych trybów zawarcia umowy o świadczenie publicznego transportu zbiorowego, o których mowa w art. 19 ust. 1 pkt 1 i 2.
 
-2. Jeżeli bezpośrednio zawarta umowa o świadczenie usług w zakresie publicznego transportu zbiorowego dotyczy małego lub średniego przedsiębiorcy eksploatującego nie więcej niż 23 środki transportu, którymi będzie wykonywany publiczny transport zbiorowy w transporcie drogowym, progi, o których mowa w ust. 1 pkt 1, mogą zostać podwyższone do średniej wartości rocznej przedmiotu umowy mniejszej niż 2 000 000 euro lub świadczenia usług w zakresie publicznego transportu zbiorowego w wymiarze mniejszym niż 600 000 kilometrów rocznie.
+2. Jeżeli bezpośrednio zawarta umowa o świadczenie usług w zakresie publicznego transportu zbiorowego dotyczy małego lub średniego przedsiębiorcy eksploatującego nie więcej niż 23 środki transportu, progi, o których mowa w ust. 1 pkt 1, mogą zostać podwyższone do średniej wartości rocznej przedmiotu umowy nie wyższej niż 2 000 000 euro lub świadczenia usług w zakresie publicznego transportu zbiorowego w wymiarze mniejszym niż 600 000 kilometrów rocznie.
 
-3. Do umowy o świadczenie usług w zakresie publicznego transportu zbiorowego zawieranej na podstawie ust. 1 stosuje się odpowiednio przepisy art. 24–
+3. Do umowy o świadczenie usług w zakresie publicznego transportu zbiorowego zawieranej na podstawie ust. 1 stosuje się odpowiednio przepisy art. 24–29.
 
-29.
+4. W przypadku, gdy przedmiotem umowy o świadczenie usług w zakresie publicznego transportu zbiorowego, zawartej w trybie, o którym mowa w ust. 1, ma być świadczenie usług przewozowych w komunikacji miejskiej, umowa powinna przyjąć formę koncesji na usługi. Przepisu nie stosuje się w przypadku bezpośredniego zawarcia umowy z podmiotem wewnętrznym, w którym jednostka samorządu terytorialnego samodzielnie lub wspólnie z inną jednostką samorządu terytorialnego posiada 100% udziałów lub akcji tego podmiotu wewnętrznego.
 
-4. (uchylony)
+5. W przypadku podmiotu wewnętrznego, w którym jednostka samorządu terytorialnego samodzielnie lub wspólnie z inną jednostką samorządu terytorialnego nie posiada 100% udziałów lub akcji tego podmiotu wewnętrznego, umowa o świadczenie usług w zakresie publicznego transportu zbiorowego zawarta w trybie, o którym mowa w ust. 1, powinna przyjąć formę koncesji na usługi.
 
-5. (uchylony)
+6. W przypadku, o którym mowa w ust. 1 pkt 2, stosuje się art. 5 ust. 2 rozporządzenia (WE) nr 1370/2007.
 
-6. (uchylony)
-
-7. (uchylony)
+7. Umowa o świadczenie usług w zakresie publicznego transportu zbiorowego zawierana w przypadku, o którym mowa w ust. 1 pkt 3, powinna odpowiadać warunkom określonym w art. 5 ust. 6 rozporządzenia (WE) nr 1370/2007.
 
 8. Umowa o świadczenie usług w zakresie publicznego transportu zbiorowego zawierana w przypadku, o którym mowa w ust. 1 pkt 4, może być zawarta na okres 12 miesięcy i w uzasadnionych przypadkach może ulec przedłużeniu, z tym że łączny okres obowiązywania przedłużonej umowy nie może przekroczyć 2 lat.
 
-9. Do bezpośredniego zawarcia umowy, o którym mowa w ust. 1, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, z wyłączeniem art. 36.
+9. Do bezpośredniego zawarcia umowy, o którym mowa w ust. 1, nie stosuje się przepisów:
 
-**Art. 22a.** Przepisów art. 5 ust. 2, 4, 4a i 6 rozporządzenia (WE) nr 1370/2007 nie stosuje się do umów o świadczenie usług w zakresie publicznego transportu zbiorowego w transporcie kolejowym obejmujących wojewódzkie przewozy pasażerskie.
-
-**Art. 22b.** W przypadku dokonywania wyboru operatora mającego świadczyć usługi w zakresie publicznego transportu zbiorowego w transporcie kolejowym w trybach, o których mowa w art. 19 ust. 1 pkt 1, organizator może podjąć negocjacje z podmiotem, który jako jedyny wyraził zainteresowanie udziałem w postępowaniu, pod warunkiem spełnienia wymogów określonych w art. 5 ust. 3b rozporządzenia (WE) nr 1370/2007.
+- **1)** ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych, z wyłączeniem art. 35, oraz
+- **2)** ustawy z dnia 9 stycznia 2009 r. o koncesji na roboty budowlane lub usługi.
 
 **Art. 23.**
 
-1. Organizator publikuje ogłoszenie o zamiarze przeprowadzenia postępowania o udzielenie zamówienia w trybie, o którym mowa w art. 19 ust. 1 pkt 1, lub bezpośredniego zawarcia umowy, o którym mowa w art. 22 ust. 1 pkt 1–3, w terminie nie krótszym niż:
+1. Organizator publikuje ogłoszenie o zamiarze przeprowadzenia postępowania o udzielenie zamówienia w trybie, o którym mowa w art. 19 ust. 1 pkt 1 i 2, lub bezpośredniego zawarcia umowy, o którym mowa w art. 22 ust. 1 pkt 1–3, w terminie nie krótszym niż:
 
 - **1)** jeden rok;
 - **2)** sześć miesięcy – w przypadku gdy umowa o świadczenie usług w zakresie publicznego transportu zbiorowego ma dotyczyć świadczenia tych usług w wymiarze mniejszym niż 50 000 kilometrów rocznie.
@@ -469,18 +552,11 @@ Art. 66–76. (pominięte)
 - **1)** nazwę i adres właściwego organizatora;
 - **2)** określenie przewidywanego trybu udzielenia zamówienia;
 - **3)** określenie rodzaju transportu oraz linii komunikacyjnej, linii komunikacyjnych lub sieci komunikacyjnej, na których będą wykonywane przewozy;
-- **4)** przewidywaną datę rozpoczęcia postępowania o udzielenie zamówienia w trybie, o którym mowa w art. 19 ust. 1 pkt 1, lub bezpośredniego zawarcia umowy, o którym mowa w art. 22 ust. 1 pkt 1–3;
-- **5)** przewidywany czas trwania umowy o świadczenie usług w zakresie publicznego transportu zbiorowego.
+- **4)** przewidywaną datę rozpoczęcia postępowania o udzielenie zamówienia w trybie, o którym mowa w art. 19 ust. 1 pkt 1 i 2, lub bezpośredniego zawarcia umowy, o którym mowa w art. 22 ust. 1 pkt 1–3.
 
-5. W przypadku zmiany informacji, o których mowa w ust. 4 pkt 1–3 i 5, organizator niezwłocznie zamieszcza ogłoszenie o tej zmianie. Przepisy ust. 2 i 3 stosuje się odpowiednio.
+5. W przypadku zmiany informacji, o których mowa w ust. 4 pkt 1–3, organizator niezwłocznie zamieszcza ogłoszenie o tej zmianie. Przepisy ust. 2 i 3 stosuje się odpowiednio.
 
-6. Zmiana informacji, o których mowa w ust. 4 pkt 1–3 i 5, nie może nastąpić później niż do połowy okresów określonych w ust. 1.
-
-**Art. 23a.**
-
-1. Po ogłoszeniu zamiaru bezpośredniego zawarcia umowy o świadczenie usług w zakresie publicznego transportu zbiorowego w transporcie kolejowym, podmiot, który jest lub był zainteresowany zawarciem danej umowy i który doznał szkody lub któremu grozi powstanie szkody w wyniku zarzucanego naruszenia przepisów prawa Unii Europejskiej lub ustawy, może wystąpić do Prezesa Urzędu Transportu Kolejowego z wnioskiem o wydanie opinii w zakresie oceny zgodności zamiaru bezpośredniego zawarcia umowy z przepisami prawa Unii Europejskiej lub ustawy.
-
-2. Prezes Urzędu Transportu Kolejowego wydaje opinię, o której mowa w ust. 1, w terminie 30 dni od dnia złożenia wniosku oraz publikuje jej treść w Biuletynie Informacji Publicznej Urzędu Transportu Kolejowego.
+6. Zmiana informacji, o których mowa w ust. 4 pkt 1 -3, nie może nastąpić później niż do upływu połowy okresów określonych w ust. 1.
 
 **Art. 24.**
 
@@ -492,18 +568,16 @@ Art. 66–76. (pominięte)
 
 2. W przypadku, gdy organizator w celu organizowania przewozów o charakterze użyteczności publicznej ma obowiązek opracowania planu transportowego, umowa o świadczenie usług w zakresie publicznego transportu zbiorowego może dotyczyć linii komunikacyjnej, linii komunikacyjnych albo sieci komunikacyjnej ujętych w planie transportowym obowiązującym na obszarze właściwości danego organizatora.
 
-2a. W przypadku gdy organizatorem jest województwo, umowa o świadczenie usług w zakresie publicznego transportu zbiorowego może dotyczyć linii komunikacyjnych, o których mowa w art. 9 ust. 1a.
-
 3. Przepis ust. 2 nie dotyczy umowy o świadczenie usług w zakresie publicznego transportu zbiorowego zawieranej w przypadku, o którym mowa w art. 22 ust. 1 pkt 4.
 
 **Art. 25.**
 
-1. Organizator, po wybraniu najkorzystniejszej oferty na podstawie warunków i kryteriów określonych w dokumentach zamówienia, w terminie 30 dni od dnia przekazania zawiadomienia o wyborze oferty, zawiera z przedsiębiorcą umowę o świadczenie usług w zakresie publicznego transportu zbiorowego.
+1. Organizator, po wybraniu najkorzystniejszej oferty na podstawie warunków i kryteriów określonych w specyfikacji istotnych warunków zamówienia, w terminie 30 dni od dnia przekazania zawiadomienia o wyborze oferty, zawiera z przedsiębiorcą umowę o świadczenie usług w zakresie publicznego transportu zbiorowego.
 
 2. Umowa, o której mowa w ust. 1, jest zawierana na czas oznaczony, nie dłuższy niż:
 
 - **1)** 10 lat – w transporcie drogowym;
-- **2)** 15 lat – w transporcie kolejowym, z wyjątkiem przypadków, o których mowa w art. 5 ust. 3a i 4a–5 oraz art. 8 ust. 2 i 2a rozporządzenia (WE) nr 1370/2007;
+- **2)** 15 lat – w transporcie kolejowym, z zastrzeżeniem art. 22 ust. 7;
 - **3)** 15 lat – w transporcie innym szynowym, linowym, linowo-terenowym, morskim i w żegludze śródlądowej.
 
 3. W umowie, o której mowa w ust. 1, określa się w szczególności:
@@ -530,19 +604,11 @@ Art. 66–76. (pominięte)
 - **20)** zasady współpracy przy tworzeniu i aktualizacji rozkładów jazdy w celu poprawy funkcjonowania przewozów;
 - **21)** w transporcie kolejowym – zakres korzystania z infrastruktury, w szczególności zakres przepustowości trasy oraz standard jakości dostępu będące przedmiotem umowy;
 - **22)** kary umowne;
-- **23)** warunki zmiany oraz rozwiązania umowy;
-- **24)** informacje, o których mowa w art. 4 ust. 8 zdanie trzecie rozporządzenia (WE) nr 1370/2007, które operator jest obowiązany przekazywać organizatorowi w celu udzielenia zamówienia w trybach, o których mowa w art. 19 ust. 1 pkt 1.
+- **23)** warunki zmiany oraz rozwiązania umowy.
 
 4. Sposób, o którym mowa w ust. 3 pkt 15, powinien odpowiadać wymaganiom określonym w załączniku do rozporządzenia (WE) nr 1370/2007.
 
-5. Przy uzgadnianiu zasad korzystania z przystanków komunikacyjnych i dworców, o którym mowa w ust. 3 pkt 16, właściciel przystanku komunikacyjnego położonego w granicach administracyjnych miasta lub dworca albo zarządzający tymi obiektami uzgadnia zasady korzystania z tych obiektów, w przypadku gdy proponowany rozkład jazdy:
-
-- **1)** określa przystanki komunikacyjne lub dworce:
-    - **a)** o których mowa w art. 15 ust. 1 pkt 7,
-    - **b)** wskazane w uchwale, o której mowa w art. 15 ust. 2;
-
-- **2)** nie ograniczy przepustowości przystanków komunikacyjnych lub dworców;
-- **3)** nie spowoduje zagrożenia dla organizacji lub bezpieczeństwa ruchu.
+5. Do uzgodnienia zasad korzystania z przystanków komunikacyjnych i dworców, o którym mowa w ust. 3 pkt 16, przepisy art. 32 stosuje się odpowiednio.
 
 **Art. 26.**
 
@@ -563,13 +629,12 @@ Art. 66–76. (pominięte)
 2. Zaświadczenie, o którym mowa w ust. 1, powinno zawierać:
 
 - **1)** oznaczenie przedsiębiorcy, jego siedziby (miejsca zamieszkania) i adresu;
-- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada, oraz numer identyfikacji podatkowej (NIP);
+- **2)** numer w rejestrze przedsiębiorców albo w ewidencji działalności gospodarczej;
 - **3)** określenie rodzaju i zakresu wykonywanych przewozów;
 - **4)** określenie rodzaju i liczby środków transportu;
-- **5)** określenie przebiegu linii komunikacyjnej, na której będzie wykonywany przewóz, z zastrzeżeniem pkt 6;
-- **6)** w komunikacji miejskiej – określenie przebiegu sieci komunikacyjnej, na której będzie wykonywany przewóz.
+- **5)** określenie przebiegu linii komunikacyjnej, na której będzie wykonywany przewóz.
 
-3. Załącznikiem do zaświadczenia, o którym mowa w ust. 1, jest obowiązujący rozkład jazdy. W komunikacji miejskiej rozkład jazdy może być dołączony w postaci elektronicznej, jeżeli środek transportu jest wyposażony w urządzenie umożliwiające jego odczytanie.
+3. Załącznikiem do zaświadczenia, o którym mowa w ust. 1, jest rozkład jazdy.
 
 4. Zaświadczenie, o którym mowa w ust. 1, potwierdza posiadanie przez operatora uprawnień do wykonywania publicznego transportu zbiorowego na danej linii komunikacyjnej, liniach komunikacyjnych lub sieci komunikacyjnej. Zaświadczenie oraz aktualny rozkład jazdy powinny znajdować się w środku transportu, w którym wykonywany jest publiczny transport zbiorowy w transporcie drogowym i powinny być okazywane na żądanie uprawnionego organu kontroli.
 
@@ -577,7 +642,7 @@ Art. 66–76. (pominięte)
 
 6. Operator jest obowiązany wystąpić do właściwego organizatora z wnioskiem o zmianę treści zaświadczenia, o którym mowa w ust. 1, w przypadku wystąpienia zmiany danych, o których mowa w ust. 2 pkt 1 i 2, nie później niż w terminie 14 dni od dnia ich wystąpienia.
 
-7. (uchylony)
+7. Do wniosku o zmianę zaświadczenia, o którym mowa w ust. 6, dołącza się poświadczoną przez operatora za zgodność z oryginałem kserokopię odpisu z rejestru przedsiębiorców albo z ewidencji działalności gospodarczej.
 
 8. Za wydanie zaświadczenia, wtórnika zaświadczenia oraz za zmianę zaświadczenia, właściwy organizator pobiera opłaty.
 
@@ -586,23 +651,196 @@ Art. 66–76. (pominięte)
 - **1)** wynikających z organizacji publicznego transportu zbiorowego;
 - **2)** określonych w art. 18 – w przypadku gdy organizatorem jest gmina.
 
-**Art. 28a.**
-
-1. Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw gospodarki morskiej oraz ministrem właściwym do spraw żeglugi śródlądowej określi, w drodze rozporządzenia, wzór zaświadczenia, o którym mowa w art. 28 ust. 1, a także wysokość opłaty za wydanie zaświadczenia, wtórnika zaświadczenia oraz zmianę zaświadczenia, która nie może być wyższa niż odpowiednio 1000 zł za wydanie zaświadczenia, 200 zł za wydanie wtórnika zaświadczenia oraz 100 zł za zmianę zaświadczenia.
-
-2. Wydając rozporządzenie, o którym mowa w ust. 1, uwzględnia się:
-
-- **1)** zakres danych niezbędnych do wydania dokumentów, o których mowa w ust. 1;
-- **2)** potrzebę zabezpieczenia dokumentów, o których mowa w ust. 1;
-- **3)** potrzebę zróżnicowania wysokości opłat za wydanie dokumentów, o których mowa w ust. 1, w zależności od:
-    - **a)** wysokości kosztów za czynności administracyjne związane z wydaniem tych dokumentów,
-    - **b)** wysokości kosztów związanych z organizacją publicznego transportu zbiorowego.
-
 **Art. 29.** W przypadku śmierci osoby fizycznej, z którą zawarto umowę o świadczenie usług w zakresie publicznego transportu zbiorowego, dopuszcza się wykonywanie przewozu przez osobę, która złożyła wniosek o stwierdzenie nabycia spadku tej osoby, przez okres nie dłuższy niż 18 miesięcy od dnia jej śmierci.
 
-##### Oddział 3 (uchylony)
+##### Oddział 3 Potwierdzenie zgłoszenia przewozu
 
-##### Oddział 4 (uchylony)
+**Art. 30.**
+
+1. Przewóz osób w zakresie publicznego transportu zbiorowego niebędący przewozem o charakterze użyteczności publicznej może być wykonywany przez przedsiębiorcę po dokonaniu zgłoszenia o zamiarze wykonywania takiego przewozu do organizatora właściwego ze względu na obszar lub zasięg przewozów i wydaniu przez tego organizatora potwierdzenia zgłoszenia przewozu, z zastrzeżeniem art. 31.
+
+2. Zgłoszenie, o którym mowa w ust. 1, zawiera:
+
+- **1)** imię i nazwisko oraz miejsce zamieszkania, a w przypadku osoby prawnej nazwę i siedzibę przedsiębiorcy, numer identyfikacji statystycznej (REGON) oraz numer identyfikacji podatkowej (NIP);
+- **2)** określenie proponowanej linii komunikacyjnej, na której ma odbywać się przewóz, oraz długości tej linii w kilometrach;
+- **3)** wskazanie zamierzonego okresu wykonywania przewozu.
+
+3. Do zgłoszenia, o którym mowa w ust. 1, dołącza się:
+
+- **1)** proponowany rozkład jazdy zawierający przystanki komunikacyjne lub dworce: o których mowa w art. 15 ust. 1 pkt 7, wskazane w uchwale, o której mowa w art. 15 ust. 2;
+    - **a)**
+    - **b)**
+
+- **2)** informację o środkach transportu, którymi przedsiębiorca zamierza wykonywać przewóz;
+- **3)** potwierdzenie uzgodnienia zasad korzystania z przystanków komunikacyjnych położonych w granicach administracyjnych miast i dworców dokonane z ich właścicielami lub zarządzającymi;
+- **4)** kserokopię dokumentów potwierdzających posiadanie uprawnień do prowadzenia działalności w zakresie przewozu osób, odpowiednio do rodzaju przewozu, zgodnie z art. 6;
+- **5)** odpis z rejestru przedsiębiorców albo z ewidencji działalności gospodarczej.
+
+**Art. 31.** W transporcie kolejowym przewóz osób w zakresie publicznego transportu zbiorowego niebędący przewozem o charakterze użyteczności publicznej może być wykonywany przez przedsiębiorcę na podstawie decyzji o przyznaniu otwartego dostępu.
+
+**Art. 32.**
+
+1. Przed dokonaniem zgłoszenia, o którym mowa w art. 30 ust. 1, przedsiębiorca powinien uzgodnić zasady korzystania z przystanków komunikacyjnych położonych w granicach administracyjnych miast i dworców z właścicielem tych obiektów lub ich zarządzającym.
+
+2. Do wniosku o uzgodnienie zasad korzystania z przystanków komunikacyjnych i dworców, o których mowa w ust. 1, przedsiębiorca dołącza w szczególności proponowany rozkład jazdy oraz schemat połączeń komunikacyjnych z zaznaczoną linią komunikacyjną i przystankami komunikacyjnymi.
+
+3. Właściciel przystanku komunikacyjnego położonego w granicach administracyjnych miast lub dworca albo zarządzający tymi obiektami, uzgadnia zasady korzystania z tych obiektów w przypadku, gdy proponowany rozkład jazdy:
+
+- **1)** zawiera przystanki komunikacyjne lub dworce: o których mowa w art. 15 ust. 1 pkt 7, wskazane w uchwale, o której mowa w art. 15 ust. 2;
+    - **a)**
+    - **b)**
+
+- **2)** nie ograniczy przepustowości przystanków komunikacyjnych lub dworców;
+- **3)** nie spowoduje zagrożenia dla organizacji lub bezpieczeństwa ruchu.
+
+4. Po uzyskaniu potwierdzenia zgłoszenia przewozu przewoźnik jest obowiązany niezwłocznie, jednak nie później niż w terminie 3 miesięcy od dnia uzgodnienia zasad korzystania z przystanków komunikacyjnych i dworców, przekazać właścicielowi przystanku komunikacyjnego lub dworca, lub zarządzającemu tymi obiektami, kserokopię potwierdzenia.
+
+5. W przypadku nieprzekazania kserokopii potwierdzenia zgłoszenia przewozu w terminie, o którym mowa w ust. 4, uzgodnienie traci ważność.
+
+6. Po uzyskaniu potwierdzenia zgłoszenia przewozów, obejmującego przystanki położone poza granicami administracyjnymi miast, przewoźnik jest obowiązany niezwłocznie poinformować właściwe gminy, na obszarze których położone są przystanki, o uzyskaniu potwierdzenia zgłoszenia przewozu i przed rozpoczęciem przewozów doręczyć rozkład jazdy oraz schemat połączeń komunikacyjnych z zaznaczoną linią komunikacyjną i przystankami komunikacyjnymi, a następnie informować o dokonywanych zmianach.
+
+**Art. 33.** Organizator odmawia wydania, w drodze decyzji administracyjnej, potwierdzenia zgłoszenia przewozu, o którym mowa w art. 30 ust. 1, jeżeli zaistnieją okoliczności, o których mowa w art. 35 ust. 5.
+
+**Art. 34.**
+
+1. Jeżeli nie zachodzą przesłanki do odmowy wydania potwierdzenia zgłoszenia przewozu, organizator, na podstawie danych i informacji, o których mowa w art. 30 ust. 2 i 3, w terminie 30 dni od dnia dokonania zgłoszenia, wydaje przedsiębiorcy, w drodze decyzji administracyjnej, potwierdzenie zgłoszenia przewozu oraz wypis z tego potwierdzenia, o ile jest wymagany.
+
+2. W uzasadnionych przypadkach termin, o którym mowa w ust. 1, może zostać przedłużony o 30 dni.
+
+3. Potwierdzenie, o którym mowa w ust. 1, powinno zawierać:
+
+- **1)** oznaczenie przedsiębiorcy, jego siedziby (miejsca zamieszkania) i adresu;
+- **2)** numer w rejestrze przedsiębiorców albo w ewidencji działalności gospodarczej;
+- **3)** określenie rodzaju i zakresu wykonywanych przewozów;
+- **4)** określenie rodzaju i liczby środków transportu;
+- **5)** określenie przebiegu linii komunikacyjnej, na której będzie wykonywany przewóz.
+
+4. Załącznikiem do potwierdzenia zgłoszenia przewozu jest rozkład jazdy.
+
+5. Potwierdzenie, o którym mowa w ust. 1, wydaje się na okres do 5 lat.
+
+6. Za wydanie potwierdzenia zgłoszenia przewozu, wtórnika potwierdzenia, wypisu z potwierdzenia oraz za zmianę potwierdzenia właściwy organizator pobiera opłaty.
+
+7. Opłaty, o których mowa w ust. 6, stanowią dochód właściwego organizatora, z przeznaczeniem na realizację zadań:
+
+- **1)** wynikających z organizacji publicznego transportu zbiorowego oraz
+- **2)** określonych w art. 18 – w przypadku gdy organizatorem jest gmina.
+
+8. Jeżeli organizator w terminie określonym w ust. 1 lub w ust. 2, nie wyda przedsiębiorcy potwierdzenia zgłoszenia przewozu, przedsiębiorca ma prawo rozpocząć wykonywanie przewozu zgodnie ze zgłoszeniem o zamiarze wykonywania przewozu.
+
+9. W przypadku, o którym mowa w ust. 8, w transporcie drogowym w środku transportu, którym ma być wykonywany publiczny transport zbiorowy powinna się znajdować potwierdzona przez przedsiębiorcę za zgodność z oryginałem kserokopia złożonego wniosku wraz z rozkładem jazdy.
+
+**Art. 35.**
+
+1. Potwierdzenie, o którym mowa w art. 30 ust. 1, uprawnia do wykonywania publicznego transportu zbiorowego na określonej linii komunikacyjnej. Potwierdzenie zgłoszenia przewozu lub wypis z potwierdzenia oraz aktualny rozkład jazdy powinny znajdować się w środku transportu, którym wykonywany jest publiczny transport zbiorowy w transporcie drogowym, i powinny być okazywane na żądanie uprawnionego organu kontroli.
+
+2. Przewoźnik, który nie wykonuje publicznego transportu zbiorowego na skutek okoliczności zależnych od niego co najmniej przez 14 dni, jest obowiązany niezwłocznie poinformować właściwego organizatora o:
+
+- **1)** zrzeczeniu się wykonywania przewozu albo
+- **2)** zawieszeniu wykonywania przewozu, wskazując termin podjęcia jego wykonywania.
+
+3. Przewoźnik jest obowiązany niezwłocznie poinformować właściwego organizatora o podjęciu wykonywania przewozu we wskazanym przez siebie terminie w przypadku, o którym mowa w ust. 2 pkt 2.
+
+4. Organizator, w drodze decyzji administracyjnej, cofa potwierdzenie zgłoszenia przewozu w przypadku:
+
+- **1)** rażącego naruszenia przez przewoźnika zasad funkcjonowania publicznego transportu zbiorowego, o których mowa w art. 46;
+- **2)** rażącego naruszenia warunków wykonywania przewozu określonych w potwierdzeniu zgłoszenia przewozu, w tym w rozkładzie jazdy;
+- **3)** rażącego naruszenia zasad korzystania z przystanków;
+- **4)** odstąpienia potwierdzenia osobie trzeciej, przy czym nie jest odstąpieniem potwierdzenia powierzenie wykonania przewozu innemu przewoźnikowi, o którym mowa w art. 5 ustawy z dnia 15 listopada 1984 r. – Prawo przewozowe;
+- **5)** niewykonywania przez przedsiębiorcę przewozu, na skutek okoliczności zależnych od niego, jeżeli: przewoźnik nie wykona obowiązku, o którym mowa w ust. 2, przewoźnik, mimo wykonania obowiązku, o którym mowa w ust. 2 pkt 2, nie podjął wykonywania przewozu we wskazanym terminie.
+    - **a)**
+    - **b)**
+
+5. W przypadkach, o których mowa w ust. 4, ponowne zgłoszenie tego samego przedsiębiorcy o zamiarze wykonywania jakiegokolwiek przewozu nie może być rozpatrzone wcześniej niż po upływie 2 lat od dnia wydania ostatecznej decyzji o cofnięciu potwierdzenia zgłoszenia przewozu.
+
+6. Przewoźnik jest obowiązany wystąpić do organizatora, który wydał potwierdzenie zgłoszenia przewozu, z wnioskiem o zmianę treści tego potwierdzenia, w przypadku wystąpienia zmian danych, o których mowa w art. 34 ust. 3 pkt 1 i 2, nie później niż w terminie 14 dni od dnia ich powstania.
+
+7. Potwierdzenie zgłoszenia przewozu wygasa w przypadku:
+
+- **1)** cofnięcia uprawnienia do podejmowania i wykonywania działalności w zakresie transportu;
+- **2)** zrzeczenia się wykonywania przewozu przez przedsiębiorcę, któremu potwierdzenie zostało wydane, i wydania decyzji o jego wygaśnięciu;
+- **3)** śmierci osoby fizycznej, będącej przedsiębiorcą, któremu potwierdzenie zostało wydane, z zastrzeżeniem art. 36;
+- **4)** likwidacji albo ogłoszenia upadłości przedsiębiorcy, któremu potwierdzenie zostało wydane;
+- **5)** upływu okresu, na jaki zostało wydane.
+
+8. Przewoźnik nie może zrzec się potwierdzenia zgłoszenia przewozu w przypadku wszczęcia postępowania o cofnięcie tego potwierdzenia.
+
+9. Przewoźnik jest obowiązany zwrócić dokumenty, o których mowa w art. 34 ust. 1, organizatorowi, który wydał potwierdzenie zgłoszenia przewozu:
+
+- **1)** niezwłocznie, nie później jednak niż w terminie 14 dni od dnia, w którym decyzja o cofnięciu potwierdzenia stała się ostateczna, w przypadkach, o których mowa w ust. 4;
+- **2)** wraz z wnioskiem o stwierdzenie wygaśnięcia potwierdzenia zgłoszenia przewozu, w przypadkach, o których mowa w ust. 7 pkt 2.
+
+**Art. 36.** W przypadku śmierci osoby fizycznej, której wydano potwierdzenie zgłoszenia przewozu, przepis art. 29 stosuje się odpowiednio.
+
+**Art. 37.**
+
+1. W przypadku wygaśnięcia porozumienia zawartego między jednostkami samorządu terytorialnego lub rozwiązania związku międzygminnego albo związku powiatów, potwierdzenie zgłoszenia przewozu wydane przez takiego organizatora zachowuje ważność przez okres, na jaki zostało wydane.
+
+2. W przypadku, o którym mowa w ust. 1, właściwym organizatorem w sprawach potwierdzenia zgłoszenia przewozu jest organizator właściwy ze względu na zasięg przewozu.
+
+**Art. 38.**
+
+1. Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw gospodarki morskiej określi, w drodze rozporządzenia:
+
+- **1)** wzór zaświadczenia, o którym mowa w art. 28 ust. 1, wysokość opłaty za wydanie zaświadczenia, wtórnika zaświadczenia oraz zmianę zaświadczenia, która nie może być wyższa niż 1 000 zł za wydanie tych dokumentów;
+- **2)** wzór potwierdzenia oraz wypisu z potwierdzenia, o których mowa w art. 34 ust. 1, wysokość opłaty za wydanie potwierdzenia, wtórnika potwierdzenia, wypisu z potwierdzenia oraz zmianę potwierdzenia, która nie może być wyższa niż odpowiednio 1 000 zł za wydanie potwierdzenia, wtórnika potwierdzenia i zmianę potwierdzenia oraz 10 zł za wydanie wypisu z potwierdzenia.
+
+2. Wydając rozporządzenie, o którym mowa w ust. 1, minister będzie kierował się:
+
+- **1)** zakresem danych niezbędnych do wydania dokumentów, o których mowa w ust. 1;
+- **2)** potrzebą zabezpieczenia dokumentów, o których mowa w ust. 1;
+- **3)** potrzebą zróżnicowania wysokości opłat za wydanie dokumentów, o których mowa w ust. 1, w zależności od: wysokości kosztów za czynności administracyjne związane z wydaniem tych dokumentów, wysokości kosztów związanych z organizacją publicznego transportu zbiorowego, rodzaju transportu – w przypadku dokumentów, o których mowa w ust. 1 pkt 2, okresu ważności dokumentów, o których mowa w ust. 1 pkt 2, zasięgu wykonywanego przewozu – w przypadku dokumentów, o których mowa w ust. 1 pkt 2.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+##### Oddział 4 Centralna Ewidencja Przewoźników
+
+**Art. 39.**
+
+1. Tworzy się Centralną Ewidencję Przewoźników, zwaną dalej „ewidencją”.
+
+2. W ewidencji gromadzi się dane o przedsiębiorcach, względem których została wydana ostateczna decyzja o cofnięciu potwierdzenia zgłoszenia przewozu, o której mowa w art. 35 ust. 4.
+
+3. Ewidencję prowadzi, w systemie teleinformatycznym, minister właściwy do spraw transportu, który jest administratorem danych zgromadzonych w ewidencji.
+
+**Art. 40.**
+
+1. W ewidencji gromadzi się:
+
+- **1)** dane o przedsiębiorcy: oznaczenie przedsiębiorcy, siedzibę (miejsce zamieszkania) i adres przedsiębiorcy, numer w rejestrze przedsiębiorców albo w ewidencji działalności gospodarczej;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** rodzaj i zakres przewozu, na wykonywanie którego zostało wydane potwierdzenie zgłoszenia przewozu, oraz przebieg linii komunikacyjnej określonej w tym potwierdzeniu;
+- **3)** dane dotyczące potwierdzenia zgłoszenia przewozu, o którym mowa w pkt 2: datę wydania potwierdzenia, numer potwierdzenia, nazwę organizatora, który wydał potwierdzenie;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **4)** dane dotyczące decyzji o cofnięciu potwierdzenia, o którym mowa w pkt 2: datę wydania, podstawę prawną, nazwę organizatora, który wydał decyzję o cofnięciu potwierdzenia.
+    - **a)**
+    - **b)**
+    - **c)**
+
+2. Organizator, który wydał decyzję, o której mowa w art. 35 ust. 4, niezwłocznie przekazuje do ewidencji:
+
+- **1)** dane, o których mowa w ust. 1 – w przypadku gdy decyzja o cofnięciu potwierdzenia zgłoszenia przewozu stała się ostateczna,
+- **2)** informację o uchyleniu lub unieważnieniu decyzji o cofnięciu potwierdzenia zgłoszenia przewozu w formie elektronicznej w drodze przekazu teleinformatycznego.
+
+**Art. 41.**
+
+1. Dane zawarte w ewidencji są jawne, chyba że ich jawność jest wyłączona bądź ograniczona na podstawie przepisów o ochronie informacji niejawnych lub o ochronie innych tajemnic ustawowo chronionych.
+
+2. Dane zawarte w ewidencji są udostępniane na stronie podmiotowej Biuletynu Informacji Publicznej prowadzonej przez ministra właściwego do spraw transportu.
+
+**Art. 42.** Dane zawarte w ewidencji zostają usunięte:
+
+- **1)** po upływie 2 lat od dnia wydania ostatecznej decyzji o cofnięciu potwierdzenia zgłoszenia przewozu;
+- **2)** niezwłocznie po uzyskaniu informacji, o której mowa w art. 40 ust. 2 pkt 2.
 
 #### Rozdział 4 Zarządzanie publicznym transportem zbiorowym
 
@@ -616,29 +854,31 @@ Art. 66–76. (pominięte)
 - **4)** współpracy przy aktualizacji rozkładów jazdy w celu poprawy funkcjonowania przewozów o charakterze użyteczności publicznej;
 - **5)** analizie realizacji zaspokajania potrzeb przewozowych wynikających z wykonywania przewozów na podstawie umowy o świadczenie usług w zakresie publicznego transportu zbiorowego;
 - **6)** dokonywaniu zmian w przebiegu istniejących linii komunikacyjnych;
-- **7)** zatwierdzaniu rozkładów jazdy oraz dokonywaniu ich aktualizacji w przypadku przewozów wykonywanych na podstawie zezwolenia na wykonywanie regularnych przewozów osób w krajowym transporcie drogowym;
+- **7)** zatwierdzaniu rozkładów jazdy oraz dokonywaniu ich aktualizacji w przypadku przewozów wykonywanych na podstawie potwierdzenia zgłoszenia przewozu;
 - **8)** administrowaniu systemem informacji dla pasażera;
-- **9)** wykonywaniu zadań, o których mowa w art. 7 ust. 1 i 3 rozporządzenia (WE) nr 1370/2007;
-- **10)** wykonywaniu zadań, o których mowa w art. 82b ust. 2 pkt 1 i 3, art. 82e, art. 82f ust. 1 i art. 95b ust. 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym;
-- **11)** ustanawianiu zintegrowanego systemu taryfowo-biletowego obowiązującego w jego granicach, samodzielnie lub w porozumieniu z innymi organizatorami.
+- **9)** wykonywaniu zadań, o których mowa w art. 7 ust. 1 i 3 rozporządzenia (WE) nr 1370/2007.
 
 2. Zarządzanie publicznym transportem zbiorowym przez organizatora w zakresie linii komunikacyjnych oraz rozkładów jazdy w ramach transportu kolejowego odbywa się we współpracy z zarządcą infrastruktury kolejowej w zakresie określonym przepisami ustawy z dnia 28 marca 2003 r. o transporcie kolejowym.
 
 3. Zarządca infrastruktury kolejowej, o którym mowa w ust. 2, uwzględnia potrzeby przewozowe wynikające z realizacji przewozów przez operatora, ujęte w planie transportowym obowiązującym na obszarze właściwości organizatora.
 
-**Art. 44.** W przypadku wystąpienia okoliczności uniemożliwiających wykonywanie publicznego transportu zbiorowego zgodnie z warunkami zawartej umowy, o której mowa w art. 25, w szczególności w zakresie przebiegu linii komunikacyjnej lub sieci komunikacyjnej, organizator wyraża zgodę na ograniczenie świadczenia usługi w zakresie publicznego transportu zbiorowego oraz określa warunki, na jakich może być ona wykonywana w tych okolicznościach, na zasadach określonych w przepisach ustawy z dnia 15 listopada 1984 r. – Prawo przewozowe, a w transporcie morskim – na zasadach określonych w przepisach ustawy z dnia 18 września 2001 r. – Kodeks morski.
+**Art. 44.**
 
-**Art. 44a.**
+1. W przypadku wystąpienia okoliczności uniemożliwiających wykonywanie publicznego transportu zbiorowego zgodnie z warunkami zawartej umowy, o której mowa w art. 25, w szczególności w zakresie przebiegu linii komunikacyjnej lub sieci komunikacyjnej, organizator wyraża zgodę na ograniczenie świadczenia usługi w zakresie publicznego transportu zbiorowego oraz określa warunki, na jakich może być ona wykonywana w tych okolicznościach, na zasadach określonych w przepisach ustawy z dnia 15 listopada 1984 r. – Prawo przewozowe, a w transporcie morskim – na zasadach określonych w przepisach ustawy z dnia 18 września 2001 r. – Kodeks morski.
 
-1. W okresie i na obszarze obowiązywania stanu zagrożenia epidemicznego, stanu epidemii albo stanu nadzwyczajnego operator może realizować usługi w zakresie publicznego transportu zbiorowego na linii komunikacyjnej albo sieci komunikacyjnej w międzywojewódzkich i międzynarodowych przewozach pasażerskich w transporcie kolejowym środkiem transportu drogowego, z zachowaniem prawa do rekompensaty, o której mowa w art. 50 pkt 3.
+2. Warunków określonych w potwierdzeniu zgłoszenia przewozu nie stosuje się w przypadku wystąpienia niezależnych od przewoźnika okoliczności uniemożliwiających wykonywanie przewozu zgodnie z określonym w potwierdzeniu zgłoszenia przewozu przebiegiem linii komunikacyjnej, w szczególności awarii sieci, robót drogowych lub blokad drogowych.
 
-2. Zakres i warunki wykonywania przewozu, o którym mowa w ust. 1, w szczególności trasę przewozu i rozkład jazdy, określają organizator z operatorem w drodze zmiany umowy o świadczenie usług w zakresie publicznego transportu zbiorowego. Zmienione postanowienia umowne mogą dotyczyć przewozu realizowanego w okresie i na obszarze obowiązywania stanów, o których mowa w ust. 1.
+3. W przypadku gdy okoliczności, o których mowa w ust. 2, trwają dłużej niż 14 dni, właściwy organizator, na wniosek przewoźnika, wydaje decyzję w sprawie odstępstwa od warunków określonych w potwierdzeniu zgłoszenia przewozu.
 
-3. Do przewozu, o którym mowa w ust. 1, mają zastosowanie przepisy dotyczące cen biletów ulgowych ustalonych na podstawie przepisów, o których mowa w art. 46 ust. 1 pkt 6 lit. a, w zakresie dotyczącym przewozu środkami publicznego transportu zbiorowego kolejowego.
+4. Decyzja, o której mowa w ust. 3, nie może być wydana na okres dłuższy niż okres ważności potwierdzenia zgłoszenia przewozu.
+
+5. Podczas wykonywania przewozu w transporcie drogowym w każdym środku transportu powinien znajdować się oryginał albo poświadczona za zgodność z oryginałem przez organizatora kserokopia decyzji, o której mowa w ust. 3, które powinny być okazywane na żądanie uprawnionego organu kontroli.
+
+6. Przepisy art. 30 ust. 2 i ust. 3 pkt 1 stosuje się odpowiednio.
 
 **Art. 45.**
 
-1. Do kontroli zaświadczenia, o którym mowa w art. 28 ust. 1, oraz warunków realizacji przewozów w nim określonych są uprawnieni:
+1. Do kontroli dokumentów związanych z wykonywaniem publicznego transportu zbiorowego, o których mowa w art. 28 ust. 1 i art. 34 ust. 1, oraz warunków realizacji przewozów w nich określonych są uprawnieni:
 
 - **1)** organizator właściwy ze względu na miejsce kontroli lub osoba przez niego upoważniona;
 - **2)** organy, o których mowa w art. 89 ust. 1 pkt 1 i 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym.
@@ -658,28 +898,26 @@ Art. 66–76. (pominięte)
 - **3)** rozkłady jazdy środków transportu poszczególnych operatorów i przewoźników są podawane do publicznej wiadomości na wszystkich wymienionych w rozkładzie jazdy przystankach komunikacyjnych oraz dworcach z wyłączeniem przystanków komunikacyjnych przeznaczonych wyłącznie dla wysiadających pasażerów;
 - **4)** w transporcie drogowym w rozkładzie jazdy mogą być uwzględnione wyłącznie przystanki komunikacyjne i dworce określone przez organizatora;
 - **5)** rozkłady jazdy są poddawane aktualizacji, o której mowa w ustawie z dnia 15 listopada 1984 r. – Prawo przewozowe;
-- **6)** cennik opłat lub taryfa są podawane do publicznej wiadomości na dworcu, na stronie internetowej operatora i przewoźnika, jeżeli taką posiada, a w każdym środku transportu wykonującym przewozy w ramach komunikacji miejskiej oraz w transporcie drogowym znajduje się wyciąg z cennika opłat lub taryfy, przy czym cennik opłat powinien zawierać także ceny biletów ulgowych: z 2024 r. poz. 380), – ustawy z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin (Dz. U. z 2023 r. poz. 1100 oraz z 2024 r. poz. 1243), – ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2022 r. poz. 2039), – ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737, 854, 1562, 1635 i 1933) oraz ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2024 r. poz. 750, 854, 1473 i 1933), – ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, 1871 i 1897), – ustawy z dnia 16 listopada 2006 r. o świadczeniu pieniężnym i uprawnieniach przysługujących cywilnym niewidomym ofiarom działań wojennych (Dz. U. z 2021 r. poz. 1820), – ustawy z dnia 7 września 2007 r. o Karcie Polaka (Dz. U. z 2023 r. poz. 192), – ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U. z 2023 r. poz. 2112), – ustawy z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych (Dz. U. z 2024 r. poz. 906), – ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. z 2024 r. poz. 1782),
-    - **a)** ustalonych na podstawie odrębnych przepisów, w szczególności: – ustawy z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U.
-    - **b)** wynikających z uprawnień pasażerów do innych ulgowych przejazdów, ustanowionych na obszarze właściwości danego organizatora;
+- **6)** cennik opłat lub taryfa są podawane do publicznej wiadomości na dworcu, a w każdym środku transportu wykonującym przewozy w ramach komunikacji miejskiej oraz w transporcie drogowym znajduje się wyciąg z cennika opłat lub taryfy, przy czym cennik opłat w przewozach o charakterze użyteczności publicznej powinien także zawierać ceny biletów ulgowych: ustalonych na podstawie odrębnych przepisów, w szczególności: – ustawy z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. z 2002 r. Nr 175, poz. 1440, z późn. zm.), – ustawy z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin (Dz. U. z 2010 r. Nr 101, poz. 648 i Nr 113, poz. 745), – ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2002 r. Nr 42, poz. 371, z późn. zm.), – ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.), – ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. Nr 164, poz. 1365, z późn. zm.), – ustawy z dnia 16 listopada 2006 r. o świadczeniu pieniężnym i uprawnieniach przysługujących cywilnym niewidomym ofiarom działań wojennych (Dz. U. Nr 249, poz. 1824 oraz z 2010 r. Nr 225, poz. 1465), – ustawy z dnia 7 września 2007 r. – o Karcie Polaka (Dz. U. Nr 180, poz. 1280 oraz z 2008 r. Nr 52, poz. 305, Nr 214, poz. 1348 i Nr 216, poz. 1367), wynikających z uprawnień pasażerów do innych ulgowych przejazdów, ustanowionych na obszarze właściwości danego organizatora;
+    - **a)**
+    - **b)**
 
 - **7)** wsiadanie i wysiadanie pasażerów odbywa się tylko na przystankach komunikacyjnych lub dworcach określonych w rozkładzie jazdy;
 - **8)** w międzynarodowych przewozach pasażerskich w transporcie kolejowym podróż może się rozpocząć i zakończyć na terytorium Rzeczypospolitej Polskiej;
-- **9)** na dworcu znajduje się dostępny do wglądu pasażera regulamin przewozu osób w publicznym transporcie zbiorowym opracowany przez:
-    - **a)** organizatora,
-    - **b)** operatora lub grupę operatorów i zatwierdzony przez organizatora,
-    - **c)** przewoźnika – a w środkach transportu znajduje się wyciąg z tego regulaminu;
+- **9)** na dworcu znajduje się dostępny do wglądu pasażera regulamin przewozu osób w publicznym transporcie zbiorowym opracowany przez: organizatora, operatora lub grupę operatorów i zatwierdzony przez organizatora, przewoźnika, o którym mowa w art. 30 i 31 a w środkach transportu znajduje się wyciąg z tego regulaminu;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **10)** operator i przewoźnik uwzględniają uprawnienia pasażerów do ulgowych przejazdów określone w pkt 6;
+- **10)** operator uwzględnia uprawnienia pasażerów do ulgowych przejazdów określone w pkt 6;
 - **11)** w przewozach o charakterze użyteczności publicznej mogą być ustanawiane przez operatora uprawnienia do ulgowych przejazdów w uzgodnieniu z organizatorem;
 - **12)** środki transportu udostępnione operatorowi przez organizatora mogą być wykorzystywane wyłącznie do realizacji przewozów na podstawie zawartej z organizatorem umowy o świadczenie usług w zakresie publicznego transportu zbiorowego;
-- **13)** w przypadku gdy wartość zamówienia publicznego albo przedmiotu umowy o świadczenie usług w zakresie publicznego transportu zbiorowego jest równa albo przekracza 170 000 zł, przy zakupie środków transportu drogowego operator powinien uwzględniać czynnik energetyczny i oddziaływania na środowisko podczas całego cyklu użytkowania środków transportu;
-- **14)** przewóz osób realizowany w strefie transgranicznej w transporcie drogowym nie zwalnia z obowiązku uzyskania zezwolenia, o którym mowa rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 1071/2009 z dnia 21 października 2009 r. ustanawiającego wspólne zasady dotyczące warunków wykonywania zawodu przewoźnika drogowego i uchylającego dyrektywę Rady 96/26/WE, i licencji wspólnotowej, o której mowa w art. 4 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1073/2009 z dnia 21 października 2009 r. w sprawie wspólnych zasad dostępu do międzynarodowego rynku usług autokarowych i autobusowych i zmieniającego rozporządzenie (WE) nr 561/2006 w zakresie międzynarodowego transportu drogowego.
+- **13)** w przypadku gdy wartość zamówienia publicznego albo przedmiotu umowy o świadczenie usług w zakresie publicznego transportu zbiorowego przekracza wyrażoną w złotych równowartość kwoty 14 000 euro, przy zakupie środków transportu drogowego operator powinien uwzględniać czynnik energetyczny i oddziaływania na środowisko podczas całego cyklu użytkowania środków transportu;
+- **14)** przewóz osób realizowany w strefie transgranicznej w transporcie drogowym nie zwalnia z obowiązku uzyskania zezwolenia, o którym mowa w rozporządzeniu (EWG) nr 684/92.
 
 2. Podmiot, któremu organizator zlecił realizację części lub całości zadań z zakresu organizacji publicznego transportu zbiorowego, nie może być jednocześnie operatorem ani podmiotem powiązanym z operatorem w sposób uniemożliwiający bezstronną realizację zadań.
 
-3. Minister właściwy do spraw transportu może określić, w drodze rozporządzenia, wzór i sposób oznakowania środków transportu, którymi są wykonywane przewozy o charakterze użyteczności publicznej, w zakresie transportu drogowego, kolejowego, innego szynowego, linowego i linowo-terenowego, uwzględniając konieczność ujednolicenia oznakowania środków transportu w tych przewozach i zapewnienia możliwości identyfikowania tych przewozów.
-
-4. Minister właściwy do spraw gospodarki morskiej oraz minister właściwy do spraw żeglugi śródlądowej w porozumieniu z ministrem właściwym do spraw transportu mogą określić, w drodze rozporządzenia, wzór i sposób oznakowania środków transportu, którymi są wykonywane przewozy o charakterze użyteczności publicznej, w zakresie transportu morskiego oraz żeglugi śródlądowej, uwzględniając konieczność ujednolicenia oznakowania środków transportu w tych przewozach i zapewnienia możliwości identyfikowania tych przewozów.
+3. Minister właściwy do spraw transportu może określić, w drodze rozporządzenia, wzór i sposób oznakowania środków transportu, którymi są wykonywane przewozy o charakterze użyteczności publicznej, uwzględniając konieczność ujednolicenia oznakowania środków transportu w przewozach o charakterze użyteczności publicznej i zapewnienia możliwości identyfikowania tych przewozów.
 
 **Art. 47.** W regulaminie przewozu osób w publicznym transporcie zbiorowym, o którym mowa w art. 46 ust. 1 pkt 9, określa się w szczególności warunki obsługi podróżnych, warunki odprawy oraz przewozu osób i bagażu, a także wskazuje się podmiot właściwy do przyjmowania skarg i reklamacji wynikających z realizacji usług w zakresie publicznego transportu zbiorowego oraz terminy rozpatrywania skarg i reklamacji.
 
@@ -693,122 +931,114 @@ Art. 66–76. (pominięte)
 
 **Art. 49.**
 
-1. Organizator, o którym mowa odpowiednio w art. 7 ust. 1 pkt 1–5, w zakresie swojej właściwości, przekazuje, w terminie do dnia 31 stycznia każdego roku, właściwemu marszałkowi województwa informacje dotyczące publicznego transportu zbiorowego, w szczególności:
+1. Organizator, o którym mowa odpowiednio w art. 7 ust. 1 pkt 1–4, w zakresie swojej właściwości, przekazuje, w terminie do dnia 31 stycznia każdego roku, właściwemu marszałkowi województwa informacje dotyczące publicznego transportu zbiorowego, w szczególności:
 
 - **1)** liczbę linii komunikacyjnych, na których jest wykonywany publiczny transport zbiorowy przez operatora wybranego w jednym z trybów, o których mowa w art. 19 ust. 1, operatora będącego samorządowym zakładem budżetowym oraz przewoźnika;
 - **2)** liczbę operatorów wykonujących publiczny transport zbiorowy, wybranych w jednym z trybów, o których mowa w art. 19 ust. 1;
-- **3)** liczbę przewoźników wykonujących publiczny transport zbiorowy;
-- **4)** łączną liczbę przewiezionych pasażerów w publicznym transporcie zbiorowym oraz łączny przebieg na wszystkich liniach komunikacyjnych;
-- **5)** liczbę dworców i przystanków na liniach komunikacyjnych, na których jest wykonywany publiczny transport zbiorowy;
-- **6)** czas trwania umów o świadczenie usług w zakresie publicznego transportu zbiorowego;
-- **7)** kwoty rekompensat, które otrzymali operatorzy.
+- **3)** liczbę przewoźników wykonujących publiczny transport zbiorowy.
 
-2. Marszałek województwa, na podstawie otrzymanych informacji, przygotowuje zbiorczą informację dotyczącą publicznego transportu zbiorowego na całym obszarze objętym swoją właściwością, z podziałem na transport autobusowy i kolejowy.
+2. Marszałek województwa, na podstawie otrzymanych informacji, przygotowuje zbiorczą informację dotyczącą publicznego transportu zbiorowego na całym obszarze objętym swoją właściwością.
 
 3. W terminie do dnia 31 marca każdego roku, marszałek województwa przekazuje zbiorczą informację ministrowi właściwemu do spraw transportu.
 
-3a. Minister właściwy do spraw transportu udostępnia zbiorcze informacje otrzymane od marszałków województw w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu.
-
 4. Informacje, o których mowa w ust. 1 i 2, są przekazywane na formularzu zgodnym ze wzorem określonym przez ministra właściwego do spraw transportu.
 
-5. Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw gospodarki morskiej oraz ministrem właściwym do spraw żeglugi śródlądowej określi, w drodze rozporządzenia, szczegółowy zakres informacji dotyczących publicznego transportu zbiorowego, o których mowa w ust. 1 i 2, oraz wzory formularzy do przekazywania tych informacji, uwzględniając konieczność zapewnienia monitorowania i oceny funkcjonowania jakości i finansowania publicznego transportu zbiorowego.
+5. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wzór formularza do przekazywania informacji, o których mowa w ust. 1 i 2, uwzględniając zakres niezbędnych danych ujętych w informacjach dotyczących publicznego transportu zbiorowego.
 
-**Art. 49a.** Osoba wykonująca przewóz osób w publicznym transporcie zbiorowym, z wyłączeniem transportu kolejowego, podczas kierowania środkami transportu i w związku z kierowaniem nimi korzysta z ochrony przewidzianej dla funkcjonariusza publicznego na zasadach określonych w ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17, 1228, 1907 i 1965).
+#### Rozdział 6 Finansowanie przewozów o charakterze użyteczności publicznej
 
-#### Rozdział 6 Finansowanie publicznego transportu zbiorowego
+**Art. 50.**
 
-**Art. 50.** Finansowanie przewozów o charakterze użyteczności publicznej może polegać w szczególności na:
+1. Finansowanie przewozów o charakterze użyteczności publicznej może polegać w szczególności na:
 
-**Art. 50a.**
+- **1)** pobieraniu przez operatora lub organizatora opłat w związku z realizacją usług świadczonych w zakresie publicznego transportu zbiorowego, lub
+- **2)** przekazaniu operatorowi rekompensaty z tytułu: utraconych przychodów w związku ze stosowaniem ustawowych uprawnień do ulgowych przejazdów w publicznym transporcie zbiorowym, lub utraconych przychodów w związku ze stosowaniem uprawnień do ulgowych przejazdów w publicznym transporcie zbiorowym ustanowionych na obszarze właściwości danego organizatora, o ile zostały ustanowione, lub poniesionych kosztów w związku ze świadczeniem przez operatora usług w zakresie publicznego transportu zbiorowego, lub
+    - **a)**
+    - **b)**
+    - **c)**
 
-1. Rada gminy może ustalać ceny za usługi przewozowe w publicznym transporcie zbiorowym w zakresie zadania o charakterze użyteczności publicznej w gminnych przewozach pasażerskich. W mieście stołecznym Warszawie uprawnienia te przysługują Radzie Warszawy.
+- **3)** udostępnianiu operatorowi przez organizatora środków transportu na realizację przewozów w zakresie publicznego transportu zbiorowego.
 
-2. Rada powiatu może ustalać ceny za usługi przewozowe w publicznym transporcie zbiorowym w zakresie zadania o charakterze użyteczności publicznej w powiatowych przewozach pasażerskich.
+2. W przypadku operatora wybranego w trybie, o którym mowa w art. 19 ust. 1 pkt 2, przekazanie rekompensaty z tytułu poniesionych kosztów w związku ze świadczeniem usług w zakresie publicznego transportu zbiorowego nie może prowadzić do odzyskania całości poniesionych kosztów.
 
-3. Sejmik województwa może ustalać ceny za usługi przewozowe w publicznym transporcie zbiorowym w zakresie zadania o charakterze użyteczności publicznej w wojewódzkich przewozach pasażerskich.
+3. Przepis ust. 2 stosuje się odpowiednio do operatora wybranego w trybie, o którym mowa w art. 19 ust. 1 pkt 3, jeżeli umowa o świadczenie usług publicznych przyjmie formę koncesji na usługi.
 
-4. Minister właściwy do spraw transportu może ustalać ceny za usługi przewozowe w publicznym transporcie zbiorowym w zakresie zadania o charakterze użyteczności publicznej w międzywojewódzkich i międzynarodowych przewozach pasażerskich w transporcie kolejowym.
+4. W przypadku operatora wybranego w trybie, o którym mowa w art. 19 ust. 1 pkt 2:
 
-**Art. 50b.** Ceny, o których mowa w art. 50a, mają charakter cen maksymalnych.
+- **1)** pobieranie opłat, o których mowa w ust. 1 pkt 1, stanowi prawo do korzystania z usługi,
+- **2)** udostępnianie środków transportu, o którym mowa w ust. 1 pkt 3, oraz przekazanie rekompensaty stanowi płatność koncesjodawcy w rozumieniu przepisów ustawy z dnia 9 stycznia 2009 r. o koncesji na roboty budowlane lub usługi.
 
 **Art. 51.**
 
 1. Źródłem finansowania przewozów o charakterze użyteczności publicznej mogą być w szczególności:
 
 - **1)** środki własne jednostki samorządu terytorialnego będącej organizatorem;
-- **2)** środki z budżetu państwa oraz inne środki publiczne.
+- **2)** środki z budżetu państwa.
 
 2. Do źródeł finansowania, o których mowa w ust. 1, należą również wpływy ze sprzedaży biletów oraz wpływy z opłat dodatkowych pobieranych od pasażerów, zgodnie z przepisami ustawy z dnia 15 listopada 1984 r. – Prawo przewozowe.
 
-**Art. 52.** W ramach rekompensaty, o której mowa w art. 50 pkt 3, operatorowi przysługuje rozsądny zysk, o którym mowa w załączniku do rozporządzenia (WE) nr 1370/2007. Przepis nie dotyczy operatora będącego samorządowym zakładem budżetowym.
+**Art. 52.**
+
+1. Operatorowi przysługuje rekompensata, jeżeli wykaże, że podstawą poniesionej straty z tytułu realizacji usług w zakresie publicznego transportu zbiorowego są utracone przychody i poniesione koszty, o których mowa w art. 50 ust. 1 pkt 2, proporcjonalnie do poniesionej straty.
+
+2. W ramach rekompensaty, w części, o której mowa w art. 50 ust. 1 pkt 2 lit. c, operatorowi przysługuje rozsądny zysk, o którym mowa w załączniku do rozporządzenia (WE) nr 1370/2007.
+
+3. Przepis ust. 2 nie dotyczy operatora:
+
+- **1)** wybranego w trybie, o którym mowa w art. 19 ust. 1: pkt 2, pkt 3, jeżeli umowa o świadczenie usług publicznych przyjmie formę koncesji na usługi;
+    - **a)**
+    - **b)**
+
+- **2)** będącego samorządowym zakładem budżetowym.
+
+4. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw transportu określi, w drodze rozporządzenia, sposób określenia wysokości rozsądnego zysku, mając na uwadze:
+
+- **1)** rodzaj transportu;
+- **2)** kapitał, od którego należy liczyć wysokość rozsądnego zysku;
+- **3)** konieczność zapobiegania nadmiernemu poziomowi rekompensaty.
 
 **Art. 53.**
 
-1. Właściwy organizator przekazuje operatorowi rekompensatę, o której mowa w art. 50 pkt 3, na wniosek złożony w trybie określonym w umowie o świadczenie usług w zakresie publicznego transportu zbiorowego.
+1. Właściwy organizator przekazuje operatorowi rekompensatę, o której mowa w art. 50 ust. 1 pkt 2, jeżeli operator poniósł stratę i złożył wniosek o rekompensatę w trybie określonym w umowie o świadczenie usług w zakresie publicznego transportu zbiorowego.
 
-2. Podstawą do przekazania rekompensaty, o której mowa w art. 50 pkt 3, jest pozytywna weryfikacja wniosku, o którym mowa w ust. 1.
+2. We wniosku, o którym mowa w ust. 1, określa się wysokość utraconych przychodów i poniesionych kosztów, o których mowa w art. 50 ust. 1 pkt 2, obliczoną zgodnie z załącznikiem do rozporządzenia (WE) nr 1370/2007.
 
-3. Wielkość rekompensaty określonej we wniosku, o którym mowa w ust. 1, oblicza się, uwzględniając wszystkie koszty i przychody zgodnie z załącznikiem do rozporządzenia (WE) nr 1370/2007, w tym utracone przychody w związku ze stosowaniem uprawnień do ulgowych przejazdów w publicznym transporcie zbiorowym ustanowionych na obszarze właściwości danego organizatora, o ile zostały ustanowione.
+3. Do wniosku, o którym mowa w ust. 1, dołącza się dokumenty potwierdzające wysokość utraconych przychodów i poniesionych kosztów, o których mowa w art. 50 ust. 1 pkt 2.
 
-4. Do wniosku, o którym mowa w ust. 1, dołącza się dokumenty potwierdzające wielkość obliczonej rekompensaty.
+**Art. 54.**
 
-**Art. 54.** Operator realizujący usługi w zakresie publicznego transportu zbiorowego w transporcie kolejowym w międzywojewódzkich lub międzynarodowych przewozach pasażerskich otrzymuje rekompensatę, o której mowa w art. 50 pkt 3, w postaci dotacji celowej z budżetu państwa.
+1. Właściwy organizator weryfikuje wniosek i dokumenty przedstawione przez operatora, stanowiące podstawę obliczenia rekompensaty.
+
+2. W przypadku pozytywnego wyniku weryfikacji, o której mowa w ust. 1, organizator:
+
+- **1)** występuje do właściwego marszałka województwa z wnioskiem o przekazanie rekompensaty w części stanowiącej zwrot utraconych przychodów z tytułu stosowania ustawowych uprawnień do ulgowych przejazdów w publicznym transporcie zbiorowym do wysokości poniesionej z tego tytułu straty;
+- **2)** wypłaca przyznaną operatorowi rekompensatę w zakresie poniesionej straty z tytułu: realizacji usług w zakresie publicznego transportu zbiorowego, utraconych przychodów w związku ze stosowaniem uprawnień do ulgowych przejazdów w publicznym transporcie zbiorowym ustanowionych na obszarze właściwości danego organizatora.
+    - **a)**
+    - **b)**
+
+3. Przepisu ust. 2 pkt 1 nie stosuje się, w przypadku gdy organizatorem jest marszałek województwa lub minister właściwy do spraw transportu.
 
 **Art. 55.**
 
-1. W związku z obowiązkiem stosowania ustawowych uprawnień do ulgowych przejazdów w publicznym transporcie zbiorowym autobusowym i kolejowym operatorowi i przewoźnikowi przysługuje dopłata do utraconych przychodów z tego tytułu.
+1. Operator realizujący usługi w zakresie publicznego transportu zbiorowego w transporcie kolejowym w międzywojewódzkich przewozach pasażerskich otrzymuje rekompensatę w części, o której mowa w art. 50 ust. 1 pkt 2 lit. c, w postaci dotacji z budżetu państwa.
 
-2. Kwotę dopłaty stanowi różnica pomiędzy wartością sprzedaży biletów z ulgami ustawowymi obliczona według cen nieuwzględniających tych ulg a wartością sprzedaży tych biletów w cenach uwzględniających te ulgi. Kwotę dopłaty do ceny biletów z ulgami ustawowymi oblicza się po uprzednim obniżeniu cen biletów o wymiar ulg i zniżek o charakterze komercyjnym oraz ulg ustanowionych przez organizatora na obszarze jego właściwości, o ile zostały ustanowione.
+2. Operator realizujący usługi w zakresie publicznego transportu zbiorowego w transporcie kolejowym w międzynarodowych przewozach pasażerskich może otrzymać rekompensatę w części, o której mowa w art. 50 ust. 1 pkt 2 lit. c, w postaci dotacji z budżetu państwa.
 
-3. Dopłata, o której mowa w ust. 1, nie dotyczy uprawnień do ulgowych przejazdów realizowanych w ramach komunikacji miejskiej.
+**Art. 56.**
 
-4. Przekazywanie środków dopłaty, o której mowa w ust. 1, w odniesieniu do transportu autobusowego jest zadaniem zleconym z zakresu administracji rządowej. W celu realizacji zadania wojewoda zawiera z marszałkiem województwa umowę, o której mowa w art. 150 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530, 1572, 1717, 1756 i 1907 oraz z 2025 r. poz. 39), oraz przekazuje marszałkowi województwa środki na realizację zadania w postaci dotacji celowej z budżetu państwa.
+1. Na wyrównanie straty z tytułu utraconych przychodów w związku ze stosowaniem ustawowych uprawnień do ulgowych przejazdów w publicznym transporcie zbiorowym, operatorowi przysługuje rekompensata w części, o której mowa w art. 50 ust. 1 pkt 2 lit. a, w postaci dotacji.
 
-5. Przekazanie operatorowi lub przewoźnikowi dopłaty, o której mowa w ust. 1, w odniesieniu do transportu autobusowego następuje na wniosek i po weryfikacji dokumentów potwierdzających wysokość utraconych przychodów z tego tytułu, przeprowadzonej przez właściwego marszałka województwa.
-
-6. Prawa i obowiązki stron w zakresie dopłaty, o której mowa w ust. 1, w odniesieniu do transportu autobusowego, w tym w szczególności: tryb i sposób wypłaty, rozliczenia i zwrotu, wzór rozliczenia oraz zasady kontroli wysokości jej kwoty, określa umowa o dopłatę z tytułu utraconych przychodów w związku ze stosowaniem ustawowych uprawnień do ulgowych przejazdów środkami publicznego transportu zbiorowego autobusowego, zawarta pomiędzy operatorem lub przewoźnikiem a właściwym marszałkiem województwa.
-
-7. Właściwość miejscową samorządu województwa do podpisania umowy, o której mowa w ust. 6, ustala się odpowiednio według siedziby organizatora albo miejsca zamieszkania lub siedziby przewoźnika.
-
-8. Uprawnienie do otrzymania dopłaty, o której mowa w ust. 1, w odniesieniu do transportu autobusowego nabywa operator lub przewoźnik, który:
-
-- **1)** posiada zezwolenie na wykonywanie regularnych przewozów osób w krajowym transporcie drogowym, o którym mowa w art. 18 ustawy z dnia 6 września 2001 r. o transporcie drogowym, lub zaświadczenie na wykonywanie publicznego transportu zbiorowego, o którym mowa w art. 28;
-- **2)** stosuje kasy rejestrujące umożliwiające określenie kwoty dopłat do przewozów w podziale na poszczególne kategorie ulg ustawowych;
-- **3)** zawarł umowę, o której mowa w ust. 6.
-
-9. Dopłata, o której mowa w ust. 1, w odniesieniu do transportu autobusowego nie dotyczy przejazdów dzieci do lat 4, objętych ulgą 100%, o których mowa w art. 2 ust. 2 ustawy z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. z 2024 r. poz. 380).
-
-10. Dopłata, o której mowa w ust. 1, w odniesieniu do transportu kolejowego jest wypłacana z budżetu państwa przez ministra właściwego do spraw transportu w postaci dotacji przedmiotowej.
-
-11. Uprawnienie do otrzymania dopłaty, o której mowa w ust. 1, w odniesieniu do transportu kolejowego nabywa operator lub przewoźnik, który:
-
-- **1)** posiada licencję, o której mowa w art. 43 ust. 2 i 3 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym, i jednolity certyfikat bezpieczeństwa lub świadectwo bezpieczeństwa, o których mowa w art. 17e tej ustawy;
-- **2)** stosuje kasy rejestrujące umożliwiające określenie kwoty dopłat do przewozów w podziale na poszczególne kategorie ulg ustawowych;
-- **3)** spełnia wymogi do udzielenia dotacji przedmiotowej do krajowych kolejowych przewozów pasażerskich określone przepisami dotyczącymi szczegółowego sposobu i trybu udzielania i rozliczania dotacji przedmiotowych.
-
-12. W rozliczeniach dopłaty, o której mowa w ust. 1, przedstawia się rzeczywistą wartość i wymiar ulg udzielonych uprawnionym pasażerom.
-
-**Art. 56.** Operator, który poza świadczeniem usług w zakresie publicznego transportu zbiorowego prowadzi inną działalność gospodarczą, jest obowiązany do prowadzenia oddzielnej rachunkowości dla usług świadczonych w zakresie publicznego transportu zbiorowego, związanych z wykonywaniem przewozu o charakterze użyteczności publicznej.
+2. Wydatki na sfinansowanie straty, o której mowa w ust. 1, są pokrywane z budżetu państwa, z wyłączeniem wydatków na sfinansowanie straty wynikającej z uprawnień do ulgowych przejazdów w komunikacji miejskiej.
 
 **Art. 57.**
 
-1. Kasy rejestrujące, o których mowa w art. 55 ust. 8 pkt 2 i ust. 11 pkt 2, muszą posiadać pozytywną opinię ministra właściwego do spraw finansów publicznych albo potwierdzenie Prezesa Głównego Urzędu Miar.
+1. Uprawnienie do otrzymywania rekompensaty w części, o której mowa w art. 50 ust. 1 pkt 2 lit. a, nabywa operator, który stosuje kasy rejestrujące posiadające pozytywną opinię ministra właściwego do spraw finansów publicznych, które umożliwiają określenie kwoty dopłat do przewozów w podziale na poszczególne kategorie ulg ustawowych.
 
-2. Zmiany w programach kas rejestrujących, o których mowa w ust. 1, wymagają uzyskania potwierdzenia Prezesa Głównego Urzędu Miar.
+2. Zmiany w programach kas rejestrujących, uwzględniających zasady określone w ust. 1, wymagają uzyskania pozytywnej opinii ministra właściwego do spraw finansów publicznych.
 
-**Art. 58.**
+**Art. 58.** Operator, który poza świadczeniem usług w zakresie publicznego transportu zbiorowego prowadzi inną działalność gospodarczą, jest obowiązany do prowadzenia oddzielnej rachunkowości dla usług świadczonych w zakresie publicznego transportu zbiorowego, związanych z wykonywaniem przewozu o charakterze użyteczności publicznej.
 
-1. Operator, który poza świadczeniem usług w zakresie publicznego transportu zbiorowego w transporcie kolejowym prowadzi inną działalność gospodarczą, sporządza oddzielny bilans oraz rachunek zysków i strat dla tych usług, a także wyodrębnia w księgach rachunkowych operacje związane z wykonywaniem przewozu o charakterze użyteczności publicznej.
-
-2. Operator, o którym mowa w ust. 1, nie może przenosić środków publicznych przeznaczonych na działalność związaną z usługami w zakresie publicznego transportu zbiorowego w transporcie kolejowym na inną działalność.
-
-3. Sprawozdanie finansowe operatora, o którym mowa w ust. 1, publikowane na podstawie przepisów o rachunkowości, zawiera dodatkowo oddzielny bilans oraz rachunek zysków i strat dla działalności związanej z usługami w zakresie publicznego transportu zbiorowego w transporcie kolejowym.
-
-4. Wyodrębniona rachunkowość jest prowadzona w sposób umożliwiający monitorowanie zakazu przenoszenia środków publicznych, o którym mowa w ust. 2.
-
-**Art. 58a.** (uchylony)
-
-### DZIAŁ III Skarga i kary pieniężne
+### Dział III Skarga i kary pieniężne
 
 #### Rozdział 1 Postępowanie skargowe
 
@@ -816,7 +1046,7 @@ Art. 66–76. (pominięte)
 
 1. W przypadku ogłoszenia zamiaru bezpośredniego zawarcia umowy, o którym mowa w art. 23 ust. 1, podmiotowi, który jest lub był zainteresowany zawarciem danej umowy i któremu grozi powstanie szkody w wyniku zarzucanego naruszenia przepisów prawa Unii Europejskiej lub ustawy, przysługuje prawo wniesienia skargi do sądu administracyjnego.
 
-2. W postępowaniu toczącym się wskutek wniesienia skargi, o której mowa w ust. 1, stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685), jeżeli przepisy niniejszego rozdziału nie stanowią inaczej.
+2. W postępowaniu toczącym się wskutek wniesienia skargi, o której mowa w ust. 1, stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. Nr 153, poz. 1270, z późn. zm.), jeżeli przepisy niniejszego rozdziału nie stanowią inaczej.
 
 **Art. 60.**
 
@@ -850,102 +1080,326 @@ Art. 66–76. (pominięte)
 
 1. Operator lub przewoźnik, który:
 
-- **1)** nie wystąpił do właściwego organizatora z wnioskiem o zmianę treści zaświadczenia, o którym mowa w art. 28 ust. 1, w przypadku wszelkich zmian dotyczących: oznaczenia przedsiębiorcy, jego siedziby (miejsca zamieszkania) lub adresu, numeru w Krajowym Rejestrze Sądowym, o ile operator taki numer posiada, numeru identyfikacji podatkowej (NIP), nie później niż w terminie 14 dni od dnia ich powstania,
+- **1)** nie wystąpił do właściwego organizatora z wnioskiem o zmianę treści zaświadczenia, o którym mowa w art. 28 ust. 1, lub potwierdzenia, o którym mowa w art. 30 ust. 1, w przypadku wszelkich zmian dotyczących: oznaczenia przedsiębiorcy, jego siedziby (miejsca zamieszkania) lub adresu, numeru w rejestrze przedsiębiorców albo w ewidencji działalności gospodarczej, nie później niż w terminie 14 dni od dnia ich powstania,
 - **2)** nie zgłosił na piśmie właściwemu organizatorowi zmiany dotyczącej rozkładu jazdy w terminach określonych w ustawie z dnia 15 listopada 1984 r. – Prawo przewozowe, lub
-- **3)** nie przekazał organizatorowi, w terminie do dnia 31 marca każdego roku, informacji o liczbie i sposobie załatwienia skarg i reklamacji składanych przez pasażerów w związku z realizacją usług w zakresie publicznego transportu zbiorowego oraz informacji o liczbie i wysokości przyznanych odszkodowań – podlega karze pieniężnej w wysokości 1000 zł.
+- **3)** nie przekazał organizatorowi, w terminie do dnia 31 marca każdego roku, informacji o liczbie i sposobie załatwienia skarg i reklamacji składanych przez pasażerów w związku z realizacją usług w zakresie publicznego transportu zbiorowego oraz informacji o liczbie i wysokości przyznanych odszkodowań podlega karze pieniężnej w wysokości 1 000 zł.
 
-2. (uchylony)
+2. Przewoźnik, który nie zwrócił dokumentów, o których mowa w art. 34 ust. 1, organizatorowi, który wydał potwierdzenie zgłoszenia przewozu:
 
-3. (uchylony)
+- **1)** niezwłocznie, nie później jednak niż w terminie 14 dni od dnia, w którym decyzja o cofnięciu potwierdzenia stała się ostateczna, w przypadkach, o których mowa w art. 35 ust. 4, albo
+- **2)** wraz z wnioskiem o stwierdzenie wygaśnięcia potwierdzenia zgłoszenia przewozów, w przypadku, o którym mowa w art. 35 ust. 7 pkt 2 podlega karze pieniężnej w wysokości 1 000 zł.
 
-4. Kary pieniężne, o których mowa w ust. 1, nakłada, w drodze decyzji administracyjnej, właściwy organizator.
+3. Przewoźnik, który nie poinformował właściwego organizatora o podjęciu wykonywania przewozu we wskazanym przez siebie terminie w przypadku zawieszenia jego wykonywania, podlega karze pieniężnej w wysokości 1 000 zł.
 
-**Art. 65.** Kary pieniężne, o których mowa w art. 62 ust. 1, art. 63 ust. 1 oraz art. 64 ust. 1, stanowią dochód właściwego organizatora, z przeznaczeniem na realizację zadań:
+4. Kary pieniężne, o których mowa w ust. 1 -3, nakłada, w drodze decyzji administracyjnej, właściwy organizator.
 
-### DZIAŁ IV Zmiany w przepisach obowiązujących
+**Art. 65.** Kary pieniężne, o których mowa w art. 62 ust. 1, art. 63 ust. 1 oraz art. 64 ust. 1–3, stanowią dochód właściwego organizatora, z przeznaczeniem na realizację zadań:
 
-**Art. 77.** Ilekroć w odrębnych przepisach jest mowa o „przewoźniku”, rozumie się przez to również operatora publicznego transportu zbiorowego.
+- **1)** wynikających z organizacji publicznego transportu zbiorowego oraz
+- **2)** określonych w art. 18 – w przypadku gdy organizatorem jest gmina.
 
-### DZIAŁ V Przepisy przejściowe i końcowe
+### Dział IV Zmiany w przepisach obowiązujących
 
-**Art. 78.**
+**Art. 66.** W ustawie z dnia 15 listopada 1984 r. – Prawo przewozowe (Dz. U. z 2000 r. Nr 50, poz. 601, z późn. zm.) wprowadza się następujące zmiany:
 
-1. Podmioty prowadzące działalność w zakresie regularnego przewozu osób w krajowym transporcie drogowym, kolejowym, innym szynowym, linowym, linowo-terenowym, morskim i w żegludze śródlądowej mogą ją nadal wykonywać na podstawie posiadanych uprawnień, jednak nie dłużej niż do dnia 30 czerwca 2026 r.
+- **1)** art. 4 otrzymuje brzmienie: „ Przewoźnik lub organizator publicznego transportu zbiorowego, o którym mowa w przepisach ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. Nr 5, poz. 13), mogą wydawać regulaminy określające warunki obsługi podróżnych, odprawy oraz przewozu osób i rzeczy. ” ;
+- **2)** w art. 6 ust. 1 otrzymuje brzmienie: „
 
-2. Zezwolenia na wykonywanie regularnych przewozów osób w krajowym transporcie drogowym, których termin ważności upływa w dniu 31 grudnia 2016 r., wydane na podstawie przepisów dotychczasowych, zachowują ważność do dnia 31 grudnia 2017 r.
+1. Przewóz może być wykonywany przez kilku przewoźników tej samej lub różnych gałęzi transportu na podstawie jednej umowy przewozu i jednego dokumentu przewozowego, a w regularnym przewozie osób w publicznym transporcie zbiorowym, przewoźnicy mogą realizować te przewozy w ramach zintegrowanego systemu taryfowo-biletowego lub innego wspólnego dokumentu przewozu; odpowiedzialność przewoźników jest solidarna. ” ;
 
-3. Zezwolenia na wykonywanie regularnych przewozów osób w krajowym transporcie drogowym, których termin ważności upływa w dniu 31 grudnia 2017 r., wydane na podstawie przepisów dotychczasowych, zachowują ważność do dnia 31 grudnia 2018 r.
+- **3)** w art. 8 w ust. 1: pkt 1 otrzymuje brzmienie: „
+    - **a)**
 
-4. Zezwolenia na wykonywanie regularnych przewozów osób w krajowym transporcie drogowym, których termin ważności upływa w dniu 31 grudnia 2018 r., wydane na podstawie przepisów dotychczasowych, zachowują ważność do dnia 31 grudnia 2019 r.
+- **1)** ministra właściwego do spraw transportu, a w odniesieniu do wojewódzkiego, powiatowego albo gminnego regularnego przewozu osób odpowiednio przez wojewodę, starostę, wójta albo burmistrza (prezydenta miasta) – ze względu na potrzeby obronności lub bezpieczeństwa państwa albo w przypadku klęski żywiołowej, ” , w pkt 2 uchyla się lit. d;
+    - **b)**
 
-5. Zezwolenia na wykonywanie regularnych przewozów osób w krajowym transporcie drogowym, których termin ważności upływa w dniu 31 grudnia 2019 r., wydane na podstawie przepisów dotychczasowych, zachowują ważność do dnia 31 grudnia 2020 r.
+- **4)** w art. 14 ust. 2 otrzymuje brzmienie: „
 
-6. Zezwolenia na wykonywanie regularnych przewozów osób w krajowym transporcie drogowym, których termin ważności upływa w dniu 31 grudnia 2020 r., wydane na podstawie przepisów dotychczasowych, zachowują ważność do dnia 31 grudnia 2021 r.
+2. Przewoźnik powinien podejmować działania ułatwiające podróżnym, w szczególności osobom o ograniczonej zdolności ruchowej oraz osobom niepełnosprawnym, korzystanie ze środków transportowych. ” ;
 
-7. Zezwolenia na wykonywanie regularnych przewozów osób w krajowym transporcie drogowym, których termin ważności upływa w dniu 31 grudnia 2021 r., wydane na podstawie przepisów dotychczasowych, zachowują ważność do dnia 31 grudnia 2022 r.
+- **5)** w art. 15 ust. 5 i 6 otrzymują brzmienie: „
 
-8. Zezwolenia na wykonywanie regularnych przewozów osób w krajowym transporcie drogowym, których termin ważności upływa w dniu 31 grudnia 2022 r., wydane na podstawie przepisów dotychczasowych, zachowują ważność do dnia 31 grudnia 2023 r.
+5. W odniesieniu do gminnego regularnego przewozu osób oraz przewozów osób i bagażu taksówkami przepisy porządkowe określa rada gminy, a na terenie miasta stołecznego Warszawy – Rada miasta stołecznego Warszawy.
 
-9. Zezwolenia na wykonywanie regularnych przewozów osób w krajowym transporcie drogowym, których termin ważności upływa w dniu 31 grudnia 2023 r., wydane na podstawie przepisów dotychczasowych, zachowują ważność do dnia 31 grudnia 2025 r.
+6. W odniesieniu do powiatowego regularnego przewozu osób przepisy porządkowe określa rada powiatu, a w odniesieniu do wojewódzkiego regularnego przewozu osób – sejmik województwa. ” ;
 
-10. Zezwolenia na wykonywanie regularnych przewozów osób w krajowym transporcie drogowym, których termin ważności upływa w dniu 31 grudnia 2025 r., wydane na podstawie przepisów dotychczasowych, zachowują ważność do dnia 30 czerwca 2026 r.
+- **6)** art. 16 otrzymuje brzmienie: „
 
-**Art. 79.**
+1. Umowę przewozu zawiera się przez nabycie biletu na przejazd przed rozpoczęciem podróży lub spełnienie innych określonych przez przewoźnika lub organizatora publicznego transportu zbiorowego warunków dostępu do środka transportowego, a w razie ich nieustalenia – przez samo zajęcie miejsca w środku transportowym.
 
-1. (uchylony)
+2. Na bilecie, o którym mowa w ust. 1, umieszcza się:
 
-2. (uchylony)
+- **1)** nazwę przewoźnika lub organizatora publicznego transportu zbiorowego,
+- **2)** relację lub strefę przejazdu,
+- **3)** wysokość należności za przejazd,
+- **4)** zakres uprawnień pasażera do ulgowego przejazdu.
 
-3. Organ właściwy w sprawach zezwoleń na wykonywanie krajowych regularnych przewozów osób w transporcie drogowym do dnia 30 czerwca 2026 r. może odmówić wydania nowego zezwolenia, zmiany zezwolenia lub przedłużenia zezwolenia, jeżeli na podstawie uchwalonego planu transportowego na usługę objętą zezwoleniem została podpisana umowa o świadczenie usług w zakresie publicznego transportu zbiorowego z operatorem publicznego transportu zbiorowego.
+3. Na bilecie mogą być umieszczane inne informacje, w tym dane osobowe pasażera, jeżeli jest to niezbędne dla przewoźnika lub organizatora w regularnym przewozie osób.
 
-4. Do umów, na podstawie których może być wykonywana dotychczasowa działalność w zakresie krajowego regularnego przewozu osób, stosuje się przepisy art. 8 ust. 3 rozporządzenia (WE) nr 1370/2007.
+4. Dane i informacje, o których mowa w ust. 2 i 3, zapisywane są w pamięci elektronicznej biletu, jeżeli bilet ma formę elektroniczną. ” ;
 
-**Art. 80.** Do dnia 31 grudnia 2025 r. na sfinansowanie utraconych przychodów z tytułu stosowania ustawowych uprawnień do ulgowych przejazdów w transporcie kolejowym operatorowi przysługuje rekompensata, o której mowa w art. 56 ust. 1, w postaci dotacji przedmiotowej z budżetu państwa.
+- **7)** w art. 17 ust. 5 otrzymuje brzmienie: „
 
-**Art. 81.** Przewoźnik lub operator publicznego transportu zbiorowego wykonujący przewozy w transporcie kolejowym stosuje kasy rejestrujące, o których mowa w art. 57 ust. 1, od dnia 1 stycznia 2026 r.
+5. Przepisy ust. 1–4 nie dotyczą komunikacji miejskiej. ” ;
 
-**Art. 81a.**
+- **8)** w art. 18 ust. 3 otrzymuje brzmienie: „
 
-1. Przewoźnik lub operator publicznego transportu zbiorowego wykonujący przewozy w transporcie kolejowym stosuje kasy rejestrujące, o których mowa w art. 57 ust. 1, od dnia 1 kwietnia 2027 r.
+3. Przepisu ust. 2 nie stosuje się do przejazdów odbywanych na podstawie biletów uprawniających do przejazdów wielokrotnych oraz w komunikacji miejskiej. ” ;
 
-2. Warunek otrzymania dopłaty, o którym mowa w art. 55 ust. 11 pkt 2, stosuje się do przewoźników i operatorów, o których mowa w ust. 1, od dnia 1 kwietnia 2027 r.
+- **9)** art. 33a otrzymuje brzmienie: „
 
-**Art. 82.**
+1. Przewoźnik lub organizator publicznego transportu zbiorowego albo osoba przez niego upoważniona, legitymując się identyfikatorem umieszczonym w widocznym miejscu, może dokonywać kontroli dokumentów przewozu osób lub bagażu.
 
-1. Organizator publicznego transportu zbiorowego wydaje zaświadczenie na wykonywanie publicznego transportu zbiorowego podmiotowi, który zawarł umowę na wykonywanie regularnych przewozów osób w krajowym transporcie drogowym przed dniem wejścia w życie ustawy. Zaświadczenie wydaje się przed dniem wygaśnięcia zezwolenia na wykonywanie regularnych przewozów osób w krajowym transporcie drogowym, na okres ważności umowy.
+2. Identyfikator, o którym mowa w ust. 1, zawiera w szczególności:
 
-2. Operator publicznego transportu zbiorowego, który w okresie od dnia wejścia w życie ustawy do dnia 30 czerwca 2026 r. zawarł umowę o świadczenie usług w zakresie publicznego transportu zbiorowego w transporcie drogowym, zwolniony jest z obowiązku posiadania zezwolenia na wykonywanie regularnych przewozów osób w krajowych transporcie drogowym, o którym mowa w przepisach ustawy z dnia 6 września 2001 r. o transporcie drogowym.
+- **1)** nazwę przewoźnika lub organizatora publicznego transportu zbiorowego,
+- **2)** numer identyfikacyjny osoby dokonującej kontroli dokumentów przewozu osób lub bagażu,
+- **3)** zdjęcie kontrolującego,
+- **4)** zakres upoważnienia,
+- **5)** okres ważności,
+- **6)** pieczęć i podpis wystawcy (przewoźnika lub organizatora publicznego transportu zbiorowego).
 
-**Art. 83.** Rozkłady jazdy uzgodnione przed dniem wejścia w życie ustawy zachowują ważność przez okres, którego dotyczą, albo do czasu wprowadzenia w nich zmian przez przewoźnika.
+3. W razie stwierdzenia braku odpowiedniego dokumentu przewozu przewoźnik lub organizator publicznego transportu zbiorowego albo osoba przez niego upoważniona pobiera właściwą należność za przewóz i opłatę dodatkową albo wystawia wezwanie do zapłaty.
 
-**Art. 84.**
+4. W razie stwierdzenia braku ważnego dokumentu poświadczającego uprawnienie do bezpłatnego albo ulgowego przejazdu przewoźnik lub organizator publicznego transportu zbiorowego albo osoba przez niego upoważniona pobiera właściwą należność za przewóz i opłatę dodatkową albo wystawia wezwanie do zapłaty. Pobrana należność za przewóz i opłata dodatkowa, po uiszczeniu opłaty manipulacyjnej odpowiadającej kosztom poniesionym przez przewoźnika lub organizatora publicznego transportu zbiorowego, podlegają zwrotowi, a w przypadku wezwania do zapłaty – umorzeniu, w przypadku udokumentowania przez podróżnego, nie później niż w terminie 7 dni od dnia przewozu, uprawnień do bezpłatnego lub ulgowego przejazdu.
 
-1. Rozporządzenie ministra właściwego do spraw transportu określające pierwszy plan zrównoważonego rozwoju publicznego transportu zbiorowego powinno zostać wydane w okresie 18 miesięcy od dnia wejścia w życie ustawy.
+5. W razie posiadania przez podróżnego ważnego dokumentu przewozu, którego nie miał podczas przejazdu, do zwrotu i umarzania należności za przewóz i opłaty dodatkowej stosuje się przepis ust. 4 zdanie drugie.
 
-2. Do czasu uchwalenia pierwszego planu transportowego, jednak nie dłużej niż w okresie:
+6. Przewoźnik lub organizator publicznego transportu zbiorowego może określić w regulaminie przewozu lub taryfie obniżenie wysokości opłaty dodatkowej w razie natychmiastowego jej uiszczenia lub w terminie wyznaczonym w wezwaniu do zapłaty.
 
-- **1)** 18 miesięcy od dnia wejścia w życie ustawy – w przypadku planu transportowego opracowanego przez ministra właściwego do spraw transportu,
-- **2)** 3 lat od dnia wejścia w życie ustawy – w przypadku planu transportowego opracowanego przez właściwą jednostkę samorządu terytorialnego – może być zawarta umowa o świadczenie usług w zakresie publicznego transportu zbiorowego na okres nie dłuższy niż 3 lata.
+7. Przewoźnik lub organizator publicznego transportu zbiorowego albo osoba przez niego upoważniona ma prawo:
 
-**Art. 85.** (uchylony)
+- **1)** w razie odmowy zapłacenia należności – żądać okazania dokumentu umożliwiającego stwierdzenie tożsamości podróżnego,
+- **2)** w razie niezapłacenia należności i nieokazania dokumentu – ująć podróżnego i niezwłocznie oddać go w ręce Policji lub innych organów porządkowych, które mają zgodnie z przepisami prawo zatrzymania podróżnego i podjęcia czynności zmierzających do ustalenia jego tożsamości,
+- **3)** w razie uzasadnionego podejrzenia, że dokument przewozu albo dokument uprawniający do przejazdu bezpłatnego lub ulgowego jest podrobiony lub przerobiony – zatrzymać dokument za pokwitowaniem oraz przesłać go prokuratorowi lub Policji, z powiadomieniem wystawcy dokumentu.
 
-**Art. 86.**
+8. W przypadku, o którym mowa w ust. 7 pkt 2, do czasu przybycia funkcjonariusza Policji lub innych organów porządkowych, podróżny obowiązany jest pozostać w miejscu przeprowadzania kontroli albo w innym miejscu wskazanym przez przewoźnika lub organizatora publicznego transportu zbiorowego albo osobę przez niego upoważnioną. ” ;
 
-1. Pierwsze informacje, o których mowa w art. 48, zostaną przekazane w terminie do dnia 31 marca 2013 r.
+- **10)** art. 34 otrzymuje brzmienie: „
 
-2. Pierwsze informacje, o których mowa w art. 49 ust. 1 i 2, zostaną przekazane w terminie odpowiednio do dnia 31 stycznia 2013 r. i do dnia 31 marca 2013 r.
+1. Przewoźnik wykonujący regularne przewozy osób w transporcie drogowym jest obowiązany zgłaszać na piśmie właściwemu organizatorowi zmiany dotyczące rozkładu jazdy, nie później niż w terminie 30 dni przed dniem aktualizacji rozkładów jazdy w określonych terminach.
 
-**Art. 87.**
+2. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
 
-1. W terminie do dnia 31 grudnia 2025 r. podmioty prowadzące działalność w zakresie krajowego regularnego przewozu osób są obowiązane uwzględniać uprawnienia pasażerów do ulgowych przejazdów środkami publicznego transportu zbiorowego w transporcie drogowym i kolejowym, zgodnie z dotychczasowymi przepisami.
+- **1)** tryb zatwierdzania rozkładów jazdy,
+- **2)** treść rozkładów jazdy,
+- **3)** sposób i terminy ogłaszania oraz aktualizacji rozkładów jazdy,
+- **4)** warunki ponoszenia kosztów związanych z zamieszczaniem informacji dotyczących rozkładów jazdy oraz podawaniem rozkładów jazdy do publicznej wiadomości mając na uwadze zróżnicowanie wysokości kosztów przewoźników w zależności od ich udziału w przewozach, a także zróżnicowanie rodzajów środków transportowych wykorzystywanych w publicznym transporcie zbiorowym. ” ;
+- **11)** w art. 34a ust. 2 otrzymuje brzmienie: „
 
-2. W terminie, o którym mowa w ust. 1, finansowanie ulgowych przejazdów środkami publicznego transportu zbiorowego odbywa się na zasadach określonych w przepisach dotychczasowych.
+2. W odniesieniu do gminnego, powiatowego i wojewódzkiego regularnego przewozu osób, przepisy, o których mowa w ust. 1, określają odpowiednio rada gminy, rada powiatu albo sejmik województwa, a w mieście stołecznym Warszawie – Rada miasta stołecznego Warszawy. ” ;
 
-3. Umowy określające zasady przekazywania przewoźnikom dopłat do utraconych przychodów z tytułu stosowania ulg ustawowych, zawarte na podstawie art. 8a ust. 4 pkt 3 ustawy, o której mowa w art. 68 , zachowują ważność przez okres, na który zostały zawarte, jednak nie dłużej niż do dnia 31 grudnia 2025 r.
+- **12)** po rozdziale 10 dodaje się rozdział 10a w brzmieniu: „
 
-**Art. 88.** W terminie do dnia 31 maja 2015 r. minister właściwy do spraw transportu przekaże Komisji Europejskiej sprawozdanie, o którym mowa w art. 8 ust. 2 rozporządzenia (WE) nr 1370/2007.
+#### Rozdział 10a Przepisy karne
 
-**Art. 89.** (pominięty)
+**Art. 87a.** Podróżny, który w czasie kontroli dokumentów przewozu osób lub bagażu, mimo braku odpowiedniego dokumentu przewozu, odmawia zapłacenia należności i okazania dokumentu, umożliwiającego stwierdzenie jego tożsamości, podlega karze grzywny. Podróżny, który w czasie kontroli dokumentów przewozu osób lub bagażu nie pozostał w miejscu przeprowadzania kontroli albo w innym miejscu wskazanym przez przewoźnika lub organizatora publicznego transportu zbiorowego albo osobę przez niego upoważnioną do czasu przybycia funkcjonariusza Policji lub innych organów porządkowych, podlega karze grzywny. Orzekanie w sprawach określonych w art. 87a i 87b następuje w trybie Kodeksu postępowania w sprawach o wykroczenia. ” .
 
-**Art. 90.** Ustawa wchodzi w życie z dniem 1 marca 2011 r., z wyjątkiem art. 46 ust. 1 pkt 1, art. 68 pkt 2 i 3, które wchodzą w życie z dniem 1 stycznia 2026 r.
+**Art. 67.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2007 r. Nr 19, poz. 115, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 20 pkt 4 otrzymuje brzmienie: „
+- **4)** utrzymanie nawierzchni drogi, chodników, drogowych obiektów inżynierskich, urządzeń zabezpieczających ruch i innych urządzeń związanych z drogą, z wyjątkiem części pasa drogowego, o których mowa w art. 20f pkt 2. ” ;
+- **2)** po art. 20e dodaje się art. 20f w brzmieniu: „ Zarządca drogi, o którym mowa w art. 19 ust. 2, jest obowiązany:
+- **1)** uwzględniać uchwały rady gminy, w których dla zaspokojenia potrzeb mieszkańców wskazane zostaną wstępne miejsca lokalizacji nowych przystanków komunikacyjnych; o ostatecznej lokalizacji takiego przystanku decyduje zarządca drogi, uwzględniając charakter drogi oraz warunki bezpieczeństwa ruchu drogowego;
+- **2)** udostępnić nieodpłatnie gminie na jej wniosek część pasa drogowego w celu budowy, przebudowy i remontu wiat przystankowych lub innych urządzeń służących do obsługi podróżnych. ” .
+
+**Art. 68.** W ustawie z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. z 2002 r. Nr 175, poz. 1440, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 1a: w ust. 4 po pkt 3 dodaje się pkt 3a w brzmieniu: „
+    - **a)**
+
+- **3a)** środkach publicznego transportu zbiorowego – należy przez to rozumieć środki transportu wykorzystywane w transporcie kolejowym lub drogowym, w przewozie o charakterze użyteczności publicznej, o którym mowa w przepisach ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. Nr 5, poz. 13); ” , dodaje się ust. 5 w brzmieniu: „
+    - **b)**
+
+5. Ilekroć w odrębnych przepisach jest mowa o środkach publicznego transportu zbiorowego, w których przysługuje ulga za przejazd, z wyłączeniem komunikacji miejskiej, przez środki publicznego transportu zbiorowego należy rozumieć środki określone w ust. 4 pkt 3a. ” ;
+
+- **2)** w art. 8a uchyla się ust. 1a-6;
+- **3)** uchyla się art. 8b.
+
+**Art. 69.** W ustawie z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2005 r. Nr 236, poz. 2008, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 3 w ust. 2 po pkt 3 dodaje się pkt 3a w brzmieniu: „
+- **3a)** utrzymują czystość i porządek na przystankach komunikacyjnych, których właścicielem lub zarządzającym jest gmina oraz które są położone na jej obszarze przy drogach publicznych bez względu na kategorię tych dróg; ” ;
+- **2)** w art. 5 ust. 3 otrzymuje brzmienie: „
+
+3. Uprzątnięcie i pozbycie się błota, śniegu, lodu i innych zanieczyszczeń z wydzielonych krawężnikiem lub oznakowaniem poziomym torowisk pojazdów szynowych, znajdujących się na terenie gminy, należy do obowiązków przedsiębiorców użytkujących te torowiska. ” .
+
+**Art. 70.** W ustawie z dnia 20 grudnia 1996 r. o gospodarce komunalnej (Dz. U. z 1997 r. Nr 9, poz. 43, z późn. zm.) w art. 3 ust. 1 otrzymuje brzmienie: „ 1. Jednostki samorządu terytorialnego w drodze umowy mogą powierzać wykonywanie zadań z zakresu gospodarki komunalnej osobom fizycznym, osobom prawnym lub jednostkom organizacyjnym nieposiadającym osobowości prawnej, z uwzględnieniem przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm.), w trybie przepisów ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2009 r. Nr 19, poz. 100 oraz z 2010 r. Nr 106, poz. 675), przepisów ustawy z dnia 9 stycznia 2009 r. o koncesji na roboty budowlane lub usługi (Dz. U. Nr 19, poz. 101, z późn. zm.), przepisów ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2010 r. Nr 113, poz. 759, Nr 161, poz. 1078 i Nr 182, poz. 1228), przepisów ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2010 r. Nr 234, poz. 1530) i ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. Nr 5, poz. 13) albo na zasadach ogólnych. ” .
+
+**Art. 71.** W ustawie z dnia 29 sierpnia 1997 r. o strażach gminnych (Dz. U. Nr 123, poz. 779, z późn. zm.) w art. 11 w ust. 1 po pkt 2 dodaje się pkt 2a w brzmieniu: „
+
+- **2a)** kontrola publicznego transportu zbiorowego – w zakresie określonym w art. 45 ust. 1 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. Nr 5, poz. 13), ” .
+
+**Art. 72.** W ustawie z dnia 5 lipca 2001 r. o cenach (Dz. U. Nr 97, poz. 1050, z późn. zm.) w art. 8:
+
+- **1)** ust. 1 i 2 otrzymują brzmienie: „
+
+1. Rada gminy może ustalać ceny urzędowe za usługi przewozowe w publicznym transporcie zbiorowym w zakresie zadania o charakterze użyteczności publicznej w gminnych przewozach pasażerskich oraz za przewozy taksówkami na terenie gminy. W mieście stołecznym Warszawie uprawnienia te przysługują Radzie Warszawy.
+
+2. Rada powiatu może ustalać ceny urzędowe za usługi przewozowe w publicznym transporcie zbiorowym w zakresie zadania o charakterze użyteczności publicznej w powiatowych przewozach pasażerskich. ” ;
+
+- **2)** dodaje się ust. 4 w brzmieniu: „
+
+4. Sejmik województwa może ustalać ceny urzędowe za usługi przewozowe w publicznym transporcie zbiorowym w zakresie zadania o charakterze użyteczności publicznej w wojewódzkich przewozach pasażerskich. ” .
+
+**Art. 73.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2007 r. Nr 125, poz. 874, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 4: pkt 7 otrzymuje brzmienie: „
+    - **a)**
+
+- **7)** międzynarodowy przewóz regularny – publiczny przewóz osób i ich bagażu w określonych odstępach czasu i określonymi trasami, realizowany w całości lub w części poza terytorium Rzeczypospolitej Polskiej; ” , uchyla się pkt 7a;
+    - **b)**
+
+- **2)** w art. 18 ust. 1 i 1a otrzymują brzmienie: „
+
+1. Wykonywanie:
+
+- **1)** przewozów regularnych specjalnych w krajowym transporcie drogowym – wymaga zezwolenia wydanego, w zależności od zasięgu tych przewozów, odpowiednio przez: wójta, burmistrza albo prezydenta miasta na wykonywanie przewozów na obszarze gminy (miasta), burmistrza albo prezydenta miasta, któremu powierzono realizację zadań w zakresie przewozów – na wykonywanie przewozów na obszarze objętym porozumieniem, zarząd związku międzygminnego – na linii komunikacyjnej lub sieci komunikacyjnej na obszarze gmin tworzących związek międzygminny, prezydenta miasta na prawach powiatu, w uzgodnieniu z właściwym starostą ze względu na planowany zasięg przewozów na wykonywanie przewozów na obszarze miasta i sąsiedniego powiatu, starostę, w uzgodnieniu z wójtami, burmistrzami lub prezydentami miast właściwymi ze względu na planowany zasięg przewozów – na wykonywanie przewozów na obszarze powiatu, z wyłączeniem przewozów określonych w lit. a-d, marszałka województwa, w uzgodnieniu ze starostami właściwymi ze względu na planowany zasięg przewozów – na wykonywanie przewozów wykraczających poza obszar jednego powiatu, jednakże niewykraczających poza obszar województwa, marszałka województwa właściwego dla siedziby albo miejsca zamieszkania przedsiębiorcy, w uzgodnieniu z marszałkami województw właściwymi ze względu na planowany zasięg przewozów – na wykonywanie przewozów wykraczających poza obszar jednego województwa;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+
+- **2)** przewozów regularnych i przewozów regularnych specjalnych w międzynarodowym transporcie drogowym – wymaga zezwolenia wydanego przez: Głównego Inspektora Transportu Drogowego – dla linii komunikacyjnych wykraczających poza obszar państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, Głównego Inspektora Transportu Drogowego lub organ innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym – dla linii komunikacyjnych niewykraczających poza obszar tych państw.
+    - **a)**
+    - **b)**
+
+1a. Nie wymaga uzyskania zezwolenia:
+
+- **1)** tymczasowe wykonywanie przewozów osób w przypadku klęsk żywiołowych lub wystąpienia zakłóceń w przewozach wykonywanych przez podmioty innych gałęzi niż transport drogowy;
+- **2)** wykonywanie przewozów regularnych specjalnych organizowanych przez jednostkę samorządu terytorialnego w krajowym transporcie drogowym – o ile w środkach transportu znajduje się dokument stwierdzający uprawnienie do ich wykonywania. ” ;
+- **3)** uchyla się art. 18a i 18b;
+- **4)** w art. 21 w ust. 1 pkt 1 otrzymuje brzmienie: „
+- **1)** 5 lat – na wykonywanie przewozów regularnych specjalnych lub międzynarodowych przewozów regularnych; ” ;
+- **5)** w art. 22: uchyla się ust. lila, w ust. 4 pkt 4 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **4)** potwierdzenie uzgodnienia zasad korzystania z obiektów dworcowych i przystanków zlokalizowanych przy drogach publicznych z ich właścicielami lub zarządzającymi. ” ;
+- **6)** art. 22a otrzymuje brzmienie: „ Organy, o których mowa w art. 18 ust. 1 pkt 1, mogą odmówić wydania zezwolenia lub zmiany zezwolenia na wykonywanie przewozu regularnego specjalnego, w przypadku gdy:
+- **1)** wnioskodawca nie jest w stanie świadczyć usług będących przedmiotem wniosku, korzystając z pojazdów pozostających w jego bezpośredniej dyspozycji;
+- **2)** wnioskodawca nie przestrzega warunków określonych w posiadanym już zezwoleniu lub wykonuje przewozy niezgodnie z posiadanym zezwoleniem, ” ;
+- **7)** w art. 41 w ust. 1 pkt 2 otrzymuje brzmienie: „
+- **2)** wydania zezwolenia, zmiany zezwolenia, przedłużenia ważności zezwolenia, wydania wypisu z zezwolenia, wydania wtórnika zezwolenia na wykonywanie przewozu regularnego specjalnego, przewozu wahadłowego, przewozu okazjonalnego lub międzynarodowego przewozu regularnego; ” ;
+- **8)** w art. 46 w ust. 1 w pkt 1 lit. b otrzymuje brzmienie: „ wydania zezwolenia, zmiany zezwolenia, przedłużenia ważności zezwolenia, wydania wypisu z zezwolenia, wydania wtórnika zezwolenia na wykonywanie przewozu regularnego specjalnego, przewozu wahadłowego lub przewozu okazjonalnego, ” ;
+    - **b)**
+
+- **9)** w art. 80: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. W ewidencji gromadzi się:
+
+- **1)** dane o przedsiębiorcach oraz o kierowcach: imię i nazwisko lub oznaczenie przedsiębiorcy, imię i nazwisko kierowcy, adres zamieszkania lub oznaczenie siedziby przedsiębiorcy oraz adres zamieszkania kierowcy, numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL), a w przypadku osoby nieposiadającej tego numeru – nazwę i numer dokumentu potwierdzającego tożsamość oraz nazwę organu, który wydał ten dokument, numer identyfikacji statystycznej REGON;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **2)** informacje dotyczące uprawnienia do wykonywania przewozów: rodzaj, zakres oraz datę uzyskania uprawnienia, numer uprawnienia, nazwę organu, który wydał uprawnienie;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **3)** informacje dotyczące stwierdzonych naruszeń, o których mowa w art. 92 i 92a. ” , uchyla się ust. 2a, dodaje się ust. 4 w brzmieniu: „
+    - **b)**
+    - **c)**
+
+4. Główny Inspektor udostępnia zainteresowanym organom uprawnionym do wydawania licencji, zezwoleń na wykonywanie przewozów regularnych specjalnych, zaświadczeń na wykonywanie przewozów drogowych na potrzeby własne, zaświadczeń na wykonywanie publicznego transportu zbiorowego lub potwierdzeń zgłoszenia przewozu, o których mowa w przepisach ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. Nr 5, poz. 13), dane i informacje, o których mowa w ust. 2, dotyczące naruszeń dokonanych na obszarze właściwości tych organów lub naruszeń dokonanych przez przewoźników, którym organy te wydały dokumenty. ” ;
+
+- **10)** w art. 87 w ust. 1 w pkt 2: lit. a otrzymuje brzmienie: „ przy wykonywaniu przewozu regularnego specjalnego i międzynarodowego przewozu regularnego – odpowiednie zezwolenie lub wypis z zezwolenia wraz z aktualnym rozkładem jazdy i formularz jazdy, jeżeli są one wymagane, ” , w lit. e średnik zastępuje się przecinkiem oraz dodaje się lit. f w brzmieniu: „ dokumenty wymagane w publicznym transporcie zbiorowym; ” ;
+    - **a)**
+    - **a)**
+    - **b)**
+    - **f)**
+
+- **11)** w art. 89 w ust. 1: pkt 7 otrzymuje brzmienie: „
+    - **a)**
+
+- **7)** upoważnieni pracownicy właściwego organu, o którym mowa w art. 18 ust. 1 – w odniesieniu do przewozów regularnych specjalnych i międzynarodowych przewozów regularnych; ” , dodaje się pkt 8 w brzmieniu: „
+    - **b)**
+
+- **8)** strażnicy straży gminnych – w odniesieniu do publicznego transportu zbiorowego w zakresie określonym ustawą z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym. ” ;
+- **12)** w art. 92 w ust. 1 po pkt 1 dodaje się pkt 1a w brzmieniu: „
+- **1a)** o publicznym transporcie zbiorowym; ” ;
+- **13)** po art. 95 dodaje się art. 95a w brzmieniu: „
+
+**Art. 95a.**
+
+1. Kto, będąc przedsiębiorcą:
+
+- **1)** nie zgłasza na piśmie organowi, który udzielił licencji, wszelkich zmian danych, o których mowa w art. 8 ust. 2, w terminie 14 dni od dnia ich powstania,
+- **2)** nie zwraca licencji lub wypisów z licencji organowi, który udzielił licencji w terminie 14 dni od dnia, w którym decyzja o cofnięciu licencji stała się ostateczna podlega karze pieniężnej w wysokości 1 000 zł.
+
+2. Kary, o których mowa w ust. 1, nakłada w drodze decyzji administracyjnej organ właściwy w sprawach udzielenia licencji.
+
+3. Od decyzji o nałożeniu kary pieniężnej, o której mowa w ust. 2, przysługuje odwołanie do organu nadrzędnego w stosunku do organu, który karę nałożył, w terminie 14 dni od dnia doręczenia przedsiębiorcy tej decyzji.
+
+4. Kary pieniężne, o których mowa w ust. 1, stanowią dochód organu właściwego w sprawach udzielenia licencji. ” ;
+
+- **14)** uchyla się rozdział 11a „Przepisy karne”;
+- **15)** w załączniku do ustawy, w tabeli, po lp. 2.9 dodaje się lp. 2a w brzmieniu: „ „2a. WYKONYWANIE PRZEWOZU DROGOWEGO Z NARUSZENIEM PRZEPISÓW DOTYCZĄCYCH PUBLICZNEGO TRANSPORTU ZBIOROWEGO 2a.1. Wykonywanie regularnego przewozu osób bez wymaganego zaświadczenia na wykonywanie publicznego transportu zbiorowego albo potwierdzenia zgłoszenia przewozu w publicznym transporcie zbiorowym 6 000 2a.2. Wykonywanie regularnego przewozu osób przez podmiot posiadający zaświadczenie na wykonywanie publicznego transportu zbiorowego albo potwierdzenie zgłoszenia przewozu w publicznym transporcie zbiorowym, bez obowiązującego rozkładu jazdy 2 000 2a.3. Wykonywanie regularnego przewozu osób z naruszeniem warunków określonych w zaświadczeniu na wykonywanie publicznego transportu zbiorowego albo potwierdzeniu zgłoszenia przewozu w publicznym transporcie zbiorowym, dotyczących: 1. dni 2 000 2. godzin odjazdu i przyjazdu 500 3. ustalonej trasy przejazdu lub wyznaczonych przystanków 3 000”
+
+**Art. 74.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2007 r. Nr 16, poz. 94, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 pkt 3 otrzymuje brzmienie: „
+- **3)** infrastruktury kolejowej obejmującej linie kolejowe o szerokości torów mniejszej niż 1 435 mm i przewoźników kolejowych korzystających z tej infrastruktury kolejowej, z wyjątkiem rozdziałów 4a, 5b-8, art. 5 ust. 3–6, art. 9, art. 13 ust. 1 oraz art. 59–64. ” ;
+- **2)** w art. 4: po pkt 4 dodaje się pkt 4a w brzmieniu: „
+    - **a)**
+
+- **4a)** plan transportowy – plan zrównoważonego rozwoju publicznego transportu zbiorowego opracowany przez organizatora publicznego transportu zbiorowego i ogłoszony zgodnie z ustawą z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. Nr 5, poz. 13), ” , pkt 19 otrzymuje brzmienie: „
+    - **b)**
+
+- **19)** umowa o świadczenie usług publicznych – umowa o świadczenie usług publicznych w zakresie publicznego transportu zbiorowego w rozumieniu ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym; ” , po pkt 19 dodaje się pkt 19a-19d w brzmieniu: „
+    - **c)**
+
+- **19a)** organizator publicznego transportu kolejowego – organizator publicznego transportu zbiorowego w rozumieniu ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym w zakresie odnoszącym się do pasażerskich przewozów kolejowych;
+- **19b)** operator publicznego transportu kolejowego – operator publicznego transportu zbiorowego w rozumieniu ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym w zakresie odnoszącym się do pasażerskich przewozów kolejowych;
+- **19c)** przewóz o charakterze użyteczności publicznej – przewóz o charakterze użyteczności publicznej w rozumieniu ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym;
+- **19d)** umowa o udostępnienie infrastruktury kolejowej – umowa zawarta pomiędzy zarządcą infrastruktury a przewoźnikiem określająca trasy przejazdów, zasady korzystania z infrastruktury oraz standard jakości dostępu do infrastruktury; ” , uchyla się pkt 20, po pkt 20 dodaje się pkt 20a w brzmieniu: „
+    - **d)**
+    - **e)**
+
+- **20a)** wojewódzkie przewozy pasażerskie – wojewódzkie przewozy pasażerskie w rozumieniu ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym; ” , po pkt 22 dodaje się pkt 22a w brzmieniu: „
+    - **f)**
+
+- **22a)** pasażerski przewóz okazjonalny – jednorazowy przewóz w zakresie pasażerskiego transportu kolejowego mający na celu zaspokojenie potrzeb przewozowych nieprzewidzianych w realizowanych na danej linii przewozach w ramach umowy o świadczenie usług publicznych lub na podstawie decyzji o przyznaniu otwartego dostępu; ” , w pkt 49 kropkę zastępuje się średnikiem i dodaje się pkt 50 w brzmieniu: „
+    - **g)**
+
+- **50)** otwarty dostęp – uprawnienie do wykonywania kolejowych przewozów pasażerskich na podstawie decyzji o przyznaniu otwartego dostępu. ” ;
+- **3)** po art. 5a dodaje się art. 5b i 5c w brzmieniu: „ Na wniosek organizatora publicznego transportu kolejowego zarządca przygotowuje i przedstawia informacje:
+- **1)** niezbędne do opracowania projektu planu transportowego;
+- **2)** dotyczące przepustowości infrastruktury danej trasy i standardu jakości dostępu danej linii kolejowej oraz zakres planowanych remontów oraz inwestycji infrastruktury kolejowej służące do określenia warunków umowy o świadczenie usług publicznych. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, zakres i tryb udzielania przez zarządcę infrastruktury organizatorowi publicznego transportu kolejowego informacji, o których mowa w art. 5b, mając na uwadze potrzebę zapewnienia danych niezbędnych do opracowania planu transportowego oraz do określenia warunków umowy o świadczenie usług publicznych, a także konieczność przeprowadzenia właściwych analiz. ” ;
+- **4)** w art. 9 w ust. 3 pkt 3 otrzymuje brzmienie: „
+- **3)** przystąpi do spółki wojewódzkich przewozów pasażerskich, która przejmie, w celu dalszej eksploatacji, przewidzianą do likwidacji linię kolejową lub odcinek linii kolejowej, jako wkład niepieniężny. ” ;
+- **5)** w art. 13 w ust. 1 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 i 10 w brzmieniu: „
+- **9)** wydawanie decyzji w sprawie otwartego dostępu;
+- **10)** rozpatrywanie spraw dotyczących pasażerskich przewozów okazjonalnych. ” ;
+- **6)** w art. 18 ust. 2 otrzymuje brzmienie: „
+
+2. Z obowiązku uzyskania autoryzacji bezpieczeństwa zwolnieni są zarządcy, których linie kolejowe są funkcjonalnie oddzielone od reszty systemu kolejowego i przeznaczone do prowadzenia pasażerskich przewozów aglomeracyjnych i wojewódzkich przewozów pasażerskich w rozumieniu przepisów ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym oraz zarządcy prywatnej infrastruktury kolejowej, która jest wyłącznie użytkowana przez właścicieli do prowadzenia własnych przewozów towarowych. ” ;
+
+- **7)** w art. 25u ust. 2 i 3 otrzymują brzmienie: „
+
+2. Przepisy Umowy zbiorowej, o której mowa w ust. 1, stosuje się również do czasu pracy pracowników kolei wykonujących interoperacyjne usługi transgraniczne w ramach transgranicznych przewozów pasażerskich, transgranicznych przewozów towarowych w odległości nie większej niż 15 kilometrów od granicy oraz przewozów między granicznymi stacjami kolejowymi: Rzepin, Tuplice, Zebrzydowice.
+
+3. Przez transgraniczne przewozy pasażerskie, o których mowa w ust. 2, rozumie się wojewódzkie przewozy pasażerskie, o których mowa w przepisach ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym realizowane w strefie transgranicznej. ” ;
+
+- **8)** po rozdziale 5a dodaje się rozdziały 5b-5d w brzmieniu: „
+
+#### Rozdział 5b Przewozy kolejowe o charakterze użyteczności publicznej
+
+#### Rozdział 5c
+
+#### Rozdział 5d Przewozy okazjonalne
+
+**Art. 75.** W ustawie z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2010 r. Nr 113, poz. 759, Nr 161, poz. 1078 i Nr 182, poz. 1228) wprowadza się następujące zmiany:
+
+- **1)** w art. 91 dodaje się ust. 8 w brzmieniu: „
+
+8.
+
 

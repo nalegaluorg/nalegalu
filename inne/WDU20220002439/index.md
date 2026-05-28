@@ -8,10 +8,10 @@ pos: 2439
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 listopada 2022 r.
+# Rozporządzenie Ministra Obrony Narodowejz dnia 24 października 2022 r. w sprawie wyróżniania żołnierzy oraz pododdziałów, oddziałów i instytucji wojskowych
 
 | Pole | Wartość |
 |---|---|
@@ -22,270 +22,842 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-24 |
 | Data wydania | 2022-11-28 |
+| Wejście w życie | 2022-12-13 |
 | Ostatnia zmiana | 2024-10-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002439) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2439/text.pdf) |
 
-22443399 Załączniki do rozporządzenia Ministra Obrony Narodowej z dnia 24 października 2022 r. (Dz. U. poz. ..................) Załącznik nr 1 OPIS I WZÓR „ODZNAKI HONOROWEJ WOJSK LĄDOWYCH” „Odznakę Honorową Wojsk Lądowych” stanowi: na awersie krzyż kawalerski (grubości min. 2 mm) z płata sztandaru jednostki wojskowej, według wzoru określonego w ustawie o znakach. Górna połowa krzyża emaliowana na biało, dolna na czerwono. Barwy krzyża ustalone dla barw Rzeczypospolitej Polskiej określonych w ustawie z dnia 31 stycznia 1980 r.
-o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2019 r. poz. 1509). Obramowanie krzyża w kolorze oksydowanego srebra.
-W centralnej części krzyża nałożona tarcza w kształcie koła, okolona otwartym pozłacanym wieńcem z liści laurowych o wyraźnym reliefie. Wnętrze tarczy emaliowane w kolorze zielonym kolor z palety Ral 6018. Na tarczy nałożony orzeł wojsk lądowych (w kolorze oksydowanego srebra), określony w art. 5 ustawy o znakach, bez tarczy amazonek, siedzący na ułożonym poprzecznie mieczu z rękojeścią zwróconą w tym samym kierunku co głowa orła.
-Na rewersie grawerowane wgłębnie lub wykonane innym sposobem zapewniającym nieusuwalność i wyrazistość: kolejny numer odznaki łamany przez dwie cyfry oznaczające rok jej wykonania (np. 0001/22) oraz nazwa firmy lub jej znak.
-Odznaka wypukła, wykonana z metalu (oprócz cyny i materiałów cynopochodnych), trzywarstwowa, trzyczęściowa. Elementy odznaki uplastycznione w formie płaskorzeźby 2,5D.
-Mocowana na lutowany do odznaki gwintowany trzpień o średnicy 2 mm z nakrętką o średnicy 18 mm z bokiem moletkowanym. Wymiary odznaki 38 x 38 mm.
-Pakowana pojedynczo w etui z drewna lub płyty drewnopochodnej, oklejone materiałem pokryciowym novalite nr CL 11102 lub równoważnym, z wieczkiem płaskim zamykanym na ukryte magnesy neodymowe. Wymiary etui dopasowane do wielkości odznaki.
+Treść rozporządzenia
 
-## Załącznik nr 2 — OPIS I WZÓR „ODZNAKI HONOROWEJ SIŁ POWIETRZNYCH” „Odznakę Honorową Sił Powietrznych” stanowi: na awersie krzyż kawalerski (grubości min. 2 mm) z płata sztandaru jednostki wojskowej, według wzoru określonego w ustawie o znakach. Górna połowa krzyża emaliowana na biało, dolna na czerwono. Barwy krzyża ustalone dla barw Rzeczypospolitej Polskiej określonych w ustawie z dnia 31 stycznia 1980 r.
+## Załącznik nr 1 — – Opis i wzór „Odznaki Honorowej Wojsk Lądowych”
 
-o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2019 r. poz. 1509). Obramowanie krzyża w kolorze oksydowanego srebra.
-W centralnej części krzyża nałożona tarcza w kształcie koła, okolona otwartym pozłacanym wieńcem z liści laurowych o wyraźnym reliefie. Wnętrze tarczy emaliowane w kolorze błękitnym kolor z palety Ral 5012. Na tarczy nałożony orzeł w locie z rozpostartymi skrzydłami (w kolorze oksydowanego srebra), z głową zwróconą w prawo, trzymający w dziobie pozłacany wieniec. Orzeł według historycznego wzoru określonego dla „Odznaki Pilota”.
-Na rewersie grawerowane wgłębnie lub wykonane innym sposobem zapewniającym nieusuwalność i wyrazistość: kolejny numer odznaki łamany przez dwie cyfry oznaczające rok jej wykonania (np. 0001/22) oraz nazwa firmy lub jej znak.
-Odznaka wypukła, wykonana z metalu (oprócz cyny i materiałów cynopochodnych), trzywarstwowa, trzyczęściowa. Elementy odznaki uplastycznione w formie płaskorzeźby 2,5D.
-Mocowana na lutowany do odznaki gwintowany trzpień o średnicy 2 mm z nakrętką o średnicy 18 mm z bokiem moletkowanym. Wymiary odznaki 38 x 38 mm.
-Pakowana pojedynczo w etui z drewna lub płyty drewnopochodnej, oklejone materiałem pokryciowym novalite nr CL 11102 lub równoważnym, z wieczkiem płaskim zamykanym na ukryte magnesy neodymowe. Wymiary etui dopasowane do wielkości odznaki.
+## Załącznik nr 2 — – Opis i wzór „Odznaki Honorowej Sił Powietrznych”
 
-## Załącznik nr 3 — OPIS I WZÓR „ODZNAKI HONOROWEJ MARYNARKI WOJENNEJ” „Odznakę Honorową Marynarki Wojennej” stanowi: na awersie krzyż kawalerski (grubości min. 2 mm) z płata sztandaru jednostki wojskowej, według wzoru określonego w ustawie o znakach. Górna połowa krzyża emaliowana na biało, dolna na czerwono. Barwy krzyża ustalone dla barw Rzeczypospolitej Polskiej określonych w ustawie z dnia 31 stycznia 1980 r.
+## Załącznik nr 3 — – Opis i wzór „Odznaki Honorowej Marynarki Wojennej”
 
-o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2019 r. poz. 1509). Obramowanie krzyża w kolorze oksydowanego srebra.
-W centralnej części krzyża nałożona tarcza w kształcie koła, okolona otwartym pozłacanym wieńcem z liści laurowych o wyraźnym reliefie. Wnętrze tarczy emaliowane w kolorze granatowym kolor z palety Ral 5002. Na tarczy nałożone zbrojne ramię (w kolorze oksydowanego srebra), którego kształt został umieszczony na stronie głównej proporca Marynarki Wojennej, określonego w art. 20 ustawy o znakach.
-Na rewersie grawerowane wgłębnie lub wykonane innym sposobem zapewniającym nieusuwalność i wyrazistość: kolejny numer odznaki łamany przez dwie cyfry oznaczające rok jej wykonania (np. 0001/22) oraz nazwa firmy lub jej znak.
-Odznaka wypukła, wykonana z metalu (oprócz cyny i materiałów cynopochodnych), trzywarstwowa, trzyczęściowa. Elementy odznaki uplastycznione w formie płaskorzeźby 2,5D.
-Mocowana na lutowany do odznaki gwintowany trzpień o średnicy 2 mm z nakrętką o średnicy 18 mm z bokiem moletkowanym. Wymiary odznaki 38 x 38 mm.
-Pakowana pojedynczo w etui z drewna lub płyty drewnopochodnej, oklejone materiałem pokryciowym novalite nr CL 11102 lub równoważnym, z wieczkiem płaskim zamykanym na ukryte magnesy neodymowe. Wymiary etui dopasowane do wielkości odznaki.
+## Załącznik nr 4 — – Opis i wzór „Odznaki Honorowej Wojsk Specjalnych”
 
-## Załącznik nr 4 — OPIS I WZÓR „ODZNAKI HONOROWEJ WOJSK SPECJALNYCH” „Odznakę Honorową Wojsk Specjalnych” stanowi: na awersie krzyż kawalerski (grubości min. 2 mm) z płata sztandaru jednostki wojskowej, według wzoru określonego w ustawie o znakach. Górna połowa krzyża emaliowana na biało, dolna na czerwono. Barwy krzyża ustalone dla barw Rzeczypospolitej Polskiej określonych w ustawie z dnia 31 stycznia 1980 r.
+## Załącznik nr 5 — – Opis i wzór „Odznaki Honorowej Wojsk Obrony Terytorialnej”
 
-o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2019 r. poz. 1509). Obramowanie krzyża w kolorze oksydowanego srebra.
-W centralnej części krzyża nałożona tarcza w kształcie koła, okolona otwartym pozłacanym wieńcem z liści laurowych o wyraźnym reliefie. Wnętrze tarczy emaliowane w kolorze ciemnozielonym kolor z palety Ral 6005. Na tarczy nałożony spadający do walki orzeł (w kolorze oksydowanego srebra). Dziób i szpony pozłacane. Orzeł według wzoru określonego dla historycznego „Bojowego Znaku Spadochronowego”.
-Na rewersie grawerowane wgłębnie lub wykonane innym sposobem zapewniającym nieusuwalność i wyrazistość: kolejny numer odznaki łamany przez dwie cyfry oznaczające rok jej wykonania (np. 0001/22) oraz nazwa firmy lub jej znak.
-Odznaka wypukła, wykonana z metalu (oprócz cyny i materiałów cynopochodnych), trzywarstwowa, trzyczęściowa. Elementy odznaki uplastycznione w formie płaskorzeźby 2,5D.
-Mocowana na lutowany do odznaki gwintowany trzpień o średnicy 2 mm z nakrętką o średnicy 18 mm z bokiem moletkowanym. Wymiary odznaki 38 x 38 mm.
-Pakowana pojedynczo w etui z drewna lub płyty drewnopochodnej, oklejone materiałem pokryciowym novalite nr CL 11102 lub równoważnym, z wieczkiem płaskim zamykanym na ukryte magnesy neodymowe. Wymiary etui dopasowane do wielkości odznaki.
+## Załącznik nr 6 — – Opis i wzór „Odznaki Honorowej Żandarmerii Wojskowej”
 
-## Załącznik nr 5 — OPIS I WZÓR „ODZNAKI HONOROWEJ WOJSK OBRONY TERYTORIALNEJ” „Odznakę Honorową Wojsk Obrony Terytorialnej” stanowi: na awersie krzyż kawalerski (grubości min. 2 mm) z płata sztandaru jednostki wojskowej, według wzoru określonego w ustawie o znakach. Górna połowa krzyża emaliowana na biało, dolna na czerwono. Barwy krzyża ustalone dla barw Rzeczypospolitej Polskiej określonych w ustawie z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2019 r. poz. 1509). Obramowanie krzyża w kolorze oksydowanego srebra.
+## Załącznik nr 7 — – Opis i wzór odznaki tytułu honorowego „Wzorowy Podchorąży”
 
-W centralnej części krzyża nałożona tarcza w kształcie koła, okolona otwartym pozłacanym wieńcem z liści laurowych o wyraźnym reliefie. Wnętrze tarczy emaliowane w kolorze czarnym kolor z palety Ral 9005. Na tarczy nałożony centralnie znak Polski Walczącej w kolorze złotym, zgodny ze znakiem umieszczonym na tarczy amazonek orła Wojsk Obrony Terytorialnej.
-Na rewersie grawerowane wgłębnie lub wykonane innym sposobem zapewniającym nieusuwalność i wyrazistość: kolejny numer odznaki łamany przez dwie cyfry oznaczające rok jej wykonania (np. 0001/22) oraz nazwa firmy lub jej znak.
-Odznaka wypukła, wykonana z metalu (oprócz cyny i materiałów cynopochodnych), trzywarstwowa, trzyczęściowa. Elementy odznaki uplastycznione w formie płaskorzeźby 2,5D.
-Mocowana na lutowany do odznaki gwintowany trzpień o średnicy 2 mm z nakrętką o średnicy 18 mm z bokiem moletkowanym. Wymiary odznaki 38 x 38 mm.
-Pakowana pojedynczo w etui z drewna lub płyty drewnopochodnej, oklejone materiałem pokryciowym novalite nr CL 11102 lub równoważnym, z wieczkiem płaskim zamykanym na ukryte magnesy neodymowe. Wymiary etui dopasowane do wielkości odznaki.
+## Załącznik nr 8 — – Opis i wzór odznaki tytułu honorowego „Zasłużony Żołnierz Rzeczypospolitej Polskiej”
 
-## Załącznik nr 6 — OPIS I WZÓR „ODZNAKI HONOROWEJ ŻANDARMERII WOJSKOWEJ” „Odznakę Honorową Żandarmerii Wojskowej” stanowi: na awersie krzyż kawalerski (grubości min. 2 mm) z płata sztandaru jednostki wojskowej, według wzoru określonego w ustawie o znakach. Górna połowa krzyża emaliowana na biało, dolna na czerwono. Barwy krzyża ustalone dla barw Rzeczypospolitej Polskiej określonych w ustawie z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2019 r. poz. 1509). Obramowanie krzyża w kolorze oksydowanego srebra.
+## Załącznik nr 9 — – Opis i wzór odznaki tytułu honorowego „Zasłużony Żołnierz OT”
 
-W centralnej części krzyża nałożona tarcza w kształcie koła, okolona otwartym pozłacanym wieńcem z liści laurowych o wyraźnym reliefie. Wnętrze tarczy emaliowane w kolorze szkarłatnym kolor z palety Ral 3000. Na tarczy nałożony hełm żandarmów z 1830–1831 r., wsparty na pękających granatach, u dołu stylizowane litery „ŻW”. Hełm i granaty (w kolorze oksydowanego srebra), litery „ŻW” pozłacane.
-Na rewersie grawerowane wgłębnie lub wykonane innym sposobem zapewniającym nieusuwalność i wyrazistość: kolejny numer odznaki łamany przez dwie cyfry oznaczające rok jej wykonania (np. 0001/22) oraz nazwa firmy lub jej znak.
-Odznaka wypukła, wykonana z metalu (oprócz cyny i materiałów cynopochodnych), trzywarstwowa, trzyczęściowa. Elementy odznaki uplastycznione w formie płaskorzeźby 2,5D.
-Mocowana na lutowany do odznaki gwintowany trzpień o średnicy 2 mm z nakrętką o średnicy 18 mm z bokiem moletkowanym. Wymiary odznaki 38 x 38 mm.
-Pakowana pojedynczo w etui z drewna lub płyty drewnopochodnej, oklejone materiałem pokryciowym novalite nr CL 11102 lub równoważnym, z wieczkiem płaskim zamykanym na ukryte magnesy neodymowe. Wymiary etui dopasowane do wielkości odznaki.
-OPIS I WZÓR ODZNAKI TYTUŁU HONOROWEGO „WZOROWY PODCHORĄŻY” Odznakę tytułu honorowego „Wzorowy Podchorąży” stanowią dwie nałożone na siebie okrągłe tarcze, zewnętrzna o większej średnicy i wewnętrzna o mniejszej średnicy.
-Na awersie na pierścieniu, utworzonym po nałożeniu na tarczę zewnętrzną tarczy wewnętrznej, półkoliście ułożone wypukłe napisy: od góry WZOROWY, od dołu PODCHORĄŻY. Między wyrazami dwa przerywniki w formie nieregularnych rombów.
-Pierścień powstały po nałożeniu tarcz w kolorze oksydowanego srebra. Obramowanie pierścienia litery i romby polerowane na jasno. Na tarczy wewnętrznej wypukły kaszkiet podchorążych Szkoły Podchorążych Piechoty z 1830 r. z orłem wojsk Królestwa Polskiego.
-Tarcza z kaszkietem w kolorze oksydowanego srebra. Obramowanie tarczy i kaszkiet polerowane.
-Na rewersie grawerowane wgłębnie lub wykonane innym sposobem zapewniającym nieusuwalność i wyrazistość: kolejny numer odznaki łamany przez dwie cyfry oznaczające rok jej wykonania (np. 0001/22) oraz nazwa firmy lub jej znak.
-Odznaka wypukła, wykonana z metalu (oprócz cyny i materiałów cynopochodnych), dwuwarstwowa, dwuczęściowa. Mocowana na lutowany do odznaki gwintowany trzpień o średnicy 2 mm z nakrętką o średnicy 18 mm z bokiem moletkowanym. Wymiary: średnica odznaki 30 mm, średnica tarczy wewnętrznej 20 mm.
-Pakowana pojedynczo w etui z drewna lub płyty drewnopochodnej, oklejone materiałem pokryciowym novalite nr CL 11102 lub równoważnym, z wieczkiem płaskim zamykanym na ukryte magnesy neodymowe. Wymiary etui dopasowane do wielkości odznaki.
-OPIS I WZÓR ODZNAKI TYTUŁU HONOROWEGO „ZASŁUŻONY ŻOŁNIERZ RZECZYPOSPOLITEJ POLSKIEJ” Odznakę tytułu honorowego „Zasłużony Żołnierz Rzeczypospolitej Polskiej” stanowi na awersie wieniec z liści laurowych i dębowych o grubości minimum 2 mm i wyraźnym reliefie.
-Kolor wieńca zależny od stopnia odznaki: w kolorze złotym dla odznaki w pierwszym stopniu, w kolorze srebrnym dla odznaki w drugim stopniu, w kolorze brązu dla odznaki w trzecim stopniu.
-Na wieniec nałożony uplastyczniony w 2,5D orzeł z głowicy sztandaru jednostki wojskowej (o grubości min. 4 mm) w najwyższym punkcie uplastycznienia, posadowiony na podstawie (puszce) według wzoru określonego w ustawie o znakach. Orzeł i kontury puszki w kolorze oksydowanego srebra. Korona, dziób i szpony pozłacane. Orzeł i puszka głęboko ryte i modelowane. Wnętrze puszki emaliowane na biało, na białym polu umieszczony skrót „RP”.
-Kolor liter i obramowania pola zgodny ze stopniem odznaki, według zasady przyjętej dla wieńca.
-Na rewersie grawerowane wgłębnie lub wykonane innym sposobem zapewniającym nieusuwalność i wyrazistość: kolejny numer odznaki łamany przez dwie cyfry oznaczające rok jej wykonania (np. 0001/22) oraz nazwa firmy lub jej znak.
-Odznaka wypukła, ażurowa, wykonana z metalu (oprócz cyny i materiałów cynopochodnych), trzywarstwowa, trzyczęściowa. Elementy odznaki uplastycznione w formie płaskorzeźby w 2,5D. Mocowana na lutowany do odznaki gwintowany trzpień o średnicy 2 mm z nakrętką o średnicy 18 mm z bokiem moletkowanym. Wymiary: wysokość 44 mm, szerokość 40 mm.
-Pakowana pojedynczo w etui z drewna lub płyty drewnopochodnej, oklejone materiałem pokryciowym novalite nr CL 11102 lub równoważnym, z wieczkiem płaskim zamykanym na ukryte magnesy neodymowe. Wymiary etui dopasowane do wielkości odznaki.
-ODZNAKA TYTUŁU HONOROWEGO „ZASŁUŻONY ŻOŁNIERZ RP” W PIERWSZYM STOPNIU (ZŁOTA) ODZNAKA TYTUŁU HONOROWEGO „ZASŁUŻONY ŻOŁNIERZ RP” W DRUGIM STOPNIU (SREBRNA) ODZNAKA TYTUŁU HONOROWEGO „ZASŁUŻONY ŻOŁNIERZ RP” W TRZECIM STOPNIU (BRĄZOWA) Załącznik nr 9 OPIS I WZÓR ODZNAKI TYTUŁU HONOROWEGO „ZASŁUŻONY ŻOŁNIERZ OT” Odznakę tytułu honorowego „Zasłużony Żołnierz OT” stanowią dwie nałożone na siebie okrągłe tarcze, zewnętrzna o większej średnicy i wewnętrzna o mniejszej średnicy.
-Na awersie na pierścieniu, utworzonym po nałożeniu na tarczę zewnętrzną tarczy wewnętrznej, półkoliście ułożone wypukłe napisy: od góry ZASŁUŻONY, od dołu ŻOŁNIERZ OT. Pierścień powstały po nałożeniu tarcz w kolorze oksydowanego srebra.
-Obramowanie pierścienia i litery polerowane na jasno. Na tarczy wewnętrznej w centrum Znak Polski Walczącej w kolorze srebrnym zgodny ze znakiem umieszczonym na tarczy amazonek orła Wojsk Obrony Terytorialnej. Pod Znakiem Polski Walczącej symetrycznie umieszczone gałązki z liśćmi skierowanymi ku górze po lewej laurowa, po prawej dębowa.
-Tło w kolorze szarym. Kontur Znaku Polski Walczącej i liści polerowany na srebrno.
-Na rewersie grawerowane wgłębnie lub wykonane innym sposobem zapewniającym nieusuwalność i wyrazistość: kolejny numer odznaki łamany przez dwie cyfry oznaczające rok jej wykonania (np. 0001/22) oraz nazwa firmy lub jej znak.
-Odznaka wypukła, wykonana z metalu (oprócz cyny i materiałów cynopochodnych), dwuwarstwowa, dwuczęściowa. Mocowana na lutowany do odznaki gwintowany trzpień o średnicy 2 mm z nakrętką o średnicy 18 mm z bokiem moletkowanym. Wymiary: średnica odznaki 30 mm, średnica tarczy wewnętrznej 20 mm.
-Pakowana pojedynczo w etui z drewna lub płyty drewnopochodnej, oklejone materiałem pokryciowym novalite nr CL 11102 lub równoważnym, z wieczkiem płaskim zamykanym na ukryte magnesy neodymowe. Wymiary etui dopasowane do wielkości odznaki.
-OPIS I WZÓR ODZNAKI TYTUŁU HONOROWEGO „ZASŁUŻONY PILOT WOJSKOWY” Odznakę tytułu honorowego „Zasłużony Pilot Wojskowy” stanowią dwie nałożone na siebie okrągłe tarcze, zewnętrzna o większej średnicy i wewnętrzna o mniejszej średnicy.
-Na awersie pierścień, utworzony po nałożeniu na tarczę zewnętrzną tarczy wewnętrznej, okolony wieńcem z liści laurowych i dębowych. W pierścieniu ułożony półkoliście napis „ZASŁUŻONY PILOT WOJSKOWY”. Wnętrze pierścienia emaliowane w kolorze białym.
-Wieniec, obramowania pierścienia oraz napis w kolorze złotym. Na dole odznaki, na pierścieniu i wieńcu, nałożona szachownica lotnicza, emaliowana w kolorach białym i czerwonym, w obramowaniu koloru oksydowanego srebra, według wzoru określonego w art. 22 ustawy o znakach. Na tarczy wewnętrznej na części emaliowanej w kolorze błękitnym (kolor z palety Ral 5012) nałożony uplastyczniony w 2,5D orzeł w locie z rozpostartymi skrzydłami i głową zwróconą w prawo, trzymający w dziobie nałożoną pozłacaną rzymską liczbę I, II lub III, oznaczającą nadanie tytułu honorowego po raz pierwszy, drugi lub trzeci. Orzeł w kolorze oksydowanego srebra według historycznego wzoru określonego dla „Odznaki Pilota”.
-Na rewersie grawerowane wgłębnie lub wykonane innym sposobem zapewniającym nieusuwalność i wyrazistość: kolejny numer odznaki łamany przez dwie cyfry oznaczające rok jej wykonania (np. 0001/22) oraz nazwa firmy lub jej znak.
-Odznaka wypukła, wykonana z metalu (oprócz cyny i materiałów cynopochodnych), dwuwarstwowa, trzyczęściowa. Elementy odznaki uplastycznione w formie płaskorzeźby w 2,5D. Mocowana na lutowany do odznaki gwintowany trzpień o średnicy 2 mm z nakrętką o średnicy 18 mm z bokiem moletkowanym. Wymiary: średnica odznaki 40 mm, średnica tarczy zewnętrznej 33 mm, średnica tarczy wewnętrznej 22 mm, bok szachownicy 8 mm, wysokość liczby rzymskiej 4,5 mm.
-Pakowana pojedynczo w etui z drewna lub płyty drewnopochodnej, oklejone materiałem pokryciowym novalite nr CL 11102 lub równoważnym, z wieczkiem płaskim zamykanym na ukryte magnesy neodymowe. Wymiary etui dopasowane do wielkości odznaki.
-ODZNAKA TYTUŁU HONOROWEGO „ZASŁUŻONY PILOT WOJSKOWY” NADANEGO PO RAZ PIERWSZY ODZNAKA TYTUŁU HONOROWEGO „ZASŁUŻONY PILOT WOJSKOWY” NADANEGO PO RAZ DRUGI ODZNAKA TYTUŁU HONOROWEGO „ZASŁUŻONY PILOT WOJSKOWY” NADANEGO PO RAZ TRZECI Załącznik nr 14 OPIS I WZÓR BUZDYGANU HONOROWEGO Buzdygan honorowy składa się z głowicy osadzonej na trzonku. Wszystkie elementy buzdyganu wykonane z metalu w kolorze oksydowanego srebra i złota.
-1. Głowica sześciopiórowa. Pióra kanciaste, wielokątne, profilowane, osadzone w cylindrycznej tulei zwieńczonej guzem w kształcie stożka. Oba płazy piór zdobione trawionymi liśćmi akantu, częściowo pozłacanymi elektrolitycznie.
-2. Trzonek walcowaty, wewnątrz z otworem na śrubę ściskającą. Od góry, pod głowicą ruchomy kołnierz dystansowy, poniżej kostka orłów wojskowych sześcian z otworem na trzonek, na ścianach kostki nałożone cztery orły danego rodzaju wojsk, według wzorów określonych w art. 5–7b ustawy o znakach. Korony, dzioby, szpony oraz kotwica i lina pozłacane. Tarcze amazonek emaliowane: orła Marynarki Wojennej na niebiesko, orła Wojsk Specjalnych na czarno.
-Pod orłami wymienny pierścień generalski (admiralski) z nałożoną aktualną oznaką stopnia generalskiego (admiralskiego), wykonaną wypukło metodą grawerską lub inną, zapewniającą estetyczny wygląd. Gwiazdki oznaki stopnia generalskiego (admiralskiego) umieszczone pod orłem rodzaju sił zbrojnych. Pierścień dla generałów w kolorze oksydowanego srebra, dla admirałów w kolorze złotym.
-Poniżej pierścienia generalskiego (admiralskiego) trzonek kanelowany w osiem żłobków zakończonych półokrągło.
-Pod nimi pierścień prezydencki z wygrawerowanym napisem w trzech wierszach, w:
-1) wierszu pierwszym sentencja: „OBRONA OJCZYZNY NAJWYŻSZYM OBOWIĄZKIEM”;
-2) wierszu drugim stopień wojskowy, imię i nazwisko mianowanego generała (admirała) w trzecim przypadku deklinacyjnym;
-3) wierszu trzecim „PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ” oraz data udzielenia wyróżnienia.
-Pierścień prezydencki w kolorze złotym. Pod pierścieniem okucie ozdobione wypukłymi liśćmi dębu w kolorze złotym. Pod nim uchwyt kanelowany w dwanaście żłobków zakończonych półokrągło. Dolna część trzonka zakończona nakrętką ozdobioną wypukłymi liśćmi dębu w kolorze złotym.
-Wymiary całkowita długość buzdyganu 470 mm. Głowica: długość pióra 90 mm, szerokość pióra 35 mm, grubość pióra 5 mm. Trzonek: długość 365 mm, średnica bez ozdób 25 mm.
-OPIS I WZÓR SZABLI HONOROWEJ WOJSKA POLSKIEGO Szablę honorową Wojska Polskiego stanowi szabla o wzorze 1976/2008, oznaczona i ocechowana dla celów ewidencyjno-finansowych skrótem wz. 76/08 HWP, oznaczającym wzór z 1976 r. zmodyfikowany w 2008 r., i nazwą szabli w odróżnieniu od szabli służbowej: Szabla Honorowa Wojska Polskiego.
-Szabla honorowa Wojska Polskiego składa się z głowni oraz rękojeści. Ponadto w skład ukompletowania szabli honorowej wchodzi: szabla, pochwa, temblak i pokrowiec.
-1. Głownia szabli honorowej Wojska Polskiego stalowa kuta, taliowana, chromowana, krzywa z obosiecznym piórem i decentrycznym sztychem. Wzdłuż obu płazów głowni wyszlifowane po dwie równoległe równej długości wklęsłe bruzdy, biegnące od nasady do obosiecznego pióra, a na grzbiecie, przy rękojeści krótka bruzdeczka.
-Na zewnętrznym płazie głowni wzdłuż środkowej bruzdy w kierunku od sztychu do rękojeści wypukły napis „HONOR I OJCZYZNA” umieszczony na wklęsło wytrawionym, matowym kartuszu. Na tym samym kartuszu, po napisie, wytrawiony wypukły wizerunek obowiązującego orła, ustalony dla godła Rzeczypospolitej Polskiej, zwrócony szponami do rękojeści.
-Końce kartusza ozdobione wypukło wytrawionymi, stylizowanymi liśćmi akantu.
-Napis: „HONOR I OJCZYZNA”, korona, dziób i szpony orła oraz częściowo liście akantu mogą być pozłocone elektrolitycznie.
-Na wewnętrznym płazie głowni na szabli honorowej, wzdłuż środkowej bruzdy, w kierunku od sztychu do rękojeści, napis dedykacyjny wypukło wytrawiony (wygrawerowany lub wykonany inną metodą zapewniającą estetyczny wygląd), ułożony w trzech wierszach, wykonany na wklęsło wytrawionym, matowym kartuszu.
-Końce kartusza ozdobione wypukło trawionymi stylizowanymi liśćmi akantu.
-Dedykacja umieszczona w trzech wierszach, w:
-1) wierszu pierwszym: stopień wojskowy, tytuł wojskowy, imię i nazwisko wyróżnionego w trzecim przypadku deklinacyjnym;
-2) wierszu drugim: krótki opis zasługi lub czynu;
-3) wierszu trzecim: stanowisko służbowe przełożonego dyscyplinarnego udzielającego wyróżnienia i data wyróżnienia.
-W przypadku wykonania pozłocenia na zewnętrznym płazie głowni napis dedykacyjny oraz częściowo liście akantu powinny być pozłocone elektrolitycznie.
-2. Rękojeść zamknięta z jelcem z mosiądzu pasywowanego. Jelec z wąsami o prosto ściętych końcach. Przednie ramię jelca załamane u dołu pod kątem lekko rozwartym. Kabłąk zwężający się w kierunku głowicy. Zewnętrzne krawędzie kabłąka wyoblone. Głowica lekko pochylona ku przodowi, z kapturkiem w kształcie migdała, przechodzącym w warkocz sięgający do tylnego ramienia jelca, przykręcony do uchwytu rękojeści mosiężnym wkrętem. Tylne ramię jelca zakończone wachlarzowatym rozszerzeniem. Trzon (uchwyt) rękojeści drewniany, obciągnięty czarną, chromową skórą, z naciętymi 12 rowkami wypełnionymi potrójnym oplotem, splecionym z 6 drucików z mosiądzu pasywowanego.
-Na szabli honorowej mosiężne elementy rękojeści mogą być pozłocone elektrolitycznie.
-3. Pochwa z blachy stalowej, miedziowanej i niklowanej posiada szyjkę z kołnierzem mocowanym na wcisk, 2 ryfki z ruchomymi kółkami i jest zakończona ostrogą o obrysie prostokątnym. Wewnątrz pochwy umieszczone drewniane wodzidła utrzymywane kołnierzem szyjki.
-4. Temblak, wzór 76/08, składa się z taśmy i chwastu. Taśma barwy srebrzystej, podwójnie złożona, przeplatana posrebrzaną nicią metalową lub srebrną, z dwoma karmazynowymi prążkami wzdłuż obu jej brzegów. Chwast otwarty, metalowo-drewniany. Zakończony frędzlami z 52 kawałków łańcuszka, splecionego czworokątnie, wykonanego ze srebra lub metalu oksydowanego na stare srebro.
-5. Pokrowiec składa się z worka, klapy i troków, wykonanych z miękkiego ciemnozielonego sukna.
+## Załącznik nr 10 — – Opis i wzór odznaki tytułu honorowego „Zasłużony Pilot Wojskowy”
 
-## Załącznik nr 16 — OPIS I WZÓR PAŁASZA HONOROWEGO MARYNARKI WOJENNEJ Pałasz honorowy Marynarki Wojennej stanowi pałasz o wzorze 1976/2008, oznaczony i ocechowany dla celów ewidencyjno-finansowych skrótem wz. 76/08 HMW, oznaczającym wzór z 1976 r. zmodyfikowany w 2008 r., i nazwą pałasza w odróżnieniu od pałasza służbowego: Pałasz Honorowy Marynarki Wojennej.
+## Załącznik nr 11 — – Opis i wzór legitymacji odznak honorowych
 
-Pałasz honorowy Marynarki Wojennej składa się z głowni oraz rękojeści. Ponadto w skład ukompletowania pałasza honorowego wchodzi: pałasz, pochwa, temblak i pokrowiec.
-1. Głownia pałasza honorowego Marynarki Wojennej stalowa kuta, taliowana, chromowana, prosta z obosiecznym piórem i centrycznym sztychem. Wzdłuż obu płazów głowni wyszlifowane po dwie równoległe równej długości wklęsłe bruzdy, biegnące od nasady do obosiecznego pióra, na grzbiecie przy rękojeści krótka bruzdeczka.
-Na zewnętrznym płazie głowni wzdłuż środkowej bruzdy w kierunku od sztychu do rękojeści wypukły napis „HONOR I OJCZYZNA” umieszczony na wklęsło wytrawionym, matowym kartuszu. Na tym samym kartuszu, po napisie, wytrawiony wypukły wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej, zwrócony szponami do rękojeści. Końce kartusza ozdobione wypukło wytrawionymi stylizowanymi liśćmi akantu.
-Napis: „HONOR I OJCZYZNA”, korona, dziób i szpony orła oraz częściowo liście akantu mogą być pozłocone elektrolitycznie.
-Na wewnętrznym płazie głowni, na pałaszu honorowym, wzdłuż środkowej bruzdy, w kierunku od sztychu do rękojeści, napis dedykacyjny wypukło wytrawiony (wygrawerowany lub wykonany inną metodą zapewniającą estetyczny wygląd), ułożony w trzech wierszach, wykonany na wklęsło wytrawionym, matowym kartuszu. Końce kartusza ozdobione wypukło trawionymi stylizowanymi liśćmi akantu.
-Dedykacja umieszczona w trzech wierszach, w:
-1) wierszu pierwszym: stopień wojskowy, tytuł wojskowy, imię i nazwisko wyróżnionego w trzecim przypadku deklinacyjnym;
-2) wierszu drugim: krótki opis zasługi lub czynu;
-3) wierszu trzecim: stanowisko służbowe przełożonego dyscyplinarnego udzielającego wyróżnienia i data wyróżnienia.
-W przypadku wykonania pozłocenia na zewnętrznym płazie głowni napis dedykacyjny oraz częściowo liście akantu powinny być pozłocone elektrolitycznie.
-2. Rękojeść zamknięta z jelcem mosiężnym pasywowanym. Jelec z wąsami o prosto ściętych końcach. Przednie ramię jelca załamane u dołu pod kątem lekko rozwartym. Kabłąk zwężający się w kierunku głowicy. Zewnętrzne krawędzie kabłąka fazowane. Głowica lekko pochylona ku przodowi, z kapturkiem w kształcie migdała, przechodzącym w warkocz sięgający do tylnego ramienia jelca, przykręcony do uchwytu rękojeści mosiężnym wkrętem. Tylne ramię jelca zakończone wachlarzowatym rozszerzeniem. Trzon (uchwyt) rękojeści drewniany, obciągnięty czarną, chromową skórą, z naciętymi 12 rowkami wypełnionymi potrójnym oplotem, splecionym z 6 drucików z mosiądzu pasywowanego. Na zewnętrznej stronie rękojeści, w miejscu rozszerzenia utworzonego przez skrzyżowanie jelca z wąsami, przylutowany pozłocony metalowy jednowarstwowy znak krzyża kawalerskiego z nałożoną na niego kotwicą przeplecioną liną zwiniętą w kształcie litery „S”.
-Na pałaszu honorowym mosiężne elementy rękojeści mogą być pozłocone elektrolitycznie.
-3. Pochwa drewniana, oklejona czarną chromową skórą, bez szwu, posiada okucia z mosiądzu pasywowanego, składające się z szyjki z obramowaniem na wąsy jelca, dwóch ryfek z ruchomymi kółkami oraz trzewika z prostokątnymi okienkami po obu jego stronach. Trzewik jest zakończony u dołu spłaszczonym grzybkiem. W przypadku pozłocenia rękojeści pałasza honorowego mosiężne elementy pochwy powinny być pozłocone elektrolitycznie.
-4. Temblak, wzór 76/08, składa się z taśmy i chwastu. Taśma barwy srebrzystej, podwójnie złożona, przeplatana posrebrzaną nicią metalową lub srebrną, z dwoma karmazynowymi prążkami wzdłuż obu jej brzegów. Chwast otwarty, metalowo-drewniany. Zakończony frędzlami z 52 kawałków łańcuszka, splecionego czworokątnie, wykonanego ze srebra lub metalu oksydowanego na stare srebro.
-5. Pokrowiec składa się z worka, klapy i troków, wykonanych z miękkiego czarnego sukna.
-OPIS I WZÓR KORDZIKA HONOROWEGO SIŁ ZBROJNYCH RZECZYPOSPOLITEJ POLSKIEJ Kordzik honorowy Sił Zbrojnych Rzeczypospolitej Polskiej stanowi kordzik o wzorze 2008, oznaczony i ocechowany dla celów ewidencyjno-finansowych skrótem wz. 08 HSZ, oznaczającym wzór opracowany z 2008 r., a dla Wojsk Obrony Terytorialnej zmodyfikowany w 2020 r., i nazwą kordzika w odróżnieniu od kordzika reprezentacyjnego: Kordzik Honorowy Sił Zbrojnych. Wersje kordzika w zależności od zastosowanej symboliki rodzajów sił zbrojnych oraz Żandarmerii Wojskowej są oznaczone skrótami: WL, SP, MW, WS, WOT.
-Kordzik honorowy Sił Zbrojnych Rzeczypospolitej Polskiej składa się z głowni oraz rękojeści.
-Ponadto w skład ukompletowania kordzika wchodzą: kordzik, pochwa, rapcie i futerał.
-1. Głownia kordzika honorowego Sił Zbrojnych Rzeczypospolitej Polskiej wykonana ze stali nierdzewnej przeznaczonej na noże, taliowana, wypolerowana, prosta obosieczna, o przekroju romboidalnym, z centrycznym sztychem wzdłuż obu płazów głowni wyszlifowana od progu do sztychu symetryczna ość.
-Na zewnętrznym płazie głowni wzdłuż ości, w kierunku od sztychu do rękojeści, wypukły napis „HONOR I OJCZYZNA” umieszczony na wklęsło wytrawionym matowym kartuszu. Na tym samym kartuszu, po napisie, wytrawiony wypukły wizerunek obowiązującego orła, ustalony dla godła Rzeczypospolitej Polskiej, zwrócony szponami do rękojeści. Końce kartusza ozdobione wypukło wytrawionymi stylizowanymi liśćmi akantu.
-Na kordzikach honorowych napis „HONOR I OJCZYZNA”, korona, dziób i szpony orła oraz częściowo liście akantu mogą być pozłocone elektrolitycznie.
-Na wewnętrznym płazie głowni na kordzikach honorowych, wzdłuż ości, w kierunku od sztychu do rękojeści, napis dedykacyjny wypukło wytrawiony (wygrawerowany lub wykonany inną metodą zapewniającą estetyczny wygląd), ułożony w trzech wierszach, na wklęsło wytrawionym matowym kartuszu. Końce kartusza ozdobione wypukło wytrawionymi stylizowanymi liśćmi akantu.
-Dedykacja umieszczona w trzech wierszach, w:
-1) wierszu pierwszym: stopień wojskowy, tytuł wojskowy, imię i nazwisko wyróżnionego w trzecim przypadku deklinacyjnym;
-2) wierszu drugim: krótki opis zasługi lub czynu;
-3) wierszu trzecim: stanowisko służbowe przełożonego dyscyplinarnego udzielającego wyróżnienia i data wyróżnienia.
-W przypadku wykonania pozłocenia na zewnętrznym płazie głowni napis dedykacyjny oraz częściowo liście akantu powinny być pozłocone elektrolitycznie.
-Rękojeść otwarta z prostym jelcem. Ramiona jelca zakończone wachlarzowatym rozszerzeniem. Trzon (uchwyt) rękojeści o przekroju owalnym od strony jelca lekko zwężony, wykonany z tworzywa sztucznego w barwie kości słoniowej, odpornego na działania mechaniczne i atmosferyczne. Pomiędzy jelcem a trzonem (uchwytem) metalowy pierścień w przekroju owalnym, przy jelcu lekko rozszerzony, od góry obwiedziony drutem o przekroju kwadratowym. Na stronie wewnętrznej pierścienia otwór na przycisk blokady sprężyny.
-Sprężyna przynitowana do trzpienia głowni, przechodząca przez okienko jelca naprzeciwko wewnętrznego progu głowni. Powyżej trzonu (uchwytu) metalowa głowica o przekroju owalnym, od dołu obwiedziona drutem o przekroju kwadratowym, od góry zamknięta, z otworem na grzybek-nakrętkę M-6, mocującą elementy rękojeści do trzpienia głowni.
-Wszystkie elementy metalowe rękojeści kordzików honorowych dla Marynarki Wojennej wykonane z polerowanego mosiądzu w barwie złocistej. Dla pozostałych rodzajów sił zbrojnych z białego nierdzewnego metalu oksydowanego na stare srebro. Na kordziku honorowym MW mosiężne elementy rękojeści mogą być pozłocone. Na pozostałych kordzikach honorowych te same elementy mogą być posrebrzone.
-Na zewnętrznej stronie głowicy kordzika przylutowany orzeł odpowiedni dla rodzaju sił zbrojnych, wykonany z metalu w barwie jasnosrebrzystej, według wzorów określonych w art. 5–7b ustawy o znakach.
-2. Pochwa z blachy stalowej o przekroju owalnym, wewnątrz drewniane wodzidła.
-Od kołnierza szyjki zwężająca się ku dołowi do grzybka trzewika, oklejona czarną chromową skórą, bez szwu. Posiada trzy metalowe okucia. Od góry szyjka z kołnierzem i ruchomym kółkiem. W kołnierzu szyjki otwór na sprężynę blokady. Od dołu szyjka obwiedziona drutem o przekroju kwadratowym. W środkowej części pochwy ryfka z ruchomym kółkiem, od góry i od dołu obwiedziona drutem o przekroju kwadratowym. W dolnej części pochwy trzewik zwężający się ku dołowi pochwy, od góry obwiedziony drutem o przekroju kwadratowym, w dole zakończony grzybkiem-śrubą M-5, łączącym trzewik z pochwą.
-3. Na zewnętrznej stronie szyjek wszystkich kordzików honorowych przylutowany orzeł Ministerstwa Obrony Narodowej, według wzoru określonego w § 2 rozporządzenia Ministra Obrony Narodowej z dnia 4 maja 2009 r. w sprawie określenia innych znaków używanych w Siłach Zbrojnych Rzeczypospolitej Polskiej (Dz. U. poz. 689, z późn. zm.). Wykonany dwuwarstwowo z metalu oksydowanego na stare srebro. Orzeł, okrąg i wypukły napis w kolorze metalu. Korona, dziób i szpony orła pozłocone. Wnętrze okręgu emaliowane w kolorze czerwonym, ustalonym dla barw Rzeczypospolitej Polskiej.
-W przypadku wykonania pozłocenia rękojeści kordzika honorowego MW oraz posrebrzenia rękojeści pozostałych kordzików honorowych, odpowiednio zewnętrzne elementy metalowe pochwy powinny być pozłocone lub posrebrzone.
-Rapcie wz. 08 składają się z dwóch różnej długości pasków nośnych. Od góry paski nośne zakończone wsuwkami na pasek spodni lub spódnicy. Długość pasków regulowana za pomocą metalowych klamerek. Od dołu na paskach nośnych zawieszone metalowe karabińczyki, za pomocą których rapcie są mocowane do ruchomych kółek kordzika. Paski nośne oraz elementy metalowe rapci wykonane w zależności od rodzaju sił zbrojnych.
-4. Futerał składa się z prostokątnego pudełka zamykanego na zamek błyskawiczny.
-Wykonany ze skóry lub z tworzywa skóropodobnego w kolorze amarantowym, od wewnątrz utwardzony tekturą. Wnętrze futerału wyłożone amarantowym suknem.
-SPOSOBY ROZMIESZCZENIA I NOSZENIA NA UMUNDUROWANIU ODZNAK HONOROWYCH, ODZNAK TYTUŁÓW HONOROWYCH, SZNURÓW WYRÓŻNIAJĄCYCH ORAZ NOSZENIA KORDZIKÓW HONOROWYCH
-1. Sposób rozmieszczenia i noszenia odznak honorowych i odznak tytułów honorowych na mundurze galowym i wyjściowym, bluzie wyjściowej marynarskiej oraz bluzie spełniającej funkcję ubioru wyjściowego/galowego:
-1) odznaki honorowe, o których mowa w § 4 ust. 1 rozporządzenia, przymocowuje się bezpośrednio do munduru:
-a) Wojsk Lądowych i Sił Powietrznych na kurtce munduru wyjściowego i galowego, na wysokości 90–100 mm powyżej prawej górnej kieszeni, w linii pionowej poprowadzonej przez prawą krawędź kieszeni; odległość mierzona do prawej krawędzi odznaki,
-b) Marynarki Wojennej: na kurtce munduru wyjściowego i galowego po prawej stronie, na wysokości rogu wyłogu kołnierza, 25–30 mm w kierunku rękawa; odznaka poniżej styku kołnierza z wyłogiem: odległość mierzona do środka odznaki, na bluzie wyjściowej marynarskiej, po prawej stronie powyżej linii rozcięcia dekoltu, 40–50 mm od szwu stebnowania gorsu, w kierunku środka bluzy; odległość mierzona do środka odznaki,
-c) Wojsk Lądowych, Sił Powietrznych i Marynarki Wojennej na bluzie polowej spełniającej funkcję ubioru wyjściowego/galowego, w sposób określony w lit. a;
-2) odznaki tytułów honorowych, o których mowa w § 4 ust. 2–4 rozporządzenia, rozmieszcza się i mocuje na kurtkach mundurów wyjściowych i galowych oraz bluzie wyjściowej marynarskiej:
-a) Wojsk Lądowych i Sił Powietrznych przymocowując bezpośrednio do kurtki munduru wyjściowego i galowego albo na pasku skórzanym przypiętym do guzika prawej górnej kieszeni, na środku prawej górnej kieszeni między guzikiem klapki a dolną krawędzią kieszeni, jako odznakę pojedynczą albo drugą, w sposób określony w rozporządzeniu Ministra Obrony Narodowej z dnia 20 maja 2022 r. w sprawie noszenia umundurowania przez żołnierzy (Dz. U. poz. 1237), SPOSÓB ROZMIESZCZENIA I NOSZENIA ODZNAK HONOROWYCH, ODZNAK
-TYTUŁÓW HONOROWYCH ORAZ SZNURÓW WYRÓŻNIAJĄCYCH NA MUNDURACH WYJŚCIOWYCH ORAZ BLUZIE SPEŁNIAJĄCEJ FUNKCJĘ UBIORU WYJŚCIOWEGO/GALOWEGO SPOSÓB ROZMIESZCZENIA I NOSZENIA ODZNAK HONOROWYCH, ODZNAK
-TYTUŁÓW HONOROWYCH ORAZ SZNURÓW WYRÓŻNIAJĄCYCH NA MUNDURACH GALOWYCH SPOSÓB NOSZENIA KORDZIKA HONOROWEGO OPIS I WZÓR PROPORCA HONOROWEGO „PRZODUJĄCY PODODDZIAŁ WOJSK LĄDOWYCH” Proporzec honorowy „Przodujący Pododdział Wojsk Lądowych” składa się z płata, głowicy drzewca i gwoździ pamiątkowych. Wszystkie elementy metalowe w kolorze srebrnym.
-1. Płat proporca w kształcie prostokąta, wykonany z tkaniny barwy zielonej na stronie głównej, a na stronie odwrotnej barwy białej. Jeden bok proporca wszyty w białą skórę przymocowaną do drzewca od strony grzbietu trzema gwoździami mocującymi. Boki proporca, z wyjątkiem boku przytwierdzonego do drzewca, obszyte frędzlą srebrną.
-2. Na stronie głównej płata umieszczony pośrodku orzeł Wojsk Lądowych, według wzoru określonego w ustawie o znakach, haftowany srebrnym szychem; korona, dziób i szpony orła haftowane złotym szychem.
-3. Na stronie odwrotnej płata, pośrodku, dwie gałązki wawrzynu, ułożone w kształcie wieńca otwartego w górnej części, pośród których umieszczony w czterech wierszach napis „TOBIE OJCZYZNO ZAWSZE WIERNI”, wieniec i napis haftowane złotym szychem.
-4. Głowica proporca jest metalowa, składa się z czworograniastego grotu, kuli i tulei.
-5. Drzewce dwudzielne, sporządzone z drewna toczonego, obie połowy zakończone w środku drzewca metalowymi tulejami, połączonymi wewnątrz śrubą. Na górnym końcu drzewca głowica, na dolnym metalowa stopka.
-6. Gwoździe pamiątkowe metalowe, umieszczone pod głowicą na drzewcu, pionowo po 5 sztuk, rozpoczynając od strony głównej płata, z wygrawerowanym skrótem nazwy wyróżnionego pododdziału oraz skrótem nazwy macierzystego oddziału, pod nimi data roczna nadania tytułu honorowego.
-PROPORZEC „PRZODUJĄCEGO PODODDZIAŁU WOJSK LĄDOWYCH” OPIS I WZÓR PROPORCA HONOROWEGO „PRZODUJĄCY PODODDZIAŁ SIŁ POWIETRZNYCH” Proporzec honorowy „Przodujący Pododdział Sił Powietrznych” składa się z płata, głowicy drzewca i gwoździ pamiątkowych. Wszystkie elementy metalowe w kolorze srebrnym.
-1. Płat proporca w kształcie prostokąta, wykonany z tkaniny barwy błękitnej na stronie głównej, a na stronie odwrotnej barwy białej. Jeden bok proporca wszyty w białą skórę przymocowaną do drzewca od strony grzbietu trzema gwoździami mocującymi. Boki proporca, z wyjątkiem boku przytwierdzonego do drzewca, obszyte frędzlą srebrną.
-2. Na stronie głównej płata umieszczony pośrodku orzeł Lotnictwa Wojskowego, według wzoru określonego w ustawie o znakach, haftowany srebrnym szychem; korona, dziób i szpony orła haftowane złotym szychem.
-3. Na stronie odwrotnej płata, pośrodku, dwie gałązki wawrzynu, ułożone w kształcie wieńca otwartego w górnej części, pośród których umieszczony w czterech wierszach napis „TOBIE OJCZYZNO ZAWSZE WIERNI”, wieniec i napis haftowane złotym szychem.
-4. Głowica proporca jest metalowa, składa się z czworograniastego grotu, kuli i tulei.
-5. Drzewce dwudzielne, sporządzone z drewna toczonego, obie połowy zakończone w środku drzewca metalowymi tulejami, połączonymi wewnątrz śrubą. Na górnym końcu drzewca głowica, na dolnym metalowa stopka.
-6. Gwoździe pamiątkowe metalowe, umieszczone pod głowicą na drzewcu, pionowo po 5 sztuk, rozpoczynając od strony głównej płata z wygrawerowanym skrótem nazwy wyróżnionego pododdziału oraz skrótem nazwy macierzystego oddziału, pod nimi data roczna nadania tytułu honorowego.
-PROPORZEC „PRZODUJĄCEGO PODODDZIAŁU SIŁ POWIETRZNYCH” OPIS I WZÓR PROPORCA HONOROWEGO „PRZODUJĄCY PODODDZIAŁ MARYNARKI WOJENNEJ” Proporzec honorowy „Przodujący Pododdział Marynarki Wojennej” składa się z płata, głowicy drzewca i gwoździ pamiątkowych; wszystkie elementy metalowe w kolorze złotym.
-1. Płat proporca w kształcie prostokąta, wykonany z tkaniny barwy granatowej na stronie głównej, a na stronie odwrotnej barwy białej. Jeden bok proporca wszyty w białą skórę przymocowaną do drzewca od strony grzbietu trzema gwoździami mocującymi. Boki proporca, z wyjątkiem boku przytwierdzonego do drzewca, obszyte frędzlą złotą.
-2. Na stronie głównej płata umieszczony pośrodku orzeł Marynarki Wojennej, według wzoru określonego w ustawie o znakach, haftowany srebrnym szychem; korona, dziób i szpony orła oraz kotwica i lina haftowane złotym szychem, pole tarczy amazonek haftowane niebieskim szychem.
-3. Na stronie odwrotnej płata, pośrodku, dwie gałązki wawrzynu, ułożone w kształcie wieńca otwartego w górnej części, pośród których umieszczony w czterech wierszach napis „TOBIE OJCZYZNO ZAWSZE WIERNI”, wieniec i napis haftowane złotym szychem.
-4. Głowica proporca jest metalowa, składa się z czworograniastego grotu, kuli i tulei.
-5. Drzewce dwudzielne, sporządzone z drewna toczonego, obie połowy zakończone w środku drzewca metalowymi tulejami, połączonymi wewnątrz śrubą. Na górnym końcu drzewca głowica, na dolnym metalowa stopka.
-6. Gwoździe pamiątkowe metalowe, umieszczone pod głowicą na drzewcu, pionowo po 5 sztuk, rozpoczynając od strony głównej płata z wygrawerowanym skrótem nazwy wyróżnionego pododdziału oraz skrótem nazwy macierzystego oddziału, pod nimi data roczna nadania tytułu honorowego.
-PROPORZEC „PRZODUJĄCEGO PODODDZIAŁU MARYNARKI WOJENNEJ” OPIS I WZÓR PROPORCA HONOROWEGO „PRZODUJĄCY PODODDZIAŁ WOJSK OBRONY TERYTORIALNEJ” Proporzec honorowy „Przodujący Pododdział Wojsk Obrony Terytorialnej” składa się z płata, głowicy drzewca i gwoździ pamiątkowych. Wszystkie elementy metalowe w kolorze srebrnym.
-1. Płat proporca w kształcie prostokąta, wykonany z tkaniny barwy oliwkowej zgodnej z kolorem beretu Wojsk Obrony Terytorialnej na stronie głównej, a na stronie odwrotnej barwy białej. Jeden bok proporca wszyty w białą skórę przymocowaną do drzewca od strony grzbietu trzema gwoździami mocującymi. Boki proporca, z wyjątkiem boku przytwierdzonego do drzewca, obszyte frędzlą srebrną.
-2. Na stronie głównej płata umieszczony pośrodku orzeł Wojsk Obrony Terytorialnej, według wzoru określonego w ustawie o znakach, haftowany srebrnym szychem; korona, dziób i szpony orła oraz Znak Polski Walczącej na pelcie haftowane złotym szychem.
-3. Na stronie odwrotnej płata, pośrodku, dwie gałązki wawrzynu, ułożone w kształcie wieńca otwartego w górnej części, pośród których umieszczony w czterech wierszach napis „TOBIE OJCZYZNO ZAWSZE WIERNI”, wieniec i napis haftowane złotym szychem.
-4. Głowica proporca jest metalowa, składa się z czworograniastego grotu, kuli i tulei.
-5. Drzewce dwudzielne, sporządzone z drewna toczonego, obie połowy zakończone w środku drzewca metalowymi tulejami, połączonymi wewnątrz śrubą. Na górnym końcu drzewca głowica, na dolnym metalowa stopka.
-6. Gwoździe pamiątkowe metalowe, umieszczone pod głowicą na drzewcu, pionowo po 5 sztuk, rozpoczynając od strony głównej płata, z wygrawerowanym skrótem nazwy wyróżnionego pododdziału oraz skrótem nazwy macierzystego oddziału, pod nimi data roczna nadania tytułu honorowego.
-PROPORZEC „PRZODUJĄCEGO PODODDZIAŁU WOJSK OBRONY TERYTORIALNEJ” OPIS I WZÓR PROPORCA HONOROWEGO „PRZODUJĄCY PODODDZIAŁ WOJSK SPECJALNYCH” Proporzec honorowy „Przodujący Pododdział Wojsk Specjalnych” składa się z płata, głowicy drzewca i gwoździ pamiątkowych. Wszystkie elementy metalowe w kolorze srebrnym.
-1. Płat proporca w kształcie prostokąta, wykonany z tkaniny barwy ciemnozielonej na stronie głównej, a na stronie odwrotnej barwy białej. Jeden bok proporca wszyty w białą skórę przymocowaną do drzewca od strony grzbietu trzema gwoździami mocującymi. Boki proporca, z wyjątkiem boku przytwierdzonego do drzewca, obszyte frędzlą srebrną.
-2. Na stronie głównej płata umieszczony pośrodku orzeł Wojsk Specjalnych, według wzoru określonego w ustawie o znakach, haftowany srebrnym szychem; korona, dziób i szpony orła haftowane złotym szychem, a wewnętrzne pole tarczy amazonek haftowane czarnym szychem.
-3. Na stronie odwrotnej płata, pośrodku, dwie gałązki wawrzynu, ułożone w kształcie wieńca otwartego w górnej części, pośród których umieszczony w czterech wierszach napis „TOBIE OJCZYZNO ZAWSZE WIERNI”, wieniec i napis haftowane złotym szychem.
-4. Głowica proporca jest metalowa, składa się z czworograniastego grotu, kuli i tulei.
-5. Drzewce dwudzielne, sporządzone z drewna toczonego, obie połowy zakończone w środku drzewca metalowymi tulejami, połączonymi wewnątrz śrubą. Na górnym końcu drzewca głowica, na dolnym metalowa stopka.
-6. Gwoździe pamiątkowe metalowe, umieszczone pod głowicą na drzewcu, pionowo po 5 sztuk, rozpoczynając od strony głównej płata z wygrawerowanym skrótem nazwy wyróżnionego pododdziału oraz skrótem nazwy macierzystego oddziału, pod nimi data roczna nadania tytułu honorowego.
-PROPORZEC „PRZODUJĄCEGO PODODDZIAŁU WOJSK SPECJALNYCH” OPIS I WZÓR PROPORCA HONOROWEGO „PRZODUJĄCY PODODDZIAŁ ŻANDARMERII WOJSKOWEJ” Proporzec honorowy „Przodujący Pododdział Żandarmerii Wojskowej” składa się z płata, głowicy drzewca i gwoździ pamiątkowych. Wszystkie elementy metalowe w kolorze srebrnym.
-1. Płat proporca w kształcie prostokąta, wykonany z tkaniny barwy szkarłatnej na stronie głównej, a na stronie odwrotnej barwy białej. Jeden bok proporca wszyty w białą skórę przymocowaną do drzewca od strony grzbietu trzema gwoździami mocującymi. Boki proporca, z wyjątkiem boku przytwierdzonego do drzewca, obszyte frędzlą srebrną.
-2. Na stronie głównej płata umieszczony hełm żandarmów z lat 1830–1831, wsparty na pękających granatach. U dołu stylizowane litery „ŻW”. Hełm haftowany srebrnym szychem, litery ŻW złotym szychem.
-3. Na stronie odwrotnej płata, pośrodku, dwie gałązki wawrzynu, ułożone w kształcie wieńca otwartego w górnej części, pośród których umieszczony w czterech wierszach napis „TOBIE OJCZYZNO ZAWSZE WIERNI”, wieniec i napis haftowane złotym szychem.
-4. Głowica proporca jest metalowa, składa się z czworograniastego grotu, kuli i tulei.
-5. Drzewce dwudzielne, sporządzone z drewna toczonego, obie połowy zakończone w środku drzewca metalowymi tulejami, połączonymi wewnątrz śrubą. Na górnym końcu drzewca głowica, na dolnym metalowa stopka.
-6. Gwoździe pamiątkowe metalowe, umieszczone pod głowicą na drzewcu, pionowo po 5 sztuk, rozpoczynając od strony głównej płata z wygrawerowanym skrótem nazwy wyróżnionego pododdziału oraz skrótem nazwy macierzystego oddziału, pod nimi data roczna nadania tytułu honorowego.
-PROPORZEC „PRZODUJĄCEGO PODODDZIAŁU ŻANDARMERII WOJSKOWEJ” OPIS I WZÓR BUŃCZUKA HONOROWEGO „PRZODUJĄCY PODODDZIAŁ WOJSK LĄDOWYCH” Buńczuk honorowy „Przodującego Pododdziału Wojsk Lądowych” składa się z: proporczyka, ogona z końskiego włosia, lancy i pierścieni pamiątkowych.
-1. Płat proporczyka w kształcie prostokąta o wymiarach 800 x 200 mm, wykonany z tkaniny w barwach kawalerii II Rzeczypospolitej, pas górny amarantowy, pas dolny granatowy.
-Głębokość wcięcia jest równa połowie jego długości. Bok proporca od strony lancy zszyty w pochewkę do przewlekania trzpienia mocującego płat do oczek lancy. Wymiary proporca odpowiadają wymiarom proporca rozpoznawczego dowódcy batalionu (równorzędnego) dziedziczącego tradycje kawalerii, określonym w § 31 ust. 2 rozporządzenia Ministra Obrony Narodowej z dnia 4 maja 2009 r. w sprawie określenia innych znaków używanych w Siłach Zbrojnych Rzeczypospolitej Polskiej (Dz. U. poz. 689, z późn. zm.).
-2. Ogon z włosia końskiego barwy czarnej, ujęty w siatkę jedwabną z trójskrętnego sznura koloru srebrnego z chwaścikami i wraz z nią umocowany za pomocą drewnianego trzpienia w metalowej niklowanej oprawie. Oprawa w kształcie kopułki zakończona kółkiem i łańcuszkiem z siedmiu ogniw. Drugi koniec łańcuszka zaczepiony do pierścienia tulei grota lancy haczykiem w kształcie litery „S”. Długość ogona 550 mm.
-3. Lanca metalowa rurowa, zwężająca się od uchwytu do grota, nawiązująca wyglądem do lancy francuskiej wzór 1913. Drzewce dwudzielne, połączone śrubą wewnątrz uchwytu. Na górnym końcu drzewca grot trójgranny, poniżej pierścień do mocowania ogona oraz 3 kółeczka do mocowania proporczyka. Niżej uchwyt obszyty skórą w naturalnym kolorze.
-W górnej części uchwytu pierścień ze strzemiączkiem do temblaka. Temblak z zamknięciem ze skóry w kolorze uchwytu. Dolny koniec drzewca zakończony tylcem w kształcie stożka oraz pierścieniem ze strzemiączkiem do pętli. Wszystkie okucia zgodne z wzorami dla lancy wzór
-1913. Długość lancy 2 700 mm.
-4. Pierścienie pamiątkowe metalowe, w liczbie 10 sztuk, nakładane na drzewce pod proporcem, rozpoczynając od góry w stronę uchwytu z wygrawerowanym skrótem nazwy wyróżnionego pododdziału oraz skrótem nazwy macierzystego oddziału, pod nimi data roczna nadania tytułu honorowego. Pierścienie pamiątkowe w kolorze oksydowanego srebra. Obwód pierścienia zależny od miejsca zamocowania na zwężającym się ku górze drzewcu, szerokość 20 mm.
-5. Wszystkie części metalowe buńczuka, z wyjątkiem pierścieni, niklowane.
-OPIS I WZÓR ZNAKU TYTUŁU HONOROWEGO „PRZODUJĄCY ODDZIAŁ WOJSKA POLSKIEGO” Znakiem tytułu honorowego „Przodujący Oddział Wojska Polskiego” jest statuetka orła będąca odwzorowaniem orła z głowicy sztandaru jednostki wojskowej, określonej w ustawie o znakach, osadzona na postumencie, na którym są umocowane litery składające się na nazwę tytułu honorowego oraz tabliczka z dedykacją.
-Orzeł z metalu w kolorze oksydowanego srebra, korona, dziób i szpony pozłacane.
-Postument dwuczęściowy z czarnego granitu, szlifowany na wysoki połysk kanty fazowane.
-Na górnej części postumentu (puszce) posadowiony orzeł, na ścianie czołowej, na poczernionej tabliczce w ramce wypukłe i pozłacane litery ułożone w dwóch wierszach w napis: „PRZODUJĄCY ODDZIAŁ WP” Na dolnej części postumentu, na wyprofilowanej ścianie czołowej, umieszczona metalowa pozłacana tabliczka z wygrawerowaną dedykacją. W zależności od długości napisu, w trzech lub więcej wierszach, w:
-1) wierszu pierwszym pełna nazwa oddziału w trzecim przypadku deklinacyjnym;
-2) wierszu drugim krótki opis zasługi, za którą jest nadawany tytuł honorowy;
-3) wierszu trzecim stanowisko służbowe przełożonego udzielającego wyróżnienia i data wyróżnienia.
-Wymiary statuetki wysokość 254 mm, szerokość 155 mm. Orzeł wysokość 170 mm, szerokość 155 mm. Podstawa część górna (prostopadłościan): 46 x 90 x 46 mm, część dolna (prostopadłościan): 38 x 96 x 180 mm. Wymiary wyprofilowanej skośnej ściany czołowej dolnej części postumentu: 38 x 180 mm. Wysokość liter na górnej części podstawy: 7 mm.
-Maksymalne wymiary tabliczki z dedykacją: 26 x 160 mm.
-ZNAK „PRZODUJĄCEGO ODDZIAŁU WOJSKA POLSKIEGO” Przód Tył OPIS I WZÓR ZNAKU TYTUŁU HONOROWEGO „PRZODUJĄCA INSTYTUCJA WOJSKOWA” Znakiem tytułu honorowego „Przodująca Instytucja Wojskowa” jest statuetka orła będąca odwzorowaniem orła z głowicy sztandaru jednostki wojskowej, określonej w ustawie o znakach Sił Zbrojnych Rzeczypospolitej Polskiej, osadzona na postumencie, na którym są umocowane litery składające się na nazwę tytułu honorowego oraz tabliczka z dedykacją.
-Orzeł z metalu w kolorze oksydowanego srebra, korona, dziób i szpony pozłacane.
-Postument dwuczęściowy z czarnego granitu, szlifowany na wysoki połysk kanty fazowane.
-Na górnej części postumentu (puszce) posadowiony orzeł, na ścianie czołowej, na poczernionej tabliczce w ramce wypukłe i pozłacane litery ułożone w trzech wierszach w napis: „PRZODUJĄCA INSTYTUCJA WOJSKOWA” Na dolnej części postumentu, na wyprofilowanej ścianie czołowej, umieszczona metalowa pozłacana tabliczka z wygrawerowaną dedykacją. W zależności od długości napisu, w trzech lub więcej wierszach, w:
-1) wierszu pierwszym pełna nazwa oddziału w trzecim przypadku deklinacyjnym;
-2) wierszu drugim krótki opis zasługi, za którą jest nadawany tytuł honorowy;
-3) wierszu trzecim stanowisko służbowe przełożonego udzielającego wyróżnienia i data wyróżnienia.
-Wymiary statuetki wysokość 254 mm, szerokość 155 mm. Orzeł wysokość 170 mm, szerokość 155 mm. Podstawa część górna (prostopadłościan): 46 x 90 x 46 mm, część dolna (prostopadłościan): 38 x 96 x 180 mm. Wymiary wyprofilowanej skośnej ściany czołowej dolnej części postumentu: 38 x 180 mm. Wysokość liter na górnej części podstawy: 7 mm.
-Maksymalne wymiary tabliczki z dedykacją: 26 x 160 mm.
-ZNAK „PRZODUJĄCEJ INSTYTUCJI WOJSKOWEJ” Przód Tył OPISY I WZORY SZNURÓW WYRÓŻNIAJĄCYCH DLA ŻOŁNIERZY PODODDZIAŁÓW, ODDZIAŁÓW I INSTYTUCJI WOJSKOWYCH WYRÓŻNIONYCH
-TYTUŁEM HONOROWYM „PRZODUJĄCY PODODDZIAŁ”, „PRZODUJĄCY ODDZIAŁ” ORAZ „PRZODUJĄCA INSTYTUCJA WOJSKOWA” Sznury wyróżniające żołnierzy „Przodującego Pododdziału”, „Przodującego Oddziału Wojska Polskiego” oraz „Przodującej Instytucji Wojskowej” składają się ze sznura właściwego splecionego w warkocz, związanego na obydwu końcach pętelkami, jednego lub dwóch chwastów oraz guzika i zapinki do noszenia na mundurze w Marynarce Wojennej.
-Sznury wyróżniające wykonane są w barwach:
-1) dla żołnierzy „Przodującego Pododdziału”:
-a) za dokonanie czynu bojowego lub przeprowadzenie akcji humanitarnej, poszukiwawczej lub ratowniczej: dla żołnierzy niebieski z jednym chwastem, dla dowódcy niebiesko-srebrny z jednym chwastem,
-b) za uzyskanie najlepszych wyników w działalności służbowej: dla żołnierzy amarantowy z jednym chwastem, dla dowódcy amarantowo-srebrny z jednym chwastem,
-2) dla żołnierzy „Przodującego Oddziału” za dokonanie czynu bojowego lub przeprowadzenie akcji humanitarnej, poszukiwawczej lub ratowniczej: dla żołnierzy niebieski z dwoma chwastami, dla dowódcy niebiesko-srebrny z dwoma chwastami,
-3) dla żołnierzy „Przodującego Oddziału” i „Przodującej Instytucji Wojskowej”, za uzyskanie najlepszych wyników w działalności służbowej: dla żołnierzy amarantowy z dwoma chwastami, dla dowódcy amarantowo-srebrny z dwoma chwastami.
-Sznur właściwy jest wykonany z nici jedwabnych z domieszką innych nici nieulegających odbarwianiu; rdzeń sznura i oplot sznura są w tej samej barwie. Jeden koniec sznura właściwego jest zawinięty w pętelkę górną, od dołu opleciony wokoło sznurkiem w kształcie baryłki, sznurek w barwie sznura właściwego. Poniżej baryłki na sznurze właściwym zawiązany jest węzeł.
-Pod nim na wolnym końcu jest zawiązany chwast. Drugi chwast jest umocowany w ten sam sposób na oddzielnym sznurze, jego koniec jest przyszyty do sznura właściwego i ukryty pod węzłem.
-Poniżej przesuwki sznur właściwy jest złożony potrójnie i zapleciony w kształcie warkocza.
-Sznur wyróżniający przeznaczony dla dowódcy jest złożony podwójnie, do niego jest dołączony oddzielny odcinek sznura w kolorze srebrzystym, wykonany z tych samych nici co sznur właściwy i razem zapleciony w warkocz. Wychodzący z warkocza koniec sznura właściwego jest złożony podwójnie w pętelkę dolną, która jest utworzona przez zawiązanie przyszytą przesuwką węzła.
-Chwast otwarty, wykonany z elementów metalowych, drewnianych i tekstylnych. Obsada chwastu wykonana z metalu oksydowanego na stare srebro, w kształcie tulei rozszerzonej od dołu. Powierzchnia obsady zdobiona wzorem imitującym oplot frędzli ze skręconego sznura. Wewnątrz obsady chwastu umieszczony wydrążony drewniany trzon, przez który przechodzi koniec sznura właściwego. Do końca sznura właściwego przyszyte i związane za pomocą węzła dwa dodatkowe odcinki sznura właściwego. Wszystkie końcówki rozplecione na pojedyncze nitki w kształcie luźnych frędzli. Węzeł ukryty w drewnianym trzonie. Na trzon od góry nałożona metalowa obsada. Zapinka i guzik do zawieszania sznura na mundurze Marynarki Wojennej wykonane z metalu w kolorze złocistym.
-Zapinka w kształcie elipsy z zagiętym do wewnątrz obrzeżem. Wewnątrz niej przymocowana na stałe blaszka do mocowania pętelki górnej oraz agrafka do przypięcia do munduru. Jako guzik do mocowania dolnej pętli stosuje się guzik ze znakiem kotwicy na tle Krzyża Kawalerskiego, stosowany do mundurów Marynarki Wojennej.
-Wymiary: całkowita długość sznura wyróżniającego 355 mm. Sznur właściwy z pętelkami i węzłami 115 mm. Warkocz 240 mm.
-SZNUR WYRÓŻNIAJĄCY SZNUR WYRÓŻNIAJĄCY:
-1. pętelka górna
-2. baryłka
-3. węzeł
-4. sznur właściwy
-5. chwast
-6. obsada chwastu
-7. frędzle
-8. warkocz
-9. pętelka dolna
-10. guzik MW
-11. zapinka do munduru MW Załącznik nr 29 WZÓR ROZKAZU ORAZ DECYZJI W SPRAWIE WYRÓŻNIENIA .................................................................
-ROZKAZ , DECYZJA NR .../...
-DOWÓDCY (KIEROWNIKA ) .......................................................................................
-z dnia .......................................... r.
-w sprawie wyróżnienia ......................................................................................................
-Na podstawie art. …….. ust. …… pkt …… ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305), a także § …. pkt …. lit. …. rozporządzenia ……..:
-1. Za ...............................................................................................................................................
-wyróżniam: .........................................................................................................................................................
-.........................................................................................................................................................
-2. Wyróżnienie opłacić z funduszu na wyróżnienia Jednostki Wojskowej nr ............................
-3. Rozkaz , decyzja wchodzi w życie z dniem podpisania ...................................................
-.......................................................................
+## Załącznik nr 12 — – Opis i wzór legitymacji tytułu honorowego „Wzorowy Podchorąży”
+
+## Załącznik nr 13 — – Opis i wzór legitymacji tytułów honorowych „Zasłużony Żołnierz RP”, „Zasłużony Żołnierz OT”, „Zasłużony Pilot Wojskowy”
+
+## Załącznik nr 14 — – Opis i wzór buzdyganu honorowego
+
+## Załącznik nr 15 — – Opis i wzór szabli honorowej wojska polskiego
+
+## Załącznik nr 16 — – Opis i wzór pałasza honorowego Marynarki Wojennej
+
+## Załącznik nr 17 — – Opis i wzór kordzika honorowego Sił Zbrojnych Rzeczypospolitej Polskiej
+
+## Załącznik nr 18 — – Sposoby rozmieszczenia i noszenia na umundurowaniu odznak honorowych, odznak tytułów honorowych, sznurów wyróżniających oraz noszenia kordzików honorowych
+
+## Załącznik nr 19 — – Opis i wzór proporca honorowego „Przodujący Pododdział Wojsk Lądowych”
+
+## Załącznik nr 20 — – Opis i wzór proporca honorowego „Przodujący Pododdział Sił Powietrznych”
+
+## Załącznik nr 21 — – Opis i wzór proporca honorowego „Przodujący Pododdział Marynarki Wojennej”
+
+## Załącznik nr 22 — – Opis i wzór proporca honorowego „Przodujący Pododdział Wojsk Obrony Terytorialnej”
+
+## Załącznik nr 23 — – Opis i wzór proporca honorowego „Przodujący Pododdział Wojsk Specjalnych”
+
+## Załącznik nr 24 — – Opis i wzór proporca honorowego „Przodujący Pododdział Żandarmerii Wojskowej”
+
+## Załącznik nr 25 — – Opis i wzór buńczuka honorowego „Przodujący Pododdział Wojsk Lądowych”
+
+## Załącznik nr 26 — – Opis i wzór znaku tytułu honorowego „Przodujący Oddział Wojska Polskiego”
+
+## Załącznik nr 27 — – Opis i wzór znaku tytułu honorowego „Przodująca Instytucja Wojskowa”
+
+## Załącznik nr 28 — – Opisy i wzory sznurów wyróżniających dla żołnierzy pododdziałów, oddziałów i instytucji wojskowych wyróżnionych tytułem honorowym „Przodujący Pododdział”, „Przodujący Oddział” oraz „Przodująca Instytucja Wojskowa”
+
+## Załącznik nr 29 — – Wzór rozkazu oraz decyzji w sprawie wyróżnienia
+
+Treść rozporządzenia
+Na podstawie art. 429 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+tryb udzielania wyróżnień;
+2)
+rodzaje odznak honorowych, tytułów honorowych oraz honorowej broni białej;
+3)
+wzory odznak honorowych, odznak i znaków tytułów honorowych oraz honorowej broni białej;
+4)
+sposób noszenia odznak honorowych, odznak tytułów honorowych oraz honorowej broni białej, a także eksponowania, przekazywania i przechowywania niektórych wyróżnień;
+5)
+pododdziały, oddziały i instytucje wojskowe, które mogą być wyróżnione poszczególnymi rodzajami wyróżnień.
+§ 2.
+Ilekroć w rozporządzeniu jest mowa o:
+1)
+ustawie – należy przez to rozumieć ustawę z dnia 11 marca 2022 r. o obronie Ojczyzny;
+2)
+ustawie o znakach – należy przez to rozumieć ustawę z dnia 19 lutego 1993 r. o znakach Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2019 r. poz. 1351).
+§ 3.
+1.
+Wniosek o udzielenie wyróżnienia składa się drogą służbową.
+2.
+Wnioski o wyróżnienie przez Ministra Obrony Narodowej składa się za pośrednictwem kierownika komórki organizacyjnej Ministerstwa Obrony Narodowej właściwej do spraw dyscypliny wojskowej.
+3.
+Przełożony, do którego wpłynął wniosek o udzielenie wyróżnienia, złożony przez przełożonego nieuprawnionego do udzielenia tego wyróżnienia lub inny organ, w przypadku nieuwzględnienia wniosku, zawiadamia wnioskodawcę o przyczynach odmowy, na jego dodatkowy pisemny wniosek.
+4.
+Wniosek lub zgłoszenie dokonania czynu, w trakcie pełnienia czynnej służby wojskowej, przez byłego żołnierza podlega zaopiniowaniu przez komendanta (równorzędnego) struktury organizacyjnej, w którego ewidencji wojskowej on się znajduje.
+5.
+Przełożony, o którym mowa w ust. 2, może przyjąć jako wniosek zgłoszenie dokonania czynu przez żołnierza, byłego żołnierza, pododdział, oddział i instytucję wojskową, wniesione przez organ niebędący przełożonym lub przełożonym dyscyplinarnym.
+6.
+Przełożony, który otrzymał wniosek lub zgłoszenie, sprawdza dane o dotychczas udzielonych wyróżnieniach oraz istnienie przesłanek do udzielenia wyróżnienia.
+§ 4.
+1.
+Odznaki honorowe mogą być nadawane:
+1)
+„Odznaka Honorowa Wojsk Lądowych” – żołnierzom jednostek Wojsk Lądowych lub uprzednio pełniącym służbę w tym rodzaju Sił Zbrojnych Rzeczypospolitej Polskiej, zwanych dalej „Siłami Zbrojnymi”, w innych jednostkach organizacyjnych Sił Zbrojnych albo komórkach organizacyjnych Ministerstwa Obrony Narodowej, jak również w innych strukturach, w których obowiązuje noszenie umundurowania Wojsk Lądowych, lub tym żołnierzom, którzy zachowali uprawnienia do noszenia takiego umundurowania;
+2)
+„Odznaka Honorowa Sił Powietrznych” – żołnierzom jednostek Sił Powietrznych lub uprzednio pełniącym służbę w tym rodzaju Sił Zbrojnych, w innych jednostkach organizacyjnych Sił Zbrojnych albo komórkach organizacyjnych Ministerstwa Obrony Narodowej, jak również w innych strukturach, w których obowiązuje noszenie umundurowania Sił Powietrznych, lub tym żołnierzom, którzy zachowali uprawnienia do noszenia takiego umundurowania;
+3)
+„Odznaka Honorowa Marynarki Wojennej” – żołnierzom jednostek Marynarki Wojennej lub uprzednio pełniącym służbę w tym rodzaju Sił Zbrojnych, w innych jednostkach organizacyjnych Sił Zbrojnych albo komórkach organizacyjnych Ministerstwa Obrony Narodowej, jak również w innych strukturach, w których obowiązuje noszenie umundurowania Marynarki Wojennej, lub tym żołnierzom, którzy zachowali uprawnienia do noszenia takiego umundurowania;
+4)
+„Odznaka Honorowa Wojsk Obrony Terytorialnej” – żołnierzom jednostek Wojsk Obrony Terytorialnej lub uprzednio pełniącym służbę w tym rodzaju Sił Zbrojnych, w innych jednostkach organizacyjnych Sił Zbrojnych albo komórkach organizacyjnych Ministerstwa Obrony Narodowej, jak również w innych strukturach, w których obowiązuje noszenie umundurowania Wojsk Obrony Terytorialnej, lub tym żołnierzom, którzy zachowali uprawnienia do noszenia takiego umundurowania;
+5)
+„Odznaka Honorowa Wojsk Specjalnych” – żołnierzom jednostek Wojsk Specjalnych lub uprzednio pełniącym służbę w tym rodzaju Sił Zbrojnych, w innych jednostkach organizacyjnych Sił Zbrojnych albo komórkach organizacyjnych Ministerstwa Obrony Narodowej, jak również w innych strukturach, w których obowiązuje noszenie umundurowania Wojsk Specjalnych, lub tym żołnierzom, którzy zachowali uprawnienia do noszenia takiego umundurowania;
+6)
+„Odznaka Honorowa Żandarmerii Wojskowej” – żołnierzom jednostek Żandarmerii Wojskowej lub uprzednio pełniącym służbę w tej wyodrębnionej i wyspecjalizowanej służbie, w innych jednostkach organizacyjnych Sił Zbrojnych albo komórkach organizacyjnych Ministerstwa Obrony Narodowej, jak również w innych strukturach, w których obowiązuje noszenie umundurowania Żandarmerii Wojskowej, lub tym żołnierzom, którzy zachowali uprawnienia do noszenia takiego umundurowania.
+2.
+Żołnierzom kształcącym się na potrzeby korpusu oficerów może być nadany tytuł honorowy „Wzorowy Podchorąży”.
+3.
+Żołnierzowi pełniącemu czynną służbę wojskową może być nadany tytuł honorowy „Zasłużony Żołnierz Rzeczypospolitej Polskiej”, zwany dalej „Zasłużonym Żołnierzem RP”.
+4.
+Żołnierzowi pełniącemu terytorialną służbę wojskową może być nadany tytuł honorowy „Zasłużony Żołnierz Obrony Terytorialnej”, zwany dalej „Zasłużonym Żołnierzem OT”.
+5.
+Żołnierzowi będącemu pilotem wojskowym może być nadany tytuł honorowy „Zasłużony Pilot Wojskowy” – nie więcej niż trzykrotnie.
+6.
+Byłym żołnierzom, w tym żołnierzom pełniącym służbę w rezerwie, mogą być nadane odznaki honorowe lub tytuły honorowe, o których mowa w ust. 1, 3 i 4, a byłym pilotom wojskowym tytuł honorowy, o którym mowa w ust. 5.
+7.
+Odznaka tytułu honorowego Zasłużony Żołnierz RP jest trzystopniowa:
+1)
+w pierwszym stopniu – złota odznaka;
+2)
+w drugim stopniu – srebrna odznaka;
+3)
+w trzecim stopniu – brązowa odznaka.
+§ 5.
+1.
+Żołnierzowi lub byłemu żołnierzowi, wyróżnionemu odznaką honorową lub tytułem honorowym, przysługuje odznaka honorowa lub odznaka tego tytułu wraz z legitymacją stwierdzającą uprawnienie do noszenia danej odznaki.
+2.
+Żołnierzowi, któremu po raz kolejny został nadany tytuł honorowy, o którym mowa w § 4 ust. 2, nie przysługuje kolejna odznaka tego tytułu, a adnotację o kolejnym nadaniu tytułu umieszcza się w posiadanej przez żołnierza legitymacji.
+3.
+Do odznak honorowych i odznak tytułów honorowych można wykonywać miniaturki, które są ich odwzorowaniem w skali 1: 3. Miniaturkę odznaki wyróżniony nabywa na własny koszt.
+§ 6.
+Opisy i wzory graficzne:
+1)
+odznak honorowych:
+a)
+„Odznaki Honorowej Wojsk Lądowych” są określone w załączniku nr 1 do rozporządzenia,
+b)
+„Odznaki Honorowej Sił Powietrznych” są określone w załączniku nr 2 do rozporządzenia,
+c)
+„Odznaki Honorowej Marynarki Wojennej” są określone w załączniku nr 3 do rozporządzenia,
+d)
+„Odznaki Honorowej Wojsk Specjalnych” są określone w załączniku nr 4 do rozporządzenia,
+e)
+„Odznaki Honorowej Wojsk Obrony Terytorialnej” są określone w załączniku nr 5 do rozporządzenia,
+f)
+„Odznaki Honorowej Żandarmerii Wojskowej” są określone w załączniku nr 6 do rozporządzenia;
+2)
+odznak tytułów honorowych:
+a)
+tytułu honorowego „Wzorowy Podchorąży” są określone w załączniku nr 7 do rozporządzenia,
+b)
+tytułu honorowego „Zasłużony Żołnierz RP” są określone w załączniku nr 8 do rozporządzenia,
+c)
+tytułu honorowego „Zasłużony Żołnierz OT” są określone w załączniku nr 9 do rozporządzenia,
+d)
+tytułu honorowego „Zasłużony Pilot Wojskowy” są określone w załączniku nr 10 do rozporządzenia;
+3)
+legitymacji:
+a)
+odznak honorowych, o których mowa w § 4 ust. 1, są określone w załączniku nr 11 do rozporządzenia,
+b)
+tytułu honorowego „Wzorowy Podchorąży”, o którym mowa w § 4 ust. 2, są określone w załączniku nr 12 do rozporządzenia,
+c)
+tytułów honorowych: „Zasłużony Żołnierz RP”, „Zasłużony Żołnierz OT”, „Zasłużony Pilot Wojskowy”, o których mowa w § 4 ust. 3–5, są określone w załączniku nr 13 do rozporządzenia.
+§ 7.
+Honorową broń białą stanowią:
+1)
+„Buzdygan Honorowy”, zwany dalej „buzdyganem”;
+2)
+„Szabla Honorowa Wojska Polskiego”, zwana dalej „szablą honorową”;
+3)
+„Pałasz Honorowy Marynarki Wojennej”, zwany dalej „pałaszem honorowym”;
+4)
+„Kordzik Honorowy Sił Zbrojnych Rzeczypospolitej Polskiej”, zwany dalej „kordzikiem honorowym”.
+§ 8.
+1.
+Na buzdyganie umieszcza się:
+1)
+wymienny pierścień generalski (admiralski) z nałożoną oznaką otrzymywanego stopnia generalskiego (admiralskiego);
+2)
+pierścień prezydencki z dedykacją.
+2.
+Dedykację umieszcza się również na wewnętrznym płazie głowni: szabli honorowej, pałasza honorowego i kordzika honorowego.
+3.
+W przypadku mianowania oficera na kolejny stopień wojskowy generalski (admiralski) oficerowi temu zamiast buzdyganu przysługuje wymienny pierścień generalski (admiralski) z nałożoną oznaką odpowiadającą otrzymywanemu stopniowi wojskowemu.
+4.
+Opisy i wzory:
+1)
+buzdyganu są określone w załączniku nr 14 do rozporządzenia;
+2)
+szabli honorowej są określone w załączniku nr 15 do rozporządzenia;
+3)
+pałasza honorowego są określone w załączniku nr 16 do rozporządzenia;
+4)
+kordzika honorowego są określone w załączniku nr 17 do rozporządzenia.
+§ 9.
+1.
+Przełożony albo przełożony dyscyplinarny, uwzględniając:
+1)
+zachowanie świadczące o męstwie, ofiarności albo o odwadze lub przykładną realizację zadań służbowych świadczącą o tym, że cel, jakiemu służyło ukaranie, został osiągnięty – wyróżnia żołnierza zatarciem ukarania przed upływem terminu określonego w ustawie;
+2)
+bardzo dobre wykonanie zadania służbowego – wyróżnia żołnierza pochwałą;
+3)
+uzyskanie bardzo dobrych wyników w wykonywaniu zadań służbowych, osiągnięcia w służbie wojskowej lub jubileusz jej pełnienia – wyróżnia żołnierza listem gratulacyjnym;
+4)
+wzorowe pełnienie służby wojskowej w danej jednostce wojskowej lub w jednostce organizacyjnej poza granicami państwa, przeniesienie do innej jednostki wojskowej lub zwolnienie ze służby wojskowej – wyróżnia żołnierza pismem pochwalnym ze zdjęciem wyróżnionego żołnierza na tle flagi państwowej Rzeczypospolitej Polskiej lub wojskowej albo sztandaru jednostki wojskowej lub bandery wojennej;
+5)
+bardzo dobre wyniki w szkoleniu lub wzorowe wykonanie zadania służbowego, zwłaszcza w czasie pozasłużbowym lub przed wyznaczonym terminem – wyróżnia żołnierza urlopem nagrodowym;
+6)
+dokonanie czynu świadczącego o męstwie, ofiarności lub o odwadze albo szczególne osiągnięcia w wykonywaniu zadań służbowych – wyróżnia żołnierza nagrodą rzeczową;
+7)
+dokonanie bohaterskiego czynu lub znaczące osiągnięcia w służbie wojskowej albo wykonanie zadania wymagającego szczególnej wiedzy i umiejętności lub przynoszącego oszczędności lub inne korzyści na rzecz resortu obrony narodowej – wyróżnia żołnierza nagrodą pieniężną;
+8)
+ukończenie z pierwszą lokatą uczelni wojskowej, szkoły podoficerskiej, centrum albo ośrodka szkolenia, dokonanie szczególnego czynu w służbie wojskowej albo wybitny dorobek zawodowy w związku z jubileuszem pełnienia czynnej służby wojskowej, przeniesieniem do pełnienia służby w innej jednostce wojskowej lub zwolnieniem z czynnej służby wojskowej – wyróżnia żołnierza wpisaniem zasług żołnierza do kroniki jednostki wojskowej;
+9)
+szczególne osiągnięcia w okresie co najmniej 6 lat pełnienia służby wojskowej w określonym rodzaju Sił Zbrojnych, Ministerstwie Obrony Narodowej, w jednostce organizacyjnej podległej Ministrowi Obrony Narodowej lub przez niego nadzorowanej oraz w instytucji krajowej lub zagranicznej – wyróżnia żołnierza odznaką honorową;
+10)
+uzyskanie nie wcześniej niż po zakończeniu drugiego semestru studiów w uczelni wojskowej albo podlegającego ocenie etapu nauki w studium oficerskim średniej oceny nie niższej niż 4,51 (pod warunkiem uzyskania wyłącznie ocen pozytywnych z egzaminów i zaliczeń) i bardzo dobre wykonywanie zadań służbowych – wyróżnia żołnierza tytułem honorowym „Wzorowy Podchorąży”;
+11)
+wybitne zasługi dokonane w okresie co najmniej 6 lat pełnienia służby wojskowej, w szczególności czyny świadczące o męstwie, ofiarności albo o odwadze, znaczące osiągnięcia szkoleniowe lub dydaktyczne, w dowodzeniu, szkoleniu, pracy wychowawczej, eksploatacji środków technicznych lub uzbrojenia – wyróżnia żołnierza tytułem honorowym „Zasłużony Żołnierz RP”;
+12)
+wybitne zasługi dokonane w okresie co najmniej 2 lat pełnienia terytorialnej służby wojskowej, w szczególności czyny świadczące o męstwie, ofiarności albo o odwadze, znaczące osiągnięcia szkoleniowe lub dydaktyczne, w dowodzeniu, szkoleniu, pracy wychowawczej, eksploatacji środków technicznych lub uzbrojenia – wyróżnia żołnierza tytułem honorowym „Zasłużony Żołnierz OT”;
+13)
+wzorową służbę w lotnictwie Sił Zbrojnych, w szczególności duży wkład w jego rozwój, umocnienie gotowości bojowej i szkolenie kadr lotniczych lub dokonanie czynu świadczącego o męstwie, ofiarności albo o odwadze, związanego z wykonywaniem lotu – wyróżnia żołnierza tytułem honorowym „Zasłużony Pilot Wojskowy”;
+14)
+dokonanie czynu świadczącego o męstwie, ofiarności albo o odwadze w walce zbrojnej lub realizacji zadań służbowych – wyróżnia żołnierza honorową bronią białą – szablą honorową, pałaszem honorowym albo kordzikiem honorowym;
+15)
+osiągnięcia w służbie wojskowej w związku z mianowaniem na stopień wojskowy generała brygady (kontradmirała) – wyróżnia żołnierza honorową bronią białą – buzdyganem;
+16)
+ukończenie studiów w uczelni wojskowej z pierwszą lokatą – wyróżnia żołnierza honorową bronią białą – szablą honorową albo pałaszem honorowym;
+17)
+wybitny dorobek w służbie wojskowej, w szczególności w związku z jubileuszem pełnienia czynnej służby wojskowej, przeniesieniem do pełnienia służby w innym rodzaju Sił Zbrojnych lub pełnieniem obowiązków służbowych w instytucji krajowej lub zagranicznej albo zwolnieniem z czynnej służby wojskowej – wyróżnia żołnierza honorową bronią białą – szablą honorową, pałaszem honorowym albo kordzikiem honorowym;
+18)
+szczególne osiągnięcia w wykonywaniu zadań służbowych, w tym szkoleniowe w czasie pokoju, oraz czyny świadczące o męstwie, ofiarności albo o odwadze w warunkach pełnienia czynnej służby wojskowej po ogłoszeniu mobilizacji, w stanach nadzwyczajnych, w czasie wojny, a także podczas wykonywania zadań służbowych w strefie działań wojennych oraz w przypadkach użycia Sił Zbrojnych poza granicami państwa, jak również udziału w akcjach humanitarnych, poszukiwawczych lub ratowniczych – wyróżnia żołnierza wpisaniem zasług żołnierza do Księgi Honorowej Wojska Polskiego.
+2.
+Wyróżnienie tytułem honorowym Zasłużony Żołnierz RP może nastąpić po upływie co najmniej 3 lat od poprzedniego wyróżnienia.
+3.
+Tytuł honorowy Zasłużony Żołnierz RP można nadać z pominięciem niższych stopni odznaki za szczególnie wybitne zasługi, jeżeli żołnierz posiada co najmniej dwunastoletni staż służby wojskowej.
+4.
+Kolejne nadanie tytułu honorowego Zasłużony Pilot Wojskowy może nastąpić po upływie co najmniej 3 lat od poprzedniego nadania.
+5.
+Nadanie odznaki honorowej i tytułu honorowego z odznaką danego stopnia, z wyłączeniem tytułu honorowego, o którym mowa w § 4 ust. 2, oraz honorowej broni białej w jednym z jej rodzajów może być tylko jednorazowe.
+§ 10.
+Do udzielania wyróżnień, o których mowa w art. 424 ust. 1 pkt 4 i pkt 6–11 ustawy, są uprawnieni następujący przełożeni dyscyplinarni:
+1)
+pismem pochwalnym ze zdjęciem wyróżnionego żołnierza na tle:
+a)
+flagi państwowej Rzeczypospolitej Polskiej i flag rodzajów Sił Zbrojnych – Minister Obrony Narodowej,
+b)
+flag rodzajów Sił Zbrojnych z wyjątkiem flagi Wojsk Obrony Terytorialnej – Szef Sztabu Generalnego Wojska Polskiego, zwany dalej „Szefem Sztabu Generalnego WP”, Dowódca Generalny Rodzajów Sił Zbrojnych, zwany dalej „Dowódcą Generalnym RSZ”, oraz Dowódca Operacyjny Rodzajów Sił Zbrojnych, zwany dalej „Dowódcą Operacyjnym RSZ” – żołnierzom jemu podporządkowanym, po uzgodnieniu z właściwym przełożonym, z zastrzeżeniem lit. c w stosunku do Dowódcy Operacyjnego RSZ,
+c)
+flagi Wojsk Obrony Terytorialnej – Dowódca Wojsk Obrony Terytorialnej oraz Dowódca Operacyjny RSZ – żołnierzom jemu podporządkowanym, po uzgodnieniu z właściwym przełożonym dyscyplinarnym,
+d)
+sztandaru jednostki wojskowej lub bandery wojennej – dowódca jednostki wojskowej;
+2)
+odznaką honorową wymienioną w § 4 ust. 1:
+a)
+Minister Obrony Narodowej,
+b)
+Dowódca Operacyjny RSZ – żołnierzom jemu podporządkowanym, po uzgodnieniu z właściwym przełożonym dyscyplinarnym,
+c)
+pkt 1–3 i 5 – Sekretarz Stanu w Ministerstwie Obrony Narodowej, zwany dalej „Sekretarzem Stanu”, Podsekretarz Stanu w Ministerstwie Obrony Narodowej, zwany dalej „Podsekretarzem Stanu”, Dyrektor Generalny Ministerstwa Obrony Narodowej, zwany dalej „Dyrektorem Generalnym MON”, Szef Sztabu Generalnego WP, Dowódca Generalny RSZ,
+d)
+pkt 1 – Dowódca Garnizonu Warszawa,
+e)
+pkt 1–3 – Szef Inspektoratu Wsparcia Sił Zbrojnych, Dowódca Komponentu Wojsk Obrony Cyberprzestrzeni,
+f)
+pkt 4 – Dowódca Wojsk Obrony Terytorialnej,
+g)
+pkt 6 – Komendant Główny Żandarmerii Wojskowej;
+3)
+tytułem honorowym:
+a)
+„Wzorowy Podchorąży” – rektor -komendant uczelni wojskowej, dowódca (równorzędny) struktury organizacyjnej kształcącej kandydatów na potrzeby korpusu oficerów,
+b)
+„Zasłużony Żołnierz RP” z odznaką w:
+– pierwszym stopniu – Minister Obrony Narodowej,
+– drugim stopniu – Minister Obrony Narodowej, Sekretarz Stanu, Podsekretarz Stanu, Dyrektor Generalny MON, Szef Sztabu Generalnego WP, Dowódca Generalny RSZ, Dowódca Operacyjny RSZ, Dowódca Wojsk Obrony Terytorialnej, Dowódca Komponentu Wojsk Obrony Cyberprzestrzeni, Szef Inspektoratu Wsparcia Sił Zbrojnych, Komendant Główny Żandarmerii Wojskowej, Dowódca Garnizonu Warszawa,
+– trzecim stopniu – Minister Obrony Narodowej, dyrektor (szef, kierownik) komórki lub jednostki organizacyjnej Ministerstwa Obrony Narodowej, dowódca jednostki wojskowej (równorzędny),
+c)
+„Zasłużony Żołnierz OT” – Minister Obrony Narodowej, Dowódca Wojsk Obrony Terytorialnej, dowódca jednostki wojskowej Wojsk Obrony Terytorialnej,
+d)
+„Zasłużony Pilot Wojskowy” – Minister Obrony Narodowej;
+4)
+honorową bronią białą:
+a)
+odpowiednio szablą honorową lub pałaszem honorowym:
+– Minister Obrony Narodowej: – – oficerowi pełniącemu czynną służbę wojskową lub byłemu oficerowi, – – żołnierzowi zakwalifikowanemu do ukończenia studiów na uczelni wojskowej z pierwszą lokatą (o ile czynności tych nie podjął Prezydent Rzeczypospolitej Polskiej), – Szef Sztabu Generalnego WP – oficerowi pełniącemu czynną służbę wojskową lub byłemu oficerowi,
+b)
+kordzikiem honorowym – Minister Obrony Narodowej, Szef Sztabu Generalnego WP, Dowódca Generalny RSZ, Dowódca Operacyjny RSZ – żołnierzom mu podporządkowanym, po uzgodnieniu z właściwym przełożonym dyscyplinarnym, Dowódca Wojsk Obrony Terytorialnej, Dowódca Komponentu Wojsk Obrony Cyberprzestrzeni, Szef Inspektoratu Wsparcia Sił Zbrojnych, Komendant Główny Żandarmerii Wojskowej oraz Dowódca Garnizonu Warszawa – podporządkowanemu żołnierzowi lub byłemu żołnierzowi.
+§ 11.
+1.
+Żołnierzom należy umożliwić wykorzystanie urlopu nagrodowego niezwłocznie po udzieleniu tego wyróżnienia.
+2.
+W przypadku wyróżnienia żołnierza urlopem nagrodowym w trakcie pełnienia służby poza granicami państwa wykorzystanie tego urlopu powinno nastąpić niezwłocznie po powrocie żołnierza do kraju lub po zakończeniu urlopu aklimatyzacyjnego.
+3.
+W przypadku przeniesienia lub skierowania żołnierza do pełnienia służby wojskowej w innej jednostce wojskowej wykorzystanie urlopu nagrodowego powinno nastąpić w jednostce, w której został wyróżniony.
+4.
+Urlop nagrodowy może być wykorzystany w dwóch częściach lub łącznie z innym urlopem.
+§ 12.
+Uprawniony przełożony dyscyplinarny, podejmując decyzję o udzieleniu nagrody rzeczowej lub nagrody pieniężnej, określa wartość nagrody w granicach środków finansowych posiadanych na wyróżnienia.
+§ 13.
+1.
+Kwalifikowania kandydatur do wyróżnienia przez Ministra Obrony Narodowej oraz Prezydenta Rzeczypospolitej Polskiej dokonuje kierownik komórki organizacyjnej Ministerstwa Obrony Narodowej właściwej do spraw dyscypliny wojskowej.
+2.
+Kierownik komórki organizacyjnej Ministerstwa Obrony Narodowej właściwej do spraw dyscypliny wojskowej, po przeprowadzeniu kwalifikacji, o której mowa w ust. 1, przedkłada Ministrowi Obrony Narodowej, za pośrednictwem Dyrektora Biura Ministra Obrony Narodowej, zwanego dalej „Dyrektorem Biura MON”, projekt decyzji zawierający kandydatury do udzielenia wyróżnienia.
+3.
+W szczególnie uzasadnionych przypadkach Sekretarz Stanu lub Podsekretarz Stanu może zgłosić jedną dodatkową propozycję wyróżnienia, w stosunku do liczby określonej w rozporządzeniu dla danego wyróżnienia.
+§ 14.
+1.
+Z wnioskiem o nadanie odznaki honorowej występuje dowódca jednostki wojskowej albo przełożony dyscyplinarny tego dowódcy.
+2.
+Z wnioskiem o nadanie odznaki honorowej przez Ministra Obrony Narodowej może wystąpić przełożony dyscyplinarny, o którym mowa w § 10 pkt 2 lit. b-g, oraz dyrektorzy (szefowie, kierownicy) komórek organizacyjnych Ministerstwa Obrony Narodowej i dowódcy (równorzędni) jednostek organizacyjnych bezpośrednio podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych, a przez Szefa Sztabu Generalnego WP szefowie (równorzędni) struktur organizacyjnych mu podległych.
+§ 15.
+1.
+Z wnioskiem o nadanie tytułu honorowego Zasłużony Żołnierz RP może wystąpić, w przypadku tytułu honorowego z odznaką w:
+1)
+pierwszym stopniu – Sekretarz Stanu, Szef Sztabu Generalnego WP, Podsekretarz Stanu, Dyrektor Generalny MON, Dowódca Generalny RSZ, Dowódca Operacyjny RSZ – żołnierzom mu podporządkowanym, po uzgodnieniu z właściwym przełożonym dyscyplinarnym, Dowódca Wojsk Obrony Terytorialnej, Dowódca Komponentu Wojsk Obrony Cyberprzestrzeni, Szef Inspektoratu Wsparcia Sił Zbrojnych, Komendant Główny Żandarmerii Wojskowej, Dowódca Garnizonu Warszawa oraz dyrektorzy (szefowie, kierownicy) komórek organizacyjnych Ministerstwa Obrony Narodowej, dowódcy (równorzędni) jednostek organizacyjnych bezpośrednio podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych;
+2)
+drugim stopniu – dowódca jednostki wojskowej albo przełożony tego dowódcy;
+3)
+trzecim stopniu – bezpośredni przełożony żołnierza.
+2.
+Z wnioskiem o nadanie tytułu honorowego Zasłużony Pilot Wojskowy może występować, w każdym roku kalendarzowym, Szef Sztabu Generalnego WP, Dowódca Generalny RSZ, Dowódca Operacyjny RSZ, rektor-komendant uczelni wojskowej kształcącej pilotów wojskowych, w terminie do dnia 31 maja.
+3.
+Tytuł honorowy Zasłużony Pilot Wojskowy nadaje się z okazji Święta Lotnictwa. W przypadku nadania tytułu honorowego Zasłużony Pilot Wojskowy przez Prezydenta Rzeczypospolitej Polskiej, jego nadanie może nastąpić również w innym terminie.
+§ 16.
+Wniosek o nadanie odznaki honorowej lub tytułu honorowego przedkłada Prezydentowi Rzeczypospolitej Polskiej Minister Obrony Narodowej.
+§ 17.
+Z wnioskiem o wyróżnienie honorową bronią białą mogą wystąpić do:
+1)
+Prezydenta Rzeczypospolitej Polskiej – Minister Obrony Narodowej, w odniesieniu do:
+a)
+oficera – wraz z wnioskiem o mianowanie na stopień generała brygady (kontradmirała),
+b)
+żołnierza zakwalifikowanego do ukończenia studiów na uczelni wojskowej z pierwszą lokatą, na wystąpienie rektora -komendanta tej uczelni – nie później niż 35 dni przed terminem wręczenia tej broni;
+2)
+Ministra Obrony Narodowej i innych uprawnionych przełożonych dyscyplinarnych – dowódca, szef (równorzędny) jednostki wojskowej lub komórki organizacyjnej w odniesieniu do podległego lub podporządkowanego żołnierza albo byłego żołnierza, w której ten żołnierz pełnił czynną służbę wojskową, lub w którego ewidencji wojskowej znajduje się żołnierz rezerwy – nie później niż 35 dni przed terminem jej wręczenia, z zastrzeżeniem § 18.
+§ 18.
+1.
+Z wnioskami do Ministra Obrony Narodowej o wyróżnienie honorową bronią białą – szablą honorową, pałaszem honorowym lub kordzikiem honorowym – z okazji Narodowego Święta Niepodległości mogą występować w terminie do dnia 15 września każdego roku kalendarzowego: Sekretarz Stanu, Szef Sztabu Generalnego WP, Podsekretarz Stanu, Dyrektor Generalny MON, Dowódca Generalny RSZ, Dowódca Operacyjny RSZ – żołnierzy mu podporządkowanych, po uzgodnieniu z właściwym przełożonym dyscyplinarnym, Dowódca Wojsk Obrony Terytorialnej, Dowódca Komponentu Wojsk Obrony Cyberprzestrzeni, Szef Inspektoratu Wsparcia Sił Zbrojnych, Komendant Główny Żandarmerii Wojskowej, Dowódca Garnizonu Warszawa oraz dyrektorzy (szefowie, kierownicy) komórek organizacyjnych Ministerstwa Obrony Narodowej, dowódcy (równorzędni) jednostek organizacyjnych bezpośrednio podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych.
+2.
+Kierownik komórki organizacyjnej właściwej do spraw dyscypliny wojskowej przedkłada, za pośrednictwem Dyrektora Biura MON, Ministrowi Obrony Narodowej projekt decyzji zawierający kandydatury do udzielenia wyróżnienia żołnierzy lub byłych żołnierzy w liczbie nie większej niż 15, w terminie do dnia 15 października każdego roku kalendarzowego.
+§ 19.
+1.
+W przypadku wyróżnienia honorową bronią białą wyróżnionemu żołnierzowi i byłemu żołnierzowi wręcza się:
+1)
+buzdygan lub kordzik honorowy – z orłem rodzaju Sił Zbrojnych, w którym żołnierz pełni albo pełnił służbę wojskową, a pełniącemu służbę wojskową w strukturze innej niż rodzaj Sił Zbrojnych – z orłem Wojsk Lądowych;
+2)
+pałasz honorowy – do noszonego przez oficera umundurowania Marynarki Wojennej;
+3)
+szablę honorową – do noszonego przez oficera umundurowania Wojsk Lądowych albo Sił Powietrznych.
+2.
+W przypadku, o którym mowa w § 8 ust. 3, żołnierzowi wręcza się przysługujący mu odpowiedni pierścień generalski (admiralski) nałożony na posiadany przez niego buzdygan.
+§ 20.
+1.
+Z wnioskiem o wpisanie zasług żołnierza do Księgi Honorowej Wojska Polskiego, w terminie do dnia 31 maja każdego roku kalendarzowego, może występować dowódca jednostki wojskowej albo przełożeni tego dowódcy, a także kierownik instytucji krajowej lub zagranicznej, w której żołnierz pełni służbę w oddelegowaniu.
+2.
+Z wnioskiem o udzielenie wyróżnienia żołnierzowi rezerwy i byłemu żołnierzowi w terminie, o którym mowa w ust. 1, może również wystąpić dowódca, szef, komendant (równorzędny) jednostki wojskowej, na którego przydziale kryzysowym pozostaje żołnierz rezerwy albo w którego ewidencji wojskowej znajduje się żołnierz w stanie spoczynku.
+3.
+Z wnioskiem, w trybie i terminie, o których mowa w ust. 1, o udzielenie wyróżnienia żołnierzowi poległemu lub zmarłemu albo zaginionemu w związku z pełnieniem czynnej służby wojskowej może wystąpić dowódca jednostki wojskowej, w ewidencji której żołnierz pozostawał, albo przełożeni tego dowódcy.
+4.
+Do wniosków, o których mowa w ust. 1–3, załącza się dwie fotografie kandydata do wyróżnienia o wymiarach 6 x 9 cm, przedstawiające lewy profil w mundurze galowym ze sznurem galowym, z aktualnym stopniem wojskowym. Jeżeli żołnierzowi nie przysługuje mundur galowy, kandydat może wykonać fotografię w mundurze używanym w okolicznościach przewidzianych dla wystąpień galowych.
+5.
+Kierownik komórki organizacyjnej właściwej do spraw dyscypliny wojskowej przedkłada, za pośrednictwem Dyrektora Biura MON, Ministrowi Obrony Narodowej projekt decyzji zawierający kandydatury do wyróżnienia wpisaniem zasług żołnierzy do Księgi Honorowej Wojska Polskiego – w odniesieniu do nie więcej niż 15 kandydatów.
+6.
+Limit zgłaszanych kandydatów, określony w ust. 5, nie ma zastosowania w odniesieniu do żołnierzy poległych, zmarłych lub zaginionych w związku z pełnieniem służby wojskowej.
+§ 21.
+Wyróżnienia wpisaniem zasług żołnierzy do Księgi Honorowej Wojska Polskiego udziela się w decyzji wydanej z okazji obchodów Święta Wojska Polskiego.
+§ 22.
+1.
+Tekst wpisu do Księgi Honorowej Wojska Polskiego dotyczący żołnierza będącego w czynnej służbie wojskowej zawiera:
+1)
+stopień i tytuł wojskowy, imię i nazwisko oraz imię ojca żołnierza;
+2)
+nazwę zajmowanego przez żołnierza stanowiska służbowego i miejsce pełnienia przez niego służby wojskowej;
+3)
+opis zasług żołnierza;
+4)
+aktualną fotografię żołnierza;
+5)
+podstawę prawną i datę udzielenia wyróżnienia oraz odcisk pieczęci, podpis, imię i nazwisko przełożonego dyscyplinarnego udzielającego wyróżnienia.
+2.
+Tekst wpisu do Księgi Honorowej Wojska Polskiego dotyczący byłego żołnierza, w tym poległego, zmarłego lub zaginionego, zawiera:
+1)
+stopień wojskowy (z adnotacją odpowiednio: rezerwy albo w stanie spoczynku), imię i nazwisko oraz imię ojca żołnierza;
+2)
+ostatnio zajmowane stanowisko służbowe i miejsce pełnienia służby wojskowej przed zwolnieniem z tej służby;
+3)
+opis zasług żołnierza;
+4)
+w przypadku żołnierza poległego lub zmarłego – określenie, że wyróżnienie jest udzielone pośmiertnie;
+5)
+fotografię z ostatniego okresu pełnienia czynnej służby wojskowej;
+6)
+podstawę prawną i datę udzielenia wyróżnienia oraz odcisk pieczęci, podpis, imię i nazwisko przełożonego dyscyplinarnego udzielającego wyróżnienia.
+§ 23.
+1.
+Żołnierze i byli żołnierze, którzy zostali wyróżnieni wpisaniem zasług do Księgi Honorowej Wojska Polskiego, otrzymują dyplomy pamiątkowe oraz kopię karty wpisu do Księgi Honorowej Wojska Polskiego.
+2.
+Dyplom pamiątkowy oraz kopię karty wpisu do Księgi Honorowej Wojska Polskiego żołnierza poległego, zmarłego lub nieobecnego z innych ważnych przyczyn odbiera przedstawiciel jego najbliższej rodziny lub dowódca jednostki wojskowej, w której żołnierz pełni albo pełnił ostatnio służbę wojskową.
+3.
+Wręczenie dyplomów pamiątkowych oraz kopii kart wpisu do Księgi Honorowej Wojska Polskiego, o których mowa w ust. 1, odbywa się podczas obchodów Święta Wojska Polskiego, a w uzasadnionych przypadkach w innym odpowiednim dla tego wydarzenia terminie.
+4.
+Kopię karty wpisu do Księgi Honorowej Wojska Polskiego przekazuje się również dowódcy jednostki wojskowej, w której pełni albo pełnił czynną służbę wojskową żołnierz, którego wyróżniono w tej formie.
+§ 24.
+1.
+Wyróżniony żołnierz i były żołnierz może nosić odznakę honorową i odznakę tytułu honorowego na mundurze od dnia otrzymania tego wyróżnienia – w czasie pełnienia służby wojskowej oraz po jej zakończeniu, a na ubiorze cywilnym w formie miniaturki.
+2.
+Wyróżniony żołnierz może nosić na mundurze odznakę tytułu honorowego, o którym mowa w § 4 ust. 2, od dnia otrzymania tego wyróżnienia do dnia zakończenia sesji egzaminacyjnej w przypadającym kolejnym semestrze studiów albo do zakończenia podlegającego ocenie etapu nauki, a także w okresie do zakończenia studiów (nauki).
+§ 25.
+1.
+Odznaki honorowe i odznaki tytułów honorowych, o których mowa w § 4 ust. 1–5, nosi się na ubiorach galowych i wyjściowych:
+1)
+na kurtkach mundurowych;
+2)
+na bluzie wyjściowej marynarskiej;
+3)
+na bluzie polowej spełniającej funkcję ubioru galowego/wyjściowego.
+2.
+Odznakę tytułu honorowego, o którym mowa w § 4:
+1)
+ust. 3 – nosi się w jej najwyższym stopniu;
+2)
+ust. 5 – nosi się z oznaczeniem ostatniego nadania.
+3.
+Sposoby rozmieszczenia i noszenia na umundurowaniu odznak honorowych, odznak tytułów honorowych, sznurów wyróżniających oraz noszenia kordzików honorowych są określone w załączniku nr 18 do rozporządzenia.
+§ 26.
+1.
+Honorowa broń biała może być eksponowana w muzeach wojskowych, salach tradycji, a także w pomieszczeniach służbowych żołnierzy, którzy zostali wyróżnieni tym rodzajem wyróżnienia.
+2.
+Kordzik honorowy można nosić wyłącznie do munduru galowego w sytuacjach określonych w przepisach w sprawie noszenia umundurowania i odznak wojskowych przez żołnierzy.
+3.
+Jeżeli wyróżnionemu nie przysługuje mundur galowy, kordzik honorowy może być noszony do munduru używanego w okolicznościach przewidzianych dla wystąpień galowych.
+§ 27.
+1.
+Księga Honorowa Wojska Polskiego jest przechowywana jako depozyt oraz eksponowana w sposób szczególnie uroczysty w Muzeum Wojska Polskiego w Warszawie.
+2.
+Kopię karty wpisu do Księgi Honorowej Wojska Polskiego eksponuje się w sali tradycji lub innym honorowym miejscu w jednostce wojskowej albo instytucji krajowej lub zagranicznej, w której pełni albo pełnił czynną służbę wojskową żołnierz, którego wyróżniono w tej formie.
+§ 28.
+Pododdziałom, oddziałom i instytucjom wojskowym, w drodze wyróżnienia, mogą być nadawane tytuły honorowe:
+1)
+„Przodujący Pododdział” – batalionowi, dywizjonowi, eskadrze, kompanii (niebędącymi jednostkami wojskowymi), plutonowi lub równorzędnemu pododdziałowi;
+2)
+„Przodujący Oddział Wojska Polskiego”:
+a)
+brygadzie, pułkowi, bazie lotniczej, komendzie portu wojennego,
+b)
+batalionowi, dywizjonowi, eskadrze lub kompanii, będącymi jednostkami wojskowymi,
+c)
+oddziałowi Żandarmerii Wojskowej,
+d)
+zmianie polskiego kontyngentu wojskowego,
+e)
+oddziałom wojskowym równorzędnym oddziałom, o których mowa w lit. a-d;
+3)
+„Przodująca Instytucja Wojskowa” – instytucji wojskowej.
+§ 29.
+1.
+Znakami tytułu honorowego „Przodujący Pododdział” są proporce honorowe:
+1)
+„Przodujący Pododdział Wojsk Lądowych”;
+2)
+„Przodujący Pododdział Sił Powietrznych”;
+3)
+„Przodujący Pododdział Marynarki Wojennej”;
+4)
+„Przodujący Pododdział Wojsk Obrony Terytorialnej”;
+5)
+„Przodujący Pododdział Wojsk Specjalnych”;
+6)
+„Przodujący Pododdział Żandarmerii Wojskowej”.
+2.
+Pododdział wojskowy niewchodzący w skład rodzaju Sił Zbrojnych lub Żandarmerii Wojskowej, któremu został nadany tytuł honorowy, otrzymuje proporzec honorowy „Przodujący Pododdział Wojsk Lądowych”.
+3.
+Znak tytułu honorowego „Przodujący Pododdział” nadanego pododdziałowi wojskowemu, który dziedziczy tradycje kawaleryjskie, stanowi buńczuk honorowy.
+4.
+Opisy i wzory znaków tytułów honorowych:
+1)
+proporca honorowego:
+a)
+„Przodujący Pododdział Wojsk Lądowych” są określone w załączniku nr 19 do rozporządzenia,
+b)
+„Przodujący Pododdział Sił Powietrznych” są określone w załączniku nr 20 do rozporządzenia,
+c)
+„Przodujący Pododdział Marynarki Wojennej” są określone w załączniku nr 21 do rozporządzenia,
+d)
+„Przodujący Pododdział Wojsk Obrony Terytorialnej” są określone w załączniku nr 22 do rozporządzenia,
+e)
+„Przodujący Pododdział Wojsk Specjalnych” są określone w załączniku nr 23 do rozporządzenia,
+f)
+„Przodujący Pododdział Żandarmerii Wojskowej” są określone w załączniku nr 24 do rozporządzenia;
+2)
+buńczuka honorowego „Przodujący Pododdział Wojsk Lądowych” są określone w załączniku nr 25 do rozporządzenia.
+§ 30.
+1.
+Znak tytułu honorowego „Przodujący Oddział Wojska Polskiego” i „Przodująca Instytucja Wojskowa” stanowi statuetka orła w koronie, umieszczona na postumencie.
+2.
+Na postumencie, o którym mowa w ust. 1, umieszcza się odpowiednią do rodzaju tytułu honorowego dedykację.
+3.
+Opisy i wzory znaków tytułów honorowych:
+1)
+„Przodujący Oddział Wojska Polskiego” są określone w załączniku nr 26 do rozporządzenia,
+2)
+„Przodująca Instytucja Wojskowa” są określone w załączniku nr 27 do rozporządzenia.
+§ 31.
+Przełożony dyscyplinarny udziela wyróżnienia pododdziałom, oddziałom i instytucjom wojskowym, uwzględniając:
+1)
+wzorowe wykonanie zadania służbowego lub osiągnięcie wyróżniających się wyników w szkoleniu – wyróżnia dyplomem uznania;
+2)
+szczególne osiągnięcia w wykonywaniu zadań służbowych lub uzyskanie najlepszych wyników w działalności służbowej spośród pododdziałów w jednostce wojskowej – wyróżnia wpisaniem nazwy i osiągnięć pododdziału lub oddziału do kroniki jednostki wojskowej;
+3)
+szczególne osiągnięcia w wykonywaniu zadań służbowych lub uzyskanie najlepszych wyników w działalności służbowej spośród podległych jednostek wojskowych – wyróżnia wpisaniem nazwy i osiągnięć podległej jednostki wojskowej do kroniki jednostki wojskowej nadrzędnej;
+4)
+dokonanie czynu bojowego lub innego czynu w czasie przeprowadzenia akcji humanitarnej, poszukiwawczej lub ratowniczej, połączonego z ofiarnością i odwagą żołnierzy – wyróżnia tytułem honorowym;
+5)
+uzyskanie najlepszych wyników w działalności służbowej, w istotnym stopniu wpływających na zwiększenie zdolności i gotowości bojowej Sił Zbrojnych oraz umacnianie obronności Rzeczypospolitej Polskiej, potwierdzonych w działalności kontrolno-rozliczeniowej w resorcie obrony narodowej – wyróżnia tytułem honorowym;
+6)
+szczególne osiągnięcia w wykonywaniu zadań w razie ogłoszenia mobilizacji lub stanów nadzwyczajnych, użycia Sił Zbrojnych w kraju i poza granicami państwa w działaniach antyterrorystycznych, akcjach humanitarnych, poszukiwawczych lub ratowniczych, a także w zwalczaniu klęsk żywiołowych oraz likwidacji ich skutków albo szczególne osiągnięcia w wykonywaniu zadań służbowych, w tym szkoleniowych, w czasie pokoju – wyróżnia wpisaniem nazwy i osiągnięć jednostki wojskowej, pododdziału, oddziału lub instytucji wojskowej do Księgi Honorowej Wojska Polskiego.
+§ 32.
+1.
+Po wyróżnieniu za osiągniecia związane z dokonaniem czynu bojowego lub innego czynu w czasie przeprowadzenia akcji humanitarnej, poszukiwawczej lub ratowniczej połączonego z ofiarnością i odwagą żołnierzy, pododdziałowi, oddziałowi wojskowemu lub instytucji wojskowej nadaje się tytuł honorowy bez wskazania okresu posiadania uprawnień do jego używania oraz można nadawać ten tytuł niezwłocznie po dokonaniu czynu.
+2.
+Po wyróżnieniu pododdziału, oddziału wojskowego lub instytucji wojskowej za osiągnięcia w poprzednim roku kalendarzowym, polegające na uzyskaniu najlepszych wyników w działalności służbowej, tytuł honorowy nadaje się raz w roku na okres jednego roku od dnia wydania decyzji w sprawie.
+§ 33.
+Przełożonymi dyscyplinarnymi uprawnionymi do nadawania tytułu honorowego „Przodujący Pododdział” są:
+1)
+w przypadkach, o których mowa w § 31 pkt 4:
+a)
+Minister Obrony Narodowej,
+b)
+Szef Sztabu Generalnego WP – nie więcej niż trzem pododdziałom wojskowym w okresie roku kalendarzowego;
+2)
+w przypadkach, o których mowa w § 31 pkt 5:
+a)
+Minister Obrony Narodowej – innemu pododdziałowi wojskowemu, jeżeli nie udzielono wyróżnienia przez przełożonego dyscyplinarnego wymienionego w lit. b-g,
+b)
+Szef Sztabu Generalnego WP – dwóm pododdziałom z podporządkowanych mu jednostek wojskowych, jeżeli nie udzielono wyróżnienia przez właściwego przełożonego dyscyplinarnego,
+c)
+Dowódca Generalny RSZ – nie więcej niż sześciu pododdziałom z jednostek wojskowych mu podporządkowanych,
+d)
+Dowódca Wojsk Obrony Terytorialnej – nie więcej niż trzem pododdziałom z jednostek wojskowych mu podporządkowanych,
+e)
+Szef Inspektoratu Wsparcia Sił Zbrojnych – jednemu pododdziałowi z podporządkowanych mu jednostek wojskowych,
+f)
+Komendant Główny Żandarmerii Wojskowej – jednemu pododdziałowi z podporządkowanych mu jednostek organizacyjnych,
+g)
+Dowódca Garnizonu Warszawa – jednemu pododdziałowi z podporządkowanych mu jednostek wojskowych.
+§ 34.
+Przełożonymi dyscyplinarnymi uprawnionymi do nadawania tytułu honorowego „Przodujący Oddział Wojska Polskiego” są w przypadkach, o których mowa w § 31:
+1)
+pkt 4:
+a)
+Minister Obrony Narodowej,
+b)
+Szef Sztabu Generalnego WP – nie więcej niż trzem oddziałom wojskowym w okresie roku kalendarzowego;
+2)
+pkt 5 – Minister Obrony Narodowej – nie więcej niż dwóm oddziałom z Wojsk Lądowych oraz nie więcej niż po jednym oddziale z pozostałych rodzajów Sił Zbrojnych oraz trzem oddziałom niewchodzącym w skład rodzajów Sił Zbrojnych za okres roku kalendarzowego.
+§ 35.
+1.
+Przełożonym dyscyplinarnym uprawnionym do nadawania tytułu honorowego „Przodująca Instytucja Wojskowa” jest Minister Obrony Narodowej.
+2.
+Tytułem honorowym „Przodująca Instytucja Wojskowa” w przypadkach, o których mowa w § 31 pkt 5, można wyróżnić jedną instytucję wojskową:
+1)
+wchodzącą w skład rodzaju Sił Zbrojnych;
+2)
+niewchodzącą w skład rodzaju Sił Zbrojnych.
+§ 36.
+Wnioski o nadanie pododdziałom wojskowym tytułów honorowych mogą składać dowódcy oddziałów dla podporządkowanych im pododdziałów do przełożonych dyscyplinarnych, o których mowa w § 33, odpowiednio do podporządkowania oddziału wojskowego.
+§ 37.
+1.
+Przełożony dyscyplinarny, który nadał tytuł honorowy „Przodujący Pododdział”, lub przedstawiciel tego przełożonego dokonuje wręczenia znaku tytułu honorowego i aktu jego nadania dowódcy pododdziału wojskowego, którego wyróżniono tym tytułem honorowym, w sposób określony w ceremoniale wojskowym.
+2.
+Pododdział wojskowy, któremu został nadany tytuł honorowy „Przodujący Pododdział”, otrzymuje wraz z przechodnim proporcem gwóźdź pamiątkowy, a z przechodnim buńczukiem – pierścień pamiątkowy, stanowiące komplet.
+§ 38.
+1.
+Żołnierzom pododdziałów wyróżnionych za osiągnięcia, o których mowa w § 31:
+1)
+pkt 4 – wręcza się sznur wyróżniający w kolorze niebieskim z jednym chwastem;
+2)
+pkt 5 – wręcza się sznur wyróżniający w kolorze amarantowym z jednym chwastem.
+2.
+Dowódcy wyróżnionego pododdziału wręcza się sznur wyróżniający dwukolorowy, odpowiednio niebiesko -srebrny albo amarantowo -srebrny.
+§ 39.
+Wnioski o nadanie przez Ministra Obrony Narodowej oddziałom wojskowym tytułu honorowego mogą składać: Szef Sztabu Generalnego WP, Dowódca Generalny RSZ, Dowódca Operacyjny RSZ, Dowódca Wojsk Obrony Terytorialnej, Szef Inspektoratu Wsparcia Sił Zbrojnych, Komendant Główny Żandarmerii Wojskowej i Dowódca Garnizonu Warszawa dla podporządkowanych im oddziałów.
+§ 40.
+Wnioski o nadanie instytucjom wojskowym tytułu honorowego mogą składać:
+1)
+Szef Sztabu Generalnego WP, Dowódca Generalny RSZ, Dowódca Operacyjny RSZ, Dowódca Wojsk Obrony Terytorialnej, Dowódca Komponentu Wojsk Obrony Cyberprzestrzeni, Szef Inspektoratu Wsparcia Sił Zbrojnych, Komendant Główny Żandarmerii Wojskowej, Dowódca Garnizonu Warszawa dla podporządkowanych im instytucji wojskowych;
+2)
+Sekretarz Stanu, Podsekretarz Stanu, Dyrektor Generalny MON, dyrektorzy (szefowie, kierownicy) komórek i jednostek organizacyjnych bezpośrednio podporządkowanych Sekretarzowi Stanu albo Ministrowi Obrony Narodowej i przez niego nadzorowanych dla podporządkowanych im instytucji wojskowych.
+§ 41.
+1.
+Wnioski o nadanie przez Szefa Sztabu Generalnego WP pododdziałowi lub oddziałowi wojskowemu tytułu honorowego w związku z dokonaniem czynu bojowego lub innego czynu w czasie przeprowadzenia akcji humanitarnej, poszukiwawczej lub ratowniczej połączonego z ofiarnością i odwagą żołnierzy składa się w terminie do dnia 20 stycznia każdego roku do wyznaczonego szefa komórki organizacyjnej Sztabu Generalnego WP, z zastrzeżeniem § 32 ust. 1.
+2.
+Wnioski o nadanie przez Ministra Obrony Narodowej pododdziałowi, oddziałowi oraz instytucji wojskowej tytułów honorowych składa się w terminie do dnia 20 stycznia każdego roku, z zastrzeżeniem § 32 ust. 1.
+§ 42.
+1.
+Dowódcy oddziału wojskowego, któremu został nadany tytuł honorowy „Przodujący Oddział”, oraz osobie kierującej instytucją wojskową, której został nadany tytuł honorowy „Przodująca Instytucja Wojskowa”, wręcza się znak tytułu honorowego i akt jego nadania.
+2.
+Dowódcy oddziału wojskowego, któremu został nadany tytuł honorowy „Przodujący Oddział”, wręcza się ponadto sznur wyróżniający dwukolorowy, odpowiednio niebiesko -srebrny albo amarantowo -srebrny, a żołnierzowi kierującemu instytucją wojskową, której został nadany tytuł honorowy „Przodująca Instytucja Wojskowa”, sznur wyróżniający dwukolorowy, odpowiednio niebiesko -srebrny albo amarantowo -srebrny.
+3.
+Żołnierzom oddziałów i instytucji wojskowych wyróżnionych za dokonania, o których mowa w § 31 pkt 4, wręcza się sznur wyróżniający w kolorze niebieskim z dwoma chwastami.
+4.
+Żołnierzom oddziałów i instytucji wojskowych wyróżnionych za uzyskanie wyników, o których mowa w § 31 pkt 5, wręcza się sznur wyróżniający amarantowy z dwoma chwastami.
+5.
+Opisy i wzory sznurów wyróżniających dla żołnierzy pododdziałów, oddziałów i instytucji wojskowych wyróżnionych tytułem honorowym „Przodujący Pododdział”, „Przodujący Oddział” oraz „Przodująca Instytucja Wojskowa” są określone w załączniku nr 28 do rozporządzenia.
+§ 43.
+1.
+Z wnioskiem o wpisanie nazwy i osiągnięć jednostki wojskowej, pododdziału, oddziału lub instytucji wojskowej do Księgi Honorowej Wojska Polskiego mogą wystąpić: Sekretarz Stanu, Podsekretarz Stanu, Dyrektor Generalny MON, Szef Sztabu Generalnego WP, Dowódca Generalny RSZ, Dowódca Operacyjny RSZ, Dowódca Wojsk Obrony Terytorialnej, Dowódca Komponentu Wojsk Obrony Cyberprzestrzeni, Szef Inspektoratu Wsparcia Sił Zbrojnych, Komendant Główny Żandarmerii Wojskowej, Dowódca Garnizonu Warszawa, dyrektorzy (szefowie, kierownicy) komórek organizacyjnych Ministerstwa Obrony Narodowej oraz dowódcy (równorzędni) jednostek organizacyjnych bezpośrednio podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych.
+2.
+Wniosek, o którym mowa w ust. 1, przedstawia się w terminie do dnia 31 maja.
+3.
+Kierownik komórki organizacyjnej właściwej do spraw dyscypliny wojskowej przedkłada, za pośrednictwem Dyrektora Biura MON, Ministrowi Obrony Narodowej projekt decyzji zawierający kandydatury do wyróżnienia wpisaniem nazw i osiągnięć jednostek wojskowych, pododdziałów, oddziałów lub instytucji wojskowych do Księgi Honorowej Wojska Polskiego, w odniesieniu do nie więcej niż łącznie 5 jednostek wojskowych, pododdziałów, oddziałów i instytucji wojskowych.
+§ 44.
+Wpis nazwy i osiągnięć jednostki wojskowej, pododdziału, oddziału lub instytucji wojskowej w kronice jednostki wojskowej oraz w Księdze Honorowej Wojska Polskiego zawiera w szczególności:
+1)
+pełną nazwę wyróżnionej struktury;
+2)
+opis osiągnięć (czynów);
+3)
+stopień wojskowy, imię i nazwisko dowódcy (dowódców, równorzędnych) wyróżnionej struktury w okresie, za który udzielono wyróżnienia;
+4)
+znak graficzny przedstawiający odznakę pamiątkową lub oznakę rozpoznawczą wyróżnionej struktury, a w przypadku braku własnych, odznakę/oznakę nadrzędnej jednostki organizacyjnej;
+5)
+podstawę prawną i datę udzielenia wyróżnienia oraz odcisk pieczęci, podpis i dane przełożonego dyscyplinarnego udzielającego wyróżnienia.
+§ 45.
+1.
+Sznur wyróżniający nosi się na kurtkach munduru galowego i wyjściowego oraz na bluzie polowej spełniającej funkcję ubioru galowego/wyjściowego.
+2.
+W przypadku posiadania przez żołnierza uprawnienia do noszenia sznura orderowego Orderu Krzyża Wojskowego sznura wyróżniającego nie nosi się.
+§ 46.
+1.
+Proporzec honorowy albo buńczuk honorowy towarzyszy pododdziałowi wojskowemu w wystąpieniach z okazji świąt państwowych i wojskowych oraz w innych uroczystościach z udziałem wyróżnionego pododdziału, w sposób określony w ceremoniale wojskowym.
+2.
+Proporzec honorowy i buńczuk honorowy tytułu honorowego „Przodujący Pododdział” przechowuje się w eksponowanym miejscu w pododdziale wojskowym albo w sali tradycji jednostki wojskowej.
+3.
+Znak i akt nadania tytułu honorowego „Przodujący Oddział” albo „Przodująca Instytucja Wojskowa” przechowuje się w sali tradycji lub innym eksponowanym miejscu oddziału albo instytucji wojskowej.
+§ 47.
+1.
+Znak tytułu honorowego „Przodujący Pododdział”, otrzymany w przypadkach, o których mowa w § 31 pkt 5, jest przechodni.
+2.
+Na 3 tygodnie przed upływem okresu uprawnienia do posiadania znaku tytułu honorowego „Przodujący Pododdział” dowódca oddziału, w skład którego wchodzi wyróżniony pododdział, wyznacza żołnierzy do asysty, która przekazuje proporzec honorowy albo buńczuk honorowy jednostce organizacyjnej określonej przez przełożonego dyscyplinarnego, który nadał ten tytuł.
+3.
+Znaki tytułu honorowego, o których mowa w ust. 1, są przeznaczone do użytkowania przez okres 10 lat od dnia, w którym po raz pierwszy nadano tytuł honorowy, którego znakiem jest proporzec honorowy albo buńczuk honorowy, do chwili wygrawerowania kompletu gwoździ/pierścieni pamiątkowych lub spełnienia warunku, o którym mowa w ust. 5.
+4.
+Po okresie, o którym mowa w ust. 3, lub w przypadku rozwiązania jednostki wojskowej, w której pododdział otrzymał „Proporzec (Buńczuk) Honorowy” na stałe, znaki tytułów honorowych przekazuje się do Muzeum Wojska Polskiego w Warszawie, zgodnie z przepisami wydanymi na podstawie art. 3 ustawy o znakach.
+5.
+Pododdział, któremu tytuł honorowy „Przodujący Pododdział” został nadany trzykrotnie, otrzymuje znak tego tytułu na stałe.
+§ 48.
+1.
+Uprawnienia przełożonego dyscyplinarnego określone w rozporządzeniu dla Ministra Obrony Narodowej i Szefa Sztabu Generalnego WP przysługują również Naczelnemu Dowódcy Sił Zbrojnych.
+2.
+Limitu liczby udzielanych wyróżnień nie stosuje się w czasie pełnienia służby wojskowej po ogłoszeniu mobilizacji, w stanach nadzwyczajnych, w czasie wojny, a także podczas wykonywania zadań służbowych w strefie działań wojennych oraz w przypadku użycia Sił Zbrojnych poza granicami państwa, jak również udziału w akcjach humanitarnych lub poszukiwawczych.
+3.
+W przypadku, o którym mowa w § 31 pkt 4, przy składaniu wniosku o nadanie pododdziałowi lub oddziałowi wojskowemu tytułu honorowego nie stosuje się § 41 w zakresie terminów.
+4.
+W przypadku udzielania wyróżnień w warunkach, o których mowa w ust. 2 i 3, przepis § 13 stosuje się odpowiednio.
+5.
+W warunkach, o których mowa w ust. 2, jeżeli wykonanie czynności oraz sporządzenie dokumentów niezbędnych do wyróżnienia jest niemożliwe lub szczególnie utrudnione, nie stosuje się wymagań niniejszego rozporządzenia w tym zakresie.
+§ 49.
+Wręczanie wyróżnień następuje z uwzględnieniem ceremoniału wojskowego.
+§ 50.
+1.
+Przy udzielaniu wyróżnień stosuje się następujące dokumenty:
+1)
+wniosek przełożonego albo innego organu o udzielenie wyróżnienia żołnierzowi, byłemu żołnierzowi, pododdziałowi, oddziałowi lub instytucji wojskowej;
+2)
+opinię wyższego przełożonego dotyczącą wniosku o udzielenie wyróżnienia;
+3)
+wniosek o uzasadnienie odmowy udzielenia wyróżnienia;
+4)
+zawiadomienie o przyczynach odmowy udzielenia wyróżnienia;
+5)
+protokoły oraz notatki służbowe dotyczące kwalifikowania kandydatur do wyróżnienia;
+6)
+rozkaz oraz decyzję w sprawie wyróżnienia;
+7)
+kartę wpisu zasług żołnierza oraz nazwy i osiągnięć pododdziału, oddziału lub jednostki wojskowej do kroniki jednostki wojskowej i kronikę jednostki wojskowej, w której znajdują się te wpisy;
+8)
+kartę wpisu zasług żołnierza oraz nazwy i osiągnięć jednostki wojskowej, pododdziału, oddziału lub instytucji wojskowej do Księgi Honorowej Wojska Polskiego i Księgę Honorową Wojska Polskiego, w której znajdują się te wpisy;
+9)
+odpisy, wyciągi lub kopie dokumentów wymienionych w pkt 1–8;
+10)
+kartę wyróżnień żołnierza, jej odpisy lub kopie.
+2.
+W przypadku wyróżnienia więcej niż jednego żołnierza, byłego żołnierza, pododdziału, oddziału, jednostki wojskowej lub instytucji wojskowej stwierdzenie udzielenia tych wyróżnień umieszcza się w jednym rozkazie lub decyzji.
+3.
+Dokumenty, o których mowa w ust. 1, prowadzi się w formie elektronicznej lub pisemnej.
+§ 51.
+1.
+Informacje o udzieleniu żołnierzowi wyróżnienia umieszcza się w rozkazie dziennym lub w decyzji przez wprowadzenie w punkcie dotyczącym spraw dyscyplinarnych:
+1)
+rozkazu dziennego wydawanego od szczebla dowódcy kompanii (równorzędnego) wzwyż lub przełożonego nadrzędnej struktury organizacyjnej stosownego zapisu;
+2)
+decyzji wydawanej przez uprawnioną osobę niebędącą żołnierzem stosownego zapisu albo wydanie w tej sprawie odrębnej decyzji;
+3)
+w przypadku udzielenia wyróżnienia, o którym mowa w art. 424 ust. 1 pkt 1 ustawy, wydaje się odrębny rozkaz lub decyzję.
+2.
+Informacji o udzieleniu wyróżnienia, o którym mowa w art. 424 ust. 1 pkt 1 ustawy, nie umieszcza się w karcie wyróżnień żołnierza.
+3.
+Przełożony, o którym mowa w ust. 1, stwierdza w wydawanym przez siebie rozkazie lub decyzji fakt udzielenia wyróżnienia przez przełożonego nieuprawnionego do wydawania rozkazów lub decyzji.
+4.
+Wzór rozkazu i decyzji w sprawie wyróżnienia jest określony w załączniku nr 29 do rozporządzenia.
+§ 52.
+1.
+Żołnierz, którego wyróżniono na podstawie przepisów ustawy z dnia 9 października 2009 r. o dyscyplinie wojskowej (Dz. U. z 2021 r. poz. 1489), zachowuje dotychczasowe uprawnienia związane z tym wyróżnieniem.
+2.
+Do Muzeum Wojska Polskiego w Warszawie przekazuje się po jednym egzemplarzu z każdego rodzaju odznak honorowych, odznak tytułów honorowych, znaków i sznurów wyróżniających tytułów honorowych oraz honorowej broni białej, zgodnie ze wzorami określonymi w niniejszym rozporządzeniu.
+3.
+Egzemplarze honorowej broni białej oraz legitymacje Odznak Honorowych i Tytułów Honorowych, zakupione przed dniem wejścia w życie niniejszego rozporządzenia, podlegają wręczaniu do czasu wyczerpania ich zapasów.
+4.
+Odznaki tytułów honorowych oraz ich legitymacje, określone w rozporządzeniu Ministra Obrony Narodowej z dnia 23 czerwca 2010 r. w sprawie wyróżniania żołnierzy, byłych żołnierzy oraz pododdziałów, oddziałów i instytucji wojskowych (Dz. U. poz. 841) i niewydane do dnia wejścia w życie niniejszego rozporządzenia, które nie zostały uwzględnione w niniejszym rozporządzeniu, przekazuje się do muzeów nadzorowanych przez Ministra Obrony Narodowej, sal tradycji i klubów jednostek wojskowych oraz do uczelni wojskowych, centrów szkolenia i ośrodków szkolenia.
+§ 53.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+## Załącznik nr 1 — – Opis i wzór „Odznaki Honorowej Wojsk Lądowych”
+
+patrz oryginał
+
+## Załącznik nr 2 — – Opis i wzór „Odznaki Honorowej Sił Powietrznych”
+
+patrz oryginał
+
+## Załącznik nr 3 — – Opis i wzór „Odznaki Honorowej Marynarki Wojennej”
+
+patrz oryginał
+
+## Załącznik nr 4 — – Opis i wzór „Odznaki Honorowej Wojsk Specjalnych”
+
+patrz oryginał
+
+## Załącznik nr 5 — – Opis i wzór „Odznaki Honorowej Wojsk Obrony Terytorialnej”
+
+patrz oryginał
+
+## Załącznik nr 6 — – Opis i wzór „Odznaki Honorowej Żandarmerii Wojskowej”
+
+patrz oryginał
+
+## Załącznik nr 7 — – Opis i wzór odznaki tytułu honorowego „Wzorowy Podchorąży”
+
+patrz oryginał
+
+## Załącznik nr 8 — – Opis i wzór odznaki tytułu honorowego „Zasłużony Żołnierz Rzeczypospolitej Polskiej”
+
+patrz oryginał
+
+## Załącznik nr 9 — – Opis i wzór odznaki tytułu honorowego „Zasłużony Żołnierz OT”
+
+patrz oryginał
+
+## Załącznik nr 10 — – Opis i wzór odznaki tytułu honorowego „Zasłużony Pilot Wojskowy”
+
+patrz oryginał
+
+## Załącznik nr 11 — – Opis i wzór legitymacji odznak honorowych
+
+patrz oryginał
+
+## Załącznik nr 12 — – Opis i wzór legitymacji tytułu honorowego „Wzorowy Podchorąży”
+
+patrz oryginał
+
+## Załącznik nr 13 — – Opis i wzór legitymacji tytułów honorowych „Zasłużony Żołnierz RP”, „Zasłużony Żołnierz OT”, „Zasłużony Pilot Wojskowy”
+
+patrz oryginał
+
+## Załącznik nr 14 — – Opis i wzór buzdyganu honorowego
+
+patrz oryginał
+
+## Załącznik nr 15 — – Opis i wzór szabli honorowej wojska polskiego
+
+patrz oryginał
+
+## Załącznik nr 16 — – Opis i wzór pałasza honorowego Marynarki Wojennej
+
+patrz oryginał
+
+## Załącznik nr 17 — – Opis i wzór kordzika honorowego Sił Zbrojnych Rzeczypospolitej Polskiej
+
+patrz oryginał
+
+## Załącznik nr 18 — – Sposoby rozmieszczenia i noszenia na umundurowaniu odznak honorowych, odznak tytułów honorowych, sznurów wyróżniających oraz noszenia kordzików honorowych
+
+patrz oryginał
+
+## Załącznik nr 19 — – Opis i wzór proporca honorowego „Przodujący Pododdział Wojsk Lądowych”
+
+patrz oryginał
+
+## Załącznik nr 20 — – Opis i wzór proporca honorowego „Przodujący Pododdział Sił Powietrznych”
+
+patrz oryginał
+
+## Załącznik nr 21 — – Opis i wzór proporca honorowego „Przodujący Pododdział Marynarki Wojennej”
+
+patrz oryginał
+
+## Załącznik nr 22 — – Opis i wzór proporca honorowego „Przodujący Pododdział Wojsk Obrony Terytorialnej”
+
+patrz oryginał
+
+## Załącznik nr 23 — – Opis i wzór proporca honorowego „Przodujący Pododdział Wojsk Specjalnych”
+
+patrz oryginał
+
+## Załącznik nr 24 — – Opis i wzór proporca honorowego „Przodujący Pododdział Żandarmerii Wojskowej”
+
+patrz oryginał
+
+## Załącznik nr 25 — – Opis i wzór buńczuka honorowego „Przodujący Pododdział Wojsk Lądowych”
+
+patrz oryginał
+
+## Załącznik nr 26 — – Opis i wzór znaku tytułu honorowego „Przodujący Oddział Wojska Polskiego”
+
+patrz oryginał
+
+## Załącznik nr 27 — – Opis i wzór znaku tytułu honorowego „Przodująca Instytucja Wojskowa”
+
+patrz oryginał
+
+## Załącznik nr 28 — – Opisy i wzory sznurów wyróżniających dla żołnierzy pododdziałów, oddziałów i instytucji wojskowych wyróżnionych tytułem honorowym „Przodujący Pododdział”, „Przodujący Oddział” oraz „Przodująca Instytucja Wojskowa”
+
+patrz oryginał
+
+## Załącznik nr 29 — – Wzór rozkazu oraz decyzji w sprawie wyróżnienia
+
+patrz oryginał
 

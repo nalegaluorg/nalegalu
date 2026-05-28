@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o działaniach antyterrorystycznych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 lutego 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 lutego 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-02-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000194) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/194/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 lutego 2025 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o działaniach antyterrorystycznych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. z 2024 r. poz. 92), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 26 lipca 2024 r. o zmianie niektórych ustaw celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (Dz. U. poz. 1248),
 2) ustawą z dnia 18 października 2024 r. o zmianie ustawy o działaniach antyterrorystycznych i ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. poz. 1684) oraz zmian wynikających z przepisów ogłoszonych przed dniem 16 stycznia 2025 r.
@@ -43,6 +43,16 @@ Art. 27–58. (pominięte)
 **Art. 1.** Ustawa określa zasady prowadzenia działań antyterrorystycznych oraz współpracy między organami właściwymi zakresie prowadzenia tych działań.
 
 **Art. 2.** Ilekroć ustawie jest mowa o:
+
+- **1)** działaniach antyterrorystycznych należy przez to rozumieć działania organów administracji publicznej polegające na zapobieganiu zdarzeniom o charakterze terrorystycznym, przygotowaniu do przejmowania nad nimi kontroli drodze zaplanowanych przedsięwzięć, reagowaniu przypadku wystąpienia takich zdarzeń oraz usuwaniu ich skutków, tym odtwarzaniu zasobów przeznaczonych do reagowania na nie;
+- **2)** działaniach kontrterrorystycznych należy przez to rozumieć działania wobec sprawców, osób przygotowujących lub pomagających dokonaniu przestępstwa o charakterze terrorystycznym, o którym mowa art. 115 § 20 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2024 r. poz. 17, 1228, 1907 i 1965), prowadzone celu wyeliminowania bezpośredniego zagrożenia życia, zdrowia lub wolności osób lub mienia przy wykorzystaniu specjalistycznych sił i środków oraz specjalistycznej taktyki działania;
+- **3)** infrastrukturze administracji publicznej należy przez to rozumieć systemy oraz obiekty niezbędne dla zapewnienia bezpiecznego i ciągłego funkcjonowania organów administracji publicznej;
+- **4)** infrastrukturze krytycznej należy przez to rozumieć infrastrukturę krytyczną, o której mowa art. 3 pkt 2 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122 oraz z 2024 r. poz. 834, 1222, 1473, 1572 i 1907);
+- **5)** Ministrze Koordynatorze Służb Specjalnych należy przez to rozumieć Ministra Członka Rady Ministrów, którego zakres działania, wyznaczony na podstawie art. 33 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2024 r. poz. 1050 i 1473), obejmuje zadania związane z działalnością służb specjalnych rozumieniu ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2024 r. poz. 812, 1222, 1562, 1684 i 1871);
+- **6)** miejscu zdarzenia o charakterze terrorystycznym należy przez to rozumieć przestrzeń otwartą lub zamkniętą, której nastąpiło zdarzenie o charakterze terrorystycznym lub której wystąpił lub miał wystąpić jego skutek, oraz przestrzeń, której występują zagrożenia związane ze zdarzeniem o charakterze terrorystycznym;
+- **7)** zdarzeniu o charakterze terrorystycznym należy przez to rozumieć sytuację, co do której istnieje podejrzenie, że powstała na skutek przestępstwa o charakterze terrorystycznym, o którym mowa art. 115 § 20 ustawy z dnia 6 czerwca 1997 r. Kodeks karny, lub zagrożenie zaistnienia takiego przestępstwa;
+- **8)** dostawcy usług hostingowych należy przez to rozumieć dostawcę usług polegających na przechowywaniu informacji dostarczonych przez dostawcę treści i na jego wniosek, o którym mowa art. 2 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/784 z dnia 29 kwietnia 2021 r. sprawie przeciwdziałania rozpowszechnianiu internecie treści o charakterze terrorystycznym (Dz. Urz. UE L 172 z 17.05.2021, str. 79), zwanego dalej „rozporządzeniem 2021/784”;
+- **10)** treściach o charakterze terrorystycznym należy przez to rozumieć materiały, o których mowa art. 2 pkt 7 rozporządzenia 2021/784.
 
 **Art. 3.**
 
@@ -77,7 +87,7 @@ Art. 27–58. (pominięte)
 - **1)** osobach podejmujących działalność na rzecz organizacji terrorystycznych lub organizacji związanych z działalnością terrorystyczną lub członkach tych organizacji;
 - **2)** poszukiwanych osobach prowadzących działalność terrorystyczną lub osobach podejrzewanych o popełnienie przestępstw o charakterze terrorystycznym, wobec których Rzeczypospolitej Polskiej zostało wydane zarządzenie o zatrzymaniu, poszukiwaniu lub postanowienie o poszukiwaniu listem gończym, a także poszukiwanych na podstawie europejskiego nakazu aresztowania;
 - **3)** osobach, wobec których istnieje uzasadnione podejrzenie, że mogą prowadzić działania zmierzające do popełnienia przestępstwa o charakterze terrorystycznym, tym o osobach stanowiących zagrożenie bezpieczeństwa lotnictwa cywilnego;
-- **4)** osobach uczestniczących szkoleniach terrorystycznych lub podejmujących podróż celu popełnienia przestępstwa o charakterze terrorystycznym. tycznym:
+- **4)** osobach uczestniczących szkoleniach terrorystycznych lub podejmujących podróż celu popełnienia przestępstwa o charakterze terrorystycznym. wykazie, o którym mowa ust. 1, także postaci bieżących analiz stanu zagrożenia zdarzeniem o charakterze terrorystycznym:
 - **1)** podmiotom i służbom specjalnym, o których mowa art. 5 ust. 1,
 - **2)** innym organom administracji publicznej zakresie ich właściwości.
 
@@ -155,6 +165,22 @@ Art. 27–58. (pominięte)
 - **2)** przekazywania Komendantowi Głównemu Policji pobranych obrazów linii papilarnych i wizerunków twarzy oraz oznaczonych profili DNA, a także danych i informacji określonych ust. 2 i 4 uwzględniając konieczność zapewnienia sprawnego pobierania obrazów linii papilarnych, materiału biologicznego oraz utrwalania wizerunku twarzy, wiernego zobrazowania linii papilarnych, profilu DNA i wizerunków twarzy oraz niezwłocznego ich przekazania.
 
 **Art. 11.** W celu realizacji zadania, o którym mowa art. 3 ust. 1, Szef ABW może nieodpłatnie uzyskać dostęp do:
+
+- **1)** danych i informacji zgromadzonych rejestrach publicznych i ewidencjach prowadzonych przez:
+    - **a)** podmioty oraz służby specjalne, o których mowa art. 5 ust. 1,
+    - **b)** ministrów kierujących działami administracji rządowej,
+    - **c)** Szefa Urzędu do Spraw Cudzoziemców,
+    - **d)** Prezesa Urzędu Komunikacji Elektronicznej,
+    - **e)** Prezesa Urzędu Lotnictwa Cywilnego,
+    - **f)** Prezesa Państwowej Agencji Atomistyki,
+    - **g)** Zakład Ubezpieczeń Społecznych,
+    - **h)** Prezesa Kasy Rolniczego Ubezpieczenia Społecznego,
+    - **i)** Komisję Nadzoru Finansowego,
+    - **j)** Głównego Geodetę Kraju,
+    - **k)** jednostki samorządu terytorialnego,
+    - **l)** Prokuratora Generalnego oraz jednostki organizacyjne im podległe lub przez nie nadzorowane,
+
+- **2)** obrazu zdarzeń rejestrowanego przez urządzenia rejestrujące obraz umieszczone obiektach użyteczności publicznej, przy drogach publicznych i innych miejscach publicznych oraz otrzymywać nieodpłatnie kopię zarejestrowanego zapisu tego obrazu z uwzględnieniem zasad i trybu określonych art. 34 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu.
 
 **Art. 12.**
 
@@ -271,7 +297,7 @@ Art. 27–58. (pominięte)
 - **2)** na obszarze jednej lub kilku jednostek podziału terytorialnego kraju;
 - **3)** na obszarze określonym sposób inny niż przez odniesienie do jednostek podziału terytorialnego kraju;
 - **4)** dla określonych obiektów jednostek organizacyjnych administracji publicznej, prokuratury, sądów lub innych obiektów infrastruktury administracji publicznej lub infrastruktury krytycznej;
-- **5)** przypadku gdy skutki zdarzenia o charakterze terrorystycznym mogą dotyczyć obywateli polskich przebywających za granicą Rzeczypospolitej Polskiej lub instytucji polskich albo polskiej infrastruktury mieszczących się poza granicami Rzeczypospolitej Polskiej innych niż placówki zagraniczne Rzeczypospolitej Polskiej rozumieniu ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. z 2024 r. poz. 1691 i 1840). właściwego do spraw zagranicznych i Szefa Agencji Wywiadu, a przypadkach niecierpiących zwłoki minister właściwy do spraw zagranicznych, po zasięgnięciu opinii Szefa Agencji Wywiadu, informując o tym niezwłocznie Prezesa Rady Ministrów:
+- **5)** przypadku gdy skutki zdarzenia o charakterze terrorystycznym mogą dotyczyć obywateli polskich przebywających za granicą Rzeczypospolitej Polskiej lub instytucji polskich albo polskiej infrastruktury mieszczących się poza granicami Rzeczypospolitej Polskiej innych niż placówki zagraniczne Rzeczypospolitej Polskiej rozumieniu ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. z 2024 r. poz. 1691 i 1840). od rodzaju zagrożenia zdarzeniem o charakterze terrorystycznym, Prezes Rady Ministrów, po zasięgnięciu opinii ministra właściwego do spraw zagranicznych i Szefa Agencji Wywiadu, a przypadkach niecierpiących zwłoki minister właściwy do spraw zagranicznych, po zasięgnięciu opinii Szefa Agencji Wywiadu, informując o tym niezwłocznie Prezesa Rady Ministrów:
 - **1)** dla określonych placówek zagranicznych Rzeczypospolitej Polskiej rozumieniu ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej;
 - **2)** odniesieniu do systemów teleinformatycznych ministra właściwego do spraw zagranicznych.
 
@@ -299,6 +325,8 @@ Art. 27–58. (pominięte)
 #### Rozdział 4 Działania antyterrorystyczne na miejscu zdarzenia o charakterze terrorystycznym, tym działania kontrterrorystyczne
 
 **Art. 18.** Kierującym działaniami antyterrorystycznymi podejmowanymi przez właściwe służby lub organy ramach ich ustawowych zadań na miejscu zdarzenia o charakterze terrorystycznym, zwanym dalej „kierującym działaniami”, jest:
+
+- **1)** wyznaczony przez Komendanta Głównego Policji, a przypadkach niecierpiących zwłoki przez właściwego miejscowo komendanta wojewódzkiego Policji funkcjonariusz Policji, szczególności przypadku obecności na miejscu zdarzenia o charakterze terrorystycznym innych służb i organów; nego Żandarmerii Wojskowej żołnierz Żandarmerii Wojskowej, przypadku zdarzenia o charakterze terrorystycznym na obszarach lub obiektach należących do komórek i jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych albo administrowanych przez te komórki i jednostki organizacyjne.
 
 **Art. 19.**
 
@@ -356,7 +384,7 @@ Art. 27–58. (pominięte)
 
 7. Żołnierzom oddziałów i pododdziałów Wojsk Specjalnych użytych do pomocy oddziałom i pododdziałom Policji przysługują, zakresie niezbędnym do wykonywania ich zadań, uprawnienia funkcjonariuszy Policji określone art. 15 i art. 16 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2024 r. poz. 145, z późn. zm. ). Korzystanie z tych uprawnień następuje na zasadach i trybie określonych dla funkcjonariuszy Policji.
 
-8. Oddziały lub pododdziały Sił Zbrojnych Rzeczypospolitej Polskiej użyte do pomocy oddziałom lub pododdziałom Policji pozostają systemie dowodzenia Sił Zbrojnych Rzeczypospolitej Polskiej.
+8. Oddziały lub pododdziały Sił Zbrojnych Rzeczypospolitej Polskiej użyte do pomocy oddziałom lub pododdziałom Policji pozostają systemie dowodzenia Sił Zbrojnych Rzeczypospolitej Polskiej. Sił Zbrojnych Rzeczypospolitej Polskiej przypadku, o którym mowa ust. 1, jest:
 
 - **1)** właściwy miejscowo komendant wojewódzki Policji przypadku działań podejmowanych przez oddziały i pododdziały Policji oraz oddziały i pododdziały Sił Zbrojnych Rzeczypospolitej Polskiej na obszarze jednego województwa;
 - **2)** Komendant Główny Policji przypadku działań podejmowanych przez oddziały i pododdziały Policji oraz oddziały i pododdziały Sił Zbrojnych Rzeczypospolitej Polskiej na obszarze większym niż jedno województwo.
@@ -392,7 +420,7 @@ Art. 27–58. (pominięte)
 1. W przypadku podejrzenia lub usiłowania popełnienia albo przygotowania przestępstwa o charakterze terrorystycznym, celu wykrycia lub zatrzymania albo przymusowego doprowadzenia osoby podejrzewanej, a także celu znalezienia rzeczy mogących stanowić dowód sprawie lub podlegających zajęciu postępowaniu karnym, prokurator może postanowić o:
 
 - **1)** przeprowadzeniu przeszukania pomieszczeń i innych miejsc znajdujących się na wskazanym postanowieniu obszarze,
-- **2)** zatrzymaniu osoby podejrzewanej jeżeli istnieją uzasadnione podstawy do przypuszczenia, że osoba podejrzewana lub wymienione rzeczy na tym obszarze się znajdują.
+- **2)** zatrzymaniu osoby podejrzewanej jeżeli istnieją uzasadnione podstawy do przypuszczenia, że osoba podejrzewana lub wymienione rzeczy na tym obszarze się znajdują. postanowieniu obszarze osób, ich odzieży i podręcznych przedmiotów.
 
 3. Przeszukania i zatrzymania, o których mowa ust. 1 i 2, można dokonać o każdej porze doby.
 

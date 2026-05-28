@@ -1,0 +1,44 @@
+---
+title: "Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 2 września 2016 r. zmieniające rozporządzenie w sprawie stanowisk i wymaganych kwalifikacji urzędników sądowych i innych pracowników oraz szczegółowych zasad wynagradzania referendarzy sądowych, starszych referendarzy sądowych, asystentów sędziów, starszych asystentów sędziów, urzędników oraz innych pracowników wojewódzkich sądów administracyjnych"
+address: WDU20160001428
+eli: DU/2016/1428
+publisher: DU
+year: 2016
+pos: 1428
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Rozporządzenie Prezydenta Rzeczypospolitej Polskiejz dnia 2 września 2016 r. zmieniające rozporządzenie w sprawie stanowisk i wymaganych kwalifikacji urzędników sądowych i innych pracowników oraz szczegółowych zasad wynagradzania referendarzy sądowych, starszych referendarzy sądowych, asystentów sędziów, starszych asystentów sędziów, urzędników oraz innych pracowników wojewódzkich sądów administracyjnych
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2016 poz. 1428 |
+| ISAP | WDU20160001428 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2016-09-02 |
+| Data wydania | 2016-09-08 |
+| Wejście w życie | 2016-09-08 |
+| Ostatnia zmiana | 2024-12-18 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001428) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1428/text.pdf) |
+
+Treść rozporządzenia
+Załącznik – Tabela miesięcznych stawek wynagrodzenia zasadniczego asystentów sędziów, starszych asystentów sędziów, urzędników sądowych i innych pracowników wojewódzkich sądów administracyjnych
+Treść rozporządzenia
+Na podstawie art. 28 ustawy z dnia 25 lipca 2002 r. – Prawo o ustroju sądów administracyjnych (Dz. U. z 2016 r. poz. 1066) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Prezydenta Rzeczypospolitej Polskiej z dnia 22 marca 2011 r. w sprawie stanowisk i wymaganych kwalifikacji urzędników sądowych i innych pracowników oraz szczegółowych zasad wynagradzania referendarzy sądowych, starszych referendarzy sądowych, asystentów sędziów, starszych asystentów sędziów, urzędników oraz innych pracowników wojewódzkich sądów administracyjnych (Dz. U. poz. 384) wprowadza się następujące zmiany:
+1)
+w załączniku nr 1 do rozporządzenia – tabela A otrzymuje brzmienie:
+„
+A.
+DLA URZĘDNIKÓW SĄDOWYCH STANOWISKO KATEGORIA ZASZEREGOWANIA STAWKADODATKUFUNKCYJNEGODO WYMAGANE KWALIFIKACJE LP. WYKSZTAŁCENIE LICZBALAT PRACY 1 2 3 4 5 6 1 DYREKTOR XVIII-XXI 10 WYŻSZE 5 2 ZASTĘPCA DYREKTORA XVII-XX 9 WYŻSZE 5 3 GŁÓWNY KSIĘGOWY XVI-XX 8 WEDŁUG ODRĘBNYCH PRZEPISÓW 4 RADCA PRAWNY XVII-XIX 9 WEDŁUG ODRĘBNYCH PRZEPISÓW 5 KIEROWNIK ODDZIAŁU XV-XIX 9 WYŻSZE 5 6 AUDYTOR WEWNĘTRZNY XV-XIX 7 WEDŁUG ODRĘBNYCH PRZEPISÓW 7 PEŁNOMOCNIK DS. OCHRONY INFORMACJI NIEJAWNYCH XIV-XVIII 5 WEDŁUG ODRĘBNYCH PRZEPISÓW 8 ADMINISTRATORBEZPIECZEŃSTWAINFORMACJI XV-XIX 8 WEDŁUG ODRĘBNYCH PRZEPISÓW 9 GŁÓWNY SPECJALISTA XV-XIX 8 WYŻSZE 5 10 GŁÓWNY SPECJALISTA DS. BHP XV-XIX 8 WEDŁUG ODRĘBNYCH PRZEPISÓW 11 KIEROWNIK SEKRETARIATU WYDZIAŁU XIV-XIX 7 WYŻSZE 5 12 ZASTĘPCA GŁÓWNEGO KSIĘGOWEGO, KIEROWNIK ZESPOŁU XIV-XVIII 5 WYŻSZE 5 13 STARSZY INSPEKTORDS. BIUROWOŚCI, STARSZYINSPEKTORDS. OBRONNYCH XIV-XVIII 5 WYŻSZE 5 14 STARSZY SPECJALISTA, ZASTĘPCA KIEROWNIKA ODDZIAŁU, ZASTĘPCA KIEROWNIKA SEKRETARIATU WYDZIAŁU XIV-XVIII 4 WYŻSZE 3 15 STARSZY SPECJALISTA DS. BHP XIV-XVIII 4 WEDŁUG ODRĘBNYCH PRZEPISÓW 16 STARSZY INSPEKTOR SĄDOWY XIII-XVIII 4 WYŻSZE 5 17 ADMINISTRATOR SYSTEMU INFORMATYCZNEGO XIII-XVIII 2 WYŻSZE 3 18 KIEROWNIK ARCHIWUM XII-XVII 3 WYŻSZE ORAZKURS DLA ARCHIWISTÓW 3 19 KIEROWNIK BIURA PODAWCZEGO, KIEROWNIK KANCELARII TAJNEJ XII-XVII 3 WYŻSZE 3 20 KIEROWNIK BIBLIOTEKI XII-XVII 3 WEDŁUG ODRĘBNYCH PRZEPISÓW 21 SPECJALISTA XII-XVII 2 WYŻSZE 3 22 SPECJALISTA DS. BHP XII-XVII 2 WEDŁUG ODRĘBNYCH PRZEPISÓW 23 KIEROWNIK SEKCJI XI-XVI 2 WYŻSZE 1 24 STARSZY SEKRETARZ SĄDOWY, INFORMATYK XI-XV – WYŻSZE 1 25 ARCHIWISTA XI-XV " ŚREDNIE ORAZKURS DLA ARCHIWISTÓW 2 26 BIBLIOTEKARZ XI-XV – WEDŁUG ODRĘBNYCH PRZEPISÓW 27 SEKRETARZ SĄDOWY IX-XIV – ŚREDNIE 2 28 STARSZY KSIĘGOWY VIII-XIV – ŚREDNIE 2 29 KSIĘGOWY, INSPEKTOR VIII-XIII – ŚREDNIE 2 30 INSPEKTOR DS. OCHRONY PRZECIWPOŻAROWEJ VIII-XIII – WEDŁUG ODRĘBNYCH PRZEPISÓW 31 STARSZY REFERENT, POMOCNIK SEKRETARZA VII-XIII – ŚREDNIE 1 32 MŁODSZY KSIĘGOWY, REFERENT VI-XI – ŚREDNIE 1 33 REFERENT STAŻYSTA III-VI I-IV – WYŻSZE ŚREDNIE -”
+2)
+załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia. § 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+Załącznik – Tabela miesięcznych stawek wynagrodzenia zasadniczego asystentów sędziów, starszych asystentów sędziów, urzędników sądowych i innych pracowników wojewódzkich sądów administracyjnych
+KATEGORIA ZASZEREGOWANIA KWOTA W ZŁOTYCH I 1480–2200 II 1530–2310 III 1580–2420 IV 1630–2530 V 1680–2640 VI 1730–2880 VII 1780–2990 VIII 1830–3110 IX 1880–3220 X 1930–3330 XI 1980–3570 XII 2030–3740 XIII 2080–3920 XIV 2180–4200 XV 2280–4440 XVI 2430–4800 XVII 2630–5280 XVIII 2880–5900 XIX 3180–6400 XX 3480–7380 XXI 3880–8610
+

@@ -1,0 +1,508 @@
+---
+title: "Ustawa z dnia 9 kwietnia 2015 r. o zmianie ustawy - Prawo o postępowaniu przed sądami administracyjnymi"
+address: WDU20150000658
+eli: DU/2015/658
+publisher: DU
+year: 2015
+pos: 658
+act_type: Ustawa
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Ustawa z dnia 9 kwietnia 2015 r. o zmianie ustawy – Prawo o postępowaniu przed sądami administracyjnymi
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2015 poz. 658 |
+| ISAP | WDU20150000658 |
+| Typ aktu | Ustawa |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2015-04-09 |
+| Data wydania | 2015-05-14 |
+| Wejście w życie | 2015-08-15 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000658) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/658/text.pdf) |
+
+**Art. 1.** W ustawie z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2012 r. poz. 270, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 3 w § 2: pkt 3 i 4 otrzymują brzmienie: „
+    - **a)**
+
+- **3)** postanowienia wydane w postępowaniu egzekucyjnym i zabezpieczającym, na które służy zażalenie, z wyłączeniem postanowień wierzyciela o niedopuszczalności zgłoszonego zarzutu oraz postanowień, przedmiotem których jest stanowisko wierzyciela w sprawie zgłoszonego zarzutu;
+- **4)** inne niż określone w pkt 1–3 akty lub czynności z zakresu administracji publicznej dotyczące uprawnień lub obowiązków wynikających z przepisów prawa, z wyłączeniem aktów lub czynności podjętych w ramach postępowania administracyjnego określonego w ustawie z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2013 r. poz. 267, z późn. zm.) oraz postępowań określonych w działach IV, V i VI ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613) oraz postępowań, do których mają zastosowanie przepisy powołanych ustaw; ” , pkt 8 otrzymuje brzmienie: „
+    - **b)**
+
+- **8)** bezczynność lub przewlekłe prowadzenie postępowania w przypadkach określonych w pkt 1–4 lub przewlekłe prowadzenie postępowania w przypadku określonym w pkt 4a; ” , dodaje się pkt 9 w brzmieniu: „
+    - **c)**
+
+- **9)** bezczynność lub przewlekłe prowadzenie postępowania w sprawach dotyczących innych niż określone w pkt 1–3 aktów lub czynności z zakresu administracji publicznej dotyczących uprawnień lub obowiązków wynikających z przepisów prawa podjętych w ramach postępowania administracyjnego określonego w ustawie z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego oraz postępowań określonych w działach IV, V i VI ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa oraz postępowań, do których mają zastosowanie przepisy powołanych ustaw. ” ;
+- **2)** art. 6 otrzymuje brzmienie: „
+
+**Art. 6.** Sąd administracyjny w razie uzasadnionej potrzeby udziela stronom występującym w sprawie bez adwokata, radcy prawnego, doradcy podatkowego lub rzecznika patentowego niezbędnych pouczeń co do czynności procesowych i skutków ich zaniedbań. ” ;
+
+- **3)** w art. 15 § 2 otrzymuje brzmienie: „
+
+§ 2. Do rozstrzygania sporów, o których mowa w art. 4, oraz do rozpoznawania innych spraw należących do właściwości Naczelnego Sądu Administracyjnego na mocy odrębnych ustaw stosuje się odpowiednio przepisy o postępowaniu przed wojewódzkim sądem administracyjnym. Spory, o których mowa w art. 4, Naczelny Sąd Administracyjny rozstrzyga na wniosek postanowieniem przez wskazanie organu właściwego do rozpoznania sprawy. Postanowienie wydaje sąd w składzie trzech sędziów na posiedzeniu niejawnym. ” ;
+
+- **4)** w art. 18 w § 1 pkt 6a otrzymuje brzmienie: „
+- **6a)** dotyczących skargi na decyzję lub postanowienie rozstrzygające sprawę co do istoty wydanych w postępowaniu administracyjnym nadzwyczajnym, jeżeli w prowadzonym wcześniej postępowaniu sądowoadministracyjnym dotyczącym kontroli legalności decyzji albo postanowienia wydanych w postępowaniu administracyjnym zwyczajnym, brał udział w wydaniu wyroku lub postanowienia kończącego postępowanie w sprawie; ” ;
+- **5)** w art. 20 dodaje się § 4 w brzmieniu: „
+
+§ 4. Wniosek o wyłączenie sądu jest niedopuszczalny i podlega odrzuceniu na posiedzeniu niejawnym. ” ;
+
+- **6)** w art. 22 dodaje się § 4 w brzmieniu: „
+
+§ 4. Ponowny wniosek o wyłączenie sędziego niezawierający podstaw wyłączenia albo oparty na tych samych okolicznościach, podlega odrzuceniu bez składania wyjaśnień przez sędziego, którego dotyczy. Postanowienie wydaje sąd w składzie trzech sędziów, na posiedzeniu niejawnym. ” ;
+
+- **7)** w art. 25 § 1 otrzymuje brzmienie: „
+
+§ 1. Osoba fizyczna, osoba prawna lub organ administracji publicznej mają zdolność występowania przed sądem administracyjnym jako strona (zdolność sądowa). ” ;
+
+- **8)** w art. 30 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu: „
+
+§ 2. Postanowienie, o którym mowa w § 1, może wydać referendarz sądowy. ” ;
+
+- **9)** w art. 33: po § 1 dodaje się § 1a i 1b w brzmieniu: „
+    - **a)**
+
+§ 1a. Jeżeli przepis szczególny przewiduje, że strony postępowania przed organem administracji publicznej są zawiadamiane o aktach lub innych czynnościach tego organu przez obwieszczenie lub w inny sposób publicznego ogłaszania, osoba, która brała udział w postępowaniu i nie wniosła skargi, a wynik postępowania sądowego dotyczy jej interesu prawnego, jest uczestnikiem tego postępowania na prawach strony, jeżeli przed rozpoczęciem rozprawy złoży wniosek o przystąpienie do postępowania.
+
+§ 1b. Jeżeli wynik postępowania sądowego nie dotyczy interesu prawnego osób, o których mowa w § 1 i 1a, a żądają one dopuszczenia do udziału w postępowaniu, sąd wydaje na posiedzeniu niejawnym postanowienie o odmowie dopuszczenia do udziału w sprawie. Na postanowienie przysługuje zażalenie. ” , § 2 otrzymuje brzmienie: „
+
+- **b)**
+
+§ 2. Udział w charakterze uczestnika może zgłosić również osoba, która nie brała udziału w postępowaniu administracyjnym, jeżeli wynik tego postępowania dotyczy jej interesu prawnego, a także organizacja społeczna, o której mowa w art. 25 § 4, w sprawach innych osób, jeżeli sprawa dotyczy zakresu jej statutowej działalności. Postanowienie sąd wydaje na posiedzeniu niejawnym. Na postanowienie o odmowie dopuszczenia do udziału w sprawie przysługuje zażalenie. ” ;
+
+- **10)** w art. 35: § 1 otrzymuje brzmienie: „
+    - **a)**
+
+§ 1. Pełnomocnikiem strony może być adwokat lub radca prawny, a ponadto inny skarżący lub uczestnik postępowania, jak również małżonek, rodzeństwo, wstępni lub zstępni strony oraz osoby pozostające ze stroną w stosunku przysposobienia, a także inne osoby, jeżeli przewidują to przepisy szczególne. ” , dodaje się § 4 w brzmieniu: „
+
+- **b)**
+
+§ 4. Pełnomocnikiem organu, którego działanie, bezczynność lub przewlekłe prowadzenie postępowania są przedmiotem skargi, może być także funkcjonariusz lub pracownik kierowanej przez ten organ jednostki organizacyjnej. ” ;
+
+- **11)** w art. 42 § 2 otrzymuje brzmienie: „
+
+§ 2. Adwokat, radca prawny, doradca podatkowy lub rzecznik patentowy, który wypowiedział pełnomocnictwo, jest obowiązany działać za stronę jeszcze przez dwa tygodnie, chyba że mocodawca zwolni go od tego obowiązku. Każdy inny pełnomocnik powinien, mimo wypowiedzenia, działać za mocodawcę przez ten sam czas, jeżeli jest to konieczne do uchronienia mocodawcy od niekorzystnych skutków prawnych. ” ;
+
+- **12)** w art. 46 § 3 otrzymuje brzmienie: „
+
+§ 3. Do pisma należy dołączyć pełnomocnictwo lub jego wierzytelny odpis, jeżeli pismo wnosi pełnomocnik, który w danej sprawie nie złożył jeszcze tych dokumentów przed sądem. ” ;
+
+- **13)** w art. 48 w § 2 skreśla się wyrazy „(Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.21))” oraz wyrazy „(Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.22))”;
+- **14)** w art. 49 dodaje się § 4 w brzmieniu: „
+
+§ 4. Czynności, o których mowa w § 1 i 2, może wykonywać referendarz sądowy. ” ;
+
+- **15)** w art. 52 § 3 otrzymuje brzmienie: „
+
+§ 3. Jeżeli ustawa nie przewiduje środków zaskarżenia w sprawie będącej przedmiotem skargi, skargę na akty lub czynności, o których mowa w art. 3 § 2 pkt 4 i 4a, można wnieść po uprzednim wezwaniu na piśmie właściwego organu – w terminie czternastu dni od dnia, w którym skarżący dowiedział się lub mógł się dowiedzieć o wydaniu aktu lub podjęciu innej czynności – do usunięcia naruszenia prawa. Sąd, po wniesieniu skargi, może uznać, że uchybienie tego terminu nastąpiło bez winy skarżącego i rozpoznać skargę. ” ;
+
+- **16)** w art. 54: § 2 i 3 otrzymują brzmienie: „
+    - **a)**
+
+§ 2. Organ, o którym mowa w § 1, przekazuje skargę sądowi wraz z kompletnymi i uporządkowanymi aktami sprawy i odpowiedzią na skargę w terminie trzydziestu dni od dnia jej otrzymania.
+
+§ 3. Organ, którego działanie, bezczynność lub przewlekłe prowadzenie postępowania zaskarżono, może w zakresie swojej właściwości uwzględnić skargę w całości w terminie trzydziestu dni od dnia jej otrzymania. Uwzględniając skargę, organ stwierdza jednocześnie, czy działanie, bezczynność lub przewlekłe prowadzenie postępowania miały miejsce bez podstawy prawnej albo z rażącym naruszeniem prawa. Przepis § 2 stosuje się odpowiednio. ” , dodaje się § 4 w brzmieniu: „
+
+- **b)**
+
+§ 4. W przypadku, o którym mowa w art. 33 § 1a, organ zawiadamia o przekazaniu skargi wraz z odpowiedzią na skargę przez obwieszczenie w siedzibie organu i na jego stronie internetowej oraz w sposób zwyczajowo przyjęty w danej miejscowości, pouczając o treści tego przepisu. ” ;
+
+- **17)** w art. 57 w § 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+- **4)** w przypadkach, o których mowa w art. 52 § 3 i 4, dowód, że skarżący wezwał właściwy organ do usunięcia naruszenia prawa. ” ;
+- **18)** po art. 57 dodaje się art. 57a w brzmieniu: „
+
+**Art. 57a.** Skarga na pisemną interpretację przepisów prawa podatkowego wydaną w indywidualnej sprawie może być oparta wyłącznie na zarzucie naruszenia przepisów postępowania, dopuszczeniu się błędu wykładni lub niewłaściwej oceny co do zastosowania przepisu prawa materialnego. Sąd administracyjny jest związany zarzutami skargi oraz powołaną podstawą prawną. ” ;
+
+- **19)** w art. 58 w § 1 po pkt 5 dodaje się pkt 5a w brzmieniu: „
+- **5a)** jeżeli interes prawny lub uprawnienie wnoszącego skargę na uchwałę lub akt, o którym mowa w art. 3 § 2 pkt 5 i 6, nie zostały naruszone stosownie do wymagań przepisu szczególnego; ” ;
+- **20)** w art. 61 § 6 otrzymuje brzmienie: „
+
+§ 6. Wstrzymanie wykonania aktu lub czynności traci moc z dniem:
+
+- **1)** wydania przez sąd orzeczenia uwzględniającego skargę;
+- **2)** uprawomocnienia się orzeczenia oddalającego skargę. ” ;
+- **21)** w art. 66: § 1 otrzymuje brzmienie: „
+    - **a)**
+
+§ 1. W toku sprawy adwokaci, radcy prawni, doradcy podatkowi i rzecznicy patentowi doręczają sobie nawzajem pisma bezpośrednio za potwierdzeniem odbioru i oznaczeniem daty lub przesyłką poleconą. W treści pisma procesowego wniesionego do sądu zamieszcza się oświadczenie o doręczeniu odpisu pisma drugiej stronie albo o jego nadaniu przesyłką poleconą. Pisma niezawierające powyższego oświadczenia podlegają zwrotowi bez wzywania do usunięcia tego braku. ” , dodaje się § 3 w brzmieniu: „
+
+- **b)**
+
+§ 3. Przepis § 1 nie dotyczy wniesienia skargi, skargi kasacyjnej, zażalenia, sprzeciwu, skargi o wznowienie postępowania i skargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia. ” ;
+
+- **22)** w art. 72 § 1 otrzymuje brzmienie: „
+
+§ 1. Jeżeli doręczający nie zastanie adresata w mieszkaniu, może doręczyć pismo dorosłemu domownikowi, a gdyby go nie było – zarządcy domu lub dozorcy, jeżeli nie mają oni sprzecznych interesów w sprawie i podjęli się oddania mu pisma. ” ;
+
+- **23)** w art. 79: § 1 otrzymuje brzmienie: „
+    - **a)**
+
+§ 1. Sąd ustanowi kuratora, jeżeli wnioskodawca uprawdopodobni, że miejsce pobytu strony nie jest znane. Postanowienie sąd wydaje na posiedzeniu niejawnym. ” , dodaje się § 4 w brzmieniu: „
+
+- **b)**
+
+§ 4. Czynności, o których mowa w § 1–3, może wykonywać referendarz sądowy. ” ;
+
+- **24)** w art. 83 § 4 otrzymuje brzmienie: „
+
+§ 4. To samo dotyczy złożenia pisma przez żołnierza w dowództwie jednostki wojskowej albo przez osobę pozbawioną wolności w administracji zakładu karnego lub aresztu śledczego oraz przez członka załogi polskiego statku morskiego u kapitana statku. ” ;
+
+- **25)** art. 104 otrzymuje brzmienie: „
+
+**Art. 104.** W toku posiedzenia wnioski, oświadczenia, uzupełnienia i sprostowania wniosków i oświadczeń można zamieścić w załączniku do protokołu. Gdy stronę zastępuje adwokat, radca prawny, doradca podatkowy lub rzecznik patentowy, przewodniczący może zażądać złożenia takiego załącznika w wyznaczonym terminie. ” ;
+
+- **26)** art. 112 otrzymuje brzmienie: „
+
+**Art. 112.** W razie uchylania się organu od zastosowania się do postanowienia sądu lub zarządzenia przewodniczącego podjętych w toku postępowania i w związku z rozpoznaniem sprawy, sąd może orzec o wymierzeniu organowi grzywny w wysokości określonej w art. 154 § 6. Postanowienie może być wydane na posiedzeniu niejawnym. Przepis art. 55 § 3 stosuje się odpowiednio. ” ;
+
+- **27)** w art. 119 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 i 4 w brzmieniu: „
+- **3)** przedmiotem skargi jest postanowienie wydane w postępowaniu administracyjnym, na które służy zażalenie albo kończące postępowanie, a także postanowienie rozstrzygające sprawę co do istoty oraz postanowienia wydane w postępowaniu egzekucyjnym i zabezpieczającym, na które służy zażalenie;
+- **4)** przedmiotem skargi jest bezczynność lub przewlekłe prowadzenie postępowania. ” ;
+- **28)** art. 120 otrzymuje brzmienie: „
+
+**Art. 120.** W trybie uproszczonym sąd rozpoznaje sprawy na posiedzeniu niejawnym w składzie trzech sędziów. ” ;
+
+- **29)** w art. 125 w § 1 pkt 1 otrzymuje brzmienie: „
+- **1)** jeżeli rozstrzygnięcie sprawy zależy od wyniku innego toczącego się postępowania administracyjnego, sądowoadministracyjnego, sądowego, przed Trybunałem Konstytucyjnym lub Trybunałem Sprawiedliwości Unii Europejskiej; ” ;
+- **30)** w art. 128 § 2 otrzymuje brzmienie: „
+
+§ 2. Jeżeli w ciągu roku od dnia wydania postanowienia o zawieszeniu postępowania nie zgłoszą się lub nie zostaną wskazani następcy prawni zmarłej strony, sąd może z urzędu zwrócić się do sądu spadku o ustanowienie kuratora spadku, chyba że kurator taki już wcześniej został ustanowiony. Czynność tę może wykonać referendarz sądowy. ” ;
+
+- **31)** w art. 130 § 1 otrzymuje brzmienie: „
+
+§ 1. Sąd umarza zawieszone postępowanie:
+
+- **1)** jeżeli wniosek o podjęcie postępowania zawieszonego na zgodny wniosek stron albo z przyczyn wskazanych w art. 125 § 1 pkt 3, nie został zgłoszony w ciągu trzech lat od dnia wydania postanowienia o zawieszeniu;
+- **2)** w razie stwierdzenia braku następcy prawnego strony, która utraciła zdolność sądową, a w każdym razie po upływie trzech lat od dnia wydania postanowienia o zawieszeniu z tej przyczyny;
+- **3)** w razie śmierci strony, po upływie pięciu lat od dnia wydania postanowienia o zawieszeniu postępowania z tej przyczyny. ” ;
+- **32)** art. 131 otrzymuje brzmienie: „
+
+**Art. 131.** Postanowienie w przedmiocie zawieszenia, podjęcia i umorzenia postępowania może zapaść na posiedzeniu niejawnym. Na postanowienie o zawieszeniu postępowania i o odmowie podjęcia postępowania przysługuje zażalenie. ” ;
+
+- **33)** w art. 134 § 1 otrzymuje brzmienie: „
+
+§ 1. Sąd rozstrzyga w granicach danej sprawy nie będąc jednak związany zarzutami i wnioskami skargi oraz powołaną podstawą prawną, z zastrzeżeniem art. 57a. ” ;
+
+- **34)** w art. 139 dodaje się § 5 w brzmieniu: „
+
+§ 5. Wyrok wydany na posiedzeniu niejawnym, podlega niezwłocznie publicznemu udostępnieniu w sekretariacie sądu, przez okres czternastu dni. ” ;
+
+- **35)** art. 140 otrzymuje brzmienie: „
+
+**Art. 140.**
+
+§ 1. Stronie działającej bez adwokata, radcy prawnego, doradcy podatkowego lub rzecznika patentowego obecnej przy ogłoszeniu wyroku, przewodniczący udziela wskazówek co do terminu i sposobu wniesienia środka odwoławczego.
+
+§ 2. Stronie działającej bez adwokata, radcy prawnego, doradcy podatkowego lub rzecznika patentowego, która na skutek pozbawienia wolności była nieobecna przy ogłoszeniu wyroku, sąd z urzędu w ciągu tygodnia od ogłoszenia wyroku doręcza odpis jego sentencji z pouczeniem o terminie i sposobie wniesienia środka odwoławczego.
+
+§ 3. Jeżeli sąd doręcza odpis sentencji wyroku wydanego na posiedzeniu niejawnym stronie działającej bez adwokata, radcy prawnego, doradcy podatkowego lub rzecznika patentowego poucza ją o terminie i sposobie wniesienia środka odwoławczego. ” ;
+
+- **36)** w art. 141: § 1 otrzymuje brzmienie: „
+    - **a)**
+
+§ 1. Uzasadnienie wyroku sporządza się z urzędu w terminie czternastu dni od dnia ogłoszenia wyroku albo podpisania sentencji wyroku wydanego na posiedzeniu niejawnym. ” , po § 2 dodaje się § 2a w brzmieniu: „
+
+- **b)**
+
+§ 2a. W sprawie zawiłej, w razie niemożności sporządzenia uzasadnienia w terminie, o którym mowa w § 1 i 2, prezes sądu może przedłużyć ten termin na czas oznaczony, nie dłuższy niż trzydzieści dni. ” ;
+
+- **37)** w art. 145 dodaje się § 3 w brzmieniu: „
+
+§ 3. W przypadku, o którym mowa w § 1 pkt 1 i 2, sąd stwierdzając podstawę do umorzenia postępowania administracyjnego, umarza jednocześnie to postępowanie. ” ;
+
+- **38)** po art. 145 dodaje się art. 145a w brzmieniu: „
+
+**Art. 145a.**
+
+§ 1. W przypadku, o którym mowa w art. 145 § 1 pkt 1 lit. a lub pkt 2, jeżeli jest to uzasadnione okolicznościami sprawy, sąd zobowiązuje organ do wydania w określonym terminie decyzji lub postanowienia wskazując sposób załatwienia sprawy lub jej rozstrzygnięcie, chyba że rozstrzygnięcie pozostawiono uznaniu organu.
+
+§ 2. O wydaniu decyzji lub postanowienia, o których mowa w § 1, właściwy organ zawiadamia sąd w terminie siedmiu dni od dnia ich wydania. W przypadku niezawiadomienia sądu, może on orzec o wymierzeniu organowi grzywny w wysokości określonej w art. 154 § 6. Postanowienie może być wydane na posiedzeniu niejawnym.
+
+§ 3. W przypadku niewydania decyzji lub postanowienia, o których mowa w § 1, w określonym przez sąd terminie, strona może wnieść skargę, żądając wydania orzeczenia stwierdzającego istnienie albo nieistnienie uprawnienia lub obowiązku. Sąd wyda orzeczenie w tym przedmiocie, jeżeli pozwalają na to okoliczności sprawy. W wyniku rozpoznania skargi sąd stwierdza czy niewydanie decyzji lub postanowienia miało miejsce z rażącym naruszeniem prawa i może ponadto z urzędu albo na wniosek strony wymierzyć organowi grzywnę w wysokości określonej w art. 154 § 6 lub przyznać od organu na rzecz skarżącego sumę pieniężną do wysokości połowy kwoty określonej w art. 154 § 6. ” ;
+
+- **39)** art. 146 otrzymuje brzmienie: „
+
+**Art. 146.**
+
+§ 1. Sąd, uwzględniając skargę na akt lub czynność, o których mowa w art. 3 § 2 pkt 4 i 4a, uchyla ten akt lub interpretację albo stwierdza bezskuteczność czynności. Przepis art. 145 § 1 pkt 1 stosuje się odpowiednio.
+
+§ 2. W sprawach skarg na akt lub czynność, o których mowa w art. 3 § 2 pkt 4, sąd może w wyroku uznać uprawnienie lub obowiązek wynikające z przepisów prawa. ” ;
+
+- **40)** w art. 149: § 1 otrzymuje brzmienie: „
+    - **a)**
+
+§ 1. Sąd, uwzględniając skargę na bezczynność lub przewlekłe prowadzenie postępowania przez organy w sprawach określonych w art. 3 § 2 pkt 1–4 albo na przewlekłe prowadzenie postępowania w sprawach określonych w art. 3 § 2 pkt 4a:
+
+- **1)** zobowiązuje organ do wydania w określonym terminie aktu, interpretacji albo do dokonania czynności;
+- **2)** zobowiązuje organ do stwierdzenia albo uznania uprawnienia lub obowiązku wynikających z przepisów prawa;
+- **3)** stwierdza, że organ dopuścił się bezczynności lub przewlekłego prowadzenia postępowania. ” , po § 1 dodaje się § 1a i 1b w brzmieniu: „
+    - **b)**
+
+§ 1a. Jednocześnie sąd stwierdza, czy bezczynność organu lub przewlekłe prowadzenie postępowania przez organ miały miejsce z rażącym naruszeniem prawa.
+
+§ 1b. Sąd, w przypadku, o którym mowa w § 1 pkt 1 i 2, może ponadto orzec o istnieniu lub nieistnieniu uprawnienia lub obowiązku, jeżeli pozwala na to charakter sprawy oraz niebudzące uzasadnionych wątpliwości okoliczności jej stanu faktycznego i prawnego. ” , § 2 otrzymuje brzmienie: „
+
+- **c)**
+
+§ 2. Sąd, w przypadku, o którym mowa w § 1, może ponadto orzec z urzędu albo na wniosek strony o wymierzeniu organowi grzywny w wysokości określonej w art. 154 § 6 lub przyznać od organu na rzecz skarżącego sumę pieniężną do wysokości połowy kwoty określonej w art. 154 § 6. ” ;
+
+- **41)** art. 151–153 otrzymują brzmienie: „
+
+**Art. 151.** W razie nieuwzględnienia skargi w całości albo w części sąd oddala skargę odpowiednio w całości albo w części.
+
+**Art. 152.**
+
+§ 1. W razie uwzględnienia skargi na akt lub czynność, nie wywołują one skutków prawnych do chwili uprawomocnienia się wyroku, chyba że sąd postanowi inaczej.
+
+§ 2. Przepisu § 1 nie stosuje się do aktów prawa miejscowego.
+
+**Art. 153.** Ocena prawna i wskazania co do dalszego postępowania wyrażone w orzeczeniu sądu wiążą w sprawie organy, których działanie, bezczynność lub przewlekłe prowadzenie postępowania było przedmiotem zaskarżenia, a także sądy, chyba że przepisy prawa uległy zmianie. ” ;
+
+- **42)** w art. 154: § 1 otrzymuje brzmienie: „
+    - **a)**
+
+§ 1. W razie niewykonania wyroku uwzględniającego skargę na bezczynność lub przewlekłe prowadzenie postępowania strona, po uprzednim pisemnym wezwaniu właściwego organu do wykonania wyroku lub załatwienia sprawy, może wnieść skargę w tym przedmiocie, żądając wymierzenia temu organowi grzywny. ” , dodaje się § 7 w brzmieniu: „
+
+- **b)**
+
+§ 7. Uwzględniając skargę sąd może przyznać od organu na rzecz skarżącego sumę pieniężną do wysokości połowy kwoty określonej w art. 154 § 6. ” ;
+
+- **43)** w art. 155 dodaje się § 3 w brzmieniu: „
+
+§ 3. W razie niezastosowania się do obowiązków, o których mowa w § 2, sąd może orzec o wymierzeniu organowi grzywny w wysokości określonej w art. 154 § 6. Postanowienie wydaje się na posiedzeniu niejawnym. ” ;
+
+- **44)** w art. 157 po § 1 dodaje się § 1a w brzmieniu: „
+
+§ 1a. Wniosek, o którym mowa w § 1, zgłoszony po upływie terminu, podlega odrzuceniu. Sąd może wydać postanowienie na posiedzeniu niejawnym. ” ;
+
+- **45)** w art. 163 § 2 otrzymuje brzmienie: „
+
+§ 2. Postanowienia wydane na posiedzeniu niejawnym sąd doręcza z urzędu stronom. Gdy stronie przysługuje środek zaskarżenia, postanowienie należy doręczyć z uzasadnieniem. Doręczając postanowienie należy pouczyć stronę występującą w sprawie bez adwokata, radcy prawnego, doradcy podatkowego lub rzecznika patentowego o dopuszczalności, terminie i sposobie wniesienia środka odwoławczego. ” ;
+
+- **46)** w dziale III w rozdziale 10 po art. 167 dodaje się art. 167a w brzmieniu: „
+
+**Art. 167a.**
+
+§ 1. Do zarządzeń oraz postanowień referendarza sądowego stosuje się odpowiednio przepisy dotyczące zarządzeń przewodniczącego oraz postanowień sądu.
+
+§ 2. Od zarządzeń i postanowień referendarza sądowego, o których mowa w art. 30 § 1, art. 49 § 2 oraz art. 234 § 2, przysługuje sprzeciw. Sprzeciw rozpoznaje sąd, w którym wydano zaskarżone orzeczenie.
+
+§ 3. W razie wniesienia sprzeciwu zarządzenie lub postanowienie, przeciwko któremu został on wniesiony, traci moc.
+
+§ 4. Sprzeciw wnosi się do sądu w terminie siedmiu dni od dnia doręczenia stronie zarządzenia lub postanowienia referendarza sądowego, chyba że przepis szczególny stanowi inaczej.
+
+§ 5. Sprzeciw wniesiony po upływie terminu sąd odrzuca.
+
+§ 6. Sąd rozpoznaje sprawę jako sąd pierwszej instancji, chyba że przepis szczególny stanowi inaczej. ” ;
+
+- **47)** art. 169 otrzymuje brzmienie: „
+
+**Art. 169.**
+
+§ 1. Prawomocność orzeczenia stwierdza na wniosek strony oraz w przypadku, o którym mowa w art. 286 § 1, wojewódzki sąd administracyjny na posiedzeniu niejawnym. Postanowienie doręcza się tylko stronie, która złożyła wniosek.
+
+§ 2. Postanowienie stwierdzające prawomocność orzeczenia wojewódzkiego sądu administracyjnego może wydać referendarz sądowy. ” ;
+
+- **48)** w art. 173 § 1 otrzymuje brzmienie: „
+
+§ 1. Od wydanego przez wojewódzki sąd administracyjny wyroku lub postanowienia kończącego postępowanie w sprawie, z wyłączeniem przypadków, o których mowa w art. 58 § 1 pkt 2–4, art. 161 § 1 oraz art. 220 § 3, przysługuje skarga kasacyjna do Naczelnego Sądu Administracyjnego. ” ;
+
+- **49)** art. 176 otrzymuje brzmienie: „
+
+**Art. 176.**
+
+§ 1. Skarga kasacyjna powinna zawierać:
+
+- **1)** oznaczenie zaskarżonego orzeczenia ze wskazaniem czy jest ono zaskarżone w całości, czy w części;
+- **2)** przytoczenie podstaw kasacyjnych i ich uzasadnienie;
+- **3)** wniosek o uchylenie lub zmianę orzeczenia z oznaczeniem zakresu żądanego uchylenia lub zmiany.
+
+§ 2. Poza wymaganiami, o których mowa w § 1, skarga kasacyjna powinna czynić zadość wymaganiom przewidzianym dla pisma strony oraz zawierać wniosek o jej rozpoznanie na rozprawie albo oświadczenie o zrzeczeniu się rozprawy. ” ;
+
+- **50)** w art. 177 dodaje się § 3–6 w brzmieniu: „
+
+§ 3. W razie ustanowienia w ramach prawa pomocy adwokata, radcy prawnego, doradcy podatkowego lub rzecznika patentowego po wydaniu orzeczenia, na wniosek złożony przez stronę, której doręcza się odpis orzeczenia z uzasadnieniem sporządzonym z urzędu, albo przez stronę, która zgłosiła wniosek o sporządzenie uzasadnienia orzeczenia, termin do wniesienia skargi kasacyjnej biegnie od dnia zawiadomienia pełnomocnika o jego wyznaczeniu, jednak nie wcześniej niż od dnia doręczenia stronie odpisu orzeczenia z uzasadnieniem.
+
+§ 4. Jeżeli pełnomocnik wyznaczony na podstawie art. 253 § 2 nie stwierdza podstaw do wniesienia skargi kasacyjnej, składa w sądzie, w terminie do wniesienia skargi kasacyjnej, sporządzoną przez siebie opinię w tym przedmiocie wraz z odpisem dla strony, dla której został ustanowiony. Sąd doręcza odpis opinii stronie. Termin do wniesienia skargi kasacyjnej przez stronę biegnie od dnia doręczenia odpisu opinii, o czym sąd poucza stronę, dokonując doręczenia.
+
+§ 5. Przepisu § 4 zdanie trzecie nie stosuje się, jeżeli sąd stwierdzi, że opinia nie została sporządzona z zachowaniem zasad należytej staranności. W takim przypadku sąd zawiadamia o tym właściwą okręgową radę adwokacką, radę okręgowej izby radców prawnych, Krajową Radę Doradców Podatkowych lub Krajową Radę Rzeczników Patentowych, która wyznacza innego pełnomocnika.
+
+§ 6. W przypadku odmowy przyznania prawa pomocy w zakresie obejmującym ustanowienie adwokata, radcy prawnego, doradcy podatkowego lub rzecznika patentowego na wniosek, o którym mowa w § 3, bieg terminu do wniesienia skargi kasacyjnej nie może rozpocząć się wcześniej niż od dnia doręczenia stronie postanowienia, a jeżeli strona wniesie środek zaskarżenia na to postanowienie – wcześniej niż od dnia doręczenia postanowienia kończącego postępowanie w tym przedmiocie. ” ;
+
+- **51)** po art. 178 dodaje się art. 178a w brzmieniu: „
+
+**Art. 178a.** Wojewódzki sąd administracyjny umorzy na posiedzeniu niejawnym postępowanie kasacyjne, jeżeli strona skutecznie cofnęła skargę kasacyjną przed jej przedstawieniem wraz z aktami sprawy Naczelnemu Sądowi Administracyjnemu. Na postanowienie przysługuje zażalenie. ” ;
+
+- **52)** po art. 179 dodaje się art. 179a w brzmieniu: „
+
+**Art. 179a.** Jeżeli przed przedstawieniem skargi kasacyjnej Naczelnemu Sądowi Administracyjnemu wojewódzki sąd administracyjny stwierdzi, że w sprawie zachodzi nieważność postępowania albo podstawy skargi kasacyjnej są oczywiście usprawiedliwione, uchyla zaskarżony wyrok lub postanowienie rozstrzygając na wniosek strony także o zwrocie kosztów postępowania kasacyjnego i na tym samym posiedzeniu ponownie rozpoznaje sprawę. Od wydanego orzeczenia przysługuje skarga kasacyjna. ” ;
+
+- **53)** w art. 181 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu: „
+
+§ 2. Naczelny Sąd Administracyjny, rozpoznając skargę kasacyjną od wyroku, wydaje wyrok, a rozpoznając skargę kasacyjną od postanowienia – wydaje postanowienie. ” ;
+
+- **54)** art. 182 otrzymuje brzmienie: „
+
+**Art. 182.**
+
+§ 1. Naczelny Sąd Administracyjny może rozpoznać na posiedzeniu niejawnym skargę kasacyjną od postanowienia wojewódzkiego sądu administracyjnego kończącego postępowanie w sprawie.
+
+§ 2. Naczelny Sąd Administracyjny rozpoznaje skargę kasacyjną na posiedzeniu niejawnym, gdy strona, która ją wniosła, zrzekła się rozprawy, a pozostałe strony, w terminie czternastu dni od dnia doręczenia skargi kasacyjnej, nie zażądały przeprowadzenia rozprawy.
+
+§ 3. Na posiedzeniu niejawnym Naczelny Sąd Administracyjny orzeka w składzie jednego sędziego, a w przypadkach, o których mowa w § 2, w składzie trzech sędziów. ” ;
+
+- **55)** art. 188 otrzymuje brzmienie: „
+
+**Art. 188.** Naczelny Sąd Administracyjny w razie uwzględnienia skargi kasacyjnej, uchylając zaskarżone orzeczenie, rozpoznaje skargę, jeżeli uzna, że istota sprawy jest dostatecznie wyjaśniona. ” ;
+
+- **56)** art. 193 otrzymuje brzmienie: „
+
+**Art. 193.** Jeżeli nie ma szczególnych przepisów postępowania przed Naczelnym Sądem Administracyjnym, do postępowania tego stosuje się odpowiednio przepisy postępowania przed wojewódzkim sądem administracyjnym, z tym że Naczelny Sąd Administracyjny uzasadnia z urzędu wyroki i postanowienia w terminie trzydziestu dni. Uzasadnienie wyroku oddalającego skargę kasacyjną zawiera ocenę zarzutów skargi kasacyjnej. ” ;
+
+- **57)** w art. 194 w § 1: po pkt 1 dodaje się pkt 1a i 1b w brzmieniu: „
+    - **a)**
+
+- **1a)** odrzucenie skargi w przypadkach, o których mowa w art. 58 § 1 pkt 2–4 oraz art. 220 § 3;
+- **1b)** umorzenie postępowania; ” , uchyla się pkt 3, po pkt 5 dodaje się pkt 5a w brzmieniu: „
+    - **b)**
+    - **c)**
+
+- **5a)** odrzucenie wniosku o uzupełnienie wyroku albo odmowa jego uwzględnienia; ” ;
+- **58)** w art. 195 dodaje się § 3 w brzmieniu: „
+
+§ 3. Jeżeli postępowanie zażaleniowe stało się bezprzedmiotowe przed przedstawieniem zażalenia wraz z aktami sprawy Naczelnemu Sądowi Administracyjnemu, wojewódzki sąd administracyjny na posiedzeniu niejawnym umarza to postępowanie. Na postanowienie przysługuje zażalenie. ” ;
+
+- **59)** w art. 197 § 2 otrzymuje brzmienie: „
+
+§ 2. Do postępowania toczącego się na skutek zażalenia stosuje się odpowiednio przepisy o skardze kasacyjnej, z wyłączeniem art. 185 § 2. ” ;
+
+- **60)** art. 206 otrzymuje brzmienie: „
+
+**Art. 206.** Sąd może w uzasadnionych przypadkach odstąpić od zasądzenia zwrotu kosztów postępowania w całości lub w części, w szczególności jeżeli skarga została uwzględniona w części niewspółmiernej w stosunku do wartości przedmiotu sporu ustalonej w celu pobrania wpisu. ” ;
+
+- **61)** art. 210 otrzymuje brzmienie: „
+
+**Art. 210.**
+
+§ 1. Strona traci uprawnienie do żądania zwrotu kosztów, jeżeli najpóźniej przed zamknięciem rozprawy bezpośrednio poprzedzającej wydanie orzeczenia nie zgłosi wniosku o przyznanie należnych kosztów. Stronę działającą bez adwokata, radcy prawnego, doradcy podatkowego lub rzecznika patentowego sąd powinien pouczyć o skutkach niezgłoszenia wniosku w powyższym terminie.
+
+§ 2. Przepis § 1 nie ma zastosowania w przypadku orzekania na posiedzeniu niejawnym, gdy strona nie jest reprezentowana przez adwokata, radcę prawnego, doradcę podatkowego lub rzecznika patentowego. W takim przypadku o kosztach należnych stronie sąd orzeka z urzędu. ” ;
+
+- **62)** w art. 232 w § 1 pkt 1 otrzymuje brzmienie: „
+- **1)** pisma odrzuconego lub cofniętego do dnia rozpoczęcia rozprawy; ” ;
+- **63)** w art. 234: § 2 otrzymuje brzmienie: „
+    - **a)**
+
+§ 2. Opłatę kancelaryjną za odpis orzeczenia z uzasadnieniem, doręczonego na skutek żądania zgłoszonego w terminie siedmiodniowym od ogłoszenia orzeczenia, pobiera się przy zgłoszeniu wniosku o sporządzenie uzasadnienia orzeczenia i jego doręczenie. Jeżeli opłata nie została uiszczona, przewodniczący zarządza ściągnięcie jej od strony, która złożyła wniosek, po uprzednim wezwaniu strony do jej uiszczenia. Przepisów art. 220 nie stosuje się. ” , dodaje się § 4 w brzmieniu: „
+
+- **b)**
+
+§ 4. Czynności, o których mowa w § 2, może wykonywać referendarz sądowy. ” ;
+
+- **64)** w art. 239: dotychczasową treść oznacza się jako § 1 i w pkt 1 w lit. f średnik zastępuje się przecinkiem i dodaje się lit. g oraz h w brzmieniu: „ udzielania cudzoziemcom ochrony, dotyczących dodatków mieszkaniowych; ” , dodaje się § 2 w brzmieniu: „
+    - **a)**
+    - **g)**
+    - **h)**
+    - **b)**
+
+§ 2. Nie mają obowiązku uiszczania opłat sądowych organizacje pożytku publicznego, działające na podstawie przepisów o działalności pożytku publicznego i o wolontariacie, w sprawach własnych, z wyjątkiem spraw dotyczących prowadzonej przez te organizacje działalności gospodarczej, a także organizacje pozarządowe oraz podmioty wymienione w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2014 r. poz. 1118, 1138 i 1146) w sprawach własnych dotyczących realizacji zleconego zadania publicznego na podstawie przepisów o działalności pożytku publicznego i o wolontariacie. ” ;
+
+- **65)** w art. 243 uchyla się § 2;
+- **66)** po art. 249 dodaje się art. 249a w brzmieniu: „
+
+**Art. 249a.** Jeżeli strona cofnie wniosek lub rozpoznanie wniosku stało się zbędne, postępowanie w sprawie przyznania prawa pomocy umarza się. ” ;
+
+- **67)** w art. 250 dotychczasową treść oznacza się jako § 1 i dodaje § 2 w brzmieniu: „
+
+§ 2. W uzasadnionych przypadkach, sąd może obniżyć wynagrodzenie, o którym mowa w § 1. ” ;
+
+- **68)** w art. 252: po § 1 dodaje się § 1a w brzmieniu: „
+    - **a)**
+
+§ 1a. Oświadczenia, o których mowa w § 1, składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie sądu o odpowiedzialności karnej za złożenie fałszywego oświadczenia. ” , § 3 otrzymuje brzmienie: „
+
+- **b)**
+
+§ 3. Postanowienie o przyznaniu, cofnięciu, odmowie przyznania prawa pomocy albo umorzeniu postępowania w sprawie przyznania prawa pomocy doręcza się stronie, która złożyła wniosek. Środek zaskarżenia przysługuje wyłącznie wnioskodawcy. ” ;
+
+- **69)** art. 253 otrzymuje brzmienie: „
+
+**Art. 253.**
+
+§ 1. O wyznaczenie adwokata, radcy prawnego, doradcy podatkowego lub rzecznika patentowego sąd zwraca się do właściwej okręgowej rady adwokackiej, rady okręgowej izby radców prawnych, Krajowej Rady Doradców Podatkowych lub Krajowej Rady Rzeczników Patentowych, doręczając postanowienie o przyznaniu prawa pomocy. W przypadku, gdy ustanowienie pełnomocnika ma nastąpić po wydaniu orzeczenia, od którego przysługuje skarga kasacyjna, sąd zawiadamia o tym właściwą radę.
+
+§ 2. Okręgowa rada adwokacka, rada okręgowej izby radców prawnych, Krajowa Rada Doradców Podatkowych lub Krajowa Rada Rzeczników Patentowych, w terminie czternastu dni od dnia doręczenia postanowienia, o którym mowa w § 1, wyznacza pełnomocnika, zawiadamiając o tym niezwłocznie pełnomocnika oraz sąd. W zawiadomieniu kierowanym do sądu właściwa rada wskazuje imię i nazwisko wyznaczonego pełnomocnika oraz jego adres do doręczeń. W przypadku ustanowienia pełnomocnika po wydaniu orzeczenia, od którego przysługuje skarga kasacyjna, właściwa rada informuje również niezwłocznie sąd o dacie zawiadomienia pełnomocnika o jego wyznaczeniu.
+
+§ 3. Jeżeli adwokat, radca prawny, doradca podatkowy lub rzecznik patentowy ustanowiony w ten sposób ma podjąć czynności poza siedzibą sądu orzekającego, właściwa okręgowa rada adwokacka, rada okręgowej izby radców prawnych, Krajowa Rada Doradców Podatkowych lub Krajowa Rada Rzeczników Patentowych, na wniosek ustanowionego adwokata, radcy prawnego, doradcy podatkowego lub rzecznika patentowego, wyznaczy w razie potrzeby adwokata, radcę prawnego, doradcę podatkowego lub rzecznika patentowego z innej miejscowości. ” ;
+
+- **70)** w art. 254 § 1 otrzymuje brzmienie: „
+
+§ 1. Wniosek o przyznanie prawa pomocy oraz wniosek o przyznanie kosztów nieopłaconej pomocy prawnej składa się do właściwego wojewódzkiego sądu administracyjnego. ” ;
+
+- **71)** w art. 256 pkt 1 otrzymuje brzmienie: „
+- **1)** wzór i sposób udostępniania urzędowego formularza, o którym mowa w art. 252 § 2, odpowiadającego wymaganiom przewidzianym dla pism strony, szczególnym wymaganiom postępowania o przyznaniu prawa pomocy, zawierającego niezbędne pouczenie co do sposobu jego wypełnienia i skutków niedostosowania się do określonych wymagań oraz klauzulę, o której mowa w art. 252 § 1a; ” ;
+- **72)** w art. 258: § 1 otrzymuje brzmienie: „
+    - **a)**
+
+§ 1. Czynności w zakresie przyznania prawa pomocy wykonuje referendarz sądowy. ” , w § 2 pkt 7 otrzymuje brzmienie: „
+
+- **b)**
+- **7)** wydawanie na posiedzeniu niejawnym postanowień o przyznaniu, cofnięciu, odmowie przyznania prawa pomocy albo umorzeniu postępowania w sprawie przyznania prawa pomocy; ” , uchyla się § 3, dodaje się § 4 w brzmieniu: „
+    - **c)**
+    - **d)**
+
+§ 4. Czynności, o których mowa w § 2, może w szczególnie uzasadnionych przypadkach wykonywać sąd. Na postanowienia albo zarządzenie sądu, o których mowa w § 2 pkt 6–8, przysługuje zażalenie. ” ;
+
+- **73)** art. 260 otrzymuje brzmienie: „
+
+**Art. 260.**
+
+§ 1. Rozpoznając sprzeciw od zarządzenia i postanowień, o których mowa w art. 258 § 2 pkt 6–8, sąd wydaje postanowienie, w którym zaskarżone zarządzenie lub postanowienie referendarza sądowego zmienia albo utrzymuje w mocy.
+
+§ 2. W sprawach, o których mowa w § 1, wniesienie sprzeciwu od zarządzenia lub postanowienia referendarza sądowego wstrzymuje jego wykonalność. Sąd orzeka jako sąd drugiej instancji, stosując odpowiednio przepisy o zażaleniu.
+
+§ 3. Sąd rozpoznaje sprawę na posiedzeniu niejawnym. ” ;
+
+- **74)** art. 261 otrzymuje brzmienie: „
+
+**Art. 261.** Od sprzeciwu i zażaleń wnoszonych w sprawie prawa pomocy nie pobiera się opłat sądowych. ” ;
+
+- **75)** uchyla się art. 263;
+- **76)** art. 276 otrzymuje brzmienie: „
+
+**Art. 276.** Do skargi o wznowienie postępowania stosuje się odpowiednio przepisy o postępowaniu przed sądem pierwszej instancji, jeżeli przepisy niniejszego działu nie stanowią inaczej. Jednakże, gdy do wznowienia postępowania właściwy jest Naczelny Sąd Administracyjny, stosuje się odpowiednio przepisy art. 175. ” ;
+
+- **77)** w art. 280 § 1 otrzymuje brzmienie: „
+
+§ 1. Sąd bada na posiedzeniu niejawnym, czy skarga jest wniesiona w terminie i czy opiera się na ustawowej podstawie wznowienia. W braku jednego z tych wymagań sąd skargę o wznowienie odrzuci, w przeciwnym razie wyznaczy rozprawę. ” ;
+
+- **78)** art. 281 otrzymuje brzmienie: „
+
+**Art. 281.** Na rozprawie sąd rozstrzyga przede wszystkim o dopuszczalności wznowienia i jeżeli brak jest ustawowej podstawy wznowienia lub termin do wniesienia skargi nie został zachowany, odrzuca skargę o wznowienie. Sąd może jednak po rozważeniu stanu sprawy połączyć badanie dopuszczalności wznowienia z rozpoznaniem sprawy. ” ;
+
+- **79)** w art. 282 § 2 otrzymuje brzmienie: „
+
+§ 2. Po ponownym rozpoznaniu sprawy sąd oddala skargę o wznowienie albo ją uwzględnia stosując odpowiednio przepisy o postępowaniu przed sądem, który wznowił postępowanie lub uchyla zaskarżone orzeczenie i skargę odrzuca lub postępowanie umarza. ” ;
+
+- **80)** art. 285 otrzymuje brzmienie: „
+
+**Art. 285.**
+
+§ 1. Niedopuszczalne jest dalsze wznowienie postępowania zakończonego prawomocnym orzeczeniem wydanym na skutek skargi o wznowienie postępowania.
+
+§ 2. Przepisu § 1 nie stosuje się, jeżeli skarga o wznowienie postępowania została oparta na podstawie wznowienia określonej w art. 272 § 1 i 3. ” ;
+
+- **81)** w art. 286 § 1 otrzymuje brzmienie: „
+
+§ 1. Po uprawomocnieniu się orzeczenia sądu pierwszej instancji kończącego postępowanie akta administracyjne sprawy zwraca się organowi administracji publicznej, załączając odpis orzeczenia ze stwierdzeniem jego prawomocności. Zarządzenie o zwrocie akt może wydać referendarz sądowy. ” .
+
+**Art. 2.** Przepisy ustawy, o której mowa w art. 1, w brzmieniu nadanym przez art. 1 pkt 2–8, pkt 10–14, pkt 19–32, pkt 34–39, pkt 41–47, pkt 51, pkt 52, pkt 55, pkt 57, pkt 58, pkt 60–69, pkt 71, pkt 72 i pkt 74–81 niniejszej ustawy stosuje się również do postępowań wszczętych przed dniem jej wejścia w życie. W pozostałym zakresie do tych postępowań stosuje się przepisy ustawy, o której mowa w art. 1, w brzmieniu dotychczasowym.
+
+**Art. 3.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+

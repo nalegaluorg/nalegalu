@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o osłonach socjalnych dla pracowników sektora elektroenergetycznego i branży górnictwa węgla brunatnego
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 stycznia 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 stycznia 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-01-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000089) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/89/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 stycznia 2026 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o osłonach socjalnych dla pracowników sektora elektroenergetycznego i branży górnictwa węgla brunatnego
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 17 sierpnia 2023 r. o osłonach socjalnych dla pracowników sektora elektroenergetycznego i branży górnictwa węgla brunatnego (Dz. U. poz. 1737), z uwzględnieniem zmian wprowadzonych ustawą z dnia 21 maja 2025 r.
 o zmianie niektórych ustaw w związku z wprowadzaniem centralnego systemu informacji rynku energii i innych ustaw (Dz. U. poz. 759) oraz zmian wynikających z przepisów ogłoszonych przed dniem 20 stycznia 2026 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
@@ -52,9 +52,30 @@ o osłonach socjalnych dla pracowników sektora elektroenergetycznego i branży 
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zasady:
+    - **a)** nabycia prawa do urlopu energetycznego, urlopu górniczego oraz jednorazowej odprawy pieniężnej przez pracowników sektora elektroenergetycznego w okresie wyłączania jednostek wytwórczych oraz przez pracowników branży górnictwa węgla brunatnego w okresie systemowej redukcji, ograniczenia lub zakończenia wydobycia węgla brunatnego, w związku z transformacją sektora elektroenergetycznego,
+    - **b)** wypłaty świadczenia socjalnego w okresie korzystania przez pracowników z urlopu energetycznego i górniczego oraz wypłaty jednorazowej odprawy pieniężnej;
+
+- **2)** źródła finansowania świadczeń socjalnych oraz jednorazowych odpraw pieniężnych, o których mowa w pkt 1 lit. b.
+
 **Art. 2.** W rozumieniu ustawy:
 
+- **1)** dokument elektroniczny oznacza dokument elektroniczny w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703);
+- **2)** jednostka wytwórcza oznacza jednostkę wytwórczą w rozumieniu art. 3 pkt 43 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne (Dz. U. z 2026 r. poz. 43) opalaną węglem kamiennym lub brunatnym;
+- **3)** oznaczona część przedsiębiorstwa energetycznego oznacza elektrownię będącą pracodawcą, wchodzącą w skład przedsiębiorstwa energetycznego;
+- **4)** oznaczona część przedsiębiorstwa górniczego węgla brunatnego oznacza zakład górniczy w rozumieniu art. 6 ust. 1 pkt 18 ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze (Dz. U. z 2024 r. poz. 1290 oraz z 2025 r. poz. 769, 1023 i 1668) służący wydobywaniu węgla brunatnego i będący pracodawcą, wchodzący w skład przedsiębiorstwa górniczego węgla brunatnego;
+- **5)** przedsiębiorstwo energetyczne oznacza spółkę akcyjną lub spółkę z ograniczoną odpowiedzialnością, która prowadzi działalność gospodarczą w zakresie wytwarzania energii elektrycznej przy użyciu kondensacyjnych jednostek wytwórczych centralnie dysponowanych przyłączonych do sieci przesyłowej elektroenergetycznej, z których co najmniej jedna ma moc osiągalną nieniższą niż 150 MW;
+- **6)** przedsiębiorstwo górnicze węgla brunatnego oznacza podmiot będący spółką akcyjną lub spółką z ograniczoną odpowiedzialnością, która prowadzi wydobycie węgla brunatnego na podstawie koncesji lub która prowadzi likwidację zakładu górniczego lub działania polikwidacyjne na terenach górniczych węgla brunatnego, lub zabezpiecza kopalnię przed zagrożeniami wodnymi, gazowymi oraz pożarowymi po zakończeniu likwidacji kopalni;
+- **7)** spółka przedsiębiorstwa energetycznego oznacza spółkę zależną, w której przedsiębiorstwo energetyczne posiada status spółki dominującej w rozumieniu art. 4 § 1 pkt 4 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96);
+- **8)** spółka przedsiębiorstwa górniczego węgla brunatnego oznacza spółkę zależną, w której przedsiębiorstwo górnicze węgla brunatnego posiada status spółki dominującej w rozumieniu art. 4 § 1 pkt 4 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych;
+- **9)** zarządca rozliczeń oznacza Zarządcę Rozliczeń Spółkę Akcyjną, o której mowa w art. 47 ust. 1 ustawy z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej (Dz. U. z 2022 r. poz. 311).
+
 **Art. 3.** Przepisy ustawy stosuje się do:
+
+- **1)** przedsiębiorstw energetycznych lub oznaczonych części przedsiębiorstw energetycznych;
+- **2)** spółek przedsiębiorstw energetycznych;
+- **3)** przedsiębiorstw górniczych węgla brunatnego lub oznaczonych części przedsiębiorstw górniczych węgla brunatnego;
+- **4)** spółek przedsiębiorstw górniczych węgla brunatnego.
 
 **Art. 4.**
 
@@ -189,7 +210,18 @@ o osłonach socjalnych dla pracowników sektora elektroenergetycznego i branży 
 
 **Art. 12.** Pracodawca wydaje zaświadczenie o okresie korzystania przez pracownika z urlopu energetycznego lub z urlopu górniczego zgodnie z wzorem określonym w przepisach wydanych na podstawie art. 13 pkt 2, zawierające:
 
+- **1)** oznaczenie pracodawcy, w tym jego nazwę, adres oraz NIP lub REGON;
+- **2)** dane pracownika obejmujące jego imię i nazwisko, numer PESEL, a jeżeli taki numer nie został nadany rodzaj, serię i numer dokumentu potwierdzającego tożsamość, datę urodzenia oraz adres zamieszkania;
+- **3)** okres zatrudnienia u pracodawcy na stanowisku uprawniającym do skorzystania z urlopu energetycznego albo z urlopu górniczego;
+- **4)** nazwę stanowiska uprawniającego do skorzystania z urlopu energetycznego albo urlopu górniczego;
+- **5)** wymiar czasu pracy na stanowisku uprawniającym do skorzystania z urlopu energetycznego albo z urlopu górniczego;
+- **6)** okres korzystania przez pracownika z urlopu energetycznego albo z urlopu górniczego;
+- **7)** datę i podpis pracodawcy lub osoby uprawnionej do działania w imieniu pracodawcy.
+
 **Art. 13.** Minister właściwy do spraw aktywów państwowych określi, w drodze rozporządzenia:
+
+- **1)** wykaz stanowisk pracy uprawniających do urlopu energetycznego i urlopu górniczego, mając na uwadze rodzaje prac wykonywanych w obszarze produkcyjnym lub remontowym, biorących udział w procesie wytwarzania energii elektrycznej albo udział w procesie wydobywczym węgla brunatnego;
+- **2)** wzór zaświadczenia, o którym mowa w art. 12, mając na uwadze konieczność ujednolicenia formy i treści wydawanych zaświadczeń.
 
 #### Rozdział 3 Jednorazowa odprawa pieniężna i świadczenie socjalne
 
@@ -315,6 +347,9 @@ o osłonach socjalnych dla pracowników sektora elektroenergetycznego i branży 
 
 **Art. 19.** Wypłata:
 
+- **1)** świadczeń socjalnych następuje niedłużej niż do dnia 31 grudnia 2053 r.;
+- **2)** jednorazowych odpraw pieniężnych następuje niedłużej niż do dnia 31 grudnia 2049 r.
+
 **Art. 20.**
 
 1. System wypłat świadczeń socjalnych oraz jednorazowych odpraw pieniężnych wynikający z ustawy stanowi pomoc publiczną w rozumieniu art. 107 ust. 3 lit. b Traktatu o funkcjonowaniu Unii Europejskiej i podlega notyfikacji do Komisji Europejskiej.
@@ -361,4 +396,37 @@ o osłonach socjalnych dla pracowników sektora elektroenergetycznego i branży 
 **Art. 28.** Do dnia wydania pozytywnej decyzji Komisji Europejskiej o zgodności pomocy publicznej przewidzianej w ustawie z rynkiem wewnętrznym albo decyzji stwierdzającej, że środek ten nie stanowi pomocy publicznej, nie przyznaje się prawa do urlopu energetycznego, urlopu górniczego oraz jednorazowej odprawy pieniężnej.
 
 **Art. 29.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 10 ust. 1 i 2 oraz art. 11, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
+- **2)** art. 18 ust. 2, który wchodzi w życie z dniem 1 stycznia 2024 r. RODZAJE PRAC UPRAWNIAJĄCYCH DO URLOPU ENERGETYCZNEGO, O KTÓRYCH MOWA W ART. 5 UST. 1 PKT 2 USTAWY Pracami uprawniającymi do urlopu energetycznego są prace na stanowisku pracy w obszarze produkcyjnym lub remontowym, biorącym udział w procesie wytwarzania energii elektrycznej w ramach rodzajów prac realizujących następujące funkcje:
+- **1)** wytwarzanie energii elektrycznej i świadczenie usług systemowych, uczestnictwo w rynku mocy oraz wytwarzanie ciepła, w tym w zakresie:
+    - **a)** realizacji procesu odbioru i kontroli jakości oraz magazynowania surowców,
+    - **b)** bieżącego nadzoru nad procesem produkcji,
+    - **c)** optymalizacji i kontroli realizacji planów wytwarzania energii elektrycznej,
+    - **d)** operacyjnej współpracy z operatorem systemu przesyłowego, którego zadania wykonują Polskie Sieci Elektroenergetyczne S.A., i lokalnym dystrybutorem ciepła,
+    - **e)** bieżącej kontroli eksploatacji urządzeń oraz dotrzymywania zobowiązań umownych,
+    - **f)** zarządzania emisjami do powietrza i innymi czynnikami środowiskowymi,
+    - **g)** nadzorowania ryzyka ochrony środowiska;
+
+- **2)** koordynacja spraw związanych z planowaniem, organizacją, realizacją i rozliczaniem zadań remontowych i inwestycyjnych, w tym w zakresie:
+    - **a)** współudziału w opracowywaniu strategii utrzymania majątku ze szczególnym uwzględnieniem podniesienia jej efektywności,
+    - **b)** nadzoru nad bieżącym utrzymaniem majątku w celu utrzymania zdolności wytwórczych,
+    - **c)** koordynacji i nadzoru nad pracami remontowymi i inwestycyjnymi prowadzonymi przez służby remontowe oraz przez wykonawców zewnętrznych,
+    - **d)** prowadzenia nadzoru technicznego i inspektorskiego nad realizowanymi pracami remontowymi i inwestycyjnymi,
+    - **e)** prowadzenia laboratorium chemicznego,
+    - **f)** gospodarowania nieruchomościami;
+
+- **3)** koordynacja spraw związanych z wykonaniem we własnym zakresie remontów urządzeń w branżach: mechanicznej, elektrycznej, automatyki i pomiarów elektrycznych, wulkanizacyjnej oraz prac warsztatowych, diagnostyki i kontroli jakości;
+- **4)** prowadzenie gospodarek: remontowej, kotłowej, energomaszynowej, elektrycznej, automatyki, sterowań i pomiarów, wodnej, nawęglania, odsiarczania, odpopielania, kolejowej, budowlanej, konstrukcyjnej, ochrony środowiska, magazynowej, materiałowej, inwestycyjnej, ochrony mienia, ochrony przeciwpożarowej oraz bezpieczeństwa i higieny pracy;
+- **5)** sprzedaż energii elektrycznej i ciepła do odbiorców bezpośrednio przyłączonych do elektrowni. RODZAJE PRAC UPRAWNIAJĄCYCH DO URLOPU GÓRNICZEGO, O KTÓRYCH MOWA W ART. 7 UST. 1 PKT 3 USTAWY Pracami uprawniającymi do urlopu górniczego są prace na stanowisku pracy w obszarze produkcyjnym lub remontowym, bezpośrednio związane z udziałem w procesie wydobywczym węgla brunatnego, w ramach rodzajów prac realizujących następujące funkcje:
+- **1)** realizacja procesu technologicznego, obejmującego prowadzenie górniczych robót eksploatacyjnych i składowania węgla brunatnego oraz kopalin towarzyszących, obsługa transportu węgla i nadkładu oraz kopalin towarzyszących, zwałowanie oraz przeróbka kopalin;
+- **2)** prowadzenie robót przygotowawczych na przedpolu wyrobiska odkrywkowego i zwałowiska, prowadzenie odwodnienia wgłębnego i powierzchniowego, montaż, obsługa i naprawa pomp odwodnieniowych, przygotowywanie, utrzymywanie i likwidowanie poziomów roboczych, ciągów technologicznych, pochylni transportowych, infrastruktury górniczej, odwodnieniowej, elektroenergetycznej, teletechnicznej, komunikacyjnej oraz obiektów związanych z funkcjonowaniem zakładu górniczego;
+- **3)** obsługa posiadanego sprzętu technologicznego i realizacja kołowego transportu wewnętrznego, niezbędna do realizacji procesu produkcyjnego, w tym transport pracowników;
+- **4)** projektowanie oraz nadzór nad procesem technologicznym eksploatacji, projektowanie, wykonywanie i dokumentowanie prac geologicznych, geologiczno-inżynierskich, hydrogeologicznych, mierniczo-geodezyjnych oraz realizacja niezbędnych prac w zakresie monitorowania i zwalczania zagrożeń naturalnych, wymaganych odrębnymi przepisami, a także wykonywanie niezbędnych badań laboratoryjnych i terenowych w funkcjonujących obiektach służących do określenia warunków górniczo-geologicznych, hydrogeologicznych, środowiskowych oraz technicznych;
+- **5)** prowadzenie prac inwestycyjnych, montażowych, remontowych oraz demontażowych maszyn podstawowych i urządzeń układu technologicznego przy wykorzystaniu posiadanego sprzętu pomocniczego, w tym dźwigów i podnośników koszowych, a także diagnostyk i kontroli inspektorskich w zakresach niezbędnych do utrzymania ruchu kopalni, tworzenie i archiwizowanie niezbędnej dokumentacji technicznej oraz nadzór inspektorski;
+- **6)** prowadzenie gospodarek: magazynowej, materiałowej, remontowej, energomaszynowej, inwestycyjnej i nieruchomościami;
+- **7)** organizowanie służby bezpieczeństwa i higieny pracy, służby ochrony przeciwpożarowej oraz zakładowego pogotowia ratunkowego, wymaganych odrębnymi przepisami, organizowanie i prowadzenie akcji ratowniczych oraz monitorowanie szkodliwych czynników środowiska pracy;
+- **8)** realizacja niezbędnych prac w zakresie wywłaszczeń oraz ochrony środowiska, w tym udział w postępowaniach administracyjnych, odszkodowawczych i realizacja zobowiązań nałożonych przez organy administracji publicznej;
+- **9)** prowadzenie robót rekultywacyjnych po zakończonej eksploatacji górniczej w wyrobiskach i na zwałowiskach.
+
 

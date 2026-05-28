@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o repatriacji
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 stycznia 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 stycznia 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-01-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000090) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/90/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 stycznia 2026 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o repatriacji
 1. Na podstawie 16 ust. zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 listopada 2000 r. o repatriacji (Dz. U. z 2022 r. poz. 1105), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620),
 2) ustawą z dnia 25 czerwca 2025 r. o zmianie ustawy o repatriacji oraz niektórych innych ustaw (Dz. U. poz. 921),
@@ -42,6 +42,23 @@ poz. 921), które stanowią: „Art. 5. 1. Do postępowań sprawach wydania wiz 
 
 **Art. 6.** Ustawa wchodzi życie z dniem sierpnia 2025 r., z wyjątkiem pkt 13 lit. a i b, pkt 15 i 19, które wchodzą życie z dniem stycznia 2026 r.”;
 
+- **3)** 12, 17 i 19 ustawy z dnia 21 listopada 2025 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw (Dz. U. poz. 1794), które stanowią: „Art. 12. Do postępowań sprawach uregulowanych ustawach zmienianych niniejszą ustawą wszczętych i niezakończonych przed dniem wejścia życie pkt 3–5, 8–41, 44 lit. b, pkt 47–49, 50 i 52, 2, 5–7, 8 pkt lit. b oraz c, 10, 11, 13, 14 oraz 18 ust. i 2 stosuje się przepisy dotychczasowe.” przepisów:
+- **1)** 3 pkt 2a, 7 ust. 4, 13 pkt 11, 17–18b, 18d–19a i 27–30, 64a ust. i 10–12, 104 ust. 1–1b, 105–106l, 107 ust. 1, 108 ust. pkt i ust. 3–10, 112a ust. 2 pkt 3, ust. 3 pkt 2 i ust. 3a, 114 ust. pkt 4 i ust. 4b, 120a ust. 1–3, 139l ust. 2, 139t ust. 2, 168 ust. 2, 168a ust. 2, 202–203i, 204 ust. 1, 206 ust. pkt i ust. 3–9, 210 ust. 2 pkt 3, 218a–219i, 222 ust. 1, 222a–222g, 225a–225i, 228 pkt 2, 244 ust. 3, 246 ust. 3, 248 ust. 1–2a, 4 i 5, 279 oraz 282 ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą;
+- **2)** 12d ust. 3a i 6–8 ustawy zmienianej 2, brzmieniu nadanym niniejszą ustawą;
+- **3)** 8 pkt 24, 10 ust. 8, 23i ust. 1a, 23j ust. 2 pkt 2 lit. b oraz 43 ust. 3 i 5 ustawy zmienianej 5, brzmieniu nadanym niniejszą ustawą;
+- **4)** 4 ust. 2 pkt 5 ustawy zmienianej 6, brzmieniu nadanym niniejszą ustawą;
+- **5)** 343a ust. pkt 3 ustawy zmienianej 7, brzmieniu nadanym niniejszą ustawą;
+- **6)** 42 ust. 16 ustawy zmienianej 8, brzmieniu nadanym niniejszą ustawą;
+- **7)** ust. 3 pkt 5 ustawy zmienianej 10, brzmieniu nadanym niniejszą ustawą;
+- **8)** 3 ust. pkt 18 i ust. 3 pkt 2 ustawy zmienianej 11, brzmieniu nadanym niniejszą ustawą.
+
+2. Komunikat ogłasza się terminie co najmniej 14 dni przed dniem wdrożenia rozwiązań technicznych określonym tym komunikacie.” „Art. 19. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** 9 i 17, które wchodzą życie z dniem następującym po dniu ogłoszenia;
+- **2)** pkt 3–5, 8–41, 44 lit. b, pkt 47–50 i 52, 2, 5–7, 8 pkt lit. b oraz c, 10, 11, 13, 14, oraz 18 ust. i 2, które wchodzą życie z dniem określonym komunikacie, o którym 17;
+- **3)** pkt 42, 43, 44 lit. a, pkt 45, 46, 51, 59 lit. a tiret pierwsze, pkt 60 lit. a, pkt 61 lit. a i pkt 63, które wchodzą życie z dniem kwietnia 2026 r.;
+- **4)** 8 pkt 2 i 3, które wchodzą życie z dniem określonym komunikacie, o którym 33 ustawy z dnia 15 maja 2024 r. o zmianie ustawy o pomocy obywatelom Ukrainy związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 854).”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 9 listopada 2000 r. o repatriacji W poczuciu głębokiej więzi z Polakami potomkami dawnej Rzeczypospolitej, ofiarami komunistycznego terroru, przemocą zmuszonymi do opuszczenia ziemi przodków, osiedlonymi wbrew własnej woli na najtrudniejszych do zamieszkania obszarach byłego Związku Socjalistycznych Republik Radzieckich; pozbawionymi możliwości powrotu do Polski, prześladowanymi z powodu swojego pochodzenia oraz przywiązania do wiary, tradycji i umiłowania wolności, skazanymi na pracę nieludzkich warunkach, głód, choroby i częstokroć na fizyczne wyniszczenie; którzy, mimo wszelkich przeciwności, nigdy nie wyrzekli się Polski, jej tradycji i kultury, a miłość i przywiązanie do Ojczyzny przekazali swoim potomkom pragnąc zadośćuczynić za doznawane przez zesłańców krzywdy, uznając, że powinnością Państwa Polskiego jest umożliwienie repatriacji rodakom, którzy pozostali na Wschodzie, postanawia się, co następuje:
+
 #### Rozdział Przepisy ogólne
 
 **Art. 1.**
@@ -51,6 +68,14 @@ poz. 921), które stanowią: „Art. 5. 1. Do postępowań sprawach wydania wiz 
 2. Repatriantem jest osoba, która przybyła do Rzeczypospolitej Polskiej na podstawie wizy krajowej wydanej celu repatriacji z zamiarem osiedlenia się na stałe.
 
 **Art. 1a.** Ilekroć przepisach ustawy jest o:
+
+- **1)** kandydacie na repatrianta oznacza to osobę polskiego pochodzenia, wobec której konsul wydał decyzję o zakwalifikowaniu do wydania wizy krajowej celu repatriacji albo przypadku osoby, która złożyła wniosek o wydanie wizy krajowej celu repatriacji przed dniem maja 2017 r. decyzję o przyrzeczeniu wydania takiej wizy;
+- **2)** najbliższej rodzinie repatrianta oznacza to małżonka repatrianta i pozostające pod władzą rodzicielską repatrianta lub jego małżonka małoletnie dziecko lub dzieci, którzy przybyli do Rzeczypospolitej Polskiej razem z repatriantem;
+- **3)** najbliższej rodzinie kandydata na repatrianta oznacza to nieposiadających obywatelstwa polskiego:
+    - **a)** małżonka kandydata na repatrianta, który złożył wniosek o wydanie wizy krajowej celu repatriacji albo wniosek o udzielenie zezwolenia na pobyt stały zgodnie z 12d ust. 3,
+    - **b)** pozostające pod władzą rodzicielską kandydata na repatrianta lub jego małżonka małoletnie dziecko lub dzieci, imieniu których złożono wniosek o wydanie wizy krajowej celu repatriacji albo wniosek o udzielenie zezwolenia na pobyt stały zgodnie z 12d ust. 3 którzy zamierzają przybyć z kandydatem na repatrianta do Rzeczypospolitej Polskiej z zamiarem osiedlenia się na stałe;
+
+- **4)** przeciętnym wynagrodzeniu oznacza to przeciętne wynagrodzenie miesięczne brutto gospodarce narodowej, ogłaszane Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” przez Prezesa Głównego Urzędu Statystycznego na podstawie 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 26).
 
 **Art. 2.** (uchylony)
 
@@ -93,7 +118,7 @@ poz. 921), które stanowią: „Art. 5. 1. Do postępowań sprawach wydania wiz 
 
 **Art. 3c.**
 
-1. Pełnomocnik, wydając decyzję sprawie przyznania miejsca ośrodku kandydatowi na repatrianta, bierze pod uwagę czas oczekiwania na wydanie wizy krajowej celu repatriacji osób ujętych ewidencji osób ubiegających się o wydanie wizy krajowej celu repatriacji, które nie posiadają warunków do osiedlenia się Rzeczypospolitej Polskiej.
+1. Pełnomocnik, wydając decyzję sprawie przyznania miejsca ośrodku kandydatowi na repatrianta, bierze pod uwagę czas oczekiwania na wydanie wizy krajowej celu repatriacji osób ujętych ewidencji osób ubiegających się o wydanie wizy krajowej celu repatriacji, które nie posiadają warunków do osiedlenia się Rzeczypospolitej Polskiej. pisy ust. 2 i 3 stosuje się odpowiednio.
 
 1b. Pełnomocnik wydaje decyzję sprawie przyznania miejsca ośrodku po przedstawieniu przez konsula wyrażonej na piśmie zgody osób, o których ust. i 1a, na umieszczenie ośrodku. W przypadku osoby małoletniej lub ubezwłasnowolnionej całkowicie zgodę wyraża jej rodzic lub opiekun prawny.
 
@@ -185,7 +210,7 @@ poz. 921), które stanowią: „Art. 5. 1. Do postępowań sprawach wydania wiz 
 
 1. Osoba przybywająca do Rzeczypospolitej Polskiej na podstawie wizy krajowej celu repatriacji nabywa obywatelstwo polskie z mocy prawa z dniem przekroczenia granicy Rzeczypospolitej Polskiej.
 
-2. Dokumentem potwierdzającym nabycie obywatelstwa polskiego drodze repatriacji jest decyzja sprawie potwierdzenia posiadania obywatelstwa polskiego.
+2. Dokumentem potwierdzającym nabycie obywatelstwa polskiego drodze repatriacji jest decyzja sprawie potwierdzenia posiadania obywatelstwa polskiego. położenia:
 
 - **1)** lokalu mieszkalnego wskazanego na potrzeby potwierdzenia posiadania lub zapewnienia warunków do osiedlenia się Rzeczypospolitej Polskiej, o których 12 ust. 1, jeżeli repatriantowi wydano wizę krajową celu repatriacji związku z przedstawieniem dowodów, o których 12 ust. 2 albo 3 pkt 2 i 3, lub
 - **2)** ośrodka, jeżeli repatriantowi wydano wizę krajową celu repatriacji związku z decyzją Pełnomocnika sprawie przyznania miejsca ośrodku.
@@ -262,6 +287,60 @@ poz. 921), które stanowią: „Art. 5. 1. Do postępowań sprawach wydania wiz 
 - **2)** z uwagi na sytuację panującą kraju zamieszkania lub jego części są narażone na utratę życia lub zdrowia.
 
 **Art. 10a.** Wydania wizy krajowej celu repatriacji odmawia się osobie, jeżeli:
+
+- **1)** utraciła obywatelstwo polskie nabyte drodze repatriacji lub
+- **2)** repatriowała się z terytorium Rzeczypospolitej Polskiej albo Polskiej Rzeczypospolitej Ludowej na podstawie umów repatriacyjnych zawartych latach 1944–1957 przez Rzeczpospolitą Polską albo przez Polską Rzeczpospolitą Ludową z Białoruską Socjalistyczną Republiką Radziecką, Ukraińską Socjalistyczną Republiką Radziecką, Litewską Socjalistyczną Republiką Radziecką lub Związkiem Socjalistycznych Republik Radzieckich do jednego z państw będących stroną tych umów, lub
+- **3)** czasie pobytu poza granicami Rzeczypospolitej Polskiej działała na szkodę podstawowych interesów Rzeczypospolitej Polskiej, lub
+- **4)** uczestniczyła lub uczestniczy łamaniu praw człowieka, lub
+- **5)** jej dane znajdują się Systemie Informacyjnym Schengen do celów odmowy wjazdu, lub
+- **6)** wymagają tego względy obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego, lub
+- **7)** obowiązuje wpis danych osoby do wykazu cudzoziemców, których pobyt na terytorium Rzeczypospolitej Polskiej jest niepożądany. do konsula właściwego ze względu na miejsce zamieszkania wnioskodawcy. Jeżeli przemawia za tym uzasadniony interes wnioskodawcy, minister właściwy do spraw zagranicznych może wyznaczyć innego konsula.
+
+2. W szczególnych przypadkach, uzasadnionych osobistą sytuacją osoby, o której ust. 1, konsul może odstąpić od wymogu osobistego złożenia wniosku, o którym ust. 1.
+
+3. Wniosek, o którym ust. 1, składa się na formularzu, który zawiera:
+
+- **1)** następujące dane i informacje dotyczące wnioskodawcy:
+    - **a)** imię (imiona) i nazwisko,
+    - **b)** nazwisko rodowe, nazwiska wcześniej używane,
+    - **c)** imię i nazwisko rodowe ojca, nazwiska wcześniej używane,
+    - **d)** imię i nazwisko rodowe matki, nazwiska wcześniej używane,
+    - **e)** datę urodzenia,
+    - **f)** płeć,
+    - **g)** miejsce i kraj urodzenia,
+    - **h)** miejsce zamieszkania,
+    - **i)** obywatelstwo, inne posiadane obywatelstwa,
+    - **j)** narodowość, pochodzenie,
+    - **k)** stan cywilny,
+    - **l)** dane dotyczące dokumentu tożsamości oraz dokumentu podróży,
+    - **m)** informacje o karalności,
+    - **n)** stosunek do służby wojskowej,
+    - **o)** informację o pobytach na terytorium Rzeczypospolitej Polskiej,
+    - **p)** informację o osobach wspólnie z nim przybywających na terytorium Rzeczypospolitej Polskiej,
+    - **q)** informację o przewidywanych warunkach do osiedlenia się na terytorium Rzeczypospolitej Polskiej,
+    - **r)** informację o wykształceniu i kwalifikacjach zawodowych;
+
+- **2)** informacje dotyczące miejsca zamieszkania na terytorium, o którym 9 ust. pkt 3;
+- **3)** dane, o których pkt lit. a–g, i oraz j, dotyczące rodziców (opiekunów prawnych) wnioskodawcy;
+- **4)** dane, o których pkt lit. a, b, e–h oraz j, dotyczące dziadków wnioskodawcy, o ile są mu znane;
+- **5)** dane, o których pkt lit. a, b, e–h oraz j, dotyczące pradziadków wnioskodawcy, o ile są mu znane.
+
+4. Do wniosku, o którym ust. 1, dołącza się:
+
+- **1)** życiorys wnioskodawcy;
+- **2)** aktualne fotografie wnioskodawcy;
+- **3)** odpis aktu urodzenia wnioskodawcy;
+- **4)** dokumenty poświadczające aktualny stan cywilny wnioskodawcy;
+- **5)** dokumenty potwierdzające miejsce stałego zamieszkania na terytorium, o którym 9 ust. pkt 3;
+- **6)** dokumenty, o których 6;
+- **7)** inne dokumenty potwierdzające okoliczności wymienione we wniosku;
+- **8)** oświadczenie, pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, że dane zawarte we wniosku są prawdziwe. rodzice lub opiekunowie prawni albo jedno z rodziców lub jeden z opiekunów prawnych.
+
+6. Do wniosku, o którym ust. 1, składanego imieniu osoby małoletniej, dołącza się dokumenty, o których ust. 4 pkt 1–3 i pkt 5–7, zakresie wymaganym dla rodziców osoby małoletniej.
+
+7. Jeżeli wniosek, o którym ust. 1, zawiera braki formalne, konsul wzywa do jego uzupełnienia terminie 30 dni od dnia doręczenia wezwania, pod rygorem pozostawienia wniosku bez rozpoznania.
+
+8. Minister właściwy do spraw zagranicznych porozumieniu z ministrem właściwym do spraw wewnętrznych określi, drodze rozporządzenia, wzór formularza wniosku o wydanie wizy krajowej celu repatriacji oraz liczbę fotografii dołączanych do wniosku i wymogi dotyczące tych fotografii, mając na uwadze potrzebę zapewnienia sprawności postępowania, kompletności danych i informacji przedstawianych we wniosku oraz z uwzględnieniem języka zrozumiałego dla wnioskodawcy.
 
 **Art. 11.**
 
@@ -445,7 +524,7 @@ poz. 921), które stanowią: „Art. 5. 1. Do postępowań sprawach wydania wiz 
 
 12. Formularz wniosku, o którym ust. 2, wypełnia się języku polskim.
 
-13. Dokumenty sporządzone języku obcym składa się wraz z ich tłumaczeniem na język polski sporządzonym lub poświadczonym przez tłumacza przysięgłego.
+13. Dokumenty sporządzone języku obcym składa się wraz z ich tłumaczeniem na język polski sporządzonym lub poświadczonym przez tłumacza przysięgłego. 30 dni od dnia doręczenia wezwania, pod rygorem pozostawienia wniosku bez rozpoznania.
 
 15. Minister właściwy do spraw wewnętrznych określi, drodze rozporządzenia:
 
@@ -522,7 +601,7 @@ poz. 921), które stanowią: „Art. 5. 1. Do postępowań sprawach wydania wiz 
 - **3)** kopię decyzji wojewody sprawie potwierdzenia posiadania przez wnioskodawcę obywatelstwa polskiego;
 - **4)** dokument, z którego wynika tytuł prawny wnioskodawcy do lokalu mieszkalnego, o którym 17 ust. 2;
 - **5)** inne dokumenty potwierdzające okoliczności wymienione we wniosku;
-- **6)** oświadczenie, pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, że dane i informacje zawarte we wniosku są prawdziwe.
+- **6)** oświadczenie, pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, że dane i informacje zawarte we wniosku są prawdziwe. dnia, którym decyzja sprawie udzielenia pomocy stała się ostateczna.
 
 6. Minister właściwy do spraw wewnętrznych określi, drodze rozporządzenia, wzór formularza wniosku, o którym 17 ust. 2, mając na uwadze potrzebę zapewnienia sprawności postępowania o przyznanie pomocy oraz kompletności danych przedstawianych we wniosku. Art. 17aa. 37) 1. Repatriant składa wniosek, o którym 17 ust. 1, do Pełnomocnika terminie 3 miesięcy od dnia doręczenia decyzji wojewody sprawie potwierdzenia posiadania obywatelstwa polskiego.
 
@@ -638,7 +717,7 @@ poz. 921), które stanowią: „Art. 5. 1. Do postępowań sprawach wydania wiz 
 - **11)** datę opuszczenia ośrodka, przypadku wnioskodawcy, o którym 17b ust. pkt 2;
 - **12)** liczbę członków najbliższej rodziny repatrianta;
 - **13)** imię, nazwisko, datę urodzenia, datę przybycia do Rzeczypospolitej Polskiej oraz stopień pokrewieństwa stosunku do wnioskodawcy każdej z osób, o której pkt 12;
-- **14)** adres: dniem złożenia wniosku;
+- **14)** adres: wnioskodawcy lub członkowi jego najbliższej rodziny objętemu wnioskiem decyzją Pełnomocnika wydaną przed dniem złożenia wniosku;
     - **a)** wynajmowanego lokalu mieszkalnego lub budynku mieszkalnego albo
     - **b)** miejsca zakwaterowania domu studenckim, albo
     - **c)** nabywanego lokalu mieszkalnego lub budynku mieszkalnego;
@@ -691,6 +770,10 @@ poz. 921), które stanowią: „Art. 5. 1. Do postępowań sprawach wydania wiz 
 
 **Art. 20a.** Ośrodki mogą być zlokalizowane miejscu, którym:
 
+- **1)** dojazd do szkoły publicznej nie jest utrudniony lub uciążliwy;
+- **2)** dostęp do podmiotów leczniczych nie jest utrudniony;
+- **3)** możliwości podjęcia pracy zarobkowej nie są znacznie ograniczone.
+
 **Art. 20b.**
 
 1. W ośrodkach zapewnia się repatriantom:
@@ -710,11 +793,17 @@ poz. 921), które stanowią: „Art. 5. 1. Do postępowań sprawach wydania wiz 
 
 **Art. 20d.** Kierownikiem ośrodka może być osoba, która:
 
+- **1)** posiada pełną zdolność do czynności prawnych;
+- **2)** korzysta z pełni praw publicznych;
+- **3)** posiada co najmniej 2-letnie doświadczenie prowadzeniu działalności, o której 20e ust. 3;
+- **4)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+- **5)** cieszy się nieposzlakowaną opinią.
+
 **Art. 20e.**
 
 1. Pełnomocnik dokonuje wyboru podmiotu lub podmiotów prowadzących ośrodki otwartym konkursie ofert, zwanym dalej „konkursem”.
 
-2. Konkurs przeprowadza się z zachowaniem zasad przejrzystości i równego traktowania uczestniczących nim podmiotów.
+2. Konkurs przeprowadza się z zachowaniem zasad przejrzystości i równego traktowania uczestniczących nim podmiotów. prowadzenie działalności:
 
 - **1)** zakresie pomocy społecznej, tym udzielanie pomocy rodzinom i osobom trudnej sytuacji życiowej oraz wyrównywanie szans tych rodzin i osób, lub
 - **2)** na rzecz integracji zawodowej i społecznej osób zagrożonych wykluczeniem społecznym, lub
@@ -824,6 +913,10 @@ poz. 921), które stanowią: „Art. 5. 1. Do postępowań sprawach wydania wiz 
 
 **Art. 20j.** Minister właściwy do spraw wewnętrznych określi, drodze rozporządzenia, regulamin organizacyjno-porządkowy ośrodka obejmujący:
 
+- **1)** przepisy porządkowe,
+- **2)** sposób organizacji posiłków
+- **3)** (uchylony) uwzględniając szczególności potrzeby repatriantów przebywających ośrodku, konieczność zapewnienia bezpiecznych warunków pobytu na terenie ośrodka oraz jego sprawnego funkcjonowania.
+
 **Art. 20k.**
 
 1. Nadzór nad funkcjonowaniem ośrodków sprawuje Pełnomocnik.
@@ -850,7 +943,7 @@ poz. 921), które stanowią: „Art. 5. 1. Do postępowań sprawach wydania wiz 
 
 - **1)** datę, miejsce i rodzaj czynności wykonywanych ramach nadzoru;
 - **2)** dokumenty i informacje uzyskane podczas wykonywania czynności oraz ich źródła;
-- **3)** dodatkowe uwagi uwzględniające szczególności zakres stwierdzonych nieprawidłowości, przyczynę ich powstania i skutki, jakie wywołują lub mogą wywołać, oraz zalecenia lub wnioski dotyczące usprawnienia nadzorowanego ośrodka.
+- **3)** dodatkowe uwagi uwzględniające szczególności zakres stwierdzonych nieprawidłowości, przyczynę ich powstania i skutki, jakie wywołują lub mogą wywołać, oraz zalecenia lub wnioski dotyczące usprawnienia nadzorowanego ośrodka. zacyjno-porządkowym ośrodka Pełnomocnik wydaje decyzję sprawie pozbawienia go miejsca ośrodku.
 
 2. Repatriant jest obowiązany opuścić ośrodek przypadku:
 
@@ -940,7 +1033,7 @@ poz. 921), które stanowią: „Art. 5. 1. Do postępowań sprawach wydania wiz 
 - **3)** tryb kontroli podejmowanych przez gminę działań;
 - **4)** sposób rozliczenia udzielonej dotacji.
 
-8. Repatriantowi nie przysługują żadne roszczenia z tytułu zapewnienia różnych gminach różnych warunków lokalu mieszkalnego, jeżeli gminy te otrzymały dotację z budżetu państwa, o której ust. 1.
+8. Repatriantowi nie przysługują żadne roszczenia z tytułu zapewnienia różnych gminach różnych warunków lokalu mieszkalnego, jeżeli gminy te otrzymały dotację z budżetu państwa, o której ust. 1. adaptacji lub na wyposażeniu lokalu mieszkalnego miejscu osiedlenia się Rzeczypospolitej Polskiej.
 
 2. Zadanie gminy, o którym ust. 1, jest zadaniem z zakresu administracji rządowej.
 
@@ -1122,7 +1215,7 @@ poz. 921), które stanowią: „Art. 5. 1. Do postępowań sprawach wydania wiz 
 
 1. Pełnomocnik prowadzi systemie teleinformatycznym ewidencję osób ubiegających się o wydanie wizy krajowej celu repatriacji, które nie posiadają warunków do osiedlenia się Rzeczypospolitej Polskiej.
 
-2. Ewidencję, o której ust. 1, prowadzi się celu zapewnienia warunków do osiedlenia się osobom, o których ust. 1.
+2. Ewidencję, o której ust. 1, prowadzi się celu zapewnienia warunków do osiedlenia się osobom, o których ust. 1. wizy krajowej celu repatriacji:
 
 - **1)** imię (imiona) i nazwisko;
 - **2)** nazwisko rodowe;
@@ -1164,7 +1257,34 @@ poz. 921), które stanowią: „Art. 5. 1. Do postępowań sprawach wydania wiz 
 
 **Art. 33a.** W rejestrach, o których 33 ust. 1–3, gromadzi się i przechowuje:
 
+- **1)** informacje o wnioskach i wydanych rozstrzygnięciach odpowiednio sprawach:
+    - **a)** wydania wizy krajowej celu repatriacji,
+    - **b)** uznania za repatrianta,
+    - **c)** udzielenia pomocy repatriantom ze środków budżetu państwa;
+
+- **2)** następujące dane dotyczące osób, które złożyły wnioski sprawach, o których pkt 1:
+    - **a)** imię (imiona) i nazwisko,
+    - **b)** nazwisko rodowe,
+    - **c)** imię i nazwisko rodowe ojca,
+    - **e)** datę urodzenia,
+    - **f)** miejsce i kraj urodzenia,
+    - **g)** miejsce zamieszkania za granicą,
+    - **h)** stan cywilny,
+    - **i)** narodowość i pochodzenie etniczne,
+    - **j)** obywatelstwo,
+    - **k)** datę nabycia obywatelstwa polskiego,
+    - **l)** numer PESEL,
+    - **m)** datę opuszczenia ośrodka.
+
 **Art. 33b.** W postępowaniach prowadzonych na podstawie przepisów niniejszej ustawy mogą być przetwarzane następujące dane i informacje dotyczące osób objętych wnioskami, o których 33a pkt 1, bez ich zgody:
+
+- **1)** imię (imiona) i nazwisko;
+- **2)** miejsce zamieszkania;
+- **3)** obywatelstwo;
+- **4)** narodowość i pochodzenie etniczne;
+- **5)** zawód, wykształcenie i kwalifikacje zawodowe;
+- **6)** informacje o oczekiwaniach co do sposobu zapewnienia warunków do osiedlenia się;
+- **7)** numer PESEL.
 
 **Art. 34.**
 
@@ -1176,15 +1296,28 @@ poz. 921), które stanowią: „Art. 5. 1. Do postępowań sprawach wydania wiz 
 
 **Art. 35.** Dane lub informacje przechowywane rejestrach, o których 33 ust. 1–3 i 34 ust. 1, udostępnia się:
 
+- **1)** organom administracji publicznej,
+- **2)** Radzie do Spraw Uchodźców, Policji, Straży Granicznej, Służbie Więziennej, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Żandarmerii Wojskowej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Ochrony Państwa, Państwowej Inspekcji Pracy, Centralnemu Biuru Antykorupcyjnemu, Szefowi Krajowego Centrum Informacji Kryminalnych i straży gminnej (miejskiej),
+- **3)** organom Krajowej Administracji Skarbowej,
+- **4)** sądom,
+- **5)** prokuraturom zakresie niezbędnym do realizacji ich ustawowych zadań.
+
 **Art. 35a.**
 
 1. Podmiotom, o których 35, udostępnia się, na ich wniosek, dane z rejestrów, o których 33 ust. 1–3 i 34 ust. 1.
 
 2. Organ rozpatrujący wniosek, o którym ust. 1, odmawia, drodze decyzji, udostępnienia danych, jeżeli zakres tych danych podanych we wniosku nie odpowiada zakresowi, o którym 35.
 
-3. Dane przetwarzane rejestrach, o których 33 ust. 1–3 i 34 ust. 1, są udostępniane trybie, o którym ust. i 2, przez ministra właściwego do spraw wewnętrznych, wojewodę, konsula i Pełnomocnika, zakresie prowadzonych przez nich rejestrów. oraz przepisy wydane na podstawie 457 i 458 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach.
+3. Dane przetwarzane rejestrach, o których 33 ust. 1–3 i 34 ust. 1, są udostępniane trybie, o którym ust. i 2, przez ministra właściwego do spraw wewnętrznych, wojewodę, konsula i Pełnomocnika, zakresie prowadzonych przez nich rejestrów. pomocą urządzeń telekomunikacyjnych stosuje się przepisy 453–456 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach oraz przepisy wydane na podstawie 457 i 458 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach.
 
 **Art. 36.** Administratorem danych osobowych przetwarzanych w:
+
+- **1)** ewidencji, o której 20m ust. 1, jest kierownik ośrodka;
+- **2)** ewidencjach, o których 28a ust. 5, 29 ust. i 30 ust. 1, jest Pełnomocnik;
+- **3)** rejestrze, o którym 33 ust. 1, jest minister właściwy do spraw wewnętrznych i właściwy konsul;
+- **4)** rejestrze, o którym 33 ust. 2, jest minister właściwy do spraw wewnętrznych i właściwy wojewoda;
+- **5)** rejestrze, o którym 33 ust. 3, jest minister właściwy do spraw wewnętrznych, Pełnomocnik, właściwy wojewoda i właściwy konsul;
+- **6)** rejestrze, o którym 34 ust. 1, jest minister właściwy do spraw wewnętrznych.
 
 #### Rozdział 8 Finansowanie zadań z budżetu państwa
 

@@ -8,12 +8,10 @@ pos: 1106
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy o podatku dochodowym od osób prawnych, ustawy o podatku od towarów i usług, ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw
-
-*USTAWA z dnia 28 maja 2020 r.*
+# Ustawa z dnia 28 maja 2020 r. o zmianie ustawy o podatku dochodowym od osób prawnych, ustawy o podatku od towarów i usług, ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,172 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2020-05-28 |
 | Data wydania | 2020-06-25 |
+| Wejście w życie | 2020-07-01 |
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001106) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1106/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2019 r. poz. 865, z późn. zm. ) wprowadza się następujące zmiany:
+Przemieszczenie towarów w procedurze magazynu typu call-off stock na terytorium państwa członkowskiego inne niż terytorium kraju
+1.
+Przemieszczenia towarów w procedurze magazynu typu call-off stock nie uznaje się za wewnątrzwspólnotową dostawę towarów, o której mowa w art. 13 ust. 3.
+2.
+Procedura magazynu typu call-off stock ma miejsce, jeżeli łącznie spełnione są następujące warunki:
+1)
+towary są wysyłane lub transportowane przez podatnika zarejestrowanego jako podatnik VAT UE lub przez osobę trzecią działającą na jego rzecz, z terytorium kraju na terytorium państwa członkowskiego inne niż terytorium kraju, w celu ich dostawy na późniejszym etapie i po ich wprowadzeniu do magazynu w procedurze magazynu typu call-off stock podatnikowi podatku od wartości dodanej uprawnionemu do nabycia prawa do rozporządzania tymi towarami jak właściciel zgodnie z zawartym wcześniej porozumieniem między tymi podatnikami;
+2)
+podatnik wysyłający lub transportujący towary nie ma siedziby działalności gospodarczej ani stałego miejsca prowadzenia działalności gospodarczej na terytorium państwa członkowskiego, do którego przemieszcza towary z terytorium kraju;
+3)
+podatnik podatku od wartości dodanej, na rzecz którego towary są wysyłane lub transportowane, jest zidentyfikowany na potrzeby transakcji wewnątrzwspólnotowych na terytorium państwa członkowskiego innym niż terytorium kraju, a jego nazwa lub imię i nazwisko oraz numer identyfikacyjny dla transakcji wewnątrzwspólnotowych nadany mu przez to państwo członkowskie są znane podatnikowi, o którym mowa w pkt 2, w momencie rozpoczęcia wysyłki lub transportu;
+4)
+podatnik, o którym mowa w pkt 2, rejestruje przemieszczenie towarów w ewidencji, o której mowa w art. 109 ust. 11c, oraz podaje w informacji podsumowującej, o której mowa w art. 100 ust. 1 pkt 5, numer identyfikacyjny, o którym mowa w pkt 3.
+Jeżeli warunki określone w art. 13h ust. 2 są spełnione, wewnątrzwspólnotową dostawę towarów, o której mowa w art. 13 ust. 1, uznaje się za dokonaną przez podatnika, o którym mowa w art. 13h ust. 2 pkt 2, na terytorium kraju w momencie przeniesienia prawa do rozporządzania towarami jak właściciel na podatnika podatku od wartości dodanej, któremu te towary mają być dostarczone, o ile przeniesienie to nastąpi w terminie 12 miesięcy od dnia wprowadzenia towarów do magazynu w procedurze magazynu typu call-off stock.
+Jeżeli w terminie, o którym mowa w art. 13i, podatnik podatku od wartości dodanej zostaje zastąpiony przez innego podatnika podatku od wartości dodanej, uznaje się, że w okresie zastąpienia nie miała miejsca wewnątrzwspólnotowa dostawa towarów, o której mowa w art. 13 ust. 3, pod warunkiem że:
+1)
+podatnik zastępujący podatnika podatku od wartości dodanej jest uprawniony do nabycia prawa do rozporządzania towarami jak właściciel zgodnie z porozumieniem zawartym między nim a podatnikiem, o którym mowa w art. 13h ust. 2 pkt 2;
+2)
+podatnik, o którym mowa w art. 13h ust. 2 pkt 2, nie ma siedziby działalności gospodarczej ani stałego miejsca prowadzenia działalności gospodarczej na terytorium państwa członkowskiego, do którego przemieszcza towary z terytorium kraju;
+3)
+podatnik zastępujący podatnika podatku od wartości dodanej jest zidentyfikowany na potrzeby transakcji wewnątrzwspólnotowych na terytorium państwa członkowskiego innym niż terytorium kraju, a jego nazwa lub imię i nazwisko oraz numer identyfikacyjny dla transakcji wewnątrzwspólnotowych nadany mu przez to państwo członkowskie są znane podatnikowi, o którym mowa w art. 13h ust. 2 pkt 2, w momencie zastąpienia;
+4)
+podatnik, o którym mowa w art. 13h ust. 2 pkt 2, podaje w informacji podsumowującej, o której mowa w art. 100 ust. 1 pkt 5, numer identyfikacyjny, o którym mowa w pkt 3;
+5)
+zastąpienie zostało zarejestrowane przez podatnika, o którym mowa w art. 13h ust. 2 pkt 2, w ewidencji, o której mowa w art. 109 ust. 11c.
+1.
+Jeżeli w terminie, o którym mowa w art. 13i, przestaje być spełniony którykolwiek z warunków, o których mowa w art. 13h ust. 2 lub art. 13j, uznaje się, że przemieszczenie towarów, o którym mowa w art. 13 ust. 3, nastąpiło z chwilą, gdy warunek ten przestał być spełniony.
+2.
+Jeżeli przeniesienie prawa do rozporządzania towarami jak właściciel nastąpiło na osobę inną niż podatnik podatku od wartości dodanej, któremu te towary miały być dostarczone, lub podatnik go zastępujący, uznaje się, że warunki, o których mowa w art. 13h ust. 2 lub art. 13j, przestają być spełnione bezpośrednio przed taką czynnością.
+3.
+Jeżeli towary są wysyłane lub transportowane na terytorium państwa członkowskiego inne niż terytorium kraju lub na terytorium państwa trzeciego, uznaje się, że warunki określone w art. 13h ust. 2 lub art. 13j przestają być spełnione bezpośrednio przed rozpoczęciem tej wysyłki lub transportu.
+4.
+W przypadku zniszczenia, utraty lub kradzieży towarów przemieszczonych do magazynu w procedurze magazynu typu call-off stock uznaje się, że warunki określone w art. 13h ust. 2 lub art. 13j przestają być spełnione w dniu, w którym towary zostały utracone, skradzione lub zniszczone, a jeżeli określenie takiego dnia nie jest możliwe – w dniu, w którym stwierdzono ich zniszczenie lub brak.
+1.
+Jeżeli w terminie, o którym mowa w art. 13i, nie nastąpiło przeniesienie prawa do rozporządzania towarami jak właściciel na rzecz podatnika podatku od wartości dodanej lub podatnika go zastępującego ani nie zaszła żadna z okoliczności określonych w art. 13k, uznaje się, że wewnątrzwspólnotowa dostawa towarów, o której mowa w art. 13 ust. 3, ma miejsce w dniu następującym po upływie tego terminu.
+2.
+Jeżeli w terminie, o którym mowa w art. 13i, nie nastąpiło przeniesienie prawa do rozporządzania towarami jak właściciel i towary zostały powrotnie przemieszczone na terytorium kraju, a podatnik, o którym mowa w art. 13h ust. 2 pkt 2, zarejestrował ich powrotne przemieszczenie w ewidencji, o której mowa w art. 109 ust. 11c, uznaje się, że nie miała miejsca wewnątrzwspólnotowa dostawa towarów, o której mowa w art. 13 ust. 3.
+” ;
+4)
+w art. 20:
+a)
+w ust. 1 skreśla się wyrazy „oraz art. 20a”,
+b)
+w ust. 5 w zdaniu pierwszym skreśla się wyrazy „oraz art. 20b”;
+5)
+uchyla się art. 20a i art. 20b;
+6)
+w art. 21 w ust. 6 w pkt 2 w lit. b skreśla się wyrazy „i art. 20a”;
+7)
+w art. 22:
+a)
+ust. 2 otrzymuje brzmienie:
+„
+2.
+W przypadku gdy te same towary są przedmiotem kolejnych dostaw oraz są wysyłane lub transportowane bezpośrednio od pierwszego dostawcy do ostatniego w kolejności nabywcy, wysyłkę lub transport przyporządkowuje się wyłącznie jednej dostawie.
+” ,
+b)
+po ust. 2 dodaje się ust. 2a-2d w brzmieniu:
+„
+2a.
+W przypadku towarów, o których mowa w ust. 2, które są wysyłane lub transportowane z terytorium kraju na terytorium państwa trzeciego przez nabywcę, który dokonuje również ich dostawy, przyjmuje się, że wysyłka lub transport są przyporządkowane dostawie dokonanej do tego nabywcy, chyba że z warunków dostawy wynika, że wysyłkę lub transport towarów należy przyporządkować jego dostawie.
+2b.
+W przypadku towarów, o których mowa w ust. 2, które są wysyłane lub transportowane z terytorium jednego państwa członkowskiego na terytorium innego państwa członkowskiego, wysyłka lub transport tych towarów są przyporządkowane wyłącznie dostawie dokonanej do podmiotu pośredniczącego.
+2c.
+W przypadku gdy podmiot pośredniczący przekazał swojemu dostawcy numer identyfikacyjny dla transakcji wewnątrzwspólnotowych nadany mu przez państwo członkowskie, z którego towary są wysyłane lub transportowane, wysyłkę lub transport przypisuje się wyłącznie dostawie dokonanej przez ten podmiot.
+2d.
+Przez podmiot pośredniczący, o którym mowa w ust. 2b i 2c, rozumie się innego niż pierwszy w kolejności dostawcę towarów, który wysyła lub transportuje towar samodzielnie albo za pośrednictwem osoby trzeciej działającej na jego rzecz.
+” ,
+c)
+w ust. 3 we wprowadzeniu do wyliczenia wyrazy „W przypadku, o którym mowa w ust. 2,” zastępuje się wyrazami „W przypadkach, o których mowa w ust. 2–2c,”;
+8)
+w art. 29a:
+a)
+w ust. 1 wyrazy „ust. 2–5” zastępuje się wyrazami „ust. 2, 3 i 5”,
+b)
+w ust. 3 skreśla się wyrazy „, z zastrzeżeniem ust. 4”,
+c)
+uchyla się ust. 4;
+9)
+w art. 30a w ust. 1 skreśla się wyrazy „, w tym dokonywanego na podstawie art. 12 ust. 4–6,”;
+10)
+w art. 42:
+a)
+w ust. 1 w pkt 1 po wyrazach „dla podatku od wartości dodanej” dodaje się wyrazy „, który nabywca podał podatnikowi”,
+b)
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+„
+1a.
+Stawka podatku, o której mowa w ust. 1, nie ma zastosowania, jeżeli:
+1)
+podatnik nie dopełnił obowiązku, o którym mowa w art. 100 ust. 1 pkt 1 lub ust. 3 pkt 1, lub
+2)
+złożona informacja podsumowująca nie zawiera prawidłowych danych dotyczących wewnątrzwspólnotowych dostaw towarów zgodnie z wymogami, o których mowa w art. 100 ust. 8
+chyba że podatnik należycie na piśmie wyjaśnił uchybienie naczelnikowi urzędu skarbowego.
+” ;
+11)
+w art. 97 w ust. 10 w pkt 4 na końcu dodaje się przecinek i dodaje się pkt 5 w brzmieniu:
+„
+5)
+przemieszczaniu towarów, w celu ich nabycia, z terytorium państwa członkowskiego innego niż terytorium kraju na terytorium kraju w procedurze magazynu typu call-off stock, o której mowa w dziale II rozdziale 3a
+” ;
+12)
+w art. 100:
+a)
+w ust. 1 w pkt 4 na końcu dodaje się przecinek i dodaje się pkt 5 w brzmieniu:
+„
+5)
+przemieszczeniach towarów w procedurze magazynu typu call-off stock, o której mowa w dziale II rozdziale 3b, oraz o zmianach w zakresie tej procedury zawartych w informacjach
+” ,
+b)
+ust. 3 otrzymuje brzmienie:
+„
+3.
+Informacje podsumowujące składa się za okresy miesięczne, za pomocą środków komunikacji elektronicznej, w terminie do 25. dnia miesiąca następującego po miesiącu, w którym:
+1)
+powstał obowiązek podatkowy z tytułu dokonania transakcji, o których mowa w ust. 1 pkt 1–4;
+2)
+dokonano przemieszczenia towarów lub zmiany w zakresie procedury, o których mowa w ust. 1 pkt 5.
+” ,
+c)
+w ust. 8:
+– w pkt 1 po wyrazach „który zastosował dla transakcji” dodaje się wyrazy „i przemieszczeń”,
+– w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „ 5) właściwy i ważny numer identyfikacyjny dla transakcji wewnątrzwspólnotowych podatnika podatku od wartości dodanej nadany mu przez państwo członkowskie, na terytorium którego towary zostały przemieszczone w procedurze magazynu typu call-off stock – w przypadku, o którym mowa w ust. 1 pkt 5. ” ;
+13)
+w art. 109 po ust. 11a dodaje się ust. 11b-11e w brzmieniu:
+„
+11b.
+Podatnicy, na rzecz których są przemieszczane towary z terytorium państwa członkowskiego innego niż terytorium kraju na terytorium kraju w procedurze magazynu typu call-off stock, o której mowa w dziale II rozdziale 3a, są obowiązani prowadzić ewidencję tych towarów zgodnie z wymogami, o których mowa w art. 54a ust. 2 rozporządzenia 282/2011.
+11c.
+Podatnicy, którzy przemieszczają towary z terytorium kraju na terytorium państwa członkowskiego inne niż terytorium kraju w procedurze magazynu typu call-off stock, o której mowa w dziale II rozdziale 3b, są obowiązani prowadzić ewidencję tych towarów zgodnie z wymogami, o których mowa w art. 54a ust. 1 rozporządzenia 282/2011.
+11d.
+Podatnicy niebędący podatnikami, o których mowa w ust. 11b, oraz podatnicy podatku od wartości dodanej, prowadzący magazyn, do którego wprowadzane są towary w procedurze magazynu typu call-off stock, o której mowa w dziale II rozdziale 3a, są obowiązani prowadzić ewidencję towarów, dostępną dla organów podatkowych w miejscu prowadzenia magazynu.
+11e.
+Ewidencja, o której mowa w ust. 11d, zawiera następujące dane:
+1)
+numer identyfikacyjny podatnika podatku od wartości dodanej przemieszczającego towary w procedurze magazynu typu call-off stock, o której mowa w dziale II rozdziale 3a, jeżeli prowadzącym magazyn jest podatnik;
+2)
+numer identyfikacyjny, o którym mowa w art. 13a ust. 2 pkt 3, a w przypadku podatnika zastępującego – numer identyfikacyjny, o którym mowa w art. 13c pkt 3;
+3)
+opis i ilość towarów wprowadzonych do magazynu oraz datę ich wprowadzenia;
+4)
+opis i ilość towarów wyprowadzonych z magazynu oraz datę ich wyprowadzenia;
+5)
+opis i ilość towarów zniszczonych, utraconych lub skradzionych oraz datę zniszczenia, utraty lub kradzieży towarów, które uprzednio zostały wprowadzone do magazynu, a jeżeli określenie takiej daty nie jest możliwe – datę stwierdzenia ich zniszczenia lub braku.
+” ;
+14)
+w art. 127:
+a)
+ust. 6 otrzymuje brzmienie:
+„
+6.
+Sprzedawcy, o których mowa w ust. 5, mogą dokonywać zwrotu, o którym mowa w art. 126 ust. 1, wyłącznie w odniesieniu do towarów nabytych przez podróżnego u tego sprzedawcy.
+” ,
+b)
+uchyla się ust. 7.
+Automatyczna wymiana informacji o schematach podatkowych transgranicznych
+
+**Art. 1.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2019 r. poz. 865, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „
+
+#### Rozdział 3a Struktury hybrydowe
 
 **Art. 16n.**
 
@@ -38,22 +198,22 @@ source: "isap-pdf"
 - **3)** hybrydowym podmiocie – oznacza to podmiot, który dla celów podatkowych jednego państwa jest traktowany jako podmiot nietransparentny, a dla celów podatkowych innego państwa jest traktowany jako podmiot transparentny;
 - **4)** instrumencie finansowym – oznacza to instrument stanowiący podstawę osiągania zysku z tytułu finansowania dłużnego lub kapitałowego, który podlega opodatkowaniu jako dochód z tytułu wierzytelności, udziału w zyskach lub instrumentów pochodnych na podstawie przepisów państwa odbiorcy lub państwa płatnika;
 - **5)** odliczeniu – oznacza to zaliczenie do kosztów uzyskania przychodów lub odliczenie od dochodu (przychodu), podstawy opodatkowania lub podatku w państwie płatnika lub państwie inwestora;
-- **6)** odliczeniu bez opodatkowania – oznacza to odliczenie w państwie płatnika wartości świadczenia lub hipotetycznego świadczenia między podmiotem nietransparentnym a jego zagranicznym zakładem lub między dwoma zagranicznymi zakładami, jeżeli świadczenie lub hipotetyczne świadczenie na podstawie przepisów państwa odbiorcy:
-    - **a)** nie jest uwzględniane w dochodach (przychodach) przy określaniu dochodu (przychodu) w państwie odbiorcy lub
-    - **b)** jest objęte ulgą podatkową w państwie odbiorcy wyłącznie ze względu na charakter tego świadczenia, polegającą na zwolnieniu z podatku, obniżeniu stawki podatkowej, zwrocie podatku lub kredycie podatkowym innym niż kredyt podatkowy z tytułu podatków pobieranych u źródła;
+- **6)** odliczeniu bez opodatkowania – oznacza to odliczenie w państwie płatnika wartości świadczenia lub hipotetycznego świadczenia między podmiotem nietransparentnym a jego zagranicznym zakładem lub między dwoma zagranicznymi zakładami, jeżeli świadczenie lub hipotetyczne świadczenie na podstawie przepisów państwa odbiorcy: nie jest uwzględniane w dochodach (przychodach) przy określaniu dochodu (przychodu) w państwie odbiorcy lub jest objęte ulgą podatkową w państwie odbiorcy wyłącznie ze względu na charakter tego świadczenia, polegającą na zwolnieniu z podatku, obniżeniu stawki podatkowej, zwrocie podatku lub kredycie podatkowym innym niż kredyt podatkowy z tytułu podatków pobieranych u źródła;
+    - **a)**
+    - **b)**
 
 - **7)** państwie – oznacza to również terytorium;
 - **8)** państwie inwestora – oznacza to państwo inne niż państwo płatnika, które przyznaje prawo do odliczenia świadczenia, kosztu lub straty skutkującego podwójnym odliczeniem;
 - **9)** państwie odbiorcy – oznacza to państwo, w którym zgodnie z prawem innego państwa świadczenie lub hipotetyczne świadczenie skutkujące odliczeniem bez opodatkowania jest uznawane za otrzymane;
-- **10)** państwie płatnika – oznacza to państwo, w którym:
-    - **a)** świadczenie ma źródło lub zostały poniesione koszty lub straty – w przypadku podwójnego odliczenia,
-    - **b)** hybrydowy podmiot ma siedzibę lub zagraniczny zakład jest położony – w przypadku świadczenia dokonanego przez hybrydowy podmiot lub zagraniczny zakład, które skutkuje podwójnym odliczeniem,
-    - **c)** przyjmuje się zgodnie z prawem tego państwa, że świadczenie lub hipotetyczne świadczenie zostało dokonane – w przypadku odliczenia bez opodatkowania;
+- **10)** państwie płatnika – oznacza to państwo, w którym: świadczenie ma źródło lub zostały poniesione koszty lub straty – w przypadku podwójnego odliczenia, hybrydowy podmiot ma siedzibę lub zagraniczny zakład jest położony – w przypadku świadczenia dokonanego przez hybrydowy podmiot lub zagraniczny zakład, które skutkuje podwójnym odliczeniem, przyjmuje się zgodnie z prawem tego państwa, że świadczenie lub hipotetyczne świadczenie zostało dokonane – w przypadku odliczenia bez opodatkowania;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **11)** podmiocie – oznacza to osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej;
 - **12)** podmiocie nietransparentnym – oznacza to podmiot, który podlega opodatkowaniu podatkiem dochodowym na podstawie przepisów państwa;
 - **13)** podmiocie transparentnym – oznacza to podmiot, którego dochody (przychody) i koszty są traktowane na podstawie przepisów państwa odpowiednio jako osiągnięte lub poniesione przez co najmniej jeden inny podmiot lub jedną osobę fizyczną;
-- **14)** podmiotach powiązanych – oznacza to podmioty powiązane, o których mowa w art. 24a ust. 2 pkt 4, a także podmioty wchodzące w skład grupy kapitałowej obowiązanej na podstawie przepisów o rachunkowości do sporządzania skonsolidowanego sprawozdania finansowego, przy czym w przypadkach, o których mowa w art. 16o ust. 1, art. 16p ust. 1 pkt 1 lit. b– e i art. 16q, wielkość udziału w kapitale lub prawach głosu w organach kontrolnych, stanowiących lub zarządzających lub prawa do uczestnictwa w zysku wynosi co najmniej 50%;
+- **14)** podmiotach powiązanych – oznacza to podmioty powiązane, o których mowa w art. 24a ust. 2 pkt 4, a także podmioty wchodzące w skład grupy kapitałowej obowiązanej na podstawie przepisów o rachunkowości do sporządzania skonsolidowanego sprawozdania finansowego, przy czym w przypadkach, o których mowa w art. 16o ust. 1, art. 16p ust. 1 pkt 1 lit. b-e i art. 16q, wielkość udziału w kapitale lub prawach głosu w organach kontrolnych, stanowiących lub zarządzających lub prawa do uczestnictwa w zysku wynosi co najmniej 50%;
 - **15)** podwójnym odliczeniu – oznacza to odliczenie wartości tych samych świadczeń, kosztów lub strat w państwie płatnika i w państwie inwestora;
 - **16)** pominiętym zagranicznym zakładzie – oznacza to uzgodnienie, które jest traktowane jako powodujące powstanie zagranicznego zakładu na podstawie przepisów państwa, którego podmiot nietransparentny jest rezydentem podatkowym, i nie jest traktowane jako powodujące powstanie zagranicznego zakładu na podstawie przepisów innego państwa;
 - **17)** rezydencie podatkowym – oznacza to podmiot podlegający na podstawie przepisów państwa obowiązkowi podatkowemu od całości swoich dochodów (przychodów) bez względu na miejsce położenia źródeł przychodów;
@@ -64,69 +224,63 @@ source: "isap-pdf"
 
 2. W przypadku osób, którym wspólnie przysługują w podmiocie udziały w kapitale lub prawa głosu w organach kontrolnych, stanowiących lub zarządzających, w celu ustalenia podmiotów powiązanych, przy obliczaniu wielkości tych udziałów oraz praw sumuje się odpowiednio udziały w kapitale oraz prawa głosu w organach kontrolnych, stanowiących i zarządzających przysługujące łącznie tym osobom. Przez osoby, o których mowa w zdaniu pierwszym, rozumie się podmioty i osoby fizyczne.
 
-**Art. 16o.**
-
 1. Podatnikowi, o którym mowa w art. 3 ust. 1 i 2, nie przysługuje prawo do zaliczenia do kosztów uzyskania przychodów kosztów podlegających podwójnemu odliczeniu, jeżeli są spełnione łącznie następujące warunki:
 
 - **1)** podwójne odliczenie zostało dokonane przez podmioty powiązane lub w ramach uzgodnienia strukturalnego;
-- **2)** Rzeczpospolita Polska jest państwem:
-    - **a)** inwestora albo
-    - **b)** płatnika – w przypadku gdy państwo inwestora inne niż Rzeczpospolita Polska nie wyłączyło prawa do odliczenia tych kosztów.
+- **2)** Rzeczpospolita Polska jest państwem: inwestora albo płatnika – w przypadku gdy państwo inwestora inne niż Rzeczpospolita Polska nie wyłączyło prawa do odliczenia tych kosztów.
+    - **a)**
+    - **b)**
 
 2. Przepisu ust. 1 nie stosuje się, jeżeli podwójnemu odliczeniu odpowiada podwójnie wykazany w bieżącym lub kolejnym okresie rozliczeniowym dochód (przychód) w państwie inwestora i państwie płatnika.
 
-**Art. 16p.**
-
 1. Podatnikowi, o którym mowa w art. 3 ust. 1 i 2, nie przysługuje prawo do zaliczenia do kosztów uzyskania przychodów kosztów podlegających odliczeniu bez opodatkowania, jeżeli są spełnione łącznie następujące warunki:
 
-- **1)** odliczenie bez opodatkowania wystąpiło w jednym z następujących przypadków:
-    - **a)** świadczenie z tytułu hybrydowego instrumentu finansowego skutkujące odliczeniem bez opodatkowania ze względu na różnice w charakterze tego instrumentu lub świadczenia nie powoduje powstania dochodu (przychodu) w państwie odbiorcy w rozsądnym terminie, przy czym uznaje się, że świadczenie powoduje powstanie dochodu (przychodu) w rozsądnym terminie, jeżeli: – dochód (przychód) ten powstanie w terminie nieprzekraczającym 12 miesięcy, licząc od końca roku podatkowego płatnika, w którym zostało dokonane świadczenie, lub – można zasadnie oczekiwać, że dochód (przychód) ten powstanie w innym terminie niż określony w tiret pierwszym, który miałby zastosowanie w przypadku, gdyby świadczenie zostało wykonane zgodnie z warunkami rynkowymi między podmiotami innymi niż podmioty powiązane,
-    - **b)** świadczenie dokonane na rzecz hybrydowego podmiotu skutkuje odliczeniem bez opodatkowania ze względu na występujące różnice w podatkowym przypisaniu tego świadczenia na podstawie przepisów państwa siedziby lub zarejestrowania tego hybrydowego podmiotu i innych osób lub podmiotów posiadających udział w tym hybrydowym podmiocie,
-    - **c)** świadczenie dokonane na rzecz podmiotu nietransparentnego posiadającego zagraniczny zakład skutkuje odliczeniem bez opodatkowania ze względu na występujące różnice w podatkowym przypisaniu tego świadczenia między tym podmiotem a zagranicznym zakładem albo między co najmniej dwoma zagranicznymi zakładami tego podmiotu na podstawie przepisów państw, w których podmiot nietransparentny posiadający zagraniczny zakład prowadzi działalność,
-    - **d)** świadczenia dokonano na rzecz pominiętego zagranicznego zakładu,
-    - **e)** świadczenie dokonane przez hybrydowy podmiot skutkuje odliczeniem bez opodatkowania ze względu na pominięcie świadczenia na podstawie przepisów państwa odbiorcy,
-    - **f)** hipotetyczne świadczenie między podmiotem nietransparentnym a jego zagranicznym zakładem lub między zagranicznymi zakładami skutkuje odliczeniem bez opodatkowania ze względu na pominięcie świadczenia na podstawie przepisów państwa odbiorcy;
+- **1)** odliczenie bez opodatkowania wystąpiło w jednym z następujących przypadków: świadczenie z tytułu hybrydowego instrumentu finansowego skutkujące odliczeniem bez opodatkowania ze względu na różnice w charakterze tego instrumentu lub świadczenia nie powoduje powstania dochodu (przychodu) w państwie odbiorcy w rozsądnym terminie, przy czym uznaje się, że świadczenie powoduje powstanie dochodu (przychodu) w rozsądnym terminie, jeżeli: – dochód (przychód) ten powstanie w terminie nieprzekraczającym 12 miesięcy, licząc od końca roku podatkowego płatnika, w którym zostało dokonane świadczenie, lub – można zasadnie oczekiwać, że dochód (przychód) ten powstanie w innym terminie niż określony w tiret pierwszym, który miałby zastosowanie w przypadku, gdyby świadczenie zostało wykonane zgodnie z warunkami rynkowymi między podmiotami innymi niż podmioty powiązane, świadczenie dokonane na rzecz hybrydowego podmiotu skutkuje odliczeniem bez opodatkowania ze względu na występujące różnice w podatkowym przypisaniu tego świadczenia na podstawie przepisów państwa siedziby lub zarejestrowania tego hybrydowego podmiotu i innych osób lub podmiotów posiadających udział w tym hybrydowym podmiocie, świadczenie dokonane na rzecz podmiotu nietransparentnego posiadającego zagraniczny zakład skutkuje odliczeniem bez opodatkowania ze względu na występujące różnice w podatkowym przypisaniu tego świadczenia między tym podmiotem a zagranicznym zakładem albo między co najmniej dwoma zagranicznymi zakładami tego podmiotu na podstawie przepisów państw, w których podmiot nietransparentny posiadający zagraniczny zakład prowadzi działalność, świadczenia dokonano na rzecz pominiętego zagranicznego zakładu, świadczenie dokonane przez hybrydowy podmiot skutkuje odliczeniem bez opodatkowania ze względu na pominięcie świadczenia na podstawie przepisów państwa odbiorcy, hipotetyczne świadczenie między podmiotem nietransparentnym a jego zagranicznym zakładem lub między zagranicznymi zakładami skutkuje odliczeniem bez opodatkowania ze względu na pominięcie świadczenia na podstawie przepisów państwa odbiorcy;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
 
 - **2)** odliczenie bez opodatkowania zostało dokonane przez podmioty powiązane lub w ramach uzgodnienia strukturalnego;
 - **3)** Rzeczpospolita Polska jest państwem płatnika.
 
-2. Przepisów art. 12 ust. 4 pkt 2, 3c, 3e–4a, 6a, 11, 12 i 21 nie stosuje się do wpłat, zarachowanych należności ani innych świadczeń określonych w tych przepisach, uzyskanych przez podatnika, o którym mowa w art. 3 ust. 1 i 2, jeżeli są spełnione łącznie następujące warunki:
+2. Przepisów art. 12 ust. 4 pkt 2, 3c, 3e-4a, 6a, 11, 12 i 21 nie stosuje się do wpłat, zarachowanych należności ani innych świadczeń określonych w tych przepisach, uzyskanych przez podatnika, o którym mowa w art. 3 ust. 1 i 2, jeżeli są spełnione łącznie następujące warunki:
 
 - **1)** takie wpłaty, należności lub inne świadczenia podlegają odliczeniu bez opodatkowania w przypadkach określonych w ust. 1 pkt 1 lit. a lub e;
 - **2)** odliczenie bez opodatkowania zostało dokonane przez podmioty powiązane lub w ramach uzgodnienia strukturalnego;
 - **3)** Rzeczpospolita Polska jest państwem odbiorcy – w przypadku gdy państwo płatnika inne niż Rzeczpospolita Polska przyznało prawo do odliczenia takich wpłat, należności lub innych świadczeń.
 
-3. Przez świadczenie, o którym mowa w ust. 1 pkt 1 lit. a–f, rozumie się jakikolwiek tytuł dający podstawę do zaliczenia danej wartości do kosztów uzyskania przychodów, w tym odpis amortyzacyjny.
+3. Przez świadczenie, o którym mowa w ust. 1 pkt 1 lit. a-f, rozumie się jakikolwiek tytuł dający podstawę do zaliczenia danej wartości do kosztów uzyskania przychodów, w tym odpis amortyzacyjny.
 
 4. Przepisów ust. 1 pkt 1 lit. e i f nie stosuje się, jeżeli odliczenie odpowiada dochodowi (przychodowi) wykazanemu w państwie płatnika.
 
-5. Przepisów ust. 1 i 2 nie stosuje się do świadczenia stanowiącego dochód (przychód) bazowy z przeniesionego instrumentu finansowego, które jest dokonywane przez uczestnika rynku w ramach rynkowej hybrydowej transakcji, jeżeli przepisy państwa płatnika wymagają od tego uczestnika zaliczenia należności związanych z przeniesionym instrumentem finansowym do dochodów (przychodów).
-
-**Art. 16q.** Przepisy art. 16o i art. 16p ust. 1 stosuje się odpowiednio do kosztów, które bezpośrednio lub pośrednio służą finansowaniu wydatków powodujących powstanie rozbieżności w kwalifikacji struktur hybrydowych poprzez transakcję lub serię transakcji zawartych między podmiotami powiązanymi lub w ramach uzgodnienia strukturalnego, z wyjątkiem przypadku gdy jedno z państw uczestniczących w tej transakcji lub serii transakcji zastosuje równoważne dostosowanie w odniesieniu do takiej rozbieżności w kwalifikacji struktur hybrydowych.
-
-**Art. 16r.**
+5. Przepisów ust. 1 i 2 nie stosuje się do świadczenia stanowiącego dochód (przychód) bazowy z przeniesionego instrumentu finansowego, które jest dokonywane przez uczestnika rynku w ramach rynkowej hybrydowej transakcji, jeżeli przepisy państwa płatnika wymagają od tego uczestnika zaliczenia należności związanych z przeniesionym instrumentem finansowym do dochodów (przychodów). Przepisy art. 16o i art. 16p ust. 1 stosuje się odpowiednio do kosztów, które bezpośrednio lub pośrednio służą finansowaniu wydatków powodujących powstanie rozbieżności w kwalifikacji struktur hybrydowych poprzez transakcję lub serię transakcji zawartych między podmiotami powiązanymi lub w ramach uzgodnienia strukturalnego, z wyjątkiem przypadku gdy jedno z państw uczestniczących w tej transakcji lub serii transakcji zastosuje równoważne dostosowanie w odniesieniu do takiej rozbieżności w kwalifikacji struktur hybrydowych.
 
 1. Podatnikowi, o którym mowa w art. 3 ust. 1, nie przysługuje prawo do zaliczenia do kosztów uzyskania przychodów lub do pomniejszenia dochodów (przychodów) o straty, jeżeli łącznie spełnione są następujące warunki:
 
 - **1)** koszty lub straty podlegają odliczeniu w co najmniej dwóch państwach, w których ten podatnik jest traktowany jako rezydent podatkowy;
 - **2)** koszty lub straty nie odpowiadają podwójnie wykazanemu dochodowi (przychodowi).
 
-2. W przypadku gdy podatnik jest uznawany za rezydenta podatkowego Rzeczypospolitej Polskiej i co najmniej jednego innego państwa członkowskiego Unii Europejskiej, przepis ust. 1 stosuje się, jeżeli podatnik nie został uznany za rezydenta podatkowego Rzeczypospolitej Polskiej na podstawie ratyfikowanej umowy o unikaniu podwójnego opodatkowania.
-
-**Art. 16s.** W przypadku hybrydowej transakcji skutkującej uzyskaniem przez więcej niż jeden podmiot ulgi podatkowej dotyczącej podatku pobieranego u źródła od świadczeń z tytułu przeniesionego instrumentu finansowego podatnik będący rezydentem podatkowym Rzeczypospolitej Polskiej jest uprawniony do skorzystania z ulgi podatkowej proporcjonalnie do dochodu podlegającego opodatkowaniu związanego z takim świadczeniem.
-
-**Art. 16t.**
+2. W przypadku gdy podatnik jest uznawany za rezydenta podatkowego Rzeczypospolitej Polskiej i co najmniej jednego innego państwa członkowskiego Unii Europejskiej, przepis ust. 1 stosuje się, jeżeli podatnik nie został uznany za rezydenta podatkowego Rzeczypospolitej Polskiej na podstawie ratyfikowanej umowy o unikaniu podwójnego opodatkowania. W przypadku hybrydowej transakcji skutkującej uzyskaniem przez więcej niż jeden podmiot ulgi podatkowej dotyczącej podatku pobieranego u źródła od świadczeń z tytułu przeniesionego instrumentu finansowego podatnik będący rezydentem podatkowym Rzeczypospolitej Polskiej jest uprawniony do skorzystania z ulgi podatkowej proporcjonalnie do dochodu podlegającego opodatkowaniu związanego z takim świadczeniem.
 
 1. W przypadku gdy rozbieżność w kwalifikacji struktur hybrydowych dotyczy niepodlegającego opodatkowaniu w Rzeczypospolitej Polskiej dochodu (przychodu) pominiętego zagranicznego zakładu podatnika będącego rezydentem podatkowym Rzeczypospolitej Polskiej, do dochodów (przychodów) tego podatnika zalicza się dochody (przychody), które byłyby przypisane do zagranicznego zakładu, gdyby taka rozbieżność w kwalifikacji struktur hybrydowych nie wystąpiła.
 
-2. Przepisu ust. 1 nie stosuje się, jeżeli obowiązek zwolnienia dochodu (przychodu) z opodatkowania w Rzeczypospolitej Polskiej wynika z ratyfikowanej umowy o unikaniu podwójnego opodatkowania zawartej z innym państwem niż państwo członkowskie Unii Europejskiej.”;
+2. Przepisu ust. 1 nie stosuje się, jeżeli obowiązek zwolnienia dochodu (przychodu) z opodatkowania w Rzeczypospolitej Polskiej wynika z ratyfikowanej umowy o unikaniu podwójnego opodatkowania zawartej z innym państwem niż państwo członkowskie Unii Europejskiej. ” ;
 
-- **2)** w art. 24a w ust. 2 w pkt 4:
-    - **a)** w lit. a po wyrazie „posiada” dodaje się wyrazy „ , bezpośrednio lub pośrednio,”,
-    - **b)** w lit. b po wyrazach „posiadającą w podatniku” dodaje się wyrazy „ , bezpośrednio lub pośrednio,”,
-    - **c)** w lit. c po wyrazie „posiada” dodaje się wyrazy „ , bezpośrednio lub pośrednio,”.
+- **2)** w art. 24a w ust. 2 w pkt 4: w lit. a po wyrazie „posiada” dodaje się wyrazy „, bezpośrednio lub pośrednio,”, w lit. b po wyrazach „posiadającą w podatniku” dodaje się wyrazy „, bezpośrednio lub pośrednio,”, w lit. c po wyrazie „posiada” dodaje się wyrazy „, bezpośrednio lub pośrednio,”.
+    - **a)**
+    - **b)**
+    - **c)**
 
 **Art. 2.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2020 r. poz. 106, 568 i 1065) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 uchyla się pkt 27c i 27d;
+- **2)** uchyla się art. 12a;
+- **3)** w dziale II po rozdziale 3 dodaje się rozdziały 3a i 3b w brzmieniu: „
+
+#### Rozdział 3a Przemieszczenie towarów w procedurze magazynu typu call-off stock na terytorium kraju
 
 **Art. 13a.**
 
@@ -137,13 +291,12 @@ source: "isap-pdf"
 - **1)** towary są wysyłane lub transportowane przez podatnika podatku od wartości dodanej lub przez osobę trzecią działającą na jego rzecz z terytorium państwa członkowskiego innego niż terytorium kraju na terytorium kraju w celu ich dostawy na późniejszym etapie i po ich wprowadzeniu do magazynu w procedurze magazynu typu call-off stock innemu podatnikowi, uprawnionemu do nabycia prawa do rozporządzania tymi towarami jak właściciel, zgodnie z zawartym wcześniej porozumieniem między tymi podatnikami;
 - **2)** podatnik podatku od wartości dodanej wysyłający lub transportujący towary nie ma siedziby działalności gospodarczej ani stałego miejsca prowadzenia działalności gospodarczej na terytorium kraju;
 - **3)** podatnik, któremu mają zostać dostarczone towary, jest zarejestrowany jako podatnik VAT UE, a jego nazwa lub imię i nazwisko oraz numer identyfikacji podatkowej poprzedzony kodem PL są znane podatnikowi podatku od wartości dodanej wysyłającemu lub transportującemu towary w momencie rozpoczęcia wysyłki lub transportu;
-- **4)** podatnik podatku od wartości dodanej wysyłający lub transportujący towary rejestruje przemieszczenie towarów w ewidencji, o której mowa w art. 54a ust. 1 rozporządzenia 282/2011, oraz podaje w informacji odpowiadającej informacji podsumowującej, o której mowa w art. 100 ust. 1 pkt 5, numer identyfikacji podatkowej, o którym mowa w pkt 3.
-
-**Art. 13b.** Jeżeli warunki określone w art. 13a ust. 2 są spełnione, wewnątrzwspólnotowe nabycie towarów, o którym mowa w art. 9 ust. 1, uznaje się za dokonane przez podatnika, o którym mowa w art. 13a ust. 2 pkt 3, na terytorium kraju w momencie przeniesienia na niego prawa do rozporządzania towarami jak właściciel, o ile przeniesienie to nastąpi w terminie 12 miesięcy od dnia wprowadzenia towarów do magazynu w procedurze magazynu typu call-off stock.
-
-**Art. 13c.** Jeżeli w terminie, o którym mowa w art. 13b, podatnik, o którym mowa w art. 13a ust. 2 pkt 3, zostaje zastąpiony przez innego podatnika, uznaje się, że w okresie zastąpienia nie miało miejsca wewnątrzwspólnotowe nabycie towarów, o którym mowa w art. 11 ust. 1, pod warunkiem że:
-
-**Art. 13d.**
+- **4)** podatnik podatku od wartości dodanej wysyłający lub transportujący towary rejestruje przemieszczenie towarów w ewidencji, o której mowa w art. 54a ust. 1 rozporządzenia 282/2011, oraz podaje w informacji odpowiadającej informacji podsumowującej, o której mowa w art. 100 ust. 1 pkt 5, numer identyfikacji podatkowej, o którym mowa w pkt 3. Jeżeli warunki określone w art. 13a ust. 2 są spełnione, wewnątrzwspólnotowe nabycie towarów, o którym mowa w art. 9 ust. 1, uznaje się za dokonane przez podatnika, o którym mowa w art. 13a ust. 2 pkt 3, na terytorium kraju w momencie przeniesienia na niego prawa do rozporządzania towarami jak właściciel, o ile przeniesienie to nastąpi w terminie 12 miesięcy od dnia wprowadzenia towarów do magazynu w procedurze magazynu typu call-off stock. Jeżeli w terminie, o którym mowa w art. 13b, podatnik, o którym mowa w art. 13a ust. 2 pkt 3, zostaje zastąpiony przez innego podatnika, uznaje się, że w okresie zastąpienia nie miało miejsca wewnątrzwspólnotowe nabycie towarów, o którym mowa w art. 11 ust. 1, pod warunkiem że:
+- **1)** podatnik zastępujący jest uprawniony do nabycia prawa do rozporządzania towarami jak właściciel zgodnie z porozumieniem zawartym między nim a podatnikiem podatku od wartości dodanej wysyłającym lub transportującym towary;
+- **2)** podatnik podatku od wartości dodanej wysyłający lub transportujący towary nie ma siedziby działalności gospodarczej ani stałego miejsca prowadzenia działalności gospodarczej na terytorium kraju;
+- **3)** podatnik zastępujący jest zarejestrowany jako podatnik VAT UE, a jego nazwa lub imię i nazwisko oraz numer identyfikacji podatkowej poprzedzony kodem PL są znane podatnikowi podatku od wartości dodanej wysyłającemu lub transportującemu towary w momencie zastąpienia;
+- **4)** podatnik podatku od wartości dodanej wysyłający lub transportujący towary podaje w informacji odpowiadającej informacji podsumowującej, o której mowa w art. 100 ust. 1 pkt 5, numer identyfikacji podatkowej, o którym mowa w pkt 3;
+- **5)** zastąpienie zostało zarejestrowane przez podatnika podatku od wartości dodanej wysyłającego lub transportującego towary w ewidencji, o której mowa w art. 54a ust. 1 rozporządzenia 282/2011.
 
 1. Jeżeli w terminie, o którym mowa w art. 13b, przestaje być spełniony którykolwiek z warunków, o których mowa w art. 13a ust. 2 lub art. 13c, uznaje się, że wewnątrzwspólnotowe nabycie towarów, o którym mowa w art. 11 ust. 1, nastąpiło z chwilą, gdy warunek ten przestał być spełniony.
 
@@ -153,31 +306,27 @@ source: "isap-pdf"
 
 4. W przypadku zniszczenia, utraty lub kradzieży towarów wprowadzonych do magazynu w procedurze magazynu typu call-off stock uznaje się, że warunki określone w art. 13a ust. 2 lub art. 13c przestają być spełnione w dniu, w którym towary zostały zniszczone, utracone lub skradzione, a jeżeli określenie takiego dnia nie jest możliwe – w dniu, w którym stwierdzono ich zniszczenie lub brak.
 
-**Art. 13e.**
-
 1. Jeżeli w terminie, o którym mowa w art. 13b, nie nastąpiło przeniesienie prawa do rozporządzania towarami jak właściciel na rzecz podatnika, o którym mowa w art. 13a ust. 2 pkt 3, lub podatnika go zastępującego ani nie zaszła żadna z okoliczności określonych w art. 13d, uznaje się, że wewnątrzwspólnotowe nabycie towarów, o którym mowa w art. 11 ust. 1, ma miejsce w dniu następującym po upływie tego terminu.
 
 2. Jeżeli w terminie, o którym mowa w art. 13b, nie nastąpiło przeniesienie prawa do rozporządzania towarami jak właściciel i towary zostały powrotnie przemieszczone na terytorium państwa członkowskiego, z którego zostały pierwotnie wysłane lub przetransportowane, a podatnik podatku od wartości dodanej wysyłający lub transportujący towary zarejestrował ich powrotne przemieszczenie w ewidencji, o której mowa w art. 54a ust. 1 rozporządzenia 282/2011, uznaje się, że nie miało miejsca wewnątrzwspólnotowe nabycie towarów, o którym mowa w art. 11 ust. 1.
-
-**Art. 13f.**
 
 1. Podatnik lub podatnik podatku od wartości dodanej prowadzący magazyn, do którego wprowadzane są towary w procedurze magazynu typu call-off stock, w terminie 14 dni od dnia pierwszego wprowadzenia towarów do magazynu w tej procedurze, składa, zgodnie z wzorem dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2020 r. poz. 346, 568 i 695), za pomocą środków komunikacji elektronicznej, zawiadomienie o prowadzeniu magazynu wykorzystywanego w procedurze magazynu typu call-off stock.
 
 2. Zawiadomienie, o którym mowa w ust. 1, zawiera następujące dane:
 
 - **1)** miejsce i cel składania zawiadomienia;
-- **2)** dane podatnika lub podatnika podatku od wartości dodanej:
-    - **a)** nazwę lub imię i nazwisko,
-    - **b)** adres siedziby lub adres miejsca zamieszkania,
-    - **c)** numer identyfikacji podatkowej – w przypadku podatnika,
-    - **d)** numer identyfikacyjny, pod którym podatnik podatku od wartości dodanej jest zidentyfikowany na potrzeby tego podatku w państwie, w którym posiada siedzibę działalności gospodarczej lub stałe miejsce prowadzenia działalności gospodarczej, a w przypadku podatnika podatku od wartości dodanej będącego osobą fizyczną – także datę urodzenia,
-    - **e)** kod stosowany na potrzeby podatku od wartości dodanej właściwy dla państwa członkowskiego wydania numeru, o którym mowa w lit. d;
+- **2)** dane podatnika lub podatnika podatku od wartości dodanej: nazwę lub imię i nazwisko, adres siedziby lub adres miejsca zamieszkania, numer identyfikacji podatkowej – w przypadku podatnika, numer identyfikacyjny, pod którym podatnik podatku od wartości dodanej jest zidentyfikowany na potrzeby tego podatku w państwie, w którym posiada siedzibę działalności gospodarczej lub stałe miejsce prowadzenia działalności gospodarczej, a w przypadku podatnika podatku od wartości dodanej będącego osobą fizyczną – także datę urodzenia, kod stosowany na potrzeby podatku od wartości dodanej właściwy dla państwa członkowskiego wydania numeru, o którym mowa w lit. d;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 - **3)** adres magazynu;
 - **4)** datę pierwszego wprowadzenia towarów do magazynu;
-- **5)** dane kontaktowe podatnika, podatnika podatku od wartości dodanej lub pełnomocnika:
-    - **a)** imię i nazwisko,
-    - **b)** numer telefonu.
+- **5)** dane kontaktowe podatnika, podatnika podatku od wartości dodanej lub pełnomocnika: imię i nazwisko, numer telefonu.
+    - **a)**
+    - **b)**
 
 3. Zawiadomienie, o którym mowa w ust. 1, może zawierać adres poczty elektronicznej podatnika lub podatnika podatku od wartości dodanej prowadzących magazyn lub ich pełnomocnika.
 
@@ -188,103 +337,30 @@ source: "isap-pdf"
 6. Zawiadomienie, o którym mowa w ust. 1 i 5:
 
 - **1)** podatnik – składa do naczelnika urzędu skarbowego;
-- **2)** podatnik podatku od wartości dodanej – składa do naczelnika drugiego urzędu skarbowego.
+- **2)** podatnik podatku od wartości dodanej – składa do naczelnika drugiego urzędu skarbowego. Minister właściwy do spraw finansów publicznych udostępni na elektronicznej platformie usług administracji publicznej wzór dokumentu elektronicznego, o którym mowa w art. 13f ust. 1 i 5.
 
-**Art. 13g.** Minister właściwy do spraw finansów publicznych udostępni na elektronicznej platformie usług administracji publicznej wzór dokumentu elektronicznego, o którym mowa w art. 13f ust. 1 i 5.
-
-#### Rozdział 3b Przemieszczenie towarów w procedurze magazynu typu call-off stock na terytorium państwa członkowskiego inne niż terytorium kraju
-
-**Art. 13h.**
-
-1. Przemieszczenia towarów w procedurze magazynu typu call-off stock nie uznaje się za wewnątrzwspólnotową dostawę towarów, o której mowa w art. 13 ust. 3.
-
-2. Procedura magazynu typu call-off stock ma miejsce, jeżeli łącznie spełnione są następujące warunki:
-
-- **1)** towary są wysyłane lub transportowane przez podatnika zarejestrowanego jako podatnik VAT UE lub przez osobę trzecią działającą na jego rzecz, z terytorium kraju na terytorium państwa członkowskiego inne niż terytorium kraju, w celu ich dostawy na późniejszym etapie i po ich wprowadzeniu do magazynu w procedurze magazynu typu call-off stock podatnikowi podatku od wartości dodanej uprawnionemu do nabycia prawa do rozporządzania tymi towarami jak właściciel zgodnie z zawartym wcześniej porozumieniem między tymi podatnikami;
-- **2)** podatnik wysyłający lub transportujący towary nie ma siedziby działalności gospodarczej ani stałego miejsca prowadzenia działalności gospodarczej na terytorium państwa członkowskiego, do którego przemieszcza towary z terytorium kraju;
-- **3)** podatnik podatku od wartości dodanej, na rzecz którego towary są wysyłane lub transportowane, jest zidentyfikowany na potrzeby transakcji wewnątrzwspólnotowych na terytorium państwa członkowskiego innym niż terytorium kraju, a jego nazwa lub imię i nazwisko oraz numer identyfikacyjny dla transakcji wewnątrzwspólnotowych nadany mu przez to państwo członkowskie są znane podatnikowi, o którym mowa w pkt 2, w momencie rozpoczęcia wysyłki lub transportu;
-- **4)** podatnik, o którym mowa w pkt 2, rejestruje przemieszczenie towarów w ewidencji, o której mowa w art. 109 ust. 11c, oraz podaje w informacji podsumowującej, o której mowa w art. 100 ust. 1 pkt 5, numer identyfikacyjny, o którym mowa w pkt 3.
-
-**Art. 13i.** Jeżeli warunki określone w art. 13h ust. 2 są spełnione, wewnątrzwspólnotową dostawę towarów, o której mowa w art. 13 ust. 1, uznaje się za dokonaną przez podatnika, o którym mowa w art. 13h ust. 2 pkt 2, na terytorium kraju w momencie przeniesienia prawa do rozporządzania towarami jak właściciel na podatnika podatku od wartości dodanej, któremu te towary mają być dostarczone, o ile przeniesienie to nastąpi w terminie 12 miesięcy od dnia wprowadzenia towarów do magazynu w procedurze magazynu typu call-off stock.
-
-**Art. 13j.** Jeżeli w terminie, o którym mowa w art. 13i, podatnik podatku od wartości dodanej zostaje zastąpiony przez innego podatnika podatku od wartości dodanej, uznaje się, że w okresie zastąpienia nie miała miejsca wewnątrzwspólnotowa dostawa towarów, o której mowa w art. 13 ust. 3, pod warunkiem że:
-
-**Art. 13k.**
-
-1. Jeżeli w terminie, o którym mowa w art. 13i, przestaje być spełniony którykolwiek z warunków, o których mowa w art. 13h ust. 2 lub art. 13j, uznaje się, że przemieszczenie towarów, o którym mowa w art. 13 ust. 3, nastąpiło z chwilą, gdy warunek ten przestał być spełniony.
-
-2. Jeżeli przeniesienie prawa do rozporządzania towarami jak właściciel nastąpiło na osobę inną niż podatnik podatku od wartości dodanej, któremu te towary miały być dostarczone, lub podatnik go zastępujący, uznaje się, że warunki, o których mowa w art. 13h ust. 2 lub art. 13j, przestają być spełnione bezpośrednio przed taką czynnością.
-
-3. Jeżeli towary są wysyłane lub transportowane na terytorium państwa członkowskiego inne niż terytorium kraju lub na terytorium państwa trzeciego, uznaje się, że warunki określone w art. 13h ust. 2 lub art. 13j przestają być spełnione bezpośrednio przed rozpoczęciem tej wysyłki lub transportu.
-
-4. W przypadku zniszczenia, utraty lub kradzieży towarów przemieszczonych do magazynu w procedurze magazynu typu call-off stock uznaje się, że warunki określone w art. 13h ust. 2 lub art. 13j przestają być spełnione w dniu, w którym towary zostały utracone, skradzione lub zniszczone, a jeżeli określenie takiego dnia nie jest możliwe – w dniu, w którym stwierdzono ich zniszczenie lub brak.
-
-**Art. 13l.**
-
-1. Jeżeli w terminie, o którym mowa w art. 13i, nie nastąpiło przeniesienie prawa do rozporządzania towarami jak właściciel na rzecz podatnika podatku od wartości dodanej lub podatnika go zastępującego ani nie zaszła żadna z okoliczności określonych w art. 13k, uznaje się, że wewnątrzwspólnotowa dostawa towarów, o której mowa w art. 13 ust. 3, ma miejsce w dniu następującym po upływie tego terminu.
-
-2. Jeżeli w terminie, o którym mowa w art. 13i, nie nastąpiło przeniesienie prawa do rozporządzania towarami jak właściciel i towary zostały powrotnie przemieszczone na terytorium kraju, a podatnik, o którym mowa w art. 13h ust. 2 pkt 2, zarejestrował ich powrotne przemieszczenie w ewidencji, o której mowa w art. 109 ust. 11c, uznaje się, że nie miała miejsca wewnątrzwspólnotowa dostawa towarów, o której mowa w art. 13 ust. 3.”;
-
-- **4)** w art. 20:
-    - **a)** w ust. 1 skreśla się wyrazy „oraz art. 20a”,
-    - **b)** w ust. 5 w zdaniu pierwszym skreśla się wyrazy „oraz art. 20b”;
-
-- **5)** uchyla się art. 20a i art. 20b;
-- **6)** w art. 21 w ust. 6 w pkt 2 w lit. b skreśla się wyrazy „i art. 20a”;
-- **7)** w art. 22:
-    - **a)** ust. 2 otrzymuje brzmienie: „2. W przypadku gdy te same towary są przedmiotem kolejnych dostaw oraz są wysyłane lub transportowane bezpośrednio od pierwszego dostawcy do ostatniego w kolejności nabywcy, wysyłkę lub transport przyporządkowuje się wyłącznie jednej dostawie.”,
-    - **b)** po ust. 2 dodaje się ust. 2a–2d w brzmieniu: „2a. W przypadku towarów, o których mowa w ust. 2, które są wysyłane lub transportowane z terytorium kraju na terytorium państwa trzeciego przez nabywcę, który dokonuje również ich dostawy, przyjmuje się, że wysyłka lub transport są przyporządkowane dostawie dokonanej do tego nabywcy, chyba że z warunków dostawy wynika, że wysyłkę lub transport towarów należy przyporządkować jego dostawie.
-
-2b. W przypadku towarów, o których mowa w ust. 2, które są wysyłane lub transportowane z terytorium jednego państwa członkowskiego na terytorium innego państwa członkowskiego, wysyłka lub transport tych towarów są przyporządkowane wyłącznie dostawie dokonanej do podmiotu pośredniczącego.
-
-2c. W przypadku gdy podmiot pośredniczący przekazał swojemu dostawcy numer identyfikacyjny dla transakcji wewnątrzwspólnotowych nadany mu przez państwo członkowskie, z którego towary są wysyłane lub transportowane, wysyłkę lub transport przypisuje się wyłącznie dostawie dokonanej przez ten podmiot.
-
-2d. Przez podmiot pośredniczący, o którym mowa w ust. 2b i 2c, rozumie się innego niż pierwszy w kolejności dostawcę towarów, który wysyła lub transportuje towar samodzielnie albo za pośrednictwem osoby trzeciej działającej na jego rzecz.”,
-
-- **c)** w ust. 3 we wprowadzeniu do wyliczenia wyrazy „W przypadku, o którym mowa w ust. 2,” zastępuje się wyrazami „W przypadkach, o których mowa w ust. 2–2c,”;
-- **8)** w art. 29a:
-    - **a)** w ust. 1 wyrazy „ust. 2–5” zastępuje się wyrazami „ust. 2, 3 i 5”,
-    - **b)** w ust. 3 skreśla się wyrazy „ , z zastrzeżeniem ust. 4”,
-    - **c)** uchyla się ust. 4;
-
-- **9)** w art. 30a w ust. 1 skreśla się wyrazy „ , w tym dokonywanego na podstawie art. 12 ust. 4–6,”;
-- **10)** w art. 42:
-    - **a)** w ust. 1 w pkt 1 po wyrazach „dla podatku od wartości dodanej” dodaje się wyrazy „ , który nabywca podał podatnikowi”,
-    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Stawka podatku, o której mowa w ust. 1, nie ma zastosowania, jeżeli:
-
-- **1)** podatnik nie dopełnił obowiązku, o którym mowa w art. 100 ust. 1 pkt 1 lub ust. 3 pkt 1, lub
-- **2)** złożona informacja podsumowująca nie zawiera prawidłowych danych dotyczących wewnątrzwspólnotowych dostaw towarów zgodnie z wymogami, o których mowa w art. 100 ust. 8 – chyba że podatnik należycie na piśmie wyjaśnił uchybienie naczelnikowi urzędu skarbowego.”;
-- **11)** w art. 97 w ust. 10 w pkt 4 na końcu dodaje się przecinek i dodaje się pkt 5 w brzmieniu: „5) przemieszczaniu towarów, w celu ich nabycia, z terytorium państwa członkowskiego innego niż terytorium kraju na terytorium kraju w procedurze magazynu typu call-off stock, o której mowa w dziale II rozdziale 3a”;
-- **12)** w art. 100:
-    - **a)** w ust. 1 w pkt 4 na końcu dodaje się przecinek i dodaje się pkt 5 w brzmieniu: „5) przemieszczeniach towarów w procedurze magazynu typu call-off stock, o której mowa w dziale II rozdziale 3b, oraz o zmianach w zakresie tej procedury zawartych w informacjach”,
-    - **b)** ust. 3 otrzymuje brzmienie: „3. Informacje podsumowujące składa się za okresy miesięczne, za pomocą środków komunikacji elektronicznej, w terminie do 25. dnia miesiąca następującego po miesiącu, w którym:
-
-- **1)** powstał obowiązek podatkowy z tytułu dokonania transakcji, o których mowa w ust. 1 pkt 1–4;
-- **2)** dokonano przemieszczenia towarów lub zmiany w zakresie procedury, o których mowa w ust. 1 pkt 5.”,
-    - **c)** w ust. 8: – w pkt 1 po wyrazach „który zastosował dla transakcji” dodaje się wyrazy „i przemieszczeń”, – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) właściwy i ważny numer identyfikacyjny dla transakcji wewnątrzwspólnotowych podatnika podatku od wartości dodanej nadany mu przez państwo członkowskie, na terytorium którego towary zostały przemieszczone w procedurze magazynu typu call-off stock – w przypadku, o którym mowa w ust. 1 pkt 5.”;
-
-- **13)** w art. 109 po ust. 11a dodaje się ust. 11b–11e w brzmieniu: „11b. Podatnicy, na rzecz których są przemieszczane towary z terytorium państwa członkowskiego innego niż terytorium kraju na terytorium kraju w procedurze magazynu typu call-off stock, o której mowa w dziale II rozdziale 3a, są obowiązani prowadzić ewidencję tych towarów zgodnie z wymogami, o których mowa w art. 54a ust. 2 rozporządzenia 282/2011.
-
-11c. Podatnicy, którzy przemieszczają towary z terytorium kraju na terytorium państwa członkowskiego inne niż terytorium kraju w procedurze magazynu typu call-off stock, o której mowa w dziale II rozdziale 3b, są obowiązani prowadzić ewidencję tych towarów zgodnie z wymogami, o których mowa w art. 54a ust. 1 rozporządzenia 282/2011.
-
-11d. Podatnicy niebędący podatnikami, o których mowa w ust. 11b, oraz podatnicy podatku od wartości dodanej, prowadzący magazyn, do którego wprowadzane są towary w procedurze magazynu typu call-off stock, o której mowa w dziale II rozdziale 3a, są obowiązani prowadzić ewidencję towarów, dostępną dla organów podatkowych w miejscu prowadzenia magazynu.
-
-11e. Ewidencja, o której mowa w ust. 11d, zawiera następujące dane:
-
-- **1)** numer identyfikacyjny podatnika podatku od wartości dodanej przemieszczającego towary w procedurze magazynu typu call-off stock, o której mowa w dziale II rozdziale 3a, jeżeli prowadzącym magazyn jest podatnik;
-- **2)** numer identyfikacyjny, o którym mowa w art. 13a ust. 2 pkt 3, a w przypadku podatnika zastępującego – numer identyfikacyjny, o którym mowa w art. 13c pkt 3;
-- **3)** opis i ilość towarów wprowadzonych do magazynu oraz datę ich wprowadzenia;
-- **4)** opis i ilość towarów wyprowadzonych z magazynu oraz datę ich wyprowadzenia;
-- **5)** opis i ilość towarów zniszczonych, utraconych lub skradzionych oraz datę zniszczenia, utraty lub kradzieży towarów, które uprzednio zostały wprowadzone do magazynu, a jeżeli określenie takiej daty nie jest możliwe – datę stwierdzenia ich zniszczenia lub braku.”;
-- **14)** w art. 127:
-    - **a)** ust. 6 otrzymuje brzmienie: „6. Sprzedawcy, o których mowa w ust. 5, mogą dokonywać zwrotu, o którym mowa w art. 126 ust. 1, wyłącznie w odniesieniu do towarów nabytych przez podróżnego u tego sprzedawcy.”,
-    - **b)** uchyla się ust. 7.
+#### Rozdział 3b
 
 **Art. 3.** W ustawie z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. z 2020 r. poz. 343) wprowadza się następujące zmiany:
 
+- **1)** w art. 5 w ust. 2 pkt 2 otrzymuje brzmienie: „
+- **2)** automatyczną wymianą informacji podatkowych, w tym do przeprowadzania kontroli wykonywania obowiązków związanych z automatyczną wymianą informacji podatkowych, ” ;
+- **2)** po dziale V dodaje się dział VA w brzmieniu: „
+
+### Dział VA
+
 **Art. 88a.** Ilekroć w niniejszym dziale jest mowa o:
 
-**Art. 88b.**
+- **1)** korzystającym – rozumie się przez to korzystającego w rozumieniu art. 86a § 1 pkt 3 ustawy – Ordynacja podatkowa;
+- **2)** NSP – rozumie się przez to NSP, o którym mowa w art. 86a § 1 pkt 5 ustawy – Ordynacja podatkowa;
+- **3)** NZSPT – rozumie się przez to NZSPT, o którym mowa w art. 86a § 1 pkt 5a ustawy – Ordynacja podatkowa;
+- **4)** ogólnej cesze rozpoznawczej – rozumie się przez to ogólną cechę rozpoznawczą, o której mowa w art. 86a § 1 pkt 6 lit. a-h ustawy – Ordynacja podatkowa;
+- **5)** podmiocie powiązanym – rozumie się przez to podmiot powiązany, o którym mowa w art. 86a § 1 pkt 7 ustawy – Ordynacja podatkowa, przy czym przy ustalaniu podmiotu powiązanego uwzględnia się przepis art. 86a § 7 tej ustawy;
+- **6)** promotorze – rozumie się przez to promotora w rozumieniu art. 86a § 1 pkt 8 ustawy – Ordynacja podatkowa;
+- **7)** schemacie podatkowym transgranicznym – rozumie się przez to schemat podatkowy transgraniczny w rozumieniu art. 86a § 1 pkt 12 ustawy – Ordynacja podatkowa;
+- **8)** szczególnej cesze rozpoznawczej – rozumie się przez to szczególną cechę rozpoznawczą w rozumieniu art. 86a § 1 pkt 13 ustawy – Ordynacja podatkowa;
+- **9)** wdrażaniu – rozumie się przez to wdrażanie w rozumieniu art. 86a § 1 pkt 17 ustawy – Ordynacja podatkowa;
+- **10)** wspomagającym – rozumie się przez to wspomagającego w rozumieniu art. 86a § 1 pkt 18 ustawy – Ordynacja podatkowa.
 
 1. Szef Krajowej Administracji Skarbowej przekazuje właściwym organom państw członkowskich, w drodze automatycznej wymiany, informacje o schematach podatkowych transgranicznych.
 
@@ -303,27 +379,124 @@ source: "isap-pdf"
 
 4. Informacje, o których mowa w ust. 1, przekazuje się w terminie miesiąca, licząc od końca kwartału, w którym Szef Krajowej Administracji Skarbowej otrzymał te informacje.
 
-5. Do automatycznej wymiany informacji o schematach podatkowych transgranicznych przepis art. 8 stosuje się odpowiednio.
-
-**Art. 88c.** Automatyczna wymiana informacji o schematach podatkowych transgranicznych odbywa się za pomocą standardowego formularza, o którym mowa w art. 20 ust. 5 lit. b dyrektywy 2011/16/UE, zgodnie z mającymi zastosowanie ustaleniami praktycznymi przyjętymi na podstawie art. 21 tej dyrektywy.
-
-**Art. 88d.**
+5. Do automatycznej wymiany informacji o schematach podatkowych transgranicznych przepis art. 8 stosuje się odpowiednio. Automatyczna wymiana informacji o schematach podatkowych transgranicznych odbywa się za pomocą standardowego formularza, o którym mowa w art. 20 ust. 5 lit. b dyrektywy 2011/16/UE, zgodnie z mającymi zastosowanie ustaleniami praktycznymi przyjętymi na podstawie art. 21 tej dyrektywy.
 
 1. Szef Krajowej Administracji Skarbowej przekazuje Komisji Europejskiej roczną ocenę skuteczności automatycznej wymiany informacji o schematach podatkowych transgranicznych oraz jej praktyczne wyniki.
 
-2. Roczna ocena skuteczności automatycznej wymiany informacji o schematach podatkowych transgranicznych jest przekazywana w formie i na zasadach określonych przez Komisję Europejską w drodze aktów wykonawczych, przyjętych zgodnie z procedurą, o której mowa w art. 26 ust. 2 dyrektywy 2011/16/UE.”.
+2. Roczna ocena skuteczności automatycznej wymiany informacji o schematach podatkowych transgranicznych jest przekazywana w formie i na zasadach określonych przez Komisję Europejską w drodze aktów wykonawczych, przyjętych zgodnie z procedurą, o której mowa w art. 26 ust. 2 dyrektywy 2011/16/UE. ” .
 
-**Art. 4.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2019 r. poz. 1387, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2019 r. poz. 1387, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm. ) wprowadza się następujące zmiany:
+- **1)** w art. 30f w ust. 2 w pkt 4: w lit. a po wyrazie „posiada” dodaje się wyrazy „, bezpośrednio lub pośrednio,”, w lit. c po wyrazie „posiada” dodaje się wyrazy „, bezpośrednio lub pośrednio,”;
+    - **a)**
+    - **b)**
+
+- **2)** w art. 52v dodaje się ust. 3 i 4 w brzmieniu: „
+
+3. Jeżeli podatnik, któremu organ rentowy przekazał roczne obliczenie podatku będącego podatkiem należnym za 2019 r. na podstawie art. 34 ust. 9, nie złożył wniosku, o którym mowa w ust. 1, organ podatkowy przekazuje kwotę w wysokości 1% tego podatku organizacji pożytku publicznego, którą podatnik wskazał we wniosku zawartym w zeznaniu, o którym mowa w art. 45 ust. 1, korekcie tego zeznania, albo w oświadczeniu, o którym mowa w art. 45c ust. 3a, złożonych za 2018 r.
+
+4. Przekazanie kwoty w wysokości 1% podatku należnego, o którym mowa w ust. 1, następuje na podstawie oświadczenia, o którym mowa w art. 45c ust. 3a, sporządzonego za 2019 r. przez organ podatkowy za pośrednictwem portalu podatkowego. Przepisy art. 45c stosuje się odpowiednio. ” .
+
+**Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 86a: w § 1: – po pkt 5 dodaje się pkt 5a w brzmieniu: „ 5a) NZSPT – rozumie się przez to numer zgłoszenia schematu podatkowego transgranicznego nadawany przez Szefa Krajowej Administracji Skarbowej w celu automatycznej wymiany informacji o schematach podatkowych transgranicznych; ” , – w pkt 13 w lit. a tiret drugie otrzymuje brzmienie: „ – odbiorca płatności posiada miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, wskazanych w aktach wykonawczych wydanych na podstawie przepisów o podatku dochodowym od osób fizycznych oraz przepisów o podatku dochodowym od osób prawnych oraz w unijnym wykazie jurysdykcji niechętnych współpracy do celów podatkowych przyjmowanym przez Radę Unii Europejskiej, ” , dodaje się § 10 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+§ 10. Minister właściwy do spraw finansów publicznych ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”:
+
+- **1)** listę krajów i terytoriów wskazanych w unijnym wykazie jurysdykcji niechętnych współpracy do celów podatkowych przyjmowanym przez Radę Unii Europejskiej, które nie zostały ujęte w wykazie krajów i terytoriów stosujących szkodliwą konkurencję podatkową wydawanym na podstawie przepisów o podatku dochodowym od osób fizycznych oraz przepisów o podatku dochodowym od osób prawnych,
+- **2)** dzień przyjęcia wykazu, o którym mowa w pkt 1, przez Radę Unii Europejskiej w terminie 7 dni od dnia przyjęcia tego wykazu. ” ;
+- **2)** w art. 86b po § 2 dodaje się § 2a w brzmieniu: „
+
+§ 2a. W przypadku, o którym mowa w art. 86g § 2c, promotor przekazuje korzystającemu NSP wraz z załącznikiem zawierającym wyłącznie dane identyfikujące tego korzystającego. ” ;
+
+- **3)** w art. 86d w § 1 zdanie drugie otrzymuje brzmienie: „ Przepisy art. 86b § 2a i 3 stosuje się odpowiednio. ” ;
+- **4)** w art. 86f w § 1: pkt 11–13 otrzymują brzmienie: „
+    - **a)**
+
+- **11)** wskazanie danych identyfikujących, o których mowa w pkt 1, znanych przekazującemu informację podmiotów uczestniczących, mających uczestniczyć w schemacie podatkowym lub na które może mieć wpływ schemat podatkowy, oraz państw i terytoriów, w których podmioty te posiadają miejsce zamieszkania, siedzibę lub zarząd, lub których schemat ten może dotyczyć;
+- **12)** wskazanie danych identyfikujących, o których mowa w pkt 1, znanych przekazującemu informację innych podmiotów obowiązanych do przekazania informacji o schemacie podatkowym, jeżeli występują;
+- **13)** adres elektroniczny, na który będą doręczane potwierdzenie nadania NSP oraz inne pisma w zakresie związanym ze stosowaniem przepisów art. 86g-86i, przy czym wskazanie tego adresu traktuje się na równi z wyrażeniem zgody na ich doręczanie wyłącznie za pomocą środków komunikacji elektronicznej; ” , dodaje się pkt 14 w brzmieniu: „
+    - **b)**
+
+- **14)** wskazanie NSP nadanego przez inne państwo członkowskie Unii Europejskiej w odniesieniu do schematu podatkowego transgranicznego – w przypadku gdy NSP został nadany temu schematowi przez inne państwo członkowskie Unii Europejskiej. ” ;
+- **5)** w art. 86g: § 2 otrzymuje brzmienie: „
+    - **a)**
+
+§ 2. Szef Krajowej Administracji Skarbowej nadaje NSP, chyba że informacja o schemacie podatkowym zawiera NSP nadany przez inne państwo członkowskie Unii Europejskiej. ” , po § 2 dodaje się § 2a-2c w brzmieniu: „
+
+- **b)**
+
+§ 2a. Szef Krajowej Administracji Skarbowej przekazuje potwierdzenie nadania NSP zawierające NSP oraz dane wskazane w przekazanej informacji o schemacie podatkowym. W przypadku schematów podatkowych transgranicznych potwierdzenie nadania NSP zawiera również NZSPT.
+
+§ 2b. W przypadku gdy przekazującym informację o schemacie podatkowym jest osoba fizyczna, potwierdzenie nadania NSP w zakresie danych identyfikujących przekazującego tę informację zawiera wyłącznie imię i nazwisko oraz identyfikator podatkowy tej osoby.
+
+§ 2c. W przypadku gdy korzystającym lub podmiotami, o których mowa w art. 86f § 1 pkt 1, 11 i 12, są osoby fizyczne, dane identyfikujące tego korzystającego i te podmioty wskazuje się wyłącznie w załącznikach do potwierdzenia nadania NSP, przy czym jeden załącznik zawiera dane osobowe dotyczące jednej osoby fizycznej. ” , uchyla się § 4;
+
+- **c)**
+- **6)** w art. 86h: § 1 otrzymuje brzmienie: „
+    - **a)**
+
+§ 1. Szef Krajowej Administracji Skarbowej może zwrócić się do przekazującego informacje na podstawie przepisów niniejszego rozdziału o ich uzupełnienie lub wyjaśnienie wątpliwości co do ich treści zarówno przed, jak i po nadaniu NSP, w szczególności w celu automatycznej wymiany informacji o schematach podatkowych transgranicznych. ” , po § 1 dodaje się § 1a w brzmieniu: „
+
+- **b)**
+
+§ 1a. Uzupełnienie informacji o schemacie podatkowym polega na przekazaniu pełnego zakresu danych, o których mowa w art. 86f § 1. ” ;
+
+- **7)** po art. 86i dodaje się art. 86ia w brzmieniu: „ Art. 86ia. Szef Krajowej Administracji Skarbowej doręcza potwierdzenie nadania NSP oraz inne pisma w zakresie związanym ze stosowaniem przepisów art. 86g-86i, za pomocą środków komunikacji elektronicznej, na adres elektroniczny wskazany przez przekazującego w informacji o schemacie podatkowym. ” ;
+- **8)** w art. 86j: § 4 otrzymuje brzmienie: „
+    - **a)**
+
+§ 4. Przekazywana informacja, o której mowa w § 1, w tym zawierająca dane wskazane w § 2 lub 3, jest podpisywana przez:
+
+- **1)** osobę fizyczną – w przypadku podatnika będącego osobą fizyczną,
+- **2)** osobę upoważnioną przez przedsiębiorcę zagranicznego do reprezentowania go w oddziale – w przypadku podatnika będącego przedsiębiorcą zagranicznym posiadającym oddział działający na terytorium Rzeczypospolitej Polskiej,
+- **3)** osobę uprawnioną do reprezentacji – w przypadku pozostałych podatników przy czym nie jest dopuszczalne podpisanie tej informacji przez pełnomocnika. ” , uchyla się § 5;
+    - **b)**
+
+- **9)** w art. 86m dodaje się § 4 w brzmieniu: „
+
+§ 4. Do postępowania w sprawie nałożenia kary pieniężnej, o której mowa w § 1, stosuje się odpowiednio przepisy działu IV, przy czym od decyzji w sprawie nałożenia kary pieniężnej przysługuje odwołanie do ministra właściwego do spraw finansów publicznych. ” ;
+
+- **10)** w art. 86n dodaje się § 4 w brzmieniu: „
+
+§ 4. Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, upoważnić inny organ Krajowej Administracji Skarbowej do wykonywania zadań Szefa Krajowej Administracji Skarbowej, o których mowa w art. 86g-86ia, określając szczegółowy zakres upoważnienia oraz upoważnione organy, mając na względzie zapewnienie sprawnego i skutecznego wykonywania tych zadań. ” ;
+
+- **11)** po art. 86n dodaje się art. 86na w brzmieniu: „ Pełnomocnictwo szczególne do działania w sprawie z zakresu stosowania art. 86b-86ia upoważnia również do działania w innych sprawach z tego samego zakresu, chyba że w pełnomocnictwie zastrzeżono inaczej. ” ;
+- **12)** art. 86o otrzymuje brzmienie: „ W zakresie nieuregulowanym w art. 86b-86ia stosuje się odpowiednio przepisy art. 120, art. 125, art. 126, art. 129, art. 130, art. 135, art. 140, art. 165 § 3b, art. 165a, art. 168, art. 170, art. 171, art. 189 § 3, art. 208, działu IV rozdziału 3a, rozdziału 5 z wyłączeniem art. 144a § 1b, rozdziałów 6, 7, 14, 16 i 23 oraz działu VIIIA. ” .
 
 **Art. 6.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2020 r. poz. 19, 568 i 695) wprowadza się następujące zmiany:
 
+- **1)** w art. 53 § 30c otrzymuje brzmienie: „
+
+§ 30c. Użyte w rozdziale 6 kodeksu określenia „informacja podsumowująca”, „mechanizm podzielonej płatności” oraz „procedura magazynu typu call-off stock” mają znaczenie nadane im w ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2020 r. poz. 106, 568, 1065 i 1106). ” ;
+
+- **2)** po art. 80f dodaje się art. 80g w brzmieniu: „
+
+**Art. 80g.**
+
+§ 1. Kto wbrew obowiązkowi nie składa zawiadomienia o prowadzeniu magazynu wykorzystywanego w procedurze magazynu typu call-off stock albo składa je po terminie lub podaje w nim dane niezgodne ze stanem rzeczywistym, podlega karze grzywny za wykroczenie skarbowe.
+
+§ 2. Karze określonej w § 1 podlega także ten, kto wbrew obowiązkowi nie składa zawiadomienia o zmianie danych zawartych w zawiadomieniu, o którym mowa w § 1, albo składa je po terminie lub podaje w nim dane niezgodne ze stanem rzeczywistym. ” .
+
 **Art. 7.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2020 r. poz. 505, 568, 695 i 1087) wprowadza się następujące zmiany:
 
-**Art. 8.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 374, 567, 568, 695, 875 i 1086) w art. 31y dodaje się ust. 3 w brzmieniu: „3. Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, przedłużać terminy związane z przekazywaniem informacji o schematach podatkowych w rozumieniu art. 86a § 1 pkt 10 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa lub wymianą informacji podatkowych z innymi państwami, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego i stanu epidemii w związku z COVID-19 oraz skutki nimi wywołane lub treść ustaleń w tym zakresie podjętych przez Unię Europejską, Organizację Współpracy Gospodarczej i Rozwoju lub państwa uczestniczące w wymianie tych informacji.”.
+- **1)** w art. 62 w ust. 5 w pkt 11 na końcu dodaje się przecinek i dodaje się pkt 12 w brzmieniu: „
+- **12)** przestrzegania przepisów prawa podatkowego w zakresie obowiązków podatników i podatników podatku od wartości dodanej prowadzących magazyn, do którego wprowadzane są towary w procedurze magazynu typu call-off stock, o której mowa w dziale II rozdziale 3a ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług ” ;
+- **2)** w art. 84 w ust. 1 pkt 4 otrzymuje brzmienie: „
+- **4)** o której mowa w art. 62 ust. 5 pkt 1–3, 5–7 i 10–12 ” .
+
+**Art. 8.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 374, 567, 568, 695, 875 i 1086) w art. 31y dodaje się ust. 3 w brzmieniu: „ 3. Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, przedłużać terminy związane z przekazywaniem informacji o schematach podatkowych w rozumieniu art. 86a § 1 pkt 10 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa lub wymianą informacji podatkowych z innymi państwami, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego i stanu epidemii w związku z COVID-19 oraz skutki nimi wywołane lub treść ustaleń w tym zakresie podjętych przez Unię Europejską, Organizację Współpracy Gospodarczej i Rozwoju lub państwa uczestniczące w wymianie tych informacji. ” .
 
 **Art. 9.** Do dnia 31 grudnia 2022 r. przepisów art. 16p ust. 1 i 2 ustawy zmienianej w art. 1 nie stosuje się do rozbieżności w kwalifikacji struktur hybrydowych w rozumieniu art. 16n ust. 1 pkt 18 ustawy zmienianej w art. 1, powstających w wyniku płatności odsetek z tytułu instrumentu finansowego w rozumieniu art. 16n ust. 1 pkt 4 ustawy zmienianej w art. 1 na rzecz podmiotu powiązanego w rozumieniu art. 16n ust. 1 pkt 14 ustawy zmienianej w art. 1, jeżeli są spełnione łącznie następujące warunki:
+
+- **1)** instrument ten: ma cechy umorzenia lub konwersji długu, wyemitowano: – wyłącznie w celu spełnienia wymogów dotyczących zdolności do pokrycia strat mających zastosowanie do sektora bankowego i jest on uznany jako taki w wymogach podatnika dotyczących zdolności do pokrycia strat, – w związku z instrumentami finansowymi w rozumieniu art. 16n ust. 1 pkt 4 ustawy zmienianej w art. 1, mającymi cechy instrumentu umorzenia lub konwersji długu na poziomie jednostki dominującej, – na poziomie niezbędnym do spełnienia mających zastosowanie wymogów dotyczących zdolności do pokrycia strat, nie został wyemitowany jako część uzgodnienia strukturalnego w rozumieniu art. 16n ust. 1 pkt 21 ustawy zmienianej w art. 1;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** całkowite odliczenie netto w odniesieniu do grupy kapitałowej obowiązanej na podstawie przepisów o rachunkowości do sporządzania skonsolidowanego sprawozdania finansowego w ramach uzgodnienia nie przekracza kwoty, jaką uzyskano by w przypadku wyemitowania przez podatnika takiego instrumentu finansowego bezpośrednio na rynek.
 
 **Art. 10.**
 
@@ -346,8 +519,6 @@ source: "isap-pdf"
 - **1)** informację podsumowującą, o której mowa w art. 100 ust. 1 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą – w przypadku gdy za miesiące styczeń, luty, marzec, kwiecień lub maj nie złożył informacji podsumowujących, o których mowa w art. 100 ust. 1 ustawy zmienianej w art. 2, w brzmieniu dotychczasowym, lub
 - **2)** korektę informacji podsumowującej, o której mowa w art. 101 ustawy zmienianej w art. 2 – w przypadku gdy za miesiące styczeń, luty, marzec, kwiecień lub maj złożył informacje podsumowujące, o których mowa w art. 100 ust. 1 ustawy zmienianej w art. 2, w brzmieniu dotychczasowym.
 
-**Art. 13.**
-
 1. Promotor w rozumieniu art. 86a § 1 pkt 8 ustawy zmienianej w art. 5 przekazuje Szefowi Krajowej Administracji Skarbowej, w terminie do dnia 31 lipca 2020 r., informację o schemacie podatkowym transgranicznym w rozumieniu art. 86a § 1 pkt 12 ustawy zmienianej w art. 5, jeżeli pierwszej czynności związanej z jego wdrażaniem w rozumieniu art. 86a § 1 pkt 17 ustawy zmienianej w art. 5 dokonano w okresie od dnia 26 czerwca 2018 r. do dnia 30 czerwca 2020 r. Przepisy art. 86b § 2–8, art. 86d § 1 i art. 86e ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
 
 2. Przy dokonywaniu na potrzeby ust. 1 oceny posiadania przez schemat podatkowy transgraniczny w rozumieniu art. 86a § 1 pkt 12 ustawy zmienianej w art. 5 szczególnej cechy rozpoznawczej, o której mowa w art. 86a § 1 pkt 13 lit. a tiret drugie ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, uwzględnia się kraje i terytoria wskazane na liście, o której mowa w art. 86a § 10 pkt 1 ustawy zmienianej w art. 5, według stanu na dzień 1 lipca 2020 r.
@@ -362,19 +533,17 @@ source: "isap-pdf"
 
 7. W przypadku gdy schemat podatkowy transgraniczny, o którym mowa w ust. 1, stanowi schemat podatkowy standaryzowany w rozumieniu art. 86a § 1 pkt 11 ustawy zmienianej w art. 5, promotor w rozumieniu art. 86a § 1 pkt 8 ustawy zmienianej w art. 5 lub wspomagający w rozumieniu art. 86a § 1 pkt 18 ustawy zmienianej w art. 5, którzy przekazali Szefowi Krajowej Administracji Skarbowej informację o tym schemacie podatkowym na podstawie ust. 1 lub 4, przekazują Szefowi Krajowej Administracji Skarbowej, w terminie do dnia 31 sierpnia 2020 r., dane identyfikujące korzystającego w rozumieniu art. 86a § 1 pkt 3 ustawy zmienianej w art. 5, któremu w okresie od dnia 26 czerwca 2018 r. do dnia 30 czerwca 2020 r. udostępnili ten schemat podatkowy, określone w art. 86f § 1 pkt 1, 9 i 11 ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, wskazując NSP w rozumieniu art. 86a § 1 pkt 5 ustawy zmienianej w art. 5, zwane dalej „NSP”. Przepis art. 86f § 4 zdanie drugie ustawy zmienianej w art. 5 stosuje się odpowiednio.
 
-8. Do przekazywania informacji na podstawie przepisów ust. 1 i 3–7 przepisy art. 86f–86ia, art. 86n § 1 i 2 oraz art. 86o ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio, przy czym przekazywanie informacji następuje na podstawie struktury logicznej obowiązującej od dnia 1 lipca 2020 r.
+8. Do przekazywania informacji na podstawie przepisów ust. 1 i 3–7 przepisy art. 86f-86ia, art. 86n § 1 i 2 oraz art. 86o ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio, przy czym przekazywanie informacji następuje na podstawie struktury logicznej obowiązującej od dnia 1 lipca 2020 r.
 
 **Art. 14.** Pierwszą listę, o której mowa w art. 86a § 10 pkt 1 ustawy zmienianej w art. 5, minister właściwy do spraw finansów publicznych ogłasza do dnia 7 lipca 2020 r., według stanu na dzień 1 lipca 2020 r.
 
-**Art. 15.** Z dniem 1 lipca 2020 r. NSP nadane przed tym dniem schematom podatkowym transgranicznym w rozumieniu art. 86a § 1 pkt 12 ustawy zmienianej w art. 5 stają się nieważne, a postępowania w sprawie nadania NSP wszczęte przed tym dniem umarza się z mocy prawa. Przepisu art. 86i § 2 pkt 1 ustawy zmienianej w art. 5 nie stosuje się.
+**Art. 15.** Z dniem 1 lipca 2020 r. NSP nadane przed tym dniem schematom podatkowym transgranicznym w rozumieniu art. 86a § 1 pkt 12 ustawy zmienianej w art. 5 stają się nieważne. Przepisu art. 86i § 2 pkt 1 ustawy zmienianej w art. 5 nie stosuje się. Do nadawania NSP schematom podatkowym transgranicznym w rozumieniu art. 86a § 1 pkt 12 ustawy zmienianej w art. 5, o których informacje zostały przekazane na podstawie art. 13, przepisy art. 86g ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio, przy czym potwierdzenie nadania NSP, o którym mowa w art. 86g § 2a ustawy zmienianej w art. 5, zawiera NSP oraz dane wskazane wyłącznie w informacji przekazanej na podstawie art. 13.
 
-**Art. 16.** Do nadawania NSP schematom podatkowym transgranicznym w rozumieniu art. 86a § 1 pkt 12 ustawy zmienianej w art. 5, o których informacje zostały przekazane na podstawie art. 13, przepisy art. 86g ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio, przy czym potwierdzenie nadania NSP, o którym mowa w art. 86g § 2a ustawy zmienianej w art. 5, zawiera NSP oraz dane wskazane wyłącznie w informacji przekazanej na podstawie art. 13.
-
-**Art. 17.** W przypadku informacji o schematach podatkowych w rozumieniu art. 86a § 1 pkt 10 ustawy zmienianej w art. 5, przekazanych Szefowi Krajowej Administracji Skarbowej do dnia 28 lutego 2021 r. potwierdzenie nadania NSP, o którym mowa w art. 86g § 2a ustawy zmienianej w art. 5, jest wydawane niezwłocznie, jednak nie później niż w terminie 30 dni od dnia wpływu poprawnej informacji o tym schemacie podatkowym do Szefa Krajowej Administracji Skarbowej.
+**Art. 17.** W przypadku informacji o schematach podatkowych w rozumieniu art. 86a § 1 pkt 10 ustawy zmienianej w art. 5, przekazanych Szefowi Krajowej Administracji Skarbowej do dnia 30 września 2020 r. potwierdzenie nadania NSP, o którym mowa w art. 86g § 2a ustawy zmienianej w art. 5, jest wydawane niezwłocznie, jednak nie później niż w terminie 30 dni od dnia wpływu poprawnej informacji o tym schemacie podatkowym do Szefa Krajowej Administracji Skarbowej.
 
 **Art. 18.** Informacje, o których mowa w art. 88b ust. 1 ustawy zmienianej w art. 3, zawierające dane otrzymane do dnia 30 września 2020 r., Szef Krajowej Administracji Skarbowej przekazuje w terminie do dnia 31 października 2020 r.
 
-**Art. 19.** Pełnomocnictwa szczególne do działania w sprawie z zakresu stosowania przepisów art. 86b–86i ustawy zmienianej w art. 5, w brzmieniu dotychczasowym, złożone i nieodwołane do dnia 30 czerwca 2020 r. stają się pełnomocnictwami szczególnymi, o których mowa w art. 86na ustawy zmienianej w art. 5.
+**Art. 19.** Pełnomocnictwa szczególne do działania w sprawie z zakresu stosowania przepisów art. 86b-86i ustawy zmienianej w art. 5, w brzmieniu dotychczasowym, złożone i nieodwołane do dnia 30 czerwca 2020 r. stają się pełnomocnictwami szczególnymi, o których mowa w art. 86na ustawy zmienianej w art. 5.
 
 **Art. 20.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 102 ust. 1 ustawy zmienianej w art. 2 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 102 ust. 1 ustawy zmienianej w art. 2, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
@@ -402,4 +571,8 @@ source: "isap-pdf"
 **Art. 22.** Przepisy rozdziału 3a ustawy zmienianej w art. 1 oraz przepis art. 9 mają zastosowanie do dochodów (przychodów) uzyskanych w roku podatkowym rozpoczynającym się po dniu 31 grudnia 2020 r.
 
 **Art. 23.** Ustawa wchodzi w życie z dniem 1 lipca 2020 r., z wyjątkiem:
+
+- **1)** art. 8, który wchodzi w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 1, art. 4 i art. 9, które wchodzą w życie z dniem 1 stycznia 2021 r.
+
 

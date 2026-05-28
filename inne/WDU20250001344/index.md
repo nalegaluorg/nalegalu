@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o podatku rolnym
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 26 września 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 października 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-10-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001344) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1344/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 26 września 2025 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o podatku rolnym
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2024 r. poz. 1176), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 18 października 2024 r. o zmianie niektórych ustaw związanych z udzielaniem pomocy de minimis (Dz. U.
 poz. 1635),
@@ -68,7 +68,7 @@ Art. 14–16. (pominięte)
     - **a)** wynika z umowy zawartej z właścicielem, z Krajowym Ośrodkiem Wsparcia Rolnictwa lub z innego tytułu prawnego, a także jeżeli dotyczy nieruchomości znajdujących się Zasobie, o którym mowa art. 2 ustawy z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2025 r. poz. 834), albo
     - **b)** jest bez tytułu prawnego, z wyjątkiem gruntów wchodzących skład Zasobu Własności Rolnej Skarbu Państwa lub będących zarządzie Lasów Państwowych; tym przypadku podatnikami są odpowiednio jednostki organizacyjne Krajowego Ośrodka Wsparcia Rolnictwa i Lasów Państwowych.
 
-2. Jeżeli grunty znajdują się posiadaniu samoistnym, obowiązek podatkowy zakresie podatku rolnego ciąży na posiadaczu samoistnym. podatnikiem podatku rolnego jest dzierżawca.
+2. Jeżeli grunty znajdują się posiadaniu samoistnym, obowiązek podatkowy zakresie podatku rolnego ciąży na posiadaczu samoistnym. stosownie do przepisów o ubezpieczeniu społecznym rolników lub przepisów dotyczących uzyskiwania rent strukturalnych, podatnikiem podatku rolnego jest dzierżawca.
 
 4. Jeżeli grunty gospodarstwa rolnego zostały wniesione do spółdzielni produkcyjnej jako wkład gruntowy, podatnikiem podatku rolnego jest spółdzielnia produkcyjna.
 
@@ -79,6 +79,9 @@ Art. 14–16. (pominięte)
 7. Zasady odpowiedzialności solidarnej za zobowiązanie podatkowe, o której mowa ust. 5, nie stosuje się, jeżeli jeden lub kilku współwłaścicieli (posiadaczy) jest zwolnionych od podatku rolnego albo nie podlega temu podatkowi. W takiej sytuacji obowiązek podatkowy ciąży solidarnie na współwłaścicielach (posiadaczach), którzy podlegają podatkowi rolnemu oraz nie są zwolnieni od tego podatku, zakresie odpowiadającym ich łącznemu udziałowi prawie własności lub posiadaniu.
 
 **Art. 3a.** Obowiązek podatkowy, o którym mowa art. 3, nie dotyczy:
+
+- **1)** Skarbu Państwa;
+- **2)** gmin.
 
 **Art. 3b.** Zadania sejmiku województwa, o których mowa art. 5 ust. 2 i art. 13b ust. 2, są zadaniami z zakresu administracji rządowej.
 
@@ -139,7 +142,7 @@ Art. 14–16. (pominięte)
 
 4a. Organem podatkowym właściwym sprawach podatku rolnego jest wójt (burmistrz, prezydent miasta).
 
-5. Osoby fizyczne, z zastrzeżeniem ust. 10, są obowiązane złożyć właściwemu organowi podatkowemu informacje o gruntach, sporządzone na formularzach według ustalonego wzoru, terminie 14 dni od dnia zaistnienia okoliczności uzasadniających powstanie albo wygaśnięcie obowiązku podatkowego zakresie podatku rolnego, lub o zaistnieniu zmian, o których mowa ust. 4. obowiązku podatkowego terminach do dnia 15 marca, 15 maja, 15 września i 15 listopada roku podatkowego.
+5. Osoby fizyczne, z zastrzeżeniem ust. 10, są obowiązane złożyć właściwemu organowi podatkowemu informacje o gruntach, sporządzone na formularzach według ustalonego wzoru, terminie 14 dni od dnia zaistnienia okoliczności uzasadniających powstanie albo wygaśnięcie obowiązku podatkowego zakresie podatku rolnego, lub o zaistnieniu zmian, o których mowa ust. 4. kowy właściwy ze względu na miejsce położenia gruntów. Podatek jest płatny ratach proporcjonalnych do czasu trwania obowiązku podatkowego terminach do dnia 15 marca, 15 maja, 15 września i 15 listopada roku podatkowego.
 
 6a. Nie wszczyna się postępowania, a postępowanie wszczęte umarza, jeżeli wysokość zobowiązania podatkowego na dany rok podatkowy nie przekraczałaby, określonych na dzień 1 stycznia roku podatkowego, najniższych kosztów doręczenia obrocie krajowym przesyłki poleconej za potwierdzeniem odbioru przez operatora wyznaczonego rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2025 r. poz. 366 i 820). W takim przypadku decyzję umarzającą postępowanie pozostawia się aktach sprawy, a organ jest nią związany od chwili wydania. Do zmiany decyzji umarzającej postępowanie przepis art. 254 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ) stosuje się odpowiednio.
 
@@ -202,11 +205,7 @@ Art. 14–16. (pominięte)
 8. Minister właściwy do spraw finansów publicznych porozumieniu z ministrem właściwym do spraw informatyzacji określi, drodze rozporządzenia:
 
 - **1)** sposób przekazywania wniosku, o którym mowa ust. 1, za pomocą środków komunikacji elektronicznej,
-- **2)** rodzaje podpisu elektronicznego, którym powinien zostać opatrzony wniosek, o którym mowa ust. 1 uwzględniając potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych tym wniosku oraz potrzebę ochrony tych danych przed nieuprawnionym dostępem.
-
-**Art. 6e.**
-
-1. Kwotę, o której mowa art. 6d ust. 1, zaokrągloną do pełnych dziesiątek groszy dół, organ podatkowy przekazuje na rachunek bankowy lub rachunek spółdzielczej kasie oszczędnościowo-kredytowej wybranego przez
+- **2)** rodzaje podpisu elektronicznego, którym powinien zostać opatrzony wniosek, o którym mowa ust. 1 uwzględniając potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych tym wniosku oraz potrzebę ochrony tych danych przed nieuprawnionym dostępem. przekazuje na rachunek bankowy lub rachunek spółdzielczej kasie oszczędnościowo-kredytowej wybranego przez podatnika podmiotu uprawnionego, jednorazowo terminie do dnia 31 grudnia roku podatkowego, z tym że tę kwotę pomniejsza się o koszty przelewu bankowego.
 
 2. Jeżeli kwota, o której mowa art. 6d ust. 1, nie zostanie przekazana podmiotowi uprawnionemu terminie, o którym mowa ust. 1, przysługują mu odsetki ustawowe.
 
@@ -316,7 +315,7 @@ Art. 14–16. (pominięte)
 
 **Art. 13d.**
 
-1. Zwolnienia i ulgi podatkowe określone art. 12 ust. 1 pkt 3–7 i ust. 6, art. 13 i art. 13c stosuje się na wniosek podatnika drodze decyzji.
+1. Zwolnienia i ulgi podatkowe określone art. 12 ust. 1 pkt 3–7 i ust. 6, art. 13 i art. 13c stosuje się na wniosek podatnika drodze decyzji. cyjnych wraz z rachunkami lub ich uwierzytelnionymi odpisami, stwierdzającymi wysokość tych wydatków.
 
 3. Zwolnienia i ulgi podatkowe udzielone na wniosek podatnika stosuje się od pierwszego dnia miesiąca następującego po miesiącu, którym złożono wniosek.
 
@@ -344,6 +343,10 @@ Art. 14–16. (pominięte)
 **Art. 18.** Prezes Głównego Urzędu Statystycznego, na podstawie danych statystycznych, ogłasza Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, nie później niż do dnia 23 września każdego roku, wysokość przeciętnego dochodu z pracy indywidualnych gospodarstwach rolnych z 1 ha przeliczeniowego.
 
 **Art. 19.** Tracą moc:
+
+- **1)** ustawa z dnia 11 listopada 1965 r. o rozszerzeniu uprawnień gromadzkich rad narodowych zakresie podatkowym oraz o usprawnieniu gromadach wymiaru i poboru podatków i innych należności pieniężnych (Dz. U. poz. 288);
+- **2)** ustawa z dnia 26 października 1971 r. o podatku gruntowym (Dz. U. poz. 254 oraz z 1974 r. poz. 230);
+- **3)** przepisy ustawy z dnia 28 lipca 1983 r. o podatku wyrównawczym (Dz. U. poz. 188) zakresie dotyczącym opodatkowania dochodów z niektórych rodzajów upraw i produkcji zwierzęcej.
 
 **Art. 20.** Ustawa wchodzi życie z dniem 1 stycznia 1985 r.
 

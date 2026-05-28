@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# o Agencji Restrukturyzacji i Modernizacji Rolnictwa
-
-*USTAWA z dnia 9 maja 2008 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 października 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,7 +25,30 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-03-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001363) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1363/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 26 września 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o Agencji Restrukturyzacji i Modernizacji Rolnictwa
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2023 r. poz. 1199), z uwzględnieniem zmian wprowadzonych:
+1) ustawą z dnia 20 grudnia 2024 r. o Radzie Fiskalnej (Dz. U. z 2025 r. poz. 39),
+2) ustawą z dnia 21 lutego 2025 r. o zmianie ustawy o Planie Strategicznym dla Wspólnej Polityki rolnej na lata 2023–2027 oraz niektórych innych ustaw (Dz. U. poz. 321),
+3) ustawą z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620) oraz zmian wynikających z przepisów ogłoszonych przed dniem 16 września 2025 r.
+2. Podany w załączniku do niniejszego obwieszczenia jednolity tekst ustawy nie obejmuje:
+1) art. 55 ustawy z dnia 20 grudnia 2024 r. o Radzie Fiskalnej (Dz. U. z 2025 r. poz. 39), który stanowi: „Art. 55. Ustawa wchodzi w życie z dniem 15 lutego 2025 r., z wyjątkiem:
+1) art. 32–34, art. 35 pkt 1–4, pkt 10, pkt 12 lit. a, pkt 13 i pkt 14 lit. a, art. 36 pkt 1–6, art. 37–39 oraz art. 53, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+2) art. 4–7, art. 13–21, art. 27–30, art. 35 pkt 5–9, pkt 12 lit. b i pkt 14 lit. b, art. 36 pkt 7 oraz art. 51, które wchodzą w życie z dniem 1 stycznia 2026 r.”;
+2) art. 4 i art. 6 ustawy z dnia 21 lutego 2025 r. o zmianie ustawy o Planie Strategicznym dla Wspólnej Polityki rolnej na lata 2023–2027 oraz niektórych innych ustaw (Dz. U. poz. 321), które stanowią: „Art. 4. 1. W terminie 7 dni od dnia wejścia w życie niniejszej ustawy Agencja Restrukturyzacji i Modernizacji Rolnictwa przekaże Głównemu Inspektorowi Pracy wykaz rolników niebędących osobami fizycznymi, którzy w 2024 r.
+złożyli wnioski o przyznanie pomocy, o której mowa w art. 20 pkt 1, 3 i 4 ustawy zmienianej w art. 1.
+2. Wykaz, o którym mowa w ust. 1, zawiera nazwę rolnika i jego numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), siedzibę i adres.” „Art. 6. Ustawa wchodzi w życie z dniem 15 marca 2025 r.”;
+3) art. 461 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), który stanowi: „Art. 461. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+1) art. 392 pkt 2 lit. b oraz art. 458, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+2) art. 106, art. 128 ust. 2, art. 203 oraz art. 300 ust. 3 pkt 11, które wchodzą w życie z dniem 1 stycznia 2026 r.”.
+Marszałek Sejmu: S. Hołownia
+USTAWA z dnia 9 maja 2008 r.
+o Agencji Restrukturyzacji i Modernizacji Rolnictwa
+
 **Art. 1.** Ustawa określa:
+
+- **1)** zadania i organizację Agencji Restrukturyzacji i Modernizacji Rolnictwa, zwanej dalej „Agencją”;
+- **2)** zasady umarzania w całości lub w części, rozkładania na raty, odraczania terminu spłat oraz sprzedaży wierzytelności Agencji.
 
 **Art. 2.**
 
@@ -54,15 +75,15 @@ source: "isap-pdf"
 - **5)** rozwoju rolnictwa ekologicznego i edukacji w zakresie ekologii;
 - **6)** kształcenia mieszkańców wsi uprawnionych do otrzymania kredytów na zasadach określonych w przepisach o szkolnictwie wyższym i nauce;
 - **7)** zbioru, transportu i unieszkodliwiania padłych zwierząt gospodarskich z gatunku bydło, owce, kozy, świnie lub konie;
-- **8)** realizacji innych zadań wynikających z polityki państwa w zakresie rolnictwa, rozwoju wsi, rynków rolnych i przetwórstwa produktów rolnych lub ze Wspólnej Polityki Rolnej lub w zakresie objętym działem administracji rządowej – rybołówstwo lub Instrumentu na rzecz Odbudowy i Zwiększania Odporności.
+- **8)** realizacji innych zadań wynikających z polityki państwa w zakresie rolnictwa, rozwoju wsi, rynków rolnych i przetwórstwa produktów rolnych lub ze Wspólnej Polityki Rolnej lub w zakresie objętym działem administracji rządowej rybołówstwo lub Instrumentu na rzecz Odbudowy i Zwiększania Odporności.
 
 2. Agencja realizuje zadania wymienione w ust. 1 zwłaszcza przez:
 
 - **1)** dopłatę do odsetek od kredytów bankowych;
 - **2)** częściową spłatę kapitału kredytu bankowego;
 - **3)** udzielanie gwarancji i poręczeń kredytowych, określonych w planie finansowym;
-- **4)** udzielanie poręczeń spłaty kredytów studenckich zaciąganych na podstawie przepisów o szkolnictwie wyższym i nauce – w przypadku zadania, o którym mowa w ust. 1 pkt 6;
-- **5)** finansowanie lub udział w finansowaniu – w przypadku zadań, o których mowa w ust. 1 pkt 4, 5, 7 i 8.
+- **4)** udzielanie poręczeń spłaty kredytów studenckich zaciąganych na podstawie przepisów o szkolnictwie wyższym i nauce w przypadku zadania, o którym mowa w ust. 1 pkt 6;
+- **5)** finansowanie lub udział w finansowaniu w przypadku zadań, o których mowa w ust. 1 pkt 4, 5, 7 i 8.
 
 3. Agencja realizuje zadanie, o którym mowa w ust. 1 pkt 3, w zakresie dotyczącym tworzenia i powiększania gospodarstw rodzinnych w szczególności przez dopłatę do odsetek od kredytów bankowych lub częściową spłatę kapitału kredytu udzielonego na zakup nieruchomości rolnych, które utworzą takie gospodarstwo albo wejdą w jego skład, z tym że kwota kredytu nie może przekraczać 90 % wartości nabywanej nieruchomości, a okres spłaty kredytu nie może przekraczać 20 lat.
 
@@ -140,7 +161,7 @@ source: "isap-pdf"
 - **4)** dopłat do przechowywania oraz interwencyjnych zakupów i sprzedaży produktów rolnych na poszczególnych rynkach, w tym masła, odtłuszczonego mleka w proszku, zbóż i mięsa,
 - **5)** (uchylony)
 - **6)** wspierania działań promocyjnych i informacyjnych na rynkach wybranych produktów rolnych w ramach Wspólnej Polityki Rolnej
-- **7)** (uchylony) – z wyjątkiem dochodzenia zwrotu nienależnych kwot pomocy oraz dokonywania płatności, o którym mowa w art. 7 ust. 1 akapit drugi rozporządzenia nr 1306/2013, wykonuje, jako zadania delegowane zgodnie z pkt 1.C.1 załącznika I do rozporządzenia delegowanego Komisji (UE) nr 907/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do agencji płatniczych i innych organów, zarządzania finansami, rozliczania rachunków, zabezpieczeń oraz stosowania euro (Dz. Urz. UE L 255 z 28.08.2014, str. 18, z późn. zm. ), Krajowy Ośrodek Wsparcia Rolnictwa.
+- **7)** (uchylony) z wyjątkiem dochodzenia zwrotu nienależnych kwot pomocy oraz dokonywania płatności, o którym mowa w art. 7 ust. 1 akapit drugi rozporządzenia nr 1306/2013, wykonuje, jako zadania delegowane zgodnie z pkt 1.C.1 załącznika I do rozporządzenia delegowanego Komisji (UE) nr 907/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do agencji płatniczych i innych organów, zarządzania finansami, rozliczania rachunków, zabezpieczeń oraz stosowania euro (Dz. Urz. UE L 255 z 28.08.2014, str. 18, z późn. zm. ), Krajowy Ośrodek Wsparcia Rolnictwa.
 
 3. Minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw rynków rolnych może określić, w drodze rozporządzenia, szczegółowy tryb i sposób działania Agencji w zakresie administrowania obrotem z zagranicą towarami, o których mowa w ust. 1 pkt 7, mając na względzie stabilizację rynku wewnętrznego oraz monitorowanie przywozu i wywozu produktów rolno-spożywczych w Unii Europejskiej.
 
@@ -157,16 +178,12 @@ source: "isap-pdf"
 - **2)** przeprowadzanie kontroli na miejscu;
 - **3)** ustalanie należności z tytułu:
     - **a)** nienależnych kwot pomocy,
-    - **b)** opłat, o których mowa w art. 33 ust. 1 pkt 2 lit. b–d ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U. z 2023 r. poz.
-
-- **1502)** ,
+    - **b)** opłat, o których mowa w art. 33 ust. 1 pkt 2 lit. b–d ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U. z 2023 r. poz. 1502),
     - **c)** nienależnie zwolnionych przez Krajowy Ośrodek Wsparcia Rolnictwa zabezpieczeń wniesionych przez przedsiębiorców uczestniczących w obrocie z zagranicą towarami, o których mowa w art. 6 ust. 1 pkt 7,
-    - **d)** kar pieniężnych, o których mowa w art. 6 ust. 1 pkt 7 lit. d – oraz wzywanie beneficjenta do zwrotu kwot tych należności;
+    - **d)** kar pieniężnych, o których mowa w art. 6 ust. 1 pkt 7 lit. d oraz wzywanie beneficjenta do zwrotu kwot tych należności;
 
 - **4)** przechowywanie dokumentów związanych z wykonywaniem zadań delegowanych;
-- **5)** udostępnianie lub przekazywanie agencji płatniczej, Komisji Europejskiej lub innym organom upoważnionym do kontroli dokumentów, o których mowa w pkt
-
-4.
+- **5)** udostępnianie lub przekazywanie agencji płatniczej, Komisji Europejskiej lub innym organom upoważnionym do kontroli dokumentów, o których mowa w pkt 4.
 
 2. Umowa, o której mowa w pkt 1.C.1 ppkt i załącznika I do rozporządzenia delegowanego Komisji (UE) nr 907/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do agencji płatniczych i innych organów, zarządzania finansami, rozliczania rachunków, zabezpieczeń oraz stosowania euro, jest zawierana na formularzu opracowanym przez agencję płatniczą i zawiera postanowienia zapewniające prawidłowe wykonywanie przez Krajowy Ośrodek Wsparcia Rolnictwa delegowanych mu zadań agencji płatniczej, a w szczególności określenie:
 
@@ -183,9 +200,9 @@ source: "isap-pdf"
 
 5. Można odstąpić od ustalenia kwot należności, o których mowa w ust. 1 pkt 3 lit. b–d, oraz odsetek i kwot, o których mowa w art. 49 ust. 3 rozporządzenia Komisji (WE) nr 612/2009 z dnia 7 lipca 2009 r. ustanawiającego wspólne szczegółowe zasady stosowania systemu refundacji wywozowych do produktów rolnych (Dz. Urz. UE L 186 z 17.07.2009, str. 1, z późn. zm. ), w przypadku gdy kwota każdej z tych należności nie jest wyższa od kwoty stanowiącej równowartość 100 euro przeliczonej na złote według kursu euro ustalonego zgodnie z art. 40 rozporządzenia delegowanego Komisji (UE) nr 907/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do agencji płatniczych i innych organów, zarządzania finansami, rozliczania rachunków, zabezpieczeń oraz stosowania euro.
 
-6. Do należności, o których mowa w ust. 1 pkt 3 lit. b–d, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ):
+6. Do należności, o których mowa w ust. 1 pkt 3 lit. b–d, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ):
 
-- **1)** z wyjątkiem przepisów dotyczących umarzania należności, odraczania płatności, rozkładania płatności na raty oraz zaokrąglania należności, z tym że, o ile przepisy odrębne dotyczące odzyskiwania poszczególnych płatności nie stanowią inaczej, termin, o którym mowa w art. 47 § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, wynosi 60 dni;
+- **1)** z wyjątkiem przepisów dotyczących umarzania należności, odraczania płatności, rozkładania płatności na raty oraz zaokrąglania należności, z tym że, o ile przepisy odrębne dotyczące odzyskiwania poszczególnych płatności nie stanowią inaczej, termin, o którym mowa w art. 47 § 1 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, wynosi 60 dni;
 - **2)** przy czym bieg terminu przedawnienia tych należności ulega przerwaniu także w dniu doręczenia dłużnikowi upomnienia, o którym mowa w art. 15 § 1 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2025 r. poz. 132 i 620); w takim przypadku bieg terminu przedawnienia biegnie na nowo od dnia następującego po dniu, w którym doręczono upomnienie.
 
 7. Uprawnienia organu podatkowego określone w ustawie, o której mowa w ust. 6 pkt 1, przysługują organowi, o którym mowa w ust. 4.
@@ -270,9 +287,9 @@ source: "isap-pdf"
 - **2)** oddziały regionalne działające w każdym województwie;
 - **3)** biura powiatowe działające w każdym powiecie, z tym że w miastach na prawach powiatu nie tworzy się odrębnych biur powiatowych.
 
-2. Oddziałem regionalnym kieruje dyrektor, a biurem powiatowym – kierownik.
+2. Oddziałem regionalnym kieruje dyrektor, a biurem powiatowym kierownik.
 
-3. Kierowników komórek organizacyjnych w Centrali Agencji i ich zastępców, dyrektorów oddziałów regionalnych i ich zastępców oraz doradców Prezesa Agencji powołuje i odwołuje Prezes Agencji, a kierowników biur powiatowych i ich zastępców oraz kierowników biur w oddziałach regionalnych i ich zastępców – dyrektor oddziału regionalnego.
+3. Kierowników komórek organizacyjnych w Centrali Agencji i ich zastępców, dyrektorów oddziałów regionalnych i ich zastępców oraz doradców Prezesa Agencji powołuje i odwołuje Prezes Agencji, a kierowników biur powiatowych i ich zastępców oraz kierowników biur w oddziałach regionalnych i ich zastępców dyrektor oddziału regionalnego.
 
 4. Stanowisko kierownika komórki organizacyjnej w Centrali Agencji i jego zastępcy, dyrektora oddziału regionalnego i jego zastępcy, doradcy Prezesa Agencji oraz kierownika biura powiatowego i jego zastępcy może zajmować osoba, która:
 
@@ -286,7 +303,7 @@ source: "isap-pdf"
 1. Powołanie na stanowiska:
 
 - **1)** o których mowa w art. 8 ust. 4 i art. 9 ust. 4,
-- **2)** kierowników biur w oddziałach regionalnych i ich zastępców – jest równoznaczne z nawiązaniem stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277 i 807).
+- **2)** kierowników biur w oddziałach regionalnych i ich zastępców jest równoznaczne z nawiązaniem stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277 i 807).
 
 2. Jeżeli przepisy ustawy nie stanowią inaczej, czynności z zakresu prawa pracy w odniesieniu do Prezesa Agencji wykonuje minister właściwy do spraw rozwoju wsi.
 
@@ -294,7 +311,7 @@ source: "isap-pdf"
 
 1. Prezes Agencji, dyrektorzy oddziałów regionalnych i kierownicy biur powiatowych wydają decyzje administracyjne w zakresie określonym w odrębnych przepisach.
 
-2. W postępowaniu administracyjnym organem wyższego stopnia w rozumieniu Kodeksu postępowania administracyjnego w stosunku do dyrektorów oddziałów regionalnych jest Prezes Agencji, a w stosunku do kierowników biur powiatowych – dyrektor oddziału regionalnego.
+2. W postępowaniu administracyjnym organem wyższego stopnia w rozumieniu Kodeksu postępowania administracyjnego w stosunku do dyrektorów oddziałów regionalnych jest Prezes Agencji, a w stosunku do kierowników biur powiatowych dyrektor oddziału regionalnego.
 
 3. Kierownik biura powiatowego jest właściwy miejscowo również w sprawach dotyczących nieruchomości położonych w miastach na prawach powiatu i w innych sprawach, w których stroną jest podmiot mający miejsce zamieszkania (siedzibę), miejsce pobytu albo ostatnie miejsce zamieszkania w mieście na prawach powiatu, jeżeli właściwość miejscową w tych sprawach ustala się odpowiednio według miejsca zamieszkania (siedziby), miejsca pobytu albo ostatniego miejsca zamieszkania tego podmiotu.
 
@@ -340,16 +357,16 @@ source: "isap-pdf"
 - **5)** dotyczących grup producentów rolnych i ich związków;
 - **6)** (uchylony)
 - **7)** o identyfikacji i rejestracji zwierząt;
-- **8)** o zdrowiu zwierząt.
+- **8)** o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt.
 
 **Art. 10b.** Przepis art. 10a stosuje się również do postępowań w sprawach objętych zadaniami delegowanymi, o których mowa w art. 6 ust. 2.
 
 **Art. 10c.**
 
-1. Złożenie wniosku za pomocą systemu teleinformatycznego Agencji następuje po uwierzytelnieniu w tym systemie podmiotu składającego ten wniosek, a w przypadku gdy wniosek jest składany przez podmiot niebędący osobą fizyczną – po uwierzytelnieniu osoby:
+1. Złożenie wniosku za pomocą systemu teleinformatycznego Agencji następuje po uwierzytelnieniu w tym systemie podmiotu składającego ten wniosek, a w przypadku gdy wniosek jest składany przez podmiot niebędący osobą fizyczną po uwierzytelnieniu osoby:
 
-- **1)** uprawnionej do reprezentacji tego podmiotu – jeżeli jego reprezentacja jest jednoosobowa;
-- **2)** upoważnionej przez osoby uprawnione do reprezentacji tego podmiotu – jeżeli jego reprezentacja jest wieloosobowa.
+- **1)** uprawnionej do reprezentacji tego podmiotu jeżeli jego reprezentacja jest jednoosobowa;
+- **2)** upoważnionej przez osoby uprawnione do reprezentacji tego podmiotu jeżeli jego reprezentacja jest wieloosobowa.
 
 2. Uwierzytelnienie w systemie teleinformatycznym Agencji następuje:
 
@@ -386,7 +403,7 @@ source: "isap-pdf"
 - **9)** decyzje administracyjne, postanowienia oraz inne pisma doręczane stronie, sporządzone z wykorzystaniem systemu teleinformatycznego Agencji, mogą zamiast podpisu zawierać imię i nazwisko wraz ze stanowiskiem służbowym osoby upoważnionej do ich wydania;
 - **10)** w przypadku ustanowienia pełnomocnika, a także w przypadku gdy strona postępowania działa przez przedstawiciela, wystawiane przez system teleinformatyczny Agencji potwierdzenie złożenia pisma oraz wykonania innej czynności dotyczącej postępowania, a także wystawiane przez ten system zawiadomienie o otrzymaniu pisma w tym systemie oraz potwierdzenie otrzymania tego pisma, otrzymuje odpowiednio pełnomocnik lub przedstawiciel strony postępowania za pomocą tego systemu.
 
-8. W przypadku gdy kopie dokumentów, o których mowa w ust. 7 pkt 2 lit. b, nie zostały dołączone do wniosku złożonego za pomocą systemu teleinformatycznego Agencji, dokumenty te można złożyć bezpośrednio w jednostce organizacyjnej Agencji albo podmiotu wdrażającego w rozumieniu art. 2 pkt 22 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023– 2027 lub nadać w placówce pocztowej operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366 i 820) lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej, albo wysłać na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841).
+8. W przypadku gdy kopie dokumentów, o których mowa w ust. 7 pkt 2 lit. b, nie zostały dołączone do wniosku złożonego za pomocą systemu teleinformatycznego Agencji, dokumenty te można złożyć bezpośrednio w jednostce organizacyjnej Agencji albo podmiotu wdrażającego w rozumieniu art. 2 pkt 22 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 lub nadać w placówce pocztowej operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2025 r. poz. 366 i 820) lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej, albo wysłać na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841).
 
 9. Zawarcie umowy za pomocą systemu teleinformatycznego Agencji jest dokonywane zgodnie z następującymi regułami:
 
@@ -419,9 +436,7 @@ source: "isap-pdf"
 
 1b. Po zakończeniu stosunku pracy z osobami, o których mowa w ust. 1a, dalsze zatrudnienie tych osób na wolnych stanowiskach pracy w Agencji wymaga przeprowadzenia naboru.
 
-1c. Na wolne stanowisko pracy w Agencji może zostać przeniesiony pracownik urzędu obsługującego ministra właściwego do spraw rozwoju wsi, w tym będący członkiem korpusu służby cywilnej w rozumieniu art. 3 pkt 3 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2024 r. poz. 409 oraz z 2025 r. poz.
-
-- **620)** , w drodze porozumienia pracodawców, za zgodą tego pracownika.
+1c. Na wolne stanowisko pracy w Agencji może zostać przeniesiony pracownik urzędu obsługującego ministra właściwego do spraw rozwoju wsi, w tym będący członkiem korpusu służby cywilnej w rozumieniu art. 3 pkt 3 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2024 r. poz. 409 oraz z 2025 r. poz. 620), w drodze porozumienia pracodawców, za zgodą tego pracownika.
 
 1d. W przypadku przeniesienia, o którym mowa w ust. 1c, z pracownikiem nawiązuje się stosunek pracy na podstawie umowy o pracę na czas nieokreślony lub na czas określony.
 
@@ -444,6 +459,10 @@ source: "isap-pdf"
 2. Lista, o której mowa w ust. 1, zawiera imiona i nazwiska kandydatów oraz informację o ich miejscach zamieszkania.
 
 **Art. 16.** Z przeprowadzonego naboru sporządza się protokół, który zawiera w szczególności:
+
+- **1)** wskazanie stanowiska pracy, na które był prowadzony nabór, liczbę kandydatów oraz imiona, nazwiska i adresy nie więcej niż 5 najlepszych kandydatów;
+- **2)** informację o zastosowanych metodach i technikach naboru;
+- **3)** uzasadnienie dokonanego wyboru.
 
 **Art. 17.**
 
@@ -485,7 +504,7 @@ source: "isap-pdf"
 4. W rocznym planie finansowym Agencji może być utworzona rezerwa obejmująca środki na pokrycie:
 
 - **1)** nadpłat lub
-- **2)** niedoboru środków finansowych wynikającego z niemożności ich odzyskania – powstałych przy realizacji płatności bezpośredniej, płatności cukrowej, płatności do pomidorów lub programów realizowanych z udziałem funduszy Unii Europejskiej.
+- **2)** niedoboru środków finansowych wynikającego z niemożności ich odzyskania powstałych przy realizacji płatności bezpośredniej, płatności cukrowej, płatności do pomidorów lub programów realizowanych z udziałem funduszy Unii Europejskiej.
 
 4a. Roczny plan finansowy Agencji nie obejmuje swoim zakresem środków pochodzących z funduszy Unii Europejskiej oraz krajowych środków publicznych przeznaczonych na współfinansowanie wydatków realizowanych z tych funduszy, z wyłączeniem środków na finansowanie projektów w ramach pomocy technicznej oraz zadań, które są realizowane na podstawie odrębnych przepisów.
 
@@ -533,11 +552,11 @@ source: "isap-pdf"
 - **2)** rozbudowę lub unowocześnienie istniejących systemów lub rozwiązań teleinformatycznych;
 - **3)** utrzymanie systemów lub rozwiązań teleinformatycznych.
 
-2. W celu usprawnienia współpracy między instytucjami i organami publicznymi oraz zapewnienia sprawnej obsługi rolników i innych podmiotów lub jednostek organizacyjnych nieposiadających osobowości prawnej, na rzecz których są realizowane zadania publiczne w zakresie działów administracji rządowej – rolnictwo, rozwój wsi, rynki rolne lub rybołówstwo, spółka może realizować zadania polegające na zapewnieniu rozwoju systemów i rozwiązań teleinformatycznych, w szczególności przez:
+2. W celu usprawnienia współpracy między instytucjami i organami publicznymi oraz zapewnienia sprawnej obsługi rolników i innych podmiotów lub jednostek organizacyjnych nieposiadających osobowości prawnej, na rzecz których są realizowane zadania publiczne w zakresie działów administracji rządowej rolnictwo, rozwój wsi, rynki rolne lub rybołówstwo, spółka może realizować zadania polegające na zapewnieniu rozwoju systemów i rozwiązań teleinformatycznych, w szczególności przez:
 
 - **1)** budowę systemów lub rozwiązań teleinformatycznych,
 - **2)** rozbudowę lub unowocześnienie istniejących systemów lub rozwiązań teleinformatycznych,
-- **3)** utrzymanie systemów lub rozwiązań teleinformatycznych – na rzecz podmiotów lub jednostek organizacyjnych nieposiadających osobowości prawnej innych niż Agencja, które realizują te zadania publiczne, na podstawie umów zawartych z tymi podmiotami lub jednostkami.
+- **3)** utrzymanie systemów lub rozwiązań teleinformatycznych na rzecz podmiotów lub jednostek organizacyjnych nieposiadających osobowości prawnej innych niż Agencja, które realizują te zadania publiczne, na podstawie umów zawartych z tymi podmiotami lub jednostkami.
 
 3. Agencja może posiadać i obejmować udziały w spółce. Przepisu art. 49 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530, z późn. zm. ) nie stosuje się.
 
@@ -560,6 +579,10 @@ source: "isap-pdf"
 2. Rada nadzorcza spółki uchyla uchwały zarządu spółki niezgodne z przepisami prawa, postanowieniami aktu założycielskiego lub poleceniami, o których mowa w ust. 1.
 
 **Art. 21e.** Przychodami spółki są:
+
+- **1)** przychody z tytułu realizacji zadań spółki;
+- **2)** dotacje celowe z budżetu państwa, w tym dotacje celowe na finansowanie lub dofinansowanie inwestycji i zakupów inwestycyjnych;
+- **3)** dotacje podmiotowe na dofinansowanie działalności bieżącej spółki.
 
 **Art. 21f.**
 
@@ -594,7 +617,7 @@ source: "isap-pdf"
 - **1)** zobowiązanie instytucji finansowej do:
     - **a)** przekazywania Agencji uwierzytelnionego odpisu z Krajowego Rejestru Sądowego,
     - **b)** przekazywania Agencji listy osób upoważnionych do podpisywania dokumentów gwarancyjnych oraz innych dokumentów związanych z gwarancjami, zawierającej imię i nazwisko, numer dowodu osobistego, stanowisko, zakres uprawnień oraz wzór podpisu osoby upoważnionej,
-    - **c)** niezwłocznego informowania Agencji o zmianach mogących mieć wpływ na ważność dokumentów, o których mowa w lit. a i b, z tym że o zmianach informacji dotyczących osób, o których mowa w lit. b – nie później niż w terminie 3 dni od dnia wystąpienia takich zmian;
+    - **c)** niezwłocznego informowania Agencji o zmianach mogących mieć wpływ na ważność dokumentów, o których mowa w lit. a i b, z tym że o zmianach informacji dotyczących osób, o których mowa w lit. b nie później niż w terminie 3 dni od dnia wystąpienia takich zmian;
 
 - **2)** zobowiązanie Agencji do:
     - **a)** przekazywania instytucji finansowej wykazu osób uprawnionych do podpisywania wezwań do zapłaty, wraz z kartami wzorów podpisów tych osób,
@@ -651,8 +674,7 @@ source: "isap-pdf"
 5. W przypadku, o którym mowa w art. 25 ust. 1 pkt 4 lit. b, dłużnik do wniosku o umorzenie wierzytelności Agencji dołącza, potwierdzające niezdolność do pracy w gospodarstwie rolnym:
 
 - **1)** prawomocne orzeczenie lekarza rzeczoznawcy Kasy Rolniczego Ubezpieczenia Społecznego lub orzeczenie komisji lekarskiej tej Kasy o trwałej lub okresowej całkowitej niezdolności do pracy w gospodarstwie rolnym, wydane na podstawie przepisów ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2025 r. poz. 197, 620, 621 i 1160), albo
-- **2)** orzeczenie lekarza orzecznika, od którego nie wniesiono sprzeciwu lub co do którego nie zgłoszono zarzutu wadliwości, albo orzeczenie komisji lekarskiej o całkowitej niezdolności do pracy, wydane na podstawie przepisów ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674 oraz z 2025 r. poz. 718, 769 i
-- **1159)** .
+- **2)** orzeczenie lekarza orzecznika, od którego nie wniesiono sprzeciwu lub co do którego nie zgłoszono zarzutu wadliwości, albo orzeczenie komisji lekarskiej o całkowitej niezdolności do pracy, wydane na podstawie przepisów ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674 oraz z 2025 r. poz. 718, 769 i 1159).
 
 6. Jeżeli do złożonego wniosku o umorzenie wierzytelności Agencji nie dołączono wszystkich wymaganych dokumentów, Prezes Agencji zwraca się do wnioskodawcy o ich uzupełnienie w terminie 14 dni.
 
@@ -712,8 +734,8 @@ source: "isap-pdf"
 - **2)** przedmiot umowy;
 - **3)** termin realizacji umowy;
 - **4)** kwotę wierzytelności;
-- **5)** warunki spłaty pozostałej części wierzytelności Agencji – w przypadku umorzenia tej wierzytelności w części;
-- **6)** warunki i terminy spłaty wierzytelności Agencji – w przypadku rozłożenia na raty tej wierzytelności lub odroczenia jej spłaty.
+- **5)** warunki spłaty pozostałej części wierzytelności Agencji w przypadku umorzenia tej wierzytelności w części;
+- **6)** warunki i terminy spłaty wierzytelności Agencji w przypadku rozłożenia na raty tej wierzytelności lub odroczenia jej spłaty.
 
 3. W przypadkach, o których mowa w art. 25 ust. 1 pkt 1–3 i 5, gdy Prezes Agencji umarza wierzytelności Agencji bez wniosku dłużnika, umorzenie następuje na podstawie oświadczenia Prezesa Agencji. Do oświadczenia Prezesa Agencji stosuje się odpowiednio przepis ust. 2.
 
@@ -737,7 +759,7 @@ source: "isap-pdf"
 - **1)** pochodzące z funduszy Unii Europejskiej,
 - **2)** krajowe, przeznaczone na:
     - **a)** współfinansowanie wydatków realizowanych z funduszy Unii Europejskiej,
-    - **b)** finansowanie przez Agencję pomocy przyznawanej w drodze decyzji administracyjnej – podlegają zwrotowi, jeżeli płatność lub pomoc finansowa wypłacone z tych środków zostały pobrane nienależnie lub w nadmiernej wysokości w wyniku naruszenia prawa albo regulaminu naboru wniosków o przyznanie pomocy finansowej lub w przypadkach określonych w przepisach odrębnych dotyczących przyznawania lub wypłaty płatności lub pomocy finansowej lub zwrotu tych środków lub w postanowieniach umów o przyznaniu pomocy finansowej.
+    - **b)** finansowanie przez Agencję pomocy przyznawanej w drodze decyzji administracyjnej podlegają zwrotowi, jeżeli płatność lub pomoc finansowa wypłacone z tych środków zostały pobrane nienależnie lub w nadmiernej wysokości w wyniku naruszenia prawa albo regulaminu naboru wniosków o przyznanie pomocy finansowej lub w przypadkach określonych w przepisach odrębnych dotyczących przyznawania lub wypłaty płatności lub pomocy finansowej lub zwrotu tych środków lub w postanowieniach umów o przyznaniu pomocy finansowej.
 
 1a. Przepis ust. 1 stosuje się również do podmiotów niebędących stronami postępowania w sprawie przyznania płatności lub pomocy finansowej, które nienależnie lub nadmiernie pobrały środki publiczne, o których mowa w ust. 1.
 
@@ -750,13 +772,13 @@ source: "isap-pdf"
 - **1)** organ właściwy do rozstrzygnięcia w sprawie przyznania płatności lub pomocy finansowej z tych środków publicznych przyznawanej w drodze decyzji administracyjnej;
 - **2)** w przypadku pomocy finansowej ze środków publicznych przyznawanej na podstawie umowy:
     - **a)** kierownik jednostki organizacyjnej Agencji wyznaczonej do rozpoznania sprawy,
-    - **b)** Prezes Agencji – w przypadku gdy do rozpoznania sprawy nie została wyznaczona jednostka organizacyjna Agencji,
-    - **c)** organ podmiotu wykonującego zadania delegowane – w przypadku pomocy finansowej przyznanej przez taki podmiot.
+    - **b)** Prezes Agencji w przypadku gdy do rozpoznania sprawy nie została wyznaczona jednostka organizacyjna Agencji,
+    - **c)** organ podmiotu wykonującego zadania delegowane w przypadku pomocy finansowej przyznanej przez taki podmiot.
 
 3. O ustaleniu kwoty nienależnie lub nadmiernie pobranych środków publicznych organ, o którym mowa w ust. 2 pkt 1:
 
-- **1)** rozstrzyga w decyzji w sprawie przyznania płatności lub pomocy finansowej ze środków publicznych, o których mowa w ust. 1 – w przypadku gdy ta kwota nie jest wyższa od kwoty stanowiącej równowartość 100 euro przeliczonej na złote według kursu euro ustalonego dla danego funduszu Unii Europejskiej zgodnie z odrębnymi przepisami;
-- **2)** może rozstrzygnąć w decyzji w sprawie przyznania płatności lub pomocy finansowej ze środków publicznych, o których mowa w ust. 1 – w przypadku gdy ta kwota jest wyższa od kwoty stanowiącej równowartość 100 euro przeliczonej na złote według kursu euro ustalonego dla danego funduszu Unii Europejskiej zgodnie z odrębnymi przepisami.
+- **1)** rozstrzyga w decyzji w sprawie przyznania płatności lub pomocy finansowej ze środków publicznych, o których mowa w ust. 1 w przypadku gdy ta kwota nie jest wyższa od kwoty stanowiącej równowartość 100 euro przeliczonej na złote według kursu euro ustalonego dla danego funduszu Unii Europejskiej zgodnie z odrębnymi przepisami;
+- **2)** może rozstrzygnąć w decyzji w sprawie przyznania płatności lub pomocy finansowej ze środków publicznych, o których mowa w ust. 1 w przypadku gdy ta kwota jest wyższa od kwoty stanowiącej równowartość 100 euro przeliczonej na złote według kursu euro ustalonego dla danego funduszu Unii Europejskiej zgodnie z odrębnymi przepisami.
 
 3a. W przypadku, o którym mowa w ust. 3 pkt 1, strony nie zawiadamia się o wszczęciu postępowania w sprawie ustalenia kwoty nienależnie lub nadmiernie pobranych środków publicznych.
 
@@ -768,11 +790,11 @@ source: "isap-pdf"
 
 6. W przypadku, o którym mowa w ust. 4, odwołanie od decyzji nie wstrzymuje jej wykonania.
 
-7. Do należności, o których mowa w ust. 1, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa:
+7. Do należności, o których mowa w ust. 1, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa:
 
 - **1)** z wyjątkiem przepisów:
-    - **a)** dotyczących umarzania należności, odraczania płatności, rozkładania płatności na raty oraz zaokrąglania należności, z tym że termin, o którym mowa w art. 47 § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, wynosi 60 dni,
-    - **b)** art. 78 i art. 78a ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa;
+    - **a)** dotyczących umarzania należności, odraczania płatności, rozkładania płatności na raty oraz zaokrąglania należności, z tym że termin, o którym mowa w art. 47 § 1 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, wynosi 60 dni,
+    - **b)** art. 78 i art. 78a ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa;
 
 - **2)** przy czym bieg terminu przedawnienia tych należności ulega przerwaniu także wskutek doręczenia dłużnikowi upomnienia, o którym mowa w art. 15 § 1 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, w dniu doręczenia tego upomnienia; w takim przypadku bieg terminu przedawnienia biegnie na nowo od dnia następującego po dniu, w którym doręczono upomnienie.
 
@@ -782,10 +804,10 @@ source: "isap-pdf"
 
 10. Do egzekucji należności z tytułu nienależnie lub nadmiernie pobranych środków finansowych, o których mowa w ust. 1, stosuje się przepisy o postępowaniu egzekucyjnym w administracji, z tym że uprawnienia wierzyciela określone w ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji przysługują:
 
-- **1)** Prezesowi Agencji – w przypadku gdy jest on właściwy do rozstrzygania w sprawach o przyznanie płatności lub pomocy finansowej ze środków publicznych, o których mowa w ust. 1;
+- **1)** Prezesowi Agencji w przypadku gdy jest on właściwy do rozstrzygania w sprawach o przyznanie płatności lub pomocy finansowej ze środków publicznych, o których mowa w ust. 1;
 - **2)** dyrektorowi oddziału regionalnego:
     - **a)** w przypadku gdy jest on właściwy do rozstrzygania w sprawach o przyznanie płatności lub pomocy finansowej ze środków publicznych, o których mowa w ust. 1,
-    - **b)** jako organowi wyższego stopnia – w przypadku gdy organem właściwym do rozstrzygania w sprawach o przyznanie płatności lub pomocy finansowej ze środków publicznych, o których mowa w ust. 1, jest kierownik biura powiatowego.
+    - **b)** jako organowi wyższego stopnia w przypadku gdy organem właściwym do rozstrzygania w sprawach o przyznanie płatności lub pomocy finansowej ze środków publicznych, o których mowa w ust. 1, jest kierownik biura powiatowego.
 
 **Art. 30.** (uchylony)
 
@@ -820,7 +842,7 @@ source: "isap-pdf"
 - **1)** nie jest wymagana zgoda dłużnika;
 - **2)** sprzedaż nie może być dokonana na rzecz dłużnika, jego zstępnych i wstępnych, podmiotu będącego w stosunku do dłużnika podmiotem dominującym lub zależnym w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2025 r. poz. 592).
 
-4. Przy sprzedaży wierzytelności Agencji nie stosuje się przepisów ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646, z późn. zm. ) o przestrzeganiu tajemnicy bankowej w zakresie wierzytelności oferowanych do sprzedaży.
+4. Przy sprzedaży wierzytelności Agencji nie stosuje się przepisów ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2024 r. poz. 1646, z późn. zm. ) o przestrzeganiu tajemnicy bankowej w zakresie wierzytelności oferowanych do sprzedaży.
 
 5. Rada Ministrów określi, w drodze rozporządzenia, szczegółowy tryb sprzedaży wierzytelności Agencji, mając na względzie prawidłowe gospodarowanie środkami finansowymi. Art. 34–38. (pominięte)
 
@@ -835,7 +857,7 @@ source: "isap-pdf"
 1. Wierzytelności, o których mowa w art. 39, podlegają umorzeniu na wniosek:
 
 - **1)** osoby, która była stroną umowy o kredyt udzielony ze środków Funduszu Restrukturyzacji i Oddłużenia Rolnictwa, umowy o spłatę zrestrukturyzowanego długu, umowy o kredyt udzielony ze środków budżetowych lub umowy o kredyt z gwarancją Ministerstwa Rolnictwa i Gospodarki Żywnościowej, albo
-- **2)** następcy prawnego osoby, o której mowa w pkt 1 – jeżeli na dzień złożenia wniosku mają ustalone prawo do emerytury lub renty z tytułu niezdolności do pracy na podstawie przepisów o ubezpieczeniu społecznym rolników lub prawo do emerytury lub renty z tytułu niezdolności do pracy z Funduszu Ubezpieczeń Społecznych oraz nie posiadają innej nieruchomości niż ta, którą zamieszkują.
+- **2)** następcy prawnego osoby, o której mowa w pkt 1 jeżeli na dzień złożenia wniosku mają ustalone prawo do emerytury lub renty z tytułu niezdolności do pracy na podstawie przepisów o ubezpieczeniu społecznym rolników lub prawo do emerytury lub renty z tytułu niezdolności do pracy z Funduszu Ubezpieczeń Społecznych oraz nie posiadają innej nieruchomości niż ta, którą zamieszkują.
 
 2. Jeżeli warunki, o których mowa w ust. 1, nie są spełnione, wierzytelności, o których mowa w art. 39, podlegają umorzeniu na wniosek osoby, która była stroną umowy o kredyt udzielony ze środków Funduszu Restrukturyzacji i Oddłużenia Rolnictwa, umowy o spłatę zrestrukturyzowanego długu, umowy o kredyt udzielony ze środków budżetowych lub umowy o kredyt z gwarancją Ministerstwa Rolnictwa i Gospodarki Żywnościowej, albo jej następcy prawnego, jeżeli wyłączną wierzytelnością jest wierzytelność z tytułu odsetek.
 
@@ -854,7 +876,7 @@ source: "isap-pdf"
 6. Do wniosków, o których mowa w ust. 1 i 2, dołącza się:
 
 - **1)** dokumenty potwierdzające ustalenie prawa do emerytury lub renty z tytułu niezdolności do pracy na podstawie przepisów o ubezpieczeniu społecznym rolników lub prawa do emerytury lub renty z tytułu niezdolności do pracy z Funduszu Ubezpieczeń Społecznych;
-- **2)** oświadczenie albo zaświadczenia dotyczące pomocy de minimis oraz informacje niezbędne do udzielenia tej pomocy, o których mowa w art. 37 ust. 2 pkt 1 i 3 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej – w przypadku pomocy udzielanej zgodnie z przepisami rozporządzenia nr 1408/2013.
+- **2)** oświadczenie albo zaświadczenia dotyczące pomocy de minimis oraz informacje niezbędne do udzielenia tej pomocy, o których mowa w art. 37 ust. 2 pkt 1 i 3 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej w przypadku pomocy udzielanej zgodnie z przepisami rozporządzenia nr 1408/2013.
 
 7. Umorzenie wierzytelności, o których mowa w art. 39, następuje na podstawie złożonego na piśmie oświadczenia Prezesa Agencji.
 
@@ -882,7 +904,7 @@ source: "isap-pdf"
 1. W sprawach dotyczących ustalenia nienależnie lub nadmiernie pobranych środków publicznych, które zostały przekazane przez Agencję na podstawie umowy w związku z realizacją Specjalnego Programu Akcesyjnego na Rzecz Rozwoju Rolnictwa i Obszarów Wiejskich:
 
 - **1)** pochodzących z funduszy Unii Europejskiej,
-- **2)** krajowych, przeznaczonych na współfinansowanie wydatków realizowanych z funduszy Unii Europejskiej – stosuje się przepisy Kodeksu postępowania cywilnego.
+- **2)** krajowych, przeznaczonych na współfinansowanie wydatków realizowanych z funduszy Unii Europejskiej stosuje się przepisy Kodeksu postępowania cywilnego.
 
 2. Do egzekucji wierzytelności pochodzących ze Specjalnego Programu Akcesyjnego na Rzecz Rozwoju Rolnictwa i Obszarów Wiejskich stosuje się przepisy Kodeksu postępowania cywilnego.
 

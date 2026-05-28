@@ -8,10 +8,10 @@ pos: 808
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 kwietnia 2019 r.
+# Rozporządzenie Ministra Środowiskaz dnia 25 kwietnia 2019 r. w sprawie sprawozdania o wysokości pobranej opłaty depozytowej i przekazanej nieodebranej opłaty depozytowej
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,27 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2019-04-25 |
 | Data wydania | 2019-04-30 |
+| Wejście w życie | 2019-05-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000808) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/808/text.pdf) |
 
-Środowiska z dnia 25 kwietnia 2019 r. (poz. …….) WZÓR SPRAWOZDANIE O WYSOKOŚCI POBRANEJ OPŁATY DEPOZYTOWEJ I PRZEKAZANEJ NIEODEBRANEJ OPŁATY DEPOZYTOWEJ SPRAWOZDANIE O WYSOKOŚCI POBRANEJ OPŁATY Adresat: DEPOZYTOWEJ I PRZEKAZANEJ NIEODEBRANEJ MARSZAŁEK WOJEWÓDZTWA OPŁATY DEPOZYTOWEJ za .......... rok .................................................
-I. Dane sprzedawcy lub akumulatorów Firma przedsiębiorcy Oznaczenie siedziby sprzedawcy Województwo Miejscowość Kod pocztowy Ulica Nr domu Nr lokalu NIP II. Wysokość pobranej opłaty depozytowej i przekazanej nieodebranej opłaty depozytowej Wysokość pobranej opłaty Wysokość zwróconej opłaty Wysokość nieodebranej depozytowej depozytowej opłaty depozytowej [zł] [zł] [zł] III. DANE OSOBY WYPEŁNIAJĄCEJ SPRAWOZDANIE Imię Nazwisko Telefon służbowy Faks służbowy E-mail służbowy Data Podpis własnoręczny albo podpis elektroniczny sprzedawcy lub akumulatorów
+Treść rozporządzenia
+Załącznik – Sprawozdanie o wysokości pobranej opłaty depozytowej i przekazanej nieodebranej opłaty depozytowej (wzór)
+Treść rozporządzenia
+Na podstawie art. 56 ust. 3 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach (Dz. U. z 2019 r. poz. 521) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+wzór sprawozdania o wysokości pobranej opłaty depozytowej i przekazanej nieodebranej opłaty depozytowej, zwanego dalej „sprawozdaniem”;
+2)
+sposób przekazywania sprawozdania.
+§ 2.
+Wzór sprawozdania jest określony w załączniku do rozporządzenia.
+§ 3.
+Sprawozdanie jest przekazywane w postaci papierowej lub w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym albo podpisem zaufanym.
+§ 4.
+Rozporządzenie wchodzi w życie z dniem 1 maja 2019 r.
+1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 22 grudnia 2016 r. w sprawie wzoru sprawozdania o wysokości pobranej opłaty depozytowej i przekazanej nieodebranej opłaty depozytowej (Dz. U. z 2017 r. poz. 45), które utraciło moc zgodnie z art. 228 ustawy z dnia 6 marca 2018 r. – Przepisy wprowadzające ustawę – Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej (Dz. U. poz. 650).
+Załącznik – Sprawozdanie o wysokości pobranej opłaty depozytowej i przekazanej nieodebranej opłaty depozytowej (wzór)
+patrz oryginał
 

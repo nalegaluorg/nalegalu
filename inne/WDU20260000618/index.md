@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 30 kwietnia 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 maja 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-05-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000618) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/618/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 30 kwietnia 2026 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających
 1. Na podstawie art. 16 ust. ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających (Dz. U. z 2025 r.
 poz. 265), z uwzględnieniem stanu prawnego na dzień 28 kwietnia 2026 r. oraz zmian wprowadzonych:
 1) ustawą z dnia 25 lipca 2025 r. o zmianie ustawy Prawo bankowe oraz niektórych innych ustaw (Dz. U. poz. 1191);
@@ -57,6 +57,20 @@ Art. 25–27. (pominięte)
 2. Przepisów ustawy, z wyjątkiem art. 5a, art. 10a–10e, art. 11–13, art. 15 i art. 32–37, nie stosuje się do banków spółdzielczych, których kapitał założycielski wynosi co najmniej równowartość 5 000 000 euro, chyba że banki te są zrzeszone na zasadach określonych art. 16 lub są uczestnikami systemu ochrony, o którym mowa art. 22b ust. 1.
 
 **Art. 2.** Ilekroć ustawie jest mowa o:
+
+- **1)** banku spółdzielczym należy przez to rozumieć bank będący spółdzielnią, do którego zakresie nieuregulowanym niniejszej ustawie oraz ustawie z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2026 r. poz. 38, 176, 331 i 340) zwaną dalej „ustawą Prawo bankowe”, stosuje się przepisy ustawy z dnia 16 września 1982 r. Prawo spółdzielcze (Dz. U. z 2026 r. poz. 521) zwaną dalej „ustawą Prawo spółdzielcze”;
+- **2)** banku zrzeszającym należy przez to rozumieć bank formie spółki akcyjnej, utworzony przez banki spółdzielcze, jeżeli bank ten zrzesza co najmniej jeden bank spółdzielczy na zasadach określonych art. 16 oraz posiada kapitał założycielski wynoszący co najmniej czterokrotność kwoty określonej art. 32 ust. ustawy Prawo bankowe lub dwukrotność tej kwoty przypadku banku, którego działalność ogranicza się wyłącznie do świadczenia usług na rzecz zrzeszonych banków (apeksowy bank zrzeszający);
+- **3)** zrzeszeniu należy przez to rozumieć grupę banków obejmującą bank zrzeszający i bank spółdzielczy lub banki spółdzielcze, które zawarły z bankiem zrzeszającym umowę zrzeszenia;
+- **4)** uprawnionych osobach należy przez to rozumieć osoby, które: poz. 496 oraz z 1997 r. poz. 770 i 939) ,
+    - **a)** od dnia przekształcenia Banku Gospodarki Żywnościowej spółkę akcyjną do dnia wejścia życie ustawy przepracowały łącznie co najmniej 3 lata BGŻ Spółka Akcyjna, banku spółdzielczym lub banku regionalnym i zrzeszającym działającym na podstawie ustawy z dnia 24 czerwca 1994 r. o restrukturyzacji banków spółdzielczych i Banku Gospodarki Żywnościowej oraz o zmianie niektórych ustaw (Dz. U. poz. 369, z 1995 r. poz. 704, z 1996 r.
+    - **b)** przepracowały łącznie co najmniej dziesięć lat państwowo-spółdzielczym Banku Gospodarki Żywnościowej bądź Banku Gospodarki Żywnościowej Spółka Akcyjna, a z którymi rozwiązano stosunek pracy którymkolwiek z tych banków wskutek przejścia na emeryturę lub rentę albo z przyczyn określonych art. ust. ustawy z dnia 28 grudnia 1989 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn dotyczących zakładu pracy (Dz. U. z 2002 r. poz. 980, 1146 i 1679 oraz z 2003 r. poz. 844) ,
+    - **c)** po przepracowaniu łącznie co najmniej dziesięciu lat państwowo-spółdzielczym Banku Gospodarki Żywnościowej bądź Banku Gospodarki Żywnościowej Spółka Akcyjna, zostały przejęte przez inne zakłady pracy trybie art. 23 Kodeksu pracy;
+
+- **5)** (uchylony)
+- **6)** systemie ochrony należy przez to rozumieć system ochrony instytucjonalnej uznany przez Komisję Nadzoru Finansowego;
+- **7)** (uchylony)
+- **8)** rozporządzeniu nr 575/2013 należy przez to rozumieć rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniające rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm. );
+- **9)** rozporządzeniu delegowanym nr 2015/61 należy przez to rozumieć rozporządzenie delegowane Komisji (UE) nr 2015/61 z dnia 10 października 2014 r. uzupełniające rozporządzenie nr 575/2013 odniesieniu do wymogu pokrycia wypływów netto dla instytucji kredytowych (Dz. Urz. UE L 11 z 17.1.2015, str. 1).
 
 **Art. 2a.** Jeżeli ustawa nie stanowi inaczej, równowartość kwot wyrażonych euro oblicza się złotych według średniego kursu euro ogłaszanego przez Narodowy Bank Polski, obowiązującego ostatnim dniu roku, za który zostało sporządzone ostatnie sprawozdanie finansowe banku spółdzielczego.
 
@@ -113,6 +127,11 @@ Art. 25–27. (pominięte)
 3. Przepisów ust. i 2 nie stosuje się, przypadku gdy określony poziom kapitału założycielskiego zostanie zachowany po przeliczeniu na złote kwot wyrażonych euro, z zastosowaniem średniej arytmetycznej średnich kursów euro ogłaszanych przez Narodowy Bank Polski, obowiązujących dni robocze roku, za który zostało sporządzone ostatnie sprawozdanie finansowe banku spółdzielczego.
 
 **Art. 5b.** W banku spółdzielczym źródło funduszu zasobowego, a banku zrzeszającym źródło kapitału zapasowego lub rezerwowego stanowią bezzwrotne wpłaty wnoszone:
+
+- **1)** przez bank zrzeszający na fundusz zasobowy lub rezerwowy zrzeszonego banku spółdzielczego;
+- **2)** z funduszu pomocowego, o którym mowa art. 22g ust. 1, na fundusz zasobowy, kapitał zapasowy lub rezerwowy banku uczestnika systemu ochrony;
+- **3)** przez jednego z uczestników systemu ochrony na fundusz zasobowy, kapitał zapasowy lub rezerwowy banku uczestnika systemu ochrony;
+- **4)** przez jednostkę zarządzającą, o której mowa art. 22d ust. pkt 2, na fundusz zasobowy, kapitał zapasowy lub rezerwowy banku uczestnika systemu ochrony.
 
 **Art. 6.**
 
@@ -612,6 +631,10 @@ Art. 25–27. (pominięte)
 
 **Art. 28.** Banki, które dniu wejścia życie ustawy nie spełniają wymogu określonego art. 2 pkt 2, a pełniące funkcje banku zrzeszającego lub regionalnego zgodnie z ustawą z dnia 24 czerwca 1994 r. o restrukturyzacji banków spółdzielczych i Banku Gospodarki Żywnościowej oraz o zmianie niektórych ustaw obowiązane są uzyskać zwiększenie sumy funduszy własnych do poziomu nieniższego niż:
 
+- **1)** równowartość 10 000 000 euro okresie 6 miesięcy od dnia wejścia życie ustawy, obliczonych złotych według średniego kursu wynikającego z tabeli kursów ogłaszanej przez Narodowy Bank Polski, obowiązującego na koniec roku poprzedzającego rok osiągnięcia wymaganego progu kapitałowego;
+- **2)** równowartość 15 000 000 euro do dnia 31 grudnia 2003 r., obliczonych złotych według średniego kursu wynikającego z tabeli kursów ogłaszanej przez Narodowy Bank Polski, obowiązującego na koniec roku poprzedzającego rok osiągnięcia wymaganego progu kapitałowego;
+- **3)** równowartość 20 000 000 euro do dnia 31 grudnia 2006 r., obliczonych złotych według średniego kursu wynikającego z tabeli kursów ogłaszanej przez Narodowy Bank Polski, obowiązującego na koniec roku poprzedzającego rok osiągnięcia wymaganego progu kapitałowego.
+
 **Art. 29.** Projekt umowy, o którym mowa art. 16 ust. 2, bank zrzeszający obowiązany jest przedstawić Komisji Nadzoru Bankowego terminie 3 miesięcy od dnia wejścia życie ustawy. Przepisy art. 16 ust. 3–5 stosuje się odpowiednio.
 
 **Art. 30.** Banki zrzeszające i banki spółdzielcze są obowiązane dostosować statuty do przepisów ustawy terminie 12 miesięcy od dnia wejścia życie ustawy.
@@ -619,6 +642,9 @@ Art. 25–27. (pominięte)
 **Art. 31.** Powołanie zarządów banków spółdzielczych zgodnie z art. 12 nastąpi niepóźniej niż ciągu 3 lat od dnia wejścia życie ustawy.
 
 **Art. 32.** W terminie 30 dni od dnia wejścia życie ustawy administrowany przed dniem jej wejścia życie przez BGŻ S.A. Fundusz Rozwoju Banków Spółdzielczych przejęty z państwowo-spółdzielczego Banku Gospodarki Żywnościowej zostaje zlikwidowany, a jego środki podlegają przekazaniu do Bankowego Funduszu Gwarancyjnego według następujących zasad:
+
+- **1)** środki, które dniu wejścia życie ustawy znajdowały się na rachunku BGŻ S.A., zostaną wraz z należnymi odsetkami przekazane do Bankowego Funduszu Gwarancyjnego z przeznaczeniem na wsparcie procesów łączenia się banków spółdzielczych oraz realizowane tych bankach przedsięwzięcia inwestycyjne, o których mowa art. 35 ust. 3;
+- **2)** należności Funduszu Rozwoju Banków Spółdzielczych z tytułu pożyczek udzielonych bankom spółdzielczym niespłacone do dnia wejścia życie ustawy zostają umorzone.
 
 **Art. 33.**
 

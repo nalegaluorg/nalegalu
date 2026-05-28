@@ -1,17 +1,6 @@
 saos_id|date|court|case_number|type|score|saos_url
-89535|2009-01-21|SN|III CZP 136/08|Uchwała|89|https://www.saos.org.pl/judgments/89535
 86972|2008-01-04|SN|III CZP 113/07|Uchwała|89|https://www.saos.org.pl/judgments/86972
 81254|2002-03-08|SN|III CZP 8/02|Uchwała|89|https://www.saos.org.pl/judgments/81254
-243669|2015-10-29|SN|I CSK 922/14|Wyrok|78|https://www.saos.org.pl/judgments/243669
-101242|2013-03-27|SN|V CSK 222/12|Wyrok|78|https://www.saos.org.pl/judgments/101242
-92856|2010-09-09|SN|I CSK 535/09|Wyrok|78|https://www.saos.org.pl/judgments/92856
-92209|2010-05-14|SN|II CSK 592/09|Wyrok|78|https://www.saos.org.pl/judgments/92209
-90787|2009-09-03|SN|I CSK 53/09|Wyrok|78|https://www.saos.org.pl/judgments/90787
-89755|2009-02-26|SN|IV CSK 415/08|Wyrok|78|https://www.saos.org.pl/judgments/89755
-89686|2009-02-17|SN|II CSK 530/08|Wyrok|78|https://www.saos.org.pl/judgments/89686
-89414|2009-01-07|SN|II CSK 397/08|Wyrok|78|https://www.saos.org.pl/judgments/89414
-89268|2008-11-27|SN|IV CSK 292/08|Wyrok|78|https://www.saos.org.pl/judgments/89268
-89255|2008-11-26|SN|III CSK 163/08|Wyrok|78|https://www.saos.org.pl/judgments/89255
 87485|2008-03-06|SN|I CSK 445/07|Wyrok|78|https://www.saos.org.pl/judgments/87485
 164987|2007-12-06|SN|IV CSK 317/07|Wyrok|78|https://www.saos.org.pl/judgments/164987
 164905|2007-10-19|SN|V CSK 181/07|Wyrok|78|https://www.saos.org.pl/judgments/164905
@@ -30,9 +19,3 @@ saos_id|date|court|case_number|type|score|saos_url
 80735|2001-07-11|SN|V CKN 379/00|Wyrok|78|https://www.saos.org.pl/judgments/80735
 164303|2006-05-17|SN|I CSK 104/05|Postanowienie|69|https://www.saos.org.pl/judgments/164303
 81874|2003-02-26|SN|II CZ 17/03|Postanowienie|69|https://www.saos.org.pl/judgments/81874
-410563|2019-12-12|SO|I ACa 917/18|Wyrok|56|https://www.saos.org.pl/judgments/410563
-389811|2018-11-28|SO|VII AGa 1026/18|Wyrok|56|https://www.saos.org.pl/judgments/389811
-172644|2015-06-18|SO|I ACa 1822/14|Wyrok|56|https://www.saos.org.pl/judgments/172644
-75324|2014-07-24|SO|I ACa 154/14|Wyrok|56|https://www.saos.org.pl/judgments/75324
-65244|2014-05-30|SO|VI ACa 1445/13|Wyrok|56|https://www.saos.org.pl/judgments/65244
-56431|2014-01-15|SO|VI ACa 663/13|Wyrok|56|https://www.saos.org.pl/judgments/56431

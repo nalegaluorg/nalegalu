@@ -8,12 +8,10 @@ pos: 551
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o europejskim zgrupowaniu interesów gospodarczych i spółce europejskiej
-
-*USTAWA z dnia 4 marca 2005 r.*
+# Ustawa z dnia 4 marca 2005 r. o europejskim zgrupowaniu interesów gospodarczych i spółce europejskiej
 
 | Pole | Wartość |
 |---|---|
@@ -24,16 +22,33 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2005-03-04 |
 | Data wydania | 2005-04-18 |
+| Wejście w życie | 2005-05-19 |
 | Ostatnia zmiana | 2026-05-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050620551) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/551/text.pdf) |
 
-Art. 134–137. (pominięte)
+Treść ustawy Tytuł I – Przepisy ogólne Tytuł II – Europejskie zgrupowanie interesów gospodarczych Tytuł III – Spółka europejska Dział 1 – Założenie spółki europejskiej Dział 2 – Organy spółki europejskiej Rozdział 1 – System dualistyczny Rozdział 2 – System monistyczny Dział 3 – Przeniesienie siedziby statutowej spółki europejskiej Tytuł IV – Zaangażowanie pracowników w spółce europejskiej Dział 1 – Przepisy ogólne Dział 2 – Specjalny zespół negocjacyjny Rozdział 1 – Zadania specjalnego zespołu negocjacyjnego Rozdział 2 – Utworzenie specjalnego zespołu negocjacyjnego Dział 3 – Porozumienie w sprawie zaangażowania pracowników w spółce europejskiej Dział 4 – Zasady standardowe zaangażowania pracowników w spółce europejskiej Rozdział 1 – Stosowanie zasad standardowych Rozdział 2 – Organ przedstawicielski Rozdział 3 – Uczestnictwo Dział 5 – Zakaz ujawniania informacji stanowiących tajemnicę przedsiębiorstw Dział 6 – Ochrona praw pracowników w zakresie zaangażowania Rozdział 1 – Ochrona przedstawicieli pracowników Rozdział 2 – Środki zapobiegające nadużyciom Tytuł V – Przepisy porządkowe i karne Tytuł VI – Zmiany w przepisach obowiązujących Tytuł VII – Przepis końcowy
 
-## TYTUŁ I Przepisy ogólne
+## Tytuł I Przepisy ogólne
 
 **Art. 1.** Ustawa reguluje:
 
+- **1)** rejestrację i niektóre zasady organizacji europejskiego zgrupowania interesów gospodarczych, w zakresie nieuregulowanym w rozporządzeniu nr 2137/85/EWG z dnia 25 lipca 1985 r. w sprawie europejskiego zgrupowania interesów gospodarczych (EZIG) (Dz. Urz. WE L 199 z 31.07.1985);
+- **2)** powstanie, organizację i działalność spółki europejskiej, w zakresie nieuregulowanym w rozporządzeniu nr 2157/2001/WE z dnia 8 października 2001 r. w sprawie statutu spółki europejskiej (SE) (Dz. Urz. WE L 294 z 10.11.2001);
+- **3)** zasady zaangażowania pracowników w spółce europejskiej.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** instytucja finansowa – instytucję finansową w rozumieniu art. 4 § 1 pkt 7 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z 2001 r. Nr 102, poz. 1117 oraz z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276), zwanej dalej „Kodeksem spółek handlowych”;
+- **2)** państwa członkowskie – państwa członkowskie Unii Europejskiej lub państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym;
+- **3)** rejestr – rejestr przedsiębiorców w Krajowym Rejestrze Sądowym;
+- **4)** rozporządzenie 2137/85 – rozporządzenie, o którym mowa w art. 1 pkt 1;
+- **5)** rozporządzenie 2157/2001 – rozporządzenie, o którym mowa w art. 1 pkt 2;
+- **6)** spółka europejska – europejską spółkę akcyjną określoną w rozporządzeniu 2157/2001;
+- **7)** spółka publiczna – spółkę w rozumieniu art. 4 pkt 9 ustawy z dnia 21 sierpnia 1997 r. – Prawo o publicznym obrocie papierami wartościowymi (Dz. U. z 2002 r. Nr 49, poz. 447, z późn. zm.), zwanej dalej „Prawem o publicznym obrocie papierami wartościowymi”;
+- **8)** spółka uczestnicząca – spółkę bezpośrednio uczestniczącą w założeniu spółki europejskiej;
+- **9)** właściwy organ spółki – organ zarządzający albo administrujący spółki, stosownie do przepisów prawa, któremu ta spółka podlega;
+- **10)** zgrupowanie – europejskie zgrupowanie interesów gospodarczych określone w rozporządzeniu 2137/85;
+- **11)** zarządca zgrupowania – osobę fizyczną lub prawną, prowadzącą sprawy zgrupowania.
 
 **Art. 3.**
 
@@ -47,11 +62,11 @@ Art. 134–137. (pominięte)
 
 2. Organem właściwym w rozumieniu art. 25 i 26 rozporządzenia 2157/2001 jest sąd rejestrowy właściwy według siedziby statutowej spółki akcyjnej uczestniczącej w założeniu SE przez połączenie.
 
-**Art. 5.** Centralna Informacja Krajowego Rejestru Sądowego przekazuje dane, które zgodnie z art. 11 rozporządzenia 2137/85 albo art. 14 rozporządzenia 2157/2001 podlegają ogłoszeniu w Dzienniku Urzędowym Unii Europejskiej, do Urzędu Oficjalnych Publikacji Unii Europejskiej w terminie miesiąca od dnia ich wpisu do rejestru.
+**Art. 5.** Centralna Informacja Krajowego Rejestru Sądowego przekazuje dane, które zgodnie z art. 11 rozporządzenia 2137/85 albo art. 14 rozporządzenia 2157/2001 podlegają ogłoszeniu w Dzienniku Urzędowym Unii Europejskiej, do Urzędu Oficjalnych Publikacji Unii Europejskiej w terminie miesiąca od ich ogłoszenia w Monitorze Sądowym i Gospodarczym.
 
-**Art. 6.** W przypadku przeniesienia siedziby zgrupowania albo siedziby SE z innego państwa członkowskiego na terytorium Rzeczypospolitej Polskiej, jak również z terytorium Rzeczypospolitej Polskiej do innego państwa członkowskiego, stosuje się odpowiednio art. 12 ust. 1 i 2 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. ).
+**Art. 6.** W przypadku przeniesienia siedziby zgrupowania albo siedziby SE z innego państwa członkowskiego na terytorium Rzeczypospolitej Polskiej, jak również z terytorium Rzeczypospolitej Polskiej do innego państwa członkowskiego, stosuje się odpowiednio art. 12 ust. 1 i 2 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2002 r. Nr 76, poz. 694, z późn. zm.).
 
-## TYTUŁ II Europejskie zgrupowanie interesów gospodarczych
+## Tytuł II Europejskie zgrupowanie interesów gospodarczych
 
 **Art. 7.** W sprawach nieuregulowanych w rozporządzeniu 2137/85 oraz w ustawie do zgrupowania stosuje się odpowiednio przepisy o spółce jawnej.
 
@@ -73,13 +88,13 @@ Art. 134–137. (pominięte)
 
 1. Wymagane przez prawo ogłoszenia pochodzące od zgrupowania ogłasza się w Monitorze Sądowym i Gospodarczym. Umowa zgrupowania może nałożyć obowiązek ogłoszenia również w inny sposób.
 
-2. Ogłoszeniu podlega również wzmianka o złożeniu w rejestrze dokumentów i danych określonych w art. 7 lit. b–j rozporządzenia 2137/85.
+2. Ogłoszeniu podlega również wzmianka o złożeniu w rejestrze dokumentów i danych określonych w art. 7 lit. b-j rozporządzenia 2137/85.
 
 **Art. 11.**
 
 1. Do zarządców zgrupowania stosuje się odpowiednio art. 201–211 i 293–300 Kodeksu spółek handlowych.
 
-2. Osoba prawna może być zarządcą zgrupowania, jeżeli wyznaczy jako swojego przedstawiciela co najmniej jedną osobę fizyczną, której dane podlegają ujawnieniu w rejestrze zgodnie z art. 7 lit. d rozporządzenia 2137/85. Przedstawiciel ten ponosi odpowiedzialność na zasadach określonych w art. 293– 300 Kodeksu spółek handlowych. Do przedstawiciela stosuje się art. 9 ust. 4 ustawy.
+2. Osoba prawna może być zarządcą zgrupowania, jeżeli wyznaczy jako swojego przedstawiciela co najmniej jedną osobę fizyczną, której dane podlegają ujawnieniu w rejestrze zgodnie z art. 7 lit. d rozporządzenia 2137/85. Przedstawiciel ten ponosi odpowiedzialność na zasadach określonych w art. 293–300 Kodeksu spółek handlowych. Do przedstawiciela stosuje się art. 9 ust. 4 ustawy.
 
 **Art. 12.** Poza przypadkami określonymi w art. 28 ust. 1 rozporządzenia 2137/85, członkostwo w zgrupowaniu ustaje z chwilą ogłoszenia upadłości członka. Do rozliczeń między członkami zgrupowania a zgrupowaniem stosuje się odpowiednio art. 65 Kodeksu spółek handlowych.
 
@@ -91,9 +106,9 @@ Art. 134–137. (pominięte)
 
 **Art. 14.** W braku odmiennego postanowienia umowy zgrupowania lub uchwały jego członków, likwidatorami zgrupowania są jego zarządcy. Uchwała wymaga jednomyślności, chyba że umowa zgrupowania stanowi inaczej.
 
-## TYTUŁ III Spółka europejska
+## Tytuł III Spółka europejska
 
-### DZIAŁ 1 Założenie spółki europejskiej
+### Dział 1 Założenie spółki europejskiej
 
 **Art. 15.** W założeniu SE może uczestniczyć, poza spółkami wymienionymi w art. 2 ust. 1–4 rozporządzenia 2157/2001, również spółka, która spełnia wymagania określone w art. 2 ust. 5 rozporządzenia 2157/2001.
 
@@ -109,23 +124,23 @@ Art. 134–137. (pominięte)
 
 2. Akcjonariusze składają spółce pisemne żądanie wykupu wraz z dokumentem uprawniającym do wykonywania praw z akcji w terminie dziesięciu dni od dnia podjęcia uchwały o połączeniu.
 
-3. Akcjonariusze wraz z żądaniem, o którym mowa w ust. 2, składają imienne świadectwo rejestrowe wystawione zgodnie z Kodeksem spółek handlowych albo imienne świadectwo depozytowe wystawione zgodnie z ustawą z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722, z późn. zm. ).
+3. Akcjonariusze spółki publicznej wraz z żądaniem, o którym mowa w ust. 2, składają imienne świadectwo depozytowe wystawione zgodnie z przepisami Prawa o publicznym obrocie papierami wartościowymi.
 
 **Art. 18.**
 
 1. Wykupu akcji dokonuje się po cenie notowanej na rynku regulowanym, według przeciętnego kursu z ostatnich trzech miesięcy przed podjęciem uchwały o połączeniu albo też, gdy akcje nie są notowane na rynku regulowanym, po cenie ustalonej przez biegłego wyznaczonego przez sąd rejestrowy. Wniosek o wyznaczenie biegłego składa zarząd w terminie 14 dni od dnia podjęcia uchwały. Przepisy art. 312 § 5 i 6 Kodeksu spółek handlowych stosuje się odpowiednio. Zarząd ogłasza ustaloną cenę w dzienniku o zasięgu ogólnopolskim w terminie 14 dni od dnia jej ustalenia. Wykupu dokonuje się za pośrednictwem spółki.
 
-2. Wykupu akcji może dokonać także spółka. Spółka może nabyć w drodze wykupu akcje własne, których łączna wartość nominalna, wraz z akcjami własnymi nabytymi dotychczas przez nią, przez jej spółki lub spółdzielnie zależne, lub przez osoby działające na ich rachunek, nie może przekroczyć 25 % kapitału zakładowego spółki. Spółka, nabywając akcje własne, wypłaca cenę wykupu akcjonariuszom w terminie trzech tygodni od dnia jej ogłoszenia przez zarząd spółki.
+2. Wykupu akcji może dokonać także spółka. Spółka może nabyć w drodze wykupu akcje własne, których łączna wartość nominalna, wraz z akcjami własnymi nabytymi dotychczas przez nią, przez jej spółki lub spółdzielnie zależne, lub przez osoby działające na ich rachunek, nie może przekroczyć 25% kapitału zakładowego spółki. Spółka, nabywając akcje własne, wypłaca cenę wykupu akcjonariuszom w terminie trzech tygodni od dnia jej ogłoszenia przez zarząd spółki.
 
 3. Do wykupu nie stosuje się ograniczeń rozporządzania akcjami, wynikających ze statutu.
 
 4. Osoby, które zamierzają wykupić akcje, wpłacają należność równą cenie wszystkich nabywanych akcji (cena wykupu) na rachunek bankowy spółki w terminie trzech tygodni od dnia ogłoszenia ceny wykupu przez spółkę.
 
-5. Zasady przydziału akcji nabywcom określa uchwała zarządu albo rady administrującej. Jeżeli wykup obejmuje więcej niż 10 % kapitału zakładowego, a w spółce działa rada nadzorcza, wymagana jest zgoda rady nadzorczej.
+5. Zasady przydziału akcji nabywcom określa uchwała zarządu albo rady administrującej. Jeżeli wykup obejmuje więcej niż 10% kapitału zakładowego, a w spółce działa rada nadzorcza, wymagana jest zgoda rady nadzorczej.
 
 6. W terminie 14 dni od upływu terminu określonego w ust. 4, spółka wypłaca cenę wykupu akcjonariuszom, o których mowa w art. 17 ust. 2, oraz wydaje nabywcom dokumenty uprawniające do wykonywania praw z akcji, z zastrzeżeniem ust. 7.
 
-7. W przypadku gdy przedmiotem wykupu są akcje zarejestrowane w depozycie papierów wartościowych w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, przeniesienie tych akcji następuje na podstawie umowy zawartej między akcjonariuszem żądającym wykupu i nabywcą, z chwilą dokonania odpowiedniego zapisu na rachunku papierów wartościowych nabywcy albo na właściwym rachunku zbiorczym zgodnie z przepisami tej ustawy.
+7. W przypadku gdy przedmiotem wykupu są akcje dopuszczone do publicznego obrotu papierami wartościowymi, przeniesienie tych akcji następuje na podstawie umowy zawartej między akcjonariuszem żądającym wykupu i nabywcą, z chwilą dokonania odpowiedniego zapisu na rachunku papierów wartościowych nabywcy zgodnie z przepisami Prawa o publicznym obrocie papierami wartościowymi.
 
 **Art. 19.**
 
@@ -147,11 +162,11 @@ Art. 134–137. (pominięte)
 
 3. Sąd rejestrowy może wydać zaświadczenie, o którym mowa w art. 25 ust. 2 rozporządzenia 2157/2001, mimo wytoczenia powództwa o uchylenie albo o stwierdzenie nieważności uchwały o połączeniu, jeżeli zostanie uprawdopodobnione, że powództwo to jest oczywiście bezzasadne. W przypadku gdy po wydaniu zaświadczenia sąd prawomocnym orzeczeniem stwierdzi nieważność uchwały o połączeniu albo ją uchyli, akcjonariusz, który poniósł szkodę w wyniku dokonania wpisów na podstawie uchwały uznanej za nieważną lub uchylonej, może dochodzić jej naprawienia od SE bez względu na winę członków jej organów.
 
-4. W przedmiocie wydania zaświadczenia, o którym mowa w art. 25 ust. 2 rozporządzenia 2157/2001, sąd rejestrowy orzeka postanowieniem, na które przysługuje apelacja. Do postępowania stosuje się odpowiednio przepisy o postępowaniu rejestrowym ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568, z późn. zm. ), zwanej dalej „Kodeksem postępowania cywilnego”.
+4. W przedmiocie wydania zaświadczenia, o którym mowa w art. 25 ust. 2 rozporządzenia 2157/2001, sąd rejestrowy orzeka postanowieniem, na które przysługuje zażalenie. Do postępowania stosuje się odpowiednio przepisy o postępowaniu rejestrowym ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.), zwanej dalej „Kodeksem postępowania cywilnego”.
 
 **Art. 21.**
 
-1. W przypadku przekształcenia spółki akcyjnej w SE stosuje się odpowiednio przepisy art. 552–557, art. 558 § 2 pkt 1–3, art. 560, 561, art. 563 pkt 1–2 i 4–6 oraz art. 567–570 i 578 –580 Kodeksu spółek handlowych.
+1. W przypadku przekształcenia spółki akcyjnej w SE stosuje się odpowiednio przepisy art. 552–557, art. 558 § 2 pkt 1–3, art. 560, 561, art. 563 pkt 1–2 i 4–6 oraz art. 567–570 i 578–580 Kodeksu spółek handlowych.
 
 2. Przepisy, o których mowa w ust. 1, stosuje się odpowiednio w razie przekształcenia SE w spółkę akcyjną podlegającą prawu polskiemu zgodnie z art. 66 rozporządzenia 2157/2001.
 
@@ -160,28 +175,28 @@ Art. 134–137. (pominięte)
 1. Do zgłoszenia SE w celu jej wpisu do rejestru dołącza się:
 
 - **1)** niezależnie od sposobu założenia – porozumienie o zaangażowaniu pracowników, zawarte stosownie do przepisów tytułu IV ustawy, albo uchwałę specjalnego zespołu negocjacyjnego o niepodejmowaniu negocjacji albo o ich zakończeniu, podjętą zgodnie z art. 81 ust. 1 ustawy; dokumenty te nie są wymagane, jeżeli zgłoszenie SE następuje po upływie okresu, o którym mowa odpowiednio w art. 77 ust. 1 albo 2;
-- **2)** w przypadku założenia SE przez połączenie:
-    - **a)** zaświadczenie, o którym mowa w art. 25 ust. 2 rozporządzenia 2157/2001, wystawione dla każdej z uczestniczących spółek przez właściwy organ państwa, którego prawu podlega każda uczestnicząca spółka,
-    - **b)** plan połączenia zatwierdzony przez uchwałę walnego zgromadzenia każdej ze spółek uczestniczących;
+- **2)** w przypadku założenia SE przez połączenie: zaświadczenie, o którym mowa w art. 25 ust. 2 rozporządzenia 2157/2001, wystawione dla każdej z uczestniczących spółek przez właściwy organ państwa, którego prawu podlega każda uczestnicząca spółka, plan połączenia zatwierdzony przez uchwałę walnego zgromadzenia każdej ze spółek uczestniczących;
+    - **a)**
+    - **b)**
 
-- **3)** w przypadku założenia holdingowej SE:
-    - **a)** dokumenty pozwalające na stwierdzenie, że są spełnione wymagania określone w art. 2 ust. 2 rozporządzenia 2157/2001,
-    - **b)** plan utworzenia SE oraz opinie biegłego lub biegłych, sporządzone zgodnie z art. 32 rozporządzenia 2157/2001,
-    - **c)** uchwałę walnego zgromadzenia albo zgromadzenia wspólników każdej ze spółek uczestniczących o zatwierdzeniu planu utworzenia SE,
-    - **d)** oświadczenia właściwych organów spółek uczestniczących stwierdzające, że w terminie określonym w art. 33 ust. 1 rozporządzenia 2157/2001 został wniesiony minimalny procent akcji lub udziałów tych spółek, określony w planie założenia SE,
-    - **e)** oświadczenie właściwych organów spółek uczestniczących stwierdzające, że przeciwko uchwale o zatwierdzeniu planu utworzenia SE nie wytoczono powództwa o jej uchylenie lub stwierdzenie jej nieważności,
-    - **f)** uchwałę walnego zgromadzenia lub zgromadzenia wspólników spółki uczestniczącej, zatwierdzającą porozumienie o zaangażowaniu pracowników, jeżeli zgromadzenie zastrzegło sobie prawo zatwierdzenia zgodnie z art. 32 ust. 6 rozporządzenia 2157/2001;
+- **3)** w przypadku założenia holdingowej SE: dokumenty pozwalające na stwierdzenie, że są spełnione wymagania określone w art. 2 ust. 2 rozporządzenia 2157/2001, plan utworzenia SE oraz opinie biegłego lub biegłych, sporządzone zgodnie z art. 32 rozporządzenia 2157/2001, uchwałę walnego zgromadzenia albo zgromadzenia wspólników każdej ze spółek uczestniczących o zatwierdzeniu planu utworzenia SE, oświadczenia właściwych organów spółek uczestniczących stwierdzające, że w terminie określonym w art. 33 ust. 1 rozporządzenia 2157/2001 został wniesiony minimalny procent akcji lub udziałów tych spółek, określony w planie założenia SE, oświadczenie właściwych organów spółek uczestniczących stwierdzające, że przeciwko uchwale o zatwierdzeniu planu utworzenia SE nie wytoczono powództwa o jej uchylenie lub stwierdzenie jej nieważności, uchwałę walnego zgromadzenia lub zgromadzenia wspólników spółki uczestniczącej, zatwierdzającą porozumienie o zaangażowaniu pracowników, jeżeli zgromadzenie zastrzegło sobie prawo zatwierdzenia zgodnie z art. 32 ust. 6 rozporządzenia 2157/2001;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
 
 - **4)** w przypadku założenia zależnej SE – dokumenty pozwalające na stwierdzenie, że są spełnione wymagania określone w art. 2 ust. 3 rozporządzenia 2157/2001;
-- **5)** w przypadku założenia SE przez przekształcenie spółki akcyjnej podlegającej prawu polskiemu:
-    - **a)** dokumenty pozwalające na stwierdzenie, że są spełnione wymagania określone w art. 2 ust. 4 rozporządzenia 2157/2001,
-    - **b)** plan przekształcenia i sprawozdanie sporządzone zgodnie z art. 37 ust. 4 rozporządzenia 2157/2001,
-    - **c)** opinię biegłych sporządzoną zgodnie z art. 37 ust. 6 rozporządzenia 2157/2001,
-    - **d)** uchwałę o przekształceniu podjętą zgodnie z art. 37 ust. 7 rozporządzenia 2157/2001.
+- **5)** w przypadku założenia SE przez przekształcenie spółki akcyjnej podlegającej prawu polskiemu: dokumenty pozwalające na stwierdzenie, że są spełnione wymagania określone w art. 2 ust. 4 rozporządzenia 2157/2001, plan przekształcenia i sprawozdanie sporządzone zgodnie z art. 37 ust. 4 rozporządzenia 2157/2001, opinię biegłych sporządzoną zgodnie z art. 37 ust. 6 rozporządzenia 2157/2001, uchwałę o przekształceniu podjętą zgodnie z art. 37 ust. 7 rozporządzenia 2157/2001.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 2. Jeżeli dokumenty, o których mowa w ust. 1, są sporządzone w języku obcym, dołącza się również ich uwierzytelnione tłumaczenie na język polski.
 
-### DZIAŁ 2 Organy spółki europejskiej
+### Dział 2 Organy spółki europejskiej
 
 #### Rozdział 1 System dualistyczny
 
@@ -193,7 +208,7 @@ Art. 134–137. (pominięte)
 
 2. Statut SE może przewidywać, że członkowie zarządu są powoływani lub odwoływani przez walne zgromadzenie.
 
-**Art. 25.** Członek rady nadzorczej delegowany do czasowego wykonywania czynności członka zarządu, który został odwołany, złożył rezygnację albo z innych przyczyn nie może sprawować swoich funkcji w radzie nadzorczej, może wykonywać te czynności przez okres niedłuższy niż trzy miesiące.
+**Art. 25.** Członek rady nadzorczej delegowany do czasowego wykonywania czynności członka zarządu, który został odwołany, złożył rezygnację albo z innych przyczyn nie może sprawować swoich funkcji w radzie nadzorczej, może wykonywać te czynności przez okres nie dłuższy niż trzy miesiące.
 
 **Art. 26.**
 
@@ -288,7 +303,7 @@ Art. 134–137. (pominięte)
 
 **Art. 38.** W umowie między SE a członkiem rady administrującej, jak również w sporze z nim, SE reprezentuje pełnomocnik powołany uchwałą walnego zgromadzenia.
 
-**Art. 39.** Członek rady administrującej nie może bez zgody walnego zgromadzenia zajmować się interesami konkurencyjnymi ani też uczestniczyć w spółce konkurencyjnej jako wspólnik spółki cywilnej, spółki osobowej oraz jako członek organu zarządzającego lub nadzorującego jej działalność, lub jako dyrektor wykonawczy spółki kapitałowej, ani uczestniczyć w innej konkurencyjnej osobie prawnej jako członek organu zarządzającego lub nadzorującego jej działalność. Dotyczy to także udziału w konkurencyjnej spółce kapitałowej, w przypadku posiadania w niej przez członka rady administrującej co najmniej 10 % udziałów albo akcji lub prawa do powołania co najmniej jednego członka zarządu albo rady administrującej w takiej spółce.
+**Art. 39.** Członek rady administrującej nie może bez zgody walnego zgromadzenia zajmować się interesami konkurencyjnymi ani też uczestniczyć w spółce konkurencyjnej jako wspólnik spółki cywilnej, spółki osobowej oraz jako członek organu zarządzającego lub nadzorującego jej działalność, lub jako dyrektor wykonawczy spółki kapitałowej, ani uczestniczyć w innej konkurencyjnej osobie prawnej jako członek organu zarządzającego lub nadzorującego jej działalność. Dotyczy to także udziału w konkurencyjnej spółce kapitałowej, w przypadku posiadania w niej przez członka rady administrującej co najmniej 10% udziałów albo akcji lub prawa do powołania co najmniej jednego członka zarządu albo rady administrującej w takiej spółce.
 
 **Art. 40.**
 
@@ -338,7 +353,7 @@ Art. 134–137. (pominięte)
 
 1. Do dyrektorów wykonawczych stosuje się art. 377 Kodeksu spółek handlowych.
 
-2. Dyrektorzy wykonawczy nie mogą bez zgody SE zajmować się interesami konkurencyjnymi ani też uczestniczyć w spółce konkurencyjnej jako wspólnik spółki cywilnej, spółki osobowej oraz jako członek organu zarządzającego lub nadzorującego jej działalność, lub jako dyrektor wykonawczy spółki kapitałowej, ani uczestniczyć w innej konkurencyjnej osobie prawnej jako członek organu zarządzającego lub nadzorującego jej działalność. Dotyczy to także udziału w konkurencyjnej spółce kapitałowej w przypadku posiadania w niej przez dyrektora wykonawczego co najmniej 10 % udziałów albo akcji lub prawa do powołania co najmniej jednego członka zarządu albo rady administrującej w takiej spółce.
+2. Dyrektorzy wykonawczy nie mogą bez zgody SE zajmować się interesami konkurencyjnymi ani też uczestniczyć w spółce konkurencyjnej jako wspólnik spółki cywilnej, spółki osobowej oraz jako członek organu zarządzającego lub nadzorującego jej działalność, lub jako dyrektor wykonawczy spółki kapitałowej, ani uczestniczyć w innej konkurencyjnej osobie prawnej jako członek organu zarządzającego lub nadzorującego jej działalność. Dotyczy to także udziału w konkurencyjnej spółce kapitałowej w przypadku posiadania w niej przez dyrektora wykonawczego co najmniej 10% udziałów albo akcji lub prawa do powołania co najmniej jednego członka zarządu albo rady administrującej w takiej spółce.
 
 3. Jeżeli statut nie stanowi inaczej, zgody, o której mowa w ust. 2, udziela rada administrująca w uchwale podjętej przy udziale wyłącznie tych jej członków, którzy nie są dyrektorami wykonawczymi.
 
@@ -348,11 +363,11 @@ Art. 134–137. (pominięte)
 
 2. Do odpowiedzialności cywilnoprawnej dyrektorów wykonawczych stosuje się odpowiednio przepisy art. 481 i 483–490 Kodeksu spółek handlowych.
 
-### DZIAŁ 3 Przeniesienie siedziby statutowej spółki europejskiej
+### Dział 3 Przeniesienie siedziby statutowej spółki europejskiej
 
 **Art. 48.** Akcjonariusze, którzy głosowali przeciwko uchwale o przeniesieniu siedziby statutowej SE z terytorium Rzeczypospolitej Polskiej do innego państwa członkowskiego, mogą żądać wykupu swoich akcji. Przepisy art. 16–18 stosuje się odpowiednio.
 
-**Art. 49.** Powództwo o uchylenie albo o stwierdzenie nieważności uchwały, o której mowa w art. 48, może być wytoczone niepóźniej niż w terminie miesiąca od dnia ogłoszenia uchwały.
+**Art. 49.** Powództwo o uchylenie albo o stwierdzenie nieważności uchwały, o której mowa w art. 48, może być wytoczone nie później niż w terminie miesiąca od dnia ogłoszenia uchwały.
 
 **Art. 50.** Wierzyciele, których roszczenia powstały przed dniem ogłoszenia uchwały o przeniesieniu siedziby statutowej SE z terytorium Rzeczypospolitej Polskiej do innego państwa członkowskiego, i którzy zgłosili swoje roszczenia w terminie miesiąca od dnia ogłoszenia uchwały o przeniesieniu siedziby statutowej oraz uprawdopodobnili, że ich zaspokojenie jest zagrożone przez przeniesienie siedziby statutowej, mogą żądać zaspokojenia lub zabezpieczenia swoich roszczeń.
 
@@ -376,7 +391,7 @@ Art. 134–137. (pominięte)
 
 3. Sąd rejestrowy może wydać zaświadczenie, o którym mowa w art. 8 ust. 8 rozporządzenia 2157/2001, mimo wytoczenia powództwa o uchylenie albo o stwierdzenie nieważności uchwały o przeniesieniu siedziby statutowej, jeżeli zostanie uprawdopodobnione, że powództwo to jest oczywiście bezzasadne. W przypadku gdy po wydaniu zaświadczenia sąd prawomocnym orzeczeniem stwierdzi nieważność tej uchwały albo ją uchyli, akcjonariusz, który poniósł szkodę w wyniku dokonania wpisów na podstawie uchwały uznanej za nieważną lub uchylonej, może dochodzić jej naprawienia od SE bez względu na winę członków jej organów.
 
-4. W przedmiocie wydania zaświadczenia, o którym mowa w art. 8 ust. 8 rozporządzenia 2157/2001, sąd rejestrowy orzeka postanowieniem, na które przysługuje apelacja. Do postępowania stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o postępowaniu rejestrowym.
+4. W przedmiocie wydania zaświadczenia, o którym mowa w art. 8 ust. 8 rozporządzenia 2157/2001, sąd rejestrowy orzeka postanowieniem, na które przysługuje zażalenie. Do postępowania stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o postępowaniu rejestrowym.
 
 **Art. 53.**
 
@@ -396,7 +411,7 @@ Art. 134–137. (pominięte)
 
 2. Jeżeli SE w wyznaczonym terminie nie uczyni zadość wezwaniu, sąd rejestrowy nałoży grzywnę przewidzianą w przepisach Kodeksu postępowania cywilnego o egzekucji świadczeń niepieniężnych. Przepisów art. 1052 zdanie drugie i art. 1053 Kodeksu postępowania cywilnego nie stosuje się.
 
-3. Jeżeli mimo dwukrotnego nałożenia grzywien SE nie uczyni zadość wezwaniu, sąd rejestrowy może ustanowić dla niej kuratora na okres nieprzekraczający trzech miesięcy. Kurator jest obowiązany do niezwłocznego podjęcia czynności zmierzających do przywrócenia zgodności siedziby statutowej i głównego zarządu SE. Sąd rejestrowy może na wniosek właściwego organu SE albo akcjonariuszy reprezentujących co najmniej 10 % kapitału zakładowego SE odwołać kuratora przed upływem terminu, na który został powołany, jeżeli zostaną podjęte czynności zmierzające do przywrócenia zgodności siedziby statutowej i głównego zarządu. Do kuratora ustanowionego dla SE stosuje się przepisy art. 42 § 1 zdanie drugie ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508 oraz z 2026 r. poz. 184) oraz art. 603 § 3 i art. 603 Kodeksu postępowania cywilnego.
+3. Jeżeli mimo dwukrotnego nałożenia grzywien SE nie uczyni zadość wezwaniu, sąd rejestrowy może ustanowić dla niej kuratora na okres nieprzekraczający trzech miesięcy. Kurator jest obowiązany do niezwłocznego podjęcia czynności zmierzających do przywrócenia zgodności siedziby statutowej i głównego zarządu SE. Sąd rejestrowy może na wniosek właściwego organu SE albo akcjonariuszy reprezentujących co najmniej 10% kapitału zakładowego SE odwołać kuratora przed upływem terminu, na który został powołany, jeżeli zostaną podjęte czynności zmierzające do przywrócenia zgodności siedziby statutowej i głównego zarządu. Do kuratora ustanowionego dla SE stosuje się przepisy art. 26 ust. 2 i 3, art. 30 i art. 31 ust. 2 oraz art. 32 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2001 r. Nr 17, poz. 209, z późn. zm.).
 
 **Art. 55.**
 
@@ -406,21 +421,32 @@ Art. 134–137. (pominięte)
 
 **Art. 56.**
 
-1. Na postanowienia sądu rejestrowego w sprawach wezwania do przywrócenia zgodności siedziby statutowej i zarządu głównego, zastosowania grzywien, ustanowienia kuratora, jego odwołania i odmowy jego odwołania przysługuje zażalenie.
+1. Na postanowienia sądu rejestrowego w sprawach wezwania do przywrócenia zgodności siedziby statutowej i zarządu głównego, zastosowania grzywien, ustanowienia kuratora, jego odwołania, odmowy jego odwołania i rozwiązania SE przysługuje zażalenie.
 
 2. Wniesienie zażalenia na postanowienie w sprawie wezwania do przywrócenia zgodności siedziby statutowej i zarządu głównego wstrzymuje bieg terminu wyznaczonego w celu usunięcia niezgodności.
 
-3. Na postanowienie sądu w sprawie rozwiązania SE przysługuje apelacja.
-
 **Art. 57.** Do postępowania przewidzianego w art. 54–56 w sprawach nieuregulowanych w tych przepisach stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o postępowaniu nieprocesowym.
 
-## TYTUŁ IV Zaangażowanie pracowników w spółce europejskiej
+## Tytuł IV Zaangażowanie pracowników w spółce europejskiej
 
-### DZIAŁ 1 Przepisy ogólne
+### Dział 1 Przepisy ogólne
 
 **Art. 58.** Użyte w tytule IV określenia oznaczają:
 
-### DZIAŁ 2 Specjalny zespół negocjacyjny
+- **1)** spółka zależna – przedsiębiorcę, na którego inna spółka wywiera dominujący wpływ w rozumieniu art. 4 ustawy z dnia 5 kwietnia 2002 r. o europejskich radach zakładowych (Dz. U. Nr 62, poz. 556 oraz z 2004 r. Nr 96, poz. 959), zwanej dalej „ustawą o europejskich radach zakładowych”;
+- **2)** zakład – jednostkę organizacyjną nieposiadającą osobowości prawnej, wykonującą działalność gospodarczą w oparciu o wydzielony zespół ludzi i środków materialnych;
+- **3)** zainteresowana spółka zależna lub zakład – spółkę zależną lub zakład spółki uczestniczącej, które mają się stać spółką zależną lub zakładem SE w związku z jej utworzeniem;
+- **4)** pracownik – osobę uznawaną za pracownika przez prawo danego państwa członkowskiego, które znajduje zastosowanie do stosunków pracy w spółce lub zakładzie zatrudniających tę osobę;
+- **5)** przedstawiciel pracowników – przedstawiciela pracowników w rozumieniu prawa państwa członkowskiego lub zgodnie z praktyką tego państwa;
+- **6)** specjalny zespół negocjacyjny – zespół utworzony zgodnie z przepisami działu 2 niniejszego tytułu w celu zawarcia z właściwym organem spółek uczestniczących porozumienia w sprawie zasad zaangażowania pracowników w SE;
+- **7)** organ przedstawicielski – organ reprezentujący pracowników, utworzony na mocy porozumienia, o którym mowa w dziale 3 niniejszego tytułu, lub na mocy przepisów działu 4 niniejszego tytułu;
+- **8)** zaangażowanie pracowników – zapewnienie prawa pracowników do informacji, konsultacji i uczestnictwa, umożliwiające im wywieranie wpływu na decyzje podejmowane w SE;
+- **9)** informowanie – informowanie organu przedstawicielskiego lub, w razie niepowołania takiego organu, ustanowionych w inny sposób przedstawicieli pracowników, w sprawach dotyczących SE oraz jej spółek zależnych i zakładów mających siedzibę w różnych państwach członkowskich, jak również w sprawach wykraczających poza uprawnienia organów spółek zależnych lub zakładów podejmujących decyzje w danych państwach członkowskich, w zakresie, formie i terminie umożliwiającym organowi przedstawicielskiemu lub ustanowionym w inny sposób przedstawicielom pracowników przeanalizowanie dostarczonych informacji i przygotowanie się do konsultacji z właściwym organem SE;
+- **10)** konsultacje – wymianę poglądów i podjęcie dialogu między organem przedstawicielskim lub ustanowionymi w inny sposób przedstawicielami pracowników a właściwym organem SE w zakresie, formie i terminie, umożliwiającym wzięcie pod uwagę opinii wydanej po ich zakończeniu przy podejmowaniu decyzji w SE;
+- **11)** uczestnictwo – wpływ organu przedstawicielskiego lub ustanowionych w inny sposób przedstawicieli pracowników na sprawy SE przez prawo wyboru lub wyznaczenia określonej liczby członków do rady nadzorczej albo rady administrującej SE albo prawo ich rekomendowania lub prawo sprzeciwienia się wyznaczeniu niektórych albo wszystkich członków tych organów;
+- **12)** dane identyfikacyjne – nazwę lub firmę spółki uczestniczącej, spółki zależnej i zakładu oraz ich siedzibę, a jeżeli posiadają one numer identyfikacyjny lub są zarejestrowane w rejestrze, także ten numer identyfikacyjny lub numer w rejestrze.
+
+### Dział 2 Specjalny zespół negocjacyjny
 
 #### Rozdział 1 Zadania specjalnego zespołu negocjacyjnego
 
@@ -455,21 +481,21 @@ Art. 134–137. (pominięte)
 
 **Art. 64.**
 
-1. Na każdą grupę pracowników zatrudnionych w danym państwie członkowskim, obejmującą 10 % liczby pracowników zatrudnionych ogółem w spółkach uczestniczących oraz zainteresowanych spółkach zależnych i zakładach we wszystkich państwach członkowskich, przypada jedno miejsce w specjalnym zespole negocjacyjnym.
+1. Na każdą grupę pracowników zatrudnionych w danym państwie członkowskim, obejmującą 10% liczby pracowników zatrudnionych ogółem w spółkach uczestniczących oraz zainteresowanych spółkach zależnych i zakładach we wszystkich państwach członkowskich, przypada jedno miejsce w specjalnym zespole negocjacyjnym.
 
-2. W przypadku gdy liczba pracowników zatrudnionych w danym państwie członkowskim jest mniejsza od liczby stanowiącej 10 % liczby pracowników zatrudnionych ogółem, to jedno miejsce w specjalnym zespole negocjacyjnym przypada w tym państwie na grupę pracowników liczącą mniej niż 10 % liczby pracowników zatrudnionych ogółem.
+2. W przypadku gdy liczba pracowników zatrudnionych w danym państwie członkowskim jest mniejsza od liczby stanowiącej 10% liczby pracowników zatrudnionych ogółem, to jedno miejsce w specjalnym zespole negocjacyjnym przypada w tym państwie na grupę pracowników liczącą mniej niż 10% liczby pracowników zatrudnionych ogółem.
 
-3. W przypadku gdy liczba pracowników zatrudnionych w danym państwie członkowskim jest większa od liczby stanowiącej 10 % liczby pracowników zatrudnionych ogółem, to jedno miejsce w specjalnym zespole negocjacyjnym przypada na każdą następną grupę pracowników rozpoczynającą tworzenie kolejnej grupy pracowników liczącej 10 % liczby pracowników zatrudnionych ogółem.
+3. W przypadku gdy liczba pracowników zatrudnionych w danym państwie członkowskim jest większa od liczby stanowiącej 10% liczby pracowników zatrudnionych ogółem, to jedno miejsce w specjalnym zespole negocjacyjnym przypada na każdą następną grupę pracowników rozpoczynającą tworzenie kolejnej grupy pracowników liczącej 10% liczby pracowników zatrudnionych ogółem.
 
 4. W przypadku gdy SE jest tworzona w drodze połączenia spółek, w wyniku którego jedna lub więcej spółek uczestniczących utraci z dniem rejestracji SE osobowość prawną, pracownicy takiej spółki mają prawo wyboru lub wyznaczenia zgodnie z prawem danego państwa członkowskiego dodatkowo jednego członka specjalnego zespołu negocjacyjnego, przy czym nie może to prowadzić do sytuacji, aby w składzie tego zespołu pracownicy takiej spółki byli podwójnie reprezentowani.
 
-5. Liczba dodatkowych członków specjalnego zespołu negocjacyjnego pochodzących z danego państwa członkowskiego nie może przekroczyć 20 % członków tego zespołu wybranych lub wyznaczonych zgodnie z ust. 1–3.
+5. Liczba dodatkowych członków specjalnego zespołu negocjacyjnego pochodzących z danego państwa członkowskiego nie może przekroczyć 20% członków tego zespołu wybranych lub wyznaczonych zgodnie z ust. 1–3.
 
 6. Jeżeli liczba spółek uczestniczących tracących osobowość prawną, o których mowa w ust. 4, przewyższa liczbę dostępnych dodatkowych miejsc, to dodatkowe miejsca przydziela się pracownikom tych spółek w kolejności zmniejszającej się liczby pracowników zatrudnionych w każdej z tych spółek.
 
 **Art. 65.**
 
-1. W przypadku gdy pracownicy spółki uczestniczącej, zainteresowanej spółki zależnej albo zakładu, mających wejść w skład SE, są zatrudnieni w Rzeczypospolitej Polskiej u jednego pracodawcy, członków specjalnego zespołu negocjacyjnego wyznacza reprezentatywna zakładowa organizacja związkowa w rozumieniu art. 25 ust. 1 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2025 r. poz. 440 i 1661). Przepisy art. 25 ust. 3, 4, 6 i 7 ustawy z dnia 23 maja 1991 r. o związkach zawodowych stosuje się odpowiednio. W przypadku braku takiej organizacji, członków specjalnego zespołu negocjacyjnego wybiera zebranie załogi.
+1. W przypadku gdy pracownicy spółki uczestniczącej, zainteresowanej spółki zależnej albo zakładu, mających wejść w skład SE, są zatrudnieni w Rzeczypospolitej Polskiej u jednego pracodawcy, członków specjalnego zespołu negocjacyjnego wyznacza reprezentatywna zakładowa organizacja związkowa w rozumieniu art. 24125a § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.), zwanej dalej „Kodeksem pracy”. Przepisy art. 24125a § 3–5 Kodeksu pracy stosuje się odpowiednio. W przypadku braku takiej organizacji, członków specjalnego zespołu negocjacyjnego wybiera zebranie załogi.
 
 2. W przypadku gdy u jednego pracodawcy działa więcej niż jedna reprezentatywna zakładowa organizacja związkowa, organizacje te wyznaczają wspólnie członków specjalnego zespołu negocjacyjnego.
 
@@ -477,7 +503,7 @@ Art. 134–137. (pominięte)
 
 4. Jeżeli porozumienie między reprezentatywnymi zakładowymi organizacjami związkowymi, o których mowa w ust. 2, nie zostanie osiągnięte, członków specjalnego zespołu negocjacyjnego wybiera zebranie załogi spośród kandydatów zgłoszonych przez reprezentatywne zakładowe organizacje związkowe. W przypadku gdy reprezentatywne zakładowe organizacje związkowe nie zgłoszą kandydatów, członków specjalnego zespołu negocjacyjnego wybiera zebranie załogi.
 
-5. Członkami specjalnego zespołu negocjacyjnego mogą zostać przedstawiciele organizacji związkowej, reprezentatywnej w rozumieniu ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. z 2018 r. poz. 2232, z późn. zm. ), niebędący pracownikami spółki uczestniczącej, zainteresowanej spółki zależnej lub zakładu, rekomendowani przez tę organizację.
+5. Członkami specjalnego zespołu negocjacyjnego mogą zostać przedstawiciele organizacji związkowej reprezentatywnej w rozumieniu art. 6 ust. 2 ustawy z dnia 6 lipca 2001 r. o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego (Dz. U. Nr 100, poz. 1080, z późn. zm.) niebędący pracownikami spółki uczestniczącej, zainteresowanej spółki zależnej lub zakładu, rekomendowani przez tę organizację.
 
 6. Większość w specjalnym zespole negocjacyjnym powinni stanowić pracownicy spółek uczestniczących, zainteresowanych spółek zależnych lub zakładów.
 
@@ -485,13 +511,13 @@ Art. 134–137. (pominięte)
 
 **Art. 66.**
 
-1. Wybory członków specjalnego zespołu negocjacyjnego organizuje właściwy organ spółki uczestniczącej, spółki zależnej lub kierownictwo zakładu, powiadamiając pracowników, zakładowe organizacje związkowe oraz organizacje związkowe, o których mowa w art. 65 ust. 5, o terminie i sposobie ich przeprowadzenia niepóźniej niż na 14 dni przed dniem wyborów, w sposób przyjęty u danego pracodawcy.
+1. Wybory członków specjalnego zespołu negocjacyjnego organizuje właściwy organ spółki uczestniczącej, spółki zależnej lub kierownictwo zakładu, powiadamiając pracowników, zakładowe organizacje związkowe oraz organizacje związkowe, o których mowa w art. 65 ust. 5, o terminie i sposobie ich przeprowadzenia nie później niż na 14 dni przed dniem wyborów, w sposób przyjęty u danego pracodawcy.
 
-2. Wybory są bezpośrednie i odbywają się w głosowaniu tajnym. Uchwały o wyborze członków specjalnego zespołu negocjacyjnego są podejmowane zwykłą większością głosów.
+2. Wybory są bezpośrednie i odbywają się w głosowaniu tajnym. Uchwały o wyborze członków specjalnego zespołu negocjacyjnego są podejmowane bezwzględną większością głosów.
 
-3. Wybory są ważne, jeżeli uczestniczyło w nich co najmniej 50 % pracowników.
+3. Wybory są ważne, jeżeli uczestniczyło w nich co najmniej 50% pracowników.
 
-4. W przypadku gdy w wyborach nie uczestniczyło co najmniej 50 % pracowników, po upływie miesiąca od dnia wyborów przeprowadza się ponowne wybory, które są ważne bez względu na liczbę uczestniczących w nich pracowników.
+4. W przypadku gdy w wyborach nie uczestniczyło co najmniej 50% pracowników, po upływie miesiąca od dnia wyborów przeprowadza się ponowne wybory, które są ważne bez względu na liczbę uczestniczących w nich pracowników.
 
 **Art. 67.**
 
@@ -517,7 +543,7 @@ Art. 134–137. (pominięte)
 
 **Art. 70.** Spółki uczestniczące, zarejestrowane w Rzeczypospolitej Polskiej, niezwłocznie udostępniają wykaz osób wyznaczonych lub wybranych na członków specjalnego zespołu negocjacyjnego spółkom uczestniczącym z innych państw członkowskich.
 
-### DZIAŁ 3 Porozumienie w sprawie zaangażowania pracowników w spółce europejskiej
+### Dział 3 Porozumienie w sprawie zaangażowania pracowników w spółce europejskiej
 
 **Art. 71.**
 
@@ -566,7 +592,7 @@ Art. 134–137. (pominięte)
 
 **Art. 78.** Specjalny zespół negocjacyjny oraz spółki uczestniczące prowadzą negocjacje w dobrej wierze w sposób zmierzający do zawarcia porozumienia.
 
-**Art. 79.** W przypadku wystąpienia trudności w negocjacjach, strony mogą powołać mediatora, do którego stosuje się odpowiednio przepisy art. 11 i art. 11 ustawy z dnia 23 maja 1991 r. o rozwiązywaniu sporów zbiorowych (Dz. U. z 2020 r. poz. 123 oraz z 2025 r. poz. 1661), jeżeli statutowa siedziba SE ma być zarejestrowana w Rzeczypospolitej Polskiej.
+**Art. 79.** W przypadku wystąpienia trudności w negocjacjach, strony mogą powołać mediatora, do którego stosuje się odpowiednio przepisy art. 11 i art. 111 ustawy z dnia 23 maja 1991 r. o rozwiązywaniu sporów zbiorowych (Dz. U. Nr 55, poz. 236, z późn. zm.), jeżeli statutowa siedziba SE ma być zarejestrowana w Rzeczypospolitej Polskiej.
 
 **Art. 80.**
 
@@ -586,7 +612,7 @@ Art. 134–137. (pominięte)
 
 4. Przepisów ust. 1 i 2 nie stosuje się w przypadku utworzenia SE w drodze przekształcenia, jeżeli w spółce, która ma być przekształcana, jest zapewnione uczestnictwo pracowników.
 
-5. Specjalny zespół negocjacyjny zbiera się ponownie na pisemny wniosek co najmniej 10 % pracowników zatrudnionych w SE, jej spółkach zależnych i zakładach lub ich przedstawicieli – po dwóch latach od podjęcia uchwały, o której mowa w ust. 1, chyba że specjalny zespół negocjacyjny i SE ustalą krótszy termin. W przypadku nieosiągnięcia porozumienia w wyniku ponownych negocjacji nie stosuje się przepisów działu 4 niniejszego tytułu.
+5. Specjalny zespół negocjacyjny zbiera się ponownie na pisemny wniosek co najmniej 10% pracowników zatrudnionych w SE, jej spółkach zależnych i zakładach lub ich przedstawicieli – po dwóch latach od podjęcia uchwały, o której mowa w ust. 1, chyba że specjalny zespół negocjacyjny i SE ustalą krótszy termin. W przypadku nieosiągnięcia porozumienia w wyniku ponownych negocjacji nie stosuje się przepisów działu 4 niniejszego tytułu.
 
 6. Do SE będącej przedsiębiorstwem o zasięgu wspólnotowym lub przedsiębiorstwem kontrolującym grupę przedsiębiorstw o zasięgu wspólnotowym, w rozumieniu odpowiednio art. 2 pkt 3 i 4 ustawy z dnia 5 kwietnia 2002 r. o europejskich radach zakładowych, nie stosuje się przepisów ustawy o europejskich radach zakładowych, chyba że specjalny zespół negocjacyjny podejmie uchwałę, o której mowa w ust. 1.
 
@@ -607,13 +633,27 @@ Art. 134–137. (pominięte)
 
 **Art. 83.** W SE, która ma być utworzona w drodze przekształcenia, określony porozumieniem poziom zaangażowania pracowników nie może być niższy od poziomu zaangażowania w spółce przekształcanej.
 
-### DZIAŁ 4 Zasady standardowe zaangażowania pracowników w spółce europejskiej
+### Dział 4 Zasady standardowe zaangażowania pracowników w spółce europejskiej
 
 #### Rozdział 1 Stosowanie zasad standardowych
 
 **Art. 84.** Zasady standardowe zaangażowania pracowników w SE, określone w niniejszym dziale, stosuje się od dnia jej rejestracji, w przypadku gdy:
 
+- **1)** spółki uczestniczące i specjalny zespół negocjacyjny tak postanowią albo
+- **2)** porozumienie nie zostanie zawarte w terminie określonym w art. 77 i: właściwe organy spółek uczestniczących zdecydują o stosowaniu tych zasad i tym samym o kontynuowaniu postępowania rejestracyjnego i specjalny zespół negocjacyjny nie podejmie uchwały, o której mowa w art. 81 ust. 1.
+    - **a)**
+    - **b)**
+
 **Art. 85.** Zasady standardowe uczestnictwa w SE stosuje się wyłącznie w przypadkach:
+
+- **1)** utworzenia SE w drodze przekształcenia, jeżeli zgodnie z prawem państwa członkowskiego przepisy odnoszące się do uczestnictwa w radzie nadzorczej albo radzie administrującej spółki miały zastosowanie do spółki przekształconej w SE;
+- **2)** utworzenia SE w drodze połączenia, gdy: przed dniem rejestracji SE jedna lub więcej form uczestnictwa były stosowane w jednej lub więcej spółkach uczestniczących, obejmujących co najmniej 25% łącznej liczby pracowników we wszystkich spółkach uczestniczących, albo przed dniem rejestracji SE jedna lub więcej form uczestnictwa były stosowane w jednej lub więcej spółkach uczestniczących, obejmujących mniej niż 25% łącznej liczby pracowników we wszystkich spółkach uczestniczących, o ile specjalny zespół negocjacyjny tak postanowi. Specjalny zespół negocjacyjny podejmuje decyzję w tej sprawie po upływie terminu, o którym mowa w art. 77, lub przed upływem tego terminu, jeżeli strony zgodnie oświadczą, że negocjacje nad zawarciem porozumienia zakończyły się niepowodzeniem;
+    - **a)**
+    - **b)**
+
+- **3)** utworzenia SE w drodze utworzenia holdingowej SE albo zależnej SE, gdy: przed dniem rejestracji SE jedna lub więcej form uczestnictwa były stosowane w jednej lub więcej spółkach uczestniczących, obejmujących co najmniej 50% łącznej liczby pracowników we wszystkich spółkach uczestniczących, albo przed dniem rejestracji SE jedna lub więcej form uczestnictwa były stosowane w jednej lub więcej spółek uczestniczących, obejmujących mniej niż 50% łącznej liczby pracowników we wszystkich spółkach uczestniczących, o ile specjalny zespół negocjacyjny tak postanowi. Specjalny zespół negocjacyjny podejmuje decyzję w tej sprawie po upływie terminu, o którym mowa w art. 77, lub przed upływem tego terminu, jeżeli strony zgodnie oświadczą, że negocjacje nad zawarciem porozumienia zakończyły się niepowodzeniem.
+    - **a)**
+    - **b)**
 
 **Art. 86.**
 
@@ -652,6 +692,10 @@ Art. 134–137. (pominięte)
 **Art. 91.** Organ przedstawicielski niezwłocznie zawiadamia właściwy organ SE o swym składzie. Właściwy organ SE przekazuje informację o składzie organu przedstawicielskiego właściwym organom spółek zależnych i kierownictwom zakładów.
 
 **Art. 92.** Właściwy organ SE niezwłocznie po otrzymaniu informacji o składzie organu przedstawicielskiego zwołuje zebranie organizacyjne, na którym:
+
+- **1)** następuje ukonstytuowanie się organu przedstawicielskiego;
+- **2)** organ przedstawicielski wybiera ze swojego składu przewodniczącego;
+- **3)** organ przedstawicielski uchwala wewnętrzny regulamin.
 
 **Art. 93.**
 
@@ -756,7 +800,7 @@ Art. 134–137. (pominięte)
 
 **Art. 111.** Członkom rady nadzorczej albo rady administrującej SE, wybranym, wyznaczonym lub rekomendowanym, zgodnie ze stosowanymi formami uczestnictwa, przysługują prawa i obowiązki, w tym prawo głosu, na równi z innymi członkami tych organów.
 
-### DZIAŁ 5 Zakaz ujawniania informacji stanowiących tajemnicę przedsiębiorstw
+### Dział 5 Zakaz ujawniania informacji stanowiących tajemnicę przedsiębiorstw
 
 **Art. 112.**
 
@@ -770,7 +814,7 @@ Art. 134–137. (pominięte)
 
 2. W przypadku uznania, że zastrzeżenie poufności informacji lub ich nieudostępnienie jest niezgodne z art. 112 lub ust. 1, specjalny zespół negocjacyjny, organ przedstawicielski lub inni przedstawiciele pracowników, ustanowieni na podstawie porozumienia zawartego zgodnie z art. 82 ust. 1 pkt 6, mogą wystąpić do sądu rejonowego – sądu gospodarczego z wnioskiem o zwolnienie z obowiązku zachowania poufności informacji lub o nakazanie udostępnienia informacji.
 
-3. W sprawach, o których mowa w ust. 2, stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o rozpoznawaniu spraw z zakresu przepisów o przedsiębiorstwach państwowych i o samorządzie załogi przedsiębiorstwa państwowego, z wyłączeniem art. 691 § 2 i art. 691 . Zdolność sądową w tych sprawach ma specjalny zespół negocjacyjny, organ przedstawicielski, inni przedstawiciele pracowników ustanowieni na podstawie porozumienia zawartego zgodnie z art. 82 ust. 1 pkt 6 oraz właściwy organ SE.
+3. W sprawach, o których mowa w ust. 2, stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o rozpoznawaniu spraw z zakresu przepisów o przedsiębiorstwach państwowych i o samorządzie załogi przedsiębiorstwa państwowego, z wyłączeniem art. 6911 § 2 i art. 6917. Zdolność sądową w tych sprawach ma specjalny zespół negocjacyjny, organ przedstawicielski, inni przedstawiciele pracowników ustanowieni na podstawie porozumienia zawartego zgodnie z art. 82 ust. 1 pkt 6 oraz właściwy organ SE.
 
 **Art. 114.**
 
@@ -780,7 +824,7 @@ Art. 134–137. (pominięte)
 
 **Art. 115.** Przepisy art. 112–114 nie naruszają przepisów o ochronie informacji niejawnych oraz przepisów o innych tajemnicach chronionych prawem.
 
-### DZIAŁ 6 Ochrona praw pracowników w zakresie zaangażowania
+### Dział 6 Ochrona praw pracowników w zakresie zaangażowania
 
 #### Rozdział 1 Ochrona przedstawicieli pracowników
 
@@ -788,7 +832,7 @@ Art. 134–137. (pominięte)
 
 **Art. 117.** Pracodawca nie może zmienić jednostronnie warunków pracy lub płacy na niekorzyść pracownika będącego członkiem specjalnego zespołu negocjacyjnego, organu przedstawicielskiego albo przedstawicielem pracowników w radzie nadzorczej albo radzie administrującej SE w czasie trwania mandatu oraz w okresie roku po jego wygaśnięciu bez zgody reprezentującej pracownika zakładowej organizacji związkowej, a jeżeli pracownik nie jest reprezentowany przez zakładową organizację związkową – bez zgody okręgowego inspektora pracy właściwego miejscowo dla siedziby pracodawcy.
 
-**Art. 118.** Pracownik, będący członkiem organów, o których mowa w art. 116, w związku z udziałem w pracach tych organów, ma prawo do zwolnienia od pracy zawodowej z zachowaniem prawa do wynagrodzenia na zasadach dotyczących członka zarządu zakładowej organizacji związkowej, określonych w art. 31 ust. 3 ustawy z dnia 23 maja 1991 r. o związkach zawodowych.
+**Art. 118.** Pracownik, będący członkiem organów, o których mowa w art. 116, w związku z udziałem w pracach tych organów, ma prawo do zwolnienia od pracy zawodowej z zachowaniem prawa do wynagrodzenia na zasadach dotyczących członka zarządu zakładowej organizacji związkowej, określonych w art. 31 ust. 3 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2001 r. Nr 79, poz. 854, z późn. zm.).
 
 **Art. 119.** Przepisy art. 116–118 stosuje się odpowiednio do przedstawicieli pracowników ustanowionych na podstawie porozumienia zawartego zgodnie z art. 82 ust. 1 pkt 6, innych niż członkowie organu przedstawicielskiego.
 
@@ -804,7 +848,7 @@ Art. 134–137. (pominięte)
 
 **Art. 121.** W przypadkach określonych w art. 84–86, do zaangażowania pracowników w zmienionych warunkach stosuje się przepisy działu 4 niniejszego tytułu w takim zakresie, w jakim zmiany zagrażają pozbawieniem lub ograniczeniem praw pracowników.
 
-## TYTUŁ V Przepisy porządkowe i karne
+## Tytuł V Przepisy porządkowe i karne
 
 **Art. 122.**
 
@@ -816,13 +860,17 @@ Art. 134–137. (pominięte)
 - **4)** tam, gdzie ma to zastosowanie – wzmianki, że zarządcy muszą działać wspólnie,
 - **5)** tam, gdzie ma to zastosowanie – wzmianki, że zgrupowanie jest w stanie likwidacji, na podstawie art. 15, 31, 32 lub 36 rozporządzenia 2137/85, podlega grzywnie do 10 000 zł.
 
-2. (uchylony)
+2. Tej samej karze podlega, kto, będąc zarządcą zgrupowania albo jego likwidatorem, nie ogłasza w Monitorze Sądowym i Gospodarczym następujących danych dotyczących zgrupowania:
+
+- **1)** danych, które muszą zostać włączone do umowy o utworzeniu zgrupowania, na podstawie art. 5 rozporządzenia 2137/85 oraz wszelkich zmian tych danych;
+- **2)** numeru, daty i miejsca rejestracji oraz wzmianki o wykreśleniu rejestracji;
+- **3)** wzmianki o złożeniu w rejestrze dokumentów i danych, o których mowa w art. 7 lit. b-j rozporządzenia 2137/85.
 
 **Art. 123.**
 
-1. Kto, będąc członkiem zarządu, członkiem rady administrującej lub dyrektorem wykonawczym SE, wbrew ciążącemu na nim obowiązkowi, dopuszcza do tego, że w tej SE:
+1. Kto, będąc członkiem rady administrującej lub dyrektorem wykonawczym SE, wbrew ciążącemu na nim obowiązkowi, dopuszcza do tego, że w tej SE:
 
-- **1)** nie prowadzi się księgi akcyjnej zgodnie z przepisem art. 341 § 1 Kodeksu spółek handlowych, 1a) nie prowadzi się rejestru akcjonariuszy zgodnie z Kodeksem spółek handlowych lub nie rejestruje się akcji w depozycie papierów wartościowych w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi,
+- **1)** nie prowadzi się księgi akcyjnej zgodnie z przepisem art. 341 § 1 Kodeksu spółek handlowych,
 - **2)** nie zwołuje się walnego zgromadzenia,
 - **3)** osobie powołanej do rewizji odmawia się wyjaśnień lub nie dopuszcza się jej do pełnienia obowiązków,
 - **4)** sądowi rejestrowemu nie przedstawia się wniosku o wyznaczenie biegłych rewidentów,
@@ -830,7 +878,7 @@ Art. 134–137. (pominięte)
 
 2. Tej samej karze podlega, kto, będąc członkiem rady administrującej albo likwidatorem, dopuszcza do tego, że SE przez czas dłuższy niż trzy miesiące wbrew prawu lub statutowi pozostaje bez rady administrującej w należytym składzie.
 
-**Art. 124.** Kto, będąc członkiem zarządu, członkiem rady administrującej lub dyrektorem wykonawczym albo likwidatorem SE, dopuszcza do tego, że pisma i zamówienia handlowe, o których mowa w art. 374 § 1 Kodeksu spółek handlowych, nie zawierają danych określonych w tym przepisie, podlega grzywnie do 10 000 zł.
+**Art. 124.** Kto, będąc członkiem rady administrującej lub dyrektorem wykonawczym albo likwidatorem SE, dopuszcza do tego, że pisma i zamówienia handlowe, o których mowa w art. 374 § 1 Kodeksu spółek handlowych, nie zawierają danych określonych w tym przepisie, podlega grzywnie do 10 000 zł.
 
 **Art. 125.** W sprawach, o których mowa w art. 122–124, grzywnę nakłada sąd rejestrowy.
 
@@ -840,13 +888,17 @@ Art. 134–137. (pominięte)
 
 **Art. 128.** Kto, będąc zarządcą zgrupowania albo jego likwidatorem, nie zgłasza wniosku o upadłość zgrupowania pomimo powstania warunków uzasadniających jego upadłość według przepisów o postępowaniu upadłościowym i naprawczym, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
-**Art. 129.** Kto, będąc członkiem zarządu, członkiem rady administrującej lub dyrektorem wykonawczym albo likwidatorem SE, na których ciąży obowiązek zgłoszenia wniosku o upadłość SE, nie zgłasza tego wniosku pomimo powstania warunków uzasadniających upadłość SE według przepisów o postępowaniu upadłościowym i naprawczym, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+**Art. 129.** Kto, będąc członkiem rady administrującej lub dyrektorem wykonawczym albo likwidatorem SE, na których ciąży obowiązek zgłoszenia wniosku o upadłość SE, nie zgłasza tego wniosku pomimo powstania warunków uzasadniających upadłość SE według przepisów o postępowaniu upadłościowym i naprawczym, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
-**Art. 130.** (uchylony)
+**Art. 130.** Kto, biorąc udział w tworzeniu SE lub będąc członkiem jej rady administrującej lub dyrektorem wykonawczym albo likwidatorem, działa na jej szkodę, podlega karze pozbawienia wolności do lat 5 i grzywnie.
 
-**Art. 131.** Kto, będąc członkiem zarządu, członkiem rady administrującej lub dyrektorem wykonawczym albo likwidatorem SE, dopuszcza do nabycia przez SE akcji własnych albo do brania ich w zastaw, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do 6 miesięcy.
+**Art. 131.** Kto, będąc członkiem rady administrującej lub dyrektorem wykonawczym albo likwidatorem SE, dopuszcza do nabycia przez SE akcji własnych albo do brania ich w zastaw, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do 6 miesięcy.
 
-**Art. 132.** Kto, będąc członkiem zarządu, członkiem rady administrującej lub dyrektorem wykonawczym SE, dopuszcza do wydania dokumentów uprawniających do wykonywania praw z akcji:
+**Art. 132.** Kto, będąc członkiem rady administrującej lub dyrektorem wykonawczym SE, dopuszcza do wydania dokumentów uprawniających do wykonywania praw z akcji:
+
+- **1)** niedostatecznie opłaconych,
+- **2)** przed zarejestrowaniem SE,
+- **3)** w przypadku podwyższenia kapitału zakładowego – przed zarejestrowaniem podwyższenia, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
 **Art. 133.**
 
@@ -856,11 +908,87 @@ Art. 134–137. (pominięte)
 - **2)** uniemożliwia lub utrudnia działanie specjalnego zespołu negocjacyjnego lub organu przedstawicielskiego,
 - **3)** dyskryminuje członka specjalnego zespołu negocjacyjnego, członka organu przedstawicielskiego lub przedstawiciela pracowników w związku z pełnioną przez niego funkcją, podlega karze ograniczenia wolności albo grzywny.
 
-2. Postępowanie w sprawach określonych w ust. 1 toczy się na podstawie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, 1178, 1661, 1814, 1818 i 1872). W tych sprawach oskarżycielem publicznym jest inspektor pracy.
+2. Postępowanie w sprawach określonych w ust. 1 toczy się na podstawie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. Nr 106, poz. 1148, z 2003 r. Nr 109, poz. 1031 i Nr 213, poz. 2081 oraz z 2004 r. Nr 128, poz. 1351). W tych sprawach oskarżycielem publicznym jest inspektor pracy.
 
-## TYTUŁ VI Zmiany w przepisach obowiązujących
+## Tytuł VI Zmiany w przepisach obowiązujących
 
-## TYTUŁ VII Przepis końcowy
+**Art. 134.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2001 r. Nr 17, poz. 209, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 138.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia .
+- **1)** w art. 36: po pkt 2 dodaje się pkt 2a w brzmieniu: „
+    - **a)**
+
+- **2a)** europejskich zgrupowań interesów gospodarczych, ” , po pkt 7 dodaje się pkt 7a w brzmieniu: „
+    - **b)**
+
+- **7a)** spółek europejskich, ” ;
+- **2)** w art. 38: dodaje się pkt 2a w brzmieniu: „
+    - **a)**
+
+- **2a)** w przypadku wspólników spółki jawnej, członków europejskiego zgrupowania interesów gospodarczych, wspólników spółki partnerskiej, wspólników spółki komandytowej oraz komplementariuszy spółki komandytowo-akcyjnej – informacje o pozostawaniu w związku małżeńskim, zawarciu małżeńskiej umowy majątkowej, powstaniu rozdzielności majątkowej między małżonkami, zaznaczenie ograniczenia zdolności do czynności prawnych, o ile takie istnieje, ” , w pkt 4 uchyla się lit. b, po pkt 4 dodaje się pkt 4a w brzmieniu: „
+    - **b)**
+    - **c)**
+
+- **4a)** w przypadku europejskiego zgrupowania interesów gospodarczych: imię i nazwisko oraz miejsce zamieszkania lub oznaczenie nazwy, firmy, formy prawnej, siedziby statutowej oraz numeru i miejsca rejestracji członków europejskiego zgrupowania interesów gospodarczych, wzmiankę o klauzulach zwalniających członka europejskiego zgrupowania interesów gospodarczych od odpowiedzialności za długi i inne zobowiązania powstałe przed jego przystąpieniem do zgrupowania, ” , w pkt 5 uchyla się lit. b, w pkt 6 uchyla się lit. b, w pkt 7 uchyla się lit. b, po pkt 9 dodaje się pkt 9a w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+
+- **9a)** w przypadku spółki europejskiej: wysokość kapitału zakładowego, liczbę i wartość nominalną akcji, jeżeli akcjonariusze wnoszą wkłady niepieniężne – zaznaczenie tej okoliczności, z podaniem wartości nominalnej objętych w zamian za nie akcji; nie dotyczy to spółki europejskiej przenoszącej siedzibę na terytorium Rzeczypospolitej Polskiej, wysokość kapitału docelowego, jeżeli statut to przewiduje, oraz wzmiankę, czy zarząd albo rada administrująca są upoważnieni do emisji warrantów subskrypcyjnych, liczbę akcji uprzywilejowanych i rodzaj uprzywilejowania, wzmiankę, jaka część kapitału zakładowego została opłacona; nie dotyczy to spółki europejskiej przenoszącej siedzibę na terytorium Rzeczypospolitej Polskiej, wartość nominalną warunkowego podwyższenia kapitału zakładowego, jeżeli statut wskazuje pismo przeznaczone do ogłoszeń spółki – oznaczenie tego pisma, jeżeli statut przewiduje przyznanie uprawnień osobistych określonym akcjonariuszom lub tytuły uczestnictwa w dochodach lub majątku spółki niewynikających z akcji – zaznaczenie tych okoliczności, w przypadku gdy spółka ma tylko jednego akcjonariusza – jego oznaczenie zgodnie z art. 35, a także wzmiankę, że jest on jedynym akcjonariuszem spółki europejskiej, wzmiankę o uchwale o emisji obligacji zamiennych i akcji wydawanych za te obligacje; wzmiankę o prawie obligatariuszy do udziału w zysku, ” ;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
+
+- **3)** w art. 39: po pkt 1 dodaje się pkt 1a w brzmieniu: „
+    - **a)**
+
+- **1a)** oznaczenie zarządców europejskiego zgrupowania interesów gospodarczych i osób fizycznych wyznaczonych jako przedstawiciele zarządców będących osobami prawnymi, ” , w pkt 5 kropkę zastępuje się przecinkiem i dodaje się pkt 6 w brzmieniu: „
+    - **b)**
+
+- **6)** w przypadku wyboru przez spółkę europejską systemu monistycznego: oznaczenie rady administrującej oraz osób wchodzących w jej skład, oznaczenie dyrektorów wykonawczych, niebędących członkami rady administrującej, uprawnionych do reprezentowania spółki europejskiej oraz sposobu i zakresu reprezentacji. ” ;
+    - **a)**
+    - **b)**
+
+- **4)** w art. 44 w ust. 1 w pkt 5 kropkę zastępuje się przecinkiem i dodaje się pkt 6 w brzmieniu: „
+- **6)** dla spółki europejskiej i europejskiego zgrupowania interesów gospodarczych – wzmiankę o złożeniu planu przeniesienia siedziby, a w przypadku wykreślenia z uwagi na zmianę siedziby – informację o państwie, do którego przeniesiono siedzibę, i rejestrze, do którego wpisano podmiot. ” .
+
+**Art. 135.** W ustawie z dnia 21 sierpnia 1997 r. – Prawo o publicznym obrocie papierami wartościowymi (Dz. U. z 2002 r. Nr 49, poz. 447, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 w ust. 1 w pkt 11 kropkę zastępuje się przecinkiem i dodaje się pkt 12 w brzmieniu: „
+- **12)** proponowania nabycia akcji będących przedmiotem wykupu w trybie i na warunkach określonych w art. 17 ustawy z dnia 4 marca 2005 r. o europejskim zgrupowaniu interesów gospodarczych i spółce europejskiej (Dz. U. Nr 62, poz. 551). ” ;
+- **2)** w art. 89: w ust. 1 w pkt 3 kropkę zastępuje się przecinkiem i dodaje się pkt 4 w brzmieniu: „
+    - **a)**
+
+- **4)** przenoszenia akcji będących przedmiotem wykupu w trybie i na warunkach określonych w art. 17 ustawy z dnia 4 marca 2005 r. o europejskim zgrupowaniu interesów gospodarczych i spółce europejskiej. ” , w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ W przypadkach określonych w ust. 1 pkt 1 i 4 wtórny obrót papierami wartościowymi dopuszczonymi do publicznego obrotu odbywa się bez pośrednictwa domu maklerskiego lub banku prowadzącego działalność maklerską. ” .
+    - **b)**
+
+**Art. 136.** W ustawie z dnia 5 kwietnia 2002 r. o europejskich radach zakładowych (Dz. U. Nr 62, poz. 556 oraz z 2004 r. Nr 96, poz. 959) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 dodaje się ust. 4 w brzmieniu: „
+
+4. Przepisów ustawy nie stosuje się do przedsiębiorstw i grup przedsiębiorstw mających status spółki europejskiej w rozumieniu przepisów ustawy z dnia 4 marca 2005 r. o europejskim zgrupowaniu interesów gospodarczych i spółce europejskiej (Dz. U. Nr 62, poz. 551), chyba że zachodzi przypadek, o którym mowa w przepisach art. 81 ust. 3 tej ustawy. ” ;
+
+- **2)** w art. 38 ust. 1 otrzymuje brzmienie: „
+
+1. Przepisów ustawy nie stosuje się do przedsiębiorstw i grup przedsiębiorstw o zasięgu wspólnotowym, w których przed dniem 22 września 1996 r. zostało zawarte porozumienie zapewniające ponadnarodowy sposób informowania pracowników i konsultacji z pracownikami przez okres obowiązywania porozumienia, jeżeli porozumienie obejmuje wszystkich pracowników przedsiębiorstwa lub grupy przedsiębiorstw o zasięgu wspólnotowym zatrudnionych w państwach członkowskich. Przed upływem terminu obowiązywania porozumienia zawartego na czas określony strony mogą przedłużyć jego obowiązywanie na czas określony lub uznać porozumienie za zawarte na czas nieokreślony. ” .
+
+**Art. 137.** W ustawie z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników (Dz. U. Nr 90, poz. 844, Nr 213, poz. 2081 i Nr 223, poz. 2217 oraz z 2004 r. Nr 96, poz. 959) w art. 5 w ust. 5 po pkt 4a dodaje się pkt 4b w brzmieniu: „
+
+- **4b)** będącemu członkiem specjalnego zespołu negocjacyjnego, organu przedstawicielskiego lub przedstawicielem pracowników w spółce europejskiej; ” .
+
+## Tytuł VII Przepis końcowy
+
+**Art. 138.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+
+- **1)** Przepisy ustawy wykonują postanowienia rozporządzenia nr 2137/85/EWG z dnia 25 lipca 1985 r. w sprawie europejskiego zgrupowania interesów gospodarczych (EZIG) (Dz. Urz. WE L 199 z 31.07.1985) i rozporządzenia nr 2157/2001/WE z dnia 8 października 2001 r. w sprawie statutu spółki europejskiej (SE) (Dz. Urz. WE L 294 z 10.11.2001) oraz wdrażają dyrektywę nr 2001/86/WE z dnia 8 października 2001 r. uzupełniającą statut spółki europejskiej w odniesieniu do zaangażowania pracowników (Dz. Urz. WE L 294 z 10.11.2001). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055, z 2003 r. Nr 50, poz. 424, Nr 84, poz. 774, Nr 124, poz. 1151, Nr 170, poz. 1651 i Nr 223, poz. 2216 oraz z 2004 r. Nr 64, poz. 594, Nr 91, poz. 871, Nr 96, poz. 959, Nr 116, poz. 1205, Nr 146, poz. 1546 i Nr 273, poz. 2703. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 60, poz. 535, Nr 124, poz. 1152, Nr 139, poz. 1324 i Nr 229, poz. 2276, z 2004 r. Nr 96, poz. 959, Nr 145, poz. 1535, Nr 146, poz. 1546 i Nr 213, poz. 2155 oraz z 2005 r. Nr 10, poz. 66. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384 oraz z 2005 r. Nr 13, poz. 98 i Nr 22, poz. 185. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 110, poz. 1189, z 2002 r. Nr 1, poz. 2 i Nr 113, poz. 984, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 96, poz. 874, Nr 217, poz. 2125, Nr 228, poz. 2256 i Nr 229, poz. 2276 oraz z 2004 r. Nr 96, poz. 959, Nr 173, poz. 1808 i Nr 273, poz. 2703. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407 oraz z 2005 r. Nr 10, poz. 71. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1793 i 1800, z 2002 r. Nr 10, poz. 89 i Nr 240, poz. 2056 oraz z 2004 r. Nr 240, poz. 2407. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 82, poz. 518 i Nr 88, poz. 554, z 1999 r. Nr 72, poz. 802, z 2000 r. Nr 107, poz. 1127, z 2002 r. Nr 74, poz. 676 oraz z 2004 r. Nr 240, poz. 2407. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 100, poz. 1080 i Nr 128, poz. 1405, z 2002 r. Nr 135, poz. 1146 i Nr 240, poz. 2052, z 2003 r. Nr 213, poz. 2081 oraz z 2004 r. Nr 240, poz. 2407. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 110, poz. 1189, z 2002 r. Nr 1, poz. 2 i Nr 113, poz. 984, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 96, poz. 874, Nr 217, poz. 2125, Nr 228, poz. 2256 i Nr 229, poz. 2276 oraz z 2004 r. Nr 96, poz. 959, Nr 173, poz. 1808 i Nr 273, poz. 2703. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055, z 2003 r. Nr 50, poz. 424, Nr 84, poz. 774, Nr 124, poz. 1151, Nr 170, poz. 1651 i Nr 223, poz. 2216 oraz z 2004 r. Nr 64, poz. 594, Nr 91, poz. 871, Nr 96, poz. 959, Nr 116, poz. 1205, Nr 146, poz. 1546 i Nr 273, poz. 2703.
+
 

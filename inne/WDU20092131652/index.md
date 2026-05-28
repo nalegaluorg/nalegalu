@@ -8,7 +8,7 @@ pos: 1652
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
 # Ustawa z dnia 19 listopada 2009 r. o zmianie ustawy o wyborze Prezydenta Rzeczypospolitej Polskiej oraz niektórych innych ustaw
@@ -22,110 +22,431 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2009-11-19 |
 | Data wydania | 2009-12-16 |
+| Wejście w życie | 2009-12-24 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092131652) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1652/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 27 września 1990 owyborze Prezydenta Rzeczypospolitej Polskiej (Dz. U. z2000 47, 544, zpóên. zm. ) wprowadza następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 września 1990 r. o wyborze Prezydenta Rzeczypospolitej Polskiej (Dz. U. z 2000 r. Nr 47, poz. 544, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 10 w ust. 3 po wyrazach „przeprowadzeniem wyborów” dodaje się wyrazy „, jak i dla komitetów wyborczych oraz nadawców telewizyjnych i radiowych”;
+- **2)** w art. 15: w ust. 2 wyrazy „wojewódzki komisarz wyborczy lub zastępca wojewódzkiego komisarza wyborczego, powoływani” zastępuje się wyrazami „komisarz wyborczy powoływany”, w ust. 3 wyrazy „wojewódzkiego komisarza wyborczego lub jego zastępcę” zastępuje się wyrazami „komisarza wyborczego”, w ust. 3a zdanie drugie otrzymuje brzmienie: „ Na sekretarza komisji powołuje się dyrektora właściwej miejscowo delegatury Krajowego Biura Wyborczego albo osobę przez niego wskazaną. ” ;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **3)** w art. 16: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Obwodową komisję wyborczą, w składzie od 5 do 9 osób, powołuje najpóźniej w 14 dniu przed dniem wyborów wójt (burmistrz, prezydent miasta). Kandydatów do komisji zgłaszają spośród wyborców danej gminy pełnomocnicy komitetów wyborczych, które zarejestrowały kandydatów lub upoważnione przez nich osoby. Z urzędu w skład komisji wchodzi, jako jej członek, osoba wskazana przez wójta (burmistrza, prezydenta miasta) spośród pracowników samorządowych gminy lub gminnych jednostek organizacyjnych. ” , w ust. 2 wyrazy „w 30 dniu” zastępuje się wyrazami „w 23 dniu”;
+
+- **b)**
+- **4)** w art. 19 w ust. 2 wyrazy „, wojewódzkim komisarzom wyborczym i zastępcom wojewódzkich komisarzy wyborczych” zastępuje się wyrazami „oraz komisarzom wyborczym”;
+- **5)** dodaje się art. 24a w brzmieniu: „
+
+**Art. 24a.** Lokale obwodowych komisji wyborczych dostosowane do potrzeb wyborców niepełnosprawnych zapewnia wójt (burmistrz, prezydent miasta). Do lokali tych stosuje się przepisy wykonawcze wydane na podstawie art. 53 ust. 2 ustawy z dnia 12 kwietnia 2001 r. – Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz. U. z 2007 r. Nr 190, poz. 1360, z 2008 r. Nr 171, poz. 1056 oraz z 2009 r. Nr 119, poz. 999). ” ;
+
+- **6)** w art. 27 w ust. 1 wyrazy „w przepisach ustawy z dnia 28 maja 1993 r. – Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej (Dz. U. Nr 45, poz. 205, z 1995 r. Nr 132, poz. 640, z 1997 r. Nr 47, poz. 297, Nr 70, poz. 443, Nr 88, poz. 554, Nr 98, poz. 604, Nr 121, poz. 770 i Nr 141, poz. 943 oraz z 1999 r. Nr 49, poz. 483)” zastępuje się wyrazami „w przepisach ustawy z dnia 12 kwietnia 2001 r. – Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej”;
+- **7)** dodaje się art. 30a w brzmieniu: „
+
+**Art. 30a.**
+
+1. Wyborca niepełnosprawny, na swój wniosek wniesiony do urzędu gminy najpóźniej w 5 dniu przed dniem wyborów, jest dopisywany do spisu wyborców w wybranym przez siebie obwodzie głosowania spośród obwodów głosowania, w których znajdują się lokale, o których mowa w art. 24a, na obszarze gminy właściwej ze względu na miejsce jego stałego zamieszkania.
+
+2. We wniosku, o którym mowa w ust. 1, podaje się nazwisko i imiona, imię ojca, datę urodzenia, numer ewidencyjny PESEL i adres zamieszkania wyborcy. ” ;
+
+- **8)** w art. 40c: w ust. 1 zdanie pierwsze otrzymuje brzmienie: „ Po zebraniu, zgodnie z wymaganiami określonymi w art. 41 ust. 1 pkt 3, co najmniej 1 000 podpisów obywateli mających prawo wybierania do Sejmu i popierających kandydata, pełnomocnik zawiadamia o utworzeniu komitetu Państwową Komisję Wyborczą. ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W zawiadomieniu o utworzeniu komitetu podaje się: ” , w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Do zawiadomienia o utworzeniu komitetu załącza się: ” , w ust. 4 wyrazy „Zgłoszenie komitetu do zarejestrowania” zastępuje się wyrazami „Zawiadomienie o utworzeniu komitetu”;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **9)** w art. 40d: w ust. 1 wyrazy „postanawia o zarejestrowaniu komitetu” zastępuje się wyrazami „postanawia o przyjęciu zawiadomienia o utworzeniu komitetu”, w ust. 2 zdanie drugie otrzymuje brzmienie: „ W wypadku nieusunięcia wad w terminie Państwowa Komisja Wyborcza odmawia przyjęcia zawiadomienia o utworzeniu komitetu. ” , ust. 3 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+3. Pełnomocnikowi służy prawo wniesienia skargi do Sądu Najwyższego na postanowienie Państwowej Komisji Wyborczej o odmowie przyjęcia zawiadomienia o utworzeniu komitetu. Skargę wnosi się w terminie 2 dni od daty doręczenia pełnomocnikowi postanowienia o odmowie przyjęcia zawiadomienia o utworzeniu komitetu. ” , w ust. 4 zdanie czwarte otrzymuje brzmienie: „ Jeżeli Sąd Najwyższy uzna skargę pełnomocnika za zasadną, Państwowa Komisja Wyborcza niezwłocznie przyjmuje zawiadomienie o utworzeniu komitetu. ” ;
+
+- **d)**
+- **10)** w art. 40f wyrazy „informację o zarejestrowanym komitecie” zastępuje się wyrazami „informację o utworzonym komitecie”;
+- **11)** w art. 41 w ust. 1 skreśla się wyrazy „komitetu zarejestrowanego zgodnie z art. 40d”;
+- **12)** dodaje się art. 56a w brzmieniu: „
+
+**Art. 56a.**
+
+1. Obwodowa komisja wyborcza, po uzgodnieniu z okręgową komisją wyborczą, może zarządzić stosowanie w głosowaniu drugiej urny wyborczej.
+
+2. Urna, o której mowa w ust. 1, jest urną pomocniczą przeznaczoną wyłącznie do wrzucania kart do głosowania przez wyborców w obwodach głosowania w szpitalach i w zakładach pomocy społecznej.
+
+3. W wypadku wyrażenia przez wyborcę woli skorzystania z urny pomocniczej wrzucenie do niej karty do głosowania wymaga obecności przy tej czynności co najmniej dwóch osób wchodzących w skład obwodowej komisji wyborczej, zgłoszonych przez różne komitety.
+
+4. Do postępowania z urną pomocniczą i głosowania przy jej użyciu mają zastosowanie przepisy niniejszego rozdziału. ” ;
+
+- **13)** w art. 78 ust. 1 i 2 otrzymują brzmienie: „
+
+1. Zabrania się prowadzenia kampanii wyborczej:
+
+- **1)** na terenie urzędów administracji rządowej i administracji samorządu terytorialnego oraz sądów,
+- **2)** na terenie zakładów pracy w sposób i w formach zakłócających ich normalne funkcjonowanie,
+- **3)** na terenie jednostek wojskowych i innych jednostek organizacyjnych podległych Ministrowi Obrony Narodowej oraz oddziałów obrony cywilnej, a także skoszarowanych jednostek podległych ministrowi właściwemu do spraw wewnętrznych.
+
+2. Zabronione są jakiekolwiek formy agitacji wyborczej na terenie szkół podstawowych i gimnazjów wobec uczniów nieposiadających prawa wybierania. ” ;
+
+- **14)** w art. 78a dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
+
+2. Materiały wyborcze zawierające oznaczenie komitetu, od którego pochodzą, podlegają ochronie prawnej. ” ;
+
+- **15)** dodaje się art. 78b w brzmieniu: „
+
+**Art. 78b.** Wójt (burmistrz, prezydent miasta) niezwłocznie po rozpoczęciu kampanii wyborczej zapewni na obszarze gminy (miasta) odpowiednią liczbę miejsc przeznaczonych na bezpłatne umieszczanie urzędowych obwieszczeń wyborczych i plakatów wszystkich komitetów oraz poda wykaz tych miejsc do wiadomości publicznej. ” ;
+
+- **16)** w art. 79 uchyla się ust. 2 i 3;
+- **17)** w art. 84: w ust. 2 i 3 wyrazy „od dnia zarejestrowania komitetu” zastępuje się wyrazami „od dnia zawiadomienia o utworzeniu komitetu”, w ust. 3 w zdaniu drugim wyraz „zarejestrowanych” zastępuje się wyrazem „utworzonych”;
+    - **a)**
+    - **b)**
+
+- **18)** art. 84ba otrzymuje brzmienie: „ Art. 84ba.
+
+1. Odpowiedzialność za zobowiązania majątkowe komitetu ponoszą solidarnie osoby wchodzące w skład komitetu.
+
+2. Zobowiązania, o których mowa w ust. 1, są niezbywalne. ” ;
+
+- **19)** art. 85 i art. 86 otrzymują brzmienie: „
+
+**Art. 85.**
+
+1. Środki finansowe komitetu mogą pochodzić jedynie z wpłat obywateli polskich mających miejsce stałego zamieszkania na terenie Rzeczypospolitej Polskiej oraz wpłat funduszów wyborczych partii politycznych tworzonych na podstawie przepisów ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (Dz. U. z 2001 r. Nr 79, poz. 857, z późn. zm.), z zastrzeżeniem przepisów ust. 2 i 3.
+
+2. Komitetowi nie wolno przyjmować wartości niepieniężnych, z wyjątkiem nieodpłatnych usług polegających na rozpowszechnianiu plakatów i ulotek wyborczych przez osoby fizyczne.
+
+3. Komitet może zaciągać kredyty bankowe tylko na cele związane z wyborami. Poręczycielem kredytu może być wyłącznie obywatel polski mający miejsce stałego zamieszkania na terenie Rzeczypospolitej Polskiej, z tym że zobowiązanie poręczyciela nie może być wyższe od wymienionej w art. 86 ust. 5 łącznej sumy wpłat od osoby fizycznej. Poręczenie kredytu jest niezbywalne.
 
 **Art. 86.**
 
-1. Ârodki finansowe komitetu mogą być gromadzone wyłącznie na rachunku bankowym.
+1. Środki finansowe komitetu mogą być gromadzone wyłącznie na rachunku bankowym.
 
 2. Komitet może gromadzić środki finansowe wyłącznie na jednym rachunku bankowym.
 
-3. Umowa rachunku bankowego zawarta imieniu komitetu musi zawierać zastrzeżenie o wymaganym ustawą sposobie dokonywania wpłat na rzecz komitetu oraz dopuszczalnym êródle pozyskiwania środków finansowych przez komitet, a także o dopuszczalnym terminie dokonywania wpłat.
+3. Umowa rachunku bankowego zawarta w imieniu komitetu musi zawierać zastrzeżenie o wymaganym ustawą sposobie dokonywania wpłat na rzecz komitetu oraz dopuszczalnym źródle pozyskiwania środków finansowych przez komitet, a także o dopuszczalnym terminie dokonywania wpłat.
 
-4. Ârodki finansowe mogą być wpłacane na rzecz komitetu jedynie czekiem rozrachunkowym, przelewem lub kartą płatniczą.
+4. Środki finansowe mogą być wpłacane na rzecz komitetu jedynie czekiem rozrachunkowym, przelewem lub kartą płatniczą.
 
-5. Ęączna suma wpłat od osoby fizycznej na rzecz jednego komitetu nie może przekraczać 15-krotności minimalnego wynagrodzenia za pracę, ustalanego na podstawie odrębnych przepisów, obowiązującego dniu poprzedzającym dzień ogłoszenia postanowienia ozarządzeniu wyborów.”;
+5. Łączna suma wpłat od osoby fizycznej na rzecz jednego komitetu nie może przekraczać 15-krotności minimalnego wynagrodzenia za pracę, ustalanego na podstawie odrębnych przepisów, obowiązującego w dniu poprzedzającym dzień ogłoszenia postanowienia o zarządzeniu wyborów. ” ;
 
-- **20)** art. 87aotrzymuje brzmienie: ŃArt. 87a. 1. Zabrania pozyskiwania środków przez komitet:
-- **1)** przed dniem przyjęcia przez Państwową Komisję Wyborczą zawiadomienia outworzeniu komitetu,
-- **1)** przed dniem przyjęcia przez Państwową Komisję Wyborczą zawiadomienia outworzeniu komitetu,
-- **2)** po dniu złożenia sprawozdania, októrym mowa wart. 87gust. 1.”;
-- **21)** art. 87e wyrazy Ńart. 87f ust. 1—3, 5, 7 i 8, art. 88f pkt 2—4 oraz art. 88g pkt 2” zastępuje wyrazami Ńart. 87f ust. 1—4, 6, 8 i 9, art. 88f pkt 2—5 oraz art. 88gpkt 2, 2di2e”;
-- **22)** wart. 87ea ust. 3 otrzymuje brzmienie: Ń3. Rejestry, o których mowa ust. 1, powinny być umieszczone na stronie internetowej komitetu co najmniej do dnia podania przez Państwową Komisję Wyborczą do wiadomości publicznej trybie określonym art. 87g ust. 6a sprawozdania wyborczego, o którym mowa wart. 87gust. 1.”;
-- **23)** art. 87fotrzymuje brzmienie: ŃArt. 87f. 1. Korzyści majątkowe przyjęte przez komitet znaruszeniem przepisów ustawy podlegają przepadkowi na rzecz Skarbu Państwa. Jeżeli korzyść majątkowa została zużyta lub utracona, przepadkowi podlega jej równowartość.
+- **20)** art. 87a otrzymuje brzmienie: „
 
-2. Korzyścią majątkową, która podlega przepadkowi na rzecz Skarbu Państwa jest również wartość dokonanej czynności skutkującej zmniejszeniem wartości zobowiązań komitetu przez inną osobę aniżeli wymieniona art. 85 ust. 1 i3 lub dokonanej znaruszeniem zasad, októrych mowa wart. 85 ust. 3 lub art. 86 ust. 5.
+**Art. 87a.**
 
-3. Przepis ust. 1 nie dotyczy korzyści majątkowych przekazanych komitetowi znaruszeniem przepisów ustawy, których komitet nie przyjął lub które zwrócił terminie 30 dni od dnia przekazania.
+1. Zabrania się pozyskiwania środków przez komitet:
 
-4. Przepis ust. 1 nie dotyczy korzyści majątkowych przekazanych komitetowi znaruszeniem przepisów ustawy, które to korzyści lub ich równowartość zostały, terminie 14 dni od dnia doręczenia komitetowi postanowienia o odrzuceniu jego sprawozdania wyborczego, a przypadku złożenia skargi, o której mowa art. 87i ust. 1 terminie 14 dni od dnia uprawomocnienia orzeczenia wydanego przez Sąd Najwyższy, dobrowolnie
+- **1)** przed dniem przyjęcia przez Państwową Komisję Wyborczą zawiadomienia o utworzeniu komitetu,
+- **2)** po dniu wyborów.
 
-- **2)** po dniu wyborów. wpłacone na konto urzędu skarbowego właściwego dla siedziby komitetu. Korzyści majątkowe ocharakterze nie——————— pieniężnym komitet przekazuje temu urzędowi skarbowemu. Potwierdzenie Państwowa Komisja Wyborcza postanowieniu o odrzuceniu sprawozdania wyborczego.
+2. Zabrania się wydatkowania środków przez komitet:
 
-6. W przypadku niewykonania czynności, o których mowa ust. 4 zdanie pierwsze i drugie, albo jednej tych czynności, Państwowa Komisja Wyborcza występuje do sądu przeciwko osobom, októrych mowa wart. 84ba, o orzeczenie przepadku korzyści majątkowej lub jej równowartości oraz wydanie tej korzyści majątkowej lub zapłatę jej równowartości.
+- **1)** przed dniem przyjęcia przez Państwową Komisję Wyborczą zawiadomienia o utworzeniu komitetu,
+- **2)** po dniu złożenia sprawozdania, o którym mowa w art. 87g ust. 1. ” ;
+- **21)** w art. 87e wyrazy „art. 87f ust. 1–3, 5, 7 i 8, art. 88f pkt 2–4 oraz art. 88g pkt 2” zastępuje się wyrazami „art. 87f ust. 1–4, 6, 8 i 9, art. 88f pkt 2–5 oraz art. 88g pkt 2, 2d i 2e”;
+- **22)** w art. 87ea ust. 3 otrzymuje brzmienie: „
 
-7. Sądem właściwym do orzekania wsprawach, októrych mowa wust. 1, jest Sąd Okręgowy wWarszawie.
+3. Rejestry, o których mowa w ust. 1, powinny być umieszczone na stronie internetowej komitetu co najmniej do dnia podania przez Państwową Komisję Wyborczą do wiadomości publicznej w trybie określonym w art. 87g ust. 6a sprawozdania wyborczego, o którym mowa w art. 87g ust. 1. ” ;
 
-8. Egzekucja korzyści majątkowej lub jej równowartości następuje trybie przepisów opostępowaniu egzekucyjnym administracji. Organem egzekucyjnym jest naczelnik urzędu skarbowego właściwy miejscowo dla siedziby komitetu.
+- **23)** art. 87f otrzymuje brzmienie: „
 
-9. Przejęte rzeczy ruchome, wierzytelności i inne prawa majątkowe naczelnik urzędu skarbowego spienięża według przepisów o egzekucji należności pieniężnych postępowaniu egzekucyjnym wadministracji.
+1. Korzyści majątkowe przyjęte przez komitet z naruszeniem przepisów ustawy podlegają przepadkowi na rzecz Skarbu Państwa. Jeżeli korzyść majątkowa została zużyta lub utracona, przepadkowi podlega jej równowartość.
 
-10. Do postępowania sprawach, o których mowa ust. 1, stosuje przepisy o postępowaniu nieprocesowym.”;
+2. Korzyścią majątkową, która podlega przepadkowi na rzecz Skarbu Państwa jest również wartość dokonanej czynności skutkującej zmniejszeniem wartości zobowiązań komitetu przez inną osobę aniżeli wymieniona w art. 85 ust. 1 i 3 lub dokonanej z naruszeniem zasad, o których mowa w art. 85 ust. 3 lub art. 86 ust. 5.
 
-- **24)** wart. 87g:
-    - **a)** po ust. 6 dodaje ust. 6awbrzmieniu: Ń6a. Sprawozdanie wyborcze przedkładane Państwowej Komisji Wyborczej podawane jest przez nią do wiadomości publicznej wBiuletynie Informacji Publicznej wterminie 30 dni od dnia złożenia go Państwowej
-    - **a)** pozyskania lub wydatkowania środków komitetu naruszeniem przepisów art. 84a ust. 3 oraz art. 87a albo limitu określonego wart. 84d,
-    - **b)** przekazania komitetowi lub przyjęcia przez komitet środków finansowych lub wartości niepieniężnych znaruszeniem przepisów art. 85 ust. 1—3,
-    - **c)** przeprowadzania zbiórek publicznych wbrew zakazowi, o którym mowa wart. 87.”,
-    - **b)** dodaje ust. 1awbrzmieniu: Ń1a. Odrzucenie sprawozdania następuje również przypadku poręczenia kredytu naruszeniem przepisów art. 85 ust. 3, a także dokonania czynności skutkującej zmniejszeniem wartości zobowiązań komitetu przez inną osobę aniżeli wymieniona Komisji Wyborczej.”,
-    - **b)** ust. 7 otrzymuje brzmienie: Ń7. Sprawozdania wyborcze komitetów Państwowa Komisja Wyborcza ogłasza wDzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski” po upływie terminu, októrym mowa wust. 1.”;
+3. Przepis ust. 1 nie dotyczy korzyści majątkowych przekazanych komitetowi z naruszeniem przepisów ustawy, których komitet nie przyjął lub które zwrócił w terminie 30 dni od dnia przekazania.
 
-- **25)** wart. 87h:
-    - **a)** ust. 1 otrzymuje brzmienie: Ń1. Państwowa Komisja Wyborcza, terminie 6 miesięcy od dnia złożenia sprawozdania wyborczego: art. 85 ust. 1 i 3 lub dokonanej naruszeniem limitu wpłat, o którym mowa wart. 86 ust. 5.”,
-    - **c)** ust. 4 otrzymuje brzmienie: Ń4. Organy administracji publicznej udzielają Państwowej Komisji Wyborczej, na jej żądanie, pomocy niezbędnej badaniu sprawozdania wyborczego.”,
-    - **d)** ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: ŃWterminie 30 dni od dnia ogłoszenia sprawozdania wyborczego, o którym mowa art. 87g ust. 7:”;
+4. Przepis ust. 1 nie dotyczy korzyści majątkowych przekazanych komitetowi z naruszeniem przepisów ustawy, które to korzyści lub ich równowartość zostały, w terminie 14 dni od dnia doręczenia komitetowi postanowienia o odrzuceniu jego sprawozdania wyborczego, a w przypadku złożenia skargi, o której mowa w art. 87i ust. 1 – w terminie 14 dni od dnia uprawomocnienia się orzeczenia wydanego przez Sąd Najwyższy, dobrowolnie wpłacone na konto urzędu skarbowego właściwego dla siedziby komitetu. Korzyści majątkowe o charakterze niepieniężnym komitet przekazuje temu urzędowi skarbowemu. Potwierdzenie przekazania korzyści majątkowej lub jej równowartości komitet przedstawia Państwowej Komisji Wyborczej.
 
-- **26)** dodaje art. 88ca wbrzmieniu: ŃArt. 88ca. 1. Kto, ramach kampanii wyborczej na rzecz kandydata na Prezydenta Rzeczypospolitej, prowadzi agitację wyborczą:
-- **1)** wsiedzibach urzędów administracji rządowej lub administracji samorządu terytorialnego bądê sądów,
-- **2)** na terenie zakładów pracy sposób iwformach zakłócających ich normalne funkcjonowanie,
-- **3)** na terenie jednostek wojskowych i innych jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub oddziałów obrony cywilnej bądê skoszarowanych jednostek podległych ministrowi właściwemu do spraw wewnętrznych,
-- **4)** lokalu wyborczym lub na tereszkół podstawowych lub gimnazjów wobec uczniów nieposiadających prawa wybierania.”;
-- **27)** dodaje art. 88ea wbrzmieniu: ŃArt. 88ea. Kto, ramach kampanii wyborczej na rzecz kandydata na Prezydenta Rzeczypospolitej nie umieszcza materiałach wyborczych oznaczenia od kogo pochodzą podlega karze grzywny.”;
-- **28)** wart. 88f:
-    - **a)** wpkt 3 wyrazy Ńlimity określone” zastępuje wyrazami Ńlimit określony”,
-    - **b)** pkt 4 na końcu dodaje przecinek i dodaje pkt 5 wbrzmieniu: Ń5) dokonuje czynności skutkującej zmniejszeniem wartości zobowiązań komitetu naruszeniem limitu wpłat, o którym mowa wart. 86 ust. 5”;
+5. Przyjęcie korzyści majątkowych z naruszeniem przepisów ustawy stwierdza Państwowa Komisja Wyborcza w postanowieniu o odrzuceniu sprawozdania wyborczego.
 
-- **29)** wart. 88g:
-    - **a)** pkt 1 otrzymuje brzmienie: Ń1) wydatkuje środki komitetu naruszeniem limitu określonego wart. 84d,”,
-    - **b)** pkt 2 otrzymuje brzmienie: Ń2) przekazuje komitetowi lub przyjmuje wimieniu komitetu środki finansowe znaruszeniem zasad, októrych mowa wart. 85 ust. 1,”,
-    - **c)** pkt 2aotrzymuje brzmienie: Ń2a) pozyskuje lub wydatkuje środki komitetu naruszeniem zakazów określonych wart. 87a,”,
-    - **d)** dodaje pkt 2b—2ewbrzmieniu: Ń2b) organizuje zbiórki publiczne na cele kampanii wyborczej, 2c) pozyskuje środki finansowe lub wartości niepieniężne na rzecz komitetu lub wydatkuje środki finansowe komitetu na cele inne niż związane zwyborami, 2d) przekazuje komitetowi lub przyjmuje jego imieniu wartości niepieniężne inne niż nieodpłatne usługi polegające na rozpowszechnianiu plakatów i ulotek wyborczych przez osoby fizyczne, 2e) nie będąc osobą wymienioną art. 85 ust. 1 i 3, dokonuje czynności skutkującej zmniejszeniem wartości zobowiązań komitetu”;
+6. W przypadku niewykonania czynności, o których mowa w ust. 4 zdanie pierwsze i drugie, albo jednej z tych czynności, Państwowa Komisja Wyborcza występuje do sądu przeciwko osobom, o których mowa w art. 84ba, o orzeczenie przepadku korzyści majątkowej lub jej równowartości oraz wydanie tej korzyści majątkowej lub zapłatę jej równowartości.
 
-- **30)** dodaje art. 88ja wbrzmieniu: ŃArt. 88ja. 1. Kto nie dopuszcza do wykonywania lub utrudnia dopełnienie przez biegłego rewidenta obowiązków przy sporządzaniu opinii lub raportu dotyczącego sprawozdania wyborczego podlega grzywnie.”;
-- **31)** art. 88k wyrazy Ńart. 88e” zastąpić wyrazami Ńart. 88ca, art. 88e, art. 88ea”.
+7. Sądem właściwym do orzekania w sprawach, o których mowa w ust. 1, jest Sąd Okręgowy w Warszawie.
 
-**Art. 2.** W ustawie dnia 27 czerwca 1997 o partiach politycznych (Dz. U. 2001 79, 857, zpóên. zm. ) wprowadza następujące zmiany:
+8. Egzekucja korzyści majątkowej lub jej równowartości następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji. Organem egzekucyjnym jest naczelnik urzędu skarbowego właściwy miejscowo dla siedziby komitetu.
 
-**Art. 3.** W ustawie dnia 29 sierpnia 1997 Ordynacja podatkowa (Dz. U. 2005 8, 60, zpóên. zm. badaniem sprawozdania komitetu wyborczego, informacji, o której mowa art. 34 ust. 1, lub sprawozdania, o którym mowa art. 38 ustawy zdnia 27 czerwca 1997 opartiach politycznych (Dz. U. 2001 79, 857, zpóên. zm. ) wart. 297 dodaje § 5 wbrzmieniu: ), akta, októrych mowa w§ 1.”.
+9. Przejęte rzeczy ruchome, wierzytelności i inne prawa majątkowe naczelnik urzędu skarbowego spienięża według przepisów o egzekucji należności pieniężnych w postępowaniu egzekucyjnym w administracji.
 
-**Art. 4.** Wustawie zdnia 16 lipca 1998 Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. z2003 159, 1547, zpóên. zm. ) wprowadza następujące zmiany:
+10. Do postępowania w sprawach, o których mowa w ust. 1, stosuje się przepisy o postępowaniu nieprocesowym. ” ;
 
-**Art. 5.** W ustawie dnia 20 czerwca 2002 o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta (Dz. U. 113, 984, zpóên. zm. ) wprowadza następujące zmiany:
+- **24)** w art. 87g: po ust. 6 dodaje się ust. 6a w brzmieniu: „
+    - **a)**
 
-**Art. 23b.**
+6a. Sprawozdanie wyborcze przedkładane Państwowej Komisji Wyborczej podawane jest przez nią do wiadomości publicznej w Biuletynie Informacji Publicznej w terminie 30 dni od dnia złożenia go Państwowej Komisji Wyborczej. ” , ust. 7 otrzymuje brzmienie: „
 
-1. Materiały wyborcze powinny zawierać wyraêne oznaczenie, od kogo pochodzą.
+- **b)**
 
-2. Materiały wyborcze zawierające oznaczenie komitetu wyborczego, od którego pochodzą, podlegają ochronie prawnej.”; ——————— ŃArt. 27f. Kto:
+7. Sprawozdania wyborcze komitetów Państwowa Komisja Wyborcza ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” po upływie terminu, o którym mowa w ust. 1. ” ;
 
-- **1)** związku wyborami wójta, burmistrza albo prezydenta miasta, prowadzi kampanię wyborczą bez uprzedniej zgody pełnomocnika wyborczego komitetu wyborczego, akoszt takiego działania wynosi od 500 do 50 000 złotych podlega grzywnie nie mniejszej niż koszt takiego działania,
-- **2)** prowadzi działania, o których mowa pkt 1, a ich koszt przekracza 50 000 złotych podlega grzywnie nie mniejszej niż koszt takiego działania oraz karze ograniczenia wolności albo pozbawienia wolności do lat 2.”;
-- **3)** wart. 27m:
-    - **a)** wpkt 6 wyrazy Ńosób fizycznych” zastępuje wyrazami Ńobywateli polskich mających stałe niepieniężne innego êródła niż funduszu wyborczego partii politycznej tworzącej komitet wyborczy partii politycznej lub funduszów wyborczych partii politycznych tworzących koalicyjny komitet wyborczy,
+- **25)** w art. 87h: ust. 1 otrzymuje brzmienie: „
+    - **a)**
 
-- **8)** nie będąc obywatelem polskim mającym miejsce stałego zamieszkania na terenie Rzeczypospolitej Polskiej, dokonuje czynności skutkującej zmniejszeniem wartości zobowiązań komitetu wyborczego”;
-- **4)** uchyla art. 27n;
-- **5)** wart. 27sskreśla wyrazy Ń , art. 27f”.
+1. Państwowa Komisja Wyborcza, w terminie 6 miesięcy od dnia złożenia sprawozdania wyborczego:
+
+- **1)** przyjmuje sprawozdanie bez zastrzeżeń;
+- **2)** przyjmuje sprawozdanie, wskazując na jego uchybienia, albo
+- **3)** odrzuca sprawozdanie w wypadku stwierdzenia: pozyskania lub wydatkowania środków komitetu z naruszeniem przepisów art. 84a ust. 3 oraz art. 87a albo limitu określonego w art. 84d, przekazania komitetowi lub przyjęcia przez komitet środków finansowych lub wartości niepieniężnych z naruszeniem przepisów art. 85 ust. 1–3, przeprowadzania zbiórek publicznych wbrew zakazowi, o którym mowa w art. 87. ” , dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **b)**
+
+1a. Odrzucenie sprawozdania następuje również w przypadku poręczenia kredytu z naruszeniem przepisów art. 85 ust. 3, a także dokonania czynności skutkującej zmniejszeniem wartości zobowiązań komitetu przez inną osobę aniżeli wymieniona w art. 85 ust. 1 i 3 lub dokonanej z naruszeniem limitu wpłat, o którym mowa w art. 86 ust. 5. ” , ust. 4 otrzymuje brzmienie: „
+
+- **c)**
+
+4. Organy administracji publicznej udzielają Państwowej Komisji Wyborczej, na jej żądanie, pomocy niezbędnej w badaniu sprawozdania wyborczego. ” , w ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W terminie 30 dni od dnia ogłoszenia sprawozdania wyborczego, o którym mowa w art. 87g ust. 7: ” ;
+
+- **d)**
+- **26)** dodaje się art. 88ca w brzmieniu: „ Art. 88ca.
+
+1. Kto, w ramach kampanii wyborczej na rzecz kandydata na Prezydenta Rzeczypospolitej, prowadzi agitację wyborczą:
+
+- **1)** w siedzibach urzędów administracji rządowej lub administracji samorządu terytorialnego bądź sądów,
+- **2)** na terenie zakładów pracy w sposób i w formach zakłócających ich normalne funkcjonowanie,
+- **3)** na terenie jednostek wojskowych i innych jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub oddziałów obrony cywilnej bądź skoszarowanych jednostek podległych ministrowi właściwemu do spraw wewnętrznych,
+- **4)** w lokalu wyborczym lub na terenie budynku, w którym lokal się znajduje podlega karze grzywny.
+
+2. Tej samej karze podlega, kto prowadzi agitację wyborczą na terenie szkół podstawowych lub gimnazjów wobec uczniów nieposiadających prawa wybierania. ” ;
+
+- **27)** dodaje się art. 88ea w brzmieniu: „ Kto, w ramach kampanii wyborczej na rzecz kandydata na Prezydenta Rzeczypospolitej nie umieszcza w materiałach wyborczych oznaczenia od kogo pochodzą podlega karze grzywny. ” ;
+- **28)** w art. 88f: w pkt 3 wyrazy „limity określone” zastępuje się wyrazami „limit określony”, w pkt 4 na końcu dodaje się przecinek i dodaje się pkt 5 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **5)** dokonuje czynności skutkującej zmniejszeniem wartości zobowiązań komitetu z naruszeniem limitu wpłat, o którym mowa w art. 86 ust. 5 ” ;
+- **29)** w art. 88g: pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** wydatkuje środki komitetu z naruszeniem limitu określonego w art. 84d, ” , pkt 2 otrzymuje brzmienie: „
+    - **b)**
+
+- **2)** przekazuje komitetowi lub przyjmuje w imieniu komitetu środki finansowe z naruszeniem zasad, o których mowa w art. 85 ust. 1, ” , pkt 2a otrzymuje brzmienie: „
+    - **c)**
+
+- **2a)** pozyskuje lub wydatkuje środki komitetu z naruszeniem zakazów określonych w art. 87a, ” , dodaje się pkt 2b-2e w brzmieniu: „
+    - **d)**
+
+- **2b)** organizuje zbiórki publiczne na cele kampanii wyborczej,
+- **2c)** pozyskuje środki finansowe lub wartości niepieniężne na rzecz komitetu lub wydatkuje środki finansowe komitetu na cele inne niż związane z wyborami,
+- **2d)** przekazuje komitetowi lub przyjmuje w jego imieniu wartości niepieniężne inne niż nieodpłatne usługi polegające na rozpowszechnianiu plakatów i ulotek wyborczych przez osoby fizyczne,
+- **2e)** nie będąc osobą wymienioną w art. 85 ust. 1 i 3, dokonuje czynności skutkującej zmniejszeniem wartości zobowiązań komitetu ” ;
+- **30)** dodaje się art. 88ja w brzmieniu: „
+
+1. Kto nie dopuszcza do wykonywania lub utrudnia dopełnienie przez biegłego rewidenta obowiązków przy sporządzaniu opinii lub raportu dotyczącego sprawozdania wyborczego podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+
+2. Jeżeli osoba, o której mowa w ust. 1, działa nieumyślnie podlega grzywnie. ” ;
+
+- **31)** w art. 88k wyrazy „art. 88e” zastąpić wyrazami „art. 88ca, art. 88e, art. 88ea”.
+
+**Art. 2.** W ustawie z dnia 27 czerwca 1997 r. o partiach politycznych (Dz. U. z 2001 r. Nr 79, poz. 857, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 25: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Partii politycznej mogą być przekazywane środki finansowe jedynie przez obywateli polskich mających stałe miejsce zamieszkania na terenie Rzeczypospolitej Polskiej, z zastrzeżeniem przepisów art. 24 ust. 4 i 7, art. 28 ust. 1 oraz przepisów ustaw dotyczących wyborów do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej oraz wyborów do Parlamentu Europejskiego w zakresie dotacji podmiotowej. ” , uchyla się ust. 2 i 3, dodaje się ust. 4a w brzmieniu: „
+
+- **b)**
+- **c)**
+
+4a. Przepisy ust. 1 i 4 stosuje się odpowiednio do wartości niepieniężnych. ” , w ust. 5 wyrazy „czekiem, przelewem lub kartą płatniczą” zastępuje się wyrazami „czekiem rozrachunkowym, przelewem lub kartą płatniczą”;
+
+- **d)**
+- **2)** dodaje się art. 25a w brzmieniu: „
+
+**Art. 25a.**
+
+1. Poręczycielem kredytu, o którym mowa w art. 24 ust. 7, może być wyłącznie obywatel polski mający miejsce stałego zamieszkania na terenie Rzeczypospolitej Polskiej, z tym że zobowiązanie poręczyciela nie może być wyższe od wymienionej w art. 25 ust. 4 łącznej sumy wpłat od osoby fizycznej.
+
+2. Poręczenie kredytu, o którym mowa w ust. 1, jest niezbywalne. ” ;
+
+- **3)** w art. 34a: w ust. 1 wyrazy „w terminie 4 miesięcy” zastępuje się wyrazami „w terminie 6 miesięcy”, ust. 4 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+4. Organy administracji publicznej udzielają Państwowej Komisji Wyborczej, na jej żądanie, pomocy niezbędnej w badaniu informacji. ” , dodaje się ust. 4a w brzmieniu: „
+
+- **c)**
+
+4a. Organy kontroli, rewizji i inspekcji, działające w administracji rządowej i samorządzie terytorialnym, współpracują z Państwową Komisją Wyborczą i są obowiązane do udostępniania Państwowej Komisji Wyborczej, na jej wniosek, wyników postępowań kontrolnych prowadzonych przez te organy. ” , w ust. 5 wyrazy „W terminie 14 dni” zastępuje się wyrazami „W terminie 30 dni”;
+
+- **d)**
+- **4)** w art. 38a: w ust. 1 wyrazy „w terminie 4 miesięcy” zastępuje się wyrazami „w terminie 6 miesięcy”, w ust. 2: – pkt 4 otrzymuje brzmienie: „ 4) przyjmowania lub pozyskiwania środków finansowych z innych źródeł niedozwolonych, ” , – w pkt 6 kropkę zastępuje się przecinkiem i dodaje się pkt 7 w brzmieniu: „ 7) przyjmowania wartości niepieniężnych z naruszeniem przepisów art. 25 ust. 4a. ” , dodaje się ust. 3 w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+3. Odrzucenie sprawozdania następuje również w przypadku poręczenia kredytu z naruszeniem przepisów art. 25a, a także dokonania czynności skutkującej zmniejszeniem wartości zobowiązań partii politycznej przez inną osobę aniżeli wymieniona w art. 25 ust. 1 i art. 25a ust. 1 lub dokonanej z naruszeniem limitu wpłat, o którym mowa w art. 25 ust. 4. ” ;
+
+- **5)** w art. 39a dodaje się ust. 1a w brzmieniu: „
+
+1a. Korzyścią majątkową, która podlega przepadkowi na rzecz Skarbu Państwa jest również wartość dokonanej czynności skutkującej zmniejszeniem wartości zobowiązań partii politycznej przez inną osobę aniżeli wymieniona w art. 25 ust. 1 i art. 25a ust. 1 lub dokonanej z naruszeniem zasad, o których mowa w art. 25 ust. 4 lub art. 25a. ” ;
+
+- **6)** w art. 49c dodaje się pkt 4 w brzmieniu: „
+- **4)** dokonuje czynności skutkującej zmniejszeniem wartości zobowiązań partii politycznej będąc osobą inną aniżeli wymieniona w art. 25 ust. 1 i art. 25a ust. 1 lub z naruszeniem limitu wpłat, o którym mowa w art. 25 ust. 4, ” .
+
+**Art. 3.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.) w art. 297 dodaje się § 5 w brzmieniu: „
+
+§ 5. Naczelnicy urzędów skarbowych udostępniają Państwowej Komisji Wyborczej, w związku z badaniem sprawozdania komitetu wyborczego, informacji, o której mowa w art. 34 ust. 1, lub sprawozdania, o którym mowa w art. 38 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (Dz. U. z 2001 r. Nr 79, poz. 857, z późn. zm.), akta, o których mowa w § 1. ” .
+
+**Art. 4.** W ustawie z dnia 16 lipca 1998 r. – Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. z 2003 r. Nr 159, poz. 1547, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 11 w ust. 2 po wyrazach „przeprowadzeniem wyborów” dodaje się wyrazy „, jak i dla komitetów wyborczych oraz nadawców telewizyjnych i radiowych”;
+- **2)** w art. 18: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Obwodową komisję wyborczą powołuje, najpóźniej w 14 dniu przed dniem wyborów, gminna komisja wyborcza spośród wyborców zgłoszonych przez pełnomocników, o których mowa w art. 101 ust. 2, z zastrzeżeniem ust. 1a i 2. Zgłoszenia kandydatów na członków obwodowej komisji wyborczej dokonuje się najpóźniej w 23 dniu przed dniem wyborów. ” , dodaje się ust. 1a w brzmieniu: „
+
+- **b)**
+
+1a. Kandydatów na członków obwodowej komisji wyborczej mogą zgłaszać wyłącznie pełnomocnicy komitetów wyborczych, które mają zarejestrowaną listę kandydatów w okręgu wyborczym, dla którego właściwa jest dana obwodowa komisja wyborcza. ” ;
+
+- **3)** dodaje się art. 32a w brzmieniu: „
+
+**Art. 32a.** Lokale obwodowych komisji wyborczych dostosowane do potrzeb wyborców niepełnosprawnych zapewnia wójt (burmistrz, prezydent miasta). Do lokali tych stosuje się przepisy wykonawcze wydane na podstawie art. 53 ust. 2 ustawy – Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej. ” ;
+
+- **4)** dodaje się art. 34a w brzmieniu: „
+
+**Art. 34a.**
+
+1. Wyborca niepełnosprawny, na swój wniosek wniesiony do urzędu gminy najpóźniej w 5 dniu przed dniem wyborów, jest dopisywany do spisu wyborców w wybranym przez siebie obwodzie głosowania spośród obwodów głosowania, w których znajdują się lokale, o których mowa w art. 32a, na obszarze gminy właściwej ze względu na miejsce jego stałego zamieszkania.
+
+2. We wniosku, o którym mowa w ust. 1, podaje się nazwisko i imiona, imię ojca, datę urodzenia, numer ewidencyjny PESEL i adres zamieszkania wyborcy. ” ;
+
+- **5)** w art. 40: w ust. 1 wyrazy „między godziną 6 a 20” zastępuje się wyrazami „między godziną 8 a 22”, ust. 3 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+3. O godzinie 22 przewodniczący komisji zarządza zakończenie głosowania. Od tej chwili mogą głosować tylko wyborcy, którzy przybyli do lokalu wyborczego przed godziną 22. ” ;
+
+- **6)** dodaje się art. 42a w brzmieniu: „
+
+**Art. 42a.**
+
+1. Obwodowa komisja wyborcza, po uzgodnieniu z komisją wyborczą, może zarządzić stosowanie w głosowaniu drugiej urny wyborczej.
+
+2. Urna, o której mowa w ust. 1, jest urną pomocniczą przeznaczoną wyłącznie do wrzucania kart do głosowania przez wyborców w obwodach głosowania w szpitalach i w zakładach pomocy społecznej.
+
+3. W wypadku wyrażenia przez wyborcę woli skorzystania z urny pomocniczej wrzucenie do niej karty do głosowania wymaga obecności przy tej czynności co najmniej dwóch osób wchodzących w skład obwodowej komisji wyborczej, zgłoszonych przez różne komitety wyborcze.
+
+4. Do postępowania z urną pomocniczą i głosowania przy jej użyciu mają zastosowanie przepisy niniejszego rozdziału. ” ;
+
+- **7)** dodaje się art. 70a w brzmieniu: „
+
+**Art. 70a.** Wójt (burmistrz, prezydent miasta) niezwłocznie po rozpoczęciu kampanii wyborczej zapewni na obszarze gminy (miasta) odpowiednią liczbę miejsc przeznaczonych na bezpłatne umieszczanie urzędowych obwieszczeń wyborczych i plakatów wszystkich komitetów wyborczych oraz poda wykaz tych miejsc do wiadomości publicznej. ” ;
+
+- **8)** w art. 83: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. Zabrania się pozyskiwania środków przez komitet:
+
+- **1)** przed dniem wydania przez właściwy organ postanowienia o przyjęciu zawiadomienia o utworzeniu komitetu,
+- **2)** po dniu wyborów. ” , ust. 4 otrzymuje brzmienie: „
+    - **b)**
+
+4. Zabrania się wydatkowania środków przez komitet:
+
+- **1)** przed dniem wydania przez właściwy organ postanowienia o przyjęciu zawiadomienia o utworzeniu komitetu,
+- **2)** po dniu złożenia sprawozdania finansowego, o którym mowa w art. 84 ust. 2. ” ;
+- **9)** w art. 83c: w ust. 3 część wspólna kończąca wyliczenie otrzymuje brzmienie: „ – mogą pochodzić wyłącznie z wpłat obywateli polskich mających miejsce stałego zamieszkania na terenie Rzeczypospolitej Polskiej oraz kredytów bankowych zaciąganych na cele związane z wyborami. ” , uchyla się ust. 4, ust. 6 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+6. Poręczycielem kredytu, o którym mowa w ust. 3, może być wyłącznie obywatel polski mający miejsce stałego zamieszkania na terenie Rzeczypospolitej Polskiej, z tym że zobowiązanie poręczyciela nie może być wyższe od wymienionej w art. 83d ust. 2 łącznej sumy wpłat od osoby fizycznej. Poręczenie kredytu jest niezbywalne. ” ;
+
+- **10)** w art. 83d ust. 3 otrzymuje brzmienie: „
+
+3. Środki finansowe mogą być wpłacane na rzecz komitetu wyborczego jedynie czekiem rozrachunkowym, przelewem lub kartą płatniczą. ” ;
+
+- **11)** art. 83g otrzymuje brzmienie: „
+
+**Art. 83g.** Komitety wyborcze prowadzą rachunkowość na zasadach określonych odrębnymi przepisami dotyczącymi jednostek nieprowadzących działalności gospodarczej, z uwzględnieniem przepisów ustawy. ” ;
+
+- **12)** w art. 84a: w ust. 1 wyrazy „od dnia wyborów” zastępuje się wyrazami „od dnia złożenia sprawozdania”, dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+1a. Odrzucenie sprawozdania następuje również w przypadku poręczenia kredytu z naruszeniem przepisów art. 83c ust. 6, a także dokonania czynności skutkującej zmniejszeniem wartości zobowiązań komitetu wyborczego przez inną osobę aniżeli wymieniona w art. 83c ust. 3 i 6 lub dokonanej z naruszeniem limitu wpłat, o którym mowa w art. 83d ust. 2. ” , ust. 4 otrzymuje brzmienie: „
+
+- **c)**
+
+4. Organy administracji publicznej udzielają organowi, któremu przedłożono sprawozdanie finansowe, na jego żądanie, pomocy niezbędnej w badaniu sprawozdania. ” , dodaje się ust. 4a w brzmieniu: „
+
+- **d)**
+
+4a. Organy kontroli, rewizji i inspekcji, działające w administracji rządowej i samorządzie terytorialnym, współpracują z organem, któremu przedłożono sprawozdanie finansowe, i są obowiązane do udostępniania temu organowi, na jego wniosek, wyników postępowań kontrolnych prowadzonych przez te organy. ” ;
+
+- **13)** w art. 84b: w ust. 1 wyrazy „w terminie 4 miesięcy od dnia wyborów” zastępuje się wyrazami „w terminie 30 dni od dnia publikacji, odpowiednio, sprawozdania finansowego przez Państwową Komisję Wyborczą lub komunikatu komisarza wyborczego, o których mowa w art. 84 ust. 6”, w ust. 2 wyrazy „w terminie 6 miesięcy od dnia wyborów” zastępuje się wyrazami „w terminie 60 dni od dnia zgłoszenia zastrzeżenia”;
+    - **a)**
+    - **b)**
+
+- **14)** w art. 84d: dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+
+1a. Korzyścią majątkową, która podlega przepadkowi na rzecz Skarbu Państwa jest również wartość dokonanej czynności skutkującej zmniejszeniem wartości zobowiązań komitetu wyborczego przez inną osobę aniżeli wymieniona w art. 83c ust. 3 i 6 lub dokonanej z naruszeniem zasad, o których mowa w art. 83c ust. 6 i art. 83d ust. 2. ” , dodaje się ust. 9 w brzmieniu: „
+
+- **b)**
+
+9. Do postępowania w sprawach, o których mowa w ust. 1, stosuje się przepisy o postępowaniu nieprocesowym. ” ;
+
+- **15)** art. 202 otrzymuje brzmienie: „
+
+**Art. 202.** Kto:
+
+- **1)** w związku z wyborami do rad gmin, rad powiatów lub sejmików województw, prowadzi kampanię wyborczą bez uprzedniej zgody pełnomocnika wyborczego komitetu wyborczego, a koszt takiego działania wynosi od 500 do 50 000 złotych podlega grzywnie nie mniejszej niż koszt takiego działania,
+- **2)** prowadzi działania, o których mowa w pkt 1, a ich koszt przekracza 50 000 złotych podlega grzywnie nie mniejszej niż koszt takiego działania oraz karze ograniczenia wolności albo pozbawienia wolności do lat 2. ” ;
+- **16)** w art. 202g: w pkt 6 wyrazy „osób fizycznych” zastępuje się wyrazami „obywateli polskich mających stałe miejsce zamieszkania na terenie Rzeczypospolitej Polskiej”, w pkt 6 na końcu dodaje się przecinek i dodaje się pkt 7 i 8 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **7)** przekazuje komitetowi wyborczemu partii politycznej albo koalicyjnemu komitetowi wyborczemu lub przyjmuje w imieniu tych komitetów środki finansowe lub wartości niepieniężne z innego źródła niż z funduszu wyborczego partii politycznej tworzącej komitet wyborczy partii politycznej lub z funduszów wyborczych partii politycznych tworzących koalicyjny komitet wyborczy,
+- **8)** nie będąc osobą wymienioną w art. 83c ust. 3 i 6, dokonuje czynności skutkującej zmniejszeniem wartości zobowiązań komitetu wyborczego ” ;
+- **17)** uchyla się art. 202h;
+- **18)** w art. 203 skreśla się wyrazy „, art. 202”.
+
+**Art. 5.** W ustawie z dnia 20 czerwca 2002 r. o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta (Dz. U. Nr 113, poz. 984, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** dodaje się art. 23a i 23b w brzmieniu: „
+
+**Art. 23a.**
+
+1. Zabrania się prowadzenia kampanii wyborczej:
+
+- **1)** na terenie urzędów administracji rządowej i administracji samorządu terytorialnego oraz sądów;
+- **2)** na terenie zakładów pracy w sposób i w formach zakłócających ich normalne funkcjonowanie;
+- **3)** na terenie jednostek wojskowych i innych jednostek organizacyjnych podległych Ministrowi Obrony Narodowej oraz oddziałów obrony cywilnej, a także skoszarowanych jednostek podległych ministrowi właściwemu do spraw wewnętrznych.
+
+2. Zabronione są jakiekolwiek formy agitacji wyborczej na terenie szkół podstawowych i gimnazjów wobec uczniów nieposiadających prawa wybierania.
+
+1. Materiały wyborcze powinny zawierać wyraźne oznaczenie, od kogo pochodzą.
+
+2. Materiały wyborcze zawierające oznaczenie komitetu wyborczego, od którego pochodzą, podlegają ochronie prawnej. ” ;
+
+- **2)** art. 27f otrzymuje brzmienie: „
+
+**Art. 27f.** Kto:
+
+- **1)** w związku z wyborami wójta, burmistrza albo prezydenta miasta, prowadzi kampanię wyborczą bez uprzedniej zgody pełnomocnika wyborczego komitetu wyborczego, a koszt takiego działania wynosi od 500 do 50 000 złotych podlega grzywnie nie mniejszej niż koszt takiego działania,
+- **2)** prowadzi działania, o których mowa w pkt 1, a ich koszt przekracza 50 000 złotych podlega grzywnie nie mniejszej niż koszt takiego działania oraz karze ograniczenia wolności albo pozbawienia wolności do lat 2. ” ;
+- **3)** w art. 27m: w pkt 6 wyrazy „osób fizycznych” zastępuje się wyrazami „obywateli polskich mających stałe miejsce zamieszkania na terenie Rzeczypospolitej Polskiej”, w pkt 6 na końcu dodaje się przecinek i dodaje się pkt 7 i 8 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **7)** przekazuje komitetowi wyborczemu partii politycznej albo koalicyjnemu komitetowi wyborczemu lub przyjmuje w imieniu tych komitetów środki finansowe lub wartości niepieniężne z innego źródła niż z funduszu wyborczego partii politycznej tworzącej komitet wyborczy partii politycznej lub z funduszów wyborczych partii politycznych tworzących koalicyjny komitet wyborczy,
+- **8)** nie będąc obywatelem polskim mającym miejsce stałego zamieszkania na terenie Rzeczypospolitej Polskiej, dokonuje czynności skutkującej zmniejszeniem wartości zobowiązań komitetu wyborczego ” ;
+- **4)** uchyla się art. 27n;
+- **5)** w art. 27s skreśla się wyrazy „, art. 27f”.
 
 **Art. 6.**
 
-1. Przepisy ustaw zmienianych art. 4 i 5, brzmieniu nadanym niniejszą ustawą, stosuje od kadencji organów jednostek samorządu terytorialnego następującej po kadencji, wtrakcie której niniejsza ustawa weszła wżycie.
+1. Przepisy ustaw zmienianych w art. 4 i 5, w brzmieniu nadanym niniejszą ustawą, stosuje się od kadencji organów jednostek samorządu terytorialnego następującej po kadencji, w trakcie której niniejsza ustawa weszła w życie.
 
-2. Do kadencji organów jednostek samorządu temiejsce zamieszkania na terenie Rzeczypospoli- rytorialnego, trakcie której niniejsza ustawa weszła tej Polskiej”, wżycie, stosuje przepisy dotychczasowe. Ń7) przekazuje komitetowi wyborczemu partii politycznej albo koalicyjnemu komitetowi Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
+2. Do kadencji organów jednostek samorządu terytorialnego, w trakcie której niniejsza ustawa weszła w życie, stosuje się przepisy dotychczasowe.
 
-- **b)** pkt 6 na końcu dodaje przecinek i dodaje Art. 7. Ustawa wchodzi życie po upływie 7 dni pkt 7 i8 wbrzmieniu: od dnia ogłoszenia.
-
+**Art. 7.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
 

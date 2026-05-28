@@ -8,12 +8,10 @@ pos: 492
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie zakresu obowiązywania Traktatu o konwencjonalnych siłach zbrojnych w Europie, podpisanego w Paryżu dnia 19 listopada 1990 r.
-
-*USTAWA z dnia 7 marca 2024 r.*
+# Ustawa z dnia 7 marca 2024 r. o zmianie zakresu obowiązywania Traktatu o konwencjonalnych siłach zbrojnych w Europie, podpisanego w Paryżu dnia 19 listopada 1990 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2024-03-07 |
 | Data wydania | 2024-04-02 |
+| Wejście w życie | 2024-04-03 |
 | Ostatnia zmiana | 2024-08-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000492) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/492/text.pdf) |
 

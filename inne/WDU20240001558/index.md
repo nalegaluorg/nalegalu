@@ -8,12 +8,10 @@ pos: 1558
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy o paszach
-
-*USTAWA z dnia 27 września 2024 r.*
+# Ustawa z dnia 27 września 2024 r. o zmianie ustawy o paszach
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2024-09-27 |
 | Data wydania | 2024-10-21 |
+| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2024-10-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001558) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1558/text.pdf) |
 

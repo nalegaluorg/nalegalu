@@ -22,6 +22,7 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1986-07-17 |
 | Data wydania | 1986-07-19 |
+| Wejście w życie | 1986-07-23 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19860260126) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1986/126/text.pdf) |
 
@@ -63,7 +64,24 @@ Sejm Polskiej Rzeczypospolitej Ludowej mając na uwadze postępującą normaliza
 
 **Art. 6.** W sprawach o przestępstwa inne niż wymienione w art. 1 oraz przestępstwa skarbowe popełnione przed dniem 17 lipca 1986 r. sąd może na wniosek prokuratora zastosować warunkowe przedterminowe zwolnienie bez zachowania wymogów określonych w art. 91 § 1 i 2 Kodeksu karnego, jeżeli sprawca:
 
+- **1)** do dnia wejścia w życie ustawy ukończył – kobieta 50, a mężczyzna 60 lat,
+- **2)** sprawuje bądź powinien sprawować sam pieczę nad dzieckiem do lat 16, do której wykonywania są obowiązani rodzice,
+- **3)** w chwili popełnienia czynu nie ukończył 21 lat,
+- **4)** popełnił przestępstwo nieumyślne.
+
 **Art. 7.** Przepisów art. 5 i 6 nie stosuje się do przestępstw, w tym przestępstw skarbowych:
+
+- **1)** popełnionych w warunkach określonych w art. 60 Kodeksu karnego lub art. 24 ustawy karnej skarbowej z dnia 26 października 1971 r. (Dz. U. z 1984 r. Nr 22, poz. 103 i z 1985 r. Nr 23, poz. 100),
+- **2)** popełnionych w stanie nietrzeźwości,
+- **3)** o charakterze chuligańskim,
+- **4)** popełnionych przez sprawców prowadzących pasożytniczy tryb życia, którzy w czasie przestępstwa nie pracowali lub nie uczyli się, czerpiąc środki utrzymania w sposób sprzeczny z prawem bądź z zasadami współżycia społecznego,
+- **5)** stanowiących zbrodnię,
+- **6)** określonych w: art. 168 § 1 Kodeksu karnego, art. 3–5, art. 6 ust. 1, art. 7 i 8 ustawy z dnia 22 kwietnia 1959 r. o zwalczaniu niedozwolonego wyrobu spirytusu (Dz. U. Nr 27, poz. 169 i z 1985 r. Nr 23, poz. 101 i Nr 25, poz. 111), art. 43 ust. 1 i 2 oraz art. 44 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. Nr 35, poz. 230 i z 1984 r. Nr 34, poz. 184), art. 27 ust. 2, art. 29 ust. 1 i 3, art. 30 ust. 1 i 3, art. 32 ust. 1 ustawy z dnia 31 stycznia 1985 r. o zapobieganiu narkomanii (Dz. U. Nr 4, poz. 15 i Nr 15, poz. 66), art. 9 ustawy z dnia 10 maja 1985 r. o szczególnej odpowiedzialności karnej (Dz. U. Nr 23, poz. 101 i Nr 25, poz. 111).
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 **Art. 8.**
 

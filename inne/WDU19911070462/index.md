@@ -8,10 +8,10 @@ pos: 462
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# U S T A W A z dnia 19 października 1991 r.
+# Ustawa z dnia 19 października 1991 r. o zmianie ustawy o kolejach i ustawy – Prawo przewozowe
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,19 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1991-10-19 |
 | Data wydania | 1991-11-22 |
+| Wejście w życie | 1991-12-07 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19911070462) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/462/text.pdf) |
 
-o zmianie ustawy o kolejach i ustawy - Prawo przewozowe.
+**Art. 1.** W ustawie z dnia 2 grudnia 1960 r. o kolejach (Dz. U. z 1989 r. Nr 52, poz. 310 i z 1990 r. Nr 34, poz. 198) art. 8 otrzymuje brzmienie: „
 
-**Art. 1.** W ustawie z dnia 2 grudnia 1960 r. o kolejach (Dz.U. z 1989 r. Nr 52, poz.310 i z 1990 r. Nr 34, poz.198) art.8 otrzymuje brzmienie: "Art. 8. Dyrektor Generalny Przedsiębiorstwa Państwowego "Polskie Koleje Państwowe", po zasięgnięciu opinii właściwego wojewody, może zarządzić likwidację i rozbiórkę nieczynnych linii kolei użytku publicznego lub ich części.".
+**Art. 8.** Dyrektor Generalny Przedsiębiorstwa Państwowego „Polskie Koleje Państwowe”, po zasięgnięciu opinii właściwego wojewody, może zarządzić likwidację i rozbiórkę nieczynnych linii kolei użytku publicznego lub ich części. ”
 
-**Art. 2.** W ustawie z dnia 15 listopada 1984 r. - Prawo przewozowe (Dz.U. Nr 53, poz.272) w art.8 w ust.1:
+**Art. 2.** W ustawie z dnia 15 listopada 1984 r. – Prawo przewozowe (Dz. U. Nr 53, poz. 272) w art. 8 w ust. 1:
+
+- **1)** pkt 2 otrzymuje brzmienie: „
+- **2)** przewoźnika – w razie klęski żywiołowej, przerwy w eksploatacji, szczególnych trudności spowodowanych przez klienta, przyczyn ekonomicznych, jak również z uwagi na bezpieczeństwo ruchu, za zgodą i na warunkach ustalonych przez Ministra Transportu i Gospodarki Morskiej. Zgoda nie jest wymagana, jeżeli ograniczenie obowiązku następuje na okres nie dłuższy niż 3 dni. ” ,
+- **2)** skreśla się pkt 3.
 
 **Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

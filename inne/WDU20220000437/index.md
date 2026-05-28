@@ -8,12 +8,10 @@ pos: 437
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o służbie medycyny pracy
-
-*USTAWA z dnia 27 czerwca 1997 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 13 stycznia 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o służbie medycyny pracy
 
 | Pole | Wartość |
 |---|---|
@@ -26,6 +24,26 @@ source: "isap-pdf"
 | Data wydania | 2022-02-22 |
 | Ostatnia zmiana | 2026-03-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000437) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/437/text.pdf) |
+
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 27 czerwca 1997 r. o służbie medycyny pracy
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 27 czerwca 1997 r. o służbie medycyny pracy (Dz. U. z 2019 r. poz. 1175), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 14 października 2021 r. o zmianie ustawy o transporcie drogowym oraz niektórych innych ustaw (Dz. U. poz. 1997) oraz zmian wynikających z przepisów ogłoszonych przed dniem 13 stycznia 2022 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia jednolity tekst ustawy nie obejmuje odnośnika nr 1 oraz art. 34 ustawy z dnia 14 października 2021 r. o zmianie ustawy o transporcie drogowym oraz niektórych innych ustaw (Dz. U. poz. 1997), które stanowią: „ 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady (UE) 2018/645 z dnia 18 kwietnia 2018 r. zmieniającej dyrektywę 2003/59/WE w sprawie wstępnej kwalifikacji i okresowego szkolenia kierowców niektórych pojazdów drogowych do przewozu rzeczy lub osób oraz dyrektywę 2006/126/WE w sprawie praw jazdy (Dz. Urz. UE L 112 z 02.05.2018, str. 29). ”
+„
+
+**Art. 34.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 33, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 1 września 2021 r.;
+- **2)** art. 24, który wchodzi w życie po upływie 2 miesięcy od dnia wejścia w życie ustawy;
+- **3)** art. 1 pkt 4 lit. a, pkt 5 lit. c-f, h oraz lit. i, oraz pkt 6 i 7 – w zakresie art. 39c ust. 1 ustawy zmienianej w art. 1, pkt 8, pkt 9 lit. a, pkt 10 lit. d – w zakresie art. 39e ust. 4 ustawy zmienianej w art. 1, oraz pkt 11, art. 2 pkt 2, 3, 11 i 12, art. 4 pkt 8 i 40, art. 23, art. 25, art. 26, art. 28, art. 30 i art. 31, które wchodzą w życie po upływie 4 miesięcy od dnia wejścia w życie ustawy;
+- **4)** art. 2 pkt 7, 8 i 10, art. 27 ust. 1 i 2 oraz art. 29, które wchodzą w życie po upływie 6 miesięcy od dnia wejścia w życie ustawy;
+- **5)** art. 4 pkt 20 lit. c, który wchodzi w życie z dniem 1 stycznia 2022 r.;
+- **6)** art. 1 pkt 7 – w zakresie art. 39c ust. 2–5 ustawy zmienianej w art. 1, pkt 10 lit. a-c i d – w zakresie art. 39e ust. 3 ustawy zmienianej w art. 1, art. 4 pkt 34 – w zakresie art. 103a ust. 2 ustawy zmienianej w art. 4, oraz art. 6, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 21;
+- **7)** art. 1 pkt 15 lit. b i pkt 16 lit. b ustawy zmienianej w art. 1 oraz art. 4 pkt 24 lit. a, pkt 25, 27 i 28, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 22;
+- **8)** art. 4 pkt 29 – w zakresie art. 98a ust. 2 pkt 2, ust. 3, ust. 5 pkt 1 i ust. 6 ustawy zmienianej w art. 4 oraz pkt 32 lit. b, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 14 ust. 2 ustawy zmienianej w art. 7. ” . Załącznik – Tekst jednolity ustawy z dnia 27 czerwca 1997 r. o służbie medycyny pracy
 
 **Art. 1.**
 
@@ -46,14 +64,21 @@ source: "isap-pdf"
 
 3. Zadania służby medycyny pracy realizują, w zakresie i na zasadach określonych w ustawie:
 
-- **1)** pielęgniarki wykonujące indywidualną praktykę pielęgniarską, indywidualną specjalistyczną praktykę pielęgniarską, grupową praktykę pielęgniarską, z wyłączeniem zadań, o których mowa w art. 6 ust. 1 pkt 2 lit. a–e, g i h oraz pkt 3;
+- **1)** pielęgniarki wykonujące indywidualną praktykę pielęgniarską, indywidualną specjalistyczną praktykę pielęgniarską, grupową praktykę pielęgniarską, z wyłączeniem zadań, o których mowa w art. 6 ust. 1 pkt 2 lit. a-e, g i h oraz pkt 3;
 - **2)** psycholodzy oraz osoby o kwalifikacjach, o których mowa w ust. 1, w ramach prowadzonej działalności gospodarczej.
 
-4. Zadania służby medycyny pracy realizują, w zakresie i na zasadach określonych w ustawie, także jednostki badawczo-rozwojowe i jednostki organizacyjne uczelni medycznych, prowadzące działalność w dziedzinie medycyny pracy.
+4. Zadania służby medycyny pracy realizują, w zakresie i na zasadach określonych w ustawie, także jednostki badawczo-rozwojowe  i jednostki organizacyjne uczelni medycznych, prowadzące działalność w dziedzinie medycyny pracy.
 
 **Art. 3.** Osoby realizujące zadania służby medycyny pracy przy wykonywaniu czynności zawodowych są niezależne od pracodawców, pracowników i ich przedstawicieli oraz innych podmiotów, na których zlecenie realizują zadania tej służby.
 
 **Art. 4.** Ilekroć w ustawie jest mowa o:
+
+- **1)** profilaktycznej opiece zdrowotnej – należy przez to rozumieć ogół działań zapobiegających powstawaniu i szerzeniu się niekorzystnych skutków zdrowotnych, które w sposób bezpośredni lub pośredni mają związek z warunkami albo charakterem pracy;
+- **2)** pracującym – należy przez to rozumieć osoby wymienione w art. 5 ust. 1 i 3;
+- **3)** pracodawcy – należy przez to rozumieć jednostkę organizacyjną, choćby nie posiadała osobowości prawnej, a także osobę fizyczną – jeżeli podmioty te zatrudniają pracowników – lub będący odpowiednikiem pracodawcy podmiot stosunku służbowego;
+- **4)** ryzyku zawodowym – należy przez to rozumieć możliwość wystąpienia niepożądanych, związanych z wykonywaną pracą zdarzeń powodujących straty, w szczególności niekorzystnych skutków zdrowotnych będących wynikiem zagrożeń zawodowych występujących w środowisku pracy lub związanych ze sposobem wykonywania pracy.
+- **4a)** (uchylony)
+- **5)** (uchylony)
 
 **Art. 5.**
 
@@ -89,30 +114,30 @@ source: "isap-pdf"
 
 1. Służba medycyny pracy jest właściwa do realizowania zadań z zakresu:
 
-- **1)** ograniczania szkodliwego wpływu pracy na zdrowie, w szczególności przez:
-    - **a)** współdziałanie z pracodawcą w procesach rozpoznawania i oceny czynników występujących w środowisku pracy oraz sposobów wykonywania pracy mogących mieć ujemny wpływ na zdrowie,
-    - **b)** współdziałanie z pracodawcą w procesach rozpoznawania i oceny ryzyka zawodowego w środowisku pracy oraz informowanie pracodawców i pracujących o możliwości wystąpienia niekorzystnych skutków zdrowotnych będących jego następstwem,
-    - **c)** udzielanie pracodawcom i pracującym porad w zakresie organizacji pracy, ergonomii, fizjologii i psychologii pracy;
+- **1)** ograniczania szkodliwego wpływu pracy na zdrowie, w szczególności przez: współdziałanie z pracodawcą w procesach rozpoznawania i oceny czynników występujących w środowisku pracy oraz sposobów wykonywania pracy mogących mieć ujemny wpływ na zdrowie, współdziałanie z pracodawcą w procesach rozpoznawania i oceny ryzyka zawodowego w środowisku pracy oraz informowanie pracodawców i pracujących o możliwości wystąpienia niekorzystnych skutków zdrowotnych będących jego następstwem, udzielanie pracodawcom i pracującym porad w zakresie organizacji pracy, ergonomii, fizjologii i psychologii pracy;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **2)** sprawowania profilaktycznej opieki zdrowotnej nad pracującymi, w szczególności przez:
-    - **a)** wykonywanie badań wstępnych, okresowych i kontrolnych przewidzianych w Kodeksie pracy,
-    - **b)** orzecznictwo lekarskie do celów przewidzianych w Kodeksie pracy i w przepisach wydanych na jego podstawie,
-    - **c)** ocenę możliwości wykonywania pracy lub pobierania nauki uwzględniającą stan zdrowia i zagrożenia występujące w miejscu pracy lub nauki,
-    - **d)** prowadzenie działalności konsultacyjnej, diagnostycznej i orzeczniczej w zakresie patologii zawodowej,
-    - **e)** prowadzenie czynnego poradnictwa w stosunku do chorych na choroby zawodowe lub inne choroby związane z wykonywaną pracą,
-    - **f)** wykonywanie szczepień ochronnych, o których mowa w art. 20 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2021 r. poz. 2069 i 2120 oraz z 2022 r. poz. 64),
-    - **g)** monitorowanie stanu zdrowia osób pracujących zaliczanych do grup szczególnego ryzyka, a zwłaszcza osób wykonujących pracę w warunkach przekroczenia normatywów higienicznych, młodocianych, niepełnosprawnych oraz kobiet w wieku rozrodczym i ciężarnych,
-    - **h)** wykonywanie badań umożliwiających wczesną diagnostykę chorób zawodowych i innych chorób związanych z wykonywaną pracą;
+- **2)** sprawowania profilaktycznej opieki zdrowotnej nad pracującymi, w szczególności przez: wykonywanie badań wstępnych, okresowych i kontrolnych przewidzianych w Kodeksie pracy, orzecznictwo lekarskie do celów przewidzianych w Kodeksie pracy i w przepisach wydanych na jego podstawie, ocenę możliwości wykonywania pracy lub pobierania nauki uwzględniającą stan zdrowia i zagrożenia występujące w miejscu pracy lub nauki, prowadzenie działalności konsultacyjnej, diagnostycznej i orzeczniczej w zakresie patologii zawodowej, prowadzenie czynnego poradnictwa w stosunku do chorych na choroby zawodowe lub inne choroby związane z wykonywaną pracą, wykonywanie szczepień ochronnych, o których mowa w art. 20 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2021 r. poz. 2069 i 2120 oraz z 2022 r. poz. 64), monitorowanie stanu zdrowia osób pracujących zaliczanych do grup szczególnego ryzyka, a zwłaszcza osób wykonujących pracę w warunkach przekroczenia normatywów higienicznych, młodocianych, niepełnosprawnych oraz kobiet w wieku rozrodczym i ciężarnych, wykonywanie badań umożliwiających wczesną diagnostykę chorób zawodowych i innych chorób związanych z wykonywaną pracą;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
 
 - **3)** prowadzenia ambulatoryjnej rehabilitacji leczniczej, uzasadnionej stwierdzoną patologią zawodową;
 - **4)** organizowania i udzielania pierwszej pomocy medycznej w nagłych zachorowaniach i wypadkach, które wystąpiły w miejscu pracy, służby lub pobierania nauki;
 - **5)** inicjowania i realizowania promocji zdrowia, a zwłaszcza profilaktycznych programów prozdrowotnych, wynikających z oceny stanu zdrowia pracujących;
-- **6)** inicjowania działań pracodawców na rzecz ochrony zdrowia pracowników i udzielania pomocy w ich realizacji, a w szczególności w zakresie:
-    - **a)** informowania pracowników o zasadach zmniejszania ryzyka zawodowego,
-    - **b)** wdrażania zasad profilaktyki zdrowotnej u pracowników należących do grup szczególnego ryzyka,
-    - **c)** tworzenia warunków do prowadzenia rehabilitacji zawodowej,
-    - **d)** wdrażania programów promocji zdrowia,
-    - **e)** organizowania pierwszej pomocy przedmedycznej;
+- **6)** inicjowania działań pracodawców na rzecz ochrony zdrowia pracowników i udzielania pomocy w ich realizacji, a w szczególności w zakresie: informowania pracowników o zasadach zmniejszania ryzyka zawodowego, wdrażania zasad profilaktyki zdrowotnej u pracowników należących do grup szczególnego ryzyka, tworzenia warunków do prowadzenia rehabilitacji zawodowej, wdrażania programów promocji zdrowia, organizowania pierwszej pomocy przedmedycznej;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 - **7)** prowadzenia analiz stanu zdrowia pracowników, a zwłaszcza występowania chorób zawodowych i ich przyczyn oraz przyczyn wypadków przy pracy;
 - **8)** gromadzenia, przechowywania i przetwarzania informacji o narażeniu zawodowym, ryzyku zawodowym i stanie zdrowia osób objętych profilaktyczną opieką zdrowotną.
@@ -197,9 +222,7 @@ source: "isap-pdf"
 
 2. Obowiązek prowadzenia dokumentacji medycznej obejmuje również pielęgniarkę, o której mowa w art. 2 ust. 3 pkt 1.
 
-2a. Obowiązek prowadzenia dokumentacji badań i orzeczeń psychologicznych obejmuje również psychologa, o którym mowa w art. 2 ust. 3 pkt
-
-2.
+2a. Obowiązek prowadzenia dokumentacji badań i orzeczeń psychologicznych obejmuje również psychologa, o którym mowa w art. 2 ust. 3 pkt 2.
 
 3. Dane zawarte w dokumentacji medycznej oraz dane zawarte w dokumentacji, o której mowa w ust. 2a, są objęte tajemnicą zawodową i służbową. Dane te mogą być udostępniane wyłącznie podmiotom określonym w art. 19 i art. 2 ust. 4 oraz podmiotom uprawnionym do udostępniania im dokumentacji medycznej na podstawie odrębnych przepisów i na zasadach określonych w tych przepisach.
 
@@ -217,17 +240,17 @@ source: "isap-pdf"
 - **2)** zakres opieki zdrowotnej, który w odniesieniu do pracowników powinien obejmować co najmniej te rodzaje świadczeń, do których zapewnienia zleceniodawca jest obowiązany na podstawie Kodeksu pracy, niniejszej ustawy i przepisów wydanych na ich podstawie;
 - **3)** warunki i sposób udzielania świadczeń zdrowotnych, a w szczególności: sposób rejestracji osób objętych umową, organizację udzielania świadczeń, tryb przekazywania zaświadczeń lekarskich o zdolności do pracy bądź nauki oraz sposób podania tych informacji do wiadomości zainteresowanych;
 - **4)** sposób kontrolowania przez zleceniodawcę wykonywania postanowień umowy;
-- **5)** obowiązki zleceniodawcy wobec zleceniobiorcy dotyczące:
-    - **a)** przekazywania informacji o występowaniu czynników szkodliwych dla zdrowia lub warunków uciążliwych wraz z aktualnymi wynikami badań i pomiarów tych czynników,
-    - **b)** zapewnienia udziału w komisji bezpieczeństwa i higieny pracy działającej na terenie zakładu pracy,
-    - **c)** zapewnienia możliwości przeglądu stanowisk pracy w celu dokonania oceny warunków pracy,
-    - **d)** udostępniania dokumentacji wyników kontroli warunków pracy, w części odnoszącej się do ochrony zdrowia;
+- **5)** obowiązki zleceniodawcy wobec zleceniobiorcy dotyczące: przekazywania informacji o występowaniu czynników szkodliwych dla zdrowia lub warunków uciążliwych wraz z aktualnymi wynikami badań i pomiarów tych czynników, zapewnienia udziału w komisji bezpieczeństwa i higieny pracy działającej na terenie zakładu pracy, zapewnienia możliwości przeglądu stanowisk pracy w celu dokonania oceny warunków pracy, udostępniania dokumentacji wyników kontroli warunków pracy, w części odnoszącej się do ochrony zdrowia;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **6)** wysokość należności, sposób jej ustalania, terminy płatności oraz tryb rozliczeń finansowych;
 - **7)** dopuszczalność zlecania osobom trzecim przez zleceniobiorcę niektórych obowiązków wynikających z umowy, zgodnie z art. 14;
 - **8)** okres, na który została zawarta umowa, z tym że okres ten nie może być krótszy niż rok;
 - **9)** sposób rozwiązywania umowy za wypowiedzeniem i przypadki stanowiące podstawę rozwiązywania umowy ze skutkiem natychmiastowym;
-- **10)** tryb rozstrzygania sporów związanych z realizacją i rozliczeniem finansowym umowy, zwłaszcza w przypadku uchybień stwierdzonych w trybie określonym w art. 18 ust. 2 pkt 2.
+- **10)** tryb rozstrzygania sporów związanych z realizacją i rozliczeniem finansowym umowy, zwłaszcza w przypadku uchybień stwierdzonych w trybie określonym w art. 18 ust. 2 pkt 2 .
 
 3. Realizacja zadań służby medycyny pracy, określonych w trybie art. 9 ust. 4, przez osoby, o których mowa w art. 2 ust. 3, następuje na podstawie umowy zawartej ze zleceniodawcą. Przepis ust. 2 stosuje się odpowiednio.
 
@@ -251,7 +274,20 @@ source: "isap-pdf"
 
 **Art. 17.** Do zadań wojewódzkiego ośrodka medycyny pracy należy w szczególności:
 
-**Art. 17a.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, limit badań wykonywanych do celów przewidzianych w Kodeksie pracy w ramach świadczeń zdrowotnych, o których mowa w art. 17 pkt 9, biorąc pod uwagę niezbędność ich przeprowadzania dla potrzeb szkolenia specjalizacyjnego lekarzy przez wojewódzkie ośrodki medycyny pracy.
+- **1)** udzielanie konsultacji podstawowym jednostkom służby medycyny pracy;
+- **2)** wykonywanie kontroli podstawowych jednostek służby medycyny pracy, w zakresie i w sposób określony w ustawie;
+- **3)** prowadzenie podyplomowego kształcenia z zakresu medycyny pracy, z wyjątkiem tych form, które z mocy odrębnych przepisów są zastrzeżone do kompetencji innych jednostek;
+- **4)** prowadzenie działalności diagnostycznej i orzeczniczej w zakresie chorób zawodowych;
+- **5)** rozpatrywanie odwołań od orzeczeń lekarskich wydawanych do celów przewidzianych w Kodeksie pracy;
+- **6)** współdziałanie w programowaniu i realizacji zadań z zakresu profilaktyki i promocji zdrowia;
+- **7)** udzielanie konsultacji i opiniowanie spraw dotyczących organizacji i funkcjonowania opieki zdrowotnej nad pracującymi oraz innych spraw związanych z ochroną zdrowia pracujących;
+- **8)** prowadzenie rejestrów zgłoszeń, o których mowa w art. 10;
+- **9)** udzielanie świadczeń zdrowotnych, w ilościach niezbędnych do prowadzenia specjalizacji z medycyny pracy i innych specjalizacji lekarskich, których program obejmuje odbycie staży kierunkowych w zakresie medycyny pracy – na zasadach określonych w art. 12;
+- **10)** udzielanie świadczeń zdrowotnych na zlecenie jednostek podstawowych służby medycyny pracy w zakresie i na zasadach określonych w art. 14;
+- **11)** przyjmowanie, gromadzenie, przechowywanie i przetwarzanie dokumentacji służby medycyny pracy, przekazanej w związku z likwidacją jednostek organizacyjnych tej służby;
+- **12)** gromadzenie, przechowywanie i przetwarzanie informacji zawartych w rejestrach, o których mowa w art. 10, oraz dokumentacji z kontroli jednostek podstawowych służby medycyny pracy zarejestrowanych na terenie województwa;
+- **13)** przeprowadzanie okresowych badań lekarskich realizowanych w trybie art. 229 § 5 Kodeksu pracy, w przypadku gdy podmiot, który zatrudniał pracownika, uległ likwidacji;
+- **14)** przeprowadzanie badań i wydawanie orzeczeń lekarskich określonych w odrębnych przepisach. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, limit badań wykonywanych do celów przewidzianych w Kodeksie pracy w ramach świadczeń zdrowotnych, o których mowa w art. 17 pkt 9, biorąc pod uwagę niezbędność ich przeprowadzania dla potrzeb szkolenia specjalizacyjnego lekarzy przez wojewódzkie ośrodki medycyny pracy.
 
 **Art. 18.**
 
@@ -262,19 +298,30 @@ source: "isap-pdf"
 3. W razie stwierdzenia istotnych uchybień dotyczących trybu, zakresu i jakości udzielanych świadczeń zdrowotnych lub sprawowania opieki zdrowotnej kierownik wojewódzkiego ośrodka medycyny pracy kieruje jednocześnie wniosek do:
 
 - **1)** zleceniodawcy o zastosowanie wobec zleceniobiorcy skutków przewidzianych w umowie;
-- **2)** odpowiedniego organu właściwej okręgowej izby: o samorządzie pielęgniarek i położnych (Dz. U. poz. 178, z późn. zm. ) albo o izbach lekarskich (Dz. U. poz. 158, z późn. zm. ) lub o powołanie komisji w celu oceny przygotowania zawodowego, o której mowa w art. 11 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2021 r. poz. 790, 1559 i 2232) albo [3) Regionalnego Rzecznika Odpowiedzialności Zawodowej o wszczęcie postępowania dyscyplinarnego, o którym mowa w art. 20 ustawy z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów (Dz. U. z 2019 r. poz. 1026).] <3) regionalnego rzecznika dyscyplinarnego o wszczęcie postępowania dyscyplinarnego, o którym mowa w art. 64 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz. 187).>
-    - **a)** o wszczęcie postępowania w przedmiocie odpowiedzialności zawodowej, o którym mowa w art. 38 ustawy z dnia 19 kwietnia 1991 r.
-    - **b)** o wszczęcie postępowania w przedmiocie odpowiedzialności zawodowej, o którym mowa w art. 41 ustawy z dnia 17 maja 1989 r.
+- **2)** odpowiedniego organu właściwej okręgowej izby: o wszczęcie postępowania w przedmiocie odpowiedzialności zawodowej, o którym mowa w art. 38 ustawy z dnia 19 kwietnia 1991 r. o samorządzie pielęgniarek i położnych (Dz. U. poz. 178, z późn. zm.) albo o wszczęcie postępowania w przedmiocie odpowiedzialności zawodowej, o którym mowa w art. 41 ustawy z dnia 17 maja 1989 r. o izbach lekarskich (Dz. U. poz. 158, z późn. zm.) lub o powołanie komisji w celu oceny przygotowania zawodowego, o której mowa w art. 11 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2021 r. poz. 790, 1559 i 2232) albo
+    - **a)**
+    - **b)**
+
+- **3)** Regionalnego Rzecznika Odpowiedzialności Zawodowej o wszczęcie postępowania dyscyplinarnego, o którym mowa w art. 20 ustawy z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów (Dz. U. z 2019 r. poz. 1026).
 
 **Art. 19.** Osoba wyznaczona przez kierownika wojewódzkiego ośrodka medycyny pracy, uprawniona do wykonywania kontroli, ma prawo żądać od:
+
+- **1)** kontrolowanego podmiotu – niezbędnych informacji i udostępnienia dokumentacji, z tym że dokumentacja medyczna może być udostępniona tylko osobom wykonującym odpowiedni zawód medyczny;
+- **2)** zleceniodawcy zadań służby medycyny pracy – dostępu do stanowisk pracy w celu zweryfikowania ich oceny dokonanej przez osobę będącą podstawową jednostką służby medycyny pracy, osobę zatrudnioną w podstawowej jednostce tej służby lub osobę wykonującą zadania tej służby w formach, o których mowa w art. 2 ust. 3.
 
 **Art. 20.**
 
 1. Kontrolę jakości udzielanych świadczeń zdrowotnych w wojewódzkich ośrodkach medycyny pracy oraz kontrolę realizacji zadań, o których mowa w art. 17, przeprowadzają, na zlecenie ministra właściwego do spraw zdrowia, jednostki, o których mowa w art. 2 ust. 4.
 
-2. Przepisy ust. 1 oraz art. 18 i 19 nie naruszają przepisów o kontroli wykonywanej na podstawie przepisów o działalności leczniczej oraz przepisów o wykonywaniu zawodu lekarza lub przepisów o wykonywaniu zawodu pielęgniarki i położnej.
+2. Przepisy ust. 1 oraz art. 18 i 19 nie naruszają przepisów o kontroli wykonywanej na podstawie przepisów o działalności leczniczej oraz przepisów o wykonywaniu zawodu lekarza lub przepisów o wykonywaniu zawodu pielęgniarki i położnej. Jednostki, o których mowa w art. 2 ust. 4:
 
-**Art. 20a.** Jednostki, o których mowa w art. 2 ust. 4:
+- **1)** w zakresie zadań służby medycyny pracy, o których mowa w art. 6 ust. 1 pkt 2 lit. b-d: uczestniczą w orzekaniu w sprawach chorób zawodowych w zakresie uregulowanym w odrębnych przepisach, orzekają dla celów przewidzianych w Kodeksie pracy w przypadkach zakwestionowania treści orzeczenia lekarskiego wydanego przez lekarza zatrudnionego w wojewódzkim ośrodku medycyny pracy;
+    - **a)**
+    - **b)**
+
+- **2)** prowadzą, na podstawie odrębnych przepisów, kształcenie przeddyplomowe i podyplomowe w zakresie medycyny pracy, bezpieczeństwa i higieny pracy, ergonomii i psychologii pracy;
+- **3)** inicjują, opracowują i prowadzą, w tym również na zlecenie ministra właściwego do spraw zdrowia, programy prewencji zagrożeń zdrowia wynikających z wpływu niekorzystnych warunków środowiska pracy i sposobu wykonywania pracy, w szczególności ujawnianych w drodze badań epidemiologicznych;
+- **4)** wspomagają jednostki organizacyjne służby medycyny pracy działalnością konsultacyjną w zakresie medycyny pracy, bezpieczeństwa i higieny pracy, ergonomii i psychologii pracy oraz wykonują ekspertyzy, zwłaszcza w sytuacji wystąpienia nowych problemów dotyczących zdrowia pracujących.
 
 **Art. 21.**
 
@@ -289,17 +336,20 @@ source: "isap-pdf"
 
 2. Z części budżetu państwa, której dysponentem jest minister właściwy do spraw zdrowia, mogą być finansowane w całości lub w części programy prewencji zagrożeń zdrowia, o których mowa w art. 20a pkt 3.
 
-3. Profilaktyczna opieka zdrowotna sprawowana w odniesieniu do osób świadczących pracę w czasie odbywania kary pozbawienia wolności w zakładach karnych, przebywania w aresztach śledczych lub wykonujących pracę w ramach kary ograniczenia wolności, jeżeli obowiązek objęcia profilaktyką nie spoczywa na pracodawcy, jest finansowana z budżetu państwa z części, której dysponentem jest Minister Sprawiedliwości.
-
-**Art. 21a.** Pełnoletni kandydaci na kwalifikacyjne kursy zawodowe oraz pełnoletni słuchacze kwalifikacyjnych kursów zawodowych ponoszą koszty przeprowadzonych badań oceny możliwości pobierania nauki uwzględniającej stan zdrowia i zagrożenia występujące w miejscu nauki.
+3. Profilaktyczna opieka zdrowotna sprawowana w odniesieniu do osób świadczących pracę w czasie odbywania kary pozbawienia wolności w zakładach karnych, przebywania w aresztach śledczych lub wykonujących pracę w ramach kary ograniczenia wolności, jeżeli obowiązek objęcia profilaktyką nie spoczywa na pracodawcy, jest finansowana z budżetu państwa z części, której dysponentem jest Minister Sprawiedliwości. Pełnoletni kandydaci na kwalifikacyjne kursy zawodowe oraz pełnoletni słuchacze kwalifikacyjnych kursów zawodowych ponoszą koszty przeprowadzonych badań oceny możliwości pobierania nauki uwzględniającej stan zdrowia i zagrożenia występujące w miejscu nauki.
 
 **Art. 22.** Pracodawcy:
 
-**Art. 22a.** (uchylony)
+- **1)** ponoszą koszty przeprowadzanych badań wstępnych, okresowych i kontrolnych oraz profilaktycznej opieki zdrowotnej niezbędnej ze względu na warunki pracy, na zasadach określonych w Kodeksie pracy oraz przepisach wydanych na jego podstawie;
+- **2)** finansują wybrane przez siebie świadczenia zdrowotne z zakresu profilaktycznej opieki zdrowotnej, należące do zadań służby medycyny pracy określonych w art. 6 ust. 1. (uchylony)
 
 **Art. 23.** Ze środków własnych finansują profilaktyczną opiekę zdrowotną sprawowaną przez służbę medycyny pracy:
 
-**Art. 24.** Do jednostek organizacyjnych służby medycyny pracy będących zakładami opieki zdrowotnej , w zakresie nieuregulowanym w ustawie, stosuje się przepisy ustawy o zakładach opieki zdrowotnej .
+- **1)** osoby prowadzące działalność gospodarczą na własny rachunek i osoby z nimi współpracujące;
+- **2)** rolnicy indywidualni i pracujący z nimi domownicy oraz członkowie spółdzielni produkcji rolnej, z wyjątkiem orzecznictwa dotyczącego rolniczych chorób zawodowych, którego finansowanie następuje na zasadach określonych w przepisach o ubezpieczeniu społecznym rolników;
+- **3)** byli pracownicy oraz osoby, które wykonywały pracę na innej podstawie niż stosunek pracy, lub osoby, które pozostawały w stosunku służbowym, o ile w odrębnych przepisach nie wskazano innego sposobu finansowania.
+
+**Art. 24.** Do jednostek organizacyjnych służby medycyny pracy będących zakładami opieki zdrowotnej , w zakresie nieuregulowanym w ustawie, stosuje się przepisy ustawy o zakładach opieki zdrowotnej.
 
 **Art. 25.** (pominięty)
 
@@ -313,11 +363,14 @@ source: "isap-pdf"
 
 - **1)** szczegółowy sposób, tryb tworzenia i organizacji służb wykonujących zadania odpowiednie do zadań służby medycyny pracy,
 - **2)** kwalifikacje zawodowe pracowników realizujących te zadania,
-- **3)** szczegółowy sposób i tryb kontroli tych służb – biorąc pod uwagę zadania służby medycyny pracy.
+- **3)** szczegółowy sposób i tryb kontroli tych służb biorąc pod uwagę zadania służby medycyny pracy.
 
 **Art. 28.** Ustawa nie narusza przepisów o orzecznictwie lekarskim, a w szczególności przepisów o orzecznictwie w sprawie niezdolności do pracy, warunkującej prawo do świadczeń z ubezpieczenia społecznego i z ubezpieczenia społecznego rolników, oraz o orzecznictwie, o których mowa w przepisach o zatrudnieniu i rehabilitacji zawodowej osób niepełnosprawnych.
 
 **Art. 29.** Traci moc ustawa z dnia 15 grudnia 1951 r. o włączeniu organizacji lecznictwa pracowniczego do państwowej administracji służby zdrowia (Dz. U. poz. 466).
 
 **Art. 30.** Ustawa wchodzi w życie z dniem 1 stycznia 1998 r.
+
+- **1)** Obecnie instytuty badawcze na podstawie art. 49 ustawy z dnia 30 kwietnia 2010 r. – Przepisy wprowadzające ustawy reformujące system nauki (Dz. U. poz. 620), która weszła w życie z dniem 1 października 2010 r. 2) Dodany przez art. 3 ustawy z dnia 14 października 2021 r. o zmianie ustawy o transporcie drogowym oraz niektórych innych ustaw (Dz. U. poz. 1997), która weszła w życie z dniem 5 grudnia 2021 r. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. poz. 110 i 410, z 1998 r. poz. 668, z 2000 r. poz. 1268, z 2002 r. poz. 559, 1271 i 2052, z 2004 r. poz. 885, z 2007 r. poz. 1237, z 2010 r. poz. 1326 oraz z 2011 r. poz. 654, 657, 1016 i 1038. 4) Ustawa utraciła moc z dniem 1 stycznia 2012 r. na podstawie art. 99 ustawy z dnia 1 lipca 2011 r. o samorządzie pielęgniarek i położnych (Dz. U. poz. 1038), która weszła w życie z dniem 1 stycznia 2012 r. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1990 r. poz. 120, z 1996 r. poz. 496, z 1997 r. poz. 152, z 1998 r. poz. 668, z 2001 r. poz. 1383, z 2002 r. poz. 1271 i 2052, z 2004 r. poz. 885 oraz z 2007 r. poz. 1238. 6) Ustawa utraciła moc z dniem 1 stycznia 2010 r. na podstawie art. 122 ustawy z dnia 2 grudnia 2009 r. o izbach lekarskich (Dz. U. poz. 1708), która weszła w życie z dniem 1 stycznia 2010 r. 7) Z dniem 9 lutego 2008 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 25 lipca 2006 r. sygn. akt K 30/04 (Dz. U. poz. 1011). 8) Obecnie przedsiębiorstwo podmiotu leczniczego na podstawie art. 218 ust. 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2021 r. poz. 711, 1773 i 2120), która weszła w życie z dniem 1 lipca 2011 r. 9) Ustawa utraciła moc z dniem 1 lipca 2011 r. na podstawie art. 220 pkt 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. poz. 654), która weszła w życie z dniem 1 lipca 2011 r.
+
 

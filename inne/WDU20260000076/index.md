@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Karcie Polaka
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 stycznia 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 stycznia 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-01-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000076) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/76/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 stycznia 2026 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o Karcie Polaka
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 września 2007 r. o Karcie Polaka (Dz. U. z 2023 r. poz. 192), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621) oraz zmian wynikających z przepisów ogłoszonych przed dniem 13 stycznia 2026 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 114 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U.
 poz. 621), który stanowi: „Art. 114. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia.”.
@@ -286,6 +286,13 @@ Art. 25–29. (pominięte)
 
 **Art. 19.** Konsul lub w przypadku, o którym mowa w art. 12 ust. 4 wojewoda, wydaje decyzję o odmowie przyznania Karty Polaka w przypadku, gdy:
 
+- **1)** wnioskodawca nie spełnia warunków określonych w art. 2, z zastrzeżeniem art. 13 ust. 6;
+- **2)** w postępowaniu o przyznanie Karty Polaka wnioskodawca złożył wniosek lub dołączył do niego dokumenty zawierające nieprawdziwe dane osobowe lub fałszywe informacje, jak również gdy oświadczył nieprawdę lub zataił prawdę albo, w celu użycia jako autentycznego, podrobił lub przerobił dokument albo takiego dokumentu jako autentycznego użył;
+- **3)** wnioskodawca lub jego wstępni repatriowali się lub zostali repatriowani z terytorium Rzeczypospolitej Polskiej albo Polskiej Rzeczypospolitej Ludowej, na podstawie umów repatriacyjnych zawartych w latach 1944–1957 przez Rzeczpospolitą Polską albo przez Polską Rzeczpospolitą Ludową z Białoruską Socjalistyczną Republiką Radziecką, Ukraińską Socjalistyczną Republiką Radziecką, Litewską Socjalistyczną Republiką Radziecką i Związkiem Socjalistycznych Republik Radzieckich, do jednego z państw będących stroną tych umów;
+- **4)** wnioskodawca nabył obywatelstwo polskie albo uzyskał zezwolenie na pobyt stały na terytorium Rzeczypospolitej Polskiej;
+- **5)** przemawiają za tym względy obronności, bezpieczeństwa albo ochrony porządku publicznego Rzeczypospolitej Polskiej;
+- **6)** wnioskodawca działał lub działa na szkodę Rzeczypospolitej Polskiej, a zwłaszcza jej niepodległości i suwerenności, lub uczestniczył lub uczestniczy w łamaniu praw człowieka.
+
 **Art. 19a.**
 
 1. Po wprowadzeniu przez właściwego konsula lub w przypadku, o którym mowa w art. 12 ust. 4 wojewodę, wniosku o przyznanie Karty Polaka lub przedłużenie jej ważności do rejestru, o którym mowa w art. 23 ust. 1, Szef Agencji Bezpieczeństwa Wewnętrznego przedstawia informację, czy wobec wnioskodawcy zachodzą okoliczności, o których mowa w art. 19 pkt 5 lub 6.
@@ -321,6 +328,9 @@ Art. 25–29. (pominięte)
 2. Odwołanie wnosi się za pośrednictwem konsula, a w przypadku, o którym mowa w art. 12 ust. 4 wojewody, w terminie 30 dni od dnia doręczenia decyzji.
 
 **Art. 22.** Minister właściwy do spraw zagranicznych określi, w drodze rozporządzenia:
+
+- **1)** wzór wniosku o przyznanie Karty Polaka lub przedłużenie jej ważności,
+- **2)** wzór Karty Polaka uwzględniając dane, które muszą być zawarte we wniosku oraz dane i informacje, jakie powinny być zawarte w Karcie Polaka, a także biorąc pod uwagę, że zapisu imienia i nazwiska w Karcie Polaka dokonuje się zgodnie z dokumentem tożsamości wnioskodawcy, chyba że we wniosku wnioskodawca oświadczy, że chce aby te dane były zapisane również w języku polskim.
 
 #### Rozdział 5 Rejestry i ewidencje
 
@@ -397,6 +407,11 @@ Art. 25–29. (pominięte)
 5. Minister właściwy do spraw wewnętrznych ogłasza w Biuletynie Informacji Publicznej informację o poziomie wykorzystania kwoty zaplanowanej w ustawie budżetowej na wypłatę świadczeń pieniężnych według stanu na koniec każdego miesiąca.
 
 **Art. 24d.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+
+- **1)** szczegółowy tryb podziału rezerwy celowej na wypłatę świadczeń pieniężnych oraz przekazywania środków na pokrycie wydatków związanych z udzielaniem tych świadczeń,
+- **2)** termin składania wniosków o dotacje, o których mowa w art. 24b ust. 2,
+- **3)** wzór wniosku o udzielenie dotacji, o którym mowa w art. 24b ust. 2,
+- **4)** termin przekazywania informacji, o których mowa w art. 24c ust. 3 i 4 uwzględniając konieczność efektywnego wykorzystania środków rezerwy celowej oraz rozliczania przez jednostki samorządu terytorialnego otrzymanych w formie dotacji środków budżetowych.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących i przepisy końcowe
 

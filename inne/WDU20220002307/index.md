@@ -8,10 +8,10 @@ pos: 2307
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 listopada 2022 r.
+# Rozporządzenie Ministra Finansówz dnia 9 listopada 2022 r. w sprawie upoważnienia Naczelnika Dolnośląskiego Urzędu Celno-Skarbowego we Wrocławiu do wykonywania niektórych zadań w zakresie przeciwdziałania wspieraniu agresji na Ukrainę
 
 | Pole | Wartość |
 |---|---|
@@ -22,16 +22,24 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-09 |
 | Data wydania | 2022-11-14 |
+| Wejście w życie | 2022-11-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002307) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2307/text.pdf) |
 
-Poz. 2307 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 9 listopada 2022 r.
-w sprawie upoważnienia Naczelnika Dolnośląskiego Urzędu Celno-Skarbowego we Wrocławiu do wykonywania niektórych zadań w zakresie przeciwdziałania wspieraniu agresji na Ukrainę Na podstawie art. 11b ust. 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r.
-poz. 813, z późn. zm. ) zarządza się, co następuje: § 1. 1. Upoważnia się Naczelnika Dolnośląskiego Urzędu Celno-Skarbowego we Wrocławiu do wykonywania zadań i kompetencji Szefa Krajowej Administracji Skarbowej, o których mowa w:
-1) art. 143a ust. 1 i 3 oraz art. 143b pkt 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej;
-2) art. 5 ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego (Dz. U. poz. 835 i 1713).
-2. Upoważnienie, o którym mowa w ust. 1, obejmuje całe terytorium Rzeczypospolitej Polskiej.
-§ 2. Do spraw, o których mowa w § 1, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy niniejszego rozporządzenia.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów: M. Rzeczkowska
+Treść rozporządzenia
+Na podstawie art. 11b ust. 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r. poz. 813, z późn. zm.) zarządza się, co następuje:
+§ 1.
+1.
+Upoważnia się Naczelnika Dolnośląskiego Urzędu Celno-Skarbowego we Wrocławiu do wykonywania zadań i kompetencji Szefa Krajowej Administracji Skarbowej, o których mowa w:
+1)
+art. 143a ust. 1 i 3 oraz art. 143b pkt 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej;
+2)
+art. 5 ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego (Dz. U. poz. 835 i 1713).
+2.
+Upoważnienie, o którym mowa w ust. 1, obejmuje całe terytorium Rzeczypospolitej Polskiej.
+§ 2.
+Do spraw, o których mowa w § 1, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy niniejszego rozporządzenia.
+§ 3.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 835, 1079, 1301, 1488, 1713, 1730, 1933 i 2015.
 

@@ -1,0 +1,619 @@
+---
+title: Ustawa z dnia 29 października 2003 r. o zmianie ustawy o Policji
+address: WDU20031921873
+eli: DU/2003/1873
+publisher: DU
+year: 2003
+pos: 1873
+act_type: Ustawa
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Ustawa z dnia 29 października 2003 r. o zmianie ustawy o Policji
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2003 nr 192 poz. 1873 |
+| ISAP | WDU20031921873 |
+| Typ aktu | Ustawa |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2003-10-29 |
+| Data wydania | 2003-11-14 |
+| Wejście w życie | 2003-11-29 |
+| Ostatnia zmiana | 2024-03-15 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031921873) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1873/text.pdf) |
+
+**Art. 1.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2002 r. Nr 7, poz. 58, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 7 w ust. 1 w pkt 6 kropkę zastępuje się przecinkiem i dodaje pkt 7 w brzmieniu: „
+- **7)** zasady etyki zawodowej policjantów, po zasięgnięciu opinii związku zawodowego policjantów. ” ;
+- **2)** w art. 13: ust. 3 otrzymuje brzmienie: „
+    - **a)**
+
+3. Jednostki samorządu terytorialnego, państwowe jednostki organizacyjne, stowarzyszenia, fundacje, banki oraz instytucje ubezpieczeniowe mogą uczestniczyć w pokrywaniu wydatków inwestycyjnych, modernizacyjnych lub remontowych oraz kosztów utrzymania i funkcjonowania jednostek organizacyjnych Policji, a także zakupu niezbędnych dla ich potrzeb towarów i usług. Gospodarkę przeznaczonymi na te cele środkami finansowymi prowadzi się w Policji w ramach wyodrębnionego środka specjalnego. ” , ust. 4 otrzymuje brzmienie: „
+
+- **b)**
+
+4. Na wniosek rady powiatu lub rady gminy liczba etatów Policji w rewirach dzielnicowych i posterunkach Policji na terenie powiatu lub gminy może ulec zwiększeniu ponad liczbę ustaloną na zasadach określonych w art. 12 ust. 2, jeżeli organy te zapewnią pokrywanie kosztów utrzymania etatów Policji przez okres co najmniej 5 lat, na warunkach określonych w porozumieniu zawartym między organem powiatu lub gminy a właściwym komendantem wojewódzkim Policji i zatwierdzonym przez Komendanta Głównego Policji. ” ;
+
+- **3)** w art. 13a ust. 1 otrzymuje brzmienie: „
+
+1. Środki finansowe w wysokości 20% wpływów uzyskanych przez Skarb Państwa tytułem przepadku rzeczy pochodzących z ujawnionych przez Policję przestępstw przeciwko mieniu, gospodarczych i skarbowych przeznacza się na usprawnienie funkcjonowania Policji i nagrody dla policjantów, którzy przyczynili się bezpośrednio do ujawnienia tych przestępstw. Gospodarkę tymi środkami prowadzi się w Policji w ramach wyodrębnionego środka specjalnego. ” ;
+
+- **4)** w art. 39 ust. 1 i 2 otrzymują brzmienie: „
+
+1. Policjanta zawiesza się w czynnościach służbowych w razie wszczęcia przeciwko niemu postępowania karnego w sprawie o przestępstwo lub przestępstwo skarbowe, umyślne, ścigane z oskarżenia publicznego – na czas nie dłuższy niż 3 miesiące.
+
+2. Policjanta można zawiesić w czynnościach służbowych w razie wszczęcia przeciwko niemu postępowania karnego w sprawie o przestępstwo lub przestępstwo skarbowe, nieumyślne, ścigane z oskarżenia publicznego lub postępowania dyscyplinarnego, jeżeli jest to celowe z uwagi na dobro postępowania lub dobro służby – na czas nie dłuższy niż 3 miesiące. ” ;
+
+- **5)** w art. 41: w ust. 1: – pkt 4 otrzymuje brzmienie: „ 4) skazania prawomocnym wyrokiem sądu za przestępstwo lub przestępstwo skarbowe, umyślne, ścigane z oskarżenia publicznego, ” , – po pkt 4 dodaje się pkt 4a w brzmieniu: „ 4a) wymierzenia przez sąd prawomocnym orzeczeniem środka karnego w postaci zakazu wykonywania zawodu policjanta, ” , w ust. 2: – pkt 2 otrzymuje brzmienie: „ 2) skazania prawomocnym wyrokiem sądu za przestępstwo lub przestępstwo skarbowe inne niż określone w ust. 1 pkt 4, ” , – w pkt 7 kropkę zastępuje się przecinkiem i dodaje pkt 8 w brzmieniu: „ 8) popełnienia czynu o znamionach przestępstwa albo przestępstwa skarbowego, jeżeli popełnienie czynu jest oczywiste i uniemożliwia jego pozostanie w służbie. ” , uchyla się ust. 3a i 3b;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **6)** w art. 42 po ust. 6 dodaje się ust. 7 w brzmieniu: „
+
+7. Przepisy ust. 1–6 stosuje się także do policjanta zwolnionego ze służby na podstawie art. 41 ust. 2 pkt 8, jeżeli postępowanie karne zostało zakończone prawomocnym wyrokiem uniewinniającym bądź orzeczeniem o umorzeniu postępowania z powodu niepopełnienia przestępstwa albo przestępstwa skarbowego lub braku ustawowych znamion czynu zabronionego. ” ;
+
+- **7)** w art. 43 ust. 3 otrzymuje brzmienie: „
+
+3. Zwolnienie policjanta ze służby na podstawie art. 41 ust. 2 pkt 5 i 8 może nastąpić po zasięgnięciu opinii organizacji zakładowej związku zawodowego policjantów. ” ;
+
+- **8)** w art. 67: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Policjanci mogą zrzeszać się w związku zawodowym policjantów. ” , ust. 3 otrzymuje brzmienie: „
+
+- **b)**
+
+3. Szczegółowe zasady współdziałania związku zawodowego policjantów z ministrem właściwym do spraw wewnętrznych i Komendantem Głównym Policji określi statut tego związku, zarejestrowany w sądzie. ” ;
+
+- **9)** art. 87 otrzymuje brzmienie: „
+
+**Art. 87.**
+
+1. Policjantowi, który wzorowo wykonuje obowiązki, przejawia inicjatywę w służbie i doskonali kwalifikacje zawodowe, mogą być udzielane wyróżnienia:
+
+- **1)** pochwała,
+- **2)** krótkoterminowy dodatkowy urlop wypoczynkowy w wymiarze do 10 dni roboczych,
+- **3)** przyznanie odznaki resortowej,
+- **4)** przedterminowe mianowanie na wyższy stopień policyjny.
+
+2. Wyróżnienia udziela policjantowi uprawniony przełożony, o którym mowa w art. 32 ust. 1.
+
+3. Wyróżnienia nie udziela się policjantowi:
+
+- **1)** ukaranemu karą dyscyplinarną, przed jej zatarciem,
+- **2)** skazanemu wyrokiem sądu lub w stosunku do którego postępowanie karne zostało warunkowo umorzone, przez okres roku od dnia uprawomocnienia się orzeczenia.
+
+4. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółowy tryb postępowania przy udzielaniu wyróżnień policjantom, uwzględniając zakres uprawnień przełożonych do udzielania wyróżnień oraz formę udzielania wyróżnień. ” ;
+
+- **10)** w art. 110: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Policjantowi mogą być przyznawane nagrody roczne, nagrody uznaniowe w formie pieniężnej lub rzeczowej i zapomogi. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+- **b)**
+
+1a. Nagrody uznaniowe przyznaje przełożony, o którym mowa w art. 32 ust. 1. ” ;
+
+- **11)** w art. 114 ust. 3 otrzymuje brzmienie: „
+
+3. Policjant zwalniany ze służby na podstawie art. 41 ust. 1 pkt 3 i 4a oraz ust. 2 pkt 8 otrzymuje 50% odprawy oraz ekwiwalent pieniężny za urlopy wypoczynkowe lub dodatkowe niewykorzystane w latach poprzedzających rok zwolnienia ze służby. ” ;
+
+- **12)** art. 129 otrzymuje brzmienie: „
+
+**Art. 129.** Uprawnienia przewidziane w art. 12, art. 101 ust. 2, art. 102, art. 104 ust. 6, art. 105 ust. 3, art. 110 ust. 1, art. 112 ust. 1, art. 113 i art. 120 ust. 2 minister właściwy do spraw wewnętrznych wykonuje po zasięgnięciu opinii związku zawodowego policjantów. ” ;
+
+- **13)** art. 132 otrzymuje brzmienie: „
+
+**Art. 132.**
+
+1. Policjant odpowiada dyscyplinarnie za popełnienie przewinienia dyscyplinarnego polegającego na naruszeniu dyscypliny służbowej lub nieprzestrzeganiu zasad etyki zawodowej.
+
+2. Naruszenie dyscypliny służbowej stanowi czyn policjanta polegający na zawinionym przekroczeniu uprawnień lub niewykonaniu obowiązków wynikających z przepisów prawa lub rozkazów i poleceń wydanych przez przełożonych uprawnionych na podstawie tych przepisów.
+
+3. Naruszeniem dyscypliny służbowej jest w szczególności:
+
+- **1)** odmowa wykonania albo niewykonanie rozkazu lub polecenia przełożonego, względnie organu uprawnionego na podstawie ustawy do wydawania poleceń policjantom, z wyłączeniem rozkazów i poleceń, o których mowa w art. 58 ust. 2,
+- **2)** zaniechanie czynności służbowej albo wykonanie jej w sposób nieprawidłowy,
+- **3)** niedopełnienie obowiązków służbowych albo przekroczenie uprawnień określonych w przepisach prawa,
+- **4)** wprowadzenie w błąd przełożonego lub innego policjanta, jeżeli spowodowało to lub mogło spowodować szkodę służbie, policjantowi lub innej osobie,
+- **5)** postępowanie przełożonego w sposób przyczyniający się do rozluźnienia dyscypliny służbowej w podległej jednostce organizacyjnej lub komórce organizacyjnej Policji,
+- **6)** stawienie się do służby w stanie po użyciu alkoholu lub podobnie działającego środka oraz spożywanie alkoholu lub podobnie działającego środka w czasie służby albo w obiektach lub na terenach zajmowanych przez Policję,
+- **7)** utrata służbowej broni palnej, amunicji lub legitymacji służbowej,
+- **8)** utrata przedmiotu stanowiącego wyposażenie służbowe, którego wykorzystanie przez osoby nieuprawnione wyrządziło szkodę obywatelowi lub stworzyło zagrożenie dla porządku publicznego lub bezpieczeństwa powszechnego,
+- **9)** utrata dokumentu zawierającego informacje stanowiące tajemnicę państwową lub służbową.
+
+4. Czyn stanowiący przewinienie dyscyplinarne, wypełniający jednocześnie znamiona przestępstwa lub wykroczenia albo przestępstwa skarbowego lub wykroczenia skarbowego, podlega odpowiedzialności dyscyplinarnej niezależnie od odpowiedzialności karnej. ” ;
+
+- **14)** po art. 132 dodaje się art. 132a i 132b w brzmieniu: „ Przewinienie dyscyplinarne jest zawinione wtedy, gdy policjant:
+- **1)** ma zamiar jego popełnienia, to jest chce je popełnić albo przewidując możliwość jego popełnienia, na to się godzi,
+- **2)** nie mając zamiaru jego popełnienia, popełnia je jednak na skutek niezachowania ostrożności wymaganej w danych okolicznościach, mimo że możliwość taką przewidywał albo mógł i powinien przewidzieć.
+
+1. Policjant odpowiada dyscyplinarnie, jeżeli popełnia przewinienie dyscyplinarne sam albo wspólnie lub w porozumieniu z inną osobą, a także w przypadku, gdy kieruje popełnieniem przez innego policjanta przewinienia dyscyplinarnego.
+
+2. Policjant odpowiada dyscyplinarnie także w przypadku, gdy nakłania innego policjanta do popełnienia przewinienia dyscyplinarnego albo ułatwia jego popełnienie.
+
+3. Każdy z policjantów, o których mowa w ust. 1 i 2, odpowiada w granicach swojej winy, niezależnie od odpowiedzialności pozostałych osób. ” ;
+
+- **15)** art. 133 otrzymuje brzmienie: „
+
+**Art. 133.**
+
+1. Przełożonym dyscyplinarnym jest przełożony, o którym mowa w art. 32 ust. 1, z zastrzeżeniem ust. 2 i 3. Taką samą władzę dyscyplinarną posiada policjant, któremu powierzono pełnienie obowiązków na stanowisku służbowym, o którym mowa w art. 32 ust. 1.
+
+2. Przełożonym dyscyplinarnym policjanta delegowanego do czasowego pełnienia służby lub któremu powierzono pełnienie obowiązków służbowych albo którego skierowano na szkolenie zawodowe, studia w Wyższej Szkole Policji lub kurs doskonalenia zawodowego w szkole policyjnej lub ośrodku szkolenia Policji jest przełożony dyscyplinarny w miejscu pełnienia służby, odbywania szkolenia lub nauki, z wyłączeniem możliwości orzekania kar określonych w art. 134 pkt 3–6, które wymierza przełożony, o którym mowa w art. 32 ust. 1.
+
+3. Przełożonym dyscyplinarnym policjanta delegowanego do pełnienia służby poza granicami państwa jest dowódca kontyngentu policyjnego, w którym policjant pełni służbę, z wyłączeniem możliwości orzekania kar określonych w art. 134 pkt 3–6, które wymierza przełożony, o którym mowa w art. 32 ust. 1.
+
+4. W przypadku przeniesienia policjanta do pełnienia służby w innej jednostce organizacyjnej Policji i związanej z tym zmiany właściwości przełożonego dyscyplinarnego, postępowanie dyscyplinarne wszczęte wobec policjanta przejmuje i orzeka w pierwszej instancji nowy przełożony dyscyplinarny.
+
+5. Policjant oddelegowany do pełnienia zadań służbowych poza Policją podlega władzy dyscyplinarnej przełożonego, o którym mowa w art. 32 ust. 1.
+
+6. Przełożony dyscyplinarny może w formie pisemnej upoważnić swoich zastępców lub innych policjantów z kierowanej przez niego jednostki organizacyjnej Policji do załatwiania spraw dyscyplinarnych w jego imieniu w ustalonym zakresie.
+
+7. Wątpliwości w zakresie ustalenia właściwości przełożonego w sprawach dyscyplinarnych rozstrzyga wyższy przełożony dyscyplinarny w drodze postanowienia.
+
+8. Wyższymi przełożonymi dyscyplinarnymi w postępowaniu dyscyplinarnym są:
+
+- **1)** komendant wojewódzki Policji – w stosunku do komendanta powiatowego (miejskiego) Policji,
+- **2)** Komendant Stołeczny Policji – w stosunku do komendanta powiatowego (miejskiego) i rejonowego Policji,
+- **3)** Komendant Główny Policji – w stosunku do komendanta wojewódzkiego Policji, Komendanta Stołecznego Policji, komendanta szkoły policyjnej i dowódcy kontyngentu policyjnego. ” ;
+- **16)** art. 134 otrzymuje brzmienie: „
+
+**Art. 134.** Karami dyscyplinarnymi są:
+
+- **1)** nagana,
+- **2)** zakaz opuszczania wyznaczonego miejsca przebywania,
+- **3)** ostrzeżenie o niepełnej przydatności do służby na zajmowanym stanowisku,
+- **4)** wyznaczenie na niższe stanowisko służbowe,
+- **5)** obniżenie stopnia,
+- **6)** wydalenie ze służby. ” ;
+- **17)** po art. 134 dodaje się art. 134a-134i w brzmieniu: „ Kara nagany oznacza wytknięcie ukaranemu przez przełożonego dyscyplinarnego niewłaściwego postępowania.
+
+1. Kara zakazu opuszczania wyznaczonego miejsca przebywania oznacza zakaz opuszczania wyznaczonego miejsca przebywania przez ukaranego pełniącego służbę w systemie skoszarowanym. Karę wymierza się na okres od 3 do 14 dni.
+
+2. W czasie odbywania kary zakazu opuszczania wyznaczonego miejsca przebywania ukarany jest obowiązany:
+
+- **1)** w czasie wolnym od zajęć służbowych przebywać w jednostce organizacyjnej Policji, w której pełni służbę, lub innym miejscu wyznaczonym przez przełożonego,
+- **2)** zgłaszać się do przełożonego lub innego wskazanego policjanta w określonych odstępach czasu, nie częściej jednak niż cztery razy na dobę. Kara ostrzeżenia o niepełnej przydatności na zajmowanym stanowisku oznacza wytknięcie ukaranemu niewłaściwego postępowania i uprzedzenie go, że jeżeli ponownie popełni przewinienie dyscyplinarne, może zostać wyznaczony na niższe stanowisko służbowe w trybie dyscyplinarnym lub ukarany surowszą karą dyscyplinarną.
+
+1. Kara wyznaczenia na niższe stanowisko służbowe oznacza odwołanie lub zwolnienie z dotychczas zajmowanego stanowiska służbowego i powołanie lub mianowanie na stanowisko służbowe niższe od dotychczas zajmowanego. Wymierzenie kary wyznaczenia na niższe stanowisko służbowe powoduje utratę uprawnień, o których mowa w art. 6e ust. 3 i art. 103 ust. 2.
+
+2. Przed zatarciem kary wyznaczenia na niższe stanowisko służbowe policjanta nie można powołać lub mianować na wyższe stanowisko służbowe.
+
+1. Kara obniżenia stopnia oznacza obniżenie posiadanego stopnia policyjnego.
+
+2. Karę obniżenia stopnia można wymierzyć tylko obok kary wyznaczenia na niższe stanowisko służbowe lub kary wydalenia ze służby. Kara wydalenia ze służby oznacza zwolnienie ze służby w Policji.
+
+1. Za popełnione przewinienie dyscyplinarne można wymierzyć tylko jedną karę dyscyplinarną.
+
+2. Za popełnienie kilku przewinień dyscyplinarnych można wymierzyć jedną karę dyscyplinarną, odpowiednio surowszą.
+
+3. Przepisy ust. 1 i 2 stosuje się z zastrzeżeniem art. 134e ust. 2.
+
+1. Wymierzona kara powinna być współmierna do popełnionego przewinienia dyscyplinarnego i stopnia zawinienia, w szczególności powinna uwzględniać okoliczności popełnienia przewinienia dyscyplinarnego, jego skutki, w tym następstwa dla służby, rodzaj i stopień naruszenia ciążących na obwinionym obowiązków, pobudki działania, zachowanie obwinionego przed popełnieniem przewinienia dyscyplinarnego i po jego popełnieniu oraz dotychczasowy przebieg służby.
+
+2. Na zaostrzenie wymiaru kary mają wpływ następujące okoliczności popełnienia przewinienia dyscyplinarnego:
+
+- **1)** działanie z motywacji zasługującej na szczególne potępienie albo w stanie po użyciu alkoholu lub innego podobnie działającego środka,
+- **2)** popełnienie przewinienia dyscyplinarnego przez policjanta przed zatarciem wymierzonej mu kary dyscyplinarnej,
+- **3)** poważne skutki przewinienia dyscyplinarnego, zwłaszcza istotne zakłócenie realizacji zadań Policji lub naruszenia dobrego imienia Policji,
+- **4)** działanie w obecności podwładnego, wspólnie z nim lub na jego szkodę.
+
+3. Na złagodzenie wymiaru kary mają wpływ następujące okoliczności popełnienia przewinienia dyscyplinarnego:
+
+- **1)** nieumyślność jego popełnienia,
+- **2)** podjęcie przez policjanta starań o zmniejszenie jego skutków.
+- **3)** brak należytego doświadczenia zawodowego lub dostatecznych umiejętności zawodowych,
+- **4)** dobrowolne poinformowanie przełożonego dyscyplinarnego o popełnieniu przewinienia dyscyplinarnego przed wszczęciem postępowania dyscyplinarnego.
+
+4. Przełożony dyscyplinarny uwzględnia okoliczności, o których mowa w ust. 1–3, wyłącznie w stosunku do policjanta, którego one dotyczą.
+
+1. Przełożony dyscyplinarny, jeżeli zachodzi uzasadnione przypuszczenie popełnienia przez policjanta przewinienia dyscyplinarnego:
+
+- **1)** wszczyna postępowanie dyscyplinarne: z własnej inicjatywy, na wniosek bezpośredniego przełożonego policjanta, na polecenie wyższego przełożonego, na żądanie sądu lub prokuratora,
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **2)** może wszcząć postępowanie dyscyplinarne na wniosek pokrzywdzonego.
+
+2. Wyższy przełożony dyscyplinarny może wszcząć lub przejąć do prowadzenia postępowanie dyscyplinarne przed wydaniem orzeczenia, jeżeli w jego ocenie jest to konieczne z uwagi na charakter sprawy.
+
+3. W przypadku, o którym mowa w ust. 1 pkt 1 lit. d) i pkt 2, przełożony dyscyplinarny zawiadamia odpowiednio sąd lub prokuratora albo pokrzywdzonego o wszczęciu postępowania dyscyplinarnego i wyniku tego postępowania, przesyłając odpis wydanego orzeczenia lub postanowienia. Materiały przekazane przez sąd, prokuratora albo pokrzywdzonego włącza się do akt postępowania dyscyplinarnego.
+
+4. Jeżeli zachodzą wątpliwości co do popełnienia przewinienia dyscyplinarnego, jego kwalifikacji prawnej albo tożsamości sprawcy, przed wszczęciem postępowania dyscyplinarnego przełożony dyscyplinarny zleca przeprowadzenie czynności wyjaśniających. Czynności te należy ukończyć w terminie 30 dni.
+
+5. Postępowanie dyscyplinarne wszczyna się z dniem wydania postanowienia o wszczęciu postępowania dyscyplinarnego. Policjanta, co do którego wydano postanowienie o wszczęciu postępowania dyscyplinarnego, uważa się za obwinionego.
+
+6. Postanowienie o wszczęciu postępowania dyscyplinarnego zawiera:
+
+- **1)** oznaczenie przełożonego dyscyplinarnego,
+- **2)** datę wydania postanowienia,
+- **3)** stopień, imię i nazwisko oraz stanowisko służbowe obwinionego,
+- **4)** opis przewinienia dyscyplinarnego zarzucanego obwinionemu wraz z jego kwalifikacją prawną,
+- **5)** uzasadnienie faktyczne zarzucanego przewinienia dyscyplinarnego,
+- **6)** oznaczenie rzecznika dyscyplinarnego prowadzącego postępowanie,
+- **7)** podpis z podaniem stopnia, imienia i nazwiska przełożonego dyscyplinarnego,
+- **8)** pouczenie o uprawnieniach przysługujących obwinionemu w toku postępowania dyscyplinarnego. ” ;
+- **18)** art. 135 otrzymuje brzmienie: „
+
+**Art. 135.**
+
+1. Postępowania dyscyplinarnego nie wszczyna się, a wszczęte umarza:
+
+- **1)** jeżeli czynności wyjaśniające nie potwierdziły zaistnienia przewinienia dyscyplinarnego,
+- **2)** po upływie terminów określonych w ust. 4 i 5,
+- **3)** w razie śmierci policjanta,
+- **4)** jeżeli w tej samej sprawie zapadło prawomocne orzeczenie dyscyplinarne lub toczy się postępowanie dyscyplinarne.
+
+2. Postanowienie o odmowie wszczęcia postępowania dyscyplinarnego oraz orzeczenie o umorzeniu postępowania dyscyplinarnego doręcza się pokrzywdzonemu, jeżeli złożył on wniosek o wszczęcie postępowania dyscyplinarnego. Na postanowienie o odmowie wszczęcia postępowania dyscyplinarnego oraz na orzeczenie o umorzeniu tego postępowania pokrzywdzony może wnieść odpowiednio zażalenie lub odwołanie, w terminie 7 dni od dnia ich doręczenia.
+
+3. Postępowania dyscyplinarnego nie wszczyna się po upływie 90 dni od dnia powzięcia przez przełożonego dyscyplinarnego wiadomości o popełnieniu przewinienia dyscyplinarnego.
+
+4. Kary dyscyplinarnej nie można wymierzyć po upływie roku od dnia popełnienia przewinienia dyscyplinarnego. Zawieszenie postępowania dyscyplinarnego wstrzymuje bieg tego terminu.
+
+5. Jeżeli przewinieniem dyscyplinarnym jest czyn zawierający jednocześnie znamiona przestępstwa lub wykroczenia albo przestępstwa skarbowego lub wykroczenia skarbowego, upływ terminu określonego w ust. 4 nie może nastąpić wcześniej niż terminów przedawnienia karalności tych przestępstw lub wykroczeń.
+
+6. W przypadku wydania orzeczenia o ukaraniu w pierwszej instancji przed upływem roku od dnia wszczęcia postępowania dyscyplinarnego postępowanie to uważa się za zakończone z upływem terminu do wniesienia odwołania, a jeżeli wniesiono odwołanie, z chwilą wydania orzeczenia przez wyższego przełożonego dyscyplinarnego. ” ;
+
+- **19)** po art. 135 dodaje się art. 135a-135s w brzmieniu: „
+
+1. Postępowanie dyscyplinarne oraz czynności wyjaśniające, o których mowa w art. 134i ust. 4, prowadzi rzecznik dyscyplinarny.
+
+2. Przełożony dyscyplinarny wyznacza rzeczników dyscyplinarnych na okres 4 lat spośród policjantów w służbie stałej.
+
+3. Przełożony dyscyplinarny do prowadzenia postępowania dyscyplinarnego oraz czynności wyjaśniających, o których mowa w art. 134i ust. 4, wyznacza rzecznika dyscyplinarnego w stopniu:
+
+- **1)** co najmniej młodszego aspiranta, jeżeli postępowanie ma dotyczyć policjanta posiadającego stopień w korpusie szeregowych, podoficerów lub aspirantów,
+- **2)** co najmniej podkomisarza, jeżeli postępowanie ma dotyczyć policjanta posiadającego stopień podkomisarza, komisarza lub nadkomisarza albo policjanta ze stopniem, o którym mowa w pkt 1,
+- **3)** co najmniej podinspektora, jeżeli postępowanie ma dotyczyć policjanta posiadającego stopień podinspektora lub wyższy albo policjanta ze stopniem, o którym mowa w pkt 2.
+
+1. Przełożony dyscyplinarny odwołuje rzecznika dyscyplinarnego w przypadkach:
+
+- **1)** zaistnienia okoliczności, które stanowią podstawę zwolnienia go ze służby w Policji,
+- **2)** prawomocnego ukarania go karą dyscyplinarną,
+- **3)** przeniesienia go do innej jednostki organizacyjnej Policji niepodlegającej bezpośrednio przełożonemu dyscyplinarnemu.
+
+2. Rzecznik dyscyplinarny, za zgodą przełożonego dyscyplinarnego, może skorzystać z pomocy innego rzecznika dyscyplinarnego przy przeprowadzaniu czynności dowodowych.
+
+1. Przełożony dyscyplinarny lub rzecznik dyscyplinarny podlegają wyłączeniu od udziału w postępowaniu dyscyplinarnym, jeżeli:
+
+- **1)** sprawa dotyczy go bezpośrednio,
+- **2)** jest małżonkiem, krewnym lub powinowatym obwinionego lub osoby przez niego pokrzywdzonej w rozumieniu przepisów Kodeksu postępowania karnego,
+- **3)** był świadkiem czynu,
+- **4)** między nim a obwinionym lub osobą pokrzywdzoną przez obwinionego zachodzi stosunek osobisty mogący wywołać wątpliwości co do jego bezstronności.
+
+2. Przełożonego dyscyplinarnego i rzecznika dyscyplinarnego można wyłączyć od udziału w postępowaniu dyscyplinarnym także z innych uzasadnionych przyczyn.
+
+3. O okolicznościach uzasadniających wyłączenie od udziału w postępowaniu dyscyplinarnym przełożony dyscyplinarny i rzecznik dyscyplinarny zawiadamiają niezwłocznie odpowiednio wyższego przełożonego dyscyplinarnego i przełożonego dyscyplinarnego.
+
+4. Wyłączenie przełożonego dyscyplinarnego i rzecznika dyscyplinarnego od udziału w postępowaniu dyscyplinarnym może nastąpić również na wniosek obwinionego lub jego obrońcy, jeżeli został ustanowiony.
+
+5. Przełożony dyscyplinarny wydaje postanowienie o wyłączeniu lub odmowie wyłączenia rzecznika dyscyplinarnego od udziału w postępowaniu dyscyplinarnym.
+
+6. Wyższy przełożony dyscyplinarny wydaje postanowienie o wyłączeniu lub o odmowie wyłączenia przełożonego dyscyplinarnego od udziału w postępowaniu dyscyplinarnym.
+
+1. W przypadku wyłączenia przełożonego dyscyplinarnego od udziału w postępowaniu dyscyplinarnym na podstawie art. 135c ust. 1 i 2, postępowanie dyscyplinarne przejmuje wyższy przełożony dyscyplinarny albo wyznacza przełożonego dyscyplinarnego z równorzędnej jednostki organizacyjnej Policji.
+
+2. W przypadku wyłączenia Komendanta Głównego Policji od udziału w postępowaniu dyscyplinarnym na podstawie art. 135c ust. 1 i 2, postępowanie dyscyplinarne przejmuje jeden z jego zastępców.
+
+3. W przypadku wyłączenia rzecznika dyscyplinarnego od udziału w postępowaniu dyscyplinarnym na podstawie art. 135c ust. 1 i 2, postępowanie dyscyplinarne przejmuje do prowadzenia inny wyznaczony rzecznik dyscyplinarny.
+
+4. Do czasu wydania przez przełożonego dyscyplinarnego postanowienia o wyłączeniu rzecznik dyscyplinarny podejmuje wyłącznie czynności niecierpiące zwłoki.
+
+1. Rzecznik dyscyplinarny zbiera materiał dowodowy i podejmuje czynności niezbędne do wyjaśnienia sprawy. W szczególności przesłuchuje świadków, obwinionego, przyjmuje od niego wyjaśnienia, dokonuje oględzin. Z czynności tych sporządza protokoły. Rzecznik dyscyplinarny może także zlecić przeprowadzenie odpowiednich badań.
+
+2. Z czynności innych niż wymienione w ust. 1 sporządza się protokół, jeżeli przepis szczególny tego wymaga albo przełożony dyscyplinarny lub rzecznik dyscyplinarny uzna to za potrzebne. W pozostałych przypadkach można ograniczyć się do sporządzenia notatki urzędowej.
+
+3. Protokół powinien zawierać:
+
+- **1)** oznaczenie czynności, jej czasu i miejsca, osób w niej uczestniczących lub obecnych oraz charakteru ich uczestnictwa,
+- **2)** opis przebiegu czynności,
+- **3)** w miarę potrzeby: stwierdzenie innych okoliczności dotyczących przebiegu czynności, oświadczenia i wnioski uczestników czynności, pouczenie o uprawnieniach i obowiązkach.
+    - **a)**
+    - **b)**
+    - **c)**
+
+4. Wyjaśnienia, zeznania, oświadczenia i wnioski oraz stwierdzenia określonych okoliczności przez rzecznika dyscyplinarnego lub kierownika jednostki organizacyjnej Policji, o którym mowa w ust. 8, zapisuje się w protokole z możliwą dokładnością, a osoby biorące udział w czynności mają prawo żądać zapisania w protokole z pełną dokładnością wszystkiego, co dotyczy ich praw i interesów.
+
+5. Osoby biorące udział w czynności, z której jest sporządzany protokół, a także osoby obecne, po zapoznaniu się z treścią protokołu, podpisują każdą jego stronę. Odmowę zapoznania się z treścią protokołu, a także odmowę lub brak podpisu którejkolwiek osoby należy omówić w protokole.
+
+6. Rzecznik dyscyplinarny w toku postępowania wydaje postanowienia, jeżeli ich wydanie nie jest zastrzeżone do właściwości przełożonego dyscyplinarnego.
+
+7. Postanowienie wydane w toku postępowania, z wyjątkiem postanowienia o wszczęciu postępowania dyscyplinarnego, powinno zawierać:
+
+- **1)** oznaczenie wydającego postanowienie rzecznika dyscyplinarnego lub przełożonego dyscyplinarnego,
+- **2)** datę wydania postanowienia,
+- **3)** podstawę prawną wydania postanowienia,
+- **4)** stopień, imię i nazwisko oraz stanowisko służbowe obwinionego,
+- **5)** rozstrzygnięcie,
+- **6)** uzasadnienie faktyczne i prawne,
+- **7)** pouczenie, czy i w jakim trybie przysługuje prawo złożenia zażalenia,
+- **8)** podpis z podaniem stopnia, imienia i nazwiska wydającego postanowienie.
+
+8. W przypadku konieczności przeprowadzenia czynności poza miejscowością, w której toczy się postępowanie dyscyplinarne, przełożony dyscyplinarny może zwrócić się o ich przeprowadzenie do kierownika jednostki organizacyjnej Policji właściwego według miejsca, w którym czynność ma być dokonana.
+
+9. Jeżeli czyn będący przedmiotem postępowania dyscyplinarnego jest lub był przedmiotem innego postępowania, w tym postępowania przygotowawczego, przełożony dyscyplinarny może zwrócić się do właściwego organu o udostępnienie akt tego postępowania w całości lub w części. Za zgodą tego organu, potrzebne odpisy lub wyciągi z udostępnionych akt włącza się do akt postępowania dyscyplinarnego.
+
+10. Jeżeli zebrany materiał dowodowy to uzasadnia, przełożony dyscyplinarny wydaje postanowienie o zmianie lub uzupełnieniu zarzutów.
+
+1. W toku postępowania dyscyplinarnego obwiniony ma prawo do:
+
+- **1)** odmowy składania wyjaśnień,
+- **2)** zgłaszania wniosków dowodowych,
+- **3)** przeglądania akt postępowania dyscyplinarnego oraz sporządzania z nich notatek, z zastrzeżeniem ust. 2,
+- **4)** ustanowienia obrońcy za jego zgodą spośród policjantów,
+- **5)** wnoszenia do przełożonego dyscyplinarnego zażaleń na postanowienia wydane w toku postępowania przez rzecznika dyscyplinarnego, w terminie 3 dni od dnia doręczenia i w przypadkach wskazanych w ustawie; od postanowień wydanych przez przełożonego dyscyplinarnego zażalenie przysługuje do wyższego przełożonego dyscyplinarnego, z zastrzeżeniem art. 135k ust. 4.
+
+2. Rzecznik dyscyplinarny może, w drodze postanowienia, odmówić udostępnienia akt, jeżeli sprzeciwia się temu dobro postępowania dyscyplinarnego. Na postanowienie przysługuje zażalenie.
+
+3. Ustanowienie obrońcy uprawnia go do działania w całym postępowaniu dyscyplinarnym, nie wyłączając czynności po uprawomocnieniu się orzeczenia, jeżeli nie zawiera ograniczeń. O zmianie zakresu pełnomocnictwa uprawniającego do działania w postępowaniu dyscyplinarnym lub o jego cofnięciu obwiniony niezwłocznie zawiadamia obrońcę oraz rzecznika dyscyplinarnego.
+
+4. Obrońca nie może podejmować czynności na niekorzyść obwinionego. Może on zrezygnować z reprezentowania obwinionego w toku postępowania dyscyplinarnego, zawiadamiając o tym obwinionego oraz rzecznika dyscyplinarnego. Do czasu ustanowienia nowego obrońcy, jednak nie dłużej niż 14 dni od dnia zawiadomienia obwinionego, obrońca jest obowiązany podejmować niezbędne czynności.
+
+5. Udział obrońcy w postępowaniu dyscyplinarnym nie wyłącza osobistego działania w nim obwinionego.
+
+6. Orzeczenia, postanowienia, zawiadomienia i inne pisma, wydane w toku postępowania dyscyplinarnego, doręcza się obwinionemu oraz obrońcy, jeżeli został ustanowiony. W razie doręczenia obwinionemu i obrońcy w różnych terminach pisma, od którego przysługuje odwołanie lub zażalenie, termin do złożenia odwołania lub zażalenia liczy się od dnia doręczenia, które nastąpiło wcześniej.
+
+7. Wniosek dowodowy obwiniony zgłasza na piśmie rzecznikowi dyscyplinarnemu, który rozstrzyga o uwzględnieniu wniosku albo odmawia, w drodze postanowienia, uwzględnienia wniosku, jeżeli:
+
+- **1)** okoliczność, która ma być udowodniona, nie ma znaczenia dla rozstrzygnięcia sprawy albo jest już udowodniona zgodnie z twierdzeniem wnioskodawcy,
+- **2)** dowód jest nieprzydatny do stwierdzenia danej okoliczności lub nie da się przeprowadzić,
+- **3)** przeprowadzenie dowodu jest sprzeczne z prawem.
+
+8. Na postanowienie w przedmiocie nieuwzględnienia wniosku dowodowego przysługuje zażalenie.
+
+9. Nieusprawiedliwiona nieobecność obwinionego w służbie, zwolnienie obwinionego od zajęć służbowych z powodu choroby oraz nieusprawiedliwione niestawiennictwo na wezwanie rzecznika dyscyplinarnego nie wstrzymują biegu postępowania dyscyplinarnego, a czynności, w których jest przewidziany udział obwinionego, nie przeprowadza się albo przeprowadza się w miejscu jego pobytu.
+
+10. Udział w czynnościach dowodowych oraz zapoznanie z aktami postępowania dyscyplinarnego obwinionego zwolnionego od zajęć służbowych z powodu choroby wymaga zgody lekarza, który orzekł czasową niezdolność obwinionego do służby. W przypadku braku możliwości nawiązania kontaktu z lekarzem lub zmiany lekarza zgody takiej może udzielić lekarz, który obecnie leczy obwinionego, a w dalszej kolejności lekarz o takiej samej specjalności.
+
+1. Przełożony dyscyplinarny i rzecznik dyscyplinarny są obowiązani badać oraz uwzględniać okoliczności przemawiające zarówno na korzyść, jak i na niekorzyść obwinionego.
+
+2. Obwinionego uważa się za niewinnego, dopóki wina jego nie zostanie udowodniona i stwierdzona prawomocnym orzeczeniem. Niedające się usunąć wątpliwości rozstrzyga się na korzyść obwinionego.
+
+1. Czynności dowodowe w postępowaniu dyscyplinarnym powinny być zakończone w terminie miesiąca od dnia wszczęcia tego postępowania. Wyższy przełożony dyscyplinarny, w drodze postanowienia, może przedłużyć termin prowadzenia czynności dowodowych do 2 miesięcy.
+
+2. Komendant Główny Policji, w drodze postanowienia, może przedłużyć termin prowadzenia czynności dowodowych na czas oznaczony powyżej 2 miesięcy.
+
+3. Przełożony dyscyplinarny może zawiesić postępowanie dyscyplinarne z powodu zaistnienia długotrwałej przeszkody uniemożliwiającej prowadzenie postępowania. Na postanowienie o zawieszeniu postępowania dyscyplinarnego przysługuje zażalenie w terminie 7 dni od dnia doręczenia postanowienia. Jeżeli postępowanie dyscyplinarne zostało wszczęte z inicjatywy pokrzywdzonego, zażalenie to może również złożyć pokrzywdzony.
+
+4. Przełożony dyscyplinarny wydaje postanowienie o podjęciu zawieszonego postępowania dyscyplinarnego po ustaniu przeszkody, o której mowa w ust. 3.
+
+1. Rzecznik dyscyplinarny, po przeprowadzeniu czynności dowodowych i uznaniu, że zostały wyjaśnione wszystkie istotne okoliczności sprawy, zapoznaje obwinionego z aktami postępowania dyscyplinarnego.
+
+2. Obrońca może zapoznać się z aktami postępowania dyscyplinarnego, o których mowa w ust. 1, nie później niż do dnia zapoznania obwinionego z tymi aktami.
+
+3. Z czynności zapoznania z aktami postępowania dyscyplinarnego sporządza się protokół.
+
+4. Odmowa zapoznania się z aktami postępowania lub złożenia podpisu stwierdzającego tę okoliczność nie wstrzymuje postępowania. Rzecznik dyscyplinarny dokonuje wzmianki o odmowie w aktach postępowania.
+
+5. Obwiniony ma prawo w terminie 3 dni od dnia zapoznania się z aktami postępowania dyscyplinarnego zgłosić wniosek o ich uzupełnienie. Na wydane przez rzecznika dyscyplinarnego postanowienie o odmowie uzupełnienia akt postępowania dyscyplinarnego obwinionemu służy prawo złożenia zażalenia.
+
+6. Obwiniony ma prawo w terminie 3 dni od dnia zapoznania się z uzupełnionymi aktami postępowania dyscyplinarnego zgłosić wniosek o ich uzupełnienie w zakresie wynikającym z przeprowadzonych czynności dowodowych uzupełniających akta tego postępowania.
+
+7. Rzecznik dyscyplinarny, po zapoznaniu obwinionego z aktami postępowania dyscyplinarnego, wydaje postanowienie o zakończeniu czynności dowodowych oraz sporządza sprawozdanie, które:
+
+- **1)** wskazuje prowadzącego postępowanie i przełożonego dyscyplinarnego, który wydał postanowienie o wszczęciu postępowania dyscyplinarnego,
+- **2)** wskazuje obwinionego oraz określa zarzucane mu przewinienie dyscyplinarne, z opisem stanu faktycznego ustalonym na podstawie zebranych dowodów,
+- **3)** przedstawia wnioski dotyczące uniewinnienia, odstąpienia od ukarania lub wymierzenia kary albo umorzenia postępowania.
+
+1. Na podstawie oceny zebranego w postępowaniu dyscyplinarnym materiału dowodowego przełożony dyscyplinarny wydaje orzeczenie o:
+
+- **1)** uniewinnieniu albo
+- **2)** odstąpieniu od ukarania, albo
+- **3)** ukaraniu, albo
+- **4)** umorzeniu postępowania.
+
+2. Orzeczenie powinno zawierać:
+
+- **1)** oznaczenie przełożonego dyscyplinarnego,
+- **2)** datę wydania orzeczenia,
+- **3)** stopień, imię i nazwisko oraz stanowisko służbowe obwinionego,
+- **4)** opis przewinienia dyscyplinarnego zarzucanego obwinionemu wraz z kwalifikacją prawną,
+- **5)** rozstrzygnięcie o uniewinnieniu, stwierdzeniu winy i odstąpieniu od ukarania lub wymierzeniu kary dyscyplinarnej albo umorzeniu postępowania dyscyplinarnego,
+- **6)** uzasadnienie faktyczne i prawne orzeczenia,
+- **7)** pouczenie o prawie, terminie i trybie wniesienia odwołania,
+- **8)** podpis, z podaniem stopnia, imienia i nazwiska przełożonego dyscyplinarnego, oraz pieczęć jednostki organizacyjnej Policji.
+
+3. Przełożony dyscyplinarny uchyla postanowienie, o którym mowa w art. 135i ust. 7, oraz przekazuje akta sprawy rzecznikowi dyscyplinarnemu do uzupełnienia, w przypadku stwierdzenia, że nie zostały wyjaśnione wszystkie okoliczności sprawy.
+
+4. Przełożony dyscyplinarny umarza postępowanie dyscyplinarne w przypadkach, o których mowa w art. 135 ust. 1, albo gdy stało się ono bezprzedmiotowe z innej przyczyny.
+
+5. Przełożony dyscyplinarny może odstąpić od ukarania, jeżeli stopień winy lub stopień szkodliwości przewinienia dyscyplinarnego dla służby nie jest znaczny, a właściwości i warunki osobiste policjanta oraz dotychczasowy przebieg służby uzasadniają przypuszczenie, że pomimo odstąpienia od ukarania będzie on przestrzegał dyscypliny służbowej oraz zasad etyki zawodowej.
+
+6. Orzeczenie, o którym mowa w ust. 1, wraz z uzasadnieniem sporządza się na piśmie nie później niż w terminie 14 dni od dnia wydania postanowienia o zakończeniu czynności dowodowych.
+
+7. Orzeczenie, o którym mowa w ust. 1, doręcza się niezwłocznie obwinionemu.
+
+8. Jeżeli przełożony dyscyplinarny, o którym mowa w art. 133 ust. 2 i 3, uzna, że należy wymierzyć karę dyscyplinarną, do której wymierzenia nie jest uprawniony, wniosek w tej sprawie wraz z aktami postępowania dyscyplinarnego przesyła przełożonemu dyscyplinarnemu uprawnionemu do wymierzenia tej kary.
+
+9. W przypadku zamiaru wymierzenia kary wydalenia ze służby w Policji przełożony dyscyplinarny, przed wydaniem orzeczenia dyscyplinarnego, wzywa obwinionego do raportu w celu wysłuchania go. W raporcie uczestniczy rzecznik dyscyplinarny. O terminie raportu należy zawiadomić zarząd właściwej organizacji zakładowej związku zawodowego policjantów. Przedstawiciel zarządu może uczestniczyć w raporcie, chyba że obwiniony nie wyrazi na to zgody. Obwinionemu doręcza się sprawozdanie w terminie umożliwiającym zapoznanie się z nim przed raportem.
+
+10. Przepisu ust. 9 nie stosuje się w przypadku:
+
+- **1)** tymczasowego aresztowania obwinionego,
+- **2)** odmowy obwinionego stawienia się do raportu lub nieusprawiedliwionej nieobecności w wyznaczonym terminie raportu,
+- **3)** zaistnienia innej przeszkody uniemożliwiającej obwinionemu stawienie się do raportu w terminie 14 dni od dnia doręczenia postanowienia o zakończeniu czynności dowodowych.
+
+1. Postępowanie dyscyplinarne jest dwuinstancyjne. Od orzeczenia wydanego w pierwszej instancji obwinionemu przysługuje odwołanie w terminie 7 dni od dnia doręczenia orzeczenia.
+
+2. Odwołanie składa się do wyższego przełożonego dyscyplinarnego za pośrednictwem przełożonego, który wydał orzeczenie w pierwszej instancji.
+
+3. Wyższy przełożony dyscyplinarny odmawia przyjęcia odwołania, w drodze postanowienia, jeżeli zostało wniesione po terminie lub przez osobę nieuprawnioną albo jest niedopuszczalne. Postanowienie w tej sprawie jest ostateczne.
+
+4. Jeżeli orzeczenie lub postanowienie w pierwszej instancji wydał Komendant Główny Policji, odwołanie lub zażalenie nie przysługuje. Obwiniony może jednak w terminie, o którym mowa w ust. 1, zwrócić się do Komendanta Głównego Policji z wnioskiem o ponowne rozpatrzenie sprawy; do wniosku tego stosuje się odpowiednio przepisy dotyczące odwołań od orzeczeń.
+
+1. W postępowaniu odwoławczym rozpoznanie sprawy następuje na podstawie stanu faktycznego ustalonego w postępowaniu dyscyplinarnym. Jeżeli jest to potrzebne do prawidłowego wydania orzeczenia, wyższy przełożony dyscyplinarny może uzupełnić materiał dowodowy, zlecając rzecznikowi dyscyplinarnemu prowadzącemu postępowanie dyscyplinarne wykonanie czynności dowodowych, określając ich zakres.
+
+2. Z materiałami uzyskanymi w wyniku czynności dowodowych, o których mowa w ust. 1, rzecznik dyscyplinarny zapoznaje obwinionego. W terminie 3 dni od dnia zapoznania obwiniony ma prawo zgłoszenia wyższemu przełożonemu dyscyplinarnemu, o którym mowa w ust. 1, uwag dotyczących przeprowadzonych czynności dowodowych. Przepisy art. 135i ust. 1–4 stosuje się odpowiednio.
+
+1. Wyższy przełożony dyscyplinarny w terminie 7 dni od dnia wniesienia odwołania może powołać komisję do zbadania zaskarżonego orzeczenia, zwaną dalej „komisją”. W przypadku odwołania od orzeczenia o ukaraniu karą, o której mowa w art. 134 pkt 4–6, wyższy przełożony dyscyplinarny jest obowiązany powołać komisję.
+
+2. Komisja składa się z trzech oficerów w służbie stałej, z których dwóch wyznacza wyższy przełożony dyscyplinarny, a jednego właściwy zarząd wojewódzki związku zawodowego policjantów, z zastrzeżeniem ust. 3.
+
+3. O wyznaczeniu przedstawiciela związku zawodowego do składu komisji przewodniczący zarządu wojewódzkiego związku zawodowego policjantów zawiadamia wyższego przełożonego dyscyplinarnego w terminie 3 dni od dnia otrzymania zawiadomienia o powołaniu takiej komisji. W przypadku niewyznaczenia przedstawiciela związku zawodowego, trzeciego członka komisji wyznacza wyższy przełożony dyscyplinarny.
+
+4. Wyższy przełożony dyscyplinarny wyznacza przewodniczącego spośród członków komisji.
+
+5. Przepisy art. 135c ust. 1–3 stosuje się odpowiednio do członków komisji.
+
+6. Komisja może wysłuchać rzecznika dyscyplinarnego, obwinionego lub jego obrońcę.
+
+7. Niestawiennictwo prawidłowo zawiadomionych: rzecznika dyscyplinarnego, obwinionego lub jego obrońcy nie wstrzymuje rozpoznawania sprawy.
+
+8. Komisja może wystąpić do wyższego przełożonego dyscyplinarnego o uzupełnienie materiału dowodowego w trybie art. 135l ust. 1.
+
+1. Z przeprowadzonych czynności komisja sporządza sprawozdanie wraz z wnioskiem dotyczącym sposobu załatwienia odwołania.
+
+2. Komisja przedstawia wyższemu przełożonemu dyscyplinarnemu sprawozdanie, o którym mowa w ust. 1, w terminie 21 dni od dnia jej powołania.
+
+3. Rozpatrzenie odwołania przez wyższego przełożonego dyscyplinarnego powinno nastąpić w terminie 14 dni od dnia wpływu odwołania, a w przypadku powołania komisji – w terminie 7 dni od dnia otrzymania sprawozdania, o którym mowa w ust. 1.
+
+4. Wyższy przełożony dyscyplinarny może zaskarżone orzeczenie:
+
+- **1)** utrzymać w mocy albo
+- **2)** uchylić w całości albo w części i w tym zakresie uniewinnić obwinionego, odstąpić od ukarania, względnie wymierzyć inną karę, bądź uchylając to orzeczenie – umorzyć postępowanie dyscyplinarne w pierwszej instancji, albo
+- **3)** uchylić w całości i przekazać sprawę do ponownego rozpatrzenia przez przełożonego dyscyplinarnego, gdy rozstrzygnięcie sprawy wymaga przeprowadzenia czynności dowodowych w całości lub w znacznej części.
+
+5. Postępowanie odwoławcze umarza się w przypadku cofnięcia odwołania.
+
+6. W postępowaniu odwoławczym wyższy przełożony dyscyplinarny nie może wymierzyć surowszej kary dyscyplinarnej, chyba że zaskarżone orzeczenie rażąco narusza prawo lub interes służby.
+
+1. Orzeczenie lub postanowienie staje się prawomocne:
+
+- **1)** z upływem terminu do wniesienia odwołania lub zażalenia, jeżeli go nie wniesiono,
+- **2)** w dniu wydania orzeczenia lub postanowienia przez organ odwoławczy.
+
+2. Przełożony dyscyplinarny, po uprawomocnieniu się orzeczenia lub postanowienia, niezwłocznie wykonuje orzeczoną karę. Przy orzeczeniu kary zakazu opuszczania wyznaczonego miejsca przebywania przełożony dyscyplinarny określa termin rozpoczęcia i zakończenia kary, jednocześnie powiadamia o tym ukaranego.
+
+3. Przełożony właściwy w sprawach osobowych po uprawomocnieniu się orzeczenia niezwłocznie wykonuje karę ostrzeżenia o niepełnej przydatności do służby na zajmowanym stanowisku.
+
+4. Przełożony, o którym mowa w ust. 3, po uprawomocnieniu się orzeczenia niezwłocznie wykonuje karę: wyznaczenia na niższe stanowisko służbowe, obniżenia stopnia lub wydalenia ze służby przez wydanie rozkazu personalnego odpowiednio o: zwolnieniu lub odwołaniu ukaranego z dotychczas zajmowanego stanowiska służbowego i powołaniu lub mianowaniu go na niższe stanowisko służbowe, obniżeniu stopnia lub zwolnieniu ukaranego policjanta ze służby. Przepis art. 134e ust. 2 stosuje się odpowiednio.
+
+5. Prawomocne orzeczenie o odstąpieniu od ukarania albo o ukaraniu oraz prawomocne postanowienie o odstąpieniu od wszczęcia postępowania dyscyplinarnego włącza się do akt osobowych policjanta.
+
+1. W zakresie nieuregulowanym w niniejszej ustawie do postępowania dyscyplinarnego stosuje się odpowiednio przepisy Kodeksu postępowania karnego, dotyczące wezwań, terminów, doręczeń i świadków, z wyłączeniem możliwości nakładania kar porządkowych. W postępowaniu dyscyplinarnym do świadków nie stosuje się również art. 184 Kodeksu postępowania karnego.
+
+2. O zwolnieniu od złożenia zeznania lub odpowiedzi na pytania osoby pozostającej z obwinionym w szczególnie bliskim stosunku osobistym rozstrzyga rzecznik dyscyplinarny. Na odmowę zwolnienia od złożenia zeznania lub odpowiedzi na pytania służy zażalenie w terminie 3 dni od dnia doręczenia postanowienia.
+
+1. Zatarcie kary dyscyplinarnej oznacza uznanie kary za niebyłą.
+
+2. Kary dyscyplinarne podlegają zatarciu po upływie:
+
+- **1)** 6 miesięcy od dnia uprawomocnienia się orzeczenia kary nagany lub kary zakazu opuszczania wyznaczonego miejsca przebywania,
+- **2)** 12 miesięcy od dnia uprawomocnienia się orzeczenia kary ostrzeżenia o niepełnej przydatności do służby na zajmowanym stanowisku,
+- **3)** 18 miesięcy od dnia uprawomocnienia się orzeczenia kary wyznaczenia na niższe stanowisko służbowe.
+
+3. W przypadku nienagannej służby, stwierdzonej w opinii służbowej, przełożony dyscyplinarny, o którym mowa w art. 32 ust. 1, może zatrzeć karę dyscyplinarną przed upływem terminu określonego w ust. 2, jednak nie wcześniej niż przed upływem:
+
+- **1)** 3 miesięcy od dnia orzeczenia kary nagany lub kary zakazu opuszczania wyznaczonego miejsca przebywania,
+- **2)** 6 miesięcy od dnia orzeczenia kary ostrzeżenia o niepełnej przydatności do służby na zajmowanym stanowisku,
+- **3)** 12 miesięcy od dnia orzeczenia kary wyznaczenia na niższe stanowisko służbowe.
+
+4. Za wykazanie męstwa lub odwagi oraz za poważne osiągnięcia w wykonywaniu zadań służbowych przełożony dyscyplinarny, o którym mowa w art. 32 ust. 1, może w każdym czasie zatrzeć karę dyscyplinarną.
+
+5. Jeżeli policjant zostanie ponownie ukarany przed zatarciem kary dyscyplinarnej, okres wymagany do zatarcia nieodbytej kary biegnie na nowo od dnia orzeczenia nowej kary.
+
+6. W przypadku jednoczesnego wykonywania więcej niż jednej kary dyscyplinarnej zatarcie kar następuje z upływem terminu przewidzianego dla kary surowszej.
+
+7. Zatarcie kary dyscyplinarnej powoduje usunięcie z akt osobowych policjanta orzeczenia o ukaraniu. Orzeczenie o odstąpieniu od ukarania usuwa się z akt osobowych po upływie 6 miesięcy od dnia jego uprawomocnienia się, przepisy ust. 3 i 4 stosuje się odpowiednio.
+
+1. Postępowanie dyscyplinarne zakończone prawomocnym orzeczeniem wznawia się, jeżeli:
+
+- **1)** dowody, na podstawie których ustalono istotne dla sprawy okoliczności, okazały się fałszywe,
+- **2)** zostały ujawnione istotne dla sprawy okoliczności, które nie były znane w toku postępowania dyscyplinarnego,
+- **3)** orzeczenie wydano z naruszeniem obowiązujących przepisów, jeżeli mogło to mieć wpływ na treść orzeczenia,
+- **4)** orzeczenie zostało wydane w oparciu o inną decyzję lub orzeczenie sądu, które zostały następnie uchylone lub zmienione.
+
+2. Postępowanie dyscyplinarne wznawia się na wniosek ukaranego lub obwinionego, albo w przypadku jego śmierci na wniosek członka rodziny uprawnionego do renty rodzinnej, jeżeli w wyniku orzeczenia Trybunału Konstytucyjnego stracił moc lub uległ zmianie przepis prawny będący podstawą wydania orzeczenia dyscyplinarnego.
+
+3. W przypadku, o którym mowa w ust. 2, wniosek o wznowienie składa się w terminie miesiąca od dnia wejścia w życie orzeczenia Trybunału Konstytucyjnego.
+
+4. Postępowania dyscyplinarnego nie wznawia się na niekorzyść ukaranego po ustaniu karalności przewinienia dyscyplinarnego.
+
+5. Postępowania dyscyplinarnego nie wznawia się po upływie 5 lat od dnia uprawomocnienia się orzeczenia.
+
+6. Przełożony dyscyplinarny, który wydał prawomocne orzeczenie dyscyplinarne, wznawia postępowanie dyscyplinarne z urzędu lub na wniosek ukaranego lub obwinionego albo, w przypadku jego śmierci, na wniosek członka rodziny uprawnionego do renty rodzinnej. O wznowieniu postępowania dyscyplinarnego z urzędu zawiadamia się ukaranego lub obwinionego albo, w przypadku jego śmierci, członka rodziny uprawnionego do renty rodzinnej.
+
+7. Wniosek o wznowienie postępowania dyscyplinarnego wnosi się do przełożonego dyscyplinarnego, który wydał orzeczenie w pierwszej instancji, w terminie 30 dni od dnia, w którym obwiniony dowiedział się o okoliczności stanowiącej podstawę do wznowienia postępowania.
+
+8. Jeżeli przyczyną wznowienia postępowania jest działalność przełożonego dyscyplinarnego, o którym mowa w ust. 6, o wznowieniu rozstrzyga wyższy przełożony dyscyplinarny.
+
+9. Na postanowienie o odmowie wznowienia postępowania dyscyplinarnego ukaranemu oraz członkowi rodziny uprawnionemu do renty rodzinnej, o którym mowa w ust. 6, służy zażalenie do wyższego przełożonego dyscyplinarnego w terminie 7 dni od dnia doręczenia, z tym że na postanowienie wydane przez Komendanta Głównego Policji przysługuje jedynie w takim samym terminie wniosek o ponowne rozpatrzenie sprawy.
+
+1. Po wznowieniu postępowania dyscyplinarnego przeprowadza się czynności dowodowe ograniczone do przyczyn wznowienia, a po ich zakończeniu, stosownie do poczynionych ustaleń, wydaje się orzeczenie:
+
+- **1)** uchylające dotychczasowe orzeczenie i stwierdzające uniewinnienie ukaranego lub umorzenie postępowania dyscyplinarnego albo
+- **2)** zmieniające dotychczasowe orzeczenie i wymierzające inną karę dyscyplinarną, albo
+- **3)** odmawiające uchylenia dotychczasowego orzeczenia.
+
+2. Zmiana dotychczasowego orzeczenia i wymierzenie innej kary dyscyplinarnej nie może nastąpić po ustaniu karalności przewinienia dyscyplinarnego.
+
+3. Orzeczenie kary surowszej od dotychczasowej jest możliwe tylko wtedy, gdy wznowienie następuje z urzędu i orzeczona kara jest rażąco niewspółmierna do popełnionego przewinienia dyscyplinarnego.
+
+4. Jeżeli w następstwie wznowienia postępowania wymierzono karę łagodniejszą, ulegają uchyleniu skutki kary dotychczasowej, a w razie wymierzenia kary surowszej, jej wykonanie rozpoczyna się od dnia wymierzenia.
+
+5. Na orzeczenie i postanowienie wydane w trybie wznowienia postępowania dyscyplinarnego służy ukaranemu lub obwinionemu, a w przypadku jego śmierci, członkowi rodziny uprawnionemu do renty rodzinnej, odwołanie lub zażalenie do wyższego przełożonego dyscyplinarnego w terminie 7 dni od dnia doręczenia, z tym że na orzeczenia i postanowienia wydane przez Komendanta Głównego Policji przysługuje jedynie, w takim samym terminie, wniosek o ponowne rozpatrzenie sprawy. Przepisy art. 135n ust. 4–6 stosuje się odpowiednio.
+
+6. Termin zatarcia kary zmienionej w następstwie wznowienia postępowania liczy się od dnia uprawomocnienia się orzeczenia o wymierzeniu nowej kary. Na poczet okresu zatarcia nowej kary zalicza się okres zatarcia, który upłynął od uprawomocnienia się orzeczenia kary dotychczasowej. ” ;
+
+- **20)** art. 138 otrzymuje brzmienie: „
+
+**Art. 138.** Od orzeczenia oraz postanowienia kończącego postępowanie dyscyplinarne policjantowi przysługuje prawo wniesienia skargi do sądu administracyjnego. ” ;
+
+- **21)** art. 139 otrzymuje brzmienie: „
+
+**Art. 139.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółowy tryb wykonywania czynności związanych z postępowaniem dyscyplinarnym w stosunku do policjantów, w tym obieg dokumentów związanych z postępowaniem dyscyplinarnym, prostowanie błędów pisarskich i rachunkowych oraz innych oczywistych omyłek, oraz określi wzory postanowień i innych dokumentów sporządzanych w postępowaniu dyscyplinarnym, mając na względzie sprawność prowadzonego postępowania. ” ;
+
+- **22)** uchyla się art. 140 i 141;
+- **23)** w art. 145e ust. 2 otrzymuje brzmienie: „
+
+2. Policjantowi, o którym mowa w ust. 1, mogą być przyznawane dodatki do uposażenia, świadczenia z tytułu uszczerbku na zdrowiu, podróży i przejazdów oraz inne należności pieniężne związane z delegowaniem, wypłacane w walucie polskiej lub obcej. ” .
+
+**Art. 2.**
+
+1. Przepisy ustawy stosuje się do postępowań dyscyplinarnych niezakończonych prawomocnym orzeczeniem do dnia jej wejścia w życie.
+
+2. Czynności dokonane w postępowaniach dyscyplinarnych niezakończonych prawomocnym orzeczeniem do dnia 30 września 2003 r. są skuteczne, jeżeli ich dokonano z zachowaniem przepisów dotychczasowych.
+
+3. Postępowania toczące się przed sądami honorowymi niezakończone prawomocnym orzeczeniem do dnia wejścia w życie ustawy umarza się.
+
+4. Kary dyscyplinarne orzeczone i niezatarte do dnia wejścia w życie ustawy podlegają zatarciu po upływie:
+
+- **1)** 1 miesiąca od dnia uprawomocnienia się orzeczenia kary upomnienia lub kary zakazu opuszczania miejsca zakwaterowania;
+- **2)** 3 miesięcy od dnia uprawomocnienia się orzeczenia kary nagany;
+- **3)** 6 miesięcy od dnia uprawomocnienia się orzeczenia kary surowej nagany lub kary nagany z ostrzeżeniem;
+- **4)** 12 miesięcy od dnia uprawomocnienia się orzeczenia kary ostrzeżenia o niepełnej przydatności do służby na zajmowanym stanowisku;
+- **5)** 18 miesięcy od dnia uprawomocnienia się orzeczenia kary wyznaczenia na niższe stanowisko lub kary obniżenia stopnia oraz kary ostrzeżenia o niepełnej przydatności do służby.
+
+5. W przypadku nienagannej służby stwierdzonej w opinii służbowej kary dyscyplinarne, orzeczone i niezatarte do dnia wejścia w życie ustawy, z wyjątkiem kar wymienionych w ust. 4 pkt 1 i 2, mogą być zatarte przed upływem terminów określonych w ust. 4, jednak nie wcześniej niż przed upływem:
+
+- **1)** 3 miesięcy od dnia uprawomocnienia się orzeczenia kary surowej nagany lub kary nagany z ostrzeżeniem;
+- **2)** 6 miesięcy od dnia uprawomocnienia się orzeczenia kary ostrzeżenia o niepełnej przydatności do służby na zajmowanym stanowisku;
+- **3)** 9 miesięcy od dnia uprawomocnienia się orzeczenia kary wyznaczenia na niższe stanowisko służbowe lub kary obniżenia stopnia oraz kary ostrzeżenia o niepełnej przydatności do służby.
+
+6. Przepisy art. 135q ust. 4–7 ustawy, o której mowa w art. 1, stosuje się odpowiednio.
+
+**Art. 3.**
+
+1. Za czyn podlegający odpowiedzialności dyscyplinarnej popełniony przed dniem wejścia w życie niniejszej ustawy może być wymierzona kara dyscyplinarna upomnienia lub kary dyscyplinarne, o których mowa w art. 134 w brzmieniu nadanym niniejszą ustawą.
+
+2. Kara upomnienia oznacza wytknięcie ukaranemu przez przełożonego dyscyplinarnego niewłaściwego postępowania.
+
+3. Kara upomnienia podlega zatarciu po upływie 1 miesiąca od dania uprawomocnienia się orzeczenia o ukaraniu.
+
+**Art. 4.**
+
+1. Do dnia 31 grudnia 2003 r. przez sąd administracyjny, o którym mowa w art. 1 pkt 20 niniejszej ustawy, należy rozumieć Naczelny Sąd Administracyjny, o którym mowa w ustawie z dnia 11 maja 1995 r. o Naczelnym Sądzie Administracyjnym (Dz. U. Nr 74, poz. 368, z późn. zm.).
+
+2. W ustawie z dnia 30 sierpnia 2002 r. – Przepisy wprowadzające ustawę – Prawo o ustroju sądów administracyjnych i ustawę – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. Nr 153, poz. 1271 i Nr 240, poz. 2052 oraz z 2003 r. Nr 124, poz. 1153 i Nr 171, poz. 1663) uchyla się art. 18.
+
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+

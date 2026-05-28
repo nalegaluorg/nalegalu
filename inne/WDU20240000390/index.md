@@ -8,12 +8,10 @@ pos: 390
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Prawo o prokuraturze
-
-*USTAWA z dnia 28 stycznia 2016 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 20 lutego 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy – Prawo o prokuraturze
 
 | Pole | Wartość |
 |---|---|
@@ -27,7 +25,59 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-04-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000390) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/390/text.pdf) |
 
-### DZIAŁ I Przepisy ogólne
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 28 stycznia 2016 r. Prawo o prokuraturze Dział I – Przepisy ogólne Dział II – Organizacja prokuratury Rozdział 1 – Organy i struktura organizacyjna prokuratury Rozdział 2 – Krajowa Rada Prokuratorów przy Prokuratorze Generalnym Rozdział 3 – Samorząd prokuratorski Rozdział 4 – Finansowanie działalności prokuratury Dział III – Działalność prokuratury Rozdział 1 – Postępowanie przygotowawcze Rozdział 2 – Udział prokuratora w postępowaniu sądowym i w innych postępowaniach Rozdział 3 – Współdziałanie w zwalczaniu i zapobieganiu przestępczości Rozdział 4 – Nadzór nad wykonywaniem decyzji o pozbawieniu wolności Dział IV – Prokuratorzy Rozdział 1 – Powołanie i odwołanie prokuratora Rozdział 2 – Obowiązki i prawa prokuratorów Rozdział 3 – Odpowiedzialność karna, dyscyplinarna i służbowa prokuratorów Dział V – Asesorzy prokuratury, asystenci prokuratorów i aplikanci prokuratorscy Rozdział 1 – Asesorzy prokuratury Rozdział 2 – Asystenci prokuratorów Rozdział 3 – Aplikanci prokuratorscy Dział VI – Skargi i wnioski Dział VII – Urzędnicy i inni pracownicy Dział VIII – Przetwarzanie danych osobowych Dział IX – Przepis końcowy
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2023 r. poz. 1360), z uwzględnieniem zmian wprowadzonych:
+1)
+ustawą z dnia 7 lipca 2023 r. o świadczeniu wspierającym (Dz. U. poz. 1429),
+2)
+ustawą z dnia 7 lipca 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Prawo o ustroju sądów powszechnych, ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1860)
+oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 lutego 2024 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+1)
+art. 71 ustawy z dnia 7 lipca 2023 r. o świadczeniu wspierającym (Dz. U. poz. 1429), który stanowi:
+„
+§ 1.
+Jeżeli w toku działań podejmowanych przez prokuratorów ujawnione zostaną istotne okoliczności sprzyjające popełnianiu przestępstw, Prokurator Generalny, na wniosek Prokuratora Krajowego lub w szczególnie uzasadnionych przypadkach z urzędu, może wystąpić z wnioskiem do właściwego organu o podjęcie odpowiednich działań, w tym o rozważenie zasadności wydania lub zmiany określonych przepisów w celu przeciwdziałania przestępczości.
+§ 2.
+Uprawnienia określone w § 1 przysługują również prokuratorom regionalnym, okręgowym i rejonowym w stosunku do wojewodów i terenowych organów administracji niezespolonej oraz innych, o terenowym zakresie działania.
+§ 3.
+Organ, do którego zwrócił się Prokurator Generalny lub prokurator, jest obowiązany, w terminie 30 dni od dnia otrzymania wniosku, zawiadomić Prokuratora Generalnego lub prokuratora o podjętych środkach, o których mowa w § 1 i 2.
+
+**Art. 71.** Ustawa wchodzi w życie z dniem 1 stycznia 2024 r., z wyjątkiem:
+
+- **1)** art. 4 ust. 1: pkt 3 – w zakresie osób, którym w decyzji ustalającej poziom potrzeby wsparcia potrzebę tę określono na poziomie 85 i 86 punktów w skali potrzeby wsparcia, o której mowa w art. 4b ust. 1 ustawy zmienianej w art. 39, pkt 4, pkt 5 – w zakresie osób, którym w decyzji ustalającej poziom potrzeby wsparcia potrzebę tę określono na poziomie 78 i 79 punktów w skali potrzeby wsparcia, o której mowa w art. 4b ust. 1 ustawy zmienianej w art. 39 które wchodzą w życie z dniem 1 stycznia 2025 r.;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** art. 4 ust. 1: pkt 5 – w zakresie osób, którym w decyzji ustalającej poziom potrzeby wsparcia potrzebę tę określono na poziomie 75–77 punktów w skali potrzeby wsparcia, o której mowa w art. 4b ust. 1 ustawy zmienianej w art. 39, pkt 6 które wchodzą w życie z dniem 1 stycznia 2026 r.;
+    - **a)**
+    - **b)**
+
+- **3)** art. 37, art. 38, art. 42, art. 43 pkt 2 i 7, art. 44 pkt 3 lit. b i pkt 4, art. 47, art. 49, art. 50, art. 52–54, art. 57, art. 59, art. 60, art. 63 ust. 5 i 16, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
+- **4)** art. 40 pkt 13 i 14 oraz art. 61, które wchodzą w życie z dniem 1 sierpnia 2023 r.;
+- **5)** art. 39, który wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem: pkt 5 w zakresie art. 6b3 ust. 4 pkt 1, który wchodzi w życie z dniem wdrożenia rozwiązań technicznych umożliwiających świadczenie usługi określonej w art. 6b3 ust. 4 pkt 1 ustawy zmienianej w art. 39, określonym w komunikacie, o którym mowa w art. 66, pkt 10–13, które wchodzą w życie z dniem ogłoszenia;
+    - **a)**
+    - **b)**
+
+- **6)** art. 56 pkt 1, art. 67 i art. 70, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **7)** art. 56 pkt 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 lipca 2023 r. ” ;
+- **2)** art. 40 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Prawo o ustroju sądów powszechnych, ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1860), który stanowi: „
+
+**Art. 40.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 28 pkt 1, art. 30 pkt 2–6, art. 31 pkt 1 lit. a, c-e, f w zakresie pkt 67 lit. b, oraz lit. g i h, pkt 2–4 oraz art. 39 ust. 1 i 2, które wchodzą w życie z dniem 1 października 2023 r.;
+- **2)** art. 2 pkt 1, pkt 6 lit. b, pkt 14, 16 i 17 oraz art. 33, które wchodzą w życie z dniem 1 stycznia 2024 r.;
+- **3)** art. 6, art. 7, art. 9, art. 12, art. 13, art. 17–19 i art. 21 pkt 2 w zakresie art. 13 § 3a pkt 1 oraz art. 22, art. 23, art. 25 i art. 38, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
+- **4)** art. 1 pkt 1–14, 21 i 33, art. 2 pkt 6 lit. a, pkt 8, 12 i 15, art. 3 pkt 1, 6, 10 i 16–20, art. 4, art. 5, art. 10, art. 11, art. 24 pkt 1, art. 28 pkt 2 – w zakresie uchylenia art. 15zzs1 ust. 1 pkt 1 i 2, ust. 2 i 3, art. 28 pkt 3 oraz art. 39 ust. 3, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia;
+- **5)** art. 30 pkt 1, art. 31 pkt 1 lit. b oraz f w zakresie pkt 67 lit. c, które wchodzą w życie z dniem 14 marca 2024 r.;
+- **6)** art. 14, który wchodzi w życie z dniem 1 października 2029 r. ” . Załącznik – Tekst jednolity ustawy z dnia 28 stycznia 2016 r. Prawo o prokuraturze
+
+### Dział I Przepisy ogólne
 
 **Art. 1.**
 
@@ -39,8 +89,6 @@ source: "isap-pdf"
 
 § 4. Prokuratorami Instytutu Pamięci Narodowej są prokuratorzy Głównej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, zwanej dalej „Główną Komisją”, prokuratorzy oddziałowych komisji ścigania zbrodni przeciwko Narodowi Polskiemu, zwanych dalej „oddziałowymi komisjami”, prokuratorzy Biura Lustracyjnego oraz prokuratorzy oddziałowych biur lustracyjnych.
 
-**Art. 1a.** Prokuratorem jest również osoba wskazana przez właściwy organ Rzeczypospolitej Polskiej i powołana na podstawie rozporządzenia Rady (UE) 2017/1939 z dnia 12 października 2017 r. wdrażającego wzmocnioną współpracę w zakresie ustanowienia Prokuratury Europejskiej (Dz. Urz. UE L 283 z 31.10.2017, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2017/1939”, na urząd prokuratora europejskiego lub na urząd delegowanego prokuratora europejskiego (prokurator Prokuratury Europejskiej).
-
 **Art. 2.** Prokuratura wykonuje zadania w zakresie ścigania przestępstw oraz stoi na straży praworządności.
 
 **Art. 3.**
@@ -51,7 +99,7 @@ source: "isap-pdf"
 - **2)** wytaczanie powództw w sprawach cywilnych oraz składanie wniosków i udział w postępowaniu sądowym w sprawach cywilnych, z zakresu prawa pracy i ubezpieczeń społecznych, jeżeli tego wymaga ochrona praworządności, interesu społecznego, własności lub praw obywateli;
 - **3)** podejmowanie środków przewidzianych prawem, zmierzających do prawidłowego i jednolitego stosowania prawa w postępowaniu sądowym, administracyjnym, w sprawach o wykroczenia oraz w innych postępowaniach przewidzianych przez ustawę;
 - **4)** sprawowanie nadzoru nad wykonywaniem postanowień o tymczasowym aresztowaniu oraz innych decyzji o pozbawieniu wolności;
-- **5)** prowadzenie badań w zakresie problematyki przestępczości oraz jej zwalczania i zapobiegania oraz współpracę z podmiotami, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm. ), w zakresie prowadzenia badań dotyczących problematyki przestępczości, jej zwalczania i zapobiegania oraz kontroli;
+- **5)** prowadzenie badań w zakresie problematyki przestępczości oraz jej zwalczania i zapobiegania oraz współpracę z podmiotami, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.), w zakresie prowadzenia badań dotyczących problematyki przestępczości, jej zwalczania i zapobiegania oraz kontroli;
 - **6)** gromadzenie, przetwarzanie i analizowanie w systemach informatycznych danych, w tym danych osobowych, pochodzących z prowadzonych lub nadzorowanych na podstawie ustawy postępowań oraz z udziału w postępowaniu sądowym, administracyjnym, w sprawach o wykroczenia lub innych postępowaniach przewidzianych przez ustawę, przekazywanie danych i wyników analiz właściwym organom, w tym organom innego państwa, jeżeli przewiduje to ustawa lub umowa międzynarodowa ratyfikowana przez Rzeczpospolitą Polską;
 - **7)** zaskarżanie do sądu niezgodnych z prawem decyzji administracyjnych oraz udział w postępowaniu sądowym w sprawach zgodności z prawem takich decyzji;
 - **8)** koordynowanie działalności w zakresie ścigania przestępstw lub przestępstw skarbowych, prowadzonej przez inne organy państwowe;
@@ -123,9 +171,7 @@ source: "isap-pdf"
 
 - **1)** sąd zarządził kontrolę i utrwalanie rozmów lub kontrolę operacyjną,
 - **2)** sąd odmówił zarządzenia kontroli i utrwalania rozmów lub kontroli operacyjnej,
-- **3)** wniosek o kontrolę operacyjną nie uzyskał zgody prokuratora – z wyszczególnieniem liczby osób w wymienionych kategoriach, co do których o kontrolę operacyjną wnioskował właściwy organ.
-
-§ 1a. Delegowany prokurator europejski w terminie wskazanym przez Prokuratora Generalnego przekazuje mu dane, o których mowa w § 1, dotyczące spraw, w których składał wniosek o zarządzenie kontroli i utrwalania rozmów.
+- **3)** wniosek o kontrolę operacyjną nie uzyskał zgody prokuratora z wyszczególnieniem liczby osób w wymienionych kategoriach, co do których o kontrolę operacyjną wnioskował właściwy organ.
 
 § 2. Informacja, o której mowa w § 1, powinna być przedstawiona Sejmowi i Senatowi do dnia 30 czerwca roku następnego po roku nią objętym.
 
@@ -141,20 +187,18 @@ source: "isap-pdf"
 
 § 5. Do odpowiedzialności osób, o których mowa w § 1 i 2, stosuje się odpowiednio art. 119–121 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465), zwanej dalej „Kodeksem pracy”.
 
-**Art. 12a.**
-
 § 1. Minister Sprawiedliwości może, w drodze decyzji, przyznać Skarbowi Państwa uprawnienia wynikające z autorskich praw majątkowych do programu komputerowego obsługującego prokuratorskie systemy informatyczne, zwanego dalej „programem komputerowym”, w zakresie niezbędnym do wykonywania zadań prokuratury.
 
 § 2. Decyzja, o której mowa w § 1, może zostać wydana, jeżeli zagrożona jest sprawność działania lub ciągłość funkcjonowania programu komputerowego, lub systemu teleinformatycznego wykorzystującego program komputerowy, lub jeżeli zapewnienia ich sprawności działania lub ciągłości funkcjonowania wymaga ważny interes państwa lub dobro wymiaru sprawiedliwości, a porozumienie w tym zakresie z osobą, której przysługują autorskie prawa majątkowe do programu komputerowego, napotyka przeszkody.
 
 § 3. W decyzji, o której mowa w § 1, określa się:
 
-- **1)** zakres uprawnień, które mogą obejmować:
-    - **a)** korzystanie z programu komputerowego,
-    - **b)** trwałe lub czasowe zwielokrotnienie programu komputerowego w całości lub części jakimikolwiek środkami i w jakiejkolwiek formie,
-    - **c)** tłumaczenie, przystosowywanie, zmiany układu programu komputerowego lub wprowadzanie w nim jakichkolwiek innych zmian,
-    - **d)** rozpowszechnianie, w tym użyczenie lub najem, programu komputerowego lub jego kopii,
-    - **e)** zwielokrotnianie kodu lub tłumaczenie jego formy;
+- **1)** zakres uprawnień, które mogą obejmować: korzystanie z programu komputerowego, trwałe lub czasowe zwielokrotnienie programu komputerowego w całości lub części jakimikolwiek środkami i w jakiejkolwiek formie, tłumaczenie, przystosowywanie, zmiany układu programu komputerowego lub wprowadzanie w nim jakichkolwiek innych zmian, rozpowszechnianie, w tym użyczenie lub najem, programu komputerowego lub jego kopii, zwielokrotnianie kodu lub tłumaczenie jego formy;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 - **2)** czas korzystania z uprawnień nie dłuższy niż 20 lat.
 
@@ -162,15 +206,13 @@ source: "isap-pdf"
 
 § 5. Decyzji, o której mowa w § 1, może zostać nadany rygor natychmiastowej wykonalności.
 
-**Art. 12b.**
-
 § 1. Minister Sprawiedliwości określa, w drodze decyzji, po zasięgnięciu opinii biegłego, wysokość wynagrodzenia należnego osobie, której przysługują autorskie prawa majątkowe do programu komputerowego, stanowiącego ekwiwalent nabytych przez Skarb Państwa, na podstawie decyzji, o której mowa w art. 12a § 1, uprawnień wynikających z autorskich praw majątkowych do tego programu.
 
 § 2. Od decyzji, o której mowa w § 1, przysługuje odwołanie do sądu powszechnego.
 
 § 3. Wynagrodzenie, o którym mowa w § 1, wyczerpuje wszelkie roszczenia osoby, której przysługują autorskie prawa majątkowe do programu komputerowego, względem Skarbu Państwa wynikające z przeniesienia na rzecz Skarbu Państwa uprawnień określonych w decyzji, o której mowa w art. 12a § 1.
 
-### DZIAŁ II Organizacja prokuratury
+### Dział II Organizacja prokuratury
 
 #### Rozdział 1 Organy i struktura organizacyjna prokuratury
 
@@ -184,7 +226,7 @@ source: "isap-pdf"
 
 § 3a. Do kompetencji i zadań Pierwszego Zastępcy Prokuratora Generalnego Prokuratora Krajowego należy w szczególności:
 
-- **1)** wykonywanie czynności i uprawnień przewidzianych w ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2024 r. poz. 145), ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080, 1088, 1489, 1723, 1860 i 2608), ustawie z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. z 2022 r. poz. 2487 i 2600 oraz z 2023 r. poz. 1860), ustawie z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2023 r. poz. 1266 i 1860), ustawie z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2023 r. poz. 1136, 1834 i 1860), ustawie z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2022 r. poz. 1900 oraz z 2023 r. poz. 240, 347, 1723, 1834 i 1860), ustawie z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2023 r. poz. 81, 1834 i 1860), ustawie z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2023 r. poz. 1683 i 1860), ustawie z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. z 2024 r. poz. 92), ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. ) oraz ustawie z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2023 r. poz. 66, z późn. zm. );
+- **1)** wykonywanie czynności i uprawnień przewidzianych w ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2024 r. poz. 145), ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080, 1088, 1489, 1723, 1860 i 2608), ustawie z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. z 2022 r. poz. 2487 i 2600 oraz z 2023 r. poz. 1860), ustawie z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2023 r. poz. 1266 i 1860), ustawie z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2023 r. poz. 1136, 1834 i 1860), ustawie z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2022 r. poz. 1900 oraz z 2023 r. poz. 240, 347, 1723, 1834 i 1860), ustawie z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2023 r. poz. 81, 1834 i 1860), ustawie z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2023 r. poz. 1683 i 1860), ustawie z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. z 2024 r. poz. 92), ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm.) oraz ustawie z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2023 r. poz. 66, z późn. zm.);
 - **2)** podejmowanie decyzji w sprawach osobowych prokuratorów oraz asesorów prokuratury, z wyłączeniem decyzji należących do kompetencji kierowników podległych jednostek organizacyjnych.
 
 § 3b. Kompetencje i zadania Pierwszego Zastępcy Prokuratora Generalnego Prokuratora Krajowego określone w § 3a może również realizować upoważniony przez niego inny zastępca Prokuratora Generalnego. Pierwszy Zastępca Prokuratora Generalnego Prokurator Krajowy wydaje w tym zakresie stosowne zarządzenie.
@@ -195,9 +237,7 @@ source: "isap-pdf"
 
 § 6. Powszechne jednostki organizacyjne prokuratury są administratorami danych przetwarzanych w ramach realizowanych zadań, z wyłączeniem danych, o których mowa w § 5.
 
-§ 7. Do przetwarzania danych osobowych w postępowaniach lub systemach teleinformatycznych w ramach realizacji zadań, o których mowa w art. 2, przepisów art. 12–16, art. 18–22 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1) nie stosuje się.
-
-**Art. 13a.** Do kompetencji i zadań Pierwszego Zastępcy Prokuratora Generalnego Prokuratora Krajowego oraz do kompetencji i zadań Prokuratora Krajowego przepisu art. 9 § 2 nie stosuje się.
+§ 7. Do przetwarzania danych osobowych w postępowaniach lub systemach teleinformatycznych w ramach realizacji zadań, o których mowa w art. 2, przepisów art. 12–16, art. 18–22 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1) nie stosuje się. Do kompetencji i zadań Pierwszego Zastępcy Prokuratora Generalnego Prokuratora Krajowego oraz do kompetencji i zadań Prokuratora Krajowego przepisu art. 9 § 2 nie stosuje się.
 
 **Art. 14.**
 
@@ -311,12 +351,6 @@ source: "isap-pdf"
 
 § 2. W prokuraturach rejonowych mogą być tworzone działy lub sekcje.
 
-**Art. 25a.**
-
-§ 1. Przy powszechnej jednostce organizacyjnej prokuratury w celu umożliwienia wykonywania zadań delegowanych prokuratorów europejskich można utworzyć biuro delegowanego prokuratora europejskiego.
-
-§ 2. Powszechna jednostka organizacyjna prokuratury, przy której utworzono biuro delegowanego prokuratora europejskiego, zapewnia delegowanym prokuratorom europejskim pomieszczenia, środki finansowe i sprzęt niezbędne do pełnienia ich funkcji, dostęp do aktów prawnych i orzecznictwa, a także obsługę biurową w zakresie, w jakim obsługa ta nie zostaje zapewniona przez Prokuraturę Europejską.
-
 **Art. 26.**
 
 § 1. Departamentami i biurami Prokuratury Krajowej kierują dyrektorzy, wydziałami departamentów i biur Prokuratury Krajowej oraz wydziałami w prokuraturach regionalnych i okręgowych – naczelnicy, a działami i sekcjami w prokuraturach oraz ośrodkami zamiejscowymi prokuratur okręgowych i rejonowych – kierownicy.
@@ -414,16 +448,14 @@ source: "isap-pdf"
 
 § 5. W przypadku zniesienia ośrodka zamiejscowego prokuratury regionalnej, okręgowej lub rejonowej urzędnicy i inni pracownicy prokuratury oraz asystenci prokuratora stają się urzędnikami i innymi pracownikami jednostki organizacyjnej prokuratury oraz asystentami prokuratora tej jednostki organizacyjnej prokuratury, której ośrodek zamiejscowy jest znoszony.
 
-**Art. 35a.** Minister Sprawiedliwości, w drodze rozporządzenia, tworzy i znosi biura delegowanego prokuratora europejskiego oraz ustala ich siedziby i obszary właściwości, mając na względzie ustalony na podstawie art. 13 ust. 2 rozporządzenia 2017/1939 podział kompetencji, potrzebę zapewnienia sprawności postępowań i skutecznego zwalczania przestępczości.
-
 **Art. 36.**
 
 § 1. Minister Sprawiedliwości ustala, w drodze rozporządzenia, regulamin wewnętrznego urzędowania powszechnych jednostek organizacyjnych prokuratury określający:
 
-- **1)** wewnętrzną strukturę organizacyjną i zadania komórek organizacyjnych:
-    - **a)** Prokuratury Krajowej,
-    - **b)** Wydziałów Zamiejscowych Departamentu do Spraw Przestępczości Zorganizowanej i Korupcji Prokuratury Krajowej oraz prokuratur regionalnych,
-    - **c)** pozostałych powszechnych jednostek organizacyjnych prokuratury,
+- **1)** wewnętrzną strukturę organizacyjną i zadania komórek organizacyjnych: Prokuratury Krajowej, Wydziałów Zamiejscowych Departamentu do Spraw Przestępczości Zorganizowanej i Korupcji Prokuratury Krajowej oraz prokuratur regionalnych, pozostałych powszechnych jednostek organizacyjnych prokuratury,
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **2)** organizację pracy i sposób kierowania pracą,
 - **3)** dysponentów środków budżetowych,
@@ -436,7 +468,7 @@ source: "isap-pdf"
 - **10)** tryb działań podejmowanych przez prokuratora w celu zapobieżenia naruszeniom prawa,
 - **11)** sposób realizacji zadań, o których mowa w art. 3 § 4,
 - **12)** tryb postępowania w sprawach skarg i wniosków,
-- **13)** sposób utrzymywania kontaktów z mediami – uwzględniając potrzebę zapewnienia skuteczności i sprawności postępowania we wszystkich rodzajach spraw, prowadzonych przez prokuratora lub z jego udziałem, w tym szybkość i efektywność działania, z uwzględnieniem funkcjonalności i racjonalności działań prokuratora, przy jednoczesnym poszanowaniu gwarantowanych ustawowo praw i wolności podmiotów objętych działaniami prokuratury, a w zakresie spraw prowadzonych w komórkach organizacyjnych do spraw wojskowych również specyfikę organizacji i funkcjonowania Sił Zbrojnych Rzeczypospolitej Polskiej opartą na służbowym podporządkowaniu.
+- **13)** sposób utrzymywania kontaktów z mediami uwzględniając potrzebę zapewnienia skuteczności i sprawności postępowania we wszystkich rodzajach spraw, prowadzonych przez prokuratora lub z jego udziałem, w tym szybkość i efektywność działania, z uwzględnieniem funkcjonalności i racjonalności działań prokuratora, przy jednoczesnym poszanowaniu gwarantowanych ustawowo praw i wolności podmiotów objętych działaniami prokuratury, a w zakresie spraw prowadzonych w komórkach organizacyjnych do spraw wojskowych również specyfikę organizacji i funkcjonowania Sił Zbrojnych Rzeczypospolitej Polskiej opartą na służbowym podporządkowaniu.
 
 § 2. Minister Sprawiedliwości określi, w drodze zarządzenia, zakres działania sekretariatów i innych działów administracji w powszechnych jednostkach organizacyjnych prokuratury, biorąc pod uwagę specyfikę zadań jednostek różnego stopnia i konieczność zapewnienia racjonalności funkcjonowania prokuratury, a także potrzebę maksymalnego odciążenia prokuratorów i innych pracowników merytorycznych od prac biurowych oraz sprawnego przepływu informacji niezbędnych w pracy prokuratury, a w zakresie spraw prowadzonych w komórkach organizacyjnych do spraw wojskowych również specyfikę organizacji i funkcjonowania Sił Zbrojnych Rzeczypospolitej Polskiej opartą na służbowym podporządkowaniu.
 
@@ -473,15 +505,13 @@ source: "isap-pdf"
 - **1)** przekazywanie mediom informacji z toczących się postępowań przygotowawczych i dotyczących działalności jednostki organizacyjnej prokuratury, o których mowa w art. 12 § 2;
 - **2)** udzielanie odpowiedzi na publikacje prasowe oraz audycje radiowe i telewizyjne, a także materiały rozpowszechniane w innych środkach masowego przekazu, dotyczące działalności jednostek organizacyjnych prokuratury, w tym kierowanie wniosków o opublikowanie sprostowania oraz udzielanie odpowiedzi na krytykę i interwencję prasową.
 
-**Art. 40.**
-
 § 1. Do budynków, w których mieszczą się jednostki organizacyjne prokuratury, nie wolno wnosić broni ani amunicji, a także materiałów wybuchowych i innych środków niebezpiecznych. Zakaz wnoszenia broni i amunicji nie dotyczy prokuratorów oraz osób wykonujących obowiązki służbowe wymagające posiadania broni.
 
 § 2. Prokurator kierujący jednostką organizacyjną prokuratury zarządza stosowanie środków zapewniających bezpieczeństwo podlegających mu jednostek organizacyjnych prokuratury oraz zapobiegających naruszaniu zakazu, o którym mowa w § 1. W takim przypadku do ochrony tych jednostek oraz osób w nich przebywających stosuje się przepisy ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2021 r. poz. 1995), z wyjątkiem przypadków, gdy ochrona ta jest realizowana na podstawie art. 2 ust. 2b ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej.
 
 § 3. Prokuratorzy kierujący jednostkami organizacyjnymi prokuratury obowiązani są zapewnić prokuratorom oraz innym uprawnionym osobom, na czas pobytu w budynkach prokuratury, możliwość zdeponowania broni palnej oraz amunicji w warunkach określonych odrębnymi przepisami.
 
-**Art. 41.** Do pojazdów jednostek organizacyjnych prokuratury oraz urzędu obsługującego Ministra Sprawiedliwości stosuje się art. 53 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm. ).
+**Art. 41.** Do pojazdów jednostek organizacyjnych prokuratury oraz urzędu obsługującego Ministra Sprawiedliwości stosuje się art. 53 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm.).
 
 #### Rozdział 2 Krajowa Rada Prokuratorów przy Prokuratorze Generalnym
 
@@ -553,6 +583,11 @@ source: "isap-pdf"
 
 **Art. 45.** Zebranie prokuratorów Prokuratury Krajowej:
 
+- **1)** wysłuchuje informacji Prokuratora Krajowego o działalności Prokuratury Krajowej i pracy prokuratorów oraz wyraża opinię w tym zakresie;
+- **2)** wybiera przedstawicieli do Krajowej Rady Prokuratorów;
+- **3)** wybiera członków Sądu Dyscyplinarnego przy Prokuratorze Generalnym;
+- **4)** wyraża opinie w innych sprawach przedstawionych przez Prokuratora Krajowego.
+
 **Art. 46.**
 
 § 1. W prokuraturze regionalnej działa zgromadzenie prokuratorów, które składa się z delegatów prokuratorów prokuratury regionalnej oraz delegatów prokuratorów prokuratur okręgowych i rejonowych działających na obszarze działania prokuratury regionalnej. Delegatami prokuratorów prokuratury regionalnej są zastępcy prokuratora regionalnego oraz pozostali delegaci wybierani w łącznej liczbie równej połowie liczby prokuratorów prokuratury regionalnej przez zebranie prokuratorów prokuratury regionalnej. Delegatami prokuratorów prokuratur okręgowych są prokuratorzy okręgowi oraz pozostali delegaci w łącznej liczbie równej jednej trzeciej liczby prokuratorów prokuratury regionalnej, wybierani przez zebrania prokuratorów prokuratur okręgowych i zebrania prokuratorów prokuratur rejonowych. Delegatami prokuratorów prokuratur rejonowych są prokuratorzy rejonowi oraz pozostali delegaci w łącznej liczbie równej dwóm trzecim liczby prokuratorów prokuratury regionalnej, wybierani przez zebrania prokuratorów prokuratur rejonowych. Delegatów pochodzących z wyboru wybiera się na okres 4 lat.
@@ -568,6 +603,13 @@ source: "isap-pdf"
 § 6. Do zgromadzenia prokuratorów prokuratury regionalnej oraz zebrań, o których mowa w § 1, przepis art. 42 § 7a stosuje się odpowiednio.
 
 **Art. 47.** Zgromadzenie prokuratorów:
+
+- **1)** wysłuchuje informacji prokuratora regionalnego o działalności prokuratur i pracy prokuratorów oraz wyraża opinię w tym zakresie;
+- **2)** wybiera dwie trzecie liczby członków kolegium prokuratury regionalnej;
+- **3)** wybiera przedstawiciela do Krajowej Rady Prokuratorów;
+- **4)** wybiera członków Sądu Dyscyplinarnego przy Prokuratorze Generalnym;
+- **5)** rozpatruje sprawozdania z działalności kolegium prokuratury regionalnej;
+- **6)** wyraża opinie w innych sprawach przedstawionych przez prokuratora regionalnego lub kolegium prokuratury regionalnej.
 
 **Art. 48.**
 
@@ -585,6 +627,11 @@ source: "isap-pdf"
 
 **Art. 49.** Kolegium prokuratury regionalnej:
 
+- **1)** rozpatruje wnioski wynikające z wizytacji i lustracji prokuratur;
+- **2)** wyraża opinię o kandydatach na prokuratorów prokuratury regionalnej i okręgowej;
+- **3)** wyraża opinię w przedmiocie odwołania prokuratora prokuratury regionalnej i okręgowej;
+- **4)** wyraża opinie w innych sprawach przedstawionych przez prokuratora regionalnego.
+
 **Art. 50.**
 
 § 1. Kolegium prokuratury okręgowej składa się z 6 lub 9 członków wybieranych w dwóch trzecich przez zebranie prokuratorów prokuratury okręgowej oraz delegatów prokuratorów prokuratur rejonowych, a w jednej trzeciej powołanych przez prokuratora okręgowego spośród prokuratorów prokuratury okręgowej i prokuratur rejonowych z obszaru działania prokuratury okręgowej.
@@ -601,6 +648,11 @@ source: "isap-pdf"
 
 **Art. 51.** Kolegium prokuratury okręgowej:
 
+- **1)** rozpatruje wnioski wynikające z wizytacji i lustracji prokuratur;
+- **2)** wyraża opinię o kandydatach na asesorów prokuratorskich oraz prokuratorów prokuratur rejonowych;
+- **3)** wyraża opinię w przedmiocie odwołania prokuratora prokuratury rejonowej;
+- **4)** wyraża opinie w innych sprawach przedstawionych przez prokuratora okręgowego.
+
 **Art. 52.** Zebranie prokuratorów Prokuratury Krajowej, zgromadzenia prokuratorów oraz kolegia prokuratur regionalnych i okręgowych działają na podstawie uchwalonych przez siebie regulaminów.
 
 #### Rozdział 4 Finansowanie działalności prokuratury
@@ -611,9 +663,7 @@ source: "isap-pdf"
 
 § 2. Dysponentem części budżetowej odpowiadającej powszechnym jednostkom organizacyjnym prokuratury jest Prokurator Generalny.
 
-**Art. 53a.**
-
-§ 1. Sumy depozytowe uzyskane w związku z postępowaniami prowadzonymi lub nadzorowanymi w powszechnych jednostkach organizacyjnych prokuratury lub bieżącym funkcjonowaniem tych jednostek (sumy depozytowe powszechnych jednostek organizacyjnych prokuratury) są gromadzone na rachunkach depozytowych Ministra Finansów, o których mowa w art. 83a ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ), o ile nie zachodzi potrzeba zachowania środków płatniczych w oryginale.
+§ 1. Sumy depozytowe uzyskane w związku z postępowaniami prowadzonymi lub nadzorowanymi w powszechnych jednostkach organizacyjnych prokuratury lub bieżącym funkcjonowaniem tych jednostek (sumy depozytowe powszechnych jednostek organizacyjnych prokuratury) są gromadzone na rachunkach depozytowych Ministra Finansów, o których mowa w art. 83a ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.), o ile nie zachodzi potrzeba zachowania środków płatniczych w oryginale.
 
 § 2. Rachunkami depozytowymi Ministra Finansów, o których mowa w art. 83a ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, na których są gromadzone sumy depozytowe powszechnych jednostek organizacyjnych prokuratury, dysponują kierownicy tych jednostek, z zastrzeżeniem § 3 oraz art. 83a ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
@@ -629,9 +679,7 @@ source: "isap-pdf"
 
 § 3. Świadczenia i należności związane z delegowaniem prokuratorów do spraw wojskowych będących żołnierzami zawodowymi są pokrywane ze środków, o których mowa w § 1.
 
-**Art. 55a.** Działalność biur delegowanego prokuratora europejskiego w zakresie, w jakim nie jest ona finansowana przez Prokuraturę Europejską, w tym w zakresie wynagrodzenia wyrównawczego, o którym mowa w art. 95b § 5, jest finansowana ze środków budżetowych przeznaczonych na finansowanie powszechnych jednostek organizacyjnych prokuratury.
-
-### DZIAŁ III Działalność prokuratury
+### Dział III Działalność prokuratury
 
 #### Rozdział 1 Postępowanie przygotowawcze
 
@@ -656,10 +704,6 @@ source: "isap-pdf"
 § 3a. W sprawach prowadzonych przez Wydziały Zamiejscowe Departamentu do Spraw Przestępczości Zorganizowanej i Korupcji Prokuratury Krajowej, uprawnienia, o których mowa w § 3, przysługują Zastępcy Prokuratora Generalnego do Spraw Przestępczości Zorganizowanej i Korupcji, a w sprawach podlegających orzecznictwu sądów wojskowych – Zastępcy Prokuratora Generalnego do Spraw Wojskowych.
 
 § 3b. Udostępnienie materiałów, o których mowa w § 2 i 3, następuje wyłącznie w kancelarii tajnej Prokuratury Krajowej, chyba że Prokurator Krajowy, przy uwzględnieniu przepisów o ochronie informacji niejawnych, zarządzi inaczej.
-
-§ 3c. Jeżeli zostały spełnione warunki, o których mowa w art. 30 ust. 5 rozporządzenia 2017/1939, prokurator Prokuratury Europejskiej prowadzący lub nadzorujący postępowanie europejskie, o którym mowa w art. 577a pkt 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46 i 304) (postępowanie europejskie), jak również inne postępowanie co do przestępstw pozostających we właściwości Prokuratury Europejskiej może zwrócić się do Prokuratora Generalnego z żądaniem zainicjowania czynności, o których mowa w § 3. Prokurator Generalny w przypadku spełnienia ustawowych przesłanek stosowania czynności, o których mowa w art. 30 ust. 1 lit. e lub f rozporządzenia 2017/1939, uwzględnia żądanie, a może je uwzględnić w odniesieniu do innych czynności.
-
-§ 3d. Udostępnienie przekazanych materiałów uzyskanych w wyniku czynności zainicjowanych na podstawie § 3c następuje w kancelarii tajnej obsługującej biuro delegowanego prokuratora europejskiego. Materiały są udostępniane prokuratorowi Prokuratury Europejskiej prowadzącemu lub nadzorującemu postępowanie, w którym wystąpiono z żądaniem na podstawie § 3c, oraz Prokuratorowi Generalnemu.
 
 § 4. W razie niewykonania zarządzenia, o którym mowa w § 1, lub odmowy udostępnienia materiałów, o których mowa w § 2, na żądanie prokuratora, przełożony odpowiedzialnego funkcjonariusza lub kierownika jednostki organizacyjnej wszczyna postępowanie służbowe lub dyscyplinarne.
 
@@ -737,8 +781,6 @@ source: "isap-pdf"
 
 § 4. Informacje, o których mowa w § 3, odpowiednio właściwy prokurator regionalny lub Prokurator Krajowy przesyła sądowi w terminie 14 dni od dnia złożenia wniosku.
 
-**Art. 68a.** Jednostki organizacyjne prokuratury są obowiązane posiadać konta w portalu informacyjnym, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334 i 1907 oraz z 2025 r. poz. 526, 820, 1172 i 1178).
-
 **Art. 69.**
 
 § 1. Jeżeli wymaga tego ochrona praworządności, prokurator może żądać nadesłania lub przedstawienia akt oraz dokumentów i pisemnych wyjaśnień, przesłuchiwać świadków i zasięgać opinii biegłych, a także przeprowadzać oględziny w celu wyjaśnienia sprawy.
@@ -748,14 +790,6 @@ source: "isap-pdf"
 **Art. 70.** Jeżeli uchwała lub zarządzenie organu samorządu terytorialnego albo rozporządzenie wojewody są niezgodne z prawem, prokurator zwraca się do organu, który je wydał, o ich zmianę lub uchylenie albo kieruje wniosek o ich uchylenie do właściwego organu nadzoru; w przypadku uchwały lub zarządzenia organu samorządu terytorialnego prokurator może także wystąpić o stwierdzenie ich nieważności do sądu administracyjnego.
 
 #### Rozdział 3 Współdziałanie w zwalczaniu i zapobieganiu przestępczości
-
-**Art. 71.**
-
-§ 1. Jeżeli w toku działań podejmowanych przez prokuratorów ujawnione zostaną istotne okoliczności sprzyjające popełnianiu przestępstw, Prokurator Generalny, na wniosek Prokuratora Krajowego lub w szczególnie uzasadnionych przypadkach z urzędu, może wystąpić z wnioskiem do właściwego organu o podjęcie odpowiednich działań, w tym o rozważenie zasadności wydania lub zmiany określonych przepisów w celu przeciwdziałania przestępczości.
-
-§ 2. Uprawnienia określone w § 1 przysługują również prokuratorom regionalnym, okręgowym i rejonowym w stosunku do wojewodów i terenowych organów administracji niezespolonej oraz innych, o terenowym zakresie działania.
-
-§ 3. Organ, do którego zwrócił się Prokurator Generalny lub prokurator, jest obowiązany, w terminie 30 dni od dnia otrzymania wniosku, zawiadomić Prokuratora Generalnego lub prokuratora o podjętych środkach, o których mowa w § 1 i 2.
 
 **Art. 72.**
 
@@ -767,7 +801,7 @@ source: "isap-pdf"
 
 **Art. 73.** Prokurator sprawuje, w granicach przewidzianych ustawami, nadzór nad wykonywaniem postanowień o tymczasowym aresztowaniu i innych decyzji o pozbawieniu wolności.
 
-### DZIAŁ IV Prokuratorzy
+### Dział IV Prokuratorzy
 
 #### Rozdział 1 Powołanie i odwołanie prokuratora
 
@@ -936,9 +970,9 @@ source: "isap-pdf"
 
 § 5. Do oceny kwalifikacji kandydata wykonującego zawód adwokata lub radcy prawnego dołącza się także wykaz ostrzeżeń udzielonych przez właściwe organy samorządu zawodowego oraz zawiadomień o naruszeniu obowiązków procesowych dokonanych przez sąd lub prokuratora.
 
-§ 6. Do oceny kwalifikacji kandydata zajmującego stanowisko radcy Prokuratorii Generalnej Rzeczypospolitej Polskiej dołącza się protokoły okresowych ocen kwalifikacyjnych, o których mowa w art. 42 ustawy z dnia 8 lipca 2005 r. o Prokuratorii Generalnej Skarbu Państwa (Dz. U. z 2016 r. poz. 1313 i 1579) , oraz odpisy prawomocnych orzeczeń o ukaraniu karą dyscyplinarną, chyba że kara została uznana za niebyłą.
+§ 6. Do oceny kwalifikacji kandydata zajmującego stanowisko radcy Prokuratorii Generalnej Rzeczypospolitej Polskiej dołącza się protokoły okresowych ocen kwalifikacyjnych, o których mowa w art. 42 ustawy z dnia 8 lipca 2005 r. o Prokuratorii Generalnej Skarbu Państwa (Dz. U. z 2016 r. poz. 1313 i 1579), oraz odpisy prawomocnych orzeczeń o ukaraniu karą dyscyplinarną, chyba że kara została uznana za niebyłą.
 
-§ 7. Do oceny kwalifikacji kandydata wykonującego zawód adwokata, radcy prawnego albo notariusza dołącza się protokoły wizytacji, kontroli lub ocen, przeprowadzonych w trybie art. 36 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2022 r. poz. 1184 i 1268 oraz z 2023 r. poz. 1860), art. 22 ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2022 r. poz. 1166 oraz z 2023 r. poz. 1860) albo art. 44 § 2 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2022 r. poz. 1799 oraz z 2023 r. poz. 1394 i 1615).
+§ 7. Do oceny kwalifikacji kandydata wykonującego zawód adwokata, radcy prawnego albo notariusza dołącza się protokoły wizytacji, kontroli lub ocen, przeprowadzonych w trybie art. 36 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2022 r. poz. 1184 i 1268 oraz z 2023 r. poz. 1860), art. 221 ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2022 r. poz. 1166 oraz z 2023 r. poz. 1860) albo art. 44 § 2 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2022 r. poz. 1799 oraz z 2023 r. poz. 1394 i 1615).
 
 § 8. Ocena kwalifikacji kandydata mającego tytuł naukowy profesora lub stopień naukowy doktora habilitowanego nauk prawnych jest dokonywana z uwzględnieniem osiągnięć naukowych, rodzaju i jakości publikacji, opinii recenzentów, jakości i rzetelności opinii prawnych bądź innych dokumentów sporządzonych w związku ze stosowaniem lub tworzeniem prawa.
 
@@ -962,7 +996,7 @@ source: "isap-pdf"
 
 **Art. 92.**
 
-§ 1. Przy powołaniu prokurator składa ślubowanie wobec Prokuratora Generalnego według następującej roty: „Ślubuję uroczyście na powierzonym mi stanowisku prokuratora służyć wiernie Rzeczypospolitej Polskiej, stać na straży prawa i strzec praworządności, obowiązki mojego urzędu wypełniać sumiennie, dochować tajemnicy prawnie chronionej, a w postępowaniu kierować się zasadami godności i uczciwości”; składający ślubowanie może dodać na końcu zwrot: „Tak mi dopomóż Bóg”.
+§ 1. Przy powołaniu prokurator składa ślubowanie wobec Prokuratora Generalnego według następującej roty: „ Ślubuję uroczyście na powierzonym mi stanowisku prokuratora służyć wiernie Rzeczypospolitej Polskiej, stać na straży prawa i strzec praworządności, obowiązki mojego urzędu wypełniać sumiennie, dochować tajemnicy prawnie chronionej, a w postępowaniu kierować się zasadami godności i uczciwości ” ; składający ślubowanie może dodać na końcu zwrot: „Tak mi dopomóż Bóg”.
 
 § 2. Prokurator powołany na kolejne stanowisko prokuratorskie ślubowania nie składa.
 
@@ -976,7 +1010,9 @@ source: "isap-pdf"
 
 § 4. Prawomocne orzeczenie sądu dyscyplinarnego o wydaleniu ze służby prokuratorskiej oraz prawomocny wyrok sądu skazujący prokuratora za umyślne przestępstwo ścigane z oskarżenia publicznego lub orzekający wobec prokuratora środek karny pozbawienia praw publicznych, zakaz zajmowania stanowiska prokuratora, degradację lub wydalenie z zawodowej służby wojskowej, powodują z mocy prawa utratę stanowiska prokuratora; stosunek służbowy prokuratora wygasa z chwilą uprawomocnienia się orzeczenia lub wyroku.
 
-§ 5. (uchylony) § 6. Stosunek służbowy prokuratora wygasa z dniem utraty przez niego obywatelstwa polskiego lub uzyskania obywatelstwa innego państwa.
+§ 5. (uchylony)
+
+§ 6. Stosunek służbowy prokuratora wygasa z dniem utraty przez niego obywatelstwa polskiego lub uzyskania obywatelstwa innego państwa.
 
 **Art. 94.**
 
@@ -991,72 +1027,6 @@ source: "isap-pdf"
 § 3. Przeniesienia, o którym mowa w § 1 i 2, dokonuje Prokurator Krajowy.
 
 **Art. 95.** W przypadku przeniesienia prokuratora na inne miejsce służbowe prokuratorowi nie przysługuje ekwiwalent pieniężny za dni niewykorzystanego urlopu wypoczynkowego. Prokurator zachowuje prawo do wykorzystania tego urlopu w czasie pełnienia służby w miejscu, do którego przeniesienie nastąpiło.
-
-**Art. 95a.**
-
-§ 1. Kandydaci na prokuratorów Prokuratury Europejskiej są wyłaniani spośród prokuratorów w drodze konkursu na prokuratora europejskiego i konkursu na delegowanego prokuratora europejskiego. Sposób i tryb przeprowadzenia konkursów określa Prokurator Generalny w drodze zarządzenia.
-
-§ 2. Prokurator Generalny wskazuje kandydatów na prokuratora europejskiego na podstawie art. 16 ust. 1 rozporządzenia 2017/1939.
-
-§ 3. Prokurator Generalny wskazuje kandydatów na delegowanych prokuratorów europejskich na podstawie art. 17 ust. 1 rozporządzenia 2017/1939.
-
-§ 4. Z dniem powołania prokuratora na urząd prokuratora europejskiego jego prawa i obowiązki służbowe związane z powierzonymi zadaniami realizowanymi w ramach powszechnych jednostek organizacyjnych prokuratury ulegają zawieszeniu na czas sprawowania tego urzędu.
-
-§ 5. Z dniem powołania prokuratora na urząd delegowanego prokuratora europejskiego Prokurator Generalny wskazuje biuro delegowanego prokuratora europejskiego, w którym będzie on pełnił obowiązki.
-
-§ 6. Delegowany prokurator europejski może zostać odwołany za trzymiesięcznym wypowiedzeniem w trybie art. 17 ust. 4 rozporządzenia 2017/1939.
-
-§ 7. Do delegowanego prokuratora europejskiego stosuje się odpowiednio przepisy art. 109 i art. 114 oraz przepisy wydane na podstawie art. 112 w zakresie, w jakim należności, o których mowa w tych przepisach, nie są pokrywane przez Prokuraturę Europejską.
-
-**Art. 95b.**
-
-§ 1. Prokurator Prokuratury Europejskiej w okresie sprawowania urzędu zachowuje stanowisko prokuratora powszechnej jednostki organizacyjnej prokuratury, z tym że świadczy pracę na rzecz Prokuratury Europejskiej.
-
-§ 2. Do prokuratora europejskiego nie stosuje się przepisów art. 97 § 2, art. 103 § 1 i 4–6, art. 115–119 oraz art. 127 § 1 w odniesieniu do art. 94d–94g ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334 i 1907).
-
-§ 3. Okres sprawowania urzędu prokuratora Prokuratury Europejskiej wlicza się do okresu pracy, od którego zależy wymiar urlopu dodatkowego, stawka wynagrodzenia, wymiar dodatku za długoletnią pracę, wymiar gratyfikacji jubileuszowej i odprawy pośmiertnej.
-
-§ 4. Prokuratorowi Prokuratury Europejskiej nie przysługuje wynagrodzenie wypłacane przez powszechne jednostki organizacyjne prokuratury, w tym dodatkowe wynagrodzenie roczne, z zastrzeżeniem § 5.
-
-§ 5. Jeżeli miesięczne wynagrodzenie wypłacane przez Prokuraturę Europejską jest niższe od wynagrodzenia, które przysługiwałoby prokuratorowi Prokuratury Europejskiej, gdyby sprawował wyłącznie urząd prokuratora powszechnej jednostki organizacyjnej prokuratury, obliczonego z uwzględnieniem § 3 w oparciu o art. 124 (wynagrodzenie krajowe), wypłaca mu się wynagrodzenie wyrównawcze stanowiące różnicę między wynagrodzeniem krajowym a wynagrodzeniem wypłacanym przez Prokuraturę Europejską.
-
-§ 6. Prokuratorowi europejskiemu przysługuje wyłącznie urlop przewidziany dla pracowników tymczasowych Prokuratury Europejskiej w rozumieniu art. 96 ust. 1 rozporządzenia 2017/1939. Decyzję w przedmiocie urlopu delegowanego prokuratora europejskiego podejmuje właściwy organ Prokuratury Europejskiej.
-
-§ 7. Należności przysługujące prokuratorowi Prokuratury Europejskiej z tytułu pozostawania prokuratorem powszechnej jednostki organizacyjnej prokuratury wypłaca kierownik jednostki organizacyjnej prokuratury, w której zajmuje on stanowisko prokuratora powszechnej jednostki organizacyjnej prokuratury. Należności, o których mowa w art. 109 i art. 114, wypłaca delegowanemu prokuratorowi europejskiemu kierownik jednostki organizacyjnej prokuratury, przy której utworzono biuro delegowanego prokuratora europejskiego, gdzie delegowany prokurator europejski pełni obowiązki.
-
-§ 8. Jako podstawę naliczenia należności przysługujących prokuratorowi Prokuratury Europejskiej z tytułu pozostawania prokuratorem powszechnej jednostki organizacyjnej prokuratury, w przypadku gdy podstawę ich naliczenia stanowi wynagrodzenie, przyjmuje się wynagrodzenie krajowe.
-
-**Art. 95c.**
-
-§ 1. Przy prowadzeniu postępowania europejskiego i innych postępowań prowadzonych przez prokuratora Prokuratury Europejskiej zgodnie z właściwością określoną w rozporządzeniu 2017/1939 nie podlega on prokuratorom przełożonym określonym zgodnie z przepisami niniejszej ustawy, nie wykonuje ich zarządzeń, poleceń, wytycznych ani innych decyzji, z wyłączeniem zarządzeń o charakterze organizacyjnym.
-
-§ 2. Uprawnienia i obowiązki przełożonego w postępowaniu europejskim, w innych postępowaniach prowadzonych przez prokuratora Prokuratury Europejskiej zgodnie z właściwością określoną w rozporządzeniu 2017/1939, a także pozostałe uprawnienia i obowiązki wobec prokuratora Prokuratury Europejskiej w związku z pełnieniem przez niego tego urzędu wykonują organy określone w tym rozporządzeniu, w zakresie tam wskazanym.
-
-§ 3. Uprawnienia i obowiązki prokuratora nadrzędnego wobec prokuratora Prokuratury Europejskiej w postępowaniu europejskim i w innych postępowaniach prowadzonych przez prokuratora Prokuratury Europejskiej zgodnie z właściwością określoną w rozporządzeniu 2017/1939 wykonują organy określone w tym rozporządzeniu.
-
-§ 4. Uprawnienia i obowiązki Prokuratora Generalnego w postępowaniu europejskim i w innych postępowaniach prowadzonych przez prokuratora Prokuratury Europejskiej zgodnie z właściwością określoną w rozporządzeniu 2017/1939 wykonują organy określone w tym rozporządzeniu, z wyłączeniem czynności Prokuratora Generalnego, o których mowa w art. 521 oraz w art. 564–568 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
-
-§ 5. Do prokuratorów Prokuratury Europejskiej nie stosuje się przepisów:
-
-- **1)** art. 4, art. 5, art. 121 i art. 133;
-- **2)** art. 132 § 1 – w zakresie odnoszącym się do funkcji w Prokuraturze Europejskiej;
-- **3)** art. 7 § 7, art. 12, art. 139, art. 140 i art. 151 – w zakresie odnoszącym się do postępowań europejskich i innych postępowań prowadzonych przez prokuratora Prokuratury Europejskiej.
-
-§ 6. Do biur delegowanego prokuratora europejskiego nie stosuje się przepisów art. 30 i art. 191a.
-
-**Art. 95d.**
-
-§ 1. Do prokuratora europejskiego nie stosuje się przepisów art. 149.
-
-§ 2. Prokuratorem przełożonym, o którym mowa w art. 149, w odniesieniu do delegowanego prokuratora europejskiego jest kierownik jednostki organizacyjnej prokuratury, w której zajmuje on stanowisko prokuratora powszechnej jednostki organizacyjnej prokuratury.
-
-§ 3. Wszczęcie postępowania wyjaśniającego lub dyscyplinarnego oraz wymierzenie kary, o której mowa w art. 149 § 1, wobec delegowanego prokuratora europejskiego może nastąpić po spełnieniu warunków określonych w art. 17 ust. 4 rozporządzenia 2017/1939.
-
-§ 4. Postępowania dyscyplinarnego wobec prokuratora europejskiego nie wszczyna się, a wszczęte przed objęciem przez niego urzędu prokuratora europejskiego zawiesza się na czas sprawowania tego urzędu; w czasie sprawowania urzędu prokuratora europejskiego przedawnienie nie biegnie.
-
-**Art. 95e.** Prokurator Prokuratury Europejskiej wykonuje wyłącznie zadania wynikające z rozporządzenia 2017/1939.
-
-**Art. 95f.** Prokurator Generalny jest organem właściwym do podjęcia czynności określonych w art. 13 ust. 2 oraz art. 17 ust. 4 i 5 rozporządzenia 2017/1939.
 
 #### Rozdział 2 Obowiązki i prawa prokuratorów
 
@@ -1128,8 +1098,6 @@ source: "isap-pdf"
 
 § 7. Przepisy § 1–6 stosuje się do prokuratorów w stanie spoczynku.
 
-**Art. 103a.**
-
 § 1. Prokurator jest obowiązany do złożenia pisemnego oświadczenia o:
 
 - **1)** członkostwie w zrzeszeniu, w tym w stowarzyszeniu – ze wskazaniem nazwy i siedziby zrzeszenia, pełnionych funkcji oraz okresu członkostwa;
@@ -1161,7 +1129,7 @@ source: "isap-pdf"
 
 § 3. Oświadczenie, o którym mowa w § 1, prokuratorzy składają odpowiednio właściwemu prokuratorowi regionalnemu, prokuratorowi okręgowemu, naczelnikowi oddziałowej komisji lub naczelnikowi oddziałowego biura lustracyjnego, który dokonuje analizy danych zawartych w oświadczeniach w terminie do dnia 30 czerwca każdego roku.
 
-§ 4. Zastępcy Prokuratora Generalnego, Dyrektor Głównej Komisji, Dyrektor Biura Lustracyjnego, prokuratorzy Prokuratury Krajowej, prokuratorzy Głównej Komisji, prokuratorzy Biura Lustracyjnego, prokuratorzy regionalni, prokuratorzy Prokuratury Europejskiej, prokuratorzy Wydziałów Zamiejscowych Departamentu do Spraw Przestępczości Zorganizowanej i Korupcji Prokuratury Krajowej, prokuratorzy okręgowi oraz naczelnicy oddziałowych komisji i naczelnicy oddziałowych biur lustracyjnych oświadczenie, o którym mowa w § 1, składają Prokuratorowi Generalnemu, który dokonuje analizy danych zawartych w oświadczeniach w terminie do dnia 30 czerwca każdego roku.
+§ 4. Zastępcy Prokuratora Generalnego, Dyrektor Głównej Komisji, Dyrektor Biura Lustracyjnego, prokuratorzy Prokuratury Krajowej, prokuratorzy Głównej Komisji, prokuratorzy Biura Lustracyjnego, prokuratorzy regionalni, prokuratorzy Wydziałów Zamiejscowych Departamentu do Spraw Przestępczości Zorganizowanej i Korupcji Prokuratury Krajowej, prokuratorzy okręgowi oraz naczelnicy oddziałowych komisji i naczelnicy oddziałowych biur lustracyjnych oświadczenie, o którym mowa w § 1, składają Prokuratorowi Generalnemu, który dokonuje analizy danych zawartych w oświadczeniach w terminie do dnia 30 czerwca każdego roku.
 
 § 5. Oświadczenie, o którym mowa w § 1, składa się w terminie 30 dni od dnia objęcia stanowiska prokuratora, według stanu na dzień jego objęcia, a następnie co roku do dnia 30 kwietnia, według stanu na dzień 31 grudnia roku poprzedniego, a także w terminie 30 dni od dnia opuszczenia stanowiska prokuratora, według stanu na dzień jego opuszczenia.
 
@@ -1201,8 +1169,6 @@ source: "isap-pdf"
 
 § 8. Do okresu delegowania, o którym mowa w § 1–3, nie wlicza się okresu, w którym prokurator delegowany nie pełnił obowiązków służbowych z powodu choroby.
 
-**Art. 106a.**
-
 § 1. Prokurator Generalny może delegować:
 
 - **1)** prokuratora Głównej Komisji do oddziałowej komisji lub Biura Lustracyjnego;
@@ -1235,14 +1201,14 @@ source: "isap-pdf"
 
 § 1. Jeżeli delegowanie następuje do innej miejscowości niż miejscowość będąca siedzibą jednostki organizacyjnej prokuratury, w której prokurator pełni służbę, niebędącej miejscem jego stałego zamieszkania, prokuratorowi delegowanemu w okresie delegowania, jako pracownikowi w podróży służbowej, przysługują następujące należności, rekompensujące niedogodności wynikające z delegowania poza stałe miejsce pełnienia służby:
 
-- **1)** prawo do nieodpłatnego zakwaterowania w warunkach odpowiadających godności urzędu albo zwrot kosztów zamieszkania w miejscu delegowania w jednej z następujących form:
-    - **a)** zwrotu kosztów faktycznie poniesionych – w wysokości określonej w fakturze,
-    - **b)** miesięcznego ryczałtu – w kwocie nie wyższej niż 80 % kwoty bazowej, będącej podstawą ustalania wynagrodzenia zasadniczego prokuratora;
+- **1)** prawo do nieodpłatnego zakwaterowania w warunkach odpowiadających godności urzędu albo zwrot kosztów zamieszkania w miejscu delegowania w jednej z następujących form: zwrotu kosztów faktycznie poniesionych – w wysokości określonej w fakturze, miesięcznego ryczałtu – w kwocie nie wyższej niż 80 % kwoty bazowej, będącej podstawą ustalania wynagrodzenia zasadniczego prokuratora;
+    - **a)**
+    - **b)**
 
-- **2)** zwrot kosztów pierwszego przejazdu z miejsca stałego zamieszkania do miejsca delegowania, zwrot kosztów ostatniego przejazdu z miejsca delegowania do miejsca stałego zamieszkania oraz zwrot kosztów przejazdów odbywanych nie częściej niż raz w tygodniu do miejsca stałego zamieszkania i z powrotem na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 Kodeksu pracy według zasad obowiązujących przy podróżach służbowych na obszarze kraju;
-- **3)** ryczałt na pokrycie kosztów dojazdów środkami komunikacji miejscowej, o którym mowa w przepisach wydanych na podstawie art. 77 § 2 Kodeksu pracy;
-- **4)** diety, o których mowa w przepisach wydanych na podstawie art. 77 § 2 Kodeksu pracy;
-- **5)** zwrot kosztów poniesionych z tytułu używania pojazdów stanowiących własność pracownika do celów służbowych, o którym mowa w przepisach wydanych na podstawie art. 34a ust. 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 2201, z późn. zm. );
+- **2)** zwrot kosztów pierwszego przejazdu z miejsca stałego zamieszkania do miejsca delegowania, zwrot kosztów ostatniego przejazdu z miejsca delegowania do miejsca stałego zamieszkania oraz zwrot kosztów przejazdów odbywanych nie częściej niż raz w tygodniu do miejsca stałego zamieszkania i z powrotem na warunkach określonych w przepisach wydanych na podstawie art. 775 § 2 Kodeksu pracy według zasad obowiązujących przy podróżach służbowych na obszarze kraju;
+- **3)** ryczałt na pokrycie kosztów dojazdów środkami komunikacji miejscowej, o którym mowa w przepisach wydanych na podstawie art. 775 § 2 Kodeksu pracy;
+- **4)** diety, o których mowa w przepisach wydanych na podstawie art. 775 § 2 Kodeksu pracy;
+- **5)** zwrot kosztów poniesionych z tytułu używania pojazdów stanowiących własność pracownika do celów służbowych, o którym mowa w przepisach wydanych na podstawie art. 34a ust. 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 2201, z późn. zm.);
 - **6)** zwrot kosztów codziennych dojazdów do miejscowości delegowania, o których mowa w § 3.
 
 § 2. Świadczenia i należności, o których mowa w § 1 pkt 1 i 2, nie przysługują, w przypadkach, gdy odległość od miejscowości, w której prokurator delegowany ma miejsce stałego zamieszkania, do miejscowości delegowania nie przekracza 60 kilometrów, chyba że organ powołany do kierowania jednostką, do której delegowanie następuje, na wniosek prokuratora delegowanego uzna, że nie jest celowy codzienny dojazd prokuratora delegowanego do miejscowości delegowania.
@@ -1276,10 +1242,10 @@ source: "isap-pdf"
 § 2. Prokuratorowi delegowanemu na podstawie art. 106 § 7 i 7a w czasie pełnienia obowiązków lub funkcji poza granicami państwa przysługują wypłacane w walucie polskiej lub obcej:
 
 - **1)** dodatek zagraniczny na pokrycie zwiększonych kosztów związanych z pełnieniem obowiązków lub funkcji poza granicami państwa, ustalany odpowiednio do warunków i zakresu ich pełnienia;
-- **2)** w przypadku powierzenia pełnienia obowiązków lub funkcji powodujących zmianę miejsca pobytu trwającą co najmniej rok:
-    - **a)** jednorazowy dodatek adaptacyjny,
-    - **b)** pokrycie kosztów podróży przesiedleniowej prokuratora delegowanego i każdego przenoszącego się z nim członka rodziny, w tym przewozu ich mienia, niezależnie od terminów ich faktycznego przesiedlenia,
-    - **c)** pokrycie, raz na 2 lata, kosztów przejazdu prokuratora delegowanego oraz członków jego rodziny przebywających z nim na stałe poza granicami państwa, z miejsca delegacji do miejsca stałego zamieszkania na urlop wypoczynkowy i z powrotem;
+- **2)** w przypadku powierzenia pełnienia obowiązków lub funkcji powodujących zmianę miejsca pobytu trwającą co najmniej rok: jednorazowy dodatek adaptacyjny, pokrycie kosztów podróży przesiedleniowej prokuratora delegowanego i każdego przenoszącego się z nim członka rodziny, w tym przewozu ich mienia, niezależnie od terminów ich faktycznego przesiedlenia, pokrycie, raz na 2 lata, kosztów przejazdu prokuratora delegowanego oraz członków jego rodziny przebywających z nim na stałe poza granicami państwa, z miejsca delegacji do miejsca stałego zamieszkania na urlop wypoczynkowy i z powrotem;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **3)** zwrot kosztów podróży w związku z rozpoczęciem i zakończeniem pełnienia obowiązków lub funkcji poza granicami państwa, podróży służbowej na terytorium obcego państwa poza miejscem delegowania, przejazdu z miejsca delegowania do kraju i z powrotem w uzasadnionych przypadkach służbowych lub losowych;
 - **4)** zwrot kosztów leczenia, gdy delegacja następuje do państwa niebędącego członkiem Unii Europejskiej;
@@ -1293,7 +1259,7 @@ source: "isap-pdf"
 
 § 6. Minister Sprawiedliwości w porozumieniu z Ministrem Obrony Narodowej określi, w drodze rozporządzenia, tryb, warunki przyznawania i wypłaty oraz wysokość należności, o których mowa w § 2, limity, do których wysokości podlegają zwrotowi koszty zamieszkania, oraz walutę, w której należności takie są wypłacane, uwzględniając zakres ich przyznawania zależnie od miejsca pełnienia obowiązków i powierzonej prokuratorowi funkcji, a także potrzebę zapewnienia warunków do prawidłowego ich wykonywania oraz konieczność pokrycia zwiększonych kosztów związanych z wykonywaniem tych obowiązków lub funkcji poza granicami państwa i z sytuacjami szczególnymi, w tym zdarzeniami losowymi, przy uwzględnieniu przeciętnych kosztów zakwaterowania i utrzymania się za granicą.
 
-**Art. 114.** Prokuratorowi delegowanemu do wykonywania czynności służbowych w innej miejscowości niż miejscowość będąca siedzibą jednostki organizacyjnej prokuratury, w której prokurator pełni służbę, lub miejscowość delegowania, przysługują należności określone w przepisach wydanych na podstawie art. 77 § 2 Kodeksu pracy.
+**Art. 114.** Prokuratorowi delegowanemu do wykonywania czynności służbowych w innej miejscowości niż miejscowość będąca siedzibą jednostki organizacyjnej prokuratury, w której prokurator pełni służbę, lub miejscowość delegowania, przysługują należności określone w przepisach wydanych na podstawie art. 775 § 2 Kodeksu pracy.
 
 **Art. 115.**
 
@@ -1305,7 +1271,15 @@ source: "isap-pdf"
 - **2)** choroby przypadającej w okresie ciąży,
 - **3)** choroby powstałej w związku ze szczególnymi właściwościami lub warunkami wykonywania czynności prokuratora,
 - **4)** choroby spowodowanej przez inną osobę w wyniku popełnienia przez nią umyślnego czynu zabronionego, w związku z wykonywaniem czynności prokuratora, stwierdzonego orzeczeniem wydanym przez uprawniony organ,
-- **5)** poddania się niezbędnym badaniom lekarskim przewidzianym dla kandydatów na dawców komórek, tkanek i narządów oraz poddania się zabiegowi pobrania komórek, tkanek i narządów – prokurator zachowuje prawo do 100 % wynagrodzenia, nie dłużej jednak niż przez okres roku; przepis § 1 zdanie drugie i trzecie stosuje się. [§ 3. W razie ujawnienia u prokuratora choroby, co do której zachodzi podejrzenie, że powstała w związku ze szczególnymi właściwościami lub warunkami wykonywania czynności prokuratora, prokurator bezpośrednio przełożony kieruje prokuratora do lekarza orzecznika Zakładu Ubezpieczeń Społecznych z urzędu lub na wniosek prokuratora. Od orzeczenia lekarza orzecznika prokuratorowi przysługuje sprzeciw do komisji lekarskiej Zakładu Ubezpieczeń Społecznych w ciągu 14 dni od dnia doręczenia tego orzeczenia.] <§ 3. W razie ujawnienia u prokuratora choroby, co do której zachodzi podejrzenie, że powstała w związku ze szczególnymi właściwościami lub warunkami wykonywania czynności prokuratora, prokurator bezpośrednio przełożony kieruje prokuratora do lekarza orzecznika Zakładu Ubezpieczeń Społecznych z urzędu lub na wniosek prokuratora. Orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ).> § 4. Za chorobę powstałą w związku ze szczególnymi właściwościami lub warunkami wykonywania czynności prokuratora uznaje się chorobę spowodowaną działaniem czynników szkodliwych występujących w miejscu wykonywania czynności prokuratora. [§ 5. Koszty badania i wydania orzeczenia przez lekarza orzecznika oraz komisję lekarską Zakładu Ubezpieczeń Społecznych pokrywa Skarb Państwa ze środków pozostających w dyspozycji Prokuratora Generalnego.] <§ 5. Koszty badania i wydania orzeczenia przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych pokrywa Skarb Państwa ze środków pozostających w dyspozycji Prokuratora Generalnego.> § 6. W razie niemożności wykonywania pracy z innych przyczyn, uprawniających do uzyskania świadczeń określonych w przepisach o świadczeniach pieniężnych z ubezpieczenia społecznego, prokuratorowi przysługuje wynagrodzenie w wysokości świadczeń pieniężnych z ubezpieczenia społecznego przez okres przewidziany w tych przepisach.
+- **5)** poddania się niezbędnym badaniom lekarskim przewidzianym dla kandydatów na dawców komórek, tkanek i narządów oraz poddania się zabiegowi pobrania komórek, tkanek i narządów prokurator zachowuje prawo do 100 % wynagrodzenia, nie dłużej jednak niż przez okres roku; przepis § 1 zdanie drugie i trzecie stosuje się.
+
+§ 3. W razie ujawnienia u prokuratora choroby, co do której zachodzi podejrzenie, że powstała w związku ze szczególnymi właściwościami lub warunkami wykonywania czynności prokuratora, prokurator bezpośrednio przełożony kieruje prokuratora do lekarza orzecznika Zakładu Ubezpieczeń Społecznych z urzędu lub na wniosek prokuratora. Od orzeczenia lekarza orzecznika prokuratorowi przysługuje sprzeciw do komisji lekarskiej Zakładu Ubezpieczeń Społecznych w ciągu 14 dni od dnia doręczenia tego orzeczenia.
+
+§ 4. Za chorobę powstałą w związku ze szczególnymi właściwościami lub warunkami wykonywania czynności prokuratora uznaje się chorobę spowodowaną działaniem czynników szkodliwych występujących w miejscu wykonywania czynności prokuratora.
+
+§ 5. Koszty badania i wydania orzeczenia przez lekarza orzecznika oraz komisję lekarską Zakładu Ubezpieczeń Społecznych pokrywa Skarb Państwa ze środków pozostających w dyspozycji Prokuratora Generalnego.
+
+§ 6. W razie niemożności wykonywania pracy z innych przyczyn, uprawniających do uzyskania świadczeń określonych w przepisach o świadczeniach pieniężnych z ubezpieczenia społecznego, prokuratorowi przysługuje wynagrodzenie w wysokości świadczeń pieniężnych z ubezpieczenia społecznego przez okres przewidziany w tych przepisach.
 
 § 7. Okres nieobecności w pracy z powodu choroby oraz niemożności wykonywania pracy, o której mowa w § 6, stwierdza zaświadczenie lekarskie wystawione zgodnie z art. 55 ust. 1 i art. 55a ust. 7 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2023 r. poz. 2780) albo wydruk zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 6 tej ustawy, z tym że w przypadku:
 
@@ -1467,7 +1441,11 @@ source: "isap-pdf"
 
 **Art. 127.**
 
-§ 1. Do prokuratorów stosuje się odpowiednio przepisy art. 69–71, art. 73, art. 74, art. 76, art. 85 § 4, art. 94d–94g, art. 99–102 i art. 104 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, jeżeli przepisy niniejszej ustawy nie stanowią inaczej. Przewidziane w ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych uprawnienia Krajowej Rady Sądownictwa i Ministra Sprawiedliwości przysługują w stosunku do prokuratorów Prokuratorowi Generalnemu, a uprawnienia kolegiów i prezesów właściwych sądów – właściwym prokuratorom przełożonym. [§ 1a. Przeniesienie prokuratora w stan spoczynku z powodu choroby lub utraty sił następuje z dniem uprawomocnienia się orzeczenia wydanego przez lekarza orzecznika lub komisję lekarską Zakładu Ubezpieczeń Społecznych stwierdzającego trwałą niezdolność do pełnienia obowiązków prokuratora.] <§ 1a. Przeniesienie prokuratora w stan spoczynku z powodu choroby lub utraty sił następuje z dniem uprawomocnienia się orzeczenia lekarza orzecznika Zakładu Ubezpieczeń Społecznych stwierdzającego trwałą niezdolność do pełnienia obowiązków prokuratora albo orzeczenia lekarza orzecznika Zakładu Ubezpieczeń Społecznych wydanego w wyniku ponownego rozpatrzenia sprawy.> § 2. Prokurator może nadal zajmować stanowisko po ukończeniu 65. roku życia, jeżeli Prokurator Generalny na wniosek prokuratora, po przedstawieniu zaświadczenia stwierdzającego, że jest zdolny ze względu na stan zdrowia do pełnienia obowiązków prokuratora, oraz po zasięgnięciu opinii Prokuratora Krajowego, Krajowej Rady Prokuratorów oraz właściwego prokuratora przełożonego, wyrazi zgodę na dalsze zajmowanie stanowiska przez prokuratora.
+§ 1. Do prokuratorów stosuje się odpowiednio przepisy art. 69–71, art. 73, art. 74, art. 76, art. 85 § 4, art. 94d-94g, art. 99–102 i art. 104 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, jeżeli przepisy niniejszej ustawy nie stanowią inaczej. Przewidziane w ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych uprawnienia Krajowej Rady Sądownictwa i Ministra Sprawiedliwości przysługują w stosunku do prokuratorów Prokuratorowi Generalnemu, a uprawnienia kolegiów i prezesów właściwych sądów – właściwym prokuratorom przełożonym.
+
+§ 1a. Przeniesienie prokuratora w stan spoczynku z powodu choroby lub utraty sił następuje z dniem uprawomocnienia się orzeczenia wydanego przez lekarza orzecznika lub komisję lekarską Zakładu Ubezpieczeń Społecznych stwierdzającego trwałą niezdolność do pełnienia obowiązków prokuratora.
+
+§ 2. Prokurator może nadal zajmować stanowisko po ukończeniu 65. roku życia, jeżeli Prokurator Generalny na wniosek prokuratora, po przedstawieniu zaświadczenia stwierdzającego, że jest zdolny ze względu na stan zdrowia do pełnienia obowiązków prokuratora, oraz po zasięgnięciu opinii Prokuratora Krajowego, Krajowej Rady Prokuratorów oraz właściwego prokuratora przełożonego, wyrazi zgodę na dalsze zajmowanie stanowiska przez prokuratora.
 
 § 3. Wniosek i zaświadczenie, o których mowa w § 2, składa się Prokuratorowi Generalnemu najpóźniej na 6 miesięcy przed ukończeniem 65. roku życia. W przypadku niezakończenia postępowania związanego z rozpoznaniem wniosku prokurator pozostaje w służbie do czasu zakończenia postępowania, w tym postępowania przed Sądem Najwyższym.
 
@@ -1479,7 +1457,7 @@ source: "isap-pdf"
 
 § 7. Instytucją łącznikową, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczącego wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego, w odniesieniu do uposażeń prokuratorów w stanie spoczynku oraz uposażeń rodzinnych członków rodzin prokuratorów i prokuratorów w stanie spoczynku, podlegających przepisom o koordynacji systemów zabezpieczenia społecznego, przysługujących z budżetu państwa na podstawie przepisów niniejszej ustawy, jest organ emerytalny określony przez ministra właściwego do spraw wewnętrznych w przepisach wydanych na podstawie art. 32 ust. 2a ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2023 r. poz. 1280, 1429 i 1834).
 
-§ 8. Organ emerytalny, o którym mowa w § 6, jest instytucją właściwą, instytucją miejsca zamieszkania, instytucją miejsca pobytu, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 883/2004 z dnia 29 kwietnia 2004 r. w sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. WE L 166 z 30.04.2004, str. 1, z późn. zm. ), w odniesieniu do uposażeń prokuratorów w stanie spoczynku oraz uposażeń rodzinnych członków rodzin prokuratorów i prokuratorów w stanie spoczynku, podlegających przepisom o koordynacji systemów zabezpieczenia społecznego, przyznanych na podstawie przepisów niniejszej ustawy.
+§ 8. Organ emerytalny, o którym mowa w § 6, jest instytucją właściwą, instytucją miejsca zamieszkania, instytucją miejsca pobytu, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 883/2004 z dnia 29 kwietnia 2004 r. w sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. WE L 166 z 30.04.2004, str. 1, z późn. zm.), w odniesieniu do uposażeń prokuratorów w stanie spoczynku oraz uposażeń rodzinnych członków rodzin prokuratorów i prokuratorów w stanie spoczynku, podlegających przepisom o koordynacji systemów zabezpieczenia społecznego, przyznanych na podstawie przepisów niniejszej ustawy.
 
 **Art. 128.**
 
@@ -1551,9 +1529,9 @@ source: "isap-pdf"
 
 § 2. O zatrzymaniu prokuratora:
 
-- **1)** Prokuratury Krajowej – niezwłocznie zawiadamia się Prokuratora Krajowego, 1a) Prokuratury Europejskiej – niezwłocznie zawiadamia się Prokuratora Krajowego i Europejskiego Prokuratora Generalnego,
+- **1)** Prokuratury Krajowej – niezwłocznie zawiadamia się Prokuratora Krajowego,
 - **2)** prokuratora prokuratury regionalnej, prokuratora prokuratury okręgowej i prokuratora prokuratury rejonowej – niezwłocznie zawiadamia się prokuratora regionalnego właściwego ze względu na miejsce zatrzymania,
-- **3)** prokuratora Instytutu Pamięci Narodowej – niezwłocznie zawiadamia się Dyrektora Głównej Komisji – którzy mogą nakazać natychmiastowe zwolnienie zatrzymanego prokuratora.
+- **3)** prokuratora Instytutu Pamięci Narodowej – niezwłocznie zawiadamia się Dyrektora Głównej Komisji którzy mogą nakazać natychmiastowe zwolnienie zatrzymanego prokuratora.
 
 § 3. Wniosek o zezwolenie na pociągnięcie prokuratora do odpowiedzialności karnej, jeżeli nie pochodzi od prokuratora, sporządza i podpisuje pełnomocnik będący adwokatem albo radcą prawnym.
 
@@ -1567,7 +1545,7 @@ source: "isap-pdf"
 
 § 8. Rozstrzygając w przedmiocie wniosku o zezwolenie na pociągnięcie prokuratora do odpowiedzialności karnej, wniosku o zezwolenie na tymczasowe aresztowanie prokuratora lub zastrzeżenia, o którym mowa w § 7, sąd dyscyplinarny podejmuje uchwałę większością głosów. Uchwała zawiera rozstrzygnięcie wraz z uzasadnieniem.
 
-§ 9. Uchwałę doręcza się niezwłocznie wnioskodawcy, prokuratorowi, którego dotyczy wniosek, i rzecznikowi dyscyplinarnemu, a w sprawach dotyczących prokuratora Prokuratury Europejskiej – również Europejskiemu Prokuratorowi Generalnemu.
+§ 9. Uchwałę doręcza się niezwłocznie wnioskodawcy, prokuratorowi, którego dotyczy wniosek, i rzecznikowi dyscyplinarnemu.
 
 § 10. Jeżeli wniosek o zezwolenie na pociągnięcie do odpowiedzialności karnej lub tymczasowe aresztowanie dotyczy prokuratora ujętego na gorącym uczynku zbrodni lub występku zagrożonego karą pozbawienia wolności, której górna granica wynosi co najmniej 8 lat, występku, o którym mowa w art. 177 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17) w związku z art. 178 § 1 tej ustawy, a także w art. 178a § 1 lub 4 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, i pozostającego nadal zatrzymanym, sąd dyscyplinarny podejmuje uchwałę w przedmiocie wniosku niezwłocznie, nie później niż przed upływem 24 godzin od jego wpłynięcia do sądu dyscyplinarnego. Uchwała zezwalająca na pociągnięcie do odpowiedzialności karnej lub tymczasowe aresztowanie prokuratora jest natychmiast wykonalna.
 
@@ -1689,9 +1667,9 @@ source: "isap-pdf"
 
 § 1. W sprawach wskazanych w niniejszym rozdziale orzekają:
 
-- **1)** w pierwszej instancji:
-    - **a)** Sąd Dyscyplinarny przy Prokuratorze Generalnym w składzie 3 członków,
-    - **b)** Sąd Najwyższy w składzie 2 sędziów orzekających w Izbie Odpowiedzialności Zawodowej i 1 ławnika Sądu Najwyższego w sprawach przewinień dyscyplinarnych wyczerpujących znamiona umyślnych przestępstw ściganych z oskarżenia publicznego lub umyślnych przestępstw skarbowych, lub w sprawach, w których wniosek złożył Sąd Najwyższy, oraz w sprawach, o których mowa w art. 137 § 1 pkt 3;
+- **1)** w pierwszej instancji: Sąd Dyscyplinarny przy Prokuratorze Generalnym w składzie 3 członków, Sąd Najwyższy w składzie 2 sędziów orzekających w Izbie Odpowiedzialności Zawodowej i 1 ławnika Sądu Najwyższego w sprawach przewinień dyscyplinarnych wyczerpujących znamiona umyślnych przestępstw ściganych z oskarżenia publicznego lub umyślnych przestępstw skarbowych, lub w sprawach, w których wniosek złożył Sąd Najwyższy, oraz w sprawach, o których mowa w art. 137 § 1 pkt 3;
+    - **a)**
+    - **b)**
 
 - **2)** w drugiej instancji – Sąd Najwyższy w składzie 2 sędziów orzekających w Izbie Odpowiedzialności Zawodowej i 1 ławnika Sądu Najwyższego.
 
@@ -1765,7 +1743,11 @@ source: "isap-pdf"
 
 § 5. Na postanowienia, o których mowa w § 3 i 4, stronom przysługuje odwołanie. Na postanowienie, o którym mowa w § 3, odwołanie przysługuje również przełożonemu dyscyplinarnemu.
 
-§ 6. (uchylony) § 7. (uchylony) § 8. Przełożony dyscyplinarny może w każdym czasie uchylić zawieszenie prokuratora w czynnościach.
+§ 6. (uchylony)
+
+§ 7. (uchylony)
+
+§ 8. Przełożony dyscyplinarny może w każdym czasie uchylić zawieszenie prokuratora w czynnościach.
 
 **Art. 151.**
 
@@ -1799,8 +1781,6 @@ source: "isap-pdf"
 
 § 8. W razie przeszkody w pełnieniu obowiązków przez rzecznika dyscyplinarnego Prokuratora Generalnego, jego obowiązki przejmuje pierwszy zastępca rzecznika dyscyplinarnego Prokuratora Generalnego do czasu ustania przeszkody, o ile Prokurator Generalny nie powierzy tej funkcji innemu prokuratorowi na czas określony.
 
-**Art. 153a.**
-
 § 1. Minister Sprawiedliwości może powołać Rzecznika Dyscyplinarnego Ministra Sprawiedliwości do prowadzenia określonej sprawy dotyczącej prokuratora. Powołanie Rzecznika Dyscyplinarnego Ministra Sprawiedliwości wyłącza innego rzecznika od podejmowania czynności w sprawie.
 
 § 2. Rzecznik Dyscyplinarny Ministra Sprawiedliwości jest powoływany spośród prokuratorów każdorazowo wskazanych do sprawy przez Prokuratora Krajowego. W uzasadnionych przypadkach, w szczególności śmierci lub przedłużającej się przeszkody w pełnieniu funkcji Rzecznika Dyscyplinarnego Ministra Sprawiedliwości, Minister Sprawiedliwości wyznacza w miejsce tej osoby innego prokuratora spośród wskazanych przez Prokuratora Krajowego.
@@ -1809,9 +1789,7 @@ source: "isap-pdf"
 
 § 4. Powołanie Rzecznika Dyscyplinarnego Ministra Sprawiedliwości jest równoznaczne z żądaniem podjęcia postępowania wyjaśniającego albo postępowania dyscyplinarnego.
 
-§ 5. Funkcja Rzecznika Dyscyplinarnego Ministra Sprawiedliwości wygasa z chwilą uprawomocnienia się orzeczenia o odmowie wszczęcia postępowania dyscyplinarnego, umorzeniu postępowania dyscyplinarnego albo uprawomocnienia się orzeczenia kończącego postępowanie dyscyplinarne. Wygaśnięcie funkcji Rzecznika Dyscyplinarnego Ministra Sprawiedliwości nie stoi na przeszkodzie ponownemu powołaniu przez Ministra Sprawiedliwości rzecznika w tej samej sprawie.
-
-**Art. 153b.** Do Rzecznika Dyscyplinarnego Ministra Sprawiedliwości stosuje się odpowiednio przepisy o rzecznikach dyscyplinarnych.
+§ 5. Funkcja Rzecznika Dyscyplinarnego Ministra Sprawiedliwości wygasa z chwilą uprawomocnienia się orzeczenia o odmowie wszczęcia postępowania dyscyplinarnego, umorzeniu postępowania dyscyplinarnego albo uprawomocnienia się orzeczenia kończącego postępowanie dyscyplinarne. Wygaśnięcie funkcji Rzecznika Dyscyplinarnego Ministra Sprawiedliwości nie stoi na przeszkodzie ponownemu powołaniu przez Ministra Sprawiedliwości rzecznika w tej samej sprawie. Do Rzecznika Dyscyplinarnego Ministra Sprawiedliwości stosuje się odpowiednio przepisy o rzecznikach dyscyplinarnych.
 
 **Art. 154.**
 
@@ -1871,13 +1849,9 @@ source: "isap-pdf"
 
 § 3. Sądowi dyscyplinarnemu, w imieniu którego działa przewodniczący składu orzekającego, oraz stronom postępowania dyscyplinarnego przysługuje zażalenie do sądu okręgowego w terminie 7 dni od dnia doręczenia postanowienia. Sąd okręgowy rozpoznaje zażalenie na posiedzeniu bez udziału stron w terminie 21 dni od dnia jego wpływu.
 
-§ 4. Strony mogą wziąć udział w posiedzeniach, o których mowa w § 2 i 3.
-
-**Art. 157a.** W sprawach uregulowanych w niniejszym rozdziale nie stosuje się przepisu art. 117 § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, chyba że ustawa nakazuje zawiadomienie uczestnika o terminie czynności procesowej, a brak jest dowodu, że został on o nim powiadomiony.
+§ 4. Strony mogą wziąć udział w posiedzeniach, o których mowa w § 2 i 3. W sprawach uregulowanych w niniejszym rozdziale nie stosuje się przepisu art. 117 § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, chyba że ustawa nakazuje zawiadomienie uczestnika o terminie czynności procesowej, a brak jest dowodu, że został on o nim powiadomiony.
 
 **Art. 158.** Jeżeli w toku rozprawy ujawni się inne przewinienie dyscyplinarne oprócz objętego wnioskiem o rozpoznanie sprawy dyscyplinarnej, sąd może wydać co do tego przewinienia orzeczenie tylko za zgodą rzecznika dyscyplinarnego i obwinionego lub jego obrońcy. W razie braku zgody rzecznik dyscyplinarny prowadzi w tym zakresie odrębne postępowanie dyscyplinarne.
-
-**Art. 158a.**
 
 § 1. Sąd dyscyplinarny, uznając na podstawie materiału zebranego przez rzecznika dyscyplinarnego, że okoliczności czynu i wina obwinionego nie budzą wątpliwości, a wystarczające będzie wymierzenie kar określonych w art. 142 § 1 pkt 1–3, może wydać wyrok nakazowy.
 
@@ -1885,9 +1859,7 @@ source: "isap-pdf"
 
 § 3. Od wyroku nakazowego Prokuratorowi Generalnemu, obwinionemu i rzecznikowi dyscyplinarnemu służy sprzeciw.
 
-§ 4. Sprzeciw wnosi się do sądu dyscyplinarnego, który wydał wyrok nakazowy, w terminie zawitym 7 dni od dnia jego doręczenia.
-
-**Art. 158b.** Dowody uzyskane do celów postępowania karnego w trybie określonym w art. 168b, art. 237 lub art. 237a ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego lub uzyskane w wyniku stosowania kontroli operacyjnej mogą zostać wykorzystane w postępowaniu dyscyplinarnym.
+§ 4. Sprzeciw wnosi się do sądu dyscyplinarnego, który wydał wyrok nakazowy, w terminie zawitym 7 dni od dnia jego doręczenia. Dowody uzyskane do celów postępowania karnego w trybie określonym w art. 168b, art. 237 lub art. 237a ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego lub uzyskane w wyniku stosowania kontroli operacyjnej mogą zostać wykorzystane w postępowaniu dyscyplinarnym.
 
 **Art. 159.** W razie rozwiązania lub wygaśnięcia stosunku służbowego prokuratora w toku postępowania dyscyplinarnego postępowanie to toczy się nadal. Jeżeli obwiniony podjął pracę w organach administracji publicznej, urzędzie obsługującym organ administracji publicznej, Prokuratorii Generalnej Rzeczypospolitej Polskiej, jako adwokat, radca prawny albo notariusz, sąd przesyła orzeczenie odpowiednio właściwemu organowi administracji publicznej, kierownikowi urzędu, Prezesowi Prokuratorii Generalnej Rzeczypospolitej Polskiej, Naczelnej Radzie Adwokackiej lub Krajowej Radzie Radców Prawnych albo Krajowej Radzie Notarialnej.
 
@@ -1900,8 +1872,6 @@ source: "isap-pdf"
 § 3. Uzasadnienie orzeczenia wydanego przez Sąd Dyscyplinarny przy Prokuratorze Generalnym podpisuje członek składu orzekającego pełniący funkcję sprawozdawcy. W przypadku zgłoszenia zdania odrębnego uzasadnienie podpisują wszyscy członkowie składu orzekającego.
 
 § 4. Orzeczenie wraz z uzasadnieniem doręcza się wnioskodawcy oraz Prokuratorowi Generalnemu.
-
-**Art. 160a.**
 
 § 1. Prawomocny wyrok skazujący sądu dyscyplinarnego podaje się do wiadomości publicznej.
 
@@ -1921,11 +1891,15 @@ source: "isap-pdf"
 
 § 1. Od orzeczenia sądu dyscyplinarnego pierwszej instancji przysługuje odwołanie Prokuratorowi Generalnemu, Prokuratorowi Krajowemu, obwinionemu i rzecznikowi dyscyplinarnemu. Odwołanie powinno być rozpoznane w terminie 2 miesięcy od dnia jego wniesienia do sądu dyscyplinarnego drugiej instancji.
 
-§ 2. (uchylony) § 3. (uchylony) § 4. (uchylony) § 5. Prokuratorowi Generalnemu doręcza się orzeczenie wraz z uzasadnieniem w każdym przypadku, gdy uzasadnienie zostało sporządzone.
+§ 2. (uchylony)
+
+§ 3. (uchylony)
+
+§ 4. (uchylony)
+
+§ 5. Prokuratorowi Generalnemu doręcza się orzeczenie wraz z uzasadnieniem w każdym przypadku, gdy uzasadnienie zostało sporządzone.
 
 **Art. 163.** (uchylony)
-
-**Art. 163a.**
 
 § 1. Od orzeczenia sądu dyscyplinarnego drugiej instancji kasacja nie przysługuje.
 
@@ -1960,7 +1934,7 @@ source: "isap-pdf"
 § 2. Po upływie:
 
 - **1)** 3 lat od dnia uprawomocnienia się orzeczenia skazującego na karę przewidzianą w art. 142 § 1 pkt 1 lub orzeczenia, o którym mowa w art. 142 § 5,
-- **2)** 5 lat od dnia uprawomocnienia się orzeczenia skazującego na karę przewidzianą w art. 142 § 1 pkt 2–4 – Prokurator Generalny, na wniosek prokuratora, zarządza usunięcie odpisu orzeczenia z akt osobowych, jeżeli w tym okresie nie wydano przeciwko niemu innego orzeczenia skazującego. Usunięcie z akt osobowych odpisu orzeczenia dotyczącego zastępcy Prokuratora Generalnego zarządza, na jego wniosek, Prokurator Generalny, jeżeli w tym okresie nie wydano przeciwko temu prokuratorowi innego orzeczenia skazującego.
+- **2)** 5 lat od dnia uprawomocnienia się orzeczenia skazującego na karę przewidzianą w art. 142 § 1 pkt 2–4 Prokurator Generalny, na wniosek prokuratora, zarządza usunięcie odpisu orzeczenia z akt osobowych, jeżeli w tym okresie nie wydano przeciwko niemu innego orzeczenia skazującego. Usunięcie z akt osobowych odpisu orzeczenia dotyczącego zastępcy Prokuratora Generalnego zarządza, na jego wniosek, Prokurator Generalny, jeżeli w tym okresie nie wydano przeciwko temu prokuratorowi innego orzeczenia skazującego.
 
 **Art. 169.** Prokurator Generalny ma wgląd w czynności Sądu Dyscyplinarnego przy Prokuratorze Generalnym, może zwracać uwagę na stwierdzone uchybienia, żądać wyjaśnień oraz usunięcia skutków uchybienia; czynności te nie mogą wkraczać w dziedzinę, w której członkowie Sądu Dyscyplinarnego przy Prokuratorze Generalnym są niezawiśli.
 
@@ -1978,7 +1952,10 @@ source: "isap-pdf"
 
 **Art. 171.** W sprawach nieuregulowanych w niniejszej ustawie:
 
-### DZIAŁ V Asesorzy prokuratury, asystenci prokuratorów i aplikanci prokuratorscy
+- **1)** do postępowania dyscyplinarnego stosuje się odpowiednio przepisy części ogólnej ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oraz przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, z wyłączeniem art. 344a i art. 396a, z uwzględnieniem odrębności wynikających z charakteru postępowania dyscyplinarnego.
+- **2)** (uchylony)
+
+### Dział V Asesorzy prokuratury, asystenci prokuratorów i aplikanci prokuratorscy
 
 #### Rozdział 1 Asesorzy prokuratury
 
@@ -2008,7 +1985,7 @@ source: "isap-pdf"
 
 § 1a. Prokurator Generalny może mianować asesorem prokuratury osobę, która spełnia warunki określone w art. 75 § 1 pkt 1–5 i 8, zdała egzamin adwokacki lub radcowski i:
 
-- **1)** przez co najmniej rok była zatrudniona na stanowisku asystenta prokuratora, asystenta sędziego, starszego asystenta sędziego lub wykonywała czynności związane z tworzeniem lub stosowaniem prawa w urzędach obsługujących organy państwowe lub
+- **1)** przez co najmniej rok była zatrudniona na stanowisku asystenta prokuratora lub asystenta sędziego lub wykonywała czynności związane z tworzeniem lub stosowaniem prawa w urzędach obsługujących organy państwowe lub
 - **2)** posiada stopień naukowy doktora nauk prawnych.
 
 § 2. Wysokość wynagrodzenia zasadniczego asesora prokuratury wynosi 80 % wynagrodzenia zasadniczego prokuratora prokuratury rejonowej w stawce pierwszej, powiększonego o należną składkę z tytułu ubezpieczenia społecznego.
@@ -2024,11 +2001,11 @@ source: "isap-pdf"
 § 2. Asystent prokuratora w zastępstwie i na podstawie pisemnego upoważnienia prokuratora jest uprawniony do:
 
 - **1)** wykonywania bieżących czynności nadzoru nad dochodzeniem;
-- **2)** przeprowadzania w toku postępowania przygotowawczego czynności procesowych:
-    - **a)** przesłuchania świadka,
-    - **b)** zatrzymania rzeczy i przeszukania,
-    - **c)** oględzin,
-    - **d)** eksperymentu.
+- **2)** przeprowadzania w toku postępowania przygotowawczego czynności procesowych: przesłuchania świadka, zatrzymania rzeczy i przeszukania, oględzin, eksperymentu.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 § 3. Asystent prokuratora wykonuje samodzielnie czynności administracyjne związane z prowadzeniem i nadzorowaniem postępowań przygotowawczych oraz z przygotowaniem decyzji kończących te postępowania.
 
@@ -2112,7 +2089,7 @@ source: "isap-pdf"
 
 **Art. 184.** Do aplikanta prokuratorskiego, w zakresie nieuregulowanym w ustawie z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury, stosuje się odpowiednio przepisy niniejszej ustawy.
 
-### DZIAŁ VI Skargi i wnioski
+### Dział VI Skargi i wnioski
 
 **Art. 185.**
 
@@ -2138,7 +2115,7 @@ source: "isap-pdf"
 
 **Art. 189.** W zakresie nieuregulowanym w niniejszej ustawie do skarg i wniosków stosuje się przepisy działu VIII ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
-### DZIAŁ VII Urzędnicy i inni pracownicy
+### Dział VII Urzędnicy i inni pracownicy
 
 **Art. 190.**
 
@@ -2146,15 +2123,13 @@ source: "isap-pdf"
 
 § 2. Zasady zatrudniania urzędników i innych pracowników oraz ich obowiązki i prawa określają odrębne przepisy.
 
-### DZIAŁ VIII Przetwarzanie danych osobowych
+### Dział VIII Przetwarzanie danych osobowych
 
 **Art. 191.**
 
 § 1. Prokurator Generalny przetwarza dane osobowe prokuratorów, prokuratorów w stanie spoczynku, asesorów prokuratury, asystentów prokuratorów, urzędników i innych pracowników powszechnych jednostek organizacyjnych prokuratury, a także kandydatów na te stanowiska w celu i w zakresie niezbędnym dla prawidłowego wykonywania zadań wynikających z obowiązujących przepisów.
 
 § 2. (uchylony)
-
-**Art. 191a.**
 
 § 1. Nadzór nad przetwarzaniem danych osobowych w ramach realizacji zadań określonych w art. 2, których administratorami są powszechne jednostki organizacyjne prokuratury zgodnie z art. 13 § 6, wykonują w zakresie działalności prokuratury:
 
@@ -2168,7 +2143,7 @@ source: "isap-pdf"
 
 - **1)** rozpatrują skargi osób, których dane osobowe są przetwarzane niezgodnie z prawem, i prowadzą postępowania w tym zakresie;
 - **2)** podejmują działania mające na celu upowszechnianie wśród nadzorowanych administratorów danych i podmiotów przetwarzających wiedzy o obowiązkach wynikających z ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości;
-- **3)** współpracują wzajemnie oraz z organami sprawującymi nadzór nad przetwarzaniem danych osobowych w ramach postępowań prowadzonych przez sądy i trybunały z organami nadzorczymi w rozumieniu art. 51 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), jak też współpracują między sobą, w tym dzielą się informacjami, oraz świadczą z tymi organami i między sobą wzajemną pomoc w celu zapewnienia spójnego stosowania przepisów ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości;
+- **3)** współpracują wzajemnie oraz z organami sprawującymi nadzór nad przetwarzaniem danych osobowych w ramach postępowań prowadzonych przez sądy i trybunały z organami nadzorczymi w rozumieniu art. 51 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.), jak też współpracują między sobą, w tym dzielą się informacjami, oraz świadczą z tymi organami i między sobą wzajemną pomoc w celu zapewnienia spójnego stosowania przepisów ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości;
 - **4)** zapewniają skuteczną ochronę danych osobowych w nadzorowanych jednostkach, monitorują i egzekwują stosowanie przepisów o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości oraz przeprowadzają kontrole przetwarzania danych osobowych w celu ustalenia zgodności ich przetwarzania z prawem, a w razie stwierdzenia niezgodności nakazują administratorowi lub podmiotowi przetwarzającemu dane osobowe przywrócenie stanu zgodnego z prawem i podejmują działania mające na celu wyeliminowanie stwierdzonych nieprawidłowości.
 
 § 3. Organy, o których mowa w § 1, są uprawnione do:
@@ -2184,7 +2159,7 @@ source: "isap-pdf"
 
 § 4. Do przyjmowania i rozpatrywania skarg, o których mowa w § 2 pkt 1, stosuje się odpowiednio przepisy działu VI.
 
-### DZIAŁ IX Przepis końcowy
+### Dział IX Przepis końcowy
 
 **Art. 192.** Ustawa wchodzi w życie w terminie i na zasadach określonych w ustawie z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178 i 2103 oraz z 2017 r. poz. 1452).
 

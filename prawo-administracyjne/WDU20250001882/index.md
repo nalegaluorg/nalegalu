@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# o zmianie ustawy o doradztwie podatkowym oraz ustawy – Prawo o postępowaniu przed sądami administracyjnymi
-
-*USTAWA z dnia 4 grudnia 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 grudnia 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +22,222 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2025-12-04 |
 | Data wydania | 2025-12-30 |
+| Wejście w życie | 2026-03-05 |
 | Ostatnia zmiana | 2026-03-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001882) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1882/text.pdf) |
 
+USTAWA z dnia 4 grudnia 2025 r.
+o zmianie ustawy o doradztwie podatkowym oraz ustawy Prawo o postępowaniu przed sądami administracyjnymi
+
 **Art. 1.** W ustawie z dnia 5 lipca 1996 r. o doradztwie podatkowym (Dz. U. z 2021 r. poz. 2117) wprowadza się następujące zmiany:
 
+- **1)** art. 2 ust. 1:
+    - **a)** pkt 1 otrzymuje brzmienie: „1) udzielanie podatnikom, płatnikom i inkasentom oraz innym podmiotom, na ich zlecenie lub na ich rzecz, porad, opinii i wyjaśnień z zakresu ich obowiązków:
+    - **a)** podatkowych i celnych,
+    - **b)** dotyczących opłat, do których stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ),
+    - **c)** dotyczących egzekucji administracyjnej związanej z obowiązkami, o których mowa lit. a i b;”,
+    - **b)** po pkt 3 dodaje się pkt 3a brzmieniu: „3a) wykonywanie, imieniu i na rzecz podatników, płatników i inkasentów oraz innych podmiotów, ciążących na nich obowiązków informacyjnych, sprawozdawczych oraz raportowania wynikających z przepisów:
+    - **a)** prawa podatkowego,
+    - **b)** dotyczących opłat, do których stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa,
+    - **c)** o wymianie informacji podatkowych oraz udzielanie im pomocy tym zakresie;”,
+    - **c)** pkt 4 otrzymuje brzmienie: „4) reprezentowanie podatników, płatników i inkasentów oraz innych podmiotów postępowaniu przed organami administracji publicznej i zakresie sądowej kontroli decyzji, postanowień i innych aktów administracyjnych sprawach wymienionych pkt 1 i 3a;”;
+
+- **2)** art. 4:
+    - **a)** ust. 1 pkt 1 otrzymuje brzmienie: „1) organizacje zawodowe posiadające osobowość prawną, spółdzielnie, stowarzyszenia lub izby gospodarcze, jeżeli przedmiotem ich działalności statutowej jest również doradztwo podatkowe świadczone wyłącznie na rzecz ich członków, wpisane do rejestru, o którym mowa art. 14, na dzień 1 marca 2026 r.;”, jących te czynności na podstawie umowy cywilnoprawnej zawartej z tymi podmiotami”,
+    - **c)** ust. 3 po wyrazach „zatrudnionych tych podmiotach” dodaje się wyrazy „lub wykonujących te czynności na podstawie umowy cywilnoprawnej zawartej z tymi podmiotami”,
+    - **d)** dodaje się ust. 4 brzmieniu: „4. Podmioty wymienione ust. 1 pkt 1 i 3 wykonują czynności, o których mowa odpowiednio art. 2 ust. 1 pkt 1, 4 i 5, pod warunkiem, że są wpisane do rejestru, o którym mowa art. 14.”;
+
+- **3)** art. 6 ust. 2 otrzymuje brzmienie: „2. Na listę doradców podatkowych wpisuje się również osoby, które spełniają warunki określone ust. 1 pkt 2–5 oraz:
+- **1)** są członkami Państwowej Komisji Egzaminacyjnej do spraw Doradztwa Podatkowego, zwanej dalej „Komisją Egzaminacyjną”, przez okres co najmniej 2 kolejnych lat lub
+- **2)** posiadają co najmniej stopień naukowy doktora habilitowanego dziedzinie nauk społecznych dyscyplinie nauki prawne lub ekonomia i finanse zakresie prawa finansowego lub finansów.”;
+- **4)** art. 7:
+    - **a)** po ust. 1 dodaje się ust. 1a brzmieniu: „1a. Lista jest prowadzona postaci elektronicznej.”,
+    - **b)** ust. 3 pkt 3a otrzymuje brzmienie: „3a) rodzaj prowadzonej działalności gospodarczej, zatrudnienia lub umowy cywilnoprawnej, o których mowa art. 27 ust. 1;”,
+    - **c)** po ust. 6 dodaje się ust. 6a brzmieniu: „6a. W przypadkach, o których mowa art. 31a oraz art. 34 ust. 1 i 2, a także przypadku wymierzenia kary dyscyplinarnej zawieszenia prawa wykonywania zawodu zamiast oznaczenia miejsca wykonywania doradztwa podatkowego (siedziby) wpisuje się „nie wykonuje” wraz z informacją o okresie niewykonywania zawodu.”,
+    - **d)** dodaje się ust. 8 i 9 brzmieniu: „8. Krajowa Rada Doradców Podatkowych publikuje Biuletynie Informacji Publicznej na swojej stronie podmiotowej następujące dane dotyczące osób wpisanych na listę doradców podatkowych:
+
+- **1)** numer i datę wpisu na listę;
+- **2)** imię i nazwisko doradcy podatkowego;
+- **3)** oznaczenie miejsca wykonywania doradztwa podatkowego (siedziby), z tym że przypadkach, o których mowa w:
+    - **a)** art. 31a oraz art. 34 ust. 1 i 2, a także przypadku wymierzenia kary dyscyplinarnej zawieszenia prawa wykonywania zawodu zamiast oznaczenia miejsca wykonywania doradztwa podatkowego (siedziby) wpisuje się „nie wykonuje” wraz z informacją o okresie niewykonywania zawodu,
+    - **b)** art. 10 ust. 1, zamiast oznaczenia miejsca wykonywania doradztwa podatkowego (siedziby) wpisuje się „skreślony” wraz z informacją o dniu skreślenia z listy.
+
+9. Publikację danych dotyczących osoby skreślonej z listy usuwa się po upływie 15 lat od dnia skreślenia tej osoby z listy.”;
+
+- **5)** art. 10:
+    - **a)** ust. 1 pkt 2 lit. d kropkę zastępuje się średnikiem i dodaje się pkt 3 brzmieniu: „3) z urzędu przypadku nieopłacenia składki członkowskiej wysokości przekraczającej równowartość dwunastu składek członkowskich obliczoną na podstawie wysokości składki członkowskiej obowiązującej na dzień podjęcia decyzji przez Krajową Radę Doradców Podatkowych i stanowiącą zaległość na ten dzień.”,
+    - **b)** ust. 3 po wyrazach „określonej ust. 1 pkt 1” dodaje się wyrazy „albo 3”,
+    - **c)** dodaje się ust. 5 brzmieniu: „5. W przypadku gdy doradca podatkowy wystąpił z wnioskiem, o którym mowa ust. 1 pkt 1, a przeciwko niemu toczy się postępowanie dyscyplinarne, rozpatrzenie wniosku podlega zawieszeniu do czasu zakończenia tego postępowania.”;
+
+- **7)** art. 13:
+    - **a)** ust. 1 skreśla się wyrazy „oraz o odmowie dopuszczenia do egzaminu”,
+    - **b)** dodaje się ust. 4 brzmieniu: „4. Przepisów ust. 1–3 nie stosuje się do decyzji sprawach skreślenia z listy na podstawie art. 10 ust. 1 pkt 2 lit. a przypadku, gdy utrata prawa do wykonywania zawodu nastąpiła z przyczyny, o której mowa art. 10 ust. 1a pkt 4.”;
+
+- **8)** art. 14:
+    - **a)** ust. 2 zdaniu pierwszym wyrazy „art. 4 ust. 1 pkt 1 albo 3” zastępuje się wyrazami „art. 4 ust. 1 pkt 3”,
+    - **b)** ust. 3 uchyla się pkt 4,
+    - **c)** ust. 5 otrzymuje brzmienie: „5. Osoba prawna wpisana do rejestru jest obowiązana zawiadomić Krajową Radę Doradców Podatkowych o wszelkich zmianach:
+
+- **1)** danych określonych ust. 3 pkt 1‒3 przypadku podmiotów, o których mowa art. 4 ust. 1 pkt 3,
+- **2)** danych określonych ust. 3 pkt 1 i 2 i nazwisk, imion i adresów oraz numerów identyfikacji podatkowej (NIP) albo innych numerów służących identyfikacji dla celów podatkowych lub ubezpieczeń społecznych nadanych państwie pochodzenia członków organów zarządzających osób prawnych, o których mowa art. 4 ust. 1 pkt 1 przypadku podmiotów, o których mowa art. 4 ust. 1 pkt 1,
+- **3)** umowy spółki albo statutu zakresie dotyczącym warunków wykonywania doradztwa podatkowego określonych art. 4 ust. 1 pkt 1 albo 3 terminie 30 dni od dnia zaistnienia tych zmian.”,
+    - **d)** ust. 7 wyraz „formie” zastępuje się wyrazem „postaci”;
+
+- **9)** art. 15 ust. 1 skreśla się wyrazy „wykonywania czynności, o których mowa art. 2 ust. 1 pkt 1, 4 i 5, oraz”;
+- **10)** tytuł rozdziału 4 otrzymuje brzmienie: „Egzamin na doradcę podatkowego i Komisja Egzaminacyjna”;
+- **11)** art. 20:
+    - **a)** ust. 1: uchyla się pkt 2, pkt 3 po wyrazie „podatkowego” dodaje się wyrazy „wraz z analizą podatkową”, pkt 4 po wyrazie „podatkowe” dodaje się wyrazy „wraz z analizą podatkową”, po pkt 4 dodaje się pkt 4a i 4b brzmieniu: „4a) opłaty, do których stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa;
+
+- **4b)** wymiana informacji podatkowych;”,
+    - **b)** ust. 2 i 3 otrzymują brzmienie: „2. Egzamin na doradcę podatkowego stosunku do osób, które zajmowały lub zajmują stanowiska sędziów, asesorów sądowych oraz prokuratorów lub były lub są adwokatem, radcą prawnym, notariuszem oraz biegłym rewidentem, nie obejmuje zakresu egzaminu wymaganego do uzyskania takiego stanowiska lub zawodu. Przepisu nie stosuje się do dziedzin, o których mowa ust. 1 pkt 3 i 4.
+
+3. Komisja Egzaminacyjna ustala zakres tematyczny egzaminu na doradcę podatkowego dla osób, o których mowa ust. 2.”;
+
+- **12)** art. 21:
+    - **a)** ust. 1 po wyrazach „o których mowa art. 6 ust. 1 pkt 2, 3 i 5” dodaje się wyrazy „ , która złożyła do Komisji Egzaminacyjnej wniosek o dopuszczenie do egzaminu i wyznaczenie terminu części pisemnej egzaminu”, „1a. Wniosek, o którym mowa ust. 1, zawiera:
+
+- **1)** imię i nazwisko;
+- **2)** adres do korespondencji oraz adres poczty elektronicznej;
+- **3)** numer PESEL;
+- **4)** numer telefonu kontaktowego fakultatywnie.
+
+1b. Do wniosku, o którym mowa ust. 1, dołącza się:
+
+- **1)** oświadczenie o spełnianiu warunków określonych art. 6 ust. 1 pkt 2 i 3;
+- **2)** odpis dyplomu lub dyplom postaci elektronicznej dokumentujący posiadanie wyższego wykształcenia;
+- **3)** potwierdzenie dokonania opłaty wstępnej i opłaty egzaminacyjnej za część pisemną egzaminu;
+- **4)** oświadczenie o prawdziwości danych zawartych we wniosku i załączanych dokumentach.
+
+1c. Oświadczenia, o których mowa ust. 1b pkt 1 i 4, składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. ‒ Kodeks karny (Dz. U. z 2025 r. poz. 383 i 1818) oraz zawiera się nich klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”, która zastępuje pouczenie organu o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
+
+1d. Do wniosku, o którym mowa ust. 1, dołącza się również dokument:
+
+- **1)** potwierdzający zgodę, o której mowa ust. 3 ‒ przypadku osób nieposiadających obywatelstwa polskiego;
+- **2)** stwierdzający uprawnienia zawodowe ‒ przypadku osób, o których mowa art. 20 ust. 2;
+- **3)** stwierdzający spełnienie warunków, o których mowa art. 20 ust. 5 ‒ przypadku funkcjonariuszy Służby Celno-Skarbowej.
+
+1e. Osoba, która złożyła wniosek, o którym mowa ust. 1, jest obowiązana niezwłocznie poinformować Komisję Egzaminacyjną o wszelkich zmianach danych określonych ust. 1a.
+
+1f. W przypadku osoby ubiegającej się o dopuszczenie do egzaminu będącej osobą niepełnosprawną, która wraz z wnioskiem, o którym mowa ust. 1 albo art. 24 ust. 6, złoży wniosek o wydłużenie czasu trwania egzaminu, do którego załączy:
+
+- **1)** kopię orzeczenia potwierdzającego niepełnosprawność rozumieniu art. 2 pkt 10 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz. 913, 1301, 1665 i 1746) okresie przeprowadzania egzaminu,
+- **2)** zaświadczenie lekarskie wystawione przez lekarza specjalistę właściwego ze względu na charakter niepełnosprawności, stwierdzające wynikające z niepełnosprawności trudności wykonywaniu czynności technicznych, takich jak:
+    - **a)** odczytywanie tekstu,
+    - **b)** posługiwanie się sprzętem komputerowym sposób umożliwiający sporządzenie odpowiedzi na pytania i zadania egzaminacyjne czas trwania egzaminu ulega wydłużeniu.”,
+    - **c)** po ust. 2 dodaje się ust. 2a–2c brzmieniu: „2a. Komisja Egzaminacyjna może upoważnić przewodniczącego Komisji Egzaminacyjnej do podejmowania jej imieniu decyzji, o której mowa ust. 2.
+
+2b. Decyzję, o której mowa ust. 2, imieniu Komisji Egzaminacyjnej podpisuje przewodniczący Komisji Egzaminacyjnej.
+
+2c. Decyzja, o której mowa ust. 2, jest decyzją administracyjną. Przepis art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691) stosuje się odpowiednio.”;
+
+- **a)** ust. 2 i 3 otrzymują brzmienie: „2. Komisja Egzaminacyjna składa się, z zastrzeżeniem ust. 5, z siedemdziesięciu członków powoływanych i odwoływanych przez ministra właściwego do spraw finansów publicznych. Członkowie Komisji Egzaminacyjnej są powoływani spośród osób, które nie były skazane prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub przestępstwo skarbowe i które swoją wiedzą i doświadczeniem dają rękojmię prawidłowego wykonywania zadań Komisji Egzaminacyjnej, tym przeprowadzenia egzaminu na doradcę podatkowego.
+
+3. Komisja Egzaminacyjna składa się z:
+
+- **1)** dwudziestu dwóch przedstawicieli ministra właściwego do spraw finansów publicznych, tym:
+    - **a)** dwudziestu jeden przedstawicieli powoływanych spośród osób: zatrudnionych na wyższych stanowiskach służbie cywilnej urzędzie obsługującym ministra właściwego do spraw finansów publicznych lub zajmujących stanowisko dyrektora izby administracji skarbowej lub zastępcy dyrektora izby administracji skarbowej,
+    - **b)** jednego przedstawiciela powoływanego spośród osób zatrudnionych komórce organizacyjnej, o której mowa ust. 14 mających co najmniej dziesięcioletnie doświadczenie zakresie tworzenia lub stosowania przepisów prawa co najmniej jednej z dziedzin objętych zakresem tematycznym egzaminu na doradcę podatkowego i co najmniej pięcioletnie zatrudnienie urzędzie obsługującym ministra właściwego do spraw finansów publicznych lub jednostkach organizacyjnych Krajowej Administracji Skarbowej lub co najmniej pięcioletnią służbę jako funkcjonariusz Służby Celno-Skarbowej;
+
+- **2)** czternastu sędziów delegowanych przez Prezesa Naczelnego Sądu Administracyjnego spośród sędziów Naczelnego Sądu Administracyjnego lub wojewódzkich sądów administracyjnych, mających co najmniej pięcioletnie doświadczenie na stanowisku sędziego sądu administracyjnego;
+- **3)** dwunastu nauczycieli akademickich zatrudnionych grupach pracowników dydaktycznych, badawczych lub badawczo-dydaktycznych uczelni lub pracowników naukowych instytutu badawczego lub instytutu naukowego Polskiej Akademii Nauk, posiadających co najmniej stopień naukowy doktora dziedzinie nauk społecznych dyscyplinie nauki prawne lub ekonomia i finanse zakresie prawa finansowego lub finansów oraz wiedzę i co najmniej pięcioletnie doświadczenie co najmniej jednej z dziedzin objętych zakresem tematycznym egzaminu, powoływanych po przedstawieniu opinii uczelni lub instytutu ich zatrudniających, niebędących jednocześnie osobami zatrudnionymi urzędzie obsługującym ministra właściwego do spraw finansów publicznych lub jednostkach organizacyjnych Krajowej Administracji Skarbowej lub funkcjonariuszami Służby Celno-Skarbowej;
+- **4)** dwudziestu dwóch członków Krajowej Izby Doradców Podatkowych delegowanych przez Krajową Radę Doradców Podatkowych, mających co najmniej pięcioletnie doświadczenie wykonywaniu zawodu doradcy podatkowego, niebędących jednocześnie osobami zatrudnionymi urzędzie obsługującym ministra właściwego do spraw finansów publicznych lub jednostkach organizacyjnych Krajowej Administracji Skarbowej lub funkcjonariuszami Służby Celno-Skarbowej.”,
+    - **b)** po ust. 3 dodaje się ust. 3a–3f brzmieniu: „3a. W przypadku osób, o których mowa ust. 3 pkt 2 i 4, oceny spełniania warunków powołania do składu Komisji Egzaminacyjnej dokonuje organ delegujący.
+
+3b. Ocena spełniania warunków powołania do składu Komisji Egzaminacyjnej jest dokonywana na podstawie dokumentacji przedstawionej przez osoby powoływane.
+
+3c. W przypadku, o którym mowa ust. 3 pkt 2 i 4, organy delegujące przekazują ministrowi właściwemu do spraw finansów publicznych zgłoszenie zawierające:
+
+- **1)** imię i nazwisko osoby delegowanej;
+- **2)** adres do korespondencji oraz adres poczty elektronicznej osoby delegowanej;
+- **3)** oświadczenie osoby delegowanej o braku skazania prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub przestępstwo skarbowe;
+- **4)** oświadczenie organu delegującego o dokonaniu oceny spełnienia przez osobę delegowaną warunków powołania do składu Komisji Egzaminacyjnej, o których mowa ust. 3 pkt 2 i 4. Egzaminacyjnej przekazuje ministrowi właściwemu do spraw finansów publicznych zgłoszenie zawierające:
+- **1)** imię i nazwisko;
+- **2)** adres do korespondencji oraz adres poczty elektronicznej;
+- **3)** oświadczenie o braku skazania prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub przestępstwo skarbowe;
+- **4)** dokumentację potwierdzającą spełnienie warunków powołania do składu Komisji Egzaminacyjnej, o których mowa ust. 3 pkt 3;
+- **5)** opinię uczelni lub instytutu, o której mowa ust. 3 pkt 3.
+
+3e. Oświadczenia, o których mowa ust. 3c pkt 3 i ust. 3d pkt 3, składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. ‒ Kodeks karny oraz zawiera się nich klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”, która zastępuje pouczenie organu o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
+
+3f. W przypadku powołania do składu Komisji Egzaminacyjnej osoba powołana podaje komórce organizacyjnej, o której mowa ust. 14, swój numer PESEL.”,
+
+- **c)** ust. 4 otrzymuje brzmienie: „4. Minister właściwy do spraw finansów publicznych powołuje spośród członków Komisji Egzaminacyjnej przewodniczącego Komisji Egzaminacyjnej posiadającego co najmniej stopień naukowy doktora habilitowanego dziedzinie nauk społecznych dyscyplinie nauki prawne lub ekonomia i finanse zakresie prawa finansowego lub finansów.”,
+- **d)** po ust. 4 dodaje się ust. 4a brzmieniu: „4a. Sekretarzem Komisji Egzaminacyjnej jest członek Komisji Egzaminacyjnej, o którym mowa ust. 3 pkt 1 lit. b.”,
+- **e)** ust. 5 pkt 2 otrzymuje brzmienie: „2) niezgłoszenie się osób spełniających warunki, o których mowa ust. 3 pkt 3”,
+- **f)** po ust. 6 dodaje się ust. 6a brzmieniu: „6a. Nie można pełnić funkcji członka Komisji Egzaminacyjnej przez więcej niż dwie kolejno po sobie następujące kadencje Komisji Egzaminacyjnej.”,
+- **g)** ust. 8 otrzymuje brzmienie: „8. Minister właściwy do spraw finansów publicznych może odwołać członka Komisji Egzaminacyjnej, o którym mowa ust. 3 pkt 2 i 4, na uzasadniony wniosek odpowiednio Prezesa Naczelnego Sądu Administracyjnego albo Krajowej Rady Doradców Podatkowych. W przypadku członków Komisji Egzaminacyjnej, o których mowa ust. 3 pkt 4, podstawę wniosku może stanowić szczególności orzeczenie kary dyscyplinarnej wobec osoby będącej członkiem Komisji Egzaminacyjnej.”,
+- **h)** ust. 12 otrzymuje brzmienie: „12. Komisja Egzaminacyjna:
+- **1)** ustala i publikuje Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych wykaz tytułów aktów prawnych stanowiących podstawę opracowywanych pytań i zadań egzaminacyjnych;
+- **2)** powołuje i odwołuje spośród swoich członków zespoły do przygotowania pytań i zadań egzaminacyjnych;
+- **3)** publikuje Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych przykładowe pytania i zadania egzaminacyjne wraz z odpowiedziami.”, „Art. 22b. 1. Komisja Egzaminacyjna może zawierać z uczelniami posiadającymi uprawnienia do nadawania stopnia naukowego doktora habilitowanego dziedzinie nauk społecznych dyscyplinie nauki prawne lub ekonomia i finanse umowy, o których mowa art. 61 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ), określające program studiów realizowany przez uczelnię obejmujący efekty uczenia się zakresie wiedzy i umiejętności z dziedzin, o których mowa art. 20 ust. 1, wymaganych części pisemnej egzaminu na doradcę podatkowego. Do podpisania umowy imieniu Komisji Egzaminacyjnej jest uprawniony jej przewodniczący.
+    - **i)** uchyla się ust. 13a,
+    - **j)** ust. 14 wyrazy „minister właściwy do spraw finansów publicznych” zastępuje się wyrazami „komórka organizacyjna urzędzie obsługującym ministra właściwego do spraw finansów publicznych wskazana przez tego ministra”;
+
+2. Umowy, o których mowa ust. 1, są zawierane na wniosek uczelni. Wniosek podlega opłacie nie wyższej niż równowartość czterokrotności minimalnego wynagrodzenia za pracę, o którym mowa ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773), zwanego dalej „minimalnym wynagrodzeniem”. Opłata ta stanowi dochód budżetu państwa. W przypadku gdy umowa nie została zawarta, połowa opłaty podlega zwrotowi.
+
+3. Wniosek, o którym mowa ust. 2, zawiera:
+
+- **1)** nazwę uczelni oraz adres jej siedziby;
+- **2)** dane teleadresowe uczelni;
+- **3)** określenie kierunku, poziomu, profilu kształcenia i formy studiów oraz specjalności przypadku jej utworzenia ramach kierunku, którego ma dotyczyć umowa.
+
+4. Do wniosku, o którym mowa ust. 2, dołącza się dokumenty potwierdzające spełnianie przez uczelnię warunku określonego ust. 1 i realizowanie przez nią programu studiów obejmującego efekty uczenia się zakresie wiedzy i umiejętności z dziedzin, o których mowa art. 20 ust. 1, wymaganych części pisemnej egzaminu na doradcę podatkowego oraz potwierdzenie dokonania opłaty, o której mowa ust. 2.
+
+5. Wniosek, o którym mowa ust. 2, składa się nie później niż na 6 miesięcy przed dniem rozpoczęcia roku akademickiego, od którego miałaby zgodnie z wnioskiem obowiązywać umowa.
+
+6. Umowy, o których mowa ust. 1, są zawierane na okresy odpowiadające latom akademickim.
+
+7. Przepisy art. 24 ust. 5 i 6 stosuje się także do osób, które rozpoczęły studia na kierunku objętym umową, o której mowa ust. 1, trakcie jej obowiązywania oraz:
+
+- **1)** po upływie okresu, na jaki ta umowa została zawarta, albo
+- **2)** po rozwiązaniu tej umowy przed upływem okresu, na jaki została zawarta ‒ zrealizowały program tych studiów na warunkach określonych tej umowie.
+
+8. Do wniosku uczelni o zmianę umowy, o której mowa ust. 1, przepisy ust. 3–5 stosuje się odpowiednio. W przypadku gdy wniosek dotyczy postanowień umowy zakresie realizowania przez uczelnię programu studiów obejmującego efekty uczenia się zakresie wiedzy i umiejętności z dziedzin, o których mowa art. 20 ust. 1, wymaganych części pisemnej egzaminu na doradcę podatkowego, podlega on opłacie, o której mowa ust. 2. W przypadku gdy umowa nie została zmieniona, połowa opłaty podlega zwrotowi.
+
+9. Umowy, o których mowa ust. 1, podlegają bieżącej weryfikacji Komisji Egzaminacyjnej pod względem spełniania przez uczelnię warunku określonego ust. 1 i realizowania przez nią programu studiów obejmującego efekty uczenia się zakresie wiedzy i umiejętności z dziedzin, o których mowa art. 20 ust. 1, wymaganych części pisemnej egzaminu na doradcę podatkowego.
+
+10. Bieżąca weryfikacja, o której mowa ust. 9, jest przeprowadzana na podstawie przekazanych przez uczelnię, na żądanie Komisji Egzaminacyjnej, dokumentów dotyczących posiadania przez tę uczelnię uprawnień do nadawania stopnia naukowego, o którym mowa ust. 1, lub realizowanego przez tę uczelnię programu studiów obejmującego efekty uczenia się zakresie wiedzy i umiejętności z dziedzin, o których mowa art. 20 ust. 1, wymaganych części pisemnej egzaminu na doradcę podatkowego. że uczelnia:
+
+- **1)** utraciła uprawnienia do nadawania stopnia naukowego, o którym mowa ust. 1, lub
+- **2)** nie realizuje programu studiów obejmującego efekty uczenia się zakresie wiedzy i umiejętności z dziedzin, o których mowa art. 20 ust. 1, wymaganych części pisemnej egzaminu na doradcę podatkowego ‒ umowa ulega rozwiązaniu z końcem roku akademickiego, którym Komisja Egzaminacyjna stwierdziła niespełnienie przez uczelnię warunku zawarcia tej umowy określonego ust. 1, chyba że uczelnia nie później niż na 3 miesiące przed dniem rozpoczęcia następnego roku akademickiego spełni ten warunek.
+
 **Art. 22c.** Minister właściwy do spraw finansów publicznych określi, drodze rozporządzenia:
+
+- **1)** minimalne wymogi, jakie powinien spełniać program studiów, którego dotyczy wniosek uczelni o zawarcie umowy, o której mowa art. 22b ust. 1, obejmujące szczególności formę prowadzenia zajęć, sposoby weryfikacji i oceny efektów uczenia się osiągniętych przez studenta oraz liczbę godzin zajęć, których ramach jest realizowany zakres tematyczny danej dziedziny egzaminacyjnej, biorąc pod uwagę konieczność objęcia przez ten program pełnego zakresu wiedzy i umiejętności z dziedzin, o których mowa art. 20 ust. 1, wymaganych części pisemnej egzaminu na doradcę podatkowego;
+- **2)** sposób składania przez uczelnię wniosku o zawarcie i zmianę umowy, o której mowa art. 22b ust. 1, i tryb jego rozpatrywania przez Komisję Egzaminacyjną oraz szczegółowy wykaz dokumentów dołączanych do wniosku, biorąc pod uwagę konieczność zapewnienia jednolitości i sprawności rozpatrywania tych wniosków i zawierania umów;
+- **3)** wysokość opłaty, o której mowa art. 22b ust. 2, mając na względzie wydatki związane z rozpatrzeniem przez Komisję Egzaminacyjną wniosku uczelni o zawarcie umowy, o której mowa art. 22b ust. 1, zawarciem tej umowy oraz jej bieżącą weryfikacją, o której mowa art. 22b ust. 9;
+- **4)** termin i sposób wnoszenia opłaty, o której mowa art. 22b ust. 2, oraz tryb dokonywania jej zwrotu, o którym mowa art. 22b ust. 2 i 8, biorąc pod uwagę konieczność zapewnienia sprawnej organizacji pracy Komisji Egzaminacyjnej;
+- **5)** tryb dokonywania przez Komisję Egzaminacyjną bieżącej weryfikacji zawartych umów, o której mowa art. 22b ust. 9, oraz szczegółowy zakres dokumentów przekazywanych przez uczelnię zgodnie z art. 22b ust. 10, mając na uwadze konieczność zachowania właściwego poziomu kształcenia wynikającego z art. 22b ust. 1.”;
+- **15)** art. 23:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Przewodniczący Komisji Egzaminacyjnej:
+
+- **1)** reprezentuje ją na zewnątrz i kieruje jej pracami, szczególności:
+    - **a)** wyznacza składy egzaminacyjne spośród członków Komisji Egzaminacyjnej oraz wyznacza przewodniczących i sekretarzy tych składów,
+    - **b)** powołuje spośród członków Komisji Egzaminacyjnej trzyosobowe zespoły do spraw zawarcia i zmiany umowy, o której mowa art. 22b ust. 1, i bieżącej weryfikacji umowy, o której mowa art. 22b ust. 9, oraz wyznacza spośród członków tych zespołów ich przewodniczących;
+
+- **2)** przygotowuje zestawy pytań i zadań egzaminacyjnych na poszczególne egzaminy spośród pytań i zadań egzaminacyjnych przygotowanych przez zespoły, o których mowa art. 22 ust. 12 pkt 2;
+- **3)** przedstawia ministrowi właściwemu do spraw finansów publicznych coroczne sprawozdanie z działalności Komisji Egzaminacyjnej za każdy rok jej kadencji, uwzględniające udział każdego z członków Komisji Egzaminacyjnej jej pracach, terminie do końca miesiąca następującego po miesiącu, którym upływa rok kadencji, za który jest przedstawiane sprawozdanie, a przypadku upływu kadencji Komisji Egzaminacyjnej przed tym terminem na miesiąc przed zakończeniem tej kadencji;
+- **4)** wykonuje inne czynności niż określone pkt 1–3, niezastrzeżone do kompetencji pozostałych członków Komisji Egzaminacyjnej.”,
+    - **b)** ust. 2 pkt 1 otrzymuje brzmienie: „1) organizacja egzaminu, szczególności wyznaczanie terminów części pisemnej i ustnej egzaminu oraz ich ogłaszanie Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych, a także sprawy finansowe związane z funkcjonowaniem Komisji Egzaminacyjnej;”;
+    - **a)** po ust. 1 dodaje się ust. 1a brzmieniu: „1a. Egzamin jest przeprowadzany przy wykorzystaniu systemu teleinformatycznego e-Doradca, zwanego dalej „e-Doradcą”.”,
+    - **b)** ust. 4 wyrazy „przystąpienia do” zastępuje się wyrazami „ogłoszenia wyniku”,
+    - **c)** ust. 5 wyrazy „art. 22 ust. 13a” zastępuje się wyrazami „art. 22b ust. 1”,
+    - **d)** ust. 6 wyrazy „wniosku o dopuszczenie do części ustnej egzaminu” zastępuje się wyrazami „wniosku o dopuszczenie do egzaminu i wyznaczenie terminu części ustnej egzaminu”,
+    - **e)** dodaje się ust. 7 i 8 brzmieniu: „7. Do wniosku, o którym mowa ust. 6, stosuje się odpowiednio przepisy art. 21 ust. 1–1f, przy czym do wniosku dołącza się również suplement do dyplomu dokumentujący ukończenie studiów objętych umową, o której mowa art. 22b ust. 1.
+
+8. W przypadku niezrealizowania przez osobę, która złożyła wniosek, o którym mowa ust. 6, programu studiów objętego umową, o której mowa art. 22b ust. 1, na warunkach określonych tą umową, Komisja Egzaminacyjna podejmuje decyzję o odmowie dopuszczenia do egzaminu. Przepisy art. 21 ust. 2a–2c stosuje się odpowiednio.”;
+
+- **17)** po art. 24 dodaje się art. 24a–24c brzmieniu: „Art. 24a. 1. Cykl egzaminacyjny rozpoczyna się z dniem wyznaczenia terminu części pisemnej egzaminu na doradcę podatkowego na skutek złożenia wniosku, o którym mowa art. 21 ust. 1, i kończy się z dniem:
+- **1)** uzyskania przez kandydata na doradcę podatkowego pozytywnego wyniku z części ustnej tego egzaminu albo
+- **2)** upływu okresu, o którym mowa art. 24 ust. 4, albo
+- **3)** upływu 5 lat od dnia ostatniego wyznaczonego kandydatowi na doradcę podatkowego terminu części pisemnej egzaminu, z którego uzyskał wynik negatywny albo do którego nie przystąpił i nie ubiegał się o wyznaczenie terminu ponownego egzaminu z tej części.
+
+2. W przypadku osób, o których mowa art. 24 ust. 5, cykl egzaminacyjny rozpoczyna się z dniem wyznaczenia terminu części ustnej egzaminu na doradcę podatkowego na skutek złożenia wniosku, o którym mowa art. 24 ust. 6, i kończy się z dniem:
+
+- **1)** uzyskania przez kandydata na doradcę podatkowego pozytywnego wyniku z części ustnej tego egzaminu albo
+- **2)** upływu okresu, o którym mowa art. 24 ust. 6.
+
+3. W przypadku upływu okresu, o którym mowa ust. 1 pkt 3 albo art. 24 ust. 4 albo 6, kandydat na doradcę podatkowego może złożyć kolejny wniosek, o którym mowa art. 21 ust. 1. Przepis ust. 1 stosuje się.
 
 **Art. 24b.**
 
@@ -45,12 +253,12 @@ source: "isap-pdf"
 - **3)** przeprowadzania egzaminu na doradcę podatkowego;
 - **4)** realizacji innych zadań i czynności związanych z funkcjonowaniem Komisji Egzaminacyjnej i organizacją egzaminu na doradcę podatkowego.
 - **1)** kandydatów na doradców podatkowych,
-- **2)** członków Komisji Egzaminacyjnej – będących użytkownikami tych kont.
+- **2)** członków Komisji Egzaminacyjnej będących użytkownikami tych kont.
 
 4. Dostęp do konta użytkownika e-Doradcy jest możliwy do dnia:
 
-- **1)** upływu 2 miesięcy od dnia zakończenia cyklu egzaminacyjnego, o którym mowa art. 24a ust. 1 albo 2 – przypadku kandydata na doradcę podatkowego;
-- **2)** ustania członkostwa Komisji Egzaminacyjnej – przypadku członka Komisji Egzaminacyjnej.
+- **1)** upływu 2 miesięcy od dnia zakończenia cyklu egzaminacyjnego, o którym mowa art. 24a ust. 1 albo 2 przypadku kandydata na doradcę podatkowego;
+- **2)** ustania członkostwa Komisji Egzaminacyjnej przypadku członka Komisji Egzaminacyjnej.
 
 5. Warunkiem dostępu do e-Doradcy jest uwierzytelnienie się użytkownika konta, o którym mowa ust. 3, dokonywane z wykorzystaniem numeru PESEL.
 
@@ -60,8 +268,8 @@ source: "isap-pdf"
 
 8. Doręczenie pisma kandydatowi na doradcę podatkowego e-Doradcy następuje:
 
-- **1)** z chwilą odebrania pisma przez kandydata na doradcę podatkowego e-Doradcy – przypadku gdy odebranie pisma nastąpiło okresie od dnia umieszczenia pisma na jego koncie do końca 7 dnia, licząc od dnia następującego po dniu umieszczenia tego pisma na jego koncie, albo
-- **2)** z upływem ostatniego dnia okresu, o którym mowa pkt 1 – przypadku nieodebrania pisma przez kandydata na doradcę podatkowego e-Doradcy tym okresie.
+- **1)** z chwilą odebrania pisma przez kandydata na doradcę podatkowego e-Doradcy przypadku gdy odebranie pisma nastąpiło okresie od dnia umieszczenia pisma na jego koncie do końca 7 dnia, licząc od dnia następującego po dniu umieszczenia tego pisma na jego koncie, albo
+- **2)** z upływem ostatniego dnia okresu, o którym mowa pkt 1 przypadku nieodebrania pisma przez kandydata na doradcę podatkowego e-Doradcy tym okresie.
 
 9. Przez umieszczenie pisma na koncie e-Doradcy rozumie się zaistnienie warunków technicznych umożliwiających odebranie e-Doradcy przez kandydata na doradcę podatkowego pisma Komisji Egzaminacyjnej doręczanego na to konto.
 
@@ -73,11 +281,168 @@ source: "isap-pdf"
 
 **Art. 24c.** Minister właściwy do spraw finansów publicznych określi, drodze rozporządzenia, sposób korzystania z e-Doradcy, tym:
 
-**Art. 2.** W ustawie z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685 oraz z 2025 r. poz. 769 i 1427) art. 175 § 3 pkt 1 otrzymuje brzmienie: „1) doradcę podatkowego – sprawach obowiązków, o których mowa art. 2 ust. 1 pkt 1 i 3a ustawy z dnia 5 lipca 1996 r. o doradztwie podatkowym (Dz. U. z 2021 r. poz. 2117 oraz z 2025 r. poz. 1882);”.
+- **1)** udostępniania kont użytkowników,
+- **2)** uwierzytelniania użytkowników,
+- **3)** potwierdzania składania i doręczania pism sprawach dotyczących egzaminu na doradcę podatkowego między Komisją Egzaminacyjną a kandydatem na doradcę podatkowego mając na względzie potrzebę zapewnienia elektronicznej formy przeprowadzenia egzaminu i usprawnienia komunikacji między użytkownikami kont, z zachowaniem bezpieczeństwa, wiarygodności i niezaprzeczalności przekazywanych danych oraz potrzebę ich ochrony przed nieuprawnionym dostępem.”;
+- **18)** art. 25 otrzymuje brzmienie: „Art. 25. 1. Za:
+- **1)** złożenie wniosku, o którym mowa art. 21 ust. 1, i wniosku, o którym mowa art. 24 ust. 6, pobiera się opłatę wstępną nie wyższą niż równowartość minimalnego wynagrodzenia;
+- **2)** egzamin na doradcę podatkowego pobiera się opłaty egzaminacyjne, oddzielnie za część pisemną i ustną egzaminu, przy czym każda z tych opłat nie może być wyższa niż równowartość minimalnego wynagrodzenia.
 
-**Art. 4.**
+3. Opłata wstępna nie podlega zwrotowi.
 
-1. Wnioski podmiotów, o których mowa art. 4 ust. 1 pkt 1 ustawy zmienianej art. 1, brzmieniu dotychczasowym, o wpis do rejestru, o którym mowa art. 14 ustawy zmienianej art. 1, brzmieniu dotychczasowym, złożone i nierozpatrzone przed dniem wejścia życie niniejszej ustawy pozostawia się bez rozpatrzenia.
+4. Opłata egzaminacyjna podlega zwrotowi przypadku:
+
+- **1)** wydania decyzji, o której mowa art. 21 ust. 2 albo art. 24 ust. 8;
+- **2)** gdy część pisemna lub ustna egzaminu nie dojdzie do skutku z przyczyn nieleżących po stronie kandydata na doradcę podatkowego.
+
+5. W przypadku nieprzystąpienia przez kandydata na doradcę podatkowego do części pisemnej lub ustnej egzaminu, na jego wniosek złożony nie później niż terminie 14 dni od wyznaczonego dla tego kandydata dnia przeprowadzenia części pisemnej lub ustnej egzaminu, połowa opłaty egzaminacyjnej uiszczonej za daną część egzaminu podlega zwrotowi, jednak tylko raz dla każdej z części egzaminu trakcie cyklu egzaminacyjnego.
+
+6. Minister właściwy do spraw finansów publicznych określi, drodze rozporządzenia, wysokość opłat, o których mowa ust. 1, mając na uwadze koszty rozpatrywania wniosków, o których mowa art. 21 ust. 1 i art. 24 ust. 6, i przeprowadzania egzaminu na doradcę podatkowego oraz wydatki związane z funkcjonowaniem Komisji Egzaminacyjnej.
+
+7. Kwoty opłat, o których mowa ust. 1, obliczone zgodnie z przepisami wydanymi na podstawie ust. 6, ogłasza Sekretarz Komisji Egzaminacyjnej Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.”;
+
+- **19)** art. 25a otrzymuje brzmienie: „Art. 25a. 1. Minister właściwy do spraw finansów publicznych jest administratorem danych przetwarzanych celach związanych z działalnością Komisji Egzaminacyjnej oraz organizacją egzaminu na doradcę podatkowego, tym danych przetwarzanych e-Doradcy.
+
+2. Dane osobowe przetwarzane celach, o których mowa ust. 1, podlegają zabezpieczeniom technicznym i organizacyjnym zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazywaniu polegającym co najmniej na:
+
+- **1)** dopuszczeniu przez administratora danych do przetwarzania danych osobowych wyłącznie osób do tego upoważnionych;
+- **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania tych danych tajemnicy;
+- **3)** zapewnieniu ochrony przed nieuprawnionym dostępem do e-Doradcy.
+
+3. Dane, o których mowa ust. 2, są przechowywane wyłącznie przez okres nie dłuższy, niż jest to niezbędne, i zakresie koniecznym do realizacji celów przetwarzania danych osobowych oraz podlegają przeglądowi nie rzadziej niż co 5 lat od dnia ich uzyskania.
+
+4. Dane osobowe kandydatów na doradców podatkowych są usuwane po upływie:
+
+- **1)** 4 lat od dnia:
+    - **a)** uzyskania przez kandydata na doradcę podatkowego pozytywnego wyniku z części ustnej egzaminu albo
+    - **b)** upływu okresu, o którym mowa art. 24 ust. 4 albo 6, albo
+
+- **2)** 2 miesięcy od dnia upływu terminu, o którym mowa art. 24a ust. 1 pkt 3.”;
+- **20)** art. 26 otrzymuje brzmienie: „Art. 26. Minister właściwy do spraw finansów publicznych określi, drodze rozporządzenia:
+- **1)** termin i sposób składania wniosków, o których mowa art. 21 ust. 1 i art. 24 ust. 6, oraz tryb postępowania z tymi wnioskami, biorąc pod uwagę konieczność zapewnienia sprawnej organizacji egzaminu na doradcę podatkowego;
+- **2)** termin i sposób wnoszenia opłaty wstępnej, biorąc pod uwagę konieczność zapewnienia sprawnego rozpatrzenia wniosku, o którym mowa art. 21 ust. 1 i art. 24 ust. 6;
+- **3)** termin i sposób wnoszenia opłat egzaminacyjnych oraz tryb i sposób dokonywania ich zwrotu, biorąc pod uwagę konieczność zapewnienia sprawnej organizacji i przeprowadzania egzaminu na doradcę podatkowego; szczegółowy tryb i sposób wyznaczania składów egzaminacyjnych, sposób dokonywania oceny egzaminu i jej weryfikacji, wyznaczania terminów części pisemnej i ustnej egzaminu oraz przygotowywania zestawów pytań i zadań egzaminacyjnych, biorąc pod uwagę konieczność zapewnienia obiektywnego i sprawnego sposobu przeprowadzenia egzaminu;
+- **5)** szczegółowe zadania Komisji Egzaminacyjnej, przewodniczącego i sekretarza Komisji Egzaminacyjnej, przewodniczących i sekretarzy składów egzaminacyjnych oraz regulamin działania Komisji Egzaminacyjnej, biorąc pod uwagę konieczność zapewnienia sprawnej i prawidłowej organizacji egzaminu, precyzyjnego podziału zadań, obowiązków i odpowiedzialności ramach Komisji Egzaminacyjnej;
+- **6)** wysokość wynagrodzeń przewodniczącego i sekretarza Komisji Egzaminacyjnej, biorąc pod uwagę nakład ich pracy i zakres obowiązków;
+- **7)** sposób ustalania i wysokość wynagrodzeń członków Komisji Egzaminacyjnej za udział pracach, tym posiedzeniach Komisji Egzaminacyjnej, przeprowadzaniu egzaminów, przygotowaniu pytań i zadań egzaminacyjnych oraz rozpatrywaniu wniosków uczelni, o których mowa art. 22b ust. 2 i 8, i bieżącej weryfikacji umów, o której mowa art. 22b ust. 9, biorąc pod uwagę zakres obowiązków poszczególnych członków Komisji Egzaminacyjnej;
+- **8)** szczegółowe warunki i tryb dokonywania zwrotu kosztów podróży i noclegów przysługującego członkom Komisji Egzaminacyjnej, poniesionych związku z udziałem pracach Komisji Egzaminacyjnej, biorąc pod uwagę ich racjonalne wydatkowanie przez członków Komisji Egzaminacyjnej.”;
+- **21)** art. 27: o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. ), doradca podatkowy ramach stosunku pracy może wykonywać czynności doradztwa podatkowego także na rzecz podmiotów objętych tym sprawozdaniem sporządzanym przez podmiot, którym jest zatrudniony.”,
+    - **a)** ust. 1 pkt 2 we wprowadzeniu do wyliczenia po wyrazie „pracy” dodaje się wyrazy „lub będąca stroną umowy cywilnoprawnej”,
+    - **b)** ust. 3 dodaje się zdanie drugie brzmieniu: „W przypadku gdy podmiotem zatrudniającym doradcę podatkowego jest podmiot zobowiązany do sporządzenia skonsolidowanego sprawozdania finansowego, o którym mowa rozdziale 6 ustawy z dnia 29 września 1994 r.
+    - **c)** dodaje się ust. 4 brzmieniu: „4. Doradca podatkowy wykonujący zawód na podstawie umowy cywilnoprawnej, o której mowa ust. 1 pkt 2 lit. b, wykonuje czynności doradztwa podatkowego tylko na rzecz drugiej strony tej umowy.”;
+
+- **22)** art. 27a dodaje się ust. 3 brzmieniu: „3. Doręczanie doradcy podatkowemu pism Krajowej Izby Doradców Podatkowych postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, tym pism związanych z postępowaniami administracyjnymi, obowiązkami doradcy podatkowego wynikającymi z ustawy, statutu, uchwał Krajowego Zjazdu Doradców Podatkowych i Krajowej Rady Doradców Podatkowych oraz postępowaniami dyscyplinarnymi, może następować także:
+- **1)** na adres do doręczeń elektronicznych wpisany do bazy adresów elektronicznych;
+- **2)** za pośrednictwem poczty elektronicznej, za zgodą doradcy podatkowego, przypadku nieposiadania adresu, o którym mowa pkt 1, przy czym tym przypadku dowodem doręczenia jest potwierdzenie transmisji danych wysłanych na ostatni adres poczty elektronicznej podany przez doradcę podatkowego.”;
+- **23)** po art. 31 dodaje się art. 31a brzmieniu: „Art. 31a. W przypadku podjęcia przez doradcę podatkowego pracy organach wymiaru sprawiedliwości, organach ścigania, urzędzie obsługującym ministra właściwego do spraw finansów publicznych lub jednostkach organizacyjnych Krajowej Administracji Skarbowej lub służby jako funkcjonariusz Służby Celno-Skarbowej następuje z urzędu zawieszenie prawa wykonywania zawodu na okres wykonywania tej pracy lub pełnienia tej służby. Zawieszenie prawa wykonywania zawodu jest odnotowywane na liście niezwłocznie po złożeniu przez doradcę podatkowego zawiadomienia, o którym mowa art. 31 ust. 2, lub powzięciu takiej informacji przez Krajową Radę Doradców Podatkowych i następuje z mocą od dnia rozpoczęcia wykonywania pracy lub pełnienia służby, o których mowa zdaniu pierwszym.”; poczęcia przerwy wykonywaniu zawodu”;
+- **25)** po art. 38 dodaje się art. 38a brzmieniu: „Art. 38a. 1. Doradca podatkowy, uczestnicząc rozprawach sądowych, używa stroju urzędowego. Strojem urzędowym doradcy podatkowego jest toga.
+
+2. Minister Sprawiedliwości określi, drodze rozporządzenia, wzór stroju urzędowego doradców podatkowych biorących udział rozprawach sądowych, uwzględniając uroczysty charakter stroju, odpowiedni do powagi sądu i utrwalonej tradycji.”;
+
+- **26)** art. 39:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Doradca podatkowy jest obowiązany przechowywać kopie sporządzanych opinii, raportów z niezależnego audytu funkcji podatkowej, wystąpień imieniu podatników, płatników, inkasentów, innych podmiotów oraz osób, o których mowa art. 2 ust. 1a, sprawach obowiązków podatkowych, a także udzielonych im porad, przez okres 10 lat od końca roku kalendarzowego, którym zostały wytworzone.”,
+    - **b)** po ust. 1 dodaje się ust. 1a brzmieniu: „1a. Obowiązek, o którym mowa ust. 1, uznaje się za spełniony przypadku przechowywania odwzorowania cyfrowego dokumentów, o których mowa tym przepisie, przez które rozumie się dokument elektroniczny będący kopią elektroniczną dokumentacji sporządzonej postaci papierowej, oraz przechowywania postaci elektronicznej dokumentów sporządzonych tej postaci.”;
+
+- **27)** art. 41 ust. 1 otrzymuje brzmienie: „1. W postępowaniu przed organami administracji publicznej sprawach, o których mowa art. 2 ust. 1 pkt 1 i 3a, pełnomocnikiem podatnika, płatnika, inkasenta, innych podmiotów oraz osób, o których mowa art. 2 ust. 1a, może być również doradca podatkowy.”;
+- **28)** art. 44 ust. 3 otrzymuje brzmienie: „3. Obowiązek, o którym mowa ust. 1, ciąży na:
+- **1)** doradcach podatkowych wykonujących zawód we własnym imieniu i na własny rachunek oraz formie spółek niemających osobowości prawnej;
+- **2)** podmiotach zatrudniających doradców podatkowych lub będących stroną umowy cywilnoprawnej zawartej z doradcą podatkowym ‒ przypadkach określonych art. 27 ust. 1 pkt 2 lit. a;
+- **3)** doradcach podatkowych ‒ przypadkach określonych art. 27 ust. 1 pkt 2 lit. b.”;
+- **29)** art. 44b ust. 2 otrzymuje brzmienie: „2. Podmioty wskazane art. 3, art. 4 ust. 1 i art. 27 ust. 1 pkt 1a, które nie dopełniły obowiązku ubezpieczenia, o którym mowa art. 44 ust. 3 pkt 2, okresie braku ochrony ubezpieczeniowej wynikającej z niedopełnienia tego obowiązku nie mogą wykonywać czynności doradztwa podatkowego, o których mowa art. 2 ust. 1.”;
+- **30)** art. 46 wyrazy „biorąc szczególności pod uwagę specyfikę” zastępuje się wyrazami „biorąc pod uwagę specyfikę i formę”;
+- **31)** art. 51 ust. 1 po pkt 10 dodaje się pkt 10a i 10b brzmieniu: „10a) określanie wysokości zryczałtowanych kosztów postępowania dyscyplinarnego, mając na względzie przeciętne koszty tego postępowania;
+- **10b)** określanie zasad realizacji prawa do obrońcy z urzędu sprawach dyscyplinarnych doradców podatkowych i zasad wynagrodzenia tego obrońcy, mając na względzie sprawne przeprowadzanie postępowania dyscyplinarnego;”;
+- **32)** art. 62: Termin ten ulega zawieszeniu na okres od dnia wysłania wezwania, o którym mowa ust. 1a, do dnia doręczenia uzasadnienia do uchwały przyjmującej statut.”;
+    - **a)** po ust. 1 dodaje się ust. 1a brzmieniu: „1a. Minister właściwy do spraw finansów publicznych może wezwać przewodniczącego Krajowej Rady Doradców Podatkowych do przekazania, terminie 7 dni od dnia doręczenia wezwania, uzasadnienia do uchwały przyjmującej statut.”, „2. Minister właściwy do spraw finansów publicznych może wydać terminie 45 dni od dnia otrzymania statutu decyzję administracyjną o zawieszeniu uchwały przyjmującej statut z powodu jej niezgodności z prawem.
+
+- **33)** art. 63 ust. 3 zdanie drugie otrzymuje brzmienie: „Przepisy art. 62 ust. 1a–3 stosuje się odpowiednio.”;
+- **34)** art. 64:
+    - **a)** ust. 1b pkt 3 wyrazy „art. 44 ust. 3 zdanie drugie” zastępuje się wyrazami „art. 44 ust. 3 pkt 2”,
+    - **b)** ust. 2 po pkt 2 dodaje się pkt 2a brzmieniu: „2a) kara pieniężna;”,
+    - **c)** po ust. 2 dodaje się ust. 2a brzmieniu: „2a. Karę pieniężną wymierza się wysokości od jednej dziesiątej do dwunastokrotności minimalnego wynagrodzenia obowiązującego dniu popełnienia przewinienia dyscyplinarnego.”,
+    - **d)** dodaje się ust. 4–6 brzmieniu: „4. Wymierzając karę dyscyplinarną, sąd uwzględnia szczególności wagę popełnionego czynu oraz sytuację osobistą obwinionego.
+
+5. Wymierzenie kary nagany, kary pieniężnej lub kary zawieszenia prawa wykonywania zawodu pociąga za sobą utratę biernego prawa wyborczego do organów samorządu na okres 4 lat od dnia uprawomocnienia się orzeczenia.
+
+6. Sąd może orzec podanie treści prawomocnego orzeczenia dyscyplinarnego do publicznej wiadomości określony sposób, jeżeli uzna to za celowe ze względu na okoliczności sprawy, o ile nie narusza to interesu osób trzecich.”;
+
+- **35)** po art. 64 dodaje się art. 64a brzmieniu: „Art. 64a. 1. W razie jednoczesnego ukarania za kilka przewinień dyscyplinarnych sąd dyscyplinarny wymierza karę za poszczególne przewinienia, a następnie karę łączną.
+
+2. Przy orzekaniu kary łącznej stosuje się następujące zasady:
+
+- **1)** razie orzeczenia kary upomnienia i nagany wymierza się łączną karę nagany;
+- **2)** kary upomnienia i nagany nie podlegają łączeniu z karą pieniężną;
+- **3)** przy karach pieniężnych łączna kara pieniężna nie może przekraczać sumy tych kar ani nie może być niższa od najwyższej z orzeczonych kar pieniężnych;
+- **4)** kara zawieszenia prawa wykonywania zawodu nie podlega łączeniu z karami upomnienia, nagany ani karą pieniężną;
+- **5)** przy orzeczonych za kilka przewinień karach rodzajowo różnych i karze pozbawienia prawa wykonywania zawodu wymierza się karę łączną pozbawienia prawa wykonywania zawodu, a przypadku orzeczonych równocześnie kar pieniężnych karę tę orzeka się na zasadach przewidzianych pkt 3.
+
+3. W przypadku gdy obwiniony popełnił dwa przewinienia lub więcej przewinień dyscyplinarnych, zanim zapadło pierwsze, choćby nieprawomocne, orzeczenie co do któregokolwiek z nich, wydaje się orzeczenie łączne, o ile orzeczone kary podlegają łączeniu według zasad przewidzianych ust. 2.”;
+
+- **36)** art. 65 dodaje się ust. 7 brzmieniu: „7. W przypadku nieobecności przewodniczącego Sądu Dyscyplinarnego lub przewodniczącego Wyższego Sądu Dyscyplinarnego jego obowiązki wykonuje wiceprzewodniczący tego sądu.”;
+- **37)** po art. 65 dodaje się art. 65a brzmieniu: „Art. 65a. Postępowanie dyscyplinarne obejmuje:
+- **1)** postępowanie wyjaśniające prowadzone przez Rzecznika Dyscyplinarnego;
+- **3)** postępowanie przed Wyższym Sądem Dyscyplinarnym.”;
+- **38)** art. 66 otrzymuje brzmienie: „Art. 66. 1. Obwiniony może ustanowić obrońcę spośród doradców podatkowych, adwokatów lub radców prawnych.
+
+2. Obwinionemu przysługuje prawo do obrońcy z urzędu. Obrońcą z urzędu może być wyłącznie doradca podatkowy.
+
+3. Doradcy podatkowemu ustanowionemu obrońcą z urzędu przysługuje wynagrodzenie.”;
+
+- **39)** art. 68 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 brzmieniu: „2. Rzecznik Dyscyplinarny może wykonywać czynności przy pomocy swoich zastępców z wyjątkiem wszczęcia postępowania wyjaśniającego, wydania postanowienia o przedstawieniu zarzutów i złożenia wniosku o ukaranie.”;
+- **40)** art. 69 otrzymuje brzmienie: „Art. 69. 1. Rzecznik Dyscyplinarny wszczyna postępowanie wyjaśniające przypadku powzięcia wiadomości o popełnieniu czynu powodującego odpowiedzialność dyscyplinarną.
+
+2. Rzecznik Dyscyplinarny wszczyna postępowanie wyjaśniające również na żądanie Krajowej Rady Doradców Podatkowych, ministra właściwego do spraw finansów publicznych lub Ministra Sprawiedliwości.
+
+3. Po wszczęciu postępowania wyjaśniającego i zebraniu dowodów uzasadniających podejrzenie popełnienia przewinienia dyscyplinarnego Rzecznik Dyscyplinarny wydaje postanowienie o przedstawieniu zarzutów, ogłasza je niezwłocznie obwinionemu i przesłuchuje go, chyba że złożenie przez obwinionego wyjaśnień nie jest możliwe.
+
+4. Rzecznik Dyscyplinarny po przeprowadzeniu czynności, o których mowa ust. 3, składa do Sądu Dyscyplinarnego wniosek o ukaranie.
+
+5. W przypadku gdy zebrany materiał dowodowy nie uzasadnia złożenia wniosku o ukaranie, Rzecznik Dyscyplinarny umarza postępowanie dyscyplinarne.”;
+
+- **41)** po art. 69 dodaje się art. 69a brzmieniu: „Art. 69a. 1. Niestawiennictwo obwinionego lub jego obrońcy na wezwanie Rzecznika Dyscyplinarnego lub na rozprawie nie wstrzymuje przeprowadzenia czynności lub rozpoznania sprawy, chyba że należycie usprawiedliwią oni swoją nieobecność, jednocześnie wnosząc o nieprzeprowadzanie czynności przed Rzecznikiem Dyscyplinarnym lub odroczenie lub przerwanie rozprawy, albo Rzecznik Dyscyplinarny, Sąd Dyscyplinarny lub Wyższy Sąd Dyscyplinarny z ważnych przyczyn uzna ich obecność za konieczną.
+
+2. W przypadku nieusprawiedliwionego niestawiennictwa obwinionego odpis postanowienia o przedstawieniu zarzutów Rzecznik Dyscyplinarny doręcza mu na piśmie, co zastępuje ogłoszenie tego postanowienia.
+
+3. Należyte usprawiedliwienie niestawiennictwa obwinionego lub jego obrońcy na wezwanie Rzecznika Dyscyplinarnego lub na rozprawie wymaga wskazania i uprawdopodobnienia wyjątkowych przyczyn, przypadku zaś choroby przedstawienia zaświadczenia lekarskiego potwierdzającego niemożność stawienia się zgodnie z wezwaniem lub zawiadomieniem organu prowadzącego postępowanie.”;
+
+- **42)** art. 72 ust. 2 wyrazy „ust. 4” zastępuje się wyrazami „ust. 2”;
+- **43)** art. 73 wyrazy „ust. 4” zastępuje się wyrazami „ust. 2”;
+- **44)** art. 75 dodaje się ust. 4 i 5 brzmieniu: „4. Prawomocne orzeczenie zakresie kary pieniężnej oraz kosztów postępowania stanowi tytuł egzekucyjny rozumieniu art. 777 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568, z późn. zm. ) i po nadaniu mu klauzuli wykonalności przez sąd rejonowy właściwy ze względu na siedzibę sądu dyscyplinarnego, który wydał to orzeczenie, podlega wykonaniu drodze egzekucji prowadzonej trybie tej ustawy.
+
+5. W postępowaniu egzekucyjnym, o którym mowa ust. 4, czynności przewidziane dla wierzyciela podejmuje przewodniczący Krajowej Rady Doradców Podatkowych albo upoważniony przez niego członek Krajowej Rady Doradców Podatkowych.”; „Art. 76. 1. Nie można wszcząć postępowania dyscyplinarnego, jeżeli od czasu popełnienia czynu upłynęły 3 lata, a przypadku popełnienia czynu, o którym mowa art. 37a ust. 2, upłynął rok.
+
+2. W razie śmierci obwinionego przed zakończeniem postępowania dyscyplinarnego postępowanie umarza się.
+
+3. W razie wszczęcia postępowania dyscyplinarnego przed upływem terminu, o którym mowa ust. 1, karalność czynu ustaje, jeżeli od czasu jego popełnienia:
+
+- **1)** upłynęło 5 lat albo
+- **2)** upłynęły 3 lata przypadku, o którym mowa art. 37a ust. 2.
+
+4. Jeżeli czyn zawiera znamiona przestępstwa, przedawnienie dyscyplinarne następuje z upływem okresu przedawnienia karalności przestępstwa.”;
+
+- **46)** po art. 76 dodaje się art. 76a brzmieniu: „Art. 76a. 1. Koszty postępowania dyscyplinarnego mają charakter zryczałtowany.
+
+2. W przypadku ukarania koszty postępowania ponosi obwiniony, a pozostałych przypadkach Krajowa Izba Doradców Podatkowych.”;
+
+- **47)** art. 77:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Zatarcie ukarania karą dyscyplinarną następuje z urzędu po upływie:
+
+- **1)** 3 lat od uprawomocnienia się orzeczenia dyscyplinarnego, orzekającego karę upomnienia, nagany lub karę pieniężną;
+- **2)** 4 lat od zakończenia okresu zawieszenia prawa wykonywania zawodu.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. W razie śmierci ukaranego zatarcie ukarania, o którym mowa ust. 1 lub 2, następuje z dniem śmierci ukaranego.”;
+
+- **48)** art. 79 otrzymuje brzmienie: „Art. 79. W sprawach nieuregulowanych ustawie do postępowania dyscyplinarnego stosuje się odpowiednio przepisy:
+- **1)** ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, 304, 1178 i 1420);
+- **2)** rozdziałów I–III ustawy z dnia 6 czerwca 1997 r. Kodeks karny.”;
+- **49)** art. 80 po wyrazach „Członkowie Sądu Dyscyplinarnego” dodaje się wyrazy „oraz Wyższego Sądu Dyscyplinarnego”;
+- **50)** art. 81 ust. 1 wyrazy „50 000 zł” zastępuje się wyrazami „100 000 zł”.
+
+**Art. 2.** W ustawie z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685 oraz z 2025 r. poz. 769 i 1427) art. 175 § 3 pkt 1 otrzymuje brzmienie: „1) doradcę podatkowego sprawach obowiązków, o których mowa art. 2 ust. 1 pkt 1 i 3a ustawy z dnia 5 lipca 1996 r. o doradztwie podatkowym (Dz. U. z 2021 r. poz. 2117 oraz z 2025 r. poz. 1882);”.
+
+**Art. 3.** Czynności, o których mowa art. 2 ust. 1:
+
+- **1)** pkt 1 lit. b ustawy zmienianej art. 1,
+- **2)** pkt 4 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, zakresie reprezentowania sprawach, o których mowa art. 2 ust. 1 pkt 1 lit. b i pkt 3a ustawy zmienianej art. 1 mogą być wykonywane przez podmioty inne niż podmioty uprawnione do zawodowego wykonywania tych czynności na podstawie ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia życie niniejszej ustawy. czasowym, o wpis do rejestru, o którym mowa art. 14 ustawy zmienianej art. 1, brzmieniu dotychczasowym, złożone i nierozpatrzone przed dniem wejścia życie niniejszej ustawy pozostawia się bez rozpatrzenia.
 
 2. W okresie 12 miesięcy od dnia wejścia życie niniejszej ustawy Krajowa Rada Doradców Podatkowych ramach nadzoru, o którym mowa art. 14 ust. 6 ustawy zmienianej art. 1, przeprowadzi weryfikację przestrzegania przez podmioty, o których mowa art. 4 ust. 1 pkt 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, warunków określonych art. 4 ust. 1 pkt 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
 
@@ -109,20 +474,27 @@ source: "isap-pdf"
 
 3. Kandydat na doradcę podatkowego, o którym mowa ust. 1 pkt 2 i 3, może złożyć wniosek, o którym mowa art. 21 ust. 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, po zakończeniu cyklu egzaminacyjnego, o którym mowa ust. 1 pkt 2 albo 3, jednak nie wcześniej niż po dniu 30 czerwca 2026 r.
 
-4. Kandydaci na doradców podatkowych, o których mowa art. 24 ust. 5 ustawy zmienianej art. 1, brzmieniu dotychczasowym, którym przed dniem 1 lipca 2026 r. wyznaczono termin części ustnej egzaminu, na skutek złożenia dniem nie uzyskali pozytywnego wyniku z części ustnej egzaminu, albo którym nie upłynął okres, o którym mowa art. 24 ust. 6 ustawy zmienianej art. 1, brzmieniu dotychczasowym, są cyklu egzaminacyjnym, który kończy się z dniem:
+4. Kandydaci na doradców podatkowych, o których mowa art. 24 ust. 5 ustawy zmienianej art. 1, brzmieniu dotychczasowym, którym przed dniem 1 lipca 2026 r. wyznaczono termin części ustnej egzaminu, na skutek złożenia wniosku, o którym mowa art. 24 ust. 6 ustawy zmienianej art. 1, brzmieniu dotychczasowym, i którzy przed tym dniem nie uzyskali pozytywnego wyniku z części ustnej egzaminu, albo którym nie upłynął okres, o którym mowa art. 24 ust. 6 ustawy zmienianej art. 1, brzmieniu dotychczasowym, są cyklu egzaminacyjnym, który kończy się z dniem:
 
 - **1)** uzyskania przez kandydata na doradcę podatkowego pozytywnego wyniku z części ustnej tego egzaminu albo
 - **2)** upływu okresu, o którym mowa art. 24 ust. 6 ustawy zmienianej art. 1, brzmieniu dotychczasowym.
 
-5. Kandydat na doradcę podatkowego, o którym mowa ust. 4 pkt 2, może złożyć wniosek, o którym mowa art. 21 ust. 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, po zakończeniu cyklu egzaminacyjnego, o którym mowa ust. 4 pkt 2, jednak nie wcześniej niż po dniu 30 czerwca 2026 r.
-
-6. Kandydatom na doradców podatkowych, którym przed dniem wejścia życie niniejszej ustawy wyznaczono termin części pisemnej egzaminu i którzy przed tym dniem nie uzyskali pozytywnego wyniku z tej części egzaminu, cykl egzaminacyjny kończy się z dniem wejścia życie niniejszej ustawy, jeżeli przed tym dniem upłynęło 5 lat od dnia ostatniego wyznaczonego im terminu części pisemnej egzaminu na doradcę podatkowego, z którego uzyskali wynik negatywny albo do którego nie przystąpili i nie ubiegali się o wyznaczenie terminu ponownego egzaminu z tej części.
+5. Kandydat na doradcę podatkowego, o którym mowa ust. 4 pkt 2, może złożyć wniosek, o którym mowa art. 21 ust. 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, po zakończeniu cyklu egzaminacyjnego, o którym mowa ust. 4 pkt 2, jednak nie wcześniej niż po dniu 30 czerwca 2026 r. części pisemnej egzaminu i którzy przed tym dniem nie uzyskali pozytywnego wyniku z tej części egzaminu, cykl egzaminacyjny kończy się z dniem wejścia życie niniejszej ustawy, jeżeli przed tym dniem upłynęło 5 lat od dnia ostatniego wyznaczonego im terminu części pisemnej egzaminu na doradcę podatkowego, z którego uzyskali wynik negatywny albo do którego nie przystąpili i nie ubiegali się o wyznaczenie terminu ponownego egzaminu z tej części.
 
 **Art. 10.** W przypadku cyklu egzaminacyjnego, o którym mowa w:
 
+- **1)** art. 9 ust. 1,
+- **2)** art. 9 ust. 4 do opłat za egzamin na doradcę podatkowego, którego termin części pisemnej lub ustnej egzaminu przypada przed dniem 1 lipca 2026 r., stosuje się przepisy dotychczasowe.
+
 **Art. 11.** W przypadku zakończenia cyklu egzaminacyjnego sposób określony w:
 
+- **1)** art. 9 ust. 1 pkt 3,
+- **2)** art. 9 ust. 6 opłata wniesiona za egzamin na doradcę podatkowego nie podlega zwrotowi.
+
 **Art. 12.** W przypadku cyklu egzaminacyjnego, o którym mowa w:
+
+- **1)** art. 9 ust. 1,
+- **2)** art. 9 ust. 4 zwrot, o którym mowa art. 25 ust. 5 ustawy zmienianej art. 1, przysługuje przypadku nieprzystąpienia przez kandydata na doradcę podatkowego do części pisemnej lub ustnej egzaminu, której termin przeprowadzenia ramach tego cyklu przypada po dniu 30 czerwca 2026 r., jeżeli za tę część egzaminu uiszczono opłatę egzaminacyjną, o której mowa art. 25 ust. 1 pkt 2 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
 
 **Art. 13.** Kandydaci na doradców podatkowych, o których mowa art. 9 ust. 1 i 4, przekazują Państwowej Komisji Egzaminacyjnej do spraw Doradztwa Podatkowego swój numer PESEL.
 
@@ -136,17 +508,13 @@ source: "isap-pdf"
 
 **Art. 18.**
 
-1. Z dniem wejścia życie niniejszej ustawy kończy się kadencja Państwowej Komisji Egzaminacyjnej do Spraw Doradztwa Podatkowego powołanej na podstawie przepisów dotychczasowych. niu nadanym niniejszą ustawą, jednak nie dłużej niż 3 miesiące od dnia wejścia życie niniejszej ustawy.
+1. Z dniem wejścia życie niniejszej ustawy kończy się kadencja Państwowej Komisji Egzaminacyjnej do Spraw Doradztwa Podatkowego powołanej na podstawie przepisów dotychczasowych.
+
+2. Komisja Egzaminacyjna, o której mowa ust. 1, działa do czasu powołania Państwowej Komisji Egzaminacyjnej do spraw Doradztwa Podatkowego na zasadach i trybie określonych przepisach ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż 3 miesiące od dnia wejścia życie niniejszej ustawy.
 
 3. Do powoływania i odwoływania członków Komisji Egzaminacyjnej, o której mowa ust. 1, okresie, o którym mowa ust. 2, stosuje się przepisy dotychczasowe.
 
-**Art. 19.** Pierwszy wykaz tytułów aktów prawnych oraz przykładowe pytania i zadania egzaminacyjne wraz z odpowiedziami, o których mowa art. 22 ust. 12 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, są publikowane nie później niż 3 miesiące przed wyznaczonym pierwszym terminem części pisemnej lub ustnej egzaminu na doradcę podatkowego, przeprowadzanego na podstawie art. 20 ust. 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, i mają zastosowanie do egzaminów na doradcę podatkowego przeprowadzanych po dniu 30 czerwca 2026 r.
-
-**Art. 20.**
-
-1. Do egzaminów na doradcę podatkowego przeprowadzanych do dnia 30 czerwca 2026 r. stosuje się wykaz, o którym mowa art. 22 ust. 12 ustawy zmienianej art. 1, brzmieniu dotychczasowym, podany do publicznej wiadomości przed dniem wejścia życie niniejszej ustawy, przy czym wykaz ten może być aktualizowany.
-
-2. Zestawy pytań i zadań egzaminacyjnych na poszczególne egzaminy przygotowywane zgodnie z art. 23 ust. 1 pkt 2 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, mają zastosowanie do egzaminów na doradcę podatkowego przeprowadzanych po dniu 30 czerwca 2026 r.
+**Art. 19.** Pierwszy wykaz tytułów aktów prawnych oraz przykładowe pytania i zadania egzaminacyjne wraz z odpowiedziami, o których mowa art. 22 ust. 12 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, są publikowane nie później niż 3 miesiące przed wyznaczonym pierwszym terminem części pisemnej lub ustnej egzaminu na doradcę podatkowego, przeprowadzanego na podstawie art. 20 ust. 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, i mają zastosowanie do egzaminów na doradcę podatkowego przeprowadzanych po dniu 30 czerwca 2026 r. o którym mowa art. 22 ust. 12 ustawy zmienianej art. 1, brzmieniu dotychczasowym, podany do publicznej wiadomości przed dniem wejścia życie niniejszej ustawy, przy czym wykaz ten może być aktualizowany. 2. Zestawy pytań i zadań egzaminacyjnych na poszczególne egzaminy przygotowywane zgodnie z art. 23 ust. 1 pkt 2 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, mają zastosowanie do egzaminów na doradcę podatkowego przeprowadzanych po dniu 30 czerwca 2026 r.
 
 **Art. 21.**
 
@@ -174,14 +542,15 @@ source: "isap-pdf"
 
 1. Doradcy podatkowi wpisani na listę doradców podatkowych na dzień wejścia życie niniejszej ustawy są obowiązani uzupełnić wiedzę zakresie dziedzin, o których mowa art. 20 ust. 1 pkt 4a i 4b ustawy zmienianej art. 1, ramach podnoszenia kwalifikacji, o którym mowa art. 36 pkt 2 ustawy zmienianej art. 1, terminie:
 
-- **1)** 12 miesięcy od dnia wejścia życie niniejszej ustawy – przypadku doradców podatkowych, którzy dniu wejścia życie niniejszej ustawy wykonują zawód;
-- **2)** 12 miesięcy od dnia podjęcia wykonywania zawodu – przypadku doradców podatkowych, którzy dniu wejścia życie niniejszej ustawy nie wykonują zawodu. dzę zakresie dziedzin, o których mowa art. 20 ust. 1 pkt 4a i 4b ustawy zmienianej art. 1, ramach podnoszenia kwalifikacji, o którym mowa art. 36 pkt 2 ustawy zmienianej art. 1, terminie:
-- **1)** 12 miesięcy od dnia wpisu na listę – przypadku doradców podatkowych podejmujących wykonywanie zawodu z dniem wpisu na listę;
-- **2)** 12 miesięcy od dnia podjęcia wykonywania zawodu – przypadku doradców podatkowych niepodejmujących wykonywania zawodu z dniem wpisu na listę.
+- **1)** 12 miesięcy od dnia wejścia życie niniejszej ustawy przypadku doradców podatkowych, którzy dniu wejścia życie niniejszej ustawy wykonują zawód;
+- **2)** 12 miesięcy od dnia podjęcia wykonywania zawodu przypadku doradców podatkowych, którzy dniu wejścia życie niniejszej ustawy nie wykonują zawodu.
 
-3. Nie później niż terminie 30 dni od dnia upływu terminu, o którym mowa ust. 1 pkt 1 albo 2, albo terminu, o którym mowa ust. 2 pkt 1 albo 2, doradcy podatkowi są obowiązani poinformować Krajową Radę Doradców Podatkowych o sposobie zrealizowania obowiązku, o którym mowa ust. 1 albo 2.
+2. Doradcy podatkowi wpisani na listę doradców podatkowych po dniu wejścia życie niniejszej ustawy, którzy złożyli z wynikiem pozytywnym egzamin na doradcę podatkowego przed dniem 1 lipca 2026 r., są obowiązani uzupełnić wiedzę zakresie dziedzin, o których mowa art. 20 ust. 1 pkt 4a i 4b ustawy zmienianej art. 1, ramach podnoszenia kwalifikacji, o którym mowa art. 36 pkt 2 ustawy zmienianej art. 1, terminie:
 
-**Art. 26.** Obowiązek używania przez doradcę podatkowego stroju urzędowego, o którym mowa art. 38a ust. 1 ustawy zmienianej art. 1, dotyczy rozpraw sądowych przeprowadzanych od dnia 1 stycznia 2027 r.
+- **1)** 12 miesięcy od dnia wpisu na listę przypadku doradców podatkowych podejmujących wykonywanie zawodu z dniem wpisu na listę;
+- **2)** 12 miesięcy od dnia podjęcia wykonywania zawodu przypadku doradców podatkowych niepodejmujących wykonywania zawodu z dniem wpisu na listę.
+
+3. Nie później niż terminie 30 dni od dnia upływu terminu, o którym mowa ust. 1 pkt 1 albo 2, albo terminu, o którym mowa ust. 2 pkt 1 albo 2, doradcy podatkowi są obowiązani poinformować Krajową Radę Doradców Podatkowych o sposobie zrealizowania obowiązku, o którym mowa ust. 1 albo 2. zmienianej art. 1, dotyczy rozpraw sądowych przeprowadzanych od dnia 1 stycznia 2027 r.
 
 **Art. 27.**
 

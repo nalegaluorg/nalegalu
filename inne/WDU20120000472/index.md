@@ -8,12 +8,10 @@ pos: 472
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
 # Ustawa z dnia 13 kwietnia 2012 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
-
-*USTAWA dnia 13 kwietnia 2012 o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -24,80 +22,186 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2012-04-13 |
 | Data wydania | 2012-04-30 |
+| Wejście w życie | 2012-05-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000472) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/472/text.pdf) |
 
-**Art. 1.** W ustawie dnia 21 marca 1985 o drogach publicznych (Dz. U. 2007 19, 115, późn. zm. ) wprowadza się następujące zmiany:
+1.
+Audytorem bezpieczeństwa ruchu drogowego jest osoba, która posiada certyfikat audytora bezpieczeństwa ruchu drogowego.
+2.
+Certyfikat audytora bezpieczeństwa ruchu drogowego może uzyskać osoba, która:
+1)
+posiada pełną zdolność do czynności prawnych;
+2)
+korzysta z pełni z praw publicznych;
+3)
+nie została skazana prawomocnym wyrokiem sądu za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+4)
+posiada wyższe wykształcenie techniczne w zakresie budownictwa drogowego, inżynierii ruchu drogowego lub transportu;
+5)
+posiada co najmniej 5-letnią praktykę w zakresie projektowania dróg, inżynierii ruchu drogowego, zarządzania drogami, zarządzania ruchem drogowym lub opiniowania projektów drogowych pod względem bezpieczeństwa ruchu drogowego;
+6)
+posiada zaświadczenie o ukończeniu szkolenia i zdaniu egzaminu na audytora bezpieczeństwa ruchu drogowego.
+3.
+Audytor bezpieczeństwa ruchu drogowego ma obowiązek stałego podnoszenia kwalifikacji zawodowych na szkoleniach okresowych co najmniej raz na trzy lata.
+4.
+Szkolenia zakończone egzaminem, o których mowa w ust. 2 pkt 6, oraz szkolenia okresowe, o których mowa w ust. 3, przeprowadzają uczelnie, o których mowa w art. 2 ust. 1 pkt 2 i 3 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. Nr 164, poz. 1365, z późn. zm.) oraz instytuty badawcze posiadające kategorię A, działające w zakresie budownictwa drogowego na podstawie ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. Nr 96, poz. 618 oraz z 2011 r. Nr 112, poz. 654 i Nr 185, poz. 1092).
+5.
+Uczelnie, o których mowa w art. 2 ust. 1 pkt 2 i 3 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym, powinny posiadać uprawnienia do prowadzenia studiów drugiego stopnia z zakresu budownictwa drogowego.
+6.
+Certyfikat audytora bezpieczeństwa ruchu drogowego wydaje, na wniosek kandydata na audytora bezpieczeństwa ruchu drogowego, na okres trzech lat minister właściwy do spraw transportu, po dostarczeniu przez tego kandydata oświadczenia o spełnieniu wymogów, o których mowa w ust. 2 pkt 1 i 2, oraz dokumentów potwierdzających spełnienie wymogów, o których mowa w ust. 2 pkt 3–6.
+7.
+Certyfikat audytora bezpieczeństwa ruchu drogowego jest przedłużany na kolejne trzy lata na wniosek audytora bezpieczeństwa ruchu drogowego po dostarczeniu potwierdzenia ukończenia szkolenia okresowego, o którym mowa w ust. 3, oświadczenia o spełnieniu wymogów, o których mowa w ust. 2 pkt 1 i 2, oraz dokumentu potwierdzającego spełnienie wymogu, o którym mowa w ust. 2 pkt 3.
+8.
+Minister właściwy do spraw transportu odmawia w drodze decyzji administracyjnej:
+1)
+wydania certyfikatu audytora bezpieczeństwa ruchu drogowego w przypadku niespełnienia któregokolwiek z wymogów, o których mowa w ust. 2;
+2)
+przedłużenia certyfikatu audytora bezpieczeństwa ruchu drogowego w przypadku niespełnienia któregokolwiek z wymogów, o których mowa w ust. 7.
+9.
+Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
+1)
+sposób przeprowadzania i zakres programowy szkolenia zakończonego egzaminem, o którym mowa w ust. 2 pkt 6,
+2)
+sposób przeprowadzania i zakres programowy szkolenia okresowego, o którym mowa w ust. 3,
+3)
+wzór certyfikatu audytora bezpieczeństwa ruchu drogowego
+mając na uwadze zapewnienie odpowiedniego poziomu edukacyjnego szkoleń oraz jednolitego wzoru dokumentu.
+Audytor bezpieczeństwa ruchu drogowego traci certyfikat audytora bezpieczeństwa ruchu drogowego w przypadku:
+1)
+skazania prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+2)
+pozbawienia praw publicznych;
+3)
+całkowitego lub częściowego ubezwłasnowolnienia.
+” .
+
+**Art. 1.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2007 r. Nr 19, poz. 115, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 4: pkt 26 otrzymuje brzmienie: „
+    - **a)**
+
+- **26)** transeuropejska sieć drogowa – sieć drogową określoną w decyzji Parlamentu Europejskiego i Rady nr 661/2010/UE z dnia 7 lipca 2010 r. w sprawie unijnych wytycznych dotyczących rozwoju transeuropejskiej sieci transportowej (wersja przekształcona) (Dz. Urz. UE L 204 z 05.08.2010, str. 1); ” , w pkt 27 kropkę zastępuje się średnikiem i dodaje się pkt 28–32 w brzmieniu: „
+    - **b)**
+
+- **28)** ocena wpływu planowanej drogi na bezpieczeństwo ruchu drogowego – strategiczną analizę wpływu wariantów planowanej drogi na poziom bezpieczeństwa ruchu drogowego w sieci dróg publicznych znajdujących się w obszarze oddziaływania planowanej drogi;
+- **29)** audyt bezpieczeństwa ruchu drogowego – niezależną, szczegółową, techniczną ocenę cech projektowanej, budowanej, przebudowywanej lub użytkowanej drogi publicznej pod względem bezpieczeństwa uczestników ruchu drogowego;
+- **30)** klasyfikacja odcinków dróg ze względu na koncentrację wypadków śmiertelnych – analizę istniejącej sieci drogowej pod względem liczby wypadków śmiertelnych, w wyniku której wytypowane zostają najbardziej niebezpieczne odcinki dróg o dużej liczbie wypadków śmiertelnych;
+- **31)** klasyfikacja odcinków dróg ze względu na bezpieczeństwo sieci drogowej – analizę istniejącej sieci drogowej, w wyniku której wytypowane zostają odcinki dróg o dużej możliwości poprawy bezpieczeństwa oraz zmniejszenia kosztów wypadków drogowych;
+- **32)** uczestnik ruchu drogowego – uczestnika ruchu drogowego w rozumieniu ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.). ” ;
+- **2)** w art. 19 w ust. 3 zdanie drugie otrzymuje brzmienie: „ Spółka pełni funkcję zarządcy autostrady płatnej na warunkach określonych w umowie o budowę i eksploatację albo wyłącznie eksploatację autostrady, z wyjątkiem zadań, o których mowa w art. 20 pkt 1, 8, 17 i 20, które wykonuje Generalny Dyrektor Dróg Krajowych i Autostrad. ” ;
+- **3)** w art. 20: pkt 10 otrzymuje brzmienie: „
+    - **a)**
+
+- **10)** przeprowadzanie okresowych kontroli stanu dróg i drogowych obiektów inżynierskich oraz przepraw promowych, ze szczególnym uwzględnieniem ich wpływu na stan bezpieczeństwa ruchu drogowego, w tym weryfikację cech i wskazanie usterek, które wymagają prac konserwacyjnych lub naprawczych ze względu na bezpieczeństwo ruchu drogowego; ” , po pkt 10 dodaje się pkt 10a w brzmieniu: „
+    - **b)**
+
+- **10a)** badanie wpływu robót drogowych na bezpieczeństwo ruchu drogowego; ” , dodaje się pkt 20 w brzmieniu: „
+    - **c)**
+
+- **20)** zarządzanie bezpieczeństwem dróg w transeuropejskiej sieci drogowej. ” ;
+- **4)** po rozdziale 2a dodaje się rozdziały 2b i 2c w brzmieniu: „
+
+#### Rozdział 2b Zarządzanie bezpieczeństwem dróg w transeuropejskiej sieci drogowej
 
 **Art. 24h.** Zarządzanie bezpieczeństwem dróg w transeuropejskiej sieci drogowej polega na:
 
-**Art. 24j.**
+- **1)** przeprowadzeniu: oceny wpływu planowanej drogi na bezpieczeństwo ruchu drogowego, audytu bezpieczeństwa ruchu drogowego;
+    - **a)**
+    - **b)**
+
+- **2)** dokonywaniu klasyfikacji odcinków dróg: ze względu na koncentrację wypadków śmiertelnych, ze względu na bezpieczeństwo sieci drogowej.
+    - **a)**
+    - **b)**
+
+1. Ocenę wpływu planowanej drogi na bezpieczeństwo ruchu drogowego przeprowadza się na etapie planowania tej drogi przed wszczęciem postępowania w sprawie decyzji o środowiskowych uwarunkowaniach, o której mowa w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. Nr 199, poz. 1227, z późn. zm.).
+
+2. Przy przeprowadzaniu oceny wpływu planowanej drogi na bezpieczeństwo ruchu drogowego uwzględnia się:
+
+- **1)** liczbę zabitych w wypadkach drogowych oraz liczbę wypadków drogowych na drogach, z których ruch drogowy może zostać przeniesiony na planowaną drogę;
+- **2)** warianty przebiegu i parametrów planowanej drogi w przypadku budowy drogi oraz rozkład ruchu drogowego na sieci drogowej;
+- **3)** wpływ planowanej drogi na istniejącą sieć drogową;
+- **4)** wpływ planowanej drogi na uczestników ruchu drogowego;
+- **5)** natężenie ruchu drogowego i jego rodzaj;
+- **6)** czynniki sezonowe i klimatyczne;
+- **7)** potrzeby uczestników ruchu drogowego w zakresie bezpiecznych stref parkingowych;
+- **8)** lokalną aktywność tektoniczną, sejsmiczną oraz możliwość wystąpienia tąpnięć górniczych.
+
+3. Ocena wpływu planowanej drogi na bezpieczeństwo ruchu drogowego zawiera w szczególności:
+
+- **1)** opis planowanej budowy lub przebudowy drogi;
+- **2)** opis stanu bezpieczeństwa ruchu drogowego istniejącego oraz jego stanu w przypadku niezrealizowania planowanej budowy lub przebudowy drogi;
+- **3)** przedstawienie proponowanych i możliwych rozwiązań w zakresie bezpieczeństwa ruchu drogowego;
+- **4)** analizę wpływu alternatywnych rozwiązań na bezpieczeństwo ruchu drogowego;
+- **5)** porównanie rozwiązań alternatywnych, w tym analizę kosztów i korzyści.
+
+4. Wyniki oceny wpływu planowanej drogi na bezpieczeństwo ruchu drogowego zarządca drogi uwzględnia na kolejnych etapach projektowania budowy albo przebudowy drogi.
 
 1. Audyt bezpieczeństwa ruchu drogowego przeprowadza się:
 
-- **1)** w ramach opracowywania na potrzeby decyzji o środowiskowych uwarunkowaniach karty informacyjnej przedsięwzięcia lub raportu o oddziaływaniu przedsięwzięcia na postępowania w sprawie wydania decyzji o środowiskowych uwarunkowaniach wyniknie potrzeba przedstawienia nowego wariantu drogi;
+- **1)** w ramach opracowywania na potrzeby decyzji o środowiskowych uwarunkowaniach karty informacyjnej przedsięwzięcia lub raportu o oddziaływaniu przedsięwzięcia na środowisko, ich ewentualnego uzupełniania oraz gdy w toku postępowania w sprawie wydania decyzji o środowiskowych uwarunkowaniach wyniknie potrzeba przedstawienia nowego wariantu drogi;
 - **2)** przed wszczęciem postępowania w sprawie wydania decyzji o zezwoleniu na realizację inwestycji drogowej, decyzji o pozwoleniu na budowę albo przed zgłoszeniem wykonywania robót;
 - **3)** przed wszczęciem postępowania w sprawie wydania decyzji o pozwoleniu na użytkowanie drogi lub zawiadomieniem o zakończeniu budowy lub przebudowy drogi;
 - **4)** przed upływem 12 miesięcy od dnia oddania drogi do użytkowania.
 
 2. Przy przeprowadzaniu audytu bezpieczeństwa ruchu drogowego, o którym mowa w ust. 1 pkt 1, uwzględnia się w szczególności:
 
-- **1)** położenie geograficzne oraz warunki geograficzne, klimatyczne meteorologiczne;
-- **2)** lokalizację rodzaj skrzyżowań;
+- **1)** położenie geograficzne oraz warunki geograficzne, klimatyczne i meteorologiczne;
+- **2)** lokalizację i rodzaj skrzyżowań;
 - **3)** ograniczenia ruchu;
 - **4)** funkcjonalność w ramach sieci drogowej;
 - **5)** dopuszczalną oraz projektową prędkość pojazdu;
-- **6)** przekrój poprzeczny, w tym liczbę szerokość pasów ruchu;
-- **7)** plan sytuacyjny profil podłużny;
+- **6)** przekrój poprzeczny, w tym liczbę i szerokość pasów ruchu;
+- **7)** plan sytuacyjny i profil podłużny;
 - **8)** ograniczenia widoczności;
 - **9)** dostępność dla środków publicznego transportu zbiorowego;
-- **10)** skrzyżowania liniami kolejowymi;
-- **11)** projektowane przejścia dla zwierząt inne urządzenia ochrony środowiska.
+- **10)** skrzyżowania z liniami kolejowymi;
+- **11)** projektowane przejścia dla zwierząt i inne urządzenia ochrony środowiska.
 
 3. Przy przeprowadzaniu audytu bezpieczeństwa ruchu drogowego, o którym mowa w ust. 1 pkt 2, uwzględnia się w szczególności:
 
-- **1)** oznakowanie pionowe poziome drogi, na podstawie projektu organizacji ruchu;
-- **2)** oświetlenie drogi skrzyżowań;
-- **3)** urządzenia obiekty w pasie drogowym;
+- **1)** oznakowanie pionowe i poziome drogi, na podstawie projektu organizacji ruchu;
+- **2)** oświetlenie drogi i skrzyżowań;
+- **3)** urządzenia i obiekty w pasie drogowym;
 - **4)** sposób zagospodarowania terenów przyległych do pasa drogowego, w tym roślinność;
 - **5)** uczestników ruchu drogowego oraz ich potrzeby w zakresie bezpiecznych stref parkingowych;
 - **6)** sposób dostosowania urządzeń bezpieczeństwa ruchu drogowego do potrzeb uczestników ruchu drogowego.
 
 4. Przy przeprowadzaniu audytu bezpieczeństwa ruchu drogowego, o którym mowa w ust. 1 pkt 3, uwzględnia się w szczególności:
 
-- **1)** bezpieczeństwo uczestników ruchu drogowego widoczność w różnych warunkach pogodowych oraz porach dnia; o którym mowa w ust. 1 pkt 4, uwzględnia się ocenę zachowań uczestników ruchu drogowego wpływ tych zachowań na bezpieczeństwo ruchu drogowego.
+- **1)** bezpieczeństwo uczestników ruchu drogowego i widoczność w różnych warunkach pogodowych oraz porach dnia;
+- **2)** widoczność oznakowania pionowego i poziomego drogi na podstawie wizji lokalnej w terenie;
+- **3)** stan nawierzchni drogi.
+
+5. Przy przeprowadzaniu audytu bezpieczeństwa ruchu drogowego, o którym mowa w ust. 1 pkt 4, uwzględnia się ocenę zachowań uczestników ruchu drogowego i wpływ tych zachowań na bezpieczeństwo ruchu drogowego.
 
 6. Przy przeprowadzaniu audytu bezpieczeństwa ruchu drogowego, o którym mowa w ust. 3–5, uwzględnia się w razie potrzeby kryteria stosowane przy przeprowadzaniu audytu na etapach wcześniejszych.
-
-**Art. 24k.**
 
 1. Audyt bezpieczeństwa ruchu drogowego przeprowadza audytor bezpieczeństwa ruchu drogowego lub zespół audytujący, w którego skład wchodzi co najmniej jeden audytor bezpieczeństwa ruchu drogowego.
 
 2. Audyt bezpieczeństwa ruchu drogowego nie może być przeprowadzany przez audytora bezpieczeństwa ruchu drogowego, który wykonywał lub wykonuje zadania w zakresie projektowania, budowy, przebudowy, zarządzania odcinkiem drogi podlegającym audytowi, zarządzania ruchem lub nadzoru nad zarządzaniem ruchem na odcinku drogi podlegającym audytowi.
 
-3. Audyt bezpieczeństwa ruchu drogowego nie może być przeprowadzany przez audytora bezpieczeństwa ruchu drogowego, którego małżonek, krewny powinowaty do drugiego stopnia, osoba związana nim tytułu przysposobienia, opieki lub kurateli wykonywał lub wykonuje zadania w zakresie projektowania, budowy, przebudowy, zarządzania odcinkiem drogi podlegającym audytowi, zarządzania ruchem lub nadzoru nad zarządzaniem ruchem na odcinku drogi podlegającym audytowi.
+3. Audyt bezpieczeństwa ruchu drogowego nie może być przeprowadzany przez audytora bezpieczeństwa ruchu drogowego, którego małżonek, krewny i powinowaty do drugiego stopnia, osoba związana z nim z tytułu przysposobienia, opieki lub kurateli wykonywał lub wykonuje zadania w zakresie projektowania, budowy, przebudowy, zarządzania odcinkiem drogi podlegającym audytowi, zarządzania ruchem lub nadzoru nad zarządzaniem ruchem na odcinku drogi podlegającym audytowi.
 
-4. Audyt bezpieczeństwa ruchu drogowego może przeprowadzać audytor bezpieczeństwa ruchu drogowego będący pracownikiem jednostki wykonującej zadania zarządcy drogi lub audytor bezpieczeństwa ruchu drogowego nie pozostający w stosunku pracy jednostką wykonującą zadania zarządcy drogi.
+4. Audyt bezpieczeństwa ruchu drogowego może przeprowadzać audytor bezpieczeństwa ruchu drogowego będący pracownikiem jednostki wykonującej zadania zarządcy drogi lub audytor bezpieczeństwa ruchu drogowego niepozostający w stosunku pracy z jednostką wykonującą zadania zarządcy drogi.
 
 5. W jednostce wykonującej zadania zarządcy drogi zatrudniającej audytora bezpieczeństwa ruchu drogowego tworzy się wieloosobowe lub jednoosobowe komórki audytu bezpieczeństwa ruchu drogowego.
 
 6. Działalnością wieloosobowej komórki audytu bezpieczeństwa ruchu drogowego kieruje audytor bezpieczeństwa ruchu drogowego, zwany dalej „kierownikiem komórki audytu bezpieczeństwa ruchu drogowego”.
 
-7. Kierownik komórki audytu bezpieczeństwa ruchu drogowego podlega bezpośrednio kierownikowi jednostki, o której mowa w ust. 5, a w Generalnej Dyrekcji Dróg Krajowych Autostrad – Generalnemu Dyrektorowi Dróg Krajowych Autostrad.
+7. Kierownik komórki audytu bezpieczeństwa ruchu drogowego podlega bezpośrednio kierownikowi jednostki, o której mowa w ust. 5, a w Generalnej Dyrekcji Dróg Krajowych i Autostrad – Generalnemu Dyrektorowi Dróg Krajowych i Autostrad.
 
-8. Kierownik jednostki, o której mowa w ust. 5, a w Generalnej Dyrekcji Dróg Krajowych Autostrad – Generalny Dyrektor Dróg Krajowych Autostrad, zapewnia warunki niezbędne do niezależnego, obiektywnego efektywnego prowadzenia audytu bezpiejednoosobowej komórce audytu bezpieczeństwa ruchu drogowego stosuje się przepisy ustawy dotyczące kierownika komórki audytu bezpieczeństwa ruchu drogowego.
+8. Kierownik jednostki, o której mowa w ust. 5, a w Generalnej Dyrekcji Dróg Krajowych i Autostrad – Generalny Dyrektor Dróg Krajowych i Autostrad, zapewnia warunki niezbędne do niezależnego, obiektywnego i efektywnego prowadzenia audytu bezpieczeństwa ruchu drogowego, w tym zapewnia organizacyjną odrębność komórki audytu bezpieczeństwa ruchu drogowego.
 
-**Art. 24l.**
+9. Do audytora bezpieczeństwa ruchu drogowego zatrudnionego w jednoosobowej komórce audytu bezpieczeństwa ruchu drogowego stosuje się przepisy ustawy dotyczące kierownika komórki audytu bezpieczeństwa ruchu drogowego.
 
 1. Audyt bezpieczeństwa ruchu drogowego wymaga przedstawienia jego wyniku, na który składają się sprawozdanie oraz sformułowane na jego podstawie zalecenia dla zarządcy drogi.
 
-2. Zarządca drogi uwzględnia wynik audytu bezpieczeństwa ruchu drogowego na dalszych etapach przygotowania, budowy użytkowania drogi.
+2. Zarządca drogi uwzględnia wynik audytu bezpieczeństwa ruchu drogowego na dalszych etapach przygotowania, budowy i użytkowania drogi.
 
 3. W uzasadnionych przypadkach zarządca drogi może nie uwzględnić wyniku audytu bezpieczeństwa ruchu drogowego.
 
 4. W przypadku, o którym mowa w ust. 3, zarządca drogi jest obowiązany do opracowania uzasadnienia stanowiącego załącznik do wyniku audytu bezpieczeństwa ruchu drogowego.
-
-**Art. 24m.**
 
 1. Klasyfikację odcinków dróg ze względu na koncentrację wypadków śmiertelnych oraz klasyfikację odcinków dróg ze względu na bezpieczeństwo sieci drogowej przeprowadza się co najmniej raz na trzy lata.
 
@@ -105,57 +209,94 @@ source: "isap-pdf"
 
 3. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, metodę dokonywania klasyfikacji, o których mowa w ust. 1, mając na uwadze liczbę wypadków drogowych, natężenie ruchu, rodzaj ruchu oraz poprawę poziomu bezpieczeństwa użytkowników dróg, a także zmniejszenie kosztów wypadków drogowych.
 
-4. Wyniki klasyfikacji, o których mowa w ust. 1, podlegają ocenie wykonywanej przez zespół ekspertów powoływany przez zarządcę drogi. W skład zespołu ekspertów wchodzi co najmniej jedna osoba posiadająca kwalifikacje doświadczenie wymienione w art. 24n ust. 2 pkt 4 5.
+4. Wyniki klasyfikacji, o których mowa w ust. 1, podlegają ocenie wykonywanej przez zespół ekspertów powoływany przez zarządcę drogi. W skład zespołu ekspertów wchodzi co najmniej jedna osoba posiadająca kwalifikacje i doświadczenie wymienione w art. 24n ust. 2 pkt 4 i 5.
 
-5. Zespół ekspertów, po przeprowadzeniu wizytacji w terenie, przedstawia zarządcy drogi propozycję działań, które należy podjąć w celu poprawy bezpieczeństwa ruchu drogowego, mając na uwadze propozycje działań przedstawione po przeprowadzeniu ostatniej klasyfikacji, o której mowa w ust. 1, oraz sprawozdań, o których mowa w art. 130b ust. 1 ustawy dnia 20 czerwca 1997 – Prawo o ruchu drogowym.
+5. Zespół ekspertów, po przeprowadzeniu wizytacji w terenie, przedstawia zarządcy drogi propozycję działań, które należy podjąć w celu poprawy bezpieczeństwa ruchu drogowego, mając na uwadze propozycje działań przedstawione po przeprowadzeniu ostatniej klasyfikacji, o której mowa w ust. 1, oraz sprawozdań, o których mowa w art. 130b ust. 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
 
-6. Zarządca drogi przeprowadza analizę kosztów korzyści proponowanych działań, o których mowa w ust. 5. Działania wybrane przez zarządcę drogi są realizowane w ramach dostępnych środków finansowych.
+6. Zarządca drogi przeprowadza analizę kosztów i korzyści proponowanych działań, o których mowa w ust. 5. Działania wybrane przez zarządcę drogi są realizowane w ramach dostępnych środków finansowych.
 
-7. Zarządca drogi jest obowiązany do poinformowania uczestników ruchu drogowego o wynikach klasyfikacji, o której mowa w ust.
+7. Zarządca drogi jest obowiązany do poinformowania uczestników ruchu drogowego o wynikach klasyfikacji, o której mowa w ust. 2, na swojej stronie podmiotowej Biuletynu Informacji Publicznej.
 
-**Art. 24n.**
+#### Rozdział 2c Audytorzy bezpieczeństwa ruchu drogowego
 
-1. Audytorem bezpieczeństwa ruchu drogowego jest osoba, która posiada certyfikat audytora bezpieczeństwa ruchu drogowego.
+**Art. 2.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2010 r. Nr 243, poz. 1623, z późn. zm.) wprowadza się następujące zmiany:
 
-2. Certyfikat audytora bezpieczeństwa ruchu drogowego może uzyskać osoba, która:
+- **1)** w art. 30 po ust. 4 dodaje się ust. 4a w brzmieniu: „
 
-- **1)** posiada pełną zdolność do czynności prawnych;
-- **2)** korzysta pełni praw publicznych;
-- **3)** nie została skazana prawomocnym wyrokiem sądu za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
-- **4)** posiada wyższe wykształcenie techniczne w zakresie budownictwa drogowego, inżynierii ruchu drogowego lub transportu;
-- **5)** posiada co najmniej 5-letnią praktykę w zakresie projektowania dróg, inżynierii ruchu drogowego, zarządzania drogami, zarządzania ruchem drogowym lub opiniowania projektów drogowych pod względem bezpieczeństwa ruchu drogowego;
-- **6)** posiada zaświadczenie o ukończeniu szkolenia zdaniu egzaminu na audytora bezpieczeństwa ruchu drogowego.
+4a. W zgłoszeniu przebudowy drogi w transeuropejskiej sieci drogowej należy ponadto przedstawić:
 
-3. Audytor bezpieczeństwa ruchu drogowego ma obowiązek stałego podnoszenia kwalifikacji zawodowych na szkoleniach okresowych co najmniej raz na trzy lata.
+- **1)** wynik audytu bezpieczeństwa ruchu drogowego, o którym mowa w art. 24l ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2007 r. Nr 19, poz. 115, z późn. zm.);
+- **2)** uzasadnienie zarządcy drogi, o którym mowa w art. 24l ust. 4 ustawy z dnia 21 marca 1985 r. o drogach publicznych. ” ;
+- **2)** w art. 33 w ust. 2 po pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
+- **7)** w przypadku drogi w transeuropejskiej sieci drogowej: wynik audytu bezpieczeństwa ruchu drogowego, o którym mowa w art. 24l ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych, uzasadnienie zarządcy drogi, o którym mowa w art. 24l ust. 4 ustawy z dnia 21 marca 1985 r. o drogach publicznych. ” ;
+    - **a)**
+    - **b)**
 
-4. Szkolenia zakończone egzaminem, o których mowa w ust. 2 pkt 6, oraz szkolenia okresowe, o których mowa w ust. 3, przeprowadzają uczelnie, o których mowa w art. 2 ust. 1 pkt 2 3 ustawy dnia 27 lipca 2005 – Prawo o szkolnictwie wyższym (Dz. U. 164, 1365, późn. zm. ) oraz instytuty badawcze posiadające kategorię A, działające w zakresie budownictwa drogowego na podstawie ustawy dnia 30 kwietnia 2010 o instytutach badawczych (Dz. U. 96, 618 oraz 2011 112, 654 185, 1092).
+- **3)** w art. 57 w ust. 1 po pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „
+- **8)** w przypadku drogi w transeuropejskiej sieci drogowej: wynik audytu bezpieczeństwa ruchu drogowego, o którym mowa w art. 24l ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych, uzasadnienie zarządcy drogi, o którym mowa w art. 24l ust. 4 ustawy z dnia 21 marca 1985 r. o drogach publicznych. ” .
+    - **a)**
+    - **b)**
 
-5. Uczelnie, o których mowa w art. 2 ust. 1 pkt 2 3 ustawy dnia 27 lipca 2005 – Prawo o szkolnictwie wyższym, powinny posiadać uprawnienia do prowadzenia studiów drugiego stopnia zakresu budownictwa drogowego.
+**Art. 3.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.) wprowadza się następujące zmiany:
 
-6. Certyfikat audytora bezpieczeństwa ruchu drogowego wydaje, na wniosek kandydata na audytora bezpieczeństwa ruchu drogowego, na okres trzech lat minister właściwy do spraw transportu, po dostarczeniu przez tego kandydata oświadczenia o spełnieniu wymogów, o których mowa w ust. 2 pkt 1 2, oraz dokumentów potwierdzających spełnienie wymogów, o których mowa w ust. 2 pkt 3–6.
+- **1)** po art. 130a dodaje się art. 130b w brzmieniu: „
 
-7. Certyfikat audytora bezpieczeństwa ruchu drogowego jest przedłużany na kolejne trzy lata na wniosek audytora bezpieczeństwa szkolenia okresowego, o którym mowa w ust. 3, oświadczenia o spełnieniu wymogów, o których mowa w ust. 2 pkt 1 2, oraz dokumentu potwierdzającego spełnienie wymogu, o którym mowa w ust. 2 pkt 3.
+**Art. 130b.**
 
-8. Minister właściwy do spraw transportu odmawia w drodze decyzji administracyjnej:
+1. Z każdego wypadku drogowego, w którym jest zabity, mającego miejsce w transeuropejskiej sieci drogowej, o której mowa w art. 4 pkt 26 ustawy z dnia 21 marca 1985 r. o drogach publicznych, Policja jest obowiązana sporządzić sprawozdanie.
 
-- **1)** wydania certyfikatu audytora bezpieczeństwa ruchu drogowego w przypadku niespełnienia któregokolwiek wymogów, o których mowa w ust. 2;
-- **2)** przedłużenia certyfikatu audytora bezpieczeństwa ruchu drogowego w przypadku niespełnienia któregokolwiek wymogów, o których mowa w ust. 7.
+2. Sprawozdanie, o którym mowa w ust. 1, zawiera:
 
-9. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
+- **1)** możliwie dokładne określenie miejsca wypadku;
+- **2)** zdjęcia lub schemat miejsca wypadku;
+- **3)** datę i godzinę wypadku;
+- **4)** szczegółowy opis miejsca i okoliczności wypadku: rodzaj terenu, rodzaj drogi, rodzaj skrzyżowania, w tym informacje dotyczące sygnalizacji, liczby pasów ruchu, oznakowania poziomego drogi, oświetlenia, warunków pogodowych, ograniczenia prędkości, przeszkód na poboczu drogi;
+- **5)** informację o skutkach wypadku: liczbę zabitych i rannych w wypadku;
+- **6)** charakterystykę uczestników wypadku: wiek, płeć, obywatelstwo, poziom alkoholu lub środka odurzającego w organizmie, stosowanie lub niestosowanie wyposażenia ochronnego;
+- **7)** dane dotyczące pojazdów uczestniczących w wypadku: rodzaj, wiek, wyposażenie ochronne oraz datę ostatniego badania technicznego;
+- **8)** informacje dotyczące rodzaju i przebiegu wypadku, z uwzględnieniem manewrów pojazdu i kierującego;
+- **9)** o ile jest to możliwe informacje dotyczące czasu przybycia służb ratowniczych oraz przyjęcia zgłoszenia.
 
-- **1)** sposób przeprowadzania zakres programowy szkolenia zakończonego egzaminem, o którym mowa w ust. 2 pkt 6,
-- **2)** sposób przeprowadzania zakres programowy szkolenia okresowego, o którym mowa w ust. 3,
-- **3)** wzór certyfikatu audytora bezpieczeństwa ruchu drogowego – mając na uwadze zapewnienie odpowiedniego poziomu edukacyjnego szkoleń oraz jednolitego wzoru dokumentu.
+3. Sprawozdania, o których mowa w ust. 1, Policja przekazuje do Sekretariatu Krajowej Rady, o którym mowa w art. 140f, w terminie do 31 marca każdego roku, za rok poprzedni. ” ;
 
-**Art. 24o.** Audytor bezpieczeństwa ruchu drogowego traci certyfikat audytora bezpieczeństwa ruchu drogowego w przypadku:
+- **2)** w art. 140c: w ust. 2 po pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „
+    - **a)**
 
-**Art. 2.** W ustawie dnia 7 lipca 1994 – Prawo budowlane (Dz. U. 2010 243, 1623, późn. zm. ) wprowadza się następujące zmiany:
+- **10)** ustalanie, co najmniej raz na trzy lata, średniego kosztu społeczno-ekonomicznego wypadku drogowego, w którym jest zabity, oraz średniego kosztu społeczno-ekonomicznego wypadku drogowego, w którym osoba doznała obrażeń ciała w rozumieniu art. 156 § 1 albo art. 157 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.), powstałego w transeuropejskiej sieci drogowej. ” , dodaje się ust. 3 w brzmieniu: „
+    - **b)**
 
-**Art. 3.** W ustawie dnia 20 czerwca 1997 – Prawo o ruchu drogowym (Dz. U. 2005 108, 908, późn. zm. ) wprowadza się następujące zmiany:
+3. Przy ustalaniu średniego kosztu społeczno-ekonomicznego wypadków drogowych, o których mowa w ust. 2 pkt 10, uwzględnia się:
 
-**Art. 5.** W ustawie dnia 12 stycznia 2007 o drogowych spółkach specjalnego przeznaczenia (Dz. U. 23, 136, 2008 218, 1391 oraz 2009 86,
+- **1)** utratę produktywności zabitych i rannych w wypadkach drogowych;
+- **2)** koszty leczenia i rehabilitacji poszkodowanych w wypadkach drogowych;
+- **3)** koszty administracyjne wypadków drogowych;
+- **4)** straty materialne powstałe w wyniku wypadków drogowych. ” ;
+- **3)** w art. 140e w ust. 2 pkt 2 otrzymuje brzmienie: „
+- **2)** informacje dotyczące stanu bezpieczeństwa ruchu drogowego, w szczególności informacje umożliwiające ustalanie średniego kosztu społeczno-ekonomicznego wypadków, o których mowa w art. 140c ust. 2 pkt 10. ” .
 
-**Art. 6.** W ustawie dnia 3 października 2008 o udostępnianiu informacji o środowisku jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. 199, 1227, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. z 2008 r. Nr 193, poz. 1194 i Nr 199, poz. 1227 oraz z 2009 r. Nr 72, poz. 620) w art. 11d w ust. 1 po pkt 7 dodaje się pkt 7a w brzmieniu: „
+
+- **7a)** w przypadku transeuropejskiej sieci drogowej: wynik audytu bezpieczeństwa ruchu drogowego, o którym mowa w art. 24l ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych, uzasadnienie zarządcy drogi, o którym mowa w art. 24l ust. 4 ustawy z dnia 21 marca 1985 r. o drogach publicznych; ” .
+    - **a)**
+    - **b)**
+
+**Art. 5.** W ustawie z dnia 12 stycznia 2007 r. o drogowych spółkach specjalnego przeznaczenia (Dz. U. Nr 23, poz. 136, z 2008 r. Nr 218, poz. 1391 oraz z 2009 r. Nr 86, poz. 720) w art. 4 w ust. 2 pkt 2 otrzymuje brzmienie: „
+
+- **2)** wykonywanie obowiązków zarządcy drogi w zakresie ustalonym w art. 20 pkt 2–7 i 9–20 ustawy z dnia 21 marca 1985 r. o drogach publicznych; ” .
+
+**Art. 6.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. Nr 199, poz. 1227, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 3 w ust. 1 w pkt 5: lit. d otrzymuje brzmienie: „ ewentualnych wariantach przedsięwzięcia, przy czym w przypadku drogi w transeuropejskiej sieci drogowej każdy z analizowanych wariantów drogi musi być dopuszczalny pod względem bezpieczeństwa ruchu drogowego, ” , po lit. i średnik zastępuje się przecinkiem i dodaje się lit. j w brzmieniu: „ wpływie planowanej drogi na bezpieczeństwo ruchu drogowego w przypadku drogi w transeuropejskiej sieci drogowej; ” ;
+    - **a)**
+    - **d)**
+    - **b)**
+    - **j)**
+
+- **2)** w art. 66: w ust. 1: – pkt 6 otrzymuje brzmienie: „ 6) określenie przewidywanego oddziaływania na środowisko analizowanych wariantów, w tym również w przypadku wystąpienia poważnej awarii przemysłowej, a także możliwego transgranicznego oddziaływania na środowisko, a w przypadku drogi w transeuropejskiej sieci drogowej określenie także wpływu planowanej drogi na bezpieczeństwo ruchu drogowego; ” , – w pkt 7 po lit. e średnik zastępuje się przecinkiem i dodaje się lit. f w brzmieniu: „ f) bezpieczeństwo ruchu drogowego w przypadku drogi w transeuropejskiej sieci drogowej; ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+1a. Każdy z analizowanych wariantów drogi, w przypadku drogi w transeuropejskiej sieci drogowej, musi być dopuszczalny pod względem bezpieczeństwa ruchu drogowego. ” .
 
 **Art. 7.** Osoby posiadające, w dniu wejścia w życie niniejszej ustawy, zaświadczenie o ukończeniu kursu audytu bezpieczeństwa ruchu drogowego uznaje się za audytorów bezpieczeństwa ruchu drogowego w rozumieniu rozdziału 2c ustawy zmienianej w art. 1, pod warunkiem uzyskania certyfikatu, o którym mowa w art. 24n ust. 6 ustawy zmienianej w art. 1, w terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
@@ -170,32 +311,35 @@ source: "isap-pdf"
 
 2. Przepisu art. 24j ust. 4 ustawy zmienianej w art. 1 nie stosuje się w przypadku dróg, które w dniu wejścia w życie ustawy znajdują się w użytkowaniu co najmniej sześć miesięcy.
 
-**Art. 9.** Pierwszą klasyfikację odcinków dróg ze względu na koncentrację wypadków śmiertelnych oraz klasyfikację odcinków dróg ze względu na bezpieczeństwo sieci drogowej przeprowadza się w 2013
+**Art. 9.** Pierwszą klasyfikację odcinków dróg ze względu na koncentrację wypadków śmiertelnych oraz klasyfikację odcinków dróg ze względu na bezpieczeństwo sieci drogowej przeprowadza się w 2013 r.
 
 **Art. 10.**
 
-1. W latach 2012 – 2021 maksymalny limit wydatków budżetu państwa będący skutkiem finansowym ustawy wynosi 42 326 094 zł, w tym w:
+1. W latach 2012–2021 maksymalny limit wydatków budżetu państwa będący skutkiem finansowym ustawy wynosi 42 326 094 zł, w tym w:
 
-- **1)** 2012 – 2 882 300 zł;
-- **5)** 2016 – 6 562 168 zł;
-- **6)** 2017 – 3 247 141 zł;
-- **7)** 2018 – 3 325 073 zł;
-- **8)** 2019 – 7 052 955 zł;
-- **9)** 2020 – 3 486 592 zł;
-- **10)** 2021 – 3 570 270 zł.
+- **1)** 2012 r. – 2 882 300 zł;
+- **2)** 2013 r. – 6 093 625 zł;
+- **3)** 2014 r. – 3 015 294 zł;
+- **4)** 2015 r. – 3 090 676 zł;
+- **5)** 2016 r. – 6 562 168 zł;
+- **6)** 2017 r. – 3 247 141 zł;
+- **7)** 2018 r. – 3 325 073 zł;
+- **8)** 2019 r. – 7 052 955 zł;
+- **9)** 2020 r. – 3 486 592 zł;
+- **10)** 2021 r. – 3 570 270 zł.
 
-2. W latach 2012 – 2021 maksymalny limit wydatków budżetów miast na prawach powiatu, których dotyczy ustawa, będący skutkiem finansowym ustawy wynosi 19 391 689 zł, w tym w:
+2. W latach 2012–2021 maksymalny limit wydatków budżetów miast na prawach powiatu, których dotyczy ustawa, będący skutkiem finansowym ustawy wynosi 19 391 689 zł, w tym w:
 
-- **1)** 2012 – 358 750 zł;
-- **2)** 2013 – 5 902 719 zł;
-- **3)** 2014 – 376 912 zł;
-- **4)** 2015 – 386 335 zł;
-- **5)** 2016 – 5 960 590 zł;
-- **6)** 2017 – 0 zł;
-- **7)** 2018 – 0 zł;
-- **8)** 2019 – 6 406 384 zł;
-- **9)** 2020 – 0 zł;
-- **10)** 2021 – 0 zł.
+- **1)** 2012 r. – 358 750 zł;
+- **2)** 2013 r. – 5 902 719 zł;
+- **3)** 2014 r. – 376 912 zł;
+- **4)** 2015 r. – 386 335 zł;
+- **5)** 2016 r. – 5 960 590 zł;
+- **6)** 2017 r. – 0 zł;
+- **7)** 2018 r. – 0 zł;
+- **8)** 2019 r. – 6 406 384 zł;
+- **9)** 2020 r. – 0 zł;
+- **10)** 2021 r. – 0 zł.
 
 3. Minister właściwy do spraw transportu monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, oraz wdraża mechanizmy korygujące, o których mowa w ust. 4.
 
@@ -203,12 +347,15 @@ source: "isap-pdf"
 
 - **1)** dokonywaniu audytu bezpieczeństwa ruchu drogowego dla kilku inwestycji łącznie;
 - **2)** dokonywaniu klasyfikacji odcinków dróg ze względu na koncentrację wypadków śmiertelnych oraz klasyfikacji odcinków dróg ze względu na bezpieczeństwo sieci drogowej przez wielu zarządców dróg łącznie;
-- **3)** racjonalnym rozłożeniu działań w czasie, polegających na przeniesieniu oceny wpływu planowanej drogi na bezpieczeństwo ruchu drogowego oraz audytu bezpieczeństwa ruchu drogowego, o którym mowa w art. 24j ust. 1 pkt 1 2, o ile jest to możliwe, na kolejny rok budżetowy.
+- **3)** racjonalnym rozłożeniu działań w czasie, polegających na przeniesieniu oceny wpływu planowanej drogi na bezpieczeństwo ruchu drogowego oraz audytu bezpieczeństwa ruchu drogowego, o którym mowa w art. 24j ust. 1 pkt 1 i 2, o ile jest to możliwe, na kolejny rok budżetowy.
 
 **Art. 11.**
 
-1. Zadania, o których mowa w art. 20 pkt 20 ustawy zmienianej w art. 1, realizowane przez prezydentów miast na prawach powiatu finansowane są budżetu państwa.
+1. Zadania, o których mowa w art. 20 pkt 20 ustawy zmienianej w art. 1, realizowane przez prezydentów miast na prawach powiatu finansowane są z budżetu państwa.
 
-2. Od roku 2013 w budżecie państwa tworzy się rezerwę celową przeznaczeniem na finansowanie zadań, o których mowa w art. 20 pkt 20 ustawy zmienianej w art. 1, realizowanych przez prezydentów miast na prawach powiatu. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+2. Od roku 2013 w budżecie państwa tworzy się rezerwę celową z przeznaczeniem na finansowanie zadań, o których mowa w art. 20 pkt 20 ustawy zmienianej w art. 1, realizowanych przez prezydentów miast na prawach powiatu.
 
+3. Rezerwą, o której mowa w ust. 2, dysponuje minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw transportu.
+
+**Art. 12.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

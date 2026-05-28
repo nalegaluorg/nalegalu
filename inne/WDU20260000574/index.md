@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o zarządzaniu kryzysowym
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 kwietnia 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 kwietnia 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-04-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000574) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/574/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 kwietnia 2026 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o zarządzaniu kryzysowym
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122), z uwzględnieniem stanu prawnego na dzień 16 kwietnia 2026 r. oraz zmian wprowadzonych:
 1) ustawą z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834);
 2) ustawą z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U. poz. 1222);
@@ -64,6 +64,34 @@ o zarządzaniu kryzysowym
 **Art. 2.** Zarządzanie kryzysowe to działalność organów administracji publicznej będąca elementem kierowania bezpieczeństwem narodowym, która polega na zapobieganiu sytuacjom kryzysowym, przygotowaniu do przejmowania nad nimi kontroli w drodze zaplanowanych działań, reagowaniu w przypadku wystąpienia sytuacji kryzysowych, usuwaniu ich skutków oraz odtwarzaniu zasobów i infrastruktury krytycznej.
 
 **Art. 3.** Ilekroć w ustawie jest mowa o:
+
+- **1)** sytuacji kryzysowej należy przez to rozumieć sytuację wpływającą negatywnie na poziom bezpieczeństwa ludzi, mienia w znacznych rozmiarach lub środowiska, wywołującą znaczne ograniczenia w działaniu właściwych organów administracji publicznej ze względu na nieadekwatność posiadanych sił i środków;
+- **2)** infrastrukturze krytycznej należy przez to rozumieć systemy oraz wchodzące w ich skład powiązane ze sobą funkcjonalnie obiekty, w tym obiekty budowlane, urządzenia, instalacje, usługi kluczowe dla bezpieczeństwa państwa i jego obywateli oraz służące zapewnieniu sprawnego funkcjonowania organów administracji publicznej, a także instytucji i przedsiębiorców. Infrastruktura krytyczna obejmuje systemy:
+    - **a)** zaopatrzenia w energię, surowce energetyczne i paliwa,
+    - **b)** łączności,
+    - **c)** sieci teleinformatycznych,
+    - **d)** finansowe,
+    - **e)** zaopatrzenia w żywność,
+    - **f)** zaopatrzenia w wodę,
+    - **g)** ochrony zdrowia,
+    - **h)** transportowe,
+    - **i)** ratownicze,
+    - **j)** zapewniające ciągłość działania administracji publicznej,
+    - **k)** produkcji, składowania, przechowywania i stosowania substancji chemicznych i promieniotwórczych, w tym rurociągi substancji niebezpiecznych;
+
+- **2a)** europejskiej infrastrukturze krytycznej należy przez to rozumieć systemy oraz wchodzące w ich skład powiązane ze sobą funkcjonalnie obiekty, w tym obiekty budowlane, urządzenia i instalacje kluczowe dla bezpieczeństwa państwa i jego obywateli oraz służące zapewnieniu sprawnego funkcjonowania organów administracji publicznej, a także instytucji i przedsiębiorców, wyznaczone w systemach, o których mowa w pkt 2 lit. a i h, w zakresie energii elektrycznej, ropy naftowej i gazu ziemnego oraz transportu drogowego, kolejowego, lotniczego, wodnego śródlądowego, żeglugi oceanicznej, żeglugi morskiej bliskiego zasięgu i portów, zlokalizowane na terytorium państw członkowskich Unii Europejskiej, których zakłócenie lub zniszczenie miałoby istotny wpływ na co najmniej dwa państwa członkowskie;
+- **3)** ochronie infrastruktury krytycznej należy przez to rozumieć wszelkie działania zmierzające do zapewnienia funkcjonalności, ciągłości działań i integralności infrastruktury krytycznej w celu zapobiegania zagrożeniom, ryzykom lub słabym punktom oraz ograniczenia i neutralizacji ich skutków oraz szybkiego odtworzenia tej infrastruktury na wypadek awarii, ataków oraz innych zdarzeń zakłócających jej prawidłowe funkcjonowanie;
+- **4)** planowaniu cywilnym należy przez to rozumieć:
+    - **a)** całokształt przedsięwzięć organizacyjnych mających na celu przygotowanie administracji publicznej do zarządzania kryzysowego,
+    - **b)** planowanie w zakresie wspierania Sił Zbrojnych Rzeczypospolitej Polskiej w razie ich użycia oraz planowanie wykorzystania Sił Zbrojnych Rzeczypospolitej Polskiej do realizacji zadań z zakresu zarządzania kryzysowego;
+
+- **5)** (uchylony)
+- **6)** powiecie należy przez to rozumieć również miasto na prawach powiatu;
+- **7)** cyklu planowania należy przez to rozumieć okresowe realizowanie etapów: analizowania, programowania, opracowywania planu lub programu, jego wdrażanie, testowanie i uruchamianie;
+- **8)** siatce bezpieczeństwa należy przez to rozumieć zestawienie potencjalnych zagrożeń ze wskazaniem podmiotu wiodącego przy ich usuwaniu oraz podmiotów współpracujących;
+- **9)** mapie zagrożenia należy przez to rozumieć mapę przedstawiającą obszar geograficzny objęty zasięgiem zagrożenia z uwzględnieniem różnych scenariuszy zdarzeń;
+- **10)** mapie ryzyka należy przez to rozumieć mapę lub opis przedstawiający potencjalnie negatywne skutki oddziaływania zagrożenia na ludzi, środowisko, mienie i infrastrukturę;
+- **11)** zdarzeniu o charakterze terrorystycznym należy przez to rozumieć sytuację, o której mowa w art. 2 pkt 7 ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. z 2025 r. poz. 194).
 
 **Art. 4.**
 
@@ -837,6 +865,9 @@ o zarządzaniu kryzysowym
 - **2)** policjanci, funkcjonariusze Straży Granicznej, funkcjonariusze Państwowej Straży Pożarnej i żołnierze współpracują z zarządcą lub dzierżawcą obwodu łowieckiego.
 
 **Art. 25d.** W przypadkach, o których mowa w art. 25a i art. 25b, do obowiązków wojewody należy:
+
+- **1)** zapewnienie amunicji do broni, o której mowa w art. 25c ust. 1;
+- **2)** zwrot kosztów transportu, zakwaterowania i wyżywienia doraźnych zgrupowań zadaniowych; zwrot kosztów zakwaterowania lub wyżywienia nie przysługuje w przypadku zapewnienia w miejscu wykonywania czynności bezpłatnego zakwaterowania lub wyżywienia.
 
 **Art. 26.**
 

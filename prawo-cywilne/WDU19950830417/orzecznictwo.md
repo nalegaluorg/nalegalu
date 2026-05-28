@@ -2,11 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 26 maja 1995 r. o zmianie ustawy - Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw.*
 
-Łącznie: **2** orzeczeń
-
-## art. 12 (1)
-
-- 2009-01-16 | KIO | [KIO/UZO 4/09](https://www.saos.org.pl/judgments/113625) | Wyrok
+Łącznie: **1** orzeczeń
 
 ## art. 49 (1)
 

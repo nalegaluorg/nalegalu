@@ -22,10 +22,21 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-25 |
 | Data wydania | 2015-11-12 |
+| Wejście w życie | 2015-11-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001854) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1854/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2015 r. poz. 128, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 48k ust. 2 otrzymuje brzmienie: „
+
+2. Do oddziałów instytucji kredytowych przepisy art. 1–11, art. 40a ust. 1, art. 49–70, art. 73–78a, art. 80–95, art. 101–112, art. 124, art. 124a, art. 133 ust. 2 pkt 1 i ust. 3, art. 137, art. 138 ust. 1 pkt 1, ust. 2 i ust. 3 pkt 1, 3 i 3a, art. 139 ust. 1 pkt 2 i 3, art. 141 i art. 171 ust. 4–7 stosuje się odpowiednio. ” ;
+
+- **2)** w art. 75 ust. 1 otrzymuje brzmienie: „
+
+1. W przypadku niedotrzymania przez kredytobiorcę warunków udzielenia kredytu albo w razie utraty przez kredytobiorcę zdolności kredytowej bank może, z zastrzeżeniem art. 75c, obniżyć kwotę przyznanego kredytu albo wypowiedzieć umowę kredytu. ” ;
+
+- **3)** po art. 75b dodaje się art. 75c w brzmieniu: „
 
 **Art. 75c.**
 
@@ -49,6 +60,9 @@ source: "eli-html"
 
 **Art. 4.** W ustawie z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2015 r. poz. 1052) wprowadza się następujące zmiany:
 
+- **1)** w art. 42d uchyla się ust. 10;
+- **2)** w art. 43 uchyla się ust. 5.
+
 **Art. 5.** W ustawie z dnia 29 listopada 2000 r. o objęciu poręczeniami Skarbu Państwa spłaty niektórych kredytów mieszkaniowych (Dz. U. Nr 122, poz. 1310, z 2003 r. Nr 139, poz. 1325 oraz z 2009 r. Nr 69, poz. 594) w art. 5 uchyla się ust. 5.
 
 **Art. 6.** W ustawie z dnia 15 kwietnia 2005 r. o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. Nr 78, poz. 684, z późn. zm.) w art. 36 uchyla się ust. 7.
@@ -58,6 +72,11 @@ source: "eli-html"
 **Art. 8.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.) w art. 225 uchyla się ust. 5.
 
 **Art. 9.** W ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2013 r. poz. 1450, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** uchyla się art. 29a;
+- **2)** w art. 36 po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+1a. Do umów pożyczek zawieranych przez kasy stosuje się odpowiednio przepisy art. 75c ust. 1–5 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe. ” .
 
 **Art. 10.** W ustawie z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. poz. 827) w art. 39 w ust. 1 uchyla się pkt 20.
 

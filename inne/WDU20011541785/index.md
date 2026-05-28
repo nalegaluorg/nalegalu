@@ -8,12 +8,10 @@ pos: 1785
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o nadaniu Wyższej Szkole Morskiej w Gdyni nazwy Akademia Morska w Gdyni
-
-*USTAWA z dnia 5 grudnia 2001 r.*
+# Ustawa z dnia 5 grudnia 2001 r. o nadaniu Wyższej Szkole Morskiej w Gdyni nazwy Akademia Morska w Gdyni
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2001-12-05 |
 | Data wydania | 2001-12-29 |
+| Wejście w życie | 2002-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011541785) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1785/text.pdf) |
 

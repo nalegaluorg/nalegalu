@@ -8,10 +8,10 @@ pos: 1179
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ Warszawa, dnia 4 października 2013 Poz. 1179 RozpoRządzenie MinistRa Rolnictwa i Rozwoju z dnia 19 września 2013 r.
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 19 września 2013 r. w sprawie listy gatunków roślin warzywnych i sadowniczych, dla których przeprowadza się badania WGO
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,18 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2013-09-19 |
 | Data wydania | 2013-10-04 |
+| Wejście w życie | 2013-10-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001179) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1179/text.pdf) |
 
-w sprawie listy gatunków roślin warzywnych i sadowniczych, dla których Na podstawie art. 26 ust. 4 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz.
-zarządza się, co następuje: § 1. Ustala się listę gatunków roślin warzywnych i sadowniczych o dużym znaczeniu prowadza się badania wartości gospodarczej odmiany (badania WGO), określoną w § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rolnictwa LISTA GATUNKÓW ROŚLIN WARZYWNYCH I SADOWNICZYCH O DUŻYM DLA KTÓRYCH PRZEPROWADZA SIĘ BADANIA WARTOŚCI GOSPODARCZEJ (BADANIA WGO) i. RoŚlinY waRzYwne lp. nazwa polska 1 Bób Vicia faba L.
-2 Burak ćwikłowy Beta vulgaris 3 cebula Allium cepa 4 dynia zwyczajna Cucurbita pepo 5 Fasola zwykła karłowa Phaseolus vulgaris 6 Groch siewny łuskowy – o nasionach pomarszczonych i Pisum sativum o nasionach gładkich 7 Kalafior Brassica oleracea 8 Kapusta głowiasta biała Brassica oleracea 9 Kapusta głowiasta czerwona Brassica oleracea 10 Marchew jadalna Daucus carota 11 ogórek – sałatkowy i konserwowy Cucumis sativus 12 papryka Capsicum annuum 13 pietruszka Petroselinum 14 pomidor Solanum lycopersicum 15 por Allium porrum 16 Rzodkiewka Raphanus sativus 17 sałata Lactuca sativa 18 seler korzeniowy Apium graveolens ii. RoŚlinY sadownicze lp. nazwa polska 1 czereśnia* Prunus avium 2 Grusza* Pyrus communis 3 jabłoń domowa* Malus domestica 4 Malina właściwa Rubus idaeus 5 porzeczka czarna Ribes nigrum 6 Śliwa domowa* Prunus domestica 7 truskawka Fragaria xananassa 8 wiśnia* Prunus cerasus
+Treść rozporządzenia
+Załącznik – Lista gatunków roślin warzywnych i sadowniczych o dużym znaczeniu gospodarczym, dla których przeprowadza się badania wartości gospodarczej odmiany (badania WGO)
+Treść rozporządzenia
+Na podstawie art. 26 ust. 4 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. poz. 1512 oraz z 2013 r. poz. 865) zarządza się, co następuje:
+§ 1.
+Ustala się listę gatunków roślin warzywnych i sadowniczych o dużym znaczeniu gospodarczym, dla których przeprowadza się badania wartości gospodarczej odmiany (badania WGO), określoną w załączniku do rozporządzenia.
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Załącznik – Lista gatunków roślin warzywnych i sadowniczych o dużym znaczeniu gospodarczym, dla których przeprowadza się badania wartości gospodarczej odmiany (badania WGO)
+I. ROŚLINY WARZYWNE Lp. Nazwa polska Nazwa botaniczna 1 Bób Viciafaba L. (partim) 2 Burak ćwikłowy Beta vulgaris L. 3 Cebula Allium cepa L. – grupa Cepa 4 Dynia zwyczajna Cucurbita pepo L. 5 Fasola zwykła karłowa Phaseolus vulgaris L. 6 Groch siewny łuskowy – o nasionach pomarszczonych i o nasionach gładkich Pisum sativum L. (partim) 7 Kalafior Brassica oleracea L. 8 Kapusta głowiasta biała Brassica oleracea L. 9 Kapusta głowiasta czerwona Brassica oleracea L. 10 Marchew jadalna Daucus carota L. 11 Ogórek – sałatkowy i konserwowy Cucumis sativus L. 12 Papryka Capsicum annuum L. 13 Pietruszka Petroselinum crispum (Mill.) Nyman ex A.W. Hill 14 Pomidor Solarium lycopersicum L. 15 Por Allium porrum L. 16 Rzodkiewka Raphanus sativus L. 17 Sałata Lactuca sativa L. 18 Seler korzeniowy Apium graveolens L. II. ROŚLINY SADOWNICZE Lp. Nazwa polska Nazwa botaniczna 1 Czereśnia* Prunus avium (L.) L. 2 Grusza* Pyrus communis L. 3 Jabłoń domowa* Malus domestica Borkh. 4 Malina właściwa Rubus idaeus L. 5 Porzeczka czarna Ribes nigrum L. 6 Śliwa domowa* Prunus domestica L. 7 Truskawka Fragaria xananassa Duch. 8 Wiśnia* Prunus cerasus L. * Odmiany owocujące.
 

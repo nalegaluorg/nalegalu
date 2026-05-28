@@ -8,12 +8,10 @@ pos: 1933
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw
-
-*USTAWA z dnia 22 lipca 2022 r.*
+# Ustawa z dnia 22 lipca 2022 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,46 +22,134 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2022-07-22 |
 | Data wydania | 2022-09-13 |
+| Wejście w życie | 2022-09-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001933) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1933/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, 1728 i 2448 oraz z 2022 r. poz. 655, 1115 i 1855) wprowadza się następujące zmiany:
 
-**Art. 11b.** Minister Sprawiedliwości określa, w drodze zarządzenia, regulamin organizacyjny IWSW.
+- **1)** w art. 2: w ust. 2 w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „
+    - **a)**
 
-**Art. 11c.**
+- **10)** edukacja prawna młodzieży związana z prewencją przestępstw. ” , ust. 2b otrzymuje brzmienie: „
+    - **b)**
+
+2b. Służba Więzienna, w zakresie określonym w drodze zarządzenia przez Ministra Sprawiedliwości z inicjatywy własnej lub na wniosek Prokuratora Krajowego, zapewnia porządek i bezpieczeństwo w urzędzie obsługującym Ministra Sprawiedliwości i w Prokuraturze Krajowej, zwanych dalej „MSiPK”. ” , po ust. 2b dodaje się ust. 2c i 2d w brzmieniu: „
+
+- **c)**
+
+2c. Służba Więzienna, w zakresie określonym przez Ministra Sprawiedliwości w porozumieniu z ministrem właściwym do spraw oświaty i wychowania, może współuczestniczyć w edukacji młodzieży związanej z kształtowaniem postaw obywatelskich, proobronnych i patriotycznych.
+
+2d. W celu realizacji zadań, o których mowa w ust. 2c, Dyrektor Generalny Służby Więziennej, zwany dalej „Dyrektorem Generalnym”, określi, w drodze zarządzenia, sposób realizacji szkolenia strzeleckiego młodzieży w jednostkach organizacyjnych Służby Więziennej, zwanych dalej „jednostkami organizacyjnymi”. Realizacja szkolenia strzeleckiego w zakresie potrzeb edukacyjnych młodzieży odbywa się z zachowaniem jego bezpiecznego przebiegu. ” , uchyla się ust. 3–6;
+
+- **d)**
+- **2)** w art. 7: w pkt 1 skreśla się wyrazy „, zwany dalej „Dyrektorem Generalnym” ”, po pkt 1 dodaje się pkt 1a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **1a)** Szef Inspektoratu Wewnętrznego Służby Więziennej, zwany dalej „Szefem IWSW”; ” ;
+- **3)** w art. 8: w ust. 1: – we wprowadzeniu do wyliczenia skreśla się wyrazy „, zwanymi dalej „jednostkami organizacyjnymi”,”, – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) Inspektorat Wewnętrzny Służby Więziennej, zwany dalej „IWSW”; ” , w ust. 1a po wyrazach „posiadającą osobowość prawną” dodaje się wyrazy „oraz realizującą zadania na rzecz wymiaru sprawiedliwości i administracji publicznej”, po ust. 1a dodaje się ust. 1b i 1c w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+1b. IWSW jest jednostką organizacyjną nadzorowaną przez Ministra Sprawiedliwości.
+
+1c. W ramach jednostek organizacyjnych, o których mowa w ust. 1 pkt 2, mogą być tworzone Grupy Interwencyjne Służby Więziennej, zwane dalej „GISW”, odpowiedzialne za prowadzenie działań:
+
+- **1)** w zakresie zapobiegania zagrożeniom mogącym wystąpić w Służbie Więziennej lub likwidacji tych zagrożeń;
+- **2)** wymagających użycia specjalistycznych sił i środków oraz specjalistycznej taktyki działania. ” , ust. 3 otrzymuje brzmienie: „
+    - **d)**
+
+3. W jednostkach organizacyjnych mogą być tworzone służby, działy, oddziały, grupy, zespoły i stanowiska prowadzące działalność, w szczególności w zakresie oddziaływania penitencjarnego, specjalistycznego oddziaływania terapeutycznego, nauczania i szkolenia, działalności duszpasterskiej, kwatermistrzowskiej, zatrudnienia, czynności administracyjnych związanych z wykonywaniem kary pozbawienia wolności i tymczasowego aresztowania, ochrony, spraw obronnych, zwalczania czynów mogących zagrozić porządkowi i bezpieczeństwu, zapewnienia stosownych warunków bytowych i pomocy socjalnej, opieki zdrowotnej i sanitarnej, a także składnice mundurowe i magazynowe. ” ;
+
+- **4)** w art. 10 ust. 1 i 2 otrzymują brzmienie: „
+
+1. Centralnym Zarządem Służby Więziennej oraz jednostkami organizacyjnymi, o których mowa w art. 8 ust. 1 pkt 1, 2, 3 i 4, kieruje Dyrektor Generalny podległy Ministrowi Sprawiedliwości.
+
+2. Dyrektor Generalny jest przełożonym funkcjonariuszy pełniących służbę w jednostkach organizacyjnych, o których mowa w art. 8 ust. 1 pkt 1, 2, 3 i 4. ” ;
+
+- **5)** w art. 11: w ust. 1: – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) ustalanie organizacji służby dyżurnej w jednostkach organizacyjnych, w tym sposobu i trybu informowania o zdarzeniach, które wystąpiły w Służbie Więziennej, oraz ustalanie sposobu i trybu przeprowadzania czynności sprawdzających dotyczących zdarzeń, które wystąpiły w Służbie Więziennej, oraz sposobu ich dokumentowania; ” , – pkt 3 otrzymuje brzmienie: „ 3) ustalanie zasad technicznego zabezpieczenia ochronnego i bezpieczeństwa w jednostkach organizacyjnych; ” , – po pkt 3a dodaje się pkt 3b w brzmieniu: „ 3b) ustalanie zasad gospodarowania uzbrojeniem i środkami ochrony przez funkcjonariuszy; ” , – po pkt 4 dodaje się pkt 4a w brzmieniu: „ 4a) ustalanie wzorów druków ochronnych i znaków umownych; ” , – pkt 6 otrzymuje brzmienie: „ 6) nadzorowanie działalności okręgowych inspektoratów Służby Więziennej, Centralnego Ośrodka Szkolenia Służby Więziennej, ośrodków szkolenia Służby Więziennej i ośrodków doskonalenia kadr Służby Więziennej bezpośrednio mu podległych oraz sprawowanie nadzoru nad organizacją i realizowaniem zadań przez jednostki organizacyjne, o których mowa w art. 8 ust. 1 pkt 1, 2, 3 i 4; ” , – po pkt 6 dodaje się pkt 6a w brzmieniu: „ 6a) ustalanie zasad organizacji i szczegółowego zakresu działania GISW; ” , – pkt 8 otrzymuje brzmienie: „ 8) ustalanie liczby etatów i stanowisk w Centralnym Zarządzie Służby Więziennej, liczby etatów w okręgowych inspektoratach Służby Więziennej oraz łącznej liczby etatów w podległych jednostkach organizacyjnych, o których mowa w art. 8 ust. 1 pkt 1, 2, 3 i 4; ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+1a. Dyrektor Generalny może przez odpowiednie służby w jednostkach organizacyjnych, o których mowa w art. 8 ust. 1 pkt 1, 2, 3 i 4, podejmować działania mające na celu koordynowanie czynności związanych z zapobieganiem zjawiskom przestępczym i kryminogennym w środowisku funkcjonariuszy lub pracowników oraz przygotowywanie pod względem merytorycznym przedsięwzięć szkoleniowych i materiałów edukacyjnych. ” ;
+
+- **6)** po art. 11 dodaje się art. 11a – 11c w brzmieniu: „
+
+**Art. 11a.**
+
+1. IWSW jest jednostką organizacyjną realizującą na obszarze całego kraju zadania, o których mowa w art. 23b.
+
+2. IWSW kieruje Szef IWSW podległy Ministrowi Sprawiedliwości.
+
+3. Szefowi IWSW przysługuje etat zastępcy Dyrektora Generalnego.
+
+4. Szef IWSW ustala liczbę etatów i stanowisk w IWSW, w tym w wydziałach zamiejscowych.
+
+5. Realizację czynności wspomagających IWSW w zakresie organizacyjnym, kadrowym, logistycznym, technicznym i finansowym zapewnia Centralny Zarząd Służby Więziennej, a w wydziałach zamiejscowych IWSW – okręgowy inspektorat Służby Więziennej.
+
+6. Siedzibą Szefa IWSW jest miasto stołeczne Warszawa.
+
+7. W celu realizacji zadań, o których mowa w art. 23b, Szef IWSW współdziała z innymi jednostkami organizacyjnymi oraz właściwymi organami i instytucjami.
+
+8. Szef IWSW jest obowiązany niezwłocznie przedstawiać Ministrowi Sprawiedliwości informacje i materiały mogące mieć istotne znaczenie dla sprawowania nadzoru nad Służbą Więzienną.
+
+9. Minister Sprawiedliwości może w każdym czasie żądać informacji i materiałów dotyczących zadań realizowanych przez Szefa IWSW.
+
+10. Minister Sprawiedliwości może polecić Szefowi IWSW objęcie rozpoznaniem, o którym mowa w art. 23b ust. 1, określonych obszarów działań funkcjonariuszy.
+
+11. Szef IWSW przedstawia corocznie do dnia 31 stycznia Ministrowi Sprawiedliwości informację o działalności IWSW.
+
+12. Szef IWSW określa, w drodze zarządzenia, z zachowaniem przepisów o ochronie informacji niejawnych, formy i metody podejmowanych czynności przez IWSW w zakresie nieobjętym innymi przepisami prawa. Minister Sprawiedliwości określa, w drodze zarządzenia, regulamin organizacyjny IWSW.
 
 1. IWSW podlegają wydziały zamiejscowe IWSW.
 
-2. Wydziałem zamiejscowym IWSW kieruje naczelnik wydziału zamiejscowego IWSW podległy Szefowi IWSW.”;
+2. Wydziałem zamiejscowym IWSW kieruje naczelnik wydziału zamiejscowego IWSW podległy Szefowi IWSW. ” ;
 
-- **7)** w art. 12 w ust. 2 po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) organizacja podległej GISW i nadzór nad jej funkcjonowaniem;”;
-- **8)** w art. 13a w ust. 2 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) koordynowanie prowadzonych badań naukowych i decydowanie o ich kierunku oraz gromadzenie dorobku badawczego uzyskanego w toku badań realizowanych w jednostkach organizacyjnych i na ich rzecz.”;
-- **9)** art. 15 otrzymuje brzmienie: „Art. 15. Ustanawia się dzień:
+- **7)** w art. 12 w ust. 2 po pkt 4 dodaje się pkt 4a w brzmieniu: „
+- **4a)** organizacja podległej GISW i nadzór nad jej funkcjonowaniem; ” ;
+- **8)** w art. 13a w ust. 2 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
+- **7)** koordynowanie prowadzonych badań naukowych i decydowanie o ich kierunku oraz gromadzenie dorobku badawczego uzyskanego w toku badań realizowanych w jednostkach organizacyjnych i na ich rzecz. ” ;
+- **9)** art. 15 otrzymuje brzmienie: „
+
+**Art. 15.** Ustanawia się dzień:
+
 - **1)** 8 lutego Dniem Tradycji Służby Więziennej;
-- **2)** 29 czerwca Świętem Służby Więziennej.”;
-- **10)** w art. 16:
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Sztandar jednostkom organizacyjnym, o których mowa w art. 8 ust. 1 pkt 1, 2, 3 i 4, nadaje Minister Sprawiedliwości na zaopiniowany przez Dyrektora Generalnego wniosek kierownika danej jednostki organizacyjnej.”,
-    - **b)** po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Sztandar IWSW nadaje Minister Sprawiedliwości na wniosek Szefa IWSW.
+- **2)** 29 czerwca Świętem Służby Więziennej. ” ;
+- **10)** w art. 16: ust. 2 otrzymuje brzmienie: „
+    - **a)**
 
-2b. Sztandar Uczelni nadaje Minister Sprawiedliwości na wniosek Rektora.”;
+2. Sztandar jednostkom organizacyjnym, o których mowa w art. 8 ust. 1 pkt 1, 2, 3 i 4, nadaje Minister Sprawiedliwości na zaopiniowany przez Dyrektora Generalnego wniosek kierownika danej jednostki organizacyjnej. ” , po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „
 
-- **11)** w art. 18:
-    - **a)** w ust. 1: – po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) legitymowania osób w związku z realizacją czynności, o których mowa w pkt 4, 5, 7 i 7a;”, – pkt 3 otrzymuje brzmienie: „3) żądania od osób wymienionych w pkt 1 i 2 przekazania do depozytu przedmiotów niedozwolonych, o których mowa w art. 242 § 16 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, zwanych dalej „przedmiotami niedozwolonymi”, przeprowadzania kontroli pobieżnej, sprawdzania pojazdów wjeżdżających oraz wyjeżdżających, a także ładunków tych pojazdów, również za pomocą środków technicznych przeznaczonych do wykrywania przedmiotów niedozwolonych lub substancji psychoaktywnych, o których mowa w art. 242 § 12a ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, zwanych dalej „substancjami psychoaktywnymi”, lub z wykorzystaniem psa służbowego wytresowanego do wyszukiwania przedmiotów niedozwolonych lub substancji psychoaktywnych, jak również, w uzasadnionych przypadkach, przeprowadzania kontroli osobistej tych osób;”, – pkt 5 otrzymuje brzmienie: „5) zatrzymania, na terenie jednostki organizacyjnej lub na terenie przyległym do tej jednostki, przez który rozumie się teren pozostający w polu widzenia funkcjonariusza i jego bezpośrednie sąsiedztwo, w celu niezwłocznego przekazania Policji, osób, co do których istnieje uzasadnione podejrzenie popełnienia czynu zabronionego pod groźbą kary;”, – w pkt 7 lit. c otrzymuje brzmienie: „c) na podstawie zezwolenia właściwego organu opuściły areszt śledczy albo zakład karny i nie powróciły do niego w wyznaczonym terminie, korzystając z zezwolenia na czasowe opuszczenie aresztu śledczego lub zakładu karnego bez konwoju funkcjonariusza lub korzystając z przerwy w odbywaniu kary pozbawienia wolności;”, – po pkt 7 dodaje się pkt 7a w brzmieniu: „7a) podjęcia pościgu, jeżeli zbieg znajduje się w polu widzenia lub znany jest kierunek jego ucieczki lub po ustaleniu czasu i kierunku ucieczki zorganizować pościg;”, – pkt 8 otrzymuje brzmienie: „8) zwracania się w nagłych przypadkach do organów ochrony porządku publicznego i bezpieczeństwa państwa lub do każdej osoby o udzielenie doraźnej pomocy w ramach obowiązujących przepisów prawa.”,
-    - **b)** w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Z obowiązków wynikających z realizacji praw funkcjonariuszy, o których mowa w ust. 1 pkt 3, w zakresie poddania się kontroli pobieżnej i kontroli osobistej, są wyłączeni:”,
-    - **c)** w ust. 3 pkt 2 otrzymuje brzmienie: „2) zwolnić osobę ubiegającą się o wstęp na teren jednostki organizacyjnej z obowiązku przekazywania do depozytu przedmiotów niedozwolonych.”,
-    - **d)** ust. 3a i 3b otrzymują brzmienie: „3a. Kontrola osobista, o której mowa w ust. 1 pkt 3, polega na sprawdzeniu:
+- **b)**
+
+2a. Sztandar IWSW nadaje Minister Sprawiedliwości na wniosek Szefa IWSW.
+
+2b. Sztandar Uczelni nadaje Minister Sprawiedliwości na wniosek Rektora. ” ;
+
+- **11)** w art. 18: w ust. 1: – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) legitymowania osób w związku z realizacją czynności, o których mowa w pkt 4, 5, 7 i 7a; ” , – pkt 3 otrzymuje brzmienie: „ 3) żądania od osób wymienionych w pkt 1 i 2 przekazania do depozytu przedmiotów niedozwolonych, o których mowa w art. 242 § 16 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, zwanych dalej „przedmiotami niedozwolonymi”, przeprowadzania kontroli pobieżnej, sprawdzania pojazdów wjeżdżających oraz wyjeżdżających, a także ładunków tych pojazdów, również za pomocą środków technicznych przeznaczonych do wykrywania przedmiotów niedozwolonych lub substancji psychoaktywnych, o których mowa w art. 242 § 12a ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, zwanych dalej „substancjami psychoaktywnymi”, lub z wykorzystaniem psa służbowego wytresowanego do wyszukiwania przedmiotów niedozwolonych lub substancji psychoaktywnych, jak również, w uzasadnionych przypadkach, przeprowadzania kontroli osobistej tych osób; ” , – pkt 5 otrzymuje brzmienie: „ 5) zatrzymania, na terenie jednostki organizacyjnej lub na terenie przyległym do tej jednostki, przez który rozumie się teren pozostający w polu widzenia funkcjonariusza i jego bezpośrednie sąsiedztwo, w celu niezwłocznego przekazania Policji, osób, co do których istnieje uzasadnione podejrzenie popełnienia czynu zabronionego pod groźbą kary; ” , – w pkt 7 lit. c otrzymuje brzmienie: „ c) na podstawie zezwolenia właściwego organu opuściły areszt śledczy albo zakład karny i nie powróciły do niego w wyznaczonym terminie, korzystając z zezwolenia na czasowe opuszczenie aresztu śledczego lub zakładu karnego bez konwoju funkcjonariusza lub korzystając z przerwy w odbywaniu kary pozbawienia wolności; ” , – po pkt 7 dodaje się pkt 7a w brzmieniu: „ 7a) podjęcia pościgu, jeżeli zbieg znajduje się w polu widzenia lub znany jest kierunek jego ucieczki lub po ustaleniu czasu i kierunku ucieczki zorganizować pościg; ” , – pkt 8 otrzymuje brzmienie: „ 8) zwracania się w nagłych przypadkach do organów ochrony porządku publicznego i bezpieczeństwa państwa lub do każdej osoby o udzielenie doraźnej pomocy w ramach obowiązujących przepisów prawa. ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Z obowiązków wynikających z realizacji praw funkcjonariuszy, o których mowa w ust. 1 pkt 3, w zakresie poddania się kontroli pobieżnej i kontroli osobistej, są wyłączeni: ” , w ust. 3 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** zwolnić osobę ubiegającą się o wstęp na teren jednostki organizacyjnej z obowiązku przekazywania do depozytu przedmiotów niedozwolonych. ” , ust. 3a i 3b otrzymują brzmienie: „
+    - **d)**
+
+3a. Kontrola osobista, o której mowa w ust. 1 pkt 3, polega na sprawdzeniu:
 
 - **1)** osoby kontrolowanej, jej odzieży, obuwia oraz przedmiotów, które znajdują się na jej ciele, bez odsłaniania przykrytej odzieżą powierzchni ciała oraz
 - **2)** osoby kontrolowanej, jej odzieży, obuwia oraz przedmiotów, które znajdują się na jej ciele, z odsłonięciem przykrytych odzieżą powierzchni ciała w zakresie niezbędnym do odebrania przedmiotu niedozwolonego lub substancji psychoaktywnej, oraz
 - **3)** jamy ustnej, nosa, uszu i włosów, oraz
 - **4)** miejsc trudno dostępnych osoby kontrolowanej lub miejsc intymnych osoby kontrolowanej – w szczególnie uzasadnionych przypadkach.
 
-3b. Kontrolę osobistą, o której mowa w ust. 1 pkt 3, przeprowadza co najmniej dwóch funkcjonariuszy tej samej płci co osoba kontrolowana, podczas nieobecności osób postronnych i osób odmiennej płci oraz w miejscu niemonitorowanym, niedostępnym w czasie przeprowadzania kontroli dla osób postronnych. W kontroli osobistej może uczestniczyć osoba wykonująca zawód medyczny.”, 3bb. Kontrolę, o której mowa w ust. 3a pkt 1–3, oraz kontrolę miejsc trudno dostępnych przeprowadza się wzrokowo i manualnie lub za pomocą środków technicznych przeznaczonych do wykrywania przedmiotów niedozwolonych lub substancji psychoaktywnych, sprawdzenia biochemicznego lub z wykorzystaniem psa służbowego wytresowanego do wyszukiwania przedmiotów niedozwolonych lub substancji psychoaktywnych, a kontrolę miejsc intymnych przeprowadza się przez oględziny ciała.”, Kontrolę pobieżną przeprowadza się wzrokowo i manualnie lub za pomocą środków technicznych przeznaczonych do wykrywania przedmiotów niedozwolonych lub substancji psychoaktywnych, sprawdzenia biochemicznego lub z wykorzystaniem psa służbowego wytresowanego do wyszukiwania przedmiotów niedozwolonych lub substancji psychoaktywnych. Wzrokowego i manualnego sprawdzenia dokonuje funkcjonariusz tej samej płci co osoba kontrolowana.
+3b. Kontrolę osobistą, o której mowa w ust. 1 pkt 3, przeprowadza co najmniej dwóch funkcjonariuszy tej samej płci co osoba kontrolowana, podczas nieobecności osób postronnych i osób odmiennej płci oraz w miejscu niemonitorowanym, niedostępnym w czasie przeprowadzania kontroli dla osób postronnych. W kontroli osobistej może uczestniczyć osoba wykonująca zawód medyczny. ” , po ust. 3b dodaje się ust. 3ba i 3bb w brzmieniu: „ 3ba. Podczas kontroli, o której mowa w ust. 3a pkt 2 i 4, osoba kontrolowana powinna być częściowo ubrana. Funkcjonariusz w pierwszej kolejności sprawdza część odzieży, a przed sprawdzeniem pozostałej części umożliwia osobie kontrolowanej włożenie odzieży już sprawdzonej. 3bb. Kontrolę, o której mowa w ust. 3a pkt 1–3, oraz kontrolę miejsc trudno dostępnych przeprowadza się wzrokowo i manualnie lub za pomocą środków technicznych przeznaczonych do wykrywania przedmiotów niedozwolonych lub substancji psychoaktywnych, sprawdzenia biochemicznego lub z wykorzystaniem psa służbowego wytresowanego do wyszukiwania przedmiotów niedozwolonych lub substancji psychoaktywnych, a kontrolę miejsc intymnych przeprowadza się przez oględziny ciała. ” , uchyla się ust. 3c, dodaje się ust. 3d-3g w brzmieniu: „
 
-- **e)** po ust. 3b dodaje się ust. 3ba i 3bb w brzmieniu: „3ba. Podczas kontroli, o której mowa w ust. 3a pkt 2 i 4, osoba kontrolowana powinna być częściowo ubrana. Funkcjonariusz w pierwszej kolejności sprawdza część odzieży, a przed sprawdzeniem pozostałej części umożliwia osobie kontrolowanej włożenie odzieży już sprawdzonej.
-- **f)** uchyla się ust. 3c,
-- **g)** dodaje się ust. 3d–3g w brzmieniu: „3d. Kontrola pobieżna, o której mowa w ust. 1 pkt 3, polega na powierzchownym sprawdzeniu odzieży, obuwia oraz przedmiotów znajdujących się na ciele osoby kontrolowanej lub przez nią posiadanych.
+- **e)**
+- **f)**
+- **g)**
+
+3d. Kontrola pobieżna, o której mowa w ust. 1 pkt 3, polega na powierzchownym sprawdzeniu odzieży, obuwia oraz przedmiotów znajdujących się na ciele osoby kontrolowanej lub przez nią posiadanych. Kontrolę pobieżną przeprowadza się wzrokowo i manualnie lub za pomocą środków technicznych przeznaczonych do wykrywania przedmiotów niedozwolonych lub substancji psychoaktywnych, sprawdzenia biochemicznego lub z wykorzystaniem psa służbowego wytresowanego do wyszukiwania przedmiotów niedozwolonych lub substancji psychoaktywnych. Wzrokowego i manualnego sprawdzenia dokonuje funkcjonariusz tej samej płci co osoba kontrolowana.
 
 3e. Przed przystąpieniem do kontroli osobistej lub pobieżnej, o których mowa w ust. 3a lub 3d, przeprowadzający kontrolę informuje osobę kontrolowaną o rozpoczęciu kontroli i jej rodzaju.
 
@@ -80,18 +166,22 @@ source: "isap-pdf"
 - **7)** podjęte czynności;
 - **8)** pouczenie osoby kontrolowanej o jej prawach;
 - **9)** podpis osoby kontrolowanej;
-- **10)** podpis funkcjonariusza przeprowadzającego kontrolę lub sprawdzenie.”,
-    - **h)** ust. 7 otrzymuje brzmienie: „7. Rada Ministrów określi, w drodze rozporządzenia, szczegółowy tryb działań, o których mowa w ust. 1 pkt 1 ̶ 3 i 5 ̶ 8, ust. 3a–3bb oraz ust. 3d i 3e, sposób postępowania funkcjonariuszy podczas ich realizacji oraz wzór protokołu, o którym mowa w ust. 3f, mając na względzie zapewnienie skuteczności działań podejmowanych przez funkcjonariuszy oraz prawidłowego ich dokumentowania.”;
+- **10)** podpis funkcjonariusza przeprowadzającego kontrolę lub sprawdzenie. ” , ust. 7 otrzymuje brzmienie: „
+    - **h)**
 
-- **12)** po art. 18a dodaje się art. 18b–18d w brzmieniu: „Art. 18b. 1. Osobie, wobec której zachodzi uzasadnione podejrzenie, że jest chora na chorobę zakaźną lub jest pod wpływem substancji psychoaktywnej, nie zezwala się na wstęp na teren jednostki organizacyjnej. Okoliczności stanowiące podstawę odmowy podaje się tej osobie do wiadomości.
+7. Rada Ministrów określi, w drodze rozporządzenia, szczegółowy tryb działań, o których mowa w ust. 1 pkt 1 -3 i 5 – 8, ust. 3a-3bb oraz ust. 3d i 3e, sposób postępowania funkcjonariuszy podczas ich realizacji oraz wzór protokołu, o którym mowa w ust. 3f, mając na względzie zapewnienie skuteczności działań podejmowanych przez funkcjonariuszy oraz prawidłowego ich dokumentowania. ” ;
+
+- **12)** po art. 18a dodaje się art. 18b-18d w brzmieniu: „
+
+**Art. 18b.**
+
+1. Osobie, wobec której zachodzi uzasadnione podejrzenie, że jest chora na chorobę zakaźną lub jest pod wpływem substancji psychoaktywnej, nie zezwala się na wstęp na teren jednostki organizacyjnej. Okoliczności stanowiące podstawę odmowy podaje się tej osobie do wiadomości.
 
 2. Na żądanie osoby, o której mowa w ust. 1, przeprowadza się przy użyciu metod niewymagających badania laboratoryjnego badanie w celu ustalenia, czy w organizmie tej osoby jest obecna substancja psychoaktywna.
 
 3. Z przeprowadzenia badania, o którym mowa w ust. 2, sporządza się protokół zawierający w szczególności następujące dane osoby badanej: imię i nazwisko, serię i numer dokumentu tożsamości oraz numer PESEL tej osoby, w przypadku gdy został nadany, a także dane służbowe funkcjonariusza przeprowadzającego badanie.
 
 4. Minister Sprawiedliwości określi, w drodze rozporządzenia, rodzaje badań na obecność substancji psychoaktywnej w organizmie osoby ubiegającej się o wstęp na teren jednostki organizacyjnej, sposób przeprowadzania tych badań, sposób ich dokumentowania oraz okres przechowywania zgromadzonej dokumentacji, mając na uwadze konieczność zapewnienia sprawnego przeprowadzania badań i zagwarantowania wiarygodności ich wyników oraz zapewnienie prawidłowego sposobu dokumentowania przeprowadzonych badań.
-
-**Art. 18c.**
 
 1. Funkcjonariusze, wykonując czynności służbowe w MSiPK, w zakresie realizacji zadania, o którym mowa w art. 2 ust. 2b, mają prawo:
 
@@ -111,9 +201,9 @@ source: "isap-pdf"
 
 3. Czynności, o których mowa w ust. 1 pkt 5 i 6, dokonuje się w celu wykrycia przedmiotów, których nie można posiadać w MSiPK, poprzez:
 
-- **1)** wzrokową i manualną kontrolę:
-    - **a)** zawartości bagażu oraz innych przedmiotów,
-    - **b)** pojazdów i ich ładunków;
+- **1)** wzrokową i manualną kontrolę: zawartości bagażu oraz innych przedmiotów, pojazdów i ich ładunków;
+    - **a)**
+    - **b)**
 
 - **2)** sprawdzenie bagaży oraz innych przedmiotów lub pojazdów i ich ładunków za pomocą środków technicznych będących na wyposażeniu MSiPK.
 
@@ -128,14 +218,12 @@ source: "isap-pdf"
 8. Kierownik komórki organizacyjnej w MSiPK odpowiedzialny za bezpieczeństwo fizyczne może:
 
 - **1)** zwolnić osobę, o której mowa w ust. 1 pkt 1 lub 2, z obowiązku legitymowania oraz przekazywania do depozytu przedmiotów, których nie można posiadać na terenie MSiPK;
-- **2)** polecić funkcjonariuszowi, o którym mowa w ust. 1:
-    - **a)** dokonywanie sprawdzenia osób, o których mowa w ust. 1 pkt 1 lub 2, za pomocą środków technicznych będących na wyposażeniu MSiPK,
-    - **b)** przeglądanie zawartości bagaży oraz innych przedmiotów, które posiadają przy sobie osoby, o których mowa w ust. 1 pkt 1 lub 2,
-    - **c)** sprawdzanie pojazdów wjeżdżających na teren MSiPK oraz wyjeżdżających z terenu MSiPK, a także ich ładunków.
+- **2)** polecić funkcjonariuszowi, o którym mowa w ust. 1: dokonywanie sprawdzenia osób, o których mowa w ust. 1 pkt 1 lub 2, za pomocą środków technicznych będących na wyposażeniu MSiPK, przeglądanie zawartości bagaży oraz innych przedmiotów, które posiadają przy sobie osoby, o których mowa w ust. 1 pkt 1 lub 2, sprawdzanie pojazdów wjeżdżających na teren MSiPK oraz wyjeżdżających z terenu MSiPK, a także ich ładunków.
+    - **a)**
+    - **b)**
+    - **c)**
 
 9. Rada Ministrów określi, w drodze rozporządzenia, szczegółowy tryb działań, o których mowa w ust. 1 pkt 1–3 i 7–11, oraz sposób postępowania funkcjonariuszy podczas ich realizacji, a także sposoby ich dokumentowania, mając na względzie zapewnienie poszanowania praw osób, wobec których te działania są podejmowane, oraz zapewnienie skuteczności działań podejmowanych przez funkcjonariuszy.
-
-**Art. 18d.**
 
 1. W przypadku wystąpienia zagrożenia realizacji zadania, o którym mowa w art. 2 ust. 2b, innego niż określone w art. 18c ust. 1 pkt 8, polegającego na tym, iż siły Służby Więziennej są niewystarczające lub mogą okazać się niewystarczające do wykonania tego zadania, do udzielenia pomocy Służbie Więziennej minister właściwy do spraw wewnętrznych może, na wniosek Ministra Sprawiedliwości, zarządzić użycie funkcjonariuszy Policji.
 
@@ -143,9 +231,12 @@ source: "isap-pdf"
 
 3. W przypadku, o którym mowa w ust. 1, funkcjonariuszom Policji przysługują, w zakresie niezbędnym do wykonania ich zadań, wobec wszystkich osób uprawnienia funkcjonariuszy określone w art. 18c ust. 1.
 
-4. Korzystanie z uprawnień, o których mowa w ust. 3, następuje na zasadach i w trybie określonym dla funkcjonariuszy.”;
+4. Korzystanie z uprawnień, o których mowa w ust. 3, następuje na zasadach i w trybie określonym dla funkcjonariuszy. ” ;
 
-- **13)** w art. 19 dodaje się ust. 6–10 w brzmieniu: „6. W zakładach karnych typu zamkniętego oraz aresztach śledczych funkcjonariusze wobec osób pozbawionych wolności, które:
+- **13)** w art. 19 dodaje się ust. 6–10 w brzmieniu: „
+
+6. W zakładach karnych typu zamkniętego oraz aresztach śledczych funkcjonariusze wobec osób pozbawionych wolności, które:
+
 - **1)** przebywają poza celą mieszkalną, używają prewencyjnie środka przymusu bezpośredniego, o którym mowa w art. 12 ust. 1 pkt 2 lit. a ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej;
 - **2)** przejawiają zachowania mogące stwarzać albo stwarzające zagrożenie dla życia lub zdrowia innych osób lub bezpieczeństwa w zakładzie karnym lub areszcie śledczym, mogą używać prewencyjnie także środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 2 i 4 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
 
@@ -158,10 +249,12 @@ source: "isap-pdf"
 - **1)** na wniosek osoby pozostającej w bezpośrednim kontakcie z tymi osobami pozbawionymi wolności;
 - **2)** w przypadku gdy funkcjonariusz uzna to za celowe.
 
-10. Każdorazowe zastosowanie środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 2 i 4 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, odnotowuje się w Centralnej Bazie.”;
+10. Każdorazowe zastosowanie środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 2 i 4 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, odnotowuje się w Centralnej Bazie. ” ;
 
 - **14)** uchyla się art. 23a;
-- **15)** po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „Rozdział 3a Inspektorat Wewnętrzny Służby Więziennej
+- **15)** po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „
+
+#### Rozdział 3a Inspektorat Wewnętrzny Służby Więziennej
 
 **Art. 23b.**
 
@@ -174,20 +267,16 @@ source: "isap-pdf"
 
 2. Do zadań IWSW należy także ujawnianie mienia zagrożonego przepadkiem w związku z przestępstwami, o których mowa w art. 23p ust. 1.
 
-**Art. 23c.**
-
 1. Zadania, o których mowa w art. 23b, mogą być realizowane przez IWSW w formie czynności administracyjno-porządkowych i operacyjno-rozpoznawczych.
 
 2. Funkcjonariusze pełniący służbę w IWSW, zwani dalej „funkcjonariuszami IWSW”, w toku wykonywania czynności służbowych mają obowiązek respektowania godności ludzkiej oraz przestrzegania i ochrony praw człowieka.
 
-**Art. 23d.**
-
 1. Funkcjonariusze IWSW, wykonując czynności służące realizacji zadań, o których mowa w art. 23b, mają prawo:
 
 - **1)** legitymowania osób w celu ustalenia ich tożsamości;
-- **2)** dokonywania sprawdzenia prewencyjnego w celu:
-    - **a)** ochrony przed bezprawnymi zamachami na życie lub zdrowie osób lub mienie lub w celu ich ochrony przed nieuprawnionym działaniem skutkującym zagrożeniem życia lub zdrowia,
-    - **b)** znalezienia i odebrania przedmiotów, których użycie ze względu na ich właściwość może spowodować zagrożenie dla życia lub zdrowia lub bezpieczeństwa prowadzonych czynności;
+- **2)** dokonywania sprawdzenia prewencyjnego w celu: ochrony przed bezprawnymi zamachami na życie lub zdrowie osób lub mienie lub w celu ich ochrony przed nieuprawnionym działaniem skutkującym zagrożeniem życia lub zdrowia, znalezienia i odebrania przedmiotów, których użycie ze względu na ich właściwość może spowodować zagrożenie dla życia lub zdrowia lub bezpieczeństwa prowadzonych czynności;
+    - **a)**
+    - **b)**
 
 - **3)** ujmowania osób w zakresie niezbędnym do realizacji zadań, o których mowa w art. 23b, w celu niezwłocznego przekazania tych osób Policji lub innym właściwym organom;
 - **4)** obserwowania i rejestrowania, przy użyciu środków technicznych, obrazu zdarzeń w miejscach publicznych oraz dźwięku towarzyszącego tym zdarzeniom w trakcie wykonywania czynności operacyjno-rozpoznawczych podejmowanych na podstawie ustawy;
@@ -196,8 +285,6 @@ source: "isap-pdf"
 - **7)** wydawania osobom poleceń określonego zachowania się w granicach niezbędnych do wykonania czynności określonych w pkt 1–3 lub wykonywania innych czynności służbowych podejmowanych w zakresie i w celu realizacji ustawowych zadań IWSW lub w celu uniknięcia bezpośredniego zagrożenia bezpieczeństwa osób lub mienia, gdy jest to niezbędne do sprawnego i zgodnego z prawem wykonywania tych czynności albo uniknięcia zatarcia śladów przestępstwa.
 
 2. Czynności, o których mowa w ust. 1, są wykonywane w sposób możliwie najmniej naruszający dobra osobiste osoby, wobec której zostały podjęte.
-
-**Art. 23e.**
 
 1. Funkcjonariusz IWSW, przystępując do czynności służbowych, o których mowa w art. 23d ust. 1 pkt 1–3 i 5–7, jest obowiązany:
 
@@ -223,9 +310,7 @@ source: "isap-pdf"
 6. Minister Sprawiedliwości określi, w drodze rozporządzenia:
 
 - **1)** rodzaje dokumentów tożsamości, o których mowa w ust. 2 pkt 1 lub 2,
-- **2)** sposób i postać dokumentowania czynności ustalania tożsamości osób, o których mowa w ust. 2 – mając na względzie zapewnienie prawidłowego ustalenia tożsamości osoby oraz dokumentowania procesu legitymowania.
-
-**Art. 23f.**
+- **2)** sposób i postać dokumentowania czynności ustalania tożsamości osób, o których mowa w ust. 2 mając na względzie zapewnienie prawidłowego ustalenia tożsamości osoby oraz dokumentowania procesu legitymowania.
 
 1. Sprawdzenie prewencyjne, o którym mowa w art. 23d ust. 1 pkt 2, polega na manualnym sprawdzeniu osoby, zawartości jej odzieży oraz przedmiotów znajdujących się na jej ciele lub przez nią posiadanych w zakresie niezbędnym do realizacji celu podejmowanych czynności w danych okolicznościach oraz w sposób możliwie najmniej naruszający dobra osobiste osoby, wobec której czynności są wykonywane.
 
@@ -243,8 +328,6 @@ source: "isap-pdf"
 
 5. W przypadku gdy sprawdzenie prewencyjne musi być dokonane niezwłocznie, w szczególności ze względu na okoliczności mogące stanowić zagrożenie życia lub zdrowia osób lub mienia, może go dokonać funkcjonariusz IWSW płci odmiennej niż osoba sprawdzana, także w miejscu niespełniającym warunku, o którym mowa w ust. 4, w sposób możliwie najmniej naruszający dobra osobiste osoby sprawdzanej.
 
-**Art. 23g.**
-
 1. Ujęcie osoby, o której mowa w art. 23d ust. 1 pkt 3, może nastąpić tylko wówczas, gdy czynności, o których mowa w art. 23d ust. 1 pkt 1, 2 i 7, okazały się bezcelowe lub nieskuteczne.
 
 2. Osobie ujętej na podstawie art. 23d ust. 1 pkt 3 przysługują uprawnienia przewidziane w ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego dla osoby zatrzymanej.
@@ -259,8 +342,6 @@ source: "isap-pdf"
 - **4)** poinformować osobę o ujęciu i jego przyczynach oraz uprzedzić o obowiązku zastosowania się do wydanych poleceń.
 
 5. Osobę ujętą funkcjonariusz IWSW niezwłocznie doprowadza do jednostki Policji lub przekazuje Policji. Funkcjonariusz IWSW niezwłocznie przekazuje Policji protokół ujęcia, a także odebrane osobie ujętej broń i przedmioty, o których mowa w ust. 4 pkt 2.
-
-**Art. 23h.**
 
 1. Osobę ujętą niezwłocznie poddaje się, w przypadku uzasadnionej potrzeby lub na jej prośbę, badaniu lekarskiemu lub udziela się jej pierwszej pomocy medycznej.
 
@@ -285,9 +366,7 @@ source: "isap-pdf"
 - **1)** sposób i tryb przeprowadzania badań lekarskich w sposób zapewniający ochronę zdrowia osoby ujętej,
 - **2)** osoby właściwe do przeprowadzenia badań lekarskich,
 - **3)** przypadki użycia specjalnego środka transportu,
-- **4)** sposób dokumentowania przypadków uniemożliwienia przeprowadzenia badania – mając na względzie zapewnienie właściwej pomocy medycznej.
-
-**Art. 23i.**
+- **4)** sposób dokumentowania przypadków uniemożliwienia przeprowadzenia badania mając na względzie zapewnienie właściwej pomocy medycznej.
 
 1. W przypadku gdy w toku przeprowadzania czynności, o których mowa w art. 23d ust. 1 pkt 2, znaleziono przedmioty mogące stworzyć niebezpieczeństwo dla życia, zdrowia osób lub mienia lub przedmioty, które służą do popełnienia czynu zabronionego pod groźbą kary lub których posiadanie jest zabronione, lub na żądanie osoby, wobec której dokonano czynności, złożone bezpośrednio po dokonaniu czynności, sporządza się protokół.
 
@@ -303,15 +382,11 @@ source: "isap-pdf"
 - **6)** pouczenie osoby ujętej o jej prawach;
 - **7)** w miarę potrzeby stwierdzenie innych okoliczności dotyczących przebiegu czynności.
 
-**Art. 23j.**
-
 1. Jeżeli w toku przeprowadzania czynności, o których mowa w art. 23d ust. 1 pkt 2, znaleziono przedmioty mogące stworzyć niebezpieczeństwo dla życia, zdrowia osób lub mienia lub przedmioty, które służą do popełnienia czynu zabronionego pod groźbą kary lub których posiadanie jest zabronione, protokół, o którym mowa w art. 23i ust. 1, przekazuje się do jednostki organizacyjnej Policji właściwej dla miejsca przeprowadzenia czynności.
 
 2. W przypadku gdy przedmioty ujawnione w wyniku czynności służbowych stwarzają niebezpieczeństwo dla życia, zdrowia osób lub mienia, funkcjonariusz IWSW jest obowiązany podjąć działania zmierzające do usunięcia niebezpieczeństwa.
 
 3. W przypadku gdy w toku przeprowadzania czynności, o których mowa w art. 23d ust. 1 pkt 2, nie znaleziono przedmiotów mogących stworzyć niebezpieczeństwo dla życia, zdrowia osób lub mienia lub przedmiotów, które służą do popełnienia czynu zabronionego pod groźbą kary lub których posiadanie jest zabronione, lub osoba poddana tym czynnościom nie zgłosiła żądania sporządzenia protokołu z dokonanych czynności, dokonanie czynności dokumentuje się w dokumentacji służbowej, odnotowując rodzaj, czas, miejsce i wynik czynności oraz imiona, nazwiska i funkcje osób w nich uczestniczących.
-
-**Art. 23k.**
 
 1. Funkcjonariusz IWSW może zwracać się z żądaniem lub prośbą o udzielenie pomocy, o której mowa w art. 23d ust. 1 pkt 5 i 6, jeżeli wykonanie czynności służbowej byłoby bez tej pomocy niemożliwe lub znacznie utrudnione.
 
@@ -333,8 +408,6 @@ source: "isap-pdf"
 
 10. Funkcjonariusz IWSW, występując z żądaniem udzielenia pomocy lub prośbą o jej udzielenie, jest obowiązany ustnie poinformować osobę, do której się zwraca, o istnieniu sytuacji, o której mowa w ust. 8, oraz o podstawie prawnej, rodzaju i zakresie pomocy.
 
-**Art. 23l.**
-
 1. Żądanie udzielenia pomocy lub prośba o jej udzielenie mogą obejmować również użyczenie rzeczy lub dokumentu.
 
 2. Zwrot rzeczy lub dokumentu odbywa się protokolarnie w terminie i miejscu uzgodnionych z posiadaczem lub właścicielem rzeczy lub dokumentu. Posiadacz lub właściciel otrzymuje pokwitowanie na użyczone w ramach pomocy rzeczy lub dokumenty.
@@ -351,9 +424,7 @@ source: "isap-pdf"
 
 - **1)** zakres informacji, jakie zawiera protokół oraz pokwitowanie, o których mowa w ust. 2,
 - **2)** zakres informacji przekazywanych posiadaczowi lub właścicielowi w przypadkach, o których mowa w ust. 5,
-- **3)** sposób ustalania wysokości szkody, o której mowa w ust. 3 – mając na względzie zapewnienie prawidłowej organizacji oraz udokumentowania uzyskania rzeczy lub dokumentów, postępowania z nimi oraz zwrotu tych rzeczy lub dokumentów.
-
-**Art. 23m.**
+- **3)** sposób ustalania wysokości szkody, o której mowa w ust. 3 mając na względzie zapewnienie prawidłowej organizacji oraz udokumentowania uzyskania rzeczy lub dokumentów, postępowania z nimi oraz zwrotu tych rzeczy lub dokumentów.
 
 1. Funkcjonariusz IWSW podczas czynności służbowych wykonuje uprawnienie do obserwowania i rejestrowania obrazu lub dźwięku zdarzeń, o którym mowa w art. 23d ust. 1 pkt 4, w sposób:
 
@@ -365,29 +436,23 @@ source: "isap-pdf"
 
 3. W IWSW prowadzi się ewidencję zapisów obrazu i dźwięku oraz ich kopii.
 
-4. Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób przechowywania, odtwarzania oraz kopiowania zapisów obrazu i dźwięku, o którym mowa w art. 23d ust. 1 pkt 4, mając na względzie konieczność właściwego zabezpieczenia utrwalonego obrazu lub dźwięku przed utratą, zniekształceniem lub nieuprawnionym ujawnieniem, a także zapewnienie ochrony praw osób, których wizerunek został utrwalony.
-
-**Art. 23n.** Materiały z czynności, o których mowa w art. 23d ust. 1 pkt 4, które nie stanowią informacji potwierdzających popełnienie przestępstwa albo nie są istotne dla zapewnienia bezpieczeństwa ochranianym osobom lub obiektom lub nie są istotne dla bezpieczeństwa państwa, podlegają protokolarnemu, komisyjnemu zniszczeniu. Weryfikacji tych materiałów dokonuje się nie rzadziej niż co 3 lata od dnia ich uzyskania.
-
-**Art. 23o.**
+4. Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób przechowywania, odtwarzania oraz kopiowania zapisów obrazu i dźwięku, o którym mowa w art. 23d ust. 1 pkt 4, mając na względzie konieczność właściwego zabezpieczenia utrwalonego obrazu lub dźwięku przed utratą, zniekształceniem lub nieuprawnionym ujawnieniem, a także zapewnienie ochrony praw osób, których wizerunek został utrwalony. Materiały z czynności, o których mowa w art. 23d ust. 1 pkt 4, które nie stanowią informacji potwierdzających popełnienie przestępstwa albo nie są istotne dla zapewnienia bezpieczeństwa ochranianym osobom lub obiektom lub nie są istotne dla bezpieczeństwa państwa, podlegają protokolarnemu, komisyjnemu zniszczeniu. Weryfikacji tych materiałów dokonuje się nie rzadziej niż co 3 lata od dnia ich uzyskania.
 
 1. Na sposób przeprowadzenia czynności, o których mowa w art. 23d ust. 1:
 
 - **1)** pkt 1, 3 i 7 – w terminie 7 dni od dnia dokonania czynności,
-- **2)** pkt 4 – w terminie 7 dni od dnia, gdy podmiot dowiedział się o dokonanych wobec niego czynnościach – przysługuje zażalenie do prokuratora właściwego ze względu na miejsce przeprowadzenia czynności. Do zażalenia stosuje się przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego w zakresie dotyczącym postępowania odwoławczego.
+- **2)** pkt 4 – w terminie 7 dni od dnia, gdy podmiot dowiedział się o dokonanych wobec niego czynnościach przysługuje zażalenie do prokuratora właściwego ze względu na miejsce przeprowadzenia czynności. Do zażalenia stosuje się przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego w zakresie dotyczącym postępowania odwoławczego.
 
 2. Minister Sprawiedliwości określi, w drodze rozporządzenia:
 
 - **1)** sposób dokumentowania czynności, o których mowa w art. 23d ust. 1, uwzględniając dostosowany do sytuacji sposób przeprowadzania przez funkcjonariuszy IWSW czynności podejmowanych w ramach ustawowych uprawnień oraz obowiązki funkcjonariuszy IWSW podczas realizacji tych czynności;
 - **2)** wzory protokołów, o których mowa w art. 23i ust. 1 i 2, oraz treść pouczeń o prawach przysługujących osobie ujętej, mając na względzie zakres niezbędnych danych osobowych osób objętych tymi czynnościami, uczestniczących w tych czynnościach oraz dokonujących tych czynności, zakres informacji niezbędnych do ustalenia przebiegu i wyniku tych czynności oraz konieczność prawidłowego pouczenia osoby ujętej o przysługujących jej prawach.
 
-**Art. 23p.**
-
 1. W zakresie wskazanym w art. 23b przy czynnościach operacyjno-rozpoznawczych podejmowanych przez IWSW w celu zapobieżenia, wykrycia, ustalenia sprawców, a także uzyskania i utrwalenia dowodów ściganych z oskarżenia publicznego przestępstw:
 
-- **1)** określonych w art. 148, art. 156 § 1 i 3, art. 157 § 1, art. 158, art. 159, art. 163 § 1 i 3, art. 164 § 1, art. 165 § 1, 3 i 4, art. 189, art. 190a, art. 197– 199, art. 223, art. 228 § 1 i § 3–5, art. 229 § 1 i § 3–5, art. 230 § 1, art. 230a § 1, art. 231 § 2, art. 234–236, art. 238, art. 239, art. 242, art. 243, art. 245– 247, art. 258, art. 269, art. 280–282, art. 288 § 1, art. 299 § 1, 2, 5 i 6 oraz art. 305 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny,
+- **1)** określonych w art. 148, art. 156 § 1 i 3, art. 157 § 1, art. 158, art. 159, art. 163 § 1 i 3, art. 164 § 1, art. 165 § 1, 3 i 4, art. 189, art. 190a, art. 197–199, art. 223, art. 228 § 1 i § 3–5, art. 229 § 1 i § 3–5, art. 230 § 1, art. 230a § 1, art. 231 § 2, art. 234–236, art. 238, art. 239, art. 242, art. 243, art. 245–247, art. 258, art. 269, art. 280–282, art. 288 § 1, art. 299 § 1, 2, 5 i 6 oraz art. 305 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny,
 - **2)** nielegalnego wytwarzania, posiadania, udostępniania lub obrotu bronią, amunicją, materiałami wybuchowymi, środkami odurzającymi, substancjami psychotropowymi, ich prekursorami, środkami zastępczymi lub nowymi substancjami psychoaktywnymi oraz materiałami jądrowymi i promieniotwórczymi,
-- **3)** skarbowych, jeżeli wartość przedmiotu czynu lub uszczuplenie należności publicznoprawnej przekraczają pięćdziesięciokrotną wysokość minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207) – gdy inne środki okazały się bezskuteczne albo będą nieprzydatne, Sąd Okręgowy w Warszawie może, w drodze postanowienia, zarządzić kontrolę operacyjną na pisemny wniosek Szefa IWSW złożony po uzyskaniu pisemnej zgody Prokuratora Generalnego.
+- **3)** skarbowych, jeżeli wartość przedmiotu czynu lub uszczuplenie należności publicznoprawnej przekraczają pięćdziesięciokrotną wysokość minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207) gdy inne środki okazały się bezskuteczne albo będą nieprzydatne, Sąd Okręgowy w Warszawie może, w drodze postanowienia, zarządzić kontrolę operacyjną na pisemny wniosek Szefa IWSW złożony po uzyskaniu pisemnej zgody Prokuratora Generalnego.
 
 2. Wniosek, o którym mowa w ust. 1, przedstawia się wraz z materiałami uzasadniającymi potrzebę zastosowania kontroli operacyjnej.
 
@@ -429,9 +494,7 @@ source: "isap-pdf"
 
 15. Szef IWSW informuje Prokuratora Generalnego o wynikach kontroli operacyjnej po jej zakończeniu, a na jego żądanie – również o przebiegu tej kontroli.
 
-16. W przypadku uzyskania dowodów pozwalających na wszczęcie postępowania karnego lub mających znaczenie dla toczącego się postępowania karnego Szef IWSW przekazuje Prokuratorowi Generalnemu wszystkie materiały zgromadzone podczas stosowania kontroli operacyjnej razem z odpisem postanowienia sądu w przedmiocie zastosowania lub przedłużenia kontroli operacyjnej lub wyrażenia zgody na kontynuowanie kontroli zarządzonej w przypadku niecierpiącym zwłoki. W przypadku gdy prokurator stwierdzi, że przekazane materiały zawierają informacje, o których mowa w art. 178 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, albo mogą zawierać informacje, o których mowa w art. 178a i art. 180 § 3 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, z wyłączeniem informacji o przestępstwach, o których mowa w art. 240 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, albo informacje stanowiące tajemnice związane z wykonywaniem zawodu lub funkcji, o których mowa w art. 180 § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, zwraca je Szefowi IWSW w celu podjęcia czynności, o których mowa w ust. 17 pkt 1 lub
-
-2. W postępowaniu przed sądem w odniesieniu do tych materiałów stosuje się odpowiednio przepis art. 393 § 1 zdanie pierwsze ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
+16. W przypadku uzyskania dowodów pozwalających na wszczęcie postępowania karnego lub mających znaczenie dla toczącego się postępowania karnego Szef IWSW przekazuje Prokuratorowi Generalnemu wszystkie materiały zgromadzone podczas stosowania kontroli operacyjnej razem z odpisem postanowienia sądu w przedmiocie zastosowania lub przedłużenia kontroli operacyjnej lub wyrażenia zgody na kontynuowanie kontroli zarządzonej w przypadku niecierpiącym zwłoki. W przypadku gdy prokurator stwierdzi, że przekazane materiały zawierają informacje, o których mowa w art. 178 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, albo mogą zawierać informacje, o których mowa w art. 178a i art. 180 § 3 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, z wyłączeniem informacji o przestępstwach, o których mowa w art. 240 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, albo informacje stanowiące tajemnice związane z wykonywaniem zawodu lub funkcji, o których mowa w art. 180 § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, zwraca je Szefowi IWSW w celu podjęcia czynności, o których mowa w ust. 17 pkt 1 lub 2. W postępowaniu przed sądem w odniesieniu do tych materiałów stosuje się odpowiednio przepis art. 393 § 1 zdanie pierwsze ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
 
 17. W przypadku gdy materiały, o których mowa w ust. 16:
 
@@ -466,8 +529,6 @@ source: "isap-pdf"
 
 28. Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw łączności oraz ministrem właściwym do spraw informatyzacji, określi, w drodze rozporządzenia, sposób sporządzania dokumentacji w związku z zarządzeniem kontroli operacyjnej, dokumentowania kontroli operacyjnej, przechowywania i przekazywania wniosków i zarządzeń, a także przechowywania, przekazywania oraz przetwarzania, kopiowania i niszczenia materiałów uzyskanych podczas stosowania tej kontroli, zakres danych gromadzonych w rejestrach, o których mowa w ust. 23, oraz wzory stosowanych druków i rejestrów, uwzględniając potrzebę zapewnienia niejawnego charakteru podejmowanych czynności i uzyskanych materiałów.
 
-**Art. 23q.**
-
 1. W sprawach o przestępstwa określone w art. 23p ust. 1 czynności operacyjno-rozpoznawcze zmierzające do sprawdzenia uzyskanych wcześniej wiarygodnych informacji o przestępstwie oraz ustalenia sprawców i uzyskania dowodów przestępstwa mogą polegać na dokonaniu w sposób niejawny nabycia, zbycia lub przejęcia przedmiotów pochodzących z przestępstwa, ulegających przepadkowi albo przedmiotów, których wytwarzanie, posiadanie lub przewożenie jest zabronione lub którymi obrót jest zabroniony, a także na przyjęciu lub wręczeniu korzyści majątkowej.
 
 2. Czynności operacyjno-rozpoznawcze, o których mowa w ust. 1, mogą polegać także na złożeniu propozycji nabycia, zbycia lub przejęcia przedmiotów pochodzących z przestępstwa, ulegających przepadkowi albo przedmiotów, których wytwarzanie, posiadanie lub przewożenie jest zabronione lub którymi obrót jest zabroniony, a także na przyjęciu lub wręczeniu korzyści majątkowej.
@@ -484,7 +545,7 @@ source: "isap-pdf"
 
 8. Czynności operacyjno-rozpoznawcze, o których mowa w ust. 1 i 2, mogą być niejawnie rejestrowane za pomocą urządzeń służących do rejestracji obrazu lub dźwięku.
 
-9. W przypadku uzyskania dowodów pozwalających na wszczęcie postępowania karnego lub mających znaczenie dla toczącego się postępowania karnego Szef IWSW przekazuje Prokuratorowi Generalnemu wszystkie materiały zgromadzone podczas stosowania czynności operacyjno-rozpoznawczych, o których mowa w ust. 1 i 2. W postępowaniu przed sądem w odniesieniu do tych materiałów stosuje się odpowiednio przepis art. 393 § 1 zdanie pierwsze ustawy z dnia 6 czerwca 1997 r. ‒ Kodeks postępowania karnego.
+9. W przypadku uzyskania dowodów pozwalających na wszczęcie postępowania karnego lub mających znaczenie dla toczącego się postępowania karnego Szef IWSW przekazuje Prokuratorowi Generalnemu wszystkie materiały zgromadzone podczas stosowania czynności operacyjno-rozpoznawczych, o których mowa w ust. 1 i 2. W postępowaniu przed sądem w odniesieniu do tych materiałów stosuje się odpowiednio przepis art. 393 § 1 zdanie pierwsze ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
 
 10. Prokurator Generalny i Szef IWSW prowadzą rejestry czynności, o których mowa w ust. 1 i 2.
 
@@ -493,8 +554,6 @@ source: "isap-pdf"
 12. O wydaniu i wykonaniu zarządzenia dotyczącego zniszczenia materiałów, o których mowa w ust. 11, Szef IWSW jest obowiązany niezwłocznie poinformować Prokuratora Generalnego.
 
 13. Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób sporządzania dokumentacji w związku z zarządzeniem czynności, o których mowa w ust. 1 i 2, dokumentowania tych czynności, przechowywania i przekazywania wniosków i zarządzeń, a także przekazywania oraz przetwarzania i niszczenia materiałów uzyskanych podczas stosowania tych czynności, zakres danych gromadzonych w rejestrach, o których mowa w ust. 10, oraz wzory stosowanych druków i rejestrów, uwzględniając potrzebę zapewnienia niejawnego charakteru podejmowanych czynności i uzyskanych materiałów oraz konieczność prawidłowego i skutecznego udokumentowania prowadzonych czynności.
-
-**Art. 23r.**
 
 1. W celu udokumentowania przestępstw, o których mowa w art. 23p ust. 1, albo ustalenia tożsamości osób uczestniczących w tych przestępstwach lub w celu przejęcia przedmiotów przestępstwa Szef IWSW lub jego zastępca może zarządzić niejawne nadzorowanie wytwarzania, przemieszczania lub przechowywania przedmiotów przestępstwa i obrotu nimi, jeżeli nie stworzy to zagrożenia dla życia lub zdrowia osób.
 
@@ -510,13 +569,11 @@ source: "isap-pdf"
 
 7. Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób sporządzania dokumentacji w związku z zarządzeniem czynności, o których mowa w ust. 1, dokumentowania tych czynności, przechowywania i przekazywania wniosków i zarządzeń, a także przechowywania, przekazywania oraz przetwarzania materiałów uzyskanych podczas stosowania tych czynności, zakres danych gromadzonych w rejestrach, o których mowa w ust. 5, oraz wzory stosowanych druków i rejestrów, uwzględniając potrzebę zapewnienia niejawnego charakteru podejmowanych czynności i uzyskanych materiałów oraz wzory stosowanych druków i rejestrów oraz konieczność prawidłowego i skutecznego udokumentowania prowadzonych czynności.
 
-**Art. 23s.**
-
 1. Jeżeli jest to konieczne dla skutecznego zapobieżenia przestępstwom określonym w art. 23p ust. 1 lub ich wykrycia, ustalenia ich sprawców, uzyskania i utrwalenia dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z tych przestępstw albo ich równowartości, IWSW może korzystać z informacji:
 
 - **1)** stanowiących tajemnicę skarbową, przetwarzanych przez organy administracji rządowej i samorządu terytorialnego;
 - **2)** stanowiących tajemnicę zawodową, o której mowa w art. 9e ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2022 r. poz. 924, 1358, 1488 i 1933);
-- **3)** stanowiących tajemnicę bankową, o której mowa w ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2021 r. poz. 2439, z późn. zm. );
+- **3)** stanowiących tajemnicę bankową, o której mowa w ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2021 r. poz. 2439, z późn. zm.);
 - **4)** stanowiących dane indywidualne, o których mowa w art. 79 ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2022 r. poz. 1009, 1079, 1115, 1265 i 1933);
 - **5)** stanowiących tajemnicę zawodową w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2022 r. poz. 170, 1488 i 1933);
 - **6)** stanowiących tajemnicę zawodową w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2022 r. poz. 1523, 1488 i 1933);
@@ -533,14 +590,14 @@ source: "isap-pdf"
 4. Informacje i dane, o których mowa w ust. 1:
 
 - **1)** dotyczące dokumentacji związanej z nadaniem NIP oraz aktualizowaniem danych zawartych w zgłoszeniach identyfikacyjnych, określonej w art. 13 ust. 1 ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2022 r. poz. 166, 1301 i 1933),
-- **2)** zawarte w aktach niezawierających informacji, o których mowa w art. 182 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, z późn. zm. ),
+- **2)** zawarte w aktach niezawierających informacji, o których mowa w art. 182 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, z późn. zm.),
 - **3)** dotyczące zawarcia z osobą fizyczną, osobą prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej umowy o wykonywanie czynności, o których mowa w art. 5 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, lub czynności, o których mowa w art. 3 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, umożliwiające weryfikację zawarcia takich umów i czasu ich obowiązywania,
 - **4)** dotyczące objęcia osoby fizycznej ubezpieczeniem społecznym i zwaloryzowanej wysokości składek na ubezpieczenie emerytalne osoby fizycznej, a także dane płatnika składek, o których mowa w art. 40, art. 45 i art. 50 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych,
 - **5)** niezbędne do ustalenia, czy osoba fizyczna, osoba prawna lub podmiot nieposiadający osobowości prawnej dokonywali transakcji dotyczących towarów giełdowych, o których mowa w ustawie z dnia 26 października 2000 r. o giełdach towarowych,
 - **6)** niezbędne do ustalenia, czy osoba fizyczna, osoba prawna lub podmiot nieposiadający osobowości prawnej są uczestnikami funduszu inwestycyjnego, alternatywnej spółki inwestycyjnej, funduszy zagranicznych, unijnego AFI, zbiorczego portfela papierów wartościowych, o których mowa w ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi,
 - **7)** dotyczące ustalenia, czy osoba fizyczna, osoba prawna lub podmiot nieposiadający osobowości prawnej są stronami umowy dotyczącej obrotu instrumentami finansowymi, o której mowa w ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi,
 - **8)** dotyczące ustalenia, czy osoba fizyczna, osoba prawna lub podmiot nieposiadający osobowości prawnej są ubezpieczającymi, ubezpieczonymi lub uprawnionymi z umowy ubezpieczenia w rozumieniu przepisów ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej,
-- **9)** dotyczące zawarcia z osobą fizyczną, osobą prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej umowy o świadczenie usług płatniczych, o których mowa w art. 3 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, umożliwiające weryfikację zawarcia takich umów i czasu ich obowiązywania, a także dane teleadresowe umożliwiające nawiązanie kontaktu z tą osobą fizyczną, osobą prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej – udostępnia się nieodpłatnie, w formie pisemnej lub za pomocą środków komunikacji elektronicznej, na wniosek Szefa IWSW lub upoważnionego przez niego zastępcy.
+- **9)** dotyczące zawarcia z osobą fizyczną, osobą prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej umowy o świadczenie usług płatniczych, o których mowa w art. 3 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, umożliwiające weryfikację zawarcia takich umów i czasu ich obowiązywania, a także dane teleadresowe umożliwiające nawiązanie kontaktu z tą osobą fizyczną, osobą prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej udostępnia się nieodpłatnie, w formie pisemnej lub za pomocą środków komunikacji elektronicznej, na wniosek Szefa IWSW lub upoważnionego przez niego zastępcy.
 
 5. Wniosek, o którym mowa w ust. 3, zawiera:
 
@@ -551,7 +608,7 @@ source: "isap-pdf"
 - **5)** podmiot obowiązany do udostępnienia informacji i danych;
 - **6)** rodzaj i zakres informacji i danych.
 
-6. Wniosek, o którym mowa w ust. 3, zawiera informacje określone w ust. 5 pkt 1, 2 i 4 ̶ 6.
+6. Wniosek, o którym mowa w ust. 3, zawiera informacje określone w ust. 5 pkt 1, 2 i 4 – 6.
 
 7. Po rozpatrzeniu wniosku, o którym mowa w ust. 3, Sąd Okręgowy w Warszawie, w drodze postanowienia, wyraża zgodę na udostępnienie informacji i danych wskazanego podmiotu, określając ich rodzaj i zakres, podmiot obowiązany do ich udostępnienia albo odmawia udzielenia zgody na udostępnienie informacji i danych. Przepis art. 23p ust. 11 stosuje się odpowiednio.
 
@@ -567,22 +624,16 @@ source: "isap-pdf"
 
 13. Jeżeli informacje i dane, o których mowa w ust. 1, nie dostarczyły podstaw do wszczęcia postępowania przygotowawczego, Szef IWSW zawiadamia o tym podmiot, który przekazał te informacje i dane.
 
-14. Skarb Państwa ponosi odpowiedzialność za szkody wyrządzone naruszeniem przepisów ust. 2 na zasadach określonych w ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2022 r. poz. 1360).
+14. Skarb Państwa ponosi odpowiedzialność za szkody wyrządzone naruszeniem przepisów ust. 2 na zasadach określonych w ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2022 r. poz. 1360). Jeżeli informacje i dane, o których mowa w art. 23s ust. 1, i materiały uzyskane przez IWSW dostatecznie uzasadniają podejrzenie popełnienia przestępstwa albo przestępstwa skarbowego, wykroczenia albo wykroczenia skarbowego albo potwierdzają jego popełnienie, Szef IWSW zawiadamia organ właściwy dla ścigania sprawcy.
 
-**Art. 23t.** Jeżeli informacje i dane, o których mowa w art. 23s ust. 1, i materiały uzyskane przez IWSW dostatecznie uzasadniają podejrzenie popełnienia przestępstwa albo przestępstwa skarbowego, wykroczenia albo wykroczenia skarbowego albo potwierdzają jego popełnienie, Szef IWSW zawiadamia organ właściwy dla ścigania sprawcy.
+1. W przypadkach, o których mowa w art. 11 pkt 1–4, 8, 10 i 12–14 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, funkcjonariusz IWSW może użyć środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1, 2, 13 i 19 tej ustawy, z wyłączeniem materiałów wybuchowych, lub wykorzystać te środki.
 
-**Art. 23u.**
-
-1. W przypadkach, o których mowa w art. 11 pkt 1–4, 8, 10 i 12– 14 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, funkcjonariusz IWSW może użyć środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1, 2, 13 i 19 tej ustawy, z wyłączeniem materiałów wybuchowych, lub wykorzystać te środki.
-
-2. W przypadkach, o których mowa w art. 45 pkt 1 lit. a–c, pkt 2, 3 i 4 lit. a, b i c tiret drugie oraz w art. 47 pkt 1, 2 lit. a i pkt 3–6 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, funkcjonariusz IWSW może użyć broni palnej lub ją wykorzystać.
-
-**Art. 23v.**
+2. W przypadkach, o których mowa w art. 45 pkt 1 lit. a-c, pkt 2, 3 i 4 lit. a, b i c tiret drugie oraz w art. 47 pkt 1, 2 lit. a i pkt 3–6 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, funkcjonariusz IWSW może użyć broni palnej lub ją wykorzystać.
 
 1. W celu realizacji zadań określonych w art. 23b oraz w zakresie niezbędnym do realizacji tych zadań Szef IWSW może:
 
 - **1)** korzystać, w tym również w formie zapisu elektronicznego, z danych o osobie, w tym danych osobowych, uzyskanych przez inne organy, służby i instytucje państwowe w wyniku wykonywania czynności operacyjno-rozpoznawczych, oraz przetwarzać te dane,
-- **2)** uzyskiwać, gromadzić i przetwarzać informacje, w tym dane osobowe, ze zbiorów i rejestrów prowadzonych na podstawie odrębnych przepisów przez organy władzy publicznej, w tym również ze zbiorów i rejestrów, w których przetwarza się informacje obejmujące dane osobowe, uzyskane w wyniku wykonywania przez te organy czynności operacyjno-rozpoznawczych – bez wiedzy i zgody osób, których dotyczą.
+- **2)** uzyskiwać, gromadzić i przetwarzać informacje, w tym dane osobowe, ze zbiorów i rejestrów prowadzonych na podstawie odrębnych przepisów przez organy władzy publicznej, w tym również ze zbiorów i rejestrów, w których przetwarza się informacje obejmujące dane osobowe, uzyskane w wyniku wykonywania przez te organy czynności operacyjno-rozpoznawczych bez wiedzy i zgody osób, których dotyczą.
 
 2. Przekazując dane, o których mowa w ust. 1 pkt 1, przekazuje się także informację o dacie, miejscu i rodzaju zdarzenia, w związku z którym nastąpiła rejestracja tych danych.
 
@@ -612,8 +663,6 @@ source: "isap-pdf"
 10. Dane osobowe uznane za zbędne można przekształcić w sposób uniemożliwiający przyporządkowanie poszczególnych informacji osobistych lub rzeczowych do określonej lub możliwej do zidentyfikowania osoby fizycznej albo w taki sposób, że przyporządkowanie takie wymagałoby niewspółmiernych kosztów, czasu lub działań.
 
 11. Rada Ministrów określi, w drodze rozporządzenia, sposób i tryb przekazywania IWSW informacji uzyskanych przez podmioty, o których mowa w ust. 1, wzór imiennego upoważnienia, o którym mowa w ust. 3, z uwzględnieniem danych niezbędnych do zidentyfikowania upoważnionego funkcjonariusza IWSW oraz terminu ważności tego upoważnienia, mając na względzie zapewnienie bezpieczeństwa przekazywanych danych.
-
-**Art. 23w.**
 
 1. Przy wykonywaniu czynności operacyjno-rozpoznawczych funkcjonariusze IWSW mogą posługiwać się dokumentami, które uniemożliwiają ustalenie identyfikujących ich danych, środkami identyfikacji elektronicznej zawierającymi dane inne niż dane identyfikujące funkcjonariusza IWSW oraz środkami, którymi posługują się przy wykonywaniu zadań służbowych.
 
@@ -645,9 +694,7 @@ source: "isap-pdf"
 - **2)** sposób posługiwania się dokumentami przez osoby, o których mowa w ust. 1 i art. 23zc ust. 1, a także sposób ich przechowywania i ewidencji,
 - **3)** czas, na jaki są wydawane dokumenty, o których mowa w ust. 1,
 - **4)** czynności zapewniające ochronę dokumentów, o których mowa w ust. 1,
-- **5)** sposób postępowania z dokumentami zwróconymi – mając na względzie rodzaje dokumentów i cel, w jakim są wydawane, oraz zapewnienie właściwego zabezpieczenia dokumentów oraz dokumentowania sposobu ich wydawania i używania.
-
-**Art. 23x.**
+- **5)** sposób postępowania z dokumentami zwróconymi mając na względzie rodzaje dokumentów i cel, w jakim są wydawane, oraz zapewnienie właściwego zabezpieczenia dokumentów oraz dokumentowania sposobu ich wydawania i używania.
 
 1. Udzielenie informacji o prowadzonych czynnościach operacyjno-rozpoznawczych oraz o stosowanych środkach i metodach ich realizacji może nastąpić:
 
@@ -663,25 +710,21 @@ source: "isap-pdf"
 
 4. W przypadkach wymienionych w ust. 1 pkt 1, ust. 2 pkt 1 i ust. 3 udzielenie informacji następuje w trybie określonym w art. 23y.
 
-**Art. 23y.**
-
 1. Szef IWSW może zezwalać:
 
 - **1)** byłym i obecnym funkcjonariuszom i pracownikom Służby Więziennej,
 - **2)** osobom oddelegowanym do Służby Więziennej – w zakresie zadań realizowanych w okresie oddelegowania,
-- **3)** osobom udzielającym funkcjonariuszom pomocy w wykonywaniu czynności operacyjno-rozpoznawczych – na udzielenie uprawnionemu podmiotowi informacji stanowiącej informację niejawną.
+- **3)** osobom udzielającym funkcjonariuszom pomocy w wykonywaniu czynności operacyjno-rozpoznawczych na udzielenie uprawnionemu podmiotowi informacji stanowiącej informację niejawną.
 
-2. Zezwolenie, o którym mowa w ust. 1, nie dotyczy sytuacji, o których mowa w art. 23p–23r, art. 23x ust. 1 pkt 2 i ust. 2 pkt 2 oraz art. 23z, z wyjątkiem dokumentów i materiałów, które sąd okręgowy albo prokurator Biura Lustracyjnego albo oddziałowego biura lustracyjnego Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu uzna za niezbędne w związku z wykonywaniem ich zadań określonych w ustawie z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2021 r. poz. 1633 oraz z 2022 r. poz. 1459 i 1512) oraz ustawie z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2021 r. poz. 177 oraz z 2022 r. poz. 375, 1259 i 1283).
+2. Zezwolenie, o którym mowa w ust. 1, nie dotyczy sytuacji, o których mowa w art. 23p-23r, art. 23x ust. 1 pkt 2 i ust. 2 pkt 2 oraz art. 23z, z wyjątkiem dokumentów i materiałów, które sąd okręgowy albo prokurator Biura Lustracyjnego albo oddziałowego biura lustracyjnego Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu uzna za niezbędne w związku z wykonywaniem ich zadań określonych w ustawie z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2021 r. poz. 1633 oraz z 2022 r. poz. 1459 i 1512) oraz ustawie z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2021 r. poz. 177 oraz z 2022 r. poz. 375, 1259 i 1283).
 
 3. W razie odmowy zezwolenia na udzielenie informacji stanowiącej informację niejawną o klauzuli „tajne” lub „ściśle tajne” pomimo żądania prokuratora albo sądu, o którym mowa w ust. 2, zgłoszonego w związku z postępowaniem karnym o zbrodnie przeciwko pokojowi, ludzkości i o przestępstwa wojenne lub o zbrodnię godzącą w życie ludzkie albo o występek przeciwko życiu i zdrowiu, gdy jego następstwem była śmierć człowieka, Szef IWSW, na wniosek prokuratora albo sądu, o którym mowa w ust. 2, przedstawia żądane dokumenty i materiały oraz wyjaśnienia Pierwszemu Prezesowi Sądu Najwyższego. Jeżeli Pierwszy Prezes Sądu Najwyższego stwierdzi, że uwzględnienie żądania prokuratora albo sądu jest uzasadnione, Szef IWSW jest obowiązany zezwolić na udostępnienie wnioskowanych informacji.
-
-**Art. 23z.**
 
 1. W celu rozpoznawania i wykrywania przestępstw oraz zapobiegania im IWSW może uzyskiwać dane niestanowiące treści odpowiednio: przekazu telekomunikacyjnego, przesyłki pocztowej albo przekazu w ramach usługi świadczonej drogą elektroniczną, określone w:
 
 - **1)** art. 180c i art. 180d ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2022 r. poz. 1648 i 1933), zwane dalej „danymi telekomunikacyjnymi”,
 - **2)** art. 82 ust. 1 pkt 1 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2022 r. poz. 896 i 1933), zwane dalej „danymi pocztowymi”,
-- **3)** art. 18 ust. 1–5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344), zwane dalej „danymi internetowymi” – oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
+- **3)** art. 18 ust. 1–5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344), zwane dalej „danymi internetowymi” oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
 
 2. Przedsiębiorca telekomunikacyjny, operator pocztowy lub usługodawca świadczący usługi drogą elektroniczną przekazuje nieodpłatnie dane, o których mowa w ust. 1, Szefowi IWSW albo upoważnionemu funkcjonariuszowi IWSW, w tym za pośrednictwem sieci telekomunikacyjnej.
 
@@ -689,9 +732,9 @@ source: "isap-pdf"
 
 4. Udostępnienie IWSW danych, o których mowa w ust. 1, może nastąpić za pośrednictwem sieci telekomunikacyjnej, jeżeli:
 
-- **1)** wykorzystywane sieci telekomunikacyjne zapewniają:
-    - **a)** możliwość ustalenia osoby uzyskującej dane, ich rodzaju oraz czasu, w którym zostały uzyskane,
-    - **b)** zabezpieczenie techniczne i organizacyjne uniemożliwiające osobie nieuprawnionej dostęp do danych;
+- **1)** wykorzystywane sieci telekomunikacyjne zapewniają: możliwość ustalenia osoby uzyskującej dane, ich rodzaju oraz czasu, w którym zostały uzyskane, zabezpieczenie techniczne i organizacyjne uniemożliwiające osobie nieuprawnionej dostęp do danych;
+    - **a)**
+    - **b)**
 
 - **2)** jest to uzasadnione specyfiką lub zakresem zadań wykonywanych przez IWSW albo prowadzonych przez nie czynności.
 
@@ -699,7 +742,9 @@ source: "isap-pdf"
 
 6. Dane, o których mowa w ust. 1, które mają znaczenie dla postępowania karnego, Szef IWSW przekazuje prokuratorowi właściwemu miejscowo albo rzeczowo. Prokurator podejmuje decyzję o zakresie i sposobie wykorzystania przekazanych danych.
 
-7. Dane, o których mowa w ust. 1, które nie mają znaczenia dla postępowania karnego, podlegają niezwłocznemu, komisyjnemu i protokolarnemu zniszczeniu. Art. 23za. 1. Kontrolę nad uzyskiwaniem przez IWSW danych telekomunikacyjnych, pocztowych lub internetowych sprawuje Sąd Okręgowy w Warszawie.
+7. Dane, o których mowa w ust. 1, które nie mają znaczenia dla postępowania karnego, podlegają niezwłocznemu, komisyjnemu i protokolarnemu zniszczeniu.
+
+1. Kontrolę nad uzyskiwaniem przez IWSW danych telekomunikacyjnych, pocztowych lub internetowych sprawuje Sąd Okręgowy w Warszawie.
 
 2. Szef IWSW przekazuje, z zachowaniem przepisów o ochronie informacji niejawnych, Sądowi Okręgowemu w Warszawie w okresach półrocznych sprawozdanie obejmujące:
 
@@ -715,30 +760,41 @@ source: "isap-pdf"
 
 5. Sąd Okręgowy w Warszawie informuje Szefa IWSW o wyniku kontroli w terminie 30 dni od dnia jej zakończenia.
 
-6. Kontroli, o której mowa w ust. 1, nie podlega uzyskiwanie danych na podstawie art. 23zb ust. 1. Art. 23zb. 1. W celu rozpoznawania i wykrywania przestępstw oraz zapobiegania im Szef IWSW może uzyskiwać dane:
+6. Kontroli, o której mowa w ust. 1, nie podlega uzyskiwanie danych na podstawie art. 23zb ust. 1.
+
+1. W celu rozpoznawania i wykrywania przestępstw oraz zapobiegania im Szef IWSW może uzyskiwać dane:
 
 - **1)** z wykazu, o którym mowa w art. 179 ust. 9 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne,
 - **2)** o których mowa w art. 161 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne,
 - **3)** w przypadku użytkownika, który nie jest osobą fizyczną – numer zakończenia sieci oraz siedzibę lub miejsce wykonywania działalności gospodarczej, firmę lub nazwę i formę organizacyjną tego użytkownika,
-- **4)** w przypadku stacjonarnej publicznej sieci telekomunikacyjnej – także nazwę miejscowości oraz ulicy, przy której znajduje się zakończenie sieci udostępnione użytkownikowi – oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
+- **4)** w przypadku stacjonarnej publicznej sieci telekomunikacyjnej – także nazwę miejscowości oraz ulicy, przy której znajduje się zakończenie sieci udostępnione użytkownikowi oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
 
-2. Do udostępniania i przetwarzania danych, o których mowa w ust. 1, przepis art. 23z ust. 2–7 stosuje się. Art. 23zc. 1. IWSW przy wykonywaniu swych zadań może korzystać z pomocy osób niebędących funkcjonariuszami. Zabronione jest ujawnianie danych o osobie udzielającej pomocy IWSW w zakresie czynności operacyjno-rozpoznawczych.
+2. Do udostępniania i przetwarzania danych, o których mowa w ust. 1, przepis art. 23z ust. 2–7 stosuje się.
+
+1. IWSW przy wykonywaniu swych zadań może korzystać z pomocy osób niebędących funkcjonariuszami. Zabronione jest ujawnianie danych o osobie udzielającej pomocy IWSW w zakresie czynności operacyjno-rozpoznawczych.
 
 2. Udostępnienie danych o osobie, o której mowa w ust. 1, może nastąpić jedynie w przypadkach i trybie określonych w art. 23y.
 
 3. Dane o osobie, o której mowa w ust. 1, mogą być udostępnione na żądanie prokuratora lub sądu, także w razie uzasadnionego podejrzenia popełnienia przez tę osobę przestępstwa ściganego z oskarżenia publicznego w związku z wykonywaniem czynności operacyjno-rozpoznawczych oraz w przypadku ujawnienia przez tę osobę faktu udzielania pomocy IWSW w zakresie czynności operacyjno-rozpoznawczych; udostępnienie tych danych następuje w trybie określonym w art. 23y.
 
-4. Za udzielenie pomocy, o której mowa w ust. 1, osobom niebędącym funkcjonariuszami IWSW może być przyznane wynagrodzenie. Art. 23zd. 1. Koszty podejmowanych przez IWSW czynności operacyjno-rozpoznawczych, w zakresie których ze względu na ochronę, o której mowa w ustawie, nie mogą być stosowane przepisy o finansach publicznych, rachunkowości i zamówieniach publicznych, a także wynagrodzenia osób wymienionych w art. 23zc ust. 1 są pokrywane z tworzonego na ten cel funduszu operacyjnego.
+4. Za udzielenie pomocy, o której mowa w ust. 1, osobom niebędącym funkcjonariuszami IWSW może być przyznane wynagrodzenie.
+
+1. Koszty podejmowanych przez IWSW czynności operacyjno-rozpoznawczych, w zakresie których ze względu na ochronę, o której mowa w ustawie, nie mogą być stosowane przepisy o finansach publicznych, rachunkowości i zamówieniach publicznych, a także wynagrodzenia osób wymienionych w art. 23zc ust. 1 są pokrywane z tworzonego na ten cel funduszu operacyjnego.
 
 2. Minister Sprawiedliwości, z zachowaniem przepisów o ochronie informacji niejawnych, określi, w drodze zarządzenia, sposób tworzenia funduszu operacyjnego i gospodarowania nim, mając na uwadze zapewnienie efektywnego i celowego wydatkowania środków z tego funduszu.
 
-3. Jeżeli w czasie korzystania i w związku z korzystaniem przez IWSW z pomocy osób, o których mowa w art. 23zc ust. 1, osoby te utraciły życie lub poniosły uszczerbek na zdrowiu albo szkodę w mieniu, osobom tym lub ich spadkobiercom przysługuje odszkodowanie na zasadach określonych w ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny.”;
+3. Jeżeli w czasie korzystania i w związku z korzystaniem przez IWSW z pomocy osób, o których mowa w art. 23zc ust. 1, osoby te utraciły życie lub poniosły uszczerbek na zdrowiu albo szkodę w mieniu, osobom tym lub ich spadkobiercom przysługuje odszkodowanie na zasadach określonych w ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny. ” ;
 
-- **16)** w art. 24 w ust. 1:
-    - **a)** we wprowadzeniu do wyliczenia po wyrazach „art. 2 ust. 1, 2 i 2b” dodaje się wyrazy „oraz w art. 23b”,
-    - **b)** w pkt 2 po wyrazach „art. 2 ust. 1 i 2” dodaje się wyrazy „oraz w art. 23b”;
+- **16)** w art. 24 w ust. 1: we wprowadzeniu do wyliczenia po wyrazach „art. 2 ust. 1, 2 i 2b” dodaje się wyrazy „oraz w art. 23b”, w pkt 2 po wyrazach „art. 2 ust. 1 i 2” dodaje się wyrazy „oraz w art. 23b”;
+    - **a)**
+    - **b)**
 
-- **17)** art. 24a otrzymuje brzmienie: „Art. 24a. 1. Służba Więzienna, na wniosek, udziela informacji lub udostępnia dane osobowe o osobach obecnie lub uprzednio pozbawionych wolności następującym podmiotom, w zakresie niezbędnym do realizacji ich ustawowych zadań:
+- **17)** art. 24a otrzymuje brzmienie: „
+
+**Art. 24a.**
+
+1. Służba Więzienna, na wniosek, udziela informacji lub udostępnia dane osobowe o osobach obecnie lub uprzednio pozbawionych wolności następującym podmiotom, w zakresie niezbędnym do realizacji ich ustawowych zadań:
+
 - **1)** organom administracji publicznej, sądom i organom prokuratury;
 - **2)** Policji, Straży Granicznej, Biuru Nadzoru Wewnętrznego, Żandarmerii Wojskowej, Służbie Ochrony Państwa, Straży Marszałkowskiej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnemu Biuru Antykorupcyjnemu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Szefowi Krajowego Centrum Informacji Kryminalnych i straży gminnej (miejskiej);
 - **3)** organom Krajowej Administracji Skarbowej;
@@ -759,16 +815,30 @@ source: "isap-pdf"
 
 5. Uzasadnienie odmowy udzielenia informacji lub udostępnienia danych osobowych sporządza się na pisemny wniosek złożony w terminie 14 dni od dnia otrzymania pisma informującego o tej odmowie. Pismo informujące o odmowie udzielenia informacji lub udostępnienia danych osobowych stanowi inny akt z zakresu administracji publicznej, o którym mowa w art. 3 ust. 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2022 r. poz. 329, 655, 1457 i 1855).
 
-6. Minister Sprawiedliwości określi, w drodze rozporządzenia, tryb i sposób składania i załatwiania oraz wzór wniosku o udzielenie informacji lub udostępnienie danych osobowych o osobie obecnie lub uprzednio pozbawionej wolności, a także prowadzenie ewidencji i dokumentowanie czynności w sprawie, mając na uwadze potrzebę zapewnienia sprawności postępowania.”;
+6. Minister Sprawiedliwości określi, w drodze rozporządzenia, tryb i sposób składania i załatwiania oraz wzór wniosku o udzielenie informacji lub udostępnienie danych osobowych o osobie obecnie lub uprzednio pozbawionej wolności, a także prowadzenie ewidencji i dokumentowanie czynności w sprawie, mając na uwadze potrzebę zapewnienia sprawności postępowania. ” ;
 
-- **18)** w art. 25c:
-    - **a)** w ust. 1 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) zawodowi kuratorzy sądowi;”,
-    - **b)** w ust. 2 pkt 1 otrzymuje brzmienie: „1) Minister Sprawiedliwości – w imieniu podmiotów, o których mowa w ust. 1 pkt 1 i 1a;”;
+- **18)** w art. 25c: w ust. 1 po pkt 1 dodaje się pkt 1a w brzmieniu: „
+    - **a)**
 
-- **19)** w art. 29 pkt 5 otrzymuje brzmienie: „5) daje rękojmię zachowania tajemnicy stosownie do wymogów określonych w przepisach ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych;”;
-- **20)** w art. 30 ust. 3 otrzymuje brzmienie: „3. Jeżeli przeciwko pracownikowi zostało wszczęte postępowanie karne o przestępstwo lub przestępstwo skarbowe popełnione w związku z wykonywaniem czynności służbowych, pracownikowi, na jego wniosek, przysługują z budżetu państwa środki na koszty obrony w wysokości faktycznie poniesionych kosztów, nie wyższej niż stawka maksymalna wynagrodzenia jednego obrońcy określona w przepisach wydanych na podstawie art. 16 ust. 3 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2022 r. poz. 1184). Otrzymane środki na koszty obrony podlegają zwrotowi przez pracownika, chyba że postępowanie karne zostanie prawomocnie zakończone orzeczeniem o umorzeniu postępowania wobec braku ustawowych znamion czynu zabronionego lub niepopełnienia przestępstwa albo wyrokiem uniewinniającym.”;
-- **21)** w art. 32 ust. 1 otrzymuje brzmienie: „1. Kierownicy jednostek organizacyjnych: Dyrektor Generalny, Szef IWSW, dyrektorzy okręgowi, Rektor, Komendant Centralnego Ośrodka Szkolenia Służby Więziennej, dyrektorzy zakładów karnych i aresztów śledczych, komendanci ośrodków szkolenia Służby Więziennej i ośrodków doskonalenia kadr Służby Więziennej są przełożonymi funkcjonariuszy i pracowników tych jednostek.”;
-- **22)** art. 36 otrzymuje brzmienie: „Art. 36. 1. Ustanawia się odznakę „Za zasługi dla więziennictwa”.
+- **1a)** zawodowi kuratorzy sądowi; ” , w ust. 2 pkt 1 otrzymuje brzmienie: „
+    - **b)**
+
+- **1)** Minister Sprawiedliwości – w imieniu podmiotów, o których mowa w ust. 1 pkt 1 i 1a; ” ;
+- **19)** w art. 29 pkt 5 otrzymuje brzmienie: „
+- **5)** daje rękojmię zachowania tajemnicy stosownie do wymogów określonych w przepisach ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych; ” ;
+- **20)** w art. 30 ust. 3 otrzymuje brzmienie: „
+
+3. Jeżeli przeciwko pracownikowi zostało wszczęte postępowanie karne o przestępstwo lub przestępstwo skarbowe popełnione w związku z wykonywaniem czynności służbowych, pracownikowi, na jego wniosek, przysługują z budżetu państwa środki na koszty obrony w wysokości faktycznie poniesionych kosztów, nie wyższej niż stawka maksymalna wynagrodzenia jednego obrońcy określona w przepisach wydanych na podstawie art. 16 ust. 3 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2022 r. poz. 1184). Otrzymane środki na koszty obrony podlegają zwrotowi przez pracownika, chyba że postępowanie karne zostanie prawomocnie zakończone orzeczeniem o umorzeniu postępowania wobec braku ustawowych znamion czynu zabronionego lub niepopełnienia przestępstwa albo wyrokiem uniewinniającym. ” ;
+
+- **21)** w art. 32 ust. 1 otrzymuje brzmienie: „
+
+1. Kierownicy jednostek organizacyjnych: Dyrektor Generalny, Szef IWSW, dyrektorzy okręgowi, Rektor, Komendant Centralnego Ośrodka Szkolenia Służby Więziennej, dyrektorzy zakładów karnych i aresztów śledczych, komendanci ośrodków szkolenia Służby Więziennej i ośrodków doskonalenia kadr Służby Więziennej są przełożonymi funkcjonariuszy i pracowników tych jednostek. ” ;
+
+- **22)** art. 36 otrzymuje brzmienie: „
+
+**Art. 36.**
+
+1. Ustanawia się odznakę „Za zasługi dla więziennictwa”.
 
 2. Odznaka, o której mowa w ust. 1, może być nadawana funkcjonariuszom lub pracownikom wyróżniającym się szczególnymi osiągnięciami w służbie lub pracy. Odznaka może być nadawana także innym osobom.
 
@@ -792,18 +862,26 @@ source: "isap-pdf"
 8. Minister Sprawiedliwości określi, w drodze rozporządzenia:
 
 - **1)** szczegółowy sposób i tryb nadawania odznaki, o której mowa w ust. 1,
-- **2)** wzór odznaki, o której mowa w ust. 1, podział na stopnie, terminy i kolejność jej nadawania – uwzględniając szczególny i uroczysty charakter aktu wręczenia odznaki, a także wzornictwo stosowane w polskiej falerystyce.
+- **2)** wzór odznaki, o której mowa w ust. 1, podział na stopnie, terminy i kolejność jej nadawania uwzględniając szczególny i uroczysty charakter aktu wręczenia odznaki, a także wzornictwo stosowane w polskiej falerystyce.
 
-9. Dyrektor Generalny, w drodze zarządzenia, może ustanowić inne odznaki.”;
+9. Dyrektor Generalny, w drodze zarządzenia, może ustanowić inne odznaki. ” ;
 
-- **23)** w art. 38:
-    - **a)** dotychczasową treść oznacza się jako ust. 1,
-    - **b)** w ust. 1 pkt 8 otrzymuje brzmienie: „8) posiadająca zdolność fizyczną i psychiczną do pełnienia służby w formacji uzbrojonej, podległej szczególnej dyscyplinie służbowej, której gotowa jest się podporządkować.”,
-    - **c)** dodaje się ust. 2 w brzmieniu: „2. Warunku posiadania uregulowanego stosunku do służby wojskowej nie stosuje się do osób ubiegających się o przyjęcie do służby kandydackiej podlegających obowiązkowi stawienia się do kwalifikacji wojskowej w danym roku, które z powodu skrócenia lub wydłużenia czasu trwania tej kwalifikacji nie stawiły się do niej przed upływem terminu zakończenia rekrutacji do służby kandydackiej.”;
+- **23)** w art. 38: dotychczasową treść oznacza się jako ust. 1, w ust. 1 pkt 8 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
 
-- **24)** po art. 38 dodaje się art. 38a i art. 38b w brzmieniu: „Art. 38a. 1. Funkcjonariusz Policji, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Służby Celno-Skarbowej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego lub Centralnego Biura Antykorupcyjnego może być na własną prośbę przeniesiony do służby w Służbie Więziennej, jeżeli wykazuje on szczególne predyspozycje do jej pełnienia. Żołnierz zawodowy może być na własną prośbę przeniesiony do służby w Służbie Więziennej, jeżeli wykazuje on szczególne predyspozycje do jej pełnienia i uzyska on zgodę Ministra Obrony Narodowej na przeniesienie.
+- **8)** posiadająca zdolność fizyczną i psychiczną do pełnienia służby w formacji uzbrojonej, podległej szczególnej dyscyplinie służbowej, której gotowa jest się podporządkować. ” , dodaje się ust. 2 w brzmieniu: „
+    - **c)**
 
-2. Funkcjonariusza albo żołnierza zawodowego, o którym mowa w ust. 1, do służby w Służbie Więziennej przenosi odpowiednio: Dyrektor Generalny do służby w Służbie Więziennej, z tym że Szef IWSW ‒ do służby w IWSW, a Rektor – do służby na Uczelni, w porozumieniu odpowiednio z Komendantem Głównym Policji, Komendantem Głównym Straży Granicznej, Szefem Kancelarii Sejmu, Komendantem Służby Ochrony Państwa, Szefem Krajowej Administracji Skarbowej, Komendantem Głównym Państwowej Straży Pożarnej, Szefem Agencji Bezpieczeństwa Wewnętrznego, Szefem Agencji Wywiadu, Szefem Służby Wywiadu Wojskowego, Szefem Służby Kontrwywiadu Wojskowego, Szefem Centralnego Biura Antykorupcyjnego lub Ministrem Obrony Narodowej, za zgodą Ministra Sprawiedliwości.
+2. Warunku posiadania uregulowanego stosunku do służby wojskowej nie stosuje się do osób ubiegających się o przyjęcie do służby kandydackiej podlegających obowiązkowi stawienia się do kwalifikacji wojskowej w danym roku, które z powodu skrócenia lub wydłużenia czasu trwania tej kwalifikacji nie stawiły się do niej przed upływem terminu zakończenia rekrutacji do służby kandydackiej. ” ;
+
+- **24)** po art. 38 dodaje się art. 38a i art. 38b w brzmieniu: „
+
+**Art. 38a.**
+
+1. Funkcjonariusz Policji, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Służby Celno-Skarbowej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego lub Centralnego Biura Antykorupcyjnego może być na własną prośbę przeniesiony do służby w Służbie Więziennej, jeżeli wykazuje on szczególne predyspozycje do jej pełnienia. Żołnierz zawodowy może być na własną prośbę przeniesiony do służby w Służbie Więziennej, jeżeli wykazuje on szczególne predyspozycje do jej pełnienia i uzyska on zgodę Ministra Obrony Narodowej na przeniesienie.
+
+2. Funkcjonariusza albo żołnierza zawodowego, o którym mowa w ust. 1, do służby w Służbie Więziennej przenosi odpowiednio: Dyrektor Generalny do służby w Służbie Więziennej, z tym że Szef IWSW – do służby w IWSW, a Rektor – do służby na Uczelni, w porozumieniu odpowiednio z Komendantem Głównym Policji, Komendantem Głównym Straży Granicznej, Szefem Kancelarii Sejmu, Komendantem Służby Ochrony Państwa, Szefem Krajowej Administracji Skarbowej, Komendantem Głównym Państwowej Straży Pożarnej, Szefem Agencji Bezpieczeństwa Wewnętrznego, Szefem Agencji Wywiadu, Szefem Służby Wywiadu Wojskowego, Szefem Służby Kontrwywiadu Wojskowego, Szefem Centralnego Biura Antykorupcyjnego lub Ministrem Obrony Narodowej, za zgodą Ministra Sprawiedliwości.
 
 3. Funkcjonariuszowi albo żołnierzowi zawodowemu, o którym mowa w ust. 1, nadaje się odpowiedni stopień Służby Więziennej.
 
@@ -819,13 +897,689 @@ source: "isap-pdf"
 
 - **1)** szczegółowy sposób i tryb prowadzenia postępowania w stosunku do funkcjonariuszy oraz żołnierzy zawodowych, o których mowa w ust. 1,
 - **2)** kwalifikacje predestynujące do służby w Służbie Więziennej,
-- **3)** równorzędność okresów służby i stażu, należności oraz uzyskane w dotychczasowych jednostkach kwalifikacje zawodowe do Służby Więziennej – mając na względzie zapewnienie prawidłowego przebiegu postępowania oraz realizacji naboru do służby w Służbie Więziennej w celu przeniesienia funkcjonariuszy albo żołnierzy zawodowych posiadających odpowiednie kwalifikacje do wypełniania jej zadań.
+- **3)** równorzędność okresów służby i stażu, należności oraz uzyskane w dotychczasowych jednostkach kwalifikacje zawodowe do Służby Więziennej mając na względzie zapewnienie prawidłowego przebiegu postępowania oraz realizacji naboru do służby w Służbie Więziennej w celu przeniesienia funkcjonariuszy albo żołnierzy zawodowych posiadających odpowiednie kwalifikacje do wypełniania jej zadań.
 
-9. Rada Ministrów określi, w drodze rozporządzenia, stopnie: zawodowej służby wojskowej, Policji, Straży Granicznej, Straży Marszałkowskiej, Biura Ochrony Rządu, Służby Ochrony Państwa, Służby Celno-Skarbowej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego lub Służby Kontrwywiadu Wojskowego, które odpowiadają poszczególnym stopniom służbowym Służby Więziennej, mając na względzie zapewnienie równorzędności tych stopni w poszczególnych korpusach.
+9. Rada Ministrów określi, w drodze rozporządzenia, stopnie: zawodowej służby wojskowej, Policji, Straży Granicznej, Straży Marszałkowskiej, Biura Ochrony Rządu, Służby Ochrony Państwa, Służby Celno-Skarbowej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego lub Służby Kontrwywiadu Wojskowego, które odpowiadają poszczególnym stopniom służbowym Służby Więziennej, mając na względzie zapewnienie równorzędności tych stopni w poszczególnych korpusach. Do służby w IWSW, za zgodą Ministra Sprawiedliwości, może zostać przyjęty funkcjonariusz Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Biura Ochrony Rządu lub Służby Celno-Skarbowej, zwolniony ze służby w związku z przejściem na emeryturę policyjną w rozumieniu ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2022 r. poz. 1626) nie później niż przed upływem 3 lat od dnia tego zwolnienia. W takim przypadku osobę przyjmowaną do służby i posiadającą stopień Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Straży Granicznej, Służby Ochrony Państwa, Biura Ochrony Rządu lub Służby Celno-Skarbowej mianuje się na odpowiedni stopień Służby Więziennej. Przepisy art. 38, art. 38a ust. 4 i 5, art. 39c ust. 2 pkt 1 lit. b i d i pkt 4 oraz przepisy wykonawcze wydane na podstawie art. 38a ust. 9 stosuje się odpowiednio. ” ;
 
-**Art. 38b.** Do służby w IWSW, za zgodą Ministra Sprawiedliwości, może zostać przyjęty funkcjonariusz Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Biura Ochrony Rządu lub Służby Celno-Skarbowej, zwolniony ze służby w związku z przejściem na emeryturę policyjną w rozumieniu ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2022 r. poz. 1626) nie później niż przed upływem 3 lat od dnia tego zwolnienia. W takim przypadku osobę przyjmowaną do służby i posiadającą stopień Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Straży Granicznej, Służby Ochrony Państwa, Biura Ochrony Rządu lub Służby Celno-Skarbowej mianuje się na odpowiedni stopień Służby Więziennej. Przepisy art. 38, art. 38a ust. 4 i 5, art. 39c ust. 2 pkt 1 lit. b i d i pkt 4 oraz przepisy wykonawcze wydane na podstawie art. 38a ust. 9 stosuje się odpowiednio.”;
+- **25)** w art. 39a w ust. 1 pkt 2 otrzymuje brzmienie: „
+- **2)** zebraniem informacji o istniejących lub przewidywanych wakatach w Służbie Więziennej; ” ;
+- **26)** w art. 39b: w ust. 1: – w pkt 1 w lit. b przecinek zastępuje się średnikiem i uchyla się lit. c, – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) Szef IWSW – w stosunku do kandydatów do służby w IWSW; ” , w ust. 2 pkt 1 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
 
-**Art. 109b.** Okres służby traktuje się jako pracę w szczególnym charakterze w rozumieniu przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.”;
+- **1)** zarządzić przeprowadzenie postępowania kwalifikacyjnego przez Centralny Zarząd Służby Więziennej w stosunku do kandydatów do wszystkich jednostek organizacyjnych, z wyjątkiem Uczelni oraz IWSW; ” ;
+- **27)** w art. 39c w ust. 2: w pkt 1 lit. g otrzymuje brzmienie: „ wyłonienie kandydatów dopuszczonych do kolejnych etapów postępowania kwalifikacyjnego, mając na względzie potrzeby etatowe służby oraz dotychczasowe wyniki uzyskane w trakcie etapu wstępnego; ” , w pkt 2 w lit. a przecinek zastępuje się średnikiem i uchyla się lit. b, w pkt 3: – skreśla się wyraz „końcowego”, – kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „ 4) etapu końcowego obejmującego ustalenie zdolności fizycznej i psychicznej do służby w Służbie Więziennej przez komisje lekarskie, o których mowa w art. 110 ust. 1; w ramach ustalenia zdolności psychicznej do służby badania psychologiczne mogą być wykonywane przez podmioty określone w art. 110 ust. 1a. ” ;
+    - **a)**
+    - **g)**
+    - **b)**
+    - **c)**
+
+- **28)** art. 39g otrzymuje brzmienie: „
+
+**Art. 39g.**
+
+1. Pracownik zatrudniony w Służbie Więziennej:
+
+- **1)** co najmniej 2 lata,
+- **2)** wykazujący się odpowiednimi kwalifikacjami i kompetencjami szczególnie przydatnymi w Służbie Więziennej może być, za zgodą odpowiedniego organu, przyjęty do Służby Więziennej przy zastosowaniu uproszczonego postępowania kwalifikacyjnego.
+
+2. Zgodę, o której mowa w ust. 1, wyrażają:
+
+- **1)** Minister Sprawiedliwości – w odniesieniu do pracowników wszystkich jednostek organizacyjnych;
+- **2)** Dyrektor Generalny – w odniesieniu do pracowników podległych jednostek organizacyjnych;
+- **3)** Rektor – w odniesieniu do pracowników Uczelni;
+- **4)** Szef IWSW – w odniesieniu do pracowników IWSW.
+
+3. W przypadku, o którym mowa w ust. 1, kandydat podlega etapom postępowania kwalifikacyjnego określonym w art. 39c ust. 2 pkt 1 lit. d i e, pkt 2 lit. a oraz pkt 4, a w przypadku pozytywnego zakończenia tych etapów stosuje się art. 40 ust. 3.
+
+4. Minister Sprawiedliwości może wyrazić zgodę na przyjęcie do Służby Więziennej pracownika niespełniającego kryterium, o którym mowa w ust. 1 pkt 1. ” ;
+
+- **29)** w art. 42: po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „
+    - **a)**
+
+3a. W przypadkach uzasadnionych szczególnymi kwalifikacjami funkcjonariusza pełniącego służbę w IWSW, który ponadto ukończył odpowiednie szkolenie zawodowe, Szef IWSW może wyrazić zgodę na skrócenie okresu służby przygotowawczej funkcjonariusza.
+
+3b. W przypadkach uzasadnionych szczególnymi kwalifikacjami funkcjonariusza pełniącego służbę na Uczelni, który ponadto ukończył odpowiednie szkolenie zawodowe, Rektor może wyrazić zgodę na skrócenie okresu służby przygotowawczej funkcjonariusza. ” , ust. 4 i 5 otrzymują brzmienie: „
+
+- **b)**
+
+4. W razie przerwy w wykonywaniu przez funkcjonariusza obowiązków służbowych trwającej dłużej niż 3 miesiące kierownik jednostki organizacyjnej może odpowiednio przedłużyć okres jego służby przygotowawczej, nie więcej jednak niż o 18 miesięcy.
+
+5. Okres służby przygotowawczej ulega przedłużeniu do czasu prawomocnego zakończenia prowadzonego przeciwko funkcjonariuszowi postępowania karnego o przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe, postępowania dyscyplinarnego oraz o okres urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, urlopu ojcowskiego, urlopu rodzicielskiego, urlopu wychowawczego lub urlopu bezpłatnego. ” ;
+
+- **30)** w art. 43c po ust. 3 dodaje się ust. 3a w brzmieniu: „
+
+3a. Szef IWSW, po zasięgnięciu opinii Rektora, określi, w drodze zarządzenia, program szkoleń specjalistycznych w IWSW dla funkcjonariuszy IWSW i pracowników IWSW. ” ;
+
+- **31)** w art. 43j w ust. 3 zdanie pierwsze otrzymuje brzmienie: „ Egzamin przeprowadza komisja egzaminacyjna powołana przez kierownika jednostki, o której mowa w ust. 2. ” ;
+- **32)** w art. 43t: w ust. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
+    - **a)**
+
+- **5)** ma wszczęte postępowanie karne o przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe lub postępowanie dyscyplinarne. ” , ust. 2 otrzymuje brzmienie: „
+    - **b)**
+
+2. Pracownika nie kieruje się na szkolenie zawodowe w przypadkach, o których mowa w ust. 1 pkt 1 i 3–5. ” , dodaje się ust. 3 w brzmieniu: „
+
+- **c)**
+
+3. Funkcjonariusza odbywającego szkolenie zawodowe, przeciwko któremu wszczęto postępowanie karne o przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe lub postępowanie dyscyplinarne, skreśla się z listy słuchaczy. ” ;
+
+- **33)** w art. 43u ust. 2 i 3 otrzymują brzmienie: „
+
+2. Szef IWSW, dyrektor okręgowy, Rektor i właściwy komendant zgłaszają potrzeby szkoleniowe komendantowi wyznaczonemu przez Dyrektora Generalnego, który prowadzi nabór kandydatów na szkolenie zawodowe w elektronicznym systemie obsługi szkolenia.
+
+3. Dyrektor Generalny z własnej inicjatywy lub na wniosek Rektora, Szefa IWSW lub właściwego komendanta może dokonywać zmian ustalonych limitów miejsc i terminów szkolenia zawodowego. ” ;
+
+- **34)** w art. 43zb ust. 3 otrzymuje brzmienie: „
+
+3. Rektor lub właściwy komendant informuje niezwłocznie Dyrektora Generalnego, Szefa IWSW oraz właściwego kierownika jednostki organizacyjnej o skreśleniu funkcjonariusza lub pracownika z listy uczestników szkolenia zawodowego. ” ;
+
+- **35)** w art. 43zd dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
+
+2. Szkolenie specjalistyczne w IWSW dla funkcjonariuszy IWSW może nie stanowić uzupełnienia szkolenia wstępnego lub szkolenia zawodowego. ” ;
+
+- **36)** art. 43ze otrzymuje brzmienie: „ Art. 43ze. Do szkolenia specjalistycznego stosuje się odpowiednio przepisy art. 43s, art. 43t, art. 43y-43zb, art. 43zg ust. 2 oraz art. 43zj ust. 1. ” ;
+- **37)** po art. 43ze dodaje się art. 43zea w brzmieniu: „ Funkcjonariusz jest obowiązany utrzymywać wymagany poziom umiejętności posługiwania się bronią palną zapewniający wykonywanie przez niego zadań służbowych, w szczególności przez udział w szkoleniu zawodowym. ” ;
+- **38)** w art. 43zf ust. 1 otrzymuje brzmienie: „
+
+1. Doskonalenie zawodowe jest elementem podnoszenia kwalifikacji zawodowych funkcjonariuszy i pracowników, w szczególności w formie kursów, warsztatów, szkoleń, konferencji, narad i odpraw służbowych. ” ;
+
+- **39)** w art. 43zk ust. 1 otrzymuje brzmienie: „
+
+1. Kształcenie przygotowujące do zajmowania stanowisk oficerskich w Służbie Więziennej prowadzi się w formie studiów podyplomowych na Uczelni, jednolitych studiów magisterskich na Uczelni lub studiów drugiego stopnia na Uczelni. ” ;
+
+- **40)** art. 43zl otrzymuje brzmienie: „
+
+1. Do egzaminu na pierwszy stopień w korpusie oficerów przystępuje funkcjonariusz:
+
+- **1)** o którym mowa w art. 62j ust. 1;
+- **2)** który uzyskał skierowanie i ukończył na Uczelni studia podyplomowe przygotowujące do zajmowania stanowisk oficerskich;
+- **3)** który ukończył jednolite studia magisterskie na Uczelni lub studia drugiego stopnia na Uczelni;
+- **4)** który wykazuje się kwalifikacjami zawodowymi i kompetencjami szczególnie przydatnymi w Służbie Więziennej, za zgodą Ministra Sprawiedliwości; Minister Sprawiedliwości przed podjęciem decyzji może zwrócić się do Rektora o wydanie opinii o funkcjonariuszu.
+
+2. Do egzaminu na pierwszy stopień w korpusie chorążych przystępuje funkcjonariusz:
+
+- **1)** o którym mowa w art. 62i ust. 1;
+- **2)** który ukończył studia pierwszego stopnia na Uczelni;
+- **3)** który ukończył szkolenie zawodowe.
+
+3. Do egzaminu na pierwszy stopień w korpusie podoficerskim przystępuje funkcjonariusz, który ukończył szkolenie zawodowe.
+
+4. Decyzje o wysokości limitów określających liczbę funkcjonariuszy, którzy mogą uzyskać pierwszy stopień w korpusach, o których mowa w ust. 1–3, z podległych sobie jednostek podejmuje Dyrektor Generalny.
+
+5. Dyrektor Generalny, w drodze zarządzenia, określa wysokość limitów, o których mowa w ust. 4, wskazując kryteria brane pod uwagę oraz prowadzoną politykę kadrową i potrzeby służby.
+
+6. Rektor, w porozumieniu z właściwymi komendantami, ustala miejsce przeprowadzania egzaminów, skład komisji egzaminacyjnych i ich przewodniczących oraz terminy egzaminów z uwzględnieniem terminów ukończenia kształcenia w odpowiednich formach.
+
+7. Zestawy egzaminacyjne opracowują osoby wyznaczone przez Rektora niewchodzące w skład komisji egzaminacyjnej.
+
+8. Otwarcia zestawu egzaminacyjnego dokonuje komisja egzaminacyjna w obecności funkcjonariuszy uczestniczących w egzaminie.
+
+9. Po przeprowadzeniu egzaminu komisja egzaminacyjna sporządza protokół, który Rektor przekazuje Dyrektorowi Generalnemu w celu niezwłocznego podjęcia działań zmierzających do nadania funkcjonariuszom pierwszego stopnia w korpusie odpowiednio oficerów, chorążych albo podoficerów.
+
+10. Negatywny wynik egzaminu albo nieprzystąpienie do egzaminu oznacza nieuzyskanie kwalifikacji zawodowych, które są wymagane na określonym stanowisku służbowym w korpusie oficerów, chorążych albo podoficerów.
+
+11. W przypadku nieprzystąpienia do egzaminu z przyczyn usprawiedliwionych Rektor, na wniosek funkcjonariusza, wyznacza dodatkowy termin egzaminu. W przypadku uzyskania negatywnego wyniku egzaminu przepis art. 43zm stosuje się odpowiednio.
+
+12. W przypadku nieprzystąpienia do egzaminu z przyczyn nieusprawiedliwionych przepis art. 43zm stosuje się odpowiednio. ” ;
+
+- **41)** w art. 43zm ust. 1 otrzymuje brzmienie: „
+
+1. Funkcjonariusz, który uzyskał negatywny wynik egzaminu, o którym mowa w art. 43zl ust. 1–3, może złożyć do Rektora wniosek o dopuszczenie do egzaminu poprawkowego. ” ;
+
+- **42)** w art. 43zn: po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+
+1a. Nadzór nad organizacją i metodyką szkoleń specjalistycznych dla funkcjonariuszy IWSW i pracowników IWSW sprawuje Szef IWSW. ” , w ust. 6 po pkt 1 dodaje się pkt 1a w brzmieniu: „
+
+- **b)**
+- **1a)** w IWSW – Szef IWSW; ” ;
+- **43)** po art. 44 dodaje się art. 44a w brzmieniu: „
+
+**Art. 44a.**
+
+1. Do mianowania i powołania funkcjonariusza na stanowisko kierownicze, w tym stanowisko kierownika komórki organizacyjnej, wymagane jest ukończenie przez tego funkcjonariusza studiów podyplomowych na Uczelni, w których programie uwzględniono cele i efekty uczenia się oraz treści związane z zarządzaniem komórkami organizacyjnymi.
+
+2. Do powołania funkcjonariusza na wyższe stanowisko kierownicze, o którym mowa w art. 63 ust. 1, wymagane jest ukończenie przez tego funkcjonariusza studiów podyplomowych na Uczelni, w których programie uwzględniono cele i efekty uczenia się oraz treści związane z zarządzaniem jednostkami organizacyjnymi.
+
+3. W uzasadnionych przypadkach mianować albo powołać na stanowisko kierownicze albo powołać na wyższe stanowisko kierownicze można funkcjonariusza, który nie spełnia warunków wymienionych w ust. 1 albo 2. Funkcjonariusz jest obowiązany do ukończenia studiów podyplomowych, o których mowa w ust. 1 albo 2, w okresie 3 lat od mianowania albo powołania na stanowisko kierownicze albo powołania na wyższe stanowisko kierownicze. ” ;
+
+- **44)** art. 46 otrzymuje brzmienie: „
+
+**Art. 46.** Mianowania funkcjonariusza na stanowisko służbowe, z wyjątkiem stanowisk, o których mowa w rozdziale 8, dokonuje kierownik jednostki organizacyjnej. ” ;
+
+- **45)** w art. 47 w ust. 1: zdanie drugie otrzymuje brzmienie: „ Funkcjonariusza przyjętego do służby albo do służby na Uczelni można mianować, za zgodą odpowiednio Dyrektora Generalnego albo Rektora, na stanowisko oficerskie przed uzyskaniem kwalifikacji w zakresie szkolenia i stażu w służbie oraz przed złożeniem egzaminu na pierwszy stopień oficerski, jeżeli spełnia wymogi w zakresie wykształcenia, o którym mowa w art. 44 ust. 2. ” , dodaje się zdanie trzecie w brzmieniu: „ W stosunku do funkcjonariuszy IWSW zgodę wydaje Szef IWSW. ” ;
+    - **a)**
+    - **b)**
+
+- **46)** w art. 48: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. W szczególnie uzasadnionych przypadkach Dyrektor Generalny, a na Uczelni – Rektor, na wniosek właściwego przełożonego, mogą wyrazić zgodę na mianowanie funkcjonariusza na stanowisko służbowe przed uzyskaniem przez niego kwalifikacji zawodowych oraz stażu służby wymaganych na tym stanowisku, jeżeli spełnia on wymagania w zakresie wykształcenia. Kwalifikacje zawodowe funkcjonariusz jest obowiązany uzyskać w okresie 3 lat od mianowania na stanowisko służbowe. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+- **b)**
+
+1a. W stosunku do funkcjonariuszy IWSW zgodę, o której mowa w ust. 1, wydaje Szef IWSW. ” , ust. 2 otrzymuje brzmienie: „
+
+- **c)**
+
+2. Dyrektor Generalny może, w szczególnie uzasadnionych przypadkach, na wniosek właściwego przełożonego, nadać stopień młodszego chorążego Służby Więziennej funkcjonariuszowi, który nie spełnia wymagań w zakresie wykształcenia. Nadanie kolejnego stopnia w korpusie chorążych następuje na wniosek właściwego przełożonego z uwzględnieniem art. 52 ust. 2 pkt 3 i art. 53. ” , dodaje się ust. 3 w brzmieniu: „
+
+- **d)**
+
+3. W przypadku nieuzupełnienia kwalifikacji zawodowych przez funkcjonariusza, o którym mowa w ust. 1 albo 1a, z przyczyn leżących po stronie tego funkcjonariusza właściwy przełożony przenosi funkcjonariusza na poprzednio zajmowane stanowisko albo stanowisko równorzędne ze stanowiskiem zajmowanym przed mianowaniem, o którym mowa w ust. 1. Przepisu art. 72 nie stosuje się. ” ;
+
+- **47)** w art. 49: w pkt 3 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d i e w brzmieniu: „ chorąży sztabowy Służby Więziennej, starszy chorąży sztabowy Służby Więziennej; ” , w pkt 4 w lit. g kropkę zastępuje się przecinkiem i dodaje się lit. h w brzmieniu: „ generał inspektor Służby Więziennej. ” ;
+    - **a)**
+    - **d)**
+    - **e)**
+    - **b)**
+    - **h)**
+
+- **48)** w art. 50: w ust. 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 i 4 w brzmieniu: „
+    - **a)**
+
+- **3)** Szef IWSW – funkcjonariuszom pełniącym służbę w IWSW;
+- **4)** Rektor – funkcjonariuszom pełniącym służbę na Uczelni. ” , po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „
+    - **b)**
+
+3a. Stopnie w korpusie chorążych Służby Więziennej nadaje Szef IWSW funkcjonariuszom IWSW.
+
+3b. Stopnie w korpusie chorążych Służby Więziennej nadaje Rektor funkcjonariuszom pełniącym służbę na Uczelni. ” , ust. 4 otrzymuje brzmienie: „
+
+- **c)**
+
+4. Pierwszy stopień w korpusie oficerów Służby Więziennej, stopień generała Służby Więziennej oraz stopień generała inspektora Służby Więziennej nadaje Prezydent Rzeczypospolitej Polskiej na wniosek Ministra Sprawiedliwości. Pozostałe stopnie w korpusie oficerów Służby Więziennej nadaje Minister Sprawiedliwości. ” ;
+
+- **49)** art. 51 otrzymuje brzmienie: „
+
+**Art. 51.**
+
+1. Pierwszy stopień w korpusie podoficerów, korpusie chorążych i korpusie oficerów może być nadany funkcjonariuszowi, który złożył egzamin odpowiednio na pierwszy stopień podoficerski, chorążego albo oficerski, a ponadto:
+
+- **1)** posiada aktualną pozytywną opinię służbową;
+- **2)** nie toczy się przeciwko niemu postępowanie karne o przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe lub postępowanie dyscyplinarne;
+- **3)** nie był skazany za nieumyślne przestępstwo ścigane z oskarżenia publicznego lub za nieumyślne przestępstwo skarbowe;
+- **4)** w przypadku gdy wobec funkcjonariusza warunkowo umorzono postępowanie karne – upłynęło 6 miesięcy od zakończenia okresu próby;
+- **5)** w przypadku gdy funkcjonariuszowi wymierzona została kara dyscyplinarna – nastąpiło zatarcie lub darowanie tej kary.
+
+2. Przed nadaniem stopnia, o którym mowa w ust. 1, funkcjonariusz podlega opiniowaniu służbowemu, jeżeli od dnia wydania ostatniej opinii służbowej o tym funkcjonariuszu upłynęło co najmniej 6 miesięcy. ” ;
+
+- **50)** w art. 52: w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) w korpusie szeregowych Służby Więziennej w stopniu szeregowego Służby Więziennej – rok; ” , – w pkt 3 w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c i d w brzmieniu: „ c) starszego chorążego Służby Więziennej – 3 lata, d) chorążego sztabowego Służby Więziennej – 3 lata; ” , dodaje się ust. 3 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+3. Stopień generała inspektora Służby Więziennej może być nadany generałowi Służby Więziennej powołanemu na stanowisko Dyrektora Generalnego. ” ;
+
+- **51)** po art. 53 dodaje się art. 53a w brzmieniu: „
+
+**Art. 53a.**
+
+1. Osobie przyjmowanej do służby w trybie art. 39, która posiada stopień wojskowy, Policji, Straży Granicznej, Straży Marszałkowskiej, Biura Ochrony Rządu, Służby Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Celno-Skarbowej, Służby Wywiadu Wojskowego albo Służby Kontrwywiadu Wojskowego, można nadać odpowiedni stopień Służby Więziennej.
+
+2. Nadanie stopnia, o którym mowa w ust. 1, następuje po ukończeniu na Uczelni odpowiednio studiów pierwszego stopnia, studiów drugiego stopnia lub studiów podyplomowych przygotowujących do zajmowania stanowisk oficerskich albo właściwego szkolenia zawodowego i uzyskaniu pozytywnego wyniku egzaminu, o którym mowa odpowiednio w art. 43zl ust. 1–3. Przepisy art. 50 ust. 2–3b stosuje się.
+
+3. W przypadku przyjmowania do służby osoby posiadającej stopień wojskowy podporucznika, stopień podkomisarza Policji, Służby Celno-Skarbowej albo Straży Marszałkowskiej lub stopień podporucznika Straży Granicznej, Biura Ochrony Rządu, Służby Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego albo Służby Kontrwywiadu Wojskowego odpowiedni pierwszy stopień oficerski Służby Więziennej nadaje Minister Sprawiedliwości. ” ;
+
+- **52)** w art. 54 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2–6 w brzmieniu: „
+
+2. Utrata stopnia Służby Więziennej następuje w razie stwierdzenia wygaśnięcia stosunku służbowego funkcjonariusza w przypadkach:
+
+- **1)** zrzeczenia się obywatelstwa polskiego;
+- **2)** skazania prawomocnym wyrokiem sądu na środek karny w postaci pozbawienia praw publicznych;
+- **3)** skazania prawomocnym wyrokiem sądu na karę pozbawienia wolności za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe, jeżeli jej wykonanie nie zostało warunkowo zawieszone.
+
+3. Obniżenie stopnia Służby Więziennej następuje w przypadku prawomocnego orzeczenia wobec funkcjonariusza w postępowaniu dyscyplinarnym kary obniżenia stopnia albo kary wyznaczenia na niższe stanowisko służbowe wraz z obniżeniem stopnia.
+
+4. Anulowanie funkcjonariuszowi stopnia Służby Więziennej może nastąpić w okresie między nadaniem tego stopnia a jego wręczeniem w szczególnie uzasadnionych przypadkach podyktowanych dobrem służby.
+
+5. Utrata stopnia lub jego obniżenie następuje na podstawie rozkazu personalnego wydawanego przez organ uprawniony do nadania tego stopnia. Rozkaz personalny o utracie lub obniżeniu stopnia podporucznika, nadanego postanowieniem Prezydenta Rzeczypospolitej Polskiej w trybie art. 50 ust. 4, wydaje Minister Sprawiedliwości.
+
+6. Anulowania nadania funkcjonariuszowi stopnia Służby Więziennej dokonuje organ uprawniony do jego nadania. ” ;
+
+- **53)** w art. 55 pkt 6 otrzymuje brzmienie: „
+- **6)** tryb nadawania, obniżania i anulowania funkcjonariuszom stopni ” ;
+- **54)** w art. 58 dodaje się ust. 4–6 w brzmieniu: „
+
+4. Funkcjonariusze IWSW otrzymują dodatek specjalny o charakterze stałym w wysokości do 30% kwoty bazowej.
+
+5. Szef IWSW ustala wysokość dodatku specjalnego, o którym mowa w ust. 4, na wniosek kierownika komórki organizacyjnej IWSW, w której funkcjonariusz IWSW pełni służbę, a kierownikom tych komórek organizacyjnych – bezpośrednio. Wysokość dodatku specjalnego ustala się, biorąc po uwagę zakres i charakter realizowanych zadań.
+
+6. Minister Sprawiedliwości ustala wysokość dodatku specjalnego, o którym mowa w ust. 4, Szefowi IWSW będącemu funkcjonariuszem bezpośrednio, a jego zastępcom będącym funkcjonariuszami – na wniosek Szefa IWSW. ” ;
+
+- **55)** w art. 60a dodaje się ust. 6 w brzmieniu: „
+
+6. W sprawach dotyczących miesięcznego uposażenia funkcjonariuszy za okres ustalony przepisami Kodeksu pracy jako okres urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, urlopu ojcowskiego i urlopu rodzicielskiego w zakresie nieuregulowanym niniejszą ustawą stosuje się odpowiednio przepisy ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy oraz ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa. ” ;
+
+- **56)** po art. 60i dodaje się art. 60j w brzmieniu: „
+
+**Art. 60j.** Funkcjonariuszowi w okresie urlopu wychowawczego nie przysługuje uposażenie. ” ;
+
+- **57)** w art. 62: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Uposażenie zasadnicze i dodatki do uposażenia o charakterze stałym są wypłacane w formie bezgotówkowej na wskazany numer rachunku bankowego w terminie, o którym mowa w ust. 2. ” , ust. 3 otrzymuje brzmienie: „
+
+- **b)**
+
+3. Uposażenie zasadnicze i dodatki do uposażenia o charakterze stałym na pisemny wniosek funkcjonariusza mogą być wypłacane bezpośrednio do rąk funkcjonariusza. ” ;
+
+- **58)** w art. 62i ust. 1 otrzymuje brzmienie: „
+
+1. Po ukończeniu studiów pierwszego stopnia na Uczelni funkcjonariusz w służbie kandydackiej ma prawo przystąpić do egzaminu na pierwszy stopień w korpusie chorążych Służby Więziennej. ” ;
+
+- **59)** w art. 62j ust. 1 otrzymuje brzmienie: „
+
+1. Po ukończeniu studiów drugiego stopnia na Uczelni funkcjonariusz w służbie kandydackiej ma prawo przystąpić do egzaminu na pierwszy stopień w korpusie oficerów Służby Więziennej. ” ;
+
+- **60)** tytuł rozdziału 8 otrzymuje brzmienie: „ Stanowiska służbowe w Służbie Więziennej zajmowane na podstawie powołania ” ;
+- **61)** po art. 62n w rozdziale 8 dodaje się art. 62o w brzmieniu: „
+
+**Art. 62o.** Stanowiska służbowe w Służbie Więziennej zajmowane na podstawie powołania obejmują:
+
+- **1)** wyższe stanowiska kierownicze w Służbie Więziennej;
+- **2)** stanowiska służbowe, o których mowa w art. 67a. ” ;
+- **62)** art. 63 otrzymuje brzmienie: „
+
+**Art. 63.**
+
+1. Stanowiska:
+
+- **1)** Dyrektora Generalnego,
+- **2)** Szefa IWSW,
+- **3)** zastępcy Dyrektora Generalnego,
+- **4)** zastępcy Szefa IWSW,
+- **5)** dyrektora okręgowego,
+- **6)** zastępcy dyrektora okręgowego,
+- **7)** dyrektora zakładu karnego i dyrektora aresztu śledczego,
+- **8)** zastępcy dyrektora zakładu karnego i zastępcy dyrektora aresztu śledczego,
+- **9)** Rektora, Komendanta Centralnego Ośrodka Szkolenia Służby Więziennej, komendanta ośrodka szkolenia Służby Więziennej i komendanta ośrodka doskonalenia kadr Służby Więziennej,
+- **10)** prorektora Uczelni, zastępcy Komendanta Centralnego Ośrodka Szkolenia Służby Więziennej, zastępcy komendanta ośrodka szkolenia Służby Więziennej i zastępcy komendanta ośrodka doskonalenia kadr Służby Więziennej są wyższymi stanowiskami kierowniczymi w Służbie Więziennej.
+
+2. Przełożonym osoby zajmującej wyższe stanowisko kierownicze w Służbie Więziennej, jeżeli przepisy ustawy nie stanowią inaczej, jest:
+
+- **1)** Minister Sprawiedliwości – w odniesieniu do Dyrektora Generalnego oraz Szefa IWSW;
+- **2)** Dyrektor Generalny – w odniesieniu do zastępcy Dyrektora Generalnego, dyrektora okręgowego, Komendanta Centralnego Ośrodka Szkolenia Służby Więziennej, komendanta ośrodka szkolenia Służby Więziennej oraz komendanta ośrodka doskonalenia kadr Służby Więziennej bezpośrednio mu podległego;
+- **3)** Szef IWSW – w odniesieniu do zastępcy Szefa IWSW;
+- **4)** dyrektor okręgowy – w odniesieniu do zastępcy dyrektora okręgowego, dyrektora zakładu karnego i dyrektora aresztu śledczego oraz komendanta ośrodka doskonalenia kadr Służby Więziennej;
+- **5)** Rektor – w odniesieniu do prorektora Uczelni;
+- **6)** dyrektor zakładu karnego i dyrektor aresztu śledczego, Komendant Centralnego Ośrodka Szkolenia Służby Więziennej, komendant ośrodka szkolenia Służby Więziennej i komendant ośrodka doskonalenia kadr Służby Więziennej – w odniesieniu do swoich zastępców.
+
+3. W przypadkach uzasadnionych potrzebami służby Dyrektor Generalny może przejąć kompetencje dyrektora okręgowego w sprawach ze stosunku służbowego. ” ;
+
+- **63)** w art. 64: po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+
+1a. Szefa IWSW powołuje i odwołuje Minister Sprawiedliwości. ” , dodaje się ust. 3 i 4 w brzmieniu: „
+
+- **b)**
+
+3. Zastępców Szefa IWSW powołuje i odwołuje Minister Sprawiedliwości na wniosek Szefa IWSW.
+
+4. W razie zwolnienia stanowiska Szefa IWSW Minister Sprawiedliwości, do czasu powołania nowego Szefa, powierza pełnienie obowiązków Szefa IWSW, na okres nie dłuższy niż 6 miesięcy, jednemu z zastępców Szefa IWSW lub wyznaczonemu przez siebie oficerowi spośród funkcjonariuszy IWSW. ” ;
+
+- **64)** art. 66a otrzymuje brzmienie: „
+
+**Art. 66a.**
+
+1. Senat Uczelni powołuje Rektora na pięcioletnią kadencję spośród pracowników Uczelni lub funkcjonariuszy pełniących służbę na Uczelni, posiadających co najmniej stopień doktora.
+
+2. Powołanie, o którym mowa w ust. 1, następuje nie wcześniej niż 9 miesięcy i nie później niż 4 miesiące przed upływem bieżącej kadencji Rektora.
+
+3. Rektor powołuje i odwołuje prorektorów Uczelni spośród pracowników Uczelni lub funkcjonariuszy pełniących służbę na Uczelni, posiadających co najmniej stopień doktora.
+
+4. Kadencja Rektora wygasa w przypadku:
+
+- **1)** upływu jego kadencji;
+- **2)** jego śmierci;
+- **3)** złożenia przez niego rezygnacji;
+- **4)** pisemnego zgłoszenia przez niego wystąpienia ze służby albo rozwiązania przez niego umowy o pracę;
+- **5)** jego odwołania.
+
+5. Senat Uczelni odwołuje Rektora przed upływem kadencji, jeżeli:
+
+- **1)** nie wypełnia on swoich obowiązków na skutek choroby trwającej nieprzerwanie przez okres co najmniej 180 dni w roku kalendarzowym;
+- **2)** został on skazany prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe.
+
+6. Sprawy ze stosunku służbowego Rektora, w szczególności określone w art. 88, art. 98 i art. 192, rozstrzyga Senat Uczelni w formie pisemnej. ” ;
+
+- **65)** w art. 67 ust. 1 otrzymuje brzmienie: „
+
+1. Komendanta Centralnego Ośrodka Szkolenia Służby Więziennej, komendanta ośrodka szkolenia Służby Więziennej i komendanta ośrodka doskonalenia kadr Służby Więziennej powołuje i odwołuje ze stanowiska Dyrektor Generalny. ” ;
+
+- **66)** po art. 67 dodaje się art. 67a w brzmieniu: „
+
+**Art. 67a.**
+
+1. Stanowiskami służbowymi zajmowanymi na podstawie powołania, innymi niż wyższe stanowiska kierownicze w Służbie Więziennej, są:
+
+- **1)** w Centralnym Zarządzie Służby Więziennej: dyrektor biura, zastępca dyrektora biura, główny księgowy Centralnego Zarządu Służby Więziennej, naczelnik wydziału, kierownik zespołu;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **2)** w IWSW – naczelnik wydziału zamiejscowego;
+- **3)** w okręgowym inspektoracie Służby Więziennej: główny księgowy, naczelny lekarz, kierownik zespołu;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **4)** w Centralnym Ośrodku Szkolenia Służby Więziennej, ośrodku szkolenia Służby Więziennej, ośrodku doskonalenia kadr Służby Więziennej: kierownik zakładu, kierownik oddziału zamiejscowego, główny księgowy, kierownik działu, kierownik ambulatorium, zastępca kierownika działu, kierownik zespołu;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+
+- **5)** w zakładzie karnym i areszcie śledczym: kierownik oddziału, główny księgowy, dyrektor szpitala, ordynator, kierownik działu, kierownik ambulatorium, kierownik domu matki i dziecka, kierownik poradni lub pracowni, kierownik ośrodka diagnostycznego, kierownik apteki, zastępca kierownika działu, kierownik zespołu.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
+    - **k)**
+    - **l)**
+
+2. Powołania funkcjonariusza na stanowisko służbowe, o którym mowa w ust. 1, dokonuje kierownik jednostki organizacyjnej. ” ;
+
+- **67)** w art. 68 ust. 4–6 otrzymują brzmienie: „
+
+4. Funkcjonariusza odwołanego z zajmowanego stanowiska można przenieść za jego zgodą odpowiednio do dyspozycji właściwego przełożonego, o którym mowa w art. 63 ust. 2, będącego przełożonym tego funkcjonariusza. Okres pozostawania funkcjonariusza w dyspozycji nie może być dłuższy niż 6 miesięcy. Po upływie tego okresu funkcjonariusza powołuje się albo przenosi na inne stanowisko służbowe. Powołanie albo przeniesienie na stanowisko służbowe niższe od dotychczas zajmowanego następuje za zgodą funkcjonariusza. Przepis art. 72 ust. 1 stosuje się. W przypadku niewyrażenia zgody przez funkcjonariusza zwalnia się go ze służby.
+
+5. W okresie pozostawania w dyspozycji funkcjonariusz zachowuje prawo do uposażenia i innych świadczeń pieniężnych przysługujących na ostatnio zajmowanym na podstawie powołania stanowisku służbowym, z uwzględnieniem powstałych w tym okresie zmian mających wpływ na prawo do uposażenia i innych świadczeń pieniężnych albo na ich wysokość.
+
+6. W okresie pozostawania w dyspozycji funkcjonariusz jest obowiązany wykonywać obowiązki służbowe na polecenie przełożonego, w którego dyspozycji pozostaje, oraz jest funkcjonariuszem jednostki organizacyjnej, w której pełni służbę przełożony, o którym mowa w ust. 4. ” ;
+
+- **68)** po art. 69 dodaje się art. 69a w brzmieniu: „
+
+**Art. 69a.**
+
+1. W szczególnie uzasadnionych przypadkach na wniosek funkcjonariusza, pozytywnie zaopiniowany przez Rektora, Dyrektor Generalny może przenieść funkcjonariusza ze służby przygotowawczej do służby kandydackiej, jeżeli funkcjonariusz ukończył kurs przygotowawczy oraz posiada pozytywną opinię służbową.
+
+2. Rektor może pozytywnie zaopiniować wniosek funkcjonariusza o przeniesienie ze służby przygotowawczej do służby kandydackiej w przypadku posiadania miejsc w ramach limitu przyjęć na studia ustalonego przez Ministra Sprawiedliwości, określając poziom, kierunek i profil studiów dla funkcjonariusza. ” ;
+
+- **69)** w art. 70: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Funkcjonariusz może być z urzędu delegowany na okres do 12 miesięcy do czasowego pełnienia służby w innej jednostce organizacyjnej, w tym do instytucji gospodarki budżetowej, o której mowa w art. 8 ust. 5, w przypadkach uzasadnionych ważnymi potrzebami służby; ponowne lub dalsze delegowanie przed upływem 2 lat wymaga zgody funkcjonariusza. Funkcjonariusz może być delegowany również na własną prośbę, jeżeli nie stoją temu na przeszkodzie względy służbowe. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+- **b)**
+
+1a. Funkcjonariusz może być w każdym czasie z urzędu odwołany z delegowania. Funkcjonariusz może być odwołany z delegowania również na własną prośbę, jeżeli nie stoją temu na przeszkodzie względy służbowe. ” ;
+
+- **70)** w art. 72: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Funkcjonariusz przeniesiony lub powołany na stanowisko służbowe zaszeregowane do niższego uposażenia zasadniczego zachowuje prawo do uposażenia pobieranego na poprzednio zajmowanym stanowisku do czasu uzyskania uposażenia zasadniczego równego dotychczas pobieranemu lub wyższego. ” , dodaje się ust. 4 w brzmieniu: „
+
+- **b)**
+
+4. Rektor albo Szef IWSW w przypadkach szczególnie uzasadnionych może wyrazić zgodę na zachowanie przez podległego funkcjonariusza, o którym mowa w ust. 2, przeniesionego lub powołanego na stanowisko służbowe zaszeregowane do niższego uposażenia zasadniczego, prawa do uposażenia należnego na poprzednio zajmowanym stanowisku. ” ;
+
+- **71)** w art. 73: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. W razie:
+
+- **1)** powołania na wyższe stanowisko kierownicze w Służbie Więziennej do pełnienia służby w innej jednostce organizacyjnej położonej w innej miejscowości lub
+- **2)** przeniesienia z urzędu do pełnienia służby w innej jednostce organizacyjnej położonej w innej miejscowości albo
+- **3)** delegowania do czasowego pełnienia służby w innej jednostce organizacyjnej położonej w innej miejscowości funkcjonariuszowi przysługuje prawo do lokalu mieszkalnego albo kwatery tymczasowej, o których mowa w rozdziale 18. ” , w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Funkcjonariuszowi powołanemu na wyższe stanowisko kierownicze w Służbie Więziennej lub przeniesionemu z urzędu do pełnienia służby w innej jednostce organizacyjnej położonej w innej miejscowości przysługują należności z tytułu przeniesień: ” ;
+    - **b)**
+
+- **72)** w art. 75 dodaje się ust. 3 w brzmieniu: „
+
+3. W odpowiedzi na informację o naborze w instytucji zagranicznej funkcjonariusz może wystąpić drogą służbową do Dyrektora Generalnego z wnioskiem o oddelegowanie do pełnienia służby w tej instytucji. ” ;
+
+- **73)** w art. 80 dodaje się ust. 4 w brzmieniu: „
+
+4. W przypadku określenia zasad i trybu finansowania oddelegowania w umowie z organami instytucji zagranicznej nie stosuje się przepisów ustawy w zakresie finansowania funkcjonariusza oddelegowanego do pełnienia służby w instytucji zagranicznej. ” ;
+
+- **74)** w art. 83: po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+
+1a. Przełożony, o którym mowa w art. 63 ust. 2, może powierzyć funkcjonariuszowi na czas nieprzekraczający 12 miesięcy obowiązki służbowe na wyższym stanowisku kierowniczym w jednostce organizacyjnej z uposażeniem należnym na tym stanowisku służbowym. ” , ust. 2 otrzymuje brzmienie: „
+
+- **b)**
+
+2. Jeżeli zachodzi konieczność zastępstwa funkcjonariusza w czasie jego długotrwałej nieobecności w służbie, przełożony może w tym celu powierzyć innemu funkcjonariuszowi pełnienie obowiązków służbowych na stanowisku zajmowanym przez nieobecnego funkcjonariusza przez okres trwania jego nieobecności; w takim przypadku uposażenie funkcjonariusza nie może być obniżone. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+
+- **c)**
+
+2a. Przełożony może w każdym czasie z urzędu lub na prośbę funkcjonariusza odwołać go z pełnienia powierzonych obowiązków na stanowiskach, o których mowa w ust. 1 i 2, w szczególności jeżeli ustała konieczność powierzenia obowiązków służbowych lub zastępstwa nieobecnego funkcjonariusza. ” , ust. 3 otrzymuje brzmienie: „
+
+- **d)**
+
+3. Po upływie maksymalnego okresu powierzenia funkcjonariuszowi obowiązków służbowych na innym stanowisku, o którym mowa w ust. 1 i 1a, ponowne powierzenie lub przedłużenie powierzenia obowiązków na tym samym stanowisku służbowym może nastąpić w wyjątkowych i uzasadnionych przypadkach, za zgodą tego funkcjonariusza; przerwa w wykonywaniu tych obowiązków wynosi co najmniej 12 miesięcy. ” ;
+
+- **75)** art. 88 otrzymuje brzmienie: „
+
+**Art. 88.** Opinie służbowe wydają:
+
+- **1)** Minister Sprawiedliwości – o Dyrektorze Generalnym i Szefie IWSW;
+- **2)** Dyrektor Generalny – o swoich zastępcach, kierownikach komórek organizacyjnych w Centralnym Zarządzie Służby Więziennej, dyrektorach okręgowych, Komendancie Centralnego Ośrodka Szkolenia Służby Więziennej, komendantach ośrodków szkolenia Służby Więziennej oraz komendantach ośrodków doskonalenia kadr Służby Więziennej bezpośrednio mu podległych;
+- **3)** Szef IWSW – o swoich zastępcach i naczelnikach;
+- **4)** dyrektor okręgowy – na terenie swojego działania – o swoich zastępcach i funkcjonariuszach pełniących służbę w okręgowym inspektoracie Służby Więziennej, dyrektorach zakładów karnych i dyrektorach aresztów śledczych oraz komendantach ośrodków doskonalenia kadr Służby Więziennej;
+- **5)** Rektor – o prorektorach Uczelni, kierownikach komórek organizacyjnych Uczelni oraz funkcjonariuszach pełniących służbę na stanowiskach samodzielnych na Uczelni;
+- **6)** Komendant Centralnego Ośrodka Szkolenia Służby Więziennej, komendant ośrodka szkolenia Służby Więziennej, komendant ośrodka doskonalenia kadr Służby Więziennej – odpowiednio o swoich zastępcach, kierownikach komórek organizacyjnych oraz funkcjonariuszach pełniących służbę na stanowiskach samodzielnych;
+- **7)** dyrektor zakładu karnego i dyrektor aresztu śledczego – o swoich zastępcach, kierownikach komórek organizacyjnych oraz funkcjonariuszach pełniących służbę na stanowiskach samodzielnych;
+- **8)** kierownik komórki organizacyjnej – o podległych mu bezpośrednio funkcjonariuszach;
+- **9)** przełożony właściwy w czasie delegowania – o funkcjonariuszach delegowanych do czasowego pełnienia służby w innej jednostce organizacyjnej. ” ;
+- **76)** w art. 90: ust. 4 otrzymuje brzmienie: „
+    - **a)**
+
+4. Jeżeli opinia została wydana przez Ministra Sprawiedliwości, Dyrektor Generalny lub Szef IWSW mogą zwrócić się do Ministra Sprawiedliwości z wnioskiem o jej zmianę. ” , dodaje się ust. 5 w brzmieniu: „
+
+- **b)**
+
+5. Jeżeli opinia została wydana przez Rektora, osoby, o których mowa w art. 88 pkt 5, mogą zwrócić się do Rektora z wnioskiem o jej zmianę. ” ;
+
+- **77)** art. 94 otrzymuje brzmienie: „
+
+**Art. 94.**
+
+1. Funkcjonariusza zawiesza się w czynnościach służbowych w razie tymczasowego aresztowania.
+
+2. Funkcjonariusza można zawiesić w czynnościach służbowych w razie wszczęcia przeciwko niemu postępowania karnego w sprawie o przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe, umyślne albo nieumyślne, lub wszczęcia postępowania dyscyplinarnego, jeżeli jest to celowe z uwagi na dobro postępowania lub dobro służby.
+
+3. W razie wniesienia przeciwko funkcjonariuszowi aktu oskarżenia określonego w art. 55 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego stosuje się odpowiednio ust. 2.
+
+4. Zawieszenie może nastąpić na czas nie dłuższy niż 3 miesiące. Jeżeli okres tymczasowego aresztowania jest dłuższy niż 3 miesiące, zawieszenie ulega z mocy prawa przedłużeniu do czasu zakończenia tymczasowego aresztowania.
+
+5. W szczególnie uzasadnionych przypadkach okres zawieszenia w czynnościach służbowych można przedłużyć do czasu zakończenia postępowania karnego, karnego skarbowego lub dyscyplinarnego.
+
+6. Zawieszenia oraz uchylenia zawieszenia w czynnościach służbowych dokonuje przełożony właściwy do mianowania funkcjonariusza na zajmowane stanowisko służbowe. ” ;
+
+- **78)** w art. 95 w ust. 2 skreśla się wyrazy „wydalenia ze służby”;
+- **79)** w art. 96: w ust. 2: – pkt 6 otrzymuje brzmienie: „ 6) nieobecności w służbie spowodowanej chorobą, trwającej nieprzerwanie przez okres 12 miesięcy, lub jeżeli nieobecność w służbie spowodowana chorobą w okresie ostatnich 2 lat wyniosła łącznie powyżej 500 dni; ” , – uchyla się pkt 9, po ust. 3 dodaje się ust. 3a-3c w brzmieniu: „
+    - **a)**
+    - **b)**
+
+3a. Funkcjonariusz w pisemnym zgłoszeniu wystąpienia ze służby może wskazać termin zwolnienia.
+
+3b. Jeżeli ze względu na potrzeby służby zwolnienie funkcjonariusza w terminie, o którym mowa w ust. 3a, nie jest możliwe, przełożony zwalnia go w terminie określonym w ust. 3, chyba że funkcjonariusz wycofa pisemne zgłoszenie wystąpienia ze służby.
+
+3c. Przepisów ust. 3–3b nie stosuje się do funkcjonariusza pełniącego służbę w jednostce organizacyjnej objętej militaryzacją. ” , dodaje się ust. 6 w brzmieniu: „
+
+- **c)**
+
+6. Do okresu nieobecności w służbie, o którym mowa w ust. 2 pkt 6, wlicza się okresy poprzedniej nieobecności spowodowanej chorobą, jeżeli przerwa pomiędzy ustaniem poprzedniej a powstaniem ponownej nieobecności nie przekraczała 60 dni. ” ;
+
+- **80)** art. 98 otrzymuje brzmienie: „
+
+**Art. 98.**
+
+1. Zwolnienia ze służby albo stwierdzenia wygaśnięcia stosunku służbowego dokonuje:
+
+- **1)** przełożony, o którym mowa w art. 63 ust. 2 – w stosunku do funkcjonariusza powołanego na wyższe stanowisko kierownicze;
+- **2)** przełożony właściwy do powołania funkcjonariusza na stanowisko służbowe, o którym mowa w art. 67a ust. 1 – w stosunku do funkcjonariusza powołanego na to stanowisko;
+- **3)** przełożony właściwy do mianowania funkcjonariusza na ostatnio zajmowane stanowisko służbowe – w stosunku do funkcjonariusza mianowanego na to stanowisko.
+
+2. Zwolnienia ze służby z przyczyny określonej w art. 96 ust. 2 pkt 10 dokonuje przełożony przełożonego, o którym mowa w ust. 1.
+
+3. Zwolnienia ze służby Dyrektora Generalnego oraz Szefa IWSW dokonuje Minister Sprawiedliwości.
+
+4. Na Uczelni zwolnienia ze służby z przyczyny określonej w art. 96 ust. 2 pkt 10 dokonuje Rektor. ” ;
+
+- **81)** art. 99 otrzymuje brzmienie: „
+
+**Art. 99.**
+
+1. Funkcjonariusz w służbie stałej zwolniony ze służby na podstawie art. 96 ust. 1 pkt 2 albo ust. 2 pkt 1–8 i 10, a także art. 68 ust. 4 oraz funkcjonariusz w służbie stałej, którego stosunek służbowy wygasł na podstawie art. 97 ust. 1 pkt 1, otrzymuje odprawę.
+
+2. Funkcjonariusz w służbie przygotowawczej, którego stosunek służbowy wygasł na podstawie art. 97 ust. 1 pkt 1, otrzymuje odprawę w wysokości trzymiesięcznego uposażenia zasadniczego wraz z dodatkami o charakterze stałym należnego na ostatnio zajmowanym stanowisku służbowym. ” ;
+
+- **82)** po art. 105 dodaje się art. 105a w brzmieniu: „
+
+**Art. 105a.** Do pracownika, z którym stosunek pracy uległ rozwiązaniu z jego winy bez wypowiedzenia lub na własną prośbę przed upływem 5 lat od odbycia kursu przygotowawczego lub szkolenia zawodowego, a także studiów na Uczelni albo studiów podyplomowych na Uczelni, stosuje się odpowiednio przepisy art. 103 ust. 1 i 2 pkt 1, 3 i 4, ust. 3 i 4, art. 104, art. 105 i art. 106 ust. 1. ” ;
+
+- **83)** w art. 107 uchyla się ust. 2;
+- **84)** po art. 109 dodaje się art. 109a i art. 109b w brzmieniu: „
+
+**Art. 109a.**
+
+1. Funkcjonariuszowi, który po zwolnieniu ze służby w Służbie Więziennej podjął pracę, okres tej służby wlicza się do okresu zatrudnienia w zakresie uprawnień wynikających z prawa pracy.
+
+2. Przepisu ust. 1 nie stosuje się do funkcjonariusza, którego stosunek służbowy wygasł na podstawie art. 97 ust. 1 pkt 2, 3 i 5. Okres służby traktuje się jako pracę w szczególnym charakterze w rozumieniu przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. ” ;
+
+- **85)** w art. 110 po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+1a. Badania psychologiczne mogą być wykonywane przez psychologów zatrudnionych w jednostkach organizacyjnych przed skierowaniem kandydata do służby w Służbie Więziennej lub funkcjonariusza do komisji lekarskiej. ” ;
+
+- **86)** w art. 112 ust. 4 otrzymuje brzmienie: „
+
+4. Jeżeli jest to uzasadnione stanem zdrowia funkcjonariusza, jednostka służby medycyny pracy, działając z urzędu, może wystąpić do jego przełożonego z wnioskiem o skierowanie tego funkcjonariusza do komisji lekarskiej w celu określenia stanu zdrowia oraz ustalenia zdolności fizycznej i psychicznej do służby, jak również związku poszczególnych schorzeń ze szczególnymi warunkami i właściwościami służby. Z wnioskiem, o którym mowa w zdaniu pierwszym, może również wystąpić do swojego przełożonego funkcjonariusz. ” ;
+
+- **87)** po art. 112 dodaje się art. 112a w brzmieniu: „
+
+**Art. 112a.**
+
+1. W celu ustalenia zdolności do wykonywania zadań na zajmowanym stanowisku służbowym funkcjonariusz jest obowiązany poddać się badaniom okresowym, kontrolnym lub innym wynikającym z pogorszenia stanu zdrowia, ze zmiany stanowiska pracy lub zmiany warunków pełnienia służby oraz określonym w art. 113, zwanym dalej „badaniami profilaktycznymi”, w terminie wskazanym w skierowaniu na takie badanie.
+
+2. Badania profilaktyczne wykonuje się na podstawie skierowania wystawianego przez:
+
+- **1)** przełożonego;
+- **2)** Ministra Sprawiedliwości w stosunku do Dyrektora Generalnego oraz Szefa IWSW;
+- **3)** Senat Uczelni w stosunku do Rektora.
+
+3. Na pierwsze badanie okresowe funkcjonariusz jest kierowany nie później niż 60 dni przed mianowaniem na stałe.
+
+4. Rodzaj, zakres i częstotliwość badań profilaktycznych są uzależnione od czynników narażenia wynikających z charakterystyki służby pełnionej przez funkcjonariusza.
+
+5. Lekarz wykorzystuje wskazówki metodyczne w sprawie przeprowadzania badań profilaktycznych pracowników określone w przepisach wykonawczych wydanych na podstawie art. 229 § 8 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
+
+6. Lekarz przeprowadzający badania profilaktyczne, w celu uwzględnienia wszystkich czynników szkodliwych lub uciążliwych i innych wynikających z warunków pełnienia służby wskazanych w skierowaniu na badania, może poszerzyć ich zakres o dodatkowe badania lekarskie, konsultacje u lekarzy specjalistów lub badania diagnostyczne, a także wyznaczyć termin następnego badania profilaktycznego krótszy niż wynikałoby to z przepisów wykonawczych wydanych na podstawie art. 229 § 8 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, jeżeli stwierdzi, że jest to niezbędne dla ustalenia zdolności do wykonywania zadań na zajmowanym stanowisku służbowym. Badania i konsultacje stanowią część badań profilaktycznych.
+
+7. Skierowanie na badania profilaktyczne zawiera w szczególności imię i nazwisko, numer PESEL, adres zamieszkania, stanowisko służbowe funkcjonariusza kierowanego na badania oraz opis warunków pełnienia służby występujących na zajmowanym stanowisku służbowym, w tym czynników szkodliwych lub uciążliwych, o których mowa w przepisach wykonawczych wydanych na podstawie art. 229 § 8 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
+
+8. Skierowanie na badania:
+
+- **1)** kontrolne – wystawia się najpóźniej w dniu zgłoszenia się funkcjonariusza do służby po zakończeniu zwolnienia lekarskiego;
+- **2)** okresowe – wystawia się nie później niż w terminie 30 dni przed upływem ważności orzeczenia lekarskiego;
+- **3)** inne, wynikające ze zmiany stanowiska pracy, zmiany warunków pełnienia służby i określone w art. 113 – wystawia się niezwłocznie, przed podjęciem zatrudnienia w warunkach opisanych w skierowaniu.
+
+9. Skierowanie na badania profilaktyczne wystawia się w 3 egzemplarzach, dla:
+
+- **1)** lekarza przeprowadzającego badania;
+- **2)** funkcjonariusza;
+- **3)** przełożonego – do akt osobowych funkcjonariusza.
+
+10. Badania profilaktyczne przeprowadza się w godzinach służby.
+
+11. Na badanie kontrolne funkcjonariusz zgłasza się z pełną dokumentacją medyczną z przebytego leczenia.
+
+12. Badania profilaktyczne kończą się orzeczeniem lekarskim stwierdzającym:
+
+- **1)** brak przeciwwskazań zdrowotnych, wobec czego funkcjonariusz jest: zdolny do pełnienia służby na zajmowanym stanowisku służbowym, zdolny do pełnienia służby na zajmowanym stanowisku służbowym z zachowaniem wskazań i przeciwwskazań lekarskich wydanych czasowo;
+    - **a)**
+    - **b)**
+
+- **2)** istnienie przeciwwskazań zdrowotnych, wobec czego funkcjonariusz jest niezdolny do pełnienia służby na zajmowanym stanowisku służbowym ze względu na: podejrzenie powstania choroby lub stwierdzoną chorobę powstałą w związku ze szczególnymi właściwościami lub warunkami służby, niezdolność do wykonywania dotychczasowej służby z powodu wypadku pozostającego w związku z pełnieniem służby, szkodliwy wpływ wykonywanej służby na zdrowie, wobec czego stał się niezdolny do pełnienia służby na zajmowanym stanowisku służbowym, w związku z powyższym konieczne jest przeniesienie do pełnienia służby na innym stanowisku ze wskazaniem okresu obowiązywania przeniesienia i warunków służby.
+    - **a)**
+    - **b)**
+    - **c)**
+
+13. Od orzeczenia lekarskiego funkcjonariuszowi i odpowiednim przełożonym, o których mowa w ust. 2, przysługuje odwołanie w terminie 7 dni od dnia otrzymania orzeczenia.
+
+14. Odwołanie od orzeczenia lekarskiego wraz z uzasadnieniem wnosi się na piśmie, za pośrednictwem lekarza, który wydał to orzeczenie, do jednostki nadrzędnej medycyny pracy Służby Więziennej w Centralnym Zarządzie Służby Więziennej.
+
+15. Lekarz, za pośrednictwem którego składane jest odwołanie, w terminie 7 dni od dnia otrzymania odwołania przekazuje je wraz z uzasadnieniem i dokumentacją stanowiącą podstawę wydanego orzeczenia lekarskiego do właściwej jednostki, o której mowa w ust. 14.
+
+16. Odwołanie rozpatruje się w terminie 30 dni od dnia jego otrzymania, a w skomplikowanych przypadkach – w terminie 60 dni od dnia jego otrzymania.
+
+17. Rozpatrując odwołanie, jednostka nadrzędna medycyny pracy Służby Więziennej w Centralnym Zarządzie Służby Więziennej orzeka na podstawie dokumentacji stanowiącej podstawę wydanego orzeczenia lekarskiego uzyskanej od właściwej jednostki, o której mowa w ust. 14.
+
+18. Po rozpatrzeniu odwołania jednostka nadrzędna medycyny pracy Służby Więziennej w Centralnym Zarządzie Służby Więziennej podtrzymuje orzeczenie, od którego wniesiono odwołanie, przekazuje sprawę do ponownego rozpatrzenia przez podmiot, który wydał orzeczenie, albo wydaje własne orzeczenie lekarskie.
+
+19. Orzeczenie lekarskie wydane w trybie odwołania jest ostateczne.
+
+20. Orzeczenia lekarskie, o których mowa w ust. 12 i 18, wydaje się w 3 egzemplarzach:
+
+- **1)** dla funkcjonariusza;
+- **2)** dla przełożonego kierującego na badania;
+- **3)** do dokumentacji podmiotu wydającego orzeczenie.
+
+21. Minister Sprawiedliwości określi, w drodze rozporządzenia:
+
+- **1)** wzory dokumentów związanych ze sprawowaniem profilaktycznej opieki zdrowotnej nad funkcjonariuszami, w szczególności wzór skierowania na badania profilaktyczne, wzór karty badań profilaktycznych i wzór orzeczenia lekarskiego, mając na względzie potrzebę zapewnienia rzetelności ich prowadzenia i jednolitości informacji w nich zawartych;
+- **2)** podmioty upoważnione do prowadzenia dokumentów, o których mowa w pkt 1, oraz ich formy, mając na uwadze odrębność zakresów działania lekarzy, psychologów i pielęgniarek oraz możliwość prowadzenia dokumentacji w formie elektronicznej;
+- **3)** sposób przechowywania i udostępniania dokumentów, o których mowa w pkt 1, uwzględniając konieczność zapewnienia realizacji prawa dostępu do dokumentacji medycznej oraz ochrony danych i informacji dotyczących stanu zdrowia funkcjonariusza. ” ;
+- **88)** w art. 113 ust. 1 otrzymuje brzmienie: „
+
+1. Właściwa jednostka służby medycyny pracy może na wniosek właściwego przełożonego przeprowadzać badania okresowe funkcjonariusza poza terminem wynikającym z przeprowadzonego wcześniej badania wstępnego lub okresowego, lub kontrolnego, jeżeli jest to uzasadnione:
+
+- **1)** podejrzeniem pogorszenia się jego stanu zdrowia, mogącego mieć negatywny wpływ na pełnienie służby na aktualnie zajmowanym stanowisku służbowym lub bezpieczeństwo jednostki organizacyjnej, albo
+- **2)** koniecznością oceny zwolnienia lekarskiego i związku choroby ze służbą – w przypadku kontynuowania leczenia przez funkcjonariusza po wydaniu przez komisję lekarską orzeczenia ustalającego związek ze służbą stwierdzonego uszczerbku na zdrowiu, powstałego wskutek wypadku pozostającego w związku z pełnieniem służby lub wskutek choroby powstałej w związku ze szczególnymi właściwościami lub warunkami służby. ” ;
+- **89)** art. 116 i art. 117 otrzymują brzmienie: „
+
+**Art. 116.**
+
+1. W przypadku odniesienia ran, kontuzji lub urazu psychicznego w związku z pełnieniem służby lub ze względu na schorzenie lub stan psychofizyczny pozostające w związku z pełnieniem służby funkcjonariusz pełniący służbę w zakładzie karnym lub w areszcie śledczym, zgodnie ze wskazaniami lekarza medycyny pracy, może zostać skierowany na bezpłatny turnus profilaktyczno-zdrowotny, w którym bierze udział w czasie pełnienia służby.
+
+2. Turnus profilaktyczno-zdrowotny trwa nie dłużej niż 14 dni kalendarzowych i obejmuje działania rehabilitacyjne, antystresowe i profilaktykę zdrowotną, w tym profilaktykę psychologiczną.
+
+3. Przepisy ust. 1 i 2 stosuje się odpowiednio do pracowników.
+
+4. Wniosek o skierowanie na turnus profilaktyczno-zdrowotny zawiera następujące dane osobowe:
+
+- **1)** funkcjonariusza: imię i nazwisko, stopień, zajmowane stanowisko służbowe, miejsce pełnienia służby, staż służby, telefon kontaktowy;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+
+- **2)** pracownika: imię i nazwisko, zajmowane stanowisko służbowe, miejsce pracy, staż pracy, telefon kontaktowy.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+5. Roczna ewidencja uczestników turnusów profilaktyczno-zdrowotnych zawiera następujące dane osobowe:
+
+- **1)** stopień, jeżeli uczestnik jest funkcjonariuszem;
+- **2)** stanowisko służbowe;
+- **3)** imię i nazwisko;
+- **4)** miejsce pełnienia służby przez funkcjonariusza lub miejsce pracy pracownika.
+
+6. Dyrektor Generalny, w drodze zarządzenia, corocznie ustala liczbę i terminy turnusów profilaktyczno-zdrowotnych, limity miejsc oraz podmioty prowadzące te turnusy.
+
+7. Minister Sprawiedliwości określi, w drodze rozporządzenia:
+
+- **1)** procedurę kierowania funkcjonariusza i pracownika na turnus profilaktyczno-zdrowotny,
+- **2)** podmiot kierujący na turnus profilaktyczno-zdrowotny,
+- **3)** ramowy program turnusu profilaktyczno-zdrowotnego,
+- **4)** rodzaje i wzory dokumentów wystawianych w związku z kierowaniem na turnus profilaktyczno-zdrowotny uwzględniając potrzeby funkcjonariusza i pracownika wynikające z ich aktualnego stanu zdrowia.
 
 **Art. 117.**
 
@@ -835,7 +1589,7 @@ source: "isap-pdf"
 
 3. Za osobę kierującą pracownikami w rozumieniu przepisów działu dziesiątego ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, a także przepisów wykonawczych wydanych na jego podstawie, uważa się przełożonego lub funkcjonariusza albo pracownika odpowiedzialnego za funkcjonowanie służby, działu, oddziału, zespołu lub grupy funkcjonariuszy.
 
-4. W sprawach bezpieczeństwa i higieny służby do funkcjonariuszy stosuje się odpowiednio przepisy działu dziesiątego ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, a także przepisy wykonawcze wydane na jego podstawie, z wyłączeniem przepisów art. 209 , art. 209 , art. 210, art. 229 § 1, art. 230, art. 231, art. 234 § 2, art. 235–235 , art. 237–237 , art. 237 § 1 pkt 1 i § 2–4, art. 237 , art. 237 § 3, art. 237 § 4 i art. 237 –237 .
+4. W sprawach bezpieczeństwa i higieny służby do funkcjonariuszy stosuje się odpowiednio przepisy działu dziesiątego ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, a także przepisy wykonawcze wydane na jego podstawie, z wyłączeniem przepisów art. 2092, art. 2093, art. 210, art. 229 § 1, art. 230, art. 231, art. 234 § 2, art. 235–2352, art. 237–2372, art. 2377 § 1 pkt 1 i § 2–4, art. 2378, art. 2379 § 3, art. 23711 § 4 i art. 23711a-23713a.
 
 5. Funkcjonariusz jest obowiązany:
 
@@ -844,9 +1598,11 @@ source: "isap-pdf"
 - **3)** stosować się do zaleceń lekarza medycyny pracy Służby Więziennej;
 - **4)** stosować środki ochrony zbiorowej, a także używać przydzielonych środków ochrony indywidualnej oraz odzieży i obuwia roboczego zgodnie z przeznaczeniem, również w przypadku realizowanych zadań związanych z dozorowaniem osób pozbawionych wolności wykonujących pracę w warunkach zagrożeń czynnikami występującymi w środowisku służby.
 
-6. Przełożony, w celu realizacji zadań w dziedzinie bezpieczeństwa i higieny służby, przestrzega przepisów i zasad bezpieczeństwa i higieny pracy określonych w art. 217–222 , art. 228 § 3, art. 229 § 2–7, art. 237 i art. 237 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.”;
+6. Przełożony, w celu realizacji zadań w dziedzinie bezpieczeństwa i higieny służby, przestrzega przepisów i zasad bezpieczeństwa i higieny pracy określonych w art. 217–2221, art. 228 § 3, art. 229 § 2–7, art. 2373 i art. 2375 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy. ” ;
 
-- **90)** po art. 117 dodaje art. 117a i art. 117b w brzmieniu: „Art. 117a. 1. Przełożony, odpowiednio do zakresu swojego działania, może organizować lub prowadzić w stosunku do podległych funkcjonariuszy szkolenia w dziedzinie bezpieczeństwa i higieny służby zgodnie z programami szkoleń uwzględniającymi charakter tej służby w Służbie Więziennej.
+- **90)** po art. 117 dodaje art. 117a i art. 117b w brzmieniu: „
+
+1. Przełożony, odpowiednio do zakresu swojego działania, może organizować lub prowadzić w stosunku do podległych funkcjonariuszy szkolenia w dziedzinie bezpieczeństwa i higieny służby zgodnie z programami szkoleń uwzględniającymi charakter tej służby w Służbie Więziennej.
 
 2. Przełożony wyznacza funkcjonariuszy do wykonywania zadań służby bezpieczeństwa i higieny służby.
 
@@ -865,8 +1621,6 @@ source: "isap-pdf"
 
 8. Do wykonywania zadań, o których mowa w ust. 2, przełożony może wyznaczyć pracowników. Przepisy ust. 3–7 stosuje się odpowiednio.
 
-**Art. 117b.**
-
 1. Przełożeni są obowiązani zapewnić funkcjonariuszom prawo do przerwy w służbie.
 
 2. Wymiar przerwy w służbie wynosi:
@@ -877,34 +1631,51 @@ source: "isap-pdf"
 
 3. W uzasadnionych przypadkach przełożony funkcjonariusza może przedłużyć czas przerwy w służbie.
 
-4. Przerwa w służbie może być dzielona. Czasu przerwy nie wlicza się do dobowego okresu wypoczynku, ale wlicza się go do czasu służby.”;
+4. Przerwa w służbie może być dzielona. Czasu przerwy nie wlicza się do dobowego okresu wypoczynku, ale wlicza się go do czasu służby. ” ;
 
-- **91)** w art. 118:
-    - **a)** po ust. 7 dodaje się ust. 7a w brzmieniu: „7a. Za członków rodziny uważa się:
+- **91)** w art. 118: po ust. 7 dodaje się ust. 7a w brzmieniu: „
+    - **a)**
+
+7a. Za członków rodziny uważa się:
 
 - **1)** małżonka zmarłego funkcjonariusza;
-- **2)** innych członków rodziny, którzy spełniają warunki do uzyskania renty rodzinnej po zmarłym funkcjonariuszu.”,
-    - **b)** po ust. 12 dodaje się ust. 12a w brzmieniu: „12a. Kwota jednorazowego odszkodowania ustalona zgodnie z ust. 6 przysługuje każdemu z uprawnionych członków rodziny odrębnie.”,
-    - **c)** po ust. 13 dodaje się ust. 13a i 13b w brzmieniu: „13a. W szczególnie uzasadnionych przypadkach Minister Sprawiedliwości może:
+- **2)** innych członków rodziny, którzy spełniają warunki do uzyskania renty rodzinnej po zmarłym funkcjonariuszu. ” , po ust. 12 dodaje się ust. 12a w brzmieniu: „
+    - **b)**
+
+12a. Kwota jednorazowego odszkodowania ustalona zgodnie z ust. 6 przysługuje każdemu z uprawnionych członków rodziny odrębnie. ” , po ust. 13 dodaje się ust. 13a i 13b w brzmieniu: „
+
+- **c)**
+
+13a. W szczególnie uzasadnionych przypadkach Minister Sprawiedliwości może:
 
 - **1)** podwyższyć jednorazowe odszkodowanie funkcjonariuszowi albo uprawnionemu członkowi rodziny, nie więcej jednak niż o 100% wysokości przysługującego jednorazowego odszkodowania ustalonego na podstawie ust. 6;
-- **2)** przyznać jednorazowe odszkodowanie:
-    - **a)** członkowi rodziny zmarłego funkcjonariusza niespełniającemu warunków wymaganych do uzyskania renty rodzinnej – do wysokości określonej w ust. 6,
-    - **b)** uprawnionemu członkowi rodziny funkcjonariusza zaginionego w czasie pełnienia służby – w wysokości określonej w ust. 6,
-    - **c)** uprawnionemu członkowi rodziny funkcjonariusza zmarłego wskutek przestępstwa, jeżeli zachodzi uzasadnione przypuszczenie, że jego śmierć pozostaje w związku ze służbą – do wysokości określonej w ust. 6.
+- **2)** przyznać jednorazowe odszkodowanie: członkowi rodziny zmarłego funkcjonariusza niespełniającemu warunków wymaganych do uzyskania renty rodzinnej – do wysokości określonej w ust. 6, uprawnionemu członkowi rodziny funkcjonariusza zaginionego w czasie pełnienia służby – w wysokości określonej w ust. 6, uprawnionemu członkowi rodziny funkcjonariusza zmarłego wskutek przestępstwa, jeżeli zachodzi uzasadnione przypuszczenie, że jego śmierć pozostaje w związku ze służbą – do wysokości określonej w ust. 6.
+    - **a)**
+    - **b)**
+    - **c)**
 
-13b. Osobie, o której mowa w ust. 13a pkt 2 lit. a, można przyznać jednorazowe odszkodowanie wyłącznie w przypadku braku uprawnionych członków rodziny.”;
+13b. Osobie, o której mowa w ust. 13a pkt 2 lit. a, można przyznać jednorazowe odszkodowanie wyłącznie w przypadku braku uprawnionych członków rodziny. ” ;
 
 - **92)** w art. 119 w ust. 1 w pkt 2 skreśla się przecinek i uchyla się pkt 4;
-- **93)** w art. 123 dodaje się ust. 3 i 4 w brzmieniu: „3. Dyrektor Generalny, jeżeli jest to uzasadnione potrzebami służby, może, w drodze zarządzenia, określić inny rozkład czasu służby, uwzględniając normę czasu służby, o której mowa w art. 121.
+- **93)** w art. 123 dodaje się ust. 3 i 4 w brzmieniu: „
 
-4. Funkcjonariusz jest obowiązany przestrzegać ustalonego w jednostce organizacyjnej rozkładu czasu służby.”;
+3. Dyrektor Generalny, jeżeli jest to uzasadnione potrzebami służby, może, w drodze zarządzenia, określić inny rozkład czasu służby, uwzględniając normę czasu służby, o której mowa w art. 121.
 
-- **94)** art. 125 otrzymuje brzmienie: „Art. 125. 1. Funkcjonariusz pełni służbę w wielozmianowym rozkładzie czasu służby na zmiany trwające po 12 godzin, po których następują 24 godziny wolne od służby. Jeżeli zadania służbowe były wykonywane w porze nocnej, funkcjonariuszowi przysługuje 48 godzin wolnych od służby. Dni i godziny rozpoczęcia i zakończenia służby ustala kierownik jednostki organizacyjnej.
+4. Funkcjonariusz jest obowiązany przestrzegać ustalonego w jednostce organizacyjnej rozkładu czasu służby. ” ;
 
-2. W stanach nadzwyczajnych, stanie zagrożenia epidemicznego, stanie epidemii lub w przypadku wystąpienia innej sytuacji zagrażającej bezpieczeństwu i porządkowi jednostki organizacyjnej Dyrektor Generalny na wniosek właściwego dyrektora okręgowego może wprowadzić na czas określony w podległej mu jednostce organizacyjnej wielozmianowy rozkład czasu służby, w którym funkcjonariusz może pełnić służbę nie dłużej niż 24 godziny, po których następuje co najmniej 48 godzin wolnych od służby. Przepis art. 127 ust. 3 stosuje się odpowiednio.”;
+- **94)** art. 125 otrzymuje brzmienie: „
 
-- **95)** art. 136 otrzymuje brzmienie: „Art. 136. 1. Kierownik jednostki organizacyjnej może wyznaczyć funkcjonariusza do pozostawania w gotowości do pełnienia służby na wezwanie, zwanego dalej „dyżurem na wezwanie”, przy czym dyżur ten nie może naruszać prawa funkcjonariusza do odpoczynku, o którym mowa w art. 127 i art. 128.
+**Art. 125.**
+
+1. Funkcjonariusz pełni służbę w wielozmianowym rozkładzie czasu służby na zmiany trwające po 12 godzin, po których następują 24 godziny wolne od służby. Jeżeli zadania służbowe były wykonywane w porze nocnej, funkcjonariuszowi przysługuje 48 godzin wolnych od służby. Dni i godziny rozpoczęcia i zakończenia służby ustala kierownik jednostki organizacyjnej.
+
+2. W stanach nadzwyczajnych, stanie zagrożenia epidemicznego, stanie epidemii lub w przypadku wystąpienia innej sytuacji zagrażającej bezpieczeństwu i porządkowi jednostki organizacyjnej Dyrektor Generalny na wniosek właściwego dyrektora okręgowego może wprowadzić na czas określony w podległej mu jednostce organizacyjnej wielozmianowy rozkład czasu służby, w którym funkcjonariusz może pełnić służbę nie dłużej niż 24 godziny, po których następuje co najmniej 48 godzin wolnych od służby. Przepis art. 127 ust. 3 stosuje się odpowiednio. ” ;
+
+- **95)** art. 136 otrzymuje brzmienie: „
+
+**Art. 136.**
+
+1. Kierownik jednostki organizacyjnej może wyznaczyć funkcjonariusza do pozostawania w gotowości do pełnienia służby na wezwanie, zwanego dalej „dyżurem na wezwanie”, przy czym dyżur ten nie może naruszać prawa funkcjonariusza do odpoczynku, o którym mowa w art. 127 i art. 128.
 
 2. Do dyżuru na wezwanie nie wyznacza się funkcjonariusza bezpośrednio po zakończeniu służby pełnionej w porze nocnej.
 
@@ -915,56 +1686,97 @@ source: "isap-pdf"
 5. Jeżeli funkcjonariusz wykonywał polecone czynności służbowe w czasie dyżuru na wezwanie:
 
 - **1)** po godzinach służby – to za czas ich wykonywania udziela się w tym samym wymiarze czasu wolnego od służby;
-- **2)** w dniu wolnym od służby, sobotę, niedzielę lub święto – to udziela się innego dnia wolnego od służby.”;
-- **96)** w art. 139 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Przy ustalaniu wymiaru urlopu wypoczynkowego na podstawie ust. 1 niepełny dzień urlopu wypoczynkowego zaokrągla się w górę do pełnego dnia. Wymiar pierwszego urlopu wypoczynkowego nie może przekroczyć wymiaru wynikającego z art. 138 ust. 1.”;
-- **97)** w art. 146 w ust. 1 pkt 1–3 otrzymują brzmienie: „1) w każdym roku studiów pierwszego i drugiego stopnia oraz jednolitych studiów magisterskich oraz w każdym roku kształcenia w szkole doktorskiej – 21 dni;
-- **2)** w szkołach pomaturalnych, na studiach, o których mowa w pkt 1, lub na studiach podyplomowych – 14 dni w celu przygotowania się i złożenia egzaminu końcowego;
-- **3)** w celu przygotowania się do obrony rozprawy doktorskiej lub przygotowania się do kolokwium habilitacyjnego – 28 dni;”;
-- **98)** w art. 148:
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Na wniosek funkcjonariusza urlop wypoczynkowy i urlop dodatkowy mogą być podzielone na części, z tym że co najmniej jedna część urlopu powinna obejmować nie mniej niż 14 kolejnych dni kalendarzowych.”,
-    - **b)** uchyla się ust. 3;
+- **2)** w dniu wolnym od służby, sobotę, niedzielę lub święto – to udziela się innego dnia wolnego od służby. ” ;
+- **96)** w art. 139 po ust. 1 dodaje się ust. 1a w brzmieniu: „
 
-- **99)** w art. 149 ust. 5 otrzymuje brzmienie: „5. Funkcjonariuszowi, który nie wykorzystał urlopu wypoczynkowego w danym roku kalendarzowym, urlopu tego należy udzielić do dnia 30 września następnego roku kalendarzowego.”;
-- **100)** w art. 154 ust. 1 otrzymuje brzmienie: „1. Funkcjonariusz jest obowiązany do noszenia w czasie pełnienia służby przepisowego umundurowania, wyposażenia polowego, dystynkcji, odznak, oznak służby i znaków identyfikacyjnych.”;
-- **101)** w art. 164 ust. 4 otrzymuje brzmienie: „4. W uzasadnionych przypadkach, kierując się dobrem służby, kierownik jednostki organizacyjnej może zapewnić funkcjonariuszowi, przeciwko któremu wszczęto postępowanie karne o przestępstwo popełnione w związku z wykonywaniem czynności służbowych, ochronę prawną jeszcze przed zakończeniem tego postępowania. Przepis ust. 3 stosuje się odpowiednio. Poniesione przez Służbę Więzienną koszty ochrony prawnej nie podlegają zwrotowi przez funkcjonariusza, niezależnie od wyniku postępowania karnego.”;
-- **102)** po art. 164a dodaje się art. 164b w brzmieniu: „Art. 164b. W uzasadnionych przypadkach, kierując się dobrem służby, kierownik jednostki organizacyjnej może zapewnić funkcjonariuszowi albo pracownikowi, przeciwko któremu zostało wytoczone powództwo cywilne albo przeciwko któremu wszczęto postępowanie karne o przestępstwo ścigane z oskarżenia prywatnego, pozostające w związku z wykonywaniem przez tego funkcjonariusza albo pracownika czynności służbowych, ochronę prawną jeszcze przed zakończeniem tego postępowania. Przepisy art. 164a ust. 2 i 3 stosuje się odpowiednio. Poniesione przez Służbę Więzienną koszty ochrony prawnej nie podlegają zwrotowi przez funkcjonariusza albo pracownika, niezależnie od wyniku postępowania cywilnego albo karnego.”;
-- **103)** w art. 173 ust. 3 otrzymuje brzmienie: „3. Normy dodatkowe przysługują:
+1a. Przy ustalaniu wymiaru urlopu wypoczynkowego na podstawie ust. 1 niepełny dzień urlopu wypoczynkowego zaokrągla się w górę do pełnego dnia. Wymiar pierwszego urlopu wypoczynkowego nie może przekroczyć wymiaru wynikającego z art. 138 ust. 1. ” ;
+
+- **97)** w art. 146 w ust. 1 pkt 1–3 otrzymują brzmienie: „
+- **1)** w każdym roku studiów pierwszego i drugiego stopnia oraz jednolitych studiów magisterskich oraz w każdym roku kształcenia w szkole doktorskiej – 21 dni;
+- **2)** w szkołach pomaturalnych, na studiach, o których mowa w pkt 1, lub na studiach podyplomowych – 14 dni w celu przygotowania się i złożenia egzaminu końcowego;
+- **3)** w celu przygotowania się do obrony rozprawy doktorskiej lub przygotowania się do kolokwium habilitacyjnego – 28 dni; ” ;
+- **98)** w art. 148: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. Na wniosek funkcjonariusza urlop wypoczynkowy i urlop dodatkowy mogą być podzielone na części, z tym że co najmniej jedna część urlopu powinna obejmować nie mniej niż 14 kolejnych dni kalendarzowych. ” , uchyla się ust. 3;
+
+- **b)**
+- **99)** w art. 149 ust. 5 otrzymuje brzmienie: „
+
+5. Funkcjonariuszowi, który nie wykorzystał urlopu wypoczynkowego w danym roku kalendarzowym, urlopu tego należy udzielić do dnia 30 września następnego roku kalendarzowego. ” ;
+
+- **100)** w art. 154 ust. 1 otrzymuje brzmienie: „
+
+1. Funkcjonariusz jest obowiązany do noszenia w czasie pełnienia służby przepisowego umundurowania, wyposażenia polowego, dystynkcji, odznak, oznak służby i znaków identyfikacyjnych. ” ;
+
+- **101)** w art. 164 ust. 4 otrzymuje brzmienie: „
+
+4. W uzasadnionych przypadkach, kierując się dobrem służby, kierownik jednostki organizacyjnej może zapewnić funkcjonariuszowi, przeciwko któremu wszczęto postępowanie karne o przestępstwo popełnione w związku z wykonywaniem czynności służbowych, ochronę prawną jeszcze przed zakończeniem tego postępowania. Przepis ust. 3 stosuje się odpowiednio. Poniesione przez Służbę Więzienną koszty ochrony prawnej nie podlegają zwrotowi przez funkcjonariusza, niezależnie od wyniku postępowania karnego. ” ;
+
+- **102)** po art. 164a dodaje się art. 164b w brzmieniu: „
+
+**Art. 164b.** W uzasadnionych przypadkach, kierując się dobrem służby, kierownik jednostki organizacyjnej może zapewnić funkcjonariuszowi albo pracownikowi, przeciwko któremu zostało wytoczone powództwo cywilne albo przeciwko któremu wszczęto postępowanie karne o przestępstwo ścigane z oskarżenia prywatnego, pozostające w związku z wykonywaniem przez tego funkcjonariusza albo pracownika czynności służbowych, ochronę prawną jeszcze przed zakończeniem tego postępowania. Przepisy art. 164a ust. 2 i 3 stosuje się odpowiednio. Poniesione przez Służbę Więzienną koszty ochrony prawnej nie podlegają zwrotowi przez funkcjonariusza albo pracownika, niezależnie od wyniku postępowania cywilnego albo karnego. ” ;
+
+- **103)** w art. 173 ust. 3 otrzymuje brzmienie: „
+
+3. Normy dodatkowe przysługują:
+
 - **1)** funkcjonariuszowi posiadającemu stopień majora, podpułkownika, pułkownika, generała Służby Więziennej lub generała inspektora Służby Więziennej albo zajmującemu stanowisko służbowe przysługujące tym oficerom – jedna norma;
-- **2)** Dyrektorowi Generalnemu i jego zastępcom, Rektorowi oraz Szefowi IWSW i jego zastępcom – dwie normy.”;
-- **104)** w art. 189 ust. 1 otrzymuje brzmienie: „1. Funkcjonariusz powołany lub przeniesiony z urzędu do pełnienia służby w innej miejscowości, któremu przydzielono kwaterę tymczasową, ponosi koszty dostawy do niej energii elektrycznej i cieplnej, gazu i wody, odbioru ścieków, odpadów i nieczystości ciekłych oraz wydatki związane z korzystaniem z urządzeń radiowo-telewizyjnych, windy, telefonu, Internetu i domofonu. Pozostałe koszty pokrywa się ze środków jednostki organizacyjnej, do której funkcjonariusz został przeniesiony.”;
-- **105)** w art. 190 pkt 1 otrzymuje brzmienie: „1) ustania stosunku służbowego funkcjonariusza albo powołania lub przeniesienia go do służby w innej miejscowości;”;
-- **106)** art. 192 otrzymuje brzmienie: „Art. 192. Decyzje w sprawach realizacji uprawnień funkcjonariusza wynikających z przepisów niniejszego rozdziału wydają następujące organy:
+- **2)** Dyrektorowi Generalnemu i jego zastępcom, Rektorowi oraz Szefowi IWSW i jego zastępcom – dwie normy. ” ;
+- **104)** w art. 189 ust. 1 otrzymuje brzmienie: „
+
+1. Funkcjonariusz powołany lub przeniesiony z urzędu do pełnienia służby w innej miejscowości, któremu przydzielono kwaterę tymczasową, ponosi koszty dostawy do niej energii elektrycznej i cieplnej, gazu i wody, odbioru ścieków, odpadów i nieczystości ciekłych oraz wydatki związane z korzystaniem z urządzeń radiowo-telewizyjnych, windy, telefonu, Internetu i domofonu. Pozostałe koszty pokrywa się ze środków jednostki organizacyjnej, do której funkcjonariusz został przeniesiony. ” ;
+
+- **105)** w art. 190 pkt 1 otrzymuje brzmienie: „
+- **1)** ustania stosunku służbowego funkcjonariusza albo powołania lub przeniesienia go do służby w innej miejscowości; ” ;
+- **106)** art. 192 otrzymuje brzmienie: „
+
+**Art. 192.** Decyzje w sprawach realizacji uprawnień funkcjonariusza wynikających z przepisów niniejszego rozdziału wydają następujące organy:
+
 - **1)** Minister Sprawiedliwości w odniesieniu do Dyrektora Generalnego i jego zastępców oraz Szefa IWSW i jego zastępców;
-- **2)** Dyrektor Generalny w odniesieniu do:
-    - **a)** funkcjonariusza pełniącego służbę w Centralnym Zarządzie Służby Więziennej,
-    - **b)** dyrektora okręgowego i jego zastępców,
-    - **c)** Komendanta Centralnego Ośrodka Szkolenia Służby Więziennej, komendanta ośrodka szkolenia Służby Więziennej albo komendanta ośrodka doskonalenia kadr Służby Więziennej bezpośrednio mu podległego i ich zastępców;
+- **2)** Dyrektor Generalny w odniesieniu do: funkcjonariusza pełniącego służbę w Centralnym Zarządzie Służby Więziennej, dyrektora okręgowego i jego zastępców, Komendanta Centralnego Ośrodka Szkolenia Służby Więziennej, komendanta ośrodka szkolenia Służby Więziennej albo komendanta ośrodka doskonalenia kadr Służby Więziennej bezpośrednio mu podległego i ich zastępców;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **3)** Szef IWSW w odniesieniu do funkcjonariusza IWSW;
-- **4)** dyrektor okręgowy w odniesieniu do:
-    - **a)** funkcjonariusza pełniącego służbę w okręgowym inspektoracie Służby Więziennej,
-    - **b)** dyrektora aresztu śledczego i dyrektora zakładu karnego położonego na terenie działania okręgowego inspektoratu i jego zastępców,
-    - **c)** komendanta ośrodka doskonalenia kadr Służby Więziennej położonego na terenie działania okręgowego inspektoratu i jego zastępców;
+- **4)** dyrektor okręgowy w odniesieniu do: funkcjonariusza pełniącego służbę w okręgowym inspektoracie Służby Więziennej, dyrektora aresztu śledczego i dyrektora zakładu karnego położonego na terenie działania okręgowego inspektoratu i jego zastępców, komendanta ośrodka doskonalenia kadr Służby Więziennej położonego na terenie działania okręgowego inspektoratu i jego zastępców;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **5)** dyrektor aresztu śledczego, dyrektor zakładu karnego, Rektor, Komendant Centralnego Ośrodka Szkolenia Służby Więziennej oraz komendant ośrodka szkolenia Służby Więziennej i komendant ośrodka doskonalenia kadr Służby Więziennej w odniesieniu do funkcjonariusza pełniącego służbę w tych jednostkach.”;
-- **107)** w art. 199 w pkt 3 w lit. c kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) nastąpiło wygaśnięcie stosunku służbowego wskutek porzucenia służby.”;
-- **108)** w art. 213:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. W przypadku funkcjonariusza, którego śmierć nastąpiła w związku ze służbą, każdemu z dzieci będących na jego utrzymaniu, które w dniu jego śmierci spełniały warunki do uzyskania renty rodzinnej, kierownik jednostki organizacyjnej przyznaje pomoc finansową na kształcenie ze środków przeznaczonych na ten cel w budżecie Służby Więziennej.”,
-    - **b)** po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Pomoc finansowa, o której mowa w ust. 1, w kolejnym roku nie przysługuje w przypadku nieuzyskania promocji do klasy programowo wyższej lub niezaliczenia roku studiów. Pomoc w kolejnym roku może zostać przyznana, jeżeli okoliczności, o których mowa w zdaniu pierwszym, były niezależne od dziecka, w szczególności były spowodowane jego długotrwałą chorobą.
+- **5)** dyrektor aresztu śledczego, dyrektor zakładu karnego, Rektor, Komendant Centralnego Ośrodka Szkolenia Służby Więziennej oraz komendant ośrodka szkolenia Służby Więziennej i komendant ośrodka doskonalenia kadr Służby Więziennej w odniesieniu do funkcjonariusza pełniącego służbę w tych jednostkach. ” ;
+- **107)** w art. 199 w pkt 3 w lit. c kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+- **4)** nastąpiło wygaśnięcie stosunku służbowego wskutek porzucenia służby. ” ;
+- **108)** w art. 213: ust. 1 otrzymuje brzmienie: „
+    - **a)**
 
-2b. W przypadku przerwania nauki kierownik jednostki organizacyjnej zarządza wstrzymanie wypłaty pomocy finansowej, o której mowa w ust. 1.”;
+1. W przypadku funkcjonariusza, którego śmierć nastąpiła w związku ze służbą, każdemu z dzieci będących na jego utrzymaniu, które w dniu jego śmierci spełniały warunki do uzyskania renty rodzinnej, kierownik jednostki organizacyjnej przyznaje pomoc finansową na kształcenie ze środków przeznaczonych na ten cel w budżecie Służby Więziennej. ” , po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „
 
-- **109)** w art. 218:
-    - **a)** w ust. 2 dodaje się zdanie drugie: „Jeżeli decyzję wydał Rektor, odwołanie nie przysługuje, jednak funkcjonariusz może zwrócić się do Rektora o ponowne rozpatrzenie sprawy.”,
-    - **b)** ust. 3 otrzymuje brzmienie: „3. Wniesienie środka, o którym mowa w ust. 2, nie wstrzymuje wykonania decyzji.”;
+- **b)**
 
-- **110)** art. 221 i art. 222 otrzymują brzmienie: „Art. 221. 1. Prawomocne:
+2a. Pomoc finansowa, o której mowa w ust. 1, w kolejnym roku nie przysługuje w przypadku nieuzyskania promocji do klasy programowo wyższej lub niezaliczenia roku studiów. Pomoc w kolejnym roku może zostać przyznana, jeżeli okoliczności, o których mowa w zdaniu pierwszym, były niezależne od dziecka, w szczególności były spowodowane jego długotrwałą chorobą.
+
+2b. W przypadku przerwania nauki kierownik jednostki organizacyjnej zarządza wstrzymanie wypłaty pomocy finansowej, o której mowa w ust. 1. ” ;
+
+- **109)** w art. 218: w ust. 2 dodaje się zdanie drugie: „ Jeżeli decyzję wydał Rektor, odwołanie nie przysługuje, jednak funkcjonariusz może zwrócić się do Rektora o ponowne rozpatrzenie sprawy. ” , ust. 3 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+3. Wniesienie środka, o którym mowa w ust. 2, nie wstrzymuje wykonania decyzji. ” ;
+
+- **110)** art. 221 i art. 222 otrzymują brzmienie: „
+
+**Art. 221.**
+
+1. Prawomocne:
+
 - **1)** umorzenie postępowania karnego albo postępowania karnego skarbowego,
 - **2)** zakończenie postępowania karnego albo postępowania karnego skarbowego wyrokiem uniewinniającym,
 - **3)** uchylenie ostatecznego orzeczenia komisji lekarskiej o całkowitej niezdolności do służby,
 - **4)** uchylenie wyroku skazującego i wydanie w nowym postępowaniu karnym lub postępowaniu karnym skarbowym prawomocnego wyroku uniewinniającego,
 - **5)** uchylenie orzeczenia o wymierzeniu kary dyscyplinarnej wydalenia ze służby,
-- **6)** uchylenie lub stwierdzenie nieważności decyzji o zwolnieniu ze służby z powodu jej wadliwości – stanowi podstawę do wszczęcia postępowania w sprawie ponownego nawiązania stosunku służbowego.
+- **6)** uchylenie lub stwierdzenie nieważności decyzji o zwolnieniu ze służby z powodu jej wadliwości stanowi podstawę do wszczęcia postępowania w sprawie ponownego nawiązania stosunku służbowego.
 
 2. Postępowanie w sprawie ponownego nawiązania stosunku służbowego obejmuje:
 
@@ -991,12 +1803,17 @@ source: "isap-pdf"
 
 6. W przypadku negatywnego zakończenia postępowania w sprawie ponownego nawiązania stosunku służbowego wydaje się decyzję o umorzeniu tego postępowania.
 
-7. Do decyzji, o których mowa w ust. 5 i 6, przepisy art. 218 ust. 2– 5 stosuje się odpowiednio.”;
+7. Do decyzji, o których mowa w ust. 5 i 6, przepisy art. 218 ust. 2–5 stosuje się odpowiednio. ” ;
 
-- **111)** w art. 223 ust. 1 otrzymuje brzmienie: „1. Funkcjonariuszowi, z którym ponownie nawiązano stosunek służbowy albo wobec którego umorzono postępowanie na podstawie art. 221 ust. 5 lub art. 222 ust. 5 lub 6, przysługuje za okres pozostawania poza służbą świadczenie pieniężne równe uposażeniu na stanowisku służbowym zajmowanym bezpośrednio przed ustaniem stosunku służbowego, nie więcej jednak niż za okres 6 miesięcy i nie mniej niż za miesiąc.”;
+- **111)** w art. 223 ust. 1 otrzymuje brzmienie: „
+
+1. Funkcjonariuszowi, z którym ponownie nawiązano stosunek służbowy albo wobec którego umorzono postępowanie na podstawie art. 221 ust. 5 lub art. 222 ust. 5 lub 6, przysługuje za okres pozostawania poza służbą świadczenie pieniężne równe uposażeniu na stanowisku służbowym zajmowanym bezpośrednio przed ustaniem stosunku służbowego, nie więcej jednak niż za okres 6 miesięcy i nie mniej niż za miesiąc. ” ;
+
 - **112)** uchyla się art. 224;
-- **113)** w art. 230:
-    - **a)** ust. 3 otrzymuje brzmienie: „3. Naruszeniem dyscypliny służbowej jest w szczególności:
+- **113)** w art. 230: ust. 3 otrzymuje brzmienie: „
+    - **a)**
+
+3. Naruszeniem dyscypliny służbowej jest w szczególności:
 
 - **1)** odmowa wykonania albo niewykonanie polecenia lub rozkazu przełożonego lub organu uprawnionego na podstawie ustawy do wydawania poleceń funkcjonariuszom;
 - **2)** zaniechanie czynności służbowej albo wykonanie jej w sposób nieprawidłowy;
@@ -1011,27 +1828,262 @@ source: "isap-pdf"
 - **11)** utrata dokumentu zawierającego informacje niejawne;
 - **12)** ujawnienie informacji pozostającej w związku z wykonywaniem czynności służbowych, jeżeli spowodowało to lub mogło spowodować szkodę dla służby;
 - **13)** nadużycie zajmowanego stanowiska służbowego lub służby dla osiągnięcia korzyści majątkowej lub osobistej;
-- **14)** samowolne oddalenie się funkcjonariusza z rejonu zakwaterowania, jeśli pełni służbę w systemie skoszarowanym, a także nieusprawiedliwione opuszczenie miejsca pełnienia służby lub niestawienie się w tym miejscu.”, Rozmowa ta polega na wytknięciu funkcjonariuszowi niewłaściwego postępowania oraz uprzedzeniu go o możliwości zastosowania innych środków dyscyplinujących, a także wszczęcia postępowania i wymierzenia kary dyscyplinarnej w przypadku ponownego popełnienia czynu, za który funkcjonariusz ponosi odpowiedzialność dyscyplinarną.
-    - **b)** ust. 6 otrzymuje brzmienie: „6. W przypadku czynu stanowiącego przewinienie dyscyplinarne mniejszej wagi przełożony dyscyplinarny, o którym mowa w art. 231, może odstąpić od wszczęcia postępowania i przeprowadzić ze sprawcą przewinienia dyscyplinarnego udokumentowaną w formie notatki lub protokołu rozmowę dyscyplinującą.”,
-    - **c)** dodaje się ust. 7–9 w brzmieniu: „7. Rozmowę dyscyplinującą, o której mowa w ust. 6, można przeprowadzić w terminie do 30 dni od dnia powzięcia przez przełożonego dyscyplinarnego wiadomości o popełnieniu przewinienia dyscyplinarnego.
+- **14)** samowolne oddalenie się funkcjonariusza z rejonu zakwaterowania, jeśli pełni służbę w systemie skoszarowanym, a także nieusprawiedliwione opuszczenie miejsca pełnienia służby lub niestawienie się w tym miejscu. ” , ust. 6 otrzymuje brzmienie: „
+    - **b)**
+
+6. W przypadku czynu stanowiącego przewinienie dyscyplinarne mniejszej wagi przełożony dyscyplinarny, o którym mowa w art. 231, może odstąpić od wszczęcia postępowania i przeprowadzić ze sprawcą przewinienia dyscyplinarnego udokumentowaną w formie notatki lub protokołu rozmowę dyscyplinującą. ” , dodaje się ust. 7–9 w brzmieniu: „
+
+- **c)**
+
+7. Rozmowę dyscyplinującą, o której mowa w ust. 6, można przeprowadzić w terminie do 30 dni od dnia powzięcia przez przełożonego dyscyplinarnego wiadomości o popełnieniu przewinienia dyscyplinarnego. Rozmowa ta polega na wytknięciu funkcjonariuszowi niewłaściwego postępowania oraz uprzedzeniu go o możliwości zastosowania innych środków dyscyplinujących, a także wszczęcia postępowania i wymierzenia kary dyscyplinarnej w przypadku ponownego popełnienia czynu, za który funkcjonariusz ponosi odpowiedzialność dyscyplinarną.
 
 8. Notatkę lub protokół, o których mowa w ust. 6, włącza się do akt osobowych na okres 3 miesięcy.
 
-9. W terminie 5 dni od dnia przeprowadzenia rozmowy dyscyplinującej sprawca przewinienia dyscyplinarnego może złożyć sprzeciw do przełożonego dyscyplinarnego. Złożenie sprzeciwu skutkuje wszczęciem postępowania dyscyplinarnego, a zebrane dotychczas materiały stają się materiałami postępowania dyscyplinarnego.”;
+9. W terminie 5 dni od dnia przeprowadzenia rozmowy dyscyplinującej sprawca przewinienia dyscyplinarnego może złożyć sprzeciw do przełożonego dyscyplinarnego. Złożenie sprzeciwu skutkuje wszczęciem postępowania dyscyplinarnego, a zebrane dotychczas materiały stają się materiałami postępowania dyscyplinarnego. ” ;
 
-- **114)** po art. 230 dodaje się art. 230a i art. 230b w brzmieniu: „Art. 230a. 1. Funkcjonariusz odpowiada dyscyplinarnie, jeżeli popełnia przewinienie dyscyplinarne sam albo wspólnie i w porozumieniu z inną osobą, a także w przypadku gdy kieruje popełnieniem przez innego funkcjonariusza przewinienia dyscyplinarnego albo poleca jego popełnienie.
+- **114)** po art. 230 dodaje się art. 230a i art. 230b w brzmieniu: „
+
+**Art. 230a.**
+
+1. Funkcjonariusz odpowiada dyscyplinarnie, jeżeli popełnia przewinienie dyscyplinarne sam albo wspólnie i w porozumieniu z inną osobą, a także w przypadku gdy kieruje popełnieniem przez innego funkcjonariusza przewinienia dyscyplinarnego albo poleca jego popełnienie.
 
 2. Funkcjonariusz odpowiada dyscyplinarnie także wówczas, gdy chcąc, aby inny funkcjonariusz popełnił przewinienie dyscyplinarne, nakłania go do tego.
 
 3. Funkcjonariusz odpowiada dyscyplinarnie w przypadku, gdy chcąc, aby inny funkcjonariusz popełnił przewinienie dyscyplinarne, lub godząc się na to, swoim zachowaniem ułatwia jego popełnienie.
 
-4. Każdy z funkcjonariuszy, o których mowa w ust. 1‒3, odpowiada w granicach swojej winy, niezależnie od odpowiedzialności pozostałych osób.
+4. Każdy z funkcjonariuszy, o których mowa w ust. 1–3, odpowiada w granicach swojej winy, niezależnie od odpowiedzialności pozostałych osób.
 
-5. Funkcjonariusz odpowiada dyscyplinarnie za popełnienie przewinienia dyscyplinarnego poza granicami Rzeczypospolitej Polskiej.
+5. Funkcjonariusz odpowiada dyscyplinarnie za popełnienie przewinienia dyscyplinarnego poza granicami Rzeczypospolitej Polskiej. Dwa lub więcej zachowań podjętych w krótkich odstępach czasu w celu wykonania tego samego zamiaru lub z wykorzystaniem takiej samej sposobności uważa się za jedno przewinienie dyscyplinarne. ” ;
 
-**Art. 230b.** Dwa lub więcej zachowań podjętych w krótkich odstępach czasu w celu wykonania tego samego zamiaru lub z wykorzystaniem takiej samej sposobności uważa się za jedno przewinienie dyscyplinarne.”;
+- **115)** w art. 231: po ust. 6 dodaje się ust. 6a w brzmieniu: „
+    - **a)**
 
-**Art. 250b.**
+6a. Upoważnienie, o którym mowa w ust. 6, zawiera:
+
+- **1)** datę wydania upoważnienia;
+- **2)** podstawę prawną;
+- **3)** stopień, imię i nazwisko oraz stanowisko służbowe umocowanego funkcjonariusza;
+- **4)** zakres umocowania;
+- **5)** termin obowiązywania upoważnienia;
+- **6)** podpis przełożonego dyscyplinarnego. ” , w ust. 8 pkt 1 i 2 otrzymują brzmienie: „
+    - **b)**
+
+- **1)** Dyrektorowi Generalnemu, zastępcy Dyrektora Generalnego, Szefowi IWSW, zastępcy Szefa IWSW, dyrektorowi okręgowemu, prorektorowi Uczelni, Komendantowi Centralnego Ośrodka Szkolenia Służby Więziennej, komendantowi ośrodka szkolenia Służby Więziennej i komendantowi ośrodka doskonalenia kadr Służby Więziennej bezpośrednio podległego Dyrektorowi Generalnemu, funkcjonariuszom Centralnego Zarządu Służby Więziennej, funkcjonariuszom IWSW oraz funkcjonariuszom Uczelni, z wyłączeniem funkcjonariuszy w służbie kandydackiej – jest Minister Sprawiedliwości;
+- **2)** zastępcy dyrektora okręgowego, dyrektorowi zakładu karnego lub aresztu śledczego, zastępcy Komendanta Centralnego Ośrodka Szkolenia Służby Więziennej, zastępcy komendanta ośrodka szkolenia Służby Więziennej, zastępcy komendanta ośrodka doskonalenia kadr Służby Więziennej bezpośrednio podległego Dyrektorowi Generalnemu oraz funkcjonariuszom okręgowego inspektoratu Służby Więziennej, Centralnego Ośrodka Szkolenia Służby Więziennej, ośrodka szkolenia Służby Więziennej i ośrodka doskonalenia kadr Służby Więziennej bezpośrednio podległego Dyrektorowi Generalnemu, a także funkcjonariuszom w służbie kandydackiej – jest Dyrektor Generalny; ” ;
+- **116)** art. 235 otrzymuje brzmienie: „
+
+**Art. 235.**
+
+1. Kara wyznaczenia na niższe stanowisko służbowe oznacza odwołanie lub zwolnienie z dotychczas zajmowanego stanowiska służbowego i mianowanie lub powołanie na stanowisko służbowe niższe od dotychczas zajmowanego.
+
+2. Przed zatarciem kary wyznaczenia na niższe stanowisko służbowe funkcjonariusza nie można powołać ani mianować na wyższe stanowisko służbowe. ” ;
+
+- **117)** w art. 237 uchyla się ust. 2;
+- **118)** w art. 238 dodaje się ust. 3 w brzmieniu: „
+
+3. W przypadku podjęcia przez przełożonego dyscyplinarnego decyzji, o której mowa w art. 250a, przepisu ust. 2 nie stosuje się. ” ;
+
+- **119)** w art. 239: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Obwinionemu wymierza się karę dyscyplinarną współmierną do popełnionego przewinienia dyscyplinarnego oraz stopnia zawinienia. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+- **b)**
+
+1a. Przy wymierzaniu kary dyscyplinarnej uwzględnia się okoliczności popełnienia przewinienia dyscyplinarnego, jego skutki, w tym następstwa negatywne dla służby, rodzaj i stopień naruszenia ciążących na obwinionym obowiązków, pobudki działania, zachowanie obwinionego przed popełnieniem przewinienia dyscyplinarnego i po jego popełnieniu, dotychczasowy przebieg służby, opinię służbową, okres pozostawania w służbie, a także istotne w sprawie okoliczności, zarówno łagodzące, jak i obciążające. ” , w ust. 2 pkt 1 otrzymuje brzmienie: „
+
+- **c)**
+- **1)** działanie z motywacji zasługującej na szczególne potępienie, w stanie nietrzeźwości albo w stanie po użyciu alkoholu lub po użyciu podobnie działającego środka; ” ;
+- **120)** w art. 240: w ust. 1: – w pkt 1 w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „ e) wskutek złożenia sprzeciwu, o którym mowa w art. 230 ust. 9; ” , – pkt 2 otrzymuje brzmienie: „ 2) może wszcząć postępowanie dyscyplinarne na wniosek innego zainteresowanego organu, instytucji lub pokrzywdzonego. ” , ust. 2–4 otrzymują brzmienie: „
+    - **a)**
+    - **b)**
+
+2. Wyższy przełożony dyscyplinarny lub Dyrektor Generalny może wszcząć lub przejąć do prowadzenia postępowanie dyscyplinarne przed wydaniem orzeczenia, jeżeli w jego ocenie jest to konieczne z uwagi na charakter sprawy.
+
+3. W przypadku, o którym mowa w ust. 1 pkt 1 lit. d i pkt 2, przełożony dyscyplinarny lub Dyrektor Generalny zawiadamia odpowiednio sąd lub prokuratora oraz organ lub instytucję albo pokrzywdzonego o wszczęciu postępowania dyscyplinarnego i wyniku tego postępowania. Materiały przekazane przez sąd, prokuratora, organ, instytucję albo pokrzywdzonego włącza się do akt postępowania dyscyplinarnego.
+
+4. Jeżeli zachodzą wątpliwości co do popełnienia przewinienia dyscyplinarnego, jego kwalifikacji prawnej, tożsamości sprawcy albo charakter sprawy jest skomplikowany i złożony, przed wszczęciem postępowania dyscyplinarnego przełożony dyscyplinarny zleca przeprowadzenie czynności wyjaśniających. Czynności te należy ukończyć w terminie 30 dni. W szczególnych przypadkach ze względu na charakter sprawy, czynności wyjaśniające za zgodą przełożonego właściwego w sprawach dyscyplinarnych mogą być kontynuowane w terminie nie dłuższym niż 60 dni od dnia wydania postanowienia, o którym mowa w ust. 4a. ” , po ust. 4 dodaje się ust. 4a-4f w brzmieniu: „
+
+- **c)**
+
+4a. Rozpoczęcie czynności wyjaśniających następuje w drodze postanowienia.
+
+4b. Postanowienie, o którym mowa w ust. 4a, zawiera:
+
+- **1)** stopień, imię, nazwisko i stanowisko służbowe przełożonego dyscyplinarnego;
+- **2)** datę wydania;
+- **3)** podstawę prawną;
+- **4)** datę otrzymania przez przełożonego dyscyplinarnego informacji uzasadniających przeprowadzenie czynności wyjaśniających;
+- **5)** określenie okoliczności stanowiących przedmiot czynności wyjaśniających;
+- **6)** wskazanie rzecznika dyscyplinarnego do prowadzenia czynności wyjaśniających;
+- **7)** podpis przełożonego dyscyplinarnego i urzędową pieczęć jednostki organizacyjnej albo pieczęć Ministra Sprawiedliwości.
+
+4c. W toku czynności wyjaśniających nie przeprowadza się dowodu z opinii biegłego ani czynności wymagających spisania protokołu.
+
+4d. Z czynności wyjaśniających rzecznik dyscyplinarny sporządza sprawozdanie, w którym przedstawia wynik ustaleń oraz przedstawia wnioski ze wskazaniem osób odpowiedzialnych i propozycje dalszego procedowania, w szczególności w zakresie wszczęcia postępowania dyscyplinarnego, odstąpienia od wszczęcia postępowania dyscyplinarnego albo odstąpienia od wszczęcia postępowania dyscyplinarnego i przeprowadzenia rozmowy dyscyplinującej.
+
+4e. W przypadku wszczęcia postępowania dyscyplinarnego materiały zebrane podczas przeprowadzania czynności wyjaśniających stają się materiałami postępowania dyscyplinarnego.
+
+4f. Wyższy przełożony dyscyplinarny lub Dyrektor Generalny może zlecić przeprowadzenie lub przeprowadzić czynności wyjaśniające w sprawach dotyczących funkcjonariuszy podległych przełożonym dyscyplinarnym, jeżeli w jego ocenie jest to konieczne ze względu na charakter sprawy. ” , ust. 5 otrzymuje brzmienie: „
+
+- **d)**
+
+5. Postępowanie dyscyplinarne wszczyna się z dniem wydania postanowienia o wszczęciu postępowania dyscyplinarnego, którego odpis niezwłocznie doręcza się obwinionemu. Funkcjonariusza, co do którego wydano postanowienie o wszczęciu postępowania dyscyplinarnego, uważa się za obwinionego. ” , w ust. 6 po pkt 3 dodaje się pkt 3a w brzmieniu: „
+
+- **e)**
+- **3a)** datę otrzymania przez przełożonego dyscyplinarnego informacji uzasadniającej podejrzenie popełnienia przez funkcjonariusza zarzucanego mu czynu; ” ;
+- **121)** po art. 240 dodaje się art. 240a w brzmieniu: „
+
+**Art. 240a.**
+
+1. Jeżeli funkcjonariusza zajmującego wyższe stanowisko kierownicze zatrzymano z powodu ujęcia na gorącym uczynku popełnienia przestępstwa lub przestępstwa skarbowego, umyślnego, ściganego z oskarżenia publicznego albo istotne interesy służby wymagają natychmiastowego odsunięcia go od wykonywania obowiązków służbowych, Dyrektor Generalny albo Minister Sprawiedliwości może zarządzić natychmiastową przerwę w czynnościach służbowych funkcjonariusza aż do czasu wydania postanowienia w przedmiocie wszczęcia postępowania dyscyplinarnego, jednak na okres nie dłuższy niż 60 dni.
+
+2. W przypadku Dyrektora Generalnego, zastępcy Dyrektora Generalnego, Szefa IWSW, zastępcy Szefa IWSW oraz prorektora Uczelni przerwę w czynnościach służbowych zarządza Minister Sprawiedliwości.
+
+3. O wydaniu zarządzenia, o którym mowa w ust. 1, Dyrektor Generalny albo Minister Sprawiedliwości, w terminie 3 dni od dnia jego wydania, zawiadamia przełożonego właściwego w sprawach dyscyplinarnych w celu niezwłocznego podjęcia właściwych czynności w postępowaniu dyscyplinarnym. ” ;
+
+- **122)** w art. 241: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Postępowania dyscyplinarnego nie wszczyna się:
+
+- **1)** jeżeli czynności wyjaśniające nie potwierdziły zaistnienia przewinienia dyscyplinarnego;
+- **2)** jeżeli upłynęły terminy określone w ust. 3–5;
+- **3)** w razie śmierci funkcjonariusza;
+- **4)** jeżeli postępowanie dyscyplinarne w sprawie tego samego czynu i tego samego funkcjonariusza zostało prawomocnie zakończone lub wcześniej wszczęte toczy się;
+- **5)** gdy zachodzi inna okoliczność wyłączająca postępowanie. ” , ust. 4 otrzymuje brzmienie: „
+    - **b)**
+
+4. Karalność przewinienia dyscyplinarnego ustaje z upływem 2 lat od dnia jego popełnienia. Zawieszenie postępowania dyscyplinarnego wstrzymuje bieg tego terminu. ” ;
+
+- **123)** art. 242 otrzymuje brzmienie: „
+
+**Art. 242.**
+
+1. Przełożony dyscyplinarny może wydać orzeczenie bez wszczynania postępowania dyscyplinarnego, jeżeli okoliczności popełnionego czynu i wina funkcjonariusza nie budzą wątpliwości oraz nie zachodzi potrzeba wymierzenia kary dyscyplinarnej surowszej niż nagana.
+
+2. W przypadkach, o których mowa w ust. 1, orzeczenie wydaje się po wysłuchaniu funkcjonariusza i złożeniu przez niego wyjaśnienia na piśmie oraz wyrażeniu pisemnej zgody na poddanie się karze dyscyplinarnej bez prowadzenia postępowania dyscyplinarnego.
+
+3. Po wszczęciu postępowania dyscyplinarnego, do czasu zakończenia pierwszego przesłuchania w charakterze obwinionego obwiniony może złożyć wniosek o dobrowolne poddanie się karze dyscyplinarnej.
+
+4. Przełożony dyscyplinarny może uwzględnić wniosek o dobrowolne poddanie się karze dyscyplinarnej, jeżeli okoliczności popełnienia przewinienia dyscyplinarnego i wina obwinionego nie budzą wątpliwości, a charakter popełnionego przewinienia uzasadnia wymierzenie kary dyscyplinarnej, o której mowa w art. 232 pkt 1. Czynności, o których mowa w art. 251, nie przeprowadza się.
+
+5. W przypadku uwzględnienia wniosku o dobrowolne poddanie się karze dyscyplinarnej przełożony dyscyplinarny wydaje orzeczenie o ukaraniu.
+
+6. Od orzeczenia o ukaraniu obwinionemu przysługuje odwołanie w terminie 7 dni od dnia doręczenia orzeczenia. Odwołanie składa się do przełożonego dyscyplinarnego, który wydał orzeczenie.
+
+7. Przełożony dyscyplinarny odmawia przyjęcia odwołania, w drodze postanowienia, jeżeli zostało wniesione po terminie lub przez osobę nieuprawnioną albo jest niedopuszczalne. Postanowienie w tej sprawie jest ostateczne.
+
+8. W przypadku złożenia odwołania przez obwinionego przełożony dyscyplinarny uchyla orzeczenie o ukaraniu, kontynuuje postępowanie dyscyplinarne i wydaje orzeczenie, o którym mowa w art. 252 ust. 1, od którego przysługuje odwołanie w trybie art. 253.
+
+9. Cofnięcie odwołania, o którym mowa w ust. 6, jest niedopuszczalne. ” ;
+
+- **124)** w art. 243: ust. 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+1. Postępowanie dyscyplinarne oraz czynności wyjaśniające, o których mowa w art. 240 ust. 4, prowadzi rzecznik dyscyplinarny.
+
+2. Przełożony dyscyplinarny powołuje rzeczników dyscyplinarnych na okres 4 lat spośród funkcjonariuszy w służbie stałej. Funkcjonariusz może być powoływany ponownie do pełnienia funkcji rzecznika dyscyplinarnego. ” , dodaje się ust. 5 w brzmieniu: „
+
+- **b)**
+
+5. Rzecznikiem dyscyplinarnym może być funkcjonariusz, który:
+
+- **1)** posiada wiedzę i doświadczenie zawodowe niezbędne do właściwego wykonywania obowiązków rzecznika dyscyplinarnego, w tym co najmniej: pięcioletni staż służby w Służbie Więziennej, pozytywną opinię służbową, dobrą znajomość przepisów dyscyplinarnych;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** nie był karany dyscyplinarnie;
+- **3)** wyraził pisemną zgodę na pełnienie funkcji rzecznika dyscyplinarnego. ” ;
+- **125)** w art. 244 po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+1a. Przełożony dyscyplinarny może odwołać rzecznika dyscyplinarnego na jego uzasadniony wniosek. ” ;
+
+- **126)** w art. 245 dodaje się ust. 7 w brzmieniu: „
+
+7. Do dnia wydania postanowienia, o którym mowa w ust. 6, przełożony dyscyplinarny podejmuje czynności niecierpiące zwłoki. ” ;
+
+- **127)** w art. 246 po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „
+
+2a. W przypadku wyłączenia Szefa IWSW od udziału w postępowaniu dyscyplinarnym na podstawie art. 245 ust. 1 i 2 postępowanie dyscyplinarne przejmuje zastępca Szefa IWSW, chyba że postępowanie dotyczy zastępcy Szefa IWSW.
+
+2b. W przypadku wyłączenia Rektora od udziału w postępowaniu dyscyplinarnym na podstawie art. 245 ust. 1 i 2 postępowanie dyscyplinarne przejmuje prorektor Uczelni, chyba że postępowanie dotyczy tego prorektora. ” ;
+
+- **128)** w art. 247: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Rzecznik dyscyplinarny zbiera materiał dowodowy i podejmuje czynności niezbędne do wyjaśnienia sprawy, w szczególności przesłuchuje świadków, obwinionego, przyjmuje od niego wyjaśnienia oraz przeprowadza konfrontacje, oględziny i okazania. Z czynności tych rzecznik dyscyplinarny sporządza protokoły. Rzecznik dyscyplinarny może także zlecić przeprowadzenie odpowiednich badań. ” , w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Protokół zawiera: ” , po ust. 7 dodaje się ust. 7a w brzmieniu: „
+
+- **b)**
+- **c)**
+
+7a. Rzecznik dyscyplinarny, który wydał postanowienie, w przypadku wniesienia zażalenia na to postanowienie niezwłocznie przekazuje je przełożonemu dyscyplinarnemu wraz z aktami postępowania oraz ze swoim stanowiskiem, nie później jednak niż w terminie 3 dni od dnia, w którym otrzymał zażalenie. ” , ust. 8 i 9 otrzymują brzmienie: „
+
+- **d)**
+
+8. W przypadku konieczności przeprowadzenia czynności poza miejscowością, w której toczy się postępowanie dyscyplinarne, przełożony dyscyplinarny lub rzecznik dyscyplinarny może zwrócić się o ich przeprowadzenie do przełożonego dyscyplinarnego właściwego według miejsca, w którym czynność ma być dokonana. Czynności przeprowadza rzecznik dyscyplinarny wyznaczony przez kierownika tej jednostki organizacyjnej.
+
+9. Jeżeli czyn będący przedmiotem postępowania dyscyplinarnego jest lub był przedmiotem innego postępowania, w tym postępowania przygotowawczego, przełożony dyscyplinarny lub rzecznik dyscyplinarny może zwrócić się do właściwego organu o udostępnienie akt tego postępowania w całości lub w części. Za zgodą tego organu potrzebne odpisy lub wyciągi z udostępnionych akt włącza się do akt postępowania dyscyplinarnego. ” , po ust. 9 dodaje się ust. 9a w brzmieniu: „
+
+- **e)**
+
+9a. W przypadku ustalenia na podstawie zebranego materiału dowodowego, że obwinionemu należy zarzucić czyn, który nie był objęty uprzednio wydanym postanowieniem, lub że zachodzi potrzeba istotnej zmiany opisu czynu lub jego kwalifikacji prawnej, rzecznik dyscyplinarny występuje do przełożonego dyscyplinarnego z wnioskiem o zmianę lub o uzupełnienie zarzutów. ” , ust. 10 i 11 otrzymują brzmienie: „
+
+- **f)**
+
+10. Jeżeli materiał dowodowy to uzasadnia, przełożony dyscyplinarny wydaje postanowienie o uzupełnieniu lub o zmianie zarzutów.
+
+11. Jeżeli w trakcie prowadzenia postępowania dyscyplinarnego funkcjonariusz popełni kolejne przewinienie, prowadzi się jedno postępowanie. Przepisy ust. 10 oraz art. 250a stosuje się odpowiednio. ” ;
+
+- **129)** w art. 248: w ust. 1 pkt 3 otrzymuje brzmienie: „
+    - **a)**
+
+- **3)** przeglądania akt postępowania dyscyplinarnego oraz sporządzania z nich notatek lub fotokopii; ” , w ust. 7 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 i 5 w brzmieniu: „
+    - **b)**
+
+- **4)** wniosek dowodowy w sposób oczywisty zmierza do przedłużenia postępowania;
+- **5)** wniosek dowodowy został złożony po zakreślonym terminie, o którym wnioskodawca został zawiadomiony, chyba że potrzeba złożenia takiego wniosku ujawniła się po upływie tego terminu, co należy uprawdopodobnić. ” , dodaje się ust. 10 w brzmieniu: „
+    - **c)**
+
+10. Choroba obwinionego, stwierdzona zwolnieniem lekarskim, usprawiedliwia jego nieobecność podczas czynności objętych danym postępowaniem przez okresy nie dłuższe niż 14 dni łącznie w ciągu całego postępowania dyscyplinarnego. Usprawiedliwienie nieobecności z powodu choroby za każdy następny jej okres wymaga przedstawienia zaświadczenia wystawionego przez lekarza uprawnionego do wystawiania zaświadczeń potwierdzających niemożność stawienia się na wezwanie lub zawiadomienie organu prowadzącego postępowanie karne. ” ;
+
+- **130)** w art. 250: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Czynności dowodowe w postępowaniu dyscyplinarnym kończy się w terminie miesiąca od dnia wszczęcia tego postępowania. Wyższy przełożony dyscyplinarny, w drodze postanowienia, może przedłużyć termin prowadzenia czynności dowodowych na czas oznaczony do 3 miesięcy. ” , po ust. 1 dodaje się ust. 1a-1c w brzmieniu: „
+
+- **b)**
+
+1a. Dyrektor Generalny, na Uczelni – Rektor, a w IWSW – Szef IWSW, w drodze postanowienia, może przedłużyć termin prowadzenia czynności dowodowych na czas oznaczony dłuższy niż 3 miesiące. W postępowaniu dyscyplinarnym, o którym mowa w art. 231 ust. 8 pkt 1, postanowienie wydaje Minister Sprawiedliwości.
+
+1b. Przedłużenie terminu następuje na wniosek przełożonego dyscyplinarnego prowadzącego postępowanie dyscyplinarne. Wniosek o przedłużenie terminu prowadzenia czynności dowodowych w postępowaniu dyscyplinarnym składa się nie później niż 5 dni przed upływem tego terminu. Przed wydaniem postanowienia o przedłużeniu terminu prowadzenia czynności dowodowych właściwy do jego wydania wyższy przełożony dyscyplinarny lub Dyrektor Generalny może zażądać niezwłocznego przekazania akt postępowania.
+
+1c. Na Uczelni oraz w IWSW wniosek, o którym mowa w ust. 1b, składa rzecznik dyscyplinarny prowadzący postępowanie. ” , ust. 2 otrzymuje brzmienie: „
+
+- **c)**
+
+2. Przełożony dyscyplinarny może zawiesić postępowanie dyscyplinarne, w drodze postanowienia, z powodu zaistnienia długotrwałej przeszkody uniemożliwiającej prowadzenie postępowania. ” , po ust. 2 dodaje się ust. 2a-2c w brzmieniu: „
+
+- **d)**
+
+2a. W przypadku przeniesienia funkcjonariusza do pełnienia służby w innej jednostce organizacyjnej przełożony dyscyplinarny zawiesza postępowanie dyscyplinarne z ostatnim dniem pełnienia służby w dotychczasowej jednostce organizacyjnej i przekazuje materiały postępowania dyscyplinarnego przełożonemu dyscyplinarnemu w jednostce organizacyjnej, do której obwiniony został przeniesiony.
+
+2b. Na postanowienie o zawieszeniu postępowania dyscyplinarnego obwinionemu i pokrzywdzonemu przysługuje zażalenie, z wyjątkiem postanowienia, o którym mowa w ust. 2a. Jeżeli postanowienie wydał Minister Sprawiedliwości, Dyrektor Generalny albo Rektor, zażalenie nie przysługuje, jednak obwiniony i pokrzywdzony mogą zwrócić się odpowiednio do Ministra Sprawiedliwości, Dyrektora Generalnego albo Rektora z wnioskiem o ponowne rozpatrzenie sprawy.
+
+2c. Zawieszenie postępowania dyscyplinarnego wstrzymuje bieg terminów. ” , dodaje się ust. 4 w brzmieniu: „
+
+- **e)**
+
+4. Postanowienie o podjęciu zawieszonego postępowania dyscyplinarnego w sprawie obwinionego przeniesionego do innej jednostki organizacyjnej wydaje się niezwłocznie po otrzymaniu materiałów postępowania dyscyplinarnego wszczętego w poprzedniej jednostce organizacyjnej. ” ;
+
+- **131)** po art. 250 dodaje się art. 250a i art. 250b w brzmieniu: „
+
+**Art. 250a.**
+
+1. Jeżeli przeciwko obwinionemu jest prowadzone postępowanie dyscyplinarne obejmujące zarzuty popełnienia dwóch lub więcej czynów, a zebrane na danym etapie postępowania dowody dają podstawy do uznania obwinionego winnym popełnienia jednego z zarzuconych mu czynów, przełożony dyscyplinarny może, w drodze postanowienia, wyłączyć ten czyn do odrębnego postępowania dyscyplinarnego, bez względu na to, czy wyjaśniono wszystkie okoliczności dotyczące pozostałych czynów objętych postępowaniem.
+
+2. W przypadku, o którym mowa w ust. 1, zebrane w toku postępowania dyscyplinarnego dowody dotyczące wyłączonego czynu stają się dowodami odrębnego postępowania dyscyplinarnego.
 
 1. Oczywiste omyłki pisarskie i rachunkowe w orzeczeniu lub postanowieniu można sprostować w każdym czasie w drodze postanowienia.
 
@@ -1041,25 +2093,39 @@ source: "isap-pdf"
 
 4. Sprostowanie omyłek pisarskich i rachunkowych następuje z urzędu albo na wniosek pokrzywdzonego, obwinionego lub ukaranego.
 
-5. Sprostowania dokonuje przełożony dyscyplinarny, wyższy przełożony dyscyplinarny lub rzecznik dyscyplinarny, który popełnił omyłkę. Jeżeli postępowanie toczy się przed wyższym przełożonym dyscyplinarnym, może on z urzędu sprostować orzeczenie lub postanowienie przełożonego dyscyplinarnego lub rzecznika dyscyplinarnego.”;
+5. Sprostowania dokonuje przełożony dyscyplinarny, wyższy przełożony dyscyplinarny lub rzecznik dyscyplinarny, który popełnił omyłkę. Jeżeli postępowanie toczy się przed wyższym przełożonym dyscyplinarnym, może on z urzędu sprostować orzeczenie lub postanowienie przełożonego dyscyplinarnego lub rzecznika dyscyplinarnego. ” ;
 
-- **132)** w art. 251: Nieusprawiedliwione niestawienie się obwinionego lub jego obrońcy na czynność zapoznania się z aktami postępowania dyscyplinarnego jest równoznaczne z odmową skorzystania z prawa do zapoznania się z tymi aktami.”,
-    - **a)** ust. 3 otrzymuje brzmienie: „3. Niezapoznanie się z aktami postępowania dyscyplinarnego lub odmowa zapoznania się z nimi albo odmowa złożenia podpisu stwierdzającego tę okoliczność nie wstrzymuje postępowania. Rzecznik dyscyplinarny dokonuje wzmianki o odmowie w aktach postępowania.
-    - **b)** w ust. 6 wprowadzenie do wyliczenia otrzymuje brzmienie: „Rzecznik dyscyplinarny, po zapoznaniu obwinionego z aktami postępowania dyscyplinarnego, wydaje postanowienie o zakończeniu czynności dowodowych oraz w terminie 7 dni od dnia zakończenia czynności dowodowych sporządza sprawozdanie, które:”;
+- **132)** w art. 251: ust. 3 otrzymuje brzmienie: „
+    - **a)**
 
-- **133)** w art. 252:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Na podstawie zebranego w postępowaniu dyscyplinarnym materiału dowodowego przełożony dyscyplinarny wydaje orzeczenie o:
+3. Niezapoznanie się z aktami postępowania dyscyplinarnego lub odmowa zapoznania się z nimi albo odmowa złożenia podpisu stwierdzającego tę okoliczność nie wstrzymuje postępowania. Rzecznik dyscyplinarny dokonuje wzmianki o odmowie w aktach postępowania. Nieusprawiedliwione niestawienie się obwinionego lub jego obrońcy na czynność zapoznania się z aktami postępowania dyscyplinarnego jest równoznaczne z odmową skorzystania z prawa do zapoznania się z tymi aktami. ” , w ust. 6 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Rzecznik dyscyplinarny, po zapoznaniu obwinionego z aktami postępowania dyscyplinarnego, wydaje postanowienie o zakończeniu czynności dowodowych oraz w terminie 7 dni od dnia zakończenia czynności dowodowych sporządza sprawozdanie, które: ” ;
+
+- **b)**
+- **133)** w art. 252: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Na podstawie zebranego w postępowaniu dyscyplinarnym materiału dowodowego przełożony dyscyplinarny wydaje orzeczenie o:
 
 - **1)** uniewinnieniu, jeżeli przeprowadzone postępowanie nie potwierdziło zarzutów stawianych obwinionemu, albo
 - **2)** uznaniu winnym popełnienia czynu, za który obwiniony ponosi odpowiedzialność dyscyplinarną, i o wymierzeniu kary dyscyplinarnej, albo
 - **3)** uznaniu winnym popełnienia czynu, za który obwiniony ponosi odpowiedzialność dyscyplinarną, i o odstąpieniu od wymierzenia kary dyscyplinarnej, albo
-- **4)** umorzeniu postępowania.”,
-    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Przełożony dyscyplinarny w orzeczeniu może zmienić opis czynu lub jego kwalifikację prawną wyłącznie w granicach czynu zarzucanego obwinionemu i jego kwalifikacji prawnej.”,
-    - **c)** ust. 3 i 4 otrzymują brzmienie: „3. Jeżeli przełożony dyscyplinarny uzna, że w przekazanych mu aktach postępowania dyscyplinarnego są istotne braki, w terminie 14 dni od dnia przekazania mu akt wydaje postanowienie o uchyleniu postanowienia o zakończeniu czynności dowodowych i zwraca sprawę rzecznikowi dyscyplinarnemu w celu usunięcia stwierdzonych braków w materiale dowodowym.
+- **4)** umorzeniu postępowania. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **b)**
 
-4. Jeżeli w dniu wydania orzeczenia zachodzi okoliczność uzasadniająca umorzenie postępowania w części, o umorzeniu rozstrzyga się w tym orzeczeniu.”;
+1a. Przełożony dyscyplinarny w orzeczeniu może zmienić opis czynu lub jego kwalifikację prawną wyłącznie w granicach czynu zarzucanego obwinionemu i jego kwalifikacji prawnej. ” , ust. 3 i 4 otrzymują brzmienie: „
 
-- **134)** po art. 252 dodaje się art. 252a w brzmieniu: „Art. 252a. 1. Postępowanie dyscyplinarne umarza się, jeżeli:
+- **c)**
+
+3. Jeżeli przełożony dyscyplinarny uzna, że w przekazanych mu aktach postępowania dyscyplinarnego są istotne braki, w terminie 14 dni od dnia przekazania mu akt wydaje postanowienie o uchyleniu postanowienia o zakończeniu czynności dowodowych i zwraca sprawę rzecznikowi dyscyplinarnemu w celu usunięcia stwierdzonych braków w materiale dowodowym.
+
+4. Jeżeli w dniu wydania orzeczenia zachodzi okoliczność uzasadniająca umorzenie postępowania w części, o umorzeniu rozstrzyga się w tym orzeczeniu. ” ;
+
+- **134)** po art. 252 dodaje się art. 252a w brzmieniu: „
+
+**Art. 252a.**
+
+1. Postępowanie dyscyplinarne umarza się, jeżeli:
+
 - **1)** nastąpiło przedawnienie karalności przewinienia dyscyplinarnego;
 - **2)** postępowanie dyscyplinarne wszczęto po upływie terminu, o którym mowa w art. 241 ust. 3;
 - **3)** obwiniony zmarł;
@@ -1070,24 +2136,41 @@ source: "isap-pdf"
 
 3. Orzeczenia o umorzeniu postępowania dyscyplinarnego z uwagi na przedawnienie karalności nie wydaje się w przypadku, gdy zebrane dowody uzasadniają uniewinnienie obwinionego od popełnienia zarzucanego mu czynu.
 
-4. W przypadku ponownego nawiązania stosunku służbowego z funkcjonariuszem, wobec którego w dniu jego zwolnienia ze służby postępowanie dyscyplinarne zostało umorzone na podstawie przesłanki, o której mowa w ust. 1 pkt 4, przełożony dyscyplinarny wydaje postanowienie o uchyleniu orzeczenia o umorzeniu tego postępowania dyscyplinarnego, o ile nie nastąpiło przedawnienie wymierzenia kary dyscyplinarnej za czyn będący przedmiotem tego postępowania, oraz wyznacza rzecznika dyscyplinarnego do prowadzenia postępowania dyscyplinarnego.”;
+4. W przypadku ponownego nawiązania stosunku służbowego z funkcjonariuszem, wobec którego w dniu jego zwolnienia ze służby postępowanie dyscyplinarne zostało umorzone na podstawie przesłanki, o której mowa w ust. 1 pkt 4, przełożony dyscyplinarny wydaje postanowienie o uchyleniu orzeczenia o umorzeniu tego postępowania dyscyplinarnego, o ile nie nastąpiło przedawnienie wymierzenia kary dyscyplinarnej za czyn będący przedmiotem tego postępowania, oraz wyznacza rzecznika dyscyplinarnego do prowadzenia postępowania dyscyplinarnego. ” ;
 
-- **135)** w art. 253:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Postępowanie dyscyplinarne jest dwuinstancyjne. Od orzeczenia wydanego w pierwszej instancji obwinionemu przysługuje odwołanie w terminie 14 dni od dnia doręczenia orzeczenia. Odwołanie może zostać wycofane przez obwinionego w terminie 7 dni od dnia złożenia odwołania.”,
-    - **b)** dodaje się ust. 9 w brzmieniu: „9. Przełożony dyscyplinarny, który wydał orzeczenie lub postanowienie w pierwszej instancji, w przypadku wniesienia odwołania lub zażalenia niezwłocznie przekazuje je wyższemu przełożonemu dyscyplinarnemu wraz z aktami postępowania, aktami osobowymi obwinionego oraz ze swoim stanowiskiem, nie później jednak niż w terminie 14 dni od dnia, w którym otrzymał odwołanie lub zażalenie.”;
+- **135)** w art. 253: ust. 1 otrzymuje brzmienie: „
+    - **a)**
 
-- **136)** w art. 255 ust. 1 otrzymuje brzmienie: „1. Wyższy przełożony dyscyplinarny w terminie 7 dni od dnia wniesienia odwołania może powołać komisję do zbadania zaskarżonego orzeczenia, zwaną dalej „komisją”. W przypadku odwołania od orzeczenia o ukaraniu karą, o której mowa w art. 232 pkt 4–7, powołanie komisji jest obowiązkowe.”;
-- **137)** w art. 256:
-    - **a)** ust. 3 otrzymuje brzmienie: „3. Rozpatrzenie odwołania przez wyższego przełożonego dyscyplinarnego następuje w terminie 30 dni od dnia wpływu odwołania, a w przypadku powołania komisji – w terminie 14 dni od dnia otrzymania sprawozdania, o którym mowa w ust. 1.”,
-    - **b)** w ust. 4 pkt 2 otrzymuje brzmienie: „2) uchylić w całości albo w części i w tym zakresie uniewinnić obwinionego, odstąpić od ukarania, względnie wymierzyć inną karę dyscyplinarną albo umorzyć postępowanie, albo uchylając to orzeczenie – umorzyć postępowanie dyscyplinarne pierwszej instancji, albo”;
+1. Postępowanie dyscyplinarne jest dwuinstancyjne. Od orzeczenia wydanego w pierwszej instancji obwinionemu przysługuje odwołanie w terminie 14 dni od dnia doręczenia orzeczenia. Odwołanie może zostać wycofane przez obwinionego w terminie 7 dni od dnia złożenia odwołania. ” , dodaje się ust. 9 w brzmieniu: „
 
-- **138)** w art. 257 pkt 1 otrzymuje brzmienie: „1) z upływem terminu do wniesienia odwołania, wniosku o ponowne rozpatrzenie sprawy lub zażalenia, jeżeli go nie wniesiono;”;
-- **139)** w art. 259 ust. 1 otrzymuje brzmienie: „1. W zakresie nieuregulowanym w niniejszej ustawie do postępowania dyscyplinarnego stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego dotyczące:
+- **b)**
+
+9. Przełożony dyscyplinarny, który wydał orzeczenie lub postanowienie w pierwszej instancji, w przypadku wniesienia odwołania lub zażalenia niezwłocznie przekazuje je wyższemu przełożonemu dyscyplinarnemu wraz z aktami postępowania, aktami osobowymi obwinionego oraz ze swoim stanowiskiem, nie później jednak niż w terminie 14 dni od dnia, w którym otrzymał odwołanie lub zażalenie. ” ;
+
+- **136)** w art. 255 ust. 1 otrzymuje brzmienie: „
+
+1. Wyższy przełożony dyscyplinarny w terminie 7 dni od dnia wniesienia odwołania może powołać komisję do zbadania zaskarżonego orzeczenia, zwaną dalej „komisją”. W przypadku odwołania od orzeczenia o ukaraniu karą, o której mowa w art. 232 pkt 4–7, powołanie komisji jest obowiązkowe. ” ;
+
+- **137)** w art. 256: ust. 3 otrzymuje brzmienie: „
+    - **a)**
+
+3. Rozpatrzenie odwołania przez wyższego przełożonego dyscyplinarnego następuje w terminie 30 dni od dnia wpływu odwołania, a w przypadku powołania komisji – w terminie 14 dni od dnia otrzymania sprawozdania, o którym mowa w ust. 1. ” , w ust. 4 pkt 2 otrzymuje brzmienie: „
+
+- **b)**
+- **2)** uchylić w całości albo w części i w tym zakresie uniewinnić obwinionego, odstąpić od ukarania, względnie wymierzyć inną karę dyscyplinarną albo umorzyć postępowanie, albo uchylając to orzeczenie – umorzyć postępowanie dyscyplinarne pierwszej instancji, albo ” ;
+- **138)** w art. 257 pkt 1 otrzymuje brzmienie: „
+- **1)** z upływem terminu do wniesienia odwołania, wniosku o ponowne rozpatrzenie sprawy lub zażalenia, jeżeli go nie wniesiono; ” ;
+- **139)** w art. 259 ust. 1 otrzymuje brzmienie: „
+
+1. W zakresie nieuregulowanym w niniejszej ustawie do postępowania dyscyplinarnego stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego dotyczące:
+
 - **1)** porządku czynności procesowych, z wyjątkiem art. 117 i art. 117a tej ustawy;
 - **2)** wezwań, terminów, doręczeń i świadków, z wyłączeniem art. 184 tej ustawy oraz możliwości nakładania kar porządkowych;
-- **3)** konfrontacji, okazania, oględzin i eksperymentu procesowego.”;
-- **140)** w art. 260:
-    - **a)** ust. 2 i 3 otrzymują brzmienie: „2. Kary dyscyplinarne podlegają zatarciu po upływie:
+- **3)** konfrontacji, okazania, oględzin i eksperymentu procesowego. ” ;
+- **140)** w art. 260: ust. 2 i 3 otrzymują brzmienie: „
+    - **a)**
+
+2. Kary dyscyplinarne podlegają zatarciu po upływie:
 
 - **1)** 12 miesięcy od dnia uprawomocnienia się orzeczenia kary nagany;
 - **2)** 18 miesięcy od dnia uprawomocnienia się orzeczenia kary ostrzeżenia o niepełnej przydatności na zajmowanym stanowisku służbowym lub do służby w Służbie Więziennej;
@@ -1097,11 +2180,21 @@ source: "isap-pdf"
 
 - **1)** 6 miesięcy od dnia uprawomocnienia się orzeczenia kary nagany;
 - **2)** 12 miesięcy od dnia uprawomocnienia się orzeczenia kary ostrzeżenia o niepełnej przydatności na zajmowanym stanowisku lub kary ostrzeżenia o niepełnej przydatności do służby w Służbie Więziennej;
-- **3)** 18 miesięcy od dnia uprawomocnienia się orzeczenia kary wyznaczenia na niższe stanowisko służbowe.”,
-    - **b)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. W przypadku, o którym mowa w ust. 3 i 4, funkcjonariusz otrzymuje informację o zatarciu kary dyscyplinarnej.”;
+- **3)** 18 miesięcy od dnia uprawomocnienia się orzeczenia kary wyznaczenia na niższe stanowisko służbowe. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
+    - **b)**
 
-- **141)** w art. 261 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Postępowanie dyscyplinarne z urzędu wznawia ten przełożony dyscyplinarny, który wydał orzeczenie będące przedmiotem wznowienia postępowania.”;
-- **142)** art. 262–264 otrzymują brzmienie: „Art. 262. 1. Po wznowieniu postępowania dyscyplinarnego przeprowadza się czynności dowodowe w zakresie przyczyn wznowienia oraz inne niezbędne czynności dowodowe, a po ich zakończeniu, stosownie do poczynionych ustaleń, wydaje się orzeczenie:
+4a. W przypadku, o którym mowa w ust. 3 i 4, funkcjonariusz otrzymuje informację o zatarciu kary dyscyplinarnej. ” ;
+
+- **141)** w art. 261 po ust. 2 dodaje się ust. 2a w brzmieniu: „
+
+2a. Postępowanie dyscyplinarne z urzędu wznawia ten przełożony dyscyplinarny, który wydał orzeczenie będące przedmiotem wznowienia postępowania. ” ;
+
+- **142)** art. 262–264 otrzymują brzmienie: „
+
+**Art. 262.**
+
+1. Po wznowieniu postępowania dyscyplinarnego przeprowadza się czynności dowodowe w zakresie przyczyn wznowienia oraz inne niezbędne czynności dowodowe, a po ich zakończeniu, stosownie do poczynionych ustaleń, wydaje się orzeczenie:
+
 - **1)** uchylające dotychczasowe orzeczenie i stwierdzające uniewinnienie ukaranego lub umorzenie postępowania dyscyplinarnego albo
 - **2)** zmieniające dotychczasowe orzeczenie i wymierzające inną karę dyscyplinarną, albo
 - **3)** utrzymujące karę dyscyplinarną w mocy, albo
@@ -1123,55 +2216,131 @@ source: "isap-pdf"
 
 **Art. 263.** Od orzeczenia i postanowienia kończących postępowanie dyscyplinarne funkcjonariuszowi przysługuje prawo wniesienia skargi do sądu administracyjnego.
 
-**Art. 264.** Minister Sprawiedliwości określi, w drodze rozporządzenia, obieg dokumentów związanych z postępowaniem dyscyplinarnym oraz wzory postanowień i innych dokumentów sporządzanych w postępowaniu dyscyplinarnym, mając na względzie potrzebę zapewnienia rzetelności i sprawności prowadzonego postępowania.”.
+**Art. 264.** Minister Sprawiedliwości określi, w drodze rozporządzenia, obieg dokumentów związanych z postępowaniem dyscyplinarnym oraz wzory postanowień i innych dokumentów sporządzanych w postępowaniu dyscyplinarnym, mając na względzie potrzebę zapewnienia rzetelności i sprawności prowadzonego postępowania. ” .
 
-**Art. 2.** W ustawie z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2020 r. poz. 537 oraz z 2021 r. poz. 2447 i 2448) w art. 1 w ust. 2 po pkt 5c dodaje się pkt 5d w brzmieniu: „5d) Inspektoracie Wewnętrznym Służby Więziennej;”.
+**Art. 2.** W ustawie z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2020 r. poz. 537 oraz z 2021 r. poz. 2447 i 2448) w art. 1 w ust. 2 po pkt 5c dodaje się pkt 5d w brzmieniu: „
 
-**Art. 3.** W ustawie z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2022 r. poz. 166 i 1301) w art. 15 w ust. 2 po pkt 1d dodaje się pkt 1e w brzmieniu: „1e) Szefowi Inspektoratu Wewnętrznego Służby Więziennej w celu realizacji jego zadań ustawowych;”.
+- **5d)** Inspektoracie Wewnętrznym Służby Więziennej; ” .
+
+**Art. 3.** W ustawie z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2022 r. poz. 166 i 1301) w art. 15 w ust. 2 po pkt 1d dodaje się pkt 1e w brzmieniu: „
+
+- **1e)** Szefowi Inspektoratu Wewnętrznego Służby Więziennej w celu realizacji jego zadań ustawowych; ” .
 
 **Art. 4.** W ustawie z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. z 2021 r. poz. 2073 i 2448 oraz z 2022 r. poz. 1488) w art. 11t wprowadza się następujące zmiany:
 
+- **1)** w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W celu realizacji zadań określonych w art. 11a ust. 3 oraz w zakresie niezbędnym do realizacji tych zadań Inspektor Nadzoru Wewnętrznego może: ” ;
+- **2)** uchyla się ust. 2.
+
 **Art. 5.** W ustawie z dnia 28 sierpnia 1997 r. o zatrudnianiu osób pozbawionych wolności (Dz. U. z 2021 r. poz. 179 oraz z 2022 r. poz. 1855) wprowadza się następujące zmiany:
 
-**Art. 6.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, z późn. zm. ) wprowadza się następujące zmiany:
+- **1)** po art. 6a dodaje się art. 6b w brzmieniu: „
 
-**Art. 7.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2021 r. poz. 2439, z późn. zm. ) w art. 105 w ust. 1 w pkt 2 w lit. zd średnik zastępuje się przecinkiem i dodaje się lit. ze w brzmieniu: „ze) Szefa Inspektoratu Wewnętrznego Służby Więziennej, jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, na zasadach i w trybie określonych w art. 23s ust. 3 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn. zm. );”.
+**Art. 6b.**
 
-**Art. 8.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2021 r. poz. 1893, z późn. zm. ) w art. 24:
+1. Fundusz Aktywizacji może zaciągać kredyty lub pożyczki w Banku Gospodarstwa Krajowego z przeznaczeniem na finansowanie zadań, o których mowa w art. 8.
+
+2. Umowę kredytu lub pożyczki, o których mowa w ust. 1, w imieniu Funduszu Aktywizacji zawiera jego dysponent po uzyskaniu zgody Ministra Sprawiedliwości.
+
+3. Minister Sprawiedliwości przejmuje zobowiązania Funduszu Aktywizacji w przypadku likwidacji tego Funduszu. ” ;
+
+- **2)** w art. 8 po ust. 3 dodaje się ust. 3a w brzmieniu: „
+
+3a. Koszty obsługi rachunku bankowego Funduszu Aktywizacji, a także koszty obsługi kredytu lub pożyczki, o których mowa w art. 6b ust. 1, są pokrywane ze środków Funduszu Aktywizacji. ” . W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 297 w § 1 po pkt 9 dodaje się pkt 9a w brzmieniu: „
+- **9a)** Szefowi Inspektoratu Wewnętrznego Służby Więziennej – w zakresie niezbędnym do realizacji zadań określonych w art. 23p ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn. zm.); ” ;
+- **2)** w art. 298 pkt 5b otrzymuje brzmienie: „
+- **5b)** Centralnemu Biuru Antykorupcyjnemu, Biuru Nadzoru Wewnętrznego, Policji, Żandarmerii Wojskowej, Straży Granicznej, Inspektoratowi Wewnętrznemu Służby Więziennej i ich posiadającym sporządzone na piśmie upoważnienie funkcjonariuszom lub żołnierzom, jeżeli jest to konieczne dla skutecznego zapobieżenia przestępstwom lub ich wykrycia, ustalenia sprawców i uzyskania dowodów albo ujawnienia mienia zagrożonego przepadkiem; ” .
+
+**Art. 7.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2021 r. poz. 2439, z późn. zm.) w art. 105 w ust. 1 w pkt 2 w lit. zd średnik zastępuje się przecinkiem i dodaje się lit. ze w brzmieniu: „
+
+Szefa Inspektoratu Wewnętrznego Służby Więziennej, jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, na zasadach i w trybie określonych w art. 23s ust. 3 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn. zm.); ” .
+
+- **ze)**
+
+**Art. 8.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2021 r. poz. 1893, z późn. zm.) w art. 24:
+
+- **1)** w ust. 2 i 3 wyrazy „Minister właściwy do spraw sprawiedliwości” zastępuje się wyrazami „Minister Sprawiedliwości”;
+- **2)** ust. 4 otrzymuje brzmienie: „
+
+4. Ministrowi Sprawiedliwości podlega Centralny Zarząd Służby Więziennej oraz Szef Inspektoratu Wewnętrznego Służby Więziennej. ” .
 
 **Art. 9.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2022 r. poz. 1009, 1079, 1115 i 1265) w art. 50 w ust. 3 i 9 po wyrazach „Straży Granicznej” dodaje się przecinek i wyrazy „Inspektoratowi Wewnętrznemu Służby Więziennej”.
 
-**Art. 10.** W ustawie z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym (Dz. U. z 2021 r. poz. 1709 oraz z 2022 r. poz. 1700) w art. 6 w ust. 1 pkt 7 otrzymuje brzmienie: „7) Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Policji, Straży Granicznej, Służbie Więziennej, Służbie Ochrony Państwa, Krajowej Administracji Skarbowej, Straży Marszałkowskiej, Centralnemu Biuru Antykorupcyjnemu, Biuru Nadzoru Wewnętrznego, Szefowi Krajowego Centrum Informacji Kryminalnych w zakresie, w jakim jest to konieczne do wykonywania nałożonych na nich zadań określonych w ustawie;”.
+**Art. 10.** W ustawie z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym (Dz. U. z 2021 r. poz. 1709 oraz z 2022 r. poz. 1700) w art. 6 w ust. 1 pkt 7 otrzymuje brzmienie: „
 
-**Art. 11.** W ustawie z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2022 r. poz. 170 i 1488) w art. 54 w ust. 1 w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu: „11) Szefa Inspektoratu Wewnętrznego Służby Więziennej – jeżeli jest to konieczne do skutecznego zapobieżenia przestępstwom, wykrycia i ustalenia ich sprawców lub uzyskania i utrwalenia dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 23s ust. 3 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn. zm. ).”.
+- **7)** Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Policji, Straży Granicznej, Służbie Więziennej, Służbie Ochrony Państwa, Krajowej Administracji Skarbowej, Straży Marszałkowskiej, Centralnemu Biuru Antykorupcyjnemu, Biuru Nadzoru Wewnętrznego, Szefowi Krajowego Centrum Informacji Kryminalnych w zakresie, w jakim jest to konieczne do wykonywania nałożonych na nich zadań określonych w ustawie; ” . W ustawie z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2022 r. poz. 170 i 1488) w art. 54 w ust. 1 w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu: „
+- **11)** Szefa Inspektoratu Wewnętrznego Służby Więziennej – jeżeli jest to konieczne do skutecznego zapobieżenia przestępstwom, wykrycia i ustalenia ich sprawców lub uzyskania i utrwalenia dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 23s ust. 3 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn. zm.). ” .
 
 **Art. 12.** W ustawie z dnia 6 lipca 2001 r. o przetwarzaniu informacji kryminalnych (Dz. U. z 2021 r. poz. 1607 oraz z 2022 r. poz. 655 i 1374) wprowadza się następujące zmiany:
 
-**Art. 13.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r. poz. 2072, z 2021 r. poz. 1080 i 1236 oraz z 2022 r. poz. 655 i 1259) w art. 16 w § 1 pkt 5 otrzymuje brzmienie: „5) kontroli danych telekomunikacyjnych, pocztowych i internetowych – do spraw związanych z kontrolą pozyskiwania danych telekomunikacyjnych, pocztowych i internetowych przez Policję, Agencję Bezpieczeństwa Wewnętrznego, Straż Graniczną, Centralne Biuro Antykorupcyjne, Służbę Ochrony Państwa, Służbę Celno-Skarbową, Inspektorat Wewnętrzny Służby Więziennej i Biuro Nadzoru Wewnętrznego.”.
+- **1)** w art. 19: uchyla się pkt 5 i 6, w pkt 15 kropkę zastępuje się średnikiem i dodaje się pkt 16 w brzmieniu: „
+    - **a)**
+    - **b)**
 
-**Art. 14.** W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2022 r. poz. 1523 i 1488) w art. 281 w ust. 1 po pkt 15 dodaje się pkt 15a w brzmieniu: „15a) Szefa Inspektoratu Wewnętrznego Służby Więziennej – jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, na zasadach i w trybie określonych w art. 23s ust. 3 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn. zm. );”.
+- **16)** Szef Inspektoratu Wewnętrznego Służby Więziennej. ” ;
+- **2)** w art. 20 w ust. 1 pkt 15 otrzymuje brzmienie: „
+- **15)** kierownicy jednostek organizacyjnych, o których mowa w art. 8 ust. 1 pkt 1, 2, 3 i 4 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn. zm.), ” .
 
-**Art. 15.** W ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2022 r. poz. 1648) w art. 179 w ust. 3 w pkt 1 w lit. a wprowadzenie do wyliczenia otrzymuje brzmienie: „uzyskiwanie przez Policję, Biuro Nadzoru Wewnętrznego, Straż Graniczną, Inspektorat Wewnętrzny Służby Więziennej, Służbę Ochrony Państwa, Agencję Bezpieczeństwa Wewnętrznego, Służbę Kontrwywiadu Wojskowego, Żandarmerię Wojskową, Centralne Biuro Antykorupcyjne i Krajową Administrację Skarbową, zwane dalej „uprawnionymi podmiotami”, w sposób określony w ust. 4b, dostępu do:”.
+**Art. 13.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r. poz. 2072, z 2021 r. poz. 1080 i 1236 oraz z 2022 r. poz. 655 i 1259) w art. 16 w § 1 pkt 5 otrzymuje brzmienie: „
 
-**Art. 16.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2022 r. poz. 1500 i 1488) w art. 149 po pkt 13 dodaje się pkt 13a w brzmieniu: „13a) Szefa Inspektoratu Wewnętrznego Służby Więziennej – jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, na zasadach i w trybie określonych w art. 23s ust. 3 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn. zm. );”.
+- **5)** kontroli danych telekomunikacyjnych, pocztowych i internetowych – do spraw związanych z kontrolą pozyskiwania danych telekomunikacyjnych, pocztowych i internetowych przez Policję, Agencję Bezpieczeństwa Wewnętrznego, Straż Graniczną, Centralne Biuro Antykorupcyjne, Służbę Ochrony Państwa, Służbę Celno-Skarbową, Inspektorat Wewnętrzny Służby Więziennej i Biuro Nadzoru Wewnętrznego. ” .
 
-**Art. 17.** W ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2022 r. poz. 924, 1358 i 1488) w art. 9f w ust. 1 po pkt 12b dodaje się pkt 12c w brzmieniu: „12c) na żądanie Szefa Inspektoratu Wewnętrznego Służby Więziennej – jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, na zasadach i w trybie określonych w art. 23s ust. 3 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn. zm. );”.
+**Art. 14.** W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2022 r. poz. 1523 i 1488) w art. 281 w ust. 1 po pkt 15 dodaje się pkt 15a w brzmieniu: „
 
-**Art. 18.** W ustawie z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742 oraz z 2022 r. poz. 655) wprowadza się następujące zmiany:
+- **15a)** Szefa Inspektoratu Wewnętrznego Służby Więziennej – jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, na zasadach i w trybie określonych w art. 23s ust. 3 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn. zm.); ” . W ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2022 r. poz. 1648) w art. 179 w ust. 3 w pkt 1 w lit. a wprowadzenie do wyliczenia otrzymuje brzmienie: „ uzyskiwanie przez Policję, Biuro Nadzoru Wewnętrznego, Straż Graniczną, Inspektorat Wewnętrzny Służby Więziennej, Służbę Ochrony Państwa, Agencję Bezpieczeństwa Wewnętrznego, Służbę Kontrwywiadu Wojskowego, Żandarmerię Wojskową, Centralne Biuro Antykorupcyjne i Krajową Administrację Skarbową, zwane dalej „uprawnionymi podmiotami”, w sposób określony w ust. 4b, dostępu do: ” .
 
-**Art. 19.** W ustawie z dnia 16 września 2011 r. o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi (Dz. U. z 2020 r. poz. 158 oraz z 2022 r. poz. 350) w art. 1 w ust. 2 po pkt 2a dodaje się pkt 2b w brzmieniu: „2b) Inspektorat Wewnętrzny Służby Więziennej;”.
+**Art. 16.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2022 r. poz. 1500 i 1488) w art. 149 po pkt 13 dodaje się pkt 13a w brzmieniu: „
 
-**Art. 20.** W ustawie z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2022 r. poz. 896) w art. 82 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Operator pocztowy, począwszy od dnia rozpoczęcia działalności pocztowej, jest obowiązany do nieodpłatnego zapewnienia, w ramach wykonywanej przez siebie działalności pocztowej, technicznych i organizacyjnych możliwości wykonywania przez Policję, Straż Graniczną, Agencję Bezpieczeństwa Wewnętrznego, Służbę Kontrwywiadu Wojskowego, Żandarmerię Wojskową, Centralne Biuro Antykorupcyjne, Krajową Administrację Skarbową, Biuro Nadzoru Wewnętrznego, Inspektorat Wewnętrzny Służby Więziennej i Służbę Ochrony Państwa, zwane dalej „uprawnionymi podmiotami”, oraz przez prokuraturę i sądy, ich zadań określonych odrębnymi przepisami, wymagających:”.
+- **13a)** Szefa Inspektoratu Wewnętrznego Służby Więziennej – jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, na zasadach i w trybie określonych w art. 23s ust. 3 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn. zm.); ” .
+
+**Art. 17.** W ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2022 r. poz. 924, 1358 i 1488) w art. 9f w ust. 1 po pkt 12b dodaje się pkt 12c w brzmieniu: „
+
+- **12c)** na żądanie Szefa Inspektoratu Wewnętrznego Służby Więziennej – jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, na zasadach i w trybie określonych w art. 23s ust. 3 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn. zm.); ” . W ustawie z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742 oraz z 2022 r. poz. 655) wprowadza się następujące zmiany:
+- **1)** w art. 23 w ust. 3 pkt 1 otrzymuje brzmienie: „
+- **1)** Szefa SKW, Szefa Agencji Wywiadu, zwanej dalej „AW”, Szefa CBA, Komendanta Służby Ochrony Państwa, Komendanta Głównego Policji, Dyrektora Generalnego Służby Więziennej, Szefa Inspektoratu Wewnętrznego Służby Więziennej, Komendanta Głównego Straży Granicznej, Inspektora Nadzoru Wewnętrznego oraz osób przewidzianych na te stanowiska; ” ;
+- **2)** w art. 72 w ust. 1 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
+- **7)** Szefowi Inspektoratu Wewnętrznego Służby Więziennej, jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, na zasadach i w trybie określonych w art. 23s ust. 3 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn. zm.). ” .
+
+**Art. 19.** W ustawie z dnia 16 września 2011 r. o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi (Dz. U. z 2020 r. poz. 158 oraz z 2022 r. poz. 350) w art. 1 w ust. 2 po pkt 2a dodaje się pkt 2b w brzmieniu: „
+
+- **2b)** Inspektorat Wewnętrzny Służby Więziennej; ” .
+
+**Art. 20.** W ustawie z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2022 r. poz. 896) w art. 82 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Operator pocztowy, począwszy od dnia rozpoczęcia działalności pocztowej, jest obowiązany do nieodpłatnego zapewnienia, w ramach wykonywanej przez siebie działalności pocztowej, technicznych i organizacyjnych możliwości wykonywania przez Policję, Straż Graniczną, Agencję Bezpieczeństwa Wewnętrznego, Służbę Kontrwywiadu Wojskowego, Żandarmerię Wojskową, Centralne Biuro Antykorupcyjne, Krajową Administrację Skarbową, Biuro Nadzoru Wewnętrznego, Inspektorat Wewnętrzny Służby Więziennej i Służbę Ochrony Państwa, zwane dalej „uprawnionymi podmiotami”, oraz przez prokuraturę i sądy, ich zadań określonych odrębnymi przepisami, wymagających: ” .
 
 **Art. 21.** W ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2022 r. poz. 1416 i 1700) wprowadza się następujące zmiany:
 
-**Art. 22.** W ustawie z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2021 r. poz. 1130, 2140 i 2328 oraz z 2022 r. poz. 655 i 1488) w art. 35 w ust. 2 po pkt 2a dodaje się pkt 2b w brzmieniu: „2b) Szefa Inspektoratu Wewnętrznego Służby Więziennej, o ile są niezbędne na potrzeby wykonywania czynności operacyjno-rozpoznawczych, na zasadach i w trybie określonych w art. 23s ust. 3 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn. zm. );”.
+- **1)** w art. 35: w ust. 2: – po pkt 1a dodaje się pkt 1b w brzmieniu: „ 1b) Szef Inspektoratu Wewnętrznego Służby Więziennej; ” , – pkt 10 otrzymuje brzmienie: „ 10) funkcjonariusz Służby Więziennej – w przypadku usiłowania bezpośredniego, bezprawnego zamachu na życie lub zdrowie uprawnionego lub innej osoby, usiłowania ucieczki przez osobę pozbawioną wolności, a także w pościgu za nią lub osobą, która dokonała bezpośredniego, bezprawnego zamachu na obiekty zakładu karnego, aresztu śledczego lub innej jednostki organizacyjnej, w której Służba Więzienna zapewnia porządek i bezpieczeństwo, oraz w przypadkach, o których mowa w art. 13 ust. 1. ” , w ust. 4 po pkt 7 dodaje się pkt 7a w brzmieniu: „
+    - **a)**
+    - **b)**
 
-**Art. 23.** W ustawie z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym (Dz. U. z 2020 r. poz. 152 oraz z 2022 r. poz. 1700) w art. 12 pkt 3 otrzymuje brzmienie: „3) Policji, Agencji Bezpieczeństwa Wewnętrznego, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Krajowej Administracji Skarbowej, Służbie Więziennej, Centralnemu Biuru Antykorupcyjnemu, Biuru Nadzoru Wewnętrznego oraz Inspektoratowi Wewnętrznemu Służby Więziennej – w zakresie, w jakim jest to konieczne do wykonania nałożonych na nie zadań określonych w ustawie;”.
+- **7a)** Służby Więziennej – Dyrektor Generalny Służby Więziennej, Szef Inspektoratu Wewnętrznego Służby Więziennej albo osoby przez nich upoważnione; ” , dodaje się ust. 7 w brzmieniu: „
+    - **c)**
 
-**Art. 24.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r. poz. 813, z późn. zm. ) wprowadza się następujące zmiany:
+7. Decyzję o użyciu środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 2 i 4, przez uprawnionego będącego funkcjonariuszem Służby Więziennej w przypadkach określonych w art. 19 ust. 6–10 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn. zm.) podejmują podmioty wskazane w tych przepisach. ” ;
+
+- **2)** w art. 45 w pkt 4 lit. b otrzymuje brzmienie: „ ujęcia lub udaremnienia ucieczki osoby zatrzymanej, tymczasowo aresztowanej lub odbywającej karę pozbawienia wolności lub osoby, wobec której zarządzono zatrzymanie i doprowadzenie celem odbycia kary pozbawienia wolności, jeżeli: – ucieczka tej osoby stwarza zagrożenie życia lub zdrowia uprawnionego lub innej osoby, – istnieje uzasadnione podejrzenie, że osoba ta może użyć materiałów wybuchowych, broni palnej lub innego niebezpiecznego przedmiotu, – pozbawienie wolności nastąpiło lub ma nastąpić w związku z uzasadnionym podejrzeniem lub stwierdzeniem popełnienia przestępstwa, o którym mowa w art. 115 § 20, art. 148, art. 156 § 1, art. 163–165, art. 197, art. 252 i art. 280–282 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, ” .
+    - **b)**
+
+**Art. 22.** W ustawie z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2021 r. poz. 1130, 2140 i 2328 oraz z 2022 r. poz. 655 i 1488) w art. 35 w ust. 2 po pkt 2a dodaje się pkt 2b w brzmieniu: „
+
+- **2b)** Szefa Inspektoratu Wewnętrznego Służby Więziennej, o ile są niezbędne na potrzeby wykonywania czynności operacyjno-rozpoznawczych, na zasadach i w trybie określonych w art. 23s ust. 3 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn. zm.); ” . W ustawie z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym (Dz. U. z 2020 r. poz. 152 oraz z 2022 r. poz. 1700) w art. 12 pkt 3 otrzymuje brzmienie: „
+- **3)** Policji, Agencji Bezpieczeństwa Wewnętrznego, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Krajowej Administracji Skarbowej, Służbie Więziennej, Centralnemu Biuru Antykorupcyjnemu, Biuru Nadzoru Wewnętrznego oraz Inspektoratowi Wewnętrznemu Służby Więziennej – w zakresie, w jakim jest to konieczne do wykonania nałożonych na nie zadań określonych w ustawie; ” . W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r. poz. 813, z późn. zm.) wprowadza się następujące zmiany:
+- **1)** w art. 95 ust. 5 otrzymuje brzmienie: „
+
+5. Audyt nie obejmuje oceny celowości i sposobu wykorzystania środków budżetowych oraz mienia państwowego, które zostały przeznaczone na cele specjalne, o których mowa w rozdziale 2a, w jednostkach podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych, w Biurze Nadzoru Wewnętrznego, Inspektoracie Wewnętrznym Służby Więziennej, Policji, Państwowej Straży Pożarnej, Straży Granicznej, Służbie Ochrony Państwa oraz w jednostkach organizacyjnych Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu oraz Centralnego Biura Antykorupcyjnego. ” ;
+
+- **2)** w art. 198 ust. 1 otrzymuje brzmienie: „
+
+1. Funkcjonariusza albo byłego funkcjonariusza Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Więziennej, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego, Straży Granicznej lub Służby Ochrony Państwa oraz osobę posiadającą stopień wojskowy przyjmowanych do służby mianuje się na stopień służbowy w Służbie Celno-Skarbowej równorzędny z posiadanym stopniem służbowym. Mianowanie może być uzależnione od odbycia szkolenia wymaganego do mianowania na dany stopień służbowy. ” .
 
 **Art. 25.** W ustawie z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2022 r. poz. 1710 i 1812) wprowadza się następujące zmiany:
+
+- **1)** w art. 11 w ust. 5 pkt 8 otrzymuje brzmienie: „
+- **8)** udzielanych przez Ministra Sprawiedliwości – Prokuratora Generalnego albo jednostki organizacyjne mu podległe lub przez niego nadzorowane przywięziennym zakładom pracy, prowadzonym jako przedsiębiorstwa państwowe albo instytucje gospodarki budżetowej, związanych z zatrudnianiem osób pozbawionych wolności, jeżeli zasadnicza część działalności przywięziennego zakładu pracy dotyczy wykonywania zadań powierzonych mu przez Ministra Sprawiedliwości – Prokuratora Generalnego lub jednostki organizacyjne mu podległe lub przez niego nadzorowane, realizowanych samodzielnie lub przy udziale podwykonawców, pod warunkiem że co najmniej część zamówienia jest realizowana przez osoby pozbawione wolności; ” ;
+- **2)** w art. 94 po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+1a. W przypadku udzielenia zamówienia przywięziennemu zakładowi pracy, zakładowi pracy chronionej, spółdzielni socjalnej lub innemu wykonawcy, o którym mowa w ust. 1, wartość procentowego wskaźnika, o którym mowa w ust. 1, ustala się w odniesieniu do ogólnego zatrudnienia w tym podmiocie osób społecznie marginalizowanych. ” .
 
 **Art. 26.**
 
@@ -1203,33 +2372,17 @@ source: "isap-pdf"
 
 **Art. 34.** Minister Sprawiedliwości wyda zarządzenie, o którym mowa w art. 11b ustawy zmienianej w art. 1, w terminie 30 dni od dnia utworzenia IWSW.
 
-**Art. 35.** Szef IWSW wyda zarządzenie, o którym mowa w art. 11a ust. 12 ustawy zmienianej w art. 1, w terminie 3 miesięcy od dnia utworzenia IWSW.
+**Art. 35.** Szef IWSW wyda zarządzenie, o którym mowa w art. 11a ust. 12 ustawy zmienianej w art. 1, w terminie 3 miesięcy od dnia utworzenia IWSW. Szef IWSW przedstawia po raz pierwszy sprawozdanie, o którym mowa w art. 11a ust. 11 ustawy zmienianej w art. 1, w terminie do dnia 31 stycznia 2024 r.
 
-**Art. 36.** Szef IWSW przedstawia po raz pierwszy sprawozdanie, o którym mowa w art. 11a ust. 11 ustawy zmienianej w art. 1, w terminie do dnia 31 stycznia 2024 r.
-
-**Art. 37.** Szef IWSW przekazuje po raz pierwszy sprawozdanie, o którym mowa w art. 23za ust. 2 ustawy zmienianej w art. 1, w terminie do dnia 31 lipca 2023 r.
-
-**Art. 38.** Znosi się Radę Polityki Penitencjarnej.
-
-**Art. 39.**
-
-1. Badania naukowe prowadzone na rzecz Służby Więziennej oraz w jednostkach organizacyjnych Służby Więziennej na podstawie zgód lub porozumień, na realizację których zgodę wyraził organ Służby Więziennej, rozpoczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy, są prowadzone na zasadach dotychczasowych.
-
-2. Dokumentację dotyczącą badań zrealizowanych na rzecz Służby Więziennej oraz w jednostkach organizacyjnych Służby Więziennej na podstawie zgód lub porozumień, na realizację których zgodę wyraził organ Służby Więziennej, zakończonych po dniu wejścia w życie niniejszej ustawy, pozostającą do dnia wejścia w życie niniejszej ustawy w dyspozycji organu jednostki organizacyjnej Służby Więziennej, organ ten przekaże Rektorowi-Komendantowi uczelni Służby Więziennej, zwanemu dalej „Rektorem”, w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy. Z czynności przekazania dokumentacji sporządza się protokół zdawczo-odbiorczy.
+**Art. 37.** Szef IWSW przekazuje po raz pierwszy sprawozdanie, o którym mowa w art. 23za ust. 2 ustawy zmienianej w art. 1, w terminie do dnia 31 lipca 2023 r. Znosi się Radę Polityki Penitencjarnej. 1. Badania naukowe prowadzone na rzecz Służby Więziennej oraz w jednostkach organizacyjnych Służby Więziennej na podstawie zgód lub porozumień, na realizację których zgodę wyraził organ Służby Więziennej, rozpoczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy, są prowadzone na zasadach dotychczasowych. 2. Dokumentację dotyczącą badań zrealizowanych na rzecz Służby Więziennej oraz w jednostkach organizacyjnych Służby Więziennej na podstawie zgód lub porozumień, na realizację których zgodę wyraził organ Służby Więziennej, zakończonych po dniu wejścia w życie niniejszej ustawy, pozostającą do dnia wejścia w życie niniejszej ustawy w dyspozycji organu jednostki organizacyjnej Służby Więziennej, organ ten przekaże Rektorowi-Komendantowi uczelni Służby Więziennej, zwanemu dalej „Rektorem”, w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy. Z czynności przekazania dokumentacji sporządza się protokół zdawczo-odbiorczy.
 
 **Art. 40.** Czynności, o których mowa w art. 18 ust. 1 pkt 3 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, dokonane przed dniem wejścia w życie niniejszej ustawy są skuteczne, jeżeli dokonano ich z zachowaniem przepisów dotychczasowych.
 
 **Art. 41.** Do wniosków złożonych przez podmioty i osoby, o których mowa w art. 24a ust. 3 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, i nierozpatrzonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-**Art. 42.** Do postępowań w sprawie nadania odznaki „Za zasługi w pracy penitencjarnej” wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+**Art. 42.** Do postępowań w sprawie nadania odznaki „Za zasługi w pracy penitencjarnej” wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe. Postępowania kwalifikacyjne wobec kandydata do służby w Służbie Więziennej, o którym mowa w art. 39b ust. 1 pkt 1 lit. c ustawy zmienianej w art. 1, wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy prowadzi się na podstawie przepisów dotychczasowych. Do osób przebywających w dniu wejścia w życie niniejszej ustawy na urlopie macierzyńskim, urlopie na warunkach urlopu macierzyńskiego, urlopie ojcowskim lub urlopie rodzicielskim stosuje się przepis art. 42 ust. 5 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 43.** Postępowania kwalifikacyjne wobec kandydata do służby w Służbie Więziennej, o którym mowa w art. 39b ust. 1 pkt 1 lit. c ustawy zmienianej w art. 1, wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy prowadzi się na podstawie przepisów dotychczasowych.
-
-**Art. 44.** Do osób przebywających w dniu wejścia w życie niniejszej ustawy na urlopie macierzyńskim, urlopie na warunkach urlopu macierzyńskiego, urlopie ojcowskim lub urlopie rodzicielskim stosuje się przepis art. 42 ust. 5 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
-
-**Art. 45.** Wnioski o dopuszczenie do egzaminu poprawkowego złożone na podstawie art. 43zm ust. 1 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym i nierozpatrzone przed dniem wejścia w życie niniejszej ustawy Dyrektor Generalny Służby Więziennej przekazuje Rektorowi w terminie 14 dni od dnia wejścia w życie niniejszej ustawy.
-
-**Art. 46.** Rektor i prorektorzy Uczelni powołani przed dniem wejścia w życie niniejszej ustawy pełnią funkcje do końca swoich kadencji, z wyjątkiem przypadku wcześniejszego ich odwołania z pełnionej funkcji.
+**Art. 45.** Wnioski o dopuszczenie do egzaminu poprawkowego złożone na podstawie art. 43zm ust. 1 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym i nierozpatrzone przed dniem wejścia w życie niniejszej ustawy Dyrektor Generalny Służby Więziennej przekazuje Rektorowi w terminie 14 dni od dnia wejścia w życie niniejszej ustawy. Rektor i prorektorzy Uczelni powołani przed dniem wejścia w życie niniejszej ustawy pełnią funkcje do końca swoich kadencji, z wyjątkiem przypadku wcześniejszego ich odwołania z pełnionej funkcji.
 
 **Art. 47.** Do funkcjonariuszy Służby Więziennej mianowanych na stanowisko kierownicze albo powołanych na wyższe stanowisko kierownicze przed dniem wejścia w życie niniejszej ustawy nie stosuje się wymagań, o których mowa w art. 44a ust. 1 albo 2 ustawy zmienianej w art. 1.
 
@@ -1237,17 +2390,13 @@ source: "isap-pdf"
 
 **Art. 49.** Funkcjonariusz Służby Więziennej mianowany przed dniem wejścia w życie niniejszej ustawy na stanowisko, o którym mowa w art. 67a ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, zachowuje dotychczasowe stanowisko służbowe na podstawie powołania od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 50.** Do funkcjonariusza Służby Więziennej, wobec którego postępowanie w sprawie zawieszenia w czynnościach służbowych zostało wszczęte przed dniem wejścia w życie niniejszej ustawy, przepis art. 95 ust. 2 ustawy zmienianej w art. 1 stosuje się w brzmieniu dotychczasowym.
-
-**Art. 51.** W przypadku funkcjonariuszy Służby Więziennej nieobecnych w służbie z powodu choroby w dniu wejścia w życie niniejszej ustawy okres 500 dni, o którym mowa w art. 96 ust. 2 pkt 6 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, liczy się od dnia wejścia w życie niniejszej ustawy.
+**Art. 50.** Do funkcjonariusza Służby Więziennej, wobec którego postępowanie w sprawie zawieszenia w czynnościach służbowych zostało wszczęte przed dniem wejścia w życie niniejszej ustawy, przepis art. 95 ust. 2 ustawy zmienianej w art. 1 stosuje się w brzmieniu dotychczasowym. W przypadku funkcjonariuszy Służby Więziennej nieobecnych w służbie z powodu choroby w dniu wejścia w życie niniejszej ustawy okres 500 dni, o którym mowa w art. 96 ust. 2 pkt 6 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, liczy się od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 52.**
 
 1. Do funkcjonariuszy Służby Więziennej, którzy podjęli naukę przed dniem wejścia w życie niniejszej ustawy i kontynuują ją po tym dniu, stosuje się przepisy dotychczasowe.
 
-2. Prawo do urlopu, o którym mowa w art. 146 ust. 1 pkt 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, przysługuje również osobom kształcącym się na studiach doktoranckich.
-
-**Art. 53.** Przepis art. 164 ust. 4 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą oraz przepis art. 164b ustawy zmienianej w art. 1 stosuje się do postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy.
+2. Prawo do urlopu, o którym mowa w art. 146 ust. 1 pkt 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, przysługuje również osobom kształcącym się na studiach doktoranckich. Przepis art. 164 ust. 4 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą oraz przepis art. 164b ustawy zmienianej w art. 1 stosuje się do postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy.
 
 **Art. 54.** W przypadku funkcjonariuszy Służby Więziennej, wobec których orzeczenia, o których mowa w art. 221 ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, uprawomocniły się przed dniem wejścia w życie niniejszej ustawy, do postępowań w sprawie ponownego nawiązania stosunku służbowego stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu dotychczasowym.
 
@@ -1271,7 +2420,7 @@ source: "isap-pdf"
 
 **Art. 59.**
 
-1. W okresie 18 miesięcy od dnia wejścia w życie niniejszej ustawy Minister Sprawiedliwości, wykonując ustalenia zawarte w akcie utworzenia Uczelni Służby Więziennej, może wyposażyć nadzorowaną Uczelnię Służby Więziennej w nieruchomości z zasobu nieruchomości Skarbu Państwa pozostające w dyspozycji Ministra Sprawiedliwości, jednostki organizacyjnej mu podległej lub przez niego nadzorowanej.
+1. W okresie 18 miesięcy od dnia wejścia w życie niniejszej ustawy Minister Sprawiedliwości, wykonując ustalenia zawarte w akcie utworzenia Uczelni Służby Więziennej, może wyposażyć nadzorowaną Uczelnię Służby Więziennej w nieruchomości z zasobu nieruchomości Skarbu Państwa pozostające w dyspozycji Ministra Sprawiedliwości lub jednostki organizacyjnej przez niego nadzorowanej.
 
 2. W okresie, o którym mowa w ust. 1, Minister Sprawiedliwości może wyposażyć nadzorowaną państwową osobę prawną w nieruchomości z zasobu nieruchomości Skarbu Państwa pozostające w dyspozycji innego ministra niż określony w ust. 1, jednostek organizacyjnych przez niego nadzorowanych lub państwowych osób prawnych – za zgodą odpowiednio tego ministra albo organu uprawnionego do reprezentacji państwowej osoby prawnej.
 
@@ -1281,9 +2430,7 @@ source: "isap-pdf"
 
 5. Minister Sprawiedliwości składa wniosek o założenie księgi wieczystej dla nieruchomości Skarbu Państwa, w przypadku jej braku, lub o wpis w księdze wieczystej.
 
-6. Działanie określone w ust. 1 jest równoznaczne z wygaśnięciem trwałego zarządu nieruchomości pozostających w dyspozycji Ministra Sprawiedliwości, jednostki organizacyjnej mu podległej lub przez niego nadzorowanej. Minister Sprawiedliwości, orzekając o wygaśnięciu trwałego zarządu, rozstrzyga zarządzeniem o zagospodarowaniu nieruchomości i powiadamia o tym ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa – w odniesieniu do nieruchomości pozostających w dyspozycji Ministra Sprawiedliwości, albo właściwy organ w rozumieniu ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami – w odniesieniu do pozostałych nieruchomości. Przepisów art. 46 ust. 3 i 4 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami nie stosuje się.
-
-**Art. 60.**
+6. Działanie określone w ust. 1 jest równoznaczne z wygaśnięciem trwałego zarządu nieruchomości pozostających w dyspozycji Ministra Sprawiedliwości lub jednostki organizacyjnej przez niego nadzorowanej. Minister Sprawiedliwości, orzekając o wygaśnięciu trwałego zarządu, rozstrzyga zarządzeniem o zagospodarowaniu nieruchomości i powiadamia o tym ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa – w odniesieniu do nieruchomości pozostających w dyspozycji Ministra Sprawiedliwości, albo właściwy organ w rozumieniu ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami – w odniesieniu do pozostałych nieruchomości. Przepisów art. 46 ust. 3 i 4 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami nie stosuje się.
 
 1. W okresie 18 miesięcy od dnia wejścia w życie niniejszej ustawy Minister Sprawiedliwości może nieodpłatnie przejąć na rzecz Skarbu Państwa prawa do nieruchomości nadzorowanej państwowej osoby prawnej, za jej zgodą, i przekazać je na rzecz nadzorowanej Uczelni Służby Więziennej lub innej nadzorowanej państwowej osoby prawnej. Przepisy art. 51 ust. 2 oraz art. 55a ust. 3 i 4 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami stosuje się odpowiednio.
 
@@ -1307,7 +2454,9 @@ source: "isap-pdf"
 - **2)** art. 24a ust. 5 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 24a ust. 6 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy;
 - **3)** art. 73 ust. 4, art. 119 ust. 3, art. 164a ust. 4 i art. 213 ust. 3 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie odpowiednio art. 73 ust. 4, art. 119 ust. 3, art. 164a ust. 4 i art. 213 ust. 3 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 198 ust. 2 ustawy zmienianej w art. 24 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 198 ust. 2 ustawy zmienianej w art. 24 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 198 ust. 2 ustawy zmienianej w art. 24 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 198 ust. 2 ustawy zmienianej w art. 24 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
-**Art. 62.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+- **1)** art. 1 pkt 11 i 12 w zakresie art. 18b, które wchodzą w życie z dniem 1 stycznia 2023 r.;
+- **2)** art. 1 pkt 2, art. 1 pkt 3 lit. a i c w zakresie art. 8 ust. 1b, art. 1 pkt 5 lit. b w zakresie IWSW, art. 1 pkt 6, art. 1 pkt 10 lit. b w zakresie art. 16 ust. 2a, art. 1 pkt 15, art. 1 pkt 16 w zakresie art. 23b, art. 1 pkt 21, art. 1 pkt 24 w zakresie art. 38a ust. 2 w zakresie IWSW i art. 38b, art. 1 pkt 26 lit. a tiret drugie i lit. b w zakresie IWSW, art. 1 pkt 28 w zakresie art. 39g ust. 2 w zakresie IWSW, art. 1 pkt 29 lit. a w zakresie art. 42 ust. 3a, art. 1 pkt 30, art. 1 pkt 33 i 34 w zakresie IWSW, art. 1 pkt 35, art. 1 pkt 42, art. 1 pkt 45 lit. b, art. 1 pkt 46 lit. b, art. 1 pkt 48 lit. a w zakresie art. 50 ust. 2 pkt 3 i lit. b w zakresie art. 50 ust. 3a, art. 1 pkt 54, art. 1 pkt 62 w zakresie art. 63 ust. 1 pkt 2 i 4 i ust. 2 pkt 1 i 3, art. 1 pkt 63, art. 1 pkt 70 lit. b w zakresie IWSW, art. 1 pkt 75 w zakresie art. 88 pkt 1 i 3, art. 1 pkt 76 lit. a, art. 1 pkt 80 w zakresie art. 98 ust. 3 w zakresie IWSW, art. 1 pkt 103 w zakresie art. 173 ust. 3 pkt 2 w zakresie IWSW, art. 1 pkt 106 w zakresie art. 192 pkt 1 w zakresie IWSW i pkt 3, art. 1 pkt 115 lit. b w zakresie pkt 1 w zakresie IWSW, art. 1 pkt 121 w zakresie art. 240a ust. 2 w zakresie IWSW, art. 1 pkt 127 w zakresie art. 246 ust. 2a, art. 1 pkt 130 lit. b w zakresie art. 250 ust. 1a i 1c w zakresie IWSW, art. 2–4, art. 6–11, art. 12 pkt 1 lit. b, art. 13–20, art. 21 pkt 1 lit. a tiret pierwsze i lit. b, art. 22, art. 23, art. 24 pkt 1, art. 26, art. 31 i art. 33–37, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia.
+
 

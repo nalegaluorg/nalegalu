@@ -11,7 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie szczegółowych zasad ochrony i zbioru płodów runa leśnego oraz zasad lokalizowania pasiek na obszarach leśnych.
+# szenia ma zastosowanie do oraz 40 z dnia 20 stycznia 1999 sprawie terminu zawiadomienia o prowadzeniu podatkowej Na podstawie art. 50 ustawy z dnia 29 sierpnia 1997 r.-Ordynacja podatkowa (Dz. U. 137, 926 160, 1083 oraz z 1998 r. 106, 668) za co datkowej 148, 1999 r.
 
 | Pole | Wartość |
 |---|---|
@@ -21,33 +21,36 @@ source: "isap-pdf"
 | Status | obowiązujący |
 | W mocy | tak |
 | Data ogłoszenia | 1998-12-28 |
+| Wejście w życie | 1999-02-05 |
 | Ostatnia zmiana | 2014-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990060042) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/42/text.pdf) |
 
-Na podstawie art. 27 ust. 5 ustawy z dnia 28 września 1991 r. o lasach (Dz.U. Nr 101, poz.
-444, z 1992 r. Nr 21, poz. 85 i Nr 54, poz. 254, z 1994 r. Nr 1, poz. 3 i Nr 127, poz. 627, z 1995 r. Nr 147, poz. 713, z 1996 r. Nr 91, poz. 409, z 1997 r. Nr 54, poz. 349, Nr 121, poz.
-770 i Nr 160, poz. 1079 oraz z 1998 r. Nr 106, poz. 668) zarządza się, co następuje: § 1.
-Runo leśne powinno być obserwowane pod kątem oceny zagrożenia zniszczenia jednego lub więcej gatunków wchodzących w jego skład. Nie dotyczy to lasów objętych stały zakazem wstępu.
-§ 2.
-Zbiór płodów runa leśnego na własne potrzeby dopuszczalny jest w lasach nie objętych stały lub okresowym zakazem wstępu.
-§ 3 .
-Skup płodów runa leśnego może być prowadzony jedynie od osób fizycznych i prawnych, na podstawie umowy z nadleśnictwami na dokonywanie zbioru dla celów przemysłowych. Skup tych płodów powinien odbywać się zgodnie z zawartymi umowami.
-§ 4.
-Przy zbiorze płodów runa leśnego dopuszcza się wyłącznie:
-1) zbiór owocników grzybów jadalnych bez oznak rozkładu,
-2) zbiór owoców ręcznie (bez użycia jakichkolwiek narzędzi i urządzeń niszczących lub uszkadzających rośliny),
-3) przy pozyskiwaniu całych roślin lub ich części - stosowanie małych łopatek, noży ogrodniczych lub sekatorów, siatek i płacht.
-§ 5.
-1. Lokalizowanie pasiek na terenie lasów stanowiących własność Skarbu Państwa dopuszcza się w uzgodnieniu z zarządcą lasu.
-2. Lokalizowanie pasiek w lasach nie stanowiących własności Skarbu Państwa wymaga zgody właściciela lasu: § 6.
-Pasieki mogą być lokalizowane w lasach:
-1) nie objętych stałym lub okresowym zakazem wstępu,
-2) nie zaliczonych do I kategorii zagrożenia pożarowego,
-3) w których nie są planowane w określonym roku prace i zabiegi gospodarcze i ochronne,
-4) nie przeznaczonych do masowego wypoczynku i rekreacji ludności,
-5) nie wymagających urządzania i utrzymywania specjalnych dróg dojazdowych do pasieki.
-§ 7.
-Właściciel pasieki zobowiązany jest do wywiezienia jej z lasu na własny koszt na okres prowadzenia prac (zabiegów) zagrażających życiu i zdrowiu pszczół lub grożących uszkodzeniem pasieki.
-§ 8.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+2.
+1. W 1999 r. termin zawiadomienia, o którym mo- szenia.
+wa 9 ust. 1 Ministra Finansów z dnia 14 grudnia 1995 r. sprawie prowadzenia po41 z dnia stycznia 1999 r.
+sprawie planu emisji znaczków Na podstawie art. 44 ust. 3 ustawy z dnia 23 listo pada 1990 r. o (Dz. U. z 1995 r. 117, 564, z 1996 r. 106, 496, z 1997 r. 43, 272, 88, 554, 106, 675, 121, 770 137, 926 oraz z 1998 r. 137, 887 150, 984) co
+1. W do Ministra
+674) z dnia 23 lipca 1998 r. sprawie planu emisji znaczków pocztowych na 1999 r. (Dz. U. 107, obiegu" zem "Iipiec".
+2.
+14 dni od z dnia 28 grudnia 1998 sprawie zasad ochrony zbioru runa obszarach Na podstawie art. 27 ust. 5 ustawy z dnia 28 wrze 21, gatunków jego Nie dotyczy to lasów zakazem
+2. Zbiór runa na potrze by dopuszczony jest lasach nie lub okresowym zakazem
+3. Skup runa prowa dzony jedynie od osób fizycznych prawnych, na pod stawie umowy z na dokonywanie zbioru dla celów Skup tych powinien zgodnie z zawartymi umowa mi.
+4. Przy zbiorze runa dopuszcza
+1) zbiór owocników grzybów jadalnych bez oznak roz
+2) zbiór owoców (bez jakichkolwiek na lub
+3) przy pozyskiwaniu lub ich stosowanie ogrodniczych lub sekatorów, siatek lasu.
+6. Pasieki nie pu, nie zaliczonych go,
+3) których nie prace zabiegi
+4) nie przeznaczonych rekreacji
+5) nie cjalnych dróg
+7.
+zienia jej z lasu prac (zabiegów) lub uszkodzeniem
+8.
+14 dni od dnia Minister Ochrony 43 z dnia 15 stycznia 1999 r.
+sprawie zasad ustalania obliczania z ubezpieczenia Na podstawie art. 13, art. 27 ust. 3, art. 34 ust. oraz art. 39 ust. 3 ustawy z dnia 17 grudnia 1974 r. o czeniach z ubezpieczenia razie choroby (Dz. U. z 1983 r. 30, 143, z 1985 r. 4, 15, z 1986 r. 42, 202, z 1989 r. 4, 21 35, 192, z 1991 r. 104, 450, 106, 457 110, 474, z 1995 r.
+16, 77 oraz z 1998 r. 162, 1118) co
+1. W Ministra Pracy Polityki So cjalnej z dnia 14 lutego 1995 r. sprawie wych zasad ustalania podstawy wymiaru obliczania z ubezpieczenia (Dz. U. 19, kiem dodaje 18,71%
+2. W okresie zmiany stawie art. 77 Kodeksu ku chorobowego, wymienionego nowi kwota 528
+3.
+szenia z od
 

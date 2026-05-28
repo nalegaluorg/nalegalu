@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# o zmianie ustawy o ochronie roślin przed agrofagami oraz niektórych innych ustaw
-
-*USTAWA z dnia 7 listopada 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 grudnia 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,630 +22,747 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2025-11-07 |
 | Data wydania | 2025-12-05 |
+| Wejście w życie | 2026-01-05 |
 | Ostatnia zmiana | 2025-12-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001709) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1709/text.pdf) |
 
+USTAWA z dnia 7 listopada 2025 r.
+o zmianie ustawy o ochronie roślin przed agrofagami oraz niektórych innych ustaw
+
 **Art. 1.** W ustawie z dnia 13 lutego 2020 r. o ochronie roślin przed agrofagami (Dz. U. z 2023 r. poz. 301) wprowadza się następujące zmiany:
+
+- **1)** art. 11 ust. 1 pkt 1 wyraz „trzeci” zastępuje się wyrazem „drugi”;
+- **2)** art. 33:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Właściwym organem do:
+
+- **1)** wyznaczenia punktów kontroli granicznej, o których mowa art. 59 rozporządzenia 2017/625, których przeprowadza się kontrolę urzędową określonych roślin, produktów roślinnych lub innych przedmiotów wprowadzanych z państw trzecich obszarze, o którym mowa art. 1 ust. 2 lit. g rozporządzenia 2017/625, zwanych dalej „punktami kontroli granicznej”, wycofania tego wyznaczenia, zawieszenia tego wyznaczenia i nakazania wstrzymania działalności tych punktów oraz odwołania tego zawieszenia jest minister właściwy do spraw rolnictwa;
+- **2)** przeprowadzenia kontroli spełnienia minimalnych wymogów dotyczących punktów kontroli granicznej, o których mowa art. 64 ust. 3 rozporządzenia 2017/625 i rozporządzeniu wykonawczym Komisji (UE) 2019/1014 z dnia 12 czerwca 2019 r. ustanawiającym szczegółowe przepisy zakresie minimalnych wymogów dotyczących punktów kontroli granicznej, tym ośrodków inspekcyjnych, oraz formatu, kategorii i skrótów stosowanych wykazach punktów kontroli granicznej i punktów kontroli (Dz. Urz. UE L 165 z 21.06.2019, str. 10), zwanym dalej „rozporządzeniem 2019/1014”, jest wojewódzki inspektor właściwy ze względu na lokalizację tych punktów.”,
+    - **b)** uchyla się ust. 3,
+    - **c)** ust. 4 uchyla się zdanie drugie,
+    - **d)** ust. 5 otrzymuje brzmienie: „5. Zawieszenie punktu kontroli granicznej i nakaz wstrzymania działalności tego punktu kontroli granicznej są dokonywane na wniosek Głównego Inspektora.”,
+    - **e)** ust. 6 skreśla się wyrazy „lub punktu kontroli, innego niż punkt kontroli granicznej”,
+    - **f)** ust. 7 otrzymuje brzmienie: „7. Zawieszenie punktu kontroli granicznej i nakaz wstrzymania działalności tego punktu kontroli granicznej są skuteczne od dnia następującego po dniu, którym zostało ogłoszone obwieszczenie, o którym mowa ust. 6.”,
+    - **h)** ust. 9 otrzymuje brzmienie: „9. Główny Inspektor wykonuje obowiązki państwa członkowskiego Unii Europejskiej zakresie przekazywania informacji, o których mowa art. 63 ust. 2 i ust. 4 lit. b rozporządzenia 2017/625, dotyczących punktów kontroli granicznej.”;
+
+- **3)** po art. 33 dodaje się art. 33a–33c brzmieniu: „Art. 33a. 1. Właściwym organem do:
+- **1)** wyznaczenia punktów kontroli innych niż punkty kontroli granicznej, o których mowa art. 53 ust. 1 lit. a rozporządzenia 2017/625, których mogą być przeprowadzane kontrole identyfikacyjne i kontrole bezpośrednie przesyłek określonych roślin, produktów roślinnych lub innych przedmiotów wprowadzanych z państw trzecich obszarze, o którym mowa art. 1 ust. 2 lit. g rozporządzenia 2017/625, zwanych dalej „punktami kontroli innymi niż punkty kontroli granicznej”, wycofania tego wyznaczenia, zawieszenia tego wyznaczenia i nakazania wstrzymania ich działalności oraz odwołania tego zawieszenia,
+- **2)** przeprowadzenia kontroli spełnienia minimalnych wymogów dotyczących punktów kontroli granicznej, o których mowa art. 64 ust. 3 rozporządzenia 2017/625 i rozporządzeniu 2019/1014, mających zastosowanie do punktów kontroli innych niż punkty kontroli granicznej, zgodnie z art. 53 ust. 1 lit. a rozporządzenia 2017/625 jest wojewódzki inspektor właściwy ze względu na ich lokalizację.
+
+2. Jako punkt kontroli inny niż punkt kontroli granicznej może zostać wyznaczony:
+
+- **1)** obiekt Inspekcji;
+- **2)** obiekt podmiotu innego niż Inspekcja.
 
 **Art. 33b.**
 
 1. Wojewódzki inspektor wyznacza punkt kontroli inny niż punkt kontroli granicznej, jeżeli:
 
-- **1)** zostały spełnione wymogi, o których mowa w art. 64 ust. 3 rozporządzenia 2017/625 i rozporządzeniu 2019/1014, w zakresie zapewniającym właściwe przeprowadzanie kontroli identyfikacyjnych lub kontroli bezpośrednich przesyłek roślin, produktów roślinnych lub innych przedmiotów, które będą poddawane takim kontrolom w tym punkcie kontroli innym niż punkt kontroli granicznej;
-- **2)** ten punkt kontroli inny niż punkt kontroli granicznej uzyskał pozytywną opinię naczelnika urzędu celno-skarbowego właściwego ze względu na proponowaną jego lokalizację dotyczącą wyznaczenia tego punktu kontroli innego niż punkt kontroli granicznej w tym miejscu.
+- **1)** zostały spełnione wymogi, o których mowa art. 64 ust. 3 rozporządzenia 2017/625 i rozporządzeniu 2019/1014, zakresie zapewniającym właściwe przeprowadzanie kontroli identyfikacyjnych lub kontroli bezpośrednich przesyłek roślin, produktów roślinnych lub innych przedmiotów, które będą poddawane takim kontrolom tym punkcie kontroli innym niż punkt kontroli granicznej;
+- **2)** ten punkt kontroli inny niż punkt kontroli granicznej uzyskał pozytywną opinię naczelnika urzędu celno-skarbowego właściwego ze względu na proponowaną jego lokalizację dotyczącą wyznaczenia tego punktu kontroli innego niż punkt kontroli granicznej tym miejscu.
 
-2. Wyznaczenie obiektu podmiotu innego niż Inspekcja jako punktu kontroli innego niż punkt kontroli granicznej jest dokonywane na wniosek tego podmiotu, w drodze decyzji wojewódzkiego inspektora.
+2. Wyznaczenie obiektu podmiotu innego niż Inspekcja jako punktu kontroli innego niż punkt kontroli granicznej jest dokonywane na wniosek tego podmiotu, drodze decyzji wojewódzkiego inspektora.
 
-3. Wniosek, o którym mowa w ust. 2, zawiera:
+3. Wniosek, o którym mowa ust. 2, zawiera:
 
-- **1)** imię, nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres wnioskodawcy, z tym że w przypadku gdy wnioskodawcą jest osoba fizyczna wykonująca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby wniosek ten zawiera adres miejsca wykonywania działalności gospodarczej;
-- **2)** adres do korespondencji, jeżeli jest inny niż określony w pkt 1;
-- **3)** numer identyfikacji podatkowej (NIP) wnioskodawcy, a w przypadku wnioskodawcy nieposiadającego tego numeru, numer PESEL, jeżeli taki numer posiada;
+- **1)** imię, nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres wnioskodawcy, z tym że przypadku gdy wnioskodawcą jest osoba fizyczna wykonująca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby wniosek ten zawiera adres miejsca wykonywania działalności gospodarczej;
+- **2)** adres do korespondencji, jeżeli jest inny niż określony pkt 1;
+- **3)** numer identyfikacji podatkowej (NIP) wnioskodawcy, a przypadku wnioskodawcy nieposiadającego tego numeru, numer PESEL, jeżeli taki numer posiada;
 - **4)** imię, nazwisko i adres do korespondencji osoby właściwej do kontaktów z wojewódzkim inspektorem;
 - **5)** proponowaną lokalizację punktu kontroli innego niż punkt kontroli granicznej;
-- **6)** wskazanie roślin, produktów roślinnych lub innych przedmiotów, które będą poddawane kontroli identyfikacyjnej lub kontroli bezpośredniej w punkcie kontroli innym niż punkt kontroli granicznej;
-- **7)** opis sposobu spełnienia wymogów, o których mowa w art. 64 ust. 3 rozporządzenia 2017/625 i rozporządzeniu 2019/1014;
-- **8)** okres, na jaki ma zostać wyznaczony punkt kontroli inny niż punkt kontroli granicznej.
+- **6)** wskazanie roślin, produktów roślinnych lub innych przedmiotów, które będą poddawane kontroli identyfikacyjnej lub kontroli bezpośredniej punkcie kontroli innym niż punkt kontroli granicznej;
+- **7)** opis sposobu spełnienia wymogów, o których mowa art. 64 ust. 3 rozporządzenia 2017/625 i rozporządzeniu 2019/1014;
+- **8)** okres, na jaki ma zostać wyznaczony punkt kontroli inny niż punkt kontroli granicznej. mowa ust. 2, zamiast informacji określonych ust. 3 pkt 1–3 może podać numer, pod którym został wpisany do tego rejestru.
 
-4. Jeżeli wnioskodawca jest wpisany do urzędowego rejestru podmiotów profesjonalnych, we wniosku, o którym mowa w ust. 2, zamiast informacji określonych w ust. 3 pkt 1–3 może podać numer, pod którym został wpisany do tego rejestru.
+5. Wojewódzki inspektor przed wydaniem decyzji, o której mowa ust. 2, przeprowadza kontrolę urzędową celu sprawdzenia spełnienia wymogów, o których mowa art. 64 ust. 3 rozporządzenia 2017/625 i rozporządzeniu 2019/1014.
 
-5. Wojewódzki inspektor przed wydaniem decyzji, o której mowa w ust. 2, przeprowadza kontrolę urzędową w celu sprawdzenia spełnienia wymogów, o których mowa w art. 64 ust. 3 rozporządzenia 2017/625 i w rozporządzeniu 2019/1014.
+6. Wojewódzki inspektor po wydaniu decyzji, o której mowa ust. 2, może przeprowadzić kontrolę urzędową celu sprawdzenia, czy punkt kontroli inny niż punkt kontroli granicznej nadal spełnia wymogi, o których mowa art. 64 ust. 3 rozporządzenia 2017/625 i rozporządzeniu 2019/1014.
 
-6. Wojewódzki inspektor po wydaniu decyzji, o której mowa w ust. 2, może przeprowadzić kontrolę urzędową w celu sprawdzenia, czy punkt kontroli inny niż punkt kontroli granicznej nadal spełnia wymogi, o których mowa w art. 64 ust. 3 rozporządzenia 2017/625 i w rozporządzeniu 2019/1014.
+7. Podmiot, o którym mowa ust. 2, powiadamia wojewódzkiego inspektora o zmianie informacji zawartych we wniosku, o którym mowa ust. 2, terminie 30 dni od dnia zajścia zdarzenia, które spowodowało zmianę tych informacji.
 
-7. Podmiot, o którym mowa w ust. 2, powiadamia wojewódzkiego inspektora o zmianie informacji zawartych we wniosku, o którym mowa w ust. 2, w terminie 30 dni od dnia zajścia zdarzenia, które spowodowało zmianę tych informacji.
+8. Jeżeli podmiot, o którym mowa ust. 2, nie dopełnił obowiązku określonego ust. 7, wojewódzki inspektor:
 
-8. Jeżeli podmiot, o którym mowa w ust. 2, nie dopełnił obowiązku określonego w ust. 7, wojewódzki inspektor:
+- **1)** nakazuje na piśmie usunięcie stwierdzonych uchybień wyznaczonym terminie, jednak nie krótszym niż 7 dni od dnia doręczenia nakazu, jeżeli stwierdzone uchybienia nie mają wpływu na prawidłowy przebieg kontroli identyfikacyjnych lub kontroli bezpośrednich przeprowadzanych punkcie kontroli innym niż punkt kontroli granicznej, albo
+- **2)** zawiesza drodze decyzji wyznaczenie punktu kontroli innego niż punkt kontroli granicznej i nakazuje wstrzymanie jego działalności albo wycofuje jego wyznaczenie, jeżeli stwierdzone uchybienia mają wpływ na prawidłowy przebieg kontroli identyfikacyjnych lub kontroli bezpośrednich przeprowadzanych tym punkcie kontroli innym niż punkt kontroli granicznej, zależności od rodzaju i zakresu stwierdzonych uchybień.
 
-- **1)** nakazuje na piśmie usunięcie stwierdzonych uchybień w wyznaczonym terminie, jednak nie krótszym niż 7 dni od dnia doręczenia nakazu, jeżeli stwierdzone uchybienia nie mają wpływu na prawidłowy przebieg kontroli identyfikacyjnych lub kontroli bezpośrednich przeprowadzanych w punkcie kontroli innym niż punkt kontroli granicznej, albo
-- **2)** zawiesza w drodze decyzji wyznaczenie punktu kontroli innego niż punkt kontroli granicznej i nakazuje wstrzymanie jego działalności albo wycofuje jego wyznaczenie, jeżeli stwierdzone uchybienia mają wpływ na prawidłowy przebieg kontroli identyfikacyjnych lub kontroli bezpośrednich przeprowadzanych w tym punkcie kontroli innym niż punkt kontroli granicznej, w zależności od rodzaju i zakresu stwierdzonych uchybień.
+9. W przypadku gdy podmiot, o którym mowa ust. 2, nie usunie stwierdzonych uchybień terminie, o którym mowa ust. 8 pkt 1, wojewódzki inspektor wycofuje, drodze decyzji, wyznaczenie punktu kontroli innego niż punkt kontroli granicznej.
 
-9. W przypadku gdy podmiot, o którym mowa w ust. 2, nie usunie stwierdzonych uchybień w terminie, o którym mowa w ust. 8 pkt 1, wojewódzki inspektor wycofuje, w drodze decyzji, wyznaczenie punktu kontroli innego niż punkt kontroli granicznej.
+10. Jeżeli z informacji zawartych powiadomieniu, o którym mowa ust. 7, wynika, że punkt kontroli inny niż punkt kontroli granicznej przestał spełniać warunki wymagane do jego wyznaczenia, wojewódzki inspektor:
 
-10. Jeżeli z informacji zawartych w powiadomieniu, o którym mowa w ust. 7, wynika, że punkt kontroli inny niż punkt kontroli granicznej przestał spełniać warunki wymagane do jego wyznaczenia, wojewódzki inspektor:
+- **1)** nakazuje na piśmie usunięcie stwierdzonych uchybień wyznaczonym terminie, jednak nie krótszym niż 7 dni od dnia doręczenia nakazu, jeżeli stwierdzone uchybienia nie mają wpływu na prawidłowy przebieg kontroli identyfikacyjnych lub kontroli bezpośrednich przeprowadzanych tym punkcie kontroli innym niż punkt kontroli granicznej, albo
+- **2)** zawiesza drodze decyzji wyznaczenie punktu kontroli innego niż punkt kontroli granicznej i nakazuje wstrzymanie jego działalności albo wycofuje jego wyznaczenie, jeżeli stwierdzone uchybienia mają wpływ na prawidłowy przebieg kontroli identyfikacyjnych lub kontroli bezpośrednich przeprowadzanych tym punkcie kontroli innym niż punkt kontroli granicznej, zależności od rodzaju i zakresu stwierdzonych uchybień.
 
-- **1)** nakazuje na piśmie usunięcie stwierdzonych uchybień w wyznaczonym terminie, jednak nie krótszym niż 7 dni od dnia doręczenia nakazu, jeżeli stwierdzone uchybienia nie mają wpływu na prawidłowy przebieg kontroli identyfikacyjnych lub kontroli bezpośrednich przeprowadzanych w tym punkcie kontroli innym niż punkt kontroli granicznej, albo
-- **2)** zawiesza w drodze decyzji wyznaczenie punktu kontroli innego niż punkt kontroli granicznej i nakazuje wstrzymanie jego działalności albo wycofuje jego wyznaczenie, jeżeli stwierdzone uchybienia mają wpływ na prawidłowy przebieg kontroli identyfikacyjnych lub kontroli bezpośrednich przeprowadzanych w tym punkcie kontroli innym niż punkt kontroli granicznej, w zależności od rodzaju i zakresu stwierdzonych uchybień.
+11. W przypadku gdy podmiot, o którym mowa ust. 2, nie usunie stwierdzonych uchybień terminie, o którym mowa ust. 10 pkt 1, wojewódzki inspektor wycofuje, drodze decyzji, wyznaczenie punktu kontroli innego niż punkt kontroli granicznej.
 
-11. W przypadku gdy podmiot, o którym mowa w ust. 2, nie usunie stwierdzonych uchybień w terminie, o którym mowa w ust. 10 pkt 1, wojewódzki inspektor wycofuje, w drodze decyzji, wyznaczenie punktu kontroli innego niż punkt kontroli granicznej.
+12. Wycofanie wyznaczenia obiektu podmiotu innego niż Inspekcja jako punktu kontroli innego niż punkt kontroli granicznej przypadku, o którym mowa art. 62 ust. 1 lit. a rozporządzenia 2017/625, oraz zawieszenie tego wyznaczenia i nakazanie wstrzymania działalności tego punktu kontroli innego niż punkt kontroli granicznej przypadku, o którym mowa art. 63 ust. 1 rozporządzenia 2017/625, jest dokonywane przez wojewódzkiego inspektora drodze decyzji.
 
-12. Wycofanie wyznaczenia obiektu podmiotu innego niż Inspekcja jako punktu kontroli innego niż punkt kontroli granicznej w przypadku, o którym mowa w art. 62 ust. 1 lit. a rozporządzenia 2017/625, oraz zawieszenie tego wyznaczenia i nakazanie wstrzymania działalności tego punktu kontroli innego niż punkt kontroli granicznej w przypadku, o którym mowa w art. 63 ust. 1 rozporządzenia 2017/625, jest dokonywane przez wojewódzkiego inspektora w drodze decyzji.
+13. Wojewódzki inspektor wycofuje, drodze decyzji, wyznaczenie punktu kontroli innego niż punkt kontroli granicznej również:
 
-13. Wojewódzki inspektor wycofuje, w drodze decyzji, wyznaczenie punktu kontroli innego niż punkt kontroli granicznej również:
+- **1)** na wniosek podmiotu, o którym mowa ust. 2;
+- **2)** przypadku gdy podmiot, o którym mowa ust. 2, uniemożliwia lub utrudnia przeprowadzenie kontroli urzędowej, o której mowa ust. 6, co powoduje, że nie jest możliwe ustalenie, czy punkt kontroli inny niż punkt kontroli granicznej nadal spełnia wymogi, o których mowa art. 64 ust. 3 rozporządzenia 2017/625 i rozporządzeniu 2019/1014.
 
-- **1)** na wniosek podmiotu, o którym mowa w ust. 2;
-- **2)** w przypadku gdy podmiot, o którym mowa w ust. 2, uniemożliwia lub utrudnia przeprowadzenie kontroli urzędowej, o której mowa w ust. 6, co powoduje, że nie jest możliwe ustalenie, czy punkt kontroli inny niż punkt kontroli granicznej nadal spełnia wymogi, o których mowa w art. 64 ust. 3 rozporządzenia 2017/625 i w rozporządzeniu 2019/1014.
+14. Odwołanie zawieszenia wyznaczenia obiektu podmiotu innego niż Inspekcja jako punktu kontroli innego niż punkt kontroli granicznej jest dokonywane przez wojewódzkiego inspektora drodze decyzji.
 
-14. Odwołanie zawieszenia wyznaczenia obiektu podmiotu innego niż Inspekcja jako punktu kontroli innego niż punkt kontroli granicznej jest dokonywane przez wojewódzkiego inspektora w drodze decyzji.
-
-15. Decyzje, o których mowa w ust. 8 pkt 2, ust. 9, ust. 10 pkt 2, ust. 11 i 12, ust. 13 pkt 2 i ust. 14, podlegają natychmiastowemu wykonaniu.
-
-**Art. 33c.**
-
-1. Wojewódzki inspektor informuje Głównego Inspektora o wyznaczeniu punktu kontroli innego niż punkt kontroli granicznej, wycofaniu tego wyznaczenia, zawieszeniu tego wyznaczenia i nakazaniu wstrzymania działalności tego punktu kontroli innego niż punkt kontroli granicznej oraz odwołaniu tego zawieszenia.
+15. Decyzje, o których mowa ust. 8 pkt 2, ust. 9, ust. 10 pkt 2, ust. 11 i 12, ust. 13 pkt 2 i ust. 14, podlegają natychmiastowemu wykonaniu. punkt kontroli granicznej, wycofaniu tego wyznaczenia, zawieszeniu tego wyznaczenia i nakazaniu wstrzymania działalności tego punktu kontroli innego niż punkt kontroli granicznej oraz odwołaniu tego zawieszenia.
 
 2. Główny Inspektor:
 
-- **1)** udostępnia na stronie internetowej administrowanej przez Główny Inspektorat wykaz, o którym mowa w art. 60 ust. 1 rozporządzenia 2017/625, dotyczący punktów kontroli innych niż punkty kontroli granicznej;
-- **2)** wykonuje obowiązki państwa członkowskiego Unii Europejskiej w zakresie przekazywania informacji, o których mowa w art. 63 ust. 2 i ust. 4 lit. b rozporządzenia 2017/625, dotyczących punktów kontroli innych niż punkty kontroli granicznej.”;
-- **4)** po art. 37 dodaje się art. 37a i art. 37b w brzmieniu: „Art. 37a. 1. W przypadku drewnianych materiałów opakowaniowych, przy których wykorzystaniu są przewożone z państw trzecich towary inne niż rośliny, produkty roślinne lub inne przedmioty, które przed wprowadzeniem z państw trzecich powinny zostać poddane granicznej kontroli fitosanitarnej, kontrola dokumentacji w zakresie sprawdzenia, czy te drewniane materiały opakowaniowe są prawidłowo oznakowane, kontrola identyfikacyjna lub kontrola bezpośrednia tych drewnianych materiałów opakowaniowych może zostać przeprowadzona po wyrażeniu zgody przez wojewódzkiego inspektora, na wniosek odbiorcy przesyłki, we wskazanym przez tego odbiorcę punkcie dopuszczenia do obrotu w Unii, w magazynach lub obiektach, lub w miejscu przeznaczenia, o których mowa w art. 44 ust. 3 lit. c–e rozporządzenia 2017/625, jeżeli przeprowadzenie granicznej kontroli fitosanitarnej tych drewnianych materiałów opakowaniowych jest niemożliwe w miejscu ich wprowadzenia z państw trzecich z uwagi na specyfikę przewożonych towarów lub możliwość uszkodzenia przewożonych towarów.
+- **1)** udostępnia na stronie internetowej administrowanej przez Główny Inspektorat wykaz, o którym mowa art. 60 ust. 1 rozporządzenia 2017/625, dotyczący punktów kontroli innych niż punkty kontroli granicznej;
+- **2)** wykonuje obowiązki państwa członkowskiego Unii Europejskiej zakresie przekazywania informacji, o których mowa art. 63 ust. 2 i ust. 4 lit. b rozporządzenia 2017/625, dotyczących punktów kontroli innych niż punkty kontroli granicznej.”;
+- **4)** po art. 37 dodaje się art. 37a i art. 37b brzmieniu: „Art. 37a. 1. W przypadku drewnianych materiałów opakowaniowych, przy których wykorzystaniu są przewożone z państw trzecich towary inne niż rośliny, produkty roślinne lub inne przedmioty, które przed wprowadzeniem z państw trzecich powinny zostać poddane granicznej kontroli fitosanitarnej, kontrola dokumentacji zakresie sprawdzenia, czy te drewniane materiały opakowaniowe są prawidłowo oznakowane, kontrola identyfikacyjna lub kontrola bezpośrednia tych drewnianych materiałów opakowaniowych może zostać przeprowadzona po wyrażeniu zgody przez wojewódzkiego inspektora, na wniosek odbiorcy przesyłki, we wskazanym przez tego odbiorcę punkcie dopuszczenia do obrotu Unii, magazynach lub obiektach, lub miejscu przeznaczenia, o których mowa art. 44 ust. 3 lit. c–e rozporządzenia 2017/625, jeżeli przeprowadzenie granicznej kontroli fitosanitarnej tych drewnianych materiałów opakowaniowych jest niemożliwe miejscu ich wprowadzenia z państw trzecich z uwagi na specyfikę przewożonych towarów lub możliwość uszkodzenia przewożonych towarów.
 
-2. Zgoda na przeprowadzenie kontroli dokumentacji, kontroli identyfikacyjnej lub kontroli bezpośredniej, o których mowa w ust. 1, we wskazanym przez odbiorcę przesyłki punkcie dopuszczenia do obrotu w Unii, w magazynach lub obiektach, lub w miejscu przeznaczenia, o których mowa w art. 44 ust. 3 lit. c–e rozporządzenia 2017/625, jest udzielana, w drodze decyzji, przez wojewódzkiego inspektora właściwego ze względu na:
+2. Zgoda na przeprowadzenie kontroli dokumentacji, kontroli identyfikacyjnej lub kontroli bezpośredniej, o których mowa ust. 1, we wskazanym przez odbiorcę przesyłki punkcie dopuszczenia do obrotu Unii, magazynach lub obiektach, lub miejscu przeznaczenia, o których mowa art. 44 ust. 3 lit. c–e rozporządzenia 2017/625, jest udzielana, drodze decyzji, przez wojewódzkiego inspektora właściwego ze względu na:
 
-- **1)** miejsce wprowadzenia z państw trzecich drewnianych materiałów opakowaniowych, o których mowa w ust. 1 – w przypadku gdy te drewniane materiały opakowaniowe są wprowadzane na terytorium Rzeczypospolitej Polskiej bezpośrednio z państwa trzeciego;
-- **2)** lokalizację punktu dopuszczenia do obrotu w Unii, magazynów lub obiektów, lub miejsca przeznaczenia, o których mowa w art. 44 ust. 3 lit. c–e rozporządzenia 2017/625 – w przypadku gdy drewniane materiały opakowaniowe, o których mowa w ust. 1, są wprowadzane na terytorium Rzeczypospolitej Polskiej z państwa trzeciego przez terytorium innego państwa członkowskiego.
+- **1)** miejsce wprowadzenia z państw trzecich drewnianych materiałów opakowaniowych, o których mowa ust. 1 przypadku gdy te drewniane materiały opakowaniowe są wprowadzane na terytorium Rzeczypospolitej Polskiej bezpośrednio z państwa trzeciego;
+- **2)** lokalizację punktu dopuszczenia do obrotu Unii, magazynów lub obiektów, lub miejsca przeznaczenia, o których mowa art. 44 ust. 3 lit. c–e rozporządzenia 2017/625 przypadku gdy drewniane materiały opakowaniowe, o których mowa ust. 1, są wprowadzane na terytorium Rzeczypospolitej Polskiej z państwa trzeciego przez terytorium innego państwa członkowskiego.
 
-3. Wniosek, o którym mowa w ust. 1, zawiera:
+3. Wniosek, o którym mowa ust. 1, zawiera:
 
-- **1)** imię, nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres odbiorcy przesyłki, z tym że w przypadku gdy odbiorcą przesyłki jest osoba fizyczna wykonująca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby wniosek ten zawiera adres miejsca wykonywania działalności gospodarczej;
-- **2)** adres do korespondencji, jeżeli jest inny niż określony w pkt 1;
-- **3)** numer identyfikacji podatkowej (NIP) odbiorcy przesyłki, a w przypadku odbiorcy przesyłki nieposiadającego tego numeru, numer PESEL, jeżeli taki numer posiada;
-- **4)** opis drewnianych materiałów opakowaniowych, o których mowa w ust. 1, i wskazanie ich ilości;
-- **5)** opis sposobu transportu drewnianych materiałów opakowaniowych, o których mowa w ust. 1, do punktu dopuszczenia do obrotu w Unii, magazynów lub obiektów, lub miejsca przeznaczenia, o których mowa w art. 44 ust. 3 lit. c–e rozporządzenia 2017/625;
-- **6)** wskazanie punktu dopuszczenia do obrotu w Unii, magazynów lub obiektów, lub miejsca przeznaczenia, o których mowa w art. 44 ust. 3 lit. c–e rozporządzenia 2017/625, w których drewniane materiały opakowaniowe, o których mowa w ust. 1, zostaną poddane kontroli dokumentacji, kontroli identyfikacyjnej lub kontroli bezpośredniej, o których mowa w ust. 1, i będą przechowywane do czasu uzyskania wyników tych kontroli;
-- **7)** wskazanie sposobu, w jaki drewniane materiały opakowaniowe, o których mowa w ust. 1, mogą na koszt odbiorcy przesyłki zostać zniszczone lub poddane jednorazowemu zabiegowi, jeżeli kontrola dokumentacji, kontrola identyfikacyjna lub kontrola bezpośrednia, o których mowa w ust. 1, wykażą, że te drewniane materiały opakowaniowe nie spełniają wymagań określonych w przepisach, o których mowa w art. 1 pkt 1, lub w przepisach ustawy i wskazanie miejsca zniszczenia tych drewnianych materiałów opakowaniowych lub poddania ich jednorazowemu zabiegowi.
+- **1)** imię, nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres odbiorcy przesyłki, z tym że przypadku gdy odbiorcą przesyłki jest osoba fizyczna wykonująca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby wniosek ten zawiera adres miejsca wykonywania działalności gospodarczej;
+- **2)** adres do korespondencji, jeżeli jest inny niż określony pkt 1;
+- **3)** numer identyfikacji podatkowej (NIP) odbiorcy przesyłki, a przypadku odbiorcy przesyłki nieposiadającego tego numeru, numer PESEL, jeżeli taki numer posiada;
+- **4)** opis drewnianych materiałów opakowaniowych, o których mowa ust. 1, i wskazanie ich ilości;
+- **5)** opis sposobu transportu drewnianych materiałów opakowaniowych, o których mowa ust. 1, do punktu dopuszczenia do obrotu Unii, magazynów lub obiektów, lub miejsca przeznaczenia, o których mowa art. 44 ust. 3 lit. c–e rozporządzenia 2017/625;
+- **6)** wskazanie punktu dopuszczenia do obrotu Unii, magazynów lub obiektów, lub miejsca przeznaczenia, o których mowa art. 44 ust. 3 lit. c–e rozporządzenia 2017/625, których drewniane materiały opakowaniowe, o których mowa ust. 1, zostaną poddane kontroli dokumentacji, kontroli identyfikacyjnej lub kontroli bezpośredniej, o których mowa ust. 1, i będą przechowywane do czasu uzyskania wyników tych kontroli;
+- **7)** wskazanie sposobu, jaki drewniane materiały opakowaniowe, o których mowa ust. 1, mogą na koszt odbiorcy przesyłki zostać zniszczone lub poddane jednorazowemu zabiegowi, jeżeli kontrola dokumentacji, kontrola identyfikacyjna lub kontrola bezpośrednia, o których mowa ust. 1, wykażą, że te drewniane materiały opakowaniowe nie spełniają wymagań określonych przepisach, o których mowa art. 1 pkt 1, lub przepisach ustawy i wskazanie miejsca zniszczenia tych drewnianych materiałów opakowaniowych lub poddania ich jednorazowemu zabiegowi. rym mowa ust. 1, zamiast informacji określonych ust. 3 pkt 1–3 może podać numer, pod którym został wpisany do tego rejestru.
 
-4. Jeżeli odbiorca przesyłki jest wpisany do urzędowego rejestru podmiotów profesjonalnych, we wniosku, o którym mowa w ust. 1, zamiast informacji określonych w ust. 3 pkt 1–3 może podać numer, pod którym został wpisany do tego rejestru.
+5. Jeżeli zniszczenia drewnianych materiałów opakowaniowych, o których mowa ust. 1, lub poddania ich jednorazowemu zabiegowi przypadku, o którym mowa ust. 3 pkt 7, ma dokonać podmiot inny niż odbiorca przesyłki, do wniosku, o którym mowa ust. 1, dołącza się oświadczenie tego podmiotu o dysponowaniu warunkami organizacyjno-technicznymi niezbędnymi do dokonania zniszczenia drewnianych materiałów opakowaniowych lub poddania ich jednorazowemu zabiegowi.
 
-5. Jeżeli zniszczenia drewnianych materiałów opakowaniowych, o których mowa w ust. 1, lub poddania ich jednorazowemu zabiegowi w przypadku, o którym mowa w ust. 3 pkt 7, ma dokonać podmiot inny niż odbiorca przesyłki, do wniosku, o którym mowa w ust. 1, dołącza się oświadczenie tego podmiotu o dysponowaniu warunkami organizacyjno-technicznymi niezbędnymi do dokonania zniszczenia drewnianych materiałów opakowaniowych lub poddania ich jednorazowemu zabiegowi.
+6. Wojewódzki inspektor wyraża zgodę na przeprowadzenie kontroli dokumentacji, kontroli identyfikacyjnej lub kontroli bezpośredniej, o których mowa ust. 1, we wskazanym przez odbiorcę przesyłki punkcie dopuszczenia do obrotu Unii, magazynach lub obiektach, lub miejscu przeznaczenia, o których mowa art. 44 ust. 3 lit. c–e rozporządzenia 2017/625, jeżeli:
 
-6. Wojewódzki inspektor wyraża zgodę na przeprowadzenie kontroli dokumentacji, kontroli identyfikacyjnej lub kontroli bezpośredniej, o których mowa w ust. 1, we wskazanym przez odbiorcę przesyłki punkcie dopuszczenia do obrotu w Unii, w magazynach lub obiektach, lub w miejscu przeznaczenia, o których mowa w art. 44 ust. 3 lit. c–e rozporządzenia 2017/625, jeżeli:
+- **1)** drewniane materiały opakowaniowe, o których mowa ust. 1, nie wykazują objawów porażenia przez agrofagi przypadku gdy jest możliwe przeprowadzenie ich oględzin;
+- **2)** transport drewnianych materiałów opakowaniowych, o których mowa ust. 1, do punktu dopuszczenia do obrotu Unii, magazynów lub obiektów, lub miejsca przeznaczenia, o których mowa art. 44 ust. 3 lit. c–e rozporządzenia 2017/625, nie stwarza zagrożenia rozprzestrzenienia się agrofagów;
+- **3)** wskazane przez odbiorcę przesyłki punkt dopuszczenia do obrotu Unii, magazyny lub obiekty, lub miejsce przeznaczenia, o których mowa art. 44 ust. 3 lit. c–e rozporządzenia 2017/625, spełniają warunki zapewniające prawidłowe przeprowadzenie kontroli dokumentacji, kontroli identyfikacyjnej lub kontroli bezpośredniej, o których mowa ust. 1, i izolację drewnianych materiałów opakowaniowych, o których mowa ust. 1, sposób uniemożliwiający rozprzestrzenienie się agrofagów do czasu uzyskania wyników tych kontroli;
+- **4)** wskazany przez odbiorcę przesyłki sposób, jaki drewniane materiały opakowaniowe, o których mowa ust. 1, zostaną na jego koszt zniszczone lub poddane jednorazowemu zabiegowi, zapewnia skuteczne zniszczenie agrofagów przypadku gdy kontrola dokumentacji, kontrola identyfikacyjna lub kontrola bezpośrednia, o których mowa ust. 1, wykażą, że drewniane materiały opakowaniowe nie spełniają wymagań określonych przepisach, o których mowa art. 1 pkt 1, lub przepisach ustawy;
+- **5)** odbiorca przesyłki okresie 2 lat poprzedzających złożenie wniosku, o którym mowa ust. 1, nie naruszył przepisów, o których mowa art. 1 pkt 1, lub przepisów ustawy, dotyczących granicznej kontroli fitosanitarnej;
+- **6)** naczelnik urzędu celno-skarbowego sprawujący dozór celny nad towarami przewożonymi przy wykorzystaniu drewnianych materiałów opakowaniowych, o których mowa ust. 1, nie wyraził negatywnej opinii dotyczącej proponowanego miejsca przeprowadzenia kontroli dokumentacji, kontroli identyfikacyjnej lub kontroli bezpośredniej, o których mowa ust. 1, terminie 7 dni od dnia otrzymania wniosku wojewódzkiego inspektora o wydanie takiej opinii, a przypadku towarów łatwo psujących się niezwłocznie.
 
-- **1)** drewniane materiały opakowaniowe, o których mowa w ust. 1, nie wykazują objawów porażenia przez agrofagi – w przypadku gdy jest możliwe przeprowadzenie ich oględzin;
-- **2)** transport drewnianych materiałów opakowaniowych, o których mowa w ust. 1, do punktu dopuszczenia do obrotu w Unii, magazynów lub obiektów, lub miejsca przeznaczenia, o których mowa w art. 44 ust. 3 lit. c–e rozporządzenia 2017/625, nie stwarza zagrożenia rozprzestrzenienia się agrofagów;
-- **3)** wskazane przez odbiorcę przesyłki punkt dopuszczenia do obrotu w Unii, magazyny lub obiekty, lub miejsce przeznaczenia, o których mowa w art. 44 ust. 3 lit. c–e rozporządzenia 2017/625, spełniają warunki zapewniające prawidłowe przeprowadzenie kontroli dokumentacji, kontroli identyfikacyjnej lub kontroli bezpośredniej, o których mowa w ust. 1, i izolację drewnianych materiałów opakowaniowych, o których mowa w ust. 1, w sposób uniemożliwiający rozprzestrzenienie się agrofagów do czasu uzyskania wyników tych kontroli;
-- **4)** wskazany przez odbiorcę przesyłki sposób, w jaki drewniane materiały opakowaniowe, o których mowa w ust. 1, zostaną na jego koszt zniszczone lub poddane jednorazowemu zabiegowi, zapewnia skuteczne zniszczenie agrofagów – w przypadku gdy kontrola dokumentacji, kontrola identyfikacyjna lub kontrola bezpośrednia, o których mowa w ust. 1, wykażą, że drewniane materiały opakowaniowe nie spełniają wymagań określonych w przepisach, o których mowa w art. 1 pkt 1, lub w przepisach ustawy;
-- **5)** odbiorca przesyłki w okresie 2 lat poprzedzających złożenie wniosku, o którym mowa w ust. 1, nie naruszył przepisów, o których mowa w art. 1 pkt 1, lub przepisów ustawy, dotyczących granicznej kontroli fitosanitarnej;
-- **6)** naczelnik urzędu celno-skarbowego sprawujący dozór celny nad towarami przewożonymi przy wykorzystaniu drewnianych materiałów opakowaniowych, o których mowa w ust. 1, nie wyraził negatywnej opinii dotyczącej proponowanego miejsca przeprowadzenia kontroli dokumentacji, kontroli identyfikacyjnej lub kontroli bezpośredniej, o których mowa w ust. 1, w terminie 7 dni od dnia otrzymania wniosku wojewódzkiego inspektora o wydanie takiej opinii, a w przypadku towarów łatwo psujących się – niezwłocznie.
+7. Zgoda, o której mowa ust. 1, jest udzielana przez wojewódzkiego inspektora przypadku, o którym mowa ust. 2:
 
-7. Zgoda, o której mowa w ust. 1, jest udzielana przez wojewódzkiego inspektora w przypadku, o którym mowa w ust. 2:
+- **1)** pkt 1 po uzyskaniu pozytywnej opinii wojewódzkiego inspektora właściwego ze względu na lokalizację punktu dopuszczenia do obrotu Unii, magazynów lub obiektów, lub miejsca przeznaczenia, o których mowa art. 44 ust. 3 lit. c–e rozporządzenia 2017/625, jeżeli właściwy dla tego miejsca jest wojewódzki inspektor inny niż udzielający tej zgody,
+- **2)** pkt 2 po uzyskaniu pozytywnej opinii organu właściwego sprawach ochrony roślin przed agrofagami państwa członkowskiego, na terytorium którego drewniane materiały opakowaniowe, o których mowa ust. 1, są wprowadzane bezpośrednio z państwa trzeciego, i po uzyskaniu pozytywnej opinii Głównego Inspektora dotyczących przeprowadzenia kontroli dokumentacji, kontroli identyfikacyjnej lub kontroli bezpośredniej, o których mowa ust. 1, we wskazanym przez odbiorcę przesyłki punkcie dopuszczenia do obrotu Unii, magazynach lub obiektach, lub miejscu przeznaczenia, o których mowa art. 44 ust. 3 lit. c–e rozporządzenia 2017/625.
 
-- **1)** pkt 1 – po uzyskaniu pozytywnej opinii wojewódzkiego inspektora właściwego ze względu na lokalizację punktu dopuszczenia do obrotu w Unii, magazynów lub obiektów, lub miejsca przeznaczenia, o których mowa w art. 44 ust. 3 lit. c–e rozporządzenia 2017/625, jeżeli właściwy dla tego miejsca jest wojewódzki inspektor inny niż udzielający tej zgody,
-- **2)** pkt 2 – po uzyskaniu pozytywnej opinii organu właściwego w sprawach ochrony roślin przed agrofagami państwa członkowskiego, na terytorium którego drewniane materiały opakowaniowe, o których mowa w ust. 1, są wprowadzane bezpośrednio z państwa trzeciego, i po uzyskaniu pozytywnej opinii Głównego Inspektora – dotyczących przeprowadzenia kontroli dokumentacji, kontroli identyfikacyjnej lub kontroli bezpośredniej, o których mowa w ust. 1, we wskazanym przez odbiorcę przesyłki punkcie dopuszczenia do obrotu w Unii, w magazynach lub obiektach, lub w miejscu przeznaczenia, o których mowa w art. 44 ust. 3 lit. c–e rozporządzenia 2017/625.
+8. Decyzja, o której mowa ust. 2, podlega natychmiastowemu wykonaniu.
 
-8. Decyzja, o której mowa w ust. 2, podlega natychmiastowemu wykonaniu.
+9. Zmiana i uchylenie decyzji, o której mowa ust. 2, nie wymagają zgody strony.
 
-9. Zmiana i uchylenie decyzji, o której mowa w ust. 2, nie wymagają zgody strony.
+10. Kontrole dokumentacji, kontrole identyfikacyjne i kontrole bezpośrednie, o których mowa ust. 1, przeprowadza wojewódzki inspektor właściwy ze względu na miejsce przeprowadzania tych kontroli. podstawie art. 34 ust. 5:
 
-10. Kontrole dokumentacji, kontrole identyfikacyjne i kontrole bezpośrednie, o których mowa w ust. 1, przeprowadza wojewódzki inspektor właściwy ze względu na miejsce przeprowadzania tych kontroli.
+- **1)** wniosek, o którym mowa ust. 1, składa się za pośrednictwem tego naczelnika urzędu celno-skarbowego, a do tego wniosku naczelnik urzędu celno-skarbowego dołącza opinię o:
+    - **a)** braku możliwości przeprowadzenia tej kontroli miejscu wprowadzenia drewnianych materiałów opakowaniowych, o których mowa ust. 1, z państw trzecich z uwagi na specyfikę przewożonych towarów lub możliwość uszkodzenia przewożonych towarów,
+    - **b)** braku objawów porażenia przez agrofagi drewnianych materiałów opakowaniowych, o których mowa ust. 1 przypadku gdy jest możliwe przeprowadzenie ich oględzin;
 
-11. Jeżeli kontrolę dokumentacji, o której mowa w ust. 1, przeprowadza naczelnik urzędu celno-skarbowego na podstawie art. 34 ust. 5:
-
-- **1)** wniosek, o którym mowa w ust. 1, składa się za pośrednictwem tego naczelnika urzędu celno-skarbowego, a do tego wniosku naczelnik urzędu celno-skarbowego dołącza opinię o:
-    - **a)** braku możliwości przeprowadzenia tej kontroli w miejscu wprowadzenia drewnianych materiałów opakowaniowych, o których mowa w ust. 1, z państw trzecich z uwagi na specyfikę przewożonych towarów lub możliwość uszkodzenia przewożonych towarów,
-    - **b)** braku objawów porażenia przez agrofagi drewnianych materiałów opakowaniowych, o których mowa w ust. 1 – w przypadku gdy jest możliwe przeprowadzenie ich oględzin;
-
-- **2)** kontrolę tych drewnianych materiałów opakowaniowych we wskazanym przez odbiorcę przesyłki punkcie dopuszczenia do obrotu w Unii, w magazynach lub obiektach, lub w miejscu przeznaczenia, o których mowa w art. 44 ust. 3 lit. c–e rozporządzenia 2017/625, przeprowadza wojewódzki inspektor właściwy ze względu na miejsce przeprowadzania tej kontroli.
+- **2)** kontrolę tych drewnianych materiałów opakowaniowych we wskazanym przez odbiorcę przesyłki punkcie dopuszczenia do obrotu Unii, magazynach lub obiektach, lub miejscu przeznaczenia, o których mowa art. 44 ust. 3 lit. c–e rozporządzenia 2017/625, przeprowadza wojewódzki inspektor właściwy ze względu na miejsce przeprowadzania tej kontroli.
 
 **Art. 37b.**
 
-1. W przypadku drewnianych materiałów opakowaniowych, przy których wykorzystaniu są przewożone z państw trzecich towary inne niż rośliny, produkty roślinne lub inne przedmioty, które przed wprowadzeniem z państw trzecich powinny zostać poddane granicznej kontroli fitosanitarnej, do których nie są dołączone wymagane dokumenty lub które nie są prawidłowo oznakowane, ich zniszczenie lub poddanie jednorazowemu zabiegowi może zostać przeprowadzone po wyrażeniu zgody przez wojewódzkiego inspektora, na wniosek odbiorcy przesyłki, we wskazanym przez tego odbiorcę miejscu innym niż miejsce ich wprowadzenia z państwa trzeciego, jeżeli przeładunek, zniszczenie lub poddanie tych drewnianych materiałów opakowaniowych jednorazowemu zabiegowi jest niemożliwe w miejscu ich wprowadzenia z państwa trzeciego z uwagi na specyfikę przewożonych towarów lub możliwość uszkodzenia przewożonych towarów.
+1. W przypadku drewnianych materiałów opakowaniowych, przy których wykorzystaniu są przewożone z państw trzecich towary inne niż rośliny, produkty roślinne lub inne przedmioty, które przed wprowadzeniem z państw trzecich powinny zostać poddane granicznej kontroli fitosanitarnej, do których nie są dołączone wymagane dokumenty lub które nie są prawidłowo oznakowane, ich zniszczenie lub poddanie jednorazowemu zabiegowi może zostać przeprowadzone po wyrażeniu zgody przez wojewódzkiego inspektora, na wniosek odbiorcy przesyłki, we wskazanym przez tego odbiorcę miejscu innym niż miejsce ich wprowadzenia z państwa trzeciego, jeżeli przeładunek, zniszczenie lub poddanie tych drewnianych materiałów opakowaniowych jednorazowemu zabiegowi jest niemożliwe miejscu ich wprowadzenia z państwa trzeciego z uwagi na specyfikę przewożonych towarów lub możliwość uszkodzenia przewożonych towarów.
 
-2. Zgoda na zniszczenie lub poddanie drewnianych materiałów opakowaniowych, o których mowa w ust. 1, jednorazowemu zabiegowi w miejscu wskazanym przez odbiorcę przesyłki innym niż miejsce ich wprowadzenia z państw trzecich jest udzielana, w drodze decyzji, przez wojewódzkiego inspektora właściwego ze względu na miejsce wprowadzenia z państw trzecich tych drewnianych materiałów opakowaniowych.
+2. Zgoda na zniszczenie lub poddanie drewnianych materiałów opakowaniowych, o których mowa ust. 1, jednorazowemu zabiegowi miejscu wskazanym przez odbiorcę przesyłki innym niż miejsce ich wprowadzenia z państw trzecich jest udzielana, drodze decyzji, przez wojewódzkiego inspektora właściwego ze względu na miejsce wprowadzenia z państw trzecich tych drewnianych materiałów opakowaniowych.
 
-3. Wniosek, o którym mowa w ust. 1, zawiera:
+3. Wniosek, o którym mowa ust. 1, zawiera:
 
-- **1)** imię, nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres odbiorcy przesyłki, z tym że w przypadku gdy odbiorcą przesyłki jest osoba fizyczna wykonująca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby wniosek ten zawiera adres miejsca wykonywania działalności gospodarczej;
-- **2)** adres do korespondencji, jeżeli jest inny niż określony w pkt 1;
-- **3)** numer identyfikacji podatkowej (NIP) odbiorcy przesyłki, a w przypadku odbiorcy przesyłki nieposiadającego tego numeru, numer PESEL, jeżeli taki numer posiada;
-- **4)** opis drewnianych materiałów opakowaniowych, o których mowa w ust. 1, i wskazanie ich ilości;
-- **5)** opis sposobu transportu drewnianych materiałów opakowaniowych, o których mowa w ust. 1, do miejsca ich zniszczenia lub poddania jednorazowemu zabiegowi;
-- **6)** wskazanie miejsca, w którym drewniane materiały opakowaniowe, o których mowa w ust. 1, będą przechowywane do czasu ich zniszczenia lub poddania jednorazowemu zabiegowi;
-- **7)** wskazanie sposobu, w jaki drewniane materiały opakowaniowe, o których mowa w ust. 1, zostaną na koszt odbiorcy przesyłki zniszczone lub poddane jednorazowemu zabiegowi, i miejsca zniszczenia tych drewnianych materiałów opakowaniowych lub poddania ich jednorazowemu zabiegowi.
+- **1)** imię, nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres odbiorcy przesyłki, z tym że przypadku gdy odbiorcą przesyłki jest osoba fizyczna wykonująca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby wniosek ten zawiera adres miejsca wykonywania działalności gospodarczej;
+- **2)** adres do korespondencji, jeżeli jest inny niż określony pkt 1;
+- **3)** numer identyfikacji podatkowej (NIP) odbiorcy przesyłki, a przypadku odbiorcy przesyłki nieposiadającego tego numeru, numer PESEL, jeżeli taki numer posiada;
+- **4)** opis drewnianych materiałów opakowaniowych, o których mowa ust. 1, i wskazanie ich ilości;
+- **5)** opis sposobu transportu drewnianych materiałów opakowaniowych, o których mowa ust. 1, do miejsca ich zniszczenia lub poddania jednorazowemu zabiegowi;
+- **6)** wskazanie miejsca, którym drewniane materiały opakowaniowe, o których mowa ust. 1, będą przechowywane do czasu ich zniszczenia lub poddania jednorazowemu zabiegowi;
+- **7)** wskazanie sposobu, jaki drewniane materiały opakowaniowe, o których mowa ust. 1, zostaną na koszt odbiorcy przesyłki zniszczone lub poddane jednorazowemu zabiegowi, i miejsca zniszczenia tych drewnianych materiałów opakowaniowych lub poddania ich jednorazowemu zabiegowi.
 
-4. Jeżeli odbiorca przesyłki jest wpisany do urzędowego rejestru podmiotów profesjonalnych, we wniosku, o którym mowa w ust. 1, zamiast informacji określonych w ust. 3 pkt 1–3 może podać numer, pod którym został wpisany do tego rejestru.
+4. Jeżeli odbiorca przesyłki jest wpisany do urzędowego rejestru podmiotów profesjonalnych, we wniosku, o którym mowa ust. 1, zamiast informacji określonych ust. 3 pkt 1–3 może podać numer, pod którym został wpisany do tego rejestru.
 
-5. Jeżeli zniszczenia drewnianych materiałów opakowaniowych, o których mowa w ust. 1, lub poddania ich jednorazowemu zabiegowi ma dokonać inny podmiot niż odbiorca przesyłki, do wniosku, o którym mowa w ust. 1, dołącza się oświadczenie tego podmiotu o dysponowaniu warunkami organizacyjno-technicznymi niezbędnymi do dokonania zniszczenia drewnianych materiałów opakowaniowych lub poddania ich jednorazowemu zabiegowi.
+5. Jeżeli zniszczenia drewnianych materiałów opakowaniowych, o których mowa ust. 1, lub poddania ich jednorazowemu zabiegowi ma dokonać inny podmiot niż odbiorca przesyłki, do wniosku, o którym mowa ust. 1, dołącza się oświadczenie tego podmiotu o dysponowaniu warunkami organizacyjno-technicznymi niezbędnymi do dokonania zniszczenia drewnianych materiałów opakowaniowych lub poddania ich jednorazowemu zabiegowi. o których mowa ust. 1, jednorazowemu zabiegowi miejscu wskazanym przez odbiorcę przesyłki innym niż miejsce ich wprowadzenia z państw trzecich, jeżeli:
 
-6. Wojewódzki inspektor wyraża zgodę na zniszczenie lub poddanie drewnianych materiałów opakowaniowych, o których mowa w ust. 1, jednorazowemu zabiegowi w miejscu wskazanym przez odbiorcę przesyłki innym niż miejsce ich wprowadzenia z państw trzecich, jeżeli:
-
-- **1)** drewniane materiały opakowaniowe nie wykazują objawów porażenia przez agrofagi – w przypadku gdy jest możliwe przeprowadzenie ich oględzin;
+- **1)** drewniane materiały opakowaniowe nie wykazują objawów porażenia przez agrofagi przypadku gdy jest możliwe przeprowadzenie ich oględzin;
 - **2)** transport drewnianych materiałów opakowaniowych do miejsca ich zniszczenia lub poddania jednorazowemu zabiegowi nie stwarza zagrożenia rozprzestrzenienia się agrofagów;
-- **3)** wskazane przez odbiorcę przesyłki miejsce, w którym drewniane materiały opakowaniowe będą przechowywane do czasu ich zniszczenia lub poddania jednorazowemu zabiegowi, zapewnia ich izolację w sposób uniemożliwiający rozprzestrzenienie się agrofagów;
-- **4)** wskazany przez odbiorcę przesyłki sposób, w jaki drewniane materiały opakowaniowe zostaną na jego koszt zniszczone lub poddane jednorazowemu zabiegowi, zapewnia skuteczne zniszczenie agrofagów;
-- **5)** odbiorca przesyłki w okresie 2 lat poprzedzających złożenie wniosku, o którym mowa w ust. 1, nie naruszył przepisów, o których mowa w art. 1 pkt 1, lub przepisów ustawy, dotyczących granicznej kontroli fitosanitarnej;
-- **6)** naczelnik urzędu celno-skarbowego sprawujący dozór celny nad towarami przewożonymi przy wykorzystaniu drewnianych materiałów opakowaniowych nie wyraził negatywnej opinii dotyczącej proponowanego miejsca ich zniszczenia lub poddania jednorazowemu zabiegowi, w terminie 7 dni od dnia otrzymania wniosku wojewódzkiego inspektora o wydanie takiej opinii, a w przypadku towarów łatwo psujących się – niezwłocznie.
+- **3)** wskazane przez odbiorcę przesyłki miejsce, którym drewniane materiały opakowaniowe będą przechowywane do czasu ich zniszczenia lub poddania jednorazowemu zabiegowi, zapewnia ich izolację sposób uniemożliwiający rozprzestrzenienie się agrofagów;
+- **4)** wskazany przez odbiorcę przesyłki sposób, jaki drewniane materiały opakowaniowe zostaną na jego koszt zniszczone lub poddane jednorazowemu zabiegowi, zapewnia skuteczne zniszczenie agrofagów;
+- **5)** odbiorca przesyłki okresie 2 lat poprzedzających złożenie wniosku, o którym mowa ust. 1, nie naruszył przepisów, o których mowa art. 1 pkt 1, lub przepisów ustawy, dotyczących granicznej kontroli fitosanitarnej;
+- **6)** naczelnik urzędu celno-skarbowego sprawujący dozór celny nad towarami przewożonymi przy wykorzystaniu drewnianych materiałów opakowaniowych nie wyraził negatywnej opinii dotyczącej proponowanego miejsca ich zniszczenia lub poddania jednorazowemu zabiegowi, terminie 7 dni od dnia otrzymania wniosku wojewódzkiego inspektora o wydanie takiej opinii, a przypadku towarów łatwo psujących się niezwłocznie.
 
-7. W decyzji, o której mowa w ust. 2, wojewódzki inspektor określa termin zniszczenia lub poddania jednorazowemu zabiegowi drewnianych materiałów opakowaniowych, o których mowa w ust. 1.
+7. W decyzji, o której mowa ust. 2, wojewódzki inspektor określa termin zniszczenia lub poddania jednorazowemu zabiegowi drewnianych materiałów opakowaniowych, o których mowa ust. 1.
 
-8. Decyzję, o której mowa w ust. 2, wojewódzki inspektor wydaje po zasięgnięciu opinii dotyczącej zniszczenia drewnianych materiałów opakowaniowych, o których mowa w ust. 1, lub poddania tych drewnianych materiałów opakowaniowych jednorazowemu zabiegowi, w miejscu, o którym mowa w ust. 1, wojewódzkiego inspektora właściwego dla tego miejsca, jeżeli właściwy dla tego miejsca jest wojewódzki inspektor inny niż wydający tę decyzję.
+8. Decyzję, o której mowa ust. 2, wojewódzki inspektor wydaje po zasięgnięciu opinii dotyczącej zniszczenia drewnianych materiałów opakowaniowych, o których mowa ust. 1, lub poddania tych drewnianych materiałów opakowaniowych jednorazowemu zabiegowi, miejscu, o którym mowa ust. 1, wojewódzkiego inspektora właściwego dla tego miejsca, jeżeli właściwy dla tego miejsca jest wojewódzki inspektor inny niż wydający tę decyzję.
 
-9. Decyzja, o której mowa w ust. 2, podlega natychmiastowemu wykonaniu.
+9. Decyzja, o której mowa ust. 2, podlega natychmiastowemu wykonaniu.
 
-10. Zmiana i uchylenie decyzji, o której mowa w ust. 2, nie wymagają zgody strony.”;
+10. Zmiana i uchylenie decyzji, o której mowa ust. 2, nie wymagają zgody strony.”;
 
-- **5)** w art. 50 po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Informacja, o której mowa w ust. 1, może być przekazana w terminie późniejszym niż dzień 30 kwietnia danego roku, jeżeli wynika to z wymagań importowych państwa trzeciego.
+- **5)** art. 50 po ust. 1 dodaje się ust. 1a i 1b brzmieniu: „1a. Informacja, o której mowa ust. 1, może być przekazana terminie późniejszym niż dzień 30 kwietnia danego roku, jeżeli wynika to z wymagań importowych państwa trzeciego.
 
-1b. W przypadku, o którym mowa w ust. 1a, Główny Inspektor udostępnia informację o terminie przekazania informacji, o której mowa w ust. 1, na stronie internetowej administrowanej przez Główny Inspektorat.”;
+1b. W przypadku, o którym mowa ust. 1a, Główny Inspektor udostępnia informację o terminie przekazania informacji, o której mowa ust. 1, na stronie internetowej administrowanej przez Główny Inspektorat.”;
 
-- **6)** po art. 51 dodaje się art. 51a–51i w brzmieniu: „Art. 51a. 1. Jeżeli dla potwierdzenia spełnienia wymagań importowych państwa trzeciego i wydania fitosanitarnego świadectwa eksportowego lub fitosanitarnego świadectwa reeksportowego dla określonych roślin, produktów roślinnych lub innych przedmiotów jest wymagane wyłącznie zastosowanie oceny wizualnej tych roślin, produktów roślinnych lub innych przedmiotów i nie jest wymagane wypełnienie rubryki „Deklaracja dodatkowa” fitosanitarnego świadectwa eksportowego lub fitosanitarnego świadectwa reeksportowego ujętej we wzorze określonym w załączniku do Międzynarodowej konwencji ochrony roślin, sporządzonej w Rzymie dnia 6 grudnia 1951 r. (Dz. U. z 2001 r. poz. 151 oraz z 2007 r. poz. 485), a eksporter dokonujący wysyłki tych roślin, produktów roślinnych lub innych przedmiotów do tego państwa trzeciego jest wpisany do rejestru zaufanych eksporterów prowadzonego przez wojewódzkiego inspektora, fitosanitarne świadectwo eksportowe lub fitosanitarne świadectwo reeksportowe może zostać wydane na podstawie kontroli urzędowej, o której mowa w art. 47 ust. 7 pkt 2 lit. b, obejmującej ocenę wizualną przesyłek przeprowadzoną ze zredukowaną częstotliwością, zwanej dalej „kontrolą urzędową o zredukowanej częstotliwości”.
+- **6)** po art. 51 dodaje się art. 51a–51i brzmieniu: „Art. 51a. 1. Jeżeli dla potwierdzenia spełnienia wymagań importowych państwa trzeciego i wydania fitosanitarnego świadectwa eksportowego lub fitosanitarnego świadectwa reeksportowego dla określonych roślin, produktów roślinnych lub innych przedmiotów jest wymagane wyłącznie zastosowanie oceny wizualnej tych roślin, produktów roślinnych lub innych przedmiotów i nie jest wymagane wypełnienie rubryki „Deklaracja dodatkowa” fitosanitarnego świadectwa eksportowego lub fitosanitarnego świadectwa reeksportowego ujętej we wzorze określonym załączniku do Międzynarodowej konwencji ochrony roślin, sporządzonej Rzymie dnia 6 grudnia 1951 r. (Dz. U. z 2001 r. poz. 151 oraz z 2007 r. poz. 485), a eksporter dokonujący wysyłki tych roślin, produktów roślinnych lub innych przedmiotów do tego państwa trzeciego jest wpisany do rejestru zaufanych eksporterów prowadzonego przez wojewódzkiego inspektora, fitosanitarne świadectwo eksportowe lub fitosanitarne świadectwo reeksportowe może zostać wydane na podstawie kontroli urzędowej, o której mowa art. 47 ust. 7 pkt 2 lit. b, obejmującej ocenę wizualną przesyłek przeprowadzoną ze zredukowaną częstotliwością, zwanej dalej „kontrolą urzędową o zredukowanej częstotliwości”.
 
 2. Kontrola urzędowa o zredukowanej częstotliwości obejmuje ocenę wizualną nie mniej niż:
 
-- **1)** co 10 wysyłanej przesyłki – jeżeli eksporter jest wpisany do rejestru zaufanych eksporterów nie dłużej niż przez rok;
-- **2)** co 20 wysyłanej przesyłki – jeżeli eksporter jest wpisany do rejestru zaufanych eksporterów dłużej niż przez rok.
+- **1)** co 10 wysyłanej przesyłki jeżeli eksporter jest wpisany do rejestru zaufanych eksporterów nie dłużej niż przez rok;
+- **2)** co 20 wysyłanej przesyłki jeżeli eksporter jest wpisany do rejestru zaufanych eksporterów dłużej niż przez rok.
+- **1)** przez co najmniej 2 lata jest wpisany do urzędowego rejestru podmiotów profesjonalnych prowadzonego przez wojewódzkiego inspektora;
+- **2)** okresie, o którym mowa pkt 1:
+    - **a)** składał co roku do wojewódzkiego inspektora wniosek o wydanie fitosanitarnego świadectwa eksportowego lub fitosanitarnego świadectwa reeksportowego dla co najmniej 10 przesyłek,
+    - **b)** nie był karany i nie została na niego nałożona administracyjna kara pieniężna za naruszenie przepisów, o których mowa art. 1 pkt 1, lub przepisów ustawy;
 
-**Art. 51b.** Do rejestru zaufanych eksporterów może zostać wpisany eksporter, który:
+- **3)** wdrożył zatwierdzoną przez wojewódzkiego inspektora procedurę samodzielnej kontroli roślin, produktów roślinnych lub innych przedmiotów wyprowadzanych do określonych państw trzecich przeprowadzanej przez osoby, które:
+    - **a)** posiadają wykształcenie zapewniające wiedzę zakresie ochrony roślin przed agrofagami niezbędną do prawidłowego przeprowadzania tej kontroli lub
+    - **b)** zdały egzamin potwierdzający posiadanie wiedzy zakresie ochrony roślin przed agrofagami niezbędnej do prawidłowego przeprowadzania tej kontroli zwaną dalej „procedurą kontroli”.
 
 **Art. 51c.**
 
-1. Wpisu do rejestru zaufanych eksporterów dokonuje na wniosek zainteresowanego eksportera wojewódzki inspektor właściwy ze względu na miejsce zamieszkania albo siedzibę tego eksportera, a w przypadku:
+1. Wpisu do rejestru zaufanych eksporterów dokonuje na wniosek zainteresowanego eksportera wojewódzki inspektor właściwy ze względu na miejsce zamieszkania albo siedzibę tego eksportera, a przypadku:
 
-- **1)** gdy tym eksporterem jest osoba fizyczna wykonująca działalność gospodarczą – wojewódzki inspektor właściwy ze względu na miejsce wykonywania działalności gospodarczej;
-- **2)** eksportera niemającego miejsca zamieszkania albo siedziby na terytorium Rzeczypospolitej Polskiej – wojewódzki inspektor, który dokonał wpisu tego eksportera do urzędowego rejestru podmiotów profesjonalnych.
+- **1)** gdy tym eksporterem jest osoba fizyczna wykonująca działalność gospodarczą wojewódzki inspektor właściwy ze względu na miejsce wykonywania działalności gospodarczej;
+- **2)** eksportera niemającego miejsca zamieszkania albo siedziby na terytorium Rzeczypospolitej Polskiej wojewódzki inspektor, który dokonał wpisu tego eksportera do urzędowego rejestru podmiotów profesjonalnych.
 
 2. Wniosek o wpis do rejestru zaufanych eksporterów zawiera:
 
 - **1)** numer, pod którym wnioskodawca jest wpisany do urzędowego rejestru podmiotów profesjonalnych;
 - **2)** imię i nazwisko osoby wyznaczonej do kontaktów z wojewódzkim inspektorem;
 - **3)** imię i nazwisko osób, które będą przeprowadzały samodzielną kontrolę roślin, produktów roślinnych lub innych przedmiotów, które przed wyprowadzeniem do określonych państw trzecich będą poddawane kontroli urzędowej o zredukowanej częstotliwości;
-- **4)** miejsce wykonywanej działalności w zakresie eksportu roślin, produktów roślinnych lub innych przedmiotów, które przed wyprowadzeniem do określonych państw trzecich będą poddawane kontroli urzędowej o zredukowanej częstotliwości;
+- **4)** miejsce wykonywanej działalności zakresie eksportu roślin, produktów roślinnych lub innych przedmiotów, które przed wyprowadzeniem do określonych państw trzecich będą poddawane kontroli urzędowej o zredukowanej częstotliwości;
 - **5)** nazwę botaniczną roślin lub nazwę produktów roślinnych lub nazwę innych przedmiotów, które przed wyprowadzeniem do określonych państw trzecich będą poddawane kontroli urzędowej o zredukowanej częstotliwości i określenie państwa trzeciego, do którego będą wyprowadzane lub przez które będą przemieszczane.
 
 3. Do wniosku o wpis do rejestru zaufanych eksporterów dołącza się:
 
-- **1)** kopię zaświadczenia, o którym mowa w art. 51e ust. 2, albo kopię dokumentów potwierdzających, że osoby, które będą przeprowadzały samodzielną kontrolę roślin, produktów roślinnych lub innych przedmiotów, które przed wyprowadzeniem do określonych państw trzecich będą poddawane kontroli urzędowej o zredukowanej częstotliwości, spełniają wymagania określone w art. 51b pkt 3 lit. a;
+- **1)** kopię zaświadczenia, o którym mowa art. 51e ust. 2, albo kopię dokumentów potwierdzających, że osoby, które będą przeprowadzały samodzielną kontrolę roślin, produktów roślinnych lub innych przedmiotów, które przed wyprowadzeniem do określonych państw trzecich będą poddawane kontroli urzędowej o zredukowanej częstotliwości, spełniają wymagania określone art. 51b pkt 3 lit. a;
 - **2)** procedurę kontroli zatwierdzoną przez wojewódzkiego inspektora albo wniosek o jej zatwierdzenie.
 
 4. W przypadku gdy wniosek o zatwierdzenie procedury kontroli został złożony razem z wnioskiem o wpis do rejestru zaufanych eksporterów, wpis ten nie może zostać dokonany przed zatwierdzeniem procedury kontroli.
 
-5. W zakresie nieuregulowanym w niniejszym artykule do trybu postępowania z wnioskiem o wpis do rejestru zaufanych eksporterów stosuje się przepisy art. 6 ust. 3–5.
+5. W zakresie nieuregulowanym niniejszym artykule do trybu postępowania z wnioskiem o wpis do rejestru zaufanych eksporterów stosuje się przepisy art. 6 ust. 3–5.
 
-6. Rejestr zaufanych eksporterów zawiera:
-
-- **1)** informacje, o których mowa w ust. 2 pkt 1–4;
+- **1)** informacje, o których mowa ust. 2 pkt 1–4;
 - **2)** zakres wpisu określający nazwę botaniczną roślin lub nazwę produktów roślinnych lub nazwę innych przedmiotów, które przed wyprowadzeniem do określonych państw trzecich będą poddawane kontroli urzędowej o zredukowanej częstotliwości i określenie państwa trzeciego, do którego będą one wprowadzane lub przez które będą przemieszczane;
 - **3)** numer i datę wpisu.
 
-7. Wojewódzki inspektor, który dokonał wpisu do rejestru zaufanych eksporterów, informuje na piśmie eksportera wpisanego do rejestru zaufanych eksporterów o dokonaniu wpisu do rejestru zaufanych eksporterów oraz o zakresie tego wpisu, w terminie 7 dni od dnia jego dokonania.
+7. Wojewódzki inspektor, który dokonał wpisu do rejestru zaufanych eksporterów, informuje na piśmie eksportera wpisanego do rejestru zaufanych eksporterów o dokonaniu wpisu do rejestru zaufanych eksporterów oraz o zakresie tego wpisu, terminie 7 dni od dnia jego dokonania.
 
-8. Wojewódzki inspektor zapewnia Głównemu Inspektorowi dostęp do informacji zawartych w rejestrze zaufanych eksporterów.
+8. Wojewódzki inspektor zapewnia Głównemu Inspektorowi dostęp do informacji zawartych rejestrze zaufanych eksporterów.
 
-9. Główny Inspektor może udostępnić informacje zawarte w rejestrze zaufanych eksporterów właściwemu organowi państwa trzeciego, do którego rośliny, produkty roślinne lub inne przedmioty będą wyprowadzane lub przez które będą przemieszczane, jeżeli wynika to z wymagań importowych państwa trzeciego. Udostępnieniu podlegają wyłącznie informacje niezbędne do potwierdzenia spełnienia wymagań importowych państwa trzeciego.
+9. Główny Inspektor może udostępnić informacje zawarte rejestrze zaufanych eksporterów właściwemu organowi państwa trzeciego, do którego rośliny, produkty roślinne lub inne przedmioty będą wyprowadzane lub przez które będą przemieszczane, jeżeli wynika to z wymagań importowych państwa trzeciego. Udostępnieniu podlegają wyłącznie informacje niezbędne do potwierdzenia spełnienia wymagań importowych państwa trzeciego.
 
 10. Główny Inspektor udostępnia na stronie internetowej administrowanej przez Główny Inspektorat wykaz roślin, produktów roślinnych lub innych przedmiotów oraz państw trzecich, do których są one wyprowadzane, objętych zakresem wpisów do rejestru zaufanych eksporterów.
 
 **Art. 51d.**
 
-1. Procedura kontroli określa odrębnie w odniesieniu do wszystkich objętych nią roślin, produktów roślinnych lub innych przedmiotów, które przed wyprowadzeniem do określonych państw trzecich będą poddawane kontroli urzędowej o zredukowanej częstotliwości:
+1. Procedura kontroli określa odrębnie odniesieniu do wszystkich objętych nią roślin, produktów roślinnych lub innych przedmiotów, które przed wyprowadzeniem do określonych państw trzecich będą poddawane kontroli urzędowej o zredukowanej częstotliwości:
 
 - **1)** zakres, opis i częstotliwość samodzielnej kontroli roślin, produktów roślinnych lub innych przedmiotów wyprowadzanych do państw trzecich,
-- **2)** sposób identyfikacji agrofagów lub objawów porażenia przez agrofagi podczas przeprowadzania samodzielnej kontroli, o której mowa w pkt 1,
-- **3)** opis pomieszczeń, w których będzie przeprowadzana samodzielna kontrola, o której mowa w pkt 1, ze szczególnym uwzględnieniem ich infrastruktury sanitarnej,
-- **4)** wykaz sprzętu, który będzie wykorzystywany przy przeprowadzaniu samodzielnej kontroli, o której mowa w pkt 1, i jego opis,
-- **5)** opis zabiegów, którym będą poddawane rośliny, produkty roślinne lub inne przedmioty przed wysyłką, niszczących danego agrofaga lub zapobiegających jego rozprzestrzenianiu się – jeżeli takie zabiegi będą przeprowadzane,
-- **6)** sposób pakowania roślin, produktów roślinnych lub innych przedmiotów poddawanych samodzielnej kontroli, o której mowa w pkt 1,
-- **7)** sposób zapewnienia identyfikacji roślin, produktów roślinnych lub innych przedmiotów poddawanych samodzielnej kontroli, o której mowa w pkt 1,
-- **8)** środki podejmowane w celu ograniczenia występowania agrofagów w miejscu składowania roślin, produktów roślinnych lub innych przedmiotów przeznaczonych do wysyłki,
-- **9)** środki podejmowane w celu ograniczenia występowania agrofagów w miejscu przeprowadzania samodzielnej kontroli, o której mowa w pkt 1,
-- **10)** opis działań podejmowanych w przypadku podejrzenia występowania agrofagów w miejscach, o których mowa w pkt 8 lub 9, lub w przesyłkach roślin, produktów roślinnych lub innych przedmiotów przeznaczonych do wysyłki, w celu identyfikacji tych agrofagów,
-- **11)** sposób prowadzenia dokumentacji zawierającej opis przeprowadzania samodzielnej kontroli, o której mowa w pkt 1, zabiegów, działań i środków, o których mowa w pkt 2 i 5–10,
-- **12)** sposób informowania wojewódzkiego inspektora o podejrzeniu występowania w przesyłkach roślin, produktów roślinnych lub innych przedmiotów przeznaczonych do wysyłki agrofagów objętych wymaganiami eksportowymi państwa trzeciego, do którego te rośliny, produkty roślinne lub inne przedmioty będą wyprowadzane lub przez które będą przemieszczane – uwzględniając agrofagi objęte wymaganiami eksportowymi państwa trzeciego, do którego rośliny, produkty roślinne lub inne przedmioty będą wyprowadzane lub przez które będą przemieszczane, agrofagi, które mogą występować na tych roślinach, produktach roślinnych lub innych przedmiotach, sposoby wykrywania i identyfikacji tych agrofagów oraz zapewnienie bezpieczeństwa fitosanitarnego.
+- **2)** sposób identyfikacji agrofagów lub objawów porażenia przez agrofagi podczas przeprowadzania samodzielnej kontroli, o której mowa pkt 1,
+- **3)** opis pomieszczeń, których będzie przeprowadzana samodzielna kontrola, o której mowa pkt 1, ze szczególnym uwzględnieniem ich infrastruktury sanitarnej,
+- **4)** wykaz sprzętu, który będzie wykorzystywany przy przeprowadzaniu samodzielnej kontroli, o której mowa pkt 1, i jego opis,
+- **5)** opis zabiegów, którym będą poddawane rośliny, produkty roślinne lub inne przedmioty przed wysyłką, niszczących danego agrofaga lub zapobiegających jego rozprzestrzenianiu się jeżeli takie zabiegi będą przeprowadzane,
+- **6)** sposób pakowania roślin, produktów roślinnych lub innych przedmiotów poddawanych samodzielnej kontroli, o której mowa pkt 1,
+- **7)** sposób zapewnienia identyfikacji roślin, produktów roślinnych lub innych przedmiotów poddawanych samodzielnej kontroli, o której mowa pkt 1,
+- **8)** środki podejmowane celu ograniczenia występowania agrofagów miejscu składowania roślin, produktów roślinnych lub innych przedmiotów przeznaczonych do wysyłki,
+- **9)** środki podejmowane celu ograniczenia występowania agrofagów miejscu przeprowadzania samodzielnej kontroli, o której mowa pkt 1,
+- **10)** opis działań podejmowanych przypadku podejrzenia występowania agrofagów miejscach, o których mowa pkt 8 lub 9, lub przesyłkach roślin, produktów roślinnych lub innych przedmiotów przeznaczonych do wysyłki, celu identyfikacji tych agrofagów,
+- **11)** sposób prowadzenia dokumentacji zawierającej opis przeprowadzania samodzielnej kontroli, o której mowa pkt 1, zabiegów, działań i środków, o których mowa pkt 2 i 5–10, roślinnych lub innych przedmiotów przeznaczonych do wysyłki agrofagów objętych wymaganiami eksportowymi państwa trzeciego, do którego te rośliny, produkty roślinne lub inne przedmioty będą wyprowadzane lub przez które będą przemieszczane uwzględniając agrofagi objęte wymaganiami eksportowymi państwa trzeciego, do którego rośliny, produkty roślinne lub inne przedmioty będą wyprowadzane lub przez które będą przemieszczane, agrofagi, które mogą występować na tych roślinach, produktach roślinnych lub innych przedmiotach, sposoby wykrywania i identyfikacji tych agrofagów oraz zapewnienie bezpieczeństwa fitosanitarnego.
 
 2. Wojewódzki inspektor zatwierdza procedurę kontroli na wniosek zainteresowanego eksportera.
 
-3. Wojewódzki inspektor w terminie 30 dni od dnia otrzymania wniosku o zatwierdzenie procedury kontroli:
+3. Wojewódzki inspektor terminie 30 dni od dnia otrzymania wniosku o zatwierdzenie procedury kontroli:
 
-- **1)** informuje eksportera na piśmie o zatwierdzeniu procedury kontroli – gdy procedura kontroli spełnia wymagania określone w ust. 1;
-- **2)** wzywa eksportera do uzupełnienia lub poprawienia procedury kontroli we wskazanym zakresie, w terminie 30 dni od dnia doręczenia tego wezwania, z pouczeniem, że nieuzupełnienie lub niepoprawienie procedury kontroli w tym terminie spowoduje jej zatwierdzenie w ograniczonym zakresie – gdy procedura kontroli nie spełnia wymagań określonych w ust. 1 w odniesieniu do części roślin, produktów roślinnych lub innych przedmiotów objętych procedurą kontroli;
-- **3)** wzywa eksportera do uzupełnienia lub poprawienia procedury kontroli w terminie 30 dni od dnia doręczenia tego wezwania, z pouczeniem, że nieuzupełnienie lub niepoprawienie procedury kontroli w tym terminie spowoduje pozostawienie tego wniosku bez rozpoznania – gdy procedura kontroli nie spełnia wymagań określonych w ust. 1 w odniesieniu do wszystkich roślin, produktów roślinnych lub innych przedmiotów objętych tą procedurą kontroli.
+- **1)** informuje eksportera na piśmie o zatwierdzeniu procedury kontroli gdy procedura kontroli spełnia wymagania określone ust. 1;
+- **2)** wzywa eksportera do uzupełnienia lub poprawienia procedury kontroli we wskazanym zakresie, terminie 30 dni od dnia doręczenia tego wezwania, z pouczeniem, że nieuzupełnienie lub niepoprawienie procedury kontroli tym terminie spowoduje jej zatwierdzenie ograniczonym zakresie gdy procedura kontroli nie spełnia wymagań określonych ust. 1 odniesieniu do części roślin, produktów roślinnych lub innych przedmiotów objętych procedurą kontroli;
+- **3)** wzywa eksportera do uzupełnienia lub poprawienia procedury kontroli terminie 30 dni od dnia doręczenia tego wezwania, z pouczeniem, że nieuzupełnienie lub niepoprawienie procedury kontroli tym terminie spowoduje pozostawienie tego wniosku bez rozpoznania gdy procedura kontroli nie spełnia wymagań określonych ust. 1 odniesieniu do wszystkich roślin, produktów roślinnych lub innych przedmiotów objętych tą procedurą kontroli.
 
-4. W razie nieuzupełnienia lub niepoprawienia procedury kontroli w terminie wskazanym w wezwaniu, w przypadku, o którym mowa w ust. 3:
+4. W razie nieuzupełnienia lub niepoprawienia procedury kontroli terminie wskazanym wezwaniu, przypadku, o którym mowa ust. 3:
 
-- **1)** pkt 2 – wojewódzki inspektor informuje eksportera na piśmie o zatwierdzeniu procedury kontroli w ograniczonym zakresie;
-- **2)** pkt 3 – wniosek o zatwierdzenie procedury kontroli pozostawia się bez rozpoznania.
+- **1)** pkt 2 wojewódzki inspektor informuje eksportera na piśmie o zatwierdzeniu procedury kontroli ograniczonym zakresie;
+- **2)** pkt 3 wniosek o zatwierdzenie procedury kontroli pozostawia się bez rozpoznania.
 
 5. Wojewódzki inspektor, jeżeli uzupełniona lub poprawiona procedura kontroli:
 
-- **1)** spełnia wymagania określone w ust. 1 – informuje eksportera na piśmie o zatwierdzeniu procedury kontroli;
-- **2)** nie spełnia wymagań określonych w ust. 1 w odniesieniu do części roślin, produktów roślinnych lub innych przedmiotów objętych procedurą kontroli – informuje eksportera na piśmie o zatwierdzeniu procedury kontroli w ograniczonym zakresie wraz z uzasadnieniem;
-- **3)** nie spełnia wymagań określonych w ust. 1 w odniesieniu do wszystkich roślin, produktów roślinnych lub innych przedmiotów objętych procedurą kontroli – informuje eksportera na piśmie o niezatwierdzeniu procedury kontroli wraz z uzasadnieniem.
+- **1)** spełnia wymagania określone ust. 1 informuje eksportera na piśmie o zatwierdzeniu procedury kontroli;
+- **2)** nie spełnia wymagań określonych ust. 1 odniesieniu do części roślin, produktów roślinnych lub innych przedmiotów objętych procedurą kontroli informuje eksportera na piśmie o zatwierdzeniu procedury kontroli ograniczonym zakresie wraz z uzasadnieniem;
+- **3)** nie spełnia wymagań określonych ust. 1 odniesieniu do wszystkich roślin, produktów roślinnych lub innych przedmiotów objętych procedurą kontroli informuje eksportera na piśmie o niezatwierdzeniu procedury kontroli wraz z uzasadnieniem.
 
 **Art. 51e.**
 
-1. Egzamin, o którym mowa w art. 51b pkt 3 lit. b:
+1. Egzamin, o którym mowa art. 51b pkt 3 lit. b:
 
 - **1)** przeprowadza wojewódzki inspektor;
 - **2)** może zostać przeprowadzony przy wykorzystaniu systemu teleinformatycznego.
 
-2. Potwierdzeniem zdania egzaminu, o którym mowa w art. 51b pkt 3 lit. b, jest zaświadczenie wydane przez wojewódzkiego inspektora.
+2. Potwierdzeniem zdania egzaminu, o którym mowa art. 51b pkt 3 lit. b, jest zaświadczenie wydane przez wojewódzkiego inspektora.
 
-3. Zaświadczenie, o którym mowa w ust. 2, zawiera imię i nazwisko osoby, która zdała egzamin, o którym mowa w art. 51b pkt 3 lit. b.
+3. Zaświadczenie, o którym mowa ust. 2, zawiera imię i nazwisko osoby, która zdała egzamin, o którym mowa art. 51b pkt 3 lit. b.
 
-4. Osoba, która nie zdała egzaminu, o którym mowa w art. 51b pkt 3 lit. b, może ponownie przystąpić do tego egzaminu nie wcześniej niż po upływie 3 miesięcy od dnia, w którym go nie zdała.
+4. Osoba, która nie zdała egzaminu, o którym mowa art. 51b pkt 3 lit. b, może ponownie przystąpić do tego egzaminu nie wcześniej niż po upływie 3 miesięcy od dnia, którym go nie zdała.
 
-5. Jeżeli osoba, która nie zdała egzaminu, o którym mowa w art. 51b pkt 3 lit. b, zgłosi zamiar przystąpienia do tego egzaminu przed upływem terminu określonego w ust. 4, wojewódzki inspektor na piśmie informuję tę osobę o niedopuszczeniu do tego egzaminu.
+5. Jeżeli osoba, która nie zdała egzaminu, o którym mowa art. 51b pkt 3 lit. b, zgłosi zamiar przystąpienia do tego egzaminu przed upływem terminu określonego ust. 4, wojewódzki inspektor na piśmie informuję tę osobę o niedopuszczeniu do tego egzaminu.
 
-6. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, wykształcenie i zakres wiedzy, jakie powinny posiadać osoby przeprowadzające samodzielną kontrolę roślin, produktów roślinnych lub innych przedmiotów, które przed wyprowadzeniem do określonych państw trzecich będą poddawane kontroli urzędowej o zredukowanej częstotliwości, oraz dokumenty potwierdzające posiadanie tego wykształcenia, mając na uwadze zapewnienie prawidłowego przeprowadzania tej kontroli.
+6. Minister właściwy do spraw rolnictwa określi, drodze rozporządzenia, wykształcenie i zakres wiedzy, jakie powinny posiadać osoby przeprowadzające samodzielną kontrolę roślin, produktów roślinnych lub innych przedmiotów, które przed wyprowadzeniem do określonych państw trzecich będą poddawane kontroli urzędowej o zredukowanej częstotliwości, oraz dokumenty potwierdzające posiadanie tego wykształcenia, mając na uwadze zapewnienie prawidłowego przeprowadzania tej kontroli. roślinnych lub innych przedmiotów wyprowadzanych do państw trzecich z naruszeniem procedury kontroli, stwarzając zagrożenie naruszenia wymagań importowych państwa trzeciego, wojewódzki inspektor zakazuje, drodze decyzji, tej osobie przeprowadzania takiej kontroli do czasu zdania egzaminu, o którym mowa art. 51b pkt 3 lit. b.
 
-**Art. 51f.**
+2. Decyzja, o której mowa ust. 1, podlega natychmiastowemu wykonaniu.
 
-1. Jeżeli osoba, o której mowa w art. 51b pkt 3, przeprowadza samodzielną kontrolę roślin, produktów roślinnych lub innych przedmiotów wyprowadzanych do państw trzecich z naruszeniem procedury kontroli, stwarzając zagrożenie naruszenia wymagań importowych państwa trzeciego, wojewódzki inspektor zakazuje, w drodze decyzji, tej osobie przeprowadzania takiej kontroli do czasu zdania egzaminu, o którym mowa w art. 51b pkt 3 lit. b.
+3. Osoba, której wojewódzki inspektor zakazał przeprowadzania samodzielnej kontroli roślin, produktów roślinnych lub innych przedmiotów wyprowadzanych do państw trzecich decyzją, o której mowa ust. 1, może przystąpić do egzaminu, o którym mowa art. 51b pkt 3 lit. b, nie wcześniej niż po upływie 3 lat od dnia, którym decyzja ta stała się ostateczna.
 
-2. Decyzja, o której mowa w ust. 1, podlega natychmiastowemu wykonaniu.
-
-3. Osoba, której wojewódzki inspektor zakazał przeprowadzania samodzielnej kontroli roślin, produktów roślinnych lub innych przedmiotów wyprowadzanych do państw trzecich decyzją, o której mowa w ust. 1, może przystąpić do egzaminu, o którym mowa w art. 51b pkt 3 lit. b, nie wcześniej niż po upływie 3 lat od dnia, w którym decyzja ta stała się ostateczna.
-
-4. Jeżeli osoba, której wojewódzki inspektor zakazał przeprowadzania samodzielnej kontroli roślin, produktów roślinnych lub innych przedmiotów wyprowadzanych do państw trzecich decyzją, o której mowa w ust. 1, zgłosi zamiar przystąpienia do egzaminu, o którym mowa w art. 51b pkt 3 lit. b, przed upływem terminu określonego w ust. 3, wojewódzki inspektor odmawia tej osobie na piśmie dopuszczenia do tego egzaminu.
+4. Jeżeli osoba, której wojewódzki inspektor zakazał przeprowadzania samodzielnej kontroli roślin, produktów roślinnych lub innych przedmiotów wyprowadzanych do państw trzecich decyzją, o której mowa ust. 1, zgłosi zamiar przystąpienia do egzaminu, o którym mowa art. 51b pkt 3 lit. b, przed upływem terminu określonego ust. 3, wojewódzki inspektor odmawia tej osobie na piśmie dopuszczenia do tego egzaminu.
 
 **Art. 51g.**
 
 1. Eksporter wpisany do rejestru zaufanych eksporterów jest obowiązany do:
 
-- **1)** zapewnienia, że samodzielna kontrola roślin, produktów roślinnych i innych przedmiotów, które przed wyprowadzeniem do określonych państw trzecich będą poddawane kontroli urzędowej o zredukowanej częstotliwości, jest przeprowadzana przez osoby spełniające wymagania określone w art. 51b pkt 3;
+- **1)** zapewnienia, że samodzielna kontrola roślin, produktów roślinnych i innych przedmiotów, które przed wyprowadzeniem do określonych państw trzecich będą poddawane kontroli urzędowej o zredukowanej częstotliwości, jest przeprowadzana przez osoby spełniające wymagania określone art. 51b pkt 3;
 - **2)** wdrożenia procedury kontroli;
 - **3)** nieprzeznaczania do wysyłki do państwa trzeciego roślin, produktów roślinnych i innych przedmiotów, które przed wyprowadzeniem do określonych państw trzecich będą poddawane kontroli urzędowej o zredukowanej częstotliwości, niespełniających wymagań importowych tego państwa, porażonych przez agrofagi objęte wymaganiami importowymi tego państwa lub takich, które nie są praktycznie wolne od innych agrofagów;
-- **4)** informowania wojewódzkiego inspektora zgodnie z procedurą kontroli o podejrzeniu występowania w przesyłkach roślin, produktów roślinnych i innych przedmiotów, które przed wyprowadzeniem do określonych państw trzecich będą poddawane kontroli urzędowej o zredukowanej częstotliwości, agrofagów objętych wymaganiami importowymi państwa trzeciego, do którego przesyłki te będą wyprowadzane lub przez które będą przemieszczane, w celu potwierdzenia lub wykluczenia tego podejrzenia;
+- **4)** informowania wojewódzkiego inspektora zgodnie z procedurą kontroli o podejrzeniu występowania przesyłkach roślin, produktów roślinnych i innych przedmiotów, które przed wyprowadzeniem do określonych państw trzecich będą poddawane kontroli urzędowej o zredukowanej częstotliwości, agrofagów objętych wymaganiami importowymi państwa trzeciego, do którego przesyłki te będą wyprowadzane lub przez które będą przemieszczane, celu potwierdzenia lub wykluczenia tego podejrzenia;
 - **5)** umożliwienia przeprowadzania przez wojewódzkiego inspektora kontroli wdrożenia procedury kontroli i współdziałania podczas tej kontroli;
-- **6)** prowadzenia dokumentacji, o której mowa w art. 51d ust. 1 pkt 11, i udostępniania jej wojewódzkiemu inspektorowi na jego żądanie;
-- **7)** niezwłocznego powiadamiania wojewódzkiego inspektora o zmianie w zakresie informacji, o których mowa w art. 51c ust. 2 pkt 1–4.
+- **6)** prowadzenia dokumentacji, o której mowa art. 51d ust. 1 pkt 11, i udostępniania jej wojewódzkiemu inspektorowi na jego żądanie;
+- **7)** niezwłocznego powiadamiania wojewódzkiego inspektora o zmianie zakresie informacji, o których mowa art. 51c ust. 2 pkt 1–4.
 
-2. Wojewódzki inspektor przeprowadza u eksporterów wpisanych do rejestru zaufanych eksporterów kontrole wykonania obowiązków, o których mowa w ust. 1, co najmniej raz w roku.
+2. Wojewódzki inspektor przeprowadza u eksporterów wpisanych do rejestru zaufanych eksporterów kontrole wykonania obowiązków, o których mowa ust. 1, co najmniej raz roku.
 
-3. Wojewódzki inspektor w przypadku:
+3. Wojewódzki inspektor przypadku:
 
-- **1)** stwierdzenia w wyniku kontroli, o której mowa w ust. 2, że wdrożona procedura kontroli nie zapewnia bezpieczeństwa fitosanitarnego w odniesieniu do wszystkich lub do części roślin, produktów roślinnych lub innych przedmiotów objętych procedurą kontroli,
+- **1)** stwierdzenia wyniku kontroli, o której mowa ust. 2, że wdrożona procedura kontroli nie zapewnia bezpieczeństwa fitosanitarnego odniesieniu do wszystkich lub do części roślin, produktów roślinnych lub innych przedmiotów objętych procedurą kontroli,
 - **2)** otrzymania od organu państwa trzeciego, do którego przesyłki poddane kontroli urzędowej o zredukowanej częstotliwości zostały wyprowadzone lub przez które były przemieszczane, informacji o niespełnieniu wymagań importowych tego państwa,
-- **3)** zmiany wymagań importowych państwa, do którego są wyprowadzone przesyłki poddawane kontroli urzędowej o zredukowanej częstotliwości – wzywa eksportera wpisanego do rejestru zaufanych eksporterów do uzupełnienia lub poprawienia procedury kontroli w terminie 30 dni od dnia doręczenia tego wezwania.
+- **3)** zmiany wymagań importowych państwa, do którego są wyprowadzone przesyłki poddawane kontroli urzędowej o zredukowanej częstotliwości wzywa eksportera wpisanego do rejestru zaufanych eksporterów do uzupełnienia lub poprawienia procedury kontroli terminie 30 dni od dnia doręczenia tego wezwania.
 
-4. Wezwanie, o którym mowa w ust. 3, zawiera pouczenie, że nieuzupełnienie lub niepoprawienie procedury kontroli spowoduje:
+4. Wezwanie, o którym mowa ust. 3, zawiera pouczenie, że nieuzupełnienie lub niepoprawienie procedury kontroli spowoduje:
 
-- **1)** wykreślenie eksportera z rejestru zaufanych eksporterów – jeżeli to wezwanie dotyczy wszystkich roślin, produktów roślinnych lub innych przedmiotów objętych procedurą kontroli albo
-- **2)** ograniczenie zakresu wpisu do rejestru zaufanych eksporterów – jeżeli to wezwanie dotyczy części roślin, produktów roślinnych lub innych przedmiotów objętych procedurą kontroli.
-
-5. Kontrolę roślin, produktów roślinnych lub innych przedmiotów, których dotyczy wezwanie do uzupełnienia lub poprawienia procedury kontroli, do czasu uzupełnienia lub poprawienia procedury kontroli przeprowadza wojewódzki inspektor.
+- **1)** wykreślenie eksportera z rejestru zaufanych eksporterów jeżeli to wezwanie dotyczy wszystkich roślin, produktów roślinnych lub innych przedmiotów objętych procedurą kontroli albo
+- **2)** ograniczenie zakresu wpisu do rejestru zaufanych eksporterów jeżeli to wezwanie dotyczy części roślin, produktów roślinnych lub innych przedmiotów objętych procedurą kontroli. lub poprawienia procedury kontroli, do czasu uzupełnienia lub poprawienia procedury kontroli przeprowadza wojewódzki inspektor.
 
 6. Jeżeli:
 
-- **1)** eksporter wpisany do rejestru zaufanych eksporterów nie uzupełni lub nie poprawi procedury kontroli w terminie określonym w ust. 3 lub
-- **2)** uzupełniona lub poprawiona procedura kontroli nie zapewnia bezpieczeństwa fitosanitarnego w odniesieniu do wszystkich lub do części roślin, produktów roślinnych lub innych przedmiotów objętych procedurą kontroli – wojewódzki inspektor, w drodze decyzji, wykreśla eksportera z rejestru zaufanych eksporterów, a w przypadku gdy stwierdzone braki lub uchybienia dotyczą części roślin, produktów roślinnych lub innych przedmiotów objętych procedurą kontroli – ogranicza zakres wpisu do rejestru zaufanych eksporterów.
+- **1)** eksporter wpisany do rejestru zaufanych eksporterów nie uzupełni lub nie poprawi procedury kontroli terminie określonym ust. 3 lub
+- **2)** uzupełniona lub poprawiona procedura kontroli nie zapewnia bezpieczeństwa fitosanitarnego odniesieniu do wszystkich lub do części roślin, produktów roślinnych lub innych przedmiotów objętych procedurą kontroli wojewódzki inspektor, drodze decyzji, wykreśla eksportera z rejestru zaufanych eksporterów, a przypadku gdy stwierdzone braki lub uchybienia dotyczą części roślin, produktów roślinnych lub innych przedmiotów objętych procedurą kontroli ogranicza zakres wpisu do rejestru zaufanych eksporterów.
 
-7. Jeżeli wojewódzki inspektor w terminie 6 miesięcy od dnia uzupełnienia lub poprawienia procedury kontroli ponownie otrzyma od organu państwa trzeciego, do którego zostały wyprowadzone przesyłki poddane kontroli urzędowej o zredukowanej częstotliwości lub przez które te przesyłki były przemieszczane, informacje o niespełnieniu wymagań importowych tego państwa, w drodze decyzji:
+7. Jeżeli wojewódzki inspektor terminie 6 miesięcy od dnia uzupełnienia lub poprawienia procedury kontroli ponownie otrzyma od organu państwa trzeciego, do którego zostały wyprowadzone przesyłki poddane kontroli urzędowej o zredukowanej częstotliwości lub przez które te przesyłki były przemieszczane, informacje o niespełnieniu wymagań importowych tego państwa, drodze decyzji:
 
-- **1)** wykreśla eksportera z rejestru zaufanych eksporterów – jeżeli informacje o niespełnieniu wymagań importowych tego państwa dotyczą wszystkich roślin, produktów roślinnych lub innych przedmiotów objętych procedurą kontroli;
-- **2)** ogranicza zakres wpisu do rejestru zaufanych eksporterów – jeżeli informacje o niespełnieniu wymagań importowych tego państwa dotyczą części roślin, produktów roślinnych lub innych przedmiotów objętych procedurą kontroli.
+- **1)** wykreśla eksportera z rejestru zaufanych eksporterów jeżeli informacje o niespełnieniu wymagań importowych tego państwa dotyczą wszystkich roślin, produktów roślinnych lub innych przedmiotów objętych procedurą kontroli;
+- **2)** ogranicza zakres wpisu do rejestru zaufanych eksporterów jeżeli informacje o niespełnieniu wymagań importowych tego państwa dotyczą części roślin, produktów roślinnych lub innych przedmiotów objętych procedurą kontroli.
 
 **Art. 51h.**
 
 1. Eksporter wpisany do rejestru zaufanych eksporterów może złożyć do wojewódzkiego inspektora, który dokonał tego wpisu, wniosek o zmianę zakresu dokonanego wpisu.
 
-2. Jeżeli zmiana, o której mowa w ust. 1, dotyczy ograniczenia zakresu wpisu do rejestru zaufanych eksporterów, wniosek o tę zmianę zawiera:
+2. Jeżeli zmiana, o której mowa ust. 1, dotyczy ograniczenia zakresu wpisu do rejestru zaufanych eksporterów, wniosek o tę zmianę zawiera:
 
 - **1)** numer, pod którym wnioskodawca jest wpisany do urzędowego rejestru podmiotów profesjonalnych;
 - **2)** nazwę botaniczną roślin lub nazwę produktów roślinnych lub nazwę innych przedmiotów, które przed wyprowadzeniem do określonych państw trzecich nie będą poddawane kontroli urzędowej o zredukowanej częstotliwości i określenie państwa trzeciego, do którego są one wyprowadzane lub przez które są przemieszczane.
 
-3. Do rozszerzenia zakresu wpisu do rejestru zaufanych eksporterów przepisy art. 51b pkt 3, art. 51c ust. 1–5 i 7 oraz art. 51d stosuje się w zakresie, w jakim dotyczą rozszerzenia zakresu tego wpisu.
+3. Do rozszerzenia zakresu wpisu do rejestru zaufanych eksporterów przepisy art. 51b pkt 3, art. 51c ust. 1–5 i 7 oraz art. 51d stosuje się zakresie, jakim dotyczą rozszerzenia zakresu tego wpisu.
 
 **Art. 51i.**
 
 1. Wojewódzki inspektor wykreśla eksportera z rejestru zaufanych eksporterów:
 
 - **1)** na wniosek tego eksportera;
-- **2)** w przypadku stwierdzenia niewykonywania przez tego eksportera działalności w zakresie eksportu roślin, produktów roślinnych lub innych przedmiotów przy zastosowaniu kontroli urzędowej o zredukowanej częstotliwości dłużej niż przez 3 lata;
-- **3)** w przypadku wykreślenia tego eksportera z Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego albo zgonu osoby niepodlegającej wpisowi do Centralnej Ewidencji i Informacji o Działalności Gospodarczej;
-- **4)** w przypadku stwierdzenia, że informacje podane we wniosku o wpis do rejestru zaufanych eksporterów były niezgodne ze stanem faktycznym.
+- **2)** przypadku stwierdzenia niewykonywania przez tego eksportera działalności zakresie eksportu roślin, produktów roślinnych lub innych przedmiotów przy zastosowaniu kontroli urzędowej o zredukowanej częstotliwości dłużej niż przez 3 lata;
+- **3)** przypadku wykreślenia tego eksportera z Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego albo zgonu osoby niepodlegającej wpisowi do Centralnej Ewidencji i Informacji o Działalności Gospodarczej;
+- **4)** przypadku stwierdzenia, że informacje podane we wniosku o wpis do rejestru zaufanych eksporterów były niezgodne ze stanem faktycznym.
 
-2. W przypadku stwierdzenia, po dokonaniu wpisu eksportera do rejestru zaufanych eksporterów, błędów lub pomyłek w informacjach podanych we wniosku o wpis do rejestru zaufanych eksporterów wojewódzki inspektor wzywa tego eksportera do ich poprawienia w wyznaczonym terminie, jednak nie krótszym niż 7 dni od dnia doręczenia tego wezwania, z pouczeniem, że niepoprawienie tych błędów lub tych pomyłek skutkuje wykreśleniem tego eksportera z rejestru zaufanych eksporterów.
+2. W przypadku stwierdzenia, po dokonaniu wpisu eksportera do rejestru zaufanych eksporterów, błędów lub pomyłek informacjach podanych we wniosku o wpis do rejestru zaufanych eksporterów wojewódzki inspektor wzywa tego eksportera do ich poprawienia wyznaczonym terminie, jednak nie krótszym niż 7 dni od dnia doręczenia tego wezwania, z pouczeniem, że niepoprawienie tych błędów lub tych pomyłek skutkuje wykreśleniem tego eksportera z rejestru zaufanych eksporterów.
 
-3. W przypadku niepoprawienia błędów lub pomyłek we wniosku o wpis do rejestru zaufanych eksporterów w terminie, o którym mowa w ust. 2, wojewódzki inspektor wykreśla eksportera z rejestru zaufanych eksporterów.
+3. W przypadku niepoprawienia błędów lub pomyłek we wniosku o wpis do rejestru zaufanych eksporterów terminie, o którym mowa ust. 2, wojewódzki inspektor wykreśla eksportera z rejestru zaufanych eksporterów. oraz ust. 3, jest dokonywane drodze decyzji.
 
-4. Wykreślenie podmiotu z rejestru zaufanych eksporterów w przypadkach, o których mowa w ust. 1 pkt 2 i 4 oraz ust. 3, jest dokonywane w drodze decyzji.
+5. W przypadku stwierdzenia przez wojewódzkiego inspektora wyniku kontroli, o której mowa art. 51g ust. 2, niewdrożenia przez eksportera wpisanego do rejestru zaufanych eksporterów procedury kontroli lub stwierdzenia nieprawidłowego jej wdrożenia, lub stwierdzenia niewykonywania obowiązków określonych art. 51g ust. 1 wojewódzki inspektor, mając na uwadze stopień stwierdzonego niedopełnienia tych obowiązków i wymagania importowe państwa trzeciego:
 
-5. W przypadku stwierdzenia przez wojewódzkiego inspektora w wyniku kontroli, o której mowa w art. 51g ust. 2, niewdrożenia przez eksportera wpisanego do rejestru zaufanych eksporterów procedury kontroli lub stwierdzenia nieprawidłowego jej wdrożenia, lub stwierdzenia niewykonywania obowiązków określonych w art. 51g ust. 1 wojewódzki inspektor, mając na uwadze stopień stwierdzonego niedopełnienia tych obowiązków i wymagania importowe państwa trzeciego:
+- **1)** drodze pisemnych zaleceń pokontrolnych nakazuje usunięcie stwierdzonych uchybień wyznaczonym terminie, jednak nie krótszym niż 7 dni od dnia doręczenia nakazu jeżeli te uchybienia nie stwarzają zagrożenia naruszenia wymagań importowych państwa trzeciego albo
+- **2)** drodze decyzji wykreśla tego eksportera z rejestru zaufanych eksporterów albo ogranicza zakres wpisu do rejestru zaufanych eksporterów odniesieniu do roślin, produktów roślinnych lub innych przedmiotów, których dotyczą stwierdzone uchybienia jeżeli te uchybienia stwarzają zagrożenie naruszenia wymagań importowych państwa trzeciego.
 
-- **1)** w drodze pisemnych zaleceń pokontrolnych nakazuje usunięcie stwierdzonych uchybień w wyznaczonym terminie, jednak nie krótszym niż 7 dni od dnia doręczenia nakazu – jeżeli te uchybienia nie stwarzają zagrożenia naruszenia wymagań importowych państwa trzeciego albo
-- **2)** w drodze decyzji wykreśla tego eksportera z rejestru zaufanych eksporterów albo ogranicza zakres wpisu do rejestru zaufanych eksporterów w odniesieniu do roślin, produktów roślinnych lub innych przedmiotów, których dotyczą stwierdzone uchybienia – jeżeli te uchybienia stwarzają zagrożenie naruszenia wymagań importowych państwa trzeciego.
+6. W przypadku gdy eksporter wpisany do rejestru zaufanych eksporterów nie usunie stwierdzonych uchybień wyznaczonym terminie, wojewódzki inspektor, jeżeli stwierdzone uchybienia dotyczą:
 
-6. W przypadku gdy eksporter wpisany do rejestru zaufanych eksporterów nie usunie stwierdzonych uchybień w wyznaczonym terminie, wojewódzki inspektor, jeżeli stwierdzone uchybienia dotyczą:
-
-- **1)** wszystkich roślin, produktów roślinnych lub innych przedmiotów objętych procedurą kontroli – wykreśla, w drodze decyzji, tego eksportera z rejestru zaufanych eksporterów;
-- **2)** części roślin, produktów roślinnych lub innych przedmiotów objętych procedurą kontroli – ogranicza, w drodze decyzji, zakres wpisu do rejestru zaufanych eksporterów w odniesieniu do tych roślin, produktów roślinnych lub innych przedmiotów, których dotyczą stwierdzone uchybienia.
+- **1)** wszystkich roślin, produktów roślinnych lub innych przedmiotów objętych procedurą kontroli wykreśla, drodze decyzji, tego eksportera z rejestru zaufanych eksporterów;
+- **2)** części roślin, produktów roślinnych lub innych przedmiotów objętych procedurą kontroli ogranicza, drodze decyzji, zakres wpisu do rejestru zaufanych eksporterów odniesieniu do tych roślin, produktów roślinnych lub innych przedmiotów, których dotyczą stwierdzone uchybienia.
 
 7. W przypadku gdy eksporter wpisany do rejestru zaufanych eksporterów:
 
-- **1)** zostanie ukarany lub zostanie na niego nałożona administracyjna kara pieniężna za naruszenie przepisów, o których mowa w art. 1 pkt 1, lub przepisów ustawy, dotyczących wysyłki roślin, produktów roślinnych lub innych przedmiotów do państw trzecich, stwarzające zagrożenie rozprzestrzenienia się agrofagów lub naruszenia wymagań importowych państwa trzeciego lub
-- **2)** zostanie dwukrotnie ukarany w terminie 6 miesięcy lub w tym terminie zostanie na niego dwukrotnie nałożona administracyjna kara pieniężna za naruszenie przepisów, o których mowa w art. 1 pkt 1, lub przepisów ustawy, dotyczących wysyłki roślin, produktów roślinnych lub innych przedmiotów do państw trzecich, inne niż określone w pkt 1 – wojewódzki inspektor wykreśla, w drodze decyzji, tego eksportera z rejestru zaufanych eksporterów.
+- **1)** zostanie ukarany lub zostanie na niego nałożona administracyjna kara pieniężna za naruszenie przepisów, o których mowa art. 1 pkt 1, lub przepisów ustawy, dotyczących wysyłki roślin, produktów roślinnych lub innych przedmiotów do państw trzecich, stwarzające zagrożenie rozprzestrzenienia się agrofagów lub naruszenia wymagań importowych państwa trzeciego lub
+- **2)** zostanie dwukrotnie ukarany terminie 6 miesięcy lub tym terminie zostanie na niego dwukrotnie nałożona administracyjna kara pieniężna za naruszenie przepisów, o których mowa art. 1 pkt 1, lub przepisów ustawy, dotyczących wysyłki roślin, produktów roślinnych lub innych przedmiotów do państw trzecich, inne niż określone pkt 1 wojewódzki inspektor wykreśla, drodze decyzji, tego eksportera z rejestru zaufanych eksporterów.
 
-8. Podmiot, który został wykreślony z rejestru zaufanych eksporterów na podstawie ust. 1 pkt 4, ust. 3, ust. 5 pkt 2, ust. 6 pkt 1 lub ust. 7, może ponownie wystąpić z wnioskiem o wpis do rejestru zaufanych eksporterów nie wcześniej niż po upływie 3 lat od dnia, w którym decyzja o wykreśleniu z rejestru zaufanych eksporterów stała się ostateczna.
+8. Podmiot, który został wykreślony z rejestru zaufanych eksporterów na podstawie ust. 1 pkt 4, ust. 3, ust. 5 pkt 2, ust. 6 pkt 1 lub ust. 7, może ponownie wystąpić z wnioskiem o wpis do rejestru zaufanych eksporterów nie wcześniej niż po upływie 3 lat od dnia, którym decyzja o wykreśleniu z rejestru zaufanych eksporterów stała się ostateczna.
 
-9. Decyzje wydane w przypadkach, o których mowa w ust. 1 pkt 4 i ust. 3, decyzje, o których mowa w ust. 5 pkt 2, ust. 6 i 7, i decyzje, o których mowa w art. 51g ust. 6 i 7, podlegają natychmiastowemu wykonaniu.
+9. Decyzje wydane przypadkach, o których mowa ust. 1 pkt 4 i ust. 3, decyzje, o których mowa ust. 5 pkt 2, ust. 6 i 7, i decyzje, o których mowa art. 51g ust. 6 i 7, podlegają natychmiastowemu wykonaniu.
 
-10. Jeżeli podmiot, który został wykreślony z rejestru zaufanych eksporterów, złoży wniosek o wpis do rejestru zaufanych eksporterów przed upływem terminu określonego w ust. 8, wniosek ten pozostawia się bez rozpoznania.
+10. Jeżeli podmiot, który został wykreślony z rejestru zaufanych eksporterów, złoży wniosek o wpis do rejestru zaufanych eksporterów przed upływem terminu określonego ust. 8, wniosek ten pozostawia się bez rozpoznania.
 
-11. Jeżeli ze względu na zmianę wymagań importowych państwa trzeciego wysyłka do tego państwa określonych roślin, produktów roślinnych lub innych przedmiotów z zastosowaniem kontroli urzędowej o zredukowanej częstotliwości stanie się niemożliwa, wojewódzki inspektor, w przypadku gdy zmiana wymagań importowych państwa trzeciego dotyczy:
+11. Jeżeli ze względu na zmianę wymagań importowych państwa trzeciego wysyłka do tego państwa określonych roślin, produktów roślinnych lub innych przedmiotów z zastosowaniem kontroli urzędowej o zredukowanej częstotliwości stanie się niemożliwa, wojewódzki inspektor, przypadku gdy zmiana wymagań importowych państwa trzeciego dotyczy:
 
-- **1)** wszystkich roślin, produktów roślinnych lub innych przedmiotów, które przed wyprowadzeniem do tego państwa trzeciego są poddawane kontroli urzędowej o zredukowanej częstotliwości – wykreśla eksporterów wpisanych do rejestru zaufanych eksporterów z rejestru zaufanych eksporterów;
-- **2)** części roślin, produktów roślinnych lub innych przedmiotów, które przed wyprowadzeniem do tego państwa trzeciego są poddawane kontroli urzędowej o zredukowanej częstotliwości – ogranicza zakres wpisów do rejestru zaufanych eksporterów w odniesieniu do tych roślin, produktów roślinnych lub innych przedmiotów, których dotyczy zmiana tych wymagań.
+- **1)** wszystkich roślin, produktów roślinnych lub innych przedmiotów, które przed wyprowadzeniem do tego państwa trzeciego są poddawane kontroli urzędowej o zredukowanej częstotliwości wykreśla eksporterów wpisanych do rejestru zaufanych eksporterów z rejestru zaufanych eksporterów;
+- **2)** części roślin, produktów roślinnych lub innych przedmiotów, które przed wyprowadzeniem do tego państwa trzeciego są poddawane kontroli urzędowej o zredukowanej częstotliwości ogranicza zakres wpisów do rejestru zaufanych eksporterów odniesieniu do tych roślin, produktów roślinnych lub innych przedmiotów, których dotyczy zmiana tych wymagań.
 
-12. W przypadku, o którym mowa w ust. 11, wojewódzki inspektor informuje eksporterów o wykreśleniu z rejestru zaufanych eksporterów lub ograniczeniu zakresu wpisów do rejestru zaufanych eksporterów na piśmie w terminie 7 dni od dnia uzyskania informacji o zmianie wymagań importowych państwa trzeciego.”;
+12. W przypadku, o którym mowa ust. 11, wojewódzki inspektor informuje eksporterów o wykreśleniu z rejestru zaufanych eksporterów lub ograniczeniu zakresu wpisów do rejestru zaufanych eksporterów na piśmie terminie 7 dni od dnia uzyskania informacji o zmianie wymagań importowych państwa trzeciego.”; „2. W przypadku nieuiszczenia opłaty, o której mowa w:
 
-- **7)** w art. 56 ust. 2 otrzymuje brzmienie: „2. W przypadku nieuiszczenia opłaty, o której mowa w:
-- **1)** art. 53 pkt 5 – nie dopuszcza się osoby, która nie uiściła tej opłaty, do egzaminu, o którym mowa w art. 23 ust. 1 pkt 1;
-- **2)** art. 79 ust. 1 lub ust. 2 lit. a rozporządzenia 2017/625 – nie stosuje się przepisu art. 56 ust. 5 rozporządzenia 2017/625 w odniesieniu do wypełnienia przez wojewódzkiego inspektora wspólnego zdrowotnego dokumentu wejścia, o którym mowa w art. 50 ust. 3 rozporządzenia 2017/625.”;
-- **8)** w art. 58:
-    - **a)** w ust. 1 część wspólna otrzymuje brzmienie: „– podlega administracyjnej karze pieniężnej w wysokości od 500 do 10 000 zł.”,
-    - **b)** w ust. 2: – po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) nie wykonuje obowiązku zaopatrzenia roślin, produktów roślinnych lub innych przedmiotów wyprowadzanych do państw trzecich lub przemieszczanych przez państwa trzecie w wymagane fitosanitarne świadectwo eksportowe lub fitosanitarne świadectwo reeksportowe”, – uchyla się pkt 3, – część wspólna otrzymuje brzmienie: „– podlega administracyjnej karze pieniężnej w wysokości od 500 do 500 000 zł.”,
+- **1)** art. 53 pkt 5 nie dopuszcza się osoby, która nie uiściła tej opłaty, do egzaminu, o którym mowa art. 23 ust. 1 pkt 1;
+- **2)** art. 79 ust. 1 lub ust. 2 lit. a rozporządzenia 2017/625 nie stosuje się przepisu art. 56 ust. 5 rozporządzenia 2017/625 odniesieniu do wypełnienia przez wojewódzkiego inspektora wspólnego zdrowotnego dokumentu wejścia, o którym mowa art. 50 ust. 3 rozporządzenia 2017/625.”;
+- **8)** art. 58:
+    - **a)** ust. 1 część wspólna otrzymuje brzmienie: „– podlega administracyjnej karze pieniężnej wysokości od 500 do 10 000 zł.”,
+    - **b)** ust. 2: po pkt 2 dodaje się pkt 2a brzmieniu: „2a) nie wykonuje obowiązku zaopatrzenia roślin, produktów roślinnych lub innych przedmiotów wyprowadzanych do państw trzecich lub przemieszczanych przez państwa trzecie wymagane fitosanitarne świadectwo eksportowe lub fitosanitarne świadectwo reeksportowe”, uchyla się pkt 3, część wspólna otrzymuje brzmienie: „– podlega administracyjnej karze pieniężnej wysokości od 500 do 500 000 zł.”,
     - **c)** ust. 3 otrzymuje brzmienie: „3. Podmiot, który:
 
 - **1)** nie wykonuje obowiązków, nakazów lub zakazów:
-    - **a)** określonych w przepisach Unii Europejskiej wydanych na podstawie art. 28 ust. 1 lub 6 lub art. 30 ust. 1 akapit drugi lub ust. 7, lub art. 37 ust. 4 rozporządzenia 2016/2031 lub w przepisach wydanych na podstawie art. 9 ust. 5, art. 11 ust. 11, art. 14 ust. 3 lub 7,
-    - **b)** wynikających z decyzji, o których mowa w art. 8 ust. 2 pkt 2 lub ust. 6 pkt 2, art. 11 ust. 1 pkt 1, 2 lub 3, ust. 2, ust. 6 pkt 2 lub ust. 7, art. 13 ust. 6 lub ust. 9 pkt 2, art. 15 ust. 1, art. 20 ust. 2 pkt 2 lub ust. 8 pkt 2 lub art. 35 ust. 2,
+    - **a)** określonych przepisach Unii Europejskiej wydanych na podstawie art. 28 ust. 1 lub 6 lub art. 30 ust. 1 akapit drugi lub ust. 7, lub art. 37 ust. 4 rozporządzenia 2016/2031 lub przepisach wydanych na podstawie art. 9 ust. 5, art. 11 ust. 11, art. 14 ust. 3 lub 7,
+    - **b)** wynikających z decyzji, o których mowa art. 8 ust. 2 pkt 2 lub ust. 6 pkt 2, art. 11 ust. 1 pkt 1, 2 lub 3, ust. 2, ust. 6 pkt 2 lub ust. 7, art. 13 ust. 6 lub ust. 9 pkt 2, art. 15 ust. 1, art. 20 ust. 2 pkt 2 lub ust. 8 pkt 2 lub art. 35 ust. 2,
 
-- **2)** będąc do tego obowiązanym, nie informuje wojewódzkiego inspektora o przeniesieniu posiadania roślin, produktów roślinnych, innych przedmiotów, gruntów lub obiektów, których dotyczą decyzje, o których mowa w art. 8 ust. 2 pkt 2, art. 11 ust. 1 pkt 1, 2 lub 3 lub ust. 2 lub art. 20 ust. 2 pkt 2 – podlega administracyjnej karze pieniężnej w wysokości od 500 do 50 000 zł.”,
-    - **d)** w ust. 4: – uchyla się pkt 1 i 2, – uchyla się pkt 4 i 5,
-    - **e)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Podmiot, który:
+- **2)** będąc do tego obowiązanym, nie informuje wojewódzkiego inspektora o przeniesieniu posiadania roślin, produktów roślinnych, innych przedmiotów, gruntów lub obiektów, których dotyczą decyzje, o których mowa art. 8 ust. 2 pkt 2, art. 11 ust. 1 pkt 1, 2 lub 3 lub ust. 2 lub art. 20 ust. 2 pkt 2 podlega administracyjnej karze pieniężnej wysokości od 500 do 50 000 zł.”,
+    - **d)** ust. 4: uchyla się pkt 1 i 2, uchyla się pkt 4 i 5,
+    - **e)** po ust. 4 dodaje się ust. 4a brzmieniu: „4a. Podmiot, który:
 
-- **1)** wbrew zakazowi wprowadzonemu na podstawie art. 5 ust. 1 rozporządzenia 2016/2031 lub w przepisach Unii Europejskiej wydanych na podstawie art. 30 ust. 1 akapit drugi rozporządzenia 2016/2031, wprowadza, przemieszcza, utrzymuje, rozmnaża lub uwalnia agrofagi kwarantannowe dla Unii lub agrofagi objęte środkami przyjętymi zgodnie z art. 30 ust. 1 rozporządzenia 2016/2031,
-- **2)** wbrew zakazowi określonemu w art. 32 ust. 2 rozporządzenia 2016/2031 wprowadza, przemieszcza, utrzymuje, rozmnaża lub uwalnia agrofagi kwarantannowe dla strefy chronionej na obszarze tej strefy chronionej,
-- **3)** wykonuje działania, które mogą być wykonywane wyłącznie w stacji kwarantanny lub obiekcie zapewniającym izolację, w obiekcie, który nie został wyznaczony jako stacja kwarantanny lub obiekt zapewniający izolację,
-- **4)** prowadzi prace nad agrofagami bez zezwolenia na prowadzenie tych prac lub prowadzi te prace niezgodnie z zakresem uzyskanego zezwolenia – podlega administracyjnej karze pieniężnej w wysokości od 1000 do 10 000 zł.”,
-    - **f)** w ust. 5 w pkt 1 wyrazy „ust. 2–4” zastępuje się wyrazami „ust. 2–4a”,
-    - **g)** w ust. 7 wyrazy „ust. 2 i 3” zastępuje się wyrazami „ust. 1–3 i 4a”;
+- **1)** wbrew zakazowi wprowadzonemu na podstawie art. 5 ust. 1 rozporządzenia 2016/2031 lub przepisach Unii Europejskiej wydanych na podstawie art. 30 ust. 1 akapit drugi rozporządzenia 2016/2031, wprowadza, przemieszcza, utrzymuje, rozmnaża lub uwalnia agrofagi kwarantannowe dla Unii lub agrofagi objęte środkami przyjętymi zgodnie z art. 30 ust. 1 rozporządzenia 2016/2031,
+- **2)** wbrew zakazowi określonemu art. 32 ust. 2 rozporządzenia 2016/2031 wprowadza, przemieszcza, utrzymuje, rozmnaża lub uwalnia agrofagi kwarantannowe dla strefy chronionej na obszarze tej strefy chronionej,
+- **3)** wykonuje działania, które mogą być wykonywane wyłącznie stacji kwarantanny lub obiekcie zapewniającym izolację, obiekcie, który nie został wyznaczony jako stacja kwarantanny lub obiekt zapewniający izolację,
+- **4)** prowadzi prace nad agrofagami bez zezwolenia na prowadzenie tych prac lub prowadzi te prace niezgodnie z zakresem uzyskanego zezwolenia podlega administracyjnej karze pieniężnej wysokości od 1000 do 10 000 zł.”,
+    - **g)** ust. 7 wyrazy „ust. 2 i 3” zastępuje się wyrazami „ust. 1–3 i 4a”;
 
-- **9)** w art. 59 w ust. 1 w pkt 26 dodaje się przecinek i dodaje się pkt 27 w brzmieniu: „27) wykorzystuje drewniany materiał opakowaniowy, drewno lub inne przedmioty, które nie zostały oznakowane zgodnie z art. 96 ust. 1 rozporządzenia 2016/2031, w przypadkach, o których mowa w art. 96 ust. 1 lit. b rozporządzenia 2016/2031”.
+- **9)** art. 59 ust. 1 pkt 26 dodaje się przecinek i dodaje się pkt 27 brzmieniu: „27) wykorzystuje drewniany materiał opakowaniowy, drewno lub inne przedmioty, które nie zostały oznakowane zgodnie z art. 96 ust. 1 rozporządzenia 2016/2031, przypadkach, o których mowa art. 96 ust. 1 lit. b rozporządzenia 2016/2031”.
 
 **Art. 2.** W ustawie z dnia 26 czerwca 2003 r. o ochronie prawnej odmian roślin (Dz. U. z 2021 r. poz. 213) wprowadza się następujące zmiany:
 
+- **1)** art. 11:
+    - **a)** po ust. 3 dodaje się ust. 3a i 3b brzmieniu: „3a. Wniosek o przyznanie wyłącznego prawa, upoważnienie, o którym mowa ust. 3 pkt 1, i kwestionariusz techniczny składa się na formularzach udostępnionych na stronie internetowej administrowanej przez Centralny Ośrodek.
+
+3b. Wniosek o przyznanie wyłącznego prawa i załączniki, o których mowa ust. 3, można złożyć za pomocą systemu teleinformatycznego, o którym mowa art. 11a ust. 1.”,
+
+- **b)** uchyla się ust. 4;
+- **2)** po art. 11 dodaje się art. 11a brzmieniu: „Art. 11a. 1. Dyrektor Centralnego Ośrodka buduje i utrzymuje system teleinformatyczny umożliwiający złożenie wniosku o przyznanie wyłącznego prawa i załączników, o których mowa art. 11 ust. 3, administruje tym systemem i udostępnia go wnioskodawcy.
+
+2. System teleinformatyczny, o którym mowa ust. 1, umożliwia wprowadzanie, przechowywanie, przetwarzanie i agregowanie informacji określonych art. 11 ust. 2 i 3, tym następujących danych osobowych:
+
+- **1)** imienia i nazwiska albo nazwy hodowcy oraz jego adresu i miejsca zamieszkania albo adresu siedziby;
+- **2)** imienia i nazwiska albo nazwy pełnomocnika hodowcy oraz jego adresu i miejsca zamieszkania albo adresu siedziby przypadku gdy wniosek o przyznanie wyłącznego prawa składa pełnomocnik hodowcy.
+
+3. Wprowadzenie przez wnioskodawcę lub osobę uprawnioną do jego reprezentowania informacji, o których mowa ust. 2, systemie teleinformatycznym, o którym mowa ust. 1, następuje po uwierzytelnieniu tym systemie sposób określony art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703).”;
+
+- **3)** art. 37 pkt 1 otrzymuje brzmienie: „1) narusza wyłączne prawo do odmiany lub wspólnotowe prawo do ochrony odmian roślin przyznane zgodnie z rozporządzeniem Rady (WE) nr 2100/94 z dnia 27 lipca 1994 r. sprawie wspólnotowego systemu ochrony odmian roślin (Dz. Urz. WE L 227 z 01.09.1994, str. 1, z późn. zm. Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 16, str. 390),”;
+- **4)** art. 37a pkt 4 otrzymuje brzmienie: „4) nie udziela wymaganym terminie, na wniosek hodowcy, którego odmiana jest chroniona wyłącznym prawem do odmiany lub wspólnotowym prawem do ochrony odmian roślin, o którym mowa rozporządzeniu Rady (WE) nr 2100/94 z dnia 27 lipca 1994 r. sprawie wspólnotowego systemu ochrony odmian roślin, albo na wniosek organizacji hodowców, informacji, o której mowa art. 23b ust. 1, lub udziela informacji fałszywej,”.
+
 **Art. 3.** W ustawie z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. z 2021 r. poz. 129) wprowadza się następujące zmiany:
+
+- **1)** art. 13 po ust. 5 dodaje się ust. 5a brzmieniu: „5a. Wniosek o wpis odmiany do krajowego rejestru i załączniki, o których mowa ust. 2 i 3, można złożyć za pomocą systemu teleinformatycznego, o którym mowa art. 32b ust. 1.”; „9. Wniosek o przedłużenie okresu wpisu odmiany krajowym rejestrze i kopię dowodu uiszczenia opłaty za złożenie tego wniosku, o której mowa art. 24 ust. 1, można złożyć za pomocą systemu teleinformatycznego, o którym mowa art. 32b ust. 1.”;
+- **3)** art. 22 po ust. 5 dodaje się ust. 5a brzmieniu: „5a. Wniosek, o którym mowa ust. 2, i kopię dowodu uiszczenia opłaty za złożenie wniosku, o której mowa art. 24 ust. 2, można złożyć za pomocą systemu teleinformatycznego, o którym mowa art. 32b ust. 1.”;
+- **4)** art. 30 po ust. 5 dodaje się ust. 5a brzmieniu: „5a. Wniosek o wpis odmiany regionalnej albo odmiany amatorskiej do krajowego rejestru i załączniki, o których mowa ust. 3 i 4, można złożyć za pomocą systemu teleinformatycznego, o którym mowa art. 32b ust. 1.”;
+- **5)** po art. 32a dodaje się art. 32b brzmieniu: „Art. 32b. 1. Dyrektor Centralnego Ośrodka buduje i utrzymuje system teleinformatyczny umożliwiający złożenie wniosków, o których mowa art. 13 ust. 1, art. 20 ust. 2, art. 22 ust. 2 i art. 30 ust. 1, i załączników, o których mowa art. 13 ust. 2 i 3, art. 20 ust. 5, art. 22 ust. 4 i art. 30 ust. 3 i 4, administruje tym systemem i udostępnia go wnioskodawcy.
+
+2. System teleinformatyczny, o którym mowa ust. 1, umożliwia wprowadzanie, przechowywanie, przetwarzanie i agregowanie informacji określonych art. 13 ust. 1–3, art. 20 ust. 2 i 5, art. 22 ust. 3 i 4 oraz art. 30 ust. 2–4, tym następujących danych osobowych imienia i nazwiska oraz adresu i miejsca zamieszkania albo nazwy oraz adresu i siedziby wnioskodawcy, z tym że przypadku gdy wnioskodawcą jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby miejsca i adresu wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby.
+
+3. Wprowadzenie przez wnioskodawcę lub osobę uprawnioną do jego reprezentowania informacji, o których mowa ust. 2, systemie teleinformatycznym, o którym mowa ust. 1, następuje po uwierzytelnieniu tym systemie sposób określony art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703).”;
+
+- **6)** art. 36:
+    - **a)** po ust. 4 dodaje się ust. 4a brzmieniu: „4a. Wniosek o dokonanie oceny polowej materiału siewnego składa się na formularzu udostępnionym na stronie internetowej administrowanej przez wojewódzki inspektorat ochrony roślin i nasiennictwa.”,
+    - **b)** po ust. 12 dodaje się ust. 12a brzmieniu: „12a. Wniosek o dokonanie oceny polowej materiału siewnego, upoważnienie zachowującego odmianę do złożenia wniosku jego imieniu i załączniki, o których mowa ust. 8, 10 i 11, można złożyć za pomocą systemu teleinformatycznego, o którym mowa art. 36b ust. 1.”;
+
+- **7)** po art. 36a dodaje się art. 36b brzmieniu: „Art. 36b. 1. Główny Inspektor buduje i utrzymuje system teleinformatyczny umożliwiający złożenie wniosków, o których mowa art. 36 ust. 2, i załączników, o których mowa art. 36 ust. 8, 10 i 11, administruje tym systemem i udostępnia go wnioskodawcy.
+
+2. System teleinformatyczny, o którym mowa ust. 1, umożliwia wprowadzanie, przechowywanie, przetwarzanie i agregowanie informacji określonych art. 36 ust. 7, 8, 10 i 11 i informacji zawartych upoważnieniu zachowującego odmianę do złożenia wniosku jego imieniu, tym następujących danych osobowych imienia i nazwiska oraz adresu i miejsca zamieszkania albo nazwy oraz adresu i siedziby wnioskodawcy, z tym że przypadku gdy wnioskodawcą jest osoba fizyczna prowadząca działalność gospodarczą zamiast adresu i miejsca zamieszkania tej osoby miejsca i adresu wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby, oraz numeru identyfikacji podatkowej (NIP) prowadzącego obrót, jeżeli został nadany.
+
+3. Wprowadzenie przez wnioskodawcę lub osobę uprawnioną do jego reprezentowania informacji, o których mowa ust. 2, systemie teleinformatycznym, o którym mowa ust. 1, następuje po uwierzytelnieniu tym systemie sposób określony art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.”;
+
+- **9)** art. 71 po ust. 2 dodaje się ust. 2a i 2b brzmieniu: „2a. Wniosek o dokonanie oceny polowej materiału szkółkarskiego kategorii elitarny lub kategorii kwalifikowany składa się na formularzu udostępnionym na stronie internetowej administrowanej przez wojewódzki inspektorat ochrony roślin i nasiennictwa.
+
+2b. Wniosek o dokonanie oceny polowej materiału szkółkarskiego kategorii elitarny lub kategorii kwalifikowany i załączniki, o których mowa ust. 4, można złożyć za pomocą systemu teleinformatycznego, o którym mowa art. 71a ust. 1.”;
+
+- **10)** po art. 71 dodaje się art. 71a brzmieniu: „Art. 71a. 1. Główny Inspektor buduje i utrzymuje system teleinformatyczny umożliwiający złożenie wniosku, o którym mowa art. 71 ust. 1, i załączników, o których mowa art. 71 ust. 4, administruje tym systemem i udostępnia go wnioskodawcy.
+
+2. System teleinformatyczny, o którym mowa ust. 1, umożliwia wprowadzanie, przechowywanie, przetwarzanie i agregowanie informacji określonych art. 71 ust. 3 i 4 i informacji zawartych upoważnieniu zachowującego odmianę do złożenia wniosku jego imieniu, tym następujących danych osobowych imienia i nazwiska oraz adresu i miejsca zamieszkania albo nazwy oraz adresu i siedziby wnioskodawcy, z tym że przypadku gdy wnioskodawcą jest osoba fizyczna prowadząca działalność gospodarczą zamiast adresu i miejsca zamieszkania tej osoby miejsca i adresu wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby, oraz numeru identyfikacji podatkowej (NIP) prowadzącego obrót, jeżeli został nadany.
+
+3. Wprowadzenie przez wnioskodawcę lub osobę uprawnioną do jego reprezentowania informacji, o których mowa ust. 2, systemie teleinformatycznym, o którym mowa ust. 1, następuje po uwierzytelnieniu tym systemie sposób określony art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.”.
 
 **Art. 4.** W ustawie z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. z 2024 r. poz. 630 oraz z 2025 r. poz. 1168 i 1697) wprowadza się następujące zmiany:
 
-**Art. 28b.**
+- **1)** po art. 8 dodaje się art. 8a brzmieniu: „Art. 8a. 1. Przedłużenie okresu ważności zezwolenia na wprowadzanie środka ochrony roślin do obrotu lub pozwolenia na handel równoległy przypadku, o którym mowa art. 17 i art. 43 ust. 6 rozporządzenia nr 1107/2009, wymaga zgłoszenia ministrowi właściwemu do spraw rolnictwa zamiaru uzyskania takiego przedłużenia przez posiadacza zezwolenia na wprowadzanie środka ochrony roślin do obrotu lub pozwolenia na handel równoległy.
 
-1. Osoba dokonująca zbycia środków ochrony roślin przeznaczonych dla użytkowników profesjonalnych ostatecznemu nabywcy, z wyłączeniem zbycia tych środków ochrony roślin w ramach umowy na odległość, gdy to zbycie dotyczy:
+2. Zamiar, o którym mowa ust. 1, zgłasza się ministrowi właściwemu do spraw rolnictwa terminie co najmniej 30 dni przed upływem okresu ważności zezwolenia na wprowadzanie środka ochrony roślin do obrotu lub pozwolenia na handel równoległy.
 
-- **1)** środków ochrony roślin, o których mowa w art. 25 ust. 3 pkt 4a, jest obowiązana do żądania okazania przez osobę dokonującą nabycia tych środków ochrony roślin:
-    - **a)** zaświadczenia o ukończeniu szkolenia w zakresie stosowania środków ochrony roślin metodą fumigacji albo zaświadczenia, o którym mowa w art. 64 ust. 10, potwierdzającego posiadanie uprawnień do nabycia tych środków ochrony roślin – chyba że sprawdziła w rejestrze, o którym mowa w art. 65a ust. 1, że ta osoba spełnia wymagania, o których mowa w art. 28a,
+3. Zgłoszenie, o którym mowa ust. 1, zawiera:
+
+- **1)** nazwę, siedzibę i adres posiadacza zezwolenia na wprowadzanie środka ochrony roślin do obrotu albo imię, nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę posiadacza pozwolenia na handel równoległy, z tym że przypadku gdy tym posiadaczem jest osoba fizyczna prowadząca działalność gospodarczą zamiast adresu i miejsca zamieszkania tej osoby adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania;
+- **2)** wskazanie nazwy handlowej środka ochrony roślin i numeru oraz daty wydania zezwolenia na wprowadzanie środka ochrony roślin do obrotu lub pozwolenia na handel równoległy;
+- **3)** uzasadnienie przedłużenia okresu ważności zezwolenia na wprowadzanie środka ochrony roślin do obrotu lub pozwolenia na handel równoległy;
+- **4)** datę i podpis wnioskodawcy.
+
+4. Minister właściwy do spraw rolnictwa potwierdza na piśmie utrwalonym postaci papierowej lub postaci elektronicznej okres ważności zezwolenia na wprowadzanie środka ochrony roślin do obrotu lub pozwolenia na handel równoległy i udostępnia na stronie internetowej administrowanej przez urząd obsługujący ministra właściwego do spraw rolnictwa informacje o okresie ważności zezwolenia na wprowadzanie środka ochrony roślin do obrotu lub pozwolenia na handel równoległy i o okresie na zużycie istniejących zapasów środka ochrony roślin.”; „1) podmiotu upoważnionego na podstawie art. 10 lub organu, o którym mowa art. 75 ust. 1 lub 2 rozporządzenia nr 1107/2009, o opracowanie oceny, o której mowa art. 11 ust. 2 lub art. 36 ust. 1 rozporządzenia nr 1107/2009, lub uwag, które należy uwzględnić tej ocenie, zwanych dalej „oceną lub uwagami”,”;
+
+- **3)** art. 10:
+    - **a)** ust. 3 pkt 1 lit. a po wyrazach „lub uwag” dodaje się wyrazy „ , a przypadku braku doświadczenia, że będą nadzorowane przez osoby posiadające odpowiednie kwalifikacje zakresie opracowywanej oceny lub uwag”,
+    - **b)** ust. 5 pkt 2 po wyrazach „lub uwag” dodaje się wyrazy „ , a przypadku osób nieposiadających doświadczenia kopie dokumentów potwierdzających ich wykształcenie”;
+
+- **4)** art. 13:
+    - **a)** uchyla się ust. 12,
+    - **b)** ust. 14 otrzymuje brzmienie: „14. Zwrot kosztów podróży i zakwaterowania członków Komisji do spraw Środków Ochrony Roślin jest pokrywany z budżetu państwa z części, której dysponentem jest minister właściwy do spraw rolnictwa.”;
+
+- **5)** art. 23 otrzymuje brzmienie: „Art. 23. Środek ochrony roślin, który został wprowadzony do obrotu przed upływem okresu ważności zezwolenia na jego wprowadzanie do obrotu lub pozwolenia na handel równoległy, może pozostawać obrocie i być unieszkodliwiany, składowany i stosowany do dnia upływu okresu ważności tego zezwolenia na wprowadzanie do obrotu albo tego pozwolenia na handel równoległy, chyba że zezwoleniu na wprowadzanie środka ochrony roślin do obrotu lub pozwoleniu na handel równoległy, lub decyzji sprawie cofnięcia tego zezwolenia na wprowadzanie do obrotu lub tego pozwolenia na handel równoległy określono inaczej.”;
+- **6)** art. 25:
+    - **a)** ust. 3: po pkt 4 dodaje się pkt 4a i 4b brzmieniu: „4a) potwierdzać sprzedaż środków ochrony roślin przeznaczonych do fumigacji zawierających substancje czynne, które mogą stwarzać szczególne zagrożenie dla zdrowia ludzi, zwierząt lub dla środowiska, ostatecznym nabywcom środków ochrony roślin, fakturą rozumieniu przepisów ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2025 r. poz. 775, 894, 896, 1203 i 1541), zwaną dalej „fakturą”, zawierającą imię, nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę ostatecznego nabywcy tych środków ochrony roślin i dane o ilości sprzedanych temu nabywcy środków ochrony roślin;
+
+- **4b)** prowadzić ewidencję ostatecznych nabywców środków ochrony roślin, o których mowa pkt 4a, zawierającą następujące informacje:
+    - **a)** dane ostatecznego nabywcy środków ochrony roślin obejmujące: imię i nazwisko oraz numer zaświadczenia o ukończeniu szkolenia zakresie stosowania środków ochrony roślin metodą fumigacji albo numer zaświadczenia, o którym mowa art. 64 ust. 10, potwierdzającego posiadanie uprawnień do nabycia tych środków ochrony roślin i nazwę podmiotu albo wojewódzkiego inspektora, który wydał to zaświadczenie jeżeli ostatecznym nabywcą środków ochrony roślin jest osoba fizyczna, nazwę, siedzibę i adres oraz imię i nazwisko osoby dokonującej ich nabycia i numer zaświadczenia o ukończeniu szkolenia zakresie stosowania środków ochrony roślin metodą fumigacji albo numer zaświadczenia, o którym mowa art. 64 ust. 10, potwierdzającego posiadanie uprawnień do nabycia tych środków ochrony roślin i nazwę podmiotu albo wojewódzkiego inspektora, który wydał to zaświadczenie jeżeli ostatecznym nabywcą środków ochrony roślin nie jest osoba fizyczna,
+    - **b)** nazwę handlową zbytych środków ochrony roślin i ich ilość,
+    - **c)** datę zbycia środków ochrony roślin;”, „5) przypadku składania oferty zbycia środka ochrony roślin ostatecznemu nabywcy ramach umowy zawartej na odległość rozumieniu art. 2 pkt 1 ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2024 r. poz. 1796 oraz z 2025 r. poz. 1172), zwanej dalej „umową na odległość”:
+    - **a)** umieścić ofercie zbycia tego środka ochrony roślin: numer wpisu do rejestru, o którym mowa ust. 1, i kopię zaświadczenia o dokonaniu wpisu do tego rejestru, informację, że nabycia środków ochrony roślin mogą dokonać jedynie osoby pełnoletnie, które spełniają warunki wymagane od osób nabywających środki ochrony roślin określone art. 28,
+    - **b)** wymagać podania przez osobę dokonującą nabycia na terytorium Rzeczypospolitej Polskiej środków ochrony roślin przeznaczonych dla użytkowników profesjonalnych: imienia i nazwiska, numeru zaświadczenia o ukończeniu szkolenia zakresie środków ochrony roślin albo numeru zaświadczenia, o którym mowa art. 64 ust. 10, potwierdzającego posiadanie uprawnień do nabycia tych środków ochrony roślin, nazwy podmiotu, który wydał zaświadczenie o ukończeniu szkolenia zakresie środków ochrony roślin, albo wojewódzkiego inspektora, który wydał zaświadczenie, o którym mowa art. 64 ust. 10, terminu ważności zaświadczenia o ukończeniu szkolenia zakresie środków ochrony roślin albo zaświadczenia, o którym mowa art. 64 ust. 10.”,
+    - **b)** po ust. 4 dodaje się ust. 4a i 4b brzmieniu: „4a. Ewidencja, o której mowa ust. 3 pkt 4b, jest prowadzona celu realizacji przez Państwową Inspekcję Ochrony Roślin i Nasiennictwa jej ustawowych zadań, a informacji niej zawartych nie wykorzystuje się innym celu.
+
+4b. Informacje zawarte ewidencji, o której mowa ust. 3 pkt 4b, przechowuje się przez 5 lat.”,
+
+- **c)** dodaje się ust. 7 brzmieniu: „7. Minister właściwy do spraw rolnictwa określi, drodze rozporządzenia, wykaz substancji czynnych zawartych środkach ochrony roślin przeznaczonych do fumigacji, które mogą stwarzać szczególne zagrożenie dla zdrowia ludzi, zwierząt lub dla środowiska, odniesieniu do których jest wymagane potwierdzenie fakturą ich sprzedaży ostatecznym nabywcom środków ochrony roślin i prowadzenie ewidencji ostatecznych nabywców tych środków ochrony roślin, mając na względzie ograniczenie ryzyka dla zdrowia ludzi, zwierząt lub dla środowiska wynikającego ze stosowania do fumigacji środków ochrony roślin zawierających te substancje czynne.”;
+- **7)** art. 28:
+    - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „Środki ochrony roślin przeznaczone dla użytkowników profesjonalnych inne niż środki ochrony roślin, o których mowa art. 25 ust. 3 pkt 4a, mogą być zbywane osobom, które spełniają następujące warunki:”,
+    - **b)** pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 brzmieniu: „5) posiadają pisemne upoważnienie do nabycia środków ochrony roślin udzielone przez osobę spełniającą warunki określone pkt 1, 2, 3 lub 4.”;
+
+- **8)** po art. 28 dodaje się art. 28a i art. 28b brzmieniu: „Art. 28a. Środki ochrony roślin, o których mowa art. 25 ust. 3 pkt 4a, mogą być zbywane osobom, które ukończyły szkolenie zakresie stosowania środków ochrony roślin metodą fumigacji Rzeczypospolitej Polskiej potwierdzone zaświadczeniem o ukończeniu tego szkolenia. Wymagania tego nie stosuje się wobec osób, o których mowa art. 64 ust. 7, przez okres, o którym mowa art. 64 ust. 8. nych ostatecznemu nabywcy, z wyłączeniem zbycia tych środków ochrony roślin ramach umowy na odległość, gdy to zbycie dotyczy:
+- **1)** środków ochrony roślin, o których mowa art. 25 ust. 3 pkt 4a, jest obowiązana do żądania okazania przez osobę dokonującą nabycia tych środków ochrony roślin:
+    - **a)** zaświadczenia o ukończeniu szkolenia zakresie stosowania środków ochrony roślin metodą fumigacji albo zaświadczenia, o którym mowa art. 64 ust. 10, potwierdzającego posiadanie uprawnień do nabycia tych środków ochrony roślin chyba że sprawdziła rejestrze, o którym mowa art. 65a ust. 1, że ta osoba spełnia wymagania, o których mowa art. 28a,
     - **b)** dokumentu potwierdzającego tożsamość tej osoby;
 
-- **2)** środków ochrony roślin innych niż środki ochrony roślin, o których mowa w art. 25 ust. 3 pkt 4a, może żądać w celu potwierdzenia, że osoba dokonująca nabycia tych środków ochrony roślin posiada uprawnienia do ich nabycia, okazania przez tę osobę:
-    - **a)** zaświadczenia o ukończeniu szkolenia w zakresie środków ochrony roślin albo zaświadczenia, o którym mowa w art. 64 ust. 10, potwierdzającego posiadanie uprawnień do nabycia tych środków ochrony roślin,
+- **2)** środków ochrony roślin innych niż środki ochrony roślin, o których mowa art. 25 ust. 3 pkt 4a, może żądać celu potwierdzenia, że osoba dokonująca nabycia tych środków ochrony roślin posiada uprawnienia do ich nabycia, okazania przez tę osobę:
+    - **a)** zaświadczenia o ukończeniu szkolenia zakresie środków ochrony roślin albo zaświadczenia, o którym mowa art. 64 ust. 10, potwierdzającego posiadanie uprawnień do nabycia tych środków ochrony roślin,
     - **b)** dokumentu potwierdzającego tożsamość tej osoby,
-    - **c)** upoważnienia, o którym mowa w art. 28 pkt 5, i zaświadczenia o ukończeniu szkolenia w zakresie środków ochrony roślin albo zaświadczenia, o którym mowa w art. 64 ust. 10, potwierdzającego posiadanie uprawnień do nabycia tych środków ochrony roślin wydanego osobie, która udzieliła tego upoważnienia, albo kopii tych zaświadczeń.
+    - **c)** upoważnienia, o którym mowa art. 28 pkt 5, i zaświadczenia o ukończeniu szkolenia zakresie środków ochrony roślin albo zaświadczenia, o którym mowa art. 64 ust. 10, potwierdzającego posiadanie uprawnień do nabycia tych środków ochrony roślin wydanego osobie, która udzieliła tego upoważnienia, albo kopii tych zaświadczeń.
 
 2. Zabrania się zbywania środków ochrony roślin przeznaczonych dla użytkowników profesjonalnych osobie, która:
 
-- **1)** nie posiada ważnego zaświadczenia o ukończeniu szkolenia w zakresie środków ochrony roślin, zaświadczenia, o którym mowa w art. 64 ust. 10, albo upoważnienia, o którym mowa w art. 28 pkt 5, potwierdzającego posiadanie uprawnień do nabycia tych środków ochrony roślin lub
-- **2)** odmawia okazania zaświadczenia o ukończeniu szkolenia w zakresie środków ochrony roślin, zaświadczenia, o którym mowa w art. 64 ust. 10, albo upoważnienia, o którym mowa w art. 28 pkt 5, potwierdzającego posiadanie uprawnień do nabycia tych środków ochrony roślin, lub
+- **1)** nie posiada ważnego zaświadczenia o ukończeniu szkolenia zakresie środków ochrony roślin, zaświadczenia, o którym mowa art. 64 ust. 10, albo upoważnienia, o którym mowa art. 28 pkt 5, potwierdzającego posiadanie uprawnień do nabycia tych środków ochrony roślin lub
+- **2)** odmawia okazania zaświadczenia o ukończeniu szkolenia zakresie środków ochrony roślin, zaświadczenia, o którym mowa art. 64 ust. 10, albo upoważnienia, o którym mowa art. 28 pkt 5, potwierdzającego posiadanie uprawnień do nabycia tych środków ochrony roślin, lub
 - **3)** odmawia okazania dokumentu potwierdzającego jej tożsamość;
-- **4)** nie przekazuje informacji, o których mowa w art. 25 ust. 3 pkt 5 lit. b, lub przekazuje te informacje niezgodnie ze stanem faktycznym – w przypadku osoby dokonującej nabycia na terytorium Rzeczypospolitej Polskiej środków ochrony roślin przeznaczonych dla użytkowników profesjonalnych w ramach umowy na odległość.
+- **4)** nie przekazuje informacji, o których mowa art. 25 ust. 3 pkt 5 lit. b, lub przekazuje te informacje niezgodnie ze stanem faktycznym przypadku osoby dokonującej nabycia na terytorium Rzeczypospolitej Polskiej środków ochrony roślin przeznaczonych dla użytkowników profesjonalnych ramach umowy na odległość.
 
 3. Przepisu ust. 2 nie stosuje się do zbywania środków ochrony roślin podmiotom niebędącym nabywcami ostatecznymi tych środków ochrony roślin.”;
 
-- **9)** w art. 31:
-    - **a)** w pkt 1 lit. c otrzymuje brzmienie: „c) w pomieszczeniu, w którym jest prowadzona sprzedaż: – żywności, chyba że w przypadku środka ochrony roślin przeznaczonego dla użytkownika nieprofesjonalnego środek ten jest przechowywany pod zamknięciem w sposób zapewniający brak jego kontaktu z żywnością, – pasz, chyba że środek ten jest przechowywany pod zamknięciem w sposób zapewniający brak jego kontaktu z paszą,”,
-    - **b)** w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 i 4 w brzmieniu: „3) zbywania środka ochrony roślin, o którym mowa w art. 25 ust. 3 pkt 4a, i składania oferty zbycia takiego środka w ramach umowy na odległość;
+- **9)** art. 31:
+    - **a)** pkt 1 lit. c otrzymuje brzmienie: „c) pomieszczeniu, którym jest prowadzona sprzedaż: żywności, chyba że przypadku środka ochrony roślin przeznaczonego dla użytkownika nieprofesjonalnego środek ten jest przechowywany pod zamknięciem sposób zapewniający brak jego kontaktu z żywnością, pasz, chyba że środek ten jest przechowywany pod zamknięciem sposób zapewniający brak jego kontaktu z paszą,”,
+    - **b)** pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 i 4 brzmieniu: „3) zbywania środka ochrony roślin, o którym mowa art. 25 ust. 3 pkt 4a, i składania oferty zbycia takiego środka ramach umowy na odległość;
 
-- **4)** doręczania zbytego środka ochrony roślin przeznaczonego dla użytkowników profesjonalnych do skrzynek pocztowych, automatów do pocztowej obsługi klientów i pomieszczeń, w których jest prowadzona sprzedaż żywności lub pasz, także w przypadku gdy środek ten jest doręczany przez podmiot trzeci.”;
-- **10)** po art. 31 dodaje się art. 31a w brzmieniu: „Art. 31a. Przepisu art. 31 pkt 3 nie stosuje się do zbywania środka ochrony roślin i składania oferty zbycia środka ochrony roślin podmiotowi prowadzącemu działalność gospodarczą w zakresie:
+- **4)** doręczania zbytego środka ochrony roślin przeznaczonego dla użytkowników profesjonalnych do skrzynek pocztowych, automatów do pocztowej obsługi klientów i pomieszczeń, których jest prowadzona sprzedaż żywności lub pasz, także przypadku gdy środek ten jest doręczany przez podmiot trzeci.”; „Art. 31a. Przepisu art. 31 pkt 3 nie stosuje się do zbywania środka ochrony roślin i składania oferty zbycia środka ochrony roślin podmiotowi prowadzącemu działalność gospodarczą zakresie:
 - **1)** wprowadzania środków ochrony roślin do obrotu lub ich konfekcjonowania;
 - **2)** usługowego wykonywania zabiegów z zastosowaniem środków ochrony roślin metodą fumigacji.”;
-- **11)** w art. 35:
+- **11)** art. 35:
     - **a)** uchyla się ust. 2,
-    - **b)** w ust. 4 wyrazy „rozporządzenia nr 547/2011” zastępuje się wyrazami „rozporządzenia Komisji (UE) nr 547/2011 z dnia 8 czerwca 2011 r. w sprawie wykonania rozporządzenia (WE) nr 1107/2009 Parlamentu Europejskiego i Rady w odniesieniu do wymogów w zakresie etykietowania środków ochrony roślin (Dz. Urz. UE L 155 z 11.06.2011, str. 176), zwanego dalej „rozporządzeniem nr 547/2011” ”;
+    - **b)** ust. 4 wyrazy „rozporządzenia nr 547/2011” zastępuje się wyrazami „rozporządzenia Komisji (UE) nr 547/2011 z dnia 8 czerwca 2011 r. sprawie wykonania rozporządzenia (WE) nr 1107/2009 Parlamentu Europejskiego i Rady odniesieniu do wymogów zakresie etykietowania środków ochrony roślin (Dz. Urz. UE L 155 z 11.06.2011, str. 176), zwanego dalej „rozporządzeniem nr 547/2011” ”;
 
-- **12)** w art. 36 w ust. 4 we wprowadzeniu do wyliczenia skreśla się wyrazy „w formie oprysku lub fumigacji, a także wykorzystywania do zaprawiania nasion,”;
-- **13)** w art. 38 w ust. 2 w pkt 1 po wyrazie „chwastobójczych” dodaje się wyrazy „ , z wyłączeniem środków ochrony roślin zwalczających rośliny pasożytnicze”;
-- **14)** w art. 41 wprowadzenie do wyliczenia otrzymuje brzmienie: „Zabieg z zastosowaniem przeznaczonych dla użytkowników profesjonalnych środków ochrony roślin innych niż środki ochrony roślin, o których mowa w art. 41a ust. 1, może być wykonywany przez osoby, które:”;
-- **15)** po art. 41 dodaje się art. 41a w brzmieniu: „Art. 41a. 1. Zabieg z zastosowaniem środków ochrony roślin:
-- **1)** o których mowa w art. 25 ust. 3 pkt 4a, może być wykonywany przez osoby, które ukończyły szkolenie w zakresie stosowania środków ochrony roślin metodą fumigacji w Rzeczypospolitej Polskiej, potwierdzone zaświadczeniem o ukończeniu tego szkolenia, z tym że wymagania tego nie stosuje się wobec osób, o których mowa w art. 64 ust. 7, przez okres, o którym mowa w art. 64 ust. 8;
+- **12)** art. 36 ust. 4 we wprowadzeniu do wyliczenia skreśla się wyrazy „w formie oprysku lub fumigacji, a także wykorzystywania do zaprawiania nasion,”;
+- **13)** art. 38 ust. 2 pkt 1 po wyrazie „chwastobójczych” dodaje się wyrazy „ , z wyłączeniem środków ochrony roślin zwalczających rośliny pasożytnicze”;
+- **14)** art. 41 wprowadzenie do wyliczenia otrzymuje brzmienie: „Zabieg z zastosowaniem przeznaczonych dla użytkowników profesjonalnych środków ochrony roślin innych niż środki ochrony roślin, o których mowa art. 41a ust. 1, może być wykonywany przez osoby, które:”;
+- **15)** po art. 41 dodaje się art. 41a brzmieniu: „Art. 41a. 1. Zabieg z zastosowaniem środków ochrony roślin:
+- **1)** o których mowa art. 25 ust. 3 pkt 4a, może być wykonywany przez osoby, które ukończyły szkolenie zakresie stosowania środków ochrony roślin metodą fumigacji Rzeczypospolitej Polskiej, potwierdzone zaświadczeniem o ukończeniu tego szkolenia, z tym że wymagania tego nie stosuje się wobec osób, o których mowa art. 64 ust. 7, przez okres, o którym mowa art. 64 ust. 8;
 - **2)** przy użyciu sprzętu agrolotniczego może być wykonywany przez osoby, które:
-    - **a)** ukończyły szkolenie w zakresie stosowania środków ochrony roślin przy użyciu sprzętu agrolotniczego w Rzeczypospolitej Polskiej, potwierdzone zaświadczeniem o ukończeniu tego szkolenia, z tym że wymagania tego nie stosuje się wobec osób, o których mowa w art. 64 ust. 4, przez okres, o którym mowa w art. 64 ust. 5, i osób, o których mowa w art. 64 ust. 7, przez okres, o którym mowa w art. 64 ust. 8, lub
-    - **b)** ukończyły szkolenie wymagane od użytkowników profesjonalnych stosujących środki ochrony roślin przy użyciu sprzętu agrolotniczego w innym państwie członkowskim Unii Europejskiej lub w państwie będącym stroną umowy o Europejskim Obszarze Gospodarczym, na podstawie przepisów obowiązujących w tym państwie, nie wcześniej niż przed upływem 5 lat przed zastosowaniem tych środków, potwierdzone dokumentem o ukończeniu tego szkolenia lub przedstawiły inny dokument wydany na podstawie przepisów obowiązujących w tym państwie potwierdzający uzyskanie uprawnień do wykonywania zabiegów z zastosowaniem środków ochrony roślin przy użyciu sprzętu agrolotniczego;
+    - **a)** ukończyły szkolenie zakresie stosowania środków ochrony roślin przy użyciu sprzętu agrolotniczego Rzeczypospolitej Polskiej, potwierdzone zaświadczeniem o ukończeniu tego szkolenia, z tym że wymagania tego nie stosuje się wobec osób, o których mowa art. 64 ust. 4, przez okres, o którym mowa art. 64 ust. 5, i osób, o których mowa art. 64 ust. 7, przez okres, o którym mowa art. 64 ust. 8, lub
+    - **b)** ukończyły szkolenie wymagane od użytkowników profesjonalnych stosujących środki ochrony roślin przy użyciu sprzętu agrolotniczego innym państwie członkowskim Unii Europejskiej lub państwie będącym stroną umowy o Europejskim Obszarze Gospodarczym, na podstawie przepisów obowiązujących tym państwie, nie wcześniej niż przed upływem 5 lat przed zastosowaniem tych środków, potwierdzone dokumentem o ukończeniu tego szkolenia lub przedstawiły inny dokument wydany na podstawie przepisów obowiązujących tym państwie potwierdzający uzyskanie uprawnień do wykonywania zabiegów z zastosowaniem środków ochrony roślin przy użyciu sprzętu agrolotniczego;
 
-- **3)** przy użyciu sprzętu montowanego na pojazdach szynowych lub innego sprzętu stosowanego w kolejnictwie może być wykonywany przez osoby, które:
-    - **a)** ukończyły szkolenie w zakresie stosowania środków ochrony roślin przy użyciu sprzętu montowanego na pojazdach szynowych lub innego sprzętu stosowanego w kolejnictwie w Rzeczypospolitej Polskiej, potwierdzone zaświadczeniem o ukończeniu tego szkolenia, z tym że wymagania tego nie stosuje się wobec osób, o których mowa w art. 64 ust. 4, przez okres, o którym mowa w art. 64 ust. 5, i osób, o których mowa w art. 64 ust. 7, przez okres, o którym mowa w art. 64 ust. 8, lub
-    - **b)** ukończyły szkolenie wymagane od użytkowników profesjonalnych stosujących środki ochrony roślin przy użyciu sprzętu montowanego na pojazdach szynowych lub innego sprzętu stosowanego w kolejnictwie w innym państwie członkowskim Unii Europejskiej lub w państwie będącym stroną umowy o Europejskim Obszarze Gospodarczym, na podstawie przepisów obowiązujących w tym państwie, nie wcześniej niż przed upływem 5 lat przed zastosowaniem tych środków, potwierdzone dokumentem o ukończeniu tego szkolenia lub przedstawiły inny dokument wydany na podstawie przepisów obowiązujących w tym państwie potwierdzający uzyskanie uprawnień do wykonywania zabiegów z zastosowaniem środków ochrony roślin przy użyciu sprzętu montowanego na pojazdach szynowych lub innego sprzętu stosowanego w kolejnictwie.”;
+- **3)** przy użyciu sprzętu montowanego na pojazdach szynowych lub innego sprzętu stosowanego kolejnictwie może być wykonywany przez osoby, które: „Art. 46. 1. Jeżeli wojewódzki inspektor toku kontroli stosowania środków ochrony roślin stwierdzi na podstawie wyników badań laboratoryjnych próbek żywności lub paszy, że ta żywność lub ta pasza zawierają pozostałości środków ochrony roślin ilości przekraczającej najwyższy dopuszczalny poziom pozostałości rozumieniu art. 3 ust. 2 lit. d rozporządzenia (WE) nr 396/2005 Parlamentu Europejskiego i Rady z dnia 23 lutego 2005 r. sprawie najwyższych dopuszczalnych poziomów pozostałości pestycydów żywności i paszy pochodzenia roślinnego i zwierzęcego oraz na ich powierzchni, zmieniającego dyrektywę Rady 91/414/EWG, zwany dalej „najwyższym dopuszczalnym poziomem pozostałości”:
+    - **a)** ukończyły szkolenie zakresie stosowania środków ochrony roślin przy użyciu sprzętu montowanego na pojazdach szynowych lub innego sprzętu stosowanego kolejnictwie Rzeczypospolitej Polskiej, potwierdzone zaświadczeniem o ukończeniu tego szkolenia, z tym że wymagania tego nie stosuje się wobec osób, o których mowa art. 64 ust. 4, przez okres, o którym mowa art. 64 ust. 5, i osób, o których mowa art. 64 ust. 7, przez okres, o którym mowa art. 64 ust. 8, lub
+    - **b)** ukończyły szkolenie wymagane od użytkowników profesjonalnych stosujących środki ochrony roślin przy użyciu sprzętu montowanego na pojazdach szynowych lub innego sprzętu stosowanego kolejnictwie innym państwie członkowskim Unii Europejskiej lub państwie będącym stroną umowy o Europejskim Obszarze Gospodarczym, na podstawie przepisów obowiązujących tym państwie, nie wcześniej niż przed upływem 5 lat przed zastosowaniem tych środków, potwierdzone dokumentem o ukończeniu tego szkolenia lub przedstawiły inny dokument wydany na podstawie przepisów obowiązujących tym państwie potwierdzający uzyskanie uprawnień do wykonywania zabiegów z zastosowaniem środków ochrony roślin przy użyciu sprzętu montowanego na pojazdach szynowych lub innego sprzętu stosowanego kolejnictwie.”;
 
-- **16)** art. 46 otrzymuje brzmienie: „Art. 46. 1. Jeżeli wojewódzki inspektor w toku kontroli stosowania środków ochrony roślin stwierdzi na podstawie wyników badań laboratoryjnych próbek żywności lub paszy, że ta żywność lub ta pasza zawierają pozostałości środków ochrony roślin w ilości przekraczającej najwyższy dopuszczalny poziom pozostałości w rozumieniu art. 3 ust. 2 lit. d rozporządzenia (WE) nr 396/2005 Parlamentu Europejskiego i Rady z dnia 23 lutego 2005 r. w sprawie najwyższych dopuszczalnych poziomów pozostałości pestycydów w żywności i paszy pochodzenia roślinnego i zwierzęcego oraz na ich powierzchni, zmieniającego dyrektywę Rady 91/414/EWG, zwany dalej „najwyższym dopuszczalnym poziomem pozostałości”:
-- **1)** zakazuje, w drodze decyzji, przeznaczania tej żywności lub tej paszy odpowiednio do spożycia przez ludzi lub do karmienia zwierząt i wprowadzania tej żywności lub tej paszy do obrotu lub
-- **2)** stosuje procedurę powiadamiania zgodnie z systemem wczesnego ostrzegania o niebezpiecznej żywności i paszach (Rapid Alert System for Food and Feed) w rozumieniu art. 3 ust. 3 pkt 42 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2023 r. poz. 1448 oraz z 2025 r. poz. 1424) – jeżeli ta żywność lub ta pasza zostały wprowadzone do obrotu.
+- **1)** zakazuje, drodze decyzji, przeznaczania tej żywności lub tej paszy odpowiednio do spożycia przez ludzi lub do karmienia zwierząt i wprowadzania tej żywności lub tej paszy do obrotu lub
+- **2)** stosuje procedurę powiadamiania zgodnie z systemem wczesnego ostrzegania o niebezpiecznej żywności i paszach (Rapid Alert System for Food and Feed) rozumieniu art. 3 ust. 3 pkt 42 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2023 r. poz. 1448 oraz z 2025 r. poz. 1424) jeżeli ta żywność lub ta pasza zostały wprowadzone do obrotu.
 
-2. Wojewódzki inspektor w decyzji, o której mowa w ust. 1 pkt 1:
+2. Wojewódzki inspektor decyzji, o której mowa ust. 1 pkt 1:
 
 - **1)** określa sposób i termin unieszkodliwienia żywności lub paszy albo
-- **2)** nakazuje poddanie żywności lub paszy ponownym badaniom laboratoryjnym na obecność pozostałości środków ochrony roślin w określonym terminie – jeżeli posiadacz tej żywności lub paszy złoży wniosek o ponowne przeprowadzenie tych badań w terminie wskazanym przez tego posiadacza.
+- **2)** nakazuje poddanie żywności lub paszy ponownym badaniom laboratoryjnym na obecność pozostałości środków ochrony roślin określonym terminie jeżeli posiadacz tej żywności lub paszy złoży wniosek o ponowne przeprowadzenie tych badań terminie wskazanym przez tego posiadacza.
 
-3. Jeżeli w wyniku badań laboratoryjnych, o których mowa w ust. 2 pkt 2, zostanie stwierdzone, że żywność lub pasza poddane tym badaniom:
+3. Jeżeli wyniku badań laboratoryjnych, o których mowa ust. 2 pkt 2, zostanie stwierdzone, że żywność lub pasza poddane tym badaniom:
 
-- **1)** nie zawierają pozostałości środków ochrony roślin w ilości przekraczającej najwyższy dopuszczalny poziom pozostałości – wojewódzki inspektor uchyla decyzję, o której mowa w ust. 1 pkt 1;
-- **2)** zawierają pozostałości środków ochrony roślin w ilości przekraczającej najwyższy dopuszczalny poziom pozostałości – wojewódzki inspektor, w drodze decyzji, określa sposób i termin unieszkodliwienia tej żywności lub tej paszy.
+- **1)** nie zawierają pozostałości środków ochrony roślin ilości przekraczającej najwyższy dopuszczalny poziom pozostałości wojewódzki inspektor uchyla decyzję, o której mowa ust. 1 pkt 1;
+- **2)** zawierają pozostałości środków ochrony roślin ilości przekraczającej najwyższy dopuszczalny poziom pozostałości wojewódzki inspektor, drodze decyzji, określa sposób i termin unieszkodliwienia tej żywności lub tej paszy.
 
-4. Unieszkodliwienie żywności lub paszy, o którym mowa w ust. 2 pkt 1 i ust. 3 pkt 2, i przeprowadzenie badań laboratoryjnych, o których mowa w ust. 2 pkt 2, odbywa się na koszt posiadacza żywności lub paszy.
+4. Unieszkodliwienie żywności lub paszy, o którym mowa ust. 2 pkt 1 i ust. 3 pkt 2, i przeprowadzenie badań laboratoryjnych, o których mowa ust. 2 pkt 2, odbywa się na koszt posiadacza żywności lub paszy.
 
-5. Decyzje, o których mowa w ust. 1 pkt 1 i ust. 3 pkt 2, podlegają natychmiastowemu wykonaniu.”;
+5. Decyzje, o których mowa ust. 1 pkt 1 i ust. 3 pkt 2, podlegają natychmiastowemu wykonaniu.”;
 
-- **17)** w art. 55:
-    - **a)** w ust. 2 liczbę „30” zastępuje się liczbą „14”,
-    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Podmiot certyfikujący przyjmuje zgłoszenie, o którym mowa w ust. 2, również po upływie terminu, o którym mowa w tym przepisie, jeżeli nie wpłynie to na możliwość sprawdzenia spełnienia przez producenta roślin stosującego integrowaną produkcję roślin wymagań, o których mowa w art. 57 ust. 2, i przeprowadzenie kontroli, o której mowa w art. 56 ust. 1, jednak nie później niż w dniu siewu albo sadzenia roślin, a w przypadku roślin wieloletnich – rozpoczęcia wegetacji roślin.”,
-    - **c)** w ust. 3 po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) numer REGON, o ile wnioskodawcy taki numer został nadany;”,
-    - **d)** w ust. 4 w pkt 2 skreśla się wyrazy „lub kopię zaświadczenia”,
-    - **e)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Wezwanie producenta roślin do usunięcia braków w zgłoszeniu, o którym mowa w ust. 2, wstrzymuje bieg terminu, o którym mowa w ust. 9, do czasu usunięcia tych braków albo upływu terminu, o którym mowa w ust. 5.”,
-    - **f)** w ust. 7: – pkt 3 otrzymuje brzmienie: „3) numer PESEL, o ile wnioskodawcy taki numer został nadany;”, – po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) numer REGON, o ile wnioskodawcy taki numer został nadany;”,
-    - **g)** w ust. 9 liczbę „21” zastępuje się liczbą „30”;
+- **17)** art. 55:
+    - **a)** ust. 2 liczbę „30” zastępuje się liczbą „14”,
+    - **b)** po ust. 2 dodaje się ust. 2a brzmieniu: „2a. Podmiot certyfikujący przyjmuje zgłoszenie, o którym mowa ust. 2, również po upływie terminu, o którym mowa tym przepisie, jeżeli nie wpłynie to na możliwość sprawdzenia spełnienia przez producenta roślin stosującego integrowaną produkcję roślin wymagań, o których mowa art. 57 ust. 2, i przeprowadzenie kontroli, o której mowa art. 56 ust. 1, jednak nie później niż dniu siewu albo sadzenia roślin, a przypadku roślin wieloletnich rozpoczęcia wegetacji roślin.”,
+    - **c)** ust. 3 po pkt 3 dodaje się pkt 3a brzmieniu: „3a) numer REGON, o ile wnioskodawcy taki numer został nadany;”,
+    - **d)** ust. 4 pkt 2 skreśla się wyrazy „lub kopię zaświadczenia”,
+    - **e)** po ust. 5 dodaje się ust. 5a brzmieniu: „5a. Wezwanie producenta roślin do usunięcia braków zgłoszeniu, o którym mowa ust. 2, wstrzymuje bieg terminu, o którym mowa ust. 9, do czasu usunięcia tych braków albo upływu terminu, o którym mowa ust. 5.”, pkt 3 otrzymuje brzmienie: „3) numer PESEL, o ile wnioskodawcy taki numer został nadany;”, po pkt 3 dodaje się pkt 3a brzmieniu: „3a) numer REGON, o ile wnioskodawcy taki numer został nadany;”,
+    - **g)** ust. 9 liczbę „21” zastępuje się liczbą „30”;
 
-- **18)** w art. 56 dodaje się ust. 15–18 w brzmieniu: „15. W przypadku zmiany przez producenta roślin podmiotu certyfikującego, podmiot certyfikujący, który dotychczas prowadził kontrolę tego producenta roślin, przekazuje podmiotowi certyfikującemu, który będzie prowadził kontrolę tego producenta roślin, dotyczące tego producenta roślin:
+- **18)** art. 56 dodaje się ust. 15–18 brzmieniu: „15. W przypadku zmiany przez producenta roślin podmiotu certyfikującego, podmiot certyfikujący, który dotychczas prowadził kontrolę tego producenta roślin, przekazuje podmiotowi certyfikującemu, który będzie prowadził kontrolę tego producenta roślin, dotyczące tego producenta roślin:
 - **1)** informacje:
-    - **a)** zawarte w: – rejestrze, o którym mowa w art. 55 ust. 6, – wykazie, o którym mowa w art. 60 ust. 1 pkt 2a,
-    - **b)** o których mowa w art. 55 ust. 4 pkt 1;
+    - **a)** zawarte w: rejestrze, o którym mowa art. 55 ust. 6, wykazie, o którym mowa art. 60 ust. 1 pkt 2a,
+    - **b)** o których mowa art. 55 ust. 4 pkt 1;
 
-- **2)** kopie utrwalone w postaci papierowej lub w postaci elektronicznej:
-    - **a)** zgłoszenia, o którym mowa w art. 55 ust. 2,
-    - **b)** zaświadczenia albo dokumentów, o których mowa w art. 55 ust. 4 pkt 2,
-    - **c)** zaświadczenia, o którym mowa w art. 55 ust. 9;
+- **2)** kopie utrwalone postaci papierowej lub postaci elektronicznej:
+    - **a)** zgłoszenia, o którym mowa art. 55 ust. 2,
+    - **b)** zaświadczenia albo dokumentów, o których mowa art. 55 ust. 4 pkt 2,
+    - **c)** zaświadczenia, o którym mowa art. 55 ust. 9;
 
-- **3)** informację, czy producent roślin nie został wykreślony z rejestru, o którym mowa w art. 55 ust. 6;
-- **4)** protokoły czynności kontrolnych, o których mowa w ust. 8, i inne dokumenty dotyczące tych czynności.
+- **3)** informację, czy producent roślin nie został wykreślony z rejestru, o którym mowa art. 55 ust. 6;
+- **4)** protokoły czynności kontrolnych, o których mowa ust. 8, i inne dokumenty dotyczące tych czynności.
 
-16. Przekazanie informacji, kopii, protokołów i dokumentów określonych w ust. 15 następuje na wniosek podmiotu certyfikującego, który będzie prowadził kontrolę producenta roślin, w terminie 14 dni od dnia złożenia tego wniosku.
+16. Przekazanie informacji, kopii, protokołów i dokumentów określonych ust. 15 następuje na wniosek podmiotu certyfikującego, który będzie prowadził kontrolę producenta roślin, terminie 14 dni od dnia złożenia tego wniosku.
 
-17. Podmiot certyfikujący, który będzie prowadził kontrolę producenta roślin, i podmiot certyfikujący, który dotychczas prowadził kontrolę tego producenta roślin, niezwłocznie aktualizują rejestr, o którym mowa w art. 55 ust. 6.
+17. Podmiot certyfikujący, który będzie prowadził kontrolę producenta roślin, i podmiot certyfikujący, który dotychczas prowadził kontrolę tego producenta roślin, niezwłocznie aktualizują rejestr, o którym mowa art. 55 ust. 6.
 
-18. Podmiot certyfikujący, który będzie prowadził kontrolę producenta roślin, przekazuje temu producentowi zaświadczenie o numerze wpisu do rejestru, o którym mowa w art. 55 ust. 6, nie później niż w terminie 21 dni od dnia wpisania tego producenta roślin do tego rejestru.”;
+18. Podmiot certyfikujący, który będzie prowadził kontrolę producenta roślin, przekazuje temu producentowi zaświadczenie o numerze wpisu do rejestru, o którym mowa art. 55 ust. 6, nie później niż terminie 21 dni od dnia wpisania tego producenta roślin do tego rejestru.”;
 
-- **19)** w art. 57 w ust. 1 skreśla się wyrazy „na wniosek producenta roślin”;
-- **20)** w art. 60 w ust. 1 pkt 1a otrzymuje brzmienie: „1a) przekazywać wojewódzkiemu inspektorowi informacje o dokonaniu wpisu producenta roślin do rejestru, o którym mowa w art. 55 ust. 6, zawierające informacje, o których mowa w art. 55 ust. 4 pkt 1, oraz dane, o których mowa w art. 55 ust. 7 pkt 1 i 4, w terminie do 10. dnia miesiąca następującego po miesiącu, w którym dokonano tego wpisu;”;
-- **21)** w art. 64:
-    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Szkolenia w zakresie stosowania środków ochrony roślin obejmują szkolenia w zakresie stosowania środków ochrony roślin:
+- **19)** art. 57 ust. 1 skreśla się wyrazy „na wniosek producenta roślin”;
+- **20)** art. 60 ust. 1 pkt 1a otrzymuje brzmienie: „1a) przekazywać wojewódzkiemu inspektorowi informacje o dokonaniu wpisu producenta roślin do rejestru, o którym mowa art. 55 ust. 6, zawierające informacje, o których mowa art. 55 ust. 4 pkt 1, oraz dane, o których mowa art. 55 ust. 7 pkt 1 i 4, terminie do 10. dnia miesiąca następującego po miesiącu, którym dokonano tego wpisu;”;
+- **21)** art. 64:
+    - **a)** po ust. 1 dodaje się ust. 1a brzmieniu: „1a. Szkolenia zakresie stosowania środków ochrony roślin obejmują szkolenia zakresie stosowania środków ochrony roślin:
 
-- **1)** przy użyciu sprzętu naziemnego, z wyłączeniem sprzętu montowanego na pojazdach szynowych i innego sprzętu stosowanego w kolejnictwie;
+- **1)** przy użyciu sprzętu naziemnego, z wyłączeniem sprzętu montowanego na pojazdach szynowych i innego sprzętu stosowanego kolejnictwie;
 - **2)** przy użyciu sprzętu agrolotniczego;
 - **3)** metodą fumigacji;
-- **4)** przy użyciu sprzętu naziemnego montowanego na pojazdach szynowych lub innego sprzętu stosowanego w kolejnictwie.”,
-    - **b)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Przepisu ust. 4 nie stosuje się do szkolenia w zakresie stosowania środków ochrony roślin metodą fumigacji.”,
-    - **c)** dodaje się ust. 10–13 w brzmieniu: „10. Potwierdzeniem uzyskania uprawnień do nabycia środków ochrony roślin na podstawie ust. 4 lub 7, lub art. 28 pkt 4 jest zaświadczenie wydawane przez wojewódzkiego inspektora właściwego ze względu na miejsce zamieszkania osoby, która uzyskała te uprawnienia, na wniosek tej osoby.
+- **4)** przy użyciu sprzętu naziemnego montowanego na pojazdach szynowych lub innego sprzętu stosowanego kolejnictwie.”, „4a. Przepisu ust. 4 nie stosuje się do szkolenia zakresie stosowania środków ochrony roślin metodą fumigacji.”,
+    - **c)** dodaje się ust. 10–13 brzmieniu: „10. Potwierdzeniem uzyskania uprawnień do nabycia środków ochrony roślin na podstawie ust. 4 lub 7, lub art. 28 pkt 4 jest zaświadczenie wydawane przez wojewódzkiego inspektora właściwego ze względu na miejsce zamieszkania osoby, która uzyskała te uprawnienia, na wniosek tej osoby.
 
-11. Do wniosku, o którym mowa w ust. 10, dołącza się dokumenty potwierdzające uzyskanie uprawnień na podstawie ust. 4 lub 7, lub art. 28 pkt 4.
+11. Do wniosku, o którym mowa ust. 10, dołącza się dokumenty potwierdzające uzyskanie uprawnień na podstawie ust. 4 lub 7, lub art. 28 pkt 4.
 
-12. Zaświadczenie, o którym mowa w ust. 10, zawiera:
+12. Zaświadczenie, o którym mowa ust. 10, zawiera:
 
 - **1)** następujące dane osobowe osoby, której zostało wydane:
     - **a)** imię i nazwisko,
-    - **b)** numer PESEL, a w przypadku osoby nieposiadającej obywatelstwa polskiego – nazwę i numer dokumentu potwierdzającego jej tożsamość;
+    - **b)** numer PESEL, a przypadku osoby nieposiadającej obywatelstwa polskiego nazwę i numer dokumentu potwierdzającego jej tożsamość;
 
 - **2)** termin ważności zaświadczenia i jego numer;
 - **3)** informację o uzyskanych uprawnieniach do nabycia środków ochrony roślin.
 
-13. Zaświadczenie, o którym mowa w ust. 10, jest ważne przez okres, przez jaki są ważne uprawnienia uzyskane na podstawie ust. 4 lub 7, lub art. 28 pkt 4, jednak nie dłużej niż przez 5 lat.”;
+13. Zaświadczenie, o którym mowa ust. 10, jest ważne przez okres, przez jaki są ważne uprawnienia uzyskane na podstawie ust. 4 lub 7, lub art. 28 pkt 4, jednak nie dłużej niż przez 5 lat.”;
 
-- **22)** po art. 65 dodaje się art. 65a w brzmieniu: „Art. 65a. 1. Główny Inspektor buduje i utrzymuje elektroniczny rejestr osób, które uzyskały zaświadczenie:
-- **1)** o ukończeniu szkolenia w zakresie:
+- **22)** po art. 65 dodaje się art. 65a brzmieniu: „Art. 65a. 1. Główny Inspektor buduje i utrzymuje elektroniczny rejestr osób, które uzyskały zaświadczenie:
+- **1)** o ukończeniu szkolenia zakresie:
     - **a)** doradztwa dotyczącego środków ochrony roślin,
     - **b)** stosowania środków ochrony roślin,
     - **c)** integrowanej produkcji roślin,
 
-- **2)** o którym mowa w art. 64 ust. 10 – i administruje tym rejestrem.
+- **2)** o którym mowa art. 64 ust. 10 i administruje tym rejestrem.
 
-2. Rejestr, o którym mowa w ust. 1, zawiera następujące dane dotyczące osoby, która uzyskała zaświadczenie wymienione w tym przepisie:
+2. Rejestr, o którym mowa ust. 1, zawiera następujące dane dotyczące osoby, która uzyskała zaświadczenie wymienione tym przepisie:
 
 - **1)** imię i nazwisko;
 - **2)** numer zaświadczenia;
 - **3)** nazwę podmiotu lub wojewódzkiego inspektora, który wydał zaświadczenie;
-- **4)** w przypadku osób, które uzyskały zaświadczenie o ukończeniu szkolenia w zakresie doradztwa dotyczącego środków ochrony roślin, w zakresie stosowania środków ochrony roślin lub w zakresie integrowanej produkcji roślin, informację o:
+- **4)** przypadku osób, które uzyskały zaświadczenie o ukończeniu szkolenia zakresie doradztwa dotyczącego środków ochrony roślin, zakresie stosowania środków ochrony roślin lub zakresie integrowanej produkcji roślin, informację o:
     - **a)** rodzaju ukończonego szkolenia,
     - **b)** terminie ważności tego zaświadczenia;
 
-- **5)** w przypadku osób, które uzyskały zaświadczenie, o którym mowa w art. 64 ust. 10, informację o:
+- **5)** przypadku osób, które uzyskały zaświadczenie, o którym mowa art. 64 ust. 10, informację o:
     - **a)** uzyskanych uprawnieniach do nabycia środków ochrony roślin,
     - **b)** terminie ważności tego zaświadczenia.
 
-3. Główny Inspektor zapewnia dostęp do rejestru, o którym mowa w ust. 1:
+3. Główny Inspektor zapewnia dostęp do rejestru, o którym mowa ust. 1:
 
-- **1)** podmiotom wpisanym do rejestru przedsiębiorców wykonujących działalność w zakresie prowadzenia szkoleń w zakresie doradztwa dotyczącego środków ochrony roślin, w zakresie stosowania środków ochrony roślin lub w zakresie integrowanej produkcji roślin, i podmiotom wpisanym do rejestru podmiotów niebędących przedsiębiorcami prowadzących szkolenia w zakresie doradztwa dotyczącego środków ochrony roślin, w zakresie stosowania środków ochrony roślin lub w zakresie integrowanej produkcji roślin – w celu umożliwienia wprowadzania do tego rejestru danych dotyczących osób, którym wydały zaświadczenie wskazane w ust. 1 pkt 1;
-- **2)** wojewódzkim inspektorom – w celu umożliwienia wprowadzania do tego rejestru danych dotyczących osób, które uzyskały zaświadczenie, o którym mowa w art. 64 ust. 10;
-- **3)** podmiotom wpisanym do rejestru przedsiębiorców wykonujących działalność w zakresie wprowadzania środków ochrony roślin do obrotu lub konfekcjonowania tych środków – w celu sprawdzenia spełnienia przez osoby nabywające środki ochrony roślin wymagań określonych w art. 28 lub art. 28a.
+- **1)** podmiotom wpisanym do rejestru przedsiębiorców wykonujących działalność zakresie prowadzenia szkoleń zakresie doradztwa dotyczącego środków ochrony roślin, zakresie stosowania środków ochrony roślin lub zakresie integrowanej produkcji roślin, i podmiotom wpisanym do rejestru podmiotów niebędących przedsiębiorcami prowadzących szkolenia zakresie doradztwa dotyczącego środków ochrony roślin, zakresie stosowania środków ochrony roślin lub zakresie integrowanej produkcji roślin celu umożliwienia wprowadzania do tego rejestru danych dotyczących osób, którym wydały zaświadczenie wskazane ust. 1 pkt 1; które uzyskały zaświadczenie, o którym mowa art. 64 ust. 10;
+- **3)** podmiotom wpisanym do rejestru przedsiębiorców wykonujących działalność zakresie wprowadzania środków ochrony roślin do obrotu lub konfekcjonowania tych środków celu sprawdzenia spełnienia przez osoby nabywające środki ochrony roślin wymagań określonych art. 28 lub art. 28a.
 
-4. Po udostępnieniu przez Głównego Inspektora rejestru, o którym mowa w ust. 1:
+4. Po udostępnieniu przez Głównego Inspektora rejestru, o którym mowa ust. 1:
 
-- **1)** podmioty, o których mowa w ust. 3 pkt 1, są obowiązane niezwłocznie wprowadzić do tego rejestru dane dotyczące osoby, której wydają zaświadczenie wskazane w ust. 1 pkt 1;
-- **2)** wojewódzki inspektor jest obowiązany niezwłocznie wprowadzić do tego rejestru dane dotyczące osoby, której wydaje zaświadczenie, o którym mowa w art. 64 ust. 10.
+- **1)** podmioty, o których mowa ust. 3 pkt 1, są obowiązane niezwłocznie wprowadzić do tego rejestru dane dotyczące osoby, której wydają zaświadczenie wskazane ust. 1 pkt 1;
+- **2)** wojewódzki inspektor jest obowiązany niezwłocznie wprowadzić do tego rejestru dane dotyczące osoby, której wydaje zaświadczenie, o którym mowa art. 64 ust. 10.
 
-5. Informacje zawarte w rejestrze, o którym mowa w ust. 1, są wykorzystywane wyłącznie w celach określonych w ust. 3.
+5. Informacje zawarte rejestrze, o którym mowa ust. 1, są wykorzystywane wyłącznie celach określonych ust. 3.
 
-6. Dostęp do rejestru, o którym mowa w ust. 1, jest uzyskiwany przez podmioty, o których mowa w ust. 3 pkt 1 i 3, po ich uwierzytelnieniu lub po uwierzytelnieniu osoby uprawnionej do ich reprezentowania.
+6. Dostęp do rejestru, o którym mowa ust. 1, jest uzyskiwany przez podmioty, o których mowa ust. 3 pkt 1 i 3, po ich uwierzytelnieniu lub po uwierzytelnieniu osoby uprawnionej do ich reprezentowania.
 
-7. Uwierzytelnienie w rejestrze, o którym mowa w ust. 1, podmiotów, o których mowa w ust. 3 pkt 1 i 3, lub osoby uprawnionej do ich reprezentowania następuje:
+7. Uwierzytelnienie rejestrze, o którym mowa ust. 1, podmiotów, o których mowa ust. 3 pkt 1 i 3, lub osoby uprawnionej do ich reprezentowania następuje:
 
-- **1)** w sposób określony w art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne lub
-- **2)** za pomocą loginu i kodu dostępu do rejestru, o którym mowa w ust. 1.”;
-- **23)** w art. 66:
-    - **a)** w ust. 1 w pkt 2 i w części wspólnej po wyrazach „art. 41” dodaje się wyrazy „lub art. 41a”,
-    - **b)** dodaje się ust. 3 w brzmieniu: „3. Wojewódzki inspektor po wydaniu decyzji, o której mowa w ust. 1, i po uchyleniu zakazu, o którym mowa w tym przepisie, aktualizuje rejestr, o którym mowa w art. 65a ust. 1.”;
+- **1)** sposób określony art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne lub
+- **2)** za pomocą loginu i kodu dostępu do rejestru, o którym mowa ust. 1.”;
+- **23)** art. 66:
+    - **a)** ust. 1 pkt 2 i części wspólnej po wyrazach „art. 41” dodaje się wyrazy „lub art. 41a”,
+    - **b)** dodaje się ust. 3 brzmieniu: „3. Wojewódzki inspektor po wydaniu decyzji, o której mowa ust. 1, i po uchyleniu zakazu, o którym mowa tym przepisie, aktualizuje rejestr, o którym mowa art. 65a ust. 1.”;
 
-- **24)** w art. 75 w ust. 1 w:
+- **24)** art. 75 ust. 1 w:
     - **a)** pkt 5 po wyrazach „art. 46 ust. 1 pkt 1” dodaje się wyrazy „lub ust. 3 pkt 2”,
-    - **b)** pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6–13 w brzmieniu: „6) dokonując sprzedaży ostatecznemu nabywcy środków ochrony roślin środka ochrony roślin, o którym mowa w art. 25 ust. 3 pkt 4a, nie dokumentuje tej sprzedaży fakturą lub nie umieszcza w tej fakturze danych, o których mowa w art. 25 ust. 3 pkt 4a – podlega opłacie sankcyjnej w wysokości od 1000 do 50 000 zł;
+    - **b)** pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6–13 brzmieniu: „6) dokonując sprzedaży ostatecznemu nabywcy środków ochrony roślin środka ochrony roślin, o którym mowa art. 25 ust. 3 pkt 4a, nie dokumentuje tej sprzedaży fakturą lub nie umieszcza tej fakturze danych, o których mowa art. 25 ust. 3 pkt 4a podlega opłacie sankcyjnej wysokości od 1000 do 50 000 zł;
 
-- **7)** dokonując zbycia ostatecznemu nabywcy środków ochrony roślin środka ochrony roślin, o którym mowa w art. 25 ust. 3 pkt 4a, nie prowadzi ewidencji ostatecznych nabywców tych środków ochrony roślin, nie umieszcza w ewidencji ostatecznych nabywców tych środków ochrony roślin informacji, o których mowa w art. 25 ust. 3 pkt 4b, lub nie przechowuje informacji zawartych w ewidencji ostatecznych nabywców tych środków ochrony roślin przez 5 lat – podlega opłacie sankcyjnej w wysokości od 1000 do 50 000 zł;
-- **8)** składając ostatecznemu nabywcy środków ochrony roślin ofertę zbycia środka ochrony roślin przeznaczonego dla użytkownika profesjonalnego w ramach umowy na odległość, nie umieszcza w tej ofercie numeru wpisu do rejestru, o którym mowa w art. 25 ust. 1, lub kopii zaświadczenia o dokonaniu wpisu do tego rejestru, lub informacji, o których mowa w art. 25 ust. 3 pkt 5 lit. a tiret drugie – podlega opłacie sankcyjnej w wysokości od 1000 do 10 000 zł;
-- **9)** składając ostatecznemu nabywcy środków ochrony roślin na terytorium Rzeczypospolitej Polskiej ofertę zbycia środków ochrony roślin przeznaczonych dla użytkowników profesjonalnych w ramach umowy na odległość, nie wymaga przekazania przez osobę dokonującą nabycia tych środków ochrony roślin informacji i danych, o których mowa w art. 25 ust. 3 pkt 5 lit. b – podlega opłacie sankcyjnej w wysokości od 1000 do 50 000 zł;
-- **10)** dokonuje zbycia ostatecznemu nabywcy środków ochrony roślin na terytorium Rzeczypospolitej Polskiej środków ochrony roślin przeznaczonych dla użytkowników profesjonalnych w ramach umowy na odległość, nie wymagając podania przez osobę dokonującą nabycia tych środków ochrony roślin informacji i danych określonych w art. 25 ust. 3 pkt 5 lit. b – podlega opłacie sankcyjnej w wysokości od 1000 do 50 000 zł;
-- **11)** składa ostatecznemu nabywcy środków ochrony roślin, innemu niż podmiot określony w art. 31a ofertę zbycia środka ochrony roślin, o którym mowa w art. 25 ust. 3 pkt 4a, w ramach umowy na odległość – podlega opłacie sankcyjnej w wysokości od 1000 do 100 000 zł;
-- **12)** dokonuje zbycia środka ochrony roślin, o którym mowa w art. 25 ust. 3 pkt 4a, podmiotowi innemu niż podmiot określony w art. 31a w ramach umowy na odległość – podlega opłacie sankcyjnej w wysokości od 10 000 do 100 000 zł;
-- **13)** dokonuje doręczenia zbytego środka ochrony roślin przeznaczonego dla użytkowników profesjonalnych, w tym doręczenia przez podmiot trzeci, do skrzynek pocztowych, automatów do pocztowej obsługi klientów lub pomieszczeń, w których jest prowadzona sprzedaż żywności lub pasz – podlega opłacie sankcyjnej w wysokości od 1000 do 50 000 zł.”;
-- **25)** w art. 75a:
+- **7)** dokonując zbycia ostatecznemu nabywcy środków ochrony roślin środka ochrony roślin, o którym mowa art. 25 ust. 3 pkt 4a, nie prowadzi ewidencji ostatecznych nabywców tych środków ochrony roślin, nie umieszcza ewidencji ostatecznych nabywców tych środków ochrony roślin informacji, o których mowa art. 25 ust. 3 pkt 4b, lub nie przechowuje informacji zawartych ewidencji ostatecznych nabywców tych środków ochrony roślin przez 5 lat podlega opłacie sankcyjnej wysokości od 1000 do 50 000 zł;
+- **8)** składając ostatecznemu nabywcy środków ochrony roślin ofertę zbycia środka ochrony roślin przeznaczonego dla użytkownika profesjonalnego ramach umowy na odległość, nie umieszcza tej ofercie numeru wpisu do rejestru, o którym mowa art. 25 ust. 1, lub kopii zaświadczenia o dokonaniu wpisu do tego rejestru, lub informacji, o których mowa art. 25 ust. 3 pkt 5 lit. a tiret drugie podlega opłacie sankcyjnej wysokości od 1000 do 10 000 zł;
+- **9)** składając ostatecznemu nabywcy środków ochrony roślin na terytorium Rzeczypospolitej Polskiej ofertę zbycia środków ochrony roślin przeznaczonych dla użytkowników profesjonalnych ramach umowy na odległość, nie wymaga przekazania przez osobę dokonującą nabycia tych środków ochrony roślin informacji i danych, o których mowa art. 25 ust. 3 pkt 5 lit. b podlega opłacie sankcyjnej wysokości od 1000 do 50 000 zł;
+- **10)** dokonuje zbycia ostatecznemu nabywcy środków ochrony roślin na terytorium Rzeczypospolitej Polskiej środków ochrony roślin przeznaczonych dla użytkowników profesjonalnych ramach umowy na odległość, nie wymagając podania przez osobę dokonującą nabycia tych środków ochrony roślin informacji i danych określonych art. 25 ust. 3 pkt 5 lit. b podlega opłacie sankcyjnej wysokości od 1000 do 50 000 zł; cia środka ochrony roślin, o którym mowa art. 25 ust. 3 pkt 4a, ramach umowy na odległość podlega opłacie sankcyjnej wysokości od 1000 do 100 000 zł;
+- **12)** dokonuje zbycia środka ochrony roślin, o którym mowa art. 25 ust. 3 pkt 4a, podmiotowi innemu niż podmiot określony art. 31a ramach umowy na odległość podlega opłacie sankcyjnej wysokości od 10 000 do 100 000 zł;
+- **13)** dokonuje doręczenia zbytego środka ochrony roślin przeznaczonego dla użytkowników profesjonalnych, tym doręczenia przez podmiot trzeci, do skrzynek pocztowych, automatów do pocztowej obsługi klientów lub pomieszczeń, których jest prowadzona sprzedaż żywności lub pasz podlega opłacie sankcyjnej wysokości od 1000 do 50 000 zł.”;
+- **25)** art. 75a:
     - **a)** uchyla się ust. 11,
-    - **b)** dodaje się ust. 12 w brzmieniu: „12. Kaucję przekazuje się na rachunek bankowy:
+    - **b)** dodaje się ust. 12 brzmieniu: „12. Kaucję przekazuje się na rachunek bankowy:
 
-- **1)** określony w decyzji o nałożeniu opłaty sankcyjnej w terminie, o którym mowa w ust. 4, albo
-- **2)** podmiotu, który ją wpłacił, w terminie 14 dni od dnia wydania decyzji lub orzeczenia uchylającego decyzję o nałożeniu opłaty sankcyjnej.”;
-- **26)** w art. 76 w ust. 1:
-    - **a)** w pkt 5 uchyla się lit. d,
-    - **b)** w pkt 6 po wyrazach „art. 28” dodaje się wyrazy „lub art. 28a”,
-    - **c)** po pkt 6 dodaje się pkt 6a i 6b w brzmieniu: „6a) dokonując zbycia ostatecznemu nabywcy środka ochrony roślin, o którym mowa w art. 25 ust. 3 pkt 4a, nie żąda okazania przez osobę dokonującą nabycia tego środka ochrony roślin:
-    - **a)** zaświadczenia potwierdzającego spełnienie warunków, o których mowa w art. 28a, lub nie sprawdza spełnienia przez tę osobę warunków, o których mowa w art. 28a, w rejestrze, o którym mowa w art. 65a ust. 1, lub
-    - **b)** dokumentu potwierdzającego tożsamość tej osoby, lub 6b) zbywa środek ochrony roślin przeznaczony dla użytkowników profesjonalnych osobie, która odmawia okazania zaświadczenia uprawniającego do jego nabycia, dokumentu potwierdzającego jej tożsamość lub upoważnienia, o którym mowa w art. 28 pkt 5, lub”,
-    - **d)** pkt 13 otrzymuje brzmienie: „13) zbywa środek ochrony roślin przeznaczony dla użytkownika profesjonalnego lub składa ofertę zbycia takiego środka w pomieszczeniu, w którym jest prowadzona sprzedaż:
+- **1)** określony decyzji o nałożeniu opłaty sankcyjnej terminie, o którym mowa ust. 4, albo
+- **2)** podmiotu, który ją wpłacił, terminie 14 dni od dnia wydania decyzji lub orzeczenia uchylającego decyzję o nałożeniu opłaty sankcyjnej.”;
+- **26)** art. 76 ust. 1:
+    - **a)** pkt 5 uchyla się lit. d,
+    - **b)** pkt 6 po wyrazach „art. 28” dodaje się wyrazy „lub art. 28a”,
+    - **c)** po pkt 6 dodaje się pkt 6a i 6b brzmieniu: „6a) dokonując zbycia ostatecznemu nabywcy środka ochrony roślin, o którym mowa art. 25 ust. 3 pkt 4a, nie żąda okazania przez osobę dokonującą nabycia tego środka ochrony roślin:
+    - **a)** zaświadczenia potwierdzającego spełnienie warunków, o których mowa art. 28a, lub nie sprawdza spełnienia przez tę osobę warunków, o których mowa art. 28a, rejestrze, o którym mowa art. 65a ust. 1, lub
+    - **b)** dokumentu potwierdzającego tożsamość tej osoby, lub 6b) zbywa środek ochrony roślin przeznaczony dla użytkowników profesjonalnych osobie, która odmawia okazania zaświadczenia uprawniającego do jego nabycia, dokumentu potwierdzającego jej tożsamość lub upoważnienia, o którym mowa art. 28 pkt 5, lub”,
+    - **d)** pkt 13 otrzymuje brzmienie: „13) zbywa środek ochrony roślin przeznaczony dla użytkownika profesjonalnego lub składa ofertę zbycia takiego środka pomieszczeniu, którym jest prowadzona sprzedaż:
     - **a)** żywności, lub
-    - **b)** pasz, jeżeli środek ten nie jest przechowywany pod zamknięciem w sposób zapewniający brak jego kontaktu z paszą, lub”,
-    - **e)** w pkt 30 po wyrazach „art. 41” dodaje się wyrazy „lub art. 41a”,
-    - **f)** w pkt 40 po wyrazach „art. 41” dodaje się przecinek i dodaje się wyrazy „art. 41a”.
+    - **b)** pasz, jeżeli środek ten nie jest przechowywany pod zamknięciem sposób zapewniający brak jego kontaktu z paszą, lub”,
+    - **e)** pkt 30 po wyrazach „art. 41” dodaje się wyrazy „lub art. 41a”,
+    - **f)** pkt 40 po wyrazach „art. 41” dodaje się przecinek i dodaje się wyrazy „art. 41a”.
 
 **Art. 5.** W ustawie z dnia 9 października 2015 r. o produktach biobójczych (Dz. U. z 2021 r. poz. 24) wprowadza się następujące zmiany:
 
-**Art. 6.** W ustawie z dnia 13 lutego 2020 r. o Państwowej Inspekcji Ochrony Roślin i Nasiennictwa (Dz. U. z 2023 r. poz. 1992) w art. 32:
+- **1)** art. 6 dodaje się ust. 3 brzmieniu: „3. Produkty biobójcze, na które wydano pozwolenie, zezwolenie na handel równoległy albo pozwolenie na obrót, są udostępniane na rynku do stosowania:
+- **1)** profesjonalnego przez użytkownika będącego osobą fizyczną, która stosuje produkt biobójczy celach innych niż własne niezarobkowe potrzeby, tym ramach działalności gospodarczej lub zawodowej;
+- **2)** powszechnego przez użytkownika będącego osobą fizyczną, która stosuje produkt biobójczy celach związanych z własnymi niezarobkowymi potrzebami.”; „Art. 6a. 1. Produkty biobójcze przeznaczone do fumigacji, zawierające substancje czynne, które mogą stwarzać szczególne zagrożenie dla zdrowia ludzi, zwierząt lub dla środowiska, wymienione wykazie określonym przepisach wydanych na podstawie art. 25 ust. 7 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. z 2024 r. poz. 630 oraz z 2025 r. poz. 1168, 1697 i 1709):
+- **1)** są udostępniane na rynku do stosowania profesjonalnego wyłącznie osobom, które:
+    - **a)** ukończyły szkolenie, o którym mowa art. 64 ust. 1a pkt 3 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin,
+    - **b)** posiadają zaświadczenie o ukończeniu szkolenia, o którym mowa art. 64 ust. 1a pkt 3 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin, i okażą to zaświadczenie podczas zakupu tych produktów;
+
+- **2)** mogą być stosowane wyłącznie przez osoby spełniające warunki określone pkt 1.
+
+2. Przedsiębiorca wykonujący działalność gospodarczą polegającą na udostępnianiu na rynku produktów biobójczych określonych ust. 1 jest obowiązany:
+
+- **1)** potwierdzać sprzedaż tych produktów biobójczych fakturą rozumieniu przepisów ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2025 r. poz. 775, 894, 896, 1203 i 1541) zawierającą imię, nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę nabywcy tych produktów biobójczych, dane o ilości sprzedanych produktów biobójczych i numer ich partii;
+- **2)** prowadzić ewidencję nabywców tych produktów biobójczych zawierającą:
+    - **a)** następujące dane nabywcy produktów biobójczych: imię i nazwisko oraz numer zaświadczenia potwierdzającego ukończenie przez tego nabywcę szkolenia, o którym mowa art. 64 ust. 1a pkt 3 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin jeżeli tym nabywcą jest osoba fizyczna, nazwę, siedzibę i adres, a przypadku gdy nabycia tych produktów biobójczych dokonuje na rzecz nabywcy inna osoba imię i nazwisko osoby dokonującej zakupu produktu biobójczego na rzecz tego nabywcy i numer zaświadczenia potwierdzającego ukończenie przez tę osobę szkolenia, o którym mowa art. 64 ust. 1a pkt 3 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin jeżeli tym nabywcą nie jest osoba fizyczna,
+    - **b)** nazwę produktu biobójczego i numer pozwolenia, zezwolenia na handel równoległy albo pozwolenia na obrót,
+    - **c)** ilość produktu biobójczego, numer jego partii i datę produkcji,
+    - **d)** datę sprzedaży produktu biobójczego.
+
+3. Ewidencja, o której mowa ust. 2 pkt 2, jest prowadzona celu wykonywania zadań ustawowych przez organy wymienione art. 39 ust. 1. Informacje zawarte ewidencji przechowuje się przez 5 lat.
+
+4. Produkty biobójcze określone ust. 1 nie mogą być udostępniane na rynku ramach umowy zawartej na odległość rozumieniu art. 2 pkt 1 ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2024 r. poz. 1796 oraz z 2025 r. poz. 1172).”;
+
+- **3)** po art. 45 dodaje się art. 45a brzmieniu: „Art. 45a. 1. Kto:
+- **1)** udostępnia produkty biobójcze określone art. 6a ust. 1 z naruszeniem warunków określonych tym przepisie, lub
+- **2)** nie potwierdza sprzedaży produktów biobójczych określonych art. 6a ust. 1 fakturą zawierającą informacje i dane określone art. 6a ust. 2 pkt 1 lub nie prowadzi ewidencji nabywców produktów biobójczych zgodnie z art. 6a ust. 2 lub 3, lub
+- **3)** udostępnia na rynku produkty biobójcze określone art. 6a ust. 1 ramach umowy zawartej na odległość rozumieniu art. 2 pkt 1 ustawy z dnia 30 maja 2014 r. o prawach konsumenta podlega karze grzywny wysokości do 30 000 zł.
+
+2. Orzekanie sprawach o czyny, o których mowa ust. 1, następuje trybie przepisów ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, 1178 i 1661).”. poz. 1992) art. 32:
+
+- **1)** ust. 5 otrzymuje brzmienie: „5. Organy Krajowej Administracji Skarbowej współpracują z Inspekcją i dokonują wymiany informacji, tym danych objętych tajemnicą skarbową, oraz udostępniają nieodpłatnie te informacje zakresie niezbędnym do wykonywania zadań Inspekcji, tym do:
+- **1)** przeprowadzania kontroli i wydawania decyzji;
+- **2)** przeprowadzania oceny ryzyka, o której mowa art. 24 ust. 2 rozporządzenia 2017/625.”;
+- **2)** ust. 6 pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 i 4 brzmieniu: „3) nazwę, ilość, termin i miejsce wprowadzania roślin, produktów roślinnych lub innych przedmiotów z państw trzecich lub miejsce ich składowania na terytorium Rzeczypospolitej Polskiej, a także inne informacje i dane niezbędne do wykonywania zadań Inspekcji związanych z ochroną roślin przed agrofagami lub z nadzorem nad obrotem materiałem siewnym;
+- **4)** nazwę lub opis nawozów lub środków wspomagających uprawę roślin, o których mowa ustawie z dnia 10 lipca 2007 r. o nawozach i nawożeniu (Dz. U. z 2024 r. poz. 105), lub nazwę lub kategorię funkcji produktów nawozowych UE, o których mowa rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2019/1009 z dnia 5 czerwca 2019 r. ustanawiającym przepisy dotyczące udostępniania na rynku produktów nawozowych UE, zmieniającym rozporządzenia (WE) nr 1069/2009 i (WE) nr 1107/2009 oraz uchylającym rozporządzenie (WE) nr 2003/2003 (Dz. Urz. UE L 170 z 25.06.2019, str. 1, z późn. zm. ), oraz termin i miejsce ich wprowadzania z państw trzecich lub miejsce ich składowania na terytorium Rzeczypospolitej Polskiej, a także inne informacje i dane niezbędne do wykonywania zadań Inspekcji związanych z nadzorem nad wprowadzaniem do obrotu nawozów, środków wspomagających uprawę roślin i produktów nawozowych UE, o których mowa ustawie z dnia 10 lipca 2007 r. o nawozach i nawożeniu.”;
+- **3)** po ust. 6 dodaje się ust. 6a brzmieniu: „6a. Informacje, o których mowa ust. 5, mogą być przekazywane za pomocą środków komunikacji elektronicznej rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513) lub na informatycznym nośniku danych rozumieniu art. 3 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703), zapisane edytowalnej postaci elektronicznej.”.
 
 **Art. 7.**
 
-1. Do spraw objętych postępowaniami wszczętymi na podstawie art. 58 ust. 1, ust. 2 pkt 1 i 2, ust. 3 i ust. 4 pkt 1, 2, 4 i 5 ustawy zmienianej w art. 1 i niezakończonymi przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy art. 58 ust. 1, ust. 2 pkt 1 i 2, ust. 3 pkt 1 i ust. 4a pkt 1–4 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
+1. Do spraw objętych postępowaniami wszczętymi na podstawie art. 58 ust. 1, ust. 2 pkt 1 i 2, ust. 3 i ust. 4 pkt 1, 2, 4 i 5 ustawy zmienianej art. 1 i niezakończonymi przed dniem wejścia życie niniejszej ustawy stosuje się przepisy art. 58 ust. 1, ust. 2 pkt 1 i 2, ust. 3 pkt 1 i ust. 4a pkt 1–4 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
 
-2. Do czynów określonych w art. 58 ust. 2 pkt 3 ustawy zmienianej w art. 1 popełnionych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+2. Do czynów określonych art. 58 ust. 2 pkt 3 ustawy zmienianej art. 1 popełnionych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-3. Decyzje wydane na podstawie art. 58 ust. 2 pkt 3 ustawy zmienianej w art. 1 zachowują moc. Do uchylenia lub zmiany tych decyzji oraz do wznowienia postępowania w sprawach objętych tymi decyzjami stosuje się art. 58 ust. 2 pkt 3 ustawy zmienianej w art. 1.
+3. Decyzje wydane na podstawie art. 58 ust. 2 pkt 3 ustawy zmienianej art. 1 zachowują moc. Do uchylenia lub zmiany tych decyzji oraz do wznowienia postępowania sprawach objętych tymi decyzjami stosuje się art. 58 ust. 2 pkt 3 ustawy zmienianej art. 1.
 
-4. Decyzje wydane na podstawie art. 58 ust. 4 pkt 1, 2, 4 i 5 ustawy zmienianej w art. 1 zachowują moc. Do uchylenia lub zmiany tych decyzji oraz do wznowienia postępowania w sprawach objętych tymi decyzjami stosuje się przepisy art. 58 ust. 4 pkt 1, 2, 4 i 5 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym.
+4. Decyzje wydane na podstawie art. 58 ust. 4 pkt 1, 2, 4 i 5 ustawy zmienianej art. 1 zachowują moc. Do uchylenia lub zmiany tych decyzji oraz do wznowienia postępowania sprawach objętych tymi decyzjami stosuje się przepisy art. 58 ust. 4 pkt 1, 2, 4 i 5 ustawy zmienianej art. 1 brzmieniu dotychczasowym.
 
-**Art. 8.** Do spraw objętych postępowaniami wszczętymi na podstawie art. 46 ust. 1 pkt 1 ustawy zmienianej w art. 4 i niezakończonymi przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy art. 46 ust. 1 pkt 1 i ust. 2–5 ustawy zmienianej w art. 4 w brzmieniu nadanym niniejszą ustawą, z tym że przez płody rolne, o których mowa w art. 46 ust. 1 ustawy zmienianej w art. 4 w brzmieniu dotychczasowym, rozumie się żywność lub paszę, o których mowa w art. 46 ust. 1 ustawy zmienianej w art. 4 w brzmieniu nadanym niniejszą ustawą.
+**Art. 8.** Do spraw objętych postępowaniami wszczętymi na podstawie art. 46 ust. 1 pkt 1 ustawy zmienianej art. 4 i niezakończonymi przed dniem wejścia życie niniejszej ustawy stosuje się przepisy art. 46 ust. 1 pkt 1 i ust. 2–5 ustawy zmienianej art. 4 brzmieniu nadanym niniejszą ustawą, z tym że przez płody rolne, o których mowa art. 46 ust. 1 ustawy zmienianej art. 4 brzmieniu dotychczasowym, rozumie się żywność lub paszę, o których mowa art. 46 ust. 1 ustawy zmienianej art. 4 brzmieniu nadanym niniejszą ustawą. zakończonymi przed dniem wejścia życie niniejszej ustawy stosuje się przepisy art. 66 ust. 1 ustawy zmienianej art. 4 brzmieniu nadanym niniejszą ustawą.
 
-**Art. 9.** Do spraw objętych postępowaniami wszczętymi na podstawie art. 66 ust. 1 ustawy zmienianej w art. 4 i niezakończonymi przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy art. 66 ust. 1 ustawy zmienianej w art. 4 w brzmieniu nadanym niniejszą ustawą.
+**Art. 10.** Do wniosków o wydanie certyfikatu poświadczającego stosowanie integrowanej produkcji roślin złożonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy ustawy zmienianej art. 4 brzmieniu dotychczasowym.
 
-**Art. 10.** Do wniosków o wydanie certyfikatu poświadczającego stosowanie integrowanej produkcji roślin złożonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 4 w brzmieniu dotychczasowym.
+**Art. 11.** Do dnia 30 marca 2027 r. zaświadczenia, o których mowa art. 64 ust. 4 pkt 1 ustawy zmienianej art. 4, potwierdzają posiadanie uprawnień do nabycia środków ochrony roślin przeznaczonych dla użytkowników profesjonalnych innych niż środki ochrony roślin, o których mowa art. 25 ust. 3 pkt 4a ustawy zmienianej art. 4.
 
-**Art. 11.** Do dnia 30 marca 2027 r. zaświadczenia, o których mowa w art. 64 ust. 4 pkt 1 ustawy zmienianej w art. 4, potwierdzają posiadanie uprawnień do nabycia środków ochrony roślin przeznaczonych dla użytkowników profesjonalnych innych niż środki ochrony roślin, o których mowa w art. 25 ust. 3 pkt 4a ustawy zmienianej w art. 4.
+**Art. 12.** Do spraw objętych postępowaniami wszczętymi na podstawie art. 75 ust. 1 pkt 5 ustawy zmienianej art. 4 i niezakończonymi przed dniem wejścia życie niniejszej ustawy stosuje się przepis art. 75 ust. 1 pkt 5 ustawy zmienianej art. 4 brzmieniu dotychczasowym.
 
-**Art. 12.** Do spraw objętych postępowaniami wszczętymi na podstawie art. 75 ust. 1 pkt 5 ustawy zmienianej w art. 4 i niezakończonymi przed dniem wejścia w życie niniejszej ustawy stosuje się przepis art. 75 ust. 1 pkt 5 ustawy zmienianej w art. 4 w brzmieniu dotychczasowym.
-
-**Art. 13.** Do czynów określonych w art. 76 ust. 1 pkt 5 lit. d ustawy zmienianej w art. 4 popełnionych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+**Art. 13.** Do czynów określonych art. 76 ust. 1 pkt 5 lit. d ustawy zmienianej art. 4 popełnionych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
 **Art. 14.**
 
 1. Przepisy:
 
-- **1)** art. 11 ust. 3b ustawy zmienianej w art. 2 stosuje się od dnia określonego w obwieszczeniu wydanym na podstawie ust. 2;
-- **2)** art. 13 ust. 5a, art. 20 ust. 9, art. 22 ust. 5a i art. 30 ust. 5a ustawy zmienianej w art. 3 stosuje się od dnia określonego w obwieszczeniu wydanym na podstawie ust. 3;
-- **3)** art. 36 ust. 12a ustawy zmienianej w art. 3 stosuje się od dnia określonego w obwieszczeniu wydanym na podstawie ust. 4;
-- **4)** art. 71 ust. 2b ustawy zmienianej w art. 3 stosuje się od dnia określonego w obwieszczeniu wydanym na podstawie ust. 5;
-- **5)** art. 28b ust. 1 pkt 1 lit. a i art. 76 ust. 1 pkt 6a lit. a ustawy zmienianej w art. 4 w zakresie sprawdzenia spełniania wymagań, o których mowa w art. 28a ustawy zmienianej w art. 4, w rejestrze, o którym mowa w art. 65a ust. 1 ustawy zmienianej w art. 4, oraz art. 65a ust. 4 i art. 66 ust. 3 ustawy zmienianej w art. 4, stosuje się od dnia określonego w obwieszczeniu wydanym na podstawie ust. 6.
+- **1)** art. 11 ust. 3b ustawy zmienianej art. 2 stosuje się od dnia określonego obwieszczeniu wydanym na podstawie ust. 2;
+- **2)** art. 13 ust. 5a, art. 20 ust. 9, art. 22 ust. 5a i art. 30 ust. 5a ustawy zmienianej art. 3 stosuje się od dnia określonego obwieszczeniu wydanym na podstawie ust. 3;
+- **3)** art. 36 ust. 12a ustawy zmienianej art. 3 stosuje się od dnia określonego obwieszczeniu wydanym na podstawie ust. 4;
+- **4)** art. 71 ust. 2b ustawy zmienianej art. 3 stosuje się od dnia określonego obwieszczeniu wydanym na podstawie ust. 5;
+- **5)** art. 28b ust. 1 pkt 1 lit. a i art. 76 ust. 1 pkt 6a lit. a ustawy zmienianej art. 4 zakresie sprawdzenia spełniania wymagań, o których mowa art. 28a ustawy zmienianej art. 4, rejestrze, o którym mowa art. 65a ust. 1 ustawy zmienianej art. 4, oraz art. 65a ust. 4 i art. 66 ust. 3 ustawy zmienianej art. 4, stosuje się od dnia określonego obwieszczeniu wydanym na podstawie ust. 6.
 
-2. Minister właściwy do spraw rolnictwa ogłosi, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” datę udostępnienia przez Dyrektora Centralnego Ośrodka Badania Odmian Roślin Uprawnych systemu teleinformatycznego, o którym mowa w art. 11a ust. 1 ustawy zmienianej w art. 2.
+2. Minister właściwy do spraw rolnictwa ogłosi, drodze obwieszczenia, Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” datę udostępnienia przez Dyrektora Centralnego Ośrodka Badania Odmian Roślin Uprawnych systemu teleinformatycznego, o którym mowa art. 11a ust. 1 ustawy zmienianej art. 2.
 
-3. Minister właściwy do spraw rolnictwa ogłosi, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” datę udostępnienia przez Dyrektora Centralnego Ośrodka Badania Odmian Roślin Uprawnych systemu teleinformatycznego, o którym mowa w art. 32b ust. 1 ustawy zmienianej w art. 3.
+3. Minister właściwy do spraw rolnictwa ogłosi, drodze obwieszczenia, Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” datę udostępnienia przez Dyrektora Centralnego Ośrodka Badania Odmian Roślin Uprawnych systemu teleinformatycznego, o którym mowa art. 32b ust. 1 ustawy zmienianej art. 3.
 
-4. Minister właściwy do spraw rolnictwa ogłosi, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” datę udostępnienia przez Głównego Inspektora Ochrony Roślin i Nasiennictwa systemu teleinformatycznego, o którym mowa w art. 36b ust. 1 ustawy zmienianej w art. 3.
+4. Minister właściwy do spraw rolnictwa ogłosi, drodze obwieszczenia, Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” datę udostępnienia przez Głównego Inspektora Ochrony Roślin i Nasiennictwa systemu teleinformatycznego, o którym mowa art. 36b ust. 1 ustawy zmienianej art. 3.
 
-5. Minister właściwy do spraw rolnictwa ogłosi, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” datę udostępnienia przez Głównego Inspektora Ochrony Roślin i Nasiennictwa systemu teleinformatycznego, o którym mowa w art. 71a ust. 1 ustawy zmienianej w art. 3.
+5. Minister właściwy do spraw rolnictwa ogłosi, drodze obwieszczenia, Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” datę udostępnienia przez Głównego Inspektora Ochrony Roślin i Nasiennictwa systemu teleinformatycznego, o którym mowa art. 71a ust. 1 ustawy zmienianej art. 3.
 
-6. Minister właściwy do spraw rolnictwa ogłosi, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” datę udostępnienia przez Głównego Inspektora Ochrony Roślin i Nasiennictwa systemu teleinformatycznego, o którym mowa w art. 65a ust. 1 ustawy zmienianej w art. 4.
+6. Minister właściwy do spraw rolnictwa ogłosi, drodze obwieszczenia, Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” datę udostępnienia przez Głównego Inspektora Ochrony Roślin i Nasiennictwa systemu teleinformatycznego, o którym mowa art. 65a ust. 1 ustawy zmienianej art. 4.
 
-**Art. 15.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia z wyjątkiem art. 1 pkt 6 i 7, art. 4 i art. 5, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia.
+**Art. 15.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia z wyjątkiem art. 1 pkt 6 i 7, art. 4 i art. 5, które wchodzą życie po upływie 3 miesięcy od dnia ogłoszenia.
 

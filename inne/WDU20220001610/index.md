@@ -8,10 +8,10 @@ pos: 1610
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, sierpnia 2022 Poz.
+# Rozporządzenie Ministra Edukacji i Naukiz dnia 22 lipca 2022 r. w sprawie wykazu zajęć prowadzonych bezpośrednio z uczniami lub wychowankami albo na ich rzecz przez nauczycieli poradni psychologiczno-pedagogicznych oraz nauczycieli: pedagogów, pedagogów specjalnych, psychologów, logopedów, terapeutów pedagogicznych i doradców zawodowych
 
 | Pole | Wartość |
 |---|---|
@@ -22,43 +22,90 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2022-07-22 |
 | Data wydania | 2022-08-01 |
+| Wejście w życie | 2022-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001610) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1610/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA EDUKACJI I NAUKI 22 lipca 2022 sprawie wykazu zajęć prowadzonych bezpośrednio uczniami wychowankami albo ich rzecz przez nauczycieli poradni psychologiczno-pedagogicznych oraz nauczycieli: pedagogów, pedagogów specjalnych, psychologów, logopedów, terapeutów pedagogicznych doradców zawodowych Na 42 7b 26 stycznia 1982 Karta Nauczyciela (Dz. U. 2021 poz. 1762 oraz 2022 poz. 935 1116) zarządza się, co następuje:
-1. Rozporządzenie określa wykaz zajęć prowadzonych bezpośrednio uczniami wychowankami albo ich rzecz, których 42 2 26 stycznia 1982 Karta Nauczyciela, przez:
-1) nauczycieli poradni psychologiczno-pedagogicznych;
-2) nauczycieli: pedagogów, pedagogów specjalnych, psychologów, logopedów, terapeutów pedagogicznych doradców zawodowych, zatrudnionych przedszkolach, szkołach placówkach.
-2. Nauczyciele, których 1, ramach tygodniowego obowiązkowego wymiaru godzin zajęć dydaktycznych, wychowawczych opiekuńczych, prowadzonych bezpośrednio uczniami wychowankami albo ich rzecz, realizują zajęcia:
-1) ramach zadań związanych z:
-a) prowadzeniem badań diagnostycznych dzieci młodzieży, tym badań przesiewowych obserwacji funkcjonowania dzieci młodzieży środowisku wychowania nauczania, wyjątkiem udziału posiedzeniach zespołów orzekających działających poradniach psychologiczno-pedagogicznych,
-b) udzielaniem dzieciom młodzieży oraz rodzicom bezpośredniej pomocy psychologiczno-pedagogicznej, której sprawie szczegółowych zasad publicznych poradni psychologiczno-pedagogicznych, tym publicznych poradni specjalistycznych,
-c) prowadzeniem działań zakresu profilaktyki uzależnień innych problemów dzieci młodzieży, tym działań mających celu przeciwdziałanie pojawianiu się zachowań ryzykownych związanych używaniem przez uczniów wychowanków środków odurzających, substancji psychotropowych, środków zastępczych nowych substancji psychoaktywnych zgodnie przepisami wydanymi 22 29 lipca 2005 przeciwdziałaniu narkomanii (Dz. U. 2020 poz. 2050, 2021 poz. 2469 oraz 2022 poz. 763 764),
-d) prowadzeniem dziećmi młodzieżą, rodzicami nauczycielami działań zakresu edukacji dotyczącej ochrony zdrowia psychicznego dzieci młodzieży, których sprawie szczegółowych zasad działania publicznych poradni psychologiczno-pedagogicznych, tym publicznych poradni specjalistycznych, 2016 Prawo oświatowe (Dz. U. 2021 poz. 1082 oraz 2022 poz. 655, 1079, 1116 1383) oraz przepisach wydanych 71b 7 2 7 września 1991 systemie oświaty (Dz. U.
-2021 poz. 1915 oraz 2022 poz. 583 1116),
-f) udzielaniem nauczycielom pomocy rozwiązywaniu problemów dydaktycznych wychowawczych, której sprawie szczegółowych zasad publicznych poradni psychologiczno-pedagogicznych, tym publicznych poradni specjalistycznych;
-2) ramach wczesnego wspomagania rozwoju dzieci, których wydanych 127 19 14 grudnia 2016 Prawo oświatowe;
-3) rewalidacyjno-wychowawcze, których wydanych 7 19 sierpnia 1994 ochronie zdrowia psychicznego (Dz. U. 2020 poz. 685 oraz 2022 poz. 974).
-3. 1. Nauczyciele, których 2, wyjątkiem nauczycieli poradni psychologiczno-pedagogicznych pedagogów specjalnych, ramach tygodniowego obowiązkowego wymiaru godzin zajęć dydaktycznych, wychowawczych opiekuńczych, prowadzonych bezpośrednio uczniami wychowankami albo ich rzecz, realizują:
-1) zajęcia ramach zadań związanych z:
-a) prowadzeniem badań działań diagnostycznych dzieci młodzieży, tym badań przesiewowych, diagnozowaniem indywidualnych potrzeb rozwojowych edukacyjnych oraz możliwości psychofizycznych dzieci młodzieży celu określenia ich mocnych stron, predyspozycji, zainteresowań uzdolnień oraz przyczyn niepowodzeń edukacyjnych trudności funkcjonowaniu, tym barier ograniczeń utrudniających im funkcjonowanie uczestnictwo życiu przedszkola, szkoły placówki, których wydanych podstawie 47 5 14 grudnia 2016 Prawo oświatowe oraz wydanych 22 2 11 7 września 1991 systemie oświaty,
-b) udzielaniem uczniom wychowankom, rodzicom nauczycielom pomocy psychologiczno-pedagogicznej, której wydanych 47 5 14 grudnia 2016 Prawo oświatowe oraz wydanych 22 2 11 7 września 1991 systemie oświaty,
-c) dokonywaniem wielospecjalistycznej oceny poziomu funkcjonowania dzieci młodzieży objętych kształceniem specjalnym, której wydanych 127 19 2 14 grudnia 2016 Prawo oświatowe oraz wydanych 71b 7 2 7 września 1991 systemie oświaty przypadku nauczycieli zatrudnionych przedszkolach, szkołach, młodzieżowych ośrodkach wychowawczych, młodzieżowych ośrodkach socjoterapii, specjalnych ośrodkach wychowawczych, specjalnych ośrodkach szkolno-wychowawczych ośrodkach rewalidacyjno-wychowawczych,
-d) prowadzeniem działań zakresu profilaktyki uzależnień innych problemów dzieci młodzieży, tym działań mających celu przeciwdziałanie pojawianiu się zachowań ryzykownych związanych używaniem przez nich środków odurzających, substancji psychotropowych, środków zastępczych nowych substancji psychoaktywnych zgodnie przepisami wydanymi 22 29 lipca 2005 przeciwdziałaniu narkomanii;
-2) zajęcia zakresie doradztwa zawodowego, których wydanych 26a 14 grudnia 2016 Prawo oświatowe przypadku nauczycieli zatrudnionych przedszkolach szkołach;
-3) zajęcia ramach wczesnego wspomagania rozwoju dzieci, których wydanych 127 19 14 grudnia 2016 Prawo oświatowe przypadku nauczycieli zatrudnionych przedszkolach, szkołach podstawowych, specjalnych ośrodkach szkolno-wychowawczych, specjalnych ośrodkach wychowawczych ośrodkach rewalidacyjno-wychowawczych;
-4) zajęcia wychowankami, których wydanych 123 2 14 grudnia 2016 Prawo oświatowe oraz wydanych 71 7 września 1991 systemie oświaty przypadku nauczycieli zatrudnionych młodzieżowych ośrodkach wychowawczych, młodzieżowych ośrodkach socjoterapii, specjalnych ośrodkach wychowawczych, specjalnych ośrodkach szkolno-wychowawczych ośrodkach rewalidacyjno-wychowawczych;
-5) zajęcia oraz specjalne opiekuńczo-wychowawcze, których wydanych
-1) zajęcia ramach zadań związanych z:
-a) rekomendowaniem dyrektorowi przedszkola, szkoły placówki do realizacji działań zakresie zapewnienia aktywnego pełnego uczestnictwa dzieci młodzieży życiu przedszkola, szkoły placówki oraz dostępności, której ustawie 19 lipca 2019 zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. 2020 poz. 1062 oraz 2022 poz. 975 1079),
-b) prowadzeniem badań działań diagnostycznych związanych rozpoznawaniem indywidualnych potrzeb rozwojowych edukacyjnych oraz możliwości psychofizycznych uczniów wychowanków celu określenia mocnych stron, predyspozycji, zainteresowań uzdolnień uczniów wychowanków oraz przyczyn niepowodzeń edukacyjnych trudności funkcjonowaniu uczniów wychowanków, tym barier ograniczeń utrudniających funkcjonowanie ucznia wychowanka jego uczestnictwo życiu przedszkola, szkoły placówki, we współpracy nauczycielami,
-c) wspieraniem nauczycieli w: rozpoznawaniu przyczyn niepowodzeń edukacyjnych trudności funkcjonowaniu uczniów wychowanków, tym barier ograniczeń, utrudniających funkcjonowanie ucznia wychowanka jego uczestnictwo życiu przedszkola, szkoły placówki, udzielaniu pomocy psychologiczno-pedagogicznej bezpośredniej pracy uczniem wychowankiem, dostosowaniu sposobów metod pracy do indywidualnych potrzeb rozwojowych edukacyjnych ucznia wychowanka oraz jego możliwości psychofizycznych, doborze metod, form kształcenia środków dydaktycznych do potrzeb uczniów wychowanków,
-d) rozwiązywaniem problemów dydaktycznych wychowawczych uczniów wychowanków,
-e) dokonywaniem wielospecjalistycznej oceny poziomu funkcjonowania dzieci młodzieży objętych kształceniem specjalnym, której wydanych 127 19 2 14 grudnia 2016 Prawo oświatowe oraz wydanych 71b 7 2 7 września 1991 systemie oświaty przypadku nauczycieli zatrudnionych przedszkolach, szkołach, młodzieżowych ośrodkach wychowawczych, młodzieżowych ośrodkach socjoterapii, specjalnych ośrodkach wychowawczych, specjalnych ośrodkach szkolno-wychowawczych ośrodkach rewalidacyjno-wychowawczych,
-f) określaniem niezbędnych do nauki warunków, sprzętu specjalistycznego środków dydaktycznych, tym wykorzystujących technologie informacyjno-komunikacyjne, odpowiednich ze względu indywidualne potrzeby rozwojowe edukacyjne oraz możliwości psychofizyczne ucznia wychowanka,
-g) udzielaniem uczniom wychowankom, rodzicom nauczycielom pomocy psychologiczno-pedagogicznej, której wydanych 47 5 14 grudnia 2016 Prawo oświatowe oraz wydanych 22 2 11 7 września 1991 systemie oświaty,
-h) prowadzeniem zajęć rewalidacyjnych, resocjalizacyjnych socjoterapeutycznych;
-2) zajęcia ramach wczesnego wspomagania rozwoju dzieci, których wydanych 127 19 14 grudnia 2016 Prawo oświatowe przypadku nauczycieli zatrudnionych przedszkolach, szkołach podstawowych, specjalnych ośrodkach szkolno-wychowawczych, specjalnych ośrodkach wychowawczych ośrodkach rewalidacyjno-wychowawczych;
-3) zajęcia oraz specjalne opiekuńczo-wychowawcze, których wydanych 128 14 grudnia 2016 Prawo oświatowe oraz wydanych 71c 2 7 września 1991 systemie oświaty przypadku nauczycieli zatrudnionych przedszkolach szkołach specjalnych, zorganizowanych podmiotach leczniczych jednostkach pomocy społecznej.
-4. Traci moc rozporządzenie Ministra Edukacji Narodowej sierpnia 2018 sprawie wykazu zajęć prowadzonych bezpośrednio uczniami wychowankami albo ich rzecz przez nauczycieli poradni psychologiczno-pedagogicznych oraz nauczycieli: pedagogów, psychologów, logopedów, terapeutów pedagogicznych doradców zawodowych (Dz. U. 2020 poz. 1552).
+Treść rozporządzenia
+Na podstawie art. 42 ust. 7b ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2021 r. poz. 1762 oraz z 2022 r. poz. 935 i 1116) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa wykaz zajęć prowadzonych bezpośrednio z uczniami lub wychowankami albo na ich rzecz, o których mowa w art. 42 ust. 2 pkt 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, przez:
+1)
+nauczycieli poradni psychologiczno-pedagogicznych;
+2)
+nauczycieli: pedagogów, pedagogów specjalnych, psychologów, logopedów, terapeutów pedagogicznych i doradców zawodowych, zatrudnionych w przedszkolach, szkołach i placówkach.
+§ 2.
+Nauczyciele, o których mowa w § 1 pkt 1, w ramach tygodniowego obowiązkowego wymiaru godzin zajęć dydaktycznych, wychowawczych i opiekuńczych, prowadzonych bezpośrednio z uczniami lub wychowankami albo na ich rzecz, realizują zajęcia:
+1)
+w ramach zadań związanych z:
+a)
+prowadzeniem badań diagnostycznych dzieci i młodzieży, w tym badań przesiewowych i obserwacji funkcjonowania dzieci i młodzieży w środowisku wychowania i nauczania, z wyjątkiem udziału w posiedzeniach zespołów orzekających działających w poradniach psychologiczno-pedagogicznych,
+b)
+udzielaniem dzieciom i młodzieży oraz rodzicom bezpośredniej pomocy psychologiczno-pedagogicznej, o której mowa w przepisach w sprawie szczegółowych zasad działania publicznych poradni psychologiczno-pedagogicznych, w tym publicznych poradni specjalistycznych,
+c)
+prowadzeniem działań z zakresu profilaktyki uzależnień i innych problemów dzieci i młodzieży, w tym działań mających na celu przeciwdziałanie pojawianiu się zachowań ryzykownych związanych z używaniem przez uczniów i wychowanków środków odurzających, substancji psychotropowych, środków zastępczych i nowych substancji psychoaktywnych zgodnie z przepisami wydanymi na podstawie art. 22 ust. 3 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2020 r. poz. 2050, z 2021 r. poz. 2469 oraz z 2022 r. poz. 763 i 764),
+d)
+prowadzeniem z dziećmi i młodzieżą, rodzicami i nauczycielami działań z zakresu edukacji dotyczącej ochrony zdrowia psychicznego dzieci i młodzieży, o których mowa w przepisach w sprawie szczegółowych zasad działania publicznych poradni psychologiczno-pedagogicznych, w tym publicznych poradni specjalistycznych,
+e)
+dokonywaniem wielospecjalistycznej oceny poziomu funkcjonowania dzieci i młodzieży objętych kształceniem specjalnym, o której mowa w przepisach wydanych na podstawie art. 127 ust. 19 pkt 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2021 r. poz. 1082 oraz z 2022 r. poz. 655, 1079, 1116 i 1383) oraz w przepisach wydanych na podstawie art. 71b ust. 7 pkt 2 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2021 r. poz. 1915 oraz z 2022 r. poz. 583 i 1116),
+f)
+udzielaniem nauczycielom pomocy w rozwiązywaniu problemów dydaktycznych i wychowawczych, o której mowa w przepisach w sprawie szczegółowych zasad działania publicznych poradni psychologiczno-pedagogicznych, w tym publicznych poradni specjalistycznych;
+2)
+w ramach wczesnego wspomagania rozwoju dzieci, o których mowa w przepisach wydanych na podstawie art. 127 ust. 19 pkt 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe;
+3)
+rewalidacyjno-wychowawcze, o których mowa w przepisach wydanych na podstawie art. 7 ust. 3 ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2020 r. poz. 685 oraz z 2022 r. poz. 974).
+§ 3.
+1.
+Nauczyciele, o których mowa w § 1 pkt 2, z wyjątkiem nauczycieli poradni psychologiczno-pedagogicznych i pedagogów specjalnych, w ramach tygodniowego obowiązkowego wymiaru godzin zajęć dydaktycznych, wychowawczych i opiekuńczych, prowadzonych bezpośrednio z uczniami lub wychowankami albo na ich rzecz, realizują:
+1)
+zajęcia w ramach zadań związanych z:
+a)
+prowadzeniem badań i działań diagnostycznych dzieci i młodzieży, w tym badań przesiewowych, diagnozowaniem indywidualnych potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych dzieci i młodzieży w celu określenia ich mocnych stron, predyspozycji, zainteresowań i uzdolnień oraz przyczyn niepowodzeń edukacyjnych lub trudności w funkcjonowaniu, w tym barier i ograniczeń utrudniających im funkcjonowanie i uczestnictwo w życiu przedszkola, szkoły i placówki, o których mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 5 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe oraz w przepisach wydanych na podstawie art. 22 ust. 2 pkt 11 ustawy z dnia 7 września 1991 r. o systemie oświaty,
+b)
+udzielaniem uczniom lub wychowankom, rodzicom i nauczycielom pomocy psychologiczno-pedagogicznej, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 5 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe oraz w przepisach wydanych na podstawie art. 22 ust. 2 pkt 11 ustawy z dnia 7 września 1991 r. o systemie oświaty,
+c)
+dokonywaniem wielospecjalistycznej oceny poziomu funkcjonowania dzieci i młodzieży objętych kształceniem specjalnym, o której mowa w przepisach wydanych na podstawie art. 127 ust. 19 pkt 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe oraz w przepisach wydanych na podstawie art. 71b ust. 7 pkt 2 ustawy z dnia 7 września 1991 r. o systemie oświaty – w przypadku nauczycieli zatrudnionych w przedszkolach, szkołach, młodzieżowych ośrodkach wychowawczych, młodzieżowych ośrodkach socjoterapii, specjalnych ośrodkach wychowawczych, specjalnych ośrodkach szkolno-wychowawczych i ośrodkach rewalidacyjno-wychowawczych,
+d)
+prowadzeniem działań z zakresu profilaktyki uzależnień i innych problemów dzieci i młodzieży, w tym działań mających na celu przeciwdziałanie pojawianiu się zachowań ryzykownych związanych z używaniem przez nich środków odurzających, substancji psychotropowych, środków zastępczych i nowych substancji psychoaktywnych zgodnie z przepisami wydanymi na podstawie art. 22 ust. 3 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii;
+2)
+zajęcia i działania w zakresie doradztwa zawodowego, o których mowa w przepisach wydanych na podstawie art. 26a ust. 3 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe – w przypadku nauczycieli zatrudnionych w przedszkolach i szkołach;
+3)
+zajęcia w ramach wczesnego wspomagania rozwoju dzieci, o których mowa w przepisach wydanych na podstawie art. 127 ust. 19 pkt 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe – w przypadku nauczycieli zatrudnionych w przedszkolach, szkołach podstawowych, specjalnych ośrodkach szkolno-wychowawczych, specjalnych ośrodkach wychowawczych i ośrodkach rewalidacyjno-wychowawczych;
+4)
+zajęcia z wychowankami, o których mowa w przepisach wydanych na podstawie art. 123 ust. 1 pkt 1 i ust. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe oraz w przepisach wydanych na podstawie art. 71 ust. 1 pkt 1 ustawy z dnia 7 września 1991 r. o systemie oświaty – w przypadku nauczycieli zatrudnionych w młodzieżowych ośrodkach wychowawczych, młodzieżowych ośrodkach socjoterapii, specjalnych ośrodkach wychowawczych, specjalnych ośrodkach szkolno-wychowawczych i ośrodkach rewalidacyjno-wychowawczych;
+5)
+zajęcia oraz specjalne działania opiekuńczo-wychowawcze, o których mowa w przepisach wydanych na podstawie art. 128 ust. 3 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe oraz w przepisach wydanych na podstawie art. 71c ust. 2 ustawy z dnia 7 września 1991 r. o systemie oświaty – w przypadku nauczycieli zatrudnionych w przedszkolach i szkołach specjalnych, zorganizowanych w podmiotach leczniczych i w jednostkach pomocy społecznej.
+2.
+Pedagodzy specjalni w ramach tygodniowego obowiązkowego wymiaru godzin zajęć dydaktycznych, wychowawczych i opiekuńczych, prowadzonych bezpośrednio z uczniami lub wychowankami albo na ich rzecz, realizują:
+1)
+zajęcia w ramach zadań związanych z:
+a)
+rekomendowaniem dyrektorowi przedszkola, szkoły lub placówki do realizacji działań w zakresie zapewnienia aktywnego i pełnego uczestnictwa dzieci i młodzieży w życiu przedszkola, szkoły i placówki oraz dostępności, o której mowa w ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. z 2020 r. poz. 1062 oraz z 2022 r. poz. 975 i 1079),
+b)
+prowadzeniem badań i działań diagnostycznych związanych z rozpoznawaniem indywidualnych potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych uczniów lub wychowanków w celu określenia mocnych stron, predyspozycji, zainteresowań i uzdolnień uczniów lub wychowanków oraz przyczyn niepowodzeń edukacyjnych lub trudności w funkcjonowaniu uczniów lub wychowanków, w tym barier i ograniczeń utrudniających funkcjonowanie ucznia lub wychowanka i jego uczestnictwo w życiu przedszkola, szkoły lub placówki, we współpracy z nauczycielami,
+c)
+wspieraniem nauczycieli w:
+– rozpoznawaniu przyczyn niepowodzeń edukacyjnych lub trudności w funkcjonowaniu uczniów lub wychowanków, w tym barier i ograniczeń, utrudniających funkcjonowanie ucznia lub wychowanka i jego uczestnictwo w życiu przedszkola, szkoły lub placówki,
+– udzielaniu pomocy psychologiczno-pedagogicznej w bezpośredniej pracy z uczniem lub wychowankiem,
+– dostosowaniu sposobów i metod pracy do indywidualnych potrzeb rozwojowych i edukacyjnych ucznia lub wychowanka oraz jego możliwości psychofizycznych,
+– doborze metod, form kształcenia i środków dydaktycznych do potrzeb uczniów lub wychowanków,
+d)
+rozwiązywaniem problemów dydaktycznych i wychowawczych uczniów lub wychowanków,
+e)
+dokonywaniem wielospecjalistycznej oceny poziomu funkcjonowania dzieci i młodzieży objętych kształceniem specjalnym, o której mowa w przepisach wydanych na podstawie art. 127 ust. 19 pkt 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe oraz w przepisach wydanych na podstawie art. 71b ust. 7 pkt 2 ustawy z dnia 7 września 1991 r. o systemie oświaty – w przypadku nauczycieli zatrudnionych w przedszkolach, szkołach, młodzieżowych ośrodkach wychowawczych, młodzieżowych ośrodkach socjoterapii, specjalnych ośrodkach wychowawczych, specjalnych ośrodkach szkolno-wychowawczych i ośrodkach rewalidacyjno-wychowawczych,
+f)
+określaniem niezbędnych do nauki warunków, sprzętu specjalistycznego i środków dydaktycznych, w tym wykorzystujących technologie informacyjno-komunikacyjne, odpowiednich ze względu na indywidualne potrzeby rozwojowe i edukacyjne oraz możliwości psychofizyczne ucznia lub wychowanka,
+g)
+udzielaniem uczniom lub wychowankom, rodzicom i nauczycielom pomocy psychologiczno-pedagogicznej, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 5 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe oraz w przepisach wydanych na podstawie art. 22 ust. 2 pkt 11 ustawy z dnia 7 września 1991 r. o systemie oświaty,
+h)
+prowadzeniem zajęć rewalidacyjnych, resocjalizacyjnych i socjoterapeutycznych;
+2)
+zajęcia w ramach wczesnego wspomagania rozwoju dzieci, o których mowa w przepisach wydanych na podstawie art. 127 ust. 19 pkt 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe – w przypadku nauczycieli zatrudnionych w przedszkolach, szkołach podstawowych, specjalnych ośrodkach szkolno-wychowawczych, specjalnych ośrodkach wychowawczych i ośrodkach rewalidacyjno-wychowawczych;
+3)
+zajęcia oraz specjalne działania opiekuńczo-wychowawcze, o których mowa w przepisach wydanych na podstawie art. 128 ust. 3 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe oraz w przepisach wydanych na podstawie art. 71c ust. 2 ustawy z dnia 7 września 1991 r. o systemie oświaty – w przypadku nauczycieli zatrudnionych w przedszkolach i szkołach specjalnych, zorganizowanych w podmiotach leczniczych i w jednostkach pomocy społecznej.
+§ 4.
+Traci moc rozporządzenie Ministra Edukacji Narodowej z dnia 3 sierpnia 2018 r. w sprawie wykazu zajęć prowadzonych bezpośrednio z uczniami lub wychowankami albo na ich rzecz przez nauczycieli poradni psychologiczno-pedagogicznych oraz nauczycieli: pedagogów, psychologów, logopedów, terapeutów pedagogicznych i doradców zawodowych (Dz. U. z 2020 r. poz. 1552).
+§ 5.
+Rozporządzenie wchodzi w życie z dniem 1 września 2022 r.
+1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18).
 

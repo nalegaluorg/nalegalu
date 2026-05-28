@@ -8,12 +8,10 @@ pos: 1469
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o drogowych spółkach specjalnego przeznaczenia
-
-*USTAWA z dnia 12 stycznia 2007 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 21 lipca 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o drogowych spółkach specjalnego przeznaczenia
 
 | Pole | Wartość |
 |---|---|
@@ -27,9 +25,23 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-03-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001469) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1469/text.pdf) |
 
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 12 stycznia 2007 r. o drogowych spółkach specjalnego przeznaczenia
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 12 stycznia 2007 r. o drogowych spółkach specjalnego przeznaczenia (Dz. U. z 2019 r. poz. 1348), z uwzględnieniem zmian wprowadzonych ustawą z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020) oraz zmian wynikających z przepisów ogłoszonych przed dniem 7 lipca 2021 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 109 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020), który stanowi:
+„
+
+**Art. 109.** Ustawa wchodzi w życie z dniem 1 stycznia 2021 r., z wyjątkiem:
+
+- **1)** art. 85 pkt 5, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;
+- **2)** art. 88, który wchodzi w życie z dniem 1 marca 2020 r. ” . Załącznik – Tekst jednolity ustawy z dnia 12 stycznia 2007 r. o drogowych spółkach specjalnego przeznaczenia
+
 **Art. 1.**
 
-1. Ustawa określa warunki tworzenia oraz zasady działalności drogowych spółek specjalnego przeznaczenia do przygotowania lub realizacji przedsięwzięć w zakresie budowy, przebudowy, remontu, utrzymania, ochrony i zarządzania drogami krajowymi w rozumieniu ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2020 r. poz. 470, z późn. zm. ), zwanych dalej „przedsięwzięciami drogowymi”.
+1. Ustawa określa warunki tworzenia oraz zasady działalności drogowych spółek specjalnego przeznaczenia do przygotowania lub realizacji przedsięwzięć w zakresie budowy, przebudowy, remontu, utrzymania, ochrony i zarządzania drogami krajowymi w rozumieniu ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2020 r. poz. 470, z późn. zm.), zwanych dalej „przedsięwzięciami drogowymi”.
 
 2. Ustawy nie stosuje się do dróg krajowych w miastach na prawach powiatu, zarządzanych przez prezydenta miasta.
 
@@ -45,7 +57,9 @@ source: "isap-pdf"
 
 2. Zawiązując spółkę minister właściwy do spraw transportu obejmuje, w imieniu Skarbu Państwa, wszystkie akcje.
 
-3. Kapitał zakładowy spółki wynosi nie mniej niż 1 000 000 zł i jest pokrywany wkładem pieniężnym lub aportem, przy czym wkład pieniężny nie może być niższy niż 500 000 zł. [4. Akcje spółki są imienne.]
+3. Kapitał zakładowy spółki wynosi nie mniej niż 1 000 000 zł i jest pokrywany wkładem pieniężnym lub aportem, przy czym wkład pieniężny nie może być niższy niż 500 000 zł.
+
+4. Akcje spółki są imienne.
 
 5. (uchylony)
 
@@ -57,9 +71,7 @@ source: "isap-pdf"
 
 9. Rada nadzorcza spółki jest powoływana i odwoływana przez ministra właściwego do spraw transportu i składa się z nie mniej niż 5 i nie więcej niż 7 członków. W skład rady nadzorczej spółki wchodzi po jednej osobie wyznaczonej przez ministra właściwego do spraw finansów publicznych, ministra właściwego do spraw rozwoju regionalnego oraz Generalnego Dyrektora Dróg Krajowych i Autostrad.
 
-10. Oświadczenia woli składane spółce przez Skarb Państwa wymagają zachowania formy pisemnej pod rygorem nieważności. Przepisu art. 303 § 2 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2020 r. poz. 1526 i
-
-- **2320)** nie stosuje się.
+10. Oświadczenia woli składane spółce przez Skarb Państwa wymagają zachowania formy pisemnej pod rygorem nieważności. Przepisu art. 303 § 2 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2020 r. poz. 1526 i 2320) nie stosuje się.
 
 11. W sprawach nieuregulowanych w ustawie do spółki stosuje się przepisy ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych.
 
@@ -96,9 +108,7 @@ source: "isap-pdf"
 
 1. Do udzielania przez spółkę zamówień, których przedmiotem są dostawy, usługi lub roboty budowlane, stosuje się przepisy ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2021 r. poz. 1129), z uwzględnieniem ust. 2.
 
-2. Spółka może zawrzeć umowę koncesji na roboty budowlane lub usługi jako zamawiający w rozumieniu ustawy z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi (Dz. U. z 2021 r. poz. 541) lub umowę o partnerstwie publiczno-prywatnym jako podmiot publiczny w rozumieniu ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2020 r. poz. 711 i 2275 oraz z 2021 r. poz. 868).
-
-**Art. 5a.** W przypadku gdy spółka wykonuje obowiązek zarządcy drogi, o którym mowa w art. 20 pkt 12 ustawy z dnia 21 marca 1985 r. o drogach publicznych, przepis art. 20h tej ustawy stosuje się odpowiednio.
+2. Spółka może zawrzeć umowę koncesji na roboty budowlane lub usługi jako zamawiający w rozumieniu ustawy z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi (Dz. U. z 2021 r. poz. 541) lub umowę o partnerstwie publiczno-prywatnym jako podmiot publiczny w rozumieniu ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2020 r. poz. 711 i 2275 oraz z 2021 r. poz. 868). W przypadku gdy spółka wykonuje obowiązek zarządcy drogi, o którym mowa w art. 20 pkt 12 ustawy z dnia 21 marca 1985 r. o drogach publicznych, przepis art. 20h tej ustawy stosuje się odpowiednio.
 
 **Art. 6.**
 
@@ -116,7 +126,24 @@ source: "isap-pdf"
 
 **Art. 7.** Umowa, o której mowa w art. 6 ust. 1, odpowiednio do zakresu przedsięwzięcia drogowego, określa w szczególności:
 
-**Art. 7a.**
+- **1)** cel i przedmiot przedsięwzięcia drogowego, z określeniem, które z zadań wymienionych w art. 4 ust. 2 zostają powierzone spółce;
+- **2)** harmonogram przygotowania lub realizacji przedsięwzięcia drogowego;
+- **3)** normy jakościowe, wymagania i standardy stosowane przy realizacji przedsięwzięcia drogowego;
+- **4)** łączną wartość środków przewidzianych na przygotowanie lub realizację przedsięwzięcia drogowego będącego przedmiotem umowy, z podaniem przewidywanych źródeł ich pochodzenia oraz warunków ich przekazywania na finansowanie przedsięwzięcia drogowego;
+- **5)** szczegółowe warunki realizacji zadań powierzonych spółce;
+- **6)** szczegółowe warunki przejęcia od Generalnego Dyrektora Dróg Krajowych i Autostrad dokumentacji dotyczącej przygotowania lub realizacji przedsięwzięcia drogowego stanowiącego przedmiot umowy;
+- **7)** tytuł prawny do korzystania z nieruchomości położonych w granicach pasa drogowego, nabytych przez spółkę lub przejętych od Generalnego Dyrektora Dróg Krajowych i Autostrad;
+- **8)** tytuł prawny do nieruchomości udostępnianych przez spółkę wykonawcom lub operatorom lub sposób korzystania przez wykonawcę lub operatora z tych nieruchomości;
+- **9)** warunki korzystania przez spółkę z budynków, budowli i innych urządzeń usytuowanych w granicach pasa drogowego;
+- **10)** warunki poboru opłat za przejazd autostradą;
+- **10a)** (uchylony)
+- **11)** wysokość i warunki wypłaty wynagrodzenia spółki;
+- **12)** warunki zwrotu przez spółkę pasa drogowego drogi objętej przedsięwzięciem drogowym oraz dokumentacji dotyczącej tego przedsięwzięcia na rzecz Generalnego Dyrektora Dróg Krajowych i Autostrad, po rozwiązaniu umowy;
+- **13)** obowiązki spółki w zakresie określania w umowach zawieranych w związku z przygotowaniem lub realizacją przedsięwzięć drogowych zakresu odpowiedzialności wykonawców za niewykonanie lub nienależyte wykonanie umowy w formie kar umownych;
+- **14)** zakres odpowiedzialności stron;
+- **15)** sposób rozstrzygania sporów wynikłych na tle realizacji umowy;
+- **16)** warunki zmiany i rozwiązania umowy;
+- **17)** zasady wzajemnych rozliczeń w razie rozwiązania umowy.
 
 1. Prawa i obowiązki wynikające z decyzji administracyjnych lub postanowień wydanych na rzecz Generalnego Dyrektora Dróg Krajowych i Autostrad dotyczących przygotowania lub realizacji przedsięwzięcia drogowego stanowiącego przedmiot umowy, o której mowa w art. 6 ust. 1, przechodzą z mocy prawa na drogową spółkę specjalnego przeznaczenia, z dniem zawarcia tej umowy.
 
@@ -140,9 +167,7 @@ source: "isap-pdf"
 
 2. Przygotowanie lub realizacja przedsięwzięcia drogowego powierzonego spółce może być finansowana z wpływów z opłat, o których mowa w art. 4 ust. 2 pkt 7 i 8, jeżeli umowa, o której mowa w art. 6 ust. 1, tak stanowi.
 
-3. Spółce mogą być udzielone przez Skarb Państwa gwarancje i poręczenia zgodnie z przepisami ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2021 r. poz.
-
-- **442)** .
+3. Spółce mogą być udzielone przez Skarb Państwa gwarancje i poręczenia zgodnie z przepisami ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2021 r. poz. 442).
 
 4. Gwarancje i poręczenia, o których mowa w ust. 3, są zwolnione z opłat prowizyjnych.
 
@@ -155,15 +180,11 @@ source: "isap-pdf"
 
 **Art. 9.**
 
-1. W celu realizacji przedsięwzięcia drogowego lub jego części spółka może zawrzeć z wykonawcą umowę na eksploatację drogi, z zastrzeżeniem art. 9a.
+1. W celu realizacji przedsięwzięcia drogowego lub jego części spółka może zawrzeć z wykonawcą umowę na eksploatację drogi, z zastrzeżeniem art. 9a .
 
 2. Do wyboru wykonawcy oraz do zawierania umów, o których mowa w ust. 1, stosuje się przepisy ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, z zastrzeżeniem art. 10.
 
-3. Spółka może powierzyć wykonawcy, o którym mowa w ust. 1, pobieranie opłat, o których mowa w art. 4 ust. 2 pkt 7–8a.
-
-**Art. 9a.** (uchylony)
-
-**Art. 9b.** Warunki umowy, o której mowa w art. 9, wymagają uzgodnienia z ministrem właściwym do spraw finansów publicznych.
+3. Spółka może powierzyć wykonawcy, o którym mowa w ust. 1, pobieranie opłat, o których mowa w art. 4 ust. 2 pkt 78a. (uchylony) Warunki umowy, o której mowa w art. 9, wymagają uzgodnienia z ministrem właściwym do spraw finansów publicznych.
 
 **Art. 10.**
 
@@ -180,5 +201,5 @@ source: "isap-pdf"
 
 2. Koszty, o których mowa w ust. 1, mogą być pokrywane, na wniosek ministra właściwego do spraw transportu, ze środków Krajowego Funduszu Drogowego, o którym mowa w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym.
 
-**Art. 16.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+**Art. 16.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

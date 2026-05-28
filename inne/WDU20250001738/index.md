@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o dopłatach do oprocentowania kredytów bankowych udzielanych przedsiębiorcom dotkniętym skutkami COVID-19 oraz o uproszczonym postępowaniu o zatwierdzenie układu związku wystąpieniem COVID-19
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 27 listopada 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 grudnia 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-12-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001738) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1738/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 27 listopada 2025 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o dopłatach do oprocentowania kredytów bankowych udzielanych przedsiębiorcom dotkniętym skutkami COVID-19 oraz o uproszczonym postępowaniu o zatwierdzenie układu związku wystąpieniem COVID-19
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 19 czerwca 2020 r. o dopłatach do oprocentowania kredytów bankowych udzielanych przedsiębiorcom dotkniętym skutkami COVID-19 oraz o uproszczonym postępowaniu o zatwierdzenie układu związku wystąpieniem COVID-19 (Dz. U. 2022 r. poz. 2141), uwzględnieniem zmian wprowadzonych ustawą dnia 9 lipca 2025 r.
 o zmianie ustawy o kontroli niektórych inwestycji oraz ustawy o dopłatach do oprocentowania kredytów bankowych udzielanych przedsiębiorcom dotkniętym skutkami COVID-19 oraz o uproszczonym postępowaniu o zatwierdzenie układu związku wystąpieniem COVID-19 (Dz. U. poz. 973) oraz zmian wynikających przepisów ogłoszonych przed dniem 25 listopada 2025 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 4 ustawy dnia 9 lipca 2025 r. o zmianie ustawy o kontroli niektórych inwestycji oraz ustawy o dopłatach do oprocentowania kredytów bankowych udzielanych przedsiębiorcom dotkniętym skutkami COVID-19 oraz o uproszczonym postępowaniu o zatwierdzenie układu związku wystąpieniem COVID-19 (Dz. U. poz. 973), który stanowi: „Art. 4. Ustawa wchodzi życie dniem 24 lipca 2025 r.”.
@@ -38,6 +38,9 @@ Art. 26–80. (pominięte)
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
+
+- **1)** art. 2–14 zasady stosowania dopłat do oprocentowania kredytów bankowych udzielanych podmiotom, o których mowa art. 2 ust. 2, które znalazły się trudnej sytuacji finansowej związku ponoszeniem negatywnych konsekwencji ekonomicznych wynikających rozprzestrzeniania się zakażeń wirusem SARS-CoV-2, powodującym chorobę zakaźną, zwaną dalej „COVID-19”, oraz działania podejmowane celu zapobiegania i przeciwdziałania im oraz ich zwalczania;
+- **2)** art. 15–25 zasady prowadzenia uproszczonego postępowania o zatwierdzenie układu związku występowaniem COVID-19.
 
 **Art. 2.**
 
@@ -59,6 +62,10 @@ Art. 26–80. (pominięte)
 #### Rozdział 2 Zasady udzielania kredytów dopłatami
 
 **Art. 4.** O udzielenie kredytu, do którego oprocentowania stosowana jest dopłata, zwanego dalej „kredytem dopłatą”, może ubiegać się przedsiębiorca, który łącznie spełnia następujące warunki:
+
+- **1)** na dzień 31 grudnia 2019 r. nie spełniał kryteriów przedsiębiorstwa znajdującego się trudnej sytuacji rozumieniu art. 2 pkt 18 rozporządzenia Komisji (UE) nr 651/2014 dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne rynkiem wewnętrznym zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 26.06.2014, str. 1, późn. zm. ), zwanego dalej „rozporządzeniem 651/2014”;
+- **2)** wykonuje na terytorium Rzeczypospolitej Polskiej działalność gospodarczą rozumieniu przepisów ustawy dnia 6 marca 2018 r. Prawo przedsiębiorców lub działalność sektorze produkcji podstawowej produktów rolnych, lub zawiesił wykonywanie tej działalności po dniu 1 lutego 2020 r. związku konsekwencjami rozprzestrzeniania się COVID-19;
+- **4)** utracił płynność finansową, rozumianą jako zdolność do spłaty terminie wymagalnych zobowiązań, lub jest zagrożony utratą płynności finansowej, związku konsekwencjami rozprzestrzeniania się COVID-19.
 
 **Art. 5.** Umowy kredytu dopłatą mogą być zawierane do dnia określonego umowie o współpracy, o której mowa art. 8 ust. 1.
 
@@ -280,7 +287,7 @@ Art. 26–80. (pominięte)
 
 3. Nadzorca układu udziela zgody na dokonanie czynności, o których mowa ust. 2, jeżeli jest to niezbędne do zachowania zdolności do bieżącego zaspokajania kosztów postępowania restrukturyzacyjnego i zobowiązań powstałych po jego otwarciu lub zawarcia i wykonania układu oraz zostało zagwarantowane, że środki zostaną przekazane dłużnikowi i wykorzystane dla umożliwienia realizacji planu restrukturyzacji, a ustanowione zabezpieczenie jest adekwatne do udzielonego kredytu lub pożyczki.
 
-**Art. 23.** Dłużnik terminie do wniesienia zażalenia na postanowienie o odmowie zatwierdzenia układu lub ciągu 7 dni od umorzenia postępowania o zatwierdzenie układu, jeżeli umorzenie następuje po złożeniu wniosku o zatwierdzenie układu, może złożyć uproszczony wniosek o otwarcie postępowania sanacyjnego, o którym mowa art. 328 ustawy dnia 15 maja 2015 r. Prawo restrukturyzacyjne, albo uproszczony wniosek o ogłoszenie upadłości, o którym mowa art. 334 tej
+**Art. 23.** Dłużnik terminie do wniesienia zażalenia na postanowienie o odmowie zatwierdzenia układu lub ciągu 7 dni od umorzenia postępowania o zatwierdzenie układu, jeżeli umorzenie następuje po złożeniu wniosku o zatwierdzenie układu, może złożyć uproszczony wniosek o otwarcie postępowania sanacyjnego, o którym mowa art. 328 ustawy dnia 15 maja 2015 r. Prawo restrukturyzacyjne, albo uproszczony wniosek o ogłoszenie upadłości, o którym mowa art. 334 tej rzycielowi, a także osobie trzeciej przysługuje roszczenie o naprawienie szkody.
 
 **Art. 25.**
 
@@ -318,7 +325,7 @@ Art. 26–80. (pominięte)
 
 2. W przypadku, o którym mowa ust. 1, stosunku do przedsiębiorców, którzy uiścili opłatę do dnia 30 czerwca 2020 r. nie stosuje się przepisu art. 18 ust. 12b ustawy dnia 26 października 1982 r. o wychowaniu trzeźwości i przeciwdziałaniu alkoholizmowi.
 
-3. Przepisu ust. 1 nie stosuje się do opłaty za korzystanie zezwoleń na sprzedaż napojów alkoholowych przeznaczonych do spożycia poza miejscem sprzedaży. nym niniejszą ustawą. Czynności dokonane przed dniem wejścia życie niniejszej ustawy pozostają ważne. Organ może ponowić czynności wykonane przed dniem wejścia życie niniejszej ustawy, stosując przepisy brzmieniu nadanym niniejszą ustawą.
+3. Przepisu ust. 1 nie stosuje się do opłaty za korzystanie zezwoleń na sprzedaż napojów alkoholowych przeznaczonych do spożycia poza miejscem sprzedaży. ustaw zmienianych art. 47 i art. 61 stosuje się przepisy ustaw zmienianych art. 47 i art. 61 , brzmieniu nadanym niniejszą ustawą. Czynności dokonane przed dniem wejścia życie niniejszej ustawy pozostają ważne. Organ może ponowić czynności wykonane przed dniem wejścia życie niniejszej ustawy, stosując przepisy brzmieniu nadanym niniejszą ustawą.
 
 **Art. 86.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 10 ust. 4 i art. 16 ust. 2 ustawy zmienianej art. 47 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 10 ust. 4 i art. 16 ust. 2 ustawy zmienianej art. 47 , jednak nie dłużej niż przez 18 miesięcy od dnia wejścia życie niniejszej ustawy, i mogą być zmieniane granicach określonych art. 10 ust. 4 i art. 16 ust. 2 ustawy zmienianej art. 47 .
 
@@ -350,7 +357,7 @@ Art. 26–80. (pominięte)
 
 1. Przepis art. 15qa ustawy zmienianej art. 77 stosuje się do zezwoleń, których ważność upływa po dniu wejścia życie niniejszej ustawy.
 
-2. Opłaty, o których mowa art. 15qa ustawy zmienianej art. 77 , wniesione do dnia 30 kwietnia 2020 r. uważa się za wniesione terminie. przepisy dotychczasowe.
+2. Opłaty, o których mowa art. 15qa ustawy zmienianej art. 77 , wniesione do dnia 30 kwietnia 2020 r. uważa się za wniesione terminie. wszczętych i niezakończonych przed dniem wejścia życie art. 15va i art. 15vb ustawy zmienianej art. 77 , stosuje się przepisy dotychczasowe.
 
 2. Do umów sprawie zamówienia publicznego, o których mowa ustawie zmienianej art. 49 , zawartych:
 
@@ -409,4 +416,16 @@ Art. 26–80. (pominięte)
 4. W przypadku niewykorzystania roku 2020 lub 2021 przyjętego maksymalnego limitu wydatków, o którym mowa ust. 1 pkt 1 i 2, maksymalny limit wydatków na kolejny rok budżetowy może zostać odpowiednio zwiększony.
 
 **Art. 103.** Ustawa wchodzi życie dniem następującym po dniu ogłoszenia , wyjątkiem:
+
+- **1)** art. 50, art. 58 i art. 89, które wchodzą życie po upływie 30 dni od dnia ogłoszenia;
+- **2)** art. 70 pkt 1 i art. 76, które wchodzą życie dniem 1 stycznia 2021 r.;
+- **3)** art. 75, który wchodzi życie dniem następującym po dniu ogłoszenia, mocą od dnia 14 listopada 2019 r.;
+- **4)** art. 77:
+    - **a)** pkt 3 lit. a, b i e, pkt 4 lit. a–c oraz pkt 5 i 10, które wchodzą życie dniem następującym po dniu ogłoszenia, mocą od dnia 25 maja 2020 r.,
+    - **b)** pkt 34–36, które wchodzą życie po upływie 30 dni od dnia ogłoszenia,
+    - **c)** pkt 58 zakresie art. 31q ust. 8, który wchodzi życie dniem następującym po dniu ogłoszenia, mocą od dnia 1 kwietnia 2020 r.,
+    - **d)** pkt 27 i 60, które wchodzą życie dniem następującym po dniu ogłoszenia, mocą od dnia 31 marca 2020 r.;
+
+- **5)** art. 77 pkt 24 i art. 93, które wchodzą życie po upływie 7 dni od dnia ogłoszenia. (pominięty)
+
 

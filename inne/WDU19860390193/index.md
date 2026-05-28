@@ -22,10 +22,14 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1986-10-24 |
 | Data wydania | 1986-10-31 |
+| Wejście w życie | 1986-10-31 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19860390193) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1986/193/text.pdf) |
 
 **Art. 1.** W Kodeksie wykroczeń wprowadza się następujące zmiany:
+
+- **1)** w art. 25 w § 1 wyrazy „orzeka się” zastępuje się wyrazami „można orzec”,
+- **2)** po art. 52 dodaje się art. 52a w brzmieniu: „
 
 **Art. 52a.**
 

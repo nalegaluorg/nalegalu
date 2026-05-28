@@ -2,24 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 15 lipca 1987 r. o Rzeczniku Praw Obywatelskich.*
 
-Łącznie: **22** orzeczeń
-(pominięto 10 orzeczeń sądów rejonowych)
-
-## art. 1 (1)
-
-- 2020-07-07 | SO | [V ACa 511/19](https://www.saos.org.pl/judgments/425893) | Wyrok
-
-## art. 8 (1)
-
-- 2018-02-22 | SO | [I ACa 2172/16](https://www.saos.org.pl/judgments/346149) | Wyrok
-
-## art. 9 (1)
-
-- 2025-12-15 | SO | [VIII U 2212/25](https://www.saos.org.pl/judgments/542591) | Uzasadnienie
-
-## art. 11 (1)
-
-- 2012-09-21 | SO | [I ACa 273/12](https://www.saos.org.pl/judgments/7369) | Wyrok
+Łącznie: **8** orzeczeń
 
 ## art. 12 (1)
 
@@ -29,7 +12,7 @@ Orzeczenia powołujące: *Ustawa z dnia 15 lipca 1987 r. o Rzeczniku Praw Obywat
 
 - 1997-09-02 | TK | [U 7/97](https://www.saos.org.pl/judgments/105197) | Postanowienie ★
 
-## art. 14 (16)
+## art. 14 (6)
 
 - 1989-10-24 | TK | [K 6/89](https://www.saos.org.pl/judgments/205412) | Wyrok ★
 - 1989-09-26 | TK | [K 3/89](https://www.saos.org.pl/judgments/205410) | Wyrok ★
@@ -37,26 +20,4 @@ Orzeczenia powołujące: *Ustawa z dnia 15 lipca 1987 r. o Rzeczniku Praw Obywat
 - 1991-10-02 | TK | [W 6/91](https://www.saos.org.pl/judgments/205499) | Postanowienie ★
 - 1989-12-18 | TK | [U 6/89](https://www.saos.org.pl/judgments/205427) | Postanowienie ★
 - 1989-11-28 | TK | [U 9/89](https://www.saos.org.pl/judgments/205429) | Postanowienie ★
-- 2025-02-27 | SO | [III AUa 401/24](https://www.saos.org.pl/judgments/524193) | Wyrok
-- 2018-02-22 | SO | [I ACa 2172/16](https://www.saos.org.pl/judgments/346149) | Wyrok
-- 2017-12-20 | SO | [III AUa 507/17](https://www.saos.org.pl/judgments/325961) | Wyrok
-- 2017-02-03 | SO | [VI ACa 1849/15](https://www.saos.org.pl/judgments/285813) | Wyrok
-- 2016-12-22 | SO | [I ACa 1080/16](https://www.saos.org.pl/judgments/268289) | Wyrok
-- 2014-01-09 | SO | [I ACa 841/13](https://www.saos.org.pl/judgments/41729) | Wyrok
-- 2012-09-21 | SO | [I ACa 273/12](https://www.saos.org.pl/judgments/7369) | Wyrok
-- 2020-10-01 | SO | [I ACz 289/20](https://www.saos.org.pl/judgments/425779) | Postanowienie
-- 2018-03-27 | SO | [II Ca 2471/17](https://www.saos.org.pl/judgments/361468) | Wyrok
-- 2019-11-08 | SO | [III Ca 1436/19](https://www.saos.org.pl/judgments/415534) | Uzasadnienie
-
-## art. 17 (1)
-
-- 2020-07-07 | SO | [V ACa 511/19](https://www.saos.org.pl/judgments/425893) | Wyrok
-
-## art. 20 (1)
-
-- 2020-12-30 | SO | [I ACa 858/19](https://www.saos.org.pl/judgments/492237) | Wyrok
-
-## (ogólnie) (1)
-
-- 2013-01-08 | SO | [I ACa 697/12](https://www.saos.org.pl/judgments/5883) | Wyrok
 

@@ -3,7 +3,6 @@
 Orzeczenia powołujące: *Ustawa z dnia 28 marca 1933 r. o grobach i cmentarzach wojennych.*
 
 Łącznie: **1** orzeczeń
-(pominięto 1 orzeczeń sądów rejonowych)
 
 ## art. 3 (1)
 

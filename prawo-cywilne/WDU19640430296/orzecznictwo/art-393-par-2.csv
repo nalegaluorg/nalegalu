@@ -5,7 +5,6 @@ saos_id|date|court|case_number|type|score|saos_url
 107256|2005-03-31|TK|SK 26/02|Wyrok|98|https://www.saos.org.pl/judgments/107256
 206165|2003-06-09|TK|SK 5/03|Wyrok|98|https://www.saos.org.pl/judgments/206165
 106691|2003-01-28|TK|SK 37/01|Wyrok|98|https://www.saos.org.pl/judgments/106691
-92779|2010-08-18|SN|II PZP 7/10|Uchwała|89|https://www.saos.org.pl/judgments/92779
 108662|2008-10-07|TK|SK 55/06|Postanowienie|80|https://www.saos.org.pl/judgments/108662
 107833|2006-07-20|TK|Ts 102/05|Postanowienie|80|https://www.saos.org.pl/judgments/107833
 107396|2005-12-12|TK|Ts 112/05|Postanowienie|80|https://www.saos.org.pl/judgments/107396
@@ -41,9 +40,6 @@ saos_id|date|court|case_number|type|score|saos_url
 81276|2002-03-14|SN|III KRS 1/02|Wyrok|78|https://www.saos.org.pl/judgments/81276
 77915|1997-11-17|SN|I PKN 366/97|Wyrok|78|https://www.saos.org.pl/judgments/77915
 76959|1995-10-11|SN|I PRN 69/95|Wyrok|78|https://www.saos.org.pl/judgments/76959
-96892|2012-01-26|SN|I PK 128/11|Postanowienie|69|https://www.saos.org.pl/judgments/96892
-96891|2012-01-26|SN|I PK 125/11|Postanowienie|69|https://www.saos.org.pl/judgments/96891
-90081|2009-04-15|SN|V CK 1/09|Postanowienie|69|https://www.saos.org.pl/judgments/90081
 87855|2008-04-16|SN|I CZ 11/08|Postanowienie|69|https://www.saos.org.pl/judgments/87855
 164981|2007-12-07|SN|III CSK 320/07|Postanowienie|69|https://www.saos.org.pl/judgments/164981
 164980|2007-12-07|SN|III CSK 319/07|Postanowienie|69|https://www.saos.org.pl/judgments/164980
@@ -105,6 +101,3 @@ saos_id|date|court|case_number|type|score|saos_url
 76669|1994-10-12|SN|II URN 27/94|Postanowienie|69|https://www.saos.org.pl/judgments/76669
 76540|1994-05-24|SN|I PO 6/94|Postanowienie|69|https://www.saos.org.pl/judgments/76540
 76480|1994-03-30|SN|I PRN 9/94|Postanowienie|69|https://www.saos.org.pl/judgments/76480
-58474|2014-08-06|SO|VI ACa 1587/13|Wyrok|56|https://www.saos.org.pl/judgments/58474
-371623|2019-02-06|SO|I ACz 31/19|Postanowienie|47|https://www.saos.org.pl/judgments/371623
-185400|2015-06-25|SO|III Ca 702/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/185400

@@ -8,12 +8,10 @@ pos: 337
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zasadach obsadzenia w kadencji trwającej w latach 2009–2014 dodatkowego mandatu posła do Parlamentu Europejskiego
-
-*USTAWA z dnia 4 marca 2010 r.*
+# Ustawa z dnia 4 marca 2010 r. o zasadach obsadzenia w kadencji trwającej w latach 2009–2014 dodatkowego mandatu posła do Parlamentu Europejskiego
 
 | Pole | Wartość |
 |---|---|
@@ -24,16 +22,17 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2010-03-04 |
 | Data wydania | 2010-04-08 |
+| Wejście w życie | 2010-04-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100560337) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/337/text.pdf) |
 
-**Art. 1.** Ustawa określa zasady obsadzenia dodatkowego mandatu posła do Parlamentu Europejskiego przypadającego Rzeczypospolitej Polskiej w związku z przepisami prawa Unii Europejskiej określającymi liczbę mandatów posłów do Parlamentu Europejskiego w kadencji trwającej w latach 2009–2014.
+**Art. 1.** Ustawa określa zasady obsadzenia dodatkowego mandatu posła do Parlamentu Europejskiego przypadającego Rzeczypospolitej Polskiej w związku z przepisami prawa Unii Europejskiej określającymi liczbę mandatów posłów do Parlamentu Europejskiego w kadencji trwającej w latach 2009 – 2014.
 
 **Art. 2.** Obsadzenia mandatu, o którym mowa w art. 1, dokonuje się na podstawie wyników głosowania w wyborach do Parlamentu Europejskiego przeprowadzonych w Rzeczypospolitej Polskiej w dniu 7 czerwca 2009 r.
 
 **Art. 3.**
 
-1. Obsadzenia mandatu, o którym mowa w art. 1, dokonuje się stosując odpowiednio zasady określone w przepisach art. 354, art. 356, art. 358 oraz art. 359 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112).
+1. Obsadzenia mandatu, o którym mowa w art. 1, dokonuje się stosując odpowiednio zasady określone w przepisach art. 125, art. 127, art. 129 oraz art. 130 ustawy z dnia 23 stycznia 2004 r. – Ordynacja wyborcza do Parlamentu Europejskiego (Dz. U. Nr 25, poz. 219, z późn. zm.).
 
 2. Państwowa Komisja Wyborcza dokonuje czynności, o których mowa w przepisach wskazanych w ust. 1, z uwzględnieniem liczby mandatów posłów do Parlamentu Europejskiego określonej w przepisach prawa Unii Europejskiej, o których mowa w art. 1.
 
@@ -52,7 +51,6 @@ source: "isap-pdf"
 
 1. Państwowa Komisja Wyborcza wręcza posłowi do Parlamentu Europejskiego, o którym mowa w art. 5, zaświadczenie o obsadzeniu mandatu posła do Parlamentu Europejskiego nie później niż 7 dnia po ogłoszeniu obwieszczenia, o którym mowa w art. 5.
 
-2. Marszałek niezwłocznie po ogłoszeniu obwieszczenia, o którym mowa w art. 5, przesyła Przewodniczącemu Parlamentu Europejskiego zawiadomienie o obsadzeniu mandatu posła do Parlamentu Europejskiego i inne wymagane przez Parlament Europejski dokumenty.
+2.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

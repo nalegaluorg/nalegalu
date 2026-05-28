@@ -8,12 +8,10 @@ pos: 755
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o utworzeniu Uniwersytetu Kazimierza Wielkiego w Bydgoszczy
-
-*USTAWA z dnia 21 kwietnia 2005 r.*
+# Ustawa z dnia 21 kwietnia 2005 r. o utworzeniu Uniwersytetu Kazimierza Wielkiego w Bydgoszczy
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2005-04-21 |
 | Data wydania | 2005-05-23 |
+| Wejście w życie | 2005-06-07 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050900755) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/755/text.pdf) |
 
@@ -43,7 +42,7 @@ source: "isap-pdf"
 
 2. Z dniem utworzenia Uniwersytetu znosi się Akademię Bydgoską im. Kazimierza Wielkiego.
 
-**Art. 4.** Nadzór nad Uniwersytetem sprawuje minister właściwy do spraw szkolnictwa wyższego i nauki.
+**Art. 4.** Nadzór nad Uniwersytetem sprawuje minister właściwy do spraw szkolnictwa wyższego.
 
 **Art. 5.**
 
@@ -58,7 +57,7 @@ source: "isap-pdf"
 1. Z dniem utworzenia Uniwersytetu:
 
 - **1)** pracownicy zatrudnieni w jednostce, o której mowa w art. 3 ust. 1, stają się pracownikami Uniwersytetu;
-- **2)** studenci Akademii Bydgoskiej im. Kazimierza Wielkiego, spełniający wymagania art. 140 ust. 1 ustawy z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. poz. 385, z późn. zm. ) , stają się studentami Uniwersytetu.
+- **2)** studenci Akademii Bydgoskiej im. Kazimierza Wielkiego, spełniający wymagania art. 140 ust. 1 ustawy z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. z 1990 r. Nr 65, poz. 385, z późn. zm.), stają się studentami Uniwersytetu.
 
 2. Osoby przyjęte na pierwszy rok studiów na rok akademicki 2005/2006 do Akademii Bydgoskiej im. Kazimierza Wielkiego z dniem utworzenia Uniwersytetu stają się jego studentami.
 
@@ -72,5 +71,5 @@ source: "isap-pdf"
 
 2. Do dnia 31 grudnia 2005 r. zostaną przeprowadzone wybory organów Uniwersytetu w trybie i na okres ustalony w statucie Uniwersytetu.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

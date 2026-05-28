@@ -22,6 +22,7 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-11-09 |
 | Data wydania | 2015-11-23 |
+| Wejście w życie | 2017-11-13 |
 | Ostatnia zmiana | 2020-02-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001937) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1937/text.pdf) |
 

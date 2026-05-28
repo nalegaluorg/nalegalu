@@ -1,0 +1,67 @@
+---
+title: Rozporządzenie Ministra Edukacji Narodowej z dnia 31 lipca 2019 r. zmieniające rozporządzenie w sprawie klasyfikacji zawodów szkolnictwa zawodowego
+address: WDU20190001536
+eli: DU/2019/1536
+publisher: DU
+year: 2019
+pos: 1536
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 31 lipca 2019 r. zmieniające rozporządzenie w sprawie klasyfikacji zawodów szkolnictwa zawodowego
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2019 poz. 1536 |
+| ISAP | WDU20190001536 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2019-07-31 |
+| Data wydania | 2019-08-16 |
+| Wejście w życie | 2019-09-01 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001536) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1536/text.pdf) |
+
+Treść rozporządzenia
+Na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2019 r. poz. 1148, 1078 i 1287) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Ministra Edukacji Narodowej z dnia 13 marca 2017 r. w sprawie klasyfikacji zawodów szkolnictwa zawodowego (Dz. U. poz. 622 i 2356) w § 1 ust. 2 otrzymuje brzmienie:
+„
+2.
+Klasyfikację, o której mowa w ust. 1, stosuje się:
+1)
+w roku szkolnym 2019/2020 w:
+a)
+klasach II i III dotychczasowego czteroletniego technikum,
+b)
+klasie I branżowej szkoły I stopnia w odniesieniu do oddziałów dla uczniów będących absolwentami dotychczasowego gimnazjum, którzy rozpoczęli naukę z dniem 1 lutego 2019 r.,
+c)
+klasach II i III branżowej szkoły I stopnia w odniesieniu do oddziałów dla uczniów będących absolwentami dotychczasowego gimnazjum,
+d)
+semestrach II-V szkoły policealnej,
+2)
+w roku szkolnym 2020/2021 w:
+a)
+klasach III i IV dotychczasowego czteroletniego technikum,
+b)
+klasie II branżowej szkoły I stopnia będącej kontynuacją klasy, o której mowa w pkt 1 lit. b,
+c)
+klasie III branżowej szkoły I stopnia w odniesieniu do oddziałów dla uczniów będących absolwentami dotychczasowego gimnazjum,
+d)
+semestrach IV i V szkoły policealnej,
+3)
+w roku szkolnym 2021/2022 w:
+a)
+klasie IV dotychczasowego czteroletniego technikum,
+b)
+klasie III branżowej szkoły I stopnia będącej kontynuacją klasy, o której mowa w pkt 2 lit. b
+zgodnie z art. 94 ust. 4 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287).
+” .
+§ 2.
+Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.
+1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055).
+

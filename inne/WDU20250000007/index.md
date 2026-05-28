@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o regionalnych izbach obrachunkowych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 23 grudnia 2024 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 stycznia 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-01-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000007) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/7/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 23 grudnia 2024 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o regionalnych izbach obrachunkowych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia października 1992 r. o regionalnych izbach obrachunkowych (Dz. U. z 2023 r. poz. 1325), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572) oraz zmian wynikających z przepisów ogłoszonych przed dniem 19 grudnia 2024 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 102 i art. 121 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572), które stanowią: „Art. 102. Do informacji o stwierdzonych nieprawidłowościach w zakresie danych dotyczących naliczania subwencji i rozliczeń dotacji celowych za rok 2024 i lata poprzedzające stosuje się art. 10 ustawy zmienianej w art. 59 w brzmieniu dotychczasowym.” „Art. 121. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
 1) art. 19, art. 20, art. 46, art. 56–58, art. 72 pkt 2, art. 73 pkt 1–7, 9–18, 20 i 21, art. 74, art. 76 pkt 2 i 3 oraz art. 77, które wchodzą w życie z dniem 1 stycznia 2025 r.;
@@ -191,6 +191,20 @@ o regionalnych izbach obrachunkowych
 4. Wskazanie nieprawidłowości oraz sposobu i terminu ich usunięcia zawiesza bieg 30-dniowego terminu określonego w art. 91 ust. 1 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2024 r. poz. 1465 i 1572), art. 79 ust. 1 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2024 r. poz. 107) oraz art. 82 ust. 1 ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2024 r. poz. 566), na okres nie dłuższy niż 30 dni.
 
 **Art. 13.** Do zadań izby należy ponadto:
+
+- **1)** wydawanie, na wniosek organu wykonawczego jednostki samorządu terytorialnego, opinii o możliwości spłaty kredytu, pożyczki oraz innych zobowiązań zaliczanych do tytułu dłużnego, o którym mowa w art. 72 ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, a także wykupu papierów wartościowych;
+- **2)** (uchylony)
+- **3)** wydawanie opinii o przedkładanych projektach uchwał budżetowych jednostek samorządu terytorialnego;
+- **4)** (uchylony)
+- **5)** wydawanie opinii o przedkładanych przez zarządy powiatów i województw oraz przez wójtów (burmistrzów, prezydentów miast) sprawozdaniach z wykonania budżetu wraz z informacjami o stanie mienia jednostek samorządu terytorialnego i objaśnieniami;
+- **6)** (uchylony)
+- **7)** (uchylony)
+- **8)** wydawanie opinii o wnioskach komisji rewizyjnych organów stanowiących jednostek samorządu terytorialnego w sprawie absolutorium oraz opinii w sprawie uchwały rady gminy o nieudzieleniu wójtowi absolutorium;
+- **9)** rozpatrywanie spraw dotyczących powiadomień przez skarbnika (głównego księgowego budżetu jednostki samorządu terytorialnego) o przypadkach dokonania kontrasygnaty na pisemne polecenie zwierzchnika, zgodnie z odrębnymi ustawami;
+- **10)** rozpatrywanie innych spraw określonych w odrębnych ustawach;
+- **11)** udzielanie wyjaśnień na wystąpienia podmiotów wymienionych w art. 1 ust. 2 w sprawach dotyczących stosowania przepisów o finansach publicznych;
+- **12)** wydawanie opinii o przedkładanych projektach uchwał o wieloletnich prognozach finansowych;
+- **13)** wydawanie opinii o programach postępowań naprawczych jednostek samorządu terytorialnego.
 
 #### Rozdział 3 Organizacja i zasady działania regionalnych izb obrachunkowych
 

@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o opłatach abonamentowych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 7 listopada 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 listopada 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-11-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001585) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1585/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 7 listopada 2025 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o opłatach abonamentowych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 21 kwietnia 2005 r. o opłatach abonamentowych (Dz. U. 2020 r. poz. 1689), uwzględnieniem zmian wprowadzonych ustawą dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620) oraz zmian wynikających przepisów ogłoszonych przed dniem 6 listopada 2025 r.
 2. Podany załączniku do niniejszego obwieszczenia jednolity tekst ustawy nie obejmuje art. 461 ustawy dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), który stanowi: „Art. 461. Ustawa wchodzi życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia, wyjątkiem:
 1) art. 392 pkt 2 lit. b oraz art. 458, które wchodzą życie dniem następującym po dniu ogłoszenia;
@@ -75,7 +75,7 @@ o opłatach abonamentowych
 
 - **1)** prognozowanych kosztów realizacji misji publicznej, o której mowa art. 21 ust. 1 ustawy o radiofonii i telewizji, oszacowanych na podstawie planu programowo-finansowego, o którym mowa art. 21c ust. 1 tej ustawy, oraz sprawozdania, o którym mowa art. 31b ust. 1 tej ustawy;
 - **2)** możliwości pokrywania kosztów realizacji misji, o której mowa pkt 1, wpływów określonych art. 31 ust. 1 pkt 2–4 ustawy o radiofonii i telewizji;
-- **3)** stopnia i sposobu wykorzystania roku ubiegłym środków, o których mowa art. 2 ust. 1.
+- **3)** stopnia i sposobu wykorzystania roku ubiegłym środków, o których mowa art. 2 ust. 1. góry za okres dłuższy niż jeden miesiąc, uwzględniając:
 - **1)** prognozowaną, na podstawie liczby osób uiszczających opłaty góry za okres dłuższy niż jeden miesiąc roku poprzednim, liczbę osób korzystających tych zniżek;
 - **2)** konieczność zapewnienia pokrycia kosztów realizacji misji, o której mowa ust. 5 pkt 1.
 
@@ -109,7 +109,7 @@ o opłatach abonamentowych
 
 3. Zwolnienia określone ust. 1 pkt 1 i 3–8 przysługują od pierwszego dnia miesiąca następującego po miesiącu, którym złożono placówce pocztowej operatora wyznaczonego rozumieniu ustawy dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. 2025 r. poz. 366, 820 i 1456) oświadczenie o spełnianiu warunków do korzystania tych zwolnień i przedstawiono dokumenty potwierdzające uprawnienie do tych zwolnień.
 
-3a. Zwolnienie określone ust. 1 pkt 2 przysługuje od pierwszego dnia miesiąca następującego po miesiącu, którym osoba ukończyła 75 lat. ze zwolnień od opłat abonamentowych wraz cyfrowym odwzorowaniem dokumentów potwierdzających uprawnienie do tych zwolnień może zostać przekazane operatorowi wyznaczonemu na dedykowany adres poczty elektronicznej.
+3a. Zwolnienie określone ust. 1 pkt 2 przysługuje od pierwszego dnia miesiąca następującego po miesiącu, którym osoba ukończyła 75 lat. nia placówek operatora pocztowego świadczącego usługi powszechne oświadczenie o spełnianiu warunków do korzystania ze zwolnień od opłat abonamentowych wraz cyfrowym odwzorowaniem dokumentów potwierdzających uprawnienie do tych zwolnień może zostać przekazane operatorowi wyznaczonemu na dedykowany adres poczty elektronicznej.
 
 4. Osoby korzystające ze zwolnień od opłat abonamentowych wyjątkiem osób, o których mowa ust. 1 pkt 2, obowiązane są zgłosić placówce pocztowej operatora wyznaczonego, o której mowa ust. 3, zmiany stanu prawnego lub faktycznego, które mają wpływ na uzyskane zwolnienia, terminie 30 dni od dnia, którym taka zmiana nastąpiła.
 
@@ -150,7 +150,7 @@ o opłatach abonamentowych
 
 **Art. 7.**
 
-1. Kontrolę wykonywania obowiązku rejestracji odbiorników radiofonicznych i telewizyjnych oraz obowiązku uiszczania opłaty abonamentowej prowadzi operator wyznaczony rozumieniu ustawy dnia 23 listopada 2012 r. Prawo pocztowe. o ewidencji ludności (Dz. U. 2025 r. poz. 274, 1006, 1176, 1191, 1216 i 1301).
+1. Kontrolę wykonywania obowiązku rejestracji odbiorników radiofonicznych i telewizyjnych oraz obowiązku uiszczania opłaty abonamentowej prowadzi operator wyznaczony rozumieniu ustawy dnia 23 listopada 2012 r. Prawo pocztowe. Elektronicznego Systemu Ewidencji Ludności (PESEL) na zasadach określonych ustawie dnia 24 września 2010 r. o ewidencji ludności (Dz. U. 2025 r. poz. 274, 1006, 1176, 1191, 1216 i 1301).
 
 2. Nadzór nad wykonywaniem kontroli obowiązku rejestracji odbiorników radiofonicznych i telewizyjnych oraz obowiązku pobierania opłaty abonamentowej sprawuje minister właściwy do spraw łączności.
 
@@ -230,7 +230,7 @@ o opłatach abonamentowych
 - **5)** stopę procentową lub sposób jej obliczania;
 - **6)** określenie sposobu i terminów wypłaty należności głównej oraz należności ubocznych;
 - **7)** datę, od której nalicza się oprocentowanie skarbowych papierów wartościowych tej emisji;
-- **8)** termin wykupu oraz zastrzeżenia przedmiocie możliwości wcześniejszego wykupu.
+- **8)** termin wykupu oraz zastrzeżenia przedmiocie możliwości wcześniejszego wykupu. depozycie papierów wartościowych oraz kwocie równej wartości nominalnej wyemitowanych papierów wartościowych.
 
 10. Do emisji skarbowych papierów wartościowych nie stosuje się przepisów art. 98 i art. 102 ustawy dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. 2025 r. poz. 1483) oraz przepisów wydanych na podstawie art. 97 tej ustawy.
 
@@ -272,7 +272,7 @@ o opłatach abonamentowych
 
 11. Do emisji skarbowych papierów wartościowych nie stosuje się przepisów art. 98 i art. 102 ustawy dnia 27 sierpnia 2009 r. o finansach publicznych oraz przepisów wydanych na podstawie art. 97 tej ustawy.
 
-12. Rozporządzanie skarbowymi papierami wartościowymi, o których mowa ust. 1, wymaga zgody ministra właściwego do spraw finansów publicznych. oświadczenia, o którym mowa art. 4 ust. 3.
+12. Rozporządzanie skarbowymi papierami wartościowymi, o których mowa ust. 1, wymaga zgody ministra właściwego do spraw finansów publicznych. dotychczasowych przepisów, pod warunkiem złożenia, terminie 6 miesięcy od dnia wejścia życie niniejszej ustawy, oświadczenia, o którym mowa art. 4 ust. 3.
 
 **Art. 13.** (pominięty)
 

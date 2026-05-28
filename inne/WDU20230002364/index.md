@@ -8,10 +8,10 @@ pos: 2364
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 2 listopada OBWIESZCZENIE PREZESA RADY MINISTRÓW 23 października w sprawie ogłoszenia jednolitego tekstu rozporządzenia w sprawie nadania statutu Ochrony Środowiska
+# Obwieszczenie Prezesa Rady Ministrówz dnia 23 października 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów w sprawie nadania statutu Generalnej Dyrekcji Ochrony Środowiska
 
 | Pole | Wartość |
 |---|---|
@@ -25,29 +25,74 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002364) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2364/text.pdf) |
 
-1. Na podstawie art. 16 ust. 3 ustawy 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych 2019 1461) ogłasza się w załączniku niniejszego obwieszczenia jednolity tekst rozporządzenia 12 listopada 2008 w sprawie nadania statutu Ochrony Środowiska 2015 1350), uwzględnieniem zmian wprowadzonych:
-1) rozporządzeniem 24 sierpnia 2016 zmieniającym rozporządzenie w sprawie nadania statutu Ochrony Środowiska 1380);
-2) rozporządzeniem 13 czerwca zmieniającym rozporządzenie w sprawie nadania statutu Ochrony Środowiska 1140).
-Podany w załączniku niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia 24 sierpnia 2016 zmieniającego rozporządzenie w sprawie nadania statutu Ochrony Środowiska 1380), który stanowi: „§ Rozporządzenie wchodzi w życie po upływie 14 dni od ogłoszenia.”;
-2) § 2 rozporządzenia 13 czerwca zmieniającego rozporządzenie w sprawie nadania statutu Ochrony Środowiska 1140), który stanowi: „§ Rozporządzenie wchodzi w życie po upływie 14 dni od ogłoszenia.”.
-Prezes Ministrów: M. Morawiecki ROZPORZĄDZENIE PREZESA RADY MINISTRÓW 12 listopada 2008 w sprawie nadania statutu Ochrony Środowiska Na podstawie art. 122 ust. 2 ustawy 3 października 2008 o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko 1094, późn. zm. ) zarządza się, co następuje: § 1. Ochrony Środowiska nadaje się statut, stanowiący załącznik rozporządzenia.
-§ Rozporządzenie wchodzi w życie dniem 15 listopada 2008 STATUT GENERALNEJ DYREKCJI OCHRONY ŚRODOWISKA § 1. 1. Generalna Dyrekcja Ochrony Środowiska, zwana dalej „Generalną Dyrekcją”, jest urzędem administracji rządowej obsługującym Generalnego Dyrektora Ochrony Środowiska, zwanego dalej „Generalnym Dyrektorem”, działającym pod jego bezpośrednim nadzorem i kierownictwem.
-Siedzibą jest miasto stołeczne Warszawa.
-§ 1. Generalny Dyrektor kieruje Generalną Dyrekcją przy pomocy zastępców Generalnego Dyrektora, dyrektora generalnego urzędu oraz dyrektorów komórek organizacyjnych i osób zajmujących stanowiska, o których mowa w § 3 ust. 1.
-Zakresy czynności osób, o których mowa w ust. 1, wyłączeniem dyrektora generalnego urzędu, ustala Generalny Dyrektor.
-3. Generalny Dyrektor może udzielać pełnomocnictw dokonywania określonych czynności cywilnoprawnych lub faktycznych lub rodzajów czynności w zakresie jego właściwości.
-4. Generalny Dyrektor może powoływać zespoły opiniodawczo-doradcze o charakterze stałym lub doraźnym, określając cel ich powołania, nazwę, skład osobowy, zakres zadań, tryb działania oraz zasady ich obsługi.
-§ 3. 1. W skład wchodzą następujące komórki organizacyjne i stanowiska:
-1) Departament Ocen Oddziaływania na Środowisko;
-2) Departament Orzecznictwa Administracyjnego;
-3) Departament Realizacji Projektów Środowiskowych;
-4) Departament Zarządzania Zasobami Przyrody;
-5) Biuro Dyrektora Generalnego;
-6) Biuro Prawne;
-7) Zespół spraw Budżetu i Finansów;
-8) Stanowisko spraw Bezpieczeństwa Informacji;
-9) Stanowisko spraw Ochrony Informacji Niejawnych;
-10) Stanowisko spraw koordynacji pomocy technicznej.
+Treść obwieszczenia
+Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 12 listopada 2008 r. w sprawie nadania statutu Generalnej Dyrekcji Ochrony Środowiska
+Załącznik – Statut Generalnej Dyrekcji Ochrony Środowiska
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 12 listopada 2008 r. w sprawie nadania statutu Generalnej Dyrekcji Ochrony Środowiska (Dz. U. z 2015 r. poz. 1350), z uwzględnieniem zmian wprowadzonych:
+1)
+rozporządzeniem Prezesa Rady Ministrów z dnia 24 sierpnia 2016 r. zmieniającym rozporządzenie w sprawie nadania statutu Generalnej Dyrekcji Ochrony Środowiska (Dz. U. poz. 1380);
+2)
+rozporządzeniem Prezesa Rady Ministrów z dnia 13 czerwca 2023 r. zmieniającym rozporządzenie w sprawie nadania statutu Generalnej Dyrekcji Ochrony Środowiska (Dz. U. poz. 1140).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
+1)
+§ 2 rozporządzenia Prezesa Rady Ministrów z dnia 24 sierpnia 2016 r. zmieniającego rozporządzenie w sprawie nadania statutu Generalnej Dyrekcji Ochrony Środowiska (Dz. U. poz. 1380), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+” ;
+2)
+§ 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 czerwca 2023 r. zmieniającego rozporządzenie w sprawie nadania statutu Generalnej Dyrekcji Ochrony Środowiska (Dz. U. poz. 1140), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+” .
+Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 12 listopada 2008 r. w sprawie nadania statutu Generalnej Dyrekcji Ochrony Środowiska
+Na podstawie art. 122 ust. 2 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2023 r. poz. 1094, z późn. zm.) zarządza się, co następuje:
+§ 1.
+Generalnej Dyrekcji Ochrony Środowiska nadaje się statut, stanowiący załącznik do rozporządzenia.
+§ 2.
+Rozporządzenie wchodzi w życie z dniem 15 listopada 2008 r.
+Załącznik – Statut Generalnej Dyrekcji Ochrony Środowiska
+§ 1.
+1.
+Generalna Dyrekcja Ochrony Środowiska, zwana dalej „Generalną Dyrekcją”, jest urzędem administracji rządowej obsługującym Generalnego Dyrektora Ochrony Środowiska, zwanego dalej „Generalnym Dyrektorem”, działającym pod jego bezpośrednim nadzorem i kierownictwem.
+2.
+Siedzibą Generalnej Dyrekcji jest miasto stołeczne Warszawa.
+§ 2.
+1.
+Generalny Dyrektor kieruje Generalną Dyrekcją przy pomocy zastępców Generalnego Dyrektora, dyrektora generalnego urzędu oraz dyrektorów komórek organizacyjnych i osób zajmujących stanowiska, o których mowa w § 3 ust. 1.
+2.
+Zakresy czynności osób, o których mowa w ust. 1, z wyłączeniem dyrektora generalnego urzędu, ustala Generalny Dyrektor.
+3.
+Generalny Dyrektor może udzielać pełnomocnictw do dokonywania określonych czynności cywilnoprawnych lub faktycznych lub rodzajów czynności w zakresie jego właściwości.
+4.
+Generalny Dyrektor może powoływać zespoły opiniodawczo-doradcze o charakterze stałym lub doraźnym, określając cel ich powołania, nazwę, skład osobowy, zakres zadań, tryb działania oraz zasady ich obsługi.
+§ 3.
+1.
+W skład Generalnej Dyrekcji wchodzą następujące komórki organizacyjne i stanowiska:
+1)
+Departament Ocen Oddziaływania na Środowisko;
+2)
+Departament Orzecznictwa Administracyjnego;
+3)
+Departament Realizacji Projektów Środowiskowych;
+4)
+Departament Zarządzania Zasobami Przyrody;
+5)
+Biuro Dyrektora Generalnego;
+6)
+Biuro Prawne;
+7)
+Zespół do spraw Budżetu i Finansów;
+8)
+Stanowisko do spraw Bezpieczeństwa Informacji;
+9)
+Stanowisko do spraw Ochrony Informacji Niejawnych;
+10)
+Stanowisko do spraw koordynacji pomocy technicznej.
+2.
 Organizację wewnętrzną i szczegółowy zakres zadań komórek organizacyjnych określa regulamin organizacyjny nadany przez Generalnego Dyrektora na wniosek dyrektora generalnego urzędu.
 

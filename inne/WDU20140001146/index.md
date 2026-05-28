@@ -8,12 +8,10 @@ pos: 1146
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020
-
-*USTAWA z dnia 11 lipca 2014 r.*
+# Ustawa z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,61 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2014-07-11 |
 | Data wydania | 2014-08-29 |
+| Wejście w życie | 2014-09-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001146) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1146/text.pdf) |
 
-Art. 73–95. (pominięte)
+1.
+Projekt programu Europejskiej Współpracy Terytorialnej, o którym mowa w art. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1299/2013 z dnia 17 grudnia 2013 r. w sprawie przepisów szczegółowych dotyczących wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Europejska współpraca terytorialna” (Dz. Urz. UE L 347 z 20.12.2013, str. 259), zwanego dalej „programem EWT”, minister właściwy do spraw rozwoju regionalnego:
+1)
+udostępnia na stronie internetowej oraz portalu, o którym mowa w art. 115 ust. 1 lit. b rozporządzenia nr 1303/2013, w celu wyrażenia opinii o projekcie programu przez partnerów społecznych i gospodarczych, których zakresu działania dotyczy ten projekt;
+2)
+przekazuje do zaopiniowania Komisji Wspólnej Rządu i Samorządu Terytorialnego.
+2.
+Podmioty, o których mowa w ust. 1, wyrażają opinię w terminie wyznaczonym przez ministra właściwego do spraw rozwoju regionalnego, nie krótszym niż 14 dni od dnia odpowiednio udostępnienia albo przekazania projektu programu EWT do zaopiniowania. Niewyrażenie opinii w terminie oznacza rezygnację z prawa jej wyrażenia.
+3.
+Rada Ministrów wyraża zgodę na przystąpienie do programu EWT, w drodze uchwały, przed skierowaniem go do przyjęcia przez Komisję Europejską.
+4.
+Po przyjęciu programu EWT przez Komisję Europejską minister właściwy do spraw rozwoju regionalnego:
+1)
+przekazuje program EWT Radzie Ministrów do wiadomości;
+2)
+podaje do publicznej wiadomości, w szczególności na swojej stronie internetowej oraz na portalu, o którym mowa w art. 115 ust. 1 lit. b rozporządzenia nr 1303/2013, program EWT oraz termin, od którego ten program jest stosowany;
+3)
+ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” komunikat o adresie strony internetowej oraz portalu, na których zostanie zamieszczony program EWT, a także o terminie, od którego ten program jest stosowany.
+5.
+Przepisy ust. 4 stosuje się odpowiednio w przypadku zmiany programu EWT.
+” ;
+8)
+w art. 26 w ust. 1 pkt 3 otrzymuje brzmienie:
+„
+3)
+przygotowanie i przekazanie Komitetowi Monitorującemu do zatwierdzenia propozycji kryteriów wyboru projektów, spełniających warunki niedyskryminacji i przejrzystości, z uwzględnieniem w szczególności art. 16 i art. 17 rozporządzenia Rady (WE) nr 1083/2006 z dnia 11 lipca 2006 r. ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności i uchylającego rozporządzenie (WE) nr 1260/1999;
+” ;
+9)
+w art. 28 ust. 1 otrzymuje brzmienie:
+„
+1.
+W ramach programu operacyjnego mogą być dofinansowane projekty:
+1)
+indywidualne – o strategicznym znaczeniu dla realizacji programu, wskazywane przez instytucję zarządzającą,
+2)
+systemowe, w tym również projekty pomocy technicznej – polegające na realizacji zadań publicznych przez podmioty działające na podstawie odrębnych przepisów, w zakresie określonym przepisami prawa i dokumentami strategiczno-programowymi przyjętymi przez Radę Ministrów,
+3)
+wyłonione w trybie konkursu
+zgodnie z kryteriami zatwierdzonymi przez Komitet Monitorujący, spełniającymi warunki niedyskryminacji i przejrzystości, z uwzględnieniem w szczególności art. 16 i art. 17 rozporządzenia Rady (WE) nr 1083/2006 z dnia 11 lipca 2006 r. ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności i uchylającego rozporządzenie (WE) nr 1260/1999.
+” ;
+10)
+w art. 35 w ust. 3 pkt 11 otrzymuje brzmienie:
+„
+11)
+innych kwestii związanych z przygotowaniem, realizacją i zamknięciem programów operacyjnych.
+” ;
+11)
+art. 37 otrzymuje brzmienie:
+„
+Do postępowania w zakresie ubiegania się o dofinansowanie oraz udzielania dofinansowania na podstawie niniejszej ustawy ze środków pochodzących z budżetu państwa lub ze środków zagranicznych oraz do ustalania i nakładania korekt finansowych, o których mowa w art. 98 rozporządzenia Rady (WE) nr 1083/2006 z dnia 11 lipca 2006 r. ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności i uchylającego rozporządzenie (WE) nr 1260/1999, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+” .
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -37,9 +86,53 @@ Art. 73–95. (pominięte)
 
 2. Ustawę stosuje się również do Inicjatywy na rzecz zatrudnienia ludzi młodych, o której mowa w art. 16 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1304/2013 z dnia 17 grudnia 2013 r. w sprawie Europejskiego Funduszu Społecznego i uchylającego rozporządzenie Rady (WE) nr 1081/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 470).
 
-3. Ustawy nie stosuje się do programów, o których mowa w art. 15 ust. 4 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2019 r. poz. 1295 i 2020).
+3. Ustawy nie stosuje się do programów, o których mowa w art. 15 ust. 4 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712, z późn. zm.).
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** beneficjent – podmiot, o którym mowa w art. 2 pkt 10 rozporządzenia ogólnego, oraz podmiot, o którym mowa w art. 63 rozporządzenia ogólnego;
+- **2)** decyzja o dofinansowaniu projektu – decyzję podjętą przez jednostkę sektora finansów publicznych, która stanowi podstawę dofinansowania projektu, w przypadku gdy ta jednostka jest jednocześnie wnioskodawcą;
+- **3)** desygnacja – potwierdzenie przez ministra właściwego do spraw rozwoju regionalnego wykonującego zadania państwa członkowskiego spełniania przez instytucję zarządzającą, instytucję pośredniczącą i instytucję wdrażającą lub krajowego kontrolera lub wspólny sekretariat warunków zapewniających prawidłową realizację programu operacyjnego;
+- **4)** dofinansowanie – współfinansowanie UE lub współfinansowanie krajowe z budżetu państwa;
+- **5)** fundusze strukturalne – Europejski Fundusz Rozwoju Regionalnego oraz Europejski Fundusz Społeczny, o których mowa w art. 1 rozporządzenia ogólnego;
+- **6)** Fundusz Spójności – Fundusz Spójności, o którym mowa w art. 1 rozporządzenia ogólnego;
+- **7)** instrument finansowy – instrument finansowy, o którym mowa w części drugiej w tytule IV rozporządzenia ogólnego;
+- **8)** instytucja audytowa – instytucję audytową, o której mowa w art. 127 rozporządzenia ogólnego lub w art. 25 rozporządzenia EWT;
+- **9)** instytucja pośrednicząca – podmiot, któremu została powierzona, w drodze porozumienia albo umowy zawartych z instytucją zarządzającą, realizacja zadań w ramach krajowego lub regionalnego programu operacyjnego;
+- **10)** instytucja wdrażająca – podmiot, któremu została powierzona, w drodze porozumienia albo umowy zawartych z instytucją pośredniczącą, realizacja zadań w ramach krajowego lub regionalnego programu operacyjnego;
+- **11)** instytucja zarządzająca – instytucję, o której mowa w art. 125 rozporządzenia ogólnego lub w art. 23 rozporządzenia EWT;
+- **12)** korekta finansowa – kwotę, o jaką pomniejsza się współfinansowanie UE dla projektu lub programu operacyjnego w związku z nieprawidłowością indywidualną lub systemową;
+- **13)** krajowy kontroler – kontrolera wyznaczonego zgodnie z art. 23 ust. 4 rozporządzenia EWT;
+- **14)** nieprawidłowość indywidualna – nieprawidłowość, o której mowa w art. 2 pkt 36 rozporządzenia ogólnego;
+- **15)** nieprawidłowość systemowa – nieprawidłowość, o której mowa w art. 2 pkt 38 rozporządzenia ogólnego;
+- **16)** portal – portal internetowy, o którym mowa w art. 115 ust. 1 lit. b rozporządzenia ogólnego;
+- **17)** program operacyjny: krajowy program operacyjny – program służący realizacji umowy partnerstwa w zakresie polityki spójności w rozumieniu art. 5 pkt 7a lit. a ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, uchwalony przez Radę Ministrów i przyjęty przez Komisję Europejską, odzwierciedlający cele zawarte we Wspólnych Ramach Strategicznych stanowiących załącznik I do rozporządzenia ogólnego oraz w umowie partnerstwa, które mają być osiągnięte za pomocą funduszy strukturalnych lub Funduszu Spójności, będący podstawą realizacji działań w nim określonych, stanowiący program, o którym mowa w art. 96 rozporządzenia ogólnego, program EWT – program Europejskiej Współpracy Terytorialnej, o którym mowa w art. 8 rozporządzenia EWT, na przystąpienie do którego wyraziła zgodę Rada Ministrów, przyjęty przez Komisję Europejską, odzwierciedlający cele zawarte we Wspólnych Ramach Strategicznych stanowiących załącznik I do rozporządzenia ogólnego oraz w umowie partnerstwa, będący podstawą realizacji działań w nim określonych, regionalny program operacyjny – program służący realizacji umowy partnerstwa w zakresie polityki spójności w rozumieniu art. 5 pkt 7a lit. a ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, uchwalony przez zarząd województwa i przyjęty przez Komisję Europejską, odzwierciedlający cele zawarte we Wspólnych Ramach Strategicznych stanowiących załącznik I do rozporządzenia ogólnego oraz w umowie partnerstwa, które mają być osiągnięte za pomocą funduszy strukturalnych, będący podstawą realizacji działań w nim określonych, stanowiący program, o którym mowa w art. 96 rozporządzenia ogólnego;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **18)** projekt – przedsięwzięcie zmierzające do osiągnięcia założonego celu określonego wskaźnikami, z określonym początkiem i końcem realizacji, zgłoszone do objęcia albo objęte współfinansowaniem UE jednego z funduszy strukturalnych albo Funduszu Spójności w ramach programu operacyjnego;
+- **19)** rozporządzenie EFRR – rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1301/2013 z dnia 17 grudnia 2013 r. w sprawie Europejskiego Funduszu Rozwoju Regionalnego i przepisów szczególnych dotyczących celu „Inwestycje na rzecz wzrostu i zatrudnienia” oraz w sprawie uchylenia rozporządzenia (WE) nr 1080/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 289);
+- **20)** rozporządzenie EFS – rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1304/2013 z dnia 17 grudnia 2013 r. w sprawie Europejskiego Funduszu Społecznego i uchylające rozporządzenie Rady (WE) nr 1081/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 470);
+- **21)** rozporządzenie EWT – rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1299/2013 z dnia 17 grudnia 2013 r. w sprawie przepisów szczegółowych dotyczących wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Europejska współpraca terytorialna” (Dz. Urz. UE L 347 z 20.12.2013, str. 259);
+- **22)** rozporządzenie ogólne – rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiające wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiające przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylające rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320);
+- **23)** system teleinformatyczny – system, o którym mowa w art. 125 ust. 2 lit. d rozporządzenia ogólnego;
+- **24)** system zarządzania i kontroli – system, o którym mowa w części drugiej w tytule VIII rozporządzenia ogólnego;
+- **25)** szczegółowy opis osi priorytetowych programu operacyjnego – dokument przygotowany i przyjęty przez instytucję zarządzającą krajowym albo regionalnym programem operacyjnym oraz zatwierdzony w zakresie kryteriów wyboru projektów przez komitet monitorujący, o którym mowa w art. 47 rozporządzenia ogólnego, określający w szczególności zakres działań lub poddziałań realizowanych w ramach poszczególnych osi priorytetowych programu operacyjnego;
+- **26)** umowa o dofinansowanie projektu: umowę zawartą między właściwą instytucją a wnioskodawcą, którego projekt został wybrany do dofinansowania, zawierającą co najmniej elementy, o których mowa w art. 206 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.), porozumienie, o którym mowa w art. 206 ust. 5 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, zawarte między właściwą instytucją a wnioskodawcą, którego projekt został wybrany do dofinansowania, umowę lub porozumienie zawarte między właściwą instytucją a wnioskodawcą, którego projekt został wybrany do dofinansowania – w ramach programu EWT;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **27)** umowa partnerstwa – umowę partnerstwa, o której mowa w art. 2 pkt 20 rozporządzenia ogólnego;
+- **28)** wnioskodawca – podmiot, który złożył wniosek o dofinansowanie projektu;
+- **29)** wspólny sekretariat – wspólny sekretariat, o którym mowa w art. 23 ust. 2 rozporządzenia EWT;
+- **30)** współfinansowanie krajowe z budżetu państwa – środki budżetu państwa niepochodzące z budżetu środków europejskich, o którym mowa w art. 117 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, wypłacane na rzecz beneficjenta albo wydatkowane przez państwową jednostkę budżetową w ramach projektu, z wyłączeniem podlegających refundacji przez Komisję Europejską środków budżetu państwa przeznaczonych na realizację projektów pomocy technicznej, projektów w ramach programów EWT oraz środków, o których mowa w art. 5 ust. 3 pkt 4 lit. b tiret drugie ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
+- **31)** współfinansowanie UE: środki pochodzące z budżetu środków europejskich, o którym mowa w art. 117 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, oraz podlegające refundacji przez Komisję Europejską środki budżetu państwa przeznaczone na realizację projektów pomocy technicznej, wypłacane na rzecz beneficjenta albo wydatkowane przez państwową jednostkę budżetową w ramach projektu – w przypadku krajowego lub regionalnego programu operacyjnego, środki Europejskiego Funduszu Rozwoju Regionalnego pochodzące z budżetu programu EWT, wypłacane na rzecz beneficjenta w ramach projektu – w przypadku programu EWT;
+    - **a)**
+    - **b)**
+
+- **32)** wytyczne – instrument prawny określający ujednolicone warunki i procedury wdrażania funduszy strukturalnych i Funduszu Spójności skierowane do instytucji uczestniczących w realizacji programów operacyjnych oraz stosowane przez te instytucje na podstawie właściwego porozumienia, kontraktu terytorialnego albo umowy oraz przez beneficjentów na podstawie umowy o dofinansowanie projektu albo decyzji o dofinansowaniu projektu.
 
 **Art. 3.** Minister właściwy do spraw rozwoju regionalnego wykonuje, o ile ustawa nie stanowi inaczej, zadania państwa członkowskiego określone w przepisach rozporządzenia ogólnego.
 
@@ -53,14 +146,14 @@ Art. 73–95. (pominięte)
 
 - **1)** reprezentowaniu Rzeczypospolitej Polskiej w kontaktach z Komisją Europejską w zakresie związanym z realizacją umowy partnerstwa;
 - **2)** udzielaniu, zawieszaniu lub wycofywaniu desygnacji;
-- **3)** wydawaniu wytycznych dotyczących wdrażania funduszy strukturalnych i Funduszu Spójności;
+- **3)** wydawaniu wytycznych dotyczących wdrażania funduszy strukturalnych i Funduszu Spójności, zwanych dalej „wytycznymi horyzontalnymi”;
 - **4)** monitorowaniu realizacji programów operacyjnych;
 - **5)** określaniu celów finansowych i rzeczowych wydatkowania środków w ramach programów operacyjnych na kolejne lata oraz monitorowaniu realizacji tych celów w perspektywie finansowej 2014–2020;
 - **6)** zapewnieniu systemu informacji i promocji w zakresie programów operacyjnych, w tym prowadzeniu portalu.
 
 **Art. 5.**
 
-1. Minister właściwy do spraw rozwoju regionalnego wykonujący zadania państwa członkowskiego, w celu zapewnienia zgodności sposobu realizacji programów operacyjnych z prawem Unii Europejskiej w zakresie wdrażania funduszy strukturalnych i Funduszu Spójności oraz spełniania wymagań określanych przez Komisję Europejską w tym zakresie, a także w celu zapewnienia jednolitości sposobu realizacji programów operacyjnych i prawidłowości realizacji zadań i obowiązków określonych ustawą, może wydać wytyczne dotyczące:
+1. Minister właściwy do spraw rozwoju regionalnego wykonujący zadania państwa członkowskiego, w celu zapewnienia zgodności sposobu realizacji programów operacyjnych z prawem Unii Europejskiej w zakresie wdrażania funduszy strukturalnych i Funduszu Spójności oraz spełniania wymagań określanych przez Komisję Europejską w tym zakresie, a także w celu zapewnienia jednolitości sposobu realizacji programów operacyjnych i prawidłowości realizacji zadań i obowiązków określonych ustawą, może wydać wytyczne horyzontalne dotyczące:
 
 - **1)** ewaluacji programów operacyjnych;
 - **2)** trybu i zakresu sprawozdawczości oraz monitorowania postępu rzeczowego realizacji programów operacyjnych;
@@ -74,21 +167,21 @@ Art. 73–95. (pominięte)
 - **10)** wykorzystania środków pomocy technicznej;
 - **11)** innych kwestii związanych z realizacją i zamknięciem programów operacyjnych.
 
-2. Wytyczne mogą dotyczyć wszystkich programów operacyjnych lub wybranych programów operacyjnych i są skierowane do instytucji uczestniczących w ich realizacji.
+2. Wytyczne horyzontalne mogą dotyczyć wszystkich programów operacyjnych lub wybranych programów operacyjnych i są skierowane do instytucji uczestniczących w ich realizacji.
 
-3. Projekt wytycznych i ich zmian jest przekazywany do zaopiniowania:
+3. Projekt wytycznych horyzontalnych i ich zmian jest przekazywany do zaopiniowania:
 
 - **1)** instytucjom zarządzającym;
-- **2)** ogólnopolskim organizacjom jednostek samorządu terytorialnego, tworzącym stronę samorządową Komisji Wspólnej Rządu i Samorządu Terytorialnego, o której mowa w ustawie z dnia 6 maja 2005 r. o Komisji Wspólnej Rządu i Samorządu Terytorialnego oraz o przedstawicielach Rzeczypospolitej Polskiej w Komitecie Regionów Unii Europejskiej (Dz. U. poz. 759);
-- **3)** organizacjom związkowym i organizacjom pracodawców, reprezentatywnym w rozumieniu ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. z 2018 r. poz. 2232 oraz z 2020 r. poz. 568);
-- **4)** organizacjom pozarządowym, ich związkom i porozumieniom, których przedstawiciele wchodzą w skład Rady Działalności Pożytku Publicznego, o której mowa w art. 35 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2019 r. poz. 688, 1570 i 2020 oraz z 2020 r. poz. 284).
+- **2)** ogólnopolskim organizacjom jednostek samorządu terytorialnego, tworzącym stronę samorządową Komisji Wspólnej Rządu i Samorządu Terytorialnego, o której mowa w ustawie z dnia 6 maja 2005 r. o Komisji Wspólnej Rządu i Samorządu Terytorialnego oraz o przedstawicielach Rzeczypospolitej Polskiej w Komitecie Regionów Unii Europejskiej (Dz. U. Nr 90, poz. 759);
+- **3)** organizacjom związkowym i organizacjom pracodawców reprezentatywnym w rozumieniu ustawy z dnia 6 lipca 2001 r. o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego (Dz. U. Nr 100, poz. 1080, z późn. zm.);
+- **4)** organizacjom pozarządowym, ich związkom i porozumieniom, których przedstawiciele wchodzą w skład Rady Działalności Pożytku Publicznego, o której mowa w art. 35 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2014 r. poz. 1118, 1138 i 1146).
 
 4. Podmioty, o których mowa w ust. 3, przekazują swoje opinie w terminie wyznaczonym przez ministra właściwego do spraw rozwoju regionalnego wykonującego zadania państwa członkowskiego, nie krótszym niż 14 dni, licząc od dnia otrzymania projektu wytycznych albo ich zmian. Nieprzedstawienie opinii w terminie oznacza rezygnację z prawa jej wyrażenia.
 
 5. Minister właściwy do spraw rozwoju regionalnego wykonujący zadania państwa członkowskiego:
 
-- **1)** podaje do publicznej wiadomości, w szczególności na swojej stronie internetowej lub portalu, wytyczne oraz ich zmiany, a także termin, od którego wytyczne lub ich zmiany są stosowane;
-- **2)** ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” komunikat o adresie strony internetowej oraz portalu, na których zostaną zamieszczone wytyczne oraz ich zmiany, a także o terminie, od którego wytyczne lub ich zmiany są stosowane.
+- **1)** podaje do publicznej wiadomości, w szczególności na swojej stronie internetowej lub portalu, wytyczne horyzontalne oraz ich zmiany, a także termin, od którego wytyczne horyzontalne lub ich zmiany są stosowane;
+- **2)** ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” komunikat o adresie strony internetowej oraz portalu, na których zostaną zamieszczone wytyczne horyzontalne oraz ich zmiany, a także o terminie, od którego wytyczne horyzontalne lub ich zmiany są stosowane.
 
 #### Rozdział 3 System realizacji programu operacyjnego
 
@@ -96,11 +189,31 @@ Art. 73–95. (pominięte)
 
 1. System realizacji programu operacyjnego zawiera warunki i procedury obowiązujące instytucje uczestniczące w realizacji programów operacyjnych, obejmujące w szczególności zarządzanie, monitorowanie, sprawozdawczość, kontrolę i ewaluację oraz sposób koordynacji działań podejmowanych przez instytucje.
 
-2. Podstawę systemu realizacji programu operacyjnego mogą stanowić w szczególności przepisy prawa powszechnie obowiązującego, wytyczne, szczegółowy opis osi priorytetowych programu operacyjnego, opis systemu zarządzania i kontroli oraz instrukcje wykonawcze zawierające procedury działania właściwych instytucji.
+2. Podstawę systemu realizacji programu operacyjnego mogą stanowić w szczególności przepisy prawa powszechnie obowiązującego, wytyczne horyzontalne oraz wytyczne, o których mowa w art. 7, szczegółowy opis osi priorytetowych programu operacyjnego, opis systemu zarządzania i kontroli oraz instrukcje wykonawcze zawierające procedury działania właściwych instytucji.
 
-**Art. 7.** (uchylony)
+**Art. 7.**
 
-**Art. 8.** Instytucja zarządzająca podaje do publicznej wiadomości na swojej stronie internetowej oraz na portalu szczegółowy opis osi priorytetowych programu operacyjnego oraz jego zmiany, a także termin, od którego szczegółowy opis osi priorytetowych programu operacyjnego oraz jego zmiany są stosowane.
+1. Instytucja zarządzająca krajowym albo regionalnym programem operacyjnym może wydawać wytyczne dotyczące kwestii szczegółowych dla danego programu operacyjnego, zwane dalej „wytycznymi programowymi”, zgodne z wytycznymi horyzontalnymi.
+
+2. Instytucja zarządzająca krajowym albo regionalnym programem operacyjnym przedstawia projekt wytycznych programowych:
+
+- **1)** ministrowi właściwemu do spraw rozwoju regionalnego wykonującemu zadania państwa członkowskiego w celu stwierdzenia ich zgodności z wytycznymi horyzontalnymi;
+- **2)** instytucji pośredniczącej i instytucji wdrażającej tego programu w celu wyrażenia opinii.
+
+3. Minister właściwy do spraw rozwoju regionalnego wykonujący zadania państwa członkowskiego przedstawia instytucji zarządzającej krajowym albo regionalnym programem operacyjnym informację w sprawie zgodności projektu wytycznych programowych z wytycznymi horyzontalnymi, w terminie wyznaczonym przez instytucję zarządzającą, nie krótszym niż 14 dni, licząc od dnia jego otrzymania. W przypadku nieprzekazania stanowiska we wskazanym terminie uznaje się, że minister właściwy do spraw rozwoju regionalnego stwierdził zgodność wytycznych programowych z wytycznymi horyzontalnymi.
+
+4. W przypadku stwierdzenia niezgodności projektu wytycznych programowych z wytycznymi horyzontalnymi, instytucja zarządzająca może przedstawić ministrowi właściwemu do spraw rozwoju regionalnego wykonującemu zadania państwa członkowskiego projekt wytycznych uwzględniający zastrzeżenia przez niego zgłoszone albo odstępuje od wydania wytycznych.
+
+5. Instytucja pośrednicząca i instytucja wdrażająca przekazują swoje opinie w terminie wyznaczonym przez instytucję zarządzającą, nie krótszym niż 14 dni, licząc od dnia otrzymania projektu wytycznych programowych. Nieprzedstawienie opinii w terminie oznacza rezygnację z prawa jej wyrażenia.
+
+6. Wytyczne programowe nie mogą dotyczyć zagadnień z zakresu wykorzystania środków pomocy technicznej, które zostały zawarte w wytycznych horyzontalnych.
+
+7. Przepisy ust. 1–6 stosuje się odpowiednio w przypadku zmiany wytycznych programowych, w tym wynikających z konieczności dostosowania wytycznych programowych do wytycznych horyzontalnych.
+
+**Art. 8.** Instytucja zarządzająca:
+
+- **1)** podaje do publicznej wiadomości, w szczególności na swojej stronie internetowej oraz na portalu, szczegółowy opis osi priorytetowych programu operacyjnego, wytyczne programowe oraz ich zmiany, a także termin, od którego szczegółowy opis osi priorytetowych programu operacyjnego oraz wytyczne programowe lub ich zmiany są stosowane;
+- **2)** ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” komunikat o adresie strony internetowej oraz portalu, na których zostaną zamieszczone szczegółowy opis osi priorytetowych programu operacyjnego, wytyczne programowe oraz ich zmiany, a także o terminie, od którego szczegółowy opis osi priorytetowych programu operacyjnego, wytyczne programowe oraz ich zmiany są stosowane – w przypadku krajowego programu operacyjnego albo programu EWT, a w przypadku regionalnego programu operacyjnego – w wojewódzkim dzienniku urzędowym.
 
 #### Rozdział 4 System instytucjonalny
 
@@ -121,10 +234,10 @@ Art. 73–95. (pominięte)
 - **6)** pełnienie funkcji instytucji certyfikującej, o której mowa w art. 123 ust. 2 rozporządzenia ogólnego;
 - **7)** prowadzenie kontroli realizacji programu operacyjnego, w tym weryfikacja prawidłowości wydatków ponoszonych przez beneficjentów – w przypadku krajowego albo regionalnego programu operacyjnego;
 - **8)** nakładanie korekt finansowych;
-- **9)** odzyskiwanie kwot podlegających zwrotowi, w szczególności kwot związanych z nałożeniem korekt finansowych, na zasadach określonych w ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych albo w umowie o dofinansowanie projektu, albo w decyzji o dofinansowaniu projektu, w tym:
-    - **a)** wydawanie decyzji o zwrocie środków przeznaczonych na realizację programów, projektów lub zadań oraz decyzji o zapłacie odsetek, o których mowa odpowiednio w art. 207 ust. 9 i art. 189 ust. 3b ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych,
-    - **b)** wydawanie decyzji o umorzeniu w całości albo w części oraz o odroczeniu albo rozłożeniu na raty spłaty należności wynikających z obowiązku zwrotu środków przeznaczonych na realizację programów, projektów lub zadań, o których mowa w art. 61 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych,
-    - **c)** rozpatrywanie odwołań od decyzji, o których mowa w lit. a i b, wydawanych w pierwszej instancji przez instytucję pośredniczącą albo instytucję wdrażającą;
+- **9)** odzyskiwanie kwot podlegających zwrotowi, w szczególności kwot związanych z nałożeniem korekt finansowych, na zasadach określonych w ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych albo w umowie o dofinansowanie projektu, albo w decyzji o dofinansowaniu projektu, w tym: wydawanie decyzji o zwrocie środków przeznaczonych na realizację programów, projektów lub zadań oraz decyzji o zapłacie odsetek, o których mowa odpowiednio w art. 207 ust. 9 i art. 189 ust. 3b ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, wydawanie decyzji o umorzeniu w całości albo w części oraz o odroczeniu albo rozłożeniu na raty spłaty należności wynikających z obowiązku zwrotu środków przeznaczonych na realizację programów, projektów lub zadań, o których mowa w art. 61 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, rozpatrywanie odwołań od decyzji, o których mowa w lit. a i b, wydawanych w pierwszej instancji przez instytucję pośredniczącą albo instytucję wdrażającą;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **10)** ewaluacja programu operacyjnego;
 - **11)** monitorowanie postępów realizacji programu operacyjnego;
@@ -166,9 +279,7 @@ Art. 73–95. (pominięte)
 
 3. W przypadku, o którym mowa w art. 24 ust. 11 pkt 1, instytucja, która dopuściła się uchybień, jest obowiązana do zapewnienia środków na wypłatę równowartości dofinansowania należnego beneficjentowi lub zwrotu kwoty równej kwocie dofinansowania już wypłaconego beneficjentowi.
 
-4. Zasady odpowiedzialności finansowej instytucji pośredniczącej oraz instytucji wdrażającej określa porozumienie albo umowa, o których mowa w art. 10 ust. 1 albo
-
-2.
+4. Zasady odpowiedzialności finansowej instytucji pośredniczącej oraz instytucji wdrażającej określa porozumienie albo umowa, o których mowa w art. 10 ust. 1 albo 2.
 
 **Art. 12.**
 
@@ -183,7 +294,7 @@ Art. 73–95. (pominięte)
 
 4. Przepisy art. 10 ust. 3–7 oraz art. 11 stosuje się odpowiednio.
 
-**Art. 13.** Instytucją audytową jest Szef Krajowej Administracji Skarbowej. Instytucja audytowa pełni również funkcję niezależnego podmiotu audytowego, o którym mowa w rozporządzeniu ogólnym.
+**Art. 13.** Instytucją audytową jest Generalny Inspektor Kontroli Skarbowej. Instytucja audytowa pełni również funkcję niezależnego podmiotu audytowego, o którym mowa w rozporządzeniu ogólnym.
 
 **Art. 14.**
 
@@ -201,11 +312,11 @@ Art. 73–95. (pominięte)
 - **1)** ministra właściwego do spraw rozwoju regionalnego,
 - **2)** ministrów właściwych ze względu na zakres programu operacyjnego,
 - **3)** ogólnopolskich organizacji jednostek samorządu terytorialnego tworzących stronę samorządową Komisji Wspólnej Rządu i Samorządu Terytorialnego, o której mowa w ustawie z dnia 6 maja 2005 r. o Komisji Wspólnej Rządu i Samorządu Terytorialnego oraz o przedstawicielach Rzeczypospolitej Polskiej w Komitecie Regionów Unii Europejskiej,
-- **4)** organizacji związkowych i organizacji pracodawców, reprezentatywnych w rozumieniu ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego, których przedstawiciele wchodzą w skład:
-    - **a)** Rady Dialogu Społecznego – w przypadku krajowego programu operacyjnego,
-    - **b)** właściwej wojewódzkiej rady dialogu społecznego – w przypadku regionalnego programu operacyjnego,
+- **4)** organizacji związkowych i organizacji pracodawców reprezentatywnych w rozumieniu ustawy z dnia 6 lipca 2001 r. o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego, których przedstawiciele wchodzą w skład: Trójstronnej Komisji do Spraw Społeczno-Gospodarczych – w przypadku krajowego programu operacyjnego, właściwej wojewódzkiej komisji dialogu społecznego – w przypadku regionalnego programu operacyjnego,
+    - **a)**
+    - **b)**
 
-- **5)** Rady Głównej Nauki i Szkolnictwa Wyższego lub Konferencji Rektorów Akademickich Szkół Polskich – o wyznaczenie, z uwzględnieniem zakresu programu operacyjnego, jednego lub więcej przedstawicieli do składu komitetu monitorującego.
+- **5)** Rady Głównej Nauki i Szkolnictwa Wyższego lub Konferencji Rektorów Akademickich Szkół Polskich o wyznaczenie, z uwzględnieniem zakresu programu operacyjnego, jednego lub więcej przedstawicieli do składu komitetu monitorującego.
 
 5. Podmioty, o których mowa w ust. 4, mogą zrezygnować z wyznaczenia przedstawicieli do składu komitetu monitorującego, o czym pisemnie informują instytucję zarządzającą.
 
@@ -213,7 +324,7 @@ Art. 73–95. (pominięte)
 
 - **1)** organizacji związkowych, organizacji pracodawców i izb gospodarczych,
 - **2)** organizacji pozarządowych, o których mowa w ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie,
-- **3)** środowiska naukowego – stanowią łącznie co najmniej jedną trzecią składu.
+- **3)** środowiska naukowego stanowią łącznie co najmniej jedną trzecią składu.
 
 7. Instytucja zarządzająca określa rodzaj i liczbę organizacji pozarządowych oraz liczbę ich przedstawicieli w składzie komitetu monitorującego.
 
@@ -224,41 +335,9 @@ Art. 73–95. (pominięte)
 - **1)** Rada Działalności Pożytku Publicznego, o której mowa w art. 35 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie – w odniesieniu do komitetu monitorującego krajowy program operacyjny oraz w odniesieniu do komitetu monitorującego regionalny program operacyjny, jeżeli w danym województwie nie utworzono Wojewódzkiej Rady Działalności Pożytku Publicznego;
 - **2)** Wojewódzka Rada Działalności Pożytku Publicznego, o której mowa w art. 41a ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie – w odniesieniu do komitetu monitorującego regionalny program operacyjny.
 
-9a. Instytucja zarządzająca regionalnym programem operacyjnym informuje właściwego wojewodę o posiedzeniach komitetu monitorującego.
-
-9b. Na pisemny wniosek wojewody instytucja zarządzająca właściwym regionalnym programem operacyjnym umożliwia wojewodzie albo jego przedstawicielowi udział w pracach komitetu monitorującego w charakterze obserwatora.
-
 10. Komitet monitorujący realizuje w szczególności zadania, o których mowa w art. 49 i art. 110 rozporządzenia ogólnego, w tym zatwierdza kryteria wyboru projektów, uwzględniając art. 125 ust. 3 lit. a rozporządzenia ogólnego.
 
-11. Przepisów ust. 2–9b nie stosuje się do programów EWT.
-
-**Art. 14a.**
-
-1. Instytucja zarządzająca jest obowiązana powołać, spośród swoich pracowników, Rzecznika Funduszy Europejskich, zwanego dalej „Rzecznikiem”.
-
-2. Rzecznika może powołać, spośród swoich pracowników, także instytucja uczestnicząca w realizacji programów operacyjnych, inna niż instytucja zarządzająca.
-
-3. Do zadań Rzecznika należy w szczególności:
-
-- **1)** przyjmowanie zgłoszeń dotyczących utrudnień i propozycji usprawnień w zakresie realizacji programu operacyjnego przez właściwą instytucję;
-- **2)** analizowanie zgłoszeń, o których mowa w pkt 1;
-- **3)** udzielanie wyjaśnień w zakresie zgłoszeń, o których mowa w pkt 1;
-- **4)** dokonywanie okresowych przeglądów procedur w ramach programu operacyjnego obowiązujących we właściwej instytucji;
-- **5)** formułowanie propozycji usprawnień dla właściwej instytucji.
-
-4. Właściwa instytucja jest obowiązana zapewnić, że osoba pełniąca funkcję Rzecznika nie będzie wykonywać zadań, które mogłyby bezpośrednio lub pośrednio wpływać na sposób realizacji przez nią zadań, o których mowa w ust. 3.
-
-5. Rzecznik powołany przez instytucję zarządzającą może żądać od Rzecznika powołanego przez instytucję, o której mowa w ust. 2, informacji w zakresie realizacji zadań, o których mowa w ust. 3.
-
-6. Rzecznik powołany przez instytucję, o której mowa w ust. 2, przekazuje informacje w zakresie realizacji zadań, o których mowa w ust. 3, w sposób i w terminie wskazanych przez Rzecznika powołanego przez instytucję zarządzającą.
-
-7. Rzecznik sporządza, w terminie do dnia 31 marca, roczny raport ze swojej działalności za poprzedni rok i przedkłada go instytucji zarządzającej. Instytucja zarządzająca zamieszcza zbiorczy roczny raport na swojej stronie internetowej.
-
-8. Przepisów ust. 3–7 nie stosuje się do procedury odwoławczej.
-
-9. Do realizacji zadań przez Rzecznika nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2020 r. poz. 256), z wyjątkiem działu VIII, który stosuje się odpowiednio.
-
-10. Przepisów ust. 1–9 nie stosuje się do programów EWT.
+11. Przepisów ust. 2–9 nie stosuje się do programów EWT.
 
 #### Rozdział 5 Desygnacja
 
@@ -280,8 +359,6 @@ Art. 73–95. (pominięte)
 - **4)** zawieszanie desygnacji – w przypadku zaprzestania spełniania przez podmiot, o którym mowa w art. 15 ust. 2, warunków określonych w art. 15 ust. 3, w tym w związku z wystąpieniem, o którym mowa w art. 11 ust. 1 pkt 4, do czasu zrealizowania przez ten podmiot działań naprawczych określonych w planie, o którym mowa w ust. 4 pkt 1;
 - **5)** wycofanie desygnacji – w przypadku niezrealizowania przez podmiot, o którym mowa w art. 15 ust. 2, działań naprawczych określonych w planie, o którym mowa w ust. 4 pkt 1;
 - **6)** rozpatrywanie zastrzeżeń podmiotu, któremu odmówiono udzielenia desygnacji, zawieszono albo wycofano desygnację.
-
-1a. Zadania, o których mowa w ust. 1 pkt 2 i 3, w ramach regionalnego programu operacyjnego może wykonywać wojewoda w zakresie i na warunkach określonych w porozumieniu zawartym z ministrem właściwym do spraw rozwoju regionalnego.
 
 2. Udzielenie, zawieszenie lub wycofanie desygnacji może obejmować jeden lub więcej podmiotów, o których mowa w art. 15 ust. 2. W uzasadnionych przypadkach zawieszenie lub wycofanie desygnacji może nastąpić w zakresie określonych osi priorytetowych programu operacyjnego.
 
@@ -307,7 +384,7 @@ Art. 73–95. (pominięte)
 
 10. Udzielenie, zawieszenie oraz wycofanie desygnacji następuje w formie pisemnej.
 
-11. Do udzielenia, zawieszenia oraz wycofania desygnacji nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+11. Do udzielenia, zawieszenia oraz wycofania desygnacji nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2013 r. poz. 267 oraz z 2014 r. poz. 183).
 
 **Art. 17.**
 
@@ -331,7 +408,7 @@ Art. 73–95. (pominięte)
 8. Do zadań komitetu do spraw desygnacji należy w szczególności:
 
 - **1)** udzielanie ministrowi właściwemu do spraw rozwoju regionalnego rekomendacji w zakresie desygnacji, w tym w przypadku wniesienia zastrzeżeń, o których mowa w art. 16 ust. 7,
-- **2)** opiniowanie planu działań naprawczych, o którym mowa w art. 16 ust. 4 pkt 1 – z uwzględnieniem wyników audytów przeprowadzonych przez instytucję audytową, wyników kontroli określonych w art. 16 ust. 1 pkt 2 i 3 oraz wyników kontroli przeprowadzonych przez inne upoważnione podmioty.
+- **2)** opiniowanie planu działań naprawczych, o którym mowa w art. 16 ust. 4 pkt 1 z uwzględnieniem wyników audytów przeprowadzonych przez instytucję audytową, wyników kontroli określonych w art. 16 ust. 1 pkt 2 i 3 oraz wyników kontroli przeprowadzonych przez inne upoważnione podmioty.
 
 9. Komitet do spraw desygnacji jest powoływany na okres realizacji umowy partnerstwa.
 
@@ -359,7 +436,7 @@ Art. 73–95. (pominięte)
 
 - **1)** wnioskuje o przekazanie dofinansowania w formie zaliczki lub refundacji,
 - **2)** wykazuje wydatki poniesione na realizację projektu,
-- **3)** przekazuje informację o postępie realizacji projektu – oraz dokumenty niezbędne do rozliczenia projektu określone w umowie o dofinansowanie projektu lub w decyzji o dofinansowaniu projektu, w szczególności w zakresie monitoringu rzeczowo-finansowego, harmonogramów finansowych i trwałości projektu, są składane przez beneficjenta za pośrednictwem systemu teleinformatycznego.
+- **3)** przekazuje informację o postępie realizacji projektu oraz dokumenty niezbędne do rozliczenia projektu określone w umowie o dofinansowanie projektu lub w decyzji o dofinansowaniu projektu, w szczególności w zakresie monitoringu rzeczowo-finansowego, harmonogramów finansowych i trwałości projektu, są składane przez beneficjenta za pośrednictwem systemu teleinformatycznego.
 
 2. W przypadku gdy z powodów technicznych złożenie dokumentów, o których mowa w ust. 1, za pośrednictwem systemu teleinformatycznego nie jest możliwe, beneficjent, za zgodą właściwej instytucji, składa je w inny sposób wskazany przez tę instytucję.
 
@@ -373,10 +450,10 @@ Art. 73–95. (pominięte)
 
 1. W ramach procedury analizy i zatwierdzania zestawień wydatków, o której mowa w art. 139 rozporządzenia ogólnego, instytucja zarządzająca przekazuje instytucji audytowej:
 
-- **1)** projekt rocznego zestawienia wydatków, o którym mowa w art. 137 rozporządzenia ogólnego, oraz projekty deklaracji zarządczej i rocznego podsumowania, o których mowa w art. 59 ust. 5 lit. a i b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 966/2012 z dnia 25 października 2012 r. w sprawie zasad finansowych mających zastosowanie do budżetu ogólnego Unii oraz uchylającego rozporządzenie Rady (WE, Euratom) nr 1605/2002 (Dz. Urz. UE L 298 z 26.10.2012, str. 1, z późn. zm.), w terminie do dnia 31 października roku, w którym kończy się rok obrachunkowy, którego dotyczy zestawienie wydatków;
+- **1)** aaaprojekt rocznego zestawienia wydatków, o którym mowa w art. 137 rozporządzenia ogólnego, oraz projekty deklaracji zarządczej i rocznego podsumowania, o których mowa w art. 59 ust. 5 lit. a i b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 966/2012 z dnia 25 października 2012 r. w sprawie zasad finansowych mających zastosowanie do budżetu ogólnego Unii oraz uchylającego rozporządzenie Rady (WE, Euratom) nr 1605/2002 (Dz. Urz. UE L 298 z 26.10.2012, str. 1, z późn. zm.), w terminie do dnia 31 października roku, w którym kończy się rok obrachunkowy, którego dotyczy zestawienie wydatków;
 - **2)** ostateczne wersje dokumentów, o których mowa w pkt 1, w terminie do dnia 31 stycznia roku następującego po roku, którego dotyczą te dokumenty.
 
-2. Instytucja audytowa przekazuje instytucji zarządzającej opinię audytową i sprawozdanie, o których mowa w art. 127 ust. 5 lit. a i b rozporządzenia ogólnego, w terminie określonym w art. 59 ust. 5 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 966/2012 z dnia 25 października 2012 r. w sprawie zasad finansowych mających zastosowanie do budżetu ogólnego Unii oraz uchylającego rozporządzenie Rady (WE, Euratom) nr 1605/2002.
+2. aaaInstytucja audytowa przekazuje instytucji zarządzającej aaaopinię audytową i aaasprawozdanie, o których mowa w art. 127 ust. 5 lit. a i b aaarozporządzenia ogólnego, w terminie określonym w art. 59 ust. 5 aaaarozporządzenia Parlamentu Europejskiego i Rady (UE) nr 966/2012 z aaadnia 25 października 2012 r. w sprawie zasad finansowych mających zastosowanie do budżetu ogólnego Unii oraz uchylającego rozporządzenie Rady (WE, Euratom) nr 1605/2002.
 
 #### Rozdział 7 Kontrola i audyt
 
@@ -391,17 +468,17 @@ Art. 73–95. (pominięte)
 2. Kontrole, o których mowa w ust. 1 pkt 1, obejmują:
 
 - **1)** kontrole systemowe służące sprawdzeniu prawidłowości realizacji zadań przez instytucje, którym instytucja zarządzająca, instytucja pośrednicząca lub koordynator EWT powierzyli zadania związane z realizacją programu operacyjnego;
-- **2)** weryfikacje wydatków służące sprawdzeniu prawidłowości i kwalifikowalności poniesionych wydatków, które:
-    - **a)** przybierają formę kontroli składanego przez beneficjenta wniosku o płatność,
-    - **b)** mogą przybrać formę kontroli projektu w miejscu jego realizacji, które mogą być prowadzone również po zakończeniu realizacji projektu,
-    - **c)** mogą przybrać formę kontroli krzyżowych służących zapewnieniu, że wydatki ponoszone w projektach nie są podwójnie finansowane: – w ramach jednego programu operacyjnego, – z kilku różnych funduszy polityki spójności lub instrumentów wsparcia Unii Europejskiej lub z tego samego funduszu polityki spójności w ramach co najmniej dwóch programów operacyjnych, dla których instytucja zarządzająca została ustanowiona na terytorium Rzeczypospolitej Polskiej, – w ramach programu operacyjnego i Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 lub Programu Operacyjnego „Rybactwo i Morze”;
+- **2)** weryfikacje wydatków służące sprawdzeniu prawidłowości i kwalifikowalności poniesionych wydatków, które: przybierają formę kontroli składanego przez beneficjenta wniosku o płatność, mogą przybrać formę kontroli projektu w miejscu jego realizacji, które mogą być prowadzone również po zakończeniu realizacji projektu, mogą przybrać formę kontroli krzyżowych służących zapewnieniu, że wydatki ponoszone w projektach nie są podwójnie finansowane: – z tego samego funduszu polityki spójności w ramach jednego programu operacyjnego, – z kilku różnych funduszy polityki spójności lub instrumentów wsparcia Unii Europejskiej albo z tego samego funduszu polityki spójności w ramach co najmniej dwóch programów operacyjnych, dla których instytucja zarządzająca została ustanowiona na terytorium Rzeczypospolitej Polskiej;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **3)** kontrole na zakończenie realizacji projektu służące sprawdzeniu kompletności dokumentów potwierdzających właściwą ścieżkę audytu, o której mowa w art. 125 ust. 4 lit. d rozporządzenia ogólnego, w odniesieniu do zrealizowanego projektu;
 - **4)** kontrole trwałości, o której mowa w art. 71 rozporządzenia ogólnego.
 
 3. Kontrole, o których mowa w ust. 1 pkt 1, mogą ponadto obejmować kontrole zdolności wnioskodawców ubiegających się o dofinansowanie projektu w ramach trybu pozakonkursowego oraz beneficjentów realizujących projekty wybrane do dofinansowania w takim trybie do prawidłowej i efektywnej realizacji projektów, polegające w szczególności na weryfikacji procedur obowiązujących w zakresie realizacji projektów. Kontrole te mogą mieć charakter kontroli uprzednich, prowadzonych przed dniem otrzymania przez wnioskodawcę informacji o wyborze projektu do dofinansowania, które służą sprawdzeniu potencjału administracyjnego wnioskodawcy do realizacji projektu.
 
-4. Kontrole, o których mowa w ust. 1 pkt 1, mogą także przybrać formę weryfikacji dokumentów w zakresie prawidłowości przeprowadzenia właściwych procedur dotyczących udzielania zamówień publicznych lub udzielania pomocy publicznej. Kontrole te mogą być prowadzone przed dniem otrzymania przez wnioskodawcę informacji o wyborze projektu do dofinansowania.
+4. Kontrole, o których mowa w ust. 1 pkt 1, mogą także przybrać formę weryfikacji dokumentów w zakresie prawidłowości przeprowadzenia właściwych procedur dotyczących udzielania zamówień publicznych lub oceny oddziaływania na środowisko lub udzielania pomocy publicznej. Kontrole te mogą być prowadzone przed dniem otrzymania przez wnioskodawcę informacji o wyborze projektu do dofinansowania.
 
 5. Kontrole, o których mowa w ust. 2 pkt 2 lit. b i c oraz pkt 4, mogą być prowadzone na próbie projektów.
 
@@ -411,19 +488,17 @@ Art. 73–95. (pominięte)
 
 8. Na każdy rok obrachunkowy instytucja zarządzająca lub koordynator EWT sporządza dla programu operacyjnego roczne założenia dotyczące doboru próby do kontroli, o której mowa w ust. 2 pkt 2 lit. b i c tiret pierwsze i pkt 4, oraz doboru próby do weryfikacji dokumentów zgodnie z ust. 6.
 
-9. Do kontroli, o których mowa w ust. 2 pkt 2 lit. a i c i pkt 3, oraz do kontroli przeprowadzanych w trakcie procedury oceny wniosku o dofinansowanie projektu, prowadzonych w formie, o której mowa w ust. 4, nie stosuje się przepisów art. 25, z zastrzeżeniem art. 24 ust. 10.
+9. Do kontroli, o których mowa w ust. 2 pkt 2 lit. a i c, ust. 2 pkt 3, oraz do kontroli przeprowadzanych w trakcie procedury oceny wniosku o dofinansowanie projektu, prowadzonych w formie, o której mowa w ust. 4, nie stosuje się przepisów art. 25.
 
-10. Do kontroli, o których mowa w ust. 3 i 4, przepisy art. 23 ust. 1 i ust. 4– 6 stosuje się odpowiednio.
+10. Do kontroli, o których mowa w ust. 3 i 4, przepisy art. 23 ust. 1 i ust. 4–6 stosuje się odpowiednio.
 
 **Art. 23.**
 
 1. Beneficjent jest obowiązany poddać się kontroli oraz audytowi w zakresie prawidłowości realizacji projektu przeprowadzanych przez instytucję zarządzającą, instytucję pośredniczącą, instytucję wdrażającą, koordynatora EWT, wspólny sekretariat, krajowego kontrolera, a także instytucję audytową, przedstawicieli Komisji Europejskiej i Europejskiego Trybunału Obrachunkowego oraz inne podmioty, uprawnione do przeprowadzania kontroli lub audytu.
 
-1a. Wnioskodawca jest obowiązany poddać się kontroli w zakresie, o którym mowa w art. 22 ust. 3 i 4.
-
 2. Kontrole w miejscu realizacji projektu przeprowadza się na podstawie pisemnego imiennego upoważnienia do przeprowadzenia kontroli.
 
-3. Kontrole oraz audyty mogą być przeprowadzane w każdym czasie od dnia otrzymania przez wnioskodawcę informacji o wyborze projektu do dofinansowania, z wyjątkiem określonym w art. 22 ust. 3 i 4, nie później niż do końca okresu określonego zgodnie z art. 140 ust. 1 rozporządzenia ogólnego, z zastrzeżeniem przepisów, które mogą przewidywać dłuższy termin przeprowadzania kontroli, dotyczących trwałości projektu oraz pomocy publicznej, o której mowa w art. 107 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej, lub pomocy de minimis, o której mowa w rozporządzeniu Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1) i w rozporządzeniu Komisji (UE) nr 360/2012 z dnia 25 kwietnia 2012 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis przyznawanej przedsiębiorstwom wykonującym usługi świadczone w ogólnym interesie gospodarczym (Dz. Urz. UE L 114 z 26.04.2012, str. 8), oraz podatku od towarów i usług, o którym mowa w ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2020 r. poz. 106 i 568).
+3. Kontrole oraz audyty mogą być przeprowadzane w każdym czasie od dnia otrzymania przez wnioskodawcę informacji o wyborze projektu do dofinansowania, z wyjątkiem określonym w art. 22 ust. 3 i 4, nie później niż do końca okresu określonego zgodnie z art. 140 ust. 1 rozporządzenia ogólnego, z zastrzeżeniem przepisów, które mogą przewidywać dłuższy termin przeprowadzania kontroli, dotyczących trwałości projektu oraz pomocy publicznej, o której mowa w art. 107 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej, lub pomocy de minimis , o której mowa w rozporządzeniu Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1) i w rozporządzeniu Komisji (UE) nr 360/2012 z dnia 25 kwietnia 2012 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis przyznawanej przedsiębiorstwom wykonującym usługi świadczone w ogólnym interesie gospodarczym (Dz. Urz. UE L 114 z 26.04.2012, str. 8), oraz podatku od towarów i usług, o którym mowa w ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.).
 
 4. Kontrole oraz audyty mogą być przeprowadzane w siedzibie kontrolującego na podstawie dostarczonych dokumentów lub w każdym miejscu bezpośrednio związanym z realizacją projektu.
 
@@ -433,7 +508,7 @@ Art. 73–95. (pominięte)
 
 7. Podmioty uprawnione do przeprowadzania kontroli lub audytu, w celu potwierdzenia prawidłowości i kwalifikowalności poniesionych wydatków, mogą zwrócić się o złożenie wyjaśnień do osób zaangażowanych w realizację projektu.
 
-8. W ramach kontroli w miejscu realizacji projektu mogą być przeprowadzane oględziny. Oględziny przeprowadza się w obecności beneficjenta lub osoby reprezentującej beneficjenta.
+8. W ramach kontroli w miejscu realizacji projektu mogą być przeprowadzane oględziny. Oględziny przeprowadza się w obecności beneficjenta.
 
 9. Z czynności kontrolnej polegającej na oględzinach oraz przyjęciu ustnych wyjaśnień lub oświadczeń sporządza się protokół. Protokół podpisują osoba kontrolująca i pozostałe osoby uczestniczące w tej czynności.
 
@@ -462,19 +537,17 @@ Art. 73–95. (pominięte)
 - **1)** przed zatwierdzeniem wniosku o płatność – instytucja zatwierdzająca wniosek o płatność dokonuje pomniejszenia wartości wydatków kwalifikowalnych ujętych we wniosku o płatność złożonym przez beneficjenta o kwotę wydatków poniesionych nieprawidłowo;
 - **2)** w uprzednio zatwierdzonym wniosku o płatność – właściwa instytucja nakłada korektę finansową oraz wszczyna procedurę odzyskiwania od beneficjenta kwoty współfinansowania UE w wysokości odpowiadającej wartości korekty finansowej, zgodnie z art. 207 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, a w przypadku programu EWT – zgodnie z umową o dofinansowanie projektu albo decyzją o dofinansowaniu projektu.
 
-10. W przypadku, o którym mowa w ust. 9 pkt 1, jeżeli beneficjent nie zgadza się ze stwierdzeniem wystąpienia nieprawidłowości indywidualnej oraz pomniejszeniem wartości wydatków kwalifikowalnych ujętych we wniosku o płatność, może zgłosić umotywowane pisemne zastrzeżenia. Przepisy art. 25 ust. 2– 12 stosuje się odpowiednio.
+10. W przypadku, o którym mowa w ust. 9 pkt 1, jeżeli beneficjent nie zgadza się ze stwierdzeniem wystąpienia nieprawidłowości indywidualnej oraz pomniejszeniem wartości wydatków kwalifikowalnych ujętych we wniosku o płatność, może zgłosić umotywowane pisemne zastrzeżenia. Przepisy art. 25 ust. 2–12 stosuje się odpowiednio.
 
 11. W przypadku gdy nieprawidłowość indywidualna wynika bezpośrednio z działania lub zaniechania:
 
 - **1)** właściwej instytucji lub
-- **2)** organów państwa – korygowanie wydatków następuje przez pomniejszenie wydatków ujętych w deklaracji wydatków oraz we wniosku o płatność, przekazywanych do Komisji Europejskiej, o kwotę odpowiadającą oszacowanej wartości korekty finansowej wynikającej z tej nieprawidłowości.
+- **2)** organów państwa korygowanie wydatków następuje przez pomniejszenie wydatków ujętych w deklaracji wydatków oraz we wniosku o płatność, przekazywanych do Komisji Europejskiej, o kwotę odpowiadającą oszacowanej wartości korekty finansowej wynikającej z tej nieprawidłowości.
 
 12. Zaistnienie okoliczności, o których mowa w ust. 11, stwierdza:
 
 - **1)** minister właściwy do spraw rozwoju regionalnego wykonujący zadania państwa członkowskiego – w odniesieniu do instytucji zarządzającej oraz krajowego kontrolera;
 - **2)** instytucja zarządzająca – w odniesieniu do instytucji, którym zostały powierzone zadania zgodnie z art. 10 ust. 1 i 2 oraz art. 12 ust. 3.
-
-12a. W przypadku stwierdzenia przez instytucję zarządzającą wystąpienia okoliczności, o których mowa w ust. 11 pkt 1, instytucja ta wszczyna kontrolę, o której mowa w art. 22 ust. 2 pkt 1.
 
 13. Minister właściwy do spraw rozwoju regionalnego może określić, w drodze rozporządzenia, warunki obniżania wartości korekt finansowych, o których mowa w ust. 5, oraz wartości wydatków poniesionych nieprawidłowo, stanowiących pomniejszenie, o którym mowa w ust. 9 pkt 1, a także ich stawki procentowe, mając na względzie charakter i wagę nieprawidłowości, ich skutki finansowe, a także stanowisko Komisji Europejskiej, o którym mowa w ust. 6.
 
@@ -527,9 +600,9 @@ Art. 73–95. (pominięte)
 
 **Art. 27.**
 
-1. W zakresie, w jakim w ramach programów operacyjnych jest udzielana pomoc publiczna w rozumieniu art. 107 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej lub pomoc de minimis, zastosowanie mają szczegółowe warunki i tryb udzielania pomocy.
+1. W zakresie, w jakim w ramach programów operacyjnych jest udzielana pomoc publiczna w rozumieniu art. 107 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej lub pomoc de minimis , zastosowanie mają szczegółowe warunki i tryb udzielania pomocy.
 
-2. Podmiotami udzielającymi pomocy, o której mowa w ust. 1, są instytucje zarządzające, instytucje pośredniczące, instytucje wdrażające lub beneficjenci, a także inne podmioty, o których mowa w art. 2 pkt 12 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2018 r. poz. 362, z 2019 r. poz. 730 i 1063 oraz z 2020 r. poz. 284).
+2. Podmiotami udzielającymi pomocy, o której mowa w ust. 1, są instytucje zarządzające, instytucje pośredniczące, instytucje wdrażające lub beneficjenci, a także inne podmioty, o których mowa w art. 2 pkt 12 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.).
 
 3. Podmiotami udzielającymi pomocy mogą być również inne podmioty określone w przepisach wykonawczych wydanych na podstawie ust. 4.
 
@@ -547,83 +620,28 @@ Art. 73–95. (pominięte)
 
 3. Tryb wyboru pośredników finansowych przez podmiot wdrażający fundusz funduszy określa się w umowie o finansowanie, o której mowa w art. 38 ust. 7 lit. a rozporządzenia ogólnego.
 
-**Art. 28a.**
-
-1. Instytucja zarządzająca może zapewnić wkład finansowy ze środków programu operacyjnego na rzecz instrumentów finansowych przyczyniających się do niwelowania negatywnych skutków COVID 19.
-
-2. Podmiotem wdrażającym instrumenty finansowe, o których mowa w ust. 1, jest Bank Gospodarstwa Krajowego.
-
 **Art. 29.**
 
-1. Środki finansowe, po wykonaniu zobowiązań wynikających z umowy o dofinansowanie projektu lub decyzji o dofinansowaniu projektu, przypisane do wkładu finansowego z programu operacyjnego, oraz odsetki i inne przychody, a także zyski powstałe na skutek obrotu tymi środkami podlegają zwrotowi na rachunek wskazany przez właściwą instytucję, a następnie są ponownie wykorzystywane:
+1. Środki finansowe zwrócone do instrumentów finansowych, przypisane do wkładu z programu operacyjnego są ponownie wykorzystywane:
 
-- **1)** w okresie kwalifikowalności – na realizację celów określonych zgodnie z art. 44 ust. 1 rozporządzenia ogólnego oraz zgodnie z warunkami określonymi w tym przepisie;
-- **2)** w okresie co najmniej 8 lat po okresie kwalifikowalności – na realizację celów określonych zgodnie z art. 45 rozporządzenia ogólnego;
-- **3)** w okresie następującym po okresie, o którym mowa w pkt 2 – w formie wsparcia finansowego niestanowiącego dotacji, podlegającego całkowitemu albo częściowemu zwrotowi, przyznawanego w szczególności w formie pożyczek, gwarancji lub poręczeń, na realizację celów wynikających z programów rozwoju, o których mowa w ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
+- **1)** w okresie kwalifikowalności – na realizację celów określonych w art. 44 ust. 1 rozporządzenia ogólnego;
+- **2)** po okresie kwalifikowalności – na realizację celów określonych zgodnie z art. 45 rozporządzenia ogólnego.
 
-2. Dysponentem środków finansowych, o których mowa w ust. 1, jest:
+2. W celu ponownego wykorzystania środków, o którym mowa w ust. 1, instytucja zarządzająca otwiera w Banku Gospodarstwa Krajowego rachunek do obsługi instrumentów finansowych.
 
-- **1)** minister właściwy do spraw rozwoju regionalnego – w odniesieniu do środków pochodzących z krajowego programu operacyjnego;
-- **2)** zarząd województwa – w odniesieniu do środków pochodzących z regionalnego programu operacyjnego.
+3. Obsługa finansowa rachunku, o którym mowa w ust. 2, jest prowadzona przez Bank Gospodarstwa Krajowego zgodnie z umową podpisaną między instytucją zarządzającą a Bankiem Gospodarstwa Krajowego.
 
-3. Środki finansowe, o których mowa w ust. 1, nie stanowią dochodu dysponenta ani podmiotów, którym mogą być przekazywane w celu ponownego wykorzystania zgodnie z ust. 1.
-
-4. Środki finansowe, o których mowa w ust. 1, są wydatkowane i rozliczane przez podmioty, którym środki te mogą być przekazywane w celu ponownego wykorzystania zgodnie z ust. 1, na warunkach określonych w umowach lub porozumieniach zawieranych przez dysponenta z tymi podmiotami.
-
-4a. Środki finansowe, o których mowa w ust. 2 pkt 1, wykorzystywane na działalność poręczeniową lub gwarancyjną na rzecz mikroprzedsiębiorców, małych i średnich przedsiębiorców w rozumieniu art. 2 ust. 1 pkt 9a ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2020 r. poz. 122 i 568), po okresie, o którym mowa w ust. 1 pkt 1, zostają przekazane na pokrycie kosztów i wydatków, o których mowa w art. 34g ust. 2 tej ustawy, z zastrzeżeniem art. 45 rozporządzenia ogólnego.
-
-5. Umowy lub porozumienia, o których mowa w ust. 4, określają w szczególności:
-
-- **1)** cele, na jakie zostaną przeznaczone środki finansowe, o których mowa w ust. 1;
-- **2)** okres realizacji umowy lub porozumienia;
-- **3)** mechanizmy zapewniające efektywność wykorzystania środków finansowych, o których mowa w ust. 1;
-- **4)** warunki wycofania środków finansowych, o których mowa w ust. 1;
-- **5)** koszty zarządzania środkami finansowymi, o których mowa w ust. 1, i opłaty za zarządzanie tymi środkami finansowymi;
-- **6)** obowiązki sprawozdawcze wobec dysponenta w zakresie wskazanym w art. 37a ust. 2 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
-
-6. W celu ponownego wykorzystania środków finansowych, o których mowa w ust. 1, dysponent otwiera w Banku Gospodarstwa Krajowego rachunek do obsługi tych środków.
-
-7. Obsługa finansowa rachunku, o którym mowa w ust. 6, jest prowadzona przez Bank Gospodarstwa Krajowego zgodnie z umową zawartą między dysponentem a Bankiem Gospodarstwa Krajowego.
-
-8. Środki finansowe zgromadzone na rachunku, o którym mowa w ust. 6, są uruchamiane przez Bank Gospodarstwa Krajowego na wniosek dysponenta w celu ich ponownego wykorzystania zgodnie z ust. 1.
-
-#### Rozdział 10a Pomoc zwrotna
-
-**Art. 29a.**
-
-1. Środki finansowe stanowiące pomoc zwrotną, o której mowa w rozporządzeniu ogólnym, po wykonaniu zobowiązań wynikających z umowy o dofinansowanie projektu lub decyzji o dofinansowaniu projektu podlegają zwrotowi na rachunek właściwej instytucji wraz z odsetkami i innymi przychodami oraz zyskami powstałymi na skutek obrotu tymi środkami.
-
-2. Dysponentem środków finansowych, o których mowa w ust. 1, jest:
+4. Wyłącznym dysponentem środków finansowych zgromadzonych na rachunku, o którym mowa w ust. 2, jest:
 
 - **1)** minister właściwy do spraw rozwoju regionalnego – w odniesieniu do środków pochodzących z krajowego programu operacyjnego;
 - **2)** zarząd województwa – w odniesieniu do środków pochodzących z regionalnego programu operacyjnego.
 
-3. Środki finansowe, o których mowa w ust. 1, są ponownie wykorzystywane zgodnie z art. 66 akapit drugi rozporządzenia ogólnego w formie wsparcia finansowego niestanowiącego dotacji, podlegającego całkowitemu albo częściowemu zwrotowi, przyznawanego w szczególności w formie pożyczek, gwarancji lub poręczeń przez:
+5. Środki finansowe zgromadzone na rachunku, o którym mowa w ust. 2, są uruchamiane przez Bank Gospodarstwa Krajowego na wniosek instytucji zarządzającej w celu ich ponownego wykorzystania zgodnie z ust. 1.
 
-- **1)** dysponenta;
-- **2)** podmiot pełniący funkcję właściwej instytucji;
-- **3)** inny podmiot.
+6. Po zakończeniu okresu kwalifikowalności zadania instytucji zarządzającej określone w niniejszym rozdziale wykonuje:
 
-4. Środki finansowe, o których mowa w ust. 1, nie stanowią dochodu dysponenta, podmiotu pełniącego funkcję właściwej instytucji ani innego podmiotu, o którym mowa w ust. 3 pkt 3, którym mogą być przekazywane w celu ponownego wykorzystania zgodnie z ust. 3.
-
-5. Środki finansowe, o których mowa w ust. 1, w przypadkach, o których mowa w ust. 3 pkt 2 i 3, są wydatkowane i rozliczane na warunkach określonych w umowach lub porozumieniach zawieranych przez dysponenta odpowiednio z podmiotem pełniącym funkcję właściwej instytucji lub z innym podmiotem, o którym mowa w ust. 3 pkt 3.
-
-6. Umowy lub porozumienia, o których mowa w ust. 5, określają w szczególności:
-
-- **1)** cele, na jakie zostaną przeznaczone środki finansowe, o których mowa w ust. 1;
-- **2)** okres realizacji umowy lub porozumienia;
-- **3)** mechanizmy zapewniające efektywność wykorzystania środków finansowych, o których mowa w ust. 1;
-- **4)** warunki wycofania środków finansowych, o których mowa w ust. 1;
-- **5)** koszty zarządzania środkami finansowymi, o których mowa w ust. 1, i opłaty za zarządzanie tymi środkami finansowymi;
-- **6)** obowiązki sprawozdawcze wobec dysponenta w zakresie wskazanym w art. 37a ust. 2 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
-
-7. W celu ponownego wykorzystania środków finansowych, o których mowa w ust. 1, w przypadkach określonych w ust. 3 pkt 1 i 3, dysponent otwiera w Banku Gospodarstwa Krajowego rachunek do obsługi tych środków.
-
-8. W celu ponownego wykorzystania środków finansowych, o których mowa w ust. 1, w przypadku określonym w ust. 3 pkt 2, środki te są przechowywane na oddzielnym rachunku podmiotu pełniącego funkcję właściwej instytucji albo wydzielane za pomocą kodów księgowych.
-
-9. Obsługa finansowa rachunku, o którym mowa w ust. 7, jest prowadzona przez Bank Gospodarstwa Krajowego zgodnie z umową zawartą między dysponentem a Bankiem Gospodarstwa Krajowego.
-
-10. Środki finansowe zgromadzone na rachunku, o którym mowa w ust. 7, są uruchamiane przez Bank Gospodarstwa Krajowego na wniosek dysponenta w celu ich ponownego wykorzystania zgodnie z ust. 3.
+- **1)** minister właściwy do spraw rozwoju regionalnego – w odniesieniu do środków pochodzących z krajowego programu operacyjnego;
+- **2)** zarząd województwa – w odniesieniu do środków pochodzących z regionalnego programu operacyjnego.
 
 #### Rozdział 11 Szczególne instrumenty realizacji programów operacyjnych
 
@@ -634,18 +652,18 @@ Art. 73–95. (pominięte)
 2. W ramach regionalnego programu operacyjnego ZIT:
 
 - **1)** są realizowane na terenie miast będących siedzibą władz samorządu województwa lub wojewody i obszarów powiązanych z nimi funkcjonalnie,
-- **2)** mogą być realizowane na terenie innych miast i obszarów powiązanych z nimi funkcjonalnie – wyznaczonych zgodnie z warunkami określonymi w umowie partnerstwa.
+- **2)** mogą być realizowane na terenie innych miast i obszarów powiązanych z nimi funkcjonalnie wyznaczonych zgodnie z warunkami określonymi w umowie partnerstwa.
 
 3. ZIT są realizowane przez wyodrębnione działania lub poddziałania w ramach co najmniej dwóch osi priorytetowych regionalnego programu operacyjnego finansowanych z dwóch funduszy strukturalnych.
 
-4. ZIT są zarządzane przez związek ZIT utworzony w formach współpracy jednostek samorządu terytorialnego, o których mowa w ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2019 r. poz. 506, 1309, 1571, 1696 i 1815), albo przez jednostki samorządu terytorialnego na podstawie umowy lub porozumienia o współpracy w celu wspólnej realizacji ZIT zawartych pomiędzy jednostkami samorządu terytorialnego położonymi na obszarze realizacji ZIT, na zasadach określonych w umowie albo porozumieniu.
+4. ZIT są zarządzane przez związek ZIT utworzony w formach współpracy jednostek samorządu terytorialnego, o których mowa w ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2013 r. poz. 594, z późn. zm.), albo przez jednostki samorządu terytorialnego na podstawie umowy lub porozumienia o współpracy w celu wspólnej realizacji ZIT zawartych pomiędzy jednostkami samorządu terytorialnego położonymi na obszarze realizacji ZIT, na zasadach określonych w umowie albo porozumieniu.
 
 5. Warunkami realizacji ZIT są:
 
 - **1)** powołanie związku ZIT albo zawarcie umowy lub porozumienia, o których mowa w ust. 4, pomiędzy jednostkami samorządu terytorialnego położonymi na obszarze realizacji ZIT, określonym przez zarząd województwa w regionalnym programie operacyjnym;
-- **2)** opracowanie przez podmioty, o których mowa w ust. 4, strategii ZIT, o której mowa w art. 7 rozporządzenia EFRR i art. 12 rozporządzenia EFS, oraz jej pozytywne zaopiniowanie w terminie 60 dni od dnia jej otrzymania przez:
-    - **a)** instytucję zarządzającą regionalnym programem operacyjnym – w zakresie możliwości finansowania ZIT w ramach tego programu,
-    - **b)** ministra właściwego do spraw rozwoju regionalnego wykonującego zadania państwa członkowskiego – w zakresie zgodności z umową partnerstwa oraz możliwości finansowania projektów, o których mowa w ust. 7, z krajowych programów operacyjnych, jeżeli strategia ZIT to przewiduje;
+- **2)** opracowanie przez podmioty, o których mowa w ust. 4, strategii ZIT, o której mowa w art. 7 rozporządzenia EFRR i art. 12 rozporządzenia EFS, oraz jej pozytywne zaopiniowanie w terminie 60 dni od dnia jej otrzymania przez: instytucję zarządzającą regionalnym programem operacyjnym – w zakresie możliwości finansowania ZIT w ramach tego programu, ministra właściwego do spraw rozwoju regionalnego wykonującego zadania państwa członkowskiego – w zakresie zgodności z umową partnerstwa oraz możliwości finansowania projektów, o których mowa w ust. 7, z krajowych programów operacyjnych, jeżeli strategia ZIT to przewiduje;
+    - **a)**
+    - **b)**
 
 - **3)** zawarcie porozumienia lub umowy dotyczących realizacji ZIT pomiędzy podmiotami, o których mowa w ust. 4, a właściwą instytucją zarządzającą, zawierających w szczególności zakres powierzonych zadań, obejmujących co najmniej udział podmiotów, o których mowa w ust. 4, w wyborze projektów do dofinansowania przez właściwą instytucję zarządzającą regionalnym programem operacyjnym oraz współpracę z tą instytucją przy przygotowywaniu kryteriów wyboru projektów dla wyodrębnionych działań lub poddziałań służących realizacji ZIT.
 
@@ -658,19 +676,11 @@ Art. 73–95. (pominięte)
 - **1)** diagnozę obszaru realizacji ZIT wraz z analizą problemów rozwojowych;
 - **2)** cele, jakie mają być zrealizowane w ramach ZIT, oczekiwane rezultaty i wskaźniki rezultatu i produktu powiązane z realizacją regionalnego programu operacyjnego;
 - **3)** propozycje kryteriów wyboru projektów w trybie konkursowym;
-- **4)** wstępną listę projektów wybieranych w trybie pozakonkursowym wraz z informacją na temat sposobu ich wskazania oraz powiązania z innymi projektami, w tym projektami wybieranymi w trybie pozakonkursowym pozytywnie zaopiniowanymi przez właściwą instytucję zarządzającą krajowym programem operacyjnym;
+- **4)** wstępną listę projektów wybieranych w trybie pozakonkursowym wraz z informacją na temat sposobu ich identyfikacji oraz powiązania z innymi projektami, w tym projektami wybieranymi w trybie pozakonkursowym pozytywnie zaopiniowanymi przez właściwą instytucję zarządzającą krajowym programem operacyjnym;
 - **5)** źródła jej finansowania;
 - **6)** warunki i procedury obowiązujące w realizacji strategii ZIT.
 
 9. Do strategii ZIT nie stosuje się przepisów ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
-
-**Art. 30a.**
-
-1. Rozwój lokalny kierowany przez społeczność, zwany dalej „RLKS” jest instrumentem rozwoju, o którym mowa w części drugiej w tytule III w rozdziale II rozporządzenia ogólnego.
-
-2. RLKS może być realizowany wyłącznie w ramach regionalnych programów operacyjnych.
-
-3. Realizacja RLKS odbywa się na zasadach określonych w ustawie z dnia 20 lutego 2015 r. o rozwoju lokalnym z udziałem lokalnej społeczności (Dz. U. z 2019 r. poz. 1167), a w zakresie nieuregulowanym w tej ustawie – na zasadach określonych w niniejszej ustawie.
 
 #### Rozdział 12 Projekty
 
@@ -686,19 +696,15 @@ Art. 73–95. (pominięte)
 
 1. W celu wspólnej realizacji projektu, w zakresie określonym przez instytucję zarządzającą krajowym programem operacyjnym albo instytucję zarządzającą regionalnym programem operacyjnym, może zostać utworzone partnerstwo przez podmioty wnoszące do projektu zasoby ludzkie, organizacyjne, techniczne lub finansowe, realizujące wspólnie projekt, zwany dalej „projektem partnerskim”, na warunkach określonych w porozumieniu albo umowie o partnerstwie.
 
-2. Podmiot, o którym mowa w art. 4, art. 5 ust. 1 i art. 6 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. poz. 2019 oraz z 2020 r. poz. 288), inicjujący projekt partnerski, dokonuje wyboru partnerów spośród podmiotów innych niż wymienione w art. 4 tej ustawy, z zachowaniem zasady przejrzystości i równego traktowania. Podmiot ten, dokonując wyboru, jest obowiązany w szczególności do:
+2. Podmiot, o którym mowa w art. 3 ust. 1 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2013 r. poz. 907, z późn. zm.), dokonuje wyboru partnerów spoza sektora finansów publicznych z zachowaniem zasady przejrzystości i równego traktowania podmiotów. Podmiot ten, dokonując wyboru, jest obowiązany w szczególności do:
 
 - **1)** ogłoszenia otwartego naboru partnerów na swojej stronie internetowej wraz ze wskazaniem co najmniej 21-dniowego terminu na zgłaszanie się partnerów;
 - **2)** uwzględnienia przy wyborze partnerów: zgodności działania potencjalnego partnera z celami partnerstwa, deklarowanego wkładu potencjalnego partnera w realizację celu partnerstwa, doświadczenia w realizacji projektów o podobnym charakterze;
 - **3)** podania do publicznej wiadomości na swojej stronie internetowej informacji o podmiotach wybranych do pełnienia funkcji partnera.
 
-3. Wybór partnerów jest dokonywany przed złożeniem wniosku o dofinansowanie.
-
-3a. W przypadkach uzasadnionych koniecznością zapewnienia prawidłowej i terminowej realizacji projektu, za zgodą właściwej instytucji, może nastąpić zmiana partnera. Do zmiany partnera przepis ust. 2 stosuje się odpowiednio.
+3. Wybór partnerów spoza sektora finansów publicznych jest dokonywany przed złożeniem wniosku o dofinansowanie projektu partnerskiego.
 
 4. Do wyboru partnerów z innych niż Rzeczpospolita Polska państw w ramach współpracy ponadnarodowej, o której mowa w art. 10 rozporządzenia EFS, nie stosuje się przepisów ust. 2 pkt 1 i ust. 3.
-
-4a. Podmiot, o którym mowa w art. 4, art. 5 ust. 1 i art. 6 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, niebędący podmiotem inicjującym projekt partnerski, po przystąpieniu do realizacji projektu partnerskiego podaje do publicznej wiadomości w Biuletynie Informacji Publicznej informację o rozpoczęciu realizacji projektu partnerskiego wraz z uzasadnieniem przyczyn przystąpienia do jego realizacji oraz wskazaniem partnera wiodącego w tym projekcie.
 
 5. Porozumienie oraz umowa o partnerstwie określają w szczególności:
 
@@ -709,11 +715,11 @@ Art. 73–95. (pominięte)
 - **5)** sposób przekazywania dofinansowania na pokrycie kosztów ponoszonych przez poszczególnych partnerów projektu, umożliwiający określenie kwoty dofinansowania udzielonego każdemu z partnerów;
 - **6)** sposób postępowania w przypadku naruszenia lub niewywiązania się stron z porozumienia lub umowy.
 
-6. (uchylony)
+6. aaaPorozumienie lub aaaumowa o partnerstwie nie mogą być zawarte pomiędzy podmiotami powiązanymi w rozumieniu załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1).
 
 7. Stroną porozumienia oraz umowy o partnerstwie nie może być podmiot wykluczony z możliwości otrzymania dofinansowania.
 
-8. Przepisów ust. 1–5 i 7 nie stosuje się do projektu hybrydowego, o którym mowa w art. 34 ust. 1, ani w przypadku, gdy odrębne przepisy przewidują inny sposób określania podmiotów wspólnie realizujących projekt.
+8. Przepisów ust. 1–7 nie stosuje się do projektu hybrydowego, o którym mowa w art. 34 ust. 1, oraz w przypadku gdy odrębne przepisy przewidują inny sposób określania podmiotów wspólnie realizujących projekt.
 
 **Art. 34.**
 
@@ -764,41 +770,29 @@ Art. 73–95. (pominięte)
 
 1. Właściwa instytucja przeprowadza wybór projektów do dofinansowania w sposób przejrzysty, rzetelny i bezstronny oraz zapewnia wnioskodawcom równy dostęp do informacji o warunkach i sposobie wyboru projektów do dofinansowania.
 
-2. Projekt podlega ocenie pod względem spełnienia kryteriów wyboru projektów.
+2. Projekt podlega ocenie pod względem spełnienia kryteriów wyboru projektów, zatwierdzonych przez komitet monitorujący, zgodnych z warunkami określonymi w art. 125 ust. 3 lit. a rozporządzenia ogólnego.
 
 3. Nie może zostać wybrany do dofinansowania projekt:
 
 - **1)** którego wnioskodawca został wykluczony z możliwości otrzymania dofinansowania;
 - **2)** zakończony zgodnie z art. 65 ust. 6 rozporządzenia ogólnego.
 
-3a. Właściwa instytucja może wymagać złożenia przez wnioskodawcę oświadczeń niezbędnych do:
-
-- **1)** przeprowadzenia wyboru projektów do dofinansowania lub
-- **2)** zawarcia umowy o dofinansowanie projektu lub podjęcia decyzji o dofinansowaniu projektu.
-
-4. Oświadczenia są składane pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, z wyjątkiem oświadczenia, o którym mowa w art. 41 ust. 2 pkt 7c. Oświadczenia zawierają klauzulę następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywych oświadczeń.”. Klauzula ta zastępuje pouczenie właściwej instytucji o odpowiedzialności karnej za składanie fałszywych zeznań.
+4. Oświadczenia oraz dane zawarte we wniosku o dofinansowanie projektu są składane pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Wniosek o dofinansowanie projektu zawiera klauzulę następującej treści: „Jestem świadomy odpowiedzialności karnej za podanie fałszywych danych lub złożenie fałszywych oświadczeń.”. Klauzula ta zastępuje pouczenie właściwej instytucji o odpowiedzialności karnej za składanie fałszywych zeznań.
 
 5. Właściwa instytucja może wymagać od wnioskodawcy wyłącznie informacji i dokumentów niezbędnych do oceny spełniania kryteriów wyboru projektów.
 
-6. Dokumenty i informacje przedstawiane przez wnioskodawców nie podlegają udostępnieniu przez właściwą instytucję w trybie przepisów ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2019 r. poz. 1429).
-
-7. Dokumenty i informacje wytworzone lub przygotowane przez właściwe instytucje w związku z oceną dokumentów i informacji przedstawianych przez wnioskodawców nie podlegają, do czasu rozstrzygnięcia konkursu albo zamieszczenia informacji, o której mowa w art. 48 ust. 6, udostępnieniu w trybie przepisów ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej.
+6. Dokumenty i informacje przedstawiane przez wnioskodawców, z którymi zawarto umowy o dofinansowanie projektu albo w stosunku do których wydano decyzje o dofinansowaniu projektu, a także dokumenty wytworzone lub przygotowane w związku z oceną dokumentów i informacji przedstawianych przez wnioskodawców do czasu rozstrzygnięcia konkursu albo zamieszczenia informacji, o której mowa w art. 48 ust. 6, nie stanowią informacji publicznej w rozumieniu ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2014 r. poz. 782).
 
 **Art. 38.**
 
 1. Wybór projektów do dofinansowania następuje w trybie:
 
 - **1)** konkursowym;
-- **2)** pozakonkursowym;
-- **3)** o którym mowa w art. 132, art. 140, art. 152, art. 169 i art. 208 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych.
+- **2)** pozakonkursowym.
 
 2. Tryb pozakonkursowy może być zastosowany do wyboru projektów, których wnioskodawcami, ze względu na charakter lub cel projektu, mogą być jedynie podmioty jednoznacznie określone przed złożeniem wniosku o dofinansowanie projektu.
 
 3. W trybie pozakonkursowym mogą być wybierane wyłącznie projekty o strategicznym znaczeniu dla społeczno-gospodarczego rozwoju kraju, regionu lub obszaru objętego realizacją ZIT, lub projekty dotyczące realizacji zadań publicznych.
-
-3a. W trybie, o którym mowa w art. 132, art. 140, art. 152, art. 169 i art. 208 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, mogą być wybierane wyłącznie projekty realizowane w ramach instrumentów finansowych, o których mowa w art. 28 ust. 1.
-
-3b. Projekty realizowane w ramach instrumentów finansowych, o których mowa w art. 28 ust. 1, mogą być wybierane wyłącznie w trybie, o którym mowa w ust. 1 pkt 2 albo w art. 132, art. 140, art. 152, art. 169 i art. 208 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych.
 
 4. Wybór określonego trybu należy do właściwej instytucji.
 
@@ -811,8 +805,6 @@ Art. 73–95. (pominięte)
 - **1)** uzyskały wymaganą liczbę punktów albo
 - **2)** uzyskały kolejno największą liczbę punktów, w przypadku gdy kwota przeznaczona na dofinansowanie projektów w konkursie nie wystarcza na objęcie dofinansowaniem wszystkich projektów, o których mowa w pkt 1.
 
-3. Konkurs może być podzielony na rundy. Runda konkursu obejmuje nabór projektów, ocenę spełniania kryteriów wyboru projektów i rozstrzygnięcie właściwej instytucji w zakresie wyboru projektów do dofinansowania.
-
 **Art. 40.**
 
 1. Właściwa instytucja podaje do publicznej wiadomości, w szczególności na swojej stronie internetowej oraz na portalu, ogłoszenie o konkursie, co najmniej 30 dni przed planowanym rozpoczęciem naboru wniosków o dofinansowanie projektu.
@@ -824,8 +816,7 @@ Art. 73–95. (pominięte)
 - **3)** określenie kwoty przeznaczonej na dofinansowanie projektów w konkursie;
 - **4)** określenie maksymalnego dopuszczalnego poziomu dofinansowania projektu lub maksymalnej dopuszczalnej kwoty dofinansowania projektu;
 - **5)** określenie terminu, miejsca i formy składania wniosków o dofinansowanie projektu;
-- **6)** określenie sposobu i miejsca udostępnienia regulaminu konkursu;
-- **7)** informację, czy konkurs jest podzielony na rundy.
+- **6)** określenie sposobu i miejsca udostępnienia regulaminu konkursu.
 
 **Art. 41.**
 
@@ -835,21 +826,16 @@ Art. 73–95. (pominięte)
 
 - **1)** nazwę i adres właściwej instytucji;
 - **2)** przedmiot konkursu, w tym typy projektów podlegających dofinansowaniu;
-- **3)** formę konkursu, w tym wskazuje, czy konkurs jest podzielony na rundy;
-- **4)** termin, miejsce i formę składania wniosków o dofinansowanie projektu i sposób uzupełniania w nich braków w zakresie warunków formalnych oraz poprawiania w nich oczywistych omyłek;
+- **3)** formę konkursu;
+- **4)** termin, miejsce i formę składania wniosków o dofinansowanie projektu i sposób uzupełniania w nich braków formalnych oraz poprawiania w nich oczywistych omyłek;
 - **5)** wzór wniosku o dofinansowanie projektu;
-- **6)** wzór umowy o dofinansowanie projektu lub decyzji o dofinansowaniu projektu;
-- **6a)** czynności, które powinny zostać dokonane przed zawarciem umowy o dofinansowanie projektu lub podjęciem decyzji o dofinansowaniu projektu, oraz wymagane dokumenty i terminy ich przedłożenia właściwej instytucji;
+- **6)** wzór umowy o dofinansowanie projektu;
 - **7)** kryteria wyboru projektów wraz z podaniem ich znaczenia;
-- **7a)** zakres, w jakim jest możliwe uzupełnianie lub poprawianie projektu w części dotyczącej spełniania przez projekt kryteriów wyboru projektów w trakcie jego oceny;
-- **7b)** formę i sposób komunikacji między wnioskodawcą a właściwą instytucją, w tym wzywania wnioskodawcy do uzupełniania lub poprawiania projektu w trakcie jego oceny w części dotyczącej spełniania przez projekt kryteriów wyboru projektów, a także informację o skutkach niezachowania wskazanej formy komunikacji;
-- **7c)** formę złożenia przez wnioskodawcę oświadczenia dotyczącego świadomości skutków niezachowania wskazanej formy komunikacji;
-- **8)** kwotę przeznaczoną na dofinansowanie projektów w konkursie wraz z informacją w zakresie możliwości jej zwiększenia;
+- **8)** kwotę przeznaczoną na dofinansowanie projektów w konkursie;
 - **9)** maksymalny dopuszczalny poziom dofinansowania projektu lub maksymalną dopuszczalną kwotę dofinansowania projektu;
-- **10)** środki odwoławcze przysługujące wnioskodawcy oraz instytucje właściwe do ich rozpatrzenia;
+- **10)** środki odwoławcze przysługujące wnioskodawcy;
 - **11)** sposób podania do publicznej wiadomości wyników konkursu;
-- **12)** formę i sposób udzielania wnioskodawcy wyjaśnień w kwestiach dotyczących konkursu;
-- **13)** informację w zakresie możliwości skrócenia terminu składania wniosków o dofinansowanie projektu.
+- **12)** formę i sposób udzielania wnioskodawcy wyjaśnień w kwestiach dotyczących konkursu.
 
 3. Do czasu rozstrzygnięcia konkursu właściwa instytucja nie może zmieniać regulaminu konkursu w sposób skutkujący nierównym traktowaniem wnioskodawców.
 
@@ -861,69 +847,45 @@ Art. 73–95. (pominięte)
 
 **Art. 43.**
 
-1. W razie stwierdzenia braków w zakresie warunków formalnych we wniosku o dofinansowanie projektu właściwa instytucja wzywa wnioskodawcę do uzupełnienia wniosku w wyznaczonym terminie, nie krótszym niż 7 dni i nie dłuższym niż 21 dni, pod rygorem pozostawienia wniosku bez rozpatrzenia.
+1. W razie stwierdzenia we wniosku o dofinansowanie projektu braków formalnych lub oczywistych omyłek właściwa instytucja wzywa wnioskodawcę do uzupełnienia wniosku lub poprawienia w nim oczywistej omyłki w wyznaczonym terminie nie krótszym niż 7 dni, pod rygorem pozostawienia wniosku bez rozpatrzenia.
 
-2. W razie stwierdzenia oczywistej omyłki we wniosku o dofinansowanie projektu właściwa instytucja poprawia tę omyłkę z urzędu, informując o tym wnioskodawcę, albo wzywa wnioskodawcę do poprawienia oczywistej omyłki w wyznaczonym terminie, nie krótszym niż 7 dni i nie dłuższym niż 21 dni, pod rygorem pozostawienia wniosku bez rozpatrzenia.
-
-3. Terminy określone w wezwaniach, o których mowa w ust. 1 i 2:
-
-- **1)** w przypadku wezwania przekazanego drogą elektroniczną – liczy się od dnia następującego po dniu wysłania wezwania;
-- **2)** w przypadku wezwania przekazanego na piśmie – liczy się od dnia doręczenia wezwania.
-
-4. W przypadku wezwania przekazanego na piśmie do doręczenia wezwania stosuje się przepisy działu I rozdziału 8 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
-
-5. W razie złożenia wniosku o dofinansowanie projektu po terminie wskazanym w ogłoszeniu o konkursie wniosek pozostawia się bez rozpatrzenia.
+2. Uzupełnienie wniosku o dofinansowanie projektu lub poprawienie w nim oczywistej omyłki nie może prowadzić do jego istotnej modyfikacji.
 
 **Art. 44.**
 
 1. Oceny spełnienia kryteriów wyboru projektów przez projekty uczestniczące w konkursie dokonuje komisja oceny projektów.
 
-2. Właściwa instytucja powołuje komisję oceny projektów oraz określa regulamin jej pracy.
+2. Właściwa instytucja powołuje komisję oceny projektów oraz określa regulamin jej pracy. W skład komisji oceny projektów wchodzą pracownicy właściwej instytucji lub eksperci, o których mowa w art. 49.
 
-3. W skład komisji oceny projektów:
+3. Po zakończeniu oceny wszystkich wniosków o dofinansowanie projektu komisja oceny projektów sporządza protokół zawierający informacje o przebiegu i wynikach oceny.
 
-- **1)** wchodzą pracownicy właściwej instytucji;
-- **2)** mogą wchodzić:
-    - **a)** eksperci, o których mowa w art. 68a ust. 1 pkt 1,
-    - **b)** pracownicy tymczasowi, o których mowa w art. 2 pkt 2 ustawy z dnia 9 lipca 2003 r. o zatrudnianiu pracowników tymczasowych (Dz. U. z 2019 r. poz. 1563).
+4. Komisja oceny projektów przygotowuje listę ocenionych projektów zawierającą przyznane oceny, wskazując projekty, o których mowa w art. 39 ust. 2.
 
-4. W przypadku pracowników, o których mowa w ust. 3 pkt 1 i pkt 2 lit. b, w skład komisji oceny projektów mogą wchodzić wyłącznie ci pracownicy, którzy mają wiedzę, umiejętności, doświadczenie lub wymagane uprawnienia w dziedzinie objętej programem operacyjnym, w ramach której jest dokonywany wybór projektu.
+5. Po rozstrzygnięciu konkursu, o którym mowa w art. 46 ust. 1, właściwa instytucja zamieszcza na swojej stronie internetowej informację o składzie komisji oceny projektów.
 
-5. Właściwa instytucja informuje wojewodę o powołaniu komisji oceny projektów w ramach regionalnego programu operacyjnego.
-
-6. Właściwa instytucja, na pisemny wniosek wojewody, umożliwia wojewodzie albo jego przedstawicielowi udział, w charakterze obserwatora, w pracach komisji oceny projektów w ramach regionalnego programu operacyjnego.
-
-7. Właściwa instytucja sprawuje nadzór nad komisją oceny projektów w zakresie zgodności konkursu z przepisami ustawy i regulaminem konkursu.
+6. Właściwa instytucja sprawuje nadzór nad komisją oceny projektów w zakresie zgodności konkursu z przepisami ustawy i regulaminem konkursu.
 
 **Art. 45.**
 
-1. Ocena spełnienia kryteriów wyboru projektów może być podzielona na etapy.
+1. Konkurs może być prowadzony etapami.
 
-2. Po każdym etapie oceny właściwa instytucja zamieszcza na swojej stronie internetowej listę projektów zakwalifikowanych do kolejnego etapu albo listę, o której mowa w art. 46 ust. 3.
+2. Po każdym etapie konkursu właściwa instytucja zamieszcza na swojej stronie internetowej listę projektów zakwalifikowanych do kolejnego etapu albo listę, o której mowa w art. 46 ust. 4.
 
-3. W trakcie oceny spełnienia kryteriów wyboru projektów, na wezwanie właściwej instytucji, wnioskodawca może uzupełnić lub poprawić projekt w części dotyczącej spełniania kryteriów wyboru projektów w zakresie określonym w regulaminie konkursu, jeżeli zostało to przewidziane w przypadku danego kryterium. Uzupełnienia lub poprawienia projektu może dokonać, za zgodą wnioskodawcy, komisja oceny projektów. Właściwa instytucja w trakcie uzupełniania lub poprawiania projektu zapewnia równe traktowanie wnioskodawców.
+**Art. 46.**
 
-4. Właściwa instytucja przekazuje niezwłocznie wnioskodawcy pisemną informację o zakończeniu oceny jego projektu i jej wyniku wraz z uzasadnieniem tej oceny, podając liczbę punktów otrzymanych przez projekt lub informację o spełnieniu albo niespełnieniu kryteriów wyboru projektów. Do doręczenia informacji o zakończeniu oceny projektu i jej wyniku stosuje się przepisy działu I rozdziału 8 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+1. Właściwa instytucja rozstrzyga konkurs, zatwierdzając listę, o której mowa w art. 44 ust. 4.
 
-5. Jeżeli projekt otrzymał negatywną ocenę, o której mowa w art. 53 ust. 2, informacja, o której mowa w ust. 4, zawiera pouczenie o możliwości wniesienia protestu na zasadach i w trybie, o których mowa w art. 53 i art. 54, określające:
+2. Po rozstrzygnięciu konkursu właściwa instytucja może zwiększyć kwotę przeznaczoną na dofinansowanie projektów w konkursie.
+
+3. Właściwa instytucja przekazuje niezwłocznie wnioskodawcy pisemną informację o zakończeniu oceny jego projektu i jej wyniku wraz z uzasadnieniem oceny i podaniem liczby punktów otrzymanych przez projekt lub informacji o spełnieniu albo niespełnieniu kryteriów wyboru projektów.
+
+4. Po rozstrzygnięciu konkursu właściwa instytucja zamieszcza na swojej stronie internetowej oraz na portalu listę projektów wybranych do dofinansowania wyłącznie na podstawie spełnienia kryteriów wyboru projektów albo listę projektów, które uzyskały wymaganą liczbę punktów, z wyróżnieniem projektów wybranych do dofinansowania.
+
+5. Jeżeli projekt otrzymał negatywną ocenę, o której mowa w art. 53 ust. 2, informacja, o której mowa w ust. 3, zawiera pouczenie o możliwości wniesienia protestu na zasadach i w trybie, o których mowa w art. 53 i art. 54, określające:
 
 - **1)** termin do wniesienia protestu;
 - **2)** instytucję, do której należy wnieść protest;
 - **3)** wymogi formalne protestu, o których mowa w art. 54 ust. 2.
-
-6. Komisja oceny projektów przygotowuje listę ocenionych projektów zawierającą przyznane oceny, wskazując projekty, o których mowa w art. 39 ust. 2.
-
-7. Po zakończeniu oceny wszystkich projektów komisja oceny projektów sporządza protokół zawierający informacje o przebiegu i wynikach oceny.
-
-**Art. 46.**
-
-1. Właściwa instytucja rozstrzyga konkurs albo rundę konkursu, zatwierdzając listę, o której mowa w art. 45 ust. 6.
-
-2. Po rozstrzygnięciu konkursu albo rundy konkursu właściwa instytucja może zwiększyć kwotę przeznaczoną na dofinansowanie projektów w konkursie albo w rundzie konkursu.
-
-3. Po rozstrzygnięciu konkursu albo rundy konkursu właściwa instytucja zamieszcza na swojej stronie internetowej oraz na portalu listę projektów wybranych do dofinansowania wyłącznie na podstawie spełnienia kryteriów wyboru projektów albo listę projektów, które uzyskały wymaganą liczbę punktów, z wyróżnieniem projektów wybranych do dofinansowania.
-
-4. Po rozstrzygnięciu konkursu albo rundy konkursu właściwa instytucja zamieszcza na swojej stronie internetowej informację o składzie komisji oceny projektów.
 
 **Art. 47.**
 
@@ -937,7 +899,7 @@ Art. 73–95. (pominięte)
 
 1. W trybie pozakonkursowym wniosek o dofinansowanie projektu jest składany na wezwanie właściwej instytucji w terminie przez nią wyznaczonym.
 
-2. Wezwanie, o którym mowa w ust. 1, może dotyczyć wyłącznie projektów wcześniej zidentyfikowanych zgodnie z ust. 3 i 4 oraz projektów pomocy technicznej.
+2. Wezwanie, o którym mowa w ust. 1, może dotyczyć wyłącznie projektów wcześniej zidentyfikowanych zgodnie z ust. 3 i 4.
 
 3. Właściwa instytucja dokonuje identyfikacji, wskazując projekt:
 
@@ -946,29 +908,49 @@ Art. 73–95. (pominięte)
 - **3)** możliwy do realizacji w ramach kwoty przeznaczonej na dofinansowanie projektów;
 - **4)** wykonalny.
 
-4. Instytucja zarządzająca zamieszcza w szczegółowym opisie osi priorytetowych programu operacyjnego informację o zidentyfikowanym projekcie oraz o podmiocie, który będzie jego wnioskodawcą.
-
-4a. Wezwanie, o którym mowa w ust. 1, określa w szczególności:
-
-- **1)** nazwę i adres właściwej instytucji;
-- **2)** miejsce i formę złożenia wniosku o dofinansowanie projektu i sposób uzupełniania w nim braków w zakresie warunków formalnych oraz poprawiania w nim oczywistych omyłek;
-- **3)** czynności, które powinny zostać dokonane przed zawarciem umowy o dofinansowanie projektu albo podjęciem decyzji o dofinansowaniu projektu, oraz wymagane dokumenty i terminy ich przedłożenia właściwej instytucji;
-- **4)** formę i sposób komunikacji między wnioskodawcą a właściwą instytucją, w tym wzywania wnioskodawcy do uzupełniania lub poprawiania projektu w trakcie jego oceny w części dotyczącej spełniania przez projekt kryteriów wyboru projektów, a także skutki niezachowania wskazanej formy komunikacji;
-- **5)** formę złożenia przez wnioskodawcę oświadczenia o świadomości skutków niezachowania wskazanej formy komunikacji.
-
-4b. Do uzupełniania braków w zakresie warunków formalnych i poprawiania oczywistych omyłek we wniosku o dofinansowanie projektu przepisy art. 43 stosuje się odpowiednio.
+4. Instytucja zarządzająca zamieszcza w szczegółowym opisie osi priorytetowych programu operacyjnego informację o projekcie oraz o podmiocie, który będzie jego wnioskodawcą.
 
 5. Właściwa instytucja wybiera do dofinansowania projekt, który spełnił kryteria wyboru projektów albo spełnił kryteria wyboru projektów i uzyskał wymaganą liczbę punktów.
 
 6. Właściwa instytucja zamieszcza na swojej stronie internetowej oraz na portalu informację o projekcie wybranym do dofinansowania.
 
-**Art. 49.** (uchylony)
+**Art. 49.**
 
-**Art. 50.** Do postępowania w zakresie ubiegania się o dofinansowanie oraz udzielania dofinansowania na podstawie ustawy nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z wyjątkiem przepisów dotyczących wyłączenia pracowników organu i sposobu obliczania terminów, chyba że ustawa stanowi inaczej.
+1. Właściwa instytucja może wyznaczyć ekspertów do udziału w wyborze projektów do dofinansowania.
 
-**Art. 50a.** W toku postępowania w zakresie ubiegania się o dofinansowanie, w tym w toku procedury odwoławczej, oraz udzielania dofinansowania właściwa instytucja nie może żądać zaświadczeń ani dokumentów na potwierdzenie faktów lub stanu prawnego, jeżeli:
+2. Właściwa instytucja określa rolę eksperta w wyborze projektów do dofinansowania.
 
-**Art. 51.** Przepisów niniejszego rozdziału, z wyjątkiem art. 37 ust. 6 i 7, nie stosuje się do programów EWT.
+3. Właściwa instytucja wyznacza eksperta spośród kandydatów na ekspertów, którzy:
+
+- **1)** korzystają z pełni praw publicznych;
+- **2)** mają pełną zdolność do czynności prawnych;
+- **3)** nie zostali skazani prawomocnym wyrokiem za przestępstwo umyślne lub za umyślne przestępstwo skarbowe;
+- **4)** posiadają wiedzę, umiejętności, doświadczenie lub wymagane uprawnienia w dziedzinie objętej programem operacyjnym, w ramach której jest dokonywany wybór projektu;
+- **5)** posiadają wiedzę w zakresie celów i sposobu realizacji danego programu operacyjnego.
+
+4. Kandydat na eksperta składa oświadczenie o spełnianiu przesłanek, o których mowa w ust. 3 pkt 1–3. Oświadczenie jest składane pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, o czym należy składającego pouczyć przed złożeniem oświadczenia.
+
+5. Kandydat na eksperta informuje niezwłocznie właściwą instytucję o wszelkich okolicznościach, które powodują zaprzestanie spełniania przesłanek, o których mowa w ust. 3 pkt 1–3.
+
+6. Właściwa instytucja zawiera z kandydatem na eksperta umowę dotyczącą udziału w wyborze projektów.
+
+7. Do eksperta stosuje się odpowiednio przepisy art. 24 § 1 i 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+
+8. Ekspert składa właściwej instytucji oświadczenie, że nie zachodzi żadna z okoliczności powodujących wyłączenie go z udziału w wyborze projektów, ustalonych zgodnie z ust. 7. Oświadczenie jest składane pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, o czym należy pouczyć składającego przed złożeniem oświadczenia.
+
+9. Jeżeli zostanie uprawdopodobnione istnienie innych okoliczności niż ustalone zgodnie z ust. 7, które mogą wywołać wątpliwości co do bezstronności eksperta, właściwa instytucja wyłącza eksperta z udziału w wyborze projektów albo je ujawnia.
+
+10. Właściwa instytucja prowadzi wykaz kandydatów na ekspertów, który jest zamieszczany na jej stronie internetowej.
+
+11. Wykaz, o którym mowa w ust. 10, zawiera:
+
+- **1)** imię i nazwisko kandydata na eksperta;
+- **2)** adres poczty elektronicznej kandydata na eksperta;
+- **3)** wskazanie dziedziny objętej danym programem operacyjnym, w której kandydat na eksperta posiada wiedzę, umiejętności, doświadczenie lub wymagane uprawnienia.
+
+**Art. 50.** Do postępowania w zakresie ubiegania się o dofinansowanie oraz udzielania dofinansowania na podstawie ustawy nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z wyjątkiem przepisów dotyczących wyłączenia pracowników organu, doręczeń i sposobu obliczania terminów.
+
+**Art. 51.** Przepisów niniejszego rozdziału nie stosuje się do programów EWT.
 
 #### Rozdział 14 Umowa o dofinansowanie projektu i decyzja o dofinansowaniu projektu
 
@@ -976,11 +958,9 @@ Art. 73–95. (pominięte)
 
 1. Podstawę dofinansowania projektu stanowi umowa o dofinansowanie projektu albo decyzja o dofinansowaniu projektu.
 
-2. Umowa o dofinansowanie projektu może zostać zawarta, a decyzja o dofinansowaniu projektu może zostać podjęta, jeżeli projekt spełnia wszystkie kryteria wyboru projektów, na podstawie których został wybrany do dofinansowania, oraz zostały dokonane czynności i zostały złożone dokumenty wskazane w regulaminie konkursu albo w wezwaniu, o których mowa odpowiednio w art. 41 ust. 2 pkt 6a albo w art. 48 ust. 4a pkt 3.
+2. Umowa o dofinansowanie projektu może zostać podpisana, a decyzja o dofinansowaniu projektu może zostać podjęta, jeżeli projekt spełnia wszystkie kryteria, na podstawie których został wybrany do dofinansowania.
 
 3. W przypadku projektu partnerskiego umowa o dofinansowanie projektu jest zawierana z partnerem wiodącym, o którym mowa w art. 33 ust. 5 pkt 4, będącym beneficjentem, odpowiedzialnym za przygotowanie i realizację projektu.
-
-**Art. 52a.** Umowa o dofinansowanie projektu oraz decyzja o dofinansowaniu projektu mogą zostać zmienione, w przypadku gdy zmiany nie wpływają na spełnianie kryteriów wyboru projektu w sposób, który skutkowałby negatywną oceną tego projektu.
 
 #### Rozdział 15 Procedura odwoławcza
 
@@ -993,11 +973,11 @@ Art. 73–95. (pominięte)
 - **1)** projekt nie uzyskał wymaganej liczby punktów lub nie spełnił kryteriów wyboru projektów, na skutek czego nie może być wybrany do dofinansowania albo skierowany do kolejnego etapu oceny;
 - **2)** projekt uzyskał wymaganą liczbę punktów lub spełnił kryteria wyboru projektów, jednak kwota przeznaczona na dofinansowanie projektów w konkursie nie wystarcza na wybranie go do dofinansowania.
 
-3. W przypadku gdy kwota przeznaczona na dofinansowanie projektów w konkursie albo w ramach rundy konkursu nie wystarcza na wybranie projektu do dofinansowania, okoliczność ta nie może stanowić wyłącznej przesłanki wniesienia protestu.
+3. W przypadku gdy kwota przeznaczona na dofinansowanie projektów w konkursie nie wystarcza na wybranie projektu do dofinansowania, okoliczność ta nie może stanowić wyłącznej przesłanki wniesienia protestu.
 
 **Art. 54.**
 
-1. Wnioskodawca może wnieść protest w terminie 14 dni od dnia doręczenia informacji, o której mowa w art. 45 ust. 4.
+1. Wnioskodawca może wnieść protest w terminie 14 dni od dnia doręczenia informacji, o której mowa w art. 46 ust. 3.
 
 2. Protest jest wnoszony w formie pisemnej i zawiera:
 
@@ -1012,41 +992,27 @@ Art. 73–95. (pominięte)
 
 4. Uzupełnienie protestu, o którym mowa w ust. 3, może nastąpić wyłącznie w odniesieniu do wymogów formalnych, o których mowa w ust. 2 pkt 1–3 i 6.
 
-5. Wezwanie, o którym mowa w ust. 3, wstrzymuje bieg terminu, o którym mowa w art. 56 ust. 2 i art. 57. Bieg terminu ulega zawieszeniu na czas uzupełnienia lub poprawienia protestu, o którym mowa w ust. 3.
+5. Wezwanie, o którym mowa w ust. 3, wstrzymuje bieg terminu, o którym mowa w art. 56 ust. 2 i art. 57.
 
-6. Na prawo wnioskodawcy do wniesienia protestu nie wpływa negatywnie błędne pouczenie lub brak pouczenia, o którym mowa w art. 45 ust. 5.
-
-**Art. 54a.**
-
-1. Wnioskodawca może wycofać protest do czasu zakończenia rozpatrywania protestu przez właściwą instytucję, o której mowa w art. 55.
-
-2. Wycofanie protestu następuje przez złożenie instytucji, o której mowa w art. 39 ust. 1, pisemnego oświadczenia o wycofaniu protestu.
-
-3. W przypadku wycofania protestu przez wnioskodawcę właściwa instytucja, o której mowa w art. 39 ust. 1:
-
-- **1)** pozostawia protest bez rozpatrzenia, informując o tym wnioskodawcę w formie pisemnej;
-- **2)** przekazuje oświadczenie o wycofaniu protestu do właściwej instytucji, o której mowa w art. 55, jeżeli skierowała protest do tej instytucji.
-
-4. W przypadku, o którym mowa w ust. 3 pkt 2, właściwa instytucja, o której mowa w art. 55, pozostawia protest bez rozpatrzenia, informując o tym wnioskodawcę w formie pisemnej.
-
-5. W przypadku wycofania protestu ponowne jego wniesienie jest niedopuszczalne.
-
-6. W przypadku wycofania protestu wnioskodawca nie może wnieść skargi do sądu administracyjnego.
+6. Na prawo wnioskodawcy do wniesienia protestu nie wpływa negatywnie błędne pouczenie lub brak pouczenia, o którym mowa w art. 46 ust. 5.
 
 **Art. 55.** Protest jest rozpatrywany przez instytucję:
 
+- **1)** zarządzającą albo
+- **2)** pośredniczącą – jeżeli została ustanowiona dla danego programu operacyjnego i instytucja zarządzająca powierzyła jej zadania w tym zakresie na podstawie porozumienia albo umowy, o których mowa w art. 10 ust. 1.
+
 **Art. 56.**
 
-1. Protest jest wnoszony za pośrednictwem instytucji, o której mowa w art. 39 ust. 1, zgodnie z pouczeniem, o którym mowa w art. 45 ust. 5.
+1. Protest jest wnoszony za pośrednictwem instytucji, o której mowa w art. 39 ust. 1, zgodnie z pouczeniem, o którym mowa w art. 46 ust. 5.
 
-2. Instytucja, o której mowa w art. 39 ust. 1, w terminie 14 dni od dnia otrzymania protestu weryfikuje wyniki dokonanej przez siebie oceny projektu w zakresie kryteriów i zarzutów, o których mowa w art. 54 ust. 2 pkt 4 i 5, i:
+2. Instytucja, o której mowa w art. 39 ust. 1, w terminie 21 dni od dnia otrzymania protestu weryfikuje wyniki dokonanej przez siebie oceny projektu w zakresie kryteriów i zarzutów, o których mowa w art. 54 ust. 2 pkt 4 i 5, i:
 
-- **1)** dokonuje zmiany podjętego rozstrzygnięcia, co skutkuje odpowiednio skierowaniem projektu do właściwego etapu oceny, albo dokonuje aktualizacji listy, o której mowa w art. 46 ust. 3, informując o tym wnioskodawcę, albo
+- **1)** dokonuje zmiany podjętego rozstrzygnięcia, co skutkuje odpowiednio skierowaniem projektu do właściwego etapu oceny albo umieszczeniem go na liście projektów wybranych do dofinansowania w wyniku przeprowadzenia procedury odwoławczej, informując o tym wnioskodawcę, albo
 - **2)** kieruje protest wraz z otrzymaną od wnioskodawcy dokumentacją do właściwej instytucji, o której mowa w art. 55, załączając do niego stanowisko dotyczące braku podstaw do zmiany podjętego rozstrzygnięcia, oraz informuje wnioskodawcę na piśmie o przekazaniu protestu.
 
-3. Przepisów ust. 1 i 2 nie stosuje się, jeżeli instytucją właściwą do rozpatrzenia protestu jest instytucja, o której mowa w art. 39 ust. 1. W takim przypadku protest jest wnoszony bezpośrednio do tej instytucji zgodnie z pouczeniem, o którym mowa w art. 45 ust. 5.
+3. Przepisów ust. 1 i 2 nie stosuje się, jeżeli instytucją właściwą do rozpatrzenia protestu jest instytucja, o której mowa w art. 39 ust. 1. W takim przypadku protest jest wnoszony bezpośrednio do tej instytucji zgodnie z pouczeniem, o którym mowa w art. 46 ust. 5.
 
-**Art. 57.** Właściwa instytucja, o której mowa w art. 55, rozpatruje protest, weryfikując prawidłowość oceny projektu w zakresie kryteriów i zarzutów, o których mowa w art. 54 ust. 2 pkt 4 i 5, w terminie nie dłuższym niż 21 dni, licząc od dnia jego otrzymania. W uzasadnionych przypadkach, w szczególności gdy w trakcie rozpatrywania protestu konieczne jest skorzystanie z pomocy ekspertów, termin rozpatrzenia protestu może być przedłużony, o czym właściwa instytucja informuje na piśmie wnioskodawcę. Termin rozpatrzenia protestu nie może przekroczyć łącznie 45 dni od dnia jego otrzymania.
+**Art. 57.** Właściwa instytucja, o której mowa w art. 55, rozpatruje protest, weryfikując prawidłowość oceny projektu w zakresie kryteriów i zarzutów, o których mowa w art. 54 ust. 2 pkt 4 i 5, w terminie nie dłuższym niż 30 dni, licząc od dnia jego otrzymania. W uzasadnionych przypadkach, w szczególności gdy w trakcie rozpatrywania protestu konieczne jest skorzystanie z pomocy ekspertów, termin rozpatrzenia protestu może być przedłużony, o czym właściwa instytucja informuje na piśmie wnioskodawcę. Termin rozpatrzenia protestu nie może przekroczyć łącznie 60 dni od dnia jego otrzymania.
 
 **Art. 58.**
 
@@ -1057,25 +1023,25 @@ Art. 73–95. (pominięte)
 
 2. W przypadku uwzględnienia protestu właściwa instytucja, o której mowa w art. 55, może:
 
-- **1)** odpowiednio skierować projekt do właściwego etapu oceny albo dokonać aktualizacji listy, o której mowa w art. 46 ust. 3, informując o tym wnioskodawcę, albo
+- **1)** odpowiednio skierować projekt do właściwego etapu oceny albo umieścić go na liście projektów wybranych do dofinansowania w wyniku przeprowadzenia procedury odwoławczej, informując o tym wnioskodawcę, albo
 - **2)** przekazać sprawę instytucji, o której mowa w art. 39 ust. 1, w celu przeprowadzenia ponownej oceny projektu, jeżeli stwierdzi, że doszło do naruszeń obowiązujących procedur i konieczny do wyjaśnienia zakres sprawy ma istotny wpływ na wynik oceny, informując wnioskodawcę na piśmie o przekazaniu sprawy.
 
 3. Ponowna ocena projektu polega na powtórnej weryfikacji projektu w zakresie kryteriów i zarzutów, o których mowa w art. 54 ust. 2 pkt 4 i 5.
 
 4. Instytucja, o której mowa w art. 39 ust. 1, informuje wnioskodawcę na piśmie o wyniku ponownej oceny i:
 
-- **1)** w przypadku pozytywnej ponownej oceny projektu kieruje projekt do właściwego etapu oceny albo dokonuje aktualizacji listy, o której mowa w art. 46 ust. 3;
+- **1)** w przypadku pozytywnej ponownej oceny projektu odpowiednio kieruje projekt do właściwego etapu oceny albo umieszcza go na liście projektów wybranych do dofinansowania w wyniku przeprowadzenia procedury odwoławczej;
 - **2)** w przypadku negatywnej ponownej oceny projektu do informacji załącza dodatkowo pouczenie o możliwości wniesienia skargi do sądu administracyjnego na zasadach określonych w art. 61.
 
 5. Przepisów ust. 2 pkt 2, ust. 3 i 4 nie stosuje się, jeżeli instytucją właściwą do rozpatrzenia protestu jest instytucja, o której mowa w art. 39 ust. 1.
 
 **Art. 59.**
 
-1. Protest pozostawia się bez rozpatrzenia, jeżeli mimo prawidłowego pouczenia, o którym mowa w art. 45 ust. 5, został wniesiony:
+1. Protest pozostawia się bez rozpatrzenia, jeżeli mimo prawidłowego pouczenia, o którym mowa w art. 46 ust. 5, został wniesiony:
 
 - **1)** po terminie,
 - **2)** przez podmiot wykluczony z możliwości otrzymania dofinansowania,
-- **3)** bez spełnienia wymogów określonych w art. 54 ust. 2 pkt 4 – o czym wnioskodawca jest informowany na piśmie odpowiednio przez instytucję, o której mowa w art. 39 ust. 1, za pośrednictwem której wniesiono protest, albo przez właściwą instytucję, o której mowa w art. 55.
+- **3)** bez spełnienia wymogów określonych w art. 54 ust. 2 pkt 4 o czym wnioskodawca jest informowany na piśmie odpowiednio przez instytucję, o której mowa w art. 39 ust. 1, za pośrednictwem której wniesiono protest, albo przez właściwą instytucję, o której mowa w art. 55.
 
 2. Informacja, o której mowa w ust. 1, zawiera pouczenie o możliwości wniesienia skargi do sądu administracyjnego na zasadach określonych w art. 61.
 
@@ -1083,16 +1049,16 @@ Art. 73–95. (pominięte)
 
 **Art. 61.**
 
-1. W przypadku nieuwzględnienia protestu, negatywnej ponownej oceny projektu lub pozostawienia protestu bez rozpatrzenia, w tym w przypadku, o którym mowa w art. 66 ust. 2 pkt 1, wnioskodawca może w tym zakresie wnieść skargę do sądu administracyjnego, zgodnie z art. 3 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2019 r. poz. 2325).
+1. W przypadku nieuwzględnienia protestu, negatywnej ponownej oceny projektu lub pozostawienia protestu bez rozpatrzenia, w tym w przypadku, o którym mowa w art. 66 ust. 2 pkt 1, wnioskodawca może w tym zakresie wnieść skargę do sądu administracyjnego, zgodnie z art. 3 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2012 r. poz. 270, z późn. zm.).
 
-2. Skarga, o której mowa w ust. 1, jest wnoszona przez wnioskodawcę w terminie 14 dni od dnia otrzymania informacji, o której mowa w art. 58 ust. 1 albo ust. 4 pkt 2, art. 59 albo art. 66 ust. 2 pkt 1, a w przypadku, o którym mowa w art. 54 ust. 3 – w terminie 14 dni od dnia upływu terminu na uzupełnienie protestu lub poprawienie w nim oczywistych omyłek, wraz z kompletną dokumentacją w sprawie bezpośrednio do wojewódzkiego sądu administracyjnego. Skarga podlega wpisowi stałemu.
+2. Skarga, o której mowa w ust. 1, jest wnoszona przez wnioskodawcę w terminie 14 dni od dnia otrzymania informacji, o której mowa w art. 58 ust. 1 albo ust. 4 pkt 2, art. 59 albo art. 66 ust. 2 pkt 1, wraz z kompletną dokumentacją w sprawie bezpośrednio do wojewódzkiego sądu administracyjnego. Skarga podlega wpisowi stałemu.
 
 3. Kompletna dokumentacja, o której mowa w ust. 2, obejmuje:
 
 - **1)** wniosek o dofinansowanie projektu,
-- **2)** informację o wynikach oceny projektu, o której mowa w art. 45 ust. 4,
+- **2)** informację o wynikach oceny projektu, o której mowa w art. 46 ust. 3,
 - **3)** wniesiony protest,
-- **4)** informację, o której mowa w art. 58 ust. 1 albo ust. 4 pkt 2, art. 59 albo art. 66 ust. 2 pkt 1 – wraz z ewentualnymi załącznikami.
+- **4)** informację, o której mowa w art. 58 ust. 1 albo ust. 4 pkt 2, art. 59 albo art. 66 ust. 2 pkt 1 wraz z ewentualnymi załącznikami.
 
 4. Kompletna dokumentacja jest wnoszona przez wnioskodawcę w oryginale lub w postaci uwierzytelnionej kopii.
 
@@ -1102,15 +1068,15 @@ Art. 73–95. (pominięte)
 
 - **1)** po terminie, o którym mowa w ust. 2,
 - **2)** bez kompletnej dokumentacji,
-- **3)** bez uiszczenia wpisu stałego w terminie, o którym mowa w ust. 2 – powoduje pozostawienie jej bez rozpatrzenia, z zastrzeżeniem ust. 7.
+- **3)** bez uiszczenia wpisu stałego w terminie, o którym mowa w ust. 2 powoduje pozostawienie jej bez rozpatrzenia, z zastrzeżeniem ust. 7.
 
 7. W przypadku wniesienia skargi bez kompletnej dokumentacji lub bez uiszczenia wpisu stałego sąd wzywa wnioskodawcę do uzupełnienia dokumentacji lub uiszczenia wpisu w terminie 7 dni od dnia otrzymania wezwania, pod rygorem pozostawienia skargi bez rozpatrzenia. Wezwanie wstrzymuje bieg terminu, o którym mowa w ust. 5.
 
 8. W wyniku rozpoznania skargi sąd może:
 
-- **1)** uwzględnić skargę, stwierdzając, że:
-    - **a)** ocena projektu została przeprowadzona w sposób naruszający prawo i naruszenie to miało istotny wpływ na wynik oceny, przekazując jednocześnie sprawę do ponownego rozpatrzenia przez właściwą instytucję, o której mowa w art. 39 ust. 1,
-    - **b)** pozostawienie protestu bez rozpatrzenia było nieuzasadnione, przekazując sprawę do rozpatrzenia przez właściwą instytucję, o której mowa w art. 55 albo art. 39 ust. 1;
+- **1)** uwzględnić skargę, stwierdzając, że: ocena projektu została przeprowadzona w sposób naruszający prawo i naruszenie to miało istotny wpływ na wynik oceny, przekazując jednocześnie sprawę do ponownego rozpatrzenia przez właściwą instytucję, o której mowa w art. 39 ust. 1, pozostawienie protestu bez rozpatrzenia było nieuzasadnione, przekazując sprawę do rozpatrzenia przez właściwą instytucję, o której mowa w art. 55 albo art. 39 ust. 1;
+    - **a)**
+    - **b)**
 
 - **2)** oddalić skargę w przypadku jej nieuwzględnienia;
 - **3)** umorzyć postępowanie w sprawie, jeżeli jest ono bezprzedmiotowe.
@@ -1121,13 +1087,13 @@ Art. 73–95. (pominięte)
 
 - **1)** wnioskodawca,
 - **2)** właściwa instytucja, o której mowa w art. 55,
-- **3)** właściwa instytucja, o której mowa w art. 39 ust. 1 – w przypadku pozostawienia protestu bez rozpatrzenia oraz dokonania negatywnej ponownej oceny projektu przez tę instytucję – w terminie 14 dni od dnia doręczenia rozstrzygnięcia wojewódzkiego sądu administracyjnego. Przepisy art. 61 ust. 3, 4, 6 i 7 stosuje się odpowiednio.
+- **3)** właściwa instytucja, o której mowa w art. 39 ust. 1 – w przypadku pozostawienia protestu bez rozpatrzenia oraz dokonania negatywnej ponownej oceny projektu przez tę instytucję w terminie 14 dni od dnia doręczenia rozstrzygnięcia wojewódzkiego sądu administracyjnego. Przepisy art. 61 ust. 3, 4, 6 i 7 stosuje się odpowiednio.
 
 2. Skarga, o której mowa w ust. 1, jest rozpatrywana w terminie 30 dni od dnia jej wniesienia.
 
-**Art. 63.** Na prawo wnioskodawcy do wniesienia skargi do sądu administracyjnego nie wpływa negatywnie błędne pouczenie lub brak pouczenia, o którym mowa w art. 45 ust. 5, art. 58 ust. 1 pkt 2 albo ust. 4 pkt 2, art. 59 ust. 2 albo art. 66 ust. 2 pkt 1.
+**Art. 63.** Na prawo wnioskodawcy do wniesienia skargi do sądu administracyjnego nie wpływa negatywnie błędne pouczenie lub brak pouczenia, o którym mowa w art. 46 ust. 5, art. 58 ust. 1 pkt 2 albo ust. 4 pkt 2, art. 59 ust. 2 albo art. 66 ust. 2 pkt 1.
 
-**Art. 64.** W zakresie nieuregulowanym w ustawie do postępowania przed sądami administracyjnymi stosuje się odpowiednio przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi określone dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4, z wyłączeniem art. 52–55, art. 61 § 3– 6, art. 115–122, art. 146, art. 150 i art. 152 tej ustawy.
+**Art. 64.** W zakresie nieuregulowanym w ustawie do postępowania przed sądami administracyjnymi stosuje się odpowiednio przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi określone dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4, z wyłączeniem art. 52–55, art. 61 § 3–6, art. 115–122, art. 146, art. 150 i art. 152 tej ustawy.
 
 **Art. 65.** Procedura odwoławcza, o której mowa w art. 53–64, nie wstrzymuje zawierania umów z wnioskodawcami, których projekty zostały wybrane do dofinansowania.
 
@@ -1135,7 +1101,7 @@ Art. 73–95. (pominięte)
 
 1. Prawomocne rozstrzygnięcie sądu administracyjnego polegające na oddaleniu skargi, odrzuceniu skargi albo pozostawieniu skargi bez rozpatrzenia kończy procedurę odwoławczą oraz procedurę wyboru projektu.
 
-2. W przypadku gdy na jakimkolwiek etapie postępowania w zakresie procedury odwoławczej zostanie wyczerpana kwota przeznaczona na dofinansowanie projektów w ramach działania, a w przypadku gdy w działaniu występują poddziałania – w ramach poddziałania:
+2. W przypadku gdy na jakimkolwiek etapie postępowania w zakresie procedury odwoławczej wyczerpana zostanie kwota przeznaczona na dofinansowanie projektów w ramach działania:
 
 - **1)** właściwa instytucja, do której wpłynął protest, pozostawia go bez rozpatrzenia, informując o tym na piśmie wnioskodawcę, pouczając jednocześnie o możliwości wniesienia skargi do sądu administracyjnego na zasadach określonych w art. 61;
 - **2)** sąd, uwzględniając skargę, stwierdza tylko, że ocena projektu została przeprowadzona w sposób naruszający prawo, i nie przekazuje sprawy do ponownego rozpatrzenia.
@@ -1143,55 +1109,6 @@ Art. 73–95. (pominięte)
 **Art. 67.** Do procedury odwoławczej nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z wyjątkiem przepisów dotyczących wyłączenia pracowników organu, doręczeń i sposobu obliczania terminów.
 
 **Art. 68.** Przepisów niniejszego rozdziału nie stosuje się do programów EWT.
-
-#### Rozdział 15a Eksperci
-
-**Art. 68a.**
-
-1. Właściwa instytucja może wyznaczyć ekspertów do:
-
-- **1)** udziału w wyborze projektów do dofinansowania;
-- **2)** wykonywania zadań związanych z realizacją praw i obowiązków właściwej instytucji wynikających z umowy o dofinansowanie projektu albo decyzji o dofinansowaniu projektu.
-
-2. Właściwa instytucja określa rolę eksperta w wyborze projektów do dofinansowania lub w wykonywaniu zadań związanych z realizacją praw i obowiązków właściwej instytucji wynikających z umowy o dofinansowanie projektu albo decyzji o dofinansowaniu projektu.
-
-3. Właściwa instytucja wyznacza eksperta spośród kandydatów na ekspertów, którzy:
-
-- **1)** korzystają z pełni praw publicznych;
-- **2)** mają pełną zdolność do czynności prawnych;
-- **3)** nie zostali skazani prawomocnym wyrokiem za przestępstwo umyślne lub za umyślne przestępstwo skarbowe;
-- **4)** mają wiedzę, umiejętności, doświadczenie lub wymagane uprawnienia w dziedzinie objętej programem operacyjnym stosownie do roli, o której mowa w ust. 2.
-
-4. Kandydat na eksperta składa oświadczenie o spełnianiu przesłanek, o których mowa w ust. 3. Oświadczenie jest składane pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, o czym należy pouczyć składającego przed złożeniem oświadczenia.
-
-5. Kandydat na eksperta informuje niezwłocznie właściwą instytucję o okolicznościach, które powodują zaprzestanie spełniania przesłanek, o których mowa w ust. 3.
-
-6. Właściwa instytucja zawiera z kandydatem na eksperta umowę określającą w szczególności jego rolę, o której mowa w ust. 2, warunki oceny wykonywanych przez niego obowiązków, w tym warunki oceny negatywnej, oraz inne niż określone w ustawie przesłanki powodujące wykreślenie go z wykazu, o którym mowa w ust. 11.
-
-7. Kandydat na eksperta, który brał udział w wyborze projektu, nie może realizować zadań, o których mowa w ust. 1 pkt 2, w odniesieniu do tego projektu.
-
-8. Do eksperta stosuje się odpowiednio przepisy art. 24 § 1 i 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
-
-9. Ekspert składa właściwej instytucji oświadczenie, że nie zachodzi żadna z okoliczności powodujących wyłączenie go z możliwości realizacji czynności, o których mowa w ust. 1, ustalonych na podstawie ust. 7 i 8. Oświadczenie jest składane pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, o czym należy pouczyć składającego przed złożeniem oświadczenia.
-
-10. Jeżeli zostanie uprawdopodobnione istnienie okoliczności innych niż ustalone na podstawie ust. 7 i 8, które mogą wywołać wątpliwości co do bezstronności eksperta, właściwa instytucja wyłącza eksperta z udziału w wyborze projektów albo je ujawnia.
-
-11. Właściwa instytucja prowadzi wykaz kandydatów na ekspertów, który jest zamieszczany na jej stronie internetowej.
-
-12. Właściwa instytucja wpisuje kandydata na eksperta do wykazu, o którym mowa w ust. 11. Wykaz ten zawiera:
-
-- **1)** imię i nazwisko kandydata na eksperta;
-- **2)** adres poczty elektronicznej kandydata na eksperta;
-- **3)** wskazanie dziedziny objętej programem operacyjnym, w której kandydat na eksperta ma wiedzę, umiejętności, doświadczenie lub wymagane uprawnienia.
-
-13. Wykreślenie kandydata na eksperta z wykazu, o którym mowa w ust. 11, następuje w przypadku:
-
-- **1)** zaprzestania spełniania przesłanek, o których mowa w ust. 3 pkt 1–3;
-- **2)** utraty wymaganych uprawnień w dziedzinie objętej programem operacyjnym, stosownie do roli, o której mowa w ust. 2;
-- **3)** wystąpienia przesłanek powodujących wykreślenie z wykazu, określonych w umowie, o której mowa w ust. 6;
-- **4)** złożenia pisemnego wniosku o wykreślenie z wykazu.
-
-14. W przypadku wykreślenia kandydata na eksperta z wykazu, o którym mowa w ust. 11, ponowny wpis do wykazu jest możliwy nie wcześniej niż po upływie roku od dnia wykreślenia. Do kandydata na eksperta ubiegającego się o ponowny wpis do wykazu stosuje się przepisy ust. 2–10.
 
 #### Rozdział 16 Centralny system teleinformatyczny
 
@@ -1205,24 +1122,436 @@ Art. 73–95. (pominięte)
 
 - **1)** obsługą projektu od momentu podpisania umowy o dofinansowanie projektu albo podjęcia decyzji o dofinansowaniu projektu – w odniesieniu do krajowego programu operacyjnego, programu EWT, dla którego instytucja zarządzająca została ustanowiona na terytorium Rzeczypospolitej Polskiej, oraz regionalnego programu operacyjnego – w zależności od decyzji instytucji zarządzającej regionalnym programem operacyjnym;
 - **2)** ewidencjonowaniem danych dotyczących realizacji programów operacyjnych;
-- **3)** obsługą certyfikacji wydatków;
-- **4)** ewaluacją.
+- **3)** obsługą certyfikacji wydatków.
 
 **Art. 70.**
 
-1. Uwierzytelnianie beneficjenta lub osoby fizycznej, która zgodnie z postanowieniami umowy o dofinansowanie projektu lub decyzji o dofinansowaniu projektu jest upoważniona do reprezentowania beneficjenta w zakresie czynności związanych z realizacją projektu w centralnym systemie teleinformatycznym, wymaga wykorzystania profilu zaufanego, profilu osobistego, innego środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, o którym mowa w art. 21a ust. 1 pkt 2 lit. a ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2019 r. poz. 162 i 1590), adekwatnie do poziomu bezpieczeństwa środka identyfikacji elektronicznej wymaganego dla usług świadczonych w tym systemie, albo danych weryfikowanych za pomocą kwalifikowanego certyfikatu podpisu elektronicznego, jeżeli te dane pozwalają na identyfikację i uwierzytelnienie wymagane w celu realizacji usługi online.
+1. Uwierzytelnianie beneficjenta lub osoby fizycznej, która zgodnie z postanowieniami umowy o dofinansowanie projektu lub decyzji o dofinansowaniu projektu jest upoważniona do reprezentowania beneficjenta w zakresie czynności związanych z realizacją projektu w centralnym systemie teleinformatycznym, następuje przez wykorzystanie profilu zaufanego ePUAP w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2014 r. poz. 1114) albo bezpiecznego podpisu elektronicznego weryfikowanego za pomocą ważnego kwalifikowanego certyfikatu na zasadach określonych w ustawie z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. z 2013 r. poz. 262).
 
-2. W przypadku gdy z powodów technicznych wykorzystanie profilu zaufanego nie jest możliwe, uwierzytelnianie w centralnym systemie teleinformatycznym podmiotu, o którym mowa w ust. 1, następuje przez wykorzystanie loginu i hasła wygenerowanego przez ten system.
+2. W przypadku gdy z powodów technicznych wykorzystanie profilu zaufanego ePUAP nie jest możliwe, uwierzytelnianie w centralnym systemie teleinformatycznym podmiotu, o którym mowa w ust. 1, następuje przez wykorzystanie loginu i hasła wygenerowanego przez ten system.
 
-**Art. 71.**
-
-1. Minister właściwy do spraw rozwoju regionalnego jest administratorem danych osobowych gromadzonych w centralnym systemie teleinformatycznym.
-
-2. Dane dotyczące uczestników projektów w rozumieniu załącznika I lub II do rozporządzenia EFS zgromadzone w centralnym systemie teleinformatycznym mogą zostać udostępnione Prezesowi Zakładu Ubezpieczeń Społecznych w związku z realizacją zadań wynikających z art. 50 ust. 3a i 3c ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2020 r. poz. 266, 321 i 568).
+**Art. 71.** Minister właściwy do spraw rozwoju regionalnego jest administratorem danych osobowych gromadzonych w centralnym systemie teleinformatycznym w rozumieniu przepisów ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2002 r. Nr 101, poz. 926, z późn. zm.).
 
 **Art. 72.** W zakresie nieuregulowanym w art. 69 i art. 70 w odniesieniu do minimalnych wymagań dla systemów teleinformatycznych, minimalnych wymagań dla rejestrów publicznych i wymiany informacji w postaci elektronicznej, wymiany informacji drogą elektroniczną, w tym dokumentów elektronicznych, pomiędzy podmiotami publicznymi a podmiotami niebędącymi podmiotami publicznymi stosuje się przepisy ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
 #### Rozdział 17 Zmiany w przepisach obowiązujących
+
+**Art. 73.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.) w art. 31 ust. 2 otrzymuje brzmienie: „ 2. Programy operacyjne, o których mowa w ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712, z późn. zm.) oraz w ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146), a także programy rządowe, o których mowa w art. 90u, mogą określać zadania, które kurator oświaty wykonuje w imieniu wojewody. ” .
+
+**Art. 74.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, 915 i 1138) w art. 17 w ust. 1 po pkt 53 dodaje się pkt 53a w brzmieniu: „
+
+- **53a)** przychody podmiotu wdrażającego instrument finansowy, o którym mowa w rozdziale 10 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146), w szczególności odsetki, opłaty gwarancyjne, dywidendy i inne przychody osiągnięte z inwestycji realizowanych przez ten podmiot – w części zwiększającej wkład finansowy z programu operacyjnego; ” .
+
+**Art. 75.** W ustawie z dnia 30 maja 1996 r. o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego (Dz. U. z 2013 r. poz. 712) w art. 7 ust. 7 otrzymuje brzmienie: „ 7. W zakresie właściwości Ministra Obrony Narodowej Agencja może realizować zadania związane z wdrażaniem programów operacyjnych, o których mowa w ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712, z późn. zm.), oraz może występować o dofinansowanie projektów, o których mowa w rozdziale 12 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146), realizować oraz rozliczać te projekty. ” .
+
+**Art. 76.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2013 r. poz. 1442, z późn. zm.) w art. 50:
+
+- **1)** ust. 3 otrzymuje brzmienie: „
+
+3. Dane zgromadzone na koncie ubezpieczonego, o których mowa w art. 40, i na koncie płatnika składek, o których mowa w art. 45, mogą być udostępniane sądom, prokuratorom, organom kontroli skarbowej, organom podatkowym, Państwowej Inspekcji Pracy, Straży Granicznej, komornikom sądowym, organom egzekucyjnym w rozumieniu ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2012 r. poz. 1015, z późn. zm.), ośrodkom pomocy społecznej, powiatowym centrom pomocy rodzinie, publicznym służbom zatrudnienia, Komisji Nadzoru Finansowego oraz wojewodzie i Szefowi Urzędu do Spraw Cudzoziemców w zakresie prowadzonych postępowań dotyczących legalizacji pobytu cudzoziemców na terytorium Rzeczypospolitej Polskiej, z uwzględnieniem przepisów dotyczących ochrony danych osobowych. ” ;
+
+- **2)** po ust. 3 dodaje się ust. 3a w brzmieniu: „
+
+3a. Dane zgromadzone na koncie ubezpieczonego będącego uczestnikiem w rozumieniu załącznika I lub załącznika II do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1304/2013 z dnia 17 grudnia 2013 r. w sprawie Europejskiego Funduszu Społecznego i uchylającego rozporządzenie Rady (WE) nr 1081/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 470), o których mowa w art. 40, i na koncie płatnika składek, o których mowa w art. 45, mogą być udostępniane ministrowi właściwemu do spraw rozwoju regionalnego w celu spełnienia wymogów określonych odpowiednio w załączniku I lub w załączniku II do tego rozporządzenia i w zakresie do tego niezbędnym. ” ;
+
+- **3)** ust. 9 otrzymuje brzmienie: „
+
+9. Dane zgromadzone na kontach, o których mowa w ust. 3, udostępnia się bezpłatnie sądom, prokuratorom, organom kontroli skarbowej, organom podatkowym, Państwowej Inspekcji Pracy, Straży Granicznej, ośrodkom pomocy społecznej, powiatowym centrom pomocy rodzinie, publicznym służbom zatrudnienia, Komisji Nadzoru Finansowego, wojewodzie i Szefowi Urzędu do Spraw Cudzoziemców w zakresie prowadzonych postępowań dotyczących legalizacji pobytu cudzoziemców na terytorium Rzeczypospolitej Polskiej, ministrowi właściwemu do spraw rozwoju regionalnego w zakresie wynikającym z ust. 3a, a także – w zakresie niezbędnym do realizacji świadczeń rodzinnych – wójtowi, burmistrzowi lub prezydentowi miasta. ” .
+
+**Art. 77.** W ustawie z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2007 r. Nr 42, poz. 275, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 4: w ust. 1a wprowadzenie do wyliczenia otrzymuje brzmienie: „ Agencja uczestniczy w realizacji programów operacyjnych, o których mowa w ustawie z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju (Dz. U. Nr 116, poz. 1206, z późn. zm.), w ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712, z późn. zm.) oraz w ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146): ” , po ust. 1a dodaje się ust. 1b w brzmieniu: „
+    - **a)**
+    - **b)**
+
+1b. Agencja może pełnić rolę podmiotu wdrażającego instrument finansowy lub fundusz funduszy, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającym wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającym przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającym rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320). ” ;
+
+- **2)** w art. 6b po ust. 10 dodaje się ust. 10a w brzmieniu: „
+
+10a. Właściwy minister pełniący funkcję instytucji zarządzającej programem operacyjnym, o którym mowa w ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020, w porozumieniu z ministrem właściwym do spraw gospodarki określa, w drodze rozporządzenia, szczegółowe przeznaczenie, warunki i tryb udzielania przez Agencję pomocy finansowej w ramach tego programu, uwzględniając konieczność realizacji celów w nim określonych, efektywnego i skutecznego wykorzystania tej pomocy oraz zapewnienia przejrzystości jej udzielania. ” .
+
+**Art. 78.** W ustawie z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2014 r. poz. 669) w art. 17 w ust. 1 pkt 4a otrzymuje brzmienie: „
+
+- **4a)** współpraca z jednostkami organizacyjnymi pełniącymi funkcje agencji płatniczych w zakresie realizacji Wspólnej Polityki Rolnej oraz jednostkami organizacyjnymi uczestniczącymi w realizacji operacji finansowanych ze środków Europejskiego Funduszu Pomocy Najbardziej Potrzebującym; ” .
+
+**Art. 79.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.) w art. 400b:
+
+- **1)** po ust. 2 dodaje się ust. 2a w brzmieniu: „
+
+2a. Celem działania Narodowego Funduszu oraz wojewódzkich funduszy jest również tworzenie warunków do wdrażania finansowania ochrony środowiska i gospodarki wodnej, w szczególności poprzez zapewnienie wsparcia działaniom służącym temu wdrażaniu oraz jego promocję, a także poprzez współpracę z innymi podmiotami, w tym z jednostkami samorządu terytorialnego, przedsiębiorcami oraz podmiotami mającymi siedzibę poza granicami Rzeczypospolitej Polskiej. ” ;
+
+- **2)** dodaje się ust. 6–9 w brzmieniu: „
+
+6. Narodowy Fundusz jest instytucją finansową, o której mowa w art. 38 ust. 4 lit. b pkt (ii) rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320), oraz może pełnić rolę podmiotu wdrażającego instrument finansowy lub fundusz funduszy, o których mowa w tym rozporządzeniu.
+
+7. Wojewódzkie fundusze mogą pełnić rolę pośredników finansowych, o których mowa w art. 38 ust. 5 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006.
+
+8. Za zgodą instytucji zarządzającej lub instytucji pośredniczącej w rozumieniu ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146) Narodowy Fundusz może powierzać wojewódzkim funduszom, na podstawie porozumień, zadania związane z realizacją krajowego programu operacyjnego w rozumieniu tej ustawy.
+
+9. Powierzenie wojewódzkim funduszom zadań, o których mowa w ust. 8, nie wyłącza odpowiedzialności Narodowego Funduszu za ich realizację. ” .
+
+**Art. 80.** W ustawie z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2012 r. poz. 145, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 72: w ust. 2 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** z innych środków publicznych na zasadach określonych w ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712, z późn. zm.), w ustawie z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. z 2013 r. poz. 173) oraz w ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146). ” , ust. 3 otrzymuje brzmienie: „
+    - **b)**
+
+3. Rozstrzygnięcie w sprawie współfinansowania wykonywania urządzeń melioracji wodnych podstawowych z publicznych środków wspólnotowych, o których mowa w ust. 2, lub z innych środków publicznych na zasadach określonych w ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, w ustawie z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz w ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 podejmuje, w drodze decyzji, marszałek województwa w uzgodnieniu z wojewodą. ” ;
+
+- **2)** w art. 74 w ust. 2 pkt 2 otrzymuje brzmienie: „
+- **2)** Skarbu Państwa przy współudziale publicznych środków wspólnotowych, o których mowa w art. 72 ust. 2, oraz innych środków publicznych na zasadach określonych w ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, w ustawie z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz w ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020, za zwrotem przez zainteresowanych właścicieli gruntów części kosztów w formie opłaty inwestycyjnej. ” .
+
+**Art. 81.** W ustawie z dnia 14 marca 2003 r. o Banku Gospodarstwa Krajowego (Dz. U. z 2014 r. poz. 510) w art. 5 po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „ 2a. BGK może również pełnić rolę podmiotu wdrażającego instrument finansowy lub fundusz funduszy, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającym wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającym przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającym rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320). 2b. Zasady oraz warunki pełnienia roli, o której mowa w ust. 2a, określają odrębne przepisy oraz umowy zawarte z właściwymi organami administracji rządowej lub samorządu terytorialnego. ” .
+
+**Art. 82.** W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2014 r. poz. 1118 i 1138) wprowadza się następujące zmiany:
+
+- **1)** w art. 5 w ust. 2 pkt 7 otrzymuje brzmienie: „
+- **7)** umowy partnerskiej określonej w art. 28a ust. 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712, z późn. zm.) oraz porozumienia albo umowy o partnerstwie określonych w art. 33 ust. 1 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146). ” ;
+- **2)** w art. 35 w ust. 2 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „
+- **8)** organizowanie wyborów przedstawicieli organizacji pozarządowych do składu komitetu monitorującego, o którym mowa w art. 14 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020. ” ;
+- **3)** w art. 41a w ust. 2 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „
+- **6)** organizowanie wyborów przedstawicieli organizacji pozarządowych do składu komitetu monitorującego, o którym mowa w art. 14 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020. ” .
+
+**Art. 83.** W ustawie z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2013 r. poz. 907, z późn. zm.) w art. 165 ust. 4 otrzymuje brzmienie: „ 4. Prezes Urzędu wszczyna kontrolę doraźną na wniosek instytucji zarządzającej, o której mowa w przepisach o Narodowym Planie Rozwoju, w przepisach o zasadach prowadzenia polityki rozwoju oraz w przepisach o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 lub w przepisach o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich, lub w przepisach o pomocy społecznej, zwanej dalej „instytucją zarządzającą”, jeżeli z uzasadnienia wniosku instytucji wynika, że zachodzi uzasadnione przypuszczenie, że w postępowaniu o udzielenie zamówienia doszło do naruszenia przepisów ustawy, które mogło mieć wpływ na jego wynik. ” .
+
+**Art. 84.** W ustawie z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. z 2012 r. poz. 633 i 1512) wprowadza się następujące zmiany:
+
+- **1)** w art. 11: w ust. 1 uchyla się pkt 4b, dodaje się ust. 6 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+6. Agencja może uczestniczyć w realizacji programów, o których mowa w ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146), jako instytucja pośrednicząca lub jako beneficjent. Agencja realizuje także, na podstawie ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2013 r. poz. 182, ze zm.), zadania instytucji pośredniczącej w systemie zarządzania programem operacyjnym w ramach Europejskiego Funduszu Pomocy Najbardziej Potrzebującym, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 223/2014 z dnia 11 marca 2014 r. w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym (Dz. Urz. UE L 72 z 12.03.2014, str. 1). ” ;
+
+- **2)** uchyla się art. 17.
+
+**Art. 85.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2013 r. poz. 182, ze zm.) po dziale III dodaje się dział IIIa w brzmieniu: „
+
+### Dział IIIa Realizacja działań finansowanych z udziałem Europejskiego Funduszu Pomocy Najbardziej Potrzebującym
+
+**Art. 134a.** Minister właściwy do spraw zabezpieczenia społecznego:
+
+- **1)** pełni funkcję instytucji zarządzającej w rozumieniu art. 32 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 223/2014 z dnia 11 marca 2014 r. w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym (Dz. Urz. UE L 72 z 12.03.2014, str. 1), zwanego dalej „rozporządzeniem w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym”;
+- **2)** opracowuje Program Operacyjny, o którym mowa w art. 7 ust. 2 rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym, zwany dalej „Programem Operacyjnym”, i przedkłada ten program Komisji Europejskiej;
+- **3)** zapewnia wykonanie ewaluacji Programu Operacyjnego, o których mowa w art. 16 i art. 17 rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym, oraz przedkłada wyniki tych ewaluacji Komisji Europejskiej;
+- **4)** opracowuje i przedkłada Komisji Europejskiej roczne i końcowe sprawozdania z realizacji Programu Operacyjnego;
+- **5)** dokonuje wyboru organizacji partnerskich w rozumieniu art. 2 pkt 3 rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym, zwanych dalej „organizacjami partnerskimi”, w sposób zapewniający spełnienie warunków, o których mowa w art. 32 ust. 3 tego rozporządzenia;
+- **6)** sporządza i udostępnia instytucji pośredniczącej, o której mowa w art. 134b ust. 1 pkt 1, oraz beneficjentom w rozumieniu art. 2 pkt 9 rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym wytyczne dotyczące realizacji Programu Operacyjnego, w tym wytyczne dotyczące spełnienia przez wydatki poniesione w ramach Programu Operacyjnego kryteriów kwalifikowalności: zgodności z przepisami rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym oraz z przepisami wykonawczymi do tego rozporządzenia, spójności z postanowieniami Programu Operacyjnego;
+    - **a)**
+    - **b)**
+
+- **7)** zawiera i rozlicza z Agencją Rynku Rolnego, zwaną dalej „Agencją”, umowę o: dofinansowanie projektu, która określa szczegółowe warunki dofinansowania projektu zgodnie z art. 206 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, dotację na współfinansowanie krajowe i pomoc techniczną, zawierającą w szczególności postanowienia, o których mowa w art. 150 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+    - **a)**
+    - **b)**
+
+1. Agencja uczestniczy w realizacji Programu Operacyjnego jako:
+
+- **1)** instytucja pośrednicząca w rozumieniu art. 2 pkt 13 rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym;
+- **2)** beneficjent w rozumieniu art. 2 pkt 9 rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym.
+
+2. Do zadań Agencji należy w szczególności:
+
+- **1)** przygotowanie i przeprowadzenie postępowań o udzielenie zamówienia publicznego na dostawy artykułów spożywczych do magazynów organizacji partnerskich;
+- **2)** zawieranie z organizacjami partnerskimi i rozliczanie umów o dofinansowanie projektów, które określają szczegółowe warunki dofinansowania projektów zgodnie z art. 206 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
+- **3)** realizacja wypłat dla przedsiębiorców z tytułu zakupu żywności, o którym mowa w art. 26 ust. 2 lit. a rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym, wypłat dla organizacji partnerskich będących beneficjentami, z tytułu kosztów administracyjnych oraz kosztów transportu i magazynowania, o których mowa w art. 26 ust. 2 lit. c rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym, oraz kosztów środków towarzyszących, o których mowa w art. 26 ust. 2 lit. e rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym;
+- **4)** opracowanie procedur dokonywania czynności w ramach realizacji Programu Operacyjnego;
+- **5)** przeprowadzanie kontroli u przedsiębiorców i w organizacjach partnerskich w zakresie realizacji operacji finansowanych w ramach Europejskiego Funduszu Pomocy Najbardziej Potrzebującym;
+- **6)** odzyskiwanie kwot nienależnie wypłaconych przedsiębiorcom i organizacjom partnerskim, a także nakładanie korekt finansowych w rozumieniu art. 2 pkt 12 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146);
+- **7)** sprawozdawczość do ministra właściwego do spraw zabezpieczenia społecznego;
+- **8)** realizacja działań w ramach informowania i komunikacji, o których mowa w art. 19 ust. 1 rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym.
+
+3. Do działań określonych w ust. 2 pkt 5 i 6 stosuje się odpowiednio art. 22 ust. 2 pkt 2 i 3, art. 24 ust. 1–6 i 8–10, art. 25 oraz art. 26 ust. 6 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020, z tym że na potrzeby realizacji zadań w ramach Programu Operacyjnego:
+
+- **1)** nieprawidłowością indywidualną jest nieprawidłowość, o której mowa w art. 2 pkt 16 rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym;
+- **2)** nieprawidłowością systemową jest nieprawidłowość, o której mowa w art. 2 pkt 18 rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym;
+- **3)** w przypadku gdy kwoty nieprawidłowo poniesionych wydatków nie można określić, wartość korekty finansowej ustala się na podstawie art. 53 ust. 2 rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym.
+
+4. Zadania, o których mowa w ust. 2, są wykonywane przez Agencję na podstawie porozumienia o powierzeniu zadań instytucji pośredniczącej, zawartego z ministrem właściwym do spraw zabezpieczenia społecznego, zawierającego w szczególności zobowiązanie do stosowania wytycznych, o których mowa w art. 134a pkt 6.
+
+5. Powierzone zadania Agencja wykonuje zgodnie z systemem realizacji Programu Operacyjnego, zawierającym warunki i procedury obowiązujące instytucje uczestniczące w realizacji Programu Operacyjnego, obejmujące w szczególności zarządzanie, monitorowanie, sprawozdawczość, kontrolę i ewaluację oraz sposób koordynacji działań podejmowanych przez instytucje. Podstawę systemu realizacji Programu Operacyjnego mogą stanowić w szczególności przepisy prawa powszechnie obowiązującego, wytyczne, o których mowa w art. 134a pkt 6, dokumenty określające system zarządzania i kontroli oraz procedury działania właściwych instytucji.
+
+6. Umowy, o których mowa w ust. 2 pkt 2, są zawierane po przedłożeniu przez organizacje partnerskie wniosków o dofinansowanie projektów z tytułu kosztów administracyjnych, transportu i magazynowania oraz wniosków o dofinansowanie projektów z tytułu środków towarzyszących, zawierających między innymi planowane do osiągnięcia w danym okresie wartości wskaźników dystrybucji artykułów spożywczych i wskaźników realizacji działań na rzecz włączenia społecznego, z uwzględnieniem wytycznych przekazanych przez instytucję zarządzającą.
+
+7. W przypadkach nieprawidłowej realizacji przez Agencję zadań powierzonych zgodnie z ust. 4, nieprzestrzegania przepisów prawa lub działania niezgodnie z systemem realizacji Programu Operacyjnego, w tym z Programem Operacyjnym lub wytycznymi instytucji zarządzającej, a także zaistnienia okoliczności, o których mowa w art. 55 ust. 1 rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym, zwanych dalej „uchybieniami”, minister właściwy do spraw zabezpieczenia społecznego może:
+
+- **1)** wydać Agencji rekomendacje wskazujące uchybienia, które powinny zostać usunięte, oraz wskazać termin na ich usunięcie;
+- **2)** zobowiązać Agencję do podjęcia określonych działań naprawczych oraz wskazać termin ich wykonania;
+- **3)** wstrzymać albo wycofać część albo całość dofinansowania z pomocy technicznej dla Agencji, jeżeli ta dopuściła się uchybień, nie usunęła ich w terminie lub nie wykonała działań naprawczych;
+- **4)** wystąpić do ministra właściwego do spraw rozwoju regionalnego o zawieszenie desygnacji Agencji. Minister właściwy do spraw zabezpieczenia społecznego zatwierdza opracowane przez Agencję procedury dokonywania czynności w ramach powierzonych jej zadań. Minister właściwy do spraw zabezpieczenia społecznego lub, za jego zgodą, Agencja mogą powierzyć realizację czynności technicznych związanych z przeprowadzaniem badań jakościowych artykułów dostarczanych do organizacji partnerskich innym podmiotom na podstawie odpowiednio porozumienia lub umowy. Minister właściwy do spraw finansów publicznych wykonuje funkcje instytucji certyfikującej w rozumieniu art. 33 rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym. Generalny Inspektor Kontroli Skarbowej wykonuje funkcje instytucji audytowej w rozumieniu art. 34 rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym.
+
+1. Minister właściwy do spraw rozwoju regionalnego udziela desygnacji, zawiesza desygnację lub wycofuje desygnację w rozumieniu ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 na zasadach i w trybie określonych w tej ustawie, z tym że warunkiem uzyskania desygnacji przez instytucję zarządzającą, instytucję pośredniczącą i instytucję certyfikującą jest spełnienie kryteriów określonych w załączniku IV do rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym.
+
+2. W przypadku zawieszenia desygnacji:
+
+- **1)** podmiot, któremu zawieszono desygnację, przygotowuje i przedstawia ministrowi właściwemu do spraw rozwoju regionalnego plan działań naprawczych w terminie wskazanym przez tego ministra;
+- **2)** minister właściwy do spraw rozwoju regionalnego, po zasięgnięciu opinii komitetu do spraw desygnacji, wskazuje działania, których podmiot, któremu zawieszono desygnację, nie może wykonywać.
+
+3. Skutkiem zawieszenia lub wycofania desygnacji jest wstrzymanie certyfikacji wydatków do Komisji Europejskiej w ramach Programu Operacyjnego w zakresie odpowiadającym zawieszeniu lub wycofaniu desygnacji.
+
+4. W przypadku zrealizowania planu działań naprawczych w terminie w nim określonym minister właściwy do spraw rozwoju regionalnego przekazuje podmiotowi, któremu zawieszono desygnację, pisemną informację o cofnięciu zawieszenia.
+
+1. Projekt Programu Operacyjnego jest przyjmowany przez Radę Ministrów, w drodze uchwały, przed skierowaniem do Komisji Europejskiej.
+
+2. Przepis ust. 1 stosuje się odpowiednio w przypadku zmiany Programu Operacyjnego.
+
+3. Rada Ministrów może upoważnić ministra właściwego do spraw zabezpieczenia społecznego do dokonywania zmian Programu Operacyjnego w zakresie określonym w upoważnieniu. Minister właściwy do spraw zabezpieczenia społecznego informuje Radę Ministrów o dokonanych zmianach nie później niż w terminie miesiąca od dnia przekazania zmian do Komisji Europejskiej.
+
+4. Minister właściwy do spraw zabezpieczenia społecznego ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” komunikat o:
+
+- **1)** podjęciu przez Komisję Europejską decyzji zatwierdzającej Program Operacyjny lub jego zmiany;
+- **2)** adresie strony internetowej, na której instytucja zarządzająca publikuje Program Operacyjny oraz jego zmiany;
+- **3)** terminie, od którego Program Operacyjny lub jego zmiany będą stosowane. Otrzymujący wypłaty ze środków Programu Operacyjnego:
+- **1)** przedsiębiorcy prowadzący działalność gospodarczą zarejestrowaną na terytorium Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym oraz podmioty zagraniczne z państw niebędących stronami umowy o Europejskim Obszarze Gospodarczym, które mogą korzystać ze swobody przedsiębiorczości na podstawie umów zawartych przez te państwa ze Wspólnotą Europejską i jej państwami członkowskimi,
+- **2)** organizacje partnerskie podlegają wpisowi do centralnego rejestru przedsiębiorców, prowadzonego przez Agencję, o którym mowa w art. 22 ust. 1 ustawy z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. z 2012 r. poz. 633 i 1512 oraz z 2014 r. poz. 1146), na zasadach i w trybie określonych w art. 22 ust. 3–8 i art. 23 tej ustawy. Do organizacji partnerskich mogą być dostarczane wyłącznie produkty wyprodukowane na terytorium Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub przez podmioty zagraniczne z państw niebędących stronami umowy o Europejskim Obszarze Gospodarczym, które mogą korzystać ze swobody przedsiębiorczości na podstawie umów zawartych przez te państwa ze Wspólnotą Europejską i jej państwami członkowskimi. Do wyboru przez instytucję zarządzającą organizacji partnerskich stosuje się odpowiednio przepisy art. 37 ust. 1, ust. 3 pkt 1 i ust. 4–6, art. 38 ust. 1 pkt 1, art. 39–44, art. 46 ust. 1 i 3–5, art. 50, art. 53 ust. 1 i 2 pkt 1, art. 54, art. 57, art. 58 ust. 1 i 2 pkt 1 i art. 59–67 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020, przy czym instytucją właściwą do wyboru organizacji partnerskich oraz do rozpatrzenia protestu jest minister właściwy do spraw zabezpieczenia społecznego. Minister właściwy do spraw zabezpieczenia społecznego w porozumieniu z ministrem właściwym do spraw rynków rolnych określi, w drodze rozporządzenia, szczegółowe przeznaczenie, warunki i tryb udzielania przez Agencję wypłat w ramach Programu Operacyjnego, uwzględniając konieczność realizacji celów w nim określonych, efektywnego i skutecznego wykorzystania pomocy finansowej oraz zapewnienia przejrzystości jej udzielania. ” .
+
+**Art. 86.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2013 r. poz. 674, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 8 w ust. 1 w pkt 6 lit. b otrzymuje brzmienie: „ wykonywanie zadań wynikających z programów, o których mowa w przepisach o Narodowym Planie Rozwoju, w przepisach o zasadach prowadzenia polityki rozwoju lub w przepisach o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020, ” ;
+    - **b)**
+
+- **2)** w art. 41 ust. 11 otrzymuje brzmienie: „
+
+11. Osoby bezrobotne biorące udział bez skierowania starosty w szkoleniach finansowanych z publicznych środków wspólnotowych i publicznych środków krajowych na podstawie umowy o dofinansowanie projektu albo decyzji, o których mowa w ustawie z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju (Dz. U. Nr 116, poz. 1206, z późn. zm.), ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju albo ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146), organizowanych przez inny podmiot niż powiatowy urząd pracy, powiadamiają powiatowy urząd pracy o udziale w szkoleniu w terminie 7 dni przed dniem rozpoczęcia szkolenia. ” ;
+
+- **3)** w art. 109 ust. 7 otrzymuje brzmienie: „
+
+7. Podstawę wydatkowania środków Funduszu Pracy na finansowanie w województwie projektów współfinansowanych z Europejskiego Funduszu Społecznego w ramach programów, o których mowa w przepisach o zasadach prowadzenia polityki rozwoju oraz przepisach o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020, stanowi umowa zawarta między zarządem województwa a ministrem właściwym do spraw rozwoju regionalnego, po uprzednim uzgodnieniu treści umowy oraz wysokości środków Funduszu Pracy przeznaczonych na finansowanie tych projektów, w poszczególnych latach realizacji tych programów, z ministrem właściwym do spraw pracy. Kopie zawartych umów minister właściwy do spraw rozwoju regionalnego przekazuje niezwłocznie ministrowi właściwemu do spraw pracy. ” .
+
+**Art. 87.** W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2013 r. poz. 672, z późn. zm.) w art. 84b ust. 1 otrzymuje brzmienie: „ 1. Przepisów art. 79, art. 82 ust. 1 i art. 83 ust. 1 nie stosuje się do kontroli wszczętej w toku postępowania prowadzonego w wyniku złożenia wniosku przez przedsiębiorcę we własnej sprawie, na podstawie przepisów odrębnych ustaw, bezpośrednio stosowanych przepisów powszechnie obowiązującego prawa unijnego oraz kontroli prowadzonej na podstawie ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146). ” .
+
+**Art. 88.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.) w art. 75 w ust. 9a część wspólna otrzymuje brzmienie: „ – korzystający z publicznych środków wspólnotowych i publicznych środków krajowych na podstawie umowy o dofinansowanie projektu albo decyzji, o których mowa w ustawie z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju (Dz. U. Nr 116, poz. 1206, z późn. zm.), ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712, z późn. zm.) albo ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146). ” .
+
+**Art. 89.** W ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm.) w art. 94 w ust. 1 pkt 10 otrzymuje brzmienie: „
+
+- **10)** dofinansowanie lub finansowanie kosztów realizacji inwestycji, w tym służących kształceniu studentów i doktorantów, będących osobami niepełnosprawnymi – realizowanych w szczególności z udziałem środków z budżetu państwa, państwowych funduszy celowych lub środków rozwojowych pochodzących z Unii Europejskiej lub z innych źródeł zagranicznych, o których mowa w ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712, z późn. zm.) oraz ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146); ” .
+
+**Art. 90.** W ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 5 w pkt 7a lit. a otrzymuje brzmienie: „ w zakresie polityki spójności – programy realizowane z wykorzystaniem środków Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności, z wyłączeniem programów Europejskiej Współpracy Terytorialnej, ” ;
+    - **a)**
+
+- **2)** w art. 14g: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) może inicjować programy służące realizacji umowy partnerstwa w zakresie polityki spójności i ich zmiany, opracowywane przez zarząd województwa; ” , – pkt 4 otrzymuje brzmienie: „ 4) opiniuje, co do zgodności z umową partnerstwa, projekty programów służących realizacji umowy partnerstwa oraz ich zmiany. ” , w ust. 3 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **2)** prowadzeniu, we współpracy z właściwymi ministrami i zarządami województw, negocjacji z Komisją Europejską mających na celu uzgodnienie treści tych programów oraz ich zmian; ” ;
+- **3)** art. 14k otrzymuje brzmienie: „ Do programów służących realizacji umowy partnerstwa w zakresie polityki spójności stosuje się odpowiednio przepisy art. 19a i art. 20 ust. 2a, 3 oraz 3b. ” ;
+- **4)** po art. 14k dodaje się art. 14ka i art. 14kb w brzmieniu: „
+
+1. Propozycje zmian programu służącego realizacji umowy partnerstwa w zakresie polityki spójności opracowuje właściwa instytucja zarządzająca tym programem oraz przedkłada je do zatwierdzenia przez komitet monitorujący, o którym mowa w art. 47 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320), zwanego dalej „rozporządzeniem nr 1303/2013”, oraz ministrowi właściwemu do spraw rozwoju regionalnego w celu wyrażenia opinii.
+
+2. Po zatwierdzeniu zmian oraz uzyskaniu opinii, o której mowa w art. 14g ust. 1 pkt 4, zmiany programu służącego realizacji umowy partnerstwa w zakresie polityki spójności, opracowanego przez ministra właściwego do spraw rozwoju regionalnego, są przyjmowane przez Radę Ministrów, w drodze uchwały, przed skierowaniem do przyjęcia przez Komisję Europejską.
+
+3. Rada Ministrów może, w drodze uchwały, upoważnić ministra właściwego do spraw rozwoju regionalnego do przyjmowania zmian programu służącego realizacji umowy partnerstwa w zakresie polityki spójności, opracowanego przez ministra właściwego do spraw rozwoju regionalnego, w zakresie określonym w upoważnieniu.
+
+4. Zmiany, o których mowa w ust. 3, mogą dotyczyć elementów nieobjętych decyzją Komisji Europejskiej przyjmującą program, o których mowa w art. 96 ust. 10 rozporządzenia nr 1303/2013.
+
+5. Minister właściwy do spraw rozwoju regionalnego informuje Radę Ministrów o wszelkich zmianach, o których mowa w ust. 3, w terminie miesiąca od przyjęcia przez komitet monitorujący, o którym mowa w art. 47 rozporządzenia nr 1303/2013, uchwały zmieniającej program.
+
+6. Po zatwierdzeniu zmian oraz uzyskaniu opinii, o której mowa w art. 14g ust. 1 pkt 4, zmiany programu służącego realizacji umowy partnerstwa w zakresie polityki spójności, opracowanego przez zarząd województwa, są przyjmowane przez zarząd województwa, w drodze uchwały, przed skierowaniem do przyjęcia przez Komisję Europejską. Instytucja zarządzająca programem służącym realizacji umowy partnerstwa w zakresie polityki spójności:
+
+- **1)** podaje do publicznej wiadomości, w szczególności na swojej stronie internetowej oraz na portalu, o którym mowa w art. 115 ust. 1 lit. b rozporządzenia nr 1303/2013, ten program oraz jego zmiany, a także termin, od którego program lub jego zmiany są stosowane;
+- **2)** ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” komunikat o adresie strony internetowej oraz portalu, o którym mowa w art. 115 ust. 1 lit. b rozporządzenia nr 1303/2013, na których zostaną zamieszczone ten program oraz jego zmiany, a także o terminie, od którego program lub jego zmiany są stosowane – w przypadku programu służącego realizacji umowy partnerstwa w zakresie polityki spójności opracowanego przez ministra właściwego do spraw rozwoju regionalnego, a w przypadku programu służącego realizacji umowy partnerstwa w zakresie polityki spójności opracowanego przez zarząd województwa – w wojewódzkim dzienniku urzędowym. ” ;
+- **5)** w art. 14l ust. 4 otrzymuje brzmienie: „
+
+4. Zastępcami przewodniczącego Komitetu do spraw Umowy Partnerstwa są:
+
+- **1)** przedstawiciel wyznaczony wspólnie przez ministra właściwego do spraw rozwoju wsi oraz ministra właściwego do spraw rybołówstwa;
+- **2)** przedstawiciel wyznaczony przez ministra właściwego do spraw gospodarki. ” ;
+- **6)** w art. 14p ust. 2 otrzymuje brzmienie: „
+
+2. Kontrakt terytorialny określa ponadto wysokość, sposób i warunki dofinansowania programów służących realizacji umowy partnerstwa w zakresie polityki spójności, opracowywanych przez zarząd województwa, oraz zobowiązanie do stosowania wytycznych, o których mowa w art. 5 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146). ” ;
+
+- **7)** po rozdziale 2b dodaje się rozdział 2c w brzmieniu: „
+
+#### Rozdział 2c Programy Europejskiej Współpracy Terytorialnej
+
+**Art. 91.** W ustawie z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2009 r. Nr 19, poz. 100, z późn. zm.) w art. 18 ust. 1 otrzymuje brzmienie: „ 1. Sfinansowanie przedsięwzięcia z budżetu państwa w kwocie przekraczającej 100 000 000 zł wymaga zgody ministra właściwego do spraw finansów publicznych z wyłączeniem środków przeznaczonych na finansowanie programów operacyjnych, o których mowa w ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712, z późn. zm.) oraz ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146). Udzielając zgody, minister właściwy do spraw finansów publicznych uwzględnia wpływ planowanych wydatków z budżetu państwa na bezpieczeństwo finansów publicznych. ” .
+
+**Art. 92.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 pkt 5 otrzymuje brzmienie: „
+- **5)** środkach europejskich – rozumie się przez to środki, o których mowa w art. 5 ust. 3 pkt 1, 2, 4 i 5a-5c; ” ;
+- **2)** w art. 5 w ust. 3: pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** niepodlegające zwrotowi środki z pomocy udzielanej przez państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA), z wyłączeniem środków, o których mowa w pkt 5 lit. c i d: Norweskiego Mechanizmu Finansowego, Mechanizmu Finansowego Europejskiego Obszaru Gospodarczego, Szwajcarsko-Polskiego Programu Współpracy; ” , po pkt 5 dodaje się pkt 5a-5c w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **b)**
+
+- **5a)** środki przeznaczone na realizację Inicjatywy na rzecz zatrudnienia ludzi młodych;
+- **5b)** środki Europejskiego Funduszu Pomocy Najbardziej Potrzebującym;
+- **5c)** środki pochodzące z instrumentu „Łącząc Europę”, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1316/2013 z dnia 11 grudnia 2013 r. ustanawiającym instrument „Łącząc Europę”, zmieniającym rozporządzenie (UE) nr 913/2010 oraz uchylającym rozporządzenia (WE) nr 680/2007 i (WE) nr 67/2010 (Dz. Urz. UE L 348 z 20.12.2013, str. 129, z późn. zm.); ” ;
+- **3)** w art. 61: w ust. 1 pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** w stosunku do należności budżetu państwa – minister, wojewoda oraz inni dysponenci części budżetowych, a w przypadku należności, o których mowa w art. 60 pkt 6 – instytucje zarządzające, organ odpowiedzialny za wdrożenie instrumentu „Łącząc Europę”, instytucje pośredniczące lub wdrażające, będące jednostkami sektora finansów publicznych, jeżeli instytucja pośrednicząca lub wdrażająca posiada upoważnienie od instytucji zarządzającej lub organu odpowiedzialnego za wdrożenie projektów w ramach instrumentu „Łącząc Europę”, a w przypadku instytucji wdrażającej – od instytucji pośredniczącej; ” , w ust. 3 pkt 2 otrzymuje brzmienie: „
+    - **b)**
+
+- **2)** organ pełniący funkcję instytucji zarządzającej w rozumieniu ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2013 r. poz. 182, ze zm.), zwanej dalej „ustawą o pomocy społecznej”, albo ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712, z późn. zm.), zwanej dalej „ustawą o zasadach prowadzenia polityki rozwoju”, albo ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146), zwanej dalej „ustawą o zasadach realizacji programów”, lub organ odpowiedzialny za realizację instrumentu „Łącząc Europę” – od decyzji wydanej przez instytucję pośredniczącą lub wdrażającą; ” , ust. 4 otrzymuje brzmienie: „
+    - **c)**
+
+4. Od decyzji wydanej w pierwszej instancji przez ministra, instytucję zarządzającą lub organ odpowiedzialny za wdrożenie instrumentu „Łącząc Europę” nie służy odwołanie, jednakże strona niezadowolona z decyzji może zwrócić się do organu, który ją wydał, z wnioskiem o ponowne rozpatrzenie sprawy. ” ;
+
+- **4)** w art. 121 w ust. 2: uchyla się pkt 2 i 3, pkt 5 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **5)** planowane w roku budżetowym i kolejnych dwóch latach wydatki budżetu państwa i budżetu środków europejskich na realizację programu; ” ;
+- **5)** w art. 122 w ust. 1 w pkt 2 lit. a otrzymuje brzmienie: „ jednostek otrzymujących dotacje podmiotowe i celowe, z wyłączeniem dotacji celowych na finansowanie i współfinansowanie programów i projektów finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2, oraz kwoty dotacji, ” ;
+    - **a)**
+
+- **6)** w art. 127 w ust. 2 pkt 4 otrzymuje brzmienie: „
+- **4)** realizację programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 3 pkt 5; ” ;
+- **7)** w art. 132 ust. 4 otrzymuje brzmienie: „
+
+4. Do realizacji inwestycji finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3, stosuje się przepisy odrębne. ” ;
+
+- **8)** w art. 138 ust. 4 otrzymuje brzmienie: „
+
+4. Materiały do projektu ustawy budżetowej w zakresie środków pochodzących z Europejskiego Funduszu Rybackiego oraz środków, o których mowa w art. 5 ust. 3 pkt 4, opracowuje i przedstawia Ministrowi Finansów odpowiednio minister właściwy do spraw rybołówstwa lub minister właściwy do spraw rozwoju wsi, a w zakresie środków, o których mowa w art. 5 ust. 3 pkt 5b – minister właściwy do spraw zabezpieczenia społecznego. ” ;
+
+- **9)** w art. 154 ust. 6 otrzymuje brzmienie: „
+
+6. Podziału rezerwy celowej przeznaczonej na realizację programów finansowanych z udziałem środków pochodzących z Europejskiego Funduszu Rybackiego i na Wspólną Politykę Rolną dokonuje Minister Finansów na wniosek ministrów właściwych do spraw: rybołówstwa, rozwoju wsi i rynków rolnych, a rezerwy celowej przeznaczonej na realizację programu finansowanego z udziałem środków pochodzących z Europejskiego Funduszu Pomocy Najbardziej Potrzebującym dokonuje Minister Finansów na wniosek ministra właściwego do spraw zabezpieczenia społecznego. ” ;
+
+- **10)** w art. 171 po ust. 2 dodaje się ust. 2a w brzmieniu: „
+
+2a. O udzieleniu zgody na dokonanie przeniesienia, o której mowa w ust. 2, minister właściwy do spraw rozwoju regionalnego informuje niezwłocznie Ministra Finansów. ” ;
+
+- **11)** w art. 178 ust. 1 otrzymuje brzmienie: „
+
+1. W przypadku stwierdzenia okoliczności, o których mowa w art. 177 ust. 1, dotyczących wydatkowania środków przeznaczonych na programy finansowane z udziałem środków europejskich, z wyłączeniem programów finansowanych z udziałem środków Europejskiego Funduszu Rybackiego oraz środków, o których mowa w art. 5 ust. 3 pkt 4, Minister Finansów, na wniosek odpowiednio ministra właściwego do spraw rozwoju regionalnego lub ministra właściwego do spraw zabezpieczenia społecznego, może utworzyć nową rezerwę celową i przenieść do niej zablokowane kwoty wydatków, po poinformowaniu sejmowej komisji właściwej do spraw budżetu. ” ;
+
+- **12)** w art. 188: ust. 3 otrzymuje brzmienie: „
+    - **a)**
+
+3. Przepis ust. 1 stosuje się odpowiednio do decyzji, o której mowa w art. 5 pkt 9 ustawy o zasadach prowadzenia polityki rozwoju albo w art. 9 pkt 4 lit. a ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego, albo w art. 9 ust. 2 pkt 3 ustawy o zasadach realizacji programów. ” , ust. 6 otrzymuje brzmienie: „
+
+- **b)**
+
+6. Minister Finansów w porozumieniu z ministrem właściwym do spraw rozwoju regionalnego, ministrem właściwym do spraw zabezpieczenia społecznego oraz ministrem właściwym do spraw rybołówstwa określi, w drodze rozporządzenia:
+
+- **1)** wzór zlecenia płatności,
+- **2)** zakres, terminy i tryb przekazywania przez Bank Gospodarstwa Krajowego informacji dotyczących płatności,
+- **3)** wzory, zakres, terminy i tryb przekazywania informacji przez instytucję, o której mowa w ust. 1, do dysponenta części budżetowej lub do zarządu województwa mając na względzie sprawność realizacji płatności, wymogi prowadzenia przez dysponentów części budżetowych ewidencji księgowej wydatków w ramach programów oraz zapewnienie skutecznej kontroli nad środkami przekazanymi do Banku Gospodarstwa Krajowego. ” ;
+- **13)** w art. 189: ust. 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+1. Zlecenie płatności może dotyczyć kwoty wydatków kwalifikowalnych zgodnie z kryteriami określonymi na podstawie ustawy o zasadach prowadzenia polityki rozwoju albo ustawy o zasadach realizacji programów, albo ustawy o pomocy społecznej, albo rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1316/2013 z dnia 11 grudnia 2013 r. ustanawiającego instrument „Łącząc Europę” zmieniającego rozporządzenie (UE) nr 913/2010 oraz uchylającego rozporządzenia (WE) nr 680/2007 i (WE) nr 67/2010, a w przypadku programu finansowanego z udziałem środków Europejskiego Funduszu Rybackiego – na podstawie ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego, wynikającej z wniosku o płatność, zweryfikowanego pozytywnie przez instytucję, o której mowa w art. 188 ust. 1.
+
+2. Instytucja, o której mowa w art. 188 ust. 1, może wystawić zlecenie dokonania płatności zaliczkowej dla beneficjenta. ” , w ust. 3b wprowadzenie do wyliczenia otrzymuje brzmienie: „ Po bezskutecznym upływie terminu, o którym mowa w ust. 3a, organ pełniący funkcję instytucji zarządzającej, instytucji pośredniczącej albo instytucji wdrażającej w rozumieniu ustawy o zasadach prowadzenia polityki rozwoju albo ustawy o zasadach realizacji programów albo organ pełniący funkcję instytucji zarządzającej lub pośredniczącej w rozumieniu ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego wydaje decyzję o zapłacie odsetek określającą: ” , dodaje się ust. 6 w brzmieniu: „
+
+- **b)**
+- **c)**
+
+6. Przepisy ust. 1–4 stosuje się odpowiednio do projektów realizowanych z udziałem środków, o których mowa w art. 5 ust. 3 pkt 2. ” ;
+
+- **14)** art. 191 otrzymuje brzmienie: „
+
+**Art. 191.**
+
+1. Instytucja, o której mowa w art. 188 ust. 1, przekazuje dysponentowi części budżetowej lub do zarządu województwa, w terminie do 5 dnia każdego miesiąca, zbiorcze harmonogramy wydatków wynikających z podpisanych umów, o których mowa w art. 5 pkt 9 ustawy o zasadach prowadzenia polityki rozwoju albo w art. 134a pkt 7 i art. 134b ust. 2 pkt 2 ustawy o pomocy społecznej, albo w art. 9 pkt 4 lit. b ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego, albo w art. 9 ust. 2 pkt 3 ustawy o zasadach realizacji programów.
+
+2. Przepisy ust. 1 stosuje się odpowiednio do zbiorczych harmonogramów wydatków wynikających z decyzji, o których mowa w art. 5 pkt 9 ustawy o zasadach prowadzenia polityki rozwoju albo w art. 9 pkt 4 lit. a ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego, albo w art. 9 ust. 2 pkt 3 ustawy o zasadach realizacji programów.
+
+3. Przepisy ust. 1 stosuje się odpowiednio do zbiorczych harmonogramów wydatków wynikających z umów o dofinansowanie projektów finansowanych ze środków pochodzących z instrumentu „Łącząc Europę”. ” ;
+
+- **15)** w art. 192 ust. 5 i 6 otrzymują brzmienie: „
+
+5. Minister właściwy do spraw rozwoju regionalnego przekazuje Ministrowi Finansów kwartalne prognozy płatności w ramach programów finansowanych z udziałem środków europejskich w terminie do 15 dnia miesiąca poprzedzającego dany kwartał. W odniesieniu do programu finansowanego ze środków Europejskiego Funduszu Rybackiego prognozy przekazuje minister właściwy do spraw rybołówstwa, w odniesieniu do środków, o których mowa w art. 5 ust. 3 pkt 4 – minister właściwy do spraw rozwoju wsi oraz minister właściwy do spraw rynków rolnych, a w odniesieniu do środków, o których mowa w art. 5 ust. 3 pkt 5b – minister właściwy do spraw zabezpieczenia społecznego.
+
+6. Minister Finansów informuje ministra właściwego do spraw rozwoju regionalnego, ministra właściwego do spraw rybołówstwa oraz ministra właściwego do spraw zabezpieczenia społecznego o kwocie środków wypłaconych przez Bank Gospodarstwa Krajowego beneficjentom w ramach programów finansowanych z udziałem środków europejskich, z wyłączeniem środków, o których mowa w art. 5 ust. 3 pkt 4, w terminie do 15 dnia miesiąca następującego po miesiącu, w którym dokonano płatności. ” ;
+
+- **16)** w art. 193 dodaje się ust. 5 w brzmieniu: „
+
+5. Maksymalny udział budżetu państwa w finansowaniu wydatków w ramach programu operacyjnego nie może przekroczyć wieloletniego limitu zobowiązań budżetu państwa określonego w załączniku do ustawy budżetowej, o którym mowa w art. 122. ” ;
+
+- **17)** w art. 194: po ust. 4 dodaje się ust. 4a w brzmieniu: „
+    - **a)**
+
+4a. O wyrażonej zgodzie minister właściwy do spraw rozwoju regionalnego informuje niezwłocznie Ministra Finansów. ” , ust. 5 otrzymuje brzmienie: „
+
+- **b)**
+
+5. Minister Finansów na wniosek ministra właściwego do spraw rozwoju wsi lub ministra właściwego do spraw rynków rolnych dokonuje przeniesień między częściami i działami w ramach wydatków z udziałem środków, o których mowa w art. 5 ust. 3 pkt 4, a w ramach wydatków z udziałem środków, o których mowa w art. 5 ust. 3 pkt 5b, przeniesień między działami Minister Finansów dokonuje na wniosek ministra właściwego do spraw zabezpieczenia społecznego. ” ;
+
+- **18)** w art. 195: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Minister właściwy do spraw rozwoju regionalnego sprawuje nadzór i kontrolę nad realizacją programów finansowanych z udziałem środków europejskich, z wyłączeniem środków Europejskiego Funduszu Rybackiego oraz środków, o których mowa w art. 5 ust. 3 pkt 4 i 5b. ” , dodaje się ust. 3 w brzmieniu: „
+
+- **b)**
+
+3. Minister właściwy do spraw zabezpieczenia społecznego sprawuje nadzór i kontrolę nad realizacją programu finansowanego z udziałem środków, o których mowa w art. 5 ust. 3 pkt 5b. ” ;
+
+- **19)** w art. 196 po ust. 2 dodaje się ust. 2a w brzmieniu: „
+
+2a. Obsługę bankową rachunków budżetu środków europejskich prowadzi Narodowy Bank Polski lub Bank Gospodarstwa Krajowego. ” ;
+
+- **20)** w art. 206: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Szczegółowe warunki dofinansowania projektu określa umowa o dofinansowanie projektu, o której mowa w art. 5 pkt 9 ustawy o zasadach prowadzenia polityki rozwoju albo w art. 9 pkt 4 lit. b ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego, albo w art. 9 ust. 2 pkt 3 ustawy o zasadach realizacji programów – z wyłączeniem programów w ramach Celu Europejska Współpraca Terytorialna, a projektu w ramach Europejskiego Funduszu Pomocy Najbardziej Potrzebującym określają umowy, o których mowa w art. 134a pkt 7 i art. 134b ust. 2 pkt 2 ustawy o pomocy społecznej, albo umowa o dofinansowanie projektu finansowanego ze środków pochodzących z instrumentu „Łącząc Europę”. ” , w ust. 2 po pkt 4 dodaje się pkt 4a w brzmieniu: „
+
+- **b)**
+- **4a)** zobowiązanie do stosowania wytycznych, o których mowa w art. 2 pkt 32 ustawy o zasadach realizacji programów, a w zakresie programu finansowanego z udziałem środków pochodzących z Europejskiego Funduszu Pomocy Najbardziej Potrzebującym – zobowiązanie do stosowania wytycznych, o których mowa w art. 134a pkt 6 ustawy o pomocy społecznej; ” , ust. 4 otrzymuje brzmienie: „
+    - **c)**
+
+4. Przepis ust. 2 pkt 6 nie ma zastosowania do beneficjenta programu finansowanego z udziałem środków europejskich będącego jednostką sektora finansów publicznych albo fundacją, której jedynym fundatorem jest Skarb Państwa, a także do Banku Gospodarstwa Krajowego, a w zakresie programu finansowanego z udziałem środków pochodzących z Europejskiego Funduszu Pomocy Najbardziej Potrzebującym – do umów, o których mowa w art. 134a pkt 7 i art. 134b ust. 2 pkt 2 ustawy o pomocy społecznej. ” ;
+
+- **21)** w art. 207: w ust. 1 część wspólna otrzymuje brzmienie: „ – podlegają zwrotowi wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, liczonymi od dnia przekazania środków, w terminie 14 dni od dnia doręczenia ostatecznej decyzji, o której mowa w ust. 9, na wskazany w tej decyzji rachunek bankowy. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+2a. Odsetki, o których mowa w ust. 1, nalicza się do dnia zwrotu środków lub do dnia wpływu do właściwej instytucji pisemnej zgody na pomniejszenie kolejnych płatności, o której mowa w ust. 8, jeżeli taka zgoda została wyrażona. ” , ust. 7 otrzymuje brzmienie: „
+
+- **c)**
+
+7. Przepisu ust. 4 nie stosuje się do podmiotów, które na podstawie odrębnych przepisów realizują zadania interesu publicznego, jeżeli spowoduje to niemożność wdrożenia działania w ramach programu lub znacznej jego części, do jednostek samorządu terytorialnego i samorządowych osób prawnych, instytutów badawczych prowadzących działalność leczniczą, podmiotów leczniczych utworzonych przez organy administracji rządowej oraz podmiotów leczniczych utworzonych lub prowadzonych przez uczelnie medyczne, a także do beneficjentów, o których mowa w art. 134b ust. 2 pkt 2 ustawy o pomocy społecznej. ” , ust. 9 otrzymuje brzmienie: „
+
+- **d)**
+
+9. Po bezskutecznym upływie terminu, o którym mowa w ust. 8, organ:
+
+- **1)** pełniący funkcję instytucji zarządzającej lub instytucji pośredniczącej w rozumieniu ustawy o zasadach prowadzenia polityki rozwoju albo ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego, albo ustawy o zasadach realizacji programów, albo
+- **2)** pełniący funkcję instytucji pośredniczącej dla Europejskiego Funduszu Pomocy Najbardziej Potrzebującym, albo
+- **3)** pełniący funkcję odpowiednio Krajowego Punktu Kontaktowego lub Krajowej Instytucji Koordynującej w programach finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 2, albo
+- **4)** odpowiedzialny za wdrożenie instrumentu „Łącząc Europę” wydaje decyzję określającą kwotę przypadającą do zwrotu i termin, od którego nalicza się odsetki, oraz sposób zwrotu środków, z uwzględnieniem ust. 2. ” , ust. 11 otrzymuje brzmienie: „
+    - **e)**
+
+11. Instytucja zarządzająca lub instytucja pośrednicząca na podstawie porozumienia lub umowy, o których mowa w art. 27 i art. 32 ustawy o zasadach prowadzenia polityki rozwoju albo art. 10 ust. 1 i 2 ustawy o zasadach realizacji programów, albo organ odpowiedzialny za wdrożenie instrumentu „Łącząc Europę”, albo organ pełniący funkcję odpowiednio Krajowego Punktu Kontaktowego lub Krajowej Instytucji Koordynującej w programach finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 2, na podstawie porozumienia lub umowy, może upoważnić instytucję wdrażającą, a w przypadku programów finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 2 – operatora programu lub instytucję pośredniczącą, będącą jednostką sektora finansów publicznych, do wydawania decyzji, o której mowa w ust. 9. ” , po ust. 11 dodaje się ust. 11a w brzmieniu: „
+
+- **f)**
+
+11a. W przypadku gdy operator programu lub instytucja pośrednicząca w programach finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 2, powierza na podstawie porozumienia lub umowy wykonywanie części swoich zadań innemu podmiotowi będącemu jednostką sektora finansów publicznych, porozumienie lub umowa może również zawierać upoważnienie do wydawania decyzji, o której mowa w ust. 9, o ile operator programu lub instytucja pośrednicząca zostały upoważnione do wydawania takich decyzji na podstawie ust. 11. ” , ust. 12 otrzymuje brzmienie: „
+
+- **g)**
+
+12. Od decyzji, o której mowa w ust. 9, wydanej przez:
+
+- **1)** operatora programu albo
+- **2)** instytucję pośredniczącą lub instytucję wdrażającą, o których mowa w ust. 11, albo
+- **3)** podmiot upoważniony do wydania tej decyzji na podstawie ust. 11a służy odwołanie do właściwej instytucji zarządzającej albo organu pełniącego funkcję odpowiednio Krajowego Punktu Kontaktowego lub Krajowej Instytucji Koordynującej w programach finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 2, a jeżeli rozpatrywanie odwołań od decyzji instytucji wdrażającej zostało powierzone instytucji pośredniczącej – do instytucji pośredniczącej. ” , po ust. 12 dodaje się ust. 12a w brzmieniu: „
+    - **h)**
+
+12a. W przypadku wydania decyzji w pierwszej instancji przez:
+
+- **1)** instytucję zarządzającą albo
+- **2)** organ odpowiedzialny za wdrożenie instrumentu „Łącząc Europę”, albo
+- **3)** organ pełniący funkcję odpowiednio Krajowego Punktu Kontaktowego lub Krajowej Instytucji Koordynującej w programach finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 2 służy wniosek do tej instytucji albo organu o ponowne rozpatrzenie sprawy. ” ;
+- **22)** w art. 210 ust. 1 otrzymuje brzmienie: „
+
+1. Minister Finansów prowadzi rejestr podmiotów wykluczonych na podstawie art. 207 oraz udostępnia zawarte w nim informacje instytucjom zarządzającym, instytucjom pośredniczącym, instytucjom wdrażającym i instytucji certyfikującej, a także beneficjentom w zakresie ich własnego statusu. ” .
+
+**Art. 93.** W ustawie z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju (Dz. U. Nr 96, poz. 616, z późn. zm.) w art. 30 dodaje się ust. 5 i 6 w brzmieniu: „ 5. Centrum może uczestniczyć w realizacji programów operacyjnych, o których mowa w ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146). 6. W zakresie realizacji programów operacyjnych, o których mowa w ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020, Centrum może wykonywać również inne zadania niż wskazane w ust. 1. ” .
+
+**Art. 94.** W ustawie z dnia 30 kwietnia 2010 r. o Narodowym Centrum Nauki (Dz. U. Nr 96, poz. 617, z późn. zm.) w art. 20 dodaje się ust. 6 i 7 w brzmieniu: „ 6. Centrum może uczestniczyć w realizacji programów operacyjnych, o których mowa w ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146). 7. W zakresie realizacji programów, o których mowa w ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020, Centrum może wykonywać również inne zadania niż wskazane w ust. 1. ” .
+
+**Art. 95.** W ustawie z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2013 r. poz. 217, z późn. zm.) w art. 115 ust. 2 otrzymuje brzmienie: „ 2. Przepis ust. 1 stosuje się odpowiednio do decyzji, o której mowa w art. 5 pkt 9 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712, z późn. zm.) oraz w art. 2 pkt 2 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146). ” .
 
 #### Rozdział 18 Przepisy przejściowe i końcowy
 
@@ -1230,9 +1559,9 @@ Art. 73–95. (pominięte)
 
 **Art. 97.**
 
-1. Projekt Programu Operacyjnego Pomoc Żywnościowa 2014– 2020 przyjęty przez Radę Ministrów przed dniem wejścia w życie ustawy staje się Programem Operacyjnym w rozumieniu ustawy zmienianej w art. 85 , w brzmieniu nadanym niniejszą ustawą, i może być zmieniany.
+1. Projekt Programu Operacyjnego Pomoc Żywnościowa 2014–2020 przyjęty przez Radę Ministrów przed dniem wejścia w życie ustawy staje się Programem Operacyjnym w rozumieniu ustawy zmienianej w art. 85, w brzmieniu nadanym niniejszą ustawą, i może być zmieniany.
 
-2. W przypadku zatwierdzenia przez Komisję Europejską przed dniem wejścia w życie ustawy projektu Programu Operacyjnego Pomoc Żywnościowa 2014– 2020 program ten staje się Programem Operacyjnym w rozumieniu ustawy zmienianej w art. 85 , w brzmieniu nadanym niniejszą ustawą, i może być zmieniany.
+2. W przypadku zatwierdzenia przez Komisję Europejską przed dniem wejścia w życie ustawy projektu Programu Operacyjnego Pomoc Żywnościowa 2014–2020 program ten staje się Programem Operacyjnym w rozumieniu ustawy zmienianej w art. 85, w brzmieniu nadanym niniejszą ustawą, i może być zmieniany.
 
 **Art. 98.**
 
@@ -1249,13 +1578,16 @@ Art. 73–95. (pominięte)
 
 5. Środki finansowe zgromadzone na rachunku, o którym mowa w ust. 2, są uruchamiane przez Bank Gospodarstwa Krajowego wyłącznie na wniosek podmiotu określonego w ust. 4.
 
-**Art. 99.** Do spraw z zakresu ustalania i nakładania korekt finansowych, o których mowa w art. 98 rozporządzenia Rady (WE) nr 1083/2006 z dnia 11 lipca 2006 r. ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności i uchylającego rozporządzenie (WE) nr 1260/1999, w których właściwa instytucja przed dniem wejścia w życie ustawy nie nałożyła korekty finansowej, stosuje się przepisy ustawy zmienianej w art. 90 , w brzmieniu nadanym niniejszą ustawą.
+**Art. 99.** Do spraw z zakresu ustalania i nakładania korekt finansowych, o których mowa w art. 98 rozporządzenia Rady (WE) nr 1083/2006 z dnia 11 lipca 2006 r. ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności i uchylającego rozporządzenie (WE) nr 1260/1999, w których właściwa instytucja przed dniem wejścia w życie ustawy nie nałożyła korekty finansowej, stosuje się przepisy ustawy zmienianej w art. 90, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 100.** Przepisy art. 121 ust. 2 ustawy zmienianej w art. 92 , w brzmieniu nadanym niniejszą ustawą, stosuje się po raz pierwszy do ustawy budżetowej na rok 2015.
+**Art. 100.** Przepisy art. 121 ust. 2 ustawy zmienianej w art. 92, w brzmieniu nadanym niniejszą ustawą, stosuje się po raz pierwszy do ustawy budżetowej na rok 2015.
 
-**Art. 101.** Przepisy art. 189 ust. 1 i 2 ustawy zmienianej w art. 92 , w brzmieniu nadanym niniejszą ustawą, stosuje się do środków przekazywanych w ramach programów operacyjnych obejmujących perspektywę finansową 2014–2020.
+**Art. 101.** Przepisy art. 189 ust. 1 i 2 ustawy zmienianej w art. 92, w brzmieniu nadanym niniejszą ustawą, stosuje się do środków przekazywanych w ramach programów operacyjnych obejmujących perspektywę finansową 2014–2020.
 
 **Art. 102.** Instytucja zarządzająca w terminie miesiąca od dnia wejścia w życie ustawy zamieszcza na swojej stronie internetowej oraz na portalu, o którym mowa w art. 115 ust. 1 lit. b rozporządzenia ogólnego, harmonogram naborów wniosków o dofinansowanie projektu w trybie konkursowym, których prowadzenie jest planowane w roku, w którym ustawa weszła w życie.
 
-**Art. 103.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+**Art. 103.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+- **1)** Ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320), rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1301/2013 z dnia 17 grudnia 2013 r. w sprawie Europejskiego Funduszu Rozwoju Regionalnego i przepisów szczególnych dotyczących celu „Inwestycje na rzecz wzrostu i zatrudnienia” oraz w sprawie uchylenia rozporządzenia (WE) nr 1080/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 289), rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1304/2013 z dnia 17 grudnia 2013 r. w sprawie Europejskiego Funduszu Społecznego i uchylającego rozporządzenie Rady (WE) nr 1081/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 470), rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1300/2013 z dnia 17 grudnia 2013 r. w sprawie Funduszu Spójności i uchylającego rozporządzenie (WE) nr 1084/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 281), rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1299/2013 z dnia 17 grudnia 2013 r. w sprawie przepisów szczegółowych dotyczących wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Europejska współpraca terytorialna” (Dz. Urz. UE L 347 z 20.12.2013, str. 259) – w zakresie dotyczącym wykorzystania Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności w ramach programów realizowanych w zakresie polityki spójności. 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 września 1991 r. o systemie oświaty, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 30 maja 1996 r. o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości, ustawę z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 18 lipca 2001 r. – Prawo wodne, ustawę z dnia 14 marca 2003 r. o Banku Gospodarstwa Krajowego, ustawę z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, ustawę z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych, ustawę z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych, ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym, ustawę z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, ustawę z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym, ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych, ustawę z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju, ustawę z dnia 30 kwietnia 2010 r. o Narodowym Centrum Nauki oraz ustawę z dnia 15 kwietnia 2011 r. o działalności leczniczej. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644, z 2012 r. poz. 1237, z 2013 r. poz. 714 oraz z 2014 r. poz. 379 i 1146. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646 oraz z 2014 r. poz. 379 i 1146. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1793 i 1800, z 2002 r. Nr 10, poz. 89 i Nr 240, poz. 2056, z 2004 r. Nr 240, poz. 2407 oraz z 2009 r. Nr 219, poz. 1707. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1342, 1448, 1529 i 1530, z 2013 r. poz. 35, 1027 i 1608 oraz z 2014 r. poz. 312. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 93, poz. 585, z 2010 r. Nr 18, poz. 99 oraz z 2011 r. Nr 233, poz. 1381. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 645 i 1318 oraz z 2014 r. poz. 379 i 1072. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984, 1047 i 1473 oraz z 2014 r. poz. 423, 768, 811 i 915. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101 i 1529 oraz z 2014 r. poz. 183 i 543. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 25, poz. 219 i Nr 33, poz. 285, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 165, poz. 1170 i Nr 176, poz. 1238, z 2010 r. Nr 41, poz. 233, Nr 182, poz. 1228 i Nr 229, poz. 1497 oraz z 2011 r. Nr 230, poz. 1371. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206, z 2012 r. poz. 941 i 979, z 2013 r. poz. 87, 827, 1191, 1265, 1317 i 1650 oraz z 2014 r. poz. 7, 290, 538, 598, 642 i 811. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644, z 2012 r. poz. 1237, z 2013 r. poz. 714 oraz z 2014 r. poz. 379. 14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644, z 2012 r. poz. 1237, z 2013 r. poz. 714 oraz z 2014 r. poz. 379. 15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1623, 1650 i 1717 oraz z 2014 r. poz. 567 i 598. 16) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1166, 1342 i 1529, z 2013 r. poz. 1289 oraz z 2014 r. poz. 379, 567 i 897. 17) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 116, poz. 730 i 732 i Nr 227, poz. 1505 oraz z 2010 r. Nr 96, poz. 620, Nr 240, poz. 1603 i Nr 257, poz. 1726. 18) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 90, poz. 759 i Nr 267, poz. 2251, z 2006 r. Nr 149, poz. 1074 i Nr 249, poz. 1832, z 2008 r. Nr 216, poz. 1370, z 2009 r. Nr 161, poz. 1277, z 2011 r. Nr 84, poz. 455 oraz z 2014 r. poz. 379. 19) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644, z 2012 r. poz. 1237, z 2013 r. poz. 714 oraz z 2014 r. poz. 379. 20) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238 oraz z 2014 r. poz. 40, 47, 457, 822 i 1101. 21) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1513, z 2013 r. poz. 21 i 165 oraz z 2014 r. poz. 659, 822 i 850. 22) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644, z 2012 r. poz. 1237, z 2013 r. poz. 714 oraz z 2014 r. poz. 379. 23) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644, z 2012 r. poz. 1237, z 2013 r. poz. 714 oraz z 2014 r. poz. 379. 24) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984, 1047 i 1473 oraz z 2014 r. poz. 423, 768, 811 i 915. 25) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 509 i 1650 oraz z 2014 r. poz. 567, 598 i 1004. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2012 r. poz. 1544 i 1548. 26) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 509 i 1650 oraz z 2014 r. poz. 567, 598 i 1004. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2012 r. poz. 1544 i 1548. 27) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 829, 1291, 1623, 1645 i 1650 oraz z 2014 r. poz. 567 i 598. 28) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 90, poz. 759 i Nr 267, poz. 2251, z 2006 r. Nr 149, poz. 1074 i Nr 249, poz. 1832, z 2008 r. Nr 216, poz. 1370, z 2009 r. Nr 161, poz. 1277, z 2011 r. Nr 84, poz. 455 oraz z 2014 r. poz. 379. 29) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 983, 1036, 1238, 1304 i 1650 oraz z 2014 r. poz. 822, 1133 i 1138. 30) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725, z 2011 r. Nr 45, poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657, Nr 122, poz. 696, Nr 138, poz. 808, Nr 149, poz. 887, Nr 171, poz. 1016, Nr 205, poz. 1203 i Nr 232, poz. 1378, z 2012 r. poz. 123, 1016, 1342 i 1548, z 2013 r. poz. 154, 879, 983, 1290, 1623, 1646 i 1650 oraz z 2014 r. poz. 24, 295, 496, 567, 619, 773, 1004, 1136 i 1138. 31) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 90, poz. 759 i Nr 267, poz. 2251, z 2006 r. Nr 149, poz. 1074 i Nr 249, poz. 1832, z 2008 r. Nr 216, poz. 1370, z 2009 r. Nr 161, poz. 1277, z 2011 r. Nr 84, poz. 455 oraz z 2014 r. poz. 379. 32) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644, z 2012 r. poz. 1237, z 2013 r. poz. 714 oraz z 2014 r. poz. 379. 33) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 742 i 1544, z 2013 r. poz. 675, 829, 1005, 1588 i 1650 oraz z 2014 r. poz. 7, 768, 821 i 1004. 34) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644, z 2012 r. poz. 1237, z 2013 r. poz. 714 oraz z 2014 r. poz. 379. 35) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644, z 2012 r. poz. 1237, z 2013 r. poz. 714 oraz z 2014 r. poz. 379. 36) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 106, poz. 675, z 2011 r. Nr 232, poz. 1378 oraz z 2012 r. poz. 1342. 37) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644, z 2012 r. poz. 1237, z 2013 r. poz. 714 oraz z 2014 r. poz. 379 i 1146. 38) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646 oraz z 2014 r. poz. 379 i 911. 39) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 509 i 1650 oraz z 2014 r. poz. 567, 598, 1004 i 1146. Tekst jednolity nie uwzględnia zmian ogłoszonych w Dz. U. z 2012 r. poz. 1544 i 1548. 40) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644, z 2012 r. poz. 1237, z 2013 r. poz. 714 oraz z 2014 r. poz. 379 i 1146. 41) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 257, poz. 1726, z 2011 r. Nr 84, poz. 455 i Nr 185, poz. 1092 oraz z 2012 r. poz. 951. 42) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 257, poz. 1726, z 2011 r. Nr 185, poz. 1092 oraz z 2013 r. poz. 675. 43) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 24, 423, 619 i 1138. 44) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644, z 2012 r. poz. 1237, z 2013 r. poz. 714 oraz z 2014 r. poz. 379 i 1146.
+
 

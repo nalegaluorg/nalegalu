@@ -1,0 +1,600 @@
+---
+title: Ustawa z dnia 10 września 2003 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji
+address: WDU20031931884
+eli: DU/2003/1884
+publisher: DU
+year: 2003
+pos: 1884
+act_type: Ustawa
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Ustawa z dnia 10 września 2003 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2003 nr 193 poz. 1884 |
+| ISAP | WDU20031931884 |
+| Typ aktu | Ustawa |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2003-09-10 |
+| Data wydania | 2003-11-18 |
+| Wejście w życie | 2004-01-01 |
+| Ostatnia zmiana | 2024-03-15 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031931884) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1884/text.pdf) |
+
+§ 1.
+Organ wykonujący dostarcza, na wniosek obcego państwa, wszystkie informacje, które mogą być użyteczne lub potrzebne temu państwu w dochodzeniu jego należności pieniężnych, z zastrzeżeniem § 2.
+§ 2.
+Organ wykonujący nie jest obowiązany udzielić obcemu państwu informacji:
+1)
+których nie mógłby uzyskać do celów egzekucji analogicznych należności pieniężnych powstałych na terytorium Rzeczypospolitej Polskiej,
+2)
+które są objęte tajemnicą zawodową, handlową lub przemysłową,
+3)
+których ujawnienie prowadziłoby lub mogłoby prowadzić do zagrożenia bezpieczeństwa Rzeczypospolitej Polskiej lub jej porządku publicznego.
+§ 3.
+Przepisy § 1 i 2 stosuje się odpowiednio do pomocy, o którą może się ubiegać organ wnioskujący od obcego państwa.
+§ 4.
+Organ wykonujący powiadamia pisemnie obce państwo o przyczynach odmowy udzielenia informacji, wskazując właściwy przepis stanowiący podstawę tej odmowy.
+§ 5.
+Powiadomienia, o którym mowa w § 4, dokonuje się niezwłocznie po stwierdzeniu przesłanek, o których mowa w § 2, nie później jednak niż w terminie 3 miesięcy od dnia potwierdzenia otrzymania wniosku o udzielenie informacji.
+§ 1.
+Wniosek o udzielenie informacji kierowany przez organ wnioskujący do obcego państwa może dotyczyć:
+1)
+zobowiązanego,
+2)
+podmiotu zobowiązanego do uregulowania należności pieniężnych, jeżeli prawo Rzeczypospolitej Polskiej przewiduje odpowiedzialność innych osób za obowiązki zobowiązanego.
+§ 2.
+Wniosek o udzielenie informacji kierowany przez organ wnioskujący do obcego państwa może dotyczyć również podmiotów, w których posiadaniu znajduje się mienie należące do podmiotów wymienionych w § 1.
+§ 3.
+Przepisy § 1 i 2 stosuje się odpowiednio do pomocy świadczonej na rzecz obcego państwa.
+§ 1.
+We wniosku o udzielenie informacji podaje się nazwisko lub nazwę, adres i inne posiadane dane niezbędne do identyfikacji podmiotów, których wniosek dotyczy, oraz rodzaj i kwoty należności pieniężnych, w związku z dochodzeniem których sporządza się wniosek.
+§ 2.
+Organ wnioskujący sporządza wniosek o udzielenie informacji w formie pisemnej według ustalonego wzoru. Jeżeli organ wnioskujący nie może przekazać wniosku drogą elektroniczną, podpisuje wniosek i opatruje go swoją pieczęcią urzędową.
+§ 3.
+Jeżeli podobny wniosek o udzielenie informacji przesyła się do innego organu, organ wnioskujący umieszcza o tym informację w swoim wniosku.
+§ 1.
+Jeżeli informacje zawarte we wniosku obcego państwa nie są w ocenie organu wykonującego wystarczające do wykonania wniosku, zwraca się on niezwłocznie do tego państwa z wnioskiem o nadesłanie informacji uzupełniających.
+§ 2.
+Jeżeli z wnioskiem, o którym mowa w § 1, zwraca się obce państwo, organ wnioskujący dostarcza wszystkich niezbędnych i dostępnych mu danych.
+§ 1.
+Organ wykonujący natychmiast przekazuje każdą posiadaną lub uzyskaną informację w takiej formie, w jakiej została ona uzyskana.
+§ 2.
+Jeżeli część lub całość informacji nie może być uzyskana we właściwym terminie, organ wykonujący informuje pisemnie obce państwo o przyczynach niemożności przekazania informacji w tym terminie.
+§ 3.
+Organ wykonujący, po upływie 6 miesięcy od dnia potwierdzenia otrzymania wniosku o udzielenie informacji, informuje obce państwo o wynikach postępowania prowadzonego w celu uzyskania wnioskowanych informacji, jeżeli wcześniej nie przekazał wszystkich wnioskowanych informacji.
+§ 4.
+Jeżeli informacje otrzymane od obcego państwa nie są w ocenie organu wnioskującego wystarczające, może on zwrócić się do tego państwa z wnioskiem o nadesłanie informacji uzupełniających.
+§ 5.
+Wniosek, o którym mowa w § 4, sporządza się na piśmie i przesyła obcemu państwu w terminie 2 miesięcy od dnia otrzymania informacji o wynikach postępowania przeprowadzonego przez obce państwo w celu uzyskania wnioskowanych informacji.
+§ 6.
+Jeżeli z wnioskiem analogicznym do wniosku, o którym mowa w § 4, zwraca się obce państwo, organ wykonujący dostarcza wszystkich niezbędnych i dostępnych mu danych.
+§ 7.
+Do wniosku, o którym mowa w § 4, stosuje się przepisy dotyczące wniosku o udzielenie informacji.
+Wniosek o udzielenie informacji może być w każdym czasie wycofany przez organ wnioskujący. Informację o wycofaniu wniosku przekazuje się obcemu państwu w formie pisemnej.
+§ 1.
+Wniosek o powiadomienie, kierowany przez organ wnioskujący do obcego państwa, może dotyczyć podmiotu, który zgodnie z prawem Rzeczypospolitej Polskiej powinien być powiadomiony o czynnościach i orzeczeniach administracyjnych i sądowych, które zostały podjęte w Rzeczypospolitej Polskiej i które odnoszą się do należności pieniężnych przysługujących od tego podmiotu lub do dochodzenia takiej należności.
+§ 2.
+Przepis § 1 stosuje się odpowiednio do pomocy świadczonej na rzecz obcego państwa, z tym że powiadomienia dokonuje się w trybie przepisów o doręczeniach w postępowaniu administracyjnym.
+§ 1.
+Wniosek o powiadomienie zawiera wszystkie potrzebne informacje, w tym w szczególności nazwisko lub nazwę, adres oraz inne posiadane dane niezbędne do identyfikacji podmiotu, którego wniosek dotyczy, a także rodzaj i przedmiot czynności lub orzeczeń, o których należy powiadomić, a jeżeli jest niezbędne – również nazwisko lub nazwę oraz adres zobowiązanego, a także należności pieniężne, których dotyczy tytuł wykonawczy, orzeczenie lub inny dokument.
+§ 2.
+Jeżeli w orzeczeniu lub innym dokumencie będącym przedmiotem wniosku o powiadomienie kierowanego do obcego państwa brak jest pouczenia o przysługujących środkach zaskarżenia, we wniosku o powiadomienie wskazuje się przepisy prawa Rzeczypospolitej Polskiej regulujące sposób kwestionowania należności pieniężnej lub jej dochodzenia.
+§ 3.
+Wniosek o powiadomienie sporządza się pisemnie w dwóch egzemplarzach według ustalonego wzoru.
+§ 4.
+Wniosek, o którym mowa w § 1, podpisuje organ wnioskujący i opatruje go swoją pieczęcią urzędową.
+§ 5.
+Do wniosku, o którym mowa w § 1, dołącza się dwa egzemplarze pism, orzeczeń lub innych dokumentów, o których należy powiadomić. Przepis art. 66y § 3 stosuje się odpowiednio.
+§ 6.
+Organ wykonujący niezwłocznie informuje obce państwo o działaniach podjętych na jego wniosek, a w szczególności o dacie dokonanego powiadomienia.
+§ 1.
+Jeżeli w ocenie organu wykonującego informacje zawarte we wniosku o powiadomienie są niewystarczające, może on wystąpić do obcego państwa o przekazanie uzupełniających informacji, o ile nie spowoduje to niedotrzymania terminu powiadomienia wskazanego we wniosku.
+§ 2.
+Jeżeli z wnioskiem o przekazanie uzupełniających informacji występuje państwo obce, organ wykonujący przekazuje dostępne mu informacje.
+§ 3.
+Organ wykonujący niezwłocznie informuje obce państwo o dacie dokonanego powiadomienia przez zwrot jednego egzemplarza wniosku poświadczonego na odwrocie.
+§ 1.
+Organ wnioskujący, z zastrzeżeniem § 2, może wystąpić do obcego państwa z wnioskiem o dochodzenie należności pieniężnych, jeżeli:
+1)
+należności pieniężne lub postępowanie egzekucyjne wszczęte na terytorium Rzeczypospolitej Polskiej nie są kwestionowane przez zobowiązanego albo są kwestionowane, ale prawo Rzeczypospolitej Polskiej dopuszcza kontynuowanie postępowania w takim przypadku,
+2)
+postępowanie, o którym mowa w pkt 1, nie doprowadziło do całkowitego zaspokojenia wierzyciela.
+§ 2.
+Organ wnioskujący nie może domagać się od obcego państwa udzielenia pomocy, o której mowa w § 1, jeżeli egzekucja należności pieniężnych, z powodu sytuacji zobowiązanego, stworzyłaby poważne trudności ekonomiczne lub społeczne w tym państwie, a prawo tego państwa pozwala na nieprowadzenie egzekucji w takim przypadku.
+§ 3.
+Przepisy § 1 i 2 stosuje się odpowiednio do pomocy świadczonej na rzecz obcego państwa.
+§ 4.
+Jeżeli okoliczności, o których mowa w § 2, wystąpią na terytorium Rzeczypospolitej Polskiej, organ wykonujący powiadamia pisemnie obce państwo o odmowie udzielenia mu pomocy, niezwłocznie po podjęciu decyzji w tej sprawie, nie później niż w terminie 3 miesięcy od dnia otrzymania wniosku od tego państwa. Przepis art. 66c § 5 stosuje się odpowiednio.
+§ 5.
+Do wniosku o dochodzenie należności pieniężnych stosuje się odpowiednio art. 66m § 1 i 2.
+§ 1.
+Wniosek o dochodzenie należności pieniężnych zawiera:
+1)
+nazwę, adres i inne informacje identyfikujące organ wnioskujący,
+2)
+nazwisko lub nazwę oraz adres zobowiązanego lub osoby trzeciej będącej w posiadaniu majątku zobowiązanego, a także inne informacje identyfikujące te podmioty,
+3)
+wskazanie tytułu wykonawczego,
+4)
+rodzaje i kwoty należności pieniężnych, w tym kwotę należności głównej, odsetek i wszystkich innych kar, grzywien i należnych kosztów, wyrażone w złotych polskich i w walucie państwa, do którego wniosek jest kierowany,
+5)
+datę doręczenia tytułu wykonawczego,
+6)
+datę, od której jest możliwe wszczęcie egzekucji należności pieniężnej, i okres, w którym egzekucja ta może być prowadzona zgodnie z prawem Rzeczypospolitej Polskiej,
+7)
+inne informacje istotne dla dochodzenia należności pieniężnych.
+§ 2.
+Wniosek o dochodzenie należności pieniężnych zawiera oświadczenie organu wnioskującego, że zostały spełnione warunki, o których mowa w art. 66w § 1.
+§ 3.
+Wysokość dochodzonych należności pieniężnych przelicza się na walutę obcego państwa według średniego kursu złotego, w stosunku do waluty tego państwa, ogłoszonego przez Prezesa Narodowego Banku Polskiego w dniu podpisania wniosku o dochodzenie należności pieniężnych.
+§ 1.
+Wniosek o dochodzenie należności pieniężnych lub ich zabezpieczenie sporządza się pisemnie według ustalonego wzoru.
+§ 2.
+Wniosek, o którym mowa w § 1, oraz oświadczenie, o którym mowa w art. 66x § 2, podpisuje organ wnioskujący i opatruje go swoją pieczęcią urzędową.
+§ 3.
+Do wniosku o dochodzenie należności pieniężnych dołącza się urzędowy odpis lub urzędowo albo notarialnie poświadczoną kopię tytułu wykonawczego oraz, jeżeli to potrzebne, oryginały lub poświadczone w powyższy sposób kopie innych dokumentów niezbędnych do dochodzenia należności pieniężnych.
+§ 4.
+Dołączany do wniosku, o którym mowa w § 1, tytuł wykonawczy może obejmować kilka należności pieniężnych przysługujących od tego samego zobowiązanego.
+§ 5.
+W przypadku uzyskania przez organ wnioskujący informacji istotnych dla dochodzenia należności pieniężnych będących przedmiotem wniosku o ich dochodzenie, organ ten przekazuje je niezwłocznie obcemu państwu.
+§ 1.
+Należności pieniężne obcego państwa, na które został wystawiony zagraniczny tytuł wykonawczy, traktuje się jak należności powstałe na terytorium Rzeczypospolitej Polskiej, z zastrzeżeniem § 2.
+§ 2.
+O ile odrębne przepisy nie stanowią inaczej, do należności pieniężnych dochodzonych na wniosek obcego państwa można nie stosować uprzywilejowanej kolejności zaspokojenia, z której korzystają analogiczne należności pieniężne polskich wierzycieli.
+§ 1.
+W przypadku otrzymania przez organ wykonujący od obcego państwa wniosku o dochodzenie należności pieniężnych objętych zagranicznym tytułem wykonawczym, organ ten wystawia na jego podstawie tytuł wykonawczy zgodnie z wzorem, o którym mowa w art. 26 § 1, chyba że zagraniczny tytuł wykonawczy został sporządzony nieprawidłowo.
+§ 2.
+§ 3.
+W tytule wykonawczym wystawionym przez organ wykonujący wskazuje się ten organ jako wierzyciela wnioskującego o wszczęcie egzekucji.
+§ 4.
+Organ wykonujący, w terminie 3 miesięcy od dnia otrzymania wniosku o dochodzenie należności pieniężnych, kieruje wystawiony przez siebie tytuł wykonawczy do właściwego organu egzekucyjnego w celu wykonania. Jednocześnie organ wykonujący przesyła do właściwego organu egzekucyjnego kopię zagranicznego tytułu wykonawczego celem doręczenia jej zobowiązanemu, chyba że tytuł ten został wcześniej doręczony. Przepisów art. 15 nie stosuje się.
+§ 5.
+Organ wykonujący niezwłocznie informuje obce państwo o skierowaniu wystawionego przez siebie tytułu wykonawczego do organu egzekucyjnego.
+§ 6.
+W przypadku niedotrzymania przez organ wykonujący terminu, o którym mowa w § 4, organ ten informuje obce państwo o przyczynie jego niedotrzymania.
+§ 7.
+Jeżeli wskutek podjęcia czynności, o których mowa w § 4, zostanę zakwestionowane dochodzone należności pieniężne lub zagraniczny tytuł wykonawczy je obejmujący, stosuje się odpowiednio przepisy art. 66zf, 66zg i 66zi.
+§ 1.
+W przypadku otrzymania od obcego państwa wniosku o dochodzenie należności pieniężnych, organ wykonujący niezwłocznie, nie później niż w terminie 7 dni od otrzymania wniosku, występuje pisemnie do obcego państwa o uzupełnienie wniosku, jeżeli nie zawiera on informacji określonych w art. 66x § 1 i 2.
+§ 2.
+Jeżeli z wnioskiem, o którym mowa w § 1, zwraca się obce państwo, organ wnioskujący przekazuje dostępne informacje.
+§ 3.
+Jeżeli organ wykonujący nie podejmie czynności, o których mowa w art. 66za § 1 i 4, w terminie 3 miesięcy od dnia otrzymania wniosku o dochodzenie należności pieniężnych, informuje pisemnie obce państwo o powodach niepodjęcia tych czynności, niezwłocznie, nie później niż w terminie 7 dni, licząc od dnia, w którym upłynął trzymiesięczny okres.
+§ 1.
+Jeżeli we właściwym terminie dla danej sprawy cała lub część dochodzonych należności pieniężnych nie może być wyegzekwowana, organ wykonujący informuje o tym obce państwo, wskazując tego przyczyny.
+§ 2.
+Organ wykonujący informuje obce państwo o podjętych działaniach oraz wynikach prowadzonego postępowania egzekucyjnego nie później niż w dniu kończącym sześciomiesięczny okres lub każdą jego wielokrotność, licząc od dnia potwierdzenia otrzymania wniosku.
+§ 3.
+Jeżeli informacje, o których mowa w § 2, otrzymał od obcego państwa organ wnioskujący i z tych informacji wynika możliwość dochodzenia należności pieniężnych, organ ten może wystąpić do obcego państwa o ponowne wszczęcie postępowania egzekucyjnego.
+§ 4.
+Przepis § 3 stosuje się odpowiednio do pomocy świadczonej na rzecz obcego państwa.
+§ 5.
+Wniosek o ponowne wszczęcie postępowania egzekucyjnego sporządza się pisemnie w terminie 2 miesięcy od dnia otrzymania informacji, o których mowa w § 3.
+§ 6.
+Do wniosku o ponowne wszczęcie postępowania egzekucyjnego stosuje się przepisy dotyczące wniosku o dochodzenie należności pieniężnych.
+§ 1.
+Organ egzekucyjny realizujący wniosek organu wykonującego o udzielenie pomocy obcemu państwu, za zgodą organu wykonującego wyrażoną w uzgodnieniu z obcym państwem, może odroczyć termin płatności należności pieniężnych lub rozłożyć na raty spłatę takich należności, o ile prawo Rzeczypospolitej Polskiej dopuszcza stosowanie takich ulg w spłacie w odniesieniu do analogicznych należności pieniężnych polskich wierzycieli.
+§ 2.
+W sprawach, o których mowa w § 1, stosuje się odpowiednio przepisy prawa Rzeczypospolitej Polskiej regulujące udzielanie ulg w spłacie analogicznych należności pieniężnych polskich wierzycieli.
+§ 1.
+Od należności pieniężnych obcych państw objętych tytułem wykonawczym wystawionym przez organ wykonujący nalicza się odsetki z tytułu nieterminowego regulowania należności pieniężnych w wysokości i na zasadach określonych w przepisach Rzeczypospolitej Polskiej regulujących naliczanie takich odsetek od analogicznych należności pieniężnych polskich wierzycieli, z zastrzeżeniem § 2.
+§ 2.
+Odsetki, o których mowa w § 1, nalicza się od dnia wystawienia tytułu wykonawczego.
+§ 1.
+W trakcie postępowania egzekucyjnego wszczętego na wniosek obcego państwa zobowiązany zgłasza zastrzeżenia dotyczące zagranicznego tytułu wykonawczego lub należności pieniężnych objętych tym tytułem, zwane dalej „zarzutami”, wyłącznie do właściwych władz tego państwa, zgodnie z prawem tego państwa. O wniesionych zarzutach zobowiązany może powiadomić organ wykonujący lub organ egzekucyjny.
+§ 2.
+Organ wykonujący, który otrzymał powiadomienie o wniesionych przez zobowiązanego zarzutach, powiadamia o tym właściwy organ egzekucyjny.
+§ 3.
+Organ wykonujący informuje organ egzekucyjny o podjętym przez obce państwo rozstrzygnięciu w sprawie wniesionych zarzutów.
+§ 4.
+Organ egzekucyjny wstrzymuje postępowanie egzekucyjne z dniem powiadomienia go o wniesionych zarzutach, o których mowa w § 1, do dnia powiadomienia go o rozstrzygnięciu obcego państwa w sprawie wniesionych zarzutów, z zastrzeżeniem § 5.
+§ 5.
+Jeżeli w przypadku, o którym mowa w § 1, obce państwo zwróci się do organu wykonującego o kontynuowanie egzekucji, organ ten kieruje wniosek w tej sprawie do organu egzekucyjnego, chyba że prawo Rzeczypospolitej Polskiej nie zezwala na podjęcie takich działań w odniesieniu do analogicznych należności pieniężnych polskiego wierzyciela. Przepis art. 57 § 1 stosuje się odpowiednio.
+§ 6.
+W przypadku, o którym mowa w § 1, organ wykonujący może wystąpić do organu egzekucyjnego o zabezpieczenie dochodzonych należności pieniężnych, jeżeli przepisy zawarte w dziale IV pozwalają na zabezpieczenie analogicznej należności pieniężnej polskiego wierzyciela.
+§ 7.
+Organ wykonujący powiadamia obce państwo o podjętych działaniach, o których mowa w § 5 i 6.
+§ 8.
+Z wnioskiem, o którym mowa w § 5 i 6, może wystąpić do obcego państwa organ wnioskujący, z tym że nie może domagać się od tego państwa udzielenia wnioskowanej pomocy, jeżeli prawo obcego państwa na to nie zezwala.
+§ 1.
+Jeżeli w wyniku postępowania prowadzonego przez obce państwo w sprawie wniesionych zarzutów uznano je za zasadne, organ egzekucyjny jest zobowiązany do wypłaty zobowiązanemu roszczeń z tytułu nienależnie wyegzekwowanych kwot oraz przyznanego odszkodowania. Przepis art. 64c § 3b stosuje się odpowiednio.
+§ 2.
+Organ egzekucyjny niezwłocznie powiadamia organ wykonujący o wysokości należnych kwot z tytułów, o których mowa w § 1, zwanych dalej „kwotami zwracanymi zobowiązanemu”.
+§ 3.
+Organ wykonujący po otrzymaniu powiadomienia, o którym mowa w § 2, występuje do obcego państwa o pokrycie kwot zwracanych zobowiązanemu.
+§ 1.
+Jeżeli z wnioskiem analogicznym do wniosku, o którym mowa w art. 66zf § 5, zwrócił się do obcego państwa organ wnioskujący, a w wyniku postępowania prowadzonego na terytorium Rzeczypospolitej Polskiej uznano, że zachodzą przesłanki, o których mowa w art. 33 pkt 1–4, 6, 7 lub 10, organ wnioskujący jest zobowiązany do przekazania obcemu państwu środków na pokrycie kwot zwracanych zobowiązanemu przez obce państwo zgodnie z prawem tego państwa. Organ wnioskujący może dokonać rozliczenia kwot zwracanych zobowiązanemu z udziałem obcego państwa.
+§ 2.
+Przekazania, o którym mowa w § 1, dokonuje się w terminie 2 miesięcy od dnia otrzymania od obcego państwa wniosku w takiej sprawie.
+§ 3.
+Polski wierzyciel, który doprowadził do powstania kwot zwracanych zobowiązanemu, jest zobowiązany do przekazania organowi wnioskującemu środków na pokrycie tych kwot, w terminie 14 dni od dnia otrzymania wezwania organu wnioskującego do pokrycia tych kwot. W przypadku niewykonania wezwania w tym terminie, organ wnioskujący stosuje odpowiednio art. 64c § 5 i 7.
+§ 1.
+Jeżeli sprawa zarzutów była przedmiotem postępowania przed właściwym sądem obcego państwa i z orzeczenia sądu wynika możliwość kontynuowania postępowania egzekucyjnego, orzeczenie sądu stanowi zagraniczny tytuł wykonawczy.
+§ 2.
+Jeżeli z orzeczenia, o którym mowa w § 1, wynika inna wysokość dochodzonej należności, organ wykonujący aktualizuje tytuł wykonawczy. Przepisy wydane na podstawie art. 6 § 2 stosuje się odpowiednio.
+§ 1.
+Polski wierzyciel niezwłocznie informuje organ wnioskujący o podjętych na terytorium Rzeczypospolitej Polskiej działaniach polegających na zakwestionowaniu dochodzonych należności pieniężnych lub wystawionego na nie tytułu wykonawczego.
+§ 2.
+Informację, o której mowa w § 1, organ wnioskujący przekazuje na piśmie niezwłocznie obcemu państwu.
+§ 3.
+Jeżeli informację o działaniach analogicznych do działań, o których mowa w § 1, otrzymał od obcego państwa organ wykonujący, a prawo Rzeczypospolitej Polskiej mające zastosowanie do analogicznej należności pieniężnej polskiego wierzyciela nie pozwala na podjęcie działań, o których mowa w art. 66zf § 5 i 6, organ ten powiadamia o tym obce państwo.
+§ 4.
+Powiadomienia, o którym mowa w § 3, dokonuje się niezwłocznie po otrzymaniu informacji od obcego państwa o zakwestionowaniu dochodzonych należności pieniężnych lub wystawionego na nie tytułu wykonawczego, nie później jednak niż w terminie miesiąca od otrzymania takiej informacji.
+§ 1.
+Jeżeli wniosek o dochodzenie należności pieniężnych stanie się bezprzedmiotowy ze względu na ich zapłatę, umorzenie lub z innego powodu, organ wnioskujący informuje o tym niezwłocznie na piśmie obce państwo.
+§ 2.
+Informacja, o której mowa w § 1, otrzymana od obcego państwa stanowi podstawę do zaprzestania działań prowadzonych przez właściwy organ egzekucyjny lub rekwizycyjny.
+§ 3.
+Jeżeli wysokość należności pieniężnych objętych wnioskiem, o którym mowa w § 1, ulegnie zmianie, organ wnioskujący niezwłocznie informuje o tym pisemnie obce państwo.
+§ 4.
+Polski wierzyciel, informując organ wnioskujący o zmianie wysokości należności pieniężnych objętych wnioskiem o ich dochodzenie, dołącza zaktualizowany tytuł wykonawczy, jeżeli przepisy wydane na podstawie art. 6 § 2 nakładają na niego obowiązek takiej aktualizacji.
+§ 5.
+Jeżeli zmiana, o której mowa w § 3, polega na zmniejszeniu należności pieniężnych, organ wykonujący powiadamia o tym właściwy organ egzekucyjny, który ogranicza egzekucję do kwoty wskazanej w tym powiadomieniu.
+§ 6.
+Jeżeli przed terminem przekazania informacji, o której mowa w § 5, należności pieniężne zostały wyegzekwowane w kwocie wyższej, niż wynika to z tej informacji, a wyegzekwowane należności pieniężne nie zostały przekazane obcemu państwu, nienależnie wyegzekwowane kwoty podlegają zwrotowi zobowiązanemu.
+§ 7.
+Jeżeli zmiana, o której mowa w § 3, polega na zwiększeniu należności pieniężnych, organ wnioskujący występuje do obcego państwa z dodatkowym wnioskiem o dochodzenie należności pieniężnych.
+§ 8.
+W przypadku otrzymania przez organ wykonujący od obcego państwa dodatkowego wniosku o dochodzenie należności pieniężnych, stosuje się odpowiednio przepisy dotyczące wniosku o dochodzenie należności pieniężnych.
+§ 9.
+Dodatkowy wniosek o dochodzenie należności pieniężnych, zgłoszony po zakończeniu postępowania egzekucyjnego wszczętego na podstawie pierwotnego wniosku, podlega wykonaniu, jeżeli dotyczy należności pieniężnych nie mniejszych niż 1 500 euro.
+§ 10.
+Do należności pieniężnych polskich wierzycieli będących przedmiotem dodatkowego wniosku o dochodzenie należności pieniężnych stosuje się kursy wymiany, o których mowa w art. 66e § 3 i art. 66x § 3, mające zastosowanie przy sporządzaniu pierwotnego wniosku.
+Należności pieniężne mogą być zabezpieczone na uzasadniony wniosek obcego państwa lub organu wnioskującego. Przepisy niniejszego oddziału dotyczące dochodzenia należności pieniężnych stosuje się odpowiednio.
+§ 1.
+Okresy ograniczeń w dochodzeniu należności pieniężnych na wniosek obcego państwa regulują przepisy tego państwa.
+§ 2.
+Zastosowane przez obce państwo środki egzekucyjne lub ulgi w spłacie, o których mowa w art. 66zd § 1, wywołują taki sam skutek, jak podjęte na terytorium Rzeczypospolitej Polskiej.
+§ 1.
+Organ egzekucyjny egzekwuje należności pieniężne w złotych i wyegzekwowane należności pieniężne przekazuje organowi wykonującemu. Organ wykonujący całą wyegzekwowaną kwotę należności pieniężnych przekazuje obcemu państwu w terminie miesiąca od dnia ich wyegzekwowania.
+§ 2.
+Przepis § 1 stosuje się również do odsetek, o których mowa w art. 66ze § 1, oraz odsetek naliczonych w związku z zastosowaniem ulg w spłacie, o których mowa w art. 66zd § 1.
+§ 3.
+Organ wykonujący może dokonać podziału kwoty uzyskanej z egzekucji na dochodzone należności pieniężne i koszty egzekucyjne z udziałem zainteresowanego obcego państwa.
+§ 4.
+Organ wykonujący może przyjąć w uzgodnieniu z obcym państwem inny termin przekazywania wyegzekwowanych kwot, jeżeli przekazywana kwota jest mniejsza niż 1 500 euro.
+§ 1.
+Obowiązek uznaje się za wykonany, niezależnie od odsetek pobieranych w okolicznościach, o których mowa w art. 66zd § 1, i odsetek określonych w art. 66ze § 1, jeżeli został on wyegzekwowany w złotych w kwocie, która, po przeliczeniu według zasady określonej w art. 66x § 3, jest równa kwocie określonej w walucie obcego państwa w zagranicznym tytule wykonawczym, na podstawie którego obce państwo wystąpiło z wnioskiem o dochodzenie należności pieniężnych.
+§ 2.
+Przepis § 1 stosuje się odpowiednio do obowiązku egzekwowanego przez obce państwo na wniosek organu wnioskującego.
+§ 3.
+Jeżeli wyegzekwowana przez obce państwo kwota należności pieniężnych po przeliczeniu na złote według średniego kursu waluty obcego państwa w stosunku do złotego, ogłoszonego przez Prezesa Narodowego Banku Polskiego w dniu otrzymania kwoty, jest wyższa lub niższa od kwoty wykazanej w tytule wykonawczym, różnica stanowi odpowiednio dochód lub stratę polskiego wierzyciela.
+§ 1.
+Jeżeli w przypadkach, o których mowa w art. 64c § 4c, organ wykonujący podejmuje decyzję o ubieganiu się od obcego państwa zwrotu kosztów, powiadamia o tym pisemnie obce państwo.
+§ 2.
+Do powiadomienia, o którym mowa w § 1, dołącza się szczegółowe zestawienie przewidywanych kosztów.
+§ 3.
+Jeżeli powiadomienie, analogiczne do powiadomienia, o którym mowa w §. 1, otrzymał organ wnioskujący, potwierdza jego otrzymanie niezwłocznie na piśmie, nie później jednak niż w terminie 7 dni od dnia otrzymania powiadomienia.
+§ 4.
+Organ wnioskujący w terminie 2 miesięcy od dnia potwierdzenia, o którym mowa w § 3, informuje obce państwo, czy i w jakim zakresie pokryje wnioskowane koszty.
+§ 5.
+Jeżeli organ wykonujący nie uzgodni z zainteresowanym obcym państwem sposobu pokrycia kosztów, nie podejmuje się czynności wywołujących skutki, o których mowa w art. 64c § 4c.
+” ;
+16)
+w art. 69 § 3 otrzymuje brzmienie:
+„
+§ 3.
+Przepis § 1 nie ma zastosowania do należności z tytułu składek na ubezpieczenie społeczne, zobowiązań podatkowych oraz należności, o których mowa w art. 2 § 1 pkt 4.
+” ;
+17)
+w art. 105 § 3 otrzymuje brzmienie:
+„
+§ 3.
+Przekazanie, o którym mowa w § 1 pkt 3, i sprzedaż na warunkach określonych w § 2 następuje po cenie oszacowania.
+” ;
+18)
+w art. 110:
+a)
+po § 1 dodaje się § 1a w brzmieniu:
+„
+§ 1a.
+O okolicznościach, o których mowa w § 1, organ egzekucyjny informuje wierzyciela niebędącego jednocześnie organem egzekucyjnym lub organ wykonujący, jeżeli egzekucja jest prowadzona w celu ściągnięcia należności pieniężnych obcego państwa.
+” ,
+b)
+§ 2 i 3 otrzymują brzmienie:
+„
+§ 2.
+Egzekucja administracyjna z nieruchomości może być prowadzona tylko w celu wyegzekwowania należności pieniężnych określonych lub ustalonych w ostatecznym orzeczeniu, a w przypadku orzeczenia sądu wydanego na terytorium Rzeczypospolitej Polskiej – zaopatrzonego również w klauzulę wykonalności, a także należności pieniężnych wynikających z tytułu wykonawczego, o którym mowa w art. 44 ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa.
+§ 3.
+Organ egzekucyjny podejmuje czynności egzekucyjne związane z egzekucją z nieruchomości na wniosek wierzyciela, z tym że jeżeli wierzycielem jest obce państwo – na wniosek organu wykonującego, z zastrzeżeniem § 3a.
+” ,
+c)
+po § 3 dodaje się § 3a w brzmieniu:
+„
+§ 3a.
+Organ egzekucyjny podejmuje czynności, o których mowa w § 3, po otrzymaniu zaliczki na pokrycie przewidywanych wydatków od wierzyciela niebędącego naczelnikiem urzędu skarbowego lub obcym państwem, zwanego dalej „wierzycielem finansującym”.
+” ,
+d)
+§ 4 i 5 otrzymują brzmienie:
+„
+§ 4.
+Wierzyciel finansujący wpłaca zaliczkę do organu egzekucyjnego sukcesywnie, w miarę podejmowania przez ten organ kolejnych czynności egzekucyjnych. Wysokość poszczególnych wpłat zaliczki określa organ egzekucyjny na podstawie przewidywanych wydatków, z tym że jeżeli do egzekucji z nieruchomości przystąpili kolejni wierzyciele finansujący – również dla tych wierzycieli, rozdzielając kwotę zaliczki między wszystkich wierzycieli finansujących w proporcji odpowiadającej stosunkowi ich należności pieniężnych do łącznej kwoty należności pieniężnych wierzycieli finansujących, z zastrzeżeniem § 5.
+§ 5.
+Łączna kwota zaliczki należna od jednego wierzyciela finansującego nie może być większa niż 5% egzekwowanej należności pieniężnej wraz z odsetkami z tytułu niezapłacenia jej w terminie i nie większa niż 11 400 zł, z tym że kwotę odsetek przyjmuje się na dzień ustalenia pierwszej zaliczki.
+” ;
+19)
+art. 110b otrzymuje brzmienie:
+„
+
+**Art. 1.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2002 r. Nr 110, poz. 968, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** art. 1 otrzymuje brzmienie: „ Ustawa określa:
+- **1)** sposób postępowania wierzycieli w przypadkach uchylania się zobowiązanych od wykonania ciążących na nich obowiązków, o których mowa w art. 2,
+- **2)** prowadzone przez organy egzekucyjne postępowanie i stosowane przez nie środki przymusu służące doprowadzeniu do wykonania lub zabezpieczenia wykonania obowiązków, o których mowa w art. 2,
+- **3)** sposób i zakres udzielania pomocy obcemu państwu lub korzystania z jego pomocy przy dochodzeniu należności pieniężnych. ” ;
+- **2)** w art. 1a: po pkt 4 dodaje się pkt 4a i 4b w brzmieniu: „
+    - **a)**
+
+- **4a)** należnościach przywozowych – rozumie się przez to cła i opłaty o analogicznym charakterze należne przy przywozie towarów oraz opłaty przywozowe ustanowione w ramach wspólnej polityki rolnej Unii Europejskiej lub na podstawie odrębnych przepisów mających zastosowanie do określonych towarów powstałych w wyniku przetworzenia produktów rolnych,
+- **4b)** należnościach wywozowych – rozumie się przez to cła i opłaty o analogicznym charakterze należne przy wywozie towarów oraz opłaty wywozowe ustanowione w ramach wspólnej polityki rolnej Unii Europejskiej lub na podstawie odrębnych przepisów mających zastosowanie do określonych towarów powstałych w wyniku przetworzenia produktów rolnych, ” , po pkt 5 dodaje się pkt 5a w brzmieniu: „
+    - **b)**
+
+- **5a)** obcym państwie – rozumie się przez to właściwą władzę lub instytucję tego państwa, która odpowiednio: jest uprawniona do występowania do organu wykonującego o udzielenie pomocy w zakresie, o którym mowa w art. 66d § 1, lub do której organ wnioskujący występuje o udzielenie takiej pomocy, jest wierzycielem należności, o których mowa w art. 2 § 1 pkt 8 i 9, powstałych na terytorium tego państwa, podejmuje na terytorium tego państwa działania objęte wnioskiem organu wnioskującego lub rozstrzygnięcia w sprawie zgłoszonych zarzutów, ” , po pkt 8 dodaje się pkt 8a i 8b w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **c)**
+
+- **8a)** organie wnioskującym – rozumie się przez to organ uprawniony do występowania do obcego państwa z wnioskiem o udzielenie pomocy w sprawach dotyczących należności pieniężnych, o których mowa w art. 2 § 1 pkt 8 i 9,
+- **8b)** organie wykonującym – rozumie się przez to organ uprawniony do przyjmowania od obcego państwa wniosku o udzielenie pomocy w sprawach dotyczących należności pieniężnych, o których mowa w art. 2 § 1 pkt 8 i 9, ” , po pkt 9 dodaje się pkt 9a-9c w brzmieniu: „
+    - **d)**
+
+- **9a)** podatku od dochodu – rozumie się przez to podatek dochodowy od osób prawnych, podatek dochodowy od osób fizycznych lub inne podatki pobierane w państwach obcych i uznane w prawie Unii Europejskiej za podatki od dochodu,
+- **9b)** podatku od majątku – rozumie się przez to podatek pobierany w obcych państwach i uznany w prawie Unii Europejskiej za podatek od majątku lub podatek od czynności cywilnoprawnych,
+- **9c)** podatku od składek ubezpieczeniowych – rozumie się przez to pobierane w obcych państwach podatki od przychodów zakładów ubezpieczeń z tytułu składek ubezpieczeniowych lub inne należności związane z analogicznymi podatkami, które uzupełniają lub zastępują podatki od składek ubezpieczeniowych, ” ;
+- **3)** art. 2 otrzymuje brzmienie: „
+
+**Art. 2.**
+
+§ 1. Egzekucji administracyjnej podlegają następujące obowiązki:
+
+- **1)** podatki, opłaty i inne należności, do których stosuje się przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. Nr 137, poz. 926, z późn. zm.),
+- **2)** grzywny i kary pieniężne wymierzane przez organy administracji publicznej,
+- **3)** należności pieniężne, inne niż wymienione w pkt 1 i 2, jeżeli pozostają we właściwości rzeczowej organów administracji publicznej,
+- **4)** należności przypadające od jednostek budżetowych, wynikające z zastosowania wzajemnego potrącenia zobowiązań podatkowych z zobowiązaniami tych jednostek,
+- **5)** należności pieniężne przekazane do egzekucji administracyjnej na podstawie innych ustaw,
+- **6)** wpłaty na rzecz funduszy celowych utworzonych na podstawie odrębnych przepisów,
+- **7)** należności pieniężne z tytułu składek do Funduszu Żeglugi Śródlądowej oraz składek specjalnych do Funduszu Rezerwowego,
+- **8)** należności pieniężne wynikające z tytułu: zwrotów, interwencji i innych środków będących częścią systemu całkowitego lub częściowego finansowania Europejskiego Funduszu Orientacji i Gwarancji Rolnej, łącznie z sumami, które mają być pobrane w związku z tymi działaniami, opłat i innych należności przewidzianych w ramach wspólnej organizacji rynku Unii Europejskiej dla sektora cukru, należności przywozowych, należności wywozowych, podatku od towarów i usług, akcyzy od: – produktów tytoniowych, – alkoholi i napojów alkoholowych, – olejów mineralnych, podatku od dochodu lub podatku od majątku, podatku od składek ubezpieczeniowych, odsetek, kar i grzywien administracyjnych, kosztów i innych należności związanych z należnościami, o których mowa w lit. a)-h), z wyłączeniem wszelkich sankcji o charakterze karnym określonych w prawie państwa udzielającego pomocy,
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+
+- **9)** należności pieniężne przekazane do egzekucji administracyjnej na podstawie ratyfikowanych umów międzynarodowych, których stroną jest Rzeczpospolita Polska,
+- **10)** obowiązki o charakterze niepieniężnym pozostające we właściwości organów administracji rządowej i samorządu terytorialnego lub przekazane do egzekucji administracyjnej na podstawie przepisu szczególnego,
+- **11)** obowiązki z zakresu bezpieczeństwa i higieny pracy oraz wypłaty należnego wynagrodzenia za pracę, a także innego świadczenia przysługującego pracownikowi, nakładane w drodze decyzji organów Państwowej Inspekcji Pracy.
+
+§ 2. W zakresie nieuregulowanym odrębnymi przepisami, należności, o których mowa w § 1, podlegają zabezpieczeniu w trybie i na zasadach określonych w dziale IV.
+
+§ 3. Poddanie obowiązku egzekucji administracyjnej nie przesądza o wyłączeniu sporu co do jego istnienia lub wysokości przed sądem powszechnym, jeżeli z charakteru obowiązku wynika, że do rozpoznania takiego sporu właściwy jest ten sąd. ” ;
+
+- **4)** w art. 3 § 1a i 2 otrzymują brzmienie: „
+
+§ 1a. Egzekucję administracyjną stosuje się również do należności pieniężnych, o których mowa w art. 2 § 1 pkt 5, wynikających z tytułów wykonawczych wystawionych przez ministra właściwego do spraw finansów publicznych na podstawie art. 44 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2003 r. Nr 174, poz. 1689), zwanej dalej „ustawą o poręczeniach i gwarancjach udzielanych przez Skarb Państwa”.
+
+§ 2. Egzekucję administracyjną stosuje się również do należności pieniężnych, o których mowa w art. 2 § 1 pkt 8 i 9, wynikających z orzeczeń lub innych aktów prawnych wydanych przez obce państwa. ” ;
+
+- **5)** w art. 5 § 2 otrzymuje brzmienie: „
+
+§ 2. Uprawnionym do żądania wykonania, w drodze egzekucji administracyjnej, obowiązków, o których mowa w art. 2 § 1 pkt 8 i 9, jest również obce państwo. Prawa i obowiązki takiego państwa wykonuje organ wykonujący, chyba że ratyfikowana umowa międzynarodowa, której stroną jest Rzeczpospolita Polska, lub przepisy ustawy stanowią inaczej. ” ;
+
+- **6)** w art. 19: § 1 otrzymuje brzmienie: „
+    - **a)**
+
+§ 1. Z zastrzeżeniem § 2–8, naczelnik urzędu skarbowego jest organem egzekucyjnym uprawnionym do stosowania wszystkich środków egzekucyjnych w egzekucji administracyjnej należności pieniężnych, do zabezpieczania takich należności w trybie i na zasadach określonych w dziale IV, a także do realizacji wniosków obcych państw o udzielenie pomocy w zakresie, o którym mowa w art. 66d § 1. ” , § 5 otrzymuje brzmienie: „
+
+- **b)**
+
+§ 5. Dyrektor izby celnej jest organem egzekucyjnym uprawnionym do stosowania wszystkich środków egzekucyjnych, z wyjątkiem egzekucji z nieruchomości, w egzekucji administracyjnej należności pieniężnych, do których poboru zobowiązane są organy celne na podstawie odrębnych przepisów. ” ;
+
+- **7)** w art. 34: po § 1 dodaje się § 1a w brzmieniu: „
+    - **a)**
+
+§ 1a. Jeżeli zarzut zobowiązanego jest lub był przedmiotem rozpatrzenia w odrębnym postępowaniu administracyjnym, podatkowym lub sądowym albo zobowiązany kwestionuje w całości lub w części wymagalność należności pieniężnej z uwagi na jej wysokość ustaloną lub określoną w orzeczeniu, od którego przysługują środki zaskarżenia, wierzyciel wydaje postanowienie o niedopuszczalności zgłoszonego zarzutu. ” , § 4 otrzymuje brzmienie: „
+
+- **b)**
+
+§ 4. Organ egzekucyjny, po otrzymaniu ostatecznego postanowienia w sprawie stanowiska wierzyciela lub postanowienia o niedopuszczalności zgłoszonego zarzutu, wydaje postanowienie w sprawie zgłoszonych zarzutów, a jeżeli zarzuty są uzasadnione – o umorzeniu postępowania egzekucyjnego albo o zastosowaniu mniej uciążliwego środka egzekucyjnego. ” ;
+
+- **8)** art. 55a otrzymuje brzmienie: „
+
+**Art. 55a.** Jeżeli egzekucja prowadzona wobec podmiotu wpisanego w Krajowym Rejestrze Sądowym dotyczy należności podatkowych albo należności pieniężnych, do poboru których są zobowiązane odpowiednio organy celne albo Zakład Ubezpieczeń Społecznych, a nie zostały one uregulowane w terminie 60 dni od daty wszczęcia egzekucji, organ egzekucyjny składa wniosek o wpisanie do Krajowego Rejestru Sądowego daty wszczęcia egzekucji tych należności, wysokości pozostałych do wyegzekwowania kwot oraz daty i sposobu zakończenia egzekucji. ” ;
+
+- **9)** w art. 57 po § 1 dodaje się § 1a w brzmieniu: „
+
+§ 1a. W przypadku zawieszenia postępowania egzekucyjnego w związku z rozłożeniem na raty spłat należności pieniężnej, organ egzekucyjny podejmuje zawieszone postępowanie w zakresie wskazanym przez wierzyciela. ” ;
+
+- **10)** w art. 59 § 4 otrzymuje brzmienie: „
+
+§ 4. Postanowienie, o którym mowa w § 3, wydaje się na żądanie zobowiązanego lub wierzyciela albo z urzędu. ” ;
+
+- **11)** w art. 64c: po § 2 dodaje się § 2a w brzmieniu: „
+    - **a)**
+
+§ 2a. Przepisu § 2 nie stosuje się do organu wykonującego. ” , § 3 otrzymuje brzmienie: „
+
+- **b)**
+
+§ 3. Jeżeli po pobraniu od zobowiązanego należności z tytułu kosztów egzekucyjnych okaże się, że wszczęcie i prowadzenie egzekucji było niezgodne z prawem, należności te, wraz z naliczonymi od dnia ich pobrania odsetkami ustawowymi, organ egzekucyjny zwraca zobowiązanemu, a jeżeli niezgodne z prawem wszczęcie i prowadzenie egzekucji spowodował wierzyciel, obciąża nimi wierzyciela, z zastrzeżeniem § 3a. ” , po § 3 dodaje się § 3a i 3b w brzmieniu: „
+
+- **c)**
+
+§ 3a. Jeżeli niezgodne z prawem wszczęcie i prowadzenie egzekucji spowodowało obce państwo, koszty i odsetki, o których mowa w § 3, pokrywa organ wykonujący po uzyskaniu środków pieniężnych od tego państwa.
+
+§ 3b. Środki pieniężne otrzymane od obcego państwa na pokrycie kosztów i odsetek, o których mowa w § 3, organ wykonujący przekazuje do właściwego organu egzekucyjnego lub rekwizycyjnego zgodnie z § 10–12. ” , § 4 otrzymuje brzmienie: „
+
+- **d)**
+
+§ 4. Wierzyciel pokrywa koszty egzekucyjne, jeżeli nie mogą być one ściągnięte od zobowiązanego, z zastrzeżeniem § 4a-4c oraz art. 64e § 4a. ” , po § 4 dodaje się § 4a-4c w brzmieniu: „
+
+- **e)**
+
+§ 4a. Do nieściągniętych kosztów egzekucyjnych, powstałych w niezgodnie z prawem wszczętym i prowadzonym postępowaniu egzekucyjnym na podstawie tytułu wykonawczego wystawionego przez organ wykonujący, stosuje się odpowiednio § 3a i 3b.
+
+§ 4b. Nieściągnięte od zobowiązanego wydatki egzekucyjne, poniesione w zgodnie z prawem wszczętym i prowadzonym postępowaniu egzekucyjnym na podstawie tytułu wykonawczego wystawionego przez organ wykonujący, organ egzekucyjny lub rekwizycyjny pokrywa bezpośrednio z budżetu państwa.
+
+§ 4c. Jeżeli dochodzenie należności na wniosek obcego państwa stwarza szczególne problemy, powoduje powstanie znacząco wysokich kosztów egzekucyjnych lub wiąże się z walką ze zorganizowaną przestępczością, koszty te pokrywa organ wykonujący po uzyskaniu środków pieniężnych od obcego państwa. Przepis § 3b stosuje się odpowiednio. ” , § 9 i 10 otrzymują brzmienie: „
+
+- **f)**
+
+§ 9. Środki pieniężne pochodzące z wyegzekwowanych lub pokrytych przez wierzyciela kosztów egzekucyjnych, w tym powstałych w postępowaniu egzekucyjnym prowadzonym na podstawie tytułu wykonawczego wystawionego przez organ wykonujący, przypadają na rzecz tego organu, który je uzyskał, z zastrzeżeniem § 10 i 11.
+
+§ 10. Jeżeli koszty egzekucyjne zostały pokryte przez wierzyciela, środki pieniężne uzyskane z tego tytułu przypadają na rzecz organu, który dokonał czynności egzekucyjnych powodujących powstanie tych kosztów, z zastrzeżeniem § 11. ” , po § 10 dodaje się § 11 i 12 w brzmieniu: „
+
+- **g)**
+
+§ 11. Jeżeli czynności egzekucyjne powodujące powstanie kosztów, o których mowa w art. 64 § 1 pkt 2–6 i § 6, zostały dokonane przez więcej niż jeden organ egzekucyjny lub rekwizycyjny, uzyskane z tego tytułu środki pieniężne rozdziela się między te organy w proporcji odpowiadającej stosunkowi wyegzekwowanych przez nie kwot do kwot wyegzekwowanych w całym postępowaniu egzekucyjnym. Przepis art. 64 § 3 stosuje się odpowiednio.
+
+§ 12. Rozliczenia, o którym mowa w § 11, dokonuje organ egzekucyjny kończący postępowanie egzekucyjne, nie później niż w terminie 30 dni od dnia zakończenia postępowania egzekucyjnego. Rozliczenie może być dokonane za zgodą wierzyciela przez potrącenie wzajemnych należności. Na postanowienie w sprawie rozliczenia kosztów przysługuje zażalenie organom, których dotyczy to rozliczenie. ” ;
+
+- **12)** w art. 64d § 4 otrzymuje brzmienie: „
+
+§ 4. Przepisy § 1–3 stosuje się również do innych należności lub wartości określonych w ustawie kwotowo, z wyjątkiem wymienionych w art. 66e i art. 66zk § 9. ” ;
+
+- **13)** w art. 64e po § 4 dodaje się § 4a w brzmieniu: „
+
+§ 4a. Organ egzekucyjny z urzędu umarza koszty z tytułu opłat, o których mowa w art. 64 § 1 i 6, jeżeli opłaty te nie mogą być ściągnięte od zobowiązanego i powstały w zgodnie z prawem wszczętym i prowadzonym postępowaniu egzekucyjnym na podstawie tytułu wykonawczego wystawionego przez organ wykonujący. ” ;
+
+- **14)** w art. 66: § 4 otrzymuje brzmienie: „
+    - **a)**
+
+§ 4. Nie pobiera się opłaty komorniczej od:
+
+- **1)** kwot wpłaconych po wystąpieniu wierzyciela z żądaniem zawieszenia albo umorzenia postępowania egzekucyjnego,
+- **2)** należności ściągniętych przez organ egzekucyjny będący jednocześnie ich wierzycielem,
+- **3)** należności dochodzonych na podstawie tytułu wykonawczego wystawionego przez urząd skarbowy lub naczelnika urzędu skarbowego,
+- **4)** należności dochodzonych na podstawie tytułu wykonawczego wystawionego przez organ wykonujący, chyba że niezgodne z prawem wszczęcie i prowadzenie egzekucji spowodowało obce państwo. ” , § 6 otrzymuje brzmienie: „
+    - **b)**
+
+§ 6. Do opłaty komorniczej stosuje się odpowiednio § 2 oraz art. 64c § 11 i 12, a jeżeli niezgodne z prawem wszczęcie i prowadzenie egzekucji spowodowało obce państwo – również odpowiednio art. 64c § 3a i 3b. ” ;
+
+- **15)** w dziale I rozdział 7 otrzymuje brzmienie: „
+
+#### Rozdział 7 Udzielanie pomocy obcemu państwu oraz korzystanie z jego pomocy przy dochodzeniu należności pieniężnych
+
+##### Oddział 1 Zasady ogólne
+
+**Art. 66a.** Przepisy niniejszego rozdziału stosuje się przy udzielaniu pomocy obcemu państwu lub korzystaniu z jego pomocy w sprawach dotyczących należności pieniężnych, o których mowa w art. 2 § 1 pkt 8 i 9, jeżeli ratyfikowana umowa międzynarodowa, której stroną jest Rzeczpospolita Polska, nie stanowi inaczej.
+
+§ 1. W rozumieniu przepisów niniejszego rozdziału:
+
+- **1)** za polskiego wierzyciela uważa się podmiot, o którym mowa w art. 1a pkt 13, i którego siedziba znajduje się na terytorium Rzeczypospolitej Polskiej,
+- **2)** za przekazywanie wniosku, informacji lub dokumentów drogą elektroniczną uważa się przekaz dokonany za pomocą sprzętu elektronicznego do przetwarzania danych, włącznie z kompresją cyfrową, za pomocą przewodów, fal radiowych bądź optycznych lub innych środków wykorzystujących energię elektromagnetyczną,
+- **3)** za sieć WSK/WIS uważa się wspólną platformę opartą na Wspólnej Sieci Komunikacyjnej oraz Wspólnym Interfejsie Systemowym, stworzoną w celach łączności elektronicznej między właściwymi organami państw będących członkami Unii Europejskiej w sprawach ceł i podatków,
+- **4)** za zagraniczny tytuł wykonawczy uważa się dokument wydany przez obce państwo, stanowiący podstawę do prowadzenia egzekucji wymienionych w nim należności pieniężnych.
+
+§ 2. Funkcje organu wnioskującego i organu wykonującego sprawuje minister właściwy do spraw finansów publicznych.
+
+§ 3. Minister właściwy do spraw finansów publicznych przesyła Komisji Europejskiej, do dnia 15 marca każdego roku, informację dotyczącą pomocy, o której mowa w art. 66a, udzielonej obcym państwom i udzielonej przez te państwa Rzeczypospolitej Polskiej w poprzednim roku kalendarzowym.
+
+§ 1. Obowiązek udzielenia pomocy obcemu państwu lub możliwość skorzystania z jego pomocy w zakresie, o którym mowa w art. 66d § 1, istnieje, jeżeli ratyfikowana umowa międzynarodowa, której stroną jest Rzeczpospolita Polska, lub prawo obcego państwa zobowiązuje do udzielenia podobnej pomocy Rzeczypospolitej Polskiej.
+
+§ 2. Organ wykonujący nie ma obowiązku udzielenia pomocy obcemu państwu, które odmawia mu udzielenia podobnej pomocy, jeżeli sprawa tej odmowy nie podlega badaniu przez Komitet do Spraw Dochodzenia Należności Unii Europejskiej.
+
+§ 3. Obowiązek udzielenia pomocy obcemu państwu nie istnieje, jeżeli w dniu sporządzenia pierwszego wniosku w danej sprawie, zwanego dalej „pierwotnym wnioskiem”, upłynęło 5 lat, licząc od dnia wystawienia, zgodnie z prawem obcego państwa, zagranicznego tytułu wykonawczego na należności objęte wnioskiem, z zastrzeżeniem § 4.
+
+§ 4. Jeżeli należności pieniężne objęte wnioskiem obcego państwa o udzielenie pomocy lub wystawiony na nie zagraniczny tytuł wykonawczy są kwestionowane, okres, o którym mowa w § 3, liczy się od dnia, w którym, zgodnie z prawem obcego państwa, należności pieniężne lub zagraniczny tytuł wykonawczy nie mogą być nadal kwestionowane.
+
+§ 5. W przypadku, o którym mowa w § 3, organ wykonujący informuje obce państwo o powodach odmowy udzielenia pomocy, a jeżeli państwo to jest członkiem Unii Europejskiej – również Komisję Europejską.
+
+§ 6. Przepisy § 3 i 4 stosuje się odpowiednio do pomocy, o udzielenie której może wystąpić organ wnioskujący do obcego państwa.
+
+§ 1. Pomoc, o której mowa w art. 66a, może polegać na:
+
+- **1)** udzieleniu informacji,
+- **2)** powiadomieniu zainteresowanego podmiotu o piśmie, orzeczeniu lub innym dokumencie jego dotyczącym,
+- **3)** prowadzeniu egzekucji lub dokonaniu zabezpieczenia należności pieniężnych.
+
+§ 2. Wystąpienie do obcego państwa z wnioskiem o udzielenie pomocy lub jego wycofanie następuje na wniosek polskiego wierzyciela, a w przypadku, o którym mowa w § 1 pkt 1 i 2, również na wniosek organu egzekucyjnego.
+
+§ 3. Wierzyciel i organ egzekucyjny może korzystać z pomocy obcego państwa w zakresie określonym dla organu wnioskującego.
+
+§ 4. Wierzyciel i organ egzekucyjny dostarcza organowi wnioskującemu lub organowi wykonującemu wszystkie dokumenty lub informacje potrzebne do udzielenia pomocy obcemu państwu lub skorzystania z jego pomocy.
+
+§ 1. Wniosek o udzielenie pomocy może dotyczyć więcej niż jednej należności pieniężnej, jeżeli są one należne od tego samego zobowiązanego.
+
+§ 2. Nie podlega wykonaniu wniosek o udzielenie pomocy, jeżeli kwota należności pieniężnej lub łączna kwota kilku takich należności jest mniejsza od 1 500 euro.
+
+§ 3. W celu ustalenia, czy należności pieniężne polskich wierzycieli spełniają warunek, o którym mowa w § 2, należności te przelicza się na euro według średniego kursu złotego w stosunku do euro, ogłoszonego przez Prezesa Narodowego Banku Polskiego w dniu podpisania wniosku o udzielenie pomocy. Minister właściwy do spraw finansów publicznych określa, w drodze rozporządzenia, tryb postępowania wierzycieli i organów egzekucyjnych przy korzystaniu z pomocy obcego państwa, a także wzory wniosków o udzielenie informacji, o powiadomienie oraz o dochodzenie lub zabezpieczenie należności pieniężnych, kierowanych przez te podmioty do organu wnioskującego oraz przez organ wnioskujący do obcych państw. Określając sposób postępowania wierzycieli i organów egzekucyjnych oraz wzory wniosków, minister uwzględnia w szczególności rodzaj i ilość załączanych do wniosków dokumentów niezbędnych do skorzystania z pomocy obcego państwa oraz zakres koniecznych informacji, jakie mają być zawarte we wnioskach przy korzystaniu z pomocy obcego państwa. Przekazane organowi wykonującemu przez obce państwo dokumenty i informacje związane z wnioskowaną pomocą mogą być udostępnione do wiadomości wyłącznie:
+
+- **1)** podmiotom, których dotyczy wniosek o udzielenie pomocy,
+- **2)** organom egzekucyjnym lub rekwizycyjnym, w celu realizacji wniosku organu wnioskującego o udzielenie pomocy, oraz polskim wierzycielom,
+- **3)** sądom rozpatrującym sprawy związane z dochodzeniem należności pieniężnych.
+
+§ 1. Do wniosku o udzielenie pomocy oraz dołączonych do niego dokumentów i pism organ wnioskujący dołącza ich tłumaczenia na jeden z urzędowych języków państwa, które ma udzielić pomocy.
+
+§ 2. Organ wnioskujący, w uzgodnieniu z obcym państwem, może przekazywać temu państwu tłumaczenia na inny język niż określony w § 1.
+
+§ 3. Organ wykonujący może nie przyjąć tłumaczenia przedstawionego mu przez obce państwo.
+
+§ 4. Przepis § 2 stosuje się odpowiednio do organu wykonującego.
+
+§ 1. Organ wykonujący potwierdza pisemnie obcemu państwu otrzymanie wniosku o udzielenie pomocy, niezwłocznie, nie później jednak niż w terminie 7 dni od dnia otrzymania wniosku.
+
+§ 2. Otrzymany wniosek o udzielenie pomocy organ wykonujący niezwłocznie przesyła właściwemu organowi egzekucyjnemu do realizacji, z zastrzeżeniem art. 66za § 4. Przepis art. 66h § 1 stosuje się odpowiednio.
+
+§ 3. Organ wykonujący, organ egzekucyjny lub organ rekwizycyjny pokrywają swoje wydatki związane z udzielaniem pomocy, o której mowa w art. 66d § 1 pkt 1 i 2, bezpośrednio z budżetu państwa.
+
+§ 1. Wszystkie informacje lub dokumenty związane z udzielaniem pomocy na rzecz obcego państwa lub korzystaniem z jego pomocy przekazuje się, o ile to możliwe, wyłącznie drogą elektroniczną, z zastrzeżeniem § 2.
+
+§ 2. O ile organ wnioskujący nie uzgodni z obcym państwem inaczej, przepisu § 1 nie stosuje się do:
+
+- **1)** wniosku o powiadomienie oraz pism, orzeczeń lub innych dokumentów będących przedmiotem powiadomienia,
+- **2)** wniosku o dochodzenie lub zabezpieczenie należności pieniężnych oraz tytułu wykonawczego lub zarządzenia zabezpieczenia.
+
+§ 3. Organ wykonujący przekazuje informacje lub dokumenty drogą elektroniczną lub przechowuje je w formie elektronicznej z zachowaniem tajemnicy obowiązującej w odniesieniu do analogicznych należności pieniężnych polskich wierzycieli.
+
+§ 4. Informacje i dokumenty w formie elektronicznej mogą być udostępnione wyłącznie stronom postępowania administracyjnego lub sądowego, wszczętego w związku z dochodzeniem należności pieniężnych, a także podmiotom, organom i sądom, o których mowa w art. 66g.
+
+§ 5. W przypadku korzystania przez organ wnioskujący lub organ wykonujący z sieci WSK/WIS, dostęp do informacji niejawnych przekazywanych za pośrednictwem tej sieci mogą uzyskać osoby upoważnione przez właściwy organ do spraw ochrony informacji niejawnych przy Komisji Europejskiej w takim zakresie, jaki jest niezbędny do nadzoru, obsługi i rozbudowy tej sieci.
+
+§ 6. Jeżeli adresatem przekazywanych drogą elektroniczną informacji lub dokumentów jest państwo – członek Unii Europejskiej, korespondencję zawierającą informacje lub dokumenty należy autoryzować w sposób uzgodniony z tym państwem. Organ wykonujący informuje zainteresowane obce państwo, że jest:
+
+- **1)** organem właściwym do przyjmowania od tego państwa wniosków o pomoc i do występowania do niego z takimi wnioskami,
+- **2)** organem właściwym do uzgodnienia z nim sposobu pokrywania kosztów, o którym mowa w art. 64c § 4c,
+- **3)** organem odpowiedzialnym za korespondencję drogą elektroniczną.
+
+##### Oddział 2 Udzielanie informacji
+
+##### Oddział 3 Powiadamianie
+
+##### Oddział 4 Dochodzenie lub zabezpieczanie należności pieniężnych
+
+## Tytuł wykonawczy wystawiony przez organ wykonujący może nie zawierać treści określonych w art. 27 § 1 w zakresie, w jakim tych treści nie zawiera zagraniczny tytuł wykonawczy.
+
+**Art. 110b.** Uczestnikami postępowania egzekucyjnego z nieruchomości są:
+
+- **1)** zobowiązany,
+- **2)** wierzyciele egzekwujący, a w przypadku wierzyciela będącego obcym państwem – organ wykonujący,
+- **3)** osoby, którym przysługują ograniczone prawa rzeczowe lub roszczenia albo prawa osobiste zabezpieczone na nieruchomości,
+- **4)** organ, który zawarł umowę o oddanie nieruchomości w użytkowanie wieczyste, jeżeli przedmiotem egzekucji jest użytkowanie wieczyste. ” ;
+- **20)** art. 115c otrzymuje brzmienie: „
+
+**Art. 115c.**
+
+§ 1. Z zastrzeżeniem § 2, w podziale kwoty uzyskanej ze sprzedaży nieruchomości oprócz wierzycieli egzekwujących uczestniczą:
+
+- **1)** wierzyciele posiadający tytuł wykonawczy z dowodem doręczenia zobowiązanemu wezwania do zapłaty oraz wierzyciele, którzy uzyskali zabezpieczenie powództwa i zgłosili się najpóźniej w dniu uprawomocnienia się postanowienia o przyznaniu własności nieruchomości,
+- **2)** osoby, które przed zajęciem nieruchomości nabyły do niej prawa stwierdzone w protokole opisu i oszacowania wartości nieruchomości lub prawa których zostały zgłoszone i udowodnione najpóźniej w dniu uprawomocnienia się postanowienia o przyznaniu własności,
+- **3)** pracownicy co do stwierdzonych dokumentem należności za pracę, jeżeli zgłosili swe roszczenia przed sporządzeniem planu podziału.
+
+§ 2. Jeżeli wierzycielami egzekwującymi są obce państwa, które nie wyraziły zgody na pokrycie kosztów w okolicznościach, o których mowa w art. 64c § 4c, uczestniczą w podziale kosztów uzyskanych z egzekucji z nieruchomości w takiej części, jaka pozostała po pokryciu należności wierzycieli i osób, o których mowa w § 1. ” ;
+
+- **21)** art. 168b otrzymuje brzmienie: „
+
+**Art. 168b.** Zobowiązany może dochodzić odszkodowania od organu egzekucyjnego lub wierzyciela, a jeżeli wierzycielem jest obce państwo – od organu wykonującego, na podstawie przepisów Kodeksu cywilnego, za szkody wyrządzone wskutek niezgodnego z przepisami prawa wszczęcia lub prowadzenia egzekucji administracyjnej lub postępowania zabezpieczającego. ” . 1. Przepis art. 66b § 3 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej. 2. Obowiązek udzielenia pomocy państwu – członkowi Unii Europejskiej lub możliwość skorzystania z jego pomocy przy dochodzeniu należności pieniężnych na zasadach określonych w ustawie wymienionej w art. 1 istnieje, z wyjątkiem art. 66c § 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
+
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2004 r.
+

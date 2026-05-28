@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 21 lipca 1995 r. o zmianie ustaw: o urzędzie Ministra Spraw Wewnętrznych, o Policji, o Urzędzie Ochrony Państwa, o Straży Granicznej oraz niektórych innych ustaw.*
 
-Łącznie: **4** orzeczeń
+Łącznie: **3** orzeczeń
 
 ## art. 1 (1)
 
@@ -20,8 +20,4 @@ Orzeczenia powołujące: *Ustawa z dnia 21 lipca 1995 r. o zmianie ustaw: o urz�
 ## art. 10 (1)
 
 - 1996-01-16 | TK | [W 12/94](https://www.saos.org.pl/judgments/205728) | Uchwała ★
-
-## (ogólnie) (1)
-
-- 2014-07-03 | SO | [I ACa 691/13](https://www.saos.org.pl/judgments/59004) | Wyrok
 

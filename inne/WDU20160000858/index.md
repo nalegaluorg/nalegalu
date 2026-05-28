@@ -1,0 +1,767 @@
+---
+title: Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 6 maja 2016 r. zmieniające rozporządzenie w sprawie warunków technicznych pojazdów oraz zakresu ich niezbędnego wyposażenia
+address: WDU20160000858
+eli: DU/2016/858
+publisher: DU
+year: 2016
+pos: 858
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 6 maja 2016 r. zmieniające rozporządzenie w sprawie warunków technicznych pojazdów oraz zakresu ich niezbędnego wyposażenia
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2016 poz. 858 |
+| ISAP | WDU20160000858 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2016-05-06 |
+| Data wydania | 2016-06-15 |
+| Wejście w życie | 2016-07-01 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000858) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/858/text.pdf) |
+
+Treść rozporządzenia § 1. § 2. § 3.
+
+## Załącznik nr 1 — – Wymagania dotyczące tabliczki znamionowej
+
+## Załącznik nr 2 — – Warunki szczegółowe dotyczące świateł zewnętrznych pojazdu samochodowego i przyczepy
+
+## Załącznik nr 3 — – Wymiary wyjść, przejść, siedzeń, stopni dla pasażerów oraz odstępów między siedzeniami w autobusach
+
+## Załącznik nr 4 — – Warunki szczegółowe dotyczące wyposażenia pojazdów samochodowych w lusterka
+
+## Załącznik nr 5 — – Warunki techniczne dotyczące przegrody oraz elementów do mocowania ładunków
+
+Treść rozporządzenia
+Na podstawie art. 66 ust. 5 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Ministra Infrastruktury z dnia 31 grudnia 2002 r. w sprawie warunków technicznych pojazdów oraz zakresu ich niezbędnego wyposażenia (Dz. U. z 2015 r. poz. 305, 1077 i 1966) wprowadza się następujące zmiany:
+1)
+w § 1:
+a)
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+„
+2a.
+Pojazd, o którym mowa w art. 66 ust. 4 pkt 6 lit. b ustawy, powinien spełniać wymagania i warunki techniczne w zakresie dokonanych zmian konstrukcyjnych lub wymiany elementów, obowiązujące w dniu dokonania zmiany rodzaju pojazdu.
+” ,
+b)
+w ust. 3:
+– w pkt 1 lit. a otrzymuje brzmienie: „ a) data pierwszej rejestracji pojazdu zarejestrowanego na terytorium Rzeczypospolitej Polskiej, określona w dowodzie rejestracyjnym pojazdu lub pozwoleniu czasowym, z zastrzeżeniem lit. b i c, ” ,
+– uchyla się pkt 4;
+– po pkt 5 dodaje się pkt 5a w brzmieniu: „ 5a) dopuszczalnym nacisku osi – rozumie się przez to największy nacisk wywierany na podłoże przez koła danej osi pojazdu obciążonego, określony na podstawie przepisów o drogach publicznych oraz przepisów niniejszego rozporządzenia; ” ,
+– uchyla się pkt 10,
+– w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „ 12) operacji transportu intermodalnego – rozumie się przez to: a) operacje transportu kombinowanego w rozumieniu art. 4 pkt 13 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2013 r. poz. 1414, z późn. zm.), b) operacje transportowe obejmujące transport wodny, których częścią jest transport drogowy o długości początkowego lub końcowego odcinka drogowego nieprzekraczającego 150 km na terytorium Unii Europejskiej; odcinek drogowy może być wydłużony do najbliższego terminala transportowego umożliwiającego obsługę pojazdu dokonującego operacji transportu intermodalnego. ” ;
+2)
+dział II otrzymuje brzmienie:
+„
+Dział II Wymiary, masy i naciski osi pojazdu
+§ 2.
+1.
+Długość pojazdu nie może przekraczać w przypadku:
+1)
+pojazdu samochodowego, z wyjątkiem autobusu oraz pojazdów samochodowych, o których mowa w pkt 11 – 12,00 m;
+2)
+ciągnika rolniczego lub pojazdu wolnobieżnego – 12,00 m;
+3)
+przyczepy, z wyjątkiem naczepy – 12,00 m;
+4)
+pojazdu członowego – 16,50 m, z zastrzeżeniem ust. 16;
+5)
+zespołu złożonego z pojazdu silnikowego i przyczepy – 18,75 m;
+6)
+autobusu przegubowego – 18,75 m;
+7)
+autobusu o dwóch osiach – 13,50 m;
+8)
+autobusu o liczbie osi większej niż dwie – 15,00 m;
+9)
+zespołu złożonego z autobusu i przyczepy – 18,75 m;
+10)
+zespołu złożonego z trzech pojazdów, w którym pojazdem ciągnącym jest pojazd wolnobieżny lub ciągnik rolniczy – 22,00 m;
+11)
+motocykla, motoroweru lub roweru, pojazdu czterokołowego oraz zespołu złożonego z motocykla, motoroweru, roweru lub pojazdu czterokołowego z przyczepą – 4,00 m.
+2.
+Szerokość pojazdu, z zastrzeżeniem ust. 13, § 45 ust. 3 pkt 1, § 54 ust. 3, nie może przekraczać 2,55 m i nie obejmuje ona lusterek zewnętrznych, świateł umieszczonych na bokach pojazdu oraz elementów elastycznych wykonanych z gumy lub z innych tworzyw sztucznych. Szerokość nadwozia pojazdu, który jest przeznaczony do przewozu towarów w określonej temperaturze, jeżeli jego ściany boczne wraz z izolacją termiczną mają grubość nie mniejszą niż 45 mm każda, oraz klimatyzowanego kontenera lub wymiennego nadwozia nie może przekraczać 2,60 m.
+3.
+Wymiary, o których mowa w ust. 1 pkt 1, 3, 4 i 6–8, nie obejmują bagażnika mocowanego do tylnej ściany autobusu oraz platformy samozaładowczej lub innych urządzeń załadowczych mocowanych z tyłu pojazdu samochodowego i przyczepy, przy czym nie mogą one powodować przekroczenia tych wymiarów o więcej niż 0,30 m.
+4.
+Wysokość pojazdu, z zastrzeżeniem ust. 12, nie może przekraczać 4,00 m.
+5.
+Wykaz urządzeń i wyposażenia, które nie muszą być uwzględniane przy określaniu wymiarów zewnętrznych pojazdów, określa dodatek 1 do załącznika I do rozporządzenia Komisji (UE) nr 1230/2012 z dnia 12 grudnia 2012 r. w sprawie wykonania rozporządzenia (WE) nr 661/2009 Parlamentu Europejskiego i Rady w odniesieniu do wymagań w zakresie homologacji typu dotyczących mas i wymiarów pojazdów silnikowych oraz zmieniającego dyrektywę 2007/46/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 353 z 21.12.2012, str. 31).
+6.
+Odległość między osią sworznia siodłowego urządzenia sprzęgającego a tylnym obrysem naczepy nie może przekraczać 12,00 m.
+7.
+Odległość mierzona równolegle do podłużnej osi zespołu pojazdów, między najdalej wysuniętym do przodu punktem przestrzeni ładunkowej położonej za kabiną kierowcy a tylnym obrysem przyczepy, po odjęciu odległości między tylnym obrysem samochodu a przednim obrysem nadwozia przyczepy, nie może przekraczać 15,65 m.
+8.
+Odległość mierzona równolegle do podłużnej osi zespołu pojazdów, między najdalej wysuniętym do przodu punktem przestrzeni ładunkowej położonej za kabiną kierowcy a tylnym obrysem przyczepy, nie może przekraczać 16,40 m.
+9.
+Odległość między tylną osią pojazdu samochodowego a przednią osią przyczepy w zespole pojazdów nie może być mniejsza niż 3,00 m.
+10.
+Odległość między osią sworznia siodłowego urządzenia sprzęgającego a dowolnym punktem przedniej części naczepy nie może przekraczać 2,04 m.
+11.
+Wymienne nadwozia i znormalizowane kontenery nie mogą przekraczać wymiarów określonych w ust. 1 pkt 1–10, ust. 2, 4, 6–8 i 10.
+12.
+Wysokość motocykla, motoroweru oraz niektórych pojazdów czterokołowych nie może przekraczać 2,50 m.
+13.
+Szerokość motocykla i motoroweru oraz niektórych pojazdów czterokołowych nie może przekraczać 2,00 m, a jednośladowego motoroweru 1,00 m.
+14.
+Przepisy ust. 7–9, 12 i 13 stosuje się do pojazdów zarejestrowanych po raz pierwszy po dniu 31 grudnia 1998 r.
+15.
+Przepisy ust. 10 stosuje się do pojazdów zarejestrowanych po raz pierwszy po dniu 31 grudnia 1993 r.
+16.
+Wymiary, o których mowa w ust. 1 pkt 4 i ust. 6, mogą być przekroczone o 0,15 m w przypadku pojazdu członowego lub naczepy przewożących jeden lub więcej załadowanych lub niezaładowanych kontenerów lub wymiennych nadwozi, o maksymalnej długości całkowitej wynoszącej do 45 stóp (13,72 m), w operacjach transportu intermodalnego.
+17.
+W przypadku pojazdu uczestniczącego w ruchu drogowym podstawą sprawdzenia wymagań, o których mowa w ust. 1–16, są wartości rzeczywiste wymienionych wymiarów, z uwzględnieniem art. 61 ust. 6, 7 i 10 ustawy.
+18.
+Przez oś rozumie się element konstrukcji pojazdu stanowiący wspólną geometryczną oś obrotu dwóch lub więcej kół zarówno napędzanych, jak i swobodnie obracających się, niezależnie od tego, czy znajdują się w jednym czy wielu segmentach usytuowanych w tej samej płaszczyźnie prostopadłej do wzdłużnej płaszczyzny symetrii pojazdu; wyjątek stanowią pojazdy kategorii L, w których geometryczna oś obrotu dotyczy jednego lub więcej kół.
+§ 3.
+1.
+Dopuszczalna masa całkowita pojazdu, z zastrzeżeniem ust. 2–20, nie może przekraczać w przypadku:
+1)
+pojazdu składowego zespołu pojazdów:
+a)
+przyczepy o jednej osi, z wyjątkiem naczepy – 10 ton,
+b)
+przyczepy o dwóch osiach, z wyjątkiem naczepy – 18 ton,
+c)
+przyczepy o liczbie osi większej niż dwie, z wyjątkiem naczepy – 24 ton;
+2)
+zespołu pojazdów, złożonego z pojazdów mających łącznie co najmniej 5 osi, w którym pojazdem ciągnącym jest pojazd samochodowy – 40 ton, z wyjątkiem pojazdu członowego mającego 5 lub 6 osi składającego się z:
+a)
+ciągnika siodłowego o dwóch osiach i naczepy o trzech osiach, uczestniczących w operacjach transportu intermodalnego, przewożących jeden lub więcej kontenerów lub wymiennych nadwozi, o maksymalnej długości całkowitej wynoszącej do 45 stóp (13,72 m) – 42 tony,
+b)
+ciągnika siodłowego o trzech osiach i naczepy o dwóch lub trzech osiach, uczestniczących w operacjach transportu intermodalnego, przewożących jeden lub więcej kontenerów lub wymiennych nadwozi, o maksymalnej długości całkowitej wynoszącej do 45 stóp (13,72 m) – 44 tony,
+c)
+ciągnika siodłowego o dwóch osiach i naczepy o trzech osiach przystosowanej technicznie do operacji transportu intermodalnego, uczestniczących w operacjach transportu intermodalnego – 42 tony,
+d)
+ciągnika siodłowego o trzech osiach i naczepy o dwóch lub trzech osiach przystosowanej technicznie do operacji transportu intermodalnego, uczestniczących w operacjach transportu intermodalnego – 44 tony;
+3)
+zespołu pojazdów mającego 3 osie – 28 ton;
+4)
+zespołu pojazdów mającego 4 osie, składającego się z pojazdu samochodowego o dwóch osiach i przyczepy o dwóch osiach – 36 ton;
+5)
+zespołu pojazdów mającego 4 osie, składającego się z pojazdu samochodowego o trzech osiach i przyczepy o jednej osi – 35 ton; dopuszcza się 36 ton, jeżeli oś napędowa jest wyposażona w koła bliźniacze i zawieszenie pneumatyczne lub równoważne, o którym mowa w § 5b, albo jeżeli każda z osi napędowych jest wyposażona w koła bliźniacze, a największy nacisk każdej z tych osi nie przekracza 9,5 tony;
+6)
+pojazdu członowego mającego 4 osie, składającego się z ciągnika siodłowego o dwóch osiach i naczepy o dwóch osiach, jeżeli odległość pomiędzy osiami naczepy:
+a)
+wynosi nie więcej niż 1,8 m – 36 ton,
+b)
+wynosi więcej niż 1,8 m – 36 ton; dopuszcza się 38 ton, jeżeli oś napędowa jest wyposażona w koła bliźniacze i zawieszenie pneumatyczne lub równoważne, o którym mowa w § 5b;
+7)
+pojazdu członowego mającego 4 osie, składającego się z ciągnika siodłowego o trzech osiach i naczepy o jednej osi – 35 ton; dopuszcza się 36 ton, jeżeli oś napędowa jest wyposażona w koła bliźniacze i zawieszenie pneumatyczne lub równoważne, o którym mowa w § 5b, albo jeżeli każda z osi napędowych jest wyposażona w koła bliźniacze, a największy nacisk każdej z tych osi nie przekracza 9,5 tony;
+8)
+pojazdu samochodowego o dwóch osiach – 18 ton;
+9)
+autobusu o dwóch osiach – 19,5 tony;
+10)
+pojazdu samochodowego o trzech osiach – 25 ton; dopuszcza się 26 ton, jeżeli oś napędowa jest wyposażona w koła bliźniacze lub koła pojedyncze wyposażone w szerokie opony (typu „Super Single”) i zawieszenie pneumatyczne lub równoważne, o którym mowa w § 5b, albo jeżeli każda z osi napędowych jest wyposażona w koła bliźniacze, a największy nacisk każdej z tych osi nie przekracza 9,5 tony;
+11)
+pojazdu samochodowego o liczbie osi większej niż trzy – 32 tony;
+12)
+autobusu przegubowego o trzech osiach – 28 ton;
+13)
+ciągnika rolniczego lub pojazdu wolnobieżnego wyposażonego w koła ogumione:
+a)
+o dwóch osiach – 18 ton,
+b)
+o trzech i więcej osiach – 24 tony
+przy czym udział obciążenia osi kierowanej oraz osi napędowej w każdym stanie obciążenia ciągnika nie może być mniejszy niż 20% jego masy własnej;
+14)
+zespołu pojazdów, w którym pojazdem ciągnącym jest wyposażony w koła ogumione pojazd wolnobieżny lub wyposażony w koła ogumione ciągnik rolniczy – masy wynikającej z sumy dopuszczalnych mas całkowitych pojazdów wchodzących w jego skład, która nie może przekraczać 40 ton.
+2.
+Udział masy na oś lub osie napędowe pojazdu lub zespołu pojazdów nie może być mniejszy niż 25% ich rzeczywistej masy całkowitej.
+3.
+W przypadku pojazdu uczestniczącego w ruchu drogowym podstawą sprawdzenia wymagań, o których mowa w ust. 1, są wartości rzeczywiste wymienionych mas.
+4.
+Dopuszczalną masę całkowitą zespołu pojazdów uczestniczącego w ruchu drogowym ustala się dla:
+1)
+samochodu ciężarowego lub samochodu specjalnego z przyczepą – na podstawie sumy dopuszczalnych mas całkowitych pojazdu ciągnącego i przyczepy; tak ustalona dopuszczalna masa całkowita nie może przekraczać dopuszczalnej masy całkowitej określonej dla tego zespołu pojazdów w ust. 1;
+2)
+samochodu ciężarowego lub samochodu specjalnego z przyczepą ze sztywnym dyszlem (łącznie z przyczepą z osią centralną) – na podstawie sumy dopuszczalnych mas całkowitych pojazdu ciągnącego i przyczepy ze sztywnym dyszlem, pomniejszonej o wyższą wartość dopuszczalnego pionowego obciążenia sprzęgu pojazdu ciągnącego lub dopuszczalnego pionowego obciążenia sprzęgu przyczepy ze sztywnym dyszlem, a przy takich samych wartościach, o tę wartość; tak ustalona dopuszczalna masa całkowita nie może przekraczać dopuszczalnej masy całkowitej określonej dla tego zespołu pojazdów w ust. 1;
+3)
+ciągnika siodłowego z naczepą – na podstawie sumy dopuszczalnych mas całkowitych ciągnika siodłowego i naczepy, pomniejszonej o wyższą wartość dopuszczalnego pionowego obciążenia sprzęgu ciągnika siodłowego lub dopuszczalnego nacisku naczepy na siodło ciągnika, a przy takich samych wartościach, o tę wartość; tak ustalona dopuszczalna masa całkowita nie może przekraczać dopuszczalnej masy całkowitej określonej dla tego zespołu pojazdów w ust. 1.
+5.
+W przypadku gdy dopuszczalna masa całkowita zespołu pojazdów uczestniczącego w ruchu drogowym, określona w dokumencie rejestracyjnym pojazdu ciągnącego, jest mniejsza niż dopuszczalna masa całkowita ustalona w sposób wskazany dla tego zespołu w ust. 4, za dopuszczalną masę całkowitą zespołu pojazdów należy przyjąć masę określoną w dokumencie rejestracyjnym pojazdu ciągnącego.
+6.
+Dopuszczalna masa całkowita pojazdu nie może przekroczyć maksymalnej masy całkowitej określonej przez producenta. Zasada ta dotyczy także dopuszczalnych nacisków osi, przy czym:
+1)
+w przypadku pojazdów przeznaczonych do ciągnięcia przyczepy producent może określić inną, wyższą wartość maksymalnego nacisku osi tylnej i maksymalnej masy całkowitej stosowaną wyłącznie podczas ciągnięcia przyczepy;
+2)
+w przypadku wyposażenia pojazdu w urządzenia sprzęgające producent podaje w jego pobliżu maksymalne statyczne obciążenia pionowe tego urządzenia;
+3)
+suma maksymalnych nacisków osi nie może być mniejsza niż maksymalna masa całkowita pojazdu, a nacisk osi przedniej, przy maksymalnym nacisku na oś tylną oraz maksymalnej masie całkowitej pojazdu, nie może być mniejszy niż 30% maksymalnej masy całkowitej.
+7.
+Dopuszczalna masa całkowita przyczepy z hamulcem, ciągniętej przez samochód osobowy, samochód ciężarowy i specjalny o dopuszczalnej masie całkowitej do 3,5 t, nie może przekroczyć:
+1)
+wartości znamionowej urządzenia sprzęgającego,
+2)
+dopuszczalnej masy całkowitej tych pojazdów,
+3)
+maksymalnej masy ciągniętej określonej dla tych pojazdów przez producenta,
+4)
+3500 kg
+z tym że w przypadku samochodu terenowego, zgodnie z definicją zawartą w załączniku II do dyrektywy 2007/46/WE Parlamentu Europejskiego i Rady z dnia 5 września 2007 r. ustanawiającej ramy dla homologacji pojazdów silnikowych i ich przyczep oraz układów, części i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów (Dz. Urz. UE L 263 z 09.10.2007, str. 1, z późn. zm.), masa ta nie może przekroczyć 150% dopuszczalnej masy całkowitej pojazdu ciągnącego przy jednoczesnym spełnieniu warunków określonych w pkt 1, 3 i 4.
+8.
+Dopuszczalna masa całkowita przyczepy bez hamulca, ciągniętej przez samochód osobowy, samochód ciężarowy i specjalny o dopuszczalnej masie całkowitej do 3,5 t, nie może przekroczyć:
+1)
+wartości znamionowej urządzenia sprzęgającego;
+2)
+maksymalnej masy ciągniętej określonej dla tych pojazdów samochodowych przez producenta lub połowy ich masy własnej powiększonej o 75 kg, należy przyjąć mniejszą wartość;
+3)
+750 kg.
+9.
+Minimalne statyczne obciążenie pionowe urządzenia sprzęgającego nie może być mniejsze niż 4% dopuszczalnej masy ciągniętej i mniejsze niż 25 kg, przy czym producent pojazdu podaje w instrukcji obsługi następujące dane:
+1)
+maksymalne obciążenie urządzenia sprzęgającego;
+2)
+miejsce mocowania tego urządzenia do konstrukcji pojazdu;
+3)
+maksymalną odległość punktu sprzęgnięcia od osi tylnej pojazdu.
+10.
+Dopuszczalna masa całkowita przyczepy z hamulcem, ciągniętej przez autobus nie może przekroczyć 3500 kg, a bez hamulca 750 kg, oraz nie może przekraczać dopuszczalnej masy całkowitej autobusu.
+11.
+Zespół pojazdów składający się z samochodu osobowego i przyczepy, obciążonych do wartości maksymalnych mas całkowitych, powinien ruszyć z miejsca co najmniej 5 razy w czasie 5 minut pod wzniesienie o nachyleniu 12%.
+12.
+Do motocykli, motorowerów, pojazdów czterokołowych oraz przyczep do tych pojazdów objętych rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 168/2013 z dnia 15 stycznia 2013 r. w sprawie homologacji i nadzoru rynku pojazdów dwu- lub trójkołowych oraz czterokołowców (Dz. Urz. UE L 60 z 02.03.2013, str. 52) stosuje się wymagania dotyczące mas określone w załączniku XI do rozporządzenia delegowanego Komisji (UE) nr 44/2014 z dnia 21 listopada 2013 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 168/2013 w odniesieniu do konstrukcji pojazdów i wymogów ogólnych dotyczących homologacji pojazdów dwu- lub trójkołowych oraz czterokołowców (Dz. Urz. UE L 25 z 28.01.2014, str. 1).
+13.
+Do motocykli, motorowerów, pojazdów czterokołowych oraz przyczep do tych pojazdów objętych świadectwem homologacji typu WE pojazdu wydanym zgodnie z dyrektywą 2002/24/WE Parlamentu Europejskiego i Rady z dnia 18 marca 2002 r. w sprawie homologacji typu dwu- lub trzykołowych pojazdów mechanicznych i uchylającą dyrektywę Rady 92/61/EWG (Dz. Urz. WE L 124 z 09.05.2002, str. 1) albo zarejestrowanych na terytorium Rzeczypospolitej Polskiej do dnia 1 stycznia 2016 r. stosuje się wymagania dotyczące mas określone w załączniku do dyrektywy Rady 93/93/EWG z dnia 29 października 1993 r. w sprawie mas i wymiarów dwu- i trzykołowych pojazdów silnikowych, przy czym dopuszczalna masa całkowita motocykla jednośladowego nie może przekroczyć maksymalnej masy całkowitej określonej przez producenta, a masa pojazdu nieobciążonego trzy- i czterokołowego nie może przekraczać:
+1)
+w przypadku pojazdów trójkołowych:
+a)
+motorowery – 270 kg,
+b)
+motocykle – 1000 kg (bez uwzględniania masy akumulatorów przy napędzie elektrycznym);
+2)
+w przypadku pojazdów czterokołowych:
+a)
+pojazdy czterokołowe lekkie – 350 kg,
+b)
+pojazdy czterokołowe inne niż lekkie do przewozu osób – 400 kg,
+c)
+pojazdy czterokołowe inne niż lekkie do przewozu rzeczy – 550 kg (bez uwzględniania masy akumulatorów przy napędzie elektrycznym).
+14.
+Dopuszczalna masa całkowita pojazdów trzy- i czterokołowych nie może przekroczyć maksymalnej masy całkowitej podanej przez producenta.
+15.
+Dopuszczalna ładowność określona przez producenta dla pojazdów trzy- i czterokołowych objętych świadectwem homologacji typu WE pojazdu wydanym zgodnie z dyrektywą 2002/24/WE Parlamentu Europejskiego i Rady z dnia 18 marca 2002 r. w sprawie homologacji typu dwu- lub trzykołowych pojazdów mechanicznych i uchylającą dyrektywę Rady 92/61/EWG (Dz. Urz. WE L 124 z 09.05.2002, str. 1) albo zarejestrowanych na terytorium Rzeczypospolitej Polskiej do dnia 1 stycznia 2016 r. nie może przekraczać w przypadku:
+1)
+motoroweru trójkołowego – 300 kg;
+2)
+pojazdu czterokołowego lekkiego – 200 kg;
+3)
+motocykla trójkołowego:
+a)
+do przewozu rzeczy – 1500 kg;
+b)
+do przewozu osób – 300 kg;
+4)
+pojazdu czterokołowego innego niż lekki:
+a)
+do przewozu rzeczy – 1000 kg,
+b)
+do przewozu osób – 200 kg.
+16.
+Motocykle, motorowery i pojazdy czterokołowe mogą ciągnąć przyczepę o masie określonej przez producenta, ale nieprzekraczającej 50% masy pojazdu nieobciążonego.
+17.
+Dopuszczalna masa całkowita ciągnika rolniczego o kołach ogumionych nie może przekraczać 14 ton, a jej udział na jedną z osi 10 ton. Udział obciążenia osi przedniej dla każdego stanu obciążenia ciągnika nie może być mniejszy niż 20% jego masy własnej; przepis stosuje się do pojazdu zarejestrowanego po raz pierwszy przed dniem 1 kwietnia 2011 r.
+18.
+Dopuszczalna masa całkowita przyczepy przeznaczonej do łączenia z ciągnikiem rolniczym lub pojazdem wolnobieżnym nie może przekraczać sumy dopuszczalnej masy wynikającej z dopuszczalnych nacisków osi i masy przypadającej na urządzenie sprzęgające.
+19.
+Maksymalne statyczne obciążenie pionowe urządzenia sprzęgającego w ciągniku rolniczym nie może przekraczać 3000 kg, z wyjątkiem zaczepu kulowego, w przypadku którego wartość maksymalna nie może przekraczać 4000 kg, przy czym:
+1)
+dopuszczalne statyczne obciążenie pionowe urządzenia sprzęgającego nie może przekraczać wartości określonej przez producenta ciągnika rolniczego oraz wartości określonej dla urządzenia sprzęgającego zgodnie z jego świadectwem homologacji;
+2)
+nie może być przekroczony maksymalny nacisk osi tylnej pojazdu, z uwzględnieniem ust. 1 pkt 14.
+20.
+Przepisy ust. 2 i 6 pkt 3 stosuje się do pojazdów zarejestrowanych po raz pierwszy po dniu 31 marca 1998 r.
+§ 4.
+1.
+Odległość (d) między dwiema sąsiednimi osiami wchodzącymi w skład tej samej grupy osi nie może przekraczać 1,80 m.
+2.
+Przepisu ust. 1 nie stosuje się do pojazdów zarejestrowanych po raz pierwszy przed dniem 13 marca 2003 r., dla których odległość (d) między dwiema sąsiednimi osiami wchodzącymi w skład tej samej grupy osi nie może przekraczać 2,00 m.
+3.
+Przepisów ust. 1 i 2 nie stosuje się do motocykli, motorowerów, pojazdów czterokołowych, samochodów osobowych i ciągników rolniczych.
+§ 5.
+1.
+Dopuszczalny nacisk osi nie może przekraczać w przypadku:
+1)
+pojedynczej osi nienapędowej – 10 ton;
+2)
+grupy osi składającej się z dwóch osi nienapędowych pojazdów silnikowych, przyczep i naczep, przy odległości (d) między osiami składowymi:
+a)
+mniejszej niż 1,00 m (d < 1,00) – 11 ton,
+b)
+nie mniejszej niż 1,00 m i mniejszej niż 1,30 m (1,00 ≤ d < 1,30) – 16 ton,
+c)
+nie mniejszej niż 1,30 m i mniejszej niż 1,80 m (1,30 ≤ d < 1,80) – 18 ton,
+d)
+równej lub większej niż 1,80 m (1,80 ≤ d) – 20 ton;
+3)
+grupy osi składającej się z trzech osi nienapędowych pojazdów silnikowych, przyczep i naczep, przy odległości (d) między osiami składowymi:
+a)
+nie większej niż 1,30 m (d ≤ 1,30) – 21 ton,
+b)
+większej niż 1,30 m i nie większej niż 1,40 m (1,30 < d ≤ 1,40) – 24 tony,
+c)
+większej niż 1,40 m i nie większej niż 1,80 m lub w przypadku pojazdów, o których mowa w § 4 ust. 2, nie większej niż 2,00 m (1,40< d ≤ 1,80 lub 2,00) – 27 ton;
+4)
+grupy osi składającej się z więcej niż trzech osi nienapędowych pojazdów silnikowych, przyczep i naczep, przy odległości (d) miedzy osiami składowymi:
+a)
+nie większej niż 1,30 m (d ≤ 1,30) – 7 ton dla każdej osi,
+b)
+większej niż 1,30 m i nie większej niż 1,80 m lub w przypadku pojazdów, o których mowa w § 4 ust. 2, nie większej niż 2,00 m (1,30 < d ≤ 1,80 lub 2,00) – 8 ton dla każdej osi; dopuszcza się 9 ton dla każdej osi, jeżeli jest ona wyposażona w koła bliźniacze i zawieszenie pneumatyczne;
+5)
+pojedynczej osi napędowej pojazdów, o których mowa w § 3 ust. 1 pkt 2–14 – 11,5 tony;
+6)
+grupy osi składającej się z dwóch osi napędowych, przy odległości (d) między osiami składowymi:
+a)
+mniejszej niż 1,00 m (d < 1,00) – 11,5 tony,
+b)
+nie mniejszej niż 1,00 m i mniejszej niż 1,30 m (1,00 ≤ d < 1,30) – 16 ton,
+c)
+nie mniejszej niż 1,30 m i nie większej niż 1,80 m lub w przypadku pojazdów, o których mowa w § 4 ust. 2, nie większej niż 2,00 m (1,30 ≤ d ≤ 1,80 lub 2,00) – 18 ton; dopuszcza się 19 ton, jeżeli oś napędowa jest wyposażona w koła bliźniacze lub koła pojedyncze wyposażone w szerokie opony (typu „Super Single”) i zawieszenie pneumatyczne lub równoważne, o którym mowa w § 5b, albo jeżeli każda z osi napędowych jest wyposażona w koła bliźniacze, a największy nacisk każdej z tych osi nie przekracza 9,5 tony;
+7)
+grupy osi składającej się z dwóch osi pojazdów silnikowych, w której jedna oś składowa jest osią napędową, a druga osią nienapędową, przy odległości (d) między osiami składowymi:
+a)
+mniejszej niż 1,00 m (d < 1,00) – 11,5 tony,
+b)
+nie mniejszej niż 1,00 m i mniejszej niż 1,30 m (1,00 ≤ d < 1,30) – 16 ton,
+c)
+nie mniejszej niż 1,30 m i nie większej niż 1,80 m lub w przypadku pojazdów, o których mowa w § 4 ust. 2, nie większej niż 2,00 m (1,30 ≤ d ≤ 1,80 lub 2,00) – 18 ton; dopuszcza się 19 ton, jeżeli oś napędowa jest wyposażona w koła bliźniacze i zawieszenie pneumatyczne lub równoważne, o którym mowa w § 5b, albo jeżeli każda z osi składowych jest wyposażona w koła bliźniacze, a największy nacisk każdej z tych osi nie przekracza 9,5 tony;
+8)
+grupy osi składającej się z trzech osi pojazdów silnikowych, w której co najmniej jedna oś składowa jest osią napędową, przy odległości (d) między osiami składowymi:
+a)
+nie większej niż 1,30 m (d ≤ 1,30) – 21 ton,
+b)
+większej niż 1,30 m i nie większej niż 1,40 m (1,30 < d ≤ 1,40) – 24 tony,
+c)
+większej niż 1,40 m i nie większej niż 1,80 m lub w przypadku pojazdów, o których mowa w § 4 ust. 2, nie większej niż 2,00 m (1,40 < d ≤ 1,80 lub 2,00) – 27 ton;
+9)
+grupy osi składającej się z więcej niż trzech osi pojazdów silnikowych, w której co najmniej jedna oś składowa jest osią napędową, przy odległości (d) między osiami składowymi:
+a)
+nie większej niż 1,30 m (d ≤ 1,30) – 7 ton dla każdej osi,
+b)
+większej niż 1,30 m i nie większej niż 1,80 m lub w przypadku pojazdów, o których mowa w § 4 ust. 2, nie większej niż 2,00 m (1,30 < d ≤ 1,80 lub 2,00) – 8 ton dla każdej osi; dopuszcza się 9 ton dla każdej osi, jeżeli jest ona wyposażona w koła bliźniacze i zawieszenie pneumatyczne lub równoważne, o którym mowa w § 5b.
+2.
+Dopuszczalny nacisk każdej osi składowej wchodzącej w skład tej samej grupy osi, z zastrzeżeniem ust. 1 pkt 4 i pkt 9 oraz ust. 5, nie może przekraczać wartości: NS = NG / n, gdzie: NS – dopuszczalny nacisk osi składowej wchodzącej w skład grupy osi [t], NG – dopuszczalny nacisk grupy osi [t], n – ilość osi składowych wchodzących w skład tej samej grupy osi.
+3.
+W przypadku różnych odległości (d) między osiami składowymi wchodzącymi w skład tej samej grupy osi, dopuszczalny nacisk grupy osi nie może przekraczać wartości dopuszczalnej określonej w ust. 1 dla najmniejszej odległości (d) między osiami składowymi.
+4.
+W przypadku pojazdu uczestniczącego w ruchu drogowym podstawą sprawdzenia wymagań, o których mowa w ust. 1–3 oraz ust. 5, są wartości rzeczywiste nacisków osi.
+5.
+Oś, której nacisk lub wysokość w stosunku do drogi mogą być zmieniane za pomocą urządzenia zamontowanego na stałe w pojeździe, musi zostać odpowiednio automatycznie obciążona lub obniżona, jeżeli nacisk najbliższej (najbliższych) osi lub osi przedniej pojazdu samochodowego osiągnął wartość dopuszczalną. Obciążenie lub obniżenie osi powinno nastąpić po ruszeniu pojazdu najpóźniej do osiągnięcia prędkości 30 km/h.
+6.
+Przez oś pojedynczą rozumie się oś, która nie może być uznana za oś wchodzącą w skład grupy osi.
+7.
+Przez grupę osi rozumie się co najmniej dwie osie składowe o odległości (d) między sobą, określonej w niniejszym rozporządzeniu, które oddziałują na siebie ze względu na szczególną konstrukcję zawieszenia.
+§ 5a.
+Wymagania w zakresie zwrotności pojazdów i zespołów pojazdów określa pkt 7 w części B, pkt 6 w części C, pkt 3 w części D oraz dodatek 3 do załącznika I do rozporządzenia Komisji (UE) nr 1230/2012 z dnia 12 grudnia 2012 r. w sprawie wykonania rozporządzenia (WE) nr 661/2009 Parlamentu Europejskiego i Rady w odniesieniu do wymagań w zakresie homologacji typu dotyczących mas i wymiarów pojazdów silnikowych oraz zmieniającego dyrektywę 2007/46/WE Parlamentu Europejskiego i Rady.
+§ 5b.
+Warunki równoważności zawieszeń osi napędowej lub osi napędowych pojazdu określa załącznik III do rozporządzenia Komisji (UE) nr 1230/2012 z dnia 12 grudnia 2012 r. w sprawie wykonania rozporządzenia (WE) nr 661/2009 Parlamentu Europejskiego i Rady w odniesieniu do wymagań w zakresie homologacji typu dotyczących mas i wymiarów pojazdów silnikowych oraz zmieniającego dyrektywę 2007/46/WE Parlamentu Europejskiego i Rady.
+” ;
+3)
+w § 7 ust. 8 otrzymuje brzmienie:
+„
+8.
+Pojazd przystosowany do ciągnięcia przyczepy oraz przyczepa powinny być wyposażone w odpowiednie urządzenia sprzęgające, o których mowa w Regulaminie nr 55 EKG ONZ. Połączenia elektryczne urządzeń sprzęgających powinny być wykonane w sposób zgodny z aktualnym poziomem wiedzy inżynierskiej zapewniający bezpieczeństwo w ruchu drogowym. Poziom wiedzy jest opisany w normach: PN-ISO 1724, PN-ISO 3731, PN-ISO 3732, PN-ISO 1185.
+” ;
+4)
+w § 8:
+a)
+w ust. 4:
+– pkt 3a i 3b otrzymują brzmienie: „ 3a) każde miejsce siedzące pasażera pojazdu samochodowego wyposażone w poduszkę powietrzną powinno mieć ostrzeżenie przed montowaniem na tym miejscu fotelika bezpieczeństwa dla dziecka, tyłem do kierunku jazdy; takie ostrzeżenie w formie piktogramu, któremu może towarzyszyć wyjaśnienie słowne, powinno być trwale zamocowane i umieszczone w taki sposób, aby było widoczne dla osoby montującej fotelik; jeśli ostrzeżenie jest niewidoczne, podczas gdy zamknięte są drzwi pojazdu, należy umieścić dodatkową, stale widoczną wewnątrz pojazdu informację; dotyczy pojazdów zarejestrowanych po raz pierwszy po dniu 20 października 2007 r.; 3b) warunków, o których mowa w pkt 3a, nie stosuje się w odniesieniu do miejsca siedzącego wyposażonego w mechanizm, który automatycznie wykrywa obecność fotelika bezpieczeństwa dla dziecka, skierowanego tyłem do kierunku jazdy, a następnie uniemożliwia zadziałanie poduszki powietrznej; ” ,
+– pkt 7 otrzymuje brzmienie: „ 7) w samochodzie ciężarowym powinno być oddzielone od przestrzeni ładunkowej trwałą przegrodą o odpowiedniej wytrzymałości; przepis stosuje się do samochodu ciężarowego zarejestrowanego po raz pierwszy w okresie od dnia 30 maja 1999 r. do dnia 31 grudnia 2016 r.; ” ,
+– w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 i 10 w brzmieniu: „ 9) w samochodzie ciężarowym o podrodzaju VAN, o maksymalnej masie całkowitej do 7,5 tony, powinno być oddzielone od przestrzeni ładunkowej trwałą przegrodą o wytrzymałości określonej w § 1 załącznika nr 14 do rozporządzenia, z zastrzeżeniem pkt 10; spełnienie tych wymagań powinno być potwierdzone przez jednostkę uprawnioną do prowadzenia badań homologacyjnych typu WE pojazdu/typu pojazdu kategorii N; stosuje się do pojazdu zarejestrowanego po raz pierwszy po dniu 31 grudnia 2016 r., w którym dokonano zmian konstrukcyjnych lub wymiany elementów powodujących zmianę danych w dowodzie rejestracyjnym; 10) przestrzeń ładunkowa może być wyposażona tylko w elementy do mocowania ładunku przeznaczone do ochrony przewożonych osób w przypadku przemieszczenia się ładunku w czasie jazdy, w tym przy gwałtownym hamowaniu lub pokonywaniu zakrętu, o ile elementy te odpowiadają wymaganiom określonym w § 2 załącznika nr 14 do rozporządzenia; spełnienie tych wymagań powinno być potwierdzone przez jednostkę uprawnioną do prowadzenia badań homologacyjnych typu WE pojazdu/typu pojazdu kategorii N; stosuje się do pojazdu zarejestrowanego po raz pierwszy po dniu 31 grudnia 2016 r., w którym dokonano zmian konstrukcyjnych lub wymiany elementów powodujących zmianę danych w dowodzie rejestracyjnym. ” ,
+b)
+w ust. 5 pkt 2 otrzymuje brzmienie:
+„
+2)
+powinny być umocowane w taki sposób lub sporządzone z takiego tworzywa, aby w razie konieczności istniała możliwość wyjścia na zewnątrz pojazdu co najmniej przez jeden otwór okienny z każdej strony pojazdu; nie dotyczy bankowozu;
+” ;
+5)
+w § 9:
+a)
+w ust. 1:
+– pkt 3 otrzymuje brzmienie: „ 3) zadymienie spalin pojazdu z silnikiem o zapłonie samoczynnym, mierzone przy swobodnym przyspieszaniu silnika w zakresie od prędkości obrotowej biegu jałowego do maksymalnej prędkości obrotowej, wyrażone w postaci współczynnika pochłaniania światła, nie przekraczało wartości umieszczonej na tabliczce znamionowej pojazdu; ” ,
+– po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) w przypadku braku określenia na tabliczce znamionowej wartości, o której mowa w pkt 3, zadymienie spalin pojazdu z silnikiem o zapłonie samoczynnym, mierzone przy swobodnym przyspieszeniu silnika w zakresie od prędkości obrotowej biegu jałowego do maksymalnej prędkości obrotowej, wyrażone w postaci współczynnika pochłaniania światła, nie przekraczało: 2,5 m-1, 3,0 m-1 – w przypadku pojazdów wyposażonych w silnik z turbodoładowaniem, 1,5 m-1 – w przypadku pojazdów zarejestrowanych po raz pierwszy po dniu 30 czerwca 2008 r.; ” ,
+b)
+po ust. 1a dodaje się ust. 1b w brzmieniu:
+„
+1b.
+Pojazd samochodowy powinien być wyposażony w wytrzymały układ kierowniczy, pozwalający kierującemu na łatwą, szybką i niezawodną zmianę kierunku ruchu pojazdu.
+” ;
+6)
+§ 9a otrzymuje brzmienie:
+„
+§ 9a.
+W samochodzie osobowym (kategorii M1) o rodzaju nadwozia AB, AC, AF mogą być wprowadzone zmiany konstrukcyjne polegające na dostosowaniu do wymagań jak dla samochodów ciężarowych, jeżeli pojazd spełnia wymagania, o których mowa w pkt 3.5., pkt 3.6. oraz pkt 3.8. części A załącznika II do dyrektywy Parlamentu Europejskiego i Rady 2007/46/WE z dnia 5 września 2007 r. ustanawiającej ramy dla homologacji pojazdów silnikowych i ich przyczep oraz układów, części i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów (Dz. Urz. UE L 263 z 09.10.2007, str. 1, z późn. zm.), powodujące zmianę rodzaju pojazdu na samochód ciężarowy o podrodzaju van, o którym mowa w przepisach o rejestracji pojazdów.
+” ;
+7)
+po § 9a dodaje się § 9b-9e w brzmieniu:
+„
+§ 9b.
+W samochodzie ciężarowym o maksymalnej masie całkowitej nieprzekraczającej 3,5 tony (kategorii N1) i samochodzie ciężarowym o maksymalnej masie całkowitej nieprzekraczającej 7,5 tony (kategorii N2) o nadwoziu rodzaju BB mogą być wprowadzone zmiany konstrukcyjne polegające na zmianie liczby siedzeń, jeżeli pojazd spełnia wymagania, o których mowa w pkt 3.5., pkt 3.6. oraz pkt 3.8. dla pojazdów kategorii N1, części A załącznika II do dyrektywy Parlamentu Europejskiego i Rady 2007/46/WE z dnia 5 września 2007 r. ustanawiającej ramy dla homologacji pojazdów silnikowych i ich przyczep oraz układów, części i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów i spełnione są wymagania techniczne dotyczące wytrzymałości siedzeń i ich mocowania, kotwiczenia pasów bezpieczeństwa, potwierdzone badaniami na zgodność z wymaganiami Regulaminów nr 14, 17 EKG ONZ, wykonanymi przez jednostkę uprawnioną. Siedzenia powinny być wyposażone w pasy bezpieczeństwa spełniające wymagania Regulaminu nr 16 EKG ONZ; z zastrzeżeniem § 9c.
+§ 9c.
+W samochodzie ciężarowym (kategorii N1) o rodzaju nadwozia BB mogą być wprowadzone zmiany konstrukcyjne polegające na zmniejszeniu liczby miejsc (bez zmiany położenia pozostawionych siedzeń), jeżeli pojazd spełnia wymagania, o których mowa w pkt 3.5., pkt 3.6. oraz pkt 3.8. części A załącznika II do dyrektywy Parlamentu Europejskiego i Rady 2007/46/WE z dnia 5 września 2007 r. ustanawiającej ramy dla homologacji pojazdów silnikowych i ich przyczep oraz układów, części i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów.
+§ 9d.
+W samochodzie ciężarowym o maksymalnej masie całkowitej nieprzekraczającej 3,5 tony (kategorii N1) i samochodzie ciężarowym o maksymalnej masie całkowitej nieprzekraczającej 7,5 tony (kategorii N2) o nadwoziu rodzaju BB mogą być wprowadzone zmiany konstrukcyjne polegające na zmianie liczby siedzeń powodującej zmianę rodzaju pojazdu na autobus, o którym mowa w przepisach o rejestracji pojazdu, jeżeli spełnione są wymagania techniczne dotyczące wytrzymałości siedzeń i ich mocowania, kotwiczenia pasów bezpieczeństwa, potwierdzone badaniami na zgodność z wymaganiami Regulaminów nr 14, 17 lub 80 EKG ONZ, wykonanymi przez jednostkę uprawnioną. Siedzenia powinny być wyposażone w pasy bezpieczeństwa spełniające wymagania Regulaminu nr 16 EKG ONZ.
+§ 9e.
+W przypadku czterokołowca moc silnika nie powinna przekraczać 15 kW, a w przypadku czterokołowca lekkiego moc silnika innego niż o zapłonie iskrowym nie powinna przekraczać 4 kW.
+” ;
+8)
+w § 10 w ust. 1 pkt 2 i 3 otrzymują brzmienie:
+„
+2)
+oznakowane są cechami producenta pojazdu, na który wystawiono świadectwo homologacji typu pojazdu; ocechowanie to powinno być zgłoszone do jednostki uprawnionej w celu ewidencji;
+3)
+oznakowane są cechami dostawcy producenta pojazdu, na który wystawiono świadectwo homologacji typu pojazdu; ocechowanie to powinno być zgłoszone do jednostki uprawnionej w celu ewidencji;
+” ;
+9)
+w § 11 w ust. 1:
+a)
+pkt 4 otrzymuje brzmienie:
+„
+4)
+w prędkościomierz umieszczony w polu widzenia kierowcy, wyskalowany w km/h albo jednocześnie w km/h i mph oraz w licznik przebiegu pojazdu (drogomierz);
+” ,
+b)
+pkt 5e otrzymuje brzmienie:
+„
+5e)
+w lusterka klasy IV i V po stronie pasażera – w odniesieniu do autobusu szkolnego zarejestrowanego po raz pierwszy po dniu 30 czerwca 2017 r., samochodu ciężarowego i pojazdu specjalnego o dopuszczalnej masie całkowitej przekraczającej 3,5 t, zarejestrowanego po raz pierwszy po dniu 1 stycznia 2000 r., z tym że:
+a)
+przepisu nie stosuje się do samochodu ciężarowego i pojazdu specjalnego o dopuszczalnej masie całkowitej nieprzekraczającej 7,5 t, w przypadku gdy nie jest możliwe zamontowanie lusterek klasy V w sposób gwarantujący spełnienie następujących warunków:
+– żadna część lusterka nie znajduje się w odległości mniejszej niż 2,00 m od podłoża, niezależnie od pozycji ustawienia lusterek, gdy pojazd znajduje się pod obciążeniem odpowiadającym jego dopuszczalnej masie całkowitej, oraz
+– lusterko jest w pełni widoczne z miejsca kierowcy,
+b)
+obowiązek uważa się za spełniony, jeżeli dla pojazdu wyposażonego po stronie pasażera w lusterka szerokokątne i bliskiego widzenia, kombinacja pola widzenia odpowiada co najmniej 95% całkowite
+go pola widzenia na poziomie podłoża lusterek klasy IV i co najmniej 85% pola widzenia na poziomie podłoża lusterek klasy V; spełnienie tych wymagań powinno być potwierdzone dokumentem wydanym przez jednostkę uprawnioną,
+c)
+jeżeli niemożliwe jest zainstalowanie lusterek klasy IV i V po stronie pasażera lub ich instalacja powodowałaby nadmierne koszty, obowiązek uważa się za spełniony dla pojazdu wyposażonego w dodatkowe lusterka lub inne urządzenia do pośredniego widzenia, których kombinacja pola widzenia odpowiada co najmniej 95% całkowitego pola widzenia na poziomie podłoża lusterek klasy IV i co najmniej 85% pola widzenia na poziomie podłoża lusterek klasy V; spełnienie tych wymagań powinno być potwierdzone dokumentem wydanym przez jednostkę uprawnioną;
+” ,
+c)
+po pkt 5e dodaje się pkt 5f w brzmieniu:
+„
+5f)
+w lusterka klasy VI po stronie kierowcy i pasażera – w odniesieniu do autobusu szkolnego zarejestrowanego po raz pierwszy po dniu 30 czerwca 2017 r., z tym że:
+a)
+lusterka powinny być tak umieszczone, aby kierowca siedzący na miejscu przewidzianym dla niego w pozycji normalnej widział dokładnie i wyraźnie obszar drogi z przodu oraz z boków pojazdu,
+b)
+lusterka powinny być widoczne dla kierowcy przez szybę przednią w polach oczyszczanych przez wycieraczki; jeżeli z przyczyn konstrukcyjnych lusterka nie mogą być widoczne przez szybę przednią, mogą być widoczne dla kierowcy przez szyby boczne pod warunkiem spełnienia wymagań w zakresie widoczności określonych w niniejszym rozporządzeniu,
+c)
+jeżeli dolna krawędź lusterka znajduje się na wysokości nie większej niż 2,00 m od podłoża, lusterko nie może wystawać poza obrys pojazdu więcej niż 250 mm,
+d)
+wartość promienia „r” dla lusterka nie może być mniejsza niż 200 mm,
+e)
+jeżeli ze względów konstrukcyjnych nie mogą być spełnione powyższe wymagania przy zastosowaniu lusterek klasy VI, można wykorzystać w tym celu urządzenia widzenia pośredniego typu kamera-monitor, zgodnie z wymaganiami określonymi w przepisach Unii Europejskiej dotyczących badań homologacyjnych lub Regulaminie nr 46 EKG ONZ
+spełnienie tych wymagań powinno być potwierdzone dokumentem wydanym przez jednostkę uprawnioną.
+” ,
+d)
+pkt 9 otrzymuje brzmienie:
+„
+9)
+w zagłówki na każdym zewnętrznym przednim siedzeniu; przepis stosuje się do samochodu osobowego (kategorii M1), samochodu ciężarowego o maksymalnej masie całkowitej nieprzekraczającej 3,5 tony (kategorii N1), autobusu o maksymalnej masie całkowitej nieprzekraczającej 3,5 tony (kategorii M2) oraz samochodu specjalnego o maksymalnej masie całkowitej nieprzekraczającej 3,5 tony wymienionych kategorii, zarejestrowanych po raz pierwszy po dniu 31 grudnia 1995 r.; pojazdy samochodowe mogą być wyposażone w zagłówki spełniające wymagania Regulaminów nr 17 lub 25 EKG ONZ, na innych siedzeniach niż zewnętrzne przednie;
+” ;
+10)
+w § 18:
+a)
+w ust. 1 w pkt 14 kropkę zastępuje się średnikiem i dodaje się pkt 15 w brzmieniu:
+„
+15)
+oznakowaną przestrzeń przeznaczoną dla pasażera niepełnosprawnego na wózku inwalidzkim, która:
+a)
+umożliwia przewóz co najmniej jednej osoby na wózku inwalidzkim przodem lub tyłem do kierunku jazdy,
+b)
+jest wyposażona w pas bezpieczeństwa ze zwijaczem i blokadą, umożliwiający zapięcie pasażera wraz z wózkiem, a dostęp do niej jest zapewniony przez urządzenie do załadunku i wyładunku będące na wyposażeniu autobusu
+w przestrzeni tej mogą być umieszczone siedzenia składane, o ile zachowane będą powyższe warunki, gdy siedzenia są złożone; dotyczy autobusu miejskiego rejestrowanego po raz pierwszy po dniu 30 czerwca 2017 r.
+” ,
+b)
+ust. 2 otrzymuje brzmienie:
+„
+2.
+Przepisów ust. 1 pkt 5, 6, 8 i 11 nie stosuje się do autobusu miejskiego używanego w komunikacji miejskiej lub miejskiej i podmiejskiej lub w przewozach okazjonalnych wykonywanych w granicach administracyjnych miasta i gminy.
+” ;
+11)
+po § 20 dodaje się § 20a w brzmieniu:
+„
+§ 20a.
+Wymiary wyjść, przejść, siedzeń, stopni dla pasażerów oraz odstępów między siedzeniami w autobusach określa załącznik nr 7a do rozporządzenia.
+” ;
+12)
+w § 22 w ust. 1 w pkt 6 lit. a otrzymuje brzmienie:
+„
+a)
+umożliwia przewóz co najmniej jednej osoby na wózku inwalidzkim przodem lub tyłem do kierunku jazdy,
+” ;
+13)
+w § 23:
+a)
+ust. 3 otrzymuje brzmienie:
+„
+3.
+Autobus powinien być przebadany przez producenta z wynikiem pozytywnym w zakresie stateczności ruchu po rozerwaniu jednej z opon kół osi przedniej; nie dotyczy typu homologowanego w zakresie hamowania według Regulaminu nr 13 EKG ONZ zgodnie z co najmniej 11 serią poprawek.
+” ,
+b)
+w ust. 4:
+– pkt 1 i 2 otrzymują brzmienie: „ 1) przyrząd kontrolny – tachograf samochodowy o zakresie pomiarowym co najmniej do 125 km/h – o ile jest wymagany; 2) ogranicznik prędkości o nastawionej prędkości granicznej 100 km/h – o ile jest wymagany; ” ,
+– pkt 4 otrzymuje brzmienie: „ 4) opony homologowane według Regulaminu nr 54 EKG ONZ; nie dopuszcza się opon bieżnikowanych na osiach z kołami pojedynczymi, o ile osie te nie są osiami składowymi, oraz nie dopuszcza się na żadnej z osi opon o pogłębionych (nacinanych) rowkach bieżnika; ” ,
+– w pkt 7 w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ c) pozostałych autobusów o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 tony – po dniu 20 października 2007 r.; ” ;
+14)
+w § 24 w ust. 1:
+a)
+pkt 3 otrzymuje brzmienie:
+„
+3)
+co najmniej dwoje drzwi z każdego boku nadwozia lub dwoje drzwi z prawej strony, jedne z lewej strony i jedne z tyłu nadwozia umożliwiające, tylko w razie konieczności, wyjście na zewnątrz;
+” ,
+b)
+pkt 7 otrzymuje brzmienie:
+„
+7)
+ogumione koło zapasowe lub zestaw naprawczy;
+” ;
+15)
+w § 33 dodaje się ust. 4 w brzmieniu:
+„
+4.
+Pojazd patrolu rozminowania saperskiego powinien być oznakowany pasem wyróżniającym barwy białej i umieszczonym po obu stronach pojazdu napisem „PATROL SAPERSKI”. Na dachu pojazdu może być umieszczony świetlny napis „PATROL SAPERSKI” barwy czarnej na białym tle.
+” ;
+16)
+w § 38 w ust. 2 w pkt 2 lit. a otrzymuje brzmienie:
+„
+a)
+hol giętki do holowania motocykla i hol sztywny do holowania pojazdu, o konstrukcji wykluczającej potrzebę użycia niesprawnego układu kierowniczego lub niesprawnych hamulców uszkodzonych pojazdów,
+” ;
+17)
+w § 43 po ust. 2 dodaje się ust. 2a w brzmieniu:
+„
+2a.
+Przepisu ust. 1 pkt 8 nie stosuje się do ciągników rolniczych.
+” ;
+18)
+w § 45:
+a)
+w ust. 1 pkt 3 otrzymuje brzmienie:
+„
+3)
+maksymalna prędkość konstrukcyjna ciągnika rolniczego i leśnego nie przekraczała o więcej niż 3 km/h wartości 40 km/h, zmierzonej zgodnie z przepisami o homologacji pojazdów; nie dotyczy ciągnika kategorii T5.
+” ,
+b)
+w ust. 3 po pkt 1 dodaje się pkt 1a w brzmieniu:
+„
+1a)
+przyczepy ciężarowej rolniczej o szerokości nieprzekraczającej 3,00 m, jeżeli jest wyposażona w opony specjalne, a przekroczenie szerokości 2,55 m może wynikać jedynie z szerokości zamontowanych opon specjalnych;
+” ;
+19)
+w § 46:
+a)
+w ust. 1 w pkt 1 lit. d otrzymuje brzmienie:
+„
+d)
+co najmniej dwa lusterka zewnętrzne, jedno po lewej, a drugie po prawej stronie pojazdu, zapewniające strefę widoczności drogi do tyłu co najmniej:
+– w przypadku pojazdu zarejestrowanego po raz pierwszy przed dniem 1 kwietnia 2011 r.: – – o szerokości 2,5 m w lewo od bocznego obrysu pojazdu ciągniętego w odległości 10 m od oczu kierowcy, – – o szerokości 3,5 m w prawo od bocznego obrysu pojazdu ciągniętego w odległości 30 m od oczu kierowcy, przy czym w odległości 4 m od oczu kierowcy odległość ta powinna wynosić 0,75 m, – w przypadku pojazdu zarejestrowanego po raz pierwszy po dniu 31 marca 2011 r.: – – o szerokości 1 m po obu stronach od bocznego obrysu pojazdu ciągniętego w odległości 4 m od oczu kierowcy aż po horyzont oraz – – o szerokości 5 m po obu stronach od bocznego obrysu pojazdu ciągniętego w odległości 30 m od oczu kierowcy aż po horyzont,
+” ,
+b)
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+„
+1a.
+Nie jest wymagane wyposażenie ciągnika rolniczego zarejestrowanego przed dniem 31 grudnia 1993 r. w lusterka zewnętrzne, jeżeli pojazd ten nie posiada kabiny lub ramy ochronnej.
+” ;
+20)
+w § 53:
+a)
+w ust. 2:
+– pkt 1 otrzymuje brzmienie: „ 1) jedno światło mijania barwy białej, umieszczone z przodu w pionowej płaszczyźnie symetrii pojazdu, nie niżej niż 500 mm oraz nie wyżej niż 1200 mm od powierzchni jezdni, oświetlające drogę na odległość co najmniej 30 m przed pojazdem przy dobrej przejrzystości powietrza oraz spełniające wymagania określone w § 13 ust. 1 pkt 4; ” ,
+– w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „ 5) jedno światło hamowania „stop” barwy czerwonej, umieszczone z tyłu pojazdu nie niżej niż 250 mm i nie wyżej niż 1500 mm od powierzchni jezdni; dotyczy pojazdu zarejestrowanego po raz pierwszy po dniu 1 stycznia 2009 r. ” ,
+b)
+w ust. 3:
+– pkt 1 i 2 otrzymują brzmienie: „ 1) jedno światło drogowe barwy białej, umieszczone z przodu, w pionowej płaszczyźnie symetrii pojazdu; 2) jedno światło pozycyjne przednie, barwy białej, umieszczone w pionowej płaszczyźnie symetrii pojazdu, umieszczone z przodu nie niżej niż 350 mm i nie wyżej niż 1200 mm od powierzchni jezdni; ” ,
+– uchyla się pkt 4;
+21)
+w § 57 dodaje się ust. 4 w brzmieniu:
+„
+4.
+W samochodzie ciężarowym do wywozu śmieci, którego tylna część jest przystosowana do załadunku śmieci, dopuszcza się niespełnienie wymagań określonych w § 7 ust. 4, § 1 ust. 2 załącznika nr 5, § 4–6 załącznika nr 10 do rozporządzenia oraz w zakresie świateł zewnętrznych pojazdu wymagań określonych w lp. 3b, 4, 7, 8, 12, 13, 14, 15, 21a § 2 załącznika nr 6 do rozporządzenia.
+” ;
+22)
+w § 58 ust. 1 otrzymuje brzmienie:
+„
+1.
+Pojazdy zarejestrowane przed terminami określonymi w przepisach § 2 ust. 14 i 15, § 3 ust. 20, § 7 ust. 4 pkt 6, § 11 ust. 1 pkt 18 i 19 oraz § 23 ust. 4 pkt 7 mogą spełniać wymagania zawarte w tych przepisach.
+” ;
+23)
+załącznik nr 4 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
+24)
+załącznik nr 6 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia;
+25)
+po załączniku nr 7 do rozporządzenia dodaje się załącznik nr 7a do rozporządzenia w brzmieniu określonym w załączniku nr 3 do niniejszego rozporządzenia;
+26)
+załącznik nr 12 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 4 do niniejszego rozporządzenia;
+27)
+po załączniku nr 13 do rozporządzenia dodaje się załącznik nr 14 do rozporządzenia w brzmieniu określonym w załączniku nr 5 do niniejszego rozporządzenia.
+§ 2.
+Do dnia 31 grudnia 2016 r. dopuszcza się wyposażenie motoroweru w światła drogowe, mijania lub pozycyjne przednie o barwie żółtej selektywnej.
+§ 3.
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r., z wyjątkiem § 1 pkt 2, który wchodzi w życie z dniem 1 stycznia 2017 r.
+1) Minister Infrastruktury i Budownictwa kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Budownictwa (Dz. U. poz. 1907 i 2094). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 29 grudnia 2015 r., pod numerem 2015/0726/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę 2015/1535/UE Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w zakresie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 19.09.2015, str. 1). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611, z 2014 r. poz. 312, 486, 529, 768, 822 i 970, z 2015 r. poz. 211, 541, 591, 933, 1038, 1045, 1273, 1326, 1335, 1830, 1844, 1893, 2183 i 2281 oraz 2016 r. poz. 266 i 352. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 486, 805, 915 i 1310 oraz z 2015 r. poz. 211, 390, 978, 1269, 1273, 1893 i 2183.
+
+## Załącznik nr 1 — – Wymagania dotyczące tabliczki znamionowej
+
+§ 1.
+Tabliczka znamionowa powinna być umieszczona przez producenta albo przez jego upoważnionego przedstawiciela. W przypadku braku tabliczki znamionowej mają zastosowanie odrębne przepisy o tabliczce zastępczej.
+§ 2.
+1.
+Tabliczka znamionowa powinna być trwale przymocowana w widocznym i łatwo dostępnym miejscu na części, która nie daje się łatwo usunąć lub wymienić. Powinna ona podawać w sposób czytelny i nieścieralny informacje w następującej kolejności:
+1)
+nazwa producenta;
+2)
+numer świadectwa homologacji typu WE pojazdu lub numer świadectwa homologacji typu pojazdu;
+3)
+numer identyfikacyjny pojazdu VIN, a w razie jego braku – rozpoznawczy numer podwozia/nadwozia pojazdu;
+4)
+maksymalna masa całkowita pojazdu, a w przypadku motocykli i motorowerów zamiast maksymalnej masy całkowitej homologowany poziom hałasu zewnętrznego na postoju w dB (A) przy prędkości obrotowej wyrażonej w obr/min;
+5)
+maksymalna masa całkowita zespołu pojazdów w przypadku pojazdu samochodowego przeznaczonego do ciągnięcia przyczepy;
+6)
+maksymalne obciążenia osi podane w kolejności od przodu do tyłu;
+7)
+w przypadku przyczepy i naczepy, maksymalne obciążenie pionowe na urządzenie sprzęgające;
+8)
+jeżeli wartości maksymalne mas i obciążeń są większe niż dopuszczalne, to należy podawać również te wartości; dane powinny być wówczas podane w dwóch kolumnach: dopuszczalne – po lewej i maksymalne – po prawej stronie. W nagłówku lewej kolumny podaje się kod państwa, w którym pojazd ma zostać zarejestrowany; dotyczy pojazdów zarejestrowanych po raz pierwszy po dniu 1 maja 2016 r.;
+9)
+W przypadku pojazdów kategorii N3, O3 lub O4 podaje się również maksymalna masę całkowitą na grupę osi. Pozycję dotyczącą „grupy osi” oznacza się literą „T”; dotyczy pojazdów rejestrowanych po raz pierwszy po dniu 1 maja 2016 r.;
+10)
+producent może podać dodatkowe dane, zamieszczając je poniżej lub obok, poza wyraźnie zaznaczonym prostokątem zawierającym jedynie dane przewidziane w pkt 1–8;
+11)
+w odniesieniu do ciągników rolniczych rejestrowanych po raz pierwszy po dniu 20 października 2007 r. mają zastosowanie pkt 1, 2 i 3, z zastrzeżeniem że numer powinien być umieszczony na podwoziu lub innym podobnym podstawowym elemencie konstrukcyjnym na przedniej prawej stronie pojazdu, oraz pkt 4 z zastrzeżeniem pkt 11;
+12)
+wysokość znaków dla numeru identyfikacyjnego pojazdu (VIN) nie powinna być mniejsza niż 4 mm, dla pozostałych informacji nie powinna być mniejsza niż 2 mm;
+13)
+w odniesieniu do ciągników rolniczych rejestrowanych po raz pierwszy po dniu 20 października 2007 r. na tabliczce znamionowej powinny znajdować się także następujące dane:
+a)
+typ ciągnika,
+b)
+najmniejsza i największa wartość maksymalnej masy całkowitej ciągnika,
+c)
+maksymalny nacisk każdej osi ciągnika w zależności od możliwych typów opon, w jakie można dany ciągnik wyposażyć,
+d)
+maksymalne masy ciągniętej przyczepy (przyczep).
+2.
+W przypadku motocykli i motorowerów obowiązuje podanie danych wymienionych w ust. 1 pkt 1–4, przy czym dane określone w ust. 1 pkt 2 i 4 mogą być umieszczone poza tabliczką znamionową.
+
+## Załącznik nr 2 — – Warunki szczegółowe dotyczące świateł zewnętrznych pojazdu samochodowego i przyczepy
+
+§ 1.
+1.
+Zespół dwóch niezależnych lub zgrupowanych świateł, takich samych lub różnych, lecz o jednakowym przeznaczeniu i jednakowej barwy, uważa się za jedno światło, jeżeli rzut ich powierzchni świetlnych na płaszczyznę poprzeczną zajmuje co najmniej 60% powierzchni najmniejszego prostokąta opisanego na rzutach tych powierzchni świetlnych oraz pod warunkiem, że światła te zostały homologowane jako światło typu D (zgodnie z oznaczeniem homologacyjnym); nie stosuje się do świateł drogowych, świateł mijania i świateł przeciwmgłowych przednich.
+2.
+Ilekroć w niniejszych przepisach jest mowa o „odległości rozmieszczenia świateł”, należy przez to rozumieć, że:
+1)
+największą wysokość mierzy się od płaszczyzny jezdni do najwyższego punktu powierzchni świetlnej przy pojeździe nieobciążonym;
+2)
+najmniejszą wysokość mierzy się od płaszczyzny jezdni do najniższego punktu powierzchni świetlnej przy pojeździe nieobciążonym;
+3)
+odległość od bocznego obrysu pojazdu mierzy się do najbardziej odległego od podłużnej płaszczyzny symetrii pojazdu punktu powierzchni świetlnej;
+4)
+odległość od przedniego lub tylnego obrysu pojazdu mierzy się do najbardziej wysuniętego odpowiednio do przodu lub do tyłu punktu powierzchni świetlnej;
+5)
+odległość między dwoma światłami skierowanymi w tę samą stronę mierzy się między najbliższymi punktami rzutów ich powierzchni świetlnych na płaszczyznę prostopadłą do osi tych świateł.
+3.
+Powierzchnia świetlna oznacza dla świateł widoczną powierzchnię wysyłającą światło, a dla świateł odblaskowych – widoczną powierzchnię odbijającą światło.
+4.
+Boczny obrys pojazdu oznacza płaszczyznę równoległą do podłużnej płaszczyzny symetrii pojazdu, przechodzącą przez najdalej wysunięty punkt na zewnątrz pojazdu, z wyjątkiem lusterek, świateł bocznych i elementów elastycznych (§ 2 ust. 2 rozporządzenia).
+5.
+Przedni lub tylny obrys pojazdu oznacza pionową płaszczyznę prostopadłą do podłużnej płaszczyzny symetrii pojazdu, przechodzącą przez najdalej wysunięty odpowiednio do przodu lub do tyłu punkt pojazdu.
+6.
+Przewidziane w § 2 kol. 12 i 13:
+1)
+kontrolny sygnał włączenia, który wskazuje, że urządzenie zostało włączone, ale nie wskazuje, czy działa ono normalnie,
+2)
+kontrolny sygnał działania, który wskazuje, że urządzenie zostało włączone i działa normalnie,
+jeśli są to sygnały świetlne, powinny być umieszczone w miejscu zapewniającym kierowcy dobrą ich widoczność i nie powinny utrudniać obserwacji drogi; kontrolny sygnał włączenia może być zastąpiony kontrolnym sygnałem działania; jeżeli umieszczenie kontrolnego sygnału włączenia jest zabronione, nie oznacza to, że zabronione jest umieszczenie kontrolnego sygnału działania.
+§ 2.
+Światła zamontowane na pojeździe powinny odpowiadać warunkom podanym w poniższej tabeli: Lp. Rodzaj światła Liczba świateł Barwa Rozmieszczenie na pojeździe [mm] Sygnał kontrolny Połączenia elektryczne Własności świetlne Inne warunki pojazdysamochodowe, z wyjątkiemmotocykli motocykle1) ciągniki* przyczepy na długości na szerokości1) na wysokości inne wymagania włączenia działania 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 1 Drogowe 2 lub 4, ponadto jeśli pojazd jest wyposażony w 4 światła chowane, dopuszcza się 2 dodatkowe światła drogowe do ostrzegawczej sygnalizacji świetlnej 1 lub 22) 2 lub 4 biała z przodu w taki sposób, aby wysyłane światło nie olśniewało kierującego bezpośrednio lub przez odbicie od elementów pojazdu w ciągnikach rolniczych nie mogą być bliżej od bocznego obrysu niż światła mijania obowiązkowy -świetlny niemi-gający barwy niebieskiej 1) powinny być włączane wszystkie równocześnie lub parami,2) przełączenie świateł mijania na światła drogowe musi powodować włączenie co najmniej jednej pary świateł drogowych,3) przełączenie świateł drogowych na światła mijania musi powodować równocześnie wyłączenie wszystkich świateł drogowych,4) włączenie świateł drogowych nie jest możliwe, jeśli nie są włączone światła pozycyjne, z wyjątkiem krótkotrwałego włączania jako ostrzegawczego sygnału świetlnego 1) powinny dostatecznie oświetlać drogę co najmniej na 100 m przed pojazdemprzy dobrej przejrzystości powietrza,2) suma światłości wszystkich świateł drogowych nie może być mniejsza niż30 000 cd3) (dla motocykli-12 500 cd) i nie może przekraczać 225 000 cd (dla motocykli-120 000 cd) w razie wyposażenia pojazdu w cztery światła drogowe, gdy jedna z par świateł przeznaczona jest wyłącznie do świateł drogowych, dopuszcza się, aby zmieniała ona swe ustawienie w zależności od kąta obrotu kierownicy, przy czym obrót świateł powinien następować wokół osi pionowej, stosuje się to również do światła drogowego motocykla i ciągnika 2 Mijania 2 1 lub 22) 2 10) biała z przodu jak lp, 1 nie dalej niż 400 mm od bocznego obrysu pojazdu; wzajemna odległość nie może być mniejsza niż 600 mm4)28) (nie stosuje się to do motocykla i ciągnika) 500–1200, dla samochodów ciężarowych terenowych o mmc powyżej 12 t (kat. N3G) oraz ze względów konstrukcyjnych dla ciągników dopuszcza się największą wysokość 1500 mm dopuszcza się sygnał świetlny niemigający barwy zielonej 1) wyłączenie świateł mijania musi powodowaćrównoczesne wyłączenie wszystkich świateł drogowych,2) światła mijania mogą pozostać włączone razem ze światłami drogowymi,3) włączenie świateł mijania nie jest możliwe, jeśli nie są włączone światła pozycyjne, z wyjątkiem krótkotrwałego włączania światła jako ostrzegawczego sygnału świetlnego powinny dostatecznie oświetlać drogę co najmniej na 40 m przed pojazdem przy dobrej przejrzystości powietrza37) 1) powinny być asymetryczne i oświetlać drogę po prawej stronie na większą odległość niż po lewej stronie26',2) jeżeli światła mijania wykorzystują jako źródło światła moduły LED lub strumień świetlny źródła światła zastosowanego w światłach mijania przekracza wartość 2000 lumenów, to korektor pochylenia reflektorów pojazdu musi działać automatycznie,3) jeżeli strumień świetlny źródła światła zastosowanego w światłach mijania przekracza wartość 2000 lumenów, to urządzenie do oczyszczania reflektorów przednich jest obowiązkowe. 3 Kierunkowskazy: 3a przednie 2 25) 238) żółta samochodowa z przodu (dla ciągnika z przodu lub z boku, przy czym dla umieszczonego z boku maks. 1800 mm od przedniego obrysu ciągnika; dopuszcza się 2600 mm ze względów konstrukcyjnych) nie dalej niż 400 mm od bocznego obrysu pojazdu (z wyjątkiem świateł ciągnika umieszczonych z przodu); wzajemna odległość nie może być mniejsza niż 600 mm4) (dla motocykla jednośladowego 240 mm, dla ciągnika 500 mm) 350–15008)38)40) nie bliżej niż 40 mm od światła mijania lubprzeciwmgłowego przedniego 9) obowiązkowy; może to być sygnał świetlny migający barwy zielonej lub akustyczny albo oba równocześnie; w przypadku niesprawności działania jakiegokolwiek kierunkowskazu, z wyjątkiem kierunkowskazów bocznych, sygnał optyczny powinien albo nie świecić albo świecić w sposób ciągły, albo migać z wyraźnie zmienioną częstotliwością; sygnał akustyczny powinien być wyraźnie słyszalny i w wymienionych wyżej warunkach powinien znaczne zmienić częstotliwość; jeżeli pojazd jest przystosowany do ciągnięcia przyczepy, to powinien mieć sygnał działania kierunkowskazów przyczepy, chyba że sygnał kontrolny pojazdu ciągnącego pozwala na wykrycie uszkodzenia jednego ze świateł zespołu pojazdów 1) włączanie kierunkowskazów powinno być niezależne od włączenia innych świateł,2) wszystkie kierunkowskazy umieszczone z jednej strony pojazdu powinny być włączanei wyłączane jednym wyłącznikiem oraz powinny migać z jedną częstotliwością w fazie 1) powinny migać z równomierną częstotliwością 90 ± 30 cykli na minutę,2) włączenie świateł powinno nastąpićz opóźnieniem nie większym niż 1 s, a pierwsze wyłączenie z opóźnieniem większym niż 1,5 s od uruchomienia przełącznika kierunkowskazów,3) w przypadku uszkodzenia, innego niż zwarcie, jednego ze świateł, pozostałe muszą migać, ale częstotliwość może różnić się od wymaganej jeżeli pojazd ciągnie przyczepę, włączenie kierunkowskazów na pojeździe ciągnącym powinno powodować włączenie kierunkowskazów umieszczonych na przyczepie 3b tylne 232) 26) 2 232) żółta samochodowa z tyłu (dla ciągnika z przodu lub z boku) nie dalej niż 400 mm od bocznego obrysu pojazdu (z wyjątkiem świateł dodatkowych); wzajemna odległość nie może być mniejsza niż 600 mm4) (dla motocykla jednośladowego 180 mm, dla ciągnika 500 mm) 350–15008)35)40) 3c boczne 211) 212) brak lub 2 żółta samochodowa na obu bokach; odległość środka najbardziej do przodu wysuniętego punktu powierzchni świetlnej od przedniego obrysu nie może przekraczać 1800 mml3) (nie stosuje się tego do motocykla) wzajemna odległość nie może być mniejsza niż 600 mm16) 500–1500l5), dla samochodów osobowych (kat. M|) dopuszcza się najmniejszą wysokość 350 mm opcjonalnie do trzech lamp kat. 5 albo jedna lampa kat. 6 na stronę przyczepy kat. 02, 03, 04, której długość przekracza 9m, Lampy kat. 5 powinny być rozmieszczone w równ ych odstępach na całej długości przyczepy. Lampa kat. 6 powinna być umieszczona w obszarze między pierwszą a ostatnią czwartą częścią długości przyczepy 3d przednio-tylne 2 39) żółta samochodowa jak w 1p, 3a i3b jak w 1p, 3a i3b jak w 1p, 3a i 3b jak w 1p, 3a i 3b 4 Hamowania „stop”: 4a kategorii S1 lub S2 (zgodnie z oznaczeniem homologacyjnym) 217) 33) 1 lub 2, z tym że dla motocykla trójkołowego muszą być dwa światła 2 233) czerwona z tyłu dla samochodów osobowych (kat. M|) nie dalej niż 400 mm od bocznego obrysu pojazdu; dla motocykla brak wymagań, dla pozostałych pojazdów wzajemna odległość świateł umieszczonych po lewej i po prawej stronie pojazdu nie może być mniejsza niż 600 mm (dla ciągnika 500 mm)7) 350–15008)35)40) dla motocykla najmniejsza wysokość wynosi 250 mm dopuszcza się sygnał świetlny niemigający, zapalający się w razie niesprawności światła hamowania „stop” powinno zapalać się w momencie uruchomienia hamulca roboczego światłość powinna być wyraźnie większa niż światłość świateł pozycyjnych tylnych 4b kategorii S3 lub S4 (środkowe zgodnie z oznaczeniem homologacyjnym)obecność obowiązkowa dla pojazdów kategorii MI zarejestrowanych po raz pierwszy po dniu30 czerwca 2003 r.; obecność obowiązkowa dla pojazdów kategorii NIz wyłączeniem pojazdów z otwartą przestrzenią ładunkową, zareje-strowanych po raz pierwszy po dniu31 grudnia 2012 r. 129) 129) czerwona z tyłu środek światła powinien leżeć w środkowej wzdłużnej płaszczyźnie pojazdu29) dolna krawędź powierzchni świetlnej nie niżej niż 150 mm poniżej dolnej krawędzi szyby tylnego okna lub nie mniej niż 850 mm od nawierzchni; dolna krawędź powierzchni świetlnej powyżej górnych krawędzi świateł S1 lub S2 1) nie może być łączone z innym światłem,2) może być umieszczone na zewnątrz lub wewnątrz pojazdu,3) jeśli jest umieszczone wewnątrz pojazdu, nie powinno być uciążliwe dla kierowcy przez odbicie od zwierciadeł lub innych powierzchni odbijających (np, tylnej szyby) 5 Oświetlające tylną tablicę rejestracyjną liczba taka, aby zapewniała dobre oświetlenie tablicy rejestracyjnej biała w sposóbzapewniającyoświetleniemiejscaumieszczeniatylnej tablicyrejestracyjnej dopuszcza się, z tym że funkcję tę powinien spełniać sygnał przewidziany dla świateł pozycyjnych powinno zapewniać możliwość odczytania znaków na tablicy rejestracyjnej w nocy przy dobrejprzejrzystości powietrza z odległości co najmniej 20 m nie może być bezpośrednio widoczne z tyłu pojazdu z odległości większej od 25 m 6 Pozycyjne przednie 2 1 lub 2 214) 244) biała, a dla motocykli biała lub żółta samochodowa4" z przodu18) nie dalej niż 400 mm19) od bocznego obrysu pojazdu; wzajemna odległość nie może być mniejsza niż 600 mm (dla ciągnika 500 mm)28)7) 350–15008)40) obowiązkowy -świetlny niemi-gający barwy zielonej; sygnał ten nie jest wymagany, jeżeli oświetlenie tablicy rozdzielczej może włączać się i wyłączać tylko równocześnie ze światłami pozycyjnymi przednimi i tylnymi powinny być widoczne w nocy przy dobrej przejrzystości powietrza z odległości co najmniej 300 m, jeżeli są jedynymi światłami włączonymi na pojeździe 7 Pozycyjne tylne 234) 1 lub 2 2 2 34) czerwona z tyłu30) nie dalej niż 400 mm od bocznego obrysu pojazdu (z wyjątkiem świateł dodatkowych); wzajemna odległość nie może być mniejsza niż 600 mm28)7) 350–15008)35)40) obowiązkowy -jego funkcję powinien spełniać sygnał przewidziany dla świateł pozycyjnych przednich powinny być widoczne w nocy przy dobrej przejrzystości powietrza z odległości co najmniej 300 m 8 Odblaskowe tylne inne niż trójkątne 2 1 lub 2 2 (lub 44l) -jeśli dwa nie mogą spełnić wymagań co do rozmieszczenia i widoczności) 2 23) czerwona z tyłu20) nie dalej niż 400 mm od bocznego obrysu pojazdu; wzajemna odległość nie może być mniejsza niż 600 mm28)7) 250–9002l)4l) 400–9004l) (dla ciągników nie niżej niż 400 mm) powinny być widoczne w nocy przy dobrej przejrzystości powietrza z odległości co najmniej 150 m, jeżeli są oświetlone światłem drogowym innego pojazdu 1) kształt – inny niż trójkąt,2) powierzchnia świetlna może mieć wspólne części z powierzchnią świetlną innego światła tylnego 9 Odblaskowe tylne trójkątne 2 czerwona z tyłu nie dalej niż 400 mm od bocznego obrysu pojazdu; wzajemna odległość nie może być mniejsza niż 600 mm” 250–9002l) powinny być widoczne w nocy przy dobrej przejrzystości powietrza z odległości co najmniej 150 m, jeżeli są oświetlone światłem drogowym innego pojazdu 1) kształt -trójkąt równoboczny zwrócony wierzchołkiem do góry,2) wewnątrz trójkąta może znajdować się powierzchnia świetlna odpowiadająca wymaganiom określonym w załączniku nr 5 do Regulaminunr 3 EKG ONZ 10 Odblaskowe przednie 2 1 lub 2 2 biała z przodu18) nie dalej niż 400 mm19) od bocznego obrysu pojazdu; wzajemna odległość nie może być mniejsza niż 600 mm28)7) 250–9002l) powinny być widoczne w nocy przy dobrej przejrzystości powietrza z odległości co najmniej 150 m, jeżeli są oświetlone światłem drogowym innego pojazdu 1) kształt – inny niż trójkąt,2) powierzchnia świetlna może mieć wspólne części z powierzchnią świetlną dowolnego światła umieszczonegoz przodu 11 Odblaskowe boczne 24) 1 lub 2 po każdej stronie 43) 24) żółta samochodowa; dopuszcza się barwę czerwoną w przypadku światłaumieszczonego z tyłu pojazdu we wspólnej obudowie z innym czerwonym światłem tylnym lub umieszczonym najbardziej z tyłu bocznym światłem pozycyjnym 27) na obu bokach pojazdu 250–9002l) powinny być widoczne w nocy przy dobrej przejrzystości powietrza z odległości co najmniej 150 m, jeżeli są oświetlone światłem drogowym innego pojazdu kształt – inny niż trójkąt 12 Awaryjne jak kierunkowskazy (1p, 3) obowiązkowy -świetlny migający barwy czerwonej; może działać równocześnie z kontrolnym sygnałem, o którym mowa w 1p, 3 kol. 13 sygnał powinien być podawany przez oddzielne urządzenie sterujące, umożliwiające miganie wszystkich kie runko wskazów umieszczonych na pojeździe, a jeżeli pojazd ciągnie przyczepę -równieżkierunkowskazów przyczepy powinny zapalać się i gasnąć z równomierną częstotliwością 90 ± 30 cykli na minutę i działać w jednej fazie powinno działać również, gdy urządzenie włączające silnik znajduje się w położeniuuniemożliwiającym jego pracę 13 Przeciwmgłowe tylne 1 lub 2 1 lub 2 143) lub 243) 1 lub 2 czerwona z tyłu jeżeli jest jedno światło, powinno być umieszczone po lewej stronie lub pośrodku pojazdu; jeżeli są dwa światła – po obu stronach pojazdu 250–100022)dla samochodów ciężarowych terenowych o mmc powyżej 12 t (kat. N3G) dopuszcza się największą wysokość 1200 mm nie bliżej niż 100 mm od światła hamowania „stop” obowiązkowy -świetlny niemi-gający barwy żółtej 1) może włączać się tylko wówczas, gdy włączone są światła drogowe, mijania lub przeciwmgłowe przednie,2) powinno dać się wyłączyć niezależnie od innych świateł światłość powinna być wyraźnie większa niż światłość świateł pozycyjnych tylnych 14 Cofania 1 lub 230) 143) lub 243) 1 lub 230) biała z tyłu 250–1200 dopuszcza się może włączać się tylko wówczas, gdy włączony jest wsteczny bieg, a urządzenie włączające silnik znajduje się w położeniu umożli-wiającymjego pracę 15 Obrysowe przednie i tylne 2 widoczne z przodu i 2 widoczne z tyłu36) 242) widoczne z przodu i 242) widoczne z tyłu 2 widoczne z przodu i 2 widoczne z tyłu36) biała – z przodu, czerwona -z tyłu36) możliwie najbliżej bocznego obrysu pojazdu, lecz nie dalej niż 400 mm od tego obrysu możliwie najwyżej, przy spełnieniu warunku rozmieszczenia na szerokości oraz symetrii świateł nie bliżej niż 200 mm od światła pozycyjnego przedniego lub tylnego dopuszcza się; jego funkcję powinien spełniać sygnał przewidziany dla świateł pozycyjnych światło widoczne z przodu i światło widoczne z tyłu, umieszczone po tej samej stronie pojazdu, mogą być połączone w jednym urządzeniu, pod warunkiem spełnienia pozostałych wymagań 16 Przeciwmgłowe przednie 2 1 lub 22) 243) biała lub żółta selektywna z przodu jak 1p, 1 nie dalej niż 400 mm od bocznego obrysu pojazdu nie niżej niż 250 mm i nie wyżej niż światło mijania; a dla samochodów osobowych (kat. M|) także nie wyżej niż 800 mm obowiązkowy niemigający sygnał barwy zielonej 1) powinno być włączane i wyłączane niezależnie od świateł drogowychi świateł mijania,2) włączenie świateł nie jest możliwe, jeśli nie są włączone światła pozycyjne nie może zmieniać ustawienia w zależności od kąta obrotu kierownicy (nie stosuje się tego do motocykli) 17 Postojowe 4 lub 2 dla trójkołowych 4 lub 2 443) lub 243) biała – z przodu, czerwona – z tyłu, żółtasamochodowa -jeżeli światło jest połączone z kierunków skazem bocznym lub bocznym światłem pozycyjnym 2 z przodu i 2 z tyłu albo po jednym na każdym boku pojazdu nie dalej niż 400 mm od bocznego obrysu pojazdu 350–15008)40) dopuszcza się barwy zielonej; jeśli jest -powinien wyraźnie różnić się od sygnału świateł pozycyjnych 1) powinno być możliwe włączenie świateł po jednej stronie pojazdu bez włączenia jakiegokolwiek innego światła,2) powinno działać również, gdy urządzenie włączające silnik znajduje się w położeniu uniemożliwiającym jego pracę funkcja tego światła może być również spełniana przez równoczesne włączenie świateł pozycyjnych przednich i tylnych po jednej stronie pojazdu 18 Światło do jazdy dziennej 2 1 lub 2 biała z przodu jak 1p. 1 wzajemna odległość nie może być mniejsza niż 600 mm7) 250–1500 dopuszcza się 1) powinny się automatycznie włączać, kiedy urządzenie włączające lub wyłączające silnik znajduje sięw położeniu umożliwiającym pracę silnika,48)2) mogą być włączone gdy:- automatyczna skrzynia biegów jest w pozycji P- hamulec postojowy jest uruchomiony – przed ruszeniem pojazdu po raz pierwszy po każdym ręcznym uruchomieniu urządzenia zapłonowego, 3) mogą być wyłączone ręcznie, gdy prędkość pojazdu nie przekracza 10 km/h, pod warunkiem automatycznego włączenia po przekroczeniu prędkości 10 km/h lub gdy pojazd przejechał odległość większą niż 100 m i światła pozostają włączone do czasu ich ponownego rozmyślnego wyłączenia, 4) powinny wyłączać się automatycznie, gdy urządzenie włączające lub wyłączające silnik znajduje się w położeniu uniemożliwiającym pracę silnika po włączeniu przednich świateł mijania, drogowych lub przeciwmgłowych, z wyjątkiem sytuacji, gdy światła te wykorzystywane są do wysyłania przerywanych sygnałów świetlnych w krótkich odstępach czasu, 5) jeżeli odległość od światła przedniego kierunku jazdy jest równa lub mniejsza od 40 mm, połączenie elektryczne na odpowiedniej stronie pojazdu powinno zapewniać albo wyłączenie światła do jazdy dziennej albo obniżenie światłości przez cały okres działania światła kierunku jazdy,6) jeżeli światło dojazdy dziennej jest wzajemnie połączone ze światłem kierunku jazdy, światło dojazdy dziennej powinno być wyłączone przez cały okres włączenia światła kierunku jazdy,7) dopuszcza się, aby wraz ze światłami do jazdy dziennej włączały się:- przednie i tylne światła pozycyjne, górne światła obrysowe -jeżeli występują, boczne światła obrysowe -jeżeli występują oraz oświetlenie tylnej tablicy rejestracyjnej,- lub tylko światła pozycyjne tylne. 19 Pozycyjne boczne jak 1p, 11 jak 1p, 11 jak 1p, 11 jak 1p, 11 350–150025) dopuszcza się; jego funkcję powinien spełniać sygnał przewidziany dla świateł pozycyj-nych przednich i tylnych 1) powinny być widoczne w nocy przy dobrej przejrzystości powietrza z odległości co najmniej 300 m,2) w samochodach osobowychi ciężarowych o mmc nieprzekraczającej 3,5 tony (kat. MI i NI) i długości mniejszej niż 6 m światła barwy żółtej samochodowej mogą migać w fazie z kierunkowskazami po tej samej stronie pojazdu 20 Robocze brakspecjalnychwymagań obowiązkowy powinno być włączane i wyłączane niezależnie od innych świateł 21 Oznakowanie odblaskowe: 21a konturowe pasy ciągłe lub nieciągłe pasy ciągłe lub nieciągłe biała lub żółta z boku pojazdu, żółta lub czerwona z tyłu pojazdu możliwie dobrze obejmujące długość możliwie dobrze obejmujące szerokość z tyłu dolna część 250–150025) Gdy nieciągłe, to przerwa nie większa niż 50% najkrótszego elementu pasa 1) materiał klasy C,2) minimalna szerokość pasa 50 mm,3) łączna pozioma długość elementów oznakowania na pojeździe powinna wynosić co najmniej 80% całkowitej szerokościz tyłu, co najmniej 80% długości z boku (w przyczepach -jest to długość bez dyszla) z wyłączeniem zachodzenia na siebie poszczególnych elementów45) 21b grafika wyłącznie wewnątrz oznakowania konturowego wyłącznie wewnątrz oznakowania konturowego wyłącznie wewnątrz oznakowania konturowego 1) grafika lub reklama ma być umiarkowana31),2) materiał do grafiki klasy D lub E45) 22 Narożne 2 biała z przodu (w odległości nie większej niż 1000 mm od przodu pojazdu) nie dalej niż 400 mm od bocznego obrysu pojazdu 250–900 mm, jednak nie wyżej, niż światła mijania 1) powinny być podłączone w taki sposób, aby mogły działać tylko przy jednoczesnym załączeniu świateł drogowych lub świateł mijania,2) mogą włączać się automatycznie z jednej strony pojazdu tylko przy jednoczesnym włączeniu światełkierunkowskazów po tej samej stronie pojazdu lub przy skręcie kierownicy z pozycji jazda na wprost w stronę odpowiadającą tej samej stronie pojazdu; muszą wyłączać się automatycznie po wyłączeniu kierunkowskazów lub gdy kierownica powróci do pozycji jazdy na wprost,3) jeżeli włączone jest światło cofania, oba światła narożne mogą być włączone jednocześnie, niezależnie od pozycji kierownicy lub kierunkowskazów; w tym przypadku są wyłączone, jeżeli wyłączone jest światło cofania nie mogą działać, gdy prędkość pojazdu przekracza 40 km/h * Jeżeli w wymaganiach określonych w tabeli stosuje się pojęcie „ciągnik”, to obejmują one wymagania dla ciągnika rolniczego i leśnego oraz pojazdu wolnobieżnego. 1) Światła pojedyncze motocykla powinny być umieszczone w podłużnej płaszczyźnie symetrii pojazdu, z wyjątkiem świateł drogowych i mijania umieszczonych obok siebie, które powinny być symetryczne względem tej płaszczyzny; światła występujące parami powinny być symetryczne względem podłużnej płaszczyzny symetrii pojazdu. 2) Jeżeli szerokość pojazdu przekracza 1,3 m – liczba świateł jak w kol. 3. 3) Przy czterech światłach drogowych wymaganie to powinna spełniać przynajmniej jedna para świateł. 4) Jeżeli szerokość pojazdu nie przekracza 1,3 m, odległość ta może być zmniejszona do 400 mm. 5) Stosuje się do motocykla jednośladowego niewyposażonego w kierunkowskazy boczne oraz motocykla trójkołowego z jednym kołem z tyłu. 6) Stosuje się do motocykla jednośladowego niewyposażonego w kierunkowskazy boczne oraz motocykla trójkołowego z jednym kołem z przodu. 7) Jeżeli szerokość pojazdu nie przekracza 1,3 m (1,4 m dla światła hamowania „stop” i pozycyjnego tylnego ciągnika), odległość ta może być zmniejszona do 400 mm (dla ciągnika min. 500 mm). 8) Dla motocykla – 1200 mm. 9) Dopuszcza się odległość mniejszą niż 40 mm, ale większą niż 20 mm dla kierunkowskazów o światłości w osi odniesienia większej od 250 cd oraz mniejszą lub równą 20 mm dla kierunkowskazów o światłości w osi odniesienia większej od 400 cd. 10) Dla ciągników wyposażonych z przodu w urządzenia przenośne dopuszcza się dwa dodatkowe światła mijania na wysokości nieprze-kraczającej 3000 mm, pod warunkiem że połączenia elektryczne uniemożliwiają świecenie obu par świateł mijania jednocześnie i są wzajemnie połączone z dodatkowymi światłami pozycyjnymi. 11) Jeśli kierunkowskazy boczne mają wspólne źródło światła z kierunkowskazami przednimi, to dla zapewnienia dobrej widoczności mogą być zamocowane dwa dodatkowe kierunkowskazy boczne. 12) Jeżeli motocykl nie jest wyposażony w kierunkowskazy przednie i tylne. 13) Dla samochodów osobowych, ciężarowych i specjalnych o mmc poniżej 3,5 t (kat. M1i NI) oraz dla pozostałych pojazdów, jeśli ich konstrukcja nie zapewni dobrej widoczności kierunkowskazów przy odległości 1800 mm, może być ona zwiększona do 2500 mm (2600 mm w odniesieniu do ciągników). 14) Dla ciągników wyposażonych z przodu w urządzenia przenośne, które mogą zasłaniać obowiązkowe przednie światła pozycyjne, dopuszcza się dwa dodatkowe światła pozycyjne przednie na wysokości nieprzekraczającej 2300 mm. 15) Dla motocykla – 1200 mm, a dla ciągnika – 1900 mm; jeżeli konstrukcja pojazdu (z wyjątkiem motocykla) nie pozwala na zachowanie wymaganej wysokości, dopuszcza się 2300 mm. 16) Dla motocykla – 560 mm, a dla ciągnika – 500 mm. 17) Co najmniej 2, jednak nie więcej niż 4 dla pojazdu zarejestrowanego po raz pierwszy przed dniem 30 czerwca 2003 r. 18) Dla motocykla z jednym kołem z przodu dopuszcza się umieszczenie świateł w innym miejscu, przy zapewnieniu wymaganej widoczności. 19) Dla przyczepy – 150 mm. 20) Dla motocykla z jednym kołem z tyłu dopuszcza się umieszczenie świateł w innym miejscu, przy zapewnieniu wymaganej widoczności. 21) Jeżeli konstrukcja pojazdu (z wyjątkiem motocykla) nie pozwala na zachowanie tej wysokości, dopuszcza się 1500 mm (dla ciągnika 1200 mm). 22) Dla motocykla – 900 mm. 23) Pod warunkiem, że jest ono połączone w jednym urządzeniu z innym tylnym światłem sygnalizacyjnym. 24) Liczba świateł powinna zapewniać spełnienie wymagań dotyczących rozmieszczenia na długości pojazdu. 25) Jeżeli konstrukcja pojazdu nie pozwala na zachowanie tej wysokości, dopuszcza się 2100 mm. 26) Stosuje się do pojazdu zarejestrowanego po raz pierwszy po dniu 30 czerwca 1976 r. oraz motocykla wyposażonego w światła mijania z żarowymi źródłami światła oraz modułami LED. W motocyklach dopuszcza się stosowanie symetrycznych świateł mijania z żarowymi źródłami światła oraz modułami LED. Dodatkowo, w motocyklach o pojemności skokowej silnika > 125cm3, mogą być zastosowane światła symetryczne wyposażone w wyładowcze źródła światła. 27) Przynajmniej jedno światło z każdej strony powinno być umieszczone w środkowej jednej trzeciej długości pojazdu (długość przyczepy mierzy się razem z dyszlem); światło wysunięte najbardziej do przodu powinno być umieszczone nie dalej niż 3 m od przedniego obrysu pojazdu, a umieszczone najbardziej z tyłu nie dalej niż 1 m (3 m dla ciągnika) od tylnego obrysu pojazdu; wzajemna odległość dwóch sąsiednich świateł umieszczonych na tym samym boku pojazdu, z wyjątkiem samochodów osobowych, ciężarowych i specjalnych o mmc poniżej 3,5 tony (kat. M1 i N1), nie może przekraczać 3 m (dopuszcza się 4 m, jeśli konstrukcja pojazdu nie pozwala na zachowanie tej odległości), a dla ciągnika 6 m; dla motocykli światło lub światła powinny być umieszczone w taki sposób, aby w normalnych warunkach nie mogły być zasłonięte odzieżą kierowcy lub pasażera. 28) Dla samochodów osobowych (kat. M1), ciężarowych i specjalnych (kat. N1) brak wymagań odnośnie do wzajemnej odległości tych świateł. 29) Jeśli środkowa wzdłużna płaszczyzna pojazdu rozdziela ruchome części składowe pojazdu, dopuszcza się dwa światła kategorii S3 lub S4 typu D, umieszczone po obu stronach, możliwie najbliżej tej płaszczyzny, lub jedno światło S3 lub S4 przesunięte w lewo lub prawo tak, aby odległość środka światła od tej płaszczyzny nie przekraczała 150 mm. 30) Dwa światła obowiązkowe i dwa dodatkowe we wszystkich pojazdach o długości przekraczającej 6 m, z wyjątkiem pojazdów kategorii Ml. Dodatkowo dopuszcza się 1 lub 2 światła przeciwmgłowe przednie umieszczone z tyłu pojazdu dla pojazdów ciężarowych i specjalnych o mmc powyżej 3,5 t, dla autobusów i dla przyczep o mmc powyżej 750 kg (kat. N2, N3, M2, M3, O2, O3 i O4), skierowane do tyłu, tak aby nie powodowały olśnienia innych użytkowników drogi. 31) Warunek umiarkowania jest spełniony, jeżeli zastosowano do nich materiały odblaskowe klasy D lub E według Regulaminu nr 104 EKG ONZ oraz: liczba znaków nie przekracza 15, wysokość liter lub znaków zawiera się między 300 mm a 1000 mm, a łączna powierzchnia odblaskowa materiału klasy D nie przekracza 2 m2. 32) Dopuszcza się dwa dodatkowe kierunkowskazy tylne na samochodach ciężarowych i specjalnych o mmc powyżej 3,5 t, autobusach oraz na przyczepach o mmc powyżej 750 kg (kat. N2, N3, M2, M3, O2, O3 i O4). 33) Jeśli nie ma zainstalowanych świateł kat. S3, dopuszcza się dwa dodatkowe światła „stop” kat. S1 lub S2 na samochodach ciężarowych i specjalnych o mmc powyżej 3,5 t, autobusach oraz na przyczepach o mmc powyżej 750 kg (kat. N2, N3, M2, M3, O2, O3 i O4). 34) Jeśli nie ma zainstalowanych świateł obrysowych tylnych, dopuszcza się dwa dodatkowe światła pozycyjne tylne na samochodach ciężarowych i specjalnych o mmc powyżej 3,5 t, autobusach oraz na przyczepach o mmc powyżej 750 kg (kat. N2, N3, M2, M3, O2, O3 i O4). 35) Światła dodatkowe, jeśli występują, powinny być umieszczone na możliwie największej wysokości pozwalającej na spełnienie wymagań dotyczących rozmieszczenia na szerokości pojazdu i symetrii świateł oraz nie niżej niż 600 mm ponad światłami obowiązkowymi. 36) Światła obrysowe nie są wymagane dla pojazdów N1 zabudowanych miękką zabudową. Dopuszcza się obecność dodatkowej pary świateł obrysowych tylnych i przednich, wystających poza obrys pojazdu, umieszczonych z tyłu pojazdu, jeśli obowiązkowe światła obrysowe nie wystają poza obrys pojazdu. 37) Warunek można uznać za spełniony dla świateł z halogenowym lub wyładowczym (ksenonowym) źródłem światła, jeżeli natężenie oświetlenia każdego światła w punktach 50 R i 75 R, dla świateł asymetrycznych, spełnia wymagania pkt 6.2.5 dla klasy B Regulaminu nr 112 EKG ONZ podczas pracy silnika przy średniej prędkości obrotowej. 38) Dopuszcza się dodatkową parę świateł umieszczonych na wysokości nie większej niż 4000 mm. 39) Tylko dla ciągników o długości poniżej 4,6 m i odległości pomiędzy zewnętrznymi krawędziami powierzchni świetlnych poniżej 1,6 m. 40) Dla ciągników 400–1900 mm; jeżeli konstrukcja pojazdu nie pozwala na zachowanie wymaganej wysokości, dopuszcza się 2300 mm (dla świateł postojowych – 2100 mm). 41) Dla ciągników dopuszcza się 4 światła, w tym: 2 światła umieszczone na wysokości poniżej 900 mm i o minimalnej odległości pomiędzy nimi 400 mm oraz 2 światła umieszczone na wysokości maksymalnie 2300 mm i o minimalnej odległości pomiędzy nimi 600 mm (dopuszcza się 400 mm dla ciągników o szerokości poniżej 1,3 m). 42) Dopuszczalne tylko dla ciągników o szerokości powyżej 2,1 m. 43) Nieobowiązkowe, wymagania jak dla pojazdów samochodowych. 44) Obowiązkowe dla przyczep o szerokości 1,6 m i więcej. 45) Stosuje się do pojazdów zarejestrowanych po raz pierwszy po dniu 31 marca 2011 r. 46) Jeżeli ze względów konstrukcyjnych pojazdu nie jest możliwe osiągnięcie wartości 80%, to łączna długość może być zmniejszona do 60%; stosuje się do pojazdów zarejestrowanych po raz pierwszy przed dniem 10 października 2011 r. 47) Jeżeli przednie światła pozycyjne motocykla są barwy żółtej samochodowej, to wymagane są dwa takie światła umieszczone symetrycznie po jednym z każdej strony pojazdu. 48) Dla pojazdów zarejestrowanych po raz pierwszy do dnia 31 grudnia 2009 r. dopuszcza się stosowanie przełącznika aktywującego lub dezaktywującego tę funkcję.
+
+## Załącznik nr 3 — – Wymiary wyjść, przejść, siedzeń, stopni dla pasażerów oraz odstępów między siedzeniami w autobusach
+
+1)
+Klasy autobusów
+Dla autobusów kategorii M2 i M3 mających nie więcej niż 22 miejsca oprócz siedzenia kierowcy, występują dwie klasy pojazdów:
+– aaa„klasa A”: pojazdy przeznaczone do przewozu pasażerów stojących; pojazd tej klasy ma siedzenia i powinien mieć przestrzeń dla pasażerów stojących,
+– aaa„klasa B”: pojazdy nieprzeznaczone do przewozu pasażerów stojących; pojazd tej klasy nie ma przestrzeni dla pasażerów stojących.
+Dla autobusów kategorii M2 i M3 mających więcej niż 22 miejsca oprócz siedzenia kierowcy występują trzy klasy pojazdów:
+– aaa„klasa I”: pojazdy, w konstrukcji których przewidziano przestrzeń dla pasażerów stojących, umożliwiającą częste przemieszczanie się pasażerów,
+– aaa„klasa II”: pojazdy przeznaczone zasadniczo do przewozu pasażerów siedzących, o konstrukcji umożliwiającej przewóz pasażerów stojących w przejściach i/lub na powierzchni dla pasażerów stojących, nieprzekraczającej powierzchni zajmowanej przez dwa podwójne siedzenia,
+– aaa„klasa III”: pojazdy przeznaczone wyłącznie do przewozu pasażerów siedzących.
+2)
+Minimalne wymiary wyjść.
+Poszczególne rodzaje wyjść mają następujące wymiary minimalne: Klasa autobusu Klasa I Klasa II i III, A Klasa B Uwagi Drzwi główne Otwór drzwi Wysokość (mm) 1800 1650 1500 Poniżej 22 miejsc: 1100 Szerokość (mm) Drzwi pojedyncze: 650 Drzwi podwójne: 1200 Wymiar ten można zmniejszyć o 100 mm, gdy pomiar jest wykonywany na wysokości uchwytów Drzwi awaryjne Wysokość (mm) 1250 Poniżej 22 miejsc: 1100 Szerokość (mm) 550 Poniżej 22 miejsc: 300 przy nadkolach Okno awaryjne Powierzchnia (mm2) 400000 Możliwe jest wpisanie w tę powierzchnię prostokąta o wymiarach 500x700 mm Okno awaryjne umieszczone na tylnej ścianie pojazdu. Jeżeli producent nie zapewnia okna awaryjnego o minimalnych rozmiarach wymienionych wyżej Możliwe jest wpisanie w powierzchnię otworu okna awaryjnego, prostokąta o wysokości 350 mm i o szerokości 1550 mm. Naroża prostokąta mogą być zaokrąglone, przy czym promień zaokrąglenia nieprzekraczający 250 mm Luk ratunkowy Otwór luku Powierzchnia (mm2) 400000 Możliwe jest wpisanie w tę powierzchnię prostokąta o wymiarach 500x700 mm Uwaga: Wymiary drzwi głównych i drzwi awaryjnych nie mają zastosowania do pojazdu klasy B z masą całkowitą nieprzekraczającą 3,5 tony i mieszczącego do 12 siedzeń dla pasażerów, z których każdy ma swobodny dostęp do co najmniej dwojga drzwi.
+3)
+Przejścia.
+Przejścia oznaczające przestrzeń zapewniającą pasażerom dostęp od każdego siedzenia lub rzędu siedzeń, do każdego innego siedzenia lub rzędu siedzeń albo do każdego dojścia do lub od każdych drzwi głównych lub schodów wewnętrznych oraz każdej powierzchni przeznaczonej dla pasażerów stojących powinny spełniać następujące wymagania: Wysokość przejścia (mm) Klasa I Klasa II Klasa III Klasa A Klasa B 1900* 1900* 1900* 1900* 1500 Szerokość przejścia (mm) 450 350 300 350 300 * Wysokość przejścia może być obniżona o 100 mm w dowolnej części przejścia w kierunku tyłu poprzecznej płaszczyzny pionowej przebiegającej 1,5 m przed osią symetrii tylnej osi pojazdu oraz poprzecznej płaszczyzny pionowej przebiegającej przez tylną krawędź drzwi głównych lub najdalszych tylnych drzwi głównych, jeżeli jest więcej niż jedna para drzwi głównych.
+4)
+Stopnie dla pasażerów.
+Wysokość od powierzchni ziemi, pojazd bez obciążenia. Klasy I i A II, III i B Pierwszy stopień od ziemi Maks. wysokość (mm) 3401) 380 1)2)5) Min. głębokość (mm) 3006) Pozostałe stopnie Maks. wysokość (mm) 2503) 3504) Min. wysokość (mm) 120 Min. głębokość (mm) 200 1) 700 mm w przypadku drzwi awaryjnych. 1500 mm w przypadku drzwi awaryjnych na górnym pokładzie pojazdu dwupokładowego. 2) 430 mm w przypadku pojazdu wyłącznie z zawieszeniem mechanicznym. 3) 300 mm w przypadku stopni w drzwiach za ostatnią osią. 4) 250 mm w przejściach w przypadku pojazdów mających nie więcej niż 22 miejsca. 5) W odniesieniu do co najmniej jednych drzwi głównych; 400 mm dla pozostałych drzwi głównych. 6) 230 mm dla pojazdów mających nie więcej niż 22 miejsca.
+5)
+Minimalna szerokość siedzenia.
+Minimalna szerokość poduszki siedzenia powinna wynosić: Klasa I, II, A, B 400 mm Klasa III 450 mm>* * 400 mm dla autobusu o szerokości do 2,35 m
+6)
+Minimalna głębokość poduszki siedzenia powinna wynosić: Klasa I, A i B 350 mm Klasa II i klasa III 400 mm
+7)
+Odstępy między siedzeniami.
+W przypadku siedzeń zwróconych w tym samym kierunku, odległość między przednią powierzchnią oparcia siedzenia a tylną powierzchnią oparcia znajdującego się przed nim, mierzona w kierunku poziomym na wszystkich wysokościach ponad podłogą między górną płaszczyzną poduszki siedzenia a punktem położonym na wysokości 620 mm ponad podłogą, nie powinna być mniejsza niż: Klasa I, A i B 650 mm Klasa II i III 680 mm W przypadku siedzeń zwróconych w przeciwnych kierunkach odległość między przednimi powierzchniami oparć siedzeń, zwróconych ku sobie, mierzona w kierunku poziomym na wysokości górnych płaszczyzn poduszek siedzeń, nie powinna być mniejsza niż 1300 mm.
+
+## Załącznik nr 4 — – Warunki szczegółowe dotyczące wyposażenia pojazdów samochodowych w lusterka
+
+§ 1.
+Zależnie od kategorii pojazdu określonej w załączniku nr 2 do ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz 1137, z późn. zm.), pojazdy powinny być wyposażone w lusterka lub równoważne im inne urządzenia do widoczności pośredniej umożliwiające obserwacje odpowiednich obszarów wokół pojazdu. Liczbę, klasę oraz umieszczenie lusterek na pojeździe określono w § 2. Objaśnienia, wymagania i ograniczenia znajdują się w Regulaminie nr 46 EKG ONZ.
+§ 2.
+Liczba, klasa oraz rozmieszczenie lusterek na pojeździe. Nr wiersza Kategoria pojazdu* Lusterko wewnętrzne Lusterka zewnętrzne Obecność, liczba i umieszczenie 1 Klasa I*** Główne Klasa II Główne Klasa III Szerokokątne Klasa IV Bliskiego widzenia Klasa V**** Przednie Klasa VI**** 2 Ml Obowiązkowe(z wyjątkami)** Dopuszczalne Obowiązkowe1 po stronie kierowcy1 po stronie pasażera Obowiązkowe dla autobusu szkolnego 1 po stronie pasażeraDopuszczalne 1 po stronie kierowcy 1 po stronie pasażera (z ograniczeniami)** Obowiązkowe dla autobusu szkolnego 1 po stronie pasażeraDopuszczalne 1 po stronie kierowcy 1 po stronie pasażera (z ograniczeniami)** Obowiązkowe dla autobusu szkolnego 2 po stronie kierowcy 2 po stronie pasażeraDopuszczalne (z ograniczeniami)** 3 M2 Dopuszczalne Obowiązkowe1 po stronie kierowcy1 po stronie rasażera Niedozwolone 4 M3 5 N1 Obowiązkowe(z wyjątkami)** Dopuszczalne Obowiązkowe1 po stronie kierowcy1 po stronie pasażera 6 N2 ≤ 7,5t Dopuszczalne Obowiązkowe1 po stronie kierowcy1 po stronie pasażera Niedozwolone ObowiązkowePo obu stronach pojazdu, jeśli można wstawić lusterko klasy V Obowiązkowe1 po stronie pasażeraDopuszczalne1 po stroniekierowcy(oba lusterka musząbyć zamontowanew odległości conajmniej 2 m odpodłoża) Dopuszczalne1 przednie lustro(z ograniczeniami)** 7 N2 > 7,5 t Obowiązkowe1 po stroniekierowcy1 po stronie pasażera Obowiązkowe1 po stronie pasażeraDopuszczalne 1 po stronie kierowcy (z ograniczeniami)** Obowiązkowe1 przednie lustro (z wyjątkami i ograniczeniami)** 8 N3 * Kategorie pojazdów są określone w załączniku nr 2 do ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.) ** o których mowa w Regulaminie nr 46 EKG ONZ Jednolite wymagania dotyczące homologacji urządzeń widzenia pośredniego oraz homologacji pojazdów silnikowych w odniesieniu do instalacji tych urządzeń (Dz. Urz. UE L 177 z 10.07.2010). *** Klasy lusterek określa Regulamin nr 46 EKG ONZ. **** Lusterko/a należy zamontować w odległości co najmniej 2 m od podłoża.
+
+## Załącznik nr 5 — – Warunki techniczne dotyczące przegrody oraz elementów do mocowania ładunków
+
+§ 1.
+Przegroda
+1.
+1.1.
+Przegroda w pojazdach o nadwoziu zamkniętym powinna w pełni oddzielać kabinę kierowcy i pomieszczenie przeznaczone do przewozu osób od przestrzeni ładunkowej z uwzględnieniem wysokości i szerokości wewnętrznej pojazdu. W przypadku, gdy pojazd nie posiada innych miejsc siedzących niż miejsce kierowcy, przegroda może dotyczyć tylko miejsca kierowcy na wypadek przemieszczenia się ładunku.
+1.2.
+Odległość od przegrody do ścian wewnętrznych bocznych oraz sufitu pojazdu nie powinna przekraczać 40 mm; dopuszcza się odległość większą niż 40 mm, w przypadku gdy na ścianach bocznych lub suficie występują nierówności albo w celu zapewnienia właściwego działania poduszek powietrznych.
+1.3.
+Przegroda poddana statycznemu obciążeniu, siłą odpowiadającą 50% maksymalnej ładowności pojazdu na płaskiej powierzchni czołowej o wymiarach 1000 x 1000 mm oraz siłą odpowiadającą 30% maksymalnej ładowności pojazdu, jednak nie większą niż 10 kN na płaskiej powierzchni o wymiarach 50 x 50 mm, nie powinna ulec trwałym odkształceniom większym niż 300 mm. Po deformacji nie powinna posiadać ostrych krawędzi lub innych mogących doprowadzić bezpośrednio do zranienia osób przebywających wewnątrz pojazdu.
+1.4.
+W przypadku gdy część przegrody wykonana jest z metalowej siatki to powierzchnia czołowa o wymiarach 50 x 50 mm, poruszająca się równoległe do podłużnej osi pojazdu, nie powinna przejść przez oczka siatki w żadnym możliwym położeniu.
+1.5.
+Dla celów badań wytrzymałościowych dopuszcza się badanie przegrody oraz elementów mocujących ładunek, poza pojazdem, z wykorzystaniem ramy (konstrukcji zastępczej) pod warunkiem, że ich system mocowań jest identyczny z rzeczywistym.
+§ 2.
+Wytrzymałość elementów do mocowania ładunku.
+1.
+Obciążenia elementów do mocowania ładunku. Tabela 1. Wartość obciążeń FN[kN] Maksymalna masa całkowita pojazdumMMC [t] FN= 1/4mp x gale 3,5<FN≤8 5,0<mMMC≤7,5 FN= 1/3 mpx gale 3,5 <FN ≤ 5 2,5<mMMC≤5 FN= 1/2 mp x gale 3 <FN ≤ 4 mMMC≤2,5 Gdzie: mp – maksymalna ładowność pojazdug – przyspieszenie ziemskie (9,81 m/s2)
+2.
+Określenie liczby elementów do mocowania ładunku.
+2.1.
+Pojazdy o przestrzeni ładunkowej o długości do 1300 mm powinny posiadać co najmniej dwie pary elementów do mocowania ładunku (dwa elementy na każdą stronę).
+2.2.
+Minimalna liczba par elementów do mocowania ładunku N powinna bazować na długości przestrzeni ładunkowej L (w mm) i oblicza się według wzoru: \( N = {{L – (2 \times 250)} \over {800}} + 1 \)
+3.
+Określenie rozmieszczenia elementów do mocowania ładunku.
+3.1.
+Elementy do mocowania ładunku powinny być umieszczone na podłodze lub na ścianach bocznych, możliwie jak najbliżej podłogi, ale nie wyżej niż 150 mm nad podłogą przestrzeni ładunkowej. Elementy do mocowania ładunku powinny być umieszczone parami, naprzeciwko siebie i rozmieszczone możliwie równomiernie wzdłuż przestrzeni ładunkowej.
+3.2.
+Odległość między parami elementów do mocowania ładunku Ls, wzdłuż przestrzeni ładunkowej, powinna wynosić Ls ≤ 700 mm; w przypadku gdy mocowanie tylnego zawieszenia pojazdu uniemożliwia spełnienie tego wymagania, dopuszcza się Ls ≤ 1200 mm.
+3.3.
+Odległość użytkowej przestrzeni ładunkowej od przedniej i tylnej granicy przestrzeni ładunkowej nie powinna być większa niż 250 mm.
+3.4.
+Odległość użytkowej przestrzeni ładunkowej od bocznej granicy przestrzeni ładunkowej nie powinna być większa niż 150 mm. patrz oryginał Rys 1. Rozmieszczenie elementów do mocowania ładunku.
+4.
+Konstrukcja elementów do mocowania ładunku.
+Tabela 2. Rozmiar elementów do mocowania ładunku.
+Średnica sprawdzianu d1 [mm] Maksymalna Masa Całkowita pojazdumMMC [t] 35 5,0 < mMMC ≤ 7,5 25 2,5 < mMMC ≤ 5 20 mMMC ≤ 2,5 patrz oryginał Rys 2. Kształt elementów do mocowania ładunku.
+5.
+Tabliczka informacyjna. Wewnątrz przestrzeni ładunkowej powinna być umieszczona tabliczka o minimalnych wymiarach 100 x 130 mm zawierająca napisy wykonane czcionką w kolorze białym na niebieskim tle oraz białą ramkę, na której powinny być zawarte informacje o maksymalnym obciążeniu każdego z punktów mocowania ładunku (w kN).
+

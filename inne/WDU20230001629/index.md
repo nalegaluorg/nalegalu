@@ -8,10 +8,10 @@ pos: 1629
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 sierpnia 2023 r.
+# Obwieszczenie Ministra Zdrowiaz dnia 17 lipca 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie kursu reedukacyjnego w zakresie problematyki przeciwalkoholowej i przeciwdziałania narkomanii oraz szczegółowych warunków i trybu kierowania na badania lekarskie lub badania psychologiczne w zakresie psychologii transportu
 
 | Pole | Wartość |
 |---|---|
@@ -25,57 +25,88 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001629) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1629/text.pdf) |
 
-11662299 SZCZEGÓŁOWY PROGRAM KURSU REEDUKACYJNEGO W ZAKRESIE PROBLEMATYKI PRZECIWALKOHOLOWEJ I PRZECIWDZIAŁANIA NARKOMANII Kurs reedukacyjny w zakresie problematyki przeciwalkoholowej i przeciwdziałania narkomanii, o którym mowa w art. 98a ust. 1 pkt 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2023 r. poz. 622, z późn. zm.), zwany dalej „kursem reedukacyjnym”, jest prowadzony przez dwa dni, przez osiem godzin każdego dnia, w formie wykładów, w grupach liczących nie więcej niż 15 uczestników.
-Wykłady pierwszy dzień
-1. Wykład w zakresie podstawowych informacji dotyczących prowadzenia pojazdu po użyciu alkoholu lub środka działającego podobnie do alkoholu obejmuje:
-1) wpływ alkoholu lub środka działającego podobnie do alkoholu na sprawność prowadzenia pojazdów;
-2) mity, stereotypy i formy racjonalizacji, dotyczące prowadzenia pojazdu po użyciu alkoholu lub środka działającego podobnie do alkoholu;
-3) statystyki dotyczące zjawiska nietrzeźwości na drogach (liczba wypadków, liczba rannych i zabitych);
-4) omówienie regulacji prawnych dotyczących prowadzenia pojazdu w stanie nietrzeźwości, w stanie po użyciu alkoholu lub środka działającego podobnie do alkoholu.
-2. Wykład poświęcony omówieniu powodów, dla których ludzie decydują się na prowadzenie pojazdu po użyciu alkoholu lub środka działającego podobnie do alkoholu.
-3. Wykład dotyczący problemów związanych z używaniem alkoholu, środków działających podobnie do alkoholu, na którym są omawiane:
-1) zjawiska związane z nadużywaniem napojów alkoholowych: picie ryzykowne, picie szkodliwe, uzależnienie, wraz z ich wyznacznikami;
-2) zjawiska związane z używaniem środków działających podobnie do alkoholu: używanie substancji ryzykownych, używanie substancji szkodliwe, uzależnienie wraz z ich wyznacznikami;
-3) funkcjonowanie osoby uzależnionej zmiany w sferze poznawczej, emocjonalnej i behawioralnej.
-podobnie do alkoholu, poziomu samokontroli i tendencji do zachowań ryzykownych oraz ulegania wpływom zewnętrznym:
-1) test AUDIT test do autodiagnozy stylu picia alkoholu;
-2) test PUM test problemowego używania marihuany;
-3) test PUN test problemowego używania narkotyków;
-4) omówienie pojęcia samokontroli, w tym kontrolowania emocji i zachowań oraz podejmowania zachowań ryzykownych;
-5) test Behavior Assessment Scales-2 TM test autodiagnozy preferencji do podejmowania ryzyka.
-Wykłady drugi dzień
-1. Wykład dotyczący odpowiedzialności obejmujący:
-1) pojęcie odpowiedzialności;
-2) przedstawienie oczekiwań ludzi od odpowiedzialnego kierowcy i kierującego tramwajem;
-3) wskazanie, w jaki sposób najczęściej oceniamy swoje umiejętności oraz sprawność w roli kierowcy lub kierującego tramwajem.
-2. Wykład dotyczący sposobów przeciwdziałania problemowi prowadzenia pojazdu po użyciu alkoholu lub środka działającego podobnie do alkoholu obejmujący:
-1) sposoby odmawiania, odmawianie asertywne;
-2) możliwości i sposoby organizowania bezpiecznego powrotu z „imprezy, na której jest alkohol”;
-3) działania na rzecz zmniejszenia zjawiska nietrzeźwości kierowców; wskazanie tego, co każdy z nas może zrobić, aby zmniejszyć zjawisko nietrzeźwości kierowców.
-WZÓR Zaświadczenie o ukończeniu kursu reedukacyjnego w zakresie problematyki przeciwalkoholowej i przeciwdziałania narkomanii ...............................
-....................................................
-(nadruk, naklejka lub pieczątka obejmujące nazwę, adres, NIP i REGON wojewódzkiego ośrodka ruchu drogowego) Zaświadczenie nr ..... / .....
-Na podstawie art. 100 ust. 5 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2023 r. poz. 622, z późn. zm.) zaświadcza się, że Pan/Pani : ................................................................................................................................
-(imię i nazwisko) ................................................................................................................................
-(data, miejsce urodzenia i numer PESEL ) w terminie ............................................................................... ukończył(a) kurs reedukacyjny w zakresie problematyki przeciwalkoholowej i przeciwdziałania narkomanii, o którym mowa w art. 98a ust. 1 pkt 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami.
-……………………………………… ..................................................
-(imię, nazwisko i numer wykładowcy, (nadruk, naklejka lub pieczątka jeśli go posiada) obejmujące imię i nazwisko dyrektora wojewódzkiego ośrodka ruchu drogowego, wskazanie pełnionej funkcji oraz podpis) Wpisać kolejny numer zaświadczenia łamany przez rok jego wydania, np.: 1/2021.
-Niepotrzebne skreślić.
-W przypadku osoby nieposiadającej numeru PESEL należy podać serię, numer i nazwę dokumentu potwierdzającego tożsamość.
-WZÓR Decyzja nr ......
-o skierowaniu na badanie lekarskie przeprowadzane w celu ustalenia istnienia lub braku przeciwwskazań zdrowotnych do kierowania pojazdami ....................................................................
-(oznaczenie organu kierującego na badanie) …………………….
-(miejscowość, data) Działając na podstawie art. 99 ust. 1 pkt 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2023 r. poz. 622, z późn. zm.), kieruję na badanie lekarskie przeprowadzane w celu ustalenia istnienia lub braku przeciwwskazań zdrowotnych do kierowania pojazdami: Pana/Panią ...................................................................................................................................................
-(imię i nazwisko) numer PESEL* ....................................................................................................................................................
-posiadającego(-cą): uprawnienia do kierowania pojazdami w zakresie prawa jazdy kategorii AM, A1, A2, A, B1, B, B+E i T** , uprawnienia do kierowania pojazdami w zakresie prawa jazdy kategorii C1, C1+E, C, C+E, D1, D1+E, D i D+E** , uprawnienia do kierowania tramwajem** .
-UZASADNIENIE Decyzja o skierowaniu na badanie lekarskie przeprowadzane w celu ustalenia istnienia lub braku przeciwwskazań zdrowotnych do kierowania pojazdami została wydana, ponieważ:
-1) na podstawie informacji i ustaleń stanu faktycznego uzyskanych w ramach wykonywania zadań własnych istnieją uzasadnione zastrzeżenia co do stanu zdrowia kierowcy albo kierującego tramwajem** ;
-2) uzyskano od administratora centralnej ewidencji kierowców informację potwierdzającą, że kierowca albo kierujący tramwajem kierował pojazdem w stanie nietrzeźwości, w stanie po użyciu alkoholu lub środka działającego podobnie do alkoholu** ;
-3) otrzymano zawiadomienie właściwego organu orzekającego o niepełnosprawności lub niezdolności do pracy dotyczące istnienia uzasadnionych zastrzeżeń co do stanu zdrowia kierowcy albo kierującego tramwajem** .
-(imię, nazwisko i podpis osoby uprawnionej do wydania decyzji, z podaniem stanowiska służbowego) ________________ * W przypadku osoby nieposiadającej numeru PESEL należy podać serię, numer i nazwę dokumentu potwierdzającego tożsamość.
-** Niepotrzebne skreślić.
-POUCZENIE Od niniejszej decyzji służy stronie odwołanie do Samorządowego Kolegium Odwoławczego w ..........................................., za pośrednictwem organu kierującego na badanie, w terminie 14 dni od dnia jej doręczenia.
-Na badanie lekarskie przeprowadzane w celu ustalenia istnienia lub braku przeciwwskazań zdrowotnych do kierowania pojazdami należy zgłosić się w terminie miesiąca od dnia doręczenia decyzji o skierowaniu.
-Orzeczenie lekarskie należy przedstawić organowi kierującemu na badanie w terminie 3 miesięcy od dnia doręczenia decyzji o skierowaniu.
-Opłatę ewidencyjną należy uiścić najpóźniej w dniu dostarczenia organowi kierującemu na badanie orzeczenia lekarskiego.
+Treść obwieszczenia
+Załącznik – Rozporządzenie Ministra Zdrowia z dnia 3 grudnia 2021 r. w sprawie kursu reedukacyjnego w zakresie problematyki przeciwalkoholowej i przeciwdziałania narkomanii oraz szczegółowych warunków i trybu kierowania na badania lekarskie lub badania psychologiczne w zakresie psychologii transportu
+
+## Załącznik nr 1 — – Szczegółowy program kursu reedukacyjnego w zakresie problematyki przeciwalkoholowej i przeciwdziałania narkomanii
+
+## Załącznik nr 2 — – Zaświadczenie o ukończeniu kursu reedukacyjnego w zakresie problematyki przeciwalkoholowej i przeciwdziałania narkomanii (wzór)
+
+## Załącznik nr 3 — – Decyzja o skierowaniu na badanie lekarskie przeprowadzane w celu ustalenia istnienia lub braku przeciwwskazań zdrowotnych do kierowania pojazdami (wzór)
+
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 3 grudnia 2021 r. w sprawie kursu reedukacyjnego w zakresie problematyki przeciwalkoholowej i przeciwdziałania narkomanii oraz szczegółowych warunków i trybu kierowania na badania lekarskie lub badania psychologiczne w zakresie psychologii transportu (Dz. U. poz. 2242), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Zdrowia z dnia 6 lipca 2022 r. zmieniającym rozporządzenie w sprawie kursu reedukacyjnego w zakresie problematyki przeciwalkoholowej i przeciwdziałania narkomanii oraz szczegółowych warunków i trybu kierowania na badania lekarskie lub badania psychologiczne w zakresie psychologii transportu (Dz. U. poz. 1505).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 6 lipca 2022 r. zmieniającego rozporządzenie w sprawie kursu reedukacyjnego w zakresie problematyki przeciwalkoholowej i przeciwdziałania narkomanii oraz szczegółowych warunków i trybu kierowania na badania lekarskie lub badania psychologiczne w zakresie psychologii transportu (Dz. U. poz. 1505), które stanowią:
+„
+§ 2.
+Za kurs reedukacyjny w zakresie problematyki przeciwalkoholowej i przeciwdziałania narkomanii, o którym mowa w art. 98a ust. 1 pkt 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, rozpoczęty i niezakończony przed dniem wejścia w życie niniejszego rozporządzenia, pobiera się opłatę w wysokości ustalonej na podstawie przepisów dotychczasowych.
+§ 3.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+” .
+Załącznik – Rozporządzenie Ministra Zdrowia z dnia 3 grudnia 2021 r. w sprawie kursu reedukacyjnego w zakresie problematyki przeciwalkoholowej i przeciwdziałania narkomanii oraz szczegółowych warunków i trybu kierowania na badania lekarskie lub badania psychologiczne w zakresie psychologii transportu
+Na podstawie art. 105 ust. 5 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2023 r. poz. 622, 1123, 1234, 1312 i 1560) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+szczegółowy program kursu reedukacyjnego w zakresie problematyki przeciwalkoholowej i przeciwdziałania narkomanii, o którym mowa w art. 98a ust. 1 pkt 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, zwanej dalej „ustawą”;
+2)
+wysokość opłaty za kurs reedukacyjny w zakresie problematyki przeciwalkoholowej i przeciwdziałania narkomanii, o którym mowa w art. 98a ust. 1 pkt 2 ustawy, zwany dalej „kursem reedukacyjnym”;
+3)
+wzór zaświadczenia o ukończeniu kursu reedukacyjnego;
+4)
+szczegółowe warunki i tryb kierowania na badania lekarskie lub badania psychologiczne w zakresie psychologii transportu oraz wzory dokumentów z tym związane.
+§ 2.
+Szczegółowy program kursu reedukacyjnego stanowi załącznik nr 1 do rozporządzenia.
+§ 3.
+Wysokość opłaty za kurs reedukacyjny wynosi 500 zł.
+§ 4.
+Wzór zaświadczenia o ukończeniu kursu reedukacyjnego stanowi załącznik nr 2 do rozporządzenia.
+§ 5.
+1.
+Osoby, które otrzymały decyzję administracyjną o skierowaniu na badanie lekarskie, zgłaszają się na badanie lekarskie w terminie miesiąca od dnia otrzymania tej decyzji.
+2.
+Badanie lekarskie przeprowadza się po sprawdzeniu tożsamości osoby badanej.
+3.
+Wzór decyzji administracyjnej, o której mowa w ust. 1, stanowi załącznik nr 3 do rozporządzenia.
+§ 6.
+1.
+Osoby, które otrzymały informację o obowiązku poddania się badaniom psychologicznym, zgłaszają się na badanie psychologiczne w terminie miesiąca od dnia otrzymania tej informacji.
+2.
+Badanie psychologiczne przeprowadza się po sprawdzeniu tożsamości osoby badanej.
+§ 7.
+1.
+Badanie psychologiczne przeprowadza się w warunkach zapewniających uzyskanie trafnych i rzetelnych wyników badania.
+2.
+Po przeprowadzeniu badania psychologicznego uprawniony psycholog dokonuje analizy i interpretacji wyników badań oraz przekazuje osobie badanej informację o wynikach przeprowadzonego badania.
+§ 8.
+1.
+Uprawniony psycholog odmawia przeprowadzenia badania psychologicznego, jeżeli:
+1)
+osoba badana informuje o złym stanie swojego zdrowia lub o złym samopoczuciu, lub
+2)
+stan osoby badanej wskazuje, że może znajdować się ona w stanie po użyciu alkoholu lub środka działającego podobnie do alkoholu.
+2.
+W przypadkach, o których mowa w ust. 1, uprawniony psycholog wyznacza nowy termin badania psychologicznego, nieprzekraczający 14 dni od terminu poprzedniego badania psychologicznego.
+§ 9.
+1.
+Zaświadczenia o ukończeniu kursu reedukacyjnego w zakresie problematyki przeciwalkoholowej i przeciwdziałania narkomanii wydane na podstawie dotychczasowych przepisów zachowują ważność.
+2.
+Decyzje administracyjne o skierowaniu na badania lekarskie lub psychologiczne przeprowadzane w celu ustalenia istnienia lub braku przeciwwskazań zdrowotnych lub psychologicznych do kierowania pojazdami wydane na podstawie dotychczasowych przepisów zachowują ważność.
+§ 10.
+Rozporządzenie wchodzi w życie z dniem 5 grudnia 2021 r.
+1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 14 sierpnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1616). 2) Ze zmianą wprowadzoną przez § 1 rozporządzenia Ministra Zdrowia z dnia 6 lipca 2022 r. zmieniającego rozporządzenie w sprawie kursu reedukacyjnego w zakresie problematyki przeciwalkoholowej i przeciwdziałania narkomanii oraz szczegółowych warunków i trybu kierowania na badania lekarskie lub badania psychologiczne w zakresie psychologii transportu (Dz. U. poz. 1505), które weszło w życie z dniem 2 sierpnia 2022 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 18 grudnia 2012 r. w sprawie kursu reedukacyjnego w zakresie problematyki przeciwalkoholowej i przeciwdziałania narkomanii oraz szczegółowych warunków i trybu kierowania na badania lekarskie lub badania psychologiczne w zakresie psychologii transportu (Dz. U. z 2019 r. poz. 140 i 2111), które utraciło moc z dniem 5 grudnia 2021 r. na podstawie art. 4 pkt 36 lit. b ustawy z dnia 14 października 2021 r. o zmianie ustawy o transporcie drogowym oraz niektórych innych ustaw (Dz. U. poz. 1997).
+
+## Załącznik nr 1 — – Szczegółowy program kursu reedukacyjnego w zakresie problematyki przeciwalkoholowej i przeciwdziałania narkomanii
+
+patrz oryginał
+
+## Załącznik nr 2 — – Zaświadczenie o ukończeniu kursu reedukacyjnego w zakresie problematyki przeciwalkoholowej i przeciwdziałania narkomanii (wzór)
+
+patrz oryginał
+
+## Załącznik nr 3 — – Decyzja o skierowaniu na badanie lekarskie przeprowadzane w celu ustalenia istnienia lub braku przeciwwskazań zdrowotnych do kierowania pojazdami (wzór)
+
+patrz oryginał
 

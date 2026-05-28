@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o podatku od wydobycia niektórych kopalin
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 marca 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 kwietnia 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-04-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000454) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/454/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 marca 2026 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o podatku od wydobycia niektórych kopalin
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 2 marca 2012 r. o podatku od wydobycia niektórych kopalin (Dz. U. z 2022 r. poz. 1539), z uwzględnieniem stanu prawnego na dzień 25 marca 2026 r. oraz zmian wprowadzonych ustawą z dnia 21 listopada 2025 r. o zmianie ustawy o podatku od wydobycia niektórych kopalin oraz niektórych innych ustaw (Dz. U. poz. 1804).
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 5–7 ustawy z dnia 21 listopada 2025 r. o zmianie ustawy o podatku od wydobycia niektórych kopalin oraz niektórych innych ustaw (Dz. U. poz. 1804), które stanowią: „Art. 5. 1. Przepis art. 10b i art. 10c ustawy zmienianej art. 1 stosuje się do kwalifikowanych nakładów inwestycyjnych poniesionych od dnia 1 stycznia 2026 r.
 2. W przypadku podmiotu będącego podatnikiem podatku od wydobycia niektórych kopalin z tytułu wydobycia miedzi oraz srebra kwalifikowane nakłady inwestycyjne poniesione okresie od dnia 1 stycznia 2026 r. do dnia 31 grudnia 2028 r. mogą zostać odliczone od podatku od wydobycia niektórych kopalin przypadającego do zapłaty najpóźniej za grudzień 2043 r., przy czym po raz pierwszy mogą być odliczone od podatku od wydobycia niektórych kopalin przypadającego do zapłaty za styczeń 2029 r.
@@ -51,6 +51,16 @@ Art. 17–22. (pominięte)
 2. Podatek stanowi dochód budżetu państwa.
 
 **Art. 2.** Ilekroć ustawie jest mowa o:
+
+- **1)** urobku rudy miedzi rozumie się przez to kopalinę wydobytą ze złóż zawierających miedź lub srebro ilościach nadających się do przemysłowego wykorzystania;
+- **2)** wydobyciu miedzi oraz srebra rozumie się przez to:
+    - **a)** wydobycie urobku rudy miedzi albo
+    - **b)** wydobycie urobku rudy miedzi i produkcję koncentratu;
+
+- **3)** koncentracie rozumie się przez to produkt wzbogacania urobku rudy miedzi postaci nadającej się do dalszego przetwarzania procesach hutniczych;
+- **4)** celach badawczych rozumie się przez to analizy oraz badania próbek urobku rudy miedzi, gazu ziemnego oraz ropy naftowej celu ustalenia ich właściwości oraz składu;
+- **5)** kopalinie towarzyszącej rozumie się przez to kopalinę występującą granicach lub bliskim sąsiedztwie złoża kopaliny głównej taki sposób, że jej oddzielne wydobywanie jest niemożliwe lub gospodarczo nieuzasadnione, określoną odpowiedniej koncesji lub, jeżeli koncesja nie reguluje zagospodarowania kopaliny towarzyszącej, dokumentacji geologicznej lub geologiczno-inwestycyjnej złoża węglowodorów, sporządzonej na podstawie przepisów prawa geologicznego i górniczego, zatwierdzonej przez właściwy organ administracji geologicznej drodze decyzji, przypadku gdy takie zatwierdzenie jest wymagane;
+- **6)** wydobyciu gazu ziemnego lub ropy naftowej rozumie się przez to wydobycie gazu ziemnego lub ropy naftowej prowadzone na podstawie koncesji na poszukiwanie i rozpoznawanie złóż węglowodorów albo koncesji na poszukiwanie i rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż, albo koncesji na wydobywanie węglowodorów ze złóż.
 
 ### DZIAŁ II Przedmiot opodatkowania, podatnik oraz obowiązek podatkowy
 
@@ -307,6 +317,10 @@ Art. 17–22. (pominięte)
 #### Rozdział 2 Rejestr podatników
 
 **Art. 12.** Organ udzielający koncesji na wydobycie miedzi, srebra, gazu ziemnego lub ropy naftowej oraz koncesji na poszukiwanie lub rozpoznawanie złóż zawierających miedź, srebro, gaz ziemny lub ropę naftową informuje ministra właściwego do spraw finansów publicznych o:
+
+- **1)** udzieleniu, zmianie treści, stwierdzeniu wygaśnięcia oraz cofnięciu koncesji na wydobycie miedzi, srebra, gazu ziemnego lub ropy naftowej oraz koncesji na poszukiwanie lub rozpoznawanie złóż zawierających miedź, srebro, gaz ziemny lub ropę naftową oraz o ich treści,
+- **2)** przeniesieniu, drodze decyzji, na inny podmiot koncesji, o których mowa pkt 1,
+- **3)** innym niż określone pkt 1 i 2 przypadku utraty mocy koncesji, o których mowa pkt 1 terminie 7 dni od dnia udzielenia, zmiany treści, stwierdzenia wygaśnięcia, cofnięcia, przeniesienia koncesji lub innego przypadku utraty mocy koncesji.
 
 **Art. 13.**
 

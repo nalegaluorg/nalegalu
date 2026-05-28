@@ -8,10 +8,10 @@ pos: 551
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 maja 2012 r.
+# Rozporządzenie Rady Ministrówz dnia 9 maja 2012 r. w sprawie szczegółowych warunków realizacji rządowego programu wspierania niektórych osób pobierających świadczenie pielęgnacyjne
 
 | Pole | Wartość |
 |---|---|
@@ -22,23 +22,42 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2012-05-09 |
 | Data wydania | 2012-05-18 |
+| Wejście w życie | 2012-05-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000551) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/551/text.pdf) |
 
-Poz. 551 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 9 maja 2012 r.
-w sprawie szczegółowych warunków realizacji rządowego programu wspierania niektórych osób pobierających świadczenie pielęgnacyjne Na podstawie art. 24 ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2009 r. Nr 175, poz. 1362, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowe warunki udzielania pomocy finansowej, realizowanej w ramach rządowego programu wspierania niektórych osób pobierających świadczenie pielęgnacyjne, zwanej dalej „pomocą”.
-§ 2. 1. Prawo do pomocy przysługuje matce, ojcu lub opiekunowi faktycznemu dziecka mającym ustalone za miesiąc kwiecień, maj lub czerwiec 2012 r. prawo do świadczenia pielęgnacyjnego przyznane na podstawie ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2006 r. Nr 139, poz. 992, z późn. zm. ).
-2. Pomoc przysługuje w wysokości 100 zł miesięcznie.
-3. Pomoc jest przyznawana niezależnie od dochodu.
-§ 3. 1. Pomoc jest wypłacana w terminie wypłaty świadczenia pielęgnacyjnego, o którym mowa w § 2 ust. 1, i jest realizowana przez organ właściwy w rozumieniu ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych.
-2. Przyznanie oraz odmowa przyznania pomocy następuje w drodze decyzji administracyjnej.
-3. W sprawach, o których mowa w ust. 1, nie przeprowadza się rodzinnego wywiadu środowiskowego określonego w ustawie z dnia 12 marca 2004 r. o pomocy społecznej.
-§ 4. Pomocy udziela się na wniosek osoby, o której mowa w § 2 ust. 1, złożony do organu określonego w § 3 ust. 1.
-§ 5. 1. Wniosek, o którym mowa w § 4, składa się w terminie do dnia 31 maja 2012 r., a w przypadku gdy świadczenie pielęgnacyjne przyznano po tym dniu, w terminie 7 dni od dnia, w którym decyzja o przyznaniu prawa do świadczenia pielęgnacyjnego stała się ostateczna.
-2. Wniosek, o którym mowa w § 4, złożony po terminie określonym w ust. 1, pozostawia się bez rozpoznania.
-§ 6. 1. Pomoc jest finansowana z budżetu państwa.
-2. Realizacja pomocy jest zadaniem zleconym z zakresu administracji rządowej realizowanym przez gminy.
-3. Program wspierania osób pobierających świadczenie pielęgnacyjne realizowany jest przy współudziale wojewodów, którzy dokonują podziału środków budżetu państwa.
-§ 7. Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 1 kwietnia 2012 r.
-Prezes Rady Ministrów: D. Tusk
+Treść rozporządzenia
+Na podstawie art. 24 ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2009 r. Nr 175, poz. 1362, z późn. zm.) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa szczegółowe warunki udzielania pomocy finansowej, realizowanej w ramach rządowego programu wspierania niektórych osób pobierających świadczenie pielęgnacyjne, zwanej dalej „pomocą”.
+§ 2.
+1.
+Prawo do pomocy przysługuje matce, ojcu lub opiekunowi faktycznemu dziecka mającym ustalone za miesiąc kwiecień, maj lub czerwiec 2012 r. prawo do świadczenia pielęgnacyjnego przyznane na podstawie ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2006 r. Nr 139, poz. 992, z późn. zm.).
+2.
+Pomoc przysługuje w wysokości 100 zł miesięcznie.
+3.
+Pomoc jest przyznawana niezależnie od dochodu.
+§ 3.
+1.
+Pomoc jest wypłacana w terminie wypłaty świadczenia pielęgnacyjnego, o którym mowa w § 2 ust. 1, i jest realizowana przez organ właściwy w rozumieniu ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych.
+2.
+Przyznanie oraz odmowa przyznania pomocy następuje w drodze decyzji administracyjnej.
+3.
+W sprawach, o których mowa w ust. 1, nie przeprowadza się rodzinnego wywiadu środowiskowego określonego w ustawie z dnia 12 marca 2004 r. o pomocy społecznej.
+§ 4.
+Pomocy udziela się na wniosek osoby, o której mowa w § 2 ust. 1, złożony do organu określonego w § 3 ust. 1.
+§ 5.
+1.
+Wniosek, o którym mowa w § 4, składa się w terminie do dnia 31 maja 2012 r., a w przypadku gdy świadczenie pielęgnacyjne przyznano po tym dniu, w terminie 7 dni od dnia, w którym decyzja o przyznaniu prawa do świadczenia pielęgnacyjnego stała się ostateczna.
+2.
+Wniosek, o którym mowa w § 4, złożony po terminie określonym w ust. 1, pozostawia się bez rozpoznania.
+§ 6.
+1.
+Pomoc jest finansowana z budżetu państwa.
+2.
+Realizacja pomocy jest zadaniem zleconym z zakresu administracji rządowej realizowanym przez gminy.
+3.
+Program wspierania osób pobierających świadczenie pielęgnacyjne realizowany jest przy współudziale wojewodów, którzy dokonują podziału środków budżetu państwa.
+§ 7.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 1 kwietnia 2012 r.
 

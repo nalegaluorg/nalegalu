@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o ubezpieczeniu społecznym rolników
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 listopada 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 grudnia 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-12-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001770) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1770/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 listopada 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o ubezpieczeniu społecznym rolników
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2025 r. poz. 197), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620),
 2) ustawą z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621),
@@ -175,6 +175,34 @@ o ubezpieczeniu społecznym rolników
 
 **Art. 6.** Ilekroć w ustawie jest mowa o:
 
+- **1)** rolniku rozumie się pełnoletnią osobę fizyczną, zamieszkującą i prowadzącą na terytorium Rzeczypospolitej Polskiej, osobiście i na własny rachunek, działalność rolniczą w pozostającym w jej posiadaniu gospodarstwie rolnym, w tym również w ramach grupy producentów rolnych, a także osobę, która przeznaczyła grunty prowadzonego przez siebie gospodarstwa rolnego do zalesienia;
+- **2)** domowniku rozumie się osobę bliską rolnikowi, która:
+    - **a)** ukończyła 16 lat,
+    - **b)** pozostaje z rolnikiem we wspólnym gospodarstwie domowym lub zamieszkuje na terenie jego gospodarstwa rolnego albo w bliskim sąsiedztwie,
+    - **c)** stale pracuje w tym gospodarstwie rolnym i nie jest związana z rolnikiem stosunkiem pracy;
+
+- **2a)** pomocniku rolnika rozumie się osobę pełnoletnią, z którą rolnik zawarł umowę o pomocy przy zbiorach, o której mowa w art. 91a;
+- **3)** działalności rolniczej rozumie się działalność w zakresie produkcji roślinnej lub zwierzęcej, w tym ogrodniczej, sadowniczej, pszczelarskiej i rybnej;
+- **4)** gospodarstwie rolnym rozumie się każde gospodarstwo służące prowadzeniu działalności rolniczej;
+- **5)** dziale specjalnym rozumie się dział specjalny produkcji rolnej, o którym mowa w załączniku do ustawy;
+- **6)** przepisach emerytalnych rozumie się przepisy ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674 oraz z 2025 r. poz. 718, 769 i 1159);
+- **7)** emeryturze podstawowej rozumie się kwotę równą 90 % najniższej emerytury określonej w przepisach emerytalnych;
+- **8)** wskaźniku wymiaru rozumie się ustaloną dla określonego świadczenia lub określonej części świadczenia liczbę, wyrażającą stały stosunek tego świadczenia (tej części świadczenia) do emerytury podstawowej, z zaokrągleniem do drugiego miejsca po przecinku; wskaźnik wymiaru służy do obliczania wysokości świadczenia lub jego części w myśl art. 48;
+- **9)** (uchylony)
+- **10)** emeryturze lub rencie z ubezpieczenia społecznego rolników indywidualnych i członków ich rodzin rozumie się odpowiednie świadczenie, przyznane przed dniem wejścia w życie niniejszej ustawy na podstawie ustaw powołanych w art. 99 i 122 albo innych przepisów regulujących świadczenia emerytalno-rentowe dla rolników;
+- **10a)** emeryturze lub rencie rolniczej z ubezpieczenia rozumie się emeryturę lub rentę inwalidzką z ubezpieczenia społecznego rolników indywidualnych i członków ich rodzin oraz emeryturę rolniczą lub rentę rolniczą z tytułu niezdolności do pracy;
+- **10b)** emeryturze lub rencie z ubezpieczenia rozumie się emeryturę lub rentę rolniczą z ubezpieczenia, rentę rolniczą szkoleniową i rentę rodzinną;
+- **10c)** ustalonym prawie do emerytury lub renty rozumie się ustalone prawo do emerytury lub renty z ubezpieczenia albo ustalone prawo do emerytury lub renty na podstawie przepisów emerytalnych lub innych przepisów o zaopatrzeniu emerytalnym, albo ustalone prawo do emerytury pomostowej na podstawie przepisów o emeryturach pomostowych lub do nauczycielskich świadczeń kompensacyjnych na podstawie przepisów o nauczycielskich świadczeniach kompensacyjnych, a także ustalone prawo do zasiłku przedemerytalnego lub świadczenia przedemerytalnego, przyznanego na podstawie ustawy z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych, świadczenia o charakterze rentowym z instytucji zagranicznej oraz do rodzicielskiego świadczenia uzupełniającego, o którym mowa w ustawie z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym (Dz. U. z 2025 r. poz. 1577);
+- **11)** ubezpieczeniu emerytalno-rentowym rozumie się ubezpieczenie emerytalno-rentowe określone w ustawie;
+- **11a)** stwierdzeniu niezdolności do samodzielnej egzystencji rozumie się przez to zaliczenie do pierwszej grupy inwalidów ;
+- **12)** innym ubezpieczeniu społecznym rozumie się obowiązkowe ubezpieczenia emerytalne i rentowe określone w przepisach o systemie ubezpieczeń społecznych lub zaopatrzenie emerytalne określone w odrębnych przepisach;
+- **13)** osobie podlegającej innemu ubezpieczeniu społecznemu rozumie się osobę podlegającą obowiązkowo ubezpieczeniom emerytalnemu i rentowym na podstawie przepisów o systemie ubezpieczeń społecznych lub objętą przepisami o zaopatrzeniu emerytalnym;
+- **13a)** świadczeniach z ubezpieczeń społecznych rozumie się zasiłek chorobowy i świadczenie rehabilitacyjne, do których przysługuje prawo z tytułu ubezpieczenia chorobowego na podstawie przepisów o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa;
+- **13b)** należnościach z tytułu składek rozumie się składki, należne od nich odsetki i koszty upomnienia;
+- **14)** okresach podlegania określonemu ubezpieczeniu społecznemu rozumie się tylko takie okresy, za które opłacono przewidziane w odpowiednich przepisach składki na to ubezpieczenie, chyba że w myśl tych przepisów nie istniał obowiązek opłacania składek;
+- **15)** wójcie rozumie się także burmistrza lub prezydenta miasta;
+- **16)** ubezpieczeniu zdrowotnym rozumie się ubezpieczenie określone w odrębnych przepisach.
+
 #### Rozdział 2 Zakres podmiotowy ubezpieczenia, składki na ubezpieczenie i świadczenia pieniężne z ubezpieczenia A. Ubezpieczenie wypadkowe, chorobowe i macierzyńskie
 
 **Art. 7.**
@@ -209,6 +237,11 @@ o ubezpieczeniu społecznym rolników
 5. Na wniosek Rady Rolników minister właściwy do spraw rozwoju wsi, w drodze rozporządzenia, może ustanawiać ulgi w wysokości składki, określając szczegółowe zasady i tryb ich przyznawania.
 
 **Art. 9.** Świadczeniami z ubezpieczenia wypadkowego, chorobowego i macierzyńskiego są:
+
+- **1)** jednorazowe odszkodowanie z tytułu stałego lub długotrwałego uszczerbku na zdrowiu albo śmierci wskutek wypadku przy pracy rolniczej lub rolniczej choroby zawodowej, zwane dalej „jednorazowym odszkodowaniem”;
+- **2)** zasiłek chorobowy.
+- **3)** (uchylony)
+- **4)** (uchylony)
 
 **Art. 10.**
 
@@ -377,6 +410,14 @@ o ubezpieczeniu społecznym rolników
 5. W przypadku zmiany obszaru użytków rolnych gospodarstwa rolnego powodującego zmianę wymiaru dodatkowej składki miesięcznej, o której mowa w ust. 4, rolnikowi obowiązanemu do opłacania tej składki wydaje się decyzję w tej sprawie.
 
 **Art. 18.** Świadczeniami z ubezpieczenia emerytalno-rentowego są:
+
+- **1)** emerytura rolnicza lub renta rolnicza z tytułu niezdolności do pracy;
+- **2)** renta rolnicza szkoleniowa;
+- **3)** renta rodzinna;
+- **4)** emerytura i renta z ubezpieczenia społecznego rolników indywidualnych i członków ich rodzin;
+- **5)** dodatki do emerytur i rent, o których mowa w pkt 1–4;
+- **6)** zasiłek pogrzebowy;
+- **7)** zasiłek macierzyński.
 
 **Art. 19.**
 
@@ -868,6 +909,11 @@ o ubezpieczeniu społecznym rolników
 2. Na żądanie Kasy złożone za pośrednictwem systemu, o którym mowa w art. 68aa ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, każdy z organów emerytalno-rentowych, którym został udostępniony ten system, udostępnia dane niezbędne do ustalania prawa i wysokości oraz wypłaty świadczeń, rozliczeń z tytułu tych świadczeń pomiędzy tymi organami oraz do ustalenia zbiegu świadczeń.
 
 **Art. 38.** Przy ustalaniu podlegania ubezpieczeniu domniemywa się, że:
+
+- **1)** właściciel gruntów zaliczonych do użytków rolnych lub dzierżawca takich gruntów, jeżeli umowa dzierżawy jest potwierdzona przez wójta, właściwego ze względu na miejsce położenia przedmiotu dzierżawy, prowadzi działalność rolniczą na tych gruntach;
+- **2)** podatnik podatku rolnego lub podatku od dochodu z działów specjalnych prowadzi działalność rolniczą w rozmiarze wynikającym z zakresu opodatkowania;
+- **3)** jeżeli własność lub dzierżawa gruntów, o których mowa w pkt 1, przysługuje kilku osobom lub jeżeli obowiązek podatkowy, o którym mowa w pkt 2, ciąży na kilku osobach każda z tych osób uczestniczy w prowadzeniu działalności rolniczej;
+- **4)** osoba bliska rolnikowi, spełniająca warunki określone w art. 6 pkt 2 lit. a i b, stale pracuje w gospodarstwie rolnym i nie jest związana z rolnikiem stosunkiem pracy jeżeli okoliczność ta została stwierdzona zgodnym oświadczeniem rolnika i tej osoby.
 
 **Art. 39.**
 

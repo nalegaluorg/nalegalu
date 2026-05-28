@@ -8,10 +8,10 @@ pos: 2111
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 grudnia 2016 r.
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 15 grudnia 2016 r. w sprawie upoważnienia Narodowego Instytutu Muzealnictwa i Ochrony Zbiorów do uznawania kwalifikacji do wykonywania zawodu muzealnika
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,15 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-15 |
 | Data wydania | 2016-12-22 |
+| Wejście w życie | 2017-01-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002111) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2111/text.pdf) |
 
-Poz. 2111 ROZPORZĄDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO z dnia 15 grudnia 2016 r.
-w sprawie upoważnienia Narodowego Instytutu Muzealnictwa i Ochrony Zbiorów do uznawania kwalifikacji do wykonywania zawodu muzealnika Na podstawie art. 4a ust. 3 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2016 r.
-poz. 543, z późn. zm. ) zarządza się, co następuje: § 1. Upoważnia się Narodowy Instytut Muzealnictwa i Ochrony Zbiorów do uznawania nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej kwalifikacji do wykonywania zawodu muzealnika.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Kultury i Dziedzictwa Narodowego: P. Gliński
+Treść rozporządzenia
+Na podstawie art. 4a ust. 3 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2016 r. poz. 543, z późn. zm.) zarządza się, co następuje:
+§ 1.
+Upoważnia się Narodowy Instytut Muzealnictwa i Ochrony Zbiorów do uznawania nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej kwalifikacji do wykonywania zawodu muzealnika.
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 749, 1020, 1250, 1579, 1923, 1948, 1954, 1961 i 2003.
 

@@ -8,12 +8,10 @@ pos: 1717
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy o radiofonii telewizji oraz ustawy o opłatach abonamentowych
-
-*USTAWA z dnia 20 lipca 2018 r.*
+# Ustawa z dnia 20 lipca 2018 r. o zmianie ustawy o radiofonii i telewizji oraz ustawy o opłatach abonamentowych
 
 | Pole | Wartość |
 |---|---|
@@ -24,133 +22,219 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-20 |
 | Data wydania | 2018-09-05 |
+| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001717) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1717/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 29 grudnia 1992 r. o radiofonii telewizji (Dz. U. z 2017 r. poz. 1414 2111 oraz z 2018 r. poz. 650 915) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2017 r. poz. 1414 i 2111 oraz z 2018 r. poz. 650 i 915) wprowadza się następujące zmiany:
 
-**Art. 21b.**
+- **1)** w art. 10 po ust. 4 dodaje się ust. 4a w brzmieniu: „
 
-1. Świadczenie nowej istotnej usługi przez jednostkę publicznej radiofonii telewizji ramach jej misji publicznej wymaga objęcia tej usługi kartą powinności.
+4a. Przewodniczący Krajowej Rady może wezwać spółkę, o której mowa w art. 26 ust. 2 i 3, do przedstawienia materiałów i dokumentów oraz udzielenia wyjaśnień w zakresie niezbędnym do oceny karty powinności w zakresie określonym w art. 21b ust. 7 oraz sprawozdania, o którym mowa w art. 31b ust. 1. ” ;
 
-2. Nową istotną usługą jest usługa, o której mowa art. 21 1a pkt 1–2a, zasadniczo różniąca się od dotąd oferowanych usług, której całkowity planowany koszt świadczenia pierwszym pełnym roku kalendarzowym jej świadczenia jest wyższy niż 3% zaplanowanych rocznych kosztów realizowania misji publicznej, o której mowa art. 21 1, przez daną jednostkę publicznej radiofonii telewizji tym okresie.
+- **2)** w art. 12 ust. 1 otrzymuje brzmienie: „
 
-3. Jeżeli całkowity planowany koszt świadczenia nowej istotnej usługi pierwszym pełnym roku kalendarzowym jej świadczenia jest niższy niż 3%, ale wyższy niż 2% zaplanowanych rocznych kosztów realizowania misji publicznej, o której mowa art. 21 1, przez daną jednostkę publicznej radiofonii telewizji tym okresie, informuje ona Krajową Radę o udziale całkowitego planowanego kosztu świadczenia tej usługi zaplanowanych rocznych kosztach realizowania misji publicznej przez tę jednostkę każdym roku z pierwszych trzech pełnych lat kalendarzowych. Taką usługę uważa się za nową istotną usługę, jeżeli całkowity planowany koszt jej świadczenia jednym roku z pierwszych trzech pełnych lat kalendarzowych jest wyższy niż 3% zaplanowanych rocznych kosztów realizowania misji publicznej przez daną jednostkę publicznej radiofonii telewizji tym samym roku kalendarzowym.
+1. Krajowa Rada przedstawia corocznie do końca maja danego roku kalendarzowego Sejmowi, Senatowi i Prezydentowi sprawozdanie ze swojej działalności za rok kalendarzowy poprzedzający oraz informację o podstawowych problemach radiofonii i telewizji. ” ;
 
-4. Za nową istotną usługę uważa się także zasadniczą zmianę dotąd oferowanej usługi, o ile zmiana ta prowadzi do powstania usługi zasadniczo różniącej się od usług dotąd oferowanych, a całkowity koszt pierwszym pełnym roku kalendarzowym świadczenia zmienionej usługi jest wyższy niż 3% zaplanowanych rocznych kosztów realizowania misji publicznej, o której mowa art. 21 1, przez daną jednostkę publicznej radiofonii telewizji tym okresie. Przepis 3 stosuje się odpowiednio, z tym że uwzględnia się całkowity koszt zmiany okresach określonych
+- **3)** w art. 21: w ust. 1a: – pkt 2 otrzymuje brzmienie: „ 2) tworzenie i rozpowszechnianie programów wyspecjalizowanych określonych w ustawie lub karcie powinności; ” , – po pkt 2 dodaje się pkt 2a i 2b w brzmieniu: „ 2a) tworzenie i dostarczanie przez sieci telekomunikacyjne audialnych, audiowizualnych i tekstowych usług innych niż programy, związanych z programami, uzupełniających, poszerzających lub wzbogacających je, które realizują demokratyczne, społeczne i kulturalne potrzeby społeczeństwa, w tym audiowizualnych usług medialnych na żądanie; 2b) rozwijanie kontaktów z odbiorcami programów, o których mowa w pkt 1 i 2, oraz usług, o których mowa w pkt 2a, w tym przy wykorzystaniu środków porozumiewania się na odległość; ” , – pkt 3 otrzymuje brzmienie: „ 3) budowa lub eksploatacja nadawczych i przekaźnikowych stacji radiowych lub telewizyjnych oraz innych urządzeń służących do dostarczania programów, o których mowa w pkt 1 i 2, i usług, o których mowa w pkt 2a, oraz rozwijania kontaktów zgodnie z pkt 2b; ” , – uchyla się pkt 4, – pkt 5 i 6 otrzymują brzmienie: „ 5) prowadzenie prac nad nowymi technikami tworzenia i rozpowszechniania programów radiowych lub telewizyjnych, tworzenia i dostarczania usług, o których mowa w pkt 2a, oraz rozwijania kontaktów zgodnie z pkt 2b, a także zachęcanie do korzystania z takich technik; 6) prowadzenie działalności w zakresie nabywania, przygotowywania, produkcji lub koprodukcji audycji i innych materiałów na potrzeby programów, o których mowa w pkt 1 i 2, oraz usług, o których mowa w pkt 2a; ” , – po pkt 6 dodaje się pkt 6a w brzmieniu: „ 6a) prowadzenie działalności w zakresie zachowywania, ochrony, konserwacji i uzupełniania zbiorów audycji i innych materiałów nabytych lub wytworzonych na potrzeby programów, o których mowa w pkt 1 i 2, oraz usług, o których mowa w pkt 2a; ” , – pkt 9 otrzymuje brzmienie: „ 9) tworzenie i rozpowszechnianie programów oraz tworzenie i dostarczanie usług, o których mowa w pkt 2a, służących przedstawianiu Rzeczypospolitej Polski, jej języka, historii lub kultury za granicą, w tym na użytek środowisk polonijnych oraz Polaków zamieszkałych za granicą, lub przyczynianie się do tworzenia, rozpowszechniania lub dostarczania takich programów lub usług; ” , po ust. 1a dodaje się ust. 1b w brzmieniu: „
+    - **a)**
+    - **b)**
 
-3.
+1b. Realizując zadania, o których mowa w ust. 1a, jednostki publicznej radiofonii i telewizji mogą korzystać z różnych sposobów dostarczania usług medialnych i innych usług oraz środków porozumiewania się na odległość, w tym systemów teleinformatycznych, dla zapewnienia jak najszerszego dostępu do usług medialnych i innych usług oraz komunikacji z odbiorcami. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Programy i inne usługi jednostek publicznej radiofonii i telewizji w ramach jej misji publicznej powinny: ” , – po pkt 5 dodaje się pkt 5a w brzmieniu: „ 5a) sprzyjać integracji społecznej, w tym przeciwdziałać wykluczeniu społecznemu; ” , uchyla się ust. 3 i 4;
 
-5. Za nową istotną usługę nie uważa się, szczególności, następujących usług spełniających kryteria określone 2 lub ich zmian, o których mowa 4:
+- **c)**
+- **d)**
+- **4)** po art. 21 dodaje się art. 21a-21d w brzmieniu: „
+
+**Art. 21a.**
+
+1. Bez uszczerbku dla autonomii instytucjonalnej, swobody w kształtowaniu programów i niezależności redakcyjnej jednostek publicznej radiofonii i telewizji, sposób realizowania misji publicznej, o której mowa w art. 21 ust. 1, oraz szczegółowy zakres powinności wynikających z tej misji wraz ze wskazaniem sposobu finansowania, w okresie kolejnych pięciu lat kalendarzowych, określa karta powinności.
+
+2. Karta powinności określa dla jednostki publicznej radiofonii i telewizji:
+
+- **1)** programy, o których mowa w art. 21 ust. 1a pkt 1 i 2,
+- **2)** usługi, o których mowa w art. 21 ust. 1a pkt 2a,
+- **3)** sposoby realizowania zadań, o których mowa w art. 21 ust. 1a pkt 2b-11, i powinności, o których mowa w art. 21 ust. 2,
+- **4)** wytyczne dotyczące sposobu wykorzystania nadwyżki, o której mowa w art. 31 ust. 7,
+- **5)** minimalne udziały audycji lub utworów, o których mowa w art. 15 ust. 1–3 oraz art. 15a ust. 1, w czasie nadawania poszczególnych programów, na poziomach nie niższych niż określone w tych przepisach,
+- **6)** minimalne udziały głównych kategorii audycji w poszczególnych programach, w zakresie istotnym dla charakteru danego programu, oraz sposób ich oferowania w ramach innych usług medialnych danej jednostki publicznej radiofonii i telewizji,
+- **7)** minimalne udziały udogodnień, o których mowa w art. 18a ust. 1, w czasie nadawania poszczególnych programów, jeżeli są one wyższe niż określone w tym przepisie,
+- **8)** sposoby promowania audycji i utworów, o których mowa w art. 15 ust. 1–3 oraz art. 15a ust. 1, w innych niż programy usługach danej jednostki publicznej radiofonii i telewizji ze wskazaniem szacunkowych kosztów realizacji poszczególnych zadań oraz określeniem źródeł ich finansowania.
+
+3. Karta powinności określa także ogólne zasady prowadzenia działalności niewynikającej z misji publicznej, o której mowa w art. 21 ust. 1, oraz wskazuje najważniejsze rodzaje takiej działalności.
+
+4. W załączniku do karty powinności określa się metody przypisywania przychodów i związanych z nimi kosztów w odniesieniu do działalności, o której mowa w art. 21 ust. 1, oraz pozostałej działalności.
+
+5. Karta powinności jest ustalana w drodze porozumienia zawartego między jednostką publicznej radiofonii i telewizji oraz Przewodniczącym Krajowej Rady działającym na podstawie uchwały Krajowej Rady.
+
+6. Jednostka publicznej radiofonii i telewizji przekazuje Krajowej Radzie projekt karty powinności wraz z uzasadnieniem w terminie do dnia 30 kwietnia roku kalendarzowego poprzedzającego pierwszy rok, który ma być objęty daną kartą.
+
+7. Krajowa Rada udostępnia przedstawiony przez jednostkę publicznej radiofonii i telewizji projekt karty powinności na swojej stronie internetowej w terminie 7 dni od dnia jego otrzymania. Do projektu karty powinności, w ramach otwartych konsultacji społecznych, można zgłaszać uwagi w terminie 30 dni od dnia jego udostępnienia przez Krajową Radę. Po zakończeniu konsultacji społecznych Krajowa Rada udostępnia na swojej stronie internetowej raport, w którym przedstawia ich wyniki.
+
+8. Krajowa Rada prowadzi z jednostką publicznej radiofonii i telewizji uzgodnienia dotyczące projektu karty powinności, w ramach których może zgłosić do niego uwagi.
+
+9. Krajowa Rada przed podjęciem uchwały upoważniającej do zawarcia porozumienia z jednostką publicznej radiofonii i telewizji albo odmawiającej tego upoważnienia ocenia zgodność projektu karty powinności z zasadami wypełniania misji publicznej, o której mowa w art. 21 ust. 1. Uchwała Krajowej Rady zawiera uzasadnienie.
+
+10. Na podstawie uchwały upoważniającej do zawarcia porozumienia, w terminie do dnia 30 listopada roku kalendarzowego poprzedzającego pierwszy rok objęty daną kartą, Przewodniczący Krajowej Rady zawiera z jednostką publicznej radiofonii i telewizji porozumienie w sprawie ustalenia karty powinności.
+
+11. Krajowa Rada oraz właściwa jednostka publicznej radiofonii i telewizji udostępniają na swoich stronach internetowych ustaloną kartę powinności.
+
+12. Karta powinności może być zmieniona w drodze porozumienia zawartego między jednostką publicznej radiofonii i telewizji a Przewodniczącym Krajowej Rady działającym na podstawie uchwały Krajowej Rady. Przepisy ust. 6–11 stosuje się odpowiednio, z wyjątkiem terminów określonych w ust. 6 i 10. Zawarcie porozumienia następuje w terminie 30 dni od dnia zakończenia konsultacji, o których mowa w ust. 7.
+
+13. Krajowa Rada określi, w drodze rozporządzenia, szczegółowy tryb uzgadniania karty powinności, biorąc pod uwagę konieczność zapewnienia przejrzystego i sprawnego prowadzenia uzgodnień oraz mając na względzie konieczność zapewnienia realizacji misji publicznej, o której mowa w art. 21 ust. 1, przez jednostki publicznej radiofonii i telewizji, a także ich swobodę w kształtowaniu programów i innych usług.
+
+1. Świadczenie nowej istotnej usługi przez jednostkę publicznej radiofonii i telewizji w ramach jej misji publicznej wymaga objęcia tej usługi kartą powinności.
+
+2. Nową istotną usługą jest usługa, o której mowa w art. 21 ust. 1a pkt 1–2a, zasadniczo różniąca się od dotąd oferowanych usług, której całkowity planowany koszt świadczenia w pierwszym pełnym roku kalendarzowym jej świadczenia jest wyższy niż 3% zaplanowanych rocznych kosztów realizowania misji publicznej, o której mowa w art. 21 ust. 1, przez daną jednostkę publicznej radiofonii i telewizji w tym okresie.
+
+3. Jeżeli całkowity planowany koszt świadczenia nowej istotnej usługi w pierwszym pełnym roku kalendarzowym jej świadczenia jest niższy niż 3%, ale wyższy niż 2% zaplanowanych rocznych kosztów realizowania misji publicznej, o której mowa w art. 21 ust. 1, przez daną jednostkę publicznej radiofonii i telewizji w tym okresie, informuje ona Krajową Radę o udziale całkowitego planowanego kosztu świadczenia tej usługi w zaplanowanych rocznych kosztach realizowania misji publicznej przez tę jednostkę w każdym roku z pierwszych trzech pełnych lat kalendarzowych. Taką usługę uważa się za nową istotną usługę, jeżeli całkowity planowany koszt jej świadczenia w jednym roku z pierwszych trzech pełnych lat kalendarzowych jest wyższy niż 3% zaplanowanych rocznych kosztów realizowania misji publicznej przez daną jednostkę publicznej radiofonii i telewizji w tym samym roku kalendarzowym.
+
+4. Za nową istotną usługę uważa się także zasadniczą zmianę dotąd oferowanej usługi, o ile zmiana ta prowadzi do powstania usługi zasadniczo różniącej się od usług dotąd oferowanych, a całkowity koszt w pierwszym pełnym roku kalendarzowym świadczenia zmienionej usługi jest wyższy niż 3% zaplanowanych rocznych kosztów realizowania misji publicznej, o której mowa w art. 21 ust. 1, przez daną jednostkę publicznej radiofonii i telewizji w tym okresie. Przepis ust. 3 stosuje się odpowiednio, z tym że uwzględnia się całkowity koszt zmiany w okresach określonych w ust. 3.
+
+5. Za nową istotną usługę nie uważa się, w szczególności, następujących usług spełniających kryteria określone w ust. 2 lub ich zmian, o których mowa w ust. 4:
 
 - **1)** rozpowszechniania, rozprowadzania lub udostępniania istniejących programów lub innych oferowanych dotąd usług, objętych kartą powinności, przez inne niż dotychczas sieci telekomunikacyjne lub platformy dostępu lub przy pomocy nowych technologii;
-- **2)** towarzyszących programom objętym kartą powinności przekazów tekstowych audialnych ani udogodnień dla osób niepełnosprawnych, o których mowa art. 18a 1, art. 21 1a pkt 10 art. 47g;
-- **3)** udostępnianych systemach teleinformatycznych serwisów poświęconych poszczególnym programom objętym kartą powinności, cyklom programowym, seriom, serialom lub audycjom rozpowszechnianym takich programach, tym serwisów rozwijających zawartość programów;
-- **4)** usług eksperymentalnych świadczonych ograniczonym zakresie celu testowania nowych innowacyjnych usług przez badanie ich wykonalności wartości, nie dłużej niż przez okres 12 miesięcy;
-- **5)** usług okresowych, oferowanych przez czas doniosłości społecznej wydarzenia, nie dłużej niż przez 12 miesięcy, związanych z ważnymi wydarzeniami kulturalnymi rocznicami historycznymi lub wynikających z potrzeby zapewnienia bezpieczeństwa publicznego sytuacjach takich jak klęski żywiołowe, istotne zagrożenia środowiska lub zdrowia publicznego, akty terroryzmu lub działania wojenne;
-- **6)** rozpowszechniania programów dla odbiorców za granicą, jeżeli nie są one jednocześnie dostępne obszarze Rzeczypospolitej Polskiej.
+- **2)** towarzyszących programom objętym kartą powinności przekazów tekstowych i audialnych ani udogodnień dla osób niepełnosprawnych, o których mowa w art. 18a ust. 1, art. 21 ust. 1a pkt 10 i art. 47g;
+- **3)** udostępnianych w systemach teleinformatycznych serwisów poświęconych poszczególnym programom objętym kartą powinności, cyklom programowym, seriom, serialom lub audycjom rozpowszechnianym w takich programach, w tym serwisów rozwijających zawartość programów;
+- **4)** usług eksperymentalnych świadczonych w ograniczonym zakresie w celu testowania nowych innowacyjnych usług przez badanie ich wykonalności i wartości, nie dłużej niż przez okres 12 miesięcy;
+- **5)** usług okresowych, oferowanych przez czas doniosłości społecznej wydarzenia, nie dłużej niż przez 12 miesięcy, związanych z ważnymi wydarzeniami kulturalnymi i rocznicami historycznymi lub wynikających z potrzeby zapewnienia bezpieczeństwa publicznego w sytuacjach takich jak klęski żywiołowe, istotne zagrożenia środowiska lub zdrowia publicznego, akty terroryzmu lub działania wojenne;
+- **6)** rozpowszechniania programów dla odbiorców za granicą, jeżeli nie są one jednocześnie dostępne na obszarze Rzeczypospolitej Polskiej.
 
-6. Jednostka publicznej radiofonii telewizji przed rozpoczęciem świadczenia usług, o których mowa 5 pkt 4 lub 5, zawiadamia o tym Krajową Radę.
+6. Jednostka publicznej radiofonii i telewizji przed rozpoczęciem świadczenia usług, o których mowa w ust. 5 pkt 4 lub 5, zawiadamia o tym Krajową Radę.
 
-- **2)** analizy wpływu nowej istotnej usługi konkurencję rynku właściwym, o którym mowa art. 4 pkt 9 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji konsumentów (Dz. U. z 2018 r. poz. 798, 650, 1637 1669), zwanego dalej „wpływem rynek”.
+7. Jeżeli projekt karty powinności albo jej zmiany obejmuje nową istotną usługę świadczoną przez jednostkę publicznej radiofonii i telewizji, Krajowa Rada, przed podjęciem uchwały upoważniającej do zawarcia porozumienia, o którym mowa w art. 21a ust. 10, dokonuje:
 
-8. Projekt karty powinności albo jej zmiany obejmujący nową istotną usługę zawiera jej opis oraz analizę jej przewidywanej wartości publicznej oraz wpływu rynek.
+- **1)** oceny wartości nowej istotnej usługi dla demokratycznych, społecznych i kulturalnych potrzeb społeczeństwa oraz pluralizmu mediów, zwanej dalej „wartością publiczną”;
+- **2)** analizy wpływu nowej istotnej usługi na konkurencję na rynku właściwym, o którym mowa w art. 4 pkt 9 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2018 r. poz. 798, 650, 1637 i 1669), zwanego dalej „wpływem na rynek”.
 
-9. Jeżeli projekt karty powinności zawiera braki zakresie określonym 8, Przewodniczący Krajowej Rady wzywa jednostkę publicznej radiofonii telewizji do ich uzupełnienia terminie 21 dni.
+8. Projekt karty powinności albo jej zmiany obejmujący nową istotną usługę zawiera jej opis oraz analizę jej przewidywanej wartości publicznej oraz wpływu na rynek.
 
-10. Krajowa Rada podejmuje uchwałę odmawiającą upoważnienia do zawarcia porozumienia sprawie karty powinności lub jej zmiany zakresie świadczenia nowej istotnej usługi, jeżeli usługa nie posiada dostatecznej wartości publicznej przy uwzględnieniu jej wpływu rynek. Uchwała Krajowej Rady zawiera uzasadnienie.
+9. Jeżeli projekt karty powinności zawiera braki w zakresie określonym w ust. 8, Przewodniczący Krajowej Rady wzywa jednostkę publicznej radiofonii i telewizji do ich uzupełnienia w terminie 21 dni.
 
-11. W razie oferowania przez jednostkę publicznej radiofonii telewizji nowej istotnej usługi nieobjętej kartą powinności, szczególności usług, których koszt jest wyższy niż 3% zaplanowanych rocznych kosztów realizowania misji publicznej, o której mowa art. 21 1, przez daną jednostkę publicznej radiofonii telewizji, oraz usług, o których mowa 5 pkt 4 5, po upływie terminów określonych tych przepisach, Przewodniczący Krajowej Rady wzywa tę jednostkę do złożenia projektu zmiany karty powinności dotyczącej danej usługi terminie 30 dni od dnia doręczenia wezwania albo do zaniechania oferowania tej usługi.
+10. Krajowa Rada podejmuje uchwałę odmawiającą upoważnienia do zawarcia porozumienia w sprawie karty powinności lub jej zmiany w zakresie świadczenia nowej istotnej usługi, jeżeli usługa nie posiada dostatecznej wartości publicznej przy uwzględnieniu jej wpływu na rynek. Uchwała Krajowej Rady zawiera uzasadnienie.
 
-12. W razie niezastosowania się przez jednostkę publicznej radiofonii telewizji do wezwania, o którym mowa 11, albo odmowy zawarcia porozumienia sprawie zmiany karty powinności Przewodniczący Krajowej Rady wydaje decyzję nakazującą danej jednostce publicznej radiofonii telewizji zaniechanie oferowania usługi, o której mowa 11, ramach misji publicznej, o której mowa art. 21 1.
+11. W razie oferowania przez jednostkę publicznej radiofonii i telewizji nowej istotnej usługi nieobjętej kartą powinności, w szczególności usług, których koszt jest wyższy niż 3% zaplanowanych rocznych kosztów realizowania misji publicznej, o której mowa w art. 21 ust. 1, przez daną jednostkę publicznej radiofonii i telewizji, oraz usług, o których mowa w ust. 5 pkt 4 i 5, po upływie terminów określonych w tych przepisach, Przewodniczący Krajowej Rady wzywa tę jednostkę do złożenia projektu zmiany karty powinności dotyczącej danej usługi w terminie 30 dni od dnia doręczenia wezwania albo do zaniechania oferowania tej usługi.
 
-13. Krajowa Rada określi, drodze rozporządzenia, szczegółowe wymagania, jakie powinna spełniać karta powinności części dotyczącej opisu nowej istotnej usługi, analizy wartości publicznej oraz wpływu rynek tej usługi, biorąc pod uwagę konieczność zapewnienia przejrzystości kompletności informacji niezbędnych do analizy wartości publicznej wpływu rynek takich usług, potrzebę zapewnienia przejrzystości innowacyjności działalności jednostek publicznej radiofonii telewizji oraz konieczności nieobciążania tych jednostek nadmiernymi obowiązkami.
+12. W razie niezastosowania się przez jednostkę publicznej radiofonii i telewizji do wezwania, o którym mowa w ust. 11, albo odmowy zawarcia porozumienia w sprawie zmiany karty powinności Przewodniczący Krajowej Rady wydaje decyzję nakazującą danej jednostce publicznej radiofonii i telewizji zaniechanie oferowania usługi, o której mowa w ust. 11, w ramach misji publicznej, o której mowa w art. 21 ust. 1.
 
-**Art. 21c.**
+13. Krajowa Rada określi, w drodze rozporządzenia, szczegółowe wymagania, jakie powinna spełniać karta powinności w części dotyczącej opisu nowej istotnej usługi, analizy wartości publicznej oraz wpływu na rynek tej usługi, biorąc pod uwagę konieczność zapewnienia przejrzystości i kompletności informacji niezbędnych do analizy wartości publicznej i wpływu na rynek takich usług, potrzebę zapewnienia przejrzystości i innowacyjności działalności jednostek publicznej radiofonii i telewizji oraz konieczności nieobciążania tych jednostek nadmiernymi obowiązkami.
 
-1. Jednostka publicznej radiofonii telewizji, nie później niż do dnia 31 maja każdego roku kalendarzowego, opracowuje przekazuje Krajowej Radzie projekt planu programowo-finansowego przedsięwzięć określonych karcie powinności zakresie realizacji zadań, o których mowa art. 21 1a, kolejnym roku kalendarzowym.
+1. Jednostka publicznej radiofonii i telewizji, nie później niż do dnia 31 maja każdego roku kalendarzowego, opracowuje i przekazuje Krajowej Radzie projekt planu programowo-finansowego przedsięwzięć określonych w karcie powinności w zakresie realizacji zadań, o których mowa w art. 21 ust. 1a, w kolejnym roku kalendarzowym.
 
-2. Krajowa Rada podejmuje uchwałę sprawie zatwierdzenia albo odmowy zatwierdzenia planu, o którym mowa 1, terminie do dnia 15 grudnia każdego roku kalendarzowego. Przed podjęciem uchwały Krajowa Rada prowadzi uzgodnienia z jednostką publicznej radiofonii telewizji, ramach których może wystąpić do jednostki publicznej radiofonii telewizji o wyjaśnienie, uzupełnienie lub zmianę planu zakresie wymaganym ustawą lub kartą powinności.
+2. Krajowa Rada podejmuje uchwałę w sprawie zatwierdzenia albo odmowy zatwierdzenia planu, o którym mowa w ust. 1, w terminie do dnia 15 grudnia każdego roku kalendarzowego. Przed podjęciem uchwały Krajowa Rada prowadzi uzgodnienia z jednostką publicznej radiofonii i telewizji, w ramach których może wystąpić do jednostki publicznej radiofonii i telewizji o wyjaśnienie, uzupełnienie lub zmianę planu w zakresie wymaganym ustawą lub kartą powinności.
 
-3. W przypadku istotnej zmiany okoliczności, szczególności przypadku zmiany karty powinności, plan, o którym mowa 1, okresie jego obowiązywania może być zmieniony. Przepisy 1 2 stosuje się odpowiednio.
+3. W przypadku istotnej zmiany okoliczności, w szczególności w przypadku zmiany karty powinności, plan, o którym mowa w ust. 1, w okresie jego obowiązywania może być zmieniony. Przepisy ust. 1 i 2 stosuje się odpowiednio.
 
-4. Krajowa Rada określi, drodze rozporządzenia, szczegółowy zakres planów programowo-finansowych tryb ich uzgadniania, biorąc pod uwagę konieczność zapewnienia przejrzystego sprawnego prowadzenia uzgodnień oraz mając względzie konieczność zapewnienia realizacji misji publicznej, o której mowa art. 21 1, przez jednostki publicznej radiofonii telewizji, a także ich swobodę kształtowaniu programów innych usług.
+4. Krajowa Rada określi, w drodze rozporządzenia, szczegółowy zakres planów programowo-finansowych i tryb ich uzgadniania, biorąc pod uwagę konieczność zapewnienia przejrzystego i sprawnego prowadzenia uzgodnień oraz mając na względzie konieczność zapewnienia realizacji misji publicznej, o której mowa w art. 21 ust. 1, przez jednostki publicznej radiofonii i telewizji, a także ich swobodę w kształtowaniu programów i innych usług.
 
-**Art. 21d.**
+1. W przypadku niezawarcia porozumienia w sprawie karty powinności obowiązywanie poprzedniej karty powinności przedłuża się do czasu zawarcia porozumienia.
 
-1. W przypadku niezawarcia porozumienia sprawie karty powinności obowiązywanie poprzedniej karty powinności przedłuża się do czasu zawarcia porozumienia.
+2. W przypadku, o którym mowa w ust. 1, plan, o którym mowa w art. 21c ust. 1, nie może przewidywać przychodów pochodzących ze środków określonych w art. 31 ust. 1 pkt 1 i ust. 2 w wysokości przekraczającej wysokość środków pochodzących z tych źródeł przewidzianych w planie na poprzedni rok kalendarzowy. ” ;
 
-2. W przypadku, o którym mowa 1, plan, o którym mowa art. 21c 1, nie może przewidywać przychodów pochodzących ze środków określonych art. 31 1 pkt 1 2 wysokości przekraczającej wysokość środków pochodzących z tych źródeł przewidzianych planie poprzedni rok kalendarzowy.”;
+- **5)** w art. 25: ust. 1 otrzymuje brzmienie: „
+    - **a)**
 
-- **5)** art. 25:
-    - **a)** 1 otrzymuje brzmienie: „1. Jednostki publicznej radiofonii telewizji mogą tworzyć rozpowszechniać wszystkimi dostępnymi sposobami programy dla odbiorców za granicą języku polskim innych językach.”,
-    - **c)** 4 5 wyrazy „ust. 1 2” zastępuje się wyrazami „ust. 1–2”;
+1. Jednostki publicznej radiofonii i telewizji mogą tworzyć i rozpowszechniać wszystkimi dostępnymi sposobami programy dla odbiorców za granicą w języku polskim i w innych językach. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
 
-- **6)** art. 26:
-    - **a)** 2 otrzymuje brzmienie: „2. Telewizję publiczną tworzy spółka „Telewizja Polska – Spółka Akcyjna”, zawiązana celu tworzenia rozpowszechniania:
+- **b)**
 
-- **1)** ogólnokrajowych programów ogólnotematycznych I II, wyspecjalizowanego programu informacyjno-publicystycznego oraz programu o tematyce kulturalno-artystycznej;
+1a. Jednostki publicznej radiofonii i telewizji mogą tworzyć i dostarczać przez sieci telekomunikacyjne, w tym w systemach teleinformatycznych, audialne, audiowizualne i tekstowe usługi inne niż programy, w tym audiowizualne usługi medialne na żądanie, dla odbiorców za granicą w języku polskim i w innych językach. ” , w ust. 4 i 5 wyrazy „ust. 1 i 2” zastępuje się wyrazami „ust. 1–2”;
+
+- **c)**
+- **6)** w art. 26: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. Telewizję publiczną tworzy spółka „Telewizja Polska – Spółka Akcyjna”, zawiązana w celu tworzenia i rozpowszechniania:
+
+- **1)** ogólnokrajowych programów ogólnotematycznych I i II, wyspecjalizowanego programu informacyjno-publicystycznego oraz programu o tematyce kulturalno-artystycznej;
 - **2)** programów skierowanych do odbiorców za granicą;
 - **3)** regionalnych programów telewizyjnych;
-- **4)** innych programów usług realizujących misję publiczną, o której mowa art. 21 1, określonych karcie powinności, tym programów wyspecjalizowanych, innych niż wymienione pkt 1.”,
-    - **b)** 6 otrzymuje brzmienie: „6. Prezes Urzędu Komunikacji Elektronicznej, porozumieniu z Przewodniczącym Krajowej Rady, zapewnia dla spółek tworzących rozpowszechniających:
+- **4)** innych programów i usług realizujących misję publiczną, o której mowa w art. 21 ust. 1, określonych w karcie powinności, w tym programów wyspecjalizowanych, innych niż wymienione w pkt 1. ” , ust. 6 otrzymuje brzmienie: „
+    - **b)**
 
-- **1)** ogólnokrajowe programy telewizyjne – częstotliwości niezbędne do pokrycia kraju zasięgiem odbioru programów, o których mowa art. 26 2 pkt 1 4;
-- **2)** ogólnokrajowe programy radiowe – częstotliwości niezbędne do pokrycia kraju zasięgiem odbioru programu pierwszego, drugiego, trzeciego czwartego oraz częstotliwości niezbędne do rozpowszechniania programów radiowych dla odbiorców za granicą, a także częstotliwości niezbędne do rozpowszechniania programów określonych karcie powinności;
-- **3)** regionalne programy telewizyjne – częstotliwości niezbędne do rozpowszechniania regionalnych programów telewizyjnych, tym programów określonych karcie powinności;
-- **4)** regionalne programy radiowe – częstotliwości niezbędne do rozpowszechniania regionalnych programów radiowych, tym programów określonych karcie powinności.”;
-- **7)** art. 31:
-    - **a)** 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Przychodami spółek, o których mowa art. 26 2 3, są przychody pochodzące z:”, – pkt 3 otrzymuje brzmienie: „3) przekazów handlowych;”,
-    - **b)** dodaje się 4–11 brzmieniu: „4. Przychody pochodzące ze źródeł określonych 1 pkt 1 2 przeznacza się wyłącznie realizację misji publicznej, o której mowa art. 21 1.
+6. Prezes Urzędu Komunikacji Elektronicznej, w porozumieniu z Przewodniczącym Krajowej Rady, zapewnia dla spółek tworzących i rozpowszechniających:
 
-5. Roczne przychody jednostki publicznej radiofonii telewizji pochodzące ze źródeł określonych 1 pkt 1 2 nie mogą przekraczać kosztu netto realizacji misji publicznej, o której mowa art. 21 1, przez daną jednostkę publicznej radiofonii telewizji.
+- **1)** ogólnokrajowe programy telewizyjne – częstotliwości niezbędne do pokrycia kraju zasięgiem odbioru programów, o których mowa w art. 26 ust. 2 pkt 1 i 4;
+- **2)** ogólnokrajowe programy radiowe – częstotliwości niezbędne do pokrycia kraju zasięgiem odbioru programu pierwszego, drugiego, trzeciego i czwartego oraz częstotliwości niezbędne do rozpowszechniania programów radiowych dla odbiorców za granicą, a także częstotliwości niezbędne do rozpowszechniania programów określonych w karcie powinności;
+- **3)** regionalne programy telewizyjne – częstotliwości niezbędne do rozpowszechniania regionalnych programów telewizyjnych, w tym programów określonych w karcie powinności;
+- **4)** regionalne programy radiowe – częstotliwości niezbędne do rozpowszechniania regionalnych programów radiowych, w tym programów określonych w karcie powinności. ” ;
+- **7)** w art. 31: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przychodami spółek, o których mowa w art. 26 ust. 2 i 3, są przychody pochodzące z: ” , – pkt 3 otrzymuje brzmienie: „ 3) przekazów handlowych; ” , dodaje się ust. 4–11 w brzmieniu: „
+    - **a)**
+    - **b)**
 
-6. Koszt netto realizacji misji publicznej, o której mowa art. 21 1, stanowi różnicę między całkowitym kosztem realizacji misji publicznej poniesionym przez daną jednostkę publicznej radiofonii telewizji danym roku kalendarzowym a dochodem netto uzyskanym przez nią tym okresie z pozostałej działalności.
+4. Przychody pochodzące ze źródeł określonych w ust. 1 pkt 1 i ust. 2 przeznacza się wyłącznie na realizację misji publicznej, o której mowa w art. 21 ust. 1.
 
-7. Jeżeli danym roku kalendarzowym jednostka publicznej radiofonii telewizji osiągnie przychody pochodzące ze źródeł określonych 1 pkt 1 2 przekraczające koszt netto realizacji misji publicznej, o której mowa art. 21 1, a kwota nadwyżki będzie nie większa niż 10% całkowitego kosztu realizacji misji publicznej przewidzianego zatwierdzonym planie, o którym mowa art. 21c 1, ten rok, jednostka ta może nie zwracać tej nadwyżki pod warunkiem przeznaczenia jej realizację misji publicznej kolejnych okresach, zasadach określonych karcie powinności.
+5. Roczne przychody jednostki publicznej radiofonii i telewizji pochodzące ze źródeł określonych w ust. 1 pkt 1 i ust. 2 nie mogą przekraczać kosztu netto realizacji misji publicznej, o której mowa w art. 21 ust. 1, przez daną jednostkę publicznej radiofonii i telewizji.
 
-8. Nadwyżka przekraczająca limit określony 7, a także nadwyżka ramach tego limitu, ale nieprzeznaczona zgodnie z 7, podlega zwrotowi Krajowej Radzie, jeżeli pochodzi ze źródeł, o których mowa 1 14 dni od dnia podjęcia uchwały.
+6. Koszt netto realizacji misji publicznej, o której mowa w art. 21 ust. 1, stanowi różnicę między całkowitym kosztem realizacji misji publicznej poniesionym przez daną jednostkę publicznej radiofonii i telewizji w danym roku kalendarzowym a dochodem netto uzyskanym przez nią w tym okresie z pozostałej działalności.
 
-10. Na wniosek jednostki publicznej radiofonii telewizji Przewodniczący Krajowej Rady może zezwolić, drodze decyzji wydanej podstawie uchwały Krajowej Rady, zachowanie przez tę jednostkę nadwyżki przekraczającej limit określony 7 pod warunkiem przeznaczenia tej nadwyżki, we wskazanym decyzji okresie, określone niej szczególne koszty, niezbędne do realizacji misji publicznej, o której mowa art. 21
+7. Jeżeli w danym roku kalendarzowym jednostka publicznej radiofonii i telewizji osiągnie przychody pochodzące ze źródeł określonych w ust. 1 pkt 1 i ust. 2 przekraczające koszt netto realizacji misji publicznej, o której mowa w art. 21 ust. 1, a kwota nadwyżki będzie nie większa niż 10% całkowitego kosztu realizacji misji publicznej przewidzianego w zatwierdzonym planie, o którym mowa w art. 21c ust. 1, na ten rok, jednostka ta może nie zwracać tej nadwyżki pod warunkiem przeznaczenia jej na realizację misji publicznej w kolejnych okresach, na zasadach określonych w karcie powinności.
 
-1.
+8. Nadwyżka przekraczająca limit określony w ust. 7, a także nadwyżka w ramach tego limitu, ale nieprzeznaczona zgodnie z ust. 7, podlega zwrotowi Krajowej Radzie, jeżeli pochodzi ze źródeł, o których mowa w ust. 1 pkt 1, lub właściwej jednostce sektora finansów publicznych, jeżeli pochodzi ze źródeł, o których mowa w ust. 2. Zwrotu nadwyżki pochodzącej ze źródeł, o których mowa w ust. 1 pkt 1, dokonuje się przez zmniejszenie należnego przychodu z tych źródeł, w roku kalendarzowym rozliczenia nadwyżki.
 
-11. Krajowa Rada uwzględnia uzyskanie przez jednostki publicznej radiofonii telewizji nadwyżek, o których mowa 7, 8 10, przy wykonywaniu swoich kompetencji określonych art. 3 5 6 oraz art. 8 2 ustawy z dnia 21 kwietnia 2005 r. o opłatach abonamentowych oraz przy zawieraniu porozumienia, o którym mowa art. 21a 5, zatwierdzaniu planu, o którym mowa art. 21c 1.”;
+9. Decyzję o zwrocie nadwyżki, o której mowa w ust. 8, wydaje Przewodniczący Krajowej Rady na podstawie uchwały Krajowej Rady, uwzględniając ocenę sprawozdania, o którym mowa w art. 31b ust. 1, w terminie 14 dni od dnia podjęcia uchwały.
 
-- **8)** art. 31a 3 otrzymuje brzmienie: „3. Krajowa Rada określi, drodze rozporządzenia, sposób prowadzenia dokumentacji, o której mowa art. 10 ustawy z dnia 29 września 1994 r. o rachunkowości, oraz sposób sporządzania sprawozdania, o którym mowa art. 31b 1, biorąc pod uwagę konieczność zapewnienia przestrzegania zasad jawności przejrzystości wykorzystania środków przeznaczonych realizację misji publicznej, o której mowa art. 21 1.”;
-- **9)** art. 31b otrzymuje brzmienie: „Art. 31b. 1. Jednostki publicznej radiofonii telewizji są obowiązane do sporządzenia złożenia Krajowej Radzie oraz udostępnienia swoich stronach internetowych, terminie do dnia 30 kwietnia danego roku kalendarzowego, sprawozdania za poprzedni rok kalendarzowy z realizacji misji publicznej, o której mowa art. 21 1, zawierającego:
-- **1)** informację o realizacji określonych przepisach prawa oraz karcie powinności zadań wynikających z misji publicznej, o której mowa art. 21 1;
-- **2)** informację o wysokości sposobie wykorzystania środków pochodzących z poszczególnych źródeł, o których mowa art. 31 1 2;
-- **3)** informację o sposobie realizacji zasad, o których mowa art. 31a 1;
-- **4)** informację o całkowitym koszcie realizacji misji publicznej, o której mowa art. 21 1, ze wskazaniem kosztów realizacji poszczególnych zadań oraz informację o dochodzie z pozostałej działalności;
-- **5)** wyliczenie kosztu netto realizacji misji publicznej zgodnie z art. 31 6 oraz nadwyżek, o których mowa art. 31 7 lub 8, jeżeli powstały;
-- **6)** propozycję przeznaczenia nadwyżki, o której mowa art. 31 7, jeżeli powstała.
+10. Na wniosek jednostki publicznej radiofonii i telewizji Przewodniczący Krajowej Rady może zezwolić, w drodze decyzji wydanej na podstawie uchwały Krajowej Rady, na zachowanie przez tę jednostkę nadwyżki przekraczającej limit określony w ust. 7 pod warunkiem przeznaczenia tej nadwyżki, we wskazanym w decyzji okresie, na określone w niej szczególne koszty, niezbędne do realizacji misji publicznej, o której mowa w art. 21 ust. 1.
 
-2. Krajowa Rada podstawie oceny sprawozdania, o którym mowa 1, podejmuje do dnia 30 czerwca każdego roku kalendarzowego uchwałę o jego przyjęciu albo o odmowie jego przyjęcia. Uchwały są udostępniane stronie internetowej Krajowej Rady.
+11. Krajowa Rada uwzględnia uzyskanie przez jednostki publicznej radiofonii i telewizji nadwyżek, o których mowa w ust. 7, 8 i 10, przy wykonywaniu swoich kompetencji określonych w art. 3 ust. 5 i 6 oraz art. 8 ust. 2 ustawy z dnia 21 kwietnia 2005 r. o opłatach abonamentowych oraz przy zawieraniu porozumienia, o którym mowa w art. 21a ust. 5, i zatwierdzaniu planu, o którym mowa w art. 21c ust. 1. ” ;
 
-3. Podejmując uchwałę, o której mowa 2, Krajowa Rada może określić zalecenia dotyczące sposobu realizacji przedsięwzięć określonych karcie powinności oraz planie, o którym mowa art. 21c 1, kolejnym roku kalendarzowym oraz może polecić podjęcie określonych działań naprawczych, wskazując termin realizację zaleceń lub działań naprawczych.
+- **8)** w art. 31a ust. 3 otrzymuje brzmienie: „
 
-4. Jednostka publicznej radiofonii telewizji, której dotyczą zalecenia lub działania naprawcze, o których mowa 3, jest obowiązana do zawarcia sprawozdaniu, o którym mowa 1, za kolejny rok kalendarzowy informacji o sposobie ich wykonania.”;
+3. Krajowa Rada określi, w drodze rozporządzenia, sposób prowadzenia dokumentacji, o której mowa w art. 10 ustawy z dnia 29 września 1994 r. o rachunkowości, oraz sposób sporządzania sprawozdania, o którym mowa w art. 31b ust. 1, biorąc pod uwagę konieczność zapewnienia przestrzegania zasad jawności i przejrzystości wykorzystania środków przeznaczonych na realizację misji publicznej, o której mowa w art. 21 ust. 1. ” ;
 
-- **10)** art. 31c otrzymuje brzmienie: „Art. 31c. Jednostki publicznej radiofonii telewizji przygotowują udostępniają swoich stronach internetowych, terminie do dnia 30 kwietnia danego roku, sprawozdania za poprzedni rok kalendarzowy z wykorzystania wpływów z opłat abonamentowych rozumieniu ustawy z dnia 21 kwietnia 2005 r. o opłatach abonamentowych, odsetek za zwłokę ich uiszczaniu oraz kar za używanie niezarejestrowanych odbiorników realizację misji publicznej, o której mowa art. 21 1, ze wskazaniem środków przeznaczonych wykonanie poszczególnych zadań wymienionych art. 21 1a.”; włącznie z wypłatami z zysku, kwartale poprzedzającym wydanie decyzji nakładającej karę, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.”.
+- **9)** art. 31b otrzymuje brzmienie: „
+
+**Art. 31b.**
+
+1. Jednostki publicznej radiofonii i telewizji są obowiązane do sporządzenia i złożenia Krajowej Radzie oraz udostępnienia na swoich stronach internetowych, w terminie do dnia 30 kwietnia danego roku kalendarzowego, sprawozdania za poprzedni rok kalendarzowy z realizacji misji publicznej, o której mowa w art. 21 ust. 1, zawierającego:
+
+- **1)** informację o realizacji określonych w przepisach prawa oraz karcie powinności zadań wynikających z misji publicznej, o której mowa w art. 21 ust. 1;
+- **2)** informację o wysokości i sposobie wykorzystania środków pochodzących z poszczególnych źródeł, o których mowa w art. 31 ust. 1 i 2;
+- **3)** informację o sposobie realizacji zasad, o których mowa w art. 31a ust. 1;
+- **4)** informację o całkowitym koszcie realizacji misji publicznej, o której mowa w art. 21 ust. 1, ze wskazaniem kosztów realizacji poszczególnych zadań oraz informację o dochodzie z pozostałej działalności;
+- **5)** wyliczenie kosztu netto realizacji misji publicznej zgodnie z art. 31 ust. 6 oraz nadwyżek, o których mowa w art. 31 ust. 7 lub 8, jeżeli powstały;
+- **6)** propozycję przeznaczenia nadwyżki, o której mowa w art. 31 ust. 7, jeżeli powstała.
+
+2. Krajowa Rada na podstawie oceny sprawozdania, o którym mowa w ust. 1, podejmuje do dnia 30 czerwca każdego roku kalendarzowego uchwałę o jego przyjęciu albo o odmowie jego przyjęcia. Uchwały są udostępniane na stronie internetowej Krajowej Rady.
+
+3. Podejmując uchwałę, o której mowa w ust. 2, Krajowa Rada może określić zalecenia dotyczące sposobu realizacji przedsięwzięć określonych w karcie powinności oraz planie, o którym mowa w art. 21c ust. 1, w kolejnym roku kalendarzowym oraz może polecić podjęcie określonych działań naprawczych, wskazując termin na realizację zaleceń lub działań naprawczych.
+
+4. Jednostka publicznej radiofonii i telewizji, której dotyczą zalecenia lub działania naprawcze, o których mowa w ust. 3, jest obowiązana do zawarcia w sprawozdaniu, o którym mowa w ust. 1, za kolejny rok kalendarzowy informacji o sposobie ich wykonania. ” ;
+
+- **10)** art. 31c otrzymuje brzmienie: „ Jednostki publicznej radiofonii i telewizji przygotowują i udostępniają na swoich stronach internetowych, w terminie do dnia 30 kwietnia danego roku, sprawozdania za poprzedni rok kalendarzowy z wykorzystania wpływów z opłat abonamentowych w rozumieniu ustawy z dnia 21 kwietnia 2005 r. o opłatach abonamentowych, odsetek za zwłokę w ich uiszczaniu oraz kar za używanie niezarejestrowanych odbiorników na realizację misji publicznej, o której mowa w art. 21 ust. 1, ze wskazaniem środków przeznaczonych na wykonanie poszczególnych zadań wymienionych w art. 21 ust. 1a. ” ;
+- **11)** w art. 54 po ust. 2 dodaje się ust. 2a w brzmieniu: „
+
+2a. Jeżeli jednostka publicznej radiofonii i telewizji nie stosuje się do zaleceń lub działań naprawczych w zakresie realizacji misji publicznej, o których mowa w art. 31b ust. 3, Przewodniczący Krajowej Rady może wydać decyzję nakładającą na osobę kierującą działalnością jednostki publicznej radiofonii i telewizji karę pieniężną nieprzekraczającą wysokości dziesięciokrotności przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw, włącznie z wypłatami z zysku, w kwartale poprzedzającym wydanie decyzji nakładającej karę, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”. ” .
 
 **Art. 2.** W ustawie z dnia 21 kwietnia 2005 r. o opłatach abonamentowych (Dz. U. z 2014 r. poz. 1204 oraz z 2015 r. poz. 1324) wprowadza się następujące zmiany:
 
+- **1)** w art. 3 w ust. 5: wprowadzenie do wyliczenia otrzymuje brzmienie: „ Krajowa Rada Radiofonii i Telewizji może określić do dnia 31 lipca każdego roku, w drodze rozporządzenia, niższą niż ustaloną w ust. 1 wysokość opłat abonamentowych na następny rok kalendarzowy, z uwzględnieniem: ” , pkt 1 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **1)** prognozowanych kosztów realizacji misji publicznej, o której mowa w art. 21 ust. 1 ustawy o radiofonii i telewizji, oszacowanych na podstawie planu programowo-finansowego, o którym mowa w art. 21c ust. 1 tej ustawy, oraz sprawozdania, o którym mowa w art. 31b ust. 1 tej ustawy; ” ;
+- **2)** w art. 8: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. Krajowa Rada Radiofonii i Telewizji ustala corocznie, po analizie planu programowo-finansowego, o którym mowa w art. 21c ust. 1 ustawy o radiofonii i telewizji, oraz sprawozdania, o którym mowa w art. 31b ust. 1 tej ustawy, za poprzedni rok kalendarzowy i analizie określonych w nich kosztów, nie później niż do dnia 30 września, sposób podziału wpływów, o których mowa w ust. 1, między jednostki publicznej radiofonii i telewizji w następnym roku kalendarzowym, w tym minimalny udział terenowych oddziałów spółki, o której mowa w art. 26 ust. 2 ustawy o radiofonii i telewizji. ” , uchyla się ust. 4.
+
+- **b)**
+
 **Art. 3.**
 
-1. Do programów usług, których rozpowszechnianie lub dostarczanie rozpoczęło się przed dniem wejścia życie niniejszej ustawy, nie stosuje się przepisu art. 21b ustawy zmienianej art. 1.
+1. Do programów i usług, których rozpowszechnianie lub dostarczanie rozpoczęło się przed dniem wejścia w życie niniejszej ustawy, nie stosuje się przepisu art. 21b ustawy zmienianej w art. 1.
 
-2. Koncesje rozpowszechnianie programów wyspecjalizowanych rozpowszechnianych przez jednostki publicznej radiofonii telewizji do dnia wejścia życie niniejszej ustawy zachowują moc do dnia wejścia życie karty powinności danej jednostki. Postanowienia koncesji dotyczące charakteru tych programów uwzględnia się karcie powinności.
+2. Koncesje na rozpowszechnianie programów wyspecjalizowanych rozpowszechnianych przez jednostki publicznej radiofonii i telewizji do dnia wejścia w życie niniejszej ustawy zachowują moc do dnia wejścia w życie karty powinności danej jednostki. Postanowienia koncesji dotyczące charakteru tych programów uwzględnia się w karcie powinności.
 
 **Art. 4.**
 
-1. Pierwszy okres pięciu lat objętych porozumieniem sprawie karty powinności, o którym mowa art. 21a 1 ustawy zmienianej art. 1, rozpoczyna się dniu 1 stycznia 2020 r.
+1. Pierwszy okres pięciu lat objętych porozumieniem w sprawie karty powinności, o którym mowa w art. 21a ust. 1 ustawy zmienianej w art. 1, rozpoczyna się w dniu 1 stycznia 2020 r.
 
-2. W przypadku niezawarcia porozumienia sprawie karty powinności pierwszy okres, o którym mowa 1, terminie, o którym mowa art. 21a 10 ustawy zmienianej art. 1, plan programowo-finansowy pierwszy rok kalendarzowy tego okresu określa przedsięwzięcia zakresie realizacji zadań, o których mowa art. 21 1a ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, a także nie może przewidywać przychodów ze środków określonych art. 31 1 pkt 1 2 tej ustawy wysokości przekraczającej wysokość środków z tych źródeł przewidzianych planie poprzedni rok.
+2. W przypadku niezawarcia porozumienia w sprawie karty powinności na pierwszy okres, o którym mowa w ust. 1, w terminie, o którym mowa w art. 21a ust. 10 ustawy zmienianej w art. 1, plan programowo-finansowy na pierwszy rok kalendarzowy tego okresu określa przedsięwzięcia w zakresie realizacji zadań, o których mowa w art. 21 ust. 1a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, a także nie może przewidywać przychodów ze środków określonych w art. 31 ust. 1 pkt 1 i ust. 2 tej ustawy w wysokości przekraczającej wysokość środków z tych źródeł przewidzianych w planie na poprzedni rok.
 
-**Art. 5.** Jeżeli 2019 r. jednostka publicznej radiofonii telewizji osiągnie przychody pochodzące ze źródeł określonych art. 31 1 pkt 1 2 ustawy zmienianej art. 1, przewyższające koszt netto realizacji misji publicznej, a kwota nadwyżki będzie nie większa niż 10% całkowitego kosztu realizacji misji publicznej przewidzianego zatwierdzonym planie programowo-finansowym ten rok, jednostka ta może nie zwracać tej nadwyżki, pod warunkiem jej przeznaczenia realizację misji publicznej kolejnych okresach, zasadach określonych planie programowo-finansowym.
+**Art. 5.** Jeżeli w 2019 r. jednostka publicznej radiofonii i telewizji osiągnie przychody pochodzące ze źródeł określonych w art. 31 ust. 1 pkt 1 i ust. 2 ustawy zmienianej w art. 1, przewyższające koszt netto realizacji misji publicznej, a kwota nadwyżki będzie nie większa niż 10% całkowitego kosztu realizacji misji publicznej przewidzianego w zatwierdzonym planie programowo-finansowym na ten rok, jednostka ta może nie zwracać tej nadwyżki, pod warunkiem jej przeznaczenia na realizację misji publicznej w kolejnych okresach, na zasadach określonych w planie programowo-finansowym.
 
-**Art. 6.** Do sprawozdań, o których mowa art. 31b art. 31c ustawy zmienianej art. 1, za 2018 r. 2019 r., dołącza się wyliczenie kosztu netto realizacji misji publicznej zgodnie z art. 31 6 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, oraz nadwyżek, o których mowa art. 31 8 lub 9 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, jeżeli takie nadwyżki powstały.
+**Art. 6.** Do sprawozdań, o których mowa w art. 31b i art. 31c ustawy zmienianej w art. 1, za 2018 r. i 2019 r., dołącza się wyliczenie kosztu netto realizacji misji publicznej zgodnie z art. 31 ust. 6 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, oraz nadwyżek, o których mowa w art. 31 ust. 8 lub ust. 9 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jeżeli takie nadwyżki powstały.
 
-**Art. 7.** Ustawa wchodzi życie z dniem 1 stycznia 2019 r., z wyjątkiem art. 1 pkt 8–11 oraz art. 2 pkt 2 lit. b, które wchodzą życie z dniem 1 stycznia 2020 r.
+**Art. 7.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem art. 1 pkt 8–11 oraz art. 2 pkt 2 lit. b, które wchodzą w życie z dniem 1 stycznia 2020 r.
 

@@ -8,12 +8,10 @@ pos: 1300
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o ochronie prawnej odmian roślin
-
-*USTAWA z dnia 26 czerwca 2003 r.*
+# Ustawa z dnia 26 czerwca 2003 r. o ochronie prawnej odmian roślin
 
 | Pole | Wartość |
 |---|---|
@@ -24,42 +22,89 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2003-06-26 |
 | Data wydania | 2003-08-06 |
+| Wejście w życie | 2004-05-01 |
 | Ostatnia zmiana | 2026-01-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031371300) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1300/text.pdf) |
+
+3.
+Spis jest wykazem odmian zgłoszonych do ochrony wyłącznego prawa oraz hodowców, którym przyznano tymczasowe wyłączne prawo.
+4.
+Odmiana wpisana do spisu albo księgi otrzymuje numer, który składa się z kolejnego numeru w spisie albo w księdze oraz wielkiej litery określającej daną grupę roślin.
+5.
+Numer odmiany w spisie jest poprzedzony dodatkowo wielką literą T, która oznacza, że odmianie przyznano tymczasowe wyłączne prawo.
+6.
+Dla poszczególnych grup roślin ustala się następujące oznaczenia literowe:
+1)
+R – rośliny rolnicze;
+2)
+W – rośliny warzywne;
+3)
+S – rośliny sadownicze;
+4)
+L – rośliny leśne;
+5)
+O – rośliny ozdobne;
+6)
+P – rośliny pozostałe.
+7.
+W księdze wpisuje się:
+1)
+imię i nazwisko albo nazwę hodowcy oraz jego adres i miejsce zamieszkania albo adres siedziby;
+2)
+nazwę gatunku w języku polskim i po łacinie oraz nazwę odmiany;
+3)
+datę przyznania i ustania wyłącznego prawa;
+4)
+oznaczenie kraju hodowcy;
+5)
+informację wskazującą, czy odmiana jest genetycznie zmodyfikowana.
+8.
+W spisie wpisuje się:
+1)
+imię i nazwisko albo nazwę hodowcy oraz jego adres i miejsce zamieszkania albo adres siedziby;
+2)
+nazwę gatunku w języku polskim i po łacinie oraz nazwę odmiany;
+3)
+datę przyznania i ustania tymczasowego wyłącznego prawa;
+4)
+oznaczenie kraju hodowcy;
+5)
+informację wskazującą, czy odmiana jest genetycznie zmodyfikowana.
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa reguluje sprawy ochrony prawnej odmian roślin, a w szczególności:
 
+- **1)** tryb oraz sposób przyznawania i pozbawiania prawa do ochrony wyhodowanej albo odkrytej i wyprowadzonej przez hodowcę odmiany, a także zarobkowego korzystania z niej;
+- **2)** zakres ochrony tego prawa.
+
 **Art. 2.**
 
 1. W rozumieniu ustawy określenie:
 
-- **1)** odmiana – oznacza zbiorowość roślin w obrębie botanicznej jednostki systematycznej najniższego znanego stopnia, która niezależnie od tego, czy w pełni odpowiada warunkom przyznania wyłącznego prawa:
-    - **a)** jest określona na podstawie przejawianych właściwości wynikających z określonego genotypu lub kombinacji genotypów,
-    - **b)** jest odróżnialna od każdej innej zbiorowości roślin na podstawie co najmniej jednej z przejawianych właściwości,
-    - **c)** pozostaje niezmieniona po rozmnożeniu;
+- **1)** odmiana – oznacza zbiorowość roślin lub ich części, jeżeli części te są zdolne do wytworzenia całej rośliny, w obrębie botanicznej jednostki systematycznej najniższego znanego stopnia: którą można określić na podstawie przejawianych właściwości wynikających z określonego genotypu lub kombinacji genotypów, którą można odróżnić od innej zbiorowości roślin na podstawie co najmniej jednej przejawianej właściwości, która nie zmienia się po kolejnym rozmnożeniu albo na końcu właściwego jej cyklu rozmnożeń lub krzyżowań, podanego przez hodowcę;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **2)** odmiana mieszańcowa – oznacza odmianę, której materiał siewny jest wytwarzany każdorazowo przez krzyżowanie określonych zbiorowości roślin, zgodnie z podanym przez hodowcę tej odmiany sposobem i kolejnością;
-- **3)** składnik odmiany mieszańcowej – oznacza odmianę lub linię rośliny wykorzystywaną w procesie wytwarzania odmiany mieszańcowej; ochrony i zarobkowego korzystania;
+- **2)** odmiana mieszańcowa – oznacza odmianę wytworzoną każdorazowo przez krzyżowanie określonych zbiorowości roślin, zgodnie z podanym przez hodowcę tej odmiany sposobem i kolejnością;
+- **3)** składnik odmiany mieszańcowej – oznacza odmianę lub linię rośliny wykorzystywaną w procesie wytwarzania odmiany mieszańcowej;
+- **4)** odmiana chroniona – oznacza odmianę, do której hodowca posiada prawo do ochrony i zarobkowego korzystania;
 - **5)** hodowla roślin – oznacza działalność zmierzającą do wytworzenia i zachowania odmian;
 - **6)** zachowanie odmiany – oznacza działalność zmierzającą do wytworzenia materiału siewnego tej odmiany, który zapewni jej charakterystyczne właściwości, wyrównanie i trwałość;
-- **7)** hodowca – oznacza osobę, która:
-    - **a)** wyhodowała albo odkryła i wyprowadziła odmianę albo
-    - **b)** jest lub była pracodawcą osoby, o której mowa w lit. a, albo zawarła umowę, w ramach której inna strona tej umowy wyhodowała albo odkryła i wyprowadziła odmianę, albo
-    - **c)** jest następcą prawnym osób, o których mowa w lit. a i b;
+- **7)** hodowca – oznacza osobę, która: wyhodowała albo odkryta i wyprowadziła odmianę albo jest lub była pracodawcą lub zleceniodawcą osoby, o której mowa w lit. a, albo jest następcą prawnym osób, o których mowa w lit. a i b;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **8)** materiał siewny – oznacza rośliny lub ich części przeznaczone do siewu, sadzenia, szczepienia, okulizacji lub innego sposobu rozmnażania roślin, w tym z zastosowaniem metod biotechnologii;
 - **9)** materiał ze zbioru – oznacza rośliny lub ich części uzyskane z uprawy określonej odmiany nieprzeznaczone do stosowania jako materiał siewny;
-- **10)** badanie odmiany – oznacza badanie odrębności, wyrównania i trwałości oraz ocenę odmiany w celu przyznania hodowcy wyłącznego prawa do tej odmiany;
+- **10)** badanie odmiany – oznacza badanie i ocenę odmiany w celu przyznania jej hodowcy ochrony prawnej do tej odmiany;
 - **11)** państwa stowarzyszone – oznacza państwa będące członkami Międzynarodowego Związku Ochrony Nowych Odmian Roślin (UPOV);
 - **12)** państwa członkowskie – oznacza państwa będące członkami Unii Europejskiej;
-- **13)** (uchylony)
-- **14)** przygotowanie do rozmnażania – oznacza czyszczenie, suszenie, kalibrowanie, zaprawianie lub otoczkowanie materiału siewnego lub materiału ze zbioru;
-- **15)** przetwórca – oznacza przedsiębiorcę zajmującego się świadczeniem usług w zakresie przygotowania do rozmnażania materiału siewnego lub materiału ze zbioru na materiał siewny;
-- **16)** wyłączne prawo – oznacza prawo hodowcy do ochrony wyhodowanej albo odkrytej i wyprowadzonej odmiany, a także do zarobkowego korzystania z niej.
+- **13)** państwa trzecie – oznacza państwa niebędące członkami Unii Europejskiej.
 
-2. Przepis ust. 1 pkt 7 lit. a nie dotyczy osób, które wyhodowały albo odkryły i wyprowadziły odmianę na podstawie umowy o pracę albo innej umowy, chyba że umowy te stanowią inaczej. ich następcy prawni, a także następcy prawni osoby, o której mowa w ust. 1 pkt 7 lit. b, wykonują łącznie uprawnienia hodowcy.
+2. Przepis ust. 1 pkt 7 lit. a nie dotyczy osób, które wyhodowały albo odkryty i wyprowadziły odmianę na podstawie umowy o pracę albo innej umowy, chyba że umowy te stanowią inaczej.
 
 **Art. 3.** Do postępowania w sprawach uregulowanych w ustawie stosuje się przepisy Kodeksu postępowania administracyjnego, chyba że przepisy ustawy stanowią inaczej.
 
@@ -67,7 +112,7 @@ source: "isap-pdf"
 
 **Art. 4.**
 
-1. Hodowca może ubiegać się o przyznanie wyłącznego prawa, jeżeli odmiana jest odrębna, wyrównana, trwała oraz nowa, a jej nazwa odpowiada wymaganiom, o których mowa w art. 9 ust. 1.
+1. Hodowca może ubiegać się o przyznanie prawa do ochrony wyhodowanej albo odkrytej i wyprowadzonej przez niego odmiany, a także zarobkowego korzystania z niej, zwanego dalej „wyłącznym prawem”, jeżeli odmiana jest odrębna, wyrównana, trwała oraz nowa, a jej nazwa odpowiada wymaganiom, o których mowa w art. 9 ust. 1.
 
 2. O przyznanie wyłącznego prawa może ubiegać się również osoba, która nabyła od hodowcy, na podstawie pisemnej umowy, prawa do wyhodowanej albo odkrytej i wyprowadzonej przez niego odmiany.
 
@@ -77,15 +122,15 @@ source: "isap-pdf"
 
 5. Wyłączne prawo jest dziedziczne oraz zbywalne w drodze umowy zawartej w formie pisemnej.
 
-6. Wyłącznego prawa nie przyznaje się, jeżeli odmiana została zgłoszona do ochrony albo jest chroniona przez Wspólnotowy Urząd Ochrony Odmian Roślin (CPVO).
-
-**Art. 4a.** Osoba, która wyhodowała albo odkryła i wyprowadziła odmianę w ramach umowy o pracę albo na podstawie innej umowy zawartej z hodowcą, ma prawo do wynagrodzenia za wszelkie zarobkowe korzystanie z odmiany, chyba że umowa zawarta z hodowcą stanowi inaczej.
+6. Wyłącznego prawa nie przyznaje się, jeżeli odmiana została zgłoszona do ochrony albo jest chroniona przez Wspólnotowe Biuro Odmian Roślin (CPVO).
 
 **Art. 5.**
 
 1. Odmianę uznaje się za odrębną, jeżeli w dniu złożenia wniosku o przyznanie wyłącznego prawa różni się ona w sposób wyraźny co najmniej jedną właściwością od innej odmiany powszechnie znanej.
 
 2. Centralny Ośrodek Badania Odmian Roślin Uprawnych, zwany dalej „Centralnym Ośrodkiem”, udostępnia hodowcy, na jego wniosek, pisemne informacje dotyczące właściwości odmiany, które będą brane pod uwagę przy ocenie jej odrębności.
+
+3. Odmianę uznaje się za powszechnie znaną, jeżeli:
 
 - **1)** został złożony wniosek o przyznanie wyłącznego prawa lub wniosek o wpis do rejestru odmian w Rzeczypospolitej Polskiej, w innym państwie członkowskim, stowarzyszonym lub trzecim;
 - **2)** jest chroniona lub wpisana do rejestru odmian w Rzeczypospolitej Polskiej, w innym państwie członkowskim, stowarzyszonym lub trzecim;
@@ -102,22 +147,23 @@ source: "isap-pdf"
 1. Odmianę uważa się za nową, jeżeli przed dniem złożenia wniosku o przyznanie wyłącznego prawa jej hodowca nie sprzedał albo w inny sposób nie udostępnił do wykorzystania, w celach handlowych, materiału siewnego lub materiału ze zbioru albo nie wyraził na to pisemnej zgody:
 
 - **1)** na terytorium Rzeczypospolitej Polskiej – przez okres dłuższy niż jeden rok,
-- **2)** w pozostałych państwach:
-    - **a)** przez okres dłuższy niż sześć lat – w przypadku drzew i winorośli,
-    - **b)** przez okres dłuższy niż cztery lata – w przypadku pozostałych odmian – licząc do dnia złożenia wniosku o przyznanie wyłącznego prawa.
+- **2)** w pozostałych państwach: przez okres dłuższy niż sześć lat – w przypadku drzew i winorośli, przez okres dłuższy niż cztery lata – w przypadku pozostałych odmian licząc do dnia złożenia wniosku o przyznanie wyłącznego prawa.
+    - **a)**
+    - **b)**
 
 2. Odmianę również uważa się za nową, jeżeli hodowca przed dniem złożenia wniosku o przyznanie wyłącznego prawa:
 
-- **1)** sprzedał albo w inny sposób udostępnił:
-    - **a)** materiał siewny odmiany podmiotom podległym lub nadzorowanym przez ministra właściwego do spraw rolnictwa, które w ramach swojej działalności statutowej prowadzą badania odmian, lub
-    - **b)** części roślin wytworzone w wyniku prac hodowlanych, rozmnożeniowych lub doświadczalnych, które nie są materiałem siewnym, zgodnie z Konwencją z dnia 22 listopada 1928 r. o wystawach międzynarodowych (Dz. U. z 1994 r. poz. 232);
+- **1)** sprzedał albo w inny sposób udostępnił: materiał siewny odmiany podmiotom podległym lub nadzorowanym przez ministra właściwego do spraw rolnictwa, które w ramach swojej działalności statutowej prowadzą badania odmian, lub części roślin wytworzone w wyniku prac hodowlanych, rozmnożeniowych lub doświadczalnych, które nie są materiałem siewnym, materiał siewny odmiany na międzynarodową wystawę organizowaną zgodnie z Konwencją z dnia 22 listopada 1928 r. o wystawach międzynarodowych (Dz. U. z 1961 r. Nr 14, poz. 76 oraz z 1968 r. Nr 42, poz. 293);
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **2)** udostępnił materiał siewny odmiany podmiotom w celu kontynuacji hodowli lub do przeprowadzenia badań, lub do doświadczeń, pod warunkiem że uzyskany z tego materiału materiał siewny pozostanie własnością tego hodowcy.
 
 3. Składniki odmiany mieszańcowej uważa się za nowe, jeżeli przed dniem złożenia wniosku o przyznanie wyłącznego prawa wytworzony z nich materiał siewny odmiany mieszańcowej nie został przez hodowcę sprzedany lub w inny sposób udostępniony w celach handlowych:
 
 - **1)** na terytorium Rzeczypospolitej Polskiej – przez okres dłuższy niż jeden rok,
-- **2)** w pozostałych państwach – przez okres dłuższy niż cztery lata – licząc do dnia złożenia wniosku o przyznanie wyłącznego prawa.
+- **2)** w pozostałych państwach – przez okres dłuższy niż cztery lata licząc do dnia złożenia wniosku o przyznanie wyłącznego prawa.
 
 **Art. 9.**
 
@@ -133,17 +179,19 @@ source: "isap-pdf"
 
 2. Jeżeli nazwa odmiany jest nieodpowiednia, Centralny Ośrodek wyznacza hodowcy 14-dniowy termin podania na piśmie propozycji innej nazwy.
 
-3. Jeżeli odmiana jest chroniona wyłącznym prawem pod określoną nazwą w innym państwie stowarzyszonym, to w Rzeczypospolitej Polskiej może być chroniona tylko pod tą samą nazwą.
+3. Jeżeli odmiana jest chroniona wyłącznym prawem w innym państwie stowarzyszonym, to w Rzeczypospolitej Polskiej może być chroniona pod tą samą nazwą.
 
-4. Obowiązek stosowania nazwy odmiany dotyczy każdego, kto jej materiał siewny lub materiał ze zbioru ocenia, oferuje do sprzedaży, zbywa, udostępnia, reklamuje lub udziela informacji dotyczących odmiany. a w przypadku skreślenia jej z księgi ochrony wyłącznego prawa – dopóki materiał siewny znajduje się w obrocie.
+4. Obowiązek stosowania nazwy odmiany dotyczy każdego, kto jej materiał siewny lub materiał ze zbioru ocenia, oferuje do sprzedaży, zbywa, udostępnia, reklamuje lub udziela informacji dotyczących odmiany.
+
+5. Nazwa odmiany podlega ochronie od dnia przyznania wyłącznego prawa, a w przypadku skreślenia jej z księgi ochrony wyłącznego prawa – dopóki materiał siewny znajduje się w obrocie.
 
 **Art. 10.**
 
 1. Przyznanie wyłącznego prawa następuje na wniosek hodowcy albo jego pełnomocnika.
 
-2. Pełnomocnikiem hodowcy może być osoba fizyczna, prawna albo jednostka organizacyjna nieposiadająca osobowości prawnej mająca miejsce zamieszkania albo siedzibę na terytorium Rzeczypospolitej Polskiej, innych państw członkowskich lub stowarzyszonych.
+2. Pełnomocnikiem hodowcy może być osoba fizyczna, prawna albo jednostka organizacyjna nieposiadająca osobości prawnej mająca miejsce zamieszkania albo siedzibę na terytorium Rzeczypospolitej Polskiej, innych państw członkowskich lub stowarzyszonych.
 
-3. Do czynności związanych z przyznaniem wyłącznego prawa hodowca mający miejsce zamieszkania albo siedzibę w państwie niebędącym państwem członkowskim lub państwem stowarzyszonym ustanawia pełnomocnika.
+3. Jeżeli hodowca ma miejsce zamieszkania albo siedzibę w państwie trzecim, to wniosek o przyznanie wyłącznego prawa składa jego pełnomocnik.
 
 **Art. 11.**
 
@@ -164,33 +212,18 @@ source: "isap-pdf"
 
 - **1)** upoważnienie do reprezentowania hodowcy we wszystkich sprawach związanych z przyznaniem wyłącznego prawa, jeżeli wniosek składa pełnomocnik hodowcy;
 - **2)** opis odmiany albo opis składników odmiany mieszańcowej (kwestionariusz techniczny);
-- **3)** (uchylony)
-- **4)** kopię dowodu uiszczenia opłaty za złożenie wniosku o przyznanie wyłącznego prawa do odmiany; z prawa pierwszeństwa, o którym mowa w art. 12 ust. 1.
+- **3)** informację o pochodzeniu, schemacie hodowli i strukturze odmiany;
+- **4)** kopię dowodu uiszczenia opłaty za złożenie wniosku o przyznanie wyłącznego prawa do odmiany.
 
-3a. Wniosek o przyznanie wyłącznego prawa, upoważnienie, o którym mowa w ust. 3 pkt 1, i kwestionariusz techniczny składa się na formularzach udostępnionych na stronie internetowej administrowanej przez Centralny Ośrodek.
+4. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, wzór wniosku o przyznanie wyłącznego prawa, wzór kwestionariusza technicznego, mając na względzie ujednolicenie postępowania w sprawie przyznania wyłącznego prawa.
 
-3b. Wniosek o przyznanie wyłącznego prawa i załączniki, o których mowa w ust. 3, można złożyć za pomocą systemu teleinformatycznego, o którym mowa w art. 11a ust. 1.
-
-4. (uchylony)
-
-5. Dane, o których mowa w ust. 3 pkt 2, nie mogą być udostępniane bez pisemnej zgody hodowcy.
+5. Dane, o których mowa w ust. 3 pkt 2 i 3, nie mogą być udostępniane bez pisemnej zgody hodowcy.
 
 6. Jeżeli wnioski o przyznanie wyłącznego prawa do tej samej odmiany mają tę samą datę wpływu, pierwszeństwo ma ten z wniosków, który wpłynął do Centralnego Ośrodka wcześniej, co potwierdza nadany każdemu z wniosków numer wpływu.
 
-**Art. 11a.**
-
-1. Dyrektor Centralnego Ośrodka buduje i utrzymuje system teleinformatyczny umożliwiający złożenie wniosku o przyznanie wyłącznego prawa i załączników, o których mowa w art. 11 ust. 3, administruje tym systemem i udostępnia go wnioskodawcy.
-
-2. System teleinformatyczny, o którym mowa w ust. 1, umożliwia wprowadzanie, przechowywanie, przetwarzanie i agregowanie informacji określonych w art. 11 ust. 2 i 3, w tym następujących danych osobowych:
-
-- **1)** imienia i nazwiska albo nazwy hodowcy oraz jego adresu i miejsca zamieszkania albo adresu siedziby;
-- **2)** imienia i nazwiska albo nazwy pełnomocnika hodowcy oraz jego adresu i miejsca zamieszkania albo adresu siedziby – w przypadku gdy wniosek o przyznanie wyłącznego prawa składa pełnomocnik hodowcy.
-
-3. Wprowadzenie przez wnioskodawcę lub osobę uprawnioną do jego reprezentowania informacji, o których mowa w ust. 2, w systemie teleinformatycznym, o którym mowa w ust. 1, następuje po uwierzytelnieniu w tym systemie w sposób określony w art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703).
-
 **Art. 12.**
 
-1. Hodowca, który złożył wniosek o przyznanie wyłącznego prawa w państwie stowarzyszonym, może ubiegać się, w okresie dwunastu miesięcy od dnia o uznanie jego pierwszeństwa do odmiany, zwanego dalej „prawem pierwszeństwa”.
+1. Hodowca, który złożył wniosek o przyznanie wyłącznego prawa w państwie stowarzyszonym, może ubiegać się, w okresie dwunastu miesięcy od dnia jego złożenia, o przyznanie w Rzeczypospolitej Polskiej wyłącznego prawa oraz o uznanie jego pierwszeństwa do odmiany, zwanego dalej „prawem pierwszeństwa”.
 
 2. Hodowca, który złożył w Rzeczypospolitej Polskiej wniosek o przyznanie wyłącznego prawa wraz z prawem pierwszeństwa, dostarcza, z zastrzeżeniem ust. 4, w ciągu trzech miesięcy od dnia złożenia tego wniosku, kopię wniosku złożonego w państwie stowarzyszonym wraz z kopią dokumentów dołączonych do tego wniosku.
 
@@ -200,22 +233,19 @@ source: "isap-pdf"
 
 **Art. 13.**
 
-1. Centralny Ośrodek ogłasza co dwa miesiące, w wydawanej przez siebie publikacji, zwanej dalej „diariuszem”, informacje dotyczące złożonych wniosków o przyznanie wyłącznego prawa i spełniających wymagania, o których mowa w art. 11, zawierające:
+1. Centralny Ośrodek ogłasza co dwa miesiące w wydawanej przez siebie publikacji, zwanej dalej „diariuszem”, informacje o złożonych wnioskach o przyznanie wyłącznego prawa, podając następujące dane:
 
 - **1)** imię i nazwisko albo nazwę hodowcy oraz jego adres i miejsce zamieszkania albo adres siedziby;
 - **2)** nazwę rodzaju lub gatunku odmiany w języku polskim i po łacinie;
 - **3)** proponowaną we wniosku nazwę odmiany;
-- **4)** datę złożenia wniosku;
-- **5)** numer kolejny wniosku;
-- **6)** dane o: ust. 5, dokumentację dołączoną do wniosku o przyznanie wyłącznego prawa oraz dokumentację dotyczącą badań odrębności, wyrównania i trwałości, o których mowa w art. 15 ust. 1.
-    - **a)** wycofanych wnioskach o przyznanie wyłącznego prawa,
-    - **b)** wydanych decyzjach w sprawie: – przyznania wyłącznego prawa, – odmowy przyznania wyłącznego prawa, – pozbawienia wyłącznego prawa, – stwierdzenia nieważności decyzji w sprawie przyznania wyłącznego prawa,
-    - **c)** zmianach hodowców i ich pełnomocników,
-    - **d)** rozstrzygnięciach odwołań od decyzji dyrektora Centralnego Ośrodka.
+- **4)** datę zgłoszenia wniosku;
+- **5)** numer kolejny wniosku.
+
+2. Centralny Ośrodek udostępnia hodowcom do wglądu, z zastrzeżeniem art. 11 ust. 5, dokumentację dołączoną do wniosku o przyznanie wyłącznego prawa oraz dokumentację dotyczącą badań odrębności, wyrównania i trwałości, o których mowa w art. 15 ust. 1.
 
 **Art. 14.**
 
-1. Hodowca, który złożył wniosek o przyznanie wyłącznego prawa, wykonuje tymczasowe wyłączne prawo od dnia opublikowania w diariuszu informacji dotyczących złożonego wniosku.
+1. Hodowca, który złożył wniosek o przyznanie wyłącznego prawa, korzysta z tymczasowego wyłącznego prawa od dnia opublikowania informacji o tym wniosku w diariuszu.
 
 2. Przepisy dotyczące wyłącznego prawa stosuje się odpowiednio do tymczasowego wyłącznego prawa.
 
@@ -233,17 +263,19 @@ source: "isap-pdf"
 
 5. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, niezbędną do przeprowadzenia badań OWT ilość materiału siewnego oraz terminy, w jakich materiał ten należy dostarczyć do Centralnego Ośrodka, biorąc pod uwagę biologiczne właściwości danego gatunku rośliny.
 
-6. (uchylony)
+6. Jeżeli hodowca nie dostarczył materiału siewnego odmiany do badań OWT w terminie, o którym mowa w ust. 5, wniosek o przyznanie wyłącznego prawa pozostawia się bez rozpatrzenia.
 
 **Art. 16.**
 
 1. Hodowca w czasie trwania badań OWT jest obowiązany:
 
-- **1)** umożliwić Centralnemu Ośrodkowi:
-    - **a)** przeprowadzenie kontroli zachowania odmiany,
-    - **b)** wgląd do dokumentów dotyczących zachowania odmiany;
+- **1)** umożliwić Centralnemu Ośrodkowi: przeprowadzenie kontroli zachowania odmiany, wgląd do dokumentów dotyczących zachowania odmiany;
+    - **a)**
+    - **b)**
 
-- **2)** udzielić, na wniosek Centralnego Ośrodka, pisemnych wyjaśnień i informacji niezbędnych do przeprowadzenia badań OWT. OWT jego odmiany, a po wydaniu decyzji o przyznaniu wyłącznego prawa hodowca otrzymuje raport końcowy z badań OWT.
+- **2)** udzielić, na wniosek Centralnego Ośrodka, pisemnych wyjaśnień i informacji niezbędnych do przeprowadzenia badań OWT.
+
+2. Hodowcy umożliwia się zapoznanie się z przebiegiem oraz wynikami badań OWT jego odmiany, a po wydaniu decyzji o przyznaniu wyłącznego prawa hodowca otrzymuje raport końcowy z badań OWT.
 
 **Art. 17.**
 
@@ -254,7 +286,7 @@ source: "isap-pdf"
 
 2. Centralny Ośrodek przed zleceniem wykonania badań OWT albo przed uznaniem wyników badań OWT przekazuje hodowcy, na piśmie, informację o wysokości kosztów związanych z tymi badaniami.
 
-3. (uchylony)
+3. Jeżeli hodowca, w terminie 30 dni od dnia otrzymania informacji o wysokości kosztów, o których mowa w ust. 2, nie dokona wpłaty na rachunek wskazany przez Centralny Ośrodek, wniosek o przyznanie wyłącznego prawa pozostaje bez rozpatrzenia.
 
 **Art. 18.**
 
@@ -275,46 +307,51 @@ source: "isap-pdf"
 
 2. Opłaty za badania OWT nie pobiera się, jeżeli hodowca poniósł koszty, o których mowa w art. 17 ust. 1.
 
-3. Minister właściwy do spraw rolnictwa, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, wysokość opłat, związane z prowadzeniem badań i przyznaniem wyłącznego prawa.
+3. Minister właściwy do spraw rolnictwa, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, wysokość opłat, o których mowa w ust. 1, sposób oraz termin ich uiszczenia, mając na względzie koszty związane z prowadzeniem badań i przyznaniem wyłącznego prawa.
 
 **Art. 20.**
 
 1. Po przeprowadzeniu badań OWT dyrektor Centralnego Ośrodka wydaje decyzję w sprawie przyznania wyłącznego prawa.
 
-2. Jeżeli odmianę wspólnie wytworzyło lub odkryło i wyprowadziło dwóch lub więcej hodowców, wyłączne prawo przyznaje się im łącznie.
+2. Jeżeli odmianę wspólnie wytworzyło lub odkryto i wyprowadziło dwóch lub więcej hodowców, wyłączne prawo przyznaje się im łącznie.
 
-3. Dyrektor Centralnego Ośrodka odmawia, w drodze decyzji, przyznania wyłącznego prawa, jeżeli:
-
-- **1)** odmiana nie spełnia warunków, o których mowa w art. 4 ust. 1, lub
-- **2)** hodowca, który ubiega się o przyznanie wyłącznego prawa:
-    - **a)** nie dostarczył materiału siewnego do Centralnego Ośrodka w celu przeprowadzenia badań OWT w terminie określonym w przepisach wydanych na podstawie art. 15 ust. 5 lub
-    - **b)** nie uiścił należnych opłat za badania OWT.
+3. Dyrektor Centralnego Ośrodka odmawia, w drodze decyzji, przyznania wyłącznego prawa, jeżeli odmiana nie spełnia warunków, o których mowa w art. 4 ust. 1.
 
 4. Od decyzji w sprawie przyznania wyłącznego prawa przysługuje odwołanie do ministra właściwego do spraw rolnictwa.
 
 **Art. 21.** Wyłączne prawo obejmuje:
 
+- **1)** wytwarzanie lub rozmnażanie,
+- **2)** przygotowanie do rozmnażania,
+- **3)** oferowanie do sprzedaży,
+- **4)** sprzedaż lub inne formy zbywania,
+- **5)** eksport,
+- **6)** import,
+- **7)** przechowywanie materiału siewnego odmiany chronionej.
+
 **Art. 22.**
 
 1. Wyłączne prawo obejmuje również:
 
-- **1)** materiał ze zbioru lub produkty wytworzone bezpośrednio z tego materiału, jeżeli hodowca nie miał możliwości wykonywania wyłącznego prawa w odniesieniu do materiału siewnego odmiany chronionej;
-- **2)** materiał siewny roślin ozdobnych i sadowniczych, jeżeli jest on ponownie używany w celach zarobkowych jako:
-    - **a)** materiał rozmnożeniowy do produkcji roślin ozdobnych albo
-    - **b)** kwiat cięty, albo
-    - **c)** materiał siewny drzew, krzewów i bylin;
-    - **a)** pochodne, odkryte lub wytworzone z chronionej odmiany macierzystej niebędącej odmianą pochodną,
-    - **b)** które nie różnią się wyraźnie od odmiany chronionej,
-    - **c)** w przypadku których wytworzenie materiału siewnego wymaga powtarzalnego używania odmiany chronionej wyłącznym prawem.
+- **1)** materiał ze zbioru oraz produkty wytworzone bezpośrednio z tego materiału, jeżeli hodowca nie miał możliwości wykonywania wyłącznego prawa w odniesieniu do materiału siewnego odmiany chronionej;
+- **2)** materiał siewny roślin ozdobnych i sadowniczych, jeżeli jest on ponownie używany w celach zarobkowych jako: materiał rozmnożeniowy do produkcji roślin ozdobnych albo kwiat cięty, albo materiał siewny drzew, krzewów i bylin;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **3)** odmiany: pochodne, odkryte lub wytworzone z chronionej odmiany macierzystej niebędącej odmianą pochodną, które nie różnią się wyraźnie od odmiany chronionej, w przypadku których wytworzenie materiału siewnego wymaga powtarzalnego używania odmiany chronionej wyłącznym prawem.
+    - **a)**
+    - **b)**
+    - **c)**
 
 2. Odmianę uznaje się za pochodną od odmiany macierzystej, jeżeli jest ona odrębna od odmiany macierzystej oraz jeżeli:
 
 - **1)** pochodzi z odmiany macierzystej lub z innej odmiany pochodnej od tej samej odmiany macierzystej i zachowuje właściwości wynikające z genotypu lub kombinacji genotypów odmiany macierzystej;
-- **2)** jej właściwości są zgodne z istotnymi właściwościami odmiany macierzystej wynikającymi z jej genotypu bądź kombinacji genotypów, z wyjątkiem różnic, które wynikają ze stosowania metod hodowlanych polegających na:
-    - **a)** selekcji naturalnych bądź indukowanych mutantów,
-    - **b)** selekcji nowych form w odmianach macierzystych,
-    - **c)** stosowaniu krzyżowań wstecznych,
-    - **d)** inżynierii genetycznej.
+- **2)** jej właściwości są zgodne z istotnymi właściwościami odmiany macierzystej wynikającymi z jej genotypu bądź kombinacji genotypów, z wyjątkiem różnic, które wynikają ze stosowania metod hodowlanych polegających na: selekcji naturalnych bądź indukowanych mutantów, selekcji nowych form w odmianach macierzystych, stosowaniu krzyżowań wstecznych, inżynierii genetycznej.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 3. Przepisów ust. 1 i art. 21 nie stosuje się do materiału siewnego i materiału ze zbioru przeznaczonego:
 
@@ -324,122 +361,45 @@ source: "isap-pdf"
 
 **Art. 23.**
 
-1. Posiadacz gruntów rolnych może, za opłatą uiszczaną na rzecz hodowcy, używać materiału ze zbioru jako materiału siewnego odmiany chronionej wyłącznym prawem, jeżeli materiał ten uzyskał w posiadanym gospodarstwie rolnym i użyje go na terenie tego gospodarstwa rolnego.
+1. Posiadacz gruntów rolnych może, z zastrzeżeniem ust. 3 i 4, za opłatą uiszczaną na rzecz hodowcy, używać materiału ze zbioru jako materiału siewnego odmiany chronionej wyłącznym prawem, z wyjątkiem odmian mieszańcowych i odmian powstałych ze swobodnego krzyżowania się określonych linii gatunków obcopylnych (odmian syntetycznych).
 
-2. Prawo do używania materiału ze zbioru jako materiału, o którym mowa w ust. 1:
+2. Prawo do używania materiału ze zbioru, o którym mowa w ust. 1, dotyczy materiału siewnego odmian następujących roślin:
 
-- **1)** dotyczy materiału siewnego następujących roślin:
-    - **a)** bobiku,
-    - **b)** grochu siewnego,
-    - **c)** jęczmienia,
-    - **d)** kukurydzy,
-    - **f)** lucerny siewnej,
-    - **g)** łubinu wąskolistnego,
-    - **h)** łubinu żółtego,
-    - **i)** owsa,
-    - **j)** pszenicy twardej,
-    - **k)** pszenicy zwyczajnej,
-    - **l)** pszenżyta,
-    - **m)** rzepaku,
-    - **n)** rzepiku,
-    - **o)** wyki siewnej,
-    - **p)** żyta,
-    - **q)** ziemniaka,
-    - **r)** soi;
+- **1)** pszenicy zwyczajnej;
+- **2)** żyta;
+- **3)** jęczmienia;
+- **4)** pszenżyta;
+- **5)** owsa;
+- **6)** rzepaku ozimego;
+- **7)** ziemniaka.
 
-- **2)** nie dotyczy odmian mieszańcowych i odmian powstałych ze swobodnego krzyżowania się linii gatunków obcopylnych (odmian syntetycznych).
+3. Posiadacz gruntów rolnych o powierzchni do 5 ha może używać materiału ze zbioru jako materiału siewnego odmian, o których mowa w ust. 2, bez konieczności uiszczania, z zastrzeżeniem ust. 4, opłaty na rzecz hodowcy.
 
-3. Bez uiszczania opłaty, o której mowa w ust. 1, materiału ze zbioru jako materiału siewnego odmiany chronionej wyłącznym prawem mogą używać posiadacze gruntów rolnych o powierzchni:
+4. Posiadacz, o którym mowa w ust. 3, uiszcza opłatę na rzecz hodowcy, jeżeli stosuje materiał ze zbioru jako materiał siewny bardzo wczesnych lub wczesnych odmian ziemniaka na powierzchni powyżej 1 ha, a w przypadku pozostałych odmian ziemniaka na powierzchni powyżej 2 ha.
 
-- **1)** do 10 ha – w przypadku odmiany chronionej wyłącznym prawem będącej odmianą roślin, o których mowa w ust. 2 pkt 1 lit. q;
-- **2)** do 25 ha – w przypadku odmiany chronionej wyłącznym prawem będącej odmianą roślin, o których mowa w ust. 2 pkt 1 lit. a–p oraz r.
+5. Przepisów ust. 3 i 4 nie stosuje się, jeżeli odmiana jest chroniona przez Wspólnotowe Biuro Odmian Roślin (CPVO).
 
-3a. Hodowca, który nie pobiera opłaty, o której mowa w ust. 1, ogłasza na swojej stronie internetowej lub na stronie internetowej organizacji hodowców informację zawierającą wskazanie:
-
-- **1)** odmiany chronionej wyłącznym prawem, w odniesieniu do której nie pobiera tej opłaty;
-- **2)** okresu, przez jaki nie pobiera tej opłaty.
-
-3b. Posiadacz gruntów rolnych może używać materiału ze zbioru jako materiału siewnego odmiany chronionej wyłącznym prawem bez uiszczania opłaty, o której mowa w ust. 1, w zakresie wskazanym w informacji, o której mowa w ust. 3a.
-
-4. Wysokość opłaty, o której mowa w ust. 1, sposób oraz termin jej uiszczenia są ustalane w umowie zawartej między:
+6. Z zastrzeżeniem ust. 7, wysokość opłaty, o której mowa w ust. 1, jest ustalana w drodze umowy między:
 
 - **1)** hodowcą a posiadaczem gruntów rolnych albo
+- **2)** hodowcą a organizacją reprezentującą posiadaczy gruntów rolnych, albo
 - **3)** organizacją hodowców a posiadaczem gruntów rolnych, albo
-- **4)** organizacją hodowców a organizacją reprezentującą posiadaczy gruntów rolnych – z tym że wysokość opłaty nie powinna przekraczać wysokości opłaty licencyjnej za daną kategorię materiału siewnego, ustalonej przez hodowcę tego materiału.
+- **4)** organizacją hodowców a organizacją reprezentującą posiadaczy gruntów rolnych oraz powinna być niższa niż wysokość opłaty licencyjnej za daną kategorię materiału siewnego, ustalona przez hodowcę tego materiału.
 
-4a. Hodowca, który pobiera opłatę, o której mowa w ust. 1, jednorazowo przy zakupie materiału siewnego, informację w tym zakresie ogłasza na swojej stronie internetowej lub na stronie internetowej organizacji hodowców.
+7. Jeżeli umowa nie została zawarta, to opłata uiszczana na rzecz hodowcy wynosi 50% opłaty licencyjnej za daną kategorię materiału siewnego, ustalonej przez hodowcę tego materiału.
 
-5. Jeżeli umowa, o której mowa w ust. 4, nie została zawarta, to opłata uiszczana na rzecz hodowcy:
+8. Posiadacz gruntów rolnych albo jednostka świadcząca usługi w zakresie, o którym mowa w art. 21, albo organizacje ich reprezentujące są obowiązani do przekazywania hodowcom albo ich organizacjom pisemnych informacji o ilości materiału siewnego uzyskanego z materiału ze zbioru.
 
-- **1)** wynosi 50% opłaty licencyjnej za daną kategorię materiału siewnego, ustalonej w danym roku przez hodowcę tego materiału;
-- **2)** powinna być uiszczona w terminie 30 dni od dnia wykorzystania materiału ze zbioru, o którym mowa w ust. 2 pkt 1, jako materiału siewnego odmiany chronionej wyłącznym prawem.
-
-6. Jeżeli posiadacz gruntów rolnych nie uiszcza opłaty, o której mowa w ust. 1, hodowca może żądać od niego zapłaty odsetek ustawowych za opóźnienie za każdy dzień zwłoki.
-
-7. Organizacja hodowców może pobierać opłatę, o której mowa w ust. 1, na rzecz hodowcy, który jest jej członkiem, po zawarciu umowy z tym hodowcą.
-
-8. Umowa, o której mowa w ust. 7, zawiera w szczególności:
-
-- **1)** oznaczenie stron umowy;
-- **2)** czas trwania umowy;
-- **3)** upoważnienie do pobierania przez organizację hodowców opłaty, o której mowa w ust. 1, na rzecz hodowcy;
-- **4)** wskazanie odmian roślin, do których hodowcy przysługuje wyłączne prawo, za które ma być pobierana przez organizację hodowców opłata, o której mowa w ust. 1, na rzecz hodowcy;
-- **5)** sposób i termin rozliczenia pobranej przez organizację hodowców opłaty, o której mowa w ust. 1, na rzecz hodowcy.
-
-**Art. 23a.** (uchylony)
-
-**Art. 23b.**
-
-1. Przetwórca albo organizacja przetwórców przekazuje hodowcy albo organizacji hodowców, na ich wniosek, pisemną informację dotyczącą usługi przygotowania do rozmnażania materiału ze zbioru, o którym mowa w art. 23 ust. 2 30 dni od dnia otrzymania wniosku.
-
-2. Wniosek, o którym mowa w ust. 1, zawiera co najmniej:
-
-- **1)** imię i nazwisko oraz adres miejsca zamieszkania hodowcy albo nazwę i adres siedziby hodowcy albo organizacji hodowców;
-- **2)** wskazanie:
-    - **a)** odmiany lub odmian, w odniesieniu do których hodowca albo organizacja hodowców wnioskują o udzielenie informacji, o której mowa w ust. 1,
-    - **b)** wysokości opłaty licencyjnej dla poszczególnych odmian roślin, o których mowa w lit. a.
-
-3. Sposób oraz zakres udzielania informacji, o której mowa w ust. 1, są ustalane w umowie zawartej między przetwórcą albo organizacją przetwórców a hodowcą albo organizacją hodowców.
-
-4. Jeżeli umowa określona w ust. 3 nie została zawarta, informacja, o której mowa w ust. 1, zawiera:
-
-- **1)** imię i nazwisko oraz adres miejsca zamieszkania albo nazwę i adres siedziby przetwórcy;
-- **2)** oświadczenie przetwórcy o wykonaniu usługi przygotowania do rozmnażania materiału ze zbioru, o którym mowa w art. 23 ust. 2 pkt 1, na materiał siewny – w odniesieniu do odmiany lub odmian, do których hodowcy przysługuje wyłączne prawo, wraz ze wskazaniem daty wykonania tej usługi;
-- **3)** wskazanie ilości materiału ze zbioru, o którym mowa w art. 23 ust. 2 pkt 1, co do której przetwórca wykonał usługę przygotowania do rozmnażania na materiał siewny, oraz ilości uzyskanego w ten sposób materiału siewnego;
-- **4)** imię i nazwisko oraz adres miejsca zamieszkania albo nazwę i adres siedziby posiadacza gruntów rolnych, dla którego przetwórca wykonał usługę przygotowania do rozmnażania materiału ze zbioru, o którym mowa w art. 23 ust. 2 pkt 1, na materiał siewny.
-
-**Art. 23c.**
-
-1. Hodowcy albo organizacji hodowców przysługuje prawo kontroli zgodności ze stanem faktycznym uzyskanej informacji, o której mowa w art. 23b ust. 1.
-
-2. Sposób oraz zakres przeprowadzania kontroli, o której mowa w ust. 1, są ustalane w umowie zawartej między hodowcą albo organizacją hodowców a:
-
-- **1)** (uchylony)
-- **2)** (uchylony)
-- **3)** przetwórcą;
-
-3. Jeżeli umowa określona w ust. 2 nie została zawarta, kontrolę przeprowadza hodowca albo organizacja hodowców, albo osoba upoważniona na podstawie pełnomocnictwa przez hodowcę albo organizację hodowców.
-
-4. W celu przeprowadzenia kontroli:
-
-- **1)** (uchylony)
-- **2)** przetwórca:
-    - **a)** udostępnia, na żądanie przeprowadzającego kontrolę, dokumenty: – dotyczące wykonanych przez niego usług przygotowania do rozmnażania materiału ze zbioru, o którym mowa w art. 23 ust. 2 pkt 1, na materiał siewny, – zawierające wskazanie ilości materiału ze zbioru, o którym mowa w art. 23 ust. 2 pkt 1, co do której przetwórca wykonał usługę przygotowania do rozmnażania na materiał siewny, oraz ilości uzyskanego w ten sposób materiału siewnego,
-    - **b)** jest obowiązany umożliwić przeprowadzającemu kontrolę wstęp do pomieszczeń i urządzeń przetwórczych lub magazynowych.
-
-5. Z przeprowadzonej kontroli przeprowadzający kontrolę sporządza protokół.
-
-6. Protokół podpisują przeprowadzający kontrolę oraz przetwórca.
-
-7. W przypadku odmowy albo braku możliwości podpisania protokołu przez przetwórcę, protokół podpisuje przeprowadzający kontrolę i dokonuje w protokole adnotacji o tej odmowie albo o przyczynach uniemożliwiających podpisanie tego protokołu.
+9. Przepisu ust. 8 nie stosuje się do posiadacza gruntów rolnych o powierzchni do 5 ha, chyba że posiadacz gruntów rolnych stosuje materiał ze zbioru jako materiał siewny bardzo wczesnych odmian ziemniaka na powierzchni powyżej 1 ha, a w przypadku wczesnych odmian ziemniaka na powierzchni powyżej 2 ha.
 
 **Art. 24.** Po przyznaniu wyłącznego prawa hodowca jest obowiązany:
 
-**Art. 25.**
+- **1)** zachowywać odmianę;
+- **2)** dostarczać Centralnemu Ośrodkowi bezpłatnie materiał siewny odmiany, jak również materiał siewny składników używanych do wytwarzania odmiany, w ilościach niezbędnych do przeprowadzenia badań OWT;
+- **3)** udzielać, na wniosek Centralnego Ośrodka, informacji i wyjaśnień dotyczących odmiany;
+- **4)** umożliwiać Centralnemu Ośrodkowi wgląd do dokumentacji dotyczącej odmiany.
 
-1. Każdy, kto korzysta z materiału siewnego odmiany chronionej wyłącznym prawem, jest obowiązany, na wniosek hodowcy posiadającego wyłączne prawo do tej odmiany, udzielać mu pisemnych informacji dotyczących ilości materiału licencyjnej za korzystanie z wyłącznego prawa do danej odmiany.
-
-2. Posiadacz gruntów rolnych oraz organizacja reprezentująca posiadaczy gruntów rolnych są zwolnieni z obowiązku udzielania informacji, o którym mowa w ust. 1, w zakresie wykorzystania materiału ze zbioru, o którym mowa w art. 23 ust. 2 pkt 1, jako materiału siewnego.
+**Art. 25.** Każdy, kto korzysta z materiału siewnego odmiany chronionej wyłącznym prawem, jest obowiązany, na wniosek hodowcy posiadającego wyłączne prawo do tej odmiany, udzielać mu pisemnych informacji dotyczących ilości materiału siewnego odmiany chronionej oraz uiścić na rzecz hodowcy opłatę w wysokości opłaty licencyjnej za korzystanie z wyłącznego prawa do danej odmiany.
 
 **Art. 26.**
 
@@ -454,7 +414,7 @@ source: "isap-pdf"
 - **1)** 30 lat – w przypadku odmian winorośli, drzew oraz ziemniaka;
 - **2)** 25 lat – w przypadku pozostałych odmian.
 
-2. Jeżeli hodowca odmiany chronionej wyłącznym prawem w Rzeczypospolitej Polskiej uzyska wspólnotowe wyłączne prawo do tej odmiany, to w okresie wykonywania tego prawa nie może wykonywać wyłącznego prawa uzyskanego w Rzeczypospolitej Polskiej.
+2. Jeżeli hodowca odmiany chronionej wyłącznym prawem w Rzeczypospolitej Polskiej uzyska wspólnotowe wyłączne prawo do odmiany, to wyłączne prawo uzyskane w Rzeczypospolitej Polskiej zostanie zawieszone na okres, przez który hodowca będzie korzystał ze wspólnotowego wyłącznego prawa, nie dłużej jednak niż na czas trwania wyłącznego prawa w Rzeczypospolitej Polskiej.
 
 **Art. 28.**
 
@@ -463,7 +423,7 @@ source: "isap-pdf"
 - **1)** materiał siewny,
 - **2)** materiał ze zbioru,
 - **3)** produkty bezpośrednio wytworzone z materiału ze zbioru,
-- **4)** odmiany, o których mowa w art. 22 ust. 1 pkt 3 – zostaną przez hodowcę lub za jego pisemną zgodą sprzedane lub zbyte w inny sposób.
+- **4)** odmiany, o których mowa w art. 22 ust. 1 pkt 3 zostaną przez hodowcę lub za jego pisemną zgodą sprzedane lub zbyte w inny sposób.
 
 2. Wyłączne prawo nie wygasa, jeżeli nabywca materiału siewnego:
 
@@ -476,12 +436,13 @@ source: "isap-pdf"
 
 - **1)** na jego wniosek;
 - **2)** jeżeli odmiana nie spełnia wymagań dotyczących wyrównania lub trwałości;
-    - **a)** nie zachowuje odmiany,
-    - **b)** zalega ponad 6 miesięcy z uiszczaniem opłat, o których mowa w art. 19 ust. 1,
-    - **c)** uniemożliwia przeprowadzenie kontroli zachowania odmiany i sprawdzenie dokumentacji dotyczącej zachowania odmiany,
-    - **d)** nie udziela informacji i wyjaśnień niezbędnych do przeprowadzenia badań OWT,
-    - **e)** nie dostarczył bezpłatnie materiału siewnego w ilości niezbędnej do przeprowadzenia badań OWT,
-    - **f)** nie nadał odmianie nowej nazwy, w przypadku gdy nazwa odmiany wpisanej do księgi ochrony wyłącznego prawa, o której mowa w art. 36 ust. 1, nie spełnia wymagań wymienionych w art. 9 ust. 1.
+- **3)** jeżeli hodowca: nie zachowuje odmiany, zalega ponad 6 miesięcy z uiszczaniem opłat, o których mowa w art. 19 ust. 1, uniemożliwia przeprowadzenie kontroli zachowania odmiany i sprawdzenie dokumentacji dotyczącej zachowania odmiany, nie udziela informacji i wyjaśnień niezbędnych do przeprowadzenia badań OWT, nie dostarczył bezpłatnie materiału siewnego w ilości niezbędnej do przeprowadzenia badań OWT, nie nadał odmianie nowej nazwy, w przypadku gdy nazwa odmiany wpisanej do księgi ochrony wyłącznego prawa, o której mowa w art. 36 ust. 1, nie spełnia wymagań wymienionych w art. 9 ust. 1.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
 
 2. Od decyzji w sprawie pozbawienia hodowcy wyłącznego prawa przysługuje odwołanie do ministra właściwego do spraw rolnictwa.
 
@@ -499,7 +460,7 @@ source: "isap-pdf"
 
 **Art. 31.**
 
-1. Jeżeli hodowca posiadający wyłączne prawo do danej odmiany nie wprowadza jej materiału siewnego lub materiału ze zbioru do obrotu, a wymaga tego ważny interes gospodarczy, minister właściwy do spraw rolnictwa może udzielić, wprowadził do obrotu materiału siewnego lub materiału ze zbioru wskutek działania siły wyższej.
+1. Jeżeli hodowca posiadający wyłączne prawo do danej odmiany nie wprowadza jej materiału siewnego lub materiału ze zbioru do obrotu, a wymaga tego ważny interes gospodarczy, minister właściwy do spraw rolnictwa może udzielić, w drodze decyzji, licencji przymusowej innemu podmiotowi, chyba że hodowca nie wprowadził do obrotu materiału siewnego lub materiału ze zbioru wskutek działania siły wyższej.
 
 2. Licencja przymusowa może być również udzielona, jeżeli ubiegający się o nią wykaże, że:
 
@@ -529,7 +490,14 @@ source: "isap-pdf"
 
 4. Do wniosku o udzielenie licencji przymusowej dołącza się oświadczenie o posiadanych środkach trwałych i wyposażeniu służącym do rozmnożenia odmiany wraz z ich opisem.
 
-**Art. 33.** Licencja przymusowa zawiera: adres i miejsce zamieszkania albo adres siedziby;
+**Art. 33.** Licencja przymusowa zawiera:
+
+- **1)** imię i nazwisko albo nazwę osoby, która otrzymała licencję przymusową, oraz jej adres i miejsce zamieszkania albo adres siedziby;
+- **2)** imię i nazwisko albo nazwę hodowcy oraz jego adres i miejsce zamieszkania albo adres siedziby;
+- **3)** określenie gatunku w języku polskim i po łacinie oraz nazwę odmiany;
+- **4)** określenie okresu ważności licencji;
+- **5)** określenie wysokości wynagrodzenia dla hodowcy;
+- **6)** określenie ilości materiału siewnego potrzebnej do rozmnożenia odmiany w celu wprowadzenia jej do obrotu.
 
 **Art. 34.**
 
@@ -552,91 +520,39 @@ source: "isap-pdf"
 
 - **1)** 2 lata – w przypadku odmian jednorocznych albo
 - **2)** 3 lata – w przypadku odmian dwuletnich, albo
-- **3)** 5 lat – w przypadku odmian wieloletnich. dalej „księgą”, oraz spis odmian, odnośnie do których złożono wnioski o przyznanie wyłącznego prawa, zwany dalej „spisem”.
+- **3)** 5 lat – w przypadku odmian wieloletnich.
 
-2. Księga jest wykazem chronionych odmian i ich hodowców oraz licencjobiorców, którzy otrzymali licencję przymusową.
+**Art. 36.**
 
-3. Spis jest wykazem odmian zgłoszonych do ochrony wyłącznego prawa oraz hodowców, którym przyznano tymczasowe wyłączne prawo.
+1. Centralny Ośrodek prowadzi księgę ochrony wyłącznego prawa, zwaną dalej „księgą”, oraz spis odmian, odnośnie do których złożono wnioski o przyznanie wyłącznego prawa, zwany dalej „spisem”.
 
-4. Odmiana wpisana do spisu albo księgi otrzymuje numer, który składa się z kolejnego numeru w spisie albo w księdze oraz wielkiej litery określającej daną grupę roślin.
+2.
 
-5. Numer odmiany w spisie jest poprzedzony dodatkowo wielką literą T, która oznacza, że odmianie przyznano tymczasowe wyłączne prawo.
-
-6. Dla poszczególnych grup roślin ustala się następujące oznaczenia literowe:
-
-- **1)** R – rośliny rolnicze;
-- **2)** W – rośliny warzywne;
-- **3)** S – rośliny sadownicze;
-- **4)** L – rośliny leśne;
-- **5)** O – rośliny ozdobne;
-- **6)** P – rośliny pozostałe.
-
-7. W księdze wpisuje się:
-
-- **1)** imię i nazwisko albo nazwę hodowcy oraz jego adres i miejsce zamieszkania albo adres siedziby;
-- **2)** nazwę gatunku w języku polskim i po łacinie oraz nazwę odmiany;
-- **3)** datę przyznania i ustania wyłącznego prawa;
-- **4)** oznaczenie kraju hodowcy;
-- **5)** informację wskazującą, czy odmiana jest genetycznie zmodyfikowana.
-
-8. W spisie wpisuje się:
-
-- **1)** imię i nazwisko albo nazwę hodowcy oraz jego adres i miejsce zamieszkania albo adres siedziby;
-- **2)** nazwę gatunku w języku polskim i po łacinie oraz nazwę odmiany;
-- **3)** datę przyznania i ustania tymczasowego wyłącznego prawa;
-- **4)** oznaczenie kraju hodowcy;
-- **5)** informację wskazującą, czy odmiana jest genetycznie zmodyfikowana. Dochodzenie roszczeń w postępowaniu cywilnym
-
-**Art. 36a.**
-
-1. Hodowca, którego wyłączne prawo zostało naruszone, może żądać od osoby, która naruszyła to prawo:
-
-- **1)** zaniechania naruszania;
-- **2)** usunięcia skutków naruszenia;
-- **3)** naprawienia wyrządzonej szkody:
-    - **a)** na zasadach ogólnych albo
-    - **b)** poprzez zapłatę sumy pieniężnej w wysokości odpowiadającej opłacie licencyjnej, która w chwili jej dochodzenia byłaby należna tytułem udzielenia przez hodowcę licencji, a w razie zawinionego naruszenia w wysokości odpowiadającej wielokrotności tego wynagrodzenia, jednak nie wyższej niż jej trzykrotność;
-
-- **4)** wydania uzyskanych korzyści.
-
-2. Niezależnie od roszczeń, określonych w ust. 1, hodowca może się domagać jednokrotnego albo wielokrotnego ogłoszenia w prasie oświadczenia odpowiedniej treści i w odpowiedniej formie lub podania do publicznej wiadomości części albo całości orzeczenia sądu wydanego w rozpatrywanej sprawie, w sposób i w zakresie określonym przez sąd.
-
-3. Sąd może nakazać osobie, która naruszyła wyłączne prawo, na jej wniosek i za zgodą hodowcy, w przypadku gdy naruszenie jest niezawinione, zapłatę stosownej sumy pieniężnej na rzecz hodowcy, jeżeli zaniechanie naruszania lub usunięcie skutków naruszenia byłoby dla osoby naruszającej niewspółmiernie dotkliwe.
-
-4. Sąd, rozstrzygając o naruszeniu prawa, może orzec na wniosek hodowcy o bezprawnie wytworzonym materiale siewnym lub materiale ze zbioru oraz środkach i materiałach użytych do ich wytworzenia, w szczególności może orzec o ich wycofaniu z obrotu, przyznaniu hodowcy na poczet należnego odszkodowania lub zniszczeniu. Orzekając, sąd uwzględnia wagę naruszenia oraz interesy osób trzecich.
-
-5. Domniemywa się, że środki i materiały, o których mowa w ust. 4, są własnością osoby, która naruszyła wyłączne prawo.
-
-**Art. 36b.**
-
-1. W sprawach dotyczących roszczeń cywilnoprawnych z zakresu ochrony wyłącznego prawa, nienależących do kompetencji innych organów, sąd rozpoznaje wniosek o:
-
-- **1)** zabezpieczenie środka dowodowego;
-- **3)** wezwanie do udzielenia informacji.
-
-2. Sprawy, o których mowa w ust. 1, są rozstrzygane w postępowaniu w sprawach własności intelektualnej.
-
-3. (uchylony)
-
-4. (uchylony)
-
-5. (uchylony)
-
-6. (uchylony)
+# Księga jest wykazem chronionych odmian i ich hodowców oraz licencjobiorców, którzy otrzymali licencję przymusową.
 
 #### Rozdział 3 Przepisy karne
 
-**Art. 37.** Kto:
+**Art. 37.**
 
-**Art. 37a.** Kto:
+1. Kto:
 
-**Art. 37b.** Orzekanie w sprawach określonych w art. 37a następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.
+- **1)** narusza wyłączne prawo hodowcy do odmiany,
+- **2)** oznacza nazwą odmiany chronionej wyłącznym prawem materiał siewny lub materiał ze zbioru innej lub nieznanej odmiany,
+- **3)** uniemożliwia przeprowadzenie kontroli zachowania odmiany,
+- **4)** uniemożliwia wgląd do dokumentów dotyczących zachowania odmiany,
+- **5)** nie dostarcza materiału siewnego odmiany Centralnemu Ośrodkowi do badań OWT albo podmiotowi, któremu przyznano licencję przymusową, albo dostarcza go w ilości niewystarczającej lub po ustalonym terminie,
+- **6)** nie udziela na wniosek hodowcy, którego odmiana jest chroniona wyłącznym prawem, pisemnych informacji dotyczących ilości materiału siewnego odmiany chronionej,
+- **7)** nie uiszcza opłaty na rzecz hodowcy za korzystanie z materiału siewnego odmiany chronionej podlega karze grzywny.
+
+2. Orzekanie w sprawach określonych w ust. 1 następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.
 
 #### Rozdział 4 Przepisy przejściowe i końcowe
 
 **Art. 38.** Licencje przymusowe wydane na podstawie przepisów dotychczasowych zachowują ważność przez okres, na jaki zostały wydane.
 
-**Art. 39.** Księga i spis, prowadzone na podstawie przepisów dotychczasowych, z dniem wejścia w życie ustawy stają się odpowiednio księgą i spisem w rozumieniu ustawy.
+**Art. 39.**
 
-**Art. 40.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej .
+# Księga i spis, prowadzone na podstawie przepisów dotychczasowych, z dniem wejścia w życie ustawy stają się odpowiednio księgą i spisem w rozumieniu ustawy.
+
+**Art. 40.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
 

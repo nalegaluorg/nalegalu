@@ -8,10 +8,10 @@ pos: 374
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 marca 2013 r.
+# Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiejz dnia 15 marca 2013 r. w sprawie szczegółowych wymagań dotyczących programów ochrony w lotnictwie cywilnym
 
 | Pole | Wartość |
 |---|---|
@@ -22,449 +22,916 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2013-03-15 |
 | Data wydania | 2013-03-19 |
+| Wejście w życie | 2013-03-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000374) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/374/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA TRANSPORTU, BUDOWNICTWA I GOSPODARKI MORSKIEJ z dnia 15 marca 2013 r.
-w sprawie szczegółowych wymagań dotyczących programów ochrony w lotnictwie cywilnym Na podstawie art. 189 ust. 1 ustawy z dnia 3 lipca 2002 r. Prawo lotnicze (Dz. U. z 2012 r. poz. 933, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowe wymagania dotyczące programów ochrony lotnisk, przewoźników lotniczych, instytucji zapewniających służby żeglugi powietrznej, zarejestrowanego agenta oraz innych podmiotów prowadzących działalność lotniczą, zwanych dalej „programami ochrony”.
-§ 2. Programy ochrony uwzględniają istniejący stan faktyczny w zakresie ochrony lotnictwa cywilnego, aktualne zagrożenia dla lotnictwa cywilnego oraz obowiązujące przepisy dotyczące ochrony lotnictwa zawarte w szczególności w ustawie z dnia 3 lipca 2002 r. Prawo lotnicze, zwanej dalej „ustawą”, wydanych na jej podstawie aktach wykonawczych, a także w:
-1) rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 300/2008 z dnia 11 marca 2008 r. w sprawie wspólnych zasad w dziedzinie ochrony lotnictwa cywilnego i uchylającym rozporządzenie (WE) nr 2320/2002 (Dz. Urz. UE L 97 z 09.04.2008, str. 72, z późn. zm.) oraz aktach wykonawczych i aktach uzupełniających wydanych na jego podstawie,
-2) rozporządzeniu wykonawczym Komisji Europejskiej (UE) nr 1035/2011 z dnia 17 października 2011 r. ustanawiającym wspólne wymogi dotyczące zapewniania służb żeglugi powietrznej oraz zmieniającym rozporządzenie (WE) nr 482/2008 i (UE) nr 691/2010 (Dz. Urz. UE L 271 z 18.10.2011, str. 23, z późn. zm.) w szczególności w zakresie nowych technik i technologii środków ochrony.
-§ 3. Szczegółowe wymagania dotyczące programu ochrony:
-1) portu lotniczego i innego lotniska niepodlegającego alternatywnym środkom ochrony określa załącznik nr 1 do rozporządzenia;
-2) przewoźnika lotniczego określa załącznik nr 2 do rozporządzenia;
-3) zarejestrowanego agenta określa załącznik nr 3 do rozporządzenia;
-4) zarejestrowanego dostawcy zaopatrzenia pokładowego określa załącznik nr 4 do rozporządzenia;
-5) instytucji zapewniającej służby żeglugi powietrznej określa załącznik nr 5 do rozporządzenia;
-6) lotniska niebędącego portem lotniczym podlegającego alternatywnym środkom ochrony określa załącznik nr 6 do rozporządzenia.
-§ 4. 1. Program ochrony jest przedstawiany do zatwierdzenia przez Prezesa Urzędu Lotnictwa Cywilnego, wraz z kompletem załączników, w formie wydruku oraz na informatycznym nośniku danych umożliwiającym kopiowanie jego treści.
-2. Wydruk, o którym mowa w ust. 1, jest sporządzony w sposób czytelny, umożliwiający wymianę rozdziałów i poszczególnych stron, przy zachowaniu integralności dokumentu.
-3. Program ochrony zawiera następujące elementy porządkujące jego zawartość:
-1) oznaczenie dokumentu datą jego opracowania, a po zatwierdzeniu przez Prezesa Urzędu Lotnictwa Cywilnego również datą zatwierdzenia lub wejścia w życie, jeśli jest inna niż data zatwierdzenia;
-2) numerację stron składającą się z numeru rozdziału i kolejnego numeru strony w rozdziale nie dotyczy to strony tytułowej, stron spisu treści oraz stron wykazu wprowadzonych zmian;
-3) wykaz wprowadzonych zmian;
-4) umieszczoną na każdej stronie informację o numerze wersji, przy czym pierwsza wersja jest oznaczona numerem „00”.
-§ 5. Zmiany programu ochrony są wprowadzane w drodze wymiany odpowiedniego rozdziału.
-§ 6. Programy ochrony lotnisk, przewoźników lotniczych, instytucji zapewniających służby żeglugi powietrznej, zarejestrowanego agenta oraz innych podmiotów prowadzących działalność lotniczą, zatwierdzone przed dniem wejścia w życie niniejszego rozporządzenia, podlegają dostosowaniu do wymogów niniejszego rozporządzenia w terminie dwóch lat od dnia ich ostatniego zatwierdzenia.
-§ 7. Rozporządzenie wchodzi w życie z dniem 19 marca 2013 r.
-Minister Transportu, Budownictwa i Gospodarki Morskiej: S. Nowak SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE PROGRAMU OCHRONY PORTU LOTNICZEGO I INNEGO LOTNISKA NIEPODLEGAJĄCEGO ALTERNATYWNYM ŚRODKOM OCHRONY
-1. Zagadnienia ogólne
-1.1. Cel programu.
-1.2. Definicje.
-1.3. Uregulowania prawne:
-1.3.1. Międzynarodowe uregulowania prawne.
-1.3.2. Unijne uregulowania prawne.
-1.3.3. Krajowe uregulowania prawne.
-2. Organizacja ochrony portu lotniczego
-2.1. Organizacja, obowiązki i zakres odpowiedzialności służb ochrony oraz wskazanie osoby odpowiedzialnej za ochronę.
-2.2. Organizacja oraz zasady działania Zespołu Ochrony Lotniska.
-3. Opis strefy ogólnodostępnej, strefy operacyjnej, strefy zastrzeżonej, części krytycznej strefy zastrzeżonej oraz w stosownych przypadkach strefy wydzielonej wraz z przebiegiem granic pomiędzy nimi
-4. Środki ochrony portu lotniczego
-4.1. Kontrola dostępu:
-4.1.1. Opis stref dostępu.
-4.1.2. Sposób i warunki dostępu do stref wyznaczonych w porcie lotniczym.
-4.1.3. Lokalizacja punktów kontroli dostępu i środki kontroli dostępu oraz kategorie osób uprawnionych do przekraczania określonego punktu kontroli dostępu.
-4.2. Procedura sprawdzenia pojazdów.
-4.3. Nadzór i patrolowanie:
-4.3.1. Charakterystyka ogrodzenia lotniska i jego przebieg.
-4.3.2. Sposób, częstotliwość i środki nadzoru oraz patrolowania poszczególnych stref lotniska, granic pomiędzy nimi oraz obszarów w bliskim sąsiedztwie ogólnodostępnych okolic lotniska, w tym parkingów i dróg.
-4.3.3. Ochrona statków powietrznych na płycie postojowej i w strefie manewrowej.
-4.3.4. Ochrona obiektów kontroli ruchu lotniczego oraz urządzeń radiowych i nawigacyjnych.
-4.3.5. Ochrona magazynów paliw i źródeł zasilania.
-4.4. Kontrola przemieszczania się pasażerów:
-4.4.1. Nadzór nad pasażerami.
-4.4.2. Separacja pasażerów.
-4.5. Kontrola w zakresie ochrony pasażerów i bagażu kabinowego:
-4.5.1. Sposób kontroli bezpieczeństwa pasażerów.
-4.5.2. Sposób kontroli bezpieczeństwa bagażu kabinowego.
-4.5.3. Lokalizacja punktów kontroli bezpieczeństwa.
-4.5.4. Opis sprzętu używanego do kontroli bezpieczeństwa.
-4.5.5. Podmiot odpowiedzialny za realizację kontroli bezpieczeństwa.
-4.5.6. Postępowanie z pasażerami z ograniczoną możliwością poruszania.
-4.5.8. Postępowanie z pasażerami potencjalnie uciążliwymi.
-4.5.9. Postępowanie z pasażerami o statusie VIP i dyplomatami.
-4.5.10. Kategorie przedmiotów zabronionych do przewozu w bagażu kabinowym.
-4.5.11. Zwolnienia z kontroli bezpieczeństwa.
-4.5.12. Przewóz broni palnej, gazowej i amunicji.
-4.6. Kontrola w zakresie ochrony osób niebędących pasażerami i przenoszonych przez nie przedmiotów:
-4.6.1. Sposób kontroli bezpieczeństwa osób niebędących pasażerami i przenoszonych przez nie przedmiotów.
-4.6.2. Lokalizacja punktów kontroli bezpieczeństwa.
-4.6.3. Opis sprzętu używanego do kontroli bezpieczeństwa.
-4.6.4. Podmiot odpowiedzialny za realizację kontroli bezpieczeństwa.
-4.7. Kontrola w zakresie ochrony bagażu rejestrowanego:
-4.7.1. Sposób kontroli bezpieczeństwa bagażu rejestrowanego.
-4.7.2. Lokalizacja punktów kontroli bezpieczeństwa.
-4.7.3. Opis sprzętu używanego do kontroli bezpieczeństwa.
-4.7.4. Podmiot odpowiedzialny za realizację kontroli bezpieczeństwa.
-4.7.5. Ochrona bagażu rejestrowanego.
-4.7.6. Łączenie bagażu rejestrowanego z pasażerem.
-4.7.7. Kategorie przedmiotów zabronionych do przewozu w bagażu rejestrowanym.
-4.8. Kontrola w zakresie ochrony ładunku i poczty:
-4.8.1. Sposób kontroli bezpieczeństwa ładunku i poczty.
-4.8.2. Stosowane metody i środki ochrony ładunku i poczty.
-4.8.3. Lokalizacja punktów kontroli bezpieczeństwa.
-4.8.4. Opis sprzętu używanego do kontroli ładunku i poczty.
-4.8.5. Podmiot odpowiedzialny za realizację kontroli bezpieczeństwa.
-4.8.6. Zwolnienia z kontroli bezpieczeństwa.
-4.9. Kontrola w zakresie ochrony zaopatrzenia portu lotniczego:
-4.9.1. Sposób kontroli bezpieczeństwa zaopatrzenia portu lotniczego.
-4.9.2. Znani dostawcy zaopatrzenia portu lotniczego.
-4.10. Ochrona zaopatrzenia pokładowego:
-4.10.1. Sposób kontroli w zakresie ochrony zaopatrzenia pokładowego oraz poczty i materiałów przewoźnika.
-4.10.2. Podmiot odpowiedzialny za kontrolę bezpieczeństwa zaopatrzenia pokładowego.
-4.11. Środki ochrony stosowane na terenie lotniska przez inne podmioty objęte zakresem programu ochrony lotniska.
-4.12. Środki ochrony stosowane w zakresie bezpieczeństwa teleinformatycznego.
-4.13. Koordynacja zadań w przypadku wystawienia wart ochronnych na lotach określonych jako loty wysokiego ryzyka.
-5. System kontroli jakości w zakresie ochrony lotnictwa cywilnego
-5.1. Wewnętrzna kontrola jakości:
-5.1.1. Ocena programu ochrony pod kątem aktualności i adekwatności zawartych w nim informacji.
-5.1.2. Czynności audytorskie.
-5.2. Kontrola jakości podwykonawców realizujących zadania z zakresu ochrony.
-6. Wymagania dotyczące personelu
-6.1. Rekrutacja.
-6.2. Sprawdzenie przeszłości.
-6.3. Szkolenia w zakresie ochrony lotnictwa cywilnego.
-7. Planowanie działań na wypadek sytuacji kryzysowych
-7.1. Organizacja i wyposażenie Centrum Koordynacji Antykryzysowej.
-7.2. Wewnętrzna organizacja i sposób funkcjonowania sztabu kryzysowego.
-7.3. Plan postępowania na wypadek sabotażu.
-7.4. Plan postępowania w przypadku zagrożenia bombowego.
-7.5. Plan postępowania na wypadek porwania statku powietrznego.
-7.6. Plan postępowania w sytuacji oślepienia załogi statku powietrznego laserem lub oświetlenia statku powietrznego laserem.
-7.7. Plan postępowania na wypadek innego zagrożenia terrorystycznego.
-7.8. Ewakuacja i przeszukanie zagrożonego statku powietrznego.
-7.9. Obieg informacji w przypadku sytuacji kryzysowych.
-7.10. Organizacja oraz sposób informowania o zdarzeniach mogących mieć wpływ na poziom ochrony.
-7.11. Zasady prowadzenia bieżącej oceny stanu zagrożenia bezpieczeństwa komunikacji lotniczej na lotnisku oraz działania podejmowane w przypadku podwyższonego stopnia zagrożenia.
-7.12. Procedury postępowania w przypadku wystąpienia zagrożeń chemicznych, biologicznych, radiologicznych i nuklearnych.
-8. Wykaz załączników
-8.1. Instrukcja przepustkowa.
-8.2. Fizyczna charakterystyka portu lotniczego wymaga załączenia czytelnych map z naniesionymi elementami wymienionymi poniżej wraz z przebiegiem stref:
-8.2.1. Ogrodzenie portu lotniczego wraz z bramami lub furtami.
-8.2.2. Terminale pasażerskie.
-8.2.3. Terminale cargo.
-8.2.4. Inne obiekty budowlane.
-8.2.5. Obiekty kontroli ruchu lotniczego.
-8.2.6. Urządzenia radiowe i nawigacyjne.
-8.2.7. Magazyny paliw.
-8.2.8. Źródła zasilania.
-8.2.9. Stanowisko rozpoznania i neutralizacji materiałów i urządzeń wybuchowych.
-8.2.10. Miejsca postojowe statków powietrznych izolowanych ze względów bezpieczeństwa.
-8.2.11. Centrum Koordynacji Antykryzysowej.
-8.3. Mapa przedstawiająca przebieg stref wyznaczonych w porcie lotniczym.
-8.4. Mapa przedstawiająca lokalizację punktów kontroli dostępu.
-8.5. Kwestionariusz przyjęcia informacji o sytuacji kryzysowej.
-8.6. Formularz zgłoszenia aktu bezprawnej ingerencji w lotnictwie cywilnym.
-8.7. Kwestionariusz rozmowy z osobą powiadamiającą o zagrożeniu bombowym.
-8.8. Dane teleadresowe podwykonawców realizujących zadania z zakresu ochrony lotnictwa cywilnego oraz pozostałych podmiotów w zależności od potrzeb.
-8.9. Wykaz wewnętrznych procedur operacyjnych wdrażających wymogi określone w programie ochrony.
-SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE PROGRAMU OCHRONY PRZEWOŹNIKA LOTNICZEGO
-1. Zagadnienia ogólne
-1.1. Cel programu.
-1.2. Definicje.
-1.3. Uregulowania prawne:
-1.3.1. Międzynarodowe uregulowania prawne.
-1.3.2. Unijne uregulowania prawne.
-1.3.3. Krajowe uregulowania prawne.
-2. Struktura organizacyjna
-2.1. Zakres prowadzonej działalności.
-2.2. Opis odpowiedzialności za sprawy ochrony lotnictwa w strukturze organizacyjnej przewoźnika lotniczego.
-2.3. Odpowiedzialność za zarządzanie, administrowanie i wprowadzenie programu.
-3. Procedury ochrony wobec pasażerów i bagażu kabinowego
-3.1. Kontrola bezpieczeństwa pasażerów.
-3.2. Kontrola bezpieczeństwa bagażu kabinowego.
-3.3. Środki kontroli w zakresie ochrony wobec pasażerów transferowych i tranzytowych.
-3.4. Zwolnienia z kontroli bezpieczeństwa.
-3.5. Nadzór nad przepływem pasażerów po poddaniu ich kontroli bezpieczeństwa.
-3.6. Środki ochrony stosowane w stosunku do pasażerów specjalnych kategorii:
-3.6.1. Postępowanie z pasażerami z ograniczoną możliwością poruszania.
-3.6.2. Postępowanie z pasażerami potencjalnie uciążliwymi.
-3.7. Postępowanie przewoźnika lotniczego wobec pasażerów naruszających warunki przewozu:
-3.7.1. Procedury ochrony stosowane na ziemi.
-3.7.2. Procedury ochrony stosowane w powietrzu.
-3.7.3. Raportowanie.
-4. Procedury ochrony wobec bagażu rejestrowanego
-4.1. Procedury odprawy pasażera i akceptacji bagażu rejestrowanego do przewozu na lotnisku i poza terenem lotniska.
-4.2. Procedury łączenia bagażu rejestrowanego z pasażerem:
-4.2.1. Identyfikacja pasażerów, którzy nie zgłosili się do wejścia na pokład samolotu.
-4.2.2. Identyfikacja bagażu bez właściciela.
-4.3. Procedury kontroli bezpieczeństwa bagażu rejestrowanego towarzyszącego pasażerowi oraz bagażu bez właściciela.
-4.4. Procedury kontroli bezpieczeństwa bagażu transferowego.
-4.5. Procedury ochrony wobec bagażu rejestrowanego.
-4.6. Procedury przewozu broni palnej, gazowej i amunicji.
-5. Środki kontroli w zakresie ochrony statku powietrznego
-5.1. Przeszukanie statku powietrznego.
-5.2. Kontrola dostępu i zabezpieczenie statku powietrznego.
-5.3. Procedury realizowane w ramach wykonywania wart ochronnych.
-6. Środki kontroli w zakresie ochrony zaopatrzenia pokładowego
-6.1. Środki kontroli w zakresie ochrony stosowane do dostaw zaopatrzenia pokładowego bezpośrednio przez przewoźnika lotniczego:
-6.1.1. Procedury i metody ochrony fizycznej obiektów, w których przechowywane jest zaopatrzenie pokładowe.
-6.1.2. Kontrola dostępu do obiektów, w których przechowywane jest zaopatrzenie pokładowe.
-6.1.3. Procedury postępowania z towarami dostarczanymi jako zaopatrzenie pokładowe.
-6.1.4. Procedury przewozu zaopatrzenia pokładowego do statku powietrznego.
-6.2. Środki ochrony wymagane przez przewoźnika od dostawców zaopatrzenia pokładowego:
-6.2.1. Procedury i metody ochrony fizycznej obiektów zarejestrowanego dostawcy zaopatrzenia pokładowego.
-6.2.2. Kontrola dostępu do obiektów zarejestrowanego dostawcy zaopatrzenia pokładowego.
-6.2.3. Procedury postępowania z towarami dostarczanymi zarejestrowanemu dostawcy zaopatrzenia pokładowego.
-6.2.4. Procedury przewozu zaopatrzenia pokładowego do statku powietrznego.
-6.3. Środki ochrony wymagane przez przewoźnika od znanych dostawców zaopatrzenia pokładowego:
-6.3.1. Procedury wyznaczania znanych dostawców zaopatrzenia pokładowego.
-7. Ochrona poczty przewoźnika lotniczego i materiałów przewoźnika lotniczego
-7.1. Poczta przewoźnika lotniczego i materiały przewoźnika lotniczego przewożone w kabinie lub w luku bagażowym statku powietrznego.
-7.2. Materiały przewoźnika lotniczego stosowane do przetwarzania informacji o pasażerach i bagażu.
-8. Ochrona przewozu ładunków i poczty
-8.1. Procedury przyjmowania ładunków i poczty do przewozu.
-8.2. Wymagania dotyczące zarejestrowanego agenta.
-8.3. Wymagania dotyczące znanego nadawcy.
-8.4. Wymagania dotyczące uznanego nadawcy.
-8.5. Zasady kontroli bezpieczeństwa ładunków i poczty.
-8.6. Ładunki i poczta wyłączone z kontroli bezpieczeństwa.
-8.7. Kontrola dostępu do ładunku i poczty.
-8.8. Procedury postępowania w przypadku wykrycia przedmiotu zabronionego w ładunku lub poczcie.
-9. Środki ochrony stosowane w zakresie bezpieczeństwa teleinformatycznego
-10. System kontroli jakości w zakresie ochrony lotnictwa cywilnego
-10.1. Organizacja wewnętrznej kontroli jakości.
-10.2. Ocena systemu ochrony.
-10.3. Sposoby realizacji wewnętrznej kontroli jakości.
-10.4. Zasady zlecania i nadzoru realizowanych czynności objętych programem przez podwykonawców.
-11. Wymagania dotyczące personelu
-11.1. Rekrutacja.
-11.2. Sprawdzenie przeszłości.
-11.3. Szkolenia w zakresie ochrony lotnictwa cywilnego.
-12. Planowanie działań na wypadek sytuacji kryzysowych
-12.1. Plan postępowania na wypadek porwania:
-12.1.1. Statku powietrznego znajdującego się na ziemi.
-12.1.2. Statku powietrznego znajdującego się w powietrzu.
-12.2. Plan postępowania w przypadku zagrożenia bombowego.
-12.3. Procedury stosowane w trakcie lotu w przypadku znalezienia lub przypuszczenia, że na pokładzie statku powietrznego znajduje się podejrzany przedmiot.
-12.4. Dodatkowe środki ochrony w przypadku podwyższonego stopnia zagrożenia.
-12.5. Informowanie o incydentach.
-12.6. Procedury postępowania w przypadku wystąpienia zagrożeń chemicznych, biologicznych, radiologicznych i nuklearnych.
-13. Wykaz załączników
-13.1. Struktura odpowiedzialności w zakresie ochrony lotnictwa.
-13.2. Lista przedmiotów zabronionych do przewozu w bagażu kabinowym, rejestrowanym, ładunkach i poczcie.
-13.3. Lista przeszukania statku powietrznego na wypadek zagrożenia.
-13.4. Plany wnętrz statków powietrznych wchodzących w skład floty przewoźnika.
-13.5. Kwestionariusz przyjęcia informacji o sytuacji kryzysowej.
-13.6. Formularz zgłoszenia aktu bezprawnej ingerencji w lotnictwie cywilnym.
-13.7. Kwestionariusz rozmowy z osobą powiadamiającą o zagrożeniu bombowym.
-13.8. Wykaz portów lotniczych w państwach trzecich, z których przewoźnik lotniczy zabiera ładunki lub pocztę do Rzeczypospolitej Polskiej.
-13.9. Wykaz wewnętrznych procedur operacyjnych wdrażających wymogi określone w programie ochrony.
-SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE PROGRAMU OCHRONY ZAREJESTROWANEGO AGENTA
-1. Zagadnienia ogólne
-1.1. Cel programu.
-1.2. Definicje.
-1.3. Uregulowania prawne:
-1.3.1. Międzynarodowe uregulowania prawne.
-1.3.2. Unijne uregulowania prawne.
-1.3.3. Krajowe uregulowania prawne.
-2. Struktura organizacyjna
-2.1. Zakres prowadzonej działalności.
-2.2. Struktura organizacyjna przedsiębiorstwa.
-2.3. Lokalizacja przedsiębiorstwa:
-2.3.1. Siedziba główna.
-2.3.2. Pozostałe lokalizacje.
-2.4. Osoba odpowiedzialna za sprawy ochrony wraz z zakresem jej uprawnień, obowiązków i odpowiedzialności.
-3. Charakterystyka fizyczna obiektów
-3.1. Granice stref obiektów wraz ze zróżnicowaniem dostępu.
-3.2. Ochrona wydzielonych rejonów obiektu.
-3.3. Opis ogrodzenia obiektów.
-3.4. Nadzór nad obiektami oraz urządzenia wykorzystywane do ich ochrony.
-4. Procedury ochrony
-4.1. Kontrola dostępu:
-4.1.1. Kontrola dostępu osób do pomieszczeń i urządzeń na terenie obiektu.
-4.1.2. Kontrola dostępu pojazdów na teren przedsiębiorstwa.
-4.1.3. Ochrona skontrolowanych ładunków i poczty.
-4.2. Procedury akceptacji ładunków i poczty do przewozu wraz z dokumentowaniem:
-4.2.1. Ładunki i poczta otrzymane od zarejestrowanego agenta, znanego nadawcy lub uznanego nadawcy.
-4.2.2. Ładunki i poczta otrzymane od innych nadawców.
-4.2.3. Ładunki i poczta pochodzące spoza Unii Europejskiej.
-4.2.4. Ładunki i poczta transferowa.
-4.3. Kontrola bezpieczeństwa ładunków i poczty:
-4.3.1. Urządzenia wykorzystywane do kontroli bezpieczeństwa.
-4.3.2. Procedura kontroli bezpieczeństwa wraz z jej dokumentowaniem.
-4.3.3. Zwolnienia z kontroli bezpieczeństwa.
-4.3.4. Podmiot realizujący kontrolę bezpieczeństwa.
-4.3.5. Kategorie przedmiotów zabronionych do przewozu w ładunkach lub poczcie.
-4.4. Transport i dostawa ładunku i poczty drogą lądową:
-4.4.1. Dokumentacja.
-4.4.2. Procedury zabezpieczenia ładunków i poczty w czasie transportu.
-4.4.3. Organizacja transportu.
-4.5. Procedury z zakresu zlecania podwykonawstwa środków kontroli w zakresie ochrony:
-4.5.1. Wymagania dotyczące uznanych nadawców.
-4.5.2. Procedura wyznaczania uznanych nadawców.
-5. Środki ochrony stosowane na terenie zarejestrowanego agenta przez inne podmioty objęte zakresem jego programu ochrony
-6. System kontroli jakości w zakresie ochrony lotnictwa cywilnego
-6.1. Wewnętrzna kontrola jakości:
-6.1.1. Ocena programu ochrony pod kątem aktualności i adekwatności zawartych w nim informacji.
-6.1.2. Czynności audytorskie.
-6.2. Kontrola jakości podwykonawców realizujących zadania z zakresu ochrony.
-7. Wymagania dotyczące personelu
-7.1. Rekrutacja.
-7.2. Sprawdzenie przeszłości.
-7.3. Szkolenia w zakresie ochrony lotnictwa cywilnego.
-8. Planowanie działań na wypadek sytuacji kryzysowych
-8.1. Działania podejmowane w przypadku nieuprawnionego dostępu do skontrolowanych ładunków i poczty.
-8.2. Procedury postępowania w przypadku zagrożenia bombowego.
-8.3. Informowanie o incydentach.
-8.4. Procedury postępowania w przypadku wystąpienia zagrożeń chemicznych, biologicznych, radiologicznych i nuklearnych.
-9. Wykaz załączników
-9.1. Deklaracja zarejestrowanego agenta.
-9.2. Deklaracja przewoźnika drogowego.
-9.3. Instrukcje dla uznanych nadawców oraz deklaracja uznanego nadawcy.
-9.4. Wzory instrukcji (procedur) stanowiskowych.
-9.5. Instrukcja przepustkowa wraz z wzorami stosowanych przepustek.
-9.6. Plan albo mapa usytuowania obiektów przedsiębiorstwa w otoczeniu miasta lub lotniska, z uwzględnieniem stref dostępu.
-9.7. Dane teleadresowe podwykonawców oraz osób funkcyjnych.
-9.8. Procedury ochrony i kontroli dostępu realizowane przez uznanych nadawców wyznaczonych przez zarejestrowanego agenta.
-9.9. Lista podwykonawców wraz z zakresem umowy.
-9.10. Kwestionariusz rozmowy z osobą powiadamiającą o zagrożeniu bombowym.
-9.11. Wykaz wewnętrznych procedur operacyjnych wdrażających wymogi określone w programie ochrony.
-SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE PROGRAMU OCHRONY ZAREJESTROWANEGO DOSTAWCY ZAOPATRZENIA POKŁADOWEGO
-1. Zagadnienia ogólne
-1.1. Cel programu.
-1.2. Definicje.
-1.3. Uregulowania prawne:
-1.3.1. Międzynarodowe uregulowania prawne.
-1.3.2. Unijne uregulowania prawne.
-1.3.3. Krajowe uregulowania prawne.
-2. Struktura organizacyjna
-2.1. Zakres prowadzonej działalności.
-2.2. Struktura organizacyjna przedsiębiorstwa.
-2.3. Lokalizacja przedsiębiorstwa:
-2.3.1. Siedziba główna.
-2.3.2. Pozostałe lokalizacje.
-2.4. Osoba odpowiedzialna za sprawy ochrony wraz z zakresem jej uprawnień, obowiązków i odpowiedzialności.
-3. Charakterystyka fizyczna obiektów
-3.1. Granice stref obiektów wraz ze zróżnicowaniem dostępu.
-3.2. Ochrona wydzielonych rejonów obiektu.
-3.3. Opis ogrodzenia obiektów.
-3.4. Nadzór nad obiektami oraz urządzenia wykorzystywane do ich ochrony.
-4. Procedury ochrony
-4.1. Kontrola dostępu:
-4.1.1. Kontrola dostępu osób do pomieszczeń i urządzeń na terenie obiektu.
-4.1.2. Kontrola dostępu pojazdów na teren przedsiębiorstwa.
-4.2. Procedury ochrony przy dostawie produktów zaopatrzenia pokładowego:
-4.2.1. Zaopatrzenie pochodzące od znanych dostawców.
-4.2.2. Zaopatrzenie pochodzące od innych dostawców.
-4.3. Kontrola bezpieczeństwa zaopatrzenia pokładowego:
-4.3.1. Urządzenia wykorzystywane do kontroli bezpieczeństwa.
-4.3.2. Procedura kontroli bezpieczeństwa wraz z jej dokumentowaniem.
-4.3.3. Zwolnienia z kontroli bezpieczeństwa.
-4.3.4. Podmiot realizujący kontrolę bezpieczeństwa.
-4.3.5. Kategorie przedmiotów zabronionych do przewozu w zaopatrzeniu pokładowym.
-4.4. Procedury ochrony skontrolowanych towarów i produktów:
-4.4.1. Procedury ochrony z zakresu przygotowywania zaopatrzenia pokładowego.
-4.4.2. Procedury ochrony przechowywania zaopatrzenia pokładowego wraz ze stosowaną dokumentacją.
-4.5. Sposoby zabezpieczenia wózków, pojemników i pojazdów do przewożenia zaopatrzenia pokładowego.
-4.6. Procedury ochrony przy przewozie zaopatrzenia pokładowego i załadunku na pokład statku powietrznego.
-4.7. Procedury z zakresu zlecania podwykonawstwa środków kontroli w zakresie ochrony:
-4.7.1. Wymagania dotyczące znanych dostawców.
-4.7.2. Procedura wyznaczania znanych dostawców.
-5. Środki ochrony stosowane na terenie zarejestrowanego dostawcy zaopatrzenia pokładowego przez inne podmioty objęte zakresem jego programu ochrony
-6. System kontroli jakości w zakresie ochrony lotnictwa cywilnego
-6.1. Wewnętrzna kontrola jakości:
-6.1.1. Ocena programu ochrony pod kątem aktualności i adekwatności zawartych w nim informacji.
-6.1.2. Czynności audytorskie.
-6.2. Kontrola jakości u znanych dostawców.
-7. Wymagania dotyczące personelu
-7.1. Rekrutacja.
-7.2. Sprawdzenie przeszłości.
-7.3. Szkolenia w zakresie ochrony lotnictwa cywilnego.
-8. Planowanie działań na wypadek sytuacji kryzysowych
-8.1. Działania podejmowane w przypadku nieuprawnionego dostępu do zaopatrzenia pokładowego.
-8.2. Procedury postępowania w przypadku zagrożenia bombowego.
-8.3. Informowanie o incydentach.
-8.4. Procedury postępowania w przypadku wystąpienia zagrożeń chemicznych, biologicznych, radiologicznych i nuklearnych.
-9. Wykaz załączników
-9.1. Struktura organizacyjna.
-9.2. Instrukcja przepustkowa wraz ze wzorami stosowanych przepustek.
-9.3. Plan albo mapa usytuowania obiektów przedsiębiorstwa w otoczeniu miasta lub lotniska, z uwzględnieniem stref dostępu.
-9.4. Wykaz znanych dostawców wraz z zakresami umów oraz danymi teleadresowymi, w tym osób odpowiedzialnych w podmiocie za ochronę lotnictwa cywilnego.
-9.5. Procedury ochrony i kontroli dostępu realizowane przez znanych dostawców wyznaczonych przez zarejestrowanego agenta.
-9.6. Wzór deklaracji zobowiązań zarejestrowanego dostawcy zaopatrzenia pokładowego.
-9.7. Wzór deklaracji zobowiązań znanego dostawcy zaopatrzenia pokładowego.
-9.8. Instrukcja dotycząca plombowania pojemników, pojazdów, wózków i kontenerów.
-9.9. Kwestionariusz przyjęcia informacji o sytuacji kryzysowej.
-9.10. Formularz zgłoszenia aktu bezprawnej ingerencji w lotnictwie cywilnym.
-9.11. Kwestionariusz rozmowy z osobą powiadamiającą o zagrożeniu bombowym.
-9.12. Wykaz wewnętrznych procedur operacyjnych wdrażających wymogi określone w programie ochrony.
-SZCZEGÓŁOWE WYMAGANIA PROGRAMU OCHRONY INSTYTUCJI ZAPEWNIAJĄCEJ SŁUŻBY ŻEGLUGI POWIETRZNEJ
-1. Zagadnienia ogólne
-1.1. Cel programu.
-1.2. Definicje.
-1.3. Uregulowania prawne:
-1.3.1. Międzynarodowe uregulowania prawne.
-1.3.2. Unijne uregulowania prawne.
-1.3.3. Krajowe uregulowania prawne.
-1.4. Organizacja ochrony przedsiębiorstwa.
-1.5. Wyznaczenie osoby odpowiedzialnej za sprawy ochrony przedsiębiorstwa oraz zakres jej uprawnień, obowiązków i odpowiedzialności.
-2. Charakterystyka fizyczna obiektów
-2.1. Usytuowanie obiektów:
-2.1.1. W strefie ogólnodostępnej lotniska.
-2.1.2. W strefie zastrzeżonej lotniska.
-2.1.3. Na pograniczu stref ogólnodostępnej lotniska i zastrzeżonej lotniska.
-2.1.4. Obiekty poza terenem lotniska.
-2.2. Granice stref obiektów i zróżnicowanie dostępu do nich przez personel przedsiębiorstwa.
-2.3. Nadzór nad obiektami oraz urządzenia wykorzystywane do ich ochrony.
-2.4. Ogrodzenie obiektów oraz przejścia eksploatacyjne i awaryjne.
-2.5. Lokalizacja miejsca do kierowania akcją w sytuacji kryzysowej oraz zapewnienie środków łączności.
-2.6. Źródła zasilania zasadnicze i awaryjne.
-3. Procedury ochrony
-3.1. System przepustkowy:
-3.1.1. Kontrola dostępu osób do obiektów poza terenem lotniska i wybranych obiektów lub urządzeń.
-3.1.2. Kontrola dostępu pojazdów do obiektów poza terenem lotniska i wybranych obiektów lub urządzeń.
-3.1.3. Rodzaje i ilość przepustek.
-3.2. Sposób wydawania i przechowywania kluczy do pomieszczeń.
-3.3. Ochrona wydzielonych rejonów obiektu.
-3.4. Procedury ochrony związane z działalnością obiektów kontroli ruchu lotniczego.
-3.5. Procedury związane z przekazywaniem informacji o porwanym statku powietrznym za pomocą systemu Sieci Stałej Łączności Lotniczej (AFTN) lub innych wykorzystywanych do tego celu sieci łączności.
-3.6. Środki ochrony stosowane w zakresie bezpieczeństwa teleinformatycznego.
-4. Środki ochrony stosowane na terenie instytucji zapewniającej służby żeglugi powietrznej przez inne podmioty objęte zakresem jej programu ochrony
-5. Wewnętrzny system kontroli jakości z zakresu ochrony lotnictwa cywilnego
-5.1. Ocena programu ochrony pod kątem aktualności i adekwatności zawartych w nim informacji.
-5.2. Czynności audytorskie z zakresu ochrony lotnictwa cywilnego.
-5.3. Przeglądy systemu ochrony obiektów.
-5.4. Testy systemu ochrony obiektów.
-6. Wymagania dotyczące personelu
-6.1. Rekrutacja.
-6.2. Sprawdzenie przeszłości.
-6.3. Szkolenia w zakresie ochrony lotnictwa cywilnego.
-7. Planowanie działań na wypadek sytuacji kryzysowych
-7.1. Działania podejmowane w przypadku wtargnięcia osób nieupoważnionych na teren obiektów lub zaistnienia sabotażu.
-7.2. Procedury postępowania w przypadku otrzymania informacji o planowanym zamachu bombowym lub innym zagrożeniu terrorystycznym na terenie obiektu:
-7.2.1. Sposób postępowania w przypadku przyjmowania informacji telefonicznej o planowanym zamachu bombowym lub innym zagrożeniu terrorystycznym.
-7.2.2. Sposób postępowania po otrzymaniu pisemnej informacji o planowanym zamachu bombowym lub innym zagrożeniu terrorystycznym.
-7.2.3. Sposób postępowania w przypadku otrzymania bezpośredniej ustnej informacji o planowanym zamachu bombowym lub innym zagrożeniu terrorystycznym.
-7.3. Sposób postępowania w przypadku zagrożenia środkami masowego rażenia.
-7.4. Procedury postępowania w przypadku znalezienia podejrzanych przedmiotów, pakunków lub niebezpiecznych urządzeń na terenie obiektów.
-7.5. Procedury ewakuacji Centrum Zarządzania Ruchem Lotniczym, uwzględniające konieczność reorganizacji ruchu lotniczego w przestrzeni powietrznej Rzeczypospolitej Polskiej z zachowaniem zasad bezpieczeństwa tego ruchu.
-7.6. Obieg informacji w przypadku zaistnienia zagrożeń.
-7.7. Informowanie o incydentach.
-7.8. Procedury postępowania w przypadku wystąpienia zagrożeń chemicznych, biologicznych, radiologicznych i nuklearnych.
-8. Wykaz załączników
-8.1. Plan albo mapa usytuowania obiektów z uwzględnieniem stref dostępu.
-8.2. Wzory przepustek osobowych i samochodowych.
-8.3. Instrukcja o systemie przepustkowym.
-8.4. Kwestionariusz przyjęcia informacji o sytuacji kryzysowej.
-8.5. Formularz zgłoszenia aktu bezprawnej ingerencji w lotnictwie cywilnym.
-8.6. Kwestionariusz rozmowy z osobą powiadamiającą o zagrożeniu bombowym.
-8.7. Wykaz przedmiotów zabronionych do wnoszenia na teren obiektów.
-8.8. Wykaz wewnętrznych procedur operacyjnych wdrażających wymogi określone w programie ochrony.
-SZCZEGÓŁOWE WYMAGANIA PROGRAMU OCHRONY LOTNISKA NIEBĘDĄCEGO PORTEM LOTNICZYM PODLEGAJĄCEGO ALTERNATYWNYM ŚRODKOM OCHRONY
-1. Zestawienie obowiązujących uregulowań prawnych z zakresu ochrony lotnictwa cywilnego
-1.1. Międzynarodowe uregulowania prawne.
-1.2. Unijne uregulowania prawne.
-1.3. Krajowe uregulowania prawne.
-2. Organizacja ochrony lotniska wraz z obowiązkami i zakresem odpowiedzialności
-2.1. Osoba odpowiedzialna za ochronę lotniska.
-2.2. Współpraca z Policją lub Strażą Graniczną.
-3. Fizyczna charakterystyka lotniska
-4. Użytkownicy lotniska
-5. Charakter i średnia liczba operacji lotniczych w miesiącu
-6. Środki ochrony lotniska
-7. Kontrola bezpieczeństwa pasażerów i ich bagażu
-8. Metody i środki ochrony przewozu ładunków i poczty
-9. Ochrona statków powietrznych
-10. Informowanie w sytuacjach kryzysowych Policji, Straży Granicznej, Państwowej Straży Pożarnej, Prezesa Urzędu Lotnictwa Cywilnego
+Treść rozporządzenia
+
+## Załącznik nr 1 — – Szczegółowe wymagania dotyczące programu ochrony portu lotniczego i innego lotniska niepodlegającego alternatywnym środkom ochrony
+
+## Załącznik nr 2 — – Szczegółowe wymagania dotyczące programu ochrony przewoźnika lotniczego
+
+## Załącznik nr 3 — – Szczegółowe wymagania dotyczące programu ochrony zarejestrowanego agenta
+
+## Załącznik nr 4 — – Szczegółowe wymagania dotyczące programu ochrony zarejestrowanego dostawcy zaopatrzenia pokładowego
+
+## Załącznik nr 5 — – Szczegółowe wymagania programu ochrony instytucji zapewniającej służby żeglugi powietrznej
+
+## Załącznik nr 6 — – Szczegółowe wymagania programu ochrony lotniska niebędącego portem lotniczym podlegającego alternatywnym środkom ochrony
+
+Treść rozporządzenia
+Na podstawie art. 189 ust. 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2012 r. poz. 933, z późn. zm.) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa szczegółowe wymagania dotyczące programów ochrony lotnisk, przewoźników lotniczych, instytucji zapewniających służby żeglugi powietrznej, zarejestrowanego agenta oraz innych podmiotów prowadzących działalność lotniczą, zwanych dalej „programami ochrony”.
+§ 2.
+Programy ochrony uwzględniają istniejący stan faktyczny w zakresie ochrony lotnictwa cywilnego, aktualne zagrożenia dla lotnictwa cywilnego oraz obowiązujące przepisy dotyczące ochrony lotnictwa zawarte w szczególności w ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze, zwanej dalej „ustawą”, wydanych na jej podstawie aktach wykonawczych, a także w:
+1)
+rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 300/2008 z dnia 11 marca 2008 r. w sprawie wspólnych zasad w dziedzinie ochrony lotnictwa cywilnego i uchylającym rozporządzenie (WE) nr 2320/2002 (Dz. Urz. UE L 97 z 09.04.2008, str. 72, z późn. zm.) oraz aktach wykonawczych i aktach uzupełniających wydanych na jego podstawie,
+2)
+rozporządzeniu wykonawczym Komisji Europejskiej (UE) nr 1035/2011 z dnia 17 października 2011 r. ustanawiającym wspólne wymogi dotyczące zapewniania służb żeglugi powietrznej oraz zmieniającym rozporządzenie (WE) nr 482/2008 i (UE) nr 691/2010 (Dz. Urz. UE L 271 z 18.10.2011, str. 23, z późn. zm.)
+w szczególności w zakresie nowych technik i technologii środków ochrony.
+§ 3.
+Szczegółowe wymagania dotyczące programu ochrony:
+1)
+portu lotniczego i innego lotniska niepodlegającego alternatywnym środkom ochrony określa załącznik nr 1 do rozporządzenia;
+2)
+przewoźnika lotniczego określa załącznik nr 2 do rozporządzenia;
+3)
+zarejestrowanego agenta określa załącznik nr 3 do rozporządzenia;
+4)
+zarejestrowanego dostawcy zaopatrzenia pokładowego określa załącznik nr 4 do rozporządzenia;
+5)
+instytucji zapewniającej służby żeglugi powietrznej określa załącznik nr 5 do rozporządzenia;
+6)
+lotniska niebędącego portem lotniczym podlegającego alternatywnym środkom ochrony określa załącznik nr 6 do rozporządzenia.
+§ 4.
+1.
+Program ochrony jest przedstawiany do zatwierdzenia przez Prezesa Urzędu Lotnictwa Cywilnego, wraz z kompletem załączników, w formie wydruku oraz na informatycznym nośniku danych umożliwiającym kopiowanie jego treści.
+2.
+Wydruk, o którym mowa w ust. 1, jest sporządzony w sposób czytelny, umożliwiający wymianę rozdziałów i poszczególnych stron, przy zachowaniu integralności dokumentu.
+3.
+Program ochrony zawiera następujące elementy porządkujące jego zawartość:
+1)
+oznaczenie dokumentu datą jego opracowania, a po zatwierdzeniu przez Prezesa Urzędu Lotnictwa Cywilnego również datą zatwierdzenia lub wejścia w życie, jeśli jest inna niż data zatwierdzenia;
+2)
+numerację stron składającą się z numeru rozdziału i kolejnego numeru strony w rozdziale – nie dotyczy to strony tytułowej, stron spisu treści oraz stron wykazu wprowadzonych zmian;
+3)
+wykaz wprowadzonych zmian;
+4)
+umieszczoną na każdej stronie informację o numerze wersji, przy czym pierwsza wersja jest oznaczona numerem „00”.
+§ 5.
+Zmiany programu ochrony są wprowadzane w drodze wymiany odpowiedniego rozdziału.
+§ 6.
+Programy ochrony lotnisk, przewoźników lotniczych, instytucji zapewniających służby żeglugi powietrznej, zarejestrowanego agenta oraz innych podmiotów prowadzących działalność lotniczą, zatwierdzone przed dniem wejścia w życie niniejszego rozporządzenia, podlegają dostosowaniu do wymogów niniejszego rozporządzenia w terminie dwóch lat od dnia ich ostatniego zatwierdzenia.
+§ 7.
+Rozporządzenie wchodzi w życie z dniem 19 marca 2013 r.
+
+## Załącznik nr 1 — – Szczegółowe wymagania dotyczące programu ochrony portu lotniczego i innego lotniska niepodlegającego alternatywnym środkom ochrony
+
+1.
+Zagadnienia ogólne
+1.1.
+Cel programu.
+1.2.
+Definicje.
+1.3.
+Uregulowania prawne:
+1.3.1.
+Międzynarodowe uregulowania prawne.
+1.3.2.
+Unijne uregulowania prawne.
+1.3.3.
+Krajowe uregulowania prawne.
+2.
+Organizacja ochrony portu lotniczego
+2.1.
+Organizacja, obowiązki i zakres odpowiedzialności służb ochrony oraz wskazanie osoby odpowiedzialnej za ochronę.
+2.2.
+Organizacja oraz zasady działania Zespołu Ochrony Lotniska.
+3.
+Opis strefy ogólnodostępnej, strefy operacyjnej, strefy zastrzeżonej, części krytycznej strefy zastrzeżonej oraz w stosownych przypadkach strefy wydzielonej wraz z przebiegiem granic pomiędzy nimi
+4.
+Środki ochrony portu lotniczego
+4.1.
+Kontrola dostępu:
+4.1.1.
+Opis stref dostępu.
+4.1.2.
+Sposób i warunki dostępu do stref wyznaczonych w porcie lotniczym.
+4.1.3.
+Lokalizacja punktów kontroli dostępu i środki kontroli dostępu oraz kategorie osób uprawnionych do przekraczania określonego punktu kontroli dostępu.
+4.2.
+Procedura sprawdzenia pojazdów.
+4.3.
+Nadzór i patrolowanie:
+4.3.1.
+Charakterystyka ogrodzenia lotniska i jego przebieg.
+4.3.2.
+Sposób, częstotliwość i środki nadzoru oraz patrolowania poszczególnych stref lotniska, granic pomiędzy nimi oraz obszarów w bliskim sąsiedztwie ogólnodostępnych okolic lotniska, w tym parkingów i dróg.
+4.3.3.
+Ochrona statków powietrznych na płycie postojowej i w strefie manewrowej.
+4.3.4.
+Ochrona obiektów kontroli ruchu lotniczego oraz urządzeń radiowych i nawigacyjnych.
+4.3.5.
+Ochrona magazynów paliw i źródeł zasilania.
+4.4.
+Kontrola przemieszczania się pasażerów:
+4.4.1.
+Nadzór nad pasażerami.
+4.4.2.
+Separacja pasażerów.
+4.5.
+Kontrola w zakresie ochrony pasażerów i bagażu kabinowego:
+4.5.1.
+Sposób kontroli bezpieczeństwa pasażerów.
+4.5.2.
+Sposób kontroli bezpieczeństwa bagażu kabinowego.
+4.5.3.
+Lokalizacja punktów kontroli bezpieczeństwa.
+4.5.4.
+Opis sprzętu używanego do kontroli bezpieczeństwa.
+4.5.5.
+Podmiot odpowiedzialny za realizację kontroli bezpieczeństwa.
+4.5.6.
+Postępowanie z pasażerami z ograniczoną możliwością poruszania.
+4.5.7.
+Postępowanie z pasażerami naruszającymi warunki bezpieczeństwa lotniska.
+4.5.8.
+Postępowanie z pasażerami potencjalnie uciążliwymi.
+4.5.9.
+Postępowanie z pasażerami o statusie VIP i dyplomatami.
+4.5.10.
+Kategorie przedmiotów zabronionych do przewozu w bagażu kabinowym.
+4.5.11.
+Zwolnienia z kontroli bezpieczeństwa.
+4.5.12.
+Przewóz broni palnej, gazowej i amunicji.
+4.6.
+Kontrola w zakresie ochrony osób niebędących pasażerami i przenoszonych przez nie przedmiotów:
+4.6.1.
+Sposób kontroli bezpieczeństwa osób niebędących pasażerami i przenoszonych przez nie przedmiotów.
+4.6.2.
+Lokalizacja punktów kontroli bezpieczeństwa.
+4.6.3.
+Opis sprzętu używanego do kontroli bezpieczeństwa.
+4.6.4.
+Podmiot odpowiedzialny za realizację kontroli bezpieczeństwa.
+4.7.
+Kontrola w zakresie ochrony bagażu rejestrowanego:
+4.7.1.
+Sposób kontroli bezpieczeństwa bagażu rejestrowanego.
+4.7.2.
+Lokalizacja punktów kontroli bezpieczeństwa.
+4.7.3.
+Opis sprzętu używanego do kontroli bezpieczeństwa.
+4.7.4.
+Podmiot odpowiedzialny za realizację kontroli bezpieczeństwa.
+4.7.5.
+Ochrona bagażu rejestrowanego.
+4.7.6.
+Łączenie bagażu rejestrowanego z pasażerem.
+4.7.7.
+Kategorie przedmiotów zabronionych do przewozu w bagażu rejestrowanym.
+4.8.
+Kontrola w zakresie ochrony ładunku i poczty:
+4.8.1.
+Sposób kontroli bezpieczeństwa ładunku i poczty.
+4.8.2.
+Stosowane metody i środki ochrony ładunku i poczty.
+4.8.3.
+Lokalizacja punktów kontroli bezpieczeństwa.
+4.8.4.
+Opis sprzętu używanego do kontroli ładunku i poczty.
+4.8.5.
+Podmiot odpowiedzialny za realizację kontroli bezpieczeństwa.
+4.8.6.
+Zwolnienia z kontroli bezpieczeństwa.
+4.9.
+Kontrola w zakresie ochrony zaopatrzenia portu lotniczego:
+4.9.1.
+Sposób kontroli bezpieczeństwa zaopatrzenia portu lotniczego.
+4.9.2.
+Znani dostawcy zaopatrzenia portu lotniczego.
+4.10.
+Ochrona zaopatrzenia pokładowego:
+4.10.1.
+Sposób kontroli w zakresie ochrony zaopatrzenia pokładowego oraz poczty i materiałów przewoźnika.
+4.10.2.
+Podmiot odpowiedzialny za kontrolę bezpieczeństwa zaopatrzenia pokładowego.
+4.11.
+Środki ochrony stosowane na terenie lotniska przez inne podmioty objęte zakresem programu ochrony lotniska.
+4.12.
+Środki ochrony stosowane w zakresie bezpieczeństwa teleinformatycznego.
+4.13.
+Koordynacja zadań w przypadku wystawienia wart ochronnych na lotach określonych jako loty wysokiego ryzyka.
+5.
+System kontroli jakości w zakresie ochrony lotnictwa cywilnego
+5.1.
+Wewnętrzna kontrola jakości:
+5.1.1.
+Ocena programu ochrony pod kątem aktualności i adekwatności zawartych w nim informacji.
+5.1.2.
+Czynności audytorskie.
+5.2.
+Kontrola jakości podwykonawców realizujących zadania z zakresu ochrony.
+6.
+Wymagania dotyczące personelu
+6.1.
+Rekrutacja.
+6.2.
+Sprawdzenie przeszłości.
+6.3.
+Szkolenia w zakresie ochrony lotnictwa cywilnego.
+7.
+Planowanie działań na wypadek sytuacji kryzysowych
+7.1.
+Organizacja i wyposażenie Centrum Koordynacji Antykryzysowej.
+7.2.
+Wewnętrzna organizacja i sposób funkcjonowania sztabu kryzysowego.
+7.3.
+Plan postępowania na wypadek sabotażu.
+7.4.
+Plan postępowania w przypadku zagrożenia bombowego.
+7.5.
+Plan postępowania na wypadek porwania statku powietrznego.
+7.6.
+Plan postępowania w sytuacji oślepienia załogi statku powietrznego laserem lub oświetlenia statku powietrznego laserem.
+7.7.
+Plan postępowania na wypadek innego zagrożenia terrorystycznego.
+7.8.
+Ewakuacja i przeszukanie zagrożonego statku powietrznego.
+7.9.
+Obieg informacji w przypadku sytuacji kryzysowych.
+7.10.
+Organizacja oraz sposób informowania o zdarzeniach mogących mieć wpływ na poziom ochrony.
+7.11.
+Zasady prowadzenia bieżącej oceny stanu zagrożenia bezpieczeństwa komunikacji lotniczej na lotnisku oraz działania podejmowane w przypadku podwyższonego stopnia zagrożenia.
+7.12.
+Procedury postępowania w przypadku wystąpienia zagrożeń chemicznych, biologicznych, radiologicznych i nuklearnych.
+8.
+Wykaz załączników
+8.1.
+Instrukcja przepustkowa.
+8.2.
+Fizyczna charakterystyka portu lotniczego – wymaga załączenia czytelnych map z naniesionymi elementami wymienionymi poniżej wraz z przebiegiem stref:
+8.2.1.
+Ogrodzenie portu lotniczego wraz z bramami lub furtami.
+8.2.2.
+Terminale pasażerskie.
+8.2.3.
+Terminale cargo.
+8.2.4.
+Inne obiekty budowlane.
+8.2.5.
+Obiekty kontroli ruchu lotniczego.
+8.2.6.
+Urządzenia radiowe i nawigacyjne.
+8.2.7.
+Magazyny paliw.
+8.2.8.
+Źródła zasilania.
+8.2.9.
+Stanowisko rozpoznania i neutralizacji materiałów i urządzeń wybuchowych.
+8.2.10.
+Miejsca postojowe statków powietrznych izolowanych ze względów bezpieczeństwa.
+8.2.11.
+Centrum Koordynacji Antykryzysowej.
+8.3.
+Mapa przedstawiająca przebieg stref wyznaczonych w porcie lotniczym.
+8.4.
+Mapa przedstawiająca lokalizację punktów kontroli dostępu.
+8.5.
+Kwestionariusz przyjęcia informacji o sytuacji kryzysowej.
+8.6.
+Formularz zgłoszenia aktu bezprawnej ingerencji w lotnictwie cywilnym.
+8.7.
+Kwestionariusz rozmowy z osobą powiadamiającą o zagrożeniu bombowym.
+8.8.
+Dane teleadresowe podwykonawców realizujących zadania z zakresu ochrony lotnictwa cywilnego oraz pozostałych podmiotów w zależności od potrzeb.
+8.9.
+Wykaz wewnętrznych procedur operacyjnych wdrażających wymogi określone w programie ochrony.
+
+## Załącznik nr 2 — – Szczegółowe wymagania dotyczące programu ochrony przewoźnika lotniczego
+
+1.
+Zagadnienia ogólne
+1.1.
+Cel programu.
+1.2.
+Definicje.
+1.3.
+Uregulowania prawne:
+1.3.1.
+Międzynarodowe uregulowania prawne.
+1.3.2.
+Unijne uregulowania prawne.
+1.3.3.
+Krajowe uregulowania prawne.
+2.
+Struktura organizacyjna
+2.1.
+Zakres prowadzonej działalności.
+2.2.
+Opis odpowiedzialności za sprawy ochrony lotnictwa w strukturze organizacyjnej przewoźnika lotniczego.
+2.3.
+Odpowiedzialność za zarządzanie, administrowanie i wprowadzenie programu.
+3.
+Procedury ochrony wobec pasażerów i bagażu kabinowego
+3.1.
+Kontrola bezpieczeństwa pasażerów.
+3.2.
+Kontrola bezpieczeństwa bagażu kabinowego.
+3.3.
+Środki kontroli w zakresie ochrony wobec pasażerów transferowych i tranzytowych.
+3.4.
+Zwolnienia z kontroli bezpieczeństwa.
+3.5.
+Nadzór nad przepływem pasażerów po poddaniu ich kontroli bezpieczeństwa.
+3.6.
+Środki ochrony stosowane w stosunku do pasażerów specjalnych kategorii:
+3.6.1.
+Postępowanie z pasażerami z ograniczoną możliwością poruszania.
+3.6.2.
+Postępowanie z pasażerami potencjalnie uciążliwymi.
+3.7.
+Postępowanie przewoźnika lotniczego wobec pasażerów naruszających warunki przewozu:
+3.7.1.
+Procedury ochrony stosowane na ziemi.
+3.7.2.
+Procedury ochrony stosowane w powietrzu.
+3.7.3.
+Raportowanie.
+4.
+Procedury ochrony wobec bagażu rejestrowanego
+4.1.
+Procedury odprawy pasażera i akceptacji bagażu rejestrowanego do przewozu na lotnisku i poza terenem lotniska.
+4.2.
+Procedury łączenia bagażu rejestrowanego z pasażerem:
+4.2.1.
+Identyfikacja pasażerów, którzy nie zgłosili się do wejścia na pokład samolotu.
+4.2.2.
+Identyfikacja bagażu bez właściciela.
+4.3.
+Procedury kontroli bezpieczeństwa bagażu rejestrowanego towarzyszącego pasażerowi oraz bagażu bez właściciela.
+4.4.
+Procedury kontroli bezpieczeństwa bagażu transferowego.
+4.5.
+Procedury ochrony wobec bagażu rejestrowanego.
+4.6.
+Procedury przewozu broni palnej, gazowej i amunicji.
+5.
+Środki kontroli w zakresie ochrony statku powietrznego
+5.1.
+Przeszukanie statku powietrznego.
+5.2.
+Kontrola dostępu i zabezpieczenie statku powietrznego.
+5.3.
+Procedury realizowane w ramach wykonywania wart ochronnych.
+6.
+Środki kontroli w zakresie ochrony zaopatrzenia pokładowego
+6.1.
+Środki kontroli w zakresie ochrony stosowane do dostaw zaopatrzenia pokładowego bezpośrednio przez przewoźnika lotniczego:
+6.1.1.
+Procedury i metody ochrony fizycznej obiektów, w których przechowywane jest zaopatrzenie pokładowe.
+6.1.2.
+Kontrola dostępu do obiektów, w których przechowywane jest zaopatrzenie pokładowe.
+6.1.3.
+Procedury postępowania z towarami dostarczanymi jako zaopatrzenie pokładowe.
+6.1.4.
+Procedury przewozu zaopatrzenia pokładowego do statku powietrznego.
+6.2.
+Środki ochrony wymagane przez przewoźnika od dostawców zaopatrzenia pokładowego:
+6.2.1.
+Procedury i metody ochrony fizycznej obiektów zarejestrowanego dostawcy zaopatrzenia pokładowego.
+6.2.2.
+Kontrola dostępu do obiektów zarejestrowanego dostawcy zaopatrzenia pokładowego.
+6.2.3.
+Procedury postępowania z towarami dostarczanymi zarejestrowanemu dostawcy zaopatrzenia pokładowego.
+6.2.4.
+Procedury przewozu zaopatrzenia pokładowego do statku powietrznego.
+6.3.
+Środki ochrony wymagane przez przewoźnika od znanych dostawców zaopatrzenia pokładowego:
+6.3.1.
+Procedury wyznaczania znanych dostawców zaopatrzenia pokładowego.
+7.
+Ochrona poczty przewoźnika lotniczego i materiałów przewoźnika lotniczego
+7.1.
+Poczta przewoźnika lotniczego i materiały przewoźnika lotniczego przewożone w kabinie lub w luku bagażowym statku powietrznego.
+7.2.
+Materiały przewoźnika lotniczego stosowane do przetwarzania informacji o pasażerach i bagażu.
+8.
+Ochrona przewozu ładunków i poczty
+8.1.
+Procedury przyjmowania ładunków i poczty do przewozu.
+8.2.
+Wymagania dotyczące zarejestrowanego agenta.
+8.3.
+Wymagania dotyczące znanego nadawcy.
+8.4.
+Wymagania dotyczące uznanego nadawcy.
+8.5.
+Zasady kontroli bezpieczeństwa ładunków i poczty.
+8.6.
+Ładunki i poczta wyłączone z kontroli bezpieczeństwa.
+8.7.
+Kontrola dostępu do ładunku i poczty.
+8.8.
+Procedury postępowania w przypadku wykrycia przedmiotu zabronionego w ładunku lub poczcie.
+9.
+Środki ochrony stosowane w zakresie bezpieczeństwa teleinformatycznego
+10.
+System kontroli jakości w zakresie ochrony lotnictwa cywilnego
+10.1.
+Organizacja wewnętrznej kontroli jakości.
+10.2.
+Ocena systemu ochrony.
+10.3.
+Sposoby realizacji wewnętrznej kontroli jakości.
+10.4.
+Zasady zlecania i nadzoru realizowanych czynności objętych programem przez podwykonawców.
+11.
+Wymagania dotyczące personelu
+11.1.
+Rekrutacja.
+11.2.
+Sprawdzenie przeszłości.
+11.3.
+Szkolenia w zakresie ochrony lotnictwa cywilnego.
+12.
+Planowanie działań na wypadek sytuacji kryzysowych
+12.1.
+Plan postępowania na wypadek porwania:
+12.1.1.
+Statku powietrznego znajdującego się na ziemi.
+12.1.2.
+Statku powietrznego znajdującego się w powietrzu.
+12.2.
+Plan postępowania w przypadku zagrożenia bombowego.
+12.3.
+Procedury stosowane w trakcie lotu w przypadku znalezienia lub przypuszczenia, że na pokładzie statku powietrznego znajduje się podejrzany przedmiot.
+12.4.
+Dodatkowe środki ochrony w przypadku podwyższonego stopnia zagrożenia.
+12.5.
+Informowanie o incydentach.
+12.6.
+Procedury postępowania w przypadku wystąpienia zagrożeń chemicznych, biologicznych, radiologicznych i nuklearnych.
+13.
+Wykaz załączników
+13.1.
+Struktura odpowiedzialności w zakresie ochrony lotnictwa.
+13.2.
+Lista przedmiotów zabronionych do przewozu w bagażu kabinowym, rejestrowanym, ładunkach i poczcie.
+13.3.
+Lista przeszukania statku powietrznego na wypadek zagrożenia.
+13.4.
+Plany wnętrz statków powietrznych wchodzących w skład floty przewoźnika.
+13.5.
+Kwestionariusz przyjęcia informacji o sytuacji kryzysowej.
+13.6.
+Formularz zgłoszenia aktu bezprawnej ingerencji w lotnictwie cywilnym.
+13.7.
+Kwestionariusz rozmowy z osobą powiadamiającą o zagrożeniu bombowym.
+13.8.
+Wykaz portów lotniczych w państwach trzecich, z których przewoźnik lotniczy zabiera ładunki lub pocztę do Rzeczypospolitej Polskiej.
+13.9.
+Wykaz wewnętrznych procedur operacyjnych wdrażających wymogi określone w programie ochrony.
+
+## Załącznik nr 3 — – Szczegółowe wymagania dotyczące programu ochrony zarejestrowanego agenta
+
+1.
+Zagadnienia ogólne
+1.1.
+Cel programu.
+1.2.
+Definicje.
+1.3.
+Uregulowania prawne:
+1.3.1.
+Międzynarodowe uregulowania prawne.
+1.3.2.
+Unijne uregulowania prawne.
+1.3.3.
+Krajowe uregulowania prawne.
+2.
+Struktura organizacyjna
+2.1.
+Zakres prowadzonej działalności.
+2.2.
+Struktura organizacyjna przedsiębiorstwa.
+2.3.
+Lokalizacja przedsiębiorstwa:
+2.3.1.
+Siedziba główna.
+2.3.2.
+Pozostałe lokalizacje.
+2.4.
+Osoba odpowiedzialna za sprawy ochrony wraz z zakresem jej uprawnień, obowiązków i odpowiedzialności.
+3.
+Charakterystyka fizyczna obiektów
+3.1.
+Granice stref obiektów wraz ze zróżnicowaniem dostępu.
+3.2.
+Ochrona wydzielonych rejonów obiektu.
+3.3.
+Opis ogrodzenia obiektów.
+3.4.
+Nadzór nad obiektami oraz urządzenia wykorzystywane do ich ochrony.
+4.
+Procedury ochrony
+4.1.
+Kontrola dostępu:
+4.1.1.
+Kontrola dostępu osób do pomieszczeń i urządzeń na terenie obiektu.
+4.1.2.
+Kontrola dostępu pojazdów na teren przedsiębiorstwa.
+4.1.3.
+Ochrona skontrolowanych ładunków i poczty.
+4.2.
+Procedury akceptacji ładunków i poczty do przewozu wraz z dokumentowaniem:
+4.2.1.
+Ładunki i poczta otrzymane od zarejestrowanego agenta, znanego nadawcy lub uznanego nadawcy.
+4.2.2.
+Ładunki i poczta otrzymane od innych nadawców.
+4.2.3.
+Ładunki i poczta pochodzące spoza Unii Europejskiej.
+4.2.4.
+Ładunki i poczta transferowa.
+4.3.
+Kontrola bezpieczeństwa ładunków i poczty:
+4.3.1.
+Urządzenia wykorzystywane do kontroli bezpieczeństwa.
+4.3.2.
+Procedura kontroli bezpieczeństwa wraz z jej dokumentowaniem.
+4.3.3.
+Zwolnienia z kontroli bezpieczeństwa.
+4.3.4.
+Podmiot realizujący kontrolę bezpieczeństwa.
+4.3.5.
+Kategorie przedmiotów zabronionych do przewozu w ładunkach lub poczcie.
+4.4.
+Transport i dostawa ładunku i poczty drogą lądową:
+4.4.1.
+Dokumentacja.
+4.4.2.
+Procedury zabezpieczenia ładunków i poczty w czasie transportu.
+4.4.3.
+Organizacja transportu.
+4.5.
+Procedury z zakresu zlecania podwykonawstwa środków kontroli w zakresie ochrony:
+4.5.1.
+Wymagania dotyczące uznanych nadawców.
+4.5.2.
+Procedura wyznaczania uznanych nadawców.
+5.
+Środki ochrony stosowane na terenie zarejestrowanego agenta przez inne podmioty objęte zakresem jego programu ochrony
+6.
+System kontroli jakości w zakresie ochrony lotnictwa cywilnego
+6.1.
+Wewnętrzna kontrola jakości:
+6.1.1.
+Ocena programu ochrony pod kątem aktualności i adekwatności zawartych w nim informacji.
+6.1.2.
+Czynności audytorskie.
+6.2.
+Kontrola jakości podwykonawców realizujących zadania z zakresu ochrony.
+7.
+Wymagania dotyczące personelu
+7.1.
+Rekrutacja.
+7.2.
+Sprawdzenie przeszłości.
+7.3.
+Szkolenia w zakresie ochrony lotnictwa cywilnego.
+8.
+Planowanie działań na wypadek sytuacji kryzysowych
+8.1.
+Działania podejmowane w przypadku nieuprawnionego dostępu do skontrolowanych ładunków i poczty.
+8.2.
+Procedury postępowania w przypadku zagrożenia bombowego.
+8.3.
+Informowanie o incydentach.
+8.4.
+Procedury postępowania w przypadku wystąpienia zagrożeń chemicznych, biologicznych, radiologicznych i nuklearnych.
+9.
+Wykaz załączników
+9.1.
+Deklaracja zarejestrowanego agenta.
+9.2.
+Deklaracja przewoźnika drogowego.
+9.3.
+Instrukcje dla uznanych nadawców oraz deklaracja uznanego nadawcy.
+9.4.
+Wzory instrukcji (procedur) stanowiskowych.
+9.5.
+Instrukcja przepustkowa wraz z wzorami stosowanych przepustek.
+9.6.
+Plan albo mapa usytuowania obiektów przedsiębiorstwa w otoczeniu miasta lub lotniska, z uwzględnieniem stref dostępu.
+9.7.
+Dane teleadresowe podwykonawców oraz osób funkcyjnych.
+9.8.
+Procedury ochrony i kontroli dostępu realizowane przez uznanych nadawców wyznaczonych przez zarejestrowanego agenta.
+9.9.
+Lista podwykonawców wraz z zakresem umowy.
+9.10.
+Kwestionariusz rozmowy z osobą powiadamiającą o zagrożeniu bombowym.
+9.11.
+Wykaz wewnętrznych procedur operacyjnych wdrażających wymogi określone w programie ochrony.
+
+## Załącznik nr 4 — – Szczegółowe wymagania dotyczące programu ochrony zarejestrowanego dostawcy zaopatrzenia pokładowego
+
+1.
+Zagadnienia ogólne
+1.1.
+Cel programu.
+1.2.
+Definicje.
+1.3.
+Uregulowania prawne:
+1.3.1.
+Międzynarodowe uregulowania prawne.
+1.3.2.
+Unijne uregulowania prawne.
+1.3.3.
+Krajowe uregulowania prawne.
+2.
+Struktura organizacyjna
+2.1.
+Zakres prowadzonej działalności.
+2.2.
+Struktura organizacyjna przedsiębiorstwa.
+2.3.
+Lokalizacja przedsiębiorstwa:
+2.3.1.
+Siedziba główna.
+2.3.2.
+Pozostałe lokalizacje.
+2.4.
+Osoba odpowiedzialna za sprawy ochrony wraz z zakresem jej uprawnień, obowiązków i odpowiedzialności.
+3.
+Charakterystyka fizyczna obiektów
+3.1.
+Granice stref obiektów wraz ze zróżnicowaniem dostępu.
+3.2.
+Ochrona wydzielonych rejonów obiektu.
+3.3.
+Opis ogrodzenia obiektów.
+3.4.
+Nadzór nad obiektami oraz urządzenia wykorzystywane do ich ochrony.
+4.
+Procedury ochrony
+4.1.
+Kontrola dostępu:
+4.1.1.
+Kontrola dostępu osób do pomieszczeń i urządzeń na terenie obiektu.
+4.1.2.
+Kontrola dostępu pojazdów na teren przedsiębiorstwa.
+4.2.
+Procedury ochrony przy dostawie produktów zaopatrzenia pokładowego:
+4.2.1.
+Zaopatrzenie pochodzące od znanych dostawców.
+4.2.2.
+Zaopatrzenie pochodzące od innych dostawców.
+4.3.
+Kontrola bezpieczeństwa zaopatrzenia pokładowego:
+4.3.1.
+Urządzenia wykorzystywane do kontroli bezpieczeństwa.
+4.3.2.
+Procedura kontroli bezpieczeństwa wraz z jej dokumentowaniem.
+4.3.3.
+Zwolnienia z kontroli bezpieczeństwa.
+4.3.4.
+Podmiot realizujący kontrolę bezpieczeństwa.
+4.3.5.
+Kategorie przedmiotów zabronionych do przewozu w zaopatrzeniu pokładowym.
+4.4.
+Procedury ochrony skontrolowanych towarów i produktów:
+4.4.1.
+Procedury ochrony z zakresu przygotowywania zaopatrzenia pokładowego.
+4.4.2.
+Procedury ochrony przechowywania zaopatrzenia pokładowego wraz ze stosowaną dokumentacją.
+4.5.
+Sposoby zabezpieczenia wózków, pojemników i pojazdów do przewożenia zaopatrzenia pokładowego.
+4.6.
+Procedury ochrony przy przewozie zaopatrzenia pokładowego i załadunku na pokład statku powietrznego.
+4.7.
+Procedury z zakresu zlecania podwykonawstwa środków kontroli w zakresie ochrony:
+4.7.1.
+Wymagania dotyczące znanych dostawców.
+4.7.2.
+Procedura wyznaczania znanych dostawców.
+5.
+Środki ochrony stosowane na terenie zarejestrowanego dostawcy zaopatrzenia pokładowego przez inne podmioty objęte zakresem jego programu ochrony
+6.
+System kontroli jakości w zakresie ochrony lotnictwa cywilnego
+6.1.
+Wewnętrzna kontrola jakości:
+6.1.1.
+Ocena programu ochrony pod kątem aktualności i adekwatności zawartych w nim informacji.
+6.1.2.
+Czynności audytorskie.
+6.2.
+Kontrola jakości u znanych dostawców.
+7.
+Wymagania dotyczące personelu
+7.1.
+Rekrutacja.
+7.2.
+Sprawdzenie przeszłości.
+7.3.
+Szkolenia w zakresie ochrony lotnictwa cywilnego.
+8.
+Planowanie działań na wypadek sytuacji kryzysowych
+8.1.
+Działania podejmowane w przypadku nieuprawnionego dostępu do zaopatrzenia pokładowego.
+8.2.
+Procedury postępowania w przypadku zagrożenia bombowego.
+8.3.
+Informowanie o incydentach.
+8.4.
+Procedury postępowania w przypadku wystąpienia zagrożeń chemicznych, biologicznych, radiologicznych i nuklearnych.
+9.
+Wykaz załączników
+9.1.
+Struktura organizacyjna.
+9.2.
+Instrukcja przepustkowa wraz ze wzorami stosowanych przepustek.
+9.3.
+Plan albo mapa usytuowania obiektów przedsiębiorstwa w otoczeniu miasta lub lotniska, z uwzględnieniem stref dostępu.
+9.4.
+Wykaz znanych dostawców wraz z zakresami umów oraz danymi teleadresowymi, w tym osób odpowiedzialnych w podmiocie za ochronę lotnictwa cywilnego.
+9.5.
+Procedury ochrony i kontroli dostępu realizowane przez znanych dostawców wyznaczonych przez zarejestrowanego agenta.
+9.6.
+Wzór deklaracji zobowiązań zarejestrowanego dostawcy zaopatrzenia pokładowego.
+9.7.
+Wzór deklaracji zobowiązań znanego dostawcy zaopatrzenia pokładowego.
+9.8.
+Instrukcja dotycząca plombowania pojemników, pojazdów, wózków i kontenerów.
+9.9.
+Kwestionariusz przyjęcia informacji o sytuacji kryzysowej.
+9.10.
+Formularz zgłoszenia aktu bezprawnej ingerencji w lotnictwie cywilnym.
+9.11.
+Kwestionariusz rozmowy z osobą powiadamiającą o zagrożeniu bombowym.
+9.12.
+Wykaz wewnętrznych procedur operacyjnych wdrażających wymogi określone w programie ochrony.
+
+## Załącznik nr 5 — – Szczegółowe wymagania programu ochrony instytucji zapewniającej służby żeglugi powietrznej
+
+1.
+Zagadnienia ogólne
+1.1.
+Cel programu.
+1.2.
+Definicje.
+1.3.
+Uregulowania prawne:
+1.3.1.
+Międzynarodowe uregulowania prawne.
+1.3.2.
+Unijne uregulowania prawne.
+1.3.3.
+Krajowe uregulowania prawne.
+1.4.
+Organizacja ochrony przedsiębiorstwa.
+1.5.
+Wyznaczenie osoby odpowiedzialnej za sprawy ochrony przedsiębiorstwa oraz zakres jej uprawnień, obowiązków i odpowiedzialności.
+2.
+Charakterystyka fizyczna obiektów
+2.1.
+Usytuowanie obiektów:
+2.1.1.
+W strefie ogólnodostępnej lotniska.
+2.1.2.
+W strefie zastrzeżonej lotniska.
+2.1.3.
+Na pograniczu stref ogólnodostępnej lotniska i zastrzeżonej lotniska.
+2.1.4.
+Obiekty poza terenem lotniska.
+2.2.
+Granice stref obiektów i zróżnicowanie dostępu do nich przez personel przedsiębiorstwa.
+2.3.
+Nadzór nad obiektami oraz urządzenia wykorzystywane do ich ochrony.
+2.4.
+Ogrodzenie obiektów oraz przejścia eksploatacyjne i awaryjne.
+2.5.
+Lokalizacja miejsca do kierowania akcją w sytuacji kryzysowej oraz zapewnienie środków łączności.
+2.6.
+Źródła zasilania zasadnicze i awaryjne.
+3.
+Procedury ochrony
+3.1.
+System przepustkowy:
+3.1.1.
+Kontrola dostępu osób do obiektów poza terenem lotniska i wybranych obiektów lub urządzeń.
+3.1.2.
+Kontrola dostępu pojazdów do obiektów poza terenem lotniska i wybranych obiektów lub urządzeń.
+3.1.3.
+Rodzaje i ilość przepustek.
+3.2.
+Sposób wydawania i przechowywania kluczy do pomieszczeń.
+3.3.
+Ochrona wydzielonych rejonów obiektu.
+3.4.
+Procedury ochrony związane z działalnością obiektów kontroli ruchu lotniczego.
+3.5.
+Procedury związane z przekazywaniem informacji o porwanym statku powietrznym za pomocą systemu Sieci Stałej Łączności Lotniczej (AFTN) lub innych wykorzystywanych do tego celu sieci łączności.
+3.6.
+Środki ochrony stosowane w zakresie bezpieczeństwa teleinformatycznego.
+4.
+Środki ochrony stosowane na terenie instytucji zapewniającej służby żeglugi powietrznej przez inne podmioty objęte zakresem jej programu ochrony
+5.
+Wewnętrzny system kontroli jakości z zakresu ochrony lotnictwa cywilnego
+5.1.
+Ocena programu ochrony pod kątem aktualności i adekwatności zawartych w nim informacji.
+5.2.
+Czynności audytorskie z zakresu ochrony lotnictwa cywilnego.
+5.3.
+Przeglądy systemu ochrony obiektów.
+5.4.
+Testy systemu ochrony obiektów.
+6.
+Wymagania dotyczące personelu
+6.1.
+Rekrutacja.
+6.2.
+Sprawdzenie przeszłości.
+6.3.
+Szkolenia w zakresie ochrony lotnictwa cywilnego.
+7.
+Planowanie działań na wypadek sytuacji kryzysowych
+7.1.
+Działania podejmowane w przypadku wtargnięcia osób nieupoważnionych na teren obiektów lub zaistnienia sabotażu.
+7.2.
+Procedury postępowania w przypadku otrzymania informacji o planowanym zamachu bombowym lub innym zagrożeniu terrorystycznym na terenie obiektu:
+7.2.1.
+Sposób postępowania w przypadku przyjmowania informacji telefonicznej o planowanym zamachu bombowym lub innym zagrożeniu terrorystycznym.
+7.2.2.
+Sposób postępowania po otrzymaniu pisemnej informacji o planowanym zamachu bombowym lub innym zagrożeniu terrorystycznym.
+7.2.3.
+Sposób postępowania w przypadku otrzymania bezpośredniej ustnej informacji o planowanym zamachu bombowym lub innym zagrożeniu terrorystycznym.
+7.3.
+Sposób postępowania w przypadku zagrożenia środkami masowego rażenia.
+7.4.
+Procedury postępowania w przypadku znalezienia podejrzanych przedmiotów, pakunków lub niebezpiecznych urządzeń na terenie obiektów.
+7.5.
+Procedury ewakuacji Centrum Zarządzania Ruchem Lotniczym, uwzględniające konieczność reorganizacji ruchu lotniczego w przestrzeni powietrznej Rzeczypospolitej Polskiej z zachowaniem zasad bezpieczeństwa tego ruchu.
+7.6.
+Obieg informacji w przypadku zaistnienia zagrożeń.
+7.7.
+Informowanie o incydentach.
+7.8.
+Procedury postępowania w przypadku wystąpienia zagrożeń chemicznych, biologicznych, radiologicznych i nuklearnych.
+8.
+Wykaz załączników
+8.1.
+Plan albo mapa usytuowania obiektów z uwzględnieniem stref dostępu.
+8.2.
+Wzory przepustek osobowych i samochodowych.
+8.3.
+Instrukcja o systemie przepustkowym.
+8.4.
+Kwestionariusz przyjęcia informacji o sytuacji kryzysowej.
+8.5.
+Formularz zgłoszenia aktu bezprawnej ingerencji w lotnictwie cywilnym.
+8.6.
+Kwestionariusz rozmowy z osobą powiadamiającą o zagrożeniu bombowym.
+8.7.
+Wykaz przedmiotów zabronionych do wnoszenia na teren obiektów.
+8.8.
+Wykaz wewnętrznych procedur operacyjnych wdrażających wymogi określone w programie ochrony.
+
+## Załącznik nr 6 — – Szczegółowe wymagania programu ochrony lotniska niebędącego portem lotniczym podlegającego alternatywnym środkom ochrony
+
+1.
+Zestawienie obowiązujących uregulowań prawnych z zakresu ochrony lotnictwa cywilnego
+1.1.
+Międzynarodowe uregulowania prawne.
+1.2.
+Unijne uregulowania prawne.
+1.3.
+Krajowe uregulowania prawne.
+2.
+Organizacja ochrony lotniska wraz z obowiązkami i zakresem odpowiedzialności
+2.1.
+Osoba odpowiedzialna za ochronę lotniska.
+2.2.
+Współpraca z Policją lub Strażą Graniczną.
+3.
+Fizyczna charakterystyka lotniska
+4.
+Użytkownicy lotniska
+5.
+Charakter i średnia liczba operacji lotniczych w miesiącu
+6.
+Środki ochrony lotniska
+7.
+Kontrola bezpieczeństwa pasażerów i ich bagażu
+8.
+Metody i środki ochrony przewozu ładunków i poczty
+9.
+Ochrona statków powietrznych
+10.
+Informowanie w sytuacjach kryzysowych Policji, Straży Granicznej, Państwowej Straży Pożarnej, Prezesa Urzędu Lotnictwa Cywilnego
 

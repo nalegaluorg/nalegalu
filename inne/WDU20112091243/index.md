@@ -8,12 +8,10 @@ pos: 1243
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o języku migowym i innych środkach komunikowania się
-
-*USTAWA z dnia 19 sierpnia 2011 r.*
+# Ustawa z dnia 19 sierpnia 2011 r. o języku migowym i innych środkach komunikowania się
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +22,18 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2011-08-19 |
 | Data wydania | 2011-10-03 |
+| Wejście w życie | 2012-04-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112091243) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1243/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa zasady:
+
+- **1)** korzystania przez osoby uprawnione z pomocy osoby przybranej w kontaktach z organami administracji publicznej, jednostkami systemu, podmiotami leczniczymi, jednostkami Policji, Państwowej Straży Pożarnej i straży gminnych oraz jednostkami ochotniczymi działającymi w tych obszarach;
+- **2)** obsługi osób uprawnionych w kontaktach z organami administracji publicznej;
+- **3)** dofinansowania kosztów kształcenia osób uprawnionych, członków ich rodzin oraz innych osób mających stały lub bezpośredni kontakt z osobami uprawnionymi w zakresie polskiego języka migowego, systemu językowo-migowego i sposobów komunikowania się osób głuchoniewidomych na różnych poziomach;
+- **4)** monitorowania rozwiązań wspierających komunikowanie się i dostępu do nich.
 
 **Art. 2.**
 
@@ -43,6 +47,21 @@ source: "isap-pdf"
 
 **Art. 3.** Ilekroć w ustawie jest mowa o:
 
+- **1)** osobie przybranej – należy przez to rozumieć osobę, która ukończyła 16 lat i została wybrana przez osobę uprawnioną w celu ułatwienia porozumienia z osobą uprawnioną i udzielenia jej pomocy w załatwieniu spraw w organach administracji publicznej, jednostkach systemu, podmiotach leczniczych, jednostkach Policji, Państwowej Straży Pożarnej i straży gminnych oraz jednostkach ochotniczych działających w tych obszarach;
+- **2)** polskim języku migowym (PJM) – należy przez to rozumieć naturalny wizualno-przestrzenny język komunikowania się osób uprawnionych;
+- **3)** systemie językowo-migowym (SJM) – należy przez to rozumieć podstawowy środek komunikowania się osób uprawnionych, w którym znaki migowe wspierają wypowiedź dźwiękowo-artykulacyjną;
+- **4)** sposobach komunikowania się osób głuchoniewidomych (SKOGN) – należy przez to rozumieć podstawowy środek komunikowania się osób uprawnionych, w którym sposób przekazu komunikatu jest dostosowany do potrzeb wynikających z łącznego występowania dysfunkcji narządu wzroku i słuchu;
+- **5)** środkach wspierających komunikowanie się – należy przez to rozumieć rozwiązania lub usługi umożliwiające kontakt, w szczególności poprzez: korzystanie z poczty elektronicznej, przesyłanie wiadomości tekstowych, w tym z wykorzystaniem wiadomości SMS, MMS lub komunikatorów internetowych, komunikację audiowizualną, w tym z wykorzystaniem komunikatorów internetowych, przesyłanie faksów, strony internetowe spełniające standardy dostępności dla osób niepełnosprawnych;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **6)** organach administracji publicznej – należy przez to rozumieć organy określone w art. 5 § 2 pkt 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.);
+- **7)** jednostkach systemu – należy przez to rozumieć jednostki systemu Państwowe Ratownictwo Medyczne, o których mowa w art. 32 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. Nr 191, poz. 1410, z późn. zm.);
+- **8)** podmiotach leczniczych – należy przez to rozumieć podmioty lecznicze, o których mowa w art. 4 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. Nr 112, poz. 654, Nr 149, poz. 887, Nr 174, poz. 1039 i Nr 185, poz. 1092).
+
 **Art. 4.**
 
 1. Osoba uprawniona ma prawo do swobodnego korzystania z wybranej przez siebie formy komunikowania się.
@@ -51,7 +70,16 @@ source: "isap-pdf"
 
 **Art. 5.** Osoby uprawnione mają prawo do:
 
+- **1)** usług, o których mowa w art. 9 ust. 1 i 2;
+- **2)** świadczeń, o których mowa w art. 11 ust. 1;
+- **3)** dofinansowania, o którym mowa w art. 18.
+
 **Art. 6.** Przepisy ustawy są realizowane przez:
+
+- **1)** organy administracji publicznej,
+- **2)** jednostki systemu,
+- **3)** podmioty lecznicze,
+- **4)** jednostki Policji, Państwowej Straży Pożarnej i straże gminne oraz jednostki ochotnicze działające w tych obszarach zwane dalej „podmiotami zobowiązanymi”.
 
 #### Rozdział 2 Obsługa osób uprawnionych
 
@@ -59,7 +87,7 @@ source: "isap-pdf"
 
 1. Osoba uprawniona ma prawo do skorzystania z pomocy osoby przybranej w kontaktach z podmiotami zobowiązanymi.
 
-2. Prawo, o którym mowa w ust. 1, może być ograniczone wyłącznie ze względu na zasady określone w przepisach ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742 oraz z 2022 r. poz. 655 i 1933).
+2. Prawo, o którym mowa w ust. 1, może być ograniczone wyłącznie ze względu na zasady określone w przepisach ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. Nr 182, poz. 1228).
 
 3. W przypadku skorzystania przez osoby uprawnione z prawa, o którym mowa w ust. 1, podmioty zobowiązane nie mogą wymagać przedstawienia dokumentów potwierdzających znajomość PJM, SJM lub SKOGN przez osoby przybrane.
 
@@ -87,7 +115,7 @@ source: "isap-pdf"
 
 2. Świadczenie może być realizowane również przez pracownika organu administracji publicznej posługującego się PJM lub SJM lub z wykorzystaniem środków wspierających komunikowanie się.
 
-3. Świadczenie jest bezpłatne dla osoby uprawnionej, będącej osobą niepełnosprawną w rozumieniu ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2021 r. poz. 573 i 1981 oraz z 2022 r. poz. 558, 1700 i 1812).
+3. Świadczenie jest bezpłatne dla osoby uprawnionej, będącej osobą niepełnosprawną w rozumieniu ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721 i Nr 171, poz. 1016).
 
 4. Do świadczenia stosuje się odpowiednio art. 8.
 
@@ -130,9 +158,19 @@ source: "isap-pdf"
 
 **Art. 16.** Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, zakres oraz zasady funkcjonowania rejestru, o którym mowa w art. 15, a w szczególności:
 
+- **1)** wzór rejestru,
+- **2)** wzór wniosku o wpis do rejestru,
+- **3)** wzór wniosku o zmianę danych podlegających wpisowi do rejestru,
+- **4)** wzór zawiadomienia o wpisie do rejestru,
+- **5)** wzór zawiadomienia o wykreśleniu z rejestru,
+- **6)** wzór oświadczenia potwierdzającego znajomość PJM, SJM i SKOGN,
+- **7)** zasady wpisu do rejestru, zmiany danych i skreślenia na liście,
+- **8)** tryb udostępniania informacji, ich zakres, a także tryb udostępniania wniosków oraz ich składania,
+- **9)** zakres danych publikowanych w rejestrze mając na uwadze potrzebę zapewnienia sprawnego funkcjonowania rejestru.
+
 **Art. 17.**
 
-1. Koszt wynagrodzenia tłumacza PJM, SJM i SKOGN wpisanego do rejestru, w ramach świadczenia, nie może być wyższy niż 2% przeciętnego wynagrodzenia w poprzednim kwartale, począwszy od pierwszego dnia następnego miesiąca po ogłoszeniu przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2022 r. poz. 504 i 1504) za godzinę świadczenia.
+1. Koszt wynagrodzenia tłumacza PJM, SJM i SKOGN wpisanego do rejestru, w ramach świadczenia, nie może być wyższy niż 2% przeciętnego wynagrodzenia w poprzednim kwartale, począwszy od pierwszego dnia następnego miesiąca po ogłoszeniu przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2009 r. Nr 153, poz. 1227, z późn. zm.) za godzinę świadczenia.
 
 2. Tłumaczowi przysługuje wynagrodzenie za świadczenie wyłącznie w przypadku wybrania go do świadczenia i jego realizowania.
 
@@ -142,10 +180,7 @@ source: "isap-pdf"
 
 **Art. 18.**
 
-1. Osoby, o których mowa w:
-
-- **1)** art. 2 ust. 1 – mogą korzystać z wybranej przez siebie formy szkolenia PJM, SJM, SKOGN lub tłumacza-przewodnika;
-- **2)** art. 2 ust. 1 pkt 1 – mogą korzystać z wybranej przez siebie formy szkolenia z języka polskiego.
+1. Osoby, o których mowa w art. 2 ust. 1, mogą korzystać z wybranej przez siebie formy szkolenia PJM, SJM, SKOGN lub tłumacza-przewodnika.
 
 2. Koszt szkolenia, o którym mowa w ust. 1, może zostać dofinansowany ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych na wniosek osób, o których mowa w ust. 1.
 
@@ -155,7 +190,7 @@ source: "isap-pdf"
 
 - **1)** tryb składania i rozpatrywania wniosków o dofinansowanie kosztów szkolenia, o którym mowa w ust. 1, wysokość oraz sposób przyznawania i przekazywania środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych na ten cel,
 - **2)** zakres oraz formę dodatkowych informacji i dokumentów składanych wraz z wnioskiem, o którym mowa w pkt 1,
-- **3)** wzory wniosków, o których mowa w pkt 1 – mając na uwadze prawidłowe funkcjonowanie mechanizmu dofinansowania kosztów szkolenia języka polskiego, PJM, SJM, SKOGN i tłumacza-przewodnika oraz uwzględnienie potrzeb osób korzystających z tych szkoleń, a także uwzględniając różnice w grupach uprawnionych do dofinansowania.
+- **3)** wzory wniosków, o których mowa w pkt 1 mając na uwadze prawidłowe funkcjonowanie mechanizmu dofinansowania kosztów szkolenia PJM, SJM, SKOGN i tłumacza-przewodnika oraz uwzględnienie potrzeb osób korzystających z tych szkoleń, a także uwzględniając różnice w grupach uprawnionych do dofinansowania.
 
 #### Rozdział 5 Polska Rada Języka Migowego
 
@@ -178,12 +213,7 @@ source: "isap-pdf"
 
 2. Członkiem Rady może zostać osoba znająca PJM, SJM lub SKOGN lub zajmująca się zawodowo tą problematyką.
 
-3. W skład Rady powołuje się:
-
-- **1)** po jednym przedstawicielu ministra właściwego do spraw: oświaty i wychowania, nauki i szkolnictwa wyższego, kultury i ochrony dziedzictwa narodowego, wewnętrznych oraz informatyzacji;
-- **2)** przedstawiciela: Przepisu ust. 2 nie stosuje się.
-    - **a)** Ministra Sprawiedliwości,
-    - **b)** Krajowej Rady Radiofonii i Telewizji.
+3. W skład Rady powołuje się po jednym przedstawicielu ministra właściwego do spraw: sprawiedliwości, oświaty i wychowania, nauki i szkolnictwa wyższego, kultury i ochrony dziedzictwa narodowego, spraw wewnętrznych i administracji oraz przedstawiciela Krajowej Rady Radiofonii i Telewizji. Przepisu ust. 2 nie stosuje się.
 
 4. Członków Rady powołuje i odwołuje minister właściwy do spraw zabezpieczenia społecznego.
 
@@ -193,7 +223,7 @@ source: "isap-pdf"
 
 1. Rada dokonuje wyboru przewodniczącego spośród członków.
 
-2. Przewodniczącym Rady może być wyłącznie osoba uprawniona, znająca PJM i język polski.
+2. Przewodniczącym Rady może być wyłącznie osoba uprawniona, posiadająca wykształcenie lub doświadczenie jednocześnie w zakresie PJM, SJM i SKOGN.
 
 3. Wiceprzewodniczącym Rady jest Pełnomocnik Rządu do spraw Osób Niepełnosprawnych.
 
@@ -235,15 +265,21 @@ source: "isap-pdf"
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
-**Art. 26.** (pominięty)
+**Art. 26.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721 i Nr 171, poz. 1016) wprowadza się następujące zmiany:
+
+- **1)** w art. 35a w ust. 1 w pkt 7 w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f w brzmieniu: „ usług tłumacza języka migowego lub tłumacza-przewodnika; ” ;
+    - **f)**
+
+- **2)** w art. 47 w ust. 1 w pkt 4 w lit. b kropkę zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ szkolenia, o których mowa w art. 18 ustawy z dnia 19 sierpnia 2011 r. o języku migowym i innych środkach komunikowania się (Dz. U. Nr 209, poz. 1243). ” .
+    - **c)**
 
 **Art. 27.**
 
-1. Rada Ministrów przedstawia, w ramach informacji Rządu Rzeczypospolitej Polskiej o działaniach podejmowanych w danym roku na rzecz realizacji postanowień uchwały Rzeczypospolitej Polskiej z dnia 1 sierpnia 1997 r. – Karta Praw Osób Niepełnosprawnych (M.P. poz. 475), informację o funkcjonowaniu ustawy w roku poprzednim.
+1. Rada Ministrów przedstawia, w ramach informacji Rządu Rzeczypospolitej Polskiej o działaniach podejmowanych w danym roku na rzecz realizacji postanowień uchwały Sejmu Rzeczypospolitej Polskiej z dnia 1 sierpnia 1997 r. – Karta Praw Osób Niepełnosprawnych (M. P. Nr 50, poz. 475), informację o funkcjonowaniu ustawy w roku poprzednim.
 
 2. Pierwsza informacja, o której mowa w ust. 1, zostanie przedstawiona za rok następujący po dniu wejścia w życie ustawy.
 
 **Art. 28.** W sprawach nieuregulowanych w ustawie stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
-**Art. 29.** Ustawa wchodzi w życie z dniem 1 kwietnia 2012 r., z wyjątkiem art. 7 i art. 8, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia .
+**Art. 29.** Ustawa wchodzi w życie z dniem 1 kwietnia 2012 r., z wyjątkiem art. 7 i art. 8, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
 

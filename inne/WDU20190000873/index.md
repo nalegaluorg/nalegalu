@@ -8,10 +8,10 @@ pos: 873
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 maja 2019 r.
+# Rozporządzenie Ministra Sprawiedliwościz dnia 7 maja 2019 r. w sprawie limitu przyjęć na kierunki studiów dla funkcjonariuszy Służby Więziennej
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,16 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2019-05-07 |
 | Data wydania | 2019-05-10 |
+| Wejście w życie | 2019-05-11 |
 | Ostatnia zmiana | 2026-03-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000873) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/873/text.pdf) |
 
-Poz. 873 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 7 maja 2019 r.
-w sprawie limitu przyjęć na kierunki studiów dla funkcjonariuszy Służby Więziennej Na podstawie art. 444 ust. 5 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa limit przyjęć na studia na kierunku „penitencjarystyka” dla funkcjonariuszy Służby Więziennej w służbie kandydackiej.
-§ 2. Ustala się limit przyjęć na studia na kierunku „penitencjarystyka” dla funkcjonariuszy Służby Więziennej w służbie kandydackiej w liczbie 50 miejsc.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro
+Treść rozporządzenia
+Na podstawie art. 444 ust. 5 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa limit przyjęć na studia na kierunku „penitencjarystyka” dla funkcjonariuszy Służby Więziennej w służbie kandydackiej.
+§ 2.
+Ustala się limit przyjęć na studia na kierunku „penitencjarystyka” dla funkcjonariuszy Służby Więziennej w służbie kandydackiej w liczbie 50 miejsc.
+§ 3.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

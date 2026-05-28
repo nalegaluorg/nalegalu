@@ -8,10 +8,10 @@ pos: 310
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Poz. 310 ROZPORZĄDZENIE MINISTRA EDUKACJI I NAUKI dnia 12 stycznia 2022 r.
+# Rozporządzenie Ministra Edukacji i Naukiz dnia 12 stycznia 2022 r. w sprawie Sektorowej Ramy Kwalifikacji w sektorze handel
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,23 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2022-01-12 |
 | Data wydania | 2022-02-08 |
+| Wejście w życie | 2022-02-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000310) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/310/text.pdf) |
 
-sprawie Sektorowej Ramy Kwalifikacji sektorze handel Na podstawie art. 11 ust. ustawy dnia 22 grudnia 2015 r. Zintegrowanym Systemie Kwalifikacji (Dz. U. 2020 poz. 226) zarządza się, co następuje: § 1. Do Zintegrowanego Systemu Kwalifikacji włącza się Sektorową Ramę Kwalifikacji sektorze handel.
-§ 2. Kwalifikacje, do których odnosi się Sektorowa Rama Kwalifikacji sektorze handel, przygotowują do realizacji działań związanych procesami zakupu sprzedaży, szczególności podmiotach prowadzących działalność klasyfikowaną zgodnie Polską Klasyfikacją Działalności jako handel hurtowy detaliczny.
-§ 3. Charakterystyki efektów uczenia się dla poziomów Sektorowej Ramy Kwalifikacji sektorze handel, ujęte kategoriach wiedzy, umiejętności oraz kompetencji społecznych, są określone załączniku do rozporządzenia.
-§ 4. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.
-Minister Edukacji Nauki: P. Czarnek
+Treść rozporządzenia
+Załącznik – Charakterystyki efektów uczenia się dla poziomów sektorowej ramy kwalifikacji w sektorze handel, ujęte w kategoriach wiedzy, umiejętności oraz kompetencji społecznych
+Treść rozporządzenia
+Na podstawie art. 11 ust. 4 i 5 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2020 r. poz. 226) zarządza się, co następuje:
+§ 1.
+Do Zintegrowanego Systemu Kwalifikacji włącza się Sektorową Ramę Kwalifikacji w sektorze handel.
+§ 2.
+Kwalifikacje, do których odnosi się Sektorowa Rama Kwalifikacji w sektorze handel, przygotowują do realizacji działań związanych z procesami zakupu i sprzedaży, w szczególności w podmiotach prowadzących działalność klasyfikowaną zgodnie z Polską Klasyfikacją Działalności jako handel hurtowy i detaliczny.
+§ 3.
+Charakterystyki efektów uczenia się dla poziomów Sektorowej Ramy Kwalifikacji w sektorze handel, ujęte w kategoriach wiedzy, umiejętności oraz kompetencji społecznych, są określone w załączniku do rozporządzenia.
+§ 4.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18).
+Załącznik – Charakterystyki efektów uczenia się dla poziomów sektorowej ramy kwalifikacji w sektorze handel, ujęte w kategoriach wiedzy, umiejętności oraz kompetencji społecznych
+patrz oryginał
 

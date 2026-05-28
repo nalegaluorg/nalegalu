@@ -8,12 +8,10 @@ pos: 922
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
 # Ustawa z dnia 29 czerwca 2007 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych
-
-*USTAWA dnia 29 czerwca 2007 zmianie ustawy świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ustawy Ubezpieczeniowym Gwarancyjnym Polskim Biurze Ubezpieczycieli Komunikacyjnych*
 
 | Pole | Wartość |
 |---|---|
@@ -24,52 +22,149 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2007-06-29 |
 | Data wydania | 2007-07-24 |
+| Wejście w życie | 2007-10-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071330922) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/922/text.pdf) |
 
-**Art. 1.** W ustawie dnia 27 sierpnia 2004 świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 210, 2135, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. Nr 210, poz. 2135, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 14b.**
+- **1)** po art. 14 dodaje się art. 14a i 14b w brzmieniu: „
 
-1. Fundusz pokrywa koszty świadczeń opieki zdrowotnej ze środków, których mowa 116 ust. 1 pkt 7a, przypadkach gdy:
+**Art. 14a.**
 
-- **1)** konieczność ich udzielenia jest następstwem zdarzeń zaistniałych związku ruchem pojazdu mechanicznego, a posiadacz tego pojazdu ma obowiązek zawarcia umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadaczy mechanicznych, zgodnie przepisami ubezpieczeniach Ubezpieczeniowym Gwarancyjnym Polskim Biurze Ubezpieczycieli Komunikacyjnych, skim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. 124, 1152, późn. zm. ).
+1. Podmiotowi zobowiązanemu do finansowania świadczeń ze środków publicznych przysługuje roszczenie o zwrot poniesionych kosztów świadczeń opieki zdrowotnej wobec osoby, która popełniła umyślne przestępstwo, stwierdzone prawomocnym wyrokiem, którego skutkiem jest konieczność udzielenia świadczeń opieki zdrowotnej. Roszczenie nie przysługuje w przypadkach, o których mowa w art. 14b ust. 1.
 
-2. Funduszowi nie przysługują roszczenia tytułu poniesienia kosztów świadczeń, których mowa ust. 1.”; (uchylony);
+2. Roszczenie, o którym mowa w ust. 1, nie przysługuje z tytułu poniesienia kosztów świadczeń opieki zdrowotnej udzielonych sprawcy przestępstwa, o którym mowa w ust. 1.
 
-- **3)** 116 ust. 1 po pkt 7 dodaje się pkt 7a brzmieniu: „7a) środki przekazane przez zakłady ubezpieczeń Ubezpieczeniowy Fundusz Gwarancyjny na podstawie przepisów Ubezpieczeniowym Gwarancyjnym Polskim Biurze Ubezpieczycieli Komunikacyjnych;”;
-- **4)** 117 ust. 1 po pkt 1 dodaje się pkt 1a brzmieniu: „1a) koszty świadczeń opieki zdrowotnej udzielanych przypadku, którym mowa 14b ust. 1;”;
-- **5)** (uchylony);
-- **6)** (uchylony);
-- **7)** (uchylony);
-- **8)** po 131 dodaje się 131a brzmieniu: „Art. 131a. 1. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Komisji Nadzoru Finansowego Polskiej Izby Ubezpieczeń, określi, drodze rozporządzenia, wysokość wskaźnika wynikającego kosztów świadczeń opieki zdrowotnej udzielanych przypadku, którym mowa 14b ust. 1, uwzględniając wysokość tych kosztów, wysokość zbioru składek brutto tytułu umów obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadaczy zawieranych zgodnie przepisami Ubezpieczeniowym Gwarancyjnym Polskim Biurze Ubezpieczycieli Komunikacyjnych wysokość wpływów Ubezpieczeniowego Gwarancyjnego tytułu opłat za niespełnienie obowiązku zawarcia umów obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadaczy mechanicznych.
+1. Fundusz pokrywa koszty świadczeń opieki zdrowotnej ze środków, o których mowa w art. 116 ust. 1 pkt 7a, w przypadkach gdy:
 
-2. Wysokość wskaźnika, którym mowa ust. 1, określana jest corocznie, terminie do 30 września, ma zastosowanie roku następnym.
+- **1)** konieczność ich udzielenia jest następstwem zdarzeń zaistniałych w związku z ruchem pojazdu mechanicznego, a posiadacz tego pojazdu ma obowiązek zawarcia umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych, zgodnie z przepisami o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych, oraz
+- **2)** posiadacz lub kierujący pojazdem mechanicznym są obowiązani do odszkodowania na zasadach określonych w art. 34 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. Nr 124, poz. 1152, z późn. zm.).
 
-3. Wskaźnik, którym mowa ust. 1, jest ilorazem wysokości kosztów świadczeń opieki zdrowotnej udzielanych przypadku, którym mowa 14b ust. 1, sumy wysokości zbioru składek brutto, tytułu umów obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadaczy niespełnienie obowiązku zawarcia umów obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadaczy mechanicznych, prognozowanych na rok następny.
+2. Funduszowi nie przysługują roszczenia z tytułu poniesienia kosztów świadczeń, o których mowa w ust. 1. ” ;
+
+- **2)** w art. 97 ust. 8 otrzymuje brzmienie: „
+
+8. Fundusz otrzymuje dotację z budżetu państwa na sfinansowanie kosztów realizacji zadania, o którym mowa w ust. 3 pkt 3, z wyjątkiem kosztów, o których mowa w art. 117 ust. 1 pkt 1a. ” ;
+
+- **3)** w art. 116 w ust. 1 po pkt 7 dodaje się pkt 7a w brzmieniu: „
+- **7a)** środki przekazane przez zakłady ubezpieczeń i Ubezpieczeniowy Fundusz Gwarancyjny na podstawie przepisów o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych; ” ;
+- **4)** w art. 117 w ust. 1 po pkt 1 dodaje się pkt 1a w brzmieniu: „
+- **1a)** koszty świadczeń opieki zdrowotnej udzielanych w przypadku, o którym mowa w art. 14b ust. 1; ” ;
+- **5)** w art. 118 ust. 2 otrzymuje brzmienie: „
+
+2. W planie finansowym Funduszu Prezes Funduszu określa wysokość:
+
+- **1)** planowanych kosztów dla centrali, w tym: kosztów finansowania działalności centrali, rezerwy na koszty realizacji zadań wynikających z przepisów o koordynacji, rezerwy na koszty świadczeń, o których mowa w art. 117 ust. 1 pkt 1a;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** planowanych kosztów poszczególnych oddziałów wojewódzkich Funduszu, w tym kosztów finansowania działalności poszczególnych oddziałów;
+- **3)** łącznych przychodów i kosztów Funduszu. ” ;
+- **6)** art. 124 otrzymuje brzmienie: „
+
+**Art. 124.**
+
+1. Zmiany planu finansowego Funduszu można dokonać w przypadku zaistnienia sytuacji, których nie można było przewidzieć w chwili zatwierdzenia albo ustalenia planu.
+
+2. Zmiany planu finansowego Funduszu zatwierdzonego w trybie, o którym mowa w art. 121 ust. 4, może dokonać Prezes Funduszu. Przepisy art. 121 ust. 1–4 stosuje się odpowiednio.
+
+3. Zmiany planu finansowego Funduszu ustalonego zgodnie z art. 121 ust. 5 albo art. 123 ust. 3 może dokonać minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw finansów publicznych na uzasadniony wniosek Prezesa Funduszu. Do wniosku o zmianę planu dołącza się opinię Rady Funduszu, opinie komisji właściwej do spraw finansów publicznych oraz komisji właściwej do spraw zdrowia Sejmu Rzeczypospolitej Polskiej.
+
+4. Prezes Funduszu, po poinformowaniu ministra właściwego do spraw zdrowia i ministra właściwego do spraw finansów publicznych, może dokonać przesunięcia kosztów w planie finansowym centrali Funduszu oraz przesunięcia kosztów w ramach kosztów administracyjnych w planie finansowym Funduszu, a także dokonać zmiany planu finansowego w zakresie środków przekazywanych Narodowemu Funduszowi Zdrowia z budżetu państwa na podstawie przepisów ustawy z dnia 8 sierpnia 2006 r. o Państwowym Ratownictwie Medycznym.
+
+5. Dyrektor oddziału wojewódzkiego Funduszu, po poinformowaniu Prezesa Funduszu, może dokonać przesunięcia kosztów w ramach kosztów przeznaczonych na świadczenia opieki zdrowotnej w planie finansowym oddziału wojewódzkiego Funduszu.
+
+6. Prezes Funduszu podejmuje decyzję o uruchomieniu rezerwy ogólnej po uzyskaniu pozytywnych opinii ministra właściwego do spraw zdrowia oraz ministra właściwego do spraw finansów publicznych.
+
+7. Prezes Funduszu podejmuje decyzje o uruchomieniu rezerw, o których mowa w art. 118 ust. 2 pkt 1 lit. b i c, po poinformowaniu ministra właściwego do spraw zdrowia i ministra właściwego do spraw finansów publicznych.
+
+8. Zmian planu finansowego Funduszu, o których mowa w ust. 1–3, dokonuje się zgodnie z zasadami określonymi w art. 118.
+
+9. Do zmian planu finansowego, o których mowa w ust. 4–7, oraz do zmiany planu finansowego wynikającej z art. 129 ust. 3 i 4 nie stosuje się przepisów art. 118 ust. 3 oraz art. 121.
+
+10. W przypadku gdy w danym roku obrotowym wysokość kosztów, o których mowa w art. 117 ust. 1 pkt 1a, jest wyższa od wysokości rezerwy, o której mowa w art. 118 ust. 2 pkt 1 lit. c, różnica jest pokrywana z rezerwy ogólnej Funduszu.
+
+11. W przypadku gdy w danym roku obrotowym wysokość kosztów, o których mowa w art. 117 ust. 1 pkt 1a, jest niższa od wysokości rezerwy, o której mowa w art. 118 ust. 2 pkt 1 lit. c, różnicę przeznacza się na powiększenie wysokości tej rezerwy w następnym roku obrotowym. ” ;
+
+- **7)** art. 129 otrzymuje brzmienie: „
+
+**Art. 129.**
+
+1. Zatwierdzony zysk netto za dany rok obrotowy przeznacza się na:
+
+- **1)** pokrycie strat z lat ubiegłych;
+- **2)** fundusz zapasowy.
+
+2. O pokryciu straty netto albo przeznaczeniu zysku netto decyduje Rada Funduszu w drodze uchwały, z uwzględnieniem pierwszeństwa pokrycia strat z lat ubiegłych. Uchwała Rady Funduszu może być podjęta po uzyskaniu pozytywnej opinii ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw zdrowia odnośnie do sposobu podziału zysku netto lub pokrycia straty netto.
+
+3. W przypadku przyjęcia przez Radę Funduszu uchwały przewidującej przeznaczenie zysku netto za dany rok obrotowy na fundusz zapasowy, Prezes Funduszu może dokonać zmiany planu finansowego Funduszu na rok, w którym dokonuje się podziału zysku, przewidującej zwiększenie planowanych kosztów świadczeń opieki zdrowotnej o kwotę nie większą niż wysokość zysku netto za dany rok obrotowy przeznaczonego na fundusz zapasowy.
+
+4. W przypadku, o którym mowa w ust. 3, oraz w przypadku przeznaczenia części rezerwy, o której mowa w art. 118 ust. 2 pkt 1 lit. c, zgodnie z art. 124 ust. 11, przepisu art. 118 ust. 1 nie stosuje się.
+
+5. Przy zmianie planu finansowego Funduszu, o której mowa w ust. 3, przy ustaleniu wysokości środków przekazywanych poszczególnym oddziałom wojewódzkim Funduszu na finansowanie świadczeń opieki zdrowotnej uwzględnia się wyniki finansowe oddziałów wojewódzkich Funduszu za dany rok obrotowy.
+
+6. Przy stosowaniu art. 118 ust. 4 do planu finansowego na rok następny nie uwzględnia się środków przekazanych oddziałom wojewódzkim Funduszu zgodnie z ust. 3 i 5 oraz środków przekazanych oddziałom wojewódzkim Funduszu przy uruchomieniu rezerwy, o której mowa w art. 118 ust. 2 pkt 1 lit. c. ” ;
+
+- **8)** po art. 131 dodaje się art. 131a w brzmieniu: „
+
+**Art. 131a.**
+
+1. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Komisji Nadzoru Finansowego oraz Polskiej Izby Ubezpieczeń, określi, w drodze rozporządzenia, wysokość wskaźnika wynikającego z kosztów świadczeń opieki zdrowotnej udzielanych w przypadku, o którym mowa w art. 14b ust. 1, uwzględniając wysokość tych kosztów, wysokość zbioru składek brutto z tytułu umów obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych zawieranych zgodnie z przepisami o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych oraz wysokość wpływów Ubezpieczeniowego Funduszu Gwarancyjnego z tytułu opłat za niespełnienie obowiązku zawarcia umów obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych.
+
+2. Wysokość wskaźnika, o którym mowa w ust. 1, określana jest corocznie, w terminie do 30 sierpnia, i ma zastosowanie w roku następnym.
+
+3. Wskaźnik, o którym mowa w ust. 1, jest ilorazem wysokości kosztów świadczeń opieki zdrowotnej udzielanych w przypadku, o którym mowa w art. 14b ust. 1, oraz sumy wysokości zbioru składek brutto, z tytułu umów obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych zawieranych zgodnie z przepisami o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych i wysokości wpływów Ubezpieczeniowego Funduszu Gwarancyjnego z tytułu opłat za niespełnienie obowiązku zawarcia umów obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych, prognozowanych na rok następny.
 
 4. Na wniosek Funduszu, nie częściej niż co miesiąc, Policja przekazuje Funduszowi odpłatnie, uwzględniając rzeczywiste koszty przekazania, informacje odrębne dla każdego zdarzenia o:
 
-- **1)** osobach poszkodowanych na skutek zdarzeń zaistniałych związku ruchem obejmujące dla każdej osoby: imię nazwisko, imię ojca numer PESEL, a przypadku nieposiadania numeru PESEL – datę urodzenia obywatelstwo; sprawcach zdarzeń zaistniałych związku ruchem pojazdów obejmujących dla każdej osoby: imię nazwisko, imię ojca numer PESEL, a przypadku nieposiadania numeru PESEL – datę urodzenia obywatelstwo;
-- **3)** tym, czy sprawcą zdarzenia zaistniałego związku ruchem była osoba kierująca pojazdem mechanicznym czy inna osoba;
-- **4)** dacie miejscu zdarzenia zaistniałego związku ruchem mechanicznych.
+- **1)** osobach poszkodowanych na skutek zdarzeń zaistniałych w związku z ruchem pojazdów mechanicznych obejmujące dla każdej osoby: imię i nazwisko, imię ojca oraz numer PESEL, a w przypadku nieposiadania numeru PESEL – datę urodzenia i obywatelstwo;
+- **2)** sprawcach zdarzeń zaistniałych w związku z ruchem pojazdów mechanicznych obejmujących dla każdej osoby: imię i nazwisko, imię ojca oraz numer PESEL, a w przypadku nieposiadania numeru PESEL – datę urodzenia i obywatelstwo;
+- **3)** tym, czy sprawcą zdarzenia zaistniałego w związku z ruchem pojazdów mechanicznych była osoba kierująca pojazdem mechanicznym, czy inna osoba;
+- **4)** dacie i miejscu zdarzenia zaistniałego w związku z ruchem pojazdów mechanicznych.
 
-5. Jeżeli jest to konieczne dla ustalenia uczestników lub sprawcy zdarzenia, na zasadach zakresie określonym ust. 4, Fundusz może się zwrócić udzielenie informacji również do Krajowego Rejestru Karnego, sądu lub innego organu prowadzącego postępowanie sprawie wypadku drogowego.”;
+5. Jeżeli jest to konieczne dla ustalenia uczestników lub sprawcy zdarzenia, na zasadach i w zakresie określonym w ust. 4, Fundusz może się zwrócić o udzielenie informacji również do Krajowego Rejestru Karnego, sądu lub innego organu prowadzącego postępowanie w sprawie wypadku drogowego. ” ;
 
-- **9)** po 136 dodaje się 136a brzmieniu: „Art. 136a. Kwota, której mowa 136 pkt 5, nie zawiera zobowiązań tytułu kosztów pokrywanych rezerwy, której mowa 118 ust. 2 pkt 1 lit. c.”.
+- **9)** po art. 136 dodaje się art. 136a w brzmieniu: „
 
-**Art. 2.** W ustawie dnia 22 maja 2003 Ubezpieczeniowym Gwarancyjnym Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. 124, 1152, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 136a.** Kwota, o której mowa w art. 136 pkt 5, nie zawiera zobowiązań z tytułu kosztów pokrywanych z rezerwy, o której mowa w art. 118 ust. 2 pkt 1 lit. c. ” .
 
-**Art. 3.** Opłatę ryczałtową, której mowa 43a ust. 1 pkt 1 ustawy zmienianej 2, wylicza się na podstawie umów zawartych po dniu wejścia życie niniejszej ustawy.
+**Art. 2.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. Nr 124, poz. 1152, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** po art. 43 dodaje się art. 43a w brzmieniu: „
+
+**Art. 43a.**
+
+1. Zakłady ubezpieczeń wykonujące na terytorium Rzeczypospolitej Polskiej działalność w zakresie obowiązkowego ubezpieczenia OC posiadaczy pojazdów mechanicznych przekazują do centrali Narodowego Funduszu Zdrowia:
+
+- **1)** opłatę ryczałtową określaną jako iloczyn wysokości zbioru składek brutto za dany miesiąc z tytułu umów obowiązkowego ubezpieczenia OC posiadaczy pojazdów mechanicznych oraz wskaźnika, o którym mowa w art. 131a ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. Nr 210, poz. 2135, z późn. zm.);
+- **2)** informację o wysokości zbioru składek brutto, o których mowa w pkt 1.
+
+2. Opłata ryczałtowa oraz informacja, o których mowa w ust. 1, są przekazywane miesięcznie w terminie do dwudziestego dnia miesiąca następującego po miesiącu, którego dotyczą. ” ;
+
+- **2)** po art. 119 dodaje się art. 119a w brzmieniu: „
+
+**Art. 119a.**
+
+1. Fundusz przekazuje do centrali Narodowego Funduszu Zdrowia:
+
+- **1)** opłatę ryczałtową określaną jako iloczyn wysokości wpływów za dany miesiąc z tytułu opłat za niespełnienie obowiązku zawarcia umów obowiązkowego ubezpieczenia OC posiadaczy pojazdów mechanicznych oraz wskaźnika, o którym mowa w art. 131a ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **2)** informację o wysokości wpływów, o których mowa w pkt 1.
+
+2. Opłata ryczałtowa oraz informacja, o których mowa w ust. 1, są przekazywane miesięcznie w terminie do dwudziestego dnia miesiąca następującego po miesiącu, którego dotyczą. ” .
+
+**Art. 3.** Opłatę ryczałtową, o której mowa w art. 43a ust. 1 pkt 1 ustawy zmienianej w art. 2, wylicza się na podstawie umów zawartych po dniu wejścia w życie niniejszej ustawy.
 
 **Art. 4.**
 
-1. W okresie od dnia 1 października 2007 do dnia 31 grudnia 2008 r.:
+1. W okresie od dnia 1 października 2007 r. do dnia 31 grudnia 2008 r.:
 
-- **1)** wysokość wskaźnika, którym mowa 131a ust. 1 ustawy, której mowa 1, brzmieniu nadanym niniejszą ustawą, ustala się na poziomie 0,12; dących następstwem zdarzeń zaistniałych związku ruchem mechanicznych, poniesionych przez świadczeniodawcę łączną wysokość kosztów świadczeń opieki zdrowotnej będących następstwem zdarzeń zaistniałych związku ruchem mechanicznych, poniesionych przez świadczeniodawców;
-- **3)** do wyliczenia wysokości opłaty ryczałtowej, której mowa 43a ust. 1 pkt 1 119a ust. 1 pkt 1 ustawy, której mowa 2, brzmieniu nadanym niniejszą ustawą, stosuje się wysokość wskaźnika ustalonego pkt 1.
+- **1)** wysokość wskaźnika, o którym mowa w art. 131a ust. 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, ustala się na poziomie 0,12;
+- **2)** wysokość środków finansowych otrzymywanych przez świadczeniodawcę z rezerwy wymienionej w art. 118 ust. 2 pkt 1 lit. c ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, ustala się uwzględniając: wysokość tej rezerwy, wysokość kosztów świadczeń opieki zdrowotnej będących następstwem zdarzeń zaistniałych w związku z ruchem pojazdów mechanicznych, poniesionych przez świadczeniodawcę oraz łączną wysokość kosztów świadczeń opieki zdrowotnej będących następstwem zdarzeń zaistniałych w związku z ruchem pojazdów mechanicznych, poniesionych przez świadczeniodawców;
+- **3)** do wyliczenia wysokości opłaty ryczałtowej, o której mowa w art. 43a ust. 1 pkt 1 i art. 119a ust. 1 pkt 1 ustawy, o której mowa w art. 2, w brzmieniu nadanym niniejszą ustawą, stosuje się wysokość wskaźnika ustalonego w pkt 1.
 
-2. (uchylony).
+2. Wysokość wskaźnika, o którym mowa w art. 131 a ust. 1 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, na rok 2009 określa się w terminie do dnia 30 listopada 2008 r.
 
-**Art. 5.** Ustawa wchodzi życie dniem 1 października 2007
+**Art. 5.** Ustawa wchodzi w życie z dniem 1 października 2007 r.
 

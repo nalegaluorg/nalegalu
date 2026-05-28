@@ -8,12 +8,10 @@ pos: 906
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych Uznając szczególne zasługi dla Polski tych jej obywateli, którzy w latach 1956– 1989 z narażeniem własnego życia, wolności, majątku lub praw pracowniczych angażowali się w działalność antykomunistyczną zmierzającą do odzyskania suwerenności i niepodległości Ojczyzny lub byli z tych powodów represjonowani, uchwala się, co następuje:
-
-*USTAWA z dnia 20 marca 2015 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 11 czerwca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych
 
 | Pole | Wartość |
 |---|---|
@@ -27,7 +25,26 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-05-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000906) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/906/text.pdf) |
 
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych (Dz. U. z 2023 r. poz. 388), z uwzględnieniem zmian wprowadzonych ustawą z dnia 13 lipca 2023 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1641) oraz zmian wynikających z przepisów ogłoszonych przed dniem 28 maja 2024 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 13 i art. 14 ustawy z dnia 13 lipca 2023 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1641), które stanowią:
+„
+
+**Art. 13.** Zmiana wysokości przyznanego świadczenia pieniężnego wynikająca z art. 9 ust. 1 ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, jest dokonywana z urzędu i nie wymaga wydania decyzji.
+
+**Art. 14.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 3 i art. 13, które wchodzą w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych Uznając szczególne zasługi dla Polski tych jej obywateli, którzy w latach 1956–1989 z narażeniem własnego życia, wolności, majątku lub praw pracowniczych angażowali się w działalność antykomunistyczną zmierzającą do odzyskania suwerenności i niepodległości Ojczyzny lub byli z tych powodów represjonowani, uchwala się, co następuje:
+
 **Art. 1.** Ustawa reguluje:
+
+- **1)** zasady nabywania statusu działacza opozycji antykomunistycznej lub osoby represjonowanej z powodów politycznych;
+- **2)** zasady wydawania legitymacji i nadawania odznaki honorowej działacza opozycji antykomunistycznej lub osoby represjonowanej z powodów politycznych;
+- **3)** zasady przyznawania świadczenia pieniężnego, pomocy pieniężnej i świadczenia wyrównawczego działaczom opozycji antykomunistycznej lub osobom represjonowanym z powodów politycznych;
+- **4)** inne niż wymienione w pkt 2 i 3 uprawnienia działacza opozycji antykomunistycznej lub osoby represjonowanej z powodów politycznych;
+- **5)** zadania, organizację i zasady działania wojewódzkich rad konsultacyjnych do spraw działaczy opozycji antykomunistycznej oraz osób represjonowanych z powodów politycznych.
 
 **Art. 2.**
 
@@ -36,6 +53,21 @@ source: "isap-pdf"
 2. Do okresu 12 miesięcy, o którym mowa w ust. 1, nie wlicza się okresów działalności w ramach niezależnego ruchu związkowego lub niezależnego ruchu studenckiego, prowadzonej w okresie od dnia 31 sierpnia 1980 r. do dnia 12 grudnia 1981 r.
 
 **Art. 3.** Osobą represjonowaną z powodów politycznych jest osoba, która w okresie od dnia 1 stycznia 1956 r. do dnia 31 lipca 1990 r.:
+
+- **1)** przebywała w: więzieniu lub innym miejscu odosobnienia na terytorium Polski na mocy wyroku wydanego w latach 1956–1989 albo bez wyroku jednorazowo przez okres dłuższy niż 48 godzin lub wielokrotnie przez łączny okres dłuższy niż 30 dni, za działalność na rzecz odzyskania przez Polskę niepodległości i suwerenności lub respektowania politycznych praw człowieka w Polsce, ośrodku odosobnienia na podstawie art. 42 dekretu z dnia 12 grudnia 1981 r. o stanie wojennym (Dz. U. poz. 154, z 1982 r. poz. 18, z 1989 r. poz. 178 oraz z 2011 r. poz. 342) za działalność na rzecz odzyskania przez Polskę niepodległości i suwerenności lub respektowania politycznych praw człowieka w Polsce;
+    - **a)**
+    - **b)**
+
+- **2)** przez okres powyżej 30 dni pełniła zasadniczą służbę wojskową lub czynną służbę wojskową w ramach ćwiczeń wojskowych, do której odbycia została powołana z przyczyn politycznych za działalność na rzecz odzyskania przez Polskę niepodległości i suwerenności lub respektowania politycznych praw człowieka w Polsce;
+- **3)** brała udział w wystąpieniu wolnościowym na rzecz odzyskania przez Polskę niepodległości i suwerenności lub respektowania politycznych praw człowieka w Polsce i w związku z tym: na skutek działania, w tym niejawnego, wojska, milicji lub organów bezpieczeństwa państwa, o których mowa w art. 5 ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2023 r. poz. 102), zwanych dalej „organami bezpieczeństwa państwa”, poniosła śmierć, doznała uszkodzenia ciała lub rozstroju zdrowia na okres dłuższy niż 7 dni, była inwigilowana przez organy bezpieczeństwa państwa i podjęto wobec niej bezprawne działanie polegające na popełnieniu na jej szkodę przestępstwa lub wykroczenia, była pozbawiona możliwości wykonywania swojego zawodu, została z nią rozwiązana umowa o pracę, została relegowana z uczelni wyższej lub innej szkoły, była objęta zakazem publikacji przez Główny Urząd Kontroli Prasy, Publikacji i Widowisk, wojewódzki lub miejski urząd kontroli prasy, publikacji i widowisk albo Główny Urząd Kontroli Publikacji i Widowisk lub okręgowy urząd kontroli publikacji i widowisk przez okres dłuższy niż jeden rok;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+
+- **4)** była poszukiwana listem gończym, oskarżona lub skazana za popełnienie przestępstwa lub wielokrotnie skazywana za popełnienie wykroczenia, za działalność na rzecz odzyskania przez Polskę niepodległości i suwerenności lub respektowania politycznych praw człowieka w Polsce.
 
 **Art. 4.**
 
@@ -87,15 +119,13 @@ source: "isap-pdf"
 - **2)** wzór legitymacji,
 - **3)** (uchylony)
 - **4)** sposób noszenia odznaki honorowej
-- **5)** (uchylony) – mając na uwadze sprawne przeprowadzenie postępowania oraz zapewnienie właściwej identyfikacji posiadaczy legitymacji.
+- **5)** (uchylony) mając na uwadze sprawne przeprowadzenie postępowania oraz zapewnienie właściwej identyfikacji posiadaczy legitymacji.
 
 **Art. 7.**
 
 1. Prawo do świadczenia pieniężnego i pomocy pieniężnej przysługuje działaczowi opozycji antykomunistycznej lub osobie represjonowanej z powodów politycznych o potwierdzonym statusie działacza opozycji antykomunistycznej lub osoby represjonowanej z powodów politycznych, zwanym dalej „osobą uprawnioną”.
 
-2. W przypadku gdy podstawą potwierdzenia statusu działacza opozycji antykomunistycznej lub osoby represjonowanej z powodów politycznych były wyłącznie okoliczności i zdarzenia będące podstawą uprawnień kombatanckich na podstawie ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2022 r. poz.
-
-- **2039)** , osobie uprawnionej przysługuje – według jej wyboru – prawo do świadczenia pieniężnego albo prawo do dodatku kombatanckiego, świadczenia w wysokości dodatku kombatanckiego, ryczałtu energetycznego i dodatku kompensacyjnego.
+2. W przypadku gdy podstawą potwierdzenia statusu działacza opozycji antykomunistycznej lub osoby represjonowanej z powodów politycznych były wyłącznie okoliczności i zdarzenia będące podstawą uprawnień kombatanckich na podstawie ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2022 r. poz. 2039), osobie uprawnionej przysługuje – według jej wyboru – prawo do świadczenia pieniężnego albo prawo do dodatku kombatanckiego, świadczenia w wysokości dodatku kombatanckiego, ryczałtu energetycznego i dodatku kompensacyjnego.
 
 3. Warunkiem przyznania przez Szefa Urzędu do Spraw Kombatantów i Osób Represjonowanych osobom, o których mowa w ust. 1, świadczenia pieniężnego jest przedłożenie przez taką osobę zaświadczenia organu emerytalnego lub rentowego o dokonanej rezygnacji z pobierania dodatku kombatanckiego, świadczenia w wysokości dodatku kombatanckiego, ryczałtu energetycznego i dodatku kompensacyjnego w okresie pobierania świadczenia pieniężnego. Informację o przyznaniu świadczenia pieniężnego Urząd do Spraw Kombatantów i Osób Represjonowanych przekazuje właściwemu organowi emerytalnemu lub rentowemu.
 
@@ -117,9 +147,7 @@ source: "isap-pdf"
 
 **Art. 9.**
 
-1. Świadczenie pieniężne przyznaje się miesięcznie w wysokości najniższej emerytury ogłaszanej przez Prezesa Zakładu Ubezpieczeń Społecznych na podstawie art. 94 ust. 2 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251, 1429 i
-
-- **1672)** , zwanej dalej „najniższą emeryturą”.
+1. Świadczenie pieniężne przyznaje się miesięcznie w wysokości najniższej emerytury ogłaszanej przez Prezesa Zakładu Ubezpieczeń Społecznych na podstawie art. 94 ust. 2 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251, 1429 i 1672), zwanej dalej „najniższą emeryturą”.
 
 2. (uchylony)
 
@@ -168,8 +196,6 @@ source: "isap-pdf"
 
 10. W szczególnie uzasadnionych przypadkach Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych może przyznać pomoc pieniężną na innych warunkach niż określone w ust. 4–7 i ust. 9.
 
-**Art. 10a.**
-
 1. Prawo do świadczenia wyrównawczego przysługuje osobie uprawnionej pobierającej emeryturę lub rentę inwalidzką albo rentę z tytułu niezdolności do pracy albo rentę rodzinną, zwaną dalej „rentą”, w kwocie niższej niż 3046,29 zł miesięcznie.
 
 2. Świadczenie wyrównawcze przysługuje w kwocie stanowiącej różnicę pomiędzy kwotą, o której mowa w ust. 1, a kwotą emerytury lub renty.
@@ -178,19 +204,13 @@ source: "isap-pdf"
 
 4. Kwota, o której mowa w ust. 1, ulega podwyższeniu w terminach i na zasadach określonych przepisami ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
-5. Prezes Zakładu Ubezpieczeń Społecznych ogłasza w formie komunikatu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, co najmniej na 7 dni roboczych przed najbliższym terminem waloryzacji, uwzględnianą od tego terminu przy obliczaniu wysokości świadczenia wyrównawczego kwotę, o której mowa w ust. 1.
-
-**Art. 10b.** W razie przyznania, ustania lub ponownego obliczenia wysokości świadczeń, o których mowa w art. 10a ust. 3, świadczenie wyrównawcze podlega ponownemu obliczeniu z urzędu, w taki sposób, aby łączna kwota świadczeń, o których mowa w art. 10a ust. 3, wraz ze świadczeniem wyrównawczym, nie przekroczyła miesięcznie kwoty, o której mowa w art. 10a ust. 1, z zastrzeżeniem włączeń, o których mowa w art. 10a ust. 3, i z uwzględnieniem art. 10a ust. 4.
-
-**Art. 10c.**
+5. Prezes Zakładu Ubezpieczeń Społecznych ogłasza w formie komunikatu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, co najmniej na 7 dni roboczych przed najbliższym terminem waloryzacji, uwzględnianą od tego terminu przy obliczaniu wysokości świadczenia wyrównawczego kwotę, o której mowa w ust. 1. W razie przyznania, ustania lub ponownego obliczenia wysokości świadczeń, o których mowa w art. 10a ust. 3, świadczenie wyrównawcze podlega ponownemu obliczeniu z urzędu, w taki sposób, aby łączna kwota świadczeń, o których mowa w art. 10a ust. 3, wraz ze świadczeniem wyrównawczym, nie przekroczyła miesięcznie kwoty, o której mowa w art. 10a ust. 1, z zastrzeżeniem włączeń, o których mowa w art. 10a ust. 3, i z uwzględnieniem art. 10a ust. 4.
 
 1. Decyzje w sprawie świadczenia wyrównawczego wydają i świadczenia te wypłacają organy wypłacające emeryturę lub rentę, zwane dalej „organami właściwymi”.
 
 2. Decyzje w sprawie świadczenia wyrównawczego, sporządzone z wykorzystaniem systemu teleinformatycznego, mogą zamiast podpisu zawierać nadruk imienia i nazwiska wraz ze stanowiskiem służbowym osoby upoważnionej do ich wydania.
 
-3. Od decyzji o odmowie przyznania prawa do świadczenia wyrównawczego, o której mowa w ust. 1, wnioskodawcy przysługuje prawo odwołania do właściwego sądu w terminie i na zasadach określonych w przepisach ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ).
-
-**Art. 10d.**
+3. Od decyzji o odmowie przyznania prawa do świadczenia wyrównawczego, o której mowa w ust. 1, wnioskodawcy przysługuje prawo odwołania do właściwego sądu w terminie i na zasadach określonych w przepisach ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm.).
 
 1. Postępowanie w sprawie świadczenia wyrównawczego wszczynane jest na wniosek osoby uprawnionej.
 
@@ -198,27 +218,19 @@ source: "isap-pdf"
 
 3. Do wniosku, o którym mowa w ust. 2, dołącza się dokumenty potwierdzające nadanie statusu działacza opozycji antykomunistycznej lub osoby represjonowanej z powodów politycznych, a w przypadku osób uprawnionych do emerytury i renty zagranicznej lub innego świadczenia zagranicznego o podobnym charakterze – także dokument potwierdzający prawo do tych świadczeń i ich wysokość, wystawiony przez zagraniczną instytucję właściwą do spraw emerytalno-rentowych.
 
-**Art. 10e.**
-
 1. Wypłata świadczenia wyrównawczego następuje wraz z wypłatą emerytury lub renty.
 
 2. W razie zbiegu prawa do świadczeń, o których mowa w art. 10a ust. 3, wypłacanych przez różne organy właściwe, decyzje w sprawie świadczenia wyrównawczego wydaje i świadczenie to wypłaca Zakład Ubezpieczeń Społecznych.
 
 3. Na wniosek osoby uprawnionej do świadczenia wyrównawczego, zamieszkałej za granicą w państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) lub w państwie, z którym Rzeczpospolitą Polską łączy umowa międzynarodowa w dziedzinie ubezpieczeń społecznych przewidująca transfer emerytur lub rent, świadczenie wyrównawcze wypłaca się z emeryturą lub rentą, w państwie zamieszkania, na rachunek bankowy tej osoby za granicą lub w innej formie wskazanej przez organ emerytalny lub rentowy, w terminach i trybie ustalonym przez ten organ. Wypłata dokonywana jest w walucie wymienialnej.
 
-4. Przepis ust. 3 stosuje się również do osób uprawnionych do świadczenia wyrównawczego, zamieszkałych za granicą w państwie, z którym Rzeczypospolitej Polskiej nie łączy umowa międzynarodowa w dziedzinie ubezpieczeń społecznych przewidująca transfer emerytur i rent.
-
-**Art. 10f.** Do świadczenia wyrównawczego stosuje się odpowiednio art. 84 i art. 85 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2024 r. poz. 497).
-
-**Art. 10g.**
+4. Przepis ust. 3 stosuje się również do osób uprawnionych do świadczenia wyrównawczego, zamieszkałych za granicą w państwie, z którym Rzeczypospolitej Polskiej nie łączy umowa międzynarodowa w dziedzinie ubezpieczeń społecznych przewidująca transfer emerytur i rent. Do świadczenia wyrównawczego stosuje się odpowiednio art. 84 i art. 85 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2024 r. poz. 497).
 
 1. W sprawach nieuregulowanych w ustawie dotyczących świadczenia wyrównawczego stosuje się odpowiednio przepisy ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, z wyłączeniem art. 136 tej ustawy.
 
 2. Potrąceń i egzekucji dokonuje się od łącznej kwoty emerytury lub renty i świadczenia wyrównawczego, na zasadach określonych w przepisach emerytalnych, z wyjątkiem art. 141 ust. 4 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
 3. Kwoty nienależnie pobranych świadczeń wyrównawczych traktuje się jak kwoty, o których mowa w art. 139 ust. 1 pkt 2b ustawy, o której mowa w ust. 1.
-
-**Art. 10h.**
 
 1. Organy właściwe są uprawnione do pozyskiwania i przetwarzania danych osobowych w zakresie niezbędnym do przyznawania, ustania prawa do świadczenia wyrównawczego i wypłacania tego świadczenia.
 
@@ -227,68 +239,44 @@ source: "isap-pdf"
 3. Zabezpieczenia przetwarzania danych osobowych przez organy właściwe polegają co najmniej na:
 
 - **1)** dopuszczeniu do przetwarzania danych osobowych wyłącznie osób posiadających pisemne upoważnienie wydane przez administratora danych;
-- **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich poufności.
-
-**Art. 10i.** Świadczenie wyrównawcze wraz z odsetkami za opóźnienie finansowane jest ze środków budżetu państwa.
+- **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich poufności. Świadczenie wyrównawcze wraz z odsetkami za opóźnienie finansowane jest ze środków budżetu państwa.
 
 **Art. 11.**
 
-1. Do spraw związanych z przyznawaniem pomocy pieniężnej i świadczenia pieniężnego przepisy art. 6 pkt 3, 10, 14 i 16, art. 8 ust. 3–13, art. 10 ust. 1, art. 11 ust. 1, art. 12, art. 13, art. 98, art. 100, art. 104, art. 105, art. 106 ust. 1, 3, 3a i 5, art. 107 ust. 5b–5d i art. 109 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901, 1693, 1938 i 2760 oraz z 2024 r. poz. 743) stosuje się odpowiednio.
+1. Do spraw związanych z przyznawaniem pomocy pieniężnej i świadczenia pieniężnego przepisy art. 6 pkt 3, 10, 14 i 16, art. 8 ust. 3–13, art. 10 ust. 1, art. 11 ust. 1, art. 12, art. 13, art. 98, art. 100, art. 104, art. 105, art. 106 ust. 1, 3, 3a i 5, art. 107 ust. 5b-5d i art. 109 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901, 1693, 1938 i 2760 oraz z 2024 r. poz. 743) stosuje się odpowiednio.
 
 2. Jako kwotę dochodu, o którym mowa w art. 8 ust. 9 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, przyjmuje się kwotę ustaloną zgodnie z art. 9 ust. 6 tej ustawy.
 
 3. Do dochodu nie wlicza się także pozostałych świadczeń pieniężnych, o których mowa w art. 36 pkt 1 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, kwoty zasiłku pielęgnacyjnego, o którym mowa w art. 16 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2024 r. poz. 323), kwoty dodatku pielęgnacyjnego, o którym mowa w art. 75 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz świadczenia pieniężnego lub pomocy pieniężnej.
 
-**Art. 11a.**
-
 1. Na wniosek osoby uprawnionej zamieszkałej za granicą świadczenie pieniężne lub pomoc pieniężną wypłaca się w państwie zamieszkania na rachunek bankowy tej osoby za granicą w terminie ustalonym przez Urząd do Spraw Kombatantów i Osób Represjonowanych. Wypłata dokonywana jest w walucie wymienialnej.
 
 2. Wniosek, o którym mowa w ust. 1, zawiera:
 
-- **1)** w przypadku osób zamieszkałych w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA):
-    - **a)** imię i nazwisko właściciela rachunku, którym może być tylko wnioskodawca,
-    - **b)** adres miejsca zamieszkania,
-    - **c)** nazwę banku,
-    - **d)** adres banku,
-    - **e)** numer rachunku bankowego w formie IBAN (Międzynarodowy Numer Rachunku Bankowego),
-    - **f)** międzynarodowy identyfikator banku w formacie BIC/SWIFT,
-    - **g)** walutę wymienialną, w której jest prowadzony rachunek;
+- **1)** w przypadku osób zamieszkałych w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA): imię i nazwisko właściciela rachunku, którym może być tylko wnioskodawca, adres miejsca zamieszkania, nazwę banku, adres banku, numer rachunku bankowego w formie IBAN (Międzynarodowy Numer Rachunku Bankowego), międzynarodowy identyfikator banku w formacie BIC/SWIFT, walutę wymienialną, w której jest prowadzony rachunek;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
 
-- **2)** w przypadku osób zamieszkałych w innych państwach niż wymienione w pkt 1:
-    - **a)** imię i nazwisko właściciela rachunku, którym może być tylko wnioskodawca,
-    - **b)** adres miejsca zamieszkania,
-    - **c)** nazwę banku,
-    - **d)** adres banku,
-    - **e)** międzynarodowy identyfikator banku w formacie SWIFT,
-    - **f)** numer rachunku bankowego (w formacie ABA/Routing – dotyczy wnioskodawców zamieszkałych w Stanach Zjednoczonych Ameryki Północnej),
-    - **g)** walutę wymienialną, w której jest prowadzony rachunek.
+- **2)** w przypadku osób zamieszkałych w innych państwach niż wymienione w pkt 1: imię i nazwisko właściciela rachunku, którym może być tylko wnioskodawca, adres miejsca zamieszkania, nazwę banku, adres banku, międzynarodowy identyfikator banku w formacie SWIFT, numer rachunku bankowego (w formacie ABA/Routing – dotyczy wnioskodawców zamieszkałych w Stanach Zjednoczonych Ameryki Północnej), walutę wymienialną, w której jest prowadzony rachunek.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
 
-**Art. 12.** Osobie uprawnionej przysługuje prawo pierwszeństwa do środowiskowej opieki socjalnej, w tym w uzyskaniu miejsca w domu pomocy społecznej.
-
-**Art. 12a.**
-
-1. Osobie uprawnionej przysługuje dodatkowy urlop wypoczynkowy w wymiarze 5 dni roboczych w roku kalendarzowym.
-
-2. Urlop, o którym mowa w ust. 1, nie przysługuje osobie uprawnionej do urlopu wypoczynkowego w wymiarze przekraczającym 26 dni roboczych lub do urlopu dodatkowego na podstawie odrębnych przepisów.
-
-**Art. 13.** Samorząd terytorialny może udzielać pomocy osobom uprawnionym, w zakresie udogodnień komunikacyjnych, świadczeń mieszkaniowych, kulturalnych, zdrowotnych i oświatowych.
-
-**Art. 13a.**
-
-1. Osobom uprawnionym przysługuje ulga taryfowa w wysokości 50 % przy przejazdach środkami komunikacji miejskiej.
-
-2. Osobom uprawnionym przysługuje ulga w wysokości 51 % na przejazdy w komunikacji krajowej środkami publicznego transportu zbiorowego:
+**Art. 12.** Osobie uprawnionej przysługuje prawo pierwszeństwa do środowiskowej opieki socjalnej, w tym w uzyskaniu miejsca w domu pomocy społecznej. 1. Osobie uprawnionej przysługuje dodatkowy urlop wypoczynkowy w wymiarze 5 dni roboczych w roku kalendarzowym. 2. Urlop, o którym mowa w ust. 1, nie przysługuje osobie uprawnionej do urlopu wypoczynkowego w wymiarze przekraczającym 26 dni roboczych lub do urlopu dodatkowego na podstawie odrębnych przepisów. Samorząd terytorialny może udzielać pomocy osobom uprawnionym, w zakresie udogodnień komunikacyjnych, świadczeń mieszkaniowych, kulturalnych, zdrowotnych i oświatowych. 1. Osobom uprawnionym przysługuje ulga taryfowa w wysokości 50 % przy przejazdach środkami komunikacji miejskiej. 2. Osobom uprawnionym przysługuje ulga w wysokości 51 % na przejazdy w komunikacji krajowej środkami publicznego transportu zbiorowego:
 
 - **1)** kolejowego w 1 i 2 klasie pociągów osobowych i pospiesznych oraz autobusowego w komunikacji zwykłej i przyspieszonej – na podstawie biletów jednorazowych;
 - **2)** kolejowego w 2 klasie pociągów innych niż osobowe i pospieszne – na podstawie biletów jednorazowych.
 
-3. Osoba uprawniona do ulgowego przejazdu, o którym mowa w ust. 2 pkt 2, korzystająca z przejazdu w klasie 1, obowiązana jest do uiszczenia dopłaty w wysokości stanowiącej różnicę między należnością za pełnopłatny przejazd w klasie 1 a należnością za pełnopłatny przejazd w klasie 2.
-
-**Art. 13b.** Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych może zlecić organizacjom pozarządowym na podstawie przepisów ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2023 r. poz. 571) wykonywanie zadań opiekuńczych na rzecz osób uprawnionych.
-
-**Art. 14.** Instytut Pamięci Narodowej – Komisja Ścigania Zbrodni przeciwko Narodowi Polskiemu udziela pomocy w sporządzeniu wniosku o potwierdzenie statusu działacza opozycji antykomunistycznej lub osoby represjonowanej z powodów politycznych.
-
-**Art. 14a.**
+3. Osoba uprawniona do ulgowego przejazdu, o którym mowa w ust. 2 pkt 2, korzystająca z przejazdu w klasie 1, obowiązana jest do uiszczenia dopłaty w wysokości stanowiącej różnicę między należnością za pełnopłatny przejazd w klasie 1 a należnością za pełnopłatny przejazd w klasie 2. Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych może zlecić organizacjom pozarządowym na podstawie przepisów ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2023 r. poz. 571) wykonywanie zadań opiekuńczych na rzecz osób uprawnionych. Instytut Pamięci Narodowej – Komisja Ścigania Zbrodni przeciwko Narodowi Polskiemu udziela pomocy w sporządzeniu wniosku o potwierdzenie statusu działacza opozycji antykomunistycznej lub osoby represjonowanej z powodów politycznych.
 
 1. Przy Szefie Urzędu do Spraw Kombatantów i Osób Represjonowanych działa Rada do Spraw Działaczy Opozycji Antykomunistycznej oraz Osób Represjonowanych z Powodów Politycznych jako organ opiniodawczo-doradczy w sprawach dotyczących działaczy opozycji antykomunistycznej oraz osób represjonowanych z powodów politycznych.
 
@@ -319,7 +307,7 @@ source: "isap-pdf"
 
 5. Właściwa w sprawie opiniowania wniosków jest rada działająca w województwie, w którym osoba składająca wniosek prowadziła działalność, o której mowa w art. 2 lub art. 3, lub w którym miało miejsce wystąpienie wolnościowe, o którym mowa w art. 3 pkt 3.
 
-6. Członkom rady przysługuje zwrot kosztów przejazdów na posiedzenia rady na zasadach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465).
+6. Członkom rady przysługuje zwrot kosztów przejazdów na posiedzenia rady na zasadach określonych w przepisach wydanych na podstawie art. 775 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465).
 
 7. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, organizację i tryb pracy rady, uwzględniając efektywność działania rady, w tym biorąc pod uwagę, aby częstotliwość posiedzeń rady uzależniona była od liczby przekazanych wniosków oraz konieczności ich terminowego zaopiniowania.
 

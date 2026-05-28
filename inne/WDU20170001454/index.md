@@ -8,10 +8,10 @@ pos: 1454
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Warszawa, 28 lipca 2017 r.
+# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 27 lipca 2017 r. w sprawie sposobu unieważnienia Karty Dużej Rodziny, wzorów graficznych oraz szczegółowego zakresu informacji, jakie mają być zawarte we wniosku o przyznanie Karty Dużej Rodziny
 
 | Pole | Wartość |
 |---|---|
@@ -22,42 +22,97 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-27 |
 | Data wydania | 2017-07-28 |
+| Wejście w życie | 2017-08-01 |
 | Ostatnia zmiana | 2025-02-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001454) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1454/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA RODZINY, PRACY I POLITYKI SPOŁECZNEJ 27 lipca 2017 r.
-sprawie sposobu unieważnienia Karty Dużej wzorów graficznych oraz szczegółowego zakresu informacji, jakie mają być zawarte we wniosku o przyznanie Karty Dużej Rodziny Na podstawie art. 22 ustawy 5 grudnia 2014 r. o Karcie Dużej Rodziny 2016 r. 785 1579 oraz 2017 r. 777 1428) zarządza się, co następuje: § 1. Rozporządzenie określa:
-1) sposób unieważnienia Karty Dużej zwanej dalej „Kartą”;
-2) szczegółowy zakres informacji, jakie mają być zawarte we wniosku o przyznanie Karty lub wydanie jej duplikatu;
-3) wzory:
-a) Karty,
-b) znaku „Tu honorujemy Kartę Dużej Rodziny”,
-c) logo wielodzietnej.
-§ 2. 1. Wójt (burmistrz, prezydent miasta) unieważnia Kartę przez wprowadzenie do systemu teleinformatycznego, o którym mowa art. 18 ust. 1 pkt 2 ustawy 5 grudnia 2014 r. o Karcie Dużej zwanej dalej „ustawą”, informacji o unieważnieniu Karty oraz odcięcie jednego rogów Karty o powierzchni co najmniej 1 cm .
-2. Kartę, unieważnioną sposób określony ust. 1, zwraca się członkowi wielodzietnej.
-§ 3. Wniosek o przyznanie Karty lub wydanie jej duplikatu zawiera wskazanie, czy wniosek dotyczy przyznania Karty, czy wydania jej duplikatu, oraz następujące dane dotyczące członków wielodzietnej:
-1) imiona nazwisko;
-2) imiona nazwiska rodowe rodziców dziecka;
-3) datę urodzenia;
-4) miejsce zamieszkania lub pobytu;
-5) adres do korespondencji, jeżeli jest inny niż adres zamieszkania lub pobytu;
-6) numer PESEL;
-7) numer dokumentu potwierdzającego tożsamość przypadku osób, które nie posiadają numeru PESEL;
-15 kwietnia 2011 r. o systemie informacji oświatowej 2016 r. 1927 1984 oraz 2017 r. 60, 777, 949 1428), okresie uczęszczania, typie lub rodzaju instytucji oraz nazwie adresie siedziby instytucji, do której dziecko uczęszcza;
-11) informacje o uczęszczaniu dziecka do szkoły wyższej, okresie uczęszczania oraz nazwie adresie siedziby szkoły wyższej, do której dziecko uczęszcza;
-12) informacje o znacznym lub umiarkowanym stopniu niepełnosprawności, tym informacje o okresie, na jaki zostało wydane orzeczenie o znacznym lub umiarkowanym stopniu niepełnosprawności przypadku dziecka;
-13) informację o umieszczeniu dziecka pieczy zastępczej;
-14) informację o pozostawaniu dziecka dotychczasowej rodzinie zastępczej lub rodzinnym domu dziecka;
-15) informację, że rodzic nie jest pozbawiony władzy rodzicielskiej lub ograniczony we władzy rodzicielskiej przez umieszczenie dziecka pieczy zastępczej stosunku do dzieci wskazanych we wniosku;
-16) informację o dochodach członków wielodzietnej przypadku złożenia wniosku, o którym mowa art. 13 ust. 3 ustawy;
-17) adres poczty elektronicznej numer telefonu osoby składającej wniosek o ile wnioskodawca je posiada lub o ile obowiązek ich podania wynika ustawy.
-§ 4. Wzór Karty jest określony załączniku 1 do rozporządzenia.
-§ 5. Wzór znaku „Tu honorujemy Kartę Dużej Rodziny” jest określony załączniku 2 do rozporządzenia.
-§ 6. Wzór logo wielodzietnej jest określony załączniku 3 do rozporządzenia.
-§ 8. Rozporządzenie wchodzi życie dniem 1 sierpnia 2017 r.
-Minister Pracy Polityki Społecznej: E. Rafalska Objaśnienia:
-1. Karta ma wymiary 54 x 85,6 mm, jest wykonana tworzywa sztucznego, zawiera imię oraz nazwisko członka wielodzietnej, numer PESEL członka wielodzietnej (albo numer dokumentu potwierdzającego tożsamość, przypadku gdy nie nadano numeru PESEL), termin ważności Karty, numer Karty, logo wielodzietnej, skrót „KDR” pisany alfabetem Braille’a oraz elementy zabezpieczające dokument przed podrobieniem sfałszowaniem.
-2. Numer Karty składa się 17 cyfr, których 7 pierwszych cyfr stanowi identyfikator danej gminy ustalony załączniku do przepisów wykonawczych wydanych na podstawie ustawy 29 czerwca 1995 r. o statystyce publicznej 2016 r. 1068, późn. zm.), następne 5 cyfr stanowi numer wielodzietnej nadany procesie rejestracji pierwszej osoby wielodzietnej, następne 2 cyfry stanowią numer kolejno przypisany członkowi wielodzietnej tej rodzinie, a ostatnie 3 cyfry stanowią numer kolejny Karty wydanej danemu członkowi wielodzietnej.
-KARTA DUŻEJ RODZINY Objaśnienia:
-1. Karta ma wymiary 54 x 85,6 mm, jest wykonana tworzywa sztucznego, zawiera imię oraz nazwisko członka wielodzietnej, numer PESEL członka wielodzietnej (albo numer dokumentu potwierdzającego tożsamość, przypadku gdy nie nadano numeru PESEL), termin ważności Karty, numer Karty, logo wielodzietnej, skrót „KDR”
+Treść rozporządzenia
+
+## Załącznik nr 1 — –
+
+## Załącznik nr 2 — –
+
+## Załącznik nr 3 — –
+
+Załącznik – Załącznik nr 4
+Treść rozporządzenia
+Na podstawie art. 22 ustawy z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny (Dz. U. z 2016 r. poz. 785 i 1579 oraz z 2017 r. poz. 777 i 1428) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+sposób unieważnienia Karty Dużej Rodziny, zwanej dalej „Kartą”;
+2)
+szczegółowy zakres informacji, jakie mają być zawarte we wniosku o przyznanie Karty lub wydanie jej duplikatu;
+3)
+wzory:
+a)
+Karty,
+b)
+znaku „Tu honorujemy Kartę Dużej Rodziny”,
+c)
+logo rodziny wielodzietnej.
+§ 2.
+1.
+Wójt (burmistrz, prezydent miasta) unieważnia Kartę przez wprowadzenie do systemu teleinformatycznego, o którym mowa w art. 18 ust. 1 pkt 2 ustawy z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny, zwanej dalej „ustawą”, informacji o unieważnieniu Karty oraz odcięcie jednego z rogów Karty o powierzchni co najmniej 1 cm2.
+2.
+Kartę, unieważnioną w sposób określony w ust. 1, zwraca się członkowi rodziny wielodzietnej.
+§ 3.
+Wniosek o przyznanie Karty lub wydanie jej duplikatu zawiera wskazanie, czy wniosek dotyczy przyznania Karty, czy wydania jej duplikatu, oraz następujące dane dotyczące członków rodziny wielodzietnej:
+1)
+imiona i nazwisko;
+2)
+imiona i nazwiska rodowe rodziców dziecka;
+3)
+datę urodzenia;
+4)
+miejsce zamieszkania lub pobytu;
+5)
+adres do korespondencji, jeżeli jest inny niż adres zamieszkania lub pobytu;
+6)
+numer PESEL;
+7)
+numer dokumentu potwierdzającego tożsamość w przypadku osób, które nie posiadają numeru PESEL;
+8)
+informację o zawarciu związku małżeńskiego – w przypadku rodzica oraz małżonka rodzica;
+9)
+stopień pokrewieństwa z członkami rodziny;
+10)
+informacje o uczęszczaniu dziecka do szkół i placówek oświatowych, o których mowa w art. 3 ust. 1 pkt 1 ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2016 r. poz. 1927 i 1984 oraz z 2017 r. poz. 60, 777, 949 i 1428), okresie uczęszczania, typie lub rodzaju instytucji oraz nazwie i adresie siedziby instytucji, do której dziecko uczęszcza;
+11)
+informacje o uczęszczaniu dziecka do szkoły wyższej, okresie uczęszczania oraz nazwie i adresie siedziby szkoły wyższej, do której dziecko uczęszcza;
+12)
+informacje o znacznym lub umiarkowanym stopniu niepełnosprawności, w tym informacje o okresie, na jaki zostało wydane orzeczenie o znacznym lub umiarkowanym stopniu niepełnosprawności – w przypadku dziecka;
+13)
+informację o umieszczeniu dziecka w pieczy zastępczej;
+14)
+informację o pozostawaniu dziecka w dotychczasowej rodzinie zastępczej lub rodzinnym domu dziecka;
+15)
+informację, że rodzic nie jest pozbawiony władzy rodzicielskiej lub ograniczony we władzy rodzicielskiej przez umieszczenie dziecka w pieczy zastępczej w stosunku do dzieci wskazanych we wniosku;
+16)
+informację o dochodach członków rodziny wielodzietnej – w przypadku złożenia wniosku, o którym mowa w art. 13 ust. 3 ustawy;
+17)
+adres poczty elektronicznej i numer telefonu osoby składającej wniosek – o ile wnioskodawca je posiada lub o ile obowiązek ich podania wynika z ustawy.
+§ 4.
+Wzór Karty jest określony w załączniku nr 1 do rozporządzenia.
+§ 5.
+Wzór znaku „Tu honorujemy Kartę Dużej Rodziny” jest określony w załączniku nr 2 do rozporządzenia.
+§ 6.
+Wzór logo rodziny wielodzietnej jest określony w załączniku nr 3 do rozporządzenia.
+§ 8.
+Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2017 r.
+1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – rodzina, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 1905). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 23 grudnia 2014 r. w sprawie sposobu unieważnienia Karty Dużej Rodziny, wzorów graficznych oraz wzoru wniosku w sprawie przyznania Karty Dużej Rodziny (Dz. U. poz. 1954), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 40 pkt 3 ustawy z dnia 7 lipca 2017 r. o zmianie niektórych ustaw związanych z systemami wsparcia rodzin (Dz. U. poz. 1428).
+
+## Załącznik nr 1 — –
+
+patrz oryginał
+
+## Załącznik nr 2 — –
+
+patrz oryginał
+
+## Załącznik nr 3 — –
+
+patrz oryginał
+Załącznik – Załącznik nr 4
+patrz oryginał
 

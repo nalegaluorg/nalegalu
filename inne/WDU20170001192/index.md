@@ -8,10 +8,10 @@ pos: 1192
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 22 czerwca 2017 OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI 2 czerwca 2017 sprawie ogłoszenia jednolitego tekstu sprawie postępowania o nadanie Medalu za Zasługi dla
+# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 2 czerwca 2017 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie postępowania o nadanie Medalu za Zasługi dla Straży Granicznej
 
 | Pole | Wartość |
 |---|---|
@@ -25,40 +25,64 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001192) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1192/text.pdf) |
 
-1. Na podstawie art. 16 ust. 3 ustawy 20 lipca 2000 o ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. 2016 296 1579 oraz 2017 1139) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst 11 marca 2005 sprawie postępowania o nadanie Medalu za Zasługi dla (Dz. U. 2013 1128), uwzględnieniem zmiany wprowadzonej rozporządzeniem 19 2016 zmieniającym rozporządzenie sprawie postępowania o nadanie Medalu za Zasługi dla (Dz. U. 564).
-2. Podany załączniku niniejszego obwieszczenia tekst jednolity nie obejmuje § 2 19 2016 zmieniającego rozporządzenie sprawie postępowania o nadanie Medalu za Zasługi dla (Dz. U. 564), który stanowi: „§ 2. Rozporządzenie wchodzi życie dniem następującym po dniu ogłoszenia.”.
-Minister Administracji: M. Błaszczak ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI 11 marca 2005 sprawie postępowania o nadanie Medalu za Zasługi dla Na podstawie art. 10 ustawy 8 października 2004 o ustanowieniu Medalu za Zasługi dla (Dz. U. 2662) zarządza się, co następuje: § 1. Rozporządzenie określa:
-1) szczegółowy tryb postępowania sprawach o nadanie Medalu za Zasługi dla Granicznej, zwanego dalej „Medalem”, sposób wręczania noszenia odznaki Medalu oraz prowadzenia ewidencji Medalu;
-2) wzory wniosku o nadanie Medalu oraz legitymacji potwierdzającej jego nadanie.
-§ 2. Medal nadaje się okazji Święta lub okazji Narodowego Święta Niepodległości, a uzasadnionych przypadkach również innych terminach.
-§ 3. 1. Wniosek o nadanie Medalu Komendant Główny przedstawia ministrowi właściwemu spraw wewnętrznych nie później niż na dwa miesiące przed przewidywanym terminem wręczenia odznaki Medalu.
-2. Wzór wniosku o nadanie Medalu określa załącznik nr 1 rozporządzenia.
-§ 4. 1. Odznakę Medalu wraz legitymacją stwierdzającą jego nadanie wręcza minister właściwy spraw wewnętrznych lub osoba przez niego upoważniona, a poza terytorium Rzeczypospolitej Polskiej kierownik polskiego przedstawicielstwa dyplomatycznego lub urzędu konsularnego.
-2. Odznakę Medalu wręcza się sposób okolicznościach zapewniających uroczysty charakter aktu wręczenia.
-3. Wręczenie odznaki poprzedza się odczytaniem treści decyzji ministra właściwego spraw wewnętrznych o nadaniu Medalu wypowiedzeniem formuły „wręczam Medal za Zasługi dla Granicznej” lub „w imieniu ministra właściwego spraw wewnętrznych wręczam Medal za Zasługi dla Granicznej”.
-4. Wzór legitymacji, o której mowa ust. 1, określa załącznik nr 2 rozporządzenia.
-§ 5. Sposób okoliczności noszenia odznaki Medalu baretki określają przepisy rozdziałów 3 4 Prezydenta Rzeczypospolitej Polskiej 10 listopada 1992 sprawie opisu, materiału, wymiarów, wzorów rysunkowych oraz sposobu okoliczności noszenia odznak orderów odznaczeń (Dz. U. 452, późn. zm. ).
-§ 6. 1. Ewidencję osób wyróżnionych Medalem pozbawionych Medalu prowadzi komórka organizacyjna spraw osobowych urzędu obsługującego ministra właściwego spraw wewnętrznych.
-2. Ewidencja, o której mowa ust. 1, może być również prowadzona formie elektronicznej.
-§ 7. W przypadku zgubienia lub zniszczenia odznaki Medalu lub legitymacji, na wniosek osoby wyróżnionej wydaje się wtórny egzemplarz. Ponowne wydanie odznaki Medalu lub legitymacji następuje za zwrotem kosztów ich wytworzenia.
-§ 8. Rozporządzenie wchodzi życie po upływie 14 dni od ogłoszenia .
-WZÓR Z WNIOSEK O NADANIE Medalu za Zasługi dla
-1. NAZWISKO 2. IMIONA
-3. Data urodzenia ...........................................
-4. Miejscowość urodzenia ..................................
-5. Imiona rodziców ..................................
-..................................
-6.Obywatelstwo 7.Państwo stałego zamieszkania
-8. Dokument tożsamości ........................................
-....................................... ....................................... .......................................
-9. Uzasadnienie nadania Medalu sporządzająca wniosek ....................................... .......................................
-................................., ..................... 20..…. .......................................
-11. WNOSZĘ O NADANIE Medalu za Zasługi dla ......... STOPNIA .........................................
-............................, ..................... 20.... ......................................
-12. DECYZJA O NADANIU MEDALU Nr ....................................... ....................................... 20…..r.
-MINISTER WŁAŚCIWY DO SPRAW WEWNĘTRZNYCH WZÓR LEGITYMACJI STWIERDZAJĄCEJ NADANIE MEDALU ZA ZASŁUGI DLA STRAŻY GRANICZNEJ RZECZPOSPOLITA POLSKA LEGITYMACJA Nr WARSZAWA Decyzją nr .....................................
-n a d a j ę ....................................
-....................................
-............................
-str. 1 str. 2 str. 3 str. 4
+Treść obwieszczenia
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 11 marca 2005 r. w sprawie postępowania o nadanie Medalu za Zasługi dla Straży Granicznej
+
+## Załącznik nr 1 — – Wniosek o nadanie Medalu za Zasługi dla Straży Granicznej (wzór)
+
+## Załącznik nr 2 — – Wzór legitymacji stwierdzającej nadanie Medalu za Zasługi dla Straży Granicznej (wzór)
+
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296 i 1579 oraz z 2017 r. poz. 1139) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 11 marca 2005 r. w sprawie postępowania o nadanie Medalu za Zasługi dla Straży Granicznej (Dz. U. z 2013 r. poz. 1128), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 19 kwietnia 2016 r. zmieniającym rozporządzenie w sprawie postępowania o nadanie Medalu za Zasługi dla Straży Granicznej (Dz. U. poz. 564).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 kwietnia 2016 r. zmieniającego rozporządzenie w sprawie postępowania o nadanie Medalu za Zasługi dla Straży Granicznej (Dz. U. poz. 564), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+” .
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 11 marca 2005 r. w sprawie postępowania o nadanie Medalu za Zasługi dla Straży Granicznej
+Na podstawie art. 10 ustawy z dnia 8 października 2004 r. o ustanowieniu Medalu za Zasługi dla Straży Granicznej (Dz. U. poz. 2662) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+szczegółowy tryb postępowania w sprawach o nadanie Medalu za Zasługi dla Straży Granicznej, zwanego dalej „Medalem”, sposób wręczania i noszenia odznaki Medalu oraz prowadzenia ewidencji Medalu;
+2)
+wzory wniosku o nadanie Medalu oraz legitymacji potwierdzającej jego nadanie.
+§ 2.
+Medal nadaje się z okazji Święta Straży Granicznej lub z okazji Narodowego Święta Niepodległości, a w uzasadnionych przypadkach również w innych terminach.
+§ 3.
+1.
+Wniosek o nadanie Medalu Komendant Główny Straży Granicznej przedstawia ministrowi właściwemu do spraw wewnętrznych nie później niż na dwa miesiące przed przewidywanym terminem wręczenia odznaki Medalu.
+2.
+Wzór wniosku o nadanie Medalu określa załącznik nr 1 do rozporządzenia.
+§ 4.
+1.
+Odznakę Medalu wraz z legitymacją stwierdzającą jego nadanie wręcza minister właściwy do spraw wewnętrznych lub osoba przez niego upoważniona, a poza terytorium Rzeczypospolitej Polskiej – kierownik polskiego przedstawicielstwa dyplomatycznego lub urzędu konsularnego.
+2.
+Odznakę Medalu wręcza się w sposób i w okolicznościach zapewniających uroczysty charakter aktu wręczenia.
+3.
+Wręczenie odznaki poprzedza się odczytaniem treści decyzji ministra właściwego do spraw wewnętrznych o nadaniu Medalu i wypowiedzeniem formuły „wręczam Medal za Zasługi dla Straży Granicznej” lub „w imieniu ministra właściwego do spraw wewnętrznych wręczam Medal za Zasługi dla Straży Granicznej”.
+4.
+Wzór legitymacji, o której mowa w ust. 1, określa załącznik nr 2 do rozporządzenia.
+§ 5.
+Sposób i okoliczności noszenia odznaki Medalu i baretki określają przepisy rozdziałów 3 i 4 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 10 listopada 1992 r. w sprawie opisu, materiału, wymiarów, wzorów rysunkowych oraz sposobu i okoliczności noszenia odznak orderów i odznaczeń (Dz. U. poz. 452, z późn. zm.).
+§ 6.
+1.
+Ewidencję osób wyróżnionych Medalem i pozbawionych Medalu prowadzi komórka organizacyjna do spraw osobowych urzędu obsługującego ministra właściwego do spraw wewnętrznych.
+2.
+Ewidencja, o której mowa w ust. 1, może być również prowadzona w formie elektronicznej.
+§ 7.
+W przypadku zgubienia lub zniszczenia odznaki Medalu lub legitymacji, na wniosek osoby wyróżnionej wydaje się wtórny egzemplarz. Ponowne wydanie odznaki Medalu lub legitymacji następuje za zwrotem kosztów ich wytworzenia.
+§ 8.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088 oraz z 2017 r. poz. 1140). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2006 r. poz. 1445, z 2007 r. poz. 353 i 1075, z 2010 r. poz. 1448, z 2012 r. poz. 590 oraz z 2016 r. poz. 1777. 3) Rozporządzenie zostało ogłoszone w dniu 21 kwietnia 2005 r.
+
+## Załącznik nr 1 — – Wniosek o nadanie Medalu za Zasługi dla Straży Granicznej (wzór)
+
+patrz oryginał
+
+## Załącznik nr 2 — – Wzór legitymacji stwierdzającej nadanie Medalu za Zasługi dla Straży Granicznej (wzór)
+
+patrz oryginał
 

@@ -8,12 +8,10 @@ pos: 340
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego
-
-*USTAWA z dnia 12 lutego 2009 r.*
+# Ustawa z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,9 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2009-02-12 |
 | Data wydania | 2009-03-17 |
+| Wejście w życie | 2009-04-17 |
 | Ostatnia zmiana | 2024-10-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090420340) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/340/text.pdf) |
-
-Art. 32–36. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -39,19 +36,26 @@ Art. 32–36. (pominięte)
 - **2)** zasady nabywania nieruchomości pod inwestycje w zakresie lotnisk użytku publicznego przez zakładających lotniska, zarządzających takimi lotniskami, a także Polską Agencję Żeglugi Powietrznej;
 - **3)** organy właściwe w sprawach, o których mowa w pkt 1 i 2.
 
-2. Przepisów ustawy, z wyłączeniem rozdziałów 1 i 2, nie stosuje się do nieruchomości, o których mowa w art. 58 oraz w art. 94–101 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2024 r. poz. 98).
+2. Przepisów ustawy, z wyłączeniem rozdziałów 1 i 2, nie stosuje się do nieruchomości, o których mowa w art. 4e-4h, art. 18 ust. 1 i 4a i art. 25c ustawy z dnia 30 maja 1996 r. o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego (Dz. U. z 2004 r. Nr 163, poz. 1711, z późn. zm.) oraz art. 4 ustawy z dnia 10 lipca 2008 r. o zmianie ustawy o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego oraz o zmianie niektórych innych ustaw (Dz. U. Nr 144, poz. 901).
 
-3. (uchylony)
+3. Przepisów ustawy nie stosuje się do lotnisk użytku publicznego wymienionych w przepisach wydanych na podstawie art. 4 ustawy z dnia 7 września 2007 r. o przygotowaniu finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012 (Dz. U. Nr 173, poz. 1219, z 2008 r. Nr 171, poz. 1058 oraz z 2009 r. Nr 19, poz. 100).
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** lotnisko użytku publicznego – lotnisko użytku publicznego w rozumieniu art. 54 ust. 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2006 r. Nr 100, poz. 696, z późn. zm.);
+- **2)** zakładający lotnisko – zakładającego lotnisko użytku publicznego w rozumieniu art. 55 ust. 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze;
+- **3)** zarządzający lotniskiem – zarządzającego lotniskiem użytku publicznego w rozumieniu art. 59 ust. 6 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze;
+- **4)** właściwa gmina – gminę właściwą ze względu na położenie lotniska użytku publicznego;
+- **5)** prasa lokalna – prasę, która skierowana jest do adresatów zamieszkałych na określonym obszarze, w szczególności obszarze właściwej gminy;
+- **6)** właściwy wojewoda – wojewodę właściwego ze względu na położenie lotniska użytku publicznego;
+- **7)** inwestycja w zakresie lotniska użytku publicznego – budowę, przebudowę lub rozbudowę lotniska użytku publicznego lub urządzeń i obiektów do obsługi ruchu lotniczego;
+- **8)** urządzenia i obiekty do obsługi ruchu lotniczego – urządzenia i obiekty służące do realizacji przez Polską Agencję Żeglugi Powietrznej zadań w zakresie zapewnienia służb żeglugi powietrznej, zarządzania przestrzenią powietrzną oraz zarządzania przepływem ruchu lotniczego, a także lotnicze urządzenia naziemne zarządzającego lotniskiem.
 
 #### Rozdział 2 Postępowanie poprzedzające rozpoczęcie robót budowlanych
 
 **Art. 3.** Właściwy wojewoda wydaje decyzję o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego nie później niż w terminie 3 miesięcy od dnia złożenia wniosku przez zakładającego lotnisko, zarządzającego lotniskiem lub Polską Agencję Żeglugi Powietrznej.
 
 **Art. 4.** Wniosek, o którym mowa w art. 3, można złożyć nie później niż do dnia 31 grudnia 2015 r.
-
-**Art. 4a.** Wniosek, o którym mowa w art. 3, można złożyć nie później niż do dnia 31 grudnia 2030 r.
 
 **Art. 5.**
 
@@ -63,26 +67,25 @@ Art. 32–36. (pominięte)
 
 1. Do wniosku, o którym mowa w art. 3, załącza się:
 
-- **1)** mapę w skali co najmniej 1:5000 przedstawiającą projektowany obszar lotniska, z zaznaczeniem terenu niezbędnego dla obiektów budowlanych, oraz istniejące uzbrojenie terenu;
+- **1)** mapę w skali co najmniej 1:5 000 przedstawiającą projektowany obszar lotniska, z zaznaczeniem terenu niezbędnego dla obiektów budowlanych, oraz istniejące uzbrojenie terenu;
 - **2)** mapy zawierające projekty podziału nieruchomości, sporządzone zgodnie z odrębnymi przepisami;
 - **3)** oznaczenie nieruchomości podlegających wykupieniu przez Skarb Państwa albo jednostkę samorządu terytorialnego w trybie przepisów rozdziału 3 – jeżeli na projektowanym obszarze lotniska, o którym mowa w pkt 1, znajdują się nieruchomości niebędące własnością Skarbu Państwa, jednostki samorządu terytorialnego, zakładającego lotnisko albo zarządzającego lotniskiem;
 - **4)** określenie zmian w dotychczasowej infrastrukturze zagospodarowania terenu;
-- **5)** trzy egzemplarze projektu zagospodarowania działki lub terenu oraz projektu architektoniczno-budowlanego wraz z zaświadczeniem, o którym mowa w art. 12 ust. 7 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2024 r. poz. 725, 834 i 1222), aktualnym na dzień opracowania projektu;
-- **6)** pozwolenie, o którym mowa w art. 23 i 23a ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125), jeżeli jest ono wymagane;
-- **7)** decyzję o środowiskowych uwarunkowaniach w rozumieniu przepisów ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2024 r. poz. 1112);
-- **7a)** załącznik graficzny określający przewidywany teren, na którym będzie realizowane przedsięwzięcie, oraz przewidywany obszar, na który będzie oddziaływać przedsięwzięcie, o ile dołączenie tego załącznika było wymagane przez przepisy obowiązujące w dniu złożenia wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, w szczególności mapę, o której mowa w art. 74 ust. 1 pkt 3a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko – w przypadku inwestycji, dla których wydano decyzję o środowiskowych uwarunkowaniach w postępowaniu wymagającym udziału społeczeństwa;
+- **5)** cztery egzemplarze projektu budowlanego wraz z zaświadczeniem, o którym mowa w art. 12 ust. 7 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2006 r. Nr 156, poz. 1118, z późn. zm.), aktualnym na dzień opracowania projektu;
+- **6)** pozwolenie, o którym mowa w art. 23 i 23a ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2003 r. Nr 153, poz. 1502, z późn. zm.), jeżeli jest ono wymagane;
+- **7)** decyzję o środowiskowych uwarunkowaniach w rozumieniu przepisów ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. Nr 199, poz. 1227 i Nr 227, poz. 1505);
 - **8)** promesę zezwolenia na założenie lotniska, o której mowa w art. 57 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze – w przypadku inwestycji w zakresie lotniska użytku publicznego obejmującej budowę lotniska użytku publicznego;
-- **9)** opinie:
-    - **a)** Ministra Obrony Narodowej w zakresie realizacji potrzeb obronnych państwa,
-    - **b)** Prezesa Urzędu Lotnictwa Cywilnego,
-    - **c)** Polskiej Agencji Żeglugi Powietrznej dotyczącą prognozy, rodzaju i wielkości ruchu pasażerskiego i towarowego z tego lotniska, organizacji ruchu lotniczego na lotnisku i w jego rejonie ze wskazaniem wpływu na ruch prowadzony z istniejących sąsiednich lotnisk, a także odnośnie do rodzaju, sposobu i kosztów zapewniania służb żeglugi powietrznej – w przypadku, gdy wnioskodawcą jest zakładający lotnisko lub zarządzający lotniskiem,
-    - **d)** ministra właściwego do spraw zdrowia – w odniesieniu do lotnisk użytku publicznego lokalizowanych w miejscowościach uzdrowiskowych, zgodnie z przepisami ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2023 r. poz. 151, 1688 i 1692) oraz lotnisk użytkowanych przez Samodzielny Publiczny Zakład Opieki Zdrowotnej „Lotnicze Pogotowie Ratunkowe”,
-    - **e)** dyrektora właściwego urzędu morskiego – w odniesieniu do obszarów pasa technicznego, pasa ochronnego, morskich portów i przystani,
-    - **f)** właściwego organu nadzoru górniczego – w odniesieniu do terenów górniczych, fa) ministra właściwego do spraw środowiska – w odniesieniu do złóż strategicznych,
-    - **g)** dyrektora właściwego regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie – w odniesieniu do inwestycji obejmujących wykonanie urządzeń wodnych oraz w odniesieniu do wykonywania obiektów budowlanych lub robót na obszarach bezpośredniego zagrożenia powodzią,
-    - **h)** dyrektora właściwej regionalnej dyrekcji Lasów Państwowych – w odniesieniu do nieruchomości leśnych stanowiących własność Skarbu Państwa, będących w zarządzie Lasów Państwowych,
-    - **i)** właściwego wojewódzkiego konserwatora zabytków – w odniesieniu do dóbr kultury chronionych na podstawie odrębnych przepisów,
-    - **j)** właściwego zarządcy infrastruktury kolejowej – w odniesieniu do linii kolejowej;
+- **9)** opinie: Ministra Obrony Narodowej w zakresie realizacji potrzeb obronnych państwa, Prezesa Urzędu Lotnictwa Cywilnego, Polskiej Agencji Żeglugi Powietrznej dotyczącą prognozy, rodzaju i wielkości ruchu pasażerskiego i towarowego z tego lotniska, organizacji ruchu lotniczego na lotnisku i w jego rejonie ze wskazaniem wpływu na ruch prowadzony z istniejących sąsiednich lotnisk, a także odnośnie do rodzaju, sposobu i kosztów zapewniania służb żeglugi powietrznej – w przypadku, gdy wnioskodawcą jest zakładający lotnisko lub zarządzający lotniskiem, ministra właściwego do spraw zdrowia – w odniesieniu do lotnisk użytku publicznego lokalizowanych w miejscowościach uzdrowiskowych, zgodnie z przepisami ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. Nr 167, poz. 1399 oraz z 2007 r. Nr 133, poz. 921) oraz lotnisk użytkowanych przez Samodzielny Publiczny Zakład Opieki Zdrowotnej „Lotnicze Pogotowie Ratunkowe”, dyrektora właściwego urzędu morskiego – w odniesieniu do obszarów pasa technicznego, pasa ochronnego, morskich portów i przystani, właściwego organu nadzoru górniczego – w odniesieniu do terenów górniczych, dyrektora właściwego regionalnego zarządu gospodarki wodnej – w odniesieniu do inwestycji obejmujących wykonanie urządzeń wodnych oraz w odniesieniu do wykonywania obiektów budowlanych lub robót na obszarach bezpośredniego zagrożenia powodzią, dyrektora właściwej regionalnej dyrekcji Lasów Państwowych – w odniesieniu do nieruchomości leśnych stanowiących własność Skarbu Państwa, będących w zarządzie Lasów Państwowych, właściwego wojewódzkiego konserwatora zabytków – w odniesieniu do dóbr kultury chronionych na podstawie odrębnych przepisów, właściwego zarządcy infrastruktury kolejowej – w odniesieniu do linii kolejowej;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
 
 - **10)** informację dotyczącą prognozy, rodzaju i wielkości ruchu pasażerskiego i towarowego z tego lotniska, organizacji ruchu lotniczego na lotnisku i w jego rejonie ze wskazaniem wpływu na ruch prowadzony z istniejących sąsiednich lotnisk, a także odnośnie do rodzaju, sposobu i kosztów zapewniania służb żeglugi powietrznej – w przypadku, gdy wnioskodawcą jest Polska Agencja Żeglugi Powietrznej;
 - **11)** wymagane przepisami odrębnymi decyzje administracyjne.
@@ -93,7 +96,7 @@ Art. 32–36. (pominięte)
 
 4. Opinie, o których mowa w ust. 1 pkt 9, zastępują uzgodnienia, pozwolenia, opinie bądź stanowiska właściwych organów wymagane odrębnymi przepisami.
 
-5. Jeżeli realizacja inwestycji w zakresie lotniska użytku publicznego wymaga wydania zgody wodnoprawnej, Państwowe Gospodarstwo Wodne Wody Polskie wydaje tę zgodę w terminie nie dłuższym niż 30 dni od dnia złożenia wniosku o jej wydanie. W sprawach dotyczących zgody wodnoprawnej nie stosuje się art. 407 ust. 2 pkt 2 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2024 r. poz. 1087 i 1089). Dla ustalenia stanu prawnego nieruchomości, o których mowa w art. 409 ust. 1 pkt 2 lit. e ustawy z dnia 20 lipca 2017 r. – Prawo wodne, siedziby i adresy właścicieli tych nieruchomości określa się według katastru nieruchomości.
+5. Jeżeli realizacja inwestycji w zakresie lotniska użytku publicznego wymaga wydania pozwolenia wodnoprawnego, marszałek województwa wydaje to pozwolenie w terminie nie dłuższym niż 30 dni od dnia złożenia wniosku o jego wydanie. W sprawach dotyczących wydania pozwolenia wodnoprawnego nie stosuje się art. 131 ust. 2 pkt 2 ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2005 r. Nr 239, poz. 2019, z późn. zm.). Dla ustalenia stanu prawnego nieruchomości, o których mowa w art. 132 ust. 2 pkt 2 lit. c ustawy z dnia 18 lipca 2001 r. – Prawo wodne, siedziby i adresy właścicieli tych nieruchomości określa się według katastru nieruchomości.
 
 **Art. 7.**
 
@@ -122,20 +125,20 @@ Art. 32–36. (pominięte)
 - **4)** wymagania dotyczące ochrony uzasadnionych interesów osób trzecich;
 - **5)** zatwierdzenie podziału nieruchomości, o którym mowa w art. 9 ust. 1;
 - **6)** termin wydania nieruchomości lub opróżnienia lokali i innych pomieszczeń; termin ten nie może być krótszy niż 30 dni od dnia, w którym decyzja o zezwoleniu stała się ostateczna;
-- **7)** zatwierdzenie projektu zagospodarowania działki lub terenu lub projektu architektoniczno-budowlanego;
-- **8)** w razie potrzeby inne ustalenia dotyczące:
-    - **a)** określenia szczególnych warunków zabezpieczenia terenu budowy i prowadzenia robót budowlanych,
-    - **b)** określenia czasu użytkowania tymczasowych obiektów budowlanych,
-    - **c)** określenia terminów rozbiórki istniejących obiektów budowlanych nieprzewidzianych do dalszego użytkowania oraz tymczasowych obiektów budowlanych,
-    - **d)** określenia szczegółowych wymagań dotyczących nadzoru na budowie,
-    - **e)** obowiązku dokonania przebudowy istniejącej sieci uzbrojenia terenu,
-    - **f)** obowiązku przebudowy dróg,
-    - **g)** określenia ograniczeń w korzystaniu z nieruchomości dla realizacji obowiązków, o których mowa w lit. e i f,
-    - **h)** zezwolenia na wykonanie obowiązków, o których mowa w lit. e i f.
+- **7)** zatwierdzenie projektu budowlanego;
+- **8)** w razie potrzeby inne ustalenia dotyczące: określenia szczególnych warunków zabezpieczenia terenu budowy i prowadzenia robót budowlanych, określenia czasu użytkowania tymczasowych obiektów budowlanych, określenia terminów rozbiórki istniejących obiektów budowlanych nieprzewidzianych do dalszego użytkowania oraz tymczasowych obiektów budowlanych, określenia szczegółowych wymagań dotyczących nadzoru na budowie, obowiązku dokonania przebudowy istniejącej sieci uzbrojenia terenu, obowiązku przebudowy dróg, określenia ograniczeń w korzystaniu z nieruchomości dla realizacji obowiązków, o których mowa w lit. e i f, zezwolenia na wykonanie obowiązków, o których mowa w lit. e i f.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
 
 2. Decyzja o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego określa również oznaczenie nieruchomości lub ich części, według katastru nieruchomości.
 
-3. Do ograniczeń, o których mowa w ust. 1 pkt 8 lit. g, przepisy art. 124 ust. 4–8 i art. 124a ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2024 r. poz. 1145 i 1222) stosuje się odpowiednio.
+3. Do ograniczeń, o których mowa w ust. 1 pkt 8 lit. g, przepisy art. 124 ust. 4–8 i art. 124a ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2004 r. Nr 261, poz. 2603, z późn. zm.) stosuje się odpowiednio.
 
 **Art. 9.**
 
@@ -147,19 +150,17 @@ Art. 32–36. (pominięte)
 
 **Art. 10.** Do doręczania i zawiadamiania stron o decyzji o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego, w tym również wydanej przez organ wyższego stopnia, przepisy art. 7 ust. 1, 3 i 4 stosuje się odpowiednio.
 
-**Art. 10a.** Do decyzji o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego, poprzedzonej decyzją o środowiskowych uwarunkowaniach, stosuje się przepisy art. 72 ust. 6 i 6a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
-
 **Art. 11.**
 
 1. W przypadku gdy właściwy wojewoda nie wyda decyzji o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego w terminie 95 dni od dnia złożenia wniosku o wydanie takiej decyzji, organ wyższego stopnia wymierza właściwemu wojewodzie, w drodze postanowienia, na które przysługuje zażalenie, karę w wysokości 500 zł za każdy dzień zwłoki. Wpływy z kar stanowią dochód budżetu państwa.
 
-2. Karę uiszcza się w terminie 14 dni od dnia doręczenia postanowienia, o którym mowa w ust. 1. W przypadku nieuiszczenia kary, o której mowa w ust. 1, podlega ona ściągnięciu w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505 i 2760 oraz z 2024 r. poz. 858, 859 i 1222).
+2. Karę uiszcza się w terminie 14 dni od dnia doręczenia postanowienia, o którym mowa w ust. 1. W przypadku nieuiszczenia kary, o której mowa w ust. 1, podlega ona ściągnięciu w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2005 r. Nr 229, poz. 1954, z późn. zm.).
 
 3. Do terminu, o którym mowa w ust. 1, nie wlicza się terminów przewidzianych w przepisach odrębnych do dokonania określonych czynności, okresów zawieszenia postępowania oraz okresów opóźnień spowodowanych z winy strony albo z przyczyn niezależnych od organu.
 
 **Art. 12.**
 
-1. Od decyzji o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego stronie służy odwołanie do ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
+1. Od decyzji o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego stronie służy odwołanie do ministra właściwego do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej.
 
 2. Odwołanie strony od decyzji o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego rozpatruje się w terminie 30 dni, a skargę do sądu administracyjnego w terminie dwóch miesięcy.
 
@@ -167,30 +168,23 @@ Art. 32–36. (pominięte)
 
 **Art. 13.**
 
-1. Nie stwierdza się nieważności ostatecznej decyzji o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego, jeżeli wniosek o stwierdzenie nieważności tej decyzji został złożony po upływie 60 dni od dnia, w którym decyzja stała się ostateczna, a jednocześnie rozpoczęto realizację inwestycji w zakresie lotniska użytku publicznego. Art. 158 § 2 Kodeksu postępowania administracyjnego stosuje się odpowiednio.
+1. Nie stwierdza się nieważności ostatecznej decyzji o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego, jeżeli wniosek o stwierdzenie nieważności tej decyzji został złożony po upływie 14 dni od dnia, w którym decyzja stała się ostateczna, a jednocześnie rozpoczęto realizację inwestycji w zakresie lotniska użytku publicznego. Art. 158 § 2 Kodeksu postępowania administracyjnego stosuje się odpowiednio.
 
-2. W przypadku uwzględnienia skargi na decyzję o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego, której nadano rygor natychmiastowej wykonalności, sąd administracyjny po upływie 60 dni od dnia rozpoczęcia budowy lotniska użytku publicznego może stwierdzić jedynie, że decyzja narusza prawo z przyczyn wskazanych w art. 145 § 1 lub art. 156 § 1 Kodeksu postępowania administracyjnego.
-
-3. Przepisów ust. 1 i 2 nie stosuje się w przypadku niezgodności decyzji o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego z:
-
-- **1)** decyzją o środowiskowych uwarunkowaniach lub
-- **2)** postanowieniem, o którym mowa w art. 90 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
-
-**Art. 13a.** Do postępowania w sprawie wydania decyzji o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego, poprzedzonej decyzją o środowiskowych uwarunkowaniach, stosuje się przepisy art. 86f ust. 6, art. 86g oraz art. 86h ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
+2. W przypadku uwzględnienia skargi na decyzję o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego, której nadano rygor natychmiastowej wykonalności, sąd administracyjny po upływie 14 dni od dnia rozpoczęcia budowy lotniska użytku publicznego może stwierdzić jedynie, że decyzja narusza prawo z przyczyn określonych w art. 145 lub 156 Kodeksu postępowania administracyjnego.
 
 **Art. 14.** Uzyskanie decyzji o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego jest równoznaczne z uzyskaniem decyzji o warunkach zabudowy i zagospodarowania terenu i pozwolenia na budowę w rozumieniu przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, a także decyzji o ustaleniu lokalizacji inwestycji celu publicznego w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
 **Art. 15.**
 
-1. Lasy Państwowe, zarządzające, na podstawie ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2024 r. poz. 530), nieruchomościami w stosunku do których wydano decyzję o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego, są obowiązane do dokonania nieodpłatnie, z zastrzeżeniem ust. 3, wycinki drzew i krzewów oraz ich uprzątnięcia w terminie ustalonym w odrębnym porozumieniu albo umowie między Lasami Państwowymi a zakładającym lotnisko, o którym mowa w art. 55 ust. 2 pkt 1 i 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, zarządzającym takim lotniskiem, o którym mowa w art. 174 ust. 2 pkt 1 i 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze lub Polską Agencją Żeglugi Powietrznej.
+1. Lasy Państwowe, zarządzające, na podstawie ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2005 r. Nr 45, poz. 435, z późn. zm.), nieruchomościami w stosunku do których wydano decyzję o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego, są obowiązane do dokonania nieodpłatnie, z zastrzeżeniem ust. 3, wycinki drzew i krzewów oraz ich uprzątnięcia w terminie ustalonym w odrębnym porozumieniu albo umowie między Lasami Państwowymi a zakładającym lotnisko, o którym mowa w art. 55 ust. 2 pkt 1 i 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, zarządzającym takim lotniskiem, o którym mowa w art. 174 ust. 2 pkt 1 i 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze lub Polską Agencją Żeglugi Powietrznej.
 
 2. Drewno pozyskane z wycinki drzew i krzewów, o której mowa w ust. 1, staje się nieodpłatnie własnością Lasów Państwowych.
 
 3. Koszty wycinki drzew i krzewów w wieku do 20 lat oraz ich uprzątnięcia ponosi zakładający lotnisko użytku publicznego, o którym mowa w art. 55 ust. 2 pkt 1 i 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, zarządzający takim lotniskiem, o którym mowa w art. 174 ust. 2 pkt 1 i 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze lub Polska Agencja Żeglugi Powietrznej.
 
-**Art. 16.** Do usuwania drzew i krzewów znajdujących się na nieruchomościach objętych decyzją o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego wydaną na rzecz zakładającego lotnisko, o którym mowa w art. 55 ust. 2 pkt 1 i 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, zarządzającego takim lotniskiem, o którym mowa w art. 174 ust. 2 pkt 1 i 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze lub Polskiej Agencji Żeglugi Powietrznej, z wyjątkiem drzew i krzewów usuwanych z nieruchomości wpisanej do rejestru zabytków, nie stosuje się przepisów ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2023 r. poz. 1336, 1688 i 1890 oraz z 2024 r. poz.
+**Art. 16.** Do usuwania drzew i krzewów znajdujących się na nieruchomościach objętych decyzją o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego wydaną na rzecz zakładającego lotnisko, o którym mowa w art. 55 ust. 2 pkt 1 i 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, zarządzającego takim lotniskiem, o którym mowa w art. 174 ust. 2 pkt 1 i 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze lub Polskiej Agencji Żeglugi Powietrznej, z wyjątkiem drzew i krzewów usuwanych z nieruchomości wpisanej do rejestru zabytków, nie stosuje się przepisów ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. Nr 92, poz. 880, z późn. zm.) w zakresie obowiązku uzyskiwania zezwoleń na ich usunięcie oraz opłat z tym związanych.
 
-**Art. 17.** Do gruntów rolnych i leśnych objętych decyzją o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego nie stosuje się przepisów ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2024 r. poz. 82).
+**Art. 17.** Do gruntów rolnych i leśnych objętych decyzją o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego nie stosuje się przepisów ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2004 r. Nr 121, poz. 1266, z późn. zm.).
 
 **Art. 18.**
 
@@ -200,9 +194,9 @@ Art. 32–36. (pominięte)
 
 **Art. 19.**
 
-1. W sprawach dotyczących decyzji o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego nie stosuje się przepisów ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz. 1130) oraz przepisów ustawy z dnia 9 października 2015 r. o rewitalizacji (Dz. U. z 2024 r. poz. 278).
+1. W sprawach dotyczących decyzji o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego nie stosuje się przepisów ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. Nr 80, poz. 717, z późn. zm.).
 
-2. W zakresie nieuregulowanym w niniejszym rozdziale do postępowania w sprawie decyzji o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
+2. W zakresie nieuregulowanym w niniejszym rozdziale do postępowania w sprawie decyzji o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.).
 
 #### Rozdział 3 Nabywanie nieruchomości pod niektóre inwestycje w zakresie lotnisk użytku publicznego
 
@@ -236,7 +230,7 @@ Art. 32–36. (pominięte)
 
 5. Kwotę odszkodowania z tytułu wygaśnięcia ograniczonych praw rzeczowych ustaloną na dzień, o którym mowa w ust. 1, wypłaca się osobom, którym te prawa przysługiwały.
 
-6. W przypadku, w którym dotychczasowy właściciel lub użytkownik wieczysty nieruchomości objętej decyzją o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego zawarł umowę, o której mowa w art. 24, wysokość odszkodowania powiększa się o kwotę równą 5 % wartości nieruchomości lub wartości prawa użytkowania wieczystego.
+6. W przypadku, w którym dotychczasowy właściciel lub użytkownik wieczysty nieruchomości objętej decyzją o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego zawarł umowę, o której mowa w art. 24, wysokość odszkodowania powiększa się o kwotę równą 5% wartości nieruchomości lub wartości prawa użytkowania wieczystego.
 
 7. W przypadku gdy decyzja o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego dotyczy nieruchomości zabudowanej budynkiem mieszkalnym albo budynkiem, w którym został wydzielony lokal mieszkalny, wysokość odszkodowania, o którym mowa w ust. 1, przysługującego dotychczasowemu właścicielowi lub użytkownikowi wieczystemu zamieszkałemu w tym budynku albo lokalu, powiększa się o kwotę 10 000 zł w odniesieniu do tej nieruchomości, jeżeli zawarł umowę, o której mowa w art. 24.
 
@@ -299,7 +293,7 @@ Art. 32–36. (pominięte)
 
 1. Skarb Państwa lub jednostka samorządu terytorialnego są obowiązane zawrzeć z zakładającym lotnisko albo zarządzającym lotniskiem innymi niż wymienieni w art. 28 ust. 1 umowę dzierżawy na okres nie krótszy niż 30 lat, której przedmiotem są nieruchomości, o których mowa w art. 6 ust. 1 pkt 3, objęte decyzją o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego.
 
-2. Czynsz dzierżawny określony w umowie, o której mowa w ust. 1, ustala się w wysokości nieodbiegającej od typowych na obszarze danego województwa.
+2. Czynsz dzierżawny określony w umowie, o której mowa w ust. 1, ustala się w wysokości nie odbiegającej od typowych na obszarze danego województwa.
 
 3. W umowie, o której mowa w ust. 1, zastrzega się karę umowną w wysokości iloczynu okresu, na który zawierana jest umowa i rocznego czynszu dzierżawnego na wypadek wykorzystywania przez dzierżawcę nieruchomości objętej umową na cele inne niż lotnisko użytku publicznego. Wykorzystywanie przez dzierżawcę nieruchomości objętej umową na cele inne niż lotnisko użytku publicznego skutkuje również jej niezwłocznym wypowiedzeniem.
 
@@ -319,7 +313,130 @@ Art. 32–36. (pominięte)
 
 #### Rozdział 4 Zmiany w przepisach obowiązujących, przepisy przejściowe i przepis końcowy
 
+**Art. 32.** W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2005 r. Nr 45, poz. 435, z późn. zm.) w art. 38a dodaje się ust. 4 w brzmieniu: „ 4. Przepisy ust. 1–3 stosuje się odpowiednio do nieruchomości objętej decyzją o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego w rozumieniu przepisów ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego (Dz. U. Nr 42, poz. 340) wydaną na rzecz podmiotu, o którym mowa w art. 28 ust. 1 tej ustawy z tym, że ustanowienie trwałego zarządu stwierdza wojewoda w drodze decyzji. ” .
+
+**Art. 33.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2007 r. Nr 231, poz. 1700, z 2008 r. Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 100) w art. 24 po ust. 7b dodaje się ust. 7c w brzmieniu: „ 7c. Przepisy ust. 7 stosuje się odpowiednio do nieruchomości objętej decyzją o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego w rozumieniu przepisów ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego (Dz. U. Nr 42, poz. 340) wydanym na rzecz podmiotu, o którym mowa w art. 28 ust. 1 tej ustawy. ” .
+
+**Art. 34.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2004 r. Nr 261, poz. 2603, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „
+- **12)** ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego (Dz. U. Nr 42, poz. 340). ” ;
+- **2)** w art. 95 po pkt 6a dodaje się pkt 6b w brzmieniu: „
+- **6b)** wydzielenia części nieruchomości objętej decyzją o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego w rozumieniu przepisów ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego; ” ;
+- **3)** w art. 109 w ust. 3 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
+- **7)** sprzedaż nieruchomości następuje na cele realizacji inwestycji w zakresie lotniska użytku publicznego w rozumieniu przepisów ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego. ” .
+
+**Art. 35.** W ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2006 r. Nr 100, poz. 696, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 55: w ust. 3: – pkt 2 otrzymuje brzmienie: „ 2) wypis i wyrys z miejscowego planu zagospodarowania przestrzennego dla terenu lotniska oraz obszarów go otaczających, znajdujących się w strefie jego oddziaływania, odpis decyzji o lokalizacji inwestycji celu publicznego albo odpis decyzji o warunkach zagospodarowania terenu, z zastrzeżeniem przepisów ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego (Dz. U. Nr 42, poz. 340); ” , – uchyla się pkt 10, dodaje się ust. 4 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+4. W przypadku lotniska użytku publicznego do wniosku, o którym mowa w ust. 1, wnioskodawca jest obowiązany dołączyć również odpis decyzji o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego, o której mowa w przepisach ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego. ” ;
+
+- **2)** w art. 56: w ust. 1 uchyla się pkt 3, ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2. Zezwolenie na założenie lotniska może zawierać warunek spełnienia przez wnioskodawcę dodatkowych wymagań określonych w tym zezwoleniu, wiążących się z eksploatacją lotniska. ” ;
+
+- **3)** w art. 57 po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
+
+1a. Do wniosku o wydanie promesy zezwolenia wnioskodawca dołącza dokumenty określone w art. 55 ust. 3 pkt 1–4 i 7–9.
+
+1b. Wymagania określone w ust. 1a dotyczące art. 55 ust. 3 pkt 2 i 7 nie dotyczą inwestycji, o których mowa w przepisach ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego. ” .
+
+**Art. 36.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. Nr 199, poz. 1227 i Nr 227, poz. 1505) wprowadza się następujące zmiany:
+
+- **1)** w art. 61: w ust. 1 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** postępowania w sprawie wydania decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10 i 14, jeżeli konieczność przeprowadzenia oceny oddziaływania przedsięwzięcia na środowisko została stwierdzona przez organ właściwy do wydania decyzji o środowiskowych uwarunkowaniach oraz w przypadku, o którym mowa w art. 88 ust. 1. ” , ust. 3 otrzymuje brzmienie: „
+    - **b)**
+
+3. Ocenę oddziaływania przedsięwzięcia na środowisko, stanowiącą część postępowania w sprawie wydania decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10 i 14, przeprowadza regionalny dyrektor ochrony środowiska. ” ;
+
+- **2)** art. 67 otrzymuje brzmienie: „
+
+**Art. 67.** Raport o oddziaływaniu przedsięwzięcia na środowisko, sporządzany w ramach oceny oddziaływania przedsięwzięcia na środowisko stanowiącej część postępowania w sprawie wydania decyzji, o których mowa w art. 72 ust. 1 pkt 1 i 10, powinien:
+
+- **1)** zawierać informacje, o których mowa w art. 66, określone ze szczegółowością i dokładnością odpowiednio do posiadanych danych wynikających z projektu budowlanego i innych informacji uzyskanych po wydaniu decyzji o środowiskowych uwarunkowaniach i decyzji, o których mowa w art. 72 ust. 1 pkt 2–9 i pkt 11–14, jeżeli były już dla danego przedsięwzięcia wydane;
+- **2)** określać stopień i sposób uwzględnienia wymagań dotyczących ochrony środowiska, zawartych w decyzji o środowiskowych uwarunkowaniach i decyzjach, o których mowa w art. 72 ust. 1 pkt 2–9 i pkt 11–14, jeżeli były już dla danego przedsięwzięcia wydane. ” ;
+- **3)** w art. 72: w ust. 1 w pkt 13 kropkę zastępuje się średnikiem i dodaje się pkt 14 w brzmieniu: „
+    - **a)**
+
+- **14)** decyzji o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego w rozumieniu przepisów ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego (Dz. U. Nr 42, poz. 340). ” , w ust. 3 zdanie pierwsze otrzymuje brzmienie: „ Decyzję o środowiskowych uwarunkowaniach dołącza się do wniosku o wydanie decyzji, o których mowa w ust. 1. ” , ust. 5–7 otrzymują brzmienie: „
+    - **b)**
+    - **c)**
+
+5. W okresie, o którym mowa w ust. 3 i 4, dla danego przedsięwzięcia wydaje się jedną decyzję o środowiskowych uwarunkowaniach. Jedną decyzję o środowiskowych uwarunkowaniach wydaje się także w przypadku, gdy dla danego przedsięwzięcia jest wymagane uzyskanie więcej niż jednej z decyzji, o których mowa w ust. 1, lub gdy wnioskodawca uzyskuje odrębnie decyzje dla poszczególnych etapów realizacji przedsięwzięcia.
+
+6. Organ właściwy do wydania decyzji, o których mowa w ust. 1, dotyczących przedsięwzięć mogących znacząco oddziaływać na środowisko, podaje do publicznej wiadomości informacje o wydanej decyzji i o możliwościach zapoznania się z jej treścią oraz z dokumentacją sprawy.
+
+7. Jeżeli przedsięwzięcie, dla którego została wydana decyzja o środowiskowych uwarunkowaniach, lub decyzje, o których mowa w ust. 1, może znacząco negatywnie oddziaływać na obszar Natura 2000 wyznaczony po dniu wydania tych decyzji, uprawniony podmiot powinien złożyć, w terminie roku od dnia wyznaczenia tego obszaru, wniosek o wydanie decyzji o środowiskowych uwarunkowaniach w zakresie oddziaływania na obszar Natura 2000. Przepisy ustawy o wydawaniu decyzji o środowiskowych uwarunkowaniach stosuje się odpowiednio, z wyłączeniem obowiązku opiniowania przez organ, o którym mowa w art. 78. ” ;
+
+- **4)** w art. 75 w ust. 1 w pkt 1 w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „ przedsięwzięć polegających na realizacji inwestycji w zakresie lotniska użytku publicznego w rozumieniu przepisów ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego; ” ;
+    - **e)**
+
+- **5)** w art. 77: w ust. 1 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** zasięga opinii organu, o którym mowa w art. 78, w przypadku przedsięwzięć wymagających decyzji, o których mowa w art. 72 ust. 1 pkt 1–3 i pkt 10–14. ” , w ust. 4 pkt 2 otrzymuje brzmienie: „
+    - **b)**
+
+- **2)** przedstawia stanowisko w sprawie konieczności przeprowadzenia oceny oddziaływania przedsięwzięcia na środowisko oraz postępowania w sprawie transgranicznego oddziaływania na środowisko w ramach postępowania w sprawie wydania decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10 i 14. ” , w ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W stanowisku, o którym mowa w ust. 4 pkt 2, regionalny dyrektor ochrony środowiska stwierdza konieczność przeprowadzenia oceny oddziaływania przedsięwzięcia na środowisko w ramach postępowania w sprawie wydania decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10 i 14, biorąc pod uwagę w szczególności następujące okoliczności: ” ;
+    - **c)**
+
+- **6)** w art. 82: w ust. 1: – w pkt 1 lit. c otrzymuje brzmienie: „ c) wymagania dotyczące ochrony środowiska konieczne do uwzględnienia w dokumentacji wymaganej do wydania decyzji, o których mowa w art. 72 ust. 1, w szczególności w projekcie budowlanym, w przypadku decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10 i 14, ” , – pkt 4 otrzymuje brzmienie: „ 4) przedstawia stanowisko w sprawie konieczności przeprowadzenia oceny oddziaływania przedsięwzięcia na środowisko oraz postępowania w sprawie transgranicznego oddziaływania na środowisko w ramach postępowania w sprawie wydania decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10 i 14; ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W stanowisku, o którym mowa w ust. 1 pkt 4, właściwy organ stwierdza konieczność przeprowadzenia oceny oddziaływania przedsięwzięcia na środowisko w ramach postępowania w sprawie wydania decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10 i 14, biorąc pod uwagę w szczególności następujące okoliczności: ” ;
+    - **a)**
+    - **b)**
+
+- **7)** art. 86 otrzymuje brzmienie: „
+
+**Art. 86.** Decyzja o środowiskowych uwarunkowaniach wiąże organ wydający decyzje, o których mowa w art. 72 ust. 1. ” ;
+
+- **8)** w art. 88 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Ocenę oddziaływania przedsięwzięcia na środowisko w ramach postępowania w sprawie wydania decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10 i 14, przeprowadza się także: ” ;
+- **9)** w art. 89: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Po otrzymaniu raportu o oddziaływaniu przedsięwzięcia na środowisko organ właściwy do wydania decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10 i 14, występuje do regionalnego dyrektora ochrony środowiska z wnioskiem o uzgodnienie warunków realizacji przedsięwzięcia. ” , w ust. 2 pkt 1 otrzymuje brzmienie: „
+
+- **b)**
+- **1)** wniosek o wydanie decyzji, o której mowa w art. 72 ust. 1 pkt 1, 10 i 14; ” ;
+- **10)** w art. 90: w ust. 2 pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** do organu właściwego do wydania decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10 lub 14, o zapewnienie możliwości udziału społeczeństwa w trybie art. 33–36 i 38; ” , ust. 3 otrzymuje brzmienie: „
+    - **b)**
+
+3. Organ właściwy do wydania decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10 i 14 przekazuje regionalnemu dyrektorowi ochrony środowiska zgłoszone przez społeczeństwo uwagi i wnioski oraz protokół z rozprawy administracyjnej otwartej dla społeczeństwa, jeżeli była przeprowadzona. ” ;
+
+- **11)** art. 92 otrzymuje brzmienie: „
+
+**Art. 92.** Postanowienie, o którym mowa w art. 90 ust. 1, wiąże organ właściwy do wydania decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10 i 14. ” ;
+
+- **12)** w art. 93: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Właściwy organ wydaje decyzje, o których mowa w art. 72 ust. 1 pkt 1, 10 i 14, uwzględniając warunki realizacji przedsięwzięcia określone w: ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W decyzjach, o których mowa w art. 72 ust. 1 pkt 1, 10 i 14, właściwy organ może: ” , w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W decyzjach, o których mowa w art. 72 ust. 1 pkt 1, 10 i 14, właściwy organ, w przypadku gdy z oceny oddziaływania przedsięwzięcia na środowisko wynika potrzeba: ” , ust. 4 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+4. Jeżeli z oceny oddziaływania przedsięwzięcia na środowisko wynika, że przedsięwzięcie może znacząco negatywnie oddziaływać na obszar Natura 2000, organ właściwy do wydania decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10 i 14, odmawia zgody na realizację przedsięwzięcia, o ile nie zachodzą przesłanki, o których mowa w art. 34 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody. ” ;
+
+- **13)** w art. 94 ust. 1 otrzymuje brzmienie: „
+
+1. W analizie porealizacyjnej, o której mowa w art. 93 ust. 2 pkt 2, dokonuje się porównania ustaleń zawartych w raporcie o oddziaływaniu przedsięwzięcia na środowisko i w decyzjach, o których mowa w art. 72 ust. 1 pkt 1, 10 i 14, w szczególności ustaleń dotyczących przewidywanego charakteru i zakresu oddziaływania przedsięwzięcia na środowisko oraz planowanych działań zapobiegawczych z rzeczywistym oddziaływaniem przedsięwzięcia na środowisko i działaniami podjętymi dla jego ograniczenia. ” ;
+
+- **14)** w art. 95 ust. 1 otrzymuje brzmienie: „
+
+1. Decyzje, o których mowa w art. 72 ust. 1 pkt 1, 10 i 14, wymagają uzasadnienia. ” ;
+
+- **15)** w art. 96 w ust. 2 pkt 1 otrzymuje brzmienie: „
+- **1)** decyzje, o których mowa w art. 72 ust. 1; ” ;
+- **16)** w art. 104 w ust. 1 w pkt 1 lit. b otrzymuje brzmienie: „ decyzjami, o których mowa w art. 72 ust. 1 pkt 1, 10 i 14, jeżeli w ramach postępowania w sprawie decyzji o środowiskowych uwarunkowaniach nie była przeprowadzona ocena oddziaływania przedsięwzięcia na środowisko, ” .
+    - **b)**
+
 **Art. 37.** Dla inwestycji w zakresie lotnisk użytku publicznego, w tym również polegającej na przebudowie lub rozbudowie, rozpoczętych na podstawie dotychczasowych przepisów, dla których przed dniem wejścia w życie niniejszej ustawy nie została wydana decyzja o pozwoleniu na budowę, stosuje się przepisy niniejszej ustawy, na wniosek zakładającego lotnisko, zarządzającego lotniskiem albo Polskiej Agencji Żeglugi Powietrznej złożony do właściwego wojewody nie później niż w terminie 30 dni od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 38.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia .
+**Art. 38.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

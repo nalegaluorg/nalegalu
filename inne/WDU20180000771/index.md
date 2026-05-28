@@ -8,12 +8,10 @@ pos: 771
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o komornikach sądowych
-
-*USTAWA z dnia 22 marca 2018 r.*
+# Ustawa z dnia 22 marca 2018 r. o komornikach sądowych
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,20 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-03-22 |
 | Data wydania | 2018-04-25 |
+| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2026-04-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000771) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/771/text.pdf) |
 
-Art. 261–279. (pominięte)
+” ;
+21)
+w art. 847 § 1 otrzymuje brzmienie:
+„
+§ 1.
+Komornik dokonuje zajęcia przez wpisanie ruchomości do protokołu zajęcia. Odpis protokołu zajęcia należy doręczyć dłużnikowi i współwłaścicielom zajętej ruchomości, którzy nie są dłużnikami, jak również wierzycielowi, który nie był obecny przy zajęciu.
+” ;
+22)
+art. 853 otrzymuje brzmienie:
+„
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -39,7 +47,7 @@ Art. 261–279. (pominięte)
 - **2)** prawa i obowiązki komorników,
 - **3)** zasady naboru do zawodu komornika i przygotowania do wykonywania tego zawodu,
 - **4)** funkcjonowanie samorządu komorniczego,
-- **5)** zasady sprawowania nadzoru nad komornikami i samorządem komorniczym – z uwzględnieniem konieczności zapewnienia należytego wykonywania zadań państwa w zakresie sprawnej, skutecznej i rzetelnej egzekucji sądowej.
+- **5)** zasady sprawowania nadzoru nad komornikami i samorządem komorniczym z uwzględnieniem konieczności zapewnienia należytego wykonywania zadań państwa w zakresie sprawnej, skutecznej i rzetelnej egzekucji sądowej.
 
 2. Minister Sprawiedliwości realizuje politykę państwa w zakresie zadań powierzonych komornikom.
 
@@ -59,44 +67,22 @@ Art. 261–279. (pominięte)
 
 3. Komornikom powierza się następujące zadania:
 
-- **1)** wykonywanie orzeczeń sądowych w sprawach o roszczenia pieniężne i niepieniężne oraz zabezpieczenie roszczeń, w tym europejskich nakazów zabezpieczenia na rachunku bankowym, z uwzględnieniem wyjątków przewidzianych w ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. );
+- **1)** wykonywanie orzeczeń sądowych w sprawach o roszczenia pieniężne i niepieniężne oraz zabezpieczenie roszczeń, w tym europejskich nakazów zabezpieczenia na rachunku bankowym, z uwzględnieniem wyjątków przewidzianych w ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 155, z późn. zm.);
 - **2)** wykonywanie innych tytułów wykonawczych oraz tytułów egzekucyjnych, które podlegają wykonaniu w drodze egzekucji sądowej bez zaopatrywania ich w klauzulę wykonalności;
-- **2a)** wykonywanie postanowień o zabezpieczeniu środka dowodowego oraz postanowień nakazujących wydanie środka dowodowego w postępowaniu w sprawach własności intelektualnej;
 - **3)** wykonywanie postanowień o zabezpieczeniu spadku lub sporządzanie spisu inwentarza;
 - **4)** wykonywanie zadań określonych w innych ustawach.
 
 4. Komornik, poza zadaniami określonymi w ust. 3, wykonuje następujące czynności:
 
-- **1)** na zlecenie sądu albo wniosek powoda zobowiązanego przez sąd na podstawie art. 139 § 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego – osobiście doręcza bezpośrednio adresatowi zawiadomienia sądowe, pisma procesowe oraz inne dokumenty sądowe za potwierdzeniem odbioru i oznaczeniem daty, albo stwierdza, że adresat pod podanym adresem nie zamieszkuje;
-- **1a)** na zlecenie podmiotu, o którym mowa w pkt 1, podejmuje czynności zmierzające do ustalenia aktualnego adresu zamieszkania adresata;
+- **1)** na zlecenie sądu – osobiście doręcza bezpośrednio adresatowi zawiadomienia sądowe, pisma procesowe oraz inne dokumenty sądowe za potwierdzeniem odbioru i oznaczeniem daty;
 - **2)** sporządza protokół stanu faktycznego;
 - **3)** na wniosek organizatora licytacji – sprawuje urzędowy nadzór nad dobrowolnymi publicznymi licytacjami, z przybiciem najniższej lub najwyższej oferty.
 
-5. Na czynności komornika, o których mowa w ust. 4 pkt 1–2, przysługuje skarga do sądu rejonowego. Przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, w szczególności art. 759 § 2 i art. 767–767 , stosuje się odpowiednio. Zażalenie na postanowienie sądu nie przysługuje, z wyjątkiem postanowień w przedmiocie kosztów komorniczych.
-
-6. Czynności sądu, o których mowa w ust. 5, może wykonywać także referendarz sądowy.
-
-**Art. 3a.**
-
-1. Doręczenia, o którym mowa w art. 3 ust. 4 pkt 1, komornik dokonuje w terminie 14 dni od dnia otrzymania zlecenia.
-
-1a. Wraz z wnioskiem, o którym mowa w art. 3 ust. 4 pkt 1, przedkłada się komornikowi zobowiązanie do dokonania doręczenia, o którym mowa w art. 139 § 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego. Przedłożenie zobowiązania adresowanego do pełnomocnika procesowego jest równoznaczne z wykazaniem przez pełnomocnika procesowego umocowania do wystąpienia z wnioskiem o dokonanie doręczenia.
-
-1b. Jeżeli z informacji posiadanych przez komornika przed próbą doręczenia wynika, że podany adres jest nieaktualny, komornik doręcza pismo adresatowi pod znanym mu adresem, o ile komornik ten jest właściwy do dokonania doręczenia, albo zwraca pismo podmiotowi zlecającemu doręczenie, informując o dokonanych ustaleniach.
-
-2. Jeżeli adresata nie zastano przy próbie doręczenia, komornik ustala, czy adresat zamieszkuje pod wskazanym adresem. W tym celu komornik może żądać niezbędnych informacji od podmiotów wymienionych w art. 761 § 1 pkt 13 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego pod rygorem przewidzianym w art. 762 tej ustawy. Treść dokonanych ustaleń komornik wciąga do protokołu, do którego przepis art. 809 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego stosuje się odpowiednio.
-
-3. Jeżeli próba doręczenia okaże się bezskuteczna, a zgodnie z ustaleniami komornika adresat zamieszkuje pod podanym adresem, w oddawczej skrzynce pocztowej adresata, w drzwiach lub w innym odpowiednim miejscu umieszcza się zawiadomienie o podjętej próbie doręczenia wraz z informacją o możliwości odbioru pisma w kancelarii komornika oraz pouczeniem, że należy je odebrać w terminie 14 dni od dnia umieszczenia zawiadomienia. Jeżeli pod podanym adresem zastano dorosłego domownika adresata, komornik może doręczyć pismo temu domownikowi, chyba że z posiadanych informacji wynika, że pismo powinno zostać doręczone do rąk własnych adresata. W przypadku bezskutecznego upływu terminu do odbioru pisma, pismo uważa się za doręczone w ostatnim dniu tego terminu, a komornik zwraca pismo podmiotowi zlecającemu doręczenie, informując go o dokonanych ustaleniach oraz o dacie doręczenia.
-
-4. Jeżeli próba doręczenia okaże się bezskuteczna, a zgodnie z ustaleniami komornika adresat nie zamieszkuje pod wskazanym adresem, komornik zwraca pismo podmiotowi zlecającemu doręczenie informując go o dokonanych ustaleniach. To samo dotyczy przypadku, gdy komornikowi mimo podjęcia wymaganych czynności nie udało się ustalić, czy adresat zamieszkuje pod wskazanym adresem.
-
-5. W przypadkach, o których mowa w ust. 1b, 3 i 4, komornik udziela podmiotowi zlecającemu informacji o dokonanych ustaleniach przez nadesłanie kopii protokołu.
-
-**Art. 3b.** W przypadku zwrotu przez komornika pisma, o którym mowa w art. 3a ust. 4, podmiot zlecający może wystąpić do tego komornika z wnioskiem o podjęcie czynności zmierzających do ustalenia aktualnego adresu zamieszkania adresata. W tym celu komornik może żądać niezbędnych informacji od podmiotów wymienionych w art. 761 § 1 pkt 3–6 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego. Komornik może także korzystać z informacji posiadanych z urzędu, jeżeli aktualny adres zamieszkania adresata jest mu znany.
+5. Na czynności komornika, o których mowa w ust. 4 pkt 1 i 2, przysługuje skarga do sądu rejonowego. Przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, w szczególności art. 759 § 2 i art. 767–7674, stosuje się odpowiednio. Zażalenie na postanowienie sądu nie przysługuje, z wyjątkiem postanowień w przedmiocie kosztów komorniczych.
 
 **Art. 4.** Protokół stanu faktycznego, o którym mowa w art. 3 ust. 4 pkt 2, jest zapisem naocznych spostrzeżeń komornika poczynionych w toku osobistych oględzin. Przedmiotem protokołu nie mogą być spostrzeżenia poczynione na podstawie dostępnych komornikowi rejestrów i innych publicznych źródeł informacji, jak też hipotezy dotyczące określonych zjawisk, relacji oraz związków przyczynowo-skutkowych. W toku osobistych oględzin komornikowi nie wolno stosować środków przymusu ani przełamywać oporu osób uczestniczących w czynnościach. Przepis art. 809 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego stosuje się odpowiednio.
 
-**Art. 5.** Komornik używa tytułu: „Komornik Sądowy przy Sądzie Rejonowym ... Kancelaria Komornicza nr ... w ...” z podaniem imienia i nazwiska oraz adresu kancelarii komorniczej.
+**Art. 5.** Komornik używa tytułu: „Komornik Sądowy przy Sądzie Rejonowym... Kancelaria Komornicza nr... w... „ z podaniem imienia i nazwiska oraz adresu kancelarii komorniczej.
 
 **Art. 6.**
 
@@ -144,15 +130,15 @@ Art. 261–279. (pominięte)
 
 - **1)** wszczęcie egzekucji,
 - **2)** wykonanie postanowienia o udzieleniu zabezpieczenia,
-- **3)** wykonanie europejskiego nakazu zabezpieczenia na rachunku bankowym, 3a) wykonanie postanowienia o zabezpieczeniu środka dowodowego lub postanowienia nakazującego wydanie środka dowodowego w postępowaniu w sprawach własności intelektualnej,
+- **3)** wykonanie europejskiego nakazu zabezpieczenia na rachunku bankowym,
 - **4)** wykonanie postanowienia o zabezpieczeniu spadku,
-- **5)** sporządzenie spisu inwentarza – do przeprowadzenia których jest właściwy zgodnie z przepisami ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
+- **5)** sporządzenie spisu inwentarza do przeprowadzenia których jest właściwy zgodnie z przepisami ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
 
-2. Komornik nie może odmówić wykonania czynności, o których mowa w art. 3 ust. 4 pkt 1–2, jeżeli jest właściwy do ich podjęcia i zostały one zlecone przez sąd, prokuratora albo osobę zobowiązaną przez sąd do złożenia wniosku.
+2. Komornik nie może odmówić wykonania czynności, o których mowa w art. 3 ust. 4 pkt 1 i 2, jeżeli zostały one zlecone przez sąd lub prokuratora.
 
 **Art. 10.**
 
-1. W sprawach, o których mowa w art. 3 ust. 3 pkt 1–2a, wierzyciel ma prawo wyboru komornika na obszarze właściwości sądu apelacyjnego, na którym znajduje się siedziba kancelarii komornika właściwego zgodnie z przepisami ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, z wyjątkiem spraw:
+1. W sprawach, o których mowa w art. 3 ust. 3 pkt 1 i 2, wierzyciel ma prawo wyboru komornika na obszarze właściwości sądu apelacyjnego, na którym znajduje się siedziba kancelarii komornika właściwego zgodnie z przepisami ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, z wyjątkiem spraw:
 
 - **1)** o egzekucję z nieruchomości;
 - **2)** o wydanie nieruchomości;
@@ -167,17 +153,16 @@ Art. 261–279. (pominięte)
 4. Komornik wybrany przez wierzyciela odmawia wszczęcia egzekucji, wykonania postanowienia o udzieleniu zabezpieczenia albo wykonania europejskiego nakazu zabezpieczenia na rachunku bankowym, jeżeli spełniony został przynajmniej jeden z poniższych warunków:
 
 - **1)** w zakresie prowadzonych przez niego egzekucji zaległość przekracza 6 miesięcy, chyba że łączna liczba wszystkich spraw, jakie wpłynęły do kancelarii w roku poprzednim, nie przekroczyła 1000;
-- **2)** wpływ wszystkich spraw w danym roku przekroczył 2500, a skuteczność w zakresie prowadzonych przez niego egzekucji w roku poprzednim nie przekroczyła 35 %;
+- **2)** wpływ wszystkich spraw w danym roku przekroczył 2500, a skuteczność w zakresie prowadzonych przez niego egzekucji w roku poprzednim nie przekroczyła 35%;
 - **3)** wpływ wszystkich spraw w danym roku przekroczył 5000.
 
 5. Zaległość, o której mowa w ust. 4 pkt 1, oblicza się, dzieląc liczbę spraw niezałatwionych w poprzednim półroczu przez średni miesięczny wpływ spraw w poprzednim półroczu. Skuteczność, o której mowa w ust. 4 pkt 2, oblicza się, ustalając procentowy stosunek liczby spraw załatwionych przez całkowite wyegzekwowanie dochodzonego świadczenia w roku poprzednim do liczby spraw, które wpłynęły w roku poprzednim.
 
-6. W liczbie spraw, o których mowa w ust. 4 i 5, uwzględnia się sprawy, o których mowa w art. 3 ust. 3 pkt 1–2a, z wyłączeniem spraw:
+6. W liczbie spraw, o których mowa w ust. 4 i 5, uwzględnia się sprawy, o których mowa w art. 3 ust. 3 pkt 1 i 2, z wyłączeniem spraw:
 
 - **1)** o egzekucję świadczeń powtarzających się;
 - **2)** w których komornik odmówił wszczęcia egzekucji na podstawie ust. 4 i 8;
-- **3)** w których nastąpił zwrot wniosku;
-- **4)** przejętych na skutek przekazania adnotacji w sprawie zbiegu egzekucji sądowej i administracyjnej.
+- **3)** w których nastąpił zwrot wniosku.
 
 7. W stosunku do komornika, który rozpoczął działalność, zaległość i skuteczność, o których mowa w ust. 4, oblicza się po upływie roku następującego po roku, w którym złożył ślubowanie. W pierwszych dwóch latach kalendarzowych działalności komornik nie może przyjąć więcej niż 2500 spraw z wyboru wierzyciela w każdym roku.
 
@@ -187,7 +172,7 @@ Art. 261–279. (pominięte)
 
 10. Jeżeli po wszczęciu postępowania komornik stwierdzi, że w momencie złożenia wniosku przez wierzyciela dłużnik zamieszkiwał poza jego rewirem, a zachodziły przesłanki do odmowy wszczęcia postępowania, o których mowa w ust. 4, komornik wyda postanowienie o przekazaniu sprawy komornikowi właściwości ogólnej dłużnika. W przypadku gdy w rewirze właściwości ogólnej dłużnika działa kilku komorników, przed wydaniem postanowienia komornik wezwie wierzyciela do wskazania w terminie 7 dni komornika właściwego, któremu sprawa ma zostać przekazana. Jeżeli wierzyciel w zakreślonym terminie nie wskaże komornika właściwego, komornik przekaże sprawę komornikowi właściwemu wybranemu według własnego uznania.
 
-11. Przepisu art. 775 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego nie stosuje się.
+11. Przepisu art. 7751 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego nie stosuje się.
 
 12. W przypadku odmowy wszczęcia egzekucji, wykonania postanowienia o udzieleniu zabezpieczenia albo wykonania europejskiego nakazu zabezpieczenia na rachunku bankowym, komornik wydaje postanowienie. Postanowienie to doręcza się tylko wierzycielowi wraz z tytułem wykonawczym i wnioskiem egzekucyjnym. W przypadkach, o których mowa w ust. 4 i 8, skarga na postanowienie nie przysługuje.
 
@@ -224,9 +209,9 @@ Art. 261–279. (pominięte)
 4. Wymóg, o którym mowa w ust. 1 pkt 8, nie dotyczy osób:
 
 - **1)** które w okresie nie dłuższym niż 6 lat przed dniem złożenia wniosku o dopuszczenie do egzaminu komorniczego przez okres co najmniej 3 lat wykonywały obowiązki aplikanta sądowego i aplikanta prokuratorskiego lub były zatrudnione na stanowisku asystenta prokuratora, starszego asystenta prokuratora, asystenta sędziego, starszego asystenta sędziego lub były zatrudnione w Sądzie Najwyższym, Naczelnym Sądzie Administracyjnym, Trybunale Konstytucyjnym lub międzynarodowym organie sądowym, w szczególności Trybunale Sprawiedliwości Unii Europejskiej lub Europejskim Trybunale Praw Człowieka, i wykonywały zadania odpowiadające czynnościom asystenta sędziego;
-- **2)** które po ukończeniu wyższych studiów prawniczych przez okres co najmniej 3 lat, w okresie nie dłuższym niż 6 lat przed dniem złożenia wniosku o dopuszczenie do egzaminu komorniczego, wykonywały, na podstawie umowy o pracę lub umowy cywilnoprawnej, wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej przez adwokata lub radcę prawnego w kancelarii adwokackiej, zespole adwokackim, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o której mowa w art. 4a ust. 1 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2022 r. poz. 1184 i 1268 oraz z 2023 r. poz. 1860), lub kancelarii radcy prawnego, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o której mowa w art. 8 ust. 1 ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2024 r. poz. 499);
+- **2)** które po ukończeniu wyższych studiów prawniczych przez okres co najmniej 3 lat, w okresie nie dłuższym niż 6 lat przed dniem złożenia wniosku o dopuszczenie do egzaminu komorniczego, wykonywały, na podstawie umowy o pracę lub umowy cywilnoprawnej, wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej przez adwokata lub radcę prawnego w kancelarii adwokackiej, zespole adwokackim, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o której mowa w art. 4a ust. 1 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2017 r. poz. 2368 i 2400 oraz z 2018 r. poz. 723), lub kancelarii radcy prawnego, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o której mowa w art. 8 ust. 1 ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2017 r. poz. 1870 i 2400 oraz z 2018 r. poz. 138 i 723);
 - **3)** które po ukończeniu wyższych studiów prawniczych przez okres co najmniej 3 lat, w okresie nie dłuższym niż 6 lat przed dniem złożenia wniosku o dopuszczenie do egzaminu komorniczego, wykonywały, na podstawie umowy o pracę lub umowy cywilnoprawnej, wymagające wiedzy prawniczej czynności bezpośrednio związane z czynnościami wykonywanymi przez notariusza w kancelarii notarialnej;
-- **4)** (uchylony)
+- **4)** które w terminie określonym w art. 16 nie złożyły wniosku o powołanie na stanowisko komornika.
 
 5. Okresy zatrudnienia, o których mowa w ust. 4 pkt 1–3, ustala się jako sumę okresów obliczonych z zachowaniem proporcjonalności ich wymiaru.
 
@@ -234,7 +219,7 @@ Art. 261–279. (pominięte)
 
 1. Minister Sprawiedliwości na wniosek zainteresowanego powołuje go na stanowisko komornika, w drodze decyzji, po zasięgnięciu opinii rady właściwej izby komorniczej o zainteresowanym. Rada izby komorniczej nie ma statusu strony w toczącym się postępowaniu administracyjnym.
 
-2. Minister Sprawiedliwości może odmówić powołania na stanowisko komornika, jeżeli utworzenie nowej kancelarii w rewirze objętym wnioskiem nie jest celowe lub liczba komorników działających w danym rewirze jest wystarczająca. Oceny tej Minister Sprawiedliwości dokonuje, uwzględniając potrzebę prawidłowego i sprawnego wykonywania czynności, o których mowa w art. 3, stan zaległości i wielkość wpływu spraw w danym rewirze. Minister Sprawiedliwości może odmówić powołania na stanowisko komornika, zwłaszcza gdy na skutek powołania komornika średnia liczba spraw w danym rewirze byłaby niższa niż 1000 spraw przypadających na jednego komornika. Średnią liczbę spraw oblicza się, dzieląc liczbę spraw, o których mowa w art. 3 ust. 3 pkt 1–2a, z wyłączeniem spraw z wyboru wierzyciela, które wpłynęły do wszystkich komorników w tym rewirze w roku kalendarzowym poprzedzającym złożenie wniosku o powołanie na stanowisko komornika, przez liczbę komorników, co do których wydano decyzję o powołaniu na stanowisko komornika w rewirze na dzień rozpoznawania wniosku, powiększoną o jeden.
+2. Minister Sprawiedliwości może odmówić powołania na stanowisko komornika, jeżeli utworzenie nowej kancelarii w rewirze objętym wnioskiem nie jest celowe lub liczba komorników działających w danym rewirze jest wystarczająca. Oceny tej Minister Sprawiedliwości dokonuje, uwzględniając potrzebę prawidłowego i sprawnego wykonywania czynności, o których mowa w art. 3, stan zaległości i wielkość wpływu spraw w danym rewirze. Minister Sprawiedliwości może odmówić powołania na stanowisko komornika, zwłaszcza gdy na skutek powołania komornika średnia liczba spraw w danym rewirze byłaby niższa niż 1000 spraw przypadających na jednego komornika. Średnią liczbę spraw oblicza się, dzieląc liczbę spraw, o których mowa w art. 3 ust. 3 pkt 1 i 2, z wyłączeniem spraw z wyboru wierzyciela, które wpłynęły do wszystkich komorników w tym rewirze w roku kalendarzowym poprzedzającym złożenie wniosku o powołanie na stanowisko komornika, przez liczbę komorników, co do których wydano decyzję o powołaniu na stanowisko komornika w rewirze na dzień rozpoznawania wniosku, powiększoną o jeden.
 
 3. Ogłoszenie o zwolnionym stanowisku komornika Minister Sprawiedliwości udostępnia niezwłocznie w Biuletynie Informacji Publicznej, chyba że powołanie nowego komornika na zwolnione stanowisko nie jest celowe. W ogłoszeniu wskazuje się rewir, imię, nazwisko, numer porządkowy oraz siedzibę i adres kancelarii dotychczasowego komornika oraz zaznacza się, że osoba, która zostanie powołana na stanowisko komornika, przejmie prowadzenie spraw dotychczas prowadzonych i niezakończonych przez tego komornika. Wnioski o powołanie na zwolnione stanowisko składa się do Ministra Sprawiedliwości w terminie miesiąca od dnia wskazanego w ogłoszeniu.
 
@@ -261,7 +246,7 @@ Art. 261–279. (pominięte)
 
 4. Do wniosku, o którym mowa w ust. 1, zainteresowany może załączyć opinie, świadectwa i zaświadczenia.
 
-5. Do wniosku, o którym mowa w ust. 1, zainteresowany urodzony przed dniem 1 sierpnia 1972 r. załącza również oświadczenie, o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2024 r. poz. 273 i 834), albo informację, o której mowa w art. 7 ust. 3a tej ustawy.
+5. Do wniosku, o którym mowa w ust. 1, zainteresowany urodzony przed dniem 1 sierpnia 1972 r. załącza również oświadczenie, o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2017 r. poz. 2186 oraz z 2018 r. poz. 538, 650, 651 i 730), albo informację, o której mowa w art. 7 ust. 3a tej ustawy.
 
 **Art. 14.** Minister Sprawiedliwości zasięga z Krajowego Rejestru Karnego aktualnej informacji o zainteresowanym powołaniem na stanowisko komornika.
 
@@ -277,13 +262,13 @@ Art. 261–279. (pominięte)
 
 5. W przypadku nieutworzenia albo nieobjęcia kancelarii w terminie, o którym mowa w ust. 1 albo 4, powołanie na stanowisko komornika traci moc. Okoliczność tę stwierdza Minister Sprawiedliwości.
 
-**Art. 16.** Wniosek o powołanie na stanowisko komornika można złożyć w terminie 5 lat od dnia ustania zatrudnienia na stanowisku asesora.
+**Art. 16.** Wniosek o powołanie na stanowisko komornika można złożyć w terminie 5 lat od odbycia asesury komorniczej.
 
 **Art. 17.**
 
 1. Po uzyskaniu od prezesa właściwego sądu rejonowego informacji potwierdzających spełnienie przez kancelarię wymogów, o których mowa w art. 15 ust. 2, Minister Sprawiedliwości zawiadamia o tym fakcie prezesa właściwego sądu apelacyjnego.
 
-2. W terminie 14 dni od dnia otrzymania zawiadomienia, prezes właściwego sądu apelacyjnego odbiera od komornika ślubowanie według następującej roty: „Ślubuję uroczyście jako komornik powierzone mi obowiązki wypełniać zgodnie z prawem i sumieniem, dochować tajemnicy prawnie chronionej, w postępowaniu swym kierować się zasadami uczciwości, godności i honoru.”.
+2. W terminie 14 dni od dnia otrzymania zawiadomienia, prezes właściwego sądu apelacyjnego odbiera od komornika ślubowanie według następującej roty: „ Ślubuję uroczyście jako komornik powierzone mi obowiązki wypełniać zgodnie z prawem i sumieniem, dochować tajemnicy prawnie chronionej, w postępowaniu swym kierować się zasadami uczciwości, godności i honoru. ” .
 
 3. Składający ślubowanie może dodać na końcu zwrot: „Tak mi dopomóż Bóg.”.
 
@@ -305,7 +290,7 @@ Art. 261–279. (pominięte)
 
 - **1)** wniósł o to sam komornik z powodu długotrwałej choroby lub innych ważnych przyczyn;
 - **2)** przeciwko komornikowi wszczęto postępowanie o nieumyślne przestępstwo ścigane z oskarżenia publicznego lub nieumyślne przestępstwo skarbowe;
-- **3)** przeciwko komornikowi wniesiono akt oskarżenia w trybie art. 55 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2024 r. poz. 37, 1222 i 1248), w którym zarzucono mu popełnienie przestępstwa, o którym mowa w ust. 1 pkt 1;
+- **3)** przeciwko komornikowi wniesiono akt oskarżenia w trybie art. 55 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2017 r. poz. 1904, z późn. zm.), w którym zarzucono mu popełnienie przestępstwa, o którym mowa w ust. 1 pkt 1;
 - **4)** prezes właściwego sądu złożył wniosek o odwołanie komornika z zajmowanego stanowiska lub Minister Sprawiedliwości z urzędu wszczął postępowanie w przedmiocie odwołania komornika z zajmowanego stanowiska w przypadkach, o których mowa w art. 19 ust. 1 pkt 3 i 4;
 - **5)** przeciwko komornikowi wszczęto postępowanie dyscyplinarne, w którym zażądano orzeczenia kary wydalenia ze służby komorniczej albo mimo braku wniosku orzeczono wobec komornika taką karę.
 
@@ -333,9 +318,10 @@ Art. 261–279. (pominięte)
 
 **Art. 19.**
 
-1. Minister Sprawiedliwości z urzędu odwołuje, w drodze decyzji, komornika z zajmowanego stanowiska, jeżeli komornik: [1) z powodu choroby lub utraty sił został uznany przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych za całkowicie niezdolnego do pełnienia obowiązków komornika lub bez uzasadnionej przyczyny odmówił poddania się badaniu, o którym mowa w art. 26;] <1) z powodu choroby lub utraty sił został uznany przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych za trwale niezdolnego do pełnienia obowiązków komornika lub bez uzasadnionej przyczyny odmówił poddania się badaniu, o którym mowa w art. 26;>
+1. Minister Sprawiedliwości z urzędu odwołuje, w drodze decyzji, komornika z zajmowanego stanowiska, jeżeli komornik:
 
-- **2)** ukończył 70. rok życia;
+- **1)** z powodu choroby lub utraty sił został uznany przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych za całkowicie niezdolnego do pełnienia obowiązków komornika lub bez uzasadnionej przyczyny odmówił poddania się badaniu, o którym mowa w art. 26;
+- **2)** ukończył 65. rok życia;
 - **3)** spowodował niedobór finansowy, polegający na wydatkowaniu środków podlegających dokumentacji na działalność niezgodną z ich przeznaczeniem, w wysokości przekraczającej 15 000 złotych;
 - **4)** nie zawarł umowy ubezpieczenia odpowiedzialności cywilnej, zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 37 ust. 4, lub utracił to ubezpieczenie z zawinionych przez siebie przyczyn.
 
@@ -389,7 +375,7 @@ Art. 261–279. (pominięte)
 1. W przypadku:
 
 - **1)** odwołania komornika z zajmowanego stanowiska z przyczyn, o których mowa w art. 19 ust. 1 pkt 4, lub
-- **2)** wygaśnięcia powołania na stanowisko komornika z mocy prawa z przyczyn, o których mowa w art. 20 ust. 1 pkt 2 i 4–6 – osoba może zostać ponownie powołana na stanowisko komornika, jeżeli spełnia wymogi określone w art. 11 ust. 1 pkt 1–7.
+- **2)** wygaśnięcia powołania na stanowisko komornika z mocy prawa z przyczyn, o których mowa w art. 20 ust. 1 pkt 2 i 4–6 osoba może zostać ponownie powołana na stanowisko komornika, jeżeli spełnia wymogi określone w art. 11 ust. 1 pkt 1–7.
 
 2. Jeżeli osoba, o której mowa w ust. 1, co najmniej przez 10 lat nie wykonywała zawodu, może zostać ponownie powołana na stanowisko komornika po złożeniu egzaminu komorniczego.
 
@@ -399,7 +385,9 @@ Art. 261–279. (pominięte)
 
 1. Komornik jest obowiązany postępować zgodnie z przepisami prawa, orzeczeniami sądu wydanymi w trybie nadzoru judykacyjnego, zarządzeniami lub zaleceniami uprawnionych organów nadzoru administracyjnego, złożonym ślubowaniem i zasadami etyki zawodowej oraz podnosić kwalifikacje zawodowe.
 
-2. Minister Sprawiedliwości, po zasięgnięciu opinii Dyrektora Krajowej Szkoły Sądownictwa i Prokuratury oraz Krajowej Rady Komorniczej, określi, w drodze rozporządzenia, minimum szkoleniowe komorników i asesorów oraz sposób dokumentowania wykonywania przez nich obowiązku podnoszenia kwalifikacji zawodowych, uwzględniając efektywność wykonywania tego obowiązku oraz funkcjonujące systemy punktowe. [Art. 26. Minister Sprawiedliwości, prezes właściwego sądu rejonowego, prezes właściwego sądu okręgowego, prezes właściwego sądu apelacyjnego albo rada właściwej izby komorniczej, z urzędu lub na wniosek zainteresowanego, może skierować komornika na badanie przeprowadzane przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych w celu ustalenia trwałej niezdolności do pełnienia obowiązków komornika. Koszty badania pokrywa podmiot kierujący na badanie.] <Art. 26. Minister Sprawiedliwości, prezes właściwego sądu rejonowego, prezes właściwego sądu okręgowego, prezes właściwego sądu apelacyjnego albo rada właściwej izby komorniczej, z urzędu lub na wniosek zainteresowanego, może skierować komornika na badanie przeprowadzane przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych w celu ustalenia trwałej niezdolności do pełnienia obowiązków komornika. Orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ). Koszty badania pokrywa podmiot kierujący na badanie.>
+2. Minister Sprawiedliwości, po zasięgnięciu opinii Dyrektora Krajowej Szkoły Sądownictwa i Prokuratury oraz Krajowej Rady Komorniczej, określi, w drodze rozporządzenia, minimum szkoleniowe komorników i asesorów oraz sposób dokumentowania wykonywania przez nich obowiązku podnoszenia kwalifikacji zawodowych, uwzględniając efektywność wykonywania tego obowiązku oraz funkcjonujące systemy punktowe.
+
+**Art. 26.** Minister Sprawiedliwości, prezes właściwego sądu rejonowego, prezes właściwego sądu okręgowego, prezes właściwego sądu apelacyjnego albo rada właściwej izby komorniczej, z urzędu lub na wniosek zainteresowanego, może skierować komornika na badanie przeprowadzane przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych w celu ustalenia trwałej niezdolności do pełnienia obowiązków komornika. Koszty badania pokrywa podmiot kierujący na badanie.
 
 **Art. 27.**
 
@@ -411,7 +399,7 @@ Art. 261–279. (pominięte)
 
 4. W postępowaniu dyscyplinarnym oraz postępowaniu o odwołanie komornika z zajmowanego stanowiska w trybie przewidzianym w art. 19 ust. 2 przepis ust. 3 stosuje się odpowiednio.
 
-**Art. 28.** Komornik, wykonując czynności, o których mowa w art. 3 ust. 3 i ust. 4 pkt 1, ma prawo legitymowania osób w celu ustalenia ich tożsamości.
+**Art. 28.** Komornik, wykonując czynności, o których mowa w art. 3 ust. 3, ma prawo legitymowania osób w celu ustalenia ich tożsamości.
 
 **Art. 29.**
 
@@ -437,9 +425,9 @@ Art. 261–279. (pominięte)
 
 **Art. 31.**
 
-1. Należności wyegzekwowane z rachunku bankowego, rachunku prowadzonego przez spółdzielczą kasę oszczędnościowo-kredytową albo rachunku prowadzonego przez podmiot prowadzący działalność maklerską, uzyskane w wyniku pierwszej wpłaty dokonanej przez dłużnika zajętej wierzytelności, komornik przekazuje wierzycielowi nie wcześniej niż w 7 dniu i nie później niż w 14 dniu od dnia ich otrzymania. W takim przypadku przepisu art. 808 § 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego nie stosuje się. Pozostałe wyegzekwowane należności komornik przekazuje wierzycielowi w terminie 4 dni od dnia ich otrzymania. W przypadku egzekucji świadczeń alimentacyjnych i rentowych komornik przekazuje wierzycielowi wyegzekwowane należności niezwłocznie, niezależnie od sposobu ich wyegzekwowania.
+1. Należności wyegzekwowane z rachunku bankowego komornik przekazuje wierzycielowi w terminie 14 dni od dnia ich otrzymania. Pozostałe wyegzekwowane należności komornik przekazuje wierzycielowi w terminie 4 dni od dnia ich otrzymania. W przypadku egzekucji świadczeń alimentacyjnych i rentowych komornik przekazuje wierzycielowi wyegzekwowane należności niezwłocznie, niezależnie od sposobu ich wyegzekwowania.
 
-2. Jeżeli komornik dopuści do opóźnienia w przekazaniu wyegzekwowanych należności, jest obowiązany zapłacić uprawnionemu odsetki ustawowe za opóźnienie od kwot otrzymanych i nierozliczonych w terminie, chyba że nieprzekazanie należności było spowodowane zdarzeniami przewidzianymi w ustawie, a w szczególności zawieszeniem postępowania egzekucyjnego lub wstrzymaniem wykonalności tytułu wykonawczego przez sąd. O każdym przypadku opóźnienia przekazania należności przekraczającego 7 dni komornik zawiadamia prezesa właściwego sądu rejonowego.
+2. Jeżeli komornik dopuści do opóźnienia w przekazaniu wyegzekwowanych należności, jest obowiązany zapłacić uprawnionemu odsetki ustawowe za opóźnienie od kwot otrzymanych i nierozliczonych w terminie, chyba że nieprzekazanie należności było spowodowane zawieszeniem postępowania egzekucyjnego lub wstrzymaniem wykonalności tytułu wykonawczego przez sąd lub wstrzymaniem przez sąd przekazywania wyegzekwowanych kwot wierzycielowi w trybie art. 7672§ 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego. O każdym przypadku opóźnienia przekazania należności przekraczającego 7 dni komornik zawiadamia prezesa właściwego sądu rejonowego.
 
 **Art. 32.**
 
@@ -451,7 +439,7 @@ Art. 261–279. (pominięte)
 - **2)** posiadanych nieruchomościach i tytułach prawnych do ich posiadania;
 - **3)** posiadanych rzeczach ruchomych o wartości jednostkowej powyżej 10 000 złotych;
 - **4)** posiadanych udziałach i akcjach w spółkach prawa handlowego;
-- **5)** posiadanych instrumentach finansowych w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722), innych niż wskazane w pkt 4;
+- **5)** posiadanych instrumentach finansowych w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2017 r. poz. 1768, z późn. zm.), innych niż wskazane w pkt 4;
 - **6)** dochodach podlegających opodatkowaniu podatkiem dochodowym od osób fizycznych, uzyskanych w okresie roku przed dniem, na który składane jest oświadczenie, o ile ich łączna wartość przekracza 10 000 złotych, i ich źródłach;
 - **7)** nabytym przez składającego oświadczenie albo jego małżonka od Skarbu Państwa, innej państwowej osoby prawnej, jednostek samorządu terytorialnego, ich związków lub samorządowej osoby prawnej, mieniu, które podlegało zbyciu w drodze przetargu;
 - **8)** wierzytelnościach i zobowiązaniach pieniężnych o wartości powyżej 10 000 złotych.
@@ -466,7 +454,7 @@ Art. 261–279. (pominięte)
 
 7. Informacje zawarte w oświadczeniu majątkowym są jawne, także co do imienia i nazwiska, z wyjątkiem danych adresowych, informacji o miejscu położenia nieruchomości, a także informacji umożliwiających identyfikację ruchomości komornika.
 
-8. Na wniosek komornika, który złożył oświadczenie majątkowe, prezes właściwego sądu apelacyjnego może zdecydować o objęciu informacji zawartych w tym oświadczeniu ochroną przewidzianą dla informacji niejawnych o klauzuli „zastrzeżone”, określoną w przepisach ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2024 r. poz. 632 i 1222), jeżeli ujawnienie tych informacji mogłoby powodować zagrożenie dla komornika lub osób dla niego najbliższych. Do zniesienia tej klauzuli uprawnieni są prezes właściwego sądu apelacyjnego oraz Minister Sprawiedliwości. Przepisu art. 6 ust. 3 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych nie stosuje się.
+8. Na wniosek komornika, który złożył oświadczenie majątkowe, prezes właściwego sądu apelacyjnego może zdecydować o objęciu informacji zawartych w tym oświadczeniu ochroną przewidzianą dla informacji niejawnych o klauzuli „zastrzeżone”, określoną w przepisach ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2018 r. poz. 412 i 650), jeżeli ujawnienie tych informacji mogłoby powodować zagrożenie dla komornika lub osób dla niego najbliższych. Do zniesienia tej klauzuli uprawnieni są prezes właściwego sądu apelacyjnego oraz Minister Sprawiedliwości. Przepisu art. 6 ust. 3 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych nie stosuje się.
 
 9. Jawne informacje zawarte w oświadczeniach majątkowych prezes właściwego sądu apelacyjnego udostępnia w Biuletynie Informacji Publicznej, nie później niż do dnia 30 czerwca każdego roku.
 
@@ -482,16 +470,14 @@ Art. 261–279. (pominięte)
 
 2. Komornik nie może prowadzić działalności gospodarczej.
 
-3. Do komornika stosuje się przepisy ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2024 r. poz. 226, 232, 854, 858, 859 i
-
-- **863)** , ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2024 r. poz. 497, 863 i 1243) oraz ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, 858 i 1222), dotyczące osób prowadzących pozarolniczą działalność gospodarczą.
+3. Do komornika stosuje się przepisy ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 200, z późn. zm.), ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2017 r. poz. 1778, z późn. zm.) oraz ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, z późn. zm.), dotyczące osób prowadzących pozarolniczą działalność gospodarczą.
 
 4. Komornik nie może:
 
 - **1)** być członkiem zarządu, rady nadzorczej lub komisji rewizyjnej spółki prawa handlowego;
 - **2)** być członkiem zarządu, rady nadzorczej lub komisji rewizyjnej spółdzielni;
 - **3)** być członkiem zarządu fundacji prowadzącej działalność gospodarczą;
-- **4)** posiadać w spółce prawa handlowego więcej niż 10 % akcji lub udziałów przedstawiających więcej niż 10 % kapitału zakładowego.
+- **4)** posiadać w spółce prawa handlowego więcej niż 10% akcji lub udziałów przedstawiających więcej niż 10% kapitału zakładowego.
 
 5. Przepisy ust. 2–4 stosuje się do asesorów.
 
@@ -515,8 +501,6 @@ Art. 261–279. (pominięte)
 
 2. W przypadku wszczęcia przeciwko komornikowi postępowania karnego, komornik zawiadamia o tym fakcie prezesa właściwego sądu rejonowego oraz Ministra Sprawiedliwości.
 
-**Art. 35a.** Komornik jest obowiązany posiadać konto w portalu informacyjnym, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334 i 1907 oraz z 2025 r. poz. 526, 820 i 1172).
-
 **Art. 36.**
 
 1. Komornik jest obowiązany do naprawienia szkody wyrządzonej przez niezgodne z prawem działanie lub zaniechanie przy wykonywaniu czynności.
@@ -539,13 +523,13 @@ Art. 261–279. (pominięte)
 
 **Art. 38.**
 
-1. Komornicy opłacają, na potrzeby organów samorządu komorniczego, składki miesięczne, których procentową wysokość ustala corocznie walne zgromadzenie izby komorniczej. Wysokość składek różnicuje wyłącznie liczba spraw wpływających w danym roku do prowadzonej przez komornika kancelarii. Wysokość składki miesięcznej nie może być niższa niż 0,3 % i wyższa niż 1 % wynagrodzenia prowizyjnego, uzyskanego w poprzednim miesiącu.
+1. Komornicy opłacają, na potrzeby organów samorządu komorniczego, składki miesięczne, których procentową wysokość ustala corocznie walne zgromadzenie izby komorniczej. Wysokość składek różnicuje wyłącznie liczba spraw wpływających w danym roku do prowadzonej przez komornika kancelarii. Wysokość składki miesięcznej nie może być niższa niż 0,3% i wyższa niż 1% wynagrodzenia prowizyjnego, uzyskanego w poprzednim miesiącu.
 
 2. Komornicy w pierwszym roku działalności kancelarii oraz komornicy, do których kancelarii w poprzednim roku kalendarzowym wpłynęło nie więcej niż 1000 spraw, uiszczają składkę miesięczną w wysokości nie większej niż 100 złotych.
 
 **Art. 39.**
 
-1. Komornikowi przysługuje uprawnienie do wypoczynku w wymiarze 26 dni w roku. Przepisy art. 152, art. 154 , art. 155 –155 , art. 158, art. 161, art. 162 i art. 164–167 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r. poz. 878 i 1222) stosuje się odpowiednio, o ile nie są one sprzeczne z przepisami regulującymi pełnienie służby przez komornika.
+1. Komornikowi przysługuje uprawnienie do wypoczynku w wymiarze 26 dni w roku. Przepisy art. 152, art. 1542, art. 1551–1553, art. 158, art. 161, art. 162 i art. 164–1673 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 108, 4, 138, 305 i 357) stosuje się odpowiednio, o ile nie są one sprzeczne z przepisami regulującymi pełnienie służby przez komornika.
 
 2. Po dziesięciu latach pełnienia służby komornikowi przysługuje corocznie dodatkowe uprawnienie do wypoczynku w wymiarze 6 dni.
 
@@ -563,7 +547,7 @@ Art. 261–279. (pominięte)
 
 2. Komornikowi przysługuje uprawnienie do nieobecności na analogicznych zasadach i w wymiarze jak przysługujące pracownikowi w związku z usprawiedliwioną nieobecnością w pracy.
 
-3. W zakresie sposobu i przyczyn usprawiedliwiania nieobecności komornika przepisy wykonawcze wydane na podstawie art. 298 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy stosuje się odpowiednio.
+3. W zakresie sposobu i przyczyn usprawiedliwiania nieobecności komornika przepisy wykonawcze wydane na podstawie art. 2982 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy stosuje się odpowiednio.
 
 #### Rozdział 4 Zastępstwo komornika
 
@@ -576,7 +560,7 @@ Art. 261–279. (pominięte)
 2. W przypadku, o którym mowa w ust. 1, zastępcą komornika może być:
 
 - **1)** inny komornik albo
-- **2)** asesor zatrudniony w kancelarii nieobecnego komornika, który przepracował na stanowisku asesora co najmniej 2 lata – jeżeli wyraził zgodę na pełnienie obowiązków zastępcy komornika w okresie przewidywanej nieobecności.
+- **2)** asesor zatrudniony w kancelarii nieobecnego komornika, który przepracował na stanowisku asesora co najmniej 2 lata jeżeli wyraził zgodę na pełnienie obowiązków zastępcy komornika w okresie przewidywanej nieobecności.
 
 3. Komornik nie może być zastępowany przez asesora dłużej niż 60 dni w roku kalendarzowym.
 
@@ -618,16 +602,16 @@ Art. 261–279. (pominięte)
 
 **Art. 48.**
 
-1. W braku odmiennej umowy między komornikiem a zastępcą komornika, zastępca komornika pobiera 25 % dochodu zastępowanego komornika w pierwszym miesiącu zastępstwa, a w następnych miesiącach – 50 % tego dochodu. Po 6 miesiącach zastępstwa zastępca komornika pobiera 75 % dochodu zastępowanego komornika.
+1. W braku odmiennej umowy między komornikiem a zastępcą komornika, zastępca komornika pobiera 25% dochodu zastępowanego komornika w pierwszym miesiącu zastępstwa, a w następnych miesiącach – 50% tego dochodu. Po 6 miesiącach zastępstwa zastępca komornika pobiera 75% dochodu zastępowanego komornika.
 
-2. Zastępca komornika wyznaczony w związku z zawieszeniem komornika w czynnościach pobiera 75 % dochodu zastępowanego komornika, do czasu ustania zawieszenia komornika w czynnościach, nie dłużej jednak niż przez okres roku od dnia zawieszenia komornika w czynnościach. Po upływie tego okresu zastępca komornika pobiera 100 % dochodu zastępowanego komornika.
+2. Zastępca komornika wyznaczony w związku z zawieszeniem komornika w czynnościach pobiera 75% dochodu zastępowanego komornika, do czasu ustania zawieszenia komornika w czynnościach, nie dłużej jednak niż przez okres roku od dnia zawieszenia komornika w czynnościach. Po upływie tego okresu zastępca komornika pobiera 100% dochodu zastępowanego komornika.
 
-3. Zastępca komornika wyznaczony w związku z odwołaniem komornika z zajmowanego stanowiska, wygaśnięciem powołania na stanowisko komornika z mocy prawa albo przeniesieniem komornika, zwany dalej „kuratorem kancelarii”, pobiera 100 % dochodu zastępowanego komornika.
+3. Zastępca komornika wyznaczony w związku z odwołaniem komornika z zajmowanego stanowiska, wygaśnięciem powołania na stanowisko komornika z mocy prawa albo przeniesieniem komornika, zwany dalej „kuratorem kancelarii”, pobiera 100% dochodu zastępowanego komornika.
 
 4. Dochodem komornika, o którym mowa w ust. 1–3, są:
 
 - **1)** należne wynagrodzenie prowizyjne od uzyskanych w danym miesiącu opłat egzekucyjnych oraz
-- **2)** pobrane i ściągnięte w danym miesiącu opłaty komornicze za czynności inne niż wymienione w art. 3 ust. 3 pkt 1–2a – pomniejszone o koszty działalności egzekucyjnej.
+- **2)** pobrane i ściągnięte w danym miesiącu opłaty komornicze za czynności inne niż wymienione w art. 3 ust. 3 pkt 1 i 2 pomniejszone o koszty działalności egzekucyjnej.
 
 **Art. 49.**
 
@@ -641,11 +625,7 @@ Art. 261–279. (pominięte)
 
 2. Odwołany lub przeniesiony komornik albo komornik, którego powołanie wygasło z mocy prawa, może uchylić się od odpowiedzialności, o której mowa w ust. 1, jeżeli wykaże, że do nieuregulowania należności doszło na skutek działań lub zaniechań zastępcy komornika lub kuratora kancelarii.
 
-3. Odwołany lub przeniesiony komornik albo komornik, którego powołanie wygasło z mocy prawa oraz jego następcy prawni ponoszą osobistą odpowiedzialność majątkową za koszty związane z przekazaniem do przechowywania, zniszczenia lub archiwizacji akt spraw, w których postępowanie zostało zakończone przed zwolnieniem stanowiska komornika, w zakresie, w jakim pozostawione przez komornika środki nie wystarczają na ten cel.
-
-4. Osoby, o których mowa w ust. 3, ponoszą także osobistą odpowiedzialność majątkową z tytułu zwrotu kosztów komorniczych, nienależnie ściągniętych lub pobranych przed dniem zwolnienia stanowiska komornika, w przypadkach gdy obowiązek ich zwrotu powstał po tej dacie. Przepis ten stosuje się odpowiednio do konieczności wypłaty stronie odszkodowania za szkodę wyrządzoną przed dniem zwolnienia stanowiska albo zapłaty stosownej sumy pieniężnej z tytułu przewlekłości postępowania, w zakresie, w jakim przewlekłość ta nastąpiła przed dniem zwolnienia stanowiska.
-
-**Art. 51.** Do czasu udostępnienia ogłoszenia, o którym mowa w art. 12 ust. 3, kurator kancelarii prowadzi jedynie postępowania w sprawach niezakończonych oraz sprawach przekazanych w trybie zbiegu egzekucji. W takim przypadku do kuratora kancelarii stosuje się odpowiednio przepis art. 33 ust. 3.
+**Art. 51.** Do czasu powołania nowego komornika na zwolnione stanowisko kurator kancelarii prowadzi jedynie postępowania w sprawach niezakończonych oraz sprawach przekazanych w trybie zbiegu egzekucji. W takim przypadku do kuratora kancelarii stosuje się odpowiednio przepis art. 33 ust. 3.
 
 **Art. 52.**
 
@@ -744,7 +724,7 @@ Art. 261–279. (pominięte)
 
 1. Przy naborze na aplikację obowiązuje limit przyjęć.
 
-2. Limit przyjęć na aplikację w danym roku nie może przekraczać 15 % ogółu liczby komorników na dzień 31 grudnia roku poprzedniego.
+2. Limit przyjęć na aplikację w danym roku nie może przekraczać 15% ogółu liczby komorników na dzień 31 grudnia roku poprzedniego.
 
 3. Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Komorniczej, w terminie do dnia 1 kwietnia każdego roku, określa limit przyjęć na aplikację z podziałem na poszczególne izby komornicze, mając na względzie liczbę oraz stopień obciążenia pracą komorników pełniących służbę na obszarze poszczególnych izb.
 
@@ -807,13 +787,13 @@ Art. 261–279. (pominięte)
 
 1. Kandydat uiszcza opłatę za udział w egzaminie wstępnym, która stanowi dochód budżetu państwa.
 
-2. Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Komorniczej, określi, w drodze rozporządzenia, wysokość opłaty za udział w egzaminie wstępnym – nie wyższą niż równowartość minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207 oraz z 2023 r. poz. 1667), zwanego dalej „minimalnym wynagrodzeniem” – uwzględniając konieczność prawidłowego i sprawnego przeprowadzenia egzaminu wstępnego.
+2. Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Komorniczej, określi, w drodze rozporządzenia, wysokość opłaty za udział w egzaminie wstępnym – nie wyższą niż równowartość minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2017 r. poz. 847 oraz z 2018 r. poz. 650), zwanego dalej „minimalnym wynagrodzeniem” – uwzględniając konieczność prawidłowego i sprawnego przeprowadzenia egzaminu wstępnego.
 
 **Art. 71.**
 
 1. W przypadku wydania postanowienia o pozostawieniu zgłoszenia bez rozpoznania, wydania decyzji odmawiającej dopuszczenia kandydata do udziału w egzaminie wstępnym albo złożenia nie później niż 14 dni przed terminem egzaminu wstępnego pisemnego oświadczenia kandydata o odstąpieniu od udziału w egzaminie wstępnym, dwie trzecie uiszczonej opłaty podlega zwrotowi na pisemny wniosek kandydata złożony przewodniczącemu komisji kwalifikacyjnej w terminie 30 dni od dnia złożenia tego wniosku.
 
-2. W szczególnie uzasadnionych przypadkach przewodniczący komisji kwalifikacyjnej może przywrócić termin do złożenia oświadczenia, o którym mowa w ust. 1. Przepis art. 58 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) stosuje się odpowiednio. Na postanowienie o odmowie przywrócenia terminu przysługuje zażalenie do Ministra Sprawiedliwości.
+2. W szczególnie uzasadnionych przypadkach przewodniczący komisji kwalifikacyjnej może przywrócić termin do złożenia oświadczenia, o którym mowa w ust. 1. Przepis art. 58 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257 oraz z 2018 r. poz. 149 i 650) stosuje się odpowiednio. Na postanowienie o odmowie przywrócenia terminu przysługuje zażalenie do Ministra Sprawiedliwości.
 
 **Art. 72.** O terminie i miejscu przeprowadzenia egzaminu wstępnego przewodniczący komisji kwalifikacyjnej zawiadamia kandydata, który został zakwalifikowany do udziału w egzaminie wstępnym, co najmniej 14 dni przed dniem rozpoczęcia egzaminu wstępnego.
 
@@ -824,7 +804,7 @@ Art. 261–279. (pominięte)
 2. W skład zespołu do przygotowania pytań testowych wchodzi:
 
 - **1)** 3 przedstawicieli Ministra Sprawiedliwości,
-- **2)** 2 komorników wskazanych przez Krajową Radę Komorniczą – których wiedza i doświadczenie dają rękojmię prawidłowego przygotowania egzaminu wstępnego.
+- **2)** 2 komorników wskazanych przez Krajową Radę Komorniczą których wiedza i doświadczenie dają rękojmię prawidłowego przygotowania egzaminu wstępnego.
 
 3. Krajowa Rada Komornicza wskazuje kandydatów do zespołu do przygotowania pytań testowych spośród osób, które posiadają co najmniej pięcioletni staż na stanowisku komornika oraz wobec których nie toczy się postępowanie dyscyplinarne i nie były karane dyscyplinarnie w ciągu ostatnich 5 lat.
 
@@ -862,11 +842,19 @@ Art. 261–279. (pominięte)
 
 **Art. 76.**
 
-1. Do wydrukowania i doręczenia zestawów pytań testowych wraz z wykazem prawidłowych odpowiedzi poszczególnym komisjom kwalifikacyjnym nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320), jeżeli wartość zamówienia jest mniejsza niż progi unijne, o których mowa w art. 3 ust. 1 tej ustawy.
+1. Do wydrukowania i doręczenia zestawów pytań testowych wraz z wykazem prawidłowych odpowiedzi poszczególnym komisjom kwalifikacyjnym nie stosuje się przepisów ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2017 r. poz. 1579 i 2018), jeżeli wartość zamówienia jest mniejsza niż kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8 tej ustawy.
 
 2. Minister Sprawiedliwości określi, w drodze rozporządzenia, tryb i sposób udzielenia zamówienia, o którym mowa w ust. 1, zapewniając zachowanie uczciwej konkurencji i równe traktowanie wykonawców oraz mając na uwadze konieczność zabezpieczenia pytań testowych wraz z wykazem prawidłowych odpowiedzi przed ich nieuprawnionym ujawnieniem.
 
 **Art. 77.** Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Komorniczej, określi, w drodze rozporządzenia:
+
+- **1)** tryb i sposób działania zespołu do przygotowania pytań testowych,
+- **2)** tryb i sposób ustalania wykazu tytułów aktów prawnych, o którym mowa w art. 75 ust. 1,
+- **3)** tryb i sposób zgłaszania propozycji pytań testowych wraz z wykazem prawidłowych odpowiedzi,
+- **4)** tryb i sposób przygotowania, przechowywania oraz przekazywania komisjom kwalifikacyjnym zestawu pytań testowych wraz z kartą odpowiedzi i wykazem prawidłowych odpowiedzi,
+- **5)** tryb i sposób zapewnienia zgodności wykazu prawidłowych odpowiedzi z obowiązującym stanem prawnym,
+- **6)** tryb i sposób zapewnienia obsługi administracyjno-biurowej zespołu do przygotowania pytań testowych,
+- **7)** wysokość wynagrodzenia przewodniczącego, zastępcy przewodniczącego i członków zespołu do przygotowania pytań testowych uwzględniając konieczność prawidłowego i sprawnego przeprowadzenia naboru na aplikację, w szczególności konieczność zapewnienia zgodności wykazu tytułów aktów prawnych z zakresem przedmiotowym egzaminu wstępnego, konieczność zabezpieczenia pytań testowych wraz z wykazem prawidłowych odpowiedzi przed ich nieuprawnionym ujawnieniem oraz nakład pracy i zakres obowiązków przewodniczącego, zastępcy przewodniczącego i członków zespołu do przygotowania pytań testowych.
 
 **Art. 78.**
 
@@ -882,7 +870,7 @@ Art. 261–279. (pominięte)
 
 - **1)** 4 przedstawiciele Ministra Sprawiedliwości,
 - **2)** 2 przedstawiciele wskazani przez Krajową Radę Komorniczą,
-- **3)** 1 pracownik badawczy, badawczo-dydaktyczny lub dydaktyczny prowadzący działalność naukową lub kształcenie w zakresie nauk prawnych w szkole wyższej w Rzeczypospolitej Polskiej lub pracownik naukowy w instytucie naukowym Polskiej Akademii Nauk, posiadający co najmniej stopień naukowy doktora habilitowanego z zakresu nauk prawnych – których wiedza, doświadczenie i autorytet dają rękojmię prawidłowego przebiegu egzaminu wstępnego.
+- **3)** 1 pracownik naukowy, naukowo-dydaktyczny lub dydaktyczny na wydziale prawa w szkole wyższej w Rzeczypospolitej Polskiej lub Polskiej Akademii Nauk, posiadający co najmniej stopień naukowy doktora habilitowanego w dziedzinie nauk prawnych których wiedza, doświadczenie i autorytet dają rękojmię prawidłowego przebiegu egzaminu wstępnego.
 
 2. Osoby, o których mowa w ust. 1 pkt 1 i 3, nie mogą być komornikami. Do osób, o których mowa w ust. 1 pkt 2, przepisy art. 73 ust. 3 i 4 stosuje się odpowiednio.
 
@@ -925,9 +913,9 @@ Art. 261–279. (pominięte)
 1. Członek komisji kwalifikacyjnej podlega wyłączeniu z jej prac, jeżeli kandydat zakwalifikowany do egzaminu wstępnego przed tą komisją jest:
 
 - **1)** jego małżonkiem;
-- **2)** osobą pozostającą z nim w stosunku:
-    - **a)** pokrewieństwa albo powinowactwa do drugiego stopnia,
-    - **b)** przysposobienia;
+- **2)** osobą pozostającą z nim w stosunku: pokrewieństwa albo powinowactwa do drugiego stopnia, przysposobienia;
+    - **a)**
+    - **b)**
 
 - **3)** osobą pozostającą z nim we wspólnym pożyciu;
 - **4)** osobą pozostającą wobec niego w stosunku osobistym innego rodzaju, który mógłby wywoływać wątpliwości co do bezstronności członka komisji kwalifikacyjnej.
@@ -990,6 +978,11 @@ Art. 261–279. (pominięte)
 
 **Art. 87.** Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Komorniczej, określi, w drodze rozporządzenia:
 
+- **1)** tryb i termin zgłaszania kandydatów na członków komisji kwalifikacyjnej oraz powoływania i odwoływania członków komisji kwalifikacyjnej,
+- **2)** wysokość wynagrodzenia przewodniczącego, zastępcy przewodniczącego oraz członków komisji kwalifikacyjnej,
+- **3)** zakres informacji zawartych w kwestionariuszu osobowym kandydata,
+- **4)** szczegółowy sposób przeprowadzania egzaminu wstępnego, w szczególności sposób działania komisji kwalifikacyjnej oraz sposób zorganizowania obsługi administracyjnej i technicznej komisji kwalifikacyjnej przez izby komornicze, w tym przekazywania środków, sprawowania nadzoru nad ich wydatkowaniem i rozliczania wydatków związanych z tą obsługą uwzględniając konieczność prawidłowego, terminowego i sprawnego przeprowadzenia naboru na aplikację i przebiegu egzaminu wstępnego, zapewnienia zachowania bezstronności pracy komisji kwalifikacyjnej oraz liczbę osób, które złożyły zgłoszenie, zakres i nakład pracy przewodniczącego, zastępcy przewodniczącego i członków komisji kwalifikacyjnej oraz tryb wypłacania ich wynagrodzenia, a także konieczność uzyskania informacji niezbędnych do prawidłowego przeprowadzenia egzaminu wstępnego.
+
 ##### Oddział 2 Aplikacja
 
 **Art. 88.**
@@ -1031,7 +1024,7 @@ Art. 261–279. (pominięte)
 
 **Art. 92.**
 
-1. Niezwłocznie po dokonaniu wpisu na listę aplikantów komorniczych rada izby komorniczej wyznacza aplikantowi termin ślubowania. Przewodniczący rady właściwej izby komorniczej odbiera od aplikanta ślubowanie według następującej roty: „Ślubuję uroczyście jako aplikant komorniczy powierzone mi obowiązki wypełniać zgodnie z prawem i sumieniem, dochować tajemnicy prawnie chronionej, w postępowaniu swym kierować się zasadami uczciwości, godności i honoru.”.
+1. Niezwłocznie po dokonaniu wpisu na listę aplikantów komorniczych rada izby komorniczej wyznacza aplikantowi termin ślubowania. Przewodniczący rady właściwej izby komorniczej odbiera od aplikanta ślubowanie według następującej roty: „ Ślubuję uroczyście jako aplikant komorniczy powierzone mi obowiązki wypełniać zgodnie z prawem i sumieniem, dochować tajemnicy prawnie chronionej, w postępowaniu swym kierować się zasadami uczciwości, godności i honoru. ” .
 
 2. Składający ślubowanie może dodać na końcu zwrot: „Tak mi dopomóż Bóg.”.
 
@@ -1080,7 +1073,9 @@ Art. 261–279. (pominięte)
 - **1)** uczestniczenie w przewidzianych ramowym programem aplikacji zajęciach seminaryjnych oraz praktykach;
 - **2)** samodzielne pogłębianie wiedzy prawniczej i praktycznych umiejętności niezbędnych do zajmowania stanowiska komornika;
 - **3)** przestrzeganie dyscypliny szkolenia i pracy;
-- **4)** przystępowanie, w wyznaczonym terminie, do kolokwium oraz sprawdzianów wiedzy przeprowadzanych w czasie aplikacji. [2. Prezes właściwego sądu rejonowego, prezes właściwego sądu okręgowego, prezes właściwego sądu apelacyjnego albo rada właściwej izby komorniczej, z urzędu lub na wniosek zainteresowanego, może skierować aplikanta na badanie przeprowadzane przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych w celu ustalenia trwałej niezdolności do pełnienia obowiązków aplikanta. Koszty badania pokrywa podmiot kierujący na badanie.] <2. Prezes właściwego sądu rejonowego, prezes właściwego sądu okręgowego, prezes właściwego sądu apelacyjnego albo rada właściwej izby komorniczej, z urzędu lub na wniosek zainteresowanego, może skierować aplikanta na badanie przeprowadzane przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych w celu ustalenia trwałej niezdolności do pełnienia obowiązków aplikanta. Orzeczenie lekarza orzecznika jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych. Koszty badania pokrywa podmiot kierujący na badanie.>
+- **4)** przystępowanie, w wyznaczonym terminie, do kolokwium oraz sprawdzianów wiedzy przeprowadzanych w czasie aplikacji.
+
+2. Prezes właściwego sądu rejonowego, prezes właściwego sądu okręgowego, prezes właściwego sądu apelacyjnego albo rada właściwej izby komorniczej, z urzędu lub na wniosek zainteresowanego, może skierować aplikanta na badanie przeprowadzane przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych w celu ustalenia trwałej niezdolności do pełnienia obowiązków aplikanta. Koszty badania pokrywa podmiot kierujący na badanie.
 
 **Art. 98.**
 
@@ -1095,7 +1090,7 @@ Art. 261–279. (pominięte)
 - **7)** w obecności i za zgodą komornika asystować w czynnościach egzekucyjnych przeprowadzanych poza siedzibą kancelarii;
 - **8)** pełnić obowiązki protokolanta lub utrwalać przebieg czynności za pomocą urządzenia rejestrującego obraz i dźwięk.
 
-2. Komornik może upoważnić aplikanta do doręczania korespondencji bezpośrednio adresatowi. Przepis art. 28 stosuje się odpowiednio.
+2. Komornik może upoważnić aplikanta do doręczania korespondencji bezpośrednio adresatowi.
 
 3. Aplikant, po upływie roku od dnia rozpoczęcia aplikacji, może zostać upoważniony przez komornika do:
 
@@ -1105,7 +1100,7 @@ Art. 261–279. (pominięte)
 - **4)** zwracania się do osób i instytucji o nadesłanie informacji lub dokumentów niezbędnych do przeprowadzenia postępowania;
 - **5)** ustalania, czy dłużnik faktycznie zamieszkuje lub prowadzi działalność pod wskazanym adresem albo czy we wskazanym miejscu znajduje się majątek dłużnika, przy czym czynności te nie mogą się wiązać z zastosowaniem środków przymusu oraz działaniami, o których mowa w art. 814 § 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
 
-4. W przypadku wykonywania czynności wskazanych w ust. 3 pkt 1– 4 aplikant powołuje się w treści swych wystąpień na upoważnienie komornika. Upoważnienie wystawia się na piśmie i określa w nim zakres czynności, do których aplikant został upoważniony.
+4. W przypadku wykonywania czynności wskazanych w ust. 3 pkt 1–4 aplikant powołuje się w treści swych wystąpień na upoważnienie komornika. Upoważnienie wystawia się na piśmie i określa w nim zakres czynności, do których aplikant został upoważniony.
 
 5. Komornik w każdym stanie sprawy ma obowiązek badania prawidłowości czynności podjętych przez aplikanta w ramach upoważnienia, o którym mowa w ust. 2 i 3, a w przypadku stwierdzenia uchybień, podjęcia niezbędnych czynności – w zakresie przewidzianym przepisami prawa – mających na celu uchylenie lub zmianę wadliwie dokonanych czynności.
 
@@ -1134,6 +1129,12 @@ Art. 261–279. (pominięte)
 - **4)** oddalenia wniosku o skreślenie aplikanta z listy aplikantów komorniczych ostateczną decyzją, umorzenia postępowania, stwierdzenia braku podstaw do skreślenia z listy aplikantów komorniczych w postępowaniu wszczętym z urzędu, a w przypadku skreślenia z listy aplikantów komorniczych ostateczną decyzją – z dniem upływu terminu do wniesienia skargi do sądu administracyjnego lub prawomocnego oddalenia skargi.
 
 **Art. 100.** Wpis na listę aplikantów komorniczych wygasa z mocy prawa z dniem, w którym aplikant:
+
+- **1)** zmarł;
+- **2)** zrezygnował z odbywania aplikacji;
+- **3)** został prawomocnie skazany za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+- **4)** został ubezwłasnowolniony częściowo albo całkowicie;
+- **5)** został prawomocnie ukarany karą dyscyplinarną wydalenia z aplikacji.
 
 **Art. 101.**
 
@@ -1165,6 +1166,11 @@ Art. 261–279. (pominięte)
 
 **Art. 103.** Minister Sprawiedliwości, po zasięgnięciu opinii Dyrektora Krajowej Szkoły Sądownictwa i Prokuratury oraz Krajowej Rady Komorniczej, określi, w drodze rozporządzenia, organizację i przebieg aplikacji, w tym:
 
+- **1)** zadania aplikanta i sposób ich wykonywania,
+- **2)** termin rozpoczęcia i zakończenia zajęć seminaryjnych oraz przerwy w ich odbywaniu, a także tryb wyznaczenia dodatkowego terminu rozpoczęcia zajęć seminaryjnych,
+- **3)** tryb i sposób organizacji zajęć seminaryjnych i praktyk oraz ich rodzaj,
+- **4)** okres niemożności pełnienia przez aplikanta jego obowiązków wliczany do okresu aplikacji oraz tryb postępowania w przypadku jego przekroczenia, a także tryb i sposób usprawiedliwiania niemożności pełnienia przez aplikanta jego obowiązków mając na względzie konieczność zapewnienia właściwego prowadzenia aplikacji, wysokiego poziomu szkolenia aplikantów oraz właściwego przygotowania do zawodu komornika, a także mając na uwadze ustawowy czas trwania aplikacji oraz biorąc pod uwagę możliwość zaistnienia szczególnych sytuacji uniemożliwiających rozpoczęcie zajęć seminaryjnych w wyznaczonym terminie.
+
 ##### Oddział 3 Egzamin komorniczy
 
 **Art. 104.**
@@ -1174,7 +1180,7 @@ Art. 261–279. (pominięte)
 2. W skład zespołu wchodzi:
 
 - **1)** 3 przedstawicieli Ministra Sprawiedliwości,
-- **2)** 2 komorników wskazanych przez Krajową Radę Komorniczą – których wiedza i doświadczenie dają rękojmię prawidłowego przygotowania egzaminu komorniczego.
+- **2)** 2 komorników wskazanych przez Krajową Radę Komorniczą których wiedza i doświadczenie dają rękojmię prawidłowego przygotowania egzaminu komorniczego.
 
 3. Przepisy art. 73 ust. 3–8 oraz art. 74 stosuje się odpowiednio.
 
@@ -1192,11 +1198,16 @@ Art. 261–279. (pominięte)
 
 **Art. 106.**
 
-1. Do wydrukowania i doręczenia zadań wraz z opisami istotnych zagadnień poszczególnym komisjom egzaminacyjnym do przeprowadzenia egzaminu komorniczego, zwanym dalej „komisjami egzaminacyjnymi”, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, jeżeli wartość zamówienia jest mniejsza niż progi unijne, o których mowa w art. 3 ust. 1 tej ustawy.
+1. Do wydrukowania i doręczenia zadań wraz z opisami istotnych zagadnień poszczególnym komisjom egzaminacyjnym do przeprowadzenia egzaminu komorniczego, zwanym dalej „komisjami egzaminacyjnymi”, nie stosuje się przepisów ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych, jeżeli wartość zamówienia jest mniejsza niż kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8 tej ustawy.
 
 2. Minister Sprawiedliwości określi, w drodze rozporządzenia, tryb i sposób udzielenia zamówienia, o którym mowa w ust. 1, mając na uwadze konieczność zachowania zasad uczciwej konkurencji i równego traktowania wykonawców oraz zabezpieczenia zadań wraz z opisami istotnych zagadnień przed ich nieuprawnionym ujawnieniem.
 
 **Art. 107.** Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Komorniczej, określi, w drodze rozporządzenia:
+
+- **1)** tryb i sposób działania zespołu,
+- **2)** tryb i sposób zgłaszania propozycji zadań wraz z opisami istotnych zagadnień, ich przygotowania, przechowywania oraz przekazywania komisjom egzaminacyjnym zadań na egzamin komorniczy wraz z opisami istotnych zagadnień,
+- **3)** tryb i sposób zapewnienia obsługi administracyjno-biurowej zespołu,
+- **4)** wysokość wynagrodzenia przewodniczącego, zastępcy przewodniczącego i członków zespołu uwzględniając konieczność prawidłowego i sprawnego przeprowadzenia egzaminu komorniczego, w szczególności konieczność zabezpieczenia zadań wraz z opisami istotnych zagadnień przed ich nieuprawnionym ujawnieniem oraz nakład pracy i zakres obowiązków przewodniczącego, zastępcy przewodniczącego i członków zespołu.
 
 **Art. 108.**
 
@@ -1217,9 +1228,9 @@ Art. 261–279. (pominięte)
 1. Komisja egzaminacyjna składa się z 6 członków. W skład komisji egzaminacyjnej wchodzi:
 
 - **1)** 4 przedstawicieli Ministra Sprawiedliwości, spełniających wymagania, o których mowa w art. 104 ust. 4,
-- **2)** 2 komorników wskazanych przez Krajową Radę Komorniczą spełniających wymagania, o których mowa w art. 73 ust. 3 – których wiedza i doświadczenie dają rękojmię prawidłowego przebiegu egzaminu komorniczego.
+- **2)** 2 komorników wskazanych przez Krajową Radę Komorniczą spełniających wymagania, o których mowa w art. 73 ust. 3 których wiedza i doświadczenie dają rękojmię prawidłowego przebiegu egzaminu komorniczego.
 
-2. Do członków komisji egzaminacyjnej przepisy art. 73 ust. 4, art. 79 ust. 3– 8 oraz art. 80 i art. 81 ust. 1 i 2 stosuje się odpowiednio.
+2. Do członków komisji egzaminacyjnej przepisy art. 73 ust. 4, art. 79 ust. 3–8 oraz art. 80 i art. 81 ust. 1 i 2 stosuje się odpowiednio.
 
 3. Członkowie komisji egzaminacyjnych składają pisemne oświadczenia, iż nie pozostają z żadnym ze zdających w stosunku, o którym mowa w art. 81 ust. 1, w terminie 7 dni od dnia upływu terminu do złożenia wniosku o dopuszczenie do egzaminu komorniczego.
 
@@ -1232,6 +1243,11 @@ Art. 261–279. (pominięte)
 2. Koszty przeprowadzenia egzaminu komorniczego oraz wydatki związane z działalnością komisji egzaminacyjnej pokrywają rady właściwych izb komorniczych ze środków pochodzących z części budżetu państwa, która pozostaje w dyspozycji Ministra Sprawiedliwości, przekazanych na zadanie zlecone, o którym mowa w ust. 1, z wyjątkiem wynagrodzeń przewodniczącego, zastępcy przewodniczącego i członków komisji egzaminacyjnej, które są pokrywane bezpośrednio przez Ministra Sprawiedliwości.
 
 **Art. 112.** Minister Sprawiedliwości udostępnia w Biuletynie Informacji Publicznej, nie później niż 90 dni przed terminem egzaminu komorniczego, ogłoszenie o egzaminie komorniczym, w którym podaje w szczególności:
+
+- **1)** termin złożenia wniosku o dopuszczenie do egzaminu komorniczego;
+- **2)** właściwość miejscową każdej komisji egzaminacyjnej i adres jej siedziby;
+- **3)** termin przeprowadzenia każdej części egzaminu komorniczego;
+- **4)** wysokość opłaty za udział w egzaminie komorniczym.
 
 **Art. 113.**
 
@@ -1274,7 +1290,7 @@ Art. 261–279. (pominięte)
 
 **Art. 116.**
 
-1. Pracownikowi przysługuje prawo do urlopu płatnego w wysokości 80 % wynagrodzenia, w wymiarze 30 dni kalendarzowych, na przygotowanie się do egzaminu komorniczego. Z uprawnienia tego można skorzystać tylko raz.
+1. Pracownikowi przysługuje prawo do urlopu płatnego w wysokości 80% wynagrodzenia, w wymiarze 30 dni kalendarzowych, na przygotowanie się do egzaminu komorniczego. Z uprawnienia tego można skorzystać tylko raz.
 
 2. Pracownikowi przysługuje zwolnienie od pracy z zachowaniem prawa do wynagrodzenia w celu uczestniczenia w egzaminie komorniczym.
 
@@ -1310,11 +1326,11 @@ Art. 261–279. (pominięte)
 
 1. Egzaminatorzy dokonują oceny każdej części egzaminu komorniczego z zastosowaniem następującej skali ocen:
 
-- **1)** oceny pozytywne:
-    - **a)** celująca (6),
-    - **b)** bardzo dobra (5),
-    - **c)** dobra (4),
-    - **d)** dostateczna (3);
+- **1)** oceny pozytywne: celująca (6), bardzo dobra (5), dobra (4), dostateczna (3);
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **2)** ocena negatywna – niedostateczna (2).
 
@@ -1324,11 +1340,11 @@ Art. 261–279. (pominięte)
 
 4. Ostateczną ocenę z pracy pisemnej dotyczącej danego zadania z części egzaminu komorniczego stanowi średnia ocen cząstkowych wystawionych przez każdego egzaminatora, przy czym:
 
-- **1)** oceny pozytywne to:
-    - **a)** celująca – jeżeli średnia arytmetyczna wystawionych ocen wynosi 6,00,
-    - **b)** bardzo dobra – jeżeli średnia arytmetyczna wystawionych ocen wynosi 5,00 lub 5,50,
-    - **c)** dobra – jeżeli średnia arytmetyczna wystawionych ocen wynosi 4,00 lub 4,50,
-    - **d)** dostateczna – jeżeli średnia arytmetyczna wystawionych ocen wynosi 3,00 lub 3,50;
+- **1)** oceny pozytywne to: celująca – jeżeli średnia arytmetyczna wystawionych ocen wynosi 6,00, bardzo dobra – jeżeli średnia arytmetyczna wystawionych ocen wynosi 5,00 lub 5,50, dobra – jeżeli średnia arytmetyczna wystawionych ocen wynosi 4,00 lub 4,50, dostateczna – jeżeli średnia arytmetyczna wystawionych ocen wynosi 3,00 lub 3,50;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **2)** ocena negatywna to niedostateczna – jeżeli średnia arytmetyczna wystawionych ocen wynosi 2,00 lub 2,50.
 
@@ -1351,6 +1367,15 @@ Art. 261–279. (pominięte)
 3. W terminie 7 dni od dnia sporządzenia protokołu przewodniczący komisji egzaminacyjnej przekazuje Ministrowi Sprawiedliwości poświadczony za zgodność z oryginałem odpis protokołu z przebiegu egzaminu oraz poświadczony za zgodność z oryginałem odpis protokołu z przekazania dokumentacji.
 
 **Art. 123.** Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Komorniczej, określi, w drodze rozporządzenia:
+
+- **1)** tryb i termin zgłaszania kandydatów na członków komisji egzaminacyjnej oraz powoływania i odwoływania członków komisji egzaminacyjnej,
+- **2)** rodzaj dokumentów, o których mowa w art. 114 ust. 2 pkt 4–6,
+- **3)** wysokość wynagrodzenia przewodniczącego, zastępcy przewodniczącego i członków komisji egzaminacyjnej,
+- **4)** zakres informacji zawartych w kwestionariuszu osobowym osoby uprawnionej do przystąpienia do egzaminu komorniczego,
+- **5)** szczegółowy tryb i sposób przeprowadzania egzaminu komorniczego, w szczególności: sposób działania komisji egzaminacyjnej, czas trwania poszczególnych części egzaminu komorniczego, sposób zorganizowania obsługi administracyjnej i technicznej komisji egzaminacyjnej przez izby komornicze, w tym przekazywania środków, sprawowania nadzoru nad ich wydatkowaniem i rozliczania wydatków związanych z tą obsługą uwzględniając konieczność prawidłowego, terminowego i sprawnego przeprowadzenia egzaminu komorniczego, zapewnienia zachowania bezstronności pracy komisji egzaminacyjnej, liczbę zdających, zakres i nakład pracy przewodniczącego, zastępcy przewodniczącego i członków komisji egzaminacyjnej oraz tryb wypłacania ich wynagrodzenia, a także konieczność uzyskania informacji niezbędnych do prawidłowego przeprowadzenia egzaminu komorniczego.
+    - **a)**
+    - **b)**
+    - **c)**
 
 **Art. 124.** Od uchwały o wyniku egzaminu komorniczego zdającemu przysługuje odwołanie do komisji egzaminacyjnej II stopnia przy Ministrze Sprawiedliwości, zwanej dalej „komisją odwoławczą”, w terminie 14 dni od dnia doręczenia uchwały, o której mowa w art. 120 ust. 2.
 
@@ -1395,9 +1420,18 @@ Art. 261–279. (pominięte)
 
 **Art. 128.** Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Komorniczej, określi, w drodze rozporządzenia:
 
+- **1)** tryb i termin zgłaszania kandydatów na członków komisji odwoławczej,
+- **2)** termin powołania komisji odwoławczej,
+- **3)** wysokość wynagrodzenia przewodniczącego, zastępcy przewodniczącego i członków komisji odwoławczej,
+- **4)** tryb i sposób działania komisji odwoławczej,
+- **5)** sposób zorganizowania obsługi administracyjno-biurowej komisji odwoławczej uwzględniając konieczność prawidłowego i terminowego rozpoznawania odwołań, zapewnienia zachowania bezstronności pracy członków komisji odwoławczej oraz zakres i nakład pracy przewodniczącego, zastępcy przewodniczącego i członków komisji odwoławczej oraz tryb wypłacania ich wynagrodzeń.
+
 #### Rozdział 7 Asesorzy
 
 **Art. 129.** Na stanowisko asesora może zostać powołana osoba, która złożyła wniosek o powołanie na stanowisko asesora oraz:
+
+- **1)** uzyskała pozytywny wynik egzaminu komorniczego, oraz spełnia wymogi określone w art. 11 ust. 1 pkt 1–6 i 8 albo art. 11 ust. 1 pkt 1–6 oraz art. 11 ust. 4 lub
+- **2)** spełnia wymogi określone w art. 11 ust. 1 pkt 1–6 oraz art. 11 ust. 3.
 
 **Art. 130.**
 
@@ -1414,13 +1448,13 @@ Art. 261–279. (pominięte)
 - **1)** informacji z Krajowego Rejestru Karnego;
 - **2)** opinii rady właściwej izby komorniczej.
 
-2. (uchylony)
+2. Asesura komornicza trwa nie dłużej niż 6 lat od dnia pierwszego powołania na stanowisko asesora.
 
 3. Rada izby komorniczej nie ma statusu strony w toczącym się postępowaniu administracyjnym.
 
 4. Opinię, o której mowa w ust. 1 pkt 2, rada właściwej izby komorniczej przedstawia w terminie 21 dni od dnia otrzymania wniosku o wyrażenie opinii, wskazując w niej komornika, który zatrudni asesora.
 
-**Art. 132.** Prezes właściwego sądu apelacyjnego odmawia powołania na stanowisko asesora osoby, która nie spełnia wymogów, o których mowa w art. 129, lub której wniosek o powołanie na stanowisko asesora został złożony po upływie terminu, o którym mowa w art. 130 ust. 2.
+**Art. 132.** Prezes właściwego sądu apelacyjnego odmawia powołania na stanowisko asesora osoby, która nie spełnia wymogów, o których mowa w art. 129, lub której wniosek o powołanie na stanowisko asesora został złożony po upływie terminu, o którym mowa w art. 130 ust. 2, lub gdy upłynął okres, o którym mowa w art. 131 ust. 2.
 
 **Art. 133.** Prezes właściwego sądu apelacyjnego prowadzi i na bieżąco aktualizuje wykaz asesorów komorniczych zatrudnionych w obszarze właściwości podległego mu sądu.
 
@@ -1447,7 +1481,7 @@ Art. 261–279. (pominięte)
 
 **Art. 136.**
 
-1. Prezes właściwego sądu rejonowego, w terminie 14 dni od dnia otrzymania zawiadomienia o zawarciu przez asesora umowy o pracę, odbiera od asesora ślubowanie według następującej roty: „Ślubuję uroczyście jako asesor komorniczy powierzone mi obowiązki wypełniać zgodnie z prawem i sumieniem, dochować tajemnicy prawnie chronionej, w postępowaniu swym kierować się zasadami uczciwości, godności i honoru.”.
+1. Prezes właściwego sądu rejonowego, w terminie 14 dni od dnia otrzymania zawiadomienia o zawarciu przez asesora umowy o pracę, odbiera od asesora ślubowanie według następującej roty: „ Ślubuję uroczyście jako asesor komorniczy powierzone mi obowiązki wypełniać zgodnie z prawem i sumieniem, dochować tajemnicy prawnie chronionej, w postępowaniu swym kierować się zasadami uczciwości, godności i honoru. ”
 
 2. Składający ślubowanie może dodać na końcu zwrot: „Tak mi dopomóż Bóg.”.
 
@@ -1462,9 +1496,9 @@ Art. 261–279. (pominięte)
 1. W ramach asesury komorniczej asesor, na zlecenie komornika, może:
 
 - **1)** wykonywać czynności, o których mowa w art. 98 ust. 1–3;
-- **2)** przeprowadzać egzekucję w sprawach o:
-    - **a)** świadczenie pieniężne,
-    - **b)** zabezpieczenie roszczenia pieniężnego – jeżeli w dniu zlecenia wartość egzekwowanego lub podlegającego zabezpieczeniu roszczenia nie przekracza kwoty 100 000 złotych, z wyłączeniem egzekucji z nieruchomości;
+- **2)** przeprowadzać egzekucję w sprawach o: świadczenie pieniężne, zabezpieczenie roszczenia pieniężnego jeżeli w dniu zlecenia wartość egzekwowanego lub podlegającego zabezpieczeniu roszczenia nie przekracza kwoty 100 000 złotych, z wyłączeniem egzekucji z nieruchomości;
+    - **a)**
+    - **b)**
 
 - **3)** w obecności i za zgodą komornika uczestniczyć w czynnościach odbywających się poza kancelarią, w tym również podejmowanych w toku egzekucji świadczeń niepieniężnych.
 
@@ -1482,11 +1516,9 @@ Art. 261–279. (pominięte)
 
 - **1)** samodzielnego ustalenia, czy dłużnik faktycznie zamieszkuje lub prowadzi działalność pod wskazanym adresem albo czy we wskazanym miejscu znajduje się majątek dłużnika,
 - **2)** wysłuchania dłużnika, żądania od dłużnika złożenia wykazu majątku oraz żądania wyjaśnień i informacji w trybie art. 761 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego,
-- **3)** zajęcia ruchomości – z zastrzeżeniem, że asesorowi nie wolno odebrać dozoru nad zajętymi ruchomościami, a oznaczenia wartości zajętych ruchomości dokonuje komornik – przy czym wymienione czynności nie mogą się wiązać z zastosowaniem środków przymusu oraz działaniami, o których mowa w art. 814 § 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
+- **3)** zajęcia ruchomości – z zastrzeżeniem, że asesorowi nie wolno odebrać dozoru nad zajętymi ruchomościami, a oznaczenia wartości zajętych ruchomości dokonuje komornik przy czym wymienione czynności nie mogą się wiązać z zastosowaniem środków przymusu oraz działaniami, o których mowa w art. 814 § 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
 
 4. Komornik może zlecić asesorowi przeprowadzenie czynności, o których mowa w art. 3 ust. 3 pkt 3 i ust. 4.
-
-5. Przepis art. 28 stosuje się odpowiednio do asesora, któremu udzielono zlecenia.
 
 **Art. 139.**
 
@@ -1494,7 +1526,9 @@ Art. 261–279. (pominięte)
 
 2. Zlecenie do wykonywania innych czynności wystawia się na piśmie i określa w nim zakres czynności, do których asesor został upoważniony.
 
-**Art. 140.** Komornik w każdym stanie sprawy ma obowiązek badania prawidłowości czynności podjętych przez asesora oraz, w przypadku stwierdzenia uchybień, podejmowania niezbędnych czynności – w zakresie przewidzianym przepisami prawa – mających na celu uchylenie lub zmianę wadliwie dokonanych czynności. [Art. 141. Prezes właściwego sądu rejonowego, prezes właściwego sądu okręgowego, prezes właściwego sądu apelacyjnego albo rada właściwej izby komorniczej, z urzędu lub na wniosek zainteresowanego, może skierować asesora na badanie przeprowadzane przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych w celu ustalenia trwałej niezdolności do pełnienia obowiązków asesora. Koszty badania pokrywa podmiot kierujący na badanie.] <Art. 141. Prezes właściwego sądu rejonowego, prezes właściwego sądu okręgowego, prezes właściwego sądu apelacyjnego albo rada właściwej izby komorniczej, z urzędu lub na wniosek zainteresowanego, może skierować asesora na badanie przeprowadzane przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych w celu ustalenia trwałej niezdolności do pełnienia obowiązków asesora. Orzeczenie lekarza orzecznika jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych. Koszty badania pokrywa podmiot kierujący na badanie.>
+**Art. 140.** Komornik w każdym stanie sprawy ma obowiązek badania prawidłowości czynności podjętych przez asesora oraz, w przypadku stwierdzenia uchybień, podejmowania niezbędnych czynności – w zakresie przewidzianym przepisami prawa – mających na celu uchylenie lub zmianę wadliwie dokonanych czynności.
+
+**Art. 141.** Prezes właściwego sądu rejonowego, prezes właściwego sądu okręgowego, prezes właściwego sądu apelacyjnego albo rada właściwej izby komorniczej, z urzędu lub na wniosek zainteresowanego, może skierować asesora na badanie przeprowadzane przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych w celu ustalenia trwałej niezdolności do pełnienia obowiązków asesora. Koszty badania pokrywa podmiot kierujący na badanie.
 
 **Art. 142.**
 
@@ -1515,14 +1549,20 @@ Art. 261–279. (pominięte)
 
 **Art. 143.** Zawieszenie asesora w czynnościach ustaje z dniem:
 
+- **1)** prawomocnego zakończenia postępowania, o którym mowa w art. 142 ust. 1 pkt 1 i ust. 2 pkt 2, 3 i 5, chyba że zawieszenie zostało uchylone wcześniej;
+- **2)** oddalenia lub odrzucenia wniosku o ubezwłasnowolnienie albo umorzenia postępowania lub uchylenia postanowienia o ustanowieniu doradcy tymczasowego;
+- **3)** wskazanym we wniosku złożonym w tym przedmiocie przez asesora w przypadku, o którym mowa w art. 142 ust. 2 pkt 1;
+- **4)** oddalenia wniosku o odwołanie z zajmowanego stanowiska ostateczną decyzją, umorzenia postępowania, stwierdzenia braku podstaw do odwołania w postępowaniu wszczętym z urzędu, a w przypadku odwołania asesora ostateczną decyzją – z dniem upływu terminu do wniesienia skargi do sądu administracyjnego lub prawomocnego oddalenia skargi.
+
 **Art. 144.**
 
 1. Prezes właściwego sądu apelacyjnego z urzędu odwołuje, w drodze decyzji, asesora z zajmowanego stanowiska, jeżeli:
 
 - **1)** dopuścił się rażącego lub uporczywego naruszenia przepisów prawa;
-- **2)** ustało jego zatrudnienie w kancelarii; [3) z powodu choroby lub utraty sił został uznany przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych za całkowicie niezdolnego do pełnienia obowiązków asesora lub bez uzasadnionej przyczyny odmówił poddania się badaniu, o którym mowa w art. 141;] <3) z powodu choroby lub utraty sił został uznany przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych za trwale niezdolnego do pełnienia obowiązków asesora lub bez uzasadnionej przyczyny odmówił poddania się badaniu, o którym mowa w art. 141;>
-- **4)** ukończył 70. rok życia.
-- **5)** (uchylony)
+- **2)** ustało jego zatrudnienie w kancelarii;
+- **3)** z powodu choroby lub utraty sił został uznany przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych za całkowicie niezdolnego do pełnienia obowiązków asesora lub bez uzasadnionej przyczyny odmówił poddania się badaniu, o którym mowa w art. 141;
+- **4)** ukończył 65. rok życia;
+- **5)** upłynął okres, o którym mowa w art. 131 ust. 2.
 
 2. Odwołanie asesora w przypadkach, o których mowa w ust. 1 pkt 1, następuje również na wniosek prezesa właściwego sądu okręgowego, prezesa właściwego sądu rejonowego lub sędziego wizytatora.
 
@@ -1562,9 +1602,9 @@ Art. 261–279. (pominięte)
 
 **Art. 149.**
 
-1. Opłata egzekucyjna stanowi niepodatkową należność budżetową o charakterze publicznoprawnym pobieraną za czynności, o których mowa w art. 3 ust. 3 pkt 1–2a, na zasadach określonych w ustawie z dnia 28 lutego 2018 r. o kosztach komorniczych (Dz. U. z 2024 r. poz. 377).
+1. Opłata egzekucyjna stanowi niepodatkową należność budżetową o charakterze publicznoprawnym pobieraną za czynności, o których mowa w art. 3 ust. 3 pkt 1 i 2, na zasadach określonych w ustawie z dnia 28 lutego 2018 r. o kosztach komorniczych (Dz. U. poz. 770).
 
-2. Uzyskane opłaty egzekucyjne, po potrąceniu wynagrodzenia prowizyjnego komornika, stanowią dochód budżetu państwa i podlegają przekazaniu na rachunek, o którym mowa w art. 196 ust. 1 pkt 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ), urzędu skarbowego właściwego ze względu na siedzibę kancelarii, w terminie do 10 dnia miesiąca kalendarzowego następującego po miesiącu, w którym zostały uzyskane.
+2. Uzyskane opłaty egzekucyjne, po potrąceniu wynagrodzenia prowizyjnego komornika, stanowią dochód budżetu państwa i podlegają przekazaniu na rachunek, o którym mowa w art. 196 ust. 1 pkt 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077 oraz z 2018 r. poz. 62), urzędu skarbowego właściwego ze względu na siedzibę kancelarii, w terminie do 5 dnia miesiąca kalendarzowego następującego po miesiącu, w którym zostały uzyskane.
 
 3. Przez uzyskane opłaty egzekucyjne rozumie się opłaty faktycznie pobrane lub ściągnięte na podstawie przepisów ustawy z dnia 28 lutego 2018 r. o kosztach komorniczych.
 
@@ -1572,7 +1612,7 @@ Art. 261–279. (pominięte)
 
 5. Komornik jest obowiązany złożyć do urzędu skarbowego, o którym mowa w ust. 2, miesięczną informację o uzyskanych opłatach egzekucyjnych oraz opłatach egzekucyjnych podlegających przekazaniu zgodnie z ust. 2, w terminie do 10 dnia miesiąca kalendarzowego następującego po miesiącu, w którym zostały uzyskane. Informacja ta stanowi dowód księgowy.
 
-6. W przypadku uprawomocnienia się orzeczenia sądu skutkującego koniecznością zwrotu całości lub części uzyskanej opłaty egzekucyjnej, proporcjonalna część przekazanej opłaty egzekucyjnej stanowi nadpłatę w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879).
+6. W przypadku uprawomocnienia się orzeczenia sądu skutkującego koniecznością zwrotu całości lub części uzyskanej opłaty egzekucyjnej, proporcjonalna część przekazanej opłaty egzekucyjnej stanowi nadpłatę w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, z późn. zm.).
 
 7. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wzór informacji o uzyskanych opłatach egzekucyjnych oraz opłatach egzekucyjnych podlegających przekazaniu zgodnie z ust. 2, mając na uwadze zapewnienie kompletności tej informacji oraz możliwość weryfikacji prawidłowości przekazywania opłat egzekucyjnych podlegających przekazaniu zgodnie z ust. 2.
 
@@ -1582,13 +1622,11 @@ Art. 261–279. (pominięte)
 
 2. Komornikowi przysługuje wynagrodzenie prowizyjne w wysokości:
 
-- **1)** 99 % uzyskanych opłat egzekucyjnych – od opłat egzekucyjnych, których łączna wysokość w danym roku kalendarzowym nie przekroczyła 500 000 złotych;
-- **2)** 95 % uzyskanych opłat egzekucyjnych – od nadwyżki opłat egzekucyjnych przekraczającej 500 000 złotych w danym roku kalendarzowym – do wysokości 1 000 000 złotych;
-- **3)** 80 % uzyskanych opłat egzekucyjnych – od nadwyżki opłat egzekucyjnych przekraczającej 1 000 000 złotych w danym roku kalendarzowym – do wysokości 1 500 000 złotych;
-- **4)** 70 % uzyskanych opłat egzekucyjnych – od nadwyżki opłat egzekucyjnych przekraczającej 1 500 000 złotych w danym roku kalendarzowym – do wysokości 2 000 000 złotych;
-- **5)** 60 % uzyskanych opłat egzekucyjnych – od nadwyżki opłat egzekucyjnych przekraczającej 2 000 000 złotych w danym roku kalendarzowym.
-
-2a. Do limitów opłat egzekucyjnych, od których uzależniona jest wysokość wynagrodzenia prowizyjnego, nie wlicza się opłat uzyskanych przez komornika w związku z pełnieniem obowiązków zastępcy innego komornika. Opłaty uzyskane w kancelarii zastępowanego komornika uwzględnia się przy ustalaniu wynagrodzenia prowizyjnego zastępowanego komornika lub jego zastępców.
+- **1)** 99% uzyskanych opłat egzekucyjnych – od opłat egzekucyjnych, których łączna wysokość w danym roku kalendarzowym nie przekroczyła 500 000 złotych;
+- **2)** 95% uzyskanych opłat egzekucyjnych – od nadwyżki opłat egzekucyjnych przekraczającej 500 000 złotych w danym roku kalendarzowym – do wysokości 1 000 000 złotych;
+- **3)** 80% uzyskanych opłat egzekucyjnych – od nadwyżki opłat egzekucyjnych przekraczającej 1 000 000 złotych w danym roku kalendarzowym – do wysokości 1 500 000 złotych;
+- **4)** 70% uzyskanych opłat egzekucyjnych – od nadwyżki opłat egzekucyjnych przekraczającej 1 500 000 złotych w danym roku kalendarzowym – do wysokości 2 000 000 złotych;
+- **5)** 60% uzyskanych opłat egzekucyjnych – od nadwyżki opłat egzekucyjnych przekraczającej 2 000 000 złotych w danym roku kalendarzowym.
 
 3. Wynagrodzenie prowizyjne komornik potrąca bezpośrednio z uzyskanych opłat egzekucyjnych.
 
@@ -1612,10 +1650,6 @@ Art. 261–279. (pominięte)
 **Art. 153.**
 
 1. Komornik we własnym imieniu zawiera z osobami niezbędnymi do obsługi kancelarii, a także podmiotami niezbędnymi do ochrony mienia i pomocy w czynnościach terenowych, umowy o pracę, umowy o dzieło, umowy zlecenia lub umowy o świadczenie usług.
-
-1a. Komornik może upoważnić na piśmie pracownika kancelarii zatrudnionego na umowę o pracę do samodzielnego dokonywania czynności, o których mowa w art. 3 ust. 4 pkt 1, przy czym czynności te nie mogą się wiązać z zastosowaniem środków przymusu. Upoważnić można tylko pracownika, który nie był skazany prawomocnym wyrokiem za przestępstwo lub przestępstwo skarbowe.
-
-1b. Wykonując czynności, o których mowa w art. 3 ust. 4 pkt 1, pracownik ma prawo legitymowania osób w celu ustalenia ich tożsamości.
 
 2. Komornik zatrudnia asesorów i aplikantów na podstawie umowy o pracę.
 
@@ -1655,7 +1689,7 @@ Art. 261–279. (pominięte)
 
 **Art. 158.**
 
-1. Minister Sprawiedliwości tworzy system teleinformatyczny, obsługujący postępowania egzekucyjne i zabezpieczające prowadzone przez komorników, w którym jest prowadzona i przechowywana dokumentacja, o której mowa w art. 155 ust. 1 i art. 156, oraz są prowadzone konta, za pomocą których można wnosić pisma, jak również wykonuje zadania polegające na projektowaniu, wdrażaniu, eksploatacji, integracji, rozwoju i udostępnianiu tego systemu, zabezpieczaniu danych osobowych przetwarzanych w tym systemie oraz zapewnieniu możliwości wymiany danych między użytkownikami systemu, a w szczególności:
+1. Minister Sprawiedliwości tworzy system teleinformatyczny, w którym jest prowadzona i przechowywana dokumentacja, o której mowa w art. 155 ust. 1 i art. 156, jak również wykonuje zadania polegające na projektowaniu, wdrażaniu, eksploatacji, integracji, rozwoju i udostępnianiu tego systemu, zabezpieczaniu danych osobowych przetwarzanych w tym systemie oraz zapewnieniu możliwości wymiany danych między użytkownikami systemu, a w szczególności:
 
 - **1)** administruje systemem teleinformatycznym zapewniającym komornikom możliwość przechowywania i zabezpieczania akt spraw prowadzonych w postaci elektronicznej i udostępnia ten system komornikom;
 - **2)** administruje systemem teleinformatycznym zapewniającym komornikom możliwość prowadzenia urządzeń ewidencyjnych, o których mowa w art. 156, lub dokumentacji księgowej w postaci elektronicznej i udostępnia ten system komornikom;
@@ -1664,23 +1698,13 @@ Art. 261–279. (pominięte)
 
 2. Minister Sprawiedliwości przetwarza dane stron, pełnomocników uczestników postępowań egzekucyjnych i zabezpieczających oraz innych osób uczestniczących w tych postępowaniach, zawarte w systemie teleinformatycznym oraz systemach teleinformatycznych obsługujących kancelarie, w zakresie niezbędnym do realizacji zadań wymienionych w ust. 1.
 
-3. Minister Sprawiedliwości jest administratorem systemu teleinformatycznego służącego do przetwarzania danych osobowych zawartych w dokumentacji, o której mowa w art. 155 ust. 1 i art. 156.
-
-**Art. 158a.** Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, tryb zakładania i udostępniania konta w systemie teleinformatycznym, o którym mowa w art. 158 ust. 1, za pomocą którego można wnosić pisma, z uwzględnieniem sprawności postępowania, ochrony praw stron postępowania oraz możliwości składania jednorazowo wielu pism.
-
-**Art. 158b.** Wnoszenie pism procesowych za pomocą konta w systemie teleinformatycznym, o którym mowa w art. 158 ust. 1, jest dopuszczalne, jeżeli z przyczyn technicznych, leżących po stronie komornika, jest to możliwe.
+3. Minister Sprawiedliwości jest administratorem systemu teleinformatycznego służącego do przetwarzania danych osobowych zawartych w dokumentacji, o której mowa w art. 155 ust. 1 i art. 156. Do przetwarzania danych osobowych, o których mowa w ust. 1, nie stosuje się przepisu art. 40 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2016 r. poz. 922 oraz z 2018 r. poz. 138 i 723).
 
 **Art. 159.**
 
 1. Minister Sprawiedliwości, jako administrator systemu teleinformatycznego, o którym mowa w art. 158 ust. 1, nie ma swobodnego dostępu do informacji w nim zawartych, w tym do danych osobowych.
 
 2. Komornik na żądanie Ministra Sprawiedliwości, na zasadach przewidzianych w ustawie, udostępnia zawarte w systemie akta spraw, urządzenia ewidencyjne lub dokumentację księgową w celu umożliwienia Ministrowi Sprawiedliwości realizacji zadań w ramach nadzoru administracyjnego.
-
-**Art. 159a.**
-
-1. Dane osobowe zawarte w systemie teleinformatycznym, utworzonym do dnia 1 stycznia 2021 r., o którym mowa w art. 158 ust. 1, podlegają z dniem uruchomienia systemu zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazywaniu, w szczególności poprzez stosowanie proporcjonalnych środków technicznych i organizacyjnych gwarantujących zapewnienie ochrony przed nieuprawnionym dostępem do systemu teleinformatycznego.
-
-2. Administratorami danych znajdujących się w systemie są komornicy w zakresie, w jakim dane te dotyczą prowadzonych przez nich spraw.
 
 **Art. 160.**
 
@@ -1696,12 +1720,12 @@ Art. 261–279. (pominięte)
 
 3. W decyzji, o której mowa w ust. 1, określa się:
 
-- **1)** zakres uprawnień, które mogą obejmować:
-    - **a)** korzystanie z programu komputerowego,
-    - **b)** trwałe lub czasowe zwielokrotnienie programu komputerowego w całości lub części jakimikolwiek środkami i w jakiejkolwiek formie,
-    - **c)** tłumaczenie, przystosowywanie, zmiany układu programu komputerowego lub wprowadzanie w nim jakichkolwiek innych zmian,
-    - **d)** rozpowszechnianie, w tym użyczenie lub najem, programu komputerowego lub jego kopii,
-    - **e)** zwielokrotnianie kodu lub tłumaczenie jego formy;
+- **1)** zakres uprawnień, które mogą obejmować: korzystanie z programu komputerowego, trwałe lub czasowe zwielokrotnienie programu komputerowego w całości lub części jakimikolwiek środkami i w jakiejkolwiek formie, tłumaczenie, przystosowywanie, zmiany układu programu komputerowego lub wprowadzanie w nim jakichkolwiek innych zmian, rozpowszechnianie, w tym użyczenie lub najem, programu komputerowego lub jego kopii, zwielokrotnianie kodu lub tłumaczenie jego formy;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 - **2)** czas korzystania z uprawnień nie dłuższy niż 20 lat.
 
@@ -1721,7 +1745,7 @@ Art. 261–279. (pominięte)
 
 **Art. 164.**
 
-1. Akta spraw, w których postępowanie zostało zakończone, oraz zamknięte urządzenia ewidencyjne przechowuje Krajowa Rada Komornicza przez okres konieczny ze względu na rodzaj i charakter sprawy, terminy przedawnienia, interesy osób biorących udział w postępowaniu oraz znaczenie materiałów zawartych w aktach jako źródło informacji. Do przechowywania akt spraw i urządzeń ewidencyjnych stosuje się odpowiednio przepisy art. 34 ust. 1 i art. 35 ust. 3 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164).
+1. Akta spraw, w których postępowanie zostało zakończone, oraz zamknięte urządzenia ewidencyjne przechowuje Krajowa Rada Komornicza przez okres konieczny ze względu na rodzaj i charakter sprawy, terminy przedawnienia, interesy osób biorących udział w postępowaniu oraz znaczenie materiałów zawartych w aktach jako źródło informacji. Do przechowywania akt spraw i urządzeń ewidencyjnych stosuje się odpowiednio przepisy art. 34 ust. 1 i art. 35 ust. 3 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2018 r. poz. 217, 357, 398 i 650).
 
 2. Krajowa Rada Komornicza określa, w drodze uchwały, wysokość ponoszonych przez komorników zryczałtowanych opłat za przechowywanie akt spraw i urządzeń ewidencyjnych, o których mowa w ust. 1, mając na względzie konieczność pokrycia wyłącznie rzeczywistych kosztów z tym związanych. Środki pochodzące z opłat stanowią odrębny fundusz pozostający w dyspozycji Krajowej Rady Komorniczej.
 
@@ -1730,19 +1754,6 @@ Art. 261–279. (pominięte)
 4. Po okresie przechowywania przez Krajową Radę Komorniczą akta spraw oraz urządzenia ewidencyjne, o których mowa w ust. 1, stanowiące materiały archiwalne przekazuje się do właściwych archiwów państwowych wskazanych, w drodze zarządzenia, przez prezesa właściwego sądu rejonowego. Akta spraw oraz urządzenia ewidencyjne niestanowiące materiałów archiwalnych za zgodą dyrektora właściwego archiwum państwowego podlegają zniszczeniu.
 
 5. Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowy sposób, tryb i terminy przechowywania i przekazywania akt spraw oraz urządzeń ewidencyjnych, o których mowa w ust. 1, a także sposób i tryb ich niszczenia po upływie okresu przechowywania, uwzględniając w szczególności rodzaje spraw i urządzeń ewidencyjnych oraz właściwe zabezpieczenie przed dostępem osób nieuprawnionych, utratą lub zniszczeniem oraz tworzenie, ewidencjonowanie i przechowywanie dokumentacji w różnej postaci, w tym elektronicznej.
-
-**Art. 164a.**
-
-1. Wykonując obowiązek, o którym mowa w art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2016/679”, komornik:
-
-- **1)** przekazuje osobie, której dane dotyczą, informacje, o których mowa w art. 13 ust. 1 lit. a i c rozporządzenia 2016/679, podczas pozyskiwania od niej tych danych;
-- **2)** udostępnia w miejscu publicznie dostępnym w siedzibie kancelarii lub na stronie internetowej kancelarii pozostałe podlegające udostępnieniu informacje, o czym informuje osobę, której dane dotyczą, podczas pozyskiwania od niej danych osobowych.
-
-2. Obowiązki wynikające z art. 15 rozporządzenia 2016/679 realizowane są na zasadach określonych w art. 9 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego i wyłącznie w zakresie, w jakim nie narusza to obowiązku zachowania przez komornika tajemnicy zawodowej, o której mowa w art. 27.
-
-3. W zakresie prowadzonych postępowań lub czynności podejmowanych przez komornika na podstawie art. 3 ust. 3 i ust. 4 pkt 1 i 2 ustawy, przepis art. 16 rozporządzenia 2016/679 stosuje się wyłącznie w zakresie i na zasadach przewidzianych w ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
-
-4. W ramach wykonywania przez komornika zadań, o których mowa w art. 3 ust. 3 i ust. 4 pkt 1 i 2, skorzystanie przez daną osobę z prawa do ograniczenia przetwarzania danych osobowych, o którym mowa w art. 18 ust. 1 rozporządzenia 2016/679, odbywa się wyłącznie w sposób przewidziany w art. 767 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
 
 #### Rozdział 9 Nadzór nad komornikami
 
@@ -1760,9 +1771,9 @@ Art. 261–279. (pominięte)
 
 3. Odpisy zarządzeń wydanych w trybie art. 759 § 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego sąd przesyła prezesowi właściwego sądu rejonowego. W przypadku stwierdzenia uchybień mniejszej wagi lub jeżeli wydane zarządzenia dotyczą kwestii organizacyjno-technicznych przepisu zdania pierwszego nie stosuje się.
 
-4. Sąd, rozpoznając sprawę w ramach nadzoru judykacyjnego, w przypadku stwierdzenia rażącej obrazy przepisów, niezależnie od innych uprawnień, wytyka uchybienie komornikowi. Przed wytknięciem uchybienia sąd poucza komornika o możliwości złożenia na piśmie wyjaśnień w terminie 7 dni. Wytknięcie uchybienia wymaga uzasadnienia, a odpis postanowienia, w którym je zawarto, doręcza się komornikowi. W przypadku gdy uchybienie wytknął sąd pierwszej instancji, a sprawa, w której wytknięto uchybienie, jest przedmiotem postępowania odwoławczego, sąd drugiej instancji może z urzędu zmienić treść wytknięcia lub je uchylić.
+4. Sąd, rozpoznając sprawę w ramach nadzoru judykacyjnego, w przypadku stwierdzenia rażącej obrazy przepisów, niezależnie od innych uprawnień, wytyka uchybienie komornikowi. Przed wytknięciem uchybienia sąd poucza komornika o możliwości złożenia na piśmie wyjaśnień w terminie 7 dni. Wytknięcie uchybienia wymaga uzasadnienia. W przypadku gdy uchybienie wytknął sąd rejonowy, a sprawa, w której wytknięto uchybienie, była przedmiotem postępowania odwoławczego, sąd okręgowy może z urzędu zmienić treść wytknięcia lub je uchylić.
 
-5. Uprawnienie, o którym mowa w ust. 4, nie przysługuje referendarzowi sądowemu orzekającemu na podstawie art. 759 § 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego. Dostrzegając potrzebę wytknięcia uchybienia komornikowi, referendarz sądowy przekazuje sprawę sądowi.
+5. Uprawnienie, o którym mowa w ust. 4, nie przysługuje referendarzowi sądowemu orzekającemu na podstawie art. 759 § 11 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego. Dostrzegając potrzebę wytknięcia uchybienia komornikowi, referendarz sądowy przekazuje sprawę sądowi.
 
 6. Odpis postanowienia, zawierającego wytknięcie uchybienia, przesyła się prezesowi właściwego sądu rejonowego, radzie właściwej izby komorniczej, Krajowej Radzie Komorniczej oraz Ministrowi Sprawiedliwości. Do odpisu postanowienia dołącza się także złożone przez komornika wyjaśnienia. Odpis postanowienia wraz z wyjaśnieniami Minister Sprawiedliwości dołącza do akt osobowych komornika.
 
@@ -1829,7 +1840,7 @@ Art. 261–279. (pominięte)
 - **5)** zawieszenie asesora lub aplikanta w czynnościach;
 - **6)** inne środki określone w przepisach prawa.
 
-3. Czynności w sprawach odwołania komornika z zajmowanego stanowiska z przyczyn, o których mowa w art. 19 ust. 2 pkt 1–4, oraz sprawach dyscyplinarnych są podejmowane przez sędziów i referendarzy sądowych delegowanych do Ministerstwa Sprawiedliwości w trybie art. 77 § 1 pkt 2 i art. 151a § 5 pkt 2 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334) oraz prokuratorów delegowanych do Ministerstwa Sprawiedliwości w trybie art. 106 § 1 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2024 r. poz. 390).
+3. Czynności w sprawach odwołania komornika z zajmowanego stanowiska z przyczyn, o których mowa w art. 19 ust. 2 pkt 1–4, oraz sprawach dyscyplinarnych są podejmowane przez sędziów i referendarzy sądowych delegowanych do Ministerstwa Sprawiedliwości w trybie art. 77 § 1 pkt 2 i art. 151a § 5 pkt 2 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2018 r. poz. 23, 3, 5, 106 i 138) oraz prokuratorów delegowanych do Ministerstwa Sprawiedliwości w trybie art. 106 § 1 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2017 r. poz. 1767 oraz z 2018 r. poz. 5).
 
 4. Wgląd do akt spraw egzekucyjnych udostępnianych Ministrowi Sprawiedliwości mają wyłącznie osoby, o których mowa w ust. 3.
 
@@ -1900,7 +1911,26 @@ Art. 261–279. (pominięte)
 
 **Art. 181.** Uprawnienia nadzorcze prezesa właściwego sądu okręgowego obejmują:
 
+- **1)** wszczynanie postępowań dyscyplinarnych;
+- **2)** zlecanie przeprowadzenia wizytacji lub lustracji kancelarii;
+- **3)** kierowanie komorników i asesorów na badania lekarskie, o których mowa w art. 26 i art. 141;
+- **4)** występowanie do Ministra Sprawiedliwości z wnioskiem o odwołanie komornika z zajmowanego stanowiska;
+- **5)** stosowanie innych środków prawnych określonych w przepisach prawa.
+
 **Art. 182.** Uprawnienia nadzorcze prezesa właściwego sądu apelacyjnego obejmują:
+
+- **1)** wszczynanie postępowań dyscyplinarnych;
+- **2)** zlecanie przeprowadzenia wizytacji lub lustracji kancelarii;
+- **3)** zawieszanie asesorów w czynnościach;
+- **4)** podejmowanie czynności związanych z odwołaniem asesora z zajmowanego stanowiska, w szczególności w przypadku uporczywego lub rażącego naruszenia przepisów prawa;
+- **5)** zawieszanie aplikantów w czynnościach;
+- **6)** podejmowanie czynności związanych ze skreśleniem aplikanta z listy aplikantów komorniczych;
+- **7)** podejmowanie, w przypadkach, o których mowa w ustawie, decyzji w przedmiocie zastępstwa komornika;
+- **8)** podejmowanie decyzji związanych z zatrudnianiem przez komorników aplikantów i asesorów;
+- **9)** kierowanie komorników i asesorów na badania lekarskie, o których mowa w art. 26 i art. 141;
+- **10)** występowanie do Ministra Sprawiedliwości z wnioskiem o odwołanie komornika z zajmowanego stanowiska;
+- **11)** analizowanie sprawozdań, o których mowa w art. 186 ust. 1;
+- **12)** stosowanie innych środków prawnych określonych w przepisach prawa.
 
 **Art. 183.**
 
@@ -1978,6 +2008,13 @@ Art. 261–279. (pominięte)
 
 **Art. 192.** Powołanie na funkcję komornika wizytatora wygasa w przypadku:
 
+- **1)** śmierci;
+- **2)** wygaśnięcia powołania na stanowisko komornika z mocy prawa lub odwołania komornika z zajmowanego stanowiska;
+- **3)** zrzeczenia się funkcji;
+- **4)** upływu kadencji;
+- **5)** prawomocnego ukarania karą dyscyplinarną, o której mowa w art. 224 ust. 1 pkt 2–5;
+- **6)** dwukrotnego wytknięcia uchybienia w trybie art. 166 ust. 4.
+
 **Art. 193.**
 
 1. Wizytacji kancelarii mających siedzibę na obszarze danej izby komorniczej dokonują działający przy niej komornicy wizytatorzy. Przedmiotem wizytacji są zagadnienia, o których mowa w art. 188 ust. 2.
@@ -2029,7 +2066,7 @@ Art. 261–279. (pominięte)
 
 3. Krajowa Rada Komornicza i izby komornicze posiadają osobowość prawną.
 
-4. Samorząd komorniczy i jego organy nie mogą prowadzić działalności gospodarczej ani posiadać w spółce prawa handlowego więcej niż 10 % akcji lub udziałów przedstawiających więcej niż 10 % kapitału zakładowego.
+4. Samorząd komorniczy i jego organy nie mogą prowadzić działalności gospodarczej ani posiadać w spółce prawa handlowego więcej niż 10% akcji lub udziałów przedstawiających więcej niż 10% kapitału zakładowego.
 
 **Art. 197.** Krajowa Rada Komornicza jest reprezentantem samorządu komorniczego.
 
@@ -2078,28 +2115,9 @@ Art. 261–279. (pominięte)
 - **17)** współpraca z sądem prowadzącym elektroniczne postępowanie upominawcze w zakresie prowadzenia i aktualizowania listy komorników, zasad potwierdzania danych do weryfikacji podpisu elektronicznego używanego przez komornika, umożliwiających dostęp do elektronicznych tytułów wykonawczych i ich weryfikację oraz sądami prowadzącymi postępowania wieczystoksięgowe w zakresie identyfikacji komorników;
 - **18)** współpraca z podmiotem prowadzącym system teleinformatyczny obsługujący zajęcie wierzytelności z rachunku bankowego;
 - **19)** utworzenie i prowadzenie systemu teleinformatycznego obsługującego elektroniczne licytacje publiczne;
-- **19a)** współpraca z podmiotem prowadzącym Krajowy Rejestr Zadłużonych oraz utrzymującym system teleinformatyczny obsługujący postępowanie sądowe w zakresie postępowania upadłościowego i restrukturyzacyjnego, a także sądami prowadzącymi postępowania upadłościowe i restrukturyzacyjne w zakresie prowadzenia i aktualizowania list oraz wykazu, o których mowa w art. 217–219, zasad potwierdzania danych do weryfikacji podpisu elektronicznego dla komorników, umożliwiających dostęp do elektronicznych tytułów wykonawczych i ich weryfikację, oraz w zakresie identyfikacji komorników;
-- **19b)** współpraca z Szefem Krajowej Administracji Skarbowej w zakresie udostępniania list oraz wykazu, o których mowa w art. 217–220, umożliwiających automatyczną weryfikację komorników, zastępców komorników, asesorów i aplikantów komorniczych, w celu zapewnienia dostępu do konta w e-Urzędzie Skarbowym, oraz zapewnienia bezpieczeństwa przetwarzania danych przez dostawców oprogramowania służącego do obsługi kancelarii komorniczych;
-- **19c)** udzielanie dostawcom oprogramowania służącego do obsługi kancelarii komorniczych, na ich wniosek, zgody na:
-    - **a)** dostęp do systemu teleinformatycznego, w którym są prowadzone listy oraz wykaz, o których mowa w art. 217–220, umożliwiające automatyczną weryfikację komorników, zastępców komorników, asesorów i aplikantów komorniczych, w celu wykonywania zadań, o których mowa w pkt 17–19b,
-    - **b)** doręczanie korespondencji za pośrednictwem konta w e-Urzędzie Skarbowym przy pomocy oprogramowania służącego do obsługi kancelarii komorniczych;
-
 - **20)** wykonywanie innych czynności przewidzianych przepisami prawa.
 
 2. Podjęcie uchwał w sprawach wymienionych w ust. 1 pkt 6, 11 i 12 wymaga zasięgnięcia opinii rad izb komorniczych.
-
-2a. W celu weryfikacji wniosku o udzielenie zgody, o której mowa w ust. 1 pkt 19c, Krajowa Rada Komornicza może zażądać od wnioskodawcy przekazania informacji, w tym objętych tajemnicą przedsiębiorstwa, dotyczących oprogramowania służącego do obsługi kancelarii komorniczych.
-
-2b. Przy podejmowaniu uchwały w sprawie udzielenia zgody, o której mowa w ust. 1 pkt 19c, Krajowa Rada Komornicza uwzględnia konieczność zapewnienia bezpieczeństwa przetwarzania danych przez dostawców oprogramowania służącego do obsługi kancelarii komorniczych.
-
-2c. Krajowa Rada Komornicza może cofnąć zgodę, o której mowa w ust. 1 pkt 19c, w przypadku stwierdzenia:
-
-- **1)** nieprawidłowości w zakresie przetwarzania danych, które nie zostały usunięte w wyznaczonym terminie, lub
-- **2)** zagrożenia ujawnienia danych, które nie zostało usunięte w wyznaczonym terminie.
-
-2d. Uchwały w sprawie udzielenia i cofnięcia zgody, o której mowa w ust. 1 pkt 19c, nie podlegają zaskarżeniu przez wnioskodawcę. Przepis art. 215 stosuje się.
-
-2e. Krajowa Rada Komornicza przekazuje niezwłocznie Szefowi Krajowej Administracji Skarbowej uchwały w sprawie udzielenia i cofnięcia zgody, o której mowa w ust. 1 pkt 19c.
 
 3. Krajowa Rada Komornicza składa Ministrowi Sprawiedliwości raz w roku, w terminie do dnia 31 marca, informację o stanie egzekucji.
 
@@ -2130,6 +2148,10 @@ Art. 261–279. (pominięte)
 4. Przepis ust. 3 stosuje się odpowiednio do asesorów.
 
 **Art. 206.** Organami izby komorniczej są:
+
+- **1)** walne zgromadzenie izby komorniczej;
+- **2)** rada izby komorniczej;
+- **3)** komisja rewizyjna.
 
 **Art. 207.**
 
@@ -2177,7 +2199,7 @@ Art. 261–279. (pominięte)
 1. Rada izby komorniczej działa w siedzibie izby komorniczej i składa się z:
 
 - **1)** 7 członków – w izbach liczących do 150 komorników,
-- **2)** 9 członków – w izbach liczących powyżej 150 komorników – w tym z przewodniczącego i wiceprzewodniczącego rady izby komorniczej.
+- **2)** 9 członków – w izbach liczących powyżej 150 komorników w tym z przewodniczącego i wiceprzewodniczącego rady izby komorniczej.
 
 2. Rada izby komorniczej na posiedzeniu dokonuje podziału czynności między swoich członków oraz uchwala regulamin swojej pracy. Dokumenty te rada izby komorniczej doręcza wszystkim członkom danej izby komorniczej i Krajowej Radzie Komorniczej.
 
@@ -2250,21 +2272,62 @@ Art. 261–279. (pominięte)
 
 **Art. 217.** Lista komorników zawiera następujące dane dotyczące komorników:
 
+- **1)** imię i nazwisko;
+- **2)** numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL);
+- **3)** numer identyfikacji podatkowej;
+- **4)** nazwę sądu, przy którym działa komornik, i numer porządkowy kancelarii;
+- **5)** oznaczenie izby komorniczej, do której należy komornik;
+- **6)** datę wydania i numer decyzji o powołaniu na stanowisko komornika;
+- **7)** datę złożenia ślubowania;
+- **8)** datę wydania i numer decyzji o odwołaniu komornika z zajmowanego stanowiska;
+- **9)** datę zwolnienia stanowiska komornika;
+- **10)** datę wydania i numer postanowienia o zawieszeniu w czynnościach lub zarządzenia o odsunięciu od wykonywania czynności;
+- **11)** datę ustania zawieszenia w czynnościach;
+- **12)** datę wydania i numer zarządzenia o wyznaczeniu zastępcy danego komornika;
+- **13)** imię i nazwisko zastępcy komornika oraz zajmowane przez zastępcę stanowisko;
+- **14)** czas trwania zastępstwa komornika;
+- **15)** informacje o pełnieniu przez komornika obowiązków zastępcy innego komornika.
+
 **Art. 218.** Lista zastępców komorników zawiera następujące dane:
+
+- **1)** imię i nazwisko zastępcy komornika oraz zajmowane przez zastępcę stanowisko;
+- **2)** datę wydania i numer zarządzenia o wyznaczeniu zastępcy komornika;
+- **3)** imię i nazwisko zastępowanego komornika;
+- **4)** czas trwania zastępstwa komornika.
 
 **Art. 219.** Wykaz asesorów komorniczych zawiera następujące dane dotyczące asesorów:
 
+- **1)** imię i nazwisko;
+- **2)** numer PESEL;
+- **3)** oznaczenie izby komorniczej, do której należy asesor;
+- **4)** datę wydania i numer decyzji o powołaniu na stanowisko asesora;
+- **5)** datę złożenia ślubowania;
+- **6)** datę wydania i numer decyzji o odwołaniu asesora z zajmowanego stanowiska;
+- **7)** datę zwolnienia stanowiska asesora;
+- **8)** datę wydania i numer postanowienia o zawieszeniu w czynnościach lub zarządzenia o odsunięciu od wykonywania czynności;
+- **9)** datę ustania zawieszenia w czynnościach;
+- **10)** oznaczenie kancelarii, w której asesor jest zatrudniony;
+- **11)** informacje o pełnieniu przez danego asesora obowiązków zastępcy komornika.
+
 **Art. 220.** Lista aplikantów komorniczych zawiera następujące dane dotyczące aplikantów:
+
+- **1)** imię i nazwisko;
+- **2)** numer PESEL;
+- **3)** datę złożenia ślubowania;
+- **4)** datę wydania i numer postanowienia o zawieszeniu w czynnościach;
+- **5)** datę ustania zawieszenia w czynnościach;
+- **6)** datę podjęcia i numer uchwały w sprawie wpisu na listę aplikantów komorniczych;
+- **7)** datę wpisu na listę aplikantów komorniczych;
+- **8)** datę rozpoczęcia aplikacji;
+- **9)** datę i numer decyzji lub uchwały o skreśleniu z listy aplikantów komorniczych albo wydaleniu z aplikacji;
+- **10)** datę skreślenia z listy aplikantów komorniczych;
+- **11)** oznaczenie kancelarii, w której aplikant jest zatrudniony.
 
 **Art. 221.**
 
 1. Krajowa Rada Komornicza na podstawie informacji przekazanych przez komisję dyscyplinarną oraz informacji przekazanych w trybie art. 166 ust. 6 ujawnia na liście komorników dane o niezatartych karach dyscyplinarnych oraz pozostających w aktach osobowych komornika odpisach postanowień zawierających wytknięcie uchybienia udzielonych w trybie art. 166 ust. 4.
 
-2. Krajowa Rada Komornicza zapewnia sądom prowadzącym postępowania wieczystoksięgowe oraz sądom prowadzącym postępowania, o których mowa w art. 2 ust. 1 pkt 1 ustawy z dnia 6 grudnia 2018 r. o Krajowym Rejestrze Zadłużonych (Dz. U. z 2021 r. poz. 1909), dostęp do list oraz wykazu, o których mowa w art. 217–219, za pośrednictwem systemu teleinformatycznego w celu automatycznej weryfikacji komorników, zastępców komorników oraz asesorów komorniczych.
-
-2a. Krajowa Rada Komornicza zapewnia sądom dostęp do list oraz wykazu, o których mowa w art. 217–219, za pośrednictwem systemu teleinformatycznego w celu automatycznej weryfikacji komorników, zastępców komorników i asesorów komorniczych wykonujących w Krajowym Rejestrze Zadłużonych zadania, o których mowa w art. 9 ust. 3 i 4 oraz art. 11 ust. 8 i 9 ustawy z dnia 6 grudnia 2018 r. o Krajowym Rejestrze Zadłużonych.
-
-2b. Krajowa Rada Komornicza zapewnia Szefowi Krajowej Administracji Skarbowej dostęp do list oraz wykazu, o których mowa w art. 217–220, za pośrednictwem systemu teleinformatycznego w celu automatycznej weryfikacji komorników, zastępców komorników, asesorów i aplikantów.
+2. Krajowa Rada Komornicza zapewnia sądom prowadzącym postępowania wieczystoksięgowe dostęp do list oraz wykazu, o których mowa w art. 217–219, za pośrednictwem systemu teleinformatycznego w celu automatycznej weryfikacji komorników, zastępców komorników oraz asesorów.
 
 3. Krajowa Rada Komornicza zapewnia Ministrowi Sprawiedliwości dostęp do list oraz wykazu, o których mowa w art. 217–220, za pośrednictwem systemu teleinformatycznego.
 
@@ -2274,9 +2337,21 @@ Art. 261–279. (pominięte)
 
 **Art. 222.** Komornik odpowiada dyscyplinarnie za następujące zawinione działania lub zaniechania (przewinienia dyscyplinarne):
 
+- **1)** naruszenie powagi lub godności urzędu albo inne uchybienie zasadom etyki zawodowej;
+- **2)** niewykonanie zaleceń powizytacyjnych, polustracyjnych lub pokontrolnych, jak też zarządzeń organów nadzoru administracyjnego;
+- **3)** wydatkowanie środków podlegających dokumentacji na działalność niezgodną z ich przeznaczeniem;
+- **4)** podejmowanie czynności z nieuzasadnioną zwłoką;
+- **5)** naruszenie właściwości określonej w art. 9 i art. 10, w szczególności zasad przyjmowania spraw z wyboru wierzyciela;
+- **6)** niepodjęcie lub nieterminowe podjęcie czynności, o których mowa w art. 767 § 5 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego;
+- **7)** brak nadzoru nad zatrudnionymi asesorami i aplikantami oraz innymi osobami, o których mowa w art. 153 ust. 1;
+- **8)** pozyskiwanie informacji z naruszeniem art. 761 § 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego;
+- **9)** naruszenie zasad korzystania z prawa do nieobecności, usprawiedliwiania tych nieobecności albo korzystania z wyznaczonego zastępcy komornika określonych w art. 39–41 i art. 43;
+- **10)** odmowę podjęcia obowiązków zastępcy komornika w przypadkach, o których mowa w art. 43 ust. 6 i art. 45 ust. 5;
+- **11)** inną niż wymienione w pkt 1–10 rażącą lub uporczywą obrazę przepisów prawa.
+
 **Art. 223.**
 
-1. W zakresie nieuregulowanym w ustawie do odpowiedzialności dyscyplinarnej komornika stosuje się odpowiednio przepisy rozdziałów I–III ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17 i 1228).
+1. W zakresie nieuregulowanym w ustawie do odpowiedzialności dyscyplinarnej komornika stosuje się odpowiednio przepisy rozdziałów I-III ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2017 r. poz. 2204 oraz z 2018 r. poz. 20, 305 i 663).
 
 2. Do postępowania dyscyplinarnego w zakresie nieuregulowanym w ustawie stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
 
@@ -2536,7 +2611,7 @@ Art. 261–279. (pominięte)
 
 6. Odpis orzeczenia uwzględniającego skargę, o której mowa w ust. 1, sąd doręcza przewodniczącemu komisji dyscyplinarnej, Prezesowi Krajowej Rady Komorniczej oraz Ministrowi Sprawiedliwości.
 
-7. W zakresie nieuregulowanym w ustawie do rozpoznania skargi, o której mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 17 czerwca 2004 r. o skardze na naruszenie prawa strony do rozpoznania sprawy w postępowaniu przygotowawczym prowadzonym lub nadzorowanym przez prokuratora i postępowaniu sądowym bez nieuzasadnionej zwłoki (Dz. U. z 2023 r. poz. 1725).
+7. W zakresie nieuregulowanym w ustawie do rozpoznania skargi, o której mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 17 czerwca 2004 r. o skardze na naruszenie prawa strony do rozpoznania sprawy w postępowaniu przygotowawczym prowadzonym lub nadzorowanym przez prokuratora i postępowaniu sądowym bez nieuzasadnionej zwłoki (Dz. U. z 2018 r. poz. 75).
 
 **Art. 249.** Jeżeli obwiniony przyznaje się do popełnienia czynu podlegającego odpowiedzialności dyscyplinarnej, komisja dyscyplinarna, za zgodą stron, może nie przeprowadzać postępowania dowodowego lub przeprowadzić je częściowo.
 
@@ -2638,6 +2713,512 @@ Art. 261–279. (pominięte)
 
 #### Rozdział 12 Zmiany w przepisach
 
+**Art. 261.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 155, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 346: po § 1 dodaje się § 11 w brzmieniu: „
+    - **a)**
+
+§ 11. Sąd może uchylić rygor natychmiastowej wykonalności nadany wyrokowi zaocznemu, jeżeli pozwany wykaże, że odpis pozwu doręczono w trybie przewidzianym w art. 139 § 1 na inny adres aniżeli aktualne w dacie doręczenia miejsce zamieszkania pozwanego. ” , § 2 otrzymuje brzmienie: „
+
+- **b)**
+
+§ 2. Postanowienie w przedmiocie zawieszenia lub uchylenia rygoru natychmiastowej wykonalności sąd może wydać na posiedzeniu niejawnym. ” ;
+
+- **2)** w art. 759: § 2 otrzymuje brzmienie: „
+    - **a)**
+
+§ 2. Sąd wydaje z urzędu komornikowi zarządzenia zmierzające do zapewnienia należytego wykonania egzekucji oraz usuwa spostrzeżone uchybienia. Ocena prawna wyrażona przez sąd w ramach wydanych zarządzeń jest wiążąca dla komornika. ” , dodaje się § 3 w brzmieniu: „
+
+- **b)**
+
+§ 3. Sąd może zobowiązać komornika do składania sprawozdań z czynności podjętych w wyniku zarządzeń, o których mowa w § 2. ” ;
+
+- **3)** w art. 760: § 1 otrzymuje brzmienie: „
+    - **a)**
+
+§ 1. Wnioski i oświadczenia w postępowaniu egzekucyjnym składa się, według wyboru składającego, na piśmie albo ustnie do protokołu, chyba że przepis szczególny stanowi inaczej. Jeżeli przepis szczególny tak stanowi albo dokonano wyboru wnoszenia pism za pośrednictwem systemu teleinformatycznego, wnioski i oświadczenia składa się wyłącznie za pośrednictwem systemu teleinformatycznego. ” , po § 1 dodaje się § 11 w brzmieniu: „
+
+- **b)**
+
+§ 11. Komornik niezwłocznie, nie później jednak niż w terminie 7 dni od dnia otrzymania wniosku, podejmuje niezbędne czynności. ” ;
+
+- **4)** w art. 761: § 1 otrzymuje brzmienie: „
+    - **a)**
+
+§ 1. Organ egzekucyjny może żądać od uczestników postępowania złożenia wyjaśnień. ” , po § 1 dodaje się § 11 w brzmieniu: „
+
+- **b)**
+
+§ 11. Organ egzekucyjny może żądać od:
+
+- **1)** organów administracji publicznej,
+- **2)** podmiotów wykonujących zadania z zakresu administracji publicznej,
+- **3)** organów podatkowych,
+- **4)** organów rentowych,
+- **5)** banków,
+- **6)** spółdzielczych kas oszczędnościowo-kredytowych,
+- **7)** zakładów ubezpieczeń lub zakładów reasekuracji,
+- **8)** podmiotów prowadzących rachunki papierów wartościowych, wymienionych w art. 4 ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2017 r. poz. 1768, z późn. zm.),
+- **9)** spółdzielni mieszkaniowych,
+- **10)** wspólnot mieszkaniowych,
+- **11)** innych podmiotów zarządzających lokalami,
+- **12)** biur informacji gospodarczej,
+- **13)** innych instytucji i osób nieuczestniczących w postępowaniu informacji dotyczących stanu majątkowego dłużnika lub umożliwiających identyfikację składników jego majątku oraz danych adresowych jedynie w zakresie niezbędnym do zapewnienia prawidłowego toku postępowania. ” , po § 2 dodaje się § 21i22 w brzmieniu: „
+    - **c)**
+
+§ 21. Informacji, o których mowa w § 11, udziela się w oparciu o dane przekazane przez organ egzekucyjny, w terminie przez niego wyznaczonym, o ile przepisy szczególne nie przewidują innego terminu.
+
+§ 22. Jeżeli pozyskanie informacji, o których mowa w § 11, jest możliwe za pośrednictwem systemów teleinformatycznych funkcjonujących na podstawie przepisów odrębnych, komornik korzysta z tych systemów z wyłączeniem innych form komunikacji – na zasadach określonych w tych przepisach. ” ;
+
+- **5)** po art. 763 dodaje się art. 7631–7633 w brzmieniu: „
+
+**Art. 7631.** Komornik poucza strony i uczestników postępowania występujących w sprawie bez adwokata, radcy prawnego, rzecznika patentowego lub radcy Prokuratorii Generalnej Rzeczypospolitej Polskiej o sposobie i terminie zaskarżenia czynności. Jeżeli osoby te nie są obecne, pouczenie następuje wraz z zawiadomieniem o dokonaniu czynności.
+
+**Art. 7632.**
+
+§ 1. Wniosek o wyłączenie komornika zgłasza się na piśmie do komornika prowadzącego postępowanie, uprawdopodobniając przyczyny wyłączenia. Komornik w terminie 3 dni od dnia złożenia wniosku o wyłączenie przekazuje wniosek do sądu rejonowego właściwego ze względu na siedzibę kancelarii komornika, wraz z pisemnymi wyjaśnieniami.
+
+§ 2. Sąd rejonowy właściwy ze względu na siedzibę kancelarii komornika rozpoznaje wniosek o wyłączenie komornika w terminie 7 dni od dnia przekazania wniosku.
+
+§ 3. Postanowienie w przedmiocie wyłączenia komornika sąd wydaje na posiedzeniu niejawnym w składzie jednoosobowym. Na postanowienie zażalenie nie przysługuje.
+
+§ 4. Przepisy § 1–3 stosuje się odpowiednio do zastępcy komornika oraz asesorów komorniczych, jeżeli osoby te prowadzą postępowanie lub dokonują określonych czynności w sprawie.
+
+§ 5. Do czasu rozpoznania wniosku o wyłączenie komornik, którego dotyczy wniosek, może podejmować dalsze czynności, z wyjątkiem czynności, które pociągałyby za sobą nieodwracalne skutki, chyba że wniosek w sposób oczywisty zmierza jedynie do przedłużenia postępowania.
+
+§ 6. W przypadku uwzględnienia wniosku o wyłączenie komornika, sąd wyznaczy innego komornika do dalszego prowadzenia postępowania, w miarę możliwości powierzając je komornikowi z tego samego rewiru, w którym ma siedzibę komornik wyłączony. W takim przypadku sąd może z urzędu uchylić w niezbędnym zakresie czynności dokonane po złożeniu wniosku.
+
+§ 7. W zakresie nieuregulowanym w § 1–6 do wyłączenia komornika stosuje się odpowiednio przepisy o wyłączeniu sędziego.
+
+**Art. 7633.**
+
+§ 1. Komornik właściwy do prowadzenia egzekucji, zgodnie z przepisami niniejszego kodeksu, w chwili wszczęcia postępowania pozostaje właściwy do czasu jego zakończenia, choćby podstawy właściwości zmieniły się w toku sprawy.
+
+§ 2. Jeżeli w toku egzekucji świadczeń alimentacyjnych dłużnik zmienił miejsce zamieszkania, przeprowadzając się na obszar właściwości innego sądu apelacyjnego, a dalsze prowadzenie egzekucji wiązałoby się z nadmiernymi kosztami, komornik może przekazać sprawę do komornika właściwości ogólnej dłużnika. Jeżeli w rewirze, do którego sprawa zostaje przekazana, działa więcej niż jeden komornik, komornik doręczając odpis postanowienia jednocześnie wzywa wierzyciela, aby w terminie 7 dni od dnia doręczenia wezwania wskazał komornika, któremu sprawa ma zostać przekazana. Jeżeli wierzyciel w powyższym terminie nie dokona wyboru komornika lub wskaże komornika, który nie jest właściwy, komornik przekazuje sprawę według własnego wyboru. Na wybór komornika z właściwego rewiru dłużnikowi skarga nie przysługuje. ” ;
+
+- **6)** w art. 765 po § 1 dodaje się § 11 i 12 w brzmieniu: „
+
+§ 11. Policja udziela komornikowi, na jego wezwanie, pomocy przy czynnościach egzekucyjnych. W przypadku stwierdzenia okoliczności uzasadniających podejrzenie popełnienia przestępstwa, Policja niezwłocznie powiadamia prezesa właściwego sądu rejonowego i żąda od komornika wpisania zastrzeżeń do protokołu czynności.
+
+§ 12. Otwarcia lub przeszukania mieszkania dłużnika komornik dokonuje wyłącznie w asyście Policji. ” ;
+
+- **7)** w art. 767: § 1 otrzymuje brzmienie: „
+    - **a)**
+
+§ 1. Na czynności komornika przysługuje skarga do sądu rejonowego, jeżeli ustawa nie stanowi inaczej. Dotyczy to także zaniechania przez komornika dokonania czynności. Skargę rozpoznaje sąd właściwy ze względu na siedzibę kancelarii komornika. ” , po § 3 dodaje się § 31–33 w brzmieniu: „
+
+- **b)**
+
+§ 31. Skarga może być wniesiona na urzędowym formularzu.
+
+§ 32. Komornik doręcza urzędowy formularz skargi dłużnikowi przy pierwszej czynności egzekucyjnej oraz stronom i uczestnikom obecnym podczas czynności dokonywanej poza kancelarią, chyba że czynność ta podlega zaskarżeniu skargą w formie ustnej.
+
+§ 33. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór i sposób udostępniania urzędowego formularza skargi, mając na względzie ustawowe wymagania przewidziane dla tego pisma, potrzebę zamieszczenia niezbędnych pouczeń co do sposobu wypełniania formularza, wnoszenia pisma i skutków niedostosowania go do ustawowych wymagań, a także konieczność bezpłatnego udostępniania formularzy w kancelariach komorniczych, siedzibach sądów oraz sieci Internet w formie pozwalającej na dogodną edycję treści formularza. ” , dodaje się § 6 w brzmieniu: „
+
+- **c)**
+
+§ 6. W przypadku stwierdzenia oczywistego naruszenia prawa przez komornika, sąd uwzględniając skargę, stosownie do okoliczności, może go obciążyć kosztami postępowania wywołanego skargą. Na postanowienie sądu przysługuje zażalenie stronom oraz komornikowi. ” ;
+
+- **8)** w art. 796: § 1 otrzymuje brzmienie: „
+    - **a)**
+
+§ 1. Wniosek o wszczęcie egzekucji składa się stosownie do właściwości sądowi lub komornikowi. Wniosek składany komornikowi może być złożony na urzędowym formularzu. ” , dodaje się § 4 w brzmieniu: „
+
+- **b)**
+
+§ 4. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór i sposób udostępniania urzędowego formularza wniosku o wszczęcie egzekucji, mając na względzie ustawowe wymagania przewidziane dla tego pisma, potrzebę zamieszczenia niezbędnych pouczeń co do sposobu wypełniania formularza, wnoszenia pisma i skutków niedostosowania go do ustawowych wymagań, a także konieczność bezpłatnego udostępniania formularzy w kancelariach komorniczych, siedzibach sądów oraz sieci Internet w formie pozwalającej na dogodną edycję treści formularza. ” ;
+
+- **9)** art. 801–8012otrzymują brzmienie: „
+
+**Art. 801.**
+
+§ 1. Jeżeli wierzyciel albo sąd zarządzający z urzędu przeprowadzenie egzekucji albo uprawniony organ żądający przeprowadzenia egzekucji nie wskaże majątku pozwalającego na zaspokojenie świadczenia, komornik z urzędu:
+
+- **1)** ustala majątek dłużnika w zakresie znanym mu z innych prowadzonych postępowań albo na podstawie publicznie dostępnych źródeł informacji, albo rejestrów, do których ma dostęp drogą elektroniczną;
+- **2)** wzywa dłużnika do złożenia wykazu majątku
+
+§ 2. Jeżeli zachodzą wątpliwości, czy wniosek o podjęcie określonych czynności egzekucyjnych lub żądanie złożenia wyjaśnień lub udzielenia informacji w trybie art. 761 są niezbędne do zapewnienia prawidłowego toku egzekucji, lub zachodzą uzasadnione podstawy do przyjęcia, że zostały złożone wyłącznie w celu szykany dłużnika, komornik może zobowiązać wierzyciela do uzasadnienia wniosku pod rygorem obciążenia wierzyciela kosztem bezskutecznych czynności podjętych na jego skutek – niezależnie od wyniku sprawy.
+
+§ 3. Komornik oddali wniosek, o którym mowa w § 2, jeżeli w świetle okoliczności sprawy lub innych prowadzonych przeciwko temu samemu dłużnikowi postępowań egzekucyjnych wysoce prawdopodobne jest, że wniosek nie przyczyni się do zapewnienia prawidłowego toku egzekucji, a zachodzą jednocześnie uzasadnione podstawy do przyjęcia, że został on złożony wyłącznie w celu szykany dłużnika.
+
+§ 4. Jeżeli pomimo skierowania egzekucji do oznaczonych przez wierzyciela składników majątku dłużnika i podjęcia czynności przewidzianych w § 1 pkt 1 oraz odebrania od dłużnika wykazu majątku nie zdołano ustalić majątku dłużnika pozwalającego nawet na zaspokojenie kosztów egzekucyjnych, komornik wysłucha wierzyciela w sposób przewidziany w art. 827 § 1. W takim przypadku warunkiem żądania przez wierzyciela dalszego prowadzenia egzekucji jest zlecenie komornikowi poszukiwania majątku dłużnika.
+
+**Art. 8011.**
+
+§ 1. Dłużnik składa komornikowi, na piśmie lub ustnie do protokołu, wykaz majątku wraz z oświadczeniem o jego prawdziwości i zupełności pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Wzywając dłużnika do złożenia wykazu majątku, komornik uprzedza go o odpowiedzialności karnej za złożenie fałszywego oświadczenia oraz poucza, że w razie niezłożenia wykazu majątku wierzyciel może zlecić komornikowi poszukiwanie majątku dłużnika. § 2. Jeżeli dłużnik bez usprawiedliwionej przyczyny nie złoży wykazu majątku wraz z oświadczeniem o jego prawdziwości i zupełności albo nie udzieli odpowiedzi na zadane mu pytanie, komornik może ukarać go grzywną. § 3. Jeżeli dłużnik mimo ukarania go grzywną nie złożył wykazu majątku wraz z oświadczeniem o jego prawdziwości i zupełności, komornik właściwości ogólnej dłużnika na wniosek wierzyciela zwróci się do sądu o nakazanie przymusowego doprowadzenia dłużnika celem złożenia wykazu majątku wraz z oświadczeniem o jego prawdziwości i zupełności. § 4. Jeżeli postępowanie egzekucyjne prowadzone jest przez komornika niebędącego komornikiem właściwości ogólnej dłużnika, złożenie przez wierzyciela wniosku, o którym mowa w § 3, uważa się za żądanie przekazania sprawy komornikowi właściwości ogólnej. Wierzyciel może we wniosku wskazać komornika, któremu ma zostać przekazana sprawa. W przypadku braku wskazania przez wierzyciela komornika właściwego, komornik przekaże sprawę według własnego wyboru. § 5. Przepisy art. 916 § 3 oraz art. 919 stosuje się odpowiednio.
+
+**Art. 8012.** Wierzyciel może zlecić komornikowi poszukiwanie majątku dłużnika, jeżeli w drodze czynności przewidzianych w art. 801 § 1 pkt 1 nie zdołano ustalić majątku pozwalającego na zaspokojenie dochodzonego świadczenia. Poszukiwaniem majątku nie jest realizacja wniosków wierzyciela o zwrócenie się z żądaniem udzielenia informacji do podmiotów wymienionych w art. 761 § 11pkt 1–6. ” ;
+
+- **10)** w art. 805: w § 1 dodaje się zdanie drugie w brzmieniu: „ Komornik poucza dłużnika również o treści przepisów działu V tytułu I części trzeciej oraz prawie i sposobie złożenia wniosku o ograniczenie egzekucji, a także o treści art. 52a i art. 54 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2017 r. poz. 1876, z późn. zm.) oraz art. 13g ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2017 r. poz. 2065, z późn. zm.) i sposobie realizacji uprawnień wynikających z tych przepisów. ” , w § 11wyrazy „art. 825 pkt 2” zastępuje się wyrazami „art. 824 § 1 pkt 5”;
+    - **a)**
+    - **b)**
+
+- **11)** po art. 809 dodaje się art. 8091 w brzmieniu: „
+
+**Art. 8091.**
+
+§ 1. Utrwalaniu za pomocą urządzenia rejestrującego obraz i dźwięk podlega przebieg następujących czynności egzekucyjnych dokonywanych przez komornika poza kancelarią:
+
+- **1)** z udziałem dłużnika zmierzające do ustalenia jego stanu majątkowego;
+- **2)** zajęcie ruchomości;
+- **3)** wykonanie postanowienia o oddaniu ruchomości pod dozór innej osobie niż dłużnik;
+- **4)** licytacja ruchomości z wyłączeniem licytacji elektronicznej;
+- **5)** licytacja nieruchomości, chyba że jej przebieg jest utrwalany w sposób określony w art. 972 § 2;
+- **6)** oględziny nieruchomości;
+- **7)** wprowadzenie w zarząd nieruchomości w trybie art. 933;
+- **8)** opróżnienie pomieszczeń z osób lub rzeczy;
+- **9)** wydanie ruchomości i nieruchomości;
+- **10)** wprowadzenie w posiadanie;
+- **11)** przymusowe otwarcie pomieszczenia;
+- **12)** przeszukanie mieszkania lub pomieszczenia gospodarczego dłużnika.
+
+§ 2. Komornik utrwala przebieg czynności w trybie określonym w § 1, również gdy wniosek taki złoży co najmniej jedna ze stron postępowania.
+
+§ 3. Komornik uprzedza osoby uczestniczące w czynności o utrwalaniu przebiegu czynności, o których mowa w § 1 i 2. Komornik przerywa utrwalanie przebiegu czynności w miejscu zamieszkania dłużnika lub osoby trzeciej, jeżeli dłużnik lub ta osoba sprzeciwiają się temu, o czym należy te osoby pouczyć. Na żądanie osoby, która sprzeciwiła się utrwalaniu czynności, komornik podejmuje utrwalanie czynności na nowo, o czym należy te osoby pouczyć.
+
+§ 4. W przypadku utrwalania za pomocą urządzenia rejestrującego obraz i dźwięk przebiegu czynności, w protokole zamieszcza się poza elementami wymienionymi w art. 809 pkt 1, 2 i 4–7 jedynie zwięzłe sprawozdanie z przebiegu czynności. Powyższe nie zwalnia z obowiązku sporządzenia pełnego protokołu zajęcia.
+
+§ 5. Komornik umożliwia stronom i uczestnikom postępowania zapoznanie się z zapisem obrazu i dźwięku w siedzibie kancelarii komorniczej. Stronom ani uczestnikom postępowania nie wydaje się zapisu obrazu i dźwięku.
+
+§ 6. Minister Sprawiedliwości określi, w drodze rozporządzenia, rodzaje urządzeń i środków technicznych służących do utrwalania obrazu i dźwięku, sposób przechowywania, odtwarzania i kopiowania zapisów oraz sposób zapoznania się z zapisem obrazu i dźwięku, mając na uwadze konieczność właściwego zabezpieczenia utrwalonego obrazu i dźwięku przed utratą, zniekształceniem lub nieuprawnionym ujawnieniem oraz zapewnienie ochrony praw osób uczestniczących w postępowaniu oraz osób trzecich, których wizerunek został utrwalony. ” ;
+
+- **12)** art. 810 otrzymuje brzmienie: „
+
+**Art. 810.**
+
+§ 1. Komornik może wykonywać czynności poza kancelarią komorniczą w dni robocze, w godzinach od siódmej do dwudziestej pierwszej. Na wykonanie czynności w dni ustawowo wolne od pracy lub godzinach nocnych jest wymagana zgoda prezesa właściwego sądu rejonowego.
+
+§ 2. Czynności komornika rozpoczęte przed godziną dwudziestą pierwszą mogą być prowadzone w dalszym ciągu bez zgody, o której mowa w § 1, jeżeli ich przerwanie może znacznie utrudnić egzekucję. Przepisu zdania pierwszego nie stosuje się do czynności prowadzonych w miejscu zamieszkania dłużnika, chyba że jest to również miejsce prowadzenia przez niego działalności gospodarczej. ” ;
+
+- **13)** art. 820 otrzymuje brzmienie: „
+
+**Art. 820.** Organ egzekucyjny zawiesza postępowanie na wniosek wierzyciela. Na wniosek dłużnika postępowanie ulega zawieszeniu, jeżeli sąd zawiesił natychmiastową wykonalność tytułu lub wstrzymał jego wykonanie albo dłużnik złożył zabezpieczenie konieczne według orzeczenia sądowego do zwolnienia go od egzekucji. ” ;
+
+- **14)** art. 8211otrzymuje brzmienie: „
+
+**Art. 8211.** Jeżeli egzekucja została skierowana do rachunku bankowego, wynagrodzenia za pracę lub innych praw majątkowych, z którymi związane jest prawo dłużnika do świadczeń okresowych, sąd na wniosek dłużnika może określić kwotę, jaką dłużnik może pobierać w okresie zawieszenia postępowania w celu zaspokajania bieżących potrzeb. Na postanowienie sądu określające kwotę, którą dłużnik może pobierać w celu zaspokajania bieżących potrzeb, wierzycielowi służy zażalenie. ” ;
+
+- **15)** w art. 824 w § 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „
+- **5)** jeżeli prawomocnym orzeczeniem tytuł wykonawczy został pozbawiony wykonalności albo orzeczenie, na którym oparto klauzulę wykonalności, zostało uchylone lub utraciło moc;
+- **6)** jeżeli egzekucję skierowano przeciwko osobie, która według klauzuli wykonalności nie jest dłużnikiem, i która sprzeciwiła się prowadzeniu egzekucji, albo jeżeli prowadzenie egzekucji pozostaje z innych powodów w oczywistej sprzeczności z treścią tytułu wykonawczego. ” ;
+- **16)** w art. 825 uchyla się pkt 2 i 3;
+- **17)** w art. 829: pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** przedmioty urządzenia domowego niezbędne dla dłużnika i jego domowników, w szczególności lodówka, pralka, odkurzacz, piekarnik lub kuchenka mikrofalowa, płyta grzewcza służąca podgrzewaniu i przygotowywaniu posiłków, łóżka, stół i krzesła w liczbie niezbędnej dla dłużnika i jego domowników oraz po jednym źródle oświetlenia na izbę, chyba że są to przedmioty, których wartość znacznie przekracza przeciętną wartość nowych przedmiotów danego rodzaju; ” , po pkt 1 dodaje się pkt 11 w brzmieniu: „
+    - **b)**
+
+- **11)** pościel, bielizna i ubranie codzienne, w liczbie niezbędnej dla dłużnika i jego domowników, a także ubranie niezbędne do pełnienia służby lub wykonywania zawodu; ” ;
+- **18)** w art. 833: § 11i§ 2 otrzymują brzmienie: „
+    - **a)**
+
+§ 11. Przepisy art. 87 i art. 871 Kodeksu pracy stosuje się odpowiednio do zasiłków dla bezrobotnych, dodatków aktywizacyjnych, stypendiów oraz dodatków szkoleniowych, wypłacanych na podstawie ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2017 r. poz. 1065, z późn. zm.).
+
+§ 2. Przepisy art. 87 i art. 871 Kodeksu pracy stosuje się odpowiednio do uposażeń posłów i senatorów, należności członków rolniczych spółdzielni produkcyjnych i ich domowników z tytułu pracy w spółdzielni, wynagrodzeń członków spółdzielni pracy. ” , po § 2 dodaje się § 21 w brzmieniu: „
+
+- **b)**
+
+§ 21. Przepisy art. 87 i art. 871 Kodeksu pracy stosuje się odpowiednio do wszystkich świadczeń powtarzających się, których celem jest zapewnienie utrzymania albo stanowiących jedyne źródło dochodu dłużnika będącego osobą fizyczną. ” , § 3 otrzymuje brzmienie: „
+
+- **c)**
+
+§ 3. Ograniczeń przewidzianych w § 2 i 21nie stosuje się do wierzytelności członków rolniczych spółdzielni produkcyjnych z tytułu udziału w dochodach spółdzielni przypadających im od wniesionych do spółdzielni wkładów. ” ;
+
+- **19)** w art. 844 § 1 otrzymuje brzmienie: „
+
+§ 1. Egzekucja z ruchomości należy do komornika ogólnej właściwości dłużnika. Jeżeli dłużnik nie ma miejsca zamieszkania, siedziby lub oddziału na terytorium Rzeczypospolitej Polskiej, do przeprowadzenia egzekucji właściwy jest komornik tego sądu, w którego okręgu znajdują się ruchomości. ” ;
+
+- **20)** w art. 845: § 2 otrzymuje brzmienie: „
+    - **a)**
+
+§ 2. Zająć można ruchomości dłużnika będące w jego władaniu albo we władaniu samego wierzyciela, który do nich skierował egzekucję. Nie podlegają jednak zajęciu ruchomości, jeżeli z ujawnionych w sprawie okoliczności wynika, że nie stanowią one własności dłużnika. Ruchomości dłużnika będące we władaniu osoby trzeciej można zająć tylko wówczas, gdy osoba ta zgadza się na ich zajęcie albo przyznaje, że stanowią one własność dłużnika, oraz w przypadkach wskazanych w ustawie. Jednakże w razie zbiegu egzekucji sądowej i administracyjnej dopuszczalne jest zajęcie ruchomości na zasadach przewidzianych w przepisach o egzekucji administracyjnej. ” , § 2a oznacza się jako § 21, po § 21dodaje się § 22–24 w brzmieniu: „
+
+- **b)**
+- **c)**
+
+§ 22. Komornik umarza postępowanie w niezbędnym zakresie, jeżeli przedstawiono niebudzący wątpliwości dowód na piśmie, że zajęte ruchomości nie stanowią własności dłużnika. Nie dotyczy to sytuacji, w której sam dłużnik dokonał zbycia ruchomości na rzecz osoby trzeciej.
+
+§ 23. W przypadku złożenia przez osobę trzecią skargi na zajęcie, miesięczny termin do wniesienia powództwa, o którym mowa w art. 841 § 1, zaczyna biec dla tej osoby od dnia doręczenia jej postanowienia oddalającego skargę.
+
+§ 24
+
+## Tytuł wykonawczy wystawiony przeciwko osobie pozostającej w związku małżeńskim stanowi podstawę do zajęcia ruchomości wchodzącej w skład majątku wspólnego. Jeżeli zajęta ruchomość wchodzi w skład majątku wspólnego, dalsze czynności egzekucyjne dopuszczalne są na podstawie tytułu wykonawczego wystawionego przeciwko obojgu małżonkom.
+
+**Art. 853.**
+
+§ 1. Jeżeli przepis szczególny nie stanowi inaczej, komornik, dokonując zajęcia, szacuje wartość zajętych ruchomości i oznacza ją w protokole zajęcia.
+
+§ 2. Zastrzeżenia do oszacowania wartości dokonanego przez komornika wnosi się komornikowi do protokołu przy zajęciu ruchomości, a gdyby nie było to możliwe – w terminie trzech dni od dnia doręczenia odpisu protokołu zajęcia. W razie wniesienia zastrzeżeń komornik zamieszcza w protokole zajęcia wzmiankę o ich treści i wyznacza biegłego.
+
+§ 3. O sposobie i terminie wniesienia zastrzeżeń do oszacowania wartości komornik poucza strony, dokonując zajęcia, a jeżeli zajęcia dokonano pod nieobecność strony – przy doręczeniu protokołu zajęcia.
+
+§ 4. Jeżeli komornik uzna, że w celu oszacowania wartości należy wezwać biegłego, albo wierzyciel lub dłużnik wniósł zastrzeżenia, oszacowania wartości dokonuje komornik na podstawie opinii biegłego przy samym zajęciu, a gdyby to nie było możliwe, w terminie późniejszym. Jeżeli wartość zajętej ruchomości według oceny komornika przekracza dwadzieścia pięć tysięcy złotych, komornik wzywa do oszacowania wartości biegłego.
+
+§ 5. Jeżeli oszacowanie wartości zajętych ruchomości następuje po sporządzeniu protokołu zajęcia, komornik dokonuje tego oszacowania w drodze postanowienia. ” ;
+
+- **23)** w art. 855: § 1 otrzymuje brzmienie: „
+    - **a)**
+
+§ 1. Zajęte ruchomości komornik pozostawia pod dozorem osoby, u której je zajął. Jedynie z ważnych przyczyn komornik może, w każdym stanie postępowania, oddać zajęte ruchomości pod dozór innej osobie, nie wyłączając wierzyciela, choćby to było połączone z koniecznością ich przeniesienia. Osoba ta pełni obowiązki dozorcy. Komornik doręcza jej protokół zajęcia. Dozorcą nie może być komornik ani osoba przez niego zatrudniona, ich małżonkowie, dzieci, rodzice ani rodzeństwo. Komornik nie może nawet z ważnych przyczyn odebrać dozoru, jeżeli koszty przeniesienia lub przechowywania rzeczy byłyby niewspółmiernie wysokie w stosunku do jej wartości. ” , po § 1 dodaje się § 11–14 w brzmieniu: „
+
+- **b)**
+
+§ 11. Odebranie dozoru następuje w drodze postanowienia, którego uzasadnienie zawiera w szczególności wskazanie przyczyn odebrania dozoru.
+
+§ 12. O odebraniu dozoru komornik niezwłocznie zawiadamia sąd właściwy ze względu na siedzibę kancelarii komornika, przesyłając odpis postanowienia, o którym mowa w § 11, oraz nośnik zawierający nagranie z przebiegu czynności.
+
+§ 13. W razie uchylenia postanowienia, o którym mowa w § 11, sąd może obciążyć komornika kosztami związanymi z nieuzasadnionym odebraniem dozoru. W takim przypadku sumę wydatków i wysokość wynagrodzenia ustala postanowieniem sąd.
+
+§ 14. W przypadkach uzasadniających odebranie dozoru, komornik może przejąć pod osobisty dozór drobne ruchomości należące do dłużnika. W takim przypadku przepisu art. 858 nie stosuje się. Zajęte przedmioty przechowywane są w kancelarii komornika. Na polecenie sądu albo zgodne wezwanie obu stron komornik obowiązany jest wydać ruchomości uprawnionemu. ” ;
+
+- **24)** art. 8641otrzymuje brzmienie: „
+
+**Art. 8641.** Komornik może sprzedać ruchomości z wolnej ręki, jeżeli dłużnik wyraził na to zgodę i określił minimalną cenę zbycia. Sprzedaż może nastąpić, jeżeli żaden z wierzycieli prowadzących egzekucję nie sprzeciwił się jej w terminie tygodnia, a w przypadku ruchomości wymienionych w art. 864 § 2 – w terminie trzech dni, od dnia zawiadomienia go przez komornika o zamiarze jej przeprowadzenia i minimalnej cenie zbycia określonej przez dłużnika. ” ;
+
+- **25)** w art. 867: § 1 otrzymuje brzmienie: „
+    - **a)**
+
+§ 1. Zajęte ruchomości, niesprzedane według przepisów poprzedzających, z wyłączeniem przypadku, o którym mowa w art. 8661, komornik sprzedaje w drodze licytacji publicznej. ” , § 3 otrzymuje brzmienie: „
+
+- **b)**
+
+§ 3. Obwieszczenie o licytacji komornik doręcza dłużnikowi najpóźniej na tydzień przed rozpoczęciem licytacji. W przypadkach określonych w art. 864 § 2 obwieszczenie to doręcza się dłużnikowi przed rozpoczęciem licytacji. ” , uchyla się § 4 i 5;
+
+- **c)**
+- **26)** art. 8792otrzymuje brzmienie: „
+
+**Art. 8792.**
+
+§ 1. Komornik dokonuje sprzedaży w drodze licytacji elektronicznej na wniosek wierzyciela złożony po dokonaniu zajęcia. Jeżeli ruchomość została zajęta na zaspokojenie kilku wierzytelności dochodzonych w różnych postępowaniach, o trybie sprzedaży ruchomości decyduje wierzyciel, na którego wniosek nastąpiło pierwsze zajęcie.
+
+§ 2. W razie złożenia wniosku komornik oddaje zajęte ruchomości, co do których zajęcie uprawomocniło się, pod dozór innej osobie niż dłużnik, chyba że dłużnik daje rękojmię należytego sprawowania dozoru albo dozór taki został już ustanowiony, albo ruchomość została złożona do depozytu sądowego lub oddana na przechowanie właściwej instytucji. Przepisu art. 855 § 12nie stosuje się. W przypadku odebrania dozoru, początek licytacji nie może przypadać wcześniej niż po upływie dwóch tygodni od dnia odebrania dozoru. ” ;
+
+- **27)** w art. 8796§ 2 otrzymuje brzmienie: „
+
+§ 2. Komornik wyznacza termin rozpoczęcia i zakończenia licytacji elektronicznej w taki sposób, aby czas jej trwania wynosił co najmniej siedem dni, a jej zakończenie przypadało w godzinach urzędowania sądu rejonowego, przy którym działa komornik. W przypadku ruchomości wymienionych w art. 864 § 2 czas trwania licytacji wynosi co najmniej dwa dni. ” ;
+
+- **28)** w art. 913: po § 1 dodaje się § 11 w brzmieniu: „
+    - **a)**
+
+§ 11. Dłużnik składa wykaz, o którym mowa w § 1, pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia, o czym sąd poucza go przed odebraniem wykazu. ” , dodaje się § 3 w brzmieniu: „
+
+- **b)**
+
+§ 3. Komornik poucza wierzyciela występującego w sprawie bez adwokata, radcy prawnego, rzecznika patentowego lub radcy Prokuratorii Generalnej Rzeczypospolitej Polskiej o prawie i sposobie złożenia wniosku o wyjawienie majątku dłużnika, o którym mowa w § 1. Równocześnie z pouczeniem wierzyciela komornik poucza dłużnika występującego w sprawie bez adwokata, radcy prawnego, rzecznika patentowego lub radcy Prokuratorii Generalnej Rzeczypospolitej Polskiej o skutkach wyjawienia majątku, w szczególności o treści art. 55 pkt 3 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2017 r. poz. 700, 1089 i 1133 oraz z 2018 r. poz. 398 i 650). ” ;
+
+- **29)** w art. 916 dodaje się § 3 w brzmieniu: „
+
+§ 3. Jeżeli dłużnikiem jest osoba prawna lub jednostka organizacyjna, o której mowa w art. 64 § 11, środkom przymusu podlegają osoby uprawnione do działania w jej imieniu. ” ;
+
+- **30)** art. 9211otrzymuje brzmienie: „
+
+**Art. 9211.** O wszczęciu i ukończeniu egzekucji komornik zawiadamia sąd właściwy ze względu na miejsce położenia nieruchomości. ” ;
+
+- **31)** w art. 945 § 2 otrzymuje brzmienie: „
+
+§ 2. Komornik wzywa ponadto przez obwieszczenie publiczne w budynku sądowym i lokalu wójta (burmistrza, prezydenta miasta) oraz na stronie internetowej Krajowej Rady Komorniczej uczestników, o których nie ma wiadomości, oraz inne osoby, które roszczą sobie prawa do nieruchomości i przedmiotów razem z nią zajętych, aby przed ukończeniem opisu i oszacowania zgłosiły swoje prawa. ” ;
+
+- **32)** w art. 955 § 1 i 2 otrzymują brzmienie: „
+
+§ 1. Obwieszczenie o licytacji należy co najmniej dwa tygodnie przed jej terminem ogłosić publicznie na stronie internetowej oraz tablicy ogłoszeń sądu sprawującego nadzór nad egzekucją z nieruchomości, w lokalu organu gminy właściwego ze względu na miejsce położenia nieruchomości oraz na stronie internetowej Krajowej Rady Komorniczej.
+
+§ 2. Na wniosek i koszt strony komornik może zarządzić ogłoszenie również w inny wskazany przez nią sposób, w szczególności w dzienniku poczytnym w danej miejscowości. ” ;
+
+- **33)** art. 956 otrzymuje brzmienie: „
+
+**Art. 956.** Jeżeli egzekucja dotyczy jednej lub kilku nieruchomości położonych w różnych okręgach sądowych, obwieszczenie ogłasza się publicznie we wszystkich właściwych sądach. ” ;
+
+- **34)** w art. 972 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu: „
+
+§ 2. Przebieg licytacji sąd utrwala również za pomocą urządzenia rejestrującego dźwięk albo obraz i dźwięk. ” ;
+
+- **35)** art. 987 otrzymuje brzmienie: „
+
+**Art. 987.** Po zamknięciu przetargu sąd w osobie sędziego albo referendarz sądowy, pod którego nadzorem odbywa się licytacja, wydaje na posiedzeniu jawnym postanowienie co do przybicia na rzecz licytanta, który zaofiarował najwyższą cenę, po wysłuchaniu tak jego, jak i obecnych uczestników. ” ;
+
+- **36)** w art. 1003 § 2 otrzymuje brzmienie: „
+
+§ 2. Na podstawie samego postanowienia o przysądzeniu własności wykreśla się wszystkie hipoteki obciążające nieruchomość, jeżeli w postanowieniu stwierdzono złożenie całej ceny nabycia na rachunek depozytowy Ministra Finansów. ” ;
+
+- **37)** art. 1019 otrzymuje brzmienie: „
+
+**Art. 1019.** Obwieszczenie o licytacji należy co najmniej dwa tygodnie przed jej terminem ogłosić publicznie na stronie internetowej oraz tablicy ogłoszeń sądu, a także na stronie internetowej Krajowej Rady Komorniczej, jak również przesłać terenowym organom administracji morskiej właściwym dla portu, w którym statek się znajduje, oraz dla portu macierzystego statku w celu wywieszenia w tych portach. Komornik może zamieścić obwieszczenie o licytacji także w dzienniku poczytnym w danej miejscowości. ” ;
+
+- **38)** w art. 1027 § 1 i 2 otrzymują brzmienie: „
+
+§ 1. Odpis planu podziału doręcza się dłużnikowi, osobom uczestniczącym w podziale oraz innym osobom, które zgłosiły swój udział, a ich należności nie zostały uwzględnione w podziale.
+
+§ 2. Zarzuty przeciwko planowi podziału wnosi się do organu egzekucyjnego, który go sporządził, w terminie dwóch tygodni od dnia doręczenia tego planu. ” ;
+
+- **39)** w art. 1083 dodaje się § 4 i 5 w brzmieniu: „
+
+§ 4. Dłużnik może żądać zawieszenia postępowania egzekucyjnego co do świadczeń alimentacyjnych wymagalnych w przyszłości, jeżeli uiści wszystkie świadczenia wymagalne i złoży na rachunek depozytowy Ministra Finansów sumę równą sumie świadczeń alimentacyjnych za sześć miesięcy, z równoczesnym umocowaniem komornika do podejmowania tej sumy. Komornik skorzysta z tego umocowania, gdy stwierdzi, że dłużnik popadł w zwłokę z uiszczeniem świadczeń wymagalnych, równocześnie z urzędu podejmując postępowanie.
+
+§ 5. Zawieszenie postępowania egzekucyjnego w przypadku, o którym mowa w § 4, nie wyłącza możliwości podejmowania przez komornika czynności mających na celu wykonanie w przyszłości tytułu wykonawczego, w tym zajęcia majątku dłużnika. Sąd na wniosek dłużnika może, po wysłuchaniu stron, uchylić dokonane zajęcia. Na postanowienie sądu przysługuje zażalenie. ” .
+
+**Art. 262.** W ustawie z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2017 r. poz. 869 i 2491 oraz z 2018 r. poz. 106 i 650) w art. 15 w ust. 2 pkt 1c otrzymuje brzmienie: „
+
+- **1c)** komornikom sądowym i organom egzekucyjnym wymienionym w odrębnych przepisach – w związku z prowadzonym postępowaniem egzekucyjnym lub zabezpieczającym albo wykonywaniem postanowienia o zabezpieczeniu spadku lub ze sporządzaniem spisu inwentarza; ” .
+
+**Art. 263.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2018 r. poz. 755, 650 i 685) w art. 28b pkt 11 otrzymuje brzmienie: „
+
+- **11)** komornika sądowego – w związku z toczącym się postępowaniem egzekucyjnym lub zabezpieczającym w sprawie roszczeń wobec podmiotu będącego stroną umowy lub innej czynności prawnej objętej tajemnicą służbową albo wykonywaniem postanowienia o zabezpieczeniu spadku lub ze sporządzaniem spisu inwentarza dotyczących spadku po takim podmiocie – w zakresie informacji dotyczących tego podmiotu; ” .
+
+**Art. 264.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2017 r. poz. 1904, z późn. zm.) w art. 21 § 2 otrzymuje brzmienie: „
+
+§ 2. Prokurator zawiadamia również o wszczęciu postępowania przeciw funkcjonariuszom publicznym. W odniesieniu do wszczęcia postępowania przeciw komornikom sądowym, asesorom komorniczym i aplikantom komorniczym prokurator zawiadamia Ministra Sprawiedliwości, prezesa sądu apelacyjnego oraz prezesa sądu rejonowego właściwych ze względu na siedzibę kancelarii komorniczej. Prokurator zawiadamia o wszczęciu postępowania przeciw innym osobom, o których mowa w § 1 – jeżeli wymaga tego ważny interes publiczny. ” .
+
+**Art. 265.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, z późn. zm.) w art. 299 w § 3 pkt 8 otrzymuje brzmienie: „
+
+- **8)** komornikom sądowym w związku z toczącym się postępowaniem egzekucyjnym lub zabezpieczającym albo wykonywaniem postanowienia o zabezpieczeniu spadku lub ze sporządzaniem spisu inwentarza oraz administracyjnym organom egzekucyjnym w związku z toczącym się postępowaniem egzekucyjnym lub zabezpieczającym; ” .
+
+**Art. 266.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2017 r. poz. 1778, z późn. zm.) w art. 50:
+
+- **1)** ust. 10 otrzymuje brzmienie: „
+
+10. Dane zgromadzone na kontach, o których mowa w ust. 3, udostępnia się komornikom sądowym, w zakresie niezbędnym do prowadzenia postępowania egzekucyjnego lub zabezpieczającego albo wykonywania postanowienia o zabezpieczeniu spadku lub sporządzania spisu inwentarza, odpłatnie, chyba że przepisy odrębne stanowią inaczej. ” ;
+
+- **2)** po ust. 10ac dodaje się ust. 10ad w brzmieniu: „ 10ad. Udostępnienie danych, o których mowa w ust. 10, następuje w terminie 7 dni od dnia otrzymania wniosku komornika sądowego. ” .
+
+**Art. 267.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2017 r. poz. 2226 oraz z 2018 r. poz. 201) po art. 57 dodaje się art. 57a i art. 57b w brzmieniu: „
+
+§ 1. Komornik sądowy, który wbrew obowiązkowi, o którym mowa w art. 149 ust. 2 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771), nie przekazuje na rachunek właściwego urzędu skarbowego podlegających przekazaniu opłat egzekucyjnych albo przekazuje je w niewłaściwej wysokości, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności, albo obu tym karom łącznie.
+
+§ 2. Jeżeli kwota należności, o których mowa w § 1, jest małej wartości, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny do 720 stawek dziennych.
+
+§ 3. Jeżeli kwota należności, o których mowa w § 1, nie przekracza ustawowego progu, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny za wykroczenie skarbowe.
+
+§ 1. Komornik sądowy, który wbrew obowiązkowi nie składa właściwemu naczelnikowi urzędu skarbowego informacji, o której mowa w art. 149 ust. 5 ustawy z dnia 22 marca 2018 r. o komornikach sądowych, albo składa ją po terminie lub podaje w niej dane niezgodne ze stanem rzeczywistym, podlega karze grzywny do 720 stawek dziennych.
+
+§ 2. W wypadku mniejszej wagi sprawca czynu zabronionego określonego w § 1 podlega karze grzywny za wykroczenie skarbowe. ” .
+
+**Art. 268.** W ustawie z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2018 r. poz. 622 i 685) w art. 54 w ust. 1 pkt 8 otrzymuje brzmienie: „
+
+- **8)** komornika sądowego – w związku z toczącym się postępowaniem egzekucyjnym lub zabezpieczającym albo wykonywaniem postanowienia o zabezpieczeniu spadku lub ze sporządzaniem spisu inwentarza; ” .
+
+**Art. 269.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2018 r. poz. 23, 3, 5, 106 i 138) wprowadza się następujące zmiany:
+
+- **1)** w art. 12: w § 1a w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
+    - **a)**
+
+- **5)** egzekucyjny – do rozpoznawania spraw: o nadanie klauzuli wykonalności tytułom egzekucyjnym, o których mowa w art. 777 § 1 pkt 3–6 oraz art. 781 § 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 155, z późn. zm.), w tym również w przypadkach, o których mowa w art. 7781, art. 787, art. 7871, art. 788 i art. 789 tej ustawy, o ile nadanie klauzuli wykonalności nie należy do właściwości sądów gospodarczych, o nadanie klauzuli wykonalności tytułowi egzekucyjnemu, którym jest wydane w wydziale egzekucyjnym orzeczenie sądu albo referendarza sądowego prawomocne lub podlegające natychmiastowemu wykonaniu, ze skarg na czynności komornika sądowego wnoszonych na podstawie przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego oraz spraw, w których przepisy te stosuje się odpowiednio, w trybie art. 759 § 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, o wyłączenie komornika sądowego, o ustanowienie kuratora w postępowaniu egzekucyjnym, o wydanie zaświadczenia dla tytułów egzekucyjnych, o których mowa w art. 7951§ 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, w trybie art. 8011§ 2, art. 807 § 1, art. 813, art. 8202 i art. 8211 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, w trybie art. 115316 i art. 115318 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, o których mowa w tytułach II i III części trzeciej ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, w zakresie zastrzeżonym dla kompetencji sądu, z wyłączeniem spraw z zakresu prawa rodzinnego i opiekuńczego oraz spraw o wyjawienie majątku, o zwolnienie od kosztów sądowych przed wszczęciem postępowania w sprawach, o których mowa w przepisach poprzedzających, oraz zwolnienie od kosztów komorniczych. ” , § 1b otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
+    - **k)**
+    - **b)**
+
+1b. Rozpoznawanie spraw z zakresu prawa pracy lub ubezpieczeń społecznych, spraw gospodarczych oraz innych spraw z zakresu prawa gospodarczego i cywilnego należących do sądu gospodarczego na podstawie odrębnych ustaw, spraw, o których mowa w § 1a pkt 5, lub prowadzenie ksiąg wieczystych, należących do właściwości sądu rejonowego, w którym nie utworzono wydziału do tych spraw, Minister Sprawiedliwości przekazuje innemu sądowi rejonowemu, w trybie określonym w art. 20. ” ;
+
+- **2)** w art. 19: § 1 otrzymuje brzmienie: „
+    - **a)**
+
+§ 1. Minister Sprawiedliwości tworzy i znosi wydziały oraz wydziały i ośrodki zamiejscowe sądów w drodze zarządzenia, mając na względzie potrzebę zapewnienia racjonalnej organizacji sądownictwa, w szczególności przez dostosowanie liczby, rodzaju i wielkości wydziałów do obciążenia wpływem spraw, właściwą skalę etatyzacji, ekonomię postępowania sądowego oraz konieczność prawidłowego wykonywania czynności nadzorczych, w celu zagwarantowania realizacji prawa obywatela do rozpoznania jego sprawy w rozsądnym terminie; w zarządzeniu o utworzeniu wydziału oraz wydziału lub ośrodka zamiejscowego należy określić jego siedzibę, obszar właściwości oraz zakres spraw przekazanych do rozpoznawania. ” , po § 1 dodaje się § 1a w brzmieniu: „
+
+- **b)**
+
+§ 1a. Przy tworzeniu wydziałów egzekucyjnych uwzględnia się ponadto konieczność prawidłowego i sprawnego wykonywania nadzoru judykacyjnego nad komornikami sądowymi, mając na względzie w szczególności:
+
+- **1)** wpływ spraw, o których mowa w art. 12 § 1a pkt 5;
+- **2)** liczbę komorników sądowych, którzy podlegaliby nadzorowi judykacyjnemu utworzonego wydziału;
+- **3)** liczbę spraw prowadzonych przez komorników sądowych, którzy podlegaliby nadzorowi judykacyjnemu utworzonego wydziału. ” ;
+- **3)** w art. 20 w pkt 9 dodaje się przecinek i dodaje się pkt 10 w brzmieniu: „
+- **10)** może przekazać jednemu sądowi rejonowemu rozpoznanie spraw, o których mowa w art. 12 § 1a pkt 5, z właściwości lub części obszarów właściwości innych sądów rejonowych ” ;
+- **4)** w art. 27 dodaje się § 7 w brzmieniu: „
+
+§ 7. Prezes sądu rejonowego może być odwołany także przez Ministra Sprawiedliwości w przypadku rażącego niewywiązywania się z obowiązków służbowych w zakresie nadzoru nad komornikami sądowymi działającymi przy tym sądzie. Przepisy § 2–5 stosuje się odpowiednio. ” .
+
+**Art. 270.** W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2018 r. poz. 56, z 2017 r. poz. 2491 oraz z 2018 r. poz. 106, 138, 650 i 685) w art. 281 w ust. 1 pkt 10 otrzymuje brzmienie: „
+
+- **10)** komornika sądowego w związku z toczącym się postępowaniem egzekucyjnym lub zabezpieczającym albo wykonywaniem postanowienia o zabezpieczeniu spadku lub ze sporządzaniem spisu inwentarza, jeżeli są niezbędne w tym postępowaniu; ” .
+
+**Art. 271.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, z późn. zm.) w art. 188 ust. 5a otrzymuje brzmienie: „ 5a. Informacje i dane zgromadzone w Funduszu udostępnia się:
+
+- **1)** nieodpłatnie organom egzekucyjnym określonym w art. 19 i art. 20 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2017 r. poz. 1201, 1475, 1954 i 2491 oraz z 2018 r. poz. 138 i 398) – w zakresie niezbędnym do prowadzenia postępowania egzekucyjnego;
+- **2)** odpłatnie komornikom sądowym – w zakresie niezbędnym do prowadzenia postępowania egzekucyjnego lub zabezpieczającego albo wykonywania postanowienia o zabezpieczeniu spadku lub sporządzania spisu inwentarza. ” .
+
+**Art. 272.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2017 r. poz. 1768, z późn. zm.) w art. 149 pkt 9 otrzymuje brzmienie: „
+
+- **9)** komornika sądowego w związku z toczącym się postępowaniem zabezpieczającym lub egzekucyjnym w sprawie roszczeń wobec podmiotu będącego stroną umowy lub innej czynności prawnej objętej tajemnicą zawodową albo wykonywaniem postanowienia o zabezpieczeniu spadku lub ze sporządzaniem spisu inwentarza dotyczących spadku po takim podmiocie – w zakresie informacji dotyczących tego podmiotu; ” .
+
+**Art. 273.** W ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2017 r. poz. 2065, z późn. zm.) w art. 9f w ust. 1 pkt 15 otrzymuje brzmienie: „
+
+- **15)** na żądanie komornika sądowego w związku z toczącym się postępowaniem egzekucyjnym lub zabezpieczającym albo wykonywaniem postanowienia o zabezpieczeniu spadku lub ze sporządzaniem spisu inwentarza; ” .
+
+**Art. 274.** W ustawie z dnia 4 marca 2010 r. o świadczeniu usług na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2016 r. poz. 893 i 1948 oraz z 2017 r. poz. 60 i 1089) w art. 3 w ust. 1 pkt 12 otrzymuje brzmienie: „
+
+- **12)** ustawie z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771); ” .
+
+**Art. 275.** W ustawie z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych (Dz. U. z 2018 r. poz. 470, 650, 723 i 730) w art. 25 w ust. 1 pkt 15 otrzymuje brzmienie: „
+
+- **15)** komornicy sądowi – w związku z prowadzonymi przez nich postępowaniami egzekucyjnymi lub zabezpieczającymi albo wykonywaniem postanowienia o zabezpieczeniu spadku lub ze sporządzaniem spisu inwentarza; ” .
+
+**Art. 276.** W ustawie z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2017 r. poz. 657 i 2286 oraz z 2018 r. poz. 138, 696 i 730) wprowadza się następujące zmiany:
+
+- **1)** w art. 46 w ust. 1 pkt 3 otrzymuje brzmienie: „
+- **3)** komornikom sądowym – wyłącznie w zakresie niezbędnym do prowadzenia przez nich postępowania egzekucyjnego lub zabezpieczającego albo wykonywania postanowienia o zabezpieczeniu spadku lub sporządzania spisu inwentarza; ” ;
+- **2)** w art. 47: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Podmiotom, o których mowa w art. 46 ust. 2, udostępnia się dane jednostkowe, na ich wniosek złożony w formie pisemnej lub dokumentu elektronicznego przy wykorzystaniu środków komunikacji elektronicznej, na zasadach określonych w ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne. Dane te są przekazywane, w zależności od żądania wnioskodawcy, w formie pisemnej lub dokumentu elektronicznego przy wykorzystaniu środków komunikacji elektronicznej, na zasadach określonych w ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+
+- **b)**
+
+3a. Organ, który otrzymał wniosek w formie, o której mowa w ust. 1, skierowany przez podmiot zobowiązany na podstawie art. 48 ust. 1 do korzystania z urządzeń teletransmisji danych, odmawia, w drodze postanowienia, wszczęcia postępowania. ” ;
+
+- **3)** w art. 48 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
+
+2. Podmiotom, o których mowa w art. 46 ust. 1, udostępnia się dane na zasadach określonych w art. 47, jeżeli w roku poprzedzającym złożenie wniosku wnioskowały o udostępnienie danych z rejestru PESEL albo rejestru mieszkańców w liczbie nieprzekraczającej trzystu danych jednostkowych. ” ;
+
+- **4)** w art. 49 ust. 1 otrzymuje brzmienie: „
+
+1. Podmiotom, o których mowa w art. 46 ust. 1, udostępnia się za pomocą urządzeń teletransmisji danych, w drodze weryfikacji, dane zawarte w rejestrze PESEL. Warunkiem udostępniania danych w tym trybie jest złożenie jednorazowego wniosku, spełnienie łącznie warunków określonych w art. 48 ust. 1 oraz uzyskanie zgody wydanej na podstawie art. 51 ust. 2 pkt 1. ” ;
+
+- **5)** w art. 51: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. W sprawach o udostępnianie danych za pomocą urządzeń teletransmisji danych, o których mowa w art. 48 ust. 1, właściwy organ w drodze decyzji administracyjnej:
+
+- **1)** wyraża zgodę na udostępnianie danych za pomocą urządzeń teletransmisji danych, po spełnieniu warunków określonych w art. 48 ust. 1;
+- **2)** odmawia wyrażenia zgody na udostępnianie danych za pomocą urządzeń teletransmisji danych albo cofa zgodę na ich udostępnianie za pomocą urządzeń teletransmisji danych, jeżeli nie zostały spełnione warunki określone w art. 48 ust. 1. ” , w ust. 2 pkt 1 i 2 otrzymują brzmienie: „
+    - **b)**
+
+- **1)** wyraża zgodę na udostępnianie danych w drodze weryfikacji, po spełnieniu warunków określonych w art. 46 ust. 2 pkt 1 oraz art. 48 ust. 1;
+- **2)** odmawia wyrażenia zgody na udostępnianie danych w drodze weryfikacji danych albo cofa zgodę na ich udostępnianie w drodze weryfikacji, jeżeli nie zostały spełnione warunki określone w art. 46 ust. 2 pkt 1 lub art. 48 ust. 1. ” ;
+- **6)** w art. 52: pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** wzór uproszczonego wniosku o udostępnianie danych z rejestru mieszkańców oraz rejestru PESEL, o którym mowa w art. 48 ust. 1, ” , część wspólna otrzymuje brzmienie: „ – uwzględniając konieczność wykazania przez podmioty, o których mowa w art. 46 ust. 2 pkt 1, interesu prawnego w uzyskaniu danych oraz warunki, o których mowa w art. 48 ust. 1, a także konieczność opracowania wzorów wniosku, o którym mowa w pkt 1, w formie graficznej i elektronicznej. ” ;
+    - **b)**
+
+- **7)** w art. 57: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Minister właściwy do spraw informatyzacji może przeprowadzać kontrolę podmiotów, które korzystają z dostępu do danych za pomocą udostępniania danych w drodze weryfikacji, w zakresie spełniania przez te podmioty warunków, o których mowa w art. 46 ust. 2 pkt 1 lub art. 48 ust. 1. ” , ust. 5 otrzymuje brzmienie: „
+
+- **b)**
+
+5. Podmiot kontrolowany w zakresie spełnienia warunków, o których mowa w art. 46 ust. 2 pkt 1 lub art. 48 ust. 1, jest obowiązany udostępnić dokumenty i urządzenia, o których mowa w ust. 4, oraz zapewnić warunki i środki niezbędne do przeprowadzenia kontroli, w tym swobodny dostęp do pomieszczeń. ” ;
+
+- **8)** w art. 58 część wspólna otrzymuje brzmienie: „ – biorąc pod uwagę wymagania, o których mowa w art. 46 ust. 2 pkt 1 i art. 48 ust. 1. ” .
+
+**Art. 277.** W ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2017 r. poz. 2206 i 2282 oraz z 2018 r. poz. 107 i 138) w art. 450 w ust. 2 pkt 2 otrzymuje brzmienie: „
+
+- **2)** komornikom sądowym – w zakresie niezbędnym do prowadzenia przez nich postępowania egzekucyjnego lub zabezpieczającego albo wykonywania postanowienia o zabezpieczeniu spadku lub sporządzania spisu inwentarza; ” .
+
+**Art. 278.** W ustawie z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2017 r. poz. 1170, z późn. zm.) w art. 35 w ust. 2 pkt 4 otrzymuje brzmienie: „
+
+- **4)** komornika sądowego, w związku z toczącym się postępowaniem egzekucyjnym lub zabezpieczającym albo wykonywaniem postanowienia o zabezpieczeniu spadku lub ze sporządzaniem spisu inwentarza; ” .
+
+**Art. 279.** W ustawie z dnia 8 grudnia 2017 r. o Sądzie Najwyższym (Dz. U. z 2018 r. poz. 5 i 650) w art. 27 w § 1 w pkt 1 w lit. b w tiret siódmym średnik zastępuje się przecinkiem i dodaje się tiret ósme w brzmieniu: „ – z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771); ” .
+
 #### Rozdział 13 Przepisy przejściowe i dostosowujące
 
 **Art. 280.**
@@ -2648,7 +3229,7 @@ Art. 261–279. (pominięte)
 
 3. Osoby będące aplikantami komorniczymi w dniu wejścia w życie niniejszej ustawy stają się z tym dniem aplikantami w rozumieniu niniejszej ustawy.
 
-**Art. 281.** (uchylony)
+**Art. 281.** Powołanie na stanowisko komornika osób, które przed dniem wejścia w życie niniejszej ustawy ukończyły 65 lat, wygasa z upływem 2 lat od dnia wejścia w życie niniejszej ustawy, nie później jednak niż z dniem ukończenia 70. roku życia.
 
 **Art. 282.** Zastępstwo komornika ustanowione na dotychczasowych zasadach zachowuje ważność w okresie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
@@ -2702,35 +3283,34 @@ Art. 261–279. (pominięte)
 
 **Art. 294.** W stosunku do osób zatrudnionych w dniu wejścia w życie niniejszej ustawy na stanowisku asesora przepisu art. 144 ust. 1 pkt 5 nie stosuje się.
 
-**Art. 295.**
-
-1. Po dniu 31 grudnia 2020 r. dopuszczalne jest dalsze przetwarzanie, przechowywanie i udostępnianie dokumentacji, o której mowa w art. 155 ust. 1 i art. 156, w postaci dotychczasowej, o ile została ona w tej postaci wytworzona.
-
-2. Jeżeli po dniu 31 grudnia 2020 r. prowadzenie, przechowywanie, przetwarzanie i udostępnianie w systemie teleinformatycznym, o którym mowa w art. 158 ust. 1, akt spraw komorniczych oraz urządzeń ewidencyjnych napotka trudne do przezwyciężenia przeszkody, komornik wytwarza, przetwarza, przechowuje i udostępnia tę dokumentację z pominięciem systemu teleinformatycznego.
+**Art. 295.** Do dnia 31 grudnia 2020 r. dokumentacja, o której mowa w art. 155 ust. 1 i art. 156, może być również tworzona, przetwarzana, przechowywana i udostępniana w postaci dotychczasowej.
 
 **Art. 296.** Komornicy mogą przez rok od dnia wejścia w życie niniejszej ustawy używać pieczęci spełniającej wymagania określone w dotychczasowych przepisach.
 
 **Art. 297.** W przypadku przekazania jednemu sądowi rejonowemu rozpoznawania spraw egzekucyjnych z obszaru właściwości lub części obszarów właściwości innych sądów rejonowych, wszczęte i niezakończone postępowania toczące się przed sądem rejonowym, w którym nie utworzono wydziału egzekucyjnego, a które należałyby do właściwości wydziałów egzekucyjnych:
 
+- **1)** są nadal prowadzone przez właściwy dotąd sąd rejonowy, o ile dotyczą spraw, o których mowa w art. 12 § 1a pkt 5 lit. a-e ustawy zmienianej w art. 269, oraz spraw w przedmiocie nadzoru nad egzekucją z nieruchomości, jeżeli w dniu wejścia w życie niniejszej ustawy został już wyznaczony termin licytacji nieruchomości przypadający po dniu wejścia w życie niniejszej ustawy albo zamknięcie przetargu nastąpiło przed dniem wejścia w życie niniejszej ustawy;
+- **2)** zostaną przekazane do właściwych sądów, jeżeli dotyczą pozostałych, niewymienionych w pkt 1, spraw, które należą do właściwości wydziałów egzekucyjnych.
+
 **Art. 298.**
 
-1. Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 261 , w brzmieniu nadanym niniejszą ustawą.
+1. Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 261, w brzmieniu nadanym niniejszą ustawą.
 
-2. Przepisy działu I tytułu II części trzeciej ustawy zmienianej w art. 261 , w brzmieniu nadanym niniejszą ustawą, stosuje się do egzekucji z ruchomości wszczętej po dniu wejścia w życie niniejszej ustawy.
+2. Przepisy działu I tytułu II części trzeciej ustawy zmienianej w art. 261, w brzmieniu nadanym niniejszą ustawą, stosuje się do egzekucji z ruchomości wszczętej po dniu wejścia w życie niniejszej ustawy.
 
-3. Przepis art. 761 ustawy zmienianej w art. 261 , w brzmieniu nadanym niniejszą ustawą, stosuje się również do postępowań w przedmiocie zabezpieczenia spadku i sporządzenia spisu inwentarza, w tym postępowań mających na celu wykonanie postanowienia o zabezpieczeniu spadku i sporządzeniu spisu inwentarza, wszczętych i niezakończonych przed dniem wejścia w życie ustawy z dnia 20 marca 2015 r. o zmianie ustawy – Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 539).
+3. Przepis art. 761 ustawy zmienianej w art. 261, w brzmieniu nadanym niniejszą ustawą, stosuje się również do postępowań w przedmiocie zabezpieczenia spadku i sporządzenia spisu inwentarza, w tym postępowań mających na celu wykonanie postanowienia o zabezpieczeniu spadku i sporządzeniu spisu inwentarza, wszczętych i niezakończonych przed dniem wejścia w życie ustawy z dnia 20 marca 2015 r. o zmianie ustawy – Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 539).
 
-4. Do skarg na czynności komornika składanych po dniu wejścia w życie niniejszej ustawy stosuje się przepis art. 767 § 5 ustawy zmienianej w art. 261 , z tym że skargi na czynność komornika dotyczące postępowań egzekucyjnych wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy komornik, w przypadku braku podstaw do ich uwzględnienia, przekazuje sądowi właściwemu zgodnie z przepisami dotychczasowymi.
+4. Do skarg na czynności komornika składanych po dniu wejścia w życie niniejszej ustawy stosuje się przepis art. 767 § 5 ustawy zmienianej w art. 261, z tym że skargi na czynność komornika dotyczące postępowań egzekucyjnych wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy komornik, w przypadku braku podstaw do ich uwzględnienia, przekazuje sądowi właściwemu zgodnie z przepisami dotychczasowymi.
 
-5. Postanowienia o zastosowaniu aresztu wydane przed dniem wejścia w życie niniejszej ustawy, na podstawie art. 801 § 2 ustawy zmienianej w art. 261 w brzmieniu dotychczasowym, nie podlegają wykonaniu.
+5. Postanowienia o zastosowaniu aresztu wydane przed dniem wejścia w życie niniejszej ustawy, na podstawie art. 8011§ 2 ustawy zmienianej w art. 261 w brzmieniu dotychczasowym, nie podlegają wykonaniu.
 
-6. Przepis art. 1003 § 2 ustawy zmienianej w art. 261 , w brzmieniu nadanym niniejszą ustawą, stosuje się do postanowień o przysądzeniu własności wydanych po dniu wejścia w życie niniejszej ustawy.
+6. Przepis art. 1003 § 2 ustawy zmienianej w art. 261, w brzmieniu nadanym niniejszą ustawą, stosuje się do postanowień o przysądzeniu własności wydanych po dniu wejścia w życie niniejszej ustawy.
 
 **Art. 299.**
 
 1. Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 276 w brzmieniu dotychczasowym.
 
-2. Podmiotom, o których mowa w art. 46 ust. 1 ustawy zmienianej w art. 276 , w brzmieniu nadanym niniejszą ustawą, którym do dnia wejścia w życie niniejszej ustawy nie wydano decyzji o wyrażeniu zgody na udostępnianie danych za pomocą urządzeń teletransmisji danych, udostępnia się dane jednostkowe w sposób określony w art. 47 ustawy zmienianej w art. 276 , w brzmieniu dotychczasowym, nie dłużej jednak niż przez 4 miesiące od dnia wejścia z życie niniejszej ustawy.
+2. Podmiotom, o których mowa w art. 46 ust. 1 ustawy zmienianej w art. 276, w brzmieniu nadanym niniejszą ustawą, którym do dnia wejścia w życie niniejszej ustawy nie wydano decyzji o wyrażeniu zgody na udostępnianie danych za pomocą urządzeń teletransmisji danych, udostępnia się dane jednostkowe w sposób określony w art. 47 ustawy zmienianej w art. 276, w brzmieniu dotychczasowym, nie dłużej jednak niż przez 4 miesiące od dnia wejścia z życie niniejszej ustawy.
 
 **Art. 300.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 17a ust. 3, art. 17b ust. 2, art. 17c ust. 2, art. 24 ust. 2, art. 29b ust. 13, art. 29l ust. 3, art. 31i, art. 37b ust. 4, art. 66 ust. 3 i art. 69 ustawy uchylanej w art. 305, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 29 ust. 4, art. 37 ust. 4, art. 76 ust. 2, art. 87, art. 95 ust. 5, art. 103, art. 106 ust. 2, art. 107, art. 123, art. 128, art. 162 ust. 2, art. 164 ust. 5, art. 186 ust. 3, art. 187 i art. 203 ust. 2 niniejszej ustawy, jednak nie dłużej niż przez 12 miesięcy od dnia jej wejścia w życie.
 
@@ -2738,11 +3318,11 @@ Art. 261–279. (pominięte)
 
 1. W terminie roku od dnia wejścia w życie niniejszej ustawy Krajowa Rada Komornicza zakończy prowadzenie działalności gospodarczej.
 
-2. W terminie roku od dnia wejścia w życie niniejszej ustawy Krajowa Rada Komornicza oraz izby komornicze dokonają zbycia posiadanych akcji lub udziałów w spółkach prawa handlowego w zakresie, w jakim liczba posiadanych akcji lub procent udziałów przekraczają limity, o których mowa w art. 196 ust. 4.
+2. W terminie roku od dnia wejścia w życie niniejszej ustawy Krajowa Rada Komornicza oraz izby komornicze dokonają zbycia posiadanych akcji lub udziałów w spółkach prawa handlowego w zakresie, w jakim liczba posiadanych akcji lub procent udziałów przekraczają limity, o których mowa w art. 196 ust. 3.
 
 3. W terminie roku od dnia wejścia w życie niniejszej ustawy komornicy dostosują się do zakazów, o których mowa w art. 33 ust. 2 i 4 oraz art. 34 ust. 1 i 2. Przepis stosuje się odpowiednio do asesorów.
 
-4. W terminie roku od dnia wejścia w życie niniejszej ustawy komornicy dostosują urządzenia informatyczne kancelarii w celu umożliwienia należytego wywiązywania się z obowiązku, o którym mowa w art. 761 § 2 ustawy zmienianej w art. 261 .
+4. W terminie roku od dnia wejścia w życie niniejszej ustawy komornicy dostosują urządzenia informatyczne kancelarii w celu umożliwienia należytego wywiązywania się z obowiązku, o którym mowa w art. 761 § 22 ustawy zmienianej w art. 261.
 
 **Art. 302.**
 
@@ -2762,7 +3342,7 @@ Art. 261–279. (pominięte)
 
 **Art. 304.**
 
-1. W terminie 18 miesięcy od dnia wejścia w życie niniejszej ustawy komornicy złożą we właściwych sądach rejonowych wnioski o wykreślenie w księdze wieczystej wpisu o wszczęciu egzekucji lub usunięcie wniosku o wszczęcie egzekucji ze zbioru dokumentów również w zakończonych postępowaniach, w których ze względu na datę wszczęcia postępowania nie stosuje się przepisu art. 924 § 2 ustawy zmienianej w art. 261 . Obowiązek poprawienia lub uzupełnienia wniosku spoczywa na komorniku.
+1. W terminie 18 miesięcy od dnia wejścia w życie niniejszej ustawy komornicy złożą we właściwych sądach rejonowych wnioski o wykreślenie w księdze wieczystej wpisu o wszczęciu egzekucji lub usunięcie wniosku o wszczęcie egzekucji ze zbioru dokumentów również w zakończonych postępowaniach, w których ze względu na datę wszczęcia postępowania nie stosuje się przepisu art. 924 § 2 ustawy zmienianej w art. 261. Obowiązek poprawienia lub uzupełnienia wniosku spoczywa na komorniku.
 
 2. Czynności, o których mowa w ust. 1, komornicy podejmują z urzędu w sprawach, w których egzekucję z nieruchomości zakończono nie wcześniej niż 6 lat przed dniem wejścia w życie niniejszej ustawy. W pozostałych sprawach komornicy podejmują czynności, o których mowa w ust. 1, na wniosek dłużnika albo wierzyciela wszczynającego egzekucję z tej samej nieruchomości.
 
@@ -2770,7 +3350,7 @@ Art. 261–279. (pominięte)
 
 #### Rozdział 14 Przepisy końcowe
 
-**Art. 305.** Traci moc ustawa z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji (Dz. U. z 2017 r. poz. 1277, 1343, 1452 i 1910).
+**Art. 305.** Traci moc ustawa z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji (Dz. U. z 2017 r. poz. 1277, 1343, 1452 i 1910 oraz z 2018 r. poz. 398).
 
-**Art. 306.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem:
+**Art. 306.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem art. 12 ust. 1 i art. 289, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
 

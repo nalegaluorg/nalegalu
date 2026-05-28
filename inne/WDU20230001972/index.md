@@ -8,12 +8,10 @@ pos: 1972
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o niektórych zawodach medycznych
-
-*USTAWA z dnia 17 sierpnia 2023 r.*
+# Ustawa z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +22,11 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2023-08-17 |
 | Data wydania | 2023-09-25 |
+| Wejście w życie | 2024-03-26 |
 | Ostatnia zmiana | 2025-12-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001972) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1972/text.pdf) |
+
+Załącznik – Wykształcenie uzyskane w systemie szkolnictwa wyższego i nauki, kwalifikacje uzyskane w systemie oświaty lub inne kwalifikacje wymagane do wykonywania danego zawodu medycznego
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -33,25 +34,27 @@ source: "isap-pdf"
 
 1. Ustawa określa zasady:
 
-- **1)** wykonywania następujących zawodów medycznych:
-    - **a)** asystentka stomatologiczna,
-    - **b)** elektroradiolog,
-    - **c)** higienistka stomatologiczna,
-    - **d)** instruktor terapii uzależnień,
-    - **e)** opiekun medyczny,
-    - **f)** optometrysta,
-    - **g)** ortoptystka,
-    - **h)** podiatra,
-    - **i)** profilaktyk,
-    - **j)** protetyk słuchu,
-    - **k)** technik farmaceutyczny,
-    - **l)** technik masażysta,
-    - **m)** technik ortopeda,
-    - **n)** technik sterylizacji medycznej,
-    - **o)** terapeuta zajęciowy;
+- **1)** wykonywania następujących zawodów medycznych: asystentka stomatologiczna, elektroradiolog, higienistka stomatologiczna, instruktor terapii uzależnień, opiekun medyczny, optometrysta, ortoptystka, podiatra, profilaktyk, protetyk słuchu, technik farmaceutyczny, technik masażysta, technik ortopeda, technik sterylizacji medycznej, terapeuta zajęciowy;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
+    - **k)**
+    - **l)**
+    - **m)**
+    - **n)**
+    - **o)**
 
 - **2)** ustawicznego rozwoju zawodowego osób wykonujących zawody medyczne, o których mowa w pkt 1;
-- **3)** odpowiedzialności zawodowej osób wykonujących zawody medyczne, o których mowa w pkt 1. prowadzenia konsultacji dietetycznych oraz udzielania porad edukacyjnych w ramach świadczeń gwarantowanych, o których mowa w art. 5 pkt 35 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461), stosuje się odpowiednio przepisy art. 2 ust. 1 pkt 1–5 i ust. 2, art. 10 ust. 1, art. 15–18 i art. 41–83.
+- **3)** odpowiedzialności zawodowej osób wykonujących zawody medyczne, o których mowa w pkt 1.
+
+2. Do osób wykonujących czynności zawodowe w zakresie planowania diety, prowadzenia konsultacji dietetycznych oraz udzielania porad edukacyjnych w ramach świadczeń gwarantowanych, o których mowa w art. 5 pkt 35 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm.), stosuje się odpowiednio przepisy art. 2 ust. 1 pkt 1–5 i ust. 2, art. 10 ust. 1, art. 15–18 i art. 41–83.
 
 3. Ilekroć w ustawie jest mowa o zawodzie medycznym, należy przez to rozumieć zawody wymienione w ust. 1 pkt 1.
 
@@ -63,12 +66,12 @@ source: "isap-pdf"
 - **2)** nie była prawomocnie skazana za umyślne przestępstwo ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe;
 - **3)** korzysta z pełni praw publicznych;
 - **4)** wykazuje znajomość języka polskiego w mowie i piśmie w zakresie niezbędnym do wykonywania danego zawodu medycznego oraz złożyła oświadczenie o następującej treści: „Oświadczam, że władam językiem polskim w mowie i piśmie w zakresie niezbędnym do wykonywania zawodu medycznego.”;
-- **5)** posiada:
-    - **a)** wykształcenie uzyskane w systemie szkolnictwa wyższego i nauki, kwalifikacje uzyskane w systemie oświaty lub inne kwalifikacje, wymagane do wykonywania danego zawodu medycznego, określone w załączniku do ustawy, i posiada dokument potwierdzający uzyskanie tego wykształcenia lub tych kwalifikacji lub
-    - **b)** kwalifikacje wymagane do wykonywania danego zawodu medycznego uzyskane w państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, uznane w Rzeczypospolitej Polskiej na podstawie przepisów ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2023 r. poz. 334 oraz z 2025 r. poz. 619), lub
-    - **c)** dokument potwierdzający uzyskanie kwalifikacji wymaganych do wykonywania danego zawodu medycznego wydany w państwie innym niż państwo członkowskie Unii Europejskiej, Konfederacja Szwajcarska lub (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym, uznany w Rzeczypospolitej Polskiej, zgodnie z przepisami o szkolnictwie wyższym i nauce, za równoważny odpowiedniemu polskiemu dyplomowi i tytułowi zawodowemu, lub
-    - **d)** kwalifikacje wymagane do wykonywania danego zawodu medycznego uzyskane przed dniem 1 stycznia 2021 r. w Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej, uznane w Rzeczypospolitej Polskiej na podstawie przepisów ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej, lub
-    - **e)** dokument uprawniający do wykonywania danego zawodu medycznego uznany na mocy umowy międzynarodowej lub porozumienia;
+- **5)** posiada: wykształcenie uzyskane w systemie szkolnictwa wyższego i nauki, kwalifikacje uzyskane w systemie oświaty lub inne kwalifikacje, wymagane do wykonywania danego zawodu medycznego, określone w załączniku do ustawy, i posiada dokument potwierdzający uzyskanie tego wykształcenia lub tych kwalifikacji lub kwalifikacje wymagane do wykonywania danego zawodu medycznego uzyskane w państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, uznane w Rzeczypospolitej Polskiej na podstawie przepisów ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2023 r. poz. 334), lub dokument potwierdzający uzyskanie kwalifikacji wymaganych do wykonywania danego zawodu medycznego wydany w państwie innym niż państwo członkowskie Unii Europejskiej, Konfederacja Szwajcarska lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym, uznany w Rzeczypospolitej Polskiej, zgodnie z przepisami o szkolnictwie wyższym i nauce, za równoważny odpowiedniemu polskiemu dyplomowi i tytułowi zawodowemu, lub kwalifikacje wymagane do wykonywania danego zawodu medycznego uzyskane przed dniem 1 stycznia 2021 r. w Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej, uznane w Rzeczypospolitej Polskiej na podstawie przepisów ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej, lub dokument uprawniający do wykonywania danego zawodu medycznego uznany na mocy umowy międzynarodowej lub porozumienia;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 - **6)** posiada wpis do Centralnego Rejestru Osób Uprawnionych do Wykonywania Zawodu Medycznego.
 
@@ -80,13 +83,15 @@ source: "isap-pdf"
 
 **Art. 3.**
 
-1. Centralny Rejestr Osób Uprawnionych do Wykonywania Zawodu Medycznego, zwany dalej „rejestrem”, jest rejestrem publicznym w rozumieniu art. 3 pkt 5 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557 i 1717 oraz z 2025 r. poz. 1006, 1019, 1158 i 1301) prowadzonym przez ministra właściwego do spraw zdrowia.
+1. Centralny Rejestr Osób Uprawnionych do Wykonywania Zawodu Medycznego, zwany dalej „rejestrem”, jest rejestrem publicznym w rozumieniu art. 3 pkt 5 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz. 57, 1123, 1234 i 1703) prowadzonym przez ministra właściwego do spraw zdrowia.
 
-2. Administratorem danych zawartych w rejestrze jest minister właściwy do spraw zdrowia. udostępnionego przez jednostkę podległą ministrowi właściwemu do spraw zdrowia właściwą w zakresie systemów informacyjnych ochrony zdrowia.
+2. Administratorem danych zawartych w rejestrze jest minister właściwy do spraw zdrowia.
+
+3. Rejestr jest prowadzony z wykorzystaniem systemu teleinformatycznego udostępnionego przez jednostkę podległą ministrowi właściwemu do spraw zdrowia właściwą w zakresie systemów informacyjnych ochrony zdrowia.
 
 4. Wojewoda właściwy ze względu na miejsce zamieszkania osoby wykonującej zawód medyczny, a w przypadku gdy nie jest możliwe ustalenie właściwego wojewody – Wojewoda Mazowiecki, zwany dalej „organem właściwym”, udostępnia dane osób wykonujących zawody medyczne ministrowi właściwemu do spraw zdrowia.
 
-5. Dane osób wykonujących zawód medyczny zawarte w rejestrze są udostępniane systemowi informacji w ochronie zdrowia, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2025 r. poz. 302 i 779).
+5. Dane osób wykonujących zawód medyczny zawarte w rejestrze są udostępniane systemowi informacji w ochronie zdrowia, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2022 r. poz. 1555, 2280 i 2705 oraz z 2023 r. poz. 650, 1234 i 1692).
 
 6. Przy prowadzeniu rejestru korzysta się z informacji zawartych w rejestrach publicznych dostępnych w postaci elektronicznej w zakresie danych objętych wnioskiem o wpis do rejestru w celu weryfikacji danych wpisanych do rejestru.
 
@@ -100,7 +105,7 @@ source: "isap-pdf"
 
 - **1)** dane, o których mowa w art. 4 ust. 1 pkt 5 lit. a i b, jeżeli zostały zmienione w rejestrze PESEL,
 - **2)** dane, o których mowa w art. 4 ust. 1 pkt 5 lit. d oraz pkt 8 w zakresie adresu miejsca wykonywania zawodu medycznego, jeżeli zostały zmienione w krajowym rejestrze urzędowym podziału terytorialnego kraju,
-- **3)** dana, o której mowa w art. 4 ust. 1 pkt 5 lit. e w zakresie adresu poczty elektronicznej, jeżeli została zmieniona w ramach krajowego schematu identyfikacji elektronicznej, o którym mowa w art. 21a ust. 1 ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2024 r. poz. 1725) – jeżeli w danym przypadku jest to możliwe.
+- **3)** dana, o której mowa w art. 4 ust. 1 pkt 5 lit. e w zakresie adresu poczty elektronicznej, jeżeli została zmieniona w ramach krajowego schematu identyfikacji elektronicznej, o którym mowa w art. 21a ust. 1 ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2021 r. poz. 1797 oraz z 2023 r. poz. 1234) jeżeli w danym przypadku jest to możliwe.
 
 **Art. 4.**
 
@@ -108,43 +113,39 @@ source: "isap-pdf"
 
 - **1)** numer wpisu;
 - **2)** indywidualny identyfikator wpisu;
+- **3)** datę wpisu;
 - **4)** nazwę wykonywanego zawodu medycznego;
-- **5)** dane osobowe dotyczące osoby wykonującej zawód medyczny:
-    - **a)** imię (imiona) i nazwisko,
-    - **b)** numer PESEL,
-    - **c)** obywatelstwo (obywatelstwa),
-    - **d)** adres miejsca zamieszkania,
-    - **e)** numer telefonu do kontaktu oraz adres poczty elektronicznej;
+- **5)** dane osobowe dotyczące osoby wykonującej zawód medyczny: imię (imiona) i nazwisko, numer PESEL, obywatelstwo (obywatelstwa), adres miejsca zamieszkania, numer telefonu do kontaktu oraz adres poczty elektronicznej;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
-- **6)** dane dotyczące wykształcenia lub kwalifikacji:
-    - **a)** nazwę i adres ukończonej szkoły lub uczelni,
-    - **b)** numer i datę wydania świadectwa lub dyplomu,
-    - **c)** poziom wykształcenia,
-    - **d)** tytuł zawodowy w przypadku ukończenia studiów,
-    - **e)** informację dotyczącą odbycia praktyki w aptece przez technika farmaceutycznego zgodnie z przepisami wydanymi na podstawie art. 91 ust. 3 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2025 r. poz. 750, 905, 924 i 1416), jeżeli dotyczy;
+- **6)** dane dotyczące wykształcenia lub kwalifikacji: nazwę i adres ukończonej szkoły lub uczelni, numer i datę wydania świadectwa lub dyplomu, poziom wykształcenia, tytuł zawodowy w przypadku ukończenia studiów, informację dotyczącą odbycia praktyki w aptece przez technika farmaceutycznego zgodnie z przepisami wydanymi na podstawie art. 91 ust. 3 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2022 r. poz. 2301 oraz z 2023 r. poz. 605, 650, 1859 i 1938), jeżeli dotyczy;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 - **7)** informację o realizacji ustawicznego rozwoju zawodowego w danym okresie rozliczeniowym;
-- **8)** nazwę i adres miejsca wykonywania zawodu medycznego oraz:
-    - **a)** NIP lub
-    - **b)** REGON, lub
-    - **c)** numer księgi rejestrowej z rejestru podmiotów wykonujących działalność leczniczą, o którym mowa w art. 100 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2025 r. poz. 450, 620, 637 i
-
-- **1211)** , lub
-    - **d)** unikalny identyfikator apteki lub punktu aptecznego, o którym mowa w art. 107 ust. 2 pkt 3 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne – jeżeli dotyczy;
+- **8)** nazwę i adres miejsca wykonywania zawodu medycznego oraz: NIP lub REGON, lub numer księgi rejestrowej z rejestru podmiotów wykonujących działalność leczniczą, o którym mowa w art. 100 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2023 r. poz. 991 i 1675), lub unikalny identyfikator apteki lub punktu aptecznego, o którym mowa w art. 107 ust. 2 pkt 3 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne jeżeli dotyczy;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **9)** informację o zawieszeniu uprawnienia do wykonywania zawodu medycznego, o którym mowa w art. 68 pkt 4;
-- **10)** informację o zaprzestaniu wykonywania zawodu medycznego na terytorium Rzeczypospolitej Polskiej; Rzeczypospolitej Polskiej;
+- **10)** informację o zaprzestaniu wykonywania zawodu medycznego na terytorium Rzeczypospolitej Polskiej;
+- **11)** informację o wznowieniu wykonywania zawodu medycznego na terytorium Rzeczypospolitej Polskiej;
 - **12)** datę utraty uprawnienia do wykonywania zawodu medycznego wraz z podaniem przyczyny;
 - **13)** informację o tymczasowym zawieszeniu uprawnienia do wykonywania zawodu medycznego albo o ograniczeniu zakresu czynności w jego wykonywaniu, o których mowa w art. 60 ust. 1;
 - **14)** datę zgonu lub datę znalezienia zwłok.
 
 2. W rejestrze przechowuje się odwzorowania cyfrowe dokumentów, o których mowa w art. 5 ust. 2 pkt 10–13.
 
-3. Rejestr jest jawny w zakresie danych i informacji dotyczących osoby wykonującej zawód medyczny, o których mowa w ust. 1 pkt 1–4, pkt 5 lit. a oraz pkt 8, 10 i 11, z wyłączeniem danych i informacji dotyczących osoby:
-
-- **1)** której zawieszono uprawnienie do wykonywania zawodu medycznego na podstawie art. 68 pkt 4 albo tymczasowo zawieszono uprawnienie do wykonywania zawodu medycznego na podstawie art. 60 ust. 1;
-- **2)** która utraciła uprawnienie do wykonywania zawodu medycznego;
-- **3)** wskazanej w ust. 5.
+3. Rejestr jest jawny w zakresie danych i informacji dotyczących osoby wykonującej zawód medyczny, o których mowa w ust. 1 pkt 1–4, pkt 5 lit. a oraz pkt 8–13.
 
 4. Rejestr zawiera zbiór danych i dokumentów osób:
 
@@ -153,10 +154,10 @@ source: "isap-pdf"
 - **3)** które zostały wykreślone z rejestru;
 - **4)** którym odmówiono wpisu do rejestru.
 
-5. Dane i dokumenty osoby:
+5. Dane i dokumenty osób:
 
-- **1)** która została wykreślona z rejestru,
-- **2)** której odmówiono wpisu do rejestru – przechowuje się w rejestrze przez okres 5 lat, licząc od końca roku kalendarzowego, w którym nastąpił zgon tej osoby albo w którym nastąpiło znalezienie jej zwłok.
+- **1)** wykreślonych z rejestru oraz
+- **2)** którym odmówiono wpisu do rejestru przechowuje się w rejestrze jako dane archiwalne.
 
 **Art. 5.**
 
@@ -165,15 +166,16 @@ source: "isap-pdf"
 2. Wniosek o wpis do rejestru zawiera:
 
 - **1)** nazwę zawodu medycznego, którego wniosek dotyczy;
+- **2)** imię (imiona) i nazwisko;
 - **3)** numer PESEL;
 - **4)** obywatelstwo (obywatelstwa);
 - **5)** adres miejsca zamieszkania;
 - **6)** numer telefonu do kontaktu i adres poczty elektronicznej;
-- **7)** nazwę i adres miejsca wykonywania zawodu medycznego oraz:
-    - **a)** NIP lub
-    - **b)** REGON, lub
-    - **c)** numer księgi rejestrowej z rejestru podmiotów wykonujących działalność leczniczą, o którym mowa w art. 100 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, lub
-    - **d)** unikalny identyfikator apteki lub punktu aptecznego, o którym mowa w art. 107 ust. 2 pkt 3 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne – jeżeli dotyczy;
+- **7)** nazwę i adres miejsca wykonywania zawodu medycznego oraz: NIP lub REGON, lub numer księgi rejestrowej z rejestru podmiotów wykonujących działalność leczniczą, o którym mowa w art. 100 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, lub unikalny identyfikator apteki lub punktu aptecznego, o którym mowa w art. 107 ust. 2 pkt 3 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne jeżeli dotyczy;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **8)** nazwę i adres ukończonej szkoły lub uczelni;
 - **9)** datę rozpoczęcia kształcenia zakończonego wydaniem dokumentu, o którym mowa w art. 2 ust. 1 pkt 5 lit. a;
@@ -183,6 +185,7 @@ source: "isap-pdf"
 - **13)** odwzorowanie cyfrowe dokumentu potwierdzającego uznanie praktyki zawodowej – w przypadku technika farmaceutycznego, któremu uznano tę praktykę odbytą w państwie innym niż Rzeczpospolita Polska;
 - **14)** poziom wykształcenia;
 - **15)** tytuł zawodowy w przypadku ukończenia studiów;
+- **16)** oświadczenie, o którym mowa w art. 2 ust. 1 pkt 4, jeżeli dotyczy.
 
 3. Osoba, o której mowa w ust. 1, jest obowiązana do zawarcia we wniosku o wpis do rejestru klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
@@ -210,7 +213,7 @@ source: "isap-pdf"
 
 **Art. 9.**
 
-1. Zmian danych w rejestrze dokonuje się z urzędu na podstawie udostępnionych przez podmioty publiczne danych gromadzonych w rejestrze publicznym lub w systemie teleinformatycznym z innych rejestrów publicznych w rozumieniu art. 3 pkt 5 ustawy z dnia 17 lutego 2005 r. o informatyzacji wpisanej do rejestru.
+1. Zmian danych w rejestrze dokonuje się z urzędu na podstawie udostępnionych przez podmioty publiczne danych gromadzonych w rejestrze publicznym lub w systemie teleinformatycznym z innych rejestrów publicznych w rozumieniu art. 3 pkt 5 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne albo na wniosek osoby wpisanej do rejestru.
 
 2. Osoba wpisana do rejestru składa wniosek o zmianę danych w rejestrze, nie później niż w terminie 30 dni od dnia powstania zmiany danych w nim zawartych.
 
@@ -237,7 +240,9 @@ source: "isap-pdf"
 
 2. Wydanie zaświadczenia o wpisie do rejestru nie podlega opłacie skarbowej.
 
-3. Do zaświadczeń o wpisie do rejestru nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769). Zasady wykonywania zawodów medycznych
+3. Do zaświadczeń o wpisie do rejestru nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
+
+#### Rozdział 3 Zasady wykonywania zawodów medycznych
 
 **Art. 13.**
 
@@ -253,7 +258,7 @@ source: "isap-pdf"
 - **8)** wykonywaniu czynności zawodowych związanych z procesem leczenia schorzeń w obrębie stóp i prowadzeniu profilaktyki tych schorzeń – w przypadku podiatry;
 - **9)** wykonywaniu czynności zawodowych w zakresie profilaktyki, promocji zdrowia i edukacji zdrowotnej – w przypadku profilaktyka;
 - **10)** wykonywaniu czynności zawodowych w zakresie badania i protezowania słuchu – w przypadku protetyka słuchu;
-- **11)** wykonywaniu, w zakresie i na zasadach określonych w ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne, czynności zawodowych w zakresie sporządzania i wytwarzania produktów leczniczych oraz prowadzenia obrotu i środkami spożywczymi specjalnego przeznaczenia żywieniowego oraz innymi produktami dopuszczonymi do obrotu w aptece na podstawie przepisów prawa – w przypadku technika farmaceutycznego;
+- **11)** wykonywaniu, w zakresie i na zasadach określonych w ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne, czynności zawodowych w zakresie sporządzania i wytwarzania produktów leczniczych oraz prowadzenia obrotu produktami leczniczymi, wyrobami medycznymi, suplementami diety i środkami spożywczymi specjalnego przeznaczenia żywieniowego oraz innymi produktami dopuszczonymi do obrotu w aptece na podstawie przepisów prawa – w przypadku technika farmaceutycznego;
 - **12)** wykonywaniu czynności zawodowych w zakresie masażu oraz prowadzenia działalności profilaktycznej, popularyzującej zachowania prozdrowotne – w przypadku technika masażysty;
 - **13)** wykonywaniu czynności zawodowych w zakresie zaopatrzenia ortopedycznego i w przedmioty ortopedyczne oraz środki pomocnicze – w przypadku technika ortopedy;
 - **14)** wykonywaniu czynności zawodowych w zakresie dekontaminacji sprzętu i wyrobów medycznych – w przypadku technika sterylizacji medycznej;
@@ -271,7 +276,7 @@ source: "isap-pdf"
 - **1)** na podstawie umowy o pracę lub
 - **2)** w ramach stosunku służbowego, lub
 - **3)** na podstawie umowy cywilnoprawnej, lub
-- **4)** w ramach wolontariatu 2011 r. o działalności leczniczej, jak również poza tym zakładem, lub
+- **4)** w ramach wolontariatu – w zakładzie leczniczym w rozumieniu art. 2 ust. 1 pkt 14 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, jak również poza tym zakładem, lub
 - **5)** jako przedsiębiorca będący podmiotem leczniczym, o którym mowa w art. 4 ust. 1 pkt 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, albo
 - **6)** jako przedsiębiorca niebędący podmiotem leczniczym.
 
@@ -281,11 +286,13 @@ source: "isap-pdf"
 
 1. Osoba uprawniona do wykonywania zawodu medycznego ma prawo posługiwać się tytułem odpowiadającym nazwie zawodu medycznego.
 
-2. Tytuł zawodowy, o którym mowa w ust. 1, podlega ochronie prawnej.
+2.
+
+## Tytuł zawodowy, o którym mowa w ust. 1, podlega ochronie prawnej.
 
 **Art. 15.** Zawód medyczny wykonuje się z należytą starannością, zgodnie ze wskazaniami aktualnej wiedzy medycznej i umiejętnościami niezbędnymi do wykonywania tego zawodu, z poszanowaniem praw pacjenta i dbałością o jego bezpieczeństwo.
 
-**Art. 16.** Osoba wykonująca zawód medyczny jest obowiązana do przestrzegania praw pacjenta i informowania pacjenta o jego prawach zgodnie z ustawą z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581).
+**Art. 16.** Osoba wykonująca zawód medyczny jest obowiązana do przestrzegania praw pacjenta i informowania pacjenta o jego prawach zgodnie z ustawą z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2023 r. poz. 1545, 1675 i 1692).
 
 **Art. 17.** W przypadku uzasadnionych wątpliwości odnoszących się do realizacji zlecenia wykonania danego świadczenia opieki zdrowotnej osoba wykonująca zawód medyczny ma prawo domagać się od zlecającego, aby uzasadnił potrzebę jego wykonania, a także ma prawo odmowy wykonania określonego świadczenia. Odmowę wykonania świadczenia opieki zdrowotnej osoba wykonująca zawód medyczny uzasadnia w dokumentacji medycznej i informuje o niej zlecającego.
 
@@ -293,7 +300,7 @@ source: "isap-pdf"
 
 **Art. 19.**
 
-1. Osoba, która nie wykonywała zawodu medycznego przez okres dłuższy niż 5 lat w okresie ostatnich 6 lat, a zamierza podjąć jego wykonywanie, jest go pod nadzorem.
+1. Osoba, która nie wykonywała zawodu medycznego przez okres dłuższy niż 5 lat w okresie ostatnich 6 lat, a zamierza podjąć jego wykonywanie, jest obowiązana przez okres 6 miesięcy od dnia podjęcia jego wykonywania wykonywać go pod nadzorem.
 
 2. Nadzór, o którym mowa w ust. 1, sprawuje inna osoba wykonująca ten sam zawód medyczny, lekarz, lekarz dentysta, pielęgniarka, farmaceuta albo fizjoterapeuta, posiadający co najmniej 5-letnie doświadczenie zawodowe oraz zasób wiedzy i umiejętności zapewniający właściwą realizację czynności zawodowych, o których mowa w art. 13 ust. 1, przez osobę wykonującą zawód medyczny pod nadzorem.
 
@@ -315,7 +322,10 @@ source: "isap-pdf"
 
 **Art. 21.** Koszty ustawicznego rozwoju zawodowego ponosi osoba wykonująca zawód medyczny lub podmiot, w którym wykonuje ona zawód medyczny, lub jednostka prowadząca daną formę ustawicznego rozwoju zawodowego.
 
-**Art. 22.** Osoba wykonująca zawód medyczny ma prawo do stałego aktualizowania wiedzy i umiejętności zawodowych przez uczestnictwo w ramach kształcenia podyplomowego w: 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. z 2025 r. poz. 342);
+**Art. 22.** Osoba wykonująca zawód medyczny ma prawo do stałego aktualizowania wiedzy i umiejętności zawodowych przez uczestnictwo w ramach kształcenia podyplomowego w:
+
+- **1)** szkoleniu specjalizacyjnym – na zasadach określonych w ustawie z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. z 2023 r. poz. 506);
+- **2)** kursie kwalifikacyjnym.
 
 **Art. 23.**
 
@@ -341,7 +351,11 @@ source: "isap-pdf"
 
 8. Dyrektor CMKP podaje do publicznej wiadomości zatwierdzony program kursu kwalifikacyjnego na stronie internetowej CMKP.
 
-**Art. 24.** Kurs kwalifikacyjny prowadzą uczelnie, które prowadzą kształcenie na studiach umożliwiających uzyskanie wykształcenia niezbędnego do wykonywania zapewniają:
+**Art. 24.** Kurs kwalifikacyjny prowadzą uczelnie, które prowadzą kształcenie na studiach umożliwiających uzyskanie wykształcenia niezbędnego do wykonywania danego zawodu medycznego, oraz CMKP, zwane dalej „organizatorem kursu”, które zapewniają:
+
+- **1)** realizację programu kursu kwalifikacyjnego;
+- **2)** kadrę dydaktyczną posiadającą odpowiednie kwalifikacje;
+- **3)** bazę dydaktyczną dostosowaną do programu kursu kwalifikacyjnego.
 
 **Art. 25.**
 
@@ -364,7 +378,9 @@ source: "isap-pdf"
 
 1. Postępowanie kwalifikacyjne obejmuje ocenę formalną wniosku, o którym mowa w art. 25 ust. 4.
 
-2. W przypadku stwierdzenia braków formalnych we wniosku komisja kwalifikacyjna wzywa osobę, o której mowa w art. 25 ust. 4, do usunięcia braków w terminie 7 dni od dnia doręczenia wezwania oraz poucza ją, że nieusunięcie tych braków spowoduje pozostawienie wniosku bez rozpoznania. wykonujące zawód medyczny według kolejności zgłoszeń, w liczbie odpowiadającej liczbie wolnych miejsc szkoleniowych.
+2. W przypadku stwierdzenia braków formalnych we wniosku komisja kwalifikacyjna wzywa osobę, o której mowa w art. 25 ust. 4, do usunięcia braków w terminie 7 dni od dnia doręczenia wezwania oraz poucza ją, że nieusunięcie tych braków spowoduje pozostawienie wniosku bez rozpoznania.
+
+3. Do odbycia kursu kwalifikacyjnego komisja kwalifikacyjna kwalifikuje osoby wykonujące zawód medyczny według kolejności zgłoszeń, w liczbie odpowiadającej liczbie wolnych miejsc szkoleniowych.
 
 4. Komisja kwalifikacyjna niezwłocznie powiadamia za pomocą środków komunikacji elektronicznej osobę, o której mowa w art. 25 ust. 4, o zakwalifikowaniu się albo niezakwalifikowaniu się do odbycia kursu kwalifikacyjnego.
 
@@ -376,7 +392,7 @@ source: "isap-pdf"
 
 3. Egzamin teoretyczny pisemny jest przeprowadzany w formie testu w trybie stacjonarnym albo za pośrednictwem sieci internetowej z ograniczonym dostępem.
 
-4. Pozytywny wynik egzaminu pisemnego otrzymuje osoba zdająca, która uzyskała co najmniej 60 % maksymalnej liczby punktów z testu. Komisja egzaminacyjna niezwłocznie powiadamia za pomocą środków komunikacji elektronicznej osobę zdającą o uzyskanym przez nią wyniku egzaminu.
+4. Pozytywny wynik egzaminu pisemnego otrzymuje osoba zdająca, która uzyskała co najmniej 60% maksymalnej liczby punktów z testu. Komisja egzaminacyjna niezwłocznie powiadamia za pomocą środków komunikacji elektronicznej osobę zdającą o uzyskanym przez nią wyniku egzaminu.
 
 5. Egzamin ustny jest przeprowadzany w trybie stacjonarnym lub za pośrednictwem sieci internetowej z ograniczonym dostępem i obejmuje 3 pytania egzaminacyjne.
 
@@ -388,7 +404,11 @@ source: "isap-pdf"
 
 9. Osoba zdająca może wnieść do komisji egzaminacyjnej na piśmie odwołanie od wyniku egzaminu w terminie 14 dni od dnia otrzymania informacji o wyniku egzaminu.
 
-10. Komisja egzaminacyjna rozpatruje odwołanie w terminie 30 dni od dnia jego otrzymania. Przepis ust. 4 zdanie drugie stosuje się odpowiednio. o ukończeniu kursu kwalifikacyjnego.
+10. Komisja egzaminacyjna rozpatruje odwołanie w terminie 30 dni od dnia jego otrzymania. Przepis ust. 4 zdanie drugie stosuje się odpowiednio.
+
+**Art. 28.**
+
+1. Odbycie kursu kwalifikacyjnego jest potwierdzane zaświadczeniem o ukończeniu kursu kwalifikacyjnego.
 
 2. Zaświadczenie, o którym mowa w ust. 1, zawiera następujące dane:
 
@@ -424,6 +444,7 @@ source: "isap-pdf"
 - **2)** numer PESEL osoby wykonującej zawód medyczny;
 - **3)** adres do korespondencji, numer telefonu do kontaktu i adres poczty elektronicznej;
 - **4)** określenie przedmiotu wniosku;
+- **5)** indywidualny identyfikator wpisu;
 - **6)** informacje o przebiegu działalności zawodowej, której dotyczy wniosek;
 - **7)** informację o aktualnym miejscu wykonywania zawodu medycznego przez osobę wykonującą zawód medyczny.
 
@@ -442,7 +463,9 @@ source: "isap-pdf"
 
 9. Dyrektor CMKP w terminie 14 dni od dnia otrzymania oceny merytorycznej, o której mowa w ust. 6, sporządza opinię, którą przekazuje wraz z wnioskiem, o którym mowa w ust. 1, wraz z załączonymi do niego dokumentami, o których mowa w ust. 4, do ministra właściwego do spraw zdrowia.
 
-10. W przypadku stwierdzenia przez ministra właściwego do spraw zdrowia niekompletności wniosku lub braku merytorycznego uzasadnienia do uznania kursu lub szkolenia, o którym mowa w ust. 1, za równoważne ze zrealizowaniem programu kursu kwalifikacyjnego, akta sprawy wraz z opinią dyrektora CMKP są zwracane do dyrektora CMKP w celu weryfikacji wniosku lub jego uzupełnienia. decyzji, o której mowa w ust. 1, niezwłocznie po jej wydaniu.
+10. W przypadku stwierdzenia przez ministra właściwego do spraw zdrowia niekompletności wniosku lub braku merytorycznego uzasadnienia do uznania kursu lub szkolenia, o którym mowa w ust. 1, za równoważne ze zrealizowaniem programu kursu kwalifikacyjnego, akta sprawy wraz z opinią dyrektora CMKP są zwracane do dyrektora CMKP w celu weryfikacji wniosku lub jego uzupełnienia.
+
+11. Minister właściwy do spraw zdrowia przekazuje dyrektorowi CMKP kopię decyzji, o której mowa w ust. 1, niezwłocznie po jej wydaniu.
 
 **Art. 31.**
 
@@ -477,14 +500,15 @@ source: "isap-pdf"
 
 1. Kursy doskonalące mogą prowadzić podmioty, które:
 
-- **1)** realizują program kursu doskonalącego, o którym mowa w art. 32 ust. 2; o których mowa w art. 32 ust. 2 pkt 5;
+- **1)** realizują program kursu doskonalącego, o którym mowa w art. 32 ust. 2;
+- **2)** zapewniają kadrę dydaktyczną posiadającą kwalifikacje zgodne ze standardami, o których mowa w art. 32 ust. 2 pkt 5;
 - **3)** zapewniają bazę dydaktyczną zgodną ze standardami, o których mowa w art. 32 ust. 2 pkt 5, niezbędną do realizacji programu kursu doskonalącego, w tym do szkolenia praktycznego;
 - **4)** posiadają wewnętrzny system oceny jakości kształcenia;
 - **5)** prowadzą dokumentację związaną z organizacją i przebiegiem kształcenia, w szczególności sporządzają regulaminy organizacyjne kształcenia;
-- **6)** prowadzą ewidencję wydanych zaświadczeń potwierdzających ukończenie danego kursu doskonalącego obejmującą:
-    - **a)** imię (imiona) i nazwisko uczestnika kursu doskonalącego,
-    - **b)** datę ukończenia kursu doskonalącego,
-    - **c)** numer i datę wydania zaświadczenia;
+- **6)** prowadzą ewidencję wydanych zaświadczeń potwierdzających ukończenie danego kursu doskonalącego obejmującą: imię (imiona) i nazwisko uczestnika kursu doskonalącego, datę ukończenia kursu doskonalącego, numer i datę wydania zaświadczenia;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **7)** uzyskały wpis na listę podmiotów uprawnionych do prowadzenia kursu doskonalącego.
 
@@ -499,7 +523,8 @@ source: "isap-pdf"
 - **3)** imię (imiona) i nazwisko kierownika podmiotu uprawnionego do prowadzenia kursu doskonalącego;
 - **4)** liczbę i kwalifikacje kadry dydaktycznej prowadzącej zajęcia teoretyczne i praktyczne w ramach kursu doskonalącego;
 - **5)** opis bazy dydaktycznej, w której podmiot zamierza prowadzić kurs doskonalący;
-- **6)** plan realizacji programu kursu doskonalącego; mowa w pkt 6.
+- **6)** plan realizacji programu kursu doskonalącego;
+- **7)** oświadczenie o spełnieniu warunków niezbędnych do realizacji planu, o którym mowa w pkt 6.
 
 5. Do wniosku, o którym mowa w ust. 3, dołącza się:
 
@@ -516,7 +541,9 @@ source: "isap-pdf"
 
 1. Dyrektor CMKP dokonuje weryfikacji formalnej wniosku, o którym mowa w art. 33 ust. 3, oraz załączonych dokumentów, o których mowa w art. 33 ust. 5.
 
-2. W przypadku stwierdzenia braków formalnych wniosku dyrektor CMKP wzywa podmiot, o którym mowa w art. 33 ust. 3, do ich uzupełnienia w terminie 14 dni od dnia doręczenia wezwania, z pouczeniem, że nieusunięcie braków w wyznaczonym terminie spowoduje pozostawienie wniosku bez rozpoznania. o którym mowa w art. 33 ust. 3, warunków, o których mowa w art. 33 ust. 1, powołuje zespół ekspertów w składzie:
+2. W przypadku stwierdzenia braków formalnych wniosku dyrektor CMKP wzywa podmiot, o którym mowa w art. 33 ust. 3, do ich uzupełnienia w terminie 14 dni od dnia doręczenia wezwania, z pouczeniem, że nieusunięcie braków w wyznaczonym terminie spowoduje pozostawienie wniosku bez rozpoznania.
+
+3. Dyrektor CMKP w celu uzyskania opinii o spełnieniu przez podmiot, o którym mowa w art. 33 ust. 3, warunków, o których mowa w art. 33 ust. 1, powołuje zespół ekspertów w składzie:
 
 - **1)** dwóch ekspertów spośród osób legitymujących się dorobkiem naukowym lub zawodowym w zakresie dziedziny właściwej dla programu danego kursu doskonalącego;
 - **2)** przedstawiciel CMKP.
@@ -538,7 +565,10 @@ source: "isap-pdf"
 - **2)** nazwę podmiotu uprawnionego do prowadzenia kursu doskonalącego;
 - **3)** adres siedziby podmiotu uprawnionego do prowadzenia kursu doskonalącego;
 - **4)** adres do korespondencji podmiotu uprawnionego do prowadzenia kursu doskonalącego, jeżeli jest inny niż adres jego siedziby;
-- **5)** numer telefonu oraz adres poczty elektronicznej podmiotu uprawnionego do prowadzenia kursu doskonalącego, jeżeli je posiada. uprawnionych do prowadzenia kursu doskonalącego w przypadku:
+- **5)** numer telefonu oraz adres poczty elektronicznej podmiotu uprawnionego do prowadzenia kursu doskonalącego, jeżeli je posiada.
+
+3. Dyrektor CMKP skreśla, w drodze decyzji, podmiot z listy podmiotów uprawnionych do prowadzenia kursu doskonalącego w przypadku:
+
 - **1)** złożenia przez podmiot oświadczenia, o którym mowa w art. 33 ust. 4 pkt 7 lub ust. 5 pkt 4, niezgodnego ze stanem faktycznym;
 - **2)** wydania prawomocnego orzeczenia zakazującego podmiotowi uprawnionemu do prowadzenia kursu doskonalącego działalności objętej wpisem na listę podmiotów uprawnionych do prowadzenia kursu doskonalącego;
 - **3)** naruszenia warunków wymaganych do prowadzenia kursu doskonalącego, o których mowa w art. 33 ust. 1;
@@ -554,7 +584,11 @@ source: "isap-pdf"
 
 6. W przypadku zmiany danych zawartych na liście podmiotów uprawnionych do prowadzenia kursu doskonalącego podmiot uprawniony do prowadzenia kursu doskonalącego jest obowiązany złożyć wniosek o zmianę wpisu w terminie 14 dni od dnia, w którym nastąpiła zmiana tych danych.
 
-7. Podmiot uprawniony do prowadzenia kursu doskonalącego, który został skreślony z listy podmiotów uprawnionych do prowadzenia kursu doskonalącego z przyczyn określonych w ust. 3 pkt 1 lub 3–6, może uzyskać ponowny wpis na listę nie wcześniej niż po upływie 3 lat od dnia wydania decyzji o skreśleniu z listy podmiotów uprawnionych do prowadzenia kursu doskonalącego. kursów doskonalących.
+7. Podmiot uprawniony do prowadzenia kursu doskonalącego, który został skreślony z listy podmiotów uprawnionych do prowadzenia kursu doskonalącego z przyczyn określonych w ust. 3 pkt 1 lub 3–6, może uzyskać ponowny wpis na listę nie wcześniej niż po upływie 3 lat od dnia wydania decyzji o skreśleniu z listy podmiotów uprawnionych do prowadzenia kursu doskonalącego.
+
+**Art. 36.**
+
+1. Dyrektor CMKP publikuje na stronie internetowej CMKP listę kursów doskonalących.
 
 2. Lista kursów doskonalących zawiera następujące dane:
 
@@ -577,7 +611,9 @@ source: "isap-pdf"
 - **6)** szczegółowy harmonogram kursu doskonalącego, obejmujący każdy dzień kursu doskonalącego, z podaniem imion, nazwisk i zawodów wykładowców;
 - **7)** w przypadku organizacji kursu doskonalącego poza siedzibą podmiotu uprawnionego do prowadzenia kursu doskonalącego – oświadczenie dotyczące podstawy prawnej korzystania przez ten podmiot z miejsca realizacji kursu doskonalącego.
 
-5. W przypadku zmiany wykładowcy wskazanego w szczegółowym harmonogramie kursu doskonalącego podmiot uprawniony do prowadzenia kursu doskonalącego jest obowiązany zgłosić ten fakt do dyrektora CMKP oraz dołączyć informacje, o których mowa w art. 33 ust. 1 pkt 2. kurs doskonalący, w terminie 7 dni od dnia jego zakończenia przesyła do dyrektora CMKP listę osób wykonujących zawód medyczny, które ukończyły kurs doskonalący.
+5. W przypadku zmiany wykładowcy wskazanego w szczegółowym harmonogramie kursu doskonalącego podmiot uprawniony do prowadzenia kursu doskonalącego jest obowiązany zgłosić ten fakt do dyrektora CMKP oraz dołączyć informacje, o których mowa w art. 33 ust. 1 pkt 2.
+
+6. Podmiot uprawniony do prowadzenia kursu doskonalącego, który zrealizował kurs doskonalący, w terminie 7 dni od dnia jego zakończenia przesyła do dyrektora CMKP listę osób wykonujących zawód medyczny, które ukończyły kurs doskonalący.
 
 7. Lista osób, o której mowa w ust. 6, zawiera:
 
@@ -596,7 +632,7 @@ source: "isap-pdf"
 - **6)** termin realizacji kursu doskonalącego;
 - **7)** imię (imiona) i nazwisko kierownika podmiotu uprawnionego do prowadzenia kursu doskonalącego.
 
-**Art. 37.** Prowadzenie kursu doskonalącego przez przedsiębiorcę jest działalnością regulowaną, o której mowa w art. 43 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480).
+**Art. 37.** Prowadzenie kursu doskonalącego przez przedsiębiorcę jest działalnością regulowaną, o której mowa w art. 43 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641, 803 i 1414).
 
 **Art. 38.**
 
@@ -604,7 +640,8 @@ source: "isap-pdf"
 
 2. W skład zespołu kontrolnego, o którym mowa w ust. 1, mogą wchodzić poza pracownikami CMKP:
 
-- **1)** konsultant krajowy albo konsultant wojewódzki w dziedzinie właściwej dla danego zawodu medycznego albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie nie powołano konsultanta krajowego albo wojewódzkiego, lub jego przedstawiciel; statutu, towarzystwem naukowym lub stowarzyszeniem zawodowym, lub związkiem zawodowym o zasięgu ogólnokrajowym, zrzeszającym przedstawicieli danego zawodu medycznego.
+- **1)** konsultant krajowy albo konsultant wojewódzki w dziedzinie właściwej dla danego zawodu medycznego albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie nie powołano konsultanta krajowego albo wojewódzkiego, lub jego przedstawiciel;
+- **2)** przedstawiciel stowarzyszenia będącego, zgodnie z postanowieniami jego statutu, towarzystwem naukowym lub stowarzyszeniem zawodowym, lub związkiem zawodowym o zasięgu ogólnokrajowym, zrzeszającym przedstawicieli danego zawodu medycznego.
 
 3. Członkowie zespołu kontrolnego, o którym mowa w ust. 1, w co najmniej trzyosobowym składzie, wykonując czynności kontrolne, za okazaniem upoważnienia, mają prawo do:
 
@@ -632,7 +669,7 @@ source: "isap-pdf"
 - **8)** datę i miejsce sporządzenia protokołu;
 - **9)** w przypadku odmowy podpisania protokołu przez kierownika podmiotu uprawnionego do prowadzenia kursu doskonalącego – informację o takiej odmowie.
 
-6. Protokół, o którym mowa w ust. 5, podpisują osoby wykonujące czynności kontrolne oraz kierownik podmiotu uprawnionego do prowadzenia kursu doskonalącego ma prawo odmówić podpisania protokołu.
+6. Protokół, o którym mowa w ust. 5, podpisują osoby wykonujące czynności kontrolne oraz kierownik podmiotu uprawnionego do prowadzenia kursu doskonalącego. Kierownik podmiotu uprawnionego do prowadzenia kursu doskonalącego ma prawo odmówić podpisania protokołu.
 
 7. Protokół, o którym mowa w ust. 5, sporządza się w dwóch egzemplarzach, z których jeden jest przekazywany kierownikowi podmiotu uprawnionego do prowadzenia kursu doskonalącego, a drugi dyrektorowi CMKP.
 
@@ -647,21 +684,21 @@ source: "isap-pdf"
 12. Osobom wykonującym czynności kontrolne przysługuje:
 
 - **1)** wynagrodzenie za wykonanie czynności kontrolnych w wysokości nie wyższej niż 300 zł;
-- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807 i 1423) przysługujących pracownikom z tytułu podróży służbowej na obszarze kraju;
+- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 775§ 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465) przysługujących pracownikom z tytułu podróży służbowej na obszarze kraju;
 - **3)** zwolnienie od pracy w dniach wykonywania czynności kontrolnych bez zachowania prawa do wynagrodzenia.
 
 **Art. 39.**
 
-1. Ustawiczny rozwój zawodowy odbywa się w 5-letnim okresie rozliczeniowym, zwanym dalej „okresem edukacyjnym”. Osobie wykonującej zawód doskonalenia zawodowego przysługują punkty edukacyjne.
+1. Ustawiczny rozwój zawodowy odbywa się w 5-letnim okresie rozliczeniowym, zwanym dalej „okresem edukacyjnym”. Osobie wykonującej zawód medyczny za udział w poszczególnych formach kształcenia podyplomowego lub doskonalenia zawodowego przysługują punkty edukacyjne.
 
 2. Okres edukacyjny rozpoczyna się z dniem 1 stycznia roku następującego po roku, w którym osoba wykonująca zawód medyczny uzyskała wpis do rejestru.
 
 3. Osoba wykonująca zawód medyczny dokumentuje ustawiczny rozwój zawodowy w karcie rozwoju zawodowego, która zawiera:
 
-- **1)** dane osoby wykonującej zawód medyczny:
-    - **a)** imię (imiona) i nazwisko,
-    - **b)** datę urodzenia,
-    - **c)** indywidualny identyfikator wpisu;
+- **1)** dane osoby wykonującej zawód medyczny: imię (imiona) i nazwisko, datę urodzenia, indywidualny identyfikator wpisu;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **2)** nazwę i miejsce wykonywania zawodu medycznego;
 - **3)** datę rozpoczęcia okresu edukacyjnego;
@@ -680,8 +717,9 @@ source: "isap-pdf"
 
 7. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
-- **1)** formy samokształcenia, o których mowa w art. 31 ust. 1 pkt 2, zawodowego, wraz z dokumentami potwierdzającymi ich realizację, oraz liczbę punktów niezbędnych do zaliczenia obowiązku doskonalenia zawodowego,
-- **3)** wzór karty rozwoju zawodowego osoby wykonującej zawód medyczny – mając na celu zapewnienie właściwej jakości ustawicznego rozwoju zawodowego oraz rzetelnego sposobu dokumentowania jego przebiegu.
+- **1)** formy samokształcenia, o których mowa w art. 31 ust. 1 pkt 2,
+- **2)** liczbę punktów edukacyjnych za poszczególne formy ustawicznego rozwoju zawodowego, wraz z dokumentami potwierdzającymi ich realizację, oraz liczbę punktów niezbędnych do zaliczenia obowiązku doskonalenia zawodowego,
+- **3)** wzór karty rozwoju zawodowego osoby wykonującej zawód medyczny mając na celu zapewnienie właściwej jakości ustawicznego rozwoju zawodowego oraz rzetelnego sposobu dokumentowania jego przebiegu.
 
 **Art. 40.**
 
@@ -705,6 +743,7 @@ source: "isap-pdf"
 
 1. Postępowanie w przedmiocie odpowiedzialności zawodowej osoby wykonującej zawód medyczny obejmuje:
 
+- **1)** czynności sprawdzające prowadzone przez rzecznika dyscyplinarnego;
 - **2)** postępowanie wyjaśniające prowadzone przez rzecznika dyscyplinarnego;
 - **3)** postępowanie przed Komisją Odpowiedzialności Zawodowej, zwaną dalej „Komisją”.
 
@@ -730,6 +769,7 @@ source: "isap-pdf"
 - **4)** rodzeństwo;
 - **5)** powinowaty w tej samej linii lub stopniu;
 - **6)** osoba pozostająca w stosunku przysposobienia;
+- **7)** osoba pozostająca we wspólnym pożyciu.
 
 **Art. 46.**
 
@@ -738,6 +778,13 @@ source: "isap-pdf"
 2. Osoba obwiniona może ustanowić jednego obrońcę spośród osób wykonujących zawód medyczny, adwokatów lub radców prawnych.
 
 **Art. 47.** Postępowania w przedmiocie odpowiedzialności zawodowej nie wszczyna się, a wszczęte umarza, jeżeli:
+
+- **1)** czynu nie popełniono albo brak jest dowodów dostatecznie uzasadniających podejrzenie jego popełnienia;
+- **2)** czyn nie stanowi przewinienia zawodowego albo ustawa stanowi, że sprawca nie popełnia przewinienia zawodowego;
+- **3)** osoba obwiniona zmarła;
+- **4)** nastąpiło ustanie karalności;
+- **5)** postępowanie w przedmiocie odpowiedzialności zawodowej co do tego samego czynu tej samej osoby zostało prawomocnie zakończone albo wcześniej wszczęte toczy się;
+- **6)** szkodliwość społeczna czynu jest znikoma.
 
 **Art. 48.**
 
@@ -753,7 +800,9 @@ source: "isap-pdf"
 
 1. Rzecznik dyscyplinarny albo Komisja w postępowaniu w przedmiocie odpowiedzialności zawodowej przeprowadza dowody na wniosek stron albo z urzędu.
 
-2. Jeżeli stwierdzenie okoliczności mających istotne znaczenie dla rozstrzygnięcia sprawy wymaga specjalistycznej wiedzy, rzecznik dyscyplinarny albo Komisja zasięga opinii biegłego lub wzywa specjalistę do przeprowadzenia określonych czynności w toku postępowania. rzecznik dyscyplinarny albo Komisja powołuje dwóch biegłych lekarzy psychiatrów.
+2. Jeżeli stwierdzenie okoliczności mających istotne znaczenie dla rozstrzygnięcia sprawy wymaga specjalistycznej wiedzy, rzecznik dyscyplinarny albo Komisja zasięga opinii biegłego lub wzywa specjalistę do przeprowadzenia określonych czynności w toku postępowania.
+
+3. W celu wydania opinii o stanie zdrowia psychicznego osoby obwinionej rzecznik dyscyplinarny albo Komisja powołuje dwóch biegłych lekarzy psychiatrów.
 
 4. Nie stanowi naruszenia tajemnicy zawodowej składanie przez osoby wykonujące zawód medyczny zeznań i wyjaśnień w zakresie okoliczności objętych postępowaniem w toku postępowania w przedmiocie odpowiedzialności zawodowej.
 
@@ -761,7 +810,7 @@ source: "isap-pdf"
 
 1. Jeżeli w postępowaniu w przedmiocie odpowiedzialności zawodowej świadek, biegły lub specjalista bez usprawiedliwienia nie stawił się na wezwanie rzecznika dyscyplinarnego lub na rozprawę przed Komisją albo bezpodstawnie odmawia zeznań, przewodniczący Komisji może zwrócić się do sądu rejonowego właściwego ze względu na miejsce zamieszkania osoby wezwanej o jej przesłuchanie w charakterze świadka, biegłego lub specjalisty na wskazane okoliczności.
 
-2. O terminie i miejscu przesłuchania, o którym mowa w ust. 1, sąd rejonowy zawiadamia strony, a protokół z przesłuchania przesyła przewodniczącemu Komisji. Przesłuchanie przeprowadza sąd rejonowy na posiedzeniu. Przepisy działu V ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, 304, 1178 i 1420) stosuje się.
+2. O terminie i miejscu przesłuchania, o którym mowa w ust. 1, sąd rejonowy zawiadamia strony, a protokół z przesłuchania przesyła przewodniczącemu Komisji. Przesłuchanie przeprowadza sąd rejonowy na posiedzeniu. Przepisy działu V ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375, z późn. zm.) stosuje się.
 
 **Art. 51.**
 
@@ -779,8 +828,9 @@ source: "isap-pdf"
 
 3. Wniosek, o którym mowa w ust. 1, zawiera:
 
-- **1)** dane składającego wniosek:
-    - **a)** oznaczenie organu, – imię (imiona) i nazwisko, – datę urodzenia, – numer PESEL, a w przypadku braku numeru PESEL – cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania, – imię (imiona) i nazwisko przedstawiciela ustawowego pokrzywdzonego, jeżeli dotyczy;
+- **1)** dane składającego wniosek: oznaczenie organu, w przypadku pokrzywdzonego: – imię (imiona) i nazwisko, – datę urodzenia, – numer PESEL, a w przypadku braku numeru PESEL – cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania, – imię (imiona) i nazwisko przedstawiciela ustawowego pokrzywdzonego, jeżeli dotyczy;
+    - **a)**
+    - **b)**
 
 - **2)** adres do doręczeń;
 - **3)** wskazanie przedmiotu wniosku i jego uzasadnienie;
@@ -800,7 +850,7 @@ source: "isap-pdf"
 
 1. Rzecznik dyscyplinarny niezwłocznie po otrzymaniu informacji wskazującej na możliwość popełnienia przewinienia zawodowego bada z urzędu, czy nie zachodzą okoliczności wyłączające postępowanie, a w przypadku braku przeszkód prawnych wydaje postanowienie o wszczęciu postępowania wyjaśniającego. Postanowienie doręcza się stronom.
 
-2. W przypadku gdy wniosek o wszczęcie postępowania wyjaśniającego nie spełnia wymagań formalnych, rzecznik dyscyplinarny wzywa składającego wniosek do uzupełnienia wniosku na piśmie, w terminie nie krótszym niż 7 dni od dnia wszczęcia postępowania wyjaśniającego.
+2. W przypadku gdy wniosek o wszczęcie postępowania wyjaśniającego nie spełnia wymagań formalnych, rzecznik dyscyplinarny wzywa składającego wniosek do uzupełnienia wniosku na piśmie, w terminie nie krótszym niż 7 dni od dnia doręczenia wezwania, z pouczeniem, że nieuzupełnienie wniosku spowoduje odmowę wszczęcia postępowania wyjaśniającego.
 
 3. W przypadku nieuzupełnienia wniosku, o którym mowa w ust. 2, albo w przypadku stwierdzenia okoliczności wyłączającej postępowanie rzecznik dyscyplinarny wydaje postanowienie o odmowie wszczęcia postępowania wyjaśniającego, które doręcza, wraz z uzasadnieniem, składającemu wniosek oraz osobie, której ten wniosek dotyczy.
 
@@ -818,7 +868,7 @@ source: "isap-pdf"
 
 5. Uchylając postanowienie o umorzeniu postępowania wyjaśniającego albo odmowie jego wszczęcia, Komisja wskazuje powody uchylenia lub okoliczności, które należy wyjaśnić, lub czynności, które należy przeprowadzić. Wskazania te są wiążące dla rzecznika dyscyplinarnego.
 
-**Art. 55.** W toku postępowania wyjaśniającego rzecznik dyscyplinarny dąży do szczegółowego wyjaśnienia sprawy. W tym celu może przesłuchiwać pokrzywdzonego i inne osoby w charakterze świadków, powoływać i przesłuchiwać biegłych lub wzywać specjalistów do przeprowadzenia określonych czynności w toku postępowania, jak również przeprowadzać inne dowody. W przypadkach niecierpiących zwłoki, w szczególności gdy mogłoby to spowodować zatarcie śladów lub dowodów przewinienia zawodowego, rzecznik dyscyplinarny może przesłuchać zarzutów, jeżeli zachodzą warunki do sporządzenia takiego postanowienia.
+**Art. 55.** W toku postępowania wyjaśniającego rzecznik dyscyplinarny dąży do szczegółowego wyjaśnienia sprawy. W tym celu może przesłuchiwać pokrzywdzonego i inne osoby w charakterze świadków, powoływać i przesłuchiwać biegłych lub wzywać specjalistów do przeprowadzenia określonych czynności w toku postępowania, jak również przeprowadzać inne dowody. W przypadkach niecierpiących zwłoki, w szczególności gdy mogłoby to spowodować zatarcie śladów lub dowodów przewinienia zawodowego, rzecznik dyscyplinarny może przesłuchać osobę wykonującą zawód medyczny przed wydaniem postanowienia o przedstawieniu zarzutów, jeżeli zachodzą warunki do sporządzenia takiego postanowienia.
 
 **Art. 56.**
 
@@ -844,7 +894,11 @@ source: "isap-pdf"
 
 3. Termin zapoznania się osoby obwinionej z materiałami postępowania wyjaśniającego wyznacza się w taki sposób, aby od dnia doręczenia zawiadomienia osobie obwinionej i jej obrońcy upłynęło co najmniej 14 dni.
 
-4. Jeżeli nie zachodzi potrzeba uzupełnienia postępowania wyjaśniającego, rzecznik dyscyplinarny wydaje postanowienie o jego zamknięciu. 2 miesięcy od dnia wydania postanowienia o wszczęciu postępowania wyjaśniającego.
+4. Jeżeli nie zachodzi potrzeba uzupełnienia postępowania wyjaśniającego, rzecznik dyscyplinarny wydaje postanowienie o jego zamknięciu.
+
+**Art. 59.**
+
+1. Postępowanie wyjaśniające powinno zostać zakończone w terminie 2 miesięcy od dnia wydania postanowienia o wszczęciu postępowania wyjaśniającego.
 
 2. W szczególnie uzasadnionym przypadku Komisja na wniosek rzecznika dyscyplinarnego może przedłużyć okres postępowania wyjaśniającego na czas określony, nie dłuższy niż miesiąc od dnia upływu okresu, o którym mowa w ust. 1.
 
@@ -866,6 +920,24 @@ source: "isap-pdf"
 
 **Art. 61.** Jeżeli wynik postępowania wyjaśniającego potwierdzi zasadność zarzutów, rzecznik dyscyplinarny składa wniosek o ukaranie do Komisji w terminie 14 dni od dnia wydania postanowienia o zamknięciu postępowania wyjaśniającego.
 
+**Art. 62.**
+
+1. Wniosek o ukaranie, o którym mowa w art. 61, zawiera:
+
+- **1)** dane osoby obwinionej: imię (imiona) i nazwisko, datę i miejsce urodzenia, adres miejsca zamieszkania, miejsce wykonywania zawodu medycznego i zajmowane stanowisko, jeżeli dotyczy;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **2)** dokładne określenie zarzucanego przewinienia zawodowego, ze wskazaniem czasu, miejsca, sposobu i okoliczności jego popełnienia oraz skutków z niego wynikających;
+- **3)** imiona i nazwiska oraz adresy świadków, którzy mogą być wezwani na rozprawę, jak również wskazanie innych dowodów;
+- **4)** uzasadnienie wniosku.
+
+2. Rzecznik dyscyplinarny doręcza wniosek o ukaranie, o którym mowa w art. 61, osobie obwinionej.
+
+3. Osoba obwiniona ma prawo złożenia do Komisji pisemnego ustosunkowania się do wniosku o ukaranie, o którym mowa w art. 61, w terminie 14 dni od dnia doręczenia tego wniosku.
+
 **Art. 63.** Po złożeniu wniosku o ukaranie, o którym mowa w art. 61, przewodniczący składu orzekającego Komisji, wyznaczony przez przewodniczącego Komisji, niezwłocznie wyznacza termin rozprawy.
 
 **Art. 64.**
@@ -874,31 +946,51 @@ source: "isap-pdf"
 
 - **1)** przewodniczący składu orzekającego,
 - **2)** dwóch członków – przedstawicieli danego zawodu medycznego,
-- **3)** dwóch członków – przedstawicieli ministra właściwego do spraw zdrowia – wyznaczonym przez przewodniczącego Komisji.
+- **3)** dwóch członków – przedstawicieli ministra właściwego do spraw zdrowia wyznaczonym przez przewodniczącego Komisji.
 
 2. Komisja wydaje postanowienia i rozpatruje zażalenia na postanowienia wydane przez przewodniczącego Komisji w składzie co najmniej 3 członków. W przypadku zażaleń na postanowienia wydane przez przewodniczącego Komisji, przewodniczący Komisji podlega wyłączeniu.
 
-**Art. 65.** Członkowie Komisji w zakresie orzekania podlegają przepisom powszechnie obowiązującego prawa i nie są związani rozstrzygnięciami innych organów stosujących prawo, z wyjątkiem prawomocnego orzeczenia sądu. osobę obwinioną oraz jej obrońcę, jeżeli został ustanowiony, i po przeprowadzeniu innych dowodów mających znaczenie dla rozpoznania sprawy wydaje orzeczenie. 2. Rozprawa jest jawna. Komisja wyłącza jawność rozprawy, jeżeli jawność mogłaby:
+**Art. 65.** Członkowie Komisji w zakresie orzekania podlegają przepisom powszechnie obowiązującego prawa i nie są związani rozstrzygnięciami innych organów stosujących prawo, z wyjątkiem prawomocnego orzeczenia sądu.
+
+**Art. 66.**
+
+1. Komisja po przeprowadzeniu rozprawy, w toku której wysłuchuje osobę obwinioną oraz jej obrońcę, jeżeli został ustanowiony, i po przeprowadzeniu innych dowodów mających znaczenie dla rozpoznania sprawy wydaje orzeczenie.
+
+2. Rozprawa jest jawna. Komisja wyłącza jawność rozprawy, jeżeli jawność mogłaby:
+
+- **1)** naruszyć tajemnicę zawodową;
+- **2)** wywołać zakłócenie spokoju publicznego;
+- **3)** obrażać dobre obyczaje;
+- **4)** ujawnić okoliczności, które ze względu na ważny interes państwa powinny być zachowane w tajemnicy;
+- **5)** naruszyć ważny interes prywatny.
 
 **Art. 67.** Postępowanie przed Komisją należy zakończyć w terminie 3 miesięcy od dnia złożenia wniosku o ukaranie.
 
 **Art. 68.** Karami za przewinienie zawodowe są:
 
+- **1)** upomnienie;
+- **2)** nagana;
+- **3)** kara pieniężna;
+- **4)** zawieszenie uprawnienia do wykonywania zawodu medycznego na okres do 5 lat;
+- **5)** pozbawienie uprawnienia do wykonywania zawodu medycznego.
+
 **Art. 69.**
 
-1. Karę pieniężną wymierza się w wysokości od jednokrotnego do trzykrotnego minimalnego wynagrodzenia za pracę określanego na podstawie przepisów ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773).
+1. Karę pieniężną wymierza się w wysokości od jednokrotnego do trzykrotnego minimalnego wynagrodzenia za pracę określanego na podstawie przepisów ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207 oraz z 2023 r. poz. 1667).
 
 2. Kara pieniężna może zostać orzeczona także obok kar wymienionych w art. 68 pkt 1, 2, 4 i 5.
 
 3. Wpływy z kar pieniężnych stanowią dochód budżetu państwa.
 
-4. Egzekwowanie kar pieniężnych odbywa się na podstawie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2025 r. poz. 132, 620 i 1302).
+4. Egzekwowanie kar pieniężnych odbywa się na podstawie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm.).
 
 **Art. 70.**
 
 1. Karę zawieszenia uprawnienia do wykonywania zawodu medycznego orzeka się w miesiącach i latach.
 
-2. Bieg kary, o której mowa w ust. 1, rozpoczyna się z dniem uprawomocnienia się orzeczenia. medycznego zalicza się okres tymczasowego zawieszenia uprawnienia do wykonywania zawodu medycznego, o którym mowa w art. 60 ust. 1.
+2. Bieg kary, o której mowa w ust. 1, rozpoczyna się z dniem uprawomocnienia się orzeczenia.
+
+3. Na poczet kary zawieszenia uprawnienia do wykonywania zawodu medycznego zalicza się okres tymczasowego zawieszenia uprawnienia do wykonywania zawodu medycznego, o którym mowa w art. 60 ust. 1.
 
 **Art. 71.**
 
@@ -929,8 +1021,9 @@ source: "isap-pdf"
 
 1. W przypadku ukarania osoby obwinionej ponosi ona koszty postępowania, chyba że Komisja postanowi, że koszty postępowania ponosi Skarb Państwa. Zwrot kosztów postępowania przez ukaranego stanowi dochód budżetu państwa.
 
-2. Koszty postępowania stanowią: wezwanych przez Komisję lub rzecznika dyscyplinarnego;
+2. Koszty postępowania stanowią:
 
+- **1)** zwrot kosztów podróży i noclegu oraz utraconych zarobków lub dochodów osób wezwanych przez Komisję lub rzecznika dyscyplinarnego;
 - **2)** wynagrodzenie oraz zwrot kosztów podróży i noclegu członków Komisji;
 - **3)** wynagrodzenie za sporządzenie opinii mającej znaczenie dla rozpoznania sprawy.
 
@@ -950,7 +1043,9 @@ source: "isap-pdf"
 
 1. Od orzeczenia, o którym mowa w art. 66 ust. 1, osobie obwinionej oraz rzecznikowi dyscyplinarnemu przysługuje, w terminie 14 dni od dnia doręczenia orzeczenia, wniosek o ponowne rozpatrzenie sprawy przez Komisję w składzie pięcioosobowym. W ponownym rozpatrywaniu sprawy nie mogą brać udziału osoby uczestniczące w wydaniu zaskarżonego orzeczenia.
 
-2. Od orzeczenia wydanego na skutek ponownego rozpatrzenia sprawy osobie obwinionej przysługuje, w terminie 14 dni od dnia doręczenia orzeczenia, odwołanie do właściwego ze względu na miejsce zamieszkania osoby obwinionej sądu apelacyjnego. ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841 oraz z 2025 r. poz. 620, 1172 i 1302) o apelacji. Od orzeczenia sądu apelacyjnego skarga kasacyjna nie przysługuje.
+2. Od orzeczenia wydanego na skutek ponownego rozpatrzenia sprawy osobie obwinionej przysługuje, w terminie 14 dni od dnia doręczenia orzeczenia, odwołanie do właściwego ze względu na miejsce zamieszkania osoby obwinionej sądu apelacyjnego.
+
+3. Do rozpoznania odwołania, o którym mowa w ust. 2, stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, 1429, 1606, 1615, 1667 i 1860) o apelacji. Od orzeczenia sądu apelacyjnego skarga kasacyjna nie przysługuje.
 
 **Art. 74.**
 
@@ -977,13 +1072,17 @@ source: "isap-pdf"
 
 1. Postępowanie w przedmiocie odpowiedzialności zawodowej osób wykonujących zawód medyczny zakończone prawomocnym orzeczeniem Komisji wznawia się, jeżeli:
 
-- **1)** w związku z postępowaniem dopuszczono się przestępstwa, a istnieje uzasadniona podstawa do przyjęcia, że mogło to mieć wpływ na treść orzeczenia; Komisji, wskazujące na to, że:
-    - **a)** osoba obwiniona nie popełniła czynu albo czyn jej nie stanowił przewinienia zawodowego lub nie podlegał karze,
-    - **b)** Komisja umorzyła postępowanie, błędnie przyjmując popełnienie przez osobę obwinioną zarzucanego jej czynu.
+- **1)** w związku z postępowaniem dopuszczono się przestępstwa, a istnieje uzasadniona podstawa do przyjęcia, że mogło to mieć wpływ na treść orzeczenia;
+- **2)** po wydaniu orzeczenia ujawnią się nowe fakty lub dowody nieznane przedtem Komisji, wskazujące na to, że: osoba obwiniona nie popełniła czynu albo czyn jej nie stanowił przewinienia zawodowego lub nie podlegał karze, Komisja umorzyła postępowanie, błędnie przyjmując popełnienie przez osobę obwinioną zarzucanego jej czynu.
+    - **a)**
+    - **b)**
 
 2. Postępowanie w przedmiocie odpowiedzialności zawodowej zakończone prawomocnym orzeczeniem Komisji można wznowić w przypadku uchylenia lub istotnej zmiany treści prawomocnego orzeczenia, z powodu którego zostało ono umorzone w trybie art. 47.
 
 **Art. 79.** W sprawach nieuregulowanych w ustawie do postępowania w przedmiocie odpowiedzialności zawodowej stosuje się odpowiednio przepisy:
+
+- **1)** ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego; nie stosuje się przepisów o oskarżycielu prywatnym, powodzie cywilnym, przedstawicielu społecznym, postępowaniu przygotowawczym oraz środkach przymusu, z wyjątkiem przepisów o karze pieniężnej;
+- **2)** ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138, z późn. zm.).
 
 **Art. 80.**
 
@@ -992,7 +1091,10 @@ source: "isap-pdf"
 2. Członkiem Komisji będącym przedstawicielem osób:
 
 - **1)** wykonujących dany zawód medyczny może zostać osoba uprawniona do wykonywania zawodu medycznego, posiadająca co najmniej 3-letnie doświadczenie w wykonywaniu danego zawodu medycznego, niekarana za przestępstwo umyślne lub z tytułu odpowiedzialności dyscyplinarnej lub zawodowej, dająca rękojmię należytego wykonywania powierzonych jej zadań;
-- **2)** o których mowa w art. 1 ust. 2, może zostać osoba posiadająca co najmniej 3-letnie doświadczenie w wykonywaniu czynności zawodowych, o których mowa w art. 1 ust. 2, niekarana za przestępstwo umyślne lub z tytułu odpowiedzialności dyscyplinarnej lub zawodowej, dająca rękojmię należytego wykonywania powierzonych jej zadań. o których mowa w ust. 2, zwraca się o przedstawienie, w określonym terminie, kandydatów do pełnienia funkcji członka Komisji do:
+- **2)** o których mowa w art. 1 ust. 2, może zostać osoba posiadająca co najmniej 3-letnie doświadczenie w wykonywaniu czynności zawodowych, o których mowa w art. 1 ust. 2, niekarana za przestępstwo umyślne lub z tytułu odpowiedzialności dyscyplinarnej lub zawodowej, dająca rękojmię należytego wykonywania powierzonych jej zadań.
+
+3. Minister właściwy do spraw zdrowia w celu wyboru przedstawicieli osób, o których mowa w ust. 2, zwraca się o przedstawienie, w określonym terminie, kandydatów do pełnienia funkcji członka Komisji do:
+
 - **1)** stowarzyszeń będących zgodnie z postanowieniami ich statutów towarzystwami naukowymi o zasięgu krajowym, zrzeszających przedstawicieli danego zawodu medycznego lub osoby, o których mowa w art. 1 ust. 2;
 - **2)** stowarzyszeń będących zgodnie z postanowieniami ich statutów towarzystwami naukowymi o zasięgu krajowym, zrzeszających przedstawicieli pokrewnego zawodu medycznego – w przypadku braku stowarzyszeń, o których mowa w pkt 1;
 - **3)** związków zawodowych o zasięgu ogólnokrajowym, zrzeszających przedstawicieli danego zawodu medycznego lub osoby, o których mowa w art. 1 ust. 2.
@@ -1008,7 +1110,9 @@ source: "isap-pdf"
 - **1)** rezygnacji z członkostwa w Komisji;
 - **2)** utraty uprawnień do wykonywania zawodu medycznego lub rękojmi należytego wykonywania funkcji członka Komisji;
 - **3)** choroby trwale uniemożliwiającej członkostwo w Komisji;
-- **4)** skazania prawomocnym wyrokiem za przestępstwo umyślne lub z tytułu odpowiedzialności dyscyplinarnej lub zawodowej. kadencji, minister właściwy do spraw zdrowia powołuje nowego członka Komisji na okres do końca tej kadencji.
+- **4)** skazania prawomocnym wyrokiem za przestępstwo umyślne lub z tytułu odpowiedzialności dyscyplinarnej lub zawodowej.
+
+8. W przypadku odwołania członka Komisji albo jego śmierci przed upływem kadencji, minister właściwy do spraw zdrowia powołuje nowego członka Komisji na okres do końca tej kadencji.
 
 **Art. 81.**
 
@@ -1016,8 +1120,8 @@ source: "isap-pdf"
 
 2. Członkom Komisji przysługuje:
 
-- **1)** wynagrodzenie za rozpoznanie sprawy dotyczącej odpowiedzialności zawodowej, zakończonej wydaniem orzeczenia przez Komisję, nie wyższe niż 10 % przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku za rok poprzedzający rok, w którym jest ustalane wynagrodzenie, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w drodze obwieszczenia, do dnia 15 stycznia każdego roku;
-- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, przysługujących pracownikom z tytułu podróży służbowej na obszarze kraju.
+- **1)** wynagrodzenie za rozpoznanie sprawy dotyczącej odpowiedzialności zawodowej, zakończonej wydaniem orzeczenia przez Komisję, nie wyższe niż 10% przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku za rok poprzedzający rok, w którym jest ustalane wynagrodzenie, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w drodze obwieszczenia, do dnia 15 stycznia każdego roku;
+- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 775§ 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, przysługujących pracownikom z tytułu podróży służbowej na obszarze kraju.
 
 3. Wydatki związane z działalnością Komisji są finansowane z budżetu państwa z części, której dysponentem jest minister właściwy do spraw zdrowia.
 
@@ -1031,9 +1135,10 @@ source: "isap-pdf"
 
 3. Na czas wykonywania zadań rzecznikowi dyscyplinarnemu przysługuje zwolnienie od wykonywania pracy zawodowej z zachowaniem prawa do wynagrodzenia.
 
-4. Rzecznikowi dyscyplinarnemu przysługuje: zawodowej nie wyższe niż 15 % przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku za rok poprzedzający rok, w którym jest ustalane wynagrodzenie, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w drodze obwieszczenia, do dnia 15 stycznia każdego roku;
+4. Rzecznikowi dyscyplinarnemu przysługuje:
 
-- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, przysługujących pracownikom z tytułu podróży służbowej na obszarze kraju.
+- **1)** wynagrodzenie za rozpoznanie sprawy dotyczącej odpowiedzialności zawodowej nie wyższe niż 15% przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku za rok poprzedzający rok, w którym jest ustalane wynagrodzenie, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w drodze obwieszczenia, do dnia 15 stycznia każdego roku;
+- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 775§ 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, przysługujących pracownikom z tytułu podróży służbowej na obszarze kraju.
 
 5. Wydatki związane z działalnością rzeczników dyscyplinarnych są finansowane z budżetu państwa z części, której dysponentem jest minister właściwy do spraw zdrowia.
 
@@ -1053,7 +1158,278 @@ source: "isap-pdf"
 
 2. Jeżeli sprawca czynu określonego w ust. 1 działa w celu osiągnięcia korzyści majątkowej, podlega karze grzywny albo karze ograniczenia wolności.
 
-**Art. 85.** Orzekanie w sprawach o czyny, o których mowa w art. 84, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860 i 1178). Zmiany w przepisach Art. 86–96. (pominięte)
+**Art. 85.** Orzekanie w sprawach o czyny, o których mowa w art. 84, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124 oraz z 2023 r. poz. 1963).
+
+#### Rozdział 7 Zmiany w przepisach
+
+**Art. 86.** W ustawie z dnia 19 kwietnia 1991 r. o izbach aptekarskich (Dz. U. z 2021 r. poz. 1850) uchyla się art. 78.
+
+**Art. 87.** W ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2022 r. poz. 2123) w art. 5 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2–4 w brzmieniu: „ 2. Psychoterapia to celowe i planowane oddziaływania psychologiczne, zmierzające do złagodzenia lub usunięcia objawów zaburzenia oraz do poprawy funkcjonowania psychicznego i społecznego, wspierające dążenia jednostki lub rodziny do zdrowia i rozwoju, kierowane do osób z zaburzeniami psychicznymi. 3. Psychoterapię w ramach opieki, o której mowa w ust. 1, prowadzi:
+
+- **1)** osoba posiadająca certyfikat psychoterapeuty, która spełnia łącznie następujące warunki: posiada tytuł zawodowy lekarza lub tytuł zawodowy magistra albo spełnia warunki określone w art. 63 ust. 1 ustawy z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów (Dz. U. z 2019 r. poz. 1026), udokumentuje: – ukończenie podyplomowego szkolenia w wymiarze co najmniej 1200 godzin w zakresie oddziaływań psychoterapeutycznych mających zastosowanie w leczeniu zaburzeń zdrowia, prowadzonego metodami o udowodnionej naukowo skuteczności, w szczególności metodą terapii humanistyczno-doświadczeniowej lub integracyjnej, lub poznawczo-behawioralnej, lub psychoanalitycznej, lub psychodynamicznej, lub systemowej, obejmującego psychoterapię własną lub doświadczenie własne, superwizję psychoterapii i staże, albo – ukończenie przed dniem 31 grudnia 2028 r. rozpoczętego przed dniem 1 stycznia 2024 r. podyplomowego szkolenia w zakresie oddziaływań psychoterapeutycznych mających zastosowanie w leczeniu zaburzeń zdrowia, prowadzonego metodami o udowodnionej naukowo skuteczności, w szczególności metodą terapii humanistyczno-doświadczeniowej lub integracyjnej, lub poznawczo-behawioralnej, lub psychoanalitycznej, lub psychodynamicznej, lub systemowej, i odbycie – realizowanych po rozpoczęciu szkolenia – psychoterapii własnej, doświadczenia własnego, superwizji psychoterapii lub staży, które łącznie ze szkoleniem obejmują co najmniej 1200 godzin, albo – ukończenie przed 2012 r. podyplomowego szkolenia w zakresie oddziaływań psychoterapeutycznych mających zastosowanie w leczeniu zaburzeń zdrowia w wymiarze czasu określonym w programie tego szkolenia, zdała egzamin certyfikujący przeprowadzony przez komisję zewnętrzną wobec podmiotu kształcącego, w skład której nie wchodzą przedstawiciele podmiotu kształcącego, w szczególności powołaną przez stowarzyszenia wydające certyfikaty psychoterapeuty, lub
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** osoba, która uzyskała tytuł specjalisty w dziedzinie psychoterapii dzieci i młodzieży lub osoba posiadająca decyzję ministra właściwego do spraw zdrowia o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie, zgodnie z art. 28 ust. 1 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. z 2023 r. poz. 506), lub
+- **3)** osoba, która uzyskała tytuł specjalisty w dziedzinie psychoterapii lub osoba posiadająca decyzję ministra właściwego do spraw zdrowia o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie, zgodnie z art. 28 ust. 1 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia, lub
+- **4)** osoba, która ubiega się o otrzymanie certyfikatu psychoterapeuty, która spełnia łącznie następujące warunki: posiada tytuł zawodowy lekarza lub tytuł zawodowy magistra albo spełnia warunki określone w art. 63 ust. 1 ustawy z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów, posiada status osoby odbywającej szkolenie, o którym mowa w pkt 1 lit. b tiret pierwsze albo drugie, i zaświadczenie wydane przez podmiot prowadzący to szkolenie o ukończeniu co najmniej 2 roku tego szkolenia, albo spełnia warunek, o którym mowa w pkt 1 lit. b tiret pierwsze albo drugie, uczestniczy w superwizji psychoterapii i posiada zaświadczenie w tym zakresie wystawione przez superwizora psychoterapii, lub
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **5)** osoba w trakcie specjalizacji z psychoterapii dzieci i młodzieży lub psychoterapii, która spełnia łącznie następujące warunki: posiada status osoby w trakcie szkolenia specjalizacyjnego, ukończyła co najmniej 2 rok szkolenia specjalizacyjnego i posiada zaświadczenie wydane przez podmiot prowadzący kształcenie o ukończeniu co najmniej 2 roku tego szkolenia, posiada zaświadczenie od pracodawcy o pracy pod nadzorem osoby posiadającej certyfikat psychoterapeuty lub specjalisty w dziedzinie psychoterapii dzieci i młodzieży, lub specjalisty w dziedzinie psychoterapii.
+    - **a)**
+    - **b)**
+
+4. Psychoterapia, o której mowa w ust. 2, udzielana w ramach rehabilitacji w rozumieniu art. 4 pkt 22 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2023 r. poz. 1939) albo jako psychoterapia osób uzależnionych od alkoholu albo psychoterapia członków rodzin, o której mowa w art. 22 ust. 2a ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 165, 240, 535 i 803), jest realizowana na zasadach określonych w tych ustawach. ” .
+
+**Art. 88.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2023 r. poz. 1516, 1617 i 1831) w art. 17 po ust. 2 dodaje się ust. 2a w brzmieniu: „ 2a. Minister właściwy do spraw zdrowia może wyrazić zgodę na przyznawanie certyfikatu umiejętności zawodowej towarzystwu naukowemu o zasięgu krajowym prowadzącemu działalność naukową co najmniej przez 1 rok przed datą złożenia wniosku, o którym mowa w ust. 5, pod warunkiem, że statutowa działalność towarzystwa oraz planowana do certyfikacji umiejętność zawodowa związane są bezpośrednio z realizacją celu operacyjnego Narodowego Programu Zdrowia, o którym mowa w art. 9 ust. 1 ustawy z dnia 11 września 2015 r. o zdrowiu publicznym (Dz. U. z 2022 r. poz. 1608 oraz z 2023 r. poz. 1718), aktualnego w dacie wydawania zgody przez ministra właściwego do spraw zdrowia. ” .
+
+**Art. 89.** W ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2023 r. poz. 1541 i 1560) wprowadza się następujące zmiany:
+
+- **1)** w art. 21 w ust. 3 pkt 2 otrzymuje brzmienie: „
+- **2)** liczbę i rozmieszczenie na obszarze województwa funkcjonujących oraz planowanych do utworzenia: zespołów ratownictwa medycznego, kierując się parametrami czasu dotarcia na miejsce zdarzenia, określonymi w art. 24, oraz liczbą zdarzeń w obszarze działania, przyjmując, że na każde rozpoczęte 10 podstawowych zespołów ratownictwa medycznego, przypada nie mniej niż 1 specjalistyczny zespół ratownictwa medycznego, szpitalnych oddziałów ratunkowych; ” ;
+    - **a)**
+    - **b)**
+
+- **2)** w art. 26c dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
+
+2. Osoby, o których mowa w ust. 1, zatrudnione w dniu odwołania stanu zagrożenia epidemicznego albo stanu epidemii na stanowisku dyspozytora medycznego, głównego dyspozytora medycznego albo zastępcy głównego dyspozytora medycznego, mogą pełnić te funkcje po tym dniu. ” .
+
+**Art. 90.** W ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2023 r. poz. 1545, 1675 i 1692) art. 19 otrzymuje brzmienie: „ Zasady przeprowadzenia badania lub udzielenia innych świadczeń zdrowotnych przez lekarza, ratownika medycznego, pielęgniarkę systemu oraz diagnostę laboratoryjnego mimo braku zgody albo wobec zgłoszenia sprzeciwu, o których mowa w art. 17 i art. 18, określają odpowiednio przepisy art. 33 i art. 34 ust. 6 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, art. 57 ustawy z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705 oraz z 2023 r. poz. 1234), art. 12a ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2022 r. poz. 2702 i 2705 oraz z 2023 r. poz. 185 i 1234) oraz art. 23 i art. 24 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. poz. 2280 oraz z 2023 r. poz. 1234). ” .
+
+**Art. 91.** W ustawie z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2023 r. poz. 991 i 1675) wprowadza się następujące zmiany:
+
+- **1)** art. 10 otrzymuje brzmienie: „
+
+1. Ambulatoryjne świadczenia zdrowotne obejmują świadczenia podstawowej lub specjalistycznej opieki zdrowotnej oraz świadczenia z zakresu rehabilitacji leczniczej, udzielane w warunkach niewymagających ich udzielania w trybie stacjonarnym i całodobowym w odpowiednio urządzonym, stałym pomieszczeniu.
+
+2. Udzielanie świadczeń, o których mowa w ust. 1, może odbywać się w:
+
+- **1)** pomieszczeniach zakładu leczniczego;
+- **2)** pojeździe przeznaczonym do udzielania tych świadczeń;
+- **3)** miejscu pobytu pacjenta.
+
+3. W przypadku udzielania przez podmiot leczniczy wyłącznie świadczeń, o których mowa w ust. 2 pkt 3, należy wskazać miejsce przyjmowania wezwań i miejsca przechowywania dokumentacji medycznej oraz produktów leczniczych i sprzętu medycznego.
+
+4. Podmiot leczniczy będący przedsiębiorcą – osobą fizyczną, która jednoosobowo wykonuje zawód medyczny, o którym mowa w art. 1 ust. 1 ustawy z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych (Dz. U. poz. 1972), może udzielać świadczeń zdrowotnych w lokalu mieszkalnym, pod warunkiem zapewnienia wyodrębnienia pomieszczenia, w którym są udzielane te świadczenia, od pomieszczeń innych użytkowników lokalu. ” ;
+
+- **2)** w art. 100 w ust. 1 pkt 3 otrzymuje brzmienie: „
+- **3)** adres miejsca udzielania świadczeń zdrowotnych albo miejsca przyjmowania wezwań i przechowywania dokumentacji medycznej – w przypadku wykonywania działalności leczniczej wyłącznie w miejscu wezwania; ” ;
+- **3)** w art. 106 w ust. 3 pkt 3 otrzymuje brzmienie: „
+- **3)** adresu miejsca udzielania świadczeń zdrowotnych albo miejsca przyjmowania wezwań i przechowywania dokumentacji medycznej – w przypadku wykonywania działalności leczniczej wyłącznie w miejscu wezwania; ” .
+
+**Art. 92.** W ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2022 r. poz. 1555, 2280 i 2705 oraz z 2023 r. poz. 650, 1234 i 1692) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 pkt 11 otrzymuje brzmienie: „
+- **11)** pracownik medyczny – osobę wykonującą zawód medyczny, o której mowa w art. 2 ust. 1 pkt 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, osobę uprawnioną do świadczenia usług farmaceutycznych, która udziela świadczeń opieki zdrowotnej lub świadczy usługi farmaceutyczne w ramach stosunku pracy lub umowy cywilnoprawnej, oraz osoby, o których mowa w art. 1 ust. 1 pkt 1 ustawy z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych (Dz. U. poz. 1972); ” ;
+- **2)** w art. 3 w ust. 3: po pkt 4a dodaje się pkt 4b w brzmieniu: „
+    - **a)**
+
+- **4b)** minister właściwy do spraw zdrowia na podstawie ustawy z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych, w zakresie danych przetwarzanych w Centralnym Rejestrze Osób Uprawnionych do Wykonywania Zawodu Medycznego; ” , pkt 9 otrzymuje brzmienie: „
+    - **b)**
+
+- **9)** Centrum Medyczne Kształcenia Podyplomowego na podstawie przepisów o zawodach lekarza i lekarza dentysty, o zawodzie fizjoterapeuty, o zawodach pielęgniarki i położnej, o medycynie laboratoryjnej, o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych, o zawodzie farmaceuty oraz o niektórych zawodach medycznych, w odniesieniu do danych określonych w tych przepisach; ” ;
+- **3)** w art. 5 ust. 3b otrzymuje brzmienie: „
+
+3b. W rejestrach, o których mowa w art. 15 ust. 1, art. 16 ust. 1, art. 17 ust. 1 i art. 17a ust. 1, mogą być weryfikowane dane o usługobiorcach, usługodawcach, pracownikach medycznych oraz produktach leczniczych przetwarzane w:
+
+- **1)** rejestrach medycznych;
+- **2)** rejestrze podmiotów wykonujących działalność leczniczą, o którym mowa w ustawie z dnia 15 kwietnia 2011 r. o działalności leczniczej;
+- **3)** systemach teleinformatycznych, dla których administratorem danych jest minister właściwy do spraw zdrowia lub organy, o których mowa w art. 33 ust. 2 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512). ” ;
+- **4)** w art. 17: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Tworzy się rejestr medyczny, zwany „Centralnym Wykazem Pracowników Medycznych”, zawierający dane dotyczące lekarzy, lekarzy dentystów, felczerów, starszych felczerów, pielęgniarek, położnych, diagnostów laboratoryjnych, fizjoterapeutów, farmaceutów, ratowników medycznych oraz osób wykonujących inne zawody medyczne, o których mowa w art. 1 ust. 1 pkt 1 ustawy z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych. ” , w ust. 2 po pkt 4 dodaje się pkt 4a i 4b w brzmieniu: „
+
+- **b)**
+- **4a)** indywidualnego identyfikatora wpisu, o którym mowa w art. 4 ust. 1 pkt 2 ustawy z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych, w przypadku osób, o których mowa w art. 1 ust. 1 pkt 1 tej ustawy;
+- **4b)** informacji, o których mowa w art. 4 ust. 1 pkt 3, 4, 9 i 12 ustawy z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych, w przypadku osób, o których mowa w art. 1 ust. 1 pkt 1 tej ustawy; ” , po ust. 2c dodaje się ust. 2d w brzmieniu: „
+    - **c)**
+
+2d. Dane, o których mowa w ust. 2, w zakresie zawodów medycznych, o których mowa w ustawie z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych, są przekazywane do Centralnego Wykazu Pracowników Medycznych z Centralnego Rejestru Osób Uprawnionych do Wykonywania Zawodu Medycznego, o którym mowa w art. 3 ust. 1 tej ustawy, w celu identyfikacji i uwierzytelnienia osób wykonujących te zawody w systemie informacji, a także w celu weryfikacji ich uprawnień zawodowych. ” , w ust. 4b wyrazy „o których mowa w ust. 2 pkt 1, 2, 4, 7 i 9” zastępuje się wyrazami „o których mowa w ust. 2 pkt 1, 2, 4–4b, 7 i 9”;
+
+- **d)**
+- **5)** w art. 17c: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Podstawą identyfikacji w systemie informacji usługobiorcy, usługodawcy, miejsca udzielenia świadczenia opieki zdrowotnej, pracownika medycznego i osoby upoważnionej, o której mowa w art. 31b ust. 1, jest unikalny identyfikator. ” , ust. 5 otrzymuje brzmienie: „
+
+- **b)**
+
+5. Identyfikator pracownika medycznego stanowi:
+
+- **1)** numer prawa wykonywania zawodu albo
+- **2)** indywidualny identyfikator wpisu, o którym mowa w art. 4 ust. 1 pkt 2 ustawy z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych, w przypadku osób, o których mowa w art. 1 ust. 1 pkt 1 tej ustawy, albo
+- **3)** numer PESEL, w przypadku osób, którym nie nadano identyfikatora pracownika medycznego, o którym mowa w pkt 1 albo 2. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
+    - **c)**
+
+5a. Identyfikator osoby upoważnionej, o której mowa w art. 31b ust. 1, stanowi numer PESEL. ” ;
+
+- **6)** w art. 18a wyrazy „pracowników medycznych” zastępuje się wyrazami „pracowników medycznych, osób upoważnionych, o których mowa w art. 31b ust. 1,”.
+
+**Art. 93.** W ustawie z dnia 10 maja 2018 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 1115, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** art. 21a otrzymuje brzmienie: „
+
+1. Do dnia 31 grudnia 2023 r. dyspozytor medyczny ma prawo i obowiązek stałego aktualizowania wiedzy i umiejętności przez uczestnictwo w różnych rodzajach i formach doskonalenia zawodowego.
+
+2. Doskonalenie zawodowe w zawodzie dyspozytora medycznego może być realizowane przez:
+
+- **1)** kursy doskonalące;
+- **2)** samokształcenie.
+
+3. Dyspozytor medyczny w terminie do dnia 20 stycznia 2024 r. przekazuje wojewodzie właściwemu ze względu na miejsce zamieszkania dyspozytora medycznego kartę doskonalenia zawodowego w celu potwierdzenia przez wojewodę dopełnienia obowiązku doskonalenia zawodowego przez dyspozytora medycznego za okres edukacyjny, który zakończy się w dniu 31 grudnia 2023 r. ” ;
+
+- **2)** po art. 21a dodaje się art. 21aa-21ag w brzmieniu: „
+
+1. Kurs doskonalący ma na celu pogłębienie i aktualizację wiedzy i umiejętności zawodowych, w tym szkolenie praktyczne.
+
+2. Kurs doskonalący odbywa się na podstawie programu kursu doskonalącego, który zawiera:
+
+- **1)** założenia organizacyjno-programowe określające rodzaj i cel kształcenia, czas jego trwania, sposób organizacji oraz sposób sprawdzania efektów kształcenia;
+- **2)** plan nauczania;
+- **3)** wykaz umiejętności wynikowych;
+- **4)** treści nauczania;
+- **5)** wskazówki metodyczne;
+- **6)** standardy dotyczące kadry i bazy dydaktycznej.
+
+3. Program kursu doskonalącego aktualizuje, zgodnie z postępem wiedzy, zespół ekspertów, o którym mowa w ust. 4. Program kursu doskonalącego redaguje Centrum Medyczne Kształcenia Podyplomowego, zwane dalej „CMKP”, i zatwierdza minister właściwy do spraw zdrowia.
+
+4. Dyrektor CMKP powołuje zespół ekspertów spośród osób legitymujących się doświadczeniem zawodowym i dorobkiem naukowym w zakresie medycyny ratunkowej.
+
+5. CMKP redaguje i przedstawia do zatwierdzenia ministrowi właściwemu do spraw zdrowia opracowany przez zespół ekspertów program kursu doskonalącego.
+
+6. Dyrektor CMKP podaje do publicznej wiadomości zatwierdzony program kursu doskonalącego w formie publikacji oraz informacji na swojej stronie internetowej. Prowadzenie kursów doskonalących przez przedsiębiorcę jest działalnością regulowaną w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641, 803 i 1414).
+
+1. Kurs doskonalący mogą prowadzić podmioty, które:
+
+- **1)** realizują program kursu doskonalącego, o którym mowa w art. 21aa;
+- **2)** zapewniają kadrę dydaktyczną posiadającą kwalifikacje zgodne ze standardami, o których mowa w art. 21aa ust. 2 pkt 6;
+- **3)** zapewniają bazę dydaktyczną zgodną ze standardami, o których mowa w art. 21aa ust. 2 pkt 6, niezbędną do realizacji programu kursu, w tym do szkolenia praktycznego;
+- **4)** posiadają wewnętrzny system oceny jakości kształcenia;
+- **5)** prowadzą dokumentację związaną z organizacją i przebiegiem kształcenia, w szczególności regulaminy organizacyjne kształcenia, protokoły postępowania kwalifikacyjnego oraz przebiegu sprawdzianów lub innych form zaliczenia danego rodzaju kształcenia;
+- **6)** prowadzą ewidencję wydanych zaświadczeń o ukończeniu danego rodzaju kształcenia, obejmującą: dane osoby, która ukończyła kurs doskonalący: – imię i nazwisko, – numer PESEL, a w przypadku braku numeru PESEL cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz kraj wydania, – adres miejsca zamieszkania, rodzaj i nazwę kształcenia, nazwę (firmę) organizatora kształcenia, datę wydania i numer zaświadczenia.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+2. Podmiot uprawniony do prowadzenia kursu doskonalącego, przed jego rozpoczęciem, jest obowiązany uzyskać wpis na listę podmiotów uprawnionych do prowadzenia kursu doskonalącego.
+
+3. Podmiot ubiegający się o uzyskanie wpisu na listę podmiotów uprawnionych do prowadzenia kursu doskonalącego składa do wojewody właściwego ze względu na miejsce, w którym ten podmiot będzie realizował kurs doskonalący, wniosek zgodny z wzorem, o którym mowa w przepisach wydanych na podstawie art. 26 ust. 5 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2023 r. poz. 1541 i 1560), do którego dołącza się:
+
+- **1)** dokumenty potwierdzające spełnienie wymagań, o których mowa w ust. 1 pkt 1–3;
+- **2)** oświadczenie o zgodności danych zawartych we wniosku oraz znajomości i spełnianiu warunków wykonywania działalności w zakresie doskonalenia zawodowego dyspozytorów medycznych, określonych w niniejszej ustawie.
+
+4. Wniosek, o którym mowa w ust. 3, zawiera:
+
+- **1)** oznaczenie podmiotu ubiegającego się o uzyskanie wpisu na listę podmiotów uprawnionych do prowadzenia kursu doskonalącego;
+- **2)** liczbę i kwalifikacje kadry dydaktycznej;
+- **3)** opis bazy dydaktycznej, w której podmiot zamierza prowadzić kurs doskonalący;
+- **4)** plan realizacji programu kursu doskonalącego.
+
+5. Oświadczenie, o którym mowa w ust. 3 pkt 2, składa się pod rygorem odpowiedzialności karnej jak za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+6. Wojewoda dokonuje weryfikacji formalnej wniosku, o którym mowa w ust. 3, oraz załączonych dokumentów i przekazuje je do CMKP w terminie 14 dni od złożenia wszystkich dokumentów określonych niniejszą ustawą.
+
+7. W przypadku stwierdzenia we wniosku braków formalnych wojewoda wzywa do ich uzupełnienia, pod rygorem pozostawienia sprawy bez rozpoznania, w terminie 14 dni od dnia otrzymania wezwania.
+
+8. Dyrektor CMKP, w celu uzyskania opinii o spełnieniu przez podmiot warunków, o których mowa w ust. 1, powołuje zespół ekspertów, w składzie:
+
+- **1)** przedstawiciel stowarzyszenia będącego zgodnie z postanowieniami jego statutu towarzystwem naukowym o zasięgu krajowym, zrzeszającym dyspozytorów medycznych zgłoszony przez zarząd tego stowarzyszenia;
+- **2)** dwóch ekspertów w zakresie ratownictwa medycznego zgłoszonych przez konsultanta krajowego w dziedzinie medycyny ratunkowej.
+
+9. Zespół ekspertów, o którym mowa w ust. 8, opiniuje wnioski w miarę potrzeby, nie rzadziej niż raz na kwartał i przekazuje swoją opinię dyrektorowi CMKP niezwłocznie po jej sporządzeniu, nie później jednak niż w terminie 7 dni od dnia jej sporządzenia. Wnioski mogą być opiniowane w trybie obiegowym, z użyciem dostępnych systemów teleinformatycznych lub systemów łączności.
+
+10. Dyrektor CMKP dokonuje wpisu na listę podmiotów uprawnionych do prowadzenia kursu doskonalącego oraz prowadzi listę kursów doskonalących. Listy te zamieszcza się na stronie internetowej CMKP.
+
+11. Dyrektor CMKP wydaje z urzędu zaświadczenie o dokonaniu wpisu na listę.
+
+12. Dyrektor CMKP skreśla z listy podmiotów uprawnionych do prowadzenia kursu doskonalącego. Skreślenie następuje w drodze decyzji administracyjnej w przypadku:
+
+- **1)** złożenia oświadczenia, o którym mowa w ust. 3 pkt 2, niezgodnego ze stanem faktycznym;
+- **2)** wydania prawomocnego orzeczenia zakazującego podmiotowi uprawnionemu do prowadzenia kursu doskonalącego działalności objętej wpisem na listę podmiotów uprawnionych do prowadzenia kursu doskonalącego;
+- **3)** naruszenia warunków wymaganych do prowadzenia kursu doskonalącego;
+- **4)** złożenia przez podmiot uprawniony do prowadzenia kursu doskonalącego wniosku o wykreślenie z listy podmiotów uprawnionych do prowadzenia kursu doskonalącego.
+
+13. Decyzja administracyjna, o której mowa w ust. 12, podlega natychmiastowemu wykonaniu.
+
+14. Skreślenie z listy podmiotów uprawnionych do prowadzenia kursu doskonalącego następuje także w przypadku uzyskania przez dyrektora CMKP informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego o wykreśleniu przedsiębiorcy.
+
+15. Każda zmiana programu kursu doskonalącego oraz warunków realizacji programu powoduje obowiązek ponownego uzyskania wpisu na listę podmiotów uprawnionych do prowadzenia kursu doskonalącego.
+
+16. W przypadku zmiany danych wpisanych na listę podmiotów uprawnionych do prowadzenia kursu doskonalącego podmiot uprawniony do prowadzenia kursu doskonalącego jest obowiązany złożyć wniosek o zmianę wpisu w terminie 14 dni od dnia, w którym nastąpiła zmiana tych danych.
+
+17. Podmiot uprawniony do prowadzenia kursu doskonalącego, który został skreślony z listy podmiotów uprawnionych do prowadzenia kursu doskonalącego z przyczyn wskazanych w ust. 12 pkt 1, 3 i 4, może uzyskać ponowny wpis na listę nie wcześniej niż po upływie 3 lat od wydania decyzji administracyjnej o skreśleniu.
+
+18. Przepis ust. 17 stosuje się odpowiednio do podmiotu, który wykonywał działalność gospodarczą w zakresie prowadzenia kursów doskonalących bez wpisu na listę podmiotów uprawnionych do prowadzenia kursu doskonalącego.
+
+19. Lista podmiotów uprawnionych do prowadzenia kursu doskonalącego zawiera następujące dane:
+
+- **1)** numer wpisu;
+- **2)** nazwę (firmę);
+- **3)** adres siedziby;
+- **4)** adres do korespondencji;
+- **5)** numer telefonu oraz adres poczty elektronicznej, jeżeli posiada.
+
+20. Dyrektor CMKP prostuje z urzędu wpis na listę podmiotów uprawnionych do prowadzenia kursu doskonalącego zawierający oczywiste błędy lub niezgodności ze stanem faktycznym.
+
+21. Lista kursów doskonalących zawiera następujące dane:
+
+- **1)** nazwę (firmę) podmiotu uprawnionego do prowadzenia kursu doskonalącego;
+- **2)** adres siedziby podmiotu uprawnionego do prowadzenia kursu doskonalącego;
+- **3)** adres do korespondencji;
+- **4)** numer telefonu oraz adres poczty elektronicznej, jeżeli posiada;
+- **5)** termin i miejsce prowadzenia kursu doskonalącego.
+
+22. Podmiot wpisany na listę podmiotów uprawnionych do prowadzenia kursu doskonalącego jest obowiązany zgłaszać właściwemu wojewodzie termin i miejsce prowadzenia danego kursu, w terminie co najmniej 60 dni przed jego rozpoczęciem. Dyrektor CMKP zamieszcza informacje o terminie kursu doskonalącego na liście, o której mowa w ust. 21.
+
+23. Wojewoda niezwłocznie przesyła informacje, o których mowa w ust. 22, do CMKP.
+
+1. Przebieg doskonalenia zawodowego dyspozytora medycznego dokumentuje się w karcie doskonalenia zawodowego.
+
+2. Kartę doskonalenia zawodowego na wniosek dyspozytora medycznego wydaje wojewoda właściwy ze względu na miejsce zamieszkania dyspozytora medycznego, a w przypadku gdy nie jest możliwe ustalenie właściwego wojewody – Wojewoda Mazowiecki.
+
+3. Wniosek o wydanie karty doskonalenia zawodowego zawiera:
+
+- **1)** imię i nazwisko;
+- **2)** datę i miejsce urodzenia;
+- **3)** numer PESEL, a w przypadku braku numeru PESEL cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz kraj wydania;
+- **4)** adres miejsca zamieszkania;
+- **5)** adres do korespondencji;
+- **6)** numer telefonu oraz adres poczty elektronicznej, jeżeli posiada.
+
+4. Karta doskonalenia zawodowego zawiera:
+
+- **1)** imię i nazwisko;
+- **2)** datę i miejsce urodzenia;
+- **3)** numer PESEL, a w przypadku braku numeru PESEL cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz kraj wydania;
+- **4)** numer prawa wykonywania zawodu lub numer pierwszego dyplomu ratownika medycznego (jeżeli dotyczy);
+- **5)** nazwę i adres podmiotu, u którego dyspozytor medyczny wykonuje zawód;
+- **6)** datę rozpoczęcia okresu edukacyjnego;
+- **7)** informację o terminach i miejscach odbycia doskonalenia zawodowego;
+- **8)** nazwę i adres podmiotu przeprowadzającego kurs doskonalący;
+- **9)** informację o dopełnieniu obowiązku doskonalenia zawodowego. Koszty doskonalenia zawodowego ponosi dyspozytor medyczny lub podmiot, u którego dyspozytor medyczny wykonuje zawód, lub jednostka prowadząca szkolenie. Podmiot, u którego dyspozytor medyczny wykonuje zawód, jest obowiązany ułatwić dyspozytorowi medycznemu aktualizowanie wiedzy i umiejętności przez uczestnictwo w różnych rodzajach i formach doskonalenia zawodowego. Dyspozytor medyczny przedstawia podmiotowi, u którego wykonuje zawód, dokumenty poświadczające realizację obowiązku określonego w art. 21aa ust. 1. ” .
+
+**Art. 94.** W ustawie z dnia 13 września 2018 r. o Centrum Medycznym Kształcenia Podyplomowego (Dz. U. z 2021 r. poz. 77) w art. 3 ust. 4 otrzymuje brzmienie: „ 4. CMKP samodzielnie organizuje i realizuje elementy kształcenia podyplomowego lekarzy, lekarzy dentystów, farmaceutów, fizjoterapeutów, diagnostów laboratoryjnych, ratowników medycznych, innych osób legitymujących się dyplomem ukończenia studiów, które wykonują zawody mające zastosowanie w ochronie zdrowia, oraz osób wykonujących zawody medyczne, o których mowa w art. 1 ust. 1 pkt 1 ustawy z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych (Dz. U. poz. 1972), z wyłączeniem kształcenia podyplomowego pielęgniarek i położnych oraz praktyki technika farmaceutycznego w aptece odbytej zgodnie z przepisami wydanymi na podstawie art. 91 ust. 3 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2022 r. poz. 2301 oraz z 2023 r. poz. 605, 650, 1859 i 1938). ” .
+
+**Art. 95.** W ustawie z dnia 10 grudnia 2020 r. o zawodzie farmaceuty (Dz. U. z 2022 r. poz. 1873 oraz z 2023 r. poz. 1234) w art. 75 w ust. 3 pkt 1 otrzymuje brzmienie: „
+
+- **1)** założenia organizacyjno-programowe określające rodzaj i cel kształcenia, czas jego trwania, sposób organizacji oraz sposób sprawdzania efektów uczenia się; ” .
+
+**Art. 96.** W ustawie z dnia 17 grudnia 2021 r. o zmianie ustawy o zdrowiu publicznym oraz niektórych innych ustaw (Dz. U. poz. 2469) art. 12 otrzymuje brzmienie: „ 1. Osoba, która na podstawie dotychczasowych przepisów:
+
+- **1)** przed dniem 1 stycznia 2022 r. ukończyła szkolenie w dziedzinie uzależnienia i nie uzyskała certyfikatu specjalisty psychoterapii uzależnień lub
+- **2)** w dniu 1 stycznia 2022 r. jest w trakcie szkolenia w dziedzinie uzależnienia w zakresie specjalisty psychoterapii uzależnień, lub
+- **3)** uzyskała certyfikat specjalisty psychoterapii uzależnień może przystąpić do Państwowego Egzaminu Specjalizacyjnego w dziedzinie psychoterapii uzależnień, zgodnie z przepisami ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia. Osoby, o których mowa w pkt 1 i 2, mogą przystąpić do tego egzaminu nie później niż w okresie 4 lat od dnia ukończenia szkolenia zgodnie z dotychczasowymi przepisami.
+
+2. Osoba, która na podstawie dotychczasowych przepisów:
+
+- **1)** przed dniem 1 stycznia 2022 r. ukończyła szkolenie w dziedzinie uzależnienia i nie uzyskała certyfikatu instruktora terapii uzależnień lub
+- **2)** w dniu 1 stycznia 2022 r. jest w trakcie szkolenia w dziedzinie uzależnienia w zakresie instruktora terapii uzależnień, lub
+- **3)** uzyskała certyfikat instruktora terapii uzależnień może przystąpić do Państwowego Egzaminu Specjalizacyjnego w dziedzinie psychoterapii uzależnień, zgodnie z przepisami ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia, po ukończeniu uzupełniającego szkolenia specjalizacyjnego, do którego stosuje się odpowiednio przepisy art. 52 tej ustawy. Osoby, o których mowa w pkt 1 i 2, mogą przystąpić do tego egzaminu nie później niż w okresie 4 lat od dnia ukończenia szkolenia zgodnie z dotychczasowymi przepisami. ” .
 
 #### Rozdział 8 Przepisy dostosowujące, przejściowe i końcowe
 
@@ -1061,7 +1437,7 @@ source: "isap-pdf"
 
 **Art. 98.**
 
-1. Osoby, które przed dniem wejścia w życie niniejszej ustawy uzyskały tytuł zawodowy magistra lub magistra inżyniera lub równorzędny na kierunku studiów w zakresie, o którym mowa w przepisach wydanych na podstawie art. 46 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia, niezbędnym do wykonywania zawodu medycznego, i w okresie 1 roku przed dniem wejścia w życie niniejszej ustawy wykonywały czynności zawodowe, o których mowa w art. 13, przewidziane dla tego zawodu oraz spełniają warunki określone w art. 2 ust. 1 pkt 1–4, stają się osobami wykonującymi zawód medyczny w rozumieniu niniejszej ustawy i przysługuje im prawo wpisu do rejestru.
+1. Osoby, które przed dniem wejścia w życie niniejszej ustawy uzyskały tytuł zawodowy magistra lub magistra inżyniera lub równorzędny na kierunku studiów w zakresie, o którym mowa w przepisach wydanych na podstawie art. 46 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia, niezbędnym do wykonywania zawodu medycznego, i w okresie 5 lat przed dniem wejścia w życie niniejszej ustawy wykonywały czynności zawodowe, o których mowa w art. 13, przewidziane dla tego zawodu oraz spełniają warunki określone w art. 2 ust. 1 pkt 1–4, stają się osobami wykonującymi zawód medyczny w rozumieniu niniejszej ustawy i przysługuje im prawo wpisu do rejestru.
 
 2. W przypadku osób, o których mowa w ust. 1, rejestr zawiera dodatkowo informację o wykonywaniu czynności zawodowych, o których mowa w art. 13.
 
@@ -1069,9 +1445,11 @@ source: "isap-pdf"
 
 **Art. 99.**
 
-1. Osoby, które w dniu wejścia w życie niniejszej ustawy spełniają warunki określone w art. 2 ust. 1 pkt 1–5 oraz ust. 2, a także osoby, o których mowa w art. 98 ust. 1, mogą wykonywać zawód medyczny w okresie 18 miesięcy od dnia wejścia w życie niniejszej ustawy bez uzyskania wpisu do rejestru.
+1. Osoby, które w dniu wejścia w życie niniejszej ustawy spełniają warunki określone w art. 2 ust. 1 pkt 1–5 oraz ust. 2, a także osoby, o których mowa w art. 98 ust. 1, mogą wykonywać zawód medyczny w okresie roku od dnia wejścia w życie niniejszej ustawy bez uzyskania wpisu do rejestru.
 
-2. Osoby, o których mowa w ust. 1, wpisuje się do rejestru na wniosek, o którym mowa w art. 5 ust. 1, złożony nie później niż w okresie 6 miesięcy od dnia wejścia w życie niniejszej ustawy. medycznego w toku kształcenia rozpoczętego przed dniem 1 września 2021 r. i zrealizowały „Program kursu kwalifikacyjnego dla opiekunów medycznych uzupełniającego w zakresie kwalifikacji MED.14 Świadczenie usług medyczno-pielęgnacyjnych i opiekuńczych osobie chorej i niesamodzielnej” opracowanego w ramach projektu „Rozwój kompetencji zawodowych i kwalifikacji opiekunów medycznych odpowiadających na potrzeby epidemiologiczno-demograficzne kraju”, uzyskują uprawnienia do wykonywania czynności zawodowych takie same jak osoby, które rozpoczęły kształcenie w zawodzie opiekun medyczny po dniu 31 sierpnia 2021 r. w szkole policealnej publicznej lub niepublicznej i uzyskały dyplom zawodowy w tym zawodzie.
+2. Osoby, o których mowa w ust. 1, wpisuje się do rejestru na wniosek, o którym mowa w art. 5 ust. 1, złożony nie później niż w okresie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 100.** Osoby, które uzyskały kwalifikacje do wykonywania zawodu opiekuna medycznego w toku kształcenia rozpoczętego przed dniem 1 września 2021 r. i zrealizowały „Program kursu kwalifikacyjnego dla opiekunów medycznych uzupełniającego w zakresie kwalifikacji MED.14 Świadczenie usług medyczno-pielęgnacyjnych i opiekuńczych osobie chorej i niesamodzielnej” opracowanego w ramach projektu „Rozwój kompetencji zawodowych i kwalifikacji opiekunów medycznych odpowiadających na potrzeby epidemiologiczno-demograficzne kraju”, uzyskują uprawnienia do wykonywania czynności zawodowych takie same jak osoby, które rozpoczęły kształcenie w zawodzie opiekun medyczny po dniu 31 sierpnia 2021 r. w szkole policealnej publicznej lub niepublicznej i uzyskały dyplom zawodowy w tym zawodzie.
 
 **Art. 101.** Osoby, które przed dniem wejścia w życie niniejszej ustawy zrealizowały kurs w ramach projektu „Kursy podnoszące kwalifikacje kadry medycznej udzielającej świadczeń zdrowotnych, w tym w związku z chorobą zakaźną, w szczególności COVID-19”, mogą uzyskać punkty edukacyjne za zrealizowanie tego kursu w pierwszym rozpoczętym okresie edukacyjnym.
 
@@ -1079,18 +1457,26 @@ source: "isap-pdf"
 
 **Art. 103.** Do dnia 31 października 2023 r. wojewodowie przekażą ministrowi właściwemu do spraw zdrowia aktualizacje wojewódzkich planów działania systemu, o których mowa w art. 21 ustawy zmienianej w art. 89, sporządzone zgodnie z wymaganiami, o których mowa w art. 21 ust. 3 pkt 2 ustawy zmienianej w art. 89 w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 104.**
+**Art. 104.** Dyspozytorzy medyczni, którzy przed dniem wejścia w życie niniejszej ustawy rozpoczęli okres edukacyjny, kontynuują go na dotychczasowych zasadach z zachowaniem punktów edukacyjnych.
 
-1. Jeżeli dyspozytor medyczny, którego okres edukacyjny zakończył się z dniem 31 grudnia 2024 r. lub kończy się z dniem 31 grudnia 2025 r., nie posiada dokumentu potwierdzającego realizację obowiązku określonego w art. 21aa ust. 1 ustawy zmienianej w art. 93, jest obowiązany do zrealizowania kursu, o którym mowa w art. 27a ust. 2 pkt 7 lit. c ustawy zmienianej w art. 89.
+**Art. 105.**
 
-2. Dokument potwierdzający realizację obowiązku określonego w art. 21aa ust. 1 ustawy zmienianej w art. 93 jest ważny do zakończenia 3-letniego okresu edukacyjnego.
+1. Kursy doskonalące, o których mowa w art. 21a ust. 2 pkt 1 ustawy zmienianej w art. 93, rozpoczęte przed dniem wejścia w życie niniejszej ustawy są realizowane zgodnie z dotychczasowymi przepisami.
+
+2. Program kursu doskonalącego, o którym mowa w art. 21aa ust. 2 ustawy zmienianej w art. 93, opracowany i zatwierdzony przed dniem wejścia w życie niniejszej ustawy zachowuje ważność.
+
+3. Wnioski w sprawie uzyskania wpisu na listę podmiotów uprawnionych do prowadzenia kursu doskonalącego, o których mowa w art. 21ac ust. 3 ustawy zmienianej w art. 93, złożone przed dniem wejścia w życie niniejszej ustawy są rozpatrywane na dotychczasowych zasadach.
+
+4. Podmiot wpisany na listę podmiotów uprawnionych do prowadzenia kursu doskonalącego, o której mowa w art. 21ac ust. 10 ustawy zmienianej w art. 93, przed dniem wejścia w życie niniejszej ustawy jest uprawniony do prowadzenia kursu doskonalącego.
+
+5. Karta doskonalenia zawodowego, o której mowa w art. 21ad ust. 1 ustawy zmienianej w art. 93, wydana dla dyspozytora medycznego przed dniem wejścia w życie niniejszej ustawy zachowuje ważność przez okres na jaki została wydana.
 
 **Art. 106.**
 
 1. Osoba, która:
 
 - **1)** przed dniem 31 grudnia 2028 r. spełniła warunek, o którym mowa w art. 5 ust. 3 pkt 1 lit. b tiret pierwsze ustawy zmienianej w art. 87, albo
-- **2)** spełniła warunek, o którym mowa w art. 5 ust. 3 pkt 1 lit. b tiret drugie albo trzecie ustawy zmienianej w art. 87 – może przystąpić do Państwowego Egzaminu Specjalizacyjnego w dziedzinie psychoterapii zgodnie z przepisami ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia.
+- **2)** spełniła warunek, o którym mowa w art. 5 ust. 3 pkt 1 lit. b tiret drugie albo trzecie ustawy zmienianej w art. 87 może przystąpić do Państwowego Egzaminu Specjalizacyjnego w dziedzinie psychoterapii zgodnie z przepisami ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia.
 
 2. Osoba, o której mowa w ust. 1, może przystąpić do Państwowego Egzaminu Specjalizacyjnego zgodnie z przepisami ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia, w dziedzinie psychoterapii dzieci i młodzieży, jeżeli dodatkowo posiada rekomendację superwizora lub superwizorów psychoterapii mających doświadczenie w superwizji procesów psychoterapeutycznych dzieci lub młodzieży oraz ich rodzin potwierdzającą, że posiada kwalifikacje do prowadzenia tej psychoterapii, a także że prowadzona psychoterapia była przedmiotem superwizji w wymiarze co najmniej 100 godzin, a także:
 
@@ -1099,5 +1485,12 @@ source: "isap-pdf"
 
 **Art. 107.** Traci moc ustawa z dnia 18 lipca 1950 r. o odpowiedzialności zawodowej fachowych pracowników służby zdrowia (Dz. U. poz. 332 oraz z 2001 r. poz. 1207).
 
-**Art. 108.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia , z wyjątkiem:
+**Art. 108.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 90, art. 93, art. 104 i art. 105, które wchodzą w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 22 czerwca 2023 r.;
+- **2)** art. 89, art. 95 i art. 103, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **3)** art. 92 pkt 3, pkt 5 lit. a i c oraz pkt 6 i art. 96, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
+- **4)** art. 87 i art. 106, które wchodzą w życie z dniem 1 stycznia 2024 r.;
+- **5)** art. 92 pkt 1, pkt 2 lit. a, pkt 4 oraz pkt 5 lit. b, które wchodzą w życie po upływie 18 miesięcy od dnia ogłoszenia. Załącznik – Wykształcenie uzyskane w systemie szkolnictwa wyższego i nauki, kwalifikacje uzyskane w systemie oświaty lub inne kwalifikacje wymagane do wykonywania danego zawodu medycznego Lp. Nazwa zawodu Wykształcenie lub kwalifikacje 1 asystentka stomatologiczna 1) rozpoczęcie po dniu 31 sierpnia 2019 r. szkoły policealnej publicznej lub niepublicznej i uzyskanie dyplomu zawodowego w zawodzie asystentka stomatologiczna lub2) rozpoczęcie przed dniem 1 września 2019 r. szkoły policealnej publicznej lub niepublicznej o uprawnieniach szkoły publicznej i uzyskanie tytułu zawodowego asystentka stomatologiczna lub dyplomu potwierdzającego kwalifikacje zawodowe w zawodzie asystentka stomatologiczna 2 dietetyk 1) rozpoczęcie po dniu 30 września 2012 r. studiów w zakresie dietetyki i uzyskanie tytułu zawodowego co najmniej licencjata albo inżyniera lub2) rozpoczęcie przed dniem 1 października 2012 r. studiów na kierunku (specjalności) dietetyka i uzyskanie tytułu zawodowego co najmniej licencjata albo inżyniera, lub3) rozpoczęcie przed dniem 1 października 2007 r. studiów na kierunku technologia żywności i żywienie człowieka w specjalności żywienie człowieka i uzyskanie tytułu zawodowego co najmniej licencjata albo inżyniera, lub4) rozpoczęcie przed dniem 1 września 2013 r. szkoły policealnej publicznej lub niepublicznej o uprawnieniach szkoły publicznej i uzyskanie tytułu zawodowego dietetyk lub dyplomu potwierdzającego kwalifikacje zawodowe w zawodzie dietetyk albo ukończenie technikum lub szkoły policealnej publicznej lub niepublicznej o uprawnieniach szkoły publicznej i uzyskanie tytułu zawodowego technik technologii żywienia w specjalności dietetyka 3 elektroradiolog 1) rozpoczęcie po dniu 30 września 2012 r. studiów w zakresie elektroradiologii i uzyskanie tytułu zawodowego co najmniej licencjata albo inżyniera lub2) rozpoczęcie przed dniem 1 października 2012 r. studiów na kierunku (specjalności) elektroradiologia i uzyskanie tytułu zawodowego co najmniej licencjata albo inżyniera, lub3) rozpoczęcie po dniu 31 sierpnia 2019 r. szkoły policealnej publicznej lub niepublicznej i uzyskanie dyplomu zawodowego w zawodzie technik elektroradiolog, lub4) rozpoczęcie przed dniem 1 września 2019 r. szkoły policealnej publicznej lub niepublicznej o uprawnieniach szkoły publicznej i uzyskanie tytułu zawodowego technik elektroradiolog lub technik elektroradiologii lub dyplomu potwierdzającego kwalifikacje zawodowe w zawodzie technik elektroradiolog 4 higienistka stomatologiczna 1) rozpoczęcie po dniu 30 września 2012 r. studiów w zakresie higieny dentystycznej i uzyskanie tytułu zawodowego co najmniej licencjata albo inżyniera lub2) rozpoczęcie przed dniem 1 października 2012 r. studiów na kierunku (specjalności) higiena dentystyczna (stomatologiczna) i uzyskanie tytułu zawodowego co najmniej licencjata albo inżyniera, lub3) rozpoczęcie po dniu 31 sierpnia 2019 r. szkoły policealnej publicznej lub niepublicznej i uzyskanie dyplomu zawodowego w zawodzie higienistka stomatologiczna, lub 4) rozpoczęcie przed dniem 1 września 2019 r. szkoły policealnej publicznej lub niepublicznej o uprawnieniach szkoły publicznej i uzyskanie tytułu zawodowego higienistka stomatologiczna lub dyplomu potwierdzającego kwalifikacje zawodowe w zawodzie higienistka stomatologiczna 5 instruktor terapii uzależnień posiadanie certyfikatu instruktora terapii uzależnień wydanego przez Państwową Agencję Rozwiązywania Problemów Alkoholowych, Krajowe Biuro do Spraw Przeciwdziałania Narkomanii lub Krajowe Centrum Przeciwdziałania Uzależnieniom 6 opiekun medyczny 1) rozpoczęcie po dniu 31 sierpnia 2021 r. szkoły policealnej publicznej lub niepublicznej i uzyskanie dyplomu zawodowego w zawodzie opiekun medyczny lub2) rozpoczęcie po dniu 31 sierpnia 2019 r. szkoły policealnej publicznej lub niepublicznej i uzyskanie dyplomu zawodowego w zawodzie opiekun medyczny, lub3) rozpoczęcie przed dniem 1 września 2021 r. kwalifikacyjnego kursu zawodowego w zakresie kwalifikacji wyodrębnionej w zawodzie i uzyskanie świadectwa potwierdzającego kwalifikację w zawodzie lub certyfikatu kwalifikacji zawodowej, lub dyplomu potwierdzającego kwalifikacje zawodowe w zawodzie opiekun medyczny, lub dyplomu zawodowego w zawodzie opiekun medyczny, lub4) rozpoczęcie przed dniem 1 września 2019 r. szkoły policealnej publicznej lub niepublicznej o uprawnieniach szkoły publicznej i uzyskanie tytułu zawodowego opiekun medyczny lub dyplomu potwierdzającego kwalifikacje zawodowe w zawodzie opiekun medyczny, lub5) rozpoczęcie przed dniem 1 września 2012 r. zasadniczej szkoły zawodowej publicznej lub niepublicznej o uprawnieniach szkoły publicznej i uzyskanie tytułu zawodowego w zawodzie opiekun medyczny lub dyplomu potwierdzającego kwalifikacje zawodowe w zawodzie opiekun medyczny 7 optometrysta 1) rozpoczęcie po dniu wejścia w życie ustawy studiów w zakresie optometrii i uzyskanie tytułu zawodowego magistra albo magistra inżyniera lub2) rozpoczęcie po dniu 30 września 2012 r. studiów w zakresie optometrii i uzyskanie tytułu zawodowego co najmniej licencjata albo inżyniera, lub3) rozpoczęcie przed dniem 1 października 2012 r. studiów na kierunku (specjalności) optometria i uzyskanie tytułu zawodowego co najmniej licencjata albo inżyniera, lub4) rozpoczęcie przed dniem wejścia w życie ustawy studiów podyplomowych w zakresie optometrii i uzyskanie świadectwa ukończenia tych studiów 8 ortoptystka 1) rozpoczęcie po dniu 31 sierpnia 2019 r. szkoły policealnej publicznej lub niepublicznej i uzyskanie dyplomu zawodowego w zawodzie ortoptystka lub2) rozpoczęcie przed dniem 1 września 2019 r. szkoły policealnej publicznej lub niepublicznej o uprawnieniach szkoły publicznej i uzyskanie tytułu zawodowego ortoptystka lub dyplomu potwierdzającego kwalifikacje zawodowe w zawodzie ortoptystka 9 podiatra ukończenie studiów w zakresie podiatrii i uzyskanie tytułu zawodowego co najmniej licencjata albo inżyniera 10 profilaktyk 1) rozpoczęcie po dniu 30 września 2012 r. studiów w zakresie zdrowia publicznego i uzyskanie tytułu zawodowego co najmniej licencjata albo inżyniera lub2) rozpoczęcie przed dniem 1 października 2012 r. studiów na kierunku (specjalności) zdrowie publiczne i uzyskanie tytułu zawodowego co najmniej licencjata albo inżyniera 11 protetyk słuchu 1) rozpoczęcie po dniu 30 września 2012 r. studiów w zakresie protetyka słuchu i uzyskanie tytułu zawodowego co najmniej licencjata albo inżyniera lub2) rozpoczęcie przed dniem 1 października 2012 r. studiów na kierunku (specjalności) protetyka słuchu i uzyskanie tytułu zawodowego co najmniej licencjata albo inżyniera, lub3) rozpoczęcie po dniu 31 sierpnia 2019 r. szkoły policealnej publicznej lub niepublicznej i uzyskanie dyplomu zawodowego w zawodzie protetyk słuchu, lub4) rozpoczęcie przed dniem 1 września 2019 r. szkoły policealnej publicznej lub niepublicznej o uprawnieniach szkoły publicznej i uzyskanie tytułu zawodowego protetyk słuchu lub dyplomu potwierdzającego kwalifikacje zawodowe w zawodzie protetyk słuchu, lub5) posiadanie co najmniej 2-letniego doświadczenia zawodowego w wykonywaniu czynności zawodowych w gabinecie protetyki słuchu i ukończenie do dnia 1 października 2010 r. kursu z zakresu protetyki słuchu organizowanego przez szkołę kształcącą w zakresie akustyki lub Instytut Fizjologii i Patologii Słuchu, obejmującego co najmniej 108 godzin kształcenia w zakresie niezbędnym do przygotowania do wykonywania zawodu protetyka słuchu, lub6) uzyskanie przed dniem wejścia w życie ustawy dyplomu mistrza w zawodzie protetyk słuchu 12 technik farmaceutyczny 1) rozpoczęcie po dniu 31 sierpnia 2019 r. szkoły policealnej publicznej lub niepublicznej i uzyskanie dyplomu zawodowego w zawodzie technik farmaceutyczny lub2) rozpoczęcie przed dniem 1 września 2018 r. szkoły policealnej publicznej lub niepublicznej o uprawnieniach szkoły publicznej i uzyskanie tytułu zawodowego technik farmaceutyczny lub dyplomu potwierdzającego kwalifikacje zawodowe w zawodzie technik farmaceutyczny 13 technik masażysta 1) rozpoczęcie po dniu 31 sierpnia 2019 r. technikum lub szkoły policealnej publicznej lub niepublicznej i uzyskanie dyplomu zawodowego w zawodzie technik masażysta lub2) rozpoczęcie przed dniem 1 września 2019 r. technikum lub szkoły policealnej publicznej lub niepublicznej o uprawnieniach szkoły publicznej i uzyskanie tytułu zawodowego technik masażysta lub dyplomu potwierdzającego kwalifikacje zawodowe w zawodzie technik masażysta 14 technik ortopeda 1) rozpoczęcie po dniu 30 września 2012 r. studiów w zakresie techniki ortopedycznej i uzyskanie tytułu zawodowego co najmniej licencjata albo inżyniera lub2) rozpoczęcie przed dniem 1 października 2012 r. studiów na kierunku (specjalności) technika ortopedyczna i uzyskanie tytułu zawodowego co najmniej licencjata albo inżyniera, lub3) rozpoczęcie po dniu 31 sierpnia 2019 r. technikum lub szkoły policealnej publicznej lub niepublicznej i uzyskanie dyplomu zawodowego w zawodzie technik ortopeda, lub4) rozpoczęcie przed dniem 1 września 2019 r. technikum lub szkoły policealnej, publicznej lub niepublicznej o uprawnieniach szkoły publicznej i uzyskanie tytułu zawodowego technik ortopeda lub dyplomu potwierdzającego kwalifikacje zawodowe w zawodzie technik ortopeda, lub5) ukończenie przed dniem wejścia w życie ustawy szkoły policealnej publicznej lub niepublicznej o uprawnieniach szkoły publicznej i uzyskanie tytułu zawodowego w zawodzie technik biomechanik, lub6) uzyskanie przed dniem wejścia w życie ustawy dyplomu mistrza w zawodzie technik ortopeda 15 technik sterylizacji medycznej 1) rozpoczęcie po dniu 31 sierpnia 2019 r. szkoły policealnej publicznej lub niepublicznej i uzyskanie dyplomu zawodowego w zawodzie technik sterylizacji medycznej lub2) rozpoczęcie przed dniem 1 września 2019 r. szkoły policealnej publicznej lub niepublicznej o uprawnieniach szkoły publicznej i uzyskanie tytułu zawodowego technik sterylizacji medycznej lub dyplomu potwierdzającego kwalifikacje zawodowe w zawodzie technik sterylizacji medycznej 16 terapeuta zajęciowy 1) rozpoczęcie po dniu 30 września 2012 r. studiów w zakresie terapii zajęciowej i uzyskanie tytułu zawodowego co najmniej licencjata albo inżyniera lub2) rozpoczęcie przed dniem 1 października 2012 r. studiów na kierunku (specjalności) terapia zajęciowa i uzyskanie tytułu zawodowego co najmniej licencjata albo inżyniera, lub3) rozpoczęcie po dniu 31 sierpnia 2019 r. szkoły policealnej publicznej lub niepublicznej i uzyskanie dyplomu zawodowego w zawodzie terapeuta zajęciowy, lub4) rozpoczęcie przed dniem 1 września 2019 r. szkoły policealnej publicznej lub niepublicznej o uprawnieniach szkoły publicznej i uzyskanie tytułu zawodowego terapeuta zajęciowy lub dyplomu potwierdzającego kwalifikacje zawodowe w zawodzie terapeuta zajęciowy, lub5) ukończenie przed dniem wejścia w życie ustawy szkoły policealnej publicznej lub niepublicznej o uprawnieniach szkoły publicznej i uzyskanie tytułu zawodowego w zawodzie instruktor terapii zajęciowej
+
 

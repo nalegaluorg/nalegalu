@@ -22,6 +22,7 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1971-06-23 |
 | Data wydania | 1971-06-29 |
+| Wejście w życie | 1971-06-29 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19710160156) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1971/156/text.pdf) |
 
@@ -42,6 +43,9 @@ source: "eli-html"
 2. Rada Ministrów może zwolnić osoby prawne wymienione w ust. 1 od podatków i opłat związanych z przejściem własności oraz od opłat za wpis prawa własności w księdze wieczystej.
 
 **Art. 3.** Rada Ministrów w drodze rozporządzenia określi w odniesieniu do osób prawnych wymienionych w art. 1 ust. 1 oraz duchownych i pracowników kościelnych na obszarze Ziem Zachodnich i Północnych zasady i tryb:
+
+- **1)** umorzenia zaległych należności państwowych, przypadających z tytułu czynszu lub wynagrodzenia za bezumowne korzystanie z terenów, budynków i lokali przed dniem wejścia ustawy w życie,
+- **2)** udzielania ulg podatkowych lub dotacji w związku z wpłaconymi należnościami z tytułów, o których mowa w pkt 1.
 
 **Art. 4.** Ustawa wchodzi w życie z dniem ogłoszenia.
 

@@ -8,10 +8,10 @@ pos: 2249
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Poz. 2249 ROZPORZĄDZENIE MINISTRA FUNDUSZY I POLITYKI REGIONALNEJ dnia 10 października 2023 r.
+# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 10 października 2023 r. zmieniające rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Priorytetu 1 Przedsiębiorczość i Innowacje oraz Priorytetu 5 Zrównoważona Turystyka programu Fundusze Europejskie dla Polski Wschodniej 2021–2027
 
 | Pole | Wartość |
 |---|---|
@@ -22,78 +22,114 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2023-10-10 |
 | Data wydania | 2023-10-19 |
+| Wejście w życie | 2023-10-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002249) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2249/text.pdf) |
 
-zmieniające rozporządzenie sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej ramach Priorytetu Przedsiębiorczość Innowacje oraz Priorytetu 5 Zrównoważona Turystyka programu Fundusze Europejskie dla Polski Wschodniej 2021–2027 Na podstawie art. 6b ust. 10b ustawy dnia 9 listopada 2000 r. utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. 2023 r. poz. 462 1672) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Funduszy Polityki Regionalnej dnia 20 grudnia 2022 r. sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej ramach Priorytetu Przedsiębiorczość Innowacje oraz Priorytetu 5 Zrównoważona Turystyka programu Fundusze Europejskie dla Polski Wschodniej 2021–2027 (Dz. U. poz. 2773) wprowadza się następujące zmiany:
-1) § 4 ust. pkt 1:
-a) uchyla się lit. f,
-b) po lit. f dodaje się lit. fa brzmieniu: „fa) pomoc inwestycyjną środki wspierające efektywność energetyczną – art. 38 rozporządzenia nr 651/2014,”,
-c) lit. g otrzymuje brzmienie: „g) pomoc inwestycyjną efektywne gospodarowanie zasobami wspieranie przechodzenia gospodarkę obiegu zamkniętym – art. 47 rozporządzenia nr 651/2014,”;
-2) § 5:
-a) po pkt dodaje się pkt 1a brzmieniu: „1a) efektywnym gospodarowaniu zasobami – należy przez to rozumieć efektywne gospodarowanie zasobami rozumieniu art. 2 pkt 128a rozporządzenia nr 651/2014;”,
-b) uchyla się pkt 5, 8 13;
-Minister Funduszy Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, podstawie § ust. 2 rozporządzenia Prezesa Rady Ministrów dnia 27 października 2021 r. sprawie szczegółowego zakresu działania Ministra Funduszy Polityki Regionalnej (Dz. U. poz. 1948).
-Zgodnie art. 8 ust. pkt ustawy dnia 28 kwietnia 2022 r. zasadach realizacji zadań finansowanych ze środków europejskich perspektywie finansowej 2021–2027 (Dz. U. poz. 1079) minister właściwy do spraw rozwoju regionalnego pełni funkcję instytucji środków ograniczających związku sytuacją Białorusi udziałem Białorusi agresji Rosji wobec Ukrainy (Dz. 134 20.05.2006, 1, późn. zm. ), rozporządzenia Rady (UE) nr 269/2014 dnia 17 marca 2014 r. sprawie środków ograniczających odniesieniu do działań podważających integralność terytorialną, suwerenność niezależność Ukrainy lub im zagrażających (Dz. 78 17.03.2014, 6, późn. zm. ), rozporządzenia Rady (UE) nr 833/2014 dnia 31 lipca 2014 r. dotyczącego środków ograniczających związku Zmiany wymienionego rozporządzenia zostały ogłoszone 294 25.10.2006, 25, 363 20.12.2006, 1, 180 09.07.2008, 5, 28 02.02.2011, 17, 76 22.03.2011, 13, 136
-24.05.2011, 48, 161 21.06.2011, 1, 265 11.10.2011, 6 8, 335 17.12.2011, 15, 38 11.02.2012, 3, 55 29.02.2012, 1, 87 24.03.2012, 37, 113 25.04.2012, 1, 307 07.11.2012, 7, 143 30.05.2013, 1, 158
-10.06.2013, 1, 288 30.10.2013, 1, 16 21.01.2014, 3, 200 09.07.2014, 1, 299 17.10.2014, 32, 311 31.10.2014, 2, 328 13.11.2014, 60, 367
-23.12.2014, 126, 176 07.07.2015, 40, 185 14.07.2015, 1, 206 01.08.2015, 16, 284 30.10.2015, 62 71, 52 27.02.2016, 19 22, 50 28.02.2017, 9, 54 24.02.2018, 1, 182 08.07.2019, 33, 319 02.10.2020, 1, 370
-06.11.2020, 1, 426 17.12.2020, 1, 57 18.02.2021, 94, 68 26.02.2021, 29, 197 04.06.2021, 1, 219 21.06.2021, 1, 3 55, 224 24.06.2021, 1, 405 16.11.2021, 3, 430 02.12.2021, 1, 37 18.02.2022, 4, 46
-25.02.2022, 3, 02.03.2022, 3, 79 09.03.2022, 38, 82 09.03.2022, 1, 83 10.03.2022, 2, 111 08.04.2022, 67, 114 12.04.2022, 60, 153
-03.06.2022, 11, 189 18.07.2022, 24, 190 19.07.2022, 5, 323 19.12.2022, 107, 61 27.02.2023, 20, 71 09.03.2023, 43, 90 28.03.2023, 65, 195 03.08.2023, oraz 196 04.08.2023, 3.
-Zmiany wymienionego rozporządzenia zostały ogłoszone 86 21.03.2014, 27, 126 29.04.2014, 48, 137 12.05.2014, 3, 160 29.05.2014, 7, 205 12.07.2014, 7, 214 19.07.2014, 2, 221 25.07.2014, 11, 226 30.07.2014, 16, 271 12.09.2014, 8, 331 18.11.2014, 1, 344 29.11.2014, 5, 40
-16.02.2015, 7, 66 11.03.2015, 20 21, 70 14.03.2015, 1, 199 29.07.2015, 46, 239 15.09.2015, 30, 275 20.10.2015, 68, 280 24.10.2015, 38, 342 29.12.2015, 64, 12.03.2016, 1, 249 16.09.2016, 1, 301 09.11.2016, 1, 14.03.2017, 34, 194 26.07.2017, 1, 203
-04.08.2017, 1, 237 15.09.2017, 37 44, 253 30.09.2017, 39, 304
-21.11.2017, 3, 69 13.03.2018, 11, 118 14.05.2018, 1, 152 15.06.2018, 60, 194 31.07.2018, 27, 231 14.09.2018, 1, 313 10.12.2018, 1, 19 22.01.2019, 1, 73 15.03.2019, 9 16, 182 08.07.2019, 33, 236
-13.09.2019, 1, 22 28.01.2020, 1, 78 13.03.2020, 1, 298 11.09.2020, 1, 318 01.10.2020, 1, 87 15.03.2021, 19, 321 13.09.2021, 1, 359 11.10.2021, 1, 445 13.12.2021, 4, 40 21.02.2022, 3, 42 23.02.2022, 1, 3 15, 51 25.02.2022, 1, 53 25.02.2022, 1, 58 28.02.2022, 1, 66 02.03.2022, 1, 02.03.2022, 113, 80 09.03.2022, 1, 84
-11.03.2022, 2, 87 15.03.2022, 1, 105 04.04.2022, 66, 110 08.04.2022, 3, 114 12.04.2022, 60, 116 13.04.2022, 1, 117 19.04.2022, 117, 120 21.04.2022, 1, 141 20.05.2022, 130, 153 03.06.2022, 15 75, 154 07.06.2022, 76, 161 16.06.2022, 122, 193 21.07.2022, 133, 194
-21.07.2022, 5, 204 04.08.2022, 17, 227 01.09.2022, 1, 239
-15.09.2022, 1, 259 06.10.2022, 76 79, 271 19.10.2022, 24, 272 Zmiany wymienionego rozporządzenia zostały ogłoszone 246 21.08.2014, 59, 271
-12.09.2014, 3, 349 05.12.2014, 20, 263 08.10.2015, 10, 316
-01.12.2017, 15, 182 08.07.2019, 33, 42 23.02.2022, 74, 49
-25.02.2022, 1, 55 28.02.2022, 78, 57 28.02.2022, 1, 63 02.03.2022, 1, 65 02.03.2022, 1, 81 09.03.2022, 1, 87 15.03.2022, 13, 111 08.04.2022, 1, 114 12.04.2022, 60, 212 214, 119 21.04.2022, 114, 153 03.06.2022, 53, 190 19.07.2022, 191, 193 21.07.2022, 1, 202
-02.08.2022, 58, 259 06.10.2022, 3, 311 03.12.2022, 5, 322
-16.12.2022, 1, 26 30.01.2023, 1, 32 04.02.2023, 4, 59 25.02.2023, 6, 322 16.12.2022, 1, 26 30.01.2023, 1, 32 04.02.2023, 4, 59 25.02.2023, 6, 159 23.06.2023, oraz 204 17.08.2023, 65.
-Zmiany wymienionego rozporządzenia zostały ogłoszone 62 01.03.2022, 26, 114 12.04.2022, 60, 116 13.04.2022, 3 oraz 259 06.10.2022, 1.
-Zmiany wymienionej decyzji zostały ogłoszone 143 30.05.2013, 24, 172 25.06.2013, 31, 288 30.10.2013, 69, 16 21.01.2014, 32, 200 09.07.2014, 13, 297 15.10.2014, 41, 311 31.10.2014, 39, 328 13.11.2014, 61, 176
-07.07.2015, 41, 185 14.07.2015, 20, 206 01.08.2015, 64, 284 30.10.2015, 149, 52 27.02.2016, 30, 50 28.02.2017, 81, 54 24.02.2018, 16, 57 26.02.2019, 4, 45 18.02.2020, 3, 319 02.10.2020, 13, 370
-06.11.2020, 9, 426 17.12.2020, 14, 57 18.02.2021, 93, 68 26.02.2021, 189, 197 04.06.2021, 3, 219 21.06.2021, 70, 224 24.06.2021, 15, 405 16.11.2021, 8 10, 430 02.12.2021, 16, 37 18.02.2022, 41, 46 25.02.2022, 97, 02.03.2022, 103, 82 09.03.2022, 9, 111
-08.04.2022, 81, 153 03.06.2022, 77 88, 190 19.07.2022, 139, 323
-19.12.2022, 106, 61 27.02.2023, 41, 70 08.03.2023, 56, 90 28.03.2023, 66, 195 03.08.2023, 31 oraz 196 04.08.2023, 37.
-Zmiany wymienionej decyzji zostały ogłoszone 86 21.03.2014, 30, 126 29.04.2014, 55, 137 12.05.2014, 9, 160 29.05.2014, 33, 205 12.07.2014, 22, 214
-19.07.2014, 214, 221 25.07.2014, 15, 226 30.07.2014, 23, 271 12.09.2014, 47, 331 18.11.2014, 26, 344 29.11.2014, 22, 40 16.02.2015, 14, 66 11.03.2015, 21 22, 70 14.03.2015, 47, 199 29.07.2015, 46, 239
-15.09.2015, 157, 275 20.10.2015, 68, 280 24.10.2015, 39, 342 29.12.2015, 65, 12.03.2016, 37, 249 16.09.2016, 39, 301 09.11.2016, 15,
-14.03.2017, 88, 194 26.07.2017, 63, 203 04.08.2017, 5, 237
-15.09.2017, 72, 253 30.09.2017, 40, 304 21.11.2017, 51, 69 13.03.2018, 48, 118 14.05.2018, 3, 152 15.06.2018, 60, 194 31.07.2018, 147, 231 14.09.2018, 27, 313 10.12.2018, 5, 19 22.01.2019, 7, 73
-15.03.2019, 110 117, 236 13.09.2019, 17, 22 28.01.2020, 5, 78 13.03.2020, 44, 298 11.09.2020, 23, 318 01.10.2020, 5, 87 15.03.2021, 35, 321 13.09.2021, 32, 359 11.10.2021, 6, 445 13.12.2021, 14, 40
-21.02.2022, 23, 42 23.02.2022, 98 114, 50 25.02.2022, 1, 52 25.02.2022, 1, 55 28.02.2022, 81, 59 28.02.2022, 1, 66 02.03.2022, 14,
-02.03.2022, 112, 80 09.03.2022, 31, 83 10.03.2022, 1, 84
-11.03.2022, 28, 87 15.03.2022, 44, 105 04.04.2022, 67, 110 08.04.2022, 55, 116 13.04.2022, 6, 117 19.04.2022, 118, 120 21.04.2022, 11, 141 20.05.2022, 131, 153 03.06.2022, 92 139, 156 09.06.2022, 160, 158
-13.06.2022, 65, 193 21.07.2022, 219, 194 21.07.2022, 11, 204 04.08.2022, 4, 227 01.09.2022, 4, 239 15.09.2022, 149, 259 06.10.2022, 98,
-5) § 18:
-a) ust. otrzymuje brzmienie: „1. Pomoc dla przedsiębiorców rozpoczynających działalność jest udzielana formie bezzwrotnego wsparcia finansowego do wysokości zasadach określonych art. 22 ust. 3 lit. c oraz ust. 5 rozporządzenia nr 651/2014.”,
-b) uchyla się ust. 3;
-6) § 20 ust. 2 wyrazy „200 000” zastępuje się wyrazami „220 000”;
-7) uchyla się rozdział 7;
-8) po rozdziale 7 dodaje się rozdział 7a brzmieniu: „Rozdział 7a Pomoc inwestycyjna środki wspierające efektywność energetyczną § 26a. 1. Pomoc inwestycyjna środki wspierające efektywność energetyczną jest udzielana realizację inwestycji umożliwiającej osiągnięcie wyższego poziomu efektywności energetycznej innej prowadzonej działalności gospodarczej.
-2. Pomoc inwestycyjna środki wspierające efektywność energetyczną nie może zostać udzielona inwestycje, których mowa art. 38 ust. 2–2b rozporządzenia nr 651/2014.
-§ 26b. Kosztami kwalifikowalnymi ramach pomocy inwestycyjnej środki wspierające efektywność energetyczną są całkowite lub dodatkowe koszty inwestycji niezbędne do osiągnięcia wyższego poziomu efektywności energetycznej, ustalone art. 38 ust. 3 rozporządzenia nr 651/2014.
-§ 26c. 1. Maksymalna intensywność pomocy inwestycyjnej środki wspierające efektywność energetyczną wynosi 30% kosztów kwalifikowalnych.
-2. Intensywność pomocy inwestycyjnej środki wspierające efektywność energetyczną zwiększa się zasadach określonych art. 38 ust. 5 6 rozporządzenia nr 651/2014.
-3. Intensywność pomocy inwestycyjnej środki wspierające efektywność energetyczną określoną ust. 2 zmniejsza się 50% przypadku, gdy koszty kwalifikowalne zostaną określone art. 38 ust. 8 rozporządzenia nr 651/2014.”;
-Zmiany wymienionej decyzji zostały ogłoszone 271 12.09.2014, 54, 282 26.09.2014, 27, 327 12.11.2014, 9, 349 05.12.2014, 58, 157 23.06.2015, 50, 257 02.10.2015, 42, 334 22.12.2015, 22, 178 02.07.2016, 21, 345
-20.12.2016, 65, 166 29.06.2017, 35, 316 01.12.2017, 20, 343
-22.12.2017, 77, 172 09.07.2018, 3, 331 28.12.2018, 224, 175
-28.06.2019, 38, 330 20.12.2019, 71, 207 30.06.2020, 37, 430
-18.12.2020, 26, 247 13.07.2021, 99, 9 14.01.2022, 43, 42 23.02.2022, 95, 48 25.02.2022, 1, 57 28.02.2022, 4, 63 02.03.2022, 5, 65 02.03.2022, 5, 81 09.03.2022, 8, 87 15.03.2022, 56, 111
-2. Pomoc inwestycyjna efektywne gospodarowanie zasobami wspieranie przechodzenia gospodarkę obiegu zamkniętym nie może zostać udzielona inwestycje, których mowa art. 47 ust. 3, 6 10 rozporządzenia nr 651/2014.
-3. Pomoc inwestycyjna efektywne gospodarowanie zasobami wspieranie przechodzenia gospodarkę obiegu zamkniętym jest udzielana warunkach, których mowa art. 47 ust. 4 5 rozporządzenia nr 651/2014.
-§ 28. 1. Kosztami kwalifikowalnymi ramach pomocy inwestycyjnej efektywne gospodarowanie zasobami wspieranie przechodzenia gospodarkę obiegu zamkniętym są całkowite lub dodatkowe koszty inwestycji, ustalone art. 47 ust. 7 rozporządzenia nr 651/2014.
-2. Maksymalna intensywność pomocy inwestycyjnej efektywne gospodarowanie zasobami wspieranie przechodzenia gospodarkę obiegu zamkniętym wynosi 40% kosztów kwalifikowalnych.
-3. Intensywność pomocy inwestycyjnej efektywne gospodarowanie zasobami wspieranie przechodzenia gospodarkę obiegu zamkniętym zwiększa się zasadach określonych art. 47 ust. 8 zdanie drugie ust. 9 rozporządzenia nr 651/2014.”.
-§ 2. 1. Do umów zawartych przed dniem wejścia życie niniejszego rozporządzenia, podstawie których udzielono pomocy finansowej, której mowa § 4 ust. rozporządzenia zmienianego § brzmieniu dotychczasowym, stosuje się przepisy dotychczasowe.
-2. Do umów zawieranych od dnia wejścia życie niniejszego rozporządzenia podstawie wniosków udzielenie pomocy finansowej, której mowa § 4 ust. rozporządzenia zmienianego § brzmieniu dotychczasowym, złożonych postępowaniach wszczętych przed tym dniem, stosuje się przepisy rozporządzenia zmienianego § brzmieniu nadanym niniejszym rozporządzeniem.
-3. Wnioski, których mowa ust. 2, wymagające uzupełnienia lub poprawy zakresie wynikającym przepisów rozporządzenia zmienianego § brzmieniu nadanym niniejszym rozporządzeniem uzupełnia się lub poprawia wezwanie Polskiej Agencji Rozwoju Przedsiębiorczości terminie wyznaczonym przez Polską Agencję Rozwoju Przedsiębiorczości, nie krótszym 14 dni od dnia następującego po dniu przekazania wezwania.
-§ 3. Rozporządzenie wchodzi życie dniem następującym po dniu ogłoszenia.
-Minister Funduszy Polityki Regionalnej: G. Puda
+Treść rozporządzenia
+Na podstawie art. 6b ust. 10b ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2023 r. poz. 462 i 1672) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Ministra Funduszy i Polityki Regionalnej z dnia 20 grudnia 2022 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Priorytetu 1 Przedsiębiorczość i Innowacje oraz Priorytetu 5 Zrównoważona Turystyka programu Fundusze Europejskie dla Polski Wschodniej 2021–2027 (Dz. U. poz. 2773) wprowadza się następujące zmiany:
+1)
+w § 4 w ust. 1 w pkt 1:
+a)
+uchyla się lit. f,
+b)
+po lit. f dodaje się lit. fa w brzmieniu: „ fa) pomoc inwestycyjną na środki wspierające efektywność energetyczną inną niż w budynkach – zgodnie z art. 38 rozporządzenia nr 651/2014, ” ,
+c)
+lit. g otrzymuje brzmienie:
+„
+g)
+pomoc inwestycyjną na efektywne gospodarowanie zasobami i wspieranie przechodzenia na gospodarkę o obiegu zamkniętym – zgodnie z art. 47 rozporządzenia nr 651/2014,
+” ;
+2)
+w § 5:
+a)
+po pkt 1 dodaje się pkt 1a w brzmieniu:
+„
+1a)
+efektywnym gospodarowaniu zasobami – należy przez to rozumieć efektywne gospodarowanie zasobami w rozumieniu art. 2 pkt 128a rozporządzenia nr 651/2014;
+” ,
+b)
+uchyla się pkt 5, 8 i 13;
+3)
+w § 6:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Pomoc publiczna nie może zostać udzielona w przypadkach wskazanych w art. 1 ust. 2, ust. 3 lit. a-d oraz ust. 5 i 6 oraz art. 13 rozporządzenia nr 651/2014.
+” ,
+b)
+w ust. 7 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przepisów rozporządzenia nie stosuje się w przypadku pomocy finansowej udzielanej przedsiębiorcom objętym sankcjami przyjętymi na podstawie rozporządzenia Rady (WE) nr 765/2006 z dnia 18 maja 2006 r. dotyczącego środków ograniczających w związku z sytuacją na Białorusi i udziałem Białorusi w agresji Rosji wobec Ukrainy (Dz. Urz. UE L 134 z 20.05.2006, str. 1, z późn. zm.), rozporządzenia Rady (UE) nr 269/2014 z dnia 17 marca 2014 r. w sprawie środków ograniczających w odniesieniu do działań podważających integralność terytorialną, suwerenność i niezależność Ukrainy lub im zagrażających (Dz. Urz. UE L 78 z 17.03.2014, str. 6, z późn. zm.), rozporządzenia Rady (UE) nr 833/2014 z dnia 31 lipca 2014 r. dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie (Dz. Urz. UE L 229 z 31.07.2014, str. 1, z późn. zm.), rozporządzenia Rady (UE) 2022/263 z dnia 23 lutego 2022 r. w sprawie środków ograniczających w odpowiedzi na nielegalne uznanie, okupację lub aneksję przez Federację Rosyjską niektórych niekontrolowanych przez rząd obszarów ukraińskich (Dz. Urz. UE LI 42 z 23.02.2022, str. 77, z późn. zm.) , decyzji Rady 2012/642/WPZiB z dnia 15 października 2012 r. dotyczącej środków ograniczających w związku z sytuacją na Białorusi i udziałem Białorusi w agresji Rosji wobec Ukrainy (Dz. Urz. UE L 285 z 17.10.2012, str. 1, z późn. zm.) , decyzji Rady 2014/145/WPZiB z dnia 17 marca 2014 r. w sprawie środków ograniczających w związku z działaniami podważającymi integralność terytorialną, suwerenność i niezależność Ukrainy lub im zagrażającymi (Dz. Urz. UE L 78 z 17.03.2014, str. 16, z późn. zm.), decyzji Rady 2014/512/WPZiB z dnia 31 lipca 2014 r. dotyczącej środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie (Dz. Urz. UE L 229 z 31.07.2014, str. 13, z późn. zm.) oraz decyzji Rady (WPZiB) 2022/266 z dnia 23 lutego 2022 r. w sprawie środków ograniczających w odpowiedzi na nielegalne uznanie, okupację lub aneksję przez Federację Rosyjską niektórych niekontrolowanych przez rząd obszarów Ukrainy (Dz. Urz. UE LI 42 z 23.02.2022, str. 109, z późn. zm.) , w szczególności: ” ;
+4)
+w § 9 ust. 2 otrzymuje brzmienie:
+„
+2.
+W przypadku pomocy publicznej do obliczenia intensywności oraz wartości tej pomocy i kosztów kwalifikowalnych stosuje się art. 7 ust. 1 i 2 rozporządzenia nr 651/2014.
+” ;
+5)
+w § 18:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Pomoc dla przedsiębiorców rozpoczynających działalność jest udzielana w formie bezzwrotnego wsparcia finansowego do wysokości i na zasadach określonych w art. 22 ust. 3 lit. c oraz ust. 5 rozporządzenia nr 651/2014.
+” ,
+b)
+uchyla się ust. 3;
+6)
+w § 20 w ust. 2 wyrazy „200 000” zastępuje się wyrazami „220 000”;
+7)
+uchyla się rozdział 7;
+8)
+po rozdziale 7 dodaje się rozdział 7a w brzmieniu:
+„
+§ 26a.
+1.
+Pomoc inwestycyjna na środki wspierające efektywność energetyczną inną niż w budynkach jest udzielana na realizację inwestycji umożliwiającej osiągnięcie wyższego poziomu efektywności energetycznej innej niż w budynkach w prowadzonej działalności gospodarczej.
+2.
+Pomoc inwestycyjna na środki wspierające efektywność energetyczną inną niż w budynkach nie może zostać udzielona na inwestycje, o których mowa w art. 38 ust. 2–2b rozporządzenia nr 651/2014.
+§ 26b.
+Kosztami kwalifikowalnymi w ramach pomocy inwestycyjnej na środki wspierające efektywność energetyczną inną niż w budynkach są całkowite lub dodatkowe koszty inwestycji niezbędne do osiągnięcia wyższego poziomu efektywności energetycznej, ustalone zgodnie z art. 38 ust. 3 rozporządzenia nr 651/2014.
+§ 26c.
+1.
+Maksymalna intensywność pomocy inwestycyjnej na środki wspierające efektywność energetyczną inną niż w budynkach wynosi 30% kosztów kwalifikowalnych.
+2.
+Intensywność pomocy inwestycyjnej na środki wspierające efektywność energetyczną inną niż w budynkach zwiększa się na zasadach określonych w art. 38 ust. 5 i 6 rozporządzenia nr 651/2014.
+3.
+Intensywność pomocy inwestycyjnej na środki wspierające efektywność energetyczną inną niż w budynkach określoną zgodnie z ust. 1 i 2 zmniejsza się o 50% w przypadku, gdy koszty kwalifikowalne zostaną określone zgodnie z art. 38 ust. 8 rozporządzenia nr 651/2014.
+” ;
+9)
+rozdział 8 otrzymuje brzmienie:
+„
+§ 27.
+1.
+Pomoc inwestycyjna na efektywne gospodarowanie zasobami i wspieranie przechodzenia na gospodarkę o obiegu zamkniętym jest udzielana na inwestycje, o których mowa w art. 47 ust. 2 rozporządzenia nr 651/2014.
+2.
+Pomoc inwestycyjna na efektywne gospodarowanie zasobami i wspieranie przechodzenia na gospodarkę o obiegu zamkniętym nie może zostać udzielona na inwestycje, o których mowa w art. 47 ust. 3, 6 i 10 rozporządzenia nr 651/2014.
+3.
+Pomoc inwestycyjna na efektywne gospodarowanie zasobami i wspieranie przechodzenia na gospodarkę o obiegu zamkniętym jest udzielana na warunkach, o których mowa w art. 47 ust. 4 i 5 rozporządzenia nr 651/2014.
+§ 28.
+1.
+Kosztami kwalifikowalnymi w ramach pomocy inwestycyjnej na efektywne gospodarowanie zasobami i wspieranie przechodzenia na gospodarkę o obiegu zamkniętym są całkowite lub dodatkowe koszty inwestycji, ustalone zgodnie z art. 47 ust. 7 rozporządzenia nr 651/2014.
+2.
+Maksymalna intensywność pomocy inwestycyjnej na efektywne gospodarowanie zasobami i wspieranie przechodzenia na gospodarkę o obiegu zamkniętym wynosi 40% kosztów kwalifikowalnych.
+3.
+Intensywność pomocy inwestycyjnej na efektywne gospodarowanie zasobami i wspieranie przechodzenia na gospodarkę o obiegu zamkniętym zwiększa się na zasadach określonych w art. 47 ust. 8 zdanie drugie i ust. 9 rozporządzenia nr 651/2014.
+” .
+§ 2.
+1.
+Do umów zawartych przed dniem wejścia w życie niniejszego rozporządzenia, na podstawie których udzielono pomocy finansowej, o której mowa w § 4 ust. 1 rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym, stosuje się przepisy dotychczasowe.
+2.
+Do umów zawieranych od dnia wejścia w życie niniejszego rozporządzenia na podstawie wniosków o udzielenie pomocy finansowej, o której mowa w § 4 ust. 1 rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym, złożonych w postępowaniach wszczętych przed tym dniem, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
+3.
+Wnioski, o których mowa w ust. 2, wymagające uzupełnienia lub poprawy w zakresie wynikającym z przepisów rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem uzupełnia się lub poprawia na wezwanie Polskiej Agencji Rozwoju Przedsiębiorczości w terminie wyznaczonym przez Polską Agencję Rozwoju Przedsiębiorczości, nie krótszym niż 14 dni od dnia następującego po dniu przekazania wezwania.
+§ 3.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948). Zgodnie z art. 8 ust. 1 pkt 1 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079) minister właściwy do spraw rozwoju regionalnego pełni funkcję instytucji zarządzającej programem Fundusze Europejskie dla Polski Wschodniej 2021–2027. 2) Tekst programu Fundusze Europejskie dla Polski Wschodniej 2021–2027 został zaakceptowany decyzją wykonawczą Komisji Europejskiej z dnia 6 października 2022 r. nr CCI 2021PL16RFPR003 zatwierdzającą program „Fundusze Europejskie dla Polski Wschodniej 2021–2027” do wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Inwestycje na rzecz zatrudnienia i wzrostu” dla regionów Lubelskiego, Mazowieckiego regionalnego, Podkarpackiego, Podlaskiego, Świętokrzyskiego i Warmińsko-Mazurskiego w Polsce. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 294 z 25.10.2006, str. 25, Dz. Urz. UE L 363 z 20.12.2006, str. 1, Dz. Urz. UE L 180 z 09.07.2008, str. 5, Dz. Urz. UE L 28 z 02.02.2011, str. 17, Dz. Urz. UE L 76 z 22.03.2011, str. 13, Dz. Urz. UE L 136 z 24.05.2011, str. 48, Dz. Urz. UE L 161 z 21.06.2011, str. 1, Dz. Urz. UE L 265 z 11.10.2011, str. 6 i 8, Dz. Urz. UE L 335 z 17.12.2011, str. 15, Dz. Urz. UE L 38 z 11.02.2012, str. 3, Dz. Urz. UE L 55 z 29.02.2012, str. 1, Dz. Urz. UE L 87 z 24.03.2012, str. 37, Dz. Urz. UE L 113 z 25.04.2012, str. 1, Dz. Urz. UE L 307 z 07.11.2012, str. 1 i 7, Dz. Urz. UE L 143 z 30.05.2013, str. 1, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 288 z 30.10.2013, str. 1, Dz. Urz. UE L 16 z 21.01.2014, str. 3, Dz. Urz. UE L 200 z 09.07.2014, str. 1, Dz. Urz. UE L 299 z 17.10.2014, str. 32, Dz. Urz. UE L 311 z 31.10.2014, str. 2, Dz. Urz. UE L 328 z 13.11.2014, str. 60, Dz. Urz. UE L 367 z 23.12.2014, str. 126, Dz. Urz. UE L 176 z 07.07.2015, str. 40, Dz. Urz. UE L 185 z 14.07.2015, str. 1, Dz. Urz. UE L 206 z 01.08.2015, str. 16, Dz. Urz. UE L 284 z 30.10.2015, str. 62 i 71, Dz. Urz. UE L 52 z 27.02.2016, str. 19 i 22, Dz. Urz. UE L 50 z 28.02.2017, str. 9, Dz. Urz. UE L 54 z 24.02.2018, str. 1, Dz. Urz. UE L 182 z 08.07.2019, str. 33, Dz. Urz. UE LI 319 z 02.10.2020, str. 1, Dz. Urz. UE LI 370 z 06.11.2020, str. 1, Dz. Urz. UE LI 426 z 17.12.2020, str. 1, Dz. Urz. UE L 57 z 18.02.2021, str. 94, Dz. Urz. UE L 68 z 26.02.2021, str. 29, Dz. Urz. UE LI 197 z 04.06.2021, str. 1, Dz. Urz. UE LI 219 z 21.06.2021, str. 1, 3 i 55, Dz. Urz. UE LI 224 z 24.06.2021, str. 1, Dz. Urz. UE L 405 z 16.11.2021, str. 1 i 3, Dz. Urz. UE LI 430 z 02.12.2021, str. 1, Dz. Urz. UE L 37 z 18.02.2022, str. 4, Dz. Urz. UE L 46 z 25.02.2022, str. 3, Dz. Urz. UE L 67 z 02.03.2022, str. 3, Dz. Urz. UE L 79 z 09.03.2022, str. 38, Dz. Urz. UE L 82 z 09.03.2022, str. 1, Dz. Urz. UE LI 83 z 10.03.2022, str. 2, Dz. Urz. UE L 111 z 08.04.2022, str. 67, Dz. Urz. UE L 114 z 12.04.2022, str. 60, Dz. Urz. UE L 153 z 03.06.2022, str. 1 i 11, Dz. Urz. UE L 189 z 18.07.2022, str. 24, Dz. Urz. UE L 190 z 19.07.2022, str. 5, Dz. Urz. UE L 323 z 19.12.2022, str. 107, Dz. Urz. UE L 61 z 27.02.2023, str. 20, Dz. Urz. UE L 71 z 09.03.2023, str. 43, Dz. Urz. UE L 90 z 28.03.2023, str. 65, Dz. Urz. UE LI 195 z 03.08.2023, str. 1 oraz Dz. Urz. UE L 196 z 04.08.2023, str. 3. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 86 z 21.03.2014, str. 27, Dz. Urz. UE L 126 z 29.04.2014, str. 48, Dz. Urz. UE L 137 z 12.05.2014, str. 1 i 3, Dz. Urz. UE L 160 z 29.05.2014, str. 7, Dz. Urz. UE L 205 z 12.07.2014, str. 7, Dz. Urz. UE L 214 z 19.07.2014, str. 2, Dz. Urz. UE L 221 z 25.07.2014, str. 1 i 11, Dz. Urz. UE L 226 z 30.07.2014, str. 16, Dz. Urz. UE L 271 z 12.09.2014, str. 1 i 8, Dz. Urz. UE L 331 z 18.11.2014, str. 1, Dz. Urz. UE L 344 z 29.11.2014, str. 5, Dz. Urz. UE L 40 z 16.02.2015, str. 7, Dz. Urz. UE L 66 z 11.03.2015, str. 20 i 21, Dz. Urz. UE L 70 z 14.03.2015, str. 1, Dz. Urz. UE L 199 z 29.07.2015, str. 46, Dz. Urz. UE L 239 z 15.09.2015, str. 30, Dz. Urz. UE L 275 z 20.10.2015, str. 68, Dz. Urz. UE L 280 z 24.10.2015, str. 38, Dz. Urz. UE L 342 z 29.12.2015, str. 64, Dz. Urz. UE L 67 z 12.03.2016, str. 1, Dz. Urz. UE L 249 z 16.09.2016, str. 1, Dz. Urz. UE L 301 z 09.11.2016, str. 1, Dz. Urz. UE L 67 z 14.03.2017, str. 34, Dz. Urz. UE L 194 z 26.07.2017, str. 1, Dz. Urz. UE LI 203 z 04.08.2017, str. 1, Dz. Urz. UE L 237 z 15.09.2017, str. 37 i 44, Dz. Urz. UE L 253 z 30.09.2017, str. 39, Dz. Urz. UE L 304 z 21.11.2017, str. 3, Dz. Urz. UE L 69 z 13.03.2018, str. 11, Dz. Urz. UE LI 118 z 14.05.2018, str. 1, Dz. Urz. UE L 152 z 15.06.2018, str. 60, Dz. Urz. UE L 194 z 31.07.2018, str. 27, Dz. Urz. UE L 231 z 14.09.2018, str. 1, Dz. Urz. UE LI 313 z 10.12.2018, str. 1, Dz. Urz. UE L 19 z 22.01.2019, str. 1, Dz. Urz. UE L 73 z 15.03.2019, str. 9 i 16, Dz. Urz. UE L 182 z 08.07.2019, str. 33, Dz. Urz. UE L 236 z 13.09.2019, str. 1, Dz. Urz. UE LI 22 z 28.01.2020, str. 1, Dz. Urz. UE L 78 z 13.03.2020, str. 1, Dz. Urz. UE L 298 z 11.09.2020, str. 1, Dz. Urz. UE L 318 z 01.10.2020, str. 1, Dz. Urz. UE L 87 z 15.03.2021, str. 19, Dz. Urz. UE L 321 z 13.09.2021, str. 1, Dz. Urz. UE LI 359 z 11.10.2021, str. 1, Dz. Urz. UE LI 445 z 13.12.2021, str. 4, Dz. Urz. UE L 40 z 21.02.2022, str. 3, Dz. Urz. UE LI 42 z 23.02.2022, str. 1, 3 i 15, Dz. Urz. UE L 51 z 25.02.2022, str. 1, Dz. Urz. UE L 53 z 25.02.2022, str. 1, Dz. Urz. UE L 58 z 28.02.2022, str. 1, Dz. Urz. UE L 66 z 02.03.2022, str. 1, Dz. Urz. UE L 67 z 02.03.2022, str. 113, Dz. Urz. UE L 80 z 09.03.2022, str. 1, Dz. Urz. UE L 84 z 11.03.2022, str. 2, Dz. Urz. UE LI 87 z 15.03.2022, str. 1, Dz. Urz. UE L 105 z 04.04.2022, str. 66, Dz. Urz. UE L 110 z 08.04.2022, str. 1 i 3, Dz. Urz. UE L 114 z 12.04.2022, str. 60, Dz. Urz. UE L 116 z 13.04.2022, str. 1, Dz. Urz. UE L 117 z 19.04.2022, str. 117, Dz. Urz. UE L 120 z 21.04.2022, str. 1, Dz. Urz. UE L 141 z 20.05.2022, str. 130, Dz. Urz. UE L 153 z 03.06.2022, str. 15 i 75, Dz. Urz. UE L 154 z 07.06.2022, str. 76, Dz. Urz. UE L 161 z 16.06.2022, str. 122, Dz. Urz. UE L 193 z 21.07.2022, str. 133, Dz. Urz. UE L 194 z 21.07.2022, str. 1 i 5, Dz. Urz. UE LI 204 z 04.08.2022, str. 1 i 17, Dz. Urz. UE LI 227 z 01.09.2022, str. 1, Dz. Urz. UE L 239 z 15.09.2022, str. 1, Dz. Urz. UE LI 259 z 06.10.2022, str. 76 i 79, Dz. Urz. UE L 271 z 19.10.2022, str. 24, Dz. Urz. UE LI 272 z 20.10.2022, str. 1, Dz. Urz. UE LI 293 z 14.11.2022, str. 9, Dz. Urz. UE LI 318 z 12.12.2022, str. 20, Dz. Urz. UE LI 322 z 16.12.2022, str. 315 i 318, Dz. Urz. UE LI 26 z 30.01.2023, str. 1, Dz. Urz. UE L 35 z 07.02.2023, str. 1, Dz. Urz. UE L 39 z 09.02.2023, str. 64, Dz. Urz. UE LI 59 z 25.02.2023, str. 1 i 278, Dz. Urz. UE L 67 z 03.03.2023, str. 60, Dz. Urz. UE LI 75 z 14.03.2023, str. 1, Dz. Urz. UE L 100 z 13.04.2023, str. 99, Dz. Urz. UE LI 100 z 13.04.2023, str. 1, Dz. Urz. UE L 101 z 14.04.2023, str. 1, Dz. Urz. UE LI 140 z 30.05.2023, str. 7, Dz. Urz. UE L 142 z 01.06.2023, str. 43, Dz. Urz. UE L 146 z 06.06.2023, str. 1, Dz. Urz. UE LI 159 z 23.06.2023, str. 330 i 335, Dz. Urz. UE LI 183 z 20.07.2023, str. 15 oraz Dz. Urz. UE LI 190 z 28.07.2023, str. 1. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 246 z 21.08.2014, str. 59, Dz. Urz. UE L 271 z 12.09.2014, str. 3, Dz. Urz. UE L 349 z 05.12.2014, str. 20, Dz. Urz. UE L 263 z 08.10.2015, str. 10, Dz. Urz. UE L 316 z 01.12.2017, str. 15, Dz. Urz. UE L 182 z 08.07.2019, str. 33, Dz. Urz. UE LI 42 z 23.02.2022, str. 74, Dz. Urz. UE L 49 z 25.02.2022, str. 1, Dz. Urz. UE L 55 z 28.02.2022, str. 78, Dz. Urz. UE L 57 z 28.02.2022, str. 1, Dz. Urz. UE L 63 z 02.03.2022, str. 1, Dz. Urz. UE L 65 z 02.03.2022, str. 1, Dz. Urz. UE L 81 z 09.03.2022, str. 1, Dz. Urz. UE LI 87 z 15.03.2022, str. 13, Dz. Urz. UE L 111 z 08.04.2022, str. 1, Dz. Urz. UE L 114 z 12.04.2022, str. 60, 212 i 214, Dz. Urz. UE L 119 z 21.04.2022, str. 114, Dz. Urz. UE L 153 z 03.06.2022, str. 53, Dz. Urz. UE L 190 z 19.07.2022, str. 191, Dz. Urz. UE L 193 z 21.07.2022, str. 1, Dz. Urz. UE L 202 z 02.08.2022, str. 58, Dz. Urz. UE LI 259 z 06.10.2022, str. 3, Dz. Urz. UE LI 311 z 03.12.2022, str. 1 i 5, Dz. Urz. UE LI 322 z 16.12.2022, str. 1, Dz. Urz. UE L 26 z 30.01.2023, str. 1, Dz. Urz. UE LI 32 z 04.02.2023, str. 1 i 4, Dz. Urz. UE LI 59 z 25.02.2023, str. 6, Dz. Urz. UE LI 322 z 16.12.2022, str. 1, Dz. Urz. UE L 26 z 30.01.2023, str. 1, Dz. Urz. UE LI 32 z 04.02.2023, str. 1 i 4, Dz. Urz. UE LI 59 z 25.02.2023, str. 6, Dz. Urz. UE LI 159 z 23.06.2023, str. 1 oraz Dz. Urz. UE L 204 z 17.08.2023, str. 65. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 62 z 01.03.2022, str. 26, Dz. Urz. UE L 114 z 12.04.2022, str. 60, Dz. Urz. UE L 116 z 13.04.2022, str. 3 oraz Dz. Urz. UE LI 259 z 06.10.2022, str. 1. 7) Zmiany wymienionej decyzji zostały ogłoszone w Dz. Urz. UE L 143 z 30.05.2013, str. 24, Dz. Urz. UE L 172 z 25.06.2013, str. 31, Dz. Urz. UE L 288 z 30.10.2013, str. 69, Dz. Urz. UE L 16 z 21.01.2014, str. 32, Dz. Urz. UE L 200 z 09.07.2014, str. 13, Dz. Urz. UE L 297 z 15.10.2014, str. 41, Dz. Urz. UE L 311 z 31.10.2014, str. 39, Dz. Urz. UE L 328 z 13.11.2014, str. 61, Dz. Urz. UE L 176 z 07.07.2015, str. 41, Dz. Urz. UE L 185 z 14.07.2015, str. 20, Dz. Urz. UE L 206 z 01.08.2015, str. 64, Dz. Urz. UE L 284 z 30.10.2015, str. 149, Dz. Urz. UE L 52 z 27.02.2016, str. 30, Dz. Urz. UE L 50 z 28.02.2017, str. 81, Dz. Urz. UE L 54 z 24.02.2018, str. 16, Dz. Urz. UE L 57 z 26.02.2019, str. 4, Dz. Urz. UE L 45 z 18.02.2020, str. 3, Dz. Urz. UE LI 319 z 02.10.2020, str. 13, Dz. Urz. UE LI 370 z 06.11.2020, str. 9, Dz. Urz. UE LI 426 z 17.12.2020, str. 14, Dz. Urz. UE L 57 z 18.02.2021, str. 93, Dz. Urz. UE L 68 z 26.02.2021, str. 189, Dz. Urz. UE LI 197 z 04.06.2021, str. 3, Dz. Urz. UE LI 219 z 21.06.2021, str. 67 i 70, Dz. Urz. UE LI 224 z 24.06.2021, str. 15, Dz. Urz. UE L 405 z 16.11.2021, str. 8 i 10, Dz. Urz. UE LI 430 z 02.12.2021, str. 16, Dz. Urz. UE L 37 z 18.02.2022, str. 41, Dz. Urz. UE L 46 z 25.02.2022, str. 97, Dz. Urz. UE L 67 z 02.03.2022, str. 103, Dz. Urz. UE L 82 z 09.03.2022, str. 9, Dz. Urz. UE L 111 z 08.04.2022, str. 81, Dz. Urz. UE L 153 z 03.06.2022, str. 77 i 88, Dz. Urz. UE L 190 z 19.07.2022, str. 139, Dz. Urz. UE L 323 z 19.12.2022, str. 106, Dz. Urz. UE L 61 z 27.02.2023, str. 41, Dz. Urz. UE L 70 z 08.03.2023, str. 56, Dz. Urz. UE L 90 z 28.03.2023, str. 66, Dz. Urz. UE LI 195 z 03.08.2023, str. 31 oraz Dz. Urz. UE L 196 z 04.08.2023, str. 37. 8) Zmiany wymienionej decyzji zostały ogłoszone w Dz. Urz. UE L 86 z 21.03.2014, str. 30, Dz. Urz. UE L 126 z 29.04.2014, str. 55, Dz. Urz. UE L 137 z 12.05.2014, str. 9, Dz. Urz. UE L 160 z 29.05.2014, str. 33, Dz. Urz. UE L 205 z 12.07.2014, str. 22, Dz. Urz. UE L 214 z 19.07.2014, str. 214, Dz. Urz. UE L 221 z 25.07.2014, str. 15, Dz. Urz. UE L 226 z 30.07.2014, str. 23, Dz. Urz. UE L 271 z 12.09.2014, str. 47, Dz. Urz. UE L 331 z 18.11.2014, str. 26, Dz. Urz. UE L 344 z 29.11.2014, str. 22, Dz. Urz. UE L 40 z 16.02.2015, str. 14, Dz. Urz. UE L 66 z 11.03.2015, str. 21 i 22, Dz. Urz. UE L 70 z 14.03.2015, str. 47, Dz. Urz. UE L 199 z 29.07.2015, str. 46, Dz. Urz. UE L 239 z 15.09.2015, str. 157, Dz. Urz. UE L 275 z 20.10.2015, str. 68, Dz. Urz. UE L 280 z 24.10.2015, str. 39, Dz. Urz. UE L 342 z 29.12.2015, str. 65, Dz. Urz. UE L 67 z 12.03.2016, str. 37, Dz. Urz. UE L 249 z 16.09.2016, str. 39, Dz. Urz. UE L 301 z 09.11.2016, str. 15, Dz. Urz. UE L 67 z 14.03.2017, str. 88, Dz. Urz. UE L 194 z 26.07.2017, str. 63, Dz. Urz. UE LI 203 z 04.08.2017, str. 5, Dz. Urz. UE L 237 z 15.09.2017, str. 72, Dz. Urz. UE L 253 z 30.09.2017, str. 40, Dz. Urz. UE L 304 z 21.11.2017, str. 51, Dz. Urz. UE L 69 z 13.03.2018, str. 48, Dz. Urz. UE LI 118 z 14.05.2018, str. 3, Dz. Urz. UE L 152 z 15.06.2018, str. 60, Dz. Urz. UE L 194 z 31.07.2018, str. 147, Dz. Urz. UE L 231 z 14.09.2018, str. 27, Dz. Urz. UE LI 313 z 10.12.2018, str. 5, Dz. Urz. UE L 19 z 22.01.2019, str. 7, Dz. Urz. UE L 73 z 15.03.2019, str. 110 i 117, Dz. Urz. UE L 236 z 13.09.2019, str. 17, Dz. Urz. UE LI 22 z 28.01.2020, str. 5, Dz. Urz. UE L 78 z 13.03.2020, str. 44, Dz. Urz. UE L 298 z 11.09.2020, str. 23, Dz. Urz. UE L 318 z 01.10.2020, str. 5, Dz. Urz. UE L 87 z 15.03.2021, str. 35, Dz. Urz. UE L 321 z 13.09.2021, str. 32, Dz. Urz. UE LI 359 z 11.10.2021, str. 6, Dz. Urz. UE LI 445 z 13.12.2021, str. 14, Dz. Urz. UE L 40 z 21.02.2022, str. 23, Dz. Urz. UE LI 42 z 23.02.2022, str. 98 i 114, Dz. Urz. UE L 50 z 25.02.2022, str. 1, Dz. Urz. UE L 52 z 25.02.2022, str. 1, Dz. Urz. UE L 55 z 28.02.2022, str. 81, Dz. Urz. UE L 59 z 28.02.2022, str. 1, Dz. Urz. UE L 66 z 02.03.2022, str. 14, Dz. Urz. UE L 67 z 02.03.2022, str. 112, Dz. Urz. UE L 80 z 09.03.2022, str. 31, Dz. Urz. UE LI 83 z 10.03.2022, str. 1, Dz. Urz. UE L 84 z 11.03.2022, str. 28, Dz. Urz. UE LI 87 z 15.03.2022, str. 44, Dz. Urz. UE L 105 z 04.04.2022, str. 67, Dz. Urz. UE L 110 z 08.04.2022, str. 55, Dz. Urz. UE L 116 z 13.04.2022, str. 6, Dz. Urz. UE L 117 z 19.04.2022, str. 118, Dz. Urz. UE L 120 z 21.04.2022, str. 11, Dz. Urz. UE L 141 z 20.05.2022, str. 131, Dz. Urz. UE L 153 z 03.06.2022, str. 92 i 139, Dz. Urz. UE L 156 z 09.06.2022, str. 160, Dz. Urz. UE L 158 z 13.06.2022, str. 65, Dz. Urz. UE L 193 z 21.07.2022, str. 219, Dz. Urz. UE L 194 z 21.07.2022, str. 11, Dz. Urz. UE LI 204 z 04.08.2022, str. 4, Dz. Urz. UE LI 227 z 01.09.2022, str. 4, Dz. Urz. UE L 239 z 15.09.2022, str. 149, Dz. Urz. UE LI 259 z 06.10.2022, str. 98, Dz. Urz. UE L 271 z 19.10.2022, str. 23, Dz. Urz. UE LI 272 z 20.10.2022, str. 5, Dz. Urz. UE LI 293 z 14.11.2022, str. 40, Dz. Urz. UE LI 318 z 12.12.2022, str. 32, Dz. Urz. UE LI 322 z 16.12.2022, str. 466 i 687, Dz. Urz. UE LI 26 z 30.01.2023, str. 4, Dz. Urz. UE L 35 z 07.02.2023, str. 27, Dz. Urz. UE L 39 z 09.02.2023, str. 65, Dz. Urz. UE LI 59 z 25.02.2023, str. 437, Dz. Urz. UE LI 75 z 14.03.2023, str. 134, Dz. Urz. UE L 100 z 13.04.2023, str. 98, Dz. Urz. UE LI 100 z 13.04.2023, str. 4, Dz. Urz. L 101 z 14.04.2023, str. 67, Dz. Urz. UE LI 140 z 30.05.2023, str. 14, Dz. Urz. UE L 142 z 01.06.2023, str. 42, Dz. Urz. UE L 146 z 06.06.2023, str. 20, Dz. Urz. UE LI 159 z 23.06.2023, str. 526, Dz. Urz. UE LI 183 z 20.07.2023, str. 48 oraz Dz. Urz. UE LI 190 z 28.07.2023, str. 21. 9) Zmiany wymienionej decyzji zostały ogłoszone w Dz. Urz. UE L 271 z 12.09.2014, str. 54, Dz. Urz. UE L 282 z 26.09.2014, str. 27, Dz. Urz. UE L 327 z 12.11.2014, str. 9, Dz. Urz. UE L 349 z 05.12.2014, str. 58, Dz. Urz. UE L 157 z 23.06.2015, str. 50, Dz. Urz. UE L 257 z 02.10.2015, str. 42, Dz. Urz. UE L 334 z 22.12.2015, str. 22, Dz. Urz. UE L 178 z 02.07.2016, str. 21, Dz. Urz. UE L 345 z 20.12.2016, str. 65, Dz. Urz. UE L 166 z 29.06.2017, str. 35, Dz. Urz. UE L 316 z 01.12.2017, str. 20, Dz. Urz. UE L 343 z 22.12.2017, str. 77, Dz. Urz. UE L 172 z 09.07.2018, str. 3, Dz. Urz. UE L 331 z 28.12.2018, str. 224, Dz. Urz. UE L 175 z 28.06.2019, str. 38, Dz. Urz. UE L 330 z 20.12.2019, str. 71, Dz. Urz. UE L 207 z 30.06.2020, str. 37, Dz. Urz. UE L 430 z 18.12.2020, str. 26, Dz. Urz. UE L 247 z 13.07.2021, str. 99, Dz. Urz. UE L 9 z 14.01.2022, str. 43, Dz. Urz. UE LI 42 z 23.02.2022, str. 95, Dz. Urz. UE L 48 z 25.02.2022, str. 1, Dz. Urz. UE L 57 z 28.02.2022, str. 4, Dz. Urz. UE L 63 z 02.03.2022, str. 5, Dz. Urz. UE L 65 z 02.03.2022, str. 5, Dz. Urz. UE L 81 z 09.03.2022, str. 8, Dz. Urz. UE LI 87 z 15.03.2022, str. 56, Dz. Urz. UE L 111 z 08.04.2022, str. 70, Dz. Urz. UE L 146 z 25.05.2022, str. 154, Dz. Urz. UE L 153 z 03.06.2022, str. 128, Dz. Urz. UE L 193 z 21.07.2022, str. 196, Dz. Urz. UE L 198 z 27.07.2022, str. 17, Dz. Urz. UE L 204 z 04.08.2022, str. 16, Dz. Urz. UE LI 259 z 06.10.2022, str. 122, Dz. Urz. UE LI 311 z 03.12.2022, str. 8, Dz. Urz. UE LI 322 z 16.12.2022, str. 614, Dz. Urz. UE L 26 z 30.01.2023, str. 44, Dz. Urz. UE LI 32 z 04.02.2023, str. 11, Dz. Urz. UE LI 59 z 25.02.2023, str. 593, Dz. Urz. UE LI 159 z 23.06.2023, str. 451 oraz Dz. Urz. UE L 184 z 21.07.2023, str. 40. 10) Zmiany wymienionej decyzji zostały ogłoszone w Dz. Urz. UE L 116 z 13.04.2022, str. 8, Dz. Urz. UE LI 259 z 06.10.2022, str. 118 oraz Dz. Urz. UE L 53 z 21.02.2023, str. 37.
+
+#### Rozdział 7a Pomoc inwestycyjna na środki wspierające efektywność energetyczną inną niż w budynkach
+
+#### Rozdział 8 Pomoc inwestycyjna na efektywne gospodarowanie zasobami i wspieranie przechodzenia na gospodarkę o obiegu zamkniętym
 

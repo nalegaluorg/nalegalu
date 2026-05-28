@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1982-10-26 |
 | Data wydania | 1982-11-12 |
+| Wejście w życie | 1983-05-13 |
 | Ostatnia zmiana | 2026-02-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19820350230) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1982/230/text.pdf) |
 

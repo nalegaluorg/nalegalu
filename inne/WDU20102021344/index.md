@@ -22,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2010-10-19 |
 | Data wydania | 2010-10-29 |
+| Wejście w życie | 2010-10-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102021344) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1344/text.pdf) |
 

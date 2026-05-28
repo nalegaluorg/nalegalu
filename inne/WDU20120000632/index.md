@@ -8,10 +8,10 @@ pos: 632
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Warszawa, dnia 5 ROZPORZĄDZENIE MINISTRA TRANSPORTU, BUDOWNICTWA I GOSPODARKI MORSKIEJ dnia sprawie ograniczeń oraz zakazu ruchu niektórych rodzajów pojazdów na odcinkach dróg krajowych terminie dnia 8 dnia 29 Na podstawie art. 10 ust. 11 ustawy dnia 20 1997 − Prawo o ruchu drogowym (Dz. U. 2005 Nr 108, poz. 908, późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa okresowe ograniczenia oraz zakaz ruchu pojazdów zespołów pojazdów o dopuszczalnej masie całkowitej przekraczającej 12 ton, wyłączeniem autobusów.
+# Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiejz dnia 4 czerwca 2012 r. w sprawie ograniczeń oraz zakazu ruchu niektórych rodzajów pojazdów na odcinkach dróg krajowych w terminie od dnia 8 czerwca 2012 r. do dnia 29 czerwca 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -22,52 +22,126 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2012-06-04 |
 | Data wydania | 2012-06-05 |
+| Wejście w życie | 2012-06-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000632) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/632/text.pdf) |
 
-§ 2. W związku przewidywanym wzmożonym ruchem pojazdów związanym odbywającym się na terytorium Rzeczypospolitej Polskiej turniejem Mistrzostw Europy Piłce Nożnej UEFA EURO 2012, celu zapewnienia właściwego poziomu bezpieczeństwa ruchu drogowego, wprowadza się okresowe ograniczenia ruchu pojazdów, o których mowa § 1, przez zakaz ich ruchu na odcinkach dróg krajowych terminach wymienionych załączniku 1 rozporządzenia.
-§ 3. 1. Przepisy § 2 nie mają zastosowania do:
-1) pojazdów Policji, Inspekcji Transportu Drogowego, Straży Granicznej, Służby Celnej, Sił Zbrojnych Rzeczypospolitej Polskiej, Biura Ochrony Rządu, pogotowia technicznego, jednostek ochrony przeciwpożarowej, jednostek ratownictwa chemicznego oraz jednostek służb ochrony radiologicznej ochrony przed skażeniami;
-2) pojazdów biorących udział w:
-a) akcjach ratowniczych,
-b) akcjach humanitarnych,
-c) usuwaniu skutków klęsk żywiołowych,
-d) usuwaniu awarii;
-3) pojazdów używanych:
-a) przy budowie dróg mostów oraz przy ich utrzymaniu,
-b) przewozu żywych zwierząt,
-g) przewozu prasy stanowiącej znaczną część ładunku lub znaczną część dostępnej przestrzeni ładunkowej,
-h) przewozu lekarstw środków medycznych,
-i) przewozu przesyłek ramach działalności pocztowej stanowiących znaczną część ładunku lub znaczną część dostępnej przestrzeni ładunkowej,
-j) związku niezbędnym utrzymaniem ciągłości cyklu produkcyjnego lub świadczenia usług przedsiębiorstwa pracującego ruchu ciągłym,
-k) przewozu towarów niebezpiecznych ilościach, dla których wymagane jest oznakowanie pojazdu tablicami ostrzegawczymi barwy pomarańczowej,
-l) przewozu artykułów szybko psujących się środków spożywczych, określonych załączniku 2 rozporządzenia, stanowiących znaczną część ładunku lub znaczną część dostępnej przestrzeni ładunkowej,
-m) przewozu betonu oraz pomp jego tłoczenia,
-n) przewozu odpadów komunalnych lub nieczystości ciekłych,
-o) przewozu towarów wyładowanych wagonów na stacji kolejowej, promieniu 50 km tej stacji,
-p) transporcie kombinowanym,
-q) dla potrzeb bezpłatnych medycznych badań profilaktycznych;
-4) pojazdów wolnobieżnych używanych prac rolnych ciągników rolniczych;
-5) pojazdów powracających zagranicy celu zakończenia przewozu drogowego lub odbiorcy przewożonego ładunku, mających siedzibę na terytorium Rzeczypospolitej Polskiej;
-6) pojazdów, które wjechały na terytorium Rzeczypospolitej Polskiej poza terminami lub godzinami obowiązywania zakazu, odległości 50 km miejsca przekroczenia granicy, oraz oczekujących na granicy na wyjazd terytorium Rzeczypospolitej Polskiej.
-2. Przepis ust. 1 pkt 3 dotyczy także pojazdów pustych drodze po ładunek lub drodze powrotnej po rozładunku.
-§ 4. Rozporządzenie wchodzi życie dniem 7 Minister Transportu, Budownictwa Gospodarki Morskiej: S. Nowak Lp. Numer drogi Początek Koniec Termin krajowej odcinka odcinka 1 2 3 5 skrzyżowanie drogą krajową 50 Warszawa* (Sochaczew) 1 2 − 12 18 20 8 2 9 r., − 14 20 12 r., − 22 12 13 r., − 14 20 16 r., − 22 16 17 r., − 14 20 21 r., − 22 21 22 r., − 12 18 28 r., − 20 28 2 skrzyżowanie drogą krajową 50 Warszawa* (Mińsk Mazowiecki) 29 skrzyżowanie drogą skrzyżowanie drogą 2 A 2 krajową 50 krajową S 8 (węzeł Wiskitki) (węzeł Konotopa) 3 7/S 7 skrzyżowanie drogą krajową 62 Warszawa* (Zakroczym) skrzyżowanie drogą skrzyżowanie drogą krajową 50 krajową 8 (Grójec) skrzyżowanie drogą krajową 50 Warszawa* (Mszczonów) 8/S 8 skrzyżowane drogą krajową 62 Warszawa* (Wyszków) skrzyżowanie drogą 5 17 krajową 50 Warszawa* (Kołbiel) skrzyżowanie drogą 6 61 krajową 62 Warszawa* (Serock) skrzyżowanie drogą 7 79 krajową 50 Warszawa* (Góra Kalwaria) 8 3 granica państwa węzeł Legnica − 12 20 8 r., − 22 8 6 9 r., − 10 18 20 12 13 r., − 12 20 16 r., skrzyżowanie drogą wojewódzką 340 Wrocław* 9 5 (Trzebnica) granica państwa węzeł Kostomłoty granica państwa skrzyżowanie drogą krajową 98 10 8/A 8 skrzyżowanie drogą wojewódzką 340 Wrocław* (Oleśnica) − 22 14 15 r., − 14 20 18 r., − 22 18 19 r., − 14 20 22 r., − 22 22 13 7 skrzyżowanie drogą Gdańsk* krajową 55 23 14 91 skrzyżowanie drogą Gdańsk* krajową 22 skrzyżowanie drogą wojewódzką 306 15 5 (Stęszew) Poznań* − 14 20 10 r., − 22 10 11 r., − 12 18 20 14 2 15 r., − 14 20 18 r., − 22 18 skrzyżowanie drogą krajową 15 Poznań* (Gniezno) 19 skrzyżowanie drogą wojewódzką 187 Poznań* (Oborniki) 16 11/S 11 skrzyżowanie drogą wojewódzką 432 Poznań* (Środa Wielkopolska) skrzyżowanie drogą Poznań* krajową 15 17 92 skrzyżowanie drogą Poznań* wojewódzką 306
-2. Ryby skorupiaki, mięczaki inne bezkręgowce wodne.
-3. Produkty mleczarskie, szczególności: jogurty, kefiry, śmietana, mleko spożywcze, twarogi, sery dojrzewające, masło, lody.
-4. Jaja ptasie masy jajeczne.
-5. Kwiaty cięte, doniczkowe oraz darń rolowana.
-6. Warzywa grzyby świeże mrożone.
-7. Owoce świeże mrożone.
-8. Zboża surowce rolne służące produkcji żywności, pasz tłuszczów roślinnych.
-9. Produkty przemysłu młynarskiego, szczególności: mąki, kasze, grysiki granulki zbożowe.
-10. Tłuszcze oleje pochodzenia zwierzęcego lub roślinnego.
-11. Przetwory spożywcze, szczególności mięsa, drobiu, ryb oraz warzyw owoców.
-12. Cukry wyroby cukiernicze.
-13. Przetwory ze zbóż, mąki, skrobi lub mleka proszku oraz pieczywo cukiernicze.
-14. Napoje bezalkoholowe.
-15. Pozostałości odpady przemysłu spożywczego, gotowe pasze dla zwierząt.
-16. Buraki cukrowe.
-17. Ziemniaki.
-18. Drożdże piekarskie prasowane formie mleczka drożdżowego.
-19. Podłoże uprawowe pieczarek.
+Treść rozporządzenia
+
+## Załącznik nr 1 — – Wykaz odcinków dróg krajowych objętych ograniczeniami i zakazem ruchu oraz terminów tych ograniczeń
+
+## Załącznik nr 2 — – Artykuły szybko psujące się i środki spożywcze
+
+Treść rozporządzenia
+Na podstawie art. 10 ust. 11 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa okresowe ograniczenia oraz zakaz ruchu pojazdów i zespołów pojazdów o dopuszczalnej masie całkowitej przekraczającej 12 ton, z wyłączeniem autobusów.
+§ 2.
+W związku z przewidywanym wzmożonym ruchem pojazdów związanym z odbywającym się na terytorium Rzeczypospolitej Polskiej turniejem Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012, w celu zapewnienia właściwego poziomu bezpieczeństwa ruchu drogowego, wprowadza się okresowe ograniczenia ruchu pojazdów, o których mowa w § 1, przez zakaz ich ruchu na odcinkach dróg krajowych i w terminach wymienionych w załączniku nr 1 do rozporządzenia.
+§ 3.
+1.
+Przepisy § 2 nie mają zastosowania do:
+1)
+pojazdów Policji, Inspekcji Transportu Drogowego, Straży Granicznej, Służby Celnej, Sił Zbrojnych Rzeczypospolitej Polskiej, Biura Ochrony Rządu, pogotowia technicznego, jednostek ochrony przeciwpożarowej, jednostek ratownictwa chemicznego oraz jednostek służb ochrony radiologicznej i ochrony przed skażeniami;
+2)
+pojazdów biorących udział w:
+a)
+akcjach ratowniczych,
+b)
+akcjach humanitarnych,
+c)
+usuwaniu skutków klęsk żywiołowych,
+d)
+usuwaniu awarii;
+3)
+pojazdów używanych:
+a)
+przy budowie dróg i mostów oraz przy ich utrzymaniu,
+b)
+do przewozu żywych zwierząt,
+c)
+dla potrzeb skupu mleka, zbóż lub zwierząt,
+d)
+dla potrzeb bezpośredniego zaopatrzenia statków morskich w paliwo, materiały olejowe, olej smarowy, części zamienne oraz wodę pitną,
+e)
+do przewozu sprzętu transmisyjnego stacji radiowych i telewizyjnych,
+f)
+do przewozu sprzętu dla obsługi imprez masowych, w związku z organizacją tych imprez,
+g)
+do przewozu prasy stanowiącej znaczną część ładunku lub znaczną część dostępnej przestrzeni ładunkowej,
+h)
+do przewozu lekarstw i środków medycznych,
+i)
+do przewozu przesyłek w ramach działalności pocztowej stanowiących znaczną część ładunku lub znaczną część dostępnej przestrzeni ładunkowej,
+j)
+w związku z niezbędnym utrzymaniem ciągłości cyklu produkcyjnego lub świadczenia usług przedsiębiorstwa pracującego w ruchu ciągłym,
+k)
+do przewozu towarów niebezpiecznych w ilościach, dla których wymagane jest oznakowanie pojazdu tablicami ostrzegawczymi barwy pomarańczowej,
+l)
+do przewozu artykułów szybko psujących się i środków spożywczych, określonych w załączniku nr 2 do rozporządzenia, stanowiących znaczną część ładunku lub znaczną część dostępnej przestrzeni ładunkowej,
+m)
+do przewozu betonu oraz pomp do jego tłoczenia,
+n)
+do przewozu odpadów komunalnych lub nieczystości ciekłych,
+o)
+do przewozu towarów wyładowanych z wagonów na stacji kolejowej, w promieniu 50 km od tej stacji,
+p)
+w transporcie kombinowanym,
+q)
+dla potrzeb bezpłatnych medycznych badań profilaktycznych;
+4)
+pojazdów wolnobieżnych używanych do prac rolnych i ciągników rolniczych;
+5)
+pojazdów powracających z zagranicy w celu zakończenia przewozu drogowego lub do odbiorcy przewożonego ładunku, mających siedzibę na terytorium Rzeczypospolitej Polskiej;
+6)
+pojazdów, które wjechały na terytorium Rzeczypospolitej Polskiej poza terminami lub godzinami obowiązywania zakazu, w odległości do 50 km od miejsca przekroczenia granicy, oraz oczekujących na granicy na wyjazd z terytorium Rzeczypospolitej Polskiej.
+2.
+Przepis ust. 1 pkt 3 dotyczy także pojazdów pustych w drodze po ładunek lub w drodze powrotnej po rozładunku.
+§ 4.
+Rozporządzenie wchodzi w życie z dniem 7 czerwca 2012 r.
+
+## Załącznik nr 1 — – Wykaz odcinków dróg krajowych objętych ograniczeniami i zakazem ruchu oraz terminów tych ograniczeń
+
+Lp. Numer drogi krajowej Początek odcinka Koniec odcinka Termin 1 2 3 4 5 1 2 skrzyżowanie z drogą krajową nr 50 (Sochaczew) Warszawa*) – od godziny 1200 do godziny 1800 i od godziny 2000 w dniu 8 czerwca 2012 r. do godziny 200 w dniu 9 czerwca 2012 r.,- od godziny 1445 do godziny 2045 w dniu 12 czerwca 2012 r.,- od godziny 2245 w dniu 12 czerwca 2012 r. do godziny 445 w dniu 13 czerwca 2012 r.,- od godziny 1445 do godziny 2045 w dniu 16 czerwca 2012 r.,- od godziny 2245 w dniu 16 czerwca 2012 r. do godziny 445 w dniu 17 czerwca 2012 r.,- od godziny 1445 do godziny 2045 w dniu 21 czerwca 2012 r.,- od godziny 2245 w dniu 21 czerwca 2012 r. do godziny 445 w dniu 22 czerwca 2012 r.,- od godziny 1200 do godziny 1800 w dniu 28 czerwca 2012 r.,- od godziny 2000 w dniu 28 czerwca 2012 r. do godziny 200 w dniu 29 czerwca 2012 r. skrzyżowanie z drogą krajową nr 50 (Mińsk Mazowiecki) Warszawa*) 2 A2 skrzyżowanie z drogą krajową nr 50 (węzeł Wiskitki) skrzyżowanie z drogą krajową nr S 8 (węzeł Konotopa) 3 7/S 7 skrzyżowanie z drogą krajową nr 62 (Zakroczym) Warszawa*) skrzyżowanie z drogą krajową nr 50 (Grójec) skrzyżowanie z drogą krajową nr 8 4 8/S 8 skrzyżowanie z drogą krajową nr 50 (Mszczonów) Warszawa*) skrzyżowane z drogą krajową nr 62 (Wyszków) Warszawa*) 5 17 skrzyżowanie z drogą krajową nr 50 (Kołbiel) Warszawa*) 6 61 skrzyżowanie z drogą krajową nr 62 (Serock) Warszawa*) 7 79 skrzyżowanie z drogą krajową nr 50 (Góra Kalwaria) Warszawa*) 8 3 granica państwa węzeł Legnica 9 5 skrzyżowanie z drogą wojewódzką nr 340 (Trzebnica) Wrocław*) – od godziny 1245 do godziny 2045 w dniu 8 czerwca 2012 r.,- od godziny 2245 w dniu 8 czerwca 2012 r. do godziny 645 w dniu 9 czerwca 2012 r.,- od godziny 1000 do godziny 1800 i od godziny 2000 w dniu 12 czerwca 2012 r. do godziny 400 w dniu 13 czerwca 2012 r.,- od godziny 1245 do godziny 2045 w dniu 16 czerwca 2012 r.,- od godziny 2245 w dniu 16 czerwca 2012 r. do godziny 645 w dniu 17 czerwca 2012 r. granica państwa węzeł Kostomłoty 10 8/A 8 granica państwa skrzyżowanie z drogą krajową nr 98 skrzyżowanie z drogą wojewódzką nr 340 (Oleśnica) Wrocław*) 11 94 skrzyżowanie z drogą wojewódzką nr 396 Wrocław*) 12 S6 węzeł Rusocin skrzyżowanie z drogą wojewódzką nr 468 – od godziny 1200 do godziny 1800 i od godziny 2000 w dniu 10 czerwca 2012 r. do godziny 200 w dniu 11 czerwca 2012 r.,- od godziny 1445 do godziny 2045 w dniu 14 czerwca 2012 r.,- od godziny 2245 w dniu 14 czerwca 2012 r. do godziny 445 w dniu 15 czerwca 2012 r.,- od godziny 1445 do godziny 2045 w dniu 18 czerwca 2012 r.,- od godziny 2245 w dniu 18 czerwca 2012 r. do godziny 445 w dniu 19 czerwca 2012 r.,- od godziny 1445 do godziny 2045 w dniu 22 czerwca 2012 r.,- od godziny 2245 w dniu 22 czerwca 2012 r. do godziny 445 w dniu 23 czerwca 2012 r. 13 7 skrzyżowanie z drogą krajową nr 55 Gdańsk*) 14 91 skrzyżowanie z drogą krajową nr 22 Gdańsk*) 15 5 skrzyżowanie z drogą wojewódzką nr 306 (Stęszew) Poznań*) – od godziny 1445 do godziny 2045 w dniu 10 czerwca 2012 r.,- od godziny 2245 w dniu 10 czerwca 2012 r. do godziny 445 w dniu 11 czerwca 2012 r.,- od godziny 1200 do godziny 1800 i od godziny 2000 w dniu 14 czerwca 2012 r. do godziny 200 w dniu 15 czerwca 2012 r.,- od godziny 1445 do godziny 2045 w dniu 18 czerwca 2012 r.,- od godziny 2245 w dniu 18 czerwca 2012 r. do godziny 445 w dniu 19 czerwca 2012 r. skrzyżowanie z drogą krajową nr 15 (Gniezno) Poznań*) 16 11/S 11 skrzyżowanie z drogą wojewódzką nr 187 (Oborniki) Poznań*) skrzyżowanie z drogą wojewódzką nr 432 (Środa Wielkopolska) Poznań*) 17 92 skrzyżowanie z drogą krajową nr 15 Poznań*) skrzyżowanie z drogą wojewódzką nr 306 Poznań*) *) Granica administracyjna miasta.
+
+## Załącznik nr 2 — – Artykuły szybko psujące się i środki spożywcze
+
+1.
+Mięso i podroby jadalne.
+2.
+Ryby i skorupiaki, mięczaki i inne bezkręgowce wodne.
+3.
+Produkty mleczarskie, w szczególności: jogurty, kefiry, śmietana, mleko spożywcze, twarogi, sery dojrzewające, masło, lody.
+4.
+Jaja ptasie i masy jajeczne.
+5.
+Kwiaty cięte, doniczkowe oraz darń rolowana.
+6.
+Warzywa i grzyby świeże i mrożone.
+7.
+Owoce świeże i mrożone.
+8.
+Zboża i surowce rolne służące do produkcji żywności, pasz i tłuszczów roślinnych.
+9.
+Produkty przemysłu młynarskiego, w szczególności: mąki, kasze, grysiki i granulki zbożowe.
+10.
+Tłuszcze i oleje pochodzenia zwierzęcego lub roślinnego.
+11.
+Przetwory spożywcze, w szczególności z mięsa, drobiu, ryb oraz z warzyw i owoców.
+12.
+Cukry i wyroby cukiernicze.
+13.
+Przetwory ze zbóż, mąki, skrobi lub mleka w proszku oraz pieczywo cukiernicze.
+14.
+Napoje bezalkoholowe.
+15.
+Pozostałości i odpady przemysłu spożywczego, gotowe pasze dla zwierząt.
+16.
+Buraki cukrowe.
+17.
+Ziemniaki.
+18.
+Drożdże piekarskie prasowane i w formie mleczka drożdżowego.
+19.
+Podłoże uprawowe pieczarek.
 

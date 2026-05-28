@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby
-
-*USTAWA z dnia 12 września 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 października 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +22,149 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2025-09-12 |
 | Data wydania | 2025-10-13 |
+| Wejście w życie | 2025-10-14 |
 | Ostatnia zmiana | 2025-10-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001366) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1366/text.pdf) |
 
+USTAWA z dnia 12 września 2025 r.
+o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby
+
 **Art. 1.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636 i 718) wprowadza się następujące zmiany:
 
+- **1)** w art. 28a:
+    - **a)** w ust. 13 skreśla się wyrazy „art. 91, art. 96,”,
+    - **b)** dodaje się ust. 21 w brzmieniu: „21. Policjant w służbie kontraktowej ma prawo do zakwaterowania realizowanego w formie, o której mowa w art. 88 ust. 2 pkt 3. Przepisy art. 88 ust. 5–8 i 13 oraz art. 88a stosuje się odpowiednio.”;
+
+- **2)** tytuł rozdziału 8 otrzymuje brzmienie: „Zakwaterowanie policjantów”;
+- **3)** art. 88 otrzymuje brzmienie: „Art. 88. 1. Policjantowi mianowanemu na okres służby przygotowawczej lub na stałe, od dnia przyjęcia do służby w Policji do dnia zwolnienia ze służby w Policji, na jego wniosek, przysługuje prawo do zakwaterowania.
+
+2. Prawo do zakwaterowania jest realizowane w następujących formach:
+
+- **1)** przydział lokalu mieszkalnego;
+- **2)** przydział kwatery tymczasowej;
+- **3)** skierowanie do miejsca w internacie albo kwatery internatowej;
+- **4)** przyznanie świadczenia mieszkaniowego.
+
+3. Na wniosek policjanta, o którym mowa w ust. 1, prawo do zakwaterowania, o którym mowa w ust. 2 pkt 1–3, jest realizowane w miejscowości, w której policjant pełni służbę, lub może być realizowane w innej miejscowości niż miejscowość, w której pełni służbę, zgodnie z wykazem, o którym mowa w ust. 5.
+
+4. Z miejsca w internacie albo kwatery internatowej mogą korzystać również pracownicy Policji. Przepisy ust. 5–8 i 13 oraz art. 88a ust. 1 stosuje się odpowiednio.
+
+5. Podmioty, o których mowa w art. 88a ust. 1, prowadzą wykaz dostępnych form zakwaterowania we właściwej jednostce organizacyjnej Policji. Wykaz udostępniany jest do wiadomości policjantów w sposób przyjęty przez dany podmiot.
+
+6. Wyboru formy zakwaterowania policjant, o którym mowa w ust. 1, dokonuje na podstawie wykazu, o którym mowa w ust. 5, składając wniosek do podmiotu, o którym mowa w art. 88a ust. 1. W przypadku braku możliwości przyznania prawa do zakwaterowania w formie, o której mowa w ust. 2 pkt 1 albo 2, policjantowi przyznaje się prawo do zakwaterowania w formie, o której mowa w ust. 2 pkt 4.
+
+7. Wnioski, o których mowa w ust. 6 i 9, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+8. Wniosek, o którym mowa w ust. 6, zawiera:
+
+- **1)** imię (imiona) i nazwisko policjanta;
+- **2)** numer identyfikacyjny policjanta;
+- **3)** stopień służbowy policjanta;
+- **4)** stanowisko służbowe policjanta;
+- **5)** numer telefonu kontaktowego;
+- **6)** adres zamieszkania policjanta;
+- **7)** wskazanie tytułu prawnego do lokalu, który policjant zajmuje;
+- **8)** datę przyjęcia policjanta do służby;
+- **9)** datę ukończenia przez policjanta szkolenia zawodowego podstawowego;
+- **10)** miejscowość, w której policjant pełni służbę;
+- **11)** imię i nazwisko, stopień pokrewieństwa, datę urodzenia, adres zamieszkania członków rodziny policjanta, o których mowa w art. 89, oraz informacje o członkach rodziny, o których mowa w art. 89 pkt 2;
+- **12)** oświadczenie policjanta, czy on lub jego małżonek są właścicielami lub współwłaścicielami lokalu mieszkalnego albo domu, o którym mowa w ust. 11 pkt 1;
+- **13)** oświadczenie policjanta w sprawie wyboru formy zakwaterowania;
+- **14)** oświadczenie policjanta w sprawie wyboru sposobu ustalania wysokości świadczenia mieszkaniowego;
+- **15)** oświadczenie policjanta o skorzystaniu lub nieskorzystaniu z pomocy finansowej na uzyskanie lokalu mieszkalnego albo domu oraz o wskazaniu sposobu rozliczenia zwrotu pomocy finansowej na uzyskanie lokalu mieszkalnego;
+- **16)** oświadczenie policjanta o nabyciu lub nienabyciu lokalu mieszkalnego od Skarbu Państwa lub jednostki samorządu terytorialnego, z bonifikatą lub pomniejszeniem w cenie nabycia, przydzielonego w trybie administracyjnym w związku z pełnioną służbą;
+- **17)** oświadczenie policjanta o otrzymaniu lub nieotrzymaniu lokalu mieszkalnego albo kwatery tymczasowej na podstawie przepisów obowiązujących przed dniem wejścia w życie ustawy z dnia 12 września 2025 r. o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby (Dz. U. poz. 1366);
+- **18)** klauzulę o treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”; klauzula ta zastępuje pouczenie przez organ o odpowiedzialności karnej za składanie fałszywych oświadczeń;
+- **19)** informację o sposobie wypłaty świadczenia mieszkaniowego, a w przypadku wyboru bezgotówkowej formy wypłaty numer rachunku bankowego lub innego rachunku płatniczego;
+- **20)** adres lokalu mieszkalnego albo kwatery tymczasowej, o które wnioskuje policjant.
+
+9. Policjantowi, o którym mowa w ust. 1, na jego wniosek, przysługuje prawo do zamiany lokalu mieszkalnego albo kwatery tymczasowej. Do wniosków o zamianę lokali mieszkalnych albo kwater tymczasowych przepis ust. 8 stosuje się odpowiednio; wniosek o zamianę zawiera także adres zajmowanego lokalu mieszkalnego albo zajmowanej kwatery tymczasowej.
+
+10. Zmiana formy zakwaterowania następuje na wniosek policjanta, o którym mowa w ust. 6. Podmiot, o którym mowa w art. 88a ust. 1, uchyla decyzję, na podstawie której orzeczono wcześniej o prawie do zakwaterowania.
+
+11. Prawo do form zakwaterowania, o których mowa w ust. 2 pkt 1 i 2, nie przysługuje, jeżeli:
+
+- **1)** policjant lub jego małżonek jest właścicielem lub współwłaścicielem lokalu mieszkalnego albo domu w miejscowości, w której policjant pełni służbę, albo w miejscowości, o której mowa w art. 93 ust. 1 pkt 1 albo 2;
+- **2)** małżonek policjanta będący:
+    - **a)** policjantem,
+    - **b)** funkcjonariuszem Państwowej Straży Pożarnej,
+    - **c)** funkcjonariuszem Straży Granicznej,
+    - **d)** funkcjonariuszem Służby Ochrony Państwa,
+    - **e)** funkcjonariuszem Agencji Bezpieczeństwa Wewnętrznego,
+    - **f)** funkcjonariuszem Agencji Wywiadu,
+    - **g)** funkcjonariuszem Służby Wywiadu Wojskowego,
+    - **h)** funkcjonariuszem Służby Kontrwywiadu Wojskowego,
+    - **i)** żołnierzem Sił Zbrojnych otrzymał przydział lokalu mieszkalnego albo kwatery tymczasowej na podstawie przepisów obowiązujących w tych służbach, jeżeli małżonkowie pełnią służbę w tej samej miejscowości albo w miejscowości, o której mowa w art. 93 ust. 1 pkt 1 albo 2.
+
+12. Rozstrzygnięcie o przyznaniu świadczenia mieszkaniowego przez podmiot, o którym mowa w art. 88a ust. 1, w całości uwzględniające wniosek policjanta następuje w postępowaniu uproszczonym, o którym mowa w dziale II rozdziale 14 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769). Przepisów o milczącym załatwieniu sprawy nie stosuje się.
+
+13. Rozstrzygnięcie o przyznaniu miejsca w internacie albo kwatery internatowej następuje w drodze skierowania policjanta do miejsca w internacie albo kwatery internatowej przez podmiot, o którym mowa w art. 88a ust. 1.
+
+14. Rozstrzygnięcie o:
+
+- **1)** przydziale lokalu mieszkalnego albo kwatery tymczasowej,
+- **2)** zamianie lokali mieszkalnych albo kwater tymczasowych,
+- **3)** odmowie przyznania wybranej przez policjanta formy zakwaterowania następuje w drodze decyzji administracyjnej wydanej przez podmiot, o którym mowa w art. 88a ust. 1.
+
+15. W przypadku gdy oboje małżonkowie są policjantami, każdy z małżonków wybiera formę zakwaterowania, z tym że:
+
+- **1)** jednemu z małżonków przysługuje przydział lokalu mieszkalnego albo kwatery tymczasowej, z uwzględnieniem dzieci, o których mowa w art. 89 pkt 2, a drugiemu małżonkowi przyznaje się świadczenie mieszkaniowe albo
+- **2)** każdemu z małżonków przyznaje się świadczenie mieszkaniowe.
+
+16. W przypadku podania przez policjanta nieprawdziwych danych we wnioskach, o których mowa w ust. 6 lub 9, lub w przypadku gdy świadczenie mieszkaniowe policjantowi nie przysługiwało, podmiot, o którym mowa w art. 88a ust. 1, wydaje decyzję o uchyleniu decyzji przyznającej policjantowi wybraną przez niego formę zakwaterowania, w której rozstrzyga także o cofnięciu świadczenia mieszkaniowego w całości oraz zobowiązuje policjanta do zwrotu świadczeń nienależnie pobranych.
+
+17. Policjant jest obowiązany do powiadomienia podmiotu, o którym mowa w art. 88a ust. 1, o każdym zdarzeniu mającym wpływ na prawo do zakwaterowania.
+
+18. W przypadku przeniesienia policjanta do innej służby albo do służby w ramach zawodowej służby wojskowej albo zwolnienia go ze służby rozstrzygnięcia, o których mowa w ust. 12–14, wygasają z mocy prawa z dniem przeniesienia policjanta albo zwolnienia go ze służby.
+
+19. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzory wniosków, o których mowa w ust. 6 i 9, a także formę i sposób składania tych wniosków, uwzględniając przejrzystość przedstawianych informacji oraz efektywność prowadzonego postępowania w celu rozstrzygnięcia w sprawach wyboru formy zakwaterowania.”;
+
+- **4)** po art. 88 dodaje się art. 88a i art. 88b w brzmieniu: „Art. 88a. 1. Podmiotami właściwymi w sprawach zakwaterowania są:
+- **1)** minister właściwy do spraw wewnętrznych w stosunku do Komendanta Głównego Policji i jego zastępcy;
+- **2)** Komendant Główny Policji w stosunku do policjanta na stanowisku służbowym:
+    - **a)** Komendanta CBŚP i jego zastępcy,
+    - **b)** Komendanta CBZC i jego zastępcy,
+    - **c)** Dyrektora CLKP i jego zastępcy,
+    - **d)** Komendanta BSWP i jego zastępcy,
+    - **e)** komendanta wojewódzkiego Policji, Komendanta Stołecznego Policji i ich zastępców,
+    - **f)** Komendanta-Rektora Akademii Policji w Szczytnie i jego zastępcy,
+    - **g)** komendanta szkoły policyjnej i jego zastępcy,
+    - **h)** w Komendzie Głównej Policji lub pozostającego w jego dyspozycji,
+    - **i)** w BOA;
+
+- **3)** Komendant CBŚP w stosunku do policjanta na stanowisku służbowym w CBŚP lub pozostającego w jego dyspozycji;
+- **4)** Komendant CBZC w stosunku do policjanta na stanowisku służbowym w CBZC lub pozostającego w jego dyspozycji;
+- **5)** Komendant BSWP w stosunku do policjanta na stanowisku służbowym w BSWP lub pozostającego w jego dyspozycji;
+- **6)** Dyrektor CLKP w stosunku do policjanta pełniącego służbę na stanowisku służbowym w CLKP lub pozostającego w jego dyspozycji;
+- **7)** komendant wojewódzki i Komendant Stołeczny Policji w stosunku do policjanta na stanowisku służbowym:
+    - **a)** komendanta powiatowego (miejskiego, rejonowego) Policji oraz jego zastępcy,
+    - **b)** w jednostce organizacyjnej Policji bezpośrednio im podległej,
+    - **c)** w komendzie wojewódzkiej Policji, Komendzie Stołecznej Policji lub pozostającego w ich dyspozycji;
+
+- **8)** komendant powiatowy (miejski, rejonowy) Policji w stosunku do policjanta na stanowisku służbowym:
+    - **a)** komendanta komisariatu Policji oraz jego zastępcy,
+    - **b)** w jednostce organizacyjnej Policji bezpośrednio mu podległej,
+    - **c)** w komendzie powiatowej (miejskiej, rejonowej) Policji lub pozostającego w jego dyspozycji;
+
+- **9)** Komendant-Rektor Akademii Policji w Szczytnie w stosunku do policjanta na stanowisku służbowym w Akademii Policji w Szczytnie lub pozostającego w jego dyspozycji;
+- **10)** komendant szkoły policyjnej w stosunku do policjanta na stanowisku służbowym w szkole policyjnej lub pozostającego w jego dyspozycji.
+
+2. W przypadku policjanta zwolnionego ze służby, który nabył prawo do lokalu mieszkalnego albo kwatery tymczasowej, na podstawie decyzji podmiotu, o którym mowa w ust. 1 pkt 1, właściwym w sprawie wydania decyzji o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej jest podmiot, o którym mowa w ust. 1 pkt 2.
+
 **Art. 88b.** Prawo do zakwaterowania nie przysługuje policjantowi:
+
+- **1)** który nabył lokal mieszkalny od Skarbu Państwa lub jednostki samorządu terytorialnego, z bonifikatą lub pomniejszeniem w cenie nabycia, przydzielony w trybie administracyjnym w związku z pełnioną służbą;
+- **2)** od dnia przyjęcia do służby do dnia ukończenia szkolenia zawodowego podstawowego;
+- **3)** od dnia przyjęcia do służby do dnia ukończenia studiów pierwszego stopnia o profilu praktycznym na kierunku nauka o Policji w Akademii Policji w Szczytnie;
+- **4)** w służbie kandydackiej.”;
+- **5)** art. 89 i art. 90 otrzymują brzmienie: „Art. 89. Członkami rodziny policjanta, których uwzględnia się przy przydziale lokalu mieszkalnego albo kwatery tymczasowej, są pozostający z policjantem we wspólnym gospodarstwie domowym:
+- **1)** małżonek;
+- **2)** dzieci własne lub małżonka, przysposobione lub przyjęte na wychowanie w ramach rodziny zastępczej, pozostające na jego utrzymaniu, nie dłużej jednak niż do dnia zawarcia przez nie związku małżeńskiego, które:
+    - **a)** nie ukończyły 18. roku życia, a w przypadku uczęszczania do szkoły lub odbywania studiów w uczelni
+
+26. roku życia, albo
+
+- **b)** stały się całkowicie niezdolne do pracy lub niezdolne do samodzielnej egzystencji przed osiągnięciem wieku określonego w lit. a.
 
 **Art. 90.**
 
@@ -45,8 +180,8 @@ source: "isap-pdf"
 
 - **1)** policjantowi przysługuje norma powierzchni mieszkalnej, zwana dalej „normą zaludnienia”, która wynosi 10 m ;
 - **2)** policjantowi:
-    - **a)** posiadającemu członków rodziny, o których mowa w art. 89, przysługuje po jednej normie zaludnienia dla policjanta i każdego członka jego rodziny, a w przypadku: – pełnienia służby na stanowisku służbowym: Komendant Główny Policji, Zastępca Komendanta Głównego Policji, Komendant CBŚP, Komendant BSWP, Komendant CBZC, komendant wojewódzki Policji, Komendant Stołeczny Policji, Komendant-Rektor Akademii Policji w Szczytnie, dowódca BOA, Dyrektor CLKP, dyrektor komórki organizacyjnej Komendy Głównej Policji lub posiadania stopnia policyjnego w korpusie generałów Policji – dwie dodatkowe normy zaludnienia, albo – posiadania stopnia w korpusie oficerów starszych Policji lub zajmowania stanowiska służbowego ze stopniem etatowym w korpusie oficerów starszych Policji – jedna dodatkowa norma zaludnienia,
-    - **b)** nieposiadającemu członków rodziny, o których mowa w art. 89, przysługują dwie normy zaludnienia, a w przypadku pełnienia służby na stanowisku służbowym: Komendant Główny Policji, Zastępca Komendanta Głównego Policji, Komendant CBŚP, Komendant BSWP, Komendant CBZC, komendant wojewódzki Policji, Komendant Stołeczny Policji, Komendant-Rektor Akademii Policji w Szczytnie, dowódca BOA, Dyrektor CLKP, dyrektor komórki organizacyjnej Komendy Głównej Policji lub posiadającemu stopień policyjny w korpusie generałów Policji – jedna dodatkowa norma zaludnienia,
+    - **a)** posiadającemu członków rodziny, o których mowa w art. 89, przysługuje po jednej normie zaludnienia dla policjanta i każdego członka jego rodziny, a w przypadku: pełnienia służby na stanowisku służbowym: Komendant Główny Policji, Zastępca Komendanta Głównego Policji, Komendant CBŚP, Komendant BSWP, Komendant CBZC, komendant wojewódzki Policji, Komendant Stołeczny Policji, Komendant-Rektor Akademii Policji w Szczytnie, dowódca BOA, Dyrektor CLKP, dyrektor komórki organizacyjnej Komendy Głównej Policji lub posiadania stopnia policyjnego w korpusie generałów Policji dwie dodatkowe normy zaludnienia, albo posiadania stopnia w korpusie oficerów starszych Policji lub zajmowania stanowiska służbowego ze stopniem etatowym w korpusie oficerów starszych Policji jedna dodatkowa norma zaludnienia,
+    - **b)** nieposiadającemu członków rodziny, o których mowa w art. 89, przysługują dwie normy zaludnienia, a w przypadku pełnienia służby na stanowisku służbowym: Komendant Główny Policji, Zastępca Komendanta Głównego Policji, Komendant CBŚP, Komendant BSWP, Komendant CBZC, komendant wojewódzki Policji, Komendant Stołeczny Policji, Komendant-Rektor Akademii Policji w Szczytnie, dowódca BOA, Dyrektor CLKP, dyrektor komórki organizacyjnej Komendy Głównej Policji lub posiadającemu stopień policyjny w korpusie generałów Policji jedna dodatkowa norma zaludnienia,
     - **c)** pozostającemu w związku małżeńskim, który nie posiada dzieci, o których mowa w art. 89 pkt 2, przysługuje jedna dodatkowa norma zaludnienia;
 
 - **3)** w przypadku prowadzenia przez policjanta jednoosobowego gospodarstwa domowego norma zaludnienia wynosi nie mniej niż 20 m .
@@ -59,9 +194,9 @@ source: "isap-pdf"
 
 - **6)** uchyla się art. 91 i art. 92;
 - **7)** art. 93 otrzymuje brzmienie: „Art. 93. 1. Policjantowi, z wyłączeniem policjanta, któremu wysokość świadczenia mieszkaniowego ustala się w sposób, o którym mowa w art. 94b ust. 1 pkt 2, zamieszkującemu w miejscowości innej niż miejscowość, w której pełni służbę, od której granic administracyjnych najkrótsza odległość drogą publiczną do granic administracyjnych miejscowości, w której pełni służbę, wynosi:
-- **1)** do 30 km – wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której policjant pełni służbę, w wysokości 140 zł miesięcznie;
-- **2)** powyżej 30 km do 50 km – wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której policjant pełni służbę, w wysokości 180 zł miesięcznie;
-- **3)** powyżej 50 km – wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której policjant pełni służbę, w wysokości 220 zł miesięcznie.
+- **1)** do 30 km wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której policjant pełni służbę, w wysokości 140 zł miesięcznie;
+- **2)** powyżej 30 km do 50 km wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której policjant pełni służbę, w wysokości 180 zł miesięcznie;
+- **3)** powyżej 50 km wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której policjant pełni służbę, w wysokości 220 zł miesięcznie.
 
 2. Policjant, o którym mowa w ust. 1, składa wniosek o wypłatę zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której pełni służbę, do przełożonego, o którym mowa w art. 32 ust. 1, zawierający:
 
@@ -74,7 +209,7 @@ source: "isap-pdf"
 - **7)** numer telefonu kontaktowego;
 - **8)** odległość w kilometrach wynikającą z ust. 1;
 - **9)** klauzulę o treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”; klauzula ta zastępuje pouczenie przez organ o odpowiedzialności karnej za składanie fałszywych oświadczeń;
-- **10)** informację o sposobie wypłaty, a w przypadku wyboru bezgotówkowej formy wypłaty – numer rachunku bankowego lub innego rachunku płatniczego.
+- **10)** informację o sposobie wypłaty, a w przypadku wyboru bezgotówkowej formy wypłaty numer rachunku bankowego lub innego rachunku płatniczego.
 
 3. Wniosek, o którym mowa w ust. 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
@@ -88,7 +223,7 @@ source: "isap-pdf"
 
 8. Policjant, o którym mowa w ust. 1, informuje przełożonego właściwego w sprawach osobowych niezwłocznie, jednak nie później niż w terminie 30 dni, licząc od dnia powstania zmiany, o każdym zdarzeniu mającym wpływ na uprawnienia do otrzymywania zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której pełni służbę.
 
-9. Zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której policjant pełni służbę, nie wypłaca się za okresy, o których mowa w art. 120a ust. 10 – proporcjonalnie do tych okresów, przyjmując, że za każdy dzień wykonywania czynności służbowych ustala się 1/21 części miesięcznego zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której pełni służbę.
+9. Zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której policjant pełni służbę, nie wypłaca się za okresy, o których mowa w art. 120a ust. 10 proporcjonalnie do tych okresów, przyjmując, że za każdy dzień wykonywania czynności służbowych ustala się 1/21 części miesięcznego zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której pełni służbę.
 
 10. Zryczałtowany zwrot kosztów dojazdu do miejscowości, w której policjant pełni służbę, nie przysługuje, jeżeli policjant korzysta z prawa do zakwaterowania w formach, o których mowa w art. 88 ust. 2 pkt 1–3, w miejscowości, w której pełni służbę.
 
@@ -110,11 +245,11 @@ source: "isap-pdf"
 
 6. Policjant może wprowadzać w zajmowanym lokalu mieszkalnym albo w zajmowanej kwaterze tymczasowej ulepszenia tylko za zgodą wynajmującego i na podstawie pisemnej umowy określającej sposób rozliczeń z tego tytułu.
 
-7. Opłaty za używanie lokalu mieszkalnego albo kwatery tymczasowej wchodzących w skład mieszkaniowego zasobu gminy przyjmuje się według opłat obowiązujących dla danego lokalu albo kwatery, a w przypadku lokalu mieszkalnego albo kwatery tymczasowej będących w zasobie innego podmiotu, w tym w zarządzie Policji – według opłat obowiązujących dla lokali mieszkalnych albo kwater tymczasowych wchodzących w skład zasobu mieszkaniowego tego podmiotu.
+7. Opłaty za używanie lokalu mieszkalnego albo kwatery tymczasowej wchodzących w skład mieszkaniowego zasobu gminy przyjmuje się według opłat obowiązujących dla danego lokalu albo kwatery, a w przypadku lokalu mieszkalnego albo kwatery tymczasowej będących w zasobie innego podmiotu, w tym w zarządzie Policji według opłat obowiązujących dla lokali mieszkalnych albo kwater tymczasowych wchodzących w skład zasobu mieszkaniowego tego podmiotu.
 
 8. Umowa najmu, o której mowa w ust. 1, ulega rozwiązaniu z chwilą uprawomocnienia się decyzji o opróżnieniu przydzielonego lokalu mieszkalnego albo przydzielonej kwatery tymczasowej albo wygaśnięcia decyzji o ich przydziale.
 
-9. W sprawach wynikających ze wzajemnych praw i obowiązków najemcy i wynajmującego oraz w innych przypadkach nieuregulowanych w niniejszej ustawie do najmu lokali mieszkalnych i kwater tymczasowych mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071 i 1172) oraz ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz. 725).
+9. W sprawach wynikających ze wzajemnych praw i obowiązków najemcy i wynajmującego oraz w innych przypadkach nieuregulowanych w niniejszej ustawie do najmu lokali mieszkalnych i kwater tymczasowych mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2025 r. poz. 1071 i 1172) oraz ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz. 725).
 
 10. Sprawy sporne wynikające ze stosunku najmu lokali mieszkalnych oraz kwater tymczasowych rozstrzygają sądy powszechne.
 
@@ -132,7 +267,7 @@ source: "isap-pdf"
 4. Policjantowi, który otrzymał pomoc finansową na uzyskanie lokalu mieszkalnego albo domu, odprawę mieszkaniową lub ekwiwalent pieniężny w zamian za rezygnację z lokalu mieszkalnego z jednostek budżetowych, w tym w innych służbach, na podstawie przepisów obowiązujących przed dniem wejścia w życie ustawy z dnia 12 września 2025 r. o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby, wypłaca się przyznane świadczenie mieszkaniowe:
 
 - **1)** pomniejszone o kwotę stanowiącą maksymalnie 1/60 z 50 % przyznanej decyzją administracyjną pomocy finansowej na uzyskanie lokalu mieszkalnego albo domu, odprawy mieszkaniowej lub ekwiwalentu pieniężnego w zamian za rezygnację z lokalu za każdy miesiąc wypłaty świadczenia mieszkaniowego przez kolejne 60 miesięcy lub do wysokości 50 % przyznanej pomocy finansowej, z możliwością jednorazowej wcześniejszej spłaty, albo
-- **2)** w pełnej kwocie – w przypadku zwrotu przez policjanta 50 % przyznanej decyzją administracyjną pomocy finansowej na uzyskanie lokalu mieszkalnego albo domu, odprawy mieszkaniowej lub ekwiwalentu pieniężnego w zamian za rezygnację z lokalu mieszkalnego w terminie 30 dni od dnia otrzymania rozstrzygnięcia, o którym mowa w art. 88 ust. 12.
+- **2)** w pełnej kwocie w przypadku zwrotu przez policjanta 50 % przyznanej decyzją administracyjną pomocy finansowej na uzyskanie lokalu mieszkalnego albo domu, odprawy mieszkaniowej lub ekwiwalentu pieniężnego w zamian za rezygnację z lokalu mieszkalnego w terminie 30 dni od dnia otrzymania rozstrzygnięcia, o którym mowa w art. 88 ust. 12.
 
 5. Sposób rozliczenia zwrotu pomocy finansowej na uzyskanie lokalu mieszkalnego albo domu, odprawy mieszkaniowej lub ekwiwalentu pieniężnego w zamian za rezygnację z lokalu mieszkalnego wskazuje policjant we wniosku, o którym mowa w art. 88 ust. 6.
 
@@ -156,8 +291,8 @@ source: "isap-pdf"
 
 1. Policjantowi, któremu wysokość świadczenia mieszkaniowego ustala się w sposób, o którym mowa w art. 94b ust. 1 pkt 2, oraz:
 
-- **1)** oddelegowanemu do pełnienia zadań służbowych poza Policją w kraju oraz przeniesionemu do dyspozycji przełożonego, o którym mowa w art. 32 ust. 1, na okres zwolnienia z obowiązku wykonywania zadań służbowych, udzielonego na zasadach określonych w ustawie z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2025 r. poz. 440) – świadczenie mieszkaniowe przyznaje się w wysokości określonej dla miejscowości właściwej ze względu na miejsce oddelegowania do wykonywania zadań służbowych poza Policją lub dla miejscowości właściwej ze względu na miejsce działalności zarządu zakładowej organizacji związkowej, w której policjant pełni funkcję na zasadach określonych w ustawie z dnia 23 maja 1991 r. o związkach zawodowych;
-- **2)** przeniesionemu do dyspozycji przełożonego właściwego w sprawach osobowych na okres, o którym mowa w art. 37a pkt 1, oddelegowanemu do pełnienia zadań służbowych poza Policją za granicą oraz delegowanemu do czasowego pełnienia służby poza granicami państwa, o którym mowa w art. 145a ust. 1 – świadczenie mieszkaniowe przyznaje się w wysokości określonej dla miejscowości, w której pełnił służbę na jeden dzień przed przeniesieniem do dyspozycji lub delegowaniem.
+- **1)** oddelegowanemu do pełnienia zadań służbowych poza Policją w kraju oraz przeniesionemu do dyspozycji przełożonego, o którym mowa w art. 32 ust. 1, na okres zwolnienia z obowiązku wykonywania zadań służbowych, udzielonego na zasadach określonych w ustawie z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2025 r. poz. 440) świadczenie mieszkaniowe przyznaje się w wysokości określonej dla miejscowości właściwej ze względu na miejsce oddelegowania do wykonywania zadań służbowych poza Policją lub dla miejscowości właściwej ze względu na miejsce działalności zarządu zakładowej organizacji związkowej, w której policjant pełni funkcję na zasadach określonych w ustawie z dnia 23 maja 1991 r. o związkach zawodowych;
+- **2)** przeniesionemu do dyspozycji przełożonego właściwego w sprawach osobowych na okres, o którym mowa w art. 37a pkt 1, oddelegowanemu do pełnienia zadań służbowych poza Policją za granicą oraz delegowanemu do czasowego pełnienia służby poza granicami państwa, o którym mowa w art. 145a ust. 1 świadczenie mieszkaniowe przyznaje się w wysokości określonej dla miejscowości, w której pełnił służbę na jeden dzień przed przeniesieniem do dyspozycji lub delegowaniem.
 
 2. Policjantowi, któremu wysokość świadczenia mieszkaniowego ustala się w sposób, o którym mowa w art. 94b ust. 1 pkt 2, świadczenie mieszkaniowe przysługuje od dnia złożenia wniosku do dnia zakończenia pełnienia służby w danej miejscowości, określonej w rozkazie personalnym wydanym przez przełożonego, o którym mowa w art. 32 ust. 1, i jest wypłacane za miesiąc kalendarzowy w terminie do końca każdego miesiąca następującego po miesiącu, w którym nastąpiło rozstrzygnięcie, o którym mowa w art. 88 ust. 12.
 
@@ -177,7 +312,7 @@ source: "isap-pdf"
 - **9)** on i jego małżonek posiadają przydzielony inny lokal mieszkalny albo przydzieloną inną kwaterę tymczasową; w takim przypadku osobom tym przysługuje prawo wyboru jednego z zajmowanych lokali;
 - **10)** po zwolnieniu ze służby on lub pozostali po nim członkowie rodziny zajmują lokal mieszkalny albo kwaterę tymczasową położone w budynku przeznaczonym na cele służbowe, a osobom tym przydzielono lokal w tej samej lub innej miejscowości, o powierzchni odpowiadającej przysługującym normom;
 - **11)** on lub członkowie jego rodziny albo inne osoby zajmują lokal mieszkalny albo kwaterę tymczasową bez tytułu prawnego;
-- **12)** został skazany prawomocnym wyrokiem sądu za przestępstwo umyślne lub przestępstwo skarbowe umyślne, ścigane z oskarżenia publicznego, popełnione w związku z wykonywaniem czynności służbowych i w celu osiągnięcia korzyści majątkowej lub osobistej, albo za przestępstwo określone w art. 258 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny lub orzeczono wobec niego prawomocnie środek karny pozbawienia praw publicznych za przestępstwo lub przestępstwo skarbowe.
+- **12)** został skazany prawomocnym wyrokiem sądu za przestępstwo umyślne lub przestępstwo skarbowe umyślne, ścigane z oskarżenia publicznego, popełnione w związku z wykonywaniem czynności służbowych i w celu osiągnięcia korzyści majątkowej lub osobistej, albo za przestępstwo określone w art. 258 ustawy z dnia 6 czerwca 1997 r. Kodeks karny lub orzeczono wobec niego prawomocnie środek karny pozbawienia praw publicznych za przestępstwo lub przestępstwo skarbowe.
 
 2. Decyzję o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej wydaje się w stosunku do wszystkich osób zamieszkałych w tym lokalu albo tej kwaterze.
 
@@ -192,7 +327,7 @@ source: "isap-pdf"
 - **3)** osobę niepełnosprawną, o której mowa w art. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, lub ubezwłasnowolnioną oraz osobę sprawującą nad taką osobą opiekę i wspólnie z nią zamieszkałą,
 - **4)** obłożnie chorego, który dysponuje dokumentem urzędowym lub zaświadczeniem lekarskim stwierdzającym stan zdrowia, w którym chory bez narażenia życia lub zdrowia nie może prowadzić normalnej egzystencji, wydanym nie wcześniej niż miesiąc przed dniem wszczęcia postępowania o opróżnienie lokalu mieszkalnego albo kwatery tymczasowej,
 - **5)** emeryta lub rencistę spełniającego kryteria otrzymania świadczenia z pomocy społecznej,
-- **6)** osobę posiadającą status bezrobotnego spełniającą kryteria otrzymania świadczenia z pomocy społecznej – wraz z osobami wspólnie zamieszkującymi, nie wydaje się decyzji o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej, chyba że mogą zamieszkać w innym lokalu mieszkalnym albo w domu, a w przypadku, w którym jedną z osób, wobec których wydaje się decyzję o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej, jest policjant, mogą zamieszkać w miejscowości, w której pełni on służbę, albo w miejscowości, o której mowa w art. 93 ust. 1 pkt 1 albo 2, w innym lokalu mieszkalnym albo w domu.
+- **6)** osobę posiadającą status bezrobotnego spełniającą kryteria otrzymania świadczenia z pomocy społecznej wraz z osobami wspólnie zamieszkującymi, nie wydaje się decyzji o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej, chyba że mogą zamieszkać w innym lokalu mieszkalnym albo w domu, a w przypadku, w którym jedną z osób, wobec których wydaje się decyzję o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej, jest policjant, mogą zamieszkać w miejscowości, w której pełni on służbę, albo w miejscowości, o której mowa w art. 93 ust. 1 pkt 1 albo 2, w innym lokalu mieszkalnym albo w domu.
 
 6. W przypadku, o którym mowa w ust. 5, organ właściwy do wydania decyzji o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej kieruje do sądu powszechnego pozew o opróżnienie lokalu mieszkalnego albo kwatery tymczasowej. Przepisy art. 14 ust. 1–5 i 6a, art. 15, art. 17 i art. 18 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego stosuje się odpowiednio.
 
@@ -210,7 +345,129 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2025 r. poz. 914) wprowadza się następujące zmiany:
 
+- **1)** w art. 34a:
+    - **a)** w ust. 20 skreśla się wyrazy „art. 95, art. 100,”,
+    - **b)** dodaje się ust. 21 w brzmieniu: „21. Funkcjonariusz w służbie kontraktowej ma prawo do zakwaterowania realizowanego w formie, o której mowa w art. 92 ust. 2 pkt 3. Przepisy art. 92 ust. 5–8 i 13 oraz art. 92a stosuje się odpowiednio.”;
+
+- **2)** w art. 87b ust. 6 otrzymuje brzmienie: „6. Urlop, o którym mowa w ust. 4, nie przysługuje, jeżeli przerwa w ekspozycji na czynnik szkodliwy dla zdrowia, w szczególności z powodu choroby, urlopu czy zwolnienia od zajęć służbowych, a także wynikająca z potrzeb służbowych trwała nieprzerwanie dłużej niż 90 dni w ciągu roku.”;
+- **3)** tytuł rozdziału 12 otrzymuje brzmienie: „Zakwaterowanie funkcjonariuszy Straży Granicznej”;
+- **4)** art. 92 otrzymuje brzmienie: „Art. 92. 1. Funkcjonariuszowi w służbie przygotowawczej lub stałej, od dnia przyjęcia do służby w Straży Granicznej do dnia zwolnienia ze służby w Straży Granicznej, na jego wniosek, przysługuje prawo do zakwaterowania.
+
+2. Prawo do zakwaterowania jest realizowane w następujących formach:
+
+- **1)** przydział lokalu mieszkalnego;
+- **2)** przydział kwatery tymczasowej;
+- **3)** skierowanie do miejsca w internacie albo kwatery internatowej;
+- **4)** przyznanie świadczenia mieszkaniowego.
+
+3. Na wniosek funkcjonariusza, o którym mowa w ust. 1, prawo do zakwaterowania, o którym mowa w ust. 2 pkt 1–3, jest realizowane w miejscowości, w której funkcjonariusz pełni służbę, lub może być realizowane w miejscowości innej niż miejscowość, w której pełni służbę, zgodnie z wykazem, o którym mowa w ust. 5.
+
+4. Z miejsca w internacie albo kwatery internatowej mogą korzystać również pracownicy Straży Granicznej. Przepisy ust. 5–8 i 13 oraz art. 92a ust. 1 stosuje się odpowiednio.
+
+5. Podmioty, o których mowa w art. 92a ust. 1, prowadzą wykaz dostępnych form zakwaterowania we właściwych jednostkach organizacyjnych Straży Granicznej. Wykaz udostępniany jest do wiadomości funkcjonariuszy w sposób przyjęty przez dany podmiot.
+
+6. Wyboru formy zakwaterowania funkcjonariusz, o którym mowa w ust. 1, dokonuje na podstawie wykazu, o którym mowa w ust. 5, składając wniosek do podmiotu, o którym mowa w art. 92a ust. 1. W przypadku braku możliwości przyznania prawa do zakwaterowania w formie, o której mowa w ust. 2 pkt 1 albo 2, funkcjonariuszowi przyznaje się prawo do zakwaterowania w formie, o której mowa w ust. 2 pkt 4.
+
+7. Wnioski, o których mowa w ust. 6 i 9, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+8. Wniosek, o którym mowa w ust. 6, zawiera:
+
+- **1)** imię (imiona) i nazwisko funkcjonariusza;
+- **2)** stopień służbowy funkcjonariusza;
+- **3)** stanowisko służbowe funkcjonariusza;
+- **4)** numer telefonu kontaktowego;
+- **5)** adres zamieszkania funkcjonariusza;
+- **6)** wskazanie tytułu prawnego do lokalu, który funkcjonariusz zajmuje;
+- **7)** datę przyjęcia funkcjonariusza do służby;
+- **8)** datę ukończenia przez funkcjonariusza szkolenia podstawowego;
+- **9)** miejscowość, w której funkcjonariusz pełni służbę;
+- **10)** imię i nazwisko, stopień pokrewieństwa, datę urodzenia, adres zamieszkania członków rodziny funkcjonariusza, o których mowa w art. 93, oraz informacje o członkach rodziny, o których mowa w art. 93 pkt 2;
+- **11)** oświadczenie funkcjonariusza, czy on lub jego małżonek są właścicielami lub współwłaścicielami lokalu mieszkalnego albo domu, o którym mowa w ust. 11 pkt 1;
+- **12)** oświadczenie funkcjonariusza w sprawie wyboru formy zakwaterowania;
+- **13)** oświadczenie funkcjonariusza w sprawie wyboru sposobu ustalania wysokości świadczenia mieszkaniowego;
+- **14)** oświadczenie funkcjonariusza o skorzystaniu lub nieskorzystaniu z pomocy finansowej na uzyskanie lokalu mieszkalnego albo domu oraz o wskazaniu sposobu rozliczenia zwrotu pomocy finansowej na uzyskanie lokalu mieszkalnego;
+- **15)** oświadczenie funkcjonariusza o nabyciu lub nienabyciu lokalu mieszkalnego od Skarbu Państwa lub jednostki samorządu terytorialnego, z bonifikatą lub pomniejszeniem w cenie nabycia, przydzielonego w trybie administracyjnym w związku z pełnioną służbą;
+- **16)** oświadczenie funkcjonariusza o otrzymaniu lub nieotrzymaniu lokalu mieszkalnego albo kwatery tymczasowej na podstawie przepisów obowiązujących przed dniem wejścia w życie ustawy z dnia 12 września 2025 r. o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby (Dz. U. poz. 1366);
+- **17)** klauzulę o treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”; klauzula ta zastępuje pouczenie przez organ o odpowiedzialności karnej za składanie fałszywych oświadczeń;
+- **18)** informację o sposobie wypłaty świadczenia mieszkaniowego, a w przypadku wyboru bezgotówkowej formy wypłaty numer rachunku bankowego lub innego rachunku płatniczego;
+- **19)** adres lokalu mieszkalnego albo kwatery tymczasowej, o które wnioskuje funkcjonariusz.
+
+9. Funkcjonariuszowi, o którym mowa w ust. 1, na jego wniosek, przysługuje prawo do zamiany lokalu mieszkalnego albo kwatery tymczasowej. Do wniosków o zamianę lokali mieszkalnych albo kwater tymczasowych przepis ust. 8 stosuje się odpowiednio; wniosek o zamianę zawiera także adres zajmowanego lokalu mieszkalnego albo zajmowanej kwatery tymczasowej.
+
+10. Zmiana formy zakwaterowania następuje na wniosek funkcjonariusza, o którym mowa w ust. 6. Podmiot, o którym mowa w art. 92a ust. 1, uchyla decyzję, na podstawie której orzeczono wcześniej o prawie do zakwaterowania.
+
+11. Prawo do form zakwaterowania, o których mowa w ust. 2 pkt 1 i 2, nie przysługuje, jeżeli:
+
+- **1)** funkcjonariusz lub jego małżonek jest właścicielem lub współwłaścicielem lokalu mieszkalnego albo domu w miejscowości, w której pełni służbę, albo w miejscowości, o której mowa w art. 97 ust. 1 pkt 1 albo 2;
+- **2)** małżonek funkcjonariusza będący:
+    - **a)** funkcjonariuszem Policji,
+    - **b)** funkcjonariuszem Państwowej Straży Pożarnej,
+    - **c)** funkcjonariuszem Straży Granicznej,
+    - **d)** funkcjonariuszem Służby Ochrony Państwa,
+    - **e)** funkcjonariuszem Agencji Bezpieczeństwa Wewnętrznego,
+    - **f)** funkcjonariuszem Agencji Wywiadu,
+    - **g)** funkcjonariuszem Służby Wywiadu Wojskowego,
+    - **h)** funkcjonariuszem Służby Kontrwywiadu Wojskowego,
+    - **i)** żołnierzem Sił Zbrojnych Rzeczypospolitej Polskiej otrzymał przydział lokalu mieszkalnego albo kwatery tymczasowej na podstawie przepisów obowiązujących w tych służbach, jeżeli małżonkowie pełnią służbę w tej samej miejscowości albo w miejscowości, o której mowa w art. 97 ust. 1 pkt 1 albo 2.
+
+12. Rozstrzygnięcie o przyznaniu świadczenia mieszkaniowego przez podmiot, o którym mowa w art. 92a ust. 1, w całości uwzględniające wniosek funkcjonariusza następuje w postępowaniu uproszczonym, o którym mowa w dziale II rozdziale 14 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769). Przepisów o milczącym załatwieniu sprawy nie stosuje się.
+
+13. Rozstrzygnięcie o przyznaniu miejsca w internacie albo kwatery internatowej następuje w drodze skierowania funkcjonariusza do miejsca w internacie albo kwatery internatowej przez podmiot, o którym mowa w art. 92a ust. 1.
+
+14. Rozstrzygnięcie o:
+
+- **1)** przydziale lokalu mieszkalnego albo kwatery tymczasowej,
+- **2)** zamianie lokali mieszkalnych albo kwater tymczasowych,
+- **3)** odmowie przyznania wybranej przez funkcjonariusza formy zakwaterowania następuje w drodze decyzji administracyjnej wydanej przez podmiot, o którym mowa w art. 92a ust. 1.
+
+15. W przypadku gdy małżonkowie są funkcjonariuszami Straży Granicznej, każdy z małżonków wybiera formę zakwaterowania, z tym że:
+
+- **1)** jednemu z małżonków przysługuje przydział lokalu mieszkalnego albo kwatery tymczasowej, z uwzględnieniem dzieci, o których mowa w art. 93 pkt 2, a drugiemu małżonkowi przyznaje się świadczenie mieszkaniowe albo
+- **2)** każdemu z małżonków przyznaje się świadczenie mieszkaniowe.
+
+16. W przypadku podania przez funkcjonariusza nieprawdziwych danych we wnioskach, o których mowa w ust. 6 lub 9, lub w przypadku gdy świadczenie mieszkaniowe funkcjonariuszowi nie przysługiwało, podmiot, o którym mowa w art. 92a ust. 1, wydaje decyzję o uchyleniu decyzji przyznającej funkcjonariuszowi wybraną przez niego formę zakwaterowania, w której rozstrzyga także o cofnięciu świadczenia mieszkaniowego w całości oraz zobowiązuje funkcjonariusza do zwrotu świadczeń nienależnie pobranych.
+
+17. Funkcjonariusz jest obowiązany do powiadomienia podmiotu, o którym mowa w art. 92a ust. 1, o każdym zdarzeniu mającym wpływ na prawo do zakwaterowania.
+
+18. W przypadku przeniesienia funkcjonariusza do innej służby albo do służby w ramach zawodowej służby wojskowej albo zwolnienia go ze służby rozstrzygnięcia, o których mowa w ust. 12–14, wygasają z mocy prawa z dniem przeniesienia funkcjonariusza lub zwolnienia go ze służby.
+
+19. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzory wniosków, o których mowa w ust. 6 i 9, a także formę i sposób składania tych wniosków, uwzględniając przejrzystość przedstawianych informacji oraz efektywność prowadzonego postępowania w celu rozstrzygnięcia w sprawach wyboru formy zakwaterowania.”;
+
+- **5)** po art. 92 dodaje się art. 92a i art. 92b w brzmieniu: „Art. 92a. 1. Podmiotami właściwymi w sprawach zakwaterowania oraz zryczałtowanego zwrotu kosztów dojazdu są:
+- **1)** minister właściwy do spraw wewnętrznych w stosunku do:
+    - **a)** Komendanta Głównego Straży Granicznej,
+    - **b)** zastępców Komendanta Głównego Straży Granicznej;
+
+- **2)** Komendant Główny Straży Granicznej w stosunku do:
+    - **a)** Rektora-Komendanta WSSG,
+    - **b)** Komendanta BSWSG,
+    - **c)** komendantów oddziałów Straży Granicznej,
+    - **d)** komendantów ośrodków szkolenia Straży Granicznej,
+    - **e)** komendantów ośrodków Straży Granicznej,
+    - **f)** kierowników komórek organizacyjnych Komendy Głównej Straży Granicznej,
+    - **g)** funkcjonariuszy, o których mowa w art. 41 ust. 2,
+    - **h)** funkcjonariuszy pozostających w jego dyspozycji;
+
+- **3)** Rektor-Komendant WSSG, komendanci oddziałów Straży Granicznej, komendanci ośrodków szkolenia Straży Granicznej, z wyłączeniem ośrodka szkolenia, o którym mowa w pkt 4, oraz komendanci ośrodków Straży Granicznej w stosunku do funkcjonariuszy pełniących służbę w podległych im jednostkach organizacyjnych lub pozostających w ich dyspozycji;
+- **4)** Komendant Warmińsko-Mazurskiego Oddziału Straży Granicznej w stosunku do funkcjonariuszy pełniących służbę w ośrodku szkolenia Straży Granicznej pozostającym na jego zaopatrzeniu lub pozostających w dyspozycji komendanta tego ośrodka szkolenia;
+- **5)** Komendant Nadwiślańskiego Oddziału Straży Granicznej w stosunku do funkcjonariuszy pełniących służbę w komórkach organizacyjnych Komendy Głównej Straży Granicznej i w BSWSG lub pozostających w dyspozycji Komendanta BSWSG.
+
+2. W przypadku funkcjonariusza zwolnionego ze służby, który nabył prawo do lokalu mieszkalnego albo kwatery tymczasowej na podstawie decyzji podmiotu, o którym mowa w ust. 1 pkt 1, właściwym w sprawie wydania decyzji o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej jest podmiot, o którym mowa w ust. 1 pkt 2.
+
 **Art. 92b.** Prawo do zakwaterowania nie przysługuje funkcjonariuszowi:
+
+- **1)** który nabył lokal mieszkalny od Skarbu Państwa lub jednostki samorządu terytorialnego, z bonifikatą lub pomniejszeniem w cenie nabycia, przydzielony w trybie administracyjnym w związku z pełnioną służbą;
+- **2)** od dnia przyjęcia do służby do dnia ukończenia szkolenia podstawowego, a w przypadku następującego bezpośrednio po tym szkoleniu szkolenia w zakresie szkoły podoficerskiej do dnia jego ukończenia;
+- **3)** od dnia przyjęcia do służby do dnia ukończenia studiów stacjonarnych w WSSG;
+- **4)** w służbie kandydackiej.”;
+- **6)** art. 93 i art. 94 otrzymują brzmienie: „Art. 93. Członkami rodziny funkcjonariusza, których uwzględnia się przy przydziale lokalu mieszkalnego albo kwatery tymczasowej, są pozostający z funkcjonariuszem we wspólnym gospodarstwie domowym:
+- **1)** małżonek;
+- **2)** dzieci własne lub małżonka, przysposobione lub przyjęte na wychowanie w ramach rodziny zastępczej, pozostające na jego utrzymaniu, nie dłużej jednak niż do dnia zawarcia przez nie związku małżeńskiego, które:
+    - **a)** nie ukończyły 18. roku życia, a w przypadku uczęszczania do szkoły lub odbywania studiów w uczelni
+
+26. roku życia, albo
+
+- **b)** stały się całkowicie niezdolne do pracy lub niezdolne do samodzielnej egzystencji przed osiągnięciem wieku określonego w lit. a.
 
 **Art. 94.**
 
@@ -226,8 +483,8 @@ source: "isap-pdf"
 
 - **1)** funkcjonariuszowi przysługuje norma powierzchni mieszkalnej, zwana dalej „normą zaludnienia”, która wynosi 10 m ;
 - **2)** funkcjonariuszowi przysługują następujące normy zaludnienia:
-    - **a)** posiadającemu członków rodziny, o których mowa w art. 93 – po jednej normie zaludnienia dla funkcjonariusza i każdego członka jego rodziny, a w przypadku: – zajmowania stanowiska służbowego: Komendant Główny Straży Granicznej, zastępca Komendanta Głównego Straży Granicznej, Rektor-Komendant WSSG, Komendant BSWSG, komendant oddziału Straży Granicznej, komendant ośrodka szkolenia Straży Granicznej, komendant ośrodka Straży Granicznej, kierownik komórki organizacyjnej Komendy Głównej Straży Granicznej lub posiadania stopnia służbowego generała brygady Straży Granicznej (kontradmirała Straży Granicznej) albo generała dywizji Straży Granicznej (wiceadmirała Straży Granicznej) – dwie dodatkowe normy zaludnienia, albo – posiadania stopnia służbowego oficera od stopnia majora Straży Granicznej (komandora podporucznika Straży Granicznej) do stopnia pułkownika Straży Granicznej (komandora Straży Granicznej) lub zajmującemu stanowisko służbowe zaszeregowane do stopnia służbowego oficera od stopnia majora Straży Granicznej (komandora podporucznika Straży Granicznej) do stopnia pułkownika Straży Granicznej (komandora Straży Granicznej) – jedna dodatkowa norma zaludnienia,
-    - **b)** nieposiadającemu członków rodziny, o których mowa w art. 93 – dwie normy zaludnienia, a w przypadku zajmowania stanowiska służbowego: Komendant Główny Straży Granicznej, zastępca Komendanta Głównego Straży Granicznej, Rektor-Komendant WSSG, Komendant BSWSG, komendant oddziału Straży Granicznej, komendant ośrodka szkolenia Straży Granicznej, komendant ośrodka Straży Granicznej, kierownik komórki organizacyjnej Komendy Głównej Straży Granicznej lub posiadania stopnia służbowego generała brygady Straży Granicznej (kontradmirała Straży Granicznej) albo generała dywizji Straży Granicznej (wiceadmirała Straży Granicznej) – jedna dodatkowa norma zaludnienia,
+    - **a)** posiadającemu członków rodziny, o których mowa w art. 93 po jednej normie zaludnienia dla funkcjonariusza i każdego członka jego rodziny, a w przypadku: zajmowania stanowiska służbowego: Komendant Główny Straży Granicznej, zastępca Komendanta Głównego Straży Granicznej, Rektor-Komendant WSSG, Komendant BSWSG, komendant oddziału Straży Granicznej, komendant ośrodka szkolenia Straży Granicznej, komendant ośrodka Straży Granicznej, kierownik komórki organizacyjnej Komendy Głównej Straży Granicznej lub posiadania stopnia służbowego generała brygady Straży Granicznej (kontradmirała Straży Granicznej) albo generała dywizji Straży Granicznej (wiceadmirała Straży Granicznej) dwie dodatkowe normy zaludnienia, albo posiadania stopnia służbowego oficera od stopnia majora Straży Granicznej (komandora podporucznika Straży Granicznej) do stopnia pułkownika Straży Granicznej (komandora Straży Granicznej) lub zajmującemu stanowisko służbowe zaszeregowane do stopnia służbowego oficera od stopnia majora Straży Granicznej (komandora podporucznika Straży Granicznej) do stopnia pułkownika Straży Granicznej (komandora Straży Granicznej) jedna dodatkowa norma zaludnienia,
+    - **b)** nieposiadającemu członków rodziny, o których mowa w art. 93 dwie normy zaludnienia, a w przypadku zajmowania stanowiska służbowego: Komendant Główny Straży Granicznej, zastępca Komendanta Głównego Straży Granicznej, Rektor-Komendant WSSG, Komendant BSWSG, komendant oddziału Straży Granicznej, komendant ośrodka szkolenia Straży Granicznej, komendant ośrodka Straży Granicznej, kierownik komórki organizacyjnej Komendy Głównej Straży Granicznej lub posiadania stopnia służbowego generała brygady Straży Granicznej (kontradmirała Straży Granicznej) albo generała dywizji Straży Granicznej (wiceadmirała Straży Granicznej) jedna dodatkowa norma zaludnienia,
     - **c)** pozostającemu w związku małżeńskim, który nie posiada dzieci, o których mowa w art. 93 pkt 2, przysługuje jedna dodatkowa norma zaludnienia;
 
 - **3)** w przypadku prowadzenia przez funkcjonariusza jednoosobowego gospodarstwa domowego norma zaludnienia wynosi nie mniej niż 20 m .
@@ -240,9 +497,9 @@ source: "isap-pdf"
 
 - **7)** uchyla się art. 95 i art. 96;
 - **8)** art. 97 otrzymuje brzmienie: „Art. 97. 1. Funkcjonariuszowi, z wyłączeniem funkcjonariusza, któremu wysokość świadczenia mieszkaniowego ustala się w sposób, o którym mowa w art. 98b ust. 1 pkt 2, zamieszkującemu w miejscowości innej niż miejscowość, w której pełni służbę, od której granic administracyjnych najkrótsza odległość drogą publiczną do granic administracyjnych miejscowości, w której pełni służbę, wynosi:
-- **1)** do 30 km – wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, w wysokości 140 zł miesięcznie;
-- **2)** powyżej 30 km do 50 km – wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, w wysokości 180 zł miesięcznie;
-- **3)** powyżej 50 km – wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, w wysokości 220 zł miesięcznie.
+- **1)** do 30 km wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, w wysokości 140 zł miesięcznie;
+- **2)** powyżej 30 km do 50 km wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, w wysokości 180 zł miesięcznie;
+- **3)** powyżej 50 km wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, w wysokości 220 zł miesięcznie.
 
 2. Funkcjonariusz, o którym mowa w ust. 1, składa wniosek o wypłatę zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której pełni służbę, do podmiotu, o którym mowa w art. 92a ust. 1, zawierający:
 
@@ -255,7 +512,7 @@ source: "isap-pdf"
 - **7)** numer telefonu kontaktowego;
 - **8)** odległość w kilometrach wynikającą z ust. 1;
 - **9)** klauzulę o treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”; klauzula ta zastępuje pouczenie przez organ o odpowiedzialności karnej za składanie fałszywych oświadczeń;
-- **10)** informację o sposobie wypłaty, a w przypadku wyboru bezgotówkowej formy wypłaty – numer rachunku bankowego lub innego rachunku płatniczego.
+- **10)** informację o sposobie wypłaty, a w przypadku wyboru bezgotówkowej formy wypłaty numer rachunku bankowego lub innego rachunku płatniczego.
 
 3. Wniosek, o którym mowa w ust. 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
@@ -269,7 +526,7 @@ source: "isap-pdf"
 
 8. Funkcjonariusz, o którym mowa w ust. 1, informuje niezwłocznie, jednak nie później niż w terminie 30 dni, licząc od dnia powstania zmiany, podmiot, o którym mowa w art. 92a ust. 1, o każdym zdarzeniu mającym wpływ na uprawnienia do otrzymywania zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której pełni służbę.
 
-9. Zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, nie wypłaca się za okresy, o których mowa w art. 117d ust. 9 – proporcjonalnie do tych okresów, przyjmując, że za każdy dzień wykonywania czynności służbowych ustala się 1/21 części miesięcznego zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której pełni służbę.
+9. Zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, nie wypłaca się za okresy, o których mowa w art. 117d ust. 9 proporcjonalnie do tych okresów, przyjmując, że za każdy dzień wykonywania czynności służbowych ustala się 1/21 części miesięcznego zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której pełni służbę.
 
 10. Zryczałtowany zwrot kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, nie przysługuje, jeżeli funkcjonariusz korzysta z prawa do zakwaterowania w formach, o których mowa w art. 92 ust. 2 pkt 1–3, w miejscowości, w której pełni służbę.
 
@@ -291,11 +548,11 @@ source: "isap-pdf"
 
 6. Funkcjonariusz może wprowadzać w zajmowanym lokalu mieszkalnym albo w zajmowanej kwaterze tymczasowej ulepszenia tylko za zgodą wynajmującego i na podstawie pisemnej umowy określającej sposób rozliczeń z tego tytułu.
 
-7. Opłaty za używanie lokalu mieszkalnego albo kwatery tymczasowej wchodzących w skład mieszkaniowego zasobu gminy przyjmuje się według opłat obowiązujących dla danego lokalu albo kwatery, a w przypadku lokalu mieszkalnego albo kwatery tymczasowej będących w zasobie innego podmiotu, w tym w zarządzie Straży Granicznej, lub będących własnością WSSG – według opłat obowiązujących dla lokali mieszkalnych albo kwater tymczasowych wchodzących w skład zasobu mieszkaniowego tych podmiotów.
+7. Opłaty za używanie lokalu mieszkalnego albo kwatery tymczasowej wchodzących w skład mieszkaniowego zasobu gminy przyjmuje się według opłat obowiązujących dla danego lokalu albo kwatery, a w przypadku lokalu mieszkalnego albo kwatery tymczasowej będących w zasobie innego podmiotu, w tym w zarządzie Straży Granicznej, lub będących własnością WSSG według opłat obowiązujących dla lokali mieszkalnych albo kwater tymczasowych wchodzących w skład zasobu mieszkaniowego tych podmiotów.
 
 8. Umowa najmu, o której mowa w ust. 1, ulega rozwiązaniu z chwilą uprawomocnienia się decyzji o opróżnieniu przydzielonego lokalu mieszkalnego albo przydzielonej kwatery tymczasowej albo wygaśnięcia decyzji o ich przydziale.
 
-9. W sprawach wynikających ze wzajemnych praw i obowiązków najemcy i wynajmującego oraz w innych przypadkach nieuregulowanych w niniejszej ustawie do najmu lokali mieszkalnych albo kwater tymczasowych mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071 i 1172) oraz ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz. 725).
+9. W sprawach wynikających ze wzajemnych praw i obowiązków najemcy i wynajmującego oraz w innych przypadkach nieuregulowanych w niniejszej ustawie do najmu lokali mieszkalnych albo kwater tymczasowych mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2025 r. poz. 1071 i 1172) oraz ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz. 725).
 
 10. Sprawy sporne wynikające ze stosunku najmu lokali mieszkalnych oraz kwater tymczasowych rozstrzygają sądy powszechne.
 
@@ -337,9 +594,9 @@ source: "isap-pdf"
 
 1. Funkcjonariuszowi, któremu wysokość świadczenia mieszkaniowego ustala się w sposób, o którym mowa w art. 98b ust. 1 pkt 2, oraz:
 
-- **1)** oddelegowanemu do wykonywania zadań poza Strażą Graniczną na podstawie art. 41 ust. 2 – świadczenie mieszkaniowe przyznaje się w wysokości określonej dla miejscowości właściwej ze względu na miejsce oddelegowania;
-- **2)** zwolnionemu z obowiązku wykonywania zadań służbowych na podstawie art. 31 ust. 1 ustawy z dnia 23 maja 1991 r. o związkach zawodowych – świadczenie mieszkaniowe przyznaje się w wysokości określonej dla miejscowości właściwej ze względu na miejsce działalności zarządu zakładowej organizacji związkowej, w którym funkcjonariusz pełni funkcję na zasadach określonych w ustawie z dnia 23 maja 1991 r. o związkach zawodowych;
-- **3)** przeniesionemu do dyspozycji właściwego przełożonego oraz delegowanemu do czasowego pełnienia służby poza granicami państwa – świadczenie mieszkaniowe przyznaje się w wysokości określonej dla miejscowości, w której pełnił służbę na jeden dzień przed przeniesieniem do dyspozycji lub delegowaniem.
+- **1)** oddelegowanemu do wykonywania zadań poza Strażą Graniczną na podstawie art. 41 ust. 2 świadczenie mieszkaniowe przyznaje się w wysokości określonej dla miejscowości właściwej ze względu na miejsce oddelegowania;
+- **2)** zwolnionemu z obowiązku wykonywania zadań służbowych na podstawie art. 31 ust. 1 ustawy z dnia 23 maja 1991 r. o związkach zawodowych świadczenie mieszkaniowe przyznaje się w wysokości określonej dla miejscowości właściwej ze względu na miejsce działalności zarządu zakładowej organizacji związkowej, w którym funkcjonariusz pełni funkcję na zasadach określonych w ustawie z dnia 23 maja 1991 r. o związkach zawodowych;
+- **3)** przeniesionemu do dyspozycji właściwego przełożonego oraz delegowanemu do czasowego pełnienia służby poza granicami państwa świadczenie mieszkaniowe przyznaje się w wysokości określonej dla miejscowości, w której pełnił służbę na jeden dzień przed przeniesieniem do dyspozycji lub delegowaniem.
 
 2. Funkcjonariuszowi, któremu wysokość świadczenia mieszkaniowego ustala się w sposób, o którym mowa w art. 98b ust. 1 pkt 2, świadczenie mieszkaniowe przysługuje od dnia złożenia wniosku, o którym mowa w art. 92 ust. 6, do dnia zakończenia pełnienia służby w danej miejscowości, określonej w rozkazie personalnym, i jest wypłacane za miesiąc kalendarzowy w terminie do końca każdego miesiąca następującego po miesiącu, w którym nastąpiło rozstrzygnięcie, o którym mowa w art. 92 ust. 12.
 
@@ -360,7 +617,7 @@ source: "isap-pdf"
 - **9)** dokonał zamiany lokalu mieszkalnego albo kwatery tymczasowej;
 - **10)** po zwolnieniu ze służby on lub pozostali po nim członkowie rodziny zajmują lokal mieszkalny albo kwaterę tymczasową położone w budynku przeznaczonym na cele służbowe, a osobom tym przydzielono lokal w tej samej lub innej miejscowości, o powierzchni odpowiadającej przysługującym normom;
 - **11)** on lub członkowie jego rodziny albo inne osoby zajmują lokal mieszkalny albo kwaterę tymczasową bez tytułu prawnego;
-- **12)** został skazany prawomocnym wyrokiem sądu za przestępstwo umyślne lub przestępstwo skarbowe umyślne, ścigane z oskarżenia publicznego, popełnione w związku z wykonywaniem czynności służbowych i w celu osiągnięcia korzyści majątkowej lub osobistej, albo za przestępstwo określone w art. 130 lub art. 258 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny lub orzeczono wobec niego prawomocnie środek karny pozbawienia praw publicznych za przestępstwo lub przestępstwo skarbowe.
+- **12)** został skazany prawomocnym wyrokiem sądu za przestępstwo umyślne lub przestępstwo skarbowe umyślne, ścigane z oskarżenia publicznego, popełnione w związku z wykonywaniem czynności służbowych i w celu osiągnięcia korzyści majątkowej lub osobistej, albo za przestępstwo określone w art. 130 lub art. 258 ustawy z dnia 6 czerwca 1997 r. Kodeks karny lub orzeczono wobec niego prawomocnie środek karny pozbawienia praw publicznych za przestępstwo lub przestępstwo skarbowe.
 
 2. Decyzję administracyjną o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej wydaje się w stosunku do wszystkich osób zamieszkałych w tym lokalu albo tej kwaterze.
 
@@ -375,7 +632,7 @@ source: "isap-pdf"
 - **3)** osobę niepełnosprawną, o której mowa w art. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz. 913 i 1301), lub ubezwłasnowolnioną oraz osobę sprawującą nad taką osobą opiekę i wspólnie z nią zamieszkałą,
 - **4)** obłożnie chorego, który dysponuje dokumentem urzędowym lub zaświadczeniem lekarskim stwierdzającym stan zdrowia, w którym chory bez narażenia życia lub zdrowia nie może prowadzić normalnej egzystencji, wydanym nie wcześniej niż miesiąc przed dniem wszczęcia postępowania o opróżnienie lokalu mieszkalnego albo kwatery tymczasowej,
 - **5)** emeryta lub rencistę spełniającego kryteria otrzymania świadczenia z pomocy społecznej,
-- **6)** osobę posiadającą status bezrobotnego spełniającą kryteria otrzymania świadczenia z pomocy społecznej – wraz z osobami wspólnie zamieszkującymi, nie wydaje się decyzji o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej, chyba że mogą zamieszkać w innym lokalu mieszkalnym albo w domu, a w przypadku, w którym jedną z osób, wobec których wydaje się decyzję o opróżnieniu lokalu mieszkalnego, jest funkcjonariusz, mogą zamieszkać w miejscowości, w której pełni on służbę, albo w miejscowości, o której mowa w art. 97 ust. 1 pkt 1 albo 2, w innym lokalu mieszkalnym albo w domu.
+- **6)** osobę posiadającą status bezrobotnego spełniającą kryteria otrzymania świadczenia z pomocy społecznej wraz z osobami wspólnie zamieszkującymi, nie wydaje się decyzji o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej, chyba że mogą zamieszkać w innym lokalu mieszkalnym albo w domu, a w przypadku, w którym jedną z osób, wobec których wydaje się decyzję o opróżnieniu lokalu mieszkalnego, jest funkcjonariusz, mogą zamieszkać w miejscowości, w której pełni on służbę, albo w miejscowości, o której mowa w art. 97 ust. 1 pkt 1 albo 2, w innym lokalu mieszkalnym albo w domu.
 
 6. W przypadku, o którym mowa w ust. 5, organ właściwy do wydania decyzji o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej kieruje do sądu powszechnego pozew o opróżnienie lokalu mieszkalnego albo kwatery tymczasowej. Przepisy art. 14 ust. 1–5 i 6a, art. 15, art. 17 i art. 18 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego stosuje się odpowiednio.
 
@@ -395,7 +652,7 @@ source: "isap-pdf"
 
 - **1)** sposób ustalania wysokości uposażenia zasadniczego,
 - **2)** grupy uposażenia zasadniczego, kategorie uposażenia zasadniczego oraz mnożniki kwoty bazowej,
-- **3)** zaszeregowanie stanowisk służbowych do poszczególnych grup uposażenia zasadniczego oraz stopni etatowych – uwzględniając zróżnicowanie uposażenia zasadniczego w poszczególnych grupach i kategoriach zaszeregowania stopni etatowych od zajmowanego stanowiska służbowego, wysługi lat, a także charakteru wykonywanych obowiązków służbowych.
+- **3)** zaszeregowanie stanowisk służbowych do poszczególnych grup uposażenia zasadniczego oraz stopni etatowych uwzględniając zróżnicowanie uposażenia zasadniczego w poszczególnych grupach i kategoriach zaszeregowania stopni etatowych od zajmowanego stanowiska służbowego, wysługi lat, a także charakteru wykonywanych obowiązków służbowych.
 
 **Art. 106.**
 
@@ -433,36 +690,149 @@ source: "isap-pdf"
 
 **Art. 3.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2025 r. poz. 163, z późn. zm. ) w art. 21 w ust. 1:
 
+- **1)** pkt 77 otrzymuje brzmienie: „77) równoważniki pieniężne za brak lokalu mieszkalnego wypłacone funkcjonariuszom Służby Więziennej oraz Służby Celno-Skarbowej do wysokości nieprzekraczającej kwoty 2280 zł;”;
+- **2)** po pkt 77 dodaje się pkt 77a–77c w brzmieniu: „77a) świadczenia mieszkaniowe wypłacone funkcjonariuszom Policji, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego;
+- **77b)** przychody z tytułu pokrytych przez Skarb Państwa kosztów zakwaterowania w kwaterze tymczasowej funkcjonariuszy Policji, Straży Granicznej, Służby Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego oraz Państwowej Straży Pożarnej przeniesionych z urzędu do pełnienia służby albo delegowanych z urzędu do czasowego pełnienia służby w innej jednostce organizacyjnej lub miejscowości;
+- **77c)** równoważnik pieniężny za brak lokalu mieszkalnego wypłacony funkcjonariuszom Służby Ochrony Państwa;”;
+- **3)** pkt 83d otrzymuje brzmienie: „83d) świadczenia przyznane na podstawie odrębnych ustaw lub przepisów wykonawczych wydanych na podstawie tych ustaw:
+    - **a)** żołnierzom oddelegowanym do urzędu, organizacji lub instytucji międzynarodowej albo państwa obcego, w których są wykonywane zadania związane z obronnością Rzeczypospolitej Polskiej,
+    - **b)** funkcjonariuszom Policji i Straży Granicznej oddelegowanym albo delegowanym do pełnienia służby poza granicami państwa w ramach wykonywania zadań określonych w przepisach prawa Unii Europejskiej lub umowach międzynarodowych wiążących Rzeczpospolitą Polską do urzędu, organizacji, instytucji międzynarodowej albo państwa obcego, w których są wykonywane zadania związane z zapewnieniem bezpieczeństwa wewnętrznego i porządku publicznego, ochrony granicy Rzeczypospolitej Polskiej oraz z zapobieganiem i przeciwdziałaniem nielegalnej migracji z wyjątkiem uposażeń i innych należności pieniężnych przysługujących z tytułu pełnienia służby;”.
+
 **Art. 4.** W ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2025 r. poz. 1312) wprowadza się następujące zmiany:
+
+- **1)** w art. 37r w ust. 2 uchyla się pkt 2;
+- **2)** w art. 67 ust. 2 otrzymuje brzmienie: „2. Za dzieci uważa się dzieci własne lub małżonka, przysposobione lub przyjęte na wychowanie w ramach rodziny zastępczej, pozostające na utrzymaniu strażaka, nie dłużej jednak niż do dnia zawarcia przez nie związku małżeńskiego, które:
+- **1)** nie ukończyły 18. roku życia, a w przypadku uczęszczania do szkoły lub odbywania studiów w uczelni 26. roku życia albo
+- **2)** stały się całkowicie niezdolne do pracy lub niezdolne do samodzielnej egzystencji przed osiągnięciem wieku określonego w pkt 1.”;
+- **3)** tytuł rozdziału 8 otrzymuje brzmienie: „Zakwaterowanie strażaków Państwowej Straży Pożarnej”;
+- **4)** art. 74 otrzymuje brzmienie: „Art. 74. 1. Strażakowi mianowanemu na okres służby przygotowawczej lub na stałe, od dnia przyjęcia do służby w Państwowej Straży Pożarnej do dnia zwolnienia ze służby w Państwowej Straży Pożarnej, na jego wniosek, przysługuje prawo do zakwaterowania.
+
+2. Prawo do zakwaterowania jest realizowane w następujących formach:
+
+- **1)** przydział lokalu mieszkalnego;
+- **2)** przydział kwatery tymczasowej;
+- **3)** skierowanie do miejsca w internacie albo kwatery internatowej;
+- **4)** przyznanie świadczenia mieszkaniowego.
+
+3. Na wniosek strażaka, o którym mowa w ust. 1, prawo do zakwaterowania, o którym mowa w ust. 2 pkt 1–3, jest realizowane w miejscowości, w której strażak pełni służbę, lub może być realizowane w miejscowości innej niż miejscowość, w której pełni służbę, zgodnie z wykazem, o którym mowa w ust. 5.
+
+4. Z miejsca w internacie albo kwatery internatowej mogą korzystać również pracownicy Państwowej Straży Pożarnej. Przepisy ust. 5–8 i 13 oraz art. 74b ust. 1 stosuje się odpowiednio.
+
+5. Podmioty, o których mowa w art. 74b ust. 1 pkt 1–8, prowadzą wykaz dostępnych form zakwaterowania we właściwej jednostce organizacyjnej Państwowej Straży Pożarnej. Wykaz udostępniany jest do wiadomości strażaków w sposób przyjęty przez podmioty, o których mowa w art. 74b ust. 1 pkt 1–8. W przypadku strażaków wyznaczonych do pełnienia służby w Wojskowej Ochronie Przeciwpożarowej wykaz dostępnych form zakwaterowania prowadzą podmioty, o których mowa w art. 74b ust. 1 pkt 9–11, na podstawie informacji przekazanych przez Agencję Mienia Wojskowego. Wykaz udostępniany jest do wiadomości strażaków w sposób przyjęty przez podmioty, o których mowa w art. 74b ust. 1 pkt 9–11.
+
+6. Wyboru formy zakwaterowania strażak, o którym mowa w ust. 1, dokonuje na podstawie wykazu, o którym mowa w ust. 5, składając wniosek do podmiotu, o którym mowa w art. 74b ust. 1. W przypadku braku możliwości przyznania prawa do zakwaterowania w formie, o której mowa w ust. 2 pkt 1 albo 2, strażakowi przyznaje się prawo do zakwaterowania w formie, o której mowa w ust. 2 pkt 4.
+
+7. Wnioski, o których mowa w ust. 6 i 9, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+8. Wniosek, o którym mowa w ust. 6, zawiera:
+
+- **1)** imię (imiona) i nazwisko strażaka;
+- **2)** numer ewidencyjny strażaka;
+- **3)** stopień służbowy strażaka;
+- **4)** stanowisko służbowe strażaka;
+- **5)** numer telefonu kontaktowego;
+- **6)** adres zamieszkania strażaka;
+- **7)** wskazanie tytułu prawnego do lokalu, który strażak zajmuje;
+- **8)** datę przyjęcia strażaka do służby;
+- **9)** datę uzyskania kwalifikacji wymaganych do wykonywania zawodu strażak;
+- **10)** miejscowość, w której strażak pełni służbę;
+- **11)** imię i nazwisko, stopień pokrewieństwa, datę urodzenia, adres zamieszkania członków rodziny strażaka, o których mowa w art. 75, oraz informacje o członkach rodziny, o których mowa w art. 75 pkt 2;
+- **12)** oświadczenie strażaka, czy on lub jego małżonek są właścicielami lub współwłaścicielami lokalu mieszkalnego albo domu, o którym mowa w ust. 11 pkt 1;
+- **13)** oświadczenie strażaka w sprawie wyboru formy zakwaterowania;
+- **14)** oświadczenie strażaka w sprawie wyboru sposobu ustalania wysokości świadczenia mieszkaniowego;
+- **15)** oświadczenie strażaka o skorzystaniu lub nieskorzystaniu z pomocy finansowej na uzyskanie lokalu mieszkalnego albo domu oraz o wskazaniu sposobu rozliczenia zwrotu pomocy finansowej na uzyskanie lokalu mieszkalnego;
+- **16)** oświadczenie strażaka o nabyciu lub nienabyciu lokalu mieszkalnego od Skarbu Państwa lub jednostki samorządu terytorialnego, z bonifikatą lub pomniejszeniem w cenie nabycia, przydzielonego w trybie administracyjnym w związku z pełnioną służbą;
+- **17)** oświadczenie strażaka o otrzymaniu lub nieotrzymaniu lokalu mieszkalnego albo kwatery tymczasowej na podstawie przepisów obowiązujących przed dniem wejścia w życie ustawy z dnia 12 września 2025 r. o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby (Dz. U. poz. 1366);
+- **18)** klauzulę o treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”; klauzula ta zastępuje pouczenie przez organ o odpowiedzialności karnej za składanie fałszywych oświadczeń;
+- **19)** informację o sposobie wypłaty świadczenia mieszkaniowego, a w przypadku wyboru bezgotówkowej formy wypłaty numer rachunku bankowego lub innego rachunku płatniczego;
+- **20)** adres lokalu mieszkalnego albo kwatery tymczasowej, o które wnioskuje strażak.
+
+9. Strażakowi, o którym mowa w ust. 1, na jego wniosek, przysługuje prawo do zamiany lokalu mieszkalnego albo kwatery tymczasowej. Do wniosków o zamianę lokali mieszkalnych albo kwater tymczasowych przepis ust. 8 stosuje się odpowiednio; wniosek o zamianę zawiera także adres zajmowanego lokalu mieszkalnego albo zajmowanej kwatery tymczasowej.
+
+10. Zmiana formy zakwaterowania następuje na wniosek strażaka, o którym mowa w ust. 6. Podmiot, o którym mowa w art. 74b ust. 1, uchyla decyzję, na podstawie której orzeczono wcześniej o prawie do zakwaterowania.
+
+11. Prawo do form zakwaterowania, o których mowa w ust. 2 pkt 1 i 2, nie przysługuje, jeżeli:
+
+- **1)** strażak lub jego małżonek jest właścicielem lub współwłaścicielem lokalu mieszkalnego albo domu w miejscowości, w której strażak pełni służbę, albo w miejscowości, o której mowa w art. 82a ust. 1 pkt 1 albo 2;
+- **2)** małżonek strażaka będący:
+    - **a)** funkcjonariuszem Policji,
+    - **b)** strażakiem,
+    - **c)** funkcjonariuszem Straży Granicznej,
+    - **d)** funkcjonariuszem Służby Ochrony Państwa,
+    - **e)** funkcjonariuszem Agencji Bezpieczeństwa Wewnętrznego,
+    - **f)** funkcjonariuszem Agencji Wywiadu,
+    - **g)** funkcjonariuszem Służby Wywiadu Wojskowego,
+    - **h)** funkcjonariuszem Służby Kontrwywiadu Wojskowego,
+    - **i)** żołnierzem Sił Zbrojnych Rzeczypospolitej Polskiej otrzymał przydział lokalu mieszkalnego albo kwatery tymczasowej na podstawie przepisów obowiązujących w tych służbach, jeżeli małżonkowie pełnią służbę w tej samej miejscowości albo w miejscowości, o której mowa w art. 82a ust. 1 pkt 1 albo 2.
+
+12. Rozstrzygnięcie o przyznaniu świadczenia mieszkaniowego przez podmiot, o którym mowa w art. 74b ust. 1, w całości uwzględniające wniosek strażaka, następuje w postępowaniu uproszczonym, o którym mowa w dziale II rozdziale 14 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769). Przepisów o milczącym załatwieniu sprawy nie stosuje się.
+
+13. Rozstrzygnięcie o przyznaniu miejsca w internacie albo kwatery internatowej następuje w drodze skierowania strażaka do miejsca w internacie albo kwatery internatowej przez podmiot, o którym mowa w art. 74b ust. 1.
+
+14. Rozstrzygnięcie o:
+
+- **1)** przydziale lokalu mieszkalnego albo kwatery tymczasowej,
+- **2)** zamianie lokali mieszkalnych albo kwater tymczasowych,
+- **3)** odmowie przyznania wybranej przez strażaka formy zakwaterowania następuje w drodze decyzji administracyjnej wydanej przez podmiot, o którym mowa w art. 74b ust. 1.
+
+15. W przypadku gdy oboje małżonkowie są strażakami, każdy z małżonków wybiera formę zakwaterowania, z tym że:
+
+- **1)** jednemu z małżonków przysługuje przydział lokalu mieszkalnego albo kwatery tymczasowej, z uwzględnieniem dzieci, o których mowa w art. 67 ust. 2, a drugiemu małżonkowi przyznaje się świadczenie mieszkaniowe albo
+- **2)** każdemu z małżonków przyznaje się świadczenie mieszkaniowe.
+
+16. W przypadku podania przez strażaka nieprawdziwych danych we wnioskach, o których mowa w ust. 6 lub 9, lub w przypadku gdy świadczenie mieszkaniowe strażakowi nie przysługiwało, podmiot, o którym mowa w art. 74b ust. 1, wydaje decyzję o uchyleniu decyzji przyznającej strażakowi wybraną przez niego formę zakwaterowania, w której rozstrzyga także o cofnięciu świadczenia mieszkaniowego w całości oraz zobowiązuje strażaka do zwrotu świadczeń nienależnie pobranych.
+
+17. Strażak jest obowiązany do powiadomienia podmiotu, o którym mowa w art. 74b ust. 1, o każdym zdarzeniu mającym wpływ na prawo do zakwaterowania.
+
+18. W przypadku przeniesienia strażaka do innej służby albo do służby w ramach zawodowej służby wojskowej albo zwolnienia go ze służby rozstrzygnięcia, o których mowa w ust. 12–14, wygasają z mocy prawa z dniem przeniesienia strażaka lub zwolnienia go ze służby.
+
+19. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzory wniosków, o których mowa w ust. 6 i 9, a także formę i sposób składania tych wniosków, uwzględniając przejrzystość przedstawianych informacji oraz efektywność prowadzonego postępowania w celu rozstrzygnięcia w sprawach wyboru formy zakwaterowania.”;
+
+- **5)** po art. 74 dodaje się art. 74a–74c w brzmieniu: „Art. 74a. 1. W celu realizacji uprawnień, o których mowa w art. 74 ust. 2 pkt 1–3, dla strażaków wyznaczonych do pełnienia służby w Wojskowej Ochronie Przeciwpożarowej Agencja Mienia Wojskowego, w ramach posiadanych możliwości, przekazuje podmiotom, o których mowa w art. 74b ust. 1 pkt 9–11, odpowiadające tym strażakom lokal mieszkalny, kwaterę tymczasową, miejsce w internacie albo kwaterę internatową.
+
+2. Na realizację zadania, o którym mowa w art. 74 ust. 2 pkt 3, Agencja Mienia Wojskowego otrzymuje dotację celową z części budżetu państwa, której dysponentem jest Minister Obrony Narodowej, od dnia przekazania miejsca w internacie albo kwatery internatowej podmiotom, o których mowa w art. 74b ust. 1 pkt 9–11.
+
+3. W przypadku strażaków wyznaczonych do pełnienia służby w Wojskowej Ochronie Przeciwpożarowej, podmioty, o których mowa w art. 74b ust. 1 pkt 9–11, przekazują Agencji Mienia Wojskowego egzemplarz decyzji o przydziale lokalu mieszkalnego. Przepisy art. 69–72 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2025 r. poz. 817) stosuje się odpowiednio.
+
+4. Do strażaków wyznaczonych do pełnienia służby w Wojskowej Ochronie Przeciwpożarowej przepisy art. 36 ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2024 r. poz. 1270) stosuje się odpowiednio.
+
+5. Wypłatę świadczenia mieszkaniowego, a także zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której strażak pełni służbę, w odniesieniu do strażaków wyznaczonych do pełnienia służby w Wojskowej Ochronie Przeciwpożarowej realizują wojskowe jednostki budżetowe, na zaopatrzeniu których pozostają jednostki organizacyjne Wojskowej Ochrony Przeciwpożarowej.
 
 **Art. 74b.**
 
 1. Podmiotami właściwymi w sprawach zakwaterowania są:
 
-- **1)** minister właściwy do spraw wewnętrznych – w stosunku do Komendanta Głównego Państwowej Straży Pożarnej i jego zastępcy;
-- **2)** Komendant Główny Państwowej Straży Pożarnej – w stosunku do strażaka:
-    - **a)** na stanowisku służbowym: – w Komendzie Głównej Państwowej Straży Pożarnej lub pozostającego w jego dyspozycji, – Rektora-Komendanta Akademii Pożarniczej, – komendanta wojewódzkiego Państwowej Straży Pożarnej, – komendanta szkoły Państwowej Straży Pożarnej, – dyrektora instytutu badawczego Państwowej Straży Pożarnej, – dyrektora Centralnego Muzeum Pożarnictwa,
+- **1)** minister właściwy do spraw wewnętrznych w stosunku do Komendanta Głównego Państwowej Straży Pożarnej i jego zastępcy;
+- **2)** Komendant Główny Państwowej Straży Pożarnej w stosunku do strażaka:
+    - **a)** na stanowisku służbowym: w Komendzie Głównej Państwowej Straży Pożarnej lub pozostającego w jego dyspozycji, Rektora-Komendanta Akademii Pożarniczej, komendanta wojewódzkiego Państwowej Straży Pożarnej, komendanta szkoły Państwowej Straży Pożarnej, dyrektora instytutu badawczego Państwowej Straży Pożarnej, dyrektora Centralnego Muzeum Pożarnictwa,
     - **b)** wyznaczonego do wykonywania określonych zadań poza jednostką organizacyjną Państwowej Straży Pożarnej;
 
-- **3)** komendant wojewódzki Państwowej Straży Pożarnej – w stosunku do strażaka na stanowisku służbowym:
+- **3)** komendant wojewódzki Państwowej Straży Pożarnej w stosunku do strażaka na stanowisku służbowym:
     - **a)** komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej,
     - **b)** w komendzie wojewódzkiej Państwowej Straży Pożarnej lub pozostającego w jego dyspozycji;
 
-- **4)** Rektor-Komendant Akademii Pożarniczej – w stosunku do podległych mu strażaków;
-- **5)** komendant szkoły Państwowej Straży Pożarnej – w stosunku do podległych mu strażaków;
-- **6)** komendant powiatowy (miejski) Państwowej Straży Pożarnej – w stosunku do podległych mu strażaków;
-- **7)** dyrektor instytutu badawczego Państwowej Straży Pożarnej – w stosunku do podległych mu strażaków;
-- **8)** dyrektor Centralnego Muzeum Pożarnictwa – w stosunku do podległych mu strażaków;
-- **9)** Szef Wojskowej Ochrony Przeciwpożarowej – w stosunku do strażaków wyznaczonych do pełnienia służby w Inspektoracie Wojskowej Ochrony Przeciwpożarowej;
-- **10)** właściwy miejscowo szef delegatury Wojskowej Ochrony Przeciwpożarowej – w stosunku do:
+- **4)** Rektor-Komendant Akademii Pożarniczej w stosunku do podległych mu strażaków;
+- **5)** komendant szkoły Państwowej Straży Pożarnej w stosunku do podległych mu strażaków;
+- **6)** komendant powiatowy (miejski) Państwowej Straży Pożarnej w stosunku do podległych mu strażaków;
+- **7)** dyrektor instytutu badawczego Państwowej Straży Pożarnej w stosunku do podległych mu strażaków;
+- **8)** dyrektor Centralnego Muzeum Pożarnictwa w stosunku do podległych mu strażaków;
+- **9)** Szef Wojskowej Ochrony Przeciwpożarowej w stosunku do strażaków wyznaczonych do pełnienia służby w Inspektoracie Wojskowej Ochrony Przeciwpożarowej;
+- **10)** właściwy miejscowo szef delegatury Wojskowej Ochrony Przeciwpożarowej w stosunku do:
     - **a)** strażaków wyznaczonych do pełnienia służby w delegaturze Wojskowej Ochrony Przeciwpożarowej,
     - **b)** strażaków wyznaczonych do pełnienia służby w wojskowej straży pożarnej mającej siedzibę na terenie działania delegatury Wojskowej Ochrony Przeciwpożarowej;
 
-- **11)** Komendant Szkoły Pożarniczej Wojskowej Ochrony Przeciwpożarowej – w stosunku do strażaków pełniących służbę w Szkole Pożarniczej Wojskowej Ochrony Przeciwpożarowej.
+- **11)** Komendant Szkoły Pożarniczej Wojskowej Ochrony Przeciwpożarowej w stosunku do strażaków pełniących służbę w Szkole Pożarniczej Wojskowej Ochrony Przeciwpożarowej.
 
 2. W przypadku strażaka zwolnionego ze służby, który nabył prawo do lokalu mieszkalnego albo kwatery tymczasowej, na podstawie decyzji podmiotu wskazanego w ust. 1 pkt 1, właściwym w sprawie wydania decyzji o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej jest podmiot wskazany w ust. 1 pkt 2.
 
 **Art. 74c.** Prawo do zakwaterowania nie przysługuje strażakowi:
+
+- **1)** który nabył lokal mieszkalny od Skarbu Państwa lub jednostki samorządu terytorialnego, z bonifikatą lub pomniejszeniem w cenie nabycia, przydzielony w trybie administracyjnym w związku z pełnioną służbą;
+- **2)** od dnia przyjęcia do służby do dnia uzyskania kwalifikacji wymaganych do wykonywania zawodu strażak;
+- **3)** w służbie kandydackiej.”;
+- **6)** art. 75 i art. 76 otrzymują brzmienie: „Art. 75. Członkami rodziny strażaka, których uwzględnia się przy przydziale lokalu mieszkalnego albo kwatery tymczasowej, są pozostający ze strażakiem we wspólnym gospodarstwie domowym:
+- **1)** małżonek;
+- **2)** dzieci, o których mowa w art. 67 ust. 2.
 
 **Art. 76.**
 
@@ -478,8 +848,8 @@ source: "isap-pdf"
 
 - **1)** strażakowi przysługuje norma powierzchni mieszkalnej, zwana dalej „normą zaludnienia”, która wynosi 10 m ;
 - **2)** strażakowi:
-    - **a)** posiadającemu członków rodziny, o których mowa w art. 75, przysługuje po jednej normie zaludnienia dla strażaka i każdego członka jego rodziny, a w przypadku: – pełnienia służby na stanowisku służbowym: Komendant Główny Państwowej Straży Pożarnej, zastępca Komendanta Głównego Państwowej Straży Pożarnej, dyrektor biura Komendy Głównej Państwowej Straży Pożarnej, komendant wojewódzki Państwowej Straży Pożarnej, zastępca komendanta wojewódzkiego Państwowej Straży Pożarnej, Rektor-Komendant Akademii Pożarniczej, zastępca Rektora-Komendanta Akademii Pożarniczej, komendant szkoły Państwowej Straży Pożarnej, dyrektor instytutu badawczego Państwowej Straży Pożarnej, Dyrektor Centralnego Muzeum Pożarnictwa – dwie dodatkowe normy zaludnienia, albo – pozostałych oficerów Państwowej Straży Pożarnej – jedna dodatkowa norma zaludnienia,
-    - **b)** nieposiadającemu członków rodziny, o których mowa w art. 75, przysługują dwie normy zaludnienia, a w przypadku pełnienia służby na stanowisku służbowym: Komendant Główny Państwowej Straży Pożarnej, zastępca Komendanta Głównego Państwowej Straży Pożarnej, dyrektor biura Komendy Głównej Państwowej Straży Pożarnej, komendant wojewódzki Państwowej Straży Pożarnej, zastępca komendanta wojewódzkiego Państwowej Straży Pożarnej, Rektor-Komendant Akademii Pożarniczej, zastępca Rektora-Komendanta Akademii Pożarniczej, komendant szkoły Państwowej Straży Pożarnej, dyrektor instytutu badawczego Państwowej Straży Pożarnej, Dyrektor Centralnego Muzeum Pożarnictwa – jedna dodatkowa norma zaludnienia,
+    - **a)** posiadającemu członków rodziny, o których mowa w art. 75, przysługuje po jednej normie zaludnienia dla strażaka i każdego członka jego rodziny, a w przypadku: pełnienia służby na stanowisku służbowym: Komendant Główny Państwowej Straży Pożarnej, zastępca Komendanta Głównego Państwowej Straży Pożarnej, dyrektor biura Komendy Głównej Państwowej Straży Pożarnej, komendant wojewódzki Państwowej Straży Pożarnej, zastępca komendanta wojewódzkiego Państwowej Straży Pożarnej, Rektor-Komendant Akademii Pożarniczej, zastępca Rektora-Komendanta Akademii Pożarniczej, komendant szkoły Państwowej Straży Pożarnej, dyrektor instytutu badawczego Państwowej Straży Pożarnej, Dyrektor Centralnego Muzeum Pożarnictwa dwie dodatkowe normy zaludnienia, albo pozostałych oficerów Państwowej Straży Pożarnej jedna dodatkowa norma zaludnienia,
+    - **b)** nieposiadającemu członków rodziny, o których mowa w art. 75, przysługują dwie normy zaludnienia, a w przypadku pełnienia służby na stanowisku służbowym: Komendant Główny Państwowej Straży Pożarnej, zastępca Komendanta Głównego Państwowej Straży Pożarnej, dyrektor biura Komendy Głównej Państwowej Straży Pożarnej, komendant wojewódzki Państwowej Straży Pożarnej, zastępca komendanta wojewódzkiego Państwowej Straży Pożarnej, Rektor-Komendant Akademii Pożarniczej, zastępca Rektora-Komendanta Akademii Pożarniczej, komendant szkoły Państwowej Straży Pożarnej, dyrektor instytutu badawczego Państwowej Straży Pożarnej, Dyrektor Centralnego Muzeum Pożarnictwa jedna dodatkowa norma zaludnienia,
     - **c)** pozostającemu w związku małżeńskim, który nie posiada dzieci, o których mowa w art. 67 ust. 2, przysługuje jedna dodatkowa norma zaludnienia;
 
 - **3)** w przypadku prowadzenia przez strażaka jednoosobowego gospodarstwa domowego norma zaludnienia wynosi nie mniej niż 20 m .
@@ -506,11 +876,11 @@ source: "isap-pdf"
 
 6. Strażak może wprowadzać w zajmowanym lokalu mieszkalnym albo w zajmowanej kwaterze tymczasowej ulepszenia tylko za zgodą wynajmującego i na podstawie pisemnej umowy określającej sposób rozliczeń z tego tytułu.
 
-7. Opłaty za używanie lokalu mieszkalnego albo kwatery tymczasowej wchodzących w skład mieszkaniowego zasobu gminy przyjmuje się według opłat obowiązujących dla danego lokalu albo kwatery, a w przypadku lokalu mieszkalnego albo kwatery tymczasowej będących w zasobie innego podmiotu, w tym w zarządzie Państwowej Straży Pożarnej – według opłat obowiązujących dla lokali mieszkalnych albo kwater tymczasowych wchodzących w skład zasobu mieszkaniowego tego podmiotu.
+7. Opłaty za używanie lokalu mieszkalnego albo kwatery tymczasowej wchodzących w skład mieszkaniowego zasobu gminy przyjmuje się według opłat obowiązujących dla danego lokalu albo kwatery, a w przypadku lokalu mieszkalnego albo kwatery tymczasowej będących w zasobie innego podmiotu, w tym w zarządzie Państwowej Straży Pożarnej według opłat obowiązujących dla lokali mieszkalnych albo kwater tymczasowych wchodzących w skład zasobu mieszkaniowego tego podmiotu.
 
 8. Umowa najmu, o której mowa w ust. 1, ulega rozwiązaniu z chwilą uprawomocnienia się decyzji o opróżnieniu przydzielonego lokalu mieszkalnego albo przydzielonej kwatery tymczasowej albo wygaśnięcia decyzji o ich przydziale.
 
-9. W sprawach wynikających ze wzajemnych praw i obowiązków najemcy i wynajmującego oraz w innych przypadkach nieuregulowanych w niniejszej ustawie do najmu lokali mieszkalnych i kwater tymczasowych mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071 i 1172) oraz ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz. 725).
+9. W sprawach wynikających ze wzajemnych praw i obowiązków najemcy i wynajmującego oraz w innych przypadkach nieuregulowanych w niniejszej ustawie do najmu lokali mieszkalnych i kwater tymczasowych mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2025 r. poz. 1071 i 1172) oraz ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz. 725).
 
 10. Sprawy sporne wynikające ze stosunku najmu lokali mieszkalnych oraz kwater tymczasowych rozstrzygają sądy powszechne.
 
@@ -552,8 +922,8 @@ source: "isap-pdf"
 
 1. Strażakowi, któremu wysokość świadczenia mieszkaniowego ustala się w sposób, o którym mowa w art. 80b ust. 1 pkt 2, oraz:
 
-- **1)** oddelegowanemu do wykonywania zadań poza Państwową Strażą Pożarną w kraju oraz przeniesionemu do dyspozycji przełożonego właściwego w sprawach osobowych na okres zwolnienia z obowiązku wykonywania zadań służbowych, udzielonego na zasadach określonych w ustawie z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2025 r. poz. 440) – świadczenie mieszkaniowe przyznaje się w wysokości określonej dla miejscowości właściwej ze względu na miejsce oddelegowania do wykonywania zadań służbowych poza Państwową Strażą Pożarną lub dla miejscowości właściwej ze względu na miejsce działalności zarządu zakładowej organizacji związkowej, w którym strażak pełni funkcję na zasadach określonych w ustawie z dnia 23 maja 1991 r. o związkach zawodowych;
-- **2)** przeniesionemu do dyspozycji przełożonego, oddelegowanemu do pełnienia służby lub wykonywania zadań poza granicami kraju oraz delegowanemu do realizacji zadań poza granicami państwa w grupie ratowniczej – świadczenie mieszkaniowe przyznaje się w wysokości określonej dla miejscowości, w której pełnił służbę na jeden dzień przed przeniesieniem do dyspozycji lub delegowaniem.
+- **1)** oddelegowanemu do wykonywania zadań poza Państwową Strażą Pożarną w kraju oraz przeniesionemu do dyspozycji przełożonego właściwego w sprawach osobowych na okres zwolnienia z obowiązku wykonywania zadań służbowych, udzielonego na zasadach określonych w ustawie z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2025 r. poz. 440) świadczenie mieszkaniowe przyznaje się w wysokości określonej dla miejscowości właściwej ze względu na miejsce oddelegowania do wykonywania zadań służbowych poza Państwową Strażą Pożarną lub dla miejscowości właściwej ze względu na miejsce działalności zarządu zakładowej organizacji związkowej, w którym strażak pełni funkcję na zasadach określonych w ustawie z dnia 23 maja 1991 r. o związkach zawodowych;
+- **2)** przeniesionemu do dyspozycji przełożonego, oddelegowanemu do pełnienia służby lub wykonywania zadań poza granicami kraju oraz delegowanemu do realizacji zadań poza granicami państwa w grupie ratowniczej świadczenie mieszkaniowe przyznaje się w wysokości określonej dla miejscowości, w której pełnił służbę na jeden dzień przed przeniesieniem do dyspozycji lub delegowaniem.
 
 2. Strażakowi, któremu wysokość świadczenia mieszkaniowego ustala się w sposób, o którym mowa w art. 80b ust. 1 pkt 2, świadczenie mieszkaniowe przysługuje od dnia złożenia wniosku do dnia zakończenia pełnienia służby w danej miejscowości, określonej w akcie mianowania wydanym przez przełożonego właściwego w sprawach osobowych i jest wypłacane za miesiąc kalendarzowy w terminie do końca każdego miesiąca następującego po miesiącu, w którym nastąpiło rozstrzygnięcie, o którym mowa w art. 74 ust. 12.
 
@@ -589,7 +959,7 @@ source: "isap-pdf"
 - **3)** osobę niepełnosprawną, o której mowa w art. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz. 913 i 1301), lub ubezwłasnowolnioną oraz osobę sprawującą nad taką osobą opiekę i wspólnie z nią zamieszkałą,
 - **4)** obłożnie chorego, który dysponuje dokumentem urzędowym lub zaświadczeniem lekarskim stwierdzającym stan zdrowia, w którym chory bez narażenia życia lub zdrowia nie może prowadzić normalnej egzystencji, wydanym nie wcześniej niż miesiąc przed dniem wszczęcia postępowania o opróżnienie lokalu mieszkalnego albo kwatery tymczasowej,
 - **5)** emeryta lub rencistę spełniającego kryteria otrzymania świadczenia z pomocy społecznej,
-- **6)** osobę posiadającą status bezrobotnego spełniającą kryteria otrzymania świadczenia z pomocy społecznej – wraz z osobami wspólnie zamieszkującymi, nie wydaje się decyzji o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej, chyba że mogą zamieszkać w innym lokalu mieszkalnym albo w domu, a w przypadku, w którym jedną z osób, wobec których wydaje się decyzję o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej jest strażak, mogą zamieszkać w miejscowości, w której pełni on służbę, albo w miejscowości, o której mowa w art. 82a ust. 1 pkt 1 albo 2, w innym lokalu mieszkalnym albo w domu.
+- **6)** osobę posiadającą status bezrobotnego spełniającą kryteria otrzymania świadczenia z pomocy społecznej wraz z osobami wspólnie zamieszkującymi, nie wydaje się decyzji o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej, chyba że mogą zamieszkać w innym lokalu mieszkalnym albo w domu, a w przypadku, w którym jedną z osób, wobec których wydaje się decyzję o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej jest strażak, mogą zamieszkać w miejscowości, w której pełni on służbę, albo w miejscowości, o której mowa w art. 82a ust. 1 pkt 1 albo 2, w innym lokalu mieszkalnym albo w domu.
 
 6. W przypadku, o którym mowa w ust. 5, organ właściwy do wydania decyzji o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej kieruje do sądu powszechnego pozew o opróżnienie lokalu mieszkalnego albo kwatery tymczasowej. Przepisy art. 14 ust. 1–5 i 6a, art. 15, art. 17 i art. 18 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego stosuje się odpowiednio.
 
@@ -602,9 +972,9 @@ source: "isap-pdf"
 3. Strażakowi delegowanemu z urzędu do czasowego pełnienia służby albo przeniesionemu z urzędu do pełnienia służby w innej miejscowości przydziela się kwaterę tymczasową.”;
 
 - **12)** po art. 82 dodaje się art. 82a w brzmieniu: „Art. 82a. 1. Strażakowi, z wyłączeniem strażaka, któremu wysokość świadczenia mieszkaniowego ustala się w sposób, o którym mowa w art. 80b ust. 1 pkt 2, zamieszkującemu w miejscowości innej niż miejscowość, w której pełni służbę, od której granic administracyjnych najkrótsza odległość drogą publiczną do granic administracyjnych miejscowości, w której pełni służbę, wynosi:
-- **1)** do 30 km – wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której strażak pełni służbę, w wysokości 140 zł miesięcznie;
-- **2)** powyżej 30 km do 50 km – wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której strażak pełni służbę, w wysokości 180 zł miesięcznie;
-- **3)** powyżej 50 km – wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której strażak pełni służbę, w wysokości 220 zł miesięcznie.
+- **1)** do 30 km wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której strażak pełni służbę, w wysokości 140 zł miesięcznie;
+- **2)** powyżej 30 km do 50 km wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której strażak pełni służbę, w wysokości 180 zł miesięcznie;
+- **3)** powyżej 50 km wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której strażak pełni służbę, w wysokości 220 zł miesięcznie.
 
 2. Strażak, o którym mowa w ust. 1, składa wniosek o wypłatę zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której pełni służbę, do przełożonego właściwego w sprawach osobowych zawierający:
 
@@ -617,7 +987,7 @@ source: "isap-pdf"
 - **7)** numer telefonu kontaktowego;
 - **8)** odległość w kilometrach wynikającą z ust. 1;
 - **9)** klauzulę o treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”; klauzula ta zastępuje pouczenie przez organ o odpowiedzialności karnej za składanie fałszywych oświadczeń;
-- **10)** informację o sposobie wypłaty, a w przypadku wyboru bezgotówkowej formy wypłaty – numer rachunku bankowego lub innego rachunku płatniczego.
+- **10)** informację o sposobie wypłaty, a w przypadku wyboru bezgotówkowej formy wypłaty numer rachunku bankowego lub innego rachunku płatniczego.
 
 3. Wniosek, o którym mowa w ust. 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
@@ -631,7 +1001,7 @@ source: "isap-pdf"
 
 8. Strażak, o którym mowa w ust. 1, informuje niezwłocznie, jednak nie później niż w terminie 30 dni, licząc od dnia powstania zmiany, przełożonego właściwego w sprawach osobowych o każdym zdarzeniu mającym wpływ na uprawnienia do otrzymywania zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której strażak pełni służbę.
 
-9. Zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której strażak pełni służbę, nie wypłaca się za okresy, o których mowa w art. 97e ust. 9 – proporcjonalnie do tych okresów, przyjmując, że za każdy dzień wykonywania czynności służbowych ustala się 1/21 części miesięcznego zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której pełni służbę.
+9. Zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której strażak pełni służbę, nie wypłaca się za okresy, o których mowa w art. 97e ust. 9 proporcjonalnie do tych okresów, przyjmując, że za każdy dzień wykonywania czynności służbowych ustala się 1/21 części miesięcznego zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której pełni służbę.
 
 10. Zryczałtowany zwrot kosztów dojazdu do miejscowości, w której strażak pełni służbę, nie przysługuje, jeżeli strażak korzysta z prawa do zakwaterowania w formach, o których mowa w art. 74 ust. 2 pkt 1–3, w miejscowości, w której pełni służbę.
 
@@ -641,9 +1011,118 @@ source: "isap-pdf"
 
 **Art. 5.** W ustawie z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2024 r. poz. 1121, 1243, 1562 i 1871) wprowadza się następujące zmiany:
 
+- **1)** w art. 29:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Funkcjonariusze zwolnieni ze służby, uprawnieni do policyjnej emerytury lub renty mają prawo do lokalu mieszkalnego będącego w dyspozycji odpowiednio ministra właściwego do spraw wewnętrznych, Ministra Sprawiedliwości lub podległych im organów, w rozmiarze przysługującym im w dniu zwolnienia ze służby. Do mieszkań tych stosuje się odpowiednio przepisy dotyczące lokali mieszkalnych dla funkcjonariuszy.”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Przepisów ust. 1–3 nie stosuje się do funkcjonariuszy Straży Marszałkowskiej, funkcjonariuszy Służby Celnej, funkcjonariuszy Służby Celno-Skarbowej, funkcjonariuszy Policji, funkcjonariuszy Straży Granicznej, strażaków Państwowej Straży Pożarnej, funkcjonariuszy Służby Ochrony Państwa, funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, funkcjonariuszy Agencji Wywiadu, funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz funkcjonariuszy Służby Wywiadu Wojskowego.”;
+
+- **2)** art. 30 otrzymuje brzmienie: „Art. 30. Emerytom i rencistom policyjnym, z wyjątkiem emerytów i rencistów Straży Marszałkowskiej, Służby Celnej, Służby Celno-Skarbowej, Policji, Straży Granicznej, Państwowej Straży Pożarnej, Służby Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego, zapewnia się pomoc w budownictwie mieszkaniowym na zasadach przewidzianych dla funkcjonariuszy.”.
+
 **Art. 6.** W ustawie z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2025 r. poz. 902) wprowadza się następujące zmiany:
 
+- **1)** tytuł rozdziału 8 otrzymuje brzmienie: „Zakwaterowanie funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu”;
+- **2)** art. 102 otrzymuje brzmienie: „Art. 102. 1. Funkcjonariuszowi mianowanemu na okres służby przygotowawczej lub na stałe, od dnia przyjęcia do służby w ABW lub AW do dnia zwolnienia ze służby odpowiednio w ABW lub AW, na jego wniosek, przysługuje prawo do zakwaterowania.
+
+2. Prawo do zakwaterowania jest realizowane w następujących formach:
+
+- **1)** przydział lokalu mieszkalnego;
+- **2)** przydział kwatery tymczasowej;
+- **3)** skierowanie do miejsca w internacie albo kwatery internatowej;
+- **4)** przyznanie świadczenia mieszkaniowego.
+
+3. Na wniosek funkcjonariusza, o którym mowa w ust. 1, prawo do zakwaterowania, o którym mowa w ust. 2 pkt 1–3, jest realizowane w miejscowości, w której funkcjonariusz pełni służbę, lub może być realizowane w miejscowości innej niż miejscowość, w której pełni służbę, zgodnie z wykazem, o którym mowa w ust. 5.
+
+4. Z kwatery internatowej albo miejsca w internacie mogą korzystać również pracownicy Agencji. Przepisy ust. 5–8 i 13 oraz art. 102a ust. 1 stosuje się odpowiednio.
+
+5. Podmioty, o których mowa w art. 102a ust. 1, każdy w zakresie swojej właściwości, prowadzą wykaz dostępnych form zakwaterowania we właściwej jednostce organizacyjnej Agencji. Wykaz jest udostępniany do wiadomości funkcjonariuszy właściwej Agencji w sposób przyjęty przez dany podmiot.
+
+6. Wyboru formy zakwaterowania funkcjonariusz, o którym mowa w ust. 1, dokonuje na podstawie wykazu, o którym mowa w ust. 5, składając wniosek do podmiotu, o którym mowa w art. 102a ust. 1. W przypadku braku możliwości przyznania prawa do zakwaterowania w formie, o której mowa w ust. 2 pkt 1 albo 2, funkcjonariuszowi przyznaje się prawo do zakwaterowania w formie, o której mowa w ust. 2 pkt 4.
+
+7. Wnioski, o których mowa w ust. 6 i 9, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+8. Wniosek, o którym mowa w ust. 6, zawiera następujące dane:
+
+- **1)** imię (imiona) i nazwisko funkcjonariusza;
+- **2)** stopień służbowy funkcjonariusza;
+- **3)** stanowisko służbowe funkcjonariusza;
+- **4)** numer telefonu kontaktowego;
+- **5)** adres zamieszkania funkcjonariusza;
+- **6)** wskazanie tytułu prawnego do lokalu, który funkcjonariusz zajmuje;
+- **7)** datę przyjęcia funkcjonariusza do służby;
+- **8)** datę ukończenia przez funkcjonariusza szkolenia zawodowego;
+- **9)** miejscowość, w której funkcjonariusz pełni służbę;
+- **10)** imię i nazwisko, stopień pokrewieństwa, datę urodzenia, adres zamieszkania członków rodziny funkcjonariusza, o których mowa w art. 103, oraz informacje o członkach rodziny, o których mowa w art. 103 pkt 2;
+- **11)** oświadczenie funkcjonariusza, czy on lub jego małżonek są właścicielami lub współwłaścicielami lokalu mieszkalnego albo domu, o którym mowa w ust. 11 pkt 1;
+- **12)** oświadczenie funkcjonariusza w sprawie wyboru formy zakwaterowania;
+- **13)** oświadczenie funkcjonariusza w sprawie wyboru sposobu ustalania wysokości świadczenia mieszkaniowego;
+- **14)** oświadczenie funkcjonariusza o skorzystaniu lub nieskorzystaniu z pomocy finansowej na uzyskanie lokalu mieszkalnego albo domu oraz o wskazaniu sposobu rozliczenia zwrotu pomocy finansowej na uzyskanie lokalu mieszkalnego;
+- **15)** oświadczenie funkcjonariusza o nabyciu lub nienabyciu lokalu mieszkalnego od Skarbu Państwa lub jednostki samorządu terytorialnego, z bonifikatą lub pomniejszeniem w cenie nabycia, przydzielonego w trybie administracyjnym w związku z pełnioną służbą;
+- **16)** oświadczenie funkcjonariusza o otrzymaniu lub nieotrzymaniu lokalu mieszkalnego albo kwatery tymczasowej na podstawie przepisów obowiązujących przed dniem wejścia w życie ustawy z dnia 12 września 2025 r. o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby (Dz. U. poz. 1366);
+- **17)** klauzulę o treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”; klauzula ta zastępuje pouczenie przez organ o odpowiedzialności karnej za składanie fałszywych oświadczeń;
+- **18)** informację o sposobie wypłaty świadczenia mieszkaniowego, a w przypadku wyboru bezgotówkowej formy wypłaty numer rachunku bankowego lub innego rachunku płatniczego;
+- **19)** adres lokalu mieszkalnego albo kwatery tymczasowej, o które wnioskuje funkcjonariusz.
+
+9. Funkcjonariuszowi, o którym mowa w ust. 1, na jego wniosek, przysługuje prawo do zamiany lokalu mieszkalnego albo kwatery tymczasowej. Do wniosków o zamianę lokali mieszkalnych albo kwater tymczasowych przepis ust. 8 stosuje się odpowiednio; wniosek o zamianę zawiera także adres zajmowanego lokalu mieszkalnego albo zajmowanej kwatery tymczasowej.
+
+10. Zmiana formy zakwaterowania następuje na wniosek funkcjonariusza, o którym mowa w ust. 6. Podmiot, o którym mowa w art. 102a ust. 1, uchyla decyzję, na podstawie której orzeczono wcześniej o prawie do zakwaterowania.
+
+11. Prawo do form zakwaterowania, o których mowa w ust. 2 pkt 1 i 2, nie przysługuje, jeżeli:
+
+- **1)** funkcjonariusz lub jego małżonek jest właścicielem lub współwłaścicielem lokalu mieszkalnego albo domu w miejscowości, w której funkcjonariusz pełni służbę, albo w miejscowości, o której mowa w art. 107 ust. 1 pkt 1 albo 2;
+- **2)** małżonek funkcjonariusza będący:
+    - **a)** funkcjonariuszem Policji,
+    - **b)** funkcjonariuszem Państwowej Straży Pożarnej,
+    - **c)** funkcjonariuszem Straży Granicznej,
+    - **d)** funkcjonariuszem Służby Ochrony Państwa,
+    - **e)** funkcjonariuszem ABW,
+    - **f)** funkcjonariuszem AW,
+    - **g)** funkcjonariuszem Służby Wywiadu Wojskowego,
+    - **h)** funkcjonariuszem Służby Kontrwywiadu Wojskowego,
+    - **i)** żołnierzem Sił Zbrojnych Rzeczypospolitej Polskiej otrzymał przydział lokalu mieszkalnego albo kwatery tymczasowej na podstawie przepisów obowiązujących w tych służbach, jeżeli małżonkowie pełnią służbę w tej samej miejscowości albo w miejscowości, o której mowa w art. 107 ust. 1 pkt 1 albo 2.
+
+12. Rozstrzygnięcie o przyznaniu świadczenia mieszkaniowego przez podmiot, o którym mowa w art. 102a ust. 1, w całości uwzględniające wniosek funkcjonariusza, następuje w postępowaniu uproszczonym, o którym mowa w dziale II rozdziale 14 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769). Przepisów o milczącym załatwieniu sprawy nie stosuje się.
+
+13. Rozstrzygnięcie o przyznaniu miejsca w internacie albo kwatery internatowej następuje w drodze skierowania funkcjonariusza do miejsca w internacie albo kwatery internatowej przez podmiot, o którym mowa w art. 102a ust. 1.
+
+14. Rozstrzygnięcie o:
+
+- **1)** przydziale lokalu mieszkalnego albo kwatery tymczasowej,
+- **2)** zamianie lokali mieszkalnych albo kwater tymczasowych,
+- **3)** odmowie przyznania wybranej przez funkcjonariusza formy zakwaterowania następuje w drodze decyzji administracyjnej wydanej przez podmiot, o którym mowa w art. 102a ust. 1.
+
+15. W przypadku gdy oboje małżonkowie są funkcjonariuszami, każdy z małżonków wybiera formę zakwaterowania, z tym że:
+
+- **1)** jednemu z małżonków przysługuje przydział lokalu mieszkalnego albo kwatery tymczasowej, z uwzględnieniem dzieci, o których mowa w art. 103 pkt 2, a drugiemu małżonkowi przyznaje się świadczenie mieszkaniowe albo
+- **2)** każdemu z małżonków przyznaje się świadczenie mieszkaniowe.
+
+16. W przypadku podania przez funkcjonariusza nieprawdziwych danych we wnioskach, o których mowa w ust. 6 lub 9, lub w przypadku gdy świadczenie mieszkaniowe funkcjonariuszowi nie przysługiwało, podmiot, o którym mowa w art. 102a ust. 1, wydaje decyzję o uchyleniu decyzji przyznającej funkcjonariuszowi wybraną przez niego formę zakwaterowania, w której rozstrzyga także o cofnięciu świadczenia mieszkaniowego w całości oraz zobowiązuje funkcjonariusza do zwrotu świadczeń nienależnie pobranych.
+
+17. Funkcjonariusz jest obowiązany do powiadomienia podmiotu, o którym mowa w art. 102a ust. 1, o każdym zdarzeniu mającym wpływ na prawo do zakwaterowania.
+
+18. W przypadku przeniesienia funkcjonariusza do innej służby albo do służby w ramach zawodowej służby wojskowej albo zwolnienia go ze służby rozstrzygnięcia, o których mowa w ust. 12–14, wygasają z mocy prawa z dniem przeniesienia funkcjonariusza lub zwolnienia go ze służby.
+
+19. Prezes Rady Ministrów określi, w drodze rozporządzeń, odrębnie dla każdej Agencji, wzory wniosków, o których mowa w ust. 6 i 9, a także formę i sposób składania tych wniosków, uwzględniając przejrzystość przedstawianych informacji oraz efektywność prowadzonego postępowania w celu rozstrzygnięcia w sprawach wyboru formy zakwaterowania.”;
+
+- **3)** po art. 102 dodaje się art. 102a i art. 102b w brzmieniu: „Art. 102a. 1. Podmiotami właściwymi w sprawach zakwaterowania są:
+- **1)** Prezes Rady Ministrów w stosunku do Szefa ABW i Szefa AW;
+- **2)** Szef ABW w stosunku do zastępców Szefa ABW oraz funkcjonariuszy ABW;
+- **3)** Szef AW w stosunku do zastępców Szefa AW oraz funkcjonariuszy AW.
+
+2. W przypadku funkcjonariusza ABW zwolnionego ze służby, który nabył prawo do lokalu mieszkalnego albo kwatery tymczasowej na podstawie decyzji podmiotu wskazanego w ust. 1 pkt 1, właściwym w sprawie wydania decyzji o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej jest podmiot wskazany w ust. 1 pkt 2.
+
+3. W przypadku funkcjonariusza AW zwolnionego ze służby, który nabył prawo do lokalu mieszkalnego albo kwatery tymczasowej na podstawie decyzji podmiotu wskazanego w ust. 1 pkt 1, właściwym w sprawie wydania decyzji o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej jest podmiot wskazany w ust. 1 pkt 3.
+
 **Art. 102b.** Prawo do zakwaterowania nie przysługuje funkcjonariuszowi:
+
+- **1)** który nabył lokal mieszkalny od Skarbu Państwa lub jednostki samorządu terytorialnego, z bonifikatą lub pomniejszeniem w cenie nabycia, przydzielony w trybie administracyjnym w związku z pełnioną służbą;
+- **2)** od dnia przyjęcia do służby do dnia ukończenia szkolenia zawodowego.”;
+- **4)** art. 103 i art. 104 otrzymują brzmienie: „Art. 103. Członkami rodziny funkcjonariusza, których uwzględnia się przy przydziale lokalu mieszkalnego albo kwatery tymczasowej, są pozostający z funkcjonariuszem we wspólnym gospodarstwie domowym:
+- **1)** małżonek;
+- **2)** dzieci własne lub małżonka, przysposobione lub przyjęte na wychowanie w ramach rodziny zastępczej, pozostające na jego utrzymaniu, nie dłużej jednak niż do dnia zawarcia przez nie związku małżeńskiego, które:
+    - **a)** nie ukończyły 18. roku życia, a w przypadku uczęszczania do szkoły lub odbywania studiów w uczelni
+
+26. roku życia, albo
+
+- **b)** stały się całkowicie niezdolne do pracy lub niezdolne do samodzielnej egzystencji przed osiągnięciem wieku określonego w lit. a.
 
 **Art. 104.**
 
@@ -659,8 +1138,8 @@ source: "isap-pdf"
 
 - **1)** funkcjonariuszowi przysługuje norma powierzchni mieszkalnej, zwana dalej „normą zaludnienia”, która wynosi 10 m ;
 - **2)** funkcjonariuszowi:
-    - **a)** posiadającemu członków rodziny, o których mowa w art. 103, przysługuje po jednej normie zaludnienia dla funkcjonariusza i każdego członka jego rodziny, a w przypadku: – pełnienia służby na stanowisku służbowym: Szef ABW, Szef AW, zastępca Szefa ABW, zastępca Szefa AW, doradca Szefa ABW, doradca Szefa AW – dwie dodatkowe normy zaludnienia, albo – posiadania stopnia służbowego majora ABW, majora AW, podpułkownika ABW, podpułkownika AW, pułkownika ABW lub pułkownika AW lub zajmującego stanowisko służbowe z takim stopniem służbowym jako stopniem etatowym – jedna dodatkowa norma zaludnienia,
-    - **b)** nieposiadającemu członków rodziny, o których mowa w art. 103, przysługują dwie normy zaludnienia, a w przypadku pełnienia służby na stanowisku służbowym: Szef ABW, Szef AW, zastępca Szefa ABW, zastępca Szefa AW, doradca Szefa ABW, doradca Szefa AW – jedna dodatkowa norma zaludnienia,
+    - **a)** posiadającemu członków rodziny, o których mowa w art. 103, przysługuje po jednej normie zaludnienia dla funkcjonariusza i każdego członka jego rodziny, a w przypadku: pełnienia służby na stanowisku służbowym: Szef ABW, Szef AW, zastępca Szefa ABW, zastępca Szefa AW, doradca Szefa ABW, doradca Szefa AW dwie dodatkowe normy zaludnienia, albo posiadania stopnia służbowego majora ABW, majora AW, podpułkownika ABW, podpułkownika AW, pułkownika ABW lub pułkownika AW lub zajmującego stanowisko służbowe z takim stopniem służbowym jako stopniem etatowym jedna dodatkowa norma zaludnienia,
+    - **b)** nieposiadającemu członków rodziny, o których mowa w art. 103, przysługują dwie normy zaludnienia, a w przypadku pełnienia służby na stanowisku służbowym: Szef ABW, Szef AW, zastępca Szefa ABW, zastępca Szefa AW, doradca Szefa ABW, doradca Szefa AW jedna dodatkowa norma zaludnienia,
     - **c)** pozostającemu w związku małżeńskim, który nie posiada dzieci, o których mowa w art. 103 pkt 2, przysługuje jedna dodatkowa norma zaludnienia;
 
 - **3)** w przypadku prowadzenia przez funkcjonariusza jednoosobowego gospodarstwa domowego norma zaludnienia wynosi nie mniej niż 20 m .
@@ -673,9 +1152,9 @@ source: "isap-pdf"
 
 - **5)** uchyla się art. 105 i art. 106;
 - **6)** art. 107 otrzymuje brzmienie: „Art. 107. 1. Funkcjonariuszowi, z wyłączeniem funkcjonariusza, któremu wysokość świadczenia mieszkaniowego ustala się w sposób, o którym mowa w art. 108b ust. 1 pkt 2, zamieszkującemu w miejscowości innej niż miejscowość, w której pełni służbę, od której granic administracyjnych najkrótsza odległość drogą publiczną do granic administracyjnych miejscowości, w której pełni służbę, wynosi:
-- **1)** do 30 km – wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, w wysokości 140 zł miesięcznie;
-- **2)** powyżej 30 km do 50 km – wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, w wysokości 180 zł miesięcznie;
-- **3)** powyżej 50 km – wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, w wysokości 220 zł miesięcznie.
+- **1)** do 30 km wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, w wysokości 140 zł miesięcznie;
+- **2)** powyżej 30 km do 50 km wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, w wysokości 180 zł miesięcznie;
+- **3)** powyżej 50 km wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, w wysokości 220 zł miesięcznie.
 
 2. Funkcjonariusz, o którym mowa w ust. 1, składa wniosek o wypłatę zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której pełni służbę, do Szefa właściwej Agencji zawierający:
 
@@ -686,7 +1165,7 @@ source: "isap-pdf"
 - **5)** numer telefonu kontaktowego;
 - **6)** odległość w kilometrach wynikającą z ust. 1;
 - **7)** klauzulę o treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”; klauzula ta zastępuje pouczenie przez organ o odpowiedzialności karnej za składanie fałszywych oświadczeń;
-- **8)** informację o sposobie wypłaty, a w przypadku wyboru bezgotówkowej formy wypłaty – numer rachunku bankowego lub innego rachunku płatniczego.
+- **8)** informację o sposobie wypłaty, a w przypadku wyboru bezgotówkowej formy wypłaty numer rachunku bankowego lub innego rachunku płatniczego.
 
 3. Wniosek, o którym mowa w ust. 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
@@ -700,7 +1179,7 @@ source: "isap-pdf"
 
 8. Funkcjonariusz, o którym mowa w ust. 1, informuje niezwłocznie, jednakże nie później niż w terminie 30 dni, licząc od dnia powstania zmiany, Szefa właściwej Agencji o każdym zdarzeniu mającym wpływ na uprawnienia do otrzymywania zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której pełni służbę.
 
-9. Zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, nie wypłaca się za okresy, o których mowa w art. 125a ust. 10 – proporcjonalnie do tych okresów, przyjmując, że za każdy dzień wykonywania czynności służbowych ustala się 1/21 części miesięcznego zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której pełni służbę.
+9. Zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, nie wypłaca się za okresy, o których mowa w art. 125a ust. 10 proporcjonalnie do tych okresów, przyjmując, że za każdy dzień wykonywania czynności służbowych ustala się 1/21 części miesięcznego zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której pełni służbę.
 
 10. Zryczałtowany zwrot kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, nie przysługuje, jeżeli funkcjonariusz korzysta z prawa do zakwaterowania w formach, o których mowa w art. 102 ust. 2 pkt 1–3, w miejscowości, w której pełni służbę.
 
@@ -720,11 +1199,11 @@ source: "isap-pdf"
 
 5. Funkcjonariusz może wprowadzać w zajmowanym lokalu mieszkalnym albo w kwaterze tymczasowej ulepszenia tylko za zgodą dysponenta i na podstawie pisemnej zgody właściciela określającej sposób rozliczeń z tego tytułu.
 
-6. Opłaty za używanie lokalu mieszkalnego albo kwatery tymczasowej wchodzących w skład mieszkaniowego zasobu gminy przyjmuje się według opłat obowiązujących dla danego lokalu albo kwatery, a w przypadku lokalu mieszkalnego albo kwatery tymczasowej, będących w zasobie innego podmiotu, w tym w zarządzie ABW lub AW – według opłat obowiązujących dla lokali mieszkalnych albo kwater tymczasowych wchodzących w skład zasobu mieszkaniowego tego podmiotu.
+6. Opłaty za używanie lokalu mieszkalnego albo kwatery tymczasowej wchodzących w skład mieszkaniowego zasobu gminy przyjmuje się według opłat obowiązujących dla danego lokalu albo kwatery, a w przypadku lokalu mieszkalnego albo kwatery tymczasowej, będących w zasobie innego podmiotu, w tym w zarządzie ABW lub AW według opłat obowiązujących dla lokali mieszkalnych albo kwater tymczasowych wchodzących w skład zasobu mieszkaniowego tego podmiotu.
 
 7. Prawo do dysponowania lokalem mieszkalnym albo kwaterą tymczasową ulega rozwiązaniu z chwilą uprawomocnienia się decyzji o opróżnieniu przydzielonego lokalu mieszkalnego albo przydzielonej kwatery tymczasowej albo wygaśnięcia decyzji o ich przydziale.
 
-8. W sprawach wynikających ze wzajemnych praw i obowiązków funkcjonariusza oraz dysponenta oraz w innych przypadkach nieuregulowanych w niniejszej ustawie do dysponowania lokalem mieszkalnym albo kwaterą tymczasową mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071 i 1172) oraz ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz. 725).
+8. W sprawach wynikających ze wzajemnych praw i obowiązków funkcjonariusza oraz dysponenta oraz w innych przypadkach nieuregulowanych w niniejszej ustawie do dysponowania lokalem mieszkalnym albo kwaterą tymczasową mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2025 r. poz. 1071 i 1172) oraz ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz. 725).
 
 9. Sprawy sporne dotyczące lokali mieszkalnych oraz kwater tymczasowych rozstrzygają sądy powszechne.
 
@@ -742,7 +1221,7 @@ source: "isap-pdf"
 4. Funkcjonariuszowi, który otrzymał pomoc finansową na uzyskanie lokalu mieszkalnego albo domu, odprawę mieszkaniową lub ekwiwalent pieniężny w zamian za rezygnację z lokalu mieszkalnego z jednostek budżetowych, w tym w innych służbach, na podstawie przepisów obowiązujących przed dniem wejścia w życie ustawy z dnia 12 września 2025 r. o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby, wypłaca się przyznane świadczenie mieszkaniowe:
 
 - **1)** pomniejszone o kwotę stanowiącą maksymalnie 1/60 z 50 % przyznanej decyzją administracyjną pomocy finansowej na uzyskanie lokalu mieszkalnego albo domu, odprawy mieszkaniowej lub ekwiwalentu pieniężnego w zamian za rezygnację z lokalu za każdy miesiąc wypłaty świadczenia mieszkaniowego przez kolejne 60 miesięcy lub do wysokości 50 % przyznanej pomocy finansowej, z możliwością jednorazowej wcześniejszej spłaty, albo
-- **2)** w pełnej kwocie – w przypadku zwrotu przez funkcjonariusza 50 % przyznanej decyzją administracyjną pomocy finansowej na uzyskanie lokalu mieszkalnego albo domu, odprawy mieszkaniowej lub ekwiwalentu pieniężnego w zamian za rezygnację z lokalu, w terminie 30 dni od dnia otrzymania rozstrzygnięcia, o którym mowa w art. 102 ust. 12.
+- **2)** w pełnej kwocie w przypadku zwrotu przez funkcjonariusza 50 % przyznanej decyzją administracyjną pomocy finansowej na uzyskanie lokalu mieszkalnego albo domu, odprawy mieszkaniowej lub ekwiwalentu pieniężnego w zamian za rezygnację z lokalu, w terminie 30 dni od dnia otrzymania rozstrzygnięcia, o którym mowa w art. 102 ust. 12.
 
 5. Sposób rozliczenia zwrotu pomocy finansowej na uzyskanie lokalu mieszkalnego albo domu, odprawy mieszkaniowej lub ekwiwalentu pieniężnego w zamian za rezygnację z lokalu wskazuje funkcjonariusz we wniosku, o którym mowa w art. 102 ust. 6.
 
@@ -766,8 +1245,8 @@ source: "isap-pdf"
 
 1. Funkcjonariuszowi, któremu wysokość świadczenia mieszkaniowego ustala się w sposób, o którym mowa w art. 108b ust. 1 pkt 2, oraz:
 
-- **1)** oddelegowanemu do pełnienia służby poza Agencją na podstawie art. 56 ust. 2 – świadczenie mieszkaniowe przyznaje się w wysokości określonej dla miejscowości oddelegowania właściwej ze względu na miejsce wykonywania zadań służbowych poza ABW lub AW lub pełnienia obowiązków poza ABW lub AW;
-- **2)** przeniesionemu do dyspozycji przełożonego właściwego w sprawach osobowych oraz oddelegowanemu do czasowego pełnienia służby poza granicami państwa – świadczenie mieszkaniowe przyznaje się w wysokości określonej dla miejscowości, w której pełnił służbę na jeden dzień przed oddelegowaniem.
+- **1)** oddelegowanemu do pełnienia służby poza Agencją na podstawie art. 56 ust. 2 świadczenie mieszkaniowe przyznaje się w wysokości określonej dla miejscowości oddelegowania właściwej ze względu na miejsce wykonywania zadań służbowych poza ABW lub AW lub pełnienia obowiązków poza ABW lub AW;
+- **2)** przeniesionemu do dyspozycji przełożonego właściwego w sprawach osobowych oraz oddelegowanemu do czasowego pełnienia służby poza granicami państwa świadczenie mieszkaniowe przyznaje się w wysokości określonej dla miejscowości, w której pełnił służbę na jeden dzień przed oddelegowaniem.
 
 2. Funkcjonariuszowi, któremu wysokość świadczenia mieszkaniowego ustala się w sposób, o którym mowa w art. 108b ust. 1 pkt 2, świadczenie mieszkaniowe przysługuje od dnia złożenia wniosku do dnia zakończenia pełnienia służby w danej miejscowości, określonej w rozkazie personalnym wydanym przez Szefa ABW albo Szefa AW i jest wypłacane za miesiąc kalendarzowy w terminie do końca każdego miesiąca następującego po miesiącu, w którym nastąpiło rozstrzygnięcie, o którym mowa w art. 102 ust. 12.
 
@@ -787,7 +1266,7 @@ source: "isap-pdf"
 - **9)** on i jego małżonek posiadają przydzielony inny lokal mieszkalny albo przydzieloną inną kwaterę tymczasową; w takim przypadku osobom tym przysługuje prawo wyboru jednego z zajmowanych lokali;
 - **10)** po zwolnieniu ze służby on lub pozostali po nim członkowie rodziny zajmują lokal mieszkalny albo kwaterę tymczasową położone w budynku przeznaczonym na cele służbowe, a osobom tym przydzielono lokal w tej samej lub innej miejscowości, o powierzchni odpowiadającej przysługującym normom;
 - **11)** on lub członkowie jego rodziny albo inne osoby zajmują lokal mieszkalny albo kwaterę tymczasową bez tytułu prawnego;
-- **12)** został skazany prawomocnym wyrokiem sądu za przestępstwo umyślne lub przestępstwo skarbowe umyślne, ścigane z oskarżenia publicznego, popełnione w związku z wykonywaniem czynności służbowych i w celu osiągnięcia korzyści majątkowej lub osobistej, albo za przestępstwo określone w art. 258 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny lub orzeczono wobec niego prawomocnie środek karny pozbawienia praw publicznych za przestępstwo lub przestępstwo skarbowe.
+- **12)** został skazany prawomocnym wyrokiem sądu za przestępstwo umyślne lub przestępstwo skarbowe umyślne, ścigane z oskarżenia publicznego, popełnione w związku z wykonywaniem czynności służbowych i w celu osiągnięcia korzyści majątkowej lub osobistej, albo za przestępstwo określone w art. 258 ustawy z dnia 6 czerwca 1997 r. Kodeks karny lub orzeczono wobec niego prawomocnie środek karny pozbawienia praw publicznych za przestępstwo lub przestępstwo skarbowe.
 
 2. Decyzję o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej wydaje się w stosunku do wszystkich osób zamieszkałych w tym lokalu albo tej kwaterze.
 
@@ -802,7 +1281,7 @@ source: "isap-pdf"
 - **3)** osobę niepełnosprawną, o której mowa w art. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz. 913 i 1301), lub ubezwłasnowolnioną oraz osobę sprawującą nad taką osobą opiekę i wspólnie z nią zamieszkałą,
 - **4)** obłożnie chorego, który dysponuje dokumentem urzędowym lub zaświadczeniem lekarskim stwierdzającym stan zdrowia, w którym chory bez narażenia życia lub zdrowia nie może prowadzić normalnej egzystencji, wydanym nie wcześniej niż miesiąc przed dniem wszczęcia postępowania o opróżnienie lokalu mieszkalnego albo kwatery tymczasowej,
 - **5)** emeryta lub rencistę spełniającego kryteria otrzymania świadczenia z pomocy społecznej,
-- **6)** osobę posiadającą status bezrobotnego spełniającą kryteria otrzymania świadczenia z pomocy społecznej – wraz z osobami wspólnie zamieszkującymi, nie wydaje się decyzji o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej, chyba że mogą zamieszkać w innym lokalu mieszkalnym albo w domu, a w przypadku, w którym jedną z osób, wobec których wydaje się decyzję o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej, jest funkcjonariusz, mogą zamieszkać w miejscowości, w której pełni on służbę, albo w miejscowości, o której mowa w art. 107 ust. 1 pkt 1 albo 2, w innym lokalu mieszkalnym albo w domu.
+- **6)** osobę posiadającą status bezrobotnego spełniającą kryteria otrzymania świadczenia z pomocy społecznej wraz z osobami wspólnie zamieszkującymi, nie wydaje się decyzji o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej, chyba że mogą zamieszkać w innym lokalu mieszkalnym albo w domu, a w przypadku, w którym jedną z osób, wobec których wydaje się decyzję o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej, jest funkcjonariusz, mogą zamieszkać w miejscowości, w której pełni on służbę, albo w miejscowości, o której mowa w art. 107 ust. 1 pkt 1 albo 2, w innym lokalu mieszkalnym albo w domu.
 
 6. W przypadku, o którym mowa w ust. 5, organ właściwy do wydania decyzji o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej kieruje do sądu powszechnego pozew o opróżnienie lokalu mieszkalnego albo kwatery tymczasowej. Przepisy art. 14 ust. 1–5 i 6a, art. 15, art. 17 i art. 18 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego stosuje się odpowiednio.
 
@@ -821,7 +1300,107 @@ source: "isap-pdf"
 
 **Art. 8.** W ustawie z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2025 r. poz. 694 i 718) wprowadza się następujące zmiany:
 
+- **1)** tytuł rozdziału 4 otrzymuje brzmienie: „Zakwaterowanie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego”;
+- **2)** art. 62 otrzymuje brzmienie: „Art. 62. 1. Funkcjonariuszowi mianowanemu na okres służby przygotowawczej lub na stałe, od dnia przyjęcia do służby w SKW lub SWW, do dnia zwolnienia ze służby odpowiednio w SKW lub SWW, na jego wniosek, przysługuje prawo do zakwaterowania w miejscowości, w której pełni służbę.
+
+2. Prawo do zakwaterowania jest realizowane w następujących formach:
+
+- **1)** przydział lokalu mieszkalnego;
+- **2)** przydział kwatery tymczasowej;
+- **3)** skierowanie do miejsca w internacie albo kwatery internatowej;
+- **4)** przyznanie świadczenia mieszkaniowego.
+
+3. Na wniosek funkcjonariusza, o którym mowa w ust. 1, prawo do zakwaterowania, o którym mowa w ust. 2 pkt 1–3, może być realizowane w miejscowości innej niż miejscowość, w której pełni służbę, zgodnie z wykazem, o którym mowa w ust. 4.
+
+4. Szef SKW oraz Szef SWW, każdy w zakresie swojego działania, prowadzą wykaz dostępnych form zakwaterowania w jednostce organizacyjnej SKW albo SWW. Wykaz jest udostępniany do wiadomości funkcjonariuszy właściwej służby w sposób przyjęty przez dany podmiot.
+
+5. Wyboru formy zakwaterowania funkcjonariusz, o którym mowa w ust. 1, dokonuje na podstawie wykazu, o którym mowa w ust. 4, składając wniosek do Szefa właściwej służby. W przypadku braku możliwości przyznania prawa do zakwaterowania w formie, o której mowa w ust. 2 pkt 1 albo 2, funkcjonariuszowi przyznaje się prawo do zakwaterowania w formie, o której mowa w ust. 2 pkt 4.
+
+6. Wnioski, o których mowa w ust. 5 i 8, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+7. Wniosek, o którym mowa w ust. 5, zawiera:
+
+- **1)** imię (imiona) i nazwisko funkcjonariusza;
+- **2)** stopień służbowy funkcjonariusza;
+- **3)** stanowisko służbowe funkcjonariusza;
+- **4)** numer telefonu kontaktowego;
+- **5)** adres zamieszkania funkcjonariusza;
+- **6)** wskazanie tytułu prawnego do lokalu, który funkcjonariusz zajmuje;
+- **7)** datę przyjęcia funkcjonariusza do służby;
+- **8)** datę ukończenia przez funkcjonariusza szkolenia zawodowego;
+- **9)** miejscowość, w której funkcjonariusz pełni służbę;
+- **10)** imię i nazwisko, stopień pokrewieństwa, datę urodzenia, adres zamieszkania członków rodziny funkcjonariusza, o których mowa w art. 63, oraz informacje o członkach rodziny, o których mowa w art. 63 pkt 2;
+- **11)** oświadczenie funkcjonariusza, czy on lub jego małżonek są właścicielami lub współwłaścicielami lokalu mieszkalnego, o którym mowa w ust. 10 pkt 1;
+- **12)** oświadczenie funkcjonariusza w sprawie wyboru formy zakwaterowania;
+- **13)** oświadczenie funkcjonariusza o skorzystaniu lub nieskorzystaniu z pomocy finansowej na uzyskanie lokalu mieszkalnego albo domu oraz o wskazaniu sposobu rozliczenia zwrotu pomocy finansowej na uzyskanie lokalu mieszkalnego;
+- **14)** oświadczenie funkcjonariusza o nabyciu lub nienabyciu lokalu mieszkalnego od Skarbu Państwa lub jednostki samorządu terytorialnego, z bonifikatą lub pomniejszeniem w cenie nabycia, przydzielonego w trybie administracyjnym w związku z pełnioną służbą;
+- **15)** oświadczenie funkcjonariusza o otrzymaniu lub nieotrzymaniu lokalu mieszkalnego albo kwatery tymczasowej na podstawie przepisów obowiązujących przed dniem wejścia w życie ustawy z dnia 12 września 2025 r. o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby (Dz. U. poz. 1366);
+- **16)** klauzulę o treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”; klauzula ta zastępuje pouczenie przez organ o odpowiedzialności karnej za składanie fałszywych oświadczeń;
+- **17)** informację o sposobie wypłaty świadczenia mieszkaniowego, a w przypadku wyboru bezgotówkowej formy wypłaty numer rachunku bankowego lub innego rachunku płatniczego;
+- **18)** adres lokalu mieszkalnego albo kwatery tymczasowej, o które wnioskuje funkcjonariusz.
+
+8. Funkcjonariuszowi, o którym mowa w ust. 1, na jego wniosek, przysługuje prawo do zamiany lokalu mieszkalnego albo kwatery tymczasowej. Do wniosków o zamianę lokali mieszkalnych albo kwater tymczasowych przepis ust. 7 stosuje się odpowiednio; wniosek o zamianę zawiera także adres zajmowanego lokalu mieszkalnego albo zajmowanej kwatery tymczasowej.
+
+9. Zmiana formy zakwaterowania następuje na wniosek funkcjonariusza, o którym mowa w ust. 5. Szef SKW albo Szef SWW, zgodnie z właściwością, uchyla decyzję, na podstawie której orzeczono wcześniej o prawie do zakwaterowania.
+
+10. Prawo do form zakwaterowania, o których mowa w ust. 2 pkt 1 i 2, nie przysługuje, jeżeli:
+
+- **1)** funkcjonariusz lub jego małżonek jest właścicielem lub współwłaścicielem lokalu mieszkalnego albo domu w miejscowości, w której funkcjonariusz pełni służbę, albo w miejscowości, o której mowa w art. 67 ust. 1 pkt 1 albo 2;
+- **2)** małżonek funkcjonariusza będący:
+    - **a)** funkcjonariuszem Policji,
+    - **b)** funkcjonariuszem Państwowej Straży Pożarnej,
+    - **c)** funkcjonariuszem Straży Granicznej,
+    - **d)** funkcjonariuszem Służby Ochrony Państwa,
+    - **e)** funkcjonariuszem Agencji Bezpieczeństwa Wewnętrznego,
+    - **f)** funkcjonariuszem Agencji Wywiadu,
+    - **g)** funkcjonariuszem SWW,
+    - **h)** funkcjonariuszem SKW,
+    - **i)** żołnierzem Sił Zbrojnych Rzeczypospolitej Polskiej otrzymał przydział lokalu mieszkalnego albo kwatery tymczasowej na podstawie przepisów obowiązujących w tych służbach, jeżeli małżonkowie pełnią służbę w tej samej miejscowości albo w miejscowości, o której mowa w art. 67 ust. 1 pkt 1 albo 2.
+
+11. Rozstrzygnięcie o przyznaniu świadczenia mieszkaniowego odpowiednio przez Szefa SKW albo Szefa SWW, w całości uwzględniające wniosek funkcjonariusza, następuje w postępowaniu uproszczonym, o którym mowa w dziale II rozdziale 14 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769). Przepisów o milczącym załatwieniu sprawy nie stosuje się.
+
+12. Rozstrzygnięcie o przyznaniu miejsca w internacie albo kwatery internatowej następuje w drodze skierowania funkcjonariusza do miejsca w internacie albo kwatery internatowej odpowiednio przez Szefa SKW albo Szefa SWW.
+
+13. Rozstrzygnięcie o:
+
+- **1)** przydziale lokalu mieszkalnego albo kwatery tymczasowej,
+- **2)** zamianie lokali mieszkalnych albo kwater tymczasowych,
+- **3)** odmowie przyznania wybranej przez funkcjonariusza formy zakwaterowania następuje w drodze decyzji administracyjnej wydanej odpowiednio przez Szefa SKW albo Szefa SWW.
+
+14. W przypadku gdy oboje małżonkowie są funkcjonariuszami, każdy z małżonków wybiera formę zakwaterowania, z tym że:
+
+- **1)** jednemu z małżonków przysługuje przydział lokalu mieszkalnego albo kwatery tymczasowej, z uwzględnieniem dzieci, o których mowa w art. 63 pkt 2, a drugiemu małżonkowi przyznaje się świadczenie mieszkaniowe albo
+- **2)** każdemu z małżonków przyznaje się świadczenie mieszkaniowe.
+
+15. W przypadku podania przez funkcjonariusza nieprawdziwych danych we wnioskach, o których mowa w ust. 5 lub 8, lub w przypadku gdy świadczenie mieszkaniowe funkcjonariuszowi nie przysługiwało, Szef właściwej służby wydaje decyzję o uchyleniu decyzji przyznającej funkcjonariuszowi wybraną przez niego formę zakwaterowania, w której rozstrzyga także o cofnięciu i zwrocie wypłaconego świadczenia mieszkaniowego w całości.
+
+16. Funkcjonariusz jest obowiązany do powiadomienia Szefa SKW albo Szefa SWW o każdym zdarzeniu mającym wpływ na prawo do zakwaterowania.
+
+17. W przypadku przeniesienia funkcjonariusza do innej służby albo do służby w ramach zawodowej służby wojskowej albo zwolnienia go ze służby rozstrzygnięcia, o których mowa w ust. 11–13, wygasają z mocy prawa z dniem przeniesienia funkcjonariusza albo zwolnienia go ze służby.
+
+18. Minister Obrony Narodowej określi, w drodze rozporządzeń, odrębnie dla SKW i SWW, wzory wniosków, o których mowa w ust. 5 i 8, a także formę i sposób składania tych wniosków, uwzględniając przejrzystość przedstawianych informacji oraz efektywność prowadzonego postępowania w celu rozstrzygnięcia w sprawach wyboru formy zakwaterowania.”;
+
+- **3)** po art. 62 dodaje się art. 62a i art. 62b w brzmieniu: „Art. 62a. 1. Podmiotami właściwymi w sprawach zakwaterowania są:
+- **1)** Minister Obrony Narodowej w stosunku do Szefa SKW i Szefa SWW;
+- **2)** Szef SKW w stosunku do funkcjonariuszy SKW;
+- **3)** Szef SWW w stosunku do funkcjonariuszy SWW.
+
+2. W przypadku funkcjonariusza SKW zwolnionego ze służby, który nabył prawo do lokalu mieszkalnego albo kwatery tymczasowej na podstawie decyzji podmiotu, o którym mowa w ust. 1 pkt 1, właściwym w sprawie wydania decyzji o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej jest podmiot, o którym mowa w ust. 1 pkt 2.
+
+3. W przypadku funkcjonariusza SWW zwolnionego ze służby, który nabył prawo do lokalu mieszkalnego albo kwatery tymczasowej na podstawie decyzji podmiotu, o którym mowa w ust. 1 pkt 1, właściwym w sprawie wydania decyzji o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej jest podmiot, o którym mowa w ust. 1 pkt 3.
+
 **Art. 62b.** Prawo do zakwaterowania nie przysługuje funkcjonariuszowi:
+
+- **1)** który nabył lokal mieszkalny od Skarbu Państwa lub jednostki samorządu terytorialnego, z bonifikatą lub pomniejszeniem w cenie nabycia, przydzielony w trybie administracyjnym w związku z pełnioną służbą;
+- **2)** od dnia przyjęcia do służby do dnia ukończenia szkolenia zawodowego.”;
+- **4)** art. 63 i art. 64 otrzymują brzmienie: „Art. 63. Członkami rodziny funkcjonariusza, których uwzględnia się przy przydziale lokalu mieszkalnego albo kwatery tymczasowej, są pozostający z funkcjonariuszem we wspólnym gospodarstwie domowym:
+- **1)** małżonek;
+- **2)** dzieci własne lub małżonka, przysposobione lub przyjęte na wychowanie w ramach rodziny zastępczej, pozostające na jego utrzymaniu, nie dłużej jednak niż do dnia zawarcia przez nie związku małżeńskiego, które:
+    - **a)** nie ukończyły 18. roku życia, a w przypadku uczęszczania do szkoły lub odbywania studiów w uczelni
+
+26. roku życia, albo
+
+- **b)** stały się całkowicie niezdolne do pracy lub niezdolne do samodzielnej egzystencji przed osiągnięciem wieku określonego w lit. a.
 
 **Art. 64.**
 
@@ -838,10 +1417,10 @@ source: "isap-pdf"
 - **1)** funkcjonariuszowi przysługuje norma powierzchni mieszkalnej, zwana dalej „normą zaludnienia”, która wynosi 10 m ;
 - **2)** funkcjonariuszowi posiadającemu członków rodziny, o których mowa w art. 63, przysługuje po jednej normie zaludnienia dla funkcjonariusza i każdego członka jego rodziny;
 - **3)** dodatkowo, oprócz norm zaludnienia określonych w pkt 2, funkcjonariuszowi posiadającemu członków rodziny, o których mowa w art. 63:
-    - **a)** na stanowisku służbowym: Szef SKW, Szef SWW, zastępca Szefa SKW, zastępca Szefa SWW, doradca Szefa SKW, doradca Szefa SWW – przysługują dwie normy zaludnienia, albo
-    - **b)** posiadającemu stopień służbowy majora, podpułkownika albo pułkownika lub zajmującemu stanowisko służbowe z takim stopniem służbowym jako stopniem etatowym – przysługuje jedna norma zaludnienia;
+    - **a)** na stanowisku służbowym: Szef SKW, Szef SWW, zastępca Szefa SKW, zastępca Szefa SWW, doradca Szefa SKW, doradca Szefa SWW przysługują dwie normy zaludnienia, albo
+    - **b)** posiadającemu stopień służbowy majora, podpułkownika albo pułkownika lub zajmującemu stanowisko służbowe z takim stopniem służbowym jako stopniem etatowym przysługuje jedna norma zaludnienia;
 
-- **4)** funkcjonariuszowi nieposiadającemu członków rodziny, o których mowa w art. 63, przysługują dwie normy zaludnienia oraz dodatkowo w przypadku pełnienia służby na stanowisku służbowym: Szef SKW, Szef SWW, zastępca Szefa SKW, zastępca Szefa SWW, doradca Szefa SKW, doradca Szefa SWW – jedna norma zaludnienia;
+- **4)** funkcjonariuszowi nieposiadającemu członków rodziny, o których mowa w art. 63, przysługują dwie normy zaludnienia oraz dodatkowo w przypadku pełnienia służby na stanowisku służbowym: Szef SKW, Szef SWW, zastępca Szefa SKW, zastępca Szefa SWW, doradca Szefa SKW, doradca Szefa SWW jedna norma zaludnienia;
 - **5)** funkcjonariuszowi pozostającemu w związku małżeńskim, który nie posiada dzieci, o których mowa w art. 63 pkt 2, przysługuje dodatkowo jedna norma zaludnienia;
 - **6)** w przypadku prowadzenia przez funkcjonariusza jednoosobowego gospodarstwa domowego norma zaludnienia wynosi nie mniej niż 20 m .
 
@@ -853,9 +1432,9 @@ source: "isap-pdf"
 
 - **5)** uchyla się art. 65 i art. 66;
 - **6)** art. 67 otrzymuje brzmienie: „Art. 67. 1. Funkcjonariuszowi, który zamieszkuje w miejscowości innej niż miejscowość, w której pełni służbę, od której granic administracyjnych najkrótsza odległość drogą publiczną do granic administracyjnych miejscowości, w której pełni służbę, wynosi:
-- **1)** do 30 km – wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, w wysokości 140 zł miesięcznie;
-- **2)** powyżej 30 km do 50 km – wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, w wysokości 180 zł miesięcznie;
-- **3)** powyżej 50 km – wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, w wysokości 220 zł miesięcznie.
+- **1)** do 30 km wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, w wysokości 140 zł miesięcznie;
+- **2)** powyżej 30 km do 50 km wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, w wysokości 180 zł miesięcznie;
+- **3)** powyżej 50 km wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, w wysokości 220 zł miesięcznie.
 
 2. Funkcjonariusz, o którym mowa w ust. 1, składa wniosek o wypłatę zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której pełni służbę, do odpowiednio Szefa SKW albo Szefa SWW zawierający:
 
@@ -866,7 +1445,7 @@ source: "isap-pdf"
 - **5)** numer telefonu kontaktowego;
 - **6)** odległość w kilometrach wynikającą z ust. 1;
 - **7)** klauzulę o treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”; klauzula ta zastępuje pouczenie przez organ o odpowiedzialności karnej za składanie fałszywych oświadczeń;
-- **8)** informację o sposobie wypłaty, a w przypadku wyboru bezgotówkowej formy wypłaty – numer rachunku bankowego lub innego rachunku płatniczego.
+- **8)** informację o sposobie wypłaty, a w przypadku wyboru bezgotówkowej formy wypłaty numer rachunku bankowego lub innego rachunku płatniczego.
 
 3. Wniosek, o którym mowa w ust. 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
@@ -880,7 +1459,7 @@ source: "isap-pdf"
 
 8. Funkcjonariusz, o którym mowa w ust. 1, informuje niezwłocznie, jednak nie później niż w terminie 30 dni, licząc od dnia powstania zmiany, odpowiednio Szefa SKW albo Szefa SWW o każdym zdarzeniu mającym wpływ na uprawnienia do otrzymywania zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której pełni służbę.
 
-9. Zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, nie wypłaca się za okresy, o których mowa w art. 83b ust. 9 – proporcjonalnie do tych okresów, przyjmując, że za każdy dzień wykonywania czynności służbowych ustala się 1/21 części miesięcznego zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której pełni służbę.
+9. Zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, nie wypłaca się za okresy, o których mowa w art. 83b ust. 9 proporcjonalnie do tych okresów, przyjmując, że za każdy dzień wykonywania czynności służbowych ustala się 1/21 części miesięcznego zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której pełni służbę.
 
 10. Zryczałtowany zwrot kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, nie przysługuje, jeżeli funkcjonariusz korzysta z prawa do zakwaterowania w formach, o których mowa w art. 62 ust. 2 pkt 1–3, w miejscowości, w której pełni służbę.
 
@@ -900,11 +1479,11 @@ source: "isap-pdf"
 
 5. Funkcjonariusz może wprowadzać w zajmowanym lokalu mieszkalnym albo w kwaterze tymczasowej ulepszenia tylko za zgodą dysponenta i na podstawie pisemnej zgody właściciela określającej sposób rozliczeń z tego tytułu.
 
-6. Opłaty za używanie lokalu mieszkalnego albo kwatery tymczasowej wchodzących w skład mieszkaniowego zasobu gminy przyjmuje się według opłat obowiązujących dla danego lokalu albo kwatery, a w przypadku lokalu mieszkalnego albo kwatery tymczasowej będących w zasobie innego podmiotu, w tym w zarządzie SKW albo SWW – według opłat obowiązujących dla lokali mieszkalnych albo kwater tymczasowych wchodzących w skład zasobu mieszkaniowego tego podmiotu.
+6. Opłaty za używanie lokalu mieszkalnego albo kwatery tymczasowej wchodzących w skład mieszkaniowego zasobu gminy przyjmuje się według opłat obowiązujących dla danego lokalu albo kwatery, a w przypadku lokalu mieszkalnego albo kwatery tymczasowej będących w zasobie innego podmiotu, w tym w zarządzie SKW albo SWW według opłat obowiązujących dla lokali mieszkalnych albo kwater tymczasowych wchodzących w skład zasobu mieszkaniowego tego podmiotu.
 
 7. Prawo do dysponowania lokalem mieszkalnym albo kwaterą tymczasową, o których mowa w ust. 1, ulega rozwiązaniu z chwilą uprawomocnienia się decyzji o opróżnieniu przydzielonego lokalu mieszkalnego albo kwatery tymczasowej albo wygaśnięcia decyzji o ich przydziale.
 
-8. W sprawach wynikających ze wzajemnych praw i obowiązków funkcjonariusza oraz dysponenta oraz w innych przypadkach nieuregulowanych w niniejszej ustawie do dysponowania lokalami mieszkalnymi albo kwaterami tymczasowymi mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071 i 1172) oraz ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz. 725).
+8. W sprawach wynikających ze wzajemnych praw i obowiązków funkcjonariusza oraz dysponenta oraz w innych przypadkach nieuregulowanych w niniejszej ustawie do dysponowania lokalami mieszkalnymi albo kwaterami tymczasowymi mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2025 r. poz. 1071 i 1172) oraz ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz. 725).
 
 9. Sprawy sporne dotyczące lokali mieszkalnych oraz kwater tymczasowych rozstrzygają sądy powszechne.
 
@@ -915,7 +1494,7 @@ source: "isap-pdf"
 2. Funkcjonariuszowi, który otrzymał pomoc finansową na uzyskanie lokalu mieszkalnego albo domu, odprawę mieszkaniową lub ekwiwalent pieniężny w zamian za rezygnację z lokalu mieszkalnego z jednostek budżetowych, w tym w innych służbach, na podstawie przepisów obowiązujących przed dniem wejścia w życie ustawy z dnia 12 września 2025 r. o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby, wypłaca się przyznane świadczenie mieszkaniowe:
 
 - **1)** pomniejszone o kwotę stanowiącą maksymalnie 1/60 z 50 % przyznanej decyzją administracyjną pomocy finansowej na uzyskanie lokalu mieszkalnego albo domu, odprawy mieszkaniowej lub ekwiwalentu pieniężnego w zamian za rezygnację z lokalu za każdy miesiąc wypłaty świadczenia mieszkaniowego przez kolejne 60 miesięcy lub do wysokości 50 % przyznanej pomocy finansowej, z możliwością jednorazowej wcześniejszej spłaty, albo
-- **2)** w pełnej kwocie – w przypadku zwrotu przez funkcjonariusza 50 % przyznanej decyzją administracyjną pomocy finansowej na uzyskanie lokalu mieszkalnego albo domu, odprawy mieszkaniowej lub ekwiwalentu pieniężnego w zamian za rezygnację z lokalu mieszkalnego w terminie 30 dni od otrzymania rozstrzygnięcia, o którym mowa w art. 62 ust. 11.
+- **2)** w pełnej kwocie w przypadku zwrotu przez funkcjonariusza 50 % przyznanej decyzją administracyjną pomocy finansowej na uzyskanie lokalu mieszkalnego albo domu, odprawy mieszkaniowej lub ekwiwalentu pieniężnego w zamian za rezygnację z lokalu mieszkalnego w terminie 30 dni od otrzymania rozstrzygnięcia, o którym mowa w art. 62 ust. 11.
 
 3. Sposób rozliczenia zwrotu pomocy finansowej na uzyskanie lokalu mieszkalnego albo domu, odprawy mieszkaniowej lub ekwiwalentu pieniężnego w zamian za rezygnację z lokalu mieszkalnego wskazuje funkcjonariusz we wniosku, o którym mowa w art. 62 ust. 5.
 
@@ -929,8 +1508,8 @@ source: "isap-pdf"
 
 8. Funkcjonariuszowi:
 
-- **1)** o którym mowa w art. 15 ust. 2 – świadczenie mieszkaniowe przyznaje się w wysokości określonej dla miejscowości oddelegowania właściwej ze względu na miejsce wykonywania zadań służbowych poza SKW lub SWW lub pełnienia obowiązków poza SKW lub SWW;
-- **2)** oddelegowanemu do czasowego pełnienia służby poza granicami państwa – świadczenie mieszkaniowe przyznaje się w wysokości określonej dla miejscowości, w której pełnił służbę na jeden dzień przed oddelegowaniem.
+- **1)** o którym mowa w art. 15 ust. 2 świadczenie mieszkaniowe przyznaje się w wysokości określonej dla miejscowości oddelegowania właściwej ze względu na miejsce wykonywania zadań służbowych poza SKW lub SWW lub pełnienia obowiązków poza SKW lub SWW;
+- **2)** oddelegowanemu do czasowego pełnienia służby poza granicami państwa świadczenie mieszkaniowe przyznaje się w wysokości określonej dla miejscowości, w której pełnił służbę na jeden dzień przed oddelegowaniem.
 
 9. Świadczenie mieszkaniowe przysługuje od dnia złożenia wniosku do dnia zakończenia pełnienia służby w danej miejscowości, określonej w rozkazie personalnym wydanym przez Szefa SKW albo Szefa SWW i jest wypłacane za miesiąc kalendarzowy w terminie do końca każdego miesiąca następującego po miesiącu, w którym nastąpiło rozstrzygnięcie, o którym mowa w art. 62 ust. 11.
 
@@ -942,8 +1521,8 @@ source: "isap-pdf"
 
 13. W przypadku delegowania funkcjonariusza otrzymującego świadczenie mieszkaniowe do czasowego pełnienia służby w innej miejscowości na okres dłuższy niż 6 miesięcy, przysługuje mu świadczenie mieszkaniowe:
 
-- **1)** w okresie pierwszych 6 miesięcy – w dotychczasowej wysokości;
-- **2)** w okresie powyższej 6 miesięcy – w wysokości określonej dla miejsca pełnienia służby właściwego ze względu na miejscowość delegowania funkcjonariusza.
+- **1)** w okresie pierwszych 6 miesięcy w dotychczasowej wysokości;
+- **2)** w okresie powyższej 6 miesięcy w wysokości określonej dla miejsca pełnienia służby właściwego ze względu na miejscowość delegowania funkcjonariusza.
 
 14. W zakresie wysokości stawki podstawowej i współczynników świadczenia mieszkaniowego zależnego od garnizonu właściwego ze względu na miejsce pełnienia służby przez funkcjonariuszy w jednostce organizacyjnej SKW albo SWW stosuje się odpowiednio przepisy wydane na podstawie art. 48d ust. 17 ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2024 r. poz. 1270).”;
 
@@ -959,7 +1538,7 @@ source: "isap-pdf"
 - **9)** on i jego małżonek posiadają przydzielony decyzją administracyjną lokal mieszkalny albo kwaterę tymczasową; w takim przypadku osobom tym przysługuje prawo wyboru jednego z zajmowanych lokali;
 - **10)** po zwolnieniu ze służby on lub pozostali po nim członkowie rodziny zajmują lokal mieszkalny albo kwaterę tymczasową położone w budynku przeznaczonym na cele służbowe, a osobom tym przydzielono lokal w tej samej lub innej miejscowości, o powierzchni odpowiadającej przysługującym normom;
 - **11)** on lub członkowie jego rodziny albo inne osoby zajmują lokal mieszkalny lub kwaterę tymczasową bez tytułu prawnego;
-- **12)** został skazany prawomocnym wyrokiem sądu za przestępstwo umyślne lub przestępstwo skarbowe umyślne, ścigane z oskarżenia publicznego, popełnione w związku z wykonywaniem czynności służbowych i w celu osiągnięcia korzyści majątkowej lub osobistej, albo za przestępstwo określone w art. 258 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383) lub orzeczono wobec niego prawomocnie środek karny pozbawienia praw publicznych za przestępstwo lub przestępstwo skarbowe.
+- **12)** został skazany prawomocnym wyrokiem sądu za przestępstwo umyślne lub przestępstwo skarbowe umyślne, ścigane z oskarżenia publicznego, popełnione w związku z wykonywaniem czynności służbowych i w celu osiągnięcia korzyści majątkowej lub osobistej, albo za przestępstwo określone w art. 258 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2025 r. poz. 383) lub orzeczono wobec niego prawomocnie środek karny pozbawienia praw publicznych za przestępstwo lub przestępstwo skarbowe.
 
 2. Decyzję o opróżnieniu lokalu mieszkalnego lub kwatery tymczasowej wydaje się w stosunku do wszystkich osób zamieszkałych w tym lokalu albo tej kwaterze.
 
@@ -974,7 +1553,7 @@ source: "isap-pdf"
 - **3)** osobę niepełnosprawną, o której mowa w art. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz. 913 i 1301), lub ubezwłasnowolnioną oraz osobę sprawującą nad taką osobą opiekę i wspólnie z nią zamieszkałą,
 - **4)** obłożnie chorego, który dysponuje dokumentem urzędowym lub zaświadczeniem lekarskim stwierdzającym stan zdrowia, w którym chory bez narażenia życia lub zdrowia nie może prowadzić normalnej egzystencji, wydanym nie wcześniej niż miesiąc przed dniem wszczęcia postępowania o opróżnienie lokalu mieszkalnego albo kwatery tymczasowej,
 - **5)** emeryta lub rencistę spełniającego kryteria otrzymania świadczenia z pomocy społecznej,
-- **6)** osobę posiadającą status bezrobotnego spełniającą kryteria otrzymania świadczenia z pomocy społecznej – wraz z osobami wspólnie zamieszkującymi, nie wydaje się decyzji o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej, chyba że mogą zamieszkać w innym lokalu mieszkalnym albo w domu, a w przypadku, w którym jedną z osób, wobec których wydaje się decyzję o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej, jest funkcjonariusz, mogą zamieszkać w miejscowości, w której pełni on służbę, albo w miejscowości, o której mowa w art. 67 ust. 1 pkt 1 albo 2, w innym lokalu mieszkalnym albo w domu.
+- **6)** osobę posiadającą status bezrobotnego spełniającą kryteria otrzymania świadczenia z pomocy społecznej wraz z osobami wspólnie zamieszkującymi, nie wydaje się decyzji o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej, chyba że mogą zamieszkać w innym lokalu mieszkalnym albo w domu, a w przypadku, w którym jedną z osób, wobec których wydaje się decyzję o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej, jest funkcjonariusz, mogą zamieszkać w miejscowości, w której pełni on służbę, albo w miejscowości, o której mowa w art. 67 ust. 1 pkt 1 albo 2, w innym lokalu mieszkalnym albo w domu.
 
 6. W przypadku, o którym mowa w ust. 5, organ właściwy do wydania decyzji o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej kieruje do sądu powszechnego pozew o opróżnienie lokalu mieszkalnego albo kwatery tymczasowej. Przepisy art. 14 ust. 1–5 i 6a, art. 15, art. 17 i art. 18 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego stosuje się odpowiednio.
 
@@ -992,6 +1571,41 @@ source: "isap-pdf"
 - **11)** w art. 104 skreśla się wyrazy „a także do świadczeń, o których mowa w art. 65, art. 66 ust. 1 i art. 68 ust. 1,”.
 
 **Art. 9.** W ustawie z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2025 r. poz. 34, z 2024 r. poz. 1871 oraz z 2025 r. poz. 179 i 718) wprowadza się następujące zmiany:
+
+- **1)** po art. 152 dodaje się art. 152a i art. 152b w brzmieniu: „Art. 152a. 1. Funkcjonariuszowi, który w związku z pełnieniem służby nabył w danym roku kalendarzowym prawo do urlopu wypoczynkowego, przysługuje raz w roku prawo do gratyfikacji urlopowej.
+
+2. Przy ustalaniu wysokości gratyfikacji urlopowej uwzględnia się członków rodziny, o których mowa w art. 178d.
+
+3. Wysokość gratyfikacji urlopowej na jedną osobę uwzględniana przy ustalaniu jej wysokości nie może być niższa niż 12,6 % najniższego uposażenia zasadniczego funkcjonariusza.
+
+4. W przypadku zbiegu uprawnień do gratyfikacji urlopowej funkcjonariuszy posiadających dzieci, o których mowa w art. 178d pkt 2, gratyfikację na te dzieci uwzględnia się przy ustalaniu gratyfikacji tylko jednego z rodziców.
+
+5. W przypadku zbiegu uprawnień do gratyfikacji urlopowej z tytułu służby obojga małżonków, gratyfikację urlopową można otrzymać tylko z tytułu służby jednego z małżonków.
+
+6. Funkcjonariusz składa wniosek o wypłatę gratyfikacji urlopowej, który zawiera:
+
+- **1)** imię i nazwisko;
+- **2)** numer PESEL;
+- **3)** stanowisko służbowe;
+- **4)** komórkę organizacyjną SOP, w której pełni służbę;
+- **5)** numer telefonu kontaktowego;
+- **6)** oświadczenie funkcjonariusza o jego stanie rodzinnym na dzień złożenia wniosku obejmujące imię i nazwisko małżonka, a w przypadku dziecka, o którym mowa w art. 178d pkt 2, imię i nazwisko dziecka, jego datę urodzenia oraz informacje o:
+    - **a)** stanie cywilnym dziecka,
+    - **b)** pobieraniu przez dziecko nauki lub odbywaniu studiów w uczelni albo uznaniu dziecka za całkowicie niezdolne do pracy lub niezdolne do samodzielnej egzystencji;
+
+- **7)** oświadczenie funkcjonariusza stwierdzające, że drugi rodzic dziecka, będący funkcjonariuszem, nie otrzymał gratyfikacji urlopowej w danym roku na dzieci wskazane w oświadczeniu;
+- **8)** oświadczenie funkcjonariusza o prawdziwości danych zawartych we wniosku pod rygorem zwrotu nienależnie pobranej gratyfikacji urlopowej;
+- **9)** informacje z załączonych do wniosku dowodów potwierdzających dokonanie opłaty lub przedpłaty na odpłatną formę wypoczynku funkcjonariusza, jego małżonka lub dzieci pozostających na jego utrzymaniu.
+
+7. Wniosek, o którym mowa w ust. 6, składa się pod rygorem zwrotu nienależnie pobranej gratyfikacji urlopowej.
+
+8. W przypadku gdy funkcjonariusz nie złożył wniosku, o którym mowa w ust. 6, w danym roku kalendarzowym, gratyfikację urlopową za ten rok wypłaca się na podstawie takiego wniosku funkcjonariusza złożonego według jego stanu rodzinnego w ostatnim dniu roku kalendarzowego, za który przysługuje ta gratyfikacja.
+
+9. W przypadku gdy funkcjonariusz został zwolniony ze służby, a nie złożył wniosku, o którym mowa w ust. 6, w danym roku kalendarzowym, gratyfikację urlopową wypłaca się na podstawie takiego wniosku funkcjonariusza złożonego według jego stanu rodzinnego w ostatnim dniu pełnienia służby.
+
+10. W przypadku śmierci, uznania za zmarłego lub zaginięcia funkcjonariusza, który nie złożył wniosku, o którym mowa w ust. 6, gratyfikację urlopową wypłaca się członkowi rodziny funkcjonariusza, który jest uprawniony do otrzymania odprawy pośmiertnej, odpowiednio na podstawie wniosku, o którym mowa w ust. 6, uprawnionego członka rodziny funkcjonariusza, według stanu rodzinnego funkcjonariusza w ostatnim dniu pełnienia służby.
+
+11. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, terminy i tryb wypłacania gratyfikacji urlopowej oraz wzór wniosku, o którym mowa w ust. 6, uwzględniając sprawność postępowania w tych sprawach oraz możliwość otrzymania przez funkcjonariusza gratyfikacji urlopowej przed urlopem.
 
 **Art. 152b.**
 
@@ -1012,18 +1626,18 @@ source: "isap-pdf"
 - **3)** stanowisko służbowe;
 - **4)** nazwę komórki organizacyjnej SOP, w której pełni służbę;
 - **5)** numer telefonu kontaktowego;
-- **6)** oświadczenie funkcjonariusza, że osoby wymienione we wniosku odbyły przejazd na koszt SOP środkami publicznego transportu zbiorowego raz w roku do wybranej miejscowości w kraju i z powrotem – w przypadku wniosku o zwrot kosztów przejazdu środkami publicznego transportu zbiorowego raz w roku do wybranej miejscowości w kraju i z powrotem;
-- **7)** oświadczenie funkcjonariusza, że osoby wymienione we wniosku nie wykorzystały przysługującego prawa do przejazdu na koszt SOP środkami publicznego transportu zbiorowego raz w roku do wybranej miejscowości w kraju i z powrotem – w przypadku wniosku o zryczałtowany równoważnik pieniężny, o którym mowa w ust. 2;
+- **6)** oświadczenie funkcjonariusza, że osoby wymienione we wniosku odbyły przejazd na koszt SOP środkami publicznego transportu zbiorowego raz w roku do wybranej miejscowości w kraju i z powrotem w przypadku wniosku o zwrot kosztów przejazdu środkami publicznego transportu zbiorowego raz w roku do wybranej miejscowości w kraju i z powrotem;
+- **7)** oświadczenie funkcjonariusza, że osoby wymienione we wniosku nie wykorzystały przysługującego prawa do przejazdu na koszt SOP środkami publicznego transportu zbiorowego raz w roku do wybranej miejscowości w kraju i z powrotem w przypadku wniosku o zryczałtowany równoważnik pieniężny, o którym mowa w ust. 2;
 - **8)** oświadczenie funkcjonariusza o jego stanie rodzinnym na dzień złożenia wniosku obejmujące imię i nazwisko małżonka, a w przypadku dziecka, o którym mowa w art. 178d pkt 2, imię i nazwisko dziecka, jego datę urodzenia oraz informację o:
     - **a)** stanie cywilnym dziecka,
     - **b)** pobieraniu przez dziecko nauki lub odbywaniu studiów w uczelni albo uznaniu dziecka za całkowicie niezdolne do pracy lub niezdolne do samodzielnej egzystencji,
     - **c)** rodzaju ulgi przejazdowej oraz tytule, z jakiego ona przysługuje,
-    - **d)** kosztach biletów na pociąg lub autobus – w przypadku wniosku o zwrot kosztów przejazdu środkami publicznego transportu zbiorowego raz w roku do wybranej miejscowości w kraju i z powrotem,
-    - **e)** wysokości ryczałtu – w przypadku wniosku o zryczałtowany równoważnik pieniężny, o którym mowa w ust. 2;
+    - **d)** kosztach biletów na pociąg lub autobus w przypadku wniosku o zwrot kosztów przejazdu środkami publicznego transportu zbiorowego raz w roku do wybranej miejscowości w kraju i z powrotem,
+    - **e)** wysokości ryczałtu w przypadku wniosku o zryczałtowany równoważnik pieniężny, o którym mowa w ust. 2;
 
 - **9)** oświadczenie funkcjonariusza stwierdzające, że drugi rodzic dziecka, będący funkcjonariuszem SOP, nie otrzymał zwrotu kosztów przejazdu lub zryczałtowanego równoważnika pieniężnego, o których mowa w ust. 1 i 2, w danym roku na dziecko wskazane w oświadczeniu;
 - **10)** oświadczenie o prawdziwości danych zawartych we wniosku pod rygorem zwrotu nienależnie pobranego świadczenia;
-- **11)** informacje z załączonych do wniosku dowodów potwierdzających przejazd środkami publicznego transportu zbiorowego raz w roku do wybranej miejscowości w kraju i z powrotem – w przypadku wniosku o zwrot kosztów przejazdu środkami publicznego transportu zbiorowego raz w roku do wybranej miejscowości w kraju i z powrotem.
+- **11)** informacje z załączonych do wniosku dowodów potwierdzających przejazd środkami publicznego transportu zbiorowego raz w roku do wybranej miejscowości w kraju i z powrotem w przypadku wniosku o zwrot kosztów przejazdu środkami publicznego transportu zbiorowego raz w roku do wybranej miejscowości w kraju i z powrotem.
 
 7. Wnioski, o których mowa w ust. 6, składa się pod rygorem zwrotu nienależnie pobranego świadczenia.
 
@@ -1070,7 +1684,7 @@ source: "isap-pdf"
 - **15)** oświadczenie funkcjonariusza o nabyciu lub nienabyciu lokalu mieszkalnego od Skarbu Państwa lub jednostki samorządu terytorialnego, z bonifikatą lub pomniejszeniem w cenie nabycia, przydzielonego w trybie administracyjnym w związku z pełnioną służbą;
 - **16)** oświadczenie funkcjonariusza o otrzymaniu lub nieotrzymaniu lokalu mieszkalnego albo kwatery tymczasowej na podstawie przepisów obowiązujących przed dniem wejścia w życie ustawy z dnia 12 września 2025 r. o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby (Dz. U. poz. 1366);
 - **17)** klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”; klauzula ta zastępuje pouczenie przez organ o odpowiedzialności karnej za składanie fałszywych oświadczeń;
-- **18)** informację o sposobie wypłaty świadczenia mieszkaniowego, a w przypadku wyboru bezgotówkowej formy wypłaty – numer rachunku bankowego lub innego rachunku płatniczego;
+- **18)** informację o sposobie wypłaty świadczenia mieszkaniowego, a w przypadku wyboru bezgotówkowej formy wypłaty numer rachunku bankowego lub innego rachunku płatniczego;
 - **19)** adres lokalu mieszkalnego albo kwatery tymczasowej, o które wnioskuje funkcjonariusz.
 
 8. Funkcjonariuszowi, o którym mowa w ust. 1, na jego wniosek, przysługuje prawo do zamiany lokalu mieszkalnego albo kwatery tymczasowej. Do wniosków o zamianę lokali mieszkalnych albo kwater tymczasowych przepis ust. 7 stosuje się odpowiednio; wniosek o zamianę zawiera także adres zajmowanego lokalu mieszkalnego albo zajmowanej kwatery tymczasowej.
@@ -1089,15 +1703,15 @@ source: "isap-pdf"
     - **f)** funkcjonariuszem Agencji Wywiadu,
     - **g)** funkcjonariuszem Służby Wywiadu Wojskowego,
     - **h)** funkcjonariuszem Służby Kontrwywiadu Wojskowego,
-    - **i)** żołnierzem Sił Zbrojnych Rzeczypospolitej Polskiej – otrzymał przydział lokalu mieszkalnego albo kwatery tymczasowej na podstawie przepisów obowiązujących w tych służbach, jeżeli małżonkowie pełnią służbę w tej samej miejscowości albo miejscowości, o której mowa w art. 184a ust. 1 pkt 1 albo 2.
+    - **i)** żołnierzem Sił Zbrojnych Rzeczypospolitej Polskiej otrzymał przydział lokalu mieszkalnego albo kwatery tymczasowej na podstawie przepisów obowiązujących w tych służbach, jeżeli małżonkowie pełnią służbę w tej samej miejscowości albo miejscowości, o której mowa w art. 184a ust. 1 pkt 1 albo 2.
 
-11. Rozstrzygnięcie o przyznaniu świadczenia mieszkaniowego przez podmiot, o którym mowa w art. 178c ust. 1, w całości uwzględniające wniosek funkcjonariusza, następuje w postępowaniu uproszczonym, o którym mowa w dziale II rozdziale 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. Przepisów o milczącym załatwieniu sprawy nie stosuje się.
+11. Rozstrzygnięcie o przyznaniu świadczenia mieszkaniowego przez podmiot, o którym mowa w art. 178c ust. 1, w całości uwzględniające wniosek funkcjonariusza, następuje w postępowaniu uproszczonym, o którym mowa w dziale II rozdziale 14 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego. Przepisów o milczącym załatwieniu sprawy nie stosuje się.
 
 12. Rozstrzygnięcie o:
 
 - **1)** przydziale lokalu mieszkalnego albo kwatery tymczasowej,
 - **2)** zamianie lokali mieszkalnych albo kwater tymczasowych,
-- **3)** odmowie przyznania wybranej przez funkcjonariusza formy zakwaterowania – następuje w drodze decyzji administracyjnej wydanej przez podmiot, o którym mowa w art. 178c ust. 1.
+- **3)** odmowie przyznania wybranej przez funkcjonariusza formy zakwaterowania następuje w drodze decyzji administracyjnej wydanej przez podmiot, o którym mowa w art. 178c ust. 1.
 
 13. W przypadku gdy oboje małżonkowie są funkcjonariuszami, każdy z małżonków wybiera formę zakwaterowania, z tym że:
 
@@ -1114,16 +1728,27 @@ source: "isap-pdf"
 
 **Art. 178b.** Prawo do zakwaterowania nie przysługuje funkcjonariuszowi:
 
+- **1)** który nabył lokal mieszkalny od Skarbu Państwa lub jednostki samorządu terytorialnego, z bonifikatą lub pomniejszeniem w cenie nabycia, przydzielony w trybie administracyjnym w związku z pełnioną służbą;
+- **2)** od dnia przyjęcia do służby do dnia ukończenia szkolenia przygotowującego do służby w SOP.
+
 **Art. 178c.**
 
 1. Podmiotami właściwymi w sprawach zakwaterowania są:
 
-- **1)** minister właściwy do spraw wewnętrznych – w stosunku do Komendanta SOP lub jego zastępcy;
-- **2)** Komendant SOP – w stosunku do funkcjonariuszy na stanowisku służbowym.
+- **1)** minister właściwy do spraw wewnętrznych w stosunku do Komendanta SOP lub jego zastępcy;
+- **2)** Komendant SOP w stosunku do funkcjonariuszy na stanowisku służbowym.
 
 2. W przypadku funkcjonariusza zwolnionego ze służby, który nabył prawo do lokalu mieszkalnego albo kwatery tymczasowej na podstawie decyzji podmiotu wskazanego w ust. 1 pkt 1, właściwym w sprawie wydania decyzji o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej jest podmiot wskazany w ust. 1 pkt 2.
 
 **Art. 178d.** Członkami rodziny funkcjonariusza, których uwzględnia się przy przydziale lokalu mieszkalnego albo kwatery tymczasowej, są pozostający z funkcjonariuszem we wspólnym gospodarstwie domowym:
+
+- **1)** małżonek;
+- **2)** dzieci własne lub małżonka, przysposobione lub przyjęte na wychowanie w ramach rodziny zastępczej, pozostające na jego utrzymaniu, nie dłużej jednak niż do dnia zawarcia przez nie związku małżeńskiego, które:
+    - **a)** nie ukończyły 18. roku życia, a w przypadku uczęszczania do szkoły lub odbywania studiów w uczelni
+
+26. roku życia, albo
+
+- **b)** stały się całkowicie niezdolne do pracy lub niezdolne do samodzielnej egzystencji przed osiągnięciem wieku określonego w lit. a.
 
 **Art. 178e.**
 
@@ -1136,10 +1761,10 @@ source: "isap-pdf"
 - **1)** funkcjonariuszowi przysługuje norma powierzchni mieszkalnej, zwana dalej „normą zaludnienia”, która wynosi 10 m ;
 - **2)** funkcjonariuszowi posiadającemu członków rodziny, o których mowa w art. 178d, przysługuje po jednej normie zaludnienia dla funkcjonariusza i każdego członka jego rodziny;
 - **3)** dodatkowo, oprócz norm zaludnienia określonych w pkt 2, funkcjonariuszowi posiadającemu członków rodziny, o których mowa w art. 178d:
-    - **a)** pełniącemu służbę na stanowisku służbowym: Komendant SOP lub zastępca Komendanta SOP – przysługują dwie normy zaludnienia, albo
-    - **b)** posiadającemu stopień służbowy majora SOP, podpułkownika SOP lub pułkownika SOP, lub zajmującemu stanowisko służbowe z takim stopniem służbowym jako stopniem etatowym – przysługuje jedna norma zaludnienia;
+    - **a)** pełniącemu służbę na stanowisku służbowym: Komendant SOP lub zastępca Komendanta SOP przysługują dwie normy zaludnienia, albo
+    - **b)** posiadającemu stopień służbowy majora SOP, podpułkownika SOP lub pułkownika SOP, lub zajmującemu stanowisko służbowe z takim stopniem służbowym jako stopniem etatowym przysługuje jedna norma zaludnienia;
 
-- **4)** funkcjonariuszowi nieposiadającemu członków rodziny, o których mowa w art. 178d, przysługują dwie normy zaludnienia oraz, dodatkowo, w przypadku pełnienia służby na stanowisku służbowym: Komendant SOP lub zastępca Komendanta SOP – jedna norma zaludnienia;
+- **4)** funkcjonariuszowi nieposiadającemu członków rodziny, o których mowa w art. 178d, przysługują dwie normy zaludnienia oraz, dodatkowo, w przypadku pełnienia służby na stanowisku służbowym: Komendant SOP lub zastępca Komendanta SOP jedna norma zaludnienia;
 - **5)** funkcjonariuszowi pozostającemu w związku małżeńskim, który nie posiada dzieci, o których mowa w art. 178d pkt 2, przysługuje dodatkowo jedna norma zaludnienia;
 - **6)** w przypadku prowadzenia przez funkcjonariusza jednoosobowego gospodarstwa domowego norma zaludnienia wynosi nie mniej niż 20 m .
 
@@ -1161,11 +1786,11 @@ source: "isap-pdf"
 
 5. Funkcjonariusz może wprowadzać w zajmowanym lokalu mieszkalnym albo w zajmowanej kwaterze tymczasowej ulepszenia tylko za zgodą wynajmującego i na podstawie pisemnej umowy określającej sposób rozliczeń z tego tytułu.
 
-6. Opłaty za używanie lokalu mieszkalnego albo kwatery tymczasowej wchodzących w skład mieszkaniowego zasobu gminy przyjmuje się według opłat obowiązujących dla danego lokalu albo kwatery, a w przypadku lokalu mieszkalnego albo kwatery tymczasowej będących w zasobie innego podmiotu, w tym w zarządzie SOP – według opłat obowiązujących dla lokali mieszkalnych albo kwater tymczasowych wchodzących w skład zasobu mieszkaniowego tego podmiotu.
+6. Opłaty za używanie lokalu mieszkalnego albo kwatery tymczasowej wchodzących w skład mieszkaniowego zasobu gminy przyjmuje się według opłat obowiązujących dla danego lokalu albo kwatery, a w przypadku lokalu mieszkalnego albo kwatery tymczasowej będących w zasobie innego podmiotu, w tym w zarządzie SOP według opłat obowiązujących dla lokali mieszkalnych albo kwater tymczasowych wchodzących w skład zasobu mieszkaniowego tego podmiotu.
 
 7. Umowa najmu, o której mowa w ust. 1, ulega rozwiązaniu z chwilą uprawomocnienia się decyzji o opróżnieniu przydzielonego lokalu mieszkalnego albo przydzielonej kwatery tymczasowej albo wygaśnięcia decyzji o ich przydziale.
 
-8. W sprawach wynikających ze wzajemnych praw i obowiązków najemcy i wynajmującego oraz w innych przypadkach nieuregulowanych w niniejszej ustawie, do najmu lokali mieszkalnych albo kwater tymczasowych mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071 i 1172) i ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz. 725).
+8. W sprawach wynikających ze wzajemnych praw i obowiązków najemcy i wynajmującego oraz w innych przypadkach nieuregulowanych w niniejszej ustawie, do najmu lokali mieszkalnych albo kwater tymczasowych mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2025 r. poz. 1071 i 1172) i ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz. 725).
 
 9. Sprawy sporne wynikające ze stosunku najmu lokali mieszkalnych oraz kwater tymczasowych rozstrzygają sądy powszechne.
 
@@ -1183,7 +1808,7 @@ source: "isap-pdf"
 4. Funkcjonariuszowi, który otrzymał pomoc finansową na uzyskanie lokalu mieszkalnego albo domu, odprawę mieszkaniową lub ekwiwalent pieniężny w zamian za rezygnację z lokalu mieszkalnego z jednostek budżetowych, w tym w innych służbach, na podstawie przepisów obowiązujących przed dniem wejścia w życie ustawy z dnia 12 września 2025 r. o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby, wypłaca się przyznane świadczenie mieszkaniowe:
 
 - **1)** pomniejszone o kwotę stanowiącą maksymalnie 1/120 z 50 % otrzymanej pomocy finansowej na uzyskanie lokalu mieszkalnego albo domu za każdy miesiąc wypłaty świadczenia mieszkaniowego przez kolejne 120 miesięcy lub do wysokości 50 % otrzymanej pomocy finansowej, z możliwością jednorazowej wcześniejszej spłaty, albo
-- **2)** w pełnej kwocie – w przypadku zwrotu przez funkcjonariusza 50 % przyznanej decyzją administracyjną pomocy finansowej na uzyskanie lokalu mieszkalnego albo domu, odprawy mieszkaniowej lub ekwiwalentu pieniężnego w zamian za rezygnację z lokalu mieszkalnego w terminie 30 dni od dnia otrzymania rozstrzygnięcia, o którym mowa w art. 178a ust. 11.
+- **2)** w pełnej kwocie w przypadku zwrotu przez funkcjonariusza 50 % przyznanej decyzją administracyjną pomocy finansowej na uzyskanie lokalu mieszkalnego albo domu, odprawy mieszkaniowej lub ekwiwalentu pieniężnego w zamian za rezygnację z lokalu mieszkalnego w terminie 30 dni od dnia otrzymania rozstrzygnięcia, o którym mowa w art. 178a ust. 11.
 
 5. Sposób rozliczenia zwrotu pomocy finansowej na uzyskanie lokalu mieszkalnego albo domu, odprawy mieszkaniowej lub ekwiwalentu pieniężnego w zamian za rezygnację z lokalu mieszkalnego wskazuje funkcjonariusz we wniosku, o którym mowa w art. 178a ust. 5.
 
@@ -1205,8 +1830,8 @@ source: "isap-pdf"
 
 1. Funkcjonariuszowi, któremu wysokość świadczenia mieszkaniowego ustala się w sposób, o którym mowa w art. 178g ust. 1 pkt 2, oraz:
 
-- **1)** oddelegowanemu na podstawie art. 89 ust. 1 do pełnienia obowiązków poza SOP – świadczenie mieszkaniowe, o którym mowa w art. 178a ust. 2 pkt 3, przyznaje się w wysokości określonej dla miejscowości oddelegowania właściwej ze względu na miejsce pełnienia obowiązków poza SOP;
-- **2)** przeniesionemu do dyspozycji przełożonego właściwego w sprawach osobowych oraz delegowanemu do czasowego pełnienia służby poza granicami państwa, skierowanemu do ochrony placówki zagranicznej lub przeniesionemu do dyspozycji właściwego przełożonego – świadczenie mieszkaniowe, o którym mowa w art. 178a ust. 2 pkt 3, przyznaje się w wysokości określonej dla miejscowości, w której pełnił służbę na jeden dzień przed przeniesieniem do dyspozycji, skierowaniem lub delegowaniem.
+- **1)** oddelegowanemu na podstawie art. 89 ust. 1 do pełnienia obowiązków poza SOP świadczenie mieszkaniowe, o którym mowa w art. 178a ust. 2 pkt 3, przyznaje się w wysokości określonej dla miejscowości oddelegowania właściwej ze względu na miejsce pełnienia obowiązków poza SOP;
+- **2)** przeniesionemu do dyspozycji przełożonego właściwego w sprawach osobowych oraz delegowanemu do czasowego pełnienia służby poza granicami państwa, skierowanemu do ochrony placówki zagranicznej lub przeniesionemu do dyspozycji właściwego przełożonego świadczenie mieszkaniowe, o którym mowa w art. 178a ust. 2 pkt 3, przyznaje się w wysokości określonej dla miejscowości, w której pełnił służbę na jeden dzień przed przeniesieniem do dyspozycji, skierowaniem lub delegowaniem.
 
 2. W przypadku delegowania funkcjonariusza, któremu wysokość świadczenia mieszkaniowego ustala się w sposób, o którym mowa w art. 178g ust. 1 pkt 2, do czasowego pełnienia służby w innej miejscowości na okres nie dłuższy niż 12 miesięcy przysługuje mu świadczenie mieszkaniowe w dotychczasowej wysokości.
 
@@ -1242,7 +1867,7 @@ source: "isap-pdf"
 - **3)** osobę niepełnosprawną, o której mowa w art. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz. 913 i 1301), lub ubezwłasnowolnioną oraz osobę sprawującą nad taką osobą opiekę i wspólnie z nią zamieszkałą,
 - **4)** obłożnie chorego, który dysponuje dokumentem urzędowym lub zaświadczeniem lekarskim stwierdzającym stan zdrowia, w którym chory bez narażenia życia lub zdrowia nie może prowadzić normalnej egzystencji, wydanym nie wcześniej niż miesiąc przed wszczęciem postępowania o opróżnienie lokalu mieszkalnego albo kwatery tymczasowej,
 - **5)** emeryta lub rencistę spełniającego kryteria otrzymania świadczenia z pomocy społecznej,
-- **6)** osobę posiadającą status bezrobotnego spełniającą kryteria otrzymania świadczenia z pomocy społecznej – wraz z osobami wspólnie zamieszkującymi, nie wydaje się decyzji o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej, chyba że mogą zamieszkać w innym lokalu mieszkalnym albo w domu, a w przypadku, w którym jedną z osób, wobec których wydaje się decyzję o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej, jest funkcjonariusz, mogą zamieszkać w miejscowości, w której pełni on służbę, albo w miejscowości, o której mowa w art. 184a ust. 1 pkt 1 albo 2, w innym lokalu mieszkalnym albo w domu.
+- **6)** osobę posiadającą status bezrobotnego spełniającą kryteria otrzymania świadczenia z pomocy społecznej wraz z osobami wspólnie zamieszkującymi, nie wydaje się decyzji o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej, chyba że mogą zamieszkać w innym lokalu mieszkalnym albo w domu, a w przypadku, w którym jedną z osób, wobec których wydaje się decyzję o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej, jest funkcjonariusz, mogą zamieszkać w miejscowości, w której pełni on służbę, albo w miejscowości, o której mowa w art. 184a ust. 1 pkt 1 albo 2, w innym lokalu mieszkalnym albo w domu.
 
 6. W przypadku, o którym mowa w ust. 5, organ właściwy do wydania decyzji o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej kieruje do sądu powszechnego pozew o opróżnienie lokalu mieszkalnego albo kwatery tymczasowej. Przepisy art. 14 ust. 1–5 i 6a, art. 15, art. 17 i art. 18 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego stosuje się odpowiednio.
 
@@ -1256,9 +1881,9 @@ source: "isap-pdf"
 3. Funkcjonariusz delegowany z urzędu do czasowego pełnienia służby w innej miejscowości otrzymuje kwaterę tymczasową.”;
 
 - **10)** po art. 184 dodaje się art. 184a w brzmieniu: „Art. 184a. 1. Funkcjonariuszowi, z wyłączeniem funkcjonariusza, któremu wysokość świadczenia mieszkaniowego ustala się w sposób, o którym mowa w art. 178g ust. 1 pkt 2, zamieszkującemu w miejscowości innej niż miejscowość, w której pełni służbę, od której granic administracyjnych najkrótsza odległość drogą publiczną do granic administracyjnych miejscowości, w której pełni służbę, wynosi:
-- **1)** do 30 km – wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, w wysokości 140 zł miesięcznie;
-- **2)** powyżej 30 km do 50 km – wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, w wysokości 180 zł miesięcznie;
-- **3)** powyżej 50 km – wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, w wysokości 220 zł miesięcznie.
+- **1)** do 30 km wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, w wysokości 140 zł miesięcznie;
+- **2)** powyżej 30 km do 50 km wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, w wysokości 180 zł miesięcznie;
+- **3)** powyżej 50 km wypłaca się, na jego wniosek, zryczałtowany zwrot kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, w wysokości 220 zł miesięcznie.
 
 2. Funkcjonariusz, o którym mowa w ust. 1, składa wniosek o wypłatę zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której pełni służbę, do przełożonego właściwego w sprawach osobowych, zawierający:
 
@@ -1271,7 +1896,7 @@ source: "isap-pdf"
 - **7)** numer telefonu kontaktowego;
 - **8)** odległość w kilometrach wynikającą z ust. 1;
 - **9)** klauzulę o treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”; klauzula ta zastępuje pouczenie przez organ o odpowiedzialności karnej za składanie fałszywych oświadczeń;
-- **10)** informację o sposobie wypłaty, a w przypadku wyboru bezgotówkowej formy wypłaty – numer rachunku bankowego lub innego rachunku płatniczego.
+- **10)** informację o sposobie wypłaty, a w przypadku wyboru bezgotówkowej formy wypłaty numer rachunku bankowego lub innego rachunku płatniczego.
 
 3. Wniosek, o którym mowa w ust. 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
@@ -1285,7 +1910,7 @@ source: "isap-pdf"
 
 8. Funkcjonariusz, o którym mowa w ust. 1, informuje niezwłocznie, jednak nie później niż w terminie 30 dni, licząc od dnia powstania zmiany, przełożonego właściwego w sprawach osobowych o każdym zdarzeniu mającym wpływ na uprawnienia do otrzymywania zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której pełni służbę.
 
-9. Zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, nie wypłaca się za okresy, o których mowa w art. 172b ust. 9 – proporcjonalnie do tych okresów, przyjmując, że za każdy dzień wykonywania czynności służbowych ustala się 1/21 części miesięcznego zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której pełni służbę.
+9. Zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, nie wypłaca się za okresy, o których mowa w art. 172b ust. 9 proporcjonalnie do tych okresów, przyjmując, że za każdy dzień wykonywania czynności służbowych ustala się 1/21 części miesięcznego zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której pełni służbę.
 
 10. Zryczałtowany zwrot kosztów dojazdu do miejscowości, w której funkcjonariusz pełni służbę, nie przysługuje, jeżeli funkcjonariusz korzysta z prawa do zakwaterowania w formach, o których mowa w art. 178a ust. 2 pkt 1 lub 2, w miejscowości, w której pełni służbę.
 
@@ -1311,7 +1936,7 @@ source: "isap-pdf"
 
 4. Funkcjonariusz Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego oraz Służby Ochrony Państwa, zwolniony ze służby, uprawniony do emerytury policyjnej lub policyjnej renty, o których mowa w ustawie zmienianej w art. 5, członkowie ich rodzin uprawnieni do renty rodzinnej po funkcjonariuszach, którzy w chwili śmierci spełniali warunki wymagane do uzyskania emerytury policyjnej lub policyjnej renty, oraz po zmarłych emerytach i rencistach, którzy otrzymali lokal mieszkalny na podstawie przepisów obowiązujących przed dniem wejścia w życie niniejszej ustawy, zachowują prawo do przydzielonego lokalu mieszkalnego.
 
-5. Prawo do przydzielonego lokalu mieszkalnego albo przydzielonej kwatery tymczasowej, o których mowa w ust. 1, nie przysługuje funkcjonariuszowi, który został skazany prawomocnym wyrokiem sądu za przestępstwo umyślne lub przestępstwo skarbowe umyślne, ścigane z oskarżenia publicznego, popełnione w związku z wykonywaniem czynności służbowych i w celu osiągnięcia korzyści majątkowej lub osobistej, albo za przestępstwo określone w art. 258 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383) lub orzeczono wobec niego prawomocnie środek karny pozbawienia praw publicznych za przestępstwo lub przestępstwo skarbowe.
+5. Prawo do przydzielonego lokalu mieszkalnego albo przydzielonej kwatery tymczasowej, o których mowa w ust. 1, nie przysługuje funkcjonariuszowi, który został skazany prawomocnym wyrokiem sądu za przestępstwo umyślne lub przestępstwo skarbowe umyślne, ścigane z oskarżenia publicznego, popełnione w związku z wykonywaniem czynności służbowych i w celu osiągnięcia korzyści majątkowej lub osobistej, albo za przestępstwo określone w art. 258 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2025 r. poz. 383) lub orzeczono wobec niego prawomocnie środek karny pozbawienia praw publicznych za przestępstwo lub przestępstwo skarbowe.
 
 **Art. 13.**
 
@@ -1343,17 +1968,17 @@ source: "isap-pdf"
 
 1. W latach 2025–2035 maksymalny limit wydatków Komendanta Głównego Policji będących skutkiem finansowym wejścia w życie niniejszej ustawy w poszczególnych latach wynosi w:
 
-- **1)** 2025 r. – 700 026 000 zł;
-- **2)** 2026 r. – 1 649 500 000 zł;
-- **3)** 2027 r. – 1 649 500 000 zł;
-- **4)** 2028 r. – 1 649 500 000 zł;
-- **5)** 2029 r. – 1 649 500 000 zł;
-- **6)** 2030 r. – 1 649 500 000 zł;
-- **7)** 2031 r. – 1 649 500 000 zł;
-- **8)** 2032 r. – 1 649 500 000 zł;
-- **9)** 2033 r. – 1 649 500 000 zł;
-- **10)** 2034 r. – 1 649 500 000 zł;
-- **11)** 2035 r. – 1 649 500 000 zł.
+- **1)** 2025 r. 700 026 000 zł;
+- **2)** 2026 r. 1 649 500 000 zł;
+- **3)** 2027 r. 1 649 500 000 zł;
+- **4)** 2028 r. 1 649 500 000 zł;
+- **5)** 2029 r. 1 649 500 000 zł;
+- **6)** 2030 r. 1 649 500 000 zł;
+- **7)** 2031 r. 1 649 500 000 zł;
+- **8)** 2032 r. 1 649 500 000 zł;
+- **9)** 2033 r. 1 649 500 000 zł;
+- **10)** 2034 r. 1 649 500 000 zł;
+- **11)** 2035 r. 1 649 500 000 zł.
 
 2. Komendant Główny Policji monitoruje wykorzystanie limitu wydatków, o których mowa w ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu co najmniej na koniec półrocza i na koniec każdego roku kalendarzowego według stanu na dzień 20 listopada danego roku.
 
@@ -1363,17 +1988,17 @@ source: "isap-pdf"
 
 1. W latach 2025–2035 maksymalny limit wydatków Komendanta Głównego Straży Granicznej będących skutkiem finansowym wejścia w życie niniejszej ustawy w poszczególnych latach wynosi w:
 
-- **1)** 2025 r. – 111 602 000 zł;
-- **2)** 2026 r. – 266 276 000 zł;
-- **3)** 2027 r. – 266 476 000 zł;
-- **4)** 2028 r. – 266 476 000 zł;
-- **5)** 2029 r. – 266 476 000 zł;
-- **6)** 2030 r. – 266 476 000 zł;
-- **7)** 2031 r. – 266 476 000 zł;
-- **8)** 2032 r. – 266 476 000 zł;
-- **9)** 2033 r. – 266 476 000 zł;
-- **10)** 2034 r. – 266 476 000 zł;
-- **11)** 2035 r. – 266 476 000 zł.
+- **1)** 2025 r. 111 602 000 zł;
+- **2)** 2026 r. 266 276 000 zł;
+- **3)** 2027 r. 266 476 000 zł;
+- **4)** 2028 r. 266 476 000 zł;
+- **5)** 2029 r. 266 476 000 zł;
+- **6)** 2030 r. 266 476 000 zł;
+- **7)** 2031 r. 266 476 000 zł;
+- **8)** 2032 r. 266 476 000 zł;
+- **9)** 2033 r. 266 476 000 zł;
+- **10)** 2034 r. 266 476 000 zł;
+- **11)** 2035 r. 266 476 000 zł.
 
 2. Komendant Główny Straży Granicznej monitoruje wykorzystanie limitu wydatków, o których mowa w ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu co najmniej na koniec półrocza i na koniec każdego roku kalendarzowego według stanu na dzień 20 listopada danego roku.
 
@@ -1383,17 +2008,17 @@ source: "isap-pdf"
 
 1. W latach 2025–2035 maksymalny limit wydatków Komendanta Głównego Państwowej Straży Pożarnej będących skutkiem finansowym wejścia w życie niniejszej ustawy w poszczególnych latach wynosi w:
 
-- **1)** 2025 r. – 202 391 000 zł;
-- **2)** 2026 r. – 457 416 000 zł;
-- **3)** 2027 r. – 457 416 000 zł;
-- **4)** 2028 r. – 457 416 000 zł;
-- **5)** 2029 r. – 457 416 000 zł;
-- **6)** 2030 r. – 457 416 000 zł;
-- **7)** 2031 r. – 457 416 000 zł;
-- **8)** 2032 r. – 457 416 000 zł;
-- **9)** 2033 r. – 457 416 000 zł;
-- **10)** 2034 r. – 457 416 000 zł;
-- **11)** 2035 r. – 457 416 000 zł.
+- **1)** 2025 r. 202 391 000 zł;
+- **2)** 2026 r. 457 416 000 zł;
+- **3)** 2027 r. 457 416 000 zł;
+- **4)** 2028 r. 457 416 000 zł;
+- **5)** 2029 r. 457 416 000 zł;
+- **6)** 2030 r. 457 416 000 zł;
+- **7)** 2031 r. 457 416 000 zł;
+- **8)** 2032 r. 457 416 000 zł;
+- **9)** 2033 r. 457 416 000 zł;
+- **10)** 2034 r. 457 416 000 zł;
+- **11)** 2035 r. 457 416 000 zł.
 
 2. Komendant Główny Państwowej Straży Pożarnej monitoruje wykorzystanie limitu wydatków, o których mowa w ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu co najmniej na koniec półrocza i na koniec każdego roku kalendarzowego według stanu na dzień 20 listopada danego roku.
 
@@ -1403,17 +2028,17 @@ source: "isap-pdf"
 
 1. W latach 2025–2035 maksymalny limit wydatków Komendanta Służby Ochrony Państwa będących skutkiem finansowym wejścia w życie niniejszej ustawy w poszczególnych latach wynosi w:
 
-- **1)** 2025 r. – 37 674 000 zł;
-- **2)** 2026 r. – 72 890 000 zł;
-- **3)** 2027 r. – 72 890 000 zł;
-- **4)** 2028 r. – 72 890 000 zł;
-- **5)** 2029 r. – 72 890 000 zł;
-- **6)** 2030 r. – 72 890 000 zł;
-- **7)** 2031 r. – 72 890 000 zł;
-- **8)** 2032 r. – 72 890 000 zł;
-- **9)** 2033 r. – 72 890 000 zł;
-- **10)** 2034 r. – 72 890 000 zł;
-- **11)** 2035 r. – 72 890 000 zł.
+- **1)** 2025 r. 37 674 000 zł;
+- **2)** 2026 r. 72 890 000 zł;
+- **3)** 2027 r. 72 890 000 zł;
+- **4)** 2028 r. 72 890 000 zł;
+- **5)** 2029 r. 72 890 000 zł;
+- **6)** 2030 r. 72 890 000 zł;
+- **7)** 2031 r. 72 890 000 zł;
+- **8)** 2032 r. 72 890 000 zł;
+- **9)** 2033 r. 72 890 000 zł;
+- **10)** 2034 r. 72 890 000 zł;
+- **11)** 2035 r. 72 890 000 zł.
 
 2. Komendant Służby Ochrony Państwa monitoruje wykorzystanie limitu wydatków, o których mowa w ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu co najmniej na koniec półrocza i na koniec każdego roku kalendarzowego według stanu na dzień 20 listopada danego roku.
 
@@ -1423,17 +2048,17 @@ source: "isap-pdf"
 
 1. W latach 2025–2035 maksymalny limit wydatków Szefa Agencji Bezpieczeństwa Wewnętrznego będących skutkiem finansowym wejścia w życie niniejszej ustawy w poszczególnych latach wynosi w:
 
-- **1)** 2025 r. – 29 800 000 zł;
-- **2)** 2026 r. – 71 600 000 zł;
-- **3)** 2027 r. – 71 600 000 zł;
-- **4)** 2028 r. – 71 600 000 zł;
-- **5)** 2029 r. – 71 600 000 zł;
-- **6)** 2030 r. – 71 600 000 zł;
-- **7)** 2031 r. – 71 600 000 zł;
-- **8)** 2032 r. – 71 600 000 zł;
-- **9)** 2033 r. – 71 600 000 zł;
-- **10)** 2034 r. – 71 600 000 zł;
-- **11)** 2035 r. – 71 600 000 zł.
+- **1)** 2025 r. 29 800 000 zł;
+- **2)** 2026 r. 71 600 000 zł;
+- **3)** 2027 r. 71 600 000 zł;
+- **4)** 2028 r. 71 600 000 zł;
+- **5)** 2029 r. 71 600 000 zł;
+- **6)** 2030 r. 71 600 000 zł;
+- **7)** 2031 r. 71 600 000 zł;
+- **8)** 2032 r. 71 600 000 zł;
+- **9)** 2033 r. 71 600 000 zł;
+- **10)** 2034 r. 71 600 000 zł;
+- **11)** 2035 r. 71 600 000 zł.
 
 2. Szef Agencji Bezpieczeństwa Wewnętrznego monitoruje wykorzystanie limitu wydatków, o których mowa w ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu co najmniej na koniec półrocza i na koniec każdego roku kalendarzowego według stanu na dzień 20 listopada danego roku.
 
@@ -1443,17 +2068,17 @@ source: "isap-pdf"
 
 1. W latach 2025–2035 maksymalny limit wydatków Szefa Agencji Wywiadu będących skutkiem finansowym wejścia w życie niniejszej ustawy w poszczególnych latach wynosi w:
 
-- **1)** 2025 r. – 14 630 000 zł;
-- **2)** 2026 r. – 29 620 000 zł;
-- **3)** 2027 r. – 29 620 000 zł;
-- **4)** 2028 r. – 29 620 000 zł;
-- **5)** 2029 r. – 29 620 000 zł;
-- **6)** 2030 r. – 29 620 000 zł;
-- **7)** 2031 r. – 29 620 000 zł;
-- **8)** 2032 r. – 29 620 000 zł;
-- **9)** 2033 r. – 29 620 000 zł;
-- **10)** 2034 r. – 29 620 000 zł;
-- **11)** 2035 r. – 29 620 000 zł.
+- **1)** 2025 r. 14 630 000 zł;
+- **2)** 2026 r. 29 620 000 zł;
+- **3)** 2027 r. 29 620 000 zł;
+- **4)** 2028 r. 29 620 000 zł;
+- **5)** 2029 r. 29 620 000 zł;
+- **6)** 2030 r. 29 620 000 zł;
+- **7)** 2031 r. 29 620 000 zł;
+- **8)** 2032 r. 29 620 000 zł;
+- **9)** 2033 r. 29 620 000 zł;
+- **10)** 2034 r. 29 620 000 zł;
+- **11)** 2035 r. 29 620 000 zł.
 
 2. Szef Agencji Wywiadu monitoruje wykorzystanie limitu wydatków, o których mowa w ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu co najmniej na koniec półrocza i na koniec każdego roku kalendarzowego według stanu na dzień 20 listopada danego roku.
 

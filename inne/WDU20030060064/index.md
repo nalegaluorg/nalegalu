@@ -1,0 +1,341 @@
+---
+title: Ustawa z dnia 20 grudnia 2002 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa
+address: WDU20030060064
+eli: DU/2003/64
+publisher: DU
+year: 2003
+pos: 64
+act_type: Ustawa
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Ustawa z dnia 20 grudnia 2002 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2003 nr 6 poz. 64 |
+| ISAP | WDU20030060064 |
+| Typ aktu | Ustawa |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2002-12-20 |
+| Data wydania | 2003-01-22 |
+| Wejście w życie | 2003-02-06 |
+| Ostatnia zmiana | 2024-03-15 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030060064) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/64/text.pdf) |
+
+**Art. 1.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2001 r. Nr 57, poz. 603, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 5: ust. 2–4 otrzymują brzmienie: „
+    - **a)**
+
+2. Agencja, obejmując we władanie powierzone składniki mienia Skarbu Państwa, wykonuje we własnym imieniu prawa i obowiązki z nimi związane w stosunku do osób trzecich, jak również we własnym imieniu wykonuje związane z tymi składnikami obowiązki publicznoprawne.
+
+3. Agencja wykonuje w imieniu własnym prawa i obowiązki związane z mieniem Skarbu Państwa powierzonym Agencji po zlikwidowanym państwowym przedsiębiorstwie gospodarki rolnej, w tym również prawa i obowiązki wynikające z decyzji administracyjnych.
+
+4. Mienie nabyte przez Agencję ze środków własnych, w celu zapewnienia funkcjonowania Biura Prezesa i oddziałów terenowych Agencji, stanowi jej własność. ” , dodaje się ust. 5–7 w brzmieniu: „
+
+- **b)**
+
+5. Akcje i udziały w spółkach nabyte przez Agencję za mienie Skarbu Państwa wchodzące w skład Zasobu, a także akcje i udziały przejęte przez Agencję, jako mienie Skarbu Państwa pozostałe po likwidacji państwowych przedsiębiorstw gospodarki rolnej, podlegają przekazaniu ministrowi właściwemu do spraw Skarbu Państwa, w terminie 14 dni od dnia ich objęcia lub przejęcia, w formie protokołu zdawczo-odbiorczego. Protokół stanowi podstawę dokonania zmian w rejestrze sądowym i w księgach rachunkowych prowadzonych dla Zasobu. Do przekazania nie stosuje się postanowień umowy (statutu) spółki przyznających pierwszeństwo nabycia lub ograniczających albo wyłączających nabycie udziałów lub akcji.
+
+6. Minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw Skarbu Państwa określi, w drodze rozporządzenia, wykaz spółek hodowli roślin uprawnych oraz hodowli zwierząt gospodarskich o szczególnym znaczeniu dla gospodarki narodowej, których prawa z akcji lub udziałów wykonuje Agencja, biorąc pod uwagę strategiczne znaczenie spółek w postępie biologicznym w rolnictwie w zakresie hodowli roślin uprawnych oraz hodowli zwierząt gospodarskich.
+
+7. Zbycie akcji lub udziałów w spółkach, o których mowa w ust. 6, wymaga zgody Rady Ministrów. ” ;
+
+- **2)** w art. 7: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. Minister właściwy do spraw Skarbu Państwa, w drodze rozporządzenia, nadaje Agencji statut, który określa jej organizację wewnętrzną. ” , uchyla się ust. 3;
+
+- **b)**
+- **3)** uchyla się art. 15;
+- **4)** uchyla się art. 17;
+- **5)** w art. 17a: ust. 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+1. Z zastrzeżeniem art. 16, mienie Skarbu Państwa, które w dniu przejęcia do Zasobu znajduje się na podstawie umów lub decyzji administracyjnych we władaniu osób fizycznych i prawnych, pozostaje nadal w ich władaniu na dotychczasowych warunkach do chwili zawarcia z Agencją umów, o których mowa w rozdziale 6 albo 8 ustawy.
+
+2. Jeżeli zmiana warunków dotychczasowego władania nie nastąpi w terminie roku od dnia przejęcia mienia do Zasobu, umowy i decyzje, o których mowa w ust. 1, wygasają, nie wcześniej jednak niż z dniem 31 grudnia 1994 r. ” , ust. 4 otrzymuje brzmienie: „
+
+- **b)**
+
+4. Nieruchomości rolne, pozostające w dniu przejęcia do Zasobu w zarządzie państwowych jednostek organizacyjnych nieposiadających osobowości prawnej, pozostają nadal w ich zarządzie. Do zarządu tego stosuje się przepisy art. 35 ust. 2, 3 i 5 i art. 36 oraz przepisy wydane na podstawie art. 37. ” ;
+
+- **6)** w art. 17b: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Z zastrzeżeniem ust. 2, opłata roczna z tytułu użytkowania wieczystego wynosi w odniesieniu do nieruchomości Zasobu wykorzystywanych:
+
+- **1)** na cele obronności państwa, w tym ochrony przeciwpożarowej 0,1%,
+- **2)** na cele rolne 1%,
+- **3)** na inne cele 3% wartości nieruchomości ustalonej w sposób określony w art. 30 ust. 1, z tym że wartość gruntu rolnego można ustalić w sposób określony w art. 30 ust. 2. ” , ust. 2 otrzymuje brzmienie: „
+    - **b)**
+
+2. Polska Akademia Nauk, szkoły wyższe oraz jednostki badawczo-rozwojowe wnoszą z tytułu użytkowania wieczystego opłaty roczne równe cenie 20 kg żyta z hektara przeliczeniowego w rozumieniu przepisów o podatku rolnym. Opłaty te wnosi się bez uprzedniego wezwania, na rachunek Agencji do dnia 15 lutego każdego roku za poprzedni rok kalendarzowy. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+
+- **c)**
+
+2a. O ustaleniu nowej albo zmianie dotychczasowej wysokości opłaty rocznej z tytułu użytkowania wieczystego, o której mowa w ust. 1, Prezes Agencji zawiadamia na piśmie użytkownika wieczystego. Do obu rodzajów zawiadomień stosuje się odpowiednio przepisy o gospodarce nieruchomościami, dotyczące postępowania w razie wypowiedzenia opłaty rocznej z tytułu użytkowania wieczystego nieruchomości gruntowej. ” ;
+
+- **7)** art. 18 otrzymuje brzmienie: „
+
+**Art. 18.** W odniesieniu do nieruchomości rolnych przejmowanych na rzecz Skarbu Państwa na podstawie przepisów szczególnych ich przekazanie do Zasobu następuje w terminie nie dłuższym niż 30 dni od dnia uprawomocnienia się orzeczenia lub decyzji o ich przejęciu przez państwo. ” ;
+
+- **8)** rozdział 4 otrzymuje brzmienie: „
+
+#### Rozdział 4 Gospodarka finansowa Agencji i Zasobu
+
+**Art. 20.**
+
+1. Agencja prowadzi odrębnie własną gospodarkę finansową oraz gospodarkę finansową Zasobu.
+
+2. Agencja sporządza odrębnie:
+
+- **1)** roczny plan finansowy Agencji,
+- **2)** roczny plan finansowy Zasobu.
+
+3. Roczne plany finansowe, o których mowa w ust. 2, zatwierdza minister właściwy do spraw Skarbu Państwa w porozumieniu z ministrem właściwym do spraw rozwoju wsi.
+
+4. Środki finansowe z gospodarowania mieniem Zasobu przeznacza się na finansowanie obciążających mienie Zasobu zadań określonych w ustawie, w tym na obsługę zobowiązań Agencji określonych w art. 20a ust. 1 i 4.
+
+5. W rocznym planie finansowym, o którym mowa w ust. 2 pkt 2, ustala się limit wydatków przeznaczonych na funkcjonowanie Biura Prezesa Agencji i jej oddziałów terenowych.
+
+6. Minister właściwy do spraw Skarbu Państwa określa, w drodze rozporządzenia, szczegółowe zasady gospodarki finansowej Agencji i gospodarki finansowej Zasobu, uwzględniając w szczególności odrębność tworzenia i funkcjonowania funduszy własnych Agencji, o których mowa w art. 20b ust. 2, oraz funduszy Zasobu, o których mowa w art. 20c ust. 2.
+
+1. Agencja jest obowiązana wpłacić w ratach, zwanych dalej „wpłatami”, na rachunek budżetu państwa równowartość części sumy kwot odsetek i rat kapitałowych obligacji restrukturyzacyjnych, wyemitowanych przez Ministra Finansów na podstawie ustawy budżetowej na rok 1996 w celu zwiększenia funduszy własnych i rezerw Banku Gospodarki Żywnościowej Spółka Akcyjna, zwanego dalej „BGŻ SA”, z przeznaczeniem na restrukturyzację zadłużenia Agencji.
+
+2. Coroczna wielkość wpłat wynosi 30% wpływów pieniężnych z gospodarowania mieniem Zasobu, uzyskiwanych w poszczególnych latach z tytułów, o których mowa w art. 20c ust. 1 pkt 1.
+
+3. Wpłaty są dokonywane począwszy od szóstego roku, licząc od końca roku, w którym wyemitowano obligacje restrukturyzacyjne, z zastrzeżeniem ust. 4.
+
+4. Przed upływem pięcioletniego okresu, o którym mowa w ust. 3, coroczna nadwyżka środków finansowych, w części przekraczającej wielkość tej nadwyżki finansowej ustalanej w rocznych planach finansowych w trybie określonym w art. 21, podlega przekazaniu na rachunek budżetu państwa na poczet wpłat.
+
+5. Nadwyżkę określoną w ust. 4 Agencja przekazuje do dnia 30 czerwca roku następującego po roku, w którym nadwyżka powstała.
+
+6. Minister właściwy do spraw finansów publicznych, w drodze rozporządzenia, określi wysokość zobowiązania Agencji z tytułów, o których mowa w ust. 1, terminy wpłat, o których mowa w ust. 2, oraz organ właściwy do ich poboru, uwzględniając:
+
+- **1)** obniżenie zobowiązania Agencji, o którym mowa w ust. 1, w roku, w którym zostanie zakończony wykup całości emisji obligacji,
+- **2)** konieczność odrębnego ustalenia wysokości wpłaty w roku, w którym pozostała do uiszczenia kwota jest niższa od kwoty, o której mowa w ust. 2.
+
+7. Do zobowiązań Agencji, o których mowa w ust. 1 i 4, mają zastosowanie przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. Nr 137, poz. 926, z późn. zm.).
+
+1. W zakresie gospodarki finansowej Agencji:
+
+- **1)** przychodami Agencji są: przychody ze sprzedaży mienia własnego Agencji, przychody z umów najmu lub innych umów o podobnym charakterze, dotyczących mienia własnego Agencji, środki, o których mowa w art. 20 ust. 4, w kwocie przeznaczonej na realizację zobowiązań określonych w art. 20a ust. 1 i 4 oraz w art. 20e i art. 20f, środki, o których mowa w art. 20 ust. 4, w kwocie przyznanej Agencji w ramach limitu, o którym mowa w art. 20 ust. 5, odsetki od środków finansowych zgromadzonych na własnym rachunku bankowym Agencji, inne przychody z działalności Agencji, niezwiązanej z gospodarowaniem mieniem Zasobu,
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+
+- **2)** kosztami Agencji są: koszty wpłat określonych w art. 20a ust. 1 i 4, w art. 20e i art. 20f oraz koszty obsługi tych wpłat, koszty funkcjonowania Biura Prezesa i oddziałów terenowych Agencji, inne koszty działalności Agencji, niezwiązanej z gospodarowaniem mieniem Zasobu.
+    - **a)**
+    - **b)**
+    - **c)**
+
+2. Agencja tworzy następujące fundusze własne:
+
+- **1)** fundusz Agencji odzwierciedlający wartość mienia własnego Agencji,
+- **2)** fundusz rezerwowy,
+- **3)** inne fundusze, których utworzenie przewidują odrębne przepisy.
+
+1. W zakresie gospodarki finansowej związanej z gospodarowaniem mieniem Zasobu:
+
+- **1)** przychodami z gospodarowania mieniem Zasobu są: przychody ze sprzedaży mienia Zasobu, przychody z opłat z tytułu trwałego zarządu, użytkowania, użytkowania wieczystego, czynszu dzierżawnego oraz z tytułu najmu lub innej umowy o podobnym charakterze, dotyczących mienia Zasobu, przychody z tytułu udziału w zyskach z działalności gospodarczej, o której mowa w art. 24 ust. 1 pkt 4, inne przychody z działalności w zakresie gospodarowania i rozporządzania mieniem Zasobu,
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **2)** kosztami gospodarowania mieniem Zasobu są: koszty wynikające z przekazania Agencji kwot przeznaczonych na pokrycie kosztów wpłat określonych w art. 20a ust. 1 i 4, w art. 20e i art. 20f oraz kosztów obsługi tych wpłat, koszty wynikające z przekazania Agencji kwot przyznanych w ramach limitu, o którym mowa w art. 20 ust. 5, inne koszty działalności w zakresie gospodarowania mieniem Zasobu.
+    - **a)**
+    - **b)**
+    - **c)**
+
+2. Agencja tworzy następujące fundusze Zasobu:
+
+- **1)** fundusz mienia Zasobu odzwierciedlający wartość mienia Zasobu pomniejszoną o zobowiązania związane z tym mieniem,
+- **2)** fundusz na wspieranie nowych miejsc pracy dla byłych pracowników państwowych przedsiębiorstw gospodarki rolnej i ich rodzin.
+
+1. Agencja prowadzi rachunkowość na zasadach określonych w przepisach o rachunkowości, z uwzględnieniem przepisów niniejszej ustawy, w tym odrębną rachunkowość dla działalności w zakresie gospodarowania mieniem Zasobu.
+
+2. Grunty rolne wchodzące w skład Zasobu, w przypadku których brakuje ceny nabycia, ujmuje się w ewidencji ksiąg rachunkowych prowadzonych dla Zasobu, określając ich wartość według stawek szacunkowych jednego hektara gruntu, o których mowa w przepisach wydanych na podstawie art. 32, oraz ceny skupu 100 kg żyta, ustalanej dla celów podatku rolnego przez Prezesa Głównego Urzędu Statystycznego, z tym że zaliczenia danego gruntu do okręgu podatkowego dokonuje się w sposób określony przez ministra właściwego do spraw finansów publicznych na podstawie przepisów o tym podatku.
+
+3. Roczne sprawozdanie finansowe Agencji oraz roczne sprawozdanie finansowe z gospodarowania mieniem Zasobu, sporządzane z zastosowaniem takich samych metod i w takim samym układzie, podlegają badaniu przez biegłych rewidentów wybranych przez radę nadzorczą.
+
+4. Roczne sprawozdania, o których mowa w ust. 3, zatwierdza minister właściwy do spraw Skarbu Państwa na wniosek Prezesa Agencji, zaopiniowany przez radę nadzorczą.
+
+5. Minister właściwy do spraw Skarbu Państwa, na wniosek Prezesa Agencji, zaopiniowany przez radę nadzorczą, dokonuje podziału rocznego wyniku finansowego Agencji oraz rocznego wyniku finansowego Zasobu. Agencja jest obowiązana przekazywać na rachunek bankowy Funduszu Pracy środki, uzyskane z tytułów określonych w art. 20c ust. 1 pkt 1:
+
+- **1)** w niezbędnej wysokości i przez niezbędny okres na finansowanie wypłat świadczeń przedemerytalnych, przyznanych na podstawie art. 37k ust. 9 ustawy z dnia 14 grudnia 1994 r. o zatrudnieniu i przeciwdziałaniu bezrobociu (Dz. U. z 2001 r. Nr 6, poz. 56, z późn. zm.),
+- **2)** na realizację programów na rzecz tworzenia miejsc pracy i aktywizację zawodową bezrobotnych, a w szczególności absolwentów zamieszkałych na terenach wiejskich oraz małych miast, w kwotach ustalonych w rocznym planie finansowym, o którym mowa w art. 20 ust. 2 pkt 2. Rada Ministrów może zobowiązać Agencję do przekazania na rachunek bankowy Agencji Rynku Rolnego środków, uzyskanych z tytułów określonych w art. 20c ust. 1 pkt 1, na realizację zadań Agencji Rynku Rolnego.
+
+**Art. 21.**
+
+1. Kierunki rozdysponowania środków finansowych stanowiących mienie Zasobu, określa się w rocznym planie finansowym, o którym mowa w art. 20 ust. 2 pkt 2.
+
+2. W trybie określonym w przepisach o zasadach wspierania rozwoju regionalnego, projekt planu finansowego, o którym mowa w art. 20 ust. 2 pkt 2, jest przedkładany do uzgodnienia ministrowi właściwemu do spraw rozwoju regionalnego.
+
+**Art. 22.**
+
+1. W celu pełnego pokrycia wydatków własnych lub wydatków Zasobu Agencja może zaciągać kredyty.
+
+2. Agencja może dokonywać, za zgodą ministra właściwego do spraw finansów publicznych, emisji własnych obligacji. Przy ustalaniu, określonych w ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm.), granic koncentracji kredytów i innych zobowiązań Agencji wobec BGŻ SA nie uwzględnia się zobowiązań finansowanych ze środków stanowiących mienie Zasobu.
+
+**Art. 23.**
+
+1. Agencja może udzielać poręczeń i gwarancji kredytowych, w tym dewizowych, do wysokości określonej w planie finansowym, o którym mowa w art. 20 ust. 2 pkt 1.
+
+2. Agencja może udzielać poręczeń i gwarancji kredytowych, w tym dewizowych, obciążających mienie Zasobu wyłącznie za zgodą ministra właściwego do spraw Skarbu Państwa i do wysokości określonej w planie finansowym, o którym mowa w art. 20 ust. 2 pkt 2.
+
+1. Agencja może odroczyć określony w umowie albo w decyzji, o której mowa w art. 35 ust. 1, termin zapłaty należności, rozłożyć ją na raty albo umorzyć w części lub w całości, jeżeli przemawiają za tym ważne względy gospodarcze, społeczne lub losowe.
+
+2. Minister właściwy do spraw Skarbu Państwa w porozumieniu z ministrem właściwym do spraw rozwoju wsi, po zasięgnięciu opinii Prezesa Agencji, ustali, w drodze rozporządzenia, szczegółowe przesłanki odroczenia, rozłożenia na raty lub umorzenia należności oraz tryb postępowania w tych sprawach. W szczególności, w rozporządzeniu należy określić okoliczności uzasadniające uznanie, że:
+
+- **1)** niemożność terminowego uregulowania należności przez dłużnika Agencji jest uzasadniona względami, o których mowa w ust. 1,
+- **2)** należność jest nieściągalna. ” ;
+- **9)** w art. 24: ust. 5 otrzymuje brzmienie: „
+    - **a)**
+
+5. Nieruchomości wchodzące w skład Zasobu Agencja może, w drodze umowy, nieodpłatnie przekazać na własność:
+
+- **1)** jednostce samorządu terytorialnego – na cele związane z inwestycjami infrastrukturalnymi służącymi wykonywaniu zadań własnych,
+- **2)** Polskiej Akademii Nauk, izbie rolniczej, Krajowej Radzie Izb Rolniczych, państwowej szkole wyższej lub państwowej jednostce badawczo-rozwojowej – na cele służące wykonywaniu ich zadań statutowych,
+- **3)** osobom bezrobotnym bez prawa do zasiłku, które przez okres co najmniej 5 lat były pracownikami państwowych przedsiębiorstw gospodarki rolnej – nieruchomości rolne o powierzchni do 2 hektarów – na cele związane z zalesianiem w rozumieniu ustawy z dnia 8 czerwca 2001 r. o przeznaczeniu gruntów rolnych do zalesienia (Dz. U. Nr 73, poz. 764). ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
+    - **b)**
+
+5a. W przypadku zbycia lub przeznaczenia przez nabywcę nieruchomości na inne cele, niż określone w umowie, przed upływem 10 lat licząc od dnia jej nabycia, Agencja może żądać od podmiotów wymienionych w ust. 5 pkt 1 i 2 zwrotu aktualnej wartości pieniężnej tej nieruchomości, ustalonej według zasad określonych w art. 30 ust. 1, natomiast od osób wymienionych w ust. 5 pkt 3, Agencji zwrot taki przysługuje, o ile Lasy Państwowe nie skorzystają z prawa pierwokupu. W przypadku zamiaru zbycia gruntu przez osoby, o których mowa w ust. 5 pkt 3, Lasom Państwowym przysługuje prawo pierwokupu tej nieruchomości, na zasadach określonych w przepisach o gospodarce nieruchomościami. ” ;
+
+- **10)** w art. 26 ust. 2 otrzymuje brzmienie: „
+
+2. Prawa Skarbu Państwa wobec spółek, o których mowa w ust. 1, reprezentuje minister właściwy do spraw Skarbu Państwa. ” ;
+
+- **11)** art. 26a otrzymuje brzmienie:
+
+**Art. 26a.**
+
+1. Nie pobiera się podatku od czynności cywilnoprawnych dotyczących Zasobu, których stroną jest Agencja.
+
+2. Do czynności notarialnych związanych z utworzeniem przez Agencję jednoosobowych spółek Skarbu Państwa stosuje się odpowiednio przepisy dotyczące czynności notarialnych związanych z przekształceniem przedsiębiorstwa państwowego w spółkę.
+
+3. Agencja nie ma obowiązku uiszczania opłat w sprawach cywilnych dotyczących mienia stanowiącego Zasób.
+
+4. Koszty związane z realizacją umowy, o której mowa w art. 24 ust. 5 pkt 3, w tym założeniem księgi wieczystej, ponosi Agencja. ” ;
+
+- **12)** art. 27 otrzymuje brzmienie: „
+
+**Art. 27.** Sprzedaż i nabywanie nieruchomości Zasobu, z zastrzeżeniem art. 33, prowadzi Agencja lub upoważniony przez nią w drodze umowy zlecenia inny podmiot, w tym gmina. ” ;
+
+- **13)** w art. 28 ust. 1 otrzymuje brzmienie: „
+
+1. Dla nieruchomości Zasobu będących przedmiotem sprzedaży Agencja sporządza wykaz, ogłoszony w sposób zwyczajowo przyjęty w danej miejscowości przez okres 14 dni przed dniem ogłoszenia przetargu. ” ;
+
+- **14)** w art. 29: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Pierwszeństwo w nabyciu nieruchomości Zasobu po cenie ustalonej w sposób określony w ustawie, z zastrzeżeniem art. 17a ust. 1, art. 17b ust. 4 i art. 42, przysługuje:
+
+- **1)** byłemu właścicielowi zbywanej nieruchomości lub jego spadkobiercom, jeżeli nieruchomość została przejęta na rzecz Skarbu Państwa przed dniem 1 stycznia 1992 r.,
+- **2)** spółdzielni produkcji rolnej władającej faktycznie zbywaną nieruchomością, której użytkowanie ustanowione na rzecz tej spółdzielni wygasło na podstawie art. 16 ust. 2 z dniem 31 grudnia 1993 r.,
+- **3)** dzierżawcy zbywanej nieruchomości, jeżeli dzierżawa trwała faktycznie przez okres co najmniej trzech lat. ” , ust. 4 otrzymuje brzmienie: „
+    - **b)**
+
+4. Agencji przysługuje prawo pierwokupu na rzecz Skarbu Państwa przy odsprzedaży nieruchomości przez nabywcę w okresie 5 lat od nabycia tej nieruchomości od Agencji. ” ;
+
+- **15)** w art. 30: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Cenę nieruchomości Zasobu ustala się w wysokości nie niższej niż wartość tej nieruchomości określona przy zastosowaniu sposobów jej ustalania przewidzianych w przepisach o gospodarce nieruchomościami. ” , ust. 5 otrzymuje brzmienie: „
+
+- **b)**
+
+5. Określenia wartości gruntu w sposób, o którym mowa w ust. 2, można dokonać, bez udziału rzeczoznawcy majątkowego, w celu ustalenia:
+
+- **1)** odpłatności, w związku z przejęciem gruntu na własność Skarbu Państwa w trybie przepisów o ubezpieczeniu społecznym rolników, albo
+- **2)** ceny gruntu niezabudowanego o powierzchni nieprzekraczającej jednego hektara, albo
+- **3)** ceny gruntu stanowiącej podstawę obliczenia opłaty z tytułu wykonywania trwałego zarządu, o której mowa w art. 35 ust. 3. ” ;
+- **16)** art. 32 otrzymuje brzmienie: „
+
+**Art. 32.**
+
+1. Minister właściwy do spraw Skarbu Państwa w porozumieniu z ministrem właściwym do spraw rozwoju wsi określi, w drodze rozporządzenia, szczegółowy tryb sprzedaży nieruchomości Zasobu i ich części składowych, warunki rozkładania ceny sprzedaży na raty oraz stawki szacunkowe, o których mowa w art. 30 ust. 2.
+
+2. W rozporządzeniu, o którym mowa w ust. 1, należy określić w szczególności:
+
+- **1)** sposób przeprowadzania przetargów ustnych i przetargów ofert, w tym ograniczonych do osób, o których mowa w art. 29 ust. 3,
+- **2)** tryb sprzedaży nieruchomości na rzecz użytkowników wieczystych oraz na rzecz osób uprawnionych do pierwszeństwa nabycia, o którym mowa w art. 29 ust. 1,
+- **3)** maksymalny okres, na który może być rozłożona na raty cena sprzedaży,
+- **4)** stawki szacunkowe gruntu, z uwzględnieniem rodzaju gruntu, jego klasy oraz okręgu podatkowego. ” ;
+- **17)** w art. 32a ust. 1 otrzymuje brzmienie: „
+
+1. Agencja może nabywać nieruchomości na własność Skarbu Państwa, jeżeli wymaga tego realizacja zadań określonych w ustawie, w tym szczególnie zadań w zakresie powiększania już istniejących gospodarstw rodzinnych. ” ;
+
+- **18)** w art. 35: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Przekazanie w zarząd nieruchomości Zasobu następuje na czas oznaczony lub nieoznaczony, w drodze decyzji Prezesa Agencji. ” , ust. 6 otrzymuje brzmienie: „
+
+- **b)**
+
+6. Nie pobiera się opłat z tytułu zarządu nieruchomościami objętymi ochroną przyrody na podstawie art. 13 ust. 1 pkt 1, 2 i 6 ustawy z dnia 16 października 1991 r. o ochronie przyrody (Dz. U. z 2001 r. Nr 99, poz. 1079, Nr 100, poz. 1085, Nr 110, poz. 1189 i Nr 145, poz. 1623 oraz z 2002 r. Nr 130, poz. 1112) oraz z tytułu zarządu nieruchomościami znajdującymi się pod drogami publicznymi i między wałami przeciwpowodziowymi a korytem rzeki. ” ;
+
+- **19)** w art. 39 w ust. 2 pkt 2 otrzymuje brzmienie: „
+- **2)** nieruchomość jest wydzierżawiana jednoosobowej spółce Skarbu Państwa utworzonej przez Agencję, ” ;
+- **20)** w art. 42 ust. 1 otrzymuje brzmienie: „
+
+1. Agencja może przeznaczyć do sprzedaży najemcom wchodzące w skład Zasobu domy, lokale mieszkalne i budynki gospodarcze wraz z niezbędnymi gruntami. ” ;
+
+- **21)** w art. 44 ust. 1 otrzymuje brzmienie: „
+
+1. Grunty Zasobu zabudowane obiektami infrastruktury technicznej towarzyszącej budynkom mieszkalnym wraz z innym mieniem niezbędnym do korzystania z tej infrastruktury Agencja może przekazać, w drodze umowy, nieodpłatnie na własność gminie albo spółdzielni utworzonej przez nabywców lokali określonych w art. 42 ust. 1 w celu administrowania budynkami, w których znajdują się te lokale. ” ;
+
+- **22)** w art. 48 ust. 1 otrzymuje brzmienie: „
+
+1. Agencja może wydzielić z Zasobu majątek z niezbędnymi gruntami, służący wykonywaniu innej działalności niż gospodarcza, w celu nieodpłatnego przekazania, w drodze umowy, na własność gminie. ” ;
+
+- **23)** w art. 50 ust. 1 otrzymuje brzmienie: „
+
+1. Grunty Zasobu niezbędne do korzystania z budynków i lokali, o których mowa w art. 42–44 i art. 48, oraz grunty zabudowane niesłużące prowadzeniu działalności wytwórczej w rolnictwie uważa się za grunty wyłączone z produkcji rolnej w rozumieniu przepisów ustawy o ochronie gruntów rolnych i leśnych. ” .
+
+**Art. 2.** Własność Agencji Własności Rolnej Skarbu Państwa stanowi również mienie, o którym mowa art. 5 ust. 4 ustawy wymienionej w art. 1 w brzmieniu dotychczas obowiązującym, nabyte przed dniem wejścia w życie niniejszej ustawy.
+
+**Art. 3.**
+
+1. Akcje i udziały, o których mowa w art. 5 ust. 5 ustawy wymienionej w art. 1, objęte lub nabyte do dnia wejścia w życie ustawy Agencja przekazuje ministrowi właściwemu do spraw Skarbu Państwa w terminie jednego miesiąca od dnia jej wejścia w życie. Do przekazania stosuje się art. 5 ust. 5 ustawy, o której mowa w art. 1 niniejszej ustawy.
+
+2. Skutki prawne czynności dokonanych przed dniem wejścia w życie ustawy, w odniesieniu do akcji i udziałów albo majątku w spółkach, o których mowa w ust. 1, ocenia się według przepisów dotychczasowych.
+
+**Art. 4.** Przepisów art. 3 nie stosuje się do akcji i udziałów w spółkach określonych na podstawie art. 5 ust. 6 ustawy, o której mowa w art. 1 niniejszej ustawy.
+
+**Art. 5.**
+
+1. Opłaty roczne w wysokości określonej w art. 1 pkt 6 ustala się, poczynając od opłat należnych za 2004 r.
+
+2. Spory w sprawie opłat z tytułu użytkowania wieczystego nieruchomości Zasobu Własności Rolnej Skarbu Państwa za lata 2001–2003 podlegają rozpoznaniu przez sądy powszechne, właściwe ze względu na miejsce położenia nieruchomości.
+
+**Art. 6.**
+
+1. Wpłaty dokonane przez Agencję Własności Rolnej Skarbu Państwa, na podstawie art. 20a ustawy wymienionej w art. 1, w brzmieniu dotychczasowym, zalicza się na poczet spłaty zobowiązań Agencji, o których mowa w art. 20a ust. 1 i 4 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+2. Poręczenia i gwarancje kredytowe udzielone przez Agencję Własności Rolnej Skarbu Państwa przed dniem wejścia w życie ustawy, obciążają mienie Zasobu.
+
+**Art. 7.**
+
+1. Określone w ustawie zasady gospodarki finansowej oraz zasady rachunkowości Agencji Własności Rolnej Skarbu Państwa i Zasobu Własności Rolnej Skarbu Państwa obowiązują, poczynając od roku obrotowego 2003.
+
+2. W informacji dodatkowej do sprawozdania finansowego Agencji Własności Rolnej Skarbu Państwa za rok 2002 Agencja jest obowiązana zamieścić informacje o:
+
+- **1)** mieniu i obciążeniach majątkowych Zasobu;
+- **2)** wartości mienia Zasobu;
+- **3)** przyjętej metodologii identyfikacji mienia i obciążeń majątkowych Zasobu oraz oszacowania wartości mienia Zasobu.
+
+3. W okresie roku od dnia wejścia w życie ustawy Agencja Własności Rolnej Skarbu Państwa jest obowiązana przeprowadzić inwentaryzację składników mienia Zasobu oraz dokona wyceny ich wartości godziwej na zasadach określonych w ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2002 r. Nr 76, poz. 694), z zastrzeżeniem art. 20d ust. 2 ustawy, o której mowa w art. 1.
+
+**Art. 8.** Do czasu wydania przepisów wykonawczych na podstawie upoważnień zmienianych niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie ustawy, zachowują moc przepisy dotychczasowe, jeżeli nie są z nią sprzeczne.
+
+**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+

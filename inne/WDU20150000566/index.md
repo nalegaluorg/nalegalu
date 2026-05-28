@@ -1,0 +1,424 @@
+---
+title: Ustawa z dnia 20 marca 2015 r. o zmianie ustawy o narodowym zasobie archiwalnym i archiwach
+address: WDU20150000566
+eli: DU/2015/566
+publisher: DU
+year: 2015
+pos: 566
+act_type: Ustawa
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Ustawa z dnia 20 marca 2015 r. o zmianie ustawy o narodowym zasobie archiwalnym i archiwach
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2015 poz. 566 |
+| ISAP | WDU20150000566 |
+| Typ aktu | Ustawa |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2015-03-20 |
+| Data wydania | 2015-04-24 |
+| Wejście w życie | 2015-11-01 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000566) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/566/text.pdf) |
+
+**Art. 1.** W ustawie z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2011 r. Nr 123, poz. 698 i Nr 171, poz. 1016 oraz z 2014 r. poz. 822) wprowadza się następujące zmiany:
+
+- **1)** w art. 4 ust. 2 otrzymuje brzmienie: „
+
+2. Zadania, o których mowa w art. 51b, art. 51f ust. 2, art. 51g ust. 1, 2, 4 i 5, art. 51h ust. 1 oraz art. 51j ust. 1 i 2, są zadaniami z zakresu administracji rządowej. ” ;
+
+- **2)** w art. 5: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Dokumentacja powstająca w organach państwowych i państwowych jednostkach organizacyjnych oraz w organach jednostek samorządu terytorialnego i samorządowych jednostkach organizacyjnych, a także napływająca do nich, jest przechowywana przez te organy i jednostki organizacyjne, a następnie:
+
+- **1)** dokumentacja stanowiąca materiały archiwalne jest przekazywana niezwłocznie po upływie 25 lat od jej wytworzenia do właściwego archiwum państwowego, o ile organ lub jednostka organizacyjna nie przekazały wcześniej materiałów archiwalnych do archiwum państwowego;
+- **2)** dokumentacja inna niż wymieniona w pkt 1, zwana dalej „dokumentacją niearchiwalną”, może ulec brakowaniu, za zgodą dyrektora właściwego archiwum państwowego, chyba że zgoda ta nie jest wymagana, albo właściwego organu określonego w art. 19; dokumentacja niearchiwalna może być brakowana po upływie okresu jej przechowywania, określonego w jednolitym rzeczowym wykazie akt lub kwalifikatorze dokumentacji, o których mowa w art. 6 ust. 2 pkt 2, oraz po uznaniu przez organ lub jednostkę organizacyjną, że dokumentacja niearchiwalna utraciła dla nich znaczenie, w tym wartość dowodową. ” , po ust. 1 dodaje się ust. 1a-1g w brzmieniu: „
+    - **b)**
+
+1a. W przypadku gdy trwale zaprzestają działalności organ lub jednostka organizacyjna, o których mowa w ust. 1, organ lub jednostka organizacyjna przekazuje:
+
+- **1)** niezwłocznie materiały archiwalne do właściwego archiwum państwowego;
+- **2)** dokumentację niearchiwalną organowi lub jednostce organizacyjnej przejmującym ich zadania i kompetencje; do organu lub jednostki organizacyjnej przejmujących dokumentację niearchiwalną, w zakresie jej ewidencjonowania, przechowywania, zabezpieczania, udostępniania, brakowania i przekazywania do archiwum państwowego, stosuje się przepisy, jakim podlegał organ lub jednostka organizacyjna przekazujący dokumentację.
+
+1b. Jeżeli organ lub jednostka organizacyjna, o których mowa w ust. 1, które trwale zaprzestają działalności, nie przekazały materiałów archiwalnych do archiwum państwowego, materiały te przejmuje i przekazuje do właściwego archiwum państwowego organ nadrzędny nad organem lub jednostką organizacyjną, które trwale zaprzestają działalności, a w przypadku braku takiego organu – organ sprawujący nad nimi nadzór.
+
+1c. Koszty związane z przygotowaniem do przekazania i konserwacją materiałów archiwalnych oraz ich przekazaniem do archiwum państwowego ponosi organ lub jednostka organizacyjna przekazująca materiały archiwalne do archiwum państwowego.
+
+1d. W przypadku braku organu lub jednostki organizacyjnej przejmujących zadania i kompetencje organu lub jednostki organizacyjnej, o których mowa w ust. 1, które trwale zaprzestają działalności, dokumentację niearchiwalną tego organu lub jednostki przekazuje się organowi nadrzędnemu nad organem lub jednostką organizacyjną, które trwale zaprzestają działalności, w przypadku braku organu nadrzędnego – organowi sprawującemu nadzór nad organem lub jednostką organizacyjną, które trwale zaprzestają działalności, a w przypadku braku takiego organu – podmiotowi wykonującemu działalność, o której mowa w art. 51a, po zapewnieniu przez podmiot likwidujący działalność organu lub jednostki organizacyjnej podmiotowi wykonującemu działalność, o której mowa w art. 51a, środków finansowych na dalsze przechowywanie tej dokumentacji.
+
+1e. Podlegające przejęciu przez archiwum państwowe materiały archiwalne organu lub jednostki organizacyjnej, o których mowa w ust. 1, które trwale zaprzestały działalności, niezbędne do działalności:
+
+- **1)** organu państwowego lub państwowej jednostki organizacyjnej nieposiadającej osobowości prawnej przejmujących zadania i kompetencje organu lub jednostki organizacyjnej, które trwale zaprzestały działalności, archiwum państwowe pozostawia temu organowi lub jednostce, na ich pisemny wniosek, w tym złożony w postaci elektronicznej, na podstawie porozumienia zawartego pomiędzy archiwum państwowym a tym organem lub jednostką;
+- **2)** państwowej osoby prawnej, organu jednostki samorządu terytorialnego lub samorządowej jednostki organizacyjnej przejmujących zadania i kompetencje organu lub jednostki organizacyjnej, które trwale zaprzestały działalności, archiwum państwowe, na ich pisemny wniosek, w tym złożony w postaci elektronicznej, pozostawia do używania na podstawie umowy użyczenia tej osobie, organowi lub jednostce;
+- **3)** jednostki organizacyjnej niebędącej państwową lub samorządową jednostką organizacyjną, przejmującej zadania i kompetencje organu lub jednostki organizacyjnej, które trwale zaprzestały działalności, archiwum państwowe, na jej pisemny wniosek, w tym złożony w postaci elektronicznej, może pozostawić do używania na podstawie umowy użyczenia tej jednostce.
+
+1f. Porozumienie lub umowa użyczenia, o których mowa w ust. 1e, określają w szczególności czas dysponowania materiałami archiwalnymi oraz obowiązki biorącego do używania materiały archiwalne.
+
+1g. Jeżeli z dokumentacji organu lub jednostki organizacyjnej, o których mowa w ust. 1, które trwale zaprzestały działalności, nie wydzielono materiałów archiwalnych, do postępowania z tą dokumentacją, do czasu wydzielenia tych materiałów, stosuje się odpowiednio przepisy dotyczące postępowania z materiałami archiwalnymi. ” , ust. 2 otrzymuje brzmienie: „
+
+- **c)**
+
+2. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, po zasięgnięciu opinii Naczelnego Dyrektora Archiwów Państwowych, w drodze rozporządzenia:
+
+- **1)** określi: metody kwalifikowania i metodę klasyfikowania dokumentacji, rodzaje oznaczeń kategorii archiwalnych, elementy jednolitego rzeczowego wykazu akt, wzór budowy jednolitego rzeczowego wykazu akt, wzór budowy kwalifikatora dokumentacji, standardy porządkowania, ewidencjonowania i technicznego zabezpieczania materiałów archiwalnych przed ich przekazaniem do archiwów państwowych, szczegółowy tryb przekazywania materiałów archiwalnych do archiwów państwowych, szczegółowy tryb brakowania dokumentacji niearchiwalnej, właściwość archiwów państwowych w sprawach, o których mowa w lit. g i h, w tym właściwość archiwów państwowych dla naczelnych i centralnych organów władzy i administracji rządowej oraz innych centralnych jednostek organizacyjnych, a także dla rodzajów przejmowanych materiałów archiwalnych mając na uwadze wartość historyczną dokumentacji lub utratę jej znaczenia i potrzebę ochrony dokumentacji przed uszkodzeniem, zniszczeniem lub utratą oraz kierując się zakresem stosowania systemów teleinformatycznych w załatwianiu i rozstrzyganiu spraw;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+
+- **2)** może określić rodzaje lub typy dokumentacji niearchiwalnej, której brakowanie nie wymaga zgody dyrektora właściwego archiwum państwowego, kierując się krótkotrwałym znaczeniem tej dokumentacji oraz tym, że nie stanowiła ona dotychczas materiałów archiwalnych. ” , w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Tryb brakowania dokumentacji niearchiwalnej oraz sposób postępowania z materiałami archiwalnymi i dokumentacją niearchiwalną w przypadku trwałego zaprzestania działalności przez organy lub jednostki organizacyjne, w tym podległych i nadzorowanych, określają, w drodze zarządzenia, w odniesieniu do: ” , uchyla się ust. 4;
+    - **d)**
+    - **e)**
+
+- **3)** w art. 6: po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+
+1a. Zadania, o których mowa w ust. 1, mogą być realizowane w ramach elektronicznego zarządzania dokumentacją, będącego systemem wykonywania czynności kancelaryjnych, dokumentowania przebiegu załatwiania i rozstrzygania spraw, gromadzenia i tworzenia dokumentacji w postaci elektronicznej z wykorzystaniem systemu teleinformatycznego, o którym mowa w przepisach wydanych na podstawie art. 5 ust. 2b. ” , ust. 2 otrzymuje brzmienie: „
+
+- **b)**
+
+2. Organy i kierownicy jednostek organizacyjnych, o których mowa w ust. 1, w porozumieniu z Naczelnym Dyrektorem Archiwów Państwowych, określają:
+
+- **1)** instrukcję kancelaryjną określającą szczegółowe zasady i tryb wykonywania czynności kancelaryjnych;
+- **2)** sposób klasyfikowania i kwalifikowania dokumentacji w formie jednolitego rzeczowego wykazu akt, który określa klasy, według których w organie lub jednostce organizacyjnej, o których mowa w ust. 1, grupuje się jednolicie, w systemie dziesiętnym, dokumentację powstającą i gromadzoną w tych organach i jednostkach oraz ustala dla dokumentacji kwalifikację archiwalną; jednolity rzeczowy wykaz akt stanowi podstawę oznaczania, rejestracji i grupowania dokumentacji w organie lub jednostce organizacyjnej w chwili wszczynania spraw oraz może być uzupełniony przez kwalifikator dokumentacji, który określa kwalifikację archiwalną jednorodnego rodzaju lub typu dokumentacji;
+- **3)** instrukcję w sprawie organizacji i zakresu działania archiwum zakładowego lub składnicy akt. ” , po ust. 2c dodaje się ust. 2d-2i w brzmieniu: „
+    - **c)**
+
+2d. Wójt (burmistrz, prezydent miasta), starosta, marszałek województwa lub wojewoda, w porozumieniu z dyrektorem właściwego dla ich siedziby archiwum państwowego, w drodze zarządzenia, mogą dokonać uzupełnienia jednolitych rzeczowych wykazów akt, o których mowa w ust. 2b pkt 2, jeżeli jest to niezbędne dla klasyfikacji nowych zadań i nie narusza konstrukcji klasyfikacji; w przypadku organów zespolonej administracji rządowej w województwie uzupełnienia jednolitych rzeczowych wykazów akt wojewoda dokonuje na wniosek tych organów.
+
+2e. Organ państwowy może określić, w trybie określonym w ust. 2, instrukcję kancelaryjną, jednolity rzeczowy wykaz akt, instrukcję w sprawie organizacji i zakresu działania archiwum zakładowego lub składnicy akt oraz w miarę potrzeby kwalifikator dokumentacji, wspólne dla:
+
+- **1)** urzędu obsługującego ten organ oraz nadzorowanych i podległych jednostek organizacyjnych albo
+- **2)** nadzorowanych i podległych jednostek organizacyjnych.
+
+2f. Wójt (burmistrz, prezydent miasta), starosta lub marszałek województwa mogą określić, w trybie określonym w ust. 2, instrukcję kancelaryjną, jednolity rzeczowy wykaz akt, instrukcję w sprawie organizacji i zakresu działania archiwum zakładowego lub składnicy akt oraz w miarę potrzeby kwalifikator dokumentacji, wspólne dla jednostek nadzorowanych i podległych, których przedmiot działalności jest zbliżony.
+
+2g. Z dniem wejścia w życie instrukcji kancelaryjnej, jednolitego rzeczowego wykazu akt, instrukcji w sprawie organizacji i zakresu działania archiwum zakładowego lub składnicy akt lub kwalifikatora dokumentacji, o których mowa w ust. 2e i 2f, tracą moc odpowiednio instrukcje, jednolity rzeczowy wykaz akt i kwalifikator dokumentacji określone na podstawie ust. 2 przez kierownika jednostki organizacyjnej.
+
+2h. Naczelny Dyrektor Archiwów Państwowych może upoważnić dyrektorów archiwów państwowych do występowania w jego imieniu w sprawach, o których mowa w ust. 2, 2e i 2f.
+
+2i. Organy właściwe w sprawach archiwów wyodrębnionych określają instrukcję w sprawie zarządzania dokumentacją w archiwum wyodrębnionym, określającą zasady i tryb postępowania z dokumentacją w tym archiwum. ” , ust. 3 otrzymuje brzmienie: „
+
+- **d)**
+
+3. Do organów właściwych w sprawach archiwów wyodrębnionych nie stosuje się wymogu porozumienia z Naczelnym Dyrektorem Archiwów Państwowych w sprawach, o których mowa w ust. 2, 2e i 2i. ” ;
+
+- **4)** w art. 9 ust. 1 otrzymuje brzmienie: „
+
+1. Materiały archiwalne wchodzące do nieewidencjonowanego niepaństwowego zasobu archiwalnego mogą być zbywane. W razie ich zbywania w drodze umowy sprzedaży, archiwom państwowym oraz archiwom wyodrębnionym przysługuje prawo pierwokupu tych materiałów, w zależności od właściwości tych archiwów. Do pierwokupu tych materiałów stosuje się przepisy Kodeksu cywilnego. ” ;
+
+- **5)** w art. 19: uchyla się ust. 3, dodaje się ust. 4 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+4. Minister Obrony Narodowej może upoważnić Szefa Służby Wywiadu Wojskowego i Szefa Służby Kontrwywiadu Wojskowego lub osoby przez nich wskazane do wyrażania zgody na brakowanie dokumentacji niearchiwalnej powstałej w wyniku działalności jednostek organizacyjnych odpowiednio Służby Wywiadu Wojskowego i Służby Kontrwywiadu Wojskowego. ” ;
+
+- **6)** w art. 21: w ust. 1: – pkt 4 otrzymuje brzmienie: „ 4) nadzór nad gromadzeniem, ewidencjonowaniem, przechowywaniem, opracowywaniem, udostępnianiem i zabezpieczaniem materiałów archiwalnych oraz brakowaniem dokumentacji niearchiwalnej; ” , – w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 i 10 w brzmieniu: „ 9) popularyzacja wiedzy o materiałach archiwalnych i archiwach oraz prowadzenie działalności informacyjnej i wydawniczej; 10) wykonywanie zadań z zakresu informatyzacji podległych mu archiwów państwowych, polegających na projektowaniu, wdrażaniu, eksploatacji, integracji, rozwoju i udostępnianiu im systemów teleinformatycznych obsługujących działalność archiwalną, zabezpieczaniu danych osobowych przetwarzanych w tych systemach, koordynowaniu tych działań oraz zapewnieniu możliwości wymiany danych pomiędzy tymi systemami. ” , po ust. 1a dodaje się ust. 1b w brzmieniu: „
+    - **a)**
+    - **b)**
+
+1b. Naczelny Dyrektor Archiwów Państwowych może powierzyć podległemu mu archiwum wykonywanie zadań, o których mowa w ust. 1 pkt 10. ” , ust. 2 otrzymuje brzmienie: „
+
+- **c)**
+
+2. Naczelny Dyrektor Archiwów Państwowych uprawniony jest do kontroli przestrzegania przepisów o narodowym zasobie archiwalnym i archiwach przez podmioty wymienione w art. 22. ” ;
+
+- **7)** po art. 21 dodaje się art. 21a-21d w brzmieniu: „
+
+**Art. 21a.**
+
+1. Naczelny Dyrektor Archiwów Państwowych zawiadamia kierownika kontrolowanej jednostki organizacyjnej, zwanej dalej „jednostką kontrolowaną”, o kontroli, o której mowa w art. 21 ust. 2, nie później niż w terminie 7 dni przed dniem rozpoczęcia kontroli; od zawiadomienia można odstąpić w przypadku zagrożenia dokumentacji zniszczeniem, uszkodzeniem lub utratą.
+
+2. Kontrolę przeprowadza wyznaczony przez Naczelnego Dyrektora Archiwów Państwowych pracownik Naczelnej Dyrekcji Archiwów Państwowych lub archiwum państwowego, zwany dalej „kontrolerem”, na podstawie imiennego upoważnienia do przeprowadzenia kontroli, po okazaniu dokumentu potwierdzającego tożsamość oraz, w razie potrzeby, odpowiedniego poświadczenia bezpieczeństwa.
+
+3. Upoważnienie do przeprowadzenia kontroli zawiera:
+
+- **1)** oznaczenie wydającego upoważnienie oraz datę wydania upoważnienia;
+- **2)** podstawę prawną kontroli;
+- **3)** imię, nazwisko i stanowisko służbowe kontrolera;
+- **4)** nazwę i adres jednostki kontrolowanej;
+- **5)** zakres i przedmiot kontroli;
+- **6)** okres ważności upoważnienia;
+- **7)** podpis wydającego upoważnienie.
+
+4. Kontrolerowi przysługuje prawo do:
+
+- **1)** swobodnego poruszania się na terenie siedziby jednostki kontrolowanej oraz w miejscu wykonywania jej zadań w strefach ogólnie dostępnych, a w przypadku stref zamkniętych – do poruszania się wyłącznie pod nadzorem pracownika wyznaczonego przez kierownika jednostki kontrolowanej;
+- **2)** wglądu do dokumentacji dotyczącej zakresu i przedmiotu kontroli lub mającej znaczenie dla ustalenia stanu faktycznego, z zachowaniem przepisów o tajemnicy prawnie chronionej;
+- **3)** żądania udzielenia ustnych lub pisemnych wyjaśnień;
+- **4)** korzystania z pomocy biegłych.
+
+5. Jeżeli w toku kontroli konieczne jest zbadanie zagadnień wymagających wiadomości specjalnych, Naczelny Dyrektor Archiwów Państwowych, z własnej inicjatywy lub na wniosek kontrolera, powołuje biegłego, określając zakres i przedmiot opinii, termin jej wydania oraz wysokość wynagrodzenia.
+
+6. Kierownik jednostki kontrolowanej jest obowiązany do:
+
+- **1)** zapewnienia warunków i środków niezbędnych do sprawnego przeprowadzenia kontroli;
+- **2)** przedstawienia, na żądanie kontrolera, dokumentacji dotyczącej zakresu i przedmiotu kontroli lub mającej znaczenie dla ustalenia stanu faktycznego;
+- **3)** pisemnego wskazania imienia i nazwiska osoby upoważnionej do reprezentowania go podczas kontroli w czasie jego nieobecności.
+
+7. Kontroler jest obowiązany do zachowania w tajemnicy informacji, które uzyskał w związku z wykonywaniem czynności służbowych; obowiązek ten trwa również po ustaniu zatrudnienia.
+
+1. Wyniki kontroli kontroler przedstawia w protokole kontroli.
+
+2. Protokół kontroli zawiera:
+
+- **1)** nazwę i adres jednostki kontrolowanej;
+- **2)** określenie aktu prawnego stanowiącego podstawę prawną działania jednostki kontrolowanej;
+- **3)** nazwę organu, któremu jednostka kontrolowana jest podległa lub który sprawuje nad nią nadzór, i jego adres;
+- **4)** imię i nazwisko kierownika jednostki kontrolowanej;
+- **5)** imię, nazwisko i stanowisko służbowe kontrolera oraz datę wydania upoważnienia do przeprowadzenia kontroli;
+- **6)** datę rozpoczęcia i zakończenia kontroli, ze wskazaniem dni będących przerwami w kontroli;
+- **7)** zakres i przedmiot kontroli;
+- **8)** informację o statucie i regulaminie organizacyjnym jednostki kontrolowanej wraz z opisem jej struktury organizacyjnej;
+- **9)** w przypadku jednostki kontrolowanej w stanie likwidacji, której upadłość ogłoszono, w toku przekształcenia lub innych zmian organizacyjnych – informację o terminie wszczęcia likwidacji, ogłoszenia upadłości lub wprowadzenia zmian organizacyjnych oraz przewidywanym terminie ich zakończenia;
+- **10)** informację o dokonanych w przeszłości zmianach organizacyjnych, które mają wpływ na sposób realizacji przez jednostkę kontrolowaną zadań określonych w przepisach o narodowym zasobie archiwalnym i archiwach;
+- **11)** informację o instrukcji kancelaryjnej, jednolitym rzeczowym wykazie akt, kwalifikatorze dokumentacji i instrukcji w sprawie organizacji i zakresu działania archiwum zakładowego lub składnicy akt obowiązujących w jednostce kontrolowanej;
+- **12)** informację o kontrolach dotyczących przestrzegania przepisów o narodowym zasobie archiwalnym i archiwach przeprowadzonych przez inne podmioty;
+- **13)** opis ustalonego w wyniku kontroli stanu faktycznego, w tym stwierdzonych nieprawidłowości, przyczyn ich powstania, zakresu i skutków oraz imiona, nazwiska i funkcję (stanowisko) osób odpowiedzialnych za nieprawidłowości;
+- **14)** wskazanie podstaw dokonanych ustaleń;
+- **15)** informację o realizacji zaleceń pokontrolnych wydanych w wyniku ostatniej kontroli;
+- **16)** pouczenie o prawie, sposobie i terminie zgłoszenia zastrzeżeń do ustaleń zawartych w protokole kontroli oraz o prawie do odmowy podpisania tego protokołu;
+- **17)** wzmiankę o zgłoszeniu zastrzeżeń do ustaleń zawartych w protokole kontroli oraz o stanowisku zajętym wobec nich przez kontrolera;
+- **18)** omówienie dokonanych w protokole kontroli poprawek, skreśleń i uzupełnień;
+- **19)** podpis kontrolera oraz wskazanie miejsca i daty podpisania protokołu kontroli;
+- **20)** podpis kierownika jednostki kontrolowanej oraz wskazanie miejsca i daty podpisania protokołu kontroli albo w przypadku odmowy podpisania protokołu kontroli – wzmiankę o tym fakcie.
+
+3. Kierownik jednostki kontrolowanej, przed podpisaniem protokołu kontroli, może zgłosić pisemne umotywowane zastrzeżenia do ustaleń zawartych w protokole kontroli, w terminie 14 dni od dnia jego otrzymania.
+
+4. Kontroler w przypadku zgłoszenia zastrzeżeń do ustaleń zawartych w protokole kontroli, w terminie 14 dni od dnia ich otrzymania, dokonuje analizy zastrzeżeń i w miarę potrzeby podejmuje dodatkowe czynności kontrolne.
+
+5. W przypadku stwierdzenia, że zastrzeżenia do ustaleń zawartych w protokole kontroli są zasadne w całości lub w części, kontroler zmienia lub uzupełnia protokół kontroli.
+
+6. W przypadku nieuwzględnienia zastrzeżeń do ustaleń zawartych w protokole kontroli w całości kontroler pozostawia protokół kontroli bez zmian.
+
+7. Kierownik jednostki kontrolowanej może odmówić podpisania protokołu kontroli, składając w terminie 7 dni od dnia jego otrzymania pisemne wyjaśnienie przyczyn odmowy.
+
+8. W przypadku odmowy podpisania protokołu kontroli kontroler dołącza do niego pisemne wyjaśnienie przyczyn odmowy.
+
+9. Odmowa podpisania protokołu kontroli przez kierownika jednostki kontrolowanej nie stanowi przeszkody do podpisania protokołu przez kontrolera.
+
+1. Naczelny Dyrektor Archiwów Państwowych, w terminie 2 miesięcy od dnia otrzymania protokołu kontroli, przekazuje kierownikowi jednostki kontrolowanej wystąpienie pokontrolne.
+
+2. Wystąpienie pokontrolne zawiera:
+
+- **1)** oznaczenie wydającego wystąpienie;
+- **2)** nazwę i adres jednostki kontrolowanej;
+- **3)** podstawę prawną kontroli;
+- **4)** imię, nazwisko i stanowisko służbowe kontrolera;
+- **5)** datę rozpoczęcia i zakończenia kontroli;
+- **6)** zakres i przedmiot kontroli;
+- **7)** ocenę działalności jednostki kontrolowanej w zakresie objętym kontrolą, w tym stwierdzone nieprawidłowości;
+- **8)** zalecenia dotyczące sposobu usunięcia nieprawidłowości;
+- **9)** termin usunięcia nieprawidłowości lub termin opracowania harmonogramu realizacji zaleceń i jego wdrożenia;
+- **10)** podpis wydającego wystąpienie;
+- **11)** datę podpisania wystąpienia.
+
+3. Wystąpienie pokontrolne jest przekazywane kierownikowi jednostki kontrolowanej także w przypadku, gdy odmówił on podpisania protokołu kontroli.
+
+4. Kierownik jednostki kontrolowanej, w terminie 21 dni od dnia otrzymania wystąpienia pokontrolnego, może zgłosić pisemne umotywowane zastrzeżenia do oceny i zaleceń zawartych w wystąpieniu pokontrolnym oraz złożyć dodatkowe wyjaśnienia i przedstawić dodatkową dokumentację.
+
+5. Naczelny Dyrektor Archiwów Państwowych, w terminie 21 dni od dnia otrzymania zastrzeżeń:
+
+- **1)** zmienia wystąpienie pokontrolne i zmienione wystąpienie wraz z uzasadnieniem przekazuje kierownikowi jednostki kontrolowanej – w przypadku stwierdzenia zasadności całości lub części zastrzeżeń albo
+- **2)** odmawia zmiany wystąpienia pokontrolnego i swoje stanowisko wraz z uzasadnieniem przekazuje kierownikowi jednostki kontrolowanej – w przypadku nieuwzględnienia zastrzeżeń w całości.
+
+6. Kierownik jednostki kontrolowanej jest obowiązany wykonać zalecenia zawarte w wystąpieniu pokontrolnym.
+
+7. Kierownik jednostki kontrolowanej, w terminie określonym w wystąpieniu pokontrolnym, informuje Naczelnego Dyrektora Archiwów Państwowych o sposobie wykonania zaleceń zawartych w tym wystąpieniu i działaniach podjętych w celu usunięcia nieprawidłowości lub przyczynach niepodjęcia takich działań.
+
+8. Jeżeli jednostka kontrolowana nie wykonuje zaleceń zawartych w wystąpieniu pokontrolnym, Naczelny Dyrektor Archiwów Państwowych występuje do organu nadrzędnego nad jednostką kontrolowaną albo organu sprawującego nad nią nadzór z wnioskiem o zastosowanie środków nadzoru zmierzających do usunięcia stwierdzonych w trakcie kontroli nieprawidłowości.
+
+1. Łączny czas trwania kontroli jednostki kontrolowanej, w tym obejmujący również dodatkowe czynności kontrolne, o których mowa w art. 21b ust. 4, nie może w roku kalendarzowym przekraczać 30 dni roboczych.
+
+2. Przepisu ust. 1 nie stosuje się do kontroli przeprowadzanej w archiwach państwowych podległych Naczelnemu Dyrektorowi Archiwów Państwowych. ” ;
+
+- **8)** po art. 22 dodaje się art. 22a w brzmieniu: „
+
+**Art. 22a.** Podmioty, o których mowa w art. 22 ust. 1 pkt 2–3a oraz ust. 2, w zakresie prowadzonej działalności archiwalnej mogą, na podstawie umowy albo porozumienia zawartych z Naczelnym Dyrektorem Archiwów Państwowych lub właściwym archiwum państwowym, nieodpłatnie korzystać z systemów teleinformatycznych, o których mowa w art. 21 ust. 1 pkt 10. ” ;
+
+- **9)** art. 23 otrzymuje brzmienie: „
+
+**Art. 23.** Działalność archiwalna obejmuje gromadzenie, ewidencjonowanie, przechowywanie, opracowanie, zabezpieczenie i udostępnianie materiałów archiwalnych oraz prowadzenie działalności informacyjnej. ” ;
+
+- **10)** w art. 24 ust. 1 otrzymuje brzmienie: „
+
+1. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, w drodze rozporządzenia, tworzy lub łączy archiwa państwowe oraz ustala ich siedziby i zasięg działania albo likwiduje archiwa państwowe, kierując się potrzebą zapewnienia prawidłowej organizacji archiwów państwowych przez dostosowanie ich liczby, charakteru, wielkości i właściwości miejscowej do ilości przechowywanych materiałów archiwalnych, a także racjonalnego gospodarowania środkami finansowymi oraz mieniem archiwów państwowych. ” ;
+
+- **11)** art. 28 otrzymuje brzmienie: „
+
+**Art. 28.**
+
+1. Do zakresu działania archiwów państwowych należy w szczególności:
+
+- **1)** kształtowanie państwowego zasobu archiwalnego;
+- **2)** gromadzenie, ewidencjonowanie, przechowywanie, opracowanie, zabezpieczenie i udostępnianie materiałów archiwalnych należących do ich zasobu archiwalnego;
+- **3)** kontrola postępowania z materiałami archiwalnymi wchodzącymi do państwowego zasobu archiwalnego i dokumentacją niearchiwalną powstałą i zgromadzoną w organach i jednostkach organizacyjnych, o których mowa w art. 5 ust. 1, bez względu na miejsce i tytuł prawny przechowywania tych materiałów lub dokumentacji, z wyłączeniem organów posiadających archiwa wyodrębnione;
+- **4)** wydawanie uwierzytelnionych odpisów, wypisów, wyciągów i reprodukcji przechowywanych materiałów, a także wydawanie zaświadczeń na podstawie tych materiałów;
+- **5)** prowadzenie prac naukowych oraz wydawniczych w dziedzinie archiwistyki i dziedzin pokrewnych;
+- **6)** popularyzacja wiedzy o materiałach archiwalnych i archiwach oraz prowadzenie działalności informacyjnej;
+- **7)** wykonywanie zadań określonych w przepisach o narodowym zasobie archiwalnym i archiwach.
+
+2. Archiwum państwowe, za zgodą Naczelnego Dyrektora Archiwów Państwowych, może powierzyć innemu archiwum państwowemu przeprowadzenie kontroli, o której mowa w ust. 1 pkt 3.
+
+3. Naczelny Dyrektor Archiwów Państwowych w sprawach, o których mowa w ust. 1 pkt 1 i 3 oraz ust. 2, dotyczących podległych mu archiwów państwowych, może wydawać zarządzenia.
+
+4. Do kontroli, o której mowa w ust. 1 pkt 3, przepisy art. 21a-21d stosuje się odpowiednio. ” ;
+
+- **12)** w art. 29: w ust. 1 w pkt 6 uchyla się lit. d, uchyla się ust. 6;
+    - **a)**
+    - **b)**
+
+- **13)** w art. 31 w ust. 1 uchyla się pkt 5;
+- **14)** w art. 32 uchyla się ust. 2 i 3;
+- **15)** w art. 34 ust. 1 otrzymuje brzmienie: „
+
+1. Kierownicy jednostek organizacyjnych, o których mowa w art. 33, są obowiązani zapewnić:
+
+- **1)** gromadzenie, przechowywanie, ewidencjonowanie i odpowiednie zabezpieczenie materiałów archiwalnych i dokumentacji niearchiwalnej, tworzących zasób podległych im archiwów zakładowych;
+- **2)** klasyfikowanie i kwalifikowanie materiałów archiwalnych i dokumentacji niearchiwalnej, a także przekazywanie materiałów archiwalnych właściwym archiwom państwowym oraz brakowanie dokumentacji niearchiwalnej. ” ;
+- **16)** w art. 36 w ust. 2 pkt 2 otrzymuje brzmienie: „
+- **2)** umożliwić właściwemu archiwum państwowemu nadzór nad brakowaniem dokumentacji niearchiwalnej; ” ;
+- **17)** po art. 36 dodaje się art. 36a w brzmieniu: „
+
+**Art. 36a.** Jeżeli jednostka, o której mowa w art. 33 i art. 36, posiada struktury terenowe, archiwum zakładowe lub składnicę akt można utworzyć odrębnie dla każdej takiej struktury, o ile spełnia ona co najmniej jedno z następujących kryteriów: 1) jest zorganizowaną, wyodrębnioną i samodzielną całością położoną w miejscu zidentyfikowanym odrębnym adresem, pod którym lub z którego prowadzona jest działalność; 2) prowadzi działalność o zasięgu regionalnym i dla potrzeb regionalnych; 3) posiada dokumentację przydatną dla potrzeb określonych w art. 16 ust. 1 na terenie, na którym jest ona wytwarzana i gromadzona. ” ;
+
+- **18)** art. 40 otrzymuje brzmienie: „
+
+**Art. 40.**
+
+1. Prawa i obowiązki pracowników Naczelnej Dyrekcji Archiwów Państwowych i archiwów państwowych, do których nie mają zastosowania przepisy ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2014 r. poz. 1111 i 1199 oraz z 2015 r. poz. 211), określają przepisy ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2013 r. poz. 269 oraz z 2014 r. poz. 1199).
+
+2. W Naczelnej Dyrekcji Archiwów Państwowych i archiwach państwowych można zatrudniać pracowników naukowych. Do pracowników naukowych stosuje się przepisy art. 39 ust. 2, art. 41, art. 42, art. 43 ust. 1 pkt 1, 2, 4 i 5 oraz ust. 2, 3, 5 i 6, art. 44 ust. 1 i ust. 5 pkt 1–4 i 6, art. 47 ust. 5, art. 59 i art. 60 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. Nr 96, poz. 618, z późn. zm.), a w zakresie zasad wynagradzania – przepisy ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych, z wyjątkiem art. 11 i art. 12 tej ustawy. ” ;
+
+- **19)** po art. 43 dodaje się art. 43a w brzmieniu: „
+
+**Art. 43a.** Na zasadach określonych w ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2014 r. poz. 1118, 1138 i 1146) Naczelny Dyrektor Archiwów Państwowych może zlecać realizację zadań publicznych w zakresie ewidencjonowania, przechowywania, opracowania, udostępniania lub zabezpieczenia materiałów archiwalnych, o których mowa w art. 42. ” ;
+
+- **20)** w art. 44: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Z chwilą trwałego zaprzestania działalności przez jednostkę organizacyjną, o której mowa w art. 42, jej materiały archiwalne stają się własnością Państwa, wchodzą do państwowego zasobu archiwalnego i podlegają przekazaniu do właściwej jednostki państwowej sieci archiwalnej wskazanej decyzją Naczelnego Dyrektora Archiwów Państwowych. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+- **b)**
+
+1a. Jeżeli ewidencjonowanie, przechowywanie, opracowanie, udostępnianie lub zabezpieczenie materiałów archiwalnych, o których mowa w art. 42, było realizowane na zasadach określonych w art. 43a, materiały te:
+
+- **1)** z dniem wszczęcia likwidacji lub ogłoszenia upadłości jednostki organizacyjnej przechowującej je stają się własnością Państwa i wchodzą do państwowego zasobu archiwalnego;
+- **2)** podlegają przekazaniu do archiwum państwowego wskazanego decyzją Naczelnego Dyrektora Archiwów Państwowych niezwłocznie po wszczęciu likwidacji lub ogłoszeniu upadłości jednostki organizacyjnej, o której mowa w pkt 1. ” , ust. 2 i 3 otrzymują brzmienie: „
+    - **c)**
+
+2. Materiały archiwalne, o których mowa w art. 42, mogą stać się własnością Państwa, z następstwami określonymi w ust. 1, decyzją właściwych organów niepaństwowych jednostek organizacyjnych.
+
+3. Materiały archiwalne, o których mowa w art. 42, mogą być przekazywane w depozyt archiwom państwowym. ” , dodaje się ust. 4 w brzmieniu: „
+
+- **d)**
+
+4. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, po zasięgnięciu opinii Naczelnego Dyrektora Archiwów Państwowych, w drodze rozporządzenia, określi warunki i tryb przekazywania do archiwów państwowych materiałów archiwalnych, o których mowa w art. 42, w przypadkach określonych w ust. 1–3, uwzględniając wartość historyczną dokumentacji, stan jej uporządkowania i zewidencjonowania oraz ochronę przed uszkodzeniem, zniszczeniem lub utratą. ” ;
+
+- **21)** w art. 47 ust. 3 otrzymuje brzmienie: „
+
+3. Przeniesienie własności w drodze umowy sprzedaży materiałów, o których mowa w art. 46, na rzecz Państwa jest zwolnione od opłat notarialnych. ” ;
+
+- **22)** w art. 51c: w ust. 1 pkt 1 otrzymuje brzmienie: „1) firmę przedsiębiorcy oraz jego siedzibę i adres;”, w ust. 3 pkt 1 otrzymuje brzmienie: „1) firmę przedsiębiorcy oraz jego siedzibę i adres;”;
+    - **a)**
+    - **b)**
+
+- **23)** w art. 51h dotychczasową treść oznacza się jako ust. 1 i dodaje ust. 2–5 w brzmieniu: „
+
+2. Naczelny Dyrektor Archiwów Państwowych może wydać decyzję nakazującą złożenie dokumentacji osobowej i płacowej zgromadzonej przez przedsiębiorcę, wobec którego wydano decyzję, o której mowa w ust. 1 pkt 1, lub orzeczenie, o którym mowa w ust. 1 pkt 2, na odpłatne przechowywanie we wskazanym archiwum państwowym, jeżeli przedsiębiorca został wykreślony z Krajowego Rejestru Sądowego lub z Centralnej Ewidencji i Informacji o Działalności Gospodarczej, a ponadto istnieje zagrożenie zniszczenia zgromadzonej przez przedsiębiorcę dokumentacji, w szczególności na skutek oddziaływania czynników atmosferycznych lub bezprawnego działania osób trzecich, a brak jest podstaw prawnych do jej przekazania innemu podmiotowi do dalszego przechowywania.
+
+3. Przed wydaniem decyzji, o których mowa w ust. 2, Naczelny Dyrektor Archiwów Państwowych dokonuje oceny dokumentacji w miejscu, w którym się ona znajduje.
+
+4. Decyzji, o której mowa w ust. 2, nadaje się rygor natychmiastowej wykonalności.
+
+5. Przy określaniu kosztów przejęcia, ewidencjonowania, przechowywania i konserwacji dokumentacji przepisy art. 51p ust. 6–9 oraz art. 51z ust. 4 i 5 stosuje się odpowiednio. ” ;
+
+- **24)** w art. 51i: pkt 3 otrzymuje brzmienie: „
+    - **a)**
+
+- **3)** spółdzielni podlegającej podziałowi lub połączeniu z inną spółdzielnią, nie przechodzą na spółdzielnie powstałe w wyniku podziału lub połączenia; ” , dodaje się pkt 4 w brzmieniu: „
+    - **b)**
+
+- **4)** przedsiębiorcy niewymienionego w pkt 2 lub 3 podlegającego podziałowi lub połączeniu, nie przechodzą na podmiot powstały w wyniku podziału lub połączenia. ” ;
+- **25)** w art. 51p ust. 6 otrzymuje brzmienie: „
+
+6. W przypadku ogłoszenia upadłości przedsiębiorcy, środki, o których mowa w ust. 1, stanowią daninę publiczną w rozumieniu art. 342 ust. 1 pkt 3 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. z 2015 r. poz. 233). ” ;
+
+- **26)** w art. 51u ust. 2 i 3 otrzymują brzmienie: „
+
+2. Określony w ust. 1 obowiązek wskazania podmiotu przejmującego dokumentację oraz zapewnienia środków na jej przechowywanie nie dotyczy pracodawców, do których mają zastosowanie przepisy art. 5.
+
+3. W przypadku stwierdzenia przez sąd rejestrowy, na wniosek pracodawcy podlegającego wpisowi do Krajowego Rejestru Sądowego lub do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, niemożności zapewnienia środków na koszty dalszego przechowywania, dokumentację przejmuje archiwum państwowe, utworzone w tym celu przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego. ” ;
+
+- **27)** w art. 51z: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Naczelny Dyrektor Archiwów Państwowych może wydać decyzję nakazującą złożenie dokumentacji, która należała do pracodawcy wykreślonego z Krajowego Rejestru Sądowego lub z Centralnej Ewidencji i Informacji o Działalności Gospodarczej, na odpłatne przechowywanie we wskazanym archiwum państwowym, jeżeli istnieje zagrożenie jej zniszczenia, w szczególności na skutek oddziaływania czynników atmosferycznych lub bezprawnego działania osób trzecich, a brak jest podstaw prawnych do jej przekazania innemu podmiotowi do dalszego przechowywania. ” , ust. 5 otrzymuje brzmienie: „
+
+- **b)**
+
+5. Koszty przejęcia, zewidencjonowania, przechowania i konserwacji dokumentacji przez archiwa państwowe ponoszą solidarnie osoby zarządzające lub pełniące funkcje organu zarządzającego pracodawcy w dniu jego wykreślenia z Krajowego Rejestru Sądowego lub Centralnej Ewidencji i Informacji o Działalności Gospodarczej. ” .
+
+**Art. 2.** Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, dotyczących:
+
+- **1)** uzgadniania jednolitych rzeczowych wykazów akt z Naczelnym Dyrektorem Archiwów Państwowych lub dyrektorem właściwego archiwum państwowego,
+- **2)** przekazywania materiałów archiwalnych do archiwów państwowych,
+- **3)** brakowania dokumentacji innej niż stanowiąca materiały archiwalne, zwanej dalej „dokumentacją niearchiwalną” stosuje się przepisy dotychczasowe.
+
+**Art. 3.** Do spraw dotyczących przekazania do archiwów państwowych materiałów archiwalnych, o których mowa w art. 44 ust. 1–3 ustawy, o której mowa w art. 1, w których powiadomienie o zamiarze przekazania materiałów archiwalnych zostało złożone przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+
+**Art. 4.** Zgody generalne na brakowanie dokumentacji niearchiwalnej, wydane przed dniem wejścia w życie niniejszej ustawy, zachowują ważność przez okres, na jaki zostały wydane.
+
+**Art. 5.** Wnioski w sprawie wyrażenia zgody generalnej na brakowanie dokumentacji niearchiwalnej, złożone i nierozpatrzone przed dniem wejścia w życie niniejszej ustawy, pozostawia się bez rozpatrzenia.
+
+**Art. 6.** Jednolite rzeczowe wykazy akt, wydane przed dniem wejścia w życie niniejszej ustawy, zachowują moc do dnia wejścia w życie nowych jednolitych rzeczowych wykazów akt.
+
+**Art. 7.** Instrukcje wydane na podstawie art. 6 ust. 2 ustawy, o której mowa w art. 1, w brzmieniu dotychczasowym, zachowują moc do dnia wejścia w życie instrukcji wydanych na podstawie art. 6 ust. 2 pkt 1 i 3 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+**Art. 8.**
+
+1. W terminie 3 lat od dnia wejścia w życie niniejszej ustawy, organy i jednostki organizacyjne posiadające na podstawie przepisów dotychczasowych materiały archiwalne organów lub jednostek organizacyjnych wymienionych w art. 5 ust. 1 ustawy, o której mowa w art. 1, które trwale zaprzestały działalności, mogą zawrzeć odpowiednio porozumienie lub umowę użyczenia dotyczące dalszego przechowywania tych materiałów archiwalnych, na zasadach określonych w ustawie, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, albo złożyć oświadczenie o braku zamiaru zawarcia porozumienia lub umowy użyczenia.
+
+2. Jeżeli w terminie, o którym mowa w ust. 1, nie zawarto porozumienia lub umowy użyczenia albo nie zostało złożone oświadczenie o braku zamiaru zawarcia porozumienia lub umowy użyczenia, materiały archiwalne podlegają niezwłocznie przekazaniu do archiwum państwowego.
+
+**Art. 9.**
+
+1. W sprawach dotyczących przekazania materiałów archiwalnych do Centralnego Archiwum Wojskowego i wyrażenia zgody na brakowanie dokumentacji niearchiwalnej przez Szefa Centralnego Archiwum Wojskowego, wszczętych na wniosek kierowników komórek organizacyjnych wykonujących zadania w zakresie obronności i bezpieczeństwa państwa, utworzonych w urzędach obsługujących organy państwowe i państwowych jednostkach organizacyjnych oraz w urzędach obsługujących organy jednostek samorządu terytorialnego i innych samorządowych jednostkach organizacyjnych, i niezakończonych przed dniem wejścia w życie niniejszej ustawy, organem właściwym jest dyrektor właściwego archiwum państwowego, z tym że do załatwiania tych spraw stosuje się przepisy dotychczasowe.
+
+2. Centralne Archiwum Wojskowe przekazuje niezwłocznie sprawy, o których mowa w ust. 1, wraz z kompletem akt do właściwego archiwum państwowego oraz informuje o tym wnioskodawcę.
+
+**Art. 10.**
+
+1. W terminie roku od dnia wejścia w życie niniejszej ustawy dokumentację wytworzoną przez komórki organizacyjne wykonujące zadania w zakresie obronności i bezpieczeństwa państwa, utworzone w urzędach obsługujących organy państwowe i państwowych jednostkach organizacyjnych oraz w urzędach obsługujących organy jednostek samorządu terytorialnego i innych samorządowych jednostkach organizacyjnych, włącza się, na podstawie protokołu, do zasobu archiwum zakładowego (składnicy akt) jednostki organizacyjnej, w której ta komórka działa.
+
+2. Do dnia włączenia dokumentacji, o której mowa w ust. 1, do zasobu archiwum zakładowego (składnicy akt) archiwa wyodrębnione komórek organizacyjnych wykonujących dotychczas zadania w zakresie obronności i bezpieczeństwa państwa, o których mowa w ust. 1:
+
+- **1)** nie przejmują nowej dokumentacji;
+- **2)** przekazują do archiwum zakładowego (składnicy akt) niezakończone sprawy związane z przejmowaniem dokumentacji;
+- **3)** udostępniają przechowywaną dokumentację, zgodnie z przepisami wydanymi na podstawie art. 17 ust. 3 ustawy, o której mowa w art. 1.
+
+3. Do dnia włączenia dokumentacji, o której mowa w ust. 1, do zasobu archiwum zakładowego (składnicy akt) stosuje się przepisy wydane na podstawie art. 29 ust. 6 ustawy, o której mowa w art. 1, w brzmieniu dotychczasowym.
+
+**Art. 11.** Wnioski dotyczące zaopiniowania zarządzeń w sprawie utworzenia i organizacji archiwum wyodrębnionego, złożone na podstawie art. 29 ust. 6 ustawy, o której mowa w art. 1, w brzmieniu dotychczasowym, pozostawia się bez rozpatrzenia.
+
+**Art. 12.** W terminie roku od dnia wejścia w życie niniejszej ustawy materiały archiwalne zgromadzone w Centralnym Archiwum Wojskowym, wytworzone w związku z wykonywaniem zadań w zakresie obronności i bezpieczeństwa państwa oraz przekazane do Centralnego Archiwum Wojskowego przez komórki organizacyjne, o których mowa w art. 9 ust. 1, wykonujące takie zadania po dniu 25 kwietnia 2007 r., podlegają przekazaniu do archiwów państwowych, w trybie określonym w przepisach wydanych na podstawie art. 5 ust. 2 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+**Art. 13.**
+
+1. Pracownik naukowy zatrudniony w archiwum państwowym przed dniem wejścia w życie niniejszej ustawy może w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy rozwiązać stosunek pracy bez wypowiedzenia za siedmiodniowym uprzedzeniem. Rozwiązanie stosunku pracy w tym trybie powoduje skutki, jakie przepisy prawa wiążą z rozwiązaniem stosunku pracy przez pracodawcę za wypowiedzeniem.
+
+2. Archiwa państwowe dostosują strukturę podległości służbowej pracowników do wymogów przepisu art. 39 ust. 2 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. Nr 96, poz. 618, z późn. zm.) w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 14.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 6 miesięcy od dnia ogłoszenia.
+

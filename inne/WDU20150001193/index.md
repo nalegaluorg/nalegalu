@@ -1,0 +1,57 @@
+---
+title: Rozporządzenie Rady Ministrów z dnia 28 lipca 2015 r. zmieniające rozporządzenie w sprawie kamiennogórskiej specjalnej strefy ekonomicznej
+address: WDU20150001193
+eli: DU/2015/1193
+publisher: DU
+year: 2015
+pos: 1193
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Rozporządzenie Rady Ministrówz dnia 28 lipca 2015 r. zmieniające rozporządzenie w sprawie kamiennogórskiej specjalnej strefy ekonomicznej
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2015 poz. 1193 |
+| ISAP | WDU20150001193 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2015-07-28 |
+| Data wydania | 2015-08-17 |
+| Wejście w życie | 2015-09-01 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001193) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1193/text.pdf) |
+
+Treść rozporządzenia
+Na podstawie art. 4 ust. 1 i art. 5a ust. 1 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2015 r. poz. 282) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie kamiennogórskiej specjalnej strefy ekonomicznej (Dz. U. z 2014 r. poz. 1423) wprowadza się następujące zmiany:
+1)
+w § 1 ust. 2 otrzymuje brzmienie:
+„
+2.
+Strefa obejmuje grunty o powierzchni 373,8344 ha, położone na terenie miast: Jawor, Jelenia Góra, Kamienna Góra, Lubań, Ostrów Wielkopolski, Piechowice, Zgorzelec oraz gmin: Bolków, Gryfów Śląski, Janowice Wielkie, Kamienna Góra, Lubań, Lubawka, Mirsk, Nowogrodziec, Prusice i Żmigród.
+” ;
+2)
+w załączniku do rozporządzenia SZCZEGÓŁOWY OPIS GRANIC I TERENU KAMIENNOGÓRSKIEJ SPECJALNEJ STREFY EKONOMICZNEJ MAŁEJ PRZEDSIĘBIORCZOŚCI:
+a)
+w Podstrefie Kamienna Góra:
+– opis granic i terenu Kompleksu 2 otrzymuje brzmienie: „ Kompleks 2 Obręb ewidencyjny III, arkusz mapy nr 5 Granica biegnie od punktu nr 48, położonego u zbiegu granic działek nr: 139/1, 274 i 83/19 w kierunku północno-wschodnim do punktu nr 49, położonego u zbiegu granic działek nr: 296 (droga), 83/21 i 83/22 (droga). Tu załamuje się w kierunku południowo-wschodnim i biegnie do punktu nr 50, znajdującego się u zbiegu granic działek nr: 83/26, 83/33 i 83/31. Stąd biegnie w kierunku północno-wschodnim wzdłuż granicy działki nr 83/31 do punktu nr 51, w którym skręca w kierunku północno-zachodnim, i biegnąc wzdłuż granicy działki nr 83/31 dochodzi do punktu nr 52. Tu skręca na wschód i biegnie wzdłuż granic działek nr 83/31 i 83/30 do punktu nr 53, w którym skręca na południowy wschód, i wzdłuż granicy działki nr 83/30 dochodzi do punktu nr 54. Tu zmienia kierunek na południowo-zachodni i biegnie wzdłuż granic działek nr 83/30 i 83/33 do punktu nr 55, w którym zmienia kierunek na południowy, i wzdłuż granicy działki nr 83/33 dochodzi do punktu nr 56. Tu skręca na zachód i biegnie wzdłuż granic działek nr 83/33 i 83/28 do punktu nr 57. Stąd biegnie w kierunku północno-zachodnim wzdłuż granicy działki nr 83/28 do punktu nr 58, w którym skręca na północny wschód, i biegnie wzdłuż granicy działki nr 83/28 do punktu nr 59. Tu skręca na północny zachód i biegnie wzdłuż granic działek nr 83/33 i 83/19 do punktu nr 48, od którego rozpoczęto opis. ” ,
+– na końcu dodaje się opis granic i terenu Kompleksu 11 w brzmieniu: „ Kompleks 11 Obręb ewidencyjny 1, arkusz mapy nr 3b Granica biegnie od punktu nr 60, położonego na granicy działek nr 20/1 (droga) i 50/24, w kierunku północno-zachodnim przez teren działki nr 50/24 przez punkt nr 61 do punktu nr 62. Tu skręca na północny wschód i biegnie wzdłuż granicy działki nr 50/24 przez punkt nr 63 do punktu nr 64. Stąd biegnie na południowy wschód wzdłuż granicy działki nr 50/24 przez punkt nr 65 do punktu nr 66. Tu skręca w kierunku południowym i biegnie wzdłuż granicy działki nr 52/8 do punktu nr 67. Stąd biegnie w kierunku południowym przez teren działki nr 52/8 do punktu nr 68. Tu skręca na zachód i biegnie przez teren działki nr 52/8 przez punkt nr 69 do punktu nr 70, w którym skręca w kierunku północno-zachodnim, i dochodzi do punktu nr 71. Tu skręca na zachód i biegnie przez teren działki nr 50/24 do punktu nr 72, w którym załamuje się na południowy zachód i przez punkt nr 73 dochodzi do punktu nr 60, od którego rozpoczęto opis. ” ,
+b)
+w Podstrefie Lubawka opis granic i terenu Kompleksu 2 otrzymuje brzmienie: „ Kompleks 2 Obręb ewidencyjny II, arkusz mapy nr 4 Granica biegnie od punktu nr 19, położonego u zbiegu granic działek nr: 276 (droga), 277/1 i 278/3, w kierunku południowo-wschodnim wzdłuż granic działek nr 278/3 i 278/2 do punktu nr 20. Tu załamuje się w kierunku północno-wschodnim i biegnie do punktu nr 21. Stąd biegnie w kierunku południowo-wschodnim do punktu nr 22, gdzie skręca na południowy zachód, i biegnie wzdłuż zachodniej granicy działki nr 279 (droga) do punktu nr 23. Tu zmienia kierunek na północno-zachodni i biegnie wzdłuż granic działek nr 278/2 i 278/3 do punktu nr 24, w którym skręca na północ, i biegnie wzdłuż granicy działki nr 278/3 do punktu nr 19, od którego rozpoczęto opis. ” ,
+c)
+w Podstrefie Jelenia Góra opis granic i terenu Kompleksu 2 otrzymuje brzmienie: „ Kompleks 2 Obręb ewidencyjny nr 2, Cieplice II, arkusz mapy nr 4 Obszar 1 Granica biegnie od punktu nr 13, położonego u zbiegu granic działek nr: 77/5, 77/6, 77/8 i 77/1, w kierunku południowo-zachodnim do punktu nr 14. Tu zmienia kierunek na północno-zachodni i biegnie wzdłuż granicy działki nr 77/5 do punktu nr 15. Stąd biegnie w kierunku południowo-zachodnim wzdłuż granicy działki nr 76/2 do punktu nr 16, w którym skręca na północny zachód i biegnie wzdłuż granicy działki nr 76/2 do punktu nr 17. Tu zmienia kierunek na południowo-wschodni i biegnie wzdłuż granicy działki nr 76/2 do punktu nr 18, w którym skręca na północ, i wzdłuż granicy działki nr 76/2 dochodzi do punktu nr 19. Stąd biegnie na północny zachód wzdłuż granicy działki nr 76/2 do punktu nr 20. Tu skręca na północ i biegnie wzdłuż granicy działki nr 76/2 do punktu nr 21. Stąd biegnie na południowy wschód wzdłuż granic działek nr 76/2 i 77/5 przez punkt nr 12 do punktu nr 13, od którego rozpoczęto opis. Obszar 2 Granica biegnie od punktu nr 22, położonego u zbiegu granic działek nr: 69, 72/1 i 70/1, w kierunku południowo-wschodnim wzdłuż granic działek nr 72/1 i 72/2 przez punkty nr 23 i 24 do punktu nr 25. Stąd biegnie na południe wzdłuż granicy działki nr 72/2 do punktu nr 26. Tu skręca na północny zachód i biegnie wzdłuż granic działek nr 72/2 i 72/1 przez punkt nr 27 do punktu nr 28. Stąd biegnie na północny wschód wzdłuż granicy działki nr 72/1 do punktu nr 22, od którego rozpoczęto opis. Obszar 3 Granica obszaru biegnie po granicy działki nr 80/6 od punktu nr 29, położonego u zbiegu granic działek nr: 11/5, 80/5 i 80/6, w kierunku północno-wschodnim do punktu nr 30. Tu skręca na południowy wschód i dochodzi do punktu nr 31, z którego biegnie na północny wschód do punktu nr 32. Tu skręca na południowy wschód i biegnie do punktu nr 33, w którym załamuje się na południowy zachód, i biegnie do punktu nr 34. Stąd biegnie na północny zachód przez punkt nr 31 do punktu nr 32, w którym załamuje się w kierunku południowo-wschodnim, i dochodzi do punktu nr 33. Tu skręca w kierunku południowo-zachodnim i dochodzi do punktu nr 34, w którym skręca w kierunku północno-zachodnim, i dochodzi do punktu nr 35. Stąd biegnie na północny wschód do punktu nr 36, w którym skręca na północny zachód, i dochodzi do punktu nr 29, od którego rozpoczęto opis. ” ,
+d)
+w Podstrefie Jawor skreśla się opisy granic i terenów Kompleksów 3 i 4,
+e)
+w Podstrefie Ostrów Wielkopolski:
+– skreśla się opis granic i terenu Kompleksu 3,
+– opis granic i terenu Kompleksu 4 otrzymuje brzmienie: „ Kompleks 4 Obręb ewidencyjny nr 146, arkusz mapy nr 1 Granica kompleksu biegnie po granicy działki nr 2/13 od punktu nr 20, położonego u zbiegu granic działek nr: 2/12, 2/13 i 2/2, w kierunku wschodnim przez punkt nr 21 do punktu nr 22. Stąd biegnie na południe do punktu nr 23, w którym zmienia kierunek na zachodni, i dochodzi do punktu nr 24. Tu skręca na północ i przez punkt nr 25 dochodzi do punktu nr 20, od którego rozpoczęto opis. ” .
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+

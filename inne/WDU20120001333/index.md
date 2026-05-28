@@ -8,12 +8,10 @@ pos: 1333
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie zakresu obowiązywania Konwencji o prawach dziecka, przyjętej dnia 20 listopada 1989 r.
-
-*USTAWA z dnia 10 października 2012 r.*
+# Ustawa z dnia 10 października 2012 r. o zmianie zakresu obowiązywania Konwencji o prawach dziecka, przyjętej dnia 20 listopada 1989 r. w Nowym Jorku
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,9 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2012-10-10 |
 | Data wydania | 2012-11-30 |
+| Wejście w życie | 2012-12-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001333) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1333/text.pdf) |
-
-w Nowym Jorku
 
 **Art. 1.** Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej zmiany zakresu obowiązywania Konwencji o prawach dziecka, przyjętej dnia 20 listopada 1989 r. w Nowym Jorku, poprzez wycofanie zastrzeżeń do art. 7 i art. 38.
 

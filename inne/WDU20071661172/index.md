@@ -22,6 +22,7 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-08-24 |
 | Data wydania | 2007-09-14 |
+| Wejście w życie | 2007-09-29 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071661172) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1172/text.pdf) |
 
@@ -79,6 +80,10 @@ art. 118 otrzymuje brzmienie:
 „
 
 **Art. 1.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. Nr 210, poz. 2135, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 w ust. 1 po pkt 2 dodaje się pkt 3 w brzmieniu: „
+- **3)** inne, niż wymienione w pkt 1 i 2, osoby posiadające obywatelstwo polskie i posiadające miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, które nie ukończyły 18. roku życia lub są w okresie ciąży, porodu i połogu ” ;
+- **2)** art. 3 otrzymuje brzmienie: „
 
 **Art. 3.**
 
@@ -170,7 +175,60 @@ art. 118 otrzymuje brzmienie:
 
 **Art. 12a.** Przepisów ustawy, z wyłączeniem przepisów określających zasady i tryb finansowania z budżetu państwa świadczeń opieki zdrowotnej oraz przepisów określających prawo do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji, nie stosuje się wobec osób, którym świadczenia zdrowotne są udzielane bezpłatnie, bez względu na uprawnienia z tytułu ubezpieczenia zdrowotnego, na podstawie art. 102 pkt 1 i art. 115 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm.). ” ;
 
+- **8)** art. 13 otrzymuje brzmienie: „
+
 **Art. 13.** Świadczenia opieki zdrowotnej udzielane świadczeniobiorcom innym niż ubezpieczeni są finansowane z budżetu państwa, chyba że przepisy odrębne stanowią inaczej. ” ;
+
+- **9)** po art. 13 dodaje się art. 13a w brzmieniu: „ Rada Ministrów określi, w drodze rozporządzenia, sposób i tryb finansowania z budżetu państwa świadczeń opieki zdrowotnej:
+- **1)** udzielanych świadczeniobiorcom, o których mowa w art. 2 ust. 1 pkt 3,
+- **2)** o których mowa w art. 12 pkt 2–5 i w art. 12a uwzględniając zasady i sposób wydatkowania środków publicznych. ” ;
+- **10)** w art. 15 w ust. 2: pkt 13 otrzymuje brzmienie: „
+    - **a)**
+
+- **13)** świadczenia pielęgnacyjne i opiekuńcze; ” , po pkt 13 dodaje się pkt 13a w brzmieniu: „
+    - **b)**
+
+- **13a)** opiekę paliatywną i hospicyjną; ” ;
+- **11)** w art. 16: w ust. 1 pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** orzeczenia o zdolności do prowadzenia pojazdów mechanicznych oraz inne orzeczenia i zaświadczenia lekarskie wydawane na życzenie świadczeniobiorcy, jeżeli nie są one związane z dalszym leczeniem, rehabilitacją, niezdolnością do pracy, kontynuowaniem nauki, uczestnictwem dzieci, uczniów, słuchaczy zakładów kształcenia nauczycieli i studentów w zajęciach sportowych i w zorganizowanym wypoczynku, a także jeżeli nie są wydawane dla celów pomocy społecznej, orzecznictwa o niepełnosprawności lub uzyskania zasiłku pielęgnacyjnego; ” , ust. 4 otrzymuje brzmienie: „
+    - **b)**
+
+4. Koszty badania, wydania orzeczenia lub zaświadczenia, związanego z orzekaniem o niezdolności do pracy dla celów rentowych, ustalaniem uprawnień w ramach ubezpieczeń społecznych, są finansowane przez podmiot, na którego zlecenie zostaje przeprowadzone badanie, wydane orzeczenie lub zaświadczenie. ” ;
+
+- **12)** w art. 21: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Listy oczekujących na udzielenie świadczenia podlegają okresowej, co najmniej raz w miesiącu, ocenie:
+
+- **1)** zespołu oceny przyjęć powołanego przez świadczeniodawcę, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej – w przypadku szpitali;
+- **2)** kierownika świadczeniodawcy, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej – w przypadku świadczeń specjalistycznych w ambulatoryjnej opiece zdrowotnej;
+- **3)** świadczeniodawcy – w przypadku innym niż określone w pkt 1 i 2. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **b)**
+
+2a. W przypadku gdy zespół oceny przyjęć działa przy publicznym zakładzie opieki zdrowotnej, rada społeczna, o której mowa w art. 44b i 44c ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej, może wyznaczyć do zespołu oceny przyjęć swojego przedstawiciela wykonującego zawód medyczny i niebędącego zatrudnionym w tym zakładzie. ” , ust. 3 otrzymuje brzmienie: „
+
+- **c)**
+
+3. Świadczeniodawca, o którym mowa w ust. 1 pkt 1, wyznacza przewodniczącego zespołu spośród osób, o których mowa w ust. 2, a także określa tryb pracy zespołu. ” , w ust. 4 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Do zadań zespołu oceny przyjęć, kierownika świadczeniodawcy albo świadczeniodawcy, o którym mowa w ust. 1 pkt 3, należy przeprowadzanie oceny list oczekujących na udzielenie świadczenia pod względem: ” , ust. 5–7 otrzymują brzmienie: „
+
+- **d)**
+- **e)**
+
+5. Zespół oceny przyjęć sporządza każdorazowo raport z oceny i przedstawia go świadczeniodawcy, o którym mowa w ust. 1 pkt 1.
+
+6. Jeżeli u świadczeniodawcy, o którym mowa w ust. 1 pkt 1, nie udziela świadczeń lekarz specjalista w specjalności zabiegowej, to w skład zespołu oceny przyjęć wchodzą osoby, o których mowa w ust. 2 pkt 2 i 3.
+
+7. Jeżeli w zakładzie opieki zdrowotnej będącym świadczeniodawcą, o którym mowa w ust. 1 pkt 1, działa zespół zarządzania jakością, spełniający warunki określone w ust. 2, wykonuje on zadania, o których mowa w ust. 4 i 5. ” ;
+
+- **13)** w art. 23 ust. 1 otrzymuje brzmienie: „
+
+1. Świadczeniodawca, o którym mowa w art. 20 ust. 1, przekazuje co miesiąc, oddziałowi wojewódzkiemu Funduszu właściwemu ze względu na miejsce udzielania świadczenia, informację zawierającą:
+
+- **1)** liczbę oczekujących i średni czas oczekiwania obliczony w sposób określony w przepisach wydanych na podstawie art. 190 ust. 1;
+- **2)** listy oczekujących na udzielanie świadczeń wysokospecjalistycznych, na podstawie umowy z Funduszem, obejmujące zakres przedmiotowy świadczeń oraz dane określone w przepisach wydanych na podstawie art. 190 ust. 1. ” ;
+- **14)** art. 25 otrzymuje brzmienie: „
 
 **Art. 25.**
 
@@ -401,6 +459,14 @@ art. 118 otrzymuje brzmienie:
 - **26)** po art. 47b dodaje się art. 47c w brzmieniu: „
 
 **Art. 47c.** Osoby, o których mowa w art. 43 ust. 1, inwalidzi wojenni i wojskowi oraz kombatanci mają prawo do korzystania poza kolejnością ze świadczeń opieki zdrowotnej oraz z usług farmaceutycznych udzielanych w aptekach. ” ;
+
+- **27)** w art. 48 ust. 4 i 5 otrzymują brzmienie: „
+
+4. W przypadku programów zdrowotnych realizowanych przez inne niż Fundusz podmioty, o których mowa w ust. 1, wyboru realizatora programu zdrowotnego dokonuje się w drodze konkursu ofert, z zastrzeżeniem odrębnych przepisów.
+
+5. O przeprowadzeniu konkursu ofert o którym mowa w ust. 4, podmiot, o którym mowa w ust. 1, ogłasza w swojej siedzibie i na swojej stronie internetowej co najmniej na 15 dni przed upływem wyznaczonego terminu składania ofert. ” ;
+
+- **28)** art. 49 otrzymuje brzmienie: „
 
 **Art. 49.**
 
@@ -866,6 +932,13 @@ art. 118 otrzymuje brzmienie:
 
 **Art. 125.** Przychody Funduszu:
 
+- **1)** nieujęte w planie finansowym ustalonym zgodnie z art. 121 ust. 3, ust. 5 albo z art. 123 ust. 3: z tytułu nadwyżki przychodów nad kosztami korygującymi koszty świadczeń opieki zdrowotnej z lat ubiegłych, z tytułu nadwyżki przychodów nad kosztami z działalności finansowej,
+    - **a)**
+    - **b)**
+
+- **2)** pochodzące z dotacji przeznaczonych na finansowanie świadczeń opieki zdrowotnej w części dotyczącej oddziału wojewódzkiego Funduszu przeznacza się na pokrycie kosztów świadczeń opieki zdrowotnej w tym oddziale wojewódzkim Funduszu. ” ;
+- **65)** art. 126 otrzymuje brzmienie: „
+
 **Art. 126.**
 
 1. Dyrektor oddziału wojewódzkiego Funduszu sporządza roczne sprawozdanie z wykonania planu finansowego oddziału wojewódzkiego Funduszu.
@@ -1056,7 +1129,39 @@ art. 118 otrzymuje brzmienie:
 
 **Art. 172.** W przypadkach określonych w art. 170 ust. 1 i art. 171 minister właściwy do spraw zdrowia może wystąpić do dyrektora oddziału wojewódzkiego Funduszu o rozwiązanie umowy ze świadczeniodawca albo podmiotem, o którym mowa w art. 163 ust. 1 pkt 3. ” ;
 
+- **84)** w art. 173: w ust. 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje pkt 4 w brzmieniu: „
+    - **a)**
+
+- **4)** aptek, w zakresie refundacji leków. ” , ust. 3 otrzymuje brzmienie: „
+    - **b)**
+
+3. Minister właściwy do spraw zdrowia w upoważnieniu do przeprowadzenia kontroli określa przedmiot i zakres kontroli oraz wskazuje osobę upoważnioną do przeprowadzenia kontroli, zwaną dalej „kontrolerem”.”' po ust. 4 dodaje się ust. 4a w brzmieniu: „
+
+- **c)**
+
+4a. Kontrolerzy, w zakresie ustalonym w upoważnieniu ministra właściwego do spraw zdrowia, mają prawo do:
+
+- **1)** wstępu do wszystkich pomieszczeń kontrolowanego podmiotu;
+- **2)** swobodnego dostępu do: oddzielnego pomieszczenia biurowego, przeznaczonego wyłącznie na potrzeby wykonywania zadań przez kontrolera, środków łączności;
+    - **a)**
+    - **b)**
+
+- **3)** wglądu do wszelkich dokumentów kontrolowanego podmiotu oraz żądania sporządzenia kopii, odpisów i wyciągów z tych dokumentów;
+- **4)** wglądu do danych zawartych w systemie informatycznym kontrolowanego podmiotu oraz żądania sporządzenia kopii lub wyciągów z tych danych, w tym w formie elektronicznej;
+- **5)** żądania wyjaśnień ustnych lub pisemnych od osób pozostających w stosunku pracy, zlecenia lub innym stosunku prawnym o podobnym charakterze z kontrolowanym podmiotem, w tym w formie elektronicznej;
+- **6)** żądania przekazania niezbędnych danych lub sporządzenia zestawień danych, w tym w formie elektronicznej;
+- **7)** zabezpieczenia dokumentów i innych dowodów. ” , uchyla się ust. 10;
+    - **d)**
+
+- **85)** po art. 179 dodaje się art. 179a w brzmieniu: „
+
 **Art. 179a.** Przepisy art. 173–179 stosuje się do kontroli przeprowadzanych przez ministra właściwego do spraw finansów publicznych. ” ;
+
+- **86)** w art. 181 ust. 2 otrzymuje brzmienie: „
+
+2. W sprawach, o których mowa w art. 163 ust. 2, art. 164, art. 165 ust. 3, art. 167, art. 170 i 171, minister właściwy do spraw zdrowia wydaje decyzje administracyjne. ” ;
+
+- **87)** art. 187 otrzymuje brzmienie: „
 
 **Art. 187.**
 
@@ -1088,13 +1193,77 @@ art. 118 otrzymuje brzmienie:
 
 **Art. 188a.** W celu realizacji zadań określonych w ustawie Fundusz jest uprawniony do przetwarzania następujących danych osobowych osób udzielających świadczeń na podstawie umów o udzielanie świadczeń opieki zdrowotnej oraz ubiegających się o zawarcie takich umów:
 
+- **1)** nazwisko i imię (imiona);
+- **2)** nazwisko rodowe;
+- **3)** numer PESEL, a w przypadku jego braku – numer dokumentu potwierdzającego tożsamość;
+- **4)** numer prawa wykonywania zawodu – w przypadku osób, którym nadano ten numer;
+- **5)** dotyczących kompetencji zawodowych istotnych z punktu widzenia udzielania świadczeń opieki zdrowotnej na podstawie umowy z Funduszem. ” ;
+- **90)** w art. 190: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Głównego Urzędu Statystycznego, Prezesa Funduszu, Naczelnej Rady Lekarskiej i Naczelnej Rady Pielęgniarek i Położnych, określi, w drodze rozporządzenia, zakres niezbędnych informacji gromadzonych przez świadczeniodawców, w tym sposób obliczania średniego czasu oczekiwania na udzielenie świadczenia opieki zdrowotnej, szczegółowy sposób rejestrowania tych informacji oraz ich przekazywania ministrowi właściwemu do spraw zdrowia, Funduszowi lub innemu podmiotowi zobowiązanemu do finansowania świadczeń ze środków publicznych, w tym także rodzaje wykorzystywanych nośników informacji oraz wzory dokumentów, biorąc pod uwagę zakres zadań wykonywanych przez te podmioty oraz uwzględniając potrzebę ochrony danych osobowych. ” , uchyla się ust. 4;
+
+- **b)**
+- **91)** po art. 192 dodaje się art. 192a w brzmieniu: „
+
 **Art. 192a.** W celu potwierdzenia udzielenia świadczeń opieki zdrowotnej, Fundusz może zwrócić się do świadczeniobiorcy o informację w zakresie udzielonych mu świadczeń opieki zdrowotnej. ” ;
+
+- **92)** w dziale IX dodaje się art. 192b i 192c w brzmieniu: „
+
+1. Kto, prowadząc obrót lekami lub wyrobami medycznymi albo świadcząc usługi farmaceutyczne, albo posiadając upoważnienie do wystawiania recept na leki podlegające refundacji ze środków publicznych lub mając, z racji zajmowanego stanowiska lub pełnionej funkcji, istotny wpływ na podejmowanie decyzji związanych z zaopatrzeniem świadczeniodawcy w leki lub wyroby medyczne, żąda lub przyjmuje nieuzasadnioną korzyść majątkową dla siebie lub osoby trzeciej, albo jej obietnicę w zamian za wykonanie lub powstrzymanie się od wykonania obowiązku służbowego, które prowadzi do nieuzasadnionego wzrostu poziomu sprzedaży leków lub wyrobów medycznych podlegających refundacji ze środków publicznych, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+
+2. Tej samej karze podlega, kto w przypadkach określonych w ust. 1 oferuje, udziela lub obiecuje udzielić korzyści majątkowej.
+
+3. W przypadku mniejszej wagi sprawca czynu określonego w ust. 1 lub 2 podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+
+4. Nie podlega karze sprawca przestępstwa określonego w ust. 2 albo 3 w związku z ust. 2, jeżeli korzyść majątkowa albo jej obietnica zostały przyjęte, a sprawca zawiadomił o tym fakcie organ powołany do ścigania przestępstw i ujawnił wszystkie istotne okoliczności przestępstwa, zanim organ ten o nim się dowiedział.
+
+1. Kto zajmując się wytwarzaniem lub obrotem lekami lub wyrobami medycznymi podlegającymi refundacji ze środków publicznych różnicuje ceny tych leków i wyrobów medycznych w umowach z hurtowniami farmaceutycznymi, w tym także stosuje uciążliwe lub niejednolite warunki tych umów lub uzależnia zawarcie umowy od przyjęcia lub spełnienia przez hurtownię farmaceutyczną innego świadczenia, niemającego rzeczowego ani zwyczajowego związku z przedmiotem umowy, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+
+2. Tej samej karze podlega, kto w wypadkach określonych w ust. 1 oferuje, udziela lub obiecuje udzielić korzyści majątkowej.
+
+3. W przypadku mniejszej wagi sprawca czynu określonego w ust. 1 lub 2 podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+
+4. Nie podlega karze sprawca przestępstwa określonego w ust. 2 albo 3 w związku z ust. 2, jeżeli korzyść majątkowa albo jej obietnica zostały przyjęte, a sprawca zawiadomił o tym fakcie organ powołany do ścigania przestępstw i ujawnił wszystkie istotne okoliczności przestępstwa, zanim organ ten o nim się dowiedział. ” ;
+
+- **93)** w załączniku w ust. 2: w pkt 1 lit. a otrzymuje brzmienie: „ leczenie padaczki za pomocą implantacji stymulatora nerwu błędnego, z wyjątkiem przypadków, gdy jest to jedyna możliwa do zastosowania metoda terapeutyczna, ” , w pkt 9 dodaje się lit. o-t w brzmieniu: „ raka jelita grubego w celu przedoperacyjnej oceny zaawansowania i wczesnego rozpoznania nawrotu, raka przełyku celem oceny zaawansowania przed leczeniem i wczesnego wykrycia wznowy, nowotworów głowy i szyi w celu wczesnego rozpoznania nawrotu, złośliwych guzów mózgu celem wczesnego rozpoznania nawrotu dla określenia miejsca biopsji, czerniaka w celu kwalifikacji do operacji guza pojedynczego, jeżeli w skali Clarka grubość zmiany przekracza 1,5 mm. ” .
+    - **a)**
+    - **a)**
+    - **b)**
+    - **o)**
+    - **p)**
+    - **r)**
+    - **s)**
+    - **t)**
 
 **Art. 2.** W ustawie z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2002 r. Nr 42, poz. 371, z późn. zm.) art. 18 otrzymuje brzmienie: „
 
 **Art. 18.** Kombatanci i inne osoby uprawnione korzystają z pierwszeństwa do środowiskowej opieki socjalnej w miejscu zamieszkania, w uzyskaniu miejsc w domach pomocy społecznej, w szczególności w domach przeznaczonych dla kombatantów. ” . W ustawie z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. z 2007 r. Nr 14, poz. 89 i Nr 123, poz. 849) wprowadza się następujące zmiany:
 
+- **1)** w art. 54: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. Zadania, o których mowa w ust. 1 pkt 1, 2 i 5, mogą być finansowane ze środków publicznych pozostających w dyspozycji ministra właściwego do spraw zdrowia, podmiotu, który utworzył zakład, oraz jednostki samorządu terytorialnego lub innych podmiotów uprawnionych na podstawie odrębnych przepisów. ” , po ust. 2a dodaje się ust. 2b w brzmieniu: „
+
+- **b)**
+
+2b. Umowy, o których mowa w ust. 1 pkt 1, mogą być również zawierane przez zakład ubezpieczeń działający na podstawie ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. Nr 124, poz. 1151, z późn. zm.). ” ;
+
+- **2)** w art. 67 dodaje się ust. 6–10 w brzmieniu: „
+
+6. W razie poinformowania przez ministra właściwego do spraw zdrowia o wystąpieniu okoliczności zagrażających zapewnieniu dostępu do określonych świadczeń opieki zdrowotnej finansowanych ze środków publicznych podmiot sprawujący nadzór nakłada na zakład opieki zdrowotnej obowiązek podjęcia w określonym czasie działań zmierzających do zapewnienia dostępu do tych świadczeń.
+
+7. Podmiot sprawujący nadzór informuje ministra właściwego do spraw zdrowia oraz dyrektora oddziału wojewódzkiego Narodowego Funduszu Zdrowia właściwego ze względu na siedzibę zakładu opieki zdrowotnej o podjętych działaniach i stanie ich realizacji.
+
+8. Wynagrodzenie za udzielanie świadczeń, o których mowa w ust. 6, jest ustalane na poziomie wynagrodzenia wynikającego z umów o udzielanie świadczeń opieki zdrowotnej w danym rodzaju świadczeń w poprzednim roku.
+
+9. W celu uzyskania wynagrodzenia, o którym mowa w ust. 8, świadczeniodawca składa wniosek do oddziału wojewódzkiego Narodowego Funduszu Zdrowia wraz z wykazem udzielonych świadczeń opieki zdrowotnej.
+
+10. Koszty świadczeń opieki zdrowotnej, o których mowa w ust. 6, pokrywa oddział wojewódzki Narodowego Funduszu Zdrowia, do wysokości środków przeznaczonych na ten cel w planie finansowym. ” .
+
 **Art. 4.** W ustawie z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. Nr 88, poz. 439, z późn. zm.) w art. 25 w ust. 1 po pkt 3 dodaje się pkt 3a w brzmieniu: „
+
+- **3a)** coroczne sporządzanie i publikowanie w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” Narodowego Rachunku Zdrowia, ” .
 
 **Art. 5.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2005 r. Nr 226, poz. 1943, z późn. zm.) w art. 2 ust. 3 otrzymuje brzmienie: „ 3. Za wykonywanie zawodu lekarza uważa się także prowadzenie przez lekarza prac badawczych w dziedzinie nauk medycznych lub promocji zdrowia, nauczanie zawodu lekarza lub zatrudnienie w podmiotach zobowiązanych do finansowania świadczeń opieki zdrowotnej ze środków publicznych w rozumieniu przepisów ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. Nr 210, poz. 2135, z późn. zm.) lub urzędach te podmioty obsługujących, w ramach którego wykonuje się czynności związane z przygotowywaniem, organizowaniem lub nadzorem nad udzielaniem świadczeń opieki zdrowotnej. ” ;
 
@@ -1102,9 +1271,59 @@ art. 118 otrzymuje brzmienie:
 
 **Art. 7.** W ustawie z dnia 5 lipca 2001 r. o cenach (Dz. U. Nr 97, poz. 1050, z późn. zm.) wprowadza się następujące zmiany:
 
+- **1)** w art. 5: ust. 4 otrzymuje brzmienie: „
+    - **a)**
+
+4. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw finansów publicznych, po zasięgnięciu opinii Prezesa Narodowego Funduszu Zdrowia, określi, w drodze rozporządzenia, wykaz zawierający ceny urzędowe hurtowe i detaliczne w odniesieniu do produktów leczniczych i wyrobów medycznych określonych w ust. 1, biorąc pod uwagę stanowiska wyrażone przez Zespół, o którym mowa w art. 7 ust. 1, a także mając na względzie równoważenie interesów konsumentów i przedsiębiorców zajmujących się wytwarzaniem i obrotem tymi produktami i wyrobami oraz biorąc pod uwagę możliwości płatnicze Narodowego Funduszu Zdrowia, w oparciu o kryteria ustalone w art. 7 ust. 3. ” , po ust. 4 dodaje się ust. 4a-4c w brzmieniu: „
+
+- **b)**
+
+4a. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw finansów publicznych, po zasięgnięciu opinii Prezesa Narodowego Funduszu Zdrowia, określi, w drodze rozporządzenia, wykaz cen urzędowych hurtowych w odniesieniu do produktów leczniczych i wyrobów medycznych określonych w ust. 2, jeżeli nabywane są przez zakłady lecznictwa zamkniętego na zasadach określonych w art. 42 ust. 1 pkt 1 a ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2004 r. Nr 53, poz. 533, z późn. zm.) lub bezpośrednio z hurtowni farmaceutycznej, mając na względzie równoważenie interesów konsumentów i przedsiębiorców zajmujących się wytwarzaniem i obrotem tymi produktami i wyrobami oraz biorąc pod uwagę możliwości płatnicze Narodowego Funduszu Zdrowia, w oparciu o kryteria ustalone w art. 7 ust. 3 pkt 1–8.
+
+4b. Wykaz, o którym mowa w ust. 4, jest aktualizowany nie rzadziej niż co 90 dni, jeżeli wpłynął co najmniej jeden kompletny wniosek, o którym mowa w art. 6 ust. 1 pkt 2.
+
+4c. W przypadku zaistnienia okoliczności, o których mowa w art. 39 ust. 7b ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, minister właściwy do spraw zdrowia podejmuje niezwłocznie czynności w zakresie aktualizacji wykazu, o którym mowa w ust. 4. ” ;
+
+- **2)** w art. 6 po ust. 1 dodaje się ust. 1a-1c w brzmieniu: „
+
+1a. Złożenie wniosku lub informacji, o których mowa w ust. 1, podlega opłacie w kwocie 400 zł, która jest waloryzowana w każdym roku prognozowanym średniorocznym wskaźnikiem cen towarów i usług konsumpcyjnych ogółem, przyjętym w ustawie budżetowej.
+
+1b. Uzupełnienie wniosku lub informacji, o których mowa w ust. 1, podlega opłacie w kwocie 200 zł, która jest waloryzowana w każdym roku prognozowanym średniorocznym wskaźnikiem cen towarów i usług konsumpcyjnych ogółem, przyjętym w ustawie budżetowej.
+
+1c. Opłaty, o których mowa w ust. 1a i 1b, są wnoszone na rachunek urzędu obsługującego ministra właściwego do spraw zdrowia i stanowią dochód budżetu państwa. ” ;
+
+- **3)** w art. 7: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. W skład Zespołu wchodzi po trzech przedstawicieli ministra właściwego do spraw zdrowia, ministra właściwego do spraw finansów publicznych i ministra właściwego do spraw gospodarki. W pracach Zespołu mogą uczestniczyć trzej przedstawiciele Narodowego Funduszu Zdrowia, wyłonieni w trybie określonym w przepisach wydanych na podstawie ust. 8 pkt 4. Członkowie Zespołu, ich małżonkowie, zstępni i wstępni w linii prostej oraz osoby, z którymi członkowie Zespołu pozostają w stosunkach osobistych tego rodzaju, że mogłyby wywołać wątpliwości co do ich bezstronności, oraz osoby niebędące członkami Zespołu, którym zlecono przygotowanie ekspertyz i innych opracowań dla Zespołu, nie mogą być właścicielami, posiadać akcji lub udziałów oraz zasiadać w organach spółek i przedsiębiorstw zajmujących się wytwarzaniem i obrotem produktami leczniczymi i wyrobami medycznymi. ” , po ust. 7 dodaje się ust. 7a-7c w brzmieniu: „
+
+- **b)**
+
+7a. Rozpatrując ponownie wniosek lub informację, o których mowa w art. 6 ust. 1, oraz wniosek, o którym mowa w art. 39 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, minister właściwy do spraw zdrowia może:
+
+- **1)** ustalić ceny urzędowe leku albo wyrobu medycznego, umieszczając go w wykazach, o których mowa w art. 5 ust. 1,
+- **2)** odmówić ustalenia cen urzędowych leku albo wyrobu medycznego i nie umieścić go w wykazach, o których mowa w art. 5 ust. 1, biorąc pod uwagę możliwości płatnicze podmiotu zobowiązanego do finansowania świadczeń ze środków publicznych oraz kryteria, o których mowa w art. 7 ust. 3,
+- **3)** zmienić ceny urzędowe leku albo wyrobu medycznego znajdującego się na wykazach, o których mowa w art. 5 ust. 1,
+- **4)** odmówić zmiany cen urzędowych leku albo wyrobu medycznego znajdującego się na wykazach, o których mowa w art. 5 ust. 1, biorąc pod uwagę możliwości płatnicze podmiotu zobowiązanego do finansowania świadczeń ze środków publicznych oraz kryteria, o których mowa w art. 7 ust. 3.
+
+7b. Minister właściwy do spraw zdrowia wydaje decyzję w przypadku, o którym mowa w ust. 7a pkt 2 i 4.
+
+7c. Od decyzji ministra właściwego do spraw zdrowia, o której mowa w ust. 7b, przysługuje skarga do sądu administracyjnego. ” .
+
 **Art. 8.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2004 r. Nr 53, poz. 533, z późn. zm.) wprowadza się następujące zmiany:
 
+- **1)** w art. 28 ust. 1 otrzymuje brzmienie: „
+
+1. Produkt leczniczy dopuszczony do obrotu na podstawie pozwolenia, o którym mowa w art. 7 ust. 2, podlega wpisowi do Rejestru Produktów Leczniczych Dopuszczonych do Obrotu na terytorium Rzeczypospolitej Polskiej, zwanego dalej „Rejestrem”. ” ;
+
+- **2)** w art. 103 w ust. 2 po pkt 4 dodaje się pkt 4a w brzmieniu: „
+- **4a)** apteka przekazuje, z wyłączeniem Inspekcji Farmaceutycznej i Narodowego Funduszu Zdrowia, dane umożliwiające identyfikację indywidualnego pacjenta, lekarza lub świadczeniodawcy. ” .
+
 **Art. 9.** W ustawie z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. Nr 197, poz. 1661, z późn. zm.) w art. 16 w ust. 1 pkt 3 otrzymuje brzmienie: „
+
+- **3)** łapownictwa i płatnej protekcji, określone w: art. 228–230a, art. 250a, art. 296a i art. 296b Kodeksu karnego, art. 192b i art. 192c ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. Nr 210, poz. 2135, z późn. zm.); ” . W ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. Nr 191, poz. 1410 oraz z 2007 r. Nr 89, poz. 590) uchyla się art. 7.
+    - **a)**
+    - **b)**
 
 **Art. 11.** W ustawie z dnia 29 czerwca 2007 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. Nr 133, poz. 922) w art. 1 uchyla się pkt 2 oraz pkt 5–7. 1. Wnioski złożone do dnia 31 grudnia 2007 r. zgodnie z przepisami art. 25 i 26 ustawy, o której mowa w art. 1, w brzmieniu dotychczasowym, rozpatrywane są zgodnie z trybem określonym w przepisach art. 25 i 26 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą. 2. W przypadku określonym w ust. 1 przez wymagane zgodnie z przepisami art. 26 ustawy, o której mowa w art. 1, w brzmieniu dotychczasowym, uzyskanie zgody ministra właściwego do spraw zdrowia, rozumie się uzyskanie zgody Prezesa Narodowego Funduszu Zdrowia. Ilekroć w treści wniosku mowa jest o ministrze właściwym do spraw zdrowia rozumie się przez to Prezesa Narodowego Funduszu Zdrowia. 3. Wnioski, o których mowa w ust. 1, złożone do ministra właściwego do spraw zdrowia i nierozpatrzone przed dniem 31 grudnia 2007 r. zostaną niezwłocznie przekazane do rozpatrzenia przez Prezesa Narodowego Funduszu Zdrowia. 1. Wnioskodawcy, o których mowa w art. 39 ust. 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, którzy złożyli wnioski przed dniem wejścia w życie niniejszej ustawy, są obowiązani w terminie 60 dni od dnia wejścia w życie niniejszej ustawy do uzupełnienia wniosków o dane wymienione w art. 39 ust. 2 pkt 7, 8 i 11 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą. 2. W przypadku nieuzupełnienia wniosków w terminie określonym w ust. 1 stosuje się przepis art. 39 ust. 4 ustawy, o której mowa w art. 1. 3. Wnioski, o których mowa w ust. 1, uzupełnione o dane wymienione w art. 39 ust. 2 pkt 7, 8 i 11 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, są traktowane jako wnioski złożone pierwszego roboczego dnia pierwszego kwartału następującego po dniu wejścia w życie niniejszej ustawy. 4. Przepisów art. 39 ust. 2a-2c ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie stosuje się do wniosków złożonych przed dniem wejścia w życie niniejszej ustawy oraz do ich uzupełnień, o których mowa w ust. 1.
 
@@ -1138,7 +1357,17 @@ art. 118 otrzymuje brzmienie:
 
 **Art. 17.** Wyboru członka Rady Narodowego Funduszu Zdrowia, o którym mowa w art. 99 ust. 1 pkt 7 ustawy, o której mowa w art. 1, po raz pierwszy dokonuje się w terminie 30 dni od dnia wejścia w życie niniejszej ustawy. Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
+- **1)** art. 13 ust. 4, art. 36 ust. 5, art. 37 ust. 2, art. 38 ust. 6, art. 39 ust. 9, art. 49 ust. 5, art. 137 ust. 10 i art. 190 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 13a, art. 36 ust. 5, art. 37 ust. 2, art. 38 ust. 6, art. 39 ust. 9, art. 49 ust. 9, art. 137 ust. 10 i art. 190 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w brzmieniu nadanym niniejszą ustawą,
+- **2)** art. 5 ust. 4 ustawy z dnia 5 lipca 2001 r. o cenach zachowują moc do czasu wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 5 ust. 4 i 4a ustawy z dnia 5 lipca 2001 r. o cenach, w brzmieniu nadanym niniejszą ustawą nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
 **Art. 19.** Przepisy art. 66 ust. 1 pkt 35, art. 73 pkt 17, art. 75 ust. 17, art. 77 ust. 3, art. 81 ust. 8 pkt 12, art. 82 ust. 2, art. 83, art. 84 ust. 3, art. 87 ust. 7 i 9 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się od pierwszego dnia miesiąca następującego po miesiącu, w którym ustawa weszła w życie.
 
 **Art. 20.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1 pkt 48 lit. c, pkt 60 w zakresie art. 118 ust. 1, ust. 2 pkt 1 lit. a i b, pkt 2 i ust. 3–6, pkt 63 w zakresie art. 124 ust. 1–9, pkt 66 w zakresie art. 129 ust. 1–4 i 6, które wchodzą w życie z dniem ogłoszenia;
+- **2)** art. 1 pkt 48 lit. d, pkt 60 w zakresie art. 118 ust. 2 pkt 1 lit. c, pkt 63 w zakresie art. 124 ust. 10 i 11, pkt 66 w zakresie art. 129 ust. 5, oraz art. 11, które wchodzą w życie z dniem 1 października 2007 r.;
+- **3)** art. 1 pkt 70, który wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia ustawy;
+- **4)** art. 1 pkt 13–15, 41, 42 lit. b i c, pkt 48 lit. a, pkt 58, 59 i 88 lit. d, które wchodzą w życie z dniem 1 stycznia 2008 r.;
+- **5)** art. 1 pkt 35 lit. b, który wchodzi w życie z dniem 1 stycznia 2009 r.
+
 

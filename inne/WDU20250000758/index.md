@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym
-
-*USTAWA z dnia 21 maja 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 czerwca 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,29 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2025-05-21 |
 | Data wydania | 2025-06-10 |
+| Wejście w życie | 2025-07-11 |
 | Ostatnia zmiana | 2025-06-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000758) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/758/text.pdf) |
 
+Poz. 758
+USTAWA z dnia 21 maja 2025 r.
+o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym
+
 **Art. 1.** W ustawie z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. z 2024 r. poz. 695) w rozdziale 4 dodaje się art. 19a i art. 19b w brzmieniu: „Art. 19a. 1. Deweloper ma obowiązek prowadzenia własnej strony internetowej, na której, od dnia rozpoczęcia sprzedaży, a w przypadku zawierania umów rezerwacyjnych, o których mowa w art. 29 ust. 2, przed zawarciem pierwszej takiej umowy, do dnia przeniesienia praw z ostatniej umowy deweloperskiej lub ostatniej umowy, o której mowa w art. 2 ust. 1 pkt 2, 3 lub 5, dotyczącej przedsięwzięcia deweloperskiego lub zadania inwestycyjnego, udostępnia część ogólną prospektu informacyjnego, dotyczącego tego przedsięwzięcia deweloperskiego lub zadania inwestycyjnego, i podaje informacje o adresie jego siedziby, a w przypadku gdy deweloper jest osobą fizyczną – adresie głównego miejsca wykonywania działalności gospodarczej, adresie lokalu, w którym prowadzona jest sprzedaż, sposobie kontaktu nabywcy z deweloperem, lokalizacji przedsięwzięcia deweloperskiego lub zadania inwestycyjnego oraz:
+
+- **1)** cenie m powierzchni użytkowej każdego z oferowanych lokali mieszkalnych lub domów jednorodzinnych oraz całej nieruchomości lub jej części, będących przedmiotem umowy,
+- **2)** cenie pomieszczeń przynależnych, o których mowa w art. 2 ust. 4 ustawy z dnia 24 czerwca 1994 r. o własności lokali, lub praw niezbędnych do korzystania z lokalu mieszkalnego lub domu jednorodzinnego, jeżeli cena tych pomieszczeń lub praw nie jest uwzględniona w cenie, o której mowa w pkt 1,
+- **3)** innych niż określone w pkt 1 i 2 świadczeniach pieniężnych, które nabywca zobowiązany jest spełnić na rzecz dewelopera w wykonaniu umowy przenoszącej własność – z uwzględnieniem podatku od towarów i usług.
+
+2. W przypadku zmiany cen lub świadczeń pieniężnych, o których mowa w ust. 1, deweloper, z dniem tej zmiany, uaktualnia informacje na stronie internetowej z podaniem daty tej zmiany, z zachowaniem dotychczas podanych informacji, począwszy od dnia rozpoczęcia sprzedaży.
+
+3. W reklamach, ogłoszeniach i ofertach sprzedaży kierowanych do nabywców deweloper jest obowiązany podawać adres strony internetowej, na której znajdują się informacje, o których mowa w ust. 1 i 2.
+
+4. Przepisy ust. 1–3 stosuje się odpowiednio także do deweloperów, o których mowa w art. 3 pkt 1, i przedsiębiorców, o których mowa w art. 4 pkt 1, od dnia podania do publicznej wiadomości informacji o sprzedaży przedmiotów umów, o których mowa w art. 3 pkt 1 lub art. 4 pkt 1.
+
+5. Naruszenie obowiązków określonych w ust. 1–4 stanowi praktykę naruszającą zbiorowe interesy konsumentów w rozumieniu art. 24 ust. 2 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2024 r. poz. 1616).
+
+6. W przypadku rozbieżności pomiędzy ceną podaną w sposób określony w ust. 1 a ceną oferowaną przy zawarciu umowy, nabywca ma prawo żądania zawarcia umowy po cenie dla niego najkorzystniejszej. Dziennik Ustaw – 2 – Poz. 758
 
 **Art. 19b.**
 

@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o stanie klęski żywiołowej
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 15 stycznia 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 stycznia 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-01-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000112) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/112/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 15 stycznia 2025 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o stanie klęski żywiołowej
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej (Dz. U. z 2017 r. poz. 1897), z uwzględnieniem zmian wprowadzonych ustawą z dnia 21 listopada 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1717) oraz zmian wynikających z przepisów ogłoszonych przed dniem 13 stycznia 2025 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 46 ustawy z dnia 21 listopada 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1717), który stanowi: „Art. 46. Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 19 pkt 7 zakresie art. 43a, który wchodzi życie z dniem ogłoszenia, z mocą od dnia 9 września 2024 r.”.
 Marszałek Sejmu: S. Hołownia
@@ -76,6 +76,11 @@ Art. 29–33. (pominięte)
 **Art. 7.** W czasie stanu klęski żywiołowej organy władzy publicznej działają dotychczasowych strukturach organizacyjnych państwa i ramach przysługujących im kompetencji, z zastrzeżeniem przepisów niniejszej ustawy.
 
 **Art. 8.** W czasie stanu klęski żywiołowej działaniami prowadzonymi celu zapobieżenia skutkom klęski żywiołowej lub ich usunięcia kierują:
+
+- **1)** wójt (burmistrz, prezydent miasta) jeżeli stan klęski żywiołowej wprowadzono tylko na obszarze gminy;
+- **2)** starosta jeżeli stan klęski żywiołowej wprowadzono na obszarze więcej niż jednej gminy wchodzącej skład powiatu;
+- **3)** wojewoda jeżeli stan klęski żywiołowej wprowadzono na obszarze więcej niż jednego powiatu wchodzącego skład województwa;
+- **4)** minister właściwy do spraw administracji publicznej lub inny minister, do zakresu działania którego należy zapobieganie skutkom danej klęski żywiołowej lub ich usuwanie, a przypadku wątpliwości co do właściwości ministra lub przypadku gdy właściwych jest kilku ministrów minister wyznaczony przez Prezesa Rady Ministrów jeżeli stan klęski żywiołowej wprowadzono na obszarze więcej niż jednego województwa.
 
 **Art. 9.**
 
@@ -127,6 +132,11 @@ Art. 29–33. (pominięte)
 - **2)** organy samorządu terytorialnego minister, o którym mowa art. 8 pkt 4, może zawiesić odpowiednie uprawnienia takiego organu oraz wyznaczyć pełnomocnika do wykonywania tych uprawnień, zawiadamiając o tym właściwego wojewodę i Prezesa Rady Ministrów.
 
 **Art. 14.** Kierowanie działaniami prowadzonymi celu zapobieżenia skutkom klęski żywiołowej lub ich usunięcia na obszarach i obiektach jednostek organizacyjnych podległych, podporządkowanych lub nadzorowanych przez Ministra Obrony Narodowej, Ministra Sprawiedliwości, ministra właściwego do spraw zagranicznych oraz ministra właściwego do spraw wewnętrznych, Szefa Agencji Bezpieczeństwa Wewnętrznego lub Szefa Agencji Wywiadu wymaga współdziałania:
+
+- **1)** organu, o którym mowa art. 8 pkt 1–3, z właściwymi kierownikami jednostek organizacyjnych podległych, podporządkowanych lub nadzorowanych przez Ministra Obrony Narodowej, Ministra Sprawiedliwości, ministra właściwego do spraw zagranicznych oraz ministra właściwego do spraw wewnętrznych, Szefa Agencji Bezpieczeństwa Wewnętrznego lub Szefa Agencji Wywiadu;
+- **2)** ministra, o którym mowa art. 8 pkt 4, z właściwym ministrem, Szefem Agencji Bezpieczeństwa Wewnętrznego lub Szefem Agencji Wywiadu. jemnego przekazywania informacji zakresie zapobiegania skutkom klęski żywiołowej lub ich usuwania.
+
+2. Obowiązek przewidziany ust. 1 dotyczy odpowiednio wójtów (burmistrzów, prezydentów miast), starostów albo pełnomocników, o których mowa art. 9 ust. 5 i art. 10 ust. 5.
 
 **Art. 16.** Minister, o którym mowa art. 8 pkt 4, jest obowiązany do informowania na bieżąco Prezydenta Rzeczypospolitej Polskiej i Prezesa Rady Ministrów o skutkach klęski żywiołowej i działaniach podejmowanych celu zapobieżenia tym skutkom lub ich usunięcia.
 
@@ -240,7 +250,7 @@ Art. 29–33. (pominięte)
 
 5. Wojewoda może uchylić całości lub części zarządzenie lub decyzję wójta (burmistrza, prezydenta miasta), starosty albo pełnomocników, o których mowa art. 9 ust. 5 i art. 10 ust. 5.
 
-6. Minister właściwy do spraw administracji publicznej może uchylić całości lub części rozporządzenie lub decyzję wojewody albo pełnomocnika, o którym mowa art. 11 ust. 4. stek pływających na śródlądowych drogach wodnych, morskich wodach wewnętrznych i morzu terytorialnym.
+6. Minister właściwy do spraw administracji publicznej może uchylić całości lub części rozporządzenie lub decyzję wojewody albo pełnomocnika, o którym mowa art. 11 ust. 4. ratowniczych mogą być wprowadzone ograniczenia transporcie drogowym, kolejowym i lotniczym oraz ruchu jednostek pływających na śródlądowych drogach wodnych, morskich wodach wewnętrznych i morzu terytorialnym.
 
 2. Minister właściwy do spraw transportu zakresie transportu drogowego, kolejowego i lotniczego, minister właściwy do spraw żeglugi śródlądowej zakresie ruchu jednostek pływających na śródlądowych drogach wodnych, a minister właściwy do spraw gospodarki morskiej zakresie ruchu na morskich wodach wewnętrznych i morzu terytorialnym, porozumieniu z ministrem właściwym do spraw administracji publicznej, ministrem właściwym do spraw wewnętrznych i Ministrem Obrony Narodowej, drodze rozporządzenia, może wprowadzić ograniczenia, o których mowa ust. 1, oraz określić zakres tych ograniczeń z uwzględnieniem konieczności zapewnienia warunków pozwalających na sprawne zapobieganie lub zwalczanie skutków klęski żywiołowej przy jednoczesnym zminimalizowaniu uciążliwości wynikłych dla innych użytkowników z wprowadzonych ograniczeń.
 
@@ -270,7 +280,7 @@ Art. 29–33. (pominięte)
 - **8)** wbrew obowiązkowi określonemu art. 21 ust. 1 pkt 8 nie stosuje określonych środków zapewniających ochronę środowiska,
 - **9)** wbrew obowiązkowi określonemu art. 21 ust. 1 pkt 9 nie stosuje środków lub zabiegów niezbędnych do zwalczania chorób zakaźnych zwierząt,
 - **10)** wbrew obowiązkowi określonemu art. 21 ust. 1 pkt 10 nie opróżnia lub nie zabezpiecza lokalu mieszkalnego lub innych pomieszczeń,
-- **11)** wbrew obowiązkowi określonemu art. 21 ust. 1 pkt 11 nie dokonuje przymusowych rozbiórek i wyburzeń budynków lub innych obiektów budowlanych albo ich części,
+- **11)** wbrew obowiązkowi określonemu art. 21 ust. 1 pkt 11 nie dokonuje przymusowych rozbiórek i wyburzeń budynków lub innych obiektów budowlanych albo ich części, z określonych miejsc, obszarów lub obiektów,
 - **13)** wbrew obowiązkowi określonemu art. 21 ust. 1 pkt 13 nie stosuje się do nakazu albo zakazu przebywania określonych miejscach i obiektach oraz na określonych obszarach,
 - **14)** wbrew zakazowi określonemu art. 21 ust. 1 pkt 14 i 17 narusza wprowadzone ograniczenia organizując lub przeprowadzając imprezę masową albo strajk,
 - **15)** wbrew obowiązkowi określonemu art. 21 ust. 1 pkt 15 nie stosuje się do nakazu albo zakazu określonego sposobu przemieszczania się,

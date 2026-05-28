@@ -1,0 +1,195 @@
+---
+title: Ustawa z dnia 10 października 2002 r. o zmianie ustawy o podatku rolnym.
+address: WDU20022001680
+eli: DU/2002/1680
+publisher: DU
+year: 2002
+pos: 1680
+act_type: Ustawa
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Ustawa z dnia 10 października 2002 r. o zmianie ustawy o podatku rolnym
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2002 nr 200 poz. 1680 |
+| ISAP | WDU20022001680 |
+| Typ aktu | Ustawa |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2002-10-10 |
+| Data wydania | 2002-11-30 |
+| Wejście w życie | 2003-01-01 |
+| Ostatnia zmiana | 2024-03-15 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022001680) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1680/text.pdf) |
+
+**Art. 1.** W ustawie z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 1993 r. Nr 94, poz. 431, z 1994 r. Nr 1, poz. 3, z 1996 r. Nr 91, poz. 409, z 1997 r. Nr 43, poz. 272 i Nr 137, poz. 926, z 1998 r. Nr 108, poz. 681 oraz z 2001 r. Nr 81, poz. 875) wprowadza się następujące zmiany:
+
+- **1)** art. 1–3 otrzymują brzmienie: „ Opodatkowaniu podatkiem rolnym podlegają grunty sklasyfikowane w ewidencji gruntów i budynków jako użytki rolne lub jako grunty zadrzewione i zakrzewione na użytkach rolnych, z wyjątkiem gruntów zajętych na prowadzenie działalności gospodarczej innej niż działalność rolnicza.
+
+**Art. 2.**
+
+1. Za gospodarstwo rolne uważa się obszar gruntów, o których mowa w art. 1, o łącznej powierzchni przekraczającej 1 ha lub 1 ha przeliczeniowy, stanowiących własność lub znajdujących się w posiadaniu osoby fizycznej, osoby prawnej albo jednostki organizacyjnej, w tym spółki, nieposiadającej osobowości prawnej.
+
+2. Za działalność rolniczą uważa się produkcję roślinną i zwierzęcą, w tym również produkcję materiału siewnego, szkółkarskiego, hodowlanego oraz reprodukcyjnego, produkcję warzywniczą, roślin ozdobnych, grzybów uprawnych, sadownictwa, hodowlę i produkcję materiału zarodowego zwierząt, ptactwa i owadów użytkowych, produkcję zwierzęcą typu przemysłowego fermowego oraz chów i hodowlę ryb.
+
+**Art. 3.**
+
+1. Podatnikami podatku rolnego są osoby fizyczne, osoby prawne, jednostki organizacyjne, w tym spółki, nieposiadające osobowości prawnej, będące:
+
+- **1)** właścicielami gruntów, z zastrzeżeniem ust. 2,
+- **2)** posiadaczami samoistnymi gruntów,
+- **3)** użytkownikami wieczystymi gruntów,
+- **4)** posiadaczami gruntów, stanowiących własność Skarbu Państwa lub jednostki samorządu terytorialnego, jeżeli posiadanie: wynika z umowy zawartej z właścicielem, z Agencją Własności Rolnej Skarbu Państwa lub z innego tytułu prawnego albo jest bez tytułu prawnego, z wyjątkiem gruntów wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa lub będących w zarządzie Lasów Państwowych; w tym przypadku podatnikami są odpowiednio jednostki organizacyjne Agencji Własności Rolnej Skarbu Państwa i Lasów Państwowych.
+    - **a)**
+    - **b)**
+
+2. Jeżeli grunty znajdują się w posiadaniu samoistnym, obowiązek podatkowy w zakresie podatku rolnego ciąży na posiadaczu samoistnym.
+
+3. Jeżeli grunty gospodarstwa rolnego zostały w całości lub w części wydzierżawione na podstawie umowy zawartej stosownie do przepisów o ubezpieczeniu społecznym rolników, podatnikiem podatku rolnego jest dzierżawca.
+
+4. Jeżeli grunty gospodarstwa rolnego zostały wniesione do spółdzielni produkcyjnej jako wkład gruntowy, podatnikiem podatku rolnego jest spółdzielnia produkcyjna.
+
+5. Jeżeli grunty, o których mowa w art. 1, stanowią współwłasność lub znajdują się w posiadaniu dwóch lub więcej podmiotów, to stanowią odrębny przedmiot opodatkowania podatkiem rolnym, a obowiązek podatkowy ciąży solidarnie na wszystkich współwłaścicielach (posiadaczach), z zastrzeżeniem ust. 6.
+
+6. Jeżeli grunty, o których mowa w ust. 5, stanowią gospodarstwo rolne, obowiązek podatkowy ciąży na tej osobie będącej współwłaścicielem (posiadaczem), która to gospodarstwo prowadzi w całości. ” ;
+
+- **2)** w art. 4: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Podstawę opodatkowania podatkiem rolnym stanowi:
+
+- **1)** dla gruntów gospodarstw rolnych – liczba hektarów przeliczeniowych ustalana na podstawie powierzchni, rodzajów i klas użytków rolnych wynikających z ewidencji gruntów i budynków oraz zaliczenia do okręgu podatkowego,
+- **2)** dla pozostałych gruntów – liczba hektarów wynikająca z ewidencji gruntów i budynków. ” , uchyla się ust. 2 i 3, ust. 4 otrzymuje brzmienie: „
+    - **b)**
+    - **c)**
+
+4. Ustala się 4 okręgi podatkowe, do których zalicza się gminy oraz miasta w zależności od warunków ekonomicznych i produkcyjno-klimatycznych. ” ;
+
+- **3)** w art. 6 ust. 1 otrzymuje brzmienie: „
+
+1. Podatek rolny za rok podatkowy wynosi:
+
+- **1)** od 1 ha przeliczeniowego gruntów, o których mowa w art. 4 ust. 1 pkt 1 – równowartość pieniężną 2,5 q żyta,
+- **2)** od 1 ha gruntów, o których mowa w art. 4 ust. 1 pkt 2 – równowartość pieniężną 5 q żyta obliczone według średniej ceny skupu żyta za pierwsze trzy kwartały roku poprzedzającego rok podatkowy. ” ;
+- **4)** w art. 6a: po ust. 4 dodaje się ust. 4a w brzmieniu: „
+    - **a)**
+
+4a. Organem podatkowym właściwym w sprawach podatku rolnego jest wójt (burmistrz, prezydent miasta). ” , ust. 5 i 6 otrzymują brzmienie: „
+
+- **b)**
+
+5. Osoby fizyczne, z zastrzeżeniem ust. 10, są obowiązane złożyć właściwemu organowi podatkowemu informacje o gruntach, sporządzone na formularzach według ustalonego wzoru, w terminie 14 dni od dnia zaistnienia okoliczności uzasadniających powstanie albo wygaśnięcie obowiązku podatkowego w zakresie podatku rolnego, lub o zaistnieniu zmian, o których mowa w ust. 4.
+
+6. Podatek rolny na rok podatkowy od osób fizycznych, z zastrzeżeniem ust. 10, ustala, w drodze decyzji, organ podatkowy właściwy ze względu na miejsce położenia gruntów. Podatek jest płatny w ratach proporcjonalnych do czasu trwania obowiązku podatkowego w terminach do dnia 15 marca, 15 maja, 15 września i 15 listopada roku podatkowego. ” , w ust. 7 wyrazy „wójt (burmistrz, prezydent)” zastępuje się wyrazami „organ podatkowy”, ust. 8 otrzymuje brzmienie: „
+
+- **c)**
+- **d)**
+
+8. Osoby prawne, jednostki organizacyjne, w tym spółki, nieposiadające osobowości prawnej, jednostki organizacyjne Agencji Własności Rolnej Skarbu Państwa, a także jednostki organizacyjne Lasów Państwowych są obowiązane:
+
+- **1)** składać, w terminie do dnia 15 stycznia, organowi podatkowemu właściwemu ze względu na miejsce położenia gruntów deklaracje na podatek rolny na dany rok podatkowy, sporządzone na formularzu według ustalonego wzoru, a jeżeli obowiązek podatkowy powstał po tym dniu – w terminie 14 dni od dnia zaistnienia okoliczności uzasadniających powstanie tego obowiązku,
+- **2)** odpowiednio skorygować deklaracje, w razie zaistnienia zmian, o których mowa w ust. 4, w terminie 14 dni od dnia zaistnienia zmian,
+- **3)** wpłacać w ratach proporcjonalnych do czasu trwania obowiązku podatkowego obliczony w deklaracji podatek rolny na rachunek budżetu właściwej gminy w terminach do dnia 15 marca, 15 maja, 15 września i 15 listopada. ” , po ust. 8 dodaje się ust. 9–11 w brzmieniu: „
+    - **e)**
+
+9. Obowiązek składania informacji o gruntach oraz deklaracji na podatek rolny, o którym mowa w ust. 5 i ust. 8 pkt 1, dotyczy również podatników korzystających ze zwolnień i ulg na podstawie przepisów ustawy.
+
+10. Jeżeli grunty stanowią współwłasność lub znajdują się w posiadaniu osób fizycznych oraz osób prawnych, jednostek organizacyjnych, w tym spółek, nieposiadających osobowości prawnej – osoby fizyczne składają deklarację na podatek rolny oraz opłacają podatek na zasadach obowiązujących osoby prawne.
+
+11. Rada gminy określa, w drodze uchwały, wzory formularzy, o których mowa w ust. 5 i ust. 8 pkt 1. W formularzach będą zawarte dane dotyczące podmiotu i przedmiotu opodatkowania, niezbędne do wymiaru i poboru podatku rolnego. ” ;
+
+- **5)** po art. 6b dodaje się art. 6c w brzmieniu: „
+
+**Art. 6c.**
+
+1. Osobom fizycznym, na których ciąży obowiązek podatkowy w zakresie podatku rolnego oraz jednocześnie w zakresie podatku od nieruchomości lub podatku leśnego dotyczący przedmiotów opodatkowania położonych na terenie tej samej gminy, wysokość należnego zobowiązania podatkowego pobieranego w formie łącznego zobowiązania pieniężnego ustala organ podatkowy w jednej decyzji (nakazie płatniczym), z zastrzeżeniem ust. 2.
+
+2. Łączne zobowiązanie pieniężne należne od przedmiotów opodatkowania stanowiących współwłasność lub znajdujących się w posiadaniu dwóch lub więcej osób fizycznych ustala się w odrębnej decyzji (nakazie płatniczym), który wystawia się na któregokolwiek ze współwłaścicieli (posiadaczy). Jeżeli gospodarstwo rolne prowadzi w całości jedna z tych osób, nakaz płatniczy wystawia się na tę osobę. ” ;
+
+- **6)** art. 12 otrzymuje brzmienie: „
+
+**Art. 12.**
+
+1. Zwalnia się od podatku rolnego:
+
+- **1)** użytki rolne klasy V, VI i VIz oraz grunty zadrzewione i zakrzewione ustanowione na użytkach rolnych,
+- **2)** grunty położone w pasie drogi granicznej,
+- **3)** grunty orne, łąki i pastwiska objęte melioracją – w roku, w którym uprawy zostały zniszczone wskutek robót drenarskich,
+- **4)** grunty przeznaczone na utworzenie nowego gospodarstwa rolnego lub powiększenie już istniejącego do powierzchni nieprzekraczającej 100 ha: będące przedmiotem prawa własności lub prawa użytkowania wieczystego, nabyte w drodze umowy sprzedaży, będące przedmiotem umowy o oddanie gruntów w użytkowanie wieczyste, wchodzące w skład Zasobu Własności Rolnej Skarbu Państwa, objęte w trwałe zagospodarowanie,
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **5)** grunty gospodarstw rolnych powstałe z zagospodarowania nieużytków – na okres 5 lat, licząc od roku następnego po zakończeniu zagospodarowania,
+- **6)** grunty gospodarstw rolnych otrzymane w drodze wymiany lub scalenia – na 1 rok następujący po roku, w którym dokonano wymiany lub scalenia gruntów,
+- **7)** grunty gospodarstw rolnych, na których zaprzestano produkcji rolnej, z tym że zwolnienie może dotyczyć nie więcej niż 20% powierzchni użytków rolnych gospodarstwa rolnego, lecz nie więcej niż 10 ha – na okres nie dłuższy niż 3 lata, w stosunku do tych samych gruntów,
+- **8)** użytki ekologiczne,
+- **9)** grunty zajęte przez zbiorniki wody służące do zaopatrzenia ludności w wodę,
+- **10)** grunty pod wałami przeciwpowodziowymi i grunty położone w międzywalach,
+- **11)** grunty wpisane do rejestru zabytków, pod warunkiem ich zagospodarowania i utrzymania, zgodnie z przepisami o ochronie zabytków,
+- **12)** grunty stanowiące działki przyzagrodowe członków rolniczych spółdzielni produkcyjnych, którzy: osiągnęli wiek emerytalny, są inwalidami zaliczonymi do I albo II grupy, są niepełnosprawnymi o znacznym lub umiarkowanym stopniu niepełnosprawności, są osobami całkowicie niezdolnymi do pracy w gospodarstwie rolnym albo niezdolnymi do samodzielnej egzystencji.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+2. Od podatku rolnego zwalnia się również:
+
+- **1)** szkoły wyższe, wyższe szkoły zawodowe oraz wyższe szkoły wojskowe,
+- **2)** szkoły, placówki, zakłady kształcenia i placówki doskonalenia nauczycieli – publiczne i niepubliczne oraz organy prowadzące te szkoły, placówki i zakłady z tytułu zarządu, użytkowania lub użytkowania wieczystego gruntów,
+- **3)** placówki naukowe Polskiej Akademii Nauk,
+- **4)** prowadzących zakłady pracy chronionej lub zakłady aktywności zawodowej w zakresie gruntów zgłoszonych wojewodzie, jeżeli zgłoszenie zostało potwierdzone decyzją w sprawie przyznania statusu zakładu pracy chronionej lub zakładu aktywności zawodowej albo zaświadczeniem – zajętych na prowadzenie tego zakładu, z wyjątkiem gruntów znajdujących się w posiadaniu zależnym podmiotów niebędących prowadzącymi zakłady pracy chronionej lub zakłady aktywności zawodowej,
+- **5)** jednostki badawczo-rozwojowe.
+
+3. Okres zwolnienia, o którym mowa w ust. 1 pkt 4, wynosi 5 lat, licząc od pierwszego dnia miesiąca następującego po miesiącu, w którym zawarto umowę sprzedaży gruntów lub prawa wieczystego użytkowania, ustanowiono prawo wieczystego użytkowania gruntów lub objęto grunty w trwałe zagospodarowanie w drodze umowy.
+
+4. Jeżeli podatnik nabywa lub obejmuje grunty o powierzchni mniejszej niż 100 ha, zwolnienie, o którym mowa w ust. 1 pkt 4, dotyczy gruntów kolejno nabywanych lub obejmowanych w trwałe zagospodarowanie do powierzchni łącznie nieprzekraczającej 100 ha.
+
+5. W razie nabycia gruntów od indywidualnych właścicieli gospodarstw rolnych, nie stosuje się zwolnienia, jeżeli nabywca jest małżonkiem, krewnym w linii prostej lub jego małżonkiem, pasierbem, zięciem lub synową sprzedawcy gruntów.
+
+6. Po upływie okresu zwolnienia, o którym mowa w ust. 1 pkt 4, 5 i 6, stosuje się ulgę w podatku rolnym, polegającą na obniżeniu podatku w pierwszym roku o 75% i w drugim roku o 50%.
+
+7. Zwolnienia i ulgi z tytułu nabycia gruntów z Zasobu Własności Rolnej Skarbu Państwa w drodze umowy sprzedaży nie stosuje się, jeżeli przedmiotem nabycia są grunty objęte uprzednio przez nabywcę w trwałe zagospodarowanie.
+
+8. Za trwałe zagospodarowanie, o którym mowa w ust. 1 pkt 4 oraz ust. 3, 4 i 7, uważa się objęcie gruntów w dzierżawę lub użytkowanie na okres nie krótszy niż 10 lat.
+
+9. Rada gminy określa, w drodze uchwały, tryb i szczegółowe warunki zwolnienia, o którym mowa w ust. 1 pkt 7. ” ;
+
+- **7)** w art. 13: w ust. 1 pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** budowę lub modernizację budynków inwentarskich służących do chowu, hodowli i utrzymywania zwierząt gospodarskich oraz obiektów służących ochronie środowiska, ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+    - **b)**
+
+3a. Kwota ulgi inwestycyjnej jest odliczana z urzędu w decyzji ustalającej wysokość zobowiązania podatkowego. Podatnicy obowiązani do składania deklaracji na podatek rolny odliczają, określoną w decyzji w sprawie ulgi inwestycyjnej, kwotę przyznanej ulgi od należnego podatku rolnego. ” , uchyla się ust. 5;
+
+- **c)**
+- **8)** w art. 13b ust. 2 otrzymuje brzmienie: „
+
+2. Za miejscowości położone na terenach podgórskich i górskich uważa się miejscowości, w których co najmniej 50% użytków rolnych jest położonych powyżej 350 m nad poziomem morza. Wykaz tych miejscowości w danym województwie ustala wojewoda. ” ;
+
+- **9)** art. 13d otrzymuje brzmienie: „
+
+**Art. 13d.**
+
+1. Zwolnienia i ulgi podatkowe określone w art. 12 ust. 1 pkt 1 i 2 oraz pkt 8–12, a także w art. 13b stosuje się z urzędu, a pozostałe zwolnienia i ulgi podatkowe na podstawie decyzji wydanej na wniosek podatnika.
+
+2. Do wniosku o przyznanie ulgi, o której mowa w art. 13, należy dołączyć zestawienie poniesionych wydatków inwestycyjnych wraz z rachunkami lub ich uwierzytelnionymi odpisami, stwierdzającymi wysokość tych wydatków.
+
+3. Zwolnienia i ulgi podatkowe udzielone na wniosek podatnika stosuje się od pierwszego dnia miesiąca następującego po miesiącu, w którym złożono wniosek.
+
+4. W przypadku zbiegu prawa do zwolnień i ulg z różnych tytułów, przy ustalaniu zobowiązania podatkowego w zakresie podatku rolnego na dany rok podatkowy w pierwszej kolejności stosuje się ulgi określone w art. 13b, następnie w art. 12, w art. 13a i w art. 13. Podstawę obliczenia ulgi z danego tytułu stanowi należny podatek po zastosowaniu ulgi z tytułu poprzedzającego.
+
+5. Kwota ulgi inwestycyjnej niewykorzystana przez podatnika przechodzi na jego następców, jeżeli gospodarstwo rolne zostało nabyte stosownie do przepisów o ubezpieczeniu społecznym rolników lub w drodze dziedziczenia. ” ;
+
+- **10)** po art. 13d dodaje się art. 13e w brzmieniu: „ Rada gminy, w drodze uchwały, może wprowadzić inne zwolnienia i ulgi przedmiotowe niż określone w ustawie. ” ;
+- **11)** po art. 17 dodaje się art. 17a w brzmieniu: „
+
+**Art. 17a.** Ilekroć w odrębnych przepisach jest mowa o podatniku podatku rolnego, należy przez to rozumieć właściciela, posiadacza samoistnego, użytkownika wieczystego lub posiadacza gospodarstwa rolnego w rozumieniu przepisów ustawy. ” . W stosunku do prowadzących zakłady pracy chronionej lub zakłady aktywności zawodowej, którzy uzyskali status prowadzących te zakłady przed wejściem w życie ustawy, zwolnienie z podatku rolnego stosuje się na zasadach dotychczasowych, nie dłużej niż do upływu 3-letniego terminu wynikającego z decyzji wydanej przed dniem 1 stycznia 2003 r. przyznającej status prowadzącego zakład. W latach 2003–2008 zwolnienie określone w art. 12 ust. 1 pkt 4 ustawy, o której mowa w art. 1, w przypadku osób prawnych nabywających grunty na powiększenie istniejącego gospodarstwa rolnego, stosuje się bez względu na obszar gruntów będących w posiadaniu tej osoby prawnej w dniu 31 grudnia 2002 r.
+
+**Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 2003 r., z wyjątkiem art. 1 pkt 4 lit. e w zakresie dotyczącym art. 6a ust. 11, który wchodzi w życie z dniem ogłoszenia.
+

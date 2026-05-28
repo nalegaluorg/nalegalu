@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o delegowaniu pracowników w ramach świadczenia usług
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 listopada 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 grudnia 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-12-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001682) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1682/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 listopada 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o delegowaniu pracowników w ramach świadczenia usług
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 10 czerwca 2016 r. o delegowaniu pracowników w ramach świadczenia usług (Dz. U. z 2024 r. poz. 73), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621) oraz zmian wynikających z przepisów ogłoszonych przed dniem 20 listopada 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 114 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U.
 poz. 621), który stanowi: „Art. 114. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia.”.
@@ -39,6 +39,12 @@ Art. 30–38. (pominięte)
 
 **Art. 1.** Ustawa określa zasady:
 
+- **1)** delegowania pracowników na terytorium Rzeczypospolitej Polskiej w ramach świadczenia usług;
+- **2)** kontroli przestrzegania przepisów o delegowaniu pracowników oraz realizacji obowiązków informacyjnych związanych z delegowaniem pracowników;
+- **3)** współpracy z właściwymi organami innych państw członkowskich dotyczącej delegowania pracowników na terytorium Rzeczypospolitej Polskiej i z tego terytorium;
+- **4)** ochrony pracowników delegowanych na terytorium Rzeczypospolitej Polskiej i z tego terytorium;
+- **5)** postępowania związanego z realizacją wniosków o powiadomienie o decyzji w sprawie nałożenia na pracodawcę delegującego pracownika z terytorium Rzeczypospolitej Polskiej administracyjnej kary pieniężnej lub grzywny administracyjnej oraz o egzekucję takiej kary lub grzywny.
+
 **Art. 2.**
 
 1. Przepisów ustawy nie stosuje się do:
@@ -49,6 +55,21 @@ Art. 30–38. (pominięte)
 2. (uchylony)
 
 **Art. 3.** Użyte w ustawie określenia oznaczają:
+
+- **1)** dzień roboczy dzień kalendarzowy z wyjątkiem sobót oraz dni wolnych od pracy określonych w przepisach ustawy z dnia 18 stycznia 1951 r. o dniach wolnych od pracy (Dz. U. z 2025 r. poz. 296);
+- **2)** organ wnioskujący właściwy organ innego państwa członkowskiego, który zwraca się z wnioskiem o powiadomienie o decyzji w sprawie nałożenia administracyjnej kary pieniężnej lub grzywny administracyjnej w związku z naruszeniem przepisów dotyczących delegowania pracownika z terytorium Rzeczypospolitej Polskiej lub o egzekucję takiej kary lub grzywny;
+- **3)** państwo członkowskie państwo członkowskie Unii Europejskiej oraz państwo, które przyjęło, w drodze umowy z Unią Europejską, zobowiązanie do implementacji do krajowego porządku prawnego dyrektywy 96/71/WE Parlamentu Europejskiego i Rady z dnia 16 grudnia 1996 r. dotyczącej delegowania pracowników w ramach świadczenia usług (Dz. Urz. WE L 18 z 21.01.1997, str. 1 oraz Dz. Urz. UE L 173 z 09.07.2018, str. 16 Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 2, str. 431) oraz dyrektywy Parlamentu Europejskiego i Rady 2014/67/UE z dnia 15 maja 2014 r. w sprawie egzekwowania dyrektywy 96/71/WE dotyczącej delegowania pracowników w ramach świadczenia usług, zmieniającej rozporządzenie (UE) nr 1024/2012 w sprawie współpracy administracyjnej za pośrednictwem systemu wymiany informacji na rynku wewnętrznym („rozporządzenie w sprawie IMI”) (Dz. Urz. UE L 159 z 28.05.2014, str. 11);
+- **4)** pracodawca delegujący pracownika na terytorium RP pracodawcę mającego siedzibę oraz prowadzącego znaczną działalność gospodarczą w innym państwie członkowskim:
+    - **a)** z którego terytorium kieruje tymczasowo pracownika do pracy na terytorium Rzeczypospolitej Polskiej: w związku z realizacją umowy zawartej przez tego pracodawcę z podmiotem prowadzącym działalność na terytorium Rzeczypospolitej Polskiej, w oddziale lub przedsiębiorstwie należącym do grupy przedsiębiorstw, do której należy ten pracodawca, prowadzącym działalność na terytorium Rzeczypospolitej Polskiej, jako podmiot będący agencją pracy tymczasowej albo agencją wynajmującą personel, który skierował do pracodawcy użytkownika osobę pozostającą pracownikiem tego podmiotu przez cały okres skierowania,
+    - **b)** będącego podmiotem, który jako agencja pracy tymczasowej albo agencja wynajmująca personel skierował do pracodawcy użytkownika osobę pozostającą pracownikiem tego podmiotu przez cały okres skierowania, w przypadku gdy pracodawca użytkownik na terytorium tego samego lub innego państwa członkowskiego następnie kieruje tymczasowo tego pracownika do pracy na terytorium Rzeczypospolitej Polskiej;
+
+- **5)** pracodawca delegujący pracownika z terytorium RP pracodawcę mającego siedzibę, a w przypadku osoby fizycznej prowadzącej działalność gospodarczą stałe miejsce wykonywania takiej działalności, na terytorium Rzeczypospolitej Polskiej:
+    - **a)** kierującego tymczasowo pracownika w rozumieniu przepisów państwa członkowskiego, do którego jest delegowany, do pracy na terytorium tego państwa: w związku z realizacją umowy zawartej przez tego pracodawcę z podmiotem prowadzącym działalność na terytorium innego państwa członkowskiego, w oddziale lub przedsiębiorstwie należącym do grupy przedsiębiorstw, do której należy ten pracodawca, prowadzącym działalność na terytorium tego państwa członkowskiego, jako agencja pracy tymczasowej,
+    - **b)** będącego agencją pracy tymczasowej, w przypadku gdy taka agencja kieruje pracownika do pracodawcy użytkownika na terytorium Rzeczypospolitej Polskiej lub innego państwa członkowskiego, który następnie kieruje tymczasowo tego pracownika do pracy na terytorium innego państwa członkowskiego;
+
+- **6)** pracownik delegowany na terytorium RP pracownika zatrudnionego w innym państwie członkowskim, tymczasowo skierowanego do pracy na terytorium Rzeczypospolitej Polskiej przez pracodawcę delegującego pracownika na terytorium RP;
+- **7)** pracownik delegowany z terytorium RP pracownika w rozumieniu przepisów państwa członkowskiego, do którego jest delegowany, wykonującego pracę na terytorium Rzeczypospolitej Polskiej, tymczasowo skierowanego do pracy na terytorium tego państwa przez pracodawcę delegującego pracownika z terytorium RP;
+- **8)** właściwy organ organ lub podmiot odpowiedzialny na terytorium danego państwa członkowskiego za informowanie o przepisach dotyczących delegowania pracowników lub współpracę z takimi organami lub podmiotami innych państw członkowskich w zakresie monitorowania przestrzegania tych przepisów.
 
 #### Rozdział 2 Warunki zatrudnienia pracowników delegowanych na terytorium RP
 
@@ -307,6 +328,15 @@ Art. 30–38. (pominięte)
 - **2)** decyzja w sprawie nałożenia administracyjnej kary pieniężnej lub grzywny administracyjnej jest sprzeczna z podstawowymi zasadami porządku prawnego Rzeczypospolitej Polskiej i o fakcie zwrotu wniosku powiadamia pracodawcę delegującego pracownika z terytorium RP.
 
 **Art. 19.** Państwowa Inspekcja Pracy bez zbędnej zwłoki informuje organ wnioskujący o:
+
+- **1)** czynnościach podjętych na jego wniosek o powiadomienie o decyzji w sprawie nałożenia administracyjnej kary pieniężnej lub grzywny administracyjnej lub wniosek o egzekucję takiej kary lub grzywny, w tym o dacie przekazania pracodawcy delegującemu pracownika z terytorium RP:
+    - **a)** powiadomienia o decyzji w sprawie nałożenia administracyjnej kary pieniężnej lub grzywny administracyjnej lub
+    - **b)** powiadomienia o wniosku o egzekucję administracyjnej kary pieniężnej lub grzywny administracyjnej;
+
+- **2)** podstawach odmowy podjęcia czynności, o których mowa w pkt 1:
+    - **a)** w przypadku gdy wniosek o powiadomienie o decyzji w sprawie nałożenia administracyjnej kary pieniężnej lub grzywny administracyjnej nie spełnia wymogów określonych w art. 17 ust. 1 lub wniosek o egzekucję administracyjnej kary pieniężnej lub grzywny administracyjnej nie spełnia wymogów określonych w art. 18 ust. 1,
+    - **b)** w przypadku, o którym mowa w art. 18 ust. 4,
+    - **c)** w przypadku gdy analiza przeprowadzona przez naczelnika urzędu skarbowego wykazała, że prognozowane koszty egzekucji administracyjnej kary pieniężnej lub grzywny administracyjnej są nieproporcjonalnie wysokie w stosunku do kwoty, której ma dotyczyć egzekucja, lub egzekucja taka wiązałaby się z istotnymi trudnościami.
 
 **Art. 20.**
 

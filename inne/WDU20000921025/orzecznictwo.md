@@ -2,11 +2,10 @@
 
 Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 24 października 2000 r. sygn. akt K. 12/2000.*
 
-Łącznie: **3** orzeczeń
+Łącznie: **2** orzeczeń
 
-## art. 2 (2)
+## art. 2 (1)
 
-- 2013-05-22 | SN | [III CZP 18/13](https://www.saos.org.pl/judgments/101834) | Uchwała ★
 - 2002-12-18 | SN | [I PKN 668/01](https://www.saos.org.pl/judgments/81776) | Wyrok ★
 
 ## art. 32 (1)

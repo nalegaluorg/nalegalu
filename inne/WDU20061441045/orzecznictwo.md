@@ -2,14 +2,9 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 22 lipca 2006 r. o paszach*
 
-Łącznie: **2** orzeczeń
-(pominięto 7 orzeczeń sądów rejonowych)
+Łącznie: **1** orzeczeń
 
 ## art. 15 (1)
 
 - 2008-05-20 | TK | [Tw 8/08](https://www.saos.org.pl/judgments/108924) | Postanowienie ★
-
-## art. 53 (1)
-
-- 2017-09-25 | SO | [IV Ka 650/17](https://www.saos.org.pl/judgments/311795) | Wyrok
 

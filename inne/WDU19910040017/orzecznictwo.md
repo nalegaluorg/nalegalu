@@ -3,7 +3,6 @@
 Orzeczenia powołujące: *Ustawa z dnia 25 października 1990 r. o zwrocie majątku utraconego przez związki zawodowe i organizacje społeczne w wyniku wprowadzenia stanu wojennego.*
 
 Łącznie: **3** orzeczeń
-(pominięto 1 orzeczeń sądów rejonowych)
 
 ## art. 1 (1)
 

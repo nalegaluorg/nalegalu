@@ -8,12 +8,10 @@ pos: 1068
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o Państwowej Komisji Badania Wypadków Morskich
-
-*USTAWA z dnia 31 sierpnia 2012 r.*
+# Ustawa z dnia 31 sierpnia 2012 r. o Państwowej Komisji Badania Wypadków Morskich
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2012-08-31 |
 | Data wydania | 2012-09-26 |
+| Wejście w życie | 2012-10-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001068) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1068/text.pdf) |
 
@@ -39,28 +38,28 @@ source: "isap-pdf"
 
 1. Ilekroć w ustawie jest mowa o:
 
-- **1)** wypadku morskim – należy przez to rozumieć zdarzenie, lub kilka następujących po sobie zdarzeń, związane bezpośrednio z eksploatacją statku, w którego następstwie doszło do:
-    - **a)** śmierci albo ciężkiego uszczerbku na zdrowiu człowieka lub
-    - **b)** zaginięcia człowieka przebywającego na statku, lub
-    - **c)** zatonięcia, zaginięcia lub utraty statku w inny sposób, lub
-    - **d)** uszkodzenia statku, wpływającego w znacznym stopniu na jego konstrukcję, zdolności manewrowe lub eksploatacyjne, wymagającego poważnych napraw, lub
-    - **e)** wejścia statku na mieliznę, zetknięcia z dnem, uderzenia w podwodną przeszkodę, unieruchomienia statku lub zderzenia statków, pożaru, eksplozji, uderzenia w budowlę, urządzenie lub instalację, przesunięcia ładunku, uszkodzenia powstałego wskutek złej pogody, uszkodzenia przez lód, pęknięcia kadłuba lub podejrzenia uszkodzenia kadłuba, lub
-    - **f)** wyrządzenia przez statek istotnej szkody w infrastrukturze portowej, infrastrukturze zapewniającej dostęp do portów lub przystani morskich, instalacji lub budowli na morzu, powodującej poważne zagrożenie dla bezpieczeństwa statku, innych statków lub osób, lub
-    - **g)** wyrządzenia szkody w środowisku lub wywołania niebezpieczeństwa wyrządzenia takiej szkody – z tym, że wypadkiem morskim nie jest świadome działanie lub zaniechanie podjęte z zamiarem naruszenia bezpieczeństwa statku, wyrządzenia szkody na osobie lub szkody w środowisku;
+- **1)** wypadku morskim – należy przez to rozumieć zdarzenie, lub kilka następujących po sobie zdarzeń, związane bezpośrednio z eksploatacją statku, w którego następstwie doszło do: śmierci albo ciężkiego uszczerbku na zdrowiu człowieka lub zaginięcia człowieka przebywającego na statku, lub zatonięcia, zaginięcia lub utraty statku w inny sposób, lub uszkodzenia statku, wpływającego w znacznym stopniu na jego konstrukcję, zdolności manewrowe lub eksploatacyjne, wymagającego poważnych napraw, lub wejścia statku na mieliznę, zetknięcia z dnem, uderzenia w podwodną przeszkodę, unieruchomienia statku lub zderzenia statków, pożaru, eksplozji, uderzenia w budowlę, urządzenie lub instalację, przesunięcia ładunku, uszkodzenia powstałego wskutek złej pogody, uszkodzenia przez lód, pęknięcia kadłuba lub podejrzenia uszkodzenia kadłuba, lub wyrządzenia przez statek istotnej szkody w infrastrukturze portowej, infrastrukturze zapewniającej dostęp do portów lub przystani morskich, instalacji lub budowli na morzu, powodującej poważne zagrożenie dla bezpieczeństwa statku, innych statków lub osób, lub wyrządzenia szkody w środowisku lub wywołania niebezpieczeństwa wyrządzenia takiej szkody z tym, że wypadkiem morskim nie jest świadome działanie lub zaniechanie podjęte z zamiarem naruszenia bezpieczeństwa statku, wyrządzenia szkody na osobie lub szkody w środowisku;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
 
 - **2)** bardzo poważnym wypadku – należy przez to rozumieć wypadek morski, w wyniku którego doszło do całkowitej utraty statku, śmierci człowieka lub wyrządzenia szkody w środowisku w znacznych rozmiarach;
-- **3)** poważnym wypadku – należy przez to rozumieć wypadek morski inny niż określony w pkt 2, którego skutkiem jest:
-    - **a)** unieruchomienie napędu głównego statku, rozległe uszkodzenie pomieszczeń mieszkalnych, zmiana w zakresie stateczności statku, poważne uszkodzenie konstrukcji statku w podwodnej części kadłuba – powodujące, że statek nie odpowiada wymaganiom określonym w umowach międzynarodowych i stanowi zagrożenie dla bezpieczeństwa osób na nim przebywających lub dla środowiska, czyniące go niezdatnym do kontynuowania podróży lub
-    - **b)** wyrządzenie szkody w środowisku, innej niż szkoda, o której mowa w pkt 2, w tym szkody spowodowanej zanieczyszczeniem środowiska, lub
-    - **c)** awaria, przy której istnieje konieczność holowania statku lub udzielenia statkowi pomocy z lądu;
+- **3)** poważnym wypadku – należy przez to rozumieć wypadek morski inny niż określony w pkt 2, którego skutkiem jest: unieruchomienie napędu głównego statku, rozległe uszkodzenie pomieszczeń mieszkalnych, zmiana w zakresie stateczności statku, poważne uszkodzenie konstrukcji statku w podwodnej części kadłuba – powodujące, że statek nie odpowiada wymaganiom określonym w umowach międzynarodowych i stanowi zagrożenie dla bezpieczeństwa osób na nim przebywających lub dla środowiska, czyniące go niezdatnym do kontynuowania podróży lub wyrządzenie szkody w środowisku, innej niż szkoda, o której mowa w pkt 2, w tym szkody spowodowanej zanieczyszczeniem środowiska, lub awaria, przy której istnieje konieczność holowania statku lub udzielenia statkowi pomocy z lądu;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **4)** incydencie morskim – należy przez to rozumieć zdarzenie, lub kilka następujących po sobie zdarzeń, inne niż określone w pkt 1–3, związane bezpośrednio z eksploatacją statku, które miało lub mogło mieć niekorzystny wpływ na bezpieczeństwo statku, osób na nim przebywających lub środowisko, z tym że incydentem morskim nie jest świadome działanie lub zaniechanie podjęte z zamiarem naruszenia bezpieczeństwa statku, wyrządzenia szkody na osobie lub szkody w środowisku;
-- **5)** kodeksie badania wypadków – należy przez to rozumieć Kodeks międzynarodowych standardów i zalecanych praktyk postępowania w sprawach badania wypadków lub incydentów morskich, przyjęty przez Komitet Bezpieczeństwa Morskiego Międzynarodowej Organizacji Morskiej (IMO) ;
+- **5)** kodeksie badania wypadków – należy przez to rozumieć Kodeks międzynarodowych standardów i zalecanych praktyk postępowania w sprawach badania wypadków lub incydentów morskich, przyjęty przez Komitet Bezpieczeństwa Morskiego Międzynarodowej Organizacji Morskiej (IMO);
 - **6)** rejestratorze VDR lub S-VDR – należy przez to rozumieć zespół urządzeń służących do rejestracji danych z przebiegu podróży statku, w tym czasu, pozycji, prędkości, kursu oraz rejestrujących głos na mostku nawigacyjnym, spełniający wymagania ustanowione przez Międzynarodową Organizację Morską (IMO);
 - **7)** bazie danych EMCIP – należy przez to rozumieć elektroniczną bazę danych o nazwie Europejska Platforma Informacyjna w sprawie Wypadków Morskich (EMCIP), w której są gromadzone i przechowywane informacje dotyczące wypadków i incydentów morskich;
-- **8)** szybkim statku pasażerskim – należy przez to rozumieć statek, określony w Prawidle 1 Rozdziału X Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonej w Londynie dnia 1 listopada 1974 r. (Dz. U. z 1984 r. poz. 318 i 319, z 1986 r. poz. 177, z 2005 r. poz. 1016 oraz z 2017 r. poz. 142) wraz z Protokołem z 1978 r. dotyczącym Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonym w Londynie dnia 17 lutego 1978 r. (Dz. U. z 1984 r. poz. 320 i 321), oraz Protokołem z 1988 r. dotyczącym Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonym w Londynie dnia 11 listopada 1988 r. (Dz. U. z 2008 r. poz. 1173 i 1174) (Konwencja SOLAS), przewożący więcej niż 12 pasażerów.
+- **8)** szybkim statku pasażerskim – należy przez to rozumieć statek, określony w Prawidle 1 Rozdziału X Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonej w Londynie dnia 1 listopada 1974 r. (Dz. U. z 1984 r. Nr 61, poz. 318 i 319, z 1986 r. Nr 35, poz. 177 oraz z 2005 r. Nr 120, poz. 1016) wraz z Protokołem z 1978 r. dotyczącym Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonym w Londynie dnia 17 lutego 1978 r. (Dz. U. z 1984 r. Nr 61, poz. 320 i 321), oraz Protokołem z 1988 r. dotyczącym Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonym w Londynie dnia 11 listopada 1988 r. (Dz. U. z 2008 r. Nr 191, poz. 1173 i 1174) (Konwencja SOLAS), przewożący więcej niż 12 pasażerów.
 
-2. Ilekroć w ustawie jest mowa o statku, statku rybackim, promie pasażerskim typu ro-ro, jachcie rekreacyjnym, uznanej organizacji, umowach międzynarodowych, państwie członkowskim Unii Europejskiej, państwie trzecim, należy przez to rozumieć statek, statek rybacki, prom pasażerski typu ro-ro, jacht rekreacyjny, uznaną organizację, umowy międzynarodowe, państwo członkowskie Unii Europejskiej, państwo trzecie, w rozumieniu ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2018 r. poz. 181, 1137, 1669 i 2245).
+2. Ilekroć w ustawie jest mowa o statku, statku rybackim, promie pasażerskim typu ro-ro, jachcie rekreacyjnym, uznanej organizacji, umowach międzynarodowych, państwie członkowskim Unii Europejskiej, państwie trzecim, należy przez to rozumieć statek, statek rybacki, prom pasażerski typu ro-ro, jacht rekreacyjny, uznaną organizację, umowy międzynarodowe, państwo członkowskie Unii Europejskiej, państwo trzecie, w rozumieniu ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368).
 
 #### Rozdział 2 Organizacja Państwowej Komisji Badania Wypadków Morskich
 
@@ -91,19 +90,19 @@ source: "isap-pdf"
 - **1)** jest obywatelem polskim i korzysta z pełni praw publicznych;
 - **2)** posiada pełną zdolność do czynności prawnych;
 - **3)** nie była skazana prawomocnym wyrokiem sądu za przestępstwa popełnione umyślnie;
-- **4)** posiada wykształcenie wyższe, o którym mowa w art. 77 ust. 1 pkt 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm. ), w zakresie nauk technicznych, matematycznych, fizycznych, chemicznych, ekonomicznych, humanistycznych lub prawnych;
+- **4)** posiada wykształcenie wyższe na poziomie drugiego stopnia, w rozumieniu ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572 i 742), w co najmniej jednej z następujących dziedzin nauk: technicznych, matematycznych, fizycznych, chemicznych, ekonomicznych, humanistycznych lub prawnych;
 - **5)** posiada wiedzę z zakresu bezpieczeństwa żeglugi i ochrony środowiska morskiego;
-- **6)** posiada co najmniej pięcioletnią praktykę zawodową w zakresie:
-    - **a)** nawigacji morskiej lub
-    - **b)** eksploatacji handlowej statku, lub
-    - **c)** eksploatacji siłowni okrętowych, lub
-    - **d)** eksploatacji statków rybackich, lub
-    - **e)** budowy i konstrukcji statków morskich, lub
-    - **f)** statkowych instalacji elektrycznych i automatyki, lub
-    - **g)** ratownictwa chemicznego i walki z pożarami, lub
-    - **h)** prawa morskiego.
+- **6)** posiada co najmniej pięcioletnią praktykę zawodową w zakresie: nawigacji morskiej lub eksploatacji handlowej statku, lub eksploatacji siłowni okrętowych, lub eksploatacji statków rybackich, lub budowy i konstrukcji statków morskich, lub statkowych instalacji elektrycznych i automatyki, lub ratownictwa chemicznego i walki z pożarami, lub prawa morskiego.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
 
-2. Przewodniczącym Komisji może być osoba spełniająca warunki, o których mowa w ust. 1, oraz posiadająca co najmniej piętnastoletnie doświadczenie w pracy w gospodarce morskiej, w tym co najmniej 10 lat pracy na statkach handlowych, w tym co najmniej 5 lat pracy na stanowiskach na poziomie zarządzania, o którym mowa w Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r. (Dz. U. z 1984 r. poz. 201 i 202, z 1999 r. poz. 286, z 2013 r. poz. 1092 i 1093, z 2018 r. poz. 1866 i 2088 oraz z 2019 r. poz. 103).
+2. Przewodniczącym Komisji może być osoba spełniająca warunki, o których mowa w ust. 1, oraz posiadająca co najmniej piętnastoletnie doświadczenie w pracy w gospodarce morskiej, w tym co najmniej 10 lat pracy na statkach handlowych, w tym co najmniej 5 lat pracy na stanowiskach na poziomie zarządzania, o którym mowa w Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r. (Dz. U. z 1984 r. Nr 39, poz. 201 i 202 oraz z 1999 r. Nr 30, poz. 286).
 
 **Art. 5.**
 
@@ -111,9 +110,9 @@ source: "isap-pdf"
 
 2. Wygaśnięcie członkostwa w Komisji spowodowane upływem okresu wyznaczenia, zaprzestaniem spełniania wymagań określonych w art. 4 ust. 1, cofnięciem wyznaczenia na podstawie art. 3 ust. 7 i 8, lub przyjęciem przez ministra właściwego do spraw gospodarki morskiej rezygnacji, jest równoznaczne z rozwiązaniem stosunku pracy bez wypowiedzenia.
 
-**Art. 6.** W zakresie nawiązywania i rozwiązywania stosunku pracy do członków Komisji stosuje się ustawę z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2019 r. poz. 1040 i 1043), zwaną dalej „Kodeksem pracy”, z zastrzeżeniem przypadków określonych w niniejszej ustawie. Z dniem wyznaczenia z członkiem Komisji zawiera się umowę o pracę.
+**Art. 6.** W zakresie nawiązywania i rozwiązywania stosunku pracy do członków Komisji stosuje się ustawę z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.), zwaną dalej „Kodeksem pracy”, z zastrzeżeniem przypadków określonych w niniejszej ustawie. Z dniem wyznaczenia z członkiem Komisji zawiera się umowę o pracę.
 
-**Art. 7.** Do członków Komisji stosuje się odpowiednio przepisy art. 21–24, art. 26 i art. 28 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2018 r. poz. 1915 oraz z 2019 r. poz. 1043).
+**Art. 7.** Do członków Komisji stosuje się odpowiednio przepisy art. 21–24, art. 26 i art. 28 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2001 r. Nr 86, poz. 953, z późn. zm.).
 
 **Art. 8.**
 
@@ -143,13 +142,17 @@ source: "isap-pdf"
 
 1. W pracach Komisji uczestniczą, w miarę potrzeby, eksperci wyznaczeni przez przewodniczącego Komisji.
 
-2. Ekspertem może być osoba posiadająca wykształcenie co najmniej średnie lub średnie branżowe oraz doświadczenie w zakresie niezbędnym przy badaniu wypadku lub incydentu morskiego.
+2. Ekspertem może być osoba posiadająca wykształcenie co najmniej średnie oraz doświadczenie w zakresie niezbędnym przy badaniu wypadku lub incydentu morskiego.
 
 3. Ekspertom za udział w pracach Komisji, w tym za wykonanie ekspertyzy, przysługuje ustalone w umowie cywilnoprawnej wynagrodzenie, którego wysokość uzależnia się od charakteru prowadzonego badania i jego złożoności.
 
 4. Przewodniczący Komisji może zlecić wykonanie ekspertyz, badań lub analiz niezbędnych do prowadzenia badania wypadku lub incydentu morskiego, innym podmiotom niż eksperci.
 
 **Art. 11.** Członek Komisji lub ekspert biorący udział w pracach Komisji, także po wygaśnięciu członkostwa w Komisji lub zakończeniu przez eksperta prac w Komisji:
+
+- **1)** jest obowiązany zachować w tajemnicy wiadomości powzięte w związku z badaniem przez Komisję wypadku lub incydentu morskiego;
+- **2)** może być zwolniony od obowiązku zachowania tajemnicy przez właściwy organ wyłącznie gdy nadrzędny interes publiczny uzasadnia odstąpienie od zasady poufności;
+- **3)** nie może występować w roli biegłego w postępowaniu przed sądem lub innym organem w zakresie spraw prowadzonych przez Komisję, w których członek Komisji lub ekspert brał lub bierze udział.
 
 **Art. 12.**
 
@@ -183,24 +186,23 @@ source: "isap-pdf"
 
 1. Komisja bada wypadki i incydenty morskie:
 
-- **1)** w których uczestniczył:
-    - **a)** statek o polskiej przynależności,
-    - **b)** statek o obcej przynależności, jeżeli wypadek lub incydent morski nastąpił na polskich morskich wodach wewnętrznych lub polskim morzu terytorialnym,
-    - **c)** prom pasażerski typu ro-ro lub szybki statek pasażerski, jeżeli wypadek lub incydent morski nastąpił poza wodami wewnętrznymi lub morzem terytorialnym państwa członkowskiego Unii Europejskiej, w przypadku gdy ostatnim portem zawinięcia statku był port w Rzeczypospolitej Polskiej;
+- **1)** w których uczestniczył: statek o polskiej przynależności, statek o obcej przynależności, jeżeli wypadek lub incydent morski nastąpił na polskich morskich wodach wewnętrznych lub polskim morzu terytorialnym, prom pasażerski typu ro-ro lub szybki statek pasażerski, jeżeli wypadek lub incydent morski nastąpił poza wodami wewnętrznymi lub morzem terytorialnym państwa członkowskiego Unii Europejskiej, w przypadku gdy ostatnim portem zawinięcia statku był port w Rzeczypospolitej Polskiej;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **2)** w stosunku do których Rzeczpospolita Polska jest państwem istotnie zainteresowanym w rozumieniu art. 21 ust. 3.
 
 2. Komisja nie bada wypadków i incydentów morskich:
 
-- **1)** w których uczestniczyły wyłącznie:
-    - **a)** jednostki pływające Marynarki Wojennej, Straży Granicznej lub Policji,
-    - **b)** statki bez napędu mechanicznego lub statki drewniane o prostej konstrukcji;
+- **1)** w których uczestniczyły wyłącznie: jednostki pływające Marynarki Wojennej, Straży Granicznej lub Policji, statki bez napędu mechanicznego lub statki drewniane o prostej konstrukcji;
+    - **a)**
+    - **b)**
 
-- **2)** w których uczestniczyły wyłącznie:
-    - **a)** inne, niż określone w pkt 1 lit. a, statki pełniące wyłącznie specjalną służbę państwową lub eksploatowane przez państwo w celach niehandlowych,
-    - **b)** statki rybackie o długości całkowitej do 15 m,
-    - **c)** jachty rekreacyjne,
-    - **d)** statki i obiekty pływające wchodzące w skład zespołu holowniczego, inne niż statek holujący – z wyjątkiem bardzo poważnych wypadków;
+- **2)** w których uczestniczyły wyłącznie: inne, niż określone w pkt 1 lit. a, statki pełniące wyłącznie specjalną służbę państwową lub eksploatowane przez państwo w celach niehandlowych, statki rybackie o długości całkowitej do 15 m, jachty rekreacyjne z wyjątkiem bardzo poważnych wypadków;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **3)** na stałych platformach wiertniczych, w których nie uczestniczyły statki morskie.
 
@@ -226,7 +228,7 @@ source: "isap-pdf"
 
 **Art. 18.**
 
-1. W pracach Komisji, w tym w pracach zespołu prowadzącego czynności badawcze, nie może brać udziału członek Komisji lub ekspert, który podlega wyłączeniu. Do wyłączenia stosuje się odpowiednio przepis art. 24 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096 oraz z 2019 r. poz. 60, 730 i 1133).
+1. W pracach Komisji, w tym w pracach zespołu prowadzącego czynności badawcze, nie może brać udziału członek Komisji lub ekspert, który podlega wyłączeniu. Do wyłączenia stosuje się odpowiednio przepis art. 24 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.).
 
 2. Członka Komisji lub eksperta, który podlega wyłączeniu z prac Komisji, w tym z prac zespołu prowadzącego czynności badawcze, wyłącza przewodniczący Komisji.
 
@@ -390,7 +392,7 @@ source: "isap-pdf"
 
 - **1)** dowody z wysłuchania osób oraz inne dokumenty sporządzane lub otrzymane przez Komisję w trakcie badania wypadku lub incydentu morskiego,
 - **2)** zapisy ujawniające tożsamość osób wysłuchanych w trakcie badania wypadku lub incydentu morskiego,
-- **3)** informacje dotyczące osób, które uczestniczyły w wypadku lub incydencie morskim, mające charakter informacji szczególnie chronionych lub prywatnych, w tym informacji dotyczących ich stanu zdrowia – nie mogą być udostępnione przez Komisję ani organom procesowym w postępowaniu karnym, ani żadnym innym organom prowadzącym postępowanie mające na celu ustalenie odpowiedzialności lub winy.
+- **3)** informacje dotyczące osób, które uczestniczyły w wypadku lub incydencie morskim, mające charakter informacji szczególnie chronionych lub prywatnych, w tym informacji dotyczących ich stanu zdrowia nie mogą być udostępnione przez Komisję ani organom procesowym w postępowaniu karnym, ani żadnym innym organom prowadzącym postępowanie mające na celu ustalenie odpowiedzialności lub winy.
 
 2. Udostępnienie dowodów, dokumentów, zapisów i informacji, o których mowa w ust. 1, może być dokonane wyłącznie na potrzeby postępowania przygotowawczego, sądowego, sądowo-administracyjnego lub postępowania przed izbą morską za zgodą sądu, jeżeli sąd uzna, że nadrzędny interes publiczny uzasadnia ich ujawnienie. Właściwy do rozpoznania sprawy jest Sąd Okręgowy w Gdańsku.
 
@@ -401,8 +403,6 @@ source: "isap-pdf"
 2. Udostępnione ekspertyzy nie mogą stanowić dowodu winy lub być przesłanką odpowiedzialności w postępowaniu przed organami, o których mowa w ust. 1.
 
 **Art. 34.** W przypadku gdy do badania wypadku lub incydentu morskiego konieczne jest podjęcie przez Komisję współpracy z innym działającym na terytorium Rzeczypospolitej Polskiej organem badającym wypadki lub incydenty morskie, w tym z Państwową Komisją Badania Wypadków Lotniczych, zakres i tryb współpracy uzgadniają przewodniczący tych organów.
-
-**Art. 34a.** Komisja wykonuje obowiązek, o którym mowa w art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), przy pierwszej czynności skierowanej do osoby, której dane dotyczą, chyba że posiada ona te informacje, a ich zakres lub treść nie uległy zmianie.
 
 #### Rozdział 4 Raporty i zalecenia
 
@@ -463,9 +463,7 @@ source: "isap-pdf"
 3. Przewodniczący Komisji przesyła Międzynarodowej Organizacji Morskiej (IMO) kopię raportu końcowego z badania:
 
 - **1)** bardzo poważnego wypadku morskiego,
-- **2)** wypadku morskiego innego niż określony w pkt 1, lub incydentu morskiego, w którym zawarte są informacje mogące zapobiec lub zmniejszyć skutki wypadków lub incydentów morskich w przyszłości – za pośrednictwem Światowego Zintegrowanego Systemu Informacji Żeglugowej (GISIS), stanowiącego bazę informacji w zakresie bezpieczeństwa, ochrony żeglugi i środowiska morskiego, prowadzoną przez Międzynarodową Organizację Morską (IMO).
-
-4. Przewodniczący Komisji niezwłocznie przekazuje Prezesowi Wyższego Urzędu Górniczego kopię raportu, o którym mowa w ust. 1, jeżeli dotyczy on zdarzenia związanego z działalnością polegającą na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej.
+- **2)** wypadku morskiego innego niż określony w pkt 1, lub incydentu morskiego, w którym zawarte są informacje mogące zapobiec lub zmniejszyć skutki wypadków lub incydentów morskich w przyszłości za pośrednictwem Światowego Zintegrowanego Systemu Informacji Żeglugowej (GISIS), stanowiącego bazę informacji w zakresie bezpieczeństwa, ochrony żeglugi i środowiska morskiego, prowadzoną przez Międzynarodową Organizację Morską (IMO).
 
 **Art. 42.**
 
@@ -512,7 +510,7 @@ source: "isap-pdf"
 4. Podmiot zarządzający portem i użytkownik infrastruktury portowej, których dotyczy wypadek morski, w którego wyniku:
 
 - **1)** doszło do śmierci lub ciężkiego uszczerbku na zdrowiu człowieka lub
-- **2)** obiekty infrastruktury portowej zostały uszkodzone lub spowodowały szkodę – mają obowiązek powiadomić o wypadku morskim Komisję oraz zabezpieczyć ślady i dowody dotyczące tego wypadku.
+- **2)** obiekty infrastruktury portowej zostały uszkodzone lub spowodowały szkodę mają obowiązek powiadomić o wypadku morskim Komisję oraz zabezpieczyć ślady i dowody dotyczące tego wypadku.
 
 5. Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, sposób wykonania obowiązków armatora i kapitana statku, podmiotu zarządzającego portem oraz użytkownika infrastruktury portowej, w zakresie sposobu zabezpieczenia śladów i dowodów dotyczących wypadku lub incydentu morskiego, biorąc pod uwagę konieczność prawidłowego postępowania w przypadku zaistnienia wypadku lub incydentu morskiego.
 
@@ -520,12 +518,15 @@ source: "isap-pdf"
 
 **Art. 49.** Osoba dysponująca:
 
+- **1)** środkami łączności mogącymi pomóc w przekazaniu wiadomości dotyczącej wypadku lub incydentu morskiego,
+- **2)** środkami rejestracji obrazu lub dźwięku albo materiałami lub informacjami o śladach mogącymi pomóc w ustaleniu okoliczności i przyczyn wypadku lub incydentu morskiego jest obowiązana udostępnić je niezwłocznie na żądanie Komisji.
+
 **Art. 50.**
 
 1. Osoba dysponująca:
 
 - **1)** informacjami związanymi z wypadkiem lub incydentem morskim pochodzącymi z map, dzienników, zapisów elektronicznych i magnetycznych oraz taśm wideo, łącznie z informacjami pochodzącymi z rejestratorów VDR lub S-VDR i innych urządzeń elektronicznych, odnoszących się do okresu przed, w trakcie i po zajściu badanego wypadku lub incydentu morskiego jest obowiązana do ich zachowania, zapobieżenia ich nadpisaniu lub innym zmianom tych informacji,
-- **2)** innymi urządzeniami niż urządzenia, o których mowa w pkt 1, które mogłyby zostać zasadnie uznane za mające związek z badaniem wypadku lub incydentu morskiego jest obowiązana do zapobieżenia ingerencji w te urządzenia – do czasu poinformowania przez Komisję, że nie są one niezbędne do prowadzenia badania, nie dłużej jednak niż przez 3 miesiące od dnia zaistnienia wypadku lub incydentu morskiego.
+- **2)** innymi urządzeniami niż urządzenia, o których mowa w pkt 1, które mogłyby zostać zasadnie uznane za mające związek z badaniem wypadku lub incydentu morskiego jest obowiązana do zapobieżenia ingerencji w te urządzenia do czasu poinformowania przez Komisję, że nie są one niezbędne do prowadzenia badania, nie dłużej jednak niż przez 3 miesiące od dnia zaistnienia wypadku lub incydentu morskiego.
 
 2. Osoby, o których mowa w ust. 1, po zaistnieniu wypadku lub incydentu morskiego niezwłocznie informują Komisję o posiadanych informacjach i urządzeniach wymienionych w ust. 1.
 
@@ -535,19 +536,19 @@ source: "isap-pdf"
 
 1. Kto:
 
-- **1)** będąc świadkiem wypadku lub incydentu morskiego nie powiadomił:
-    - **a)** najbliższego terenowego organu administracji morskiej lub
-    - **b)** Morskiej Służby Poszukiwania i Ratownictwa, lub
-    - **c)** Marynarki Wojennej, lub
-    - **d)** Straży Granicznej, lub
-    - **e)** Policji, lub
-    - **f)** Państwowej Straży Pożarnej, lub
-    - **g)** innych służb ustawowo powołanych do niesienia pomocy,
+- **1)** będąc świadkiem wypadku lub incydentu morskiego nie powiadomił: najbliższego terenowego organu administracji morskiej lub Morskiej Służby Poszukiwania i Ratownictwa, lub Marynarki Wojennej, lub Straży Granicznej, lub Policji, lub Państwowej Straży Pożarnej, lub innych służb ustawowo powołanych do niesienia pomocy,
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
 
 - **2)** uniemożliwia członkom Komisji korzystanie z przysługujących im uprawnień, o których mowa w art. 29 ust. 1,
 - **3)** uniemożliwia ekspertom biorącym udział w pracach Komisji lub przedstawicielom istotnie zainteresowanych państw korzystanie z przyznanych im zgodnie z art. 31 uprawnień,
-- **4)** nie udostępnia Komisji, na jej żądanie, środków, materiałów lub informacji, o których mowa w art. 49 i art. 50,
-- **5)** będąc obowiązany do powiadomienia przewodniczącego Komisji o uwzględnieniu lub o przyczynach nieuwzględnienia zaleceń wydanych przez Komisję w terminie, o którym mowa w art. 44, nie powiadomił tego organu – podlega karze pieniężnej do wysokości nieprzekraczającej dwudziestokrotnego przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej za rok poprzedzający, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego.
+- **4)** nie udostępnia Komisji, na jej żądanie, środków, materiałów lub informacji o śladach, o których mowa w art. 49,
+- **5)** będąc obowiązany do powiadomienia przewodniczącego Komisji o uwzględnieniu lub o przyczynach nieuwzględnienia zaleceń wydanych przez Komisję w terminie, o którym mowa w art. 44, nie powiadomił tego organu podlega karze pieniężnej do wysokości nieprzekraczającej dwudziestokrotnego przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej za rok poprzedzający, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego.
 
 **Art. 52.** Kary pieniężne wymierza, w drodze decyzji, minister właściwy do spraw gospodarki morskiej.
 
@@ -555,19 +556,223 @@ source: "isap-pdf"
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących
 
-**Art. 54.** (pominięty)
+**Art. 54.** W ustawie z dnia 1 grudnia 1961 r. o izbach morskich (Dz. U. z 2009 r. Nr 69, poz. 599, z 2010 r. Nr 182, poz. 1228 oraz z 2011 r. Nr 228, poz. 1368) wprowadza się następujące zmiany:
 
-**Art. 55.** (pominięty)
+- **1)** skreśla się odnośnik pierwszy do tytułu ustawy;
+- **2)** w art. 1 ust. 2 otrzymuje brzmienie: „
 
-**Art. 56.** (pominięty)
+2. Wypadkami morskimi w rozumieniu niniejszej ustawy są:
+
+- **1)** wypadek morski, o którym mowa w art. 2 ust. 1 pkt 1 ustawy z dnia 31 sierpnia 2012 r. o Państwowej Komisji Badania Wypadków Morskich (Dz. U. poz. 1068);
+- **2)** zdarzenie, lub kilka następujących po sobie zdarzeń, związane bezpośrednio z eksploatacją statku, w rozumieniu art. 5 pkt 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368), zaistniałe w wyniku świadomego działania lub zaniechania podjętego z zamiarem naruszenia bezpieczeństwa statku, wyrządzenia szkody na osobie lub szkody w środowisku. ” ;
+- **3)** w art. 2 uchyla się ust. 1a;
+- **4)** uchyla się art. 3a;
+- **5)** w art. 21: w ust. 1: – uchyla się pkt 1, – pkt 5 otrzymuje brzmienie: „ 5) wykonywać czynności w drodze pomocy prawnej. ” , ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2. Konsul Rzeczypospolitej Polskiej jest obowiązany, po otrzymaniu wiadomości o wypadku morskim, przedsięwziąć niezwłocznie w ramach swoich uprawnień czynności, o których mowa w ust. 1. ” , uchyla się ust. 3–3b;
+
+- **c)**
+- **6)** art. 22 otrzymuje brzmienie: „ Izba morska wszczyna postępowanie na wniosek zainteresowanego lub organu administracji morskiej. ” ;
+- **7)** uchyla się art. 22a;
+- **8)** w art. 23: uchyla się ust. 2, ust. 4 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+4. W sprawach określonych w art. 15 ust. 4 uprawnienia delegata wynikające z przepisów ust. 1 i 3 przysługują odpowiednio państwowemu inspektorowi pracy. ” ;
+
+- **9)** uchyla się art. 24a;
+- **10)** uchyla się art. 25a;
+- **11)** w art. 28 dodaje się ust. 8 w brzmieniu: „
+
+8. Przepisy ust. 2–7 nie naruszają przepisów ustawy z dnia 31 sierpnia 2012 r. o Państwowej Komisji Badania Wypadków Morskich. ” ;
+
+- **12)** w art. 35 ust. 1 otrzymuje brzmienie: „
+
+1. Jeżeli zainteresowany członek załogi statku lub pilot morski, posiadający dokument określający jego uprawnienia w żegludze morskiej wydany przez właściwy organ polski, wykazał brak koniecznych umiejętności niezbędnych do zapewnienia bezpieczeństwa żeglugi morskiej lub przez rażące zaniedbania spowodował wypadek morski lub przyczynił się do jego powstania, izba morska może, w orzeczeniu, pozbawić go prawa wykonywania tych uprawnień w częściowym lub pełnym zakresie na okres od 1 roku do 5 lat. ” ;
+
+- **13)** uchyla się art. 39a;
+- **14)** art. 59 otrzymuje brzmienie: „
+
+**Art. 59.**
+
+1. Izba morska może nałożyć na winnych nieprzestrzegania przepisu art. 28 ust. 2 karę pieniężną w wysokości do 5000 zł.
+
+2. Na postanowienie wydane na podstawie ust. 1 służy zażalenie. ” .
+
+**Art. 55.** W ustawie z dnia 18 września 2001 r. – Kodeks morski (Dz. U. z 2009 r. Nr 217, poz. 1689, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** art. 66 otrzymuje brzmienie: „
+
+**Art. 66.**
+
+§ 1. Kapitan obowiązany jest niezwłocznie zawiadomić o wypadku morskim Państwową Komisję Badania Wypadków Morskich, z uwzględnieniem przepisów ustawy z dnia 31 sierpnia 2012 r. o Państwowej Komisji Badania Wypadków Morskich (Dz. U. poz. 1068).
+
+§ 2. Kapitan obowiązany jest, na żądanie izby morskiej lub kapitanatu portu, udzielić wyjaśnień o każdym wypadku morskim. ” ;
+
+- **2)** art. 229 otrzymuje brzmienie: „
+
+**Art. 229.**
+
+§ 1. Świadczenie usług pilotowych w pilotażu obowiązkowym organizują i koordynują stacje pilotowe.
+
+§ 2. Stację pilotową tworzy minister właściwy do spraw gospodarki morskiej, na wniosek dyrektora urzędu morskiego właściwego dla określonego rejonu pilotowego, określając wymagania, jakie powinna spełniać stacja pilotowa, mając na uwadze określony rejon pilotowy oraz konieczność zapewnienia bezpieczeństwa żeglugi w tym rejonie, a także potrzebę zapewnienia prawidłowej realizacji usług pilotowych.
+
+§ 3. Dyrektor urzędu morskiego wydaje regulamin funkcjonowania stacji pilotowej po zasięgnięciu opinii organizacji społeczno-zawodowej pilotów. ” ;
+
+- **3)** w art. 249 uchyla się § 2.
+
+**Art. 56.** W ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368) wprowadza się następujące zmiany:
+
+- **1)** w art. 5: pkt 3 otrzymuje brzmienie: „
+    - **a)**
+
+- **3)** statku rybackim – należy przez to rozumieć statek przeznaczony lub używany do rybołówstwa morskiego lub pozyskiwania innych żywych zasobów morza; ” , w pkt 23 lit. b otrzymuje brzmienie: „ państwo portu – zgodnie z postanowieniami porozumień międzynarodowych w sprawie inspekcji państwa portu; ” , pkt 24 otrzymuje brzmienie: „
+    - **b)**
+    - **b)**
+    - **c)**
+
+- **24)** Memorandum Paryskim – należy przez to rozumieć międzynarodowe porozumienie administracji morskich państw Europy i Kanady w sprawie regionalnego systemu portowej kontroli statków obcych bander zawijających do ich portów, podpisane w Paryżu dnia 26 stycznia 1982 r. (Dz. Urz. MI z 2010 r. Nr 14, poz. 49); ” ; pkt 36 otrzymuje brzmienie: „
+    - **d)**
+
+- **36)** państwie trzecim – należy przez to rozumieć państwo niebędące państwem członkowskim Unii Europejskiej. ” ;
+- **2)** w art. 12 ust. 2 otrzymuje brzmienie: „
+
+2. Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, wymagania w zakresie budowy statku, jego stałych urządzeń i wyposażenia dla statków nieobjętych umowami międzynarodowymi bądź uzna za obowiązujące w tym zakresie wymagania określone w przepisach technicznych uznanej organizacji lub podmiotu, o którym mowa w art. 26 ust. 1, kierując się koniecznością zapewnienia bezpieczeństwa statków oraz życia i zdrowia osób przebywających na statkach, z uwzględnieniem, dla statków rybackich o długości co najmniej 24 m, przepisów Unii Europejskiej ustanawiających zharmonizowany system bezpieczeństwa dla takich statków. ” ;
+
+- **3)** w art. 20 w ust. 1 pkt 1 otrzymuje brzmienie: „
+- **1)** wstępnej – przeprowadzanej w celu uzyskania po raz pierwszy certyfikatu wymaganego dla danego statku, zgodnie z przepisami wydanymi na podstawie art. 23 ust. 4; ” ;
+- **4)** art. 22 otrzymuje brzmienie: „ W ramach inspekcji państwa bandery:
+- **1)** statek o polskiej przynależności podlega audytowi: wstępnemu – przeprowadzanemu w celu wydania dokumentu zgodności oraz certyfikatu zarządzania bezpieczeństwem lub dokumentów tymczasowych, pośredniemu – przeprowadzanemu w celu potwierdzenia ważności certyfikatu zarządzania bezpieczeństwem, odnowieniowemu – przeprowadzanemu w celu wydania nowego dokumentu zgodności lub certyfikatu zarządzania bezpieczeństwem w związku z upływem ich ważności, dodatkowemu – przeprowadzanemu w celu dodatkowej weryfikacji funkcjonowania systemu zarządzania bezpieczeństwem w okresach pomiędzy audytami;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **2)** armator podlega audytowi w celu potwierdzenia ważności dokumentu zgodności, corocznie, w okresie od trzech miesięcy przed upływem daty rocznicowej do trzech miesięcy po tej dacie. ” ;
+- **5)** w art. 26 ust. 2 otrzymuje brzmienie: „
+
+2. Podmiot, o którym mowa w ust. 1, powinien spełniać warunki techniczne i organizacyjne oraz posiadać przepisy techniczne w zakresie budowy i stałego wyposażenia jachtów morskich, a także zapewnić, aby osoby dokonujące przeglądów technicznych jachtów morskich posiadały wiedzę techniczną oraz znajomość przepisów technicznych w zakresie budowy i stałego wyposażenia takich jachtów. ” ;
+
+- **6)** w art. 28: w ust. 1 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** zapewnia, aby statek odpowiadał wymaganiom obowiązujących przepisów międzynarodowych, w szczególności przeprowadza ocenę stanu technicznego statku, weryfikując usunięcie uchybień stwierdzonych przez poprzednią administrację. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **b)**
+
+1a. Za przeprowadzenie oceny stanu technicznego statku przed wpisaniem go do polskiego rejestru pobiera się opłatę określoną w załączniku do ustawy. Opłata stanowi dochód budżetu państwa. ” , ust. 4 otrzymuje brzmienie: „
+
+- **c)**
+
+4. Minister właściwy do spraw gospodarki morskiej, kierując się koniecznością zapewnienia odpowiedniego poziomu bezpieczeństwa i ochrony środowiska oraz uwzględniając wiek i stan techniczny statków, których przynależność zmieniana jest z obcej na polską, określi, w drodze rozporządzenia, sposób przeprowadzania oceny stanu technicznego statku oraz wymagane warunki, jakie statek powinien spełniać, aby został wpisany do rejestru. ” ;
+
+- **7)** w art. 54 ust. 3 otrzymuje brzmienie: „
+
+3. Dyrektor urzędu morskiego może wyrazić zgodę na wejście do portu statkowi, któremu wydano zakaz wejścia do portu, w wyjątkowych przypadkach spowodowanych siłą wyższą, potrzebą zapewnienia statkowi bezpieczeństwa, w celu zmniejszenia ryzyka zanieczyszczenia lub usunięcia uchybień, pod warunkiem że armator lub kapitan zastosuje zalecone przez dyrektora urzędu morskiego środki zapewniające bezpieczne wejście statku do portu. ” ;
+
+- **8)** w art. 76 w ust. 4 pkt 1 otrzymuje brzmienie: „
+- **1)** warunki i tryb uznawania, zmiany zakresu, potwierdzania uznania, odnawiania, zawieszania i cofania uznania podmiotów, o których mowa w art. 75 ust. 1, ” ;
+- **9)** w art. 80 w ust. 1 pkt 2 otrzymuje brzmienie: „
+- **2)** dokonując wpisu w karcie bezpieczeństwa lub certyfikacie, dla statków innych niż określone w pkt 1. ” ;
+- **10)** w art. 89 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadkach, o których mowa w art. 88 ust. 1 ustawy oraz w art. 11 ust. 3 i 4 ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki, dyrektor urzędu morskiego właściwy ze względu na miejsce, w którym znajduje się statek, w celu zapewnienia bezpieczeństwa życia na morzu, bezpieczeństwa żeglugi lub ochrony środowiska morskiego może: ” ;
+- **11)** w art. 94 ust. 2 otrzymuje brzmienie: „
+
+2. Dyrektor urzędu morskiego sporządza plan udzielenia schronienia statkom znajdującym się w niebezpieczeństwie lub potrzebującym pomocy na polskich obszarach morskich znajdujących się w jego właściwości. Plan, w części dotyczącej obszarów portu lub obiektu portowego, sporządza się w porozumieniu z podmiotem zarządzającym portem, przystanią morską lub obiektem portowym. Plan nie narusza postanowień „Planu akcji poszukiwawczych i ratowniczych”, o którym mowa w art. 117 ust. 2, i przepisów wydanych na podstawie art. 24 ust. 1 ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki. ” ;
+
+- **12)** art. 107 otrzymuje brzmienie: „
+
+**Art. 107.**
+
+1. Usługi pilotowe mogą być wykonywane wyłącznie przez osoby posiadające kwalifikacje pilota morskiego potwierdzone odpowiednim dokumentem.
+
+2. Wykonywanie usług pilotowych na określonych rodzajach statków oraz na określonych trasach lub akwenach może być uwarunkowane uzyskaniem przez pilota morskiego szczególnych uprawnień pilotowych.
+
+3. Dokumenty stwierdzające uzyskanie kwalifikacji pilota morskiego lub szczególnych uprawnień pilotowych wydają dyrektorzy urzędów morskich.
+
+4. Za wydanie dokumentów pobiera się opłatę, której wysokość jest określona w załączniku do ustawy. Opłata stanowi dochód budżetu państwa.
+
+5. Dokumenty, o których mowa w ust. 3, wydaje się, na czas określony, osobie, która:
+
+- **1)** posiada odpowiednie dokumenty kwalifikacyjne, o których mowa w art. 63, i praktykę pływania;
+- **2)** odbyła wymagane szkolenie pilotów i praktykę pilotową;
+- **3)** zdała egzamin kwalifikacyjny przed Komisją.
+
+6. Szkolenie pilotów i praktykę pilotową prowadzi stacja pilotowa lub ośrodek szkolenia pilotów, uznane przez ministra właściwego do spraw gospodarki morskiej.
+
+7. Naboru kandydatów na szkolenia pilotów i praktyki pilotowe dokonuje dyrektor urzędu morskiego właściwy dla określonego rejonu pilotowego w porozumieniu ze stacją pilotową i organizacją społeczno-zawodową pilotów, uwzględniając natężenie ruchu statków oraz stan osobowy pilotów morskich w danym rejonie.
+
+8. Stację pilotową lub ośrodek szkolenia pilotów uznaje się, jeżeli ich program szkolenia, baza szkoleniowa oraz kwalifikacje kadry zapewniają należyte wyszkolenie pilotów morskich.
+
+9. Uznania, o którym mowa w ust. 6, dokonuje się w drodze decyzji na okres 4 lat. ” ;
+
+- **13)** po art. 107 dodaje się art. 107a i art. 107b w brzmieniu: „
+
+1. Minister właściwy do spraw gospodarki morskiej sprawuje nadzór nad szkoleniem pilotów i praktykami pilotowymi dokonując audytów.
+
+2. Audyty, o których mowa w ust. 1, przeprowadza się co 2 lata na wniosek stacji pilotowej lub ośrodka szkolenia pilotów.
+
+3. W przypadku uzasadnionego podejrzenia wystąpienia nieprawidłowości w szkoleniu pilotów lub realizacji praktyk pilotowych minister właściwy do spraw gospodarki morskiej przeprowadza audyt dodatkowy.
+
+4. Audyty przeprowadzają audytorzy, o których mowa w art. 76 ust. 1–3.
+
+5. Jeżeli w wyniku przeprowadzonego audytu zostały stwierdzone nieprawidłowości w szkoleniu pilotów lub realizacji praktyki pilotowej minister właściwy do spraw gospodarki morskiej może, w drodze decyzji, zawiesić albo cofnąć uznanie, w zależności od rodzaju stwierdzonych nieprawidłowości.
+
+6. Za przeprowadzenie audytów, z wyjątkiem audytów dodatkowych, pobiera się opłaty w wysokości 50% kwoty określonej w pkt 12.1 i 12.4 części III „Opłaty za egzamin” załącznika do ustawy. Opłaty stanowią dochód budżetu państwa.
+
+1. Kwalifikacje pilotów morskich w zakresie ochrony żeglugi, regulują przepisy o ochronie żeglugi i portów morskich.
+
+2. Nadzór nad pilotażem na obszarze portów morskich, morskich wód wewnętrznych i morza terytorialnego, w zakresie niezbędnym do zapewnienia bezpieczeństwa morskiego, sprawuje dyrektor urzędu morskiego właściwy dla tego obszaru, prowadząc w szczególności listę pilotów.
+
+3. Właściwy dyrektor urzędu morskiego, jeżeli wymagają tego warunki bezpieczeństwa morskiego, wprowadza, w drodze zarządzenia, pilotaż obowiązkowy, określając warunki korzystania z usług pilota i zwolnienia z pilotażu obowiązkowego.
+
+4. Minister właściwy do spraw gospodarki morskiej, ze względu na utrudnienia nawigacyjne, może wprowadzić, w drodze rozporządzenia, pilotaż obowiązkowy na morzu terytorialnym, określając warunki korzystania z usług pilota i zwolnienia z pilotażu obowiązkowego, kierując się względami bezpieczeństwa żeglugi.
+
+5. Minister właściwy do spraw gospodarki morskiej, określi, w drodze rozporządzenia:
+
+- **1)** szczegółowe wymagania kwalifikacyjne pilota morskiego,
+- **2)** warunki wymagane do uzyskania szczególnych uprawnień pilotowych,
+- **3)** warunki wymagane do uzyskania i odnawiania dokumentów kwalifikacyjnych i dokumentów potwierdzających szczególne uprawnienia pilotowe oraz wzory tych dokumentów,
+- **4)** wymagania egzaminacyjne dla uzyskania oraz odnowienia dokumentu stwierdzającego uzyskanie kwalifikacji pilota morskiego,
+- **5)** wymagania egzaminacyjne dla uzyskania zwolnienia z pilotażu obowiązkowego,
+- **6)** programy szkoleń pilotów i praktyk pilotowych,
+- **7)** warunki naboru kandydatów na szkolenia pilotów i praktyki pilotowe,
+- **8)** warunki i tryb uznawania, odnawiania, zawieszania i cofania uznania stacji pilotowych i ośrodków szkolenia pilotów oraz wymagania dotyczące wyposażenia bazy szkoleniowej oraz kwalifikacji kadry,
+- **9)** sposób sprawowania nadzoru nad pilotażem przez dyrektora urzędu morskiego, w tym zakres danych umieszczanych na liście pilotów mając na względzie konieczność zapewnienia bezpieczeństwa żeglugi na obszarze portów morskich, morskich wód wewnętrznych, morza terytorialnego oraz potrzebę zapewnienia prawidłowej realizacji usług pilotowych. ” ;
+- **14)** w art. 124 ust. 3 otrzymuje brzmienie: „
+
+3. Rada Ministrów, mając na względzie efektywność działań brzegowych stacji ratowniczych określi, w drodze rozporządzenia, szczegółowe warunki i sposób wykonywania zadań poszukiwania i ratowania życia na morzu przez Służbę SAR, oraz sposób realizacji uprawnień członków ochotniczych drużyn ratowniczych. ” ;
+
+- **15)** w załączniku do ustawy w części „I. Opłaty za przeprowadzenie inspekcji i wystawienie certyfikatów” wprowadza się następujące zmiany: pkt 17.2 otrzymuje brzmienie:
+    - **a)**
+
+17. 2. Opłata za przeprowadzenie inspekcji w celu potwierdzenia ważności certyfikatu lub karty bezpieczeństwa wynosi 50% wartości stawki określonej do przeprowadzenia inspekcji w celu wydania certyfikatu lub karty bezpieczeństwa, na której dokonano potwierdzenia ważności. ” , pkt 18.9.5 otrzymuje brzmienie:
+
+- **b)**
+
+18. 9.5. Statki o pojemności brutto powyżej 30 000 – opłata jak w pkt 18.9.4 i dodatkowo za każde następne 20 000 – 400 j.t. ” , pkt 18.21 otrzymuje brzmienie:
+
+- **c)**
+
+18. 21. Za każdorazowe określenie warunków przeładunku materiałów niebezpiecznych w miejscach, dla których nie zatwierdzono instrukcji, o której mowa w pkt 18.13 – 100 j.t. ” , dodaje się pkt 18.28–18.30 w brzmieniu:
+
+- **d)**
+
+18. 28. Za przeprowadzenie kontroli okresowej podmiotu upoważnionego do wykonywania przeglądów technicznych jachtów morskich o długości do 15 m – 300 j.t.
+
+18. 29. Za przeprowadzenie oceny stanu technicznego statku przed wpisaniem do polskiego rejestru: – 4000 j.t. – dla statków starszych niż 15 lat, – 500 j.t. – dla statków do 15 lat.
+
+18. 30. Za przedłużenie ważności karty bezpieczeństwa na okres nie dłuższy niż 5 miesięcy – pobiera się opłatę w wysokości 50% opłaty podstawowej za przeprowadzenie inspekcji w celu wydania karty bezpieczeństwa. ” , pkt 19.2 otrzymuje brzmienie:
+
+- **e)**
+
+19. 2. Koszty przejazdów oraz pobytu audytorów/inspektorów poza siedzibami urzędów morskich, związane z przeprowadzaniem audytu lub inspekcji ponosi armator statku. W przypadku gdy opłata netto wynosi poniżej 10 j.t., odstępuje się od jej pobrania. ” .
 
 #### Rozdział 8 Przepisy przejściowe i dostosowujące
 
 **Art. 57.** W sprawach wypadków morskich, w rozumieniu art. 1 ust. 2 ustawy zmienianej w art. 54 w brzmieniu dotychczasowym, które zaistniały przed dniem wejścia w życie niniejszej ustawy, postępowanie prowadzą na podstawie dotychczasowych przepisów, właściwe izby morskie.
 
-**Art. 58.** Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy na podstawie przepisów art. 76 ust. 4 oraz spraw do których mają zastosowanie przepisy pkt 17.2 i 18.9.5 oraz 18.21 załącznika ustawy zmienianej w art. 56, stosuje się przepisy dotychczasowe.
-
-**Art. 59.** Stacje pilotowe, o których mowa w art. 229 ustawy wymienionej w art. 55 utworzone przed dniem wejścia w życie niniejszej ustawy, stają się stacjami pilotowymi w rozumieniu art. 229 ustawy wymienionej w art. 55 w brzmieniu nadanym niniejszą ustawą.
+**Art. 58.** Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy na podstawie przepisów art. 76 ust. 4 oraz spraw do których mają zastosowanie przepisy pkt 17.2 i 18.9.5 oraz 18.21 załącznika ustawy zmienianej w art. 56, stosuje się przepisy dotychczasowe. Stacje pilotowe, o których mowa w art. 229 ustawy wymienionej w art. 55 utworzone przed dniem wejścia w życie niniejszej ustawy, stają się stacjami pilotowymi w rozumieniu art. 229 ustawy wymienionej w art. 55 w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 60.** Przepis wykonawczy, wydany na podstawie art. 12 ust. 2, art. 28 ust. 4 oraz art. 107 ust. 10 ustawy, o której mowa w art. 56, w brzmieniu dotychczasowym, zachowuje moc do czasu wejścia w życie przepisu wykonawczego wydanego na podstawie art. 12 ust. 2, art. 28 ust. 4 oraz art. 107b ust. 5 ustawy, o której mowa w art. 56, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
@@ -592,9 +797,9 @@ source: "isap-pdf"
 
 - **1)** wykorzystaniu innych rozwiązań technologicznych w zakresie prowadzenia przez Komisję badań wypadków lub incydentów morskich,
 - **2)** racjonalizacji wykonywania przez Komisję czynności,
-- **3)** obniżeniu kosztów zewnętrznej obsługi Komisji – mając na względzie zapewnienie prawidłowego funkcjonowania Komisji i zapewnienie bezpieczeństwa żeglugi.
+- **3)** obniżeniu kosztów zewnętrznej obsługi Komisji mając na względzie zapewnienie prawidłowego funkcjonowania Komisji i zapewnienie bezpieczeństwa żeglugi.
 
 3. Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa w ust. 1, oraz wdrożenia mechanizmów korygujących, o których mowa w ust. 2, jest minister właściwy do spraw gospodarki morskiej.
 
-**Art. 63.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia , z wyjątkiem przepisów art. 56 pkt 12 i 13, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia.
+**Art. 63.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem przepisów art. 56 pkt 12 i 13, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia.
 

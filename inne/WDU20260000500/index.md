@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o postępowaniu sprawach dotyczących pomocy publicznej
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 30 marca 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 kwietnia 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-04-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000500) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/500/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 30 marca 2026 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o postępowaniu sprawach dotyczących pomocy publicznej
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 kwietnia 2004 r. o postępowaniu sprawach dotyczących pomocy publicznej (Dz. U. z 2025 r. poz. 468), z uwzględnieniem stanu prawnego na dzień 26 marca 2026 r. oraz zmian wprowadzonych ustawą z dnia 9 października 2025 r. o zmianie ustawy o postępowaniu sprawach dotyczących pomocy publicznej (Dz. U. poz. 1652).
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 i art. 3 ustawy z dnia 9 października 2025 r. o zmianie ustawy o postępowaniu sprawach dotyczących pomocy publicznej (Dz. U. poz. 1652), które stanowią: „Art. 2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 32a ust. 4 i art. 35 pkt 2 ustawy zmienianej art. 1 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 32a ust. 4 i art. 35 pkt 2 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia życie niniejszej ustawy.
 
@@ -36,25 +36,44 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa określa zasady postępowania sprawach dotyczących pomocy państwa spełniającej przesłanki określone art. 107 ust. 1 TFUE, zwanej dalej „pomocą publiczną”, tym:
 
+- **1)** postępowanie sprawie przygotowania do notyfikacji projektów programów pomocowych, projektów pomocy indywidualnej oraz projektów pomocy indywidualnej na restrukturyzację;
+- **2)** zasady współpracy Prezesa Urzędu Ochrony Konkurencji i Konsumentów, zwanego dalej „Prezesem Urzędu”, oraz ministra właściwego do spraw rolnictwa z podmiotami opracowującymi programy pomocowe, podmiotami udzielającymi pomocy, podmiotami ubiegającymi się o pomoc oraz beneficjentami pomocy, zakresie pomocy publicznej;
+- **3)** (uchylony)
+- **4)** zasady i tryb zwrotu pomocy publicznej;
+- **5)** zasady monitorowania pomocy publicznej.
+
 **Art. 2.** Ilekroć ustawie jest mowa o:
+
+- **1)** Komisji należy przez to rozumieć Komisję Europejską;
+- **1a)** TFUE należy przez to rozumieć Traktat o funkcjonowaniu Unii Europejskiej;
+- **2)** rozporządzeniu Rady należy przez to rozumieć rozporządzenie Rady (UE) nr 2015/1589 z dnia 13 lipca 2015 r. ustanawiające szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 248 z 24.09.2015, str. 9);
+- **3)** pomocy udzielanej ramach wyłączeń grupowych należy przez to rozumieć pomoc publiczną, której nie dotyczy obowiązek notyfikacji, zgodnie z rozporządzeniami Komisji wydanymi na podstawie art. 1 rozporządzenia Rady (UE) nr 2015/1588 z dnia 13 lipca 2015 r. sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do niektórych kategorii horyzontalnej pomocy państwa (Dz. Urz. UE L 248 z 24.09.2015, str. 1, z późn. zm. );
+- **4)** (uchylony) 4a) (uchylony)
+- **5)** pomocy indywidualnej należy przez to rozumieć pomoc, o której mowa art. 1 lit. e rozporządzenia Rady;
+- **6)** pomocy indywidualnej na restrukturyzację należy przez to rozumieć pomoc indywidualną przewidzianą planie restrukturyzacyjnym określającym działania mające na celu przywrócenie przedsiębiorcy długookresowej zdolności do konkurowania na rynku, szczególności sposób finansowania tych działań, tym również przez udzielanie pomocy publicznej;
+- **7)** programie pomocowym należy przez to rozumieć akt normatywny spełniający przesłanki, o których mowa art. 1 lit. d rozporządzenia Rady;
+- **8)** pomocy niezgodnej z prawem należy przez to rozumieć pomoc, o której mowa art. 1 lit. f rozporządzenia Rady;
+- **9)** pomocy wykorzystanej niezgodnie z przeznaczeniem należy przez to rozumieć pomoc, o której mowa art. 1 lit. g rozporządzenia Rady; spełniającą przesłanki określone we właściwych przepisach prawa Unii Europejskiej dotyczących pomocy de minimis innej niż pomoc de minimis rolnictwie lub rybołówstwie;
+- **10a)** pomocy de minimis rolnictwie lub rybołówstwie należy przez to rozumieć pomoc spełniającą przesłanki określone przepisach prawa Unii Europejskiej dotyczących odpowiednio pomocy de minimis rolnictwie lub pomocy de minimis rybołówstwie;
+- **10b)** rolnictwie należy przez to rozumieć działalność związaną z produkcją, przetwarzaniem i obrotem produktami rolnymi, o których mowa przepisach Unii Europejskiej dotyczących pomocy państwa dla małych i średnich przedsiębiorstw prowadzących działalność związaną z produkcją, przetwarzaniem i obrotem produktami rolnymi;
+- **10c)** rybołówstwie należy przez to rozumieć działalność związaną z produkcją, przetwarzaniem i obrotem produktami rybołówstwa, o których mowa przepisach prawa Unii Europejskiej dotyczących wspólnej organizacji rynków produktów rybołówstwa i akwakultury;
+- **11)** dniu udzielenia pomocy należy przez to rozumieć dzień, którym podmiot ubiegający się o pomoc publiczną nabył prawo do otrzymania tej pomocy, a przypadku gdy udzielenie pomocy formie ulgi podatkowej następuje na podstawie aktu normatywnego, bez wymogu wydania decyzji:
+    - **a)** dzień, którym zgodnie z odrębnymi przepisami upływa termin złożenia deklaracji albo innego dokumentu określającego wartość pomocy, z zastrzeżeniem lit. b,
+    - **b)** dzień, którym zgodnie z odrębnymi przepisami upływa termin złożenia zeznania rocznego przypadku udzielenia pomocy formie ulgi podatku dochodowym,
+    - **c)** dzień faktycznego przysporzenia korzyści finansowych przypadku braku obowiązku złożenia deklaracji albo innego dokumentu określającego wartość pomocy chyba że przepisy odrębne stanowią inaczej;
+
+- **12)** podmiocie udzielającym pomocy należy przez to rozumieć organ administracji publicznej lub inny podmiot, który jest uprawniony do udzielania pomocy publicznej, tym przedsiębiorcę publicznego, o którym mowa art. 2 ust. 1 pkt 4 ustawy z dnia 22 września 2006 r. o przejrzystości stosunków finansowych pomiędzy organami publicznymi a przedsiębiorcami publicznymi oraz o przejrzystości finansowej niektórych przedsiębiorców (Dz. U. z 2021 r. poz. 2205);
+- **13)** wielkości pomocy należy przez to rozumieć wartość pomocy publicznej wyrażoną kwocie pieniężnej lub intensywność pomocy publicznej wyrażoną jako stosunek wartości pomocy publicznej do kosztów kwalifikujących się do objęcia pomocą publiczną;
+- **14)** (uchylony)
+- **15)** notyfikacji należy przez to rozumieć przekazanie Komisji, zgodnie z art. 108 TFUE, projektu programu pomocowego, projektu pomocy indywidualnej lub projektu pomocy indywidualnej na restrukturyzację, wraz z informacjami niezbędnymi dla oceny zgodności pomocy publicznej z rynkiem wewnętrznym;
+- **16)** beneficjencie pomocy należy przez to rozumieć podmiot prowadzący działalność gospodarczą, tym podmiot prowadzący działalność zakresie rolnictwa lub rybołówstwa, bez względu na formę organizacyjno-prawną oraz sposób finansowania, który otrzymał pomoc publiczną;
+- **17)** działalności gospodarczej należy przez to rozumieć działalność gospodarczą, do której mają zastosowanie reguły konkurencji określone przepisach części trzeciej tytułu VII rozdziału 1 TFUE;
+- **18)** aplikacji SHRIMP należy przez to rozumieć aplikację informatyczną, pod nazwą System Harmonogramowania, Rejestracji i Monitorowania Pomocy Publicznej, służącą do monitorowania pomocy publicznej innej niż pomoc publiczna rolnictwie lub rybołówstwie;
+- **19)** aplikacji SRPP należy przez to rozumieć aplikację informatyczną, pod nazwą System Rejestracji Pomocy Publicznej, służącą do monitorowania pomocy publicznej rolnictwie lub rybołówstwie.
 
 **Art. 3.** Zasady dopuszczalności udzielania pomocy publicznej określają przepisy art. 14, art. 42, art. 93 oraz art. 106–109 TFUE.
 
-**Art. 4.** (uchylony)
-
-**Art. 5.**
-
-1. (uchylony)
-
-3. Podmioty udzielające pomocy wydają beneficjentowi pomocy zaświadczenie stwierdzające, że udzielona pomoc publiczna jest pomocą de minimis albo pomocą de minimis rolnictwie lub rybołówstwie.
-
-3a. W przypadku gdy wartość faktycznie udzielonej pomocy de minimis jest inna niż wartość pomocy wskazana wydanym zaświadczeniu, o którym mowa ust. 3, podmiot udzielający pomocy, terminie 14 dni od dnia stwierdzenia tego faktu, wydaje nowe zaświadczenie, o którym mowa ust. 3, którym wskazuje właściwą wartość pomocy oraz stwierdza utratę ważności poprzedniego zaświadczenia.
-
-3b. Przepis ust. 3a stosuje się odpowiednio przypadku pomocy de minimis rolnictwie lub rybołówstwie. 3ba. W przypadku gdy z deklaracji, zeznania rocznego lub innego dokumentu nie wynika wartość pomocy, beneficjent pomocy de minimis przewidzianej akcie normatywnym, o którym mowa art. 6 ust. 2, informuje podmiot udzielający pomocy o skorzystaniu z tej pomocy terminie 7 dni od dnia udzielenia pomocy.
-
-3c. Zaświadczenia, o których mowa ust. 3, są wydawane z urzędu.
-
-4. Rada Ministrów określi, drodze rozporządzenia, formę i treść zaświadczeń, o których mowa ust. 3, oraz terminy lub sposób ich wydawania, biorąc pod uwagę konieczność zapewnienia przejrzystości informacji o pomocy de minimis i pomocy de minimis rolnictwie lub rybołówstwie udzielanej poszczególnym beneficjentom pomocy oraz monitorowania krajowego limitu skumulowanej kwoty pomocy de minimis rolnictwie lub rybołówstwie.
+**Art. 4.** (uchylony) 2. (uchylony) 3. Podmioty udzielające pomocy wydają beneficjentowi pomocy zaświadczenie stwierdzające, że udzielona pomoc publiczna jest pomocą de minimis albo pomocą de minimis rolnictwie lub rybołówstwie. 3a. W przypadku gdy wartość faktycznie udzielonej pomocy de minimis jest inna niż wartość pomocy wskazana wydanym zaświadczeniu, o którym mowa ust. 3, podmiot udzielający pomocy, terminie 14 dni od dnia stwierdzenia tego faktu, wydaje nowe zaświadczenie, o którym mowa ust. 3, którym wskazuje właściwą wartość pomocy oraz stwierdza utratę ważności poprzedniego zaświadczenia. 3b. Przepis ust. 3a stosuje się odpowiednio przypadku pomocy de minimis rolnictwie lub rybołówstwie. 3ba. W przypadku gdy z deklaracji, zeznania rocznego lub innego dokumentu nie wynika wartość pomocy, beneficjent pomocy de minimis przewidzianej akcie normatywnym, o którym mowa art. 6 ust. 2, informuje podmiot udzielający pomocy o skorzystaniu z tej pomocy terminie 7 dni od dnia udzielenia pomocy. 3c. Zaświadczenia, o których mowa ust. 3, są wydawane z urzędu. 4. Rada Ministrów określi, drodze rozporządzenia, formę i treść zaświadczeń, o których mowa ust. 3, oraz terminy lub sposób ich wydawania, biorąc pod uwagę konieczność zapewnienia przejrzystości informacji o pomocy de minimis i pomocy de minimis rolnictwie lub rybołówstwie udzielanej poszczególnym beneficjentom pomocy oraz monitorowania krajowego limitu skumulowanej kwoty pomocy de minimis rolnictwie lub rybołówstwie.
 
 **Art. 6.**
 
@@ -82,7 +101,12 @@ source: "isap-pdf"
 
 2. Organ jednostki samorządu terytorialnego przesyła do Prezesa Urzędu akt prawa miejscowego, o którym mowa ust. 1, terminie 30 dni od dnia wejścia życie tego aktu.
 
-**Art. 9.** Notyfikacji podlega również zmiana, o której mowa art. 4 ust. 1 rozporządzenia Komisji (WE) nr 794/2004 z dnia 21 kwietnia 2004 r. sprawie wykonania rozporządzenia Rady (UE) nr 2015/1589 ustanawiającego szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 140 z 30.04.2004, str. 1, z późn. zm. Dz. Urz. UE Polskie wydanie specjalne, rozdz. 8, t. 4, str. 3), zatwierdzonego przez Komisję zgodnie z art. 108 TFUE programu pomocowego, pomocy indywidualnej lub pomocy indywidualnej na restrukturyzację. 2. Rada Ministrów ustala, drodze rozporządzenia, mapę pomocy regionalnej, określając:
+**Art. 9.** Notyfikacji podlega również zmiana, o której mowa art. 4 ust. 1 rozporządzenia Komisji (WE) nr 794/2004 z dnia 21 kwietnia 2004 r. sprawie wykonania rozporządzenia Rady (UE) nr 2015/1589 ustanawiającego szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 140 z 30.04.2004, str. 1, z późn. zm. Dz. Urz. UE Polskie wydanie specjalne, rozdz. 8, t. 4, str. 3), zatwierdzonego przez Komisję zgodnie z art. 108 TFUE programu pomocowego, pomocy indywidualnej lub pomocy indywidualnej na restrukturyzację. jącym z mapy pomocy regionalnej. 2. Rada Ministrów ustala, drodze rozporządzenia, mapę pomocy regionalnej, określając:
+
+- **1)** obszary kraju, na których dopuszczalne jest udzielanie pomocy publicznej oraz maksymalne wielkości pomocy dla tych obszarów, przy uwzględnieniu szczególności poziomu produktu krajowego brutto na jednego mieszkańca na danym obszarze, a także
+- **2)** rodzaje działalności gospodarczej, dla których udzielanie pomocy nie jest dozwolone oraz rodzaje działalności gospodarczej, dla których maksymalne wielkości pomocy są inne niż maksymalne wielkości pomocy dla obszarów kraju, wraz ze wskazaniem tych wielkości, biorąc pod uwagę, że udzielenie pomocy regionalnej dla niektórych rodzajów działalności gospodarczej wpływa szczególnie negatywnie na warunki konkurencji na rynku wewnętrznym.
+
+3. Projekt rozporządzenia, o którym mowa ust. 2, podlega notyfikacji.
 
 **Art. 11.**
 
@@ -165,6 +189,11 @@ source: "isap-pdf"
 
 **Art. 17.** W przypadku wydania przez Prezesa Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie ministra właściwego do spraw rolnictwa, opinii o niezgodności z rynkiem wewnętrznym projektu programu pomocowego przewidującego udzielanie pomocy ramach wyłączeń grupowych, co do którego podmiot opracowujący taki projekt nie wystąpił o dokonanie notyfikacji, Prezes Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie minister właściwy do spraw rolnictwa, przekazuje opinię do wiadomości Radzie Ministrów. Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie minister właściwy do spraw rolnictwa, niezwłocznie przekazuje opinię, o której mowa art. 12 ust. 1, podmiotowi występującemu z wnioskiem o wydanie opinii oraz podmiotom udzielającym pomocy. 2. W terminie 14 dni od dnia otrzymania opinii o niezgodności z rynkiem wewnętrznym projektu pomocy indywidualnej lub projektu pomocy indywidualnej na restrukturyzację, podmiot występujący o wydanie opinii może wystąpić do Prezesa Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie ministra właściwego do spraw rolnictwa, o dokonanie notyfikacji tego projektu, z zastrzeżeniem ust. 3. 3. W przypadku gdy opinia Prezesa Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie ministra właściwego do spraw rolnictwa, o niezgodności z rynkiem wewnętrznym dotyczy projektu pomocy indywidualnej na restrukturyzację, podmiot lub podmioty udzielające pomocy mogą zmienić opinię, o której mowa art. 13 ust. 3, zawiadamiając o tym Prezesa Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie ministra właściwego do spraw rolnictwa, oraz podmiot występujący o wydanie opinii terminie 14 dni od dnia jej otrzymania. 4. Prezes Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie minister właściwy do spraw rolnictwa, nie dokonuje notyfikacji projektu:
 
+- **1)** pomocy indywidualnej oraz pomocy indywidualnej na restrukturyzację przypadku bezskutecznego upływu terminu, o którym mowa ust. 2;
+- **2)** pomocy indywidualnej na restrukturyzację przypadku gdy:
+    - **a)** podmiot ubiegający się o pomoc nie przedłoży opinii o możliwości udzielenia pomocy, o której mowa art. 13 ust. 3, odniesieniu do każdego przypadku pomocy,
+    - **b)** podmiot udzielający pomocy zmienionej opinii, o której mowa ust. 3, stwierdzi niemożność udzielenia pomocy.
+
 **Art. 19.**
 
 1. W przypadku wprowadzenia zmian zakresie udzielania pomocy publicznej do projektu ustawy będącej programem pomocowym notyfikowanym Komisji, Marszałek Sejmu przekazuje Prezesowi Rady Ministrów projekt ze zmianami; Prezes Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie minister właściwy do spraw rolnictwa, przekazuje do Komisji projekt ze zmianami celem uzupełnienia notyfikacji.
@@ -174,6 +203,9 @@ source: "isap-pdf"
 3. (uchylony)
 
 **Art. 20.** Prezes Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie minister właściwy do spraw rolnictwa, za pośrednictwem Stałego Przedstawicielstwa Rzeczypospolitej Polskiej przy Unii Europejskiej Brukseli, dokonuje notyfikacji odniesieniu do projektu:
+
+- **1)** programu pomocowego niezwłocznie po podjęciu uchwały Rady Ministrów o dokonaniu notyfikacji;
+- **2)** pomocy indywidualnej oraz pomocy indywidualnej na restrukturyzację niezwłocznie po wydaniu opinii o zgodności pomocy z rynkiem wewnętrznym albo po otrzymaniu wystąpienia o dokonanie notyfikacji, o którym mowa art. 18 ust. 2, z zastrzeżeniem art. 18 ust. 3 i 4.
 
 **Art. 20a.** Dokonanie notyfikacji projektu programu pomocowego ustanowionego na podstawie aktu prawa miejscowego nie wymaga zgody Rady Ministrów i następuje niezwłocznie po wydaniu opinii, o której mowa art. 12 ust. 1.
 
@@ -277,6 +309,13 @@ source: "isap-pdf"
 
 **Art. 31b.** Prezes Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie minister właściwy do spraw rolnictwa, ogłasza niezwłocznie Biuletynie Informacji Publicznej na swojej stronie podmiotowej:
 
+- **1)** informacje o podjęciu przez Komisję decyzji, o których mowa art. 4 i art. 9 rozporządzenia Rady;
+- **2)** informacje o wydaniu decyzji Komisji, o której mowa art. 16 rozporządzenia Rady, oraz decyzji wydanej przypadkach, o których mowa art. 11 i art. 20 rozporządzenia Rady, jak również informację o dokonaniu zwrotu pomocy publicznej przez beneficjenta pomocy;
+- **3)** odniesieniu do postępowań, których uczestnikiem postępowania jest Rzeczpospolita Polska, informacje o:
+    - **a)** wniesieniu odwołania od decyzji Komisji sprawach dotyczących pomocy publicznej,
+    - **b)** wniesieniu do Trybunału Sprawiedliwości Unii Europejskiej sprawy z zakresu pomocy publicznej,
+    - **c)** wydaniu orzeczenia sprawach dotyczących pomocy publicznej przez Trybunał Sprawiedliwości Unii Europejskiej.
+
 **Art. 32.**
 
 1. Podmioty udzielające pomocy są zobowiązane do sporządzania i przedstawiania Prezesowi Urzędu sprawozdań o udzielonej pomocy publicznej innej niż pomoc publiczna rolnictwie lub rybołówstwie albo informacji o nieudzieleniu takiej pomocy danym okresie sprawozdawczym. Sprawozdania zawierają szczególności informacje o beneficjentach pomocy oraz o rodzajach, formach, wielkości i przeznaczeniu udzielonej pomocy.
@@ -340,13 +379,16 @@ source: "isap-pdf"
 
 5. Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej przekazuje sprawozdania, o których mowa ust. 1, za pośrednictwem ministra właściwego do spraw klimatu, a wojewódzkie fundusze ochrony środowiska i gospodarki wodnej za pośrednictwem marszałków województw.
 
-6. Wojewodowie przekazują sprawozdania, o których mowa ust. 1, bezpośrednio ministrowi właściwemu do spraw finansów publicznych.
+6. Wojewodowie przekazują sprawozdania, o których mowa ust. 1, bezpośrednio ministrowi właściwemu do spraw finansów publicznych. ministra właściwego do spraw rozwoju regionalnego.
 
 8. Ochotnicze Hufce Pracy przekazują sprawozdania, o których mowa ust. 1, za pośrednictwem ministra właściwego do spraw pracy.
 
 9. Podmioty niewymienione ust. 4–8 przekazują sprawozdania, o których mowa ust. 1, za pośrednictwem organów je nadzorujących, a przypadku braku takich organów bezpośrednio ministrowi właściwemu do spraw finansów publicznych.
 
 **Art. 35.** Rada Ministrów określi, drodze rozporządzeń:
+
+- **1)** zakres sprawozdań i informacji, o których mowa art. 32 ust. 1, oraz sprawozdań, o których mowa art. 34 ust. 1, terminy ich składania i okresy sprawozdawcze oraz wzory formularzy, mając na uwadze zapewnienie skuteczności monitorowania pomocy publicznej oraz konieczność uwzględnienia technicznych uwarunkowań związanych z przekazywaniem sprawozdań i informacji, o których mowa art. 32 ust. 1, z wykorzystaniem aplikacji SHRIMP;
+- **2)** zakres sprawozdań i informacji, o których mowa art. 32a ust. 1, terminy ich składania i okresy sprawozdawcze oraz wzory formularzy, mając na uwadze zapewnienie skuteczności monitorowania pomocy publicznej rolnictwie lub rybołówstwie, szczególności przestrzegania krajowego limitu skumulowanej kwoty pomocy de minimis rolnictwie lub rybołówstwie, z wykorzystaniem aplikacji SRPP.
 
 **Art. 36.**
 
@@ -368,7 +410,7 @@ source: "isap-pdf"
 2. Podmiot ubiegający się o:
 
 - **1)** pomoc de minimis rolnictwie jest zobowiązany do przedstawienia podmiotowi udzielającemu pomocy, wraz z wnioskiem o udzielenie pomocy, wszystkich zaświadczeń o pomocy de minimis rolnictwie lub rybołówstwie oraz pomocy de minimis, jakie otrzymał okresie 3 lat poprzedzających dzień złożenia wniosku o udzielenie pomocy, albo oświadczenia o wielkości tej pomocy otrzymanej tym okresie, albo oświadczenia o nieotrzymaniu takiej pomocy tym okresie;
-- **2)** pomoc de minimis rybołówstwie jest zobowiązany do przedstawienia podmiotowi udzielającemu pomocy, wraz z wnioskiem o udzielenie pomocy, wszystkich zaświadczeń o pomocy de minimis rolnictwie lub rybołówstwie oraz pomocy de minimis, jakie otrzymał roku, którym ubiega się o pomoc, oraz okresie 2 poprzedzających go lat podatkowych, albo oświadczenia o wielkości tej pomocy otrzymanej roku, którym ubiega się o pomoc, oraz okresie 2 poprzedzających go lat podatkowych, albo oświadczenia o nieotrzymaniu takiej pomocy roku, którym ubiega się o pomoc, oraz okresie 2 poprzedzających go lat podatkowych; lub rybołówstwie, dotyczących szczególności wnioskodawcy i prowadzonej przez niego działalności gospodarczej oraz wielkości i przeznaczenia pomocy publicznej otrzymanej odniesieniu do tych samych kosztów kwalifikujących się do objęcia pomocą, na pokrycie których ma być przeznaczona pomoc de minimis rolnictwie lub rybołówstwie.
+- **2)** pomoc de minimis rybołówstwie jest zobowiązany do przedstawienia podmiotowi udzielającemu pomocy, wraz z wnioskiem o udzielenie pomocy, wszystkich zaświadczeń o pomocy de minimis rolnictwie lub rybołówstwie oraz pomocy de minimis, jakie otrzymał roku, którym ubiega się o pomoc, oraz okresie 2 poprzedzających go lat podatkowych, albo oświadczenia o wielkości tej pomocy otrzymanej roku, którym ubiega się o pomoc, oraz okresie 2 poprzedzających go lat podatkowych, albo oświadczenia o nieotrzymaniu takiej pomocy roku, którym ubiega się o pomoc, oraz okresie 2 poprzedzających go lat podatkowych; mocy, wraz z wnioskiem o udzielenie pomocy, informacji niezbędnych do udzielenia pomocy de minimis rolnictwie lub rybołówstwie, dotyczących szczególności wnioskodawcy i prowadzonej przez niego działalności gospodarczej oraz wielkości i przeznaczenia pomocy publicznej otrzymanej odniesieniu do tych samych kosztów kwalifikujących się do objęcia pomocą, na pokrycie których ma być przeznaczona pomoc de minimis rolnictwie lub rybołówstwie.
 
 2a. Rada Ministrów określi, drodze rozporządzenia, zakres informacji, o których mowa ust. 1 pkt 2 oraz ust. 2 pkt 3, oraz wzór formularza informacji, kierując się koniecznością zapewnienia zupełności i przejrzystości przedstawianych informacji.
 
@@ -410,7 +452,7 @@ source: "isap-pdf"
 
 3. (uchylony)
 
-4. (uchylony) powzięli wiadomość związku z toczącymi się postępowaniami lub realizacją innych zadań określonych ustawie.
+4. (uchylony) przedsiębiorstwa, jak również innych informacji podlegających ochronie na podstawie odrębnych przepisów, o których powzięli wiadomość związku z toczącymi się postępowaniami lub realizacją innych zadań określonych ustawie.
 
 2. Przepisu ust. 1 nie stosuje się do informacji powszechnie dostępnych, wskazania podmiotu ubiegającego się o pomoc, beneficjenta pomocy, informacji o wielkości i formie udzielonej mu pomocy oraz o jej przeznaczeniu, podstawie prawnej, a także podmiotach udzielających pomocy.
 
@@ -459,6 +501,9 @@ source: "isap-pdf"
 #### Rozdział 10 Przepisy przejściowe i końcowe
 
 **Art. 63.** W okresie 3 lat od dnia wejścia życie niniejszej ustawy, celu stwierdzenia, czy planowana pomoc dla przedsiębiorcy jest pomocą de minimis, podmiot udzielający pomocy bierze pod uwagę sumę:
+
+- **1)** wartości pomocy indywidualnej udzielonej przedsiębiorcy przed dniem wejścia życie niniejszej ustawy, jeżeli wartość pomocy, łącznie z wartością pomocy udzielonej przedsiębiorcy okresie kolejnych 3 lat poprzedzających dzień jej udzielenia, nie przekraczała równowartości 100 tys. euro i nie podlegała opiniowaniu przez Prezesa Urzędu;
+- **2)** pomocy, której charakter de minimis został potwierdzony zaświadczeniem, o którym mowa art. 5 ust. 2.
 
 **Art. 64.** Z dniem wejścia życie niniejszej ustawy postępowania o wydanie opinii przez Prezesa Urzędu prowadzone trybie art. 24 lub 25 ustawy, o której mowa art. 71, ulegają umorzeniu.
 

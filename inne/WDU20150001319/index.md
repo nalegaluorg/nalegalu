@@ -1,0 +1,59 @@
+---
+title: Rozporządzenie Rady Ministrów z dnia 4 sierpnia 2015 r. zmieniające rozporządzenie w sprawie tarnobrzeskiej specjalnej strefy ekonomicznej
+address: WDU20150001319
+eli: DU/2015/1319
+publisher: DU
+year: 2015
+pos: 1319
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Rozporządzenie Rady Ministrówz dnia 4 sierpnia 2015 r. zmieniające rozporządzenie w sprawie tarnobrzeskiej specjalnej strefy ekonomicznej
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2015 poz. 1319 |
+| ISAP | WDU20150001319 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2015-08-04 |
+| Data wydania | 2015-09-07 |
+| Wejście w życie | 2016-09-22 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001319) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1319/text.pdf) |
+
+Treść rozporządzenia
+Na podstawie art. 4 ust. 1 i art. 5a ust. 1 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2015 r. poz. 282) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie tarnobrzeskiej specjalnej strefy ekonomicznej (Dz. U. z 2015 r. poz. 1306) wprowadza się następujące zmiany:
+1)
+w § 1 ust. 2 otrzymuje brzmienie:
+„
+2.
+Strefa obejmuje grunty o powierzchni 1743,3045 ha, położone na terenach miast: Jasło, Kraśnik, Łuków, Opatów, Pionki, Przemyśl, Radom, Siedlce, Stalowa Wola, Tarnobrzeg i Tomaszów Lubelski oraz gmin: Baranów Sandomierski, Gorzyce, Horodło, Janów Lubelski, Jedlicze, Kobierzyce, Łapy, Łuków, Mińsk Mazowiecki, Nisko, Nowa Dęba, Nowe Miasto nad Pilicą, Opatów, Orły, Ożarów Mazowiecki, Pilawa, Połaniec, Poniatowa, Przasnysz, Ryki, Rudnik nad Sanem, Rymanów, Siedlce, Staszów, Tomaszów Lubelski, Tuczępy, Węgrów i Wyszków.
+” ;
+2)
+w załączniku do rozporządzenia SZCZEGÓŁOWY OPIS GRANIC I TERENU TARNOBRZESKIEJ SPECJALNEJ STREFY EKONOMICZNEJ EURO-PARK WISŁOSAN:
+a)
+w Podstrefie Tarnobrzeg w Kompleksie 2:
+– opis granic i terenów Obszarów 3 i 4 otrzymują brzmienie: „ Obszar 3 Granica biegnie od pkt 19, zlokalizowanego na działce 1744/39 w odległości ok. 1 m od południowego narożnika budynku nr 43, w kierunku północno-zachodnim przez teren działki 1744/39 równolegle do ściany budynku nr 43 do pkt a5. Dalej biegnie w tym samym kierunku przez teren działki 1744/39 do pkt e28. Tu skręca na południowy zachód i przez teren działki 1744/39 dochodzi do pkt a4, skąd biegnie w kierunku północno-zachodnim wzdłuż granic działek: 1744/39, 1744/36 i 1743/595 przez pkt: 0002–1894, 0002–1856 do pkt 0002–3397. Stąd biegnie w kierunku północno-wschodnim wzdłuż granic działek: 1743/595 i 1743/596 na odcinku 79,4 m przez pkt 0002–8779 do pkt 0002–3398, i dalej przez tereny działek: 1743/596, 1743/597 i 1742/30 na odcinku 123,3 m do pkt 9. Tu skręca w kierunku południowo-wschodnim i biegnie na odcinku 46,3 m przez teren działki 1744/30, na odcinku 12,7 m przez tereny działek: 1745/7, 1745/8, 1745/15 i 1744/39 do pkt a3, na odcinku 9,6 m przez teren działki 1744/39 do pkt a6. Dalej biegnie w tym samym kierunku równolegle do ściany budynku nr 43 do pkt 20. Stąd biegnie na południowy zachód przez teren działki 1744/39 równolegle do ściany budynku nr 43 do pkt 19, od którego rozpoczęto opis. Obszar 4 Granica biegnie od pkt 42, zlokalizowanego na działce 1744/39 w odległości ok. 1 m od północnego narożnika budynku nr 45, w kierunku południowo-wschodnim przez tereny działek: 1744/39 i 1744/33 przez pkt 44 do pkt e1. Tu zmienia kierunek na południowo-zachodni i biegnie przez teren działki 1744/33 do pkt e29. W tym punkcie skręca w kierunku północno-zachodnim i biegnie przez teren działki 1744/33 do pkt e4. Stąd biegnie w kierunku północno-wschodnim przez teren działki 1744/33 do pkt 43, w którym skręca na północny zachód i biegnie przez tereny działek: 1744/33 i 1744/39 do pkt 41. Tu skręca na północny wschód i przez teren działki 1744/39 dochodzi do pkt 42, od którego rozpoczęto opis. ” ,
+– opis granic i terenu Obszaru 6 otrzymuje brzmienie: „ Obszar 6 Granica biegnie od pkt 15, zlokalizowanego na działce 1744/39 w odległości ok. 7 m od północnego narożnika budynku nr 55, w kierunku południowo-wschodnim przez tereny działek: 1744/39 i 1744/33 przez pkt: 17 i e47 do pkt e11. Tu zmienia kierunek na południowo-zachodni i biegnie przez teren działki 1744/33 oraz wzdłuż granic działek: 1743/575 i 1743/574 przez pkt: 0002–2787 i 0002–8395 do pkt e38. Stąd biegnie w kierunku północno-zachodnim przez teren działki 1743/574 do pkt e39, w którym zmienia kierunek na północno-wschodni i biegnie przez tereny działek: 1743/574, 1743/575 i 1744/33 przez pkt: e44 i e45 do pkt e43. Tu skręca w kierunku północno-zachodnim i biegnie przez tereny działek: 1744/33 i 1744/39 przez pkt e46 do pkt e42. Stąd biegnie w kierunku północno-wschodnim przez teren działki 1744/39 przez pkt 14 do pkt 15, od którego rozpoczęto opis. ” ,
+– skreśla się opis granic i terenu Obszaru 9,
+– opis granic i terenu Obszaru 10 otrzymuje brzmienie: „ Obszar 10 Granica biegnie od pkt 0002–5897, zlokalizowanego w południowo-zachodnim narożniku działki 1744/21, w kierunku południowo-wschodnim przez pkt 0002–5862 wzdłuż granicy działki 1744/30 do pkt z10a. Tu skręca w kierunku południowo-zachodnim i biegnie wzdłuż granic działek: 1744/30 i 1744/17 przez pkt: 0002–5844, 0002–6385 i 0002–6382 do pkt zo4. Stąd biegnie na północny zachód przez teren działki 1744/33 do pkt zo2, w którym skręca w kierunku północno-wschodnim i przez teren działki 1744/33 dochodzi do pkt zo1. Tu skręca w kierunku południowo-wschodnim i biegnie przez teren działki 1744/33 do pkt e21, w którym zmienia kierunek na północno-wschodni, i nadal biegnie przez teren działki 1744/33 przez pkt 66 do pkt 69. Stąd biegnie w kierunku południowo-wschodnim równolegle do budynku nr 3 do pkt e10, w którym skręca na północny wschód i biegnie przez teren działki 1744/33 przez pkt 70 do pkt 73. Na odcinku od pkt 70 do pkt 73 biegnie równolegle do ściany budynku nr 4. W punkcie 73 zmienia kierunek na południowo-wschodni i biegnie przez teren działki 1744/33 przez pkt 72 do pkt e9. Na odcinku od pkt 73 do pkt 72 granica biegnie równolegle do budynku nr 4. Z pkt e9 biegnie w kierunku południowo-zachodnim przez teren działki 1744/33 do pkt e18. Tu zmienia kierunek na północno-zachodni i biegnie wzdłuż granicy działki 1744/30 do pkt b33, w którym skręca na południowy zachód i biegnie wzdłuż granic działek: 1744/30 i 1744/21 przez pkt 0002–5900 do pkt 0002–5897, od którego rozpoczęto opis. ” ,
+– skreśla się opis granic i terenu Obszaru 11,
+– skreśla się opis granic i terenu Obszaru 15,
+b)
+w Podstrefie Stalowa Wola na końcu dodaje się opis granic i terenu Kompleksu 3 w brzmieniu: „ Kompleks 3 Obręb ewidencyjny Nr 1 Rudnik nad Sanem, ark. mapy 42, 50 Granica biegnie od pkt 18142, zlokalizowanego w północno-wschodnim narożniku działki 4245/4, w kierunku południowo-wschodnim wzdłuż granicy działki 4245/4 przez pkt 14311 do pkt 14310, gdzie zmienia kierunek na południowo-zachodni i biegnie wzdłuż granic działek: 4245/4, 4247/1, 4248, 4249 i 4250 przez pkt: 14309, 14308, 28081, 28080 i 28091 do pkt 28101. Tu skręca w kierunku północno-zachodnim i biegnie wzdłuż granic działek: 4250, 4249, 4248, 4247/1, 4246 i 4245/5 przez pkt: 28100, 28099, 28098, 28097, 28096, 28095, 28094, 28093, 28092, 28083, 28072, 28071, 14292, 14291, 14305 i 14304 do pkt 18146. Stąd biegnie w kierunku południowo-wschodnim wzdłuż granic działek: 4245/5 i 4247/1 przez pkt 18145 do pkt 18144, w którym skręca na północny wschód, i biegnie wzdłuż granic działek: 4247/1 i 4245/4 przez pkt 18143 do pkt 18142, od którego rozpoczęto opis. ” ,
+c)
+w Podstrefie Radom:
+– w Kompleksie 1 na końcu dodaje się opis granic i terenu Obszaru 3 w brzmieniu: „ Obszar 3 Obręb ewidencyjny Nr 0020 Gołębiów, ark. mapy 6 Granica biegnie od pkt 602127, zlokalizowanego w południowym narożniku działki 163/3, w kierunku północno-zachodnim wzdłuż granicy działki 163/3 do pkt 602126, gdzie zmienia kierunek na północno-wschodni, i dochodzi do pkt 602125. Tu skręca w kierunku południowo-wschodnim i biegnie wzdłuż granic działek: 163/3 i 158/6 przez pkt: 601141, 601142, 601143, 601144, 601145, 601146, 601147, 601148, 601149, 601150, 601151, 601152, 601153 i 601154 do pkt 601155. Stąd biegnie na południowy zachód wzdłuż granicy działki 158/6 przez pkt 600132 do pkt 602132, w którym skręca na północny wschód, i dochodzi do pkt 602122. Tu skręca w kierunku północno-wschodnim i dochodzi do pkt 602127, od którego rozpoczęto opis. ” ,
+– w Kompleksie 9 opis granic i terenu Obszaru 1 otrzymuje brzmienie: „ Obszar 1 Obręb ewidencyjny Nr 0130 – Jeżowa Wola, ark. mapy 82 i 111 Granica biegnie od pkt 8200528, zlokalizowanego w południowo-zachodnim narożniku działki 158/2, w kierunku północnym wzdłuż granicy tej działki do pkt 8201193, gdzie zmienia kierunek na wschodni, i biegnie wzdłuż granicy działki 158/2 do pkt 8201190. Tu skręca na północ i biegnie wzdłuż granicy działki 111/15 do pkt 8200507, w którym zmienia kierunek na wschodni, i biegnie wzdłuż granicy 111/15 przez pkt: 11100511, 11100512, 11100513 i 11100514 do pkt 11100501. Stąd biegnie na południe wzdłuż granicy działki 111/15 do pkt 11100502, w którym skręca na zachód, i dochodzi do pkt 11100902. Tu skręca na północ i biegnie wzdłuż granicy działki 111/15 do pkt 11100901, w którym załamuje się w kierunku zachodnim, i dochodzi do pkt 11100900. Stąd biegnie na południe i dochodzi do pkt 11100899, w którym skręca na zachód, i biegnie wzdłuż granic działek: 111/15 i 158/2 przez pkt: 11100894 i 8200524 do pkt 8200528, od którego rozpoczęto opis. ” ,
+d)
+opis granic i terenu Podstrefy Łapy otrzymuje brzmienie: „ Podstrefa Łapy Obręby ewidencyjne: Nr 0002 Łapy II, ark. mapy 8 i 10; Nr 0009 Łapy Dębowina, ark. mapy 1; Nr 0014 Łapy Szołajdy, ark. mapy 1; Nr 0012 Łapy Łynki Granica biegnie od pkt 2.8–00074, zlokalizowanego w północno-zachodnim narożniku działki 211/1, w kierunku północno-wschodnim wzdłuż granicy tej działki przez pkt: 2.8–00201, 2.8–00200, 2.8–00199, 2.8–00198, 2.8–00197, 2.8–00196, 2.8–00195, 2.8–00194, 2.8–00185, 2.8–00186, 2.8–00187, 2.8–00188, 2.8–00189, 2.8–00190, 2.8–00191, 2.8–00192 i 2.8–00193 do pkt 2.8–00178. Tu zmienia kierunek na wschodni i biegnie wzdłuż granicy działki 211/1 przez pkt: 2.8–00184, 2.8–00183, 2.8–00182 i 2.8–00181 do pkt 2.8–00180. Stąd biegnie na północ wzdłuż granicy działki 343/2 do pkt 2.8–00263, w którym skręca na wschód, i biegnie wzdłuż granicy działki 343/2 do pkt 2.8–00264. Tu skręca na południe i biegnie do pkt 2.8–00179, w którym załamuje się na wschód, i biegnie wzdłuż granicy działki 211/1 przez pkt 2.8–00177 do pkt 2.8–00163. Stąd biegnie na południe wzdłuż granic działek: 211/1, 14/8, 14/9, 102/21, 102/28, 1/21 i 1/23 przez pkt: 2.10–00189, 14–05234, 14–01693, 14–01675, 12–00723, 12–00387, 9–05187 i 9–05177 do pkt 9–05176. Tu skręca w kierunku zachodnim i biegnie wzdłuż granicy działki 102/11 przez pkt 12–00385 do pkt 12–00388, w którym skręca na północ, i biegnie wzdłuż granic działek: 102/11, 102/15, 102/7 i 211/1 przez pkt: 12–00376, 12–00390, 12–00382, 12–00381, 12–00377, 12–00378, 12–00393, 12–00379, 12–00383, 2.10–00001 i 2.8–00205 do pkt 2.8–00074, od którego rozpoczęto opis. ” .
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+

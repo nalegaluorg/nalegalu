@@ -8,12 +8,10 @@ pos: 2400
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy – Kodeks postępowania w sprawach o wykroczenia oraz niektórych innych ustaw
-
-*USTAWA z dnia 9 listopada 2017 r.*
+# Ustawa z dnia 9 listopada 2017 r. o zmianie ustawy – Kodeks postępowania w sprawach o wykroczenia oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,13 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2017-11-09 |
 | Data wydania | 2017-12-21 |
+| Wejście w życie | 2018-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002400) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2400/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2016 r. poz. 1713, z późn. zm. ) dział XIII otrzymuje brzmienie: „Dział XIII Koszty postępowania
+**Art. 1.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2016 r. poz. 1713, z późn. zm.) dział XIII otrzymuje brzmienie: „
+
+### Dział XIII Koszty postępowania
 
 **Art. 117.**
 
@@ -70,15 +71,17 @@ source: "isap-pdf"
 
 **Art. 121.**
 
-§ 1. Do kosztów postępowania stosuje się odpowiednio przepisy art. 616, art. 618 § 1 i 3, art. 618a–618l, art. 623, art. 624 § 1, art. 625, art. 626, art. 630, art. 632a–635, art. 636 § 1 i 2, art. 637–639 i art. 641 Kodeksu postępowania karnego, przy czym wydatkami są także wydatki Skarbu Państwa i jednostki samorządu terytorialnego ponoszone w toku czynności wyjaśniających.
+§ 1. Do kosztów postępowania stosuje się odpowiednio przepisy art. 616, art. 618 § 1 i 3, art. 618a-618l, art. 623, art. 624 § 1, art. 625, art. 626, art. 630, art. 632a-635, art. 636 § 1 i 2, art. 637–639 i art. 641 Kodeksu postępowania karnego, przy czym wydatkami są także wydatki Skarbu Państwa i jednostki samorządu terytorialnego ponoszone w toku czynności wyjaśniających.
 
-§ 2. Rodzaje i wysokość opłat oraz zasady i tryb ich wymierzania określa odrębna ustawa.”.
+§ 2. Rodzaje i wysokość opłat oraz zasady i tryb ich wymierzania określa odrębna ustawa. ” .
 
-**Art. 2.** W ustawie z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2017 r. poz. 2368) w art. 29 ust. 1 otrzymuje brzmienie: „1. Koszty nieopłaconej pomocy prawnej udzielonej z urzędu ponosi Skarb Państwa albo jednostka samorządu terytorialnego, jeżeli przepis szczególny tak stanowi.”.
+**Art. 2.** W ustawie z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2017 r. poz. 2368) w art. 29 ust. 1 otrzymuje brzmienie: „ 1. Koszty nieopłaconej pomocy prawnej udzielonej z urzędu ponosi Skarb Państwa albo jednostka samorządu terytorialnego, jeżeli przepis szczególny tak stanowi. ” .
 
-**Art. 3.** W ustawie z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2017 r. poz. 1870) w art. 22 ust. 1 otrzymuje brzmienie: „1. Koszty pomocy prawnej udzielonej przez radcę prawnego z urzędu ponosi Skarb Państwa albo jednostka samorządu terytorialnego, jeżeli przepis szczególny tak stanowi.”.
+**Art. 3.** W ustawie z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2017 r. poz. 1870) w art. 223ust. 1 otrzymuje brzmienie: „ 1. Koszty pomocy prawnej udzielonej przez radcę prawnego z urzędu ponosi Skarb Państwa albo jednostka samorządu terytorialnego, jeżeli przepis szczególny tak stanowi. ” .
 
-**Art. 4.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2017 r. poz. 665, 666, 768, 1452 i 2217) w art. 206 dodaje się § 4 w brzmieniu: „§ 4. W razie zasądzenia kosztów sądowych na rzecz jednostki samorządu terytorialnego sąd, z urzędu i bez pobierania jakichkolwiek opłat, przesyła tytuł egzekucyjny jednostce samorządu terytorialnego. Przepisów § 1 i 2 oraz art. 12a nie stosuje się.”.
+**Art. 4.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2017 r. poz. 665, 666, 768, 1452 i 2217) w art. 206 dodaje się § 4 w brzmieniu: „
+
+§ 4. W razie zasądzenia kosztów sądowych na rzecz jednostki samorządu terytorialnego sąd, z urzędu i bez pobierania jakichkolwiek opłat, przesyła tytuł egzekucyjny jednostce samorządu terytorialnego. Przepisów § 1 i 2 oraz art. 12a nie stosuje się. ” .
 
 **Art. 5.** Do czynności wyjaśniających podjętych i niezakończonych do dnia wejścia w życie niniejszej ustawy stosuje się przepisy ustaw zmienianych w art. 1–4 w brzmieniu nadanym niniejszą ustawą.
 

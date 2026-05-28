@@ -8,10 +8,10 @@ pos: 439
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 marca 2021 r.
+# Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 3 marca 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie wypłacania z budżetu państwa subwencji przysługującej partiom politycznym
 
 | Pole | Wartość |
 |---|---|
@@ -25,42 +25,45 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000439) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/439/text.pdf) |
 
-WZÓR WNIOSEK O WYPŁACENIE SUBWENCJI w …….……… r.
-na podstawie art. 28 ust. 1 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych
-1. Nazwa i adres siedziby partii politycznej: …………………………………..…………………………..
-……………………………………………………..………..
-1.1. Nazwy i adresy siedziby partii wchodzących w skład nowej partii politycznej*:
-1) ………………………………………………. …………………………………………...
-2) ………………………………………………. …………………………………………...
-3) ………………………………………………. …………………………………………...
-1.2. Data i numer wpisu nowej partii politycznej do ewidencji: …………………………………………………………..
-2. Imiona i nazwiska osób wchodzących w skład organu statutowo uprawnionego do reprezentowania partii politycznej na zewnątrz: ………………………………………………………………………………….………..
-………………………………………………………………………………….………..
-3. Rachunek bankowy, na który należy przekazać subwencję: …………………………………..…………………………..
-…………………………………..…………………………..
-4. Niniejszym oświadczam, że (należy wypełnić jeden z poniższych punktów):
-1) partia polityczna …………………………………………………………..
-a) spełnia warunek do otrzymania subwencji, określony w art. 28 ust. 1 pkt 1 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych, ponieważ w wyborach do Sejmu Rzeczypospolitej Polskiej, zarządzonych na dzień …………………………., samodzielnie tworząc komitet wyborczy, otrzymała w skali kraju co najmniej 3% ważnie oddanych głosów na jej okręgowe listy kandydatów na posłów i jest uprawniona do otrzymania subwencji w wysokości ……………….. zł,
-b) wywiązała się z obowiązku złożenia informacji finansowej za ………… r., zgodnie z art. 34 ust. 1 i 2 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych,
-c) wywiązała się z obowiązku złożenia sprawozdania, o którym mowa w art. 38 ust. 1 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych;
-2)* partia polityczna …………………………………………………………..
-a) spełnia warunek do otrzymania subwencji, określony w art. 31 ust. 1 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych, ponieważ powstała przez połączenie partii politycznych, którym przysługiwało prawo do subwencji w łącznej wysokości ……………….. zł,
-b) wywiązała się z obowiązku złożenia informacji finansowej za ………… r., zgodnie z art. 34 ust. 1 i 2 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych,
-c) wywiązała się z obowiązku złożenia sprawozdania, o którym mowa w art. 38 ust. 1 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych;
-3)** partia polityczna …………..…………., wchodząca w skład koalicji wyborczej …….……………………………………………………….……., wraz z partiami politycznymi:
-1. …………………………………………………………..,
-2. …………………………………………………………..,
-3. ………………………………………………………….., spełnia warunek do otrzymania subwencji, określony w art. 28 ust. 1 pkt 2 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych, ponieważ w wyborach do Sejmu Rzeczypospolitej Polskiej, zarządzonych na dzień ……………………………., weszła w skład koalicji wyborczej, której okręgowe listy kandydatów na posłów otrzymały w skali kraju co najmniej 6% ważnie oddanych głosów, i jest uprawniona do otrzymania subwencji w wysokości ………….. zł.
-Subwencja obliczona według zasad określonych w ustawie z dnia 27 czerwca 1997 r.
-o partiach politycznych jest dzielona pomiędzy partie polityczne wchodzące w skład koalicji zgodnie z postanowieniami § …... umowy zawiązującej koalicję wyborczą z dnia ……….……….…….. r. zawartej w …….……………… pomiędzy partiami:
-1. …………………………………………………………..,
-2. …………………………………………………………..,
-3. ………………………………………………………….., która przewiduje następujące zasady podziału subwencji: „………………………………………………………………………………………..
-………………………………………………………………………………………..”, a zatem partii politycznej …………………………………………………………..
-przysługuje subwencja w wysokości ……. zł.
-Partia polityczna …………….…………….
-a) wywiązała się z obowiązku złożenia informacji finansowej za ………… r., zgodnie z art. 34 ust. 1 i 2 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych,
-b) wywiązała się z obowiązku złożenia sprawozdania, o którym mowa w art. 38 ust. 1 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych.
-……………………………., dnia …………………………….
-………………………………………………………………………
+Treść obwieszczenia
+Załącznik – Tekst jednolity rozporządzenia Ministra Finansów z dnia 18 lutego 2003 r. w sprawie wypłacania z budżetu państwa subwencji przysługującej partiom politycznym
+
+## Załącznik nr 1 — – Wniosek o wypłacenie subwencji (wzór)
+
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 18 lutego 2003 r. w sprawie wypłacania z budżetu państwa subwencji przysługującej partiom politycznym (Dz. U. poz. 267), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów z dnia 20 stycznia 2020 r. zmieniającym rozporządzenie w sprawie wypłacania z budżetu państwa subwencji przysługującej partiom politycznym (Dz. U. poz. 109).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 20 stycznia 2020 r. zmieniającego rozporządzenie w sprawie wypłacania z budżetu państwa subwencji przysługującej partiom politycznym (Dz. U. poz. 109), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+” .
+1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
+Załącznik – Tekst jednolity rozporządzenia Ministra Finansów z dnia 18 lutego 2003 r. w sprawie wypłacania z budżetu państwa subwencji przysługującej partiom politycznym
+Na podstawie art. 33 ust. 2 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (Dz. U. z 2018 r. poz. 580) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa szczegółowy tryb składania oraz wzór urzędowego formularza wniosku o wypłacenie z budżetu państwa subwencji przysługującej partiom politycznym, zwanej dalej „subwencją”, a także szczegółowe zasady wypłacania tej subwencji.
+§ 2.
+1.
+Wniosek o wypłacenie subwencji, wraz z aktualnym wyciągiem z ewidencji partii politycznych, jest składany do ministra właściwego do spraw finansów publicznych, za pośrednictwem Państwowej Komisji Wyborczej.
+2.
+W przypadku utworzenia nowej partii politycznej, w drodze połączenia się dwóch lub więcej partii, właściwy organ tej partii składa, w terminie 14 dni od dnia dokonania przez właściwy sąd wpisu partii do ewidencji, wniosek o wypłacenie subwencji, wraz z uwierzytelnionym wyciągiem z ewidencji partii politycznych.
+3.
+Państwowa Komisja Wyborcza, po potwierdzeniu wniosku co do posiadania przez partię polityczną uprawnienia do subwencji oraz wysokości subwencji, przesyła niezwłocznie wniosek do ministra właściwego do spraw finansów publicznych. Potwierdzenie wniosku jest sporządzane przez Państwową Komisję Wyborczą w formie odrębnego dokumentu, przekazywanego ministrowi właściwemu do spraw finansów publicznych.
+4.
+Wniosek, o którym mowa w ust. 1, jest składany w postaci papierowej albo elektronicznej.
+5.
+Wniosek w postaci elektronicznej jest opatrywany kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym przez osobę lub osoby uprawnione do reprezentowania partii politycznej.
+§ 3.
+Raty subwencji są wypłacane w terminie do 30 dnia miesiąca następującego po kwartale, za który jest wypłacana dana rata subwencji.
+§ 4.
+Wzór urzędowego formularza wniosku o wypłacenie subwencji na dany rok, składanego przez partie polityczne, określa załącznik do rozporządzenia.
+§ 5.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+1) Obecnie działem administracji rządowej – finanse publiczne kieruje Minister Finansów, Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) Zdanie drugie dodane przez § 1 pkt 1 lit. a rozporządzenia Ministra Finansów z dnia 20 stycznia 2020 r. zmieniającego rozporządzenie w sprawie wypłacania z budżetu państwa subwencji przysługującej partiom politycznym (Dz. U. poz. 109), które weszło w życie z dniem 8 lutego 2020 r. 3) Dodany przez § 1 pkt 4) Rozporządzenie zostało ogłoszone w dniu 26 lutego 2003 r. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 26 września 2001 r. w sprawie wykonania niektórych przepisów ustawy o partiach politycznych (Dz. U. poz. 1201), które utraciło moc z dniem 10 sierpnia 2002 r.
+
+## Załącznik nr 1 — – Wniosek o wypłacenie subwencji (wzór)
+
+patrz oryginał
 

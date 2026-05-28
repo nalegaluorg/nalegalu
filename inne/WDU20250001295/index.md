@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o medycynie laboratoryjnej
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 15 września 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 września 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-09-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001295) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1295/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 15 września 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o medycynie laboratoryjnej
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. z 2023 r. poz. 2125), z uwzględnieniem zmian wprowadzonych ustawą z dnia 27 listopada 2024 r. o zmianie ustawy o Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (Dz. U. poz. 1897) oraz zmian wynikających z przepisów ogłoszonych przed dniem 4 września 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 41 ustawy z dnia 27 listopada 2024 r. o zmianie ustawy o Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (Dz. U.
 poz. 1897), który stanowi: „Art. 41. Ustawa wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem:
@@ -43,13 +43,38 @@ Art. 144–151. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zasady i warunki wykonywania czynności medycyny laboratoryjnej;
+- **2)** zasady i warunki wykonywania zawodu diagnosty laboratoryjnego;
+- **3)** zasady nadzoru i kontroli medycznych laboratoriów diagnostycznych;
+- **4)** zasady organizacji i działania samorządu diagnostów laboratoryjnych.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** laboratorium medyczne laboratorium diagnostyczne, w którym są wykonywane czynności medycyny laboratoryjnej, o których mowa w art. 3, będące:
+    - **a)** zakładem leczniczym w rozumieniu art. 2 ust. 1 pkt 14 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2025 r. poz. 450, 620, 637 i 1211) albo jednostką lub komórką organizacyjną tego zakładu lub
+    - **b)** zespołem składników majątkowych, za pomocą którego diagnosta laboratoryjny wykonuje indywidualną praktykę diagnosty laboratoryjnego albo grupową praktykę diagnostów laboratoryjnych, lub
+    - **c)** jednostką organizacyjną uczelni albo instytutu badawczego niebędącego podmiotem leczniczym;
+
+- **2)** laboratoryjna interpretacja wyniku badania laboratoryjnego zbiór komentarzy i informacji umieszczanych przez osobę uprawnioną do samodzielnego wykonywania czynności medycyny laboratoryjnej, o których mowa w art. 3, na wyniku badania laboratoryjnego;
+- **3)** materiał biologiczny komórki, tkanki, narządy lub ich części, wydzieliny, wydaliny, płyny ustrojowe pochodzące od człowieka pobrane dla celów profilaktycznych, diagnostycznych, leczniczych, sanitarno-epidemiologicznych i oceny zgodności tkankowej „in vitro”;
+- **4)** medycyna laboratoryjna dziedzinę medycyny, której zadaniem jest określanie składu i parametrów biologicznych, chemicznych i fizycznych materiałów biologicznych;
+- **5)** państwo członkowskie państwo członkowskie Unii Europejskiej, państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronę umowy o Europejskim Obszarze Gospodarczym lub Konfederację Szwajcarską;
+- **6)** POCT badania laboratoryjnych parametrów krytycznych wykonywane w materiale biologicznym, umożliwiające podjęcie szybkiej decyzji terapeutycznej, wykonywane przez personel medyczny do tego uprawniony w miejscu udzielania świadczeń zdrowotnych;
+- **7)** świadczenie zdrowotne świadczenie zdrowotne w rozumieniu art. 2 ust. 1 pkt 10 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
+- **8)** wynik badania laboratoryjnego sprawozdanie z wykonanego badania laboratoryjnego przedstawione w formie liczbowej lub opisowej wraz z zakresem biologicznych wartości referencyjnych i laboratoryjną interpretacją wyniku badania laboratoryjnego, zautoryzowane przez osobę uprawnioną, zawierające dane identyfikujące pacjenta, materiał biologiczny, laboratorium oraz osobę wykonującą i autoryzującą badanie.
 
 #### Rozdział 2 Zasady i warunki wykonywania czynności medycyny laboratoryjnej
 
 **Art. 3.** Czynności medycyny laboratoryjnej obejmują:
 
+- **1)** badania laboratoryjne materiału biologicznego, w szczególności analityczne, mikrobiologiczne, immunologiczne, genetyczne, cytomorfologiczne i toksykologiczne;
+- **2)** działania zmierzające do ustalenia zgodności tkankowej;
+- **3)** wykonywanie oceny jakości i wartości diagnostycznej badań laboratoryjnych i działań określonych w pkt 2 oraz laboratoryjnej interpretacji i autoryzacji wyników badań laboratoryjnych.
+
 **Art. 4.** Osobą uprawnioną do samodzielnego wykonywania czynności medycyny laboratoryjnej w laboratorium jest:
+
+- **1)** diagnosta laboratoryjny;
+- **2)** lekarz posiadający prawo wykonywania zawodu oraz specjalizację I lub II stopnia w dziedzinie analityki lub w dziedzinie mikrobiologii, lub w dziedzinie diagnostyki laboratoryjnej lub lekarz posiadający specjalizację II stopnia w dziedzinie mikrobiologii i serologii, lub lekarz posiadający tytuł specjalisty w dziedzinie diagnostyki laboratoryjnej lub w dziedzinie mikrobiologii lekarskiej.
 
 **Art. 5.**
 
@@ -276,6 +301,16 @@ Art. 144–151. (pominięte)
 
 **Art. 21.** Do obowiązków kierownika laboratorium należy:
 
+- **1)** nadzór nad wykonywanymi czynnościami medycyny laboratoryjnej;
+- **2)** organizacja pracy w laboratorium, zgodnie z uprawnieniami personelu do wykonywania poszczególnych czynności medycyny laboratoryjnej;
+- **3)** nadzór nad przetwarzaną dokumentacją medyczną związaną z wykonanymi badaniami laboratoryjnymi;
+- **4)** nadzór nad zapewnieniem odpowiedniej jakości badań laboratoryjnych;
+- **5)** zapewnienie przestrzegania przez podmioty współpracujące z laboratorium procedur w nim obowiązujących;
+- **6)** prowadzenie ewidencji personelu zatrudnionego w laboratorium;
+- **7)** zapewnienie stałej wewnętrznej oraz zewnętrznej kontroli jakości badań oraz dokumentacji związanej z prowadzeniem kontroli;
+- **8)** organizowanie i prowadzenie szkoleń dla personelu zatrudnionego w laboratorium;
+- **9)** prowadzenie stałego nadzoru i monitorowanie przebiegu, prawidłowości i skuteczności stosowanych metod i procedur diagnostycznych, sposobu prowadzenia dokumentacji badań laboratoryjnych, czasu trwania badań, jakości stosowanych odczynników, sposobu rozwiązywania zaistniałych problemów technicznych i diagnostycznych.
+
 **Art. 22.** Diagnosta laboratoryjny wykonuje zawód z należytą starannością, zgodnie z zasadami etyki zawodowej oraz z wykorzystaniem wskazań aktualnej wiedzy medycznej.
 
 **Art. 23.**
@@ -287,6 +322,10 @@ Art. 144–151. (pominięte)
 3. Decyzję o wykonywaniu czynności medycyny laboratoryjnej w okolicznościach, o których mowa w ust. 2, diagnosta laboratoryjny podejmuje na pisemne zlecenie lekarza lub lekarza dentysty leczącego pacjenta, odnotowane w dokumentacji medycznej tego pacjenta.
 
 **Art. 24.** Diagnosta laboratoryjny jest obowiązany na zasadach określonych w ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta:
+
+- **1)** informować pacjenta o jego prawach określonych w tej ustawie;
+- **2)** udzielać informacji o stanie zdrowia pacjenta, w zakresie udzielanych przez niego świadczeń zdrowotnych oraz zgodnie z posiadanymi przez niego uprawnieniami;
+- **3)** zachowywać w tajemnicy informacje związane z pacjentem, uzyskane od lekarza lub lekarza dentysty leczącego pacjenta w związku z wykonywaniem zawodu.
 
 **Art. 25.** Diagnosta laboratoryjny bierze udział w postępowaniu diagnostycznym, profilaktycznym i monitorowaniu terapii, w szczególności przez udokumentowany udział w procesie terapeutycznym, współpracując z lekarzem lub lekarzem dentystą leczącym pacjenta, a w razie potrzeby z osobami wykonującymi inne zawody medyczne. Lekarz lub lekarz dentysta leczący pacjenta decyduje o zakresie zleconych badań laboratoryjnych.
 
@@ -963,6 +1002,10 @@ Art. 144–151. (pominięte)
 
 **Art. 54.** Do zadań Zespołu Egzaminacyjnego przeprowadzającego dany PESDL należy:
 
+- **1)** przeprowadzenie PESDL zgodnie z regulaminem porządkowym, o którym mowa w art. 55 ust. 19;
+- **2)** przekazanie do CEM kart odpowiedzi, niezwłocznie po zakończonym egzaminie testowym, w sposób uniemożliwiający dokonywanie zmian w ich treści;
+- **3)** przekazanie do CEM ocen z egzaminu ustnego i egzaminu praktycznego oraz dokumentacji związanej z przeprowadzonym PESDL, niezwłocznie po zakończonym PESDL, jednak nie później niż w terminie 14 dni od dnia zakończenia PESDL.
+
 **Art. 55.**
 
 1. Zakres PESDL jest zgodny z programem danego szkolenia specjalizacyjnego.
@@ -1094,6 +1137,20 @@ Art. 144–151. (pominięte)
 
 **Art. 61.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
+- **1)** wykaz dziedzin medycyny laboratoryjnej, w których jest możliwe odbywanie szkolenia specjalizacyjnego, uwzględniając potrzebę zabezpieczenia dostępu do świadczeń zdrowotnych w określonym zakresie;
+- **2)** wykaz kodów specjalizacji w określonych dziedzinach medycyny laboratoryjnej, uwzględniając możliwość wyszukania danej dziedziny medycyny laboratoryjnej;
+- **3)** wysokość wynagrodzenia za wykonanie czynności kontrolnych, o którym mowa w art. 37 ust. 11 pkt 1, uwzględniając nakład pracy związany z przeprowadzaniem czynności kontrolnych;
+- **4)** wykaz specjalności, w których diagnosta laboratoryjny posiadający odpowiednią specjalizację I stopnia, uzyskaną na podstawie dotychczasowych przepisów, może uzyskać tytuł specjalisty w określonej dziedzinie po odbyciu szkolenia specjalizacyjnego zgodnie z programem, o którym mowa w art. 38 ust. 1 i 2, uwzględniając potrzebę zabezpieczenia dostępu do świadczeń zdrowotnych w określonym zakresie;
+- **5)** regulamin postępowania kwalifikacyjnego, uwzględniając konieczność prawidłowego przeprowadzenia postępowania kwalifikacyjnego;
+- **6)** szczegółowy zakres informacji, o których mowa w art. 43 ust. 3, wprowadzanych do EKS przez kierownika specjalizacji, uwzględniając konieczność zapewnienia pełnej informacji niezbędnej do prowadzenia specjalizacji;
+- **7)** wzór oświadczenia, o którym mowa w art. 53 ust. 4, uwzględniając konieczność zapewnienia jednolitości i przejrzystości tego dokumentu;
+- **8)** wysokość wynagrodzenia przewodniczącego Zespołu Egzaminacyjnego i członków Zespołu Egzaminacyjnego, o których mowa w art. 53 ust. 5 pkt 1, uwzględniając nakład pracy związany z przeprowadzaniem PESDL;
+- **9)** szczegółowy sposób i tryb składania PESDL oraz ustalania jego wyników, uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia PESDL;
+- **10)** wzór dyplomu specjalisty, uwzględniając konieczność zapewnienia przejrzystości dokumentu;
+- **11)** tryb wydawania przez dyrektora CEM duplikatu albo odpisu dyplomu PESDL oraz sposób uiszczania opłaty za wydanie duplikatu lub odpisu dyplomu PESDL,
+- **12)** tryb dokonywania przez dyrektora CEM korekty dyplomu PESDL oraz sposób uiszczania opłaty za dokonanie korekty dyplomu mając na celu zapewnienie sprawnej realizacji zadań przez CEM;
+- **13)** wysokość opłaty, o której mowa w art. 51 ust. 1, uwzględniając koszty przeprowadzenia PESDL oraz wydania dyplomu potwierdzającego uzyskanie tytułu specjalisty.
+
 **Art. 62.**
 
 1. Minister właściwy do spraw zdrowia uznaje uzyskany za granicą tytuł specjalisty w dziedzinie medycyny laboratoryjnej za równoważny z tytułem specjalisty w Rzeczypospolitej Polskiej, jeżeli zostały spełnione następujące warunki:
@@ -1218,6 +1275,11 @@ Art. 144–151. (pominięte)
 - **5)** przystąpić do PESDL.
 
 **Art. 64.** Dane zamieszczane w SMK mogą zostać udostępniane:
+
+- **1)** diagnoście laboratoryjnemu w zakresie śledzenia przebiegu szkolenia specjalizacyjnego;
+- **2)** uczelniom w zakresie wykonywanych zadań określonych w ustawie oraz monitorowania karier zawodowych swoich absolwentów na podstawie ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce;
+- **3)** konsultantom w ochronie zdrowia w zakresie wykonywanych zadań określonych w ustawie oraz w zakresie zadań, o których mowa w ustawie z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia;
+- **4)** CEM, CMKP, wojewodom, jednostkom szkolącym, Krajowej Radzie i ministrowi właściwemu do spraw zdrowia w zakresie wykonywanych zadań określonych w ustawie.
 
 **Art. 65.**
 
@@ -1409,6 +1471,33 @@ Art. 144–151. (pominięte)
 
 **Art. 76.** Do zadań samorządu należy w szczególności:
 
+- **1)** reprezentowanie osób wykonujących zawód diagnosty laboratoryjnego oraz sprawowanie pieczy nad należytym i sumiennym wykonywaniem tego zawodu w granicach interesu publicznego i dla jego ochrony;
+- **2)** sprawowanie nadzoru nad należytym wykonywaniem czynności medycyny laboratoryjnej i sprawowanie pieczy nad należytym i sumiennym wykonywaniem zawodu diagnosty laboratoryjnego;
+- **3)** ustanawianie i upowszechnianie zasad etyki zawodowej oraz sprawowanie nadzoru nad ich przestrzeganiem;
+- **4)** udział w ustalaniu standardów i zasad oceny pracy diagnosty laboratoryjnego;
+- **5)** przyznawanie prawa wykonywania zawodu diagnosty laboratoryjnego;
+- **6)** uznawanie kwalifikacji diagnosty laboratoryjnego uzyskanych w innych państwach członkowskich oraz osoby, o której mowa w art. 11 ust. 1 pkt 7, zamierzającej wykonywać zawód diagnosty laboratoryjnego na terytorium Rzeczypospolitej Polskiej;
+- **7)** wydawanie zaświadczeń potwierdzających kwalifikacje zawodowe na podstawie art. 9 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej;
+- **8)** wykonywanie zadań organu właściwego, o którym mowa w art. 6 ust. 1 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej;
+- **9)** zawieszanie i pozbawianie prawa wykonywania zawodu diagnosty laboratoryjnego oraz ograniczanie w wykonywaniu określonych czynności medycyny laboratoryjnej przez diagnostę laboratoryjnego;
+- **10)** prowadzenie postępowania w przedmiocie odpowiedzialności zawodowej diagnosty laboratoryjnego;
+- **11)** prowadzenie postępowania w przedmiocie niezdolności do wykonywania zawodu diagnosty laboratoryjnego lub w przedmiocie niedostatecznego przygotowania do wykonywania tego zawodu;
+- **12)** prowadzenie lub udział w organizowaniu doskonalenia zawodowego diagnosty laboratoryjnego;
+- **13)** opiniowanie kandydatur diagnosty laboratoryjnego na stanowiska lub funkcje, jeżeli odrębne przepisy tak stanowią;
+- **14)** prowadzenie rejestru diagnostów i rejestru podmiotów wykonujących działalność leczniczą w zakresie indywidualnych i grupowych praktyk diagnostów laboratoryjnych na zasadach określonych w ustawie z dnia 15 kwietnia 2011 r. o działalności leczniczej;
+- **15)** opiniowanie warunków pracy i płac diagnostów laboratoryjnych;
+- **16)** integrowanie środowiska diagnostów laboratoryjnych;
+- **17)** działania na rzecz ochrony zawodu diagnosty laboratoryjnego, w tym występowanie w obronie godności zawodu diagnosty laboratoryjnego oraz interesów indywidualnych i zbiorowych członków samorządu;
+- **18)** zajmowanie stanowiska w sprawach stanu zdrowia społeczeństwa, polityki zdrowotnej państwa oraz organizacji ochrony zdrowia;
+- **19)** opiniowanie projektów aktów prawnych dotyczących ochrony zdrowia i wykonywania zawodu diagnosty laboratoryjnego bądź występowanie o ich wydanie;
+- **20)** prowadzenie badań dotyczących ochrony zdrowia i wykonywania zawodu diagnosty laboratoryjnego;
+- **21)** współdziałanie z organami administracji publicznej, związkami zawodowymi oraz innymi organizacjami w kraju i za granicą w sprawach dotyczących ochrony zdrowia i warunków wykonywania zawodu diagnosty laboratoryjnego;
+- **22)** uczestnictwo w konkursach na stanowiska w ochronie zdrowia, jeżeli odrębne przepisy tak stanowią;
+- **23)** przechowywanie i udostępnianie dokumentacji medycznej w przypadku, o którym mowa w art. 30a ust. 3 pkt 3 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta;
+- **24)** prowadzenie instytucji samopomocowych i innych form pomocy materialnej dla diagnostów laboratoryjnych i ich rodzin;
+- **25)** udzielanie pomocy, w tym pomocy prawnej, w realizacji praw członków Krajowej Izby;
+- **26)** opracowywanie wytycznych czynności medycyny laboratoryjnej.
+
 **Art. 77.**
 
 1. Organami samorządu są:
@@ -1518,6 +1607,15 @@ Art. 144–151. (pominięte)
 
 **Art. 85.** Do Krajowego Zjazdu należy:
 
+- **1)** wybór Prezesa Krajowej Rady, z zastrzeżeniem art. 88 pkt 7;
+- **2)** wybór Krajowej Rady, Komisji Rewizyjnej, Sądu Diagnostów Laboratoryjnych, Wyższego Sądu Diagnostów Laboratoryjnych oraz Rzecznika i jego zastępców, z zastrzeżeniem art. 88 pkt 7;
+- **3)** uchwalenie wytycznych działania samorządu i jego organów;
+- **4)** określenie zasad przeprowadzania wyborów do organów samorządu, liczby członków tych organów oraz trybu ich odwoływania, a także zasad podejmowania uchwał przez organy samorządu, z zastrzeżeniem art. 84 ust. 6;
+- **5)** rozpatrywanie i zatwierdzanie sprawozdań Krajowej Rady, Komisji Rewizyjnej, Sądu Diagnostów Laboratoryjnych, Wyższego Sądu Diagnostów Laboratoryjnych i Rzecznika;
+- **6)** kodyfikowanie zasad etyki zawodowej;
+- **7)** ustalenie podstawowych zasad gospodarki finansowej samorządu;
+- **8)** uchwalenie regulaminów działania organów samorządu.
+
 **Art. 86.**
 
 1. Nadzwyczajny Krajowy Zjazd zwołuje Krajowa Rada:
@@ -1542,6 +1640,27 @@ Art. 144–151. (pominięte)
 4. Krajowa Rada może, w drodze uchwały, upoważnić Prezydium do podejmowania uchwał w sprawach diagnostów laboratoryjnych, do których stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego dotyczące decyzji administracyjnych.
 
 **Art. 88.** Do zakresu działania Krajowej Rady należy:
+
+- **1)** reprezentowanie samorządu, w tym wobec organów państwowych i samorządowych, sądów, Narodowego Funduszu Zdrowia, instytucji i organizacji;
+- **2)** przyznawanie i zawieszanie prawa wykonywania zawodu diagnosty laboratoryjnego oraz ograniczanie w wykonywaniu czynności zawodowych;
+- **3)** opiniowanie projektów aktów prawnych oraz przedstawianie wniosków dotyczących regulacji z zakresu ochrony zdrowia;
+- **4)** koordynowanie doskonalenia zawodowego diagnostów laboratoryjnych;
+- **5)** wykonywanie uchwał Krajowego Zjazdu;
+- **6)** uchwalanie budżetu Krajowej Rady i zatwierdzanie sprawozdań z jego wykonania oraz rozpatrywanie wniosków Komisji Rewizyjnej;
+- **7)** wybór Prezesa Krajowej Rady oraz Rzecznika, jeżeli ich mandat wygasł w okresie między Krajowymi Zjazdami;
+- **8)** wybór wizytatorów;
+- **9)** uchwalanie:
+    - **a)** regulaminów działalności samorządu i jego organów,
+    - **b)** regulaminu działalności wizytatorów,
+    - **c)** regulaminu prowadzenia oraz wykonywania kontroli na zasadach w tej ustawie przewidzianych dla organu prowadzącego: rejestr diagnostów oraz rejestr podmiotów wykonujących działalność leczniczą w zakresie praktyk diagnostów laboratoryjnych na zasadach określonych w ustawie z dnia 15 kwietnia 2011 r. o działalności leczniczej,
+    - **d)** regulaminu prowadzenia ewidencji laboratoriów,
+    - **e)** innych regulaminów zapewniających prawidłowe funkcjonowanie Krajowej Izby;
+
+- **10)** ustalanie zasad gospodarki finansowej samorządu;
+- **11)** określanie wysokości składki członkowskiej i zasad jej podziału oraz wysokości opłat manipulacyjnych, w tym związanych z postępowaniem w sprawie wpisu do rejestru diagnostów;
+- **12)** zawieszanie prawa wykonywania zawodu diagnosty laboratoryjnego, do czasu uiszczenia należności z tytułu składek członkowskich, diagnosty laboratoryjnego, który zalega mimo wezwania z zapłatą składki członkowskiej dłużej niż 6 miesięcy;
+- **13)** wykonywanie zadań niezastrzeżonych do kompetencji innych organów samorządu;
+- **14)** wykonywanie innych zadań określonych w ustawie oraz w przepisach odrębnych.
 
 **Art. 89.** Do zakresu działania Komisji Rewizyjnej należy kontrola działalności finansowej i gospodarczej Krajowej Rady.
 
@@ -1699,6 +1818,12 @@ Art. 144–151. (pominięte)
 **Art. 109.** Prawomocne rozstrzygnięcie sądu diagnostów laboratoryjnych kształtujące prawo lub stosunek prawny jest wiążące dla organów prowadzących postępowanie w przedmiocie odpowiedzialności zawodowej diagnostów laboratoryjnych.
 
 **Art. 110.** Postępowania w przedmiocie odpowiedzialności zawodowej diagnostów laboratoryjnych nie wszczyna się, a wszczęte umarza, jeżeli:
+
+- **1)** czynu nie popełniono albo brak jest danych dostatecznie uzasadniających podejrzenie jego popełnienia;
+- **2)** czyn nie stanowi przewinienia zawodowego albo ustawa stanowi, że sprawca nie popełnia przewinienia zawodowego;
+- **3)** obwiniony zmarł, z zastrzeżeniem art. 105 ust. 5;
+- **4)** nastąpiło ustanie karalności;
+- **5)** postępowanie w przedmiocie odpowiedzialności zawodowej diagnostów laboratoryjnych co do tego samego czynu tej samej osoby zostało już prawomocnie zakończone albo wcześniej wszczęte toczy się.
 
 **Art. 111.**
 
@@ -2016,6 +2141,9 @@ Art. 144–151. (pominięte)
 
 **Art. 140.** W sprawach nieuregulowanych w niniejszej ustawie do postępowania w przedmiocie odpowiedzialności zawodowej stosuje się odpowiednio przepisy:
 
+- **1)** ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego; nie stosuje się przepisów o oskarżycielu prywatnym, powodzie cywilnym, przedstawicielu społecznym, o postępowaniu przygotowawczym oraz środkach przymusu, z wyjątkiem przepisów o karze pieniężnej;
+- **2)** rozdziałów I–III i art. 53 ustawy z dnia 6 czerwca 1997 r. Kodeks karny.
+
 **Art. 141.** Nieopłacone w terminie koszty postępowania w przedmiocie odpowiedzialności dyscyplinarnej oraz kara pieniężna, o której mowa w art. 124 ust. 3 pkt 3, podlegają egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 
 #### Rozdział 8 Przepisy karne
@@ -2137,4 +2265,8 @@ Art. 144–151. (pominięte)
 **Art. 165.** Traci moc ustawa z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej (Dz. U. z 2022 r. poz. 2162).
 
 **Art. 166.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 31 ust. 4, art. 68 ust. 2 pkt 5 i ust. 3, art. 76 pkt 23, art. 88 pkt 9 lit. c tiret drugie, art. 147 pkt 2 oraz art. 149 pkt 1–4 i 12–17, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia;
+- **2)** art. 149 pkt 5–11 oraz art. 152–154, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
+
 

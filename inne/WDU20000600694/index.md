@@ -8,12 +8,10 @@ pos: 694
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o nadaniu Wyższej Szkole Pedagogiki Specjalnej im. Marii Grzegorzewskiej w Warszawie nazwy „Akademia Pedagogiki Specjalnej im. Marii Grzegorzewskiej”
-
-*USTAWA z dnia 7 czerwca 2000 r.*
+# Ustawa z dnia 7 czerwca 2000 r. o nadaniu Wyższej Szkole Pedagogiki Specjalnej im. Marii Grzegorzewskiej w Warszawie nazwy „Akademia Pedagogiki Specjalnej im. Marii Grzegorzewskiej”
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2000-06-07 |
 | Data wydania | 2000-07-27 |
+| Wejście w życie | 2000-09-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000600694) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/694/text.pdf) |
 

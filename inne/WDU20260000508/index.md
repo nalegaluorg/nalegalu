@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy pomocy państwa wychowywaniu dzieci
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 marca 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 kwietnia 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-04-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000508) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/508/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 marca 2026 r.
+sprawie ogłoszenia jednolitego tekstu ustawy pomocy państwa wychowywaniu dzieci
 1. Na podstawie 16 ust. 1 ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 11 lutego 2016 r. pomocy państwa wychowywaniu dzieci (Dz. U. z 2024 r. poz. 1576), z uwzględnieniem stanu prawnego na dzień 16 marca 2026 r. oraz zmian wprowadzonych:
 1) ustawą z dnia 24 kwietnia 2025 r. zmianie ustawy cudzoziemcach oraz niektórych innych ustaw (Dz. U. poz. 619);
 2) ustawą z dnia 12 września 2025 r. zmianie niektórych ustaw celu weryfikacji prawa do świadczeń na rzecz rodziny dla cudzoziemców oraz warunkach pomocy obywatelom Ukrainy związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 1301);
@@ -36,6 +36,8 @@ source: "isap-pdf"
 Art. 31–47. (pominięte)
 
 **Art. 20.** „1. Do postępowań sprawach uregulowanych ustawach zmienianych niniejszą ustawą, wszczętych i niezakończonych przed dniem wejścia życie niniejszej stosuje się przepisy dotychczasowe.” „Art. 23. Ustawa wchodzi życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia.”;
+
+- **2)** 14, 15 i 29 ustawy z dnia 12 września 2025 r. zmianie niektórych ustaw celu weryfikacji prawa do świadczeń na rzecz rodziny dla cudzoziemców oraz warunkach pomocy obywatelom Ukrainy związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 1301), które stanowią: „Art. 14. Przepisy ustawy zmienianej 9, brzmieniu nadanym niniejszą ustawą, mają zastosowanie po raz pierwszy przy ustalaniu prawa do świadczenia wychowawczego na okres, który rozpocznie się 1 czerwca 2026 r. W sprawach dotyczących świadczenia wychowawczego za okresy, które rozpoczęły się przed 1 czerwca 2026 r., stosuje się przepisy dotychczasowe.
 
 **Art. 15.**
 
@@ -59,6 +61,11 @@ Art. 31–47. (pominięte)
 - **2)** niniejszą ustawą stosuje się od dnia 5 marca 2026 r. do spraw ustalenie prawa do świadczenia wychowawczego na okres od dnia 5 marca 2026 r.
 
 **Art. 31.** W stosunku do osób, których 1 ust. 2 2 lit. c, d, e i f ustawy zmienianej 13, przepisy 23 ust. 3a ustawy zmienianej 13 mają zastosowanie po raz pierwszy przy ustalaniu prawa do świadczenia wychowawczego na okres, który rozpocznie się dnia 1 czerwca 2026 r.” „Art. 54. Ustawa wchodzi życie z dniem 5 marca 2026 r., z wyjątkiem:
+
+- **1)** 17 3 lit. d tiret drugie i 51 zakresie uchylenia 110, które wchodzą życie z dniem 1 stycznia 2027 r.;
+- **2)** 17 46 i 51 zakresie uchylenia 113, które wchodzą życie z dniem 5 marca 2027 r.;
+- **3)** 14, który wchodzi życie z dniem 1 września 2027 r.;
+- **4)** 17 22–31, które wchodzą życie z dniem określonym komunikacie, którym 33 ustawy z dnia 15 maja 2024 r. zmianie ustawy pomocy obywatelom Ukrainy związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 854).”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 11 lutego 2016 r. pomocy państwa wychowywaniu dzieci
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -107,6 +114,41 @@ Art. 31–47. (pominięte)
 3. Prawo do świadczenia wychowawczego przysługuje osobom, których ust. 2, jeżeli zamieszkują na terytorium Rzeczypospolitej Polskiej okres, jakim mają otrzymywać świadczenie wychowawcze, chyba że przepisy koordynacji systemów zabezpieczenia społecznego lub dwustronne umowy międzynarodowe zabezpieczeniu społecznym stanowią inaczej.
 
 **Art. 2.** Ilekroć ustawie jest o:
+
+- **1)** (uchylony) 1a) aktywności zawodowej oznacza to: Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826) oraz 18a i 18c ustawy z dnia 13 października 1998 r. systemie ubezpieczeń społecznych, poz. 501 i 1083 oraz z 2026 r. poz. 26), zasiłku chorobowego, zasiłku wyrównawczego albo świadczenia rehabilitacyjnego na podstawie ustawy z dnia 30 października 2002 r. ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. z 2025 r. poz. 1644 oraz z 2026 r. poz. 26), jeżeli podstawa wymiaru składek na ubezpieczenia emerytalne i rentowe ostatnio przyjęta do obliczenia składek albo kwota zasiłku, świadczenia albo wynagrodzenia stanowi niemniej niż 50 % minimalnego wynagrodzenia za pracę odniesieniu do osób, których lit. a, albo niemniej niż 30 % minimalnego wynagrodzenia za pracę przypadku osób, których lit. d, poz. 1770), ubezpieczeniu emerytalno-rentowemu rolników z mocy ustawy albo nieprzerwany okres co najmniej 12 miesięcy ubezpieczeniu emerytalno-rentowemu rolników na wniosek, z wyjątkiem osób, których 16 ust. 1 3 i 4 oraz ust. 2 2 tej
+    - **a)** podleganie obowiązkowo ubezpieczeniom emerytalnemu i rentowym na podstawie 6 ust. 1 1–5a, 7 i 7b ustawy z dnia 13 października 1998 r. systemie ubezpieczeń społecznych (Dz. U. z 2026 r. poz. 199 i 252) oraz z tytułu wykonywania umowy uaktywniającej określonej ustawie z dnia 4 lutego 2011 r. opiece nad dziećmi wieku do lat 3 (Dz. U. z 2025 r. poz. 798), od podstawy wymiaru składek na te ubezpieczenia stanowiącej niemniej niż 50 % minimalnego wynagrodzenia za pracę,
+    - **b)** podleganie obowiązkowo ubezpieczeniom emerytalnemu i rentowym na podstawie 6 ust. 1 9, 9a, 9c, 20 i 21 ustawy z dnia 13 października 1998 r. systemie ubezpieczeń społecznych,
+    - **c)** podleganie obowiązkowo ubezpieczeniom emerytalnemu i rentowym jako osoby przebywające na urlopach wychowawczych, których 6 ust. 1 19 ustawy z dnia 13 października 1998 r. systemie ubezpieczeń społecznych,
+    - **d)** prowadzenie pozarolniczej działalności gospodarczej, 18 ust. 1 ustawy z dnia 6 marca 2018 r.
+    - **e)** pobieranie zasiłku macierzyńskiego, zasiłku wysokości zasiłku macierzyńskiego, zasiłku chorobowego, zasiłku opiekuńczego, zasiłku wyrównawczego albo świadczenia rehabilitacyjnego na podstawie ustawy z dnia 25 czerwca 1999 r. świadczeniach pieniężnych z ubezpieczenia społecznego razie choroby i macierzyństwa (Dz. U. z 2025 r.
+    - **f)** podleganie obowiązkowo ubezpieczeniu zdrowotnemu na podstawie 66 ust. 1 16, 16a, 24a, 25, 28c i 37 ustawy z dnia 27 sierpnia 2004 r. świadczeniach opieki zdrowotnej finansowanych ze środków publicznych,
+    - **g)** podleganie, na podstawie ustawy z dnia 20 grudnia 1990 r. ubezpieczeniu społecznym rolników (Dz. U. z 2025 r.
+    - **h)** podleganie dobrowolnie ubezpieczeniom emerytalnemu i rentowym na podstawie 7 ustawy z dnia 13 października 1998 r. systemie ubezpieczeń społecznych;
+
+- **2)** (uchylony)
+- **3)** (uchylony)
+- **4)** (uchylony)
+- **5)** dziecku oznacza to dziecko własne, dziecko przysposobione oraz dziecko, sprawie którego toczy się postępowanie przysposobienie, dziecko znajdujące się pod opieką prawną, dziecko umieszczone pieczy zastępczej lub dziecko umieszczone domu pomocy społecznej;
+- **6)** (uchylony)
+- **7)** (uchylony)
+- **8)** instytucji zapewniającej całodobowe utrzymanie oznacza to młodzieżowy ośrodek wychowawczy, schronisko dla nieletnich, zakład poprawczy, areszt śledczy, zakład karny, szkołę wojskową lub inną szkołę, jeżeli instytucje te zapewniają nieodpłatnie pełne utrzymanie;
+- **8a)** minimalnym wynagrodzeniu za pracę oznacza to minimalne wynagrodzenie za pracę, którym ustawie z dnia 10 października 2002 r. minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773);
+- **9)** (uchylony)
+- **10)** opiekunie faktycznym dziecka oznacza to osobę faktycznie opiekującą się dzieckiem, jeżeli wystąpiła z wnioskiem do sądu opiekuńczego przysposobienie dziecka;
+- **10a)** opiekunie tymczasowym dziecka oznacza to osobę, 113 ustawy z dnia 13 czerwca 2003 r. udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej;
+- **10b)** opiekunie dziecka wskazanym władze kraju pochodzenia oznacza to osobę, 113a ustawy z dnia 13 czerwca 2003 r. udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej;
+- **11)** (uchylony)
+- **12)** (uchylony)
+- **13)** (uchylony)
+- **14)** (uchylony)
+- **15)** przepisach koordynacji systemów zabezpieczenia społecznego oznacza to rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 883/2004 z dnia 29 kwietnia 2004 r. sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. UE L 166 z 30.04.2004, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 5, str. 72, z późn. zm.) oraz rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczące wykonywania rozporządzenia (WE) nr 883/2004 sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. UE L 284 z 30.10.2009, str. 1, z późn. zm.);
+- **16)** (uchylony)
+- **17)** szkole oznacza to szkołę podstawową, szkołę ponadpodstawową, klasy dotychczasowej szkoły ponadgimnazjalnej prowadzone szkole ponadpodstawowej, szkołę artystyczną, jest realizowany obowiązek szkolny lub nauki, a także młodzieżowy ośrodek socjoterapii, młodzieżowy ośrodek wychowawczy, specjalny ośrodek szkolno-wychowawczy, specjalny ośrodek wychowawczy, ośrodek rewalidacyjno-wychowawczy.
+- **18)** (uchylony)
+- **19)** (uchylony)
+- **20)** (uchylony)
+- **21)** (uchylony)
+- **22)** (uchylony)
 
 **Art. 3.** Rada Ministrów składa corocznie Sejmowi i Senatowi, terminie do dnia 30 września, sprawozdanie z realizacji ustawy.
 

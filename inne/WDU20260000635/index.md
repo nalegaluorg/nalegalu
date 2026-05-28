@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw
-
-*USTAWA z dnia 17 kwietnia 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 maja 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,62 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2026-04-17 |
 | Data wydania | 2026-05-12 |
-| Ostatnia zmiana | 2026-05-13 |
+| Wejście w życie | 2026-05-27 |
+| Ostatnia zmiana | 2026-05-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000635) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/635/text.pdf) |
 
+USTAWA z dnia 17 kwietnia 2026 r.
+o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw
+
 **Art. 1.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426) wprowadza się następujące zmiany:
+
+- **1)** w art. 48 po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Bank Gospodarstwa Krajowego dokonuje lokat wolnych środków funduszy utworzonych, powierzonych lub przekazanych temu bankowi na podstawie odrębnych ustaw, w formie depozytu u Ministra Finansów. Przepisy ust. 3 i ust. 4 zdanie pierwsze stosuje się odpowiednio.”;
+- **2)** w art. 78b w ust. 2 po wyrazach „określonych w umowie” dodaje się wyrazy „ , z zastrzeżeniem art. 78ba”;
+- **3)** po art. 78b dodaje się art. 78ba w brzmieniu: „Art. 78ba. 1. W przypadku, o którym mowa w art. 48 ust. 4a, Minister Finansów przyjmuje wolne środki w depozyt na warunkach określonych w umowie. Przepis art. 78c stosuje się odpowiednio.
+
+2. Umowa, o której mowa w ust. 1, określa co najmniej:
+
+- **1)** warunki przekazywania i przyjmowania wolnych środków w depozyt, w szczególności terminy przekazywania tych środków i terminy ich zwrotu;
+- **2)** wysokość lub sposób obliczania oprocentowania środków przyjętych w depozyt;
+- **3)** szczegółowe warunki rozwiązywania depozytu przed terminem, na jaki został on utworzony.”;
+- **4)** w art. 112aa:
+    - **a)** ust. 4a i 4b otrzymują brzmienie: „4a. Wartość klauzuli obronnej w roku n, o którym mowa w ust. 1, jest równa różnicy pomiędzy planowanymi wydatkami na cele obronne:
+
+- **1)** budżetu państwa określonymi w art. 40 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080 oraz z 2026 r. poz. 26, 426 i 635),
+- **2)** Funduszu Wsparcia Sił Zbrojnych,
+- **3)** Funduszu Inwestycji Kapitałowych,
+- **4)** Funduszu Reprywatyzacji,
+- **5)** Rządowej Agencji Rezerw Strategicznych,
+- **6)** Agencji Mienia Wojskowego przyjętymi do obliczenia limitu, o którym mowa w ust. 3, a wartością wydatków na cele obronne tych podmiotów ustaloną zgodnie z ust. 4c.
+
+4b. Właściwi dysponenci części budżetowych przekazują Ministrowi Obrony Narodowej dane dotyczące wydatków na cele obronne, o których mowa w ust. 4a, w obszarze swojej właściwości w zakresie, o którym mowa w ust. 4a pkt 3–5, zgodnie z przepisami dotyczącymi prac nad projektem ustawy budżetowej. Do czasu przyjęcia przez Radę Ministrów projektu ustawy budżetowej, w przypadku zaistnienia zmian mających wpływ na wartość klauzuli obronnej, dysponenci części budżetowych przekazują niezwłocznie zmienione dane.”,
+
+- **b)** po ust. 4b dodaje się ust. 4ba w brzmieniu: „4ba. Minister Obrony Narodowej przekazuje Ministrowi Finansów dane dotyczące wydatków na cele obronne, o których mowa w ust. 4a, w obszarze swojej właściwości w zakresie, o którym mowa w ust. 4a pkt 1, 2 i 6, zgodnie z przepisami dotyczącymi prac nad projektem ustawy budżetowej. Do czasu przyjęcia przez Radę Ministrów projektu ustawy budżetowej, w przypadku zaistnienia zmian mających wpływ na wartość klauzuli obronnej, Minister Obrony Narodowej przekazuje niezwłocznie zmienione dane. Do danych przekazywanych Ministrowi Finansów Minister Obrony Narodowej dołącza dane, o których mowa w ust. 4b.”,
+- **c)** ust. 4c otrzymuje brzmienie: „4c. Wartość wydatków na cele obronne ustala się zgodnie z zasadami ustalania danych, o których mowa w art. 3 ust. 2 lit. c rozporządzenia Rady (WE) nr 479/2009 z dnia 25 maja 2009 r. o stosowaniu Protokołu w sprawie procedury dotyczącej nadmiernego deficytu załączonego do Traktatu ustanawiającego Wspólnotę Europejską, oraz przekazuje się w formacie, o którym mowa w art. 8 ust. 2 tego rozporządzenia.”,
+- **d)** uchyla się ust. 4d;
+- **5)** w art. 142 w ust. 1 w pkt 6b uchyla się lit. d;
+- **6)** w art. 182:
+    - **a)** w ust. 4 uchyla się pkt 6a,
+    - **b)** w ust. 4a wyrazy „informacji, o których mowa w ust. 4 pkt 6 i 6a” zastępuje się wyrazami „informacji, o której mowa w ust. 4 pkt 6”;
+
+- **7)** w art. 210 ust. 1b otrzymuje brzmienie: „1b. Minister Finansów udostępnia informacje zawarte w rejestrze, o którym mowa w ust. 1, za pośrednictwem systemu teleinformatycznego, o którym mowa w ust. 1, instytucjom zarządzającym, organom pełniącym funkcję odpowiednio Krajowego Punktu Kontaktowego lub Krajowej Instytucji Koordynującej w programach finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 2, instytucjom pośredniczącym, operatorom programów, instytucjom wdrażającym, instytucji certyfikującej, instytucji audytowej, dyrektorowi izby administracji skarbowej działającemu jako organ wykonujący audyt, o którym mowa w art. 95 ust. 1 pkt 1 i 1a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2025 r. poz. 1131, 1423, 1820 i 1863 oraz z 2026 r. poz. 415 i 483), oraz beneficjentom projektów grantowych.”;
+- **8)** w art. 286 w ust. 1 w pkt 5:
+    - **a)** lit. d otrzymuje brzmienie: „d) dwuletnią praktykę w zakresie audytu wewnętrznego i uzyskała świadectwo ukończenia studiów podyplomowych w zakresie audytu wewnętrznego, wydane przez podmiot, który w dniu wydania świadectwa był uprawniony, zgodnie z odrębnymi ustawami, do nadawania stopnia naukowego doktora w dziedzinie nauk społecznych w dyscyplinach naukowych: ekonomia i finanse, nauki o zarządzaniu i jakości, nauki o polityce i administracji lub nauki prawne, lub”,
+    - **b)** dodaje się lit. e w brzmieniu: „e) złożyła z wynikiem pozytywnym egzamin państwowy na audytora wewnętrznego, zwany dalej „egzaminem”.”;
+
+- **9)** po art. 286 dodaje się art. 286a–286s w brzmieniu: „Art. 286a. 1. Egzamin składa się przed Państwową Komisją Egzaminacyjną do Spraw Audytu Wewnętrznego, zwaną dalej „Komisją Egzaminacyjną”.
+
+2. Egzamin przeprowadza się raz w roku w okresie od dnia 1 września do dnia 30 września, w terminie ustalonym przez Ministra Finansów w porozumieniu z dyrektorem Krajowej Szkoły Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego, zwanej dalej „KSAP”.
+
+3. Do egzaminu może zostać zakwalifikowana osoba, która złożyła wniosek o zakwalifikowanie do egzaminu, który został pozytywnie zweryfikowany i osoba ta wniosła w terminie opłatę egzaminacyjną, zwana dalej „kandydatem”.
+
+4. Egzaminu nie przeprowadza się w roku, w którym liczba kandydatów jest mniejsza niż 100.
+
+5. W przypadku gdy w dwóch kolejnych latach egzamin nie został przeprowadzony z powodu niespełnienia warunku, o którym mowa w ust. 4, w roku następującym po tym okresie Minister Finansów może zlecić KSAP przeprowadzenie egzaminu mimo niespełnienia tego warunku.
+
+6. Informację o terminie przeprowadzenia egzaminu dyrektor KSAP ogłasza, w terminie do końca kwietnia każdego roku, w Biuletynie Informacji Publicznej na stronie podmiotowej KSAP i doręcza ją kandydatom. Informację tę ogłasza się również w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego Ministra Finansów.
+
+7. W przypadku niespełnienia warunku, o którym mowa w ust. 4, dyrektor KSAP ogłasza, w terminie do dnia 15 marca danego roku, w Biuletynie Informacji Publicznej na stronie podmiotowej KSAP, informację o nieprzeprowadzeniu egzaminu w danym roku i doręcza ją osobom, które złożyły wniosek o zakwalifikowanie do egzaminu. Informację tę ogłasza się również w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego Ministra Finansów.
 
 **Art. 286b.**
 
@@ -37,7 +87,7 @@ source: "isap-pdf"
 
 - **1)** opracowanie testu i zadania egzaminacyjnego, o których mowa w art. 286l ust. 2, wraz z arkuszem prawidłowych odpowiedzi na pytania testowe i kluczem rozwiązania zadania egzaminacyjnego,
 - **2)** sprawdzanie prac egzaminacyjnych kandydatów,
-- **3)** przygotowanie innych materiałów niezbędnych do przeprowadzenia egzaminu – osobom niezatrudnionym w KSAP, które posiadają wiedzę i doświadczenie gwarantujące wysoką jakość wykonywanych zadań oraz ich odpowiedni poziom merytoryczny, zapewniając przy tym właściwy poziom bezpieczeństwa oraz poufności danych, w tym danych osobowych, oraz informacji i dokumentów przetwarzanych w związku z tymi zadaniami.
+- **3)** przygotowanie innych materiałów niezbędnych do przeprowadzenia egzaminu osobom niezatrudnionym w KSAP, które posiadają wiedzę i doświadczenie gwarantujące wysoką jakość wykonywanych zadań oraz ich odpowiedni poziom merytoryczny, zapewniając przy tym właściwy poziom bezpieczeństwa oraz poufności danych, w tym danych osobowych, oraz informacji i dokumentów przetwarzanych w związku z tymi zadaniami.
 
 3. KSAP pokrywa koszty organizacji i przeprowadzenia egzaminu, koszty wynagrodzeń członków Komisji Egzaminacyjnej oraz koszty jej obsługi.
 
@@ -81,16 +131,16 @@ source: "isap-pdf"
 
 3. W systemie funkcjonują indywidualne konta:
 
-- **1)** kandydackie – zakładane przez osoby, które chcą złożyć wniosek o zakwalifikowanie do egzaminu;
-- **2)** funkcyjne – zakładane i udostępniane przez KSAP członkom Komisji Egzaminacyjnej i pracownikom KSAP.
+- **1)** kandydackie zakładane przez osoby, które chcą złożyć wniosek o zakwalifikowanie do egzaminu;
+- **2)** funkcyjne zakładane i udostępniane przez KSAP członkom Komisji Egzaminacyjnej i pracownikom KSAP.
 
 4. Dostęp do indywidualnego konta w systemie jest możliwy do dnia:
 
 - **1)** upływu 3 miesięcy od dnia:
-    - **a)** ogłoszenia informacji o nieprzeprowadzeniu egzaminu – w przypadku, o którym mowa w art. 286a ust. 4,
-    - **b)** przeprowadzenia egzaminu – w przypadku konta kandydackiego;
+    - **a)** ogłoszenia informacji o nieprzeprowadzeniu egzaminu w przypadku, o którym mowa w art. 286a ust. 4,
+    - **b)** przeprowadzenia egzaminu w przypadku konta kandydackiego;
 
-- **2)** ustania odpowiednio członkostwa w Komisji Egzaminacyjnej lub zatrudnienia w KSAP – w przypadku konta funkcyjnego.
+- **2)** ustania odpowiednio członkostwa w Komisji Egzaminacyjnej lub zatrudnienia w KSAP w przypadku konta funkcyjnego.
 
 5. Warunkiem dostępu do indywidualnego konta jest uwierzytelnienie dokonywane przy wykorzystaniu numeru Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL).
 
@@ -100,8 +150,8 @@ source: "isap-pdf"
 
 8. Doręczenie pisma osobie, która posiada w systemie indywidualne konto następuje:
 
-- **1)** z chwilą odebrania pisma przez tę osobę w systemie – w przypadku gdy odebranie pisma nastąpiło w okresie od dnia umieszczenia pisma na jego indywidualnym koncie do końca 7. dnia, licząc od dnia następującego po dniu umieszczenia tego pisma na tym koncie, albo
-- **2)** z upływem ostatniego dnia okresu, o którym mowa w pkt 1 – w przypadku nieodebrania pisma przez tę osobę w systemie w tym okresie.
+- **1)** z chwilą odebrania pisma przez tę osobę w systemie w przypadku gdy odebranie pisma nastąpiło w okresie od dnia umieszczenia pisma na jego indywidualnym koncie do końca 7. dnia, licząc od dnia następującego po dniu umieszczenia tego pisma na tym koncie, albo
+- **2)** z upływem ostatniego dnia okresu, o którym mowa w pkt 1 w przypadku nieodebrania pisma przez tę osobę w systemie w tym okresie.
 
 9. Przez umieszczenie pisma na indywidualnym koncie w systemie rozumie się zaistnienie warunków technicznych umożliwiających odebranie w systemie pisma od KSAP lub Komisji Egzaminacyjnej doręczanego na indywidualne konto.
 
@@ -126,7 +176,7 @@ source: "isap-pdf"
 - **1)** imię i nazwisko,
 - **2)** numer PESEL,
 - **3)** adres do korespondencji, adres poczty elektronicznej i numer telefonu kontaktowego,
-- **4)** numer rachunku bankowego lub rachunku w spółdzielczej kasie oszczędnościowo-kredytowej do dokonania zwrotu opłaty wstępnej lub opłaty za egzamin – osoby składającej ten wniosek.
+- **4)** numer rachunku bankowego lub rachunku w spółdzielczej kasie oszczędnościowo-kredytowej do dokonania zwrotu opłaty wstępnej lub opłaty za egzamin osoby składającej ten wniosek.
 
 4. Do wniosku o zakwalifikowanie do egzaminu dołącza się:
 
@@ -135,14 +185,14 @@ source: "isap-pdf"
 - **3)** potwierdzenie uiszczenia opłaty wstępnej;
 - **4)** oświadczenie o prawdziwości danych zawartych we wniosku i w załączonych dokumentach.
 
-5. Oświadczenia, o których mowa w ust. 4 pkt 1 i 4, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872) oraz zawiera się w nich klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”, która zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+5. Oświadczenia, o których mowa w ust. 4 pkt 1 i 4, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872) oraz zawiera się w nich klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”, która zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
 6. W przypadku osoby ubiegającej się o zakwalifikowanie do egzaminu będącej osobą niepełnosprawną, która wraz z wnioskiem o zakwalifikowanie do egzaminu złoży wniosek o wydłużenie czasu trwania egzaminu, do którego załączy:
 
 - **1)** kopię orzeczenia potwierdzającego niepełnosprawność w rozumieniu ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych w dniu składania wniosku,
 - **2)** zaświadczenie lekarskie wystawione przez lekarza specjalistę właściwego ze względu na charakter niepełnosprawności, stwierdzające wynikające z niepełnosprawności trudności w wykonywaniu czynności technicznych, takich jak:
     - **a)** odczytywanie tekstu,
-    - **b)** posługiwanie się sprzętem komputerowym w sposób umożliwiający sporządzenie odpowiedzi na pytania i rozwiązanie zadania egzaminacyjnego – czas trwania egzaminu ulega wydłużeniu.
+    - **b)** posługiwanie się sprzętem komputerowym w sposób umożliwiający sporządzenie odpowiedzi na pytania i rozwiązanie zadania egzaminacyjnego czas trwania egzaminu ulega wydłużeniu.
 
 7. Osoba, która złożyła wniosek o zakwalifikowanie do egzaminu, jest obowiązana niezwłocznie poinformować Komisję Egzaminacyjną o zmianie danych oraz informacji określonych w ust. 3 pkt 1, 3 i 4, ust. 4 pkt 1 i ust. 6.
 
@@ -155,7 +205,7 @@ source: "isap-pdf"
 1. Osoba, która złożyła wniosek o zakwalifikowanie do egzaminu, jest informowana za pośrednictwem systemu o:
 
 - **1)** zakwalifikowaniu albo niezakwalifikowaniu do egzaminu,
-- **2)** wydłużeniu czasu trwania egzaminu – w przypadku złożenia wniosku o wydłużenie czasu trwania egzaminu – w terminie do dnia 31 marca roku, w którym odbędzie się egzamin.
+- **2)** wydłużeniu czasu trwania egzaminu w przypadku złożenia wniosku o wydłużenie czasu trwania egzaminu w terminie do dnia 31 marca roku, w którym odbędzie się egzamin.
 
 2. Osoba, która została zakwalifikowana do egzaminu, w terminie 7 dni od dnia doręczenia informacji, o której mowa w ust. 1, uiszcza opłatę za egzamin. Brak uiszczenia opłaty za egzamin w terminie oznacza rezygnację z udziału w egzaminie.
 
@@ -243,7 +293,7 @@ source: "isap-pdf"
 
 2. Powody wyłączenia trwają pomimo ustania przesłanek wyłączenia, o których mowa w ust. 1.
 
-3. Członek Komisji Egzaminacyjnej składa, w formie pisemnej, pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, oświadczenie o braku istnienia okoliczności, o których mowa w ust. 1 i 2. Składający oświadczenie zamieszcza w nim klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”, która zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+3. Członek Komisji Egzaminacyjnej składa, w formie pisemnej, pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny, oświadczenie o braku istnienia okoliczności, o których mowa w ust. 1 i 2. Składający oświadczenie zamieszcza w nim klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”, która zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
 **Art. 286l.**
 
@@ -282,8 +332,8 @@ source: "isap-pdf"
 
 1. Kandydatowi, który uzyskał negatywny wynik egzaminu, przysługuje:
 
-- **1)** prawo wglądu do tej części egzaminu, z której nie otrzymał wymaganej liczby punktów – w terminie 7 dni od dnia przekazania informacji o tym wyniku;
-- **2)** prawo wniesienia pisemnego odwołania do Komisji Egzaminacyjnej odpowiednio od wyniku egzaminu albo tej części egzaminu, z której nie otrzymał wymaganej liczby punktów – w terminie 14 dni od dnia przekazania informacji o tym wyniku.
+- **1)** prawo wglądu do tej części egzaminu, z której nie otrzymał wymaganej liczby punktów w terminie 7 dni od dnia przekazania informacji o tym wyniku;
+- **2)** prawo wniesienia pisemnego odwołania do Komisji Egzaminacyjnej odpowiednio od wyniku egzaminu albo tej części egzaminu, z której nie otrzymał wymaganej liczby punktów w terminie 14 dni od dnia przekazania informacji o tym wyniku.
 
 2. Podczas dokonywania wglądu, o którym mowa w ust. 1 pkt 1, kandydat może sporządzać notatki.
 
@@ -303,39 +353,146 @@ source: "isap-pdf"
 
 **Art. 286s.** Minister Finansów określi, w drodze rozporządzenia:
 
+- **1)** wysokość opłaty egzaminacyjnej, biorąc pod uwagę poziom kosztów ponoszonych przez KSAP na realizację zadań związanych z organizacją i przeprowadzeniem egzaminu oraz obsługą Komisji Egzaminacyjnej i wynagrodzeniem jej członków;
+- **2)** sposób zakładania, udostępniania i uwierzytelniania indywidualnych kont w systemie, biorąc pod uwagę konieczność zapewnienia jednolitej procedury postępowania użytkowników tych kont oraz ich jednoznacznej identyfikacji;
+- **3)** sposób uiszczania opłaty egzaminacyjnej, biorąc pod uwagę konieczność zapewnienia sprawnej weryfikacji uiszczania tej opłaty i jej prawidłowego rozliczenia;
+- **4)** sposób i tryb przeprowadzania egzaminu, biorąc pod uwagę konieczność zapewnienia obiektywnego i sprawnego przeprowadzenia egzaminu;
+- **5)** materiały, które kandydat może posiadać w trakcie egzaminu, biorąc pod uwagę konieczność zapewnienia prawidłowego przebiegu egzaminu;
+- **6)** sposób uzyskiwania przez kandydata wglądu w przypadku, o którym mowa w art. 286p ust. 1 pkt 1, biorąc pod uwagę konieczność zapewnienia sprawnego i prawidłowego dostępu do tej części egzaminu, z której kandydat nie otrzymał wymaganej liczby punktów;
+- **7)** sposób i tryb wnoszenia oraz rozpatrywania odwołania od wykluczenia kandydata z egzaminu oraz odwołania, o którym mowa w art. 286p ust. 1 pkt 2, biorąc pod uwagę konieczność zapewnienia sprawnego składania tych odwołań oraz jednolitego postępowania Komisji Egzaminacyjnej;
+- **8)** sposób składania wniosku o zwrot opłaty wstępnej lub opłaty za egzamin oraz sposób i tryb zwrotu tych opłat, biorąc pod uwagę konieczność zapewnienia sprawnego składania tego wniosku oraz prawidłowego rozliczania tych opłat;
+- **9)** wzór zaświadczenia o złożeniu egzaminu z wynikiem pozytywnym oraz tryb i sposób otrzymywania tego zaświadczenia oraz jego kopii, biorąc pod uwagę konieczność zapewnienia jednolitości danych zawartych w tym zaświadczeniu i jego kopii oraz postępowania kandydatów i KSAP;
+- **10)** sposób rozliczania oraz przekazywania do budżetu państwa pobranej od kandydatów opłaty egzaminacyjnej, biorąc pod uwagę konieczność zapewnienia prawidłowego rozliczenia się KSAP z tego tytułu z budżetem państwa.”.
+
 **Art. 2.** W ustawie z dnia 14 czerwca 1991 r. o Krajowej Szkole Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego (Dz. U. z 2023 r. poz. 1952) w art. 1 w ust. 2 po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) organizowanie egzaminu państwowego na audytora wewnętrznego, realizowanie zadań związanych z jego przeprowadzeniem oraz zapewnianie obsługi Państwowej Komisji Egzaminacyjnej do Spraw Audytu Wewnętrznego, o której mowa w art. 286a ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426 i 635);”.
 
 **Art. 3.** W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2026 r. poz. 218) wprowadza się następujące zmiany:
 
+- **1)** w art. 39b w ust. 1: poz. 426 i 635);”,
+    - **a)** pkt 2 otrzymuje brzmienie: „2) odsetek od wolnych środków Funduszu przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r.
+    - **b)** uchyla się pkt 11a;
+
+- **2)** art. 39e otrzymuje brzmienie: „Art. 39e. Wolne środki Funduszu w walutach obcych mogą być lokowane w bankach.”;
+- **3)** w art. 39l w ust. 1 pkt 2 otrzymuje brzmienie: „2) terminy dokonywania przez Bank Gospodarstwa Krajowego lokat wolnych środków Funduszu w formie depozytu, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, oraz sposób i terminy dokonywania przez Bank Gospodarstwa Krajowego lokat wolnych środków Funduszu, o których mowa w art. 39e;”.
+
 **Art. 4.** W ustawie z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2024 r. poz. 291) w art. 34g:
 
-**Art. 5.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647, z późn. zm. ) w art. 421l:
+- **1)** w ust. 3 pkt 4 otrzymuje brzmienie: „4) odsetek od wolnych środków Funduszu przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426 i 635);”;
+- **2)** dodaje się ust. 4 w brzmieniu: „4. Wolne środki Funduszu w walutach obcych mogą być lokowane w bankach.”.
+
+**Art. 5.** W ustawie z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647, z późn. zm. ) w art. 421l:
+
+- **1)** w ust. 4 pkt 4 otrzymuje brzmienie: „4) odsetek od wolnych środków Ekologicznego Funduszu Poręczeń i Gwarancji przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;”;
+- **2)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Wolne środki Ekologicznego Funduszu Gwarancji i Poręczeń w walutach obcych mogą być lokowane w bankach.”.
 
 **Art. 6.** W ustawie z dnia 5 grudnia 2002 r. o dopłatach do oprocentowania kredytów mieszkaniowych o stałej stopie procentowej (Dz. U. z 2025 r. poz. 1224) w art. 5:
 
+- **1)** w ust. 2: poz. 426 i 635);”,
+    - **a)** pkt 3 otrzymuje brzmienie: „3) odsetki od wolnych środków Funduszu przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r.
+    - **b)** uchyla się pkt 4c;
+
+- **2)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Wolne środki Funduszu w walutach obcych mogą być lokowane w bankach.”.
+
 **Art. 7.** W ustawie z dnia 16 grudnia 2005 r. o Funduszu Kolejowym (Dz. U. z 2024 r. poz. 1133) wprowadza się następujące zmiany:
+
+- **1)** w art. 5 w ust. 1: poz. 426 i 635);”,
+    - **a)** pkt 2 otrzymuje brzmienie: „2) odsetek od wolnych środków Funduszu przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r.
+    - **b)** uchyla się pkt 7,
+    - **c)** pkt 9 otrzymuje brzmienie: „9) innych wpływów.”;
+
+- **2)** art. 8 otrzymuje brzmienie: „Art. 8. Wolne środki Funduszu w walutach obcych mogą być lokowane w bankach.”;
+- **3)** w art. 12 pkt 2 otrzymuje brzmienie: „2) terminy dokonywania przez Bank Gospodarstwa Krajowego lokat wolnych środków Funduszu w formie depozytu, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, oraz sposób i terminy dokonywania przez Bank Gospodarstwa Krajowego lokat wolnych środków Funduszu, o których mowa w art. 8;”.
 
 **Art. 8.** W ustawie z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2025 r. poz. 1419 i 1847) wprowadza się następujące zmiany:
 
+- **1)** w art. 24:
+    - **a)** w ust. 1: pkt 2 otrzymuje brzmienie: „2) odsetki od wolnych środków Funduszu przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;”, uchyla się pkt 3,
+    - **b)** uchyla się ust. 2;
+
+- **2)** w art. 25 ust. 2 otrzymuje brzmienie: „2. Wolne środki Funduszu w walutach obcych mogą być lokowane w bankach.”.
+
 **Art. 9.** W ustawie z dnia 9 października 2015 r. o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się w trudnej sytuacji finansowej (Dz. U. z 2024 r. poz. 1385) w art. 14:
 
-**Art. 10.** W ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ) wprowadza się następujące zmiany:
+- **1)** w ust. 2 pkt 3 otrzymuje brzmienie: „3) odsetek od wolnych środków Funduszu przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426 i 635);”;
+- **2)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Wolne środki Funduszu w walutach obcych mogą być lokowane w bankach.”;
+- **3)** uchyla się ust. 4 i 5.
+
+**Art. 10.** W ustawie z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 421:
+    - **a)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) odsetki od wolnych środków Funduszu Kredytów Studenckich przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;”,
+    - **b)** w ust. 2: uchyla się pkt 3, w pkt 4 wyrazy „pkt 1–3” zastępuje się wyrazami „pkt 1–2a”,
+    - **c)** dodaje się ust. 3 w brzmieniu: „3. Wolne środki Funduszu Kredytów Studenckich w walutach obcych mogą być lokowane w bankach.”;
+
+- **2)** w art. 422a:
+    - **a)** w ust. 1: uchyla się pkt 2–4, pkt 5 otrzymuje brzmienie: „5) odsetek od wolnych środków FKSM przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;”,
+    - **b)** uchyla się ust. 3 i 4,
+    - **c)** dodaje się ust. 5 w brzmieniu: „5. Wolne środki FKSM w walutach obcych mogą być lokowane w bankach.”.
 
 **Art. 11.** W ustawie z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg (Dz. U. z 2025 r. poz. 94) wprowadza się następujące zmiany:
 
+- **1)** w art. 5 w ust. 1: poz. 426 i 635);”,
+    - **a)** pkt 6 otrzymuje brzmienie: „6) odsetek od wolnych środków Funduszu przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r.
+    - **b)** po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) odsetek z tytułu oprocentowania środków Funduszu gromadzonych na rachunkach bankowych jednostek samorządu terytorialnego, które otrzymały te środki;”;
+
+- **2)** art. 7a otrzymuje brzmienie: „Art. 7a. Wolne środki Funduszu w walutach obcych mogą być lokowane w bankach.”;
+- **3)** w art. 9a pkt 3 otrzymuje brzmienie: „3) terminy dokonywania przez Bank lokat wolnych środków Funduszu w formie depozytu, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, oraz sposób i terminy dokonywania przez Bank lokat wolnych środków Funduszu, o których mowa w art. 7a;”.
+
 **Art. 12.** W ustawie z dnia 4 kwietnia 2019 r. o wspieraniu działalności naukowej z Funduszu Polskiej Nauki (Dz. U. z 2024 r. poz. 1554) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 pkt 2 otrzymuje brzmienie: „2) odsetek od wolnych środków Funduszu przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426 i 635);”;
+- **2)** art. 4 otrzymuje brzmienie: „Art. 4. Wolne środki Funduszu w walutach obcych mogą być lokowane w bankach.”.
 
 **Art. 13.** W ustawie z dnia 31 lipca 2019 r. o wsparciu finansowym armatorów śródlądowych, Funduszu Żeglugi Śródlądowej i Funduszu Rezerwowym (Dz. U. z 2021 r. poz. 503) wprowadza się następujące zmiany:
 
+- **1)** w art. 23 w ust. 1:
+    - **a)** pkt 2 otrzymuje brzmienie: „2) odsetek od wolnych środków Funduszu Żeglugi Śródlądowej przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426 i 635);”,
+    - **b)** uchyla się pkt 3;
+
+- **2)** w art. 25:
+    - **a)** uchyla się ust. 3 i 4,
+    - **b)** dodaje się ust. 5: „5. Wolne środki Funduszu Żeglugi Śródlądowej w walutach obcych mogą być lokowane w bankach.”;
+
+- **3)** w art. 34:
+    - **a)** w ust. 1 po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) z odsetek od wolnych środków Funduszu Rezerwowego przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;”,
+    - **b)** dodaje się ust. 3 w brzmieniu: „3. Wolne środki Funduszu Rezerwowego w walutach obcych mogą być lokowane w bankach.”.
+
 **Art. 14.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2025 r. poz. 764 i 1806 oraz z 2026 r. poz. 39) w art. 15kb:
+
+- **1)** w ust. 2 pkt 2 otrzymuje brzmienie: „2) odsetek od wolnych środków Funduszu Zwrotów przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, oraz odsetek od lokat wolnych środków Funduszu Zwrotów w walutach obcych, o których mowa w ust. 3a;”;
+- **2)** uchyla się ust. 3;
+- **3)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Wolne środki Funduszu Zwrotów w walutach obcych mogą być lokowane w bankach.”.
 
 **Art. 15.** W ustawie z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 65:
+    - **a)** w ust. 4 po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) odsetek od wolnych środków Funduszu przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;”,
+    - **b)** uchyla się ust. 26 i 27,
+    - **c)** po ust. 27 dodaje się ust. 27a w brzmieniu: „27a. Wolne środki Funduszu w walutach obcych mogą być lokowane w bankach.”;
+
+- **2)** w art. 70:
+    - **a)** w ust. 3 pkt 3 otrzymuje brzmienie: „3) odsetek od wolnych środków FGP przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;”,
+    - **b)** dodaje się ust. 4 w brzmieniu: „4. Wolne środki FGP w walutach obcych mogą być lokowane w bankach.”.
+
 **Art. 16.** W ustawie z dnia 1 października 2021 r. o rodzinnym kredycie mieszkaniowym i bezpiecznym kredycie 2 % (Dz. U. z 2024 r. poz. 1724 oraz z 2025 r. poz. 1077) w art. 11:
+
+- **1)** w ust. 3 pkt 5 otrzymuje brzmienie: „5) odsetek od wolnych środków Rządowego Funduszu Mieszkaniowego przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426 i 635);”;
+- **2)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Wolne środki Rządowego Funduszu Mieszkaniowego w walutach obcych mogą być lokowane w bankach.”.
 
 **Art. 17.** W ustawie z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080 oraz z 2026 r. poz. 26 i 426) wprowadza się następujące zmiany:
 
+- **1)** w art. 41 w ust. 4 po pkt 8 dodaje się pkt 8a w brzmieniu: „8a) odsetek od wolnych środków Funduszu przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;”;
+- **2)** w art. 42 ust. 9 otrzymuje brzmienie: „9. Wolne środki Funduszu w walutach obcych mogą być lokowane w bankach.”.
+
 **Art. 18.** W ustawie z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. z 2025 r. poz. 337, 620, 621, 1301 i 1794 oraz z 2026 r. poz. 203) wprowadza się następujące zmiany:
+
+- **1)** w art. 14:
+    - **a)** w ust. 5 po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) z odsetek od wolnych środków Funduszu przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;”,
+    - **b)** ust. 33 otrzymuje brzmienie: „33. Wolne środki Funduszu w walutach obcych mogą być lokowane w bankach.”;
+
+- **2)** w art. 21b:
+    - **a)** w ust. 3 pkt 3 otrzymuje brzmienie: „3) z odsetek od wolnych środków FGK przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;”,
+    - **b)** dodaje się ust. 4 w brzmieniu: „4. Wolne środki FGK w walutach obcych mogą być lokowane w bankach.”.
 
 **Art. 19.** W przypadku zmiany ustawy budżetowej na rok 2026 z dnia 9 stycznia 2026 r. (Dz. U. poz. 62) stosuje się przepisy art. 112aa ust. 4a, 4b, 4c i 4d oraz art. 142 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
 

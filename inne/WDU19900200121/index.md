@@ -22,14 +22,48 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1990-03-22 |
 | Data wydania | 1990-03-31 |
+| Wejście w życie | 1990-03-31 |
 | Ostatnia zmiana | 2026-01-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900200121) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/121/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 20 czerwca 1985 r. o Prokuraturze Polskiej Rzeczypospolitej Ludowej (Dz. U. Nr 31, poz. 138 i z 1989 r. Nr 4, poz. 24) wprowadza się następujące zmiany:
 
+- **1)** tytuł ustawy otrzymuje brzmienie: „Ustawa o prokuraturze.”;
+- **2)** art. 1 otrzymuje brzmienie: „
+
+1. Prokuraturę stanowią: Prokurator Generalny, podlegli mu: pierwszy zastępca, zastępcy Prokuratora Generalnego, prokuratorzy w Ministerstwie Sprawiedliwości oraz prokuratorzy powszechnych i wojskowych jednostek organizacyjnych prokuratury. 2. Prokurator Generalny jest naczelnym organem prokuratury. Funkcje Prokuratora Generalnego sprawuje Minister Sprawiedliwości. ” ;
+
+- **3)** art. 2 skreśla się;
+- **4)** art. 3 otrzymuje brzmienie: „
+
 **Art. 3.** Zadaniem prokuratury jest strzeżenie praworządności oraz czuwanie nad ściganiem przestępstw. ” ;
 
+- **5)** w art. 4 w ust. 1: pkt 3 otrzymuje brzmienie: „
+    - **a)**
+
+- **3)** podejmowanie środków przewidzianych prawem, zmierzających do prawidłowego i jednolitego stosowania prawa w postępowaniu sądowym, administracyjnym, w sprawach o wykroczenia oraz w innych postępowaniach, ” pkt 6 i 8 skreśla się, pkt 12 otrzymuje brzmienie: „
+    - **b)**
+    - **c)**
+
+- **12)** podejmowanie innych czynności określonych w ustawach. ” ;
+- **6)** art. 5 otrzymuje brzmienie: „
+
 **Art. 5.** Prokurator Generalny może występować do Trybunału Konstytucyjnego o ustalenie powszechnie obowiązującej wykładni ustaw. ” ;
+
+- **7)** w art. 6: w ust. 1 dodaje się zdanie drugie w brzmieniu; „Przed wystąpieniem do Trybunału Konstytucyjnego o stwierdzenie zgodności aktu normatywnego naczelnego lub centralnego organu administracji państwowej Prokurator Generalny występuje o zmianę lub uchylenie aktu do organu, który go wydał.”, dodaje się ust. 3 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+3. Jeżeli uchwała organu samorządu terytorialnego albo rozporządzenie terenowego organu administracji są niezgodne z prawem, prokurator zwraca się do organu, który je wydał, o ich zmianę lub uchylenie albo kieruje wniosek o ich uchylenie do właściwego organu nadzoru; w wypadku uchwały organu samorządu terytorialnego prokurator może także wystąpić z wnioskiem o jej uchylenie do sądu administracyjnego. ” ;
+
+- **8)** art. 7 i 8 skreśla się;
+- **9)** w art. 9: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Prokuratorami powszechnych jednostek organizacyjnych prokuratury są prokuratorzy prokuratur wojewódzkich i rejonowych. ” , w ust. 2 wyrazy „zastępcy prokuratorów” oraz „i wiceprokuratorzy” skreśla się;
+
+- **b)**
+- **10)** art. 10 i 11 otrzymują brzmienie: „
 
 **Art. 10.** Prokurator jest obowiązany do podejmowania działań określonych w ustawach, kierując się zasadą bezstronności i równego traktowania wszystkich obywateli.
 
@@ -46,6 +80,8 @@ source: "eli-html"
 - **12)** po art. 13 dodaje się art. 131 w brzmieniu: „
 
 **Art. 131.** Prokuratorów prokuratur wojewódzkich i rejonowych powołuje Prokurator Generalny, a prokuratorów odpowiednich wojskowych jednostek organizacyjnych prokuratury – Prokurator Generalny na wniosek Ministra Obrony Narodowej. ” ;
+
+- **13)** art. 14–16 otrzymują brzmienie: „
 
 **Art. 14.**
 
@@ -153,6 +189,14 @@ source: "eli-html"
 
 **Art. 222.** Wojewódzkie zgromadzenie prokuratorów:
 
+- **1)** wysłuchuje informacji prokuratora wojewódzkiego o działalności prokuratur i pracy prokuratorów oraz wyraża opinię w tym zakresie,
+- **2)** ustala liczbę i wybiera dwie trzecie liczby członków kolegium prokuratury wojewódzkiej,
+- **3)** wybiera przedstawiciela do Rady Prokuratorów przy Prokuratorze Generalnym,
+- **4)** wybiera członków komisji dyscyplinarnych,
+- **5)** określa kierunki pracy kolegium prokuratury wojewódzkiej oraz rozpatruje sprawozdania z działalności tego kolegium,
+- **6)** wyraża opinię o kandydatach na prokuratora wojewódzkiego i prokuratorów rejonowych,
+- **7)** wyraża opinię w innych sprawach przedstawionych przez prokuratora wojewódzkiego lub kolegium prokuratury wojewódzkiej.
+
 **Art. 223.**
 
 1. Kolegium prokuratury wojewódzkiej składa się z czterech do dziesięciu członków, wybieranych w dwóch trzecich przez wojewódzkie zgromadzenie prokuratorów, a w jednej trzeciej powołanych przez prokuratora wojewódzkiego spośród prokuratorów. Przewodniczącym kolegium prokuratury wojewódzkiej jest prokurator wojewódzki.
@@ -162,6 +206,12 @@ source: "eli-html"
 3. Posiedzenia kolegium prokuratury wojewódzkiej zwołuje prokurator wojewódzki z własnej inicjatywy lub na wniosek jednej trzeciej liczby członków kolegium.
 
 **Art. 224.** Kolegium prokuratury wojewódzkiej:
+
+- **1)** rozpatruje wnioski wynikające z wizytacji i lustracji prokuratur,
+- **2)** wyraża opinię o kandydatach na asesorów prokuratorskich oraz prokuratorów prokuratur rejonowych i wojewódzkich,
+- **3)** ustala projekt listy kandydatów na aplikantów prokuratorskich,
+- **4)** wyraża opinię w sprawach odwołania prokuratora lub odwołania prokuratora z pełnionej funkcji,
+- **5)** wyraża opinię w innych sprawach przedstawionych przez prokuratora wojewódzkiego.
 
 **Art. 225.**
 
@@ -174,6 +224,34 @@ source: "eli-html"
 4. Rada działa na podstawie uchwalonego przez siebie regulaminu.
 
 **Art. 226.** Rada Prokuratorów przy Prokuratorze Generalnym:
+
+- **1)** rozpatruje projekty wytycznych ustalających podstawowe kierunki działania prokuratury w zakresie: strzeżenia praworządności, ścigania przestępstw oraz zapobiegania przestępczości, a także innych ważniejszych wytycznych i zarządzeń Prokuratora Generalnego,
+- **2)** dokonuje oceny stanu i rozwoju kadry prokuratorskiej oraz kierunków szkolenia prokuratorów, asesorów i aplikantów,
+- **3)** dokonuje okresowych ocen realizacji zadań prokuratury,
+- **4)** określa kierunki działań w celu doskonalenia kwalifikacji zawodowych prokuratorów oraz poziomu ich pracy,
+- **5)** ustala ogólną liczbę członków komisji dyscyplinarnych oraz wskazuje liczbę członków komisji dyscyplinarnych wybieranych przez wojewódzkie zgromadzenia prokuratorów,
+- **6)** rozpatruje i wyraża opinię w innych sprawach przedstawionych przez Prokuratora Generalnego. ” ;
+- **19)** w art. 23: w ust. 1 wyrazy „Milicji Obywatelskiej, Służbie Bezpieczeństwa lub” skreśla się, w ust. 2 wyraz „osób” skreśla się, w ust. 3 wyrazy „osoby podejrzanej” zastępuje się wyrazem „podejrzanego”;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **20)** w art. 25 ust. 3 skreśla się;
+- **21)** w art. 27: w ust. 2 wyrazy „organy administracji państwowej o terenowym zakresie działania” zastępuje się wyrazami „terenowe organy rządowej administracji ogólnej”, w ust. 3 wyrazy „z wyjątkiem Wojskowej Służby Wewnętrznej, Wojsk Ochrony Pogranicza, Milicji Obywatelskiej i Służby Bezpieczeństwa” skreśla się, ust. 4 skreśla się, w ust. 5 wyrazy „Organy administracji państwowej o terenowym zakresie działania” zastępuje się wyrazami „Terenowe organy rządowej administracji ogólnej”, a wyrazy „ust. 3 i 4” zastępuje się wyrazami „ust. 3”, w ust. 6 wyrazy „ust. 3–5” zastępuje się wyrazami „ust. 3 i 5”;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **22)** w art. 28 w ust. 2 na końcu zdania kropkę skreśla się i dodaje się wyrazy „oraz organów samorządu terytorialnego.”;
+- **23)** art. 31 skreśla się;
+- **24)** w art. 33 w ust. 2 pkt 1 oraz w ust. 3 wyrazy „pkt 1 i 2” skreśla się;
+- **25)** w art. 35 ust. 2 skreśla się;
+- **26)** w art. 38 w ust. 1 wyrazy „Radzie Państwa” zastępuje się wyrazem „Prezydentowi”;
+- **27)** art. 39 skreśla się;
+- **28)** po art. 41 w podtytule rozdziału 3 wyrazy „Prokuratorska kontrola przestrzegania prawa” zastępuje się wyrazami „Udział prokuratora w innych postępowaniach”;
+- **29)** art. 42 i 43 otrzymują brzmienie: „
 
 **Art. 42.** Udział prokuratora w postępowaniu cywilnym, administracyjnym, w sprawach o wykroczenia oraz w innych postępowaniach określają odrębne ustawy.
 
@@ -230,6 +308,8 @@ source: "eli-html"
 - **41)** art. 78 otrzymuje brzmienie: „
 
 **Art. 78.** Przepisów art. 59 ust. 1–3, art. 60, 61, 63–65, 67–70, 72, 73 i 75 nie stosuje się do prokuratorów wojskowych jednostek prokuratury. Urlopu, o którym mowa w art. 66, udziela się, jeżeli prokurator wojskowej jednostki organizacyjnej prokuratury nie uzyskał wcześniej prawa do urlopu dodatkowego, określonego w przepisach o służbie wojskowej żołnierzy zawodowych. ” ;
+
+- **42)** po art. 78 dodaje się art. 781 w brzmieniu: „
 
 **Art. 781.**
 
@@ -367,11 +447,20 @@ source: "eli-html"
 
 **Art. 8517.** W sprawach nie uregulowanych w niniejszej ustawie do postępowania dyscyplinarnego stosuje się odpowiednio przepisy Kodeksu postępowania karnego. ” ;
 
+- **47)** art. 86 skreśla się;
+- **48)** w art. 87 zdanie drugie skreśla się;
+- **49)** w art. 88 w ust. 1 cyfrę „4” zastępuje się cyfrą „3”;
+- **50)** art. 92 otrzymuje brzmienie: „
+
 **Art. 92.** Do aplikantów powszechnych jednostek organizacyjnych prokuratury stosuje się odpowiednio przepisy art. 60, art. 61 ust. 1, art. 76 oraz art. 781. ” ;
+
+- **51)** art. 93 i 94 otrzymują brzmienie: „
 
 **Art. 93.** Aplikanci powszechnych jednostek organizacyjnych prokuratury za naruszenie swoich obowiązków ponoszą odpowiedzialność porządkową lub dyscyplinarną na zasadach obowiązujących mianowanych urzędników państwowych.
 
 **Art. 94.** Minister Sprawiedliwości, w drodze rozporządzenia, określa szczegółowe zasady i tryb mianowania, zmiany warunków pracy oraz rozwiązywania stosunku pracy, a także szczegółowe obowiązki związane z zajmowaniem stanowiska aplikanta, organizację aplikacji prokuratorskiej, zakres egzaminu prokuratorskiego, skład komisji egzaminacyjnej, sposób powoływania jej członków, wysokość ich wynagrodzenia i postępowanie komisji egzaminacyjnej, a dla wojskowych jednostek organizacyjnych prokuratury – Minister Sprawiedliwości w porozumieniu z Ministrem Obrony Narodowej. ” ;
+
+- **52)** art. 97 otrzymuje brzmienie: „
 
 **Art. 97.**
 
@@ -430,6 +519,9 @@ source: "eli-html"
 5. Szczegółowy tryb postępowania prokuratorów wojskowych w sprawach wymienionych w ust. 1–4 określa Prokurator Generalny w porozumieniu z Ministrem Obrony Narodowej. ”
 
 **Art. 2.** W Kodeksie postępowania w sprawach o wykroczenia wprowadza się następujące zmiany:
+
+- **1)** tytuł działu XI otrzymuje brzmienie: „Udział prokuratora”;
+- **2)** art. 118 otrzymuje brzmienie: „
 
 **Art. 118.** Prokurator Generalny i podlegli mu prokuratorzy czuwają nad przestrzeganiem prawa w postępowaniu unormowanym niniejszym kodeksem. Do udziału prokuratora w postępowaniu w sprawach o wykroczenia stosuje się odpowiednio przepisy działu IV Kodeksu postępowania administracyjnego. ” W ustawie z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. Nr 31, poz. 214, z 1984 r. Nr 35, poz. 187, z 1988 r. Nr 19, poz. 132 oraz z 1989 r. Nr 4, poz. 24, Nr 34, poz. 178 i 182) w art. 48 w ust. 1 w pkt 2 wyrazy „Prokuratury Polskiej Rzeczypospolitej Ludowej” skreśla się.
 

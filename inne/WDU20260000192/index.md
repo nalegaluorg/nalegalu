@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy pracowniczych planach kapitałowych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 13 lutego 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 lutego 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-02-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000192) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/192/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 13 lutego 2026 r.
+sprawie ogłoszenia jednolitego tekstu ustawy pracowniczych planach kapitałowych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 4 października 2018 r. pracowniczych planach kapitałowych (Dz. U. z 2024 r. poz. 427), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 5 sierpnia 2025 r. uchyleniu ustawy Centralnej Informacji Emerytalnej (Dz. U. poz. 1216),
 2) ustawą z dnia 4 grudnia 2025 r. zmianie ustawy funkcjonowaniu górnictwa węgla kamiennego oraz niektórych innych ustaw (Dz. U. poz. 1822) oraz zmian wynikających z przepisów ogłoszonych przed dniem 10 lutego 2026 r.
@@ -102,7 +102,7 @@ pracowniczych planach kapitałowych
 
 - **22)** portal PPK system teleinformatyczny, którym mowa rozdziale 11;
 - **23)** poważne zachorowanie:
-    - **a)** całkowitą niezdolność do pracy rozumieniu ustawy z dnia 17 grudnia 1998 r. emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 26), ustaloną formie orzeczenia przez lekarza orzecznika lub komisję lekarską Zakładu Ubezpieczeń Społecznych na okres co najmniej 2 lat lub oraz z 2026 r. poz. 26), ustalony formie orzeczenia przez zespół do spraw orzekania niepełnosprawności na okres co najmniej 2 lat, lub
+    - **a)** całkowitą niezdolność do pracy rozumieniu ustawy z dnia 17 grudnia 1998 r. emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 26), ustaloną formie orzeczenia przez lekarza orzecznika lub komisję lekarską Zakładu Ubezpieczeń Społecznych na okres co najmniej 2 lat lub zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz. 913, 1301, 1665 i 1746 oraz z 2026 r. poz. 26), ustalony formie orzeczenia przez zespół do spraw orzekania niepełnosprawności na okres co najmniej 2 lat, lub
     - **c)** niepełnosprawność osoby, która nie ukończyła 16 lat, rozumieniu ustawy z dnia 27 sierpnia 1997 r. rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, ustaloną formie orzeczenia przez zespół do spraw orzekania niepełnosprawności, lub
     - **d)** zdiagnozowanie u osoby dorosłej jednej z następujących jednostek chorobowych: amputacja kończyny, bakteryjne zapalenie mózgu lub opon mózgowo-rdzeniowych, wirusowe zapalenie mózgu, choroba Alzheimera, choroba Leśniowskiego-Crohna, choroba neuronu ruchowego (stwardnienie zanikowe boczne), choroba Parkinsona, dystrofia mięśniowa, gruźlica, niewydolność nerek, stwardnienie rozsiane, choroba wywołana przez ludzki wirus upośledzenia odporności (HIV), kardiomiopatia, nowotwór złośliwy, toczeń trzewny układowy, udar mózgu, utrata mowy, słuchu lub wzroku, wrzodziejące zapalenie jelita grubego lub zawał serca, lub
     - **e)** zdiagnozowanie u dziecka jednej z następujących jednostek chorobowych: poliomyelitis (choroba Heinego-Medina), zapalenie opon mózgowych, zapalenie mózgu, anemia aplastyczna, przewlekłe aktywne zapalenie wątroby, padaczka, gorączka reumatyczna, nabyta przewlekła choroba serca, porażenie (paraliż), utrata wzroku, głuchota (utrata słuchu), potransfuzyjne zakażenie wirusem HIV, schyłkowa niewydolność nerek, tężec, cukrzyca, łagodny guz mózgu, przeszczepienie narządów, zabieg rekonstrukcyjny zastawek, zabieg rekonstrukcyjny aorty lub nowotwór złośliwy;
@@ -119,7 +119,7 @@ pracowniczych planach kapitałowych
 - **32)** ubezpieczeniowy fundusz kapitałowy ubezpieczeniowy fundusz kapitałowy, którym mowa art. 3 ust. 1 pkt 50 ustawy działalności ubezpieczeniowej i reasekuracyjnej;
 - **33)** uczestnik PPK osobę fizyczną, która ukończyła 18. rok życia, imieniu i na rzecz której podmiot zatrudniający zawarł umowę prowadzenie PPK z instytucją finansową;
 - **34)** ustawa działalności ubezpieczeniowej i reasekuracyjnej ustawę z dnia 11 września 2015 r. działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2025 r. poz. 1526);
-- **35)** ustawa funduszach inwestycyjnych ustawę z dnia 27 maja 2004 r. funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2026 r. poz. 60);
+- **35)** ustawa funduszach inwestycyjnych ustawę z dnia 27 maja 2004 r. funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2026 r. poz. 60); (Dz. U. z 2024 r. poz. 722, z późn. zm. );
 - **37)** ustawa organizacji i funkcjonowaniu funduszy emerytalnych ustawę z dnia 28 sierpnia 1997 r. organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2024 r. poz. 1113 oraz z 2025 r. poz. 1069, 1216 i 1425);
 - **38)** wkład własny wymagane środki pieniężne przeznaczone na sfinansowanie części kosztów budowy lub przebudowy budynku mieszkalnego, zapłatę części ceny zakupu prawa własności budynku mieszkalnego, lokalu mieszkalnego stanowiącego odrębną nieruchomość lub spółdzielczego własnościowego prawa do lokalu mieszkalnego, nabycia prawa własności nieruchomości gruntowej lub jej części, nabycia udziału we współwłasności budynku mieszkalnego lub lokalu mieszkalnego stanowiącego odrębną nieruchomość lub udziału nieruchomości gruntowej, które wnioskujący kredyt deklaruje pokryć ze środków własnych celu przyznania kredytu, którym mowa art. 3 ust. 1 ustawy z dnia 23 marca 2017 r. kredycie hipotecznym oraz nadzorze nad pośrednikami kredytu hipotecznego i agentami (Dz. U. z 2025 r. poz. 720);
 - **39)** wybrana instytucja finansowa instytucję finansową, z którą, imieniu i na rzecz uczestnika PPK, podmiot zatrudniający zawarł umowę prowadzenie PPK, lub instytucję finansową, która zgodnie z ustawą, ustawą funduszach inwestycyjnych lub ustawą organizacji i funkcjonowaniu funduszy emerytalnych, wstąpiła prawa i obowiązki wynikające z tej umowy;
@@ -131,7 +131,7 @@ pracowniczych planach kapitałowych
 - **45)** zamiana jednoczesne odkupienie jednostek uczestnictwa jednym subfunduszu będącym subfunduszem zdefiniowanej daty, którym mowa art. 39, wydzielonym funduszu inwestycyjnym z wydzielonymi subfunduszami i nabycie, za środki pieniężne uzyskane z tego odkupienia, jednostek uczestnictwa innym subfunduszu zdefiniowanej daty wydzielonym tym samym funduszu inwestycyjnym;
 - **46)** ZUS Zakład Ubezpieczeń Społecznych, którym mowa rozdziale 7 ustawy z dnia 13 października 1998 r. systemie ubezpieczeń społecznych;
 - **47)** zwrot wycofanie środków zgromadzonych PPK przed osiągnięciem przez uczestnika PPK 60. roku życia na wniosek uczestnika PPK, małżonka lub byłego małżonka uczestnika PPK, małżonka zmarłego uczestnika PPK lub osoby uprawnionej;
-- **48)** zdefiniowana data funduszu rok, którym wiek 60 lat osiągają osoby urodzone roku stanowiącym środek przedziału roczników, dla których dany fundusz zdefiniowanej daty, którym mowa art. 38 lub art. 39, jest właściwy.
+- **48)** zdefiniowana data funduszu rok, którym wiek 60 lat osiągają osoby urodzone roku stanowiącym środek przedziału roczników, dla których dany fundusz zdefiniowanej daty, którym mowa art. 38 lub art. 39, jest właściwy. mowa ust. 1 pkt 2 lit. a–c, stanowiących bazę instrumentów pochodnych.
 
 3. Przy ustalaniu limitu 50 %, którym mowa ust. 1 pkt 1 lit. f, uwzględnia się wartość instrumentów, których mowa ust. 1 pkt 1 lit. a–e, stanowiących bazę instrumentów pochodnych.
 
@@ -206,7 +206,7 @@ pracowniczych planach kapitałowych
 
 6. W wezwaniu, którym mowa ust. 5, PFR informuje jednocześnie podmiot zatrudniający karze za niedopełnienie obowiązku zawarcia umowy zarządzanie PPK terminie, której mowa art. 106.
 
-7. Fundusz zdefiniowanej daty zarządzany przez wyznaczoną instytucję finansową nie może odmówić zawarcia umowy zarządzanie PPK. z zastrzeżeniem art. 12.
+7. Fundusz zdefiniowanej daty zarządzany przez wyznaczoną instytucję finansową nie może odmówić zawarcia umowy zarządzanie PPK. przez jedno towarzystwo funduszy inwestycyjnych, PTE, pracownicze towarzystwo emerytalne albo zakład ubezpieczeń, z zastrzeżeniem art. 12.
 
 2. W przypadku:
 
@@ -246,7 +246,7 @@ pracowniczych planach kapitałowych
 - **1)** zawiera imieniu i na rzecz osoby zatrudnionej podmiocie zatrudniającym umowę prowadzenie PPK, jeżeli osoba zatrudniona miała zawartą umowę prowadzenie PPK dniu poprzedzającym dzień zawarcia przez podmiot zatrudniający umowy zarządzanie PPK z inną instytucją finansową;
 - **2)** informuje osobę zatrudnioną, której mowa pkt 1, obowiązku złożenia jej imieniu wniosku wypłatę transferową środków zgromadzonych na jej rachunku PPK prowadzonym przez instytucję finansową, której umowa zarządzanie PPK została wypowiedziana przez podmiot zatrudniający, na jej rachunek PPK, prowadzony przez inną instytucję finansową, której mowa ust. 1.
 
-3. W terminie 7 dni od dnia otrzymania informacji, której mowa ust. 2 pkt 2, osoba zatrudniona może poinformować formie pisemnej podmiot zatrudniający braku zgody na złożenie wniosku, którym mowa ust. 2 pkt 2. mowa ust. 1, wniosek wypłatę transferową środków zgromadzonych na rachunku PPK prowadzonym dla osoby zatrudnionej przez instytucję finansową, której umowa zarządzanie PPK została wypowiedziana przez podmiot zatrudniający, na jej rachunek PPK, prowadzony przez inną instytucję finansową, której mowa ust. 1.
+3. W terminie 7 dni od dnia otrzymania informacji, której mowa ust. 2 pkt 2, osoba zatrudniona może poinformować formie pisemnej podmiot zatrudniający braku zgody na złożenie wniosku, którym mowa ust. 2 pkt 2. trudnionej, której mowa ust. 2 pkt 1, za pośrednictwem podmiotu zarządzającego inną instytucją finansową, której mowa ust. 1, wniosek wypłatę transferową środków zgromadzonych na rachunku PPK prowadzonym dla osoby zatrudnionej przez instytucję finansową, której umowa zarządzanie PPK została wypowiedziana przez podmiot zatrudniający, na jej rachunek PPK, prowadzony przez inną instytucję finansową, której mowa ust. 1.
 
 5. W przypadku braku zgody uczestnika PPK na złożenie wniosku, którym mowa ust. 2 pkt 2, środki dotychczas zgromadzone na rachunku PPK prowadzonym przez instytucję finansową, z którą umowę prowadzenie PPK zawarł na rzecz tego uczestnika PPK i jego imieniu podmiot zatrudniający, pozostają na tym rachunku PPK do czasu ich wypłaty, wypłaty transferowej lub zwrotu.
 
@@ -319,9 +319,7 @@ pracowniczych planach kapitałowych
 
 3. W terminie 7 dni od dnia otrzymania informacji, której mowa ust. 2, uczestnik PPK informuje, formie pisemnej, podmiot zatrudniający braku zgody na złożenie wniosku, którym mowa ust. 2.
 
-4. W przypadku nieotrzymania informacji, której mowa ust. 3, podmiot zatrudniający składa, imieniu uczestnika PPK, którym mowa ust. 1, i za pośrednictwem podmiotu zarządzającego instytucją finansową, z którą ten podmiot zatrudniający zawarł umowę prowadzenie PPK, wniosek wypłatę transferową środków zgromadzonych na rachunkach PPK prowadzonych przez instytucje finansowe, z którymi umowy prowadzenie PPK zawarły na rzecz tego uczestnika PPK i jego imieniu inne podmioty zatrudniające, na jego rachunek PPK prowadzony przez instytucję finansową, z którą umowę prowadzenie PPK zawarł podmiot zatrudniający, któremu złożono oświadczenie, którym mowa ust. 1.
-
-5. W przypadku braku zgody uczestnika PPK na złożenie wniosku, którym mowa ust. 2, środki dotychczas zgromadzone na rachunkach PPK prowadzonych przez instytucje finansowe, z którymi umowy prowadzenie PPK zawarły
+4. W przypadku nieotrzymania informacji, której mowa ust. 3, podmiot zatrudniający składa, imieniu uczestnika PPK, którym mowa ust. 1, i za pośrednictwem podmiotu zarządzającego instytucją finansową, z którą ten podmiot zatrudniający zawarł umowę prowadzenie PPK, wniosek wypłatę transferową środków zgromadzonych na rachunkach PPK prowadzonych przez instytucje finansowe, z którymi umowy prowadzenie PPK zawarły na rzecz tego uczestnika PPK i jego imieniu inne podmioty zatrudniające, na jego rachunek PPK prowadzony przez instytucję finansową, z którą umowę prowadzenie PPK zawarł podmiot zatrudniający, któremu złożono oświadczenie, którym mowa ust. 1. madzone na rachunkach PPK prowadzonych przez instytucje finansowe, z którymi umowy prowadzenie PPK zawarły na rzecz tego uczestnika PPK i jego imieniu inne podmioty zatrudniające, pozostają na tych rachunkach PPK do czasu ich wypłaty, wypłaty transferowej lub zwrotu.
 
 6. (uchylony)
 
@@ -366,8 +364,8 @@ pracowniczych planach kapitałowych
 - **1)** dane wybranej instytucji finansowej;
 - **2)** dane podmiotu zatrudniającego, który zawarł umowę prowadzenie PPK imieniu i na rzecz uczestnika PPK;
 - **3)** określenie wysokości wpłat podstawowych;
-- **4)** określenie wysokości wpłat dodatkowych finansowanych przez podmiot zatrudniający;
 - **5)** określenie wysokości możliwej do zadeklarowania przez uczestnika PPK wpłaty dodatkowej oraz sposób jej deklarowania;
+- **6)** wskazanie właściwych przepisów podatkowych mających związek z uczestnictwem PPK;
 - **7)** opis:
     - **a)** zasad wypłaty, wypłaty transferowej i zwrotu zgromadzonych na rachunku PPK uczestnika PPK środków,
     - **b)** trybu składania deklaracji, których mowa art. 23 ust. 2, tym opis warunków rezygnacji z oszczędzania PPK, trybu składania wniosków, których mowa art. 23 ust. 10, a także deklaracji, których mowa art. 27 ust. 4, i zmian deklaracji, których mowa art. 27 ust. 6, wraz z opisem konsekwencji, tym finansowych, złożenia takich deklaracji, wniosków i zmian deklaracji,
@@ -400,9 +398,9 @@ pracowniczych planach kapitałowych
 
 8. Podmiot zatrudniający nie dokonuje wpłat za uczestnika PPK, jeżeli uczestnik PPK po złożeniu deklaracji, której mowa ust. 2, a przed dniem 1 kwietnia, którym mowa ust. 6, ukończył 70. rok życia. Do takiego uczestnika PPK przepisu ust. 5 nie stosuje się.
 
-9. Podmiot zatrudniający dokonuje zgodnie z ust. 6 wpłat za uczestnika PPK, który po złożeniu deklaracji, której mowa ust. 2, a przed dniem 1 kwietnia, którym mowa ust. 6, ukończył 55. rok życia, wyłącznie na wniosek tego uczestnika PPK złożony do ostatniego dnia lutego, którym mowa ust. 5.
+9. Podmiot zatrudniający dokonuje zgodnie z ust. 6 wpłat za uczestnika PPK, który po złożeniu deklaracji, której mowa ust. 2, a przed dniem 1 kwietnia, którym mowa ust. 6, ukończył 55. rok życia, wyłącznie na wniosek tego uczestnika PPK złożony do ostatniego dnia lutego, którym mowa ust. 5. niającemu formie pisemnej wniosek dokonywanie wpłat do PPK, z zastrzeżeniem ust. 8. Złożenie tego wniosku i ponowne dokonywanie wpłat do PPK nie wymaga zmiany umowy prowadzenie PPK.
 
-10. Uczestnik PPK, który złożył deklarację, której mowa ust. 2, może każdym czasie złożyć podmiotowi zatrudniającemu formie pisemnej wniosek dokonywanie wpłat do PPK, z zastrzeżeniem ust. 8. Złożenie tego wniosku i ponowne dokonywanie wpłat do PPK nie wymaga zmiany umowy prowadzenie PPK.
+11. W przypadku, którym mowa ust. 10, wpłat do PPK dokonuje się, począwszy od miesiąca następującego po miesiącu, którym złożono wniosek dokonywanie wpłat do PPK.
 
 12. Minister właściwy do spraw instytucji finansowych porozumieniu z ministrem właściwym do spraw zabezpieczenia społecznego określi, drodze rozporządzenia, wzór deklaracji, której mowa ust. 2, oraz szczegółowy zakres zawartych niej danych, biorąc pod uwagę konieczność zapewnienia sprawności przebiegu procesu składania deklaracji.
 
@@ -440,9 +438,7 @@ pracowniczych planach kapitałowych
 
 **Art. 25a.**
 
-1. Maksymalny limit wpłat i dopłat możliwych do dokonania na wszystkie rachunki PPK uczestnika PPK wynosi danym roku kalendarzowym równowartość złotych kwoty 50 000 dolarów amerykańskich, według średniego kursu dolara amerykańskiego ogłaszanego przez Narodowy Bank Polski na ostatni dzień roboczy poprzedzający dzień 31 grudnia roku poprzedzającego dany rok kalendarzowy. Po przekroczeniu tego limitu dalsze wpłaty i dopłaty na rachunek PPK uczestnika PPK nie są dokonywane.
-
-2. PFR terminie do 5 dnia roboczego miesiąca następującego po miesiącu, za który dokonano wpłaty i dopłaty, weryfikuje, czy wartość dokonanych wpłat i dopłat na rachunki uczestnika PPK nie przekroczyła limitu, którym mowa ust. 1. W przypadku gdy wyniku przeprowadzonej weryfikacji okaże się, że doszło do przekroczenia tego limitu, PFR czeniu limitu, do zwrotu wpłat i dopłat dokonanych na rachunek PPK uczestnika PPK po przekroczeniu tego limitu, wskazując wpłaty i dopłaty lub ich część podlegające zwrotowi.
+1. Maksymalny limit wpłat i dopłat możliwych do dokonania na wszystkie rachunki PPK uczestnika PPK wynosi danym roku kalendarzowym równowartość złotych kwoty 50 000 dolarów amerykańskich, według średniego kursu dolara amerykańskiego ogłaszanego przez Narodowy Bank Polski na ostatni dzień roboczy poprzedzający dzień 31 grudnia roku poprzedzającego dany rok kalendarzowy. Po przekroczeniu tego limitu dalsze wpłaty i dopłaty na rachunek PPK uczestnika PPK nie są dokonywane. weryfikuje, czy wartość dokonanych wpłat i dopłat na rachunki uczestnika PPK nie przekroczyła limitu, którym mowa ust. 1. W przypadku gdy wyniku przeprowadzonej weryfikacji okaże się, że doszło do przekroczenia tego limitu, PFR informuje tym instytucje finansowe prowadzące rachunki PPK uczestnika PPK, uczestnika PPK oraz podmioty zatrudniające i wzywa instytucje finansowe prowadzące rachunki PPK uczestnika PPK, na które dokonano wpłat i dopłat po przekroczeniu limitu, do zwrotu wpłat i dopłat dokonanych na rachunek PPK uczestnika PPK po przekroczeniu tego limitu, wskazując wpłaty i dopłaty lub ich część podlegające zwrotowi.
 
 3. Zwrot wpłat jest dokonywany podmiotom, które ich dokonały. Zwrot dopłat jest dokonywany Funduszowi Pracy za pośrednictwem PFR.
 
@@ -483,11 +479,9 @@ pracowniczych planach kapitałowych
 
 8. Wpłata podstawowa wysokości określonej deklaracji, której mowa ust. 4, albo zmieniona wysokość wpłaty podstawowej określona zmianie deklaracji, której mowa ust. 6 pkt 1, obowiązuje od miesiąca następującego po miesiącu, którym uczestnik PPK złożył uwzględnioną przez podmiot zatrudniający deklarację, której mowa ust. 4, albo uwzględnioną przez podmiot zatrudniający zmianę deklaracji, której mowa ust. 6 pkt 1, zakresie wpłaty podstawowej.
 
-9. Wpłaty finansowane przez uczestnika PPK są potrącane z wynagrodzenia po jego opodatkowaniu.
+9. Wpłaty finansowane przez uczestnika PPK są potrącane z wynagrodzenia po jego opodatkowaniu. stosunku prawnego wynikającego z umowy prowadzenie PPK. Pierwsze wpłaty są dokonywane terminie do 15. dnia miesiąca następującego po miesiącu, którym zostały obliczone i pobrane.
 
-**Art. 28.**
-
-1. Pierwsze wpłaty oblicza się i pobiera się od wynagrodzenia wypłaconego uczestnikowi PPK po powstaniu stosunku prawnego wynikającego z umowy prowadzenie PPK. Pierwsze wpłaty są dokonywane terminie do 15. dnia miesiąca następującego po miesiącu, którym zostały obliczone i pobrane. wpłat finansowanych przez uczestnika PPK.
+2. Podmiot zatrudniający jest obowiązany do obliczenia i dokonania wpłat do wybranej instytucji finansowej finansowanych przez ten podmiot oraz do obliczenia, pobrania od uczestnika PPK i dokonania wpłat do wybranej instytucji finansowej wpłat finansowanych przez uczestnika PPK.
 
 3. Wpłaty finansowane przez podmiot zatrudniający są obliczane, a wpłaty finansowane przez uczestnika PPK są obliczane i pobierane od uczestnika PPK terminie wypłaty wynagrodzenia przez podmiot zatrudniający.
 
@@ -514,9 +508,9 @@ pracowniczych planach kapitałowych
 5. Wpłaty finansowane przez osobę, na rzecz której są dokonywane wpłaty, oraz wpłaty finansowane przez podmiot zatrudniający, które okazały się nienależne całości lub części oraz za które nie zostały nabyte jednostki uczestnictwa funduszu inwestycyjnego lub jednostki uczestnictwa ubezpieczeniowego funduszu kapitałowego, lub które nie zostały przeliczone na jednostki rozrachunkowe funduszu emerytalnego, instytucja finansowa niezwłocznie, niepóźniej niż terminie 3 dni roboczych po powzięciu informacji, że wpłaty okazały się nienależne, zwraca:
 
 - **1)** tej osobie przypadku wpłat przez nią finansowanych, przy czym zwrotu dokonuje się na rachunek bankowy tej osoby, a jeżeli instytucja finansowa nie posiada informacji numerze takiego rachunku na rachunek bankowy podmiotu zatrudniającego;
-- **2)** podmiotowi zatrudniającemu przypadku wpłat finansowanych przez podmiot zatrudniający, przy czym zwrotu dokonuje się na rachunek bankowy tego podmiotu.
+- **2)** podmiotowi zatrudniającemu przypadku wpłat finansowanych przez podmiot zatrudniający, przy czym zwrotu dokonuje się na rachunek bankowy tego podmiotu. ust. 5 pkt 1, na rachunek bankowy podmiotu zatrudniającego, podmiot zatrudniający jest obowiązany niezwłocznie, niepóźniej niż terminie 5 dni roboczych, licząc od dnia otrzymania tej kwoty, przekazać tę kwotę tej osobie.
 
-6. W przypadku gdy instytucja finansowa przekazała kwotę, którą jest obowiązana zwrócić osobie, której mowa ust. 5 pkt 1, na rachunek bankowy podmiotu zatrudniającego, podmiot zatrudniający jest obowiązany niezwłocznie, niepóźniej niż terminie 5 dni roboczych, licząc od dnia otrzymania tej kwoty, przekazać tę kwotę tej osobie. osoby, na rzecz której dokonano zwrotu, podmiotu zatrudniającego oraz wpłaty powitalnej, której mowa art. 31, i dopłat rocznych, których mowa art. 32.
+7. Instytucja finansowa przekazuje do ewidencji PPK, której mowa rozdziale 10, informacje dokonanych zwrotach wpłat, które okazały się nienależne całości lub części, ze wskazaniem kwoty zwrotu podziale na zwrot z wpłat osoby, na rzecz której dokonano zwrotu, podmiotu zatrudniającego oraz wpłaty powitalnej, której mowa art. 31, i dopłat rocznych, których mowa art. 32.
 
 **Art. 29.**
 
@@ -556,9 +550,7 @@ pracowniczych planach kapitałowych
 
 1. Z tytułu uczestnictwa PPK danym roku kalendarzowym uczestnik PPK otrzymuje dopłatę roczną do PPK wysokości 240 zł, zwaną dalej „dopłatą roczną”.
 
-2. Uczestnikowi PPK przysługuje dopłata roczna, jeżeli kwota wpłat podstawowych i dodatkowych finansowanych przez podmiot zatrudniający oraz uczestnika PPK danym roku kalendarzowym jest równa co najmniej kwocie wpłat podstawowych należnych od kwoty stanowiącej 6-krotność minimalnego wynagrodzenia obowiązującego tym roku, z zastrzeżeniem ust. 3.
-
-3. Uczestnikowi PPK, którym mowa art. 27 ust. 2, dopłata roczna przysługuje przypadku, gdy kwota wpłat podstawowych i dodatkowych finansowanych przez podmiot zatrudniający oraz uczestnika PPK danym roku kalendarzowym
+2. Uczestnikowi PPK przysługuje dopłata roczna, jeżeli kwota wpłat podstawowych i dodatkowych finansowanych przez podmiot zatrudniający oraz uczestnika PPK danym roku kalendarzowym jest równa co najmniej kwocie wpłat podstawowych należnych od kwoty stanowiącej 6-krotność minimalnego wynagrodzenia obowiązującego tym roku, z zastrzeżeniem ust. 3. stawowych i dodatkowych finansowanych przez podmiot zatrudniający oraz uczestnika PPK danym roku kalendarzowym jest równa co najmniej 25 % kwoty wpłat podstawowych należnych od kwoty stanowiącej 6-krotność minimalnego wynagrodzenia obowiązującego tym roku.
 
 4. Dopłata roczna przysługuje uczestnikowi PPK, którym mowa art. 27 ust. 2, po przeprowadzeniu weryfikacji, na podstawie informacji przekazanych przez ZUS, których mowa art. 34 ust. 3.
 
@@ -600,11 +592,9 @@ pracowniczych planach kapitałowych
 
 1. Fundusz inwestycyjny, fundusz emerytalny lub zakład ubezpieczeń będący wybraną instytucją finansową ewidencjonuje dokonane wpłaty, dopłaty roczne, przyjęte i dokonane wypłaty transferowe, wypłatę oraz inne operacje na rachunku PPK.
 
-2. Fundusz inwestycyjny, fundusz emerytalny lub zakład ubezpieczeń, którym mowa ust. 1, prowadzi rachunki PPK uczestników PPK taki sposób, aby możliwe było wyodrębnienie wpłat dokonanych przez podmiot zatrudniający, osobę zatrudnioną, wpłaty powitalnej i dopłat rocznych, a także przyjętych wypłat transferowych i wpłat dokonanych ramach konwersji lub zamiany.
+2. Fundusz inwestycyjny, fundusz emerytalny lub zakład ubezpieczeń, którym mowa ust. 1, prowadzi rachunki PPK uczestników PPK taki sposób, aby możliwe było wyodrębnienie wpłat dokonanych przez podmiot zatrudniający, osobę zatrudnioną, wpłaty powitalnej i dopłat rocznych, a także przyjętych wypłat transferowych i wpłat dokonanych ramach konwersji lub zamiany. z interesem uczestników PPK, dążąc do osiągnięcia bezpieczeństwa i efektywności dokonywanych lokat oraz przestrzegając zasad ograniczania ryzyka inwestycyjnego.
 
-**Art. 37.**
-
-1. Fundusz zdefiniowanej daty, którym mowa art. 38 i art. 39, lokuje środki zgromadzone PPK zgodnie z interesem uczestników PPK, dążąc do osiągnięcia bezpieczeństwa i efektywności dokonywanych lokat oraz przestrzegając zasad ograniczania ryzyka inwestycyjnego. określone ustawie funduszach inwestycyjnych dla funduszy inwestycyjnych otwartych, przepisy art. 113 ust. 4, art. 116a i art. 116b tej ustawy oraz przepisy wykonawcze wydane na podstawie art. 116d tej ustawy zakresie, jakim dotyczą specjalistycznych funduszy inwestycyjnych otwartych stosujących zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego, ile przepisy niniejszego rozdziału nie stanowią inaczej.
+2. Fundusz zdefiniowanej daty, którym mowa art. 38 i art. 39, stosuje zasady i ograniczenia inwestycyjne określone ustawie oraz przepisach wykonawczych wydanych na podstawie ust. 18, a także zasady i ograniczenia inwestycyjne określone ustawie funduszach inwestycyjnych dla funduszy inwestycyjnych otwartych, przepisy art. 113 ust. 4, art. 116a i art. 116b tej ustawy oraz przepisy wykonawcze wydane na podstawie art. 116d tej ustawy zakresie, jakim dotyczą specjalistycznych funduszy inwestycyjnych otwartych stosujących zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego, ile przepisy niniejszego rozdziału nie stanowią inaczej.
 
 3. Do funduszu zdefiniowanej daty, którym mowa art. 38 i art. 39, nie stosuje się przepisów art. 94 i art. 94a ustawy funduszach inwestycyjnych, a także przepisów wykonawczych wydanych na podstawie art. 94 ust. 7 tej ustawy.
 
@@ -627,10 +617,8 @@ pracowniczych planach kapitałowych
 
 10. Do limitu, którym mowa ust. 7, nie wlicza się lokat certyfikaty inwestycyjne funduszy inwestycyjnych zamkniętych mających siedzibę na terytorium Rzeczypospolitej Polskiej, tytuły uczestnictwa emitowane przez fundusze zagraniczne lub instytucje wspólnego inwestowania mające siedzibę za granicą, dopuszczone do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej lub państwie członkowskim, a także na rynku zorganizowanym niebędącym rynkiem regulowanym Rzeczypospolitej Polskiej lub innym państwie członkowskim oraz na rynku zorganizowanym państwie należącym do OECD innym niż Rzeczpospolita Polska i państwo członkowskie, jeżeli zgodnie z polityką inwestycyjną tych funduszy lub instytucji zbiorowego inwestowania określoną ich statucie lub regulaminie będą one odzwierciedlać skład indeksu rynku regulowanego.
 
-11. Fundusz zdefiniowanej daty, którym mowa art. 38 i art. 39, ramach części dłużnej portfela może lokować:
-
 - **1)** niemniej niż 70 % wartości aktywów w:
-    - **a)** papiery wartościowe emitowane, poręczone lub gwarantowane przez Skarb Państwa, Narodowy Bank Polski, jednostkę samorządu terytorialnego lub przez centralne władze publiczne lub bank centralny państwa członkowskiego, narodowe, pod warunkiem że papiery emitowane, poręczone lub gwarantowane przez te organizacje międzynarodowe posiadają rating na poziomie inwestycyjnym nadany przez agencję ratingową uznaną przez Europejski Bank Centralny swoich operacjach,
+    - **a)** papiery wartościowe emitowane, poręczone lub gwarantowane przez Skarb Państwa, Narodowy Bank Polski, jednostkę samorządu terytorialnego lub przez centralne władze publiczne lub bank centralny państwa członkowskiego, Europejski Bank Centralny, Unię Europejską lub Europejski Bank Inwestycyjny albo przez organizacje międzynarodowe, pod warunkiem że papiery emitowane, poręczone lub gwarantowane przez te organizacje międzynarodowe posiadają rating na poziomie inwestycyjnym nadany przez agencję ratingową uznaną przez Europejski Bank Centralny swoich operacjach,
     - **b)** depozyty terminie zapadalności niedłuższym niż 180 dni bankach krajowych lub instytucjach kredytowych rozumieniu ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, pod warunkiem że te instytucje kredytowe posiadają rating na poziomie inwestycyjnym nadany przez agencję ratingową uznaną przez Europejski Bank Centralny swoich operacjach;
 
 - **2)** niewięcej niż 30 % wartości aktywów inne niż wymienione pkt 1 instrumenty finansowe, przy czym niewięcej niż 10 % wartości aktywów może być lokowane instrumenty finansowe, które nie posiadają ratingu inwestycyjnego nadanego przez agencję ratingową uznaną przez Europejski Bank Centralny swoich operacjach.
@@ -646,9 +634,7 @@ pracowniczych planach kapitałowych
 
 14. Przy obliczaniu udziału poszczególnych kategorii lokat części udziałowej portfela funduszu zdefiniowanej daty, którym mowa art. 38 i art. 39, uwzględnia się ekspozycję uzyskaną za pośrednictwem funduszy inwestycyjnych rozumieniu art. 3 ustawy funduszach inwestycyjnych oraz instytucji wspólnego inwestowania, których jednostki uczestnictwa, certyfikaty inwestycyjne lub tytuły uczestnictwa są przedmiotem lokat funduszu zdefiniowanej daty, oraz ekspozycję uzyskaną przy zastosowaniu instrumentów pochodnych.
 
-15. Fundusz zdefiniowanej daty, którym mowa art. 38 i art. 39, może lokować aktywa jednostki uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych, tytuły uczestnictwa funduszy zagranicznych lub instytucji wspólnego inwestowania, których mowa art. 101 ustawy funduszach inwestycyjnych, jeżeli wskaźnik kosztów całkowitych obciążających aktywa funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego, funduszu zagranicznego lub instytucji wspólnego inwestowania nie przekracza 0,3 % skali roku, a udział tych inwestycji nie jest większy niż 30 % wartości aktywów funduszu zdefiniowanej daty. W przypadku gdy instytucja wspólnego inwestowania nie publikuje wskaźnika kosztów całkowitych, fundusz zdefiniowanej daty może uwzględnić inny wskaźnik kosztów publikowany przez instytucję wspólnego inwestowania, równoważny wskaźnikowi kosztów całkowitych.
-
-16. Jeżeli fundusz zdefiniowanej daty, którym mowa art. 38 i art. 39, lokuje swoje aktywa jednostki uczestnictwa lub certyfikaty inwestycyjne innego funduszu inwestycyjnego lub tytuły uczestnictwa funduszu zagranicznego lub instytucji wspólnego inwestowania, z wyłączeniem lokat, których mowa ust. 6, zarządzanych przez to samo towarzystwo funduszy inwestycyjnych lub podmiot z grupy kapitałowej tego towarzystwa, zakładu ubezpieczeń, PTE lub pracowniczego towarzystwa
+15. Fundusz zdefiniowanej daty, którym mowa art. 38 i art. 39, może lokować aktywa jednostki uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych, tytuły uczestnictwa funduszy zagranicznych lub instytucji wspólnego inwestowania, których mowa art. 101 ustawy funduszach inwestycyjnych, jeżeli wskaźnik kosztów całkowitych obciążających aktywa funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego, funduszu zagranicznego lub instytucji wspólnego inwestowania nie przekracza 0,3 % skali roku, a udział tych inwestycji nie jest większy niż 30 % wartości aktywów funduszu zdefiniowanej daty. W przypadku gdy instytucja wspólnego inwestowania nie publikuje wskaźnika kosztów całkowitych, fundusz zdefiniowanej daty może uwzględnić inny wskaźnik kosztów publikowany przez instytucję wspólnego inwestowania, równoważny wskaźnikowi kosztów całkowitych. lub certyfikaty inwestycyjne innego funduszu inwestycyjnego lub tytuły uczestnictwa funduszu zagranicznego lub instytucji wspólnego inwestowania, z wyłączeniem lokat, których mowa ust. 6, zarządzanych przez to samo towarzystwo funduszy inwestycyjnych lub podmiot z grupy kapitałowej tego towarzystwa, zakładu ubezpieczeń, PTE lub pracowniczego towarzystwa emerytalnego, towarzystwo funduszy inwestycyjnych lub podmiot z jego grupy kapitałowej nie może pobierać wynagrodzenia za zarządzanie od aktywów stanowiących lokaty funduszu zdefiniowanej daty.
 
 17. Zakład ubezpieczeń ramach lokowania środków ubezpieczeniowego funduszu kapitałowego będącego funduszem zdefiniowanej daty, którym mowa art. 38, stosuje także przepis art. 276 ustawy działalności ubezpieczeniowej i reasekuracyjnej.
 
@@ -676,8 +662,8 @@ pracowniczych planach kapitałowych
 
 - **1)** począwszy od roku, którym fundusz osiągnie swoją zdefiniowaną datę, udział części udziałowej nie może być większy niż 15 %, a udział części dłużnej nie może być mniejszy niż 85 % wartości aktywów funduszu;
 - **2)** okresie 5 lat poprzedzających datę, której mowa pkt 1, udział części udziałowej nie może być mniejszy niż 10 % oraz nie może być większy niż 30 % wartości aktywów funduszu, a udział części dłużnej nie może być mniejszy niż 70 % oraz większy niż 90 % wartości aktywów funduszu; trakcie trwania tego okresu udział części udziałowej musi być stopniowo zmniejszany na rzecz części dłużnej;
-- **3)** okresie 5 lat poprzedzających datę, której mowa pkt 2, udział części udziałowej nie może być mniejszy niż 25 % oraz nie może być większy niż 50 % wartości aktywów funduszu, a udział części dłużnej nie może być mniejszy niż 50 % oraz większy niż 75 % wartości aktywów funduszu;
-- **4)** okresie 10 lat poprzedzających datę, której mowa pkt 3, udział części udziałowej nie może być mniejszy niż 40 % oraz nie może być większy niż 70 % wartości aktywów funduszu, a udział części dłużnej nie może być mniejszy niż 30 % oraz większy niż 60 % wartości aktywów funduszu; nie może być mniejszy niż 60 % oraz nie może być większy niż 80 % wartości aktywów funduszu, a udział części dłużnej nie może być mniejszy niż 20 % i większy niż 40 % wartości aktywów funduszu.
+- **3)** okresie 5 lat poprzedzających datę, której mowa pkt 2, udział części udziałowej nie może być mniejszy niż 25 % oraz nie może być większy niż 50 % wartości aktywów funduszu, a udział części dłużnej nie może być mniejszy niż 50 % oraz większy niż 75 % wartości aktywów funduszu; 40 % oraz nie może być większy niż 70 % wartości aktywów funduszu, a udział części dłużnej nie może być mniejszy niż 30 % oraz większy niż 60 % wartości aktywów funduszu;
+- **5)** począwszy od dnia utworzenia funduszu do dnia rozpoczęcia okresu, którym mowa pkt 4, udział części udziałowej nie może być mniejszy niż 60 % oraz nie może być większy niż 80 % wartości aktywów funduszu, a udział części dłużnej nie może być mniejszy niż 20 % i większy niż 40 % wartości aktywów funduszu.
 
 2. Środki gromadzone przez uczestnika PPK lokowane są funduszu zdefiniowanej daty właściwym dla jego wieku, z zastrzeżeniem art. 45.
 
@@ -697,9 +683,7 @@ pracowniczych planach kapitałowych
 
 2. W przypadku utworzenia nowego subfunduszu zdefiniowanej daty specjalistycznym funduszu inwestycyjnym otwartym z wydzielonymi subfunduszami fundusz ten jest obowiązany dostosować portfel inwestycyjny nowego subfunduszu zdefiniowanej daty do wymagań określonych ustawie oraz przepisach wykonawczych wydanych na podstawie art. 37 ust. 18, a także do zasad i ograniczeń inwestycyjnych określonych ustawie funduszach inwestycyjnych dla funduszy inwestycyjnych otwartych, art. 116a i art. 116b tej ustawy oraz przepisach wykonawczych wydanych na podstawie art. 116d tej ustawy zakresie, jakim dotyczą specjalistycznych funduszy inwestycyjnych otwartych stosujących zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego, oraz statucie funduszu terminie 12 miesięcy od dnia wejścia życie zmian statutu zakresie utworzenia tego subfunduszu.
 
-3. Zakład ubezpieczeń ramach lokowania środków funduszu zdefiniowanej daty będącego ubezpieczeniowym funduszem kapitałowym jest obowiązany dostosować strukturę portfela inwestycyjnego ubezpieczeniowego funduszu kapitałowego do wymagań określonych ustawie oraz przepisach wykonawczych wydanych na podstawie art. 37 ust. 18, a także do zasad i ograniczeń inwestycyjnych określonych ustawie funduszach inwestycyjnych dla funduszy inwestycyjnych otwartych, art. 116a i art. 116b tej ustawy oraz przepisach wykonawczych wydanych na podstawie art. 116d tej ustawy zakresie, jakim dotyczą specjalistycznych funduszy inwestycyjnych otwartych stosujących zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego, oraz regulaminie funduszu terminie 12 miesięcy od dnia utworzenia funduszu.
-
-4. Jeżeli specjalistyczny fundusz inwestycyjny otwarty będący funduszem zdefiniowanej daty, specjalistyczny fundusz inwestycyjny otwarty z wydzielonymi subfunduszami będącymi subfunduszami zdefiniowanej daty lub fundusz emerytalny będący funduszem zdefiniowanej daty przekroczy ograniczenia określone ustawie lub przepisach wykonawczych wydanych na podstawie art. 37 ust. 18, lub mających zastosowanie do funduszy zdefiniowanej daty przepisach ustawy lonych tych przepisach, uwzględniając należycie interes uczestników PPK.
+3. Zakład ubezpieczeń ramach lokowania środków funduszu zdefiniowanej daty będącego ubezpieczeniowym funduszem kapitałowym jest obowiązany dostosować strukturę portfela inwestycyjnego ubezpieczeniowego funduszu kapitałowego do wymagań określonych ustawie oraz przepisach wykonawczych wydanych na podstawie art. 37 ust. 18, a także do zasad i ograniczeń inwestycyjnych określonych ustawie funduszach inwestycyjnych dla funduszy inwestycyjnych otwartych, art. 116a i art. 116b tej ustawy oraz przepisach wykonawczych wydanych na podstawie art. 116d tej ustawy zakresie, jakim dotyczą specjalistycznych funduszy inwestycyjnych otwartych stosujących zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego, oraz regulaminie funduszu terminie 12 miesięcy od dnia utworzenia funduszu. inwestycyjny otwarty z wydzielonymi subfunduszami będącymi subfunduszami zdefiniowanej daty lub fundusz emerytalny będący funduszem zdefiniowanej daty przekroczy ograniczenia określone ustawie lub przepisach wykonawczych wydanych na podstawie art. 37 ust. 18, lub mających zastosowanie do funduszy zdefiniowanej daty przepisach ustawy funduszach inwestycyjnych, jest obowiązany do dostosowania, niezwłocznie, stanu swoich aktywów do wymagań określonych tych przepisach, uwzględniając należycie interes uczestników PPK.
 
 5. Jeżeli zakład ubezpieczeń ramach lokowania środków funduszu zdefiniowanej daty będącego ubezpieczeniowym funduszem kapitałowym przekroczy ograniczenia określone ustawie lub przepisach wykonawczych wydanych na podstawie art. 37 ust. 18, lub mających zastosowanie do funduszy zdefiniowanej daty przepisach ustawy funduszach inwestycyjnych, jest obowiązany do dostosowania, niezwłocznie, stanu aktywów funduszu do wymagań określonych tych przepisach, uwzględniając należycie interes uczestników PPK.
 
@@ -708,6 +692,11 @@ pracowniczych planach kapitałowych
 7. Jeżeli zakład ubezpieczeń ramach lokowania środków funduszu zdefiniowanej daty będącego ubezpieczeniowym funduszem kapitałowym przekroczy ograniczenia inwestycyjne określone regulaminie funduszu, jest obowiązany do dostosowania, niezwłocznie, stanu aktywów funduszu do wymagań określonych regulaminie funduszu, uwzględniając należycie interes uczestników PPK.
 
 **Art. 43.** Przepisy ustawy funduszach inwestycyjnych określające zasady i ograniczenia inwestycyjne dla funduszu inwestycyjnego otwartego, dotyczące:
+
+- **1)** towarzystwa funduszy inwestycyjnych stosuje się odpowiednio do PTE, pracowniczego towarzystwa emerytalnego albo do zakładu ubezpieczeń;
+- **2)** akcjonariuszy towarzystwa funduszy inwestycyjnych stosuje się odpowiednio do akcjonariuszy PTE, akcjonariuszy pracowniczego towarzystwa emerytalnego albo do akcjonariuszy zakładu ubezpieczeń;
+- **3)** podmiotów będących podmiotami dominującymi lub zależnymi stosunku do towarzystwa funduszy inwestycyjnych lub jego akcjonariuszy stosuje się odpowiednio do podmiotów będących podmiotami dominującymi lub zależnymi stosunku do PTE, pracowniczego towarzystwa emerytalnego albo zakładu ubezpieczeń lub stosunku do ich akcjonariuszy;
+- **4)** członków organów towarzystwa funduszy inwestycyjnych lub osób zatrudnionych towarzystwie funduszy inwestycyjnych stosuje się odpowiednio do członków organów PTE lub osób zatrudnionych PTE, członków organów pracowniczego towarzystwa emerytalnego lub osób zatrudnionych pracowniczym towarzystwie emerytalnym albo do członków organów zakładu ubezpieczeń lub osób zatrudnionych zakładzie ubezpieczeń.
 
 **Art. 44.** Fundusz zdefiniowanej daty lub subfundusz zdefiniowanej daty może gromadzić wyłącznie środki uczestników PPK.
 
@@ -723,11 +712,7 @@ pracowniczych planach kapitałowych
 
 1. Zakazuje się wynagradzania podmiotu prowadzącego działalność akwizycyjną na rzecz instytucji finansowej, towarzystwa funduszy inwestycyjnych, PTE lub pracowniczego towarzystwa emerytalnego polegającą na nakłanianiu jakiegokolwiek podmiotu zatrudniającego, aby rozwiązał umowę zarządzanie PPK, której jest stroną i zawarł taką umowę z instytucją finansową, na rzecz której działa ten podmiot.
 
-2. Zakazuje się oferowania lub udzielania podmiotom zatrudniającym jakichkolwiek dodatkowych korzyści materialnych z tytułu zawarcia lub niewypowiedzenia umowy zarządzanie PPK lub umowy prowadzenie PPK.
-
-**Art. 47.**
-
-1. Informacje funduszu zdefiniowanej daty lub podmiocie zarządzającym funduszem zdefiniowanej daty rozpowszechniane publicznie lub udostępniane przez ten fundusz lub podmiot lub rozpowszechniane publicznie lub udostępniane na rzecz tego funduszu lub tego podmiotu, a także informacje PPK udostępniane przez fundusz zdefiniowanej daty lub podmiot zarządzający funduszem zdefiniowanej daty powinny sposób zrozumiały, obiektywny i rzetelny przedstawiać sytuację finansową funduszu zdefiniowanej daty lub podmiotu zarządzającego funduszem zdefiniowanej daty,
+2. Zakazuje się oferowania lub udzielania podmiotom zatrudniającym jakichkolwiek dodatkowych korzyści materialnych z tytułu zawarcia lub niewypowiedzenia umowy zarządzanie PPK lub umowy prowadzenie PPK. rozpowszechniane publicznie lub udostępniane przez ten fundusz lub podmiot lub rozpowszechniane publicznie lub udostępniane na rzecz tego funduszu lub tego podmiotu, a także informacje PPK udostępniane przez fundusz zdefiniowanej daty lub podmiot zarządzający funduszem zdefiniowanej daty powinny sposób zrozumiały, obiektywny i rzetelny przedstawiać sytuację finansową funduszu zdefiniowanej daty lub podmiotu zarządzającego funduszem zdefiniowanej daty, a także ryzyko związane z zawarciem z nim umowy prowadzenie PPK oraz pozostawaniem uczestnikiem lub członkiem tego funduszu zdefiniowanej daty.
 
 2. Reklama dotycząca funduszu zdefiniowanej daty lub podmiotu zarządzającego funduszem zdefiniowanej daty nie może:
 
@@ -752,9 +737,7 @@ pracowniczych planach kapitałowych
 
 1. Towarzystwo funduszy inwestycyjnych, PTE, pracownicze towarzystwo emerytalne lub zakład ubezpieczeń może pobierać wynagrodzenie za zarządzanie funduszem inwestycyjnym, funduszem emerytalnym lub subfunduszem, będących funduszami zdefiniowanej daty, wysokości niewiększej niż 0,5 % wartości aktywów netto funduszu inwestycyjnego, funduszu emerytalnego lub subfunduszu skali roku, z uwzględnieniem ust. 2. Wynagrodzenie to jest obliczane na każdy dzień wyceny i jest płatne na rzecz towarzystwa funduszy inwestycyjnych, PTE, pracowniczego towarzystwa emerytalnego, lub jest pobierane przez zakład ubezpieczeń, do 15 dnia roboczego po zakończeniu miesiąca, za który wynagrodzenie jest należne, z zastrzeżeniem ust. 3.
 
-2. W przypadku zawarcia umowy prowadzenie PPK z zakładem ubezpieczeń łączna wysokość wynagrodzenia zakładu ubezpieczeń, którym mowa ust. 1, i kosztu udzielenia ochrony ubezpieczeniowej, obliczonych na każdy dzień wyceny, nie może być wyższa niż 0,5 % wartości aktywów netto funduszu inwestycyjnego skali roku, obliczonej na każdy dzień wyceny. Wynagrodzenie to jest pobierane przez zakład ubezpieczeń do 15 dnia roboczego po zakończeniu miesiąca, za który wynagrodzenie jest należne, z zastrzeżeniem ust. 3.
-
-3. Towarzystwo funduszy inwestycyjnych, PTE, pracownicze towarzystwo emerytalne lub zakład ubezpieczeń może pobierać wynagrodzenie za osiągnięty wynik. Wysokość tego wynagrodzenia nie może być wyższa niż 0,1 % wartości aktywów
+2. W przypadku zawarcia umowy prowadzenie PPK z zakładem ubezpieczeń łączna wysokość wynagrodzenia zakładu ubezpieczeń, którym mowa ust. 1, i kosztu udzielenia ochrony ubezpieczeniowej, obliczonych na każdy dzień wyceny, nie może być wyższa niż 0,5 % wartości aktywów netto funduszu inwestycyjnego skali roku, obliczonej na każdy dzień wyceny. Wynagrodzenie to jest pobierane przez zakład ubezpieczeń do 15 dnia roboczego po zakończeniu miesiąca, za który wynagrodzenie jest należne, z zastrzeżeniem ust. 3. pobierać wynagrodzenie za osiągnięty wynik. Wysokość tego wynagrodzenia nie może być wyższa niż 0,1 % wartości aktywów netto funduszu inwestycyjnego, funduszu emerytalnego lub subfunduszu skali roku. Wynagrodzenie to może być pobierane pod warunkiem:
 
 - **1)** realizacji dodatniej stopy zwrotu funduszu inwestycyjnego, funduszu emerytalnego lub subfunduszu za dany rok;
 - **2)** osiągnięcia danym roku stopy zwrotu przez fundusz inwestycyjny, fundusz emerytalny lub subfundusz przewyższającej stopę referencyjną;
@@ -768,9 +751,7 @@ pracowniczych planach kapitałowych
 
 4a. Przepisów ust. 3–4 nie stosuje się okresie do końca roku kalendarzowego, którym upływa termin 2 lat od dnia utworzenia funduszu inwestycyjnego, funduszu emerytalnego lub subfunduszu.
 
-5. Towarzystwo funduszy inwestycyjnych, PTE, pracownicze towarzystwo emerytalne lub zakład ubezpieczeń może pobierać wynagrodzenie, którym mowa ust. 1, tylko od tej części aktywów netto funduszy inwestycyjnych, funduszy emerytalnych lub subfunduszy zarządzanych przez to samo towarzystwo funduszy inwestycyjnych, PTE, pracownicze towarzystwo emerytalne lub zakład ubezpieczeń, oraz zarządzanych przez inne towarzystwa funduszy inwestycyjnych, PTE, pracownicze towarzystwa emerytalne lub zakłady ubezpieczeń wchodzące skład tej samej grupy kapitałowej, która nie przewyższa 15 % wartości aktywów netto wszystkich funduszy inwestycyjnych, funduszy emerytalnych lub subfunduszy będących funduszami zdefiniowanej daty, według wartości na ostatni dzień roboczy kwartału będący dniem wyceny, a przypadku ostatniego kwartału roku obrotowego na dzień bilansowy. Wynagrodzenie to ustalane jest według wzoru: Wzarz = Wwz x Swz x WAN gdzie: Wwz = 0,15 / U, oraz gdzie poszczególne symbole oznaczają: Wzarz wynagrodzenie za zarządzanie sytuacji gdy łączna wartość aktywów netto funduszy inwestycyjnych, funduszy emerytalnych i subfunduszy będących funduszami zdefiniowanej daty zarządzanych przez to samo towarzystwo funduszy inwestycyjnych, PTE, pracownicze towarzystwo emerytalne lub zakład ubezpieczeń oraz zarządzanych przez inne towarzystwa funduszy inwestycyjnych, PTE, pracownicze towarzystwa emerytalne lub zakłady ubezpieczeń wchodzące skład tej samej grupy kapitałowej przewyższa 15 % wartości aktywów netto wszystkich funduszy inwestycyjnych, funduszy emerytalnych lub subfunduszy będących funduszami zdefiniowanej daty; Wwz wskaźnik wynagrodzenia za zarządzanie; WAN wartość aktywów netto funduszu inwestycyjnego, funduszu emerytalnego lub subfunduszu, będących funduszami zdefiniowanej daty, zarządzanego przez towarzystwo funduszy inwestycyjnych, PTE, pracownicze towarzystwo emerytalne lub zakład ubezpieczeń; Swz stawka wynagrodzenia za zarządzanie, pobieranego zgodnie z ust. 1; U udział łącznej wartości aktywów netto funduszy inwestycyjnych, funduszy emerytalnych i subfunduszy będących funduszami zdefiniowanej daty zarządzanych przez to samo towarzystwo funduszy inwestycyjnych, PTE, pracownicze towarzystwo emerytalne lub zakład ubezpieczeń, oraz zarządzanych przez inne towarzystwa funduszy inwestycyjnych, PTE, pracownicze towarzystwa emerytalne lub zakłady ubezpieczeń wchodzące skład tej samej grupy kapitałowej, wartości aktywów netto wszystkich funduszy inwestycyjnych, funduszy emerytalnych lub subfunduszy będących funduszami zdefiniowanej daty, określony według wartości na koniec kwartału.
-
-6. Wynagrodzenia od wartości aktywów netto powyżej 15 %, którym mowa ust. 1, nie pobiera się począwszy od drugiego kwartału następującego po kwartale, na koniec którego łączna wartość aktywów netto funduszy inwestycyjnych, funduszy emerytalnych i subfunduszy zarządzanych przez to samo towarzystwo funduszy inwestycyjnych, PTE, pracownicze towarzystwo emerytalne lub zakład ubezpieczeń oraz zarządzanych przez inne towarzystwa funduszy inwestycyjnych, funduszami zdefiniowanej daty.
+5. Towarzystwo funduszy inwestycyjnych, PTE, pracownicze towarzystwo emerytalne lub zakład ubezpieczeń może pobierać wynagrodzenie, którym mowa ust. 1, tylko od tej części aktywów netto funduszy inwestycyjnych, funduszy emerytalnych lub subfunduszy zarządzanych przez to samo towarzystwo funduszy inwestycyjnych, PTE, pracownicze towarzystwo emerytalne lub zakład ubezpieczeń, oraz zarządzanych przez inne towarzystwa funduszy inwestycyjnych, PTE, pracownicze towarzystwa emerytalne lub zakłady ubezpieczeń wchodzące skład tej samej grupy kapitałowej, która nie przewyższa 15 % wartości aktywów netto wszystkich funduszy inwestycyjnych, funduszy emerytalnych lub subfunduszy będących funduszami zdefiniowanej daty, według wartości na ostatni dzień roboczy kwartału będący dniem wyceny, a przypadku ostatniego kwartału roku obrotowego na dzień bilansowy. Wynagrodzenie to ustalane jest według wzoru: Wzarz = Wwz x Swz x WAN gdzie: Wwz = 0,15 / U, oraz gdzie poszczególne symbole oznaczają: Wzarz wynagrodzenie za zarządzanie sytuacji gdy łączna wartość aktywów netto funduszy inwestycyjnych, funduszy emerytalnych i subfunduszy będących funduszami zdefiniowanej daty zarządzanych przez to samo towarzystwo funduszy inwestycyjnych, PTE, pracownicze towarzystwo emerytalne lub zakład ubezpieczeń oraz zarządzanych przez inne towarzystwa funduszy inwestycyjnych, PTE, pracownicze towarzystwa emerytalne lub zakłady ubezpieczeń wchodzące skład tej samej grupy kapitałowej przewyższa 15 % wartości aktywów netto wszystkich funduszy inwestycyjnych, funduszy emerytalnych lub subfunduszy będących funduszami zdefiniowanej daty; Wwz wskaźnik wynagrodzenia za zarządzanie; WAN wartość aktywów netto funduszu inwestycyjnego, funduszu emerytalnego lub subfunduszu, będących funduszami zdefiniowanej daty, zarządzanego przez towarzystwo funduszy inwestycyjnych, PTE, pracownicze towarzystwo emerytalne lub zakład ubezpieczeń; Swz stawka wynagrodzenia za zarządzanie, pobieranego zgodnie z ust. 1; U udział łącznej wartości aktywów netto funduszy inwestycyjnych, funduszy emerytalnych i subfunduszy będących funduszami zdefiniowanej daty zarządzanych przez to samo towarzystwo funduszy inwestycyjnych, PTE, pracownicze towarzystwo emerytalne lub zakład ubezpieczeń, oraz zarządzanych przez inne towarzystwa funduszy inwestycyjnych, PTE, pracownicze towarzystwa emerytalne lub zakłady ubezpieczeń wchodzące skład tej samej grupy kapitałowej, wartości aktywów netto wszystkich funduszy inwestycyjnych, funduszy emerytalnych lub subfunduszy będących funduszami zdefiniowanej daty, określony według wartości na koniec kwartału. drugiego kwartału następującego po kwartale, na koniec którego łączna wartość aktywów netto funduszy inwestycyjnych, funduszy emerytalnych i subfunduszy zarządzanych przez to samo towarzystwo funduszy inwestycyjnych, PTE, pracownicze towarzystwo emerytalne lub zakład ubezpieczeń oraz zarządzanych przez inne towarzystwa funduszy inwestycyjnych, PTE, pracownicze towarzystwa emerytalne lub zakłady ubezpieczeń wchodzące skład tej samej grupy kapitałowej, przewyższa 15 % wartości aktywów netto wszystkich funduszy inwestycyjnych, funduszy emerytalnych lub subfunduszy będących funduszami zdefiniowanej daty.
 
 7. W przypadku, którym na koniec kolejnego kwartału wartość aktywów netto funduszy inwestycyjnych, funduszy emerytalnych lub subfunduszy będących funduszami zdefiniowanej daty zarządzanych przez to samo towarzystwo funduszy inwestycyjnych, PTE, pracownicze towarzystwo emerytalne lub zakład ubezpieczeń, oraz zarządzanych przez inne towarzystwa funduszy inwestycyjnych, PTE, pracownicze towarzystwa emerytalne lub zakłady ubezpieczeń wchodzące skład tej samej grupy kapitałowej, obniży się poniżej 15 % wartości aktywów netto wszystkich funduszy inwestycyjnych, funduszy emerytalnych lub subfunduszy gromadzących środki PPK, towarzystwo funduszy inwestycyjnych, PTE, pracownicze towarzystwo emerytalne lub zakład ubezpieczeń jest uprawnione do ponownego pobierania pełnej wysokości, bez ograniczenia, którym mowa ust. 6, wynagrodzenia od wartości aktywów netto, którym mowa ust. 1, począwszy od drugiego kwartału następującego po kwartale, którym wartość aktywów netto na koniec poprzedniego kwartału obniżyła się poniżej 15 % wartości aktywów netto wszystkich funduszy inwestycyjnych, funduszy emerytalnych lub subfunduszy gromadzących środki PPK.
 
@@ -794,8 +775,8 @@ pracowniczych planach kapitałowych
 - **2)** prowizje i opłaty związane z umowami i transakcjami funduszu zdefiniowanej daty, zawieranymi ramach lokowania aktywów funduszu zdefiniowanej daty;
 - **3)** prowizje i opłaty związane z przechowywaniem aktywów funduszu zdefiniowanej daty;
 - **4)** prowizje i opłaty na rzecz instytucji depozytowych i rozliczeniowych, z których usług fundusz zdefiniowanej daty korzysta ramach lokowania aktywów funduszu zdefiniowanej daty;
-- **5)** wynagrodzenie depozytariusza funduszu zdefiniowanej daty;
 - **6)** związane z prowadzeniem rejestru uczestników funduszu inwestycyjnego będącego funduszem zdefiniowanej daty, subrejestru uczestników subfunduszu będącego funduszem zdefiniowanej daty wydzielonego funduszu inwestycyjnym z wydzielonymi subfunduszami, lub rejestru członków funduszu emerytalnego będącego funduszem zdefiniowanej daty;
+- **7)** podatki i opłaty, wymagane związku z działalnością funduszu zdefiniowanej daty, tym opłaty za zezwolenia, jeżeli obowiązek ich poniesienia wynika z przepisów prawa;
 - **8)** ogłoszeń wymaganych związku z działalnością funduszu zdefiniowanej daty postanowieniami statutu funduszu inwestycyjnego, statutu funduszu emerytalnego, regulaminu ubezpieczeniowego funduszu kapitałowego lub przepisami prawa;
 - **9)** druku i publikacji materiałów informacyjnych funduszu zdefiniowanej daty wymaganych przepisami prawa;
 - **10)** likwidacji funduszu zdefiniowanej daty;
@@ -899,6 +880,10 @@ pracowniczych planach kapitałowych
 
 **Art. 57.** PFR podaje do publicznej wiadomości portalu PPK, którym mowa rozdziale 11, informację o:
 
+- **1)** wyznaczonej instytucji finansowej;
+- **2)** zmianie wyznaczonej instytucji finansowej;
+- **3)** terminie rozpoczęcia wykonywania obowiązków wyznaczonej instytucji finansowej. Ewidencja Pracowniczych Planów Kapitałowych
+
 **Art. 58.**
 
 1. Tworzy się Ewidencję Pracowniczych Planów Kapitałowych, zwaną dalej „ewidencją PPK”.
@@ -937,7 +922,7 @@ pracowniczych planach kapitałowych
 
 5. Po bezskutecznym upływie terminu, którym mowa ust. 4, PFR pisemnie informuje braku możliwości umieszczenia towarzystwa funduszy inwestycyjnych, PTE, pracowniczego towarzystwa emerytalnego lub zakładu ubezpieczeń ewidencji PPK.
 
-6. Od informacji, której mowa ust. 5, przysługuje odwołanie do organu nadzoru.
+6. Od informacji, której mowa ust. 5, przysługuje odwołanie do organu nadzoru. wania administracyjnego (Dz. U. z 2025 r. poz. 1691).
 
 8. Organ nadzoru po rozpatrzeniu odwołania, którym mowa ust. 6:
 
@@ -1073,6 +1058,20 @@ pracowniczych planach kapitałowych
 
 **Art. 72.** Ewidencja podmiotów zatrudniających, które zawarły umowy zarządzanie PPK, obejmuje:
 
+- **1)** numer podmiotu zatrudniającego ewidencji PPK;
+- **2)** nazwę podmiotu zatrudniającego;
+- **3)** numer identyfikacyjny podmiotu zatrudniającego i instytucji finansowej;
+- **4)** serię i numer dokumentu tożsamości lub paszportu osoby fizycznej będącej podmiotem zatrudniającym, jeżeli nie nadano jej NIP;
+- **5)** adres siedziby podmiotu zatrudniającego;
+- **6)** adres do korespondencji podmiotu zatrudniającego.
+- **1)** numer podmiotu zatrudniającego ewidencji PPK;
+- **2)** datę zawarcia umowy zarządzanie PPK;
+- **3)** nazwę podmiotu zatrudniającego i instytucji finansowej;
+- **4)** numer identyfikacyjny podmiotu zatrudniającego;
+- **5)** serię i numer dokumentu tożsamości lub paszportu osoby fizycznej będącej podmiotem zatrudniającym, jeżeli nie nadano jej NIP;
+- **6)** adres siedziby podmiotu zatrudniającego i instytucji finansowej;
+- **7)** adres do korespondencji podmiotu zatrudniającego i instytucji finansowej.
+
 **Art. 74.**
 
 1. Ewidencję uczestników PPK tworzy się na podstawie danych wynikających z zapisów na rachunkach PPK uczestników PPK.
@@ -1095,7 +1094,7 @@ pracowniczych planach kapitałowych
     - **e)** wypłat transferowych, których mowa art. 102,
     - **f)** zwrotów, których mowa art. 80 ust. 2, art. 85 ust. 4, art. 86 ust. 2 i art. 105 podziale na jednostki uczestnictwa funduszu inwestycyjnego lub jednostki uczestnictwa ubezpieczeniowych funduszy kapitałowych nabyte z wpłat finansowanych przez uczestnika PPK, wpłat finansowanych przez podmiot zatrudniający i wpłaty powitalnej oraz dopłat rocznych albo na jednostki rozrachunkowe, na które zostały przeliczone wpłaty finansowane przez osobę zatrudnioną, podmiot zatrudniający oraz wpłata powitalna i dopłaty roczne;
 
-- **10)** datę złożenia podmiotowi zatrudniającemu deklaracji, której mowa art. 23 ust. 2;
+- **10)** datę złożenia podmiotowi zatrudniającemu deklaracji, której mowa art. 23 ust. 2; uczestnika PPK, którym mowa art. 23 ust. 7;
 - **12)** datę złożenia podmiotowi zatrudniającemu wniosku, którym mowa art. 23 ust. 10;
 - **13)** (uchylony)
 
@@ -1130,7 +1129,7 @@ pracowniczych planach kapitałowych
 
 - **1)** prezentowanie portalu PPK towarzystw funduszy inwestycyjnych, PTE, pracowniczych towarzystw emerytalnych lub zakładów ubezpieczeń umieszczonych ewidencji PPK oraz funduszy zdefiniowanej daty przez nie zarządzanych;
 - **2)** informowanie osób zatrudnionych, uczestników PPK oraz osób uprawnionych, a także innych osób, którym zgodnie z ustawą mogą zostać wypłacone środki zgromadzone na rachunkach PPK, na ich wniosek, funkcjonowaniu PPK, tym warunkach uczestnictwa oraz uprawnieniach wynikających z uczestnictwa PPK;
-- **3)** informowanie podmiotów zatrudniających, na ich wniosek, obowiązkach i uprawnieniach wynikających z funkcjonowania PPK;
+- **3)** informowanie podmiotów zatrudniających, na ich wniosek, obowiązkach i uprawnieniach wynikających z funkcjonowania PPK; PPK uczestnika PPK;
 - **5)** prezentowanie ofert instytucji finansowych, tym warunków umów zarządzanie PPK i umów prowadzenie PPK, statutów (regulaminów), kluczowych informacji dla inwestorów, dokumentów zawierających kluczowe informacje lub innych materiałów informacyjnych dotyczących działalności towarzystw funduszy inwestycyjnych, PTE, pracowniczych towarzystw emerytalnych lub zakładów ubezpieczeń zakresie PPK;
 - **6)** upowszechnianie wiedzy funkcjonowaniu PPK, tym organizowanie szkoleń i konferencji na temat PPK.
 
@@ -1165,7 +1164,7 @@ pracowniczych planach kapitałowych
 
 2. W przypadku gdy były małżonek uczestnika PPK nie jest stroną umowy prowadzenie PPK, środki zgromadzone na rachunku PPK uczestnika PPK, przypadające mu wyniku podziału majątku wspólnego małżonków, podlegają zwrotowi formie pieniężnej albo są przekazywane formie wypłaty transferowej na wskazany przez byłego małżonka uczestnika PPK rachunek terminowej lokaty oszczędnościowej lub na wskazany przez niego rachunek lokaty terminowej prowadzony spółdzielczej kasie oszczędnościowo-kredytowej, pod warunkiem ich wypłaty po osiągnięciu przez byłego małżonka uczestnika PPK 60. roku życia. Do wypłaty środków z tej lokaty stosuje się odpowiednio art. 99 ust. 1. W przypadku zwrotu tych środków przed osiągnięciem przez byłego małżonka uczestnika PPK 60. roku życia, stosuje się odpowiednio przepisy art. 83.
 
-3. Zwrot następuje terminie 3 miesięcy od dnia przedstawienia dowodu, że środki zgromadzone na rachunku PPK uczestnika PPK przypadły byłemu małżonkowi uczestnika PPK. zgromadzone na rachunku PPK uczestnika PPK przypadły byłemu małżonkowi uczestnika PPK.
+3. Zwrot następuje terminie 3 miesięcy od dnia przedstawienia dowodu, że środki zgromadzone na rachunku PPK uczestnika PPK przypadły byłemu małżonkowi uczestnika PPK. środki PPK przez uczestnika PPK, terminie 3 miesięcy od dnia złożenia wniosku i przedstawienia dowodu, że środki zgromadzone na rachunku PPK uczestnika PPK przypadły byłemu małżonkowi uczestnika PPK.
 
 **Art. 82.** Jeżeli były małżonek uczestnika PPK jest stroną więcej niż jednej umowy prowadzenie PPK, wypłaty transferowej dokonuje się na rachunek PPK wskazany przez tego byłego małżonka uczestnika PPK we wniosku.
 
@@ -1184,9 +1183,9 @@ pracowniczych planach kapitałowych
 3. Kwota, której mowa ust. 1:
 
 - **1)** pkt 1 stanowi przychód Funduszu Ubezpieczeń Społecznych;
-- **2)** pkt 2 i 3 stanowi przychód Funduszu Pracy.
+- **2)** pkt 2 i 3 stanowi przychód Funduszu Pracy. mowa art. 47 ust. 4a ustawy z dnia 13 października 1998 r. systemie ubezpieczeń społecznych.
 
-4. Kwotę, której mowa ust. 1 pkt 1, instytucja finansowa przekazuje przy użyciu dokumentów płatniczych, których mowa art. 47 ust. 4a ustawy z dnia 13 października 1998 r. systemie ubezpieczeń społecznych. mowa art. 40 ust. 1 ustawy z dnia 13 października 1998 r. systemie ubezpieczeń społecznych, jako składka na ubezpieczenie emerytalne należna za miesiąc, którym kwota ta została przekazana do ZUS.
+5. Informacja kwocie, której mowa ust. 1 pkt 1, ewidencjonowana jest na koncie ubezpieczonego, którym mowa art. 40 ust. 1 ustawy z dnia 13 października 1998 r. systemie ubezpieczeń społecznych, jako składka na ubezpieczenie emerytalne należna za miesiąc, którym kwota ta została przekazana do ZUS.
 
 6. Instytucja finansowa przekazuje do ewidencji PPK informacje dokonanych zwrotach ze wskazaniem kwoty zwrotu podziale na zwrot z wpłat osoby zatrudnionej, podmiotu zatrudniającego oraz wpłaty powitalnej i dopłat rocznych.
 
@@ -1291,6 +1290,9 @@ pracowniczych planach kapitałowych
 - **2)** subfunduszem zdefiniowanej daty wydzielonym funduszu inwestycyjnym z wydzielonymi subfunduszami, którego organem jest to samo towarzystwo funduszy inwestycyjnych.
 
 **Art. 89.** Przekształcenie funduszu zdefiniowanej daty będącego funduszem inwestycyjnym może polegać wyłącznie na:
+
+- **1)** przekształceniu funduszy zdefiniowanej daty jeden specjalistyczny fundusz inwestycyjny otwarty z wydzielonymi subfunduszami, będącymi subfunduszami zdefiniowanej daty;
+- **2)** przekształceniu funduszu zdefiniowanej daty nowy subfundusz zdefiniowanej daty istniejącego specjalistycznego funduszu inwestycyjnego otwartego z wydzielonymi subfunduszami.
 
 **Art. 90.**
 
@@ -1483,7 +1485,7 @@ pracowniczych planach kapitałowych
 
 - **1)** indywidualny identyfikator uczestnika PPK ewidencji PPK;
 - **2)** dane identyfikujące uczestnika PPK;
-- **3)** dane identyfikujące podmiot zatrudniający: nazwę, NIP, adres siedziby i adres do korespondencji bądź adres zamieszkania i adres wykonywania działalności gospodarczej;
+- **3)** dane identyfikujące podmiot zatrudniający: nazwę, NIP, adres siedziby i adres do korespondencji bądź adres zamieszkania i adres wykonywania działalności gospodarczej; są środki PPK: nazwę, NIP, adres siedziby i adres do korespondencji;
 - **5)** wysokość i daty wpłat ciągu każdego roku kalendarzowego z podziałem na wpłaty z tytułu wpłat podstawowych i wpłat dodatkowych finansowanych przez podmiot zatrudniający i uczestnika PPK;
 - **6)** wysokość i daty wypłat transferowych przyjętych przez instytucję finansową, która sporządza informację, oraz dane identyfikujące zakład ubezpieczeń, fundusz inwestycyjny, fundusz emerytalny i subfundusz dokonujący tych wypłat transferowych;
 - **7)** wysokość i datę dokonywanej wypłaty transferowej oraz dane identyfikujące zakład ubezpieczeń, fundusz inwestycyjny, fundusz emerytalny i subfundusz, do którego dokonywana jest wypłata transferowa;
@@ -1509,7 +1511,7 @@ pracowniczych planach kapitałowych
 3. Kwota, której mowa ust. 2:
 
 - **1)** pkt 1, stanowi przychód Funduszu Ubezpieczeń Społecznych;
-- **2)** pkt 4, stanowi przychód Funduszu Pracy.
+- **2)** pkt 4, stanowi przychód Funduszu Pracy. mowa art. 47 ust. 4a ustawy z dnia 13 października 1998 r. systemie ubezpieczeń społecznych.
 
 5. Informacja kwocie, której mowa ust. 2 pkt 1, ewidencjonowana jest na koncie ubezpieczonego, którym mowa art. 40 ust. 1 ustawy z dnia 13 października 1998 r. systemie ubezpieczeń społecznych, jako składka na ubezpieczenie emerytalne należna za miesiąc, którym kwota ta została przekazana do ZUS.
 
@@ -1525,6 +1527,11 @@ pracowniczych planach kapitałowych
 **Art. 106.** Kto, jako podmiot zatrudniający albo osoba obowiązana do działania imieniu podmiotu zatrudniającego, nie dopełnia obowiązku zawarcia umowy zarządzanie PPK przewidzianym przepisami terminie, podlega karze grzywny wysokości do 1,5 % funduszu wynagrodzeń u danego podmiotu zatrudniającego roku obrotowym poprzedzającym popełnienie czynu zabronionego.
 
 **Art. 107.** Kto, jako podmiot zatrudniający albo osoba obowiązana do działania imieniu podmiotu zatrudniającego:
+
+- **1)** nie dopełnia obowiązku zawarcia imieniu i na rzecz osoby zatrudnionej umowy prowadzenie PPK przewidzianym terminie,
+- **2)** nie dopełnia obowiązku dokonywania wpłat do PPK przewidzianym przepisami terminie,
+- **3)** nie zgłasza wymaganych ustawą danych lub zgłasza nieprawdziwe dane albo udziela tych sprawach nieprawdziwych wyjaśnień lub odmawia ich udzielenia,
+- **4)** nie prowadzi dokumentacji związanej z obliczaniem wpłat do PPK podlega karze grzywny wysokości od 1000 zł do 1 000 000 zł.
 
 **Art. 108.** Kto, jako podmiot zatrudniający albo osoba upoważniona do działania imieniu podmiotu zatrudniającego lub działająca z inicjatywy tego podmiotu, nakłania osobę zatrudnioną lub uczestnika PPK do rezygnacji z oszczędzania PPK, podlega karze grzywny wysokości do 1,5 % funduszu wynagrodzeń u danego podmiotu zatrudniającego roku obrotowym poprzedzającym popełnienie czynu zabronionego.
 

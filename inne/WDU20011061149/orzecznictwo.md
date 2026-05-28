@@ -3,7 +3,6 @@
 Orzeczenia powołujące: *Ustawa z dnia 24 sierpnia 2001 r. Przepisy wprowadzające Kodeks postępowania w sprawach o wykroczenia.*
 
 Łącznie: **6** orzeczeń
-(pominięto 4 orzeczeń sądów rejonowych)
 
 ## art. 2 § 1 (1)
 

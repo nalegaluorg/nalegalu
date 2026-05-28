@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 20 lipca 2000 r. o zmianie ustawy - Kodeks postępowania karnego, ustawy - Przepisy wprowadzające Kodeks postępowania karnego oraz ustawy - Kodeks karny skarbowy.*
 
-Łącznie: **8** orzeczeń
+Łącznie: **6** orzeczeń
 
 ## art. 1 (1)
 
@@ -27,20 +27,4 @@ Orzeczenia powołujące: *Ustawa z dnia 20 lipca 2000 r. o zmianie ustawy - Kode
 ## art. 451 (1)
 
 - 2001-05-15 | SN | [V KKN 517/00](https://www.saos.org.pl/judgments/80585) | Wyrok ★
-
-## art. 523 (1)
-
-- 2015-09-04 | SN | [IV KZ 55/15](https://www.saos.org.pl/judgments/243225) | Postanowienie
-
-## art. 523 § 2 (1)
-
-- 2016-01-27 | SN | [III KZ 87/15](https://www.saos.org.pl/judgments/244441) | Postanowienie
-
-## art. 523 § 3 (1)
-
-- 2016-01-27 | SN | [III KZ 87/15](https://www.saos.org.pl/judgments/244441) | Postanowienie
-
-## § 2 (1)
-
-- 2015-09-04 | SN | [IV KZ 55/15](https://www.saos.org.pl/judgments/243225) | Postanowienie
 

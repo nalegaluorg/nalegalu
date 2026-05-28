@@ -8,12 +8,10 @@ pos: 1153
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# nadzorze ubezpieczeniowym i emerytalnym (oznaczenie rozdziału 1 i tytuł – uchylone)
-
-*USTAWA dnia 22 maja 2003 r.*
+# Ustawa z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym oraz Rzeczniku Ubezpieczonych
 
 | Pole | Wartość |
 |---|---|
@@ -24,58 +22,203 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2003-05-22 |
 | Data wydania | 2003-07-16 |
+| Wejście w życie | 2004-01-01 |
 | Ostatnia zmiana | 2025-11-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031241153) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1153/text.pdf) |
 
-1. Ustawa określa organizację ubezpieczeniowego i emerytalnego.
-2. 1. Nadzorem ubezpieczeniowym i emerytalnym, zwanym dalej „nadzorem”, jest objęta działalność:
-1) ubezpieczeniowa i reasekuracyjna, której mowa przepisach działalności ubezpieczeniowej i reasekuracyjnej;
-2) pośrednictwa ubezpieczeniowego, której mowa przepisach pośrednictwie ubezpieczeniowym;
-3) funduszy emerytalnych, której mowa przepisach organizacji i funkcjonowaniu funduszy emerytalnych;
-4) pracowniczych programów emerytalnych, której mowa przepisach pracowniczych programach emerytalnych;
-której mowa przepisach ogólnoeuropejskim indywidualnym produkcie emerytalnym.
-2. Nadzorowi podlegają podmioty prowadzące działalność zakresie, którym mowa ust. 1, szczególności zakłady ubezpieczeń, zakłady reasekuracji, pośrednicy ubezpieczeniowi, fundusze emerytalne i towarzystwa emerytalne, zwane dalej „podmiotami nadzorowanymi”.
-3. Organem jest Komisja Nadzoru Finansowego, której mowa ustawie dnia 21 lipca 2006 r. nadzorze nad rynkiem finansowym (Dz. U. 2025 r. poz. 640 i 1069), zwana dalej „Komisją”.
-3. Celem jest ochrona interesów osób ubezpieczających, ubezpieczonych, uposażonych lub uprawnionych umów ubezpieczenia, członków funduszy emerytalnych, uczestników pracowniczych programów emerytalnych, osób otrzymujących emeryturę kapitałową lub osób przez nie uposażonych.
-4. 1. W celu realizacji ustawowych organ współpracuje szczególności Prezesem Urzędu Ochrony Konkurencji i Konsumentów oraz organami innych państw.
-2. Komisja współpracuje Szefem Krajowego Centrum Informacji Kryminalnych niezbędnym do realizacji jego ustawowych.
-4a. (uchylony)
-5. (uchylony)
-6. (uchylony) (oznaczenie rozdziału 2 i tytuł – uchylone)
-7. (uchylony)
-8. 1. Zadaniem Komisji jest:
-1) podejmowanie odrębnych przepisach działań mających celu zapewnienie zgodności działalności podmiotów nadzorowanych przepisami prawa;
-14. 1. Koszty ponoszą:
-1) zakłady ubezpieczeń i zakłady reasekuracji do wysokości 0,14 % zbioru składek brutto;
-2) powszechne towarzystwa emerytalne wysokości stanowiącej iloczyn średniej rocznej wartości aktywów otwartego funduszu emerytalnego zarządzanego przez dane powszechne towarzystwo emerytalne i stawki nieprzekraczającej 0,016 %;
-średnią roczną wartość aktywów otwartego funduszu emerytalnego wylicza się podstawie wartości aktywów otwartego funduszu emerytalnego ustalanej ostatni dzień roboczy każdego miesiąca danego roku kalendarzowego.
-1a. Z wpłat, których mowa ust. 1 pkt 1, pokrywa się także 1,5 % wartości kosztów, których mowa art. 17 ust. 1 ustawy dnia 29 lipca 2005 r. nadzorze nad rynkiem kapitałowym (Dz. U. 2024 r. poz. 1161 i 1222 oraz 2025 r. poz. 146 i 1069).
-2. Należności, których mowa ust. 1, podlegają egzekucji trybie przepisów postępowaniu egzekucyjnym administracji.
-3. Prezes Rady Ministrów określi, drodze rozporządzenia, terminy uiszczania, wysokość i sposób obliczania wpłat, których mowa ust. 1, oraz sposób pokrywania wpłat, których mowa ust. 1, kosztów nadzoru, a odniesieniu do wpłat, których mowa ust. 1 pkt 1, także sposób pokrywania udziału kosztach, których mowa ust. 1a, mając względzie zapewnienie skuteczności sprawowanego nadzoru.
-4. (uchylony)
-15. (uchylony)
-16. (uchylony)
-17. 1. Komisja może zawierać organami ubezpieczeniowego i emerytalnego innych państw porozumienia współdziałaniu nadzoru.
-2. Komisja może udzielać organom nadzorującym działalność instytucji finansowych innych państwach informacji posiadanych związku uprzednim uzyskaniu zgody Komisji.
-2a. Komisja może występować do organów nadzorujących działalność instytucji finansowych państw członkowskich Unii udostępnienie informacji potrzebnych do wykonywania nadzoru.
-2b. Informacje uzyskane trybie, którym mowa ust. 2a, Komisja może:
-1) wykorzystać wyłącznie potrzeby wykonywania nadzoru;
-2) przekazać poza Komisję wyłącznie po uprzednim uzyskaniu zgody organu, który je udostępnił i udzielonej zgody.
-3. Komisja:
-1) udziela właściwym organom innych niż Rzeczpospolita Polska państw członkowskich Unii informacji sprawach dystrybucji ubezpieczeń i dystrybucji reasekuracji, szczególności dotyczących zastosowanych środków, których mowa art. 84 ust. 1 i 2 ustawy dnia 15 grudnia 2017 r. dystrybucji ubezpieczeń (Dz. U. 2024 r. poz. 1214 oraz 2025 r. poz. 1069), oraz informacji art. 19 ust. 1 pkt 3 i 5 i art. 34 ust.
-4 pkt 1 lit. e i f albo ust. 8 lub 9 tej ustawy;
-2) może występować do właściwych organów innych niż Rzeczpospolita Polska państw członkowskich Unii udzielenie informacji sprawach dystrybucji ubezpieczeń i dystrybucji reasekuracji, szczególności dotyczących zastosowanych przez te organy środków analogicznym do środków, których mowa art. 84 ust. 1 i 2 ustawy dnia 15 grudnia 2017 r. dystrybucji ubezpieczeń, oraz informacji spełniania przez osoby wykonujące tych państwach działalność pośrednictwa ubezpieczeniowego wymogów dotyczących posiadania przez nie dobrej reputacji oraz wiedzy fachowej i kompetencji zawodowych.
-4. W przypadku organów państw niebędących państwami członkowskimi Unii udzielanie informacji, zasadach ust. 2, może następować wyłącznie zasadzie wzajemności.
-5. Komisja może udzielać zagranicznym organom państw członkowskich Unii instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi skład konglomeratu finansowego (Dz. U. 2020 r.
-poz. 1413).
-6. Komisja może udzielać informacji posiadanych związku wykonywaniem ustawowych bankom centralnym lub innym instytucjom państw członkowskich Unii wykonującym zadania polityki monetarnej oraz innym organom publicznym wykonującym zadania nad systemami płatności, jeżeli informacje te zostaną wykorzystane wyłącznie potrzeby wykonywanych przez te podmioty. Przekazywanie udzielonych informacji poza te podmioty następuje wyłącznie po uprzednim uzyskaniu zgody Komisji.
-18. (uchylony)
-31. (pominięty)
-32. (pominięty)
-33. (pominięty) (oznaczenie rozdziału 5 i tytuł – uchylone)
-34. (pominięty)
-35. (pominięty)
-36. Ustawa wchodzi życie dniem 1 stycznia 2004 r.
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 3 (uchylony) (oznaczenie rozdziału 4 i tytuł – uchylone)
+**Art. 1.** Ustawa określa organizację nadzoru ubezpieczeniowego i emerytalnego oraz zasady działania Rzecznika Ubezpieczonych.
+
+**Art. 2.**
+
+1. Nadzorem ubezpieczeniowym i emerytalnym, zwanym dalej „nadzorem”, jest objęta działalność:
+
+- **1)** ubezpieczeniowa, o której mowa w przepisach o działalności ubezpieczeniowej;
+- **2)** w zakresie pośrednictwa ubezpieczeniowego, o której mowa w przepisach o pośrednictwie ubezpieczeniowym;
+- **3)** w zakresie funduszy emerytalnych, o której mowa w przepisach o organizacji i funkcjonowaniu funduszy emerytalnych;
+- **4)** w zakresie pracowniczych programów emerytalnych, o której mowa w przepisach o pracowniczych programach emerytalnych.
+
+2. Nadzorowi podlegają podmioty prowadzące działalność w zakresie, o którym mowa w ust. 1, w szczególności zakłady ubezpieczeń, pośrednicy ubezpieczeniowi, fundusze emerytalne i towarzystwa emerytalne, zwane dalej „podmiotami nadzorowanymi”.
+
+3. Organem nadzoru jest Komisja Nadzoru Ubezpieczeń i Funduszy Emerytalnych, zwana dalej „Komisją”.
+
+**Art. 3.** Celem nadzoru jest ochrona interesów osób ubezpieczających, ubezpieczonych, uposażonych lub uprawnionych z umów ubezpieczenia, członków funduszy emerytalnych oraz uczestników pracowniczych programów emerytalnych.
+
+**Art. 4.**
+
+1. W celu realizacji ustawowych zadań Komisja współpracuje w szczególności z Komisją Nadzoru Bankowego, Komisją Papierów Wartościowych i Giełd, Prezesem Urzędu Ochrony Konkurencji i Konsumentów oraz z organami nadzoru ubezpieczeniowego lub emerytalnego innych państw.
+
+2. Komisja współpracuje z Szefem Krajowego Centrum Informacji Kryminalnych w zakresie niezbędnym do realizacji jego zadań ustawowych.
+
+**Art. 5.**
+
+1. Rzecznik Ubezpieczonych reprezentuje interesy osób ubezpieczających, ubezpieczonych, uposażonych lub uprawnionych z umów ubezpieczenia, członków funduszy emerytalnych i uczestników pracowniczych programów emerytalnych.
+
+2. W celu realizacji ustawowych zadań Rzecznik Ubezpieczonych współpracuje w szczególności z krajowymi i zagranicznymi organizacjami konsumenckimi oraz z Rzecznikiem Praw Obywatelskich.
+
+**Art. 6.**
+
+1. Rzecznik Ubezpieczonych posiada osobowość prawną.
+
+2. Siedzibą Rzecznika Ubezpieczonych jest Warszawa.
+
+#### Rozdział 2 Organizacja i zasady działania Komisji
+
+**Art. 7.**
+
+1. Komisja jest centralnym organem administracji rządowej.
+
+2. Nadzór nad Komisją sprawuje minister właściwy do spraw instytucji finansowych.
+
+**Art. 8.**
+
+1. Zadaniem Komisji jest:
+
+- **1)** podejmowanie określonych w odrębnych przepisach działań mających na celu zapewnienie zgodności działalności podmiotów nadzorowanych z przepisami prawa;
+- **2)** kontrola działalności i stanu majątkowego podmiotów nadzorowanych;
+- **3)** podejmowanie innych zadań określonych ustawami.
+
+2. Zakres nadzoru i szczegółowe zadania Komisji określają odrębne przepisy.
+
+**Art. 9.**
+
+1. W skład Komisji wchodzą:
+
+- **1)** Przewodniczący Komisji powoływany przez Prezesa Rady Ministrów na wspólny wniosek ministra właściwego do spraw instytucji finansowych i ministra właściwego do spraw zabezpieczenia społecznego – na pięcioletnią kadencję;
+- **2)** zastępcy Przewodniczącego Komisji – przedstawiciele wyznaczeni przez: ministra właściwego do spraw instytucji finansowych, ministra właściwego do spraw zabezpieczenia społecznego;
+    - **a)**
+    - **b)**
+
+- **3)** Przewodniczący Komisji Papierów Wartościowych i Giełd albo wyznaczony przez niego zastępca przewodniczącego;
+- **4)** Prezes Urzędu Ochrony Konkurencji i Konsumentów albo wyznaczony przez niego wiceprezes.
+
+2. W posiedzeniu Komisji, z głosem doradczym, uczestniczą: przedstawiciel Prezydenta Rzeczypospolitej Polskiej, Rzecznik Ubezpieczonych oraz Generalny Inspektor Nadzoru Bankowego.
+
+**Art. 10.**
+
+1. Przewodniczącym Komisji może być osoba posiadająca:
+
+- **1)** wyłącznie obywatelstwo polskie;
+- **2)** wyższe wykształcenie prawnicze, ekonomiczne lub matematyczne;
+- **3)** co najmniej czteroletnie doświadczenie w zakresie obejmującym funkcjonowanie sektora ubezpieczeń, funduszy emerytalnych, rynku kapitałowego lub sektora bankowego.
+
+2. Przewodniczący Komisji może być odwołany przez Prezesa Rady Ministrów przed upływem kadencji z następujących przyczyn:
+
+- **1)** złożenia rezygnacji;
+- **2)** niewypełnienia obowiązków na skutek długotrwałej choroby trwającej ponad 6 miesięcy, stwierdzonej orzeczeniem lekarskim;
+- **3)** rażącego naruszenia interesów osób ubezpieczających, ubezpieczonych, uposażonych lub uprawnionych z umów ubezpieczenia, członków funduszy emerytalnych lub uczestników pracowniczych programów emerytalnych;
+- **4)** rażącego naruszenia Konstytucji Rzeczypospolitej Polskiej lub ustaw;
+- **5)** skazania prawomocnym wyrokiem za umyślne przestępstwo.
+
+3. W przypadku śmierci Przewodniczącego Komisji jego kadencja wygasa.
+
+4. Ta sama osoba nie może być Przewodniczącym Komisji dłużej niż przez dwie kolejne kadencje.
+
+5. Przewodniczący Komisji kieruje pracami Komisji i reprezentuje Komisję na zewnątrz.
+
+**Art. 11.**
+
+1. Komisja podejmuje rozstrzygnięcia, w tym wydaje decyzje i postanowienia określone w przepisach odrębnych, w drodze uchwały.
+
+2. Uchwały podpisuje w imieniu Komisji Przewodniczący Komisji, a w przypadku jego nieobecności, upoważniony przez niego Zastępca Przewodniczącego Komisji.
+
+3. Komisja podejmuje uchwały zwykłą większością głosów w obecności co najmniej trzech osób wchodzących w skład Komisji.
+
+4. Szczegółową organizację i tryb pracy Komisji określa regulamin Komisji uchwalony przez Komisję.
+
+**Art. 12.**
+
+1. Komisja może upoważnić Przewodniczącego Komisji, zastępców Przewodniczącego Komisji oraz pracowników Urzędu Komisji do podejmowania działań w zakresie właściwości Komisji, w tym do wydawania postanowień i decyzji administracyjnych, z wyłączeniem wydawania określonych w przepisach odrębnych rozstrzygnięć co do istoty sprawy, w sprawach dotyczących:
+
+- **1)** wydawania i cofania zezwolenia na wykonywanie działalności ubezpieczeniowej;
+- **2)** wydawania zgody na powołanie osób na członków zarządu;
+- **3)** połączenia i podziału zakładów ubezpieczeń;
+- **4)** przeniesienia portfela ubezpieczeń;
+- **5)** wydawania zezwolenia na nabycie lub objęcie akcji zakładu ubezpieczeń;
+- **6)** likwidacji przymusowej zakładu ubezpieczeń;
+- **7)** ustanowienia zarządu komisarycznego zakładu ubezpieczeń;
+- **8)** występowania z wnioskiem o ogłoszenie upadłości zakładu ubezpieczeń;
+- **9)** wydawania zezwolenia na utworzenie funduszu emerytalnego i towarzystwa emerytalnego;
+- **10)** cofania zezwolenia na utworzenie towarzystwa emerytalnego;
+- **11)** wydawania zezwolenia na przejęcie zarządzania funduszem emerytalnym oraz połączenie towarzystw emerytalnych;
+- **12)** wydawania zezwolenia na nabycie lub objęcie akcji towarzystwa emerytalnego;
+- **13)** wydawania zezwolenia na zmianę statutu funduszu emerytalnego oraz zmianę statutu towarzystwa emerytalnego;
+- **14)** likwidacji pracowniczego funduszu emerytalnego;
+- **15)** nadawania decyzji rygoru natychmiastowej wykonalności;
+- **16)** kar pieniężnych nakładanych na towarzystwa emerytalne, zakłady ubezpieczeń lub członków ich organów, oraz zawieszania członków zarządu, występowania z wnioskiem o odwołanie członka zarządu lub odwołanie udzielonej prokury lub występowania o zwołanie posiedzenia walnego zgromadzenia, rady nadzorczej lub zarządu.
+
+2. Pełnomocnictwo, o którym mowa w ust. 1, może upoważniać, w zakresie określonym przez Komisję, do udzielania dalszych pełnomocnictw pracownikom Urzędu Komisji.
+
+**Art. 13.**
+
+1. Obsługę Komisji zapewnia Urząd Komisji, zwany dalej „Urzędem”.
+
+2. Urzędem kieruje Przewodniczący Komisji.
+
+3. Organizację Urzędu określa statut Urzędu, nadany w drodze zarządzenia, przez ministra właściwego do spraw instytucji finansowych w porozumieniu z ministrem właściwym do spraw zabezpieczenia społecznego.
+
+4. Wynagrodzenia i premie Przewodniczącego Komisji i jego zastępców oraz pracowników Urzędu są finansowane z wpłat, o których mowa w art. 14.
+
+5. Minister właściwy do spraw instytucji finansowych określa, w drodze rozporządzenia, szczegółowe zasady kształtowania wielkości środków przeznaczonych na premie dla Przewodniczącego Komisji i jego zastępców oraz ustalania wysokości tych premii, a także szczegółowe zasady kształtowania wielkości środków na wynagrodzenia i premie dla pracowników Urzędu oraz ustalania wysokości tych wynagrodzeń i premii, uwzględniając w szczególności organizację Urzędu, konieczność zapewnienia właściwej realizacji zadań Komisji i Urzędu w zakresie sprawowanego nadzoru oraz poziom płac w instytucjach nadzorowanych.
+
+**Art. 14.**
+
+1. Koszty nadzoru ponoszą:
+
+- **1)** zakłady ubezpieczeń do wysokości 0,14 % zbioru składek brutto;
+- **2)** powszechne towarzystwa emerytalne do wysokości 0,14 % składek wpłaconych w danym roku do zarządzanych przez nie otwartych funduszy emerytalnych.
+
+2. Należności, o których mowa w ust. 1, podlegają egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji.
+
+3. Minister właściwy do spraw instytucji finansowych określa, w drodze rozporządzenia, terminy uiszczania, wysokość i sposób obliczania wpłat, o których mowa w ust. 1, uwzględniając zapewnienie skuteczności sprawowanego nadzoru.
+
+4. W przypadku niedotrzymania terminu uiszczania wpłat, ustalonego na podstawie ust. 3, pobiera się odsetki za zwłokę w wysokości odsetek ustawowych.
+
+**Art. 15.** Osoby wchodzące w skład Komisji oraz pracownicy Urzędu nie mogą:
+
+- **1)** być akcjonariuszami (udziałowcami) lub członkami władz zakładów ubezpieczeń oraz wykonywać czynności związanych z działalnością ubezpieczeniową lub pośrednictwem ubezpieczeniowym, a także podejmować zatrudnienia w zakładzie ubezpieczeń na podstawie umowy o pracę, umowy zlecenia, umowy o dzieło albo na podstawie innej umowy o podobnym charakterze;
+- **2)** być akcjonariuszami oraz wykonywać obowiązków członka zarządu lub rady nadzorczej towarzystwa emerytalnego, a także podejmować zatrudnienia w takim towarzystwie na podstawie umowy o pracę, umowy zlecenia, umowy o dzieło albo na podstawie innej umowy o podobnym charakterze;
+- **3)** podejmować zatrudnienia w funduszu emerytalnym na podstawie umowy o pracę, umowy zlecenia, umowy o dzieło albo na podstawie innej umowy o podobnym charakterze.
+
+**Art. 16.**
+
+1. Komisja może udzielać Komisji Nadzoru Bankowego, Komisji Papierów Wartościowych i Giełd oraz Prezesowi Urzędu Ochrony Konkurencji i Konsumentów informacji niezbędnych tym organom do prawidłowego wykonywania ich ustawowo określonych zadań w zakresie nadzoru.
+
+2. Komisja może żądać od podmiotów wymienionych w ust. 1 informacji niezbędnych Komisji do prawidłowego wykonywania jej ustawowo określonych zadań w zakresie nadzoru.
+
+**Art. 17.**
+
+1. Komisja może zawierać z organami nadzoru ubezpieczeniowego i emerytalnego innych państw porozumienia o współdziałaniu w zakresie nadzoru.
+
+2. Komisja, na zasadzie wzajemności, może udzielać informacji dotyczących zakładu ubezpieczeń organowi nadzoru ubezpieczeniowego innego państwa pod warunkiem, że:
+
+- **1)** informacje zostaną wykorzystane wyłącznie na potrzeby nadzoru ubezpieczeniowego innego państwa;
+- **2)** przekazywanie udzielonych informacji poza organ nadzoru ubezpieczeniowego innego państwa następuje wyłącznie po uprzednim uzyskaniu zgody Komisji.
+
+**Art. 18.**
+
+1. Komisja sporządza corocznie sprawozdanie z działalności nadzoru.
+
+2. Komisja, w terminie do dnia 31 października następnego roku, przedstawia sprawozdanie, o którym mowa w ust. 1, ministrowi właściwemu do spraw instytucji finansowych oraz ministrowi właściwemu do spraw zabezpieczenia społecznego.
+
+3. Sprawozdanie, o którym mowa w ust. 1, jest jawne.
+
+#### Rozdział 3 Rzecznik Ubezpieczonych
+
+**Art. 19.**
+
+1. Rzecznika Ubezpieczonych, zwanego dalej „Rzecznikiem”, powołuje Prezes Rady Ministrów na wspólny wniosek ministra właściwego do spraw instytucji finansowych i ministra właściwego do spraw zabezpieczenia społecznego – na czteroletnią kadencję.
+
+2. Rzecznikiem może być wyłącznie osoba:
+
+- **1)** wyróżniająca się wiedzą i doświadczeniem w zakresie ubezpieczeń oraz organizacji i funkcjonowania funduszy emerytalnych;
+- **2)** posiadająca wyższe wykształcenie.
+
+3. Kadencja Rzecznika rozpoczyna się w dniu jego powołania.
+
+4. Ta sama osoba nie może być Rzecznikiem dłużej niż przez dwie kolejne kadencje.
+
+5.
+
 

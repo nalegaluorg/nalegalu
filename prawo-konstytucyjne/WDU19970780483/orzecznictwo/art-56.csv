@@ -1,6 +1,4 @@
 saos_id|date|court|case_number|type|score|saos_url
-109753|2010-10-05|TK|SK 26/08|Wyrok|98|https://www.saos.org.pl/judgments/109753
-109076|2009-02-17|TK|SK 10/07|Wyrok|98|https://www.saos.org.pl/judgments/109076
 107629|2006-10-30|TK|P 10/06|Wyrok|98|https://www.saos.org.pl/judgments/107629
 106318|2003-09-29|TK|K 5/03|Wyrok|98|https://www.saos.org.pl/judgments/106318
 206013|2000-04-11|TK|K 15/98|Wyrok|98|https://www.saos.org.pl/judgments/206013
@@ -21,11 +19,3 @@ saos_id|date|court|case_number|type|score|saos_url
 80642|2001-06-07|SN|III RN 110/00|Wyrok|78|https://www.saos.org.pl/judgments/80642
 80364|2001-02-27|SN|I PKN 269/00|Wyrok|78|https://www.saos.org.pl/judgments/80364
 79535|2000-02-09|SN|I PKN 496/99|Wyrok|78|https://www.saos.org.pl/judgments/79535
-347384|2018-03-27|SO|VII AGa 768/18|Wyrok|56|https://www.saos.org.pl/judgments/347384
-256483|2016-09-29|SO|I ACa 340/16|Wyrok|56|https://www.saos.org.pl/judgments/256483
-152062|2015-03-20|SO|III AUa 483/14|Wyrok|56|https://www.saos.org.pl/judgments/152062
-45644|2014-03-13|SO|I ACa 851/13|Wyrok|56|https://www.saos.org.pl/judgments/45644
-15802|2013-06-26|SO|III AUa 1470/12|Wyrok|56|https://www.saos.org.pl/judgments/15802
-139678|2013-07-16|SO|I ACz 626/13|Postanowienie|47|https://www.saos.org.pl/judgments/139678
-472279|2020-03-05|SO|III AUa 2298/18|Uzasadnienie|42|https://www.saos.org.pl/judgments/472279
-368415|2018-12-03|SO|VIII Pa 181/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/368415

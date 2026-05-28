@@ -2,25 +2,14 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 1 marca 1996 r. o zmianie Kodeksu postępowania cywilnego, rozporządzeń Prezydenta Rzeczypospolitej - Prawo upadłościowe i Prawo o postępowaniu układowym, Kodeksu postępowania administracyjnego, ustawy o kosztach sądowych w sprawach cywilnych oraz niektórych innych ustaw.*
 
-Łącznie: **237** orzeczeń
-(pominięto 112 orzeczeń sądów rejonowych)
+Łącznie: **184** orzeczeń
 
-## art. 1 (10)
+## art. 1 (4)
 
 - 2004-02-05 | SN | [III CZP 113/03](https://www.saos.org.pl/judgments/82478) | Uchwała ★
 - 1998-07-17 | TK | [Ts 72/98](https://www.saos.org.pl/judgments/205873) | Postanowienie ★
-- 2009-05-07 | SN | [IV CSK 513/08](https://www.saos.org.pl/judgments/90193) | Wyrok ★
 - 2005-01-07 | SN | [IV CK 362/04](https://www.saos.org.pl/judgments/162843) | Wyrok ★
 - 1997-02-07 | SN | [II UKN 71/96](https://www.saos.org.pl/judgments/77440) | Wyrok ★
-- 2020-04-06 | SO | [III APa 1/20](https://www.saos.org.pl/judgments/458088) | Wyrok
-- 2018-04-05 | SO | [III AUa 64/18](https://www.saos.org.pl/judgments/337055) | Wyrok
-- 2017-01-16 | SO | [III AUa 1377/16](https://www.saos.org.pl/judgments/278996) | Wyrok
-- 2012-11-08 | SO | [VI ACa 808/12](https://www.saos.org.pl/judgments/4622) | Wyrok
-- 2017-02-13 | SO | [I C 675/16](https://www.saos.org.pl/judgments/276054) | Zarządzenie
-
-## art. 3 (1)
-
-- 2019-11-07 | SO | [III Ca 1750/19](https://www.saos.org.pl/judgments/415349) | Uzasadnienie
 
 ## art. 9 (1)
 
@@ -209,31 +198,9 @@ Orzeczenia powołujące: *Ustawa z dnia 1 marca 1996 r. o zmianie Kodeksu postę
 
 - 2003-01-17 | SN | [III CZP 81/02](https://www.saos.org.pl/judgments/81803) | Uchwała ★
 
-## art. 14 (2)
+## art. 14 (1)
 
-- 2009-05-07 | SN | [IV CSK 513/08](https://www.saos.org.pl/judgments/90193) | Wyrok ★
 - 1996-10-23 | SN | [II UZ 5/96](https://www.saos.org.pl/judgments/77295) | Postanowienie
-
-## art. 47 (1)
-
-- 2013-09-25 | SO | [I ACa 710/13](https://www.saos.org.pl/judgments/23579) | Postanowienie
-
-## art. 47 § 2 (1)
-
-- 2013-09-25 | SO | [I ACa 710/13](https://www.saos.org.pl/judgments/23579) | Postanowienie
-
-## art. 47 § 3 (2)
-
-- 2012-11-28 | SN | [III CZP 71/12](https://www.saos.org.pl/judgments/99833) | Uchwała ★
-- 2013-09-25 | SO | [I ACa 710/13](https://www.saos.org.pl/judgments/23579) | Postanowienie
-
-## art. 87 § 1 (1)
-
-- 2013-10-30 | SN | [V CZ 41/13](https://www.saos.org.pl/judgments/103386) | Postanowienie
-
-## art. 178 (1)
-
-- 2015-10-15 | SN | [II UK 346/14](https://www.saos.org.pl/judgments/243557) | Wyrok ★
 
 ## art. 182 § 1 (1)
 
@@ -304,49 +271,4 @@ Orzeczenia powołujące: *Ustawa z dnia 1 marca 1996 r. o zmianie Kodeksu postę
 ## § 1 (1)
 
 - 2007-11-20 | TK | [SK 57/05](https://www.saos.org.pl/judgments/207140) | Wyrok ★
-
-## (ogólnie) (42)
-
-- 2023-06-30 | SO | [I ACa 2020/22](https://www.saos.org.pl/judgments/493872) | Wyrok
-- 2022-02-07 | SO | [VI ACa 516/20](https://www.saos.org.pl/judgments/471597) | Wyrok
-- 2020-11-25 | SO | [VI ACa 779/19](https://www.saos.org.pl/judgments/432474) | Wyrok
-- 2018-09-07 | SO | [III AUa 306/18](https://www.saos.org.pl/judgments/358804) | Wyrok
-- 2017-10-24 | SO | [III AUa 591/17](https://www.saos.org.pl/judgments/321297) | Wyrok
-- 2017-10-13 | SO | [III APa 35/16](https://www.saos.org.pl/judgments/335050) | Wyrok
-- 2017-10-04 | SO | [I ACa 208/17](https://www.saos.org.pl/judgments/310930) | Wyrok
-- 2015-12-17 | SO | [I ACa 429/15](https://www.saos.org.pl/judgments/202382) | Wyrok
-- 2015-01-14 | SO | [VI ACa 267/14](https://www.saos.org.pl/judgments/132421) | Wyrok
-- 2014-03-14 | SO | [I ACa 1253/13](https://www.saos.org.pl/judgments/42420) | Wyrok
-- 2013-04-17 | SO | [III AUa 1019/12](https://www.saos.org.pl/judgments/13085) | Wyrok
-- 2013-01-09 | SO | [I ACa 738/12](https://www.saos.org.pl/judgments/12654) | Wyrok
-- 2012-10-08 | SO | [III APa 16/12](https://www.saos.org.pl/judgments/2318) | Wyrok
-- 2018-09-26 | SO | [VI ACa 427/18](https://www.saos.org.pl/judgments/363288) | Postanowienie
-- 2021-01-15 | SO | [II C 120/18](https://www.saos.org.pl/judgments/437570) | Wyrok
-- 2018-12-07 | SO | [II C 910/13](https://www.saos.org.pl/judgments/365456) | Wyrok
-- 2018-10-26 | SO | [II C 362/17](https://www.saos.org.pl/judgments/361233) | Wyrok
-- 2018-04-20 | SO | [II C 480/16](https://www.saos.org.pl/judgments/338055) | Wyrok
-- 2017-05-05 | SO | [II C 652/15](https://www.saos.org.pl/judgments/284435) | Wyrok
-- 2016-10-04 | SO | [II C 809/14](https://www.saos.org.pl/judgments/251114) | Wyrok
-- 2016-09-20 | SO | [II C 359/15](https://www.saos.org.pl/judgments/249181) | Wyrok
-- 2016-06-02 | SO | [II C 365/15](https://www.saos.org.pl/judgments/231914) | Wyrok
-- 2016-02-08 | SO | [I C 294/14](https://www.saos.org.pl/judgments/207222) | Wyrok
-- 2015-12-01 | SO | [II C 287/14](https://www.saos.org.pl/judgments/193000) | Wyrok
-- 2015-11-24 | SO | [II C 441/11](https://www.saos.org.pl/judgments/190278) | Wyrok
-- 2015-11-06 | SO | [II C 83/15](https://www.saos.org.pl/judgments/183190) | Wyrok
-- 2015-07-10 | SO | [II C 21/12](https://www.saos.org.pl/judgments/174086) | Wyrok
-- 2014-12-15 | SO | [VIII U 2508/14](https://www.saos.org.pl/judgments/125950) | Wyrok
-- 2014-12-08 | SO | [VIII U 955/13](https://www.saos.org.pl/judgments/75580) | Wyrok
-- 2014-03-31 | SO | [II C 739/13](https://www.saos.org.pl/judgments/145828) | Wyrok
-- 2017-05-18 | SO | [VI Cz 522/17](https://www.saos.org.pl/judgments/284759) | Postanowienie
-- 2019-12-06 | SO | [II C 13/18](https://www.saos.org.pl/judgments/402202) | Uzasadnienie
-- 2019-07-08 | SO | [VIII Pa 17/19](https://www.saos.org.pl/judgments/392925) | Zarządzenie
-- 2019-03-28 | SO | [VIII U 760/18](https://www.saos.org.pl/judgments/380767) | Uzasadnienie
-- 2018-12-11 | SO | [VIII U 1174/17](https://www.saos.org.pl/judgments/368626) | Uzasadnienie
-- 2018-09-04 | SO | [VIII Ua 50/18](https://www.saos.org.pl/judgments/353043) | Uzasadnienie
-- 2017-02-23 | SO | [I C 1238/14](https://www.saos.org.pl/judgments/279562) | Uzasadnienie
-- 2016-06-02 | SO | [II C 1260/15](https://www.saos.org.pl/judgments/232761) | Uzasadnienie
-- 2016-05-31 | SO | [II C 280/15](https://www.saos.org.pl/judgments/232565) | Uzasadnienie
-- 2016-04-14 | SO | [II C 1589/13](https://www.saos.org.pl/judgments/228073) | Uzasadnienie
-- 2015-12-08 | SO | [II C 640/15](https://www.saos.org.pl/judgments/196083) | Uzasadnienie
-- 2015-05-20 | SO | [III Ca 128/15](https://www.saos.org.pl/judgments/174397) | Uzasadnienie
 

@@ -8,10 +8,10 @@ pos: 119
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 stycznia 2013 r.
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 18 stycznia 2013 r. w sprawie podziału środków Programu Rozwoju Obszarów Wiejskich na lata 2007–2013
 
 | Pole | Wartość |
 |---|---|
@@ -22,37 +22,88 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2013-01-18 |
 | Data wydania | 2013-01-25 |
+| Wejście w życie | 2013-02-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000119) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/119/text.pdf) |
 
-RozpoRządzenie MinistRa Rolnictwa Rozwoju wsi z dnia 18 stycznia 2013 r.
-w sprawie podziału środków programu Rozwoju obszarów wiejskich na lata 2007–2013 Na podstawie art. 16 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. Nr 64, poz. 427, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa:
-1) podział środków Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 na poszczególne województwa, w ramach działania:
-a) renty strukturalne,
-b) modernizacja gospodarstw rolnych,
-c) poprawianie rozwijanie infrastruktury związanej z rozwojem dostosowywaniem rolnictwa leśnictwa przez scalanie gruntów,
-d) poprawianie rozwijanie infrastruktury związanej z rozwojem dostosowywaniem rolnictwa leśnictwa przez gospodarowanie rolniczymi zasobami wodnymi, z wyodrębnieniem środków przeznaczonych na operacje inne niż priorytet gospodarka wodna, o którym mowa w art. 16a ust. 1 lit. c rozporządzenia Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 1698/2005”,
-e) tworzenie rozwój mikroprzedsiębiorstw,
-f) podstawowe usługi dla gospodarki ludności wiejskiej, z podziałem na środki przeznaczone na priorytet infrastruktura szerokopasmowego Internetu na obszarach wiejskich, o którym mowa w art. 16a ust. 1 lit. g rozporządzenia nr 1698/2005, na operacje dotyczące budowy, przebudowy, remontu lub wyposażenia targowiska stałego na pozostałe operacje w ramach tego działania,
-g) odnowa rozwój wsi;
-2) tryb postępowania w sprawie przyznania pomocy finansowej, w przypadku gdy zapotrzebowanie na środki wynikające z wniosków o przyznanie pomocy finansowej w ramach działań, o których mowa w pkt 1, przekracza wysokość limitów środków określoną w rozporządzeniu.
-§ 2. Wysokość limitów środków w podziale na poszczególne województwa w ramach działań, o których mowa w § 1 pkt 1, jest określona w załączniku do rozporządzenia.
-§ 3. 1. Wnioskodawców, których wnioski o przyznanie pomocy finansowej złożone w ramach działania:
-1) modernizacja gospodarstw rolnych,
-3) tworzenie rozwój mikroprzedsiębiorstw,
-4) podstawowe usługi dla gospodarki ludności wiejskiej,
-5) odnowa rozwój wsi zawierają zapotrzebowanie na środki przekraczające określoną w załączniku do rozporządzenia wysokość odpowiedniego limitu środków, niezwłocznie informuje się o tym, w formie pisemnej, a także o sposobie postępowania z tymi wnioskami.
-2. Operacje objęte wnioskami, o których mowa w ust. 1, umieszcza się na liście, w kolejności określonej w przepisach w sprawie szczegółowych warunków trybu przyznawania pomocy finansowej w ramach poszczególnych działań wymienionych w ust. 1, zgodnie z którą przysługuje pomoc finansowa.
-3. Wnioski, o których mowa w ust. 1, rozpatruje się zgodnie z trybem określonym w przepisach w sprawie szczegółowych warunków trybu przyznawania pomocy finansowej w ramach poszczególnych działań wymienionych w ust. 1, w terminie do dnia 31 grudnia 2014 r.
-4. Jeżeli po poinformowaniu wnioskodawcy zgodnie z ust. 1 okaże się, że w ramach określonej w rozporządzeniu wysokości odpowiedniego limitu środków jest możliwe przyznanie mu pomocy finansowej na operację umieszczoną na liście, o której mowa w ust. 2, pomoc finansową przyznaje się niezwłocznie wnioskodawcy do wysokości odpowiedniego limitu środków, jeżeli są spełnione warunki przyznania tej pomocy, a pomoc ta przysługuje w kolejności, w jakiej operacje zostały umieszczone na liście, o której mowa w ust. 2.
-5. Jeżeli przyznanie pomocy finansowej wnioskodawcy, o którym mowa w ust. 1, w ramach określonej w rozporządzeniu wysokości odpowiedniego limitu środków nie jest możliwe do dnia 31 grudnia 2014 r.:
-1) informuje się tego wnioskodawcę, w formie pisemnej, o odmowie przyznania pomocy finansowej z podaniem jej przyczyn w przypadku działań: modernizacja gospodarstw rolnych, tworzenie rozwój mikroprzedsiębiorstw, podstawowe usługi dla gospodarki ludności wiejskiej oraz odnowa rozwój wsi;
-2) odmawia się temu wnioskodawcy przyznania pomocy finansowej w przypadku działania poprawianie rozwijanie infrastruktury związanej z rozwojem dostosowywaniem rolnictwa leśnictwa przez scalanie gruntów.
-§ 4. 1. Wnioskodawców, których wnioski o przyznanie pomocy finansowej złożone w ramach działania poprawianie rozwijanie infrastruktury związanej z rozwojem dostosowywaniem rolnictwa leśnictwa przez gospodarowanie rolniczymi zasobami wodnymi zawierają zapotrzebowanie na środki przekraczające określoną w załączniku do rozporządzenia wysokość odpowiedniego limitu środków, niezwłocznie informuje się o tym, w formie pisemnej, a także o sposobie postępowania z tymi wnioskami.
-2. Wnioski, o których mowa w ust. 1, rozpatruje się zgodnie z trybem określonym w przepisach w sprawie szczegółowych warunków trybu przyznawania pomocy finansowej w ramach działania wymienionego w ust. 1, w terminie do dnia 31 grudnia 2014 r.
-3. Jeżeli przyznanie pomocy finansowej wnioskodawcy, o którym mowa w ust. 1, w ramach określonej w rozporządzeniu wysokości odpowiedniego limitu środków nie jest możliwe do dnia 31 grudnia 2014 r., odmawia się temu wnioskodawcy przyznania pomocy finansowej.
-§ 5. Wnioskodawcom, których wnioski o przyznanie pomocy finansowej złożone w ramach działania renty strukturalne zawierają takie zapotrzebowanie na środki, którego część stanowiąca sumę środków, jakie maksymalnie miałyby być wypłacone danemu wnioskodawcy przez okres 52 miesięcy, przekracza określoną w załączniku do rozporządzenia wysokość odpowiedniego limitu środków, odmawia się przyznania pomocy finansowej.
-§ 6. Traci moc rozporządzenie Ministra Rolnictwa Rozwoju Wsi z dnia 18 marca 2009 r. w sprawie podziału środków Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 48, poz. 388, z późn. zm. ).
-§ 7. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rolnictwa Rozwoju Wsi: wz. T. Nalewajk WYSOKOŚĆ LIMITÓW ŚRODKÓW W PODZIALE NA POSZCZEGÓLNE WOJEWÓDZTWA W RAMACH DZIAŁAŃ, O KTÓRYCH MOWA W § 1 PKT 1 i. Renty strukturalne lp. nazwa województwa wysokość limitów środków w euro 1 dolnośląskie 5 570 739 2 kujawsko-pomorskie 6 384 326 3 lubelskie 14 475 491 4 lubuskie 2 242 256 5 łódzkie 11 018 920 6 małopolskie 4 450 7 mazowieckie 19 663 799 8 opolskie 2 926 649 9 podkarpackie 5 549 297 10 podlaskie 7 210 189 11 pomorskie 4 212 928 12 śląskie 4 629 618 13 świętokrzyskie 7 349 205 14 warmińsko-mazurskie 4 061 710 15 wielkopolskie 11 324 202 16 zachodniopomorskie 3 261 221 Kwota na działanie 114 000 000 ii. Modernizacja gospodarstw rolnych lp. nazwa województwa wysokość limitów środków w euro 1 dolnośląskie 91 638 719 2 kujawsko-pomorskie 165 187 530 3 lubelskie 238 632 899 4 lubuskie 40 440 774 5 łódzkie 192 850 594 6 małopolskie 78 046 103 7 mazowieckie 361 826 268 8 opolskie 58 236 964 9 podkarpackie 65 347 900 10 podlaskie 177 354 006 11 pomorskie 87 877 467 12 śląskie 53 217 586 13 świętokrzyskie 91 238 600 14 warmińsko-mazurskie 104 690 600 15 wielkopolskie 274 194 404 16 zachodniopomorskie 66 485 475 Kwota na działanie 2 147 265 889 lp. nazwa województwa wysokość limitów środków w euro 1 dolnośląskie 13 888 000 2 kujawsko-pomorskie 1 920 000 3 lubelskie 35 760 000 4 lubuskie 3 200 000 5 łódzkie 7 184 000 6 małopolskie 8 944 000 7 mazowieckie 8 832 000 8 opolskie 2 336 000 9 podkarpackie 17 088 000 10 podlaskie 11 200 000 11 pomorskie 1 600 000 12 śląskie 26 864 000 13 świętokrzyskie 14 912 000 14 warmińsko-mazurskie 2 160 000 15 wielkopolskie 2 080 000 16 zachodniopomorskie 2 032 000 Kwota na działanie 160 000 000 iV. poprawianie rozwijanie infrastruktury związanej z rozwojem dostosowywaniem rolnictwa leśnictwa przez gospodarowanie rolniczymi zasobami wodnymi, z wyodrębnieniem środków przeznaczonych na operacje inne niż priorytet gospodarka wodna, o którym mowa w art. 16a ust. 1 lit. c rozporządzenia nr 1698/2005 wysokość limitów środków wysokość limitów środków lp. nazwa województwa w euro na operacje inne niż w euro priorytet gospodarka wodna 1 dolnośląskie 42 363 200 45 976 695 2 kujawsko-pomorskie 27 192 000 29 511 423 3 lubelskie 27 764 000 30 132 213 4 lubuskie 37 976 400 41 215 710 5 łódzkie 15 114 000 16 403 194 6 małopolskie 19 307 200 20 954 065 7 mazowieckie 40 990 400 44 486 798 8 opolskie 12 632 400 13 709 918 9 podkarpackie 14 986 400 16 264 710 10 podlaskie 16 759 600 18 189 160 11 pomorskie 33 228 800 36 063 150 12 śląskie 12 509 200 13 576 209 13 świętokrzyskie 9 292 800 10 085 457 14 warmińsko-mazurskie 39 749 600 43 140 161 15 wielkopolskie 66 418 000 72 083 321 16 zachodniopomorskie 23 716 000 25 738 927 Kwota na działanie 440 000 000 477 531 111 lp. nazwa województwa wysokość limitów środków w euro 1 dolnośląskie 59 777 282 2 kujawsko-pomorskie 56 297 098 3 lubelskie 78 508 862 4 lubuskie 27 534 399 5 łódzkie 61 926 808 6 małopolskie 111 058 821 7 mazowieckie 124 365 407 8 opolskie 34 187 692 9 podkarpackie 84 343 289 10 podlaskie 34 494 767 11 pomorskie 49 541 446 12 śląskie 68 068 309 13 świętokrzyskie 48 108 429 14 warmińsko-mazurskie 40 840 986 15 wielkopolskie 104 507 886 16 zachodniopomorskie 40 022 Kwota na działanie 1 023 583 600 Vi. podstawowe usługi dla gospodarki ludności wiejskiej, z podziałem na środki przeznaczone na priorytet infrastruktura szerokopasmowego internetu na obszarach wiejskich, o którym mowa w art. 16a ust. 1 lit. g rozporządzenia nr 1698/2005, na operacje dotyczące budowy, przebudowy, remontu lub wyposażenia targowiska stałego na pozostałe operacje w ramach tego działania wysokość limitów wysokość limitów środków w euro na środków w euro na priorytet infrastruktura operacje dotyczące wysokość limitów lp. nazwa województwa szerokopasmowego budowy, przebudowy, środków w euro na internetu na obszarach remontu lub pozostałe operacje wiejskich wyposażenia targowiska stałego 1 dolnośląskie 3 617 624 3 346 300 67 759 827 2 kujawsko-pomorskie 3 398 911 3 111 950 63 014 432 3 lubelskie 4 858 965 4 469 000 90 493 580 4 lubuskie 2 116 192 1 929 300 39 066 740 5 łódzkie 3 753 580 3 477 100 70 408 419 6 małopolskie 4 587 052 4 234 650 85 748 185 7 mazowieckie 7 187 958 6 610 850 133 864 283 8 opolskie 1 844 279 1 716 750 34 762 778 9 podkarpackie 4 001 849 3 716 900 75 264 172 10 podlaskie 2 908 286 2 665 050 53 965 074 11 pomorskie 3 085 620 2 806 750 56 834 382 12 śląskie 2 961 486 2 904 850 58 820 827 13 świętokrzyskie 2 529 973 2 338 050 47 343 592 14 warmińsko-mazurskie 3 274 777 2 964 800 60 034 765 15 wielkopolskie 5 840 216 5 319 200 107 709 431 16 zachodniopomorskie 3 144 732 2 888 500 58 489 753 lp. nazwa województwa wysokość limitów środków w euro 1 dolnośląskie 27 150 159 2 kujawsko-pomorskie 25 248 764 3 lubelskie 36 259 170 4 lubuskie 15 653 349 5 łódzkie 28 211 403 6 małopolskie 34 357 774 7 mazowieckie 53 637 040 8 opolskie 13 928 828 9 podkarpackie 30 157 017 10 podlaskie 21 622 847 11 pomorskie 22 772 528 12 śląskie 23 568 460 13 świętokrzyskie 18 969 737 14 warmińsko-mazurskie 24 054 864 15 wielkopolskie 43 157 255 16 zachodniopomorskie 23 435 805 Kwota na działanie 442 185 000
+Treść rozporządzenia
+Załącznik – Wysokość limitów środków w podziale na poszczególne województwa w ramach działań, o których mowa w § 1 pkt 1
+Treść rozporządzenia
+Na podstawie art. 16 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. Nr 64, poz. 427, z późn. zm.) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+podział środków Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 na poszczególne województwa, w ramach działania:
+a)
+renty strukturalne,
+b)
+modernizacja gospodarstw rolnych,
+c)
+poprawianie i rozwijanie infrastruktury związanej z rozwojem i dostosowywaniem rolnictwa i leśnictwa przez scalanie gruntów,
+d)
+poprawianie i rozwijanie infrastruktury związanej z rozwojem i dostosowywaniem rolnictwa i leśnictwa przez gospodarowanie rolniczymi zasobami wodnymi, z wyodrębnieniem środków przeznaczonych na operacje inne niż priorytet gospodarka wodna, o którym mowa w art. 16a ust. 1 lit. c rozporządzenia Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 1698/2005”,
+e)
+tworzenie i rozwój mikroprzedsiębiorstw,
+f)
+podstawowe usługi dla gospodarki i ludności wiejskiej, z podziałem na środki przeznaczone na priorytet infrastruktura szerokopasmowego Internetu na obszarach wiejskich, o którym mowa w art. 16a ust. 1 lit. g rozporządzenia nr 1698/2005, na operacje dotyczące budowy, przebudowy, remontu lub wyposażenia targowiska stałego i na pozostałe operacje w ramach tego działania,
+g)
+odnowa i rozwój wsi;
+2)
+tryb postępowania w sprawie przyznania pomocy finansowej, w przypadku gdy zapotrzebowanie na środki wynikające z wniosków o przyznanie pomocy finansowej w ramach działań, o których mowa w pkt 1, przekracza wysokość limitów środków określoną w rozporządzeniu.
+§ 2.
+Wysokość limitów środków w podziale na poszczególne województwa w ramach działań, o których mowa w § 1 pkt 1, jest określona w załączniku do rozporządzenia.
+§ 3.
+1.
+Wnioskodawców, których wnioski o przyznanie pomocy finansowej złożone w ramach działania:
+1)
+modernizacja gospodarstw rolnych,
+2)
+poprawianie i rozwijanie infrastruktury związanej z rozwojem i dostosowywaniem rolnictwa i leśnictwa przez scalanie gruntów,
+3)
+tworzenie i rozwój mikroprzedsiębiorstw,
+4)
+podstawowe usługi dla gospodarki i ludności wiejskiej,
+5)
+odnowa i rozwój wsi
+zawierają zapotrzebowanie na środki przekraczające określoną w załączniku do rozporządzenia wysokość odpowiedniego limitu środków, niezwłocznie informuje się o tym, w formie pisemnej, a także o sposobie postępowania z tymi wnioskami.
+2.
+Operacje objęte wnioskami, o których mowa w ust. 1, umieszcza się na liście, w kolejności określonej w przepisach w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach poszczególnych działań wymienionych w ust. 1, zgodnie z którą przysługuje pomoc finansowa.
+3.
+Wnioski, o których mowa w ust. 1, rozpatruje się zgodnie z trybem określonym w przepisach w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach poszczególnych działań wymienionych w ust. 1, w terminie do dnia 31 grudnia 2014 r.
+4.
+Jeżeli po poinformowaniu wnioskodawcy zgodnie z ust. 1 okaże się, że w ramach określonej w rozporządzeniu wysokości odpowiedniego limitu środków jest możliwe przyznanie mu pomocy finansowej na operację umieszczoną na liście, o której mowa w ust. 2, pomoc finansową przyznaje się niezwłocznie wnioskodawcy do wysokości odpowiedniego limitu środków, jeżeli są spełnione warunki przyznania tej pomocy, a pomoc ta przysługuje w kolejności, w jakiej operacje zostały umieszczone na liście, o której mowa w ust. 2.
+5.
+Jeżeli przyznanie pomocy finansowej wnioskodawcy, o którym mowa w ust. 1, w ramach określonej w rozporządzeniu wysokości odpowiedniego limitu środków nie jest możliwe do dnia 31 grudnia 2014 r.:
+1)
+informuje się tego wnioskodawcę, w formie pisemnej, o odmowie przyznania pomocy finansowej z podaniem jej przyczyn – w przypadku działań: modernizacja gospodarstw rolnych, tworzenie i rozwój mikroprzedsiębiorstw, podstawowe usługi dla gospodarki i ludności wiejskiej oraz odnowa i rozwój wsi;
+2)
+odmawia się temu wnioskodawcy przyznania pomocy finansowej – w przypadku działania poprawianie i rozwijanie infrastruktury związanej z rozwojem i dostosowywaniem rolnictwa i leśnictwa przez scalanie gruntów.
+§ 4.
+1.
+Wnioskodawców, których wnioski o przyznanie pomocy finansowej złożone w ramach działania poprawianie i rozwijanie infrastruktury związanej z rozwojem i dostosowywaniem rolnictwa i leśnictwa przez gospodarowanie rolniczymi zasobami wodnymi zawierają zapotrzebowanie na środki przekraczające określoną w załączniku do rozporządzenia wysokość odpowiedniego limitu środków, niezwłocznie informuje się o tym, w formie pisemnej, a także o sposobie postępowania z tymi wnioskami.
+2.
+Wnioski, o których mowa w ust. 1, rozpatruje się zgodnie z trybem określonym w przepisach w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania wymienionego w ust. 1, w terminie do dnia 31 grudnia 2014 r.
+3.
+Jeżeli przyznanie pomocy finansowej wnioskodawcy, o którym mowa w ust. 1, w ramach określonej w rozporządzeniu wysokości odpowiedniego limitu środków nie jest możliwe do dnia 31 grudnia 2014 r., odmawia się temu wnioskodawcy przyznania pomocy finansowej.
+§ 5.
+Wnioskodawcom, których wnioski o przyznanie pomocy finansowej złożone w ramach działania renty strukturalne zawierają takie zapotrzebowanie na środki, którego część stanowiąca sumę środków, jakie maksymalnie miałyby być wypłacone danemu wnioskodawcy przez okres 52 miesięcy, przekracza określoną w załączniku do rozporządzenia wysokość odpowiedniego limitu środków, odmawia się przyznania pomocy finansowej.
+§ 6.
+Traci moc rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 18 marca 2009 r. w sprawie podziału środków Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 48, poz. 388, z późn. zm.).
+§ 7.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Załącznik – Wysokość limitów środków w podziale na poszczególne województwa w ramach działań, o których mowa w § 1 pkt 1
+I. Renty strukturalne
+Lp. Nazwa województwa Wysokość limitów środków w euro 1 dolnośląskie 5 570 739 2 kujawsko-pomorskie 6 384 326 3 lubelskie 14 475 491 4 lubuskie 2 242 256 5 łódzkie 11 018 920 6 małopolskie 4 119 450 7 mazowieckie 19 663 799 8 opolskie 2 926 649 9 podkarpackie 5 549 297 10 podlaskie 7 210 189 11 pomorskie 4 212 928 12 śląskie 4 629 618 13 świętokrzyskie 7 349 205 14 warmińsko-mazurskie 4 061710 15 wielkopolskie 11 324 202 16 zachodniopomorskie 3 261 221 Kwota na działanie 114 000 000
+II. Modernizacja gospodarstw rolnych
+Lp. Nazwa województwa Wysokość limitów środków w euro 1 dolnośląskie 91 638 719 2 kujawsko-pomorskie 165 187 530 3 lubelskie 238 632 899 4 lubuskie 40 440 774 5 łódzkie 192 850 594 6 małopolskie 78 046 103 7 mazowieckie 361 826 268 8 opolskie 58 236 964 9 podkarpackie 65 347 900 10 podlaskie 177 354 006 11 pomorskie 87 877 467 12 śląskie 53 217 586 13 świętokrzyskie 91 238 600 14 warmińsko-mazurskie 104 690 600 15 wielkopolskie 274 194 404 16 zachodniopomorskie 66 485 475 Kwota na działanie 2 147 265 889
+III. Poprawianie i rozwijanie infrastruktury związanej z rozwojem i dostosowywaniem rolnictwa i leśnictwa przez scalanie gruntów
+Lp. Nazwa województwa Wysokość limitów środków w euro 1 dolnośląskie 13 888 000 2 kujawsko-pomorskie 1 920 000 3 lubelskie 35 760 000 4 lubuskie 3 200 000 5 łódzkie 7 184 000 6 małopolskie 8 944 000 7 mazowieckie 8 832 000 8 opolskie 2 336 000 9 podkarpackie 17 088 000 10 podlaskie 11 200 000 11 pomorskie 1 600 000 12 śląskie 26 864 000 13 świętokrzyskie 14 912 000 14 warmińsko-mazurskie 2 160 000 15 wielkopolskie 2 080 000 16 zachodniopomorskie 2 032 000 Kwota na działanie 160 000 000
+IV. Poprawianie i rozwijanie infrastruktury związanej z rozwojem i dostosowywaniem rolnictwa i leśnictwa przez gospodarowanie rolniczymi zasobami wodnymi, z wyodrębnieniem środków przeznaczonych na operacje inne niż priorytet gospodarka wodna, o którym mowa w art. 16a ust. 1 lit. c rozporządzenia nr 1698/2005
+Lp. Nazwa województwa Wysokość limitów środków w euro na operacje inne niż priorytet gospodarka wodna Wysokość limitów środków w euro 1 dolnośląskie 42 363 200 45 976 695 2 kujawsko-pomorskie 27 192 000 29 511 423 3 lubelskie 27 764 000 30 132 213 4 lubuskie 37 976 400 41 215 710 5 łódzkie 15 114 000 16 403 194 6 małopolskie 19 307 200 20 954 065 7 mazowieckie 40 990 400 44 486 798 8 opolskie 12 632 400 13 709 918 9 podkarpackie 14 986 400 16 264 710 10 podlaskie 16 759 600 18 189 160 11 pomorskie 33 228 800 36 063 150 12 śląskie 12 509 200 13 576 209 13 świętokrzyskie 9 292 800 10 085 457 14 warmińsko-mazurskie 39 749 600 43 140 161 15 wielkopolskie 66 418 000 72 083 321 16 zachodniopomorskie 23 716 000 25 738 927 Kwota na działanie 440 000 000 477 531 111
+V. Tworzenie i rozwój mikroprzedsiębiorstw
+Lp. Nazwa województwa Wysokość limitów środków w euro 1 dolnośląskie 59 777 282 2 kujawsko-pomorskie 56 297 098 3 lubelskie 78 508 862 4 lubuskie 27 534 399 5 łódzkie 61 926 808 6 małopolskie 111 058 821 7 mazowieckie 124 365 407 8 opolskie 34 187 692 9 podkarpackie 84 343 289 10 podlaskie 34 494 767 11 pomorskie 49 541 446 12 śląskie 68 068 309 13 świętokrzyskie 48 108 429 14 warmińsko-mazurskie 40 840 986 15 wielkopolskie 104 507 886 16 zachodniopomorskie 40 022 119 Kwota na działanie 1 023 583 600
+VI. Podstawowe usługi dla gospodarki i ludności wiejskiej, z podziałem na środki przeznaczone na priorytet infrastruktura szerokopasmowego Internetu na obszarach wiejskich, o którym mowa w art. 16a ust. 1 lit. g rozporządzenia nr 1698/2005, na operacje dotyczące budowy, przebudowy, remontu lub wyposażenia targowiska stałego i na pozostałe operacje w ramach tego działania
+Lp. Nazwa województwa Wysokość limitów środków w euro na priorytet infrastruktura szerokopasmowego Internetu na obszarach wiejskich Wysokość limitów środków w euro na operacje dotyczące budowy, przebudowy, remontu lub wyposażenia targowiska stałego Wysokość limitów środków w euro na pozostałe operacje 1 dolnośląskie 3 617 624 3 346 300 67 759 827 2 kujawsko-pomorskie 3 398 911 3 111 950 63 014 432 3 lubelskie 4 858 965 4 469 000 90 493 580 4 lubuskie 2 116 192 1 929 300 39 066 740 5 łódzkie 3 753 580 3 477 100 70 408 419 6 małopolskie 4 587 052 4 234 650 85 748 185 7 mazowieckie 7 187 958 6 610 850 133 864 283 8 opolskie 1 844 279 1 716 750 34 762 778 9 podkarpackie 4 001 849 3 716 900 75 264 172 10 podlaskie 2 908 286 2 665 050 53 965 074 11 pomorskie 3 085 620 2 806 750 56 834 382 12 śląskie 2 961 486 2 904 850 58 820 827 13 świętokrzyskie 2 529 973 2 338 050 47 343 592 14 warmińsko-mazurskie 3 274 777 2 964 800 60 034 765 15 wielkopolskie 5 840 216 5 319 200 107 709 431 16 zachodniopomorskie 3 144 732 2 888 500 58 489 753 Kwota na działanie 59 111 500 54 500 000 1 103 580 240
+VII. Odnowa i rozwój wsi
+Lp. Nazwa województwa Wysokość limitów środków w euro 1 dolnośląskie 27 150 159 2 kujawsko-pomorskie 25 248 764 3 lubelskie 36 259 170 4 lubuskie 15 653 349 5 łódzkie 28 211 403 6 małopolskie 34 357 774 7 mazowieckie 53 637 040 8 opolskie 13 928 828 9 podkarpackie 30 157 017 10 podlaskie 21 622 847 11 pomorskie 22 772 528 12 śląskie 23 568 460 13 świętokrzyskie 18 969 737 14 warmińsko-mazurskie 24 054 864 15 wielkopolskie 43 157 255 16 zachodniopomorskie 23 435 805 Kwota na działanie 442 185 000
 

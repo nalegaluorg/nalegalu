@@ -8,10 +8,10 @@ pos: 1168
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 czerwca 2023 r.
+# Rozporządzenie Prezesa Rady Ministrówz dnia 14 czerwca 2023 r. zmieniające rozporządzenie w sprawie nadania funkcjonariuszom Inspekcji Weterynaryjnej, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych oraz Państwowej Inspekcji Ochrony Roślin i Nasiennictwa uprawnień do nakładania grzywien w drodze mandatu karnego
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,18 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2023-06-14 |
 | Data wydania | 2023-06-22 |
+| Wejście w życie | 2023-06-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001168) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1168/text.pdf) |
 
-Poz. 1168 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 14 czerwca 2023 r.
-zmieniające rozporządzenie w sprawie nadania funkcjonariuszom Inspekcji Weterynaryjnej, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych oraz Państwowej Inspekcji Ochrony Roślin i Nasiennictwa uprawnień do nakładania grzywien w drodze mandatu karnego Na podstawie art. 95 § 5 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U.
-z 2022 r. poz. 1124) zarządza się, co następuje: § 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 28 lipca 2008 r. w sprawie nadania funkcjonariuszom Inspekcji Weterynaryjnej, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych oraz Państwowej Inspekcji Ochrony Roślin i Nasiennictwa uprawnień do nakładania grzywien w drodze mandatu karnego (Dz. U. z 2013 r. poz. 1213, z 2016 r. poz. 1873, z 2020 r. poz. 1056 i 1547, z 2022 r. poz. 516 oraz z 2023 r. poz. 599) w § 3 pkt 3 otrzymuje brzmienie: „3) art. 40 ust. 1 pkt 3–7 oraz ust. 2, 4 i 4b–4e ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+Treść rozporządzenia
+Na podstawie art. 95 § 5 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Prezesa Rady Ministrów z dnia 28 lipca 2008 r. w sprawie nadania funkcjonariuszom Inspekcji Weterynaryjnej, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych oraz Państwowej Inspekcji Ochrony Roślin i Nasiennictwa uprawnień do nakładania grzywien w drodze mandatu karnego (Dz. U. z 2013 r. poz. 1213, z 2016 r. poz. 1873, z 2020 r. poz. 1056 i 1547, z 2022 r. poz. 516 oraz z 2023 r. poz. 599) w § 3 pkt 3 otrzymuje brzmienie:
+„
+3)
+art. 40 ust. 1 pkt 3–7 oraz ust. 2, 4 i 4b-4e ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych;
+” .
+§ 2.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

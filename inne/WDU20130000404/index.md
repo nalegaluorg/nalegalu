@@ -8,12 +8,10 @@ pos: 404
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie zakresu obowiązywania Konwencji o międzynarodowym handlu dzikimi zwierzętami i roślinami gatunków zagrożonych wyginięciem, sporządzonej w Waszyngtonie dnia 3 marca 1973 r.
-
-*USTAWA z dnia 8 lutego 2013 r.*
+# Ustawa z dnia 8 lutego 2013 r. o zmianie zakresu obowiązywania Konwencji o międzynarodowym handlu dzikimi zwierzętami i roślinami gatunków zagrożonych wyginięciem, sporządzonej w Waszyngtonie dnia 3 marca 1973 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2013-02-08 |
 | Data wydania | 2013-03-28 |
+| Wejście w życie | 2013-04-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000404) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/404/text.pdf) |
 

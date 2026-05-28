@@ -8,12 +8,10 @@ pos: 1418
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej
-
-*USTAWA z dnia 8 lipca 2005 r.*
+# Ustawa z dnia 8 lipca 2005 r. o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2005-07-08 |
 | Data wydania | 2005-09-06 |
+| Wejście w życie | 2005-10-07 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051691418) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1418/text.pdf) |
 
@@ -36,11 +35,12 @@ source: "isap-pdf"
 - **3)** układu z dnia 22 września 1944 r. pomiędzy Polskim Komitetem Wyzwolenia Narodowego a Rządem Litewskiej Socjalistycznej Republiki Rad dotyczącego ewakuacji obywateli polskich z terytorium Litewskiej S.R.R. i ludności litewskiej z terytorium Polski,
 - **4)** umowy z dnia 6 lipca 1945 r. między Tymczasowym Rządem Jedności Narodowej Rzeczypospolitej Polskiej i Rządem Związku Socjalistycznych Republik Radzieckich o prawie zmiany obywatelstwa radzieckiego osób narodowości polskiej i żydowskiej, mieszkających w ZSRR i o ich ewakuacji do Polski i o prawie zmiany obywatelstwa polskiego osób narodowości rosyjskiej, ukraińskiej, białoruskiej, rusińskiej i litewskiej, mieszkających na terytorium Polski i o ich ewakuacji do ZSRR zwanego dalej „prawem do rekompensaty”.
 
-1a. Prawo do rekompensaty przysługuje również osobom, które pozostawiły nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej w związku z umową pomiędzy Rzecząpospolitą Polską a Związkiem Socjalistycznych Republik Radzieckich o zamianie odcinków terytoriów państwowych z dnia 15 lutego 1951 r.
-
 2. Przepisy ust. 1 stosuje się także do osób, które na skutek innych okoliczności związanych z wojną rozpoczętą w 1939 r., były zmuszone opuścić byłe terytorium Rzeczypospolitej Polskiej.
 
 **Art. 2.** Prawo do rekompensaty przysługuje właścicielowi nieruchomości pozostawionych poza obecnymi granicami Rzeczypospolitej Polskiej, jeżeli spełnia on łącznie następujące wymogi:
+
+- **1)** był w dniu 1 września 1939 r. obywatelem polskim, zamieszkiwał w tym dniu na byłym terytorium Rzeczypospolitej Polskiej oraz opuścił je z przyczyn, o których mowa w art. 1;
+- **2)** posiada obywatelstwo polskie.
 
 **Art. 3.**
 
@@ -92,7 +92,7 @@ source: "isap-pdf"
 5. W przypadku braku dokumentów, o których mowa w ust. 4 pkt 1 i 2, dowodami, o których mowa w ust. 1 pkt 1, mogą być oświadczenia dwóch świadków złożone, pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia, przed notariuszem, organem prowadzącym postępowanie lub w polskiej placówce konsularnej w kraju zamieszkania świadka, którzy:
 
 - **1)** zamieszkiwali w miejscowości, w której znajduje się nieruchomość pozostawiona poza obecnymi granicami Rzeczypospolitej Polskiej, lub w miejscowości sąsiedniej;
-- **2)** nie są osobami bliskimi – w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2016 r. poz. 2147, z późn. zm. ) – właścicieli lub spadkobierców ubiegających się o potwierdzenie prawa do rekompensaty.
+- **2)** nie są osobami bliskimi – w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2004 r. Nr 261, poz. 2603 i Nr 281, poz. 2782 oraz z 2005 r. Nr 130, poz. 1087) – właścicieli lub spadkobierców ubiegających się o potwierdzenie prawa do rekompensaty.
 
 6. Jeżeli wniosek nie spełnia wymogów określonych w ust. 1–3, wojewoda wzywa wnioskodawcę do usunięcia braków w terminie 6 miesięcy od dnia doręczenia wezwania.
 
@@ -109,8 +109,6 @@ source: "isap-pdf"
 
 3. Osoby, które posiadają zaświadczenia lub decyzje potwierdzające prawo do rekompensaty wydane na podstawie odrębnych przepisów i nie zrealizowały prawa do rekompensaty, występują do wojewody, który wydał decyzję, lub do wojewody właściwego ze względu na siedzibę starosty, który wydał zaświadczenie lub decyzję, z wnioskiem o ujawnienie w rejestrze, o którym mowa w art. 19 ust. 1, wybranej formy realizacji prawa do rekompensaty zgodnie z art. 13 ust. 1. W przypadku wyboru świadczenia pieniężnego realizowanego w formie przelewu osoba uprawniona wskazuje numer rachunku bankowego.
 
-3a. Organem właściwym w sprawach zmiany, stwierdzenia nieważności lub wznowienia postępowania w sprawach zaświadczeń i decyzji potwierdzających prawo do rekompensaty wydanych na podstawie odrębnych przepisów jest wojewoda, o którym mowa w ust. 3.
-
 4. Na decyzji lub zaświadczeniu, o których mowa w ust. 3, wojewoda zamieszcza adnotację o wybranej formie realizacji prawa do rekompensaty oraz o wysokości rekompensaty, określonej zgodnie z art. 13.
 
 **Art. 8.**
@@ -124,13 +122,13 @@ source: "isap-pdf"
 
 2. Waloryzacji, o której mowa w ust. 1 pkt 2, dokonuje się zgodnie z art. 5 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
-**Art. 9.** Organem wyższego stopnia w sprawach, o których mowa w art. 5 ust. 3 i art. 7 ust. 2, jest minister właściwy do spraw administracji publicznej.
+**Art. 9.** Organem wyższego stopnia w sprawach, o których mowa w art. 5 ust. 3 i art. 7 ust. 2, jest minister właściwy do spraw Skarbu Państwa.
 
 **Art. 10.**
 
 1. Operaty szacunkowe, o których mowa w art. 7 ust. 1 pkt 3, są sporządzane z uwzględnieniem dowodów wymienionych w art. 6 ust. 1 pkt 1 i ust. 3.
 
-2. W przypadku operatów szacunkowych, o których mowa w ust. 1, nie stosuje się przepisów art. 156 ust. 3 i 4 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
+2. W przypadku operatów szacunkowych, o których mowa w ust. 1, nie stosuje się przepisów art. 156 ust. 4 i art. 158 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
 **Art. 11.**
 
@@ -139,12 +137,12 @@ source: "isap-pdf"
 2. Za porównywalne województwa i miasta wydzielone, z uwzględnieniem współczynników, o których mowa w ust. 1, uznaje się:
 
 - **1)** woj. lwowskie – województwo podkarpackie, współczynnik 1,00;
-- **2)** woj. tarnopolskie – województwo małopolskie, współczynnik 0,67, – województwo podkarpackie, współczynnik 0,76;
-- **3)** woj. stanisławowskie – województwo małopolskie, współczynnik 0,74, – województwo podkarpackie, współczynnik 0,84;
-- **4)** woj. wołyńskie – województwo lubelskie, współczynnik 0,84, – województwo świętokrzyskie, współczynnik 1,02;
+- **2)** woj. tarnopolskie – województwo małopolskie, współczynnik 0,67,- województwo podkarpackie, współczynnik 0,76;
+- **3)** woj. stanisławowskie – województwo małopolskie, współczynnik 0,74,- województwo podkarpackie, współczynnik 0,84;
+- **4)** woj. wołyńskie – województwo lubelskie, współczynnik 0,84,- województwo świętokrzyskie, współczynnik 1,02;
 - **5)** woj. poleskie – województwo podlaskie, współczynnik 0,71;
-- **6)** woj. wileńskie – województwo podlaskie, współczynnik 0,64, – województwo mazowieckie, współczynnik 0,41;
-- **7)** woj. nowogródzkie – województwo podlaskie, współczynnik 0,80, – województwo mazowieckie, współczynnik 0,52;
+- **6)** woj. wileńskie – województwo podlaskie, współczynnik 0,64,- województwo mazowieckie, współczynnik 0,41;
+- **7)** woj. nowogródzkie – województwo podlaskie, współczynnik 0,80,- województwo mazowieckie, współczynnik 0,52;
 - **8)** woj. białostockie – województwo podlaskie, współczynnik 1,00;
 - **9)** miasto Lwów – miasto Kraków, współczynnik 1,00;
 - **10)** miasto Wilno – miasto Lublin, współczynnik 1,00.
@@ -155,7 +153,7 @@ source: "isap-pdf"
 
 5. Wartość nieruchomości pozostawionych poza obecnymi granicami Rzeczypospolitej Polskiej określa się według stanu na dzień ich pozostawienia oraz według cen albo kosztów odtworzenia na dzień sporządzenia wyceny.
 
-6. Wartość nieruchomości określoną według zasad, o których mowa w ust. 1 i 3– 5, mnoży się przez współczynniki wymienione w ust. 2.
+6. Wartość nieruchomości określoną według zasad, o których mowa w ust. 1 i 3–5, mnoży się przez współczynniki wymienione w ust. 2.
 
 **Art. 12.**
 
@@ -167,11 +165,11 @@ source: "isap-pdf"
 
 1. Prawo do rekompensaty jest realizowane w jednej z następujących form:
 
-- **1)** zaliczenia wartości nieruchomości pozostawionych poza obecnymi granicami Rzeczypospolitej Polskiej na poczet:
-    - **a)** ceny sprzedaży nieruchomości stanowiących własność Skarbu Państwa albo
-    - **b)** ceny sprzedaży prawa użytkowania wieczystego przysługującego Skarbowi Państwa, albo
-    - **c)** opłat z tytułu użytkowania wieczystego nieruchomości gruntowych stanowiących własność Skarbu Państwa i ceny sprzedaży położonych na nich budynków oraz innych urządzeń lub lokali, albo
-    - **d)** opłaty za przekształcenie prawa użytkowania wieczystego w prawo własności nieruchomości stanowiących własność Skarbu Państwa, o którym mowa w przepisach odrębnych, albo
+- **1)** zaliczenia wartości nieruchomości pozostawionych poza obecnymi granicami Rzeczypospolitej Polskiej na poczet: ceny sprzedaży nieruchomości stanowiących własność Skarbu Państwa albo ceny sprzedaży prawa użytkowania wieczystego przysługującego Skarbowi Państwa, albo opłat z tytułu użytkowania wieczystego nieruchomości gruntowych stanowiących własność Skarbu Państwa i ceny sprzedaży położonych na nich budynków oraz innych urządzeń lub lokali, albo opłaty za przekształcenie prawa użytkowania wieczystego w prawo własności nieruchomości stanowiących własność Skarbu Państwa, o którym mowa w przepisach odrębnych, albo
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **2)** świadczenia pieniężnego wypłacanego ze środków Funduszu Rekompensacyjnego, o którym mowa w art. 16.
 
@@ -193,27 +191,25 @@ source: "isap-pdf"
 
 **Art. 16.**
 
-1. Tworzy się państwowy fundusz celowy pod nazwą „Fundusz Rekompensacyjny”, z którego są finansowane wypłaty świadczenia pieniężnego, o którym mowa w art. 13 ust. 1 pkt 2, oraz obsługa wypłat tych świadczeń. Dysponentem Funduszu Rekompensacyjnego jest minister właściwy do spraw administracji publicznej.
+1. Tworzy się państwowy fundusz celowy pod nazwą „Fundusz Rekompensacyjny”, z którego są finansowane wypłaty świadczenia pieniężnego, o którym mowa w art. 13 ust. 1 pkt 2, oraz obsługa wypłat tych świadczeń. Dysponentem Funduszu Rekompensacyjnego jest minister właściwy do spraw Skarbu Państwa.
 
 2. Przychodami Funduszu Rekompensacyjnego są:
 
-- **1)** wpływy ze sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa, z ich częściami składowymi, realizowanej w trybach przetargowych, o których mowa w art. 29 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2016 r. poz. 1491 i 2260 oraz z 2017 r. poz. 624 i 1566), o łącznej powierzchni nie mniejszej niż 400 000 ha;
-- **1a)** wpływy z tytułu odpłatnego korzystania z mienia Zasobu Własności Rolnej Skarbu Państwa w wysokości ustalonej w rocznym planie finansowym Zasobu Własności Rolnej Skarbu Państwa;
-- **2)** odsetki od wolnych środków przekazanych w zarządzanie zgodnie z przepisami o finansach publicznych;
-- **3)** pożyczki z budżetu państwa udzielane w przypadku niedoboru środków wymienionych w pkt 1 i 2, w kwocie określonej w ustawie budżetowej;
-- **4)** inne przychody.
+- **1)** przychody ze sprzedaży nieruchomości pochodzących z Zasobu Własności Rolnej Skarbu Państwa, z ich częściami składowymi, o łącznej powierzchni nie mniejszej niż 400 000 ha;
+- **2)** odsetki z tytułu oprocentowania środków zgromadzonych na rachunku Funduszu Rekompensacyjnego;
+- **3)** pożyczki z budżetu państwa udzielane w przypadku niedoboru środków wymienionych w pkt 1 i 2, w kwocie określonej w ustawie budżetowej.
 
-3. Rada Ministrów na wniosek ministra właściwego do spraw administracji publicznej i ministra właściwego do spraw budżetu, uwzględniając aktualną sytuację budżetu państwa, stan finansów publicznych oraz szczególny cel, na jaki udzielono pożyczki, może umorzyć pożyczki, o których mowa w ust. 2 pkt 3, w przypadku wyczerpania źródeł finansowania Funduszu Rekompensacyjnego, o którym mowa w ust. 2 pkt 1–2.
+3. Rada Ministrów na wniosek ministra właściwego do spraw Skarbu Państwa i ministra właściwego do spraw budżetu państwa, uwzględniając aktualną sytuację budżetu, stan finansów publicznych oraz szczególny cel, na jaki udzielono pożyczki, może umorzyć pożyczki, o których mowa w ust. 2 pkt 3, w przypadku wyczerpania źródeł finansowania Funduszu Rekompensacyjnego, o którym mowa w ust. 2 pkt 1 i 2.
 
-4. Środki ze źródeł, o których mowa w ust. 2 pkt 1 i 1a, Krajowy Ośrodek Wsparcia Rolnictwa przekazuje w formie zaliczek kwartalnych, w wysokości ustalonej w rocznym planie finansowym Zasobu Własności Rolnej Skarbu Państwa, w terminie 30 dni po zakończeniu kwartału. Rozliczenie roczne zobowiązania następuje w terminie 14 dni po zatwierdzeniu przez ministra właściwego do spraw rozwoju wsi sprawozdania finansowego Zasobu Własności Rolnej Skarbu Państwa.
+4. Środki ze źródeł, o których mowa w ust. 2 pkt 1, właściwe jednostki organizacyjne przekazują w formie zaliczek kwartalnych, w wysokości ustalonej na podstawie planów finansowych tych jednostek, w terminie 30 dni po zakończeniu kwartału. Rozliczenie zobowiązań następuje w terminie 60 dni po zakończeniu roku obrotowego lub budżetowego.
 
-5. Do należności Funduszu Rekompensacyjnego w zakresie, o którym mowa w ust. 2, stosuje się przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, 648, 768, 935, 1428 i 1537).
+5. Do należności Funduszu Rekompensacyjnego w zakresie, o którym mowa w ust. 2, stosuje się przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199).
 
 **Art. 17.**
 
-1. Wypłaty świadczenia pieniężnego, o którym mowa w art. 13 ust. 1 pkt 2, dokonuje Bank Gospodarstwa Krajowego, zwany dalej „Bankiem”, ze środków Funduszu Rekompensacyjnego, na podstawie umowy zawartej ze Skarbem Państwa reprezentowanym przez ministra właściwego do spraw administracji publicznej.
+1. Wypłaty świadczenia pieniężnego, o którym mowa w art. 13 ust. 1 pkt 2, dokonuje Bank Gospodarstwa Krajowego, zwany dalej „Bankiem”, ze środków Funduszu Rekompensacyjnego, na podstawie umowy zawartej z ministrem właściwym do spraw Skarbu Państwa.
 
-2. Minister właściwy do spraw administracji publicznej przekazuje Bankowi dane osób uprawnionych do otrzymania świadczenia pieniężnego zawarte w rejestrach, o których mowa w art. 19 ust. 1 i 2.
+2. Minister właściwy do spraw Skarbu Państwa przekazuje Bankowi dane osób uprawnionych do otrzymania świadczenia pieniężnego zawarte w rejestrach, o których mowa w art. 19 ust. 1 i 2.
 
 3. Wypłata świadczenia pieniężnego następuje, na wniosek osoby uprawnionej i po dokonaniu adnotacji, o której mowa w art. 18, w formie wypłaty gotówkowej w placówce Banku lub przelewu na wskazany przez osobę uprawnioną rachunek bankowy.
 
@@ -248,7 +244,7 @@ source: "isap-pdf"
 - **2)** osób, którym te prawa przysługują;
 - **3)** stanu i formy realizacji tych praw.
 
-2. Wojewodowie przekazują raz na kwartał, w terminie do końca miesiąca następującego po zakończeniu kwartału, dane zawarte w rejestrach wojewódzkich ministrowi właściwemu do spraw administracji publicznej, który prowadzi rejestr centralny.
+2. Wojewodowie przekazują raz na kwartał, w terminie do końca miesiąca następującego po zakończeniu kwartału, dane zawarte w rejestrach wojewódzkich ministrowi właściwemu do spraw Skarbu Państwa, który prowadzi rejestr centralny.
 
 3. Rejestry, o których mowa w ust. 1 i 2, są prowadzone w formie elektronicznej.
 
@@ -263,15 +259,40 @@ source: "isap-pdf"
 
 6. Bank jest obowiązany do przekazywania właściwemu wojewodzie potwierdzenia wypłaty środków pieniężnych w terminie 14 dni od dnia wypłaty świadczenia pieniężnego.
 
-7. Minister właściwy do spraw administracji publicznej określi, w drodze rozporządzenia, wzory rejestrów, o których mowa w ust. 1 i 2, uwzględniając potrzebę sprawnego przepływu danych i kontroli realizacji praw do rekompensaty.
+7. Minister właściwy do spraw Skarbu Państwa określi, w drodze rozporządzenia, wzory rejestrów, o których mowa w ust. 1 i 2, uwzględniając potrzebę sprawnego przepływu danych i kontroli realizacji praw do rekompensaty.
 
-**Art. 20.** Do postępowań zakończonych wydaniem decyzji lub zaświadczeń potwierdzających prawo do rekompensaty stosuje się art. 145, art. 145a, art. 146 § 2, art. 147–152, art. 154 § 2, art. 155–159 oraz art. 161–163 Kodeksu postępowania administracyjnego, z tym że w przypadku zaświadczeń przepisy te stosuje się odpowiednio. Art. 21–25. (pominięte)
+**Art. 20.** Do postępowań zakończonych wydaniem decyzji lub zaświadczeń potwierdzających prawo do rekompensaty stosuje się przepisy działu II rozdziału 12 i 13 Kodeksu postępowania administracyjnego, z wyłączeniem art. 146 § 1.
+
+**Art. 21.** W ustawie z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2004 r. Nr 142, poz. 1514 i Nr 146, poz. 1546 oraz z 2005 r. Nr 143, poz. 1199) w art. 4 w ust. 1 w pkt 15 kropkę zastępuje się średnikiem i dodaje się pkt 16 w brzmieniu: „
+
+- **16)** nabycie w drodze spadku prawa do rekompensaty w rozumieniu ustawy z dnia 8 lipca 2005 r. o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej (Dz. U. Nr 169, poz. 1418). ” .
+
+**Art. 22.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. Nr 14, poz. 176, z późn. zm.) w art. 21 w ust. 1 po pkt 30 dodaje się pkt 30a w brzmieniu: „
+
+- **30a)** przychody uzyskane z tytułu: realizacji prawa do rekompensaty na podstawie ustawy z dnia 8 lipca 2005 r. o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej (Dz. U. Nr 169, poz. 1418), przez osoby uprawnione na podstawie tej ustawy, sprzedaży nieruchomości lub prawa użytkowania wieczystego, nabytych w związku z realizacją prawa do rekompensaty, o której mowa w lit. a), do wysokości odpowiadającej procentowemu udziałowi wartości tej rekompensaty w cenie nieruchomości lub prawa użytkowania wieczystego z dnia nabycia nieruchomości lub prawa użytkowania wieczystego, ” .
+    - **a)**
+    - **b)**
+
+**Art. 23.** W ustawie z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2002 r. Nr 171, poz. 1397, z późn. zm.) w art. 53 dodaje się ust. 4 w brzmieniu: „ 4. Osobom, o których mowa w przepisach o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej, zalicza się wartość pozostawionych nieruchomości, potwierdzoną decyzją albo zaświadczeniem, w wysokości równej 20% wartości tych nieruchomości, na poczet należności z tytułu:
+
+- **1)** części ceny sprzedaży przedsiębiorstwa, o którym mowa w ust. 2, odpowiadającej wartości praw do nieruchomości wchodzących w skład tego przedsiębiorstwa, o których mowa w przepisach o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej;
+- **2)** ceny sprzedaży albo opłat z tytułu użytkowania wieczystego nieruchomości będących przedmiotem zbycia, jako niestanowiące przedsiębiorstwa mienie przejęte przez Skarb Państwa po rozwiązaniu lub wygaśnięciu umowy o oddanie przedsiębiorstwa do odpłatnego korzystania. ” .
+
+**Art. 24.** W ustawie z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych (Dz. U. z 2005 r. Nr 41, poz. 399 i Nr 143, poz. 1199) w art. 9 w pkt 14 kropkę zastępuje się średnikiem i dodaje się pkt 15 w brzmieniu: „
+
+- **15)** sprzedaż nieruchomości dokonaną w ramach realizacji prawa do rekompensaty w rozumieniu ustawy z dnia 8 lipca 2005 r. o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej (Dz. U. Nr 169, poz. 1418) – do wysokości kwoty odpowiadającej wartości zrealizowanego prawa do rekompensaty. ” .
+
+**Art. 25.** W ustawie z dnia 9 września 2000 r. o opłacie skarbowej (Dz. U. z 2004 r. Nr 253, poz. 2532, z późn. zm.) w art. 2 w ust. 1 w pkt 1 w lit. I średnik zastępuje się przecinkiem i dodaje się lit. m w brzmieniu: „
+
+rekompensat w rozumieniu ustawy z dnia 8 lipca 2005 r. o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej (Dz. U. Nr 169, poz. 1418); ” .
+
+- **m)**
 
 **Art. 26.** Ilekroć w odrębnych przepisach jest mowa o prawie do zaliczania wartości nieruchomości poza obecnymi granicami państwa polskiego w związku z wojną rozpoczętą w 1939 r., należy przez to rozumieć prawo do rekompensaty, o którym mowa w niniejszej ustawie.
 
 **Art. 27.** Postępowania w sprawach potwierdzenia prawa do rekompensaty wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy prowadzi się na podstawie jej przepisów.
 
-**Art. 28.** Traci moc ustawa z dnia 12 grudnia 2003 r. o zaliczaniu na poczet ceny sprzedaży albo opłat z tytułu użytkowania wieczystego nieruchomości Skarbu Państwa wartości nieruchomości pozostawionych poza obecnymi granicami państwa polskiego (Dz. U. z 2004 r. poz. 39 i poz. 2722).
+**Art. 28.** Traci moc ustawa z dnia 12 grudnia 2003 r. o zaliczaniu na poczet ceny sprzedaży albo opłat z tytułu użytkowania wieczystego nieruchomości Skarbu Państwa wartości nieruchomości pozostawionych poza obecnymi granicami państwa polskiego (Dz. U. z 2004 r. Nr 6, poz. 39 i Nr 273, poz. 2722).
 
-**Art. 29.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia .
+**Art. 29.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

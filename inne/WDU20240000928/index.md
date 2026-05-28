@@ -8,12 +8,10 @@ pos: 928
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o ochronie sygnalistów
-
-*USTAWA z dnia 14 czerwca 2024 r.*
+# Ustawa z dnia 14 czerwca 2024 r. o ochronie sygnalistów
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2024-06-14 |
 | Data wydania | 2024-06-24 |
+| Wejście w życie | 2024-09-25 |
 | Ostatnia zmiana | 2025-08-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000928) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/928/text.pdf) |
 
@@ -31,7 +30,33 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa reguluje:
 
+- **1)** warunki objęcia ochroną sygnalistów zgłaszających lub ujawniających publicznie informacje o naruszeniach prawa;
+- **2)** środki ochrony sygnalistów zgłaszających lub ujawniających publicznie informacje o naruszeniach prawa;
+- **3)** zasady ustalania wewnętrznej procedury zgłaszania informacji o naruszeniach prawa i podejmowania działań następczych;
+- **4)** zasady zgłaszania informacji o naruszeniach prawa organowi publicznemu;
+- **5)** zasady ujawnienia publicznego informacji o naruszeniach prawa;
+- **6)** zadania Rzecznika Praw Obywatelskich związane ze zgłaszaniem informacji o naruszeniach prawa;
+- **7)** zadania organów publicznych związane ze zgłaszaniem informacji o naruszeniach prawa i z podejmowaniem działań następczych.
+
 **Art. 2.** Ilekroć w niniejszej ustawie jest mowa o:
+
+- **1)** działaniu następczym – należy przez to rozumieć działanie podjęte przez podmiot prawny lub organ publiczny w celu oceny prawdziwości informacji zawartych w zgłoszeniu oraz w celu przeciwdziałania naruszeniu prawa będącemu przedmiotem zgłoszenia, w szczególności przez postępowanie wyjaśniające, wszczęcie kontroli lub postępowania administracyjnego, wniesienie oskarżenia, działanie podjęte w celu odzyskania środków finansowych lub zamknięcie procedury realizowanej w ramach wewnętrznej procedury dokonywania zgłoszeń naruszeń prawa i podejmowania działań następczych lub procedury przyjmowania zgłoszeń zewnętrznych i podejmowania działań następczych;
+- **2)** działaniu odwetowym – należy przez to rozumieć bezpośrednie lub pośrednie działanie lub zaniechanie w kontekście związanym z pracą, które jest spowodowane zgłoszeniem lub ujawnieniem publicznym i które narusza lub może naruszyć prawa sygnalisty lub wyrządza lub może wyrządzić nieuzasadnioną szkodę sygnaliście, w tym bezpodstawne inicjowanie postępowań przeciwko sygnaliście;
+- **3)** informacji o naruszeniu prawa – należy przez to rozumieć informację, w tym uzasadnione podejrzenie dotyczące zaistniałego lub potencjalnego naruszenia prawa, do którego doszło lub prawdopodobnie dojdzie w podmiocie prawnym, w którym sygnalista uczestniczył w procesie rekrutacji lub innych negocjacji poprzedzających zawarcie umowy, pracuje lub pracował, lub w innym podmiocie prawnym, z którym sygnalista utrzymuje lub utrzymywał kontakt w kontekście związanym z pracą, lub informację dotyczącą próby ukrycia takiego naruszenia prawa;
+- **4)** informacji zwrotnej – należy przez to rozumieć przekazaną sygnaliście informację na temat planowanych lub podjętych działań następczych i powodów takich działań;
+- **5)** kontekście związanym z pracą – należy przez to rozumieć przeszłe, obecne lub przyszłe działania związane z wykonywaniem pracy na podstawie stosunku pracy lub innego stosunku prawnego stanowiącego podstawę świadczenia pracy lub usług lub pełnienia funkcji w podmiocie prawnym lub na rzecz tego podmiotu, lub pełnienia służby w podmiocie prawnym, w ramach których uzyskano informację o naruszeniu prawa oraz istnieje możliwość doświadczenia działań odwetowych;
+- **6)** organie publicznym – należy przez to rozumieć naczelne i centralne organy administracji rządowej, terenowe organy administracji rządowej, organy jednostek samorządu terytorialnego, inne organy państwowe oraz inne podmioty wykonujące z mocy prawa zadania z zakresu administracji publicznej, właściwe do podejmowania działań następczych w dziedzinach wskazanych w art. 3 ust. 1;
+- **7)** osobie, której dotyczy zgłoszenie – należy przez to rozumieć osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, której ustawa przyznaje zdolność prawną, wskazaną w zgłoszeniu lub ujawnieniu publicznym jako osoba, która dopuściła się naruszenia prawa, lub jako osoba, z którą osoba, która dopuściła się naruszenia prawa, jest powiązana;
+- **8)** osobie pomagającej w dokonaniu zgłoszenia – należy przez to rozumieć osobę fizyczną, która pomaga sygnaliście w zgłoszeniu lub ujawnieniu publicznym w kontekście związanym z pracą i której pomoc nie powinna zostać ujawniona;
+- **9)** osobie powiązanej z sygnalistą – należy przez to rozumieć osobę fizyczną, która może doświadczyć działań odwetowych, w tym współpracownika lub osobę najbliższą sygnalisty w rozumieniu art. 115 § 11 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17);
+- **10)** podmiocie prawnym – należy przez to rozumieć podmiot prywatny lub podmiot publiczny;
+- **11)** podmiocie prywatnym – należy przez to rozumieć osobę fizyczną prowadzącą działalność gospodarczą, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, której ustawa przyznaje zdolność prawną, lub pracodawcę, jeżeli nie są podmiotami publicznymi;
+- **12)** podmiocie publicznym – należy przez to rozumieć podmiot wskazany w art. 3 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524);
+- **13)** postępowaniu prawnym – należy przez to rozumieć postępowanie toczące się na podstawie przepisów prawa powszechnie obowiązującego, w szczególności postępowanie karne, cywilne, administracyjne, dyscyplinarne lub o naruszenie dyscypliny finansów publicznych, albo postępowanie toczące się na podstawie regulacji wewnętrznych wydanych w celu wykonania przepisów prawa powszechnie obowiązującego, w szczególności antymobbingowych;
+- **14)** ujawnieniu publicznym – należy przez to rozumieć podanie informacji o naruszeniu prawa do wiadomości publicznej;
+- **15)** zgłoszeniu – należy przez to rozumieć ustne lub pisemne zgłoszenie wewnętrzne lub zgłoszenie zewnętrzne, przekazane zgodnie z wymogami określonymi w ustawie;
+- **16)** zgłoszeniu wewnętrznym – należy przez to rozumieć ustne lub pisemne przekazanie podmiotowi prawnemu informacji o naruszeniu prawa;
+- **17)** zgłoszeniu zewnętrznym – należy przez to rozumieć ustne lub pisemne przekazanie Rzecznikowi Praw Obywatelskich albo organowi publicznemu informacji o naruszeniu prawa.
 
 **Art. 3.**
 
@@ -112,7 +137,7 @@ source: "isap-pdf"
 
 4. Podmiot prawny albo organ publiczny po otrzymaniu zgłoszenia przetwarza dane osobowe w zakresie niezbędnym do przyjęcia zgłoszenia lub podjęcia ewentualnego działania następczego. Dane osobowe, które nie mają znaczenia dla rozpatrywania zgłoszenia, nie są zbierane, a w razie przypadkowego zebrania są niezwłocznie usuwane. Usunięcie tych danych osobowych następuje w terminie 14 dni od chwili ustalenia, że nie mają one znaczenia dla sprawy.
 
-5. Przepisu art. 14 ust. 2 lit. f rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2016/679”, nie stosuje się, chyba że sygnalista nie spełnia warunków wskazanych w art. 6 albo wyraził wyraźną zgodę na ujawnienie swojej tożsamości.
+5. Przepisu art. 14 ust. 2 lit. f rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2016/679”, nie stosuje się, chyba że sygnalista nie spełnia warunków wskazanych w art. 6 albo wyraził wyraźną zgodę na ujawnienie swojej tożsamości.
 
 6. Przepisu art. 15 ust. 1 lit. g rozporządzenia 2016/679 w zakresie przekazania informacji o źródle pozyskania danych osobowych nie stosuje się, chyba że sygnalista nie spełnia warunków wskazanych w art. 6 albo wyraził wyraźną zgodę na takie przekazanie.
 
@@ -128,7 +153,7 @@ source: "isap-pdf"
 
 **Art. 10.**
 
-1. Ustawę stosuje się w zakresie nieuregulowanym w przepisach aktów normatywnych ustanowionych przez instytucje Unii Europejskiej, wymienionych w części II załącznika do dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/1937 z dnia 23 października 2019 r. w sprawie ochrony osób zgłaszających naruszenia prawa Unii (Dz. Urz. UE L 305 z 26.11.2019, str. 17, z późn. zm. ), zwanej dalej „dyrektywą 2019/1937”, oraz w przepisach implementujących albo wykonujących te akty.
+1. Ustawę stosuje się w zakresie nieuregulowanym w przepisach aktów normatywnych ustanowionych przez instytucje Unii Europejskiej, wymienionych w części II załącznika do dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/1937 z dnia 23 października 2019 r. w sprawie ochrony osób zgłaszających naruszenia prawa Unii (Dz. Urz. UE L 305 z 26.11.2019, str. 17, z późn. zm.), zwanej dalej „dyrektywą 2019/1937”, oraz w przepisach implementujących albo wykonujących te akty.
 
 2. Ustawa nie wyłącza stosowania przepisów odrębnych przewidujących szczególny tryb zgłaszania naruszeń prawa, w tym rozpatrywanie informacji o naruszeniu prawa zgłoszonych anonimowo.
 
@@ -548,7 +573,7 @@ source: "isap-pdf"
 - **3)** trybie postępowania mającym zastosowanie w przypadku zgłoszenia zewnętrznego, w tym o wymaganym sposobie wyjaśnienia informacji będących przedmiotem zgłoszenia lub przedstawienia dodatkowych informacji;
 - **4)** terminie przekazania informacji zwrotnej oraz rodzaju i zawartości takiej informacji;
 - **5)** zasadach poufności mających zastosowanie do zgłoszeń zewnętrznych;
-- **6)** zasadach przetwarzania danych osobowych, o których mowa w art. 8, a także zasadach przetwarzania danych osobowych oraz informacji podawanych w przypadku zbierania danych od osoby, której dane dotyczą, uregulowanych odpowiednio w art. 5 i art. 13 rozporządzenia 2016/679, art. 13 dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/680 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych przez właściwe organy do celów zapobiegania przestępczości, prowadzenia postępowań przygotowawczych, wykrywania i ścigania czynów zabronionych i wykonywania kar, w sprawie swobodnego przepływu takich danych oraz uchylającej decyzję ramową Rady 2008/977/WSiSW (Dz. Urz. UE L 119 z 04.05.2016, str. 89, z późn. zm. ) albo art. 15 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1725 z dnia 23 października 2018 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych przez instytucje, organy i jednostki organizacyjne Unii i swobodnego przepływu takich danych oraz uchylenia rozporządzenia (WE) nr 45/2001 i decyzji nr 1247/2002/WE (Dz. Urz. UE L 295 z 21.11.2018, str. 39);
+- **6)** zasadach przetwarzania danych osobowych, o których mowa w art. 8, a także zasadach przetwarzania danych osobowych oraz informacji podawanych w przypadku zbierania danych od osoby, której dane dotyczą, uregulowanych odpowiednio w art. 5 i art. 13 rozporządzenia 2016/679, art. 13 dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/680 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych przez właściwe organy do celów zapobiegania przestępczości, prowadzenia postępowań przygotowawczych, wykrywania i ścigania czynów zabronionych i wykonywania kar, w sprawie swobodnego przepływu takich danych oraz uchylającej decyzję ramową Rady 2008/977/WSiSW (Dz. Urz. UE L 119 z 04.05.2016, str. 89, z późn. zm.) albo art. 15 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1725 z dnia 23 października 2018 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych przez instytucje, organy i jednostki organizacyjne Unii i swobodnego przepływu takich danych oraz uchylenia rozporządzenia (WE) nr 45/2001 i decyzji nr 1247/2002/WE (Dz. Urz. UE L 295 z 21.11.2018, str. 39);
 - **7)** charakterze działań następczych podejmowanych w związku ze zgłoszeniem zewnętrznym;
 - **8)** środkach ochrony prawnej i procedurach służących ochronie przed działaniami odwetowymi oraz dostępności poufnej porady dla osób rozważających dokonanie zgłoszenia zewnętrznego;
 - **9)** warunkach, na jakich sygnalista jest chroniony przed ponoszeniem odpowiedzialności za naruszenie poufności zgodnie z art. 16;
@@ -575,7 +600,7 @@ source: "isap-pdf"
 1. Sygnalista dokonujący ujawnienia publicznego podlega ochronie, jeżeli dokona:
 
 - **1)** zgłoszenia wewnętrznego, a następnie zgłoszenia zewnętrznego, a podmiot prawny, a następnie organ publiczny w terminie na przekazanie informacji zwrotnej ustalonym w procedurze wewnętrznej, a następnie w terminie na przekazanie informacji zwrotnej ustalonym w procedurze zewnętrznej organu publicznego nie podejmą żadnych odpowiednich działań następczych ani nie przekażą sygnaliście informacji zwrotnej lub
-- **2)** od razu zgłoszenia zewnętrznego, a organ publiczny w terminie na przekazanie informacji zwrotnej ustalonym w swojej procedurze zewnętrznej nie podejmie żadnych odpowiednich działań następczych ani nie przekaże sygnaliście informacji zwrotnej – chyba że sygnalista nie podał adresu do kontaktu, na który należy przekazać taką informację.
+- **2)** od razu zgłoszenia zewnętrznego, a organ publiczny w terminie na przekazanie informacji zwrotnej ustalonym w swojej procedurze zewnętrznej nie podejmie żadnych odpowiednich działań następczych ani nie przekaże sygnaliście informacji zwrotnej chyba że sygnalista nie podał adresu do kontaktu, na który należy przekazać taką informację.
 
 2. Sygnalista dokonujący ujawnienia publicznego podlega ochronie także w przypadku, gdy ma uzasadnione podstawy sądzić, że:
 
@@ -613,7 +638,15 @@ source: "isap-pdf"
 
 **Art. 60.** W ustawie z dnia 15 lipca 1987 r. o Rzeczniku Praw Obywatelskich (Dz. U. z 2023 r. poz. 1058) wprowadza się następujące zmiany:
 
-**Art. 61.** W ustawie z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej (Dz. U. z 2021 r. poz. 945) po art. 4 dodaje się art. 4 w brzmieniu: „Art. 4 . Nieodpłatna pomoc prawna i nieodpłatne poradnictwo obywatelskie przysługują osobie chcącej dokonać zgłoszenia naruszenia prawa w rozumieniu ustawy z dnia 14 czerwca 2024 r. o ochronie sygnalistów (Dz. U. poz. 928). Przepisów art. 4 nie stosuje się.”.
+- **1)** w art. 1 dodaje się ust. 5 w brzmieniu: „
+
+5. Rzecznik wykonuje zadania określone w ustawie z dnia 14 czerwca 2024 r. o ochronie sygnalistów (Dz. U. poz. 928). ” ;
+
+- **2)** w art. 19 dodaje się ust. 5 w brzmieniu: „
+
+5. Rzecznik raz na dwa lata przekazuje Sejmowi i Senatowi sprawozdanie z wykonania ustawy, o której mowa w art. 1 ust. 5. ” .
+
+**Art. 61.** W ustawie z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej (Dz. U. z 2021 r. poz. 945) po art. 4 dodaje się art. 41w brzmieniu: „ Nieodpłatna pomoc prawna i nieodpłatne poradnictwo obywatelskie przysługują osobie chcącej dokonać zgłoszenia naruszenia prawa w rozumieniu ustawy z dnia 14 czerwca 2024 r. o ochronie sygnalistów (Dz. U. poz. 928). Przepisów art. 4 nie stosuje się. ” .
 
 **Art. 62.** Sprawozdania, o których mowa w art. 47 ust. 1 i 4, za rok 2025 organ publiczny oraz Rzecznik Praw Obywatelskich sporządzają za okres od dnia rozpoczęcia przyjmowania zgłoszeń zewnętrznych.
 

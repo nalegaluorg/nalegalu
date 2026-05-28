@@ -1,0 +1,191 @@
+---
+title: Rozporządzenie Ministra Zdrowia z dnia 11 października 2022 r. zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu opieki psychiatrycznej i leczenia uzależnień
+address: WDU20220002184
+eli: DU/2022/2184
+publisher: DU
+year: 2022
+pos: 2184
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Rozporządzenie Ministra Zdrowiaz dnia 11 października 2022 r. zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu opieki psychiatrycznej i leczenia uzależnień
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2022 poz. 2184 |
+| ISAP | WDU20220002184 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2022-10-11 |
+| Data wydania | 2022-10-26 |
+| Wejście w życie | 2022-11-01 |
+| Ostatnia zmiana | 2026-03-23 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002184) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2184/text.pdf) |
+
+Treść rozporządzenia
+Załącznik – Wykaz świadczeń gwarantowanych z zakresu opieki psychiatrycznej dzieci i młodzieży oraz warunki ich realizacji w ramach poziomów referencyjnych
+Treść rozporządzenia
+Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Ministra Zdrowia z dnia 19 czerwca 2019 r. w sprawie świadczeń gwarantowanych z zakresu opieki psychiatrycznej i leczenia uzależnień (Dz. U. poz. 1285, z późn. zm.) wprowadza się następujące zmiany:
+1)
+w § 2:
+a)
+pkt 1 otrzymuje brzmienie:
+„
+1)
+instruktor terapii uzależnień – osobę, która posiada kwalifikacje instruktora terapii uzależnień uzyskane na podstawie ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2020 r. poz. 2050, z późn. zm.) lub przepisów wydanych na podstawie art. 22 ust. 3 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2021 r. poz. 1119 i 2469 oraz z 2022 r. poz. 24, 218 i 1700);
+” ,
+b)
+w pkt 1a w części wspólnej wyrazy „której celem jest uzgodnienie lub uszczegółowienie” zastępuje się wyrazami „w przypadku zidentyfikowania konieczności dokonania uzgodnienia lub uszczegółowienia”,
+c)
+w pkt 6 w lit. f średnik zastępuje się przecinkiem i wyrazem „lub” i dodaje się lit. g w brzmieniu:
+„
+g)
+posiada inne wykształcenie, jeżeli uzyskała pozytywną opinię kierownika oddziału na podstawie co najmniej rocznego doświadczenia w pracy z dziećmi i młodzieżą oraz posiada kompetencje i wiedzę w zakresie terapii zajęciowej – w przypadku realizacji świadczeń z zakresu psychiatrii dzieci i młodzieży;
+” ,
+d)
+użyte w pkt 7 i 9 wyrazy „Państwową Agencję Rozwiązywania Problemów Alkoholowych albo Krajowe Biuro do Spraw Przeciwdziałania Narkomanii” zastępuje się wyrazami „Państwową Agencję Rozwiązywania Problemów Alkoholowych, Krajowe Biuro do Spraw Przeciwdziałania Narkomanii albo Krajowe Centrum Przeciwdziałania Uzależnieniom”,
+e)
+po pkt 9a dodaje się pkt 9b w brzmieniu:
+„
+9b)
+osoba w trakcie specjalizacji w dziedzinie psychoterapii uzależnień – osobę uczestniczącą w udzielaniu świadczeń z zakresu psychoterapii uzależnienia i współuzależnienia pod nadzorem specjalisty psychoterapii uzależnień, która ukończyła co najmniej drugi rok szkolenia specjalizacyjnego w dziedzinie psychoterapii uzależnień, albo osobę posiadającą decyzję ministra właściwego do spraw zdrowia o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie, zgodnie z art. 28 ust. 1 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. z 2021 r. poz. 1297);
+” ,
+f)
+w pkt 14a przecinek i wyrazy „którego celem jest współpraca dotycząca” zastępuje się wyrazami „- w przypadku zidentyfikowania potrzeby nawiązania współpracy dotyczącej”,
+g)
+po pkt 15 dodaje się pkt 15a w brzmieniu:
+„
+15a)
+specjalista w dziedzinie psychoterapii dzieci i młodzieży – osobę, która uzyskała tytuł specjalisty w dziedzinie psychoterapii dzieci i młodzieży w sposób określony w rozporządzeniu Ministra Zdrowia z dnia 30 września 2002 r. w sprawie uzyskiwania tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia lub osobę posiadającą decyzję ministra właściwego do spraw zdrowia o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie, zgodnie z art. 28 ust. 1 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia;
+” ,
+h)
+pkt 16 otrzymuje brzmienie:
+„
+16)
+specjalista psychoterapii uzależnień – osobę, która posiada kwalifikacje specjalisty psychoterapii uzależnień uzyskane na podstawie ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii lub przepisów wydanych na podstawie art. 22 ust. 3 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi lub uzyskała tytuł specjalisty w dziedzinie psychoterapii uzależnień;
+” ,
+i)
+po pkt 16 dodaje się pkt 16a-16c w brzmieniu:
+„
+16a)
+superwizja psychoterapii – spotkanie indywidualne lub grupowe o charakterze konsultacji dotyczącej procesu psychoterapeutycznego udzielanej psychoterapeucie (psychoterapeutom) przez superwizora psychoterapii lub psychoterapeutę będącego w trakcie szkolenia dotyczącego superwizji psychoterapii; superwizja ma na celu rozwijanie kompetencji psychoterapeutycznych, w szczególności przez: pomoc w rozpoznaniu sytuacji pacjenta (diagnoza i opracowanie przypadku), wypracowanie strategii pracy z pacjentem na podstawie przyjętej diagnozy, poszukiwanie optymalnych interwencji, przygotowanie psychoterapeuty do trudnej rozmowy z pacjentem, monitorowanie procesu terapeutycznego, rozpoznanie będących po stronie psychoterapeuty źródeł trudności w pracy z pacjentem; superwizja może być realizowana z wykorzystaniem narzędzi teleinformatycznych;
+16b)
+superwizor – psychoterapeutę z co najmniej 7-letnim doświadczeniem w prowadzeniu psychoterapii, posiadającego certyfikat superwizora, potwierdzający kwalifikacje do prowadzenia superwizji psychoterapii, wydawany przez towarzystwa lub stowarzyszenia zrzeszające psychoterapeutów wydające certyfikaty psychoterapeuty i superwizora psychoterapii;
+16c)
+superwizor psychoterapii aplikant – psychoterapeutę będącego w trakcie szkolenia dotyczącego superwizji psychoterapii, posiadającego co najmniej 5-letnie doświadczenie w prowadzeniu psychoterapii oraz certyfikat psychoterapeuty i zaświadczenie o byciu w trakcie ubiegania się o certyfikat superwizora, potwierdzający kwalifikacje do prowadzenia superwizji psychoterapii, wydawany przez towarzystwa lub stowarzyszenia zrzeszające psychoterapeutów wydające certyfikaty psychoterapeuty i superwizora psychoterapii;
+” ;
+2)
+§ 3a otrzymuje brzmienie:
+„
+§ 3a.
+Świadczenia, o których mowa w § 3 pkt 3, z wyłączeniem leczenia środowiskowego (domowego), mogą być realizowane z wykorzystaniem systemów teleinformatycznych, pod warunkiem zapewnienia dostępności personelu wymaganego do ich realizacji w miejscu udzielania świadczeń. Przeprowadzanie procesu diagnostycznego nie może odbywać się wyłącznie z wykorzystaniem systemów teleinformatycznych.
+” ;
+3)
+w § 4:
+a)
+w ust. 1 po wyrazach „załącznik nr 1 do rozporządzenia” dodaje się wyrazy „oraz lp. 5 załącznika nr 8 do rozporządzenia”,
+b)
+w ust. 3 po wyrazach „załącznik nr 3 do rozporządzenia” dodaje się wyrazy „oraz lp. 5 załącznika nr 8 do rozporządzenia”,
+c)
+w ust. 4 po wyrazach „załącznik nr 4 do rozporządzenia” dodaje się wyrazy „oraz lp. 4 załącznika nr 8 do rozporządzenia”,
+d)
+w ust. 6 po wyrazach „załącznik nr 6 do rozporządzenia” dodaje się wyrazy „oraz lp. 1–4 załącznika nr 8 do rozporządzenia”,
+e)
+ust. 8 otrzymuje brzmienie:
+„
+8.
+Wykaz świadczeń gwarantowanych z zakresu opieki psychiatrycznej dzieci i młodzieży oraz warunki ich realizacji w ramach poziomów referencyjnych określa załącznik nr 8 do rozporządzenia.
+” ;
+4)
+w § 11 w pkt 3 kropkę zastępuje się przecinkiem i wyrazem „lub” i dodaje się pkt 4 w brzmieniu:
+„
+4)
+świadczenia psychiatryczne ambulatoryjne dla dzieci i młodzieży określone w lp. 3 i 4 załącznika nr 8 do rozporządzenia bez porady kompleksowo-konsultacyjnej dla osób z autyzmem dziecięcym lub bez programu terapeutyczno-rehabilitacyjnego dla osób z autyzmem dziecięcym.
+” ;
+5)
+użyte w:
+a)
+załączniku nr 2 do rozporządzenia w:
+– lp. 2 w kolumnie 3 w ust. 1 w pkt 3,
+– lp. 3 w kolumnie 3 w ust. 1 w pkt 3 i 4,
+– lp. 4 w kolumnie 3 w ust. 1 w pkt 3 i 4,
+– lp. 5 w kolumnie 3 w ust. 1 w pkt 3 i 4,
+– lp. 6 w kolumnie 3 w ust. 1 w pkt 3 i 4,
+– lp. 7 w kolumnie 3 w ust. 1 w pkt 4,
+– lp. 8 w kolumnie 3 w ust. 1 w pkt 3 i 4,
+– lp. 9 w kolumnie 3 w ust. 1 w pkt 3 i 4,
+– lp. 10 w kolumnie 3 w ust. 1 w pkt 2 i 3,
+– lp. 11 w kolumnie 3 w ust. 1 w pkt 2 i 3,
+– lp. 12 w kolumnie 3 w pkt 1 i 2,
+– lp. 13 w kolumnie 3 w pkt 1 i 2,
+– lp. 14 w kolumnie 3 w ust. 1 w pkt 3 i 4,
+b)
+załączniku nr 5 do rozporządzenia w:
+– lp. 1 w kolumnie 3 w ust. 1 w pkt 4,
+– lp. 2 w kolumnie 3 w ust. 1 w pkt 3 i 4,
+– lp. 3 w kolumnie 3 w ust. 1 w pkt 3 i 4,
+c)
+załączniku nr 7 do rozporządzenia w:
+– lp. 2 w pkt 1 porada lub wizyta diagnostyczna w kolumnie 3 w pkt 2,
+– lp. 3 w pkt 1 porada lub wizyta diagnostyczna w kolumnie 3 w pkt 2,
+– lp. 4 w pkt 1 porada lub wizyta diagnostyczna w kolumnie 3 w pkt 2,
+– lp. 5 w pkt 1 porada lub wizyta diagnostyczna w kolumnie 3 w pkt 2
+– wyrazy „osoba ubiegająca się o otrzymanie certyfikatu specjalisty psychoterapii uzależnień” zastępuje się wyrazami „osoba ubiegająca się o otrzymanie certyfikatu specjalisty psychoterapii uzależnień, lub osoba w trakcie specjalizacji w dziedzinie psychoterapii uzależnień”;
+6)
+użyte w:
+a)
+załączniku nr 2 do rozporządzenia w lp. 1 w kolumnie 3 w ust. 1 w pkt 3,
+b)
+załączniku nr 5 do rozporządzenia w lp. 1 w kolumnie 3 w ust. 1 w pkt 3,
+c)
+załączniku nr 7 do rozporządzenia w lp. 1 w pkt 1 porada lub wizyta diagnostyczna w kolumnie 3 w pkt 2
+wyrazy „osoba ubiegającą się o otrzymanie certyfikatu specjalisty psychoterapii uzależnień” zastępuje się wyrazami „osoba ubiegająca się o otrzymanie certyfikatu specjalisty psychoterapii uzależnień, lub osoba w trakcie specjalizacji w dziedzinie psychoterapii uzależnień”;
+7)
+w załączniku nr 6 do rozporządzenia w:
+a)
+lp. 2 w:
+– pkt 6 porada kompleksowo-konsultacyjna dla osób z autyzmem dziecięcym: – – kolumna 2 otrzymuje brzmienie: „ 6) porada kompleksowo-konsultacyjna dla osób z autyzmem dziecięcym: wstępne – diagnostyczne i kontrolne, specjalistyczne świadczenie dla osób z autyzmem dziecięcym lub innymi całościowymi zaburzeniami rozwoju (F84), nieobjętych opieką w programie terapeutyczno-rehabilitacyjnym dla osób z autyzmem dziecięcym; poradą mogą być objęte również osoby powyżej 18. roku życia z tym rozpoznaniem; świadczenie jest udzielane przez przynajmniej dwie osoby z zespołu specjalistów i obejmuje czynności takie jak: a) zebranie wywiadu, b) badanie stanu psychicznego i somatycznego, c) badanie psychologiczne (w razie potrzeby z zastosowaniem specjalistycznych testów lub kwestionariuszy), d) instruktaż i psychoedukację dla rodzin, e) konsultacje dla osób sprawujących opiekę nad dziećmi w placówkach, prowadzące do ustalenia rozpoznania, diagnozy funkcjonalnej, zaleceń w formie indywidualnego programu terapeutyczno-rehabilitacyjnego i wydania zaświadczenia i opinii w formie pisemnej; porada kompleksowo-konsultacyjna dla osób z autyzmem dziecięcym jest realizowana tylko przez poradnie, które posiadają pokój obserwacji – łącznie dla jednego świadczeniobiorcy do 24 godzin porad w roku; ” , – – w kolumnie 3 ust. 2 otrzymuje brzmienie: „ 2. Pozostałe warunki: 1) zapewnienie konsultacji lekarza specjalisty w dziedzinie pediatrii lub lekarza, który posiada specjalizację I stopnia w dziedzinie pediatrii, lub lekarza specjalisty w dziedzinie neurologii dziecięcej – przeszkolonych w zakresie diagnostyki i terapii autyzmu; 2) czas udzielania porady wynosi 60 minut albo 120 minut. ” , – pkt 12 program terapeutyczno-rehabilitacyjny dla osób z autyzmem dziecięcym w: – – kolumnie 2 w lit. a skreśla się wyraz „psychologicznej”, – – kolumnie 2 lit. b otrzymuje brzmienie: „ b) terapię i poradnictwo psychologiczne dla świadczeniobiorców i ich rodzin, ” , – – kolumnie 2 lit. e otrzymuje brzmienie: „ e) grupowe zajęcia terapeutyczne (minimum 2 osoby personelu). Realizacja świadczenia jest możliwa przy założeniu regularnych spotkań grupy od 5 do 10 osób. Jednocześnie grupowe zajęcia terapeutyczne mogą się odbyć w przypadku absencji uczestników, jeżeli uczestniczą w nich minimum 3 osoby. ” , – – kolumnie 3 w ust. 1 uchyla się pkt 1, – – kolumnie 3 w ust. 1 w pkt 3 po wyrazach „pedagog specjalny” dodaje się wyrazy „lub pedagog”, – – kolumnie 3 ust. 2 otrzymuje brzmienie: „ 2. Pozostałe warunki: 1) wizyty terapeutyczne realizuje pedagog specjalny lub pedagog, lub fizjoterapeuta, lub osoba prowadząca terapię zajęciową; czas trwania wizyty wynosi 60 minut – dla każdej osoby personelu; 2) terapię i poradnictwo psychologiczne dla świadczeniobiorców i ich rodzin realizuje psycholog; czas trwania sesji wynosi 60 minut; 3) terapię zaburzeń mowy oraz porozumiewania się realizuje logopeda; czas trwania wizyty wynosi 60 minut; 4) psychoedukację rodziców realizuje psycholog lub pedagog specjalny, lub pedagog; czas trwania wizyty wynosi 60 minut; 5) grupowe zajęcia terapeutyczne są prowadzone przez minimum dwie osoby personelu; czas trwania wizyty wynosi 60 minut albo 120 minut; 6) czas trwania programu wynosi łącznie 60 minut albo 120 minut, albo 180 minut dziennie. ” ,
+b)
+lp. 7 w:
+– pkt 2 porada kompleksowo-konsultacyjna dla osób z autyzmem dziecięcym: – – kolumna 2 otrzymuje brzmienie: „ 2) porada kompleksowo-konsultacyjna dla osób z autyzmem dziecięcym: wstępne – diagnostyczne i kontrolne, specjalistyczne świadczenie dla osób z autyzmem dziecięcym lub innymi całościowymi zaburzeniami rozwoju (F84), nieobjętych opieką w programie terapeutyczno-rehabilitacyjnym dla osób z autyzmem dziecięcym; poradą mogą być objęte również osoby powyżej 18. roku życia z tym rozpoznaniem; świadczenie jest udzielane przez przynajmniej dwie osoby z zespołu specjalistów i obejmuje czynności takie jak: a) zebranie wywiadu, b) badanie stanu psychicznego i somatycznego, c) badanie psychologiczne (w razie potrzeby z zastosowaniem specjalistycznych testów lub kwestionariuszy), d) instruktaż i psychoedukację dla rodzin, e) konsultacje dla osób sprawujących opiekę nad dziećmi w placówkach, prowadzące do ustalenia rozpoznania, diagnozy funkcjonalnej, zaleceń w formie indywidualnego programu terapeutyczno-rehabilitacyjnego i wydania zaświadczenia i opinii w formie pisemnej; porada kompleksowo-konsultacyjna dla osób z autyzmem dziecięcym jest realizowana tylko przez poradnie, które posiadają pokój obserwacji – łącznie dla jednego świadczeniobiorcy do 24 godzin porad w roku; ” , – – w kolumnie 3 ust. 2 otrzymuje brzmienie: „ 2. Pozostałe warunki: 1) zapewnienie konsultacji lekarza specjalisty w dziedzinie pediatrii lub lekarza, który posiada specjalizację I stopnia w dziedzinie pediatrii, lub lekarza specjalisty w dziedzinie neurologii dziecięcej – przeszkolonych w zakresie diagnostyki i terapii autyzmu; 2) czas udzielania porady wynosi 60 minut albo 120 minut. ” , – pkt 3 program terapeutyczno-rehabilitacyjny dla osób z autyzmem dziecięcym w: – – kolumnie 2 w lit. a skreśla się wyraz „psychologicznej”, – – kolumnie 2 lit. b otrzymuje brzmienie: „ b) terapię i poradnictwo psychologiczne dla świadczeniobiorców i ich rodzin, ” , – – kolumnie 2 lit. e otrzymuje brzmienie: „ e) grupowe zajęcia terapeutyczne (minimum 2 osoby personelu). Realizacja świadczenia jest możliwa przy założeniu regularnych spotkań grupy od 5 do 10 osób. Jednocześnie grupowe zajęcia terapeutyczne mogą się odbyć w przypadku absencji uczestników, jeżeli uczestniczą w nich minimum 3 osoby. ” , – – kolumnie 3 w ust. 1 uchyla się pkt 1, – – kolumnie 3 w ust. 1 w pkt 3 po wyrazach „pedagog specjalny” dodaje się wyrazy „lub pedagog”, – – kolumnie 3 ust. 2 otrzymuje brzmienie: „ 2. Pozostałe warunki: 1) wizyty terapeutyczne realizuje pedagog specjalny lub pedagog, lub fizjoterapeuta, lub osoba prowadząca terapię zajęciową; czas trwania wizyty wynosi 60 minut – dla każdej osoby personelu; 2) terapię i poradnictwo psychologiczne dla świadczeniobiorców i ich rodzin realizuje psycholog; czas trwania sesji wynosi 60 minut; 3) terapię zaburzeń mowy oraz porozumiewania się realizuje logopeda; czas trwania wizyty wynosi 60 minut; 4) psychoedukację rodziców realizuje psycholog lub pedagog specjalny, lub pedagog; czas trwania wizyty wynosi 60 minut; 5) grupowe zajęcia terapeutyczne są prowadzone przez minimum dwie osoby personelu; czas trwania wizyty wynosi 60 minut albo 120 minut; 6) czas trwania programu wynosi łącznie 60 minut albo 120 minut, albo 180 minut dziennie. ” ;
+8)
+w załączniku nr 7 do rozporządzenia w:
+– lp. 1 w: – – pkt 2 porada lub wizyta terapeutyczna w kolumnie 3 w pkt 5, – – pkt 4 wizyta instruktora terapii uzależnień w kolumnie 3 w pkt 2, – – pkt 5 sesja psychoterapii indywidualnej w kolumnie 3 w ust. 1 w pkt 2, – – pkt 6 sesja psychoterapii rodzinnej w kolumnie 3 w ust. 1 w pkt 2, – – pkt 7 sesja psychoterapii grupowej w kolumnie 3 w ust. 1 w pkt 2, – – pkt 8 sesja psychoedukacyjna w kolumnie 3 w ust. 1 w pkt 2, – lp. 2 w: – – pkt 2 porada lub wizyta terapeutyczna w kolumnie 3 w pkt 5, – – pkt 4 wizyta instruktora terapii uzależnień w kolumnie 3 w pkt 2, – – pkt 5 sesja psychoterapii indywidualnej w kolumnie 3 w ust. 1 w pkt 2, – – pkt 6 sesja psychoterapii rodzinnej w kolumnie 3 w ust. 1 w pkt 2, – – pkt 7 sesja psychoterapii grupowej w kolumnie 3 w ust. 1 w pkt 2, – – pkt 8 sesja psychoedukacyjna w kolumnie 3 w ust. 1 w pkt 2, – lp. 3 w: – – pkt 2 porada lub wizyta terapeutyczna w kolumnie 3 w pkt 5, – – pkt 4 wizyta instruktora terapii uzależnień w kolumnie 3 w ust. 1 w pkt 2, – – pkt 5 sesja psychoterapii indywidualnej w kolumnie 3 w ust. 1 w pkt 2, – – pkt 6 sesja psychoterapii rodzinnej w kolumnie 3 w ust. 1 w pkt 2, – – pkt 7 sesja psychoterapii grupowej w kolumnie 3 w ust. 1 w pkt 2, – – pkt 8 sesja psychoedukacyjna w kolumnie 3 w ust. 1 w pkt 2, – lp. 4 w: – – pkt 2 porada lub wizyta terapeutyczna w kolumnie 3 w pkt 5, – – pkt 4 wizyta instruktora terapii uzależnień w kolumnie 3 w pkt 2, – – pkt 5 sesja psychoterapii indywidualnej w kolumnie 3 w ust. 1 w pkt 2, – – pkt 6 sesja psychoterapii rodzinnej w kolumnie 3 w ust. 1 w pkt 2, – – pkt 7 sesja psychoterapii grupowej w kolumnie 3 w ust. 1 w pkt 2, – – pkt 8 sesja psychoedukacyjna w kolumnie 3 w ust. 1 w pkt 2, – lp. 5 w: – – pkt 2 porada lub wizyta terapeutyczna w kolumnie 3 w pkt 5, – – pkt 4 wizyta instruktora terapii uzależnień w kolumnie 3 w pkt 2, – – pkt 5 sesja psychoterapii indywidualnej w kolumnie 3 w ust. 1 w pkt 2, – – pkt 6 sesja psychoterapii rodzinnej w kolumnie 3 w ust. 1 w pkt 2, – – pkt 7 sesja psychoterapii grupowej w kolumnie 3 w ust. 1 w pkt 2, – – pkt 8 sesja psychoedukacyjna w kolumnie 3 w ust. 1 w pkt 2 – wyrazy „osoba ubiegająca się o otrzymanie certyfikatu specjalisty psychoterapii uzależnień” zastępuje się wyrazami „osoba ubiegająca się o otrzymanie certyfikatu specjalisty psychoterapii uzależnień lub osoba w trakcie specjalizacji w dziedzinie psychoterapii uzależnień”;
+9)
+załącznik nr 8 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+§ 2.
+1.
+Prezes Narodowego Funduszu Zdrowia w terminie 3 miesięcy od dnia wejścia w życie niniejszego rozporządzenia przedstawia świadczeniodawcom udzielającym świadczeń określonych w:
+1)
+załączniku nr 1 do rozporządzenia zmienianego w § 1 w lp. 2 – świadczenia psychiatryczne dla dzieci i młodzieży obejmujące diagnostykę i leczenie dzieci i młodzieży objętych obowiązkiem szkolnym i obowiązkiem nauki oraz kształcących się w szkołach ponadpodstawowych do ich ukończenia,
+2)
+załączniku nr 4 do rozporządzenia zmienianego w § 1 w lp. 3 – świadczenia dzienne psychiatryczne rehabilitacyjne dla dzieci i młodzieży,
+3)
+załączniku nr 6 do rozporządzenia zmienianego w § 1 w lp. 2 – świadczenia psychiatryczne ambulatoryjne dla dzieci i młodzieży – porady, wizyty domowe lub środowiskowe, sesje psychoterapii, programy
+propozycje zmiany umów o udzielanie świadczeń opieki zdrowotnej w zakresie określonym w załączniku nr 8 do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, obejmujących postanowienia dotyczące wymagań w zakresie personelu, zakresu udzielanych świadczeń, organizacji udzielania świadczeń, pozostałych wymagań oraz sposobu i poziomu ich finansowania.
+2.
+Propozycja, o której mowa w ust. 1 pkt 3, dotyczy również świadczeń opieki zdrowotnej w zakresie określonym w załączniku nr 8 do rozporządzenia zmienianego w § 1 w lp. 1 lub 2, z wyjątkiem świadczeniodawców posiadających umowę w tym zakresie.
+3.
+Świadczeniodawca, o którym mowa w ust. 1, spełniający wymagania określone w załączniku nr 8 do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, nie później niż do dnia 31 grudnia 2022 r. podpisuje umowę, o której mowa w ust. 1, i przekazuje ją dyrektorowi właściwego oddziału wojewódzkiego Narodowego Funduszu Zdrowia.
+4.
+W przypadku nieprzekazania przez świadczeniodawcę umowy, o której mowa w ust. 1, w terminie, o którym mowa w ust. 1, świadczenia są udzielane na dotychczasowych zasadach.
+§ 3.
+Świadczeniobiorcy, którzy rozpoczęli terapię na podstawie wskazań innych niż określone w załączniku nr 8 do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w zakresie lp. 3 kolumna 4 pkt 6–8 oraz lp. 4 kolumna 4 pkt 7–9, w przypadku podpisania przez świadczeniodawcę umowy o udzielanie świadczeń opieki zdrowotnej w ramach centrum zdrowia psychicznego dla dzieci i młodzieży – poradni zdrowia psychicznego – II poziom referencyjny lub centrum zdrowia psychicznego dla dzieci i młodzieży – II poziom referencyjny mogą, w okresie nieprzekraczającym roku od rozpoczęcia tej terapii, kontynuować u dotychczasowego świadczeniodawcy realizację świadczeń: sesja psychoterapii indywidualnej, sesja psychoterapii grupowej oraz sesja psychoterapii rodzinnej na dotychczasowych zasadach.
+§ 4.
+Rozporządzenie wchodzi w życie z dniem 1 listopada 2022 r., z wyjątkiem:
+1)
+§ 1 pkt 9 w zakresie lp. 3 kolumna 3 ust. 2 pkt 2 lit. a oraz lp. 4 kolumna 3 ust. 2 pkt 1 lit. b tiret pierwsze, które wchodzą w życie z dniem 1 stycznia 2023 r.;
+2)
+§ 1 pkt 9 w zakresie lp. 1 kolumna 3 ust. 2 pkt 3 oraz lp. 2 kolumna 3 ust. 2 pkt 3, które wchodzą w życie z dniem 1 kwietnia 2023 r.;
+3)
+§ 1 pkt 9 w zakresie lp. 4 kolumna 3 ust. 3 pkt 3, który wchodzi w życie z dniem 1 września 2023 r.
+1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807, 974, 1002, 1079, 1265, 1352, 1700, 1855, 2140 i 2180. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2019 r. poz. 1640, z 2020 r. poz. 456, 1641, 1785 i 2155 oraz z 2021 r. poz. 2400. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2469 oraz z 2022 r. poz. 763, 764, 1700, 1812 i 1855.
+Załącznik – Wykaz świadczeń gwarantowanych z zakresu opieki psychiatrycznej dzieci i młodzieży oraz warunki ich realizacji w ramach poziomów referencyjnych
+patrz oryginał
+

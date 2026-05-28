@@ -8,10 +8,10 @@ pos: 859
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# niektórych innych ustaw
+# Ustawa z dnia 21 kwietnia 2017 r. o zmianie ustawy o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -22,16 +22,23 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2017-04-21 |
 | Data wydania | 2017-04-28 |
+| Wejście w życie | 2017-04-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000859) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/859/text.pdf) |
 
-**Art. 1.** W ustawie dnia 14 marca 2003 stopniach naukowych tytule naukowym stopniach tytule zakresie sztuki (Dz. U. 2016 poz. 882 1311) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki (Dz. U. z 2016 r. poz. 882 i 1311) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 26 lipca 1991 podatku dochodowym od osób fizycznych (Dz. U. 2016 poz. 2032 2048 poz. 60, 528 648) 21 1 pkt 39 otrzymuje brzmienie: „39) stypendia otrzymywane podstawie przepisów stopniach naukowych tytule naukowym stopniach tytule zakresie sztuki, stypendia doktoranckie otrzymywane podstawie przepisów szkolnictwie wyższym lub stypendia przyznawane podstawie przepisów zasadach finansowania nauki inne stypendia naukowe stypendia za wyniki nauce, których zasady przyznawania zostały zatwierdzone przez ministra właściwego do spraw szkolnictwa wyższego, po zasięgnięciu opinii Rady Głównej Nauki Szkolnictwa Wyższego, albo przez ministra właściwego do spraw oświaty wychowania;”.
+- **1)** w art. 13: ust. 1 otrzymuje brzmienie: „
+    - **a)**
 
-**Art. 3.** W ustawie dnia 27 lipca 2005 – Prawo szkolnictwie wyższym (Dz. U. 2016 poz. 1842, późn. zm. ) wprowadza się następujące zmiany:
+1. Rozprawa doktorska, przygotowywana pod opieką promotora albo pod opieką promotora i promotora pomocniczego, powinna stanowić oryginalne rozwiązanie problemu naukowego lub oryginalne rozwiązanie problemu w oparciu o opracowanie projektowe, konstrukcyjne, technologiczne, lub oryginalne dokonanie artystyczne, oraz wykazywać ogólną wiedzę teoretyczną kandydata w danej dyscyplinie naukowej lub artystycznej oraz umiejętność samodzielnego prowadzenia pracy naukowej lub artystycznej. ” , ust. 3 otrzymuje brzmienie: „
 
-**Art. 4.** W ustawie dnia 30 kwietnia 2010 zasadach finansowania nauki (Dz. U. 2016 poz. 2045, 1933 2260) wprowadza się następujące zmiany:
+- **b)**
 
-**Art. 8.** Ustawa wchodzi życie dniem następującym po dniu ogłoszenia.
+3. Rozprawę doktorską może stanowić praca projektowa, konstrukcyjna, technologiczna, wdrożeniowa lub artystyczna, jeżeli odpowiada warunkom określonym w ust. 1. ” ;
+
+- **2)** w art. 33 ust. 3 otrzymuje brzmienie: „
+
+3.
+
 

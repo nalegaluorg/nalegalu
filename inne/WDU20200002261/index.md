@@ -8,12 +8,10 @@ pos: 2261
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Prawo o stowarzyszeniach W celu stworzenia warunków do pełnej realizacji gwarantowanej przepisami Konstytucji wolności zrzeszania się zgodnie z Powszechną Deklaracją Praw Człowieka i Międzynarodowym Paktem Praw Obywatelskich i Politycznych, umożliwienia obywatelom równego, bez względu na przekonania, prawa czynnego uczestniczenia w życiu publicznym i wyrażania zróżnicowanych poglądów oraz realizacji indywidualnych zainteresowań, a także uwzględniając tradycje i powszechnie uznawany dorobek ruchu stowarzyszeniowego, stanowi się, co następuje:
-
-*USTAWA z dnia 7 kwietnia 1989 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 18 listopada 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy – Prawo o stowarzyszeniach
 
 | Pole | Wartość |
 |---|---|
@@ -26,6 +24,46 @@ source: "isap-pdf"
 | Data wydania | 2020-12-16 |
 | Ostatnia zmiana | 2026-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002261) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2261/text.pdf) |
+
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 7 kwietnia 1989 r. Prawo o stowarzyszeniach Rozdział 1 – Przepisy ogólne Rozdział 2 – Tworzenie stowarzyszeń Rozdział 3 – Nadzór nad stowarzyszeniami Rozdział 4 – Majątek stowarzyszenia Rozdział 5 – Likwidacja stowarzyszeń Rozdział 6 – Stowarzyszenia zwykłe Rozdział 7 – Przepisy szczególne, zmiana przepisów obowiązujących oraz przepisy przejściowe i końcowe
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2019 r. poz. 713), z uwzględnieniem zmian wprowadzonych:
+1)
+ustawą z dnia 16 kwietnia 2020 r. o szczególnych instrumentach wsparcia w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 695),
+2)
+ustawą z dnia 19 czerwca 2020 r. o dopłatach do oprocentowania kredytów bankowych udzielanych przedsiębiorcom dotkniętym skutkami COVID-19 oraz o uproszczonym postępowaniu o zatwierdzenie układu w związku z wystąpieniem COVID-19 (Dz. U. poz. 1086)
+oraz zmian wynikających z przepisów ogłoszonych przed dniem 17 listopada 2020 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+1)
+art. 118 ustawy z dnia 16 kwietnia 2020 r. o szczególnych instrumentach wsparcia w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 695), który stanowi:
+„
+
+**Art. 118.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
+
+- **1)** art. 22, który wchodzi w życie z mocą od dnia 13 marca 2020 r.;
+- **2)** art. 28, który wchodzi w życie z dniem 1 lipca 2020 r.;
+- **3)** art. 53 pkt 8 w zakresie dodawanego art. 67c – który wchodzi w życie z mocą od dnia 31 marca 2020 r.;
+- **4)** art. 73 pkt 45, który wchodzi w życie z mocą od dnia 13 kwietnia 2020 r.;
+- **5)** art. 73 pkt 57 w zakresie dodawanego art. 15zzzzm – który wchodzi w życie z mocą od dnia 12 marca 2020 r.;
+- **6)** art. 73 pkt 20, 38, 39 i 41, które wchodzą w życie z mocą od dnia 1 kwietnia 2020 r.;
+- **7)** art. 73 pkt 68 w zakresie dodawanego art. 31zy6 – który wchodzi w życie z mocą od dnia 14 marca 2020 r. ” ;
+- **2)** art. 103 ustawy z dnia 19 czerwca 2020 r. o dopłatach do oprocentowania kredytów bankowych udzielanych przedsiębiorcom dotkniętym skutkami COVID-19 oraz o uproszczonym postępowaniu o zatwierdzenie układu w związku z wystąpieniem COVID-19 (Dz. U. poz. 1086), który stanowi: „
+
+**Art. 103.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
+
+- **1)** art. 50, art. 58 i art. 89, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia;
+- **2)** art. 70 pkt 1 i art. 76, które wchodzą w życie z dniem 1 stycznia 2021 r.;
+- **3)** art. 75, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 14 listopada 2019 r.;
+- **4)** art. 77: pkt 3 lit. a, b i e, pkt 4 lit. a-c oraz pkt 5 i 10, które wchodzą w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 25 maja 2020 r., pkt 34–36, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia, pkt 58 w zakresie art. 31q ust. 8, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 kwietnia 2020 r., pkt 27 i 60, które wchodzą w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 31 marca 2020 r.;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **5)** art. 77 pkt 24 i art. 93, które wchodzą w życie po upływie 7 dni od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 7 kwietnia 1989 r. Prawo o stowarzyszeniach W celu stworzenia warunków do pełnej realizacji gwarantowanej przepisami Konstytucji wolności zrzeszania się zgodnie z Powszechną Deklaracją Praw Człowieka i Międzynarodowym Paktem Praw Obywatelskich i Politycznych, umożliwienia obywatelom równego, bez względu na przekonania, prawa czynnego uczestniczenia w życiu publicznym i wyrażania zróżnicowanych poglądów oraz realizacji indywidualnych zainteresowań, a także uwzględniając tradycje i powszechnie uznawany dorobek ruchu stowarzyszeniowego, stanowi się, co następuje:
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -95,14 +133,14 @@ source: "isap-pdf"
 
 5. Nadzór nad działalnością stowarzyszeń należy do:
 
-- **1)** wojewody właściwego ze względu na siedzibę stowarzyszenia − w zakresie nadzoru nad działalnością stowarzyszeń jednostek samorządu terytorialnego,
-- **2)** starosty właściwego ze względu na siedzibę stowarzyszenia − w zakresie nadzoru nad innymi niż wymienione w pkt 1 stowarzyszeniami − zwanych dalej „organami nadzorującymi”.
+- **1)** wojewody właściwego ze względu na siedzibę stowarzyszenia – w zakresie nadzoru nad działalnością stowarzyszeń jednostek samorządu terytorialnego,
+- **2)** starosty właściwego ze względu na siedzibę stowarzyszenia – w zakresie nadzoru nad innymi niż wymienione w pkt 1 stowarzyszeniami zwanych dalej „organami nadzorującymi”.
 
 6. Przepisy ustawy nie naruszają uprawnień prokuratora wynikających z innych ustaw.
 
 #### Rozdział 2 Tworzenie stowarzyszeń
 
-**Art. 9.** Osoby w liczbie co najmniej siedmiu, zamierzające założyć stowarzyszenie, uchwalają statut stowarzyszenia oraz wybierają komitet założycielski albo władze stowarzyszenia. <Art. 9a. 1. Osoby w liczbie co najmniej siedmiu, zamierzające założyć stowarzyszenie, mogą uchwalić statut stowarzyszenia oraz wybrać jego władze przy wykorzystaniu wzorca statutu oraz wzorców uchwał o wyborze władz stowarzyszenia. 2. Przepisu ust. 1 nie stosuje się do zakładania:
+**Art. 9.** Osoby w liczbie co najmniej siedmiu, zamierzające założyć stowarzyszenie, uchwalają statut stowarzyszenia oraz wybierają komitet założycielski albo władze stowarzyszenia.
 
 **Art. 10.**
 
@@ -131,13 +169,13 @@ source: "isap-pdf"
 
 1d. Wykorzystanie środków komunikacji elektronicznej w głosowaniach na oraz poza posiedzeniami władz stowarzyszenia może podlegać odmiennym uregulowaniom w tym ograniczeniom w statucie stowarzyszenia. Statut stowarzyszenia może też wprost wyłączyć możliwość stosowania powyższych przepisów w stowarzyszeniu.
 
-1e. (uchylony) 1f. Jeżeli kadencja władz stowarzyszenia, o których mowa w ust. 1 pkt 5, upływa w okresie obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, o których mowa w ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, lub do 30 dni po odwołaniu danego stanu, podlega ona przedłużeniu do czasu wyboru władz stowarzyszenia na nową kadencję, jednak nie dłużej niż do 60 dni od dnia odwołania stanu zagrożenia epidemicznego lub stanu epidemii.
+1e. Rozwiązania, o których mowa w ust. 1a-1d, stosuje się w przypadku wprowadzenia stanu zagrożenia epidemicznego lub stanu epidemii, o których mowa w ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2020 r. poz. 1845).
+
+1f. Jeżeli kadencja władz stowarzyszenia, o których mowa w ust. 1 pkt 5, upływa w okresie obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, o których mowa w ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, lub do 30 dni po odwołaniu danego stanu, podlega ona przedłużeniu do czasu wyboru władz stowarzyszenia na nową kadencję, jednak nie dłużej niż do 60 dni od dnia odwołania stanu zagrożenia epidemicznego lub stanu epidemii.
 
 2. Ogólnokrajowe stowarzyszenia zrzeszające osoby wykonujące określony zawód lub zawody pokrewne, podejmujące zadania w zakresie rozpowszechniania wiedzy specjalistycznej i podnoszenia poziomu zawodowego w ramach wewnętrznego systemu potwierdzania kwalifikacji i umiejętności – określają w statucie te zadania oraz zakres i sposób ich realizacji.
 
 3. Osoba prawna może być jedynie wspierającym członkiem stowarzyszenia.
-
-**Art. 10a.**
 
 1. Stowarzyszenie może tworzyć terenowe jednostki organizacyjne. W takim przypadku statut stowarzyszenia określa:
 
@@ -163,8 +201,6 @@ source: "isap-pdf"
 
 7. W przypadku rozwiązania terenowej jednostki organizacyjnej posiadającej osobowość prawną, przeprowadza się jej likwidację. Majątek pozostały po likwidacji pozostaje majątkiem stowarzyszenia. Do likwidacji przepisy art. 36 i art. 37 stosuje się odpowiednio.
 
-**Art. 10b.**
-
 1. W przypadku gdy działalność terenowej jednostki organizacyjnej posiadającej osobowość prawną wykazuje rażące lub uporczywe naruszanie przepisów prawa lub statutu stowarzyszenia, jeżeli statut stowarzyszenia tak stanowi, organ w nim wskazany może podjąć uchwałę o powołaniu zarządu komisarycznego w tej jednostce.
 
 2. Zarząd komisaryczny powołuje się na okres niezbędny do usunięcia nieprawidłowości związanych z rażącym lub uporczywym naruszaniem przepisów prawa lub statutu stowarzyszenia, nie dłuższy jednak niż przewidziany w statucie stowarzyszenia.
@@ -183,19 +219,13 @@ source: "isap-pdf"
 
 3. Stowarzyszenie jest obowiązane posiadać zarząd i organ kontroli wewnętrznej.
 
-4. W umowach między stowarzyszeniem a członkiem zarządu oraz w sporach z nim stowarzyszenie reprezentuje członek organu kontroli wewnętrznej wskazany w uchwale tego organu lub pełnomocnik powołany uchwałą walnego zebrania członków (zebrania delegatów). [Art. 12. 1. Zarząd składa wniosek o wpis stowarzyszenia do Krajowego Rejestru Sądowego wraz ze statutem, listą założycieli, zawierającą imiona i nazwiska, datę i miejsce urodzenia, miejsce zamieszkania oraz własnoręczne podpisy założycieli, protokołem z wyboru władz stowarzyszenia oraz adresem siedziby stowarzyszenia.
+4. W umowach między stowarzyszeniem a członkiem zarządu oraz w sporach z nim stowarzyszenie reprezentuje członek organu kontroli wewnętrznej wskazany w uchwale tego organu lub pełnomocnik powołany uchwałą walnego zebrania członków (zebrania delegatów).
 
-2. Wniosek, o którym mowa w ust. 1, podpisują wszyscy członkowie zarządu.] <Art. 12. 1. Zarząd składa wniosek o wpis stowarzyszenia do Krajowego Rejestru Sądowego wraz ze statutem, listą założycieli, zawierającą imiona i nazwiska, datę i miejsce urodzenia, miejsce zamieszkania oraz własnoręczne podpisy założycieli oraz protokołem z wyboru władz stowarzyszenia.
+**Art. 12.**
 
-2. Przepisu ust. 1 nie stosuje się do złożenia wniosku o wpis stowarzyszenia, którego statut uchwalono przy wykorzystaniu wzorca statutu. W takim przypadku do wniosku o wpis stowarzyszenia do Krajowego Rejestru Sądowego dołącza się sporządzone na wzorcach udostępnionych w systemie teleinformatycznym:
+1. Zarząd składa wniosek o wpis stowarzyszenia do Krajowego Rejestru Sądowego wraz ze statutem, listą założycieli, zawierającą imiona i nazwiska, datę i miejsce urodzenia, miejsce zamieszkania oraz własnoręczne podpisy założycieli, protokołem z wyboru władz stowarzyszenia oraz adresem siedziby stowarzyszenia.
 
-- **1)** statut;
-- **2)** listę założycieli, zawierającą ich imiona i nazwiska, datę i miejsce ich urodzenia oraz miejsce ich zamieszkania, opatrzoną ich kwalifikowanymi podpisami elektronicznymi, podpisami zaufanymi lub podpisami osobistymi;
-- **3)** uchwały o wyborze władz stowarzyszenia.
-
-3. Wnioski, o których mowa w ust. 1 i 2, podpisują wszyscy członkowie zarządu.
-
-4. Do wniosku o zmianę danych stowarzyszenia wynikających z uchwały walnego zebrania członków podjętej przy wykorzystaniu wzorca uchwały należy dołączyć sporządzoną na wzorcu udostępnionym w systemie teleinformatycznym aktualną na dzień jej podjęcia listę członków stowarzyszenia uprawnionych do głosowania opatrzoną kwalifikowanymi podpisami elektronicznymi, podpisami zaufanymi lub podpisami osobistymi wszystkich członków zarządu.>
+2. Wniosek, o którym mowa w ust. 1, podpisują wszyscy członkowie zarządu.
 
 **Art. 13.** (uchylony)
 
@@ -261,8 +291,6 @@ source: "isap-pdf"
 - **2)** niezbędnych wyjaśnień od władz stowarzyszenia.
 
 3. Organ nadzorujący jest obowiązany wskazać uzasadnienie żądań, o których mowa w ust. 2.
-
-**Art. 25a.**
 
 1. Organ, o którym mowa w art. 8 ust. 5, sprawuje kontrolę nad działalnością stowarzyszenia będącego instytucją obowiązaną w rozumieniu przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu w zakresie zgodności jego działania z przepisami tej ustawy.
 
@@ -375,8 +403,6 @@ source: "isap-pdf"
 
 6. Jeżeli wniosek o wpis składa zarząd, podpisują go wszyscy członkowie zarządu.
 
-**Art. 40a.**
-
 1. Stowarzyszenie zwykłe powstaje i może rozpocząć działalność z chwilą wpisu do ewidencji.
 
 2. Organ nadzorujący dokonuje wpisu do ewidencji w terminie 7 dni od dnia:
@@ -394,8 +420,6 @@ source: "isap-pdf"
 
 - **1)** organ nadzorujący przekazuje akta sprawy i odpowiedź na skargę w terminie 14 dni od dnia wniesienia skargi;
 - **2)** sąd rozpoznaje skargę w terminie 30 dni od dnia otrzymania akt sprawy wraz z odpowiedzią na skargę.
-
-**Art. 40b.**
 
 1. W ewidencji zamieszcza się:
 
@@ -420,15 +444,7 @@ source: "isap-pdf"
 
 7. Minister właściwy do spraw administracji publicznej określi, w drodze rozporządzenia, sposób prowadzenia ewidencji, jej wzór oraz szczegółową treść wpisów w ewidencji w zakresie, o którym mowa w ust. 1, biorąc pod uwagę konieczność zapewnienia przejrzystości, kompletności i dostępności do danych zawartych w ewidencji.
 
-**Art. 41.** Sąd rejestrowy, na wniosek organu nadzorującego lub prokuratora, może zakazać założenia stowarzyszenia zwykłego, jeżeli nie spełnia ono warunków określonych w przepisach prawa.
-
-**Art. 41a.**
-
-1. Stowarzyszenie zwykłe reprezentuje przedstawiciel reprezentujący stowarzyszenie zwykłe albo zarząd.
-
-2. Podejmowanie przez przedstawiciela reprezentującego stowarzyszenie zwykłe albo zarząd czynności przekraczających zakres zwykłego zarządu wymaga uprzedniej zgody wszystkich członków stowarzyszenia zwykłego oraz udzielenia przez nich pełnomocnictwa do dokonania tych czynności.
-
-3. Czynnościami przekraczającymi zakres zwykłego zarządu są w szczególności:
+**Art. 41.** Sąd rejestrowy, na wniosek organu nadzorującego lub prokuratora, może zakazać założenia stowarzyszenia zwykłego, jeżeli nie spełnia ono warunków określonych w przepisach prawa. 1. Stowarzyszenie zwykłe reprezentuje przedstawiciel reprezentujący stowarzyszenie zwykłe albo zarząd. 2. Podejmowanie przez przedstawiciela reprezentującego stowarzyszenie zwykłe albo zarząd czynności przekraczających zakres zwykłego zarządu wymaga uprzedniej zgody wszystkich członków stowarzyszenia zwykłego oraz udzielenia przez nich pełnomocnictwa do dokonania tych czynności. 3. Czynnościami przekraczającymi zakres zwykłego zarządu są w szczególności:
 
 - **1)** nabycie oraz zbycie nieruchomości lub prawa użytkowania wieczystego;
 - **2)** ustanowienie ograniczonego prawa rzeczowego;
@@ -449,8 +465,6 @@ source: "isap-pdf"
 
 3. Stowarzyszenie zwykłe może otrzymywać dotacje na zasadach określonych w odrębnych przepisach.
 
-**Art. 42a.**
-
 1. Stowarzyszenie zwykłe liczące co najmniej siedmiu członków, może przekształcić się w stowarzyszenie.
 
 2. Przekształcenie stowarzyszenia zwykłego wymaga zgody wszystkich członków stowarzyszenia zwykłego, wyrażonej w drodze uchwały, zawierającej:
@@ -462,16 +476,12 @@ source: "isap-pdf"
 
 3. Informację o podjęciu uchwały o przekształceniu przedstawiciel reprezentujący stowarzyszenie zwykłe albo zarząd stowarzyszenia niezwłocznie podaje do publicznej wiadomości oraz zawiadamia o podjęciu tej uchwały wierzycieli stowarzyszenia zwykłego.
 
-**Art. 42b.**
-
 1. Stowarzyszenie zwykłe zawiadamia członków o zamiarze przekształcenia nie później niż na miesiąc przed planowanym dniem podjęcia uchwały o przekształceniu.
 
 2. Do zawiadomienia, o którym mowa w ust. 1, należy dołączyć:
 
 - **1)** projekt statutu stowarzyszenia;
 - **2)** informacje o aktywach i pasywach stowarzyszenia zwykłego.
-
-**Art. 42c.**
 
 1. Przekształcenie stowarzyszenia zwykłego następuje z chwilą wpisu stowarzyszenia do Krajowego Rejestru Sądowego.
 
@@ -481,17 +491,16 @@ source: "isap-pdf"
 
 4. Stowarzyszenie zwykłe zostaje rozwiązane bez przeprowadzenia postępowania likwidacyjnego z chwilą wpisu stowarzyszenia do Krajowego Rejestru Sądowego.
 
-**Art. 42d.**
-
 1. Z chwilą wpisu stowarzyszenia do Krajowego Rejestru Sądowego wstępuje ono we wszystkie prawa i obowiązki stowarzyszenia zwykłego, a członkowie stowarzyszenia zwykłego stają się członkami stowarzyszenia.
 
 2. Ujawnienie w księgach wieczystych lub rejestrach publicznych przejścia na stowarzyszenie praw ujawnionych w tych księgach lub rejestrach następuje na wniosek stowarzyszenia.
 
-3. Członkowie przekształcanego stowarzyszenia zwykłego odpowiadają na dotychczasowych zasadach, solidarnie ze stowarzyszeniem za zobowiązania stowarzyszenia zwykłego, powstałe przed dniem przekształcenia, przez okres roku, licząc od dnia przekształcenia. Odpowiedzialność ta powstaje z chwilą, gdy egzekucja z majątku stowarzyszenia okaże się bezskuteczna. Przepis art. 40 ust. 1c stosuje się odpowiednio.
-
-**Art. 42e.** Do przekształcenia stowarzyszenia zwykłego stosuje się odpowiednio przepisy dotyczące utworzenia stowarzyszenia.
+3. Członkowie przekształcanego stowarzyszenia zwykłego odpowiadają na dotychczasowych zasadach, solidarnie ze stowarzyszeniem za zobowiązania stowarzyszenia zwykłego, powstałe przed dniem przekształcenia, przez okres roku, licząc od dnia przekształcenia. Odpowiedzialność ta powstaje z chwilą, gdy egzekucja z majątku stowarzyszenia okaże się bezskuteczna. Przepis art. 40 ust. 1c stosuje się odpowiednio. Do przekształcenia stowarzyszenia zwykłego stosuje się odpowiednio przepisy dotyczące utworzenia stowarzyszenia.
 
 **Art. 43.** W sprawach nieuregulowanych odmiennie w tym rozdziale do stowarzyszenia zwykłego stosuje się odpowiednio przepisy ustawy, z tym że:
+
+- **1)** nie stosuje się przepisów art. 9–12, art. 16, art. 17, art. 20–22 oraz art. 27;
+- **2)** ilekroć w ustawie jest mowa o statucie, należy przez to rozumieć regulamin stowarzyszenia zwykłego.
 
 #### Rozdział 7 Przepisy szczególne, zmiana przepisów obowiązujących oraz przepisy przejściowe i końcowe
 
@@ -503,11 +512,13 @@ source: "isap-pdf"
 
 **Art. 45.** Osoby pragnące założyć stowarzyszenie prowadzące działalność bezpośrednio związaną z obronnością albo bezpieczeństwem państwa lub ochroną porządku publicznego są obowiązane uzgodnić zakres tej działalności, odpowiednio, z Ministrem Obrony Narodowej lub ministrem właściwym do spraw wewnętrznych albo organami przez nich określonymi.
 
-**Art. 46.** (uchylony) Art. 47–50. (pominięte)
+**Art. 46.** (uchylony)
+
+**Art. 47.** -50. (pominięte)
 
 **Art. 51.**
 
-1. Do czasu odrębnego uregulowania statusu prawnego związków wyznaniowych oraz zakonów i kongregacji duchownych, do których miały zastosowanie przepisy rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 października 1932 r. − Prawo o stowarzyszeniach (Dz. U. poz. 808, z późn. zm. ), stosuje się wobec nich przepisy tego rozporządzenia.
+1. Do czasu odrębnego uregulowania statusu prawnego związków wyznaniowych oraz zakonów i kongregacji duchownych, do których miały zastosowanie przepisy rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 października 1932 r. – Prawo o stowarzyszeniach (Dz. U. poz. 808, z późn. zm.), stosuje się wobec nich przepisy tego rozporządzenia.
 
 2. Przepis ust. 1 stosuje się odpowiednio do nowo powstających związków wyznaniowych oraz zakonów i kongregacji duchownych.
 
@@ -529,5 +540,8 @@ source: "isap-pdf"
 
 **Art. 56.** Tracą moc:
 
-**Art. 57.** Ustawa wchodzi w życie z dniem ogłoszenia .
+- **1)** rozporządzenie Prezydenta Rzeczypospolitej z dnia 27 października 1932 r. – Prawo o stowarzyszeniach (Dz. U. poz. 808, z późn. zm.), z zastrzeżeniem art. 51 niniejszej ustawy;
+- **2)** dekret z dnia 5 sierpnia 1949 r. o zmianie niektórych przepisów prawa o stowarzyszeniach (Dz. U. poz. 335), z wyjątkiem art. 2 ust. 2 lit. a i c.
+
+**Art. 57.** Ustawa wchodzi w życie z dniem ogłoszenia.
 

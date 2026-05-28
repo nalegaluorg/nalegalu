@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o uzyskiwaniu tytułu specjalisty dziedzinach mających zastosowanie ochronie zdrowia
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 lutego 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 marca 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-03-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000342) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/342/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 lutego 2025 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o uzyskiwaniu tytułu specjalisty dziedzinach mających zastosowanie ochronie zdrowia
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty dziedzinach mających zastosowanie ochronie zdrowia (Dz. U. z 2023 r. poz. 506), z uwzględnieniem zmian wprowadzonych ustawą z dnia 27 listopada 2024 r. o zmianie ustawy o Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (Dz. U. poz. 1897) oraz zmian wynikających z przepisów ogłoszonych przed dniem 20 lutego 2025 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 41 ustawy z dnia 27 listopada 2024 r. o zmianie ustawy o Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (Dz. U.
 poz. 1897), który stanowi: „Art. 41. Ustawa wchodzi życie z dniem 1 stycznia 2025 r., z wyjątkiem:
@@ -50,6 +50,9 @@ o uzyskiwaniu tytułu specjalisty dziedzinach mających zastosowanie ochronie zd
 2. (uchylony)
 
 **Art. 2.** Tytuł specjalisty dziedzinie ochrony zdrowia, określonej przepisach wydanych na podstawie art. 46 pkt 1, można uzyskać:
+
+- **1)** po ukończeniu ramach kształcenia podyplomowego jednostopniowego szkolenia specjalizacyjnego danej dziedzinie ochrony zdrowia na podstawie programu szkolenia specjalizacyjnego tej dziedzinie albo
+- **2)** po uznaniu dotychczasowego dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego danej dziedzinie ochrony zdrowia oraz po zdaniu PESoz.
 
 **Art. 3.** Osoba niebędąca obywatelem polskim przystępuje do szkolenia specjalizacyjnego i odbywa je na warunkach i sposób obowiązujący obywateli polskich.
 
@@ -116,7 +119,7 @@ o uzyskiwaniu tytułu specjalisty dziedzinach mających zastosowanie ochronie zd
 
 - **1)** maksymalną liczbę miejsc szkoleniowych na szkolenie specjalizacyjne;
 - **2)** organizację szkolenia specjalizacyjnego, tym harmonogram kursów specjalizacyjnych i staży kierunkowych;
-- **3)** zakres obowiązków osób odbywających szkolenie specjalizacyjne;
+- **3)** zakres obowiązków osób odbywających szkolenie specjalizacyjne; cych skład kadry dydaktycznej;
 - **5)** metody sprawdzania wiedzy teoretycznej i umiejętności praktycznych osób odbywających szkolenie specjalizacyjne;
 - **6)** sposoby oceny organizacji i przebiegu szkolenia specjalizacyjnego przez osoby odbywające szkolenie specjalizacyjne.
 
@@ -157,7 +160,7 @@ o uzyskiwaniu tytułu specjalisty dziedzinach mających zastosowanie ochronie zd
 
 13. Informację o odmowie wpisu, o której mowa ust. 12 pkt 2, dyrektor CMKP zamieszcza SMK.
 
-14. Od decyzji, o której mowa ust. 12 pkt 2, przysługuje odwołanie do ministra właściwego do spraw zdrowia. Dyrektor CMKP występuje do jednostki szkolącej co najmniej na 6 miesięcy przed upływem okresu, o którym mowa ust. 12 pkt 1, o przedstawienie dokumentów potwierdzających spełnianie warunków, o których mowa ust. 2. Przepisy ust. 2–14 stosuje się odpowiednio.
+14. Od decyzji, o której mowa ust. 12 pkt 2, przysługuje odwołanie do ministra właściwego do spraw zdrowia. wpisany na listę jednostek posiadających akredytację, zwany dalej „jednostką szkolącą”, warunków, o których mowa ust. 2. Dyrektor CMKP występuje do jednostki szkolącej co najmniej na 6 miesięcy przed upływem okresu, o którym mowa ust. 12 pkt 1, o przedstawienie dokumentów potwierdzających spełnianie warunków, o których mowa ust. 2. Przepisy ust. 2–14 stosuje się odpowiednio.
 
 16. Dyrektor CMKP zamieszcza i aktualizuje na stronie internetowej CMKP oraz SMK listę jednostek posiadających akredytację.
 
@@ -288,7 +291,7 @@ o uzyskiwaniu tytułu specjalisty dziedzinach mających zastosowanie ochronie zd
 
 3. Postępowanie kwalifikacyjne przeprowadza się dwa razy roku: terminie od dnia 16 grudnia do dnia 15 stycznia oraz terminie od dnia 1 czerwca do dnia 30 czerwca.
 
-3a. W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii minister właściwy do spraw zdrowia może zmienić terminy, o których mowa ust. 3. W przypadku nieustania okoliczności będących przyczyną zmiany terminów minister właściwy do spraw zdrowia dokonuje ponownej zmiany tych terminów, jednak łączny okres przesunięcia danego terminu nie może być dłuższy niż 5 miesięcy. Informację o zmianie tych terminów minister właściwy do spraw zdrowia ogłasza na swojej stronie internetowej. miejsc szkoleniowych postępowanie konkursowe.
+3a. W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii minister właściwy do spraw zdrowia może zmienić terminy, o których mowa ust. 3. W przypadku nieustania okoliczności będących przyczyną zmiany terminów minister właściwy do spraw zdrowia dokonuje ponownej zmiany tych terminów, jednak łączny okres przesunięcia danego terminu nie może być dłuższy niż 5 miesięcy. Informację o zmianie tych terminów minister właściwy do spraw zdrowia ogłasza na swojej stronie internetowej. pkt 1 i 2 albo art. 8 ust. 3 pkt 1 i 2 oraz przypadku gdy liczba osób spełniających te warunki jest większa niż liczba miejsc szkoleniowych postępowanie konkursowe.
 
 5. Postępowanie konkursowe przeprowadza komisja powoływana przez wojewodę spośród pracowników urzędu wojewódzkiego.
 
@@ -423,7 +426,7 @@ o uzyskiwaniu tytułu specjalisty dziedzinach mających zastosowanie ochronie zd
 
 8. Kierownikowi specjalizacji umowie, o której mowa art. 6 ust. 2 pkt 5, mogą zostać powierzone dodatkowe obowiązki, niewymienione ust. 6.
 
-9. Kierownik specjalizacji ma prawo do udziału egzaminie ustnym lub egzaminie praktycznym wchodzącym skład PESoz charakterze obserwatora. specjalisty danej dziedzinie ochrony zdrowia albo decyzję, o której mowa art. 28 ust. 1 albo art. 57 ust. 1.
+9. Kierownik specjalizacji ma prawo do udziału egzaminie ustnym lub egzaminie praktycznym wchodzącym skład PESoz charakterze obserwatora. może sprawować opiekun stażu wyznaczony, za jego zgodą, przez kierownika specjalizacji spośród osób posiadających tytuł specjalisty danej dziedzinie ochrony zdrowia albo decyzję, o której mowa art. 28 ust. 1 albo art. 57 ust. 1.
 
 2. W przypadku dziedziny ochrony zdrowia, której nie ma osób posiadających tytuł specjalisty albo decyzję, o której mowa art. 28 ust. 1 albo art. 57 ust. 1, albo gdy nie wyraziły one zgody na pełnienie obowiązków opiekuna stażu, opiekunem stażu może być osoba wykonująca co najmniej przez 3 lata ciągu ostatnich 5 lat czynności zawodowe zgodne z programem szkolenia specjalizacyjnego danej dziedzinie ochrony zdrowia, wyznaczona, za jej zgodą, przez kierownika jednostki szkolącej.
 
@@ -465,7 +468,7 @@ o uzyskiwaniu tytułu specjalisty dziedzinach mających zastosowanie ochronie zd
 
 3. Jednostka szkoląca przekazuje do CMKP listę osób, które ukończyły kurs specjalizacyjny albo staż kierunkowy, zawierającą ich imiona i nazwiska oraz numery PESEL, a przypadku braku numeru PESEL cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania.
 
-4. Kursy specjalizacyjne, o których mowa ust. 1, mogą być realizowane z wykorzystaniem metod i technik kształcenia na odległość, jeżeli możliwość takiej formy przewiduje program specjalizacji lub została uzyskana zgoda dyrektora CMKP.
+4. Kursy specjalizacyjne, o których mowa ust. 1, mogą być realizowane z wykorzystaniem metod i technik kształcenia na odległość, jeżeli możliwość takiej formy przewiduje program specjalizacji lub została uzyskana zgoda dyrektora CMKP. pośrednictwem dyrektora CMKP.
 
 2. W ramach nadzoru, o którym mowa ust. 1, dyrektor CMKP jest uprawniony do:
 
@@ -640,9 +643,7 @@ o uzyskiwaniu tytułu specjalisty dziedzinach mających zastosowanie ochronie zd
 
 6. Do terminu, o którym mowa ust. 5, nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
 
-**Art. 31.**
-
-1. PESoz organizuje CEM.
+2. Opracowanie pytań testowych, o których mowa art. 35 ust. 1, testu i zadań egzaminacyjnych, o których mowa art. 36 ust. 1, oraz przeprowadzenie PESoz jest finansowane przez CEM.
 
 **Art. 32.**
 
@@ -689,9 +690,9 @@ o uzyskiwaniu tytułu specjalisty dziedzinach mających zastosowanie ochronie zd
 
 1. Dyrektor CEM porozumieniu z przewodniczącym PKE ustala dla danej sesji egzaminacyjnej listy osób zdających PESoz danym terminie i miejscu, a następnie nadaje numery kodowe osobom zdającym oraz zawiadamia te osoby o terminie i miejscu PESoz i nadanym numerze kodowym nie później niż na 14 dni przed dniem rozpoczęcia PESoz. Zawiadomienie jest przekazywane za pomocą SMK, a przypadku awarii SMK pocztą elektroniczną na adres wskazany we wniosku, o którym mowa art. 29 ust. 1.
 
-2. Dyrektor CEM wyznacza spośród członków PKE zespoły egzaminacyjne przeprowadzające PESoz ustalonych terminach i miejscach oraz wskazuje przewodniczących tych zespołów.
+2. Dyrektor CEM wyznacza spośród członków PKE zespoły egzaminacyjne przeprowadzające PESoz ustalonych terminach i miejscach oraz wskazuje przewodniczących tych zespołów. zgłoszone przez konsultanta krajowego i zarząd stowarzyszenia, o których mowa art. 32 ust. 6.
 
-3. Zespół egzaminacyjny składa się co najmniej z 3 członków PKE. W skład zespołu egzaminacyjnego wchodzą osoby zgłoszone przez konsultanta krajowego i zarząd stowarzyszenia, o których mowa art. 32 ust. 6.
+4. Członkiem zespołu egzaminacyjnego nie może być osoba, stosunku do której osoba zdająca PESoz jest:
 
 - **1)** małżonkiem;
 - **2)** osobą pozostającą z nią stosunku:
@@ -735,9 +736,7 @@ o uzyskiwaniu tytułu specjalisty dziedzinach mających zastosowanie ochronie zd
 
 7. O odwołaniu całości lub części PESoz danej dziedzinie ochrony zdrowia i przedłużeniu sesji egzaminacyjnej minister właściwy do spraw zdrowia informuje na swojej stronie internetowej oraz na stronie internetowej CEM.
 
-8. Dyrektor CEM porozumieniu z ministrem właściwym do spraw zdrowia ustala nowe terminy PESoz informuje o nich osoby, które miały przystąpić do odwołanego PESoz, co najmniej na dwa tygodnie przed datą egzaminu. Informacja o nowych terminach PESoz jest zamieszczana na stronie internetowej CEM.
-
-9. W uzasadnionych przypadkach minister właściwy do spraw zdrowia może, na wniosek dyrektora CEM, wyrazić zgodę na odstąpienie od przeprowadzenia egzaminu testowego dla wszystkich osób dopuszczonych do PESoz danej
+8. Dyrektor CEM porozumieniu z ministrem właściwym do spraw zdrowia ustala nowe terminy PESoz informuje o nich osoby, które miały przystąpić do odwołanego PESoz, co najmniej na dwa tygodnie przed datą egzaminu. Informacja o nowych terminach PESoz jest zamieszczana na stronie internetowej CEM. zgodę na odstąpienie od przeprowadzenia egzaminu testowego dla wszystkich osób dopuszczonych do PESoz danej dziedzinie określonej sesji egzaminacyjnej, z zachowaniem egzaminu ustnego, albo zdecydować o przeprowadzeniu PESoz jeden raz roku z zachowaniem wszystkich jego części, jednej z sesji egzaminacyjnych.
 
 10. W uzasadnionych przypadkach, związanych z wystąpieniem zwiększonego zagrożenia epidemicznego lub innych okoliczności zagrażających bezpieczeństwu osób uczestniczących PESoz, dyrektor CEM porozumieniu z przewodniczącym właściwej PKE może zdecydować, że egzamin ustny PESoz zostanie przeprowadzony za pośrednictwem środków komunikacji elektronicznej umożliwiających jednoczesny udział zdającego i wszystkich członków zespołu egzaminacyjnego, zwany dalej „zdalnym PESoz”.
 
@@ -769,7 +768,7 @@ o uzyskiwaniu tytułu specjalisty dziedzinach mających zastosowanie ochronie zd
 
 5. W przypadku uwag merytorycznych do pytań testowych osoba zdająca ma prawo złożyć pisemne zastrzeżenie przewodniczącemu zespołu egzaminacyjnego czasie trwania egzaminu testowego albo niezwłocznie po jego zakończeniu, przed opuszczeniem sali egzaminacyjnej. Zastrzeżenie składa się na karcie zastrzeżeń, według wzoru określonego przepisach wydanych na podstawie art. 46 pkt 6. Kartę zastrzeżeń dołącza się do protokołu, o którym mowa art. 41 ust. 1 pkt 1.
 
-6. Zastrzeżenie, o którym mowa ust. 5, rozstrzyga zespół egzaminacyjny po zakończeniu egzaminu testowego, przed ustaleniem jego wyników. Przepis ust. 4 stosuje się. możliwych do uzyskania z egzaminu testowego.
+6. Zastrzeżenie, o którym mowa ust. 5, rozstrzyga zespół egzaminacyjny po zakończeniu egzaminu testowego, przed ustaleniem jego wyników. Przepis ust. 4 stosuje się. wyniku egzaminu testowego stosunku do wszystkich osób zdających oraz odpowiednio obniża ogólną liczbę punktów możliwych do uzyskania z egzaminu testowego.
 
 8. Pozytywny wynik egzaminu testowego uzyskuje osoba zdająca, która otrzymała co najmniej 60 % liczby punktów możliwych do uzyskania z testu. Uzyskaną przez osobę zdającą liczbę punktów przelicza się na ocenę sposób określony przepisach wydanych na podstawie art. 46 pkt 6.
 
@@ -870,9 +869,7 @@ o uzyskiwaniu tytułu specjalisty dziedzinach mających zastosowanie ochronie zd
 
 4. Za wydanie odpisu dyplomu, jego duplikatu albo dokonanie wymiany dyplomu wnosi się opłatę wysokości 50 zł. Opłaty nie wnosi się, przypadku gdy wymiana dyplomu wynika z błędu CEM. Opłata stanowi dochód budżetu państwa.
 
-5. Opłata, o której mowa ust. 4, jest wnoszona na rachunek bankowy wskazany na stronie internetowej CEM.
-
-6. W przypadku niewniesienia opłaty, o której mowa ust. 4, albo wniesienia jej mniejszej wysokości, dyrektor CEM wzywa wnioskodawcę do uzupełnienia braków formalnych. W przypadku nieuzupełnienia braków terminie 7 dni
+5. Opłata, o której mowa ust. 4, jest wnoszona na rachunek bankowy wskazany na stronie internetowej CEM. CEM wzywa wnioskodawcę do uzupełnienia braków formalnych. W przypadku nieuzupełnienia braków terminie 7 dni od dnia otrzymania wezwania, wniosek, o którym mowa ust. 3, traktuje się jako niezłożony, o czym dyrektor CEM informuje wezwaniu do uzupełnienia braków formalnych.
 
 7. CEM prowadzi rejestr dyplomów, o których mowa ust. 1, i przechowuje ich elektroniczne kopie.
 
@@ -897,6 +894,17 @@ o uzyskiwaniu tytułu specjalisty dziedzinach mających zastosowanie ochronie zd
 8. Dyrektor CEM odnotowuje protokołach, o których mowa art. 41 ust. 1, unieważnienie PESoz albo jego części wraz ze wskazaniem przyczyny unieważnienia.
 
 **Art. 46.** Minister właściwy do spraw zdrowia określi, drodze rozporządzenia:
+
+- **1)** dziedziny ochrony zdrowia, których można uzyskać tytuł specjalisty,
+- **2)** oznaczenia kodowe tytułów specjalisty poszczególnych dziedzinach ochrony zdrowia,
+- **3)** kierunki studiów, po których ukończeniu można przystąpić do szkolenia specjalizacyjnego poszczególnych dziedzinach ochrony zdrowia,
+- **4)** dziedziny ochrony zdrowia, których posiadana specjalizacja I stopnia umożliwia uzyskanie tytułu specjalisty i dziedziny ochrony zdrowia, których ten tytuł można uzyskać uwzględniając aktualny stan wiedzy medycznej, konieczność zapewnienia świadczeń zdrowotnych na odpowiednim poziomie oraz potrzebę zabezpieczenia dostępu do tych świadczeń;
+- **5)** szczegółowy zakres danych dotyczących przebiegu szkolenia specjalizacyjnego zawartych EKS, wraz ze wskazaniem danych wprowadzanych do EKS przez osobę odbywającą szkolenie specjalizacyjne, kierownika specjalizacji, jednostkę szkolącą i wojewodę lub danych przez nich potwierdzanych, uwzględniając konieczność zapewnienia pełnych informacji niezbędnych do prowadzenia szkolenia specjalizacyjnego;
+- **6)** szczegółowy sposób i tryb przeprowadzania PESoz oraz jego dokumentowania, tym skalę ocen ze wskazaniem, które z ocen według tej skali uznaje się za oceny pozytywne, a które za negatywne, sposób przeliczania na ocenę liczby punktów uzyskanych z egzaminu testowego, o którym mowa art. 35 ust. 8, i średniej arytmetycznej, o której mowa art. 36 ust. 5 i art. 37 ust. 2, wzór karty zastrzeżeń, o której mowa art. 35 ust. 5, oraz wzory protokołów, o których mowa art. 41 ust. 1, uwzględniając konieczność zapewnienia prawidłowego i efektywnego przeprowadzania PESoz oraz jego dokumentowania, a także zapewnienia zachowania bezstronności pracy zespołu egzaminacyjnego;
+- **7)** wysokość opłaty za PESoz, uwzględniając koszty przeprowadzania PESoz, nie wyższej niż 25 % przeciętnego miesięcznego wynagrodzenia sektorze przedsiębiorstw bez wypłat nagród z zysku za ubiegły rok, ogłaszanego, drodze obwieszczenia, przez Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”; uwzględniając nakład pracy przewodniczącego i członków zespołu egzaminacyjnego;
+- **9)** wzór dyplomu potwierdzającego uzyskanie tytułu specjalisty, uwzględniając konieczność zapewnienia przejrzystości dokumentu;
+- **10)** tryb dokonywania przez dyrektora CEM wymiany dyplomu potwierdzającego uzyskanie tytułu specjalisty, uwzględniając konieczność prawidłowego i sprawnego wydawania dokumentu potwierdzającego uzyskanie tytułu specjalisty;
+- **11)** wysokość wynagrodzenia za wykonywanie czynności kontrolnych, o którym mowa art. 25 ust. 4, uwzględniając nakład pracy związany z przeprowadzaniem czynności kontrolnych.
 
 **Art. 47.**
 
@@ -929,7 +937,7 @@ o uzyskiwaniu tytułu specjalisty dziedzinach mających zastosowanie ochronie zd
 
 - **2)** dokumenty potwierdzające wykonywanie czynności zawodowych po uzyskaniu tytułu specjalisty i wskazujące miejsce, czas i rodzaj tych czynności.
 
-5. Minister właściwy do spraw zdrowia, drodze decyzji, uznaje albo odmawia uznania tytułu specjalisty danej dziedzinie ochrony zdrowia uzyskanego za granicą, na podstawie opinii zespołu ekspertów, o którym mowa art. 5 ust. 1, a przypadku konieczności odbycia stażu uzupełniającego, o którym mowa ust. 6 pkt 2, na podstawie opinii zawodowej, o której mowa ust. 11.
+5. Minister właściwy do spraw zdrowia, drodze decyzji, uznaje albo odmawia uznania tytułu specjalisty danej dziedzinie ochrony zdrowia uzyskanego za granicą, na podstawie opinii zespołu ekspertów, o którym mowa art. 5 ust. 1, a przypadku konieczności odbycia stażu uzupełniającego, o którym mowa ust. 6 pkt 2, na podstawie opinii zawodowej, o której mowa ust. 11. ust. 1. W wyniku dokonania oceny zespół ekspertów, o którym mowa art. 5 ust. 1, może wnioskować o:
 
 - **1)** uznanie tytułu specjalisty;
 - **2)** uznanie tytułu specjalisty po odbyciu stażu uzupełniającego jednostce szkolącej wskazanej tej opinii, którego zakres merytoryczny określa indywidualnych przypadkach zespół ekspertów;
@@ -959,6 +967,9 @@ o uzyskiwaniu tytułu specjalisty dziedzinach mających zastosowanie ochronie zd
 
 **Art. 48.** Dane zamieszczane SMK są udostępniane podmiotom realizującym zadania określone ustawie zakresie niezbędnym do realizacji tych zadań, a także:
 
+- **1)** uczelniom zakresie monitoringu karier zawodowych absolwentów, o którym mowa ustawie z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, 1871 i 1897);
+- **2)** konsultantom krajowym i konsultantom wojewódzkim zakresie wykonywania zadań określonych ustawie oraz ustawie z dnia 6 listopada 2008 r. o konsultantach ochronie zdrowia (Dz. U. z 2024 r. poz. 69 i 1897).
+
 **Art. 49.** (pominięty)
 
 **Art. 50.** (pominięty)
@@ -969,7 +980,7 @@ o uzyskiwaniu tytułu specjalisty dziedzinach mających zastosowanie ochronie zd
 
 1. Osoba posiadająca specjalizację I stopnia dziedzinie ochrony zdrowia określonej przepisach wydanych na podstawie art. 46 pkt 4 może uzyskać tytuł specjalisty danej dziedzinie ochrony zdrowia po ukończeniu uzupełniającego szkolenia specjalizacyjnego.
 
-2. Szkolenie uzupełniające, o którym mowa ust. 1, jest prowadzone zgodnie z uzupełniającym programem szkolenia specjalizacyjnego, który jest dostosowany do zakresu wiedzy teoretycznej i umiejętności praktycznych objętych programem specjalizacji I stopnia. Do programu szkolenia uzupełniającego stosuje się odpowiednio przepisy art. 4 i art. 5. jące szkolenie specjalizacyjne.
+2. Szkolenie uzupełniające, o którym mowa ust. 1, jest prowadzone zgodnie z uzupełniającym programem szkolenia specjalizacyjnego, który jest dostosowany do zakresu wiedzy teoretycznej i umiejętności praktycznych objętych programem specjalizacji I stopnia. Do programu szkolenia uzupełniającego stosuje się odpowiednio przepisy art. 4 i art. 5. wniosku o rozpoczęcie szkolenia specjalizacyjnego wskazuje jako wnioskowany tryb odbywania tego szkolenia uzupełniające szkolenie specjalizacyjne.
 
 **Art. 53.**
 
@@ -1043,7 +1054,7 @@ o uzyskiwaniu tytułu specjalisty dziedzinach mających zastosowanie ochronie zd
 
 8. Wojewoda zawiadamia osobę, o której mowa ust. 1, o rozstrzygnięciu, o którym mowa ust. 7, za pomocą SMK. W przypadku, o którym mowa ust. 7 pkt 2, osoba, o której mowa ust. 1, terminie 14 dni od dnia otrzymania rozstrzygnięcia może zwrócić się do wojewody o weryfikację rozstrzygnięcia.
 
-9. W przypadku, o którym mowa ust. 7 pkt 2, osoba, o której mowa ust. 1, po zrealizowaniu brakującego elementu programu szkolenia specjalizacyjnego i potwierdzeniu tego faktu przez kierownika specjalizacji karcie szkolenia specjalizacyjnego, może wystąpić z wnioskiem o potwierdzenie przez wojewodę zakończenia szkolenia specjalizacyjnego. Przepisy ust. 2–8 stosuje się. wyniku pozytywnego z całości albo z części tego egzaminu, może przystąpić do PESoz danej dziedzinie ochrony zdrowia zgodnie z przepisami art. 29–43.
+9. W przypadku, o którym mowa ust. 7 pkt 2, osoba, o której mowa ust. 1, po zrealizowaniu brakującego elementu programu szkolenia specjalizacyjnego i potwierdzeniu tego faktu przez kierownika specjalizacji karcie szkolenia specjalizacyjnego, może wystąpić z wnioskiem o potwierdzenie przez wojewodę zakończenia szkolenia specjalizacyjnego. Przepisy ust. 2–8 stosuje się. ochrony zdrowia przed dniem wejścia życie ustawy, ale do niego nie przystąpiła albo po przystąpieniu do niego nie uzyskała wyniku pozytywnego z całości albo z części tego egzaminu, może przystąpić do PESoz danej dziedzinie ochrony zdrowia zgodnie z przepisami art. 29–43.
 
 2. Osoba, o której mowa ust. 1, składa wniosek o przystąpienie do PESoz za pomocą SMK.
 

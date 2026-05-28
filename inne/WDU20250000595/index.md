@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# o grach hazardowych
-
-*USTAWA z dnia 19 listopada 2009 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 maja 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,7 +25,14 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-03-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000595) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/595/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 10 kwietnia 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o grach hazardowych
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2023 r. poz. 227), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 1 października 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1473) oraz zmian wynikających z przepisów ogłoszonych przed dniem 3 kwietnia 2025 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 73 i art. 74 ustawy z dnia 1 października 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1473), które stanowią: „Art. 73. 1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 86 ust. 6 ustawy zmienianej w art. 15 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 86 ust. 6 ustawy zmienianej w art. 15, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 1 ust. 2 ustawy zmienianej w art. 1 zachowują moc i mogą być zmieniane.
 Art. 92–116. (pominięte)
+
+**Art. 74.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: wz. P. Zgorzelski USTAWA z dnia 19 listopada 2009 r. o grach hazardowych
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -41,7 +46,7 @@ Art. 92–116. (pominięte)
 
 1. Grami losowymi są gry, w tym urządzane przez sieć Internet, o wygrane pieniężne lub rzeczowe, których wynik w szczególności zależy od przypadku. Są to:
 
-- **1)** gry liczbowe – gry, w których wygraną uzyskuje się przez prawidłowe wytypowanie liczb, znaków lub innych wyróżników, a wysokość wygranych zależy od łącznej kwoty wpłaconych stawek, oraz gra liczbowa keno, w której wygraną uzyskuje się przez prawidłowe wytypowanie liczb, a wysokość wygranych stanowi iloczyn wpłaconej stawki i mnożnika ustalonego dla poszczególnych stopni wygranych;
+- **1)** gry liczbowe gry, w których wygraną uzyskuje się przez prawidłowe wytypowanie liczb, znaków lub innych wyróżników, a wysokość wygranych zależy od łącznej kwoty wpłaconych stawek, oraz gra liczbowa keno, w której wygraną uzyskuje się przez prawidłowe wytypowanie liczb, a wysokość wygranych stanowi iloczyn wpłaconej stawki i mnożnika ustalonego dla poszczególnych stopni wygranych;
 - **2)** loterie pieniężne, w których uczestniczy się przez nabycie losu lub innego dowodu udziału w grze, a podmiot urządzający loterię oferuje wyłącznie wygrane pieniężne;
 - **3)** gra telebingo, w której uczestniczy się przez nabycie dowodu udziału w grze zawierającego przypadkowe zestawy liczb lub znaków z góry ustalonego zbioru liczb lub znaków, przeprowadzana na skalę ogólnokrajową z losowaniem nadawanym jako audycja telewizyjna, a podmiot urządzający grę oferuje wygrane pieniężne lub rzeczowe;
 - **4)** gry cylindryczne, w których uczestniczy się w grze przez wytypowanie liczb, znaków lub innych wyróżników, a wysokość wygranej zależy od określonego z góry stosunku wpłaty do wygranej, zaś wynik gry ustalany jest za pomocą urządzenia obrotowego lub gry cylindryczne urządzane na tych zasadach w sieci Internet;
@@ -57,8 +62,8 @@ Art. 92–116. (pominięte)
 
 2. Zakładami wzajemnymi są zakłady o wygrane pieniężne lub rzeczowe, polegające na odgadywaniu:
 
-- **1)** wyników sportowego współzawodnictwa ludzi lub zwierząt, w których uczestnicy wpłacają stawki, a wysokość wygranej zależy od łącznej kwoty wpłaconych stawek – totalizatory;
-- **2)** zaistnienia różnych zdarzeń, w tym zdarzeń wirtualnych, w których uczestnicy wpłacają stawki, a wysokość wygranych zależy od umówionego, między przyjmującym zakład a wpłacającym stawkę, stosunku wpłaty do wygranej – bukmacherstwo.
+- **1)** wyników sportowego współzawodnictwa ludzi lub zwierząt, w których uczestnicy wpłacają stawki, a wysokość wygranej zależy od łącznej kwoty wpłaconych stawek totalizatory;
+- **2)** zaistnienia różnych zdarzeń, w tym zdarzeń wirtualnych, w których uczestnicy wpłacają stawki, a wysokość wygranych zależy od umówionego, między przyjmującym zakład a wpłacającym stawkę, stosunku wpłaty do wygranej bukmacherstwo.
 
 2a. Przez zdarzenia wirtualne rozumie się generowane komputerowo zdarzenia dotyczące sportowego współzawodnictwa ludzi lub zwierząt.
 
@@ -86,15 +91,15 @@ Art. 92–116. (pominięte)
 
 1. Ilekroć w ustawie jest mowa o:
 
-- **1)** ośrodkach gier – rozumie się przez to:
-    - **a)** kasyno gry – jako wydzielone miejsce, w którym prowadzi się gry cylindryczne, gry w karty, gry w kości lub gry na automatach, na podstawie zatwierdzonego regulaminu, przy czym minimalna łączna liczba urządzanych gier cylindrycznych i gier w karty wynosi 4, a liczba zainstalowanych automatów wynosi od 5 do 70 sztuk,
-    - **b)** salon gry bingo pieniężne – jako wydzielone miejsce, w którym prowadzi się grę bingo pieniężne na podstawie zatwierdzonego regulaminu,
-    - **c)** salon gier na automatach – jako wydzielone miejsce, w którym prowadzi się gry na automatach na podstawie zatwierdzonego regulaminu, przy czym liczba zainstalowanych automatów wynosi od 3 do 50 sztuk;
+- **1)** ośrodkach gier rozumie się przez to:
+    - **a)** kasyno gry jako wydzielone miejsce, w którym prowadzi się gry cylindryczne, gry w karty, gry w kości lub gry na automatach, na podstawie zatwierdzonego regulaminu, przy czym minimalna łączna liczba urządzanych gier cylindrycznych i gier w karty wynosi 4, a liczba zainstalowanych automatów wynosi od 5 do 70 sztuk,
+    - **b)** salon gry bingo pieniężne jako wydzielone miejsce, w którym prowadzi się grę bingo pieniężne na podstawie zatwierdzonego regulaminu,
+    - **c)** salon gier na automatach jako wydzielone miejsce, w którym prowadzi się gry na automatach na podstawie zatwierdzonego regulaminu, przy czym liczba zainstalowanych automatów wynosi od 3 do 50 sztuk;
 
-- **2)** punkcie przyjmowania zakładów wzajemnych – rozumie się przez to wydzielone miejsce, w którym przyjmowane są zakłady totalizatora lub bukmacherstwa, na podstawie zatwierdzonego regulaminu;
-- **3)** urządzeniu do gier – rozumie się przez to wszelkie urządzenia, z wykorzystaniem których możliwe jest prowadzenie gry hazardowej oraz urządzenia, których działanie wpływa na prowadzenie gier;
-- **4)** urządzeniu losującym – rozumie się przez to urządzenie służące do ustalania wyników gry w loteriach pieniężnych, loteriach audioteksowych, grach liczbowych, loteriach promocyjnych i loteriach fantowych;
-- **5)** wydzielonym miejscu – rozumie się przez to miejsce z ograniczeniem wstępu dla osób poniżej 18. roku życia oraz zapewnia przestrzeganie przepisów dotyczących reklamy gier hazardowych.
+- **2)** punkcie przyjmowania zakładów wzajemnych rozumie się przez to wydzielone miejsce, w którym przyjmowane są zakłady totalizatora lub bukmacherstwa, na podstawie zatwierdzonego regulaminu;
+- **3)** urządzeniu do gier rozumie się przez to wszelkie urządzenia, z wykorzystaniem których możliwe jest prowadzenie gry hazardowej oraz urządzenia, których działanie wpływa na prowadzenie gier;
+- **4)** urządzeniu losującym rozumie się przez to urządzenie służące do ustalania wyników gry w loteriach pieniężnych, loteriach audioteksowych, grach liczbowych, loteriach promocyjnych i loteriach fantowych;
+- **5)** wydzielonym miejscu rozumie się przez to miejsce z ograniczeniem wstępu dla osób poniżej 18. roku życia oraz zapewnia przestrzeganie przepisów dotyczących reklamy gier hazardowych.
 
 2. (uchylony)
 
@@ -118,7 +123,7 @@ Art. 92–116. (pominięte)
 
 2. Działalność w zakresie gier bingo pieniężne może być prowadzona po uzyskaniu zezwolenia na prowadzenie salonu gry bingo pieniężne.
 
-3. Działalność w zakresie zakładów wzajemnych może być prowadzona – stosownie do udzielonego zezwolenia – wyłącznie w punktach przyjmowania zakładów wzajemnych albo przez sieć Internet po uzyskaniu zezwolenia na urządzanie zakładów wzajemnych.
+3. Działalność w zakresie zakładów wzajemnych może być prowadzona stosownie do udzielonego zezwolenia wyłącznie w punktach przyjmowania zakładów wzajemnych albo przez sieć Internet po uzyskaniu zezwolenia na urządzanie zakładów wzajemnych.
 
 4. Działalność w zakresie określonym w ust. 1–3 jest prowadzona na zasadach i warunkach określonych w zatwierdzonym regulaminie i udzielonej koncesji lub udzielonym zezwoleniu, a także wynikających z przepisów ustawy.
 
@@ -126,8 +131,8 @@ Art. 92–116. (pominięte)
 
 6. Akcje (udziały) w spółkach, o których mowa w ust. 5, może nabywać lub obejmować:
 
-- **1)** osoba prawna lub spółka niemająca osobowości prawnej, której siedziba znajduje się na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym;
-- **2)** osoba fizyczna będąca obywatelem państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym.
+- **1)** osoba prawna lub spółka niemająca osobowości prawnej, której siedziba znajduje się na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym;
+- **2)** osoba fizyczna będąca obywatelem państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym.
 
 7. Przepisu ust. 6 nie stosuje się do spółek, o których mowa w art. 7a ust. 1.
 
@@ -164,7 +169,7 @@ Art. 92–116. (pominięte)
 
 5. Organizujący turniej gry w pokera poza kasynem gry, o którym mowa w ust. 2, będący osobami fizycznymi lub członkami władz osób prawnych lub jednostek organizacyjnych niemających osobowości prawnej nie mogą być skazani prawomocnym wyrokiem sądu za umyślne przestępstwo skarbowe.
 
-6. Podmiot urządzający turniej gry w pokera na podstawie udzielonej koncesji na prowadzenie kasyna gry jest obowiązany przedstawić w postaci papierowej lub elektronicznej za pomocą środków komunikacji elektronicznej, w sposób określony w art. 168 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111), dyrektorowi izby administracji skarbowej właściwemu ze względu na miejsce urządzania tego turnieju, któremu dokonano zgłoszenia organizacji takiego turnieju, w terminie do 25. dnia miesiąca następującego po miesiącu, w którym nastąpiło zakończenie tego turnieju, szczegółową informację o osobach, które uzyskały wygrane w turnieju, zawierającą ich imiona, nazwiska, kwotę wpisowego za udział w turnieju i informację o wysokości uzyskanych wygranych, oraz o rozliczeniu podatku od gier.
+6. Podmiot urządzający turniej gry w pokera na podstawie udzielonej koncesji na prowadzenie kasyna gry jest obowiązany przedstawić w postaci papierowej lub elektronicznej za pomocą środków komunikacji elektronicznej, w sposób określony w art. 168 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111), dyrektorowi izby administracji skarbowej właściwemu ze względu na miejsce urządzania tego turnieju, któremu dokonano zgłoszenia organizacji takiego turnieju, w terminie do 25. dnia miesiąca następującego po miesiącu, w którym nastąpiło zakończenie tego turnieju, szczegółową informację o osobach, które uzyskały wygrane w turnieju, zawierającą ich imiona, nazwiska, kwotę wpisowego za udział w turnieju i informację o wysokości uzyskanych wygranych, oraz o rozliczeniu podatku od gier.
 
 **Art. 7.**
 
@@ -178,7 +183,7 @@ Art. 92–116. (pominięte)
 
 **Art. 7a.**
 
-1. Spółki akcyjne lub spółki z ograniczoną odpowiedzialnością albo spółki działające na zasadach właściwych dla tych spółek, mające siedzibę na terytorium innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, prowadzące działalność w zakresie, o którym mowa w art. 6 ust. 1–3 lub w art. 7 ust. 2, mogą prowadzić tę działalność na terytorium Rzeczypospolitej Polskiej na zasadach i warunkach określonych w zatwierdzonym regulaminie, udzielonej koncesji lub udzielonym zezwoleniu, a także wynikających z przepisów ustawy, pod warunkiem ustanowienia przedstawiciela albo w formie oddziału.
+1. Spółki akcyjne lub spółki z ograniczoną odpowiedzialnością albo spółki działające na zasadach właściwych dla tych spółek, mające siedzibę na terytorium innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, prowadzące działalność w zakresie, o którym mowa w art. 6 ust. 1–3 lub w art. 7 ust. 2, mogą prowadzić tę działalność na terytorium Rzeczypospolitej Polskiej na zasadach i warunkach określonych w zatwierdzonym regulaminie, udzielonej koncesji lub udzielonym zezwoleniu, a także wynikających z przepisów ustawy, pod warunkiem ustanowienia przedstawiciela albo w formie oddziału.
 
 2. Przedstawiciel:
 
@@ -205,7 +210,7 @@ Art. 92–116. (pominięte)
 
 6. Jeżeli przedstawiciel przestał spełniać warunki określone w ust. 3 lub odpowiednio w art. 11, art. 12 ust. 1 i art. 34 ust. 1 pkt 2 i 3, spółka, o której mowa w ust. 1, jest zobowiązana do niezwłocznego rozwiązania umowy z przedstawicielem.
 
-**Art. 8.** Do postępowań w sprawach określonych w ustawie stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, chyba że ustawa stanowi inaczej.
+**Art. 8.** Do postępowań w sprawach określonych w ustawie stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, chyba że ustawa stanowi inaczej.
 
 #### Rozdział 2 Warunki urządzania gier hazardowych
 
@@ -219,14 +224,16 @@ Art. 92–116. (pominięte)
 
 1. Wysokość kapitału zakładowego spółki akcyjnej lub spółki z ograniczoną odpowiedzialnością prowadzącej działalność w zakresie:
 
-- **1)** gier urządzanych w kasynie gry – nie może wynosić mniej niż 4 000 000 zł;
-- **2)** gier urządzanych w salonie gry bingo pieniężne lub przyjmowania zakładów wzajemnych – nie może wynosić mniej niż 2 000 000 zł.
+- **1)** gier urządzanych w kasynie gry nie może wynosić mniej niż 4 000 000 zł;
+- **2)** gier urządzanych w salonie gry bingo pieniężne lub przyjmowania zakładów wzajemnych nie może wynosić mniej niż 2 000 000 zł.
 
 2. W spółkach, o których mowa w ust. 1, nie może być akcji (udziałów) uprzywilejowanych.
 
 3. Przepisu ust. 2 nie stosuje się do jednoosobowych spółek Skarbu Państwa.
 
-4. W spółkach, o których mowa w ust. 1, powołuje się rady nadzorcze. [5. W spółce akcyjnej, o której mowa w ust. 1, mogą być wydawane wyłącznie akcje imienne.]
+4. W spółkach, o których mowa w ust. 1, powołuje się rady nadzorcze.
+
+5. W spółce akcyjnej, o której mowa w ust. 1, mogą być wydawane wyłącznie akcje imienne.
 
 6. W przypadku spółek, o których mowa w art. 7a, jeżeli kwota kapitału zakładowego jest wyrażona w walucie obcej, jej wysokość w przeliczeniu na złote nie może być niższa niż kwota wskazana odpowiednio w ust. 1 pkt 1 i 2.
 
@@ -237,8 +244,8 @@ Art. 92–116. (pominięte)
 1. Działalność w zakresie, o którym mowa w art. 6 ust. 1–3 oraz w art. 7 ust. 2, może być prowadzona, pod warunkiem że:
 
 - **1)** wobec spółki lub jej akcjonariuszy (wspólników) posiadających akcje (udziały), których wartość przekracza 10 % kapitału zakładowego spółki, lub członków zarządu, rady nadzorczej lub komisji rewizyjnej lub prokurentów spółki będących osobami fizycznymi, osobami prawnymi lub spółkami niemającymi osobowości prawnej, nie istnieją uzasadnione zastrzeżenia z punktu widzenia bezpieczeństwa państwa, porządku publicznego, bezpieczeństwa interesów ekonomicznych państwa, a także przestrzegania przepisów regulujących przeciwdziałanie praniu pieniędzy oraz finansowaniu terroryzmu;
-- **2)** członkowie zarządu, rady nadzorczej lub komisji rewizyjnej spółki posiadają obywatelstwo polskie lub obywatelstwo państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Organizacji Współpracy Gospodarczej i Rozwoju, z tym że wymogu tego nie stosuje się do spółek, o których mowa w art. 7a ust. 1;
-- **3)** przed organami wymiaru sprawiedliwości państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym nie toczy się postępowanie przeciwko podmiotom wymienionym w pkt 1 w sprawach o przestępstwa związane z praniem pieniędzy oraz finansowaniem terroryzmu;
+- **2)** członkowie zarządu, rady nadzorczej lub komisji rewizyjnej spółki posiadają obywatelstwo polskie lub obywatelstwo państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym lub Organizacji Współpracy Gospodarczej i Rozwoju, z tym że wymogu tego nie stosuje się do spółek, o których mowa w art. 7a ust. 1;
+- **3)** przed organami wymiaru sprawiedliwości państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym nie toczy się postępowanie przeciwko podmiotom wymienionym w pkt 1 w sprawach o przestępstwa związane z praniem pieniędzy oraz finansowaniem terroryzmu;
 - **4)** spółce, o której mowa w pkt 1, w terminie 6 lat przed datą złożenia wniosku o koncesję lub zezwolenie nie cofnięto koncesji lub zezwolenia z powodów określonych w art. 59 ust. 1 pkt 2;
 - **5)** akcjonariusze (wspólnicy), o których mowa w pkt 1, nie byli akcjonariuszami (wspólnikami) posiadającymi akcje (udziały), których wartość przekraczała 10 % kapitału zakładowego spółki, w spółce, której w terminie 6 lat przed datą złożenia wniosku o koncesję lub zezwolenie cofnięto koncesję lub zezwolenie z powodów określonych w art. 59 ust. 1 pkt 2;
 - **6)** członkowie zarządu, rady nadzorczej lub komisji rewizyjnej lub prokurenci, o których mowa w pkt 1, nie byli członkami zarządu, rady nadzorczej lub komisji rewizyjnej lub prokurentami w spółce, której w terminie 6 lat przed datą złożenia wniosku o koncesje lub zezwolenie cofnięto koncesję lub zezwolenie z powodów określonych w art. 59 ust. 1 pkt 2.
@@ -265,7 +272,7 @@ Art. 92–116. (pominięte)
 
 2. Urządzanie gry bingo pieniężne jest dozwolone wyłącznie w salonach gry bingo pieniężne na zasadach i warunkach określonych w zatwierdzonym regulaminie i udzielonym zezwoleniu, a także wynikających z przepisów ustawy.
 
-3. Przyjmowanie zakładów wzajemnych jest dozwolone – stosownie do udzielonego zezwolenia – wyłącznie w punktach przyjmowania zakładów wzajemnych lub przez sieć Internet na zasadach i warunkach określonych w zatwierdzonym regulaminie i udzielonym zezwoleniu, a także wynikających z przepisów ustawy.
+3. Przyjmowanie zakładów wzajemnych jest dozwolone stosownie do udzielonego zezwolenia wyłącznie w punktach przyjmowania zakładów wzajemnych lub przez sieć Internet na zasadach i warunkach określonych w zatwierdzonym regulaminie i udzielonym zezwoleniu, a także wynikających z przepisów ustawy.
 
 4. Urządzanie gry w pokera jest dozwolone również poza kasynami gier wyłącznie na zasadach i warunkach określonych w art. 6a.
 
@@ -273,7 +280,7 @@ Art. 92–116. (pominięte)
 
 **Art. 15.**
 
-1. Kasyna gry mogą być lokalizowane w miejscowościach liczących do 250 tys. mieszkańców – 1 kasyno. Na każde kolejne rozpoczęte 250 tys. mieszkańców liczbę dozwolonych kasyn gry zwiększa się o 1. Łączna liczba kasyn gry w województwie nie może być jednak wyższa niż 1 kasyno na każde pełne 650 tys. mieszkańców województwa.
+1. Kasyna gry mogą być lokalizowane w miejscowościach liczących do 250 tys. mieszkańców 1 kasyno. Na każde kolejne rozpoczęte 250 tys. mieszkańców liczbę dozwolonych kasyn gry zwiększa się o 1. Łączna liczba kasyn gry w województwie nie może być jednak wyższa niż 1 kasyno na każde pełne 650 tys. mieszkańców województwa.
 
 1a. Automaty do gier mogą być instalowane w salonach gier na automatach:
 
@@ -305,7 +312,7 @@ Art. 92–116. (pominięte)
 
 1g. Minister właściwy do spraw finansów publicznych zatwierdza regulamin, o którym mowa w lit. 1d, w terminie 6 miesięcy od dnia przedłożenia regulaminu do zatwierdzenia.
 
-2. Salony gry bingo pieniężne mogą być lokalizowane w miejscowościach liczących do 100 tys. mieszkańców – 1 salon. Na każde kolejne rozpoczęte 100 tys. mieszkańców liczbę dozwolonych salonów zwiększa się o 1. Łączna liczba salonów gry bingo pieniężne w województwie nie może być jednak wyższa niż 1 salon na każde pełne 300 tys. mieszkańców województwa.
+2. Salony gry bingo pieniężne mogą być lokalizowane w miejscowościach liczących do 100 tys. mieszkańców 1 salon. Na każde kolejne rozpoczęte 100 tys. mieszkańców liczbę dozwolonych salonów zwiększa się o 1. Łączna liczba salonów gry bingo pieniężne w województwie nie może być jednak wyższa niż 1 salon na każde pełne 300 tys. mieszkańców województwa.
 
 3. Liczbę mieszkańców, o której mowa w ust. 1–2, ustala Prezes Głównego Urzędu Statystycznego jako liczbę ludności faktycznie zamieszkałej na obszarze danej miejscowości oraz województwa, według stanu na dzień 31 grudnia roku poprzedzającego rok, w którym prowadzący gry złożył wniosek o udzielenie koncesji na prowadzenie kasyna gry lub zezwolenia na prowadzenie salonu gry bingo pieniężne.
 
@@ -321,13 +328,13 @@ Art. 92–116. (pominięte)
 
 - **1)** imię i nazwisko;
 - **2)** rodzaj i numer dokumentu potwierdzającego wiek i tożsamość;
-- **3)** numer PESEL, a w przypadku braku numeru PESEL – datę urodzenia;
+- **3)** numer PESEL, a w przypadku braku numeru PESEL datę urodzenia;
 - **4)** adres zamieszkania;
 - **5)** obywatelstwo.
 
 4. Gość ośrodka gier otrzymuje jednorazową kartę wstępu będącą potwierdzeniem dokonania rejestracji.
 
-5. Dane objęte rejestrem gości są udostępniane wyłącznie funkcjonariuszom Służby Celno-Skarbowej, organom Krajowej Administracji Skarbowej, Policji oraz uczestnikom gry zgłaszającym reklamacje – w zakresie dotyczącym tych uczestników, a także sądowi i prokuratorowi w związku z toczącym się postępowaniem. Udostępnienie danych jest nieodpłatne.
+5. Dane objęte rejestrem gości są udostępniane wyłącznie funkcjonariuszom Służby Celno-Skarbowej, organom Krajowej Administracji Skarbowej, Policji oraz uczestnikom gry zgłaszającym reklamacje w zakresie dotyczącym tych uczestników, a także sądowi i prokuratorowi w związku z toczącym się postępowaniem. Udostępnienie danych jest nieodpłatne.
 
 6. Dane objęte rejestrem gości są przechowywane przez okres 3 lat, licząc od końca roku kalendarzowego, w którym dokonano rejestracji.
 
@@ -335,12 +342,12 @@ Art. 92–116. (pominięte)
 
 1. Podmiot prowadzący działalność w zakresie gier urządzanych w kasynie gry oraz salonie gry na automatach jest obowiązany do zainstalowania w kasynie gry oraz salonie gry na automatach audiowizyjnego systemu kontroli gier służącego kontroli przebiegu i prowadzenia gier, w tym umożliwiającego weryfikację prawidłowości określania rezultatów gier, rozliczania żetonów i pieniądza gotówkowego, wydawania zaświadczeń o uzyskanej wygranej i prowadzenia ewidencji wypłaconych (wydanych) wygranych oraz rozstrzyganie wątpliwości związanych z urządzaniem gier, a także zapewniającego możliwość kontroli i weryfikacji osób wchodzących do kasyna gry oraz salonu gry na automatach, za pomocą zapisu sygnału audiowizyjnego.
 
-2. Zapis sygnału audiowizyjnego jest udostępniany wyłącznie funkcjonariuszom Służby Celno-Skarbowej, organom Krajowej Administracji Skarbowej, Policji oraz uczestnikom gry zgłaszającym reklamacje – w zakresie dotyczącym tych uczestników, a także sądowi i prokuratorowi w związku z toczącym się postępowaniem. Udostępnienie danych jest nieodpłatne.
+2. Zapis sygnału audiowizyjnego jest udostępniany wyłącznie funkcjonariuszom Służby Celno-Skarbowej, organom Krajowej Administracji Skarbowej, Policji oraz uczestnikom gry zgłaszającym reklamacje w zakresie dotyczącym tych uczestników, a także sądowi i prokuratorowi w związku z toczącym się postępowaniem. Udostępnienie danych jest nieodpłatne.
 
 3. Zapis sygnału audiowizyjnego jest przechowywany:
 
-- **1)** w kasynie gry – przez okres 3 lat, licząc od końca roku kalendarzowego, w którym został dokonany;
-- **2)** w salonie gry na automatach – przez okres 12 miesięcy, licząc od końca miesiąca, w którym został dokonany.
+- **1)** w kasynie gry przez okres 3 lat, licząc od końca roku kalendarzowego, w którym został dokonany;
+- **2)** w salonie gry na automatach przez okres 12 miesięcy, licząc od końca miesiąca, w którym został dokonany.
 
 4. Zapis sygnału audiowizyjnego powinien być trwały i czytelny. Sposób dokonania zapisu sygnału audiowizyjnego i jego przechowywania powinien chronić zapis przed zniszczeniem, modyfikacją i ukryciem.
 
@@ -349,7 +356,7 @@ Art. 92–116. (pominięte)
 - **1)** dane dotyczące wpłaconych stawek i wypłaconych wygranych w grach na automatach urządzanych w salonach gier na automatach,
 - **2)** przebieg gier w grach na automatach urządzanych w salonach gier na automatach,
 - **3)** lokalizację i prawidłowość działania automatów do gier,
-- **4)** dane o automatach do gier, w tym informacje o awariach i ingerencjach w automat do gier – zwany dalej „systemem rejestrującym”.
+- **4)** dane o automatach do gier, w tym informacje o awariach i ingerencjach w automat do gier zwany dalej „systemem rejestrującym”.
 
 2. Informacje, o których mowa w ust. 1, są rejestrowane i archiwizowane w czasie rzeczywistym.
 
@@ -367,11 +374,11 @@ Art. 92–116. (pominięte)
 
 **Art. 15d.**
 
-1. W przypadku urządzania gier hazardowych przez sieć Internet, urządzenia przetwarzające i archiwizujące dane dotyczące tych gier hazardowych, a także ich uczestników, powinny być zainstalowane i przechowywane na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym.
+1. W przypadku urządzania gier hazardowych przez sieć Internet, urządzenia przetwarzające i archiwizujące dane dotyczące tych gier hazardowych, a także ich uczestników, powinny być zainstalowane i przechowywane na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym.
 
 2. Podmiot urządzający gry hazardowe przez sieć Internet może wykorzystywać do ich urządzania wyłącznie stronę internetową, której krajowa domena najwyższego poziomu jest przypisana do polskich stron internetowych.
 
-3. Podmiot urządzający gry hazardowe przez sieć Internet jest obowiązany prowadzić, w czasie rzeczywistym, w urządzeniu archiwizującym usytuowanym na terytorium Rzeczypospolitej Polskiej lub państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, archiwizację wszelkich danych związanych z urządzaną grą hazardową, w tym wymienianych między tym podmiotem a uczestnikiem gier hazardowych, pozwalających na ustalenie przebiegu i wyniku gier hazardowych oraz przeprowadzanych transakcji wynikających z tych gier oraz danych niezbędnych do identyfikacji uczestnika gier hazardowych.
+3. Podmiot urządzający gry hazardowe przez sieć Internet jest obowiązany prowadzić, w czasie rzeczywistym, w urządzeniu archiwizującym usytuowanym na terytorium Rzeczypospolitej Polskiej lub państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, archiwizację wszelkich danych związanych z urządzaną grą hazardową, w tym wymienianych między tym podmiotem a uczestnikiem gier hazardowych, pozwalających na ustalenie przebiegu i wyniku gier hazardowych oraz przeprowadzanych transakcji wynikających z tych gier oraz danych niezbędnych do identyfikacji uczestnika gier hazardowych.
 
 4. Podmiot urządzający gry hazardowe przez sieć Internet jest obowiązany zapewnić organom Krajowej Administracji Skarbowej dostęp, w tym dostęp zdalny, do danych, o których mowa w ust. 3, przechowywanych w urządzeniu archiwizującym oraz udostępnić w tym celu odpowiednie narzędzia i oprogramowanie zapewniające bezpieczeństwo danych.
 
@@ -400,7 +407,7 @@ Art. 92–116. (pominięte)
 
 - **1)** nazwa domeny internetowej:
     - **a)** wykorzystywanej do urządzania gier hazardowych lub
-    - **b)** służącej do reklamowania lub promowania gier hazardowych – niezgodnie z przepisami prawa dostępnej dla znajdujących się na terytorium Rzeczypospolitej Polskiej użytkowników sieci Internet;
+    - **b)** służącej do reklamowania lub promowania gier hazardowych niezgodnie z przepisami prawa dostępnej dla znajdujących się na terytorium Rzeczypospolitej Polskiej użytkowników sieci Internet;
 
 - **2)** data i godzina dokonania wpisu, jego zmiany lub wykreślenia.
 
@@ -417,14 +424,14 @@ Art. 92–116. (pominięte)
 8. Sprzeciw zawiera:
 
 - **1)** podstawowe dane identyfikacyjne podmiotu wnoszącego sprzeciw, w szczególności:
-    - **a)** imię i nazwisko, adres zamieszkania – w przypadku osób fizycznych,
-    - **b)** nazwę podmiotu, adres, numer z właściwego rejestru handlowego – w przypadku osób prawnych;
+    - **a)** imię i nazwisko, adres zamieszkania w przypadku osób fizycznych,
+    - **b)** nazwę podmiotu, adres, numer z właściwego rejestru handlowego w przypadku osób prawnych;
 
 - **2)** uzasadnienie sprzeciwu, z którego wynika, że nazwę domeny, o której mowa w ust. 4 pkt 1, należy wykreślić z Rejestru.
 
 9. Minister właściwy do spraw finansów publicznych wydaje decyzję o pozostawieniu nazwy domeny, o której mowa w ust. 4 pkt 1, w Rejestrze albo o jej wykreśleniu z Rejestru, w terminie 14 dni od dnia otrzymania sprzeciwu.
 
-10. Do decyzji, o której mowa w ust. 9, nie stosuje się przepisu art. 221 § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa ani przepisu art. 52 § 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685).
+10. Do decyzji, o której mowa w ust. 9, nie stosuje się przepisu art. 221 § 1 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa ani przepisu art. 52 § 4 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685).
 
 **Art. 15g.**
 
@@ -440,7 +447,7 @@ Art. 92–116. (pominięte)
 
 - **1)** wymóg umieszczenia, w widoczny sposób, na stronie internetowej wykorzystywanej do urządzania gry hazardowej:
     - **a)** informacji o podmiocie oferującym gry hazardowe i sposobie kontaktu z nim,
-    - **b)** informacji o zezwoleniu na urządzanie gier wskazującej jego zakres przedmiotowy, termin ważności, oraz nazwę organu, który go udzielił – w przypadku gdy zezwolenie to jest wymagane,
+    - **b)** informacji o zezwoleniu na urządzanie gier wskazującej jego zakres przedmiotowy, termin ważności, oraz nazwę organu, który go udzielił w przypadku gdy zezwolenie to jest wymagane,
     - **c)** regulaminu gry,
     - **d)** informacji o zakazie gry osobom poniżej 18. roku życia,
     - **e)** informacji o ryzyku związanym z hazardem,
@@ -490,7 +497,7 @@ Art. 92–116. (pominięte)
 
 1. Podmiot urządzający loterię pieniężną, loterię fantową, grę bingo pieniężne lub grę bingo fantowe jest obowiązany zabezpieczyć losy lub inne dowody udziału w takiej grze oraz kartony do gry bingo pieniężne lub gry bingo fantowe przed sfałszowaniem oraz przedwczesnym odczytaniem wyniku gry, w szczególności przed prześwietleniem, otwarciem lub zdrapaniem farby ochronnej i zamknięciem lub ponownym naniesieniem farby ochronnej bez naruszenia struktury papieru.
 
-2. Podmiot urządzający loterię pieniężną, loterię fantową lub grę bingo fantowe jest obowiązany przekazywać właściwemu naczelnikowi urzędu celno-skarbowego informację w postaci papierowej lub elektronicznej za pomocą środków komunikacji elektronicznej, w sposób określony w art. 168 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, o zamiarze zniszczenia losów, kartonów lub innych dowodów udziału w takiej grze co najmniej na 7 dni przed planowanym terminem przeprowadzenia tych czynności. Czynność zniszczenia podlega kontroli.
+2. Podmiot urządzający loterię pieniężną, loterię fantową lub grę bingo fantowe jest obowiązany przekazywać właściwemu naczelnikowi urzędu celno-skarbowego informację w postaci papierowej lub elektronicznej za pomocą środków komunikacji elektronicznej, w sposób określony w art. 168 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, o zamiarze zniszczenia losów, kartonów lub innych dowodów udziału w takiej grze co najmniej na 7 dni przed planowanym terminem przeprowadzenia tych czynności. Czynność zniszczenia podlega kontroli.
 
 3. Podmiot urządzający zakłady wzajemne przez sieć Internet jest obowiązany zabezpieczyć stosowane dowody udziału w zakładzie wzajemnym przed ingerencją osób nieuprawnionych i zapewnić możliwość weryfikacji ich autentyczności.
 
@@ -504,7 +511,7 @@ Art. 92–116. (pominięte)
 
 1. Wartość wygranej w grach hazardowych nie może być niższa od ceny losu lub innego dowodu udziału w grze albo kwoty wpłaconej stawki.
 
-2. Ogólna wartość wygranych w grze liczbowej – z wyjątkiem gry liczbowej keno – totalizatorze i grze bingo pieniężne nie może być niższa niż 50 % kwoty wpłaconych stawek, a w loterii pieniężnej, loterii fantowej, grze telebingo oraz grze bingo fantowe nie może być niższa niż 30 % łącznej ceny przeznaczonych do sprzedaży losów lub innych dowodów udziału w grze.
+2. Ogólna wartość wygranych w grze liczbowej z wyjątkiem gry liczbowej keno totalizatorze i grze bingo pieniężne nie może być niższa niż 50 % kwoty wpłaconych stawek, a w loterii pieniężnej, loterii fantowej, grze telebingo oraz grze bingo fantowe nie może być niższa niż 30 % łącznej ceny przeznaczonych do sprzedaży losów lub innych dowodów udziału w grze.
 
 3. W grach na automatach zaprogramowana wartość wygranych w automacie nie może być niższa niż 75 % kwoty wpłaconych stawek.
 
@@ -534,7 +541,7 @@ Art. 92–116. (pominięte)
 
 3. Podmiot urządzający grę hazardową jest obowiązany prowadzić ewidencję zaświadczeń oraz przechowywać odpisy wydanych zaświadczeń przez okres 5 lat, licząc od końca roku kalendarzowego, w którym uzyskano wygraną lub nastąpiła wypłata (wydanie) wygranej. Ewidencja zaświadczeń jest udostępniana, w celu jej poświadczenia, naczelnikowi urzędu skarbowego.
 
-4. Podmiot urządzający grę hazardową nabywa druki zaświadczeń o uzyskanej wygranej, po złożeniu wniosku w postaci papierowej lub elektronicznej za pomocą środków komunikacji elektronicznej, w sposób określony w art. 168 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, od wyznaczonego naczelnika urzędu skarbowego.
+4. Podmiot urządzający grę hazardową nabywa druki zaświadczeń o uzyskanej wygranej, po złożeniu wniosku w postaci papierowej lub elektronicznej za pomocą środków komunikacji elektronicznej, w sposób określony w art. 168 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, od wyznaczonego naczelnika urzędu skarbowego.
 
 5. Podmiot urządzający gry hazardowe jest obowiązany prowadzić ewidencję wypłaconych (wydanych) wygranych, których wartość wynosi co najmniej 2280 zł.
 
@@ -542,7 +549,7 @@ Art. 92–116. (pominięte)
 
 7. W ewidencji, o której mowa w ust. 5, umieszcza się:
 
-- **1)** dane osoby wygrywającej (imię i nazwisko, rodzaj i numer dokumentu potwierdzającego tożsamość, numer PESEL, a w przypadku braku numeru PESEL – adres zamieszkania, datę urodzenia i obywatelstwo);
+- **1)** dane osoby wygrywającej (imię i nazwisko, rodzaj i numer dokumentu potwierdzającego tożsamość, numer PESEL, a w przypadku braku numeru PESEL adres zamieszkania, datę urodzenia i obywatelstwo);
 - **2)** wartość wypłaconej (wydanej) wygranej;
 - **3)** datę wypłaty (wydania).
 
@@ -573,7 +580,7 @@ Art. 92–116. (pominięte)
 - **2)** z zasadami gry i możliwościami wyboru wariantów gry lub zakładu wzajemnego;
 - **3)** z innymi, wymienionymi w regulaminie, zastrzeżeniami dotyczącymi sposobu gry.
 
-3. Podmiot urządzający gry hazardowe utrzymuje automaty oraz urządzenia do gier i zakładów wzajemnych w stanie gwarantującym grę zgodną z regulaminem, a uczestnikom gry – bezpieczne korzystanie z nich.
+3. Podmiot urządzający gry hazardowe utrzymuje automaty oraz urządzenia do gier i zakładów wzajemnych w stanie gwarantującym grę zgodną z regulaminem, a uczestnikom gry bezpieczne korzystanie z nich.
 
 4. Podmiot, o którym mowa w ust. 1, w celu ochrony interesu uczestników gry lub zakładu wzajemnego i osób trzecich może odmówić wstępu albo usunąć z ośrodka gier albo punktu przyjmowania zakładów wzajemnych osobę, która nie przestrzega postanowień regulaminu gry lub zakładu wzajemnego lub stosuje techniki gry mogące wpłynąć na przypadkowość wyniku gry przez:
 
@@ -616,7 +623,7 @@ Art. 92–116. (pominięte)
 
 **Art. 23b.**
 
-1. Na żądanie naczelnika urzędu celno-skarbowego, zgłoszone w postaci papierowej lub elektronicznej za pomocą środków komunikacji elektronicznej, w sposób określony w art. 144 § 1a–1d ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, w przypadku uzasadnionego podejrzenia, że zarejestrowany automat lub urządzenie do gier nie spełnia warunków określonych w ustawie, podmiot eksploatujący ten automat lub to urządzenie jest obowiązany poddać automat lub urządzenie badaniu sprawdzającemu.
+1. Na żądanie naczelnika urzędu celno-skarbowego, zgłoszone w postaci papierowej lub elektronicznej za pomocą środków komunikacji elektronicznej, w sposób określony w art. 144 § 1a–1d ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, w przypadku uzasadnionego podejrzenia, że zarejestrowany automat lub urządzenie do gier nie spełnia warunków określonych w ustawie, podmiot eksploatujący ten automat lub to urządzenie jest obowiązany poddać automat lub urządzenie badaniu sprawdzającemu.
 
 2. W żądaniu, o którym mowa w ust. 1, wskazuje się automat do gier, urządzenie losujące lub urządzenie do gier, które podlegają badaniu sprawdzającemu, jednostkę badającą przeprowadzającą badanie oraz podmiot, któremu automat do gier, urządzenie losujące lub urządzenie do gier mają być przekazane w celu przeprowadzenia badania, i termin tego przekazania.
 
@@ -626,9 +633,19 @@ Art. 92–116. (pominięte)
 
 5. W przypadku potwierdzenia w wyniku badania sprawdzającego, że automat do gier, urządzenie losujące lub urządzenie do gier nie spełnia warunków określonych w ustawie, koszty badania sprawdzającego obciążają podmiot eksploatujący automat lub urządzenie.
 
-**Art. 23c.** Podmiot eksploatujący zarejestrowany automat do gier, urządzenie losujące lub urządzenie do gier jest obowiązany przekazywać naczelnikowi urzędu celno-skarbowego informację w postaci papierowej lub elektronicznej za pomocą środków komunikacji elektronicznej, w sposób określony w art. 168 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, o:
+**Art. 23c.** Podmiot eksploatujący zarejestrowany automat do gier, urządzenie losujące lub urządzenie do gier jest obowiązany przekazywać naczelnikowi urzędu celno-skarbowego informację w postaci papierowej lub elektronicznej za pomocą środków komunikacji elektronicznej, w sposób określony w art. 168 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, o:
+
+- **1)** zamiarze przemieszczenia automatu do gier, urządzenia losującego lub urządzenia do gier do innego miejsca eksploatacji co najmniej na 7 dni przed dokonaniem tej czynności;
+- **2)** zawieszeniu lub wycofaniu z eksploatacji automatu do gier, urządzenia losującego lub urządzenia do gier w terminie 7 dni od dnia dokonania tej czynności;
+- **3)** zniszczeniu lub kradzieży automatu do gier, urządzenia losującego lub urządzenia do gier w terminie 2 dni od dnia wystąpienia takiego zdarzenia.
 
 **Art. 23d.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
+
+- **1)** szczegółowe warunki badania, rejestracji i eksploatacji urządzeń losujących, urządzeń do gier i automatów do gier,
+- **2)** warunki i sposób zabezpieczenia urządzeń i automatów, o których mowa w pkt 1, przed ingerencją z zewnątrz,
+- **3)** sposób działania urządzeń i automatów, o których mowa w pkt 1, w czasie awarii,
+- **4)** sposób zabezpieczenia istotnych informacji dotyczących urządzanej loterii, w tym danych dotyczących jej uczestników,
+- **5)** sposób uzyskiwania, naliczania i wypłacania wygranych w trakcie gry lub w przypadku gdy urządzenie lub automat, o których mowa w pkt 1, znajdują się w sytuacji awarii uwzględniając konieczność zapewnienia ochrony interesów uczestników gier i wykonywania zobowiązań urządzającego grę wobec budżetu państwa.
 
 **Art. 23e.**
 
@@ -642,7 +659,7 @@ Art. 92–116. (pominięte)
 
 1. Upoważnienia do badań technicznych automatów do gier, urządzeń losujących i urządzeń do gier udziela minister właściwy do spraw finansów publicznych podmiotowi, który spełnia następujące warunki:
 
-- **1)** posiada akredytację Polskiego Centrum Akredytacji lub jednostki akredytującej państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, będącej sygnatariuszem Wielostronnego Porozumienia EA (European cooperation for Accreditation Multilateral Agreement);
+- **1)** posiada akredytację Polskiego Centrum Akredytacji lub jednostki akredytującej państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, będącej sygnatariuszem Wielostronnego Porozumienia EA (European cooperation for Accreditation Multilateral Agreement);
 - **2)** zapewnia odpowiedni standard przeprowadzanych badań, w tym przeprowadzanie ich przez osoby o odpowiedniej wiedzy technicznej w zakresie automatów i urządzeń do gier, oraz dysponuje odpowiednim wyposażeniem technicznym;
 - **3)** osoby zarządzające tą jednostką oraz osoby przeprowadzające badania automatów i urządzeń do gier posiadają nienaganną opinię, w szczególności nie są osobami skazanymi za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
 - **4)** posiada autonomiczność względem podmiotów prowadzących działalność w zakresie gier hazardowych oraz ich organizacji i stowarzyszeń, w szczególności osoby wymienione w pkt 3 nie pozostają z podmiotami prowadzącymi działalność w zakresie gier hazardowych w stosunkach, które mogą wywoływać uzasadnione zastrzeżenia do ich bezstronności.
@@ -654,7 +671,7 @@ Art. 92–116. (pominięte)
 - **3)** aktualne zaświadczenia, że osoby wymienione w ust. 1 pkt 3 nie były skazane za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
 - **4)** oświadczenia złożone, pod rygorem odpowiedzialności karnej, przez osoby wymienione w ust. 1 pkt 3, że nie pozostają z podmiotem prowadzącym działalność w zakresie gier hazardowych ani z osobami:
     - **a)** zarządzającymi takim podmiotem lub go reprezentującymi,
-    - **b)** będącymi akcjonariuszami (wspólnikami) takiego podmiotu lub jego pracownikami – w stosunku prawnym lub faktycznym, który może wywoływać uzasadnione zastrzeżenia do ich bezstronności.
+    - **b)** będącymi akcjonariuszami (wspólnikami) takiego podmiotu lub jego pracownikami w stosunku prawnym lub faktycznym, który może wywoływać uzasadnione zastrzeżenia do ich bezstronności.
 
 3. Upoważnienie do badań technicznych automatów do gier, urządzeń losujących lub urządzeń do gier jest udzielane na okres 6 lat.
 
@@ -692,7 +709,7 @@ Art. 92–116. (pominięte)
 1. Podmiot urządzający gry hazardowe, w tym podmiot urządzający gry hazardowe przez sieć Internet jest obowiązany zapewnić, aby osoby pełniące funkcję lub zajmujące stanowisko, z którym wiąże się obowiązek:
 
 - **1)** nadzorowania gier hazardowych, w szczególności dyrektorzy oddziałów, ośrodków gier oraz ich zastępcy, kierownicy i ich zastępcy, osoby nadzorujące gry telebingo, loterie fantowe, gry bingo fantowe, loterie promocyjne i loterie audioteksowe, inspektorzy w ośrodkach gier, kasjerzy stołu, osoby nadzorujące prowadzenie gier przez sieć Internet,
-- **2)** bezpośredniego prowadzenia gry hazardowej, w szczególności: krupierzy, obsługujący automaty do gier, urządzenia losujące lub urządzenia do gier, z wyłączeniem pracowników obsługi technicznej – przed rozpoczęciem wykonywania obowiązków na zajmowanym stanowisku lub pełnienia funkcji odbyły szkolenie z zakresu przepisów o grach hazardowych i regulaminów urządzanych gier w zakresie niezbędnym do wykonywania czynności związanych z nadzorowaniem i prowadzeniem gier.
+- **2)** bezpośredniego prowadzenia gry hazardowej, w szczególności: krupierzy, obsługujący automaty do gier, urządzenia losujące lub urządzenia do gier, z wyłączeniem pracowników obsługi technicznej przed rozpoczęciem wykonywania obowiązków na zajmowanym stanowisku lub pełnienia funkcji odbyły szkolenie z zakresu przepisów o grach hazardowych i regulaminów urządzanych gier w zakresie niezbędnym do wykonywania czynności związanych z nadzorowaniem i prowadzeniem gier.
 
 2. Obowiązek określony w ust. 1 nie dotyczy:
 
@@ -719,6 +736,10 @@ Art. 92–116. (pominięte)
 3. Podmiot urządzający gry hazardowe prowadzi w postaci papierowej lub elektronicznej rejestr zaświadczeń pracowników obejmujący dane pracownika, datę szkolenia, dane podmiotu wystawiającego zaświadczenie oraz numer zaświadczenia, do którego dołącza odpowiednio kopię zaświadczenia, poświadczoną za zgodność z oryginałem, którego oryginał znajduje się w aktach osobowych pracownika, albo zaświadczenie odwzorowane cyfrowo, przez które rozumie się dokument elektroniczny będący kopią elektroniczną zaświadczenia złożonego w aktach osobowych pracownika.
 
 **Art. 24c.** Podmiot urządzający gry hazardowe jest obowiązany zapewnić, aby osoba pełniąca funkcję lub zajmująca stanowisko, o których mowa w art. 24 ust. 1, spełniała łącznie następujące warunki:
+
+- **1)** ma nienaganną opinię;
+- **2)** posługuje się językiem polskim w stopniu wystarczającym do pełnienia funkcji lub zajmowania stanowiska, o które się ubiega;
+- **3)** nie była skazana za umyślne przestępstwo lub umyślne przestępstwo skarbowe.
 
 **Art. 25.** (uchylony)
 
@@ -765,7 +786,7 @@ Art. 92–116. (pominięte)
 
 2. Zabrania się informowania o sponsorowaniu z wykorzystaniem nazwy handlowej i znaku towarowego wykorzystywanego do oferowania gier cylindrycznych, gier w karty, gier w kości, przyjmowania zakładów wzajemnych oraz gier na automatach.
 
-3. Dopuszcza się informowanie o sponsorowaniu przez podmiot prowadzący działalność wyłącznie w zakresie przyjmowania zakładów wzajemnych albo tę działalność łącznie z inną działalnością niepodlegającą ograniczeniom w zakresie reklamy, promocji lub informowania o sponsorowaniu – wyłącznie przez prezentowanie informacji zawierającej nazwę lub innego oznaczenia indywidualizującego sponsora.
+3. Dopuszcza się informowanie o sponsorowaniu przez podmiot prowadzący działalność wyłącznie w zakresie przyjmowania zakładów wzajemnych albo tę działalność łącznie z inną działalnością niepodlegającą ograniczeniom w zakresie reklamy, promocji lub informowania o sponsorowaniu wyłącznie przez prezentowanie informacji zawierającej nazwę lub innego oznaczenia indywidualizującego sponsora.
 
 4. Zakazy określone w ust. 1 i 2 dotyczą osób fizycznych, osób prawnych oraz jednostek organizacyjnych niemających osobowości prawnej, które zlecają lub prowadzą czynności, o których mowa w ust. 1 i 2, umieszczają reklamę lub informację albo czerpią korzyści z takich czynności.
 
@@ -821,7 +842,7 @@ Art. 92–116. (pominięte)
 
 4. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw finansów publicznych może określić, w drodze rozporządzenia, szczegółowe warunki, treść, sposób i zasady umieszczania komunikatu, o którym mowa w ust. 3, mając na względzie ochronę społeczeństwa przed negatywnymi skutkami nadmiernego hazardu oraz konieczność przeciwdziałania uzależnieniom od hazardu.
 
-**Art. 29c.** Zakazane jest oferowanie i reklamowanie w salonie gier na automatach oraz na stronie internetowej, na której urządzane są gry hazardowe, czynności bankowych, o których mowa w art. 5 ust. 1 pkt 3 oraz w ust. 2 pkt 1, 3, 4, 5, 7 i 10 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646, 1685 i 1863 oraz z 2025 r. poz. 146 i 222).
+**Art. 29c.** Zakazane jest oferowanie i reklamowanie w salonie gier na automatach oraz na stronie internetowej, na której urządzane są gry hazardowe, czynności bankowych, o których mowa w art. 5 ust. 1 pkt 3 oraz w ust. 2 pkt 1, 3, 4, 5, 7 i 10 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2024 r. poz. 1646, 1685 i 1863 oraz z 2025 r. poz. 146 i 222).
 
 **Art. 30.** (uchylony)
 
@@ -847,9 +868,9 @@ Art. 92–116. (pominięte)
 
 4a. Zgłoszenia loterii fantowej lub gry bingo fantowe, o których mowa w art. 7 ust. 1a lub 1b, urządzanych na obszarze właściwości miejscowej więcej niż jednego naczelnika urzędu celno-skarbowego, dokonuje się naczelnikowi urzędu celno-skarbowego właściwemu według miejsca zamieszkania lub siedziby wnioskodawcy albo siedziby oddziału przedsiębiorcy zagranicznego. W innych przypadkach gdy wnioskodawcą jest podmiot, który nie ma siedziby lub miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej oraz w przypadku gdy nie można ustalić właściwości miejscowej organu, organem właściwym jest Naczelnik Mazowieckiego Urzędu Celno-Skarbowego w Warszawie.
 
-5. W postępowaniu o udzielenie koncesji na prowadzenie kasyna gry nie stosuje się art. 143 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
+5. W postępowaniu o udzielenie koncesji na prowadzenie kasyna gry nie stosuje się art. 143 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa.
 
-6. W sprawach dotyczących udzielenia, odmowy udzielenia, zmiany i cofnięcia koncesji na prowadzenie kasyna gry nie stosuje się przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871 oraz z 2025 r. poz. 222).
+6. W sprawach dotyczących udzielenia, odmowy udzielenia, zmiany i cofnięcia koncesji na prowadzenie kasyna gry nie stosuje się przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871 oraz z 2025 r. poz. 222).
 
 7. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, obszary właściwości miejscowej dyrektorów izb administracji skarbowej do udzielania zezwoleń na urządzanie loterii fantowej, loterii audioteksowej, gry bingo fantowe i loterii promocyjnej, uwzględniając potrzebę sprawnego wykonywania zadań.
 
@@ -894,9 +915,76 @@ Art. 92–116. (pominięte)
 
 **Art. 35.** Wniosek o udzielenie koncesji na prowadzenie kasyna gry powinien zawierać:
 
+- **1)** w przypadku spółki posiadającej siedzibę na terytorium Rzeczypospolitej Polskiej odpis aktu notarialnego umowy lub statutu spółki oraz numer w Krajowym Rejestrze Sądowym;
+- **1a)** w przypadku spółki, o której mowa w art. 7a ust. 1, odpis umowy lub statutu spółki oraz:
+    - **a)** numer z odpowiedniego rejestru handlowego państwa siedziby spółki oraz kopię umowy z przedstawicielem, albo
+    - **b)** numer w Krajowym Rejestrze Sądowym oddziału tej spółki;
+
+- **2)** oznaczenie imienne akcji lub udziałów z określoną ich wartością nominalną;
+- **3)** informacje o obecnym i przeszłym statusie prawnym oraz o sytuacji finansowej;
+- **4)** dane osobowe (imiona, nazwiska, obywatelstwo, miejsce zamieszkania, rodzaj oraz serię i numer dokumentu tożsamości, informacje dotyczące posiadanego wykształcenia oraz doświadczenia zawodowego) akcjonariuszy (wspólników) będących osobami fizycznymi, reprezentujących co najmniej 10 % kapitału zakładowego spółki, członków zarządu, rady nadzorczej i komisji rewizyjnej spółki oraz osób mających sprawować zarząd nad kasynem gry; w przypadku spółek handlowych będących akcjonariuszami (wspólnikami) również informacje o ich obecnym i przeszłym statusie prawnym oraz o sytuacji finansowej;
+- **5)** opis usytuowania geograficznego budynku lub miejsca, w którym ma być ulokowane kasyno gry, określenie jego rozmiarów, wraz z planem budynku;
+- **6)** odpis dokumentów wskazujących na prawo do władania budynkiem (lokalem) lub umowy zobowiązującej do oddania we władanie budynku (lokalu), w którym będą urządzane gry;
+- **7)** przewidywaną datę rozpoczęcia działalności;
+- **8)** przewidywany rodzaj oraz liczbę gier, wraz z informacją o planowanej kolejności ich uruchomienia;
+- **9)** szacunkową wielkość zatrudnienia, z określeniem stanowisk pracy, oraz projektowane warunki zatrudnienia osoby mającej sprawować zarząd nad kasynem gry;
+- **10)** opis organizacji i funkcjonowania kasyna gry, w szczególności zasady przechowywania i ewidencjonowania kapitału gry losowej lub gry na automatach;
+- **11)** studium ekonomiczno-finansowe, zawierające co najmniej określenie inwestycji i przewidywanej rentowności;
+- **12)** projekty regulaminów gier;
+- **13)** projekt systemu służącego rejestracji gości;
+- **14)** proponowane warunki złożenia zabezpieczenia określonego w art. 63;
+- **15)** pozytywną opinię rady gminy o lokalizacji kasyna gry;
+- **16)** dokumenty potwierdzające legalność źródeł pochodzenia kapitału, a w szczególności:
+    - **a)** w przypadku akcjonariusza (wspólnika) będącego osobą fizyczną, reprezentującego co najmniej 10 % kapitału zakładowego spółki zaświadczenie właściwego naczelnika urzędu skarbowego o pokryciu udziałów lub akcji z ujawnionych źródeł przychodów,
+    - **b)** w przypadku akcjonariuszy (wspólników) będących osobami prawnymi sprawozdanie finansowe sporządzone w sposób określony w odrębnych przepisach;
+
+- **17)** aktualne zaświadczenia o niezaleganiu z zapłatą podatków stanowiących dochód budżetu państwa, należności celnych oraz składek na ubezpieczenia społeczne oraz ubezpieczenia zdrowotne;
+- **18)** oświadczenia akcjonariuszy (wspólników) będących osobami fizycznymi, reprezentujących co najmniej 10 % kapitału zakładowego spółki, lub członków zarządu, rady nadzorczej i komisji rewizyjnej, że nie toczy się przeciwko nim postępowanie przed organami wymiaru sprawiedliwości państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym w sprawach o przestępstwa związane z praniem pieniędzy oraz finansowaniem terroryzmu;
+- **19)** aktualne zaświadczenia, że akcjonariusze (wspólnicy) będący osobami fizycznymi, reprezentujący co najmniej 10 % kapitału zakładowego spółki, oraz członkowie zarządu, rady nadzorczej i komisji rewizyjnej spółki nie byli skazani za umyślne przestępstwo lub umyślne przestępstwo skarbowe na terytorium państwa członkowskiego Unii Europejskiej;
+- **20)** dokumenty wydane przez właściwe władze potwierdzające zgodność działań spółki z właściwymi przepisami regulującymi przeciwdziałanie praniu pieniędzy oraz finansowaniu terroryzmu albo w przypadku gdy przepisy nie przewidują wydania takiego dokumentu oświadczenie spółki potwierdzające zgodność działań spółki z właściwymi przepisami regulującymi przeciwdziałanie praniu pieniędzy oraz finansowaniu terroryzmu;
+- **21)** sprawozdanie finansowe za ostatni rok obrotowy wraz ze sprawozdaniem z badania, a w przypadku spółki rozpoczynającej działalność oświadczenie o zgodności działania spółki z przepisami o rachunkowości;
+- **22)** w przypadku spółki, o której mowa w art. 7a ust. 1, dokumenty potwierdzające prowadzenie działalności w zakresie, o którym mowa w art. 6 ust. 1, w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym.
+
 **Art. 36.** Wniosek o udzielenie zezwolenia na prowadzenie salonu gry bingo pieniężne lub urządzanie zakładów wzajemnych powinien zawierać:
 
-**Art. 36a.** W przypadku spółki, o której mowa w art. 7a ust. 1, do wniosku o udzielenie koncesji na prowadzenie kasyna gry lub zezwolenia na prowadzenie salonu gry bingo pieniężne lub urządzanie zakładów wzajemnych dołącza się dokumenty potwierdzające spełnianie przez przedstawiciela warunków określonych w art. 11, art. 12 ust. 1 i art. 34 ust. 1 pkt 2 i 3. Przepisy art. 35 pkt 17– 19 i art. 36 pkt 17–19 stosuje się odpowiednio. W przypadku przedstawiciela będącego osobą fizyczną dołącza się dokumenty dotyczące tej osoby fizycznej.
+- **1)** w przypadku spółki posiadającej siedzibę na terytorium Rzeczypospolitej Polskiej odpis aktu notarialnego umowy lub statutu spółki oraz numer w Krajowym Rejestrze Sądowym;
+- **1a)** w przypadku spółki, o której mowa w art. 7a ust. 1, odpis umowy lub statutu spółki oraz:
+    - **a)** numer z odpowiedniego rejestru handlowego państwa siedziby spółki oraz kopię umowy z przedstawicielem, albo
+    - **b)** numer w Krajowym Rejestrze Sądowym oddziału tej spółki;
+
+- **2)** oznaczenie imienne akcji lub udziałów z określoną ich wartością nominalną;
+- **3)** informacje o obecnym i przeszłym statusie prawnym oraz o sytuacji finansowej;
+- **4)** dane osobowe (imiona, nazwiska, obywatelstwo, miejsce zamieszkania, rodzaj oraz serię i numer dokumentu tożsamości, informacje dotyczące posiadanego wykształcenia oraz doświadczenia zawodowego) akcjonariuszy (wspólników) będących osobami fizycznymi, reprezentujących co najmniej 10 % kapitału zakładowego spółki, członków zarządu, rady nadzorczej i komisji rewizyjnej spółki oraz osób mających sprawować zarząd nad kasynem gry; w przypadku spółek handlowych będących akcjonariuszami (wspólnikami) również informacje o ich obecnym i przeszłym statusie prawnym oraz o sytuacji finansowej;
+- **5)** opis usytuowania geograficznego budynku lub miejsca, w którym ma być ulokowany salon gry bingo pieniężne, określenie jego rozmiarów, wraz z planem budynku;
+- **6)** odpis dokumentów wskazujących na prawo do władania budynkiem (lokalem) lub umowy zobowiązującej do oddania we władanie budynku (lokalu), w którym będzie urządzana gra bingo pieniężne, a w przypadku punktu przyjmowania zakładów wzajemnych zgodę władającego budynkiem (lokalem) na korzystanie z budynku (lokalu);
+- **7)** przewidywaną datę rozpoczęcia działalności;
+- **8)** w przypadku zakładów wzajemnych przewidywany rodzaj oraz liczbę zakładów wraz ze wskazaniem, czy zakłady będą urządzane przez sieć Internet;
+- **8a)** w przypadku zakładów wzajemnych urządzanych przez sieć Internet:
+    - **a)** adres i dokumentację techniczną strony internetowej, która będzie wykorzystywana do urządzania zakładów,
+    - **b)** projektowane zasady weryfikacji ukończenia 18 roku życia przez uczestników zakładów,
+    - **c)** ekspertyzę dowodów udziału w zakładach potwierdzającą ich zabezpieczenie przed ingerencją osób nieuprawnionych i możliwość weryfikacji ich autentyczności,
+    - **d)** zasady przechowywania i ewidencjonowania kapitału zakładu;
+
+- **9)** szacunkową wielkość zatrudnienia, z określeniem stanowisk pracy;
+- **10)** opis organizacji i funkcjonowania salonu gry bingo pieniężne lub punktu przyjmowania zakładów wzajemnych, w szczególności zasady przechowywania i ewidencjonowania kapitału gry losowej lub zakładu wzajemnego;
+- **11)** studium ekonomiczno-finansowe, zawierające co najmniej określenie inwestycji i przewidywanej rentowności;
+- **12)** projekty regulaminów gier lub zakładów wzajemnych;
+- **12a)** projekt systemu służącego rejestracji gości w salonie gry bingo pieniężne;
+- **13)** proponowane warunki złożenia zabezpieczenia, o którym mowa w art. 63;
+- **14)** w przypadku zakładów wzajemnych zgodę organizatorów współzawodnictwa sportowego na wykorzystywanie ich wyników;
+- **15)** w przypadku salonu gry bingo pieniężne pozytywną opinię rady gminy o lokalizacji salonu;
+- **16)** dokumenty potwierdzające legalność źródeł pochodzenia kapitału, a w szczególności:
+    - **a)** w przypadku akcjonariusza (wspólnika) będącego osobą fizyczną, reprezentującego co najmniej 10 % kapitału zakładowego spółki zaświadczenie właściwego naczelnika urzędu skarbowego o pokryciu udziałów lub akcji z ujawnionych źródeł przychodów,
+    - **b)** w przypadku akcjonariuszy (wspólników) będących osobami prawnymi sprawozdanie finansowe sporządzone w sposób określony w odrębnych przepisach;
+
+- **17)** aktualne zaświadczenia o niezaleganiu z zapłatą podatków stanowiących dochód budżetu państwa, należności celnych oraz składek na ubezpieczenia społeczne oraz ubezpieczenia zdrowotne;
+- **18)** oświadczenia akcjonariuszy (wspólników) będących osobami fizycznymi, reprezentujących co najmniej 10 % kapitału zakładowego spółki, lub członków zarządu, rady nadzorczej i komisji rewizyjnej, że nie toczy się przeciwko nim postępowanie przed organami wymiaru sprawiedliwości państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym w sprawach o przestępstwa związane z praniem pieniędzy oraz finansowaniem terroryzmu;
+- **19)** aktualne zaświadczenia, że akcjonariusze (wspólnicy) będący osobami fizycznymi, reprezentujący co najmniej 10 % kapitału zakładowego spółki, oraz członkowie zarządu, rady nadzorczej i komisji rewizyjnej spółki nie byli skazani za umyślne przestępstwo lub umyślne przestępstwo skarbowe na terytorium państwa członkowskiego Unii Europejskiej;
+- **20)** dokumenty wydane przez właściwe władze potwierdzające zgodność działań spółki z właściwymi przepisami regulującymi przeciwdziałanie praniu pieniędzy oraz finansowaniu terroryzmu albo w przypadku gdy przepisy nie przewidują wydania takiego dokumentu oświadczenie spółki potwierdzające zgodność działań spółki z właściwymi przepisami regulującymi przeciwdziałanie praniu pieniędzy oraz finansowaniu terroryzmu;
+- **21)** sprawozdanie finansowe za ostatni rok obrotowy wraz ze sprawozdaniem z badania, a w przypadku spółki rozpoczynającej działalność oświadczenie o zgodności działania spółki z przepisami o rachunkowości;
+- **22)** w przypadku spółki, o której mowa w art. 7a ust. 1, prowadzącej salon gry bingo pieniężne lub przyjmującej zakłady wzajemne, odpowiednio dokumenty potwierdzające prowadzenie działalności w zakresie, o którym mowa w art. 6 ust. 2 lub 3, w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym.
+
+**Art. 36a.** W przypadku spółki, o której mowa w art. 7a ust. 1, do wniosku o udzielenie koncesji na prowadzenie kasyna gry lub zezwolenia na prowadzenie salonu gry bingo pieniężne lub urządzanie zakładów wzajemnych dołącza się dokumenty potwierdzające spełnianie przez przedstawiciela warunków określonych w art. 11, art. 12 ust. 1 i art. 34 ust. 1 pkt 2 i 3. Przepisy art. 35 pkt 17–19 i art. 36 pkt 17–19 stosuje się odpowiednio. W przypadku przedstawiciela będącego osobą fizyczną dołącza się dokumenty dotyczące tej osoby fizycznej.
 
 **Art. 37.** Zgłoszenie urządzenia turnieju gry w pokera zawiera nazwę podmiotu występującego z wnioskiem oraz zatwierdzony przez ministra właściwego do spraw finansów publicznych regulamin turnieju gry w pokera.
 
@@ -914,9 +1002,9 @@ Art. 92–116. (pominięte)
 - **8)** gwarancje wypłacalności nagród;
 - **9)** projekt regulaminu gry;
 - **10)** dokumenty potwierdzające legalność źródeł pochodzenia kapitału zakładowego, środków finansowych lub innego majątku przeznaczonego na urządzenie loterii fantowej lub gry bingo fantowe, a w szczególności:
-    - **a)** zaświadczenie właściwego naczelnika urzędu skarbowego o pokryciu kapitału zakładowego z ujawnionych źródeł przychodów – w przypadku akcjonariusza (wspólnika) będącego osobą fizyczną, reprezentującego co najmniej 10 % kapitału zakładowego spółki, jeżeli podmiotem występującym z wnioskiem jest spółka handlowa,
-    - **b)** sprawozdanie finansowe sporządzone w sposób określony w odrębnych przepisach – w przypadku akcjonariusza (wspólnika) będącego osobą prawną, jeżeli podmiotem występującym z wnioskiem jest spółka handlowa,
-    - **c)** zaświadczenie właściwego naczelnika urzędu skarbowego o pokryciu środków finansowych lub innego majątku przeznaczonego na urządzenie loterii fantowej lub gry bingo fantowe, z ujawnionych źródeł przychodów – w przypadkach innych niż wskazane w lit. a i b;
+    - **a)** zaświadczenie właściwego naczelnika urzędu skarbowego o pokryciu kapitału zakładowego z ujawnionych źródeł przychodów w przypadku akcjonariusza (wspólnika) będącego osobą fizyczną, reprezentującego co najmniej 10 % kapitału zakładowego spółki, jeżeli podmiotem występującym z wnioskiem jest spółka handlowa,
+    - **b)** sprawozdanie finansowe sporządzone w sposób określony w odrębnych przepisach w przypadku akcjonariusza (wspólnika) będącego osobą prawną, jeżeli podmiotem występującym z wnioskiem jest spółka handlowa,
+    - **c)** zaświadczenie właściwego naczelnika urzędu skarbowego o pokryciu środków finansowych lub innego majątku przeznaczonego na urządzenie loterii fantowej lub gry bingo fantowe, z ujawnionych źródeł przychodów w przypadkach innych niż wskazane w lit. a i b;
 
 - **11)** aktualne zaświadczenia o niezaleganiu z zapłatą podatków stanowiących dochód budżetu państwa, należności celnych oraz składek na ubezpieczenia społeczne oraz ubezpieczenie zdrowotne;
 - **12)** ekspertyzę losów, innych dowodów udziału w grze lub kartonów, potwierdzającą zabezpieczenie przed sfałszowaniem oraz przedwczesnym odczytaniem wyniku gry, w szczególności przed prześwietleniem, otwarciem lub zdrapaniem farby ochronnej i zamknięciem lub ponownym naniesieniem farby ochronnej bez naruszenia struktury papieru;
@@ -936,6 +1024,16 @@ Art. 92–116. (pominięte)
 
 **Art. 39.** Wniosek o udzielenie zezwolenia na urządzenie loterii promocyjnej zawiera:
 
+- **1)** (uchylony)
+- **2)** nazwę i status prawny podmiotu występującego z wnioskiem, w przypadku spółek handlowych również numer w Krajowym Rejestrze Sądowym, a w przypadku przedsiębiorcy zagranicznego prowadzącego działalność za pośrednictwem oddziału, numer w Krajowym Rejestrze Sądowym tego oddziału;
+- **3)** dane osobowe (imiona, nazwiska, obywatelstwo, miejsce zamieszkania, rodzaj oraz serię i numer dokumentu tożsamości) osób zarządzających podmiotem oraz reprezentujących podmiot występujący z wnioskiem;
+- **4)** określenie obszaru, na którym planuje się urządzenie loterii;
+- **5)** określenie czasu, w którym planuje się urządzenie loterii;
+- **6)** bankowe gwarancje wypłat nagród;
+- **7)** projekt regulaminu loterii;
+- **8)** dokumenty potwierdzające legalność źródeł pochodzenia środków finansowych przeznaczonych na organizację loterii;
+- **9)** aktualne zaświadczenia o niezaleganiu z zapłatą podatków stanowiących dochód budżetu państwa, należności celnych oraz składek na ubezpieczenia społeczne oraz ubezpieczenie zdrowotne.
+
 **Art. 39a.**
 
 1. Wniosek o udzielenie zezwolenia na urządzenie loterii audioteksowej zawiera:
@@ -953,7 +1051,7 @@ Art. 92–116. (pominięte)
 - **8)** dokumenty potwierdzające legalność źródeł pochodzenia środków finansowych przeznaczonych na organizację loterii;
 - **9)** aktualne zaświadczenia o niezaleganiu z zapłatą podatków stanowiących dochód budżetu państwa, należności celnych oraz składek na ubezpieczenia społeczne oraz ubezpieczenie zdrowotne.
 
-2. W przypadku spółek, o których mowa w art. 7a ust. 1, na żądanie organu właściwego w sprawie udzielenia zezwolenia do wniosku, o którym mowa w ust. 1, dołącza się dokumenty potwierdzające spełnianie przez przedstawiciela warunków określonych w art. 11, art. 12 ust. 1 i art. 34 ust. 1 pkt 2 i 3. Przepisy art. 35 pkt 17– 19 i art. 36 pkt 17–19 stosuje się odpowiednio. W przypadku przedstawiciela będącego osobą fizyczną dołącza się dokumenty dotyczące tej osoby fizycznej.
+2. W przypadku spółek, o których mowa w art. 7a ust. 1, na żądanie organu właściwego w sprawie udzielenia zezwolenia do wniosku, o którym mowa w ust. 1, dołącza się dokumenty potwierdzające spełnianie przez przedstawiciela warunków określonych w art. 11, art. 12 ust. 1 i art. 34 ust. 1 pkt 2 i 3. Przepisy art. 35 pkt 17–19 i art. 36 pkt 17–19 stosuje się odpowiednio. W przypadku przedstawiciela będącego osobą fizyczną dołącza się dokumenty dotyczące tej osoby fizycznej.
 
 **Art. 40.**
 
@@ -971,12 +1069,20 @@ Art. 92–116. (pominięte)
 
 **Art. 42.** Koncesja na prowadzenie kasyna gry obejmuje:
 
+- **1)** nazwę spółki;
+- **2)** zatwierdzoną strukturę udziałów lub akcji imiennych, a także nazwiska członków zarządu i rady nadzorczej spółki;
+- **3)** miejsce urządzania gier;
+- **4)** rodzaj i minimalną oraz maksymalną liczbę gier;
+- **5)** warunki, które powinna spełniać spółka, w szczególności dotyczące zabezpieczeń, o których mowa w art. 63;
+- **6)** zatwierdzone warunki techniczne prowadzenia rejestracji gości;
+- **7)** nieprzekraczalny termin rozpoczęcia działalności.
+
 **Art. 43.**
 
 1. Zezwolenie na prowadzenie salonu gry bingo pieniężne oraz na urządzanie zakładów wzajemnych obejmuje:
 
 - **1)** nazwę spółki;
-- **2)** zatwierdzoną strukturę udziałów lub akcji [imiennych], a także nazwiska członków zarządu i rady nadzorczej spółki;
+- **2)** zatwierdzoną strukturę udziałów lub akcji imiennych, a także nazwiska członków zarządu i rady nadzorczej spółki;
 - **3)** miejsce urządzania gry bingo pieniężne;
 - **4)** miejsce urządzania i rodzaj zakładów wzajemnych wraz z określeniem, czy zakłady są urządzane przez sieć Internet, a w takim przypadku dodatkowo:
     - **a)** adres strony internetowej wykorzystywanej do urządzania zakładów,
@@ -992,7 +1098,23 @@ Art. 92–116. (pominięte)
 
 **Art. 45.** Zezwolenie na urządzenie loterii fantowej oraz gry bingo fantowe obejmuje:
 
+- **1)** nazwę podmiotu urządzającego grę;
+- **2)** nazwę gry;
+- **3)** nazwiska osób zarządzających podmiotem urządzającym grę;
+- **4)** obszar, na którym gra będzie urządzana;
+- **5)** czas urządzania gry;
+- **6)** cel, na który przeznacza się dochód;
+- **7)** planowaną wielkość sprzedaży losów lub kartonów;
+- **8)** nieprzekraczalny termin rozpoczęcia działalności.
+
 **Art. 46.** Zezwolenie na urządzenie loterii promocyjnej lub loterii audioteksowej obejmuje:
+
+- **1)** nazwę podmiotu urządzającego loterię;
+- **2)** nazwę loterii;
+- **3)** nazwiska osób zarządzających podmiotem urządzającym loterię;
+- **4)** obszar, na którym loteria będzie urządzana;
+- **5)** czas urządzania loterii;
+- **6)** nieprzekraczalny termin rozpoczęcia działalności.
 
 **Art. 47.** Do koncesji i zezwoleń dołącza się zatwierdzone regulaminy gier lub zakładów.
 
@@ -1019,6 +1141,11 @@ Art. 92–116. (pominięte)
 6. Do wniosku o przedłużenie zezwolenia przepisy dotyczące udzielania zezwoleń stosuje się odpowiednio.
 
 **Art. 49a.** Podmiot posiadający koncesję lub zezwolenie jest obowiązany w terminie 7 dni od dnia wystąpienia takiego zdarzenia poinformować organ właściwy w sprawie udzielenia koncesji lub zezwolenia o:
+
+- **1)** rozpoczęciu działalności objętej koncesją lub zezwoleniem;
+- **2)** rezygnacji z działalności objętej koncesją lub zezwoleniem;
+- **3)** przerwie w wykonywaniu działalności objętej koncesją lub zezwoleniem;
+- **4)** wznowieniu działalności po przerwie, o której mowa w pkt 3.
 
 **Art. 50.**
 
@@ -1059,8 +1186,8 @@ Art. 92–116. (pominięte)
 
 - **1)** imienne oznaczenie akcjonariuszy (wspólników), z określeniem wartości ich akcji (udziałów);
 - **2)** wskazanie nabywcy (zastawnika) w razie nabycia (zastawu) akcji lub udziałów:
-    - **a)** w przypadku spółek handlowych – przez podanie pełnej nazwy i adresu siedziby spółki,
-    - **b)** w przypadku osoby fizycznej – przez podanie danych osobowych tej osoby (imiona, nazwiska, obywatelstwo, miejsce zamieszkania, rodzaj oraz serię i numer dokumentu tożsamości, informacje dotyczące posiadanego wykształcenia oraz doświadczenia zawodowego);
+    - **a)** w przypadku spółek handlowych przez podanie pełnej nazwy i adresu siedziby spółki,
+    - **b)** w przypadku osoby fizycznej przez podanie danych osobowych tej osoby (imiona, nazwiska, obywatelstwo, miejsce zamieszkania, rodzaj oraz serię i numer dokumentu tożsamości, informacje dotyczące posiadanego wykształcenia oraz doświadczenia zawodowego);
 
 - **3)** wskazanie źródeł pochodzenia środków na nabycie lub objęcie akcji (udziałów);
 - **4)** numer w Krajowym Rejestrze Sądowym podmiotu występującego z wnioskiem, oraz numer w Krajowym Rejestrze Sądowym, w przypadku spółki, o której mowa w pkt 2 lit. a.
@@ -1069,11 +1196,11 @@ Art. 92–116. (pominięte)
 
 - **1)** odpis aktu notarialnego statutu lub umowy spółki;
 - **2)** aktualny odpis umowy lub statutu spółki, w przypadku spółki, o której mowa w ust. 2 pkt 2 lit. a;
-- **3)** aktualne zaświadczenie, że osoba, o której mowa w ust. 2 pkt 2 lit. b, nie była skazana za umyślne przestępstwo lub umyślne przestępstwo skarbowe na terytorium państwa członkowskiego Unii Europejskiej oraz oświadczenie tej osoby, że nie toczy się przeciwko niej postępowanie przed organami wymiaru sprawiedliwości państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym w sprawach o przestępstwa związane z praniem pieniędzy oraz finansowaniem terroryzmu;
+- **3)** aktualne zaświadczenie, że osoba, o której mowa w ust. 2 pkt 2 lit. b, nie była skazana za umyślne przestępstwo lub umyślne przestępstwo skarbowe na terytorium państwa członkowskiego Unii Europejskiej oraz oświadczenie tej osoby, że nie toczy się przeciwko niej postępowanie przed organami wymiaru sprawiedliwości państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym w sprawach o przestępstwa związane z praniem pieniędzy oraz finansowaniem terroryzmu;
 - **4)** dokumenty potwierdzające stan finansowy spółki, której akcje (udziały) są zbywane, oraz sytuację finansową nabywcy;
 - **5)** dokumenty potwierdzające legalność środków na nabycie akcji (udziałów), w szczególności:
-    - **a)** w przypadku spółki, o której mowa w ust. 2 pkt 2 lit. a – sprawozdanie finansowe sporządzone w sposób określony w odrębnych przepisach,
-    - **b)** w przypadku osoby, o której mowa w ust. 2 pkt 2 lit. b – zaświadczenie właściwego naczelnika urzędu skarbowego o pokryciu środków z ujawnionych źródeł przychodów.
+    - **a)** w przypadku spółki, o której mowa w ust. 2 pkt 2 lit. a sprawozdanie finansowe sporządzone w sposób określony w odrębnych przepisach,
+    - **b)** w przypadku osoby, o której mowa w ust. 2 pkt 2 lit. b zaświadczenie właściwego naczelnika urzędu skarbowego o pokryciu środków z ujawnionych źródeł przychodów.
 
 4. (uchylony)
 
@@ -1083,7 +1210,7 @@ Art. 92–116. (pominięte)
 
 2. Zawiadomienie o zmianie, o której mowa w ust. 1, zawiera dane osobowe nowego członka zarządu, rady nadzorczej lub komisji rewizyjnej (imiona, nazwiska, obywatelstwo, miejsce zamieszkania, rodzaj oraz serię i numer dokumentu tożsamości, informacje dotyczące posiadanego wykształcenia oraz doświadczenia zawodowego).
 
-3. Do zawiadomienia dołącza się aktualne zaświadczenie, potwierdzające, że nowy członek zarządu, rady nadzorczej lub komisji rewizyjnej nie był skazany za umyślne przestępstwo lub umyślne przestępstwo skarbowe na terytorium państwa członkowskiego Unii Europejskiej oraz złożone przez niego oświadczenie, że nie toczy się przeciwko niemu postępowanie przed organami wymiaru sprawiedliwości państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym w sprawach o przestępstwa związane z praniem pieniędzy oraz finansowaniem terroryzmu.
+3. Do zawiadomienia dołącza się aktualne zaświadczenie, potwierdzające, że nowy członek zarządu, rady nadzorczej lub komisji rewizyjnej nie był skazany za umyślne przestępstwo lub umyślne przestępstwo skarbowe na terytorium państwa członkowskiego Unii Europejskiej oraz złożone przez niego oświadczenie, że nie toczy się przeciwko niemu postępowanie przed organami wymiaru sprawiedliwości państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym w sprawach o przestępstwa związane z praniem pieniędzy oraz finansowaniem terroryzmu.
 
 **Art. 54.** (uchylony)
 
@@ -1108,7 +1235,7 @@ Art. 92–116. (pominięte)
 
 2. (uchylony)
 
-3. Spółka prowadząca działalność w zakresie, o którym mowa w art. 6 ust. 1– 3, przedstawia organowi właściwemu w sprawie udzielenia koncesji lub zezwolenia, co 2 lata, licząc od dnia udzielenia koncesji lub zezwolenia, w okresie obowiązywania koncesji lub zezwolenia, dokumenty potwierdzające spełnianie warunków określonych w art. 11, art. 12, art. 34 ust. 1 pkt 2 i 3 oraz art. 34a. Przepisy art. 35 pkt 17–21 oraz art. 36 pkt 17–21 stosuje się odpowiednio.
+3. Spółka prowadząca działalność w zakresie, o którym mowa w art. 6 ust. 1–3, przedstawia organowi właściwemu w sprawie udzielenia koncesji lub zezwolenia, co 2 lata, licząc od dnia udzielenia koncesji lub zezwolenia, w okresie obowiązywania koncesji lub zezwolenia, dokumenty potwierdzające spełnianie warunków określonych w art. 11, art. 12, art. 34 ust. 1 pkt 2 i 3 oraz art. 34a. Przepisy art. 35 pkt 17–21 oraz art. 36 pkt 17–21 stosuje się odpowiednio.
 
 **Art. 55a.** Do spółek, o których mowa w art. 7a, przepisy art. 52–55 stosuje się odpowiednio.
 
@@ -1123,7 +1250,7 @@ Art. 92–116. (pominięte)
 4. W przypadku nierezydentów będących osobami fizycznymi nieposiadającymi obywatelstwa państwa członkowskiego Unii Europejskiej przedstawia się:
 
 - **1)** odpowiednie, uwierzytelnione, aktualne zaświadczenia, że osoby te nie były skazane za umyślne przestępstwo lub umyślne przestępstwo skarbowe, wystawione przez właściwe władze państwa, którego są obywatelami lub stałymi mieszkańcami,
-- **2)** na żądanie organu udzielającego koncesji lub zezwolenia, zaświadczenia, że osoby te nie były skazane za umyślne przestępstwo lub umyślne przestępstwo skarbowe na terytorium państwa członkowskiego Unii Europejskiej wskazanego w żądaniu – wystawione nie wcześniej niż na 6 miesięcy przed dniem ich przedstawienia.
+- **2)** na żądanie organu udzielającego koncesji lub zezwolenia, zaświadczenia, że osoby te nie były skazane za umyślne przestępstwo lub umyślne przestępstwo skarbowe na terytorium państwa członkowskiego Unii Europejskiej wskazanego w żądaniu wystawione nie wcześniej niż na 6 miesięcy przed dniem ich przedstawienia.
 
 **Art. 57.**
 
@@ -1133,7 +1260,7 @@ Art. 92–116. (pominięte)
 
 3. Warunkiem dostępu do konta w systemie teleinformatycznym e-Koncesje jest uwierzytelnienie się przez użytkownika konta w tym systemie.
 
-4. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, zakres i warunki korzystania z systemu teleinformatycznego eKoncesje, w tym sposób uwierzytelniania użytkowników tego systemu teleinformatycznego, mając na względzie potrzebę upowszechniania elektronicznej formy kontaktów z ministrem właściwym do spraw finansów publicznych w zakresie udzielania koncesji i zezwoleń, konieczność zapewnienia bezpieczeństwa, poufności i integralności danych oraz możliwość rozliczania działań podejmowanych w tym systemie teleinformatycznym, jak również potrzebę sprawnego wykonywania zadań w zakresie udzielania koncesji i zezwoleń.
+4. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, zakres i warunki korzystania z systemu teleinformatycznego e-Koncesje, w tym sposób uwierzytelniania użytkowników tego systemu teleinformatycznego, mając na względzie potrzebę upowszechniania elektronicznej formy kontaktów z ministrem właściwym do spraw finansów publicznych w zakresie udzielania koncesji i zezwoleń, konieczność zapewnienia bezpieczeństwa, poufności i integralności danych oraz możliwość rozliczania działań podejmowanych w tym systemie teleinformatycznym, jak również potrzebę sprawnego wykonywania zadań w zakresie udzielania koncesji i zezwoleń.
 
 **Art. 57a.** Dokumenty sporządzone w języku obcym lub ich odpisy przedkłada się wraz z uwierzytelnionym tłumaczeniem na język polski.
 
@@ -1146,7 +1273,7 @@ Art. 92–116. (pominięte)
 
 2. W przypadku gdy wymagane jest przedłożenie zaświadczeń o pokryciu udziałów lub akcji z ujawnionych źródeł przychodów, w odniesieniu do akcjonariusza (wspólnika), który nie ma miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej stosuje się również obowiązek przedstawienia aktualnych dokumentów dotyczących pokrycia udziałów lub akcji z takich źródeł, wystawionych przez właściwe władze państwa jego miejsca zamieszkania.
 
-3. W uzasadnionych przypadkach, w szczególności gdy prawo państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym nie przewiduje sporządzania dokumentów określonych w ust. 1 lub 2, można zamiast tych dokumentów przedłożyć inne dokumenty potwierdzające spełnienie warunków określonych w art. 34 ust. 1.
+3. W uzasadnionych przypadkach, w szczególności gdy prawo państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym nie przewiduje sporządzania dokumentów określonych w ust. 1 lub 2, można zamiast tych dokumentów przedłożyć inne dokumenty potwierdzające spełnienie warunków określonych w art. 34 ust. 1.
 
 **Art. 58.** Organ udzielający koncesji lub zezwolenia może wezwać podmiot, któremu udzielono koncesji lub zezwolenia, do usunięcia stwierdzonych uchybień w wyznaczonym terminie i powiadomienia tego organu o terminie i sposobie ich usunięcia.
 
@@ -1159,7 +1286,7 @@ Art. 92–116. (pominięte)
 - **3)** obniżenia kapitału zakładowego spółki poniżej granicy określonej w art. 10 ust. 1;
 - **4)** (uchylony) 4a) rezygnacji z działalności objętej koncesją lub zezwoleniem;
 - **4b)** trwającej dłużej niż 6 miesięcy przerwy w prowadzeniu działalności objętej koncesją lub zezwoleniem, których wydanie podlega ograniczeniom ilościowym;
-- **5)** skazania na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym osoby będącej akcjonariuszem (wspólnikiem), członkiem organów zarządzających lub nadzorczych spółki za przestępstwo związane z praniem pieniędzy oraz finansowaniem terroryzmu;
+- **5)** skazania na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym osoby będącej akcjonariuszem (wspólnikiem), członkiem organów zarządzających lub nadzorczych spółki za przestępstwo związane z praniem pieniędzy oraz finansowaniem terroryzmu;
 - **6)** dwukrotnego stwierdzenia uczestnictwa w grach hazardowych osoby poniżej 18 roku życia, w tym samym ośrodku gier lub punkcie przyjmowania zakładów wzajemnych;
 - **7)** niewykazania przez spółkę prowadzącą działalność w zakresie, o którym mowa w art. 6 ust. 1–3, zgodności jej działań z właściwymi przepisami regulującymi przeciwdziałanie praniu pieniędzy oraz finansowanie terroryzmu;
 - **8)** gdy spółka prowadząca działalność w zakresie, o którym mowa w art. 6 ust. 1–3 lub w art. 7 ust. 2, nie przedstawiła sprawozdania finansowego wraz ze sprawozdaniem z badania zgodnie z art. 55 ust. 3 albo przedstawione sprawozdanie z badania wskazuje na istotne naruszenia przepisów o rachunkowości;
@@ -1224,7 +1351,7 @@ Art. 92–116. (pominięte)
 - **10)** miejsce i termin wydawania wygranych;
 - **11)** tryb i terminy rozpatrywania reklamacji i zgłaszania roszczeń;
 - **12)** wartość puli nagród;
-- **13)** w przypadku loterii promocyjnej – termin rozpoczęcia i zakończenia sprzedaży towarów lub innych dowodów udziału w loterii promocyjnej.
+- **13)** w przypadku loterii promocyjnej termin rozpoczęcia i zakończenia sprzedaży towarów lub innych dowodów udziału w loterii promocyjnej.
 
 4. Podmiot urządzający gry hazardowe jest obowiązany zapewnić ich uczestnikom możliwość zapoznania się z treścią regulaminu tych gier.
 
@@ -1240,11 +1367,13 @@ Art. 92–116. (pominięte)
 
 1. Podmiot jest obowiązany, w terminie określonym w koncesji lub zezwoleniu, złożyć, w celu zapewnienia ochrony interesu finansowego uczestników gier hazardowych oraz zabezpieczenia zobowiązań podatkowych w podatku od gier, zabezpieczenie finansowe w wysokości:
 
-- **1)** 1 200 000 zł – w przypadku prowadzenia kasyna gry;
-- **2)** 600 000 zł – w przypadku prowadzenia salonu gry bingo pieniężne;
-- **3)** 40 000 zł – w przypadku prowadzenia punktu przyjmowania zakładów wzajemnych.
+- **1)** 1 200 000 zł w przypadku prowadzenia kasyna gry;
+- **2)** 600 000 zł w przypadku prowadzenia salonu gry bingo pieniężne;
+- **3)** 40 000 zł w przypadku prowadzenia punktu przyjmowania zakładów wzajemnych.
 
-2. Zabezpieczenia finansowe są składane zgodnie z poniższą tabelą: 2a. W przypadku urządzania zakładów wzajemnych przez sieć Internet, podmiot urządzający takie zakłady jest obowiązany złożyć, w terminie określonym w zezwoleniu, zabezpieczenie finansowe w wysokości 480 000 zł.
+2. Zabezpieczenia finansowe są składane zgodnie z poniższą tabelą: Liczba (kasyn, salonów lub punktów) Krotność zabezpieczeń od 1 do 3 1 zabezpieczenie od 4 do 6 2 zabezpieczenia od 7 do 9 3 zabezpieczenia od 10 do 20 4 zabezpieczenia od 21 do 30 5 zabezpieczeń od 31 do 40 6 zabezpieczeń z tym, że krotność zabezpieczeń zwiększa się o 1 na każde rozpoczęte 10 ośrodków powyżej 40.
+
+2a. W przypadku urządzania zakładów wzajemnych przez sieć Internet, podmiot urządzający takie zakłady jest obowiązany złożyć, w terminie określonym w zezwoleniu, zabezpieczenie finansowe w wysokości 480 000 zł.
 
 3. Zabezpieczenia finansowe mogą polegać na:
 
@@ -1252,9 +1381,9 @@ Art. 92–116. (pominięte)
 - **2)** złożeniu właściwej kwoty na rachunku bankowym wskazanym przez organ udzielający koncesji lub zezwoleń.
 - **3)** (uchylony)
 
-4. W gwarancjach, o których mowa w ust. 3 pkt 1, gwarant zobowiązuje się na piśmie do zapłacenia, bezwarunkowo i nieodwołalnie, na każde wezwanie organu udzielającego koncesji lub zezwolenia, kwoty należnego podatku od gier wraz z odsetkami za zwłokę oraz kwoty na pokrycie roszczeń uczestników gier hazardowych – za zgodą podmiotu je urządzającego albo określonych w prawomocnym orzeczeniu sądowym.
+4. W gwarancjach, o których mowa w ust. 3 pkt 1, gwarant zobowiązuje się na piśmie do zapłacenia, bezwarunkowo i nieodwołalnie, na każde wezwanie organu udzielającego koncesji lub zezwolenia, kwoty należnego podatku od gier wraz z odsetkami za zwłokę oraz kwoty na pokrycie roszczeń uczestników gier hazardowych za zgodą podmiotu je urządzającego albo określonych w prawomocnym orzeczeniu sądowym.
 
-5. Gwarantem może być wyłącznie osoba prawna mająca siedzibę na terytorium Wspólnoty Europejskiej lub terytorium państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, oddział banku zagranicznego oraz główny oddział zakładu ubezpieczeń, prowadzące na terytorium Rzeczypospolitej Polskiej działalność bankową lub ubezpieczeniową, posiadające uprawnienie do udzielania gwarancji bankowych lub ubezpieczeniowych na całym tym terytorium.
+5. Gwarantem może być wyłącznie osoba prawna mająca siedzibę na terytorium Wspólnoty Europejskiej lub terytorium państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, oddział banku zagranicznego oraz główny oddział zakładu ubezpieczeń, prowadzące na terytorium Rzeczypospolitej Polskiej działalność bankową lub ubezpieczeniową, posiadające uprawnienie do udzielania gwarancji bankowych lub ubezpieczeniowych na całym tym terytorium.
 
 6. Kwota, o której mowa w ust. 3 pkt 2, powinna zostać złożona w walucie polskiej.
 
@@ -1293,11 +1422,11 @@ Art. 92–116. (pominięte)
 
 4. Poboru opłat, o których mowa w:
 
-- **1)** ust. 1 pkt 1 – dokonuje organ udzielający koncesji albo zezwolenia;
+- **1)** ust. 1 pkt 1 dokonuje organ udzielający koncesji albo zezwolenia;
 - **2)** (uchylony)
-- **3)** ust. 1 pkt 4 – dokonuje organ udzielający koncesji albo zezwolenia;
-- **4)** ust. 1 pkt 5 – dokonuje organ rejestrujący;
-- **5)** ust. 1 pkt 6 – dokonuje organ wydający decyzję.
+- **3)** ust. 1 pkt 4 dokonuje organ udzielający koncesji albo zezwolenia;
+- **4)** ust. 1 pkt 5 dokonuje organ rejestrujący;
+- **5)** ust. 1 pkt 6 dokonuje organ wydający decyzję.
 
 **Art. 68a.**
 
@@ -1312,11 +1441,11 @@ Art. 92–116. (pominięte)
 - **1)** koncesji na prowadzenie kasyna gry wynosi 32 000 % kwoty bazowej;
 - **2)** zezwolenia na prowadzenie salonu gry bingo pieniężne wynosi 5500 % kwoty bazowej;
 - **3)** zezwolenia na urządzanie zakładów wzajemnych wynosi 2000 % kwoty bazowej oraz dodatkowo:
-    - **a)** za każdy punkt przyjmowania zakładów wzajemnych – 50 % kwoty bazowej,
-    - **b)** za urządzanie zakładów wzajemnych przez sieć Internet – 2000 % kwoty bazowej,
-    - **c)** za każdą stronę internetową wykorzystywaną do urządzania zakładów wzajemnych – 5000 % kwoty bazowej;
+    - **a)** za każdy punkt przyjmowania zakładów wzajemnych 50 % kwoty bazowej,
+    - **b)** za urządzanie zakładów wzajemnych przez sieć Internet 2000 % kwoty bazowej,
+    - **c)** za każdą stronę internetową wykorzystywaną do urządzania zakładów wzajemnych 5000 % kwoty bazowej;
 
-- **4)** zezwolenia na urządzanie loterii fantowej albo gry bingo fantowe wynosi 100 % kwoty bazowej, a gdy zezwolenie dotyczy gier urządzanych na obszarze jednego województwa – 50 % kwoty bazowej;
+- **4)** zezwolenia na urządzanie loterii fantowej albo gry bingo fantowe wynosi 100 % kwoty bazowej, a gdy zezwolenie dotyczy gier urządzanych na obszarze jednego województwa 50 % kwoty bazowej;
 - **5)** zezwolenia na urządzanie loterii promocyjnej albo loterii audioteksowej wynosi 10 % wartości puli nagród, jednak nie mniej niż 50 % kwoty bazowej;
 - **6)** (uchylony)
 - **7)** opłata za rozpatrzenie wniosku o rozstrzygnięcie charakteru gier, o którym mowa w art. 2 ust. 6 i 7, wynosi 200 % kwoty bazowej.
@@ -1345,12 +1474,9 @@ Art. 92–116. (pominięte)
 1a. Podatnikiem jest również:
 
 - **1)** podmiot, o którym mowa w art. 7 ust. 1b, jeśli wartość puli wygranych loterii fantowych lub gry bingo fantowe przekracza wartość kwoty bazowej, o której mowa w art. 70;
-- **2)** jednostka organizacyjna niemająca osobowości prawnej stanowiąca przedsiębiorstwo w spadku w rozumieniu ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz.
-- **170)** w okresie od otwarcia spadku do dnia wygaśnięcia:
+- **2)** jednostka organizacyjna niemająca osobowości prawnej stanowiąca przedsiębiorstwo w spadku w rozumieniu ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz. 170) w okresie od otwarcia spadku do dnia wygaśnięcia:
     - **a)** zarządu sukcesyjnego albo
-    - **b)** uprawnienia do powołania zarządcy sukcesyjnego, jeżeli zarząd sukcesyjny nie został ustanowiony i dokonano zgłoszenia, o którym mowa w art. 12 ust. 1c ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2025 r. poz.
-
-- **237)** .
+    - **b)** uprawnienia do powołania zarządcy sukcesyjnego, jeżeli zarząd sukcesyjny nie został ustanowiony i dokonano zgłoszenia, o którym mowa w art. 12 ust. 1c ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2025 r. poz. 237).
 
 2. Przedmiotem opodatkowania podatkiem od gier jest:
 
@@ -1369,26 +1495,34 @@ Art. 92–116. (pominięte)
 
 1. Podstawę opodatkowania podatkiem od gier stanowi:
 
-- **1)** w loterii pieniężnej, loterii fantowej i grze telebingo – suma wpływów uzyskanych ze sprzedaży losów lub innych dowodów udziału w grze;
-- **2)** w loterii audioteksowej – przychód, w rozumieniu przepisów o podatku dochodowym od osób prawnych, organizatora loterii audioteksowej uzyskany z tej loterii;
-- **3)** w grze liczbowej – suma wpłaconych stawek;
-- **4)** w zakładach wzajemnych – suma wpłaconych stawek;
-- **5)** w grze bingo pieniężne – wartość nominalna kartonów do gry zakupionych przez podmiot urządzający grę;
-- **6)** w grze bingo fantowe – wartość nominalna kartonów użytych do gry;
-- **7)** w grze cylindrycznej, grze w kości i grze w karty, z wyjątkiem pokera rozgrywanego w formie turnieju gry pokera – kwota stanowiąca różnicę między sumą wpłaconych stawek a sumą wypłaconych wygranych;
-- **8)** w pokerze rozgrywanym w formie turnieju gry pokera – kwota wygranej pomniejszona o kwotę wpisowego za udział w turnieju;
-- **9)** w grze na automacie – kwota stanowiąca różnicę między sumą wpłaconych stawek a sumą wygranych uzyskanych przez uczestników gier.
+- **1)** w loterii pieniężnej, loterii fantowej i grze telebingo suma wpływów uzyskanych ze sprzedaży losów lub innych dowodów udziału w grze;
+- **2)** w loterii audioteksowej przychód, w rozumieniu przepisów o podatku dochodowym od osób prawnych, organizatora loterii audioteksowej uzyskany z tej loterii;
+- **3)** w grze liczbowej suma wpłaconych stawek;
+- **4)** w zakładach wzajemnych suma wpłaconych stawek;
+- **5)** w grze bingo pieniężne wartość nominalna kartonów do gry zakupionych przez podmiot urządzający grę;
+- **6)** w grze bingo fantowe wartość nominalna kartonów użytych do gry;
+- **7)** w grze cylindrycznej, grze w kości i grze w karty, z wyjątkiem pokera rozgrywanego w formie turnieju gry pokera kwota stanowiąca różnicę między sumą wpłaconych stawek a sumą wypłaconych wygranych;
+- **8)** w pokerze rozgrywanym w formie turnieju gry pokera kwota wygranej pomniejszona o kwotę wpisowego za udział w turnieju;
+- **9)** w grze na automacie kwota stanowiąca różnicę między sumą wpłaconych stawek a sumą wygranych uzyskanych przez uczestników gier.
 
 2. Podstawy opodatkowania poszczególnych rodzajów gier hazardowych określone w ust. 1 nie podlegają sumowaniu, w szczególności nie podlega sumowaniu podstawa opodatkowania, o której mowa w ust. 1 pkt 7, z podstawą opodatkowania, o której mowa w ust. 1 pkt 9.
 
 **Art. 74.** Stawka podatku od gier wynosi dla:
+
+- **1)** loterii fantowej i gry bingo fantowe 10 %;
+- **2)** loterii pieniężnej 15 %;
+- **3)** gry liczbowej 20 %;
+- **4)** gry bingo pieniężne, gry telebingo, loterii audioteksowej i pokera rozgrywanego w formie turnieju gry pokera 25 %;
+- **5)** gry na automacie, gry cylindrycznej, gry w kości, gry w karty, z wyłączeniem pokera rozgrywanego w formie turnieju gry pokera 50 %;
+- **6)** zakładów wzajemnych na sportowe współzawodnictwo zwierząt na podstawie zezwoleń udzielanych wyłącznie na ich urządzanie 2,5 %;
+- **7)** zakładów wzajemnych innych niż wymienione w pkt 6 12 %.
 
 **Art. 75.**
 
 1. Podatnicy, z wyłączeniem podatników w pokerze rozgrywanym w formie turnieju gry pokera, są obowiązani, bez wezwania, do:
 
 - **1)** składania właściwemu naczelnikowi urzędu skarbowego deklaracji podatkowych dla podatku od gier, według ustalonego wzoru,
-- **2)** obliczania oraz wpłacania podatku od gier na rachunek właściwego urzędu skarbowego – za okresy miesięczne, w terminie do 10. dnia miesiąca następującego po miesiącu, którego dotyczy rozliczenie.
+- **2)** obliczania oraz wpłacania podatku od gier na rachunek właściwego urzędu skarbowego za okresy miesięczne, w terminie do 10. dnia miesiąca następującego po miesiącu, którego dotyczy rozliczenie.
 
 2. Podatnicy urządzający gry liczbowe są obowiązani, bez wezwania, do obliczenia i zapłaty podatku od gier na rachunek właściwego urzędu skarbowego, wstępnie za okresy dzienne.
 
@@ -1401,7 +1535,7 @@ Art. 92–116. (pominięte)
 6. Podmiot urządzający turniej gry pokera jest obowiązany jako płatnik do:
 
 - **1)** złożenia właściwemu naczelnikowi urzędu skarbowego deklaracji podatkowych dla podatku od gier,
-- **2)** obliczania, pobierania oraz wpłacania podatku od gier na rachunek właściwego urzędu skarbowego – dla podatku od gier w pokerze rozgrywanym w formie turnieju gry pokera, za okresy miesięczne, w terminie do 20. dnia miesiąca następującego po miesiącu, którego dotyczy rozliczenie.
+- **2)** obliczania, pobierania oraz wpłacania podatku od gier na rachunek właściwego urzędu skarbowego dla podatku od gier w pokerze rozgrywanym w formie turnieju gry pokera, za okresy miesięczne, w terminie do 20. dnia miesiąca następującego po miesiącu, którego dotyczy rozliczenie.
 
 7. Podmiot urządzający turniej gry pokera wypłaca wygrane pomniejszone o kwotę podatku od gier.
 
@@ -1424,7 +1558,7 @@ Art. 92–116. (pominięte)
 5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
 
 - **1)** wykaz urzędów skarbowych i izb administracji skarbowej, których odpowiednio naczelnicy i dyrektorzy są właściwi do wykonywania zadań w zakresie podatku od gier, oraz terytorialny zasięg ich działania, uwzględniając liczbę podatników prowadzących działalność na danym obszarze,
-- **2)** właściwy urząd skarbowy lub właściwe urzędy skarbowe, na których rachunek bankowy dokonuje się zapłaty podatku od gier, wpłat dziennych, dopłat i kar pieniężnych lub wpłaty niektórych opłat, o których mowa w art. 68 ust. 1, a także określi terytorialny zasięg ich działania w tym zakresie – uwzględniając potrzebę zapewnienia sprawnego poboru podatku od gier, wpłat dziennych, dopłat i kar pieniężnych oraz opłat.
+- **2)** właściwy urząd skarbowy lub właściwe urzędy skarbowe, na których rachunek bankowy dokonuje się zapłaty podatku od gier, wpłat dziennych, dopłat i kar pieniężnych lub wpłaty niektórych opłat, o których mowa w art. 68 ust. 1, a także określi terytorialny zasięg ich działania w tym zakresie uwzględniając potrzebę zapewnienia sprawnego poboru podatku od gier, wpłat dziennych, dopłat i kar pieniężnych oraz opłat.
 
 #### Rozdział 8 Sprawozdawczość i informacje
 
@@ -1457,8 +1591,8 @@ Art. 92–116. (pominięte)
 
 1. W grach objętych monopolem państwa ustanawia się dopłaty w wysokości:
 
-- **1)** 25 % stawki, ceny losu lub innego dowodu udziału w grze – w grach liczbowych;
-- **2)** 10 % stawki, ceny losu lub innego dowodu udziału w grze – w loteriach pieniężnych i grze telebingo.
+- **1)** 25 % stawki, ceny losu lub innego dowodu udziału w grze w grach liczbowych;
+- **2)** 10 % stawki, ceny losu lub innego dowodu udziału w grze w loteriach pieniężnych i grze telebingo.
 
 2. Informację o ustanowieniu dopłaty, o której mowa w ust. 1, zamieszcza się w regulaminie gry.
 
@@ -1468,11 +1602,14 @@ Art. 92–116. (pominięte)
 
 **Art. 82.** Podmioty urządzające gry, o których mowa w art. 80 ust. 1, są obowiązane do:
 
+- **1)** składania właściwemu naczelnikowi urzędu skarbowego informacji o dopłatach, według określonego wzoru,
+- **2)** obliczania, poboru oraz wpłacania dopłat na rachunek właściwego urzędu skarbowego za okresy i w terminach określonych dla dokonywania w danej grze wpłat z tytułu podatku od gier.
+
 **Art. 83.** Naczelnik urzędu skarbowego, o którym mowa w art. 82 pkt 2, przekazuje kwoty wpłaconych dopłat na rachunek Funduszu Rozwoju Kultury Fizycznej, Funduszu Promocji Kultury, Funduszu Rozwiązywania Problemów Hazardowych oraz Funduszu Wspierania Rozwoju Społeczeństwa Obywatelskiego, w wysokości określonej w art. 86 ust. 3, art. 87 ust. 3, art. 88 ust. 3 i art. 88a ust. 4, w terminie 14 dni od dnia ich wpłaty.
 
 **Art. 84.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór informacji, o której mowa w art. 82 pkt 1, uwzględniając specyfikę prowadzenia poszczególnych rodzajów gier oraz zapewnienie kontroli wysokości dokonywanych wpłat, zamieszczając objaśnienia co do sposobu prawidłowego składania tych informacji, w tym w zakresie terminów i miejsc ich składania oraz pouczenie, że informacja stanowi podstawę do wystawienia tytułu wykonawczego.
 
-**Art. 85.** Do dopłat stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
+**Art. 85.** Do dopłat stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa.
 
 **Art. 86.**
 
@@ -1588,21 +1725,21 @@ Art. 92–116. (pominięte)
 
 4. Wysokość kary pieniężnej wymierzanej w przypadkach, o których mowa:
 
-- **1)** w ust. 1 pkt 1 – wynosi:
-    - **a)** w przypadku gier na automatach – 100 tys. zł od każdego automatu,
-    - **b)** w przypadku gier innych niż określone w lit. a i c – 5-krotność opłaty za wydanie koncesji lub zezwolenia,
-    - **c)** w przypadku gier urządzanych bez dokonania wymaganego zgłoszenia – do 10 tys. zł;
+- **1)** w ust. 1 pkt 1 wynosi:
+    - **a)** w przypadku gier na automatach 100 tys. zł od każdego automatu,
+    - **b)** w przypadku gier innych niż określone w lit. a i c 5-krotność opłaty za wydanie koncesji lub zezwolenia,
+    - **c)** w przypadku gier urządzanych bez dokonania wymaganego zgłoszenia do 10 tys. zł;
 
-- **2)** w ust. 1 pkt 2 – wynosi:
-    - **a)** w przypadku gier urządzanych na podstawie koncesji lub zezwolenia – do 200 tys. zł,
-    - **b)** w przypadku gier urządzanych na podstawie zgłoszenia – do 10 tys. zł;
+- **2)** w ust. 1 pkt 2 wynosi:
+    - **a)** w przypadku gier urządzanych na podstawie koncesji lub zezwolenia do 200 tys. zł,
+    - **b)** w przypadku gier urządzanych na podstawie zgłoszenia do 10 tys. zł;
 
-- **3)** w ust. 1 pkt 3 i 4 – wynosi 100 tys. zł od każdego automatu;
-- **4)** w ust. 1 pkt 5 – wynosi do 250 tys. zł;
-- **5)** w ust. 1 pkt 6 – wynosi 100 % uzyskanej wygranej niepomniejszonej o kwoty wpłaconych stawek;
-- **6)** w ust. 1 pkt 7 – wynosi do 250 tys. zł;
-- **7)** w ust. 1 pkt 8 – wynosi do 500 tys. zł;
-- **8)** w ust. 3 – wynosi do 100 tys. zł.
+- **3)** w ust. 1 pkt 3 i 4 wynosi 100 tys. zł od każdego automatu;
+- **4)** w ust. 1 pkt 5 wynosi do 250 tys. zł;
+- **5)** w ust. 1 pkt 6 wynosi 100 % uzyskanej wygranej niepomniejszonej o kwoty wpłaconych stawek;
+- **6)** w ust. 1 pkt 7 wynosi do 250 tys. zł;
+- **7)** w ust. 1 pkt 8 wynosi do 500 tys. zł;
+- **8)** w ust. 3 wynosi do 100 tys. zł.
 
 5. Przepisu ust. 1 pkt 6 nie stosuje się do uczestników loterii promocyjnych, loterii audioteksowych, loterii fantowych i gry bingo fantowe.
 
@@ -1610,8 +1747,8 @@ Art. 92–116. (pominięte)
 
 1. Karę pieniężną nakłada, w drodze decyzji:
 
-- **1)** naczelnik urzędu celno-skarbowego, na którego obszarze urządzana jest gra hazardowa lub znajduje się niezarejestrowany automat – w przypadkach, o których mowa w art. 89 ust. 1 pkt 1–4, 6 i 8 oraz ust. 3;
-- **2)** naczelnik urzędu celno-skarbowego właściwy do prowadzenia czynności audytowych wyznaczony w przepisach wydanych na podstawie art. 100b ust. 6 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. ) – w przypadkach, o których mowa w art. 89 ust. 1 pkt 5 i 7.
+- **1)** naczelnik urzędu celno-skarbowego, na którego obszarze urządzana jest gra hazardowa lub znajduje się niezarejestrowany automat w przypadkach, o których mowa w art. 89 ust. 1 pkt 1–4, 6 i 8 oraz ust. 3;
+- **2)** naczelnik urzędu celno-skarbowego właściwy do prowadzenia czynności audytowych wyznaczony w przepisach wydanych na podstawie art. 100b ust. 6 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. ) w przypadkach, o których mowa w art. 89 ust. 1 pkt 5 i 7.
 
 1a. Ustalając wysokość kary pieniężnej, o której mowa w art. 89 ust. 3, naczelnik urzędu celno-skarbowego bierze pod uwagę skalę prowadzonej działalności oraz czas trwania naruszenia.
 
@@ -1625,9 +1762,9 @@ Art. 92–116. (pominięte)
 
 **Art. 90a.** Organem odwoławczym od decyzji naczelnika urzędu celno-skarbowego nakładającej karę pieniężną, o której mowa w art. 90 ust. 1, jest dyrektor izby administracji skarbowej właściwy ze względu na siedzibę naczelnika urzędu celno-skarbowego, który wydał decyzję w pierwszej instancji.
 
-**Art. 91.** Do kar pieniężnych stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
+**Art. 91.** Do kar pieniężnych stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa.
 
-**Art. 91a.** Do kar pieniężnych określonych w art. 89 nie mają zastosowania przepisy art. 21a ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
+**Art. 91a.** Do kar pieniężnych określonych w art. 89 nie mają zastosowania przepisy art. 21a ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
 
 #### Rozdział 11 Zmiany w przepisach obowiązujących
 
@@ -1705,8 +1842,8 @@ Art. 92–116. (pominięte)
 
 1. Wysokość kapitału zakładowego spółki prowadzącej działalność, o której mowa w art. 129 ust. 1, jeżeli udzielone zezwolenie dotyczy prowadzenia:
 
-- **1)** salonu gier na automatach – nie może być niższa niż 2 000 000 zł;
-- **2)** gier na automatach o niskich wygranych – nie może być niższa niż 800 000 zł.
+- **1)** salonu gier na automatach nie może być niższa niż 2 000 000 zł;
+- **2)** gier na automatach o niskich wygranych nie może być niższa niż 800 000 zł.
 
 2. Wysokość kapitału zakładowego spółek prowadzących działalność, o której mowa w art. 129 ust. 1, ustalona przed dniem wejścia w życie ustawy na podstawie przepisów dotychczasowych nie wymaga uzupełnienia do kwot określonych w ust. 1 do czasu zmiany zezwolenia w związku ze zmianą w strukturze kapitału zakładowego spółki, zgodnie z art. 52.
 
@@ -1742,8 +1879,8 @@ Art. 92–116. (pominięte)
 
 2. W przypadku zmiany zezwolenia w zakresie warunków dotyczących zabezpieczenia finansowego, podmiot, o którym mowa w art. 129 ust. 1, jest obowiązany złożyć w terminie określonym w zmienianym zezwoleniu zabezpieczenie finansowe według zasad określonych w art. 63, w wysokości:
 
-- **1)** 600 000 zł – w przypadku prowadzenia salonu gier na automatach;
-- **2)** 4000 zł – w przypadku punktu gier na automatach o niskich wygranych.
+- **1)** 600 000 zł w przypadku prowadzenia salonu gier na automatach;
+- **2)** 4000 zł w przypadku punktu gier na automatach o niskich wygranych.
 
 **Art. 137.** Do regulaminów gier, o których mowa w art. 129 ust. 1, stosuje się odpowiednio art. 61 ust. 1 i 4, z tym że w regulaminie gier na automatach o niskich wygranych nie określa się wysokości kapitału przeznaczonego do natychmiastowej wypłaty wygranych. Właściwy do zatwierdzania regulaminu gier i jego zmiany jest organ właściwy do udzielenia zezwolenia w dniu poprzedzającym dzień wejścia w życie ustawy.
 
@@ -1777,9 +1914,12 @@ Art. 92–116. (pominięte)
 
 **Art. 141.** W odniesieniu do organizowania zgodnie z art. 129–140:
 
+- **1)** gier na automatach w salonach gier na automatach,
+- **2)** gier na automatach o niskich wygranych w punktach gier na automatach o niskich wygranych nie stosuje się art. 89 ust. 1 pkt 2.
+
 **Art. 142.**
 
-1. Osoba kierująca działalnością gastronomiczną, handlową lub usługową w lokalu, w którym znajduje się punkt gry na automatach o niskich wygranych, jest obowiązana pisemnie powiadomić właściwego ze względu na lokalizację lokalu naczelnika urzędu celno-skarbowego o wstawieniu do lokalu automatu do gier – przed jego uruchomieniem.
+1. Osoba kierująca działalnością gastronomiczną, handlową lub usługową w lokalu, w którym znajduje się punkt gry na automatach o niskich wygranych, jest obowiązana pisemnie powiadomić właściwego ze względu na lokalizację lokalu naczelnika urzędu celno-skarbowego o wstawieniu do lokalu automatu do gier przed jego uruchomieniem.
 
 2. Kto wbrew obowiązkowi określonemu w ust. 1 nie powiadamia naczelnika urzędu celno-skarbowego o wstawieniu do lokalu automatu do gier podlega karze grzywny za wykroczenie skarbowe.
 
@@ -1790,4 +1930,8 @@ Art. 92–116. (pominięte)
 **Art. 144.** Traci moc ustawa z dnia 29 lipca 1992 r. o grach i zakładach wzajemnych (Dz. U. z 2004 r. poz. 27, z późn. zm. ), z wyjątkiem art. 14, art. 15b ust. 1, w zakresie dotyczącym kartonów do gry bingo pieniężne, ust. 2, 4, 4a i 5, art. 15d, art. 16 pkt 2 i 3, art. 18 ust. 1, 2, 4 i 5, art. 22 i art. 23.
 
 **Art. 145.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie miesiąca od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 95, w zakresie art. 21 ust. 1 pkt 6,
+- **2)** art. 102, art. 106 pkt 1 i pkt 4 lit. a, art. 111 oraz art. 116 pkt 4 które wchodzą w życie po upływie 6 lat od pierwszego dnia miesiąca następującego po upływie miesiąca od dnia ogłoszenia.
+
 

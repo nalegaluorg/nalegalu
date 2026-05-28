@@ -8,12 +8,10 @@ pos: 1111
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o kinematografii
-
-*USTAWA z dnia 30 czerwca 2005 r.*
+# Ustawa z dnia 30 czerwca 2005 r. o kinematografii
 
 | Pole | Wartość |
 |---|---|
@@ -24,16 +22,24 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2005-06-30 |
 | Data wydania | 2005-07-19 |
+| Wejście w życie | 2005-08-19 |
 | Ostatnia zmiana | 2025-03-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051321111) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1111/text.pdf) |
-
-Art. 31–33. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa zasady wspierania twórczości filmowej i innej działalności w dziedzinie kinematografii oraz ochrony zasobów sztuki filmowej.
 
 **Art. 2.** Ustawy nie stosuje się do:
+
+- **1)** audiowizualnej rejestracji: wykonań utworów słownych, słowno-muzycznych, muzycznych i scenicznych, zdarzeń z życia politycznego, społecznego, kulturalnego, religijnego, gospodarczego i sportowego, sporządzanej na potrzeby nauki, nauczania, techniki, reklamy, promocji, informacji i instruktażu, sporządzanej na użytek wewnętrzny kościołów i innych związków wyznaniowych, zdarzeń z życia prywatnego;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **2)** produkcji filmu i rozpowszechniania filmów przez jednostki organizacyjne podległe Ministrowi Obrony Narodowej oraz ministrowi właściwemu do spraw wewnętrznych lub zlecanych do produkcji przez takie jednostki, przeznaczonych do wykonywania zadań związanych z obronnością i bezpieczeństwem państwa lub porządkiem publicznym, a także produkcji filmów i rozpowszechniania filmów przez jednostki organizacyjne więziennictwa podległe Ministrowi Sprawiedliwości lub zlecanych do produkcji przez takie jednostki, przeznaczonych do wykonywania zadań w zakresie instruktażu oraz działalności ochronnej i resocjalizacyjnej.
 
 **Art. 3.**
 
@@ -43,7 +49,7 @@ Art. 31–33. (pominięte)
 
 **Art. 4.**
 
-1. Filmem jest utwór dowolnej długości, w tym utwór dokumentalny lub animowany, złożony z serii następujących po sobie obrazów z dźwiękiem lub bez dźwięku, utrwalonych na jakimkolwiek nośniku umożliwiającym wielokrotne odtwarzanie, wywołujących wrażenie ruchu i składających się na oryginalną całość, wyrażającą akcję (treść) w indywidualnej formie, a ponadto, z wyjątkiem utworów dokumentalnych i animowanych, przewidziany do wyświetlania w kinie jako pierwszym polu eksploatacji w rozumieniu przepisów o prawie autorskim i prawach pokrewnych. Filmem jest również utwór, który z powodu okoliczności niezawinionych nie został wyświetlony w kinie.
+1. Filmem jest utwór dowolnej długości, w tym utwór dokumentalny lub animowany, złożony z serii następujących po sobie obrazów z dźwiękiem lub bez dźwięku, utrwalonych na jakimkolwiek nośniku umożliwiającym wielokrotne odtwarzanie, wywołujących wrażenie ruchu i składających się na oryginalną całość, wyrażającą akcję (treść) w indywidualnej formie, a ponadto, z wyjątkiem utworów dokumentalnych i animowanych, przeznaczony do wyświetlania w kinie jako pierwszym polu eksploatacji w rozumieniu przepisów o prawie autorskim i prawach pokrewnych.
 
 2. Film uznaje się za film polski, jeżeli jego producentem lub koproducentem jest podmiot mający siedzibę na terytorium Rzeczypospolitej Polskiej, a ponadto spełniony jest co najmniej jeden z warunków:
 
@@ -51,6 +57,17 @@ Art. 31–33. (pominięte)
 - **2)** autor scenariusza lub adaptowanego utworu literackiego lub reżyser, lub wykonawca jednej z głównych ról są obywatelami polskimi, udział środków finansowych koproducenta mającego siedzibę na terytorium Rzeczypospolitej Polskiej w kosztach produkcji filmu stanowi co najmniej 20% przy filmie będącym koprodukcją dwustronną oraz co najmniej 10% przy filmie będącym koprodukcją wielostronną, przy czym środki te, do wysokości 80% kosztów produkcji filmu, muszą być wydatkowane na terytorium Rzeczypospolitej Polskiej, a ponadto główna wersja językowa wykonana jest w języku polskim.
 
 **Art. 5.** Użyte w ustawie określenia oznaczają:
+
+- **1)** dystrybucja filmu – nabycie prawa do eksploatacji filmu, w tym prawa do wykonywania kopii filmu i przystosowania filmu do eksploatacji w wersji językowej innej niż ta, w której został wytworzony, oraz przekazanie tego prawa innym podmiotom w celu rozpowszechniania filmu;
+- **2)** film niskobudżetowy – film, którego koszt produkcji jest niższy niż dwukrotność maksymalnej kwoty dofinansowania filmu ustalonej na dany rok przez Radę Polskiego Instytutu Sztuki Filmowej;
+- **3)** kino – miejsce i zespół urządzeń technicznych służących do publicznego wyświetlania filmu;
+- **4)** kopia wzorcowa – kopię filmu stanowiącą wzorzec przy produkcji kopii eksploatacyjnych;
+- **5)** koproducent filmu – podmiot, który wspólnie z producentem organizuje, prowadzi i ponosi odpowiedzialność za produkcję filmu lub który współfinansuje produkcję filmu oraz nabywa współudział w autorskich prawach majątkowych;
+- **6)** producent filmu – osobę fizyczną, osobę prawną lub jednostkę organizacyjną, o której mowa w art. 331 § 1 Kodeksu cywilnego, która podejmuje inicjatywę, faktycznie organizuje, prowadzi i ponosi odpowiedzialność za kreatywny, organizacyjny i finansowy proces produkcji filmu;
+- **7)** produkcja filmu – zespół czynności twórczych, organizacyjnych, ekonomicznych, prawnych i technicznych, prowadzących do wytworzenia filmu w postaci kopii wzorcowej;
+- **8)** rozpowszechnianie filmu – publiczne udostępnianie filmu w jakikolwiek sposób, z wyłączeniem nadawania przez nadawców telewizyjnych;
+- **9)** upowszechnianie kultury filmowej – działalność polegającą na organizowaniu przeglądów, festiwali, dni kultury filmowej, sympozjów i innej podobnej działalności kulturalnej i edukacyjnej, a także wydawanie czasopism oraz publikacji naukowych i kulturalnych, poświęconych sztuce filmowej;
+- **10)** usługi filmowe – usługi świadczone w ramach wykonywanej działalności gospodarczej przez przedsiębiorców na rzecz producentów dla celów produkcji filmowej, obejmujące w szczególności czynności dokonywane przy pomocy własnych pracowników, udostępnianie pomieszczeń i hal zdjęciowych, sprzętu filmowego bez obsługi oraz wykonywanie specjalistycznych usług transportowych.
 
 **Art. 6.**
 
@@ -85,10 +102,7 @@ Art. 31–33. (pominięte)
 - **6)** dofinansowywanie przedsięwzięć z zakresu przygotowania projektów filmowych, produkcji filmów, dystrybucji filmów i rozpowszechniania filmów, promocji polskiej twórczości filmowej i upowszechniania kultury filmowej, w tym produkcji filmów podejmowanych przez środowiska polonijne;
 - **7)** świadczenie usług eksperckich organom administracji publicznej;
 - **8)** wspieranie utrzymywania archiwów filmowych;
-- **9)** wspieranie rozwoju potencjału polskiego niezależnego przemysłu kinematograficznego, a w szczególności małych i średnich przedsiębiorców działających w kinematografii;
-- **10)** wspieranie produkcji audiowizualnej na zasadach określonych w ustawie z dnia 9 listopada 2018 r. o finansowym wspieraniu produkcji audiowizualnej (Dz. U. z 2021 r. poz. 198);
-- **11)** nadawanie każdemu filmowi wyświetlanemu w kinie indywidualnego identyfikatora publikowanego na stronie podmiotowej Instytutu w Biuletynie Informacji Publicznej;
-- **12)** wspieranie rozwiązań ułatwiających zapoznanie się z dorobkiem kinematografii osobom z niepełnosprawnościami wzroku i słuchu.
+- **9)** wspieranie rozwoju potencjału polskiego niezależnego przemysłu kinematograficznego, a w szczególności małych i średnich przedsiębiorców działających w kinematografii.
 
 2. Instytut, w zakresie realizacji zadań, o których mowa w ust. 1, współpracuje z organami administracji rządowej i jednostkami samorządu terytorialnego.
 
@@ -104,7 +118,7 @@ Art. 31–33. (pominięte)
 
 2. Minister, w terminie 30 dni, bada uchwały podejmowane przez Radę Instytutu i przesyłane mu niezwłocznie przez ten organ, w zakresie zgodności z prawem, i stwierdza nieważność uchwały w całości lub w części, jeżeli narusza ona prawo lub stwarza zagrożenie wystąpienia ujemnego wyniku finansowego.
 
-3. Minister zatwierdza roczny plan działalności oraz projekt rocznego planu finansowego Instytutu; zatwierdzony projekt rocznego planu finansowego Instytutu jest przekazywany ministrowi właściwemu do spraw finansów publicznych w trybie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej.
+3. Minister zatwierdza roczny plan działalności oraz roczny plan finansowy Instytutu.
 
 4. Minister rozpatruje i zatwierdza roczne sprawozdanie z działalności oraz roczne sprawozdanie finansowe Instytutu.
 
@@ -118,11 +132,14 @@ Art. 31–33. (pominięte)
 
 - **1)** szczegółowy zakres działania Instytutu,
 - **2)** organizację wewnętrzną Instytutu,
-- **3)** szczegółowe zadania organów Instytutu oraz tryb ich działania – uwzględniając stworzenie właściwych warunków do prawidłowej realizacji zadań przez Instytut.
+- **3)** szczegółowe zadania organów Instytutu oraz tryb ich działania uwzględniając stworzenie właściwych warunków do prawidłowej realizacji zadań przez Instytut.
 
-3. (uchylony)
+3. Zarządzenie, o którym mowa w ust. 2, ogłasza się w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
 **Art. 12.** Organami Instytutu są:
+
+- **1)** Dyrektor Instytutu, zwany dalej „Dyrektorem”;
+- **2)** Rada Instytutu, zwana dalej „Radą”.
 
 **Art. 13.**
 
@@ -130,7 +147,7 @@ Art. 31–33. (pominięte)
 
 2. Do zadań Dyrektora należy w szczególności:
 
-- **1)** opracowanie rocznego planu działalności oraz projektu rocznego planu finansowego Instytutu, a także występowanie do ministra z wnioskami w sprawie wysokości dotacji na realizację zadań Instytutu;
+- **1)** opracowanie rocznego planu działalności oraz rocznego planu finansowego Instytutu, a także występowanie do ministra z wnioskami w sprawie wysokości dotacji na realizację zadań Instytutu;
 - **2)** sporządzanie rocznego sprawozdania z działalności Instytutu oraz rocznego sprawozdania finansowego Instytutu;
 - **3)** dofinansowywanie przedsięwzięć z zakresu przygotowania projektów filmowych, produkcji filmów, dystrybucji i rozpowszechniania filmów, promocji twórczości filmowej oraz upowszechniania kultury filmowej, po zasięgnięciu opinii ekspertów wskazanych przez ministra spośród przedstawicieli środowisk filmowych;
 - **4)** sprawowanie zarządu majątkiem Instytutu;
@@ -174,7 +191,7 @@ Art. 31–33. (pominięte)
 - **1)** trzech członków zgłoszonych przez twórców filmowych;
 - **2)** jednego członka zgłoszonego przez producentów filmowych;
 - **3)** jednego członka zgłoszonego przez związki zawodowe działające w sferze kinematografii;
-- **4)** pięciu członków zgłoszonych przez podmioty, o których mowa w art. 19 ust. 1– 5;
+- **4)** pięciu członków zgłoszonych przez podmioty, o których mowa w art. 19 ust. 1–5;
 - **5)** jednego członka reprezentującego ministra.
 
 3. Pracami Rady kieruje przewodniczący wybierany przez Radę spośród jej członków w głosowaniu tajnym, zwykłą większością głosów w obecności co najmniej sześciu członków. Rada może w czasie kadencji dokonać, w tym samym trybie, zmiany jej przewodniczącego.
@@ -198,7 +215,7 @@ Art. 31–33. (pominięte)
 1. Do zadań Rady należy w szczególności:
 
 - **1)** wytyczanie kierunków działania Instytutu;
-- **2)** opiniowanie rocznego planu działalności oraz projektu rocznego planu finansowego Instytutu;
+- **2)** opiniowanie rocznego planu działalności oraz rocznego planu finansowego Instytutu;
 - **3)** opiniowanie rocznego sprawozdania z działalności oraz rocznego sprawozdania finansowego Instytutu;
 - **4)** opiniowanie zmian statutu.
 
@@ -212,10 +229,9 @@ Art. 31–33. (pominięte)
 - **2)** przychody z eksploatacji filmów, do których autorskie prawa majątkowe przysługują Instytutowi;
 - **3)** darowizny, spadki i zapisy;
 - **4)** przychody z majątku Instytutu;
-- **5)** środki przyznawane przez ministra z Funduszu Promocji Kultury, o którym mowa w art. 87 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2022 r. poz. 888, 1301 i 1751);
-- **6)** wpłaty, o których mowa w art. 19 ust. 1–5, 6a i 7;
-- **7)** (uchylony)
-- **8)** wpływy z kar nałożonych na podstawie art. 19b.
+- **5)** środki przyznawane przez ministra z Funduszu Promocji Kultury, o którym mowa w art. 47e ustawy z dnia 29 lipca 1992 r. o grach i zakładach wzajemnych (Dz. U. z 2004 r. Nr 4, poz. 27 i Nr 273, poz. 2703);
+- **6)** wpłaty, o których mowa w art. 19 ust. 1–5, 6 i 7;
+- **7)** przychody, o których mowa w art. 27a pkt 4 oraz art. 45b ustawy z dnia 16 lipca 1987 r. o państwowych instytucjach filmowych (Dz. U. z 2003 r. Nr 58, poz. 513 oraz z 2005 r. Nr 132, poz. 1111).
 
 2. Instytut może otrzymywać dotacje celowe z budżetu państwa na realizację zadań inwestycyjnych.
 
@@ -227,81 +243,21 @@ Art. 31–33. (pominięte)
 
 2. Podmiot prowadzący dystrybucję dokonuje wpłaty na rzecz Instytutu w wysokości 1,5% przychodu uzyskanego ze sprzedaży oraz wynajmu nośników z nagranymi na nich filmami oraz z umów upoważniających inne podmioty do takiej sprzedaży lub wynajmu.
 
-3. Nadawca programu telewizyjnego dokonuje wpłaty na rzecz Instytutu w wysokości 1,5% przychodu uzyskanego z tytułu emisji przekazów handlowych albo przychodu pochodzącego z pobranych bezpośrednio od abonentów opłat za dostęp do nadawanych programów, jeżeli przychód ten w danym okresie rozliczeniowym jest wyższy.
-
-3a. Nadawca programu telewizyjnego posiadający siedzibę w innym państwie członkowskim Unii Europejskiej dokonuje wpłaty, o której mowa w ust. 3, ustalanej na podstawie przychodów uzyskiwanych na terytorium Rzeczypospolitej Polskiej.
+3. Nadawca programu telewizyjnego dokonuje wpłaty na rzecz Instytutu w wysokości 1,5% przychodu uzyskanego z tytułu emisji reklam, telesprzedaży i audycji sponsorowanych albo przychodu pochodzącego z pobranych bezpośrednio od abonentów opłat za dostęp do nadawanych programów, jeżeli przychód ten w danym okresie rozliczeniowym jest wyższy.
 
 4. Operator platformy cyfrowej dokonuje wpłaty na rzecz Instytutu w wysokości 1,5% przychodu uzyskanego z tytułu przychodów pochodzących z opłat za dostęp do programów telewizyjnych nadawanych lub reemitowanych na platformie cyfrowej.
 
 5. Operator telewizji kablowej dokonuje wpłaty na rzecz Instytutu w wysokości 1,5% przychodu uzyskanego z tytułu przychodów pochodzących z opłat za dostęp do reemitowanych programów telewizyjnych oraz świadczenia usług reemisji.
 
-6. (uchylony) 6a. Podmiot dostarczający audiowizualną usługę medialną na żądanie dokonuje wpłaty na rzecz Instytutu w wysokości 1,5% przychodu uzyskanego z tytułu opłat za dostęp do udostępnianych publicznie audiowizualnych usług medialnych na żądanie albo przychodu uzyskanego z tytułu emisji przekazów handlowych, jeżeli ten przychód w danym okresie rozliczeniowym jest wyższy.
-
-6b. Podmiot dostarczający audiowizualną usługę medialną na żądanie posiadający siedzibę w innym państwie członkowskim Unii Europejskiej dokonuje wpłaty, o której mowa w ust. 6a, ustalanej na podstawie przychodów uzyskiwanych na terytorium Rzeczypospolitej Polskiej.
-
-6c. Obowiązek, o którym mowa w ust. 6a i 6b, nie ma zastosowania do podmiotu dostarczającego audiowizualną usługę medialną na żądanie:
-
-- **1)** będącego mikroprzedsiębiorcą w rozumieniu art. 7 ust. 1 pkt 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2021 r. poz. 162 i 2105 oraz z 2022 r. poz. 24, 974 i 1570) lub
-- **2)** którego liczba użytkowników wszystkich udostępnianych publicznie przez niego audiowizualnych usług medialnych na żądanie w roku poprzedzającym rok, w którym jest ustalany obowiązek wpłaty na rzecz Instytutu, nie przekroczyła 1% abonentów usług transmisji danych zapewniających szerokopasmowy dostęp do Internetu; liczbę użytkowników usług transmisji danych zapewniających szerokopasmowy dostęp do Internetu określa się na podstawie danych z inwentaryzacji, o której mowa w art. 29 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. z 2022 r. poz. 884 i 2164). 6ca. Obowiązek, o którym mowa w ust. 3 oraz 3a, nie ma zastosowania do:
-- **1)** nadawcy będącego mikroprzedsiębiorcą w rozumieniu art. 7 ust. 1 pkt 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców lub
-- **2)** nadawcy, którego łączny udział w widowni wszystkich rozpowszechnianych programów w roku poprzedzającym rok, w którym jest ustalany obowiązek wpłaty na rzecz Instytutu, nie przekroczył 1%.
+6. Podmiot kontrolowany w ramach grupy kapitałowej w rozumieniu ustawy z dnia 15 grudnia 2000 r. o ochronie konkurencji i konsumentów (Dz. U. z 2003 r. Nr 86, poz. 804 i Nr 170, poz. 1652 oraz z 2004 r. Nr 93, poz. 891 i Nr 96, poz. 959) przez podmiot, o którym mowa w ust. 1–5, dokonuje wpłaty na rzecz Instytutu w wysokości 1,5% przychodu uzyskanego z tytułów, o których mowa w ust. 1–5. W takim przypadku podmiot kontrolujący może od kwoty należnej Instytutowi z tytułu, o którym mowa w ust. 1–5, odliczyć, w danym okresie rozliczeniowym, kwoty faktycznie wpłacone na rzecz Instytutu z tego tytułu, w tym samym okresie rozliczeniowym, przez podmiot kontrolowany w ramach grupy kapitałowej.
 
 7. Publiczny nadawca telewizyjny jest zobowiązany przeznaczyć na produkcję filmów nie mniej niż 1,5% rocznych wpływów z abonamentu za posiadanie odbiorników telewizyjnych. Z wykonania tego obowiązku nadawca przekazuje Dyrektorowi roczne sprawozdanie w terminie do końca pierwszego kwartału roku kalendarzowego. W przypadku gdy kwota, o której mowa w zdaniu pierwszym, nie zostanie w całości wydatkowana na produkcję filmów, nadawca przekazuje Instytutowi różnicę wynikającą z rozliczenia w terminie 1 miesiąca po upływie pierwszego kwartału roku kalendarzowego.
 
-8. Wpłaty, o których mowa w ust. 1–5 i 6a, są przekazywane w okresach kwartalnych w terminie 30 dni po upływie kwartału.
+8. Wpłaty, o których mowa w ust. 1–5 i 6, są przekazywane w okresach kwartalnych, w terminie 30 dni po upływie kwartału.
 
-8a. Dokonując wpłaty, o której mowa w ust. 1–5 i 6a, podmiot obowiązany do jej dokonania przedkłada oświadczenie o wysokości przychodów, w oparciu o które ustalona została wysokość wpłaty. Oświadczenie jest składane pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu uprawnionego do odebrania oświadczenia o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
+9. Do należności z tytułu wpłat, o których mowa w ust. 1–5, 6 i 7, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, Nr 85, poz. 727 i Nr 86, poz. 732), z tym że uprawnienia organu podatkowego przysługują Dyrektorowi, a uprawnienia organu odwoławczego – ministrowi.
 
-8b. W razie wątpliwości co do poprawności złożonego oświadczenia Dyrektor może wezwać do udzielenia, w wyznaczonym terminie, niezbędnych wyjaśnień lub uzupełnienia oświadczenia, wskazując przyczyny podania w wątpliwość rzetelności danych w nim zawartych.
-
-8c. Dyrektor może zwrócić się do Przewodniczącego Krajowej Rady Radiofonii i Telewizji z wnioskiem o przekazanie informacji, o których mowa w art. 37a ust. 3 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2022 r. poz. 1722), jeżeli informacje te są niezbędne dla ustalenia wysokości wpłaty, o której mowa w ust. 3 i 3a oraz 6a i 6b.
-
-8d. Dyrektor przekazuje Przewodniczącemu Krajowej Rady Radiofonii i Telewizji sprawozdanie z wykonywania obowiązku, o którym mowa w ust. 3 i 3a oraz 6a i 6b, w terminie 30 dni przed dniem upływu terminu na przekazanie Komisji Europejskiej sprawozdania, o którym mowa w art. 6 ust. 3 pkt 3 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji.
-
-9. Do należności z tytułu wpłat, o których mowa w ust. 1–5, 6a i 7, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, z późn. zm. ), z tym że uprawnienia organu podatkowego przysługują Dyrektorowi.
-
-9a. Decyzje Dyrektora w sprawach należności z tytułu wpłat, o których mowa w ust. 1–5, 6a i 7, są ostateczne.
-
-10. Wpłaty, o których mowa w ust. 1–5, 6a i 7, stanowią koszty uzyskania przychodów, w rozumieniu przepisów o podatku dochodowym, w dacie ich poniesienia.
-
-**Art. 19a.**
-
-1. Podmiot prowadzący kino przekazuje Instytutowi:
-
-- **1)** dzienne dane o liczbie widzów, liczbie sprzedanych biletów i zaakceptowanych znakach legitymacyjnych oraz przychodach z tytułu sprzedaży biletów w odniesieniu do każdego filmu wyświetlanego w danym dniu;
-- **2)** miesięczne dane o przychodach z tytułu wyświetlania filmów i reklam w kinie.
-
-2. Jeżeli podmiot prowadzi więcej niż jedno kino, przekazuje Instytutowi dane, o których mowa w ust. 1, odrębnie dla każdego kina.
-
-3. Dane, o których mowa w ust. 1:
-
-- **1)** pkt 1, są przekazywane dwa razy w tygodniu: w pierwszym dniu, który nie jest dniem wolnym od pracy, następującym po każdej niedzieli – za piątek, sobotę i niedzielę, oraz w dniu, który nie jest dniem wolnym od pracy, poprzedzającym każdą sobotę – za poniedziałek, wtorek, środę i czwartek,
-- **2)** pkt 2, są przekazywane w pierwszym dniu miesiąca, który nie jest dniem wolnym od pracy, następującym po miesiącu, którego dotyczą – za pośrednictwem systemu teleinformatycznego przy użyciu dokumentów elektronicznych w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070 oraz z 2022 r. poz. 1087) albo przez formularz elektroniczny udostępniony na stronie podmiotowej Instytutu w Biuletynie Informacji Publicznej.
-
-3a. W przypadku nieosiągania przez podmiot prowadzący kino przychodów, o których mowa w ust. 1, lub gdy wszystkie dane, o których mowa w ust. 1, jakie zobowiązany jest podmiot prowadzący kino przekazywać Instytutowi wynoszą 0, podmiot prowadzący kino jest zwolniony z konieczności przesyłania danych w okresach, o których mowa w ust. 3. W przypadku osiągnięcia przez podmiot prowadzący kino przychodów, o których mowa w ust. 1, lub gdy jakakolwiek dana, o której mowa w ust. 1, wynosi więcej niż 0, podmiot prowadzący kino jest zobowiązany niezwłocznie rozpocząć przekazywanie danych, o których mowa w ust. 1.
-
-4. Minister określi, w drodze rozporządzenia:
-
-- **1)** elektroniczny format przekazywania danych, o których mowa w ust. 1,
-- **2)** wzór formularzy służących do przekazywania Instytutowi danych, o których mowa w ust. 1, wraz z objaśnieniami co do sposobu ich wypełniania – uwzględniając konieczność uproszczenia, usprawnienia i ujednolicenia procesu przekazywania danych.
-
-**Art. 19b.**
-
-1. Podmiot prowadzący kino, który nie przekaże danych, o których mowa w art. 19a, albo nie przekaże ich w terminie – podlega karze pieniężnej w wysokości od 1000 do 100 000 zł.
-
-2. Karę pieniężną, o której mowa w ust. 1, nakłada w drodze decyzji Dyrektor.
-
-3. Przy ustalaniu wysokości kar pieniężnych Dyrektor uwzględnia wcześniejsze naruszenia obowiązków przekazywania danych przez podmiot prowadzący kino, zakres i rodzaj danych nieprzekazanych albo nieprzekazanych w terminie oraz rozmiar działalności prowadzonej przez podmiot.
-
-4. Karę pieniężną wnosi się na rachunek bankowy Instytutu.
-
-5. Karę pieniężną uiszcza się w terminie 14 dni od dnia, w którym decyzja o jej nałożeniu stała się ostateczna.
-
-6. Do kar pieniężnych stosuje się przepisy działu IVa ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2022 r. poz. 2000 i 2185).
-
-7. Wierzycielem należności z tytułu kar pieniężnych, o których mowa w ust. 1, w rozumieniu przepisów o postępowaniu egzekucyjnym w administracji jest Instytut.
-
-8. Organem wyższego stopnia właściwym do rozpatrzenia zażalenia na postanowienie wierzyciela należności z tytułu kar pieniężnych, o których mowa w ust. 1, jest minister.
+10. Wpłaty, o których mowa w ust. 1–5, 6 i 7, stanowią koszty uzyskania przychodów, w rozumieniu przepisów o podatku dochodowym, w dacie ich poniesienia.
 
 **Art. 20.**
 
@@ -349,16 +305,16 @@ Art. 31–33. (pominięte)
 
 **Art. 22.**
 
-1. Z wnioskiem o dofinansowanie przedsięwzięcia z zakresu przygotowania projektów filmowych, produkcji filmów, dystrybucji filmów i rozpowszechniania filmów, promocji polskiej twórczości filmowej i upowszechniania kultury filmowej, zwanego dalej „dofinansowaniem przedsięwzięcia”, może wystąpić każdy podmiot prowadzący działalność w zakresie kinematografii, zarówno polski, jak i z innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, bez względu na formę organizacyjno-prawną oraz strukturę własności, z zastrzeżeniem ust. 2.
+1. Z wnioskiem o dofinansowanie przedsięwzięcia z zakresu przygotowania projektów filmowych, produkcji filmów, dystrybucji filmów i rozpowszechniania filmów, promocji polskiej twórczości filmowej i upowszechniania kultury filmowej, zwanego dalej „dofinansowaniem przedsięwzięcia”, może wystąpić każdy podmiot prowadzący działalność w zakresie kinematografii, zarówno polski, jak i z innego państwa członkowskiego Unii Europejskiej lub z państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, bez względu na formę organizacyjno-prawną oraz strukturę własności, z zastrzeżeniem ust. 2.
 
 2. Instytut nie może udzielić dofinansowania przedsięwzięcia:
 
 - **1)** osobie fizycznej skazanej prawomocnym wyrokiem za przestępstwo składania fałszywych zeznań, przekupstwa, przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi, systemowi bankowemu, przestępstwo skarbowe albo inne związane z wykonywaniem działalności gospodarczej lub popełnione w celu osiągnięcia korzyści majątkowej;
 - **2)** osobie prawnej lub jednostce organizacyjnej niebędącej osobą prawną, w której osoba będąca członkiem jego organów zarządzających bądź wspólnikiem została skazana prawomocnym wyrokiem za przestępstwo, o którym mowa w pkt 1;
-- **3)** podmiotowi, który:
-    - **a)** posiada zaległości z tytułu należności publicznoprawnych lub
-    - **b)** pozostaje pod zarządem komisarycznym albo znajduje się w toku likwidacji, postępowania upadłościowego, postępowania restrukturyzacyjnego, lub
-    - **c)** w okresie 3 lat przed złożeniem wniosku o udzielenie dofinansowania przedsięwzięcia naruszył w sposób istotny umowę zawartą z Instytutem.
+- **3)** podmiotowi, który: posiada zaległości z tytułu należności publicznoprawnych lub pozostaje pod zarządem komisarycznym bądź znajduje się w toku likwidacji, postępowania upadłościowego, postępowania naprawczego, lub w okresie 3 lat przed złożeniem wniosku o udzielenie dofinansowania przedsięwzięcia naruszył w sposób istotny umowę zawartą z Instytutem.
+    - **a)**
+    - **b)**
+    - **c)**
 
 3. Dofinansowanie przedsięwzięcia udzielane jest w oparciu o następujące kryteria:
 
@@ -383,7 +339,7 @@ Art. 31–33. (pominięte)
 6. Minister określi, w drodze rozporządzenia:
 
 - **1)** szczegółowe warunki i tryb udzielania dofinansowania przedsięwzięcia, a także istotne elementy wniosku o udzielenie dofinansowania przedsięwzięcia,
-- **2)** istotne elementy umów cywilnoprawnych, o których mowa w ust. 3 – uwzględniając konieczność realizacji celów, określonych w art. 3 ust. 1, efektywnego i skutecznego wykorzystania dofinansowania przedsięwzięcia oraz zapewnienia przejrzystości jego udzielania.
+- **2)** istotne elementy umów cywilnoprawnych, o których mowa w ust. 3 uwzględniając konieczność realizacji celów, określonych w art. 3 ust. 1, efektywnego i skutecznego wykorzystania dofinansowania przedsięwzięcia oraz zapewnienia przejrzystości jego udzielania.
 
 **Art. 24.**
 
@@ -405,19 +361,19 @@ Art. 31–33. (pominięte)
 
 1. Instytut może odstąpić od umowy o udzielenie dofinansowania przedsięwzięcia w przypadku wykorzystania dofinansowania przedsięwzięcia niezgodnie z przeznaczeniem, nieterminowego lub nienależytego wykonywania umowy, w tym w szczególności zmniejszenia zakresu objętego dofinansowaniem przedsięwzięcia stwierdzonego na podstawie wyników kontroli oraz oceny realizacji wniosków i zaleceń pokontrolnych.
 
-2. Odstępując od umowy Instytut określa kwotę wykorzystaną niezgodnie z przeznaczeniem wraz z odsetkami ustawowymi za opóźnienie naliczanymi od dnia przekazania środków, termin jej zwrotu oraz nazwę i numer konta, na które należy dokonać wpłaty.
+2. Odstępując od umowy Instytut określa kwotę wykorzystaną niezgodnie z przeznaczeniem wraz z ustawowymi odsetkami naliczanymi od dnia przekazania środków, termin jej zwrotu oraz nazwę i numer konta, na które powinna być dokonana wpłata.
 
 #### Rozdział 4 Gromadzenie, ochrona i upowszechnianie zasobów sztuki filmowej
 
 **Art. 28.**
 
-1. Działalność w zakresie ochrony narodowego dziedzictwa kulturalnego w dziedzinie kinematografii prowadzi państwowa instytucja kultury wyspecjalizowana w zakresie ochrony narodowego dziedzictwa kulturalnego w dziedzinie kinematografii oraz filmoteki regionalne.
+1. Działalność w zakresie ochrony narodowego dziedzictwa kulturalnego w dziedzinie kinematografii prowadzi Filmoteka Narodowa oraz filmoteki regionalne.
 
-2. Do zadań państwowej instytucji kultury wyspecjalizowanej w zakresie ochrony narodowego dziedzictwa kulturalnego w dziedzinie kinematografii należy w szczególności:
+2. Do zadań Filmoteki Narodowej należy w szczególności:
 
-- **1)** gromadzenie i zabezpieczanie:
-    - **a)** materiałów negatywowych, kopii wzorcowych oraz innych archiwalnych kopii filmowych filmów polskich,
-    - **b)** archiwalnych kopii filmowych filmów niebędących filmami polskimi, jeżeli filmy te mają istotne znaczenie dla polskiej kultury, nauki lub życia społecznego;
+- **1)** gromadzenie i zabezpieczanie: materiałów negatywowych, kopii wzorcowych oraz innych archiwalnych kopii filmowych filmów polskich, archiwalnych kopii filmowych filmów niebędących filmami polskimi, jeżeli filmy te mają istotne znaczenie dla polskiej kultury, nauki lub życia społecznego;
+    - **a)**
+    - **b)**
 
 - **2)** wypracowywanie metodologii archiwizacji filmów polskich i polskiej dokumentacji historyczno-filmowej;
 - **3)** gromadzenie i archiwizacja dokumentacji dotyczącej produkcji filmów i rozpowszechniania filmów;
@@ -427,23 +383,147 @@ Art. 31–33. (pominięte)
 - **7)** współpraca z krajowymi i zagranicznymi podmiotami;
 - **8)** działalność kulturalno-oświatowa oraz wydawnicza.
 
-3. Państwowa instytucja kultury wyspecjalizowana w zakresie ochrony narodowego dziedzictwa kulturalnego w dziedzinie kinematografii udostępnia Instytutowi zgromadzone materiały filmowe, w tym materiały wyjściowe i promocyjne, w celu wykorzystania ich do działalności określonej w ustawie lub w statucie. Wysokość opłat za udostępnianie materiałów określi minister w drodze zarządzenia.
+3. Filmoteka Narodowa udostępnia Instytutowi zgromadzone materiały filmowe, w tym materiały wyjściowe i promocyjne, w celu wykorzystania ich do działalności określonej w ustawie lub w statucie. Wysokość opłat za udostępnianie materiałów określi minister w drodze zarządzenia.
 
-4. Samorządy lokalne mogą tworzyć filmoteki regionalne w formie samorządowych instytucji kultury w rozumieniu ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2020 r. poz.
+4. Samorządy lokalne mogą tworzyć filmoteki regionalne w formie samorządowych instytucji kultury w rozumieniu ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2001 r. Nr 13, poz. 123, z późn. zm.). Zakres działania filmotek regionalnych określa ust. 2, ze szczególnym uwzględnieniem dziedzictwa kulturalnego kinematografii w regionie.
 
-- **194)** . Zakres działania filmotek regionalnych określa ust. 2, ze szczególnym uwzględnieniem dziedzictwa kulturalnego kinematografii w regionie.
+5. Do działalności Filmoteki Narodowej i filmotek regionalnych w zakresie państwowego zasobu archiwalnego, określonej w ust. 2 pkt 1–3, stosuje się ustawę z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2002 r. Nr 171, poz. 1396, z późn. zm.).
 
-5. Do działalności państwowej instytucji kultury wyspecjalizowanej w zakresie ochrony narodowego dziedzictwa kulturalnego w dziedzinie kinematografii i filmotek regionalnych w zakresie państwowego zasobu archiwalnego, określonej w ust. 2 pkt 1–3, stosuje się ustawę z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164).
+**Art. 29.** Filmoteka Narodowa otrzymuje na swoją działalność dotację budżetową. Przychodami Filmoteki Narodowej są także przychody z dystrybucji filmów, do których przysługują jej autorskie prawa majątkowe oraz opłaty wynikające ze świadczonych usług.
 
-**Art. 29.** (uchylony)
-
-**Art. 30.** Producent filmu przekazuje nieodpłatnie państwowej instytucji kultury wyspecjalizowanej w zakresie ochrony narodowego dziedzictwa kulturalnego w dziedzinie kinematografii jeden egzemplarz nieeksploatowanej kopii każdego wyprodukowanego filmu oraz materiały dokumentacyjne związane z produkcją filmu, w szczególności scenariusz, listę montażową i dialogową, fotosy, plakaty, listę napisów i materiały reklamowe – w terminie 30 dni po zakończeniu produkcji, nie później jednak niż w dniu rozpoczęcia dystrybucji filmu.
+**Art. 30.** Producent filmu przekazuje nieodpłatnie Filmotece Narodowej jeden egzemplarz nieeksploatowanej kopii każdego wyprodukowanego filmu oraz materiały dokumentacyjne związane z produkcją filmu, w szczególności scenariusz, listę montażową i dialogową, fotosy, plakaty, listę napisów i materiały reklamowe – w terminie 30 dni po zakończeniu produkcji, nie później jednak niż w dniu rozpoczęcia dystrybucji filmu.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących
 
+**Art. 31.** W ustawie z dnia 16 lipca 1987 r. o kinematografii (Dz. U. z 2003 r. Nr 58, poz. 513) wprowadza się następujące zmiany:
+
+- **1)** tytuł ustawy otrzymuje brzmienie: „ o państwowych instytucjach filmowych ” ;
+- **2)** art. 1 otrzymuje brzmienie: „ Ustawę stosuje się do utworzonych przed dniem 1 stycznia 2006 r. państwowych instytucji filmowych oraz do działających w nich zespołów filmowych. ” ;
+- **3)** uchyla się art. 2–4;
+- **4)** uchyla się rozdział 2;
+- **5)** tytuł rozdziału 3 otrzymuje brzmienie: „ Państwowe instytucje filmowe ” ;
+- **6)** uchyla się art. 14 i 15;
+- **7)** art. 16 otrzymuje brzmienie: „ Organem założycielskim dla państwowych jednostek organizacyjnych kinematografii jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego. ” ;
+- **8)** w art. 17 uchyla się ust. 2 i oznaczenie ust. 1;
+- **9)** uchyla się art. 18–19;
+- **10)** użyte w art. 20 ust. 1, art. 21 ust. 1–4 i 8, art. 22 ust. 1, 4 i 5, art. 23 ust. 2 i 3, art. 24 ust. 3, art. 28 ust. 1, art. 29 w zdaniu wstępnym, art. 30 ust. 3, art. 31 ust. 1 i 2 w zdaniu wstępnym, art. 32 ust. 1 i 2, art. 34 ust. 1 w zdaniu wstępnym, art. 35 ust. 1 w zdaniu wstępnym i w ust. 2, w art. 37 ust. 1, w art. 38 ust. 1 pkt 2, art. 39, art. 40 ust. 1, art. 41 ust. 1 i 2 w różnej liczbie i przypadku wyrazy „instytucja filmowa” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „państwowa instytucja filmowa”;
+- **11)** w art. 20 ust. 2 otrzymuje brzmienie: „
+
+2. Załoga państwowej instytucji filmowej uczestniczy w zarządzaniu instytucją według zasad określonych w przepisach o samorządzie załogi przedsiębiorstwa państwowego, z zastrzeżeniem art. 33 i 39. ” ;
+
+- **12)** w art. 21 uchyla się ust. 7;
+- **13)** uchyla się art. 23a;
+- **14)** art. 25 otrzymuje brzmienie: „
+
+1. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego może, w drodze zarządzenia, łączyć państwowe instytucje filmowe utworzone przed dniem 1 stycznia 2005 r.
+
+2. Do połączenia państwowych instytucji filmowych stosuje się odpowiednio przepisy art. 18 ust. 2 i art. 19 ust. 1–3 i ust. 4 zdanie pierwsze ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2001 r. Nr 13, poz. 123, z późn. zm.).
+
+3. Z dniem wpisu do rejestru nowo utworzonej państwowej instytucji filmowej minister właściwy do spraw kultury i ochrony dziedzictwa narodowego wykreśla z rejestru państwowe instytucje filmowe, które uległy połączeniu. ” ;
+
+- **15)** uchyla się art. 26;
+- **16)** art. 26a otrzymuje brzmienie: „ Do likwidacji i upadłości państwowej instytucji filmowej stosuje się odpowiednio ustawę z dnia 25 września 1981 r. o przedsiębiorstwach państwowych (Dz. U. z 2002 r. Nr 112, poz. 981 i Nr 240, poz. 2055 oraz z 2004 r. Nr 273, poz. 2703), z tym że:
+- **1)** likwidacja państwowej instytucji filmowej polega na zadysponowaniu składnikami materialnymi i niematerialnymi tej instytucji na rzecz Polskiego Instytutu Sztuki Filmowej, z zastrzeżeniem pkt 5, i wykreśleniu państwowej instytucji filmowej z rejestru instytucji filmowych, o którym mowa w art. 22, po zaspokojeniu lub zabezpieczeniu wierzycieli. Jeżeli wierzycielem likwidowanej państwowej instytucji filmowej jest Skarb Państwa – wierzytelności te z dniem podjęcia decyzji o likwidacji umarza się;
+- **2)** likwidacja państwowej instytucji filmowej, z zastrzeżeniem pkt 3, może nastąpić na wspólny wniosek dyrektora i rady pracowniczej państwowej instytucji filmowej. Decyzje o likwidacji podejmuje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego;
+- **3)** jeżeli zachodzą przesłanki określone w art. 19 ust. 1 tej ustawy lub państwowa instytucja filmowa nie spełnia zadań określonych w statucie bądź do dnia 31 grudnia 2010 r. nie została podjęta decyzja o likwidacji państwowej instytucji filmowej lub państwowa instytucja filmowa nie została skomercjalizowana – instytucja ta podlega likwidacji z inicjatywy ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego;
+- **4)** art. 19 ust. 2, art. 20, art. 22 i art. 23 tej ustawy nie stosuje się,
+- **5)** z dniem postawienia w stan likwidacji lub ogłoszenia upadłości państwowej instytucji filmowej autorskie prawa majątkowe przysługujące tej instytucji stają się nieodpłatnie własnością Filmoteki Narodowej. ” ;
+- **17)** art. 27 otrzymuje brzmienie: „ Państwowa instytucja filmowa, na wniosek sejmiku województwa, może być przekazana do prowadzenia samorządowi województwa na zasadach określonych w porozumieniu ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego z zarządem województwa. ” ;
+- **18)** art. 27a otrzymuje brzmienie: „
+
+1. Do państwowych instytucji filmowych stosuje się odpowiednio przepisy o komercjalizacji i prywatyzacji, z tym że:
+
+- **1)** komercjalizacja państwowej instytucji filmowej może być dokonana na wniosek ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego lub za zgodą tego ministra na wspólny wniosek dyrektora i rady pracowniczej państwowej instytucji filmowej;
+- **2)** w razie podjęcia decyzji o prywatyzacji państwowej instytucji filmowej zasoby sztuki filmowej zgromadzone w tej instytucji stają się nieodpłatnie własnością Filmoteki Narodowej i podlegają przekazaniu jej;
+- **3)** prywatyzacji nie podlegają autorskie prawa majątkowe do filmów wyprodukowanych do dnia 31 grudnia 1989 r. przysługujące państwowej instytucji filmowej; w razie jej prywatyzacji prawa te stają się nieodpłatnie własnością Polskiego Instytutu Sztuki Filmowej;
+- **4)** wpływy z prywatyzacji państwowej instytucji filmowej są przychodami Polskiego Instytutu Sztuki Filmowej;
+- **5)** o sporządzeniu aktu komercjalizacji lub o podjęciu decyzji o prywatyzacji państwowej instytucji filmowej powiadamia się Dyrektora Polskiego Instytutu Sztuki Filmowej, który ma prawo wglądu w dokumentację rachunkową i księgi handlowe spółki powstałej z przekształcenia państwowej instytucji filmowej oraz przysługuje mu prawo zgłaszania uwag i występowania z wnioskami dotyczącymi spraw tej spółki – do czasu jej sprywatyzowania;
+- **6)** z dniem sporządzenia aktu komercjalizacji państwowej instytucji filmowej instytucję tę wykreśla się z rejestru instytucji filmowych, o którym mowa w art. 22;
+- **7)** na wniosek ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego lub ministra właściwego do spraw Skarbu Państwa, Rada Ministrów może w formie uchwały udzielić zgody na inny niż publiczny tryb zbycia udziałów lub akcji skomercjalizowanych państwowych instytucji filmowych poprzez ich nieodpłatne wniesienie do Polskiego Instytutu Sztuki Filmowej, który ma obowiązek je zbyć w terminie 12 miesięcy od dnia wniesienia.
+
+2. Przepisy ust. 1 nie naruszają praw twórców wynikających z ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2000 r. Nr 80, poz. 904, z późn. zm.), w szczególności dotyczących nowych pól eksploatacji. ” ;
+
+- **19)** w art. 28 uchyla się ust. 2, 3 i 5;
+- **20)** art. 33 otrzymuje brzmienie: „
+
+**Art. 33.** Państwowa instytucja filmowa prowadzi działalność na podstawie planu, który ustala dyrektor po zasięgnięciu opinii organów doradczych i opiniodawczych, a następnie zatwierdza minister właściwy do spraw kultury i ochrony dziedzictwa narodowego. ” ;
+
+- **21)** w art. 34 ust. 2 otrzymuje brzmienie: „
+
+2. W wypadkach, o których mowa w ust. 1, minister właściwy do spraw kultury i ochrony dziedzictwa narodowego zapewnia państwowej instytucji filmowej środki niezbędne do wykonania nałożonego zadania. ” ;
+
+- **22)** art. 45 otrzymuje brzmienie: „
+
+**Art. 45.**
+
+1. Państwowa instytucja filmowa prowadzi samodzielnie gospodarkę finansową, pokrywając z uzyskanych przychodów koszty działalności i zobowiązania.
+
+2. Podstawą gospodarki finansowej państwowej instytucji filmowej jest roczny plan finansowy, który ustala dyrektor po zasięgnięciu opinii organów doradczych i opiniodawczych.
+
+3. Roczny plan finansowy obejmuje w szczególności:
+
+- **1)** przychody, w tym dotacje z wyodrębnieniem ich rodzajów;
+- **2)** koszty operacyjne, w tym wydatki na wynagrodzenia i składki naliczane od wynagrodzeń;
+- **3)** wydatki inwestycyjne;
+- **4)** stan środków obrotowych na początek i koniec roku obrotowego.
+
+4. Rokiem obrotowym państwowej instytucji filmowej jest rok kalendarzowy.
+
+5. Państwowa instytucja filmowa prowadzi rachunkowość na zasadach określonych w przepisach o rachunkowości.
+
+6. Roczne sprawozdanie finansowe państwowej instytucji filmowej podlega badaniu przez biegłego rewidenta.
+
+7. Roczne sprawozdanie finansowe państwowej instytucji filmowej zatwierdza minister właściwy do spraw kultury i ochrony dziedzictwa narodowego. ” ;
+
+- **23)** po art. 45 dodaje się art. 45a i 45b w brzmieniu: „
+
+1. Państwowa instytucja filmowa tworzy:
+
+- **1)** fundusz statutowy;
+- **2)** fundusz rezerwowy;
+- **3)** inne fundusze, których utworzenie przewidują odrębne przepisy.
+
+2. Fundusz statutowy odzwierciedla wartość mienia otrzymanego przez państwową instytucję filmową w momencie utworzenia.
+
+3. Fundusz statutowy zwiększa się o:
+
+- **1)** wartość mienia otrzymanego nieodpłatnie na podstawie decyzji właściwych organów lub na podstawie odrębnych przepisów;
+- **2)** zysk netto, z uwzględnieniem ust. 5.
+
+4. Fundusz statutowy zmniejsza się o:
+
+- **1)** wartość mienia przekazanego nieodpłatnie na podstawie decyzji właściwych organów lub na podstawie odrębnych przepisów;
+- **2)** straty netto nieznajdujące pokrycia w funduszu rezerwowym.
+
+5. Fundusz rezerwowy tworzy się z zysku netto. Odpis na fundusz rezerwowy nie może być niższy niż 10% zysku netto. Państwowa instytucja filmowa może zaniechać odpisu, gdy stan funduszu rezerwowego przekroczy równowartość 2% kosztów działalności tej instytucji w roku obrotowym.
+
+6. Fundusz rezerwowy przeznacza się na pokrycie straty netto.
+
+1. Państwowe instytucje filmowe dokonują na rzecz Polskiego Instytutu Sztuki Filmowej wpłat w wysokości 50% przychodów z majątkowych praw autorskich do filmów wyprodukowanych do dnia 31 grudnia 1989 r.
+
+2. Wpłaty, o których mowa w ust. 1, są przekazywane w okresach kwartalnych, w terminie 30 dni po upływie kwartału.
+
+3. Do należności z tytułu wpłat, o których mowa w ust. 1, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, Nr 85, poz. 727 i Nr 86, poz. 732), z tym że uprawnienia organu podatkowego przysługują Dyrektorowi Polskiego Instytutu Sztuki Filmowej, a uprawnienia organu odwoławczego – ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego.
+
+4. Wpłaty, o których mowa w ust. 1, stanowią koszty uzyskania przychodów, w rozumieniu przepisów o podatku dochodowym, w dacie ich poniesienia.
+
+5. W przypadku, o którym mowa w ust. 1, stosuje się art. 27a ust. 2. ” ;
+
+- **24)** uchyla się rozdział 5;
+- **25)** uchyla się rozdział 6.
+
+**Art. 32.** W ustawie z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2001 r. Nr 13, poz. 123, z późn. zm.) art. 2 otrzymuje brzmienie: „ Formami organizacyjnymi działalności kulturalnej są w szczególności: teatry, opery, operetki, filharmonie, orkiestry, instytucje filmowe, kina, muzea, biblioteki, domy kultury, ogniska artystyczne, galerie sztuki oraz ośrodki badań i dokumentacji w różnych dziedzinach kultury. ” . W ustawie z dnia 29 lipca 1992 r. o grach i zakładach wzajemnych (Dz. U. z 2004 r. Nr 4, poz. 27 i Nr 273, poz. 2703) w art. 47e wprowadza się następujące zmiany:
+
+w ust. 4 zdanie wstępne otrzymuje brzmienie: „ Wydatki Funduszu Promocji Kultury są przeznaczane, z zastrzeżeniem ust. 4a, wyłącznie na promowanie lub wspieranie: ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
+
+- **a)**
+- **b)**
+
+4a. Dysponent Funduszu Promocji Kultury przekazuje corocznie, w terminie do dnia 30 marca następnego roku kalendarzowego, nie mniej niż 5% przychodu, o którym mowa w ust. 3, do Polskiego Instytutu Sztuki Filmowej na realizację zadań tego Instytutu. ” .
+
 #### Rozdział 6 Przepisy przejściowe i dostosowujące
 
-**Art. 34.** Z dniem wejścia ustawy w życie podlegają umorzeniu postępowania w sprawie stwierdzenia kwalifikacji do wykonywania zawodów filmowych, prowadzone na podstawie ustawy, o której mowa w art. 31 .
+**Art. 34.** Z dniem wejścia ustawy w życie podlegają umorzeniu postępowania w sprawie stwierdzenia kwalifikacji do wykonywania zawodów filmowych, prowadzone na podstawie ustawy, o której mowa w art. 31.
 
 **Art. 35.**
 
@@ -455,7 +535,7 @@ Art. 31–33. (pominięte)
 
 4. Zmiana w księgach wieczystych wpisów dotyczących hipotek zabezpieczających wierzytelności, o których mowa w ust. 1 i 2, następuje na wniosek Dyrektora, a w odniesieniu do wierzytelności, o których mowa w ust. 3, na wniosek właściwego organu wykonawczego organizatora samorządowej instytucji kultury.
 
-**Art. 36.** Rozporządzenie wydane na podstawie art. 22 ust. 5 ustawy, o której mowa w art. 31 , zachowuje moc do czasu wydania rozporządzenia na podstawie art. 22 ust. 5 ustawy, o której mowa w art. 31 , w brzmieniu nadanym niniejszą ustawą.
+**Art. 36.** Rozporządzenie wydane na podstawie art. 22 ust. 5 ustawy, o której mowa w art. 31, zachowuje moc do czasu wydania rozporządzenia na podstawie art. 22 ust. 5 ustawy, o której mowa w art. 31, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 37.**
 
@@ -481,5 +561,5 @@ Art. 31–33. (pominięte)
 
 #### Rozdział 7 Przepis końcowy
 
-**Art. 40.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia , z wyjątkiem art. 19 oraz art. 31 pkt 23 w zakresie art. 45b, które wchodzą w życie z dniem 1 stycznia 2006 r.
+**Art. 40.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 19 oraz art. 31 pkt 23 w zakresie art. 45b, które wchodzą w życie z dniem 1 stycznia 2006 r.
 

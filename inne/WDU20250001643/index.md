@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowej Agencji Wymiany Akademickiej
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 listopada 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 listopada 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-11-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001643) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1643/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 listopada 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowej Agencji Wymiany Akademickiej
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 lipca 2017 r. o Narodowej Agencji Wymiany Akademickiej (Dz. U. z 2023 r. poz. 843), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 4 kwietnia 2025 r. o zmianie niektórych ustaw w celu wyeliminowania nieprawidłowości w systemie wizowym Rzeczypospolitej Polskiej (Dz. U. poz. 622) oraz zmian wynikających z przepisów ogłoszonych przed dniem 6 listopada 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 37–39 ustawy z dnia 4 kwietnia 2025 r. o zmianie niektórych ustaw w celu wyeliminowania nieprawidłowości w systemie wizowym Rzeczypospolitej Polskiej (Dz. U. poz. 622), które stanowią: „Art. 37. 1. Narodowa Agencja Wymiany Akademickiej podejmie czynności organizacyjne i przygotowujące do realizacji zadań, o których mowa w art. 2 ust. 3 pkt 3a ustawy zmienianej w art. 8.
 2. Minister właściwy do spraw szkolnictwa wyższego i nauki zapewni Narodowej Agencji Wymiany Akademickiej środki finansowe na realizację czynności, o których mowa w ust. 1.
@@ -52,6 +52,10 @@ Art. 34–38. (pominięte)
 3. Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa w ust. 1, oraz wdrożenia mechanizmu korygującego, o którym mowa w ust. 2, jest minister właściwy do spraw szkolnictwa wyższego i nauki.
 
 **Art. 39.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 33 oraz art. 35–38, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 1, art. 4, art. 5, art. 6 pkt 2, 3, pkt 4 lit. b, pkt 6 i 8–16, art. 8, art. 10–19, art. 21, art. 23–30 oraz art. 34, które wchodzą w życie z dniem 1 lipca 2025 r.;
+- **3)** art. 7 oraz art. 31, które wchodzą w życie z dniem 1 września 2025 r.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 7 lipca 2017 r. o Narodowej Agencji Wymiany Akademickiej
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -91,6 +95,9 @@ Art. 34–38. (pominięte)
 #### Rozdział 2 Organy i organizacja Agencji
 
 **Art. 3.** Organami Agencji są:
+
+- **1)** Dyrektor Agencji, zwany dalej „Dyrektorem”;
+- **2)** Rada Agencji, zwana dalej „Radą”.
 
 **Art. 4.**
 
@@ -248,6 +255,9 @@ Art. 34–38. (pominięte)
 
 **Art. 16.** Minister właściwy do spraw szkolnictwa wyższego i nauki, w drodze rozporządzenia, nadaje Agencji statut, w którym określa:
 
+- **1)** szczegółowy zakres zadań i tryb pracy organów Agencji,
+- **2)** organizację wewnętrzną Agencji mając na uwadze zakres zadań Agencji oraz konieczność zapewnienia sprawnej i efektywnej ich realizacji.
+
 #### Rozdział 3 Sposób realizacji zadań Agencji oraz nadzór nad jej działalnością
 
 **Art. 17.**
@@ -288,7 +298,19 @@ Art. 34–38. (pominięte)
 
 **Art. 20.** Ogłoszenie o naborze wniosków o udział w programie zawiera:
 
+- **1)** cel programu;
+- **2)** zakres tematyczny działań realizowanych w ramach programu oraz termin realizacji programu;
+- **3)** regulamin programu;
+- **4)** określenie terminu i formy składania wniosków oraz języka, w jakim mają być sporządzone;
+- **5)** wzór umowy, o której mowa w art. 26 ust. 1;
+- **6)** wysokość środków finansowych przeznaczonych na realizację programu.
+
 **Art. 21.** Ogłoszenie o konkursie zawiera:
+
+- **1)** przedmiot konkursu;
+- **2)** regulamin konkursu;
+- **3)** skład komisji konkursowej;
+- **4)** termin ogłoszenia wyniku konkursu.
 
 **Art. 22.**
 
@@ -299,6 +321,36 @@ Art. 34–38. (pominięte)
 3. Eksperci zewnętrzni, o których mowa w ust. 2, są powoływani na zasadach określonych przez Dyrektora.
 
 **Art. 23.** W ramach oceny merytorycznej, o której mowa w art. 22, uwzględnia się w przypadku:
+
+- **1)** osób, o których mowa w art. 18 ust. 1 pkt 1 i 2:
+    - **a)** dotychczasowy przebieg nauczania lub kształcenia, w tym osiągnięcia naukowe, lub
+    - **b)** opinię podmiotu, w którym osoba ta odbywała nauczanie lub kształcenie, lub
+    - **c)** wiedzę lub umiejętności w zakresie odpowiadającym planom kształcenia, lub
+    - **d)** dotychczasową aktywność społeczną, lub
+    - **e)** plany naukowe lub zawodowe, lub
+    - **f)** znajomość języka, w którym będzie odbywało się kształcenie, lub
+    - **g)** uzasadnienie odbywania kształcenia w danym podmiocie, o którym mowa w art. 7 ust. 1 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, zagranicznej uczelni lub instytucji naukowej, lub
+    - **h)** zasadność kosztów związanych z realizacją planowanych działań;
+
+- **2)** osób, o których mowa w art. 18 ust. 1 pkt 3 i 4:
+    - **a)** dotychczasowy przebieg kariery naukowej lub akademickiej, w tym osiągnięcia naukowe, lub
+    - **b)** opinię podmiotu, o którym mowa w art. 7 ust. 1 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, zagranicznej uczelni lub instytucji naukowej, lub
+    - **c)** renomę i poziom naukowy podmiotu, o którym mowa w art. 7 ust. 1 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, zagranicznej uczelni lub instytucji naukowej, z którą osoba ta zamierza podjąć współpracę, lub
+    - **d)** zakres i sposób realizacji planowanych działań o charakterze naukowym lub dydaktycznym, lub
+    - **e)** uzasadnienie podjęcia współpracy ze wskazanym podmiotem, o którym mowa w art. 7 ust. 1 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, zagraniczną uczelnią lub instytucją naukową, lub
+    - **f)** zasadność kosztów związanych z realizacją planowanych działań;
+
+- **3)** osób, o których mowa w art. 18 ust. 1 pkt 5:
+    - **a)** posiadanie wymaganego przez stronę przyjmującą wykształcenia oraz kwalifikacji uprawniających do nauczania języka polskiego jako obcego lub
+    - **b)** znajomość kultury państwa, do którego ta osoba ma być skierowana, oraz języka urzędowego tego państwa lub innego języka umożliwiającego komunikowanie się w tym państwie;
+
+- **4)** podmiotów, o których mowa w art. 18 ust. 1 pkt 6–8:
+    - **a)** potencjał organizacyjny i doświadczenie w zakresie realizacji projektów, w tym w zakresie współpracy międzynarodowej, lub
+    - **b)** zgodność działań z celami polityki naukowej, innowacyjnej i społecznej państwa, lub
+    - **c)** zgodność działań z celami i strategią podmiotu, lub
+    - **d)** praktyczne znaczenie działań dla wzmocnienia potencjału podmiotu, w tym w zakresie międzynarodowej współpracy naukowej lub akademickiej, lub
+    - **e)** zakres i sposób realizacji planowanych działań, lub
+    - **f)** zasadność kosztów związanych z realizacją planowanych działań.
 
 **Art. 24.**
 
@@ -436,6 +488,10 @@ Art. 34–38. (pominięte)
 
 **Art. 41.** Z dniem wejścia w życie ustawy:
 
+- **1)** składniki majątkowe i niemajątkowe Biura Uznawalności Wykształcenia i Wymiany Międzynarodowej stają się składnikami majątkowymi i niemajątkowymi Narodowej Agencji Wymiany Akademickiej;
+- **2)** należności i zobowiązania Biura Uznawalności Wykształcenia i Wymiany Międzynarodowej stają się należnościami i zobowiązaniami Narodowej Agencji Wymiany Akademickiej;
+- **3)** pracownicy Biura Uznawalności Wykształcenia i Wymiany Międzynarodowej stają się pracownikami Narodowej Agencji Wymiany Akademickiej. Stosunki pracy z tymi pracownikami wygasają po upływie 3 miesięcy od dnia wejścia w życie ustawy, jeżeli przed upływem tego terminu nie zostaną im zaproponowane nowe warunki pracy i płacy albo w razie nieprzyjęcia nowych warunków pracy i płacy.
+
 **Art. 42.** Pracownicy zatrudnieni w urzędzie obsługującym ministra właściwego do spraw szkolnictwa wyższego przy realizacji zadań, które zostają przekazane niniejszą ustawą Narodowej Agencji Wymiany Akademickiej, mogą zostać przeniesieni za ich zgodą, w drodze porozumienia pracodawców, do Narodowej Agencji Wymiany Akademickiej.
 
 **Art. 43.** W celu wykonania przepisów ustawy Prezes Rady Ministrów może dokonać, w drodze rozporządzenia, przeniesienia planowanych wydatków budżetowych na rok 2018, w tym wynagrodzeń, między częściami, działami i rozdziałami budżetu państwa, których dysponentem jest minister właściwy do spraw szkolnictwa wyższego oraz minister właściwy do spraw nauki, z zachowaniem przeznaczenia środków publicznych wynikającego z ustawy budżetowej.
@@ -450,6 +506,9 @@ Art. 34–38. (pominięte)
 
 **Art. 48.** Rektorzy uczelni, dyrektorzy instytutów badawczych i dyrektorzy instytutów naukowych Polskiej Akademii Nauk wprowadzą do Systemu Informacji o Szkolnictwie Wyższym, w zakresie dotyczącym kierowanych przez nich jednostek, wzory i wykazy, o których mowa w:
 
+- **1)** art. 29c ust. 2a ustawy zmienianej w art. 35 ,
+- **2)** art. 191b ust. 3a ustawy zmienianej w art. 36 w terminie do dnia 31 stycznia 2018 r.
+
 **Art. 49.** Ministrowie, o których mowa w art. 33 ust. 2 ustawy zmienianej w art. 36 , przekażą Narodowej Agencji Wymiany Akademickiej, w terminie do dnia 31 stycznia 2018 r., przekazane do urzędów obsługujących tych ministrów przed dniem 1 stycznia 2018 r. wykazy osób upoważnionych do podpisywania dokumentów, o których mowa w art. 29c ust. 1 ustawy zmienianej w art. 35 oraz w art. 191b ust. 3 ustawy zmienianej w art. 36 , a także wzory podpisów tych osób, pieczęci urzędowych oraz wzory dyplomów i świadectw.
 
 **Art. 50.** Do postępowań w sprawach dotyczących wydania opinii lub zaświadczenia, o których mowa w art. 191a ust. 6 ustawy zmienianej w art. 36 w brzmieniu dotychczasowym, wszczętych i niezakończonych przed dniem wejścia w życie art. 36 pkt 7, stosuje się przepisy dotychczasowe.
@@ -457,4 +516,8 @@ Art. 34–38. (pominięte)
 **Art. 51.** Stypendia, które przed dniem wejścia w życie niniejszej ustawy zostały przyznane na podstawie art. 43 ust. 8 ustawy zmienianej w art. 36 , wypłaca Narodowa Agencja Wymiany Akademickiej.
 
 **Art. 52.** Ustawa wchodzi w życie z dniem 1 października 2017 r., z wyjątkiem:
+
+- **1)** art. 35 pkt 2 lit. c oraz pkt 4, art. 36 pkt 1 lit. a, b i d, pkt 3 lit. b i c, pkt 8 lit. c oraz art. 48, które wchodzą w życie z dniem 1 stycznia 2018 r.;
+- **2)** art. 2 ust. 3 pkt 5, art. 35 pkt 2 lit. a oraz pkt 3 i art. 36 pkt 7 i pkt 8 lit. b, które wchodzą w życie z dniem 1 lutego 2018 r.
+
 

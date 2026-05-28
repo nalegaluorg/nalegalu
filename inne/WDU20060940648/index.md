@@ -8,12 +8,10 @@ pos: 648
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o finansowaniu Akademii Katolickiej w Warszawie z budżetu państwa
-
-*USTAWA z dnia 5 kwietnia 2006 r.*
+# Ustawa z dnia 5 kwietnia 2006 r. o finansowaniu Papieskiego Wydziału Teologicznego w Warszawie z budżetu państwa
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,11 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2006-04-05 |
 | Data wydania | 2006-06-05 |
+| Wejście w życie | 2006-10-01 |
 | Ostatnia zmiana | 2024-07-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060940648) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/648/text.pdf) |
 
-**Art. 1.** Akademia Katolicka w Warszawie otrzymuje dotacje i inne środki z budżetu państwa na zasadach określonych dla uczelni publicznych.
+**Art. 1.** Papieski Wydział Teologiczny w Warszawie otrzymuje dotacje i inne środki z budżetu państwa na zasadach określonych dla uczelni publicznych, z wyjątkiem finansowania kosztów realizacji inwestycji budowlanych.
 
 **Art. 2.** Ustawa wchodzi w życie z dniem 1 października 2006 r.
 

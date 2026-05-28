@@ -8,12 +8,10 @@ pos: 969
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o nadaniu Politechnice Radomskiej im. Kazimierza Pułaskiego nazwy „Uniwersytet Technologiczno-Humanistyczny im. Kazimierza Pułaskiego w Radomiu”
-
-*USTAWA z dnia 27 lipca 2012 r.*
+# Ustawa z dnia 27 lipca 2012 r. o nadaniu Politechnice Radomskiej im. Kazimierza Pułaskiego nazwy „Uniwersytet Technologiczno-Humanistyczny im. Kazimierza Pułaskiego w Radomiu”
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2012-07-27 |
 | Data wydania | 2012-08-28 |
+| Wejście w życie | 2012-09-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000969) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/969/text.pdf) |
 

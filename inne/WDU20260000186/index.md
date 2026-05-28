@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o ochronie roszczeń pracowniczych razie niewypłacalności pracodawcy
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 13 lutego 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 lutego 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,11 +25,16 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-02-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000186) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/186/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 13 lutego 2026 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o ochronie roszczeń pracowniczych razie niewypłacalności pracodawcy
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych razie niewypłacalności pracodawcy (Dz. U.
 z 2025 r. poz. 433), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 lutego 2026 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 425 ust. 1 i art. 461 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), które stanowią:
 
 **Art. 425.** „1. Do dnia powołania Rady Rynku Pracy, wojewódzkich rad rynku pracy i powiatowych rad rynku pracy na podstawie przepisów niniejszej ustawy, zadania tych rad wykonują Rada Rynku Pracy, wojewódzkie rady rynku pracy i powiatowe rady rynku pracy, działające składzie i na zasadach określonych przepisach ustawy uchylanej art. 460, nie dłużej jednak niż do dnia 31 grudnia 2025 r.” „Art. 461. Ustawa wchodzi życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 392 pkt 2 lit. b oraz art. 458, które wchodzą życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 106, art. 128 ust. 2, art. 203 oraz art. 300 ust. 3 pkt 11, które wchodzą życie z dniem 1 stycznia 2026 r.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych razie niewypłacalności pracodawcy
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -43,7 +46,7 @@ z 2025 r. poz. 433), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 20 mar
 
 1. Przepisy ustawy stosuje się przypadku niewypłacalności pracodawcy będącego przedsiębiorcą, o którym mowa art. 4 ust. 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826), położonym na terytorium Rzeczypospolitej Polskiej oddziałem banku zagranicznego rozumieniu art. 4 ust. 1 pkt 20 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2026 r. poz. 38), a także przedsiębiorcą zagranicznym pochodzącym z państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Porozumieniu Gospodarczym, który utworzył na terytorium Rzeczypospolitej Polskiej oddział lub przedstawicielstwo, o którym mowa przepisach ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 89, 619, 621 i 1794), o ile: przypadku przedsiębiorców zagranicznych z państw członkowskich Unii Europejskiej, z wyłączeniem Danii może być wobec nich wszczęte postępowanie upadłościowe rozumieniu art. 2 lit. a lub lit. c rozporządzenia Rady (WE) nr 1346/2000 z dnia 29 maja 2000 r. sprawie postępowania upadłościowego , przypadku przedsiębiorców zagranicznych z Danii i państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym może być wobec nich uznane główne zagraniczne postępowanie upadłościowe, o którym mowa przepisach ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe (Dz. U. z 2025 r. poz. 614, 1085, 1170 i 1172) dotyczących międzynarodowego postępowania upadłościowego, przypadku przedsiębiorców prowadzących działalność gospodarczą na terytorium Rzeczypospolitej Polskiej, a także oddziałów banków zagranicznych odrębne przepisy nie wyłączają możliwości ogłoszenia na terytorium Rzeczypospolitej Polskiej upadłości oraz wszczęcia postępowania restrukturyzacyjnego takiego pracodawcy, przypadku przedsiębiorców zagranicznych z państw członkowskich Unii Europejskiej i państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym działających na terenie Rzeczypospolitej Polskiej jako oddział instytucji kredytowej lub zakładu ubezpieczeń może zostać wszczęte wobec instytucji kredytowej lub zakładu ubezpieczeń postępowanie upadłościowe, postępowanie restrukturyzacyjne lub inne podobne postępowanie, i jednocześnie zatrudnia, zgodnie z przepisami polskiego prawa, co najmniej jedną osobę fizyczną związku z prowadzoną na terytorium Rzeczypospolitej Polskiej działalnością gospodarczą lub działalnością przedstawicielstwa.
 
-2. Niewypłacalność pracodawcy, o której mowa ust. 1, nie zachodzi odniesieniu do osób prawnych podlegających obowiązkowi wpisu do rejestru stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz samodzielnych publicznych zakładów opieki zdrowotnej, o którym mowa rozdziale 3 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2025 r. poz. 869, 1556 i 1792 oraz z 2026 r. poz. 119), wpisanych do rejestru przedsiębiorców z tytułu wykonywania działalności gospodarczej, fundacji rodzinnych, o których mowa ustawie z dnia 26 stycznia 2023 r. o fundacji rodzinnej (Dz. U. poz. 326 i 825), jednostek zaliczanych, na podstawie odrębnych przepisów, do sektora finansów publicznych, a także osób fizycznych prowadzących gospodarstwo domowe zatrudniających osoby wykonujące pracę zarobkową tym gospodarstwie.
+2. Niewypłacalność pracodawcy, o której mowa ust. 1, nie zachodzi odniesieniu do osób prawnych podlegających obowiązkowi wpisu do rejestru stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz samodzielnych publicznych zakładów opieki zdrowotnej, o którym mowa rozdziale 3 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2025 r. poz. 869, 1556 i 1792 oraz z 2026 r. poz. 119), wpisanych do rejestru przedsiębiorców z tytułu wykonywania działalności gospodarczej, fundacji rodzinnych, o których mowa ustawie z dnia 26 stycznia 2023 r. o fundacji rodzinnej (Dz. U. poz. 326 i 825), jednostek zaliczanych, na podstawie odrębnych przepisów, do sektora finansów publicznych, a także osób fizycznych prowadzących gospodarstwo domowe zatrudniających osoby wykonujące pracę zarobkową tym gospodarstwie. ryzacyjny, na podstawie przepisów Prawa upadłościowego lub Prawa restrukturyzacyjnego, wyda postanowienie o:
 
 - **1)** ogłoszeniu upadłości pracodawcy lub wszczęciu wobec niego wtórnego postępowania upadłościowego;
 - **2)** otwarciu postępowania restrukturyzacyjnego, o którym mowa art. 2 pkt 2–4 ustawy z dnia 15 maja 2015 r. Prawo restrukturyzacyjne (Dz. U. z 2024 r. poz. 1428 oraz z 2025 r. poz. 1085, 1170 i 1172);
@@ -76,7 +79,7 @@ z 2025 r. poz. 433), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 20 mar
 - **2)** organ sądowy lub każdy inny właściwy organ państwa członkowskiego Unii Europejskiej, z wyłączeniem Danii, uprawniony do wszczęcia postępowania upadłościowego wyda, zgodnie z art. 3 ust. 1 rozporządzenia Rady (WE) nr 1346/2000, orzeczenie, zgodnie z którym nie zostaje wszczęte postępowanie upadłościowe z uwagi na stwierdzenie definitywnego zamknięcia przedsiębiorstwa albo z powodu niewystarczalności aktywów na zaspokojenie kosztów tego postępowania, albo
 - **3)** sąd upadłościowy wyda, zgodnie z art. 3 ust. 2 i 4 rozporządzenia Rady (WE) nr 1346/2000, orzeczenie o ogłoszeniu upadłości przedsiębiorcy zagranicznego, mające skutki ograniczone do majątku dłużnika znajdującego się na terytorium Rzeczypospolitej Polskiej.
 
-2. Datą niewypłacalności jest data wydania orzeczenia, o którym mowa ust. 1 pkt 1, data wydania orzeczenia, o którym mowa ust. 1 pkt 2, albo data wydania przez sąd upadłościowy postanowienia o ogłoszeniu upadłości przedsiębiorcy zagranicznego, o którym mowa ust. 1 pkt 3. wania upadłościowego, o wydaniu orzeczenia o powołaniu zarządcy oraz dane o osobie zarządcy. Obwieszczenie zawiera istotną treść orzeczenia o wszczęciu postępowania oraz orzeczenia o powołaniu zarządcy, informacje o osobie zarządcy oraz informację, że właściwość sądu wynika z art. 3 ust. 1 rozporządzenia Rady (WE) nr 1346/2000.
+2. Datą niewypłacalności jest data wydania orzeczenia, o którym mowa ust. 1 pkt 1, data wydania orzeczenia, o którym mowa ust. 1 pkt 2, albo data wydania przez sąd upadłościowy postanowienia o ogłoszeniu upadłości przedsiębiorcy zagranicznego, o którym mowa ust. 1 pkt 3. Rady (WE) nr 1346/2000, obwieszcza Monitorze Sądowym i Gospodarczym o wydaniu orzeczenia o wszczęciu postępowania upadłościowego, o wydaniu orzeczenia o powołaniu zarządcy oraz dane o osobie zarządcy. Obwieszczenie zawiera istotną treść orzeczenia o wszczęciu postępowania oraz orzeczenia o powołaniu zarządcy, informacje o osobie zarządcy oraz informację, że właściwość sądu wynika z art. 3 ust. 1 rozporządzenia Rady (WE) nr 1346/2000.
 
 **Art. 8.**
 
@@ -128,7 +131,7 @@ z 2025 r. poz. 433), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 20 mar
     - **a)** wynagrodzenia za czas niezawinionego przez pracownika przestoju, za czas niewykonywania pracy (zwolnienia od pracy) i za czas innej usprawiedliwionej nieobecności pracy,
     - **b)** wynagrodzenia za czas niezdolności pracownika do pracy wskutek choroby, o którym mowa art. 92 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25),
     - **c)** wynagrodzenia za czas urlopu wypoczynkowego,
-    - **d)** odprawy pieniężnej przysługującej na podstawie przepisów o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników,
+    - **d)** odprawy pieniężnej przysługującej na podstawie przepisów o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników, za rok kalendarzowy, którym ustał stosunek pracy, oraz za rok bezpośrednio go poprzedzający,
     - **f)** odszkodowania, o którym mowa art. 36 § 1 Kodeksu pracy,
     - **g)** dodatku wyrównawczego, o którym mowa art. 230 i 231 Kodeksu pracy;
 
@@ -159,7 +162,7 @@ z 2025 r. poz. 433), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 20 mar
 5. Wniosek, o którym mowa ust. 1, składa się marszałkowi województwa, o którym mowa art. 15 ust. 3. Wniosek zawiera:
 
 - **1)** nazwisko, imię (imiona), numer PESEL, a razie gdy nie nadano numeru PESEL rodzaj, serię i numer dokumentu potwierdzającego tożsamość, datę urodzenia, nazwisko rodowe, obywatelstwo i płeć, adres zameldowania na pobyt stały, adres zamieszkania, jeżeli jest inny niż adres zameldowania na pobyt stały, adres do korespondencji, jeżeli jest inny niż adres zameldowania na pobyt stały i adres zamieszkania, nazwę i kod oddziału wojewódzkiego Narodowego Funduszu Zdrowia, nazwę i adres właściwego urzędu skarbowego, informację o posiadanym stopniu niepełnosprawności, informację o posiadaniu ustalonego prawa do emerytury lub renty oraz informację o sposobie dokonania wypłaty świadczenia;
-- **2)** oświadczenie o zatrudnieniu u pracodawcy oraz rodzaju i wysokości niezaspokojonych roszczeń; 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ), z uwzględnieniem wnioskowanej kwoty świadczenia;
+- **2)** oświadczenie o zatrudnieniu u pracodawcy oraz rodzaju i wysokości niezaspokojonych roszczeń; emerytalne i rentowe na dany rok kalendarzowy, ogłoszonej na podstawie art. 19 ust. 10 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ), z uwzględnieniem wnioskowanej kwoty świadczenia;
 - **4)** oświadczenie o ciążących na pracowniku potrąceniach z tytułu świadczeń alimentacyjnych.
 
 6. Do wniosku, o którym mowa ust. 1, pracownik dołącza informacje lub dokumenty uprawdopodobniające fakt zaprzestania działalności przez pracodawcę.
@@ -226,7 +229,7 @@ z 2025 r. poz. 433), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 20 mar
 
 - **1)** wydania przez sąd upadłościowy postanowienia o uznaniu głównego zagranicznego postępowania upadłościowego wszczętego wobec przedsiębiorcy zagranicznego z Danii lub z państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym;
 - **2)** wydania, zgodnie z art. 3 ust. 1 rozporządzenia Rady (WE) nr 1346/2000, przez organ sądowy lub każdy inny właściwy organ państwa członkowskiego Unii Europejskiej, z wyłączeniem Danii, uprawniony do wszczęcia postępowania upadłościowego przedsiębiorcy zagranicznego z tych państw, orzeczenia o wszczęciu wobec przedsiębiorcy lub przedsiębiorcy zagranicznego postępowania upadłościowego, o którym mowa art. 2 lit. a lub c tego rozporządzenia, oraz powołaniu zarządcy;
-- **3)** wydania przez sąd zagraniczny orzeczenia o wszczęciu postępowania upadłościowego, postępowania układowego lub innego podobnego postępowania, państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronach umowy o Europejskim Obszarze Gospodarczym, wobec instytucji kredytowych i zakładów ubezpieczeń mających siedziby tych państwach; inny właściwy organ lub sąd zagraniczny orzeczenia, zgodnie z którym nie zostaje wszczęte postępowanie upadłościowe z uwagi na stwierdzenie definitywnego zamknięcia przedsiębiorstwa albo z powodu niewystarczalności aktywów na zaspokojenie kosztów tego postępowania odniesieniu do przedsiębiorcy zagranicznego, instytucji kredytowej lub zagranicznego zakładu ubezpieczeń.
+- **3)** wydania przez sąd zagraniczny orzeczenia o wszczęciu postępowania upadłościowego, postępowania układowego lub innego podobnego postępowania, państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronach umowy o Europejskim Obszarze Gospodarczym, wobec instytucji kredytowych i zakładów ubezpieczeń mających siedziby tych państwach; o Wolnym Handlu (EFTA) stronach umowy o Europejskim Obszarze Gospodarczym, przez organ sądowy lub każdy inny właściwy organ lub sąd zagraniczny orzeczenia, zgodnie z którym nie zostaje wszczęte postępowanie upadłościowe z uwagi na stwierdzenie definitywnego zamknięcia przedsiębiorstwa albo z powodu niewystarczalności aktywów na zaspokojenie kosztów tego postępowania odniesieniu do przedsiębiorcy zagranicznego, instytucji kredytowej lub zagranicznego zakładu ubezpieczeń.
 
 2. W przypadkach określonych ust. 1 wypłata świadczeń może nastąpić wyłącznie na podstawie wniosku, o którym mowa art. 16 ust. 1, złożonego marszałkowi województwa, o którym mowa art. 15 ust. 3.
 
@@ -255,7 +258,7 @@ z 2025 r. poz. 433), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 20 mar
 1. W razie wypłaty świadczeń przypadkach określonych art. 17 ust. 4 o zakresie ochrony roszczeń oraz o kwocie wypłaconych świadczeń:
 
 - **1)** marszałek województwa, o którym mowa art. 15 ust. 3, powiadamia dysponenta Funduszu;
-- **2)** dysponent Funduszu powiadamia odpowiednią instytucję gwarancyjną. upadłości pracodawcy, prowadzącego działalność również na terytorium innych państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym:
+- **2)** dysponent Funduszu powiadamia odpowiednią instytucję gwarancyjną. przez sąd upadłościowy orzeczenia o oddaleniu z przyczyn, o których mowa art. 3 ust. 1 pkt 3 i 4, wniosku o ogłoszenie upadłości pracodawcy, prowadzącego działalność również na terytorium innych państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym:
 - **1)** marszałek województwa, o którym mowa art. 15 ust. 3, powiadamia dysponenta Funduszu;
 - **2)** dysponent Funduszu udziela informacji instytucjom gwarancyjnym państw, których upadły pracodawca prowadził działalność.
 
@@ -282,6 +285,12 @@ z 2025 r. poz. 433), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 20 mar
 **Art. 22a.** Minister właściwy do spraw pracy porozumieniu z ministrem właściwym do spraw finansów publicznych określi, drodze rozporządzenia, wzór wniosku pracownika o wypłatę zaliczki, o którym mowa art. 12a ust. 1, oraz wzór wniosku pracodawcy o wypłatę zaliczek, o którym mowa art. 15a ust. 1, tryb ich składania oraz rodzaje dokumentów wymaganych do wypłaty zaliczek, a także tryb przekazywania środków finansowych Funduszu na wypłatę zaliczek i dokonywania wypłat zaliczek, mając na uwadze racjonalne gospodarowanie środkami Funduszu oraz prawidłowe zabezpieczenie roszczeń.
 
 **Art. 22b.** Marszałek województwa, o którym mowa art. 15 ust. 3, prowadzonych postępowaniach o wypłatę świadczeń, o których mowa art. 12a, art. 14 i art. 15a, a także przy dochodzeniu zwrotu wypłaconych świadczeń, ma prawo do:
+
+- **1)** uzyskiwania pisemnych informacji i dokumentów dotyczących składania deklaracji i opłacania należnych podatków, na wniosek składany do urzędu skarbowego,
+- **2)** uzyskiwania pisemnych informacji i dokumentów dotyczących ustaleń dokonanych ramach przeprowadzonych u pracodawcy kontroli, na wniosek składany do Państwowej Inspekcji Pracy,
+- **3)** uzyskiwania danych zgromadzonych przez Zakład Ubezpieczeń Społecznych na kontach płatników składek i kontach ubezpieczonych, na wniosek zawierający dane identyfikacyjne płatnika składek lub ubezpieczonego, określone art. 50 ust. 7 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych,
+- **4)** wglądu do akt sądowych postępowaniach przedmiocie ogłoszenia upadłości pracodawcy, postępowaniach upadłościowych i postępowaniach restrukturyzacyjnych na wniosek składany do sądu upadłościowego lub restrukturyzacyjnego,
+- **5)** wglądu do akt egzekucyjnych dotyczących prowadzonych przeciwko pracodawcy postępowań egzekucyjnych na wniosek składany do organów egzekucyjnych zakresie niezbędnym do prowadzonych postępowań. Zakres oraz tryb zwrotu środków do Funduszu Gwarantowanych Świadczeń Pracowniczych
 
 **Art. 23.**
 
@@ -310,7 +319,7 @@ z 2025 r. poz. 433), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 20 mar
 
 8. Dysponent Funduszu może umorzyć należność całości lub części, gdy postępowanie egzekucyjne stosunku do osób fizycznych nieprowadzących działalności gospodarczej albo przedsiębiorców, którzy trwale zaprzestali prowadzenia działalności gospodarczej, zostało umorzone całości z urzędu.
 
-8a. W przypadku gdy sąd upadłościowy, organ sądowy lub każdy inny właściwy organ państwa członkowskiego Unii Europejskiej, z wyłączeniem Danii, uprawniony do wszczęcia i prowadzenia postępowania upadłościowego stosunku do osoby fizycznej, wyda orzeczenie o umorzeniu zobowiązań upadłego, kwotę umorzonego zobowiązania części stanowiącej wierzytelność Funduszu marszałek województwa, o którym mowa art. 15 ust. 3, zalicza koszty Funduszu, o czym niezwłocznie zawiadamia dysponenta Funduszu.
+8a. W przypadku gdy sąd upadłościowy, organ sądowy lub każdy inny właściwy organ państwa członkowskiego Unii Europejskiej, z wyłączeniem Danii, uprawniony do wszczęcia i prowadzenia postępowania upadłościowego stosunku do osoby fizycznej, wyda orzeczenie o umorzeniu zobowiązań upadłego, kwotę umorzonego zobowiązania części stanowiącej wierzytelność Funduszu marszałek województwa, o którym mowa art. 15 ust. 3, zalicza koszty Funduszu, o czym niezwłocznie zawiadamia dysponenta Funduszu. o odstąpienie całości lub części od dochodzenia zwrotu należności lub umorzenie całości lub części należności.
 
 9a. Dłużnik Funduszu może wystąpić do dysponenta Funduszu za pośrednictwem marszałka województwa, o którym mowa art. 15 ust. 3, z wnioskiem sprawie określenia warunków zwrotu należności, szczególności rozłożenia na raty, odroczenia terminu spłaty należności lub odstąpienia całości lub części od dochodzenia zwrotu należności lub umorzenia całości lub części należności. Dłużnik jest obowiązany dołączyć do wniosku dokumenty potwierdzające okoliczności wskazane we wniosku oraz oświadczenie o stanie majątkowym, a przypadku dłużnika Funduszu będącego osobą fizyczną, także o sytuacji rodzinnej, dochodach i kosztach utrzymania.
 
@@ -444,6 +453,11 @@ z 2025 r. poz. 433), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 20 mar
 
 **Art. 38.** (uchylony) powołana na podstawie przepisów o rynku pracy i służbach zatrudnienia. 2. Do zadań Rady sprawach, o których mowa ust. 1, należy szczególności:
 
+- **1)** opiniowanie rocznych projektów planów finansowych Funduszu oraz sprawozdań z wykonania tych planów;
+- **2)** wyrażanie opinii sprawach zaciągania kredytów i pożyczek, o których mowa art. 26.
+- **3)** (uchylony)
+- **4)** (uchylony)
+
 #### Rozdział 7a Kontrola
 
 **Art. 39a.**
@@ -519,7 +533,7 @@ z 2025 r. poz. 433), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 20 mar
 3. Z dniem wejścia życie ustawy stronami umów zawartych przez:
 
 - **1)** Fundusz Gwarantowanych Świadczeń Pracowniczych reprezentowany przez Dyrektora Krajowego Biura Funduszu Gwarantowanych Świadczeń Pracowniczych, o którym mowa art. 12 ust. 5 ustawy, o której mowa art. 50 pkt 1, staje się Fundusz Gwarantowanych Świadczeń Pracowniczych reprezentowany przez Dyrektora Krajowego Biura Funduszu Gwarantowanych Świadczeń Pracowniczych, o którym mowa art. 31 ust. 2 niniejszej ustawy;
-- **2)** Fundusz Gwarantowanych Świadczeń Pracowniczych reprezentowany przez kierowników Biur Terenowych Funduszu Gwarantowanych Świadczeń Pracowniczych, o których mowa art. 12 ust. 5 ustawy, o której mowa art. 50 pkt 1, staje się odpowiednio Fundusz Gwarantowanych Świadczeń Pracowniczych reprezentowany przez kierowników Biur Terenowych Funduszu Gwarantowanych Świadczeń Pracowniczych, o których mowa art. 31 ust. 3 niniejszej ustawy; mowa art. 50 pkt 1, stają się odpowiednio Fundusz Gwarantowanych Świadczeń Pracowniczych reprezentowany przez Dyrektora Krajowego Biura Funduszu Gwarantowanych Świadczeń Pracowniczych lub Fundusz Gwarantowanych Świadczeń Pracowniczych reprezentowany przez kierowników Biur Terenowych Funduszu Gwarantowanych Świadczeń Pracowniczych, o których mowa art. 31 ust. 2 i 3 niniejszej ustawy;
+- **2)** Fundusz Gwarantowanych Świadczeń Pracowniczych reprezentowany przez kierowników Biur Terenowych Funduszu Gwarantowanych Świadczeń Pracowniczych, o których mowa art. 12 ust. 5 ustawy, o której mowa art. 50 pkt 1, staje się odpowiednio Fundusz Gwarantowanych Świadczeń Pracowniczych reprezentowany przez kierowników Biur Terenowych Funduszu Gwarantowanych Świadczeń Pracowniczych, o których mowa art. 31 ust. 3 niniejszej ustawy; Terenowych Funduszu Gwarantowanych Świadczeń Pracowniczych, o których mowa art. 12 ust. 5 ustawy, o której mowa art. 50 pkt 1, stają się odpowiednio Fundusz Gwarantowanych Świadczeń Pracowniczych reprezentowany przez Dyrektora Krajowego Biura Funduszu Gwarantowanych Świadczeń Pracowniczych lub Fundusz Gwarantowanych Świadczeń Pracowniczych reprezentowany przez kierowników Biur Terenowych Funduszu Gwarantowanych Świadczeń Pracowniczych, o których mowa art. 31 ust. 2 i 3 niniejszej ustawy;
 - **4)** Krajowe Biuro Funduszu Gwarantowanych Świadczeń Pracowniczych lub Biura Terenowe Funduszu Gwarantowanych Świadczeń Pracowniczych, o których mowa art. 12 ust. 4 ustawy, o której mowa art. 50 pkt 1, stają się odpowiednio Fundusz Gwarantowanych Świadczeń Pracowniczych reprezentowany przez Dyrektora Krajowego Biura Funduszu Gwarantowanych Świadczeń Pracowniczych lub odpowiednio Fundusz Gwarantowanych Świadczeń Pracowniczych reprezentowany przez kierowników Biur Terenowych Funduszu Gwarantowanych Świadczeń Pracowniczych, o których mowa art. 31 ust. 2 i 3 niniejszej ustawy.
 
 4. W toczących się postępowaniach administracyjnych i sądowych, których stronami są kierownicy Biur, o których mowa art. 12 ust. 5 ustawy, o której mowa art. 50 pkt 1, stronami stają się z dniem wejścia życie ustawy odpowiednio kierownicy Biur, o których mowa art. 31 ust. 3 niniejszej ustawy.
@@ -535,6 +549,9 @@ z 2025 r. poz. 433), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 20 mar
 **Art. 49.** (pominięty)
 
 **Art. 50.** Traci moc:
+
+- **1)** ustawa z dnia 29 grudnia 1993 r. o ochronie roszczeń pracowniczych razie niewypłacalności pracodawcy (Dz. U. z 2002 r. poz. 85, z późn. zm. );
+- **2)** ustawa z dnia 28 czerwca 1995 r. o zaspokajaniu ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych niektórych świadczeń przysługujących emerytom i rencistom (Dz. U. poz. 436 oraz z 1996 r. poz. 267).
 
 **Art. 51.** Ustawa wchodzi życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia .
 

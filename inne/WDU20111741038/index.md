@@ -8,12 +8,10 @@ pos: 1038
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o samorządzie pielęgniarek i położnych
-
-*USTAWA z dnia 1 lipca 2011 r.*
+# Ustawa z dnia 1 lipca 2011 r. o samorządzie pielęgniarek i położnych
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2011-07-01 |
 | Data wydania | 2011-08-23 |
+| Wejście w życie | 2012-01-01 |
 | Ostatnia zmiana | 2025-12-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111741038) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1038/text.pdf) |
 
@@ -46,6 +45,17 @@ source: "isap-pdf"
 
 **Art. 3.** Ilekroć w ustawie jest mowa o:
 
+- **1)** izbie – należy przez to rozumieć okręgową izbę oraz Naczelną Izbę;
+- **2)** radzie – należy przez to rozumieć okręgową radę pielęgniarek i położnych oraz Naczelną Radę Pielęgniarek i Położnych;
+- **3)** okręgowym zjeździe, okręgowej radzie, okręgowym sądzie i okręgowym rzeczniku – należy przez to rozumieć odpowiednio: okręgowy zjazd pielęgniarek i położnych, okręgową radę pielęgniarek i położnych, okręgowy sąd pielęgniarek i położnych oraz okręgowego rzecznika odpowiedzialności zawodowej;
+- **4)** Krajowym Zjeździe, Naczelnej Radzie, Naczelnym Sądzie i Naczelnym Rzeczniku – należy przez to rozumieć odpowiednio: Krajowy Zjazd Pielęgniarek i Położnych, Naczelną Radę Pielęgniarek i Położnych, Naczelny Sąd Pielęgniarek i Położnych oraz Naczelnego Rzecznika Odpowiedzialności Zawodowej;
+- **5)** rzeczniku odpowiedzialności zawodowej – należy przez to rozumieć okręgowego rzecznika odpowiedzialności zawodowej i Naczelnego Rzecznika Odpowiedzialności Zawodowej;
+- **6)** sądzie pielęgniarek i położnych – należy przez to rozumieć okręgowy sąd pielęgniarek i położnych oraz Naczelny Sąd Pielęgniarek i Położnych;
+- **7)** zawodzie – należy przez to rozumieć zawód pielęgniarki lub położnej;
+- **8)** państwie członkowskim Unii Europejskiej – należy przez to rozumieć również państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym oraz Konfederację Szwajcarską;
+- **9)** obywatelach państw członkowskich Unii Europejskiej – należy przez to rozumieć obywateli państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej, członków ich rodzin w rozumieniu przepisów ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. Nr 144, poz. 1043, z późn. zm.) oraz obywateli państw trzecich posiadających zezwolenie na pobyt rezydenta długoterminowego WE w rozumieniu przepisów ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach (Dz. U. z 2006 r. Nr 234, poz. 1694, z późn. zm.);
+- **10)** podmiocie leczniczym – należy przez to rozumieć podmiot leczniczy, o którym mowa w art. 4 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. Nr 112, poz. 654 i Nr 149, poz. 887).
+
 #### Rozdział 2 Zadania i zasady działania samorządu
 
 **Art. 4.**
@@ -65,8 +75,7 @@ source: "isap-pdf"
 2. Samorząd wykonuje swoje zadania w szczególności przez:
 
 - **1)** stwierdzanie i przyznawanie prawa wykonywania zawodu;
-- **2)** prowadzenie rejestrów na podstawie ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej oraz ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2024 r. poz. 814, z późn. zm. );
-- **2a)** przechowywanie i udostępnianie dokumentacji medycznej w przypadku, o którym mowa w art. 30a ust. 3 pkt 3 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581);
+- **2)** prowadzenie rejestrów na podstawie ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej oraz ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. Nr 174, poz. 1039);
 - **3)** opiniowanie i przedstawianie wniosków w sprawie warunków wykonywania zawodów;
 - **4)** opiniowanie warunków pracy i płacy pielęgniarek i położnych;
 - **5)** opiniowanie i wnioskowanie w sprawach kształcenia zawodowego;
@@ -140,9 +149,7 @@ source: "isap-pdf"
 3. Funkcję:
 
 - **1)** przewodniczącego okręgowej rady, wiceprzewodniczącego okręgowej rady, skarbnika okręgowej rady, przewodniczącego komisji rewizyjnej, przewodniczącego sądu pielęgniarek i położnych, okręgowego rzecznika oraz sekretarza okręgowej rady,
-- **2)** Prezesa Naczelnej Rady, Wiceprezesa Naczelnej Rady, Skarbnika Naczelnej Rady, Przewodniczącego Naczelnej Komisji Rewizyjnej, Przewodniczącego Naczelnego Sądu, Naczelnego Rzecznika oraz Sekretarza Naczelnej Rady – można nieprzerwanie pełnić nie dłużej niż przez 2 następujące po sobie kadencje; pełnienie danej funkcji dłużej niż przez 24 miesiące w danej kadencji przyjmuje się za pełnienie jej przez pełną kadencję.
-
-4. Jeżeli kadencja organów izby, o której mowa w ust. 1, upływa w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii, o których mowa w ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2024 r. poz. 924 i 1897), lub do 30 dni po odwołaniu danego stanu, podlega ona przedłużeniu do czasu wyboru organów izby na nową kadencję, jednak nie dłużej niż do 60 dni od dnia odwołania stanu zagrożenia epidemicznego lub stanu epidemii. Zdanie drugie ust. 1 stosuje się.
+- **2)** Prezesa Naczelnej Rady, Wiceprezesa Naczelnej Rady, Skarbnika Naczelnej Rady, Przewodniczącego Naczelnej Komisji Rewizyjnej, Przewodniczącego Naczelnego Sądu, Naczelnego Rzecznika oraz Sekretarza Naczelnej Rady można nieprzerwanie pełnić nie dłużej niż przez 2 następujące po sobie kadencje; pełnienie danej funkcji dłużej niż przez 24 miesiące w danej kadencji przyjmuje się za pełnienie jej przez pełną kadencję.
 
 **Art. 9.**
 
@@ -163,7 +170,7 @@ source: "isap-pdf"
 - **3)** wyborów osób na funkcje w organach izb;
 - **4)** reprezentowania izb przez osoby pełniące funkcje w ich organach.
 
-2. Minister właściwy do spraw zdrowia może zaskarżyć do Sądu Najwyższego pod zarzutem niezgodności z prawem uchwałę organu izby w terminie 3 miesięcy od dnia jej otrzymania. Do rozpoznania skargi stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841 oraz z 2025 r. poz. 620, 1172, 1302 i 1518) o postępowaniu nieprocesowym.
+2. Minister właściwy do spraw zdrowia może zaskarżyć do Sądu Najwyższego pod zarzutem niezgodności z prawem uchwałę organu izby w terminie 3 miesięcy od dnia jej otrzymania. Do rozpoznania skargi stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.) o postępowaniu nieprocesowym.
 
 3. Sąd Najwyższy utrzymuje zaskarżoną uchwałę w mocy lub ją uchyla i przekazuje sprawę do ponownego rozpoznania właściwemu organowi samorządu, ustalając wytyczne co do sposobu jej załatwienia.
 
@@ -176,7 +183,7 @@ source: "isap-pdf"
 7. Przepisów ust. 1–6 nie stosuje się do uchwał:
 
 - **1)** podejmowanych w postępowaniu w zakresie odpowiedzialności zawodowej pielęgniarek i położnych;
-- **2)** do których na podstawie odrębnych przepisów stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769), odnoszące się do decyzji administracyjnych.
+- **2)** do których na podstawie odrębnych przepisów stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.), odnoszące się do decyzji administracyjnych.
 
 #### Rozdział 3 Prawa i obowiązki członków samorządu
 
@@ -209,7 +216,7 @@ source: "isap-pdf"
 - **1)** zawieszonych w prawie wykonywania zawodu na podstawie art. 27 ust. 4 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej lub
 - **2)** wobec których sąd orzekł prawomocnie środek karny pozbawienia praw publicznych lub środek karny polegający na zakazie wykonywania zawodu albo sąd lub prokurator wydał postanowienie o zastosowaniu środka zapobiegawczego w postaci zawieszenia wykonywania zawodu, lub
 - **3)** skazanych prawomocnym wyrokiem sądu za popełnione umyślnie przestępstwo ścigane z oskarżenia publicznego, lub
-- **4)** ukaranych jedną z kar wymienionych w art. 60 ust. 1 pkt 2–8 – do czasu upływu terminu zatarcia kary lub upływu terminu, na który został orzeczony środek zabezpieczający.
+- **4)** ukaranych jedną z kar wymienionych w art. 60 ust. 1 pkt 2–8 do czasu upływu terminu zatarcia kary lub upływu terminu, na który został orzeczony środek zabezpieczający.
 
 3. Bierne prawo wyborcze nie przysługuje członkom izb, którzy za okres co najmniej jednego roku w okresie ostatnich pięciu lat przed wyborami nie wykonali obowiązku opłacenia składki członkowskiej, do dnia opłacenia tej składki.
 
@@ -264,14 +271,14 @@ source: "isap-pdf"
 
 1. Na wniosek okręgowej rady albo jej przewodniczącego lub Naczelnej Rady albo jej Prezesa pracodawca jest obowiązany zwolnić od pracy pracownika będącego członkiem organu izby lub wykonującego czynności na rzecz izby, bez prawa do wynagrodzenia.
 
-2. Naczelna Rada określa zasady i tryb kompensacji wynagrodzenia przez organy samorządu na czas zwolnień od pracy, o których mowa w ust. 1, oraz tryb zwrotu kosztów podróży i innych uzasadnionych wydatków poniesionych przez członka w związku z wykonywaniem czynności na rzecz izby, biorąc pod uwagę przepisy wydane na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807 i 1423).
+2. Naczelna Rada określa zasady i tryb kompensacji wynagrodzenia przez organy samorządu na czas zwolnień od pracy, o których mowa w ust. 1, oraz tryb zwrotu kosztów podróży i innych uzasadnionych wydatków poniesionych przez członka w związku z wykonywaniem czynności na rzecz izby, biorąc pod uwagę przepisy wydane na podstawie art. 775 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.).
 
 **Art. 17.**
 
 1. Pracodawca nie może, bez zgody właściwej rady, wypowiedzieć lub rozwiązać umowy o pracę ani wypowiedzieć warunków pracy lub płacy pielęgniarce lub położnej:
 
 - **1)** będącej członkiem organu izby, o którym mowa w art. 6 ust. 1 pkt 2–5 i art. 7 ust. 1 pkt 2–5,
-- **2)** pełniącej funkcję zastępcy rzecznika odpowiedzialności zawodowej – w czasie jej pełnienia oraz w okresie jednego roku po ustaniu kadencji.
+- **2)** pełniącej funkcję zastępcy rzecznika odpowiedzialności zawodowej w czasie jej pełnienia oraz w okresie jednego roku po ustaniu kadencji.
 
 2. Pracodawca może wypowiedzieć warunki pracy lub płacy bez zgody właściwej rady, jeżeli zachodzą przesłanki określone w art. 43 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
@@ -296,6 +303,19 @@ source: "isap-pdf"
 5. Nadzwyczajny Krajowy Zjazd zwołuje się w terminie 3 miesięcy od dnia wpłynięcia wniosku.
 
 **Art. 20.** Krajowy Zjazd, w drodze uchwały, w szczególności:
+
+- **1)** określa zasady etyki zawodowej;
+- **2)** zajmuje stanowisko w sprawie kierunków rozwoju pielęgniarstwa i położnictwa;
+- **3)** przyjmuje program działania samorządu;
+- **4)** określa regulaminy organów Naczelnej Izby i ramowe regulaminy organów okręgowych izb;
+- **5)** ustala regulamin wyborów do organów izb oraz tryb odwoływania ich członków;
+- **6)** ustala liczbę członków organów Naczelnej Izby i liczbę zastępców Naczelnego Rzecznika;
+- **7)** wybiera Prezesa i pozostałych członków Naczelnej Rady, Przewodniczącego i pozostałych członków Naczelnej Komisji Rewizyjnej i Naczelnego Sądu oraz Naczelnego Rzecznika i jego zastępców;
+- **8)** uchwala zasady gospodarki finansowej Naczelnej Izby;
+- **9)** uchwala szczegółowy sposób przeprowadzania wizytacji, w tym sposób wyboru osób wykonujących czynności wizytacyjne;
+- **10)** rozpatruje i zatwierdza sprawozdania organów Naczelnej Izby;
+- **11)** określa wysokość i częstotliwość wpłat składki członkowskiej oraz zasady jej podziału;
+- **12)** udziela absolutorium Naczelnej Radzie.
 
 **Art. 21.**
 
@@ -338,7 +358,21 @@ source: "isap-pdf"
 
 **Art. 24.** Naczelna Komisja Rewizyjna:
 
+- **1)** kontroluje działalność finansową i gospodarczą Naczelnej Rady;
+- **2)** przedstawia Krajowemu Zjazdowi sprawozdanie wraz z wnioskiem w sprawie absolutorium dla Naczelnej Rady;
+- **3)** przedstawia Naczelnej Radzie corocznie informacje o wynikach przeprowadzonych kontroli;
+- **4)** sprawuje nadzór nad działalnością okręgowych komisji rewizyjnych.
+
 **Art. 25.** Naczelny Sąd:
+
+- **1)** rozpoznaje sprawy z zakresu odpowiedzialności zawodowej;
+- **2)** rozpatruje zażalenia w przypadkach przewidzianych w ustawie;
+- **3)** dokonuje wyboru zastępców Przewodniczącego Naczelnego Sądu spośród członków tego Sądu;
+- **4)** składa Naczelnej Radzie okresowe informacje o stanie spraw z zakresu odpowiedzialności zawodowej;
+- **5)** składa Krajowemu Zjazdowi sprawozdanie kadencyjne;
+- **6)** rozpoznaje odwołania od orzeczeń okręgowych sądów;
+- **7)** orzeka o wznowieniu postępowania w przedmiocie odpowiedzialności zawodowej;
+- **8)** przeprowadza szkolenia dla składów okręgowych sądów.
 
 **Art. 26.**
 
@@ -386,9 +420,24 @@ source: "isap-pdf"
 
 **Art. 30.** Okręgowy zjazd, w drodze uchwały, w szczególności:
 
+- **1)** ustala zasady gospodarki finansowej izby oraz uchwala roczny budżet;
+- **2)** rozpatruje i zatwierdza roczne i kadencyjne sprawozdania z działalności okręgowej rady, okręgowej komisji rewizyjnej, okręgowego sądu i okręgowego rzecznika;
+- **3)** ustala liczbę członków oraz szczegółową organizację, zasady i tryb działania organów izby;
+- **4)** wybiera przewodniczącego i pozostałych członków okręgowej rady, okręgowej komisji rewizyjnej i okręgowego sądu oraz okręgowego rzecznika i jego zastępców;
+- **5)** wybiera delegatów na Krajowy Zjazd;
+- **6)** odwołuje członków organów izby przed upływem kadencji;
+- **7)** udziela absolutorium ustępującej okręgowej radzie;
+- **8)** podejmuje uchwały w sprawach istotnych dla zawodów pielęgniarki i położnej oraz w innych sprawach objętych zakresem działania okręgowej izby.
+
 **Art. 31.** Okręgowa rada kieruje działalnością okręgowej izby i wykonuje zadania samorządu na obszarze działania izby, w szczególności:
 
-**Art. 31a.** W okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii, o których mowa w ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, okręgowa rada, po podjęciu uchwały o braku możliwości przeprowadzenia okręgowego zjazdu w związku z ogłoszeniem takiego stanu, realizuje zadania, o których mowa w art. 30 pkt 1, w danym roku.
+- **1)** wykonuje uchwały okręgowego zjazdu;
+- **2)** stwierdza oraz przyznaje prawo wykonywania zawodu;
+- **3)** prowadzi rejestr pielęgniarek i rejestr położnych;
+- **4)** powołuje komisje i zespoły problemowe i kieruje ich pracą;
+- **5)** prowadzi bieżące sprawy izby i wykonuje zadania zlecone przez Naczelną Radę;
+- **6)** składa roczne i kadencyjne sprawozdania z działalności oraz z wykonania budżetu przed okręgowym zjazdem;
+- **7)** współpracuje z terenowymi organami administracji rządowej oraz z jednostkami samorządu terytorialnego.
 
 **Art. 32.**
 
@@ -400,7 +449,16 @@ source: "isap-pdf"
 
 **Art. 33.** Okręgowa komisja rewizyjna:
 
+- **1)** kontroluje działalność finansową i gospodarczą okręgowej rady;
+- **2)** składa sprawozdania okręgowemu zjazdowi i Naczelnej Komisji Rewizyjnej;
+- **3)** występuje z wnioskiem w sprawie udzielenia absolutorium okręgowej radzie.
+
 **Art. 34.** Okręgowy sąd:
+
+- **1)** rozpatruje sprawy z zakresu odpowiedzialności zawodowej wniesione przez okręgowego rzecznika;
+- **2)** dokonuje wyboru zastępców przewodniczącego okręgowego sądu spośród członków tego sądu;
+- **3)** składa okręgowej radzie okresowe informacje o stanie prowadzonych spraw;
+- **4)** składa okręgowemu zjazdowi roczne i kadencyjne sprawozdania.
 
 **Art. 35.**
 
@@ -730,7 +788,7 @@ source: "isap-pdf"
 
 2. Odwołanie, o którym mowa w ust. 1, wnosi się za pośrednictwem okręgowego sądu, który wydał zaskarżone orzeczenie.
 
-3. Cofnięcie odwołania przez składającą je stronę przed rozpoczęciem rozprawy odwoławczej wiąże Naczelny Sąd, który pozostawia odwołanie bez rozpoznania, o ile nie zachodzą przesłanki z art. 439 § 1 pkt 1, 2 i 5–10 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, 304, 1178 i 1420).
+3. Cofnięcie odwołania przez składającą je stronę przed rozpoczęciem rozprawy odwoławczej wiąże Naczelny Sąd, który pozostawia odwołanie bez rozpoznania, o ile nie zachodzą przesłanki z art. 439 § 1 pkt 1, 2 i 5–10 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.).
 
 **Art. 69.**
 
@@ -750,11 +808,11 @@ source: "isap-pdf"
 
 **Art. 73.**
 
-1. Od prawomocnego orzeczenia Naczelnego Sądu, wydanego w drugiej instancji, kończącego postępowanie w przedmiocie odpowiedzialności zawodowej, stronom, ministrowi właściwemu do spraw zdrowia i Prezesowi Naczelnej Rady przysługuje kasacja do Sądu Najwyższego w terminie 2 miesięcy od dnia doręczenia orzeczenia. Strony, minister właściwy do spraw zdrowia i Prezes Naczelnej Rady wnoszą kasację do Sądu Najwyższego za pośrednictwem Naczelnego Sądu.
+1. Od prawomocnego orzeczenia sądu pielęgniarek i położnych kończącego postępowanie w przedmiocie odpowiedzialności zawodowej stronom, ministrowi właściwemu do spraw zdrowia i Prezesowi Naczelnej Rady przysługuje kasacja do Sądu Najwyższego w terminie 2 miesięcy od dnia doręczenia orzeczenia. Strony, minister właściwy do spraw zdrowia i Prezes Naczelnej Rady wnoszą kasację do Sądu Najwyższego za pośrednictwem Naczelnego Sądu.
 
-2. (uchylony)
+2. Strona, która nie zaskarżyła orzeczenia sądu pielęgniarek i położnych pierwszej instancji, nie może wnieść kasacji od orzeczenia sądu odwoławczego, jeżeli orzeczenie pierwszej instancji utrzymano w mocy lub zmieniono na jej korzyść.
 
-3. (uchylony)
+3. Ograniczenie, o którym mowa w ust. 2, nie dotyczy uchybień wymienionych w art. 439 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
 
 4. Kasacja może być wniesiona z powodu uchybień wymienionych w art. 439 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego lub innego rażącego naruszenia prawa. Kasacja może być wniesiona również z powodu niewspółmierności kary.
 
@@ -767,6 +825,11 @@ source: "isap-pdf"
 8. Kasacja powinna być sporządzona i podpisana przez obrońcę będącego adwokatem albo radcą prawnym albo pełnomocnika będącego adwokatem albo radcą prawnym.
 
 **Art. 74.** Postępowanie w przedmiocie odpowiedzialności zawodowej zakończone prawomocnym orzeczeniem sądu pielęgniarek i położnych wznawia się, jeżeli:
+
+- **1)** w związku z postępowaniem dopuszczono się przestępstwa, a istnieje uzasadniona podstawa do przyjęcia, że mogło to mieć wpływ na treść orzeczenia;
+- **2)** po wydaniu orzeczenia ujawnią się nowe fakty lub dowody nieznane przedtem temu sądowi, wskazujące na to, że: osoba obwiniona nie popełniła czynu albo jej czyn nie stanowił przewinienia zawodowego lub nie podlegał karze, sąd ten umorzył postępowanie, błędnie przyjmując popełnienie przez osobę obwinioną zarzucanego jej czynu.
+    - **a)**
+    - **b)**
 
 **Art. 75.** Postępowanie w przedmiocie odpowiedzialności zawodowej zakończone prawomocnym orzeczeniem sądu pielęgniarek i położnych można wznowić w przypadku uchylenia lub istotnej zmiany treści prawomocnego orzeczenia, z powodu którego zostało ono umorzone w trybie art. 59 ust. 1.
 
@@ -855,13 +918,19 @@ source: "isap-pdf"
 - **2)** po upływie 3 lat od dnia uprawomocnienia się orzeczenia o ukaraniu karą wymienioną w art. 60 ust. 1 pkt 2,
 - **3)** po upływie 3 lat od dnia wykonania orzeczenia o ukaraniu karami wymienionymi w art. 60 ust. 1 pkt 3–6,
 - **4)** po upływie 5 lat od dnia wykonania orzeczenia o ukaraniu karą wymienioną w art. 60 ust. 1 pkt 7,
-- **5)** po upływie 15 lat od dnia uprawomocnienia się orzeczenia o ukaraniu karą wymienioną w art. 60 ust. 1 pkt 8 – jeżeli pielęgniarka lub położna nie zostaną w tym czasie ponownie ukarane lub nie zostaną wszczęte przeciwko nim postępowania w przedmiocie odpowiedzialności zawodowej.
+- **5)** po upływie 15 lat od dnia uprawomocnienia się orzeczenia o ukaraniu karą wymienioną w art. 60 ust. 1 pkt 8 jeżeli pielęgniarka lub położna nie zostaną w tym czasie ponownie ukarane lub nie zostaną wszczęte przeciwko nim postępowania w przedmiocie odpowiedzialności zawodowej.
 
 2. Zatarcie ukarania następuje przez usunięcie z rejestru ukaranych pielęgniarek i położnych wpisu o ukaraniu.
 
 **Art. 87.** Minister właściwy do spraw zdrowia w porozumieniu z Ministrem Sprawiedliwości, po zasięgnięciu opinii Naczelnej Rady określi, w drodze rozporządzenia:
 
+- **1)** sposób i tryb prowadzenia rejestru ukaranych pielęgniarek i położnych,
+- **2)** sposób i tryb wykonania prawomocnych orzeczeń sądów pielęgniarek i położnych kierując się potrzebą respektowania praw uczestników postępowania oraz specyfiką i złożonością postępowań w przedmiocie odpowiedzialności zawodowej.
+
 **Art. 88.** W sprawach nieuregulowanych w ustawie do postępowania w przedmiocie odpowiedzialności zawodowej stosuje się odpowiednio przepisy:
+
+- **1)** ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego dotyczące postępowania uproszczonego; nie stosuje się przepisów o oskarżycielu prywatnym, powodzie cywilnym, przedstawicielu społecznym, o postępowaniu przygotowawczym oraz środkach przymusu, z wyjątkiem przepisów o karze pieniężnej;
+- **2)** rozdziałów I-III i art. 53 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.).
 
 #### Rozdział 7 Majątek i gospodarka finansowa
 
@@ -888,15 +957,12 @@ source: "isap-pdf"
 
 - **1)** prowadzenie rejestrów pielęgniarek i położnych, w tym rejestrów pielęgniarek i położnych czasowo i okazjonalnie wykonujących zawód;
 - **2)** stwierdzanie oraz przyznawanie prawa wykonywania zawodu;
-- **2a)** prowadzenie postępowań związanych z zawieszaniem i pozbawianiem prawa wykonywania zawodu oraz ograniczaniem w wykonywaniu zawodu;
 - **3)** wydawanie prawa wykonywania zawodu;
 - **4)** wystawianie i wydawanie członkom samorządu zaświadczeń stwierdzających, że pielęgniarka lub położna posiada kwalifikacje zgodne z wymaganiami wynikającymi z przepisów prawa Unii Europejskiej oraz że posiadany dyplom, świadectwo lub inny dokument potwierdzający posiadanie formalnych kwalifikacji odpowiada dokumentom potwierdzającym formalne kwalifikacje pielęgniarki lub położnej wynikające z przepisów prawa Unii Europejskiej, oraz innych zaświadczeń wymaganych przez odpowiednie władze lub organizacje państw członkowskich Unii Europejskiej zgodnie z przepisami prawa Unii Europejskiej;
-- **4a)** prowadzenie postępowań w przedmiocie niezdolności pielęgniarki lub położnej do wykonywania zawodu;
 - **5)** działalność prewencyjną w zakresie odpowiedzialności zawodowej;
 - **6)** prowadzenie rejestru ukaranych;
 - **7)** działalność informacyjną, o której mowa w art. 4 ust. 2 pkt 12;
-- **8)** koszty postępowania w przedmiocie odpowiedzialności zawodowej zgodnie z art. 67 ust. 1 i 2;
-- **9)** działania, o których mowa w art. 4 ust. 2 pkt 2a.
+- **8)** koszty postępowania w przedmiocie odpowiedzialności zawodowej zgodnie z art. 67 ust. 1 i 2.
 
 2. Minister właściwy do spraw zdrowia może, w ramach środków budżetu państwa, z części, której jest dysponentem, dofinansować koszty związane z prowadzeniem Centralnego Rejestru Pielęgniarek i Położnych.
 
@@ -912,7 +978,50 @@ source: "isap-pdf"
 
 #### Rozdział 8 Przepisy zmieniające, przejściowe i końcowe
 
-**Art. 93.** (pominięty)
+**Art. 93.** W ustawie z dnia 19 kwietnia 1991 r. o samorządzie pielęgniarek i położnych (Dz. U. Nr 41, poz. 178, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** art. 6 otrzymuje brzmienie: „
+
+1. Organy kolegialne izb podejmujące daną uchwałę są obowiązane przekazywać ministrowi właściwemu do spraw zdrowia, w terminie 21 dni od dnia ich podjęcia, uchwały dotyczące:
+
+- **1)** regulaminu wyborów do organów izb,
+- **2)** regulaminów organów izb,
+- **3)** wyborów osób na funkcje w organach izb,
+- **4)** reprezentowania izb przez osoby pełniące funkcje w ich organach.
+
+2. Minister właściwy do spraw zdrowia może zaskarżyć do Sądu Najwyższego pod zarzutem niezgodności z prawem uchwałę organu izby w terminie 3 miesięcy od dnia jej otrzymania. Do rozpoznania skargi stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.) o postępowaniu nieprocesowym.
+
+3. Sąd Najwyższy utrzymuje zaskarżoną uchwałę w mocy lub ją uchyla i przekazuje sprawę do ponownego rozpoznania właściwemu organowi samorządu, ustalając wytyczne co do sposobu jej załatwienia.
+
+4. Minister właściwy do spraw zdrowia w celu realizacji uprawnienia, o którym mowa w ust. 2, lub w przypadku nienadesłania uchwały, o której mowa w ust. 1, ma prawo zwrócić się do organu izby z żądaniem przekazania podjętej przez ten organ uchwały. Organ izby przekazuje uchwałę w terminie 14 dni od dnia otrzymania żądania.
+
+5. Minister właściwy do spraw zdrowia może zwrócić się do Krajowego Zjazdu lub do Naczelnej Rady o podjęcie uchwały w sprawie należącej do właściwości samorządu.
+
+6. Wniosek, o którym mowa w ust. 5, powinien rozpatrzyć najbliższy Krajowy Zjazd, a Naczelna Rada – na najbliższym posiedzeniu, jednak nie później niż w terminie 3 miesięcy od dnia jego wpływu.
+
+7. Przepisów ust. 1–6 nie stosuje się do uchwał:
+
+- **1)** podejmowanych w postępowaniu w zakresie odpowiedzialności zawodowej pielęgniarek i położnych,
+- **2)** do których na podstawie odrębnych przepisów stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.), odnoszące się do decyzji administracyjnych. ” ;
+- **2)** art. 14 otrzymuje brzmienie: „
+
+1. Kadencja organów izby trwa 4 lata. Organy te działają do czasu pierwszego posiedzenia nowo wybranych organów.
+
+2. Wyboru zastępcy rzecznika odpowiedzialności zawodowej dokonuje się na okres kadencji rzecznika odpowiedzialności zawodowej. Zastępca rzecznika odpowiedzialności zawodowej pełni funkcję do czasu wyboru nowego zastępcy rzecznika odpowiedzialności zawodowej.
+
+3. Funkcję:
+
+- **1)** przewodniczącego okręgowej rady, wiceprzewodniczącego okręgowej rady, skarbnika okręgowej rady, przewodniczącego komisji rewizyjnej, przewodniczącego sądu pielęgniarek i położnych, okręgowego rzecznika oraz sekretarza okręgowej rady,
+- **2)** Prezesa Naczelnej Rady, Wiceprezesa Naczelnej Rady, Skarbnika Naczelnej Rady, Przewodniczącego Naczelnej Komisji Rewizyjnej, Przewodniczącego Naczelnego Sądu, Naczelnego Rzecznika oraz Sekretarza Naczelnej Rady można nieprzerwanie pełnić nie dłużej niż przez 2 następujące po sobie kadencje; pełnienie danej funkcji dłużej niż przez 24 miesiące w danej kadencji przyjmuje się za pełnienie jej przez pełną kadencję. ” ;
+- **3)** art. 17 otrzymuje brzmienie: „
+
+1. W sprawach wynikających z przepisów prawa organy kolegialne izb podejmują uchwały. Po podjęciu uchwały organy izby są obowiązane do niezwłocznego sporządzenia jej tekstu na piśmie.
+
+2. Uchwały, o których mowa w ust. 1, są podejmowane zwykłą większością głosów, w obecności co najmniej połowy członków danego organu.
+
+3. Uchwałę okręgowej rady lub uchwałę Naczelnej Rady podpisuje przewodniczący lub wiceprzewodniczący oraz członek rady i odpowiednio Prezes Naczelnej Rady lub wiceprezes oraz członek prezydium.
+
+4. W sprawach wynikających z przepisów prawa organy samorządu mają prawo do używania wizerunku orła, określonego na podstawie przepisów o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych. ” .
 
 **Art. 94.**
 
@@ -950,7 +1059,7 @@ source: "isap-pdf"
 
 2. Czynności w sprawach, o których mowa w ust. 1, dokonane na podstawie przepisów dotychczasowych są skuteczne.
 
-**Art. 99.** Traci moc ustawa z dnia 19 kwietnia 1991 r. o samorządzie pielęgniarek i położnych (Dz. U. poz. 178, z późn. zm. ).
+**Art. 99.** Traci moc ustawa z dnia 19 kwietnia 1991 r. o samorządzie pielęgniarek i położnych (Dz. U. Nr 41, poz. 178, z późn. zm.).
 
-**Art. 100.** Ustawa wchodzi w życie z dniem 1 stycznia 2012 r., z wyjątkiem art. 93 , który wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+**Art. 100.** Ustawa wchodzi w życie z dniem 1 stycznia 2012 r., z wyjątkiem art. 93, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

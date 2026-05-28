@@ -8,10 +8,10 @@ pos: 987
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 lipca 2015 r.
+# Rozporządzenie Ministra Środowiskaz dnia 1 lipca 2015 r. w sprawie dokumentacji geologicznej złoża kopaliny, z wyłączeniem złoża węglowodorów
 
 | Pole | Wartość |
 |---|---|
@@ -22,88 +22,270 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2015-07-01 |
 | Data wydania | 2015-07-15 |
+| Wejście w życie | 2015-07-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000987) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/987/text.pdf) |
 
-KARTA TYTUŁOWA DOKUMENTACJI GEOLOGICZNEJ ZŁOŻA KOPALINY Finansujący dokumentację: ........................................................................................
-Użytkownik złoża: .....................................................................................................
-Wykonawca dokumentacji: .........................................................................................
-Dokumentacja geologiczna złoża ............................. .....................................
-miejscowość: ...................................................
-gmina: .....................................................................
-powiat: .....................................................................
-województwo: ..........................................................
-dla obszarów morskich Rzeczypospolitej Polskiej region: .......................................................................
-Sporządzający dokumentację: ....................................................................................................................
-ZESTAWIENIE ZASOBÓW GEOLOGICZNYCH .................... W ZŁOŻU .............................
-OBLICZONYCH WEDŁUG STANU NA DZIEŃ 31 GRUDNIA .. R.
-Zasoby bilansowe [tys. ton / tys. m ] razem A B C C D Kopalina ogółem Zasoby pozabilansowe [tys. ton / tys. m ] razem A B C C D Kopalina ogółem Sporządzający dokumentację: ....................................................................................................................
-ZESTAWIENIE ZASOBÓW WYDOBYWALNYCH METANU WYSTĘPUJĄCEGO W ZŁOŻU WĘGLA KAMIENNEGO ..........................
-JAKO KOPALINA TOWARZYSZĄCA WEDŁUG STANU ROZPOZNANIA NA DZIEŃ 31 GRUDNIA  R.
-Kopalina zasoby bilansowe [mln m ] rodzaj/jakość razem A B C metan sorbowany metan wolny Razem zasoby bilansowe Kopalina zasoby pozabilansowe [mln m ] rodzaj/jakość razem A B C metan sorbowany metan wolny Razem zasoby pozabilansowe Sporządzający dokumentację: ....................................................................................................................
-KARTA INFORMACYJNA ZŁOŻA KOPALINY
-1. Nazwa złoża:
-2. Kod złoża (w systemie MIDAS):
-3. Kopalina główna:
-4. Położenie złoża: miejscowość: ......... gmina: ......... powiat: ......... województwo: ............
-dla obszarów morskich: region (na przykład: basen, ławica, zatoka, głębia): .
-5. Użytkownik złoża (pełna nazwa): adres: telefon: faks: e-mail:
-6. Nadzór górniczy:
-7. Koncesję na wydobywanie wydaje: minister: marszałek województwa: starosta:
-8. Koncesja na wydobywanie (dla złóż zagospodarowanych): nr koncesji: wydana przez: wydana dnia: termin ważności:
-9. Obszar i teren górniczy (nazwa obszaru): nr decyzji: wydana przez: termin ważności: status:
-10. Projekt zagospodarowania złoża / dodatek nr: nr decyzji/zawiadomienia o przyjęciu: wydana(-ne) przez: wydana(-ne) dnia:
-11. Powierzchnia dokumentowanego obszaru:  ha Powierzchnia udokumentowanego złoża: ...... ha grunty rolne (I–IV klasa bonitacyjna): .. ha grunty rolne (V–VI klasa bonitacyjna): ..... ha zabudowa przemysłowa: .. ha grunty komunalne: .. ha inne (na przykład: parki, rezerwaty, strefy ochronne ujęć wód): .. ha
-13. Dopływ wód do wyrobiska: ..... m /min
-14. Poziomy wodonośne: głębokość ciśnienie stopień mineralizacji rodzaj wód klasa wód od  do  od  do  od  do ... ........ .
-15. Możliwe zagrożenie środowiska przez wydobywanie i przeróbkę kopaliny:
-16. Stan zagospodarowania złoża:
-17. Data rozpoczęcia eksploatacji:
-18. Data zakończenia eksploatacji:
-19. Możliwe zagrożenia eksploatacji: tąpaniami ... stopnia metanowe ... kategorii wybuchami pyłów ... klasy pyłowe ... stopnia wodne ... stopnia inne ....
-20. Stratygrafia spągu złoża:
-21. Stratygrafia stropu złoża:
-22. Podtypy kopaliny:
-23. Parametry jakościowe poszczególnych podtypów kopaliny: parametr: wartość minimalna: wartość maksymalna: wartość średnia: jednostka: .......... ................... ....................... ......................... ................
-24. Kopaliny towarzyszące:
-25. Współwystępujące użyteczne pierwiastki śladowe:
-26. Forma złoża:
-27. Grupa złoża:
-28. Ilość pokładów: wartość wartość wartość minimalna maksymalna średnia
-29. Grubość nadkładu (N) : od ...... do ...... .........
-30. Miąższość złoża (Z) : od ...... do ...... .........
-31. Głębokość spągu złoża: od ...... do ...... .........
-32. Stosunek N/Z (tylko dla złóż eksploatowanych odkrywkowo) .............
-33. Metoda obliczania zasobów:
-34. Możliwe kierunki wykorzystania kopaliny:
-35. Litologia skał otaczających złoże: ......................................................................................................................
-KARTA INFORMACYJNA DOKUMENTACJI/DODATKU (NR KOLEJNY) DO DOKUMENTACJI GEOLOGICZNEJ ZŁOŻA .................... ..........................
-Data rozpoczęcia badań: .....................................................
-Data zakończenia badań: ....................................................
-Liczba wykonanych wierceń: .... łączny metraż: .... wykonawca: ...........................................
-głębokość wierceń: od: .................. do: ...................
-profilowanie otworów: wykonawca .............................................................................................
-Opróbowanie: wykonawca .........................................................................................................
-Miejsce przechowywania: próbek geologicznych: ...............................................................................................................
-materiałów źródłowych przekazanych do archiwum: .................................................................
-Badania geofizyczne w otworach: rodzaj: ...... liczba: ...... wykonawca: ......................................................................................
-Badania geofizyczne powierzchniowe: rodzaj: ....... liczba: ...... wykonawca: .........................................................................................
-Badania laboratoryjne: rodzaj: ........ liczba: ...... nazwa laboratorium, wykonawca: .......................................................
-Badania hydrogeologiczne: rodzaj: ...... liczba: ..... wykonawca: ..........................................................................................
-Badania gazowe: wykonawca: ...................................................................................................
-Obliczanie zasobów: wykonawca: .............................................................................................
-Pomiary geodezyjne: wykonawca: .......................................................................
-Zespół dokumentujący: ..............................................................................................................
-Sporządzający dokumentację: ..............................................................................................................................
-ZESTAWIENIE DAT I NUMERÓW DECYZJI ZATWIERDZAJĄCYCH LUB ZAWIADOMIEŃ O PRZYJĘCIU BEZ ZASTRZEŻEŃ WCZEŚNIEJSZYCH DOKUMENTACJI GEOLOGICZNYCH ZŁOŻA KOPALINY I DODATKÓW DO DOKUMENTACJI GEOLOGICZNEJ ZŁOŻA KOPALINY .................... ..........................
-Data zatwierdzenia Udokumentowane zasoby albo przyjęcia bez Tytuł Kategoria [tys. ton / tys. m zastrzeżeń oraz opracowania rozpoznania numer decyzji lub zawiadomienia ] bilansowe pozabilansowe Sporządzający dokumentację: ....................................................................................................................
-KARTA INFORMACYJNA ZŁOŻA KOPALINY, O KTÓRYM MOWA W ART. 22 UST. 2 USTAWY Z DNIA 9 CZERWCA 2011 R. PRAWO GEOLOGICZNE I GÓRNICZE 1 Nazwa złoża 2 Kopalina główna 3 Kopaliny towarzyszące 4 Położenie złoża: miejscowość, gmina, powiat, województwo 5 Użytkownik złoża: adres, telefon, faks 6 Właściciel terenu złoża 7 Stan zagospodarowania złoża 8 Klasa gleb na obszarze złoża 9 Sposób użytkowania powierzchni na terenie złoża 10 Obiekty i obszary chronione w sąsiedztwie złoża 11 Zagrożenia środowiska przez wydobycie kopaliny 12 Sposób rozpoznania złoża 13 Budowa geologiczna złoża: forma, sposób ułożenia, wiek i rodzaj utworów budujących i otaczających złoże, rodzaj nadkładu 14 Powierzchnia złoża [m ] 15 Grubość nadkładu (N) od ..... do ..... średnio .......
-16 Miąższość złoża (Z) od ..... do ..... średnio ..........
-17 Głębokość spągu od ..... do ..... średnio ..............
-18 Stosunek N/Z od ..... do .....
-19 Parametry jakościowe kopaliny wartość minimalna: .... wartość maksymalna: ....
-wartość średnia: .....
-20 Poziomy wodonośne: głębokość od ....... do .......
-21 Obliczona wielkość zasobów w [m ] lub w [t] 22 Przewidywany sposób eksploatacji 23 Przewidywana wielkość rocznego wydobycia 24 Przewidywany sposób przeróbki kopaliny 25 Kierunki wykorzystania kopaliny 26 Przewidywany sposób wykorzystania złoża po zakończeniu eksploatacji i jego rekultywacji 27 Inne uwagi (dotyczące złoża i sposobu jego eksploatacji) Sporządzający dokumentację: ....................................................................................................................
-GRANICZNE WARTOŚCI PARAMETRÓW DEFINIUJĄCYCH ZŁOŻE I JEGO GRANICE DLA POSZCZEGÓLNYCH KOPALIN 1 Złoża węgla kamiennego Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość dokumentowania m 1250 2 Minimalna miąższość węgla kamiennego m 0,6 w pokładzie wraz z przerostami o grubości do 30 cm 3 Minimalna średnia ważona wartość opałowa węgla kamiennego w pokładzie wraz z przerostami MJ/kg 15 2 Złoża węgla brunatnego Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość spągu złoża m 350 2 Minimalna miąższość węgla brunatnego m 3 w pokładzie 3 Maksymalny stosunek grubości nadkładu do 12 miąższości złoża 4 Minimalna średnia ważona wartość opałowa MJ/kg 6,5 węgla brunatnego w pokładzie wraz z przerostami, przy wilgotności węgla 50% Metan występujący w złożach węgla kamiennego jako kopalina towarzysząca Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość dokumentowania m do głębokości udokumentowania kopaliny głównej 2 Minimalna metanonośność wyznaczająca m kontur strefy złożowej /t c.s.w. > 2,5 3 Minimalna średnia metanonośność m wydzielonej części złoża /t c.s.w. większa od resztkowej 4 Minimalna miąższość pokładu węgla m 0,1 kamiennego 4 Złoża rud uranu Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość dokumentowania m 1000 2 Minimalna zawartość (U) w próbce konturującej % 0,01 złoże 3 Minimalna średnia zawartość (U) w profilu złoża % 0,01 wraz z przerostami płonnymi 4 Minimalna zasobność złoża (U) kg/m 0,8 5 Złoża torfu Lp. Parametr Jednostka Wartość brzeżna 1 Minimalna miąższość złoża m 1 2 Maksymalny stosunek grubości nadkładu do 0,5 miąższości złoża 3 Maksymalna zawartość popiołu w torfie suchym % 30 Złoża torfu leczniczego (borowiny) Lp. Parametr Jednostka Wartość brzeżna 1 Minimalna miąższość złoża m 1 2 Maksymalny stosunek grubości nadkładu do 0,5 miąższości złoża 3 Maksymalna zawartość składników % 25 nieorganicznych w suchej masie 4 Minimalny stopień rozkładu % 30 (H ) 5 Miano Coli ≥ 1,0 Miano Coli perfringens ≥ 0,1 7 Złoża mułu borowinowego Lp. Parametr Jednostka Wartość brzeżna 1 Minimalna miąższość złoża m 1 2 Maksymalny stosunek grubości nadkładu do 0,5 miąższości złoża 3 Maksymalna zawartość składników % 80 nieorganicznych w suchej masie 4 Minimalny stopień rozkładu % 30 (H ) 5 Miano Coli ≥ 1,0 Miano Coli perfringens ≥ 0,1 8 Złoża rud wanadowo-tytanowo-żelazowych Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość dokumentowania m 1500 2 Minimalna miąższość strefy rudnej m 2,0 3 Minimalna zawartość ekwiwalentna wanadu (jako V O ) z uwzględnieniem zawartości tytanu (jako TiO ) w próbce konturującej złoże (V O ) = (% V O ) + 0,0188 (% TiO ) % 0,6 4 Minimalna średnia ważona zawartość ekwiwalentna wanadu (V O ) % 0,6 w profilu złoża rudnego wraz z przerostami Złoża rud miedzi (pokładowe stratoidalne) Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość spągu złoża m 1500 2 Minimalna zawartość miedzi (Cu) w próbce % 0,5 konturującej złoże 3 Minimalna średnia ważona zawartość ekwiwalentna miedzi (Cu) z uwzględnieniem zawartości srebra (Ag) w profilu złoża wraz z przerostami Cu % 0,5 = (% Cu) + 0,01 (g/t Ag) 4 Minimalna zasobność złoża (Cu ) kg/m 35 10 Złoża rud molibdenowo-wolframowo-miedziowych (porfirowe) Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość dokumentowania m 1200 2 Minimalna zawartość ekwiwalentna molibdenu (Mo) z uwzględnieniem zawartości wolframu (W) i miedzi (Cu) w próbce konturującej interwał rudy Mo % 0,1 = (% Mo) + 1,5 (% W) + 0,2 (% Cu) 3 Minimalna średnia ważona zawartość ekwiwalentna molibdenu Mo % 0,1 w profilu wydzielonej części (bloku) złoża 4 Minimalna zasobność wydzielonej części (bloku) złoża (Mo m% 0,15 ) 11 Złoża rud cynku i ołowiu w formie siarczkowej Lp. Parametr Jednostka Wartość brzeżna 1 Minimalna zawartość cynku i ołowiu (Zn+Pb) % 2 w formie siarczkowej w próbce konturującej złoże, niezależnie od stopnia utlenienia rudy 2 Minimalna średnia ważona zawartość cynku i ołowiu (Zn+Pb) w formie siarczkowej w profilu złoża wraz z przerostami % 2 3 Minimalna zasobność interwału złożowego m% 5 4 Maksymalna głębokość spągu złoża m 500 Złoża rud cynku w formie tlenkowej Lp. Parametr Jednostka Wartość brzeżna 1 Minimalna zawartość cynku (Zn) w próbce % 5 konturującej złoże 2 Minimalna średnia ważona zawartość cynku (Zn) % 5 w profilu złoża wraz z przerostami 3 Minimalna zasobność interwału złożowego m% 10 4 Maksymalna głębokość spągu złoża m 500 13 Złoża złota (pierwotne: żyłowe, skarnowe, stratoidalne) Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość dokumentowania m 1250 2 Minimalna średnia ważona zawartość złota (Au) w profilu złoża wraz z przerostami, a w przypadku obecności miedzi, której średnia zawartość w profilu złoża jest większa od 0,5%, minimalna średnia ważona zawartość ekwiwalentna złota (Au) z uwzględnieniem zawartości miedzi (Cu) i srebra (Ag) Au g/t 2,5 = (g/t Au) + 2 (% Cu) + 0,01 (g/t Ag) 3 Minimalna zasobność złoża (Au), w przypadku obecności miedzi, której średnia zawartość w profilu złoża jest większa od 0,5% (Au g/m ) 5 14 Złoża złota (okruchowe) Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość dokumentowania m 50 2 Minimalna średnia ważona zawartość złota (Au) g/m w profilu złoża wraz z przerostami 0,5 3 Minimalna zasobność złoża (Au) g/m 5 Złoża rud żelaza Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość dokumentowania m 500 2 Minimalna średnia ważona zawartość żelaza % 25 (Fe) w profilu złoża wraz z przerostami 3 Minimalna zasobność złoża (Fe) t/m 2,5 16 Złoża rud niklu (wietrzeniowe) Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość dokumentowania m 100 2 Minimalna zawartość niklu (Ni) w próbce % 0,3 konturującej złoże 3 Minimalna średnia ważona zawartość niklu (Ni) % 0,3 w profilu złoża wraz z przerostami 4 Minimalna zasobność złoża (Ni) kg/m 30 17 Złoża rud cyny (pierwotne stratoidalne) Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość dokumentowania m 500 2 Minimalna zawartość cyny (Sn) w próbce % 0,5 konturującej złoże 3 Minimalna średnia ważona zawartość cyny (Sn) % 0,5 w profilu złoża wraz z przerostami 4 Minimalna zasobność złoża (Sn) m% 1 Złoża rud darniowych miałkich lub kawałkowych, łatwo kruszących się Lp. Parametr Jednostka Wartość brzeżna 1 Minimalna miąższość złoża m 0,1 2 Maksymalny stosunek grubości nadkładu do 5 miąższości złoża 3 Minimalna zawartość Fe O % 35 19 Złoża siarki rodzimej Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość spągu złoża m 400 2 Minimalna zawartość siarki (S) w próbce % 10 konturującej złoże 3 Minimalna średnia zawartość siarki (S) w serii % 10 złożowej 4 Minimalna zasobność złoża (S) m% 75 20 Złoża fosforytów Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość dokumentowania m 400 2 Minimalna średnia zawartość P O % 15 w konkrecjach fosforytowych w profilu złoża 3 Minimalna zasobność konkrecji fosforytowych t/m 1,8 Złoża wysadowe soli kamiennej Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość dokumentowania m 1400 2 Minimalna miąższość złoża wraz z przerostami m 30 3 Minimalna odległość stropu złoża od m 150 zwierciadła solnego (najniżej położonego punktu jego stwierdzenia) 4 Minimalna średnia ważona zawartość NaCl % 80 w profilu złoża 22 Złoża pokładowe soli kamiennej Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość spągu złoża m 1200 2 Minimalna miąższość złoża wraz z przerostami m 30 3 Minimalna średnia ważona zawartość NaCl % 80 w profilu złoża wraz z przerostami 23 Złoża soli potasowych Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość: spągu złoża w złożach pokładowych, dokumentowania w złożach wysadowych m 1200 2 Minimalna miąższość złoża wraz z przerostami m 2 3 Minimalna średnia ważona zawartość K O % 8 w profilu złoża wraz z przerostami Złoża magnezytu Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość dokumentowania m 150 2 Maksymalny stosunek grubości nadkładu do 0,5 miąższości złoża 3 Minimalna miąższość strefy złożowej m 2,0 4 Minimalny uzysk magnezytu z profilu serii % 4,0 złożowej wagowy 5 Minimalna zawartość MgO w magnezycie % 35 25 Złoża barytu Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość dokumentowania m 500 2 Minimalna średnia zawartość BaSO w profilu złoża % 50 3 Minimalna zasobność złoża (BaSO ) m% 30 4 Stosunek wagowy CaF /BaSO < 0,5 26 Złoża barytowo-fluorytowe Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość dokumentowania m 500 2 Minimalna zawartość CaF w profilu złoża % 15 3 Minimalna ekwiwalentna zawartość (BaSO ) z uwzględnieniem zawartości CaF w profilu złoża (BaSO ) = BaSO + CaF % 50 4 Minimalna zasobność złoża [(BaSO ) ] m% 30 5 Stosunek wagowy CaF /BaSO od 0,5 do 1,5 Złoża fluorytu Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość dokumentowania m 500 2 Minimalna zawartość CaF % 20 3 Minimalna zasobność złoża (CaF ) m% 30 4 Stosunek wagowy CaF /BaSO > 1,5 28 Złoża bursztynu Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość dokumentowania m 30 2 Minimalna wydajność bursztynu g/m 40 29 Złoża gipsu Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość spągu złoża m 50 2 Minimalna miąższość złoża m 2 3 Maksymalny stosunek grubości nadkładu do 0,5 miąższości złoża 4 Minimalna zawartość gipsu w profilu złoża % 80 30 Złoża anhydrytu Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość spągu złoża m 400 2 Minimalna miąższość złoża m 5 3 Minimalna zawartość anhydrytu w profilu złoża % 60 Złoża kwarcu żyłowego Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość dokumentowania m 50 (ustala się w stosunku do najniżej położonego punktu terenu w granicach złoża) 2 Minimalna miąższość złoża m 2 3 Minimalna zawartość SiO % 95 4 Maksymalna zawartość Fe O % 1,0 32 Złoża piasków skaleniowo-kwarcowych o punkcie piaskowym powyżej 75% Lp. Parametr Jednostka Wartość brzeżna 1 Minimalna miąższość złoża m 2 2 Maksymalny stosunek grubości nadkładu do 0,3 miąższości złoża 3 Maksymalna zawartość pyłów mineralnych % 10 33 Złoża piasków kwarcowych Lp. Parametr Jednostka Wartość brzeżna 1 Minimalna miąższość złoża m 2 2 Maksymalny stosunek grubości nadkładu do miąższości złoża 0,5 3 Maksymalna zawartość pyłów mineralnych % 5 4 Minimalna zawartość ziaren kwarcu % 90 Złoża żwirowe, żwirowo-piaskowe i piaskowo-żwirowe o punkcie piaskowym poniżej 75% Lp. Parametr Jednostka Wartość brzeżna 1 Minimalna miąższość złoża m 2 2 Maksymalny stosunek grubości nadkładu do 1,0 miąższości złoża 3 Maksymalna zawartość pyłów mineralnych % 15 35 Złoża wapieni dla przemysłu wapienniczego Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość dokumentowania m do głębokości możliwej eksploatacji 2 Maksymalna grubość nadkładu m 15 3 Maksymalny stosunek grubości nadkładu do 0,3 miąższości złoża 4 Minimalna średnia ważona zawartość CaCO % 90 w profilu złoża 36 Złoża wapieni marglistych i margli dla przemysłu cementowego Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość dokumentowania m do głębokości możliwej eksploatacji 2 Maksymalna grubość nadkładu m 15 3 Maksymalny stosunek grubości nadkładu do 0,3 miąższości złoża Złoża dolomitów Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość dokumentowania m do głębokości możliwej eksploatacji 2 Maksymalna grubość nadkładu m 15 3 Maksymalny stosunek grubości nadkładu do 0,3 miąższości złoża 4 Minimalna zawartość MgO % 16 38 Złoża kredy jeziornej i gytii wapiennej Lp. Parametr Jednostka Wartość brzeżna 1 Minimalna miąższość złoża m 1 2 Maksymalny stosunek grubości nadkładu do 0,3 miąższości złoża 3 Minimalna zasadowość ogólna w przeliczeniu % 40 na CaO w suchej masie 39 Złoża kredy piszącej Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość dokumentowania m 70 2 Maksymalna grubość nadkładu m 15 3 Maksymalny stosunek grubości nadkładu do 0,2 miąższości złoża 4 Minimalna średnia ważona zawartość CaCO % 80 w profilu złoża Złoża kopalin skalnych budowlanych blocznych Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość dokumentowania m do głębokości możliwej eksploatacji 2 Maksymalny stosunek grubości nadkładu do 1,0 miąższości złoża 3 Minimalna bloczność geologiczna: marmurów, serpentynitów % obj. 5 sjenitów, gabr, granodiorytów oraz % obj. 10 przyjmujących poler wapieni i dolomitów granitów, tufów, piaskowców oraz nieprzyjmujących poleru wapieni i dolomitów % obj. 20 41 Złoża kopalin skalnych nieblocznych budowlanych i drogowych Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość dokumentowania m do głębokości możliwej eksploatacji 2 Maksymalna grubość nadkładu m 15 3 Maksymalny stosunek grubości nadkładu do 0,3 miąższości złoża 4 Maksymalny udział skał niespełniających % 20 wymagań jakościowych w profilu złoża 5 Maksymalna zawartość CaCO w wapieniach % 90 Złoża kopalin ilastych ceramiki budowlanej Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość dokumentowania m do głębokości możliwej eksploatacji 2 Minimalna miąższość złoża m 2 3 Maksymalny stosunek grubości nadkładu do 0,5 miąższości złoża 4 Maksymalna zawartość ziaren o średnicy % 1 powyżej 2 mm 5 Maksymalna zawartość marglu w ziarnach % 0,4 o średnicy powyżej 0,5 mm 6 Minimalna skurczliwość wysychania % 6 43 Złoża iłów kamionkowych i białowypalających się Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość dokumentowania m 200 w przypadku eksploatacji podziemnej 2 Maksymalny stosunek grubości nadkładu do 2 miąższości złoża w przypadku eksploatacji odkrywkowej 3 Minimalna miąższość złoża m 2 4 Minimalna zawartość minerałów ilastych % 40 5 Maksymalna zawartość CaCO % 2 6 Maksymalna zawartość ziaren o średnicy % 1 powyżej 2 mm Złoża iłów, glin i łupków ogniotrwałych Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość dokumentowania m 200 w przypadku eksploatacji podziemnej 2 Maksymalny stosunek grubości nadkładu do 2 miąższości złoża w przypadku eksploatacji odkrywkowej 3 Minimalna miąższość złoża m 1 4 Minimalna ogniotrwałość sP 161 5 Maksymalna zawartość ziaren o średnicy % 10 powyżej 0,063 mm 45 Złoża kopalin bentonitowych i bentonitowo-zeolitowych Lp. Parametr Jednostka Wartość brzeżna 1 Minimalna miąższość złoża m 1 2 Maksymalny stosunek grubości nadkładu do 5 miąższości złoża 3 Minimalna zawartość montmorylonitu lub % 60 łącznie montmorylonitu i zeolitu 4 Maksymalna zawartość CaCO % 10 5 Maksymalna zawartość ziaren o średnicy % 10 powyżej 0,25 mm 46 Złoża kopalin kaolinowych Lp. Parametr Jednostka Wartość brzeżna 1 Minimalna miąższość złoża m 2 2 Maksymalny stosunek grubości nadkładu do 2 miąższości złoża 3 Minimalna średnia ważona zawartość kaolinitu % 15 w profilu złoża Złoża kopalin skaleniowych Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość spągu złoża m 75 2 Minimalna miąższość złoża m 5 3 Maksymalny stosunek grubości nadkładu do 2 miąższości złoża 4 Minimalna zawartość Al O w serii złożowej % 12 5 Minimalna zawartość Na O + K O % 6,5 6 Maksymalna zawartość Fe O + TiO % 1,5 48 Złoża diatomitów Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość spągu złoża m 20 2 Maksymalny stosunek grubości nadkładu 2 i przerostów płonnych do miąższości złoża 3 Minimalna zawartość wolnego SiO % 70 4 Maksymalna gęstość przestrzenna g/cm 1,5 5 Minimalna zawartość okrzemek % 40 49 Złoża kwarcytów, piaskowców kwarcytowych i łupków kwarcytowych Lp. Parametr Jednostka Wartość brzeżna 1 Minimalna miąższość złoża m 5 2 Maksymalny stosunek grubości nadkładu do 0,5 miąższości złoża 3 Minimalna zawartość SiO % 95 4 Maksymalna zawartość Fe O + TiO + alkalia % 1,0 Złoża łupków fyllitowych i łyszczykowych Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość dokumentowania m 50 2 Minimalna miąższość złoża m 5 3 Maksymalna grubość nadkładu m 5 4 Minimalna średnia zawartość minerałów % 80 blaszkowatych w profilu złoża 5 Maksymalna zawartość domieszek kwarcowych % 15 6 Maksymalna zawartość części rozpuszczalnych % 14 w kwasie solnym 7 Maksymalna zawartość tlenków żelaza % 10 51 Złoża ziemi krzemionkowej Lp. Parametr Jednostka Wartość brzeżna 1 Maksymalna głębokość dokumentowania m 50 i powyżej wody gruntowej 2 Minimalna miąższość złoża m 1 3 Maksymalny stosunek grubości nadkładu do 3 miąższości złoża 4 Minimalna zawartość wolnego SiO % 80 5 Maksymalna zawartość Al O i Fe O w tym Fe O % 9 % 5 6 Maksymalna zawartość CaO % 5
+Treść rozporządzenia
+
+## Załącznik nr 1 — – Karta tytułowa dokumentacji geologicznej złoża kopaliny (wzór)
+
+## Załącznik nr 2 — – Zestawienie zasobów geologicznych
+
+## Załącznik nr 3 — – Zestawienie zasobów wydobywalnych metanu występującego w złożu węgla kamiennego (wzór)
+
+## Załącznik nr 4 — – Karta informacyjna złoża kopaliny (wzór)
+
+## Załącznik nr 5 — – Karta informacyjna dokumentacji/dodatku (nr kolejny) do dokumentacji geologicznej złoża (wzór)
+
+## Załącznik nr 6 — – Zestawienie dat i numerów decyzji zatwierdzających lub zawiadomień o przyjęciu bez zastrzeżeń wcześniejszych dokumentacji geologicznych złoża kopaliny i dodatków do dokumentacji geologicznej złoża kopaliny (wzór)
+
+## Załącznik nr 7 — – Karta informacyjna złoża kopaliny, o którym mowa w art. 22 ust. 2 ustawy z dnia 9 czerwca 2011 r. – prawo geologiczne i górnicze (wzór)
+
+## Załącznik nr 8 — – Graniczne wartości parametrów definiujących złoże i jego granice dla poszczególnych kopalin
+
+Treść rozporządzenia
+Na podstawie art. 97 ust. 1 pkt 1 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2015 r. poz. 196) zarządza się, co następuje:
+§ 1.
+1.
+Rozporządzenie określa szczegółowe wymagania dotyczące dokumentacji geologicznej złoża kopaliny, z wyłączeniem złoża węglowodorów.
+2.
+Ilekroć w rozporządzeniu jest mowa o złożu kopaliny, rozumie się przez to złoże kopaliny, z wyłączeniem złoża węglowodorów.
+§ 2.
+1.
+W dokumentacji geologicznej złoża kopaliny określa się złoże w:
+1)
+jego naturalnych granicach lub
+2)
+granicach wyznaczonych przez zastosowanie granicznych wartości parametrów definiujących złoże i jego granice, lub
+3)
+jego wydzielonej części, jeżeli eksploatacja wydzielonej części złoża kopaliny nie zagrozi racjonalnemu wykorzystaniu złoża kopaliny i złóż sąsiednich.
+2.
+W przypadku, o którym mowa w art. 89 ust. 5 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, zwanej dalej „ustawą”, w nowej dokumentacji geologicznej sporządzonej dla części złoża kopaliny przewidzianej do zagospodarowania pozostawia się nazwę złoża kopaliny uzupełnioną o kolejną cyfrę arabską, począwszy od cyfry 1.
+3.
+W przypadku wykonania dokumentacji geologicznej złoża kopaliny dla złoża powstałego z połączenia dwóch lub więcej złóż, nazwa nowego złoża w tej dokumentacji może być co najwyżej dwuczłonowa, z tym że co najmniej jeden człon odnosi się do nazwy jednego z poprzednich złóż.
+§ 3.
+W dokumentacji geologicznej złoża kopaliny określa się wyniki prac geologicznych wcześniej przeprowadzonych w przestrzeni określonej w tej dokumentacji.
+§ 4.
+1.
+Dokumentację geologiczną złoża kopaliny sporządza się z podziałem na części tekstową, graficzną i tabelaryczną, niezależnie od kategorii rozpoznania złoża, w postaci:
+1)
+maszynopisu lub wydruku komputerowego;
+2)
+dokumentu elektronicznego w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2014 r. poz. 1114).
+2.
+Część tekstowa dokumentacji geologicznej złoża kopaliny zawiera:
+1)
+karty i zestawienia:
+a)
+kartę tytułową dokumentacji geologicznej złoża kopaliny, dla złóż kopalin stałych i dla złóż węgla kamiennego i metanu występującego w tych złożach jako kopalina towarzysząca, której wzór określa załącznik nr 1 do rozporządzenia,
+b)
+zestawienie zasobów geologicznych kopaliny w złożu, dla złóż kopalin stałych i dla złóż węgla kamiennego i metanu występującego w tych złożach jako kopalina towarzysząca, którego wzór określa załącznik nr 2 do rozporządzenia,
+c)
+zestawienie zasobów wydobywalnych metanu występującego w złożu węgla kamiennego jako kopalina towarzysząca, dla złóż węgla kamiennego i metanu występującego w tych złożach jako kopalina towarzysząca, którego wzór określa załącznik nr 3 do rozporządzenia,
+d)
+kartę informacyjną złoża kopaliny, dla złóż kopalin stałych oraz dla złóż węgla kamiennego i metanu występującego w tych złożach jako kopalina towarzysząca, której wzór określa załącznik nr 4 do rozporządzenia,
+e)
+kartę informacyjną dokumentacji albo dodatku do dokumentacji geologicznej złoża kopaliny, dla złóż kopalin stałych i dla złóż węgla kamiennego i metanu występującego w tych złożach jako kopalina towarzysząca, której wzór określa załącznik nr 5 do rozporządzenia,
+f)
+zestawienie dat i numerów decyzji zatwierdzających lub zawiadomień o przyjęciu bez zastrzeżeń wcześniejszych dokumentacji geologicznych złoża kopaliny i dodatków do dokumentacji geologicznej złoża kopaliny, dla złóż kopalin stałych i dla złóż węgla kamiennego i metanu występującego w tych złożach jako kopalina towarzysząca, którego wzór określa załącznik nr 6 do rozporządzenia;
+2)
+spis rozdziałów;
+3)
+część opisową z podziałem na rozdziały określające:
+a)
+cel sporządzenia dokumentacji geologicznej złoża kopaliny,
+b)
+położenie administracyjne złoża kopaliny, charakterystykę geograficzną położenia złoża kopaliny (położenie złoża kopaliny, zagospodarowanie terenu, charakterystykę stanu środowiska i jego ochrony, stan zagospodarowania złoża kopaliny i jego otoczenia),
+c)
+stan i sposób rozpoznania złoża kopaliny, a w złożach eksploatowanych – stan i sposób eksploatacji złoża kopaliny,
+d)
+warunki geologiczne występowania złoża kopaliny (stratygrafia, tektonika),
+e)
+charakterystykę geologiczną złoża kopaliny, jego położenia, formy, budowy, a w złożach węgla kamiennego, w których metan występuje jako kopalina towarzysząca – również charakterystykę metanonośności węgla i serii węglonośnej,
+f)
+charakterystykę rodzaju i jakości kopaliny głównej, kopalin towarzyszących, współwystępujących użytecznych pierwiastków śladowych oraz właściwości technologiczne kopalin i możliwe kierunki ich wykorzystania,
+g)
+wyniki badań i charakterystykę warunków geologiczno-górniczych złoża kopaliny, w szczególności hydrogeologicznych, geologiczno-inżynierskich, gazowych i geotermicznych, w zakresie niezbędnym dla projektowania, prowadzenia i zakończenia eksploatacji oraz wykorzystania terenu po zakończeniu działalności górniczej i rekultywacji tego terenu, a w złożach przewidzianych do podziemnego bezzbiornikowego magazynowania substancji i podziemnego składowania odpadów w zakresie niezbędnym dla projektowania takiej działalności,
+h)
+dane dotyczące budowy złoża kopaliny, warunków jego występowania, jakości kopaliny i właściwości skał otaczających, które uwzględnia się przy ocenie wpływu eksploatacji na środowisko, substancji szkodliwych dla środowiska występujących w złożu kopaliny oraz charakterystyki właściwości rekultywacyjnych skał płonnych, których wydobycie jest możliwe do przewidzenia,
+i)
+sposób określenia granic złoża kopaliny i jego parametrów przyjętych do obliczenia zasobów złoża kopaliny, uzasadnienie wyboru metody obliczenia zasobów oraz przyjęty sposób ich klasyfikacji z uwagi na stopień rozpoznania złoża kopaliny,
+j)
+zasoby złoża wraz z oceną dokładności ich oszacowania:
+– kopaliny głównej z podziałem na zasoby: – – spełniające graniczne wartości parametrów definiujących złoże – zasoby bilansowe, – – niespełniające granicznych wartości parametrów definiujących złoże – zasoby pozabilansowe – w przypadku ich dokumentowania,
+– kopalin towarzyszących z podziałem na zasoby: – – bilansowe, – – pozabilansowe – w przypadku ich dokumentowania,
+– współwystępujących użytecznych pierwiastków śladowych,
+k)
+rozliczenie zasobów złoża kopaliny w stosunku do zasobów udokumentowanych w ostatniej dokumentacji geologicznej zatwierdzonej lub przyjętej bez zastrzeżeń lub dodatku do dokumentacji geologicznej i zawierające wyjaśnienie stwierdzonych różnic,
+l)
+warunki ochrony złoża kopaliny, obszar wymagający ochrony przed działaniem uniemożliwiającym zagospodarowanie złoża kopaliny oraz wymagania odnoszące się do racjonalnej eksploatacji i właściwego wykorzystania kopalin występujących w złożu,
+m)
+spis literatury i materiałów archiwalnych wykorzystanych do opracowania dokumentacji geologicznej złoża kopaliny;
+4)
+załączniki obejmujące:
+a)
+omówienie historii badań i eksploatacji złoża kopaliny,
+b)
+omówienie wykonanych prac geologicznych i badań specjalistycznych oraz sposobu ich realizacji,
+c)
+wyniki wykonanych badań specjalistycznych,
+d)
+wykaz wykonanych badań geofizycznych,
+e)
+przedstawienie wykonanych badań statystycznych lub geostatystycznych i ich wyników,
+f)
+kopie dokumentów, których treść ma istotne znaczenie dla opracowanej dokumentacji geologicznej złoża kopaliny, w tym decyzji zatwierdzających dokumentację geologiczną złoża kopaliny i dodatki do dokumentacji geologicznej złoża kopaliny, zawiadomień o przyjęciu bez zastrzeżeń dokumentacji geologicznej złoża kopaliny i dodatków do dokumentacji geologicznej złoża kopaliny, koncesji lub decyzji zatwierdzających projekty prac geologicznych lub robót geologicznych, spisów zdawczo-odbiorczych potwierdzających przekazanie informacji geologicznej z bieżąco prowadzonych prac państwowej służbie geologicznej prowadzącej archiwum, o którym mowa w art. 162 ust. 1 pkt 2 ustawy, lub innych dokumentów potwierdzających przekazanie informacji geologicznej z bieżącego prowadzenia prac geologicznych państwowej służbie geologicznej,
+g)
+dowód istnienia prawa do korzystania z informacji geologicznej, na której podstawie sporządzono dokumentację geologiczną złoża kopaliny.
+3.
+Przepisów ust. 2 pkt 4 lit. g i § 8 pkt 1 lit. e nie stosuje się do sporządzania:
+1)
+dodatku do dokumentacji geologicznej złoża kopaliny w przypadku, o którym mowa w § 7 ust. 2;
+2)
+dodatku do dokumentacji geologicznej złoża kopaliny, o którym mowa w art. 89 ust. 5 ustawy;
+3)
+dodatku do dokumentacji geologicznej złoża kopaliny na potrzeby zmiany koncesji w przypadku, o którym mowa w art. 205 ust. 3 ustawy.
+4.
+Część graficzną dokumentacji geologicznej złoża kopaliny stanowią:
+1)
+mapa lokalizacji złoża kopaliny sporządzona na mapie topograficznej uzyskanej z państwowego zasobu geodezyjnego i kartograficznego dla obszarów lądowych, w zależności od wielkości złoża w skali od 1:10 000 do 1:50 000, lub na mapie morskiej nawigacyjnej wykonanej przez Biuro Hydrograficzne Marynarki Wojennej dla obszarów morskich Rzeczypospolitej Polskiej, w zależności od wielkości złoża w skali od 1:25 000 do 1:500 000;
+2)
+mapa sytuacyjno-wysokościowa sporządzona na podstawie danych i informacji uzyskanych z państwowego zasobu geodezyjnego i kartograficznego dla obszarów lądowych w skali umożliwiającej szczegółowe przedstawienie granic obszaru dokumentowanego i granic złoża kopaliny oraz miejsc wykonania badań w obszarze dokumentowanym, a w szczególności otworów wiertniczych i badań geofizycznych;
+3)
+mapa sytuacyjno-batymetryczna (plan sondażowy) dla obszarów morskich Rzeczypospolitej Polskiej, sporządzona w szczególności przez urzędy morskie i Biuro Hydrograficzne Marynarki Wojennej, w skali umożliwiającej szczegółowe przedstawienie granic obszaru dokumentowanego i granic złoża kopaliny oraz miejsc wykonania badań na jego terenie, a w szczególności otworów wiertniczych i badań geofizycznych;
+4)
+mapa geośrodowiskowa rejonu występowania złoża kopaliny przedstawiająca składniki środowiska podlegające ochronie, sporządzona w skali 1:50 000 z podaniem położenia złoża;
+5)
+mapy ilustrujące budowę złoża kopaliny, niezbędne do scharakteryzowania jego formy, sposobu ułożenia i budowy oraz jakości kopaliny;
+6)
+mapy obliczenia zasobów złoża kopaliny;
+7)
+mapy i przekroje geologiczne, a w zależności od potrzeb – również mapy i przekroje hydrogeologiczne, geologiczno-inżynierskie, geotermiczne i gazonośności;
+8)
+profile otworów wiertniczych, profile geologiczne wyrobisk rozpoznawczych i wybranych wyrobisk górniczych w przypadku czynnych zakładów górniczych.
+5.
+Część tabelaryczna dokumentacji geologicznej złoża kopaliny zawiera:
+1)
+wyniki badań rodzaju i jakości kopaliny;
+2)
+obliczenia zasobów kopaliny w poszczególnych częściach złoża lub blokach obliczeniowych;
+3)
+zbiorcze zestawienie zasobów złoża kopaliny;
+4)
+zestawienie współrzędnych płaskich prostokątnych w państwowym systemie odniesień przestrzennych:
+a)
+punktów wyznaczających granice dokumentowanego złoża zestawionych zgodnie z kolejnością ich łączenia, a w przypadku udokumentowania złoża w kilku polach – z podziałem na pola; na obszarach morskich Rzeczypospolitej Polskiej wykaz punktów wyznaczających granice dokumentowanego złoża określa się dodatkowo w geodezyjnym systemie odniesienia WGS 84,
+b)
+wykonanych otworów wiertniczych.
+§ 5.
+1.
+W dokumentacji geologicznej złoża kopaliny granice geologiczne złoża kopaliny wyznacza się przez stosowanie granicznych wartości parametrów definiujących złoże i jego granice.
+2.
+W dodatku do dokumentacji geologicznej złoża kopaliny sporządzonym w celu dokonania rozliczenia zasobów pozostałych w złożu, należy stosować kryteria bilansowości lub graniczne wartości parametrów definiujących złoże i jego granice, służące do obliczenia zasobów, przyjmowane w ostatniej dokumentacji geologicznej złoża kopaliny zatwierdzonej lub przyjętej bez zastrzeżeń lub dodatku do dokumentacji geologicznej złoża kopaliny.
+3.
+Graniczne wartości parametrów definiujących złoże kopaliny i jego granice przeznaczone do wykorzystania w sporządzanej dokumentacji geologicznej złoża kopaliny są określone w załączniku nr 8 do rozporządzenia.
+4.
+Zastosowanie wartości parametrów definiujących złoże kopaliny i jego granice innych niż określone w załączniku nr 8 do rozporządzenia w sporządzanej dokumentacji geologicznej złoża kopaliny jest możliwe w przypadkach wystąpienia szczególnych warunków geologicznych i wymaga uzasadnienia w części tekstowej sporządzanej dokumentacji geologicznej złoża kopaliny.
+§ 6.
+1.
+W dokumentacji geologicznej złoża kopaliny dla złóż kopalin stałych stosuje się następujące kategorie rozpoznania złoża kopaliny lub jego części: D, C2, C1, B, A.
+2.
+Dokumentacja geologiczna złoża kopaliny w poszczególnych kategoriach rozpoznania złoża kopaliny lub jego części powinna spełniać następujące wymagania:
+1)
+w kategorii D – granice złoża kopaliny, jego budowę geologiczną i przewidywane zasoby określa się na podstawie istniejących dostępnych danych geologicznych, w szczególności uzyskanych z odosobnionych wyrobisk lub odsłonięć naturalnych, interpretacji geologicznej danych geofizycznych przy zastosowaniu ekstrapolacji, przy czym błąd oszacowania średnich wartości parametrów złoża i zasobów może przekraczać 40%;
+2)
+w kategorii C2 – granice złoża kopaliny określa się na podstawie danych uzyskanych z wyrobisk, odsłonięć naturalnych lub badań geofizycznych metodą interpolacji lub odpowiednio uzasadnionej ekstrapolacji; poznane są główne cechy formy, budowy i tektoniki złoża; wstępnie są określone warunki geologiczno-górnicze eksploatacji, jakość kopaliny jest rozpoznana na podstawie systematycznego opróbowania w pełnym zakresie możliwych zastosowań kopaliny, przy czym błąd oszacowania średnich wartości parametrów złoża i zasobów nie może przekraczać 40%;
+3)
+w kategorii C1 – granice złoża kopaliny określa się na podstawie danych uzyskanych z wyrobisk rozpoznawczych, z odsłonięć naturalnych lub badań geofizycznych metodą interpolacji lub w ograniczonym stopniu ekstrapolacji; stopień rozpoznania złoża jest wystarczający dla opracowania projektu zagospodarowania złoża, w tym dla szczegółowego określenia formy, budowy, tektoniki złoża i jakości kopaliny w złożu, warunków geologiczno-górniczych eksploatacji oraz do dokonania oceny wpływu przewidywanej eksploatacji na środowisko, przy czym błąd oszacowania średnich wartości parametrów złoża i zasobów nie może przekraczać 30%;
+4)
+w kategorii B – granice złoża kopaliny określa się w sposób uściślony na podstawie danych uzyskanych ze specjalnie wykonanych w tym celu wyrobisk rozpoznawczych lub badań geofizycznych, jest wymagane określenie formy i budowy złoża, korelacji warstw, podstawowych cech tektoniki w sposób jednoznaczny; jakość i własności technologiczne kopaliny powinny być potwierdzone na podstawie wyników prób w skali półtechnicznej lub przemysłowej; stopień rozpoznania złoża jest wystarczający dla opracowania projektu zagospodarowania złoża, przy czym błąd oszacowania średnich wartości parametrów złoża i zasobów nie może przekraczać 20%;
+5)
+w kategorii A – złoże kopaliny jest rozpoznane w stopniu umożliwiającym bieżące planowanie i prowadzenie jego eksploatacji przy możliwie najwyższym stopniu wykorzystania zasobów; jest wymagane określenie formy i budowy złoża, tektoniki, zasobów, na podstawie danych uzyskanych z wyrobisk udostępniających, przygotowawczych i eksploatacyjnych, rodzaju, jakości kopaliny i jej właściwości technologicznych na podstawie systematycznego opróbowania wyrobisk i danych uzyskanych z bieżącej produkcji; stopień rozpoznania złoża jest wystarczający dla opracowania projektu zagospodarowania złoża, przy czym błąd oszacowania średnich wartości parametrów złoża i zasobów w poszczególnych blokach nie może przekraczać 10%.
+3.
+W dokumentacji geologicznej złoża kopaliny dla metanu występującego w złożach węgla kamiennego jako kopalina towarzysząca stosuje się kategorie rozpoznania złoża kopaliny lub jego części: C, B, A, odpowiadające kategoriom rozpoznania złoża określonym w ust. 1, przy czym:
+1)
+kategoria C odpowiada kategoriom D, C1, C2;
+2)
+kategoria B odpowiada kategorii B;
+3)
+kategoria A odpowiada kategorii A.
+§ 7.
+1.
+W dodatku do dokumentacji geologicznej eksploatowanego złoża kopaliny, poza wynikami prac geologicznych wykonanych w celu udokumentowania złoża, uwzględnia się dane zawarte w dokumentacji mierniczo-geologicznej zakładu górniczego, wyniki bieżącego opróbowania złoża kopaliny oraz wyniki badań specjalistycznych, w szczególności hydrogeologicznych, geologiczno-inżynierskich, gazowych, geotermicznych, oraz inne informacje niezbędne do określenia planowanego wykorzystania terenu po zakończeniu działalności górniczej i jego rekultywacji.
+2.
+W przypadku zaniechania lub zakończenia eksploatacji złoża kopaliny dokonuje się rozliczenia zasobów złoża kopaliny w dodatku do dokumentacji geologicznej złoża kopaliny.
+3.
+W dodatku do dokumentacji geologicznej złoża kopaliny zamieszcza się materiały, które dokumentują powstałe zmiany w części tekstowej, tabelarycznej i graficznej, rozliczenie zasobów złoża kopaliny oraz wyjaśnienie stwierdzonych różnic w wielkości dokumentowanych zasobów.
+§ 8.
+Dokumentacja geologiczna złoża kopaliny, która może stanowić podstawę do ubiegania się o koncesję na wydobywanie kopalin ze złóż zgodnie z wymaganiami określonymi w art. 22 ust. 2 ustawy, składa się z:
+1)
+części tekstowej zawierającej:
+a)
+kartę tytułową dokumentacji geologicznej złoża kopaliny, której wzór określa załącznik nr 1 do rozporządzenia,
+b)
+kartę informacyjną złoża kopaliny, o którym mowa w art. 22 ust. 2 ustawy, której wzór określa załącznik nr 7 do rozporządzenia,
+c)
+zestawienie zasobów złoża kopaliny według kategorii rozpoznania wraz z oceną dokładności ich oszacowania, z podziałem na zasoby:
+– złoża kopaliny głównej, w tym zasoby: – – bilansowe, – – pozabilansowe – w przypadku ich dokumentowania,
+– kopalin towarzyszących, w tym zasoby: – – bilansowe, – – pozabilansowe – w przypadku ich dokumentowania, – współwystępujących użytecznych pierwiastków śladowych,
+d)
+zestawienie wyników badań rodzaju i jakości kopaliny,
+e)
+dowód istnienia prawa do korzystania z informacji geologicznej, na której podstawie sporządzono dokumentację złoża kopaliny;
+2)
+części graficznej zawierającej:
+a)
+mapę lokalizacji złoża kopaliny na mapie topograficznej w skali 1:10 000 uzyskanej z państwowego zasobu geodezyjnego i kartograficznego, z zaznaczeniem obiektów podlegających ochronie w otoczeniu złoża kopaliny (grunty rolne klas I-IV, grunty leśne, obszary i obiekty przyrody prawnie chronione, granice zbiorników wód podziemnych, granice sąsiednich złóż),
+b)
+profile geologiczne wykonanych wyrobisk i odsłonięć naturalnych,
+c)
+mapę obliczenia zasobów złoża kopaliny, sporządzoną na mapie sytuacyjno-wysokościowej uzyskanej z państwowego zasobu geodezyjnego i kartograficznego, w skali co najmniej 1:2000, z naniesionymi granicami złoża kopaliny, wyrobiskami i odsłonięciami naturalnymi, ważniejszymi obiektami mającymi wpływ na sposób zagospodarowania złoża kopaliny oraz linią przekroju geologicznego przez to złoże,
+d)
+co najmniej jeden przekrój geologiczny przez złoże kopaliny;
+3)
+tabeli obliczenia zasobów złoża kopaliny;
+4)
+zestawienia współrzędnych płaskich prostokątnych w państwowym systemie odniesień przestrzennych:
+a)
+punktów wyznaczających granice dokumentowanego złoża zestawionych zgodnie z kolejnością ich łączenia, a w przypadku udokumentowania złoża w kilku polach – z podziałem na pola,
+b)
+wykonanych otworów wiertniczych.
+§ 9.
+Do dokumentacji geologicznych złoża kopaliny, z wyłączeniem złoża węglowodorów, przekazanych właściwym organom administracji geologicznej do zatwierdzenia przed wejściem w życie rozporządzenia stosuje się przepisy dotychczasowe.
+§ 10.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+2) Zakres spraw uregulowany niniejszym rozporządzeniem był poprzednio uregulowany w rozporządzeniu Ministra Środowiska z dnia 22 grudnia 2011 r. w sprawie dokumentacji geologicznej złoża kopaliny (Dz. U. Nr 291, poz. 1712), które w tym zakresie traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 26 ust. 1 ustawy z dnia 11 lipca 2014 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw (Dz. U. poz. 1133).
+
+## Załącznik nr 1 — – Karta tytułowa dokumentacji geologicznej złoża kopaliny (wzór)
+
+patrz oryginał
+
+## Załącznik nr 2 — – Zestawienie zasobów geologicznych
+
+patrz oryginał
+
+## Załącznik nr 3 — – Zestawienie zasobów wydobywalnych metanu występującego w złożu węgla kamiennego (wzór)
+
+patrz oryginał
+
+## Załącznik nr 4 — – Karta informacyjna złoża kopaliny (wzór)
+
+patrz oryginał
+
+## Załącznik nr 5 — – Karta informacyjna dokumentacji/dodatku (nr kolejny) do dokumentacji geologicznej złoża (wzór)
+
+patrz oryginał
+
+## Załącznik nr 6 — – Zestawienie dat i numerów decyzji zatwierdzających lub zawiadomień o przyjęciu bez zastrzeżeń wcześniejszych dokumentacji geologicznych złoża kopaliny i dodatków do dokumentacji geologicznej złoża kopaliny (wzór)
+
+patrz oryginał
+
+## Załącznik nr 7 — – Karta informacyjna złoża kopaliny, o którym mowa w art. 22 ust. 2 ustawy z dnia 9 czerwca 2011 r. – prawo geologiczne i górnicze (wzór)
+
+patrz oryginał
+
+## Załącznik nr 8 — – Graniczne wartości parametrów definiujących złoże i jego granice dla poszczególnych kopalin
+
+patrz oryginał
 

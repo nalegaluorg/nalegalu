@@ -8,12 +8,10 @@ pos: 1992
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o Państwowej Inspekcji Ochrony Roślin i Nasiennictwa
-
-*USTAWA z dnia 13 lutego 2020 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 17 sierpnia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Państwowej Inspekcji Ochrony Roślin i Nasiennictwa
 
 | Pole | Wartość |
 |---|---|
@@ -27,15 +25,49 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-01-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001992) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1992/text.pdf) |
 
-Art. 44–47. (pominięte)
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 13 lutego 2020 r. o Państwowej Inspekcji Ochrony Roślin i Nasiennictwa Rozdział 1 – Przepis ogólny Rozdział 2 – Zadania, organizacja i zasady funkcjonowania Inspekcji Rozdział 3 – Zasady wykonywania zadań przez Inspekcję, w szczególności przeprowadzania kontroli i wykonywania innych czynności urzędowych Rozdział 4 – Organizacja i zasady funkcjonowania laboratoriów przeprowadzających badania laboratoryjne na potrzeby zadań Inspekcji Rozdział 5 – Przepisy karne Rozdział 6 – Przepisy zmieniające, epizodyczne, przejściowe, dostosowujące i końcowe
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 13 lutego 2020 r. o Państwowej Inspekcji Ochrony Roślin i Nasiennictwa (Dz. U. z 2023 r. poz. 288), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412) oraz zmian wynikających z przepisów ogłoszonych przed dniem 10 sierpnia 2023 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 169 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), który stanowi:
+„
+Art. 44–47.
+(pominięte)
+
+**Art. 169.** Ustawa wchodzi w życie z dniem 15 marca 2023 r., z wyjątkiem:
+
+- **1)** art. 145, który wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia;
+- **2)** art. 135 pkt 3 w zakresie art. 10c ust. 12, który wchodzi w życie z dniem 1 czerwca 2023 r.;
+- **3)** art. 122 pkt 6 lit. b, art. 127 pkt 2, art. 129 pkt 1 i 5, art. 130 pkt 1 oraz art. 142, które wchodzą w życie z dniem 1 stycznia 2024 r.;
+- **4)** art. 56 ust. 8 pkt 2, który wchodzi w życie z dniem 1 stycznia 2025 r. ” . Załącznik – Tekst jednolity ustawy z dnia 13 lutego 2020 r. o Państwowej Inspekcji Ochrony Roślin i Nasiennictwa
 
 #### Rozdział 1 Przepis ogólny
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zadania, organizację i zasady funkcjonowania Państwowej Inspekcji Ochrony Roślin i Nasiennictwa, zwanej dalej „Inspekcją”;
+- **2)** zasady wykonywania zadań przez Inspekcję, w szczególności przeprowadzania kontroli, w tym kontroli urzędowych w rozumieniu art. 2 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/625 z dnia 15 marca 2017 r. w sprawie kontroli urzędowych i innych czynności urzędowych przeprowadzanych w celu zapewnienia stosowania prawa żywnościowego i paszowego oraz zasad dotyczących zdrowia i dobrostanu zwierząt, zdrowia roślin i środków ochrony roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001, (WE) nr 396/2005, (WE) nr 1069/2009, (WE) nr 1107/2009, (UE) nr 1151/2012, (UE) nr 652/2014, (UE) 2016/429 i (UE) 2016/2031, rozporządzenia Rady (WE) nr 1/2005 i (WE) nr 1099/2009 oraz dyrektywy Rady 98/58/WE, 1999/74/WE, 2007/43/WE, 2008/119/WE i 2008/120/WE, oraz uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 854/2004 i (WE) nr 882/2004, dyrektywy Rady 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/WE, 96/93/WE i 97/78/WE oraz decyzję Rady 92/438/EWG (rozporządzenie w sprawie kontroli urzędowych) (Dz. Urz. UE L 95 z 07.04.2017, str. 1, z późn. zm.), zwanych dalej „kontrolami”, oraz wykonywania innych czynności urzędowych w rozumieniu art. 2 ust. 2 tego rozporządzenia, zwanych dalej „innymi czynnościami urzędowymi”;
+- **3)** organizację i zasady funkcjonowania laboratoriów przeprowadzających badania laboratoryjne na potrzeby zadań Inspekcji.
+
 #### Rozdział 2 Zadania, organizacja i zasady funkcjonowania Inspekcji
 
 **Art. 2.** Inspekcja wykonuje zadania:
+
+- **1)** związane z ochroną roślin przed agrofagami, o których mowa w ustawie z dnia 13 lutego 2020 r. o ochronie roślin przed agrofagami (Dz. U. z 2023 r. poz. 301), zwanymi dalej „agrofagami”, w zakresie określonym w tej ustawie, w tym służące wykonaniu: rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/2031 z dnia 26 października 2016 r. w sprawie środków ochronnych przeciwko agrofagom roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 228/2013, (UE) nr 652/2014 i (UE) nr 1143/2014 oraz uchylającego dyrektywy Rady 69/464/EWG, 74/647/EWG, 93/85/EWG, 98/57/WE, 2000/29/WE, 2006/91/WE i 2007/33/WE (Dz. Urz. UE L 317 z 23.11.2016, str. 4, z późn. zm.), zwanego dalej „rozporządzeniem 2016/2031”, oraz przepisów Unii Europejskiej wydanych na podstawie rozporządzenia 2016/2031, rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/625 z dnia 15 marca 2017 r. w sprawie kontroli urzędowych i innych czynności urzędowych przeprowadzanych w celu zapewnienia stosowania prawa żywnościowego i paszowego oraz zasad dotyczących zdrowia i dobrostanu zwierząt, zdrowia roślin i środków ochrony roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001, (WE) nr 396/2005, (WE) nr 1069/2009, (WE) nr 1107/2009, (UE) nr 1151/2012, (UE) nr 652/2014, (UE) 2016/429 i (UE) 2016/2031, rozporządzenia Rady (WE) nr 1/2005 i (WE) nr 1099/2009 oraz dyrektywy Rady 98/58/WE, 1999/74/WE, 2007/43/WE, 2008/119/WE i 2008/120/WE, oraz uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 854/2004 i (WE) nr 882/2004, dyrektywy Rady 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/WE, 96/93/WE i 97/78/WE oraz decyzję Rady 92/438/EWG (rozporządzenie w sprawie kontroli urzędowych), zwanego dalej „rozporządzeniem 2017/625”, oraz przepisów Unii Europejskiej wydanych na podstawie rozporządzenia 2017/625;
+    - **a)**
+    - **b)**
+
+- **2)** związane z zapobieganiem zagrożeniom związanym z produkcją środków ochrony roślin, obrotem tymi środkami i stosowaniem tych środków w zakresie określonym w ustawie z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. z 2023 r. poz. 340 i 412), w tym służące wykonaniu: rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1107/2009 z dnia 21 października 2009 r. dotyczącego wprowadzania do obrotu środków ochrony roślin i uchylającego dyrektywy Rady 79/117/EWG i 91/414/EWG (Dz. Urz. UE L 309 z 24.11.2009, str. 1, z późn. zm.) oraz przepisów Unii Europejskiej wydanych na podstawie tego rozporządzenia, rozporządzenia 2017/625 oraz przepisów Unii Europejskiej wydanych na podstawie rozporządzenia 2017/625;
+    - **a)**
+    - **b)**
+
+- **3)** związane z nadzorem nad wytwarzaniem i oceną materiału siewnego oraz obrotem tym materiałem w zakresie określonym w ustawie z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. z 2021 r. poz. 129) oraz nadzorem nad przestrzeganiem przepisów tej ustawy dotyczących stosowania materiału siewnego;
+- **4)** związane z kontrolą upraw w zakresie organizmów genetycznie zmodyfikowanych w zakresie określonym w ustawie z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2022 r. poz. 546);
+- **5)** związane z monitorowaniem zużycia środków ochrony roślin;
+- **5a)** związane z nadzorem nad wprowadzaniem do obrotu nawozów, nawozów oznaczonych znakiem „NAWÓZ WE” i środków wspomagających uprawę roślin w zakresie określonym w ustawie z dnia 10 lipca 2007 r. o nawozach i nawożeniu (Dz. U. z 2023 r. poz. 569);
+- **6)** określone w przepisach innych ustaw.
 
 **Art. 3.**
 
@@ -82,29 +114,29 @@ Art. 44–47. (pominięte)
 
 3. W ramach koordynacji i nadzorowania wykonywania zadań przez wojewódzkich inspektorów Główny Inspektor może w szczególności:
 
-- **1)** określać procedury lub rozwiązania, o których mowa w art. 5 ust. 1 lit. a–c rozporządzenia 2017/625, w odniesieniu do obszaru, o którym mowa w art. 1 ust. 2:
-    - **a)** lit. b rozporządzenia 2017/625, w zakresie kontroli upraw w zakresie organizmów genetycznie zmodyfikowanych,
-    - **b)** lit. g rozporządzenia 2017/625,
-    - **c)** lit. h rozporządzenia 2017/625, w zakresie środków ochrony roślin;
+- **1)** określać procedury lub rozwiązania, o których mowa w art. 5 ust. 1 lit. a-c rozporządzenia 2017/625, w odniesieniu do obszaru, o którym mowa w art. 1 ust. 2: lit. b rozporządzenia 2017/625, w zakresie kontroli upraw w zakresie organizmów genetycznie zmodyfikowanych, lit. g rozporządzenia 2017/625, lit. h rozporządzenia 2017/625, w zakresie środków ochrony roślin;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **2)** sporządzać, aktualizować i realizować plany awaryjne, o których mowa w art. 5 ust. 1 lit. i rozporządzenia 2017/625, w odniesieniu do obszaru, o którym mowa w art. 1 ust. 2:
-    - **a)** lit. g rozporządzenia 2017/625,
-    - **b)** lit. h rozporządzenia 2017/625, w zakresie środków ochrony roślin;
+- **2)** sporządzać, aktualizować i realizować plany awaryjne, o których mowa w art. 5 ust. 1 lit. i rozporządzenia 2017/625, w odniesieniu do obszaru, o którym mowa w art. 1 ust. 2: lit. g rozporządzenia 2017/625, lit. h rozporządzenia 2017/625, w zakresie środków ochrony roślin;
+    - **a)**
+    - **b)**
 
-- **3)** inicjować i organizować szkolenia, w tym te, o których mowa w art. 5 ust. 4 rozporządzenia 2017/625, w odniesieniu do obszaru, o którym mowa w art. 1 ust. 2:
-    - **a)** lit. b rozporządzenia 2017/625, w zakresie kontroli upraw w zakresie organizmów genetycznie zmodyfikowanych,
-    - **b)** lit. g rozporządzenia 2017/625,
-    - **c)** lit. h rozporządzenia 2017/625, w zakresie środków ochrony roślin;
+- **3)** inicjować i organizować szkolenia, w tym te, o których mowa w art. 5 ust. 4 rozporządzenia 2017/625, w odniesieniu do obszaru, o którym mowa w art. 1 ust. 2: lit. b rozporządzenia 2017/625, w zakresie kontroli upraw w zakresie organizmów genetycznie zmodyfikowanych, lit. g rozporządzenia 2017/625, lit. h rozporządzenia 2017/625, w zakresie środków ochrony roślin;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **4)** przeprowadzać lub zlecać audyty i wprowadzać w ich wyniku odpowiednie środki, w tym te, o których mowa w art. 6 rozporządzenia 2017/625, w odniesieniu do obszaru, o którym mowa w art. 1 ust. 2:
-    - **a)** lit. b rozporządzenia 2017/625, w zakresie kontroli upraw w zakresie organizmów genetycznie zmodyfikowanych,
-    - **b)** lit. g rozporządzenia 2017/625,
-    - **c)** lit. h rozporządzenia 2017/625, w zakresie środków ochrony roślin;
+- **4)** przeprowadzać lub zlecać audyty i wprowadzać w ich wyniku odpowiednie środki, w tym te, o których mowa w art. 6 rozporządzenia 2017/625, w odniesieniu do obszaru, o którym mowa w art. 1 ust. 2: lit. b rozporządzenia 2017/625, w zakresie kontroli upraw w zakresie organizmów genetycznie zmodyfikowanych, lit. g rozporządzenia 2017/625, lit. h rozporządzenia 2017/625, w zakresie środków ochrony roślin;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **5)** określać procedury, o których mowa w art. 12 ust. 1 rozporządzenia 2017/625, w odniesieniu do obszaru, o którym mowa w art. 1 ust. 2:
-    - **a)** lit. b rozporządzenia 2017/625, w zakresie kontroli upraw w zakresie organizmów genetycznie zmodyfikowanych,
-    - **b)** lit. g rozporządzenia 2017/625,
-    - **c)** lit. h rozporządzenia 2017/625, w zakresie środków ochrony roślin.
+- **5)** określać procedury, o których mowa w art. 12 ust. 1 rozporządzenia 2017/625, w odniesieniu do obszaru, o którym mowa w art. 1 ust. 2: lit. b rozporządzenia 2017/625, w zakresie kontroli upraw w zakresie organizmów genetycznie zmodyfikowanych, lit. g rozporządzenia 2017/625, lit. h rozporządzenia 2017/625, w zakresie środków ochrony roślin.
+    - **a)**
+    - **b)**
+    - **c)**
 
 4. Wytyczne i polecenia, o których mowa w ust. 2, nie mogą dotyczyć rozstrzygnięć co do istoty sprawy załatwianej w drodze decyzji.
 
@@ -135,20 +167,37 @@ Art. 44–47. (pominięte)
 3. Główny Inspektor, wykonując zadania, o których mowa w ust. 1 i 2, w szczególności jest właściwym organem lub wykonuje obowiązki i uprawnienia państwa członkowskiego Unii Europejskiej wynikające z:
 
 - **1)** art. 9 ust. 1 i 2, art. 11, art. 17 ust. 3, art. 18 ust. 5 i 6, art. 19 ust. 2, art. 20, art. 22 ust. 3, art. 23 ust. 2, art. 24 ust. 2, art. 25 ust. 5, art. 26 ust. 3, art. 27 ust. 2, art. 28 ust. 2 i 7, art. 29 ust. 3, art. 30 ust. 8, art. 31 ust. 2, art. 32 ust. 7, art. 33 ust. 3, art. 34 ust. 2, art. 40 ust. 4, art. 41 ust. 4, art. 45 ust. 2, art. 49 ust. 6, art. 52 ust. 1 i 2, art. 53 ust. 4, art. 54 ust. 4, art. 60 ust. 2, art. 68 ust. 1, art. 77 ust. 2 i art. 95 ust. 5 rozporządzenia 2016/2031 oraz art. 59 ust. 2–5, art. 62 ust. 2, art. 63 ust. 2 i ust. 4 lit. b oraz art. 65 ust. 5 rozporządzenia 2017/625, a także przepisów Unii Europejskiej wydanych na podstawie tych rozporządzeń – w odniesieniu do obszaru, o którym mowa w art. 1 ust. 2 lit. g rozporządzenia 2017/625;
-- **2)** art. 4 ust. 4 lit. a oraz d, art. 74 ust. 1 lit. a, art. 75 ust. 1, art. 102 ust. 1 i art. 104– 107 rozporządzenia 2017/625 oraz przepisów Unii Europejskiej wydanych na podstawie rozporządzenia 2017/625 – w odniesieniu do obszaru, o którym mowa w art. 1 ust. 2:
-    - **a)** lit. g rozporządzenia 2017/625,
-    - **b)** lit. h rozporządzenia 2017/625, w zakresie środków ochrony roślin.
+- **2)** art. 4 ust. 4 lit. a oraz d, art. 74 ust. 1 lit. a, art. 75 ust. 1, art. 102 ust. 1 i art. 104–107 rozporządzenia 2017/625 oraz przepisów Unii Europejskiej wydanych na podstawie rozporządzenia 2017/625 – w odniesieniu do obszaru, o którym mowa w art. 1 ust. 2: lit. g rozporządzenia 2017/625, lit. h rozporządzenia 2017/625, w zakresie środków ochrony roślin.
+    - **a)**
+    - **b)**
 
 4. Główny Inspektor może wystąpić z wnioskiem do Komisji Europejskiej o wsparcie finansowe na cele związane z wykonywaniem zadań Inspekcji.
 
 **Art. 9.** Do zakresu zadań Głównego Inspektora należy również:
+
+- **1)** udostępnianie, na stronie internetowej administrowanej przez Główny Inspektorat, informacji, o których mowa w art. 11 ust. 1 i art. 60 rozporządzenia 2017/625 – w odniesieniu do obszaru, o którym mowa w art. 1 ust. 2: lit. g rozporządzenia 2017/625, lit. h rozporządzenia 2017/625, w zakresie środków ochrony roślin;
+    - **a)**
+    - **b)**
+
+- **2)** sporządzanie i uaktualnianie wieloletnich planów kontroli, o których mowa w art. 109 ust. 1 rozporządzenia 2017/625 – w odniesieniu do obszaru, o którym mowa w art. 1 ust. 2: lit. g rozporządzenia 2017/625, lit. h rozporządzenia 2017/625, w zakresie środków ochrony roślin;
+    - **a)**
+    - **b)**
+
+- **3)** udział w kontrolach, o których mowa w art. 102 ust. 2 rozporządzenia 2017/625 – w odniesieniu do obszaru, o którym mowa w art. 1 ust. 2: lit. b rozporządzenia 2017/625, w zakresie kontroli upraw w zakresie organizmów genetycznie zmodyfikowanych, lit. g rozporządzenia 2017/625, lit. h rozporządzenia 2017/625, w zakresie środków ochrony roślin;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **4)** pełnienie funkcji instytucji łącznikowej, o której mowa w art. 103 ust. 1 rozporządzenia 2017/625 – w odniesieniu do obszaru, o którym mowa w art. 1 ust. 2: lit. g rozporządzenia 2017/625, lit. h rozporządzenia 2017/625, w zakresie środków ochrony roślin.
+    - **a)**
+    - **b)**
 
 **Art. 10.**
 
 1. W przypadku szczególnego zagrożenia spowodowanego przez agrofaga kwarantannowego dla Unii, o którym mowa w ustawie z dnia 13 lutego 2020 r. o ochronie roślin przed agrofagami, zwanego dalej „agrofagiem kwarantannowym dla Unii”, lub agrofaga objętego środkami przyjętymi zgodnie z art. 30 ust. 1 rozporządzenia 2016/2031, lub w przypadku wystąpienia agrofaga kwarantannowego dla Unii, agrofaga objętego środkami przyjętymi zgodnie z art. 30 ust. 1 rozporządzenia 2016/2031 lub agrofaga niekwarantannowego spełniającego kryteria agrofaga kwarantannowego dla Unii na podstawie oceny, o której mowa w art. 29 ust. 1 rozporządzenia 2016/2031, który nie występował dotychczas na terytorium Rzeczypospolitej Polskiej, Główny Inspektor, na wniosek zainteresowanego podmiotu, może, w drodze decyzji, ze środków budżetowych z części, której dysponentem jest minister właściwy do spraw rolnictwa:
 
 - **1)** całkowicie albo częściowo pokryć koszty zwalczania lub zapobiegania rozprzestrzenianiu się tego agrofaga poniesione przez ten podmiot,
-- **2)** przyznać odszkodowanie za rzeczywistą szkodę poniesioną przez ten podmiot przy zwalczaniu lub zapobieganiu rozprzestrzeniania się tego agrofaga – do wysokości środków budżetowych przeznaczonych na ten cel.
+- **2)** przyznać odszkodowanie za rzeczywistą szkodę poniesioną przez ten podmiot przy zwalczaniu lub zapobieganiu rozprzestrzeniania się tego agrofaga do wysokości środków budżetowych przeznaczonych na ten cel.
 
 2. Do wniosku, o którym mowa w ust. 1, dołącza się dokumenty potwierdzające poniesienie kosztów lub szkody, o których mowa w ust. 1.
 
@@ -198,6 +247,30 @@ Art. 44–47. (pominięte)
 
 **Art. 14.** Wojewódzki inspektor może, w zakresie swojej właściwości:
 
+- **1)** określać procedury lub rozwiązania, o których mowa w art. 5 ust. 1 lit. a-c rozporządzenia 2017/625, w odniesieniu do obszaru, o którym mowa w art. 1 ust. 2: lit. b rozporządzenia 2017/625, w zakresie kontroli upraw w zakresie organizmów genetycznie zmodyfikowanych, lit. g rozporządzenia 2017/625, lit. h rozporządzenia 2017/625, w zakresie środków ochrony roślin;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** sporządzać, aktualizować i realizować plany awaryjne, o których mowa w art. 5 ust. 1 lit. i rozporządzenia 2017/625, w odniesieniu do obszaru, o którym mowa w art. 1 ust. 2: lit. g rozporządzenia 2017/625, lit. h rozporządzenia 2017/625, w zakresie środków ochrony roślin;
+    - **a)**
+    - **b)**
+
+- **3)** inicjować i organizować szkolenia, w tym te, o których mowa w art. 5 ust. 4 rozporządzenia 2017/625, w odniesieniu do obszaru, o którym mowa w art. 1 ust. 2: lit. b rozporządzenia 2017/625, w zakresie kontroli upraw w zakresie organizmów genetycznie zmodyfikowanych, lit. g rozporządzenia 2017/625, lit. h rozporządzenia 2017/625, w zakresie środków ochrony roślin;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **4)** przeprowadzać lub zlecać audyty i wprowadzać w ich wyniku odpowiednie środki, w tym te, o których mowa w art. 6 rozporządzenia 2017/625, w odniesieniu do obszaru, o którym mowa w art. 1 ust. 2: lit. b rozporządzenia 2017/625, w zakresie kontroli upraw w zakresie organizmów genetycznie zmodyfikowanych, lit. g rozporządzenia 2017/625, lit. h rozporządzenia 2017/625, w zakresie środków ochrony roślin;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **5)** określać procedury, o których mowa w art. 12 ust. 1 rozporządzenia 2017/625, w odniesieniu do obszaru, o którym mowa w art. 1 ust. 2: lit. b rozporządzenia 2017/625, w zakresie kontroli upraw w zakresie organizmów genetycznie zmodyfikowanych, lit. g rozporządzenia 2017/625, lit. h rozporządzenia 2017/625, w zakresie środków ochrony roślin.
+    - **a)**
+    - **b)**
+    - **c)**
+
 **Art. 15.** Główny Inspektor i wojewódzcy inspektorzy używają pieczęci okrągłej z wizerunkiem orła.
 
 **Art. 16.** Główny Inspektor i wojewódzcy inspektorzy mogą prowadzić działalność informacyjną dla podmiotów podlegających nadzorowi Inspekcji oraz prowadzić szkolenia z zakresu zadań Inspekcji.
@@ -235,12 +308,12 @@ Art. 44–47. (pominięte)
 - **2)** prowadzenia działalności wydawniczej,
 - **3)** usług informatycznych,
 - **4)** sprzedaży roślin i produktów roślinnych z obiektów szklarniowych oraz usług związanych z wykorzystaniem tych obiektów w okresie, w którym nie są wykorzystywane do zadań Inspekcji,
-- **5)** przeprowadzania badań laboratoryjnych w zakresie nieuregulowanym przepisami innych ustaw – jeżeli świadczenie tych usług nie wpłynie negatywnie na wykonywanie przez Inspekcję jej zadań.
+- **5)** przeprowadzania badań laboratoryjnych w zakresie nieuregulowanym przepisami innych ustaw jeżeli świadczenie tych usług nie wpłynie negatywnie na wykonywanie przez Inspekcję jej zadań.
 
 2. Stawki opłat za usługi, o których mowa w ust. 1, ustala:
 
 - **1)** Główny Inspektor w odniesieniu do usług świadczonych przez Główny Inspektorat,
-- **2)** wojewódzki inspektor w odniesieniu do usług świadczonych przez wojewódzki inspektorat – na podstawie wydatków poniesionych na te usługi.
+- **2)** wojewódzki inspektor w odniesieniu do usług świadczonych przez wojewódzki inspektorat na podstawie wydatków poniesionych na te usługi.
 
 **Art. 19.**
 
@@ -276,10 +349,10 @@ Art. 44–47. (pominięte)
 - **9)** przesłuchiwania osób,
 - **10)** zasięgania opinii biegłych,
 - **11)** zabezpieczania dowodów,
-- **12)** nakładania, w celu uniemożliwienia zmiany tożsamości lub zdrowotności roślin, produktów roślinnych lub innych przedmiotów lub zmiany tożsamości agrofagów, środków ochrony roślin lub materiału siewnego, plomb ze znakiem Inspekcji na:
-    - **a)** pomieszczenia lub obiekty, w których są składowane rośliny, produkty roślinne, inne przedmioty, agrofagi, środki ochrony roślin lub materiał siewny,
-    - **b)** środki transportu, w których są przemieszczane rośliny, produkty roślinne, inne przedmioty, agrofagi, środki ochrony roślin lub materiał siewny,
-    - **c)** opakowania, w których są składowane lub przemieszczane rośliny, produkty roślinne, inne przedmioty, agrofagi, środki ochrony roślin lub materiał siewny – w zakresie niezbędnym do wykonywania tych czynności kontrolnych lub tych zadań.
+- **12)** nakładania, w celu uniemożliwienia zmiany tożsamości lub zdrowotności roślin, produktów roślinnych lub innych przedmiotów lub zmiany tożsamości agrofagów, środków ochrony roślin lub materiału siewnego, plomb ze znakiem Inspekcji na: pomieszczenia lub obiekty, w których są składowane rośliny, produkty roślinne, inne przedmioty, agrofagi, środki ochrony roślin lub materiał siewny, środki transportu, w których są przemieszczane rośliny, produkty roślinne, inne przedmioty, agrofagi, środki ochrony roślin lub materiał siewny, opakowania, w których są składowane lub przemieszczane rośliny, produkty roślinne, inne przedmioty, agrofagi, środki ochrony roślin lub materiał siewny w zakresie niezbędnym do wykonywania tych czynności kontrolnych lub tych zadań.
+    - **a)**
+    - **b)**
+    - **c)**
 
 2. Próbki do badań laboratoryjnych są pobierane i dostarczane do laboratorium w sposób zapewniający wiarygodność wyników tych badań oraz przy zachowaniu ich reprezentatywności w odniesieniu do badanego materiału.
 
@@ -288,25 +361,25 @@ Art. 44–47. (pominięte)
 4. Plomby, o których mowa w ust. 1 pkt 12:
 
 - **1)** udostępnia Główny Inspektor;
-- **2)** są zdejmowane przez:
-    - **a)** wojewódzkiego inspektora,
-    - **b)** naczelnika urzędu celno-skarbowego lub inne uprawnione organy,
-    - **c)** odbiorcę roślin, produktów roślinnych, innych przedmiotów, środków ochrony roślin lub materiału siewnego po ich dostarczeniu do miejsca przeznaczenia,
-    - **d)** inne osoby, za zgodą wojewódzkiego inspektora.
+- **2)** są zdejmowane przez: wojewódzkiego inspektora, naczelnika urzędu celno-skarbowego lub inne uprawnione organy, odbiorcę roślin, produktów roślinnych, innych przedmiotów, środków ochrony roślin lub materiału siewnego po ich dostarczeniu do miejsca przeznaczenia, inne osoby, za zgodą wojewódzkiego inspektora.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 5. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia:
 
 - **1)** sposób pobierania próbek do badań laboratoryjnych na obecność pozostałości środków ochrony roślin,
 - **2)** wzór protokołu pobrania próbek do badań laboratoryjnych na obecność pozostałości środków ochrony roślin,
 - **3)** sposób zabezpieczenia próbek pobranych do badań laboratoryjnych na obecność pozostałości środków ochrony roślin,
-- **4)** sposób postępowania z próbkami pobranymi do badań laboratoryjnych na obecność pozostałości środków ochrony roślin oraz z pozostałościami po tych próbkach – mając na uwadze rodzaj materiału, z jakiego te próbki są pobierane, oraz zapewnienie wiarygodności wyników tych badań.
+- **4)** sposób postępowania z próbkami pobranymi do badań laboratoryjnych na obecność pozostałości środków ochrony roślin oraz z pozostałościami po tych próbkach mając na uwadze rodzaj materiału, z jakiego te próbki są pobierane, oraz zapewnienie wiarygodności wyników tych badań.
 
 6. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia:
 
 - **1)** sposób pobierania próbek środków ochrony roślin do badań laboratoryjnych ich składu lub właściwości fizycznych, lub właściwości chemicznych,
 - **2)** wzór protokołu pobrania próbek środków ochrony roślin do badań laboratoryjnych ich składu lub właściwości fizycznych, lub właściwości chemicznych,
 - **3)** sposób zabezpieczenia próbek środków ochrony roślin do badań laboratoryjnych ich składu lub właściwości fizycznych, lub właściwości chemicznych,
-- **4)** sposób postępowania z próbkami środków ochrony roślin do badań laboratoryjnych ich składu lub właściwości fizycznych, lub właściwości chemicznych oraz pozostałościami po tych próbkach – mając na uwadze zapewnienie wysokiej jakości tych badań laboratoryjnych i bezpieczeństwo osób przeprowadzających te badania.
+- **4)** sposób postępowania z próbkami środków ochrony roślin do badań laboratoryjnych ich składu lub właściwości fizycznych, lub właściwości chemicznych oraz pozostałościami po tych próbkach mając na uwadze zapewnienie wysokiej jakości tych badań laboratoryjnych i bezpieczeństwo osób przeprowadzających te badania.
 
 **Art. 22.**
 
@@ -333,7 +406,7 @@ Art. 44–47. (pominięte)
 1. Do celów kontroli można dokonać zakupu:
 
 - **1)** środków ochrony roślin, jeżeli jest to niezbędne do sprawdzenia prawidłowości prowadzenia działalności w zakresie wprowadzania do obrotu środków ochrony roślin,
-- **2)** roślin, produktów roślinnych, innych przedmiotów lub środków ochrony roślin w celu przeprowadzenia kontroli urzędowej zgodnie z art. 36 ust. 1 rozporządzenia 2017/625 – w ilości niezbędnej do przeprowadzenia tej kontroli.
+- **2)** roślin, produktów roślinnych, innych przedmiotów lub środków ochrony roślin w celu przeprowadzenia kontroli urzędowej zgodnie z art. 36 ust. 1 rozporządzenia 2017/625 w ilości niezbędnej do przeprowadzenia tej kontroli.
 
 2. Środki ochrony roślin, rośliny, produkty roślinne lub inne przedmioty nabyte w ramach zakupu, o którym mowa w ust. 1, podlegają zwrotowi niezwłocznie po zakończeniu czynności kontrolnych, w celu wykonania których zostały zakupione, jeżeli są w stanie nienaruszonym.
 
@@ -411,7 +484,7 @@ Art. 44–47. (pominięte)
 - **3)** wzór odznaki Inspekcji,
 - **4)** szczegółowy sposób noszenia umundurowania i odznaki Inspekcji,
 - **5)** wysokość i warunki wypłaty równoważnika pieniężnego na zakup umundurowania oraz za okresowe czyszczenie umundurowania,
-- **6)** stanowiska pracy, na których zatrudnione osoby są uprawnione do noszenia umundurowania i odznaki Inspekcji, w zależności od rodzaju i zakresu wykonywanych zadań – biorąc pod uwagę ilość i rodzaje składników umundurowania oraz okres zużycia tych składników, a także możliwość identyfikacji pracowników Inspekcji wykonujących czynności służbowe związane z graniczną kontrolą fitosanitarną.
+- **6)** stanowiska pracy, na których zatrudnione osoby są uprawnione do noszenia umundurowania i odznaki Inspekcji, w zależności od rodzaju i zakresu wykonywanych zadań biorąc pod uwagę ilość i rodzaje składników umundurowania oraz okres zużycia tych składników, a także możliwość identyfikacji pracowników Inspekcji wykonujących czynności służbowe związane z graniczną kontrolą fitosanitarną.
 
 **Art. 30.**
 
@@ -447,9 +520,9 @@ Art. 44–47. (pominięte)
 2. Agencja Restrukturyzacji i Modernizacji Rolnictwa udostępnia nieodpłatnie Głównemu Inspektorowi dane zawarte w krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, o którym mowa w art. 2 ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. z 2023 r. poz. 885), niezbędne do wykonywania zadań Inspekcji w zakresie:
 
 - **1)** wydawania decyzji w sprawie wprowadzania środków fitosanitarnych w celu zwalczania lub zapobiegania rozprzestrzenianiu się agrofagów oraz przeprowadzania kontroli występowania agrofagów i kontroli roślin, produktów roślinnych i innych przedmiotów, podłoży i gleby oraz środków transportu w zakresie spełnienia wymagań określonych w rozporządzeniu 2016/2031, przepisach Unii Europejskiej wydanych na podstawie rozporządzenia 2016/2031 oraz w ustawie z dnia 13 lutego 2020 r. o ochronie roślin przed agrofagami;
-- **2)** kontroli stosowania:
-    - **a)** środków ochrony roślin,
-    - **b)** materiału siewnego, w tym modyfikowanego genetycznie.
+- **2)** kontroli stosowania: środków ochrony roślin, materiału siewnego, w tym modyfikowanego genetycznie.
+    - **a)**
+    - **b)**
 
 3. Dane, o których mowa w ust. 2, mogą obejmować:
 
@@ -461,19 +534,12 @@ Art. 44–47. (pominięte)
 
 4. Szczegółowy zakres przekazywanych danych oraz terminy i sposób ich przekazywania określa porozumienie zawarte między Agencją Restrukturyzacji i Modernizacji Rolnictwa a Głównym Inspektorem.
 
-5. Organy Krajowej Administracji Skarbowej współpracują z Inspekcją i dokonują wymiany informacji, w tym danych objętych tajemnicą skarbową, oraz udostępniają nieodpłatnie te informacje w zakresie niezbędnym do wykonywania zadań Inspekcji, w tym do:
-
-- **1)** przeprowadzania kontroli i wydawania decyzji;
-- **2)** przeprowadzania oceny ryzyka, o której mowa w art. 24 ust. 2 rozporządzenia 2017/625.
+5. Na wniosek organów Inspekcji, organy Krajowej Administracji Skarbowej nieodpłatnie udostępniają dane dotyczące podmiotów wprowadzających środki ochrony roślin z państw trzecich, w tym informacje objęte tajemnicą celną, niezbędne do wykonywania zadań Inspekcji związanych z zapobieganiem zagrożeniom związanym z produkcją środków ochrony roślin, obrotem tymi środkami i stosowaniem tych środków.
 
 6. Dane, o których mowa w ust. 5, mogą obejmować:
 
 - **1)** imię, nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres podmiotu, którego dane są niezbędne do wykonywania zadań Inspekcji, o których mowa w ust. 5, z tym że w przypadku gdy tym podmiotem jest osoba fizyczna wykonująca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby te dane obejmują adres miejsca wykonywania działalności gospodarczej;
-- **2)** nazwę, ilość, termin i miejsce wprowadzania środków ochrony roślin z państw trzecich lub miejsce składowania na terytorium Rzeczypospolitej Polskiej środków ochrony roślin wprowadzonych z państw trzecich, a także inne informacje i dane niezbędne do wykonywania zadań Inspekcji związanych z zapobieganiem zagrożeniom związanym z produkcją środków ochrony roślin, obrotem tymi środkami i stosowaniem tych środków;
-- **3)** nazwę, ilość, termin i miejsce wprowadzania roślin, produktów roślinnych lub innych przedmiotów z państw trzecich lub miejsce ich składowania na terytorium Rzeczypospolitej Polskiej, a także inne informacje i dane niezbędne do wykonywania zadań Inspekcji związanych z ochroną roślin przed agrofagami lub z nadzorem nad obrotem materiałem siewnym;
-- **4)** nazwę lub opis nawozów lub środków wspomagających uprawę roślin, o których mowa w ustawie z dnia 10 lipca 2007 r. o nawozach i nawożeniu (Dz. U. z 2024 r. poz. 105), lub nazwę lub kategorię funkcji produktów nawozowych UE, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2019/1009 z dnia 5 czerwca 2019 r. ustanawiającym przepisy dotyczące udostępniania na rynku produktów nawozowych UE, zmieniającym rozporządzenia (WE) nr 1069/2009 i (WE) nr 1107/2009 oraz uchylającym rozporządzenie (WE) nr 2003/2003 (Dz. Urz. UE L 170 z 25.06.2019, str. 1, z późn. zm. ), oraz termin i miejsce ich wprowadzania z państw trzecich lub miejsce ich składowania na terytorium Rzeczypospolitej Polskiej, a także inne informacje i dane niezbędne do wykonywania zadań Inspekcji związanych z nadzorem nad wprowadzaniem do obrotu nawozów, środków wspomagających uprawę roślin i produktów nawozowych UE, o których mowa w ustawie z dnia 10 lipca 2007 r. o nawozach i nawożeniu.
-
-6a. Informacje, o których mowa w ust. 5, mogą być przekazywane za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513) lub na informatycznym nośniku danych w rozumieniu art. 3 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703), zapisane w edytowalnej postaci elektronicznej.
+- **2)** nazwę, ilość, termin i miejsce wprowadzania środków ochrony roślin z państw trzecich lub miejsce składowania na terytorium Rzeczypospolitej Polskiej środków ochrony roślin wprowadzonych z państw trzecich, a także inne informacje i dane niezbędne do wykonywania zadań Inspekcji związanych z zapobieganiem zagrożeniom związanym z produkcją środków ochrony roślin, obrotem tymi środkami i stosowaniem tych środków.
 
 7. Szczegółowy zakres przekazywanych danych oraz terminy i sposób ich przekazywania określa porozumienie zawarte między Szefem Krajowej Administracji Skarbowej a Głównym Inspektorem.
 
@@ -483,9 +549,9 @@ Art. 44–47. (pominięte)
 
 - **1)** lit. b rozporządzenia 2017/625, w zakresie kontroli upraw w zakresie organizmów genetycznie zmodyfikowanych,
 - **2)** lit. g rozporządzenia 2017/625,
-- **3)** lit. h rozporządzenia 2017/625, w zakresie środków ochrony roślin – stosuje się przepisy art. 8 rozporządzenia 2017/625.
+- **3)** lit. h rozporządzenia 2017/625, w zakresie środków ochrony roślin stosuje się przepisy art. 8 rozporządzenia 2017/625.
 
-2. Uzyskane w wyniku wykonywania zadań Inspekcji informacje lub dane są nieodpłatnie przekazywane Agencji Restrukturyzacji i Modernizacji Rolnictwa w zakresie niezbędnym do przeprowadzania kontroli administracyjnych i kontroli na miejscu, jako agencji płatniczej, o której mowa w art. 9 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2116 z dnia 2 grudnia 2021 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylenia rozporządzenia (UE) nr 1306/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 187, z późn. zm. ).
+2. Uzyskane w wyniku wykonywania zadań Inspekcji informacje lub dane są nieodpłatnie przekazywane Agencji Restrukturyzacji i Modernizacji Rolnictwa w zakresie niezbędnym do przeprowadzania kontroli administracyjnych i kontroli na miejscu, jako agencji płatniczej, o której mowa w art. 9 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2116 z dnia 2 grudnia 2021 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylenia rozporządzenia (UE) nr 1306/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 187, z późn. zm.).
 
 3. Uzyskane w wyniku wykonywania zadań Inspekcji informacje lub dane są nieodpłatnie przekazywane:
 
@@ -507,6 +573,14 @@ Art. 44–47. (pominięte)
 #### Rozdział 4 Organizacja i zasady funkcjonowania laboratoriów przeprowadzających badania laboratoryjne na potrzeby zadań Inspekcji
 
 **Art. 34.** Badania laboratoryjne na potrzeby zadań Inspekcji:
+
+- **1)** są przeprowadzane przez: laboratoria Głównego Inspektoratu, laboratoria inne niż określone w lit. a, wykonujące działalność na zasadach określonych w ustawie z dnia 9 listopada 2012 r. o nasiennictwie – w przypadku badań laboratoryjnych na potrzeby zadań Inspekcji związanych z nadzorem nad wytwarzaniem materiału siewnego, oceną tego materiału i obrotem tym materiałem;
+    - **a)**
+    - **b)**
+
+- **2)** mogą być przeprowadzane w: odniesieniu do obszaru, o którym mowa w art. 1 ust. 2 lit. b rozporządzenia 2017/625, w zakresie kontroli upraw w zakresie organizmów genetycznie zmodyfikowanych, art. 1 ust. 2 lit. g rozporządzenia 2017/625 oraz art. 1 ust. 2 lit. h rozporządzenia 2017/625, w zakresie środków ochrony roślin, w: – laboratoriach instytutów badawczych, – laboratoriach innych niż laboratoria instytutów badawczych, zatwierdzonych przez Głównego Inspektora na podstawie art. 37 ust. 4, – krajowych laboratoriach referencyjnych, o których mowa w art. 100 ust. 1 rozporządzenia 2017/625, zwanych dalej „krajowymi laboratoriami referencyjnymi”, – laboratoriach, o których mowa w art. 37 ust. 2 rozporządzenia 2017/625, – laboratoriach lub ośrodkach diagnostycznych, o których mowa w art. 37 ust. 6 rozporządzenia 2017/625, zakresie innym niż określony w lit. a – w laboratoriach, którym Główny Inspektor powierzył przeprowadzenie tych badań, jeżeli w tych laboratoriach są zapewnione warunki gwarantujące właściwe ich przeprowadzenie.
+    - **a)**
+    - **b)**
 
 **Art. 35.**
 
@@ -547,17 +621,17 @@ Art. 44–47. (pominięte)
 
 - **1)** lit. b rozporządzenia 2017/625, w zakresie kontroli upraw w zakresie organizmów genetycznie zmodyfikowanych,
 - **2)** lit. g rozporządzenia 2017/625, lub
-- **3)** lit. h rozporządzenia 2017/625, w zakresie środków ochrony roślin – nie jest możliwe w laboratoriach, o których mowa w art. 34 pkt 1 lit. a i pkt 2 lit. a tiret pierwsze, Główny Inspektor może zamieścić na stronie internetowej administrowanej przez Główny Inspektorat informację o możliwości ubiegania się o status laboratorium urzędowego zatwierdzonego w zakresie tych badań.
+- **3)** lit. h rozporządzenia 2017/625, w zakresie środków ochrony roślin nie jest możliwe w laboratoriach, o których mowa w art. 34 pkt 1 lit. a i pkt 2 lit. a tiret pierwsze, Główny Inspektor może zamieścić na stronie internetowej administrowanej przez Główny Inspektorat informację o możliwości ubiegania się o status laboratorium urzędowego zatwierdzonego w zakresie tych badań.
 
 2. Kierownik laboratorium ubiegającego się o status laboratorium urzędowego zatwierdzonego w zakresie badań określonych w informacji, o której mowa w ust. 1, składa do Głównego Inspektora wniosek w tym zakresie, w formie pisemnej lub w formie dokumentu elektronicznego doręczanego środkami komunikacji elektronicznej.
 
 3. Do wniosku dołącza się:
 
-- **1)** kopię:
-    - **a)** certyfikatu akredytacji, o której mowa w art. 37 ust. 4 lit. e rozporządzenia 2017/625,
-    - **b)** zakresu akredytacji zgodnego z zakresem badań określonym we wniosku oraz metodą badawczą, jeżeli tak stanowią przepisy odrębne;
+- **1)** kopię: certyfikatu akredytacji, o której mowa w art. 37 ust. 4 lit. e rozporządzenia 2017/625, zakresu akredytacji zgodnego z zakresem badań określonym we wniosku oraz metodą badawczą, jeżeli tak stanowią przepisy odrębne;
+    - **a)**
+    - **b)**
 
-- **2)** opinię krajowego laboratorium referencyjnego właściwego dla kierunku badań, a w przypadku gdy nie ma takiego krajowego laboratorium referencyjnego – krajowego laboratorium referencyjnego znajdującego się na terytorium państwa członkowskiego Unii Europejskiej lub Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub laboratorium referencyjnego Unii Europejskiej, wydaną nie wcześniej niż w roku poprzedzającym rok złożenia wniosku w zakresie spełnienia wymagań określonych w art. 37 ust. 4 lit. a–d rozporządzenia 2017/625, wraz z raportem, będącym podstawą do wydania tej opinii;
+- **2)** opinię krajowego laboratorium referencyjnego właściwego dla kierunku badań, a w przypadku gdy nie ma takiego krajowego laboratorium referencyjnego – krajowego laboratorium referencyjnego znajdującego się na terytorium państwa członkowskiego Unii Europejskiej lub Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub laboratorium referencyjnego Unii Europejskiej, wydaną nie wcześniej niż w roku poprzedzającym rok złożenia wniosku w zakresie spełnienia wymagań określonych w art. 37 ust. 4 lit. a-d rozporządzenia 2017/625, wraz z raportem, będącym podstawą do wydania tej opinii;
 - **3)** kopię raportu z badań biegłości, o których mowa w art. 38 ust. 2 rozporządzenia 2017/625, zwanych dalej „badaniami biegłości”, przeprowadzonych nie wcześniej niż w roku poprzedzającym rok złożenia wniosku przez właściwe dla danego zakresu badań krajowe laboratorium referencyjne, a w przypadku gdy nie ma takiego krajowego laboratorium referencyjnego lub nie organizuje ono w danym roku kalendarzowym badań biegłości – przez krajowe laboratorium referencyjne znajdujące się na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub laboratorium referencyjne Unii Europejskiej.
 
 4. Główny Inspektor zatwierdza, w drodze decyzji, laboratorium ubiegające się o status laboratorium urzędowego zatwierdzonego do przeprowadzania badań laboratoryjnych, określając:
@@ -575,6 +649,14 @@ Art. 44–47. (pominięte)
 6. Laboratorium, które uzyskało status laboratorium urzędowego zatwierdzonego do przeprowadzania badań laboratoryjnych, w terminie 6 miesięcy od dnia uzyskania w badaniach biegłości wyniku niezgodnego z kryteriami określonymi przez krajowe laboratorium referencyjne lub laboratorium referencyjne Unii Europejskiej, które przeprowadziło te badania, lub wyniku wątpliwego podlega ponownemu badaniu biegłości przeprowadzanemu przez właściwe dla danego zakresu badań krajowe laboratorium referencyjne, a w przypadku gdy nie ma takiego krajowego laboratorium referencyjnego – przez krajowe laboratorium referencyjne znajdujące się na terytorium państwa członkowskiego Unii Europejskiej lub Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub laboratorium referencyjne Unii Europejskiej.
 
 **Art. 38.** Główny Inspektor cofa laboratorium zatwierdzenie udzielone na podstawie art. 37 ust. 4, w drodze decyzji, jeżeli:
+
+- **1)** krajowa jednostka akredytująca, o której mowa w art. 37 ust. 4 lit. e rozporządzenia 2017/625, cofnęła lub zawiesiła posiadaną przez laboratorium akredytację lub
+- **2)** laboratorium: dwukrotnie w kolejnych badaniach biegłości nie uzyskało wyników zgodnych z kryteriami określonymi przez krajowe laboratorium referencyjne lub laboratorium referencyjne Unii Europejskiej, które przeprowadziło te badania, lub nie poddało się badaniu biegłości, lub uchyla się od poddania się audytowi, o którym mowa w art. 39 ust. 1 rozporządzenia 2017/625, lub wykonuje badania z naruszeniem przepisów art. 34 rozporządzenia 2017/625, lub
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **3)** nie zostały podjęte działania naprawcze, o których mowa w art. 39 ust. 2 rozporządzenia 2017/625.
 
 **Art. 39.**
 
@@ -621,7 +703,7 @@ Art. 44–47. (pominięte)
 - **1)** udaremnia lub utrudnia wykonywanie czynności kontrolnych lub innych czynności urzędowych lub nie współdziała przy wykonywaniu tych czynności, w tym, będąc podmiotem kontrolowanym, nie wykonuje obowiązków określonych w art. 15 rozporządzenia 2017/625,
 - **2)** z naruszeniem przepisu art. 21 ust. 4 pkt 2 zdejmuje nałożone plomby,
 - **3)** narusza opieczętowanie lub zdejmuje plomby nałożone na podstawie art. 25 ust. 1 pkt 1 lub 2,
-- **4)** nie informuje Inspekcji o sposobie wykonania zaleceń pokontrolnych zgodnie z art. 26 ust. 8 – podlega karze grzywny.
+- **4)** nie informuje Inspekcji o sposobie wykonania zaleceń pokontrolnych zgodnie z art. 26 ust. 8 podlega karze grzywny.
 
 2. Orzekanie w sprawach o czyny określone w ust. 1 następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
 
@@ -677,6 +759,11 @@ Art. 44–47. (pominięte)
 
 **Art. 60.** Porozumienie zawarte na podstawie:
 
+- **1)** art. 95 ust. 3d pkt 1 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin zachowuje moc i może zostać zmienione lub rozwiązane na podstawie art. 33 ust. 5 pkt 1 niniejszej ustawy;
+- **2)** art. 95 ust. 3d pkt 2 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin zachowuje moc i może zostać zmienione lub rozwiązane na podstawie art. 33 ust. 5 pkt 2 niniejszej ustawy;
+- **3)** art. 102 ust. 2 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin zachowuje moc i może zostać zmienione lub rozwiązane na podstawie art. 30 ust. 2 albo 3 niniejszej ustawy;
+- **4)** art. 102a ust. 4 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin zachowuje moc i może zostać zmienione lub rozwiązane na podstawie art. 32 ust. 4 niniejszej ustawy.
+
 **Art. 61.**
 
 1. Z dniem 1 stycznia 2021 r.:
@@ -698,7 +785,7 @@ Art. 44–47. (pominięte)
 
 7. Pracownicy wojewódzkich inspektoratów zatrudnieni w laboratoriach wojewódzkich inspektoratów stają się, z dniem 1 stycznia 2021 r., pracownikami Głównego Inspektoratu.
 
-8. Do pracowników, o których mowa w ust. 7, stosuje się przepisy art. 23 § 1–4 i § 6 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
+8. Do pracowników, o których mowa w ust. 7, stosuje się przepisy art. 231 § 1–4 i § 6 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 9. (uchylony)
 
@@ -706,7 +793,7 @@ Art. 44–47. (pominięte)
 
 11. Do dnia 31 grudnia 2020 r. badania laboratoryjne na potrzeby zadań Inspekcji są przeprowadzane przez laboratoria wymienione w art. 34 oraz przez laboratoria wojewódzkich inspektoratów.
 
-**Art. 62.** Do dnia 29 kwietnia 2022 r. przepisów art. 37 i art. 38 nie stosuje się do laboratoriów przeprowadzających badania w obszarze, o którym mowa w art. 1 ust. 2 lit. g rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/625 z dnia 15 marca 2017 r. w sprawie kontroli urzędowych i innych czynności urzędowych przeprowadzanych w celu zapewnienia stosowania prawa żywnościowego i paszowego oraz zasad dotyczących zdrowia i dobrostanu zwierząt, zdrowia roślin i środków ochrony roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001, (WE) nr 396/2005, (WE) nr 1069/2009, (WE) nr 1107/2009, (UE) nr 1151/2012, (UE) nr 652/2014, (UE) 2016/429 i (UE) 2016/2031, rozporządzenia Rady (WE) nr 1/2005 i (WE) nr 1099/2009 oraz dyrektywy Rady 98/58/WE, 1999/74/WE, 2007/43/WE, 2008/119/WE i 2008/120/WE, oraz uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 854/2004 i (WE) nr 882/2004, dyrektywy Rady 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/WE, 96/93/WE i 97/78/WE oraz decyzję Rady 92/438/EWG (rozporządzenie w sprawie kontroli urzędowych) (Dz. Urz. UE L 95 z 07.04.2017, str. 1, z późn. zm. ).
+**Art. 62.** Do dnia 29 kwietnia 2022 r. przepisów art. 37 i art. 38 nie stosuje się do laboratoriów przeprowadzających badania w obszarze, o którym mowa w art. 1 ust. 2 lit. g rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/625 z dnia 15 marca 2017 r. w sprawie kontroli urzędowych i innych czynności urzędowych przeprowadzanych w celu zapewnienia stosowania prawa żywnościowego i paszowego oraz zasad dotyczących zdrowia i dobrostanu zwierząt, zdrowia roślin i środków ochrony roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001, (WE) nr 396/2005, (WE) nr 1069/2009, (WE) nr 1107/2009, (UE) nr 1151/2012, (UE) nr 652/2014, (UE) 2016/429 i (UE) 2016/2031, rozporządzenia Rady (WE) nr 1/2005 i (WE) nr 1099/2009 oraz dyrektywy Rady 98/58/WE, 1999/74/WE, 2007/43/WE, 2008/119/WE i 2008/120/WE, oraz uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 854/2004 i (WE) nr 882/2004, dyrektywy Rady 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/WE, 96/93/WE i 97/78/WE oraz decyzję Rady 92/438/EWG (rozporządzenie w sprawie kontroli urzędowych) (Dz. Urz. UE L 95 z 07.04.2017, str. 1, z późn. zm.).
 
 **Art. 63.**
 
@@ -720,18 +807,18 @@ Art. 44–47. (pominięte)
 
 2. Do spraw określonych w ustawie zmienianej w art. 46 objętych postępowaniami wszczętymi i niezakończonymi przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe, z tym że do spraw o udzielenie upoważnienia, o którym mowa w:
 
-- **1)** art. 98 ust. 2 ustawy zmienianej w art. 46 , objętych postępowaniami wszczętymi i niezakończonymi ostateczną decyzją przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotyczące udzielania upoważnienia, o którym mowa w art. 98 ust. 2 pkt 1 ustawy zmienianej w art. 46 w brzmieniu nadanym niniejszą ustawą;
-- **2)** art. 103 ust. 6 ustawy zmienianej w art. 46 , objętych postępowaniami wszczętymi i niezakończonymi ostateczną decyzją przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotyczące udzielania upoważnienia, o którym mowa w art. 103 ust. 6 ustawy zmienianej w art. 46 w brzmieniu nadanym niniejszą ustawą.
+- **1)** art. 98 ust. 2 ustawy zmienianej w art. 46, objętych postępowaniami wszczętymi i niezakończonymi ostateczną decyzją przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotyczące udzielania upoważnienia, o którym mowa w art. 98 ust. 2 pkt 1 ustawy zmienianej w art. 46 w brzmieniu nadanym niniejszą ustawą;
+- **2)** art. 103 ust. 6 ustawy zmienianej w art. 46, objętych postępowaniami wszczętymi i niezakończonymi ostateczną decyzją przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotyczące udzielania upoważnienia, o którym mowa w art. 103 ust. 6 ustawy zmienianej w art. 46 w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 65.** Upoważnienia i akredytacje udzielone na podstawie przepisów ustawy zmienianej w art. 46 stają się akredytacjami i upoważnieniami w rozumieniu ustawy zmienianej w art. 46 w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 66.** Do kontroli przeprowadzanych w ramach nadzoru, o którym mowa w art. 81 ust. 1 ustawy zmienianej w art. 46 , wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+**Art. 66.** Do kontroli przeprowadzanych w ramach nadzoru, o którym mowa w art. 81 ust. 1 ustawy zmienianej w art. 46, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
 **Art. 67.**
 
 1. Decyzje wydane na podstawie przepisów ustawy zmienianej w art. 47 przed dniem wejścia w życie niniejszej ustawy zachowują moc.
 
-2. Do spraw określonych w ustawie zmienianej w art. 47 , objętych postępowaniami wszczętymi i niezakończonymi ostateczną decyzją przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 47 w brzmieniu nadanym niniejszą ustawą.
+2. Do spraw określonych w ustawie zmienianej w art. 47, objętych postępowaniami wszczętymi i niezakończonymi ostateczną decyzją przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 47 w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 68.**
 
@@ -741,12 +828,12 @@ Art. 44–47. (pominięte)
 - **2)** art. 95 ust. 4 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 21 ust. 6 niniejszej ustawy,
 - **3)** art. 95 ust. 5 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 21 ust. 5 niniejszej ustawy,
 - **4)** art. 101 ust. 2 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 29 ust. 6 niniejszej ustawy,
-- **5)** art. 106 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 20 niniejszej ustawy – nie dłużej jednak niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
+- **5)** art. 106 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 20 niniejszej ustawy nie dłużej jednak niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
 
 2. Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
-- **1)** art. 83 ust. 1 ustawy zmienianej w art. 46 zachowują moc i mogą być zmieniane na podstawie art. 83 ust. 1 ustawy zmienianej w art. 46 ;
-- **2)** art. 101 ustawy zmienianej w art. 46 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 101 ustawy zmienianej w art. 46 w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy;
+- **1)** art. 83 ust. 1 ustawy zmienianej w art. 46 zachowują moc i mogą być zmieniane na podstawie art. 83 ust. 1 ustawy zmienianej w art. 46;
+- **2)** art. 101 ustawy zmienianej w art. 46 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 101 ustawy zmienianej w art. 46w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy;
 - **3)** art. 103c ustawy zmienianej w art. 46 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 103c ustawy zmienianej w art. 46 w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 69.**
@@ -767,13 +854,13 @@ Art. 44–47. (pominięte)
 2. W przypadku przekroczenia lub zagrożenia przekroczeniem przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa w ust. 1, wprowadza się mechanizmy korygujące polegające na:
 
 - **1)** zmniejszeniu kosztów badań laboratoryjnych lub testów w zakresie zadań wykonywanych przez Inspekcję – przez Głównego Inspektora;
-- **2)** zmniejszeniu kosztów:
-    - **a)** badań laboratoryjnych lub testów w zakresie zadań wykonywanych przez Inspekcję,
-    - **b)** kontroli przeprowadzanych przez wojewódzkich inspektorów w zakresie: – ochrony roślin przed agrofagami, – zapobiegania zagrożeniom związanym z produkcją środków ochrony roślin, obrotem tymi środkami i stosowaniem tych środków, – nadzoru nad wytwarzaniem materiału siewnego, oceną tego materiału, obrotem tym materiałem i stosowaniem tego materiału.
+- **2)** zmniejszeniu kosztów: badań laboratoryjnych lub testów w zakresie zadań wykonywanych przez Inspekcję, kontroli przeprowadzanych przez wojewódzkich inspektorów w zakresie: – ochrony roślin przed agrofagami, – zapobiegania zagrożeniom związanym z produkcją środków ochrony roślin, obrotem tymi środkami i stosowaniem tych środków, – nadzoru nad wytwarzaniem materiału siewnego, oceną tego materiału, obrotem tym materiałem i stosowaniem tego materiału.
+    - **a)**
+    - **b)**
 
 3. Organem właściwym do wdrożenia mechanizmów korygujących, o których mowa w ust. 2, jest minister właściwy do spraw rolnictwa.
 
 4. Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa w ust. 1, jest minister właściwy do spraw rolnictwa.
 
-**Art. 70.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia , z wyjątkiem art. 46 pkt 2–10, które wchodzą w życie z dniem 1 stycznia 2021 r.
+**Art. 70.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 46 pkt 2–10, które wchodzą w życie z dniem 1 stycznia 2021 r.
 

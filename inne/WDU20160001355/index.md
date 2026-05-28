@@ -8,10 +8,10 @@ pos: 1355
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 21 lipca 2016 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -22,171 +22,271 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2016-07-21 |
 | Data wydania | 2016-08-29 |
+| Wejście w życie | 2016-08-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001355) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1355/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2015 r. poz. 581, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2015 r. poz. 581, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 95e.**
+- **1)** w art. 5 po pkt 32b dodaje się pkt 32c w brzmieniu: „
+- **32c)** system IOWISZ – system teleinformatyczny, o którym mowa w art. 31a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia; ” ;
+- **2)** w art. 95a po ust. 10 dodaje się ust. 10a w brzmieniu: „
 
-1. Opinię, o której mowa art. 95d ust. 1, wydaje się na wniosek podmiotu wykonującego działalność leczniczą albo podmiotu zamierzającego wykonywać działalność leczniczą, zwanego dalej „podmiotem wnioskującym”.
+10a. Minister właściwy do spraw zdrowia może dokonać zmiany map na podstawie informacji otrzymanych w wyniku monitorowania, o którym mowa w ust. 10, w terminie 2 miesięcy od dnia otrzymania tych informacji. ” ;
 
-2. Wniosek o wydanie opinii, o której mowa art. 95d ust. 1, składa się do organu wydającego opinię postaci papierowej lub elektronicznej opatrzony kwalifikowanym podpisem elektronicznym lub podpisem elektronicznym potwierdzonym profilem zaufanym ePUAP rozumieniu przepisów o informatyzacji działalności podmiotów realizujących zadania publiczne.
+- **3)** art. 95c-95e otrzymują brzmienie: „
 
-3. Wniosek o wydanie opinii, o której mowa art. 95d ust. 1, zawiera:
+**Art. 95c.**
 
-- **1)** oznaczenie organu wydającego opinię; nieposiadających osobowości prawnej;
+1. Na podstawie Mapy Regionalnej wojewoda w porozumieniu z Wojewódzką Radą ustala priorytety dla regionalnej polityki zdrowotnej, w terminie do dnia 1 września roku poprzedzającego pierwszy rok obowiązywania tych priorytetów, mając na uwadze stan zdrowia obywateli oraz uzyskanie efektów zdrowotnych najwyższej wartości. Priorytety ustala się na okres, na który sporządza się Mapę Regionalną.
+
+2. Wojewoda w porozumieniu z Wojewódzką Radą dokonuje aktualizacji priorytetów dla regionalnej polityki zdrowotnej w przypadku zmiany Mapy Regionalnej, o której mowa w art. 95a ust. 10a, w terminie 2 miesięcy od dnia dokonania tej zmiany.
+
+1. Wojewoda albo minister właściwy do spraw zdrowia, zwany dalej „organem wydającym opinię”, wydaje opinię o celowości inwestycji polegającej na utworzeniu na obszarze województwa nowego:
+
+- **1)** podmiotu leczniczego, który ma wykonywać działalność leczniczą w zakresie leczenia szpitalnego, lub nowych jednostek lub komórek organizacyjnych zakładu leczniczego podmiotu leczniczego, przy pomocy których ma być wykonywana działalność lecznicza w zakresie leczenia szpitalnego, lub innej inwestycji w tym zakresie o wartości przekraczającej 3 miliony zł w okresie 2 lat, realizowanej przez podmiot wnioskujący, o którym mowa w art. 95e ust. 1;
+- **2)** podmiotu wykonującego działalność leczniczą, który ma wykonywać działalność leczniczą w zakresie ambulatoryjnej opieki specjalistycznej, lub nowych jednostek lub komórek organizacyjnych zakładu leczniczego podmiotu leczniczego, przy pomocy których ma być wykonywana działalność lecznicza w zakresie ambulatoryjnej opieki specjalistycznej, lub innej inwestycji w tym zakresie o wartości przekraczającej 2 miliony zł w okresie 2 lat, realizowanej przez podmiot wnioskujący, o którym mowa w art. 95e ust. 1;
+- **3)** podmiotu wykonującego działalność leczniczą, który ma wykonywać działalność leczniczą w zakresie leczenia szpitalnego, ambulatoryjnej opieki specjalistycznej lub podstawowej opieki zdrowotnej, lub nowych jednostek lub komórek organizacyjnych zakładu leczniczego podmiotu leczniczego, przy pomocy których ma być wykonywana działalność lecznicza w zakresie leczenia szpitalnego, ambulatoryjnej opieki specjalistycznej lub podstawowej opieki zdrowotnej, lub innej inwestycji w tym zakresie, na które podmiot wnioskujący, o którym mowa w art. 95e ust. 1, zamierza uzyskać dofinansowanie ze środków europejskich.
+
+2. Opinii, o której mowa w ust. 1, nie wydaje się w odniesieniu do:
+
+- **1)** szpitalnego oddziału ratunkowego;
+- **2)** szpitalnego oddziału ratunkowego dla dzieci;
+- **3)** centrum urazowego;
+- **4)** centrum urazowego dla dzieci.
+
+3. Minister właściwy do spraw zdrowia jest organem wydającym opinię, o której mowa w ust. 1, w przypadku gdy podmiotem wnioskującym, o którym mowa w art. 95e ust. 1, jest:
+
+- **1)** podmiot leczniczy, dla którego podmiotem tworzącym jest wojewoda;
+- **2)** podmiot leczniczy utworzony lub prowadzony przez uczelnię medyczną, o której mowa w art. 2 ust. 1 pkt 13 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
+- **3)** instytut badawczy, o którym mowa w art. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2016 r. poz. 371, 1079 i 1311), w zakresie, w jakim wykonuje działalność leczniczą;
+- **4)** podmiot powstały z przekształcenia podmiotu leczniczego albo instytutu badawczego, o którym mowa w pkt 1–3;
+- **5)** wojewoda, jeżeli jest podmiotem zamierzającym wykonywać działalność leczniczą;
+- **6)** uczelnia medyczna, jeżeli jest podmiotem zamierzającym wykonywać działalność leczniczą.
+
+4. Do określenia wartości inwestycji, o których mowa w ust. 1 pkt 1 i 2, zalicza się następujące rodzaje poniesionych lub planowanych kosztów:
+
+- **1)** przygotowania do realizacji inwestycji budowlanej oraz innych zmian w obiekcie budowlanym, o którym mowa w art. 3 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2016 r. poz. 290, 961 i 1165), zwanym dalej „obiektem budowlanym”, wraz z usługami towarzyszącymi, w tym obsługą inwestorską, oraz zakupu obiektu budowlanego, w szczególności opracowania dokumentacji projektowej, zakupu i przygotowania gruntu pod budowę oraz ekspertyz, świadectw, operatów, studiów, pomiarów geodezyjnych i prac geologicznych oraz prac archeologicznych, dotyczących inwestycji budowlanej;
+- **2)** realizacji inwestycji budowlanej oraz innych zmian w obiekcie budowlanym wraz z usługami towarzyszącymi, w tym obsługą inwestorską;
+- **3)** zakupu obiektu budowlanego;
+- **4)** zakupu lub wytworzenia we własnym zakresie środka trwałego, z wyjątkiem tego, którego wartość początkowa nie przekracza kwoty określonej w art. 16f ust. 3 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.), z zastrzeżeniem pkt 5;
+- **5)** zakupu lub wytworzenia we własnym zakresie środka trwałego bez względu na jego wartość oraz innych przedmiotów, jeżeli są pierwszym wyposażeniem obiektów budowlanych;
+- **6)** transportu i montażu oraz inne koszty ponoszone w celu przekazania środka trwałego do używania;
+- **7)** zmiany w środku trwałym powodującej ich ulepszenie w rozumieniu przepisów o rachunkowości;
+- **8)** zakupu wartości niematerialnej i prawnej, jeżeli: jej wartość początkowa jest wyższa od kwoty określonej w art. 16f ust. 3 ustawy wymienionej w pkt 4, jest pierwszym wyposażeniem obiektu budowlanego – bez względu na jego wartość;
+    - **a)**
+    - **b)**
+
+- **9)** innych, jeżeli na podstawie odrębnych przepisów podlegają finansowaniu lub dofinansowaniu ze środków budżetu państwa przeznaczonych na inwestycje.
+
+1. Opinię, o której mowa w art. 95d ust. 1, wydaje się na wniosek podmiotu wykonującego działalność leczniczą albo podmiotu zamierzającego wykonywać działalność leczniczą, zwanego dalej „podmiotem wnioskującym”.
+
+2. Wniosek o wydanie opinii, o której mowa w art. 95d ust. 1, składa się do organu wydającego opinię w postaci papierowej lub elektronicznej opatrzony kwalifikowanym podpisem elektronicznym lub podpisem elektronicznym potwierdzonym profilem zaufanym ePUAP w rozumieniu przepisów o informatyzacji działalności podmiotów realizujących zadania publiczne.
+
+3. Wniosek o wydanie opinii, o której mowa w art. 95d ust. 1, zawiera:
+
+- **1)** oznaczenie organu wydającego opinię;
+- **2)** imię i nazwisko lub nazwę (firmę) podmiotu wnioskującego oraz jego numer KRS w przypadku osób prawnych albo numer REGON lub NIP w przypadku osób fizycznych lub jednostek organizacyjnych nieposiadających osobowości prawnej;
 - **3)** oznaczenie siedziby albo adresu zamieszkania, albo adresu podmiotu wnioskującego;
 - **4)** wskazanie typu inwestycji: utworzenie nowego podmiotu wykonującego działalność leczniczą, nowych jednostek lub komórek organizacyjnych zakładu leczniczego podmiotu leczniczego lub innej inwestycji;
-- **5)** opis inwestycji, o której mowa art. 95d ust. 1, zawierający:
-    - **a)** zakres rzeczowy inwestycji,
-    - **b)** uzasadnienie celowości inwestycji,
-    - **c)** okres realizacji inwestycji,
-    - **d)** wskazanie miejsca realizacji inwestycji,
-    - **e)** źródła finansowania inwestycji oraz rodzaje poniesionych lub planowanych kosztów, o których mowa art. 95d ust. 4, a przypadku inwestycji budowlanej – również jej szacunkową wartość podziale na grupy kosztów,
-    - **f)** inne informacje dotyczące inwestycji;
+- **5)** opis inwestycji, o której mowa w art. 95d ust. 1, zawierający: zakres rzeczowy inwestycji, uzasadnienie celowości inwestycji, okres realizacji inwestycji, wskazanie miejsca realizacji inwestycji, źródła finansowania inwestycji oraz rodzaje poniesionych lub planowanych kosztów, o których mowa w art. 95d ust. 4, a w przypadku inwestycji budowlanej – również jej szacunkową wartość w podziale na grupy kosztów, inne informacje dotyczące inwestycji;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
 
-- **6)** wypełniony formularz Instrumentu Oceny Wniosków Inwestycyjnych Sektorze Zdrowia i jego numer wygenerowany za pośrednictwem systemu IOWISZ nie wcześniej niż terminie miesiąca przed dniem złożenia wniosku;
+- **6)** wypełniony formularz Instrumentu Oceny Wniosków Inwestycyjnych w Sektorze Zdrowia i jego numer wygenerowany za pośrednictwem systemu IOWISZ nie wcześniej niż w terminie miesiąca przed dniem złożenia wniosku;
 - **7)** wskazanie planowanego terminu rozpoczęcia realizacji inwestycji, jeżeli dotyczy;
-- **8)** oświadczenie, o którym mowa ust. 4;
+- **8)** oświadczenie, o którym mowa w ust. 4;
 - **9)** datę jego sporządzenia;
 - **10)** podpis osoby upoważnionej do jego złożenia.
 
-4. Wniosek o wydanie opinii, o której mowa art. 95d ust. 1, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Podmiot wnioskujący jest obowiązany do złożenia oświadczenia o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie poświadczającego upoważnienie osoby określonej ust. 3 pkt 10 do działania imieniu podmiotu wnioskującego.
+4. Wniosek o wydanie opinii, o której mowa w art. 95d ust. 1, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Podmiot wnioskujący jest obowiązany do złożenia oświadczenia o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
 
-6. Złożenie wniosku o wydanie opinii, o której mowa art. 95d ust. 1, podlega opłacie wysokości 4000 zł. Opłata stanowi dochód budżetu państwa. Potwierdzenie wniesienia opłaty dołącza się do wniosku.”;
+5. Do wniosku dołącza się oryginał lub kopię dokumentu poświadczającego upoważnienie osoby określonej w ust. 3 pkt 10 do działania w imieniu podmiotu wnioskującego.
 
-- **4)** dziale IVa po art. 95e dodaje się art. 95f–95k brzmieniu: „Art. 95f. 1. Wnioski o wydanie opinii, o której mowa art. 95d ust. 1, są rozpatrywane według kolejności ich wpływu.
+6. Złożenie wniosku o wydanie opinii, o której mowa w art. 95d ust. 1, podlega opłacie w wysokości 4000 zł. Opłata stanowi dochód budżetu państwa. Potwierdzenie wniesienia opłaty dołącza się do wniosku. ” ;
 
-2. Organ wydający opinię sprawdza kompletność wniosku o wydanie opinii, o której mowa art. 95d ust. 1. W przypadku braków formalnych wniosku organ wzywa do ich uzupełnienia terminie 7 dni od dnia doręczenia wezwania, pod rygorem pozostawienia wniosku o wydanie opinii, o której mowa art. 95d ust. 1, bez rozpatrzenia.
+- **4)** w dziale IVa po art. 95e dodaje się art. 95f-95k w brzmieniu: „
 
-3. Opinię, o której mowa art. 95d ust. 1, wydaje się wyłącznie na podstawie:
+1. Wnioski o wydanie opinii, o której mowa w art. 95d ust. 1, są rozpatrywane według kolejności ich wpływu.
+
+2. Organ wydający opinię sprawdza kompletność wniosku o wydanie opinii, o której mowa w art. 95d ust. 1. W przypadku braków formalnych wniosku organ wzywa do ich uzupełnienia w terminie 7 dni od dnia doręczenia wezwania, pod rygorem pozostawienia wniosku o wydanie opinii, o której mowa w art. 95d ust. 1, bez rozpatrzenia.
+
+3. Opinię, o której mowa w art. 95d ust. 1, wydaje się wyłącznie na podstawie:
 
 - **1)** informacji przedstawionych we wniosku;
-- **2)** priorytetów dla regionalnej polityki zdrowotnej, o których mowa art. 95c;
+- **2)** priorytetów dla regionalnej polityki zdrowotnej, o których mowa w art. 95c;
 - **3)** danych z rejestru podmiotów wykonujących działalność leczniczą;
 - **4)** Mapy Regionalnej albo Mapy Ogólnopolskiej;
-- **5)** opinii dyrektora właściwego oddziału wojewódzkiego Funduszu – przypadku gdy organem wydającym opinię jest wojewoda;
-- **6)** opinii Prezesa Funduszu – przypadku gdy organem wydającym opinię jest minister właściwy do spraw zdrowia;
-- **7)** informacji przedstawionych innych, złożonych wcześniej wnioskach, o których mowa art. 95e ust. 1, oraz wydanych opiniach, o których mowa art. 95d ust. 1, zakresie, jakim uwzględniają one realizację map oraz priorytetów dla regionalnej polityki zdrowotnej, o których mowa art. 95c. formularz Instrumentu Oceny Wniosków Inwestycyjnych Sektorze Zdrowia do zaopiniowania:
-- **1)** dyrektorowi właściwego oddziału wojewódzkiego Funduszu – przypadku gdy organem wydającym opinię jest wojewoda;
-- **2)** Prezesowi Funduszu – przypadku gdy organem wydającym opinię jest minister właściwy do spraw zdrowia.
+- **5)** opinii dyrektora właściwego oddziału wojewódzkiego Funduszu – w przypadku gdy organem wydającym opinię jest wojewoda;
+- **6)** opinii Prezesa Funduszu – w przypadku gdy organem wydającym opinię jest minister właściwy do spraw zdrowia;
+- **7)** informacji przedstawionych w innych, złożonych wcześniej wnioskach, o których mowa w art. 95e ust. 1, oraz wydanych opiniach, o których mowa w art. 95d ust. 1, w zakresie, w jakim uwzględniają one realizację map oraz priorytetów dla regionalnej polityki zdrowotnej, o których mowa w art. 95c.
 
-5. Podmioty określone ust. 4 wydają opinie, o których mowa ust. 3 pkt 5 i 6, terminie 14 dni od dnia doręczenia, za pośrednictwem systemu IOWISZ, wniosku Instrumentu Oceny Wniosków Inwestycyjnych Sektorze Zdrowia. Opinie te przekazuje się odpowiednio wojewodzie albo ministrowi właściwemu do spraw zdrowia za pośrednictwem systemu IOWISZ.
+4. W terminie 7 dni od dnia złożenia kompletnego wniosku o wydanie opinii, o której mowa w art. 95d ust. 1, organ wydający opinię przekazuje, za pośrednictwem systemu IOWISZ, wypełniony przez podmiot wnioskujący formularz Instrumentu Oceny Wniosków Inwestycyjnych w Sektorze Zdrowia do zaopiniowania:
 
-6. Opinie, o których mowa ust. 3 pkt 5 i 6, wydaje się na formularzu Instrumentu Oceny Wniosków Inwestycyjnych Sektorze Zdrowia na podstawie danych zawartych we wniosku, uwzględniając:
+- **1)** dyrektorowi właściwego oddziału wojewódzkiego Funduszu – w przypadku gdy organem wydającym opinię jest wojewoda;
+- **2)** Prezesowi Funduszu – w przypadku gdy organem wydającym opinię jest minister właściwy do spraw zdrowia.
 
-- **1)** priorytety dla regionalnej polityki zdrowotnej, o których mowa art. 95c;
+5. Podmioty określone w ust. 4 wydają opinie, o których mowa w ust. 3 pkt 5 i 6, w terminie 14 dni od dnia doręczenia, za pośrednictwem systemu IOWISZ, wniosku Instrumentu Oceny Wniosków Inwestycyjnych w Sektorze Zdrowia. Opinie te przekazuje się odpowiednio wojewodzie albo ministrowi właściwemu do spraw zdrowia za pośrednictwem systemu IOWISZ.
+
+6. Opinie, o których mowa w ust. 3 pkt 5 i 6, wydaje się na formularzu Instrumentu Oceny Wniosków Inwestycyjnych w Sektorze Zdrowia na podstawie danych zawartych we wniosku, uwzględniając:
+
+- **1)** priorytety dla regionalnej polityki zdrowotnej, o których mowa w art. 95c;
 - **2)** dane z rejestru podmiotów wykonujących działalność leczniczą;
-- **3)** Mapę Regionalną – przypadku gdy organem wydającym opinię jest wojewoda albo minister właściwy do spraw zdrowia, a inwestycja, której dotyczy wniosek, zaspokaja wyłącznie potrzeby zdrowotne o charakterze lokalnym;
-- **4)** Mapę Ogólnopolską – przypadku gdy organem wydającym opinię jest minister właściwy do spraw zdrowia, a wniosek dotyczy inwestycji innej niż określona pkt 3.
+- **3)** Mapę Regionalną – w przypadku gdy organem wydającym opinię jest wojewoda albo minister właściwy do spraw zdrowia, a inwestycja, której dotyczy wniosek, zaspokaja wyłącznie potrzeby zdrowotne o charakterze lokalnym;
+- **4)** Mapę Ogólnopolską – w przypadku gdy organem wydającym opinię jest minister właściwy do spraw zdrowia, a wniosek dotyczy inwestycji innej niż określona w pkt 3.
 
-7. W przypadku awarii systemu IOWISZ trwającej dłużej niż godzinę, uniemożliwiającej dokonanie czynności, o których mowa ust. 4–6, termin określony odpowiednio ust. 4 albo 5 przedłuża się o czas trwania awarii.
+7. W przypadku awarii systemu IOWISZ trwającej dłużej niż godzinę, uniemożliwiającej dokonanie czynności, o których mowa w ust. 4–6, termin określony odpowiednio w ust. 4 albo 5 przedłuża się o czas trwania awarii.
 
-8. Minimalna liczba punktów wymagana do uzyskania pozytywnej opinii, o której mowa art. 95d ust. 1, nie może być wyższa niż 50% maksymalnej liczby punktów możliwej do uzyskania formularzu
+8. Minimalna liczba punktów wymagana do uzyskania pozytywnej opinii, o której mowa w art. 95d ust. 1, nie może być wyższa niż 50% maksymalnej liczby punktów możliwej do uzyskania w formularzu Instrumentu Oceny Wniosków Inwestycyjnych w Sektorze Zdrowia. W przypadku uzyskania liczby punktów mniejszej niż minimalna wydaje się opinię negatywną.
 
-9. Podmiot wnioskujący, organ wydający opinię, Prezes Funduszu i dyrektor oddziału wojewódzkiego Funduszu, każdy zakresie swojej właściwości, wypełniają, za pośrednictwem systemu IOWISZ, formularz Instrumentu Oceny Wniosków Inwestycyjnych Sektorze Zdrowia, dokonując oceny celowości, o której mowa art. 95d ust. 1, przez przyznanie punktów za spełnienie poszczególnych kryteriów przez podmiot wnioskujący oraz uzasadnienie tej oceny. Organ wydający opinię, Prezes Funduszu i dyrektor oddziału wojewódzkiego Funduszu sporządzają uzasadnienie wyłącznie przypadku, gdy proponowana ocena lub uzasadnienie oceny danego kryterium jest inna niż przedstawiona przez podmiot wnioskujący formularzu Instrumentu Oceny Wniosków Inwestycyjnych Sektorze Zdrowia.
+9. Podmiot wnioskujący, organ wydający opinię, Prezes Funduszu i dyrektor oddziału wojewódzkiego Funduszu, każdy w zakresie swojej właściwości, wypełniają, za pośrednictwem systemu IOWISZ, formularz Instrumentu Oceny Wniosków Inwestycyjnych w Sektorze Zdrowia, dokonując oceny celowości, o której mowa w art. 95d ust. 1, przez przyznanie punktów za spełnienie poszczególnych kryteriów przez podmiot wnioskujący oraz uzasadnienie tej oceny. Organ wydający opinię, Prezes Funduszu i dyrektor oddziału wojewódzkiego Funduszu sporządzają uzasadnienie wyłącznie w przypadku, gdy proponowana ocena lub uzasadnienie oceny danego kryterium jest inna niż przedstawiona przez podmiot wnioskujący w formularzu Instrumentu Oceny Wniosków Inwestycyjnych w Sektorze Zdrowia.
 
-**Art. 95g.**
+1. Opinię, o której mowa w art. 95d ust. 1, wydaje się w terminie 45 dni od dnia złożenia kompletnego wniosku o jej wydanie.
 
-1. Opinię, o której mowa art. 95d ust. 1, wydaje się terminie 45 dni od dnia złożenia kompletnego wniosku o jej wydanie.
-
-2. Opinia, o której mowa art. 95d ust. 1, zawiera:
+2. Opinia, o której mowa w art. 95d ust. 1, zawiera:
 
 - **1)** oznaczenie organu wydającego opinię;
 - **2)** określenie daty i miejsca jej wydania;
 - **3)** znak opinii;
-- **4)** imię i nazwisko lub nazwę (firmę) podmiotu wnioskującego oraz jego numer KRS przypadku osób prawnych albo numer REGON lub NIP przypadku osób fizycznych lub jednostek organizacyjnych nieposiadających osobowości prawnej;
+- **4)** imię i nazwisko lub nazwę (firmę) podmiotu wnioskującego oraz jego numer KRS w przypadku osób prawnych albo numer REGON lub NIP w przypadku osób fizycznych lub jednostek organizacyjnych nieposiadających osobowości prawnej;
 - **5)** określenie, czy opinia jest pozytywna czy negatywna;
 - **6)** całkowity wynik punktowy obliczony zgodnie z przepisami wydanymi na podstawie art. 95h;
 - **7)** wygenerowane elektronicznie zestawienie punktów przyznanych przez odpowiednio organ wydający opinię, Prezesa Funduszu albo dyrektora właściwego oddziału wojewódzkiego Funduszu, za spełnienie poszczególnych kryteriów przez podmiot wnioskujący oraz ich uzasadnienie;
-- **9)** podpis z podaniem imienia i nazwiska oraz stanowiska służbowego osoby upoważnionej do wydania opinii lub, jeżeli ta opinia została wydana formie dokumentu elektronicznego – kwalifikowany podpis elektroniczny lub podpis elektroniczny potwierdzony profilem zaufanym ePUAP rozumieniu przepisów o informatyzacji działalności podmiotów realizujących zadania publiczne.
+- **8)** pouczenie o możliwości wniesienia protestu do ministra właściwego do spraw zdrowia zawierające wskazanie terminu wniesienia protestu, a także formy i trybu jego wniesienia – w przypadku opinii negatywnej;
+- **9)** podpis z podaniem imienia i nazwiska oraz stanowiska służbowego osoby upoważnionej do wydania opinii lub, jeżeli ta opinia została wydana w formie dokumentu elektronicznego – kwalifikowany podpis elektroniczny lub podpis elektroniczny potwierdzony profilem zaufanym ePUAP w rozumieniu przepisów o informatyzacji działalności podmiotów realizujących zadania publiczne. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+- **1)** wzór wniosku zawierającego formularz Instrumentu Oceny Wniosków Inwestycyjnych w Sektorze Zdrowia wraz ze wskazaniem kryteriów oceny inwestycji, przypisaniem im wagi oraz określeniem skali punktów możliwych do uzyskania w zakresie poszczególnych kryteriów,
+- **2)** sposób obliczania całkowitego wyniku punktowego w zakresie dokonywania oceny celowości, o której mowa w art. 95d ust. 1, w tym sposób obliczania tego wyniku przez każdy z podmiotów określonych w art. 95f ust. 9,
+- **3)** minimalną liczbę punktów wymaganą do uzyskania pozytywnej opinii, o której mowa w art. 95d ust. 1 mając na celu uwzględnienie w opinii map i priorytetów dla regionalnej polityki zdrowotnej, o których mowa w art. 95c, zapewnienie jednolitości wniosków, porównywalnej i spójnej metodyki dokonywania oceny celowości inwestycji i jej przejrzystości oraz jej zbieżności z potrzebami istotnymi z punktu widzenia ochrony zdrowia.
 
-**Art. 95h.** Minister właściwy do spraw zdrowia określi, drodze rozporządzenia:
+1. W przypadku gdy opinia, o której mowa w art. 95d ust. 1, jest negatywna, podmiotowi wnioskującemu przysługuje środek odwoławczy w postaci protestu.
 
-**Art. 95i.**
+2. Protest wnosi się do ministra właściwego do spraw zdrowia w terminie 14 dni od dnia doręczenia opinii, o której mowa w art. 95d ust. 1. W przypadku gdy organem wydającym opinię jest wojewoda, protest wnosi się za jego pośrednictwem.
 
-1. W przypadku gdy opinia, o której mowa art. 95d ust. 1, jest negatywna, podmiotowi wnioskującemu przysługuje środek odwoławczy postaci protestu.
-
-2. Protest wnosi się do ministra właściwego do spraw zdrowia terminie 14 dni od dnia doręczenia opinii, o której mowa art. 95d ust. 1. W przypadku gdy organem wydającym opinię jest wojewoda, protest wnosi się za jego pośrednictwem. o informatyzacji działalności podmiotów realizujących zadania publiczne. Protest zawiera:
+3. Protest wnosi się w postaci papierowej lub elektronicznej opatrzony kwalifikowanym podpisem elektronicznym lub podpisem elektronicznym potwierdzonym profilem zaufanym ePUAP w rozumieniu przepisów o informatyzacji działalności podmiotów realizujących zadania publiczne. Protest zawiera:
 
 - **1)** oznaczenie organu, do którego wnosi się protest;
-- **2)** imię i nazwisko lub nazwę (firmę) podmiotu wnioskującego oraz jego numer KRS przypadku osób prawnych albo numer REGON lub NIP przypadku osób fizycznych lub jednostek organizacyjnych nieposiadających osobowości prawnej;
+- **2)** imię i nazwisko lub nazwę (firmę) podmiotu wnioskującego oraz jego numer KRS w przypadku osób prawnych albo numer REGON lub NIP w przypadku osób fizycznych lub jednostek organizacyjnych nieposiadających osobowości prawnej;
 - **3)** oznaczenie siedziby albo adresu zamieszkania, albo adresu podmiotu wnioskującego;
 - **4)** znak opinii, od której protest jest wnoszony, oznaczenie organu wydającego opinię oraz datę i miejsce wydania opinii;
-- **5)** uzasadnienie protestu, tym wskazanie kryterium, z oceną spełniania którego podmiot wnoszący protest się nie zgadza, wraz z uzasadnieniem;
-- **6)** oświadczenie, o którym mowa ust. 4;
+- **5)** uzasadnienie protestu, w tym wskazanie kryterium, z oceną spełniania którego podmiot wnoszący protest się nie zgadza, wraz z uzasadnieniem;
+- **6)** oświadczenie, o którym mowa w ust. 4;
 - **7)** podpis osoby upoważnionej do wniesienia protestu.
 
 4. Protest składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Podmiot wnoszący protest jest obowiązany do złożenia oświadczenia o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
 
-5. Do protestu dołącza się oryginał lub kopię dokumentu poświadczającego upoważnienie osoby określonej ust. 3 pkt 7 do działania imieniu podmiotu wnoszącego protest.
+5. Do protestu dołącza się oryginał lub kopię dokumentu poświadczającego upoważnienie osoby określonej w ust. 3 pkt 7 do działania w imieniu podmiotu wnoszącego protest.
 
-6. Minister właściwy do spraw zdrowia rozpatruje protest terminie 30 dni od dnia jego doręczenia.
+6. Minister właściwy do spraw zdrowia rozpatruje protest w terminie 30 dni od dnia jego doręczenia.
 
-7. W wyniku rozpatrzenia protestu minister właściwy do spraw zdrowia wydaje opinię sprawie protestu, za pośrednictwem systemu IOWISZ, przyznając punkty za spełnienie poszczególnych kryteriów oraz uzasadniając ich liczbę na podstawie:
+7. W wyniku rozpatrzenia protestu minister właściwy do spraw zdrowia wydaje opinię w sprawie protestu, za pośrednictwem systemu IOWISZ, przyznając punkty za spełnienie poszczególnych kryteriów oraz uzasadniając ich liczbę na podstawie:
 
-- **4)** priorytetów dla regionalnej polityki zdrowotnej, o których mowa art. 95c;
+- **1)** informacji przedstawionych przez podmiot wnioskujący;
+- **2)** uzasadnienia zawartego w proteście;
+- **3)** właściwej mapy;
+- **4)** priorytetów dla regionalnej polityki zdrowotnej, o których mowa w art. 95c;
 - **5)** danych z rejestru podmiotów wykonujących działalność leczniczą.
 
-8. Opinia sprawie protestu zawiera:
+8. Opinia w sprawie protestu zawiera:
 
 - **1)** oznaczenie organu rozpatrującego protest;
-- **2)** imię i nazwisko lub nazwę (firmę) podmiotu wnioskującego oraz jego numer KRS przypadku osób prawnych albo numer REGON lub NIP przypadku osób fizycznych lub jednostek organizacyjnych nieposiadających osobowości prawnej;
+- **2)** imię i nazwisko lub nazwę (firmę) podmiotu wnioskującego oraz jego numer KRS w przypadku osób prawnych albo numer REGON lub NIP w przypadku osób fizycznych lub jednostek organizacyjnych nieposiadających osobowości prawnej;
 - **3)** określenie daty i miejsca rozpatrzenia protestu;
 - **4)** określenie, czy protest rozpatrzono pozytywnie czy negatywnie;
 - **5)** całkowity wynik punktowy obliczony zgodnie z przepisami wydanymi na podstawie art. 95h;
-- **6)** wygenerowane elektronicznie zestawienie punktów przyznanych za spełnienie poszczególnych kryteriów oraz ich uzasadnienie, przez podmiot wnoszący protest oraz ministra właściwego do spraw zdrowia wyniku rozpatrzenia protestu;
-- **7)** pouczenie o możliwości wniesienia skargi do wojewódzkiego sądu administracyjnego, trybie i na zasadach określonych art. 95j, zawierające wskazanie terminu wniesienia skargi;
-- **8)** podpis z podaniem imienia i nazwiska oraz stanowiska służbowego osoby upoważnionej do wydania opinii sprawie protestu lub, jeżeli ta opinia została wydana formie dokumentu elektronicznego – kwalifikowany podpis elektroniczny lub podpis elektroniczny potwierdzony profilem zaufanym ePUAP rozumieniu przepisów o informatyzacji działalności podmiotów realizujących zadania publiczne.
+- **6)** wygenerowane elektronicznie zestawienie punktów przyznanych za spełnienie poszczególnych kryteriów oraz ich uzasadnienie, przez podmiot wnoszący protest oraz ministra właściwego do spraw zdrowia w wyniku rozpatrzenia protestu;
+- **7)** pouczenie o możliwości wniesienia skargi do wojewódzkiego sądu administracyjnego, w trybie i na zasadach określonych w art. 95j, zawierające wskazanie terminu wniesienia skargi;
+- **8)** podpis z podaniem imienia i nazwiska oraz stanowiska służbowego osoby upoważnionej do wydania opinii w sprawie protestu lub, jeżeli ta opinia została wydana w formie dokumentu elektronicznego – kwalifikowany podpis elektroniczny lub podpis elektroniczny potwierdzony profilem zaufanym ePUAP w rozumieniu przepisów o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
-9. Protest nie podlega rozpatrzeniu, jeżeli mimo prawidłowego pouczenia, o którym mowa art. 95g ust. 2 pkt 8:
+9. Protest nie podlega rozpatrzeniu, jeżeli mimo prawidłowego pouczenia, o którym mowa w art. 95g ust. 2 pkt 8:
 
 - **1)** został wniesiony po terminie,
+- **2)** nie spełnia wymagań określonych w ust. 3 zdanie drugie o czym minister właściwy do spraw zdrowia informuje podmiot wnoszący protest na piśmie, w terminie 7 dni od dnia wniesienia protestu.
 
-10. W przypadku, o którym mowa ust. 9, organ wydający opinię wydaje postanowienie przedmiocie nierozpatrzenia protestu, na które służy zażalenie, do którego stosuje się przepisy Kodeksu postępowania administracyjnego.
+10. W przypadku, o którym mowa w ust. 9, organ wydający opinię wydaje postanowienie w przedmiocie nierozpatrzenia protestu, na które służy zażalenie, do którego stosuje się przepisy Kodeksu postępowania administracyjnego.
 
-11. Do postępowania, o którym mowa art. 95d–95g i ust. 1–9, nie stosuje się przepisów Kodeksu postępowania administracyjnego, z wyjątkiem przepisów dotyczących wyłączenia pracownika i organu, pełnomocnictw, doręczeń, sposobu obliczania terminów, wydawania uwierzytelnionych odpisów lub kopii akt sprawy, sprostowań oraz stwierdzania nieważności.
+11. Do postępowania, o którym mowa w art. 95d-95g i ust. 1–9, nie stosuje się przepisów Kodeksu postępowania administracyjnego, z wyjątkiem przepisów dotyczących wyłączenia pracownika i organu, pełnomocnictw, doręczeń, sposobu obliczania terminów, wydawania uwierzytelnionych odpisów lub kopii akt sprawy, sprostowań oraz stwierdzania nieważności.
 
-**Art. 95j.**
+1. Po wyczerpaniu postępowania odwoławczego przed ministrem właściwym do spraw zdrowia w przypadku utrzymania negatywnej opinii w sprawie protestu podmiot, który otrzymał tę opinię, może w tym zakresie wnieść skargę do wojewódzkiego sądu administracyjnego zgodnie z art. 3 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2016 r. poz. 718, 846 i 996).
 
-1. Po wyczerpaniu postępowania odwoławczego przed ministrem właściwym do spraw zdrowia przypadku utrzymania negatywnej opinii sprawie protestu podmiot, który otrzymał tę opinię, może tym zakresie wnieść skargę do wojewódzkiego sądu administracyjnego zgodnie z art. 3 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2016 r. poz. 718, 846 i 996).
+2. Skargę, o której mowa w ust. 1, wnosi się w terminie 14 dni od dnia doręczenia opinii w sprawie protestu bezpośrednio do właściwego wojewódzkiego sądu administracyjnego wraz z kompletną dokumentacją w sprawie. Skarga podlega wpisowi stałemu.
 
-2. Skargę, o której mowa ust. 1, wnosi się terminie 14 dni od dnia doręczenia opinii sprawie protestu bezpośrednio do właściwego wojewódzkiego sądu administracyjnego wraz z kompletną dokumentacją sprawie. Skarga podlega wpisowi stałemu.
+3. Do skargi, o której mowa w ust. 1, dołącza się:
 
-3. Do skargi, o której mowa ust. 1, dołącza się:
-
-- **1)** wniosek o wydanie opinii, o której mowa art. 95d ust. 1;
+- **1)** wniosek o wydanie opinii, o której mowa w art. 95d ust. 1;
 - **2)** protest;
-- **3)** opinię, o której mowa art. 95d ust. 1, oraz opinię sprawie protestu.
+- **3)** opinię, o której mowa w art. 95d ust. 1, oraz opinię w sprawie protestu.
 
-4. Do skargi, o której mowa ust. 1, można dołączyć załączniki zawierające informacje uzasadniające jej wniesienie.
+4. Do skargi, o której mowa w ust. 1, można dołączyć załączniki zawierające informacje uzasadniające jej wniesienie.
 
-5. Sąd rozstrzyga sprawę zakresie, o którym mowa ust. 1, terminie 30 dni od dnia wniesienia skargi.
+5. Sąd rozstrzyga sprawę w zakresie, o którym mowa w ust. 1, w terminie 30 dni od dnia wniesienia skargi.
 
-6. Wniesienie skargi, o której mowa ust. 1, po terminie, o którym mowa ust. 2, skutkuje pozostawieniem jej bez rozpatrzenia. rozstrzygnięcia wojewódzkiego sądu administracyjnego. Wniesienie skargi po tym terminie skutkuje pozostawieniem jej bez rozpatrzenia. Przepis art. 95j ust. 2 stosuje się odpowiednio.
+6. Wniesienie skargi, o której mowa w ust. 1, po terminie, o którym mowa w ust. 2, skutkuje pozostawieniem jej bez rozpatrzenia.
 
-2. Skarga, o której mowa ust. 1, jest rozpatrywana terminie 30 dni od dnia jej wniesienia.
+1. Podmiot, który wniósł skargę, o której mowa w art. 95j ust. 1, lub minister właściwy do spraw zdrowia może wnieść skargę kasacyjną do Naczelnego Sądu Administracyjnego w terminie 14 dni od dnia doręczenia rozstrzygnięcia wojewódzkiego sądu administracyjnego. Wniesienie skargi po tym terminie skutkuje pozostawieniem jej bez rozpatrzenia. Przepis art. 95j ust. 2 stosuje się odpowiednio.
 
-3. Na prawo do wniesienia skargi do sądu administracyjnego nie wpływa negatywnie błędne pouczenie lub brak pouczenia, o którym mowa art. 95i ust. 8 pkt 7.
+2. Skarga, o której mowa w ust. 1, jest rozpatrywana w terminie 30 dni od dnia jej wniesienia.
 
-4. W zakresie nieuregulowanym art. 95j i ust. 1–3 do postępowania przed sądami administracyjnymi stosuje się odpowiednio przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi określone dla aktów lub czynności, o których mowa art. 3 § 2 pkt 4, z wyłączeniem art. 52–55, art. 61 § 3–6, art. 115–122, art. 146, art. 150 i art. 152 tej ustawy.”;
+3. Na prawo do wniesienia skargi do sądu administracyjnego nie wpływa negatywnie błędne pouczenie lub brak pouczenia, o którym mowa w art. 95i ust. 8 pkt 7.
 
-- **5)** art. 148 ust. 2 pkt 2 otrzymuje brzmienie: „2) ważną pozytywną opinię, o której mowa art. 95d ust. 1, albo ważną pozytywną opinię sprawie protestu.”.
+4. W zakresie nieuregulowanym w art. 95j i ust. 1–3 do postępowania przed sądami administracyjnymi stosuje się odpowiednio przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi określone dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4, z wyłączeniem art. 52–55, art. 61 § 3–6, art. 115–122, art. 146, art. 150 i art. 152 tej ustawy. ” ;
 
-**Art. 2.** W ustawie z dnia 28 kwietnia 2011 r. o systemie informacji ochronie zdrowia (Dz. U. z 2015 r. poz. 636, z późn. zm. ) wprowadza się następujące zmiany:
+- **5)** w art. 148 w ust. 2 pkt 2 otrzymuje brzmienie: „
+- **2)** ważną pozytywną opinię, o której mowa w art. 95d ust. 1, albo ważną pozytywną opinię w sprawie protestu. ” .
 
-**Art. 3.** W ustawie z dnia 22 lipca 2014 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. poz. 1138 i 1491 oraz z 2015 r. poz. 2198) art. 19 uchyla się ust. 2.
+**Art. 2.** W ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2015 r. poz. 636, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 5 w ust. 1 w pkt 2 w lit. j średnik zastępuje się przecinkiem i dodaje się lit. k w brzmieniu: „ Instrumentu Oceny Wniosków Inwestycyjnych w Sektorze Zdrowia; ” ;
+    - **k)**
+
+- **2)** w art. 9a ust. 1 otrzymuje brzmienie: „
+
+1. Administrator danych, o którym mowa w art. 10 ust. 8, art. 23 ust. 6, art. 24 ust. 6, art. 26 ust. 6, art. 28 ust. 2, art. 29 ust. 5 i 6, art. 30 ust. 3, art. 30a ust. 4 oraz art. 31a ust. 6, w celu zapewnienia eksploatacji systemów teleinformatycznych, o których mowa w art. 10 ust. 1 i 2, art. 23 ust. 1 i 2, art. 24 ust. 1 i 2, art. 26 ust. 1 i 2, art. 28 ust. 1, art. 29 ust. 1 i 2, art. 30 ust. 1 i 2, art. 30a ust. 1 i 2 oraz art. 31a ust. 1, może upoważnić administratora systemu, o którym mowa w art. 10 ust. 7, art. 23 ust. 5, art. 24 ust. 7, art. 26 ust. 8, art. 28 ust. 2a, art. 29 ust. 7, art. 30 ust. 4, art. 30a ust. 3 oraz art. 31a ust. 5, do powierzania przetwarzania danych przetwarzanych w tych systemach podmiotom wyspecjalizowanym w zapewnianiu obsługi technicznej systemów teleinformatycznych. ” ;
+
+- **3)** w rozdziale 5 po art. 31 dodaje się art. 31a w brzmieniu: „
+
+**Art. 31a.**
+
+1. Instrument Oceny Wniosków Inwestycyjnych w Sektorze Zdrowia jest systemem teleinformatycznym, w którym są przetwarzane dane niezbędne do wydawania opinii o celowości inwestycji, o której mowa w art. 95d ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+
+2. Instrument Oceny Wniosków Inwestycyjnych w Sektorze Zdrowia zawiera dane, o których mowa w art. 95e ust. 3 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+
+3. Za pośrednictwem systemu Instrumentu Oceny Wniosków Inwestycyjnych w Sektorze Zdrowia jest generowany wniosek, o którym mowa w art. 95e ust. 3 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, wraz z formularzem Instrumentu Oceny Wniosków Inwestycyjnych w Sektorze Zdrowia, o którym mowa w art. 95e ust. 3 pkt 6 tej ustawy, i jego numerem.
+
+4. Podmiotami uprawionymi do przetwarzania danych w systemie Instrumentu Oceny Wniosków Inwestycyjnych w Sektorze Zdrowia, w zakresie zadań wynikających z art. 95d-95g i art. 95i ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, są:
+
+- **1)** podmiot wnioskujący, o którym mowa w art. 95e ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **2)** minister właściwy do spraw zdrowia;
+- **3)** wojewoda;
+- **4)** Prezes Funduszu;
+- **5)** dyrektor oddziału wojewódzkiego Funduszu.
+
+5. Administratorem systemu Instrumentu Oceny Wniosków Inwestycyjnych w Sektorze Zdrowia jest jednostka podległa ministrowi właściwemu do spraw zdrowia, właściwa w zakresie systemów informacyjnych ochrony zdrowia.
+
+6. Administratorem danych przetwarzanych w systemie Instrumentu Oceny Wniosków Inwestycyjnych w Sektorze Zdrowia jest minister właściwy do spraw zdrowia. ” .
+
+**Art. 3.** W ustawie z dnia 22 lipca 2014 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. poz. 1138 i 1491 oraz z 2015 r. poz. 2198) w art. 19 uchyla się ust. 2.
 
 **Art. 4.**
 
-1. Do dnia ogłoszenia pierwszych map potrzeb zdrowotnych, o których mowa art. 95a ust. 1 i 6 ustawy zmienianej art. 1, odniesieniu do świadczeń opieki zdrowotnej z zakresu podstawowej opieki zdrowotnej oraz ambulatoryjnej opieki specjalistycznej opinie, o których mowa art. 95d ust. 1 pkt 2 i 3 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, są wydawane na podstawie danych z rejestru podmiotów wykonujących działalność leczniczą, priorytetów dla regionalnej polityki zdrowotnej oraz map, o których mowa ust. 2.
+1. Do dnia ogłoszenia pierwszych map potrzeb zdrowotnych, o których mowa w art. 95a ust. 1 i 6 ustawy zmienianej w art. 1, w odniesieniu do świadczeń opieki zdrowotnej z zakresu podstawowej opieki zdrowotnej oraz ambulatoryjnej opieki specjalistycznej opinie, o których mowa w art. 95d ust. 1 pkt 2 i 3 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, są wydawane na podstawie danych z rejestru podmiotów wykonujących działalność leczniczą, priorytetów dla regionalnej polityki zdrowotnej oraz map, o których mowa w ust. 2.
 
-2. Do dnia 31 grudnia 2021 r. minister właściwy do spraw zdrowia może sporządzić i ogłosić mapy potrzeb zdrowotnych obejmujące leczenie grup chorób ramach leczenia szpitalnego, ambulatoryjnej opieki specjalistycznej oraz podstawowej opieki zdrowotnej.
+2. Do dnia 31 grudnia 2021 r. minister właściwy do spraw zdrowia może sporządzić i ogłosić mapy potrzeb zdrowotnych obejmujące leczenie grup chorób w ramach leczenia szpitalnego, ambulatoryjnej opieki specjalistycznej oraz podstawowej opieki zdrowotnej.
 
-3. W przypadku, o którym mowa ust. 2, wojewoda porozumieniu z Wojewódzką Radą do spraw Potrzeb Zdrowotnych, o której mowa art. 95b ust. 1 ustawy zmienianej art. 1, dokonuje aktualizacji priorytetów dla regionalnej polityki zdrowotnej z uwzględnieniem map potrzeb zdrowotnych ogłoszonych przez ministra właściwego do spraw zdrowia terminie 2 miesięcy od dnia ich ogłoszenia. mowa art. 95d ust. 7 ustawy zmienianej art. 1 jej dotychczasowym brzmieniu, podlega zwrotowi.
+3. W przypadku, o którym mowa w ust. 2, wojewoda w porozumieniu z Wojewódzką Radą do spraw Potrzeb Zdrowotnych, o której mowa w art. 95b ust. 1 ustawy zmienianej w art. 1, dokonuje aktualizacji priorytetów dla regionalnej polityki zdrowotnej z uwzględnieniem map potrzeb zdrowotnych ogłoszonych przez ministra właściwego do spraw zdrowia w terminie 2 miesięcy od dnia ich ogłoszenia.
 
-2. Do postępowań o zmianę opinii wydanych na podstawie art. 95d ust. 1 i 2 ustawy zmienianej art. 1 jej dotychczasowym brzmieniu stosuje się przepisy dotychczasowe. [Art. 6. 1. W latach 2016–2025 maksymalny limit wydatków z budżetu państwa, będących konsekwencją wejścia życie niniejszej ustawy, wynosi 27 567 000,00 zł, przy czym kolejnych latach wyniesie maksymalnie:
+**Art. 5.**
+
+1. Postępowania wszczęte na podstawie art. 95d ust. 1 i 2 ustawy zmienianej w art. 1 w jej dotychczasowym brzmieniu, a niezakończone przed dniem wejścia w życie niniejszej ustawy, podlegają umorzeniu. Opłata, o której mowa w art. 95d ust. 7 ustawy zmienianej w art. 1 w jej dotychczasowym brzmieniu, podlega zwrotowi.
+
+2. Do postępowań o zmianę opinii wydanych na podstawie art. 95d ust. 1 i 2 ustawy zmienianej w art. 1 w jej dotychczasowym brzmieniu stosuje się przepisy dotychczasowe.
+
+**Art. 6.**
+
+1. W latach 2016–2025 maksymalny limit wydatków z budżetu państwa, będących konsekwencją wejścia w życie niniejszej ustawy, wynosi 27 567 000,00 zł, przy czym w kolejnych latach wyniesie maksymalnie:
 
 - **1)** 2016 r. – 0,00 zł;
 - **2)** 2017 r. – 2 606 000,00 zł;
@@ -199,96 +299,51 @@ source: "isap-pdf"
 - **9)** 2024 r. – 3 315 000,00 zł;
 - **10)** 2025 r. – 3 391 000,00 zł.
 
-2. W ramach limitu, o którym mowa ust. 1, maksymalny limit wydatków z budżetu państwa:
+2. W ramach limitu, o którym mowa w ust. 1, maksymalny limit wydatków z budżetu państwa:
 
-- **1)** części pozostającej dyspozycji ministra właściwego do spraw zdrowia kolejnych latach wyniesie:
-    - **a)** 2016 r. – 0,00 zł,
-    - **b)** 2017 r. – 366 000,00 zł,
-    - **c)** 2018 r. – 404 000,00 zł,
-    - **d)** 2019 r. – 413 000,00 zł,
-    - **e)** 2020 r. – 423 000,00 zł,
-    - **f)** 2021 r. – 434 000,00 zł,
-    - **g)** 2022 r. – 445 000,00 zł,
-    - **h)** 2023 r. – 456 000,00 zł, latach wyniesie:
-    - **a)** 2016 r. – 0,00 zł,
-    - **b)** 2017 r. – 140 000,00 zł,
-    - **c)** 2018 r. – 154 000,00 zł,
-    - **d)** 2019 r. – 157 000,00 zł,
-    - **e)** 2020 r. – 161 000,00 zł,
-    - **f)** 2021 r. – 165 000,00 zł;
-    - **g)** 2022 r. – 169 000,00 zł;
-    - **h)** 2023 r. – 174 000,00 zł;
-    - **i)** 2024 r. – 178 000,00 zł;
-    - **j)** 2025 r. – 182 000,00 zł.
+- **1)** w części pozostającej w dyspozycji ministra właściwego do spraw zdrowia w kolejnych latach wyniesie: 2016 r. – 0,00 zł, 2017 r. – 366 000,00 zł, 2018 r. – 404 000,00 zł, 2019 r. – 413 000,00 zł, 2020 r. – 423 000,00 zł, 2021 r. – 434 000,00 zł, 2022 r. – 445 000,00 zł, 2023 r. – 456 000,00 zł, 2024 r. – 467 000,00 zł, 2025 r. – 479 000,00 zł;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
 
-3. W ramach limitu, o którym mowa ust. 1, zwiększenie zatrudnienia urzędach wojewódzkich nie przekroczy 2 etatów na dany urząd, przy czym wzrost zatrudnienia będzie możliwy o:
+- **2)** w części pozostającej w dyspozycji poszczególnych wojewodów w kolejnych latach wyniesie: 2016 r. – 0,00 zł, 2017 r. – 140 000,00 zł, 2018 r. – 154 000,00 zł, 2019 r. – 157 000,00 zł, 2020 r. – 161 000,00 zł, 2021 r. – 165 000,00 zł; 2022 r. – 169 000,00 zł; 2023 r. – 174 000,00 zł; 2024 r. – 178 000,00 zł; 2025 r. – 182 000,00 zł.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
 
-- **1)** 1 etat, przypadku złożenia, do danego wojewody, poprzednim roku kalendarzowym co najmniej 50 wniosków,
-- **2)** 2 etaty, przypadku złożenia, do danego wojewody, poprzednim roku kalendarzowym co najmniej 150 wniosków – o których mowa art. 95d ust. 1 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
+3. W ramach limitu, o którym mowa w ust. 1, zwiększenie zatrudnienia w urzędach wojewódzkich nie przekroczy 2 etatów na dany urząd, przy czym wzrost zatrudnienia będzie możliwy o:
 
-4. W ramach limitu, o którym mowa ust. 1, zwiększenie zatrudnienia urzędzie obsługującym ministra właściwego do spraw zdrowia nie przekroczy 5 etatów, przy czym wzrost zatrudnienia będzie możliwy o:
+- **1)** 1 etat, w przypadku złożenia, do danego wojewody, w poprzednim roku kalendarzowym co najmniej 50 wniosków,
+- **2)** 2 etaty, w przypadku złożenia, do danego wojewody, w poprzednim roku kalendarzowym co najmniej 150 wniosków o których mowa w art. 95d ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
-- **1)** 1 etat, przypadku złożenia poprzednim roku kalendarzowym łącznie co najmniej 50 wniosków lub protestów,
-- **2)** 2 etaty, przypadku złożenia poprzednim roku kalendarzowym łącznie co najmniej 150 wniosków lub protestów,
-- **3)** 3 etaty, przypadku złożenia poprzednim roku kalendarzowym łącznie co najmniej 250 wniosków lub protestów, najmniej 450 wniosków lub protestów – o których mowa art. 95d ust. 1 i art. 95i ust. 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
+4. W ramach limitu, o którym mowa w ust. 1, zwiększenie zatrudnienia w urzędzie obsługującym ministra właściwego do spraw zdrowia nie przekroczy 5 etatów, przy czym wzrost zatrudnienia będzie możliwy o:
 
-5. Wojewodowie i minister właściwy do spraw zdrowia monitorują wykorzystanie limitów wydatków, o których mowa ust. 1, częściach pozostających odpowiednio ich dyspozycji.
+- **1)** 1 etat, w przypadku złożenia w poprzednim roku kalendarzowym łącznie co najmniej 50 wniosków lub protestów,
+- **2)** 2 etaty, w przypadku złożenia w poprzednim roku kalendarzowym łącznie co najmniej 150 wniosków lub protestów,
+- **3)** 3 etaty, w przypadku złożenia w poprzednim roku kalendarzowym łącznie co najmniej 250 wniosków lub protestów,
+- **4)** 4 etaty, w przypadku złożenia w poprzednim roku kalendarzowym łącznie co najmniej 350 wniosków lub protestów,
+- **5)** 5 etatów, w przypadku złożenia w poprzednim roku kalendarzowym łącznie co najmniej 450 wniosków lub protestów o których mowa w art. 95d ust. 1 i art. 95i ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-6. W przypadku gdy liczba złożonych odpowiednio wniosków lub protestów, o których mowa art. 95d ust. 1 i art. 95i ust. 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, będzie połowie roku niższa niż odpowiadającym okresie roku poprzednim:
+5. Wojewodowie i minister właściwy do spraw zdrowia monitorują wykorzystanie limitów wydatków, o których mowa w ust. 1, w częściach pozostających odpowiednio w ich dyspozycji.
 
-- **1)** wojewoda wdraża mechanizm korygujący, polegający na dostosowaniu wydatków z tytułu zwiększenia zatrudnienia, o których mowa ust. 3, do liczby złożonych danym roku wniosków;
-- **2)** minister właściwy do spraw zdrowia wdraża mechanizm korygujący, polegający na dostosowaniu wydatków z tytułu zwiększenia zatrudnienia, o których mowa ust. 4, do liczby złożonych danym roku wniosków lub protestów.] <Art. 6. 1. W latach 2018–2027 maksymalny limit wydatków z budżetu państwa, będących konsekwencją wejścia życie niniejszej ustawy, wynosi 72 238 254,00 zł, przy czym kolejnych latach wyniesie maksymalnie:
-- **1)** 2018 r. – 4 616 441,00 zł;
-- **2)** 2019 r. – 6 657 934,00 zł;
-- **3)** 2020 r. – 6 977 584,00 zł;
-- **4)** 2021 r. – 7 152 053,00 zł;
-- **5)** 2022 r. – 7 329 012,00 zł;
-- **6)** 2023 r. – 7 524 511,00 zł;
-- **7)** 2024 r. – 7 706 620,00 zł;
-- **8)** 2025 r. – 7 892 405,00 zł;
-- **9)** 2026 r. – 8 089 726,00 zł;
-- **10)** 2027 r. – 8 291 968,00 zł. kolejnych latach wyniesie:
-    - **a)** 2018 r. – 511 675,00 zł,
-    - **b)** 2019 r. – 642 888,00 zł,
-    - **c)** 2020 r. – 668 016,00 zł,
-    - **d)** 2021 r. – 685 141,00 zł,
-    - **e)** 2022 r. – 702 420,00 zł,
-    - **f)** 2023 r. – 719 855,00 zł,
-    - **g)** 2024 r. – 737 452,00 zł,
-    - **h)** 2025 r. – 756 213,00 zł,
-    - **i)** 2026 r. – 775 118,00 zł,
-    - **j)** 2027 r. – 794 496,00 zł;
+6. W przypadku gdy liczba złożonych odpowiednio wniosków lub protestów, o których mowa w art. 95d ust. 1 i art. 95i ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, będzie w połowie roku niższa niż w odpowiadającym okresie w roku poprzednim:
 
-- **2)** części pozostającej dyspozycji poszczególnych wojewodów kolejnych latach wyniesie:
-    - **a)** 2018 r. – 256 548,00 zł,
-    - **b)** 2019 r. – 375 940,00 zł,
-    - **c)** 2020 r. – 394 348,00 zł,
-    - **d)** 2021 r. – 404 182,00 zł,
-    - **e)** 2022 r. – 414 162,00 zł,
-    - **f)** 2023 r. – 425 291,00 zł,
-    - **g)** 2024 r. – 435 573,00 zł,
-    - **h)** 2025 r. – 446 012,00 zł,
-    - **i)** 2026 r. – 457 163,00 zł,
-    - **j)** 2027 r. – 468 592,00 zł.
+- **1)** wojewoda wdraża mechanizm korygujący, polegający na dostosowaniu wydatków z tytułu zwiększenia zatrudnienia, o których mowa w ust. 3, do liczby złożonych w danym roku wniosków;
+- **2)** minister właściwy do spraw zdrowia wdraża mechanizm korygujący, polegający na dostosowaniu wydatków z tytułu zwiększenia zatrudnienia, o których mowa w ust. 4, do liczby złożonych w danym roku wniosków lub protestów.
 
-3. W ramach limitu, o którym mowa ust. 2 pkt 1, zatrudnienie nie przekroczy 8 etatów, przy czym 2018 r. wyniesie co najmniej 3 etaty. W przypadku złożenia do urzędu obsługującego ministra właściwego do spraw zdrowia danym roku kalendarzowym określonej liczby wniosków lub protestów zatrudnienie ulega zwiększeniu o:
-
-- **1)** 1 etat, przypadku złożenia co najmniej 200 wniosków lub protestów,
-- **2)** 2 etaty, przypadku złożenia co najmniej 250 wniosków lub protestów, – o których mowa art. 95d ust. 1 i art. 95i ust. 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
-
-4. W ramach limitu, o którym mowa ust. 2 pkt 2, zatrudnienie urzędach wojewódzkich nie przekroczy 5 etatów na dany urząd, przy czym 2018 r. wyniesie co najmniej 1 etat. W przypadku złożenia do danego wojewody danym roku kalendarzowym określonej liczby wniosków lub protestów zatrudnienie ulega zwiększeniu o:
-
-- **1)** 1 etat, przypadku złożenia co najmniej 75 wniosków lub protestów,
-- **2)** 2 etaty, przypadku złożenia co najmniej 100 wniosków lub protestów,
-- **3)** 3 etaty, przypadku złożenia co najmniej 150 wniosków lub protestów,
-- **4)** 4 etaty, przypadku złożenia co najmniej 200 wniosków lub protestów – o których mowa art. 95d ust. 1 i art. 95i ust. 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
-
-5. Wojewodowie i minister właściwy do spraw zdrowia monitorują wykorzystanie limitów wydatków, o których mowa ust. 1, częściach pozostających odpowiednio ich dyspozycji.
-
-6. W przypadku gdy liczba złożonych wniosków lub protestów, o których mowa odpowiednio art. 95d ust. 1 i art. 95i ust. 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, będzie połowie roku niższa niż odpowiadającym okresie roku poprzednim:
-
-- **1)** wojewoda wdraża mechanizm korygujący polegający na ustaleniu wynagrodzenia na poziomie uniemożliwiającym przekroczenie limitu danym roku, z zastrzeżeniem, że liczba etatów, które już zostały przyznane, nie podlega zmniejszeniu;
-- **2)** minister właściwy do spraw zdrowia wdraża mechanizm korygujący polegający na ustaleniu wynagrodzenia na poziomie uniemożliwiającym przekroczenie limitu danym roku, z zastrzeżeniem, że liczba etatów, które już zostały przyznane, nie podlega zmniejszeniu.>
-
-**Art. 7.** Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy Prawo pocztowe
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 17 kwietnia 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 kwietnia 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-04-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000558) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/558/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 17 kwietnia 2026 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy Prawo pocztowe
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2025 r. poz. 366), z uwzględnieniem stanu prawnego na dzień 14 kwietnia 2026 r. oraz zmian wprowadzonych:
 1) ustawą z dnia 9 maja 2025 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 820);
 2) ustawą z dnia 12 września 2025 r. o zmianie ustawy Prawo pocztowe (Dz. U. poz. 1456).
@@ -70,6 +70,46 @@ Art. 131–177. (pominięte)
 
 **Art. 3.** Użyte w ustawie określenia oznaczają:
 
+- **1)** adres oznaczenie miejsca doręczenia przesyłki pocztowej lub kwoty pieniężnej określonej w przekazie pocztowym wskazanego przez nadawcę albo oznaczenie miejsca ich zwrotu do nadawcy;
+- **2)** adresat podmiot wskazany przez nadawcę jako odbiorca przesyłki pocztowej lub kwoty pieniężnej określonej w przekazie pocztowym;
+- **3)** agent pocztowy przedsiębiorcę pośredniczącego na rzecz operatora pocztowego w zawieraniu z nadawcami umów o świadczenie usług pocztowych lub zawierającego je w imieniu operatora pocztowego;
+- **4)** doręczenie wydanie przesyłki pocztowej lub wypłacenie kwoty pieniężnej określonej w przekazie pocztowym adresatowi, a w przypadkach określonych prawem także innej osobie, lub przekazanie druku bezadresowego zgodnie z umową o świadczenie usługi pocztowej;
+- **5)** druk przesyłkę pocztową zawierającą informację pisemną lub graficzną, zwielokrotnioną za pomocą technik drukarskich lub podobnych, utrwaloną na papierze albo innym materiale używanym w drukarstwie, w tym książkę, katalog, dziennik lub czasopismo;
+- **6)** druk bezadresowy nieopatrzoną oznaczeniem adresata i adresem informację pisemną lub graficzną, zwielokrotnioną za pomocą technik drukarskich lub podobnych, utrwaloną na papierze albo innym materiale używanym w drukarstwie, w tym książkę, katalog, dziennik lub czasopismo;
+- **7)** międzynarodowe przepisy pocztowe wiążące Rzeczpospolitą Polską umowy międzynarodowe dotyczące świadczenia usług pocztowych oraz wiążące regulaminy Światowego Związku Pocztowego;
+- **8)** nadanie polecenie doręczenia przesyłki pocztowej lub kwoty pieniężnej określonej w przekazie pocztowym oraz przekazania druku bezadresowego zgodnie z umową o świadczenie usługi pocztowej;
+- **9)** nadanie na poste restante polecenie doręczenia przesyłki pocztowej lub wypłacenia adresatowi kwoty pieniężnej określonej w przekazie pocztowym w placówce pocztowej, wskazanej przez nadawcę jako miejsce doręczenia;
+- **10)** nadawca podmiot, który zawarł z operatorem pocztowym umowę o świadczenie usługi pocztowej;
+- **11)** nadawca masowy nadawcę nadającego przesyłki pocztowe na podstawie umowy o świadczenie usługi pocztowej zawartej w formie pisemnej, od chwili przekroczenia liczby 100 000 sztuk przesyłek danego rodzaju w danym roku kalendarzowym, z wyłączeniem podmiotów zaliczonych do sektora finansów publicznych w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426), przedsiębiorstw użyteczności publicznej, do których stosuje się przepisy ustawy z dnia 25 września 1981 r. o przedsiębiorstwach państwowych (Dz. U. z 2023 r. poz. 437), oraz państwowego przedsiębiorstwa użyteczności publicznej „Zakładu Unieszkodliwiania Odpadów Promieniotwórczych”;
+- **12)** operator pocztowy przedsiębiorcę uprawnionego do wykonywania działalności pocztowej, na podstawie wpisu do rejestru operatorów pocztowych;
+- **13)** operator wyznaczony operatora pocztowego obowiązanego do świadczenia usług powszechnych;
+- **14)** paczka pocztowa przesyłkę rejestrowaną, niebędącą przesyłką listową, o masie do 20 000 g i sumie wymiarów (długość, szerokość, wysokość) nieprzekraczającej 3000 mm, przy czym najdłuższy wymiar nie może przekroczyć 1500 mm;
+- **15)** placówka pocztowa jednostkę organizacyjną operatora pocztowego lub agenta pocztowego, w której można zawrzeć umowę o świadczenie usługi pocztowej lub która doręcza adresatom przesyłki pocztowe lub kwoty pieniężne określone w przekazach pocztowych, albo inne wyodrębnione i oznaczone przez operatora pocztowego miejsce, w którym można zawrzeć umowę o świadczenie usługi pocztowej lub odebrać przesyłkę pocztową lub kwotę pieniężną określoną w przekazie pocztowym;
+- **16)** przekaz pocztowy polecenie doręczenia adresatowi określonej kwoty pieniężnej przez operatora pocztowego;
+- **17)** przemieszczanie przewóz przesyłek pocztowych, druków bezadresowych oraz przekazów pocztowych przy wykorzystaniu dowolnych środków transportu;
+- **18)** przesyłka dla ociemniałych przesyłkę z korespondencją lub druk, o masie do 7000 g, w których informacja jest utrwalona pismem wypukłym lub na innym nośniku dostępnym do odczytu przez niewidomych lub ociemniałych, nadane w sposób umożliwiający sprawdzenie zawartości;
+- **19)** przesyłka kurierska przesyłkę listową będącą przesyłką rejestrowaną lub paczkę pocztową, przyjmowaną, sortowaną, przemieszczaną i doręczaną w sposób łącznie zapewniający:
+    - **a)** rejestrację dnia i godziny nadania przesyłki pocztowej,
+    - **b)** śledzenie przesyłki pocztowej od momentu nadania do momentu doręczenia,
+    - **c)** doręczenie przesyłki pocztowej w gwarantowanym terminie określonym w regulaminie świadczenia usług pocztowych lub w umowach o świadczenie usług pocztowych,
+    - **d)** doręczenie przesyłki pocztowej adresatowi lub osobie uprawnionej do odbioru w miejscu określonym przez nadawcę lub uzgodnionym z adresatem, w sposób zapewniający rejestrację dnia i godziny doręczenia przesyłki pocztowej;
+
+- **20)** przesyłka listowa przesyłkę pocztową z korespondencją lub druk, z wyłączeniem przesyłek reklamowych;
+- **21)** przesyłka pocztowa rzecz opatrzoną oznaczeniem adresata i adresem, przedłożoną do przyjęcia lub przyjętą przez operatora pocztowego w celu przemieszczenia i doręczenia adresatowi;
+- **22)** przesyłka polecona przesyłkę listową będącą przesyłką rejestrowaną, przemieszczaną i doręczaną w sposób zabezpieczający ją przed utratą, ubytkiem zawartości lub uszkodzeniem;
+- **23)** przesyłka rejestrowana przesyłkę pocztową przyjętą za pokwitowaniem przyjęcia i doręczaną za pokwitowaniem odbioru;
+- **24)** przesyłka reklamowa przesyłkę pocztową nierejestrowaną zawierającą wyłącznie materiał reklamowy, marketingowy lub promocyjny, wysyłaną jednorazowo do co najmniej 50 adresatów, z identyczną zawartością i identyczną treścią, różniącą się jedynie oznaczeniem adresata, adresem lub innymi danymi zmiennymi niezmieniającymi treści przekazywanej informacji;
+- **25)** przesyłka z korespondencją przesyłkę pocztową niebędącą drukiem, zawierającą informację utrwaloną na dowolnym nośniku, w tym utrwaloną pismem wypukłym;
+- **26)** przesyłka z zadeklarowaną wartością przesyłkę rejestrowaną, za której utratę, ubytek zawartości lub uszkodzenie operator pocztowy ponosi odpowiedzialność do wysokości wartości przesyłki podanej przez nadawcę;
+- **27)** rachunkowość regulacyjna szczególny, w stosunku do rachunkowości prowadzonej na podstawie przepisów ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. ) rodzaj rachunkowości prowadzonej przez operatora wyznaczonego zgodnie z zatwierdzoną na dany rok obrotowy przez Prezesa Urzędu Komunikacji Elektronicznej instrukcją rachunkowości regulacyjnej;
+- **28)** realizowanie przekazu pocztowego przyjęcie przekazu pocztowego, jego przemieszczenie lub przesłanie oraz doręczenie adresatowi określonej w nim kwoty pieniężnej;
+- **29)** sieć pocztowa system organizacji świadczenia usług pocztowych i wszelkiego rodzaju zasoby stosowane przez operatora wyznaczonego, w szczególności w celu:
+    - **a)** przyjmowania przesyłek pocztowych objętych obowiązkiem świadczenia usług powszechnych z urządzeń, w których przesyłki pocztowe mogą być nadawane, w szczególności z nadawczych skrzynek pocztowych,
+    - **b)** segregowania i grupowania przesyłek pocztowych objętych obowiązkiem świadczenia usług powszechnych według ich adresu w celu przemieszczenia z miejsca ich nadania do placówki pocztowej właściwej dla ich doręczenia,
+    - **c)** doręczania przesyłek pocztowych objętych obowiązkiem świadczenia usług powszechnych pod adresy wskazane na tych przesyłkach;
+
+- **30)** usługi wchodzące w zakres usług powszechnych usługi pocztowe obejmujące przesyłki listowe i paczki pocztowe, o wadze i wymiarach określonych dla usług powszechnych, oraz przesyłki dla ociemniałych, nieświadczone przez operatora wyznaczonego w ramach obowiązku świadczenia usług powszechnych; do usług wchodzących w zakres usług powszechnych nie zalicza się usług pocztowych polegających na przyjmowaniu, sortowaniu, przemieszczaniu i doręczaniu przesyłek kurierskich.
+
 **Art. 4.** Do świadczenia usług pocztowych w obrocie zagranicznym stosuje się przepisy ustawy, jeżeli międzynarodowe przepisy nie stanowią inaczej.
 
 **Art. 5.** Zadania z zakresu działalności pocztowej, określone dla zarządów pocztowych lub administracji pocztowych w międzynarodowych przepisach pocztowych, wykonuje operator wyznaczony.
@@ -89,6 +129,12 @@ Art. 131–177. (pominięte)
 5. Czasowe świadczenie usług pocztowych innych niż usługi powszechne przez przedsiębiorców z państw członkowskich w rozumieniu art. 3 pkt 6 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 89, 619, 621 i 1794 oraz z 2026 r. poz. 507) wymaga uzyskania wpisu do rejestru. Przepisy ust. 2–4 stosuje się.
 
 **Art. 7.** Działalność pocztową w zakresie objętym obowiązkiem wpisu do rejestru może wykonywać przedsiębiorca, który:
+
+- **1)** zapewnia warunki do przestrzegania tajemnicy pocztowej, o której mowa w art. 41;
+- **2)** zapewnia warunki techniczne i organizacyjne świadczenia usług pocztowych niezbędne dla zachowania bezpieczeństwa obrotu pocztowego;
+- **3)** posiada regulamin świadczenia usług pocztowych oraz cennik usług pocztowych;
+- **4)** nie był prawomocnie skazany za umyślne przestępstwo przeciwko ochronie informacji, wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi lub umyślne przestępstwo skarbowe dotyczy to osób fizycznych wykonujących we własnym imieniu działalność gospodarczą lub osób kierujących działalnością osób prawnych lub jednostek organizacyjnych niebędących osobami prawnymi, którym odrębna ustawa przyznaje zdolność prawną;
+- **5)** zapewnia, że wykonywanie działalności objętej wpisem do rejestru nie zagraża obronności, bezpieczeństwu państwa lub bezpieczeństwu i porządkowi publicznemu.
 
 **Art. 8.** Organem właściwym w sprawach wpisu do rejestru jest Prezes Urzędu Komunikacji Elektronicznej, zwany dalej „Prezesem UKE”.
 
@@ -152,6 +198,14 @@ Art. 131–177. (pominięte)
 
 **Art. 11.** Prezes UKE wykreśla wpis z rejestru:
 
+- **1)** na wniosek operatora pocztowego;
+- **2)** z urzędu w przypadku:
+    - **a)** stwierdzenia zakończenia wykonywania działalności gospodarczej lub zaprzestania wykonywania działalności pocztowej w przypadku innym niż zawieszenie wykonywania tej działalności,
+    - **b)** wydania decyzji o zakazie wykonywania działalności pocztowej objętej wpisem do rejestru,
+    - **c)** wydania prawomocnego orzeczenia sądu o zakazie wykonywania działalności pocztowej objętej wpisem do rejestru,
+    - **d)** uzyskania informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego o wykreśleniu operatora pocztowego,
+    - **e)** niewypełnienia przez operatora pocztowego obowiązku, o którym mowa w art. 43 ust. 1, 5a lub 5b, przez dwa kolejne lata.
+
 **Art. 11a.** Operator pocztowy, którego wykreślono z rejestru zgodnie z art. 11 pkt 2 lit. b, może uzyskać ponowny wpis do rejestru niewcześniej niż po upływie 3 lat od dnia wydania decyzji, o której mowa w art. 10a ust. 1.
 
 **Art. 12.** Minister właściwy do spraw łączności określi, w drodze rozporządzenia, wzór wniosku o wpis do rejestru oraz wzór zgłoszenia, o którym mowa w art. 10, kierując się dążeniem do uproszczenia i ułatwienia podejmowania działalności pocztowej, a także potrzebą zapewnienia Prezesowi UKE informacji koniecznych do realizowania jego obowiązków.
@@ -186,6 +240,9 @@ Art. 131–177. (pominięte)
 #### Rozdział 3 Świadczenie usług pocztowych
 
 **Art. 14.** Świadczenie usług pocztowych odbywa się na podstawie:
+
+- **1)** umów o świadczenie usług pocztowych zawieranych między nadawcami a operatorami pocztowymi;
+- **2)** umów o współpracę zawieranych między operatorami pocztowymi.
 
 **Art. 15.**
 
@@ -681,6 +738,19 @@ Art. 131–177. (pominięte)
 
 **Art. 47.** Minister właściwy do spraw łączności określi, w drodze rozporządzenia, warunki wykonywania usług powszechnych obejmujące:
 
+- **1)** wskaźniki czasu przebiegu przesyłek pocztowych w obrocie krajowym,
+- **2)** wymagania w zakresie przyjmowania i doręczania przesyłek pocztowych, w tym:
+    - **a)** warunki przyjmowania przesyłek,
+    - **b)** sposób postępowania z przesyłkami uszkodzonymi,
+    - **c)** sposób dokumentowania wykonania usługi doręczenia przesyłek rejestrowanych,
+    - **d)** terminy odbioru przesyłek z placówki pocztowej operatora wyznaczonego,
+    - **e)** wymagania w zakresie opakowania przesyłek,
+    - **f)** sposób rozmieszczenia oznaczenia adresata, adresu, informacji o opłacie pocztowej oraz innych oznaczeń na stronie adresowej przesyłki listowej,
+
+- **3)** sposób rozmieszczenia placówek pocztowych operatora wyznaczonego,
+- **4)** minimalny procentowy udział nadawczych skrzynek pocztowych operatora wyznaczonego, których umieszczenie spełnia wymagania, o których mowa w art. 62 pkt 3,
+- **5)** sposób świadczenia usług powszechnych biorąc pod uwagę ochronę interesów podmiotów korzystających z usług powszechnych, w tym w zakresie czasu przebiegu przesyłek pocztowych, przejrzystość wymagań w zakresie przyjmowania i doręczania przesyłek pocztowych, dostępność nadawczych skrzynek pocztowych operatora wyznaczonego dla osób niepełnosprawnych poruszających się za pomocą wózka inwalidzkiego, dostępność placówek pocztowych operatora wyznaczonego oraz jednolity sposób świadczenia usług powszechnych, rzeczywiste zapotrzebowanie na usługi powszechne i wpływ warunków wykonywania tych usług na koszt usług powszechnych.
+
 **Art. 48.** Operator wyznaczony nie może odmówić zawarcia umowy o świadczenie usługi pocztowej dotyczącej świadczenia usługi powszechnej, z zastrzeżeniem art. 16 ust. 1 i ust. 2 pkt 1.
 
 **Art. 49.**
@@ -818,6 +888,15 @@ Art. 131–177. (pominięte)
 4. Przepis ust. 2 stosuje się odpowiednio, jeżeli nieruchomość stanowi przedmiot użytkowania, najmu, dzierżawy lub trwałego zarządu.
 
 **Art. 62.** Operator wyznaczony zapewnia osobom niepełnosprawnym dostęp do usług powszechnych przez:
+
+- **1)** organizację pracy placówek pocztowych umożliwiającą osobom poruszającym się za pomocą wózka inwalidzkiego korzystanie z usług świadczonych przez te placówki;
+- **2)** tworzenie w placówkach pocztowych odpowiednio oznakowanych stanowisk obsługi osób niepełnosprawnych;
+- **3)** umieszczanie nadawczych skrzynek pocztowych w sposób i w miejscu umożliwiającym korzystanie z nich osobie niepełnosprawnej, poruszającej się za pomocą wózka inwalidzkiego, w szczególności nadawczych skrzynek pocztowych instalowanych w placówce pocztowej lub na nieruchomości użytkowanej przez tę placówkę;
+- **4)** doręczanie osobom:
+    - **a)** z uszkodzeniem narządu ruchu powodującym konieczność korzystania z wózka inwalidzkiego,
+    - **b)** niewidomym lub ociemniałym na ich wniosek i bez pobierania dodatkowych opłat, przesyłek listowych, przesyłek rejestrowanych, w tym przesyłek z zadeklarowaną wartością oraz kwot pieniężnych określonych w przekazach pocztowych, z pominięciem oddawczej skrzynki pocztowej oraz bez konieczności odbierania przesyłki w placówce pocztowej;
+
+- **5)** przyjmowanie od osoby niepełnosprawnej w miejscu jej zamieszkania prawidłowo opłaconej przesyłki pocztowej niebędącej przesyłką rejestrowaną.
 
 **Art. 63.**
 
@@ -1029,6 +1108,11 @@ Art. 131–177. (pominięte)
 
 **Art. 80.** Prezes UKE podaje do publicznej wiadomości na stronie podmiotowej BIP informację o:
 
+- **1)** zmianie operatora wyznaczonego;
+- **2)** przedłużeniu wykonywania obowiązków dotychczasowemu operatorowi wyznaczonemu w trybie art. 73 ust. 4;
+- **3)** prawach i obowiązkach operatorów wyznaczonych ustanowionych w trybie art. 77 ust. 2, 3 i 6;
+- **4)** terminie rozpoczęcia i zakończenia wykonywania obowiązków operatora wyznaczonego.
+
 #### Rozdział 7 Obowiązki na rzecz obronności, bezpieczeństwa państwa oraz bezpieczeństwa i porządku publicznego
 
 **Art. 81.** Operator pocztowy jest obowiązany do wykonywania zadań i obowiązków na rzecz obronności, bezpieczeństwa państwa oraz bezpieczeństwa i porządku publicznego w zakresie i na warunkach określonych w ustawie oraz w przepisach odrębnych.
@@ -1162,6 +1246,9 @@ Art. 131–177. (pominięte)
 - **2)** od dnia doręczenia wezwania do zapłaty.
 
 **Art. 89.** Operator pocztowy jest obowiązany do wypłaty odszkodowania w zakresie nienależytego wykonania usługi doręczenia przesyłek pocztowych doręczanych w trybach określonych w ustawie z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, ustawie z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2026 r. poz. 468 i 473), ustawie z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2026 r. poz. 490 i 421) oraz w trybie ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ) polegającego na:
+
+- **1)** nieprawidłowym wypełnieniu przez operatora pocztowego dokumentu potwierdzającego odbiór przesyłki rejestrowanej przez adresata jeżeli uniemożliwia to stwierdzenie prawidłowości doręczenia przesyłki lub
+- **2)** zwróceniu przesyłki rejestrowanej niezgodnie z terminem lub z uwagi na nieprawidłowo wskazany powód w wysokości opłaty za usługę przesyłki rejestrowanej wraz z opłatą za zapewnienie potwierdzenia jej odbioru oraz za zwrot tej przesyłki, jeżeli taka opłata została pobrana.
 
 **Art. 90.** W przypadku niedoręczenia adresatowi przez operatora wyznaczonego kwoty pieniężnej określonej w przekazie pocztowym, o którym mowa w art. 15 ust. 1 pkt 3, przysługuje odszkodowanie w wysokości pięciokrotności opłaty pobranej za jego nadanie. Zwrotowi podlega również kwota pieniężna określona w przekazie pocztowym.
 
@@ -1315,6 +1402,11 @@ Art. 131–177. (pominięte)
 
 **Art. 104.** Minister właściwy do spraw łączności w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia:
 
+- **1)** sposób przypisania przychodów i kosztów operatora wyznaczonego do poszczególnych usług powszechnych oraz do usług wchodzących w zakres usług powszechnych, pozostałych usług pocztowych i pozostałej działalności gospodarczej, także do czynności przyjmowania, sortowania, przemieszczania i doręczania przesyłek pocztowych,
+- **2)** szczegółowe zasady kalkulacji kosztów jednostkowych poszczególnych usług powszechnych,
+- **3)** tryb i termin uzgadniania i zatwierdzania przez Prezesa UKE przedłożonych przez operatora wyznaczonego projektów instrukcji rachunkowości regulacyjnej oraz opisu kalkulacji kosztów,
+- **4)** zakres i termin przekazywania Prezesowi UKE rocznego sprawozdania z prowadzonej rachunkowości regulacyjnej, przyjmując, że dane zawarte w sprawozdaniu są sprawdzalne w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości, zawierającego w szczególności wyniki kalkulacji kosztów jednostkowych poszczególnych usług powszechnych mając na uwadze rzetelność, przejrzystość oraz kompletność sprawozdań z prowadzonej rachunkowości regulacyjnej oraz wyników kalkulacji kosztów, sprawność uzgadniania projektów instrukcji rachunkowości regulacyjnej i opisu kalkulacji kosztów oraz konieczność ochrony podmiotów korzystających z usług pocztowych przed nadużywaniem przez operatora wyznaczonego pozycji rynkowej, a także konieczność umożliwienia działalności kontrolnej Prezesowi UKE wobec działalności wykonywanej przez operatora wyznaczonego.
+
 **Art. 105.**
 
 1. Operator wyznaczony prowadzi rachunkowość zgodnie z ustawą z dnia 29 września 1994 r. o rachunkowości.
@@ -1437,9 +1529,23 @@ Art. 131–177. (pominięte)
 
 **Art. 119.** W przypadku uruchomienia finansowania kosztu netto za dany rok Prezes UKE publikuje niezwłocznie na stronie podmiotowej BIP sprawozdanie obejmujące końcowe wyniki ustaleń dotyczące:
 
+- **1)** kosztu netto i straty na usługach powszechnych;
+- **2)** weryfikacji dokumentów, o których mowa w art. 112 ust. 1;
+- **3)** (uchylony)
+- **4)** wysokości finansowania kosztu netto przekazanego operatorowi wyznaczonemu;
+- **5)** wyceny korzyści pośrednich operatora wyznaczonego wynikających ze świadczenia usług powszechnych;
+- **6)** wyceny korzyści wynikających z praw specjalnych lub wyłącznych przyznanych operatorowi wyznaczonemu.
+
 **Art. 119a.** (uchylony)
 
 **Art. 120.** Minister właściwy do spraw łączności w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia:
+
+- **1)** szczegółowe zasady kalkulacji kosztu netto,
+- **2)** zakres projektu opisu kalkulacji kosztu netto,
+- **3)** tryb i terminy uzgadniania i zatwierdzania przez Prezesa UKE opracowanego przez operatora wyznaczonego projektu opisu kalkulacji kosztu netto,
+- **4)** korzyści pośrednie operatora wyznaczonego wynikające ze świadczenia usług powszechnych oraz sposób ich liczenia,
+- **5)** korzyści wynikające z praw specjalnych lub wyłącznych przyznanych operatorowi wyznaczonemu oraz sposób ich liczenia,
+- **6)** tryb wypłaty finansowania kosztu netto mając na uwadze zgodność sposobu kalkulacji kosztu netto z przepisami Unii Europejskiej, w zakresie zasad rozwoju rynku wewnętrznego usług pocztowych Unii Europejskiej, w szczególności w zakresie prawa operatora wyznaczonego do rozsądnego zysku oraz zachęt do zwiększenia jego efektywności kosztowej, uwzględnienia korzyści pośrednich wynikających ze świadczenia usług powszechnych, zgodność z przepisami o pomocy publicznej, zakres obowiązku świadczenia usług powszechnych, o którym mowa w art. 46, oraz w przepisach wykonawczych wydanych na podstawie art. 47, kompletność opisu kalkulacji kosztu netto, a także sprawność uzgadniania jego projektu.
 
 #### Rozdział 10a Organy właściwe w sprawach poczty
 

@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o ekonomii społecznej
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 13 czerwca 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 czerwca 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-06-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000806) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/806/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 13 czerwca 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o ekonomii społecznej
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej (Dz. U. z 2024 r. poz. 113), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 18 października 2024 r. o zmianie niektórych ustaw związanych z udzielaniem pomocy de minimis (Dz. U.
 poz. 1635),
@@ -45,7 +45,44 @@ Art. 67–77. (pominięte)
 
 **Art. 1.** Ustawa reguluje:
 
+- **1)** organizację i zasady działania przedsiębiorstwa społecznego;
+- **2)** zasady uzyskiwania i utraty statusu przedsiębiorstwa społecznego oraz nadzór nad przedsiębiorstwem społecznym;
+- **3)** instrumenty wsparcia przedsiębiorstwa społecznego;
+- **4)** zasady i formy wspierania rozwoju ekonomii społecznej przez organy administracji publicznej;
+- **5)** ochronę danych osobowych w związku z realizacją celów wynikających z ustawy.
+
 **Art. 2.** Ilekroć w niniejszej ustawie jest mowa o:
+
+- **1)** ekonomii społecznej należy przez to rozumieć działalność podmiotów ekonomii społecznej na rzecz społeczności lokalnej w zakresie reintegracji społecznej i zawodowej, tworzenia miejsc pracy dla osób zagrożonych wykluczeniem społecznym oraz świadczenia usług społecznych, realizowaną w formie działalności gospodarczej, działalności pożytku publicznego i innej działalności o charakterze odpłatnym;
+- **2)** innej działalności o charakterze odpłatnym należy przez to rozumieć działalność, o której mowa w art. 170 ust. 1 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2024 r. poz. 737, z późn. zm. ), działalność kulturalną w rozumieniu art. 1 ust. 1 ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2024 r. poz. 87) oraz działalność zarobkową kół gospodyń wiejskich, o której mowa w art. 22 ustawy z dnia 9 listopada 2018 r. o kołach gospodyń wiejskich (Dz. U. z 2025 r. poz. 310), jeżeli nie jest działalnością gospodarczą;
+- **3)** jednostce tworzącej podmiot ekonomii społecznej należy przez to rozumieć podmiot, o którym mowa w art. 10b ust. 1 i art. 29 ust. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2024 r. poz. 44, z późn. zm. ) lub art. 3 ust. 2 i art. 18 ust. 1 ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. z 2025 r. poz. 83 i 620), który odpowiednio zorganizował warsztat terapii zajęciowej, utworzył zakład aktywności zawodowej lub centrum integracji społecznej lub prowadzi klub integracji społecznej;
+- **4)** osobach prawnych organizacyjnie powiązanych należy przez to rozumieć co najmniej dwie osoby prawne, z których jedna posiada kontrolę w rozumieniu art. 4 pkt 4 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2024 r. poz. 1616) nad pozostałą osobą prawną lub pozostałymi osobami prawnymi;
+- **5)** podmiocie ekonomii społecznej należy przez to rozumieć:
+    - **a)** spółdzielnię socjalną,
+    - **b)** warsztat terapii zajęciowej i zakład aktywności zawodowej,
+    - **c)** centrum integracji społecznej i klub integracji społecznej,
+    - **d)** spółdzielnię pracy, w tym spółdzielnię inwalidów i spółdzielnię niewidomych, oraz spółdzielnię produkcji rolnej,
+    - **e)** organizację pozarządową, o której mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491, 1761 i 1940), z wyjątkiem partii politycznych, europejskich partii politycznych, związków zawodowych i organizacji pracodawców, samorządów zawodowych, fundacji utworzonych przez partie polityczne i europejskich fundacji politycznych,
+    - **f)** podmiot, o którym mowa w art. 3 ust. 3 pkt 1, 2 lub 4 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie;
+
+- **6)** osobie zagrożonej wykluczeniem społecznym należy przez to rozumieć:
+    - **a)** bezrobotnego, o którym mowa w art. 2 pkt 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620),
+    - **b)** długotrwale bezrobotnego, o którym mowa w art. 2 pkt 4 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia,
+    - **c)** poszukującego pracy, o którym mowa w art. 2 pkt 24 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, bez zatrudnienia: w wieku do 30. roku życia oraz po ukończeniu 50. roku życia lub niewykonującego innej pracy zarobkowej, o której mowa w art. 2 pkt 9 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia,
+    - **d)** osobę niepełnosprawną w rozumieniu art. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych,
+    - **e)** absolwenta centrum integracji społecznej oraz absolwenta klubu integracji społecznej, o których mowa w art. 2 pkt 1a i 1b ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym,
+    - **f)** osobę spełniającą kryteria, o których mowa w art. 8 ust. 1 pkt 1 i 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2024 r. poz. 1283 i 1572 oraz z 2025 r. poz. 620 i 718),
+    - **g)** osobę uprawnioną do specjalnego zasiłku opiekuńczego, o której mowa w art. 16a ust. 1 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2024 r. poz. 323, 858, 1615 i 1871 oraz z 2025 r. poz. 619 i 620),
+    - **h)** osobę usamodzielnianą, o której mowa w art. 140 ust. 1 i 2 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2025 r. poz. 49) oraz art. 88 ust. 1 ustawy z dnia 12 marca 2004 r. o pomocy społecznej,
+    - **i)** osobę z zaburzeniami psychicznymi, o której mowa w art. 3 pkt 1 ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2024 r. poz. 917),
+    - **j)** osobę pozbawioną wolności, osobę opuszczającą zakład karny oraz pełnoletnią osobę opuszczającą zakład poprawczy,
+    - **k)** osobę starszą, o której mowa w art. 4 pkt 1 ustawy z dnia 11 września 2015 r. o osobach starszych (Dz. U. poz. 1705 oraz z 2024 r. poz. 834),
+    - **l)** osobę, która uzyskała w Rzeczypospolitej Polskiej status uchodźcy lub ochronę uzupełniającą;
+
+- **7)** reintegracji społecznej należy przez to rozumieć działania służące odbudowaniu lub nabyciu i podtrzymaniu umiejętności uczestniczenia w życiu społeczności lokalnej i pełnienia ról społecznych w miejscu pracy, zamieszkania lub pobytu, w tym rehabilitację społeczną osób niepełnosprawnych;
+- **8)** reintegracji zawodowej należy przez to rozumieć działania służące zdobyciu nowych kwalifikacji, kompetencji, wiedzy i umiejętności w celu odbudowania lub uzyskania i podtrzymania zdolności do samodzielnego świadczenia pracy na rynku pracy i awansu zawodowego, w tym rehabilitację zawodową osób niepełnosprawnych;
+- **9)** usługach społecznych należy przez to rozumieć działania z zakresu, o którym mowa w art. 2 ust. 1 pkt 1–14 ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych (Dz. U. poz. 1818 oraz z 2025 r. poz. 620);
+- **10)** zatrudnieniu należy przez to rozumieć zatrudnienie, o którym mowa w art. 2 pkt 51 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.
 
 ### DZIAŁ II Przedsiębiorstwo społeczne
 
@@ -200,6 +237,11 @@ Art. 67–77. (pominięte)
 
 **Art. 17.** Wojewoda wydaje decyzję o utracie statusu przedsiębiorstwa społecznego w przypadku, gdy:
 
+- **1)** przedsiębiorstwo społeczne nie spełnia któregokolwiek z warunków, o których mowa w art. 3, art. 4 ust. 1 oraz art. 5–10, mimo upływu terminu, o którym mowa w art. 14 ust. 1;
+- **2)** ogłoszono upadłość przedsiębiorstwa społecznego albo oddalono wniosek o ogłoszenie upadłości przedsiębiorstwa społecznego z uwagi na fakt, że jego majątek nie wystarcza na zaspokojenie kosztów postępowania;
+- **3)** otwarto likwidację przedsiębiorstwa społecznego;
+- **4)** przedsiębiorstwo społeczne wystąpiło z wnioskiem o wydanie tej decyzji.
+
 **Art. 18.** Podmiot ekonomii społecznej, o którym mowa w art. 2 pkt 5 lit. a oraz d–f, oraz jednostka tworząca podmiot ekonomii społecznej, które utraciły status przedsiębiorstwa społecznego na podstawie art. 17 pkt 1, mogą ponownie uzyskać ten status nie wcześniej niż po upływie roku od dnia, w którym decyzja o utracie statusu stała się ostateczna.
 
 **Art. 19.**
@@ -320,6 +362,12 @@ Art. 67–77. (pominięte)
 #### Rozdział 2 Zasady i formy wspierania podmiotów ekonomii społecznej na poziomie krajowym
 
 **Art. 30.** Minister właściwy do spraw zabezpieczenia społecznego koordynuje działania na rzecz rozwoju ekonomii społecznej, w szczególności:
+
+- **1)** opracowuje program rozwoju na rzecz ekonomii społecznej na podstawie ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju;
+- **2)** zapewnia realizację usług wsparcia podmiotów ekonomii społecznej na poziomie krajowym;
+- **3)** przyznaje akredytację podmiotom realizującym usługi wsparcia podmiotów ekonomii społecznej i status ośrodka wsparcia ekonomii społecznej;
+- **4)** gromadzi dane z obszaru ekonomii społecznej, w tym opracowane przez Prezesa Głównego Urzędu Statystycznego;
+- **5)** prowadzi działania z zakresu upowszechniania wiedzy o ekonomii społecznej.
 
 **Art. 31.**
 
@@ -488,9 +536,20 @@ Art. 67–77. (pominięte)
 
 **Art. 42.** Minister właściwy do spraw zabezpieczenia społecznego wydaje decyzję o utracie akredytacji i statusu ośrodka wsparcia ekonomii społecznej w przypadku:
 
+- **1)** stwierdzenia braku możliwości prawidłowej realizacji usług wsparcia podmiotów ekonomii społecznej;
+- **2)** niespełniania warunków, o których mowa w art. 36 ust. 3;
+- **3)** nieprzekazania informacji, o których mowa w art. 40 ust. 2 pkt 1;
+- **4)** bezskutecznego upływu terminu, o którym mowa w art. 41;
+- **5)** złożenia przez ośrodek wsparcia ekonomii społecznej wniosku o wydanie tej decyzji.
+
 **Art. 43.** Minister właściwy do spraw zabezpieczenia społecznego prowadzi wykaz akredytowanych ośrodków wsparcia ekonomii społecznej i udostępnia go na stronie podmiotowej urzędu go obsługującego w Biuletynie Informacji Publicznej.
 
 **Art. 44.** Wykaz, o którym mowa w art. 43, w odniesieniu do każdego ośrodka zawiera:
+
+- **1)** nazwę ośrodka wsparcia ekonomii społecznej i podmiotów go tworzących;
+- **2)** adres siedziby ośrodka wsparcia ekonomii społecznej i obszar jego działania;
+- **3)** okres, na jaki przyznano akredytację i status ośrodka wsparcia ekonomii społecznej;
+- **4)** dane kontaktowe ośrodka wsparcia ekonomii społecznej.
 
 **Art. 45.** Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, szczegółowy tryb oceny, o której mowa w art. 38 ust. 1, oraz wzór wniosku o przyznanie akredytacji i statusu ośrodka wsparcia ekonomii społecznej, mając na względzie konieczność oceny doświadczenia wnioskodawcy w realizacji usług wsparcia podmiotów ekonomii społecznej i możliwości prawidłowej realizacji tych usług przez wnioskodawcę, a także konieczność zapewnienia przejrzystości danych zamieszczanych we wniosku.
 
@@ -669,6 +728,9 @@ Art. 67–77. (pominięte)
 
 **Art. 66.** Dane, o których mowa w art. 60 ust. 1, art. 61 ust. 1 i 2, art. 62 ust. 1, art. 63 ust. 1, art. 64 ust. 1 i art. 65 ust. 1, podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazywaniu, które polegają co najmniej na:
 
+- **1)** dopuszczeniu do przetwarzania danych wyłącznie osób posiadających pisemne upoważnienie;
+- **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych do zachowania ich w poufności.
+
 ### DZIAŁ V Zmiany w przepisach
 
 ### DZIAŁ VI Przepisy przejściowe i dostosowujące oraz przepis końcowy
@@ -680,6 +742,10 @@ Art. 67–77. (pominięte)
 **Art. 80.** Do postępowań o udzielenie zamówienia publicznego wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy przepisu art. 361 ust. 3 ustawy zmienianej w art. 77 nie stosuje się.
 
 **Art. 81.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
+
+- **1)** art. 21 ust. 2f i art. 26g ust. 5 ustawy zmienianej w art. 68 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 21 ust. 2f i art. 26g ust. 7 ustawy zmienianej w art. 68 , w brzmieniu nadanym niniejszą ustawą,
+- **2)** art. 32 ust. 3 ustawy zmienianej w art. 68 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 32 ust. 3 ustawy zmienianej w art. 68 , w brzmieniu nadanym niniejszą ustawą,
+- **3)** art. 46 ust. 6a ustawy zmienianej w art. 72 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 46 ust. 6a ustawy zmienianej w art. 72 , w brzmieniu nadanym niniejszą ustawą jednak nie dłużej niż 6 miesięcy od dnia wejścia w życie niniejszej ustawy oraz mogą być zmieniane na podstawie tych przepisów w brzmieniu dotychczasowym.
 
 **Art. 82.** Samorząd województwa opracowuje regionalny program rozwoju ekonomii społecznej, o którym mowa w art. 54 ust. 1 pkt 1, w terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 

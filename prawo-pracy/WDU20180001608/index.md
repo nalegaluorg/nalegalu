@@ -8,12 +8,10 @@ pos: 1608
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy o związkach zawodowych oraz niektórych innych ustaw
-
-*USTAWA dnia 5 lipca 2018 r.*
+# Ustawa z dnia 5 lipca 2018 r. o zmianie ustawy o związkach zawodowych oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,25 +22,138 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-05 |
 | Data wydania | 2018-08-22 |
+| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001608) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1608/text.pdf) |
 
-**Art. 1.** W ustawie dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. 2015 r. poz. 1881) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2015 r. poz. 1881) wprowadza się następujące zmiany:
+
+- **1)** po art. 1 dodaje się art. 11 w brzmieniu: „
+
+**Art. 11.** Ilekroć w ustawie jest mowa o:
+
+- **1)** osobie wykonującej pracę zarobkową – należy przez to rozumieć pracownika lub osobę świadczącą pracę za wynagrodzeniem na innej podstawie niż stosunek pracy, jeżeli nie zatrudnia do tego rodzaju pracy innych osób, niezależnie od podstawy zatrudnienia, oraz ma takie prawa i interesy związane z wykonywaniem pracy, które mogą być reprezentowane i bronione przez związek zawodowy;
+- **2)** pracodawcy – należy przez to rozumieć pracodawcę w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, 1000 i 1076) oraz jednostkę organizacyjną, choćby nie posiadała osobowości prawnej, a także osobę fizyczną, jeżeli zatrudniają one inną niż pracownik osobę wykonującą pracę zarobkową, niezależnie od podstawy tego zatrudnienia;
+- **3)** pracowniku – należy przez to rozumieć osobę, o której mowa w art. 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy. ” ;
+- **2)** w art. 2: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Prawo tworzenia i wstępowania do związków zawodowych przysługuje osobom wykonującym pracę zarobkową. ” , ust. 3 otrzymuje brzmienie: „
+
+- **b)**
+
+3. Przejście na emeryturę lub rentę nie pozbawia osób, o których mowa w ust. 1, prawa przynależności i wstępowania do związków zawodowych. ” , po ust. 4 dodaje się ust. 41 w brzmieniu: „
+
+- **c)**
+
+41. Wolontariuszom, stażystom i innym osobom, które świadczą osobiście pracę bez wynagrodzenia, przysługuje prawo wstępowania do związków zawodowych w przypadkach i na warunkach określonych statutami związków. ” , ust. 5–7 otrzymują brzmienie: „
+
+- **d)**
+
+5. Prawo tworzenia i wstępowania do związków zawodowych działających u pracodawców przysługuje również osobom skierowanym do tych pracodawców w celu odbycia służby zastępczej. Do tych osób stosuje się odpowiednio przepisy ustawy dotyczące osób wykonujących pracę zarobkową.
+
+6. Do praw związkowych funkcjonariuszy Policji, Straży Granicznej, Służby Celno-Skarbowej i Służby Więziennej oraz strażaków Państwowej Straży Pożarnej, a także pracowników Najwyższej Izby Kontroli stosuje się odpowiednio przepisy ustawy, z uwzględnieniem ograniczeń wynikających z odrębnych ustaw.
+
+7. Przepisy ustawy dotyczące pracowników stosuje się odpowiednio do funkcjonariuszy. ” ;
+
+- **3)** art. 3–5 otrzymują brzmienie: „
+
+**Art. 3.**
+
+1. Zakazuje się nierównego traktowania w zatrudnieniu osób, o których mowa w art. 2 ust. 1 i 3–6, z powodu przynależności do związku zawodowego lub pozostawania poza nim albo wykonywania funkcji związkowej, którego skutkiem jest w szczególności:
+
+- **1)** odmowa nawiązania lub rozwiązanie stosunku prawnego,
+- **2)** niekorzystne ukształtowanie wynagrodzenia za pracę zarobkową lub innych warunków zatrudnienia albo pominięcie przy awansowaniu lub przyznawaniu innych świadczeń związanych z pracą zarobkową,
+- **3)** pominięcie przy typowaniu do udziału w szkoleniach podnoszących kwalifikacje zawodowe chyba że pracodawca udowodni, że kierował się obiektywnymi powodami.
+
+2. W sprawach dotyczących roszczeń z tytułu naruszenia zakazu nierównego traktowania w zatrudnieniu z powodu przynależności do związku zawodowego lub pozostawania poza nim albo wykonywania funkcji związkowej do innych niż pracownicy osób wymienionych w ust. 1 stosuje się odpowiednio przepisy art. 183d i art. 183e ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
+
+3. Do postępowań w sprawach dotyczących naruszenia zakazu nierównego traktowania w zatrudnieniu z powodu przynależności do związku zawodowego lub pozostawania poza nim albo wykonywania funkcji związkowej wobec innych niż pracownicy osób wymienionych w ust. 1 stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 1360, 1467, 1499 i 1544) o postępowaniu w sprawach z zakresu prawa pracy. Sądem właściwym do rozpoznawania tych spraw jest właściwy sąd pracy.
+
+4. Postanowienia umów i innych aktów, na podstawie których inne niż pracownicy osoby wymienione w ust. 1 świadczą pracę, naruszające zasadę równego traktowania w zatrudnieniu z powodu przynależności do związku zawodowego lub pozostawania poza nim albo wykonywania funkcji związkowej są nieważne. Zamiast takich postanowień stosuje się odpowiednie przepisy prawa regulujące stosunek prawny łączący te osoby z pracodawcą, a w razie braku takich przepisów postanowienia te zastępuje się odpowiednimi postanowieniami niemającymi charakteru dyskryminacyjnego.
 
 **Art. 4.** Związki zawodowe reprezentują osoby, o których mowa w art. 2 ust. 1 i 3–6, a także bronią ich godności, praw oraz interesów materialnych i moralnych, zarówno zbiorowych, jak i indywidualnych.
 
-**Art. 5.** Związki zawodowe mają prawo reprezentowania na forum międzynarodowym interesów osób, o których mowa w art. 2 ust. 1 i 3–6.”;
+**Art. 5.** Związki zawodowe mają prawo reprezentowania na forum międzynarodowym interesów osób, o których mowa w art. 2 ust. 1 i 3–6. ” ;
 
-**Art. 8.** Na zasadach przewidzianych w niniejszej ustawie oraz w ustawach odrębnych związki zawodowe kontrolują przestrzeganie przepisów dotyczących interesów osób, o których mowa w art. 2 ust. 1 i 3–6, a także interesów rodzin tych osób.”;
+- **4)** art. 7 i art. 8 otrzymują brzmienie: „
 
-**Art. 25¹.**
+**Art. 7.**
+
+1. W zakresie praw i interesów zbiorowych związki zawodowe reprezentują wszystkie osoby, o których mowa w art. 2 ust. 1 i 3–6, niezależnie od ich przynależności związkowej.
+
+2. W sprawach indywidualnych dotyczących wykonywania pracy zarobkowej związki zawodowe reprezentują prawa i interesy swoich członków.
+
+3. Na wniosek niezrzeszonej osoby, o której mowa w art. 2 ust. 1 i 3–6, związek zawodowy może podjąć się obrony jej praw i interesów wobec pracodawcy.
+
+**Art. 8.** Na zasadach przewidzianych w niniejszej ustawie oraz w ustawach odrębnych związki zawodowe kontrolują przestrzeganie przepisów dotyczących interesów osób, o których mowa w art. 2 ust. 1 i 3–6, a także interesów rodzin tych osób. ” ;
+
+- **5)** w art. 11 w ust. 3 wyrazy „międzynarodowych organizacji pracowników” zastępuje się wyrazami „międzynarodowych organizacji związkowych”;
+- **6)** po art. 11 dodaje się art. 111 w brzmieniu: „
+
+**Art. 111.**
+
+1. Składki członkowskie wnoszone do międzynarodowych organizacji związkowych, reprezentujących interesy osób wykonujących pracę zarobkową wobec instytucji Unii Europejskiej, przez organizacje związkowe, reprezentatywne w rozumieniu ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. poz. 1240, z 2017 r. poz. 2371 oraz z 2018 r. poz. 1464), zwanej dalej „ustawą o Radzie Dialogu Społecznego”, wchodzące w skład Rady Dialogu Społecznego, mogą być dofinansowane z budżetu państwa w formie dotacji celowej.
+
+2. Dotacji celowej, o której mowa w ust. 1, udziela – na wniosek organizacji związkowej – minister właściwy do spraw pracy, na podstawie umowy zawartej z tą organizacją.
+
+3. O dofinansowanie składek, o których mowa w ust. 1, może ubiegać się organizacja związkowa, o której mowa w ust. 1, która na dzień złożenia wniosku jest członkiem międzynarodowej organizacji związkowej od co najmniej 12 miesięcy.
+
+4. Kwota dotacji celowej na dofinansowanie składek z budżetu państwa w danym roku, dla każdej organizacji związkowej, o której mowa w ust. 1, nie może być wyższa niż 300 000 zł i stanowić więcej niż 95% wysokości tych składek.
+
+5. Minister właściwy do spraw pracy określi, w drodze rozporządzenia, szczegółowy tryb składania wniosków, o których mowa w ust. 2, wzór wniosku o udzielenie dotacji oraz niezbędne dokumenty, mając na względzie zapewnienie prawidłowości, przejrzystości i efektywności wydatkowania środków publicznych. ” ;
+
+- **7)** art. 16 otrzymuje brzmienie: „
+
+**Art. 16.** Związek zawodowy zawiadamia właściwy sąd o zmianie statutu w terminie 30 dni od dnia podjęcia uchwały w tym zakresie. ” ;
+
+- **8)** w art. 17 w ust. 1 pkt 2 otrzymuje brzmienie: „
+- **2)** pracodawca, u którego dotychczas działał związek zawodowy, został wykreślony z właściwego rejestru z powodu jego likwidacji lub upadłości albo jego przekształcenia organizacyjno-prawnego, uniemożliwiającego kontynuowanie działalności tego związku; ” ;
+- **9)** uchyla się art. 18;
+- **10)** w art. 19 ust. 1 – 21 otrzymują brzmienie: „
+
+1. Organizacja związkowa, reprezentatywna w rozumieniu ustawy o Radzie Dialogu Społecznego, ma prawo opiniowania założeń i projektów aktów prawnych w zakresie objętym zadaniami związków zawodowych. Nie dotyczy to założeń projektu budżetu państwa oraz projektu ustawy budżetowej, których opiniowanie regulują odrębne przepisy.
+
+2. Organy władzy i administracji rządowej oraz organy samorządu terytorialnego kierują założenia albo projekty aktów prawnych, o których mowa w ust. 1, do odpowiednich władz statutowych związku, określając termin przedstawienia opinii nie krótszy jednak niż 30 dni. Termin ten może zostać skrócony do 21 dni ze względu na ważny interes publiczny. Skrócenie terminu wymaga szczególnego uzasadnienia. Bieg terminu na przedstawienie opinii liczy się od następnego dnia roboczego, z wyłączeniem soboty, następującego po dniu przekazania założeń albo projektu wraz z informacją określającą termin przedstawienia opinii. Nieprzedstawienie opinii w wyznaczonym terminie uważa się za rezygnację z prawa jej wyrażenia.
+
+21. Założenia albo projekty aktów prawnych, o których mowa w ust. 1, wraz z informacją określającą termin przedstawienia opinii, organy władzy i administracji rządowej oraz organy samorządu terytorialnego przekazują na odpowiedni adres elektroniczny wskazany przez właściwy organ statutowy związku. Opinia związku jest przesyłana na odpowiedni adres elektroniczny wskazany przez organ władzy lub administracji rządowej albo organ samorządu terytorialnego w informacji określającej termin przedstawienia opinii. ” ;
+
+- **11)** w art. 191 ust. 1 otrzymuje brzmienie: „
+
+1. Organizacja związkowa, reprezentatywna w rozumieniu ustawy o Radzie Dialogu Społecznego, ma prawo opiniowania dokumentów konsultacyjnych Unii Europejskiej, w szczególności białych ksiąg, zielonych ksiąg i komunikatów, oraz projektów aktów prawnych Unii Europejskiej w zakresie spraw objętych zadaniami związków zawodowych. ” ;
+
+- **12)** w art. 21 dodaje się ust. 3 w brzmieniu: „
+
+3. Przepisy działu jedenastego ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy stosuje się odpowiednio do innych niż pracownicy osób wykonujących pracę zarobkową oraz ich pracodawców, a także do organizacji zrzeszających te podmioty. ” ;
+
+- **13)** art. 25 i art. 251 otrzymują brzmienie: „
+
+**Art. 25.**
+
+1. Pracownikowi powołanemu do pełnienia z wyboru funkcji związkowej poza zakładem pracy, jeżeli z wyboru wynika obowiązek wykonywania tej funkcji w charakterze pracownika, przysługuje – na wniosek organizacji związkowej – prawo do urlopu bezpłatnego.
+
+2. Pracownik, w okresie urlopu bezpłatnego, o którym mowa w ust. 1, zachowuje prawo do umundurowania oraz do korzystania z lokalu mieszkalnego lub innego pomieszczenia mieszkalnego, zajmowanego przed urlopem bezpłatnym, jeżeli pracodawca jest uprawniony do określania warunków zajmowania przez pracowników takiego lokalu lub pomieszczenia.
+
+3. Pracownikowi, który po upływie urlopu bezpłatnego lub wygaśnięciu mandatu do pełnienia z wyboru funkcji związkowej, stawi się do pracy w terminie przewidzianym w art. 74 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, okres urlopu bezpłatnego wlicza się do okresu pracy, od którego zależą uprawnienia pracownicze.
+
+4. Rada Ministrów określi, w drodze rozporządzenia, tryb udzielania urlopu bezpłatnego, o którym mowa w ust. 1, oraz sposób postępowania w przypadku wygaśnięcia mandatu do pełnienia z wyboru funkcji związkowej przez pracownika korzystającego z urlopu bezpłatnego, mając na względzie niwelowanie ujemnych następstw wynikających z pełnienia funkcji związkowej przez pracownika, a także zabezpieczenie potrzeb pracodawcy.
+
+5. Pracownik ma prawo do zwolnienia od pracy zawodowej z zachowaniem prawa do wynagrodzenia na czas niezbędny do wykonania doraźnej czynności wynikającej z jego funkcji związkowej poza zakładem pracy, jeżeli czynność ta nie może być wykonana w czasie wolnym od pracy.
+
+6. Inna niż pracownik osoba wykonująca pracę zarobkową ma prawo do zwolnienia od pracy zawodowej na czas niezbędny do wykonania doraźnej czynności wynikającej z jej funkcji związkowej poza zakładem pracy, jeżeli czynność ta nie może być wykonana w czasie wolnym od pracy. Osoba ta zachowuje prawo do wynagrodzenia, chyba że przepisy szczególne stanowią inaczej.
+
+7. Umowa zawarta między pracodawcą a inną niż pracownik osobą wykonującą pracę zarobkową, w której określono termin wykonania pracy, nie ulega przedłużeniu o czas zwolnienia od pracy, o którym mowa w ust. 6.
+
+8. W układzie zbiorowym pracy można określić limity czasu zwolnień od pracy zawodowej na czas niezbędny do wykonania doraźnej czynności wynikającej z funkcji związkowej osób wykonujących pracę zarobkową.
+
+**Art. 251.**
 
 1. Uprawnienia zakładowej organizacji związkowej przysługują organizacji zrzeszającej co najmniej 10 członków będących:
 
 - **1)** pracownikami u pracodawcy objętego działaniem tej organizacji lub
 - **2)** innymi niż pracownicy osobami wykonującymi pracę zarobkową, które świadczą pracę przez co najmniej 6 miesięcy na rzecz pracodawcy objętego działaniem tej organizacji.
 
-2. Organizacja, o której mowa w ust. 1, przedstawia pracodawcy, co 6 miesięcy – według stanu na dzień 30 czerwca i 31 grudnia – w terminie do 10. dnia miesiąca następującego po tym okresie, informację o liczbie członków, o których mowa w ust. 1, zastrzeżeniem ust. 3.
+2. Organizacja, o której mowa w ust. 1, przedstawia pracodawcy, co 6 miesięcy – według stanu na dzień 30 czerwca i 31 grudnia – w terminie do 10. dnia miesiąca następującego po tym okresie, informację o liczbie członków, o których mowa w ust. 1, z zastrzeżeniem ust. 3.
 
 3. Organizacja wskazana w ust. 1, która została utworzona w ciągu 6-miesięcznego okresu sprawozdawczego, przedstawia pracodawcy pierwszą informację o liczbie członków – według stanu na dzień złożenia informacji – w terminie 2 miesięcy od dnia utworzenia organizacji związkowej. Przedstawienie informacji w terminie określonym w zdaniu poprzednim nie wyłącza obowiązku złożenia przez tę organizację informacji w terminie, o którym mowa w ust. 2.
 
@@ -54,7 +165,7 @@ source: "isap-pdf"
 
 7. Pracodawca lub działająca u niego organizacja związkowa może zgłosić pisemne zastrzeżenie co do liczebności danej zakładowej organizacji związkowej w terminie 30 dni od dnia przedstawienia przez tę organizację informacji, o której mowa w ust. 2 lub 3.
 
-8. W przypadku, o którym mowa w ust. 7, zakładowa organizacja związkowa, wobec której zostało zgłoszone zastrzeżenie, występuje do sądu rejonowego – sądu pracy właściwego ze względu na siedzibę pracodawcy wnioskiem o ustalenie liczby członków na ostatni dzień danego półrocza. Zakładowa organizacja związkowa może również własnej inicjatywy wystąpić wnioskiem o ustalenie liczby członków. Sąd wydaje w tej sprawie orzeczenie w terminie 60 dni od dnia złożenia wniosku, w trybie przepisów ustawy dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego o postępowaniu nieprocesowym.
+8. W przypadku, o którym mowa w ust. 7, zakładowa organizacja związkowa, wobec której zostało zgłoszone zastrzeżenie, występuje do sądu rejonowego – sądu pracy właściwego ze względu na siedzibę pracodawcy z wnioskiem o ustalenie liczby członków na ostatni dzień danego półrocza. Zakładowa organizacja związkowa może również z własnej inicjatywy wystąpić z wnioskiem o ustalenie liczby członków. Sąd wydaje w tej sprawie orzeczenie w terminie 60 dni od dnia złożenia wniosku, w trybie przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego o postępowaniu nieprocesowym.
 
 9. Organizacji związkowej, która w terminie 30 dni od dnia zgłoszenia zastrzeżenia nie wystąpiła do sądu, nie przysługują uprawnienia zakładowej organizacji związkowej do czasu wykonania tego obowiązku.
 
@@ -62,9 +173,13 @@ source: "isap-pdf"
 
 11. Przy ustalaniu uprawnień organizacji związkowej bierze się pod uwagę odpowiednio liczbę jej członków podaną w informacji, o której mowa w ust. 2 lub 3, albo liczbę tych członków ustaloną przez sąd w trybie określonym w ust. 8. Zmiany stanu liczbowego, które nastąpią w ciągu 6-miesięcznego okresu sprawozdawczego, pozostają bez wpływu na te uprawnienia.
 
-12. Jeżeli uprzednio zgłoszone przez pracodawcę lub zakładową organizację związkową, o której mowa w ust. 7, zastrzeżenie co do liczebności danej zakładowej organizacji związkowej okazało się bezpodstawne, ponowne zgłoszenie przez te podmioty zastrzeżenia co do liczebności tej samej organizacji związkowej może nastąpić nie wcześniej niż po upływie roku od dnia uprawomocnienia się orzeczenia w sprawie ustalenia liczby członków tej organizacji.”; „Rozdział 3a Reprezentatywna organizacja związkowa
+12. Jeżeli uprzednio zgłoszone przez pracodawcę lub zakładową organizację związkową, o której mowa w ust. 7, zastrzeżenie co do liczebności danej zakładowej organizacji związkowej okazało się bezpodstawne, ponowne zgłoszenie przez te podmioty zastrzeżenia co do liczebności tej samej organizacji związkowej może nastąpić nie wcześniej niż po upływie roku od dnia uprawomocnienia się orzeczenia w sprawie ustalenia liczby członków tej organizacji. ” ;
 
-**Art. 25².**
+- **14)** po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „
+
+#### Rozdział 3a Reprezentatywna organizacja związkowa
+
+**Art. 252.**
 
 1. Reprezentatywną ponadzakładową organizacją związkową jest ponadzakładowa organizacja związkowa:
 
@@ -72,18 +187,18 @@ source: "isap-pdf"
 - **2)** zrzeszająca co najmniej 15% ogółu osób wykonujących pracę zarobkową objętych zakresem działania statutu, nie mniej jednak niż 10 000 osób wykonujących pracę zarobkową, lub
 - **3)** zrzeszająca największą liczbę osób wykonujących pracę zarobkową, dla których ma być zawarty określony ponadzakładowy układ zbiorowy pracy.
 
-2. Ponadzakładowa organizacja związkowa, o której mowa w ust. 1 pkt 2 i 3, występuje do Sądu Okręgowego w Warszawie wnioskiem o stwierdzenie reprezentatywności, zawierającym informację o liczbie jej członków, który wydaje w tej sprawie orzeczenie w terminie 30 dni od dnia złożenia wniosku, w trybie przepisów ustawy dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego o postępowaniu nieprocesowym.
+2. Ponadzakładowa organizacja związkowa, o której mowa w ust. 1 pkt 2 i 3, występuje do Sądu Okręgowego w Warszawie z wnioskiem o stwierdzenie reprezentatywności, zawierającym informację o liczbie jej członków, który wydaje w tej sprawie orzeczenie w terminie 30 dni od dnia złożenia wniosku, w trybie przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego o postępowaniu nieprocesowym.
 
-3. W przypadku stwierdzenia reprezentatywności ogólnokrajowej organizacji międzyzwiązkowej (konfederacji) mocy prawa stają się reprezentatywne, wchodzące w jej skład, ogólnokrajowe związki zawodowe i zrzeszenia (federacje) związków zawodowych.
+3. W przypadku stwierdzenia reprezentatywności ogólnokrajowej organizacji międzyzwiązkowej (konfederacji) z mocy prawa stają się reprezentatywne, wchodzące w jej skład, ogólnokrajowe związki zawodowe i zrzeszenia (federacje) związków zawodowych.
 
-**Art. 25³.**
+**Art. 253.**
 
 1. Reprezentatywną zakładową organizacją związkową jest zakładowa organizacja związkowa:
 
 - **1)** będąca jednostką organizacyjną albo organizacją członkowską ponadzakładowej organizacji związkowej uznanej za reprezentatywną w rozumieniu ustawy o Radzie Dialogu Społecznego, zrzeszająca co najmniej 8% osób wykonujących pracę zarobkową zatrudnionych u pracodawcy lub
 - **2)** zrzeszająca co najmniej 15% osób wykonujących pracę zarobkową zatrudnionych u pracodawcy.
 
-2. Jeżeli żadna zakładowych organizacji związkowych nie spełnia wymogów, o których mowa w ust. 1, reprezentatywną zakładową organizacją związkową jest organizacja zrzeszająca największą liczbę osób wykonujących pracę zarobkową zatrudnionych u pracodawcy.
+2. Jeżeli żadna z zakładowych organizacji związkowych nie spełnia wymogów, o których mowa w ust. 1, reprezentatywną zakładową organizacją związkową jest organizacja zrzeszająca największą liczbę osób wykonujących pracę zarobkową zatrudnionych u pracodawcy.
 
 3. Jeżeli u pracodawcy działa więcej niż jedna organizacja związkowa reprezentatywna w rozumieniu ust. 1 pkt 1, wchodząca w skład tego samego zrzeszenia (federacji) związków zawodowych lub ogólnokrajowej organizacji międzyzwiązkowej (konfederacji), organizacje te wyłaniają wspólną reprezentację w sprawach dotyczących zbiorowych praw i interesów osób wykonujących pracę zarobkową.
 
@@ -95,43 +210,63 @@ source: "isap-pdf"
 
 7. Przy ustalaniu liczby osób wykonujących pracę zarobkową zatrudnionych u pracodawcy, od której liczy się procent wskazany w ust. 1 pkt 1 lub 2, lub przy ustalaniu największej liczby osób wykonujących pracę zarobkową zatrudnionych u pracodawcy, o której mowa w ust. 2, uwzględnia się wyłącznie osoby wykonujące pracę zarobkową zatrudnione u pracodawcy przez okres co najmniej 6 miesięcy przed rozpoczęciem rokowań lub uzgodnień.
 
-8. W celu stwierdzenia reprezentatywności stosuje się odpowiednio przepisy art. 25 ust. 2–12.”;
+8. W celu stwierdzenia reprezentatywności stosuje się odpowiednio przepisy art. 251 ust. 2–12. ” ;
 
-- **15)** w art. 26 pkt 1 i 2 otrzymują brzmienie: „1) zajmowanie stanowiska w indywidualnych sprawach pracowniczych w zakresie unormowanym w przepisach prawa pracy oraz w indywidualnych sprawach osób wykonujących pracę zarobkową w zakresie związanym wykonywaniem tej pracy;
-- **2)** zajmowanie stanowiska wobec pracodawcy lub organu samorządu załogi w sprawach dotyczących zbiorowych interesów i praw osób wykonujących pracę zarobkową;”;
-- **16)** art. 26 otrzymuje brzmienie: „Art. 26 . 1. W razie przejścia zakładu pracy lub jego części na nowego pracodawcę w rozumieniu art. 3 ustawy dnia 26 czerwca 1974 r. – Kodeks pracy, dotychczasowy i nowy pracodawca w rozumieniu art. 3 ustawy dnia nych oraz socjalnych skutkach dla swoich pracowników, a także zamierzonych działaniach dotyczących warunków zatrudnienia tych pracowników, w szczególności warunków pracy, płacy i przekwalifikowania.
+- **15)** w art. 26 pkt 1 i 2 otrzymują brzmienie: „
+- **1)** zajmowanie stanowiska w indywidualnych sprawach pracowniczych w zakresie unormowanym w przepisach prawa pracy oraz w indywidualnych sprawach osób wykonujących pracę zarobkową w zakresie związanym z wykonywaniem tej pracy;
+- **2)** zajmowanie stanowiska wobec pracodawcy lub organu samorządu załogi w sprawach dotyczących zbiorowych interesów i praw osób wykonujących pracę zarobkową; ” ;
+- **16)** art. 261 otrzymuje brzmienie: „
 
-2. Informacje, o których mowa w ust. 1, dotychczasowy i nowy pracodawca w rozumieniu art. 3 ustawy dnia 26 czerwca 1974 r. – Kodeks pracy są obowiązani przekazać co najmniej na 30 dni przed przewidywanym terminem przejścia zakładu pracy lub jego części.
+**Art. 261.**
 
-3. Jeżeli dotychczasowy lub nowy pracodawca w rozumieniu art. 3 ustawy dnia 26 czerwca 1974 r. – Kodeks pracy zamierza podjąć działania dotyczące warunków zatrudnienia pracowników, jest obowiązany do podjęcia negocjacji zakładowymi organizacjami związkowymi w celu zawarcia porozumienia w tym zakresie, w terminie nie dłuższym niż 30 dni od dnia przekazania informacji o tych działaniach.
+1. W razie przejścia zakładu pracy lub jego części na nowego pracodawcę w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, dotychczasowy i nowy pracodawca w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy są obowiązani do poinformowania na piśmie działających u każdego z nich zakładowych organizacji związkowych o przewidywanym terminie tego przejścia, jego przyczynach, prawnych, ekonomicznych oraz socjalnych skutkach dla swoich pracowników, a także zamierzonych działaniach dotyczących warunków zatrudnienia tych pracowników, w szczególności warunków pracy, płacy i przekwalifikowania.
 
-4. Porozumienie, o którym mowa w ust. 3, zawierają wszystkie zakładowe organizacje związkowe, które prowadziły negocjacje nad tym porozumieniem. Jeżeli nie jest możliwe uzgodnienie treści porozumienia ze wszystkimi zakładowymi organizacjami związkowymi, pracodawca w rozumieniu art. 3 ustawy dnia 26 czerwca 1974 r. – Kodeks pracy uzgadnia treść porozumienia uczestniczącymi w negocjacjach reprezentatywnymi w rozumieniu art. 25 ust. 1 lub 2 zakładowymi organizacjami związkowymi, których każda zrzesza co najmniej 5% pracowników zatrudnionych u pracodawcy w rozumieniu art. 3 ustawy dnia 26 czerwca 1974 r. – Kodeks pracy.
+2. Informacje, o których mowa w ust. 1, dotychczasowy i nowy pracodawca w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy są obowiązani przekazać co najmniej na 30 dni przed przewidywanym terminem przejścia zakładu pracy lub jego części.
 
-5. W razie niezawarcia porozumienia w terminie, o którym mowa w ust. 3, powodu niemożności uzgodnienia jego treści przez pracodawcę w rozumieniu art. 3 ustawy dnia 26 czerwca 1974 r. – Kodeks pracy zakładowymi organizacjami związkowymi albo uczestniczącymi w negocjacjach reprezentatywnymi w rozumieniu art. 25 ust. 1 lub 2 zakładowymi organizacjami związkowymi zrzeszającymi pracowników, pracodawca w rozumieniu art. 3 ustawy dnia 26 czerwca 1974 r. – Kodeks pracy samodzielnie podejmuje działania w sprawach dotyczących warunków zatrudnienia pracowników, uwzględniając ustalenia dokonane zakładowymi organizacjami związkowymi w toku negocjacji nad zawarciem porozumienia.
+3. Jeżeli dotychczasowy lub nowy pracodawca w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy zamierza podjąć działania dotyczące warunków zatrudnienia pracowników, jest obowiązany do podjęcia negocjacji z zakładowymi organizacjami związkowymi w celu zawarcia porozumienia w tym zakresie, w terminie nie dłuższym niż 30 dni od dnia przekazania informacji o tych działaniach.
 
-6. Przepisy ust. 3–5 nie mają zastosowania, jeżeli tryb dokonania działań dotyczących warunków zatrudnienia pracowników, jakie zamierza podjąć pracodawca w rozumieniu art. 3 ustawy dnia 26 czerwca 1974 r. – Kodeks pracy, określają odrębne przepisy.”;
+4. Porozumienie, o którym mowa w ust. 3, zawierają wszystkie zakładowe organizacje związkowe, które prowadziły negocjacje nad tym porozumieniem. Jeżeli nie jest możliwe uzgodnienie treści porozumienia ze wszystkimi zakładowymi organizacjami związkowymi, pracodawca w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy uzgadnia treść porozumienia z uczestniczącymi w negocjacjach reprezentatywnymi w rozumieniu art. 253 ust. 1 lub 2 zakładowymi organizacjami związkowymi, z których każda zrzesza co najmniej 5% pracowników zatrudnionych u pracodawcy w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
-- **17)** w art. 27 ust. 2 i 3 otrzymują brzmienie: „2. Przyznawanie świadczeń funduszu, o którym mowa w ust. 1, jest dokonywane w uzgodnieniu zakładową organizacją związkową.
+5. W razie niezawarcia porozumienia w terminie, o którym mowa w ust. 3, z powodu niemożności uzgodnienia jego treści przez pracodawcę w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy z zakładowymi organizacjami związkowymi albo z uczestniczącymi w negocjacjach reprezentatywnymi w rozumieniu art. 253 ust. 1 lub 2 zakładowymi organizacjami związkowymi zrzeszającymi pracowników, pracodawca w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy samodzielnie podejmuje działania w sprawach dotyczących warunków zatrudnienia pracowników, uwzględniając ustalenia dokonane z zakładowymi organizacjami związkowymi w toku negocjacji nad zawarciem porozumienia.
 
-3. Regulaminy nagród i premiowania są ustalane i zmieniane w uzgodnieniu zakładową organizacją związkową; dotyczy to również zasad podziału środków na wynagrodzenia dla pracowników zatrudnionych w jednostkach sektora finansów publicznych.”;
+6. Przepisy ust. 3–5 nie mają zastosowania, jeżeli tryb dokonania działań dotyczących warunków zatrudnienia pracowników, jakie zamierza podjąć pracodawca w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, określają odrębne przepisy. ” ;
 
-- **18)** art. 28 otrzymuje brzmienie: „Art. 28. 1. Pracodawca jest obowiązany udzielić na wniosek zakładowej organizacji związkowej informacji niezbędnych do prowadzenia działalności związkowej, w szczególności informacji dotyczących:
+- **17)** w art. 27 ust. 2 i 3 otrzymują brzmienie: „
+
+2. Przyznawanie świadczeń z funduszu, o którym mowa w ust. 1, jest dokonywane w uzgodnieniu z zakładową organizacją związkową.
+
+3. Regulaminy nagród i premiowania są ustalane i zmieniane w uzgodnieniu z zakładową organizacją związkową; dotyczy to również zasad podziału środków na wynagrodzenia dla pracowników zatrudnionych w jednostkach sektora finansów publicznych. ” ;
+
+- **18)** art. 28 otrzymuje brzmienie: „
+
+**Art. 28.**
+
+1. Pracodawca jest obowiązany udzielić na wniosek zakładowej organizacji związkowej informacji niezbędnych do prowadzenia działalności związkowej, w szczególności informacji dotyczących:
+
 - **1)** warunków pracy i zasad wynagradzania;
-- **2)** działalności i sytuacji ekonomicznej pracodawcy związanych zatrudnieniem oraz przewidywanych w tym zakresie zmian;
+- **2)** działalności i sytuacji ekonomicznej pracodawcy związanych z zatrudnieniem oraz przewidywanych w tym zakresie zmian;
 - **3)** stanu, struktury i przewidywanych zmian zatrudnienia oraz działań mających na celu utrzymanie poziomu zatrudnienia;
 - **4)** działań, które mogą powodować istotne zmiany w organizacji pracy lub podstawach zatrudnienia.
 
-2. Pracodawca udziela zakładowej organizacji związkowej informacji, o których mowa w ust. 1, w terminie 30 dni od dnia otrzymania wniosku.”;
+2. Pracodawca udziela zakładowej organizacji związkowej informacji, o których mowa w ust. 1, w terminie 30 dni od dnia otrzymania wniosku. ” ;
 
-- **19)** w art. 29 ust. 1 otrzymuje brzmienie: „1. W razie uzasadnionego podejrzenia, że w zakładzie pracy lub w miejscu wyznaczonym przez pracodawcę do wykonywania pracy zarobkowej występuje zagrożenie dla życia lub zdrowia osób, o których mowa w art. 2 ust. 1 i 4 – 6, zakładowa organizacja związkowa może wystąpić do pracodawcy wnioskiem o przeprowadzenie odpowiednich badań, zawiadamiając o tym równocześnie właściwego okręgowego inspektora pracy. Pracodawca jest obowiązany w terminie 14 dni od dnia otrzymania wniosku zawiadomić zakładową organizację związkową o swoim stanowisku. W razie przeprowadzenia badań, pracodawca niezwłocznie, nie później niż w terminie 7 dni od dnia otrzymania wyników badań, udostępnia te wyniki każdej działającej u niego zakładowej organizacji związkowej wraz informacją o sposobie i terminie usunięcia stwierdzonego zagrożenia.”; „Art. 30. 1. Jeżeli u pracodawcy działa więcej niż jedna zakładowa organizacja związkowa, każda nich broni praw i reprezentuje interesy swoich członków.
+- **19)** w art. 29 ust. 1 otrzymuje brzmienie: „
+
+1. W razie uzasadnionego podejrzenia, że w zakładzie pracy lub w miejscu wyznaczonym przez pracodawcę do wykonywania pracy zarobkowej występuje zagrożenie dla życia lub zdrowia osób, o których mowa w art. 2 ust. 1 i 41 -6, zakładowa organizacja związkowa może wystąpić do pracodawcy z wnioskiem o przeprowadzenie odpowiednich badań, zawiadamiając o tym równocześnie właściwego okręgowego inspektora pracy. Pracodawca jest obowiązany w terminie 14 dni od dnia otrzymania wniosku zawiadomić zakładową organizację związkową o swoim stanowisku. W razie przeprowadzenia badań, pracodawca niezwłocznie, nie później niż w terminie 7 dni od dnia otrzymania wyników badań, udostępnia te wyniki każdej działającej u niego zakładowej organizacji związkowej wraz z informacją o sposobie i terminie usunięcia stwierdzonego zagrożenia. ” ;
+
+- **20)** art. 30 otrzymuje brzmienie: „
+
+**Art. 30.**
+
+1. Jeżeli u pracodawcy działa więcej niż jedna zakładowa organizacja związkowa, każda z nich broni praw i reprezentuje interesy swoich członków.
 
 2. Osoba wykonująca pracę zarobkową niezrzeszona w związku zawodowym ma prawo do obrony swoich praw na zasadach dotyczących osób wykonujących pracę zarobkową będących członkami związku, jeżeli wybrana przez nią zakładowa organizacja związkowa wyrazi zgodę na obronę jej praw.
 
-3. W indywidualnych sprawach ze stosunku pracy, w których przepisy prawa pracy zobowiązują pracodawcę w rozumieniu art. 3 ustawy dnia 26 czerwca 1974 r. – Kodeks pracy do współdziałania zakładową organizacją związkową, przed podjęciem działania, pracodawca w rozumieniu art. 3 ustawy dnia 26 czerwca 1974 r. – Kodeks pracy, jest obowiązany zwrócić się do tej organizacji o informację o pracowniku korzystającym jej obrony, zgodnie ust. 1 i 2. Nieudzielenie tej informacji w terminie 5 dni od dnia otrzymania przez zakładową organizację związkową wniosku zwalnia pracodawcę w rozumieniu art. 3 ustawy dnia 26 czerwca 1974 r. – Kodeks pracy obowiązku współdziałania zakładową organizacją związkową w sprawach dotyczących tego pracownika.
+3. W indywidualnych sprawach ze stosunku pracy, w których przepisy prawa pracy zobowiązują pracodawcę w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy do współdziałania z zakładową organizacją związkową, przed podjęciem działania, pracodawca w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, jest obowiązany zwrócić się do tej organizacji o informację o pracowniku korzystającym z jej obrony, zgodnie z ust. 1 i 2. Nieudzielenie tej informacji w terminie 5 dni od dnia otrzymania przez zakładową organizację związkową wniosku zwalnia pracodawcę w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy z obowiązku współdziałania z zakładową organizacją związkową w sprawach dotyczących tego pracownika.
 
 4. W sprawach dotyczących zbiorowych praw i interesów osób wykonujących pracę zarobkową zakładowe organizacje związkowe mogą tworzyć wspólną reprezentację związkową.
 
-5. W sprawach wymagających zawarcia porozumienia lub uzgodnienia stanowiska zakładowymi organizacjami związkowymi organizacje te przedstawiają wspólnie uzgodnione stanowisko. Sposób ustalania i przedstawiania tego stanowiska przez wyłonioną do tych spraw wspólną reprezentację związkową określa porozumienie zawarte przez organizacje związkowe.
+5. W sprawach wymagających zawarcia porozumienia lub uzgodnienia stanowiska z zakładowymi organizacjami związkowymi organizacje te przedstawiają wspólnie uzgodnione stanowisko. Sposób ustalania i przedstawiania tego stanowiska przez wyłonioną do tych spraw wspólną reprezentację związkową określa porozumienie zawarte przez organizacje związkowe.
 
 6. Jeżeli w sprawie ustalenia:
 
@@ -139,47 +274,63 @@ source: "isap-pdf"
 - **2)** regulaminów nagród i premiowania,
 - **3)** regulaminu zakładowego funduszu świadczeń socjalnych,
 - **4)** planu urlopów lub regulaminu pracy,
-- **5)** okresu rozliczeniowego, o którym mowa w art. 135 § 2 i 3 ustawy dnia 26 czerwca 1974 r. – Kodeks pracy,
-- **6)** wykazu prac, o którym mowa w art. 151 § 4 ustawy dnia 26 czerwca 1974 r. – Kodeks pracy,
-- **7)** indywidualnego rozkładu czasu pracy, o którym mowa w art. 8 ust. 2–4 ustawy dnia 16 kwietnia 2004 r. o czasie pracy kierowców (Dz. U. 2012 r. poz. 1155, 2013 r. poz. 567, 2016 r. poz. 2206 oraz 2018 r. poz. 1480) – organizacje związkowe albo reprezentatywne organizacje związkowe w rozumieniu art. 25 ust. 1 lub 2, których każda zrzesza co najmniej 5% pracowników zatrudnionych u pracodawcy, nie przedstawią wspólnie uzgodnionego stanowiska w terminie 30 dni od dnia przekazania im przez pracodawcę tego dokumentu, decyzje w sprawie jego ustalenia podejmuje pracodawca, po rozpatrzeniu odrębnych stanowisk organizacji związkowych.
+- **5)** okresu rozliczeniowego, o którym mowa w art. 135 § 2 i 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy,
+- **6)** wykazu prac, o którym mowa w art. 1517 § 4 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy,
+- **7)** indywidualnego rozkładu czasu pracy, o którym mowa w art. 8 ust. 2–4 ustawy z dnia 16 kwietnia 2004 r. o czasie pracy kierowców (Dz. U. z 2012 r. poz. 1155, z 2013 r. poz. 567, z 2016 r. poz. 2206 oraz z 2018 r. poz. 1480) organizacje związkowe albo reprezentatywne organizacje związkowe w rozumieniu art. 253 ust. 1 lub 2, z których każda zrzesza co najmniej 5% pracowników zatrudnionych u pracodawcy, nie przedstawią wspólnie uzgodnionego stanowiska w terminie 30 dni od dnia przekazania im przez pracodawcę tego dokumentu, decyzje w sprawie jego ustalenia podejmuje pracodawca, po rozpatrzeniu odrębnych stanowisk organizacji związkowych.
 
-7. Przepis ust. 6 stosuje się odpowiednio, jeżeli u pracodawcy działa jedna reprezentatywna zakładowa organizacja związkowa zrzeszająca co najmniej 5% pracowników zatrudnionych u pracodawcy.”;
+7. Przepis ust. 6 stosuje się odpowiednio, jeżeli u pracodawcy działa jedna reprezentatywna zakładowa organizacja związkowa zrzeszająca co najmniej 5% pracowników zatrudnionych u pracodawcy. ” ;
 
-- **21)** w art. 31:
-    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Prawo do zwolnienia obowiązku świadczenia pracy na okres kadencji w zarządzie zakładowej organizacji związkowej przysługuje:
+- **21)** w art. 31: ust. 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+1. Prawo do zwolnienia z obowiązku świadczenia pracy na okres kadencji w zarządzie zakładowej organizacji związkowej przysługuje:
 
 - **1)** częściowo jednej osobie wykonującej pracę zarobkową w miesięcznym wymiarze godzin równym liczbie członków zatrudnionych przez pracodawcę, jeżeli ich liczba jest mniejsza od 150;
 - **2)** jednej osobie wykonującej pracę zarobkową, jeżeli związek liczy od 150 do 500 członków zatrudnionych przez pracodawcę;
 - **3)** dwóm osobom wykonującym pracę zarobkową, jeżeli związek liczy od 501 do 1000 członków zatrudnionych przez pracodawcę;
 - **4)** trzem osobom wykonującym pracę zarobkową, jeżeli związek liczy od 1001 do 2000 członków zatrudnionych przez pracodawcę;
 - **5)** kolejnej osobie wykonującej pracę zarobkową za każdy rozpoczęty nowy tysiąc, jeżeli zakładowa organizacja związkowa liczy ponad 2000 członków zatrudnionych przez pracodawcę;
-- **6)** w niepełnym wymiarze godzin i wtedy może ono być udzielane większej liczbie osób wykonujących pracę zarobkową, zgodnie zasadami określonymi w pkt 1–5.
+- **6)** w niepełnym wymiarze godzin i wtedy może ono być udzielane większej liczbie osób wykonujących pracę zarobkową, zgodnie z zasadami określonymi w pkt 1–5.
+
+2. Osobie wykonującej pracę zarobkową w okresie zwolnienia od pracy, o którym mowa w ust. 1, przysługują:
+
 - **1)** uprawnienia lub świadczenia osoby wykonującej pracę zarobkową;
-- **2)** prawo do wynagrodzenia lub świadczenia pieniężnego, o ile zarząd zakładowej organizacji związkowej wystąpił takim wnioskiem.”,
-    - **b)** po ust. 2 dodaje się ust. 2 w brzmieniu: „2 . Rada Ministrów określi, w drodze rozporządzenia, tryb udzielenia i korzystania ze zwolnienia od pracy, o którym mowa w ust. 1, przysługującego osobie wykonującej pracę zarobkową, sposób ustalenia wysokości wynagrodzenia albo świadczenia pieniężnego przysługującego osobie w okresie zwolnienia od pracy oraz wynikających tego tytułu uprawnień i świadczeń, mając na względzie niwelowanie ujemnych następstw wykonywania czynności w zarządzie zakładowej organizacji związkowej oraz charakter stosunku łączącego osobę zwolnioną od pracy pracodawcą, a także zabezpieczenie potrzeb pracodawcy.”,
-    - **c)** dodaje się ust. 4 i 5 w brzmieniu: „4. Inna niż pracownik osoba wykonująca pracę zarobkową ma prawo do zwolnienia od pracy na czas niezbędny do wykonania doraźnej czynności wynikającej jej funkcji związkowej, jeżeli czynność ta nie może być wykonana w czasie wolnym od pracy. Osoba ta zachowuje prawo do wynagrodzenia, chyba że przepisy szczególne stanowią inaczej.
+- **2)** prawo do wynagrodzenia lub świadczenia pieniężnego, o ile zarząd zakładowej organizacji związkowej wystąpił z takim wnioskiem. ” , po ust. 2 dodaje się ust. 21 w brzmieniu: „
+    - **b)**
 
-5. Umowa zawarta między pracodawcą a inną niż pracownik osobą wykonującą pracę zarobkową, w której określono termin wykonania pracy, nie ulega przedłużeniu o czas zwolnienia od pracy, o którym mowa w ust. 4.”;
+21. Rada Ministrów określi, w drodze rozporządzenia, tryb udzielenia i korzystania ze zwolnienia od pracy, o którym mowa w ust. 1, przysługującego osobie wykonującej pracę zarobkową, sposób ustalenia wysokości wynagrodzenia albo świadczenia pieniężnego przysługującego osobie w okresie zwolnienia od pracy oraz wynikających z tego tytułu uprawnień i świadczeń, mając na względzie niwelowanie ujemnych następstw wykonywania czynności w zarządzie zakładowej organizacji związkowej oraz charakter stosunku łączącego osobę zwolnioną od pracy z pracodawcą, a także zabezpieczenie potrzeb pracodawcy. ” , dodaje się ust. 4 i 5 w brzmieniu: „
 
-- **22)** w art. 32:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Pracodawca bez zgody zarządu zakładowej organizacji związkowej nie może:
+- **c)**
 
-- **1)** wypowiedzieć ani rozwiązać stosunku prawnego ze wskazanym uchwałą zarządu jego członkiem lub inną osobą wykonującą pracę zarobkową będącą członkiem danej zakładowej organizacji związkowej, upoważnioną do reprezentowania tej organizacji wobec pracodawcy albo organu lub osoby dokonującej za pracodawcę czynności w sprawach zakresu prawa pracy,
-- **2)** zmienić jednostronnie warunków pracy lub wynagrodzenia na niekorzyść osoby wykonującej pracę zarobkową, o której mowa w pkt 1 – wyjątkiem przypadku ogłoszenia upadłości lub likwidacji pracodawcy, a także jeżeli dopuszczają to przepisy odrębne.”,
-    - **b)** po ust. 1 dodaje się ust. 1 –1 w brzmieniu: „1 . Termin na wyrażenie zgody lub odmowę wyrażenia zgody przez zarząd zakładowej organizacji związkowej wynosi:
+4. Inna niż pracownik osoba wykonująca pracę zarobkową ma prawo do zwolnienia od pracy na czas niezbędny do wykonania doraźnej czynności wynikającej z jej funkcji związkowej, jeżeli czynność ta nie może być wykonana w czasie wolnym od pracy. Osoba ta zachowuje prawo do wynagrodzenia, chyba że przepisy szczególne stanowią inaczej.
 
-- **1)** 14 dni roboczych liczonych od dnia złożenia przez pracodawcę pisemnego zawiadomienia o zamiarze wypowiedzenia lub jednostronnej zmiany stosunku prawnego, o których mowa w ust. 1 pkt 1 albo 2, podaniem przyczyny uzasadniającej wypowiedzenie lub jednostronną zmianę stosunku prawnego;
-- **2)** 7 dni roboczych liczonych od dnia złożenia przez pracodawcę pisemnego zawiadomienia o zamiarze rozwiązania stosunku prawnego, o którym mowa w ust. 1 pkt 1, podaniem przyczyny uzasadniającej rozwiązanie stosunku prawnego.
+5. Umowa zawarta między pracodawcą a inną niż pracownik osobą wykonującą pracę zarobkową, w której określono termin wykonania pracy, nie ulega przedłużeniu o czas zwolnienia od pracy, o którym mowa w ust. 4. ” ;
 
-1. Bezskuteczny upływ terminów, o których mowa w ust. 1 , jest równoznaczny wyrażeniem zgody przez zarząd zakładowej organizacji związkowej.
+- **22)** w art. 32: ust. 1 otrzymuje brzmienie: „
+    - **a)**
 
-1. W przypadku naruszenia przez pracodawcę warunków, o których mowa w ust. 1, innej niż pracownik osobie wykonującej pracę zarobkową przysługuje, niezależnie od wielkości poniesionej szkody, rekompensata w wysokości równej 6-miesięcznemu wynagrodzeniu przysługującemu tej osobie w ostatnim okresie zatrudnienia, a jeżeli wynagrodzenie tej osoby nie jest wypłacane w okresach miesięcznych – w wysokości równej 6-krotności przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej w roku poprzednim, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, na podstawie art. 5 ust. 7 ustawy dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz. U. 2018 r. poz. 1316). Osoba ta może dochodzić odszkodowania lub zadośćuczynienia przenoszącego wysokość rekompensaty.
+1. Pracodawca bez zgody zarządu zakładowej organizacji związkowej nie może:
 
-1. Przy ustalaniu wysokości wynagrodzenia, o którym mowa w ust. 1 , bierze się pod uwagę przeciętne miesięczne wynagrodzenie okresu 6 miesięcy poprzedzających dzień rozwiązania, wypowiedzenia lub jednostronnej zmiany stosunku prawnego, a jeżeli inna niż pracownik osoba wykonująca pracę zarobkową świadczyła
+- **1)** wypowiedzieć ani rozwiązać stosunku prawnego ze wskazanym uchwałą zarządu jego członkiem lub z inną osobą wykonującą pracę zarobkową będącą członkiem danej zakładowej organizacji związkowej, upoważnioną do reprezentowania tej organizacji wobec pracodawcy albo organu lub osoby dokonującej za pracodawcę czynności w sprawach z zakresu prawa pracy,
+- **2)** zmienić jednostronnie warunków pracy lub wynagrodzenia na niekorzyść osoby wykonującej pracę zarobkową, o której mowa w pkt 1 z wyjątkiem przypadku ogłoszenia upadłości lub likwidacji pracodawcy, a także jeżeli dopuszczają to przepisy odrębne. ” , po ust. 1 dodaje się ust. 11 -14 w brzmieniu: „
+    - **b)**
 
-- **c)** ust. 3–7 otrzymują brzmienie: „3. Zarząd zakładowej organizacji związkowej, reprezentatywnej w rozumieniu art. 25 ust. 1 lub 2, wskazuje pracodawcy osoby podlegające ochronie przewidzianej w ust. 1, w liczbie nie większej niż liczba osób stanowiących kadrę kierowniczą u pracodawcy albo w liczbie ustalonej zgodnie ust. 4.
+11. Termin na wyrażenie zgody lub odmowę wyrażenia zgody przez zarząd zakładowej organizacji związkowej wynosi:
 
-4. Zarząd zakładowej organizacji związkowej, reprezentatywnej w rozumieniu art. 25 ust. 1 lub 2, zrzeszającej do 20 członków zatrudnionych przez pracodawcę ma prawo wskazać pracodawcy 2 osoby wykonujące pracę zarobkową podlegające ochronie przewidzianej w ust. 1, a jeżeli organizacja zrzesza więcej niż 20 członków zatrudnionych przez pracodawcę ma prawo wskazać, jako podlegające tej ochronie, 2 osoby wykonujące pracę zarobkową oraz dodatkowo:
+- **1)** 14 dni roboczych liczonych od dnia złożenia przez pracodawcę pisemnego zawiadomienia o zamiarze wypowiedzenia lub jednostronnej zmiany stosunku prawnego, o których mowa w ust. 1 pkt 1 albo 2, z podaniem przyczyny uzasadniającej wypowiedzenie lub jednostronną zmianę stosunku prawnego;
+- **2)** 7 dni roboczych liczonych od dnia złożenia przez pracodawcę pisemnego zawiadomienia o zamiarze rozwiązania stosunku prawnego, o którym mowa w ust. 1 pkt 1, z podaniem przyczyny uzasadniającej rozwiązanie stosunku prawnego.
+
+12. Bezskuteczny upływ terminów, o których mowa w ust. 11 , jest równoznaczny z wyrażeniem zgody przez zarząd zakładowej organizacji związkowej.
+
+13. W przypadku naruszenia przez pracodawcę warunków, o których mowa w ust. 1, innej niż pracownik osobie wykonującej pracę zarobkową przysługuje, niezależnie od wielkości poniesionej szkody, rekompensata w wysokości równej 6-miesięcznemu wynagrodzeniu przysługującemu tej osobie w ostatnim okresie zatrudnienia, a jeżeli wynagrodzenie tej osoby nie jest wypłacane w okresach miesięcznych – w wysokości równej 6-krotności przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej w roku poprzednim, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, na podstawie art. 5 ust. 7 ustawy z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz. U. z 2018 r. poz. 1316). Osoba ta może dochodzić odszkodowania lub zadośćuczynienia przenoszącego wysokość rekompensaty.
+
+14. Przy ustalaniu wysokości wynagrodzenia, o którym mowa w ust. 13 , bierze się pod uwagę przeciętne miesięczne wynagrodzenie z okresu 6 miesięcy poprzedzających dzień rozwiązania, wypowiedzenia lub jednostronnej zmiany stosunku prawnego, a jeżeli inna niż pracownik osoba wykonująca pracę zarobkową świadczyła pracę przez okres krótszy niż 6 miesięcy – przeciętne miesięczne wynagrodzenie z całego okresu jej zatrudnienia. ” , ust. 3–7 otrzymują brzmienie: „
+
+- **c)**
+
+3. Zarząd zakładowej organizacji związkowej, reprezentatywnej w rozumieniu art. 253 ust. 1 lub 2, wskazuje pracodawcy osoby podlegające ochronie przewidzianej w ust. 1, w liczbie nie większej niż liczba osób stanowiących kadrę kierowniczą u pracodawcy albo w liczbie ustalonej zgodnie z ust. 4.
+
+4. Zarząd zakładowej organizacji związkowej, reprezentatywnej w rozumieniu art. 253 ust. 1 lub 2, zrzeszającej do 20 członków zatrudnionych przez pracodawcę ma prawo wskazać pracodawcy 2 osoby wykonujące pracę zarobkową podlegające ochronie przewidzianej w ust. 1, a jeżeli organizacja zrzesza więcej niż 20 członków zatrudnionych przez pracodawcę ma prawo wskazać, jako podlegające tej ochronie, 2 osoby wykonujące pracę zarobkową oraz dodatkowo:
 
 - **1)** po jednej osobie wykonującej pracę zarobkową na każde rozpoczęte 10 członków tej organizacji zatrudnionych przez pracodawcę, w przedziale od 21 do 50 tych członków;
 - **2)** po jednej osobie wykonującej pracę zarobkową na każde rozpoczęte 20 członków tej organizacji zatrudnionych przez pracodawcę, w przedziale od 51 do 150 tych członków;
@@ -187,109 +338,240 @@ source: "isap-pdf"
 - **4)** po jednej osobie wykonującej pracę zarobkową na każde rozpoczęte 40 członków tej organizacji zatrudnionych przez pracodawcę, w przedziale od 301 do 500 tych członków;
 - **5)** po jednej osobie wykonującej pracę zarobkową na każde rozpoczęte 50 członków tej organizacji zatrudnionych przez pracodawcę, w przedziale powyżej 500 tych członków.
 
-5. Osobami stanowiącymi kadrę kierowniczą, o których mowa w ust. 3, są kierujący jednoosobowo zakładem pracy i ich zastępcy albo osoby wchodzące w skład kolegialnego organu zarządzającego zakładem pracy, a także inne osoby wyznaczone do dokonywania za pracodawcę czynności w sprawach zakresu prawa pracy.
+5. Osobami stanowiącymi kadrę kierowniczą, o których mowa w ust. 3, są kierujący jednoosobowo zakładem pracy i ich zastępcy albo osoby wchodzące w skład kolegialnego organu zarządzającego zakładem pracy, a także inne osoby wyznaczone do dokonywania za pracodawcę czynności w sprawach z zakresu prawa pracy.
 
 6. Ochrona przewidziana w ust. 1, w zakładowej organizacji związkowej innej niż wymieniona w ust. 3 i 4, przysługuje jednej osobie wykonującej pracę zarobkową wskazanej uchwałą zarządu tej organizacji.
 
-7. Ochrona przewidziana w ust. 1 przysługuje, przez okres 6 miesięcy od dnia utworzenia komitetu założycielskiego zakładowej organizacji związkowej, nie więcej niż trzem osobom wykonującym pracę zarobkową wskazanym uchwałą komitetu założycielskiego.”,
+7. Ochrona przewidziana w ust. 1 przysługuje, przez okres 6 miesięcy od dnia utworzenia komitetu założycielskiego zakładowej organizacji związkowej, nie więcej niż trzem osobom wykonującym pracę zarobkową wskazanym uchwałą komitetu założycielskiego. ” , ust. 9 otrzymuje brzmienie: „
 
-- **d)** ust. 9 otrzymuje brzmienie: „9. Ochrona przewidziana w ust. 1 przysługuje osobie wykonującej pracę zarobkową pełniącej wyboru funkcję związkową poza zakładową organizacją związkową, korzystającej u pracodawcy urlopu bezpłatnego lub ze zwolnienia obowiązku świadczenia pracy. Ochrona przysługuje w okresie tego urlopu lub zwolnienia oraz przez rok po upływie tego okresu. Zgodę, o której mowa w ust. 1, wyraża właściwy statutowo organ organizacji związkowej, w której dana osoba pełni albo pełniła tę funkcję.”,
-- **e)** po ust. 9 dodaje się ust. 9 i 9 w brzmieniu: „9 . Pracodawca powiadamia na piśmie zarząd zakładowej organizacji związkowej o liczbie osób stanowiących kadrę kierowniczą, o których mowa w ust. 5. Powiadomienie następuje w terminie 7 dni od dnia otrzymania pisemnego wniosku zarządu zakładowej organizacji związkowej.
+- **d)**
 
-9. Zarząd zakładowej organizacji związkowej lub komitet założycielski zakładowej organizacji związkowej wskazują pracodawcy na piśmie osoby, których stosunek prawny podlega ochronie, o której mowa w ust. 1, poprzez podanie imienia i nazwiska tych osób, a także czasu trwania ochrony. Zmiany we wskazaniu są dokonywane przez zarząd lub komitet założycielski zakładowej organizacji związkowej na piśmie w terminie 7 dni od dnia zaistnienia zmiany.”,
+9. Ochrona przewidziana w ust. 1 przysługuje osobie wykonującej pracę zarobkową pełniącej z wyboru funkcję związkową poza zakładową organizacją związkową, korzystającej u pracodawcy z urlopu bezpłatnego lub ze zwolnienia z obowiązku świadczenia pracy. Ochrona przysługuje w okresie tego urlopu lub zwolnienia oraz przez rok po upływie tego okresu. Zgodę, o której mowa w ust. 1, wyraża właściwy statutowo organ organizacji związkowej, w której dana osoba pełni albo pełniła tę funkcję. ” , po ust. 9 dodaje się ust. 91 i 92 w brzmieniu: „
 
-- **f)** uchyla się ust. 10;
-- **23)** w art. 33 ust. 1 otrzymuje brzmienie: „1. Pracodawca, na warunkach określonych w układzie zbiorowym pracy lub umowie, jest obowiązany udostępnić zakładowej organizacji związkowej pomieszczenia i urządzenia techniczne niezbędne do wykonywania działalności związkowej u pracodawcy.”;
-- **24)** art. 33 otrzymuje brzmienie: „Art. 33 . 1. Pracodawca, na pisemny wniosek zakładowej organizacji związkowej i za pisemną zgodą osoby wykonującej pracę zarobkową, jest obowiązany pobierać wynagrodzenia tej osoby składkę związkową w zadeklarowanej przez nią wysokości. związkową.”;
-- **25)** art. 34 i art. 34 otrzymują brzmienie: „Art. 34 . 1. Pracodawcy objęci działaniem międzyzakładowej organizacji związkowej ponoszą koszty, w tym koszty wynagrodzeń i składek na ubezpieczenia społeczne, związane zatrudnianiem osoby wykonującej pracę zarobkową zwolnionej:
-- **1)** obowiązku świadczenia pracy na okres kadencji w zarządzie międzyzakładowej organizacji związkowej – na podstawie art. 31 ust. 1 w związku art. 34 ust. 2,
-- **2)** od pracy zawodowej zachowaniem prawa do wynagrodzenia – na podstawie art. 31 ust. 3 lub od pracy zachowaniem prawa do wynagrodzenia – na podstawie art. 31 ust. 4 – odpowiednio do udziału liczby członków tej organizacji zatrudnionych u danego pracodawcy w łącznej liczbie członków tej organizacji zatrudnionych u wszystkich pracodawców objętych działaniem tej organizacji – w przeliczeniu na pełny wymiar czasu pracy.
+- **e)**
 
-2. Zarząd międzyzakładowej organizacji związkowej przedstawia pracodawcy, który zwolni osobę lub osoby wykonujące pracę zarobkową obowiązku świadczenia pracy, od pracy zawodowej zachowaniem prawa do wynagrodzenia lub od pracy zachowaniem prawa do wynagrodzenia, informacje o liczbie członków tej organizacji zatrudnionych u wszystkich pracodawców objętych działaniem tej organizacji oraz u każdego tych pracodawców – w przeliczeniu na pełny wymiar czasu pracy, według stanu na ostatni dzień miesiąca.
+91. Pracodawca powiadamia na piśmie zarząd zakładowej organizacji związkowej o liczbie osób stanowiących kadrę kierowniczą, o których mowa w ust. 5. Powiadomienie następuje w terminie 7 dni od dnia otrzymania pisemnego wniosku zarządu zakładowej organizacji związkowej.
 
-3. Zarząd międzyzakładowej organizacji związkowej przedstawia informacje, o których mowa w ust. 2, w terminie do 10. dnia miesiąca następującego po miesiącu, w którym nastąpiło zwolnienie osoby lub osób wykonujących pracę zarobkową obowiązku świadczenia pracy, od pracy zawodowej zachowaniem prawa do wynagrodzenia lub od pracy zachowaniem prawa do wynagrodzenia.
+92. Zarząd zakładowej organizacji związkowej lub komitet założycielski zakładowej organizacji związkowej wskazują pracodawcy na piśmie osoby, których stosunek prawny podlega ochronie, o której mowa w ust. 1, poprzez podanie imienia i nazwiska tych osób, a także czasu trwania ochrony. Zmiany we wskazaniu są dokonywane przez zarząd lub komitet założycielski zakładowej organizacji związkowej na piśmie w terminie 7 dni od dnia zaistnienia zmiany. ” , uchyla się ust. 10;
+
+- **f)**
+- **23)** w art. 33 ust. 1 otrzymuje brzmienie: „
+
+1. Pracodawca, na warunkach określonych w układzie zbiorowym pracy lub umowie, jest obowiązany udostępnić zakładowej organizacji związkowej pomieszczenia i urządzenia techniczne niezbędne do wykonywania działalności związkowej u pracodawcy. ” ;
+
+- **24)** art. 331 otrzymuje brzmienie: „
+
+**Art. 331.**
+
+1. Pracodawca, na pisemny wniosek zakładowej organizacji związkowej i za pisemną zgodą osoby wykonującej pracę zarobkową, jest obowiązany pobierać z wynagrodzenia tej osoby składkę związkową w zadeklarowanej przez nią wysokości.
+
+2. Pracodawca jest obowiązany niezwłocznie przekazywać kwoty pobranych składek związkowych na rachunek bankowy lub rachunek w spółdzielczej kasie oszczędnościowo-kredytowej wskazany przez zakładową organizację związkową. ” ;
+
+- **25)** art. 341 i art. 342 otrzymują brzmienie: „
+
+**Art. 341.**
+
+1. Pracodawcy objęci działaniem międzyzakładowej organizacji związkowej ponoszą koszty, w tym koszty wynagrodzeń i składek na ubezpieczenia społeczne, związane z zatrudnianiem osoby wykonującej pracę zarobkową zwolnionej:
+
+- **1)** z obowiązku świadczenia pracy na okres kadencji w zarządzie międzyzakładowej organizacji związkowej – na podstawie art. 31 ust. 1 w związku z art. 34 ust. 2,
+- **2)** od pracy zawodowej z zachowaniem prawa do wynagrodzenia – na podstawie art. 31 ust. 3 lub od pracy z zachowaniem prawa do wynagrodzenia – na podstawie art. 31 ust. 4 odpowiednio do udziału liczby członków tej organizacji zatrudnionych u danego pracodawcy w łącznej liczbie członków tej organizacji zatrudnionych u wszystkich pracodawców objętych działaniem tej organizacji – w przeliczeniu na pełny wymiar czasu pracy.
+
+2. Zarząd międzyzakładowej organizacji związkowej przedstawia pracodawcy, który zwolni osobę lub osoby wykonujące pracę zarobkową z obowiązku świadczenia pracy, od pracy zawodowej z zachowaniem prawa do wynagrodzenia lub od pracy z zachowaniem prawa do wynagrodzenia, informacje o liczbie członków tej organizacji zatrudnionych u wszystkich pracodawców objętych działaniem tej organizacji oraz u każdego z tych pracodawców – w przeliczeniu na pełny wymiar czasu pracy, według stanu na ostatni dzień miesiąca.
+
+3. Zarząd międzyzakładowej organizacji związkowej przedstawia informacje, o których mowa w ust. 2, w terminie do 10. dnia miesiąca następującego po miesiącu, w którym nastąpiło zwolnienie osoby lub osób wykonujących pracę zarobkową z obowiązku świadczenia pracy, od pracy zawodowej z zachowaniem prawa do wynagrodzenia lub od pracy z zachowaniem prawa do wynagrodzenia.
 
 4. Na potrzeby przeliczenia, o którym mowa w ust. 1 i 2, w przypadku innych niż pracownicy osób wykonujących pracę zarobkową będących członkami międzyzakładowej organizacji związkowej przyjmuje się, że osoby te są zatrudnione w pełnym wymiarze czasu pracy.
 
-5. Sposób i tryb ponoszenia kosztów, o których mowa w ust. 1, określa każdy pracodawca, który zwolni osobę lub osoby wykonujące pracę zarobkową obowiązku świadczenia pracy lub od pracy zawodowej zachowaniem prawa do wynagrodzenia, w zakresie dotyczącym kosztów związanych zatrudnianiem tej osoby lub tych osób wykonujących pracę zarobkową.
+5. Sposób i tryb ponoszenia kosztów, o których mowa w ust. 1, określa każdy pracodawca, który zwolni osobę lub osoby wykonujące pracę zarobkową z obowiązku świadczenia pracy lub od pracy zawodowej z zachowaniem prawa do wynagrodzenia, w zakresie dotyczącym kosztów związanych z zatrudnianiem tej osoby lub tych osób wykonujących pracę zarobkową.
 
-**Art. 34².**
+**Art. 342.**
 
-1. Zarząd międzyzakładowej organizacji związkowej, która co najmniej u jednego pracodawcy objętego jej działaniem zrzesza osoby wykonujące pracę zarobkową w liczbie wymaganej do uzyskania statusu organizacji reprezentatywnej w rozumieniu art. 25 ust. 1 lub 2, może wskazać osoby wykonujące pracę zarobkową podlegające ochronie przewidzianej w art. 32 ust. 1:
+1. Zarząd międzyzakładowej organizacji związkowej, która co najmniej u jednego pracodawcy objętego jej działaniem zrzesza osoby wykonujące pracę zarobkową w liczbie wymaganej do uzyskania statusu organizacji reprezentatywnej w rozumieniu art. 253 ust. 1 lub 2, może wskazać osoby wykonujące pracę zarobkową podlegające ochronie przewidzianej w art. 32 ust. 1:
 
-- **1)** w liczbie ustalonej zgodnie art. 32 ust. 3 albo 4 lub
-- **2)** w liczbie ustalonej zgodnie art. 32 ust. 3 albo 4 u jednego pracodawcy wskazanego przez tę organizację spośród pracodawców objętych jej działaniem, u którego ta organizacja zrzesza osoby wykonujące pracę zarobkową w liczbie wymaganej do uzyskania statusu organizacji reprezentatywnej w rozumieniu art. 25 ust. 1 lub 2, powiększonej o liczbę pozostałych pracodawców objętych działaniem tej organizacji, u których jest zatrudnionych co najmniej 10 osób wykonujących pracę zarobkową będących jej członkami.
+- **1)** w liczbie ustalonej zgodnie z art. 32 ust. 3 albo 4 lub
+- **2)** w liczbie ustalonej zgodnie z art. 32 ust. 3 albo 4 u jednego pracodawcy wskazanego przez tę organizację spośród pracodawców objętych jej działaniem, u którego ta organizacja zrzesza osoby wykonujące pracę zarobkową w liczbie wymaganej do uzyskania statusu organizacji reprezentatywnej w rozumieniu art. 253 ust. 1 lub 2, powiększonej o liczbę pozostałych pracodawców objętych działaniem tej organizacji, u których jest zatrudnionych co najmniej 10 osób wykonujących pracę zarobkową będących jej członkami.
 
-2. Jeżeli międzyzakładowa organizacja związkowa u żadnego pracodawcy objętego jej działaniem nie zrzesza liczby osób wykonujących pracę zarobkową wymaganej do uzyskania statusu organizacji reprezentatywnej w rozumieniu art. 25 ust. 1 lub 2, liczba osób wykonujących pracę zarobkową podlegających ochronie przewidzianej w art. 32 ust. 1 nie może być większa od liczby pracodawców objętych działaniem tej organizacji, którzy zatrudniają co najmniej 10 osób wykonujących pracę zarobkową będących jej członkami.”;
+2. Jeżeli międzyzakładowa organizacja związkowa u żadnego pracodawcy objętego jej działaniem nie zrzesza liczby osób wykonujących pracę zarobkową wymaganej do uzyskania statusu organizacji reprezentatywnej w rozumieniu art. 253 ust. 1 lub 2, liczba osób wykonujących pracę zarobkową podlegających ochronie przewidzianej w art. 32 ust. 1 nie może być większa od liczby pracodawców objętych działaniem tej organizacji, którzy zatrudniają co najmniej 10 osób wykonujących pracę zarobkową będących jej członkami. ” ;
 
-- **26)** w art. 35:
-    - **a)** w ust. 1: – pkt 3 i 4 otrzymują brzmienie: „3) dyskryminuje, wbrew zakazowi, o którym mowa w art. 3 ust. 1, powodu przynależności do związku zawodowego, pozostawania poza związkiem zawodowym lub wykonywania funkcji związkowej,
+- **26)** w art. 35: w ust. 1: – pkt 3 i 4 otrzymują brzmienie: „ 3) dyskryminuje, wbrew zakazowi, o którym mowa w art. 3 ust. 1, z powodu przynależności do związku zawodowego, pozostawania poza związkiem zawodowym lub wykonywania funkcji związkowej, 4) nie dopełnia w terminie obowiązku informacyjnego, o którym mowa w art. 261 ust. 1, ” , – dodaje się pkt 5–7 w brzmieniu: „ 5) nie dopełnia w terminie obowiązku podjęcia negocjacji z zakładowymi organizacjami związkowymi, o którym mowa w art. 261 ust. 3, 6) nie dopełnia obowiązku pobrania z wynagrodzenia danej osoby składki związkowej w zadeklarowanej przez tę osobę wysokości lub obowiązku niezwłocznego przekazania kwoty pobranych składek związkowych, o których mowa w art. 331 , na rachunek bankowy lub rachunek w spółdzielczej kasie oszczędnościowo-kredytowej wskazany przez zakładową organizację związkową, 7) nie dopełnia obowiązku ponoszenia kosztów, o którym mowa w art. 341 ust. 1, w odpowiedniej proporcji wskazanej w art. 341 ust. 1 z uwzględnieniem art. 341 ust. 4 ” , dodaje się ust. 21 w brzmieniu: „
+    - **a)**
+    - **b)**
 
-- **4)** nie dopełnia w terminie obowiązku informacyjnego, o którym mowa w art. 26 ust. 1,”, – dodaje się pkt 5–7 w brzmieniu: „5) nie dopełnia w terminie obowiązku podjęcia negocjacji zakładowymi organizacjami związkowymi, o którym mowa w art. 26 ust. 3, kowych, o których mowa w art. 33 , na rachunek bankowy lub rachunek w spółdzielczej kasie oszczędnościowo-kredytowej wskazany przez zakładową organizację związkową,
-- **7)** nie dopełnia obowiązku ponoszenia kosztów, o którym mowa w art. 34 ust. 1, w odpowiedniej proporcji wskazanej w art. 34 ust. 1 uwzględnieniem art. 34 ust. 4”,
-    - **b)** dodaje się ust. 2 w brzmieniu: „2 . Kto w związku pełnioną funkcją związkową:
+21. Kto w związku z pełnioną funkcją związkową:
 
 - **1)** wbrew obowiązkowi nie zawiadamia w terminie właściwego sądu o zmianie statutu, o której mowa w art. 16,
-- **2)** niezgodnie przepisem art. 24 ust. 1, przeznacza dochód działalności gospodarczej prowadzonej przez związek zawodowy na cele niesłużące realizacji zadań statutowych związku lub dzieli go pomiędzy członków związku,
-- **3)** w celu uzyskania uprawnień zakładowej organizacji związkowej, reprezentatywnej zakładowej organizacji związkowej, międzyzakładowej organizacji związkowej lub reprezentatywnej ponadzakładowej organizacji związkowej w informacji, o której mowa w art. 25 ust. 2 lub 3 lub w art. 34 ust. 2 lub we wniosku, o którym mowa w art. 25 ust. 2, podaje lub na podstawie art. 34 ust. 1 wskazuje liczbę członków organizacji związkowej wyższą niż wynikająca ze stanu faktycznego – podlega grzywnie.”;
-- **27)** w art. 36:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Sąd rejestrowy w razie stwierdzenia, że organ związku zawodowego prowadzi działalność niezgodną prawem, wyznacza termin co najmniej 14 dni na dostosowanie działalności tego organu do obowiązującego prawa. Postępowanie wszczyna się na wniosek właściwego prokuratora okręgowego.”,
-    - **b)** uchyla się ust. 4;
+- **2)** niezgodnie z przepisem art. 24 ust. 1, przeznacza dochód z działalności gospodarczej prowadzonej przez związek zawodowy na cele niesłużące realizacji zadań statutowych związku lub dzieli go pomiędzy członków związku,
+- **3)** w celu uzyskania uprawnień zakładowej organizacji związkowej, reprezentatywnej zakładowej organizacji związkowej, międzyzakładowej organizacji związkowej lub reprezentatywnej ponadzakładowej organizacji związkowej w informacji, o której mowa w art. 251 ust. 2 lub 3 lub w art. 341 ust. 2 lub we wniosku, o którym mowa w art. 252 ust. 2, podaje lub na podstawie art. 342 ust. 1 wskazuje liczbę członków organizacji związkowej wyższą niż wynikająca ze stanu faktycznego podlega grzywnie. ” ;
+- **27)** w art. 36: ust. 1 otrzymuje brzmienie: „
+    - **a)**
 
-- **28)** art. 37 otrzymuje brzmienie: „Art. 37. Spory między związkami zawodowymi a pracodawcami i ich organizacjami dotyczące interesów osób wykonujących pracę zarobkową rozwiązywane są na zasadach określonych w ustawie dnia 23 maja 1991 r. o rozwiązywaniu sporów zbiorowych (Dz. U. 2018 r. poz. 399 i 730).”;
-- **29)** w art. 39 ust. 1 otrzymuje brzmienie: „1. U pracodawców mogą być tworzone kasy zapomogowo-pożyczkowe, których członkami mogą być osoby wykonujące pracę zarobkową, emeryci i renciści bez względu na przynależność związkową. Nadzór społeczny nad tymi kasami sprawują związki zawodowe.”.
+1. Sąd rejestrowy w razie stwierdzenia, że organ związku zawodowego prowadzi działalność niezgodną z prawem, wyznacza termin co najmniej 14 dni na dostosowanie działalności tego organu do obowiązującego prawa. Postępowanie wszczyna się na wniosek właściwego prokuratora okręgowego. ” , uchyla się ust. 4;
 
-**Art. 2.** W ustawie dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. 2018 r. poz. 917, 1000 i 1076) wprowadza się następujące zmiany:
+- **b)**
+- **28)** art. 37 otrzymuje brzmienie: „
 
-**Art. 4.** W ustawie dnia 23 maja 1991 r. o rozwiązywaniu sporów zbiorowych (Dz. U. 2018 r. poz. 399 i 730) art. 5 i art. 6 otrzymują brzmienie: „Art. 5. Pracodawcą w rozumieniu ustawy jest podmiot, o którym mowa w art. 1 pkt 2 ustawy dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. 2015 r. poz. 1881 oraz 2018 r. poz. 1608).
+**Art. 37.** Spory między związkami zawodowymi a pracodawcami i ich organizacjami dotyczące interesów osób wykonujących pracę zarobkową rozwiązywane są na zasadach określonych w ustawie z dnia 23 maja 1991 r. o rozwiązywaniu sporów zbiorowych (Dz. U. z 2018 r. poz. 399 i 730). ” ;
 
-**Art. 6.** Przepisy ustawy, w których jest mowa o pracownikach, mają odpowiednie zastosowanie do innych niż pracownicy osób wykonujących pracę zarobkową, o których mowa w art. 1 pkt 1 ustawy dnia 23 maja 1991 r. o związkach zawodowych, oraz osób, o których mowa w art. 2 ust. 5 i 6 ustawy dnia 23 maja 1991 r. o związkach zawodowych.”. „3) dwóch przedstawicieli zakładowych organizacji związkowych reprezentatywnych w rozumieniu art. 25 ust. 1 lub 2 ustawy dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. 2015 r. poz. 1881 oraz 2018 r. poz. 1608), działających w tej instytucji kultury;”.
+- **29)** w art. 39 ust. 1 otrzymuje brzmienie: „
 
-**Art. 6.** W ustawie dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz. U. 2018 r. poz. 1316) w art. 8 ust. 2 otrzymuje brzmienie: „2. Zasady i warunki korzystania usług i świadczeń finansowanych Funduszu, uwzględnieniem ust. 1, oraz zasady przeznaczania środków Funduszu na poszczególne cele i rodzaje działalności socjalnej określa pracodawca w regulaminie ustalanym zgodnie art. 27 ust. 1 albo art. 30 ust. 6 ustawy dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. 2015 r. poz. 1881 oraz 2018 r. poz. 1608). Pracodawca, u którego nie działa zakładowa organizacja związkowa, uzgadnia regulamin pracownikiem wybranym przez załogę do reprezentowania jej interesów.”.
+1. U pracodawców mogą być tworzone kasy zapomogowo-pożyczkowe, których członkami mogą być osoby wykonujące pracę zarobkową, emeryci i renciści bez względu na przynależność związkową. Nadzór społeczny nad tymi kasami sprawują związki zawodowe. ” .
 
-**Art. 7.** W ustawie dnia 5 kwietnia 2002 r. o europejskich radach zakładowych (Dz. U. 2018 r. poz. 1247) w art. 8 ust. 2 otrzymuje brzmienie: „2. Zakładowa organizacja związkowa jest reprezentatywna, jeżeli spełnia warunki określone w art. 25 ust. 1 ustawy dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. 2015 r. poz. 1881 oraz 2018 r. poz. 1608). Przepisy art. 25 ust. 3, 4, 6 i 7 ustawy dnia 23 maja 1991 r. o związkach zawodowych stosuje się odpowiednio.”.
+**Art. 2.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, 1000 i 1076) wprowadza się następujące zmiany:
 
-**Art. 8.** W ustawie dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania pracownikami stosunków pracy przyczyn niedotyczących pracowników (Dz. U. 2016 r. poz. 1474 oraz 2017 r. poz. 2181) w art. 3 ust. 3 otrzymuje brzmienie: „3. Jeżeli nie jest możliwe uzgodnienie treści porozumienia ze wszystkimi zakładowymi organizacjami związkowymi, pracodawca uzgadnia treść porozumienia organizacjami związkowymi reprezentatywnymi w rozumieniu art. 25 ust. 1 lub 2 ustawy dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. 2015 r. poz. 1881 oraz 2018 r. poz. 1608), których każda zrzesza co najmniej 5% pracowników zatrudnionych u pracodawcy.”.
+- **1)** w art. 676 § 2 otrzymuje brzmienie: „
 
-**Art. 9.** W ustawie dnia 9 lipca 2003 r. o zatrudnianiu pracowników tymczasowych (Dz. U. 2018 r. poz. 594) w art. 23 ust. 1 otrzymuje brzmienie: „1. Pracodawca użytkownik jest obowiązany informować organizację związkową reprezentatywną w rozumieniu art. 25 ust. 1 lub 2 ustawy dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. 2015 r. poz. 1881 oraz 2018 r. poz. 1608) o zamiarze powierzenia wykonywania pracy tymczasowej pracownikowi agencji pracy tymczasowej. Jednakże pracodawca użytkownik, który zamierza powierzyć pracownikowi agencji pracy tymczasowej wykonywanie pracy przez okres dłuższy niż 6 miesięcy, jest obowiązany podjąć działania zmierzające do uzgodnienia tego zamierzenia reprezentatywnymi organizacjami związkowymi.”.
+§ 2. Jeżeli nie jest możliwe uzgodnienie treści porozumienia ze wszystkimi zakładowymi organizacjami związkowymi, pracodawca uzgadnia treść porozumienia z organizacjami związkowymi reprezentatywnymi w rozumieniu art. 253 ust. 1 lub 2 ustawy o związkach zawodowych, z których każda zrzesza co najmniej 5% pracowników zatrudnionych u pracodawcy. ” ;
 
-**Art. 10.** W ustawie dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych (Dz. U. 2016 r. poz. 1449 oraz 2018 r. poz. 1091) w art. 11 ust. 8 otrzymuje brzmienie: „8. Jeżeli w okresie 2 miesięcy od dnia przedstawienia przez pracodawcę reprezentacji pracowników oferty utworzenia programu, o której mowa w ust. 7, nie dojdzie do zawarcia umowy zakładowej powodu niemożności uzgodnienia przez strony jej treści, pracodawca może zawrzeć umowę zakładową organizacjami związkowymi reprezentatywnymi w rozumieniu art. 25 ust. 1 lub 2 ustawy dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. 2015 r. poz. 1881 oraz 2018 r. poz. 1608), których każda zrzesza co najmniej 5% pracowników zatrudnionych u pracodawcy. Przepis ust. 7 stosuje się odpowiednio.”.
+- **2)** w art. 139 § 5 otrzymuje brzmienie: „
 
-**Art. 11.** W ustawie dnia 4 marca 2005 r. o europejskim zgrupowaniu interesów gospodarczych i spółce europejskiej (Dz. U. 2015 r. poz. 2142 oraz 2018 r. poz. 398) w art. 65 ust. 1 otrzymuje brzmienie: „1. W przypadku gdy pracownicy spółki uczestniczącej, zainteresowanej spółki zależnej albo zakładu, mających wejść w skład SE, są zatrudnieni w Rzeczypospolitej Polskiej u jednego pracodawcy, członków specjalnego zespołu negocjacyjnego wyznacza reprezentatywna zakładowa organizacja związkowa w rozumieniu art. 25 ust. 1 ustawy dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. 2015 r. poz. 1881 oraz 2018 r. poz. 1608). Przepisy art. 25 ust. 3, 4, 6 i 7 ustawy dnia 23 maja 1991 r. o związkach zawodowych stosuje się odpowiednio. W przypadku braku takiej organizacji, członków specjalnego zespołu negocjacyjnego wybiera zebranie załogi.”.
+§ 5. Jeżeli nie jest możliwe uzgodnienie treści porozumienia, o którym mowa w § 3, ze wszystkimi zakładowymi organizacjami związkowymi, pracodawca uzgadnia treść porozumienia z organizacjami związkowymi reprezentatywnymi w rozumieniu art. 253 ust. 1 lub 2 ustawy o związkach zawodowych, z których każda zrzesza co najmniej 5% pracowników zatrudnionych u pracodawcy. ” ;
 
-**Art. 12.** W ustawie dnia 22 lipca 2006 r. o spółdzielni europejskiej (Dz. U. 2016 r. poz. 7 oraz 2018 r. poz. 398) w art. 41 ust. 1 otrzymuje brzmienie: „1. W przypadku gdy pracownicy podmiotu uczestniczącego, zainteresowanej spółki zależnej albo zakładu, mających wejść w skład SCE, są zatrudnieni w Rzeczypospolitej Polskiej u jednego pracodawcy, członków specjalnego zespołu negocjacyjnego wyznacza reprezentatywna zakładowa organizacja związkowa w rozumieniu art. 25 ust. 1 padku braku takiej organizacji, członków specjalnego zespołu negocjacyjnego wybiera zebranie załogi.”.
+- **3)** w art. 150 w § 3 pkt 1 otrzymuje brzmienie: „
+- **1)** w układzie zbiorowym pracy lub w porozumieniu z zakładowymi organizacjami związkowymi; jeżeli nie jest możliwe uzgodnienie treści porozumienia ze wszystkimi zakładowymi organizacjami związkowymi, pracodawca uzgadnia treść porozumienia z organizacjami związkowymi reprezentatywnymi w rozumieniu art. 253 ust. 1 lub 2 ustawy o związkach zawodowych, z których każda zrzesza co najmniej 5% pracowników zatrudnionych u pracodawcy, albo ” ;
+- **4)** w art. 239 § 2 otrzymuje brzmienie: „
 
-**Art. 13.** W ustawie dnia 25 kwietnia 2008 r. o uczestnictwie pracowników w spółce powstałej w wyniku transgranicznego połączenia się spółek (Dz. U. poz. 525) w art. 10 ust. 1 otrzymuje brzmienie: „1. W przypadku gdy pracownicy spółki uczestniczącej, zainteresowanej spółki zależnej albo zakładu, mających wejść w skład spółki powstałej w wyniku połączenia transgranicznego spółek, są zatrudnieni w Rzeczypospolitej Polskiej u jednego pracodawcy, członków specjalnego zespołu negocjacyjnego wyznacza reprezentatywna zakładowa organizacja związkowa w rozumieniu art. 25 ust. 1 ustawy dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. 2015 r. poz. 1881 oraz 2018 r. poz. 1608). Przepisy art. 25 ust. 3, 4, 6 i 7 ustawy dnia 23 maja 1991 r. o związkach zawodowych stosuje się odpowiednio. W przypadku braku takiej organizacji, członków specjalnego zespołu negocjacyjnego wybiera zebranie załogi.”.
+§ 2. Układem mogą być objęci emeryci i renciści. ” ;
 
-**Art. 14.** W ustawie dnia 11 października 2013 r. o szczególnych rozwiązaniach związanych ochroną miejsc pracy (Dz. U. 2017 r. poz. 842 oraz 2018 r. poz. 650) w art. 4 ust. 1 otrzymuje brzmienie: „1. Warunki i tryb wykonywania pracy w okresie przestoju ekonomicznego lub obniżonego wymiaru czasu pracy przedsiębiorca ustala w układzie zbiorowym pracy lub w porozumieniu zakładowymi organizacjami związkowymi; jeżeli nie jest możliwe uzgodnienie treści porozumienia ze wszystkimi zakładowymi organizacjami związkowymi, przedsiębiorca uzgadnia treść porozumienia organizacjami związkowymi reprezentatywnymi w rozumieniu art. 25 ust. 1 lub 2 ustawy dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. 2015 r. poz. 1881 oraz 2018 r. poz. 1608), których każda zrzesza co najmniej 5% pracowników zatrudnionych u pracodawcy.”.
+- **5)** w art. 2419 § 4 otrzymuje brzmienie: „
 
-**Art. 15.** W ustawie dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. poz. 1240, 2017 r. poz. 2371 oraz 2018 r. poz. 1464) wprowadza się następujące zmiany:
+§ 4. Organizacja związkowa, która po zawarciu układu stała się reprezentatywna na podstawie art. 252 ust. 1 lub art. 253 ust. 1 ustawy o związkach zawodowych, może wstąpić w prawa i obowiązki strony układu, składając w tym celu oświadczenie stronom tego układu. Do zakładowej organizacji związkowej stosuje się odpowiednio art. 253 ust. 3–6 ustawy o związkach zawodowych, a w celu stwierdzenia reprezentatywności – art. 251 ust. 2–12 ustawy o związkach zawodowych. ” ;
 
-**Art. 16.** Do opiniowania założeń i projektów aktów prawnych, które przed dniem wejścia w życie niniejszej ustawy zostały skierowane do odpowiednich władz statutowych związku zawodowego lub odpowiednich władz statutowych organizacji pracodawców w celu zasięgnięcia opinii, o której mowa w art. 19 ust. 1 ustawy zmienianej w art. 1 lub w art. 16 ust. 1 ustawy zmienianej w art. 3, stosuje się przepisy dotychczasowe.
+- **6)** w art. 24114a § 2 otrzymuje brzmienie: „
+
+§ 2. Ogólnokrajowa organizacja międzyzwiązkowa (konfederacja) uczestniczy w rokowaniach i zawiera układ ponadzakładowy w miejsce wchodzących w jej skład ponadzakładowych organizacji związkowych, reprezentujących pracowników, dla których układ ten ma być zawarty i które uzyskały reprezentatywność na podstawie art. 252 ust. 3 ustawy o związkach zawodowych, w razie skierowania do niej umotywowanego pisemnego wniosku w tej sprawie przez organizację pracodawców prowadzącą rokowania w sprawie zawarcia tego układu lub co najmniej jedną z pozostałych ponadzakładowych organizacji związkowych prowadzących rokowania w sprawie zawarcia tego układu. Organizacja, do której skierowano wniosek, nie może odmówić przystąpienia do rokowań; odmowa skutkuje pozbawieniem reprezentatywności dla potrzeb określonego układu ponadzakładowego wszystkich organizacji, w miejsce których powinna wstąpić organizacja, do której skierowany został wniosek. ” ;
+
+- **7)** w art. 24116 : § 3 otrzymuje brzmienie: „
+    - **a)**
+
+§ 3. Warunkiem prowadzenia rokowań, o których mowa w § 2, jest uczestniczenie w nich co najmniej jednej reprezentatywnej ponadzakładowej organizacji związkowej w rozumieniu art. 252 ust. 1 ustawy o związkach zawodowych. ” , § 5 otrzymuje brzmienie: „
+
+- **b)**
+
+§ 5. Układ ponadzakładowy zawierają wszystkie organizacje związkowe, które prowadziły rokowania nad tym układem, bądź co najmniej wszystkie reprezentatywne organizacje związkowe, w rozumieniu art. 252 ust. 1 ustawy o związkach zawodowych, uczestniczące w rokowaniach. ” ;
+
+- **8)** uchyla się art. 24117 ;
+- **9)** w art. 24125 : § 3 otrzymuje brzmienie: „
+    - **a)**
+
+§ 3. Warunkiem prowadzenia rokowań, o których mowa w § 2, jest uczestniczenie w nich co najmniej jednej reprezentatywnej zakładowej organizacji związkowej w rozumieniu art. 253 ust. 1 lub 2 ustawy o związkach zawodowych. ” , § 5 otrzymuje brzmienie: „
+
+- **b)**
+
+§ 5. Układ zakładowy zawierają wszystkie organizacje związkowe, które prowadziły rokowania nad tym układem, bądź przynajmniej wszystkie reprezentatywne organizacje związkowe, w rozumieniu art. 253 ust. 1 lub 2 ustawy o związkach zawodowych, uczestniczące w rokowaniach. ” ;
+
+- **10)** uchyla się art. 24125a ;
+- **11)** w art. 24128 § 4 i 5 otrzymują brzmienie: „
+
+§ 4. Jeżeli w terminie wyznaczonym przez podmiot występujący z inicjatywą zawarcia układu zakładowego, nie krótszym niż 30 dni od dnia zgłoszenia inicjatywy zawarcia układu, nie wszystkie organizacje związkowe przystąpią do rokowań, do prowadzenia rokowań są uprawnione organizacje związkowe, które do nich przystąpiły, pod warunkiem uczestniczenia w tych rokowaniach wszystkich organów, o których mowa w § 3, wskazanych przez ponadzakładowe organizacje związkowe reprezentujące pracowników zatrudnionych u pracodawców wchodzących w skład osoby prawnej, reprezentatywne w rozumieniu art. 252 ust. 1 pkt 1 i 2 oraz ust. 3 ustawy o związkach zawodowych.
+
+§ 5. Układ zakładowy zawierają wszystkie organizacje związkowe, które prowadziły rokowania nad tym układem, bądź co najmniej wszystkie organy, o których mowa w § 3, wskazane przez ponadzakładowe organizacje związkowe reprezentujące pracowników zatrudnionych u pracodawców wchodzących w skład osoby prawnej, reprezentatywne w rozumieniu art. 252 ust. 1 pkt 1 i 2 oraz ust. 3 ustawy o związkach zawodowych. ” . W ustawie z dnia 23 maja 1991 r. o organizacjach pracodawców (Dz. U. z 2015 r. poz. 2029) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 ust. 2 otrzymuje brzmienie: „
+
+2. Pracodawcą w rozumieniu ustawy jest podmiot, o którym mowa w art. 11 pkt 2 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2015 r. poz. 1881 oraz z 2018 r. poz. 1608). ” ;
+
+- **2)** po art. 2 dodaje się art. 21 w brzmieniu: „
+
+**Art. 21.**
+
+1. Składki członkowskie wnoszone do międzynarodowych organizacji pracodawców, reprezentujących interesy pracodawców wobec instytucji Unii Europejskiej, przez organizacje pracodawców, reprezentatywne w rozumieniu ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. poz. 1240, z 2017 r. poz. 2371 oraz z 2018 r. poz. 1464), zwanej dalej „ustawą o Radzie Dialogu Społecznego”, wchodzące w skład Rady Dialogu Społecznego, mogą być dofinansowane z budżetu państwa w formie dotacji celowej.
+
+2. Dotacji celowej, o której mowa w ust. 1, udziela – na wniosek organizacji pracodawców – minister właściwy do spraw pracy, na podstawie umowy zawartej z tą organizacją.
+
+3. O dofinansowanie składek, o których mowa w ust. 1, może ubiegać się organizacja pracodawców, o której mowa w ust. 1, która na dzień złożenia wniosku jest członkiem międzynarodowej organizacji pracodawców od co najmniej 12 miesięcy.
+
+4. Kwota dotacji celowej na dofinansowanie składek z budżetu państwa w danym roku, dla każdej organizacji pracodawców, o której mowa w ust. 1, nie może być wyższa niż 300 000 zł i stanowić więcej niż 95% wysokości tych składek.
+
+5. Minister właściwy do spraw pracy określi, w drodze rozporządzenia, szczegółowy tryb składania wniosków, o których mowa w ust. 2, wzór wniosku o udzielenie dotacji oraz niezbędne dokumenty, mając na względzie zapewnienie prawidłowości, przejrzystości i efektywności wydatkowania środków publicznych. ” ;
+
+- **3)** w art. 16 ust. 1 otrzymuje brzmienie: „
+
+1. Organizacja pracodawców, reprezentatywna w rozumieniu ustawy o Radzie Dialogu Społecznego, ma prawo opiniowania założeń i projektów aktów prawnych w zakresie praw i interesów związków pracodawców. Nie dotyczy to założeń projektu budżetu państwa oraz projektu ustawy budżetowej, których opiniowanie regulują odrębne przepisy. ” ;
+
+- **4)** tytuł rozdziału 4 otrzymuje brzmienie: „ Odpowiedzialność za naruszenie przepisów prawa ” ;
+- **5)** w art. 19: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Sąd rejestrowy w razie stwierdzenia, że dany organ związku pracodawców prowadzi działalność niezgodną z prawem, wyznacza termin co najmniej 14 dni na dostosowanie działalności tego organu do obowiązującego prawa. Postępowanie wszczyna się na wniosek właściwego prokuratora okręgowego. ” , w ust. 2 pkt 1 otrzymuje brzmienie: „
+
+- **b)**
+- **1)** orzec grzywnę wobec poszczególnych członków danego organu związku w wysokości określonej w art. 163 § 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 1360, 1467, 1499 i 1544); ” ;
+- **6)** po art. 19 dodaje się art. 191 w brzmieniu: „
+
+**Art. 191.** Kto w związku z pełnioną funkcją przeznacza dochód z działalności gospodarczej prowadzonej przez związek pracodawców, federację lub konfederację na cele niesłużące realizacji ich zadań statutowych lub dzieli go pomiędzy członków związku, federacji lub konfederacji, podlega grzywnie. ” . W ustawie z dnia 23 maja 1991 r. o rozwiązywaniu sporów zbiorowych (Dz. U. z 2018 r. poz. 399 i 730) art. 5 i art. 6 otrzymują brzmienie: „ Pracodawcą w rozumieniu ustawy jest podmiot, o którym mowa w art. 11 pkt 2 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2015 r. poz. 1881 oraz z 2018 r. poz. 1608).
+
+**Art. 6.** Przepisy ustawy, w których jest mowa o pracownikach, mają odpowiednie zastosowanie do innych niż pracownicy osób wykonujących pracę zarobkową, o których mowa w art. 11 pkt 1 ustawy z dnia 23 maja 1991 r. o związkach zawodowych, oraz osób, o których mowa w art. 2 ust. 5 i 6 ustawy z dnia 23 maja 1991 r. o związkach zawodowych. ” . W ustawie z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2017 r. poz. 862 oraz z 2018 r. poz. 152 i 1105) w art. 16 w ust. 4 pkt 3 otrzymuje brzmienie: „
+
+- **3)** dwóch przedstawicieli zakładowych organizacji związkowych reprezentatywnych w rozumieniu art. 253 ust. 1 lub 2 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2015 r. poz. 1881 oraz z 2018 r. poz. 1608), działających w tej instytucji kultury; ” . W ustawie z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz. U. z 2018 r. poz. 1316) w art. 8 ust. 2 otrzymuje brzmienie: „
+
+2. Zasady i warunki korzystania z usług i świadczeń finansowanych z Funduszu, z uwzględnieniem ust. 1, oraz zasady przeznaczania środków Funduszu na poszczególne cele i rodzaje działalności socjalnej określa pracodawca w regulaminie ustalanym zgodnie z art. 27 ust. 1 albo z art. 30 ust. 6 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2015 r. poz. 1881 oraz z 2018 r. poz. 1608). Pracodawca, u którego nie działa zakładowa organizacja związkowa, uzgadnia regulamin z pracownikiem wybranym przez załogę do reprezentowania jej interesów. ” . W ustawie z dnia 5 kwietnia 2002 r. o europejskich radach zakładowych (Dz. U. z 2018 r. poz. 1247) w art. 8 ust. 2 otrzymuje brzmienie: „
+
+2. Zakładowa organizacja związkowa jest reprezentatywna, jeżeli spełnia warunki określone w art. 253 ust. 1 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2015 r. poz. 1881 oraz z 2018 r. poz. 1608). Przepisy art. 253 ust. 3, 4, 6 i 7 ustawy z dnia 23 maja 1991 r. o związkach zawodowych stosuje się odpowiednio. ” . W ustawie z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników (Dz. U. z 2016 r. poz. 1474 oraz z 2017 r. poz. 2181) w art. 3 ust. 3 otrzymuje brzmienie: „
+
+3. Jeżeli nie jest możliwe uzgodnienie treści porozumienia ze wszystkimi zakładowymi organizacjami związkowymi, pracodawca uzgadnia treść porozumienia z organizacjami związkowymi reprezentatywnymi w rozumieniu art. 253 ust. 1 lub 2 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2015 r. poz. 1881 oraz z 2018 r. poz. 1608), z których każda zrzesza co najmniej 5% pracowników zatrudnionych u pracodawcy. ” .
+
+**Art. 9.** W ustawie z dnia 9 lipca 2003 r. o zatrudnianiu pracowników tymczasowych (Dz. U. z 2018 r. poz. 594) w art. 23 ust. 1 otrzymuje brzmienie: „ 1. Pracodawca użytkownik jest obowiązany informować organizację związkową reprezentatywną w rozumieniu art. 253 ust. 1 lub 2 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2015 r. poz. 1881 oraz z 2018 r. poz. 1608) o zamiarze powierzenia wykonywania pracy tymczasowej pracownikowi agencji pracy tymczasowej. Jednakże pracodawca użytkownik, który zamierza powierzyć pracownikowi agencji pracy tymczasowej wykonywanie pracy przez okres dłuższy niż 6 miesięcy, jest obowiązany podjąć działania zmierzające do uzgodnienia tego zamierzenia z reprezentatywnymi organizacjami związkowymi. ” .
+
+**Art. 10.** W ustawie z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych (Dz. U. z 2016 r. poz. 1449 oraz z 2018 r. poz. 1091) w art. 11 ust. 8 otrzymuje brzmienie: „ 8. Jeżeli w okresie 2 miesięcy od dnia przedstawienia przez pracodawcę reprezentacji pracowników oferty utworzenia programu, o której mowa w ust. 7, nie dojdzie do zawarcia umowy zakładowej z powodu niemożności uzgodnienia przez strony jej treści, pracodawca może zawrzeć umowę zakładową z organizacjami związkowymi reprezentatywnymi w rozumieniu art. 253 ust. 1 lub 2 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2015 r. poz. 1881 oraz z 2018 r. poz. 1608), z których każda zrzesza co najmniej 5% pracowników zatrudnionych u pracodawcy. Przepis ust. 7 stosuje się odpowiednio. ” . W ustawie z dnia 4 marca 2005 r. o europejskim zgrupowaniu interesów gospodarczych i spółce europejskiej (Dz. U. z 2015 r. poz. 2142 oraz z 2018 r. poz. 398) w art. 65 ust. 1 otrzymuje brzmienie: „ 1. W przypadku gdy pracownicy spółki uczestniczącej, zainteresowanej spółki zależnej albo zakładu, mających wejść w skład SE, są zatrudnieni w Rzeczypospolitej Polskiej u jednego pracodawcy, członków specjalnego zespołu negocjacyjnego wyznacza reprezentatywna zakładowa organizacja związkowa w rozumieniu art. 253 ust. 1 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2015 r. poz. 1881 oraz z 2018 r. poz. 1608). Przepisy art. 253 ust. 3, 4, 6 i 7 ustawy z dnia 23 maja 1991 r. o związkach zawodowych stosuje się odpowiednio. W przypadku braku takiej organizacji, członków specjalnego zespołu negocjacyjnego wybiera zebranie załogi. ” .
+
+**Art. 12.** W ustawie z dnia 22 lipca 2006 r. o spółdzielni europejskiej (Dz. U. z 2016 r. poz. 7 oraz z 2018 r. poz. 398) w art. 41 ust. 1 otrzymuje brzmienie: „ 1. W przypadku gdy pracownicy podmiotu uczestniczącego, zainteresowanej spółki zależnej albo zakładu, mających wejść w skład SCE, są zatrudnieni w Rzeczypospolitej Polskiej u jednego pracodawcy, członków specjalnego zespołu negocjacyjnego wyznacza reprezentatywna zakładowa organizacja związkowa w rozumieniu art. 253 ust. 1 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2015 r. poz. 1881 oraz z 2018 r. poz. 1608). Przepisy art. 253 ust. 3, 4, 6 i 7 ustawy z dnia 23 maja 1991 r. o związkach zawodowych stosuje się odpowiednio. W przypadku braku takiej organizacji, członków specjalnego zespołu negocjacyjnego wybiera zebranie załogi. ” .
+
+**Art. 13.** W ustawie z dnia 25 kwietnia 2008 r. o uczestnictwie pracowników w spółce powstałej w wyniku transgranicznego połączenia się spółek (Dz. U. poz. 525) w art. 10 ust. 1 otrzymuje brzmienie: „ 1. W przypadku gdy pracownicy spółki uczestniczącej, zainteresowanej spółki zależnej albo zakładu, mających wejść w skład spółki powstałej w wyniku połączenia transgranicznego spółek, są zatrudnieni w Rzeczypospolitej Polskiej u jednego pracodawcy, członków specjalnego zespołu negocjacyjnego wyznacza reprezentatywna zakładowa organizacja związkowa w rozumieniu art. 253 ust. 1 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2015 r. poz. 1881 oraz z 2018 r. poz. 1608). Przepisy art. 253 ust. 3, 4, 6 i 7 ustawy z dnia 23 maja 1991 r. o związkach zawodowych stosuje się odpowiednio. W przypadku braku takiej organizacji, członków specjalnego zespołu negocjacyjnego wybiera zebranie załogi. ” .
+
+**Art. 14.** W ustawie z dnia 11 października 2013 r. o szczególnych rozwiązaniach związanych z ochroną miejsc pracy (Dz. U. z 2017 r. poz. 842 oraz z 2018 r. poz. 650) w art. 4 ust. 1 otrzymuje brzmienie: „ 1. Warunki i tryb wykonywania pracy w okresie przestoju ekonomicznego lub obniżonego wymiaru czasu pracy przedsiębiorca ustala w układzie zbiorowym pracy lub w porozumieniu z zakładowymi organizacjami związkowymi; jeżeli nie jest możliwe uzgodnienie treści porozumienia ze wszystkimi zakładowymi organizacjami związkowymi, przedsiębiorca uzgadnia treść porozumienia z organizacjami związkowymi reprezentatywnymi w rozumieniu art. 253 ust. 1 lub 2 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2015 r. poz. 1881 oraz z 2018 r. poz. 1608), z których każda zrzesza co najmniej 5% pracowników zatrudnionych u pracodawcy. ” .
+
+**Art. 15.** W ustawie z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. poz. 1240, z 2017 r. poz. 2371 oraz z 2018 r. poz. 1464) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 ust. 1 otrzymuje brzmienie: „
+
+1. Tworzy się Radę Dialogu Społecznego, zwaną dalej „Radą”, jako forum trójstronnej współpracy strony reprezentującej osoby wykonujące pracę zarobkową, o których mowa w art. 11 pkt 1 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2015 r. poz. 1881 oraz z 2018 r. poz. 1608), zwanej dalej „stroną pracowników”, strony pracodawców, o których mowa w art. 11 pkt 2 tej ustawy, oraz strony rządowej, zwanych dalej „stronami Rady”. ” ;
+
+- **2)** w art. 23: w ust. 2 pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** zrzeszają więcej niż 300 000 członków będących osobami wykonującymi pracę zarobkową, o których mowa w art. 11 pkt 1 ustawy z dnia 23 maja 1991 r. o związkach zawodowych; ” , ust. 3 otrzymuje brzmienie: „
+    - **b)**
+
+3. Przy ustalaniu kryterium liczebności, o którym mowa w ust. 2 pkt 1, uwzględnia się nie więcej niż po 100 000 członków organizacji związkowej będących osobami wykonującymi pracę zarobkową zatrudnionymi w podmiotach gospodarki narodowej, których podstawowy rodzaj działalności jest określony w jednej sekcji Polskiej Klasyfikacji Działalności (PKD), o której mowa w przepisach o statystyce publicznej. Organizacja związkowa ubiegająca się o uznanie jej za reprezentatywną organizację związkową przy ustalaniu liczby osób wykonujących pracę zarobkową, o której mowa w ust. 2 pkt 1, nie uwzględnia osób wykonujących pracę zarobkową zrzeszonych w tych spośród jej organizacji członkowskich, które są lub w okresie roku przed złożeniem wniosku o stwierdzenie reprezentatywności były zrzeszone w reprezentatywnej organizacji związkowej mającej przedstawicieli w składzie Rady. ” ;
+
+- **3)** w art. 24: w ust. 2 pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** zrzeszają pracodawców, o których mowa w art. 11 pkt 2 ustawy z dnia 23 maja 1991 r. o związkach zawodowych, zwanych dalej „pracodawcami”, zatrudniających łącznie co najmniej 300 000 osób wykonujących pracę zarobkową, z zastrzeżeniem ust. 3; ” , ust. 3 i 4 otrzymują brzmienie: „
+    - **b)**
+
+3. Przy ustalaniu kryterium liczebności, o którym mowa w ust. 2 pkt 1:
+
+- **1)** w przypadku pracodawcy prowadzącego działalność w zakresie jednej sekcji PKD wszystkie osoby wykonujące pracę zarobkową są przyporządkowywane do tej sekcji albo
+- **2)** w przypadku pracodawcy prowadzącego działalność w więcej niż jednej sekcji PKD wszystkie zatrudnione osoby wykonujące pracę zarobkową zostają przyporządkowane do sekcji obejmującej podstawowy rodzaj działalności danego podmiotu przy czym uwzględnia się nie więcej niż 100 000 osób wykonujących pracę zarobkową w danej sekcji PKD.
+
+4. Przy ustalaniu liczby sekcji, o których mowa w ust. 2 pkt 2, uwzględnia się sekcje obejmujące co najmniej 3000 osób wykonujących pracę zarobkową. ” ;
+
+- **3)** w art. 44 ust. 1 otrzymuje brzmienie: „
+
+1. WRDS może rozpatrywać sprawy społeczne lub gospodarcze powodujące konflikty między pracodawcami i osobami wykonującymi pracę zarobkową, jeżeli uzna te sprawy za istotne dla zachowania pokoju społecznego. ” . Do opiniowania założeń i projektów aktów prawnych, które przed dniem wejścia w życie niniejszej ustawy zostały skierowane do odpowiednich władz statutowych związku zawodowego lub odpowiednich władz statutowych organizacji pracodawców w celu zasięgnięcia opinii, o której mowa w art. 19 ust. 1 ustawy zmienianej w art. 1 lub w art. 16 ust. 1 ustawy zmienianej w art. 3, stosuje się przepisy dotychczasowe.
 
 **Art. 17.** Osobom będącym w dniu wejścia w życie niniejszej ustawy członkami związków zawodowych przysługują uprawnienia na zasadach dotychczasowych.
 
-**Art. 18.** Związki zawodowe, istniejące w dniu wejścia w życie niniejszej ustawy, w terminie 6 miesięcy od dnia jej wejścia w życie dostosują swoje statuty do zmian wynikających tej ustawy.
+**Art. 18.** Związki zawodowe, istniejące w dniu wejścia w życie niniejszej ustawy, w terminie 6 miesięcy od dnia jej wejścia w życie dostosują swoje statuty do zmian wynikających z tej ustawy.
 
 **Art. 19.**
 
-1. W okresie pełnienia przez pracownika funkcji związkowej wyboru dokonanego na podstawie przepisów w brzmieniu dotychczasowym, pracownikowi przysługuje prawo, o którym mowa w art. 25 ust. 1 ustawy zmienianej w art. 1, na zasadach określonych w przepisach w brzmieniu dotychczasowym.
+1. W okresie pełnienia przez pracownika funkcji związkowej z wyboru dokonanego na podstawie przepisów w brzmieniu dotychczasowym, pracownikowi przysługuje prawo, o którym mowa w art. 25 ust. 1 ustawy zmienianej w art. 1, na zasadach określonych w przepisach w brzmieniu dotychczasowym.
 
-2. Pracownik korzystający prawa, o którym mowa w art. 31 ustawy zmienianej w art. 1 na podstawie przepisów w brzmieniu dotychczasowym, korzysta tego prawa do upływu okresu oraz w wymiarze, o których mowa w art. 31 ust. 1 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym.
+2. Pracownik korzystający z prawa, o którym mowa w art. 31 ustawy zmienianej w art. 1 na podstawie przepisów w brzmieniu dotychczasowym, korzysta z tego prawa do upływu okresu oraz w wymiarze, o których mowa w art. 31 ust. 1 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym.
 
 3. Pracownik objęty ochroną, o której mowa w art. 32 ustawy zmienianej w art. 1, nabytą na podstawie przepisów w brzmieniu dotychczasowym, podlega tej ochronie do upływu okresu, o którym mowa w art. 32 ust. 2 ustawy zmienianej w art. 1.
 
 **Art. 20.**
 
-1. Organizacje związkowe, których reprezentatywność została stwierdzona na podstawie orzeczenia sądowego, o którym mowa w art. 241 § 2 lub art. 241 § 5 ustawy zmienianej w art. 2 w brzmieniu dotychczasowym, utrzymują tę reprezentatywność przez okres roku od dnia wejścia w życie niniejszej ustawy.
+1. Organizacje związkowe, których reprezentatywność została stwierdzona na podstawie orzeczenia sądowego, o którym mowa w art. 24117 § 2 lub art. 24125a § 5 ustawy zmienianej w art. 2 w brzmieniu dotychczasowym, utrzymują tę reprezentatywność przez okres roku od dnia wejścia w życie niniejszej ustawy.
 
-2. Sprawy dotyczące reprezentatywności zakładowych organizacji związkowych i ponadzakładowych organizacji związkowych, wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy, ulegają umorzeniu mocy prawa dniem wejścia w życie niniejszej ustawy.
-
-**Art. 21.** Reprezentatywne organizacje związkowe i reprezentatywne organizacje pracodawców, o których mowa w art. 23 i art. 24 ustawy zmienianej w art. 15 w brzmieniu dotychczasowym, których reprezentatywność została stwierdzona na podstawie orzeczenia sądowego, o którym mowa w art. 25 ust. 1 tej ustawy, utrzymują tę reprezentatywność przez czas pozostały do upływu okresu 4 lat wskazanego w ust. 2 tego przepisu.
+2. Sprawy dotyczące reprezentatywności zakładowych organizacji związkowych i ponadzakładowych organizacji związkowych, wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy, ulegają umorzeniu z mocy prawa z dniem wejścia w życie niniejszej ustawy. Reprezentatywne organizacje związkowe i reprezentatywne organizacje pracodawców, o których mowa w art. 23 i art. 24 ustawy zmienianej w art. 15 w brzmieniu dotychczasowym, których reprezentatywność została stwierdzona na podstawie orzeczenia sądowego, o którym mowa w art. 25 ust. 1 tej ustawy, utrzymują tę reprezentatywność przez czas pozostały do upływu okresu 4 lat wskazanego w ust. 2 tego przepisu.
 
 **Art. 22.**
 
-1. W latach 2019–2028 maksymalny limit wydatków będących skutkiem finansowym ustawy, w związku art. 11 ustawy zmienianej w art. 1 i art. 2 ustawy zmienianej w art. 3, będzie wynosić, w części 31 – Praca:
+1. W latach 2019–2028 maksymalny limit wydatków będących skutkiem finansowym ustawy, w związku z art. 111 ustawy zmienianej w art. 1 i art. 21 ustawy zmienianej w art. 3, będzie wynosić, w części 31 – Praca:
 
 - **1)** 2019 – 2 100 tys. zł;
 - **2)** 2020 – 2 100 tys. zł;
@@ -298,12 +580,13 @@ source: "isap-pdf"
 - **5)** 2023 – 2 100 tys. zł;
 - **6)** 2024 – 2 100 tys. zł;
 - **7)** 2025 – 2 100 tys. zł;
+- **8)** 2026 – 2 100 tys. zł;
 - **9)** 2027 – 2 100 tys. zł;
 - **10)** 2028 – 2 100 tys. zł.
 
-2. W przypadku wykorzystania przyjętego na dany rok budżetowy maksymalnego limitu wydatków zostanie zastosowany mechanizm korygujący, polegający na zmniejszeniu kwoty dotacji celowej, przeznaczonej na realizację zadań wynikających art. 11 ustawy zmienianej w art. 1 i art. 2 ustawy zmienianej w art. 3.
+2. W przypadku wykorzystania przyjętego na dany rok budżetowy maksymalnego limitu wydatków zostanie zastosowany mechanizm korygujący, polegający na zmniejszeniu kwoty dotacji celowej, przeznaczonej na realizację zadań wynikających z art. 111 ustawy zmienianej w art. 1 i art. 21 ustawy zmienianej w art. 3.
 
 3. Organem właściwym do monitorowania wykorzystania limitów wydatków oraz wdrożenia mechanizmu korygującego jest minister właściwy do spraw pracy.
 
-**Art. 23.** Ustawa wchodzi w życie dniem 1 stycznia 2019 r., wyjątkiem art. 1 pkt 14 w zakresie art. 25 ust. 6, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.
+**Art. 23.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem art. 1 pkt 14 w zakresie art. 253 ust. 6, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.
 

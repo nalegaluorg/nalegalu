@@ -3,7 +3,6 @@
 Orzeczenia powołujące: *Ustawa z dnia 4 marca 2004 r. o zmianie ustawy o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej oraz niektórych innych ustaw*
 
 Łącznie: **1** orzeczeń
-(pominięto 3 orzeczeń sądów rejonowych)
 
 ## art. 4 (1)
 

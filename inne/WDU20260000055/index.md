@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 23 listopada 2002 restrukturyzacji zobowiązań koncesyjnych operatorów stacjonarnych publicznych sieci telefonicznych (Dz. U. 2020 poz. 1700), uwzględnieniem zmian wprowadzonych ustawą dnia 20 marca 2025 rynku pracy i służbach zatrudnienia (Dz. U. poz. 620) oraz zmian wynikających przepisów ogłoszonych przed dniem 9 stycznia 2026
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 9 stycznia 2026 sprawie ogłoszenia jednolitego tekstu ustawy restrukturyzacji zobowiązań koncesyjnych operatorów stacjonarnych publicznych sieci telefonicznych*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 stycznia 2026 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 9 stycznia 2026 sprawie ogłoszenia jednolitego tekstu ustawy restrukturyzacji zobowiązań koncesyjnych operatorów stacjonarnych publicznych sieci telefonicznych
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-01-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000055) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/55/text.pdf) |
 
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 23 listopada 2002 restrukturyzacji zobowiązań koncesyjnych operatorów stacjonarnych publicznych sieci telefonicznych (Dz. U. 2020 poz. 1700), uwzględnieniem zmian wprowadzonych ustawą dnia 20 marca 2025 rynku pracy i służbach zatrudnienia (Dz. U. poz. 620) oraz zmian wynikających przepisów ogłoszonych przed dniem 9 stycznia 2026
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 461 ustawy dnia 20 marca 2025 rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), który stanowi: „Art. 461. Ustawa wchodzi życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia, wyjątkiem:
 1) art. 392 pkt 2 lit. b oraz art. 458, które wchodzą życie dniem następującym po dniu ogłoszenia;
 2) art. 106, art. 128 ust. 2, art. 203 oraz art. 300 ust. 3 pkt 11, które wchodzą życie dniem 1 stycznia 2026 r.”.
@@ -49,6 +48,42 @@ USTAWA dnia 23 listopada 2002 restrukturyzacji zobowiązań koncesyjnych operato
 
 **Art. 2.** Ilekroć ustawie jest mowa o:
 
+- **1)** „grupie kapitałowej” rozumie się przez to grupę kapitałową, której mowa art. 3 ust. 1 pkt 44 ustawy dnia 29 września 1994 rachunkowości (Dz. U. 2023 poz. 120, późn. zm. );
+- **2)** „Klasyfikacji Środków Trwałych” rozumie się przez to klasyfikację, której mowa przepisach wydanych na podstawie art. 40 ust. 2 ustawy dnia 29 czerwca 1995 statystyce publicznej (Dz. U. 2024 poz. 1799 oraz 2025 poz. 1792);
+- **3)** „kwocie podwyższenia” rozumie się przez to wartość nominalną udziałów albo akcji, którą podwyższony ma zostać kapitał zakładowy operatora albo jego podmiotu dominującego, celu zaoferowania Skarbowi Państwa objęcia udziałów albo akcji;
+- **4)** „operatorze” rozumie się przez to przedsiębiorcę eksploatującego stacjonarną publiczną sieć telefoniczną rozumieniu przepisów ustawy Prawo telekomunikacyjne, na którym ciąży obowiązek uiszczenia opłaty koncesyjnej;
+- **5)** „opłacie prolongacyjnej” rozumie się przez to opłatę prolongacyjną, ustaloną na podstawie art. 57 § 1 ustawy dnia 29 sierpnia 1997 Ordynacja podatkowa (Dz. U. 2025 poz. 111, późn. zm. ) związku odroczeniem terminu płatności raty opłaty koncesyjnej;
+- **6)** „podmiocie dominującym” rozumie się przez to jednostkę dominującą, której mowa art. 3 ust. 1 pkt 37 ustawy rachunkowości;
+- **7)** „podmiocie powiązanym” rozumie się przez to każdy podmiot będący wraz operatorem od dnia złożenia wniosku, którym mowa art. 3 ust. 2, do dnia złożenia dokumentacji, której mowa art. 8, członkiem tej samej grupy kapitałowej;
+- **8)** „promesie umorzenia” rozumie się przez to przyrzeczenie wydania pozytywnej decyzji umorzeniu;
+- **9)** „racie opłaty koncesyjnej” rozumie się przez to ratę opłaty, której obowiązek uiszczenia przez operatora powstał związku przyznaniem operatorowi koncesji na świadczenie strefowych usług telekomunikacyjnych stacjonarnych publicznych sieciach telefonicznych;
+- **10)** „umorzeniu” rozumie się przez to decyzję ministra właściwego do spraw informatyzacji wydaną na podstawie przepisów art. 67 ustawy Ordynacja podatkowa oraz przepisów niniejszej ustawy. zobowiązań na zasadach oraz warunkach określonych niniejszej ustawie.
+
+2. Wszczęcie postępowania następuje na wniosek operatora, złożony przed upływem terminu płatności, którym mowa art. 1 ust. 2, niepóźniej jednak niż przed dniem 31 grudnia 2004
+
+3. Wniosek powinien zawierać szczególności:
+
+- **1)** określenie rodzaju, zakresu i wysokości deklarowanych nakładów inwestycyjnych, ze wskazaniem podmiotów, które będą uczestniczyć ich ponoszeniu, oraz źródeł pochodzenia środków przeznaczonych na finansowanie nakładów inwestycyjnych;
+- **2)** określenie wysokości nakładów inwestycyjnych, które mają być poniesione każdym roku, jeżeli całkowity okres ponoszenia tych nakładów jest dłuższy niż jeden rok;
+- **3)** określenie przedmiotu inwestycji i obszarów, na których mają być poniesione nakłady inwestycyjne;
+- **4)** harmonogram realizacji inwestycji i ponoszenia nakładów inwestycyjnych;
+- **5)** oświadczenie zamiarze skorzystania innej, przewidzianej ustawie formy restrukturyzacji.
+
+4. Do wniosku operator dołącza informację swojej bieżącej sytuacji finansowej, tym:
+
+- **1)** dane identyfikujące dłużników i wierzycieli;
+- **2)** informację wysokości tych wierzytelności i wymaganych długów;
+- **3)** harmonogram spłaty wymaganych zobowiązań;
+- **4)** kopię ewidencji środków trwałych oraz wartości niematerialnych i prawnych wraz informacją ustanowionych na nich obciążeniach.
+
+5. Do wniosku operator powinien dołączyć plan inwestycyjny oraz oświadczenie zawierające zobowiązanie, że deklarowanym okresie, niedłuższym jednak niż cztery lata od dnia złożenia wniosku, poniesie on nakłady inwestycyjne wartości odpowiadającej co najmniej kwocie wymagalnych tym okresie rat opłaty koncesyjnej lub opłaty prolongacyjnej lub że poniesie je podmiot powiązany.
+
+6. W przypadku gdy nakłady inwestycyjne ma ponieść podmiot powiązany, do wniosku operator jest obowiązany dołączyć również oświadczenie podmiotu powiązanego wyrażeniu zgody na rozliczenie przez operatora nakładów inwestycyjnych poniesionych przez ten podmiot. Wyrażenie zgody nie pozbawia podmiotu powiązanego będącego operatorem prawa do wystąpienia wnioskiem, którym mowa ust. 2, zastrzeżeniem art. 6 ust. 2.
+
+7. Operator, deklarując wysokość nakładów inwestycyjnych, uwzględnia zasady obliczania ich wartości określone art. 7.
+
+8. Oświadczenie, którym mowa ust. 5 i 6, może obejmować również nakłady poniesione przed dniem złożenia oświadczenia, wyłączeniem nakładów poniesionych przed dniem 1 stycznia 2001
+
 **Art. 4.**
 
 1. Minister właściwy do spraw informatyzacji, uwzględniając całości lub części wniosek operatora, decyzji, której mowa art. 3 ust. 1, określa szczególności:
@@ -59,11 +94,7 @@ USTAWA dnia 23 listopada 2002 restrukturyzacji zobowiązań koncesyjnych operato
 - **4)** wysokość nakładów inwestycyjnych, które mają być poniesione przez operatora każdym roku, jeżeli całkowity okres ponoszenia tych nakładów jest dłuższy niż rok;
 - **5)** przedmiot inwestycji i obszary, na których mają być poniesione nakłady inwestycyjne.
 
-2. W decyzji, której mowa art. 3 ust. 1, minister właściwy do spraw informatyzacji udziela również promesy umorzenia raty opłaty koncesyjnej lub opłaty prolongacyjnej wysokości określonej ust. 1 pkt 1, pod warunkiem poniesienia nakładów inwestycyjnych, których mowa ust. 1 pkt 3.
-
-3. W decyzji, której mowa art. 3 ust. 1, nie udziela się opłat prolongacyjnych.
-
-4. Minister właściwy do spraw informatyzacji odmawia wydania decyzji, której mowa art. 3 ust. 1, jeżeli zachodzi uzasadnione przypuszczenie, że operator nie poniesie zadeklarowanych nakładów inwestycyjnych bądź też poniesienie zadeklarowanych nakładów nie przyczyni się do rozwoju infrastruktury telekomunikacyjnej lub do zwiększenia konkurencji wymagalne.
+2. W decyzji, której mowa art. 3 ust. 1, minister właściwy do spraw informatyzacji udziela również promesy umorzenia raty opłaty koncesyjnej lub opłaty prolongacyjnej wysokości określonej ust. 1 pkt 1, pod warunkiem poniesienia nakładów inwestycyjnych, których mowa ust. 1 pkt 3. wymagalne.
 
 **Art. 6.**
 
@@ -104,7 +135,7 @@ USTAWA dnia 23 listopada 2002 restrukturyzacji zobowiązań koncesyjnych operato
     - **a)** (uchylona)
     - **b)** bezpośrednio związku uruchomieniem szerokopasmowego dostępu do internetu szkołach i placówkach oświatowych rozumieniu ustawy dnia 14 grudnia 2016 Prawo oświatowe (Dz. U. 2025 poz. 1043, 1160 i 1837).
 
-3. Wartość nakładów inwestycyjnych przelicza się według średniego kursu euro, ustalanego przez Narodowy Bank Polski, obowiązującego ostatnim dniu miesiąca poprzedzającego miesiąc, którym nastąpi złożenie dokumentacji, której mowa art. 8. zobowiązany ponieść nakłady inwestycyjne, jeżeli okres ten jest krótszy od roku, złożyć sprawozdanie wraz dokumentacją, potwierdzające rodzaj, zakres i wysokość poniesionych nakładów inwestycyjnych danym okresie.
+3. Wartość nakładów inwestycyjnych przelicza się według średniego kursu euro, ustalanego przez Narodowy Bank zobowiązany ponieść nakłady inwestycyjne, jeżeli okres ten jest krótszy od roku, złożyć sprawozdanie wraz dokumentacją, potwierdzające rodzaj, zakres i wysokość poniesionych nakładów inwestycyjnych danym okresie.
 
 2. Minister właściwy do spraw informatyzacji określi, drodze rozporządzenia, wzór sprawozdania wskazującego rodzaj, zakres i wysokość poniesionych przez operatora nakładów inwestycyjnych oraz wykaz składanej nim dokumentacji, których mowa ust. 1, mając na względzie zapewnienie możliwości weryfikacji faktu poniesienia nakładów, ich rodzaju, zakresu i wysokości oraz umiejscowienia, uwzględnieniem art. 7.
 
@@ -137,9 +168,7 @@ USTAWA dnia 23 listopada 2002 restrukturyzacji zobowiązań koncesyjnych operato
 
 6. W przypadku określonym ust. 5, od terminu płatności, którym mowa art. 1 ust. 2, nalicza się odsetki wysokości jak dla zaległości podatkowych. Art. 53 § 3 Ordynacji podatkowej stosuje się odpowiednio.
 
-7. Operator jest uprawniony do złożenia sprawozdania i dokumentacji przed upływem terminu, którym mowa art. 8, jeżeli przed tym terminem wartość poniesionych nakładów inwestycyjnych będzie co najmniej równa wartości nakładów inwestycyjnych przypadających na dany okres, określonych decyzji, której mowa art. 3 ust. 1.
-
-8. Jeżeli operator nie złoży terminie sprawozdania wraz dokumentacją, której mowa art. 8, minister właściwy do spraw informatyzacji, terminie miesiąca od upływu terminu do ich złożenia, wydaje decyzję stwierdzającą wygaśnięcie całości albo części decyzji, której mowa art. 3 ust. 1. zaległości podatkowych za okres od upływu terminu płatności, którym mowa art. 1 ust. 2.
+7. Operator jest uprawniony do złożenia sprawozdania i dokumentacji przed upływem terminu, którym mowa art. 8, jeżeli przed tym terminem wartość poniesionych nakładów inwestycyjnych będzie co najmniej równa wartości zaległości podatkowych za okres od upływu terminu płatności, którym mowa art. 1 ust. 2.
 
 10. Na wniosek operatora, uzasadniony ważnymi przyczynami, minister właściwy do spraw informatyzacji może wydłużyć termin do złożenia dokumentacji przez operatora niewięcej niż 30 dni od dnia upływu terminu, którym mowa art. 8. Do czasu upływu terminu przedłużonego powyższym trybie, zawieszeniu ulega bieg terminu do wykonania decyzji przez ministra właściwego do spraw informatyzacji.
 
@@ -167,7 +196,7 @@ USTAWA dnia 23 listopada 2002 restrukturyzacji zobowiązań koncesyjnych operato
 
 **Art. 12.**
 
-1. Kwota podwyższenia powinna być równa wartości nominalnej takiej ilości udziałów albo akcji kapitale zakładowym operatora albo jego podmiotu dominującego będącego wnioskodawcą, która odpowiada ilorazowi kwoty zdyskontowanej rat opłaty koncesyjnej lub opłaty prolongacyjnej, objętych wnioskiem, którym mowa art. 11 ust. 2, oraz wartości jednego udziału albo akcji operatora albo jego podmiotu dominującego, obliczonej stosownie do ust. 4. k = liczoną według następującego wzoru: gdzie: i oznacza kolejną ratę, N oznacza całkowitą liczbę pozostałych rat, R oznacza kwotę zdyskontowaną wszystkich rat opłat koncesyjnych lub opłat prolongacyjnych, R oznacza nominalną kwotę raty opłaty koncesyjnej lub opłaty prolongacyjnej, S oznacza: roczną stopę procentową WIBOR na okres trzech miesięcy, pierwszego dnia roboczego poprzedzającego złożenie wniosku przypadku zobowiązań tytułu rat opłaty koncesyjnej lub opłaty prolongacyjnej terminie płatności przypadającym niepóźniej niż 2 lata od dnia wejścia życie ustawy, roczną stopę procentową emitowanych przez ministra właściwego do spraw finansów publicznych obligacji dziesięcioletnich oprocentowaniu stałym i terminie wykupu dniu 24 listopada 2010 (DS.1110) przypadku zobowiązań tytułu rat opłaty koncesyjnej lub opłaty prolongacyjnej terminie płatności przypadającym po upływie 2 lat od dnia wejścia życie ustawy, L oznacza liczbę dni między dniem złożenia wniosku a dniem, którym upływa termin płatności raty opłaty koncesyjnej lub opłaty prolongacyjnej objętej wnioskiem, k oznacza stosunek liczby dni przypadających między płatnościami dwóch następujących po sobie rat opłaty koncesyjnej lub opłaty prolongacyjnej do 365 dni i wynosi:
+1. Kwota podwyższenia powinna być równa wartości nominalnej takiej ilości udziałów albo akcji kapitale zakładowym operatora albo jego podmiotu dominującego będącego wnioskodawcą, która odpowiada ilorazowi kwoty zdysk = liczoną według następującego wzoru: gdzie: i oznacza kolejną ratę, N oznacza całkowitą liczbę pozostałych rat, R oznacza kwotę zdyskontowaną wszystkich rat opłat koncesyjnych lub opłat prolongacyjnych, R oznacza nominalną kwotę raty opłaty koncesyjnej lub opłaty prolongacyjnej, S oznacza: roczną stopę procentową WIBOR na okres trzech miesięcy, pierwszego dnia roboczego poprzedzającego złożenie wniosku przypadku zobowiązań tytułu rat opłaty koncesyjnej lub opłaty prolongacyjnej terminie płatności przypadającym niepóźniej niż 2 lata od dnia wejścia życie ustawy, roczną stopę procentową emitowanych przez ministra właściwego do spraw finansów publicznych obligacji dziesięcioletnich oprocentowaniu stałym i terminie wykupu dniu 24 listopada 2010 (DS.1110) przypadku zobowiązań tytułu rat opłaty koncesyjnej lub opłaty prolongacyjnej terminie płatności przypadającym po upływie 2 lat od dnia wejścia życie ustawy, L oznacza liczbę dni między dniem złożenia wniosku a dniem, którym upływa termin płatności raty opłaty koncesyjnej lub opłaty prolongacyjnej objętej wnioskiem, k oznacza stosunek liczby dni przypadających między płatnościami dwóch następujących po sobie rat opłaty koncesyjnej lub opłaty prolongacyjnej do 365 dni i wynosi:
 
 3. Wysokość kwoty zdyskontowanej wyraża się złotych według kursu średniego euro ustalonego przez Narodowy Bank Polski ostatnim dniu roboczym poprzedzającym dzień złożenia wniosku, którym mowa art. 11 ust. 2 lub art. 13 ust. 3.
 
@@ -211,11 +240,7 @@ USTAWA dnia 23 listopada 2002 restrukturyzacji zobowiązań koncesyjnych operato
 
 3. Przez okres od dnia wystąpienia przez operatora zmniejszenie jego zobowiązań do dnia zajęcia przez ministra właściwego do spraw informatyzacji ostatecznego stanowiska sprawie, zawieszeniu ulega bieg terminów płatności rat opłat koncesyjnych oraz opłat prolongacyjnych. Art. 67 Ordynacji podatkowej stosuje się odpowiednio.
 
-**Art. 15.** Skorzystanie jednej form restrukturyzacji zobowiązań koncesyjnych na zasadach i warunkach określonych niniejszej ustawie nie pozbawia operatora prawa do skorzystania pozostałych form restrukturyzacji przewidzianych ustawie oraz odrębnych przepisach.
-
-**Art. 16.**
-
-1. Kwota umorzona zgodnie art. 10 ust. 2 pkt 1 nie stanowi przychodu rozumieniu przepisów ustawy dnia 15 lutego 1992 podatku dochodowym od osób prawnych (Dz. U. 2025 poz. 278, późn. zm. ), jeżeli należności te nie zostały zaliczone do kosztów uzyskania przychodów. przez zawiązanie nowej spółki.
+**Art. 15.** Skorzystanie jednej form restrukturyzacji zobowiązań koncesyjnych na zasadach i warunkach określonych niniejszej ustawie nie pozbawia operatora prawa do skorzystania pozostałych form restrukturyzacji przewidzianych ustawie oraz odrębnych przepisach. przez zawiązanie nowej spółki.
 
 **Art. 17.** Ustawa wchodzi życie dniem ogłoszenia .
 

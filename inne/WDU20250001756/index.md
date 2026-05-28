@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o wyrobie napojów spirytusowych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 grudnia 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 grudnia 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,10 +25,25 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-12-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001756) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1756/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 grudnia 2025 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o wyrobie napojów spirytusowych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 18 października 2006 r. o wyrobie napojów spirytusowych (Dz. U. z 2023 r. poz. 1584), z uwzględnieniem zmian wprowadzonych ustawą z dnia 21 maja 2025 r. o zmianie niektórych ustaw celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (Dz. U. poz. 769) oraz zmian wynikających z przepisów ogłoszonych przed dniem 4 grudnia 2025 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 31 ust. 2 i art. 48 ustawy z dnia 21 maja 2025 r. o zmianie niektórych ustaw celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (Dz. U. poz. 769), które stanowią:
 
 **Art. 31.** „2. Do wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy postępowań, o których mowa w:
+
+- **1)** ustawie zmienianej art. 3 stosuje się przepisy tej ustawy brzmieniu dotychczasowym;
+- **2)** ustawie zmienianej art. 8 stosuje się przepisy tej ustawy brzmieniu dotychczasowym;
+- **3)** ustawie zmienianej art. 9 stosuje się przepisy tej ustawy brzmieniu dotychczasowym;
+- **4)** ustawie zmienianej art. 12 stosuje się przepisy tej ustawy brzmieniu dotychczasowym;
+- **5)** ustawie zmienianej art. 13 stosuje się przepisy tej ustawy brzmieniu dotychczasowym;
+- **6)** ustawie zmienianej art. 14 stosuje się przepisy tej ustawy brzmieniu dotychczasowym;
+- **7)** ustawie zmienianej art. 15 stosuje się przepisy tej ustawy brzmieniu dotychczasowym, z wyjątkiem określonym art. 39;
+- **8)** ustawie zmienianej art. 17 stosuje się przepisy tej ustawy brzmieniu dotychczasowym;
+- **9)** ustawie zmienianej art. 20 stosuje się przepisy tej ustawy brzmieniu dotychczasowym;
+- **10)** ustawie zmienianej art. 30 stosuje się przepisy tej ustawy brzmieniu dotychczasowym.” „Art. 48. Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
+- **1)** art. 6, art. 11, art. 18, art. 22, art. 24 pkt 4, 7 i 9, art. 38 oraz art. 40 ust. 1 i 2, które wchodzą życie z dniem 1 stycznia 2026 r.;
+- **2)** art. 28 oraz art. 44, które wchodzą życie po upływie 9 miesięcy od dnia ogłoszenia.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 18 października 2006 r. o wyrobie napojów spirytusowych
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -48,6 +61,9 @@ source: "isap-pdf"
 3. Napoje spirytusowe, o których mowa ust. 2, nie mogą być wytwarzane bezpośrednio wyniku destylacji po fermentacji alkoholowej.
 
 **Art. 1a.** Minister właściwy do spraw rynków rolnych, zwany dalej „ministrem”, wykonuje obowiązki państwa członkowskiego Unii Europejskiej zakresie powiadamiania Komisji Europejskiej o organie wyznaczonym do:
+
+- **1)** nadzorowania procesu dojrzewania (leżakowania) napoju spirytusowego, o którym mowa art. 13 ust. 6 rozporządzenia 2019/787;
+- **2)** przeprowadzenia kontroli, o której mowa art. 43 ust. 1 rozporządzenia 2019/787, napojów spirytusowych zakresie ich zgodności z przepisami rozporządzenia 2019/787.
 
 **Art. 2.** (uchylony)
 
@@ -86,7 +102,7 @@ source: "isap-pdf"
 3. Działalność gospodarczą zakresie wyrobu lub rozlewu napojów spirytusowych może wykonywać przedsiębiorca:
 
 - **1)** posiadający tytuł prawny do obiektów budowlanych, których ma być wykonywana taka działalność;
-- **2)** który nie był skazany prawomocnym wyrokiem sądu za przestępstwo przeciwko wiarygodności dokumentów, przeciwko mieniu, przeciwko obrotowi gospodarczemu, przeciwko obrotowi pieniędzmi i papierami wartościowymi lub za przestępstwo skarbowe, a przypadku przedsiębiorcy będącego: państwa jeżeli zostało przyjęte zabezpieczenie, o którym mowa art. 33d § 2 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ), wykonania decyzji określającej lub ustalającej wysokość zobowiązania podatkowego, o której mowa art. 52 ust. 3a ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, co potwierdzają wydane na jego wniosek zaświadczenia.
+- **2)** który nie był skazany prawomocnym wyrokiem sądu za przestępstwo przeciwko wiarygodności dokumentów, przeciwko mieniu, przeciwko obrotowi gospodarczemu, przeciwko obrotowi pieniędzmi i papierami wartościowymi lub za przestępstwo skarbowe, a przypadku przedsiębiorcy będącego: Ubezpieczenia Społecznego, a przypadku gdy zalega z należnościami z tytułu podatków stanowiących dochód budżetu państwa jeżeli zostało przyjęte zabezpieczenie, o którym mowa art. 33d § 2 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ), wykonania decyzji określającej lub ustalającej wysokość zobowiązania podatkowego, o której mowa art. 52 ust. 3a ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, co potwierdzają wydane na jego wniosek zaświadczenia.
     - **a)** osobą prawną którego członek zarządu nie był skazany prawomocnym wyrokiem sądu za przestępstwo przeciwko wiarygodności dokumentów, przeciwko mieniu, przeciwko obrotowi gospodarczemu, przeciwko obrotowi pieniędzmi i papierami wartościowymi lub za przestępstwo skarbowe,
     - **b)** spółką jawną którego wspólnik nie był skazany prawomocnym wyrokiem sądu za przestępstwa, o których mowa lit. a, a przypadku wspólnika będącego osobą prawną którego członek zarządu nie był skazany prawomocnym wyrokiem sądu za te przestępstwa,
     - **c)** spółką komandytową którego komplementariusz nie był skazany prawomocnym wyrokiem sądu za przestępstwa, o których mowa lit. a, a przypadku komplementariusza będącego osobą prawną którego członek zarządu nie był skazany prawomocnym wyrokiem sądu za te przestępstwa,
@@ -124,7 +140,7 @@ source: "isap-pdf"
 
 5. Oświadczenie, o którym mowa ust. 2 pkt 6, ust. 3 i 3a, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-6. Jeżeli wniosek o wpis do rejestru spełnia wymagania określone ust. 1, 2 i 5 oraz nie zachodzą przesłanki odmowy wpisu do rejestru określone art. 43 ust. 3 pkt 1 i 2 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, Dyrektor Generalny KOWR wpisuje przedsiębiorcę do rejestru. biorców, Dyrektor Generalny KOWR dokonuje zmiany wpisu rejestrze.
+6. Jeżeli wniosek o wpis do rejestru spełnia wymagania określone ust. 1, 2 i 5 oraz nie zachodzą przesłanki odmowy wpisu do rejestru określone art. 43 ust. 3 pkt 1 i 2 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, Dyrektor Generalny KOWR wpisuje przedsiębiorcę do rejestru. przesłanki odmowy wpisu do rejestru określone art. 43 ust. 3 pkt 1 i 2 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, Dyrektor Generalny KOWR dokonuje zmiany wpisu rejestrze.
 
 **Art. 7.**
 
@@ -208,6 +224,10 @@ source: "isap-pdf"
 
 **Art. 10.** W sprawach nieuregulowanych ustawie dotyczących podejmowania, wykonywania i zakończenia działalności gospodarczej zakresie wyrobu lub rozlewu napojów spirytusowych stosuje się przepisy ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
 
+- **1)** spełniające wymagania zakresie definicji, opisu i prezentacji oraz sposobu produkcji napojów spirytusowych określone rozporządzeniu 2019/787 oraz przepisach wydanych trybie tego rozporządzenia;
+- **2)** wyprodukowane i dopuszczone do obrotu na terytorium państw Europejskiego Obszaru Gospodarczego, które nie są państwami członkowskimi Unii Europejskiej, zakresie, jakim korzystają ze swobody przepływu towarów na podstawie umów zawartych ze Wspólnotą Europejską.
+- **3)** (uchylony)
+
 **Art. 12.**
 
 1. Kontrolę urzędową rozumieniu art. 2 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/625 z dnia 15 marca 2017 r. sprawie kontroli urzędowych i innych czynności urzędowych przeprowadzanych celu zapewnienia stosowania prawa żywnościowego i paszowego oraz zasad dotyczących zdrowia i dobrostanu zwierząt, zdrowia roślin i środków ochrony roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001, (WE) nr 396/2005, (WE) nr 1069/2009, (WE) nr 1107/2009, (UE) nr 1151/2012, (UE) nr 652/2014, (UE) 2016/429 i (UE) 2016/2031, rozporządzenia Rady (WE) nr 1/2005 i (WE) nr 1099/2009 oraz dyrektywy Rady 98/58/WE, 1999/74/WE, 2007/43/WE, 2008/119/WE i 2008/120/WE, oraz uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 854/2004 i (WE) nr 882/2004, dyrektywy Rady 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/WE, 96/93/WE i 97/78/WE oraz decyzję Rady 92/438/EWG (rozporządzenie sprawie kontroli urzędowych) (Dz. Urz. UE L 95 z 07.04.2017, str. 1, z późn. zm. ) zakresie spełniania przez napoje spirytusowe wymagań określonych rozporządzeniu 2019/787 oraz przepisach wydanych jego trybie przeprowadzają wojewódzcy inspektorzy jakości handlowej artykułów rolno-spożywczych zgodnie z przepisami ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2023 r. poz. 1980).
@@ -224,7 +244,7 @@ source: "isap-pdf"
 2. W ewidencji leżakowania umieszcza się:
 
 - **1)** firmę przedsiębiorcy, jego siedzibę i adres, adres do doręczeń oraz adres miejsca prowadzenia przez tego przedsiębiorcę składu podatkowego, którym leżakuje alkohol etylowy;
-- **2)** informacje o każdej partii leżakowanego alkoholu etylowego rozumianej jako wyodrębniona, jednolita ilość alkoholu etylowego o tych samych właściwościach organoleptycznych i fizykochemicznych, zwanej dalej „partią leżakowanego alkoholu”, wprowadzanej do składu podatkowego lub wyprowadzanej z tego składu podatkowego, wpisując:
+- **2)** informacje o każdej partii leżakowanego alkoholu etylowego rozumianej jako wyodrębniona, jednolita ilość alkoholu etylowego o tych samych właściwościach organoleptycznych i fizykochemicznych, zwanej dalej „partią leżakowanego alkoholu”, wprowadzanej do składu podatkowego lub wyprowadzanej z tego składu podatkowego, wpisując: wanego alkoholu:
     - **a)** numer referencyjny elektronicznego dokumentu administracyjnego, o którym mowa rozporządzeniu Komisji (WE) nr 684/2009 z dnia 24 lipca 2009 r. sprawie wykonania dyrektywy Rady 2008/118/WE odniesieniu do skomputeryzowanych procedur przemieszczania wyrobów akcyzowych procedurze zawieszenia poboru akcyzy (Dz. Urz. UE L 197 z 29.07.2009, str. 24, z późn. zm. ), zwanego dalej „e-AD”, albo
     - **b)** lokalny numer referencyjny umieszczony dokumencie zastępującym e-AD przypadku gdy krajowy system teleinformatyczny służący do obsługi przemieszczania wyrobów akcyzowych z zastosowaniem procedury zawieszenia poboru akcyzy, o którym mowa przepisach o podatku akcyzowym, jest niedostępny,
     - **c)** niepowtarzalny numer identyfikacyjny, o którym mowa art. 12b ust. 4 pkt 7, karty informacyjnej partii leżakowanego alkoholu, zwanej dalej „kartą leżakowania” przypadku przewozu alkoholu etylowego między składami podatkowymi na terytorium Rzeczypospolitej Polskiej,
@@ -325,6 +345,19 @@ source: "isap-pdf"
 
 **Art. 43a.** Kto, wbrew obowiązkowi, o którym mowa:
 
+- **1)** art. 12a ust. 1:
+    - **a)** nie prowadzi ewidencji leżakowania,
+    - **b)** nie produkuje lub nie leżakuje alkoholu etylowego składzie podatkowym,
+
+- **2)** art. 12a ust. 2, nie umieszcza ewidencji leżakowania informacji, o których mowa tym przepisie, lub wprowadza do ewidencji leżakowania informacje niezgodne ze stanem faktycznym,
+- **3)** art. 12a ust. 4, nie prowadzi ewidencji leżakowania zgodnie z wymaganiami określonymi tym przepisie,
+- **4)** art. 12a ust. 5, nie umieszcza ewidencji leżakowania informacji terminie określonym tym przepisie,
+- **5)** art. 12a ust. 6, nie przekazuje właściwemu naczelnikowi informacji, o których mowa tym przepisie, lub przekazuje takie informacje niezgodne ze stanem faktycznym albo po terminie określonym tym przepisie,
+- **6)** art. 12b ust. 1, nie sporządza karty leżakowania lub sporządza kartę leżakowania niezgodnie ze stanem faktycznym lub niezgodnie z informacjami zawartymi ewidencji leżakowania, lub sporządza kartę leżakowania niezgodnie z wymaganiami określonymi art. 12b ust. 2, 3 lub 4,
+- **7)** art. 12b ust. 7 pkt 1, nie przechowuje karty leżakowania, którą sporządził, albo jej elektronicznej wersji,
+- **8)** art. 12b ust. 7 pkt 2, nie przekazuje przedsiębiorcy prowadzącemu skład podatkowy, do którego jest wprowadzany alkohol etylowy, kopii karty leżakowania albo jej elektronicznej wersji, lub przekazuje kopię karty leżakowania albo jej elektroniczną wersję po terminie określonym tym przepisie,
+- **9)** art. 12b ust. 8, nie przechowuje kart leżakowania, elektronicznych wersji kart leżakowania lub kopii kart leżakowania przez okres wskazany tym przepisie podlega karze grzywny.
+
 **Art. 44.**
 
 1. Kto bez wymaganego wpisu do rejestru wyrabia lub rozlewa napoje spirytusowe, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
@@ -332,6 +365,12 @@ source: "isap-pdf"
 2. Kto dopuszcza się czynu określonego ust. 1 stosunku do napojów spirytusowych o znacznej wartości, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
 **Art. 44a.** Kto, będąc wpisanym do rejestru, wbrew obowiązkowi, o którym mowa:
+
+- **1)** art. 4 ust. 1:
+    - **a)** pkt 1, nie wdraża systemu wewnętrznej kontroli wyrobu lub rozlewu napojów spirytusowych,
+    - **b)** pkt 3, nie wyznacza osoby odpowiedzialnej za kontrolę jakości napojów spirytusowych, tym przepisie,
+
+- **3)** art. 9, nie zawiadamia o zakończeniu albo zawieszeniu wykonywania działalności gospodarczej zakresie wyrobu lub rozlewu napojów spirytusowych podlega karze grzywny.
 
 **Art. 44b.**
 

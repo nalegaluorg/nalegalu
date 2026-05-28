@@ -2,11 +2,7 @@
 
 Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 5 września 2005 r. sygn. akt P 18/04*
 
-Łącznie: **2** orzeczeń
-
-## art. 160 (1)
-
-- 2009-12-16 | SN | [I CSK 175/09](https://www.saos.org.pl/judgments/91496) | Wyrok ★
+Łącznie: **1** orzeczeń
 
 ## art. 401(1) (1)
 

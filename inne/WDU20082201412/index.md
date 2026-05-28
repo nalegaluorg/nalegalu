@@ -1,0 +1,176 @@
+---
+title: Ustawa z dnia 15 października 2008 r. o zmianie ustawy o gospodarce nieruchomościami
+address: WDU20082201412
+eli: DU/2008/1412
+publisher: DU
+year: 2008
+pos: 1412
+act_type: Ustawa
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Ustawa z dnia 15 października 2008 r. o zmianie ustawy o gospodarce nieruchomościami
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2008 nr 220 poz. 1412 |
+| ISAP | WDU20082201412 |
+| Typ aktu | Ustawa |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2008-10-15 |
+| Data wydania | 2008-12-12 |
+| Wejście w życie | 2009-01-01 |
+| Ostatnia zmiana | 2024-03-15 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082201412) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1412/text.pdf) |
+
+**Art. 1.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2004 r. Nr 261, poz. 2603, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
+
+2. Przepisów ustawy nie stosuje się do nieruchomości służących wykonywaniu zadań placówek zagranicznych Rzeczypospolitej Polskiej w rozumieniu przepisów o służbie zagranicznej. ” ;
+
+- **2)** w art. 4 pkt 9 otrzymuje brzmienie: „
+- **9)** właściwym organie – należy przez to rozumieć starostę, wykonującego zadanie z zakresu administracji rządowej, w odniesieniu do nieruchomości stanowiących własność Skarbu Państwa oraz organ wykonawczy gminy, powiatu i województwa w odniesieniu do nieruchomości stanowiących odpowiednio własność gminy, powiatu i województwa; ” ;
+- **3)** w art. 13 ust. 2a otrzymuje brzmienie: „
+
+2a. Darowizny nieruchomości stanowiącej przedmiot własności Skarbu Państwa dokonuje starosta, wykonujący zadanie z zakresu administracji rządowej – za zgodą wojewody, a nieruchomości stanowiącej przedmiot własności jednostki samorządu terytorialnego jej organ wykonawczy – za zgodą rady albo sejmiku. Odstąpienie od odwołania darowizny następuje za zgodą organu, który wyraził zgodę na jej dokonanie. Zgody nie wymaga dokonanie darowizny przez ministra właściwego do spraw Skarbu Państwa, o której mowa w art. 59 ust. 1. ” ;
+
+- **4)** w art. 14 ust. 5 otrzymuje brzmienie: „
+
+5. Zawarcie umów w sprawach, o których mowa w ust. 1–4, wymaga uprzedniej zgody wojewody w odniesieniu do nieruchomości stanowiących własność Skarbu Państwa, z wyłączeniem umów zawieranych przez ministra właściwego do spraw Skarbu Państwa w odniesieniu do nieruchomości, o których mowa w art. 57 ust. 1, oraz nieruchomości ujętych w ewidencji, o której mowa w art. 60a ust. 2 pkt 1, albo zgody odpowiednio rady lub sejmiku w odniesieniu do nieruchomości stanowiących własność jednostek samorządu terytorialnego. ” ;
+
+- **5)** w art. 23 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zasobem nieruchomości Skarbu Państwa gospodarują, z zastrzeżeniem art. 43 ust. 2 i 4, art. 51, art. 57 ust. 1, art. 58–60 oraz art. 60a, starostowie, wykonujący zadania z zakresu administracji rządowej, a w szczególności: ” ;
+- **6)** w art. 32 ust. 1a otrzymuje brzmienie: „
+
+1a. Nieruchomość gruntowa stanowiąca własność Skarbu Państwa może być sprzedana użytkownikowi wieczystemu za zgodą wojewody. Zgody wojewody nie wymaga sprzedaż na rzecz użytkownika wieczystego nieruchomości, o których mowa w art. 51 ust. 2 i art. 57 ust. 1. ” ;
+
+- **7)** w art. 34 ust. 6 otrzymuje brzmienie: „
+
+6. Wojewoda w odniesieniu do nieruchomości stanowiących własność Skarbu Państwa, a odpowiednia rada lub sejmik w odniesieniu do nieruchomości stanowiących własność jednostki samorządu terytorialnego, mogą przyznać, odpowiednio w drodze zarządzenia lub uchwały, pierwszeństwo w nabywaniu lokali ich najemcom lub dzierżawcom, z wyłączeniem nieruchomości, o których mowa w art. 57 ust. 1, art. 60 ust. 1 i art. 60a ust. 1. ” ;
+
+- **8)** w art. 35: ust. 1a otrzymuje brzmienie: „
+    - **a)**
+
+1a. Minister właściwy do spraw Skarbu Państwa w odniesieniu do nieruchomości, o których mowa w art. 57 ust. 1, oraz do nieruchomości ujętych w ewidencji, o której mowa w art. 60a ust. 2 pkt 1, sporządza i podaje do publicznej wiadomości wykaz nieruchomości przeznaczonych do sprzedaży, do oddania w użytkowanie, najem lub dzierżawę. Minister właściwy do spraw Skarbu Państwa zamieszcza wykaz na stronach internetowych Biuletynu Informacji Publicznej przez okres 21 dni, a ponadto informację o zamieszczeniu tego wykazu podaje do publicznej wiadomości przez ogłoszenie w prasie lokalnej o zasięgu obejmującym co najmniej powiat na terenie którego położona jest nieruchomość. ” , po ust. 1a dodaje się ust. 1b w brzmieniu: „
+
+- **b)**
+
+1b. Obowiązek, o którym mowa w ust. 1 i 1a, nie dotyczy oddania nieruchomości w najem lub dzierżawę na czas oznaczony do 3 miesięcy. Wykaz sporządza się i podaje do publicznej wiadomości, jeżeli po umowie zawartej na czas oznaczony do 3 miesięcy strony zawierają kolejne umowy, których przedmiotem jest ta sama nieruchomość. ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W wykazie, o którym mowa w ust. 1 i 1a, określa się odpowiednio: ” ;
+
+- **c)**
+- **9)** art. 36 otrzymuje brzmienie: „
+
+**Art. 36.** W przypadkach naruszenia przez właściwy organ albo ministra właściwego do spraw Skarbu Państwa w odniesieniu do nieruchomości, o których mowa w art. 57 ust. 1, oraz do nieruchomości ujętych w ewidencji, o której mowa w art. 60a ust. 2 pkt 1, przepisów art. 34 ust. 1- 5 i 7 Skarb Państwa lub jednostka samorządu terytorialnego ponoszą odpowiedzialność na zasadach ogólnych. ” ;
+
+- **10)** w art. 37 dodaje się ust. 5 w brzmieniu: „
+
+5. Minister właściwy do spraw Skarbu Państwa może odstąpić od obowiązku przetargowego trybu zawarcia umów, o których mowa w ust. 3 i 4, w odniesieniu do nieruchomości, o których mowa w art. 57 ust. 1, oraz do nieruchomości ujętych w ewidencji, o której mowa w art. 60a ust. 2 pkt 1, bez konieczności odpowiednio zwolnienia z obowiązku lub wyrażenia zgody przez wojewodę. ” ;
+
+- **11)** w art. 38: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Przetarg ogłasza, organizuje i przeprowadza właściwy organ albo minister właściwy do spraw Skarbu Państwa w odniesieniu do nieruchomości, o których mowa w art. 57 ust. 1, oraz do nieruchomości ujętych w ewidencji, o której mowa w art. 60a ust. 2 pkt 1. ” , ust. 4 otrzymuje brzmienie: „
+
+- **b)**
+
+4. Właściwy organ albo minister właściwy do spraw Skarbu Państwa w odniesieniu do nieruchomości, o których mowa w art. 57 ust. 1, oraz do nieruchomości ujętych w ewidencji, o której mowa w art. 60a ust. 2 pkt 1, może odwołać ogłoszony przetarg jedynie z ważnych powodów, niezwłocznie podając informację o odwołaniu przetargu do publicznej wiadomości, w sposób określony w ust. 2. W informacji podaje się także przyczynę odwołania przetargu. ” ;
+
+- **12)** w art. 39 ust. 1 i 2 otrzymują brzmienie: „
+
+1. Jeżeli pierwszy przetarg zakończył się wynikiem negatywnym, w okresie nie krótszym niż 30 dni, ale nie dłuższym niż 6 miesięcy, licząc od dnia jego zamknięcia, przeprowadza się drugi przetarg, w którym właściwy organ albo minister właściwy do spraw Skarbu Państwa, w odniesieniu do nieruchomości, o których mowa w art. 57 ust. 1, oraz do nieruchomości ujętych w ewidencji, o której mowa w art. 60a ust. 2 pkt 1, może obniżyć cenę wywoławczą nieruchomości ustaloną przy ogłoszeniu pierwszego przetargu, stosownie do art. 67 ust. 2 pkt 2.
+
+2. Jeżeli drugi przetarg zakończył się wynikiem negatywnym, właściwy organ albo minister właściwy do spraw Skarbu Państwa w odniesieniu do nieruchomości, o których mowa w art. 57 ust. 1, oraz do nieruchomości ujętych w ewidencji, o której mowa w art. 60a ust. 2 pkt 1, w okresie nie krótszym niż 30 dni, ale nie dłuższym niż 6 miesięcy, licząc od dnia jego zamknięcia, może zbyć nieruchomość w drodze rokowań albo organizować kolejne przetargi. Przy ustalaniu warunków kolejnych przetargów stosuje się zasady obowiązujące przy organizowaniu drugiego przetargu. ” ;
+
+- **13)** w art. 40 ust. 5 otrzymuje brzmienie: „
+
+5. Uczestnik przetargu może, w terminie 7 dni od dnia ogłoszenia wyniku przetargu ustnego lub doręczenia zawiadomienia o wyniku przetargu pisemnego, zaskarżyć czynności związane z przeprowadzeniem przetargu do wojewody, jeżeli przetarg dotyczy nieruchomości Skarbu Państwa, albo do organu wykonawczego jednostki samorządu terytorialnego, jeżeli przetarg dotyczy nieruchomości stanowiących własność tej jednostki. Jeżeli przetarg dotyczy nieruchomości, o których mowa w art. 57 ust. 1, oraz nieruchomości ujętych w ewidencji, o której mowa w art. 60a ust. 2 pkt 1, uczestnik przetargu może zaskarżyć czynności związane z przeprowadzeniem przetargu do ministra właściwego do spraw Skarbu Państwa. ” ;
+
+- **14)** w art. 43 ust. 3 otrzymuje brzmienie: „
+
+3. Nieruchomości, o których mowa w art. 60a ust. 1, oddane w trwały zarząd Rządowemu Centrum Legislacji, Prokuratorii Generalnej Skarbu Państwa, ministerstwom, urzędom centralnym i urzędom wojewódzkim lub części tych nieruchomości mogą być oddawane w najem, dzierżawę lub użyczenie za zgodą ministra właściwego do spraw Skarbu Państwa. ” ;
+
+- **15)** w art. 45 ust. 1 otrzymuje brzmienie: „
+
+1. Trwały zarząd na rzecz jednostki organizacyjnej ustanawia właściwy organ, w drodze decyzji, z zastrzeżeniem art. 60 ust. 2 oraz art. 60a ust. 3. ” ;
+
+- **16)** w art. 48 ust. 3 otrzymuje brzmienie: „
+
+3. Jeżeli przekazanie trwałego zarządu przez jednostkę organizacyjną następuje na rzecz jednostki wymienionej w art. 60 ust. 1 albo w art. 60a ust. 1, o ustanowieniu i wygaśnięciu trwałego zarządu orzeka właściwy organ albo minister właściwy do spraw Skarbu Państwa w odniesieniu do nieruchomości oddanych w trwały zarząd jednostkom wymienionym w art. 60 ust. 1 lub art. 60a ust. 1. ” ;
+
+- **17)** w art. 49 ust. 2 otrzymuje brzmienie: „
+
+2. Jeżeli likwidacja jednostki organizacyjnej następuje w wyniku przekształceń organizacyjnych, właściwy organ albo minister właściwy do spraw Skarbu Państwa w odniesieniu do nieruchomości ujętych w ewidencji, o której mowa w art. 60a ust. 2 pkt 1, orzeka o wygaśnięciu trwałego zarządu przysługującego likwidowanej jednostce organizacyjnej albo o wygaśnięciu trwałego zarządu przysługującego likwidowanej jednostce organizacyjnej z równoczesnym ustanowieniem trwałego zarządu na rzecz jednostek organizacyjnych utworzonych w wyniku tych przekształceń lub na rzecz jednostek przejmujących zadania jednostki likwidowanej. ” ;
+
+- **18)** w art. 60: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Nieruchomościami wchodzącymi w skład zasobu nieruchomości Skarbu Państwa przeznaczonymi na potrzeby statutowe Kancelarii Sejmu, Kancelarii Senatu, Kancelarii Prezydenta Rzeczypospolitej Polskiej, Trybunału Konstytucyjnego, Rzecznika Praw Obywatelskich, Sądu Najwyższego, Naczelnego Sądu Administracyjnego i innych sądów administracyjnych, Najwyższej Izby Kontroli, Krajowej Rady Radiofonii i Telewizji, Krajowego Biura Wyborczego, Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz Państwowej Inspekcji Pracy gospodaruje minister właściwy do spraw Skarbu Państwa w sposób określony w ust. 2, 3 i 4. ” , ust. 2 otrzymuje brzmienie: „
+
+- **b)**
+
+2. Minister właściwy do spraw Skarbu Państwa oddaje nieodpłatnie, w drodze decyzji, jednostkom organizacyjnym, o których mowa w ust. 1, w trwały zarząd nieruchomości stanowiące zasób nieruchomości Skarbu Państwa, po uprzednim przejęciu niezbędnej dokumentacji od starosty, wykonującego zadanie z zakresu administracji rządowej. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+
+- **c)**
+
+2a. Jednostki organizacyjne, o których mowa w ust. 1, wykonując trwały zarząd nieruchomości:
+
+- **1)** dokonują czynności faktycznych i prawnych związanych z utrzymaniem tych nieruchomości;
+- **2)** współpracują z ministrem właściwym do spraw Skarbu Państwa oraz z innymi organami, które na mocy odrębnych przepisów gospodarują nieruchomościami Skarbu Państwa, a także z właściwymi jednostkami samorządu terytorialnego;
+- **3)** podejmują czynności w postępowaniach sądowych i administracyjnych, w szczególności w sprawach: dotyczących własności lub innych praw rzeczowych na nieruchomości, ze stosunku najmu, dzierżawy lub użyczenia, o stwierdzenie nabycia własności nieruchomości przez zasiedzenie, dotyczących podziału nieruchomości. ” , ust. 3 i 4 otrzymują brzmienie: „
+    - **d)**
+
+3. Jeżeli nieruchomości oddane w trwały zarząd jednostkom organizacyjnym, o których mowa w ust. 1, stały się im zbędne, minister właściwy do spraw Skarbu Państwa, po uprzednim wydaniu decyzji o wygaśnięciu tego zarządu, przekazuje je staroście, wykonującemu zadanie z zakresu administracji rządowej. Przepisy art. 46 i 47 stosuje się odpowiednio.
+
+4. W razie likwidacji lub przekształcenia jednostek, o których mowa w ust. 1, minister właściwy do spraw Skarbu Państwa rozstrzyga, w terminie 6 miesięcy od zakończenia likwidacji lub przekształcenia, o sposobie zagospodarowania nieruchomości będących w trwałym zarządzie tych jednostek. Po upływie tego terminu niezagospodarowane nieruchomości przekazuje się do starosty, wykonującego zadanie z zakresu administracji rządowej. ” ;
+
+- **19)** po art. 60 dodaje się art. 60a w brzmieniu: „
+
+**Art. 60a.**
+
+1. Nieruchomościami wchodzącymi w skład zasobu nieruchomości Skarbu Państwa przeznaczonymi na:
+
+- **1)** potrzeby Kancelarii Prezesa Rady Ministrów, Rządowego Centrum Legislacji, Prokuratorii Generalnej Skarbu Państwa, ministerstw, urzędów centralnych i urzędów wojewódzkich,
+- **2)** potrzeby statutowe Generalnej Dyrekcji Dróg Krajowych i Autostrad, z wyłączeniem rejonów gospodaruje minister właściwy do spraw Skarbu Państwa, z zastrzeżeniem art. 43 ust. 2 i 4.
+
+2. W ramach gospodarowania minister właściwy do spraw Skarbu Państwa:
+
+- **1)** prowadzi, zgodnie z katastrem nieruchomości, ewidencję nieruchomości przeznaczonych na potrzeby jednostek organizacyjnych wymienionych w ust. 1;
+- **2)** prowadzi, zgodnie z zasadami prawidłowej gospodarki, politykę planowania w zakresie nabywania albo przejmowania od starosty, wykonującego zadanie z zakresu administracji rządowej, nieruchomości na potrzeby jednostek organizacyjnych wymienionych w ust. 1 oraz sprzedaży albo przekazywania do starosty, wykonującego zadanie z zakresu administracji rządowej, nieruchomości zbędnych dla potrzeb jednostek organizacyjnych wymienionych w ust. 1;
+- **3)** zapewnia wycenę nieruchomości;
+- **4)** sporządza plan wykorzystania nieruchomości – art. 23 ust. 1d stosuje się odpowiednio;
+- **5)** dokonuje czynności faktycznych i prawnych związanych z utrzymaniem nieruchomości nieoddanych w trwały zarząd;
+- **6)** współpracuje z właściwym organem oraz z innymi organami, które na mocy odrębnych przepisów gospodarują nieruchomościami Skarbu Państwa, a także z właściwymi jednostkami samorządu terytorialnego;
+- **7)** sprzedaje, a także wydzierżawia, wynajmuje, użycza albo przekazuje do starosty, wykonującego zadanie z zakresu administracji rządowej, nieruchomości, jeżeli stały się zbędne dla jednostek organizacyjnych wymienionych w ust. 1;
+- **8)** nabywa na własność lub w użytkowanie wieczyste nieruchomości na potrzeby jednostek organizacyjnych wymienionych w ust. 1, z zastrzeżeniem art. 17;
+- **9)** dokonuje zamiany praw własności, zamiany prawa własności na prawo użytkowania wieczystego lub prawa użytkowania wieczystego na własność, a także zamiany praw użytkowania wieczystego, w stosunku do nieruchomości będących w jego ewidencji, między Skarbem Państwa a jednostkami samorządu terytorialnego, na potrzeby jednostek organizacyjnych wymienionych w ust. 1;
+- **10)** podejmuje czynności w postępowaniach sądowych i administracyjnych, w szczególności w sprawach dotyczących własności lub innych praw rzeczowych na nieruchomości, o stwierdzenie nabycia własności nieruchomości przez zasiedzenie, dotyczących podziału nieruchomości, a także w sprawach ze stosunku najmu, dzierżawy lub użyczenia, w odniesieniu do nieruchomości nieoddanych w trwały zarząd;
+- **11)** składa wnioski o założenie księgi wieczystej dla nieruchomości Skarbu Państwa oraz o wpis w księdze wieczystej;
+- **12)** ustanawia ograniczone prawa rzeczowe w stosunku do nieruchomości, o których mowa w ust. 1;
+- **13)** ustanawia nieodpłatnie trwały zarząd w sposób określony w ust. 3–6.
+
+3. Minister właściwy do spraw Skarbu Państwa oddaje nieodpłatnie, w drodze decyzji, jednostkom organizacyjnym, o których mowa w ust. 1, w trwały zarząd nieruchomości, o których mowa w ust. 1.
+
+4. Minister właściwy do spraw Skarbu Państwa może orzec, w drodze decyzji, o przekazaniu trwałego zarządu między jednostkami organizacyjnymi, o których mowa w ust. 1, na ich wniosek. Przepisy art. 48 stosuje się odpowiednio.
+
+5. Starosta wykonujący zadanie z zakresu administracji rządowej, przekazuje wraz z dokumentacją nieruchomości należące do zasobu nieruchomości Skarbu Państwa, niezbędne dla potrzeb jednostek organizacyjnych wymienionych w ust. 1, ministrowi właściwemu do spraw Skarbu Państwa, na jego wniosek, w terminie 2 miesięcy od dnia złożenia wniosku.
+
+6. Jeżeli nieruchomości oddane w trwały zarząd jednostkom organizacyjnym, o których mowa w ust. 1, stały się im zbędne, minister właściwy do spraw Skarbu Państwa, po uprzednim wydaniu decyzji o wygaśnięciu trwałego zarządu, rozstrzyga o sposobie zagospodarowania nieruchomości. Przepisy art. 46 i 47 stosuje się odpowiednio. ” ;
+
+- **20)** w art. 61 ust. 2 i 3 otrzymują brzmienie: „
+
+2. Umowy z podmiotami, o których mowa w ust. 1, zawiera minister właściwy do spraw Skarbu Państwa. Minister może udzielić bonifikaty, o której mowa w art. 68 ust. 1 pkt 11, na wniosek ministra właściwego do spraw zagranicznych.
+
+3. Jednostka samorządu terytorialnego jest obowiązana wskazać i przenieść własność nieruchomości na rzecz Skarbu Państwa, jeżeli jest ona niezbędna na cele, o których mowa w ust. 1. Umowę przeniesienia nieruchomości na własność Skarbu Państwa zawiera z tą jednostką starosta, wykonujący zadanie z zakresu administracji rządowej, w porozumieniu z ministrem właściwym do spraw Skarbu Państwa. ” .
+
+**Art. 2.** Starostowie, wykonujący zadania z zakresu administracji rządowej, przekażą ministrowi właściwemu do spraw Skarbu Państwa do prowadzonej przez niego ewidencji niezbędną dokumentację dotyczącą nieruchomości będących w trwałym zarządzie jednostek, o których mowa w art. 60a ust. 1 ustawy, o której mowa w art. 1, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 3.** Minister właściwy do spraw administracji publicznej przekaże ministrowi właściwemu do spraw Skarbu Państwa do prowadzonej przez niego ewidencji niezbędną dokumentację dotyczącą nieruchomości będących w trwałym zarządzie jednostek, o których mowa w art. 60 ust. 1 oraz art. 60a ust. 1 ustawy, o której mowa w art. 1, w terminie 2 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 4.**
+
+1.
+
+

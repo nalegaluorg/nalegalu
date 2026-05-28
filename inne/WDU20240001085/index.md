@@ -8,10 +8,10 @@ pos: 1085
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 lipca 2024 r.
+# Rozporządzenie Ministra Zdrowiaz dnia 16 lipca 2024 r. w sprawie limitu przyjęć na studia na kierunkach lekarskim i lekarsko-dentystycznym
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,34 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2024-07-16 |
 | Data wydania | 2024-07-22 |
+| Wejście w życie | 2024-07-23 |
 | Ostatnia zmiana | 2024-09-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001085) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1085/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 16 lipca 2024 r.
-sprawie limitu przyjęć na studia na kierunkach lekarskim i lekarsko-dentystycznym Na podstawie art. 444 ust. 2 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r.
-poz. 742, z późn. zm. ) zarządza się, co następuje: § 1. 1. Określa się limit przyjęć na studia na kierunkach lekarskim i lekarsko-dentystycznym poszczególnych uczelniach roku akademickim 2024/2025.
-2. Limit przyjęć na studia na kierunku lekarskim poszczególnych uczelniach roku akademickim 2024/2025 jest określony załączniku nr 1 do rozporządzenia.
-3. Limit przyjęć na studia na kierunku lekarsko-dentystycznym poszczególnych uczelniach roku akademickim 2024/2025 jest określony załączniku nr 2 do rozporządzenia.
-§ 2. Rozporządzenie wchodzi życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: I. Leszczyna LIMIT PRZYJĘĆ NA STUDIA NA KIERUNKU LEKARSKIM W POSZCZEGÓLNYCH UCZELNIACH W ROKU AKADEMICKIM 2024/2025 Jednolite studia Jednolite studia magisterskie magisterskie prowadzone Lp. Nazwa uczelni prowadzone formie studiów formie studiów stacjonarnych stacjonarnych języku polskim języku polskim miejsca dla cudzoziemców Jednolite studia Jednolite studia magisterskie magisterskie prowadzone prowadzone formie studiów formie studiów stacjonarnych lub niestacjonarnych niestacjonarnych języku polskim języku innym niż język polski 1 Medyczny 184 2 126 126 Białymstoku 2 Mikołaja Kopernika 204 5 72 84 Toruniu 3 Gdański 326 6 171 50 Medyczny 4 Śląski Medyczny 731 10 126 160 Katowicach 5 Jagielloński 260 5 0 125 Krakowie Medyczny 6 Lublinie 360 4 90 170 Medyczny 670 15 80 104 Łodzi 7 (w tym miejsca finansowane przez Ministra Obrony (200) (0) (0) (0) Narodowej) Medyczny 8 im. Karola Marcinkowskiego 340 2 140 200 Poznaniu Pomorski 9 Medyczny Szczecinie 250 2 70 120 Warszawski 10 Medyczny 550 12 170 150 Medyczny 355 5 145 140 11 im. Piastów Śląskich we Wrocławiu (w tym filia Wałbrzychu) (50) (0) (0) (0) 12 Warmińsko-Mazurski 170 0 0 110 Olsztynie Jana 13 Kochanowskiego 100 6 75 50 Kielcach 14 Rzeszowski 110 5 60 40 15 Zielonogórski 100 0 40 0 Zielonej Górze Krakowska Akademia 16 im. Andrzeja Frycza 160 0 0 80 Modrzewskiego z siedzibą Krakowie 17 Uczelnia Łazarskiego 120 10 0 0 z siedzibą Warszawie 18 Opolski 120 0 50 0 19 Radomski 120 10 40 0 im. Kazimierza Pułaskiego 20 Akademia Śląska 225 0 90 130 Kardynała 21 Stefana Wyszyńskiego 70 2 60 0 Warszawie 22 Uczelnia Medyczna im. Marii Skłodowskiej-Curie 190 0 60 0 Warszawie 23 Jana Długosza 60 0 30 0 Częstochowie Akademia Medycznych 24 i Społecznych Nauk 95 5 0 0 Stosowanych 25 Katolicki Lubelski 60 0 0 0 Jana Pawła II 26 Akademia Mazowiecka 72 0 0 0 27 Warszawski 60 0 0 0 Akademia Kultury Społecznej 28 i Medialnej Toruniu 60 0 0 0 Akademia Nauk Stosowanych 29 Akademia Tarnowska 60 0 0 0 30 Politechnika Bydgoska 60 0 0 0 im. Jana i Jędrzeja Śniadeckich LIMIT PRZYJĘĆ NA STUDIA NA KIERUNKU LEKARSKO-DENTYSTYCZNYM W POSZCZEGÓLNYCH UCZELNIACH W ROKU AKADEMICKIM 2024/2025 Jednolite studia Jednolite studia magisterskie magisterskie prowadzone Lp. Nazwa uczelni prowadzone formie studiów formie studiów stacjonarnych stacjonarnych języku polskim języku polskim miejsca dla cudzoziemców Jednolite studia Jednolite studia magisterskie magisterskie prowadzone prowadzone formie studiów formie studiów stacjonarnych lub niestacjonarnych niestacjonarnych języku polskim języku innym niż język polski 1 Medyczny 73 1 18 0 Białymstoku 2 Gdański Medyczny 47 2 22 0 3 Śląski Medyczny 120 5 26 36 Katowicach 4 Jagielloński Krakowie 60 2 20 20 5 Medyczny 100 0 30 50 Lublinie 6 Medyczny 120 5 36 36 Łodzi Medyczny 7 im. Karola Marcinkowskiego 68 2 14 70 Poznaniu Pomorski 8 Medyczny 70 2 30 30 Szczecinie 9 Warszawski 84 4 30 22 Medyczny Medyczny 10 im. Piastów Śląskich 52 1 30 24 we Wrocławiu
+Treść rozporządzenia
+
+## Załącznik nr 1 — – Limit przyjęć na studia na kierunku lekarskim w poszczególnych uczelniach w roku akademickim 2024/2025
+
+## Załącznik nr 2 — – Limit przyjęć na studia na kierunku lekarsko-dentystycznym w poszczególnych uczelniach w roku akademickim 2024/2025
+
+Treść rozporządzenia
+Na podstawie art. 444 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.) zarządza się, co następuje:
+§ 1.
+1.
+Określa się limit przyjęć na studia na kierunkach lekarskim i lekarsko-dentystycznym w poszczególnych uczelniach w roku akademickim 2024/2025.
+2.
+Limit przyjęć na studia na kierunku lekarskim w poszczególnych uczelniach w roku akademickim 2024/2025 jest określony w załączniku nr 1 do rozporządzenia.
+3.
+Limit przyjęć na studia na kierunku lekarsko-dentystycznym w poszczególnych uczelniach w roku akademickim 2024/2025 jest określony w załączniku nr 2 do rozporządzenia.
+§ 2.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124 i 227. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 7 lipca 2023 r. w sprawie limitu przyjęć na studia na kierunkach lekarskim i lekarsko-dentystycznym (Dz. U. poz. 1322 i 2027).
+
+## Załącznik nr 1 — – Limit przyjęć na studia na kierunku lekarskim w poszczególnych uczelniach w roku akademickim 2024/2025
+
+Lp. Nazwa uczelni Jednolite studia magisterskie prowadzone w formie studiów stacjonarnych w języku polskim Jednolite studia magisterskie prowadzone w formie studiów stacjonarnych w języku polskim – miejsca dla cudzoziemców* Jednolite studia magisterskie prowadzone w formie studiów niestacjonarnych w języku polskim Jednolite studia magisterskie prowadzone w formie studiów stacjonarnych lub niestacjonarnych w języku innym niż język polski 1 Uniwersytet Medyczny w Białymstoku 184 2 126 126 2 Uniwersytet Mikołaja Kopernika w Toruniu 204 5 72 84 3 Gdański Uniwersytet Medyczny 326 6 171 50 4 Śląski Uniwersytet Medyczny w Katowicach 731 10 126 160 5 Uniwersytet Jagielloński w Krakowie 260 5 0 125 6 Uniwersytet Medyczny w Lublinie 360 4 90 170 7 Uniwersytet Medyczny w Łodzi(w tym miejsca finansowane przez Ministra Obrony Narodowej) 670(200) 15(0) 80(0) 104(0) 8 Uniwersytet Medyczny im. Karola Marcinkowskiego w Poznaniu 340 2 140 200 9 Pomorski Uniwersytet Medyczny w Szczecinie 250 2 70 120 10 Warszawski Uniwersytet Medyczny 550 12 170 150 11 Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu(w tym filia w Wałbrzychu) 355(50) 5(0) 145(0) 140(0) 12 Uniwersytet Warmińsko-Mazurski w Olsztynie 170 0 0 110 13 Uniwersytet Jana Kochanowskiego w Kielcach 100 6 75 50 14 Uniwersytet Rzeszowski 110 5 60 40 15 Uniwersytet Zielonogórski w Zielonej Górze 100 0 40 0 16 Krakowska Akademia im. Andrzeja Frycza Modrzewskiego z siedzibą w Krakowie 160 0 0 80 17 Uczelnia Łazarskiego z siedzibą w Warszawie 120 10 0 0 18 Uniwersytet Opolski 120 0 50 0 19 Uniwersytet Radomski im. Kazimierza Pułaskiego 120 10 40 0 20 Akademia Śląska 225 0 90 130 21 Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie 70 2 60 0 22 Uczelnia Medyczna im. Marii Skłodowskiej-Curie w Warszawie 190 0 60 0 23 Uniwersytet Jana Długosza w Częstochowie 60 0 30 0 24 Akademia Medycznych i Społecznych Nauk Stosowanych 95 5 0 0 25 Katolicki Uniwersytet Lubelski Jana Pawła II 60 0 0 0 26 Akademia Mazowiecka 72 0 0 0 27 Uniwersytet Warszawski 60 0 0 0 28 Akademia Kultury Społecznej i Medialnej w Toruniu – Akademia Nauk Stosowanych 60 0 0 0 29 Akademia Tarnowska 60 0 0 0 30 Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich 60 0 0 0 * Dotyczy cudzoziemców podejmujących i odbywających studia na podstawie art. 323 ust. 1 pkt 3 i 4 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce. Niewykorzystany limit przyjęć na studia dla cudzoziemców zwiększa limit przyjęć na jednolitych studiach magisterskich prowadzonych w formie studiów stacjonarnych w języku polskim.
+
+## Załącznik nr 2 — – Limit przyjęć na studia na kierunku lekarsko-dentystycznym w poszczególnych uczelniach w roku akademickim 2024/2025
+
+Lp. Nazwa uczelni Jednolite studia magisterskie prowadzone w formie studiów stacjonarnych w języku polskim Jednolite studia magisterskie prowadzone w formie studiów stacjonarnych w języku polskim – miejsca dla cudzoziemców* Jednolite studia magisterskie prowadzone w formie studiów niestacjonarnych w języku polskim Jednolite studia magisterskie prowadzone w formie studiów stacjonarnych lub niestacjonarnych w języku innym niż język polski 1 Uniwersytet Medyczny w Białymstoku 73 1 18 0 2 Gdański Uniwersytet Medyczny 47 2 22 0 3 Śląski Uniwersytet Medyczny w Katowicach 120 5 26 36 4 Uniwersytet Jagielloński w Krakowie 60 2 20 20 5 Uniwersytet Medyczny w Lublinie 100 0 30 50 6 Uniwersytet Medyczny w Łodzi 120 5 36 36 7 Uniwersytet Medyczny im. Karola Marcinkowskiego w Poznaniu 68 2 14 70 8 Pomorski Uniwersytet Medyczny w Szczecinie 70 2 30 30 9 Warszawski Uniwersytet Medyczny 84 4 30 22 10 Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu 52 1 30 24 * Dotyczy cudzoziemców podejmujących i odbywających studia na podstawie art. 323 ust. 1 pkt 3 i 4 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce. Niewykorzystany limit przyjęć na studia dla cudzoziemców zwiększa limit przyjęć na jednolitych studiach magisterskich prowadzonych w formie studiów stacjonarnych w języku polskim.
 

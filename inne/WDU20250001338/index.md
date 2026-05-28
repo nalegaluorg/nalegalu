@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o działalności pożytku publicznego i o wolontariacie
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 26 września 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 października 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-10-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001338) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1338/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 26 września 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o działalności pożytku publicznego i o wolontariacie
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 8 listopada 2024 r. o zmianie ustawy o działalności pożytku publicznego i o wolontariacie oraz ustawy o kołach gospodyń wiejskich (Dz. U. poz. 1761),
 2) ustawą z dnia 27 listopada 2024 r. o zmianie ustawy Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U.
@@ -35,6 +35,8 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 1) art. 3 i art. 4 ustawy z dnia 8 listopada 2024 r. o zmianie ustawy o działalności pożytku publicznego i o wolontariacie oraz ustawy o kołach gospodyń wiejskich (Dz. U. poz. 1761), które stanowią: „Art. 3. W roku 2025 wysokość limitu przychodów, o których mowa w art. 10a ust. 1 pkt 5 ustawy zmienianej w art. 1 oraz art. 24 ust. 1 pkt 3 ustawy zmienianej w art. 2, wynosi 1 000 000 zł.
 
 **Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 2026 r., z wyjątkiem art. 3, który wchodzi w życie z dniem 1 stycznia 2025 r.”;
+
+- **2)** art. 34 ustawy z dnia 27 listopada 2024 r. o zmianie ustawy Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. poz. 1940), który stanowi: „Art. 34. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 4 w zakresie art. 18b ust. 2, który wchodzi w życie z dniem 1 lipca 2025 r.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -52,6 +54,16 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 **Art. 1a.** Komitet do spraw Pożytku Publicznego, zwany dalej „Komitetem”, jest organem administracji rządowej właściwym w sprawach pożytku publicznego i wolontariatu, w tym programowania, koordynowania i organizowania współpracy organów administracji publicznej i podmiotów działających w sferze pożytku publicznego.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** dotacji rozumie się przez to dotację w rozumieniu art. 127 ust. 1 pkt 1 lit. e oraz art. 221 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530, z późn. zm. );
+- **2)** „środkach publicznych” rozumie się przez to środki publiczne, o których mowa w ustawie o finansach publicznych, przeznaczone na wydatki publiczne w rozumieniu tej ustawy;
+- **3)** wolontariuszu rozumie się przez to osobę fizyczną, która ochotniczo i bez wynagrodzenia wykonuje świadczenia na zasadach określonych w ustawie;
+- **4)** inicjatywie lokalnej rozumie się przez to formę współpracy jednostek samorządu terytorialnego z ich mieszkańcami, w celu wspólnego realizowania zadania publicznego na rzecz społeczności lokalnej;
+- **5)** operatorze projektu rozumie się przez to organizację pozarządową lub podmiot wymieniony w art. 3 ust. 3, którym organ administracji publicznej zleca realizację zadania publicznego w sferze, o której mowa w art. 4, w sposób, o którym mowa w art. 16a;
+- **6)** realizatorze projektu rozumie się przez to organizację pozarządową lub podmiot wymieniony w art. 3 ust. 3, którym operator projektu zleca wykonanie projektu;
+- **7)** projekcie rozumie się przez to zadanie publiczne w sferze, o której mowa w art. 4, realizowane przez realizatora projektu w sposób, o którym mowa w art. 16a;
+- **8)** Narodowym Instytucie rozumie się przez to Narodowy Instytut Wolności Centrum Rozwoju Społeczeństwa Obywatelskiego, o którym mowa w art. 1 ustawy z dnia 15 września 2017 r. o Narodowym Instytucie Wolności Centrum Rozwoju Społeczeństwa Obywatelskiego (Dz. U. z 2023 r. poz. 1618 oraz z 2025 r. poz. 531);
+- **9)** Dyrektorze Narodowego Instytutu rozumie się przez to Dyrektora, o którym mowa w art. 4 pkt 1 ustawy z dnia 15 września 2017 r. o Narodowym Instytucie Wolności Centrum Rozwoju Społeczeństwa Obywatelskiego.
 
 **Art. 3.**
 
@@ -135,7 +147,14 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 
 **Art. 4a.** Organizacje pozarządowe oraz podmioty wymienione w art. 3 ust. 3, z wyłączeniem stowarzyszeń jednostek samorządu terytorialnego, które:
 
+- **1)** wykonują zadania publiczne, lub
+- **2)** dysponują majątkiem publicznym udostępniają informację publiczną na zasadach i w trybie określonym w niniejszej ustawie.
+
 **Art. 4b.** Udostępnianie informacji publicznej następuje:
+
+- **1)** poprzez ogłaszanie informacji publicznej w Biuletynie Informacji Publicznej na zasadach, o których mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902), albo
+- **2)** poprzez ogłaszanie informacji publicznej na stronie internetowej organizacji pozarządowych oraz podmiotów, o których mowa w art. 4a, albo
+- **3)** na wniosek na zasadach, o których mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej.
 
 **Art. 4c.** W zakresie nieuregulowanym w niniejszej ustawie do udostępniania informacji publicznej stosuje się przepisy ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej.
 
@@ -504,6 +523,11 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 
 **Art. 17.** Organ administracji publicznej zlecający realizację zadania publicznego może dokonywać kontroli i oceny realizacji zadania, w szczególności:
 
+- **1)** stopnia realizacji zadania;
+- **2)** efektywności, rzetelności i jakości realizacji zadania;
+- **3)** prawidłowości wykorzystania środków publicznych otrzymanych na realizację zadania;
+- **4)** prowadzenia dokumentacji związanej z realizowanym zadaniem.
+
 **Art. 18.**
 
 1. Sprawozdanie z wykonania zadania publicznego określonego w umowie należy sporządzić w terminie 30 dni od dnia zakończenia realizacji zadania publicznego.
@@ -536,6 +560,10 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 2. Informację o unieważnieniu otwartego konkursu ofert organ administracji publicznej podaje do publicznej wiadomości w sposób określony w art. 13 ust. 3.
 
 **Art. 19.** Przewodniczący Komitetu określi, w drodze rozporządzenia:
+
+- **1)** wzory ofert, o których mowa w art. 14 ust. 1, 1a i 2,
+- **2)** ramowe wzory umów, o których mowa w art. 16 ust. 1, 1a i 6,
+- **3)** wzory sprawozdań, o których mowa w art. 18 uwzględniając konieczność zapewnienia niezbędnych informacji dotyczących wykonania zadania publicznego oraz biorąc pod uwagę liczbę oferentów, sposób i czas realizacji zadania publicznego, a także sposób jego rozliczenia.
 
 **Art. 19a.**
 
@@ -633,6 +661,10 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 2. W przypadku stowarzyszeń działalność, o której mowa w ust. 1 pkt 1, nie może być prowadzona wyłącznie na rzecz członków stowarzyszenia.
 
 **Art. 21.** W przypadku podmiotów, o których mowa w art. 3 ust. 3 pkt 1:
+
+- **1)** działalność pożytku publicznego określona w art. 20 ust. 1 pkt 1 podlega wyodrębnieniu w sposób zapewniający należytą identyfikację pod względem organizacyjnym i rachunkowym;
+- **2)** przepis art. 20 ust. 1 pkt 3 stosuje się do nadwyżki przychodu nad kosztami uzyskiwanej w wyniku prowadzenia działalności pożytku publicznego;
+- **3)** przepis art. 20 ust. 1 pkt 4 stosuje się odpowiednio, z uwzględnieniem szczegółowych zasad organizacji i działania tych jednostek, uregulowanych w przepisach dla nich właściwych, w tym w statutach lub innych aktach wewnętrznych.
 
 **Art. 22.**
 
@@ -1080,6 +1112,10 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 
 **Art. 38.** Rada może:
 
+- **1)** powoływać ekspertów;
+- **2)** zapraszać do uczestnictwa w jej posiedzeniach przedstawicieli organów administracji publicznej i organizacji pozarządowych oraz podmiotów wymienionych w art. 3 ust. 3 niereprezentowanych w Radzie, a także przedstawicieli rad wojewódzkich, powiatowych i gminnych;
+- **3)** zlecać przeprowadzanie badań i opracowanie ekspertyz związanych z realizacją jej zadań.
+
 **Art. 39.**
 
 1. Koszty funkcjonowania Rady związane z obsługą, przeprowadzaniem badań i opracowywaniem ekspertyz, a także z uczestnictwem w jej posiedzeniach członków Rady, ekspertów i osób, o których mowa w art. 38 pkt 2, pokrywa się z budżetu państwa z części, której dysponentem jest Kancelaria Prezesa Rady Ministrów.
@@ -1223,6 +1259,10 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 
 **Art. 41f.** Rada Powiatowa oraz Rada Gminna składa się z:
 
+- **1)** przedstawicieli organu stanowiącego odpowiednio powiatu lub gminy;
+- **2)** przedstawicieli organu wykonawczego odpowiednio powiatu lub gminy;
+- **3)** przedstawicieli organizacji pozarządowych oraz podmiotów wymienionych w art. 3 ust. 3, prowadzących działalność na terenie odpowiednio powiatu lub gminy, stanowiących co najmniej połowę członków.
+
 **Art. 41g.**
 
 1. Organ stanowiący odpowiednio powiatu lub gminy określi, w drodze uchwały, tryb powoływania członków oraz organizację i tryb działania odpowiednio Rady Powiatowej lub Rady Gminnej, biorąc pod uwagę potrzebę zapewnienia reprezentatywności organizacji pozarządowych oraz podmiotów, o których mowa w art. 3 ust. 3, terminy i sposób zgłaszania kandydatur na członków Rady Powiatowej lub Rady Gminnej oraz potrzebę zapewnienia sprawnego funkcjonowania tych Rad.
@@ -1258,6 +1298,9 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 **Art. 41k.** Wojewoda może ustanowić pełnomocnika wojewody do spraw społeczeństwa obywatelskiego. Przepisu art. 18 ust. 1 ustawy z dnia 23 stycznia 2009 r. o wojewodzie i administracji rządowej w województwie (Dz. U. z 2025 r. poz. 428) nie stosuje się.
 
 **Art. 41l.** Do zadań pełnomocnika wojewody do spraw społeczeństwa obywatelskiego należy:
+
+- **1)** monitorowanie wdrażania programów wspierania rozwoju społeczeństwa obywatelskiego oraz programów, o których mowa w art. 5b ust. 1;
+- **2)** koordynowanie współpracy jednostek administracji rządowej w województwie z organizacjami pozarządowymi, które zgodnie z zakresem swoich zadań statutowych działają na rzecz rozwoju społeczeństwa obywatelskiego.
 
 ### DZIAŁ III Wolontariat
 
@@ -1325,6 +1368,9 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 **Art. 48.** Jeżeli porozumienie zawarte między korzystającym, o którym mowa w art. 42 ust. 1 pkt 2 i 3, a wolontariuszem dotyczy wydelegowania wolontariusza w celu wykonywania przez niego świadczeń na terytorium innego państwa, na podstawie umowy międzynarodowej wiążącej Rzeczpospolitą Polską, wolontariuszowi przysługuje prawo do świadczeń i pokrycia kosztów ogólnie przyjętych w stosunkach danego rodzaju, chyba że umowy międzynarodowe stanowią inaczej.
 
 **Art. 49.** Wydatki na cele, o których mowa w art. 45 ust. 1 i 3 oraz w art. 46 ust. 3 i 6 stanowią:
+
+- **1)** koszty prowadzenia działalności statutowej organizacji pozarządowych oraz podmiotów wymienionych w art. 3 ust. 3 jako korzystających;
+- **2)** koszty korzystających, o których mowa w art. 42 ust. 1 pkt 2 i 3.
 
 **Art. 50.** Wartość świadczenia wolontariusza nie stanowi darowizny na rzecz korzystającego w rozumieniu przepisów Kodeksu cywilnego oraz przepisów podatkowych.
 

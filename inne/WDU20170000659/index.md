@@ -1,0 +1,143 @@
+---
+title: Ustawa z dnia 10 lutego 2017 r. o zmianie ustawy o finansach publicznych
+address: WDU20170000659
+eli: DU/2017/659
+publisher: DU
+year: 2017
+pos: 659
+act_type: Ustawa
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Ustawa z dnia 10 lutego 2017 r. o zmianie ustawy o finansach publicznych
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2017 poz. 659 |
+| ISAP | WDU20170000659 |
+| Typ aktu | Ustawa |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2017-02-10 |
+| Data wydania | 2017-03-28 |
+| Wejście w życie | 2017-04-28 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000659) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/659/text.pdf) |
+
+**Art. 1.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, 1948, 1984 i 2260 oraz z 2017 r. poz. 60 i 191) wprowadza się następujące zmiany:
+
+- **1)** w art. 36 ust. 5 otrzymuje brzmienie: „
+
+5. Organ wydający decyzje o umorzeniu niepodatkowych należności budżetu państwa, o których mowa w art. 60, podaje informację kwartalną o udzielonych umorzeniach do publicznej wiadomości na swojej stronie podmiotowej w Biuletynie Informacji Publicznej do końca miesiąca następującego po zakończeniu kwartału. ” ;
+
+- **2)** w art. 56 w ust. 1: wprowadzenie do wyliczenia otrzymuje brzmienie: „ Należności, o których mowa w art. 55, mogą być z urzędu umarzane w całości, jeżeli: ” , pkt 5 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **5)** zachodzi interes publiczny. ” ;
+- **3)** art. 57 otrzymuje brzmienie: „
+
+**Art. 57.** Na wniosek dłużnika:
+
+- **1)** należności mogą być umarzane w całości – w przypadkach uzasadnionych ważnym interesem dłużnika lub interesem publicznym;
+- **2)** należności mogą być umarzane w części, terminy spłaty całości albo części należności mogą zostać odroczone lub płatność całości albo części należności może zostać rozłożona na raty – w przypadkach uzasadnionych względami społecznymi lub gospodarczymi, w szczególności możliwościami płatniczymi dłużnika. ” ;
+- **4)** po art. 57 dodaje się art. 57a w brzmieniu: „
+
+1. Należności zasądzone na rzecz Skarbu Państwa tytułem zwrotu kosztów zastępstwa procesowego podlegają umorzeniu na wniosek dłużnika, jeżeli zasądzono je w postępowaniu, którego celem było zapobieżenie naruszeniu Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r. (Dz. U. z 1993 r. poz. 284, z późn. zm.) lub Protokołów dodatkowych do tej Konwencji lub uchylenie skutków tego naruszenia, lub uzyskanie zadośćuczynienia lub odszkodowania za to naruszenie w krajowym systemie prawnym, oraz w zakresie, w jakim z orzeczenia Europejskiego Trybunału Praw Człowieka wynika, że w postępowaniu tym naruszono wobec dłużnika tę Konwencję lub Protokoły dodatkowe do tej Konwencji.
+
+2. Na wniosek dłużnika umorzeniu podlegają również należności Skarbu Państwa z tytułu zwrotu kosztów postępowań prowadzonych w związku z dochodzeniem należności, o których mowa w ust. 1. ” ;
+
+- **5)** w art. 58: po ust. 3 dodaje się ust. 3a w brzmieniu: „
+    - **a)**
+
+3a. W przypadku, o którym mowa w art. 56 ust. 1 pkt 3, umorzenie należności może nastąpić w formie jednostronnego oświadczenia woli, wówczas gdy uzyskanie oświadczenia woli dłużnika jest niemożliwe albo znacznie utrudnione. ” , ust. 4–6 otrzymują brzmienie: „
+
+- **b)**
+
+4. Przepisy ust. 1–3a oraz art. 55–57 stosuje się odpowiednio do umarzania, odraczania lub rozkładania na raty spłat odsetek od tych należności oraz do umarzania, odraczania lub rozkładania na raty spłaty innych należności ubocznych.
+
+5. Przepisów ust. 1–4 oraz art. 55–57 nie stosuje się do należności, w przypadku których odrębne przepisy regulują umarzanie, odraczanie terminów spłaty lub rozkładanie na raty spłaty tych należności.
+
+6. Dysponent części budżetowej lub dysponent państwowego funduszu celowego może wyrazić zgodę na niedochodzenie należności budżetu państwa o charakterze cywilnoprawnym, której kwota wraz z odsetkami nie przekracza 100 zł. ” ;
+
+- **6)** w art. 59 ust. 1 otrzymuje brzmienie: „
+
+1. W przypadkach uzasadnionych ważnym interesem dłużnika lub interesem publicznym należności pieniężne mające charakter cywilnoprawny, przypadające jednostce samorządu terytorialnego lub jej jednostkom organizacyjnym wymienionym w art. 9 pkt 3, 4 i 13, mogą być umarzane, terminy ich spłaty mogą zostać odroczone lub płatność tych należności może zostać rozłożona na raty, na zasadach określonych przez organ stanowiący jednostki samorządu terytorialnego, z zastrzeżeniem ust. 4. ” ;
+
+- **7)** po art. 59 dodaje się art. 59a w brzmieniu: „
+
+**Art. 59a.**
+
+1. Organ stanowiący jednostki samorządu terytorialnego może, w drodze uchwały, postanowić o niedochodzeniu należności o charakterze cywilnoprawnym przypadających jednostce samorządu terytorialnego lub jej jednostkom organizacyjnym wymienionym w art. 9 pkt 3, 4 i 13, których kwota wraz z odsetkami nie przekracza 100 zł.
+
+2. Przepisu ust. 1 nie stosuje się do należności powstałych w związku z realizacją:
+
+- **1)** zadań z zakresu administracji rządowej oraz innych zadań zleconych ustawami;
+- **2)** programów, projektów i zadań finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3. ” ;
+- **8)** w art. 60 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Środkami publicznymi stanowiącymi niepodatkowe należności budżetowe o charakterze publicznoprawnym są w szczególności następujące dochody budżetu państwa, dochody budżetu jednostki samorządu terytorialnego albo przychody państwowych funduszy celowych: ” ;
+- **9)** w art. 61: w ust. 1: – pkt 1 i 2 otrzymują brzmienie: „ 1) w stosunku do należności budżetu państwa, z zastrzeżeniem pkt 3 – minister, wojewoda, inni dysponenci części budżetowych oraz inni kierownicy państwowych jednostek budżetowych; 2) w stosunku do należności, o których mowa w art. 60 pkt 6: a) instytucje zarządzające, organ odpowiedzialny za wdrożenie instrumentu „Łącząc Europę”, organ pełniący funkcję odpowiednio Krajowego Punktu Kontaktowego lub Krajowej Instytucji Koordynującej w programach finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 2, b) będący jednostkami sektora finansów publicznych: operatorzy programów, instytucje pośredniczące, instytucje wdrażające lub instytucje, które podpisały z beneficjentem umowę o dofinansowanie, jeżeli posiadają upoważnienie od instytucji zarządzającej, organu odpowiedzialnego za wdrożenie instrumentu „Łącząc Europę”, organu pełniącego funkcję odpowiednio Krajowego Punktu Kontaktowego lub Krajowej Instytucji Koordynującej w programach finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 2, a w przypadku instytucji wdrażającej lub instytucji, która podpisała z beneficjentem umowę o dofinansowanie – od tak upoważnionych instytucji pośredniczącej lub operatora programu; ” , – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „ 5) w stosunku do należności stanowiących przychody państwowego funduszu celowego – dysponent państwowego funduszu celowego. ” , w ust. 3: – pkt 2 otrzymuje brzmienie: „ 2) organ pełniący funkcję instytucji zarządzającej w rozumieniu ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2016 r. poz. 930, z późn. zm.), zwanej dalej „ustawą o pomocy społecznej”, albo ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2016 r. poz. 383, 1250, 1948 i 1954 oraz z 2017 r. poz. 5), zwanej dalej „ustawą o zasadach prowadzenia polityki rozwoju”, albo ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2016 r. poz. 217, 1579 i 1948), zwanej dalej „ustawą o zasadach realizacji programów”, organ odpowiedzialny za wdrożenie instrumentu „Łącząc Europę”, organ pełniący funkcję odpowiednio Krajowego Punktu Kontaktowego lub Krajowej Instytucji Koordynującej w programach finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 2 – od decyzji wydanej przez operatora programu, instytucję pośredniczącą, instytucję wdrażającą lub instytucję, która podpisała z beneficjentem umowę o dofinansowanie, będących jednostkami sektora finansów publicznych; ” , – pkt 4 otrzymuje brzmienie: „ 4) samorządowe kolegium odwoławcze – od decyzji, o których mowa w ust. 1 pkt 4; ” , ust. 4 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+4. Od decyzji wydanej w pierwszej instancji przez ministra, instytucję zarządzającą, organ odpowiedzialny za wdrożenie instrumentu „Łącząc Europę” oraz organ pełniący funkcję odpowiednio Krajowego Punktu Kontaktowego lub Krajowej Instytucji Koordynującej w programach finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 2, nie służy odwołanie, jednakże strona niezadowolona z decyzji może zwrócić się do organu, który ją wydał, z wnioskiem o ponowne rozpatrzenie sprawy. ” ;
+
+- **10)** art. 64 otrzymuje brzmienie: „
+
+**Art. 64.**
+
+1. Należności, o których mowa w art. 60, właściwy organ może:
+
+- **1)** z urzędu umarzać w całości – w przypadku gdy zachodzi jedna z okoliczności, o których mowa w art. 56 ust. 1 pkt 1–4;
+- **2)** na wniosek zobowiązanego: umarzać w całości – w przypadkach uzasadnionych ważnym interesem zobowiązanego lub interesem publicznym, umarzać w części, odraczać terminy spłaty całości albo części należności lub rozkładać na raty płatność całości albo części należności – w przypadkach uzasadnionych względami społecznymi lub gospodarczymi, w szczególności możliwościami płatniczymi zobowiązanego.
+    - **a)**
+    - **b)**
+
+2. Właściwy organ, na wniosek zobowiązanego prowadzącego działalność gospodarczą, może udzielać określonych w ust. 1 pkt 2 ulg w spłacie zobowiązań z tytułu należności, o których mowa w art. 60, które:
+
+- **1)** nie stanowią pomocy publicznej;
+- **2)** stanowią pomoc de minimis albo pomoc de minimis w rolnictwie lub rybołówstwie – w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis ;
+- **3)** stanowią pomoc publiczną: mającą na celu naprawienie szkód spowodowanych klęskami żywiołowymi lub innymi zdarzeniami nadzwyczajnymi, mającą na celu zaradzenie poważnym zaburzeniom w gospodarce, zgodną z zasadami rynku wewnętrznego Unii Europejskiej, której dopuszczalność została określona przez właściwe organy Unii Europejskiej, udzielaną na przeznaczenia inne niż wymienione w lit. a i b.
+    - **a)**
+    - **b)**
+    - **c)**
+
+3. W przypadku pomocy publicznej określonej w ust. 2 pkt 3 lit. a i b ulgi, o których mowa w ust. 1 pkt 2, mogą być udzielane, jeżeli w przepisach odrębnych zostały określone szczegółowe warunki udzielania tej pomocy zapewniające jej zgodność z zasadami rynku wewnętrznego Unii Europejskiej.
+
+4. W przypadku gdy udzielenie ulgi nastąpiło w sytuacji wystąpienia jednej z okoliczności, o których mowa w art. 56 ust. 1 pkt 1, 2 i 4, decyzję o umorzeniu należności pozostawia się w aktach sprawy ze skutkiem doręczenia.
+
+5. Rada Ministrów może określić, w drodze rozporządzenia, przeznaczenia pomocy, o których mowa w ust. 2 pkt 3 lit. c, udzielanej w formie ulg w spłacie zobowiązań z tytułu należności, o których mowa w art. 60, oraz szczegółowe warunki udzielania tych ulg, mając na uwadze dopuszczalność i warunki udzielania pomocy państwa określone przez właściwe organy Unii Europejskiej. ” ;
+
+- **11)** w art. 163: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Państwowe jednostki budżetowe mające siedzibę poza granicami Rzeczypospolitej Polskiej, podległe ministrowi właściwemu do spraw zagranicznych albo ministrowi właściwemu do spraw gospodarki, mogą gromadzić na wydzielonym rachunku bankowym dochody uzyskiwane z: ” , ust. 4 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+4. Środki pieniężne gromadzone na wydzielonym rachunku bankowym, o którym mowa w ust. 1, w zależności od potrzeb wskazanych przez ministra właściwego do spraw zagranicznych lub ministra właściwego do spraw gospodarki mogą być przekazywane na wydzielony rachunek bankowy do innych jednostek budżetowych mających siedzibę poza granicami Rzeczypospolitej Polskiej, podległych tym ministrom. ” ;
+
+- **12)** w art. 193 w ust. 4 zdanie pierwsze otrzymuje brzmienie: „ Na wniosek instytucji zarządzającej lub organu pełniącego funkcję odpowiednio Krajowego Punktu Kontaktowego lub Krajowej Instytucji Koordynującej w programach finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 2, minister właściwy do spraw rozwoju regionalnego, w porozumieniu z Ministrem Finansów, może wyrazić zgodę na zaciągnięcie zobowiązań przekraczających łączną kwotę wydatków programu, o której mowa w ust. 1. ” ;
+- **13)** w art. 207: w ust. 8 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku stwierdzenia okoliczności, o których mowa w ust. 1, instytucja określona odpowiednio w ust. 9, 11 i 11a lub instytucja, która podpisała z beneficjentem umowę o dofinansowanie, wzywa do: ” , ust. 11 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+11. Instytucja zarządzająca lub instytucja pośrednicząca na podstawie porozumienia lub umowy, o których mowa w art. 27 i art. 32 ustawy o zasadach prowadzenia polityki rozwoju albo art. 10 ust. 1 i 2 ustawy o zasadach realizacji programów, albo organ odpowiedzialny za wdrożenie instrumentu „Łącząc Europę”, albo organ pełniący funkcję odpowiednio Krajowego Punktu Kontaktowego lub Krajowej Instytucji Koordynującej w programach finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 2, na podstawie porozumienia lub umowy, może upoważnić instytucję wdrażającą, a w przypadku programów finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 2 – operatora programu, instytucję pośredniczącą lub instytucję, która podpisała z beneficjentem umowę o dofinansowanie, będących jednostkami sektora finansów publicznych, do wydawania decyzji, o której mowa w ust. 9. ” ;
+
+- **14)** w art. 210 ust. 1 otrzymuje brzmienie: „
+
+1. Minister Finansów prowadzi rejestr podmiotów wykluczonych na podstawie art. 207 oraz udostępnia zawarte w nim informacje instytucjom zarządzającym, organom pełniącym funkcję odpowiednio Krajowego Punktu Kontaktowego lub Krajowej Instytucji Koordynującej w programach finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 2, instytucjom pośredniczącym, operatorom programów, instytucjom wdrażającym, instytucji certyfikującej, a także beneficjentom w zakresie ich własnego statusu. ” ;
+
+- **15)** w art. 284 uchyla się ust. 1.
+
+**Art. 2.**
+
+1. Do spraw dotyczących udzielania ulg w spłacie:
+
+- **1)** należności pieniężnych mających charakter cywilnoprawny, o których mowa w art. 55 ustawy zmienianej w art. 1, niezakończonych przed dniem wejścia w życie niniejszej ustawy,
+- **2)** należności, o których mowa w art. 57a ustawy zmienianej w art. 1, nieuiszczonych do dnia wejścia w życie niniejszej ustawy,
+- **3)** niepodatkowych należności budżetowych, o których mowa w art. 60 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+2. Przepisu ust. 1 pkt 2 nie stosuje się, jeżeli kwota zasądzona orzeczeniem Europejskiego Trybunału Praw Człowieka, o którym mowa w art. 57a ust. 1 ustawy zmienianej w art. 1, uwzględnia należności, o których mowa w art. 57a tej ustawy.
+
+**Art. 3.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+

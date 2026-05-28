@@ -1,0 +1,186 @@
+---
+title: "Ustawa z dnia 27 lipca 2002 r. o zmianie ustawy o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, refundacji bankom wypłaconych premii gwarancyjnych oraz o zmianie niektórych ustaw."
+address: WDU20021271090
+eli: DU/2002/1090
+publisher: DU
+year: 2002
+pos: 1090
+act_type: Ustawa
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Ustawa z dnia 27 lipca 2002 r. o zmianie ustawy o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, refundacji bankom wypłaconych premii gwarancyjnych oraz o zmianie niektórych ustaw
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2002 nr 127 poz. 1090 |
+| ISAP | WDU20021271090 |
+| Typ aktu | Ustawa |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2002-07-27 |
+| Data wydania | 2002-08-10 |
+| Wejście w życie | 2002-08-12 |
+| Ostatnia zmiana | 2024-03-15 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021271090) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1090/text.pdf) |
+
+Załącznik – Wzór do obliczenia wysokości premii gwarancyjnej
+
+**Art. 1.** W ustawie z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, refundacji bankom wypłaconych premii gwarancyjnych oraz o zmianie niektórych ustaw (Dz. U. z 1996 r. Nr 5, poz. 32 i Nr 106, poz. 496, z 1997 r. Nr 80, poz. 508 i Nr 103, poz. 652, z 2000 r. Nr 3, poz. 27 i Nr 122, poz. 1310, z 2001 r. Nr 4, poz. 27 i Nr 133, poz. 1508 oraz z 2002 r. Nr 25, poz. 253) wprowadza się następujące zmiany:
+
+- **1)** w tytule ustawy wyrazy „refundacji bankom wypłaconych premii gwarancyjnych oraz o zmianie niektórych ustaw” zastępuje się wyrazami „udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych”;
+- **2)** w art. 1 w ust. 1 po wyrazach „książeczkach mieszkaniowych” dodaje się wyrazy „, jak również zasady udzielania premii gwarancyjnych”;
+- **3)** w art. 2 dodaje się pkt 5 w brzmieniu: „
+- **5)** właścicielu książeczki mieszkaniowej – należy przez to rozumieć osobę fizyczną, która jest posiadaczem wkładu oszczędnościowego gromadzonego na rachunku bankowym na cele mieszkaniowe, którego imienny dowód stanowi książeczka mieszkaniowa wystawiona do dnia 23 października 1990 r. ” ;
+- **4)** art. 3 otrzymuje brzmienie: „
+
+**Art. 3.**
+
+1. Właścicielom książeczek mieszkaniowych przysługuje premia gwarancyjna w związku z dokonaniem jednej z następujących czynności:
+
+- **1)** uzyskaniem spółdzielczego prawa do lokalu mieszkalnego lub prawa odrębnej własności lokalu mieszkalnego w spółdzielni mieszkaniowej, z wyłączeniem uzyskania prawa odrębnej własności w trybie art. 39 ustawy z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych (Dz. U. z 2001 r. Nr 4, poz. 27, Nr 57, poz. 601 i Nr 154, poz. 1802), zwanej dalej „ustawą o spółdzielniach mieszkaniowych”,
+- **2)** nabyciem, w drodze zakupu lub zamiany, spółdzielczego własnościowego prawa do lokalu mieszkalnego lub domu jednorodzinnego w spółdzielni mieszkaniowej, z wyjątkiem nabycia tego prawa w części ułamkowej,
+- **3)** nabyciem, w drodze zakupu lub zamiany, własności lokalu mieszkalnego, stanowiącego odrębną nieruchomość, lub domu jednorodzinnego, z wyjątkiem nabycia lokalu mieszkalnego lub domu jednorodzinnego na zasadach współwłasności w częściach ułamkowych,
+- **4)** przystąpieniem do użytkowania wybudowanego własnego domu jednorodzinnego na warunkach określonych odrębnymi przepisami,
+- **5)** uzyskaniem własności domu jednorodzinnego lub odrębnej własności lokalu mieszkalnego w budynku wielorodzinnym, w związku z wykonaniem umowy zobowiązującej właściciela gruntu do wybudowania na tym gruncie domu jednorodzinnego lub budynku wielorodzinnego, bądź w związku z budową budynku wielorodzinnego na gruncie stanowiącym własność właściciela książeczki mieszkaniowej,
+- **6)** uzyskaniem odrębnej własności lokalu mieszkalnego powstałego w drodze przebudowy, nadbudowy lub rozbudowy budynku mieszkalnego, bądź pomieszczeń niemieszkalnych,
+- **7)** uzyskaniem własności domu jednorodzinnego lub odrębnej własności lokalu mieszkalnego w budynku wielorodzinnym, wybudowanym przez spółdzielnię mieszkaniową w celu przeniesienia na jej członków własności domów jednorodzinnych lub lokali mieszkalnych w budynku wielorodzinnym,
+- **8)** wpłaceniem kaucji zabezpieczającej pokrycie należności z tytułu najmu lokalu mieszkalnego w budynku wielorodzinnym, w wysokości przekraczającej 3% wartości odtworzeniowej lokalu, którego budowa była finansowana przy udziale kredytu zaciągniętego w Banku Gospodarstwa Krajowego ze środków Krajowego Funduszu Mieszkaniowego,
+- **9)** zawarciem przez osobę trzecią umowy najmu lokalu mieszkalnego w budynku wielorodzinnym, którego budowa była finansowana przy udziale kredytu zaciągniętego w Banku Gospodarstwa Krajowego ze środków Krajowego Funduszu Mieszkaniowego, połączonym z dokonaniem przez właściciela książeczki mieszkaniowej wpłaty na podstawie umowy, o której mowa w art. 29 ustawy z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2000 r. Nr 98, poz. 1070, z 2001 r. Nr 4, poz. 27, Nr 16, poz. 167 i Nr 154, poz. 1800 oraz z 2002 r. Nr 25, poz. 253), w wysokości nie niższej niż 20% ostatecznych kosztów budowy przypadających na dany lokal mieszkalny.
+
+2. Premia gwarancyjna przysługuje, jeżeli czynność wymieniona w ust. 1 dotyczy rzeczy znajdującej się na terytorium Rzeczypospolitej Polskiej lub prawa obciążającego taką rzecz.
+
+3. Premię gwarancyjną oblicza i wypłaca bank prowadzący obsługę rachunków wkładów oszczędnościowych na książeczkach mieszkaniowych wystawionych do dnia 23 października 1990 r.
+
+4. Warunkiem wypłaty premii gwarancyjnej jest złożenie przez właściciela książeczki mieszkaniowej wniosku ojej likwidację i wypłatę premii gwarancyjnej w terminie 90 dni od dnia dokonania czynności wymienionej w ust. 1.
+
+5. Do wniosku należy dołączyć dokumenty potwierdzające powstanie prawa do uzyskania premii gwarancyjnej. W przypadku nienależytego udokumentowania wniosku, bank, o którym mowa w ust. 3, wyznacza termin na uzupełnienie dokumentów, nie dłuższy niż 30 dni, licząc od dnia złożenia wniosku. Po upływie tego terminu bank zwraca wniosek bez rozpatrzenia. ” ;
+
+- **5)** po art. 3 dodaje się art. 3a-3c w brzmieniu: „
+
+1. Na wniosek właściciela książeczki mieszkaniowej, przed dokonaniem czynności wymienionych w art. 3 ust. 1, premia gwarancyjna może być:
+
+- **1)** wypłacona właścicielowi książeczki mieszkaniowej w przypadku zaawansowania: budowy własnego domu jednorodzinnego, w wysokości co najmniej 20% jego wartości kosztorysowej, przebudowy, nadbudowy lub rozbudowy budynku mieszkalnego lub pomieszczeń niemieszkalnych, jeżeli w ten sposób ma powstać odrębna własność lokalu mieszkalnego, w wysokości co najmniej 50% jej wartości kosztorysowej,
+    - **a)**
+    - **b)**
+
+- **2)** przekazana wskazanemu inwestorowi w przypadku: wniesienia co najmniej 50% wymaganego przez spółdzielnię mieszkaniową wkładu budowlanego lub mieszkaniowego, wpłacenia co najmniej 50% wartości kosztorysowej lokalu mieszkalnego lub domu jednorodzinnego, budowanych na warunkach, o których mowa w art. 3 ust. 1 pkt 5.
+    - **a)**
+    - **b)**
+
+2. Warunkiem udzielenia premii gwarancyjnej na zasadach określonych w ust. 1 jest złożenie przez właściciela książeczki mieszkaniowej dokumentów potwierdzających spełnienie warunków, o których mowa w ust. 1, na dzień złożenia wniosku o likwidację książeczki mieszkaniowej i wypłatę premii gwarancyjnej, w tym pisemnego zaświadczenia inwestora, lub innych dokumentów potwierdzających poniesienie wymaganych nakładów. Dokumenty te powinny być wystawione nie wcześniej niż 30 dni przed dniem złożenia wniosku.
+
+3. Warunkiem udzielenia premii gwarancyjnej na zasadach określonych w ust. 1 pkt 2 jest złożenie przez właściciela książeczki mieszkaniowej:
+
+- **1)** pisemnego zobowiązania do zwrócenia, za pośrednictwem banku, o którym mowa w art. 3 ust. 3, równowartości przekazanej premii gwarancyjnej w terminie 30 dni od dnia zbycia przez właściciela książeczki mieszkaniowej ekspektatywy odrębnej własności lokalu określonej w art. 19 ustawy o spółdzielniach mieszkaniowych, a po upływie tego terminu – wraz z odsetkami ustawowymi,
+- **2)** pisemnego upoważnienia udzielonego inwestorowi, o którym mowa w ust. 1 pkt 2, do zwrócenia, za pośrednictwem banku określonego w art. 3 ust. 3, równowartości przekazanej premii gwarancyjnej w przypadku wycofania przez właściciela książeczki mieszkaniowej środków na wymagany przez spółdzielnię wkład lub sfinansowanie kosztów budowy domu jednorodzinnego lub lokalu mieszkalnego budowanych na warunkach, o których mowa w art. 3 ust. 1 pkt 5.
+
+4. Inwestor na podstawie upoważnienia, o którym mowa w ust. 3 pkt 2, dokonuje zwrotu równowartości przekazanej premii gwarancyjnej w dniu wycofania przez właściciela książeczki mieszkaniowej środków na wymagany przez spółdzielnię wkład lub sfinansowanie kosztów budowy domu jednorodzinnego lub lokalu mieszkalnego budowanych na warunkach, o których mowa w art. 3 ust. 1 pkt 5.
+
+5. W przypadku zwrotu równowartości przekazanej premii gwarancyjnej na zasadach określonych w ust. 3 i 4, premia ta może zostać ponownie wypłacona właścicielowi książeczki mieszkaniowej pod warunkiem, że:
+
+- **1)** w okresie 6 miesięcy od dnia zbycia ekspektatywy odrębnej własności lokalu określonej w art. 19 ustawy o spółdzielniach mieszkaniowych lub wycofania środków na wymagany przez spółdzielnię wkład, lub sfinansowanie kosztów budowy domu jednorodzinnego lub lokalu mieszkalnego budowanych na warunkach, o których mowa w art. 3 ust. 1 pkt 5, zostaną spełnione warunki określone w ust. 1 lub art. 3 ust. 1 oraz
+- **2)** właściciel książeczki mieszkaniowej złoży wniosek o ponowną wypłatę premii gwarancyjnej wraz z dokumentami, o których mowa w ust. 2 i 3 lub art. 3 ust. 5.
+
+6. Ponowna wypłata premii gwarancyjnej zgodnie z ust. 5 może być dokonana tylko raz.
+
+7. Do czasu upływu terminu, o którym mowa w ust. 5, zwrócona równowartość przekazanej premii gwarancyjnej jest przechowywana na nieoprocentowanym rachunku bankowym w banku, o którym mowa w art. 3 ust. 3.
+
+1. Premia gwarancyjna przysługuje od wpłat na rachunek bankowy, o którym mowa w art. 2 pkt 5, wnoszonych w latach (kwartałach), dla których wzrost ceny 1 m2 powierzchni użytkowej budynku mieszkalnego, ostatnio ogłoszonej przed kwartałem złożenia wniosku, zwanej dalej „ceną ostatnio ogłoszoną”, w stosunku do ceny 1 m2 powierzchni użytkowej budynku mieszkalnego właściwej dla roku (kwartału) wniesienia wpłat, zwanej dalej „ceną dla okresu wniesienia wpłat”, jest wyższy od oprocentowania tych wpłat. Oprocentowanie to jest obliczane narastająco od roku (kwartału) dokonania wpłat do kwartału, do którego odnosi się cena ostatnio ogłoszona.
+
+2. Premia gwarancyjna jest naliczana w odniesieniu do sumy wniesionych wpłat nieprzekraczających kosztów budowy:
+
+- **1)** 55 m2 powierzchni użytkowej lokalu mieszkalnego w budynku wielorodzinnym lub
+- **2)** 70 m2 powierzchni użytkowej w domu jednorodzinnym.
+
+3. Premię gwarancyjną od wpłat wniesionych w danym roku (kwartale) bank, o którym mowa w art. 3 ust. 3, oblicza zgodnie z wzorem określonym w załączniku do ustawy.
+
+4. Na potrzeby obliczania premii gwarancyjnej Prezes Głównego Urzędu Statystycznego ogłasza cenę 1 m2 powierzchni użytkowej budynku mieszkalnego za okresy kwartalne. Przez cenę 1 m2 powierzchni użytkowej budynku rozumie się przeciętne dla całego kraju nakłady poniesione przez inwestorów na budowę wielomieszkaniowych budynków mieszkalnych w przeliczeniu na 1 m2 powierzchni użytkowej budynku, wyznaczone jako średnia ważona powierzchnią użytkową budynków mieszkalnych oddanych do użytkowania w poszczególnych województwach.
+
+1. Bankom, o których mowa w art. 3 ust. 3, przysługuje refundacja, ze środków budżetu państwa, wypłaconych premii gwarancyjnych. Minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej przekazuje bankom, na ich wniosek, środki przeznaczone na refundację wypłaconych premii gwarancyjnych.
+
+2. Minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej, minister właściwy do spraw finansów publicznych oraz bank, o którym mowa w art. 3 ust. 3, mogą, w drodze umowy, określić okresy rozliczeniowe, terminy przekazywania środków oraz terminy rozliczeń z tytułu refundacji wypłaconych premii gwarancyjnych. ” ;
+
+- **6)** w art. 4: w ust. 1 skreśla się pkt 1, dodaje się ust. 3–5 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+3. Rozliczenia z bankiem z tytułów, o których mowa w ust. 1 pkt 2–4, oraz z tytułu wynagrodzenia, o którym mowa w art. 6 ust. 2b, dokonuje minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej, na zasadach określonych w umowie zawartej między bankiem, ministrem właściwym do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej i ministrem właściwym do spraw finansów publicznych.
+
+4. Jeżeli kredyt, o którym mowa w art. 1 ust. 2, został zaciągnięty przez spółdzielnię mieszkaniową, umorzenie, o którym mowa w ust. 1 pkt 3, następuje pod warunkiem prowadzenia przez tę spółdzielnię analitycznej ewidencji zadłużenia z tytułu kredytu wraz z odsetkami, z podziałem na lokale zajmowane przez poszczególnych członków spółdzielni, oraz umożliwienia bankowi kontroli tej ewidencji.
+
+5. Analityczna ewidencja zadłużenia, o której mowa w ust. 4, zawiera co najmniej:
+
+- **1)** przypadający na każdy lokal stan zadłużenia z tytułu: kredytu, skapitalizowanych odsetek, przejściowego wykupienia odsetek od kredytu, z podziałem na zadłużenie z tytułu przejściowego wykupienia odsetek oraz zadłużenie z tytułu oprocentowania tych odsetek, wykonania przez Skarb Państwa umowy poręczenia, o której mowa w art. 2 ust. 1 ustawy z dnia 29 listopada 2000 r. o objęciu poręczeniami Skarbu Państwa spłaty niektórych kredytów mieszkaniowych (Dz. U. Nr 122, poz. 1310),
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **2)** wysokość wniesionej przez członka spółdzielni części wkładu budowlanego lub wysokość wkładu mieszkaniowego, ustaloną według zasad określonych w ustawie z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 1995 r. Nr 54, poz. 288 i Nr 133, poz. 654, z 1996 r. Nr 5, poz. 32, Nr 24, poz. 110 i Nr 43, poz. 189, z 1997 r. Nr 32, poz. 183, Nr 111, poz. 723 i Nr 121, poz. 769 i 770, z 1999 r. Nr 40, poz. 399, Nr 60, poz. 636, Nr 77, poz. 874 i Nr 99, poz. 1151 oraz z 2001 r. Nr 4, poz. 27, Nr 54, poz. 572 i Nr 69, poz. 724),
+- **3)** nominalną kwotę umorzenia kredytu dokonanego przy ostatecznym rozliczeniu kosztów budowy,
+- **4)** wysokość dokonanych umorzeń, z podziałem na umorzenie zadłużenia z tytułu przejściowego wykupienia odsetek oraz zadłużenia z tytułu oprocentowania tych odsetek,
+- **5)** kwotę odsetek skapitalizowanych wykupionych przez budżet państwa,
+- **6)** wysokość należności z tytułu obciążających członka spółdzielni mieszkaniowej miesięcznych spłat kredytu, wyliczoną zgodnie z art. 7 ust. 1 i 2 oraz art. 11 ust. 1, oraz wysokość spłat wnoszonych przez członka spółdzielni. ” ;
+- **7)** w art. 5a wyrazy „minimalnej stopie rentowności 28-dniowych operacji otwartego rynku” zastępuje się wyrazami „stopie referencyjnej, określającej minimalne oprocentowanie podstawowych operacji otwartego rynku prowadzonych przez Narodowy Bank Polski”;
+- **8)** w art. 6: w ust. 1a skreśla się wyrazy „i 8”, po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „
+    - **a)**
+    - **b)**
+
+2a. Przy podejmowaniu działań zmierzających do wyegzekwowania od kredytobiorców należności Skarbu Państwa z tytułu przejściowego wykupienia odsetek, o których mowa w ust. 2, banki mają prawo, bez uzyskania pisemnego oświadczenia kredytobiorcy o poddaniu się egzekucji, wystawiać bankowe tytuły egzekucyjne stosownie do art. 96–98 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665 i Nr 126, poz. 1070).
+
+2b. Bankom przysługuje wynagrodzenie z tytułu administrowania i egzekwowania zadłużenia kredytobiorców, o którym mowa w ust. 2, w wysokości 4% kwoty spłat tego zadłużenia. ” ;
+
+- **9)** w art. 8: w ust. 2 skreśla się wyrazy „2a i”, skreśla się ust. 2a, w ust. 3 skreśla się wyrazy „ , 2a”;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **10)** w art. 8a: w ust. 2 wyrazy „4 kwartały” zastępuje się wyrazami „8 kwartałów”, w ust. 4 w zdaniu drugim wyrazy „12 kwartałów” zastępuje się wyrazami „16 kwartałów”, w ust. 5 po wyrazach „spłaty kredytu” dodaje się wyrazy „na dany kwartał”;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **11)** w art. 9: w ust. 2 po wyrazach „odsetek przejściowo wykupionych” dodaje się wyrazy „oraz tryb składania i rozpatrywania wniosków o zawieszenie spłaty kredytu, uwzględniając zapewnienie sprawności udzielania pomocy państwa w tym zakresie”, ust. 3 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+3. Rozporządzenie, o którym mowa w ust. 2, powinno określać w szczególności:
+
+- **1)** wzory formularzy rozliczeń,
+- **2)** szczegółowe zasady rozliczania przez banki środków wpłacanych przez kredytobiorców, o których mowa w art. 7, art. 8, art. 8a i art. 11 ust. 1, na spłatę kredytów mieszkaniowych,
+- **3)** szczegółowe zasady zawierania umów, o których mowa w art. 4 ust. 3, i ich zakres. ” ;
+- **12)** w art. 10: w ust. 1 w pkt 5 wyrazy „przed dniem 31 grudnia 2002 r.” zastępuje się wyrazami „do dnia 31 grudnia 2005 r.”, po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
+    - **a)**
+    - **b)**
+
+1a. Spółdzielnia mieszkaniowa przekazuje do banku środki wpłacone przez członków spółdzielni z tytułu zwrotu nominalnych kwot umorzeń kredytu, o których mowa w ust. 1 pkt 3 i 5, w terminie 14 dni od dnia ich otrzymania.
+
+1b. W przypadku niedotrzymania terminu, o którym mowa w ust. 1a, zwrot następuje wraz z odsetkami w wysokości jak dla zaległości podatkowych. ” , ust. 2 otrzymuje brzmienie: „
+
+- **c)**
+
+2. Wartość lokalu, o której mowa w ust. 1 pkt 1, stanowi iloczyn powierzchni użytkowej i wskaźnika przeliczeniowego kosztu odtworzenia 1 m2 powierzchni użytkowej budynków mieszkalnych ostatnio ogłoszonego przez wojewodę na podstawie przepisów ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. Nr 71, poz. 733 i z 2002 r. Nr 113, poz. 984). ” ;
+
+- **13)** w art. 10b: w ust. 1 po wyrazach „o których mowa w art. 10a i art. 11 ust. 3 i 6” dodaje się wyrazy „, uwzględniając zapewnienie sprawności udzielania pomocy państwa w tym zakresie”, w ust. 2 w zdaniu wstępnym po wyrazie „określać” dodaje się wyrazy „w szczególności”;
+    - **a)**
+    - **b)**
+
+- **14)** w art. 11 ust. 6 otrzymuje brzmienie: „
+
+6. Na wniosek kredytobiorcy, który do dnia 31 grudnia 2005 r. dokona spłaty kredytu, o którym mowa w ust. 1, wraz z 30% odsetek przejściowo wykupionych przez budżet państwa oraz 30% odsetek skapitalizowanych naliczonych po dniu 30 czerwca 1993 r., pozostałe 70% odsetek przejściowo wykupionych podlega umorzeniu, a 70% skapitalizowanych odsetek podlega wykupieniu przez budżet państwa. W przypadku spółdzielczego lokatorskiego prawa do lokalu członkowi spółdzielni przysługuje roszczenie o przeniesienie przez spółdzielnię mieszkaniową prawa własności do tego lokalu na warunkach określonych w art. 10 ust. 1 pkt 5. ” .
+
+**Art. 2.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 1991 r. Nr 36, poz. 161, z 1992 r. Nr 20, poz. 78, z 1993 r. Nr 28, poz. 127, z 1995 r. Nr 85, poz. 426, z 1996 r. Nr 43, poz. 189 i Nr 146, poz. 680, z 1997 r. Nr 137, poz. 926 i Nr 141, poz. 943 i 944, z 1998 r. Nr 162, poz. 1126, z 2000 r. Nr 114, poz. 1193, Nr 120, poz. 1268 i Nr 122, poz. 1315, z 2001 r. Nr 76, poz. 809, Nr 98, poz. 1068, Nr 123, poz. 1353 i Nr 125, poz. 1368 oraz z 2002 r. Nr 41, poz. 365, Nr 74, poz. 676, Nr 89, poz. 804 i Nr 113, poz. 984) w art. 121 w § 5 wyrazy „ustalonej i ogłoszonej przez Prezesa Urzędu Mieszkalnictwa i Rozwoju Miast” zastępuje się wyrazami „ogłoszonej przez Prezesa Głównego Urzędu Statystycznego”. W ustawie z dnia 9 listopada 2000 r. o repatriacji (Dz. U. Nr 106, poz. 1118, z 2001 r. Nr 42, poz. 475 i Nr 128, poz. 1403 oraz z 2002 r. Nr 113, poz. 984) w art. 21 w ust. 1 wyrazy „ustalonej przez Prezesa Urzędu Mieszkalnictwa i Rozwoju Miast na podstawie przepisów o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, refundacji bankom wypłaconych premii gwarancyjnych” zastępuje się wyrazami „ogłoszonej przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych”.
+
+**Art. 4.** Do wniosków o wypłatę premii gwarancyjnej złożonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+
+**Art. 5.** Do dnia 31 grudnia 2002 r. kompetencje ministra właściwego do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej wynikające z ustawy wymienionej w art. 1 wykonuje Prezes Urzędu Mieszkalnictwa i Rozwoju Miast.
+
+**Art. 6.** Do czasu wydania rozporządzeń na podstawie art. 9 ust. 2 i art. 10b ust. 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, pozostają w mocy przepisy dotychczasowe, o ile nie są z nią sprzeczne, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 7.** Ilekroć w odrębnych przepisach jest mowa o przepisach o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, refundacji bankom wypłaconych premii gwarancyjnych oraz o zmianie niektórych ustaw lub ustawie o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, refundacji bankom wypłaconych premii gwarancyjnych oraz o zmianie niektórych ustaw, należy przez to rozumieć odpowiednio przepisy o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych lub ustawę o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych.
+
+**Art. 8.** Ustawa wchodzi w życie z dniem 12 sierpnia 2002 r. Załącznik – Wzór do obliczenia wysokości premii gwarancyjnej Do obliczania premii gwarancyjnej od sumy wpłat wniesionych w roku (kwartale) i-tym stosuje się następujący wzór: \( PG & _i = \left\{ {\matrix{ 0 \hfill & {{\rm jeżeli\ }{{C_n } \over {C_i }} – 1 \le SP_i } \hfill \cr {\left( {{{C_n } \over {C_i }} – 1 – SP_i } \right) \times WK_i } \hfill & {{\rm jeżeli\ }{{C_n } \over {C_i }} – 1 > SP_i } \hfill \cr } } \right. \) gdzie: i – oznacza rok (kwartał) wniesienia wpłat, n – oznacza kwartał, dla którego jest znana cena ostatnio ogłoszona, PGi – oznacza premie gwarancyjne od sumy wpłat wniesionych w roku (kwartale) i, Ci – oznacza cenę 1 m2 powierzchni użytkowej budynku mieszkalnego ustaloną dla roku (kwartału) i, Cn – oznacza cenę 1 m2 powierzchni użytkowej budynku mieszkalnego ostatnio ogłoszoną przed kwartałem złożenia wniosku, SPi – oznacza składaną stopę procentową, według której były oprocentowane wpłaty wniesione w roku (kwartale) i-tym do końca kwartału, dla którego jest znana cena ostatnio ogłoszona, \( SP_i = \left( {1 + r_i /2} \right) \times \left( {1 + r_{i + 1} } \right) \times \left( {1 + r_2 } \right) \times \ldots \times \left( {1 + r_n } \right) – 1 \) gdzie: ri – oznacza stopę procentową w roku (kwartale) i, podzieloną przez 100, rn – oznacza stopę procentową w kwartale n, podzieloną przez 100, WKi – oznacza sumę wpłat wniesionych w roku (kwartale) i. Składaną stopę procentową SPi oblicza się według wyżej przedstawionego wzoru przy uwzględnieniu okresów, w których bank dokonywał kapitalizacji odsetek. Premię łączną oblicza się według wzoru PG = ∑i PGi jako sumę premii od wszystkich wpłat wniesionych na książeczkę mieszkaniową w poszczególnych latach (kwartałach).
+

@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o systemie monitorowania i kontrolowania jakości paliw
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 października 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 listopada 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-11-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001529) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1529/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 października 2025 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o systemie monitorowania i kontrolowania jakości paliw
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. z 2024 r. poz. 1209), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 27 listopada 2024 r. o zmianie ustawy Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U.
 poz. 1940),
@@ -39,7 +39,14 @@ poz. 1946),
 poz. 1946), który stanowi: „Art. 6. Ustawa wchodzi życie z dniem 1 stycznia 2025 r.”;
 3) art. 18, art. 19 i art. 24 ustawy z dnia 21 lutego 2025 r. o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw (Dz. U. poz. 303), które stanowią: „Art. 18. Obowiązek, o którym mowa art. 30b ust. 1 i 2 ustawy zmienianej art. 4, wykonuje się po raz ostatni za rok 2024.
 
-**Art. 19.** Do naruszeń obowiązków, o których mowa art. 35a pkt 7, 8, 12 i 13 ustawy zmienianej art. 4, przez podmioty realizujące Narodowy Cel Redukcyjny do dnia 31 grudnia 2024 r., do postępowań sprawie nałożenia na nie kary pieniężnej oraz do przekazywania wpływów z tych kar stosuje się przepisy dotychczasowe. Przepisu art. 189g ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) nie stosuje się.” „Art. 24. Ustawa wchodzi życie z dniem 1 kwietnia 2025 r., z wyjątkiem:
+**Art. 19.** Do naruszeń obowiązków, o których mowa art. 35a pkt 7, 8, 12 i 13 ustawy zmienianej art. 4, przez podmioty realizujące Narodowy Cel Redukcyjny do dnia 31 grudnia 2024 r., do postępowań sprawie nałożenia na nie kary pieniężnej oraz do przekazywania wpływów z tych kar stosuje się przepisy dotychczasowe. Przepisu art. 189g ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) nie stosuje się.”
+
+- **1)** art. 6 pkt 3, który wchodzi życie z dniem 31 marca 2025 r.;
+- **2)** art. 4 pkt 3 zakresie art. 30h–30j oraz art. 5 pkt 15, które wchodzą życie z dniem 1 lipca 2025 r.;
+- **3)** art. 5 pkt 7, 12 i 13, które wchodzą życie z dniem 31 grudnia 2025 r.;
+- **4)** art. 1 pkt 2 lit. a tiret trzecie zakresie pkt 3e i 3f, pkt 3 lit. 1, lit. o oraz lit. t zakresie pkt 32c, pkt 7, pkt 12, pkt 14 lit. a–c, e, f i h–j, pkt 16, pkt 19 lit. f, pkt 21, pkt 29, pkt 32, pkt 42–44, pkt 48 lit. a tiret czwarte–szóste i lit. b–g, pkt 49, pkt 51 i pkt 52 lit. a tiret pierwsze, art. 2 pkt 1, art. 3 pkt 1 lit. a i pkt 2 lit. b oraz art. 7, które wchodzą życie z dniem 1 stycznia 2026 r.;
+- **5)** art. 1 pkt 36 lit. a tiret trzecie, lit. b tiret drugie, lit. c i d, pkt 37–39 oraz art. 2 pkt 2, które wchodzą życie z dniem 1 stycznia 2027 r.;
+- **6)** art. 3 pkt 1 lit. b i pkt 2 lit. a, art. 4 pkt 3 zakresie oznaczenia i tytułu rozdziału 2a i art. 30k oraz art. 4 pkt 4–8, które wchodzą życie z dniem 1 stycznia 2030 r.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -143,7 +150,7 @@ poz. 1946), który stanowi: „Art. 6. Ustawa wchodzi życie z dniem 1 stycznia 
 - **6)** innych paliw odnawialnych, biorąc pod uwagę wartości parametrów jakościowych określone odpowiednich normach tym zakresie, stan wiedzy technicznej tym zakresie wynikający z badań tych paliw lub doświadczenie ich stosowaniu;
 - **7)** wodoru, biorąc pod uwagę wartości parametrów jakościowych określone odpowiednich normach tym zakresie.
 
-3. Paliwa wyprodukowane lub dopuszczone do obrotu innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej, Republice Turcji albo państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym, zgodnie z przepisami obowiązującymi tych państwach, które spełniają wymagania wynikające z przepisów Unii Europejskiej tym zakresie, mogą być transportowane, magazynowane, wprowadzane do obrotu oraz gromadzone na stacjach zakładowych, o ile paliwa te spełniają normy techniczne Unii Europejskiej zakresie ochrony zdrowia i życia ludzi i zwierząt, środowiska lub interesów konsumentów. ciowe obowiązujące państwie, do którego są eksportowane lub dostarczane wewnątrzwspólnotowo.
+3. Paliwa wyprodukowane lub dopuszczone do obrotu innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej, Republice Turcji albo państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym, zgodnie z przepisami obowiązującymi tych państwach, które spełniają wymagania wynikające z przepisów Unii Europejskiej tym zakresie, mogą być transportowane, magazynowane, wprowadzane do obrotu oraz gromadzone na stacjach zakładowych, o ile paliwa te spełniają normy techniczne Unii Europejskiej zakresie ochrony zdrowia i życia ludzi i zwierząt, środowiska lub interesów konsumentów. warunkiem, że paliwa te przeznaczone są na eksport lub dostawę wewnątrzwspólnotową oraz spełniają wymagania jakościowe obowiązujące państwie, do którego są eksportowane lub dostarczane wewnątrzwspólnotowo.
 
 **Art. 3a.**
 
@@ -207,7 +214,7 @@ poz. 1946), który stanowi: „Art. 6. Ustawa wchodzi życie z dniem 1 stycznia 
 - **1)** kopię zaświadczenia wystawionego przez organ określony ust. 3 potwierdzającego prowadzenie przez podmiot, który nabywa paliwo stałe, instalacji spalania innej niż wskazana art. 1 ust. 2 pkt 2 opalanej paliwem stałym albo
 - **2)** kopię dokumentu potwierdzającego prowadzenie działalności polegającej na sprzedaży paliwa stałego.
 
-2. Przedsiębiorca wprowadzający do obrotu paliwo stałe z przeznaczeniem, o którym mowa art. 1 ust. 2, oraz z przeznaczeniem innym niż określone art. 1 ust. 2 przechowuje kopie zaświadczeń i dokumentów, o których mowa ust. 1, oraz kopie faktur VAT wystawionych na rzecz podmiotów, które nabyły paliwo stałe, przez okres 5, lat licząc od dnia ich przekazania. mowa art. 181 ust. 1 pkt 1 albo 2 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647 i 1080), albo przyjął zgłoszenie, o którym mowa art. 152 ust. 1 tej ustawy.
+2. Przedsiębiorca wprowadzający do obrotu paliwo stałe z przeznaczeniem, o którym mowa art. 1 ust. 2, oraz z przeznaczeniem innym niż określone art. 1 ust. 2 przechowuje kopie zaświadczeń i dokumentów, o których mowa ust. 1, oraz kopie faktur VAT wystawionych na rzecz podmiotów, które nabyły paliwo stałe, przez okres 5, lat licząc od dnia ich przekazania. wskazana art. 1 ust. 2 pkt 2, opalaną paliwem stałym, przez organ ochrony środowiska, który wydał pozwolenie, o którym mowa art. 181 ust. 1 pkt 1 albo 2 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647 i 1080), albo przyjął zgłoszenie, o którym mowa art. 152 ust. 1 tej ustawy.
 
 4. Zaświadczenie, o którym mowa ust. 1 pkt 1, jest ważne przez rok, licząc od dnia jego wystawienia.
 
@@ -220,6 +227,17 @@ poz. 1946), który stanowi: „Art. 6. Ustawa wchodzi życie z dniem 1 stycznia 
 3. Świadectwo jakości jest przechowywane przez przedsiębiorcę, o którym mowa ust. 1, przez okres 2 lat, licząc od dnia jego wystawienia.
 
 **Art. 6d.** Świadectwo jakości zawiera:
+
+- **1)** oznaczenie przedsiębiorcy wystawiającego świadectwo jakości, jego siedziby i adresu;
+- **2)** numer identyfikacji podatkowej (NIP) przedsiębiorcy wystawiającego świadectwo jakości oraz numer identyfikacyjny krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), jeżeli został nadany, albo numer identyfikacyjny odpowiednim rejestrze państwa obcego;
+- **3)** indywidualny numer świadectwa jakości;
+- **4)** określenie rodzaju paliwa stałego, dla którego jest wystawiane świadectwo jakości;
+- **5)** wskazanie systemu certyfikacji lub innego dokumentu stanowiącego podstawę do uznania, że określony rodzaj paliwa stałego, dla którego jest wystawiane świadectwo jakości, spełnia wymagania jakościowe określone przepisach wydanych na podstawie art. 3a ust. 2;
+- **6)** wskazanie wartości parametrów paliwa stałego, dla którego jest wystawiane świadectwo jakości, określonych przepisach wydanych na podstawie art. 3a ust. 2;
+- **7)** informację o wymaganiach jakościowych dla paliwa stałego, dla którego jest wystawiane świadectwo jakości, określonych przepisach wydanych na podstawie art. 3a ust. 2;
+- **8)** oświadczenie przedsiębiorcy wystawiającego świadectwo jakości, że paliwo stałe, dla którego jest wystawiane to świadectwo, spełnia wymagania jakościowe określone przepisach wydanych na podstawie art. 3a ust. 2;
+- **9)** oznaczenie miejsca i datę wystawienia świadectwa jakości;
+- **10)** podpis przedsiębiorcy wystawiającego świadectwo jakości albo osoby uprawnionej do jego reprezentowania.
 
 **Art. 6e.** Minister właściwy do spraw gospodarki surowcami energetycznymi określi, drodze rozporządzenia, wzór świadectwa jakości, uwzględniając konieczność zapewnienia kompletności, jednolitości i czytelności wystawianych świadectw jakości.
 
@@ -278,7 +296,7 @@ poz. 1946), który stanowi: „Art. 6. Ustawa wchodzi życie z dniem 1 stycznia 
 - **3)** zapewnienia zgodności biopaliw ciekłych z wymaganiami jakościowymi określonymi przepisach wydanych na podstawie art. 4 ust. 2;
 - **4)** oznakowania dystrybutora zaopatrującego wybrane floty biopaliwa ciekłe, sposób umożliwiający identyfikację rodzaju biopaliwa ciekłego i udziałów objętościowych, wyrażonych procentach, biokomponentów zawartych tym biopaliwie oraz odróżnienie tych biopaliw od biopaliw dopuszczonych do wprowadzania do obrotu.
 
-3. Minister właściwy do spraw gospodarki surowcami energetycznymi określi, drodze rozporządzenia, sposób oznakowania dystrybutorów zaopatrujących wybrane floty biopaliwo ciekłe oraz zbiorników, których magazynowane są biopaliwa ciekłe przeznaczone dla wybranych flot, biorąc pod uwagę możliwość wyraźnego rozróżnienia rodzajów paliw.
+3. Minister właściwy do spraw gospodarki surowcami energetycznymi określi, drodze rozporządzenia, sposób oznakowania dystrybutorów zaopatrujących wybrane floty biopaliwo ciekłe oraz zbiorników, których magazynowane są biopaliwa ciekłe przeznaczone dla wybranych flot, biorąc pod uwagę możliwość wyraźnego rozróżnienia rodzajów paliw. pisach wydanych na podstawie art. 4 ust. 2 wymaga zgłoszenia do Prezesa Urzędu Ochrony Konkurencji i Konsumentów.
 
 2. Zgłoszenia, o którym mowa ust. 1, należy dokonać przed terminem zamierzonego stosowania biopaliw ciekłych. Jeżeli Prezes Urzędu Ochrony Konkurencji i Konsumentów nie wniesie sprzeciwu, drodze decyzji administracyjnej, terminie 30 dni od dnia otrzymania zgłoszenia, biopaliwa ciekłe, o których mowa ust. 1, mogą być stosowane wybranych flotach.
 
@@ -349,7 +367,13 @@ poz. 1946), który stanowi: „Art. 6. Ustawa wchodzi życie z dniem 1 stycznia 
 
 **Art. 10.** W działalności badawczej prowadzonej przez podmioty, o których mowa art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ), dopuszcza się stosowanie:
 
+- **1)** biopaliw ciekłych oraz innych paliw odnawialnych, a także wodoru niespełniających wymagań jakościowych określonych przepisach wydanych na podstawie art. 3 ust. 2 pkt 2, 6 i 7 oraz art. 4 ust. 2;
+- **2)** paliw stałych niespełniających wymagań jakościowych określonych przepisach wydanych na podstawie art. 3a ust. 2.
+
 **Art. 10a.** Oleje napędowe wprowadzane do obrotu na stacjach paliwowych oraz gromadzone stacjach zakładowych są badane na obecność:
+
+- **1)** substancji stosowanych do znakowania lub barwienia wyrobów energetycznych rozumieniu ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym;
+- **2)** substancji, które mogą wpłynąć na zmianę ich klasyfikacji do właściwego kodu CN, o którym mowa art. 89 ust. 1 pkt 6 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym przypadku gdy nie stwierdzono nich substancji, o których mowa pkt 1. System monitorowania i kontrolowania jakości paliw
 
 **Art. 11.**
 
@@ -417,6 +441,9 @@ poz. 1946), który stanowi: „Art. 6. Ustawa wchodzi życie z dniem 1 stycznia 
 
 **Art. 14.** Kontrolę jakości paliwa transportowanego przeprowadza się wyłącznie:
 
+- **1)** na wniosek policji;
+- **2)** toku czynności wykonywanych przez policję.
+
 **Art. 15.**
 
 1. Do przeprowadzania kontroli, zabezpieczania dowodów, pobierania i badania próbek i próbek paliw stałych oraz postępowania pokontrolnego zakresie nieuregulowanym niniejszą ustawą stosuje się przepisy ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej.
@@ -479,7 +506,16 @@ poz. 1946), który stanowi: „Art. 6. Ustawa wchodzi życie z dniem 1 stycznia 
 
 **Art. 19.** Minister właściwy do spraw gospodarki surowcami energetycznymi określi, drodze rozporządzeń, sposób pobierania próbek:
 
+- **1)** paliw ciekłych i biopaliw ciekłych,
+- **2)** biopaliw ciekłych u rolników wytwarzających biopaliwa ciekłe na własny użytek,
+- **3)** gazu skroplonego (LPG),
+- **4)** sprężonego gazu ziemnego (CNG),
+- **5)** lekkiego oleju opałowego, ciężkiego oleju opałowego oraz oleju do silników statków żeglugi śródlądowej biorąc pod uwagę metody określone odpowiednich normach.
+
 **Art. 19a.** Minister właściwy do spraw gospodarki surowcami energetycznymi określi, drodze rozporządzenia, sposób pobierania próbek:
+
+- **1)** innych paliw odnawialnych,
+- **2)** skroplonego gazu ziemnego (LNG) odrębnie dla każdego rodzaju paliw, o których mowa pkt 1 i 2, biorąc pod uwagę stan wiedzy technicznej, metody określone odpowiednich normach lub doświadczenie stosowaniu tych paliw.
 
 **Art. 19b.** Minister właściwy do spraw gospodarki surowcami energetycznymi określi, drodze rozporządzenia, sposób pobierania próbek paliw stałych, o których mowa art. 2 ust. 1 pkt 4a lit. a i b, biorąc pod uwagę stan wiedzy technicznej oraz metody określone odpowiednich normach.
 
@@ -500,7 +536,7 @@ poz. 1946), który stanowi: „Art. 6. Ustawa wchodzi życie z dniem 1 stycznia 
 - **8a)** informację o ilości wprowadzanego do obrotu przez przedsiębiorcę paliwa stałego o określonych wymaganiach jakościowych, z której pobrano próbki tego paliwa stałego;
 - **9)** znajdujące się posiadaniu przedsiębiorcy informacje dotyczące pochodzenia i jakości badanego paliwa lub paliwa stałego;
 - **10)** określenie rodzaju oferowanego paliwa lub paliwa stałego, których próbki lub próbki paliwa stałego pobrano, oraz ilości pobranego paliwa lub paliwa stałego;
-- **11)** imię, nazwisko i stanowisko służbowe inspektora pobierającego próbki lub próbki paliwa stałego;
+- **12)** podpisy:
     - **a)** kontrolowanego przedsiębiorcy lub rolnika wytwarzającego biopaliwa ciekłe na własny użytek albo ich przedstawicieli,
     - **b)** inspektora pobierającego próbki lub próbki paliwa stałego.
 
@@ -509,6 +545,11 @@ poz. 1946), który stanowi: „Art. 6. Ustawa wchodzi życie z dniem 1 stycznia 
 4. Odmowa podpisania protokołu przez kontrolowanego przedsiębiorcę lub rolnika wytwarzającego biopaliwa ciekłe na własny użytek lub ich przedstawicieli nie stanowi przeszkody dla przekazania do badań pobranych próbek lub próbek paliw stałych.
 
 **Art. 21.** Inspektor sporządza także protokół pobrania próbek lub próbek paliw stałych przeznaczony do użytku wewnętrznego Inspekcji Handlowej, zawierający:
+
+- **1)** numer protokołu, o którym mowa art. 20 ust. 1;
+- **2)** numery identyfikacyjne, o których mowa art. 12 ust. 2 pkt 4;
+- **3)** informacje o oznaczeniu próbek lub próbek paliw stałych oraz świadectwa jakości uniemożliwiającym identyfikację przedsiębiorcy, stacji paliwowej, stacji zakładowej, hurtowni lub rolnika wytwarzającego biopaliwa ciekłe na własny użytek, u którego próbki lub próbki paliw stałych pobrano, przekazywanych do akredytowanego laboratorium;
+- **4)** podpis inspektora pobierającego próbki lub próbki paliw stałych.
 
 **Art. 22.**
 
@@ -577,7 +618,7 @@ poz. 1946), który stanowi: „Art. 6. Ustawa wchodzi życie z dniem 1 stycznia 
 
 1. (uchylony)
 
-2. (uchylony) akredytowanym laboratorium.
+2. (uchylony) wymagań jakościowych określonych przepisach wydanych na podstawie art. 3 ust. 2 pkt 7, co najmniej raz na 30 dni akredytowanym laboratorium.
 
 3a. W przypadku gdy danym okresie 30 dni, danej instalacji służącej do wytwarzania wodoru, wytworzono powyżej 50 ton wodoru, wówczas tym okresie, po wytworzeniu każdych 50 ton wodoru, przeprowadza się dodatkowe badanie jakości wodoru.
 
@@ -640,9 +681,20 @@ poz. 1946), który stanowi: „Art. 6. Ustawa wchodzi życie z dniem 1 stycznia 
 
 **Art. 26.** Minister właściwy do spraw gospodarki surowcami energetycznymi określi, drodze rozporządzeń, metody badania jakości:
 
+- **1)** paliw ciekłych,
+- **2)** biopaliw ciekłych,
+- **3)** gazu skroplonego (LPG),
+- **4)** sprężonego gazu ziemnego (CNG),
+- **5)** lekkiego oleju opałowego, ciężkiego oleju opałowego oraz oleju do silników statków żeglugi śródlądowej biorąc pod uwagę metody określone odpowiednich normach tym zakresie. badania jakości:
+- **1)** innych paliw odnawialnych,
+- **2)** skroplonego gazu ziemnego (LNG) odrębnie dla każdego rodzaju paliw, o których mowa pkt 1 i 2, biorąc pod uwagę stan wiedzy technicznej, metody określone odpowiednich normach lub doświadczenie stosowaniu tych paliw.
+
 **Art. 26b.** Minister właściwy do spraw gospodarki surowcami energetycznymi określi, drodze rozporządzenia, metody badania jakości paliw stałych, o których mowa art. 2 ust. 1 pkt 4a lit. a i b, biorąc pod uwagę stan wiedzy technicznej lub metody określone odpowiednich normach.
 
 **Art. 26c.** Minister właściwy do spraw finansów publicznych określi, drodze rozporządzenia:
+
+- **1)** metody badania oleju napędowego na obecność substancji, o których mowa art. 10a,
+- **2)** substancje, o których mowa art. 10a pkt 2 uwzględniając stan wiedzy technicznej lub metody określone odpowiednich normach.
 
 **Art. 27.**
 
@@ -653,6 +705,9 @@ poz. 1946), który stanowi: „Art. 6. Ustawa wchodzi życie z dniem 1 stycznia 
 3. Pozostałości po próbkach oraz próbki kontrolne sprężonego gazu ziemnego (CNG) niepoddane badaniom podlegają, na wniosek Zarządzającego, komisyjnemu zniszczeniu przez akredytowane laboratorium przeprowadzające badania.
 
 **Art. 27a.** W przypadku gdy z protokołu, o którym mowa art. 27 ust. 1, wynika, że próbce lub próbce kontrolnej oleju napędowego:
+
+- **1)** stwierdzono obecność substancji, o których mowa art. 10a, wojewódzki inspektor Inspekcji Handlowej przekazuje niezwłocznie, poświadczone za zgodność z oryginałem, wyniki badań i akta przeprowadzonej kontroli właściwemu dla siedziby przedsiębiorcy naczelnikowi urzędu skarbowego właściwemu zakresie podatku akcyzowego;
+- **2)** nie stwierdzono obecności substancji, o których mowa art. 10a, wojewódzki inspektor Inspekcji Handlowej przekazuje, terminie do 25. dnia miesiąca następującego po miesiącu, którym przekazano mu ten protokół, informacje zawierające dane przedsiębiorcy oraz dotyczące lokalizacji stacji paliwowej albo stacji zakładowej dyrektorowi izby administracji skarbowej właściwemu dla siedziby wojewódzkiego inspektora Inspekcji Handlowej.
 
 **Art. 27b.**
 
@@ -669,9 +724,27 @@ poz. 1946), który stanowi: „Art. 6. Ustawa wchodzi życie z dniem 1 stycznia 
 
 **Art. 28.** Wojewódzki inspektor Inspekcji Handlowej sporządza i przekazuje Zarządzającemu roczny raport zawierający analizę wyników kontroli jakości paliw oraz informacje o przebiegu kontroli i innych podejmowanych działaniach, zgodnie z programem kontroli sporządzonym na podstawie planu kontroli jakości paliw.
 
-**Art. 28a.** (uchylony) gazu ziemnego (CNG), skroplonego gazu ziemnego (LNG) i wodoru. 2. Zarządzający sporządza roczny zbiorczy raport dotyczący zawartości siarki następujących paliwach:
+**Art. 28a.** (uchylony) dotyczący jakości paliw ciekłych, biopaliw ciekłych i innych paliw odnawialnych oraz gazu skroplonego (LPG), sprężonego gazu ziemnego (CNG), skroplonego gazu ziemnego (LNG) i wodoru. 2. Zarządzający sporządza roczny zbiorczy raport dotyczący zawartości siarki następujących paliwach:
+
+- **1)** lekkim oleju opałowym, na podstawie rocznych raportów, o których mowa art. 28;
+- **2)** ciężkim oleju opałowym, na podstawie rocznego raportu sporządzonego przez Głównego Inspektora Ochrony Środowiska, przekazywanego do Prezesa Urzędu Ochrony Konkurencji i Konsumentów terminie do dnia 30 kwietnia każdego roku;
+- **3)** oleju do silników statków żeglugi śródlądowej, na podstawie rocznego raportu sporządzonego przez Głównego Inspektora Ochrony Środowiska, przekazywanego do Prezesa Urzędu Ochrony Konkurencji i Konsumentów terminie do dnia 30 kwietnia każdego roku;
+- **4)** paliwie żeglugowym, stosowanym statkach morskich, na podstawie rocznych raportów sporządzonych przez właściwych terytorialnie Dyrektorów Urzędów Morskich, przekazywanych do Prezesa Urzędu Ochrony Konkurencji i Konsumentów zgodnie z odrębnymi przepisami.
+
+3. Zarządzający przedstawia Radzie Ministrów zbiorczy raport, o którym mowa ust. 1, corocznie do dnia 31 lipca następnego roku.
+
+4. Zarządzający dostarcza corocznie Komisji Europejskiej roczny zbiorczy raport, o którym mowa ust. 2, do dnia 30 czerwca następnego roku.
+
+5. Na podstawie dokumentów, o których mowa ust. 1, Zarządzający sporządza corocznie dla Komisji Europejskiej zbiorczy raport dotyczący jakości paliw ciekłych i biopaliw ciekłych na stacjach paliwowych oraz stacjach zakładowych i przekazuje go do dnia 31 sierpnia następnego roku.
 
 **Art. 30.** Minister właściwy do spraw gospodarki surowcami energetycznymi określi, drodze rozporządzenia:
+
+- **1)** wzór raportu, o którym mowa art. 29 ust. 1,
+- **2)** sposób monitorowania jakości paliw ciekłych i biopaliw ciekłych celu sporządzenia raportu, o którym mowa art. 29 ust. 5, a szczególności:
+    - **a)** sposób doboru stacji paliwowych i stacji zakładowych, których będzie dokonywana kontrola, tym minimalną liczbę tych stacji,
+    - **b)** okresy monitorowania jakości paliw ciekłych i biopaliw ciekłych,
+    - **c)** sposób podziału terytorium Rzeczypospolitej Polskiej do celów monitorowania jakości paliw ciekłych i biopaliw ciekłych,
+    - **d)** wzór raportu uwzględniając konieczność prewencyjnego oddziaływania Systemu oraz niezbędne informacje zawarte sporządzanych raportach.
 
 **Art. 30a.** Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
 
@@ -741,7 +814,7 @@ poz. 1946), który stanowi: „Art. 6. Ustawa wchodzi życie z dniem 1 stycznia 
 
 2. Kto, będąc właścicielem lub użytkownikiem wybranej floty, stosuje bez zgłoszenia biopaliwo ciekłe niespełniające wymagań jakościowych, o których mowa art. 3 ust. 2 pkt 2, podlega grzywnie.
 
-3. (uchylony)
+3. (uchylony) mioty inne niż właściciel lub użytkownik wybranej floty, podlega grzywnie.
 
 5. (uchylony)
 
@@ -772,6 +845,28 @@ poz. 1946), który stanowi: „Art. 6. Ustawa wchodzi życie z dniem 1 stycznia 
 #### Rozdział 3a Kary pieniężne
 
 **Art. 35a.** Karze pieniężnej podlega:
+
+- **1)** przedsiębiorca wykonujący działalność gospodarczą zakresie wytwarzania, magazynowania lub wprowadzania do obrotu biopaliw ciekłych przeznaczonych do stosowania wybranej flocie, który magazynuje to biopaliwo zbiorniku nieoznakowanym sposób określony art. 8 ust. 1 pkt 3;
+- **2)** przedsiębiorca wykonujący działalność gospodarczą zakresie wytwarzania, magazynowania lub wprowadzania do obrotu biopaliw ciekłych przeznaczonych do stosowania wybranej flocie, który zaopatruje tę flotę to biopaliwo z dystrybutora nieoznakowanego sposób określony art. 8 ust. 2 pkt 4;
+- **3)** właściciel lub użytkownik wybranej floty, który nie wykonuje obowiązku informowania Prezesa Urzędu Ochrony Konkurencji i Konsumentów o zmianie danych zawartych zgłoszeniu, o którym mowa art. 9 ust. 1;
+- **4)** (uchylony)
+- **5)** (uchylony)
+- **6)** przedsiębiorca, który nie oznakowuje dystrybutora na stacji paliwowej lub stacji zakładowej sposób określony art. 9c;
+- **7)** podmiot realizujący Narodowy Cel Redukcyjny, który nie wykonał obowiązku, o którym mowa art. 30b ust. 1 i 2;
+- **7)** (uchylony)
+- **8)** podmiot realizujący Narodowy Cel Redukcyjny, który nie przekazał terminie sprawozdania rocznego, o którym mowa art. 30i ust. 1, lub podał tym sprawozdaniu nieprawdziwe dane;
+- **8)** (uchylony)
+- **9)** przedsiębiorca wprowadzający do obrotu paliwo stałe, który wbrew obowiązkowi: znaczeniem innym niż określone art. 1 ust. 2, który wbrew obowiązkowi nie przechowuje kopii dokumentów, o których mowa art. 6b ust. 1;
+    - **a)** nie wystawia świadectwa jakości albo
+    - **b)** wystawia świadectwo jakości, którym wartości parametrów paliwa stałego są niezgodne ze stanem faktycznym, albo
+    - **c)** nie przekazuje kopii świadectwa jakości podmiotowi, który nabywa paliwo stałe;
+
+- **11)** przedsiębiorca, który nie przestrzega obowiązków, o których mowa art. 9ca ust. 1–3;
+- **12)** podmiot realizujący Narodowy Cel Redukcyjny, który odmawia przedstawienia dokumentów lub informacji, o których mowa art. 30k;
+- **12)** (uchylony)
+- **13)** podmiot realizujący Narodowy Cel Redukcyjny, który wprowadza błąd Prezesa Urzędu Regulacji Energetyki zakresie przedstawianych dokumentów lub informacji, o których mowa art. 30k;
+- **13)** (uchylony)
+- **14)** przedsiębiorca wytwarzający, transportujący, magazynujący, wprowadzający do obrotu lub gromadzący stacji zakładowej wodór, a także przedsiębiorca prowadzący hurtownię wodoru, który nie przekazał terminie informacji, o której mowa art. 27b ust. 1 lub 2, lub podał tej informacji nieprawdziwe dane.
 
 **Art. 35b.**
 

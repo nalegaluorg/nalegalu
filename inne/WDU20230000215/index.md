@@ -8,12 +8,10 @@ pos: 215
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o systemie oceny zgodności
-
-*USTAWA z dnia 30 sierpnia 2002 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 24 listopada 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o systemie oceny zgodności
 
 | Pole | Wartość |
 |---|---|
@@ -27,7 +25,23 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-12-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000215) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/215/text.pdf) |
 
-Art. 49–57. (pominięte)
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności Rozdział 1 – Przepisy ogólne Rozdział 2 – Zasady funkcjonowania oceny zgodności wyrobów z zasadniczymi i szczegółowymi wymaganiami Rozdział 3 – Autoryzacja i notyfikacja Rozdział 4 Rozdział 5 Rozdział 6 – System kontroli wyrobów Rozdział 7 – Odpowiedzialność karna Rozdział 8 – Zmiany w przepisach obowiązujących Rozdział 9 – Przepisy przejściowe i końcowe
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2021 r. poz. 1344), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974) oraz zmian wynikających z przepisów ogłoszonych przed dniem 24 listopada 2022 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 148 ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974), który stanowi:
+„
+(uchylony)
+(uchylony)
+Art. 49–57.
+(pominięte)
+
+**Art. 148.** Ustawa wchodzi w życie z dniem 26 maja 2022 r., z wyjątkiem:
+
+- **1)** art. 54–61, które wchodzą w życie z dniem 1 stycznia 2023 r.;
+- **2)** art. 21–25, które wchodzą w życie z dniem 1 lipca 2023 r. ” . Załącznik – Tekst jednolity ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -55,11 +69,13 @@ Art. 49–57. (pominięte)
 - **10)** (uchylony)
 - **11)** wyrobów wykorzystujących energię, dla których określono wymagania w aktach wykonawczych do art. 15 ust. 1 dyrektywy Parlamentu Europejskiego i Rady 2009/125/WE z dnia 21 października 2009 r. ustanawiającej ogólne zasady ustalania wymogów dotyczących ekoprojektu dla produktów związanych z energią (Dz. Urz. UE L 285 z 31.10.2009, str. 10, z późn. zm.).
 
-2. Przepisy ustawy stosuje się do wyrobów medycznych, o których mowa w art. 2 ust. 1 pkt 38 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2021 r. poz. 1565) , wyrobów w rozumieniu art. 1 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2017/745”, oraz do wyrobów w rozumieniu w art. 1 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. ), zwanego dalej „rozporządzeniem 2017/746”, w zakresie, w jakim należą do rodzajów wyrobów wskazanych w art. 1 ust. 1a pkt 2, 3, 6–9 i 11, z uwzględnieniem stosowania wymagań bardziej szczegółowych w przypadkach wskazanych w art. 25 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych , art. 1 ust. 12 rozporządzenia 2017/745 oraz art. 1 ust. 6 rozporządzenia 2017/746.
+2. Przepisy ustawy stosuje się do wyrobów medycznych, o których mowa w art. 2 ust. 1 pkt 38 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2021 r. poz. 1565), wyrobów w rozumieniu art. 1 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2017/745”, oraz do wyrobów w rozumieniu w art. 1 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.), zwanego dalej „rozporządzeniem 2017/746”, w zakresie, w jakim należą do rodzajów wyrobów wskazanych w art. 1 ust. 1a pkt 2, 3, 6–9 i 11, z uwzględnieniem stosowania wymagań bardziej szczegółowych w przypadkach wskazanych w art. 25 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych, art. 1 ust. 12 rozporządzenia 2017/745 oraz art. 1 ust. 6 rozporządzenia 2017/746.
 
 2a. (uchylony)
 
-3. (uchylony) 3a. (uchylony)
+3. (uchylony)
+
+3a. (uchylony)
 
 4. (uchylony)
 
@@ -69,13 +85,46 @@ Art. 49–57. (pominięte)
 
 **Art. 2.** Celem ustawy jest:
 
+- **1)** eliminowanie zagrożeń stwarzanych przez wyroby dla życia lub zdrowia użytkowników i konsumentów oraz mienia, a także zagrożeń dla środowiska;
+- **2)** znoszenie barier technicznych w handlu i ułatwianie międzynarodowego obrotu towarowego;
+- **3)** stworzenie warunków do rzetelnej oceny wyrobów i procesów ich wytwarzania przez kompetentne i niezależne podmioty.
+
 **Art. 3.** System oceny zgodności tworzą:
 
-**Art. 3a.** System kontroli wyrobów obejmuje:
+- **1)** przepisy określające zasadnicze i szczegółowe wymagania dotyczące wyrobów;
+- **2)** przepisy oraz normy określające działanie podmiotów uczestniczących w procesie oceny zgodności. System kontroli wyrobów obejmuje:
+- **1)** kontrolę spełniania przez wyroby zasadniczych, szczegółowych lub innych wymagań;
+- **2)** postępowanie w sprawie wprowadzonych do obrotu lub oddanych do użytku wyrobów niezgodnych z zasadniczymi, szczegółowymi lub innymi wymaganiami.
 
 **Art. 4.** W procesie oceny zgodności uczestniczą producenci, ich upoważnieni przedstawiciele, importerzy, jednostki certyfikujące, jednostki kontrolujące oraz laboratoria.
 
 **Art. 5.** Ilekroć w ustawie jest mowa o:
+
+- **1)** wyrobie – należy przez to rozumieć rzecz, bez względu na stopień jej przetworzenia, przeznaczoną do wprowadzenia do obrotu lub oddania do użytku, z wyjątkiem artykułów rolno-spożywczych oraz środków żywienia zwierząt ;
+- **2)** wprowadzeniu do obrotu – należy przez to rozumieć udostępnienie przez producenta, jego upoważnionego przedstawiciela lub importera, nieodpłatnie albo za opłatą, po raz pierwszy na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym wyrobu w celu jego używania lub dystrybucji;
+- **3)** oznakowaniu zgodności – należy przez to rozumieć oznakowanie potwierdzające zgodność wyrobu z zasadniczymi lub szczegółowymi wymaganiami;
+- **4)** laboratorium – należy przez to rozumieć laboratorium badawcze lub laboratorium pomiarowe;
+- **5)** upoważnionym przedstawicielu – należy przez to rozumieć osobę fizyczną lub prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, mającą siedzibę na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym upoważnioną przez producenta na piśmie do działania w jego imieniu;
+- **6)** jednostce kontrolującej – należy przez to rozumieć jednostkę dokonującą sprawdzenia projektu wyrobu, wyrobu lub procesu jego wytwarzania oraz ustalenia ich zgodności z zasadniczymi lub szczegółowymi wymaganiami;
+- **7)** jednostce certyfikującej – należy przez to rozumieć niezależną od podmiotów wymienionych w pkt 2 jednostkę dokonującą certyfikacji, o której mowa w pkt 8;
+- **7a)** jednostce oceniającej zgodność – należy przez to rozumieć jednostkę, o której mowa w art. 2 pkt 13 rozporządzenia (WE) nr 765/2008;
+- **8)** certyfikacji – należy przez to rozumieć działanie jednostki certyfikującej, wykazujące, że należycie zidentyfikowany wyrób lub proces jego wytwarzania są zgodne z zasadniczymi lub szczegółowymi wymaganiami;
+- **9)** certyfikacie zgodności – należy przez to rozumieć dokument wydany przez notyfikowaną jednostkę certyfikującą, potwierdzający, że wyrób i proces jego wytwarzania są zgodne z zasadniczymi wymaganiami;
+- **10)** deklaracji zgodności – należy przez to rozumieć oświadczenie producenta lub jego upoważnionego przedstawiciela stwierdzające na jego wyłączną odpowiedzialność, że wyrób jest zgodny z zasadniczymi wymaganiami;
+- **11)** akredytacji – należy przez to rozumieć akredytację, o której mowa w art. 2 pkt 10 rozporządzenia (WE) nr 765/2008;
+- **12)** autoryzacji – należy przez to rozumieć zakwalifikowanie przez ministra lub kierownika urzędu centralnego, właściwego ze względu na przedmiot oceny zgodności, zgłaszającej się jednostki lub laboratorium do procesu notyfikacji;
+- **13)** notyfikacji – należy przez to rozumieć zgłoszenie Komisji Europejskiej i państwom członkowskim Unii Europejskiej autoryzowanych jednostek certyfikujących i kontrolujących oraz autoryzowanych laboratoriów właściwych do wykonywania czynności określonych w procedurach oceny zgodności;
+- **14)** normie zharmonizowanej – należy przez to rozumieć normę zharmonizowaną w rozumieniu art. 2 pkt 9 rozporządzenia (WE) nr 765/2008, której tytuł i numer zostały opublikowane w Dzienniku Urzędowym Unii Europejskiej;
+- **15)** dyrektywach nowego podejścia – należy przez to rozumieć dyrektywy Wspólnoty Europejskiej, uchwalone zgodnie z zasadami zawartymi w uchwale Rady Unii Europejskiej z dnia 7 maja 1985 r., w sprawie nowego podejścia do harmonizacji technicznej oraz normalizacji;
+- **16)** zasadniczych wymaganiach – należy przez to rozumieć wymagania w zakresie cech wyrobu, jego projektowania lub wytwarzania, określone w dyrektywach nowego podejścia;
+- **17)** szczegółowych wymaganiach – należy przez to rozumieć wymagania, które powinien spełniać wyrób, określone w aktach prawnych Wspólnot Europejskich innych niż dyrektywy nowego podejścia;
+- **18)** (uchylony)
+- **19)** oddaniu do użytku – należy przez to rozumieć pierwsze na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym zgodne z przeznaczeniem użycie wyrobu, który nie został wprowadzony do obrotu;
+- **20)** producencie – należy przez to rozumieć osobę fizyczną lub prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która projektuje i wytwarza wyrób, albo dla której ten wyrób zaprojektowano lub wytworzono, w celu wprowadzenia go do obrotu lub oddania do użytku pod własną nazwą lub znakiem;
+- **21)** importerze – należy przez to rozumieć osobę fizyczną lub prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, mającą siedzibę na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, która wprowadza do obrotu lub oddaje do użytku wyroby pochodzące z krajów trzecich;
+- **22)** specyfikacjach zharmonizowanych – należy przez to rozumieć specyfikacje techniczne inne niż normy europejskie, w szczególności dokumenty normatywne Międzynarodowej Organizacji Metrologii Prawnej (OIML), uznane przez Komisję Europejską i ogłaszane w Dzienniku Urzędowym Unii Europejskiej serii C;
+- **23)** dystrybutorze – należy przez to rozumieć osobę fizyczną lub prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która dostarcza lub udostępnia wyrób po jego wprowadzeniu do obrotu;
+- **24)** innych wymaganiach – należy przez to rozumieć wymagania związane z wyrobem lub projektem wyrobu, określone w dyrektywach nowego podejścia lub w przepisach wydanych na podstawie art. 10 ust. 1 ustawy, inne niż zasadnicze lub szczegółowe wymagania.
 
 #### Rozdział 2 Zasady funkcjonowania oceny zgodności wyrobów z zasadniczymi i szczegółowymi wymaganiami
 
@@ -95,16 +144,14 @@ Art. 49–57. (pominięte)
 
 1. Podczas dokonywania oceny zgodności z zasadniczymi wymaganiami wyrób może być poddawany:
 
-- **1)** badaniom przez:
-    - **a)** producenta lub jego upoważnionego przedstawiciela, jeżeli nie jest wymagane przeprowadzenie badań przez laboratorium niezależne od dostawcy i odbiorcy,
-    - **b)** notyfikowane laboratorium, jeżeli jest wymagane przeprowadzenie badań przez laboratorium niezależne od dostawcy i odbiorcy;
+- **1)** badaniom przez: producenta lub jego upoważnionego przedstawiciela, jeżeli nie jest wymagane przeprowadzenie badań przez laboratorium niezależne od dostawcy i odbiorcy, notyfikowane laboratorium, jeżeli jest wymagane przeprowadzenie badań przez laboratorium niezależne od dostawcy i odbiorcy;
+    - **a)**
+    - **b)**
 
 - **2)** sprawdzeniu zgodności z zasadniczymi wymaganiami – przez notyfikowaną jednostkę kontrolującą;
 - **3)** certyfikacji – przez notyfikowaną jednostkę certyfikującą.
 
 2. Pozytywny wynik oceny zgodności z zasadniczymi wymaganiami dokonywanej przez notyfikowaną jednostkę certyfikującą stanowi podstawę do wydania producentowi lub jego upoważnionemu przedstawicielowi certyfikatu zgodności.
-
-**Art. 7a.**
 
 1. Oceny zgodności wyrobu ze szczegółowymi wymaganiami dokonuje producent lub importer, w sposób określony w przepisach wydanych na podstawie art. 10 ust. 1 lub w odrębnych ustawach.
 
@@ -147,8 +194,6 @@ Art. 49–57. (pominięte)
 3. Prezes Polskiego Komitetu Normalizacyjnego ogłasza dwa razy w roku, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, numery i tytuły norm zharmonizowanych wraz z tytułami aktów prawnych wdrażających dyrektywy nowego podejścia i danymi dotyczącymi miejsca ich publikacji, a także informacje o ogłoszonych przez Komisję Europejską okresach przejściowych stosowania domniemania zgodności i ostrzeżeniach dotyczących ograniczenia domniemania zgodności, według stanu na dzień 30 czerwca i dzień 31 grudnia każdego roku.
 
 4. Prezes Głównego Urzędu Miar ogłasza raz na 12 miesięcy, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, numery i tytuły ustanowionych w danym roku dokumentów normatywnych Międzynarodowej Organizacji Metrologii Prawnej (OIML) wraz ze wskazaniem tych postanowień, których spełnienie pozwala na domniemanie zgodności wyrobu z zasadniczymi wymaganiami, a także tytuły aktów prawnych wdrażających dyrektywy nowego podejścia dotyczące przyrządów pomiarowych wraz z danymi dotyczącymi miejsca ich publikacji.
-
-**Art. 13a.**
 
 1. Producent lub jego upoważniony przedstawiciel jest obowiązany przechowywać dokumentację dotyczącą wyrobów oraz wyników dokonanej oceny zgodności wyrobów z zasadniczymi wymaganiami przez okres 10 lat od daty wyprodukowania ostatniego wyrobu, którego dokumentacja ta dotyczy, o ile przepisy szczególne nie stanowią inaczej.
 
@@ -290,10 +335,10 @@ Art. 49–57. (pominięte)
 
 - **1)** informowanie Prezesa UOKiK o wynikach przeprowadzonych kontroli w zakresie spełnienia przez wyroby zasadniczych, szczegółowych lub innych wymagań;
 - **2)** przekazywanie Prezesowi UOKiK informacji o wszczęciu i zakończeniu postępowań w zakresie wprowadzonych do obrotu lub oddanych do użytku wyrobów niezgodnych z zasadniczymi, szczegółowymi lub innymi wymaganiami;
-- **3)** niezwłoczne przekazywanie Prezesowi UOKiK kopii decyzji, o których mowa w:
-    - **a)** art. 41c ust. 3;
-    - **b)** (uchylona)
-    - **c)** (uchylona)
+- **3)** niezwłoczne przekazywanie Prezesowi UOKiK kopii decyzji, o których mowa w: art. 41c ust. 3; (uchylona) (uchylona)
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **4)** współpraca z Prezesem UOKiK i innymi organami wyspecjalizowanymi oraz organami celnymi;
 - **5)** przedstawianie Prezesowi UOKiK okresowych planów kontroli wyrobów wprowadzonych do obrotu lub oddanych do użytku;
@@ -303,13 +348,7 @@ Art. 49–57. (pominięte)
 
 5. Organy wyspecjalizowane mogą podejmować współpracę z podmiotami, o których mowa w art. 24 ust. 1 rozporządzenia (WE) nr 765/2008, w zakresie kontroli wyrobów, która obejmuje w szczególności wymianę doświadczeń, informacji i dokumentów oraz udział we wspólnych działaniach kontrolnych.
 
-6. Na wniosek organów wyspecjalizowanych organy celne udostępniają dane dotyczące podmiotów dokonujących przywozu wyrobów z państw trzecich, w tym informacje objęte tajemnicą celną, w zakresie niezbędnym do prowadzenia przez organy wyspecjalizowane kontroli oraz postępowań dotyczących spełniania przez wyroby zasadniczych, szczegółowych lub innych wymagań.
-
-**Art. 39a.** (uchylony)
-
-**Art. 39b.** (uchylony)
-
-**Art. 39c.** Organy wyspecjalizowane wprowadzają do systemu, o którym mowa w art. 62 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2022 r. poz. 1854), dane dotyczące wyrobów, o których mowa w art. 1 ust. 1a, podmiotów gospodarczych w rozumieniu ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku, oraz podjętych działań, na zasadach określonych przez Komisję Europejską.
+6. Na wniosek organów wyspecjalizowanych organy celne udostępniają dane dotyczące podmiotów dokonujących przywozu wyrobów z państw trzecich, w tym informacje objęte tajemnicą celną, w zakresie niezbędnym do prowadzenia przez organy wyspecjalizowane kontroli oraz postępowań dotyczących spełniania przez wyroby zasadniczych, szczegółowych lub innych wymagań. (uchylony) (uchylony) Organy wyspecjalizowane wprowadzają do systemu, o którym mowa w art. 62 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2022 r. poz. 1854), dane dotyczące wyrobów, o których mowa w art. 1 ust. 1a, podmiotów gospodarczych w rozumieniu ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku, oraz podjętych działań, na zasadach określonych przez Komisję Europejską.
 
 **Art. 40.**
 
@@ -319,11 +358,7 @@ Art. 49–57. (pominięte)
 
 2a. W kontroli prowadzonej przez organ wyspecjalizowany może uczestniczyć przedstawiciel właściwego organu państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, do czynności którego stosuje się przepisy niniejszego rozdziału dotyczące osoby kontrolującej.
 
-3. Do kontroli prowadzonej przez organy wyspecjalizowane stosuje się przepisy dotyczące zakresu działania tych organów oraz przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2021 r. poz. 162 i 2105 oraz z 2022 r. poz. 24, 974 i 1570).
-
-**Art. 40a.** Producenci, importerzy i dystrybutorzy wyrobów podlegających ocenie zgodności, o której mowa w art. 6 ust. 1, a także upoważnieni przedstawiciele oraz notyfikowane jednostki certyfikujące i kontrolujące oraz notyfikowane laboratoria, są obowiązani współdziałać, z należytą starannością, z organami wyspecjalizowanymi, w zakresie niezbędnym do ustalenia, czy wyrób spełnia zasadnicze, szczegółowe lub inne wymagania.
-
-**Art. 40b.**
+3. Do kontroli prowadzonej przez organy wyspecjalizowane stosuje się przepisy dotyczące zakresu działania tych organów oraz przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2021 r. poz. 162 i 2105 oraz z 2022 r. poz. 24, 974 i 1570). Producenci, importerzy i dystrybutorzy wyrobów podlegających ocenie zgodności, o której mowa w art. 6 ust. 1, a także upoważnieni przedstawiciele oraz notyfikowane jednostki certyfikujące i kontrolujące oraz notyfikowane laboratoria, są obowiązani współdziałać, z należytą starannością, z organami wyspecjalizowanymi, w zakresie niezbędnym do ustalenia, czy wyrób spełnia zasadnicze, szczegółowe lub inne wymagania.
 
 1. Organy wyspecjalizowane przeprowadzają kontrolę u podmiotów objętych zakresem kontroli, zwanych dalej „kontrolowanymi”.
 
@@ -336,23 +371,17 @@ Art. 49–57. (pominięte)
 - **3)** określenie terminu udostępnienia dowodów lub udzielenia informacji;
 - **4)** pouczenie o skutkach nieudostępnienia żądanych dowodów lub informacji albo udostępnienia dowodów lub informacji nieprawdziwych lub wprowadzających w błąd.
 
-**Art. 40c.**
-
 1. Jeżeli kontrolowany lub podmioty, o których mowa w art. 40b ust. 2, nie udzielą informacji lub nie współdziałają w toku kontroli, ustaleń dokonuje się na podstawie dowodów, danych lub informacji dostępnych organowi wyspecjalizowanemu przeprowadzającemu kontrolę.
 
 2. Jeżeli kontrolowany lub podmioty, o których mowa w art. 40b ust. 2, przedstawią wprowadzające w błąd lub nieprawdziwe dowody, dane lub informacje, organ wyspecjalizowany przeprowadzający kontrolę pomija je przy ustalaniu stanu faktycznego sprawy.
 
 3. Kontrolowanego lub podmioty, o których mowa w art. 40b ust. 2, informuje się o skutkach działań określonych w ust. 1 i 2.
 
-**Art. 40d.**
-
 1. Informacje uzyskane w toku kontroli przez organ wyspecjalizowany nie podlegają ujawnieniu, pod warunkiem że przekazujący je wskaże przyczynę, dla której wnioskuje o ich nieujawnienie, z zastrzeżeniem ust. 3.
 
 2. Informacje objęte tajemnicą przedsiębiorstwa, rozumiane jako nieujawnione do wiadomości publicznej informacje techniczne, technologiczne oraz organizacyjne przedsiębiorstwa lub inne informacje, co do których przedsiębiorca podjął niezbędne działania w celu zachowania ich poufności, uzyskane w toku kontroli, mogą być wykorzystane wyłącznie do celów, dla których zostały zgromadzone, z zastrzeżeniem ust. 3.
 
 3. Jeżeli zachodzi potrzeba ujawnienia informacji oraz dowodów uzyskanych w toku kontroli, Prezes UOKiK lub organ wyspecjalizowany ujawni je w zakresie niezbędnym do wyjaśnienia podjętych w postępowaniu rozstrzygnięć.
-
-**Art. 40e.**
 
 1. Kontrolę przeprowadza się w obecności kontrolowanego lub osoby przez niego upoważnionej.
 
@@ -364,8 +393,6 @@ Art. 49–57. (pominięte)
 - **4)** udostępnić obiekty i pomieszczenia, w których znajdują się dokumenty i wyroby objęte zakresem kontroli;
 - **5)** udzielać wszelkich wyjaśnień w sprawach objętych zakresem kontroli;
 - **6)** udostępnić dokumenty w celu sporządzenia kopii; zgodność kopii z oryginałem dokumentu potwierdza kontrolowany lub osoba przez niego upoważniona.
-
-**Art. 40f.**
 
 1. W toku kontroli osoba kontrolująca w szczególności może:
 
@@ -382,8 +409,6 @@ Art. 49–57. (pominięte)
 2. Osoba kontrolująca jest uprawniona do wstępu oraz poruszania się na terenie, w obiektach i pomieszczeniach kontrolowanego za okazaniem legitymacji służbowej oraz upoważnienia do przeprowadzenia kontroli, bez obowiązku uzyskiwania przepustki określonej w regulaminie wewnętrznym.
 
 3. Osoba kontrolująca podlega przepisom bezpieczeństwa i higieny pracy obowiązującym w jednostce kontrolowanej.
-
-**Art. 40g.**
 
 1. Przedmiotem kontroli może być wyrób, prawidłowość oznakowania wyrobu oraz dokumentacja techniczna wyrobu.
 
@@ -403,13 +428,9 @@ Art. 49–57. (pominięte)
 
 5. Jeżeli dokumenty, o których mowa w ust. 2–4, sporządzono w języku obcym, osoba kontrolująca może żądać, w zakresie niezbędnym do przeprowadzenia kontroli, tłumaczenia tych dokumentów na język polski.
 
-**Art. 40h.**
-
 1. W przypadku gdy osoba zobowiązana do przechowywania dokumentów związanych z oceną zgodności nie przedstawi tych dokumentów osobie kontrolującej lub z przedstawionych dokumentów nie wynika, że wyrób spełnia zasadnicze lub szczegółowe wymagania, organ wyspecjalizowany może poddać wyrób badaniom lub zlecić ich przeprowadzenie akredytowanemu laboratorium w celu ustalenia, czy wyrób spełnia zasadnicze lub szczegółowe wymagania.
 
 2. W celu stwierdzenia, czy wyrób spełnia zasadnicze lub szczegółowe wymagania, organ wyspecjalizowany może również poddać wyrób badaniom z pominięciem weryfikowania dokumentów związanych z oceną zgodności.
-
-**Art. 40i.**
 
 1. W przypadku zabezpieczenia dowodów, pobrania próbek, dokonania oględzin lub przeprowadzenia innych czynności sporządza się protokół.
 
@@ -426,8 +447,6 @@ Art. 49–57. (pominięte)
 
 6. Po przeprowadzeniu badań sporządza się sprawozdanie z badań, które dołącza się do protokołu kontroli.
 
-**Art. 40j.**
-
 1. W przypadku stwierdzenia, że wyrób nie spełnia zasadniczych lub szczegółowych wymagań, opłaty związane z badaniami ponosi osoba, która wprowadziła wyrób do obrotu lub oddała go do użytku.
 
 2. Opłaty, o których mowa w ust. 1, organ wyspecjalizowany ustala na podstawie uzasadnionych kosztów badań, z uwzględnieniem rodzaju badanego wyrobu oraz stopnia skomplikowania i zakresu przeprowadzonych badań.
@@ -438,8 +457,6 @@ Art. 49–57. (pominięte)
 
 5. Do opłat, o których mowa w ust. 1, stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
 
-**Art. 40k.**
-
 1. W przypadku gdy w wyniku kontroli organ wyspecjalizowany, który ją przeprowadził, stwierdzi, że wyrób nie spełnia zasadniczych, szczegółowych lub innych wymagań, może, w drodze decyzji, zakazać udostępniania wyrobu na okres nie dłuższy niż 2 miesiące.
 
 2. W przypadku stwierdzenia niezgodności z wymaganiami, niepowodujących poważnego zagrożenia, organ wyspecjalizowany może zwrócić się do właściwego producenta, jego upoważnionego przedstawiciela, importera lub dystrybutora o usunięcie niezgodności lub wycofanie wyrobu z obrotu lub z użytku oraz przedstawienie dowodów podjętych działań w terminie określonym przez organ wyspecjalizowany.
@@ -448,19 +465,13 @@ Art. 49–57. (pominięte)
 
 4. W przypadku wszczęcia postępowania, o którym mowa w art. 41, organ wyspecjalizowany prowadzący postępowanie może, w drodze decyzji, przedłużyć okres obowiązywania zakazu, o którym mowa w ust. 1, do czasu zakończenia postępowania.
 
-5. W przypadku gdy organ wyspecjalizowany prowadzący postępowanie stwierdzi, że wyrób spełnia wymagania, uchyla decyzję, o której mowa w ust. 1.
-
-**Art. 40l.** Organ wyspecjalizowany, który przeprowadził kontrolę, przekazuje Prezesowi UOKiK informacje dotyczące ustaleń kontroli, w szczególności informację, czy wyrób spełnia zasadnicze, szczegółowe lub inne wymagania, a w przypadku stwierdzenia niezgodności z zasadniczymi, szczegółowymi lub innymi wymaganiami – informację, czy mogą być one usunięte.
-
-**Art. 40m.** W przypadku gdy przepisy szczególne dopuszczają możliwość, przed wprowadzeniem do obrotu lub oddaniem do użytku, prezentowania na targach, wystawach i pokazach oraz w innych miejscach wyrobów niezgodnych z zasadniczymi, szczegółowymi lub innymi wymaganiami, organy wyspecjalizowane mogą przeprowadzać kontrolę przestrzegania sposobu ich prezentowania, określonego przez te przepisy.
+5. W przypadku gdy organ wyspecjalizowany prowadzący postępowanie stwierdzi, że wyrób spełnia wymagania, uchyla decyzję, o której mowa w ust. 1. Organ wyspecjalizowany, który przeprowadził kontrolę, przekazuje Prezesowi UOKiK informacje dotyczące ustaleń kontroli, w szczególności informację, czy wyrób spełnia zasadnicze, szczegółowe lub inne wymagania, a w przypadku stwierdzenia niezgodności z zasadniczymi, szczegółowymi lub innymi wymaganiami – informację, czy mogą być one usunięte. W przypadku gdy przepisy szczególne dopuszczają możliwość, przed wprowadzeniem do obrotu lub oddaniem do użytku, prezentowania na targach, wystawach i pokazach oraz w innych miejscach wyrobów niezgodnych z zasadniczymi, szczegółowymi lub innymi wymaganiami, organy wyspecjalizowane mogą przeprowadzać kontrolę przestrzegania sposobu ich prezentowania, określonego przez te przepisy.
 
 **Art. 41.**
 
 1. Postępowanie w sprawie wprowadzonych do obrotu lub oddanych do użytku wyrobów niezgodnych z zasadniczymi, szczegółowymi lub innymi wymaganiami, zwane dalej „postępowaniem”, wszczyna się z urzędu, w przypadku gdy ustalenia kontroli wskazują, że wyrób nie spełnia zasadniczych, szczegółowych lub innych wymagań.
 
 2. Postępowanie nie może być prowadzone dłużej niż 4 miesiące.
-
-**Art. 41a.**
 
 1. Stroną postępowania jest osoba, która wprowadziła do obrotu lub oddała do użytku wyrób niezgodny z zasadniczymi, szczegółowymi lub innymi wymaganiami, wobec której postępowanie zostało wszczęte. Stroną postępowania może być także dystrybutor.
 
@@ -470,13 +481,9 @@ Art. 49–57. (pominięte)
 
 4. Dowodem z dokumentu w postępowaniu może być tylko oryginał dokumentu lub jego kopia poświadczona przez organ administracji publicznej, notariusza, adwokata, radcę prawnego, rzecznika patentowego, doradcę podatkowego, stronę postępowania lub osobę przez nią upoważnioną.
 
-**Art. 41b.**
-
 1. Organ prowadzący postępowanie może, w drodze postanowienia, wyznaczyć stronie postępowania termin na usunięcie niezgodności wyrobu z zasadniczymi, szczegółowymi lub innymi wymaganiami albo wycofanie wyrobu z obrotu lub z użytku oraz powiadomienie konsumentów lub użytkowników wyrobu o stwierdzonych niezgodnościach, określając termin i sposób powiadomienia.
 
-2. Organ prowadzący postępowanie może przeprowadzić albo zlecić organowi, o którym mowa w art. 38 ust. 2, przeprowadzenie kontroli mającej na celu ustalenie, czy niespełnienie przez wyrób zasadniczych, szczegółowych lub innych wymagań zostało faktycznie usunięte albo wyrób został wycofany z obrotu lub z użytku. Przepisy art. 40 ust. 2 i 3 oraz art. 40a–40j stosuje się odpowiednio.
-
-**Art. 41c.**
+2. Organ prowadzący postępowanie może przeprowadzić albo zlecić organowi, o którym mowa w art. 38 ust. 2, przeprowadzenie kontroli mającej na celu ustalenie, czy niespełnienie przez wyrób zasadniczych, szczegółowych lub innych wymagań zostało faktycznie usunięte albo wyrób został wycofany z obrotu lub z użytku. Przepisy art. 40 ust. 2 i 3 oraz art. 40a-40j stosuje się odpowiednio.
 
 1. Do terminu określonego w art. 41 ust. 2 nie wlicza się okresów, o których mowa w art. 41b.
 
@@ -505,42 +512,20 @@ Art. 49–57. (pominięte)
 
 9. Jeżeli wymaga tego interes konsumentów lub użytkowników wyrobu, organ prowadzący postępowanie nadaje decyzji, o której mowa w ust. 3, rygor natychmiastowej wykonalności.
 
-10. W celu stwierdzenia, czy decyzja, o której mowa w ust. 3, została wykonana, organ prowadzący postępowanie może przeprowadzić kontrolę lub zlecić jej przeprowadzenie organowi, o którym mowa w art. 38 ust. 2. Przepisy art. 40 ust. 2 i 3 oraz art. 40a–40j stosuje się odpowiednio.
+10. W celu stwierdzenia, czy decyzja, o której mowa w ust. 3, została wykonana, organ prowadzący postępowanie może przeprowadzić kontrolę lub zlecić jej przeprowadzenie organowi, o którym mowa w art. 38 ust. 2. Przepisy art. 40 ust. 2 i 3 oraz art. 40a-40j stosuje się odpowiednio.
 
 **Art. 42.** (uchylony)
 
-**Art. 43.** (utracił moc)
-
-**Art. 43a.**
-
-1. Zasady postępowania organów celnych w przypadku stwierdzenia podczas kontroli celnej wyrobów, które mają być dopuszczone do obrotu, istnienia uzasadnionych okoliczności wskazujących, że wyrób nie spełnia zasadniczych, szczegółowych lub innych wymagań, określają przepisy odrębne.
-
-2. Opinię w sprawie spełniania przez wyrób zasadniczych, szczegółowych lub innych wymagań na wniosek organów celnych wydają organy wyspecjalizowane właściwe ze względu na lokalizację produktu oraz przedmiot wniosku.
-
-3. W razie stwierdzenia w opinii, o której mowa w ust. 2, że wyrób stwarza poważne zagrożenie, organ wyspecjalizowany, który wydał opinię, a w przypadku opinii wydanych przez organ wyspecjalizowany, o którym mowa w art. 38 ust. 2 pkt 2, okręgowy inspektor pracy, może wszcząć postępowanie w sprawie zniszczenia wyrobu w przypadkach określonych w art. 29 ust. 4 rozporządzenia (WE) nr 765/2008.
-
-4. Stroną postępowania w sprawie zniszczenia wyrobu jest importer.
-
-5. (uchylony)
-
-6. (uchylony)
-
-7. Koszty przechowywania wyrobu w okresie trwania postępowania w sprawie zniszczenia wyrobu i koszty jego zniszczenia ponosi importer.
-
-8. O działaniach podjętych w odniesieniu do zatrzymanych wyrobów organy celne informują Prezesa UOKiK.
-
-9. (uchylony) 9a. Szczegółowe zasady współpracy między organami celnymi a organami wyspecjalizowanymi mogą zostać określone w drodze porozumienia.
-
-**Art. 43b.** W zakresie nieuregulowanym w niniejszym rozdziale do postępowania w sprawie wprowadzonych do obrotu lub oddanych do użytku wyrobów niezgodnych z zasadniczymi, szczegółowymi lub innymi wymaganiami oraz do postępowania, o którym mowa w art. 43a ust. 3 i 4, stosuje się przepisy Kodeksu postępowania administracyjnego.
+**Art. 43.** (utracił moc) 1. Zasady postępowania organów celnych w przypadku stwierdzenia podczas kontroli celnej wyrobów, które mają być dopuszczone do obrotu, istnienia uzasadnionych okoliczności wskazujących, że wyrób nie spełnia zasadniczych, szczegółowych lub innych wymagań, określają przepisy odrębne. 2. Opinię w sprawie spełniania przez wyrób zasadniczych, szczegółowych lub innych wymagań na wniosek organów celnych wydają organy wyspecjalizowane właściwe ze względu na lokalizację produktu oraz przedmiot wniosku. 3. W razie stwierdzenia w opinii, o której mowa w ust. 2, że wyrób stwarza poważne zagrożenie, organ wyspecjalizowany, który wydał opinię, a w przypadku opinii wydanych przez organ wyspecjalizowany, o którym mowa w art. 38 ust. 2 pkt 2, okręgowy inspektor pracy, może wszcząć postępowanie w sprawie zniszczenia wyrobu w przypadkach określonych w art. 29 ust. 4 rozporządzenia (WE) nr 765/2008. 4. Stroną postępowania w sprawie zniszczenia wyrobu jest importer. 5. (uchylony) 6. (uchylony) 7. Koszty przechowywania wyrobu w okresie trwania postępowania w sprawie zniszczenia wyrobu i koszty jego zniszczenia ponosi importer. 8. O działaniach podjętych w odniesieniu do zatrzymanych wyrobów organy celne informują Prezesa UOKiK. 9. (uchylony) 9a. Szczegółowe zasady współpracy między organami celnymi a organami wyspecjalizowanymi mogą zostać określone w drodze porozumienia. W zakresie nieuregulowanym w niniejszym rozdziale do postępowania w sprawie wprowadzonych do obrotu lub oddanych do użytku wyrobów niezgodnych z zasadniczymi, szczegółowymi lub innymi wymaganiami oraz do postępowania, o którym mowa w art. 43a ust. 3 i 4, stosuje się przepisy Kodeksu postępowania administracyjnego.
 
 **Art. 44.**
 
 1. Prezes UOKiK, jako organ monitorujący funkcjonowanie systemu kontroli wyrobów, niezwłocznie informuje Komisję Europejską o decyzjach, o których mowa w:
 
 - **1)** art. 41c ust. 3 pkt 1–3 i ust. 5,
-- **2)** art. 30 ust. 1 pkt 2 i 3 i ust. 2, art. 31 ust. 1 pkt 2 i 3 i ust. 2 oraz art. 31a ust. 3 ustawy z dnia 16 kwietnia 2004 r. o wyrobach budowlanych – jeżeli dotyczą one wyrobów, które zostały lub mogą zostać udostępnione na terytorium państwa członkowskiego Unii Europejskiej innego niż Rzeczpospolita Polska lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym.
+- **2)** art. 30 ust. 1 pkt 2 i 3 i ust. 2, art. 31 ust. 1 pkt 2 i 3 i ust. 2 oraz art. 31a ust. 3 ustawy z dnia 16 kwietnia 2004 r. o wyrobach budowlanych jeżeli dotyczą one wyrobów, które zostały lub mogą zostać udostępnione na terytorium państwa członkowskiego Unii Europejskiej innego niż Rzeczpospolita Polska lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym.
 
-2. (uchylony)
+2. W przypadku stwierdzenia przez organ wyspecjalizowany, że wyrób stwarza poważne zagrożenie, Prezes UOKiK przekazuje, na zasadach określonych w art. 29 ustawy z dnia 12 grudnia 2003 r. o ogólnym bezpieczeństwie produktów (Dz. U. z 2021 r. poz. 222), informacje określone w ust. 1 oraz informacje o działaniach podjętych z własnej inicjatywy przez producenta, jego upoważnionego przedstawiciela, importera lub dystrybutora w celu wyeliminowania zagrożenia stwarzanego przez wyrób.
 
 #### Rozdział 7 Odpowiedzialność karna
 
@@ -548,13 +533,7 @@ Art. 49–57. (pominięte)
 
 **Art. 46.** Kto umieszcza oznakowanie zgodności na wyrobie, który nie spełnia zasadniczych lub szczegółowych wymagań albo dla którego producent lub jego upoważniony przedstawiciel nie wystawił deklaracji zgodności, podlega grzywnie.
 
-**Art. 47.** Kto umieszcza na wyrobie znak podobny do oznakowania zgodności, mogący wprowadzić w błąd użytkownika, konsumenta lub dystrybutora tego wyrobu, podlega grzywnie.
-
-**Art. 47a.** Kto wprowadza do obrotu lub oddaje do użytku wyrób podlegający oznakowaniu zgodności a nieposiadający takiego oznakowania, podlega grzywnie.
-
-**Art. 47b.** Kto umieszcza oznakowanie zgodności na wyrobie, który nie podlega temu oznakowaniu lub wprowadza do obrotu taki wyrób, podlega grzywnie.
-
-**Art. 47c.** Kto będąc obowiązanym do przechowywania próbki kontrolnej, niszczy ją, usuwa spod zabezpieczenia lub uniemożliwia zbadanie tej próbki, podlega grzywnie.
+**Art. 47.** Kto umieszcza na wyrobie znak podobny do oznakowania zgodności, mogący wprowadzić w błąd użytkownika, konsumenta lub dystrybutora tego wyrobu, podlega grzywnie. Kto wprowadza do obrotu lub oddaje do użytku wyrób podlegający oznakowaniu zgodności a nieposiadający takiego oznakowania, podlega grzywnie. Kto umieszcza oznakowanie zgodności na wyrobie, który nie podlega temu oznakowaniu lub wprowadza do obrotu taki wyrób, podlega grzywnie. Kto będąc obowiązanym do przechowywania próbki kontrolnej, niszczy ją, usuwa spod zabezpieczenia lub uniemożliwia zbadanie tej próbki, podlega grzywnie.
 
 **Art. 48.** (uchylony)
 
@@ -578,19 +557,19 @@ Art. 49–57. (pominięte)
 
 **Art. 65.**
 
-1. Przepisy art. 6–8, art. 14, art. 21–24 i art. 44 stosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej , chyba że wcześniej wejdzie w życie Protokół do Układu Europejskiego między Rzecząpospolitą Polską a Wspólnotami Europejskimi w sprawie Oceny Zgodności i Dopuszczania Wyrobów Przemysłowych, zwany dalej „Protokołem”.
+1. Przepisy art. 6–8, art. 14, art. 21–24 i art. 44 stosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej, chyba że wcześniej wejdzie w życie Protokół do Układu Europejskiego między Rzecząpospolitą Polską a Wspólnotami Europejskimi w sprawie Oceny Zgodności i Dopuszczania Wyrobów Przemysłowych, zwany dalej „Protokołem”.
 
-2. Przepis art. 12 stosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej , a dla wyrobów objętych zakresem Protokołu – od dnia jego wejścia w życie.
+2. Przepis art. 12 stosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej, a dla wyrobów objętych zakresem Protokołu – od dnia jego wejścia w życie.
 
-3. Przepis art. 43 stosuje się do dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej .
+3. Przepis art. 43 stosuje się do dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
 
-**Art. 66.** Traci moc rozporządzenie Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o dozorze nad artykułami żywności i przedmiotami użytku (Dz. U. poz. 343, z późn. zm. ).
+**Art. 66.** Traci moc rozporządzenie Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o dozorze nad artykułami żywności i przedmiotami użytku (Dz. U. poz. 343, z późn. zm.).
 
 **Art. 67.**
 
 1. Traci moc ustawa z dnia 28 kwietnia 2000 r. o systemie oceny zgodności, akredytacji oraz zmianie niektórych ustaw (Dz. U. poz. 489, z 2001 r. poz. 636 oraz z 2002 r. poz. 676 i 1360).
 
-2. Z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej traci moc ustawa z dnia 3 kwietnia 1993 r. o badaniach i certyfikacji (Dz. U. poz. 250, z późn. zm. ).
+2. Z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej traci moc ustawa z dnia 3 kwietnia 1993 r. o badaniach i certyfikacji (Dz. U. poz. 250, z późn. zm.).
 
-**Art. 68.** Ustawa wchodzi w życie z dniem 1 stycznia 2003 r., z wyjątkiem art. 52, który wchodzi w życie z dniem ogłoszenia .
+**Art. 68.** Ustawa wchodzi w życie z dniem 1 stycznia 2003 r., z wyjątkiem art. 52, który wchodzi w życie z dniem ogłoszenia.
 

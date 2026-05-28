@@ -8,12 +8,10 @@ pos: 35
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o Polskim Bonie Turystycznym
-
-*USTAWA z dnia 15 lipca 2020 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 1 grudnia 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Polskim Bonie Turystycznym
 
 | Pole | Wartość |
 |---|---|
@@ -27,13 +25,38 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-01-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000035) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/35/text.pdf) |
 
-Art. 40–43. (pominięte)
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 15 lipca 2020 r. o Polskim Bonie Turystycznym Rozdział 1 – Przepisy ogólne Rozdział 2 – Realizacja bonu Rozdział 3 – Przetwarzanie danych osobowych Rozdział 4 – System teleinformatyczny Rozdział 5 – Finansowanie i sprawozdawczość Rozdział 6 – Przepisy karne Rozdział 7 – Przepisy zmieniające, dostosowujące i końcowe
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 lipca 2020 r. o Polskim Bonie Turystycznym (Dz. U. z 2022 r. poz. 1038), z uwzględnieniem zmian wprowadzonych ustawą z dnia 2 września 2022 r. o szczególnym wsparciu podmiotów poszkodowanych w związku z sytuacją ekologiczną na rzece Odrze (Dz. U. poz. 2014) oraz zmian wynikających z przepisów ogłoszonych przed dniem 29 listopada 2022 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 30 i art. 31 ustawy z dnia 2 września 2022 r. o szczególnym wsparciu podmiotów poszkodowanych w związku z sytuacją ekologiczną na rzece Odrze (Dz. U. poz. 2014), które stanowią:
+„
+Art. 40–43.
+(pominięte)
+
+**Art. 30.** W przypadku niedokonania płatności przez osobę uprawnioną za pomocą Polskiego Bonu Turystycznego, o którym mowa w ustawie zmienianej w art. 26, w terminie do dnia 30 września 2022 r., prawo do jej dokonania przysługuje od dnia wejścia w życie niniejszej ustawy do dnia 31 marca 2023 r.
+
+**Art. 31.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 sierpnia 2022 r., z wyjątkiem art. 26 i art. 30, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 15 lipca 2020 r. o Polskim Bonie Turystycznym
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa zasady przyznawania i realizacji świadczenia w formie Polskiego Bonu Turystycznego, zwanego dalej „świadczeniem w formie bonu”, oraz dodatkowego świadczenia w formie Polskiego Bonu Turystycznego, zwanego dalej „dodatkowym świadczeniem w formie bonu”.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** Polskim Bonie Turystycznym – należy przez to rozumieć dokument elektroniczny potwierdzający uprawnienie do świadczenia w formie bonu lub dodatkowego świadczenia w formie bonu;
+- **2)** dziecku niepełnosprawnym – należy przez to rozumieć dziecko legitymujące się orzeczeniem o: niepełnosprawności, lekkim, umiarkowanym albo znacznym stopniu niepełnosprawności, wydanym na podstawie przepisów o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, częściowej niezdolności do pracy, całkowitej niezdolności do pracy, całkowitej niezdolności do pracy i samodzielnej egzystencji albo niezdolności do samodzielnej egzystencji, wydanym na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, stałej albo długotrwałej niezdolności do pracy w gospodarstwie rolnym i do samodzielnej egzystencji albo trwałej lub okresowej całkowitej niezdolności do pracy w gospodarstwie rolnym i do samodzielnej egzystencji, wydanym na podstawie przepisów o ubezpieczeniu społecznym rolników;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **3)** imprezie turystycznej – należy przez to rozumieć imprezę turystyczną, o której mowa w art. 4 pkt 2 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych (Dz. U. z 2022 r. poz. 511 i 2185), imprezę turystyczną, o której mowa w art. 3 pkt 1 tej ustawy, oferowaną przez organizację pożytku publicznego, a także imprezę turystyczną, o której mowa w art. 3 pkt 3 tej ustawy, nieobejmującą noclegu, oferowaną przez organizację pożytku publicznego lub organizatora turystyki;
+- **4)** organizacji pożytku publicznego – należy przez to rozumieć organizację pożytku publicznego, o której mowa w art. 20 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2022 r. poz. 1327, 1265 i 1812);
+- **5)** przedsiębiorcy turystycznym – należy przez to rozumieć przedsiębiorcę turystycznego, o którym mowa w art. 4 pkt 7 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych;
+- **6)** usłudze hotelarskiej – należy przez to rozumieć usługę hotelarską, o której mowa w art. 3 ust. 1 pkt 8 ustawy z dnia 29 sierpnia 1997 r. o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych (Dz. U. z 2020 r. poz. 2211 oraz z 2022 r. poz. 2185);
+- **7)** organizatorze turystyki – należy przez to rozumieć organizatora turystyki, o którym mowa w art. 4 pkt 8 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych.
 
 **Art. 3.**
 
@@ -45,16 +68,16 @@ Art. 40–43. (pominięte)
 
 1. Świadczenie w formie bonu przysługuje osobie:
 
-- **1)** mającej w dniu wejścia w życie ustawy przyznane prawo do: z 2022 r. poz. 1577 i 2140), zwanego dalej „świadczeniem wychowawczym”, lub
-    - **a)** świadczenia wychowawczego, o którym mowa w ustawie z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U.
-    - **b)** dodatku, o którym mowa w art. 80 ust. 1a, art. 113a albo art. 115 ust. 2a ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2022 r. poz. 447, 1700 i 2140), zwanego dalej „dodatkiem”,
+- **1)** mającej w dniu wejścia w życie ustawy przyznane prawo do: świadczenia wychowawczego, o którym mowa w ustawie z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U. z 2022 r. poz. 1577 i 2140), zwanego dalej „świadczeniem wychowawczym”, lub dodatku, o którym mowa w art. 80 ust. 1a, art. 113a albo art. 115 ust. 2a ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2022 r. poz. 447, 1700 i 2140), zwanego dalej „dodatkiem”,
+    - **a)**
+    - **b)**
 
-- **2)** której w okresie od dnia następującego po dniu wejścia w życie ustawy do dnia 31 grudnia 2021 r. przyznano prawo do:
-    - **a)** świadczenia wychowawczego na dziecko, na które wcześniej nie było przyznane prawo do tego świadczenia lub dodatku, o którym mowa w lit. b,
-    - **b)** dodatku na dziecko, na które wcześniej nie było przyznane prawo do tego dodatku lub świadczenia wychowawczego, o którym mowa w lit. a,
+- **2)** której w okresie od dnia następującego po dniu wejścia w życie ustawy do dnia 31 grudnia 2021 r. przyznano prawo do: świadczenia wychowawczego na dziecko, na które wcześniej nie było przyznane prawo do tego świadczenia lub dodatku, o którym mowa w lit. b, dodatku na dziecko, na które wcześniej nie było przyznane prawo do tego dodatku lub świadczenia wychowawczego, o którym mowa w lit. a,
+    - **a)**
+    - **b)**
 
 - **3)** która w okresie od dnia 1 lipca 2019 r. do dnia wejścia w życie ustawy złożyła wniosek o świadczenie wychowawcze, który został przekazany przez organ właściwy do wojewody zgodnie z art. 16 ust. 1 ustawy z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci i który do dnia wejścia w życie ustawy nie został rozpatrzony przez wojewodę,
-- **4)** która w okresie od dnia następującego po dniu wejścia w życie ustawy do dnia 31 grudnia 2021 r. złożyła wniosek o świadczenie wychowawcze, który został przekazany przez organ właściwy do wojewody zgodnie z art. 16 ust. 1 ustawy z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci i który nie został rozpatrzony przez wojewodę w okresie, za który składane są informacje, o których mowa w art. 19 ust. 13 – zwanej dalej „osobą uprawnioną”.
+- **4)** która w okresie od dnia następującego po dniu wejścia w życie ustawy do dnia 31 grudnia 2021 r. złożyła wniosek o świadczenie wychowawcze, który został przekazany przez organ właściwy do wojewody zgodnie z art. 16 ust. 1 ustawy z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci i który nie został rozpatrzony przez wojewodę w okresie, za który składane są informacje, o których mowa w art. 19 ust. 13 zwanej dalej „osobą uprawnioną”.
 
 2. Dodatkowe świadczenie w formie bonu przysługuje osobie uprawnionej, jeżeli:
 
@@ -101,13 +124,13 @@ Art. 40–43. (pominięte)
 4. W przypadku niewypłacalności przedsiębiorcy turystycznego, o której mowa w przepisach ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych, odpowiednio:
 
 - **1)** podmiot udzielający zabezpieczeń finansowych, o których mowa w art. 7 ust. 2 pkt 1 i 2 tej ustawy,
-- **2)** Ubezpieczeniowy Fundusz Gwarancyjny – dokonuje zwrotu z tytułu zgłoszenia, o którym mowa w art. 16 tej ustawy, w wysokości płatności przyjętej za pomocą bonu, na rachunek bankowy POT, oddzielnie dla każdego bonu, podając w tytule przelewu numer tego bonu.
+- **2)** Ubezpieczeniowy Fundusz Gwarancyjny dokonuje zwrotu z tytułu zgłoszenia, o którym mowa w art. 16 tej ustawy, w wysokości płatności przyjętej za pomocą bonu, na rachunek bankowy POT, oddzielnie dla każdego bonu, podając w tytule przelewu numer tego bonu.
 
 5. W przypadku zwrotu środków, o których mowa w ust. 3 i 4, osobie uprawnionej przysługuje prawo do ponownego wykorzystania tych środków poprzez dokonanie płatności za pomocą bonu.
 
 6. POT niezwłocznie informuje Zakład Ubezpieczeń Społecznych, zwany dalej „ZUS”, o dokonaniu zwrotu środków, o których mowa w ust. 3 i 4, oddzielnie dla każdego bonu, podając numer tego bonu oraz kwotę podlegającą zwrotowi.
 
-7. Kwoty otrzymane w sposób, o którym mowa w ust. 3 i 4, są przekazywane na rachunek bankowy ministra właściwego do spraw turystyki i stanowią dochód budżetu państwa.
+7. Kwoty otrzymane w sposób, o którym mowa w ust. 3 i 4, stanowią przychód Funduszu Przeciwdziałania COVID-19, o którym mowa w art. 65 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.), zwanego dalej „Funduszem Przeciwdziałania COVID-19”, a po jego likwidacji – dochód budżetu państwa.
 
 **Art. 8.**
 
@@ -116,18 +139,18 @@ Art. 40–43. (pominięte)
 2. Dokonując rejestracji przedsiębiorca turystyczny lub organizacja pożytku publicznego podaje następujące dane:
 
 - **1)** imię i nazwisko, nazwę lub firmę;
-- **2)** adres:
-    - **a)** zamieszkania – w przypadku, gdy rejestracji dokonuje przedsiębiorca turystyczny będący osobą fizyczną,
-    - **b)** siedziby – w przypadku, gdy rejestracji dokonuje osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną,
-    - **c)** wykonywania działalności – w przypadku, gdy miejsce realizacji usług hotelarskich lub oferowania imprez turystycznych jest inne niż adres zamieszkania lub siedziby;
+- **2)** adres: zamieszkania – w przypadku, gdy rejestracji dokonuje przedsiębiorca turystyczny będący osobą fizyczną, siedziby – w przypadku, gdy rejestracji dokonuje osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną, wykonywania działalności – w przypadku, gdy miejsce realizacji usług hotelarskich lub oferowania imprez turystycznych jest inne niż adres zamieszkania lub siedziby;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **3)** numer:
-    - **a)** NIP – w przypadku osoby fizycznej wykonującej działalność gospodarczą, w przypadku osoby prawnej albo w przypadku jednostki organizacyjnej nieposiadającej osobowości prawnej,
-    - **b)** PESEL – w przypadku osoby fizycznej niewykonującej działalności gospodarczej, a w przypadku jego braku – rodzaj, numer i serię dokumentu potwierdzającego tożsamość;
+- **3)** numer: NIP – w przypadku osoby fizycznej wykonującej działalność gospodarczą, w przypadku osoby prawnej albo w przypadku jednostki organizacyjnej nieposiadającej osobowości prawnej, PESEL – w przypadku osoby fizycznej niewykonującej działalności gospodarczej, a w przypadku jego braku – rodzaj, numer i serię dokumentu potwierdzającego tożsamość;
+    - **a)**
+    - **b)**
 
-- **4)** informację o wpisie do:
-    - **a)** właściwej ewidencji, o której mowa w art. 38 ust. 1–3 ustawy z dnia 29 sierpnia 1997 r. o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych, lub
-    - **b)** właściwego rejestru, o którym mowa w art. 22 ust. 2 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych;
+- **4)** informację o wpisie do: właściwej ewidencji, o której mowa w art. 38 ust. 1–3 ustawy z dnia 29 sierpnia 1997 r. o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych, lub właściwego rejestru, o którym mowa w art. 22 ust. 2 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych;
+    - **a)**
+    - **b)**
 
 - **5)** numer wpisu do Krajowego Rejestru Sądowego albo informację o wpisie do Centralnej Ewidencji i Informacji o Działalności Gospodarczej – jeżeli przedsiębiorca turystyczny lub organizacja pożytku publicznego podlega obowiązkowi wpisu do tego rejestru lub ewidencji;
 - **6)** informację o oferowaniu usług hotelarskich lub imprez turystycznych, o których mowa w art. 5 ust. 1;
@@ -182,6 +205,9 @@ Art. 40–43. (pominięte)
 
 **Art. 13.** W przypadku:
 
+- **1)** ustalenia w toku czynności sprawdzających, że dane, o których mowa w art. 8 ust. 2 pkt 4, 6 i 10, nie są zgodne ze stanem faktycznym lub
+- **2)** gdy przedsiębiorca turystyczny lub organizacja pożytku publicznego odmawia poddania się czynnościom sprawdzającym lub uniemożliwia ich przeprowadzenie POT usuwa przedsiębiorcę turystycznego lub organizację pożytku publicznego z listy, o której mowa w art. 9 ust. 1, równocześnie dokonując odpowiedniej zmiany w systemie teleinformatycznym, o którym mowa w art. 27.
+
 **Art. 14.**
 
 1. POT usuwa przedsiębiorcę turystycznego lub organizację pożytku publicznego z listy, o której mowa w art. 9 ust. 1, w drodze decyzji administracyjnej, która podlega natychmiastowemu wykonaniu. Ponowna rejestracja na profilu informacyjnym w systemie teleinformatycznym, o którym mowa w art. 27, nie jest możliwa.
@@ -190,20 +216,18 @@ Art. 40–43. (pominięte)
 
 **Art. 15.**
 
-1. W przypadku ujawnienia w wyniku przeprowadzonych czynności sprawdzających, że kwota płatności dokonanej za pomocą bonu stanowi kwotę nienależnie pobraną, kwota otrzymana w wyniku dokonania tej płatności podlega zwrotowi na rachunek bankowy POT łącznie z odsetkami ustawowymi za opóźnienie, liczonymi od dnia otrzymania kwoty przez przedsiębiorcę turystycznego lub organizację pożytku publicznego.
+1. W przypadku ujawnienia w wyniku przeprowadzonych czynności sprawdzających, że kwota płatności dokonanej za pomocą bonu stanowi kwotę nienależnie pobraną kwota otrzymana w wyniku dokonania tej płatności podlega zwrotowi do Funduszu Przeciwdziałania COVID-19, a po jego likwidacji – do budżetu państwa, łącznie z odsetkami ustawowymi za opóźnienie, liczonymi od dnia otrzymania kwoty przez przedsiębiorcę turystycznego lub organizację pożytku publicznego.
 
 2. POT ustala wysokość kwoty nienależnie pobranej oraz odsetek w drodze decyzji administracyjnej.
 
 3. Od decyzji administracyjnej, o której mowa w ust. 2, przysługuje odwołanie do ministra właściwego do spraw turystyki.
 
-4. Kwota nienależnie pobranej płatności oraz odsetki podlegają zwrotowi na rachunek bankowy POT.
+4. Kwota nienależnie pobranej płatności oraz odsetki stanowią przychód Funduszu Przeciwdziałania COVID-19, a po jego likwidacji – dochód budżetu państwa.
 
 5. Za kwotę nienależnie pobranej płatności uważa się:
 
 - **1)** kwotę płatności dokonanej za pomocą bonu, pobraną na podstawie zarejestrowania w systemie teleinformatycznym, o którym mowa w art. 27, danych niezgodnych ze stanem faktycznym lub braku ich aktualizacji mimo wezwania, o którym mowa w art. 12;
 - **2)** kwotę płatności dokonanej za pomocą bonu, wydatkowaną na cele inne niż określone w art. 5 ust. 1.
-
-6. Kwoty otrzymane w sposób, o którym mowa w ust. 1 i 4, są przekazywane na rachunek bankowy ministra właściwego do spraw turystyki i stanowią dochód budżetu państwa.
 
 **Art. 16.** POT wykonuje zadania związane z promocją bonu.
 
@@ -268,9 +292,7 @@ Art. 40–43. (pominięte)
 
 3. Na podstawie informacji, o której mowa w ust. 2, POT wydaje decyzję administracyjną ustalającą nienależnie pobrane dodatkowe świadczenie w formie bonu i nakładającą obowiązek zwrotu tego świadczenia.
 
-4. Kwota nienależnie pobranego dodatkowego świadczenia w formie bonu łącznie z odsetkami ustawowymi za opóźnienie podlega zwrotowi na rachunek bankowy POT.
-
-5. Kwoty otrzymane w sposób, o którym mowa w ust. 4, są przekazywane na rachunek bankowy ministra właściwego do spraw turystyki i stanowią dochód budżetu państwa.
+4. Kwota nienależnie pobranego dodatkowego świadczenia w formie bonu łącznie z odsetkami ustawowymi za opóźnienie stanowią przychód Funduszu Przeciwdziałania COVID-19, a po jego likwidacji – dochód budżetu państwa.
 
 **Art. 22.**
 
@@ -300,9 +322,7 @@ Art. 40–43. (pominięte)
 
 4. Od decyzji administracyjnych, o których mowa w ust. 2 i 3, przysługuje odwołanie do ministra właściwego do spraw turystyki.
 
-5. Organy administracji publicznej współpracują z POT w zakresie niezbędnym do prowadzenia postępowań administracyjnych wymienionych w ust.
-
-2.
+5. Organy administracji publicznej współpracują z POT w zakresie niezbędnym do prowadzenia postępowań administracyjnych wymienionych w ust. 2.
 
 **Art. 24.**
 
@@ -318,19 +338,19 @@ Art. 40–43. (pominięte)
 
 1. Na potrzeby obsługi bonu są przetwarzane następujące dane osobowe:
 
-- **1)** osób uprawnionych:
-    - **a)** imię i nazwisko,
-    - **b)** data urodzenia,
-    - **c)** numer PESEL, a w przypadku gdy nie nadano numeru PESEL – rodzaj, numer i seria dokumentu potwierdzającego tożsamość,
-    - **d)** adres zamieszkania,
-    - **e)** adres poczty elektronicznej i numer telefonu,
-    - **f)** wartość udzielonych świadczeń wychowawczych i dodatków,
-    - **g)** informacje dotyczące złożenia przez osobę uprawnioną wniosków, o których mowa w art. 4 ust. 1 pkt 3 lub w art. 4 ust. 1 pkt 4, i przekazaniu ich do wojewody,
-    - **h)** informacje dotyczące wydania przez wojewodę decyzji, o których mowa w art. 4 ust. 3 lub w art. 4 ust. 4;
+- **1)** osób uprawnionych: imię i nazwisko, data urodzenia, numer PESEL, a w przypadku gdy nie nadano numeru PESEL – rodzaj, numer i seria dokumentu potwierdzającego tożsamość, adres zamieszkania, adres poczty elektronicznej i numer telefonu, wartość udzielonych świadczeń wychowawczych i dodatków, informacje dotyczące złożenia przez osobę uprawnioną wniosków, o których mowa w art. 4 ust. 1 pkt 3 lub w art. 4 ust. 1 pkt 4, i przekazaniu ich do wojewody, informacje dotyczące wydania przez wojewodę decyzji, o których mowa w art. 4 ust. 3 lub w art. 4 ust. 4;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
 
-- **2)** dzieci:
-    - **a)** imię i nazwisko,
-    - **b)** numer PESEL, a w przypadku gdy nie nadano numeru PESEL – rodzaj, numer i seria dokumentu potwierdzającego tożsamość;
+- **2)** dzieci: imię i nazwisko, numer PESEL, a w przypadku gdy nie nadano numeru PESEL – rodzaj, numer i seria dokumentu potwierdzającego tożsamość;
+    - **a)**
+    - **b)**
 
 - **3)** informację o orzeczeniu, o którym mowa w art. 18 ust. 3.
 
@@ -365,11 +385,7 @@ Art. 40–43. (pominięte)
 
 2. Osoba uprawniona, przedsiębiorca turystyczny oraz organizacja pożytku publicznego mogą zgłaszać błędy za pomocą udostępnionego narzędzia komunikacji współpracującego z systemem teleinformatycznym.
 
-3. Narzędzie komunikacji do zgłoszeń błędów oraz udzielania informacji związanych z obsługą bonu zapewnia i obsługuje ZUS we współpracy z POT.
-
-**Art. 30.** Do zamówień na usługi lub dostawy mających na celu realizację ustawy przez ZUS, w tym w szczególności do rozbudowy, dostosowania lub utrzymania systemu teleinformatycznego, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych.
-
-**Art. 31.**
+3. Narzędzie komunikacji do zgłoszeń błędów oraz udzielania informacji związanych z obsługą bonu zapewnia i obsługuje ZUS we współpracy z POT. Do zamówień na usługi lub dostawy mających na celu realizację ustawy przez ZUS, w tym w szczególności do rozbudowy, dostosowania lub utrzymania systemu teleinformatycznego, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych.
 
 1. W terminie do dnia 30 września 2023 r. ZUS przekaże POT dane zgromadzone w systemie teleinformatycznym.
 
@@ -389,7 +405,7 @@ Art. 40–43. (pominięte)
 
 5. Minister właściwy do spraw turystyki na wniosek ZUS może przekazać dodatkowe środki finansowe przeznaczone na realizację płatności za bony na podstawie pisemnych wniosków określających ich wysokość, składanych przez ZUS w terminie innym niż określony w ust. 3. Środki są przekazywane w terminie do 7 dni roboczych od dnia otrzymania wniosku.
 
-6. Odsetki od środków zgromadzonych na rachunku, o którym mowa w ust. 4, stanowią dochód budżetu państwa i są przekazywane na rachunek bankowy wskazany przez ministra właściwego do spraw turystyki, w terminie 5 dni roboczych od dnia ich naliczenia.
+6. Odsetki od środków zgromadzonych na rachunku, o którym mowa w ust. 4, stanowią przychód Funduszu Przeciwdziałania COVID-19, a w przypadku jego likwidacji – dochód budżetu państwa i są przekazywane na rachunek bankowy wskazany przez ministra właściwego do spraw turystyki, w terminie 5 dni roboczych od dnia ich naliczenia.
 
 **Art. 33.** ZUS realizuje płatność za bon na rzecz przedsiębiorcy turystycznego lub organizacji pożytku publicznego w terminie 14 dni od dnia przyjęcia płatności za pomocą bonu, na rachunek, o którym mowa w art. 8 ust. 2 pkt 7.
 
@@ -401,9 +417,9 @@ Art. 40–43. (pominięte)
 
 **Art. 35.**
 
-1. (uchylony)
+1. Źródłem finansowania zadań POT określonych w ustawie jest wpłata z Funduszu Przeciwdziałania COVID-19.
 
-2. Źródłem finansowania zadań POT wynikających z ustawy jest dotacja celowa z budżetu państwa przekazywana przez ministra właściwego do spraw turystyki.
+2. Źródłem finansowania zadań POT wynikających z ustawy w przypadku likwidacji Funduszu Przeciwdziałania COVID-19 jest dotacja celowa z budżetu państwa przekazywana przez ministra właściwego do spraw turystyki.
 
 **Art. 36.**
 
@@ -437,6 +453,9 @@ Art. 40–43. (pominięte)
 
 **Art. 44.** Minister właściwy do spraw turystyki poda do publicznej wiadomości w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego tego ministra informację o terminie możliwości:
 
+- **1)** rejestracji w systemie teleinformatycznym, o którym mowa w art. 27, przez przedsiębiorcę turystycznego lub organizację pożytku publicznego;
+- **2)** aktywacji bonów w systemie teleinformatycznym, o którym mowa w art. 27.
+
 **Art. 45.**
 
 1. W roku 2022 minister właściwy do spraw rodziny udostępni ZUS informacje, o których mowa w art. 19 ust. 9, za grudzień 2021 r., w terminie do dnia 15 lutego 2022 r.
@@ -449,5 +468,8 @@ Art. 40–43. (pominięte)
 
 **Art. 48.** Minister właściwy do spraw turystyki w terminach do dnia 31 sierpnia 2021 r., do dnia 31 sierpnia 2022 r. oraz do dnia 31 sierpnia 2023 r. przedstawi Sejmowi informację w sprawie realizacji ustawy oraz oceny skuteczności i efektów ekonomicznych bonów.
 
-**Art. 49.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia .
+**Art. 49.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+- **1)** Ze zmianą wprowadzoną przez art. 26 pkt 1 ustawy z dnia 2 września 2022 r. o szczególnym wsparciu podmiotów poszkodowanych w związku z sytuacją ekologiczną na rzece Odrze (Dz. U. poz. 2014); wszedł w życie z dniem 30 września 2022 r. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368 oraz z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127 i 2236. 3) Ze zmianą wprowadzoną przez art. 26 pkt 2 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 30 września 2022 r. 4) Ze zmianą wprowadzoną przez art. 26 pkt 3 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 30 września 2022 r. 5) Ustawa została ogłoszona w dniu 17 lipca 2020 r.
+
 

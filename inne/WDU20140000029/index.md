@@ -22,10 +22,126 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-11-22 |
 | Data wydania | 2014-01-09 |
+| Wejście w życie | 2014-01-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000029) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/29/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2008 r. Nr 213, poz. 1342, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w odnośniku nr 1 do ustawy: w pkt 1: – uchyla się lit. f i h, – w lit. za średnik zastępuje się przecinkiem i dodaje się lit. zb i zc w brzmieniu: „ zb) dyrektywy Rady 2009/156/WE z dnia 30 listopada 2009 r. w sprawie warunków zdrowotnych zwierząt, regulujących przemieszczanie i przywóz zwierząt z rodziny koniowatych z państw trzecich (Dz. Urz. UE L 192 z 23.07.2010, str. 1), zc) dyrektywy Rady 2009/158/WE z dnia 30 listopada 2009 r. w sprawie warunków zdrowotnych zwierząt, regulujących handel wewnątrzwspólnotowy i przywóz z państw trzecich drobiu i jaj wylęgowych (Dz. Urz. UE L 343 z 22.12.2009, str. 74); ” , w pkt 2: – uchyla się lit. b, – w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f i g w brzmieniu: „ f) rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1069/2009 z dnia 21 października 2009 r. określającego przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego, nieprzeznaczonych do spożycia przez ludzi, i uchylającego rozporządzenie (WE) nr 1774/2002 (rozporządzenie o produktach ubocznych pochodzenia zwierzęcego) (Dz. Urz. UE L 300 z 14.11.2009, str. 1, z późn. zm.), g) rozporządzenia Komisji (UE) nr 142/2011 z dnia 25 lutego 2011 r. w sprawie wykonania rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1069/2009 określającego przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego, nieprzeznaczonych do spożycia przez ludzi, oraz w sprawie wykonania dyrektywy Rady 97/78/WE w odniesieniu do niektórych próbek i przedmiotów zwolnionych z kontroli weterynaryjnych na granicach w myśl tej dyrektywy (Dz. Urz. UE L 54 z 26.02.2011, str. 1, z późn. zm.). ” ;
+    - **a)**
+    - **b)**
+
+- **2)** w art. 1: w pkt 1 lit. o otrzymuje brzmienie: „ określonym w art. 23 ust. 1 lit. a lub art. 24 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1069/2009 z dnia 21 października 2009 r. określającego przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego, nieprzeznaczonych do spożycia przez ludzi, i uchylającego rozporządzenie (WE) nr 1774/2002 (rozporządzenie o produktach ubocznych pochodzenia zwierzęcego) (Dz. Urz. UE L 300 z 14.11.2009, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 1069/2009”, nieuregulowane w przepisach rozporządzenia nr 1069/2009 lub przepisach Unii Europejskiej wydanych w trybie tego rozporządzenia, ” , pkt 2 otrzymuje brzmienie: „
+    - **a)**
+    - **o)**
+    - **b)**
+
+- **2)** wymagania weterynaryjne dla: przywozu zwierząt i niejadalnych produktów pochodzenia zwierzęcego oraz tranzytu zwierząt, umieszczania na rynku, w tym handlu, zwierząt i niejadalnych produktów pochodzenia zwierzęcego oraz przemieszczania koniowatych, przywozu, tranzytu oraz umieszczania na rynku, w tym handlu, produktów ubocznych pochodzenia zwierzęcego w rozumieniu art. 3 pkt 1 w związku z art. 2 ust. 2 rozporządzenia nr 1069/2009, zwanych dalej „produktami ubocznymi pochodzenia zwierzęcego”, i produktów pochodnych w rozumieniu art. 3 pkt 2 rozporządzenia nr 1069/2009, zwanych dalej „produktami pochodnymi” – w zakresie nieuregulowanym w przepisach rozporządzenia nr 1069/2009 oraz w przepisach Unii Europejskiej wydanych w trybie tego rozporządzenia; ” ;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **3)** w art. 2: pkt 6 otrzymuje brzmienie: „
+    - **a)**
+
+- **6)** zwierzęta gospodarskie – zwierzęta gospodarskie w rozumieniu przepisów o organizacji hodowli i rozrodzie zwierząt gospodarskich, a w przypadku działalności w zakresie określonym w art. 23 ust. 1 lit. a lub art. 24 ust. 1 rozporządzenia nr 1069/2009 – zwierzęta gospodarskie w rozumieniu art. 3 pkt 6 rozporządzenia nr 1069/2009; ” , pkt 12 i 13 otrzymują brzmienie: „
+    - **b)**
+
+- **12)** handel – swobodny obrót między państwami członkowskimi Unii Europejskiej w rozumieniu art. 28 ust. 2 Traktatu o funkcjonowaniu Unii Europejskiej;
+- **13)** umieszczanie na rynku – przetrzymywanie lub prezentację w celu sprzedaży, oferowanie do sprzedaży, sprzedaż, dostarczanie lub każdy inny sposób wprowadzania na rynek, a w przypadku produktów ubocznych pochodzenia zwierzęcego i produktów pochodnych oraz nawozów organicznych i polepszaczy gleby w rozumieniu art. 3 pkt 22 rozporządzenia nr 1069/2009 – wprowadzanie do obrotu w rozumieniu art. 3 pkt 14 rozporządzenia nr 1069/2009; ” , pkt 15 otrzymuje brzmienie: „
+    - **c)**
+
+- **15)** produkty – niejadalne produkty pochodzenia zwierzęcego, produkty uboczne pochodzenia zwierzęcego, produkty pochodne i produkty pochodzenia zwierzęcego w rozumieniu przepisów o produktach pochodzenia zwierzęcego; ” ;
+- **4)** w art. 3 ust. 2 otrzymuje brzmienie: „
+
+2. Do produktów ubocznych pochodzenia zwierzęcego oraz produktów pochodnych, w zakresie nieuregulowanym w rozporządzeniu nr 1069/2009, w przepisach Unii Europejskiej wydanych w trybie tego rozporządzenia oraz w ustawie, stosuje się przepisy o odpadach. ” ;
+
+- **5)** w art. 4 ust. 3 otrzymuje brzmienie: „
+
+3. Wymagania weterynaryjne dla prowadzenia działalności nadzorowanej w zakresie określonym w art. 23 ust. 1 lit. a lub art. 24 ust. 1 rozporządzenia nr 1069/2009, zwanej dalej „działalnością nadzorowaną w zakresie produktów ubocznych pochodzenia zwierzęcego lub produktów pochodnych”, są określone w rozporządzeniu nr 1069/2009, w przepisach Unii Europejskiej wydanych w trybie tego rozporządzenia oraz w ustawie. ” ;
+
+- **6)** w art. 6: po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+
+1a. Podjęcie działalności nadzorowanej w zakresie produktów ubocznych pochodzenia zwierzęcego lub produktów pochodnych jest dozwolone po:
+
+- **1)** dokonaniu rejestracji podmiotu, przedsiębiorstwa lub zakładu, o której mowa w art. 23 rozporządzenia nr 1069/2009,
+- **2)** zatwierdzeniu przedsiębiorstwa lub zakładu, o którym mowa w art. 24 ust. 1 rozporządzenia nr 1069/2009, lub
+- **3)** warunkowym zatwierdzeniu przedsiębiorstwa lub zakładu, o którym mowa w art. 44 ust. 2 rozporządzenia nr 1069/2009. ” , ust. 2–4 otrzymują brzmienie: „
+    - **b)**
+
+2. Powiatowy lekarz weterynarii właściwy ze względu na planowane miejsce prowadzenia działalności nadzorowanej w zakresie produktów ubocznych pochodzenia zwierzęcego lub produktów pochodnych, na wniosek podmiotu zamierzającego prowadzić taką działalność, dokonuje rejestracji, o której mowa w ust. 1a pkt 1, oraz wydaje decyzje w sprawach, o których mowa w ust. 1a pkt 2 lub 3.
+
+3. Wniosek, o którym mowa w ust. 2:
+
+- **1)** składa się co najmniej na 30 dni przed planowanym rozpoczęciem działalności;
+- **2)** zawiera: imię, nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres wnioskodawcy, określenie rodzaju działalności, którą wnioskodawca zamierza prowadzić, oraz informacje określone w art. 23 ust. 1 lit. b rozporządzenia nr 1069/2009, określenie adresu przedsiębiorstwa lub zakładu w rozumieniu art. 3 pkt 13 rozporządzenia nr 1069/2009, jeżeli działalność będzie prowadzona w takim przedsiębiorstwie lub zakładzie.
+    - **a)**
+    - **b)**
+    - **c)**
+
+4. Powiatowy lekarz weterynarii:
+
+- **1)** dokonując rejestracji podmiotu, przedsiębiorstwa lub zakładu, o której mowa w art. 23 rozporządzenia nr 1069/2009, w drodze decyzji,
+- **2)** wydając decyzje o: zatwierdzeniu przedsiębiorstwa lub zakładu, o którym mowa w art. 24 ust. 1 rozporządzenia nr 1069/2009, warunkowym zatwierdzeniu przedsiębiorstwa lub zakładu, o którym mowa w art. 44 ust. 2 rozporządzenia nr 1069/2009 nadaje numer urzędowy, o którym mowa w art. 47 ust. 1 akapit drugi rozporządzenia nr 1069/2009, będący weterynaryjnym numerem identyfikacyjnym, podmiotowi, przedsiębiorstwu lub zakładowi w rozumieniu art. 3 pkt 11 lub 13 rozporządzenia nr 1069/2009. ” ;
+    - **a)**
+    - **b)**
+
+- **7)** w art. 8: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Powiatowy lekarz weterynarii w przypadku stwierdzenia, że przy prowadzeniu działalności nadzorowanej, o której mowa w art. 1 pkt 1 lit. a-n oraz p, są naruszone wymagania weterynaryjne określone dla tej działalności, w zależności od zagrożenia stwarzanego dla zdrowia publicznego lub zdrowia zwierząt, wydaje decyzję: ” , po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
+    - **a)**
+    - **b)**
+
+1a. Powiatowy lekarz weterynarii, w drodze decyzji:
+
+- **1)** zawiesza zatwierdzenie przedsiębiorstwa lub zakładu – w przypadku, o którym mowa w art. 46 ust. 1 lit. a rozporządzenia nr 1069/2009;
+- **2)** cofa zatwierdzenie przedsiębiorstwa lub zakładu – w przypadku, o którym mowa w art. 46 ust. 1 lit. b rozporządzenia nr 1069/2009;
+- **3)** nakłada na przedsiębiorstwo lub zakład obowiązek usunięcia nieprawidłowości, o którym mowa w art. 46 ust. 1 lit. c rozporządzenia nr 1069/2009.
+
+1b. W przypadku, o którym mowa w art. 46 ust. 2 rozporządzenia nr 1069/2009, powiatowy lekarz weterynarii, w drodze decyzji:
+
+- **1)** zakazuje wykonywania: określonych czynności przez dany podmiot lub w danym przedsiębiorstwie lub zakładzie, wszystkich czynności przez dany podmiot lub w danym przedsiębiorstwie lub zakładzie;
+    - **a)**
+    - **b)**
+
+- **2)** zakazuje tymczasowo wykonywania określonych lub wszystkich czynności przez dany podmiot lub w danym przedsiębiorstwie lub zakładzie. ” ;
+- **8)** w art. 8a pkt 1 i 2 otrzymują brzmienie: „
+- **1)** o których mowa w art. 5, art. 6, art. 8, art. 9, art. 24i ust. 2, art. 43a, art. 43b oraz art. 89 ust. 5,
+- **2)** dotyczących uchylenia, zmiany lub stwierdzenia nieważności decyzji wydanej na podstawie art. 5, art. 6, art. 8, art. 9, art. 24i ust. 2, art. 43a, art. 43b lub art. 89 ust. 5 oraz w sprawach wznowienia postępowania zakończonego wydaniem takiej decyzji ” ;
+- **9)** w art. 9: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Powiatowy lekarz weterynarii, w przypadku gdy podmiot prowadzący działalność nadzorowaną nie zastosuje się do nakazu lub zakazu określonego w decyzji, o której mowa w art. 8 ust. 1 i 3, wydaje decyzję zakazującą prowadzenia określonego rodzaju działalności nadzorowanej i skreśla podmiot z rejestru, o którym mowa w art. 11. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+- **b)**
+
+1a. W przypadku wydania decyzji, o której mowa w art. 8 ust. 1a pkt 2 lub ust. 1b pkt 1 lit. b, powiatowy lekarz weterynarii skreśla podmiot, przedsiębiorstwo lub zakład z rejestru, o którym mowa w art. 11. ” , ust. 2 otrzymuje brzmienie: „
+
+- **c)**
+
+2. Powiatowy lekarz weterynarii informuje o wydaniu decyzji zakazującej prowadzenia działalności nadzorowanej, o której mowa w art. 1 pkt 1 lit. a, d-f, h, i, l, p, oraz decyzji, o której mowa w art. 8 ust. 1a pkt 2 i ust. 1b pkt 1 lit. b, Głównego Lekarza Weterynarii za pośrednictwem wojewódzkiego lekarza weterynarii. ” ;
+
+- **10)** w art. 11: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Powiatowy lekarz weterynarii prowadzi rejestr podmiotów prowadzących działalność nadzorowaną, o której mowa w art. 1 pkt 1 lit. a-l, n, p oraz w art. 4 ust. 3, oraz przedsiębiorstw i zakładów zatwierdzonych lub warunkowo zatwierdzonych na podstawie art. 24 ust. 1 lub art. 44 ust. 2 rozporządzenia nr 1069/2009, na obszarze jego właściwości. ” , w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Rejestr zawiera w szczególności: ” , – pkt 4 otrzymuje brzmienie: „ 4) informacje o decyzji, o której mowa w art. 8 ust. 1 pkt 2 i 3, ust. 1a pkt 1 i 3, ust. 1b pkt 1 lit. a i pkt 2 lub ust. 3; ” ;
+
+- **b)**
+- **11)** w art. 12: w ust. 1 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** wykaz podmiotów prowadzących działalność nadzorowaną w zakresie produktów ubocznych pochodzenia zwierzęcego lub produktów pochodnych oraz przedsiębiorstw i zakładów objętych tą działalnością. ” , ust. 2 otrzymuje brzmienie: „
+    - **b)**
+
+2. Główny Lekarz Weterynarii umieszcza na stronie internetowej administrowanej przez Główny Inspektorat Weterynarii, w sposób określony przez Komisję Europejską, listy podmiotów prowadzących działalność nadzorowaną, o której mowa w art. 1 pkt 1 lit. a, c-f, h oraz l, a w przypadku działalności nadzorowanej w zakresie produktów ubocznych pochodzenia zwierzęcego lub produktów pochodnych – wykaz podmiotów prowadzących tę działalność i przedsiębiorstw lub zakładów objętych tą działalnością, a także aktualizuje te listy i ten wykaz. ” ;
+
+- **12)** tytuł rozdziału 3 otrzymuje brzmienie: „ Wymagania weterynaryjne dla przywozu zwierząt i niejadalnych produktów pochodzenia zwierzęcego ” ;
+- **13)** w art. 15 uchyla się ust. 3;
+- **14)** tytuł rozdziału 4 otrzymuje brzmienie: „ Wymagania weterynaryjne dla handlu zwierzętami i niejadalnymi produktami pochodzenia zwierzęcego ” ;
+- **15)** w art. 22 uchyla się ust. 4–6;
+- **16)** tytuł rozdziału 5 otrzymuje brzmienie: „ Wymagania weterynaryjne dla niejadalnych produktów pochodzenia zwierzęcego umieszczanych na rynku wyłącznie na terytorium Rzeczypospolitej Polskiej ” ;
+- **17)** uchyla się art. 26;
+- **18)** po rozdziale 5 dodaje się rozdział 5a w brzmieniu: „
 
 #### Rozdział 5a Wymagania weterynaryjne dla produktów ubocznych pochodzenia zwierzęcego i produktów pochodnych
 
@@ -219,7 +335,26 @@ source: "eli-html"
 
 **Art. 60.** Główny Lekarz Weterynarii występuje do Komisji Europejskiej z wnioskiem o uznanie terytorium Rzeczypospolitej Polskiej lub regionu położonego na tym terytorium za urzędowo wolne lub wolne od danej choroby zakaźnej zwierząt, jeżeli są spełnione wymagania w tym zakresie określone w przepisach wydanych na podstawie art. 57d ust. 5, art. 61 ust. 1 pkt 1 lit. h lub w kodeksach zdrowia zwierząt wydanych przez Światową Organizację Zdrowia Zwierząt (OIE). ” ;
 
+- **28)** w art. 77: pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** dokonuje przywozu zwierząt lub niejadalnych produktów pochodzenia zwierzęcego wbrew zakazowi przywozu lub bez zachowania, lub z naruszeniem wymagań weterynaryjnych obowiązujących w tym zakresie, ” , pkt 3 otrzymuje brzmienie: „
+    - **b)**
+
+- **3)** dokonuje handlu lub umieszcza na rynku zwierzęta lub niejadalne produkty pochodzenia zwierzęcego bez zachowania lub z naruszeniem wymagań weterynaryjnych obowiązujących w tym zakresie, ” , uchyla się pkt 6;
+    - **c)**
+
+- **29)** po art. 77 dodaje się art. 77a w brzmieniu: „
+
 **Art. 77a.** Przepisu art. 77 pkt 1 nie stosuje się do działalności w zakresie produktów ubocznych pochodzenia zwierzęcego i produktów pochodnych. ” ;
+
+- **30)** w art. 85: w ust. 1: – uchyla się pkt 1a, – pkt 6 otrzymuje brzmienie: „ 6) prowadząc laboratorium wykonujące badania w kierunku chorób odzwierzęcych i odzwierzęcych czynników chorobotwórczych podlegających obowiązkowi monitorowania, nie przechowuje izolatów odzwierzęcych czynników chorobotwórczych lub nie przekazuje tych izolatów krajowym laboratoriom referencyjnym, o których mowa w art. 52c ust. 2, ” , po ust. 1a dodaje się ust. 1b w brzmieniu: „
+    - **a)**
+    - **b)**
+
+1b. Przepisu ust. 1 pkt 1 nie stosuje się do działalności w zakresie produktów ubocznych pochodzenia zwierzęcego i produktów pochodnych. ” ;
+
+- **31)** po rozdziale 10 dodaje się rozdział 10a w brzmieniu: „
 
 #### Rozdział 10a Kary administracyjne
 
@@ -263,11 +398,50 @@ source: "eli-html"
 
 **Art. 2.** W ustawie z dnia 27 sierpnia 2003 r. o weterynaryjnej kontroli granicznej (Dz. U. Nr 165, poz. 1590, z późn. zm.) wprowadza się następujące zmiany:
 
+- **1)** w art. 2 w ust. 1 w pkt 9 lit. b otrzymuje brzmienie: „ określone w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 1069/2009 z dnia 21 października 2009 r. określającym przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego, nieprzeznaczonych do spożycia przez ludzi, i uchylającym rozporządzenie (WE) nr 1774/2002 (rozporządzenie o produktach ubocznych pochodzenia zwierzęcego) (Dz. Urz. UE L 300 z 14.11.2009, str. 1, z późn. zm.), ” ;
+    - **b)**
+
+- **2)** odnośnik nr 15 otrzymuje brzmienie: „ 15) Tryb i sposób postępowania z pozostałościami kateringowymi reguluje rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 1069/2009 z dnia 21 października 2009 r. określające przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego, nieprzeznaczonych do spożycia przez ludzi, i uchylające rozporządzenie (WE) nr 1774/2002 (rozporządzenie o produktach ubocznych pochodzenia zwierzęcego) oraz przepisy wydane w trybie tego rozporządzenia. ” .
+
 **Art. 3.** W ustawie z dnia 10 grudnia 2003 r. o kontroli weterynaryjnej w handlu (Dz. U. z 2004 r. Nr 16, poz. 145, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 pkt 5 otrzymuje brzmienie: „
+- **5)** handel – swobodny obrót pomiędzy państwami członkowskimi w rozumieniu art. 28 ust. 2 Traktatu o funkcjonowaniu Unii Europejskiej; ” ;
+- **2)** w art. 5 ust. 2 otrzymuje brzmienie: „
+
+2. Zwierząt i produktów, wymienionych w przepisach wskazanych w załączniku nr 1 objętych zakazem wprowadzania na rynek na terytorium Rzeczypospolitej Polskiej ze względu na ochronę zdrowia ludzi lub zwierząt, zgodnie z postanowieniami art. 36 Traktatu o funkcjonowaniu Unii Europejskiej, nie wysyła się także do innego państwa członkowskiego. ” ;
+
+- **3)** w art. 24 w ust. 2 pkt 2 otrzymuje brzmienie: „
+- **2)** produkty wymienione w przepisach wskazanych w części II załącznika nr 2 nie zostaną wysłane do innego państwa członkowskiego, jeżeli nie mogą być wprowadzane na rynek krajowy ze względów, o których mowa w art. 36 Traktatu o funkcjonowaniu Unii Europejskiej. ” ;
+- **4)** art. 27 otrzymuje brzmienie: „
 
 **Art. 27.** Z zastrzeżeniem art. 24, jeżeli wymagania weterynaryjne nie zostały określone w przepisach prawa Unii Europejskiej oraz w przypadku gdy przedmiotem handlu są produkty wskazane w przepisach wymienionych w części II załącznika nr 2 i państwo przeznaczenia wymaga ze względu na postanowienia ogólne Traktatu o funkcjonowaniu Unii Europejskiej, aby zakład pochodzenia produktów spełniał wymagania państwa przeznaczenia odnośnie do tych produktów, to przedmiotem handlu mogą być produkty pochodzące z zakładów, które spełniają te wymagania. ” ;
 
+- **5)** w załączniku nr 1 do ustawy w części II ust. 6 otrzymuje brzmienie: „
+
+6. Rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 1069/2009 z dnia 21 października 2009 r. określające przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego, nieprzeznaczonych do spożycia przez ludzi, i uchylające rozporządzenie (WE) nr 1774/2002 (rozporządzenie o produktach ubocznych pochodzenia zwierzęcego) (Dz. Urz. UE L 300 z 14.11.2009, str. 1, z późn. zm.) oraz przepisy Unii Europejskiej wydane w trybie tego rozporządzenia. ” ;
+
+- **6)** w załączniku nr 2 do ustawy w części II ust. 2 otrzymuje brzmienie: „
+
+2. Rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 1069/2009 z dnia 21 października 2009 r. określające przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego, nieprzeznaczonych do spożycia przez ludzi, i uchylające rozporządzenie (WE) nr 1774/2002 (rozporządzenie o produktach ubocznych pochodzenia zwierzęcego) oraz przepisy Unii Europejskiej wydane w trybie tego rozporządzenia. ” .
+
 **Art. 4.** W ustawie z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2010 r. Nr 112, poz. 744 oraz z 2011 r. Nr 54, poz. 278) wprowadza się następujące zmiany:
+
+- **1)** w art. 3 w ust. 2 w pkt 5 lit. b otrzymuje brzmienie: „ wprowadzaniem na rynek zwierząt, produktów ubocznych pochodzenia zwierzęcego w rozumieniu art. 3 pkt 1 w związku z art. 2 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1069/2009 z dnia 21 października 2009 r. określającego przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego, nieprzeznaczonych do spożycia przez ludzi, i uchylającego rozporządzenie (WE) nr 1774/2002 (rozporządzenie o produktach ubocznych pochodzenia zwierzęcego) (Dz. Urz. UE L 300 z 14.11.2009, str. 1, z późn. zm.) i produktów pochodnych w rozumieniu art. 3 pkt 2 tego rozporządzenia, ” ;
+    - **b)**
+
+- **2)** w art. 8a pkt 1 i 2 otrzymują brzmienie: „
+- **1)** o których mowa w art. 25a ust. 3,
+- **2)** dotyczących uchylenia, zmiany lub stwierdzenia nieważności decyzji wydanej na podstawie art. 25a ust. 3 oraz w sprawach wznowienia postępowania zakończonego wydaniem takiej decyzji ” ;
+- **3)** w art. 21 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
+
+2. Podmioty prowadzące działalność nadzorowaną, o której mowa w art. 1 pkt 1 lit. o ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, nieodpłatnie udostępniają organom Inspekcji Weterynaryjnej pomieszczenia w przypadku, o którym mowa w załączniku IV w rozdziale I w sekcji 1 w ust. 6 rozporządzenia Komisji (UE) nr 142/2011 z dnia 25 lutego 2011 r. w sprawie wykonania rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1069/2009 określającego przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego, nieprzeznaczonych do spożycia przez ludzi, oraz w sprawie wykonania dyrektywy Rady 97/78/WE w odniesieniu do niektórych próbek i przedmiotów zwolnionych z kontroli weterynaryjnych na granicach w myśl tej dyrektywy (Dz. Urz. UE L 54 z 26.02.2011, str. 1, z późn. zm.). ” ;
+
+- **4)** w art. 23 ust. 1 otrzymuje brzmienie: „
+
+1. Stwierdzenie albo wykluczenie choroby zakaźnej zwierzęcia, w tym choroby odzwierzęcej, wydanie oceny mięsa, oceny zdrowotnej jakości produktów pochodzenia zwierzęcego, niejadalnych produktów pochodzenia zwierzęcego, produktów ubocznych pochodzenia zwierzęcego, produktów pochodnych oraz pasz może być poprzedzone przeprowadzeniem badań laboratoryjnych. ” ;
+
+- **5)** art. 25a otrzymuje brzmienie: „
 
 **Art. 25a.**
 
@@ -378,7 +552,12 @@ source: "eli-html"
 
 **Art. 5.** W ustawie z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2008 r. Nr 204, poz. 1281, z 2009 r. Nr 116, poz. 976 oraz z 2012 r. poz. 1529) w art. 2 w ust. 1 pkt 10 i 10a otrzymują brzmienie: „
 
+- **10)** zakład przetwórczy – zakład przetwórczy w rozumieniu pkt 58 załącznika I do rozporządzenia Komisji (UE) nr 142/2011 z dnia 25 lutego 2011 r. w sprawie wykonania rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1069/2009 określającego przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego, nieprzeznaczonych do spożycia przez ludzi, oraz w sprawie wykonania dyrektywy Rady 97/78/WE w odniesieniu do niektórych próbek i przedmiotów zwolnionych z kontroli weterynaryjnych na granicach w myśl tej dyrektywy (Dz. Urz. UE L 54 z 26.02.2011, str. 1, z późn. zm.);
+- **10a)** spalarnia – spalarnię w rozumieniu pkt 56 załącznika I do rozporządzenia wymienionego w pkt 10; ” .
+
 **Art. 6.** W ustawie z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego (Dz. U. z 2006 r. Nr 17, poz. 127, z późn. zm.) w art. 3 pkt 1 otrzymuje brzmienie: „
+
+- **1)** rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1069/2009 z dnia 21 października 2009 r. określającego przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego, nieprzeznaczonych do spożycia przez ludzi, i uchylającego rozporządzenie (WE) nr 1774/2002 (rozporządzenie o produktach ubocznych pochodzenia zwierzęcego) (Dz. Urz. UE L 300 z 14.11.2009, str. 1, z późn. zm.) oraz przepisach Unii Europejskiej wydanych w trybie tego rozporządzenia; ” .
 
 **Art. 7.** W ustawie z dnia 22 lipca 2006 r. o paszach (Dz. U. Nr 144, poz. 1045, z późn. zm.) po art. 53 dodaje się art. 53a-53f w brzmieniu: „
 
@@ -393,7 +572,67 @@ source: "eli-html"
 
 **Art. 8.** W ustawie z dnia 10 lipca 2007 r. o nawozach i nawożeniu (Dz. U. Nr 147, poz. 1033 oraz z 2011 r. Nr 106, poz. 622 i Nr 171, poz. 1016) wprowadza się następujące zmiany:
 
+- **1)** w art. 2: w ust. 1: – w pkt 4 lit. b otrzymuje brzmienie: „ b) pochodzące od zwierząt gospodarskich, w rozumieniu przepisów o organizacji hodowli i rozrodzie zwierząt gospodarskich, odchody, z wyjątkiem odchodów pszczół, bez dodatków innych substancji, ” , – pkt 7 otrzymuje brzmienie: „ 7) środek poprawiający właściwości gleby – substancje dodawane do gleby w celu poprawy jej właściwości lub jej parametrów chemicznych, fizycznych, fizykochemicznych lub biologicznych; ” , dodaje się ust. 3 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+3. Nawozy organiczne i polepszacze gleby w rozumieniu art. 3 pkt 22 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1069/2009 z dnia 21 października 2009 r. określającego przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego, nieprzeznaczonych do spożycia przez ludzi, i uchylającego rozporządzenie (WE) nr 1774/2002 (rozporządzenie o produktach ubocznych pochodzenia zwierzęcego) (Dz. Urz. UE L 300 z 14.11.2009, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 1069/2009”, uznaje się za nawozy i środki wspomagające uprawę roślin wytworzone z produktów ubocznych pochodzenia zwierzęcego w rozumieniu art. 3 pkt 1 w związku z art. 2 ust. 2 rozporządzenia nr 1069/2009 lub z produktów pochodnych w rozumieniu art. 3 pkt 2 rozporządzenia nr 1069/2009 lub zawierające w swoim składzie produkty uboczne pochodzenia zwierzęcego lub produkty pochodne. ” ;
+
+- **2)** w art. 3 w ust. 1 pkt 3 otrzymuje brzmienie: „
+- **3)** naturalne, zgodnie z przepisami rozporządzenia nr 1069/2009. ” ;
+- **3)** w art. 4: w ust. 4 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
+    - **a)**
+
+- **5)** kopię decyzji powiatowego lekarza weterynarii o zatwierdzeniu zakładu przetwórczego produktów ubocznych pochodzenia zwierzęcego i produktów pochodnych wytwarzającego nawozy lub środki wspomagające uprawę roślin oraz nadaniu weterynaryjnego numeru identyfikacyjnego lub oświadczenie o jej uzyskaniu – dla nawozów lub środków wspomagających uprawę roślin, które zostały wytworzone z produktów ubocznych pochodzenia zwierzęcego lub produktów pochodnych lub zawierają w swoim składzie produkty uboczne pochodzenia zwierzęcego lub produkty pochodne, a w przypadku nawozu lub środka wspomagającego uprawę roślin pochodzącego z państwa innego niż Rzeczpospolita Polska – inne równoważne dokumenty. ” , w ust. 6 pkt 2 otrzymuje brzmienie: „
+    - **b)**
+
+- **2)** opinii upoważnionych jednostek organizacyjnych o spełnieniu przez: nawóz organiczny, organiczno-mineralny albo środek wspomagający uprawę roślin, które zostały wytworzone z produktów ubocznych pochodzenia zwierzęcego lub produktów pochodnych lub zawierają w swoim składzie produkty uboczne pochodzenia zwierzęcego lub produkty pochodne, wymagań, o których mowa w rozporządzeniu nr 1069/2009, składnik dodany do nawozu organicznego, organiczno-mineralnego albo środka wspomagającego uprawę roślin, które zostały wytworzone z mączki mięsno-kostnej uzyskanej z materiału kategorii 2 lub z przetworzonego białka zwierzęcego, lub zawierają w swoim składzie taką mączkę mięsno-kostną lub przetworzone białko zwierzęce, wymagań, o których mowa w załączniku XI w rozdziale II w sekcji 1 w ust. 3 rozporządzenia Komisji (UE) nr 142/2011 z dnia 25 lutego 2011 r. w sprawie wykonania rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1069/2009 określającego przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego, nieprzeznaczonych do spożycia przez ludzi, oraz w sprawie wykonania dyrektywy Rady 97/78/WE w odniesieniu do niektórych próbek i przedmiotów zwolnionych z kontroli weterynaryjnych na granicach w myśl tej dyrektywy (Dz. Urz. UE L 54 z 26.02.2011, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 142/2011”. ” , dodaje się ust. 10–13 w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+10. W przypadku wydania pozwolenia na wprowadzenie do obrotu nawozu organicznego, organiczno-mineralnego albo środka wspomagającego uprawę roślin, które zostały wytworzone z mączki mięsno-kostnej uzyskanej z materiału kategorii 2 lub z przetworzonego białka zwierzęcego, lub zawierają w swoim składzie taką mączkę mięsno-kostną lub przetworzone białko zwierzęce, składnik, o którym mowa w ust. 6 pkt 2 lit. b, dodany do tego nawozu albo środka umieszcza się w wykazie prowadzonym przez Głównego Lekarza Weterynarii wraz z podaniem informacji o zawartości tego składnika w tym nawozie albo środku, wyrażonej ilościowo na jednostkę objętości lub masy. Wykaz jest udostępniany na stronie internetowej administrowanej przez Główny Inspektorat Weterynarii.
+
+11. Główny Lekarz Weterynarii umieszcza w wykazie wymienionym w ust. 10 składnik, o którym mowa w ust. 6 pkt 2 lit. b, zatwierdzony przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej zgodnie z art. 22 ust. 3 rozporządzenia nr 142/2011 wraz z podaniem informacji o zawartości tego składnika w nawozie albo środku wspomagającym uprawę roślin wyrażonej ilościowo na jednostkę objętości lub masy.
+
+12. Główny Lekarz Weterynarii wykreśla z wykazu wymienionego w ust. 10 składnik, o którym mowa w ust. 6 pkt 2 lit. b, jeżeli składnik ten, zastosowany w nawozie albo środku wspomagającym uprawę roślin zgodnie z zawartością podaną w tym wykazie, nie spełnia wymagań, o których mowa w załączniku XI w rozdziale II w sekcji 1 w ust. 3 rozporządzenia nr 142/2011.
+
+13. Przepisu ust. 6 pkt 2 lit. b nie stosuje się w przypadku ubiegania się o wydanie pozwolenia na wprowadzenie do obrotu nawozu organicznego, organiczno-mineralnego albo środka wspomagającego uprawę roślin, do których został dodany składnik umieszczony w wykazie, o którym mowa w ust. 10, gdy zawartość tego składnika w nawozie lub środku jest taka sama jak zawartość podana dla tego składnika w tym wykazie. ” ;
+
+- **4)** w art. 6 pkt 3 otrzymuje brzmienie: „
+- **3)** informację, że nawóz albo środek wspomagający uprawę roślin został wytworzony z produktów ubocznych pochodzenia zwierzęcego lub produktów pochodnych lub zawiera w swoim składzie produkty uboczne pochodzenia zwierzęcego lub produkty pochodne – dla nawozu albo środka wspomagającego uprawę roślin, które zostały wytworzone z produktów ubocznych pochodzenia zwierzęcego lub produktów pochodnych, lub zawierają w swoim składzie produkty uboczne pochodzenia zwierzęcego lub produkty pochodne; ” ;
+- **5)** w art. 7: w ust. 2 pkt 3 otrzymuje brzmienie: „
+    - **a)**
+
+- **3)** zostanie ujawnione, że nawóz lub środek wspomagający uprawę roślin, które zostały wytworzone z produktów ubocznych pochodzenia zwierzęcego lub produktów pochodnych lub zawierają w swoim składzie produkty uboczne pochodzenia zwierzęcego lub produkty pochodne, nie spełniają wymagań określonych w art. 4 ust. 6 pkt 2. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **b)**
+
+2a. Minister właściwy do spraw rolnictwa może cofnąć, w drodze decyzji, pozwolenie na wprowadzenie do obrotu nawozu albo środka wspomagającego uprawę roślin, o którym mowa w art. 4 ust. 1, jeżeli zostało ujawnione, że zmieniono skład lub surowce wykorzystywane do produkcji nawozu albo środka wspomagającego uprawę roślin zadeklarowane w dokumentacji dołączonej do wniosku o wydanie pozwolenia na wprowadzenie do obrotu nawozu albo środka wspomagającego uprawę roślin. ” , w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Jeżeli pozwolenie na wprowadzenie do obrotu nawozu albo środka wspomagającego uprawę roślin, o którym mowa w art. 4 ust. 1, w przypadku, o którym mowa w ust. 2 pkt 1 lub w ust. 2a, zostało cofnięte to: ” ;
+
+- **c)**
+- **6)** w art. 8 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Minister właściwy do spraw rolnictwa prowadzi wykazy nawozów i środków wspomagających uprawę roślin, które mogą być wprowadzone do obrotu na podstawie pozwoleń, o których mowa w art. 4 ust. 1, zawierające numer i datę wydania pozwolenia, informację, że nawóz albo środek wspomagający uprawę roślin zostały wytworzone z produktów ubocznych pochodzenia zwierzęcego lub produktów pochodnych lub zawierają w swoim składzie produkty uboczne pochodzenia zwierzęcego lub produkty pochodne, nazwę nawozu albo środka wspomagającego uprawę roślin, a także imię i nazwisko oraz miejsce zamieszkania i adres albo nazwę oraz siedzibę i adres: ” ;
+- **7)** w art. 9 ust. 10 otrzymuje brzmienie: „
+
+10. Znakowania nawozów organicznych, organiczno-mineralnych, środków poprawiających właściwości gleby, stymulatorów wzrostu i podłoży do upraw, które zostały wytworzone z produktów ubocznych pochodzenia zwierzęcego lub produktów pochodnych, lub zawierają w swoim składzie produkty uboczne pochodzenia zwierzęcego lub produkty pochodne, dokonuje się w sposób określony w rozporządzeniu nr 1069/2009. ” ;
+
+- **8)** w art. 18 w ust. 1 pkt 1 otrzymuje brzmienie: „
+- **1)** posiada plan nawożenia opracowany zgodnie z zasadami dobrej praktyki rolniczej, na podstawie składu chemicznego nawozów oraz potrzeb pokarmowych roślin i zasobności gleb, uwzględniając stosowane odpady i środki wspomagające uprawę roślin, z wyłączeniem tych podmiotów, które zbywają w całości nawozy naturalne; ” ;
+- **9)** w art. 20 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zabrania się stosowania nawozów: ” ;
+- **10)** w art. 23 ust. 3 otrzymuje brzmienie: „
+
+3. Nawozy organiczne, organiczno-mineralne i środki wspomagające uprawę roślin, które zostały wytworzone z produktów ubocznych pochodzenia zwierzęcego lub produktów pochodnych, lub zawierają w swoim składzie produkty uboczne pochodzenia zwierzęcego lub produkty pochodne, przewozi się w sposób określony w rozporządzeniu nr 1069/2009. ” ;
+
+- **11)** art. 36 otrzymuje brzmienie: „
+
 **Art. 36.** Inspekcja Weterynaryjna przeprowadza kontrolę w zakresie spełniania przez nawozy lub środki wspomagające uprawę roślin, które zostały wytworzone z produktów ubocznych pochodzenia zwierzęcego lub produktów pochodnych, lub zawierają w swoim składzie produkty uboczne pochodzenia zwierzęcego lub produkty pochodne, wymagań określonych w rozporządzeniu nr 1069/2009, w przepisach Unii Europejskiej wydanych w trybie tego rozporządzenia lub w ustawie z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2008 r. Nr 213, poz. 1342, z późn. zm.). ” ;
+
+- **12)** w art. 40 w ust. 2: pkt 8 otrzymuje brzmienie: „
+    - **a)**
+
+- **8)** nie dołącza do nawozu oraz środka wspomagającego uprawę roślin w postaci płynnej informacji o temperaturze, w jakiej powinny być one przechowywane, oraz informacji o środkach, jakie powinny być podjęte, aby zapobiec wypadkom w trakcie ich przechowywania ” , uchyla się pkt 9;
+    - **b)**
+
+- **13)** w art. 41 uchyla się pkt 8.
 
 **Art. 9.**
 
@@ -426,6 +665,10 @@ source: "eli-html"
 **Art. 16.** Wykaz, o którym mowa w art. 43a ust. 6 ustawy wymienionej w art. 1, staje się wykazem, o którym mowa w art. 43c ust. 1 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 17.** Do popełnionych przed dniem wejścia w życie niniejszej ustawy czynów, określonych w:
+
+- **1)** art. 77 pkt 1 oraz art. 85 ust. 1 pkt 1 ustawy wymienionej w art. 1 – w zakresie ubocznych produktów pochodzenia zwierzęcego nieprzeznaczonych do spożycia przez ludzi,
+- **2)** art. 77 pkt 2, 3 i 6 oraz art. 85 ust. 1 pkt 1a ustawy wymienionej w art. 1,
+- **3)** art. 40 ust. 2 pkt 9 ustawy wymienionej w art. 8 stosuje się przepisy dotychczasowe, a orzeczenia wydane na podstawie tych przepisów podlegają wykonaniu.
 
 **Art. 18.**
 

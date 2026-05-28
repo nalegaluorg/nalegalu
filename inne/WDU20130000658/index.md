@@ -8,10 +8,10 @@ pos: 658
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 czerwca 2013 r.
+# Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiejz dnia 20 maja 2013 r. w sprawie warunków i trybu ustanawiania sieci portów lotniczych i wspólnego systemu opłat lotniskowych
 
 | Pole | Wartość |
 |---|---|
@@ -22,55 +22,107 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2013-05-20 |
 | Data wydania | 2013-06-07 |
+| Wejście w życie | 2013-06-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000658) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/658/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA TRANSPORTU, BUDOWNICTWA I GOSPODARKI MORSKIEJ dnia 20 maja 2013 r.
-sprawie warunków trybu ustanawiania sieci portów lotniczych wspólnego systemu lotniskowych Na podstawie art. 77a 6 ustawy dnia 3 lipca 2002 r. Prawo lotnicze (Dz. U. 2012 r. poz. 933, późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa warunki tryb ustanawiania sieci portów lotniczych wspólnego systemu lotniskowych.
-§ 2. Ustanawiając sieć portów lotniczych stanowiących grupę lotnisk publicznego zarządzanych przez tego samego zarządzającego, ramach której wprowadza się wspólny system lotniskowych, zwaną dalej „siecią portów lotniczych”, lub wspólny system lotniskowych na lotniskach publicznego obsługujących to samo miasto lub konurbację, zwany dalej „wspólnym systemem lotniskowych”, uwzględnia się następujące warunki:
-1) zgodność ustanowienia sieci portów lotniczych lub wspólnego systemu lotniskowych z:
-a) istniejącymi programami, strategiami decyzjami zakresie polityki transportowej dotyczącej lotnictwa cywilnego,
-b) planami generalnymi, których art. 55 5 ustawy dnia 3 lipca 2002 r. Prawo lotnicze, zwanej dalej „ustawą”, lotnisk planowanych siecią portów lotniczych lub wspólnym systemem lotniskowych;
-2) wykazanie przez zarządzającego lotniskami że jest zarządzającym lotniskami publicznego planowanymi siecią portów lotniczych lub wspólnym systemem lotniskowych;
-3) zapewnienie przez zarządzającego lotniskami publicznego równego, niedyskryminującego dostępu obiektów, urządzeń usług udostępnianych na lotniskach publicznego planowanych siecią portów lotniczych lub wspólnym systemem lotniskowych użytkownikom tych lotnisk.
-§ 3. 1. Zarządzający lotniskami którym § 2, składa wniosek ustanowienie sieci portów lotniczych co najmniej kwartalnym wyprzedzeniem przed planowanym terminem ustanowienia sieci portów lotniczych.
-2. We wniosku, którym zarządzający lotniskami publicznego podaje:
-1) nazwę zarządzającego lotniskami, jego siedzibę adres;
-2) numer przedsiębiorcy rejestrze przedsiębiorców;
-3) lotniska publicznego planowane siecią portów lotniczych;
-4) planowany termin ustanowienia sieci portów lotniczych;
-5) uzasadnienie dla ustanowienia sieci portów lotniczych, zawierające:
-a) analizę całkowitych oczekiwanych kosztów korzyści ustanowienia sieci portów lotniczych, szczególności uwzględniającą uwarunkowania rynkowe, tym makroekonomiczne,
-b) informację dotyczącą prognoz, rodzaju wielkości ruchu pasażerskiego towarowego lotnisk planowanych siecią portów lotniczych,
-c) opis wpływu ustanowienia sieci portów lotniczych na konkurencję między lotniskami publicznego planowanymi siecią portów lotniczych oraz na użytkowników tych lotnisk,
-d) potwierdzenie zgodności wniosku, którym istniejącymi programami, strategiami decyzjami zakresie polityki transportowej dotyczącej lotnictwa cywilnego,
-e) potwierdzenie zgodności wniosku, którym planami generalnymi, których art. 55 5 ustawy, lotnisk publicznego planowanych siecią portów lotniczych,
-f) uzasadnienie dla ustanowienia wspólnego systemu lotniskowych, którym § 4 2 pkt 5.
-3. Do wniosku, którym dołącza się:
-1) kopię zezwolenia zarządzającego lotniskiem na wykonywanie działalności gospodarczej zakresie zarządzania lotniskiem na lotniskach publicznego planowanych siecią portów lotniczych;
-2) dokumentację potwierdzającą przeprowadzenie konsultacji, których art. 77a 2 ustawy, a przypadku, którym art. 77a 4 ustawy dokumentację potwierdzającą przeprowadzenie konsultacji zakresie, którym art. 77a 5 ustawy.
-§ 4. 1. Zarządzający lotniskiem publicznego składa wniosek wyrażenie zgody na zastosowanie wspólnego systemu lotniskowych na lotniskach publicznego co najmniej kwartalnym wyprzedzeniem przed terminem planowanego zastosowania wspólnego systemu lotniskowych.
-2. We wniosku, którym zarządzający lotniskami publicznego podaje:
-1) nazwę zarządzającego, jego siedzibę adres;
-2) numer przedsiębiorcy rejestrze przedsiębiorców;
-3) lotniska publicznego planowane wspólnym systemem lotniskowych;
-4) planowany termin zastosowania wspólnego systemu lotniskowych;
-5) uzasadnienie dla wprowadzenia wspólnego systemu lotniskowych, zawierające:
-a) aktualną taryfę lotniskowych obowiązującą na lotniskach publicznego planowanych wspólnym systemem lotniskowych dniu złożenia wniosku,
-b) wstępny projekt taryfy lotniskowych planowanych pobierania ramach wspólnego systemu lotniskowych,
-c) wielkości obsłużonego ruchu pasażerskiego towarowego ostatnich 3 latach działalności na lotniskach planowanych wspólnym systemem lotniskowych przez zarządzającego lotniskiem a przypadku krótszego okresu prowadzenia działalności za okres, którym działalność jest prowadzona,
-d) prognozy ruchu pasażerskiego towarowego dla lotnisk planowanych wspólnym systemem lotniskowych, obejmujące następne 3 lata działalności,
-e) opis wpływu ustanowienia wspólnego systemu lotniskowych na konkurencję między lotniskami publicznego planowanymi tym systemem oraz na użytkowników tych lotnisk,
-f) informację dotyczącą sytuacji finansowej zarządzającego lotniskami publicznego wraz opisem wpływu zastosowania wspólnego systemu lotniskowych na tę sytuację,
-g) ogólną strukturę kosztów, która będzie stanowiła podstawę ustalenia lotniskowych, odniesieniu obiektów urządzeń oraz usług, których dotyczą opłaty lotniskowe ramach wspólnego systemu lotniskowych,
-h) kopie sprawozdań finansowych zarządzającego lotniskiem publicznego ostatnich 3 lat działalności,
-i) potwierdzenie zgodności wniosku, którym istniejącymi programami, strategiami decyzjami zakresie polityki transportowej dotyczącej lotnictwa cywilnego,
-3. Do wniosku, którym dołącza się:
-1) kopię zezwolenia zarządzającego lotniskiem na wykonywanie działalności gospodarczej zakresie zarządzania lotniskiem na lotniskach publicznego planowanych wspólnym systemem lotniskowych;
-2) dokumentację potwierdzającą przeprowadzenie konsultacji, których art. 77a 2 ustawy, a przypadku, którym art. 77a 4 ustawy dokumentację potwierdzającą przeprowadzenie konsultacji zakresie, którym art. 77a 5 ustawy.
-§ 5. 1. Kopie wniosków, których § 3 1 § 4 wraz kopiami dokumentów, których § 3 3 § 4 3, minister właściwy spraw transportu, nie później niż terminie 7 dni od dnia ich otrzymania, przekazuje Prezesowi Urzędu Lotnictwa Cywilnego celu zasięgnięcia opinii, której art. 77a 1 ustawy.
-2. Prezes Urzędu Lotnictwa Cywilnego, terminie 14 dni od dnia otrzymania kopii wniosków oraz dokumentów, których wydaje opinię, której art. 77a 1 ustawy, biorąc pod uwagę spełnienie warunków, których § 2, przekazuje ją ministrowi właściwemu spraw transportu.
-3. Minister właściwy spraw transportu, terminie 30 dni od dnia otrzymania opinii, której art. 77a 1 ustawy, wydaje decyzję administracyjną, której art. 77a 1 ustawy.
-§ 6. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.
-Minister Transportu, Budownictwa Gospodarki Morskiej: S. Nowak
+Treść rozporządzenia
+Na podstawie art. 77a ust. 6 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2012 r. poz. 933, z późn. zm.) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa warunki i tryb ustanawiania sieci portów lotniczych i wspólnego systemu opłat lotniskowych.
+§ 2.
+Ustanawiając sieć portów lotniczych stanowiących grupę lotnisk użytku publicznego zarządzanych przez tego samego zarządzającego, w ramach której wprowadza się wspólny system opłat lotniskowych, zwaną dalej „siecią portów lotniczych”, lub wspólny system opłat lotniskowych na lotniskach użytku publicznego obsługujących to samo miasto lub konurbację, zwany dalej „wspólnym systemem opłat lotniskowych”, uwzględnia się następujące warunki:
+1)
+zgodność ustanowienia sieci portów lotniczych lub wspólnego systemu opłat lotniskowych z:
+a)
+istniejącymi programami, strategiami i decyzjami w zakresie polityki transportowej dotyczącej lotnictwa cywilnego,
+b)
+planami generalnymi, o których mowa w art. 55 ust. 5 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, zwanej dalej „ustawą”, lotnisk planowanych do objęcia siecią portów lotniczych lub wspólnym systemem opłat lotniskowych;
+2)
+wykazanie przez zarządzającego lotniskami użytku publicznego, że jest zarządzającym lotniskami użytku publicznego planowanymi do objęcia siecią portów lotniczych lub wspólnym systemem opłat lotniskowych;
+3)
+zapewnienie przez zarządzającego lotniskami użytku publicznego równego, niedyskryminującego dostępu do obiektów, urządzeń i usług udostępnianych na lotniskach użytku publicznego planowanych do objęcia siecią portów lotniczych lub wspólnym systemem opłat lotniskowych użytkownikom tych lotnisk.
+§ 3.
+1.
+Zarządzający lotniskami użytku publicznego, o którym mowa w § 2, składa wniosek o ustanowienie sieci portów lotniczych z co najmniej kwartalnym wyprzedzeniem przed planowanym terminem ustanowienia sieci portów lotniczych.
+2.
+We wniosku, o którym mowa w ust. 1, zarządzający lotniskami użytku publicznego podaje:
+1)
+nazwę zarządzającego lotniskami, jego siedzibę i adres;
+2)
+numer przedsiębiorcy w rejestrze przedsiębiorców;
+3)
+lotniska użytku publicznego planowane do objęcia siecią portów lotniczych;
+4)
+planowany termin ustanowienia sieci portów lotniczych;
+5)
+uzasadnienie dla ustanowienia sieci portów lotniczych, zawierające:
+a)
+analizę całkowitych oczekiwanych kosztów i korzyści ustanowienia sieci portów lotniczych, w szczególności uwzględniającą uwarunkowania rynkowe, w tym makroekonomiczne,
+b)
+informację dotyczącą prognoz, rodzaju i wielkości ruchu pasażerskiego i towarowego z lotnisk planowanych do objęcia siecią portów lotniczych,
+c)
+opis wpływu ustanowienia sieci portów lotniczych na konkurencję między lotniskami użytku publicznego planowanymi do objęcia siecią portów lotniczych oraz na użytkowników tych lotnisk,
+d)
+potwierdzenie zgodności wniosku, o którym mowa w ust. 1, z istniejącymi programami, strategiami i decyzjami w zakresie polityki transportowej dotyczącej lotnictwa cywilnego,
+e)
+potwierdzenie zgodności wniosku, o którym mowa w ust. 1, z planami generalnymi, o których mowa w art. 55 ust. 5 ustawy, lotnisk użytku publicznego planowanych do objęcia siecią portów lotniczych,
+f)
+uzasadnienie dla ustanowienia wspólnego systemu opłat lotniskowych, o którym mowa w § 4 ust. 2 pkt 5.
+3.
+Do wniosku, o którym mowa w ust. 1, dołącza się:
+1)
+kopię zezwolenia zarządzającego lotniskiem na wykonywanie działalności gospodarczej w zakresie zarządzania lotniskiem na lotniskach użytku publicznego planowanych do objęcia siecią portów lotniczych;
+2)
+dokumentację potwierdzającą przeprowadzenie konsultacji, o których mowa w art. 77a ust. 2 ustawy, a w przypadku, o którym mowa w art. 77a ust. 4 ustawy – dokumentację potwierdzającą przeprowadzenie konsultacji w zakresie, o którym mowa w art. 77a ust. 5 ustawy.
+§ 4.
+1.
+Zarządzający lotniskiem użytku publicznego składa wniosek o wyrażenie zgody na zastosowanie wspólnego systemu opłat lotniskowych na lotniskach użytku publicznego z co najmniej kwartalnym wyprzedzeniem przed terminem planowanego zastosowania wspólnego systemu opłat lotniskowych.
+2.
+We wniosku, o którym mowa w ust. 1, zarządzający lotniskami użytku publicznego podaje:
+1)
+nazwę zarządzającego, jego siedzibę i adres;
+2)
+numer przedsiębiorcy w rejestrze przedsiębiorców;
+3)
+lotniska użytku publicznego planowane do objęcia wspólnym systemem opłat lotniskowych;
+4)
+planowany termin zastosowania wspólnego systemu opłat lotniskowych;
+5)
+uzasadnienie dla wprowadzenia wspólnego systemu opłat lotniskowych, zawierające:
+a)
+aktualną taryfę opłat lotniskowych obowiązującą na lotniskach użytku publicznego planowanych do objęcia wspólnym systemem opłat lotniskowych w dniu złożenia wniosku,
+b)
+wstępny projekt taryfy opłat lotniskowych planowanych do pobierania w ramach wspólnego systemu opłat lotniskowych,
+c)
+wielkości obsłużonego ruchu pasażerskiego i towarowego w ostatnich 3 latach działalności na lotniskach planowanych do objęcia wspólnym systemem opłat lotniskowych przez zarządzającego lotniskiem użytku publicznego, a w przypadku krótszego okresu prowadzenia działalności – za okres, w którym działalność jest prowadzona,
+d)
+prognozy ruchu pasażerskiego i towarowego dla lotnisk planowanych do objęcia wspólnym systemem opłat lotniskowych, obejmujące następne 3 lata działalności,
+e)
+opis wpływu ustanowienia wspólnego systemu opłat lotniskowych na konkurencję między lotniskami użytku publicznego planowanymi do objęcia tym systemem oraz na użytkowników tych lotnisk,
+f)
+informację dotyczącą sytuacji finansowej zarządzającego lotniskami użytku publicznego wraz z opisem wpływu zastosowania wspólnego systemu opłat lotniskowych na tę sytuację,
+g)
+ogólną strukturę kosztów, która będzie stanowiła podstawę do ustalenia opłat lotniskowych, w odniesieniu do obiektów i urządzeń oraz usług, których dotyczą opłaty lotniskowe w ramach wspólnego systemu opłat lotniskowych,
+h)
+kopie sprawozdań finansowych zarządzającego lotniskiem użytku publicznego z ostatnich 3 lat działalności,
+i)
+potwierdzenie zgodności wniosku, o którym mowa w ust. 1, z istniejącymi programami, strategiami i decyzjami w zakresie polityki transportowej dotyczącej lotnictwa cywilnego,
+j)
+potwierdzenie zgodności wniosku, o którym mowa w ust. 1, z planami generalnymi, o których mowa w art. 55 ust. 5 ustawy, lotnisk użytku publicznego planowanych do objęcia wspólnym systemem opłat lotniskowych.
+3.
+Do wniosku, o którym mowa w ust. 1, dołącza się:
+1)
+kopię zezwolenia zarządzającego lotniskiem na wykonywanie działalności gospodarczej w zakresie zarządzania lotniskiem na lotniskach użytku publicznego planowanych do objęcia wspólnym systemem opłat lotniskowych;
+2)
+dokumentację potwierdzającą przeprowadzenie konsultacji, o których mowa w art. 77a ust. 2 ustawy, a w przypadku, o którym mowa w art. 77a ust. 4 ustawy – dokumentację potwierdzającą przeprowadzenie konsultacji w zakresie, o którym mowa w art. 77a ust. 5 ustawy.
+§ 5.
+1.
+Kopie wniosków, o których mowa w § 3 ust. 1 i § 4 ust. 1, wraz z kopiami dokumentów, o których mowa w § 3 ust. 3 i § 4 ust. 3, minister właściwy do spraw transportu, nie później niż w terminie 7 dni od dnia ich otrzymania, przekazuje Prezesowi Urzędu Lotnictwa Cywilnego w celu zasięgnięcia opinii, o której mowa w art. 77a ust. 1 ustawy.
+2.
+Prezes Urzędu Lotnictwa Cywilnego, w terminie 14 dni od dnia otrzymania kopii wniosków oraz dokumentów, o których mowa w ust. 1, wydaje opinię, o której mowa w art. 77a ust. 1 ustawy, biorąc pod uwagę spełnienie warunków, o których mowa w § 2, i przekazuje ją ministrowi właściwemu do spraw transportu.
+3.
+Minister właściwy do spraw transportu, w terminie 30 dni od dnia otrzymania opinii, o której mowa w art. 77a ust. 1 ustawy, wydaje decyzję administracyjną, o której mowa w art. 77a ust. 1 ustawy.
+§ 6.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -8,12 +8,10 @@ pos: 1293
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi
-
-*USTAWA z dnia 15 czerwca 2018 r.*
+# Ustawa z dnia 15 czerwca 2018 r. o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi
 
 | Pole | Wartość |
 |---|---|
@@ -24,14 +22,18 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-06-15 |
 | Data wydania | 2018-07-04 |
+| Wejście w życie | 2018-07-19 |
 | Ostatnia zmiana | 2024-11-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001293) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1293/text.pdf) |
-
-Art. 123–126. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa zasady:
+
+- **1)** działania organizacji zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi oraz innych podmiotów zarządzających prawami autorskimi lub prawami pokrewnymi;
+- **2)** udzielania zezwoleń na zbiorowe zarządzanie prawami autorskimi lub prawami pokrewnymi, zwanych dalej „zezwoleniami”;
+- **3)** nadzoru nad organizacjami zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi;
+- **4)** działania Komisji Prawa Autorskiego, zwanej dalej „Komisją”.
 
 **Art. 2.**
 
@@ -41,9 +43,32 @@ Art. 123–126. (pominięte)
 - **2)** podmiotów, które wykonują czynności z zakresu zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi na podstawie tytułu prawnego udzielonego im przez organizację zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi;
 - **3)** osób prawnych lub jednostek organizacyjnych niebędących osobami prawnymi, którym ustawa przyznaje zdolność prawną, niedziałających w charakterze uprawnionego ani niebędących organizacją zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi, które wykonują czynności z zakresu zarządzania prawami autorskimi lub prawami pokrewnymi na podstawie tytułu prawnego udzielonego im przez uprawnionych, zwanych dalej „niezależnymi podmiotami zarządzającymi”.
 
-2. W zakresie nieuregulowanym w ustawie do organizacji zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi stosuje się przepisy ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261).
+2. W zakresie nieuregulowanym w ustawie do organizacji zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi stosuje się przepisy ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2017 r. poz. 210 oraz z 2018 r. poz. 723).
 
 **Art. 3.** Ilekroć w niniejszej ustawie mowa jest o:
+
+- **1)** zbiorowym zarządzaniu prawami autorskimi lub prawami pokrewnymi – należy przez to rozumieć działalność polegającą na wykonywaniu praw autorskich lub praw pokrewnych dla zbiorowej korzyści uprawnionych przez dokonywanie takich czynności, jak: obejmowanie praw w zbiorowy zarząd, zawieranie umów o korzystanie z utworów lub przedmiotów praw pokrewnych lub pobór wynagrodzenia za takie korzystanie, pobór, podział i wypłata przychodów z praw, monitorowanie korzystania z utworów lub przedmiotów praw pokrewnych przez użytkowników, dochodzenie ochrony praw autorskich lub praw pokrewnych, wykonywanie innych uprawnień i obowiązków organizacji zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi wynikających z niniejszej ustawy oraz ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2018 r. poz. 1191 i 1293), zwanej dalej „ustawą o prawie autorskim i prawach pokrewnych”;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+
+- **2)** organizacji zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi – należy przez to rozumieć stowarzyszenie zrzeszające uprawnionych lub podmioty reprezentujące uprawnionych, którego podstawowym celem statutowym jest zbiorowe zarządzanie prawami autorskimi lub prawami pokrewnymi na rzecz uprawnionych w zakresie zezwolenia udzielonego mu przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, zwanego dalej „ministrem”;
+- **3)** zagranicznej organizacji zbiorowego zarządzania – należy przez to rozumieć podmiot uznany za organizację zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi za granicą w państwie swojej siedziby;
+- **4)** uprawnionym – należy przez to rozumieć każdego, komu przysługują prawa autorskie lub prawa pokrewne lub tytuł prawny do przychodów z tych praw, niebędącego organizacją zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi;
+- **5)** osobie kierującej działalnością organizacji zbiorowego zarządzania – należy przez to rozumieć członka zarządu, członka komisji rewizyjnej oraz osobę kierującą jednostką organizacyjną odpowiedzialną w tej organizacji za wykonywanie czynności z zakresu zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi;
+- **6)** przychodach z praw – należy przez to rozumieć: środki pieniężne pobrane przez organizację zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi na rzecz uprawnionych, z tytułu przysługujących im praw autorskich lub praw pokrewnych, prawa do wynagrodzenia oraz opłat, określonych w ustawie o prawie autorskim i prawach pokrewnych, oraz pożytki, jakie środki te przyniosły do chwili ich wypłaty uprawnionym;
+    - **a)**
+    - **b)**
+
+- **7)** podziale przychodów z praw – należy przez to rozumieć ustalenie wysokości przychodów z praw, należnych poszczególnym uprawnionym, przed ich wypłatą;
+- **8)** wypłacie przychodów z praw – należy przez to rozumieć przekazanie pobranych przychodów z praw poszczególnym uprawnionym;
+- **9)** umowie o reprezentacji – należy przez to rozumieć umowę zawartą między organizacjami zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi albo między organizacją zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi a zagraniczną organizacją zbiorowego zarządzania, na podstawie której jedna organizacja upoważnia drugą do zbiorowego zarządzania wykonywanymi przez siebie prawami w zakresie i na zasadach określonych w tej umowie;
+- **10)** użytkowniku – należy przez to rozumieć osobę fizyczną, osobę prawną lub jednostkę organizacyjną niebędącą osobą prawną, której ustawa przyznaje zdolność prawną, która dokonuje eksploatacji utworów lub przedmiotów praw pokrewnych wymagającej zgody uprawnionych lub zapłaty na ich rzecz wynagrodzenia albo dokonuje czynności wymagających uiszczenia opłat zgodnie z ustawą o prawie autorskim i prawach pokrewnych;
+- **11)** repertuarze – należy przez to rozumieć utwory, do których prawami zbiorowo zarządza organizacja zbiorowego zarządzania prawami autorskimi;
+- **12)** licencji wieloterytorialnej – należy przez to rozumieć umowę upoważniającą do korzystania z utworów muzycznych i słowno-muzycznych na terytorium więcej niż jednego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, na polach eksploatacji wymienionych w art. 50 pkt 1 i 3 ustawy o prawie autorskim i prawach pokrewnych, w zakresie wymaganym do korzystania z tych utworów na potrzeby usług dostarczania treści cyfrowych w rozumieniu art. 2 pkt 5 ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2017 r. poz. 683 i 2361 oraz z 2018 r. poz. 650), świadczonych drogą elektroniczną w rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2017 r. poz. 1219 oraz z 2018 r. poz. 650).
 
 **Art. 4.**
 
@@ -61,24 +86,11 @@ Art. 123–126. (pominięte)
 
 1. Domniemywa się, że organizacja zbiorowego zarządzania jest uprawniona do zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi w zakresie udzielonego jej zezwolenia oraz posiada legitymację procesową w tym przedmiocie.
 
-2. W zakresie, w jakim art. 21–21 , art. 25 ust. 4 oraz art. 70 ust. 3 ustawy o prawie autorskim i prawach pokrewnych przewidują obowiązek zawarcia umowy lub zapłaty wynagrodzenia za pośrednictwem organizacji zbiorowego zarządzania, prawami danej kategorii uprawnionych do danego rodzaju utworów lub przedmiotów praw pokrewnych na danym polu eksploatacji, którzy nie zawarli umowy o zbiorowe zarządzanie prawami autorskimi lub prawami pokrewnymi z żadną organizacją, zbiorowo zarządza ta organizacja, która jest reprezentatywna w odniesieniu do tych praw.
+2. W zakresie, w jakim art. 21–213, art. 25 ust. 4 oraz art. 70 ust. 3 ustawy o prawie autorskim i prawach pokrewnych przewidują obowiązek zawarcia umowy lub zapłaty wynagrodzenia za pośrednictwem organizacji zbiorowego zarządzania, prawami danej kategorii uprawnionych do danego rodzaju utworów lub przedmiotów praw pokrewnych na danym polu eksploatacji, którzy nie zawarli umowy o zbiorowe zarządzanie prawami autorskimi lub prawami pokrewnymi z żadną organizacją, zbiorowo zarządza ta organizacja, która jest reprezentatywna w odniesieniu do tych praw.
 
-2a. W zakresie, w jakim art. 35 ustawy o prawie autorskim i prawach pokrewnych przewiduje możliwość korzystania z utworów niedostępnych w handlu lub przedmiotów praw pokrewnych na podstawie umowy zawartej z organizacją zbiorowego zarządzania, prawami danej kategorii uprawnionych do danego rodzaju utworów lub przedmiotów praw pokrewnych na danym polu eksploatacji, którzy nie zawarli umowy o zbiorowe zarządzanie prawami autorskimi lub prawami pokrewnymi z żadną organizacją, zbiorowo zarządza ta organizacja, która jest reprezentatywna w odniesieniu do tych praw. W zakresie swojej reprezentatywności organizacja ta, na wniosek instytucji dziedzictwa kulturowego, w rozumieniu art. 6 ust. 1 pkt 21 ustawy o prawie autorskim i prawach pokrewnych, może objąć umową licencji niewyłącznej również niedostępne w handlu utwory lub przedmioty praw pokrewnych, w odniesieniu do których uprawnieni zawarli umowę o zbiorowe zarządzanie z inną organizacją zbiorowego zarządzania.
-
-3. Umowa zawarta z reprezentatywną organizacją zbiorowego zarządzania uprawnia użytkownika do korzystania także z utworów lub przedmiotów praw pokrewnych, do których prawami zarządza ona zbiorowo na podstawie ust. 2 i 2a.
+3. Umowa zawarta z reprezentatywną organizacją zbiorowego zarządzania uprawnia użytkownika do korzystania także z utworów lub przedmiotów praw pokrewnych, do których prawami zarządza ona zbiorowo na podstawie ust. 2.
 
 4. Uprawnionemu niereprezentowanemu przez żadną organizację zbiorowego zarządzania, którego utwór lub przedmiot prawa pokrewnego jest objęty umową, o której mowa w ust. 3, przychody z praw z tytułu tej umowy przysługują na takich samych warunkach jak uprawnionym, którzy w tym zakresie zawarli z daną organizacją umowę o zbiorowe zarządzanie prawami autorskimi lub prawami pokrewnymi. Roszczenie o wypłatę przychodów z praw może być dochodzone wyłącznie wobec organizacji zbiorowego zarządzania, która zawarła umowę, o której mowa w ust. 3.
-
-**Art. 5a.**
-
-1. Organizacja zbiorowego zarządzania, która zawiera umowę w zakresie, o którym mowa w art. 22 ust. 1 i 2 lub art. 99 ust. 2 ustawy o prawie autorskim i prawach pokrewnych, może rozszerzyć zakres takiej umowy o prawa tej samej kategorii uprawnionych do tego samego rodzaju utworów lub przedmiotów praw pokrewnych na tym samym polu eksploatacji, którymi organizacja ta nie zarządza na podstawie umowy o zbiorowe zarządzanie prawami autorskimi lub prawami pokrewnymi lub umowy o reprezentacji (rozszerzona licencja zbiorowa), pod warunkiem że w zakresie tego rozszerzenia:
-
-- **1)** umowa dotyczy wyłącznie korzystania na terytorium Rzeczypospolitej Polskiej;
-- **2)** organizacja zbiorowego zarządzania jest reprezentatywna w odniesieniu do tych praw.
-
-2. Uprawnieni objęci rozszerzeniem, o którym mowa w ust. 1, mogą w każdym czasie i ze skutkiem natychmiastowym, w drodze oświadczenia złożonego organizacji zbiorowego zarządzania, wyłączyć swoje utwory lub przedmioty praw pokrewnych z zakresu rozszerzonych licencji zbiorowych. Przepisy art. 32 ust. 3–5 stosuje się odpowiednio, z tym że okres, o którym mowa w art. 32 ust. 3, wynosi 6 miesięcy.
-
-3. Organizacja zbiorowego zarządzania, o której mowa w ust. 1, w rozsądnym czasie, nie krótszym niż 3 miesiące, przed udzieleniem rozszerzonej licencji zbiorowej podaje do publicznej wiadomości na swojej stronie internetowej, że zamierza udzielić takiej licencji, a następnie że udzieliła takiej licencji oraz, w każdym przypadku, że uprawnieni mogą złożyć oświadczenie, o którym mowa w ust. 2.
 
 #### Rozdział 2 Zezwolenia
 
@@ -100,16 +112,18 @@ Art. 123–126. (pominięte)
 1. Minister udziela zezwolenia stowarzyszeniu, o którym mowa w art. 6 ust. 2, które:
 
 - **1)** wykaże potrzebę zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi odrębnie dla każdego pola eksploatacji objętego wnioskiem;
-- **2)** daje rękojmię należytego wykonywania zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi, w szczególności:
-    - **a)** posiada możliwości techniczne i organizacyjne gwarantujące samodzielne i prawidłowe wykonywanie zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi,
-    - **b)** zatrudnia osoby, których kwalifikacje gwarantują prawidłową prawną i rachunkową obsługę prowadzonej działalności w zakresie zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi,
-    - **c)** dysponuje środkami finansowymi w wysokości gwarantującej prawidłowe wykonywanie zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi;
-
-- **3)** zrzesza istotną liczbę uprawnionych w zakresie objętym wnioskiem o udzielenie zezwolenia, biorąc pod uwagę ogólną liczbę uprawnionych danej kategorii.
+- **2)** daje rękojmię należytego wykonywania zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi, w szczególności: posiada możliwości techniczne i organizacyjne gwarantujące samodzielne i prawidłowe wykonywanie zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi, zatrudnia osoby, których kwalifikacje gwarantują prawidłową prawną i rachunkową obsługę prowadzonej działalności w zakresie zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi, dysponuje środkami finansowymi w wysokości gwarantującej prawidłowe wykonywanie zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi.
+    - **a)**
+    - **b)**
+    - **c)**
 
 2. W zakresie, w jakim wniosek o udzielenie zezwolenia dotyczy przypadków, w których przepisy niniejszej ustawy wymagają wspólnego działania organizacji zbiorowego zarządzania na podstawie zawartego przez nie porozumienia, minister udziela zezwolenia wnioskodawcy, jeżeli wnioskodawca ustali z tymi organizacjami zasady wspólnego zawierania umów o korzystanie z utworów lub przedmiotów praw pokrewnych lub pobór wynagrodzenia za takie korzystanie.
 
 **Art. 8.** Zezwolenia nie udziela się:
+
+- **1)** terenowej jednostce organizacyjnej stowarzyszenia;
+- **2)** jeżeli wnioskodawca znajduje się w stanie likwidacji;
+- **3)** jeżeli nie upłynęło 5 lat od dnia uprawomocnienia się decyzji ministra o cofnięciu wnioskodawcy zezwolenia na podstawie art. 103 ust. 1 pkt 4 albo 5, w zakresie objętym wnioskiem o udzielenie zezwolenia.
 
 **Art. 9.**
 
@@ -141,6 +155,21 @@ Art. 123–126. (pominięte)
 ##### Oddział 1 Statut organizacji zbiorowego zarządzania
 
 **Art. 12.** Statut organizacji zbiorowego zarządzania, zwany dalej „statutem”, określa w szczególności:
+
+- **1)** nazwę organizacji zbiorowego zarządzania, odróżniającą ją od innych podmiotów;
+- **2)** terytorium działania i siedzibę organizacji zbiorowego zarządzania;
+- **3)** cele organizacji zbiorowego zarządzania i sposoby ich realizacji;
+- **4)** warunki i sposób nabywania i utraty członkostwa oraz prawa i obowiązki członków;
+- **5)** zasady i tryb: zwoływania walnego zebrania członków lub zebrania delegatów, zastępowania walnego zebrania członków zebraniem delegatów, o ile przewiduje się taką możliwość;
+    - **a)**
+    - **b)**
+
+- **6)** czas trwania kadencji oraz zasady i tryb wyboru zarządu oraz komisji rewizyjnej, uzupełniania składu tych organów, a także odwoływania i wygasania mandatów ich członków;
+- **7)** sposób uzyskiwania środków finansowych oraz ustanawiania składek członkowskich;
+- **8)** sposób reprezentowania organizacji zbiorowego zarządzania, w tym sposób zaciągania zobowiązań majątkowych, a także warunki ważności uchwał organów tej organizacji;
+- **9)** sposób zarządzania majątkiem organizacji zbiorowego zarządzania;
+- **10)** zasady dokonywania zmian statutu;
+- **11)** przeznaczenie majątku organizacji zbiorowego zarządzania w przypadku jej likwidacji.
 
 **Art. 13.**
 
@@ -220,6 +249,21 @@ Art. 123–126. (pominięte)
 7. Do zebrania delegatów stosuje się odpowiednio przepisy niniejszej ustawy oraz postanowienia statutu o walnym zebraniu członków.
 
 **Art. 19.** Uchwały walnego zebrania członków, poza innymi sprawami wymienionymi w statucie, wymaga:
+
+- **1)** zatwierdzanie statutu i dokonywanie w nim zmian;
+- **2)** wybór i odwoływanie członków zarządu, określanie zasad wynagradzania i wysokości wynagrodzenia oraz innych świadczeń pieniężnych i niepieniężnych z tytułu pełnionej funkcji, w tym świadczeń i uprawnień emerytalnych oraz odpraw;
+- **3)** wybór i odwoływanie członków komisji rewizyjnej, określanie zasad wynagradzania i wysokości wynagrodzenia oraz innych świadczeń pieniężnych i niepieniężnych z tytułu pełnionej funkcji, w tym świadczeń i uprawnień emerytalnych oraz odpraw;
+- **4)** zatwierdzanie regulaminu repartycji, określającego co najmniej zasady podziału przychodów z praw między uprawnionych, szczegółowe zasady wykorzystywania środków, o których mowa w art. 41 ust. 1, oraz zasady dokonywania potrąceń od przychodów z praw;
+- **5)** zatwierdzanie regulaminu określającego zasady dokonywania potrąceń od przychodów z praw na działalność o charakterze socjalnym, kulturalnym lub edukacyjnym;
+- **6)** zatwierdzanie regulaminu inwestycyjnego, określającego zasady zarządzania przychodami z praw do czasu ich wypłaty uprawnionym, w tym ich inwestowania;
+- **7)** zatwierdzanie regulaminu określającego zasady prowadzenia działalności o charakterze socjalnym, kulturalnym lub edukacyjnym;
+- **8)** zatwierdzanie regulaminu określającego zasady i tryb rozpoznawania skarg, o których mowa w art. 94;
+- **9)** zatwierdzanie strategii zarządzania ryzykiem;
+- **10)** nabywanie i zbywanie nieruchomości, użytkowania wieczystego, udziału w nieruchomości oraz udziału w użytkowaniu wieczystym, a także ustanawianie na nich ograniczonego prawa rzeczowego;
+- **11)** udzielanie oraz zaciąganie pożyczki lub zaciąganie kredytu oraz ustanawianie zabezpieczenia spłaty pożyczki lub kredytu;
+- **12)** tworzenie podmiotów zależnych od organizacji zbiorowego zarządzania ze względu na możliwość wyboru lub odwoływania przez tę organizację większości członków organów stanowiących podmiotu zależnego, zarządzających podmiotem zależnym lub kontrolujących działalność podmiotu zależnego, dysponowania większością głosów w organach podmiotu zależnego lub wywierania decydującego wpływu na działalność podmiotu zależnego;
+- **13)** nabywanie przez organizację zbiorowego zarządzania przedsiębiorstwa lub jego zorganizowanej części, udziałów lub akcji;
+- **14)** wyrażanie zgody na uzyskanie przez organizację zbiorowego zarządzania członkostwa w innej osobie prawnej.
 
 **Art. 20.**
 
@@ -320,7 +364,7 @@ Art. 123–126. (pominięte)
 2. Umowa o zbiorowe zarządzanie określa utwory lub przedmioty praw pokrewnych, pola eksploatacji i terytoria, których takie zarządzanie dotyczy. Umowa o zbiorowe zarządzanie może określać, że zbiorowe zarządzanie prawami autorskimi lub prawami pokrewnymi danego uprawnionego dotyczy:
 
 - **1)** wszystkich jego utworów lub przedmiotów praw pokrewnych lub
-- **2)** utworów lub przedmiotów praw pokrewnych danego rodzaju – istniejących w chwili zawarcia umowy o zbiorowe zarządzanie lub tych, które powstaną w okresie jej obowiązywania.
+- **2)** utworów lub przedmiotów praw pokrewnych danego rodzaju istniejących w chwili zawarcia umowy o zbiorowe zarządzanie lub tych, które powstaną w okresie jej obowiązywania.
 
 3. Umowę o zbiorowe zarządzanie zawiera się w formie pisemnej, elektronicznej lub dokumentowej.
 
@@ -359,11 +403,23 @@ Art. 123–126. (pominięte)
 
 **Art. 34.** Organizacja zbiorowego zarządzania prowadzi w postaci elektronicznej i na bieżąco aktualizuje wykazy:
 
+- **1)** umów o zbiorowe zarządzanie, zawierające imiona i nazwiska, pseudonimy lub nazwy uprawnionych, utwory lub przedmioty praw pokrewnych, pola eksploatacji oraz terytoria, w stosunku do których została upoważniona do zbiorowego zarządzania;
+- **2)** ustalonych uprawnionych, których prawami zbiorowo zarządza na innej podstawie niż umowa o zbiorowe zarządzanie, zawierające ich imiona i nazwiska, pseudonimy lub nazwy.
+
 ##### Oddział 2 Zarządzanie przychodami z praw
 
-**Art. 35.** Organizacja zbiorowego zarządzania jest obowiązana określić w dokumentacji, o której mowa w art. 10 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619), zasady rachunkowości, w tym zakładowy plan kont, w sposób zapewniający uwzględnienie w księgach rachunkowych przychodów i związanych z nimi kosztów odrębnie w odniesieniu do:
+**Art. 35.** Organizacja zbiorowego zarządzania jest obowiązana określić w dokumentacji, o której mowa w art. 10 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2018 r. poz. 395, 398 i 650), zasady rachunkowości, w tym zakładowy plan kont, w sposób zapewniający uwzględnienie w księgach rachunkowych przychodów i związanych z nimi kosztów odrębnie w odniesieniu do:
+
+- **1)** przychodów z praw przeznaczonych do podziału i wypłaty zgodnie z art. 39;
+- **2)** przychodów z praw niewypłaconych w przypadku, o którym mowa w art. 40;
+- **3)** pozostałych składników majątku własnego organizacji zbiorowego zarządzania, w tym uzyskanych z potrąceń na pokrycie kosztów zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi.
 
 **Art. 36.** Organizacja zbiorowego zarządzania przeznacza przychody z praw na:
+
+- **1)** wypłatę uprawnionym;
+- **2)** potrącenia na pokrycie kosztów zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi, dokonywane zgodnie z zasadami określonymi w regulaminie repartycji, o którym mowa w art. 19 pkt 4;
+- **3)** wykorzystanie kwot niepodlegających podziałowi określonych w regulaminie repartycji, o którym mowa w art. 19 pkt 4;
+- **4)** potrącenia na prowadzoną przez organizację zbiorowego zarządzania działalność o charakterze socjalnym, kulturalnym lub edukacyjnym, dokonywane zgodnie z zasadami określonymi w regulaminie, o którym mowa w art. 19 pkt 5.
 
 **Art. 37.**
 
@@ -397,6 +453,14 @@ Art. 123–126. (pominięte)
 3. Termin, o którym mowa w ust. 2, ulega zawieszeniu na okres, w którym organizacja zbiorowego zarządzania nie jest w stanie dokonać podziału lub wypłaty uprawnionym przychodów z praw z przyczyn obiektywnych, innych niż określone w art. 40, w szczególności związanych z nieprzekazywaniem informacji niezbędnych do dokonania tego podziału lub tej wypłaty przez uprawnionych, użytkowników lub organizacje zbiorowego zarządzania działające na podstawie umowy o reprezentacji.
 
 **Art. 40.** Jeżeli organizacja zbiorowego zarządzania nie jest w stanie dokonać wypłaty przychodów z praw z powodu nieustalenia lub nieodnalezienia uprawnionych, w terminie 3 miesięcy od dnia upływu terminu, o którym mowa w art. 39 ust. 2, podejmuje ona niezbędne czynności w celu ustalenia lub odnalezienia uprawnionych, w szczególności:
+
+- **1)** poszukuje informacji na temat uprawnionych w wykazach, o których mowa w art. 34, oraz innych dostępnych jej źródłach informacji;
+- **2)** przekazuje swoim członkom, uprawnionym, których reprezentuje na podstawie umowy o zbiorowe zarządzanie, organizacjom zbiorowego zarządzania posiadającym zezwolenie na zbiorowe zarządzanie prawami tej samej kategorii uprawnionych oraz organizacjom zbiorowego zarządzania, z którymi zawarła umowy o reprezentacji, będące w jej posiadaniu informacje na temat utworów lub przedmiotów praw pokrewnych, co do których uprawnieni nie zostali ustaleni lub odnalezieni, które mogłyby pomóc w ich odnalezieniu lub zidentyfikowaniu, zawierające w szczególności: tytuły utworów lub przedmiotów praw pokrewnych, imiona i nazwiska, pseudonimy lub nazwy uprawnionych, którzy nie zostali ustaleni lub odnalezieni, imiona i nazwiska albo nazwy właściwych wydawców lub producentów;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **3)** publikuje informacje, o których mowa w pkt 2, na swojej stronie internetowej.
 
 **Art. 41.**
 
@@ -436,7 +500,7 @@ Art. 123–126. (pominięte)
 
 **Art. 46.**
 
-1. Organizacja zbiorowego zarządzania, stosując obiektywne i niedyskryminujące kryteria, oferuje niższe stawki wynagrodzeń użytkownikom prowadzącym działalność kulturalną w rozumieniu art. 1 ust. 1 ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2024 r. poz. 87), korzystającym z utworów lub przedmiotów praw pokrewnych w zakresie prowadzonej przez nich działalności statutowej, jeżeli to korzystanie nie łączy się z osiąganiem bezpośrednich lub pośrednich korzyści majątkowych.
+1. Organizacja zbiorowego zarządzania, stosując obiektywne i niedyskryminujące kryteria, oferuje niższe stawki wynagrodzeń użytkownikom prowadzącym działalność kulturalną w rozumieniu art. 1 ust. 1 ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2017 r. poz. 862 oraz z 2018 r. poz. 152 i 1105), korzystającym z utworów lub przedmiotów praw pokrewnych w zakresie prowadzonej przez nich działalności statutowej, jeżeli to korzystanie nie łączy się z osiąganiem bezpośrednich lub pośrednich korzyści majątkowych.
 
 2. Organizacja zbiorowego zarządzania w przypadku świadczenia przez użytkownika drogą elektroniczną nowego rodzaju usługi, która jest publicznie dostępna krócej niż 3 lata na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, może oferować warunki umów o korzystanie z utworów lub przedmiotów praw pokrewnych lub pobór wynagrodzenia za takie korzystanie odmienne od oferowanych innym użytkownikom świadczącym usługi drogą elektroniczną.
 
@@ -537,9 +601,9 @@ Art. 123–126. (pominięte)
 2. Organizacja zbiorowego zarządzania w zakresie, w jakim udziela licencji wieloterytorialnych, udostępnia uprawnionym wraz z każdą płatnością dokonaną zgodnie z ust. 1 informacje określające co najmniej:
 
 - **1)** okres i terytoria, w odniesieniu do których miało miejsce korzystanie z utworów związane z dokonywaną płatnością;
-- **2)** wysokość przychodów z praw pobranych, podzielonych i wypłaconych oraz dokonanych potrąceń w odniesieniu do:
-    - **a)** całości albo części każdego utworu objętego licencją wieloterytorialną na poszczególnych polach eksploatacji,
-    - **b)** każdego użytkownika.
+- **2)** wysokość przychodów z praw pobranych, podzielonych i wypłaconych oraz dokonanych potrąceń w odniesieniu do: całości albo części każdego utworu objętego licencją wieloterytorialną na poszczególnych polach eksploatacji, każdego użytkownika.
+    - **a)**
+    - **b)**
 
 3. Organizacja zbiorowego zarządzania, która udziela licencji wieloterytorialnych na podstawie upoważnienia udzielonego przez inną organizację zbiorowego zarządzania zgodnie z art. 60 i art. 61, przekazuje niezwłocznie organizacji upoważniającej przychody z praw, o których mowa w ust. 1, oraz udostępnia informacje, o których mowa w ust. 2. Organizacja upoważniająca jest odpowiedzialna za podział i wypłatę przychodów z praw oraz udostępnienie tych informacji uprawnionym, chyba że umowa o reprezentacji zawarta między tymi organizacjami stanowi inaczej.
 
@@ -565,6 +629,9 @@ Art. 123–126. (pominięte)
 
 **Art. 63.** Przepisów niniejszego rozdziału nie stosuje się do organizacji zbiorowego zarządzania, które udzielają – na zasadzie dobrowolnego łączenia repertuarów, zgodnie z zasadami konkurencji określonymi na podstawie art. 101 i art. 102 Traktatu o funkcjonowaniu Unii Europejskiej – licencji wieloterytorialnej, niezbędnej organizacji radiowej lub telewizyjnej na potrzeby:
 
+- **1)** nadawania własnego programu lub rozpowszechniania tego programu lub zawartych w nim audycji w inny sposób lub
+- **2)** udostępniania innych materiałów wytworzonych przez tę organizację radiową lub telewizyjną albo na jej zamówienie lub zlecenie, które stanowią uzupełnienie tego programu lub zawartych w nim audycji, w taki sposób, by każdy miał do nich dostęp w miejscu i czasie przez siebie wybranym.
+
 #### Rozdział 7 Komisja
 
 ##### Oddział 1 Przepisy ogólne
@@ -575,12 +642,12 @@ Art. 123–126. (pominięte)
 
 - **1)** rozpatrywanie spraw o zatwierdzanie i zmianę zatwierdzonych tabel wynagrodzeń za korzystanie z utworów lub przedmiotów praw pokrewnych;
 - **2)** rozwiązywanie sporów dotyczących stosowania tabel, o których mowa w pkt 1;
-- **3)** rozwiązywanie sporów związanych z zawarciem i warunkami umowy, o której mowa w art. 21 ust. 1 ustawy o prawie autorskim i prawach pokrewnych;
+- **3)** rozwiązywanie sporów związanych z zawarciem i warunkami umowy, o której mowa w art. 211ust. 1 ustawy o prawie autorskim i prawach pokrewnych;
 - **4)** rozwiązywanie sporów w przypadku, gdy pomimo negocjacji, o których mowa w art. 45 ust. 5, umowa nie została zawarta.
 
-2. W zakresie nieuregulowanym w niniejszym rozdziale do postępowań przed Komisją, o których mowa w ust. 1 pkt 1, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572). Decyzje wydane w tych postępowaniach są ostateczne.
+2. W zakresie nieuregulowanym w niniejszym rozdziale do postępowań przed Komisją, o których mowa w ust. 1 pkt 1, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257 oraz z 2018 r. poz. 149 i 650). Organem wyższego stopnia w rozumieniu ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego w stosunku do Komisji jest minister.
 
-3. W zakresie nieuregulowanym w niniejszym rozdziale do postępowań przed Komisją, o których mowa w ust. 1 pkt 2–4, stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568) o mediacji.
+3. W zakresie nieuregulowanym w niniejszym rozdziale do postępowań przed Komisją, o których mowa w ust. 1 pkt 2–4, stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 155, z późn. zm.) o mediacji.
 
 **Art. 65.**
 
@@ -750,7 +817,7 @@ Art. 123–126. (pominięte)
 
 2. Organizacje zbiorowego zarządzania, których zezwolenia obejmują zbiorowe zarządzanie prawami tej samej kategorii uprawnionych do tego samego rodzaju utworów lub przedmiotów praw pokrewnych na tym samym polu eksploatacji, są obowiązane do złożenia w tym zakresie wspólnego wniosku o zatwierdzenie wspólnej tabeli wynagrodzeń za korzystanie z utworów lub przedmiotów praw pokrewnych na tym polu eksploatacji.
 
-3. Organizacje zbiorowego zarządzania, których zezwolenia obejmują pola eksploatacji odtwarzanie oraz pobór wynagrodzenia, o którym mowa w art. 70 ust. 2 pkt 1 ustawy o prawie autorskim i prawach pokrewnych, są obowiązane do złożenia wspólnego wniosku o zatwierdzenie wspólnej tabeli wynagrodzeń za korzystanie z utworów lub przedmiotów praw pokrewnych na każdym z tych pól eksploatacji.
+3. Organizacje zbiorowego zarządzania, których zezwolenia obejmują pola eksploatacji odtwarzanie oraz pobór wynagrodzenia, o którym mowa w art. 70 ust. 21 pkt 1 ustawy o prawie autorskim i prawach pokrewnych, są obowiązane do złożenia wspólnego wniosku o zatwierdzenie wspólnej tabeli wynagrodzeń za korzystanie z utworów lub przedmiotów praw pokrewnych na każdym z tych pól eksploatacji.
 
 4. W przypadku złożenia wniosku o zatwierdzenie wspólnej tabeli wynagrodzeń za korzystanie z utworów lub przedmiotów praw pokrewnych, wnioskodawcy wnoszą opłatę jak od jednego wniosku, w równych częściach.
 
@@ -773,7 +840,7 @@ Art. 123–126. (pominięte)
 2. Organizacją społeczną uczestniczącą w postępowaniu w sprawie o zatwierdzenie tabeli wynagrodzeń za korzystanie z utworów lub przedmiotów praw pokrewnych na prawach strony jest:
 
 - **1)** organizacja zbiorowego zarządzania posiadająca zezwolenie na polach eksploatacji, których dotyczy wniosek o zatwierdzenie tabeli wynagrodzeń,
-- **2)** organizacja społeczna zrzeszająca podmioty korzystające z utworów lub przedmiotów praw pokrewnych na polach eksploatacji, których dotyczy wniosek o zatwierdzenie tabeli wynagrodzeń – jeżeli w terminie wyznaczonym przez przewodniczącego zespołu orzekającego, zgodnie z ust. 3, złoży żądanie dopuszczenia jej do udziału w tym postępowaniu.
+- **2)** organizacja społeczna zrzeszająca podmioty korzystające z utworów lub przedmiotów praw pokrewnych na polach eksploatacji, których dotyczy wniosek o zatwierdzenie tabeli wynagrodzeń jeżeli w terminie wyznaczonym przez przewodniczącego zespołu orzekającego, zgodnie z ust. 3, złoży żądanie dopuszczenia jej do udziału w tym postępowaniu.
 
 3. Przewodniczący zespołu orzekającego, w terminie 14 dni od dnia jego wyboru albo wyznaczenia, ogłasza w co najmniej dwóch drukowanych dziennikach o zasięgu ogólnopolskim oraz Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra o wszczęciu postępowania w sprawie o zatwierdzenie tabeli wynagrodzeń za korzystanie z utworów lub przedmiotów praw pokrewnych i informuje organizacje społeczne, o których mowa w ust. 2, o możliwości występowania z żądaniem dopuszczenia do udziału w postępowaniu, wyznaczając termin nie krótszy niż 14 dni i nie dłuższy niż 30 dni od dnia ogłoszenia.
 
@@ -809,9 +876,23 @@ Art. 123–126. (pominięte)
 
 2. W umowach, o których mowa w ust. 1, postanowienia umowne określające wynagrodzenie inne, niż wynikałoby to z zatwierdzonych tabel wynagrodzeń, są nieważne, a ich miejsce zajmują odpowiednie postanowienia tych tabel.
 
-**Art. 82.** (uchylony)
+**Art. 82.**
 
-**Art. 83.** (uchylony)
+1. Od decyzji Komisji w przedmiocie zatwierdzenia tabeli wynagrodzeń za korzystanie z utworów lub przedmiotów praw pokrewnych służy odwołanie do ministra.
+
+2. Przewodniczący Komisji niezwłocznie ogłasza informację o wniesieniu odwołania, o którym mowa w ust. 1, w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra.
+
+**Art. 83.**
+
+1. Minister w wyniku rozpoznania odwołania, o którym mowa w art. 82 ust. 1, wydaje decyzję, w której:
+
+- **1)** utrzymuje w mocy zaskarżoną decyzję albo
+- **2)** uchyla zaskarżoną decyzję w całości albo części i w tym zakresie zatwierdza tabelę wynagrodzeń za korzystanie z utworów lub przedmiotów praw pokrewnych albo odmawia jej zatwierdzenia albo, uchylając tę decyzję, umarza postępowanie pierwszej instancji, albo
+- **3)** umarza postępowanie odwoławcze.
+
+2. Minister może uchylić zaskarżoną decyzję w całości i przekazać sprawę do ponownego rozpatrzenia przez Komisję, gdy decyzja ta została wydana z naruszeniem przepisów postępowania, a konieczny do wyjaśnienia zakres sprawy ma istotny wpływ na jej rozstrzygnięcie. Przekazując sprawę, minister wskazuje okoliczności, jakie należy wziąć pod uwagę przy ponownym rozpatrzeniu sprawy.
+
+3. Ponownego rozpatrzenia sprawy dokonuje zespół orzekający w innym składzie.
 
 **Art. 84.**
 
@@ -841,11 +922,40 @@ Art. 123–126. (pominięte)
 
 **Art. 87.** Organizacja zbiorowego zarządzania co najmniej raz w roku udostępnia uprawnionemu, na rzecz którego dokonała podziału lub wypłaty przychodów z praw, informacje dotyczące wykonywanego zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi za dany okres, obejmujące co najmniej:
 
+- **1)** dane kontaktowe uprawnionego: imię, nazwisko, pseudonim lub nazwę oraz adres korespondencyjny, w tym adres poczty elektronicznej, które za zgodą uprawnionego może wykorzystywać, aby go ustalić i odnaleźć – celem ich aktualizacji;
+- **2)** wysokość przychodów z praw należnych uprawnionemu;
+- **3)** wysokość przychodów z praw wypłaconych uprawnionemu z tytułu korzystania z utworów lub przedmiotów praw pokrewnych na poszczególnych polach eksploatacji;
+- **4)** okres, za który dokonano podziału lub wypłaty przychodów z praw, chyba że z obiektywnych przyczyn związanych ze zgłaszaniem wykorzystania praw przez użytkowników organizacja zbiorowego zarządzania nie jest w stanie udostępnić tych informacji;
+- **5)** wysokość potrąceń dokonanych na pokrycie kosztów zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi;
+- **6)** wysokość potrąceń dokonanych na prowadzoną przez organizację zbiorowego zarządzania działalność o charakterze socjalnym, kulturalnym lub edukacyjnym;
+- **7)** wysokość przychodów z praw należnych uprawnionemu, które nie zostały jeszcze wypłacone do końca danego okresu.
+
 **Art. 88.** Organizacja zbiorowego zarządzania co najmniej raz w roku udostępnia przy wykorzystaniu środków komunikacji elektronicznej organizacji zbiorowego zarządzania, której prawami zbiorowo zarządza na podstawie umowy o reprezentacji, informacje dotyczące wykonywanego zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi za dany okres, obejmujące co najmniej:
+
+- **1)** wysokość przychodów z praw należnych danej organizacji zbiorowego zarządzania;
+- **2)** wysokość przychodów z praw wypłaconych danej organizacji zbiorowego zarządzania z tytułu korzystania z utworów lub przedmiotów praw pokrewnych na poszczególnych polach eksploatacji;
+- **3)** wysokość przychodów z praw należnych danej organizacji zbiorowego zarządzania, które nie zostały jeszcze wypłacone do końca danego okresu;
+- **4)** wysokość potrąceń dokonanych na pokrycie kosztów zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi;
+- **5)** wysokość potrąceń dokonanych na prowadzoną przez organizację zbiorowego zarządzania działalność o charakterze socjalnym, kulturalnym lub edukacyjnym;
+- **6)** udzielone licencje oraz licencje, których udzielenia odmówiono, w odniesieniu do praw objętych umową o reprezentacji;
+- **7)** uchwały przyjęte przez walne zebranie członków, o ile mają one znaczenie dla zbiorowego zarządzania prawami objętymi umową o reprezentacji.
 
 **Art. 89.** Organizacja zbiorowego zarządzania, na należycie uzasadniony wniosek uprawnionego, użytkownika lub organizacji zbiorowego zarządzania, której prawami zbiorowo zarządza na podstawie umowy o reprezentacji, udostępnia bez zbędnej zwłoki przy wykorzystaniu środków komunikacji elektronicznej co najmniej informacje w zakresie:
 
+- **1)** utworów lub przedmiotów praw pokrewnych, którymi zbiorowo zarządza na podstawie umowy o zbiorowe zarządzanie lub umowy o reprezentacji, a jeżeli z obiektywnych przyczyn nie jest to możliwe, rodzajach utworów lub przedmiotów praw pokrewnych, którymi zbiorowo zarządza na tych podstawach;
+- **2)** pól eksploatacji oraz terytoriów, których ten zarząd dotyczy.
+
 **Art. 90.** Organizacja zbiorowego zarządzania publikuje na swojej stronie internetowej i na bieżąco aktualizuje podstawowe informacje dotyczące jej działalności, w tym co najmniej:
+
+- **1)** statut;
+- **2)** warunki i sposób nabywania oraz utraty członkostwa w organizacji zbiorowego zarządzania;
+- **3)** warunki zawierania i wypowiadania umowy o zbiorowe zarządzanie, o ile nie są ujęte w statucie;
+- **4)** wzory standardowych umów licencyjnych;
+- **5)** zatwierdzone tabele wynagrodzeń za korzystanie z utworów lub przedmiotów praw pokrewnych oraz pozostałe standardowe stosowane stawki wynagrodzeń, łącznie ze zniżkami;
+- **6)** wykaz osób kierujących działalnością organizacji zbiorowego zarządzania, zawierający imię, nazwisko i funkcję każdej z tych osób;
+- **7)** regulaminy, o których mowa w art. 19 pkt 4 i 5;
+- **8)** wykaz zawartych umów o reprezentacji ze wskazaniem stron, przedmiotu umowy, daty jej zawarcia oraz okresu jej obowiązywania;
+- **9)** informację o procedurze rozpatrywania skarg, o których mowa w art. 94, możliwości rozwiązywania sporów w drodze postępowania mediacyjnego, o którym mowa w art. 85 ust. 1, oraz możliwości poddania sporu z organizacją zbiorowego zarządzania pod rozstrzygnięcie sądu powszechnego lub, za jej zgodą, sądu polubownego zgodnie z częścią piątą ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
 
 **Art. 91.**
 
@@ -861,7 +971,7 @@ Art. 123–126. (pominięte)
 
 4. Sprawozdanie, o którym mowa w ust. 2 pkt 2, oraz dane finansowe zawarte w sprawozdaniach, o których mowa w ust. 2 pkt 1 i 3, podlegają badaniu przez biegłego rewidenta.
 
-5. W wyniku przeprowadzenia badania, o którym mowa w ust. 4, biegły rewident sporządza na piśmie sprawozdanie z badania, o którym mowa w art. 83 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2024 r. poz. 1035), w którym dodatkowo zawiera informację, czy dane finansowe zawarte w sprawozdaniach, o których mowa w ust. 2 pkt 1 i 3, zostały przedstawione zgodnie z wymogiem określonym w ust. 3 oraz przepisami wykonawczymi wydanymi na podstawie art. 92.
+5. W wyniku przeprowadzenia badania, o którym mowa w ust. 4, biegły rewident sporządza na piśmie sprawozdanie z badania, o którym mowa w art. 83 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. poz. 1089 oraz z 2018 r. poz. 398), w którym dodatkowo zawiera informację, czy dane finansowe zawarte w sprawozdaniach, o których mowa w ust. 2 pkt 1 i 3, zostały przedstawione zgodnie z wymogiem określonym w ust. 3 oraz przepisami wykonawczymi wydanymi na podstawie art. 92.
 
 6. Organizacja zbiorowego zarządzania przekazuje ministrowi zatwierdzone roczne sprawozdanie z działalności, wraz ze sprawozdaniem z badania, o którym mowa w ust. 5, oraz podaje je do publicznej wiadomości przez zamieszczenie na swojej stronie internetowej, w terminie 6 miesięcy od dnia zakończenia danego roku obrotowego. Dokumenty te pozostają publicznie dostępne na stronie internetowej organizacji zbiorowego zarządzania.
 
@@ -895,17 +1005,22 @@ Art. 123–126. (pominięte)
 
 **Art. 97.** Celem nadzoru jest zapewnienie należytego wykonywania zbiorowego zarządzania prawami autorskimi i prawami pokrewnymi, w zakresie:
 
+- **1)** zgodności działalności organizacji zbiorowego zarządzania z przepisami prawa, zezwoleniem oraz postanowieniami statutu i innych aktów wewnętrznych organizacji zbiorowego zarządzania;
+- **2)** skutecznego funkcjonowania systemu zbiorowego zarządzania prawami autorskimi i prawami pokrewnymi;
+- **3)** prawidłowego i terminowego podziału przychodów z praw i ich wypłaty uprawnionym;
+- **4)** uzasadnionego poziomu potrąceń na pokrycie kosztów zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi.
+
 **Art. 98.**
 
 1. W ramach sprawowanego nadzoru minister może:
 
 - **1)** wezwać organizację zbiorowego zarządzania do przekazania w wyznaczonym terminie określonych informacji i dokumentów niezbędnych do realizacji celu nadzoru, o którym mowa w art. 97;
 - **2)** zażądać okresowego przekazywania przez organizację zbiorowego zarządzania określonych informacji i dokumentów niezbędnych do oceny prawidłowości wykonywania zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi, lub ustalenia, że zaistniałe uchybienia zostały usunięte;
-- **3)** wydawać organizacji zbiorowego zarządzania zalecenia, w szczególności w zakresie:
-    - **a)** zapewnienia zgodności działalności organizacji zbiorowego zarządzania z przepisami prawa, zezwoleniem oraz postanowieniami statutu i innych aktów wewnętrznych organizacji zbiorowego zarządzania,
-    - **b)** podjęcia przez organizację zbiorowego zarządzania środków koniecznych do prawidłowej realizacji obowiązków w zakresie poboru, podziału lub wypłaty przychodów z praw,
-    - **c)** opracowania i stosowania procedur, które zapewnią należytą realizację obowiązków dotyczących zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi,
-    - **d)** podjęcia środków koniecznych do zapobieżenia naruszeniom interesów uprawnionych lub użytkowników;
+- **3)** wydawać organizacji zbiorowego zarządzania zalecenia, w szczególności w zakresie: zapewnienia zgodności działalności organizacji zbiorowego zarządzania z przepisami prawa, zezwoleniem oraz postanowieniami statutu i innych aktów wewnętrznych organizacji zbiorowego zarządzania, podjęcia przez organizację zbiorowego zarządzania środków koniecznych do prawidłowej realizacji obowiązków w zakresie poboru, podziału lub wypłaty przychodów z praw, opracowania i stosowania procedur, które zapewnią należytą realizację obowiązków dotyczących zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi, podjęcia środków koniecznych do zapobieżenia naruszeniom interesów uprawnionych lub użytkowników;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **4)** prowadzić uzgodnienia w sprawach spornych między organizacjami zbiorowego zarządzania, w szczególności dotyczących zasad ich wspólnego działania, o którym mowa w art. 47 ust. 2 i 4.
 
@@ -921,7 +1036,7 @@ Art. 123–126. (pominięte)
 
 1. Minister może przeprowadzić kontrolę w siedzibie organizacji zbiorowego zarządzania lub jej terenowych jednostek organizacyjnych, jeżeli wykonują one czynności z zakresu zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi.
 
-2. Kontrolę przeprowadza się na zasadach i w trybie określonych w ustawie z dnia 15 lipca 2011 r. o kontroli w administracji rządowej (Dz. U. z 2020 r. poz. 224).
+2. Kontrolę przeprowadza się na zasadach i w trybie określonych w ustawie z dnia 15 lipca 2011 r. o kontroli w administracji rządowej (Dz. U. poz. 1092).
 
 **Art. 101.** W przypadku rażącego opóźnienia wypłat przychodów z praw minister może nakazać organizacji zbiorowego zarządzania opracowanie i wykonanie w wyznaczonym terminie planu podziału i wypłaty uprawnionym pobranych przez nią przychodów z praw.
 
@@ -951,9 +1066,9 @@ Art. 123–126. (pominięte)
 
 **Art. 104.**
 
-1. Wpływy z tytułu kar pieniężnych stanowią przychód Funduszu Promocji Kultury, o którym mowa w art. 87 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2023 r. poz. 227 oraz z 2024 r. poz. 1473).
+1. Wpływy z tytułu kar pieniężnych stanowią przychód Funduszu Promocji Kultury, o którym mowa w art. 87 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2018 r. poz. 165, 650 i 723).
 
-2. Należności z tytułu kar pieniężnych podlegają egzekucji w trybie określonym w ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505, z późn. zm. ).
+2. Należności z tytułu kar pieniężnych podlegają egzekucji w trybie określonym w ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2017 r. poz. 1201, z późn. zm.).
 
 **Art. 105.** Do decyzji, o których mowa w art. 103, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z wyłączeniem art. 189k tej ustawy.
 
@@ -992,9 +1107,12 @@ Art. 123–126. (pominięte)
 
 2. Wobec stowarzyszenia, któremu cofnięto zezwolenie, do czasu wykonania obowiązków, o których mowa w ust. 1, stosuje się odpowiednio przepisy art. 36–42, art. 59 i rozdziałów 8–10.
 
-3. W przypadku, o którym mowa w ust. 1 pkt 3, przepisu art. 693 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego nie stosuje się.
+3. W przypadku, o którym mowa w ust. 1 pkt 3, przepisu art. 69311 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego nie stosuje się.
 
 **Art. 110.** Stowarzyszenie, któremu cofnięto zezwolenie:
+
+- **1)** informuje swoich członków, uprawnionych reprezentowanych na podstawie umowy o zbiorowe zarządzanie, organizacje zbiorowego zarządzania, z którymi zawarło umowy o reprezentacji, oraz użytkowników, z którymi zawarło umowy o korzystanie z utworów lub przedmiotów praw pokrewnych lub pobór wynagrodzenia za takie korzystanie, o treści decyzji, o której mowa w art. 109 ust. 1, oraz jej skutkach;
+- **2)** zamieszcza na swojej stronie internetowej informację o możliwości zgłaszania wobec stowarzyszenia roszczeń o wypłatę przychodów z praw przez uprawnionych oraz treści decyzji, o której mowa w art. 109 ust. 1.
 
 **Art. 111.** Członkowie zarządu stowarzyszenia, któremu cofnięto zezwolenie, odpowiadają solidarnie ze stowarzyszeniem wobec uprawnionych za szkodę wyrządzoną działaniem lub zaniechaniem sprzecznym z przepisami prawa, postanowieniami statutu i innych aktów wewnętrznych organizacji zbiorowego zarządzania oraz treścią decyzji, o której mowa w art. 109 ust. 1, chyba że nie ponoszą winy.
 
@@ -1006,9 +1124,22 @@ Art. 123–126. (pominięte)
 
 #### Rozdział 12 Niezależne podmioty zarządzające
 
-**Art. 113.** Zarządzanie prawami autorskimi lub prawami pokrewnymi na rzecz uprawnionych przez niezależny podmiot zarządzający jest działalnością regulowaną, o której mowa w ustawie z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236 i 1222), i wymaga wpisu do rejestru niezależnych podmiotów zarządzających, zwanego dalej „rejestrem”.
+**Art. 113.** Zarządzanie prawami autorskimi lub prawami pokrewnymi na rzecz uprawnionych przez niezależny podmiot zarządzający jest działalnością regulowaną, o której mowa w ustawie z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. poz. 646), i wymaga wpisu do rejestru niezależnych podmiotów zarządzających, zwanego dalej „rejestrem”.
 
 **Art. 114.** Warunkami wykonywania działalności, o której mowa w art. 113, są:
+
+- **1)** publiczne udostępnienie przez niezależny podmiot zarządzający na swojej stronie internetowej i bieżące aktualizowanie podstawowych informacji dotyczących jego działalności obejmujących: statut, o ile jego posiadanie jest wymagane przepisami prawa, warunki zawierania z uprawnionymi i wypowiadania umów o zarządzanie ich prawami, wzory standardowych umów licencyjnych, standardowe stosowane stawki wynagrodzeń, łącznie ze zniżkami, zasady podziału przychodów z praw między uprawnionych oraz dokonywania potrąceń od tych przychodów, rodzaje utworów lub przedmiotów praw pokrewnych, do których prawami niezależny podmiot zarządzający będzie zarządzać, pola eksploatacji, na których niezależny podmiot zarządzający będzie zarządzać prawami, kategorie uprawnionych, których prawami niezależny podmiot zarządzający będzie zarządzać, terytorium, na którym będzie wykonywana działalność, o której mowa w art. 113;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+
+- **2)** posiadanie tytułu prawnego do zarządzania prawami, których ma dotyczyć umowa o korzystanie z utworów lub przedmiotów praw pokrewnych lub pobór wynagrodzenia za takie korzystanie.
 
 **Art. 115.**
 
@@ -1061,6 +1192,11 @@ Art. 123–126. (pominięte)
 
 **Art. 118.** Minister wykreśla wpis z rejestru:
 
+- **1)** na wniosek niezależnego podmiotu zarządzającego;
+- **2)** z urzędu w przypadku: stwierdzenia zakończenia wykonywania działalności gospodarczej lub zaprzestania wykonywania działalności objętej wpisem do rejestru w przypadku innym niż zawieszenie wykonywania tej działalności, wydania decyzji o zakazie wykonywania działalności objętej wpisem do rejestru.
+    - **a)**
+    - **b)**
+
 **Art. 119.**
 
 1. Każda zainteresowana osoba może zawiadomić ministra o działaniach lub okolicznościach uzasadniających w ocenie zawiadamiającego podjęcie wobec niezależnego podmiotu zarządzającego czynności kontrolnych na zasadach określonych w ustawie z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
@@ -1071,7 +1207,7 @@ Art. 123–126. (pominięte)
 
 **Art. 120.**
 
-1. W celu realizacji zadań określonych w rozdziałach 2 i 10– 12 minister przetwarza dane osobowe w zakresie i celu niezbędnym do realizacji tych zadań.
+1. W celu realizacji zadań określonych w rozdziałach 2 i 10–12 minister przetwarza dane osobowe w zakresie i celu niezbędnym do realizacji tych zadań.
 
 2. W celu wykonywania czynności zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi zgodnie z niniejszą ustawą oraz prowadzenia działalności o charakterze socjalnym, kulturalnym lub edukacyjnym organizacje zbiorowego zarządzania przetwarzają dane osobowe uprawnionych i użytkowników, w zakresie i celu niezbędnym do realizacji tych zadań.
 
@@ -1117,15 +1253,60 @@ Art. 123–126. (pominięte)
 
 #### Rozdział 15 Przepisy zmieniające, przejściowe i dostosowujące oraz przepis końcowy
 
-**Art. 127.** Postępowania administracyjne o udzielenie, zmianę lub cofnięcie zezwolenia, o którym mowa w art. 104 ust. 2 pkt 2 ustawy zmienianej w art. 123 , wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy podlegają umorzeniu z mocy prawa.
+**Art. 123.** W ustawie z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2018 r. poz. 1191) wprowadza się następujące zmiany:
 
-**Art. 128.** Zezwolenia, o których mowa w art. 104 ust. 2 pkt 2 ustawy zmienianej w art. 123 , zachowują ważność.
+- **1)** w art. 6 w ust. 1: pkt 9 otrzymuje brzmienie: „
+    - **a)**
+
+- **9)** odtworzeniem utworu jest jego publiczne udostępnienie przy pomocy nośników dźwięku, obrazu lub dźwięku i obrazu, na których utwór został zapisany, albo urządzeń służących do odbioru programu radiowego lub telewizyjnego, w którym utwór jest nadawany, albo urządzeń umożliwiających korzystanie z utworu publicznie udostępnionego w taki sposób, aby każdy mógł mieć do niego dostęp w miejscu i czasie przez siebie wybranym; ” , w pkt 13 kropkę zastępuje się średnikiem i dodaje się pkt 14–17 w brzmieniu: „
+    - **b)**
+
+- **14)** organizacją zbiorowego zarządzania jest organizacja zbiorowego zarządzania, w rozumieniu art. 3 pkt 2 ustawy z dnia 15 czerwca 2018 r. o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi (Dz. U. poz. 1293), zwanej dalej „ustawą o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi”;
+- **15)** umową o zbiorowe zarządzanie jest umowa, o której mowa w art. 29 ustawy o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi;
+- **16)** umową o reprezentacji jest umowa w rozumieniu art. 3 pkt 9 ustawy o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi;
+- **17)** właściwą organizacją zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi jest organizacja, która zbiorowo zarządza prawami uprawnionego na podstawie umowy o zbiorowe zarządzanie lub umowy o reprezentacji, a gdy uprawniony nie zawarł umowy z żadną organizacją – organizacja reprezentatywna dla danego rodzaju utworów lub przedmiotów praw pokrewnych i kategorii uprawnionych na danym polu eksploatacji w rozumieniu ustawy o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi. ” ;
+- **2)** w art. 21 ust. 1 otrzymuje brzmienie: „
+
+1. Organizacji radiowej lub telewizyjnej wolno nadawać rozpowszechnione drobne utwory muzyczne, słowne i słowno-muzyczne wyłącznie na podstawie umowy zawartej z właściwą organizacją zbiorowego zarządzania prawami autorskimi, chyba że prawo do nadawania utworów zamówionych przez organizację radiową lub telewizyjną przysługuje jej na podstawie odrębnej umowy. ” ;
+
+- **3)** w art. 211ust. 2 otrzymuje brzmienie: „
+
+2. W przypadku sporów związanych z zawarciem i warunkami umowy, o której mowa w ust. 1, stosuje się przepis art. 85 ustawy o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi. ” ;
+
+- **4)** po art. 211dodaje się art. 212 i art. 213 w brzmieniu: „
+
+**Art. 212.**
+
+1. Organizacji radiowej lub telewizyjnej wolno w ramach własnych audycji archiwalnych nadawać i udostępniać publicznie utwory w taki sposób, aby każdy mógł mieć do nich dostęp w miejscu i czasie przez siebie wybranym, a także zwielokrotniać je w celu takiego użytku, wyłącznie na podstawie umowy zawartej z właściwą organizacją zbiorowego zarządzania prawami autorskimi, chyba że prawo do takiego korzystania przysługuje danej organizacji radiowej lub telewizyjnej na podstawie ustawy lub odrębnej umowy. Przepis art. 21 ust. 2 stosuje się odpowiednio.
+
+2. Własną audycją archiwalną, o której mowa w ust. 1, jest audycja wytworzona przez daną organizację radiową lub telewizyjną, na jej zamówienie lub zlecenie, albo w koprodukcji z nią, przed dniem 1 stycznia 2003 r.
+
+**Art. 213.** Posiadaczom urządzeń służących do odbioru programu radiowego lub telewizyjnego wolno publicznie odtwarzać nadawane w nim utwory wyłącznie na podstawie umowy zawartej z właściwą organizacją zbiorowego zarządzania prawami autorskimi, chyba że ich odtwarzanie następuje na podstawie odrębnej umowy. ” ;
+
+- **5)** art. 92 otrzymuje brzmienie: „ Do artystycznych wykonań stosuje się odpowiednio przepisy art. 8–10, art. 12, art. 18, art. 21–213, art. 41–45, art. 47–49, art. 52–55, art. 57–59, art. 62–68, art. 71 i art.78. ” ;
+- **6)** w art. 951ust. 2 otrzymuje brzmienie: „
+
+2. Do fonogramów i wideogramów stosuje się odpowiednio przepisy art. 211–213. ” ;
+
+- **7)** uchyla się rozdziały 12 i 121.
+
+**Art. 124.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2018 r. poz. 300, 398, 770 i 914) uchyla się art. 67a.
+
+**Art. 125.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2018 r. poz. 1044) w załączniku do ustawy w części III po ust. 30 dodaje się ust. 30a w brzmieniu: 30a. Zezwolenie na zbiorowe zarządzanie prawami autorskimi lub prawami pokrewnymi 10 000 zł
+
+**Art. 126.** W ustawie z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 649) w art. 12 w ust. 1 w pkt 33 kropkę zastępuje się średnikiem i dodaje się pkt 34 w brzmieniu: „
+
+- **34)** ustawie z dnia 15 czerwca 2018 r. o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi (Dz. U. poz. 1293). ” .
+
+**Art. 127.** Postępowania administracyjne o udzielenie, zmianę lub cofnięcie zezwolenia, o którym mowa w art. 104 ust. 2 pkt 2 ustawy zmienianej w art. 123, wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy podlegają umorzeniu z mocy prawa.
+
+**Art. 128.** Zezwolenia, o których mowa w art. 104 ust. 2 pkt 2 ustawy zmienianej w art. 123, zachowują ważność.
 
 **Art. 129.**
 
-1. Postępowania administracyjne, o których mowa w art. 107 ust. 3 ustawy zmienianej w art. 123 , wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy toczą się na podstawie przepisów dotychczasowych.
+1. Postępowania administracyjne, o których mowa w art. 1071ust. 3 ustawy zmienianej w art. 123, wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy toczą się na podstawie przepisów dotychczasowych.
 
-2. Organizacja zbiorowego zarządzania prawami pokrewnymi, wyznaczona na podstawie art. 107 ust. 3 ustawy zmienianej w art. 123 , staje się z dniem wejścia w życie niniejszej ustawy organizacją, o której mowa w art. 47 ust. 3.
+2. Organizacja zbiorowego zarządzania prawami pokrewnymi, wyznaczona na podstawie art. 1071ust. 3 ustawy zmienianej w art. 123, staje się z dniem wejścia w życie niniejszej ustawy organizacją, o której mowa w art. 47 ust. 3.
 
 **Art. 130.**
 
@@ -1141,9 +1322,9 @@ Art. 123–126. (pominięte)
 
 3. W terminie nie dłuższym niż 30 dni od dnia wejścia w życie niniejszej ustawy minister rozpoczyna procedurę powoływania arbitrów na zasadach określonych w niniejszej ustawie.
 
-4. Postępowania sądowe w sprawach z wniosków, o których mowa w art. 110 ust. 1 i 3, oraz odwołań, o których mowa w art. 110 ust. 6 ustawy zmienianej w art. 123 , wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy podlegają umorzeniu z mocy prawa, z wyłączeniem postępowań w przedmiocie zatwierdzenia tabel wynagrodzeń za korzystanie z utworów lub przedmiotów praw pokrewnych, na polach eksploatacji reemitowanie i odtwarzanie, które toczą się na podstawie przepisów dotychczasowych.
+4. Postępowania sądowe w sprawach z wniosków, o których mowa w art. 11014ust. 1 i 3, oraz odwołań, o których mowa w art. 11017ust. 6 ustawy zmienianej w art. 123, wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy podlegają umorzeniu z mocy prawa, z wyłączeniem postępowań w przedmiocie zatwierdzenia tabel wynagrodzeń za korzystanie z utworów lub przedmiotów praw pokrewnych, na polach eksploatacji reemitowanie i odtwarzanie, które toczą się na podstawie przepisów dotychczasowych.
 
-5. Organizacje zbiorowego zarządzania składają wspólny wniosek o zatwierdzenie wspólnej tabeli wynagrodzeń na pobór wynagrodzenia, o którym mowa w art. 70 ust. 2 pkt 1 ustawy zmienianej w art. 123 , w terminie 3 miesięcy od dnia powołania arbitrów na podstawie ust. 3.
+5. Organizacje zbiorowego zarządzania składają wspólny wniosek o zatwierdzenie wspólnej tabeli wynagrodzeń na pobór wynagrodzenia, o którym mowa w art. 70 ust. 21pkt 1 ustawy zmienianej w art. 123, w terminie 3 miesięcy od dnia powołania arbitrów na podstawie ust. 3.
 
 **Art. 132.** Tabele wynagrodzeń za korzystanie z utworów lub przedmiotów praw pokrewnych zatwierdzone na podstawie przepisów obowiązujących do dnia 31 sierpnia 2006 r. tracą moc.
 
@@ -1155,7 +1336,10 @@ Art. 123–126. (pominięte)
 
 3. Do tabel wynagrodzeń, o których mowa w ust. 1, oraz tabel wynagrodzeń za korzystanie z utworów lub przedmiotów praw pokrewnych na polach eksploatacji reemitowanie i odtwarzanie zatwierdzonych w wyniku postępowań toczących się na podstawie art. 131 ust. 4 stosuje się przepisy niniejszej ustawy.
 
-**Art. 134.** Przepisy wykonawcze wydane na podstawie art. 104 ust. 3 ustawy zmienianej w art. 123 stosuje się do wykonania obowiązku sprawozdawczego za rok obrotowy:
+**Art. 134.** Przepisy wykonawcze wydane na podstawie art. 104 ust. 35 ustawy zmienianej w art. 123 stosuje się do wykonania obowiązku sprawozdawczego za rok obrotowy:
+
+- **1)** poprzedzający rok, w którym weszła w życie niniejsza ustawa;
+- **2)** niezakończony w dniu wejścia w życie niniejszej ustawy.
 
 **Art. 135.**
 
@@ -1163,17 +1347,17 @@ Art. 123–126. (pominięte)
 
 2. Podmiot prowadzący działalność, o której mowa w art. 113, składa wniosek o wpis do rejestru, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 136.** Organizacje zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi, o których mowa w art. 104 ust. 1 ustawy zmienianej w art. 123 , stają się z dniem wejścia w życie niniejszej ustawy organizacjami zbiorowego zarządzania.
+**Art. 136.** Organizacje zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi, o których mowa w art. 104 ust. 1 ustawy zmienianej w art. 123, stają się z dniem wejścia w życie niniejszej ustawy organizacjami zbiorowego zarządzania.
 
 **Art. 137.**
 
 1. W terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy minister z urzędu wszczyna postępowanie w celu:
 
-- **1)** cofnięcia zezwolenia w zakresie, w jakim:
-    - **a)** w toku dotychczasowej działalności organizacja zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi, o której mowa w art. 104 ust. 1 ustawy zmienianej w art. 123 , na danym polu eksploatacji nie podjęła zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi lub wykonywała zbiorowe zarządzanie na danym polu eksploatacji w niewielkiej skali,
-    - **b)** w odniesieniu do określonego rodzaju utworów lub przedmiotów praw pokrewnych nie istnieje potrzeba zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi na danym polu eksploatacji;
+- **1)** cofnięcia zezwolenia w zakresie, w jakim: w toku dotychczasowej działalności organizacja zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi, o której mowa w art. 104 ust. 1 ustawy zmienianej w art. 123, na danym polu eksploatacji nie podjęła zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi lub wykonywała zbiorowe zarządzanie na danym polu eksploatacji w niewielkiej skali, w odniesieniu do określonego rodzaju utworów lub przedmiotów praw pokrewnych nie istnieje potrzeba zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi na danym polu eksploatacji;
+    - **a)**
+    - **b)**
 
-- **2)** zmiany zezwolenia w zakresie, w jakim konieczne jest jego dostosowanie do nazw pól eksploatacji, określonych w art. 50 ustawy zmienianej w art. 123 .
+- **2)** zmiany zezwolenia w zakresie, w jakim konieczne jest jego dostosowanie do nazw pól eksploatacji, określonych w art. 50 ustawy zmienianej w art. 123.
 
 2. W terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy minister z urzędu wszczyna postępowanie w przedmiocie stwierdzenia reprezentatywności organizacji zbiorowego zarządzania w przypadkach, o których mowa w art. 10 ust. 2.
 
@@ -1199,5 +1383,5 @@ Art. 123–126. (pominięte)
 
 2. Umowy o korzystanie z utworów lub przedmiotów praw pokrewnych lub pobór wynagrodzenia, zawarte przed dniem wejścia w życie niniejszej ustawy i niespełniające jej wymagań, zostaną dostosowane do tej ustawy w terminie 18 miesięcy od dnia jej wejścia w życie.
 
-**Art. 142.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+**Art. 142.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

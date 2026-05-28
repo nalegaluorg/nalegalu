@@ -8,10 +8,10 @@ pos: 2409
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 grudnia 2017 r.
+# Ustawa z dnia 24 listopada 2017 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz ustawy – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej
 
 | Pole | Wartość |
 |---|---|
@@ -22,16 +22,64 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2017-11-24 |
 | Data wydania | 2017-12-22 |
+| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002409) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2409/text.pdf) |
 
-Poz. 2409
-USTAWA z dnia 24 listopada 2017 r.
-o zmianie ustawy o Krajowej Administracji Skarbowej oraz ustawy – Przepisy wprowadzaj ce ustaw o Krajowej Administracji Skarbowej
+**Art. 1.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm. ) wprowadza nast puj ce zmiany:
+- **1)** w art. 14: w ust. 1 w pkt 1 po wyrazach „zwanej dalej „Szkołą” „ skreśla się wyrazy „dyrektora Centrum Informatyki KAS, zwanego dalej „Centrum”,”, w ust. 3 po wyrazach „dyrektora Szkoły” skreśla się przecinek i wyrazy „dyrektora Centrum”;
+    - **a)**
+    - **b)**
 
-**Art. 2.** W ustawie z dnia 16 listopada 2016 r. – Przepisy wprowadzaj ce ustaw o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379, 1537 i 1926) wprowadza nast puj ce zmiany:
+- **2)** w art. 18 po wyrazach „dyrektora Szkoły” skreśla się przecinek i wyrazy „dyrektora Centrum”;
+- **3)** w art. 36 w ust. 1 w pkt 6 średnik zastępuje się kropką i uchyla się pkt 7;
+- **4)** w art. 39 wyrazy „urzędu celno-skarbowego, Szkoły i Centrum” zastępuje się wyrazami „urzędu celno-skarbowego i Szkoły”;
+- **5)** w dziale III uchyla się rozdział 3;
+- **6)** w art. 145 w ust. 2 po wyrazach „dyrektora Szkoły” skreśla się przecinek i wyrazy „dyrektora Centrum”;
+- **7)** w art. 147 w ust. 5 wyrazy „naczelnik urzędu celno-skarbowego, dyrektor Szkoły i dyrektor Centrum” zastępuje się wyrazami „naczelnik urzędu celno-skarbowego i dyrektor Szkoły”;
+- **8)** w art. 149: w ust. 1 wyrazy „izbie administracji skarbowej, Szkole oraz Centrum” zastępuje się wyrazami „izbie administracji skarbowej oraz Szkole”, w ust. 4 w zdaniu drugim skreśla się wyrazy „i Centrum”, w ust. 5 wyrazy „dyrektor Szkoły, dyrektor Centrum” zastępuje się wyrazami „dyrektor Szkoły”.
+    - **a)**
+    - **b)**
+    - **c)**
 
-**Art. 3.** Ustawa wchodzi ż ycie z dniem 1 stycznia 2019 r., z wyj tkiem 1 i 2 pkt 1–4 i 6, pkt 7 lit. a i pkt 8 lit. a, które wchodz ż ycie z dniem 1 stycznia 2018 r.
+**Art. 2.** W ustawie z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379, 1537 i 1926) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 w pkt 1a średnik zastępuje się kropką i uchyla się pkt 2;
+- **2)** uchyla się art. 2;
+- **3)** w art. 163 w pkt 2 średnik zastępuje się kropką i uchyla się pkt 3;
+- **4)** w art. 164: uchyla się ust. 4, ust. 6 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+6. Pełnomocnik, o którym mowa w ust. 5, podlega Szefowi Krajowej Administracji Skarbowej. ” ;
+
+- **5)** art. 168 otrzymuje brzmienie: „
+
+**Art. 168.** Pracownicy Krajowej Informacji Skarbowej oraz izb administracji skarbowej wykonujący zadania z obszaru informatyki, z wyłączeniem informatyki śledczej, stają się z dniem 1 stycznia 2019 r. pracownikami zatrudnionymi w Centrum Informatyki Resortu Finansów i zachowują ciągłość pracy. Przepisy art. 231 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2016 r. poz. 1666, 2138 i 2255 oraz z 2017 r. poz. 60 i 962) stosuje się odpowiednio. ” ;
+
+- **6)** w art. 172 w pkt 5 skreśla się przecinek i uchyla się pkt 6;
+- **7)** w art. 192: uchyla się ust. 1, ust. 2–4 otrzymują brzmienie: „
+    - **a)**
+    - **b)**
+
+2. Dyrektor Krajowej Informacji Skarbowej oraz dyrektorzy izb administracji skarbowej przekażą Centrum Informatyki Resortu Finansów, nieodpłatnie, na podstawie protokołu zdawczo-odbiorczego, sprzęt i wyposażenie użytkowane dotychczas przez pracowników, o których mowa w art. 168, oraz inne mienie niezbędne do wykonywania zadań przez Centrum Informatyki Resortu Finansów.
+
+3. Prawa i obowiązki wynikające z umów i porozumień zawartych przez:
+
+- **1)** Szefa Krajowej Administracji Skarbowej,
+- **2)** dyrektora Krajowej Informacji Skarbowej,
+- **3)** dyrektorów izb administracji skarbowej dotyczących obszaru informatyki, z wyłączeniem informatyki śledczej, w zakresie dostarczania usług informatycznych będących przedmiotem działalności Centrum Informatyki Resortu Finansów, w tym finansowanych albo dofinansowanych ze środków pochodzących z budżetu Unii Europejskiej, przejmuje Centrum Informatyki Resortu Finansów.
+
+4. Należności i zobowiązania dyrektora Krajowej Informacji Skarbowej oraz Krajowej Informacji Skarbowej, dyrektorów izb administracji skarbowej oraz izb administracji skarbowej, związane z przejętym przez Centrum Informatyki Resortu Finansów mieniem, o którym mowa w ust. 2, oraz wynikające z umów i porozumień, o których mowa w ust. 3, stają się należnościami i zobowiązaniami Centrum Informatyki Resortu Finansów. ” ;
+
+- **8)** w art. 260: pkt 3 otrzymuje brzmienie: „
+    - **a)**
+
+- **3)** art. 4 pkt 12, który wchodzi w życie z dniem 1 stycznia 2018 r.; ” , w pkt 4 w lit. b na końcu dodaje się średnik i dodaje się pkt 5 w brzmieniu: „
+    - **b)**
+
+- **5)** art. 168 i art. 192 ust. 2–4, które wchodzą w życie z dniem 1 stycznia 2019 r. ” .
+
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem art. 1 i art. 2 pkt 1–4 i 6, pkt 7 lit. a i pkt 8 lit. a, które wchodzą w życie z dniem 1 stycznia 2018 r.
 

@@ -8,10 +8,10 @@ pos: 623
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 maja 2014 r.
+# Rozporządzenie Prezesa Rady Ministrówz dnia 8 maja 2014 r. w sprawie wzoru zgłoszenia zamiaru dokonania przywozu lub transferu wewnątrzunijnego produktów podwójnego zastosowania wykorzystywanych w telekomunikacji lub do ochrony informacji
 
 | Pole | Wartość |
 |---|---|
@@ -22,20 +22,22 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2014-05-08 |
 | Data wydania | 2014-05-16 |
+| Wejście w życie | 2014-05-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000623) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/623/text.pdf) |
 
-ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 8 maja 2014 r.
-w sprawie wzoru zgłoszenia zamiaru dokonania przywozu lub transferu wewnątrzunijnego produktów podwójnego zastosowania wykorzystywanych w telekomunikacji lub do ochrony informacji Na podstawie art. 21c ust. 9 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju bezpieczeństwa z 2013 r. 194) zarządza się, co następuje: § 1. 1. Rozporządzenie określa wzór zgłoszenia zamiaru dokonania przywozu lub transferu wewnątrzunijnego produktów podwójnego zastosowania wykorzystywanych w telekomunikacji lub do ochrony informacji.
-2. Wzór zgłoszenia, o którym mowa w ust. 1, określa załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: D. Tusk Szef Agencji Bezpieczeństwa Wewnętrznego ul. Rakowiecka 2a, 00-993 Warszawa http://www.abw.gov.pl faks: 22 58 58 765 Data złożenia zgłoszenia: Numer zgłoszenia: ZGŁOSZENIE ZAMIARU DOKONANIA PRZYWOZU LUB TRANSFERU WEWNĄTRZUNIJNEGO PRODUKTÓW PODWÓJNEGO ZASTOSOWANIA WYKORZYSTYWANYCH W TELEKOMUNIKACJI LUB DO OCHRONY INFORMACJI Instrukcja
-1. Zgłoszenie należy wypełnić pismem drukowanym lub maszynowym.
-2. Należy zakreślić właściwe kwadraty.
-3. Nie należy stosować skrótów.
-4. W przypadku przywozu lub transferu wewnątrzunijnego na terytorium Rzeczypospolitej Polskiej towarów technologii związanych z ochroną informacji niejawnych należy dołączyć do zgłoszenia kopię koncesji na wykonywanie działalności w zakresie obrotu towarami technologiami o przeznaczeniu wojskowym lub policyjnym, o której mowa w ustawie z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami technologią o przeznaczeniu wojskowym lub policyjnym z 2012 r. 1017, z późn. zm.), o ile jest wymagana.
-1 Podmiot zgłaszający Nr koncesji MSW Imię nazwisko/nazwa (firma) Ulica/numer Miejscowość/kod Nr telefonu/nr faksu 2 Rodzaj zakres wykonywanej przez podmiot zgłaszający działalności gospodarczej WZÓR 3 Wniosek dotyczy produktu: Telekomunikacja Ochrona informacji 4 Opis produktu 5 Sposób wykorzystania produktu podwójnego zastosowania przez końcowego użytkownika Czy produkt będzie wykorzystywany do przetwarzania informacji niejawnych ? Tak Nie Czy produkt zostanie poddany certyfikacji, o której mowa w art. 50 ustawy z dnia 5 sierpnia 2010 r. Tak o ochronie informacji niejawnych Nr 182,
-1228)?
-Nie Produkt będzie wykorzystywany na potrzeby (zaznaczyć odpowiedni sektor działalności): Bankowości Telekomunikacji Innych usług finansowych Administracji publicznej Innych działów Handlu gospodarki (wskazać jakich) 6 Podmiot uprawniony do odbioru produktu podwójnego zastosowania REGON 7 Końcowy użytkownik REGON 8 Producent REGON 9 Kraj końcowego przeznaczenia 10 Oświadczenie: Ja, niżej podpisany, oświadczam, że podejmę niezbędne działania, aby produkt, o którym mowa w zgłoszeniu, dotarł do końcowego użytkownika.
-Imię, nazwisko, stanowisko Podpis Pieczęć firmowa Data 11 Dodatkowe informacje
+Treść rozporządzenia
+Załącznik – Zgłoszenie zamiaru dokonania przywozu lub transferu wewnątrzunijnego produktów podwójnego zastosowania wykorzystywanych w telekomunikacji lub do ochrony informacji (wzór)
+Treść rozporządzenia
+Na podstawie art. 21c ust. 9 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2013 r. poz. 194) zarządza się, co następuje:
+§ 1.
+1.
+Rozporządzenie określa wzór zgłoszenia zamiaru dokonania przywozu lub transferu wewnątrzunijnego produktów podwójnego zastosowania wykorzystywanych w telekomunikacji lub do ochrony informacji.
+2.
+Wzór zgłoszenia, o którym mowa w ust. 1, określa załącznik do rozporządzenia.
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+1) Przepisy niniejszego rozporządzenia wdrażają, w zakresie swojej regulacji, postanowienia dyrektywy Parlamentu Europejskiego i Rady 2009/43/WE z dnia 6 maja 2009 r. w sprawie uproszczenia warunków transferów produktów związanych z obronnością we Wspólnocie (Dz. Urz. UE L 146 z 10.06.2009, str. 1), rozporządzenia Rady (WE) nr 428/2009/WE z dnia 5 maja 2009 r. ustanawiającego wspólnotowy system kontroli wywozu, transferu, pośrednictwa i tranzytu w odniesieniu do produktów podwójnego zastosowania (Dz. Urz. UE L 134 z 29.05.2009, z późn. zm.) oraz Wspólnego Stanowiska Rady 2008/44/WPZiB z dnia 8 grudnia 2008 r. określającego wspólne zasady kontroli wywozu technologii wojskowych i sprzętu wojskowego (Dz. Urz. UE L 235 z 13.12.2008). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 15 września 2004 r. w sprawie wzoru zgłoszenia zamiaru dokonania importu towaru podwójnego zastosowania (Dz. U. Nr 208, poz. 2119), które utraciło moc na podstawie art. 11 ustawy z dnia 25 maja 2012 r. o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz niektórych innych ustaw (Dz. U. poz. 707).
+Załącznik – Zgłoszenie zamiaru dokonania przywozu lub transferu wewnątrzunijnego produktów podwójnego zastosowania wykorzystywanych w telekomunikacji lub do ochrony informacji (wzór)
+patrz oryginał
 

@@ -8,12 +8,10 @@ pos: 989
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# 1. Na podstawie art. 16 ust. 3 ustawy 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych 2011 Nr 197, 1172 Nr 232, 1378) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia 12 czerwca 2003 szczegółowego sposobu wykonywania uprawnień obowiązków kuratorów sądowych Nr 112, 1064), uwzględnieniem zmian wprowadzonych rozporządzeniem 26 lutego 2013 zmieniającym rozporządzenie sprawie szczegółowego sposobu wykonywania uprawnień obowiązków kuratorów sądowych 325).
-
-*OBWIESZCZENIE MINISTRA SPRAWIEDLIWOŚCI 5 maja 2014 ogłoszenia jednolitego tekstu rozporządzenia szczegółowego sposobu wykonywania uprawnień obowiązków kuratorów sądowych*
+# Obwieszczenie Ministra Sprawiedliwościz dnia 5 maja 2014 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie szczegółowego sposobu wykonywania uprawnień i obowiązków kuratorów sądowych
 
 | Pole | Wartość |
 |---|---|
@@ -27,46 +25,117 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000989) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/989/text.pdf) |
 
-Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje 2 rozporządzenia 26 lutego 2013 zmieniającego rozporządzenie szczegółowego sposobu wykonywania uprawnień obowiązków kuratorów sądowych 325), który stanowi: „§ Rozporządzenie wchodzi życie po upływie 14 dni od ogłoszenia.”.
-Minister Sprawiedliwości: M. Biernacki szczegółowego sposobu wykonywania uprawnień obowiązków kuratorów sądowych Na podstawie art. 12 ustawy 27 lipca 2001 kuratorach sądowych 2014 795) zarządza się, co następuje:
-1. Rozporządzenie określa szczegółowy sposób wykonywania przez kuratorów sądowych uprawnień obowiązków sprawach rodzinnych nieletnich.
-Powierzenie kuratorowi sądowemu sprawowania nadzoru powinno nastąpić bezzwłocznie, nie później niż ciągu 14 dni od uprawomocnienia się orzeczenia albo od zwrotu akt sądowi I instancji lub otrzymania orzeczenia do wykonania.
-3. 1. Kurator rodzinny, któremu powierzono sprawowanie nadzoru:
-1) zaznajamia się aktami sprawy innymi niezbędnymi źródłami informacji podopiecznym, a szczególności przebiegiem dotychczasowych nadzorów;
-2) nawiązuje pierwszy kontakt podopiecznym, nie później niż ciągu 7 dni od daty wpływu prawomocnego orzeczenia do zespołu kuratorskiej służby sądowej;
-3) poucza podopiecznego prawach obowiązkach wynikających orzeczenia sądu oraz omawia sposób terminy ich realizacji;
-4) planuje wobec podopiecznego oddziaływania profilaktyczno-resocjalizacyjne opiekuńczo-wychowawcze;
-5) współpracuje rodziną podopiecznego zakresie oddziaływań, których mowa pkt 4;
-6) udziela podopiecznemu pomocy organizowaniu nauki, pracy czasu wolnego oraz rozwiązaniu trudności życiowych;
-7) kontroluje zachowanie podopiecznego miejscu zamieszkania, pobytu, nauki pracy;
-8) współdziała organizacjami, instytucjami, stowarzyszeniami innymi podmiotami, których celem działania jest pomoc podopiecznym.
-W przypadku niemożności nawiązania kontaktu, którym mowa ust. 1 pkt 2, kurator niezwłocznie formie pisemnej zawiadamia sąd, podając przyczyny.
-3. Przebieg nadzoru podejmowane na bieżąco czynności kurator rodzinny dokumentuje karcie czynności nadzoru, prowadzonej osobno dla każdego podopiecznego, której wpisuje datę, miejsce rodzaj czynności, uzyskane dokumenty informacje oraz ich źródła, a także własne uwagi zamierzenia zakresie sprawowania nadzoru.
-4. 1. Kurator rodzinny składa sądowi pierwsze sprawozdanie objęcia nadzoru, nie później niż ciągu 14 dni od nawiązania kontaktu podopiecznym, kolejne zaś sprawozdania przebiegu nadzoru na żądanie sądu lub terminach określonych przez sąd.
-W sprawozdaniu objęcia nadzoru kurator rodzinny przedstawia diagnozę środowiskową, zamierzenia resocjalizacyjne, metody prowadzenia nadzoru, warunki osobiste bytowe podopiecznego, zadania do realizacji, prognozę resocjalizacyjną oraz podaje źródła informacji podopiecznym.
-3. W sprawozdaniu zakończenia nadzoru kurator rodzinny opisuje jego przebieg, ze szczególnym uwzględnieniem
-3) udziela pomocy kuratorom społecznym innym osobom sprawującym nadzory zwłaszcza poprzez udzielanie instruktażu zakresie metod form pracy oraz organizowanie szkoleń dla tych osób;
-4) pozyskuje osoby do sprawowania funkcji sądowego kuratora społecznego;
-5) informuje kierownika zespołu kuratorskiej służby sądowej nieprawidłowym sprawowaniu funkcji przez sądowego kuratora społecznego, a organy nadrzędne stowarzyszeń organizacji sposobie sprawowania nadzoru przez ich przedstawicieli;
-6) sygnalizuje jednostkom nadrzędnym organów instytucji państwowych, organów samorządu terytorialnego oraz organom statutowym stowarzyszeń organizacji przypadki bezzasadnej odmowy udzielenia kuratorowi sądowemu żądanej pomocy;
-7) przygotowuje występuje do sądu odpowiednio uzasadnionymi wnioskami zmiany orzeczenia sądu dołącza do nich akta nadzoru inne stosowne dokumenty;
-8) uczestniczy posiedzeniach wykonawczych sądu, dotyczących podopiecznych.
-6. 1. Kurator rodzinny, przeprowadzając wywiad środowiskowy, zwany dalej „wywiadem”, ustala okoliczności określone przez sąd lub sędziego albo kontroluje sposób wykonywania orzeczenia przez uprawnione podmioty.
-Do przeprowadzania wywiadu przez kuratora rodzinnego stosuje się odpowiednio przepisy 1 ust. 1 2, 2, 3, 4 7 rozporządzenia 11 czerwca 2003 regulaminu czynności zakresie przeprowadzania wywiadu środowiskowego oraz wzoru kwestionariusza tego wywiadu Nr 108, 1018).
-7. Po przeprowadzeniu wywiadu kurator rodzinny:
-1) sporządza pisemne sprawozdanie wywiadu zawierające:
-a) imię nazwisko osoby przeprowadzającej wywiad,
-b) opis wykonywanych czynności stwierdzonych okoliczności wynikających zarządzenia przeprowadzeniu wywiadu,
-c) datę przeprowadzenia wywiadu,
-d) podpis osoby przeprowadzającej wywiad;
-2) składa sprawozdanie wywiadu terminie 14 dni od otrzymania zarządzenia jego przeprowadzeniu, chyba że zarządzeniu wyznaczony został inny termin;
-3) uzupełnia wywiad na polecenie sądu.
-8. Przepisów 6 7 nie stosuje się do wywiadów przeprowadzanych na podstawie ustawy postępowaniu sprawach nieletnich.
-9. Kurator rodzinny, do którego sąd zwrócił się przymusowe odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką:
-1) powiadamia terminie swoich czynności osoby, których mowa art. 598 ustawy 17 listopada 1964 Kodeks postępowania cywilnego 2014 101, późn. zm. );
-12. (uchylony).
-13. (uchylony).
-14. (uchylony).
-15. (uchylony).
-16. Rozporządzenie wchodzi życie po upływie 30 dni od ogłoszenia .
+Treść obwieszczenia
+Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 12 czerwca 2003 r. w sprawie szczegółowego sposobu wykonywania uprawnień i obowiązków kuratorów sądowych
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 12 czerwca 2003 r. w sprawie szczegółowego sposobu wykonywania uprawnień i obowiązków kuratorów sądowych (Dz. U. Nr 112, poz. 1064), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 26 lutego 2013 r. zmieniającym rozporządzenie w sprawie szczegółowego sposobu wykonywania uprawnień i obowiązków kuratorów sądowych (Dz. U. poz. 325).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 26 lutego 2013 r. zmieniającego rozporządzenie w sprawie szczegółowego sposobu wykonywania uprawnień i obowiązków kuratorów sądowych (Dz. U. poz. 325), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+” .
+Załącznik – Rozporządzenie Ministra Sprawiedliwości z dnia 12 czerwca 2003 r. w sprawie szczegółowego sposobu wykonywania uprawnień i obowiązków kuratorów sądowych
+Na podstawie art. 12 ustawy z dnia 27 lipca 2001 r. o kuratorach sądowych (Dz. U. z 2014 r. poz. 795) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa szczegółowy sposób wykonywania przez kuratorów sądowych uprawnień i obowiązków w sprawach rodzinnych i nieletnich.
+§ 2.
+Powierzenie kuratorowi sądowemu sprawowania nadzoru powinno nastąpić bezzwłocznie, nie później niż w ciągu 14 dni od dnia uprawomocnienia się orzeczenia albo od dnia zwrotu akt sądowi I instancji lub otrzymania orzeczenia do wykonania.
+§ 3.
+1.
+Kurator rodzinny, któremu powierzono sprawowanie nadzoru:
+1)
+zaznajamia się z aktami sprawy i innymi niezbędnymi źródłami informacji o podopiecznym, a w szczególności z przebiegiem dotychczasowych nadzorów;
+2)
+nawiązuje pierwszy kontakt z podopiecznym, nie później niż w ciągu 7 dni od daty wpływu prawomocnego orzeczenia do zespołu kuratorskiej służby sądowej;
+3)
+poucza podopiecznego o prawach i obowiązkach wynikających z orzeczenia sądu oraz omawia sposób i terminy ich realizacji;
+4)
+planuje wobec podopiecznego oddziaływania profilaktyczno-resocjalizacyjne i opiekuńczo-wychowawcze;
+5)
+współpracuje z rodziną podopiecznego w zakresie oddziaływań, o których mowa w pkt 4;
+6)
+udziela podopiecznemu pomocy w organizowaniu nauki, pracy i czasu wolnego oraz w rozwiązaniu trudności życiowych;
+7)
+kontroluje zachowanie podopiecznego w miejscu zamieszkania, pobytu, nauki i pracy;
+8)
+współdziała z organizacjami, instytucjami, stowarzyszeniami i innymi podmiotami, których celem działania jest pomoc podopiecznym.
+2.
+W przypadku niemożności nawiązania kontaktu, o którym mowa w ust. 1 pkt 2, kurator niezwłocznie w formie pisemnej zawiadamia sąd, podając przyczyny.
+3.
+Przebieg nadzoru i podejmowane na bieżąco czynności kurator rodzinny dokumentuje w karcie czynności nadzoru, prowadzonej osobno dla każdego podopiecznego, w której wpisuje datę, miejsce i rodzaj czynności, uzyskane dokumenty i informacje oraz ich źródła, a także własne uwagi i zamierzenia w zakresie sprawowania nadzoru.
+§ 4.
+1.
+Kurator rodzinny składa sądowi pierwsze sprawozdanie z objęcia nadzoru, nie później niż w ciągu 14 dni od dnia nawiązania kontaktu z podopiecznym, kolejne zaś sprawozdania z przebiegu nadzoru – na żądanie sądu lub w terminach określonych przez sąd.
+2.
+W sprawozdaniu z objęcia nadzoru kurator rodzinny przedstawia diagnozę środowiskową, zamierzenia resocjalizacyjne, metody prowadzenia nadzoru, warunki osobiste i bytowe podopiecznego, zadania do realizacji, prognozę resocjalizacyjną oraz podaje źródła informacji o podopiecznym.
+3.
+W sprawozdaniu z zakończenia nadzoru kurator rodzinny opisuje jego przebieg, ze szczególnym uwzględnieniem realizacji planu pracy z podopiecznym oraz oceny wykonania obowiązków i postawy podopiecznego w okresie nadzoru.
+§ 5.
+Zawodowy kurator rodzinny wykonując obowiązki i uprawnienia w zakresie nadzoru ponadto:
+1)
+sprawuje nadzory w sprawach trudnych lub wymagających bezzwłocznego podjęcia czynności;
+2)
+kontroluje prawidłowość i efektywność sprawowania nadzorów oraz innych czynności zleconych sądowym kuratorom społecznym, przedstawicielom stowarzyszeń, organizacji i instytucji oraz osobom godnym zaufania, a ponadto, w uzasadnionych przypadkach, zgłasza sądowi potrzebę wystąpienia do organu statutowego stowarzyszenia, organizacji lub instytucji z wnioskiem o zmianę przedstawiciela wyznaczonego do wykonywania czynności związanych z nadzorem;
+3)
+udziela pomocy kuratorom społecznym i innym osobom sprawującym nadzory zwłaszcza poprzez udzielanie instruktażu w zakresie metod i form pracy oraz organizowanie szkoleń dla tych osób;
+4)
+pozyskuje osoby do sprawowania funkcji sądowego kuratora społecznego;
+5)
+informuje kierownika zespołu kuratorskiej służby sądowej o nieprawidłowym sprawowaniu funkcji przez sądowego kuratora społecznego, a organy nadrzędne stowarzyszeń i organizacji – o sposobie sprawowania nadzoru przez ich przedstawicieli;
+6)
+sygnalizuje jednostkom nadrzędnym organów i instytucji państwowych, organów samorządu terytorialnego oraz organom statutowym stowarzyszeń i organizacji przypadki bezzasadnej odmowy udzielenia kuratorowi sądowemu żądanej pomocy;
+7)
+przygotowuje i występuje do sądu z odpowiednio uzasadnionymi wnioskami w sprawie zmiany orzeczenia sądu i dołącza do nich akta nadzoru i inne stosowne dokumenty;
+8)
+uczestniczy w posiedzeniach wykonawczych sądu, dotyczących podopiecznych.
+§ 6.
+1.
+Kurator rodzinny, przeprowadzając wywiad środowiskowy, zwany dalej „wywiadem”, ustala okoliczności określone przez sąd lub sędziego albo kontroluje sposób wykonywania orzeczenia przez uprawnione podmioty.
+2.
+Do przeprowadzania wywiadu przez kuratora rodzinnego stosuje się odpowiednio przepisy § 1 ust. 1 i 2, § 2, § 3, § 4 i § 7 rozporządzenia Ministra Sprawiedliwości z dnia 11 czerwca 2003 r. w sprawie regulaminu czynności w zakresie przeprowadzania wywiadu środowiskowego oraz wzoru kwestionariusza tego wywiadu (Dz. U. Nr 108, poz. 1018).
+§ 7.
+Po przeprowadzeniu wywiadu kurator rodzinny:
+1)
+sporządza pisemne sprawozdanie z wywiadu zawierające:
+a)
+imię i nazwisko osoby przeprowadzającej wywiad,
+b)
+opis wykonywanych czynności i stwierdzonych okoliczności wynikających z zarządzenia o przeprowadzeniu wywiadu,
+c)
+datę przeprowadzenia wywiadu,
+d)
+podpis osoby przeprowadzającej wywiad;
+2)
+składa sprawozdanie z wywiadu w terminie 14 dni od otrzymania zarządzenia o jego przeprowadzeniu, chyba że w zarządzeniu wyznaczony został inny termin;
+3)
+uzupełnia wywiad na polecenie sądu.
+§ 8.
+Przepisów § 6 i 7 nie stosuje się do wywiadów przeprowadzanych na podstawie ustawy o postępowaniu w sprawach nieletnich.
+§ 9.
+Kurator rodzinny, do którego sąd zwrócił się o przymusowe odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką:
+1)
+powiadamia o terminie swoich czynności osoby, o których mowa w art. 5989 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.);
+2)
+żąda, w razie potrzeby, pomocy odpowiednich instytucji, w tym organów opieki społecznej;
+3)
+sporządza do akt sprawy pisemną notatkę z przebiegu tej czynności.
+§ 10.
+1.
+Kurator rodzinny, któremu zlecono obecność przy kontaktach rodziców z dziećmi, ustalonych przez sąd opiekuńczy, stawia się w określonym w postanowieniu sądu terminie i miejscu i jest obecny przez cały czas trwania kontaktu, zapewniając, by kontakt ten nie trwał dłużej, niż postanowił sąd.
+2.
+Z każdej obecności przy kontaktach, o których mowa w ust. 1, kurator rodzinny niezwłocznie składa sądowi pisemną notatkę.
+§ 11.
+(uchylony).
+§ 12.
+(uchylony).
+§ 13.
+(uchylony).
+§ 14.
+(uchylony).
+§ 15.
+(uchylony).
+§ 16.
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

@@ -8,10 +8,10 @@ pos: 541
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 marca 2017 r.
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 3 marca 2017 r. w sprawie wzoru imiennego okresowego upoważnienia do przeprowadzenia kontroli przez pracowników Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych
 
 | Pole | Wartość |
 |---|---|
@@ -22,16 +22,19 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2017-03-03 |
 | Data wydania | 2017-03-15 |
+| Wejście w życie | 2017-03-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000541) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/541/text.pdf) |
 
-Poz. 541 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 3 marca 2017 r.
-w sprawie wzoru imiennego okresowego upoważnienia do przeprowadzenia kontroli przez pracowników Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych Na podstawie art. 25 ust. 7 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U.
-z 2016 r. poz. 1604, 1948, 1961 i 2007) zarządza się, co następuje: § 1. Rozporządzenie określa wzór imiennego okresowego upoważnienia do przeprowadzenia kontroli przez pracowników Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych, o której mowa w art. 25 ustawy z dnia 21 grudnia 2000 o jakości handlowej artykułów rolno-spożywczych, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: K. Jurgiel WZÓR Awers: Minist a Ro nic wa i Roz z nia 3 marc 17 r Awe Rewers: Objaśnienia:
-1) upoważnienie jest wydrukowane na papierze offsetowym w kolorze białym o gramaturze 90 g/m ;
-2) tekst upoważnienia jest koloru czarnego;
-Rewe
-3) wymia y upoważ enia - 0 mm x 0 mm.
+Treść rozporządzenia
+Załącznik – Imienne okresowe upoważnienie do przeprowadzenia kontroli (wzór)
+Treść rozporządzenia
+Na podstawie art. 25 ust. 7 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2016 r. poz. 1604, 1948, 1961 i 2007) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa wzór imiennego okresowego upoważnienia do przeprowadzenia kontroli przez pracowników Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych, o której mowa w art. 25 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych, stanowiący załącznik do rozporządzenia.
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
+Załącznik – Imienne okresowe upoważnienie do przeprowadzenia kontroli (wzór)
+patrz oryginał
 

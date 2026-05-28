@@ -8,10 +8,10 @@ pos: 1341
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 lipca 2017 r.
+# Protokółpodpisany w Brukseli dnia 19 maja 2016 r. do Traktatu Północnoatlantyckiego w sprawie akcesji Czarnogóry
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,28 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2016-05-19 |
 | Data wydania | 2017-07-07 |
+| Wejście w życie | 2017-06-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001341) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1341/text.pdf) |
 
-Protokół do traktatu Północnoatlantyckiego w sprawie akcesji Czarnogóry, podpisany w Brukseli dnia 19 maja 2016 r.
-W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPosPolitej Polskiej podaje do powszechnej wiadomości: Dnia 19 maja 2016 r. w Brukseli został podpisany Protokół do Traktatu Północnoatlantyckiego w sprawie akcesji Czarnogóry, w następującym brzmieniu: Przekład Po zaznajomieniu się z powyższym protokołem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych, jest przyjęty, ratyfikowany i potwierdzony, będzie niezmiennie zachowywany.
-Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
-Dano w Warszawie dnia 21 października 2016 r.
-Prezydent Rzeczypospolitej Polskiej: A. Duda l.s.
-Prezes Rady Ministrów: B. Szydło
+Treść protokołu
+Dodatek – Tekst protokołu w języku angielskim
+Dodatek – Tekst protokołu w języku francuskim
+Treść protokołu
+W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: Dnia 19 maja 2016 r. w Brukseli został podpisany Protokół do Traktatu Północnoatlantyckiego w sprawie akcesji Czarnogóry, w następującym brzmieniu: Przekład Protokół do Traktatu Północnoatlantyckiego w sprawie akcesji Czarnogóry Strony Traktatu Północnoatlantyckiego, podpisanego w Waszyngtonie dnia 4 kwietnia 1949 roku, Odnotowując z zadowoleniem, że bezpieczeństwo obszaru północnoatlantyckiego zostanie poszerzone poprzez przystąpienie Czarnogóry do Traktatu, Uzgodniły, co następuje:
+Artykuł I
+Po wejściu w życie niniejszego Protokołu Sekretarz Generalny Organizacji Traktatu Północnoatlantyckiego przekaże Rządowi Czarnogóry, w imieniu wszystkich Stron, zaproszenie do przystąpienia do Traktatu Północnoatlantyckiego. Zgodnie z artykułem 10 Traktatu Czarnogóra stanie się Stroną w dniu złożenia swojego dokumentu przystąpienia Rządowi Stanów Zjednoczonych Ameryki.
+Artykuł II
+Niniejszy Protokół wejdzie w życie, gdy każda ze Stron Traktatu Północnoatlantyckiego notyfikuje Rządowi Stanów Zjednoczonych Ameryki przyjęcie przez nią Protokołu. Rząd Stanów Zjednoczonych Ameryki powiadomi wszystkie Strony Traktatu Północnoatlantyckiego o dacie otrzymania każdej takiej notyfikacji i o dacie wejścia w życie niniejszego Protokołu.
+Artykuł III
+Niniejszy Protokół, którego teksty w językach angielskim i francuskim są jednakowo autentyczne, zostanie złożony w archiwach Rządu Stanów Zjednoczonych Ameryki. Należycie poświadczone kopie Protokołu zostaną przesłane przez Rząd Stanów Zjednoczonych Ameryki Rządom wszystkich Stron Traktatu Północnoatlantyckiego.
+Na dowód czego niżej podpisani pełnomocnicy podpisali niniejszy Protokół. Podpisano w Brukseli dnia 19 maja 2016 roku. Po zaznajomieniu się z powyższym protokołem, w imieniu Rzeczypospolitej Polskiej oświadczam, że:
+– został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych,
+– jest przyjęty, ratyfikowany i potwierdzony,
+– będzie niezmiennie zachowywany.
+Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej. Dano w Warszawie dnia 21 października 2016 r.
+Dodatek – Tekst protokołu w języku angielskim
+patrz oryginał
+Dodatek – Tekst protokołu w języku francuskim
+patrz oryginał
 

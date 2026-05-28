@@ -8,12 +8,10 @@ pos: 503
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o wsparciu finansowym armatorów śródlądowych, Funduszu Żeglugi Śródlądowej i Funduszu Rezerwowym
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 23 lutego 2021 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 23 lutego 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wsparciu finansowym armatorów śródlądowych, Funduszu Żeglugi Śródlądowej i Funduszu Rezerwowym
 
 | Pole | Wartość |
 |---|---|
@@ -24,27 +22,99 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2021-02-23 |
 | Data wydania | 2021-03-19 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000503) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/503/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 31 lipca 2019 r. o wsparciu finansowym armatorów śródlądowych, Funduszu Żeglugi Śródlądowej i Funduszu Rezerwowym (Dz. U. poz. 1901), z uwzględnieniem zmian wprowadzonych ustawą z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284) oraz zmian wynikających z przepisów ogłoszonych przed dniem 18 lutego 2021 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 53–55 ustawy z dnia 31 lipca 2019 r. o wsparciu finansowym armatorów śródlądowych, Funduszu Żeglugi Śródlądowej i Funduszu Rezerwowym (Dz. U. poz. 1901), które stanowią: „Art. 53. W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2019 r.
-poz. 1438, z późn. zm. ) w art. 2 w § 1 pkt 7 otrzymuje brzmienie: „7) należności pieniężne z tytułu składek specjalnych do Funduszu Rezerwowego;”.
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 31 lipca 2019 r. o wsparciu finansowym armatorów śródlądowych, Funduszu Żeglugi Śródlądowej i Funduszu Rezerwowym Rozdział 1 – Przepisy ogólne Rozdział 2 – Wsparcie finansowe armatorów śródlądowych Rozdział 3 – Fundusz Żeglugi Śródlądowej Rozdział 4 – Fundusz Rezerwowy Rozdział 5 – Rada Żeglugi Śródlądowej Rozdział 6 – Administracyjne kary pieniężne Rozdział 7 – Zmiany w przepisach, przepisy przejściowe, dostosowujące i końcowe
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 31 lipca 2019 r. o wsparciu finansowym armatorów śródlądowych, Funduszu Żeglugi Śródlądowej i Funduszu Rezerwowym (Dz. U. poz. 1901), z uwzględnieniem zmian wprowadzonych ustawą z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284) oraz zmian wynikających z przepisów ogłoszonych przed dniem 18 lutego 2021 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+1)
+art. 53–55 ustawy z dnia 31 lipca 2019 r. o wsparciu finansowym armatorów śródlądowych, Funduszu Żeglugi Śródlądowej i Funduszu Rezerwowym (Dz. U. poz. 1901), które stanowią:
+„
+(pominięty)
+(pominięty)
+(pominięty)
+
+**Art. 53.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2019 r. poz. 1438, z późn. zm.a) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1495, 1501, 1553, 1579, 1655 i 1798.) w art. 2 w § 1 pkt 7 otrzymuje brzmienie: „
+
+- **7)** należności pieniężne z tytułu składek specjalnych do Funduszu Rezerwowego; ” .
 
 **Art. 54.** W ustawie z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych (Dz. U. z 2019 r. poz. 1519) w art. 9 uchyla się pkt 9b.
 
 **Art. 55.** W ustawie z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2019 r. poz. 1568) wprowadza się następujące zmiany:
 
+- **1)** w art. 9: w ust. 2: – uchyla się pkt 10, – po pkt 10 dodaje się pkt 10a w brzmieniu: „ 10a) kontrola posiadania na statku składników wyposażenia statku, których zakup refinansowano ze środków Funduszu Żeglugi Śródlądowej; ” , w ust. 2h wyrazy „w ust. 2 pkt 1, 2, 4–8 i 10” zastępuje się wyrazami „w ust. 2 pkt 1, 2, 4–8 i 10a”, w ust. 2i wyrazy „w ust. 2 pkt 1, 2, 4–8 i 10” zastępuje się wyrazami „w ust. 2 pkt 1, 2, 4–8 i 10a”;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** w art. 10: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Zadania, o których mowa w art. 9 ust. 2 pkt 2, 3–8, 10a i 11, wykonują uprawnieni do przeprowadzenia inspekcji pracownicy urzędów żeglugi śródlądowej, zwani dalej „inspektorami”. ” , w ust. 5 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „
+
+- **b)**
+- **6)** kontroli posiadania na statku składników wyposażenia statku, których zakup refinansowano ze środków Funduszu Żeglugi Śródlądowej – w przypadku udzielenia armatorowi refinansowania. ” ;
+- **3)** w art. 21 ust. 2 otrzymuje brzmienie: „
+
+2. Kierownik statku, o którym mowa w ust. 1, jest obowiązany prowadzić dzienniki i posiadać dokumenty wynikające z przepisów ustawy oraz wymagane umowami międzynarodowymi. ” ;
+
+- **4)** w art. 58: pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** wykonuje przewóz ładunków niezgodnie z dokumentami przewozowymi, ” , w pkt 7 wyrazy „w art. 9 ust. 2 pkt 2, 4–8 i 10” zastępuje się wyrazami „w art. 9 ust. 2 pkt 2, 4–8 i 10a”. ” ;
+    - **b)**
+
+- **2)** art. 103 ust. 1, art. 104 ust. 1 i art. 114 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), które stanowią:
+
 **Art. 103.** „1. W terminie 30 dni od dnia wejścia w życie niniejszej ustawy skład:
 
-**Art. 104.** „1. Członkowie rad nadzorczych i zarządów oraz członkowie rad, komisji, komitetów i zespołów powołani przed dniem wejścia w życie niniejszej ustawy na podstawie przepisów ustaw zmienianych niniejszą ustawą pełnią swoje funkcje.” „Art. 114. Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 106 ust. 4, art. 107 ust. 2 i art. 108 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: E. Witek USTAWA z dnia 31 lipca 2019 r. o wsparciu finansowym armatorów śródlądowych, Funduszu Żeglugi Śródlądowej i Funduszu Rezerwowym
+- **1)** Krajowej Rady Bezpieczeństwa Ruchu Drogowego, o której mowa w art. 140b ust. 1 ustawy zmienianej w art. 15,
+- **2)** Rady Ochrony i Ułatwień Lotnictwa Cywilnego, o której mowa w art. 19 ust. 1 ustawy zmienianej w art. 28,
+- **3)** Rady do Spraw Monitoringu Żywności i Żywienia, o której mowa w art. 87 ust. 1 ustawy zmienianej w art. 47,
+- **4)** Rady Narodowego Centrum Badań i Rozwoju, o której mowa w art. 3 pkt 2 ustawy zmienianej w art. 68,
+- **5)** Rady Programowej Współpracy Rozwojowej, o której mowa w art. 15 ust. 1 ustawy zmienianej w art. 74,
+- **6)** Komisji do spraw Środków Ochrony Roślin, o której mowa w art. 13 ust. 1 ustawy zmienianej w art. 76,
+- **7)** Rady Polskiej Agencji Kosmicznej, o której mowa w art. 5 pkt 2 ustawy zmienianej w art. 78,
+- **8)** Komitetu Konsultacyjnego, o którym mowa w art. 13 ust. 1 ustawy zmienianej w art. 83,
+- **9)** Rady Centrum Łukasiewicz, o której mowa w art. 10 pkt 2 ustawy zmienianej w art. 92,
+- **10)** Rady Żeglugi Śródlądowej, o której mowa w art. 44 ust. 1 ustawy zmienianej w art. 96 uzupełnia się o przedstawiciela ministra właściwego do spraw klimatu, przy czym w przypadku organów kadencyjnych uzupełnienie ich składu następuje do końca kadencji. ”
+
+**Art. 104.** „1. Członkowie rad nadzorczych i zarządów oraz członkowie rad, komisji, komitetów i zespołów powołani przed dniem wejścia w życie niniejszej ustawy na podstawie przepisów ustaw zmienianych niniejszą ustawą pełnią swoje funkcje. ” „
+
+**Art. 114.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 106 ust. 4, art. 107 ust. 2 i art. 108 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” .
+
+Załącznik – Tekst jednolity ustawy z dnia 31 lipca 2019 r. o wsparciu finansowym armatorów śródlądowych, Funduszu Żeglugi Śródlądowej i Funduszu Rezerwowym
+
+- **a)** Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1495, 1501, 1553, 1579, 1655 i 1798.
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa reguluje:
 
+- **1)** zasady udzielania wsparcia finansowego armatorom śródlądowym;
+- **2)** funkcjonowanie Funduszu Żeglugi Śródlądowej;
+- **3)** funkcjonowanie Funduszu Rezerwowego.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** armator – właściciela statku lub osobę, która uzyskała od właściciela tytuł prawny do władania statkiem we własnym imieniu;
+- **2)** efekt ekologiczny – efekt uzyskany przez armatora w wyniku: zakupu statku jako ekologicznej formy transportu w celu wspomagania ekologicznych form transportu, modernizacji lub remontu statku w celu ochrony środowiska w żegludze śródlądowej, polegający na ograniczeniu negatywnego lub potencjalnie negatywnego oddziaływania statku na środowisko, osiągnięty co najmniej przez: – zmniejszenie emisji zanieczyszczeń powstających w wyniku użytkowania statku lub – zmniejszenie ryzyka powstania awarii lub poważnej awarii w wyniku użytkowania statku, lub – zwiększenie udziału energii wytwarzanej z odnawialnych źródeł energii wykorzystywanej na statku, lub – zwiększenie udziału wykorzystania paliw alternatywnych do napędu statku;
+    - **a)**
+    - **b)**
+
+- **3)** pozytywny efekt ekonomiczny – efekt uzyskany przez armatora w wyniku zakupu, modernizacji lub remontu statku, polegający na: wzroście ilości ładunków lub liczby pasażerów przewożonych śródlądowymi drogami wodnymi przez statek lub zmniejszeniu średniego zużycia paliwa przez statek, lub wzroście dopuszczalnej liczby pasażerów statku, lub zwiększeniu nośności statku, lub zwiększeniu wydajności statku w zakresie prowadzonych prac utrzymaniowych lub modernizacyjnych śródlądowych dróg wodnych;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **4)** statek – statek w rozumieniu art. 5 ust. 1 pkt 1 lit. a, b oraz f ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2020 r. poz. 1863).
 
 #### Rozdział 2 Wsparcie finansowe armatorów śródlądowych
 
@@ -58,24 +128,24 @@ poz. 1438, z późn. zm. ) w art. 2 w § 1 pkt 7 otrzymuje brzmienie: „7) nale
 
 1. O udzielenie kredytu preferencyjnego może ubiegać się armator:
 
-- **1)** wykonujący działalność gospodarczą zarejestrowaną w Rzeczypospolitej Polskiej, polegającą na:
-    - **a)** przewozie ładunków,
-    - **b)** wykonywaniu prac utrzymaniowo-modernizacyjnych na śródlądowych drogach wodnych,
-    - **c)** przewozie pasażerów na statkach przeznaczonych lub używanych do przewozu więcej niż 12 pasażerów;
+- **1)** wykonujący działalność gospodarczą zarejestrowaną w Rzeczypospolitej Polskiej, polegającą na: przewozie ładunków, wykonywaniu prac utrzymaniowo-modernizacyjnych na śródlądowych drogach wodnych, przewozie pasażerów na statkach przeznaczonych lub używanych do przewozu więcej niż 12 pasażerów;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **2)** nieposiadający zaległości z tytułu:
-    - **a)** podatków stanowiących dochód budżetu państwa,
-    - **b)** składek na ubezpieczenia społeczne i zdrowotne,
-    - **c)** opłat i kar pieniężnych stanowiących przychód Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej;
+- **2)** nieposiadający zaległości z tytułu: podatków stanowiących dochód budżetu państwa, składek na ubezpieczenia społeczne i zdrowotne, opłat i kar pieniężnych stanowiących przychód Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **3)** posiadający zdolność kredytową w rozumieniu ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2020 r. poz. 1896, 2320 i 2419);
+- **3)** posiadający zdolność kredytową w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2020 r. poz. 1896, 2320 i 2419);
 - **4)** który przeznaczy kredyt preferencyjny na współfinansowanie zakupu, modernizacji lub remontu statku, innego niż mały statek;
 - **5)** który wykaże planowany efekt ekologiczny lub planowany pozytywny efekt ekonomiczny;
-- **6)** który nie naruszył obowiązku, o którym mowa w art. 13 ust. 1 w przypadku wnioskowania o kolejny kredyt preferencyjny.
+- **6)** który nie naruszył obowiązku, o którym mowa w art. 13 ust. 1 – w przypadku wnioskowania o kolejny kredyt preferencyjny.
 
 2. Mały statek, o którym mowa w ust. 1 pkt 4, jest to statek, którego długość kadłuba jest mniejsza niż 20 m. Do małych statków nie zalicza się, niezależnie od ich wymiarów, statków dopuszczonych do przewozu więcej niż 12 pasażerów, promów oraz statków przystosowanych do prowadzenia zestawów holowanych, pchanych lub sprzężonych, o ile takie zestawy nie składają się z małych statków.
 
-3. Bank Gospodarstwa Krajowego, zwany dalej „BGK”, udziela kredytu preferencyjnego w sposób i na zasadach określonych w ustawie z dnia 29 sierpnia 1997 r. Prawo bankowe.
+3. Bank Gospodarstwa Krajowego, zwany dalej „BGK”, udziela kredytu preferencyjnego w sposób i na zasadach określonych w ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe.
 
 4. BGK udziela kredytu preferencyjnego w przypadku spełnienia warunków przewidzianych w ustawie oraz otrzymania pozytywnej opinii do wniosku o udzielenie kredytu preferencyjnego.
 
@@ -117,9 +187,9 @@ poz. 1438, z późn. zm. ) w art. 2 w § 1 pkt 7 otrzymuje brzmienie: „7) nale
 
 1. Kredyt preferencyjny udzielony armatorowi, o którym mowa w art. 4 ust. 1 pkt 1 lit. a:
 
-- **1)** na zakup lub remont statku może być częściowo umorzony do wysokości:
-    - **a)** 10% wykorzystanej kwoty kredytu preferencyjnego w przypadku kredytu udzielonego na zakup lub remont statku młodszego niż 5 lat,
-    - **b)** 5% wykorzystanej kwoty kredytu preferencyjnego w przypadku kredytu udzielonego na zakup lub remont statku w wieku od 5 do 15 lat,
+- **1)** na zakup lub remont statku może być częściowo umorzony do wysokości: 10% wykorzystanej kwoty kredytu preferencyjnego – w przypadku kredytu udzielonego na zakup lub remont statku młodszego niż 5 lat, 5% wykorzystanej kwoty kredytu preferencyjnego – w przypadku kredytu udzielonego na zakup lub remont statku w wieku od 5 do 15 lat,
+    - **a)**
+    - **b)**
 
 - **2)** na modernizację statku może być częściowo umorzony do wysokości 25% wykorzystanej kwoty kredytu preferencyjnego jednak do wysokości nie większej niż część kredytu pozostająca do spłaty.
 
@@ -133,10 +203,10 @@ poz. 1438, z późn. zm. ) w art. 2 w § 1 pkt 7 otrzymuje brzmienie: „7) nale
 - **2)** złoży wniosek o umorzenie części kredytu preferencyjnego w okresie obowiązywania umowy kredytu preferencyjnego;
 - **3)** terminowo wykonuje obowiązki wynikające z umowy kredytu preferencyjnego;
 - **4)** wykorzystał kredyt preferencyjny zgodnie z przeznaczeniem określonym w umowie kredytu preferencyjnego;
-- **5)** nie posiada zaległości z tytułu:
-    - **a)** podatków stanowiących dochód budżetu państwa,
-    - **b)** składek na ubezpieczenia społeczne i zdrowotne,
-    - **c)** opłat i kar pieniężnych stanowiących przychód Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
+- **5)** nie posiada zaległości z tytułu: podatków stanowiących dochód budżetu państwa, składek na ubezpieczenia społeczne i zdrowotne, opłat i kar pieniężnych stanowiących przychód Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
+    - **a)**
+    - **b)**
+    - **c)**
 
 2. BGK umarza część kredytu preferencyjnego w przypadku spełnienia warunków przewidzianych w ustawie oraz otrzymania pozytywnej opinii do wniosku o umorzenie części kredytu preferencyjnego.
 
@@ -169,6 +239,9 @@ poz. 1438, z późn. zm. ) w art. 2 w § 1 pkt 7 otrzymuje brzmienie: „7) nale
 
 **Art. 12.** Minister właściwy do spraw żeglugi śródlądowej określi, w drodze rozporządzenia, wykaz wymaganych dokumentów, które załącza się do:
 
+- **1)** wniosku o udzielenie kredytu preferencyjnego,
+- **2)** wniosku o umorzenie części kredytu preferencyjnego mając na uwadze potrzebę uzyskania niezbędnych informacji do rozpatrzenia tych wniosków.
+
 **Art. 13.**
 
 1. W okresie obowiązywania umowy kredytu preferencyjnego armator nie może zbyć statku, na którego zakup, modernizację lub remont uzyskał kredyt preferencyjny, z wyjątkiem przypadku gdy:
@@ -186,6 +259,9 @@ poz. 1438, z późn. zm. ) w art. 2 w § 1 pkt 7 otrzymuje brzmienie: „7) nale
 
 **Art. 14.** W przypadku zbycia statku w okresie obowiązywania umowy kredytu preferencyjnego z naruszeniem obowiązku, o którym mowa w art. 13 ust. 1 pkt 2, armator jest obowiązany do:
 
+- **1)** spłaty zobowiązań wynikających z umowy kredytu preferencyjnego;
+- **2)** zwrotu pomocy de minimis otrzymanej ze środków Funduszu Żeglugi Śródlądowej w wyniku uzyskania kredytu preferencyjnego i umorzenia części kredytu preferencyjnego.
+
 **Art. 15.**
 
 1. Armatorom refinansuje się zakup następujących kategorii składników wyposażenia statku:
@@ -201,8 +277,8 @@ poz. 1438, z późn. zm. ) w art. 2 w § 1 pkt 7 otrzymuje brzmienie: „7) nale
 
 3. Maksymalna liczba refinansowanych w okresie 3 kolejnych lat kalendarzowych składników wyposażenia statku przypadających na jeden statek nie może przekroczyć:
 
-- **1)** 10 w przypadku składników wchodzących w skład kategorii środków ratunkowych, o której mowa w ust. 1 pkt 1;
-- **2)** 3 w przypadku składników wchodzących w skład każdej z kategorii, o których mowa w ust. 1 pkt 2–6.
+- **1)** 10 – w przypadku składników wchodzących w skład kategorii środków ratunkowych, o której mowa w ust. 1 pkt 1;
+- **2)** 3 – w przypadku składników wchodzących w skład każdej z kategorii, o których mowa w ust. 1 pkt 2–6.
 
 4. Minister właściwy do spraw żeglugi śródlądowej, po zasięgnięciu opinii Rady Żeglugi Śródlądowej, określi, w drodze rozporządzenia, szczegółowy wykaz składników wyposażenia statku, których zakup jest refinansowany, oraz ich liczbę przypadającą na jeden statek dla poszczególnych składników, spośród kategorii składników wyposażenia statku, o których mowa w ust. 1, mając na uwadze potrzebę dostosowania statków do obowiązujących wymagań w zakresie bezpieczeństwa żeglugi.
 
@@ -213,10 +289,10 @@ poz. 1438, z późn. zm. ) w art. 2 w § 1 pkt 7 otrzymuje brzmienie: „7) nale
 2. O refinansowanie zakupu składnika wyposażenia statku może się ubiegać armator, który:
 
 - **1)** złoży wniosek o refinansowanie zakupu składnika wyposażenia statku w roku, w którym zakupił ten składnik;
-- **2)** nie posiada zaległości z tytułu:
-    - **a)** podatków stanowiących dochód budżetu państwa,
-    - **b)** składek na ubezpieczenia społeczne i zdrowotne,
-    - **c)** opłat i kar pieniężnych stanowiących przychód Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
+- **2)** nie posiada zaległości z tytułu: podatków stanowiących dochód budżetu państwa, składek na ubezpieczenia społeczne i zdrowotne, opłat i kar pieniężnych stanowiących przychód Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
+    - **a)**
+    - **b)**
+    - **c)**
 
 **Art. 17.**
 
@@ -239,7 +315,7 @@ poz. 1438, z późn. zm. ) w art. 2 w § 1 pkt 7 otrzymuje brzmienie: „7) nale
 
 1. Armator, któremu refinansowano zakup składnika wyposażenia statku, jest obowiązany do posiadania tego składnika na statku wskazanym we wniosku, o którym mowa w art. 17 ust. 1, przez okres 3 lat od dnia refinansowania, z wyjątkiem przypadku:
 
-- **1)** przekazania tego składnika do naprawy przez okres niezbędny do jego naprawy i ponownego umieszczenia na statku;
+- **1)** przekazania tego składnika do naprawy – przez okres niezbędny do jego naprawy i ponownego umieszczenia na statku;
 - **2)** trwałego uszkodzenia tego składnika uniemożliwiającego jego dalszą eksploatację;
 - **3)** utraty tego składnika wskutek okoliczności, za które armator nie ponosi odpowiedzialności;
 - **4)** zbycia statku, na którym zgodnie z wnioskiem, o którym mowa w art. 17 ust. 1, znajduje się ten składnik;
@@ -277,17 +353,17 @@ poz. 1438, z późn. zm. ) w art. 2 w § 1 pkt 7 otrzymuje brzmienie: „7) nale
 
 1. BGK przekazuje ministrowi właściwemu do spraw żeglugi śródlądowej, w terminie 14 dni od dnia:
 
-- **1)** zawarcia umowy kredytu preferencyjnego, informację o udzielonym kredycie preferencyjnym zawierającą:
-    - **a)** imię i nazwisko oraz adres zamieszkania lub nazwę i adres siedziby armatora, któremu udzielono kredytu preferencyjnego,
-    - **b)** nazwę, rodzaj statku lub numer rejestracyjny statku, którego dotyczy kredyt preferencyjny,
-    - **c)** okres obowiązywania umowy kredytu preferencyjnego;
+- **1)** zawarcia umowy kredytu preferencyjnego, informację o udzielonym kredycie preferencyjnym zawierającą: imię i nazwisko oraz adres zamieszkania lub nazwę i adres siedziby armatora, któremu udzielono kredytu preferencyjnego, nazwę, rodzaj statku lub numer rejestracyjny statku, którego dotyczy kredyt preferencyjny, okres obowiązywania umowy kredytu preferencyjnego;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **2)** wcześniejszej spłaty kredytu preferencyjnego lub umorzenia części kredytu preferencyjnego, informację dotyczącą zakończenia okresu obowiązywania umowy kredytu preferencyjnego zawierającą dane, o których mowa w pkt 1 lit. a i b, oraz datę zakończenia okresu obowiązywania umowy kredytu preferencyjnego;
-- **3)** refinansowania zakupu składnika wyposażenia statku, informację o refinansowaniu zawierającą:
-    - **a)** imię i nazwisko oraz adres zamieszkania lub nazwę i adres siedziby armatora, któremu refinansowano zakup składnika wyposażenia statku,
-    - **b)** wskazanie składnika wyposażenia statku, którego zakup refinansowano, i dane go identyfikujące,
-    - **c)** nazwę i numer rejestracyjny statku, na którym znajduje się zakupiony składnik wyposażenia statku,
-    - **d)** datę refinansowania zakupu składnika wyposażenia statku.
+- **3)** refinansowania zakupu składnika wyposażenia statku, informację o refinansowaniu zawierającą: imię i nazwisko oraz adres zamieszkania lub nazwę i adres siedziby armatora, któremu refinansowano zakup składnika wyposażenia statku, wskazanie składnika wyposażenia statku, którego zakup refinansowano, i dane go identyfikujące, nazwę i numer rejestracyjny statku, na którym znajduje się zakupiony składnik wyposażenia statku, datę refinansowania zakupu składnika wyposażenia statku.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 2. Minister właściwy do spraw żeglugi śródlądowej przekazuje dyrektorom urzędów żeglugi śródlądowej informacje, o których mowa w ust. 1, w terminie 14 dni od dnia ich otrzymania.
 
@@ -298,7 +374,7 @@ poz. 1438, z późn. zm. ) w art. 2 w § 1 pkt 7 otrzymuje brzmienie: „7) nale
 
 4. Dyrektor właściwego urzędu żeglugi śródlądowej niezwłocznie informuje BGK oraz ministra właściwego do spraw żeglugi śródlądowej o zbyciu statku, na którym znajdował się składnik wyposażenia, na którego zakup udzielono refinansowania, jeżeli zbycie nastąpiło przed upływem okresu 3 lat od dnia udzielenia refinansowania.
 
-**Art. 21.** Udzielanie kredytów preferencyjnych, dokonywanie ich umorzeń, a także refinansowanie zakupu składników wyposażenia statków stanowi pomoc de minimis udzielaną w zakresie i na zasadach określonych w przepisach Unii Europejskiej dotyczących pomocy udzielanej w ramach zasady de minimis.
+**Art. 21.** Udzielanie kredytów preferencyjnych, dokonywanie ich umorzeń, a także refinansowanie zakupu składników wyposażenia statków stanowi pomoc de minimis udzielaną w zakresie i na zasadach określonych w przepisach Unii Europejskiej dotyczących pomocy udzielanej w ramach zasady de minimis .
 
 #### Rozdział 3 Fundusz Żeglugi Śródlądowej
 
@@ -327,7 +403,7 @@ poz. 1438, z późn. zm. ) w art. 2 w § 1 pkt 7 otrzymuje brzmienie: „7) nale
 
 4. Umowa określa także rodzaje zadań realizowanych ze środków dotacji i jest zawierana po ogłoszeniu ustawy budżetowej.
 
-5. Wysokość uzgodnionej dotacji nie może przekroczyć 1% przychodów Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, o których mowa w art. 401 ust. 1 i 1a ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219, 1378, 1565, 2127 i 2338), osiągniętych w roku poprzedzającym rok uzgodnienia wysokości tej dotacji.
+5. Wysokość uzgodnionej dotacji nie może przekroczyć 1% przychodów Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, o których mowa w art. 401 ust. 1 i 1a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219, 1378, 1565, 2127 i 2338), osiągniętych w roku poprzedzającym rok uzgodnienia wysokości tej dotacji.
 
 6. Środki dotacji niewykorzystane w danym roku BGK zwraca na rachunek bankowy Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej do dnia 31 stycznia roku następnego.
 
@@ -338,9 +414,9 @@ poz. 1438, z późn. zm. ) w art. 2 w § 1 pkt 7 otrzymuje brzmienie: „7) nale
 - **1)** kredyty preferencyjne;
 - **2)** refinansowanie zakupu składników wyposażenia statku;
 - **3)** wynagrodzenie prowizyjne przysługujące BGK z tytułu obsługi Funduszu Żeglugi Śródlądowej;
-- **4)** inne wydatki określone w planie finansowym Funduszu Żeglugi Śródlądowej związane z:
-    - **a)** funkcjonowaniem Rady Żeglugi Śródlądowej,
-    - **b)** realizacją działań wskazanych w planie promocji żeglugi śródlądowej;
+- **4)** inne wydatki określone w planie finansowym Funduszu Żeglugi Śródlądowej związane z: funkcjonowaniem Rady Żeglugi Śródlądowej, realizacją działań wskazanych w planie promocji żeglugi śródlądowej;
+    - **a)**
+    - **b)**
 
 - **5)** wpłaty na Fundusz Rezerwowy.
 
@@ -376,11 +452,15 @@ poz. 1438, z późn. zm. ) w art. 2 w § 1 pkt 7 otrzymuje brzmienie: „7) nale
 1. BGK, nie później niż do dnia 15 czerwca roku poprzedzającego rok, w którym plan finansowy Funduszu Żeglugi Śródlądowej ma obowiązywać, przedstawia projekt tego planu do uzgodnienia:
 
 - **1)** ministrowi właściwemu do spraw żeglugi śródlądowej;
-- **2)** ministrowi właściwemu do spraw finansów publicznych w zakresie finansowym.
+- **2)** ministrowi właściwemu do spraw finansów publicznych – w zakresie finansowym.
 
 2. Uzgodnienie, o którym mowa w ust. 1, następuje do dnia 31 lipca roku poprzedzającego rok, w którym plan finansowy Funduszu Żeglugi Śródlądowej ma obowiązywać.
 
 **Art. 29.** BGK:
+
+- **1)** sporządza dla Funduszu Żeglugi Śródlądowej odrębny bilans oraz rachunek zysków i strat, stanowiące załączniki do sprawozdania finansowego banku;
+- **2)** składa ministrowi właściwemu do spraw żeglugi śródlądowej oraz ministrowi właściwemu do spraw finansów publicznych, w terminie do końca miesiąca następującego po każdym kwartale, sprawozdanie z realizacji planu finansowego Funduszu Żeglugi Śródlądowej;
+- **3)** składa ministrowi właściwemu do spraw żeglugi śródlądowej oraz ministrowi właściwemu do spraw finansów publicznych do dnia 30 kwietnia sprawozdanie z realizacji planu finansowego Funduszu Żeglugi Śródlądowej za poprzedni rok.
 
 **Art. 30.**
 
@@ -397,10 +477,13 @@ poz. 1438, z późn. zm. ) w art. 2 w § 1 pkt 7 otrzymuje brzmienie: „7) nale
 
 5. Minister właściwy do spraw żeglugi śródlądowej określi, w drodze rozporządzenia:
 
-- **1)** wysokość współczynnika prowizji, o którym mowa w ust. 2, oraz sposób i terminy pobierania przez BGK wynagrodzenia prowizyjnego z tytułu obsługi Funduszu Żeglugi Śródlądowej mając na względzie potrzebę zapewnienia sprawnej i terminowej obsługi Funduszu Żeglugi Śródlądowej oraz właściwą organizację i sposób gospodarowania środkami tego funduszu;
-- **2)** wysokość prowizji, o której mowa w ust. 1 pkt 2 mając na względzie potrzebę zapewnienia zwrotu kosztów związanych z procesem udzielania kredytów preferencyjnych.
+- **1)** wysokość współczynnika prowizji, o którym mowa w ust. 2, oraz sposób i terminy pobierania przez BGK wynagrodzenia prowizyjnego z tytułu obsługi Funduszu Żeglugi Śródlądowej – mając na względzie potrzebę zapewnienia sprawnej i terminowej obsługi Funduszu Żeglugi Śródlądowej oraz właściwą organizację i sposób gospodarowania środkami tego funduszu;
+- **2)** wysokość prowizji, o której mowa w ust. 1 pkt 2 – mając na względzie potrzebę zapewnienia zwrotu kosztów związanych z procesem udzielania kredytów preferencyjnych.
 
 **Art. 31.** Minister właściwy do spraw żeglugi śródlądowej zawiera z BGK umowę w sprawie obsługi Funduszu Żeglugi Śródlądowej określającą w szczególności:
+
+- **1)** szczegółowe zasady dokonywania wypłat ze środków Funduszu Żeglugi Śródlądowej;
+- **2)** zakres danych wymaganych do przygotowania planu finansowego Funduszu Żeglugi Śródlądowej oraz tryb ich przekazywania do BGK.
 
 #### Rozdział 4 Fundusz Rezerwowy
 
@@ -408,11 +491,15 @@ poz. 1438, z późn. zm. ) w art. 2 w § 1 pkt 7 otrzymuje brzmienie: „7) nale
 
 1. W BGK jest prowadzony Fundusz Rezerwowy.
 
-2. Mechanizm Funduszu Rezerwowego jest uruchamiany w przypadkach przewidzianych w rozporządzeniu Rady (WE) nr 718/1999 z dnia 29 marca 1999 r. w sprawie polityki w zakresie zdolności przewozowych floty wspólnotowej w celu wspierania żeglugi śródlądowej (Dz. Urz. WE L 90 z 02.04.1999, str. 1, z późn. zm. Dz. Urz. UE Polskie wydanie specjalne rozdz. 7, t. 4, str. 271), zwanym dalej „rozporządzeniem 718/1999”.
+2. Mechanizm Funduszu Rezerwowego jest uruchamiany w przypadkach przewidzianych w rozporządzeniu Rady (WE) nr 718/1999 z dnia 29 marca 1999 r. w sprawie polityki w zakresie zdolności przewozowych floty wspólnotowej w celu wspierania żeglugi śródlądowej (Dz. Urz. WE L 90 z 02.04.1999, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne rozdz. 7, t. 4, str. 271), zwanym dalej „rozporządzeniem 718/1999”.
 
 3. Minister właściwy do spraw żeglugi śródlądowej ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” informację o uruchomieniu mechanizmu Funduszu Rezerwowego wraz z datą jego uruchomienia.
 
 **Art. 33.** Fundusz Rezerwowy składa się z trzech odrębnych rachunków dla:
+
+- **1)** statków do przewozów ładunków suchych;
+- **2)** zbiornikowców;
+- **3)** pchaczy.
 
 **Art. 34.**
 
@@ -440,6 +527,9 @@ poz. 1438, z późn. zm. ) w art. 2 w § 1 pkt 7 otrzymuje brzmienie: „7) nale
 
 **Art. 37.** Minister właściwy do spraw żeglugi śródlądowej określi, w drodze rozporządzenia:
 
+- **1)** wysokości stawek jednostkowych do obliczania składki specjalnej do Funduszu Rezerwowego, w zależności od rodzaju statku, jego nośności lub mocy napędowej, mając na względzie potrzebę utrzymania zdolności przewozowej floty statków;
+- **2)** szczegółowy tryb postępowania przy dokonywaniu wypłat z Funduszu Rezerwowego na ulepszenia strukturalne, o których mowa w rozporządzeniu 718/1999, mając na względzie zapewnienie sprawnej i terminowej obsługi wypłat na ulepszenia strukturalne.
+
 **Art. 38.** Nadzór nad gospodarowaniem środkami Funduszu Rezerwowego sprawuje Rada Nadzorcza BGK.
 
 **Art. 39.**
@@ -458,13 +548,17 @@ poz. 1438, z późn. zm. ) w art. 2 w § 1 pkt 7 otrzymuje brzmienie: „7) nale
 1. W przypadku uruchomienia mechanizmu Funduszu Rezerwowego BGK przedstawia niezwłocznie projekt planu finansowego Funduszu Rezerwowego do uzgodnienia:
 
 - **1)** ministrowi właściwemu do spraw żeglugi śródlądowej;
-- **2)** ministrowi właściwemu do spraw finansów publicznych w zakresie finansowym.
+- **2)** ministrowi właściwemu do spraw finansów publicznych – w zakresie finansowym.
 
 2. Uzgodnienie, o którym mowa w ust. 1, jest dokonywane bez zbędnej zwłoki.
 
 3. Do przygotowania i uzgodnienia planu finansowego Funduszu Rezerwowego w kolejnych latach po uruchomieniu jego mechanizmu stosuje się odpowiednio art. 28.
 
 **Art. 41.** BGK:
+
+- **1)** sporządza dla Funduszu Rezerwowego odrębny bilans oraz rachunek zysków i strat, stanowiące załącznik do sprawozdania finansowego banku,
+- **2)** składa ministrowi właściwemu do spraw żeglugi śródlądowej oraz ministrowi właściwemu do spraw finansów publicznych, w terminie do końca miesiąca następującego po każdym kwartale, sprawozdanie z realizacji planu finansowego Funduszu Rezerwowego,
+- **3)** składa ministrowi właściwemu do spraw żeglugi śródlądowej oraz ministrowi właściwemu do spraw finansów publicznych, do dnia 30 kwietnia, sprawozdanie z realizacji planu finansowego Funduszu Rezerwowego za poprzedni rok w przypadku uruchomienia mechanizmu Funduszu Rezerwowego.
 
 **Art. 42.**
 
@@ -474,9 +568,12 @@ poz. 1438, z późn. zm. ) w art. 2 w § 1 pkt 7 otrzymuje brzmienie: „7) nale
 
 3. Wynagrodzenia prowizyjne przysługuje do wysokości maksymalnego wynagrodzenia prowizyjnego określonego w planie finansowym Funduszu Rezerwowego.
 
-4. Minister właściwy do spraw żeglugi śródlądowej określi, w drodze rozporządzenia, wysokość współczynnika prowizji, o którym mowa w ust. 2, oraz sposób i terminy pobierania przez BGK wynagrodzenia prowizyjnego z tytułu obsługi Funduszu Rezerwowego mając na względzie potrzebę zapewnienia sprawnej i terminowej obsługi Funduszu Rezerwowego oraz właściwą organizację i sposób gospodarowania środkami tego funduszu.
+4. Minister właściwy do spraw żeglugi śródlądowej określi, w drodze rozporządzenia, wysokość współczynnika prowizji, o którym mowa w ust. 2, oraz sposób i terminy pobierania przez BGK wynagrodzenia prowizyjnego z tytułu obsługi Funduszu Rezerwowego – mając na względzie potrzebę zapewnienia sprawnej i terminowej obsługi Funduszu Rezerwowego oraz właściwą organizację i sposób gospodarowania środkami tego funduszu.
 
 **Art. 43.** Minister właściwy do spraw żeglugi śródlądowej zawiera z BGK umowę w sprawie obsługi Funduszu Rezerwowego, określającą w szczególności:
+
+- **1)** szczegółowe zasady dokonywania wypłat ze środków Funduszu Rezerwowego;
+- **2)** zakres danych wymaganych do przygotowania planu finansowego Funduszu Rezerwowego oraz tryb ich przekazywania do BGK.
 
 #### Rozdział 5 Rada Żeglugi Śródlądowej
 
@@ -486,11 +583,11 @@ poz. 1438, z późn. zm. ) w art. 2 w § 1 pkt 7 otrzymuje brzmienie: „7) nale
 
 2. Do zadań Rady Żeglugi Śródlądowej należy:
 
-- **1)** wydawanie opinii:
-    - **a)** do wniosków o udzielenie kredytu preferencyjnego,
-    - **b)** do wniosków o częściowe umorzenie kredytu preferencyjnego,
-    - **c)** do wniosków o udzielenie zgody na zbycie statku,
-    - **d)** w sprawach wskazanych przez ministra właściwego do spraw żeglugi śródlądowej;
+- **1)** wydawanie opinii: do wniosków o udzielenie kredytu preferencyjnego, do wniosków o częściowe umorzenie kredytu preferencyjnego, do wniosków o udzielenie zgody na zbycie statku, w sprawach wskazanych przez ministra właściwego do spraw żeglugi śródlądowej;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **2)** opracowanie planu promocji żeglugi śródlądowej wraz z kosztorysem jego wykonania.
 
@@ -504,11 +601,11 @@ poz. 1438, z późn. zm. ) w art. 2 w § 1 pkt 7 otrzymuje brzmienie: „7) nale
 
 1. Rada Żeglugi Śródlądowej wydaje opinie, o których mowa w art. 44 ust. 2 pkt 1, i opracowuje plan, o którym mowa w art. 44 ust. 2 pkt 2, na posiedzeniach lub w drodze korespondencyjnego uzgodnienia stanowisk.
 
-2. Rada Żeglugi Śródlądowej wydaje opinie, o których mowa w art. 44 ust. 2 pkt 1, w terminie 15 dni od dnia wpływu wniosku, o którym mowa w art. 44 ust. 2 pkt 1 lit. a–c, albo wskazania sprawy przez ministra właściwego do spraw żeglugi śródlądowej.
+2. Rada Żeglugi Śródlądowej wydaje opinie, o których mowa w art. 44 ust. 2 pkt 1, w terminie 15 dni od dnia wpływu wniosku, o którym mowa w art. 44 ust. 2 pkt 1 lit. a-c, albo wskazania sprawy przez ministra właściwego do spraw żeglugi śródlądowej.
 
-3. Jeżeli Rada Żeglugi Śródlądowej nie wyda w terminie, o którym mowa w ust. 2, opinii do wniosku, o którym mowa w art. 44 ust. 2 pkt 1 lit. a–c, opinię wydaje minister właściwy do spraw żeglugi śródlądowej. Minister właściwy do spraw żeglugi śródlądowej wydaje opinię w terminie 10 dni od dnia upływu terminu, o którym mowa w ust. 2, i niezwłocznie przekazuje ją BGK oraz Radzie Żeglugi Śródlądowej.
+3. Jeżeli Rada Żeglugi Śródlądowej nie wyda w terminie, o którym mowa w ust. 2, opinii do wniosku, o którym mowa w art. 44 ust. 2 pkt 1 lit. a-c, opinię wydaje minister właściwy do spraw żeglugi śródlądowej. Minister właściwy do spraw żeglugi śródlądowej wydaje opinię w terminie 10 dni od dnia upływu terminu, o którym mowa w ust. 2, i niezwłocznie przekazuje ją BGK oraz Radzie Żeglugi Śródlądowej.
 
-4. Negatywna opinia do wniosków, o których mowa w art. 44 ust. 2 pkt 1 lit. a–c, zawiera uzasadnienie.
+4. Negatywna opinia do wniosków, o których mowa w art. 44 ust. 2 pkt 1 lit. a-c, zawiera uzasadnienie.
 
 **Art. 46.**
 
@@ -517,10 +614,10 @@ poz. 1438, z późn. zm. ) w art. 2 w § 1 pkt 7 otrzymuje brzmienie: „7) nale
 2. Plan promocji żeglugi śródlądowej zawiera wykaz działań:
 
 - **1)** polegających na opracowywaniu dokumentów, analiz i ekspertyz z zakresu sektora transportu wodnego śródlądowego;
-- **2)** informacyjnych, promocyjnych i edukacyjnych polegających na:
-    - **a)** organizowaniu konferencji, spotkań i warsztatów o tematyce żeglugi śródlądowej,
-    - **b)** przygotowaniu i przeprowadzeniu kampanii medialnych na cele, o których mowa w ust. 1,
-    - **c)** przygotowaniu i produkcji materiałów dydaktycznych o tematyce żeglugi śródlądowej.
+- **2)** informacyjnych, promocyjnych i edukacyjnych polegających na: organizowaniu konferencji, spotkań i warsztatów o tematyce żeglugi śródlądowej, przygotowaniu i przeprowadzeniu kampanii medialnych na cele, o których mowa w ust. 1, przygotowaniu i produkcji materiałów dydaktycznych o tematyce żeglugi śródlądowej.
+    - **a)**
+    - **b)**
+    - **c)**
 
 3. Rada Żeglugi Śródlądowej opracowuje i przekazuje plan promocji żeglugi śródlądowej wraz z kosztorysem jego wykonania ministrowi właściwemu do spraw żeglugi śródlądowej do dnia 31 marca roku poprzedzającego rok, w którym ten plan ma być realizowany.
 
@@ -563,10 +660,10 @@ poz. 1438, z późn. zm. ) w art. 2 w § 1 pkt 7 otrzymuje brzmienie: „7) nale
 1. Do wydatków związanych z funkcjonowaniem Rady Żeglugi Śródlądowej zalicza się wydatki poniesione na:
 
 - **1)** przejazd członków Rady Żeglugi Śródlądowej w celu udziału w jej posiedzeniach;
-- **2)** organizację posiedzeń Rady Żeglugi Śródlądowej poza jej siedzibą, w tym:
-    - **a)** najem pomieszczeń, w których odbywają się posiedzenia,
-    - **b)** zapewnienie wyposażenia niezbędnego do organizacji posiedzeń,
-    - **c)** zapewnienie wyżywienia i noclegów członkom Rady Żeglugi Śródlądowej.
+- **2)** organizację posiedzeń Rady Żeglugi Śródlądowej poza jej siedzibą, w tym: najem pomieszczeń, w których odbywają się posiedzenia, zapewnienie wyposażenia niezbędnego do organizacji posiedzeń, zapewnienie wyżywienia i noclegów członkom Rady Żeglugi Śródlądowej.
+    - **a)**
+    - **b)**
+    - **c)**
 
 2. Członkom Rady Żeglugi Śródlądowej przysługuje zwrot kosztów przejazdów w celu udziału w jej posiedzeniach w wysokości ustalonej odpowiednio zgodnie z przepisami o należnościach przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju.
 
@@ -586,15 +683,9 @@ poz. 1438, z późn. zm. ) w art. 2 w § 1 pkt 7 otrzymuje brzmienie: „7) nale
 
 **Art. 51.** Kary pieniężne nakłada w drodze decyzji dyrektor urzędu żeglugi śródlądowej.
 
-**Art. 52.** Wymierzając kary pieniężne, dyrektor urzędu żeglugi śródlądowej bierze pod uwagę wartość refinansowania zakupu składnika wyposażenia statku, którego dotyczy naruszony obowiązek. Przepisy art. 189d pkt 2–6 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2020 r. poz. 256, 695, 1298 i 2320 oraz z 2021 r. poz. 54 i 187) stosuje się.
+**Art. 52.** Wymierzając kary pieniężne, dyrektor urzędu żeglugi śródlądowej bierze pod uwagę wartość refinansowania zakupu składnika wyposażenia statku, którego dotyczy naruszony obowiązek. Przepisy art. 189d pkt 2–6 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2020 r. poz. 256, 695, 1298 i 2320 oraz z 2021 r. poz. 54 i 187) stosuje się.
 
 #### Rozdział 7 Zmiany w przepisach, przepisy przejściowe, dostosowujące i końcowe
-
-**Art. 53.** (pominięty)
-
-**Art. 54.** (pominięty)
-
-**Art. 55.** (pominięty)
 
 **Art. 56.**
 
@@ -621,7 +712,7 @@ poz. 1438, z późn. zm. ) w art. 2 w § 1 pkt 7 otrzymuje brzmienie: „7) nale
 1. W terminie 21 dni od dnia wejścia w życie ustawy BGK przedstawia opracowany na podstawie danych przekazanych przez ministra właściwego do spraw żeglugi śródlądowej projekt planu finansowego Funduszu Żeglugi Śródlądowej na rok 2020 do uzgodnienia:
 
 - **1)** ministrowi właściwemu do spraw żeglugi śródlądowej;
-- **2)** ministrowi właściwemu do spraw finansów publicznych w zakresie finansowym.
+- **2)** ministrowi właściwemu do spraw finansów publicznych – w zakresie finansowym.
 
 2. Uzgodnienie, o którym mowa w ust. 1, następuje w terminie 14 dni od dnia przedstawienia projektu planu finansowego na 2020 rok.
 
@@ -634,11 +725,14 @@ poz. 1438, z późn. zm. ) w art. 2 w § 1 pkt 7 otrzymuje brzmienie: „7) nale
 3. W terminie 14 dni od dnia otrzymania planu promocji żeglugi śródlądowej na rok 2020 BGK opracowuje projekt zmiany planu finansowego Funduszu Żeglugi Śródlądowej na rok 2020 i przedstawia go do uzgodnienia:
 
 - **1)** ministrowi właściwemu do spraw żeglugi śródlądowej;
-- **2)** ministrowi właściwemu do spraw finansów publicznych w zakresie finansowym.
+- **2)** ministrowi właściwemu do spraw finansów publicznych – w zakresie finansowym.
 
 4. Uzgodnienie, o którym mowa w ust. 3, dokonuje się w terminie 14 dni od dnia otrzymania projektu planu finansowego na rok 2020.
 
 **Art. 61.** Minister właściwy do spraw żeglugi śródlądowej występuje do BGK w celu:
+
+- **1)** rozwiązania umowy zawartej na podstawie art. 11 ust. 4 ustawy uchylanej w art. 67;
+- **2)** zawarcia umów, o których mowa w art. 31 i art. 43.
 
 **Art. 62.**
 
@@ -666,16 +760,16 @@ poz. 1438, z późn. zm. ) w art. 2 w § 1 pkt 7 otrzymuje brzmienie: „7) nale
 
 1. W latach 2019–2028 maksymalny limit wydatków budżetu państwa będący skutkiem finansowym ustawy wynosi 16,1 mln zł, przy czym:
 
-- **1)** w 2019 r. 0 zł;
-- **2)** w 2020 r. 0 zł;
-- **3)** w 2021 r. 0 zł;
-- **4)** w 2022 r. 2,3 mln zł;
-- **5)** w 2023 r. 2,3 mln zł;
-- **6)** w 2024 r. 2,3 mln zł;
-- **7)** w 2025 r. 2,3 mln zł;
-- **8)** w 2026 r. 2,3 mln zł;
-- **9)** w 2027 r. 2,3 mln zł;
-- **10)** w 2028 r. 2,3 mln zł.
+- **1)** w 2019 r. – 0 zł;
+- **2)** w 2020 r. – 0 zł;
+- **3)** w 2021 r. – 0 zł;
+- **4)** w 2022 r. – 2,3 mln zł;
+- **5)** w 2023 r. – 2,3 mln zł;
+- **6)** w 2024 r. – 2,3 mln zł;
+- **7)** w 2025 r. – 2,3 mln zł;
+- **8)** w 2026 r. – 2,3 mln zł;
+- **9)** w 2027 r. – 2,3 mln zł;
+- **10)** w 2028 r. – 2,3 mln zł.
 
 2. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa w ust. 1, zostanie zastosowany mechanizm korygujący, polegający na:
 
@@ -686,5 +780,5 @@ poz. 1438, z późn. zm. ) w art. 2 w § 1 pkt 7 otrzymuje brzmienie: „7) nale
 
 **Art. 67.** Traci moc ustawa z dnia 28 października 2002 r. o Funduszu Żeglugi Śródlądowej i Funduszu Rezerwowym (Dz. U. z 2017 r. poz. 2095).
 
-**Art. 68.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia , z wyjątkiem art. 61, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 68.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem art. 61, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

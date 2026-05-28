@@ -8,10 +8,10 @@ pos: 2184
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 października 2023 r.
+# Obwieszczenie Ministra Finansówz dnia 20 września 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju i Finansów w sprawie zawierania przez specjalistyczny fundusz inwestycyjny otwarty umów, których przedmiotem są instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne
 
 | Pole | Wartość |
 |---|---|
@@ -25,137 +25,285 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002184) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2184/text.pdf) |
 
-OBWIESZCZENIE MINISTRA FINANSÓW z dnia 20 września 2023 r.
-sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju Finansów sprawie zawierania przez specjalistyczny fundusz inwestycyjny otwarty umów, których przedmiotem są instrumenty pochodne, tym niewystandaryzowane instrumenty pochodne
-1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rozwoju Finansów z dnia 20 lipca 2017 r. sprawie zawierania przez specjalistyczny fundusz inwestycyjny otwarty umów, których przedmiotem są instrumenty pochodne, tym niewystandaryzowane instrumenty pochodne (Dz. U. poz. 1446), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Finansów z dnia 28 lipca 2022 r. zmieniającym rozporządzenie sprawie zawierania przez specjalistyczny fundusz inwestycyjny otwarty umów, których przedmiotem są instrumenty pochodne, tym niewystandaryzowane instrumenty pochodne (Dz. U. poz. 1633).
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 § 3 rozporządzenia Ministra Finansów z dnia 28 lipca 2022 r. zmieniającego rozporządzenie sprawie zawierania przez specjalistyczny fundusz inwestycyjny otwarty umów, których przedmiotem są instrumenty pochodne, tym niewystandaryzowane instrumenty pochodne (Dz. U. poz. 1633), które stanowią: „§ 2. Specjalistyczne fundusze inwestycyjne otwarte stosujące zasady ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego oraz specjalistyczne fundusze inwestycyjne otwarte z wydzielonymi subfunduszami, których wydzielony subfundusz stosuje zasady ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego, które dniu wejścia życie niniejszego rozporządzenia posiadają lokaty instrumenty pochodne, tym niewystandaryzowane instrumenty pochodne, których bazę stanowią indeksy oparte o instrumenty notowane na rynku zorganizowanym zlokalizowanym na terytorium Rosji, są obowiązane dostosować skład lokat do przepisów rozporządzenia zmienianego § 1, brzmieniu nadanym niniejszym rozporządzeniem, terminie 6 miesięcy od dnia wejścia życie niniejszego rozporządzenia.
-§ 3. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Finansów: M. Rzeczkowska ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 20 lipca 2017 r.
-sprawie zawierania przez specjalistyczny fundusz inwestycyjny otwarty umów, których przedmiotem są instrumenty pochodne, tym niewystandaryzowane instrumenty pochodne Na podstawie art. 116d ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2023 r. poz. 681, 825, 1723 1941) zarządza się, co następuje: § 1. Rozporządzenie określa:
-1) warunki zawierania przez specjalistyczny fundusz inwestycyjny otwarty stosujący zasady ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego umów, których przedmiotem są instrumenty pochodne;
-2) warunki lokowania przez specjalistyczny fundusz inwestycyjny otwarty stosujący zasady ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego aktywów niewystandaryzowane instrumenty pochodne;
-3) warunki, jakie powinny spełniać niewystandaryzowane instrumenty pochodne oraz podmioty będące stroną umowy ze specjalistycznym funduszem inwestycyjnym otwartym stosującym zasady ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego;
-4) warunki zasady zajmowania przez specjalistyczny fundusz inwestycyjny otwarty stosujący zasady ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego pozycji instrumentach pochodnych;
-5) warunki zajmowania przez specjalistyczny fundusz inwestycyjny otwarty stosujący zasady ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego pozycji lokatach, o których mowa art. 145 ust. 1 pkt 5 6 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych zarządzaniu alternatywnymi funduszami inwestycyjnymi, zwanej dalej „ustawą”;
-6) sposób ustalenia oraz maksymalną wartość ryzyka kontrahenta wynikającą z transakcji, których przedmiotem są niewystandaryzowane instrumenty pochodne;
-7) sposób wyznaczenia maksymalnego zaangażowania specjalistycznego funduszu inwestycyjnego otwartego stosującego zasady ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego instrumenty pochodne;
-8) sposób wyznaczenia maksymalnego zaangażowania specjalistycznego funduszu inwestycyjnego otwartego stosującego zasady ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego lokaty, o których mowa art. 145 ust. 1 pkt 5 6 ustawy;
-9) warunki, jakie muszą spełniać uznane indeksy;
-10) warunki, jakie muszą spełniać indeksy stanowiące bazę instrumentów pochodnych, tym niewystandaryzowanych instrumentów pochodnych.
-§ 2. Ilekroć rozporządzeniu jest mowa o:
-1) funduszu rozumie się przez to specjalistyczny fundusz inwestycyjny otwarty, a przypadku specjalistycznego funduszu inwestycyjnego otwartego z wydzielonymi subfunduszami także subfundusz;
-2) kontrahencie rozumie się przez to podmiot będący stroną umowy z funduszem, której przedmiotem są niewystandaryzowane instrumenty pochodne;
-(UE) nr 648/2012 z dnia 4 lipca 2012 r. sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych repozytoriów transakcji (Dz. Urz. UE L 201 z 27.07.2012, str. 1, z późn. zm. ), prowadzący działalność na podstawie zezwolenia, o którym mowa art. 14 tego rozporządzenia, albo uznany przez Europejski Organ Nadzoru Giełd Papierów Wartościowych na podstawie art. 25 tego rozporządzenia;
-4) rozporządzeniu 231/2013 rozumie się przez to rozporządzenie delegowane Komisji (UE) nr 231/2013 z dnia 19 grudnia 2012 r. uzupełniające dyrektywę Parlamentu Europejskiego Rady 2011/61/UE odniesieniu do zwolnień, ogólnych warunków dotyczących prowadzenia działalności, depozytariuszy, dźwigni finansowej, przejrzystości nadzoru (Dz. Urz. UE L 83 z 22.03.2013, str. 1, z późn. zm. ).
-§ 3. 1. Fundusz stosujący zasady ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego może zawierać umowy, których przedmiotem są instrumenty pochodne, tym niewystandaryzowane instrumenty pochodne, pod warunkiem że utrzymuje część aktywów na poziomie zapewniającym realizację tych umów, przy czym aktywa te obejmują:
-1) papiery wartościowe, instrumenty rynku pieniężnego inne prawa majątkowe przypadku gdy fundusz jest zobowiązany do fizycznej dostawy tych papierów wartościowych, instrumentów rynku pieniężnego lub innych praw majątkowych;
-2) środki pieniężne, płynne papiery wartościowe emitowane przez Skarb Państwa, Narodowy Bank Polski, państwo członkowskie lub państwo należące do OECD przypadku gdy uregulowanie zobowiązań z tytułu rozliczeń następuje środkach pieniężnych.
-2. W przypadku opcji warunek, o którym mowa ust. 1, uznaje się za spełniony, jeżeli fundusz utrzymuje aktywa odpowiednio do wymogów ust. 1 pkt 1 albo 2 na poziomie odpowiadającym iloczynowi wartości nominalnej umowy prawdopodobieństwa realizacji opcji, pod warunkiem opracowania wdrożenia metodologii wyznaczania tego prawdopodobieństwa, stanowiącej składnik systemu zarządzania ryzykiem obowiązującego towarzystwie lub u zarządzającego z UE oraz dokumentowania wyznaczanych wielkości tego prawdopodobieństwa.
-3. W przypadku gdy bazę instrumentu pochodnego stanowią indeksy, fundusz może zawierać umowy, o których mowa ust. 1, pod warunkiem że indeksy te spełniają warunki, o których mowa § 14, albo zostały wymienione wykazie indeksów stanowiącym załącznik do rozporządzenia.
-§ 4. Fundusz stosujący zasady ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego może zawierać umowy, których przedmiotem są niewystandaryzowane instrumenty pochodne, pod warunkiem że utrzymuje część aktywów na poziomie zapewniającym realizację tych umów.
-§ 5. 1. Fundusz stosujący zasady ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego może zawierać umowy, których przedmiotem są niewystandaryzowane instrumenty pochodne, pod warunkiem że:
-1) kontrahentem jest podmiot z siedzibą Rzeczypospolitej Polskiej, państwie członkowskim lub państwie należącym do OECD, podlegający nadzorowi właściwego organu nadzoru nad rynkiem finansowym lub kapitałowym tym państwie, lub podmiot z siedzibą innym państwie, podlegający nadzorowi właściwego organu nadzoru nad rynkiem finansowym lub kapitałowym tym państwie zakresie co najmniej takim, jak określony prawie Unii Europejskiej oraz wskazany statucie funduszu;
-2) instrumenty te podlegają każdym dniu roboczym możliwej do zweryfikowania, rzetelnej wycenie według wiarygodnie oszacowanej wartości godziwej;
-3) instrumenty te mogą zostać każdym czasie przez fundusz zbyte lub pozycja nich zajęta może być każdym czasie zamknięta przez transakcję równoważącą albo zlikwidowana.
-2. Za rzetelną wycenę według wiarygodnie oszacowanej wartości godziwej uznaje się wycenę przeprowadzoną zgodnie z przepisami o rachunkowości funduszy inwestycyjnych.
-obowiązany ustalać wartość ryzyka kontrahenta.
-2. Ryzyko kontrahenta stanowi wartość ustalonego przez fundusz niezrealizowanego zysku z transakcji, których przedmiotem są niewystandaryzowane instrumenty pochodne.
-3. Na potrzeby wyznaczania wartości ryzyka kontrahenta, przy ustalaniu niezrealizowanego zysku nie uwzględnia się opłat ani świadczeń ponoszonych przez fundusz przy zawarciu transakcji, szczególności wartości premii zapłaconej przy zakupie opcji.
-4. Jeżeli fundusz posiada otwarte pozycje instrumentach pochodnych z tytułu kilku transakcji z tym samym kontrahentem, wartość ryzyka kontrahenta może być wyznaczana jako dodatnia różnica niezrealizowanych zysków strat na wszystkich takich transakcjach, o ile:
-1) transakcje te zostały zawarte na podstawie umowy ramowej, spełniającej kryteria określone art. 85 ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe (Dz. U. z 2022 r. poz. 1520 oraz z 2023 r. poz. 825, 1723, 1843 1860);
-2) umowa ramowa przewiduje, że przypadku jej rozwiązania zostanie wypłacona wyłącznie jedna kwota stanowiąca równoważność salda wartości rynkowych wszystkich tych transakcji niezależnie od tego, czy wynikające z nich zobowiązania są już wymagalne;
-3) niewypłacalność jednej ze stron umowy ramowej powoduje lub może powodować rozwiązanie tej umowy;
-4) warunki, o których mowa pkt 1–3, nie naruszają przepisów prawa właściwego dla każdej ze stron umowy ramowej.
-§ 7. 1. Wartość ryzyka danego kontrahenta odniesieniu do wszystkich transakcji, których przedmiotem są niewystandaryzowane instrumenty pochodne, zawartych z tym kontrahentem, nie może przekroczyć przypadku:
-1) funduszu stosującego zasady ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego:
-a) 10% wartości aktywów funduszu przypadku transakcji rozliczanych przez CCP,
-b) 10% wartości aktywów funduszu przypadku gdy kontrahentem jest instytucja kredytowa, bank krajowy lub bank zagraniczny,
-c) 5% wartości aktywów funduszu innym przypadku niż określony lit. a b;
-2) funduszu stosującego zasady ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego:
-a) 20% wartości aktywów funduszu przypadku transakcji rozliczanych przez CCP,
-b) 20% wartości aktywów funduszu przypadku gdy kontrahentem jest instytucja kredytowa, bank krajowy lub bank zagraniczny,
-c) 10% wartości aktywów funduszu innym przypadku niż określony lit. a b.
-2. Wartość ryzyka kontrahenta może podlegać redukcji o wielkość odpowiadającą wartości ryzyka kontrahenta danej transakcji, jeżeli łącznie zostaną spełnione następujące warunki:
-1) związku z tą transakcją kontrahent ustanowi na rzecz funduszu zabezpieczenie środkach pieniężnych, zbywalnych papierach wartościowych lub instrumentach rynku pieniężnego;
-2) suma wartości rynkowej zbywalnych papierów wartościowych, instrumentów rynku pieniężnego wartości środków pieniężnych przyjętych przez fundusz jako zabezpieczenie będzie ustalana każdym dniu roboczym będzie stanowić co najmniej równowartość wartości ryzyka kontrahenta tej transakcji;
-3) środki pieniężne stanowiące zabezpieczenie będą lokowane wyłącznie papiery wartościowe lub instrumenty rynku pieniężnego emitowane, poręczone lub gwarantowane przez Skarb Państwa, Narodowy Bank Polski, państwo członkowskie, państwo należące do OECD, bank centralny państwa członkowskiego lub Europejski Bank Centralny lub w:
-a) depozyty, o których mowa art. 93 ust. 1 pkt 3 ustawy przypadku funduszu stosującego zasady ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego,
-b) depozyty, o których mowa art. 145 ust. 5 ustawy przypadku funduszu stosującego zasady ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego.
-3. Papier wartościowy instrument rynku pieniężnego mogą stanowić zabezpieczenie, o którym mowa ust. 2 pkt 1, jeżeli łącznie zostaną spełnione następujące warunki:
-1) ich emitentem jest Skarb Państwa, Narodowy Bank Polski, państwo członkowskie, państwo należące do OECD, bank centralny państwa członkowskiego lub Europejski Bank Centralny;
-3) są zapisane na rachunku prowadzonym przez podlegający nadzorowi właściwego organu nadzoru nad rynkiem finansowym podmiot, który:
-a) nie należy do grupy kapitałowej kontrahenta albo
-b) należy do grupy kapitałowej kontrahenta, pod warunkiem że zabezpieczenia przed skutkami niewypłacalności tego podmiotu kształtują ryzyko posiadacza tego papieru wartościowego lub instrumentu rynku pieniężnego na takim samym poziomie, jak przypadku zapisania papieru wartościowego lub instrumentu rynku pieniężnego na rachunku prowadzonym przez podmiot, o którym mowa lit. a;
-4) ewentualne nabycie przez fundusz praw z papieru wartościowego lub instrumentu rynku pieniężnego wyniku realizacji zabezpieczeń na dzień przyjęcia zabezpieczenia nie spowoduje naruszenia:
-a) art. 96–100 oraz art. 104 ustawy przypadku funduszu stosującego zasady ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego,
-b) art. 145–149 oraz art. 151a ustawy przypadku funduszu stosującego zasady ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego.
-§ 8. 1. Maksymalne zaangażowanie funduszu stosującego zasady ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego instrumenty pochodne oraz maksymalne zaangażowanie funduszu stosującego zasady ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego lokaty, o których mowa art. 145 ust. 1 pkt 5 6 ustawy, wyznacza się każdym dniu roboczym, co najmniej raz dziennie z zastosowaniem metody określonej art. 8 rozporządzenia 231/2013.
-2. Wartość maksymalnego zaangażowania, o którym mowa ust. 1, nie może żadnym momencie przekroczyć maksymalnego limitu ekspozycji AFI określonego przepisach wydanych na podstawie art. 48c ust. 3 ustawy pomniejszonego o inne pozycje wpływające zgodnie z ustawą na zwiększenie tej ekspozycji.
-§ 9. Przy stosowaniu limitów inwestycyjnych, o których mowa art. 96–101, art. 104 oraz art. 113 ust. 4–6 ustawy, fundusz stosujący zasady ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego jest obowiązany uwzględniać kwotę zaangażowania instrumenty pochodne ten sposób, że:
-1) przypadku zajęcia przez fundusz pozycji instrumentach pochodnych, skutkującej powstaniem po stronie funduszu zobowiązania albo uprawnienia do sprzedaży papierów wartościowych lub instrumentów rynku pieniężnego albo do spełnienia świadczenia pieniężnego wynikającego z zajętej pozycji od wartości papierów wartościowych lub instrumentów rynku pieniężnego danego emitenta znajdujących się portfelu inwestycyjnym funduszu należy odjąć kwotę zaangażowania instrumenty pochodne, dla których bazę stanowią papiery wartościowe lub instrumenty rynku pieniężnego tego emitenta;
-2) przypadku zajęcia przez fundusz pozycji instrumentach pochodnych skutkującej powstaniem po stronie funduszu zobowiązania albo uprawnienia do zakupu papierów wartościowych lub instrumentów rynku pieniężnego albo do spełnienia świadczenia pieniężnego wynikającego z zajętej pozycji do wartości papierów wartościowych lub instrumentów rynku pieniężnego danego emitenta znajdujących się portfelu inwestycyjnym funduszu należy dodać kwotę zaangażowania instrumenty pochodne, dla których bazę stanowią papiery wartościowe lub instrumenty rynku pieniężnego tego emitenta.
-§ 10. Przy stosowaniu limitów inwestycyjnych, o których mowa art. 145–149 oraz art. 151a ustawy, fundusz stosujący zasady ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego jest obowiązany uwzględniać kwotę zaangażowania instrumenty pochodne ten sposób, że:
-1) przypadku zajęcia przez fundusz pozycji instrumentach pochodnych skutkującej powstaniem po stronie funduszu zobowiązania albo uprawnienia do sprzedaży papierów wartościowych, instrumentów rynku pieniężnego lub walut albo do spełnienia świadczenia pieniężnego wynikającego z zajętej pozycji od wartości papierów wartościowych lub instrumentów rynku pieniężnego danego emitenta lub waluty danego państwa lub euro znajdujących się portfelu inwestycyjnym funduszu należy odjąć kwotę zaangażowania instrumenty pochodne, dla których bazę stanowią papiery wartościowe lub instrumenty rynku pieniężnego tego emitenta lub kurs waluty danego państwa lub kurs euro;
-2) przypadku zajęcia przez fundusz pozycji instrumentach pochodnych skutkującej powstaniem po stronie funduszu zobowiązania albo uprawnienia do zakupu papierów wartościowych, instrumentów rynku pieniężnego lub walut albo do spełnienia świadczenia pieniężnego wynikającego z zajętej pozycji do wartości papierów wartościowych lub instrumentów rynku pieniężnego danego emitenta lub waluty danego państwa lub euro znajdujących się portfelu inwestycyjnym funduszu należy dodać kwotę zaangażowania instrumenty pochodne, dla których bazę stanowią papiery wartościowe lub instrumenty rynku pieniężnego tego emitenta lub kurs waluty danego państwa lub kurs euro.
-się kwotę zaangażowania ustaloną przy użyciu zasad określonych przepisach art. 8 ust. 2 lit. a rozporządzenia 231/2013.
-2. Kwota zaangażowania instrument pochodny, którego bazą jest kurs waluty, stosowany celu ograniczenia ryzyka inwestycyjnego związanego ze zmianą kursu waluty, może podlegać redukcji o kwotę odzwierciedlającą stopień, jakim ten instrument pochodny ogranicza to ryzyko.
-3. Jeżeli wartość otrzymana zgodnie z § 9 lub § 10 jest ujemna, uwzględnia się jej wartość bezwzględną.
-§ 12. Jeżeli zawierane przez fundusz stosujący zasady ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego umowy mające za przedmiot instrumenty pochodne, tym niewystandaryzowane instrumenty pochodne, mają na celu ograniczenie ryzyka inwestycyjnego związanego z papierami wartościowymi, instrumentami rynku pieniężnego lub innymi prawami majątkowymi, które fundusz zamierza nabyć przyszłości, fundusz może zająć pozycję tych instrumentach pochodnych skutkującą powstaniem jego zobowiązania albo uprawnienia do zakupu papierów wartościowych, instrumentów rynku pieniężnego lub innych praw majątkowych albo do spełnienia świadczenia pieniężnego, wysokości odpowiadającej wartości świadczenia tej umowie sprzedaży, lub stosować szczególną strategię inwestycyjną z wykorzystaniem instrumentów pochodnych, której skutkiem miałby być efekt analogiczny do zajęcia takiej pozycji, o ile łącznie zostaną spełnione następujące warunki:
-1) zawarcie planowanej transakcji nabycia papierów wartościowych, instrumentów rynku pieniężnego lub innych praw majątkowych jest wysoce prawdopodobne;
-2) zajęcie takiej pozycji lub zastosowanie takiej szczególnej strategii jest uzasadnione prognozami wysokości kursów, cen lub wartości papierów wartościowych, instrumentów rynku pieniężnego lub innych praw majątkowych.
-§ 13. Za uznane indeksy, o których mowa art. 99 ustawy, uważa się indeksy łącznie spełniające następujące warunki:
-1) skład indeksu uwzględnia odpowiednio wymogi rozproszenia ryzyka inwestycyjnego, o których mowa art. 96–100 oraz art. 104 ustawy;
-2) indeks stanowi miarodajny wskaźnik charakteryzujący rynek, do którego się odnosi, przy czym metodologia zastosowana przez podmiot ustalający skład indeksu nie powoduje wykluczenia ze składu tego indeksu największego emitenta na rynku, do którego indeks się odnosi;
-3) wartość skład indeksu są podawane do publicznej wiadomości;
-4) indeks został ustalony przez wyspecjalizowany ustalaniu indeksów podmiot organizujący, prowadzący lub analizujący obrót papierami wartościowymi, niezależny od towarzystwa zarządzającego funduszem lub zarządzającego z UE, który zarządza funduszem prowadzi jego sprawy; jeżeli podmiot ten należy do grupy kapitałowej, skład której wchodzi towarzystwo lub zarządzający z UE, towarzystwo lub zarządzający z UE są obowiązani wdrożyć odpowiednie procesy zarządzania konfliktem interesów.
-§ 14. Indeksy stanowiące bazę instrumentów pochodnych, tym niewystandaryzowanych instrumentów pochodnych, będących przedmiotem umów zawieranych przez fundusz stosujący zasady ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego, powinny łącznie spełniać następujące warunki:
-1) skład indeksu uwzględnia odpowiednio wymogi rozproszenia ryzyka inwestycyjnego, szczególności:
-a) zmiany ceny lub aktywność transakcyjna odniesieniu do jednego składnika indeksu nie wpływa sposób istotny na wartość indeksu,
-b) jeżeli skład indeksu wchodzą składniki, o których mowa art. 93 ust. 1 pkt 1, 2 4, art. 101 art. 116a ustawy, jest on zdywersyfikowany co najmniej stopniu określonym art. 96–100 oraz art. 104 ustawy,
-c) jeżeli skład indeksu wchodzą składniki inne niż określone art. 93 ust. 1 pkt 1, 2 4, art. 101 art. 116a ustawy, jest on zdywersyfikowany sposób równoważny określonemu art. 96–100 oraz art. 104 ustawy;
-2) indeks stanowi miarodajny wskaźnik charakteryzujący rynek, do którego się odnosi, szczególności:
-a) indeks odpowiedni właściwy sposób odzwierciedla wyniki reprezentatywnej grupy składników będących przedmiotem obrotu na rynku, do którego się odnosi,
-b) dokonywana jest regularna weryfikacja składu indeksu, która może skutkować zmianami tego składu dokonywanymi zgodnie z powszechnie dostępnymi kryteriami, celu zapewnienia, że spełniony jest warunek, o którym mowa lit. a,
-c) składniki indeksu charakteryzują się płynnością, która razie potrzeby umożliwia odzwierciedlenie składu indeksu;
-a) ustalanie wartości składu indeksu jest prowadzone na podstawie odpowiednich procedur gromadzenia informacji o cenach składników indeksu, obliczania wartości indeksu oraz publikowania jego wartości, tym procedur wyceny składników indeksu przypadku, gdy ich cena rynkowa nie jest dostępna,
-b) informacje dotyczące zasad obliczania indeksu, metodologii wprowadzania zmian składzie indeksu, zmiany indeksu oraz trudności operacyjnych z terminowym dostarczeniem informacji albo poprawnością informacji są udostępniane niezwłocznie sposób wyczerpujący.
-§ 15. Bazę instrumentu pochodnego, tym niewystandaryzowanego instrumentu pochodnego, będącego przedmiotem lokat funduszu stosującego zasady ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego, mogą stanowić indeksy oparte o instrumenty notowane na rynku zorganizowanym zlokalizowanym na terytorium Rzeczypospolitej Polskiej, państwa członkowskiego, państwa należącego do OECD, Brazylii, Chin albo państwa należącego do EEA oraz indeks łącznie spełniający następujące warunki:
-1) jego skład uwzględnia odpowiednio wymogi rozproszenia ryzyka inwestycyjnego, szczególności:
-a) zmiany ceny lub aktywność transakcyjna odniesieniu do jednego składnika indeksu nie wpływa sposób istotny na wartość indeksu,
-b) indeks składa się z co najmniej 15 składników;
-2) stanowi on miarodajny wskaźnik charakteryzujący rynek, do którego się odnosi, szczególności:
-a) indeks odpowiedni właściwy sposób odzwierciedla wyniki reprezentatywnej grupy składników będących przedmiotem obrotu na rynku, do którego się odnosi,
-b) dokonywana jest regularna weryfikacja składu indeksu, która może skutkować zmianami tego składu dokonywanymi zgodnie z ustalonymi kryteriami, celu zapewnienia, że spełniony jest warunek, o którym mowa lit. a,
-c) składniki indeksu charakteryzują się płynnością, która razie potrzeby umożliwia odzwierciedlenie składu indeksu stopniu wystarczającym do zastosowania przez fundusz strategii zabezpieczającej przed zmianami wartości indeksu;
-3) wartość ogólne zasady konstrukcji indeksu są udostępniane do publicznej wiadomości.
-§ 16. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia .
-WYKAZ INDEKSÓW
-1) All Ords Związku Australijskim;
-2) ATX Republice Austrii;
-3) BEL20 Królestwie Belgii;
-4) BIST 30 Republice Turcji;
-5) CAC40 Republice Francuskiej;
-6) DAX Republice Federalnej Niemiec;
-7) DJ Euro STOXX 50 indeks międzynarodowy;
-8) Dow Jones Ind. Av. Stanach Zjednoczonych Ameryki;
-9) EOE25 Królestwie Niderlandów;
-10) Euronext 100 indeks międzynarodowy;
-11) FTSE100 Zjednoczonym Królestwie Wielkiej Brytanii Irlandii Północnej;
-12) FTSE mid250 Zjednoczonym Królestwie Wielkiej Brytanii Irlandii Północnej;
-13) Hang Seng Specjalnym Regionie Administracyjnym Hongkong;
-14) IBEX35 Królestwie Hiszpanii;
-15) IPC Index Meksykańskich Stanach Zjednoczonych;
-16) MDAX Republice Federalnej Niemiec;
-17) MIB 30 Republice Włoskiej;
-18) NASDAQ Stanach Zjednoczonych Ameryki;
-19) Nikkei225 Japonii;
-20) OMX Królestwie Szwecji;
-21) Russell 2000 Stanach Zjednoczonych Ameryki;
-22) S&P500 Stanach Zjednoczonych Ameryki;
-23) Sao Paulo Bovespa Federacyjnej Republice Brazylii;
-24) SMI Konfederacji Szwajcarskiej;
-25) TSE35 Kanadzie;
-26) WIG20 Rzeczypospolitej Polskiej;
-27) WIG20TR Rzeczypospolitej Polskiej;
-28) mWIG40 Rzeczypospolitej Polskiej.
+Treść obwieszczenia
+Załącznik – Rozporządzenie Ministra Rozwoju i Finansów z dnia 20 lipca 2017 r. w sprawie zawierania przez specjalistyczny fundusz inwestycyjny otwarty umów, których przedmiotem są instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne
+Załącznik – Wykaz indeksów
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rozwoju i Finansów z dnia 20 lipca 2017 r. w sprawie zawierania przez specjalistyczny fundusz inwestycyjny otwarty umów, których przedmiotem są instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne (Dz. U. poz. 1446), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Finansów z dnia 28 lipca 2022 r. zmieniającym rozporządzenie w sprawie zawierania przez specjalistyczny fundusz inwestycyjny otwarty umów, których przedmiotem są instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne (Dz. U. poz. 1633).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Finansów z dnia 28 lipca 2022 r. zmieniającego rozporządzenie w sprawie zawierania przez specjalistyczny fundusz inwestycyjny otwarty umów, których przedmiotem są instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne (Dz. U. poz. 1633), które stanowią:
+„
+§ 2.
+Specjalistyczne fundusze inwestycyjne otwarte stosujące zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego oraz specjalistyczne fundusze inwestycyjne otwarte z wydzielonymi subfunduszami, w których wydzielony subfundusz stosuje zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego, które w dniu wejścia w życie niniejszego rozporządzenia posiadają lokaty w instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne, których bazę stanowią indeksy oparte o instrumenty notowane na rynku zorganizowanym zlokalizowanym na terytorium Rosji, są obowiązane dostosować skład lokat do przepisów rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w terminie 6 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
+§ 3.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+” .
+1) Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
+Załącznik – Rozporządzenie Ministra Rozwoju i Finansów z dnia 20 lipca 2017 r. w sprawie zawierania przez specjalistyczny fundusz inwestycyjny otwarty umów, których przedmiotem są instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne
+Na podstawie art. 116d ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2023 r. poz. 681, 825, 1723 i 1941) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+warunki zawierania przez specjalistyczny fundusz inwestycyjny otwarty stosujący zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego umów, których przedmiotem są instrumenty pochodne;
+2)
+warunki lokowania przez specjalistyczny fundusz inwestycyjny otwarty stosujący zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego aktywów w niewystandaryzowane instrumenty pochodne;
+3)
+warunki, jakie powinny spełniać niewystandaryzowane instrumenty pochodne oraz podmioty będące stroną umowy ze specjalistycznym funduszem inwestycyjnym otwartym stosującym zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego;
+4)
+warunki i zasady zajmowania przez specjalistyczny fundusz inwestycyjny otwarty stosujący zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego pozycji w instrumentach pochodnych;
+5)
+warunki zajmowania przez specjalistyczny fundusz inwestycyjny otwarty stosujący zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego pozycji w lokatach, o których mowa w art. 145 ust. 1 pkt 5 i 6 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, zwanej dalej „ustawą”;
+6)
+sposób ustalenia oraz maksymalną wartość ryzyka kontrahenta wynikającą z transakcji, których przedmiotem są niewystandaryzowane instrumenty pochodne;
+7)
+sposób wyznaczenia maksymalnego zaangażowania specjalistycznego funduszu inwestycyjnego otwartego stosującego zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego w instrumenty pochodne;
+8)
+sposób wyznaczenia maksymalnego zaangażowania specjalistycznego funduszu inwestycyjnego otwartego stosującego zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego w lokaty, o których mowa w art. 145 ust. 1 pkt 5 i 6 ustawy;
+9)
+warunki, jakie muszą spełniać uznane indeksy;
+10)
+warunki, jakie muszą spełniać indeksy stanowiące bazę instrumentów pochodnych, w tym niewystandaryzowanych instrumentów pochodnych.
+§ 2.
+Ilekroć w rozporządzeniu jest mowa o:
+1)
+funduszu – rozumie się przez to specjalistyczny fundusz inwestycyjny otwarty, a w przypadku specjalistycznego funduszu inwestycyjnego otwartego z wydzielonymi subfunduszami – także subfundusz;
+2)
+kontrahencie – rozumie się przez to podmiot będący stroną umowy z funduszem, której przedmiotem są niewystandaryzowane instrumenty pochodne;
+3)
+CCP – rozumie się przez to podmiot, o którym mowa w art. 2 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r. w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 201 z 27.07.2012, str. 1, z późn. zm.), prowadzący działalność na podstawie zezwolenia, o którym mowa w art. 14 tego rozporządzenia, albo uznany przez Europejski Organ Nadzoru Giełd i Papierów Wartościowych na podstawie art. 25 tego rozporządzenia;
+4)
+rozporządzeniu 231/2013 – rozumie się przez to rozporządzenie delegowane Komisji (UE) nr 231/2013 z dnia 19 grudnia 2012 r. uzupełniające dyrektywę Parlamentu Europejskiego i Rady 2011/61/UE w odniesieniu do zwolnień, ogólnych warunków dotyczących prowadzenia działalności, depozytariuszy, dźwigni finansowej, przejrzystości i nadzoru (Dz. Urz. UE L 83 z 22.03.2013, str. 1, z późn. zm.).
+§ 3.
+1.
+Fundusz stosujący zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego może zawierać umowy, których przedmiotem są instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne, pod warunkiem że utrzymuje część aktywów na poziomie zapewniającym realizację tych umów, przy czym aktywa te obejmują:
+1)
+papiery wartościowe, instrumenty rynku pieniężnego i inne prawa majątkowe – w przypadku gdy fundusz jest zobowiązany do fizycznej dostawy tych papierów wartościowych, instrumentów rynku pieniężnego lub innych praw majątkowych;
+2)
+środki pieniężne, płynne papiery wartościowe emitowane przez Skarb Państwa, Narodowy Bank Polski, państwo członkowskie lub państwo należące do OECD – w przypadku gdy uregulowanie zobowiązań z tytułu rozliczeń następuje w środkach pieniężnych.
+2.
+W przypadku opcji warunek, o którym mowa w ust. 1, uznaje się za spełniony, jeżeli fundusz utrzymuje aktywa odpowiednio do wymogów ust. 1 pkt 1 albo 2 na poziomie odpowiadającym iloczynowi wartości nominalnej umowy i prawdopodobieństwa realizacji opcji, pod warunkiem opracowania i wdrożenia metodologii wyznaczania tego prawdopodobieństwa, stanowiącej składnik systemu zarządzania ryzykiem obowiązującego w towarzystwie lub u zarządzającego z UE oraz dokumentowania wyznaczanych wielkości tego prawdopodobieństwa.
+3.
+W przypadku gdy bazę instrumentu pochodnego stanowią indeksy, fundusz może zawierać umowy, o których mowa w ust. 1, pod warunkiem że indeksy te spełniają warunki, o których mowa w § 14, albo zostały wymienione w wykazie indeksów stanowiącym załącznik do rozporządzenia.
+§ 4.
+Fundusz stosujący zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego może zawierać umowy, których przedmiotem są niewystandaryzowane instrumenty pochodne, pod warunkiem że utrzymuje część aktywów na poziomie zapewniającym realizację tych umów.
+§ 5.
+1.
+Fundusz stosujący zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego może zawierać umowy, których przedmiotem są niewystandaryzowane instrumenty pochodne, pod warunkiem że:
+1)
+kontrahentem jest podmiot z siedzibą w Rzeczypospolitej Polskiej, państwie członkowskim lub państwie należącym do OECD, podlegający nadzorowi właściwego organu nadzoru nad rynkiem finansowym lub kapitałowym w tym państwie, lub podmiot z siedzibą w innym państwie, podlegający nadzorowi właściwego organu nadzoru nad rynkiem finansowym lub kapitałowym w tym państwie w zakresie co najmniej takim, jak określony w prawie Unii Europejskiej oraz wskazany w statucie funduszu;
+2)
+instrumenty te podlegają w każdym dniu roboczym możliwej do zweryfikowania, rzetelnej wycenie według wiarygodnie oszacowanej wartości godziwej;
+3)
+instrumenty te mogą zostać w każdym czasie przez fundusz zbyte lub pozycja w nich zajęta może być w każdym czasie zamknięta przez transakcję równoważącą albo zlikwidowana.
+2.
+Za rzetelną wycenę według wiarygodnie oszacowanej wartości godziwej uznaje się wycenę przeprowadzoną zgodnie z przepisami o rachunkowości funduszy inwestycyjnych.
+§ 6.
+1.
+Jeżeli fundusz zawiera transakcje, których przedmiotem są niewystandaryzowane instrumenty pochodne, jest obowiązany ustalać wartość ryzyka kontrahenta.
+2.
+Ryzyko kontrahenta stanowi wartość ustalonego przez fundusz niezrealizowanego zysku z transakcji, których przedmiotem są niewystandaryzowane instrumenty pochodne.
+3.
+Na potrzeby wyznaczania wartości ryzyka kontrahenta, przy ustalaniu niezrealizowanego zysku nie uwzględnia się opłat ani świadczeń ponoszonych przez fundusz przy zawarciu transakcji, w szczególności wartości premii zapłaconej przy zakupie opcji.
+4.
+Jeżeli fundusz posiada otwarte pozycje w instrumentach pochodnych z tytułu kilku transakcji z tym samym kontrahentem, wartość ryzyka kontrahenta może być wyznaczana jako dodatnia różnica niezrealizowanych zysków i strat na wszystkich takich transakcjach, o ile:
+1)
+transakcje te zostały zawarte na podstawie umowy ramowej, spełniającej kryteria określone w art. 85 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2022 r. poz. 1520 oraz z 2023 r. poz. 825, 1723, 1843 i 1860);
+2)
+umowa ramowa przewiduje, że w przypadku jej rozwiązania zostanie wypłacona wyłącznie jedna kwota stanowiąca równoważność salda wartości rynkowych wszystkich tych transakcji niezależnie od tego, czy wynikające z nich zobowiązania są już wymagalne;
+3)
+niewypłacalność jednej ze stron umowy ramowej powoduje lub może powodować rozwiązanie tej umowy;
+4)
+warunki, o których mowa w pkt 1–3, nie naruszają przepisów prawa właściwego dla każdej ze stron umowy ramowej.
+§ 7.
+1.
+Wartość ryzyka danego kontrahenta w odniesieniu do wszystkich transakcji, których przedmiotem są niewystandaryzowane instrumenty pochodne, zawartych z tym kontrahentem, nie może przekroczyć w przypadku:
+1)
+funduszu stosującego zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego:
+a)
+10% wartości aktywów funduszu – w przypadku transakcji rozliczanych przez CCP,
+b)
+10% wartości aktywów funduszu – w przypadku gdy kontrahentem jest instytucja kredytowa, bank krajowy lub bank zagraniczny,
+c)
+5% wartości aktywów funduszu – w innym przypadku niż określony w lit. a i b;
+2)
+funduszu stosującego zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego:
+a)
+20% wartości aktywów funduszu – w przypadku transakcji rozliczanych przez CCP,
+b)
+20% wartości aktywów funduszu – w przypadku gdy kontrahentem jest instytucja kredytowa, bank krajowy lub bank zagraniczny,
+c)
+10% wartości aktywów funduszu – w innym przypadku niż określony w lit. a i b.
+2.
+Wartość ryzyka kontrahenta może podlegać redukcji o wielkość odpowiadającą wartości ryzyka kontrahenta w danej transakcji, jeżeli łącznie zostaną spełnione następujące warunki:
+1)
+w związku z tą transakcją kontrahent ustanowi na rzecz funduszu zabezpieczenie w środkach pieniężnych, zbywalnych papierach wartościowych lub instrumentach rynku pieniężnego;
+2)
+suma wartości rynkowej zbywalnych papierów wartościowych, instrumentów rynku pieniężnego i wartości środków pieniężnych przyjętych przez fundusz jako zabezpieczenie będzie ustalana w każdym dniu roboczym i będzie stanowić co najmniej równowartość wartości ryzyka kontrahenta w tej transakcji;
+3)
+środki pieniężne stanowiące zabezpieczenie będą lokowane wyłącznie w papiery wartościowe lub instrumenty rynku pieniężnego emitowane, poręczone lub gwarantowane przez Skarb Państwa, Narodowy Bank Polski, państwo członkowskie, państwo należące do OECD, bank centralny państwa członkowskiego lub Europejski Bank Centralny lub w:
+a)
+depozyty, o których mowa w art. 93 ust. 1 pkt 3 ustawy – w przypadku funduszu stosującego zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego,
+b)
+depozyty, o których mowa w art. 145 ust. 5 ustawy – w przypadku funduszu stosującego zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego.
+3.
+Papier wartościowy i instrument rynku pieniężnego mogą stanowić zabezpieczenie, o którym mowa w ust. 2 pkt 1, jeżeli łącznie zostaną spełnione następujące warunki:
+1)
+ich emitentem jest Skarb Państwa, Narodowy Bank Polski, państwo członkowskie, państwo należące do OECD, bank centralny państwa członkowskiego lub Europejski Bank Centralny;
+2)
+podaż i popyt umożliwiają ich nabywanie i zbywanie w sposób ciągły;
+3)
+są zapisane na rachunku prowadzonym przez podlegający nadzorowi właściwego organu nadzoru nad rynkiem finansowym podmiot, który:
+a)
+nie należy do grupy kapitałowej kontrahenta albo
+b)
+należy do grupy kapitałowej kontrahenta, pod warunkiem że zabezpieczenia przed skutkami niewypłacalności tego podmiotu kształtują ryzyko posiadacza tego papieru wartościowego lub instrumentu rynku pieniężnego na takim samym poziomie, jak w przypadku zapisania papieru wartościowego lub instrumentu rynku pieniężnego na rachunku prowadzonym przez podmiot, o którym mowa w lit. a;
+4)
+ewentualne nabycie przez fundusz praw z papieru wartościowego lub instrumentu rynku pieniężnego w wyniku realizacji zabezpieczeń na dzień przyjęcia zabezpieczenia nie spowoduje naruszenia:
+a)
+art. 96–100 oraz art. 104 ustawy – w przypadku funduszu stosującego zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego,
+b)
+art. 145–149 oraz art. 151a ustawy – w przypadku funduszu stosującego zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego.
+§ 8.
+1.
+Maksymalne zaangażowanie funduszu stosującego zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego w instrumenty pochodne oraz maksymalne zaangażowanie funduszu stosującego zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego w lokaty, o których mowa w art. 145 ust. 1 pkt 5 i 6 ustawy, wyznacza się w każdym dniu roboczym, co najmniej raz dziennie z zastosowaniem metody określonej w art. 8 rozporządzenia 231/2013.
+2.
+Wartość maksymalnego zaangażowania, o którym mowa w ust. 1, nie może w żadnym momencie przekroczyć maksymalnego limitu ekspozycji AFI określonego w przepisach wydanych na podstawie art. 48c ust. 3 ustawy pomniejszonego o inne pozycje wpływające zgodnie z ustawą na zwiększenie tej ekspozycji.
+§ 9.
+Przy stosowaniu limitów inwestycyjnych, o których mowa w art. 96–101, art. 104 oraz art. 113 ust. 4–6 ustawy, fundusz stosujący zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego jest obowiązany uwzględniać kwotę zaangażowania w instrumenty pochodne w ten sposób, że:
+1)
+w przypadku zajęcia przez fundusz pozycji w instrumentach pochodnych, skutkującej powstaniem po stronie funduszu zobowiązania albo uprawnienia do sprzedaży papierów wartościowych lub instrumentów rynku pieniężnego albo do spełnienia świadczenia pieniężnego wynikającego z zajętej pozycji – od wartości papierów wartościowych lub instrumentów rynku pieniężnego danego emitenta znajdujących się w portfelu inwestycyjnym funduszu należy odjąć kwotę zaangażowania w instrumenty pochodne, dla których bazę stanowią papiery wartościowe lub instrumenty rynku pieniężnego tego emitenta;
+2)
+w przypadku zajęcia przez fundusz pozycji w instrumentach pochodnych skutkującej powstaniem po stronie funduszu zobowiązania albo uprawnienia do zakupu papierów wartościowych lub instrumentów rynku pieniężnego albo do spełnienia świadczenia pieniężnego wynikającego z zajętej pozycji – do wartości papierów wartościowych lub instrumentów rynku pieniężnego danego emitenta znajdujących się w portfelu inwestycyjnym funduszu należy dodać kwotę zaangażowania w instrumenty pochodne, dla których bazę stanowią papiery wartościowe lub instrumenty rynku pieniężnego tego emitenta.
+§ 10.
+Przy stosowaniu limitów inwestycyjnych, o których mowa w art. 145–149 oraz art. 151a ustawy, fundusz stosujący zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego jest obowiązany uwzględniać kwotę zaangażowania w instrumenty pochodne w ten sposób, że:
+1)
+w przypadku zajęcia przez fundusz pozycji w instrumentach pochodnych skutkującej powstaniem po stronie funduszu zobowiązania albo uprawnienia do sprzedaży papierów wartościowych, instrumentów rynku pieniężnego lub walut albo do spełnienia świadczenia pieniężnego wynikającego z zajętej pozycji – od wartości papierów wartościowych lub instrumentów rynku pieniężnego danego emitenta lub waluty danego państwa lub euro znajdujących się w portfelu inwestycyjnym funduszu należy odjąć kwotę zaangażowania w instrumenty pochodne, dla których bazę stanowią papiery wartościowe lub instrumenty rynku pieniężnego tego emitenta lub kurs waluty danego państwa lub kurs euro;
+2)
+w przypadku zajęcia przez fundusz pozycji w instrumentach pochodnych skutkującej powstaniem po stronie funduszu zobowiązania albo uprawnienia do zakupu papierów wartościowych, instrumentów rynku pieniężnego lub walut albo do spełnienia świadczenia pieniężnego wynikającego z zajętej pozycji – do wartości papierów wartościowych lub instrumentów rynku pieniężnego danego emitenta lub waluty danego państwa lub euro znajdujących się w portfelu inwestycyjnym funduszu należy dodać kwotę zaangażowania w instrumenty pochodne, dla których bazę stanowią papiery wartościowe lub instrumenty rynku pieniężnego tego emitenta lub kurs waluty danego państwa lub kurs euro.
+§ 11.
+1.
+W przypadkach, o których mowa w § 9 i § 10, przez kwotę zaangażowania w instrument pochodny rozumie się kwotę zaangażowania ustaloną przy użyciu zasad określonych w przepisach art. 8 ust. 2 lit. a rozporządzenia 231/2013.
+2.
+Kwota zaangażowania w instrument pochodny, którego bazą jest kurs waluty, stosowany w celu ograniczenia ryzyka inwestycyjnego związanego ze zmianą kursu waluty, może podlegać redukcji o kwotę odzwierciedlającą stopień, w jakim ten instrument pochodny ogranicza to ryzyko.
+3.
+Jeżeli wartość otrzymana zgodnie z § 9 lub § 10 jest ujemna, uwzględnia się jej wartość bezwzględną.
+§ 12.
+Jeżeli zawierane przez fundusz stosujący zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego umowy mające za przedmiot instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne, mają na celu ograniczenie ryzyka inwestycyjnego związanego z papierami wartościowymi, instrumentami rynku pieniężnego lub innymi prawami majątkowymi, które fundusz zamierza nabyć w przyszłości, fundusz może zająć pozycję w tych instrumentach pochodnych skutkującą powstaniem jego zobowiązania albo uprawnienia do zakupu papierów wartościowych, instrumentów rynku pieniężnego lub innych praw majątkowych albo do spełnienia świadczenia pieniężnego, w wysokości odpowiadającej wartości świadczenia w tej umowie sprzedaży, lub stosować szczególną strategię inwestycyjną z wykorzystaniem instrumentów pochodnych, której skutkiem miałby być efekt analogiczny do zajęcia takiej pozycji, o ile łącznie zostaną spełnione następujące warunki:
+1)
+zawarcie planowanej transakcji nabycia papierów wartościowych, instrumentów rynku pieniężnego lub innych praw majątkowych jest wysoce prawdopodobne;
+2)
+zajęcie takiej pozycji lub zastosowanie takiej szczególnej strategii jest uzasadnione prognozami wysokości kursów, cen lub wartości papierów wartościowych, instrumentów rynku pieniężnego lub innych praw majątkowych.
+§ 13.
+Za uznane indeksy, o których mowa w art. 99 ustawy, uważa się indeksy łącznie spełniające następujące warunki:
+1)
+skład indeksu uwzględnia odpowiednio wymogi rozproszenia ryzyka inwestycyjnego, o których mowa w art. 96–100 oraz art. 104 ustawy;
+2)
+indeks stanowi miarodajny wskaźnik charakteryzujący rynek, do którego się odnosi, przy czym metodologia zastosowana przez podmiot ustalający skład indeksu nie powoduje wykluczenia ze składu tego indeksu największego emitenta na rynku, do którego indeks się odnosi;
+3)
+wartość i skład indeksu są podawane do publicznej wiadomości;
+4)
+indeks został ustalony przez wyspecjalizowany w ustalaniu indeksów podmiot organizujący, prowadzący lub analizujący obrót papierami wartościowymi, niezależny od towarzystwa zarządzającego funduszem lub zarządzającego z UE, który zarządza funduszem i prowadzi jego sprawy; jeżeli podmiot ten należy do grupy kapitałowej, w skład której wchodzi towarzystwo lub zarządzający z UE, towarzystwo lub zarządzający z UE są obowiązani wdrożyć odpowiednie procesy zarządzania konfliktem interesów.
+§ 14.
+Indeksy stanowiące bazę instrumentów pochodnych, w tym niewystandaryzowanych instrumentów pochodnych, będących przedmiotem umów zawieranych przez fundusz stosujący zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego, powinny łącznie spełniać następujące warunki:
+1)
+skład indeksu uwzględnia odpowiednio wymogi rozproszenia ryzyka inwestycyjnego, w szczególności:
+a)
+zmiany ceny lub aktywność transakcyjna w odniesieniu do jednego składnika indeksu nie wpływa w sposób istotny na wartość indeksu,
+b)
+jeżeli w skład indeksu wchodzą składniki, o których mowa w art. 93 ust. 1 pkt 1, 2 i 4, art. 101 i art. 116a ustawy, jest on zdywersyfikowany co najmniej w stopniu określonym w art. 96–100 oraz art. 104 ustawy,
+c)
+jeżeli w skład indeksu wchodzą składniki inne niż określone w art. 93 ust. 1 pkt 1, 2 i 4, art. 101 i art. 116a ustawy, jest on zdywersyfikowany w sposób równoważny określonemu w art. 96–100 oraz art. 104 ustawy;
+2)
+indeks stanowi miarodajny wskaźnik charakteryzujący rynek, do którego się odnosi, w szczególności:
+a)
+indeks w odpowiedni i właściwy sposób odzwierciedla wyniki reprezentatywnej grupy składników będących przedmiotem obrotu na rynku, do którego się odnosi,
+b)
+dokonywana jest regularna weryfikacja składu indeksu, która może skutkować zmianami tego składu dokonywanymi zgodnie z powszechnie dostępnymi kryteriami, w celu zapewnienia, że spełniony jest warunek, o którym mowa w lit. a,
+c)
+składniki indeksu charakteryzują się płynnością, która w razie potrzeby umożliwia odzwierciedlenie składu indeksu;
+3)
+wartość i skład indeksu są podawane do publicznej wiadomości, w szczególności:
+a)
+ustalanie wartości i składu indeksu jest prowadzone na podstawie odpowiednich procedur gromadzenia informacji o cenach składników indeksu, obliczania wartości indeksu oraz publikowania jego wartości, w tym procedur wyceny składników indeksu w przypadku, gdy ich cena rynkowa nie jest dostępna,
+b)
+informacje dotyczące zasad obliczania indeksu, metodologii wprowadzania zmian w składzie indeksu, zmiany indeksu oraz trudności operacyjnych z terminowym dostarczeniem informacji albo poprawnością informacji są udostępniane niezwłocznie i w sposób wyczerpujący.
+§ 15.
+Bazę instrumentu pochodnego, w tym niewystandaryzowanego instrumentu pochodnego, będącego przedmiotem lokat funduszu stosującego zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego, mogą stanowić indeksy oparte o instrumenty notowane na rynku zorganizowanym zlokalizowanym na terytorium Rzeczypospolitej Polskiej, państwa członkowskiego, państwa należącego do OECD, Brazylii, Chin albo państwa należącego do EEA oraz indeks łącznie spełniający następujące warunki:
+1)
+jego skład uwzględnia odpowiednio wymogi rozproszenia ryzyka inwestycyjnego, w szczególności:
+a)
+zmiany ceny lub aktywność transakcyjna w odniesieniu do jednego składnika indeksu nie wpływa w sposób istotny na wartość indeksu,
+b)
+indeks składa się z co najmniej 15 składników;
+2)
+stanowi on miarodajny wskaźnik charakteryzujący rynek, do którego się odnosi, w szczególności:
+a)
+indeks w odpowiedni i właściwy sposób odzwierciedla wyniki reprezentatywnej grupy składników będących przedmiotem obrotu na rynku, do którego się odnosi,
+b)
+dokonywana jest regularna weryfikacja składu indeksu, która może skutkować zmianami tego składu dokonywanymi zgodnie z ustalonymi kryteriami, w celu zapewnienia, że spełniony jest warunek, o którym mowa w lit. a,
+c)
+składniki indeksu charakteryzują się płynnością, która w razie potrzeby umożliwia odzwierciedlenie składu indeksu w stopniu wystarczającym do zastosowania przez fundusz strategii zabezpieczającej przed zmianami wartości indeksu;
+3)
+wartość i ogólne zasady konstrukcji indeksu są udostępniane do publicznej wiadomości.
+§ 16.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+1) Obecnie działem administracji rządowej – instytucje finansowe kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939). 2) Niniejsze rozporządzenie w zakresie swojej regulacji służy stosowaniu rozporządzenia delegowanego Komisji (UE) nr 231/2013 z dnia 19 grudnia 2012 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2011/61/UE w odniesieniu do zwolnień, ogólnych warunków dotyczących prowadzenia działalności, depozytariuszy, dźwigni finansowej, przejrzystości i nadzoru (Dz. Urz. UE L 83 z 22.03.2013, str. 1). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 176 z 27.06.2013, str. 1, Dz. Urz. UE L 279 z 19.10.2013, str. 2, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 165 z 04.06.2014, str. 31, Dz. Urz. UE L 173 z 12.06.2014, str. 84 i 190, Dz. Urz. UE L 141 z 05.06.2015, str. 73, Dz. Urz. UE L 143 z 09.06.2015, str. 7, Dz. Urz. UE L 239 z 15.09.2015, str. 63, Dz. Urz. UE L 328 z 12.12.2015, str. 108, Dz. Urz. UE L 337 z 23.12.2015, str. 1, Dz. Urz. UE L 151 z 08.06.2016, str. 4, Dz. Urz. UE L 336 z 10.12.2016, str. 36, Dz. Urz. UE L 86 z 31.03.2017, str. 3, Dz. Urz. UE L 144 z 07.06.2017, str. 14, Dz. Urz. UE L 148 z 10.06.2017, str. 1, Dz. Urz. UE L 347 z 28.12.2017, str. 35, Dz. Urz. UE L 80 z 22.03.2019, str. 8, Dz. Urz. UE L 141 z 28.05.2019, str. 42, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 322 z 12.12.2019, str. 1, Dz. Urz. UE L 22 z 22.01.2021, str. 1, Dz. Urz. UE L 49 z 12.02.2021, str. 6 oraz Dz. Urz. UE L 333 z 27.12.2022, str. 1. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 271 z 30.10.2018, str. 1, Dz. Urz. UE L 277 z 02.08.2021, str. 11 oraz Dz. Urz. UE L 272 z 20.10.2022, str. 54. 5) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez § 1 rozporządzenia Ministra Finansów z dnia 28 lipca 2022 r. zmieniającego rozporządzenie w sprawie zawierania przez specjalistyczny fundusz inwestycyjny otwarty umów, których przedmiotem są instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne (Dz. U. poz. 1633), które weszło w życie z dniem 18 sierpnia 2022 r. 6) Rozporządzenie zostało ogłoszone w dniu 28 lipca 2017 r.
+Załącznik – Wykaz indeksów
+1)
+All Ords – w Związku Australijskim;
+2)
+ATX – w Republice Austrii;
+3)
+BEL20 – w Królestwie Belgii;
+4)
+BIST 30 – w Republice Turcji;
+5)
+CAC40 – w Republice Francuskiej;
+6)
+DAX – w Republice Federalnej Niemiec;
+7)
+DJ Euro STOXX 50 – indeks międzynarodowy;
+8)
+Dow Jones Ind. Av. – w Stanach Zjednoczonych Ameryki;
+9)
+EOE25 – w Królestwie Niderlandów;
+10)
+Euronext 100 – indeks międzynarodowy;
+11)
+FTSE100 – w Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej;
+12)
+FTSE mid250 – w Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej;
+13)
+Hang Seng – w Specjalnym Regionie Administracyjnym Hongkong;
+14)
+IBEX35 – w Królestwie Hiszpanii;
+15)
+IPC Index – w Meksykańskich Stanach Zjednoczonych;
+16)
+MDAX – w Republice Federalnej Niemiec;
+17)
+MIB 30 – w Republice Włoskiej;
+18)
+NASDAQ – w Stanach Zjednoczonych Ameryki;
+19)
+Nikkei225 – w Japonii;
+20)
+OMX – w Królestwie Szwecji;
+21)
+Russell 2000 – w Stanach Zjednoczonych Ameryki;
+22)
+S&P500 – w Stanach Zjednoczonych Ameryki;
+23)
+Sao Paulo – Bovespa – w Federacyjnej Republice Brazylii;
+24)
+SMI – w Konfederacji Szwajcarskiej;
+25)
+TSE35 – w Kanadzie;
+26)
+WIG20 – w Rzeczypospolitej Polskiej;
+27)
+WIG20TR – w Rzeczypospolitej Polskiej;
+28)
+mWIG40 – w Rzeczypospolitej Polskiej.
 

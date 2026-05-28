@@ -8,10 +8,10 @@ pos: 1285
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 lipca 2020 r.
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 15 lipca 2020 r. w sprawie wykroczeń, za które pracownicy Państwowego Gospodarstwa Wodnego Wody Polskie wykonujący kontrolę gospodarowania wodami są uprawnieni do nakładania grzywien w drodze mandatu karnego, oraz warunków i sposobu wydawania upoważnień do nakładania grzywien w drodze mandatu karnego
 
 | Pole | Wartość |
 |---|---|
@@ -22,22 +22,35 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2020-07-15 |
 | Data wydania | 2020-07-23 |
+| Wejście w życie | 2020-07-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001285) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1285/text.pdf) |
 
-Poz. 1285 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 15 lipca 2020 r.
-w sprawie wykroczeń, za które pracownicy Państwowego Gospodarstwa Wodnego Wody Polskie wykonujący kontrolę gospodarowania wodami są uprawnieni do nakładania grzywien w drodze mandatu karnego, oraz warunków i sposobu wydawania upoważnień do nakładania grzywien w drodze mandatu karnego Na podstawie art. 95 § 4 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U.
-z 2020 r. poz. 729 i 956) zarządza się, co następuje: § 1. Pracownicy Państwowego Gospodarstwa Wodnego Wody Polskie wykonujący kontrolę gospodarowania wodami są uprawnieni do nakładania grzywien w drodze mandatu karnego za wykroczenia określone w art. 476 ust. 1 i 2, art. 477 pkt 4–8 oraz art. 478 pkt 2, 6 i 12–16 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2020 r. poz. 310, 284, 695, 782 i 875).
-§ 2. Upoważnienie do nakładania grzywien w drodze mandatu karnego wydaje Prezes Państwowego Gospodarstwa Wodnego Wody Polskie.
-§ 3. Upoważnienie do nakładania grzywien w drodze mandatu karnego zawiera:
-1) nazwę organu wydającego upoważnienie oraz adres Krajowego Zarządu Gospodarki Wodnej Państwowego Gospodarstwa Wodnego Wody Polskie;
-2) datę wydania i termin ważności upoważnienia;
-3) powołanie podstawy prawnej;
-4) imię i nazwisko oraz stanowisko służbowe upoważnionego;
-5) numer legitymacji służbowej upoważnionego;
-6) określenie wykroczeń, za które upoważniony może nakładać grzywny w drodze mandatu karnego;
-7) określenie obszaru, na którym upoważnienie jest ważne;
-8) podpis wraz z pieczęcią organu, który wydał upoważnienie.
-§ 4. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk
+Treść rozporządzenia
+Na podstawie art. 95 § 4 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2020 r. poz. 729 i 956) zarządza się, co następuje:
+§ 1.
+Pracownicy Państwowego Gospodarstwa Wodnego Wody Polskie wykonujący kontrolę gospodarowania wodami są uprawnieni do nakładania grzywien w drodze mandatu karnego za wykroczenia określone w art. 476 ust. 1 i 2, art. 477 pkt 4–8 oraz art. 478 pkt 2, 6 i 12–16 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2020 r. poz. 310, 284, 695, 782 i 875).
+§ 2.
+Upoważnienie do nakładania grzywien w drodze mandatu karnego wydaje Prezes Państwowego Gospodarstwa Wodnego Wody Polskie.
+§ 3.
+Upoważnienie do nakładania grzywien w drodze mandatu karnego zawiera:
+1)
+nazwę organu wydającego upoważnienie oraz adres Krajowego Zarządu Gospodarki Wodnej Państwowego Gospodarstwa Wodnego Wody Polskie;
+2)
+datę wydania i termin ważności upoważnienia;
+3)
+powołanie podstawy prawnej;
+4)
+imię i nazwisko oraz stanowisko służbowe upoważnionego;
+5)
+numer legitymacji służbowej upoważnionego;
+6)
+określenie wykroczeń, za które upoważniony może nakładać grzywny w drodze mandatu karnego;
+7)
+określenie obszaru, na którym upoważnienie jest ważne;
+8)
+podpis wraz z pieczęcią organu, który wydał upoważnienie.
+§ 4.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka wodna, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2262).
 

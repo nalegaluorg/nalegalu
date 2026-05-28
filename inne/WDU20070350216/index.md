@@ -1,0 +1,134 @@
+---
+title: Ustawa z dnia 12 stycznia 2007 r. o zmianie ustawy o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych
+address: WDU20070350216
+eli: DU/2007/216
+publisher: DU
+year: 2007
+pos: 216
+act_type: Ustawa
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Ustawa z dnia 12 stycznia 2007 r. o zmianie ustawy o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2007 nr 35 poz. 216 |
+| ISAP | WDU20070350216 |
+| Typ aktu | Ustawa |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2007-01-12 |
+| Data wydania | 2007-02-27 |
+| Wejście w życie | 2007-03-14 |
+| Ostatnia zmiana | 2024-03-15 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070350216) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/216/text.pdf) |
+
+**Art. 1.** W ustawie z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. Nr 42, poz. 386, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 w ust. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
+- **5)** zasady udzielania dopłat z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany. ” ;
+- **2)** w art. 11 w ust. 1 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „
+- **8)** udziela dopłat z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany. ” ;
+- **3)** w art. 13 w ust. 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+- **3)** kwoty nienależnie lub nadmiernie pobranych środków krajowych, przeznaczonych na udzielanie dopłat z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany. ” ;
+- **4)** w art. 20: w ust. 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+    - **a)**
+
+- **3)** czynności sprawdzające u producenta rolnego w rozumieniu ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, któremu udzielono dopłaty z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany. ” , w ust. 5 po pkt 1 dodaje się pkt 1a w brzmieniu: „
+    - **b)**
+
+- **1a)** wstępu na teren gospodarstwa rolnego; ” ;
+- **5)** w art. 38 po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+1a. Płatności, o których mowa w ust. 1, przysługują również za ziemniaki skrobiowe, w których zawartość skrobi jest niższa niż 13%, w przypadku, w którym stosuje się art. 5 ust. 3 akapit drugi rozporządzenia Komisji (WE) nr 2236/2003 z dnia 23 grudnia 2003 r. ustanawiającego szczegółowe zasady w celu stosowania rozporządzenia Komisji (WE) nr 1868/94 ustanawiającego system kwot na produkcję skrobi ziemniaczanej (Dz. Urz. UE L 339 z 24.12.2003, str. 45; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 41, str. 515). ” ;
+
+- **6)** w art. 40a uchyla się ust. 5;
+- **7)** po rozdziale 9a dodaje się rozdział 9b w brzmieniu: „
+
+#### Rozdział 9b Udzielanie dopłat z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany
+
+**Art. 40c.**
+
+1. Dopłat z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany udziela się producentom rolnym w rozumieniu ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności.
+
+2. Warunkiem uzyskania dopłaty jest posiadanie przez producenta rolnego działek rolnych, na których uprawia się rośliny objęte dopłatami, o łącznej powierzchni nie mniejszej niż 1 ha, przy czym za działkę rolną uważa się zwarty obszar gruntu rolnego, na którym jest prowadzona uprawa, o powierzchni nie mniejszej niż 0,1 ha, wchodzący w skład gospodarstwa rolnego.
+
+3. Dopłaty udziela się do powierzchni gruntów ornych obsianych lub obsadzonych materiałem siewnym kategorii elitarny lub kwalifikowany gatunków roślin uprawnych określonych w przepisach wydanych na podstawie ust. 6 pkt 2, jeżeli ilość materiału siewnego kategorii elitarny lub kwalifikowany zużyta do obsiania lub obsadzenia tych powierzchni jest nie mniejsza niż minimalna ilość określona w przepisach wydanych na podstawie art. 40d ust. 6 pkt 2.
+
+4. Wysokość dopłaty ustala się jako iloczyn powierzchni gruntów ornych obsianych lub obsadzonych materiałem siewnym kategorii elitarny lub kwalifikowany gatunków roślin uprawnych określonych w przepisach wydanych na podstawie ust. 6 pkt 2 i stawek dopłat do 1 ha takiej powierzchni.
+
+5. Dopłaty mają charakter pomocy de minimis w rolnictwie i są udzielane zgodnie z rozporządzeniem Komisji (WE) nr 1860/2004 z dnia 6 października 2004 r. w sprawie stosowania art. 87 i 88 Traktatu WE w odniesieniu do pomocy w ramach zasady de minimis dla sektora rolnego i sektora rybołówstwa (Dz. Urz. UE L 325 z 28.10.2004, str. 4), z zastrzeżeniem art. 40f.
+
+6. Rada Ministrów określa, w drodze rozporządzenia:
+
+- **1)** stawki dopłat do 1 ha powierzchni gruntów ornych obsianych lub obsadzonych materiałem siewnym kategorii elitarny lub kwalifikowany, uwzględniając ilość materiału siewnego, jaka może być użyta do obsiania lub obsadzenia 1 ha powierzchni gruntów ornych, gatunki roślin uprawnych objętych dopłatą oraz środki finansowe przeznaczone na te dopłaty;
+- **2)** wykaz gatunków roślin uprawnych, do których materiału siewnego kategorii elitarny lub kwalifikowany przysługuje dopłata z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany, biorąc pod uwagę znaczenie gospodarcze danego gatunku roślin uprawnych.
+
+1. Dyrektor oddziału terenowego Agencji właściwego ze względu na miejsce zamieszkania lub siedzibę producenta rolnego przyznaje, w drodze decyzji, dopłatę z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany na wniosek producenta rolnego.
+
+2. Wniosek, o którym mowa w ust. 1, składa się na formularzu opracowanym i udostępnionym przez Agencję, zawierającym w szczególności:
+
+- **1)** dane, o których mowa w art. 27 ust. 2a pkt 1–3;
+- **2)** oświadczenie o: powierzchni gruntów ornych obsianych lub obsadzonych materiałem siewnym kategorii elitarny lub kwalifikowany, sposobie wykorzystania działek rolnych, na których został wysiany lub wysadzony materiał siewny kategorii elitarny lub kwalifikowany.
+    - **a)**
+    - **b)**
+
+3. Do wniosku producent rolny dołącza oryginał albo, potwierdzoną za zgodność z oryginałem przez notariusza lub upoważnionego przez Prezesa Agencji pracownika Agencji, kopię:
+
+- **1)** faktury zakupu materiału siewnego kategorii elitarny lub kwalifikowany, pochodzącej z okresu: w którym został zużyty do siewu materiał siewny zbóż lub roślin strączkowych, od dnia 1 września roku poprzedzającego wysadzenie sadzeniaków ziemniaka do dnia 31 maja roku wysadzenia sadzeniaków ziemniaka albo
+    - **a)**
+    - **b)**
+
+- **2)** dokumentu wydania z magazynu materiału siewnego kategorii elitarny lub kwalifikowany, wystawionego w roku, w którym ten materiał został zużyty do siewu lub sadzenia – jeżeli producent rolny zużył do siewu lub sadzenia materiał siewny kategorii elitarny lub kwalifikowany wyprodukowany we własnym gospodarstwie.
+
+4. Dokumenty, o których mowa w ust. 3, powinny zawierać w szczególności:
+
+- **1)** datę sprzedaży lub wydania z magazynu materiału siewnego;
+- **2)** nazwę gatunku i odmiany;
+- **3)** kategorię lub stopień kwalifikacji materiału siewnego;
+- **4)** numer partii materiału siewnego.
+
+5. Na żądanie Agencji producent rolny jest obowiązany dostarczyć oryginały dokumentów, o których mowa w ust. 3.
+
+6. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia:
+
+- **1)** terminy składania wniosków, o których mowa w ust. 1, oraz terminy i sposób wypłaty dopłat z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany, mając na względzie zabezpieczenie przed nieuzasadnionym przyznaniem tych dopłat;
+- **2)** minimalną ilość materiału siewnego, jaka powinna być użyta do obsiania lub obsadzenia 1 ha powierzchni gruntów ornych, mając na względzie zalecane normy wysiewu dla poszczególnych gatunków roślin.
+
+1. Wojewódzki inspektor Państwowej Inspekcji Ochrony Roślin i Nasiennictwa, na wniosek dyrektora oddziału terenowego Agencji, przekazuje nieodpłatnie informacje o:
+
+- **1)** przedsiębiorcach wpisanych do rejestru przedsiębiorców dokonujących obrotu materiałem siewnym w rozumieniu przepisów o nasiennictwie, w zakresie: imienia i nazwiska, miejsca zamieszkania i adresu albo nazwy, siedziby i adresu, numeru w rejestrze przedsiębiorców dokonujących obrotu materiałem siewnym, prowadzonym przez wojewódzkiego inspektora Państwowej Inspekcji Ochrony Roślin i Nasiennictwa, numeru identyfikacji podatkowej (NIP) – jeżeli został nadany;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** podmiotach wpisanych do rejestru podmiotów prowadzących obrót materiałem siewnym w rozumieniu przepisów o nasiennictwie, w zakresie, o którym mowa w pkt 1 lit. a i c, oraz numeru w rejestrze podmiotów prowadzących obrót materiałem siewnym, prowadzonym przez wojewódzkiego inspektora Państwowej Inspekcji Ochrony Roślin i Nasiennictwa;
+- **3)** ilości wprowadzonego do obrotu materiału siewnego kategorii elitarny lub kwalifikowany gatunków roślin uprawnych określonych w przepisach wydanych na podstawie art. 40c ust. 6 pkt 2.
+
+2. Obowiązek przekazywania informacji w zakresie, o którym mowa w ust. 1 pkt 2, ma również przedsiębiorca, który zgodnie z przepisami o nasiennictwie:
+
+- **1)** został upoważniony przez wojewódzkiego inspektora Państwowej Inspekcji Ochrony Roślin i Nasiennictwa do wypełniania etykiet urzędowych materiału siewnego;
+- **2)** wypełnia etykiety przedsiębiorcy – w przypadku materiału siewnego roślin strączkowych.
+
+1. Dopłaty z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany, o których mowa w art. 40c, dla producentów rolnych, którzy w 2006 r. ponieśli szkodę w uprawach spowodowaną dotknięciem ich gospodarstw suszą, nie mają charakteru pomocy de minimis w rolnictwie.
+
+2. W przypadku, o którym mowa w ust. 1, dopłaty przysługują, jeżeli w gospodarstwie producenta rolnego szkoda w uprawach spowodowana suszą, oszacowana przez komisję powołaną przez wojewodę na podstawie odrębnych przepisów, wynosi średnio nie mniej niż 30%.
+
+3. Wysokość dopłaty z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany dla producentów rolnych, którzy w 2006 r. ponieśli szkodę w uprawach spowodowaną dotknięciem ich gospodarstw suszą nie może przekroczyć wysokości szkody oszacowanej przez komisję powołaną przez wojewodę, pomniejszonej o wysokość pomocy przyznanej na podstawie przepisów o pomocy społecznej dotyczących szczegółowych warunków realizacji programu pomocy dla gospodarstw rolnych w celu złagodzenia skutków suszy.
+
+4. W przypadku, o którym mowa w ust. 1, do wniosku określonego w art. 40d ust. 1 producent rolny dołącza, potwierdzoną za zgodność z oryginałem przez kierownika ośrodka pomocy społecznej, kopię:
+
+- **1)** protokołu oszacowania szkód sporządzonego przez komisję powołaną przez wojewodę określającego wysokość szkody w uprawach, o której mowa w ust. 2;
+- **2)** decyzji o udzieleniu pomocy społecznej przez kierownika ośrodka pomocy społecznej wydanej na podstawie przepisów o pomocy społecznej dotyczących szczegółowych warunków realizacji programu pomocy dla gospodarstw rolnych w celu złagodzenia skutków suszy, jeżeli producentowi rolnemu udzielono takiej pomocy. ” .
+
+**Art. 2.** O dopłaty udzielane na zasadach, o których mowa w art. 40f ustawy wymienionej w art. 1, można ubiegać się również w przypadku:
+
+- **1)** zużycia do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany zbóż przed dniem wejścia w życie niniejszej ustawy, jeżeli materiał ten został zakupiony nie wcześniej niż w dniu 1 sierpnia 2006 r.;
+- **2)** zakupu materiału siewnego kategorii elitarny lub kwalifikowany sadzeniaka ziemniaka, jeżeli materiał ten został zakupiony w okresie od dnia 1 września 2006 r. do dnia 31 maja 2007 r. i zostanie wysadzony w 2007 r.;
+- **3)** zużycia do siewu materiału siewnego kategorii elitarny lub kwalifikowany zbóż, wyprodukowanego we własnym gospodarstwie przed dniem wejścia w życie niniejszej ustawy, jeżeli materiał ten został wydany z magazynu nie wcześniej niż w dniu 1 września 2006 r.
+
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+

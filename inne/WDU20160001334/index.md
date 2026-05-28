@@ -8,12 +8,10 @@ pos: 1334
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy o usługach turystycznych oraz ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych
-
-*USTAWA z dnia 22 lipca 2016 r.*
+# Ustawa z dnia 22 lipca 2016 r. o zmianie ustawy o usługach turystycznych oraz ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych
 
 | Pole | Wartość |
 |---|---|
@@ -24,18 +22,129 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2016-07-22 |
 | Data wydania | 2016-08-25 |
+| Wejście w życie | 2016-11-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001334) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1334/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. o usługach turystycznych (Dz. U. z 2016 r. poz. 187) wprowadza się następujące zmiany:
+
+- **1)** art. 1 otrzymuje brzmienie: „ Ustawa określa:
+- **1)** warunki świadczenia przez przedsiębiorców usług turystycznych na terytorium Rzeczypospolitej Polskiej, a także za granicą, jeżeli umowy z klientami o świadczenie tych usług są zawierane na terytorium Rzeczypospolitej Polskiej;
+- **2)** zasady funkcjonowania Turystycznego Funduszu Gwarancyjnego. ” ;
+- **2)** w art. 5: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) zapewnić klientom na wypadek swojej niewypłacalności: pokrycie kosztów powrotu z imprezy turystycznej do miejsca wyjazdu lub planowanego powrotu z imprezy turystycznej, obejmujących w szczególności koszty transportu, zakwaterowania, transferów, w tym także koszty poniesione przez klientów, w wypadku gdy organizator turystyki lub pośrednik turystyczny, wbrew obowiązkowi, nie zapewnia tego powrotu, a także zapewnić klientom zwrot wpłat wniesionych tytułem zapłaty za imprezę turystyczną, w wypadku gdy z przyczyn dotyczących organizatora turystyki lub pośrednika turystycznego oraz osób, które działają w ich imieniu, impreza turystyczna nie została lub nie zostanie zrealizowana, a także zapewnić klientom zwrot części wpłat wniesionych tytułem zapłaty za imprezę turystyczną odpowiadającą części imprezy turystycznej, która nie została lub nie zostanie zrealizowana z przyczyn dotyczących organizatora turystyki lub pośrednika turystycznego oraz osób, które działają w ich imieniu, przez: a) zawarcie umowy gwarancji bankowej lub ubezpieczeniowej lub b) zawarcie umowy ubezpieczenia na rzecz klientów, lub c) przyjmowanie wpłat klientów wyłącznie na rachunek powierniczy, jeżeli wykonuje usługi turystyczne wyłącznie na terenie kraju i złoży właściwemu marszałkowi województwa oświadczenie o przyjmowaniu wpłat na rachunek powierniczy, oraz d) dokonywanie terminowych wpłat składki w należnej wysokości do Turystycznego Funduszu Gwarancyjnego, o którym mowa w rozdziale 2a; ” , – w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 i 5 w brzmieniu: „ 4) prowadzić wykaz zawartych: a) umów o świadczenie usług turystycznych polegających na organizowaniu imprez turystycznych, b) umów w zakresie pośredniczenia na zlecenie klientów w zawieraniu umów o świadczenie usług turystycznych – zwany dalej „wykazem umów”; 5) składać terminowo do Ubezpieczeniowego Funduszu Gwarancyjnego deklaracje, zawierające wyliczenie wysokości należnej składki do Turystycznego Funduszu Gwarancyjnego, o którym mowa w rozdziale 2a, liczbę i rodzaj zawartych umów o świadczenie usług turystycznych oraz liczbę klientów objętych umowami zawartymi w danym miesiącu, informacje o zabezpieczeniach finansowych, o których mowa w pkt 2 lit. a-c, oraz o podmiotach ich udzielających, do których mogą być składane roszczenia w okresie, za jaki jest składana deklaracja, a także informację na temat liczby klientów, w przypadku których składka została już wniesiona do Turystycznego Funduszu Gwarancyjnego, a impreza turystyczna została odwołana przez organizatora turystyki lub pośrednika turystycznego z powodu niewystarczającej liczby zgłoszeń, jeżeli realizacja usług była uzależniona od liczby zgłoszeń, a także w przypadku rozwiązania umowy lub odstąpienia od umowy przez klienta. ” , ust. 1a otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+1a. W wypadku przedsiębiorcy zagranicznego posiadającego siedzibę na terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej za spełnienie warunków prowadzenia działalności, o których mowa w ust. 1 pkt 2, 4 i 5, uznaje się posiadanie zabezpieczenia finansowego w formie, która jest uznawana w państwie, w którym przedsiębiorca posiada siedzibę. ” , ust. 3 otrzymuje brzmienie: „
+
+- **c)**
+
+3. Obowiązki, o których mowa w ust. 1–2, dotyczą całego okresu wykonywania działalności. ” , po ust. 3 dodaje się ust. 3a-3g w brzmieniu: „
+
+- **d)**
+
+3a. Wykaz umów zawiera następujące dane:
+
+- **1)** numer rezerwacji;
+- **2)** termin zawarcia umowy;
+- **3)** termin imprezy turystycznej;
+- **4)** liczbę osób objętych umową;
+- **5)** cenę usług objętych umową;
+- **6)** miejsce wykonania umowy;
+- **7)** rodzaj środka transportu;
+- **8)** terminy i wysokość faktycznie dokonanych przedpłat;
+- **9)** termin i wysokość zwrotu wpłat klientowi w przypadku rozwiązania umowy.
+
+3b. Wykaz umów może być prowadzony w postaci elektronicznej.
+
+3c. Marszałek województwa i minister właściwy do spraw turystyki, w trybie kontroli, mają prawo dostępu do danych zawartych w wykazie umów.
+
+3d. Na wniosek Ubezpieczeniowego Funduszu Gwarancyjnego udostępnia się dane zawarte w wykazie umów, bez wskazywania danych identyfikujących klientów. Ubezpieczeniowy Fundusz Gwarancyjny jest uprawniony do przetwarzania danych zawartych w wykazie umów, w zakresie niezbędnym do zapewnienia prawidłowego funkcjonowania Turystycznego Funduszu Gwarancyjnego, o którym mowa w rozdziale 2a.
+
+3e. W przypadku niewypłacalności organizator turystyki lub pośrednik turystyczny przekazuje właściwemu marszałkowi województwa:
+
+- **1)** oświadczenie następującej treści: „Oświadczam, że z powodu niewypłacalności nie jestem w stanie wywiązać się z umów o świadczenie usług turystycznych zawartych z klientami w okresie od dnia … do dnia … oraz zapewnić pokrycia kosztów powrotu klientów z imprezy turystycznej i zapewnić klientom zwrotu wpłat lub ich części wniesionych tytułem zapłaty za imprezę turystyczną stosownie do przepisu art. 5 ust. 1 pkt 2 ustawy z dnia 29 sierpnia 1997 r. o usługach turystycznych.”;
+- **2)** wykaz umów ograniczony do umów, które nie zostały lub nie zostaną zrealizowane; do wykazu umów dołącza się informację zawierającą imiona i nazwiska oraz numery telefonów kontaktowych osób objętych umową.
+
+3f. W przypadku braku możliwości uzyskania oświadczenia, o którym mowa w ust. 3e pkt 1, marszałek województwa wydaje dyspozycję wypłaty środków z zabezpieczeń finansowych, o których mowa w ust. 1 pkt 2 lit. a, b i d, bez uzyskania tego oświadczenia, jeżeli okoliczności w oczywisty sposób wskazują, że organizator turystyki lub pośrednik turystyczny nie jest w stanie wywiązać się z umów o świadczenie usług turystycznych zawartych z klientami oraz zapewnić pokrycia kosztów powrotu klientów z imprezy turystycznej i zapewnić klientom zwrotu wpłat lub ich części wniesionych tytułem zapłaty za imprezę turystyczną, która nie została lub nie zostanie zrealizowana.
+
+3g. Dokumenty, o których mowa w ust. 3e, marszałek województwa niezwłocznie przekazuje podmiotowi udzielającemu zabezpieczeń finansowych, o których mowa w ust. 1 pkt 2 lit. a lub b. ” , ust. 5 otrzymuje brzmienie: „
+
+- **e)**
+
+5. Marszałek województwa jest uprawniony do występowania na rzecz klientów w sprawach wypłaty środków z tytułu umowy gwarancji bankowej, umowy gwarancji ubezpieczeniowej lub umowy ubezpieczenia, na zasadach określonych w treści tych umów, a także w sprawach wypłaty środków z Turystycznego Funduszu Gwarancyjnego, o którym mowa w rozdziale 2a. ” , po ust. 5a dodaje się ust. 5b-5m w brzmieniu: „
+
+- **f)**
+
+5b. Podmiot udzielający zabezpieczeń finansowych, o których mowa w ust. 1 pkt 2 lit. a lub b, po otrzymaniu każdorazowej dyspozycji marszałka województwa lub wskazanej przez niego jednostki upoważnionej do wydawania dyspozycji wypłaty zaliczki na pokrycie kosztów powrotu klientów z imprezy turystycznej, o której mowa w ust. 4, bezwarunkowo, niezwłocznie, nie później niż w terminie 3 dni roboczych od dnia otrzymania dyspozycji, przekazuje wnioskowaną zaliczkę na pokrycie kosztów powrotu klientów z imprezy turystycznej. Marszałek województwa przedstawia podmiotowi udzielającemu zabezpieczeń finansowych, o których mowa w ust. 1 pkt 2 lit. a lub b, pisemne rozliczenie otrzymanej zaliczki w terminie 60 dni od dnia otrzymania wypłaty pod rygorem obowiązku zwrotu zaliczki.
+
+5c. Podmiot udzielający zabezpieczeń finansowych, o których mowa w ust. 1 pkt 2 lit. a lub b, lub właściwy marszałek województwa, po uprzednich uzgodnieniach między nimi w każdym przypadku niewypłacalności organizatora turystyki lub pośrednika turystycznego, przyjmuje zgłoszenia od klientów organizatorów turystyki i pośredników turystycznych, którzy nie otrzymali zwrotu wpłat wniesionych tytułem zapłaty za imprezę turystyczną, w wypadku gdy:
+
+- **1)** impreza turystyczna nie została lub nie zostanie zrealizowana,
+- **2)** zwrotu części wpłat wniesionych tytułem zapłaty za imprezę turystyczną odpowiadającą części imprezy turystycznej, która nie została lub nie zostanie zrealizowana z przyczyn dotyczących organizatora turystyki lub pośrednika turystycznego oraz osób, które działają w ich imieniu.
+
+5d. Zgłoszenie, o którym mowa w ust. 5c, zawiera imiona i nazwiska oraz adresy do korespondencji wszystkich klientów poszkodowanych w wyniku niewykonania lub niewykonania w części zobowiązań wynikających z umowy. Do zgłoszenia dołącza się:
+
+- **1)** kopię umowy o świadczenie usług turystycznych, stanowiących imprezę turystyczną, zawartej między klientem a organizatorem turystyki lub pośrednikiem turystycznym;
+- **2)** kopię dowodu wpłaty na rzecz organizatora turystyki lub pośrednika turystycznego należności za usługi turystyczne, stanowiące imprezę turystyczną określoną w umowie;
+- **3)** oświadczenie klienta organizatora turystyki lub pośrednika turystycznego stwierdzające niewykonanie przez organizatora turystyki lub pośrednika turystycznego zobowiązań umownych o określonej wartości;
+- **4)** oświadczenie klienta organizatora turystyki lub pośrednika turystycznego zawierające wskazanie rachunku bankowego, na który ma nastąpić wypłata środków z zabezpieczenia finansowego, o którym mowa w ust. 1 pkt 2 lit. a, b lub d, albo wskazanie innego sposobu wypłaty z tego zabezpieczenia.
+
+5e. W przypadku gdy zgłoszenia, o których mowa w ust. 5c, przyjmuje marszałek województwa, przekazuje on niezwłocznie zgłoszenia podmiotowi, który udzielił organizatorowi turystyki lub pośrednikowi turystycznemu zabezpieczeń finansowych, o których mowa w ust. 1 pkt 2 lit. a lub b, w celu wyliczenia należnych klientom kwot zwrotu wniesionych przez nich wpłat, o których mowa w ust. 1 pkt 2.
+
+5f. Podmiot udzielający zabezpieczeń finansowych, o których mowa w ust. 1 pkt 2 lit. a lub b, w terminie nie dłuższym niż 30 dni od dnia otrzymania zgłoszenia klienta, dokonuje jego weryfikacji pod względem zgodności z wymaganiami określonymi w ust. 5d oraz ze stanem faktycznym i przekazuje właściwemu marszałkowi województwa informację o szczegółowych wyliczeniach kwoty należnej klientowi albo informację o nieuwzględnieniu danego zgłoszenia w całości lub w części wraz ze wskazaniem przyczyny. W przypadku konieczności przeprowadzenia dodatkowego postępowania wyjaśniającego termin przekazania informacji marszałkowi województwa ulega przedłużeniu, nie dłużej jednak niż do 90 dni od dnia otrzymania zgłoszenia klienta.
+
+5g. Po otrzymaniu dokonanego przez podmiot udzielający zabezpieczeń finansowych, o których mowa w ust. 1 pkt 2 lit. a lub b, szczegółowego wyliczenia kwot należnych poszkodowanym klientom marszałek województwa wydaje dyspozycję wypłaty środków, a podmiot udzielający zabezpieczenia finansowego dokonuje wypłat należnych kwot bezpośrednio poszkodowanym klientom, w terminie nie dłuższym niż 30 dni od dnia otrzymania dyspozycji.
+
+5h. W przypadku gdy zabezpieczenia finansowe, o których mowa w ust. 1 pkt 2 lit. a lub b, okażą się niewystarczające na pokrycie kosztów powrotu klientów z imprezy turystycznej, podmiot udzielający tych zabezpieczeń niezwłocznie informuje o tym fakcie właściwego marszałka województwa oraz Ubezpieczeniowy Fundusz Gwarancyjny.
+
+5i. Marszałek województwa lub wskazana przez niego jednostka upoważniona do wydawania dyspozycji wypłaty zaliczki na pokrycie kosztów powrotu klientów z imprezy turystycznej, o której mowa w ust. 4, występuje do Ubezpieczeniowego Funduszu Gwarancyjnego o wypłatę środków z Turystycznego Funduszu Gwarancyjnego, w przypadku gdy zabezpieczenia finansowe, o których mowa w ust. 1 pkt 2 lit. a lub b, okażą się niewystarczające na pokrycie kosztów powrotu klientów z imprezy turystycznej, o których mowa w ust. 1 pkt 2.
+
+5j. Ubezpieczeniowy Fundusz Gwarancyjny niezwłocznie wypłaca marszałkowi województwa lub wskazanej przez niego jednostce upoważnionej do wydawania dyspozycji wypłaty zaliczki na pokrycie kosztów powrotu klientów z imprezy turystycznej, o której mowa w ust. 4, środki z Turystycznego Funduszu Gwarancyjnego, o których mowa w ust. 5i, w zakresie niezbędnym do realizacji zadania określonego w ust. 5a. Marszałek województwa przedstawia Ubezpieczeniowemu Funduszowi Gwarancyjnemu pisemne rozliczenie środków z Turystycznego Funduszu Gwarancyjnego w terminie 60 dni od dnia otrzymania wypłaty pod rygorem obowiązku zwrotu środków.
+
+5k. W przypadku gdy zabezpieczenia finansowe, o których mowa w ust. 1 pkt 2 lit. a lub b, okażą się niewystarczające na dokonanie klientom zwrotu wpłat, o których mowa w ust. 1 pkt 2, podmiot udzielający tych zabezpieczeń, niezwłocznie po dokonaniu weryfikacji zgłoszeń klientów, przekazuje właściwemu marszałkowi województwa zgłoszenia zebrane od klientów, którzy nie otrzymali całości zwrotu wpłat, wraz z informacją dotyczącą wysokości wypłaconych tym klientom kwot z zabezpieczeń finansowych oraz z wyliczeniem kwot, których zabrakło na zwrot wpłat w stosunku do każdego klienta. Podmiot udzielający zabezpieczeń finansowych, o których mowa w ust. 1 pkt 2 lit. a lub b, przekazuje informacje o tych zgłoszeniach do Ubezpieczeniowego Funduszu Gwarancyjnego.
+
+5l. Ubezpieczeniowy Fundusz Gwarancyjny, niezwłocznie po otrzymaniu dyspozycji właściwego marszałka województwa lub wskazanej przez niego jednostki, wypłaca należne klientom środki zgodnie z otrzymaną dyspozycją, o czym informuje właściwego marszałka województwa oraz podmiot udzielający zabezpieczeń finansowych, o których mowa w ust. 1 pkt 2 lit. a lub b.
+
+5m. W przypadku gdy zabezpieczenie finansowe, o którym mowa w ust. 1 pkt 2 lit. c, okaże się niewystarczające na pokrycie kosztów powrotu klientów z imprezy turystycznej lub na dokonanie klientom zwrotu wpłat, o którym mowa w ust. 1 pkt 2, klient niezwłocznie informuje o tym właściwego marszałka województwa. Do wypłaty środków stosuje się odpowiednio ust. 5i, 5k i 5l. ” ;
+
+- **3)** w art. 7a ust. 4 otrzymuje brzmienie: „
+
+4. Obowiązki, o których mowa w art. 5 ust. 1–1b, nie mają zastosowania do przedsiębiorcy w okresie zawieszenia przez niego wykonywania działalności organizatora turystyki lub pośrednika turystycznego. ” ;
+
+- **4)** w art. 8: w ust. 1: – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) decyzji o wykreśleniu przedsiębiorcy z rejestru oraz o zakazie wykonywania działalności objętej wpisem do rejestru wydawanych na wniosek Ubezpieczeniowego Funduszu Gwarancyjnego; ” , – w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „ 9) oświadczeń o niewypłacalności przedsiębiorcy, o których mowa w art. 5 ust. 3e pkt 1, lub dyspozycji marszałka województwa, o których mowa w art. 5 ust. 3f. ” , w ust. 4 pkt 1 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **1)** wykreślonych z rejestru z urzędu lub na wniosek Ubezpieczeniowego Funduszu Gwarancyjnego i objętych zakazem wykonywania działalności objętej wpisem do rejestru; ” , po ust. 7c dodaje się ust. 7d-7h w brzmieniu: „
+    - **c)**
+
+7d. Każdy może żądać udzielenia informacji objętych wpisem do Ewidencji przez złożenie zapytania w dowolnej formie w odniesieniu do konkretnych przedsiębiorców.
+
+7e. Marszałek województwa ma prawo dostępu do informacji zawartych w Ewidencji, niezależnie od miejsca siedziby przedsiębiorcy, a w przypadku gdy przedsiębiorca jest osobą fizyczną – miejsca jego zamieszkania.
+
+7f. Ubezpieczeniowy Fundusz Gwarancyjny posiada dostęp do danych zawartych w Ewidencji i jest uprawniony do ich przetwarzania w zakresie niezbędnym do zapewnienia prawidłowego funkcjonowania Turystycznego Funduszu Gwarancyjnego, o którym mowa w rozdziale 2a.
+
+7g. Na wniosek jednostek turystycznego samorządu gospodarczego oraz organizacji zajmujących się ochroną praw konsumenta udostępnia się informacje zbiorcze zawarte w Ewidencji.
+
+7h. Dla celów naukowo-badawczych udostępnia się informacje zbiorcze zawarte w Ewidencji, bez wskazywania danych identyfikujących przedsiębiorców. ” ;
+
+- **5)** w art. 9 w ust. 3 po pkt 1 dodaje się pkt 1a w brzmieniu: „
+- **1a)** na wniosek Ubezpieczeniowego Funduszu Gwarancyjnego decyzje o wykreśleniu przedsiębiorcy z rejestru oraz o zakazie wykonywania działalności objętej wpisem do rejestru przez okres 3 lat – w wypadku rażącego naruszenia warunku wykonywania działalności, o którym mowa w art. 10a pkt 1a; ” ;
+- **6)** w art. 10a po pkt 1 dodaje się pkt 1a-1d w brzmieniu: „
+- **1a)** uchylanie się, mimo wezwania, od obowiązku terminowego składania deklaracji lub opłacania należnych składek do Turystycznego Funduszu Gwarancyjnego;
+- **1b)** uchylanie się, mimo wezwania, od obowiązku prowadzenia wykazu umów, o którym mowa w art. 5 ust. 1 pkt 4;
+- **1c)** zawieranie przez przedsiębiorcę kolejnych umów o imprezy turystyczne lub umów w zakresie pośredniczenia na zlecenie klientów w zawieraniu umów o świadczenie usług turystycznych i przyjmowanie od klientów wpłat na poczet tych umów mimo złożenia oświadczenia o niewypłacalności lub w przypadku wydania przez marszałka województwa dyspozycji wypłaty środków z zabezpieczeń finansowych, o których mowa w art. 5 ust. 1 pkt 2 lit. a, b i d, bez tego oświadczenia, zgodnie z art. 5 ust. 3f;
+- **1d)** zawieranie umów, o których mowa w art. 5 ust. 1 pkt 2 lit. a lub b, na kwoty zabezpieczenia finansowego niższe niż minimalne wysokości sum gwarancji bankowych lub ubezpieczeniowych lub minimalne sumy gwarancyjne ubezpieczeń obowiązkowych określone zgodnie z przepisami wydanymi na podstawie art. 10; ” ;
+- **7)** po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „
+
+#### Rozdział 2a Turystyczny Fundusz Gwarancyjny
 
 **Art. 10c.**
 
 1. Tworzy się Turystyczny Fundusz Gwarancyjny, zwany dalej „Funduszem”, stanowiący wyodrębniony rachunek w Ubezpieczeniowym Funduszu Gwarancyjnym, o którym mowa w rozdziale 7 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2013 r. poz. 392, z 2014 r. poz. 827 oraz z 2015 r. poz. 1273, 1691, 1844 i 2281).
 
 2. Ubezpieczeniowy Fundusz Gwarancyjny zapewnia obsługę Funduszu.
-
-**Art. 10d.**
 
 1. Środki Funduszu są gromadzone na wyodrębnionym rachunku bankowym Ubezpieczeniowego Funduszu Gwarancyjnego.
 
@@ -52,21 +161,17 @@ source: "isap-pdf"
 4. Ubezpieczeniowemu Funduszowi Gwarancyjnemu przysługuje prawo dochodzenia od przedsiębiorcy zwrotu wypłaconych kwot, o których mowa w art. 5 ust. 5j, 5l i 5m, w przypadku gdy:
 
 - **1)** po złożeniu oświadczenia o niewypłacalności, o którym mowa w art. 5 ust. 3e pkt 1, albo
-- **2)** po wydaniu przez marszałka województwa dyspozycji, o której mowa w art. 5 ust. 3f – przedsiębiorca w dalszym ciągu wykonuje działalność organizatora turystyki lub pośrednika turystycznego.
+- **2)** po wydaniu przez marszałka województwa dyspozycji, o której mowa w art. 5 ust. 3f przedsiębiorca w dalszym ciągu wykonuje działalność organizatora turystyki lub pośrednika turystycznego.
 
 5. Ubezpieczeniowemu Funduszowi Gwarancyjnemu przysługuje roszczenie do masy upadłości organizatora turystyki lub pośrednika turystycznego o zwrot wypłaconych środków, o których mowa w art. 10e ust. 1.
 
 6. Wierzytelności, o których mowa w ust. 5, Ubezpieczeniowy Fundusz Gwarancyjny może zgłaszać syndykowi do czasu prawomocnego wykonania planów podziału funduszu masy.
 
-**Art. 10e.**
-
-1. Środki Funduszu przeznacza się na pokrycie kosztów i zwrot wpłat, o których mowa w art. 5 ust. 1 pkt 2, w przypadku gdy środki finansowe pochodzące z zabezpieczeń finansowych, o których mowa w art. 5 ust. 1 pkt 2 lit. a–c, okażą się niewystarczające.
+1. Środki Funduszu przeznacza się na pokrycie kosztów i zwrot wpłat, o których mowa w art. 5 ust. 1 pkt 2, w przypadku gdy środki finansowe pochodzące z zabezpieczeń finansowych, o których mowa w art. 5 ust. 1 pkt 2 lit. a-c, okażą się niewystarczające.
 
 2. Ze środków Funduszu dokonuje się spłaty kredytów i pożyczek, o których mowa w art. 10d ust. 2 pkt 4, wraz z odsetkami i innymi kosztami obsługi kredytów i pożyczek. Spłata kredytów i pożyczek nie może być dokonywana ze środków Ubezpieczeniowego Funduszu Gwarancyjnego innych niż zgromadzone na rachunku, o którym mowa w art. 10d ust. 1.
 
 3. Ze środków Funduszu pokrywa się koszty związane z realizacją wypłat z Funduszu, o których mowa w ust. 1, oraz koszty jego obsługi przez Ubezpieczeniowy Fundusz Gwarancyjny. Roszczenia i zobowiązania Funduszu nie mogą być pokrywane ze środków Ubezpieczeniowego Funduszu Gwarancyjnego innych niż zgromadzone na rachunku, o którym mowa w art. 10d ust. 1.
-
-**Art. 10f.**
 
 1. Składka na Fundusz jest naliczana w wysokości nie wyższej niż 30 zł od każdego klienta z tytułu zawartej umowy o świadczenie usług turystycznych polegających na organizowaniu imprez turystycznych lub umowy w zakresie pośredniczenia na zlecenie klientów w zawieraniu umów o świadczenie usług turystycznych. Składka jest należna z dniem zawarcia umowy.
 
@@ -74,12 +179,10 @@ source: "isap-pdf"
 
 3. Minister właściwy do spraw turystyki w porozumieniu z ministrem właściwym do spraw instytucji finansowych, po zasięgnięciu opinii Ubezpieczeniowego Funduszu Gwarancyjnego, określi, w drodze rozporządzenia, wysokość składki na Fundusz, uwzględniając miejsce realizacji imprezy turystycznej i rodzaj zapewnianego środka transportu oraz potrzeby finansowe Funduszu związane z realizacją zadań wynikających z ustawy, przy czym minimalna stawka może być określona na poziomie 0 zł.
 
-**Art. 10g.**
-
 1. Podmioty obowiązane do naliczania i przekazywania składek na Fundusz bez wezwania:
 
 - **1)** obliczają kwotę należną z tytułu składki na rzecz Funduszu za okres jednego miesiąca i przekazują tę kwotę,
-- **2)** składają do Ubezpieczeniowego Funduszu Gwarancyjnego deklaracje, o których mowa w art. 5 ust. 1 pkt 5 – w terminie do 21. dnia miesiąca następującego po danym okresie.
+- **2)** składają do Ubezpieczeniowego Funduszu Gwarancyjnego deklaracje, o których mowa w art. 5 ust. 1 pkt 5 w terminie do 21. dnia miesiąca następującego po danym okresie.
 
 2. W przypadku niewykonania obowiązku terminowego składania deklaracji lub opłacania należnych składek Ubezpieczeniowy Fundusz Gwarancyjny wzywa pisemnie organizatora turystyki lub pośrednika turystycznego do złożenia deklaracji lub dokonania płatności, w terminie nie dłuższym niż 14 dni od dnia otrzymania wezwania. Po bezskutecznym upływie wyznaczonego terminu Ubezpieczeniowy Fundusz Gwarancyjny jest uprawniony do dochodzenia należnych składek wraz z odsetkami. Wezwanie jest wysyłane do wiadomości właściwego marszałka województwa.
 
@@ -91,20 +194,37 @@ source: "isap-pdf"
 
 6. Deklaracje, o których mowa w art. 5 ust. 1 pkt 5, mogą być składane za pomocą środków komunikacji elektronicznej.
 
-**Art. 10h.**
-
 1. Ubezpieczeniowy Fundusz Gwarancyjny, w terminie 30 dni od ostatniego dnia każdego kwartału, przekazuje kwartalną informację o wykorzystaniu środków Funduszu ministrowi właściwemu do spraw turystyki oraz ministrowi właściwemu do spraw instytucji finansowych.
 
-2. Minister właściwy do spraw turystyki w porozumieniu w ministrem właściwym do spraw instytucji finansowych określi, w drodze rozporządzenia, zakres kwartalnej informacji, o której mowa w ust. 1, uwzględniając wymogi kompletności informacji dotyczących funkcjonowania Funduszu.”;
+2. Minister właściwy do spraw turystyki w porozumieniu w ministrem właściwym do spraw instytucji finansowych określi, w drodze rozporządzenia, zakres kwartalnej informacji, o której mowa w ust. 1, uwzględniając wymogi kompletności informacji dotyczących funkcjonowania Funduszu. ” ;
 
-- **8)** w art. 14:
-    - **a)** w ust. 2 po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) wysokość składki do Funduszu, jeżeli dotyczy;”,
-    - **b)** ust. 4 otrzymuje brzmienie: „4. Organizator turystyki i pośrednik turystyczny wydają klientowi wpłacającemu należność z tytułu zawartej umowy lub zaliczkę przekraczającą 10% tej sumy pisemne potwierdzenie posiadania zabezpieczeń finansowych, o których mowa w art. 5 ust. 1 pkt 2, wraz ze wskazaniem sposobu ubiegania się o wypłatę środków z tych zabezpieczeń w przypadkach określonych ustawą.”;
+- **8)** w art. 14: w ust. 2 po pkt 5 dodaje się pkt 5a w brzmieniu: „
+    - **a)**
+
+- **5a)** wysokość składki do Funduszu, jeżeli dotyczy; ” , ust. 4 otrzymuje brzmienie: „
+    - **b)**
+
+4. Organizator turystyki i pośrednik turystyczny wydają klientowi wpłacającemu należność z tytułu zawartej umowy lub zaliczkę przekraczającą 10% tej sumy pisemne potwierdzenie posiadania zabezpieczeń finansowych, o których mowa w art. 5 ust. 1 pkt 2, wraz ze wskazaniem sposobu ubiegania się o wypłatę środków z tych zabezpieczeń w przypadkach określonych ustawą. ” ;
 
 - **9)** tytuł rozdziału 5a otrzymuje brzmienie: „Kary pieniężne i przepis karny”;
-- **10)** po art. 45c dodaje się art. 45d w brzmieniu: „Art. 45d. Kto zaniża wysokość należnej składki w deklaracji, o której mowa w art. 5 ust. 1 pkt 5, składanej do Ubezpieczeniowego Funduszu Gwarancyjnego, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.”.
+- **10)** po art. 45c dodaje się art. 45d w brzmieniu: „
+
+**Art. 45d.** Kto zaniża wysokość należnej składki w deklaracji, o której mowa w art. 5 ust. 1 pkt 5, składanej do Ubezpieczeniowego Funduszu Gwarancyjnego, podlega karze pozbawienia wolności od 3 miesięcy do lat 5. ” .
 
 **Art. 2.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2013 r. poz. 392, z 2014 r. poz. 827 oraz z 2015 r. poz. 1273, 1691, 1844 i 2281) wprowadza się następujące zmiany:
+
+- **1)** po art. 98 dodaje się art. 98a w brzmieniu: „
+
+**Art. 98a.** Fundusz wykonuje zadania, o których mowa w ustawie z dnia 29 sierpnia 1997 r. o usługach turystycznych (Dz. U. z 2016 r. poz. 187 i 1334). ” ;
+
+- **2)** w art. 119: po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+
+1a. Fundusz w rocznym sprawozdaniu z działalności, o którym mowa w ust. 1, przedstawia wyodrębnioną informację dotyczącą funkcjonowania i działalności Turystycznego Funduszu Gwarancyjnego, o którym mowa w art. 10c ustawy z dnia 29 sierpnia 1997 r. o usługach turystycznych. ” , ust. 3 otrzymuje brzmienie: „
+
+- **b)**
+
+3. Zatwierdzone przez Zgromadzenie Członków Funduszu sprawozdanie, o którym mowa w ust. 1, Fundusz przedstawia ministrowi właściwemu do spraw instytucji finansowych, ministrowi właściwemu do spraw turystyki oraz organowi nadzoru. ” .
 
 **Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 8 ust. 8 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 8 ust. 8 ustawy zmienianej w art. 1, jednak nie dłużej niż przez 3 miesiące od dnia wejścia w życie niniejszej ustawy.
 
@@ -118,9 +238,9 @@ source: "isap-pdf"
 
 - **1)** pokrycia kosztów powrotu klientów z imprezy turystycznej do miejsca wyjazdu lub planowanego powrotu z imprezy turystycznej, w wypadku gdy organizator turystyki lub pośrednik turystyczny, wbrew obowiązkowi, nie zapewnia tego powrotu,
 - **2)** zwrotu wpłat wniesionych tytułem zapłaty za imprezę turystyczną, w wypadku gdy z przyczyn dotyczących organizatora turystyki lub pośrednika turystycznego oraz osób, które działają w ich imieniu, impreza turystyczna nie została lub nie zostanie zrealizowana,
-- **3)** zwrotu części wpłat wniesionych tytułem zapłaty za imprezę turystyczną, odpowiadającą części imprezy turystycznej, która nie została lub nie zostanie zrealizowana z przyczyn dotyczących organizatora turystyki lub pośrednika turystycznego oraz osób, które działają w ich imieniu – w przypadku pośrednika turystycznego lub organizatora turystyki, który przed dniem wejścia w życie niniejszej ustawy zawarł umowę o świadczenie usług turystycznych polegających na organizowaniu imprez turystycznych lub umowę w zakresie pośredniczenia na zlecenie klientów w zawieraniu umów o świadczenie usług turystycznych, a po dniu wejścia w życie niniejszej ustawy złożył oświadczenie o niewypłacalności, stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+- **3)** zwrotu części wpłat wniesionych tytułem zapłaty za imprezę turystyczną, odpowiadającą części imprezy turystycznej, która nie została lub nie zostanie zrealizowana z przyczyn dotyczących organizatora turystyki lub pośrednika turystycznego oraz osób, które działają w ich imieniu w przypadku pośrednika turystycznego lub organizatora turystyki, który przed dniem wejścia w życie niniejszej ustawy zawarł umowę o świadczenie usług turystycznych polegających na organizowaniu imprez turystycznych lub umowę w zakresie pośredniczenia na zlecenie klientów w zawieraniu umów o świadczenie usług turystycznych, a po dniu wejścia w życie niniejszej ustawy złożył oświadczenie o niewypłacalności, stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 6.** Organizator turystyki lub pośrednik turystyczny uwzględnia w wykazie umów, o którym mowa w art. 5 ust. 1 pkt 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, także umowy zawarte i niezrealizowane do dnia wejścia w życie niniejszej ustawy.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem przepisów art. 1 pkt 1, pkt 2 lit. d w zakresie ust. 3e pkt 1 i ust. 3f, pkt 2 lit. e i f, pkt 4 lit. a tiret drugie i lit. c, pkt 7 w zakresie art. 10c–10e oraz art. 2–5, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem przepisów art. 1 pkt 1, pkt 2 lit. d w zakresie ust. 3e pkt 1 i ust. 3f, pkt 2 lit. e i f, pkt 4 lit. a tiret drugie i lit. c, pkt 7 w zakresie art. 10c-10e oraz art. 2–5, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
 

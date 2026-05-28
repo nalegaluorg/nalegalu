@@ -8,12 +8,10 @@ pos: 1413
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy o kontroli skarbowej oraz o zmianie niektórych innych ustaw
-
-*USTAWA z dnia 22 września 2006 r.*
+# Ustawa z dnia 22 września 2006 r. o zmianie ustawy o kontroli skarbowej oraz o zmianie niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,16 +22,180 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2006-09-22 |
 | Data wydania | 2006-10-20 |
+| Wejście w życie | 2006-11-11 |
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061911413) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1413/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2004 r. Nr 8, poz. 65, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2004 r. Nr 8, poz. 65, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. Nr 83, poz. 930, z późn. zm. ) art. 16a otrzymuje brzmienie: skarbowe, kto złożył prawnie skuteczną, rozumieniu przepisów ustawy - Ordynacja podatkowa lub ustawy z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2004 r. Nr 8, poz. 65, z późn. zm. ), korektę deklaracji podatkowej wraz z uzasadnieniem przyczyny korekty i całości uiścił, niezwłocznie lub terminie wyznaczonym przez uprawniony organ, należność publicznoprawną uszczuploną lub narażoną na uszczuplenie.”.
+- **1)** w art. 2: w ust. 1 pkt 12 otrzymuje brzmienie: „
+    - **a)**
 
-**Art. 3.** W ustawie z dnia 12 czerwca 2003 r. – Prawo pocztowe (Dz. U. Nr 130, poz. 1188, z późn. zm. ) art. 41:
+- **12)** kontrola zgodności z prawem przywozu na terytorium Rzeczypospolitej Polskiej towarów dopuszczonych do obrotu lub mających inne przeznaczenie celne oraz wywozu towarów poza terytorium Rzeczypospolitej Polskiej, kontrola obrotu towarami pochodzenia zagranicznego, a także kontrola i ujawnianie towarów nielegalnie wprowadzonych na terytorium Rzeczypospolitej Polskiej; ” , dodaje się ust. 3 w brzmieniu: „
+    - **b)**
 
-**Art. 4.** Postępowania kontrolne sprawach, o których mowa art. 2 ust. 1 pkt 16 ustawy wymienionej art. 1, wszczęte przed dniem wejścia życie niniejszej ustawy prowadzi się według przepisów dotychczasowych.
+3. Celem kontroli resortowej jest kontrola działalności jednostek organizacyjnych, o których mowa w ust. 1 pkt 15, w szczególności w zakresie prawidłowości ustalania lub określania zobowiązań podatkowych, poboru podatków i niepodatkowych należności budżetu państwa oraz gospodarowania środkami publicznymi. ” ;
 
-**Art. 5.** Ustawa wchodzi życie po upływie 21 dni od dnia ogłoszenia.
+- **2)** w art. 3 pkt 4 otrzymuje brzmienie: „
+- **4)** rozpoznawanie i zwalczanie przestępstw i wykroczeń związanych z obrotem z zagranicą towarami i technologiami objętymi kontrolą międzynarodową, naruszających prawa ochrony dóbr kultury narodowej, narodowego zasobu archiwalnego i ochrony własności intelektualnej, polegających na wprowadzaniu na terytorium Rzeczypospolitej Polskiej i wyprowadzaniu z niego środków płatniczych pochodzących z przestępstw, a także ściganych na mocy umów i porozumień międzynarodowych, oraz zapobieganie tym przestępstwom i wykroczeniom; ” ;
+- **3)** w art. 10: w ust. 2 po pkt 1 dodaje się pkt 1a w brzmieniu: „
+    - **a)**
+
+- **1a)** sprawuje kontrolę resortową; ” , ust. 3 otrzymuje brzmienie: „
+    - **b)**
+
+3. Generalny Inspektor Kontroli Skarbowej wykonuje zadania określone w ustawie przy pomocy komórek organizacyjnych wyodrębnionych w tym celu w strukturze urzędu obsługującego ministra właściwego do spraw finansów publicznych, z zastrzeżeniem art. 14b ust. 5, oraz koordynuje ich prace. ” ;
+
+- **4)** art. 14b otrzymuje brzmienie: „
+
+**Art. 14b.**
+
+1. Kontrola resortowa jest prowadzona w trybie określonym w przepisach działu VI ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że nie stosuje się art. 281, art. 281a, art. 284b-285a, art. 286 § 2, art. 286a, art. 288 oraz art. 291 § 1 i 4 tej ustawy.
+
+2. W sprawach, o których mowa w art. 2 ust. 1 pkt 15, nie stosuje się art. 12, art. 13 ust. 8–10, art. 13b, art. 24 ust. 2 oraz art. 32.
+
+3. Kontrolowany, który nie zgadza się z ustaleniami protokołu kontroli, o którym mowa w art. 290 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, może, w terminie 7 dni od dnia jego doręczenia, przedstawić zastrzeżenia lub wyjaśnienia, wskazując równocześnie stosowne wnioski dowodowe.
+
+4. Kontrola zostaje zakończona w dniu doręczenia wyniku kontroli kontrolowanemu.
+
+5. Uprawnieni do wykonywania czynności kontrolnych są inspektorzy lub pracownicy zatrudnieni w wyodrębnionych komórkach, o których mowa w art. 10 ust. 3, oraz w urzędach kontroli skarbowej, na podstawie upoważnienia, o którym mowa w art. 13 ust. 4, wydanego przez Generalnego Inspektora Kontroli Skarbowej.
+
+6. Minister właściwy do spraw finansów publicznych określi, w drodze zarządzenia, organizację kontroli resortowej. ” ;
+
+- **5)** po art. 14b dodaje się art. 14c w brzmieniu: „
+
+1. Uprawnienie do skorygowania deklaracji, określone w art. 81 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ulega zawieszeniu na czas trwania postępowania kontrolnego w zakresie objętym tym postępowaniem, z zastrzeżeniem ust. 2.
+
+2. Kontrolowany może, w terminie 14 dni od dnia doręczenia protokołu kontroli, o którym mowa w art. 290 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, skorygować w zakresie objętym postępowaniem kontrolnym uprzednio złożoną deklarację podatkową.
+
+3. Na możliwość skorygowania deklaracji kontrolujący wskazuje w protokole kontroli.
+
+4. Korekta złożona w przypadku, o którym mowa w ust. 1, nie wywołuje skutków prawnych, z wyjątkiem korekty złożonej zgodnie z ust. 2.
+
+5. Uprawnienie do skorygowania deklaracji przysługuje nadal po zakończeniu postępowania kontrolnego w zakresie nieobjętym decyzją określającą wysokość zobowiązania podatkowego.
+
+6. Kontrolowany ma obowiązek, nie później niż w terminie 3 dni, zawiadomić organ kontroli skarbowej o złożeniu do właściwego organu podatkowego korygującej deklaracji zgodnie z ust. 2 oraz w pisemnym uzasadnieniu przyczyn korekty wskazać w szczególności, że korekta deklaracji jest związana z postępowaniem kontrolnym prowadzonym przez organ kontroli skarbowej.
+
+7. Organ podatkowy niezwłocznie informuje właściwy organ kontroli skarbowej o złożeniu korygującej deklaracji zgodnie z ust. 2. ” ;
+
+- **6)** w art. 24 w ust. 1 w pkt 2 lit. b otrzymuje brzmienie: „ innych niż wymienione w pkt 1, w szczególności w zakresie oświadczeń o stanie majątkowym, gdy nieprawidłowości nie stwierdzono albo gdy ustalenia dotyczą należności przywozowych lub należności wywozowych oraz gdy kontrolowany złożył zgodnie z art. 14c ust. 2 korygującą deklarację obejmującą w całości stwierdzone nieprawidłowości; ” ;
+    - **b)**
+
+- **7)** w art. 27 w ust. 2a pkt 1 otrzymuje brzmienie: „
+- **1)** należności przywozowych lub należności wywozowych – doręcza się właściwemu dla kontrolowanego organowi celnemu; ” ;
+- **8)** w art. 31: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. W zakresie nieuregulowanym w ustawie do postępowania kontrolnego stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z wyłączeniem art. 54 i art. 290 § 3 tej ustawy, z zastrzeżeniem art. 14b ust. 1. ” , uchyla się ust. 1a;
+
+- **b)**
+- **9)** w art. 34: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Informacje gromadzone i przetwarzane w ramach kontroli skarbowej stanowią tajemnicę skarbową. ” , po ust. 1 dodaje się ust. 1a-1c w brzmieniu: „
+
+- **b)**
+
+1a. Generalny Inspektor Kontroli Skarbowej może wyrazić zgodę na ujawnienie przez dyrektorów urzędów kontroli skarbowej oraz kierowników komórek organizacyjnych, o których mowa w art. 10 ust. 3, określonych informacji stanowiących tajemnicę skarbową, z wyłączeniem informacji stanowiących tajemnicę inną niż skarbowa i objętych ochroną na podstawie odrębnych ustaw, wskazując jednocześnie sposób udostępnienia i wykorzystania ujawnianych informacji.
+
+1b. Wyrażenie zgody, o której mowa w ust. 1a, może nastąpić wyłącznie ze względu na ważny interes publiczny oraz gdy jest to konieczne dla osiągnięcia celów kontroli skarbowej lub jeżeli ujawnienie tych informacji urzeczywistni prawo obywateli do ich rzetelnego informowania o działaniach kontroli skarbowej i jawności życia publicznego.
+
+1c. Wyrażenie zgody, o której mowa w ust. 1a, następuje w formie pisemnej, na uzasadniony wniosek dyrektora urzędu kontroli skarbowej lub kierownika komórki organizacyjnej, o której mowa w art. 10 ust. 3. ” ;
+
+- **10)** w art. 34b w ust. 3 po pkt 4a dodaje się pkt 4b w brzmieniu: „
+- **4b)** służbom statystyki publicznej w zakresie wynikającym z programu badań statystycznych statystyki publicznej; ” ;
+- **11)** w art. 36 ust. 2 otrzymuje brzmienie: „
+
+2. Przeprowadzanie czynności wywiadu skarbowego polega, z zachowaniem ograniczeń wynikających z art. 36aa-36h na uzyskiwaniu, gromadzeniu, przetwarzaniu i wykorzystywaniu informacji o dochodach, obrotach, rzeczach i prawach majątkowych podmiotów podlegających kontroli skarbowej w celu wykonania zadań, o których mowa w art. 2 ust. 1 pkt 1, 2, 12 i 14 oraz w ust. 2, a także w art. 3 pkt 4 i 5. ” ;
+
+- **12)** po art. 36a dodaje się art. 36aa w brzmieniu: „ Art. 36aa.
+
+1. W ramach czynności operacyjno-rozpoznawczych pracownicy wywiadu skarbowego mają prawo do obserwowania i rejestrowania przy użyciu środków technicznych obrazu zdarzeń w miejscach publicznych oraz dźwięku towarzyszącego tym zdarzeniom – wyłącznie w toku czynności podejmowanych w celu ustalenia sprawców oraz uzyskania i utrwalenia dowodów przestępstw skarbowych lub przestępstw, o których mowa w art. 3 pkt 4 i 5.
+
+2. Czynności, o których mowa w ust. 1, powinny być wykonywane w sposób możliwie najmniej naruszający dobra osoby, wobec której zostały podjęte.
+
+3. Na sposób prowadzenia czynności, o których mowa w ust. 1, osobie, wobec której były one stosowane, przysługuje, w ciągu 7 dni od dnia powzięcia wiadomości o ich stosowaniu, zażalenie do Prokuratora Generalnego. ” ;
+
+- **13)** art. 36b otrzymuje brzmienie: „
+
+1. Dane identyfikujące: abonenta, zakończenia sieci lub urządzenia telekomunikacyjne, między którymi wykonano połączenie, oraz dane dotyczące uzyskania lub próby uzyskania połączenia między określonymi urządzeniami telekomunikacyjnymi lub zakończeniami sieci, a także okoliczności i rodzaj wykonywanego połączenia, w szczególności dane transmisyjne i dane o lokalizacji, posiadane przez przedsiębiorców telekomunikacyjnych, są przez nich udostępniane wywiadowi skarbowemu oraz przetwarzane przez wywiad skarbowy – wyłącznie w celu ustalenia sprawców oraz uzyskania i utrwalenia dowodów przestępstw skarbowych lub przestępstw, o których mowa w art. 3 pkt 4 i 5.
+
+2. Ujawnienie danych, o których mowa w ust. 1, następuje na pisemny wniosek:
+
+- **1)** Generalnego Inspektora Kontroli Skarbowej;
+- **2)** pracownika wywiadu skarbowego posiadającego pisemne upoważnienie Generalnego Inspektora Kontroli Skarbowej do występowania w jego imieniu o ujawnienie danych, o których mowa w ust. 1.
+
+3. Podmiot, o którym mowa w ust. 2, informację o wystąpieniu z wnioskiem przekazuje niezwłocznie ministrowi właściwemu do spraw finansów publicznych. Minister właściwy do spraw finansów publicznych w każdej chwili może zażądać od Generalnego Inspektora Kontroli Skarbowej informacji o przyczynach uzasadniających wystąpienie z wnioskiem, a także o sposobie wykorzystania danych uzyskanych od przedsiębiorcy telekomunikacyjnego.
+
+4. Minister właściwy do spraw finansów publicznych nakazuje niezwłoczne, komisyjne i protokolarne zniszczenie danych uzyskanych od przedsiębiorcy telekomunikacyjnego, w przypadku gdy uzna wystąpienie z wnioskiem, o którym mowa w ust. 2, za nieuzasadnione.
+
+5. Ujawnienie danych, o których mowa w ust. 1, może nastąpić za pomocą sieci telekomunikacyjnej w sposób zabezpieczający je przed dostępem osób nieuprawnionych.
+
+6. Udostępnianie wywiadowi skarbowemu danych, o których mowa w ust. 1, następuje na koszt przedsiębiorcy telekomunikacyjnego. ” ;
+
+- **14)** w art. 36c: uchyla się ust. 3, ust. 8–10 otrzymują brzmienie: „
+    - **a)**
+    - **b)**
+
+8. Do wniosków, o których mowa w ust. 2, 6 i 7, stosuje się odpowiednio ust. 5. Sąd może zapoznać się z materiałami operacyjnymi uzasadniającymi wniosek o zastosowanie kontroli operacyjnej przed wydaniem postanowienia, o którym mowa w ust. 2, 6 lub 7.
+
+9. Wnioski, o których mowa w ust. 1, 2, 6 i 7, Sąd rozpoznaje na posiedzeniu, jednoosobowo, przy czym czynności Sądu związane z rozpoznawaniem tych wniosków są wykonywane w warunkach przewidzianych dla przekazywania, przechowywania i udostępniania informacji niejawnych oraz z odpowiednim zastosowaniem przepisów wydanych na podstawie art. 181 § 2 Kodeksu postępowania karnego. W posiedzeniu Sądu może wziąć udział wyłącznie Prokurator Generalny lub upoważniony przez niego prokurator oraz przedstawiciel Generalnego Inspektora Kontroli Skarbowej.
+
+10. Przedsiębiorcy telekomunikacyjni oraz operatorzy pocztowi są obowiązani do zapewnienia na własny koszt warunków technicznych i organizacyjnych umożliwiających prowadzenie przez wywiad skarbowy kontroli operacyjnej. ” , ust. 14 otrzymuje brzmienie: „
+
+- **c)**
+
+14. Na postanowienia Sądu, o których mowa w ust. 1, 2, 6 i 7, przysługuje zażalenie Generalnemu Inspektorowi Kontroli Skarbowej. Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego. ” , uchyla się ust. 15 i 16;
+
+- **d)**
+- **15)** po art. 36c dodaje się art. 36ca w brzmieniu: „
+
+1. W ramach czynności operacyjno-rozpoznawczych podejmowanych przez wywiad skarbowy w celu wykrycia, ustalenia sprawców oraz uzyskania i utrwalenia dowodów przestępstw, o których mowa w art. 36c ust. 1, Generalny Inspektor Kontroli Skarbowej może zarządzić niejawne nadzorowanie wytwarzania, przemieszczania i przechowywania przedmiotów przestępstwa oraz obrotu nimi, jeżeli nie stworzy to zagrożenia dla życia lub zdrowia ludzkiego oraz jeżeli inne środki okazały się bezskuteczne lub zachodzi wysokie prawdopodobieństwo, że będą nieskuteczne lub nieprzydatne.
+
+2. O zarządzeniu, o którym mowa w ust. 1, Generalny Inspektor Kontroli Skarbowej zawiadamia niezwłocznie Prokuratora Generalnego, który może nakazać zaniechanie tych czynności w każdym czasie.
+
+3. Generalny Inspektor Kontroli Skarbowej na bieżąco informuje Prokuratora Generalnego o wynikach przeprowadzonych czynności.
+
+4. Stosownie do zarządzenia, o którym mowa w ust. 1, organy i instytucje publiczne oraz przedsiębiorcy są obowiązani dopuścić do dalszego przewozu przesyłki zawierające przedmioty przestępstwa w stanie nienaruszonym lub po ich usunięciu albo zastąpieniu w całości lub w części.
+
+5. Minister właściwy do spraw finansów publicznych w porozumieniu z Ministrem Sprawiedliwości określi, w drodze rozporządzenia, sposób przeprowadzania i dokumentowania czynności, o których mowa w ust. 1, oraz wzory stosowanych druków i rejestrów, uwzględniając potrzebę zapewnienia niejawnego charakteru podejmowanych czynności i uzyskanych materiałów. ” ;
+
+- **16)** art. 36d otrzymuje brzmienie: „
+
+1. Materiały uzyskane w czasie prowadzenia czynności wywiadu skarbowego, w tym materiały zgromadzone podczas stosowania kontroli operacyjnej lub niejawnego nadzorowania wytwarzania, przemieszczania, przechowywania i obrotu przedmiotami przestępstwa, które:
+
+- **1)** zawierają informacje mające znaczenie dla postępowania kontrolnego lub postępowania w sprawach o przestępstwa skarbowe lub wykroczenia skarbowe, przekazywane są właściwemu miejscowo organowi kontroli skarbowej, w razie potrzeby z wnioskiem o wszczęcie postępowania kontrolnego lub postępowania w sprawie o przestępstwo skarbowe lub wykroczenie skarbowe;
+- **2)** zawierają dowody pozwalające na wszczęcie albo mające znaczenie dla postępowania w sprawach o przestępstwa i wykroczenia, Generalny Inspektor Kontroli Skarbowej przekazuje właściwemu prokuratorowi, w razie potrzeby z wnioskiem o wszczęcie postępowania w sprawach o przestępstwo lub wykroczenie.
+
+2. W postępowaniu przed Sądem, w odniesieniu do materiałów zgromadzonych podczas stosowania kontroli operacyjnej lub niejawnego nadzorowania wytwarzania, przemieszczania i przechowywania przedmiotów przestępstwa oraz obrotu nimi, stosuje się odpowiednio art. 393 § 1 zdanie pierwsze Kodeksu postępowania karnego.
+
+3. Materiały uzyskane w wyniku czynności podjętych na podstawie art. 36aa ust. 1, art. 36b ust. 1, art. 36c ust. 1 i 2 lub art. 36ca ust. 1 niezawierające informacji lub dowodów pozwalających na wszczęcie albo niemające znaczenia dla postępowania kontrolnego, postępowania w sprawach o przestępstwa skarbowe lub wykroczenia skarbowe albo postępowania w sprawach o przestępstwa i wykroczenia podlegają niezwłocznemu, komisyjnemu i protokolarnemu zniszczeniu.
+
+4. Zniszczenie, o którym mowa w ust. 3, zarządza:
+
+- **1)** kierownik komórki organizacyjnej urzędu obsługującego ministra właściwego do spraw finansów publicznych właściwej w sprawach wywiadu skarbowego – w odniesieniu do materiałów uzyskanych w wyniku czynności podjętych na podstawie art. 36aa ust. 1 i art. 36b ust. 1;
+- **2)** Generalny Inspektor Kontroli Skarbowej – w odniesieniu do materiałów uzyskanych w wyniku czynności podjętych na podstawie art. 36c ust. 1 i 2 i art. 36ca ust. 1. ” ;
+- **17)** w art. 36e ust. 1 otrzymuje brzmienie: „
+
+1. Informacje uzyskane w czasie prowadzenia czynności operacyjno-rozpoznawczych lub czynności podejmowanych na podstawie art. 36b ust. 1 mogą być wykorzystywane przez organy i jednostki organizacyjne kontroli skarbowej dla celów postępowania kontrolnego lub postępowania w sprawach o przestępstwo skarbowe lub o wykroczenie skarbowe. ” ;
+
+- **18)** w art. 36j ust. 1 otrzymuje brzmienie: „
+
+1. Udostępnianie informacji o osobie, uzyskanych w czasie wykonywania czynności operacyjno-rozpoznawczych oraz na podstawie art. 36b ust. 1 i art. 36f ust. 2, jest dozwolone wyłącznie na żądanie sądu lub prokuratora, a także Szefa Krajowego Centrum Informacji Kryminalnych, a wykorzystanie tych informacji może nastąpić tylko w celu wszczęcia lub prowadzenia postępowania w sprawach o przestępstwa i wykroczenia. ” .
+
+**Art. 2.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. Nr 83, poz. 930, z późn. zm.) art. 16a otrzymuje brzmienie: „
+
+**Art. 16a.** Nie podlega karze za przestępstwo skarbowe lub wykroczenie skarbowe, kto złożył prawnie skuteczną, w rozumieniu przepisów ustawy – Ordynacja podatkowa lub ustawy z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2004 r. Nr 8, poz. 65, z późn. zm.), korektę deklaracji podatkowej wraz z uzasadnieniem przyczyny korekty i w całości uiścił, niezwłocznie lub w terminie wyznaczonym przez uprawniony organ, należność publicznoprawną uszczuploną lub narażoną na uszczuplenie. ” .
+
+**Art. 3.** W ustawie z dnia 12 czerwca 2003 r. – Prawo pocztowe (Dz. U. Nr 130, poz. 1188, z późn. zm.) w art. 41:
+
+- **1)** ust. 2 otrzymuje brzmienie: „
+
+2. Obowiązek, o którym mowa w ust. 1, obejmuje nieodpłatne zapewnienie przez operatora, w ramach wykonywanej przez siebie działalności pocztowej, technicznych i organizacyjnych możliwości wykonywania przez prokuraturę, sądy, organy kontroli skarbowej, a także uprawnione jednostki podległe Ministrowi Sprawiedliwości, Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych, Szefowi Agencji Bezpieczeństwa Wewnętrznego i Szefowi Centralnego Biura Antykorupcyjnego ich zadań określonych odrębnymi przepisami, począwszy od dnia rozpoczęcia działalności pocztowej. Na wniosek zainteresowanego operatora Prezes UKE może odroczyć termin rozpoczęcia wykonywania powyższego obowiązku. ” ;
+
+- **2)** w ust. 3 zdanie wstępne otrzymuje brzmienie: „ Minister właściwy do spraw łączności, w porozumieniu z Ministrem Sprawiedliwości, Ministrem Obrony Narodowej, ministrem właściwym do spraw wewnętrznych, ministrem właściwym do spraw finansów publicznych, po zasięgnięciu opinii Szefa Agencji Bezpieczeństwa Wewnętrznego i Szefa Centralnego Biura Antykorupcyjnego, określi, w drodze rozporządzenia: ” .
+
+**Art. 4.** Postępowania kontrolne w sprawach, o których mowa w art. 2 ust. 1 pkt 16 ustawy wymienionej w art. 1, wszczęte przed dniem wejścia w życie niniejszej ustawy prowadzi się według przepisów dotychczasowych.
+
+**Art. 5.** Ustawa wchodzi w życie po upływie 21 dni od dnia ogłoszenia.
 

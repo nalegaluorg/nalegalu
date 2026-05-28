@@ -8,10 +8,10 @@ pos: 1258
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 czerwca 2018 Poz. 1258 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI dnia 21 czerwca 2018 sprawie uposażeń sędziów stanie spoczynku uposażeń rodzinnych członków rodzin sędziów sędziów stanie spoczynku oraz terminów przekazania Zakładu Ubezpieczeń Społecznych składek na ubezpieczenie społeczne Na podstawie art. 103 dnia 27 lipca 2001 – Prawo o ustroju sądów powszechnych (Dz. 2018 23, późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa sposób tryb ustalania wypłacania uposażeń sędziom stanie spoczynku oraz uposażeń rodzinnych członkom rodzin sędziów sędziów stanie spoczynku oraz terminy przekazania Zakładu Ubezpieczeń Społecznych składek, o których mowa art. 91 § 10 11 dnia 27 lipca 2001 – Prawo o ustroju sądów powszechnych.
+# Rozporządzenie Ministra Sprawiedliwościz dnia 21 czerwca 2018 r. w sprawie uposażeń sędziów w stanie spoczynku i uposażeń rodzinnych członków rodzin sędziów i sędziów w stanie spoczynku oraz terminów przekazania do Zakładu Ubezpieczeń Społecznych składek na ubezpieczenie społeczne
 
 | Pole | Wartość |
 |---|---|
@@ -22,37 +22,76 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-06-21 |
 | Data wydania | 2018-06-28 |
+| Wejście w życie | 2018-06-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001258) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1258/text.pdf) |
 
-§ 2. Ilekroć rozporządzeniu jest mowa o osobie uprawnionej, rozumie się przez to:
-1) sędziego stanie spoczynku;
-2) członka rodziny zmarłego sędziego sędziego stanie spoczynku, spełniającego warunki wymagane uzyskania renty rodzinnej na podstawie przepisów dnia 17 grudnia 1998 o emeryturach rentach Funduszu Ubezpieczeń Społecznych (Dz. 1383, późn. zm. );
-3) byłego sędziego, o którym mowa art. 200 § 3 dnia 27 lipca 2001 – Prawo o ustroju sądów powszechnych.
-§ 3. 1. Uposażenie oraz uposażenie rodzinne wypłaca sąd, którym sędzia otrzymywał ostatnio wynagrodzenie uposażenie.
-2. W przypadku zniesienia sądu, o którym mowa ust. 1, sądem właściwym ustalania wypłaty uposażenia uposażenia rodzinnego jest sąd, który przejął kompetencje sądu zniesionego.
-3. W przypadku braku możliwości ustalenia sądu właściwego na podstawie ust. 2, Minister Sprawiedliwości wskaże inny sąd właściwy ustalania wypłaty uposażenia uposażenia rodzinnego.
-§ 4. 1. Uposażenie oraz uposażenie rodzinne wypłaca się poczynając od dnia powstania prawa tych świadczeń, przy czym odnośnie uposażenia rodzinnego nie wcześniej jednak niż od miesiąca, którym złożono wniosek o wypłatę uposażenia rodzinnego.
-2. W razie złożenia wniosku o wypłatę uposażenia rodzinnego miesiącu przypadającym bezpośrednio po miesiącu, którym nastąpiła śmierć sędziego sędziego stanie spoczynku, uposażenie rodzinne wypłaca się od dnia śmierci, nie wcześniej jednak niż od dnia spełnienia warunków świadczenia przez osoby uprawnione.
-Dziennik Ustaw – 2 – Poz. 1258 § 5. 1. Wszystkim uprawnionym członkom rodziny zmarłego sędziego sędziego stanie spoczynku przysługuje jedno łączne uposażenie rodzinne.
-2. Uposażenie rodzinne podlega podziałowi na równe części między osoby, o których mowa ust. 1.
-3. W razie ujawnienia okoliczności powodujących konieczność dokonania podziału uposażenia rodzinnego po raz pierwszy zmiany warunków dotychczasowego podziału świadczenia ze względu na zmianę liczby osób uprawnionych dokonuje się podziału świadczenia od miesiąca ujawnienia tych okoliczności.
-§ 6. 1. Osoba ubiegająca się o wypłatę uposażenia rodzinnego składa sądzie, o którym mowa § 3, wniosek o wypłatę tego uposażenia.
-2. Do wniosku należy dołączyć dokumenty potwierdzające spełnienie warunków wymaganych uzyskania renty rodzinnej, określone przepisach wydanych na podstawie art. 116 ust. 5 dnia 17 grudnia 1998 o emeryturach rentach Funduszu Ubezpieczeń Społecznych.
-§ 7. 1. Uposażenie oraz uposażenie rodzinne wypłaca się osobie uprawnionej formie pieniężnej, raz miesiącu, dołu, terminie wypłat wynagrodzenia.
-2. Wypłata uposażenia uposażenia rodzinnego inny sposób może być dokonana na pisemny wniosek osoby uprawnionej.
-3. Wypłaty uposażenia uposażenia rodzinnego dokonuje się:
-1) rąk własnych osoby uprawnionej;
-2) na wniosek osoby uprawnionej:
-a) na jej rachunek płatniczy jej rachunek banku spółdzielczej kasie oszczędnościowo-kredytowej, inny niż rachunek płatniczy albo
-b) rąk osoby uprawnionej za pośrednictwem operatora pocztowego rozumieniu dnia 23 listopada 2012 – Prawo pocztowe (Dz. 1481 oraz 2018 106, 138, 650 1118).
-§ 8. Sąd, o którym mowa § 3, zawiadamia na piśmie osoby uprawnione o wysokości należnego im danym roku uposażenia uposażenia rodzinnego, o dacie wypłaty oraz o miejscu wypłaty dokonywanej sposób określony § 7 ust. 3 pkt 1.
-§ 9. Na wniosek osoby uprawnionej, zamieszkałej poza okręgiem sądu, o którym mowa § 3, sąd ten powierza dokonywanie wypłaty uposażenia uposażenia rodzinnego sposób określony § 7 ust. 3 pkt 1 oraz dokonywanie zawiadomień, o których mowa § 8, sądowi, którego okręgu osoba uprawniona ma miejsce zamieszkania.
-§ 10. W razie rozwiązania albo wygaśnięcia stosunku służbowego sędziego sposób określony art. 68 dnia 27 lipca 2001 – Prawo o ustroju sądów powszechnych, zwaloryzowaną składkę na ubezpieczenie społeczne, o której mowa art. 91 § 10 11 ustawy, przekazuje się Zakładu Ubezpieczeń Społecznych terminie 60 dni od dnia rozwiązania albo wygaśnięcia stosunku służbowego.
-§ 11. 1. Sądy, które dokonują wypłaty uposażenia uposażenia rodzinnego osobom uprawnionym na dzień wejścia życie niniejszego rozporządzenia, pozostają sądami właściwymi ustalania wypłaty świadczeń dla tych osób.
-2. Urząd obsługujący Ministra Sprawiedliwości pozostaje właściwy ustalania wypłaty:
-1) uposażenia sędziom, którzy dnia 31 grudnia 2008 przeszli stan spoczynku okresie delegowania pełnienia czynności administracyjnych Ministerstwie Sprawiedliwości,
-2) uposażenia rodzinnego członkom rodzin sędziów, o których mowa pkt 1.
-§ 12. Rozporządzenie wchodzi życie dniem następującym po dniu ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro
+Treść rozporządzenia
+Na podstawie art. 103 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2018 r. poz. 23, z późn. zm.) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa sposób i tryb ustalania i wypłacania uposażeń sędziom w stanie spoczynku oraz uposażeń rodzinnych członkom rodzin sędziów i sędziów w stanie spoczynku oraz terminy przekazania do Zakładu Ubezpieczeń Społecznych składek, o których mowa w art. 91 § 10 i 11 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych.
+§ 2.
+Ilekroć w rozporządzeniu jest mowa o osobie uprawnionej, rozumie się przez to:
+1)
+sędziego w stanie spoczynku;
+2)
+członka rodziny zmarłego sędziego lub sędziego w stanie spoczynku, spełniającego warunki wymagane do uzyskania renty rodzinnej na podstawie przepisów ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2017 r. poz. 1383, z późn. zm.);
+3)
+byłego sędziego, o którym mowa w art. 200 § 3 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych.
+§ 3.
+1.
+Uposażenie oraz uposażenie rodzinne wypłaca sąd, w którym sędzia otrzymywał ostatnio wynagrodzenie lub uposażenie.
+2.
+W przypadku zniesienia sądu, o którym mowa w ust. 1, sądem właściwym do ustalania i wypłaty uposażenia lub uposażenia rodzinnego jest sąd, który przejął kompetencje sądu zniesionego.
+3.
+W przypadku braku możliwości ustalenia sądu właściwego na podstawie ust. 2, Minister Sprawiedliwości wskaże inny sąd właściwy do ustalania i wypłaty uposażenia lub uposażenia rodzinnego.
+§ 4.
+1.
+Uposażenie oraz uposażenie rodzinne wypłaca się poczynając od dnia powstania prawa do tych świadczeń, przy czym odnośnie do uposażenia rodzinnego nie wcześniej jednak niż od miesiąca, w którym złożono wniosek o wypłatę uposażenia rodzinnego.
+2.
+W razie złożenia wniosku o wypłatę uposażenia rodzinnego w miesiącu przypadającym bezpośrednio po miesiącu, w którym nastąpiła śmierć sędziego lub sędziego w stanie spoczynku, uposażenie rodzinne wypłaca się od dnia śmierci, nie wcześniej jednak niż od dnia spełnienia warunków do świadczenia przez osoby uprawnione.
+§ 5.
+1.
+Wszystkim uprawnionym członkom rodziny zmarłego sędziego lub sędziego w stanie spoczynku przysługuje jedno łączne uposażenie rodzinne.
+2.
+Uposażenie rodzinne podlega podziałowi na równe części między osoby, o których mowa w ust. 1.
+3.
+W razie ujawnienia okoliczności powodujących konieczność dokonania podziału uposażenia rodzinnego po raz pierwszy lub zmiany warunków dotychczasowego podziału świadczenia ze względu na zmianę liczby osób uprawnionych dokonuje się podziału świadczenia od miesiąca ujawnienia tych okoliczności.
+§ 6.
+1.
+Osoba ubiegająca się o wypłatę uposażenia rodzinnego składa w sądzie, o którym mowa w § 3, wniosek o wypłatę tego uposażenia.
+2.
+Do wniosku należy dołączyć dokumenty potwierdzające spełnienie warunków wymaganych do uzyskania renty rodzinnej, określone w przepisach wydanych na podstawie art. 116 ust. 5 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
+§ 7.
+1.
+Uposażenie oraz uposażenie rodzinne wypłaca się osobie uprawnionej w formie pieniężnej, raz w miesiącu, z dołu, w terminie wypłat wynagrodzenia.
+2.
+Wypłata uposażenia lub uposażenia rodzinnego w inny sposób może być dokonana na pisemny wniosek osoby uprawnionej.
+3.
+Wypłaty uposażenia lub uposażenia rodzinnego dokonuje się:
+1)
+do rąk własnych osoby uprawnionej;
+2)
+na wniosek osoby uprawnionej:
+a)
+na jej rachunek płatniczy lub jej rachunek w banku lub spółdzielczej kasie oszczędnościowo-kredytowej, inny niż rachunek płatniczy albo
+b)
+do rąk osoby uprawnionej za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2017 r. poz. 1481 oraz z 2018 r. poz. 106, 138, 650 i 1118).
+§ 8.
+Sąd, o którym mowa w § 3, zawiadamia na piśmie osoby uprawnione o wysokości należnego im w danym roku uposażenia lub uposażenia rodzinnego, o dacie wypłaty oraz o miejscu wypłaty dokonywanej w sposób określony w § 7 ust. 3 pkt 1.
+§ 9.
+Na wniosek osoby uprawnionej, zamieszkałej poza okręgiem sądu, o którym mowa w § 3, sąd ten powierza dokonywanie wypłaty uposażenia lub uposażenia rodzinnego w sposób określony w § 7 ust. 3 pkt 1 oraz dokonywanie zawiadomień, o których mowa w § 8, sądowi, w którego okręgu osoba uprawniona ma miejsce zamieszkania.
+§ 10.
+W razie rozwiązania albo wygaśnięcia stosunku służbowego sędziego w sposób określony w art. 68 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, zwaloryzowaną składkę na ubezpieczenie społeczne, o której mowa w art. 91 § 10 i 11 ustawy, przekazuje się do Zakładu Ubezpieczeń Społecznych w terminie 60 dni od dnia rozwiązania albo wygaśnięcia stosunku służbowego.
+§ 11.
+1.
+Sądy, które dokonują wypłaty uposażenia lub uposażenia rodzinnego osobom uprawnionym na dzień wejścia w życie niniejszego rozporządzenia, pozostają sądami właściwymi do ustalania i wypłaty świadczeń dla tych osób.
+2.
+Urząd obsługujący Ministra Sprawiedliwości pozostaje właściwy do ustalania i wypłaty:
+1)
+uposażenia sędziom, którzy do dnia 31 grudnia 2008 r. przeszli w stan spoczynku w okresie delegowania do pełnienia czynności administracyjnych w Ministerstwie Sprawiedliwości, lub
+2)
+uposażenia rodzinnego członkom rodzin sędziów, o których mowa w pkt 1.
+§ 12.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

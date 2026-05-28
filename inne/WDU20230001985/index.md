@@ -8,10 +8,10 @@ pos: 1985
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Warszawa, dnia 25 września 2023 r.
+# Obwieszczenie Ministra Rozwoju i Technologiiz dnia 8 września 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie trybu i zakresu działania Państwowej Rady Geodezyjnej i Kartograficznej i Komisji Standaryzacji Nazw Geograficznych poza Granicami Rzeczypospolitej Polskiej oraz zasad wynagradzania ich członków
 
 | Pole | Wartość |
 |---|---|
@@ -25,46 +25,119 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-12-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001985) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1985/text.pdf) |
 
-OBWIESZCZENIE MINISTRA ROZWOJU I TECHNOLOGII z dnia 8 września 2023 r.
-sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych Administracji sprawie trybu działania Państwowej Rady Geodezyjnej Kartograficznej Komisji Standaryzacji Nazw Geograficznych poza Granicami Polskiej oraz zasad wynagradzania ich członków Na podstawie art. 16 3 ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych Administracji z dnia 24 marca 2000 r. sprawie trybu działania Państwowej Rady Geodezyjnej Kartograficznej Komisji Standaryzacji Nazw Geograficznych poza Granicami Polski oraz zasad wynagradzania ich członków (Dz. U. poz. 316), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Spraw Wewnętrznych Administracji z dnia 24 czerwca 2009 r. zmieniającym rozporządzenie sprawie trybu działania Państwowej Rady Geodezyjnej Kartograficznej Komisji Standaryzacji Nazw Geograficznych poza Granicami Polski oraz zasad wynagradzania ich członków (Dz. U. poz. 897).
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje rozporządzenia Ministra Spraw Wewnętrznych Administracji z dnia 24 czerwca 2009 r. zmieniającego rozporządzenie sprawie trybu działania Państwowej Rady Geodezyjnej Kartograficznej Komisji Standaryzacji Nazw Geograficznych poza Granicami Polski oraz zasad wynagradzania ich członków (Dz. U. poz. 897), który stanowi: „§ 2. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Rozwoju Technologii: W. Buda sprawie trybu działania Państwowej Rady Geodezyjnej Kartograficznej Komisji Standaryzacji Nazw Geograficznych poza Granicami Polskiej oraz zasad wynagradzania ich członków Na podstawie art. 8 3 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne kartograficzne (Dz. U. z 2023 r. poz. 1752, 1615, 1688 1762) zarządza się, co następuje: Państwowa Rada Geodezyjna Kartograficzna oraz Komisja Standaryzacji Nazw Geograficznych poza Granicami Polskiej działają przy Głównym Geodecie Kraju.
-2. Do działania Państwowej Rady Geodezyjnej Kartograficznej, zwanej dalej „Radą”, należy formułowanie opinii wniosków dotyczących istotnych rozwiązań technicznych, ekonomicznych organizacyjnych z geodezji kartografii, a szczególności:
-1) kierunków rozwoju przekształceń organizacyjnych oraz związanych z tym zamierzeń legislacyjnych;
-2) kierunków prac geodezyjnych kartograficznych znaczeniu ogólnopaństwowym;
-3) funkcjonowania krajowego systemu informacji terenie;
-4) oceny stosowania nowoczesnych technik technologii oraz podejmowania prac naukowych badawczo-rozwojowych wyżej wymienionych zakresach;
-5) podjęcia prac naukowych badawczo-rozwojowych tym zakresie.
-3. Do działania Komisji Standaryzacji Nazw Geograficznych poza Granicami Polskiej, zwanej dalej „Komisją”, należy:
-1) opiniowanie wniosków kierowanych do Komisji sprawie ustalenia oryginalnego brzmienia pisowni nazw państw, terytoriów niesamodzielnych, jednostek administracyjnych, miejscowości, obiektów fizjograficznych oraz innych obiektów geograficznych położonych poza granicami Polskiej oraz opracowywanie wykazów tych nazw;
-2) opracowywanie urzędowych wykazów polskich nazw państw, terytoriów niesamodzielnych, jednostek administracyjnych, miejscowości, obiektów fizjograficznych oraz innych obiektów geograficznych położonych poza granicami Rzeczypospolitej Polskiej wraz ze współrzędnymi geograficznymi obiektów;
-3) opiniowanie publikacji wydawnictw z nazewnictwa geograficznego obiektów położonych poza granicami Polskiej;
-4) ustalanie zasad latynizacji nazw państw, terytoriów niesamodzielnych, jednostek administracyjnych, miejscowości, obiektów fizjograficznych oraz innych obiektów geograficznych zapisywanych oryginalnie niełacińskimi systemami pisma;
-5) proponowanie do użytku międzynarodowego obcojęzycznych form nazw ważniejszych obiektów geograficznych położonych na terytorium Polskiej, z wyłączeniem nazw ustalanych na podstawie art. 12 ustawy z dnia 6 stycznia 2005 r. mniejszościach narodowych etnicznych oraz języku regionalnym (Dz. U. z 2017 r. poz. 823);
-nicznej oraz nieodpłatne ich udostępnianie na stronie internetowej Komisji;
-10) udostępnianie na stronie internetowej Komisji ustaleń, opinii, opracowań publikacji wymienionych 1–4 oraz stanowisk wynikających z działalności wymienionej 5 6.
-2. Ustalenie wykazu nazw państw terytoriów niesamodzielnych, 2, następuje porozumieniu z ministrem właściwym do spraw zagranicznych.
-3. Urzędowe wykazy wymienione publikowane są celu stosowania ich podmioty wykonujące zadania publiczne na terytorium Polskiej.
-4. Urzędowe wykazy wymienione publikowane są nie rzadziej niż co 5 lat, z wyjątkiem urzędowego wykazu polskich nazw państw terytoriów niesamodzielnych, publikowanego nie rzadziej niż co lata.
-4. Podstawę działania Rady Komisji danym roku kalendarzowym stanowią roczne plany pracy, opracowywane Radę oraz Komisję zatwierdzone Głównego Geodetę Kraju.
-1a. Rada oraz Komisja przedkładają Głównemu Geodecie Kraju projekty rocznych planów pracy terminie do 30 listopada roku poprzedzającego rok, którego dotyczy plan.
-1b. Plany pracy zatwierdzane są Głównego Geodetę Kraju do końca grudnia roku poprzedzającego rok, na który składany jest plan.
-2. Rada oraz Komisja składają Głównemu Geodecie Kraju sprawozdania ze swej działalności po upływie roku kalendarzowego, do końca pierwszego kwartału roku następnego.
-5. Rada oraz Komisja obradują przyjmują na posiedzeniach stanowiska sprawach należących do ich działania.
-2. Posiedzenia Rady oraz Komisji zwołują ich przewodniczący na wniosek Głównego Geodety Kraju lub z własnej inicjatywy, a także z inicjatywy odpowiednio członków Rady oraz Komisji porozumieniu z Głównym Geodetą Kraju.
-3. Posiedzenia plenarne Rady odbywają się co najmniej dwa razy roku.
-4. Posiedzenia Komisji odbywają się co najmniej cztery razy roku.
-6. Rada oraz Komisja przedstawiają Głównemu Geodecie Kraju swoje stanowisko formie uchwał podejmowanych zwykłą większością głosów, obecności co najmniej połowy składu osobowego tych organów.
-2. razie równej liczby głosów decyduje głos przewodniczącego.
-7. Szczegółowy tryb pracy organizację Rady oraz Komisji określają regulaminy ustalone odpowiednio Radę lub Komisję na wniosek przewodniczącego Rady lub Komisji zatwierdzone Głównego Geodetę Kraju.
-8. Obsługę administracyjno-biurową oraz finansowanie wydatków związanych z działalnością Rady oraz Komisji, szczególności związanych z opracowywaniem publikowaniem urzędowych wykazów, opinii, zasad wytycznych, których 3, oraz z udziałem członków wyjazdach związanych z reprezentowaniem Rady oraz Komisji kraju za granicą, zapewnia Główny Urząd Geodezji Kartografii.
-2. Wydatki związane z udziałem członków Rady oraz Komisji wyjazdach związanych z reprezentowaniem Rady oraz Komisji kraju za granicą rozliczane są na zasadach określonych przepisach wydanych na podstawie art. 77 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2023 r. poz. 1465).
-9. Z zastrzeżeniem 3, za udział pracach Rady oraz Komisji przysługuje wynagrodzenie, którego wysokość za każdy dzień udziału pracach odpowiednio Rady lub Komisji wynosi:
-1) przewodniczącego Rady 310 zł;
-2) przewodniczącego Komisji 310 zł;
-1) do czterech godzin przysługuje połowa wynagrodzenia;
-2) powyżej czterech godzin przysługuje wynagrodzenie pełnej wysokości.
-3. Wynagrodzenie za udział pracach Rady oraz Komisji nie przysługuje pracownikom Głównego Urzędu Geodezji Kartografii, chyba że ich udział pracach Rady lub Komisji odbywa się poza godzinami służbowymi.
-4. Członkom Rady Komisji oraz osobom zaproszonym przewodniczącego Rady lub Komisji do wzięcia udziału posiedzeniu z głosem doradczym, którzy zamieszkują poza miejscowością, której odbywają się posiedzenia Rady lub Komisji, przysługują diety, zwrot kosztów podróży zakwaterowania, na zasadach określonych przepisach wydanych na podstawie art. 77 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
-10. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia .
+Treść obwieszczenia
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 24 marca 2000 r. w sprawie trybu i zakresu działania Państwowej Rady Geodezyjnej i Kartograficznej i Komisji Standaryzacji Nazw Geograficznych poza Granicami Rzeczypospolitej Polskiej oraz zasad wynagradzania ich członków
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 24 marca 2000 r. w sprawie trybu i zakresu działania Państwowej Rady Geodezyjnej i Kartograficznej i Komisji Standaryzacji Nazw Geograficznych poza Granicami Polski oraz zasad wynagradzania ich członków (Dz. U. poz. 316), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 24 czerwca 2009 r. zmieniającym rozporządzenie w sprawie trybu i zakresu działania Państwowej Rady Geodezyjnej i Kartograficznej i Komisji Standaryzacji Nazw Geograficznych poza Granicami Polski oraz zasad wynagradzania ich członków (Dz. U. poz. 897).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 24 czerwca 2009 r. zmieniającego rozporządzenie w sprawie trybu i zakresu działania Państwowej Rady Geodezyjnej i Kartograficznej i Komisji Standaryzacji Nazw Geograficznych poza Granicami Polski oraz zasad wynagradzania ich członków (Dz. U. poz. 897), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+” .
+1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838).
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 24 marca 2000 r. w sprawie trybu i zakresu działania Państwowej Rady Geodezyjnej i Kartograficznej i Komisji Standaryzacji Nazw Geograficznych poza Granicami Rzeczypospolitej Polskiej oraz zasad wynagradzania ich członków
+Na podstawie art. 8 ust. 3 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2023 r. poz. 1752, 1615, 1688 i 1762) zarządza się, co następuje:
+§ 1.
+Państwowa Rada Geodezyjna i Kartograficzna oraz Komisja Standaryzacji Nazw Geograficznych poza Granicami Rzeczypospolitej Polskiej działają przy Głównym Geodecie Kraju.
+§ 2.
+Do zakresu działania Państwowej Rady Geodezyjnej i Kartograficznej, zwanej dalej „Radą”, należy formułowanie opinii i wniosków dotyczących istotnych rozwiązań technicznych, ekonomicznych i organizacyjnych z zakresu geodezji i kartografii, a w szczególności:
+1)
+kierunków rozwoju i przekształceń organizacyjnych oraz związanych z tym zamierzeń legislacyjnych;
+2)
+kierunków prac geodezyjnych i kartograficznych o znaczeniu ogólnopaństwowym;
+3)
+funkcjonowania krajowego systemu informacji o terenie;
+4)
+oceny stosowania nowoczesnych technik i technologii oraz podejmowania prac naukowych i badawczo-rozwojowych w wyżej wymienionych zakresach;
+5)
+podjęcia prac naukowych i badawczo-rozwojowych w tym zakresie.
+§ 3.
+1.
+Do zakresu działania Komisji Standaryzacji Nazw Geograficznych poza Granicami Rzeczypospolitej Polskiej, zwanej dalej „Komisją”, należy:
+1)
+opiniowanie wniosków kierowanych do Komisji w sprawie ustalenia oryginalnego brzmienia i pisowni nazw państw, terytoriów niesamodzielnych, jednostek administracyjnych, miejscowości, obiektów fizjograficznych oraz innych obiektów geograficznych położonych poza granicami Rzeczypospolitej Polskiej oraz opracowywanie wykazów tych nazw;
+2)
+opracowywanie urzędowych wykazów polskich nazw państw, terytoriów niesamodzielnych, jednostek administracyjnych, miejscowości, obiektów fizjograficznych oraz innych obiektów geograficznych położonych poza granicami Rzeczypospolitej Polskiej wraz ze współrzędnymi geograficznymi obiektów;
+3)
+opiniowanie publikacji i wydawnictw z zakresu nazewnictwa geograficznego obiektów położonych poza granicami Rzeczypospolitej Polskiej;
+4)
+ustalanie zasad latynizacji nazw państw, terytoriów niesamodzielnych, jednostek administracyjnych, miejscowości, obiektów fizjograficznych oraz innych obiektów geograficznych zapisywanych oryginalnie niełacińskimi systemami pisma;
+5)
+proponowanie do użytku międzynarodowego obcojęzycznych form nazw ważniejszych obiektów geograficznych położonych na terytorium Rzeczypospolitej Polskiej, z wyłączeniem nazw ustalanych na podstawie art. 12 ustawy z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym (Dz. U. z 2017 r. poz. 823);
+6)
+współdziałanie z organizacjami międzynarodowymi i odpowiednimi organami innych państw, zajmującymi się problematyką standaryzacji nazw geograficznych;
+7)
+reprezentowanie przez członków Komisji upoważnionych przez Głównego Geodetę Kraju Rzeczypospolitej Polskiej na konferencjach i spotkaniach międzynarodowych poświęconych problematyce standaryzacji nazw geograficznych;
+8)
+prezentowanie działalności i ustaleń Komisji na konferencjach i spotkaniach krajowych i międzynarodowych;
+9)
+publikowanie wykazów i zasad wymienionych w pkt 1, 2 i 4 w formie wydawnictw drukowanych i w formie elektronicznej oraz nieodpłatne ich udostępnianie na stronie internetowej Komisji;
+10)
+udostępnianie na stronie internetowej Komisji ustaleń, opinii, opracowań i publikacji wymienionych w pkt 1–4 oraz stanowisk wynikających z działalności wymienionej w pkt 5 i 6.
+2.
+Ustalenie wykazu nazw państw i terytoriów niesamodzielnych, o którym mowa w ust. 1 pkt 2, następuje w porozumieniu z ministrem właściwym do spraw zagranicznych.
+3.
+Urzędowe wykazy wymienione w ust. 1 pkt 2 publikowane są w celu stosowania ich przez podmioty wykonujące zadania publiczne na terytorium Rzeczypospolitej Polskiej.
+4.
+Urzędowe wykazy wymienione w ust. 1 pkt 2 publikowane są nie rzadziej niż co 5 lat, z wyjątkiem urzędowego wykazu polskich nazw państw i terytoriów niesamodzielnych, publikowanego nie rzadziej niż co 2 lata.
+§ 4.
+1.
+Podstawę działania Rady i Komisji w danym roku kalendarzowym stanowią roczne plany pracy, opracowywane przez Radę oraz Komisję i zatwierdzone przez Głównego Geodetę Kraju.
+1a.
+Rada oraz Komisja przedkładają Głównemu Geodecie Kraju projekty rocznych planów pracy w terminie do 30 listopada roku poprzedzającego rok, którego dotyczy plan.
+1b.
+Plany pracy zatwierdzane są przez Głównego Geodetę Kraju do końca grudnia roku poprzedzającego rok, na który składany jest plan.
+2.
+Rada oraz Komisja składają Głównemu Geodecie Kraju sprawozdania ze swej działalności po upływie roku kalendarzowego, do końca pierwszego kwartału roku następnego.
+§ 5.
+1.
+Rada oraz Komisja obradują i przyjmują na posiedzeniach stanowiska w sprawach należących do ich zakresu działania.
+2.
+Posiedzenia Rady oraz Komisji zwołują ich przewodniczący na wniosek Głównego Geodety Kraju lub z własnej inicjatywy, a także z inicjatywy odpowiednio członków Rady oraz Komisji w porozumieniu z Głównym Geodetą Kraju.
+3.
+Posiedzenia plenarne Rady odbywają się co najmniej dwa razy w roku.
+4.
+Posiedzenia Komisji odbywają się co najmniej cztery razy w roku.
+§ 6.
+1.
+Rada oraz Komisja przedstawiają Głównemu Geodecie Kraju swoje stanowisko w formie uchwał podejmowanych zwykłą większością głosów, w obecności co najmniej połowy składu osobowego tych organów.
+2.
+W razie równej liczby głosów decyduje głos przewodniczącego.
+§ 7.
+Szczegółowy tryb pracy i organizację Rady oraz Komisji określają regulaminy ustalone odpowiednio przez Radę lub Komisję na wniosek przewodniczącego Rady lub Komisji i zatwierdzone przez Głównego Geodetę Kraju.
+§ 8.
+1.
+Obsługę administracyjno-biurową oraz finansowanie wydatków związanych z działalnością Rady oraz Komisji, w szczególności związanych z opracowywaniem i publikowaniem urzędowych wykazów, opinii, zasad i wytycznych, o których mowa w § 3, oraz z udziałem członków w wyjazdach związanych z reprezentowaniem Rady oraz Komisji w kraju i za granicą, zapewnia Główny Urząd Geodezji i Kartografii.
+2.
+Wydatki związane z udziałem członków Rady oraz Komisji w wyjazdach związanych z reprezentowaniem Rady oraz Komisji w kraju i za granicą rozliczane są na zasadach określonych w przepisach wydanych na podstawie art. 775 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465).
+§ 9.
+1.
+Z zastrzeżeniem ust. 3, za udział w pracach Rady oraz Komisji przysługuje wynagrodzenie, którego wysokość za każdy dzień udziału w pracach odpowiednio Rady lub Komisji wynosi:
+1)
+przewodniczącego Rady – 310 zł;
+2)
+przewodniczącego Komisji – 310 zł;
+3)
+wiceprzewodniczącego Rady – 190 zł;
+4)
+wiceprzewodniczącego Komisji – 190 zł;
+5)
+członków Rady – 190 zł;
+6)
+członków Komisji – 190 zł.
+2.
+Wynagrodzenie za udział w pracach Rady oraz Komisji, trwających:
+1)
+do czterech godzin – przysługuje połowa wynagrodzenia;
+2)
+powyżej czterech godzin – przysługuje wynagrodzenie w pełnej wysokości.
+3.
+Wynagrodzenie za udział w pracach Rady oraz Komisji nie przysługuje pracownikom Głównego Urzędu Geodezji i Kartografii, chyba że ich udział w pracach Rady lub Komisji odbywa się poza godzinami służbowymi.
+4.
+Członkom Rady i Komisji oraz osobom zaproszonym przez przewodniczącego Rady lub Komisji do wzięcia udziału w posiedzeniu z głosem doradczym, którzy zamieszkują poza miejscowością, w której odbywają się posiedzenia Rady lub Komisji, przysługują diety, zwrot kosztów podróży i zakwaterowania, na zasadach określonych w przepisach wydanych na podstawie art. 775§ 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
+§ 10.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+1) Tytuł w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 24 czerwca 2009 r. zmieniającego rozporządzenie w sprawie trybu i zakresu działania Państwowej Rady Geodezyjnej i Kartograficznej i Komisji Standaryzacji Nazw Geograficznych poza Granicami Polski oraz zasad wynagradzania ich członków (Dz. U. poz. 897), które weszło w życie z dniem 22 lipca 2009 r. 2) Art. 8 zmieniony przez art. 31 pkt 5 ustawy z dnia 22 grudnia 2000 r. o zmianie niektórych upoważnień ustawowych do wydawania aktów normatywnych oraz o zmianie niektórych ustaw (Dz. U. poz. 1268), która weszła w życie z dniem 30 marca 2001 r.; zgodnie z art. 78 ustawy z dnia 22 grudnia 2000 r. o zmianie niektórych upoważnień ustawowych do wydawania aktów normatywnych oraz o zmianie niektórych ustaw akty wydane na podstawie upoważnień ustawowych zmienianych ustawą z dnia 22 grudnia 2000 r. o zmianie niektórych upoważnień ustawowych do wydawania aktów normatywnych oraz o zmianie niektórych ustaw zachowują moc do czasu ich zastąpienia przez akty wydane na podstawie tej ustawy. 3) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 4) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1. 5) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 1. 6) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 1. 7) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 1. 8) Rozporządzenie zostało ogłoszone w dniu 10 kwietnia 2000 r.
 

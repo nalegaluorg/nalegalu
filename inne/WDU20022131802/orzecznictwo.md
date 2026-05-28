@@ -2,12 +2,11 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 23 listopada 2002 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw.*
 
-Łącznie: **3** orzeczeń
+Łącznie: **2** orzeczeń
 
-## art. 1 (2)
+## art. 1 (1)
 
 - 2004-02-18 | TK | [K 12/03](https://www.saos.org.pl/judgments/106700) | Wyrok ★
-- 2010-12-10 | TK | [P 27/09](https://www.saos.org.pl/judgments/109711) | Postanowienie ★
 
 ## art. 6 (1)
 

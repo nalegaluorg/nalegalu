@@ -22,6 +22,7 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1988-06-17 |
 | Data wydania | 1988-06-24 |
+| Wejście w życie | 1988-07-01 |
 | Ostatnia zmiana | 2024-11-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19880200135) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1988/135/text.pdf) |
 
@@ -89,7 +90,54 @@ w art. 563 wyrazy „prywatnoskargowym i przyspieszonym” zastępuje się wyraz
 
 **Art. 1.** W Kodeksie karnym wprowadza się następujące zmiany:
 
+- **1)** w art. 34: § 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+§ 1. Obowiązek określony w art. 33 § 2 pkt 2 polega na wykonywaniu nieodpłatnej dozorowanej pracy na cele publiczne w odpowiednim uspołecznionym zakładzie pracy lub instytucji użyteczności publicznej w wymiarze od 20 do 50 godzin w stosunku miesięcznym.
+
+§ 2. W stosunku do osoby zatrudnionej w uspołecznionym zakładzie pracy sąd, zamiast obowiązku określonego w § 1, może orzec potrącenie od 10 do 25% wynagrodzenia za pracę na rzecz Skarbu Państwa albo na cel społeczny wskazany przez sąd; w okresie odbywania kary skazany nie może rozwiązać bez zgody sądu stosunku pracy, jak również nie można go w tym okresie przenieść na wyższe stanowisko. ” . w § 3 na końcu kropkę zastępuje się przecinkiem i dodaje się wyrazy „z tym że potrącenie może orzec na rzecz tego zakładu na potrzeby związane z wykonywaniem kary albo na cel społeczny wskazany przez sąd.”
+
+- **b)**
+- **2)** w art. 84 § 2 i 3 otrzymują brzmienie: „
+
+§ 2. Jeżeli skazany uchyla się od odbywania kary ograniczenia wolności, sąd określa zastępczą karę grzywny, przyjmując miesiąc ograniczenia wolności za równoważny grzywnie od 10 000 do 30 000 złotych, a w wyjątkowych wypadkach – zastępczą karę pozbawienia wolności, przy czym miesiąc ograniczenia wolności odpowiada 15 dniom pozbawienia wolności. Kara zastępcza nie może przekroczyć górnej granicy kary pozbawienia wolności przewidzianej za dane przestępstwo, a jeżeli przestępstwo nie jest zagrożone taką karą – 6 miesięcy pozbawienia wolności.
+
+§ 3. Jeżeli skazany nie uiści w terminie grzywny określonej w myśl § 2, a zostanie stwierdzone, że nie można jej ściągnąć w drodze egzekucji, sąd zarządza wykonanie zastępczej kary pozbawienia wolności, przy czym miesiąc ograniczenia wolności odpowiada 15 dniom pozbawienia wolności. ”
+
+- **3)** w art. 91: § 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+§ 1. Warunkowe zwolnienie może nastąpić po odbyciu przez skazanego co najmniej połowy kary, jeżeli odbywa ją po raz pierwszy, a dwóch trzecich kary, jeżeli już uprzednio odbywał karę pozbawienia wolności jako karę zasadniczą.
+
+§ 2. Warunkowe zwolnienie może nastąpić po odbyciu co najmniej jednej trzeciej kary przez skazanego:
+
+- **1)** za przestępstwo nieumyślne,
+- **2)** młodocianego,
+- **3)** który sam sprawuje pieczę nad dzieckiem do lat 15, do której wykonywania są obowiązani rodzice,
+- **4)** będącego kobietą, która w chwili orzekania o warunkowym zwolnieniu ma ukończone 60 lat, albo mężczyzną, który ukończył 65 lat ” ; dodaje się § 5 w brzmieniu: „
+    - **b)**
+
+§ 5. Warunkowe zwolnienie może nastąpić nie wcześniej niż po odbyciu przez skazanego 6 miesięcy kary pozbawienia wolności. ”
+
+- **4)** w art. 120 w § 9 wyrazy „300 000 złotych” zastępuje się wyrazami „2 000 000 złotych”, a wyrazy „600 000 złotych” wyrazami „4 000 000 złotych”.
+
 **Art. 2.** W Kodeksie postępowania karnego wprowadza się następujące zmiany:
+
+- **1)** w art. 419: w § 1 pkt 2 i 3 otrzymują brzmienie: „
+    - **a)**
+
+- **2)** przewidziane w art. 156 § 2, art. 214, art. 275 § 1, art. 280 § 1 i art. 284 § 1 Kodeksu karnego,
+- **3)** przewidziane w art. 199 § 1, art. 203 § 1, art. 204 § 1 i 2 art. 205 § 1, art. 212 § 1, art. 213 i art. 215 § 1 Kodeksu karnego, jeżeli wartość przedmiotu przestępstwa albo szkoda wyrządzona lub zamierzona nie przekracza 100 000 złotych ” . dodaje się pkt 4 w brzmieniu: „
+    - **b)**
+
+- **4)** przewidziane w art. 3 ust. 1, art. 4 ust. 1, art. 5 ust. 1, art. 6 ust. 1 i art. 8 ustawy z dnia 22 kwietnia 1959 r. o zwalczaniu niedozwolonego wyrobu spirytusu (Dz. U. Nr 27, poz. 169) ” ;
+- **2)** w art. 422: dodaje się nowy § 2 w brzmieniu: „
+    - **a)**
+
+§ 2. Jeżeli wartość przedmiotu przestępstwa albo szkoda wyrządzona lub zamierzona przekracza 50 000 złotych, zawiadomienie prokuratora o wszczęciu dochodzenia jest obowiązkowe. ” , dotychczasowe § 2 i 3 otrzymują oznaczenie § 3 i 4;
+
+- **b)**
+- **3)** rozdział 45 otrzymuje brzmienie: „
 
 #### Rozdział 45 Postępowanie przyspieszone
 
@@ -145,9 +193,17 @@ w art. 563 wyrazy „prywatnoskargowym i przyspieszonym” zastępuje się wyraz
 
 **Art. 454.** Minister Sprawiedliwości, po zasięgnięciu opinii Naczelnej Rady Adwokackiej, określi w drodze rozporządzenia sposób zapewnienia oskarżonemu korzystania z pomocy obrońcy i możliwości jego wyboru w postępowaniu przyspieszonym. ” ;
 
+- **4)** po rozdziale 45 dodaje się rozdział 45a w brzmieniu: „
+
 #### Rozdział 45a Postępowanie nakazowe
 
 **Art. 3.** W Kodeksie karnym wykonawczym wprowadza się następujące zmiany:
+
+- **1)** w art. 55 § 3 otrzymuje brzmienie: „
+
+§ 3. Najwyższą nagrodę stanowi zezwolenie uprawniające do opuszczenia zakładu karnego na czas nie przekraczający 5 dni. Z nagrody może korzystać jedynie skazany wyróżniający się dobrym zachowaniem i postępami w resocjalizacji, po odbyciu co najmniej połowy tej części kary pozbawienia wolności, po której może być warunkowo przedterminowo zwolniony. ” ;
+
+- **2)** art. 116 otrzymuje brzmienie: „
 
 **Art. 116.**
 
@@ -186,11 +242,26 @@ w art. 563 wyrazy „prywatnoskargowym i przyspieszonym” zastępuje się wyraz
 
 **Art. 4.** W Kodeksie wykroczeń wprowadza się następujące zmiany:
 
+- **1)** w art. 21: § 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+§ 1. Obowiązek określony w art. 20 § 2 pkt 2 polega na wykonywaniu nieodpłatnej dozorowanej pracy na cele publiczne w odpowiednim uspołecznionym zakładzie pracy lub instytucji użyteczności publicznej w wymiarze od 20 do 50 godzin w stosunku miesięcznym.
+
+§ 2. W stosunku do osoby zatrudnionej w uspołecznionym zakładzie pracy organ orzekający, zamiast obowiązku określonego w § 1, może orzec potrącenie od 10 do 25% wynagrodzenia za pracę na rzecz Skarbu Państwa albo na cel społeczny wskazany przez organ orzekający; w okresie odbywania kary ukarany nie może rozwiązać bez zgody organu orzekającego stosunku pracy, jak również nie można w tym okresie przenieść ukaranego na wyższe stanowisko. ” w § 3 na końcu kropkę skreśla się i dodaje się wyrazy „z tym że potrącenie może orzec na rzecz tego zakładu na potrzeby związane z wykonywaniem kary albo na cel społeczny wskazany przez organ orzekający.”
+
+- **b)**
+- **2)** art. 23 otrzymuje brzmienie: „
+
 **Art. 23.** Jeżeli ukarany uchyla się od wykonywania kary ograniczenia wolności, ulega ona zamianie na zastępczą karę grzywny, przy czym miesiąc ograniczenia wolności przyjmuje się za równoważny grzywnie od 10 000 do 30 000 złotych, a jeżeli okoliczności wskazują na to, że egzekucja grzywny nie będzie skuteczna – na zastępczą karę aresztu, przy czym miesiąc ograniczenia wolności odpowiada 15 dniom aresztu. ” ;
+
+- **3)** art. 37a otrzymuje brzmienie: „
 
 **Art. 37a.** W stosunku do sprawcy wykroczenia przeciwko porządkowi i spokojowi publicznemu, instytucjom państwowym i społecznym lub urządzeniom użytku publicznego, zagrożonego karą aresztu 3 miesięcy, można orzec nawiązkę do 50 000 złotych na cel społeczny wskazany przez organ orzekający. ”
 
 **Art. 5.** W Kodeksie postępowania w sprawach o wykroczenia wprowadza się następujące zmiany:
+
+- **1)** w art. 66 w § 1 wyrazy „od 200 do 2000 złotych” zastępuje się wyrazami „od 500 do 3000 złotych”,
+- **2)** po art. 98 dodaje się art. 98a w brzmieniu: „
 
 **Art. 98a.** Przy wykonywaniu kary ograniczenia wolności stosuje się odpowiednio przepisy art. 113–123 Kodeksu karnego wykonawczego. ”
 

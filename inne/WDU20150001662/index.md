@@ -1,0 +1,229 @@
+---
+title: Rozporządzenie Ministra Sprawiedliwości z dnia 29 września 2015 r. zmieniające rozporządzenie w sprawie przekazania niektórym sądom okręgowym i sądom rejonowym rozpoznawania spraw gospodarczych z obszarów właściwości innych sądów okręgowych i sądów rejonowych
+address: WDU20150001662
+eli: DU/2015/1662
+publisher: DU
+year: 2015
+pos: 1662
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Rozporządzenie Ministra Sprawiedliwościz dnia 29 września 2015 r. zmieniające rozporządzenie w sprawie przekazania niektórym sądom okręgowym i sądom rejonowym rozpoznawania spraw gospodarczych z obszarów właściwości innych sądów okręgowych i sądów rejonowych
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2015 poz. 1662 |
+| ISAP | WDU20150001662 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2015-09-29 |
+| Data wydania | 2015-10-21 |
+| Wejście w życie | 2016-01-01 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001662) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1662/text.pdf) |
+
+Treść rozporządzenia
+Na podstawie art. 20 pkt 3 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r. poz. 133, z późn. zm.) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Ministra Sprawiedliwości z dnia 7 października 2014 r. w sprawie przekazania niektórym sądom okręgowym i sądom rejonowym rozpoznawania spraw gospodarczych z obszarów właściwości innych sądów okręgowych i sądów rejonowych (Dz. U. poz. 1397, 1694 i 1783) § 2 otrzymuje brzmienie:
+„
+§ 2.
+Następującym sądom rejonowym przekazuje się rozpoznawanie spraw gospodarczych, spraw upadłościowych i restrukturyzacyjnych, spraw rejestru zastawów oraz spraw Krajowego Rejestru Sądowego z obszarów właściwości innych sądów rejonowych:
+1)
+w obszarze właściwości Sądu Okręgowego w Białymstoku – Sądowi Rejonowemu w Białymstoku:
+a)
+sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych w Bielsku Podlaskim i Sokółce,
+b)
+sprawy rejestru zastawów z obszaru właściwości sądów rejonowych w: Bielsku Podlaskim, Sokółce, Grajewie, Łomży, Wysokiem Mazowieckiem, Zambrowie, Bartoszycach, Biskupcu, Giżycku, Kętrzynie, Lidzbarku Warmińskim, Mrągowie, Nidzicy, Olsztynie, Piszu, Szczytnie, Ostrołęce, Ostrowi Mazowieckiej, Przasnyszu, Pułtusku, Wyszkowie, Augustowie, Ełku, Olecku i Suwałkach,
+c)
+sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych w: Bielsku Podlaskim, Sokółce, Grajewie, Łomży, Wysokiem Mazowieckiem, Zambrowie, Augustowie i Suwałkach;
+2)
+w obszarze właściwości Sądu Okręgowego w Bielsku-Białej – Sądowi Rejonowemu w Bielsku-Białej sprawy gospodarcze, sprawy upadłościowe i restrukturyzacyjne, a także sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych w Cieszynie i Żywcu;
+3)
+w obszarze właściwości Sądu Okręgowego w Bydgoszczy – Sądowi Rejonowemu w Bydgoszczy sprawy gospodarcze, sprawy upadłościowe i restrukturyzacyjne, a także sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych w: Inowrocławiu, Mogilnie, Nakle nad Notecią, Szubinie, Świeciu, Tucholi i Żninie;
+4)
+w obszarze właściwości Sądu Okręgowego w Częstochowie – Sądowi Rejonowemu w Częstochowie sprawy gospodarcze, sprawy upadłościowe i restrukturyzacyjne, a także sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych w: Lublińcu, Myszkowie i Zawierciu;
+5)
+w obszarze właściwości Sądu Okręgowego w Elblągu – Sądowi Rejonowemu w Elblągu sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych w: Braniewie, Działdowie, Iławie, Nowym Mieście Lubawskim i Ostródzie;
+6)
+w obszarze właściwości Sądu Okręgowego w Gdańsku:
+a)
+Sądowi Rejonowemu Gdańsk-Północ w Gdańsku:
+– sprawy gospodarcze z obszaru właściwości sądów rejonowych: Gdańsk-Południe w Gdańsku, w Kwidzynie, Malborku, Starogardzie Gdańskim i Tczewie,
+– sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych: Gdańsk-Południe w Gdańsku, w Gdyni, Kartuzach, Kościerzynie, Kwidzynie, Malborku, Sopocie, Starogardzie Gdańskim, Tczewie i Wejherowie,
+– sprawy rejestru zastawów z obszaru właściwości sądów rejonowych: w Bydgoszczy, Inowrocławiu, Mogilnie, Nakle nad Notecią, Szubinie, Świeciu, Tucholi, Żninie, Braniewie, Działdowie, Elblągu, Iławie, Nowym Mieście Lubawskim, Ostródzie, Gdańsk-Południe w Gdańsku, w Gdyni, Kartuzach, Kościerzynie, Kwidzynie, Malborku, Sopocie, Starogardzie Gdańskim, Tczewie, Wejherowie, Bytowie, Chojnicach, Człuchowie, Lęborku, Miastku, Słupsku, Brodnicy, Chełmnie, Golubiu-Dobrzyniu, Grudziądzu, Toruniu, Wąbrzeźnie, Aleksandrowie Kujawskim, Lipnie, Radziejowie, Rypinie i we Włocławku,
+– sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych: Gdańsk-Południe w Gdańsku, w Gdyni, Kartuzach, Kościerzynie, Kwidzynie, Malborku, Sopocie, Starogardzie Gdańskim, Tczewie, Wejherowie, Bytowie, Chojnicach, Człuchowie, Lęborku, Miastku i Słupsku,
+b)
+Sądowi Rejonowemu w Gdyni sprawy gospodarcze z obszaru właściwości sądów rejonowych w: Kartuzach, Kościerzynie, Sopocie i Wejherowie;
+7)
+w obszarze właściwości Sądu Okręgowego w Gliwicach:
+a)
+Sądowi Rejonowemu w Gliwicach:
+– sprawy gospodarcze z obszaru właściwości sądów rejonowych w: Rudzie Śląskiej, Tarnowskich Górach i Zabrzu,
+– sprawy upadłościowe i restrukturyzacyjne, a także sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych w: Jastrzębiu-Zdroju, Raciborzu, Rudzie Śląskiej, Rybniku, Tarnowskich Górach, Wodzisławiu Śląskim, Zabrzu i Żorach,
+b)
+Sądowi Rejonowemu w Rybniku sprawy gospodarcze z obszaru właściwości sądów rejonowych w: Jastrzębiu-Zdroju, Raciborzu, Wodzisławiu Śląskim i Żorach;
+8)
+w obszarze właściwości Sądu Okręgowego w Gorzowie Wielkopolskim – Sądowi Rejonowemu w Gorzowie Wielkopolskim sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych w: Międzyrzeczu, Słubicach, Strzelcach Krajeńskich i Sulęcinie;
+9)
+w obszarze właściwości Sądu Okręgowego w Jeleniej Górze – Sądowi Rejonowemu w Jeleniej Górze sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych w: Bolesławcu, Kamiennej Górze, Lubaniu, Lwówku Śląskim i Zgorzelcu;
+10)
+w obszarze właściwości Sądu Okręgowego w Kaliszu – Sądowi Rejonowemu w Kaliszu sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych w: Jarocinie, Kępnie, Krotoszynie, Ostrowie Wielkopolskim, Ostrzeszowie i Pleszewie;
+11)
+w obszarze właściwości Sądu Okręgowego w Katowicach:
+a)
+Sądowi Rejonowemu w Bytomiu sprawy gospodarcze z obszaru właściwości Sądu Rejonowego w Chorzowie,
+b)
+Sądowi Rejonowemu w Dąbrowie Górniczej sprawy gospodarcze z obszaru właściwości sądów rejonowych w: Będzinie, Jaworznie i Sosnowcu,
+c)
+Sądowi Rejonowemu Katowice-Wschód w Katowicach:
+– sprawy gospodarcze z obszaru właściwości sądów rejonowych: Katowice-Zachód w Katowicach, w Mysłowicach i Siemianowicach Śląskich,
+– sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych: Katowice-Zachód w Katowicach, w Będzinie, Bytomiu, Chorzowie, Dąbrowie Górniczej, Jaworznie, Mikołowie, Mysłowicach, Pszczynie, Siemianowicach Śląskich, Sosnowcu i Tychach,
+– sprawy rejestru zastawów z obszaru właściwości sądów rejonowych: w Bielsku-Białej, Cieszynie, Żywcu, Częstochowie, Lublińcu, Myszkowie, Zawierciu, Gliwicach, Jastrzębiu-Zdroju, Raciborzu, Rudzie Śląskiej, Rybniku, Tarnowskich Górach, Wodzisławiu Śląskim, Zabrzu, Żorach, Katowice-Zachód w Katowicach, w Będzinie, Bytomiu, Chorzowie, Dąbrowie Górniczej, Jaworznie, Mikołowie, Mysłowicach, Pszczynie, Siemianowicach Śląskich, Sosnowcu i Tychach,
+– sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych: Katowice-Zachód w Katowicach, w Będzinie, Bytomiu, Chorzowie, Dąbrowie Górniczej, Jaworznie, Mikołowie, Mysłowicach, Pszczynie, Siemianowicach Śląskich, Sosnowcu i Tychach,
+d)
+Sądowi Rejonowemu w Tychach sprawy gospodarcze z obszaru właściwości sądów rejonowych w Mikołowie i Pszczynie;
+12)
+w obszarze właściwości Sądu Okręgowego w Kielcach – Sądowi Rejonowemu w Kielcach sprawy gospodarcze, sprawy upadłościowe i restrukturyzacyjne, a także sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych w: Busku-Zdroju, Jędrzejowie, Końskich, Opatowie, Ostrowcu Świętokrzyskim, Pińczowie, Sandomierzu, Skarżysku-Kamiennej, Starachowicach, Staszowie i we Włoszczowie;
+13)
+w obszarze właściwości Sądu Okręgowego w Koninie – Sądowi Rejonowemu w Koninie sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych w: Kole, Słupcy i Turku;
+14)
+w obszarze właściwości Sądu Okręgowego w Koszalinie – Sądowi Rejonowemu w Koszalinie sprawy gospodarcze, sprawy upadłościowe i restrukturyzacyjne, a także sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych w: Białogardzie, Drawsku Pomorskim, Kołobrzegu, Sławnie, Szczecinku i Wałczu;
+15)
+w obszarze właściwości Sądu Okręgowego w Krakowie – Sądowi Rejonowemu dla Krakowa-Śródmieścia w Krakowie:
+a)
+sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych: w Chrzanowie, dla Krakowa-Krowodrzy w Krakowie, dla Krakowa-Nowej Huty w Krakowie, dla Krakowa-Podgórza w Krakowie, w Miechowie, Myślenicach, Olkuszu, Oświęcimiu, Suchej Beskidzkiej, Wadowicach i Wieliczce,
+b)
+sprawy rejestru zastawów z obszaru właściwości sądów rejonowych: w Busku-Zdroju, Jędrzejowie, Kielcach, Końskich, Opatowie, Ostrowcu Świętokrzyskim, Pińczowie, Sandomierzu, Skarżysku-Kamiennej, Starachowicach, Staszowie, we Włoszczowie, dla Krakowa-Krowodrzy w Krakowie, dla Krakowa-Nowej Huty w Krakowie, dla Krakowa-Podgórza w Krakowie, w Chrzanowie, Miechowie, Myślenicach, Olkuszu, Oświęcimiu, Suchej Beskidzkiej, Wadowicach, Wieliczce, Gorlicach, Limanowej, Nowym Sączu, Nowym Targu, Zakopanem, Bochni, Brzesku, Dąbrowie Tarnowskiej i Tarnowie,
+c)
+sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych: dla Krakowa-Krowodrzy w Krakowie, dla Krakowa-Nowej Huty w Krakowie, dla Krakowa-Podgórza w Krakowie, w Chrzanowie, Miechowie, Myślenicach, Olkuszu, Oświęcimiu, Suchej Beskidzkiej, Wadowicach, Wieliczce, Gorlicach, Limanowej, Nowym Sączu, Nowym Targu, Zakopanem, Bochni, Brzesku, Dąbrowie Tarnowskiej i Tarnowie;
+16)
+w obszarze właściwości Sądu Okręgowego w Krośnie – Sądowi Rejonowemu w Krośnie sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych w: Brzozowie, Jaśle, Lesku i Sanoku;
+17)
+w obszarze właściwości Sądu Okręgowego w Legnicy – Sądowi Rejonowemu w Legnicy sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych w: Głogowie, Jaworze, Lubinie i Złotoryi;
+18)
+w obszarze właściwości Sądu Okręgowego w Lublinie – Sądowi Rejonowemu Lublin-Wschód w Lublinie z siedzibą w Świdniku:
+a)
+sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych: Lublin-Zachód w Lublinie, w Białej Podlaskiej, Chełmie, Kraśniku, Lubartowie, Łukowie, Opolu Lubelskim, Puławach, Radzyniu Podlaskim, Rykach i we Włodawie,
+b)
+sprawy rejestru zastawów z obszaru właściwości sądów rejonowych: Lublin-Zachód w Lublinie, w Białej Podlaskiej, Chełmie, Kraśniku, Lubartowie, Łukowie, Opolu Lubelskim, Puławach, Radzyniu Podlaskim, Rykach, we Włodawie, w Grójcu, Kozienicach, Lipsku, Przysusze, Radomiu, Szydłowcu, Zwoleniu, Garwolinie, Mińsku Mazowieckim, Siedlcach, Sokołowie Podlaskim, Węgrowie, Biłgoraju, Hrubieszowie, Janowie Lubelskim, Krasnymstawie, Tomaszowie Lubelskim i Zamościu,
+c)
+sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych: Lublin-Zachód w Lublinie, w Białej Podlaskiej, Chełmie, Kraśniku, Lubartowie, Łukowie, Opolu Lubelskim, Puławach, Radzyniu Podlaskim, Rykach, we Włodawie, w Biłgoraju, Hrubieszowie, Janowie Lubelskim, Krasnymstawie, Tomaszowie Lubelskim i Zamościu;
+19)
+w obszarze właściwości Sądu Okręgowego w Łodzi:
+a)
+Sądowi Rejonowemu dla Łodzi-Śródmieścia w Łodzi:
+– sprawy gospodarcze z obszaru właściwości sądów rejonowych: w Kutnie, Łęczycy, dla Łodzi-Widzewa w Łodzi, w Pabianicach i Zgierzu,
+– sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych: dla Łodzi-Widzewa w Łodzi, w Brzezinach, Kutnie, Łęczycy, Łowiczu, Pabianicach, Rawie Mazowieckiej, Skierniewicach i Zgierzu,
+– sprawy rejestru zastawów z obszaru właściwości sądów rejonowych: w Jarocinie, Kaliszu, Kępnie, Krotoszynie, Ostrowie Wielkopolskim, Ostrzeszowie, Pleszewie, dla Łodzi-Widzewa w Łodzi, w Brzezinach, Kutnie, Łęczycy, Łowiczu, Pabianicach, Rawie Mazowieckiej, Skierniewicach, Zgierzu, Bełchatowie, Opocznie, Piotrkowie Trybunalskim, Radomsku, Tomaszowie Mazowieckim, Ciechanowie, Gostyninie, Mławie, Płocku, Płońsku, Sierpcu, Sochaczewie, Żyrardowie, Łasku, Sieradzu, Wieluniu i Zduńskiej Woli,
+– sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych: dla Łodzi-Widzewa w Łodzi, w Brzezinach, Kutnie, Łęczycy, Łowiczu, Pabianicach, Rawie Mazowieckiej, Skierniewicach, Zgierzu, Bełchatowie, Opocznie, Piotrkowie Trybunalskim, Radomsku, Tomaszowie Mazowieckim, Łasku, Sieradzu, Wieluniu i Zduńskiej Woli,
+b)
+Sądowi Rejonowemu w Skierniewicach sprawy gospodarcze z obszaru właściwości sądów rejonowych w: Brzezinach, Łowiczu i Rawie Mazowieckiej;
+20)
+w obszarze właściwości Sądu Okręgowego w Łomży – Sądowi Rejonowemu w Łomży sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych w: Grajewie, Wysokiem Mazowieckiem i Zambrowie;
+21)
+w obszarze właściwości Sądu Okręgowego w Nowym Sączu – Sądowi Rejonowemu w Nowym Sączu sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych w: Gorlicach, Limanowej, Nowym Targu i Zakopanem;
+22)
+w obszarze właściwości Sądu Okręgowego w Olsztynie – Sądowi Rejonowemu w Olsztynie:
+a)
+sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych w: Bartoszycach, Biskupcu, Giżycku, Kętrzynie, Lidzbarku Warmińskim, Mrągowie, Nidzicy, Piszu i Szczytnie,
+b)
+sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych w: Braniewie, Działdowie, Elblągu, Iławie, Nowym Mieście Lubawskim, Ostródzie, Bartoszycach, Biskupcu, Giżycku, Kętrzynie, Lidzbarku Warmińskim, Mrągowie, Nidzicy, Piszu, Szczytnie, Ełku i Olecku;
+23)
+w obszarze właściwości Sądu Okręgowego w Opolu – Sądowi Rejonowemu w Opolu sprawy gospodarcze, sprawy upadłościowe i restrukturyzacyjne, a także sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych w: Brzegu, Głubczycach, Kędzierzynie-Koźlu, Kluczborku, Nysie, Oleśnie, Prudniku i Strzelcach Opolskich;
+24)
+w obszarze właściwości Sądu Okręgowego w Ostrołęce – Sądowi Rejonowemu w Ostrołęce sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych w: Ostrowi Mazowieckiej, Przasnyszu, Pułtusku i Wyszkowie;
+25)
+w obszarze właściwości Sądu Okręgowego w Piotrkowie Trybunalskim – Sądowi Rejonowemu w Piotrkowie Trybunalskim sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych w: Bełchatowie, Opocznie, Radomsku i Tomaszowie Mazowieckim;
+26)
+w obszarze właściwości Sądu Okręgowego w Płocku – Sądowi Rejonowemu w Płocku sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych w: Ciechanowie, Gostyninie, Mławie, Płońsku, Sierpcu, Sochaczewie i Żyrardowie;
+27)
+w obszarze właściwości Sądu Okręgowego w Poznaniu:
+a)
+Sądowi Rejonowemu w Lesznie sprawy gospodarcze z obszaru właściwości sądów rejonowych w: Gostyniu, Kościanie i Rawiczu,
+b)
+Sądowi Rejonowemu w Pile sprawy gospodarcze z obszaru właściwości sądów rejonowych w: Chodzieży, Trzciance, Wągrowcu i Złotowie,
+c)
+Sądowi Rejonowemu Poznań-Nowe Miasto i Wilda w Poznaniu:
+– sprawy rejestru zastawów z obszaru właściwości sądów rejonowych: w Kole, Koninie, Słupcy, Turku, Poznań-Grunwald i Jeżyce w Poznaniu, Poznań-Stare Miasto w Poznaniu, w Chodzieży, Gnieźnie, Gostyniu, Grodzisku Wielkopolskim, Kościanie, Lesznie, Nowym Tomyślu, Obornikach, Pile, Rawiczu, Szamotułach, Śremie, Środzie Wielkopolskiej, Trzciance, Wągrowcu, Wolsztynie, we Wrześni, w Złotowie, Krośnie Odrzańskim, Nowej Soli, Świebodzinie, we Wschowie, w Zielonej Górze, Żaganiu i Żarach,
+– sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych: w Jarocinie, Kaliszu, Kępnie, Krotoszynie, Ostrowie Wielkopolskim, Ostrzeszowie, Pleszewie, Kole, Koninie, Słupcy, Turku, Poznań-Grunwald i Jeżyce w Poznaniu, Poznań-Stare Miasto w Poznaniu, w Chodzieży, Gnieźnie, Gostyniu, Grodzisku Wielkopolskim, Kościanie, Lesznie, Nowym Tomyślu, Obornikach, Pile, Rawiczu, Szamotułach, Śremie, Środzie Wielkopolskiej, Trzciance, Wągrowcu, Wolsztynie, we Wrześni i w Złotowie,
+d)
+Sądowi Rejonowemu Poznań-Stare Miasto w Poznaniu:
+– sprawy gospodarcze z obszaru właściwości sądów rejonowych: w Gnieźnie, Grodzisku Wielkopolskim, Nowym Tomyślu, Obornikach, Poznań-Grunwald i Jeżyce w Poznaniu, Poznań-Nowe Miasto i Wilda w Poznaniu, w Szamotułach, Śremie, Środzie Wielkopolskiej, Wolsztynie i we Wrześni,
+– sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych: Poznań-Grunwald i Jeżyce w Poznaniu, Poznań-Nowe Miasto i Wilda w Poznaniu, w Chodzieży, Gnieźnie, Gostyniu, Grodzisku Wielkopolskim, Kościanie, Lesznie, Nowym Tomyślu, Obornikach, Pile, Rawiczu, Szamotułach, Śremie, Środzie Wielkopolskiej, Trzciance, Wągrowcu, Wolsztynie, we Wrześni i w Złotowie;
+28)
+w obszarze właściwości Sądu Okręgowego w Przemyślu – Sądowi Rejonowemu w Przemyślu sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych w: Jarosławiu, Lubaczowie i Przeworsku;
+29)
+w obszarze właściwości Sądu Okręgowego w Radomiu – Sądowi Rejonowemu w Radomiu sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych w: Grójcu, Kozienicach, Lipsku, Przysusze, Szydłowcu i Zwoleniu;
+30)
+w obszarze właściwości Sądu Okręgowego w Rzeszowie – Sądowi Rejonowemu w Rzeszowie:
+a)
+sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych w: Dębicy, Leżajsku, Łańcucie, Ropczycach i Strzyżowie,
+b)
+sprawy rejestru zastawów i sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych w: Brzozowie, Jaśle, Krośnie, Lesku, Sanoku, Jarosławiu, Lubaczowie, Przemyślu, Przeworsku, Dębicy, Leżajsku, Łańcucie, Ropczycach, Strzyżowie, Kolbuszowej, Mielcu, Nisku, Stalowej Woli i Tarnobrzegu;
+31)
+w obszarze właściwości Sądu Okręgowego w Siedlcach – Sądowi Rejonowemu w Siedlcach sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych w: Garwolinie, Mińsku Mazowieckim, Sokołowie Podlaskim i Węgrowie;
+32)
+w obszarze właściwości Sądu Okręgowego w Sieradzu – Sądowi Rejonowemu w Sieradzu sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych w: Łasku, Wieluniu i Zduńskiej Woli;
+33)
+w obszarze właściwości Sądu Okręgowego w Słupsku – Sądowi Rejonowemu w Słupsku sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych w: Bytowie, Chojnicach, Człuchowie, Lęborku i Miastku;
+34)
+w obszarze właściwości Sądu Okręgowego w Suwałkach – Sądowi Rejonowemu w Suwałkach sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych w: Augustowie, Ełku i Olecku;
+35)
+w obszarze właściwości Sądu Okręgowego w Szczecinie – Sądowi Rejonowemu Szczecin-Centrum w Szczecinie:
+a)
+sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych: w Choszcznie, Goleniowie, Gryficach, Gryfinie, Kamieniu Pomorskim, Łobzie, Myśliborzu, Stargardzie Szczecińskim, Szczecin-Prawobrzeże i Zachód w Szczecinie i w Świnoujściu,
+b)
+sprawy rejestru zastawów z obszaru właściwości sądów rejonowych: w Gorzowie Wielkopolskim, Międzyrzeczu, Słubicach, Strzelcach Krajeńskich, Sulęcinie, Białogardzie, Drawsku Pomorskim, Kołobrzegu, Koszalinie, Sławnie, Szczecinku, Wałczu, Szczecin-Prawobrzeże i Zachód w Szczecinie, w Choszcznie, Goleniowie, Gryficach, Gryfinie, Kamieniu Pomorskim, Łobzie, Myśliborzu, Stargardzie Szczecińskim i Świnoujściu,
+c)
+sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych: Szczecin-Prawobrzeże i Zachód w Szczecinie, w Choszcznie, Goleniowie, Gryficach, Gryfinie, Kamieniu Pomorskim, Łobzie, Myśliborzu, Stargardzie Szczecińskimi i Świnoujściu;
+36)
+w obszarze właściwości Sądu Okręgowego w Świdnicy:
+a)
+Sądowi Rejonowemu w Dzierżoniowie sprawy gospodarcze z obszaru właściwości sądów rejonowych w: Kłodzku, Świdnicy i Ząbkowicach Śląskich,
+b)
+Sądowi Rejonowemu w Wałbrzychu sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych w: Dzierżoniowie, Kłodzku, Świdnicy i Ząbkowicach Śląskich;
+37)
+w obszarze właściwości Sądu Okręgowego w Tarnobrzegu – Sądowi Rejonowemu w Tarnobrzegu sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych w: Kolbuszowej, Mielcu, Nisku i Stalowej Woli;
+38)
+w obszarze właściwości Sądu Okręgowego w Tarnowie – Sądowi Rejonowemu w Tarnowie sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych w: Bochni, Brzesku i Dąbrowie Tarnowskiej;
+39)
+w obszarze właściwości Sądu Okręgowego w Toruniu – Sądowi Rejonowemu w Toruniu:
+a)
+sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych w: Brodnicy, Chełmnie, Golubiu-Dobrzyniu, Grudziądzu i Wąbrzeźnie,
+b)
+sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych: w Brodnicy, Chełmnie, Golubiu-Dobrzyniu, Grudziądzu, Wąbrzeźnie, Aleksandrowie Kujawskim, Lipnie, Radziejowie, Rypinie i we Włocławku;
+40)
+w obszarze właściwości Sądu Okręgowego w Warszawie i Sądu Okręgowego Warszawa-Praga w Warszawie – Sądowi Rejonowemu dla miasta stołecznego Warszawy w Warszawie:
+a)
+sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych: w Grodzisku Mazowieckim, Piasecznie, Pruszkowie, dla Warszawy-Mokotowa w Warszawie, dla Warszawy-Śródmieścia w Warszawie, dla Warszawy-Woli w Warszawie, dla Warszawy-Żoliborza w Warszawie, w Legionowie, Nowym Dworze Mazowieckim, Otwocku, dla Warszawy Pragi-Południe w Warszawie, dla Warszawy Pragi-Północ w Warszawie i w Wołominie,
+b)
+sprawy rejestru zastawów z obszaru właściwości sądów rejonowych: dla Warszawy-Mokotowa w Warszawie, dla Warszawy-Śródmieścia w Warszawie, dla Warszawy-Woli w Warszawie, dla Warszawy-Żoliborza w Warszawie, w Grodzisku Mazowieckim, Piasecznie, Pruszkowie, dla Warszawy Pragi-Południe w Warszawie, dla Warszawy Pragi-Północ w Warszawie, w Legionowie, Nowym Dworze Mazowieckim, Otwocku i Wołominie,
+c)
+sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych: w Ostrołęce, Ostrowi Mazowieckiej, Przasnyszu, Pułtusku, Wyszkowie, Ciechanowie, Gostyninie, Mławie, Płocku, Płońsku, Sierpcu, Sochaczewie, Żyrardowie, Grójcu, Kozienicach, Lipsku, Przysusze, Radomiu, Szydłowcu, Zwoleniu, Garwolinie, Mińsku Mazowieckim, Siedlcach, Sokołowie Podlaskim, Węgrowie, dla Warszawy-Mokotowa w Warszawie, dla Warszawy-Śródmieścia w Warszawie, dla Warszawy-Woli w Warszawie, dla Warszawy-Żoliborza w Warszawie, w Grodzisku Mazowieckim, Piasecznie, Pruszkowie, dla Warszawy Pragi-Południe w Warszawie, dla Warszawy Pragi-Północ w Warszawie, w Legionowie, Nowym Dworze Mazowieckim, Otwocku i Wołominie;
+41)
+w obszarze właściwości Sądu Okręgowego we Włocławku – Sądowi Rejonowemu we Włocławku sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych w: Aleksandrowie Kujawskim, Lipnie, Radziejowie i Rypinie;
+42)
+w obszarze właściwości Sądu Okręgowego we Wrocławiu – Sądowi Rejonowemu dla Wrocławia-Fabrycznej we Wrocławiu:
+a)
+sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych: w Miliczu, Oleśnicy, Oławie, Strzelinie, Środzie Śląskiej, Trzebnicy, Wołowie, dla Wrocławia-Krzyków we Wrocławiu i dla Wrocławia-Śródmieścia we Wrocławiu,
+b)
+sprawy rejestru zastawów z obszaru właściwości sądów rejonowych: w Bolesławcu, Jeleniej Górze, Kamiennej Górze, Lubaniu, Lwówku Śląskim, Zgorzelcu, Głogowie, Jaworze, Legnicy, Lubinie, Złotoryi, Brzegu, Głubczycach, Kędzierzynie-Koźlu, Kluczborku, Nysie, Oleśnie, Opolu, Prudniku, Strzelcach Opolskich, Dzierżoniowie, Kłodzku, Świdnicy, Wałbrzychu, Ząbkowicach Śląskich, dla Wrocławia-Krzyków we Wrocławiu, dla Wrocławia-Śródmieście we Wrocławiu, w Miliczu, Oleśnicy, Oławie, Strzelinie, Środzie Śląskiej, Trzebnicy i Wołowie,
+c)
+sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych: w Bolesławcu, Jeleniej Górze, Kamiennej Górze, Lubaniu, Lwówku Śląskim, Zgorzelcu, Głogowie, Jaworze, Legnicy, Lubinie, Złotoryi, Dzierżoniowie, Kłodzku, Świdnicy, Wałbrzychu, Ząbkowicach Śląskich, dla Wrocławia-Krzyków we Wrocławiu, dla Wrocławia-Śródmieście we Wrocławiu, w Miliczu, Oleśnicy, Oławie, Strzelinie, Środzie Śląskiej, Trzebnicy i Wołowie;
+43)
+w obszarze właściwości Sądu Okręgowego w Zamościu – Sądowi Rejonowemu w Zamościu sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych w: Biłgoraju, Hrubieszowie, Janowie Lubelskim, Krasnymstawie i Tomaszowie Lubelskim;
+44)
+w obszarze właściwości Sądu Okręgowego w Zielonej Górze – Sądowi Rejonowemu w Zielonej Górze:
+a)
+sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych: w Krośnie Odrzańskim, Nowej Soli, Świebodzinie, we Wschowie, w Żaganiu i Żarach,
+b)
+sprawy Krajowego Rejestru Sądowego z obszaru właściwości sądów rejonowych: w Gorzowie Wielkopolskim, Międzyrzeczu, Słubicach, Strzelcach Krajeńskich, Sulęcinie, Krośnie Odrzańskim, Nowej Soli, Świebodzinie, we Wschowie, w Żaganiu i Żarach.
+” .
+§ 2.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
+

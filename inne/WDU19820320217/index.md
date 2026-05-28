@@ -8,12 +8,10 @@ pos: 217
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o społeczno-zawodowych organizacjach rolników Mając na uwadze, że Rzeczpospolita Polska gwarantuje własność, całkowitą ochronę i prawo dziedziczenia indywidualnych gospodarstw rolnych oraz że gospodarstwa te stanowią trwały i równoprawny element społeczno-gospodarczego ustroju Rzeczypospolitej Polskiej; uznając równoprawny z innymi zawodami status społeczno-zawodowy rolników indywidualnych oraz potrzebę zapewnienia należytej reprezentacji ich zawodowych i społecznych interesów wobec organów państwowych oraz państwowych i społecznych jednostek organizacyjnych działających na rzecz wsi i rolnictwa, jak też udziału w decydowaniu o sprawach związanych z rozwojem indywidualnych gospodarstw rolnych i postępem społecznym na wsi; kierując się troską o wyżywienie Narodu oraz dobrem Rzeczypospolitej Polskiej stanowi się, co następuje:
-
-*USTAWA z dnia 8 października 1982 r.*
+# Ustawa z dnia 8 października 1982 r. o społeczno-zawodowych organizacjach rolników
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +22,11 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1982-10-08 |
 | Data wydania | 1982-10-11 |
+| Wejście w życie | 1982-10-11 |
 | Ostatnia zmiana | 2025-07-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19820320217) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1982/217/text.pdf) |
+
+Mając na względzie, że Polska Rzeczpospolita Ludowa gwarantuje własność, całkowitą ochronę i prawo dziedziczenia indywidualnych gospodarstw rolnych oraz że gospodarstwa te stanowią trwały i równoprawny element społeczno-gospodarczego ustroju Polskiej Rzeczypospolitej Ludowej; uznając równoprawny z innymi zawodami status społeczno-zawodowy rolników indywidualnych oraz potrzebą zapewnieniu należytej reprezentacji ich zawodowych i społecznych interesów wobec organów państwowych oraz państwowych i społecznych jednostek organizacyjnych działających na rzecz wsi i rolnictwa, jak też udziału w decydowaniu o sprawach związanych z rozwojem indywidualnych gospodarstw rolnych i postępem społecznym na wsi; kierując się troską o wyżywienie Narodu oraz dobrem Polskiej Rzeczypospolitej Ludowej stanowi się, co następuje:
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -37,23 +38,17 @@ source: "isap-pdf"
 
 **Art. 2.**
 
-1. Społeczno-zawodowe organizacje rolników działają zgodnie z konstytucyjnymi zasadami ustrojowymi Rzeczypospolitej Polskiej, przepisami niniejszej ustawy i innymi powszechnie obowiązującymi przepisami prawa, na podstawie zarejestrowanego statutu, zgodnego z tymi zasadami i przepisami.
+1. Społeczno-zawodowe organizacje rolników działają zgodnie z konstytucyjnymi zasadami ustrojowymi Polskiej Rzeczypospolitej Ludowej, przepisami niniejszej ustawy i innymi powszechnie obowiązującymi przepisami prawa, na podstawie zarejestrowanego statutu, zgodnego z tymi zasadami i przepisami.
 
 2. Społeczno-zawodowe organizacje rolników są niezależne od organów administracji państwowej oraz państwowych i społecznych jednostek organizacyjnych i organizacji; działają poprzez ustalone w uchwalanych przez siebie statutach i wybierane w sposób demokratyczny organy, a także określają w sposób samodzielny, w ramach obowiązujących przepisów prawa, zakres i formy swojej działalności.
 
-**Art. 3.**
+**Art. 3.** Społeczno-zawodowymi organizacjami rolników, zwanymi dalej „organizacjami rolników”, są:
 
-1. Społeczno-zawodowymi organizacjami rolników, zwanymi dalej „organizacjami rolników”, są:
-
-- **1)** kółka rolnicze;
-- **2)** (uchylony)
-- **3)** rolnicze zrzeszenia branżowe;
-- **4)** związki rolników, kółek i organizacji rolniczych;
+- **1)** kółka rolnicze,
+- **2)** koła gospodyń wiejskich,
+- **3)** rolnicze zrzeszenia branżowe,
+- **4)** związki rolników, kółek i organizacji rolniczych,
 - **5)** związki rolniczych zrzeszeń branżowych.
-
-2. Organizacjami rolników są również koła gospodyń wiejskich wpisane do Krajowego Rejestru Kół Gospodyń Wiejskich, o którym mowa w art. 6 ust. 1 ustawy z dnia 9 listopada 2018 r. o kołach gospodyń wiejskich (Dz. U. z 2025 r. poz. 310), jeżeli są zrzeszone w gminnym związku rolników, kółek i organizacji rolniczych, wojewódzkim związku rolników, kółek i organizacji rolniczych albo Krajowym Związku Rolników, Kółek i Organizacji Rolniczych.
-
-3. Koła gospodyń wiejskich wpisane do Krajowego Rejestru Kół Gospodyń Wiejskich, o którym mowa w art. 6 ust. 1 ustawy z dnia 9 listopada 2018 r. o kołach gospodyń wiejskich, mogą zrzeszać się w gminnym związku rolników, kółek i organizacji rolniczych, wojewódzkim związku rolników, kółek i organizacji rolniczych albo Krajowym Związku Rolników, Kółek i Organizacji Rolniczych.
 
 #### Rozdział 2 Uprawnienia i zadania organizacji rolników oraz zasady współdziałania tych organizacji z organami administracji państwowej i organizacjami działającymi na rzecz rolnictwa
 
@@ -61,11 +56,11 @@ source: "isap-pdf"
 
 1. Organizacje rolników, reprezentując potrzeby oraz interesy zawodowe i społeczne rolników indywidualnych, uczestniczą w:
 
-- **1)** kształtowaniu i realizacji polityki rolnej i społecznej w zakresie: rozwoju i ochrony własności indywidualnych gospodarstw rolnych, gospodarki ziemią, ochrony gruntów rolnych, gospodarki wodnej, nasiennictwa i hodowli zwierząt, infrastruktury rolniczej i społecznej wsi, ochrony środowiska naturalnego, rzeczowych ubezpieczeń rolnych, systemu kredytowego i podatkowego w stosunku do indywidualnych gospodarstw rolnych, ochrony zdrowia ludności wiejskiej, zabezpieczenia socjalnego mieszkańców wsi, rozwoju oświaty, kultury, sportu oraz turystyki na wsi;
-- **2)** ustalaniu poziomu i zasad kształtowania cen na środki produkcji rolniczej i usług dla rolnictwa, określaniu wielkości i zasad zaopatrzenia gospodarstw indywidualnych w środki produkcji oraz w ocenie ich jakości;
-- **3)** ustalaniu warunków kontraktacji oraz cen skupu i sprzedaży produktów rolnych, usług produkcyjnych dla rolnictwa i usług dla ludności wiejskiej oraz norm i zasad klasyfikacji produktów rolnych;
-- **4)** ustalaniu zasad i warunków kooperacji w rolnictwie;
-- **5)** opracowywaniu planów społeczno-gospodarczych w części dotyczącej wsi i rolnictwa, a także planów zagospodarowania przestrzennego gmin i wsi;
+- **1)** kształtowaniu i realizacji polityki rolnej i społecznej w zakresie: rozwoju i ochrony własności indywidualnych gospodarstw rolnych, gospodarki ziemią, ochrony gruntów rolnych, gospodarki wodnej, nasiennictwa i hodowli zwierząt, infrastruktury rolniczej i społecznej wsi, ochrony środowiska naturalnego, rzeczowych ubezpieczeń rolnych, systemu kredytowego i podatkowego w stosunku do indywidualnych gospodarstw rolnych, ochrony zdrowia ludności wiejskiej, zabezpieczenia socjalnego mieszkańców wsi, rozwoju oświaty, kultury, sportu oraz turystyki na wsi,
+- **2)** ustalaniu poziomu i zasad kształtowania cen na środki produkcji rolniczej i usług dla rolnictwa, określaniu wielkości i zasad zaopatrzenia gospodarstw indywidualnych w środki produkcji oraz w ocenie ich jakości,
+- **3)** ustalaniu warunków kontraktacji oraz cen skupu i sprzedaży produktów rolnych, usług produkcyjnych dla rolnictwa i usług dla ludności wiejskiej oraz norm i zasad klasyfikacji produktów rolnych,
+- **4)** ustalaniu zasad i warunków kooperacji w rolnictwie,
+- **5)** opracowywaniu planów społeczno-gospodarczych w części dotyczącej wsi i rolnictwa, a także planów zagospodarowania przestrzennego gmin i wsi,
 - **6)** sprawowaniu społecznej kontroli nad funkcjonowaniem jednostek organizacyjnych obsługujących rolnictwo i mieszkańców wsi.
 
 2. Uprawnienia, o których mowa w ust. 1, organizacje rolników realizują poprzez: przedkładanie właściwym organom państwowym i państwowym jednostkom organizacyjnym oraz organizacjom spółdzielczym i innym organizacjom powołanym do wykonywania zadań na rzecz rolnictwa indywidualnego swego stanowiska w postaci opinii, wniosków, postulatów i żądań, inicjowanie regulacji prawnych oraz opiniowanie projektów lub udział w opracowywaniu aktów prawnych oraz udział w negocjacjach w sprawach wymienionych w ust. 1.
@@ -74,9 +69,9 @@ source: "isap-pdf"
 
 **Art. 5.**
 
-1. Organy administracji rządowej i jednostek samorządu terytorialnego oraz państwowe jednostki organizacyjne, a także organizacje spółdzielcze i inne organizacje powołane do wykonywania zadań na rzecz rolnictwa indywidualnego zobowiązane są do współdziałania z organizacjami rolników w sprawach określonych w art. 4 ust. 1 i 3.
+1. Organy administracji państwowej oraz państwowe jednostki organizacyjne, a także organizacje spółdzielcze i inne organizacje powołane do wykonywania zadań na rzecz rolnictwa indywidualnego zobowiązane są do współdziałania z organizacjami rolników w sprawach określonych w art. 4 ust. 1 i 3.
 
-2. Rada Ministrów, w drodze rozporządzenia, określa obowiązki organów administracji rządowej i jednostek samorządu terytorialnego oraz zasady ich współdziałania z organizacjami rolników w sprawach wymienionych w art. 4 ust. 1 i 3, w tym formy obowiązkowego zwracania się do tych organizacji o opinie w określonych sprawach.
+2. Rada Ministrów, w drodze rozporządzenia, określa obowiązki organów administracji państwowej oraz zasady ich współdziałania z organizacjami rolników w sprawach wymienionych w art. 4 ust. 1 i 3, w tym formy obowiązkowego zwracania się do tych organizacji o opinie w określonych sprawach.
 
 **Art. 6.**
 
@@ -90,13 +85,13 @@ source: "isap-pdf"
 
 2. Rozwiązanie sporu w tym postępowaniu winno nastąpić w ciągu siedmiu dni – w razie sporu obejmującego jedną organizację rolników i w ciągu dziesięciu dni – w razie sporu wykraczającego poza sprawy jednej organizacji rolników.
 
-3. Rozwiązanie sporu następuje w drodze porozumienia, które wiąże strony. W razie nieosiągnięcia porozumienia komisja sporządza protokół rozbieżności, ze wskazaniem stanowisk stron.
+3. Rozwiązanie sporu następuje w drodze porozumienia, które wiąże strony. W razie nieosiągnięcia porozumienia komisja sporządza protokół rozbieżności, za wskazaniem stanowisk stron.
 
 **Art. 8.**
 
-1. Jeżeli spór nie został rozwiązany w trybie określonym w art. 7, strony obowiązane są poddać go rozstrzygnięciu przez kolegium arbitrażu społecznego przy sądzie rejestrowym właściwym dla wiodącej w sporze organizacji rolników, a w przypadku gdy wiodącą w sporze organizacją rolników jest koło gospodyń wiejskich wpisane do Krajowego Rejestru Kół Gospodyń Wiejskich, o którym mowa w art. 6 ust. 1 ustawy z dnia 9 listopada 2018 r. o kołach gospodyń wiejskich – właściwym ze względu na siedzibę tego koła.
+1. Jeżeli spór nie został rozwiązany w trybie określonym w art. 7, strony obowiązane są poddać go rozstrzygnięciu przez kolegium arbitrażu społecznego przy sądzie rejestrowym właściwym dla wiodącej w sporze organizacji rolników.
 
-2. W skład kolegium wchodzą: przewodniczący wyznaczony spośród sędziów danego sądu przez prezesa sądu oraz sześciu członków wyznaczonych po trzech członków przez każdą ze stron. Strony powinny dążyć do wskazania osób bezpośrednio niezainteresowanych rozstrzygnięciem sprawy.
+2. W skład kolegium wchodzą: przewodniczący wyznaczony spośród sędziów danego sądu przez prezesa sądu oraz sześciu członków wyznaczonych po trzech członków przez każdą ze stron. Strony powinny dążyć do wskazania osób bezpośrednio nie zainteresowanych rozstrzygnięciem sprawy.
 
 3. Prezes sądu wyznacza bezzwłocznie termin posiedzenia, o którym zawiadamia strony sporu lub ich przedstawicieli.
 
@@ -118,7 +113,7 @@ source: "isap-pdf"
 
 5. Udział rolników w akcji protestacyjnej jest dobrowolny. Nikt nie może być ani przymuszony do udziału, ani do odmowy udziału w takiej akcji.
 
-6. Organizator akcji protestacyjnej obowiązany jest zapewnić właściwy przebieg akcji protestacyjnej; działania podejmowane w ramach akcji protestacyjnej nie mogą zagrażać życiu i zdrowiu ludzkiemu oraz powodować zniszczenia lub uszkodzenia mienia.
+6. Organizator akcji protestacyjnej obowiązany jest zapewnić właściwy przebieg akcji protestacyjnej działania podejmowane w ramach akcji protestacyjnej nie mogą zagrażać życiu i zdrowiu ludzkiemu oraz powodować zniszczenia lub uszkodzenia mienia.
 
 7. W czasie trwania akcji protestacyjnej nie mogą być wstrzymane dostawy środków żywności dla zaspokojenia potrzeb ludności oraz potrzeb w zakresie obronności i bezpieczeństwa Państwa.
 
@@ -126,10 +121,10 @@ source: "isap-pdf"
 
 1. Organizacje rolników uprawnione są do wykonywania przez upoważnionych swoich przedstawicieli kontroli społecznej jednostek organizacyjnych i organizacji w zakresie:
 
-- **1)** zaopatrzenia gospodarstw rolnych w środki produkcji i materiały inwestycyjne;
-- **2)** realizacji umów kontraktacyjnych oraz skupu produktów rolnych;
-- **3)** świadczenia usług dla rolnictwa i ludności wiejskiej;
-- **4)** realizowanych na potrzeby gospodarstw rolnych inwestycji melioracyjnych, wodnych, energetycznych i innych;
+- **1)** zaopatrzenia gospodarstw rolnych w środki produkcji i materiały inwestycyjne,
+- **2)** realizacji umów kontraktacyjnych oraz skupu produktów rolnych,
+- **3)** świadczenia usług dla rolnictwa i ludności wiejskiej,
+- **4)** realizowanych na potrzeby gospodarstw rolnych inwestycji melioracyjnych, wodnych, energetycznych i innych,
 - **5)** likwidacji szkód losowych i łowieckich.
 
 2. Organy, jednostki organizacyjne i organizacje poddane kontroli, o której mowa w ust. 1, obowiązane są umożliwić wykonywanie tej kontroli.
@@ -140,19 +135,19 @@ source: "isap-pdf"
 
 1. W zakresie działalności na rzecz rozwoju indywidualnych gospodarstw rolnych oraz postępu gospodarczego, społecznego i socjalnego na wsi, a także kształtowania społecznych wzorów postępowania i postaw obywatelskich, organizacje rolników mogą, w szczególności:
 
-- **1)** inicjować i udzielać pomocy w rozwijaniu i wdrażaniu postępu rolniczego, technicznego i socjalnego w indywidualnych gospodarstwach rolnych i wiejskich gospodarstwach domowych oraz upowszechniać doświadczenia przodujących rolników;
-- **2)** udzielać pomocy w podnoszeniu produkcji gospodarstw rolnych oraz rozwijaniu przez nie specjalizacji i kooperacji;
-- **3)** udzielać rolnikom rady i pomocy w wyborze oraz stosowaniu racjonalnych form i metod gospodarowania, stosowaniu właściwych zabiegów i środków agrotechnicznych, zootechnicznych oraz technologii w produkcji rolniczej, przechowalnictwie i przetwórstwie produktów rolnych;
-- **4)** udzielać pomocy w prawidłowej organizacji gospodarstw i prowadzeniu rachunkowości rolnej;
-- **5)** rozwijać różnorodne formy współdziałania produkcyjnego i pomocy sąsiedzkiej;
-- **6)** upowszechniać wiedzę zawodową i społeczną wśród rolników oraz młodzieży wiejskiej;
-- **7)** uczestniczyć w organizowaniu praktyk rolniczych dla uczniów i studentów szkół rolniczych;
-- **8)** organizować poradnictwo prawne na rzecz rolników;
-- **9)** inicjować działania zmierzające do poprawy warunków życia i pracy ludności wiejskiej;
-- **10)** udzielać pomocy rodzinom wiejskim w wychowywaniu i kształceniu oraz zapewnianiu właściwego wypoczynku dzieciom i młodzieży wiejskiej;
-- **11)** podejmować działania w zakresie poprawy stanu zdrowia ludności wiejskiej oraz opieki społecznej na wsi;
-- **12)** upowszechniać racjonalne metody prowadzenia gospodarstw domowych i żywienia rodziny;
-- **13)** oddziaływać na kształtowanie etyki zawodowej i podnoszenie społecznej rangi zawodu rolnika;
+- **1)** inicjować i udzielać pomocy w rozwijaniu i wdrażaniu postępu rolniczego, technicznego i socjalnego w indywidualnych gospodarstwach rolnych i wiejskich gospodarstwach domowych oraz upowszechniać doświadczenia przodujących rolników i gospodyń wiejskich,
+- **2)** udzielać pomocy w podnoszeniu produkcji gospodarstw rolnych oraz rozwijaniu przez nie specjalizacji i kooperacji,
+- **3)** udzielać rolnikom rady i pomocy w wyborze oraz stosowaniu racjonalnych form i metod gospodarowania, stosowaniu właściwych zabiegów i środków agrotechnicznych, zootechnicznych oraz technologii w produkcji rolniczej, przechowalnictwie i przetwórstwie produktów rolnych,
+- **4)** udzielać pomocy w prawidłowej organizacji gospodarstw i prowadzeniu rachunkowości rolnej,
+- **5)** rozwijać różnorodne formy współdziałania produkcyjnego i pomocy sąsiedzkiej,
+- **6)** upowszechniać wiedzę zawodową i społeczną wśród rolników oraz młodzieży wiejskiej,
+- **7)** uczestniczyć w organizowaniu praktyk rolniczych dla uczniów i studentów szkół rolniczych,
+- **8)** organizować poradnictwo prawne na rzecz rolników,
+- **9)** inicjować działania zmierzające do poprawy warunków życia i pracy ludności wiejskiej,
+- **10)** udzielać pomocy rodzinom wiejskim w wychowywaniu i kształceniu oraz zapewnianiu właściwego wypoczynku dzieciom i młodzieży wiejskiej,
+- **11)** podejmować działania w zakresie poprawy stanu zdrowia ludności wiejskiej oraz opieki społecznej na wsi,
+- **12)** upowszechniać racjonalne metody prowadzenia gospodarstw domowych i żywienia rodziny,
+- **13)** oddziaływać na kształtowanie etyki zawodowej i podnoszenie społecznej rangi zawodu rolnika,
 - **14)** rozwijać działalność oświatową i kulturalną na wsi.
 
 2. W wypadkach gdy jest to uzasadnione celami i zadaniami określonymi w niniejszej ustawie i statutach poszczególnych organizacji rolników, organizacje te mogą występować, na zasadach określonych w Kodeksie postępowania administracyjnego, do właściwych organów administracji państwowej z żądaniem o wszczęcie postępowania administracyjnego bądź o dopuszczenie do udziału w toczącym się postępowaniu administracyjnym w określonej sprawie indywidualnej. Przedstawiciel organizacji rolników może być pełnomocnikiem rolnika w sprawach związanych z prowadzeniem gospodarstwa.
@@ -163,28 +158,17 @@ source: "isap-pdf"
 
 1. Organizacje rolników mogą inicjować, organizować i prowadzić działalność gospodarczą i socjalną, w zakresie określonym w statutach, na zasadach przewidzianych w odrębnych przepisach, a w szczególności:
 
-- **1)** inicjować i prowadzić działalność usługową, produkcyjną i handlową na potrzeby rolników i ludności wiejskiej;
-- **2)** inicjować i organizować pomoc dla rolników i ludności wiejskiej w wytwarzaniu materiałów budowlanych z surowców miejscowych oraz pomagać w zaspokajaniu potrzeb w zakresie maszyn i sprzętu;
-- **3)** inicjować i organizować kooperację produkcyjną służącą intensyfikacji i specjalizacji produkcji rolniczej oraz zagospodarowywaniu lasów stanowiących własność rolników indywidualnych;
-- **4)** prowadzić placówki opiekuńczo-wychowawcze, opieki zdrowotnej i społecznej;
+- **1)** inicjować i prowadzić działalność usługową, produkcyjną i handlową na potrzeby rolników i ludności wiejskiej,
+- **2)** inicjować i organizować pomoc dla rolników i ludności wiejskiej w wytwarzaniu materiałów budowlanych z surowców miejscowych oraz pomagać w zaspokajaniu potrzeb w zakresie maszyn i sprzętu,
+- **3)** inicjować i organizować kooperację produkcyjną służącą intensyfikacji i specjalizacji produkcji rolniczej oraz zagospodarowywaniu lasów stanowiących własność rolników indywidualnych,
+- **4)** prowadzić placówki opiekuńczo-wychowawcze, opieki zdrowotnej i społecznej,
 - **5)** inicjować i organizować czyny społeczne.
 
-2. Rada Ministrów, po zasięgnięciu opinii Krajowego Związku Rolników, Kółek i Organizacji Rolniczych, w drodze rozporządzenia, określa warunki i formy organizowania i prowadzenia przez organizacje rolników działalności gospodarczej, określonej w ust. 1 pkt 1–3.
+2. Rada Ministrów, po zasięgnięciu opinii Krajowego Związku Rolników, Kółek i Organizacji Rolniczych, w drodze rozporządzenia, określa warunki i formy organizowania i prowadzenia przez organizacje rolników działalności gospodarczej określonej w ust. 1 pkt 1–3.
 
 **Art. 13.** W zakresie spraw określonych w art. 11 ust. 1 i art. 12 ust. 1 organizacje rolników współdziałają z innymi organizacjami społecznymi i gospodarczymi rolników, a także państwowymi przedsiębiorstwami gospodarki rolnej i rolniczymi spółdzielniami produkcyjnymi oraz innymi jednostkami i organizacjami działającymi na rzecz rolnictwa; w razie potrzeby organizacje rolników zawierają z tymi organizacjami odpowiednie porozumienia i umowy o współpracy bądź realizacji wspólnych zadań.
 
-**Art. 14.** Organizacje rolników zajmujące się działalnością gospodarczą prowadzą rachunkowość oraz ewidencję ujmującą ich działalność gospodarczą, stan i zmiany składników majątkowych oraz sporządzają rachunek wyników tej działalności.
-
-**Art. 14a.**
-
-1. Organizacje rolników mogą przystępować do:
-
-- **1)** międzynarodowych organizacji rolniczych;
-- **2)** ponadnarodowych organizacji rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej.
-
-2. Koszty związane z uczestnictwem organizacji rolników w organizacjach, o których mowa w ust. 1 pkt 2, są w latach 2014–2020 dofinansowywane na zasadach określonych w przepisach o izbach rolniczych.
-
-3. Koszty związane z uczestnictwem organizacji rolników w organizacjach, o których mowa w ust. 1 pkt 2, są w latach 2021–2026 dofinansowywane na zasadach określonych w przepisach o izbach rolniczych.
+**Art. 14.** Organizacje rolników zajmujące się działalnością gospodarczą prowadzą rachunkowość oraz ewidencję, ujmującą ich działalność gospodarczą, stan i zmiany składników majątkowych oraz sporządzają rachunek wyników tej działalności.
 
 #### Rozdział 3 Kółka rolnicze
 
@@ -196,8 +180,8 @@ source: "isap-pdf"
 
 3. Członkiem kółka rolniczego może być:
 
-- **1)** osoba prowadząca indywidualne gospodarstwo rolne jako jego właściciel, posiadacz bądź użytkownik;
-- **2)** pełnoletni członek rodziny rolnika wymienionego w pkt 1, pracujący w prowadzonym przez niego gospodarstwie rolnym;
+- **1)** osoba prowadząca indywidualne gospodarstwo rolne jako jego właściciel, posiadacz bądź użytkownik,
+- **2)** pełnoletni członek rodziny rolnika wymienionego w pkt 1, pracujący w prowadzonym przez niego gospodarstwie rolnym,
 - **3)** osoba, która przekazała gospodarstwo rolne za emeryturę lub rentę.
 
 4. Szczegółowe zasady i warunki wstępowania i występowania członków kółek rolniczych określają statuty kółek; statut może przewidywać przyjmowanie na członków kółka rolniczego także innych osób niż wymienione w ust. 3, związanych bezpośrednio charakterem swojej pracy z rolnictwem.
@@ -206,21 +190,21 @@ source: "isap-pdf"
 
 1. Statut kółka rolniczego powinien określać:
 
-- **1)** nazwę i siedzibę kółka;
-- **2)** podmiotowy i terytorialny zakres jego działania;
-- **3)** cele i zadania kółka oraz środki ich realizacji;
-- **4)** zakres i przedmiot działalności gospodarczej;
-- **5)** sposób wstępowania i występowania członków oraz utraty członkostwa;
-- **6)** prawa i obowiązki członków;
-- **7)** sposób ustanawiania składek członkowskich;
-- **8)** strukturę organizacyjną kółka;
-- **9)** organy kółka, ich kompetencje, okres kadencji oraz tryb ich wyboru i odwoływania przed upływem kadencji;
-- **10)** warunki podejmowania i ważności uchwał organów kółka;
-- **11)** sposób reprezentowania kółka na zewnątrz;
-- **12)** majątek kółka oraz sposób dysponowania tym majątkiem;
-- **13)** sposób zaciągania przez kółko zobowiązań majątkowych;
-- **14)** zasady podziału nadwyżki z prowadzonej działalności gospodarczej;
-- **15)** sposób zmiany statutu;
+- **1)** nazwę i siedzibę kółka,
+- **2)** podmiotowy i terytorialny zakres jego działania,
+- **3)** cele i zadania kółka oraz środki ich realizacji,
+- **4)** zakres i przedmiot działalności gospodarczej,
+- **5)** sposób wstępowania i występowania członków oraz utraty członkostwa,
+- **6)** prawa i obowiązki członków,
+- **7)** sposób ustanawiania składek członkowskich,
+- **8)** strukturę organizacyjną kółka,
+- **9)** organy kółka, ich kompetencje, okres kadencji oraz tryb ich wyboru i odwoływania przed upływem kadencji,
+- **10)** warunki podejmowania i ważności uchwał organów kółka,
+- **11)** sposób reprezentowania kółka na zewnątrz.
+- **12)** majątek kółka oraz sposób dysponowania tym majątkiem,
+- **13)** sposób zaciągania przez kółko zobowiązań majątkowych,
+- **14)** zasady podziału nadwyżki z prowadzonej działalności gospodarczej,
+- **15)** sposób zmiany statutu,
 - **16)** tryb likwidacji kółka.
 
 2. W strukturze organizacyjnej kółka statut może przewidywać powoływanie sekcji, kół bądź zespołów specjalistycznych, odpowiadających zainteresowaniom członków (producentów określonych upraw, hodowców i innych), oraz zespołów młodych rolników i innych.
@@ -233,9 +217,9 @@ source: "isap-pdf"
 
 **Art. 18.**
 
-1. Kółko rolnicze podlega obowiązkowi rejestracji w Krajowym Rejestrze Sądowym, zwanym dalej „rejestrem”.
+1. Kółko rolnicze i jego statut podlegają rejestracji.
 
-2. Rejestracji podlegają także zmiany statutu kółka rolniczego; przez zmianę statutu rozumie się również uchwalenie przez istniejące kółko nowego statutu.
+2. Rejestracji podlegają także zmiany statutu kółka rolniczego, przez zmianę statutu rozumie się również uchwalanie przez istniejące kółko nowego statutu.
 
 3. Z chwilą dokonania rejestracji, o której mowa w ust. 1, kółko rolnicze nabywa osobowość prawną.
 
@@ -247,9 +231,9 @@ source: "isap-pdf"
 
 3. Kółko rolnicze podlega wykreśleniu z rejestru, jeżeli:
 
-- **1)** podjęta zostanie, zgodnie ze statutem, uchwała o rozwiązaniu kółka;
-- **2)** uchwalona zmiana statutu nie odpowiada wymaganiom określonym w ustawie, a kółko rolnicze, mimo wskazania przez organ rejestrowy na zaistniałe uchybienia, nie podejmie uchwały usuwającej te uchybienia bądź nie odstąpi od zmiany statutu;
-- **3)** liczba członków kółka osiągnie stan poniżej liczby określonej w art. 17 ust. 1;
+- **1)** podjęta zostanie, zgodnie ze statutem, uchwała o rozwiązaniu kółka,
+- **2)** uchwalona zmiana statutu nie odpowiada wymaganiom określonym w ustawie, a kółko rolnicze, mimo wskazania przez organ rejestrowy na zaistniałe uchybienia, nie podejmie uchwały usuwającej te uchybienia bądź nie odstąpi od zmiany statutu,
+- **3)** liczba członków kółka osiągnie stan poniżej liczby określonej w art. 17 ust. 1,
 - **4)** w innych wypadkach przewidzianych w ustawie.
 
 **Art. 20.**
@@ -266,27 +250,40 @@ source: "isap-pdf"
 
 3. Do spółdzielni, o której mowa w ust. 2, stosuje się przepisy ustawy – Prawo spółdzielcze.
 
-#### Rozdział 4
+#### Rozdział 4 Koła gospodyń wiejskich
+
+**Art. 22.**
+
+1. Koło gospodyń wiejskich w szczególności broni praw, reprezentuje interesy i działa na rzecz poprawy sytuacji społeczno-zawodowej kobiet wiejskich oraz ich rodzin.
+
+2. Koło gospodyń wiejskich działa jako wyodrębniona jednostka organizacyjna kółka rolniczego i ma swoją reprezentację we wszystkich jego statutowych organach.
+
+3. Koło gospodyń wiejskich działa na podstawie uchwalonego przez siebie regulaminu, określającego cele i zadania koła, uprawnienia i obowiązki członków, formy i środki działania, tryb podejmowania uchwał przez organy koła oraz uprawnienia i obowiązki tych organów. Regulamin może przewidywać udział w działalności koła kobiet nie będących członkami kółka rolniczego, związanych charakterem swej pracy ze środowiskiem wiejskim.
+
+4. We wsiach, w których nie działają kółka rolnicze, mogą być zakładane samodzielne koła gospodyń wiejskich, działające na podstawie regulaminu rejestrowanego w wojewódzkim związku rolników, kółek i organizacji rolniczych.
 
 #### Rozdział 5 Rolnicze zrzeszenia branżowe
 
 **Art. 23.**
 
-1. Rolnicze zrzeszenie branżowe jest dobrowolną, niezależną i samorządną, społeczno-zawodową organizacją, reprezentującą i broniącą praw i interesów rolników indywidualnych specjalizujących się w określonej gałęzi produkcji roślinnej lub zwierzęcej.
+1. Rolnicze zrzeszenia branżowe jest dobrowolną, niezależną i samorządną, społeczno-zawodową organizacją, reprezentującą i broniącą praw i interesów rolników indywidualnych specjalizujących się w określonej gałęzi produkcji roślinnej lub zwierzęcej.
 
-2. Terenem działania rolniczego zrzeszenia branżowego może być jedna bądź więcej wsi, teren gminy (miasta) lub większej liczby gmin (miast) danego województwa, jedno województwo albo więcej województw.
+2. Terenem działania rolniczego zrzeszenia branżowego może być jedna bądź więcej wsi, teren gminy (miasta) lub większej liczby gmin (miast), danego województwa, jedno województwo albo więcej województw.
 
 3. Do członkostwa w rolniczym zrzeszeniu branżowym stosuje się odpowiednio przepisy art. 15 ust. 3 i 4.
 
 **Art. 24.** Członek rolniczego zrzeszenia branżowego może być równocześnie członkiem kółka rolniczego.
 
-**Art. 25.** Do rolniczych zrzeszeń branżowych w sprawach nieuregulowanych w art. 23 i 24 stosuje się odpowiednio przepisy dotyczące kółek rolniczych.
+**Art. 25.** Do rolniczych zrzeszeń branżowych w sprawach nie uregulowanych w art. 23 i 24 stosuje się odpowiednio przepisy dotyczące kółek rolniczych.
 
 **Art. 26.** Rolnicze zrzeszenie branżowe może zrzeszać się w związku rolniczych zrzeszeń branżowych, a w wypadku nieprzystąpienia do takiego związku zrzesza się we właściwym krajowym związku branżowym.
 
 #### Rozdział 6 Gminne i wojewódzkie związki rolników, kółek i organizacji rolniczych
 
 **Art. 27.** Gminne i wojewódzkie związki rolników, kółek i organizacji rolniczych są dobrowolnymi, niezależnymi i samorządnymi zrzeszeniami:
+
+- **1)** związki gminne – kółek rolniczych, rolniczych zrzeszeń branżowych oraz innych społecznych i gospodarczych organizacji rolników,
+- **2)** związki wojewódzkie – gminnych związków rolników, kółek i organizacji rolniczych oraz rolniczych zrzeszeń branżowych i związków rolniczych zrzeszeń branżowych, a także innych społecznych i gospodarczych organizacji rolników.
 
 **Art. 28.**
 
@@ -298,11 +295,11 @@ source: "isap-pdf"
 
 1. W sprawie założenia gminnego bądź wojewódzkiego związku rolników, kółek i organizacji rolniczych – kółka założyciele oraz związki założyciele działają poprzez osoby wchodzące w skład ich organów wykonawczych.
 
-2. Osoby wymienione w ust. 1 pełnią rolę zgromadzenia założycieli gminnego bądź wojewódzkiego związku rolników, kółek i organizacji rolniczych.
+2. Osoby wymienione w ust. 1 pełnią rolę zgromadzenia założycieli gminnego bądź wojewódzkiego związku rolników, kółek organizacji rolniczych.
 
 3. Zgromadzenie założycieli gminnego bądź wojewódzkiego związku rolników, kółek i organizacji rolniczych wybiera spośród siebie komitet założycielski zakładanego związku oraz uchwala jego statut.
 
-**Art. 30.** Do gminnych i wojewódzkich związków rolników, kółek i organizacji rolniczych w sprawach nieuregulowanych w art. 27–29 stosuje się odpowiednio przepisy ustawy dotyczące kółek rolniczych.
+**Art. 30.** Do gminnych i wojewódzkich związków rolników, kółek i organizacji rolniczych w sprawach nie uregulowanych w art. 27–29 stosuje się odpowiednio przepisy ustawy dotyczące kółek rolniczych.
 
 #### Rozdział 7 Związki rolniczych zrzeszeń branżowych
 
@@ -312,15 +309,15 @@ source: "isap-pdf"
 
 2. Terenem działalności związków, o których mowa w ust. 1, może być rejon, województwo, okręg bądź teren całego kraju.
 
-3. Krajowe związki rolniczych zrzeszeń branżowych mogą zrzeszać się w Krajowym Związku Rolników, Kółek i Organizacji Rolniczych.
+3. Krajowe związki rolniczych zrzeszeń branżowych mogą zrzeszać się w Krajowym Związku Rolników Kółek i Organizacji Rolniczych.
 
-**Art. 32.** Do związków rolniczych zrzeszeń branżowych w sprawach nieuregulowanych w art. 31 stosuje się odpowiednio przepisy dotyczące gminnych i wojewódzkich związków rolników, kółek i organizacji rolniczych.
+**Art. 32.** Do związków rolniczych zrzeszeń branżowych w sprawach nie uregulowanych w art. 31 stosuje się odpowiednio przepisy dotyczące gminnych i wojewódzkich związków rolników, kółek i organizacji rolniczych.
 
 #### Rozdział 8 Krajowy Związek Rolników, Kółek i Organizacji Rolniczych
 
 **Art. 33.**
 
-1. Krajowy Związek Rolników, Kółek i Organizacji Rolniczych, zwany dalej „Krajowym Związkiem”, jest ogólnopolskim, niezależnym i samorządnym zrzeszeniem kółek rolniczych, związków rolników, kółek i organizacji rolniczych oraz na zasadach dobrowolności – kół gospodyń wiejskich wpisanych do Krajowego Rejestru Kół Gospodyń Wiejskich, o którym mowa w art. 6 ust. 1 ustawy z dnia 9 listopada 2018 r. o kołach gospodyń wiejskich, a także krajowych związków rolniczych zrzeszeń branżowych i innych organizacji rolników.
+1. Krajowy Związek Rolników, Kółek i Organizacji Rolniczych, zwany dalej „Krajowym Związkiem”, jest ogólnopolskim, niezależnym i samorządnym zrzeszeniem kółek rolniczych, związków rolników, kółek i organizacji rolniczych oraz na zasadach dobrowolności – krajowych związków rolniczych zrzeszeń branżowych i innych organizacji rolników.
 
 2. Krajowy Związek stanowi naczelną reprezentację rolników indywidualnych.
 
@@ -334,14 +331,14 @@ source: "isap-pdf"
 
 3. Statut Krajowego Związku powinien określać w szczególności:
 
-- **1)** cele i zadania Krajowego Związku;
-- **2)** szczegółowe zasady, zakres i tryb jego działania;
-- **3)** prawa i obowiązki organizacji członkowskich;
-- **4)** sposób ustanawiania składek członkowskich;
-- **5)** organy Krajowego Związku, tryb i zasady ich wyboru, okres kadencji, kompetencje, tryb działania oraz odwoływania członków tych organów przed upływem kadencji;
-- **6)** warunki podejmowania i ważności uchwał organów Krajowego Związku;
-- **7)** sposób reprezentowania Krajowego Związku na zewnątrz oraz zaciąganie przez ten Związek zobowiązań majątkowych;
-- **8)** majątek i fundusze Krajowego Związku oraz zasady gospodarowania tym majątkiem i funduszami;
+- **1)** cele i zadania Krajowego Związku,
+- **2)** szczegółowe zasady, zakres i tryb jego działania,
+- **3)** prawa i obowiązki organizacji członkowskich,
+- **4)** sposób ustanawiania składek członkowskich,
+- **5)** organy Krajowego Związku, tryb i zasady ich wyboru, okres kadencji, kompetencje, tryb działania oraz odwoływania członków tych organów przed upływem kadencji,
+- **6)** warunki podejmowania i ważności uchwał organów Krajowego Związku,
+- **7)** sposób reprezentowania Krajowego Związku na zewnątrz oraz zaciąganie przez ten Związek zobowiązań majątkowych,
+- **8)** majątek i fundusze Krajowego Związku oraz zasady gospodarowania tym majątkiem i funduszami,
 - **9)** sposób zmiany statutu.
 
 4. Statut Krajowego Związku podlega rejestracji.
@@ -350,7 +347,7 @@ source: "isap-pdf"
 
 1. Krajowy Związek jest organem lustracyjnym kółek rolniczych, związków rolników, kółek i organizacji rolniczych oraz zrzeszonych w nim rolniczych zrzeszeń branżowych i związków rolniczych zrzeszeń branżowych.
 
-2. W wykonaniu zadań wynikających z przepisu ust. 1 Krajowy Związek uprawniony jest do przeprowadzania lustracji organizacji wymienionych w tym przepisie; lustracja obejmuje badanie wszystkich rodzajów działalności tych organizacji pod względem legalności, celowości, gospodarności i rzetelności.
+2. W wykonaniu zadań wynikających z przepisu ust. 1 Krajowy Związek uprawniony jest do przeprowadzania lustracji organizacji wymienianych w tym przepisie; lustracja obejmuje badanie wszystkich rodzajów działalności tych organizacji pod względem legalności, celowości, gospodarności i rzetelności.
 
 3. Krajowy Związek może upoważnić określone wojewódzkie związki rolników, kółek i organizacji rolniczych oraz zrzeszone w nim krajowe związki rolniczych zrzeszeń branżowych do wykonywania w imieniu Krajowego Związku lustracji określonych organizacji rolników.
 
@@ -360,51 +357,43 @@ source: "isap-pdf"
 
 6. Krajowy Związek określa zasady, zakres i tryb przeprowadzania lustracji oraz obowiązki organizacji wymienionych w ust. 1 związane z lustracją.
 
-7. Rada Ministrów, w drodze rozporządzenia, określa organy właściwe do przeprowadzania lustracji rolniczych zrzeszeń branżowych i związków rolniczych zrzeszeń branżowych niezrzeszonych w Krajowym Związku oraz zasady, zakres i tryb przeprowadzania lustracji przez te organy.
+7. Rada Ministrów, w drodze rozporządzenia, określa organy właściwe do przeprowadzania lustracji rolniczych zrzeszeń branżowych i związków rolniczych zrzeszeń branżowych nie zrzeszonych w Krajowym Związku oraz zasady, zakres i tryb przeprowadzania lustracji przez te organy.
 
-**Art. 35a.**
+#### Rozdział 9 Organy rejestrowe organizacji rolników
 
-1. Podatnik podatku rolnego, będący osobą fizyczną, może wnioskować do właściwego organu podatkowego o przekazanie przez ten organ 1,5 % podatku rolnego obliczonego zgodnie z odrębnymi przepisami na rzecz Krajowego Związku wpisanego na listę, o której mowa w art. 35b ust. 1, jeżeli ten związek spełnia następujące warunki:
+**Art. 36.**
 
-- **1)** został wpisany do rejestru co najmniej 6 lat przed dniem 1 stycznia danego roku podatkowego;
-- **2)** ma na dzień 1 stycznia danego roku podatkowego struktury organizacyjne co najmniej w 10 województwach, 3 powiatach w każdym z tych województw, a liczba członków każdego kółka wynosi co najmniej 30 osób;
-- **3)** źródłem finansowania działalności są wpłaty ze składek członkowskich, przy czym roczna składka członkowska wynosi co najmniej 50 zł.
+1. Organami rejestrowymi kółek rolniczych, rolniczych zrzeszeń branżowych, związków rolników, kółek i organizacji rolniczych oraz związków rolniczych zrzeszeń branżowych są sądy rejonowe właściwe dla siedziby danej organizacji rolników.
 
-2. Otrzymane przez Krajowy Związek środki finansowe pochodzące z 1,5 % podatku rolnego mogą być wykorzystane wyłącznie na działalność statutową tego związku.
+2. Organem rejestrowym właściwym w sprawie statutu Krajowego Związku jest Sąd Wojewódzki w Warszawie.
 
-3. Do gospodarki środkami, o których mowa w ust. 2, stosuje się odpowiednio przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530, 1572, 1717, 1756 i 1907 oraz z 2025 r. poz. 39).
+**Art. 37.**
 
-**Art. 35b.**
+1. Sądy wymienione w art. 36 prowadzą rejestr kółek rolniczych, rolniczych zrzeszeń branżowych, związków rolników, kółek i organizacji rolniczych oraz związków rolniczych zrzeszeń branżowych.
 
-1. Minister właściwy do spraw rolnictwa sporządzi listę, na której umieści Krajowy Związek, zwaną dalej „listą”, i umieści ją na stronie internetowej urzędu obsługującego tego ministra w terminie do ostatniego dnia lutego danego roku podatkowego.
+2. Rejestr, o którym mowa w ust. 1, jest jawny i dostępny dla osób trzecich; każdy zainteresowany ma prawo otrzymania uwierzytelnionych odpisów i wyciągów z tego rejestru.
 
-2. Wpisu Krajowego Związku na listę dokonuje się na wniosek tego związku złożony do ministra właściwego do spraw rolnictwa w terminie do dnia 31 grudnia roku poprzedzającego rok podatkowy.
+**Art. 38.**
 
-3. Wniosek, o którym mowa w ust. 2, zawiera:
+1. W postępowaniu w sprawach o dokonanie rejestracji stosuje się odpowiednie przepisy Kodeksu postępowania cywilnego o postępowaniu nieprocesowym.
 
-- **1)** nazwę Krajowego Związku oraz jego siedzibę i adres;
-- **2)** numer Krajowego Związku w rejestrze;
-- **3)** numer rachunku bankowego Krajowego Związku;
-- **4)** podpis osoby albo osób uprawnionych do reprezentowania Krajowego Związku.
+2. Minister Sprawiedliwości, w drodze rozporządzenia, określa zasady prowadzenia rejestru, dane, jakie podlegają wpisowi do rejestru, wymagania, jakim powinien odpowiadać wniosek o dokonanie rejestracji organizacji wymienionych w art. 36 i ich statutów, oraz zasady udostępniania rejestru do wglądu zainteresowanym.
 
-4. Do wniosku, o którym mowa w ust. 2, dołącza się dokumenty potwierdzające informacje, o których mowa w ust. 3, w tym co najmniej:
+**Art. 39.**
 
-- **1)** nazwę, siedzibę i adres oraz numer wpisu do rejestru;
-- **2)** statut Krajowego Związku;
-- **3)** dokumenty potwierdzające, że reprezentacja Krajowego Związku, o której mowa w ust. 3 pkt 4, jest zgodna z przyjętymi w statucie Krajowego Związku zasadami reprezentacji;
-- **4)** dokumenty, z których wynika, że działalność Krajowego Związku jest finansowana ze składek członkowskich.
+1. Sąd rejestrowy, w razie stwierdzenia, że określony organ organizacji rolników prowadzi działalność sprzeczną z powszechnie obowiązującymi przepisami prawa ustala trzymiesięczny termin na dostosowanie działalności tego organu do obowiązującego prawa. Postępowanie w tych sprawach sąd podejmuje na wniosek prokuratora.
 
-5. Krajowy Związek zostanie wpisany na listę, jeżeli spełnia warunki określone w art. 35a ust. 1.
+2. W razie bezskutecznego upływu terminu przewidzianego w ust. 1 sąd rejestrowy może zażądać od właściwych władz organizacji rolników przeprowadzenia w określonym terminie nowych wyborów do organu organizacji rolników wymienionego w ust. 1.
 
-6. W przypadku zmiany osób upoważnionych do reprezentowania Krajowego Związku, jest on zobowiązany niezwłocznie powiadomić o tym fakcie ministra właściwego do spraw rolnictwa. W przypadku zmian dotyczących informacji, o których mowa w ust. 3, Krajowy Związek niezwłocznie powiadamia o tych zmianach ministra właściwego do spraw rolnictwa.
+3. Do rozpoznawania spraw, o których mowa w ust. 1 i 2, stosuje się przepisy Kodeksu postępowania cywilnego o postępowaniu nieprocesowym.
 
-7. Lista zawiera:
+**Art. 40.**
 
-- **1)** nazwę Krajowego Związku oraz jego siedzibę i adres;
-- **2)** numer wpisu Krajowego Związku w rejestrze;
-- **3)** numer rachunku bankowego Krajowego Związku.
+1. Jeżeli organizacja rolników prowadzi działalność sprzeczną z Konstytucją Polskiej Rzeczypospolitej Ludowej i innymi ustawami, właściwy sąd rejestrowy, na wniosek prokuratora, orzeka o wykreśleniu organizacji rolników z rejestru.
 
-#### Rozdział 9 (uchylony)
+2. Organizacja rolników wykreślona z rejestru obowiązana jest niezwłocznie zaprzestać swej działalności i dokonać, w terminie do trzech miesięcy, swojej likwidacji, w sposób przewidziany w statucie.
+
+3. Przepisy ust. 1 i 2 stosuje się odpowiednio, w wypadku gdy środki określone w art. 39 pozostały bez rezultatu.
 
 #### Rozdział 10 Przepisy wprowadzające, przejściowe i końcowe
 
@@ -416,7 +405,7 @@ source: "isap-pdf"
 
 3. Do czasu rejestracji statutu, o którym mowa w ust. 2, Krajowy Związek działa na podstawie statutu dotychczasowego. Jednakże w razie sprzeczności między statutem dotychczasowym a przepisami niniejszej ustawy stosuje się przepisy tej ustawy.
 
-4. Przepisy ust. 2 i 3 stosuje się odpowiednio do krajowych związków rolniczych zrzeszeń branżowych niezrzeszonych w Krajowym Związku Rolników, Kółek i Organizacji Rolniczych.
+4. Przepisy ust. 2 i 3 stosuje się odpowiednio do krajowych związków rolniczych zrzeszeń branżowych nie zrzeszonych w Krajowym Związku Rolników, Kółek i Organizacji Rolniczych.
 
 **Art. 42.**
 
@@ -424,7 +413,7 @@ source: "isap-pdf"
 
 2. Do czasu rejestracji statutów, o których mowa w ust. 1, organizacje rolników wymienione w tym przepisie działają na podstawie statutów dotychczasowych. Jednakże w razie sprzeczności między statutami dotychczasowymi a przepisami niniejszej ustawy stosuje się przepisy tej ustawy.
 
-**Art. 43.** Traci moc ustawa z dnia 6 maja 1981 r. o rejestracji kółek rolniczych oraz związków kółek i organizacji rolniczych (Dz. U. poz. 51).
+**Art. 43.** Traci moc ustawa z dnia 6 maja 1981 r. o rejestracji kółek rolniczych oraz związków kółek i organizacji rolniczych (Dz. U. Nr 11, poz. 51).
 
-**Art. 44.** Ustawa wchodzi w życie z dniem ogłoszenia .
+**Art. 44.** Ustawa wchodzi w życie z dniem ogłoszenia.
 

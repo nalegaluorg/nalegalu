@@ -2,17 +2,11 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym*
 
-Łącznie: **9** orzeczeń
-(pominięto 9 orzeczeń sądów rejonowych)
+Łącznie: **7** orzeczeń
 
 ## art. 20 (1)
 
 - 2006-01-12 | SN | [III CZP 76/05](https://www.saos.org.pl/judgments/163913) | Postanowienie ★
-
-## art. 26 (2)
-
-- 2013-08-22 | SO | [VI ACa 974/13](https://www.saos.org.pl/judgments/22133) | Wyrok
-- 2013-06-28 | SO | [VI ACa 1597/12](https://www.saos.org.pl/judgments/25474) | Wyrok
 
 ## art. 28 (7)
 

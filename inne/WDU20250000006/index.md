@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe prawo własności tych gruntów
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 23 grudnia 2024 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 stycznia 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-01-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000006) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/6/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 23 grudnia 2024 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe prawo własności tych gruntów
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 lipca 2018 r. o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe prawo własności tych gruntów (Dz. U. z 2024 r. poz. 386), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 18 października 2024 r. o zmianie niektórych ustaw związanych z udzielaniem pomocy de minimis (Dz. U.
 poz. 1635) oraz zmian wynikających z przepisów ogłoszonych przed dniem 18 grudnia 2024 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 25 i art. 27 ustawy z dnia 18 października 2024 r. o zmianie niektórych ustaw związanych z udzielaniem pomocy de minimis (Dz. U. poz. 1635), które stanowią: „Art. 25. Do spraw dotyczących udzielania pomocy de minimis wszczętych i niezakończonych przed dniem 1 lipca 2024 r. stosuje się przepisy ustaw zmienianych art. 1–24 brzmieniu nadanym niniejszą ustawą.” „Art. 27. Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia.”.
@@ -70,6 +70,9 @@ o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele 
 3. Przekształcenie prawa użytkowania wieczystego gruntu stanowiącego nieruchomość wspólną rozumieniu ustawy z dnia 24 czerwca 1994 r. o własności lokali prawo własności tego gruntu nie stanowi nabycia nieruchomości rozumieniu art. 1 ust. 4 ustawy z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców.
 
 **Art. 3.** Przepisów ustawy nie stosuje się do gruntów:
+
+- **1)** zabudowanych na cele mieszkaniowe, położonych na terenie portów i przystani morskich rozumieniu art. 2 pkt 2 ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r. poz. 1796);
+- **2)** oddanych użytkowanie wieczyste na podstawie ustawy z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2024 r. poz. 1026 i 1089).
 
 **Art. 4.**
 
@@ -175,6 +178,11 @@ o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele 
 - **2)** 75 zł pozostałych przypadkach.
 
 **Art. 8.** Za przekształcenie opłaty nie wnoszą:
+
+- **1)** parki narodowe rozumieniu art. 8 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2024 r. poz. 1478);
+- **2)** osoby fizyczne lub ich spadkobiercy oraz spółdzielnie mieszkaniowe, przypadku gdy:
+    - **a)** wniosły jednorazowo opłaty roczne za cały okres użytkowania wieczystego,
+    - **b)** użytkowanie wieczyste uzyskały na podstawie: art. 7 dekretu z dnia 26 października 1945 r. o własności i użytkowaniu gruntów na obszarze m.st. Warszawy (Dz. U. poz. 279 oraz z 1985 r. poz. 99), innych tytułów prawnych, zamian za wywłaszczenie lub przejęcie nieruchomości gruntowej na rzecz Skarbu Państwa przed dniem 5 grudnia 1990 r.
 
 **Art. 8a.** Jeżeli przed wydaniem przez właściwy organ zaświadczenia dotychczasowy użytkownik wieczysty wniósł opłatę roczną z tytułu użytkowania wieczystego za 2019 rok lub następne lata, opłaty te podlegają zaliczeniu z urzędu na poczet opłaty lub opłaty jednorazowej, o czym właściwy organ zawiadamia dotychczasowego użytkownika wieczystego. W przypadku gdy wniesione opłaty roczne z tytułu użytkowania wieczystego przewyższałyby wysokość opłaty lub opłaty jednorazowej, właściwy organ dokonuje, z urzędu, zwrotu nadpłaty terminie 30 dni, licząc od dnia wydania zaświadczenia lub zaświadczenia, o którym mowa art. 7 ust. 9.
 
@@ -309,6 +317,9 @@ o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele 
 2. W przypadku gdy przed dniem 1 stycznia 2019 r. zawarto umowę o ustanowieniu użytkowania wieczystego lub umowę przenoszącą prawo użytkowania wieczystego gruntu zabudowanego na cele mieszkaniowe rozumieniu art. 1 ust. 2, a wniosek o wpis księdze wieczystej nie został złożony przed tym dniem, przekształcenie następuje z dniem wpisu księdze wieczystej. Właściwy organ wydaje zaświadczenie terminie 4 miesięcy od dnia otrzymania potwierdzenia dokonania wpisu księdze wieczystej albo przedstawienia przez cudzoziemca ostatecznego zezwolenia, o którym mowa art. 2 ust. 2. Przepisy art. 4 ust. 3–7, art. 5, art. 6, art. 7 ust. 1–3 i 5–10 oraz art. 8–11 stosuje się odpowiednio.
 
 **Art. 25.** Przepisu art. 13 ust. 1b ustawy zmienianej art. 15 nie stosuje się sprawach:
+
+- **1)** o oddanie nieruchomości gruntowych użytkowanie wieczyste na podstawie dotychczasowych przepisów, których przed dniem 1 stycznia 2019 r. sporządzono protokół z przetargu lub rokowań albo zawarto umowę przedwstępną o oddanie nieruchomości gruntowej użytkowanie wieczyste;
+- **2)** zmiany dotychczasowego celu, na który nieruchomość gruntowa została oddana użytkowanie wieczyste przed dniem 1 stycznia 2019 r., na cel mieszkaniowy, jeżeli odniesieniu do tej nieruchomości miejscowy plan zagospodarowania przestrzennego albo decyzja o warunkach zabudowy i zagospodarowania terenu dopuszcza zabudowę mieszkaniową.
 
 **Art. 26.**
 

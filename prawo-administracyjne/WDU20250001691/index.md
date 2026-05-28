@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy Kodeks postępowania administracyjnego
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 listopada 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 grudnia 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,17 +25,29 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-12-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001691) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1691/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 listopada 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy Kodeks postępowania administracyjnego
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572), z uwzględnieniem zmian wprowadzonych ustawą z dnia 21 maja 2025 r. o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (Dz. U. poz. 769) oraz zmian wynikających z przepisów ogłoszonych przed dniem 3 listopada 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 31 ust. 1 i art. 48 ustawy z dnia 21 maja 2025 r. o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (Dz. U. poz. 769), które stanowią:
 Art. 164–179. (uchylone)
 
 **Art. 31.** „1. Do spraw prowadzonych na podstawie ustawy zmienianej w art. 1, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.” „Art. 48. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
 
+- **1)** art. 6, art. 11, art. 18, art. 22, art. 24 pkt 4, 7 i 9, art. 38 oraz art. 40 ust. 1 i 2, które wchodzą w życie z dniem 1 stycznia 2026 r.;
+- **2)** art. 28 oraz art. 44, które wchodzą w życie po upływie 9 miesięcy od dnia ogłoszenia.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego
+
 ### DZIAŁ I Przepisy ogólne
 
 #### Rozdział 1 Zakres obowiązywania
 
 **Art. 1.** Kodeks postępowania administracyjnego normuje:
+
+- **1)** postępowanie przed organami administracji publicznej w należących do właściwości tych organów sprawach indywidualnych rozstrzyganych w drodze decyzji administracyjnych albo załatwianych milcząco;
+- **2)** postępowanie przed innymi organami państwowymi oraz przed innymi podmiotami, gdy są one powołane z mocy prawa lub na podstawie porozumień do załatwiania spraw określonych w pkt 1;
+- **3)** postępowanie w sprawach rozstrzygania sporów o właściwość między organami jednostek samorządu terytorialnego i organami administracji rządowej oraz między organami i podmiotami, o których mowa w pkt 2;
+- **4)** postępowanie w sprawach wydawania zaświadczeń;
+- **5)** nakładanie lub wymierzanie administracyjnych kar pieniężnych lub udzielanie ulg w ich wykonaniu;
+- **6)** tryb europejskiej współpracy administracyjnej.
 
 **Art. 2.** Kodeks postępowania administracyjnego normuje ponadto postępowanie w sprawie skarg i wniosków (Dział VIII) przed organami państwowymi, organami jednostek samorządu terytorialnego oraz przed organami organizacji społecznych.
 
@@ -97,7 +107,7 @@ Art. 164–179. (uchylone)
 2. Przepisu 1 nie stosuje się:
 
 - **1)** jeżeli wymaga tego ważny interes publiczny, w tym istotne interesy państwa, a w szczególności jego bezpieczeństwa, obronności lub porządku publicznego;
-- **2)** w sprawach osobowych funkcjonariuszy oraz żołnierzy zawodowych. oraz sprawność postępowania, przy pomocy środków adekwatnych do charakteru, okoliczności i stopnia złożoności sprawy.
+- **2)** w sprawach osobowych funkcjonariuszy oraz żołnierzy zawodowych. nego wyjaśnienia stanu faktycznego i prawnego sprawy, mając na względzie interes społeczny i słuszny interes obywateli oraz sprawność postępowania, przy pomocy środków adekwatnych do charakteru, okoliczności i stopnia złożoności sprawy.
 
 **Art. 8.**
 
@@ -158,7 +168,16 @@ Art. 164–179. (uchylone)
 
 **Art. 17.** Organami wyższego stopnia w rozumieniu kodeksu są:
 
+- **1)** w stosunku do organów jednostek samorządu terytorialnego samorządowe kolegia odwoławcze, chyba że ustawy szczególne stanowią inaczej;
+- **2)** w stosunku do wojewodów właściwi w sprawie ministrowie;
+- **3)** w stosunku do organów administracji publicznej innych niż określone w pkt 1 i 2 odpowiednie organy nadrzędne lub właściwi ministrowie, a w razie ich braku organy państwowe sprawujące nadzór nad ich działalnością;
+- **4)** w stosunku do organów organizacji społecznych odpowiednie organy wyższego stopnia tych organizacji, a w razie ich braku organ państwowy sprawujący nadzór nad ich działalnością.
+
 **Art. 18.** Organami naczelnymi w rozumieniu kodeksu są:
+
+- **1)** w stosunku do organów administracji rządowej, organów jednostek samorządu terytorialnego, z wyjątkiem samorządowych kolegiów odwoławczych, oraz organów państwowych i samorządowych jednostek organizacyjnych Prezes Rady Ministrów lub właściwi ministrowie;
+- **2)** w stosunku do organów państwowych innych niż określone w pkt 1 odpowiednie organy o ogólnokrajowym zasięgu działania;
+- **3)** w stosunku do organów organizacji społecznych naczelne organy tych organizacji, a w razie braku takiego organu Prezes Rady Ministrów lub właściwi ministrowie sprawujący zwierzchni nadzór nad ich działalnością.
 
 #### Rozdział 4 Właściwość organów
 
@@ -374,6 +393,9 @@ Art. 164–179. (uchylone)
 
 **Art. 39¹.** W przypadku doręczenia w sposób, o którym mowa w art. 39 1, pisma doręcza się stronie lub innemu uczestnikowi postępowania na:
 
+- **1)** adres do doręczeń elektronicznych wpisany do bazy adresów elektronicznych, o której mowa w art. 25 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, zwanej dalej „bazą adresów elektronicznych”, a w przypadku pełnomocnika na adres do doręczeń elektronicznych wskazany w podaniu, albo
+- **2)** adres do doręczeń elektronicznych powiązany z kwalifikowaną usługą rejestrowanego doręczenia elektronicznego, za pomocą której wniesiono podanie, jeżeli adres do doręczeń elektronicznych strony lub innego uczestnika postępowania nie został wpisany do bazy adresów elektronicznych.
+
 **Art. 39².** (uchylony)
 
 **Art. 39³.**
@@ -436,7 +458,7 @@ Art. 164–179. (uchylone)
 
 - **3)** 1. W przypadku braku możliwości doręczenia pisma w sposób wskazany w art. 45 z tego powodu, że podany przez jednostkę organizacyjną lub organizację społeczną adres jej siedziby nie istnieje, został wykreślony z rejestru lub jest niezgodny z odpowiednim rejestrem i nie można ustalić adresu siedziby, pismo doręcza się osobie fizycznej upoważnionej do reprezentowania adresata.
 
-2. W przypadku gdy reprezentacja ma charakter łączny z innymi osobami fizycznymi, pismo doręcza się wszystkim osobom upoważnionym do reprezentowania adresata. Doręczenie uważa się za dokonane z chwilą najwcześniejszego doręczenia pisma osobie fizycznej upoważnionej do reprezentowania adresata.
+2. W przypadku gdy reprezentacja ma charakter łączny z innymi osobami fizycznymi, pismo doręcza się wszystkim osobom upoważnionym do reprezentowania adresata. Doręczenie uważa się za dokonane z chwilą najwcześniejszego doręczenia pisma osobie fizycznej upoważnionej do reprezentowania adresata. reprezentowania adresata, pismo pozostawia się w aktach sprawy ze skutkiem doręczenia.
 
 4. Uznanie doręczenia, o którym mowa w 3, za dokonane następuje z dniem sporządzenia przez organ administracji publicznej adnotacji o niemożności ustalenia adresu osoby fizycznej upoważnionej do reprezentowania adresata.
 
@@ -726,7 +748,7 @@ Art. 164–179. (uchylone)
 
 2a. Jeżeli odpis dokumentu został sporządzony na piśmie utrwalonym w postaci elektronicznej, poświadczenia jego zgodności z oryginałem, o którym mowa w 2, dokonuje się przy użyciu kwalifikowanego podpisu elektronicznego, podpisu zaufanego lub podpisu osobistego. Odpisy dokumentów poświadczane elektronicznie sporządzane są w formatach danych określonych w przepisach wydanych na podstawie art. 18 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
-2b. Upoważniony pracownik organu prowadzącego postępowanie, któremu został okazany oryginał dokumentu wraz z odpisem, na żądanie strony, poświadcza zgodność odpisu dokumentu z oryginałem. Poświadczenie obejmuje podpis pracownika, datę i oznaczenie miejsca sporządzenia poświadczenia, a na żądanie strony, również godzinę sporządzenia poświadczenia. Jeżeli dokument zawiera cechy szczególne (dopiski, poprawki lub uszkodzenia), należy stwierdzić to w poświadczeniu. nionego pracownika organu prowadzącego postępowanie ma charakter dokumentu urzędowego.
+2b. Upoważniony pracownik organu prowadzącego postępowanie, któremu został okazany oryginał dokumentu wraz z odpisem, na żądanie strony, poświadcza zgodność odpisu dokumentu z oryginałem. Poświadczenie obejmuje podpis pracownika, datę i oznaczenie miejsca sporządzenia poświadczenia, a na żądanie strony, również godzinę sporządzenia poświadczenia. Jeżeli dokument zawiera cechy szczególne (dopiski, poprawki lub uszkodzenia), należy stwierdzić to w poświadczeniu. nika strony będącego adwokatem, radcą prawnym, rzecznikiem patentowym lub doradcą podatkowym albo przez upoważnionego pracownika organu prowadzącego postępowanie ma charakter dokumentu urzędowego.
 
 4. Jeżeli jest to uzasadnione okolicznościami sprawy, organ administracji publicznej zażąda od strony składającej odpis dokumentu, o którym mowa w 2, przedłożenia oryginału tego dokumentu.
 
@@ -774,6 +796,16 @@ Art. 164–179. (uchylone)
 - **4)** w sprawach osobowych funkcjonariuszy oraz żołnierzy zawodowych.
 
 **Art. 82.** Świadkami nie mogą być:
+
+- **1)** osoby niezdolne do spostrzegania lub komunikowania swych spostrzeżeń;
+- **2)** osoby obowiązane do zachowania w tajemnicy informacji niejawnych na okoliczności objęte tajemnicą, jeżeli nie zostały w trybie określonym obowiązującymi przepisami zwolnione od obowiązku zachowania tej tajemnicy;
+- **3)** duchowni co do faktów objętych tajemnicą spowiedzi. zstępnych i rodzeństwa strony oraz jej powinowatych pierwszego stopnia, jak również osób pozostających ze stroną w stosunku przysposobienia, opieki lub kurateli. Prawo odmowy zeznań trwa także po ustaniu małżeństwa, przysposobienia, opieki lub kurateli.
+
+2. Świadek może odmówić odpowiedzi na pytania, gdy odpowiedź mogłaby narazić jego lub jego bliskich wymienionych w 1 na odpowiedzialność karną, hańbę lub bezpośrednią szkodę majątkową albo spowodować naruszenie obowiązku zachowania prawnie chronionej tajemnicy zawodowej.
+
+3. Przed odebraniem zeznania organ administracji publicznej uprzedza świadka o prawie odmowy zeznań i odpowiedzi na pytania oraz o odpowiedzialności za fałszywe zeznania.
+
+4. Mediator nie może być przesłuchany w charakterze świadka co do faktów, o których dowiedział się w związku z prowadzeniem mediacji, chyba że uczestnicy mediacji zwolnią go od obowiązku zachowania tajemnicy mediacji.
 
 **Art. 84.**
 
@@ -909,7 +941,7 @@ Art. 164–179. (uchylone)
 
 2. Na zgodny wniosek uczestników mediacji lub z innych ważnych powodów termin określony w 1 może zostać przedłużony, nie dłużej jednak niż o miesiąc.
 
-3. W przypadku nieosiągnięcia celów mediacji określonych w art. 96a 3 w terminie, o którym mowa w 1 albo 2, organ administracji publicznej wydaje postanowienie o zakończeniu mediacji i załatwia sprawę. uprawnionych do prowadzenia postępowania mediacyjnego, prowadzonych przez prezesa sądu okręgowego, lub na listę prowadzoną przez organizację pozarządową lub uczelnię, o której informację przekazano prezesowi sądu okręgowego.
+3. W przypadku nieosiągnięcia celów mediacji określonych w art. 96a 3 w terminie, o którym mowa w 1 albo 2, organ administracji publicznej wydaje postanowienie o zakończeniu mediacji i załatwia sprawę. z pełni praw publicznych, w szczególności mediator wpisany na listę stałych mediatorów lub do wykazu instytucji i osób uprawnionych do prowadzenia postępowania mediacyjnego, prowadzonych przez prezesa sądu okręgowego, lub na listę prowadzoną przez organizację pozarządową lub uczelnię, o której informację przekazano prezesowi sądu okręgowego.
 
 2. W przypadku gdy organ prowadzący postępowanie jest uczestnikiem mediacji, mediatorem może być wyłącznie osoba wpisana na listę stałych mediatorów lub do wykazu instytucji i osób uprawnionych do prowadzenia postępowania mediacyjnego, prowadzonych przez prezesa sądu okręgowego, lub mediator wpisany na listę prowadzoną przez organizację pozarządową lub uczelnię, o której informację przekazano prezesowi sądu okręgowego.
 
@@ -998,7 +1030,7 @@ Art. 164–179. (uchylone)
 
 1. Organ administracji publicznej, który zawiesił postępowanie z przyczyny określonej w art. 97 1 pkt 4, wystąpi równocześnie do właściwego organu lub sądu o rozstrzygnięcie zagadnienia wstępnego albo wezwie stronę do wystąpienia o to w oznaczonym terminie, chyba że strona wykaże, że już zwróciła się w tej sprawie do właściwego organu lub sądu.
 
-2. Jeżeli zawieszenie postępowania z przyczyny określonej w art. 97 1 pkt 4 mogłoby spowodować niebezpieczeństwo dla życia lub zdrowia ludzkiego albo poważną szkodę dla interesu społecznego, organ administracji publicznej załatwi sprawę, rozstrzygając zagadnienie wstępne we własnym zakresie. padku organ może uzależnić załatwienie sprawy od złożenia przez stronę stosownego zabezpieczenia.
+2. Jeżeli zawieszenie postępowania z przyczyny określonej w art. 97 1 pkt 4 mogłoby spowodować niebezpieczeństwo dla życia lub zdrowia ludzkiego albo poważną szkodę dla interesu społecznego, organ administracji publicznej załatwi sprawę, rozstrzygając zagadnienie wstępne we własnym zakresie. wstępnego albo gdy zawieszenie postępowania mogłoby spowodować niepowetowaną szkodę dla strony. W tym ostatnim przypadku organ może uzależnić załatwienie sprawy od złożenia przez stronę stosownego zabezpieczenia.
 
 **Art. 101.**
 
@@ -1101,7 +1133,7 @@ Art. 164–179. (uchylone)
 
 1b. Uzupełnienie lub odmowa uzupełnienia decyzji następuje w formie postanowienia.
 
-2. W przypadku wydania postanowienia, o którym mowa w 1b, termin dla strony do wniesienia odwołania, powództwa lub skargi biegnie od dnia jego doręczenia lub ogłoszenia. do tego pouczenia.
+2. W przypadku wydania postanowienia, o którym mowa w 1b, termin dla strony do wniesienia odwołania, powództwa lub skargi biegnie od dnia jego doręczenia lub ogłoszenia. powództwa do sądu powszechnego lub skargi do sądu administracyjnego nie może szkodzić stronie, która zastosowała się do tego pouczenia.
 
 **Art. 113.**
 
@@ -1175,6 +1207,10 @@ Art. 164–179. (uchylone)
 
 **Art. 122b.** Za dzień wydania decyzji lub postanowienia kończącego postępowanie w sprawie, o której mowa w art. 122a 2 pkt 1, albo wniesienia sprzeciwu, o którym mowa w art. 122a 2 pkt 2, uznaje się dzień:
 
+- **1)** nadania sprzeciwu, decyzji lub postanowienia kończącego postępowanie w sprawie za pokwitowaniem przez operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe albo
+- **2)** doręczenia za pokwitowaniem sprzeciwu, decyzji lub postanowienia kończącego postępowanie w sprawie przez pracowników organu administracji publicznej lub inne upoważnione osoby, albo
+- **3)** wprowadzenia sprzeciwu, decyzji lub postanowienia kończącego postępowanie w sprawie do systemu teleinformatycznego w przypadku, o którym mowa w art. 39 .
+
 **Art. 122c.**
 
 1. Milczące załatwienie sprawy następuje w dniu następującym po dniu, w którym upływa termin przewidziany do wydania decyzji lub postanowienia kończącego postępowanie w sprawie albo wniesienia sprzeciwu. W przypadku gdy organ przed upływem terminu do załatwienia sprawy zawiadomi stronę o braku sprzeciwu, milczące załatwienie sprawy następuje w dniu doręczenia tego zawiadomienia.
@@ -1209,7 +1245,7 @@ Art. 164–179. (uchylone)
 
 4. Zaświadczenie o milczącym załatwieniu sprawy doręcza się wszystkim stronom w sprawie załatwionej milcząco.
 
-5. W zakresie nieuregulowanym w 1–4 do zaświadczenia o milczącym załatwieniu sprawy stosuje się przepisy działu VII. w art. 122c 1.
+5. W zakresie nieuregulowanym w 1–4 do zaświadczenia o milczącym załatwieniu sprawy stosuje się przepisy działu VII. że skutek wydania decyzji ostatecznej powstał w terminie czternastu dni od dnia upływu terminu, o którym mowa w art. 122c 1.
 
 **Art. 122h.**
 
@@ -1392,7 +1428,7 @@ Art. 164–179. (uchylone)
 
 1. Można żądać wznowienia postępowania również w przypadku, gdy zostało wydane orzeczenie sądu stwierdzające naruszenie zasady równego traktowania, zgodnie z ustawą z dnia 3 grudnia 2010 r. o wdrożeniu niektórych przepisów Unii Europejskiej w zakresie równego traktowania (Dz. U. z 2025 r. poz. 1452), jeżeli naruszenie tej zasady miało wpływ na rozstrzygnięcie sprawy zakończonej decyzją ostateczną.
 
-2. W sytuacji określonej w 1 skargę o wznowienie wnosi się w terminie jednego miesiąca od dnia uprawomocnienia się orzeczenia sądu. jeżeli od dnia doręczenia lub ogłoszenia decyzji upłynęło pięć lat.
+2. W sytuacji określonej w 1 skargę o wznowienie wnosi się w terminie jednego miesiąca od dnia uprawomocnienia się orzeczenia sądu. doręczenia lub ogłoszenia decyzji upłynęło dziesięć lat, zaś z przyczyn określonych w art. 145 1 pkt 3–8 oraz w art. 145a–145b, jeżeli od dnia doręczenia lub ogłoszenia decyzji upłynęło pięć lat.
 
 2. Nie uchyla się decyzji także w przypadku, jeżeli w wyniku wznowienia postępowania mogłaby zapaść wyłącznie decyzja odpowiadająca w swej istocie decyzji dotychczasowej.
 
@@ -1449,7 +1485,7 @@ Art. 164–179. (uchylone)
 
 2. W przypadkach określonych w 1 właściwy organ wydaje decyzję w sprawie uchylenia lub zmiany dotychczasowej decyzji.
 
-3. (uchylony) uchyleniu lub zmianie takiej decyzji i przemawia za tym interes społeczny lub słuszny interes strony; przepis art. 154 2 stosuje się odpowiednio.
+3. (uchylony) lona lub zmieniona przez organ administracji publicznej, który ją wydał, jeżeli przepisy szczególne nie sprzeciwiają się uchyleniu lub zmianie takiej decyzji i przemawia za tym interes społeczny lub słuszny interes strony; przepis art. 154 2 stosuje się odpowiednio.
 
 **Art. 155a.** W sprawach, o których mowa w art. 154 i art. 155, przepisów o milczącym załatwieniu sprawy nie stosuje się.
 
@@ -1611,6 +1647,14 @@ Art. 164–179. (uchylone)
 
 **Art. 189d.** Wymierzając administracyjną karę pieniężną, organ administracji publicznej bierze pod uwagę:
 
+- **1)** wagę i okoliczności naruszenia prawa, w szczególności potrzebę ochrony życia lub zdrowia, ochrony mienia w znacznych rozmiarach lub ochrony ważnego interesu publicznego lub wyjątkowo ważnego interesu strony oraz czas trwania tego naruszenia;
+- **2)** częstotliwość niedopełniania w przeszłości obowiązku albo naruszania zakazu tego samego rodzaju co niedopełnienie obowiązku albo naruszenie zakazu, w następstwie którego ma być nałożona kara;
+- **3)** uprzednie ukaranie za to samo zachowanie za przestępstwo, przestępstwo skarbowe, wykroczenie lub wykroczenie skarbowe;
+- **4)** stopień przyczynienia się strony, na którą jest nakładana administracyjna kara pieniężna, do powstania naruszenia prawa;
+- **5)** działania podjęte przez stronę dobrowolnie w celu uniknięcia skutków naruszenia prawa;
+- **6)** wysokość korzyści, którą strona osiągnęła, lub straty, której uniknęła;
+- **7)** w przypadku osoby fizycznej warunki osobiste strony, na którą administracyjna kara pieniężna jest nakładana.
+
 **Art. 189e.** W przypadku gdy do naruszenia prawa doszło wskutek działania siły wyższej, strona nie podlega ukaraniu.
 
 **Art. 189f.**
@@ -1641,7 +1685,7 @@ Art. 164–179. (uchylone)
 
 2. Po przerwaniu biegu terminu przedawnienia nałożenia administracyjnej kary pieniężnej biegnie on na nowo od dnia następującego po dniu uprawomocnienia się postanowienia o zakończeniu lub umorzeniu postępowania upadłościowego.
 
-3. Jeżeli ogłoszenie upadłości strony nastąpiło przed rozpoczęciem biegu terminu przedawnienia nałożenia administracyjnej kary pieniężnej, bieg tego terminu rozpoczyna się od dnia następującego po dniu uprawomocnienia się postanowienia o zakończeniu lub umorzeniu postępowania upadłościowego.
+3. Jeżeli ogłoszenie upadłości strony nastąpiło przed rozpoczęciem biegu terminu przedawnienia nałożenia administracyjnej kary pieniężnej, bieg tego terminu rozpoczyna się od dnia następującego po dniu uprawomocnienia się postanowienia o zakończeniu lub umorzeniu postępowania upadłościowego. zawieszeniu z dniem:
 
 - **1)** wniesienia środka zaskarżenia od decyzji w przedmiocie administracyjnej kary pieniężnej do sądu administracyjnego albo sądu powszechnego, albo skargi kasacyjnej od prawomocnego orzeczenia w przedmiocie administracyjnej kary pieniężnej;
 - **2)** wniesienia żądania ustalenia przez sąd powszechny istnienia lub nieistnienia stosunku prawnego lub prawa;
@@ -1683,7 +1727,7 @@ Art. 164–179. (uchylone)
 
 1. Organ administracji publicznej, który nałożył administracyjną karę pieniężną, na wniosek strony, w przypadkach uzasadnionych ważnym interesem publicznym lub ważnym interesem strony, może udzielić ulg w wykonaniu administracyjnej kary pieniężnej przez:
 
-- **1)** odroczenie terminu zapłaty lub rozłożenie na raty zapłaty administracyjnej kary pieniężnej;
+- **1)** odroczenie terminu zapłaty lub rozłożenie na raty zapłaty administracyjnej kary pieniężnej; za zwłokę;
 - **3)** umorzenie administracyjnej kary pieniężnej w całości lub części;
 - **4)** umorzenie odsetek za zwłokę w całości lub części.
 
@@ -1721,7 +1765,7 @@ Art. 164–179. (uchylone)
 4a. Do pomocy publicznej, o której mowa w 3 pkt 3 lit. c, przeznaczonej na restrukturyzację, stosuje się:
 
 - **1)** w zakresie warunków udzielania tej pomocy:
-    - **a)** w przypadku przedsiębiorcy, wobec którego jest prowadzone postępowanie restrukturyzacyjne przepisy ustawy z dnia 15 maja 2015 r. Prawo restrukturyzacyjne (Dz. U. z 2024 r. poz. 1428 oraz z 2025 r. poz. 1085, 1170 i 1172), ców (Dz. U. poz. 1298 oraz z 2025 r. poz. 769);
+    - **a)** w przypadku przedsiębiorcy, wobec którego jest prowadzone postępowanie restrukturyzacyjne przepisy ustawy z dnia 15 maja 2015 r. Prawo restrukturyzacyjne (Dz. U. z 2024 r. poz. 1428 oraz z 2025 r. poz. 1085, 1170 i 1172), ustawy z dnia 16 lipca 2020 r. o udzielaniu pomocy publicznej w celu ratowania lub restrukturyzacji przedsiębiorców (Dz. U. poz. 1298 oraz z 2025 r. poz. 769);
 
 - **2)** w zakresie trybu udzielania tej pomocy przepisy ustawy z dnia 16 lipca 2020 r. o udzielaniu pomocy publicznej w celu ratowania lub restrukturyzacji przedsiębiorców.
 
@@ -1823,6 +1867,17 @@ Art. 164–179. (uchylone)
 
 **Art. 229.** Jeżeli przepisy szczególne nie określają innych organów właściwych do rozpatrywania skarg, jest organem właściwym do rozpatrzenia skargi dotyczącej zadań lub działalności:
 
+- **1)** rady gminy, rady powiatu i sejmiku województwa wojewoda, a w zakresie spraw finansowych regionalna izba obrachunkowa;
+- **2)** organów wykonawczych jednostek samorządu terytorialnego oraz kierowników powiatowych służb, inspekcji, straży i innych jednostek organizacyjnych w sprawach należących do zadań zleconych z zakresu administracji rządowej wojewoda lub organ wyższego stopnia;
+- **3)** wójta (burmistrza lub prezydenta miasta) i kierowników gminnych jednostek organizacyjnych, z wyjątkiem spraw określonych w pkt 2 rada gminy;
+- **4)** zarządu powiatu oraz starosty, a także kierowników powiatowych służb, inspekcji, straży i innych jednostek organizacyjnych, z wyjątkiem spraw określonych w pkt 2 rada powiatu;
+- **5)** zarządu i marszałka województwa, z wyjątkiem spraw określonych w pkt 2 sejmik województwa;
+- **6)** wojewody w sprawach podlegających rozpatrzeniu według kodeksu właściwy minister, a w innych sprawach Prezes Rady Ministrów;
+- **7)** innego organu administracji rządowej, organu przedsiębiorstwa państwowego lub innej państwowej jednostki organizacyjnej organ wyższego stopnia lub sprawujący bezpośredni nadzór;
+- **8)** ministra Prezes Rady Ministrów;
+- **8a)** konsula minister właściwy do spraw zagranicznych;
+- **9)** organu centralnego i jego kierownika organ, któremu podlega. wyższego stopnia tej organizacji, a w stosunku do organu naczelnego organizacji Prezes Rady Ministrów lub właściwi ministrowie sprawujący nadzór nad działalnością tej organizacji.
+
 **Art. 231.**
 
 1. Jeżeli organ, który otrzymał skargę, nie jest właściwy do jej rozpatrzenia, obowiązany jest niezwłocznie, nie później jednak niż w terminie siedmiu dni, przekazać ją właściwemu organowi, zawiadamiając równocześnie o tym skarżącego, albo wskazać mu właściwy organ.
@@ -1840,6 +1895,9 @@ Art. 164–179. (uchylone)
 **Art. 233.** Skarga w sprawie indywidualnej, która nie była i nie jest przedmiotem postępowania administracyjnego, powoduje wszczęcie postępowania, jeżeli została złożona przez stronę. Jeżeli skarga taka pochodzi od innej osoby, może spowodować wszczęcie postępowania administracyjnego z urzędu, chyba że przepisy wymagają do wszczęcia postępowania żądania strony.
 
 **Art. 234.** W sprawie, w której toczy się postępowanie administracyjne:
+
+- **1)** skarga złożona przez stronę podlega rozpatrzeniu w toku postępowania, zgodnie z przepisami kodeksu;
+- **2)** skarga pochodząca od innych osób stanowi materiał, który organ prowadzący postępowanie powinien rozpatrzyć z urzędu.
 
 **Art. 235.**
 
@@ -1869,7 +1927,7 @@ Art. 164–179. (uchylone)
 
 1. Zawiadomienie o sposobie załatwienia skargi powinno zawierać: oznaczenie organu, od którego pochodzi, wskazanie, w jaki sposób skarga została załatwiona, oraz podpis z podaniem imienia, nazwiska i stanowiska służbowego osoby upoważnionej do załatwienia skargi. Zawiadomienie o odmownym załatwieniu skargi powinno zawierać ponadto uzasadnienie faktyczne i prawne oraz pouczenie o treści art. 239.
 
-2. W zawiadomieniu, o którym mowa w 1, w jednostkach organizacyjnych resortu obrony narodowej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego oraz Centralnego Biura Antykorupcyjnego można pominąć imię i nazwisko osoby upoważnionej do załatwienia skargi. rozpatrzenia może podtrzymać swoje poprzednie stanowisko z odpowiednią adnotacją w aktach sprawy bez zawiadamiania skarżącego.
+2. W zawiadomieniu, o którym mowa w 1, w jednostkach organizacyjnych resortu obrony narodowej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego oraz Centralnego Biura Antykorupcyjnego można pominąć imię i nazwisko osoby upoważnionej do załatwienia skargi. wykazano w odpowiedzi na skargę, a skarżący ponowił skargę bez wskazania nowych okoliczności organ właściwy do jej rozpatrzenia może podtrzymać swoje poprzednie stanowisko z odpowiednią adnotacją w aktach sprawy bez zawiadamiania skarżącego.
 
 2. (uchylony)
 
@@ -1925,7 +1983,7 @@ Art. 164–179. (uchylone)
 
 1. Organy państwowe, organy samorządu terytorialnego i inne organy samorządowe oraz organy organizacji społecznych obowiązane są przyjmować obywateli w sprawach skarg i wniosków w ustalonych przez siebie dniach i godzinach.
 
-2. Kierownicy organów wymienionych w 1 lub wyznaczeni przez nich zastępcy obowiązani są przyjmować obywateli w sprawach skarg i wniosków co najmniej raz w tygodniu.
+2. Kierownicy organów wymienionych w 1 lub wyznaczeni przez nich zastępcy obowiązani są przyjmować obywateli w sprawach skarg i wniosków co najmniej raz w tygodniu. przyjęcia powinny się odbywać w ustalonym dniu po godzinach pracy.
 
 4. Informacja o dniach i godzinach przyjęć powinna być wywieszona na widocznym miejscu w siedzibie danej jednostki organizacyjnej oraz w podporządkowanych jej jednostkach organizacyjnych.
 
@@ -2020,7 +2078,7 @@ Art. 164–179. (uchylone)
 - **1)** wynikły z winy strony;
 - **2)** zostały poniesione w interesie lub na żądanie strony, a nie wynikają z ustawowego obowiązku organów prowadzących postępowanie.
 
-2. W uzasadnionych przypadkach organ administracji publicznej może zażądać od strony złożenia zaliczki w określonej wysokości na pokrycie kosztów postępowania. urzędowych, a także koszty mediacji.
+2. W uzasadnionych przypadkach organ administracji publicznej może zażądać od strony złożenia zaliczki w określonej wysokości na pokrycie kosztów postępowania. w przypadkach przewidzianych w art. 56, koszty spowodowane oględzinami na miejscu, koszty doręczenia stronom pism urzędowych, a także koszty mediacji.
 
 2. Organ administracji publicznej może zaliczyć do kosztów postępowania także inne koszty bezpośrednio związane z rozstrzygnięciem sprawy.
 

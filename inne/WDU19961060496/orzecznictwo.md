@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 8 sierpnia 1996 r. o zmianie niektórych ustaw normujących funkcjonowanie gospodarki i administracji publicznej.*
 
-Łącznie: **10** orzeczeń
+Łącznie: **9** orzeczeń
 
 ## art. 3 (1)
 
@@ -29,9 +29,8 @@ Orzeczenia powołujące: *Ustawa z dnia 8 sierpnia 1996 r. o zmianie niektórych
 
 - 1998-09-02 | SN | [I PKN 292/98](https://www.saos.org.pl/judgments/78502) | Wyrok ★
 
-## art. 49 (2)
+## art. 49 (1)
 
-- 2009-11-18 | SN | [II CSK 242/09](https://www.saos.org.pl/judgments/91230) | Wyrok ★
 - 2007-04-26 | SN | [II CSK 547/06](https://www.saos.org.pl/judgments/85751) | Wyrok ★
 
 ## art. 78 (1)

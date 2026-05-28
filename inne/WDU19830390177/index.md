@@ -22,6 +22,7 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1983-07-21 |
 | Data wydania | 1983-07-22 |
+| Wejście w życie | 1983-07-22 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19830390177) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1983/177/text.pdf) |
 
@@ -31,6 +32,21 @@ Sejm Polskiej Rzeczypospolitej Ludowej, kierując się zasadami humanizmu socjal
 w celu stworzenia warunków umożliwiających obywatelom, którzy z powodów politycznych albo nieumyślnie dopuścili się naruszeń porządku prawnego, włączenie się do czynnego udziału w życiu kraju i podstaw do wcześniejszego zwolnienia ze względu na wiek i warunki osobiste sprawców niektórych przestępstw stanowi, co następuje:
 
 **Art. 1.** Amnestię stosuje się do popełnionych przed dniem zniesienia stanu wojennego:
+
+- **1)** przestępstw przeciwko porządkowi prawnemu stanu wojennego, określonych w art. 46 i 48 dekretu z dnia 12 grudnia 1981 r. o stanie wojennym (Dz. U. Nr 29, poz. 154 i z 1982 r. Nr 3, poz. 18) oraz art. 256 i 257 Kodeksu karnego w związku z art. 49 ust. 1 tego dekretu,
+- **2)** przestępstw związanych z militaryzacją, określonych w art. 303, 304 § 1 i 2 oraz § 3, z wyjątkiem wypadku usiłowania lub dokonania ucieczki za granicę, art. 305, 306 i 309 Kodeksu karnego,
+- **3)** przestępstw popełnionych z powodów politycznych albo w związku ze strajkiem lub akcją protestacyjną: przeciwko zdrowiu, określonych w art. 156 § 1 i 2, art. 158 § 1 i art. 160 § 1 Kodeksu karnego, przeciwko wolności, określonych w art. 165 § 1 art. 166 i 167 § 1 art. 171 § 1 oraz art. 172 § 1 Kodeksu karnego, przeciwko czci i nietykalności cielesnej, określonych w art. 178 § 1 i 2, art. 181 § 1 i art. 182 § 1 Kodeksu karnego, przeciwko praktykom religijnym, określonych w art. 196 i 197 Kodeksu karnego, przeciwko mieniu, określonych w art. 212 § 1, art. 214 § 1 i art. 220 Kodeksu karnego, przeciwko działalności instytucji państwowych i społecznych, określonych w art. 233 i 234 § 1 oraz art. 235–237 Kodeksu karnego, przeciwko porządkowi publicznemu, określonych w art. 270 § 1, art. 271 i 273 § 1 i 2 w związku z art. 270 § 1 lub art. 271, art. 275 § 1, art. 276 § 1 i 3, art. 278 § 1–3 oraz art. 279–282a, 284, 285, 287 i 288 § 2 Kodeksu karnego, określonych w art. 6a dekretu z dnia 5 lipca 1946 r. o utworzeniu Głównego Urzędu Kontroli Prasy, Publikacji i Widowisk (Dz. U. Nr 34, poz. 210, z 1948 r. Nr 30, poz. 257, z 1952 r. Nr 19, poz. 114, z 1953 r. Nr 49, poz. 239 i z 1981 r. Nr 20, poz. 99)
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+
+- **4)** występków popełnionych przy przeciwdziałaniu strajkom lub akcjom protestacyjnym albo innym zbiorowym naruszeniom bezpieczeństwa i porządku publicznego z powodów politycznych.
+- **5)** przestępstw nieumyślnych, z wyjątkiem popełnionych w stanie nietrzeźwości.
 
 **Art. 2.** Jeżeli sprawca, któremu do dnia zniesienia stanu wojennego nie przedstawiono zarzutów o przestępstwo określone w art. 1 ustawy lub w rozdziale XIX Kodeksu karnego, z wyjątkiem przestępstwa określonego w art. 134 lub 135, albo w art. 254 w związku z art. 122–124 i art. 126–128 Kodeksu karnego, dobrowolnie zgłosi się do dnia 31 października 1983 r. do organu powołanego do ścigania przestępstw albo do polskiego przedstawicielstwa dyplomatycznego lub urzędu konsularnego i oświadczy do protokołu, że zaniecha przestępczej działalności oraz ujawni rodzaj popełnionego czynu, czas i miejsce jego popełnienia – postępowania karnego nie wszczyna się, a wszczęte umarza.
 

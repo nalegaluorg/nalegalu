@@ -3,7 +3,6 @@
 Orzeczenia powołujące: *Ustawa z dnia 8 czerwca 1990 r. o zmianie ustaw: Kodeks postępowania karnego, Kodeks postępowania w sprawach o wykroczenia, o ustroju kolegiów do spraw wykroczeń i Kodeks pracy.*
 
 Łącznie: **2** orzeczeń
-(pominięto 1 orzeczeń sądów rejonowych)
 
 ## art. 6 (1)
 

@@ -8,12 +8,10 @@ pos: 1590
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie niektórych ustaw związku z wdrażaniem rozwiązań obszarze e-zdrowia
-
-*USTAWA z dnia 19 lipca 2019 r.*
+# Ustawa z dnia 19 lipca 2019 r. o zmianie niektórych ustaw w związku z wdrażaniem rozwiązań w obszarze e-zdrowia
 
 | Pole | Wartość |
 |---|---|
@@ -24,146 +22,979 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-19 |
 | Data wydania | 2019-08-23 |
+| Wejście w życie | 2019-09-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001590) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1590/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2019 r. poz. 537, 577 i 730) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2019 r. poz. 300, 303, 730, 1495 i 1553) art. 68b ust. 1 otrzymuje brzmienie: „1. Certyfikat umożliwiający podpisywanie dokumentów elektronicznych z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych dostępnego systemie teleinformatycznym Zakładu, o którym mowa art. 54 ust. 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego razie choroby i macierzyństwa (Dz. U. z 2019 r. poz. 645), Zakład udostępnia pracownikom medycznym oraz osobom wykonującym:
+- **1)** po art. 41 dodaje się art. 41a w brzmieniu: „
 
-**Art. 3.** W ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego razie choroby i macierzyństwa (Dz. U. z 2019 r. poz. 645) wprowadza się następujące zmiany:
+**Art. 41a.**
+
+1. Lekarz może udzielić upoważnienia do wystawiania recept, o których mowa w art. 2 pkt 6 lit. a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, lub skierowań określonych w przepisach wydanych na podstawie art. 59aa ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w jego imieniu osobie wykonującej:
+
+- **1)** zawód medyczny, o której mowa w art. 2 ust. 1 pkt 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
+- **2)** czynności pomocnicze przy udzielaniu świadczeń zdrowotnych, o których mowa w art. 24 ust. 2 pkt 2 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta.
+
+2. Osoby upoważnione do wystawiania recept, o których mowa w art. 2 pkt 6 lit. a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, lub skierowań określonych w przepisach wydanych na podstawie art. 59aa ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, mogą być dopuszczone do przetwarzania danych osobowych zawartych w tych dokumentach po wydaniu im przez podmiot wykonujący działalność leczniczą upoważnienia do przetwarzania danych osobowych. Osoby te mogą być obecne przy udzielaniu świadczeń zdrowotnych oraz są obowiązane do zachowania poufności wszelkich informacji i danych uzyskanych w związku z wystawianiem recepty lub skierowania. Zachowanie poufności obowiązuje również po śmierci pacjenta.
+
+3. Upoważnienie do wystawiania recept, o których mowa w art. 2 pkt 6 lit. a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, lub skierowań określonych w przepisach wydanych na podstawie art. 59aa ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, może być udzielone na okres nie dłuższy niż 12 miesięcy, przy czym po upływie tego okresu można udzielić kolejnych upoważnień na okres nie dłuższy niż 12 miesięcy. Upoważnienie to może być w każdym czasie cofnięte przez lekarza lub podmiot wykonujący działalność leczniczą. Cofnięcie upoważnienia do wystawiania recept lub skierowań przez podmiot wykonujący działalność leczniczą następuje po uprzednim uzgodnieniu z lekarzem.
+
+4. Od dnia udzielenia upoważnienia do wystawiania recept, o których mowa w art. 2 pkt 6 lit. a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, lub skierowań określonych w przepisach wydanych na podstawie art. 59aa ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, do dnia jego cofnięcia albo wygaśnięcia osoba upoważniona jest obowiązana do zapewnienia zgodności danych zamieszczonych na tych receptach i skierowaniach z danymi zawartymi w dokumentacji medycznej.
+
+5. Udzielanie upoważnień, o których mowa w ust. 1, następuje za pośrednictwem Rejestru Asystentów Medycznych, o którym mowa w art. 31b ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, na zasadach określonych w tej ustawie. ” ;
+
+- **2)** w art. 45 po ust. 2a dodaje się ust. 2b-2d w brzmieniu: „
+
+2b. Określenie odpłatności na recepcie w postaci elektronicznej może nastąpić przy wykorzystaniu narzędzia informatycznego, o którym mowa w art. 9b ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
+
+2c. Lekarz i świadczeniodawca nie ponoszą odpowiedzialności za skutki błędnego działania narzędzia informatycznego, o którym mowa w art. 9b ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, polegającego na nieprawidłowym określeniu odpłatności w związku z rozbieżnością danych zawartych w narzędziu a przepisami prawa, w szczególności z wykazami, o których mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych.
+
+2d. W przypadku leków określonych w wykazach, o których mowa w art. 37 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, objętych refundacją w ramach kategorii dostępności refundacyjnej określonej w art. 6 ust. 1 pkt 1 lit. a tej ustawy, dla których istnieją refundowane odpowiedniki, lekarz, wystawiając receptę, może przyjąć jako zakres zarejestrowanych wskazań wskazania określone dla wszystkich odpowiedników refundowanych w ramach tej kategorii dostępności refundacyjnej. ” .
+
+**Art. 2.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2019 r. poz. 300, 303, 730, 1495 i 1553) w art. 68b ust. 1 otrzymuje brzmienie: „ 1. Certyfikat umożliwiający podpisywanie dokumentów elektronicznych z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych dostępnego w systemie teleinformatycznym Zakładu, o którym mowa w art. 54 ust. 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2019 r. poz. 645), Zakład udostępnia pracownikom medycznym oraz osobom wykonującym:
+
+- **1)** zawód medyczny, o których mowa w art. 2 ust. 1 pkt 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2018 r. poz. 2190 i 2219 oraz z 2019 r. poz. 492, 730 i 959),
+- **2)** czynności pomocnicze przy udzielaniu świadczeń zdrowotnych, o których mowa w art. 24 ust. 2 pkt 2 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2019 r. poz. 1127 i 1128) upoważnionym do wykonywania czynności określonych w art. 41a ust. 1 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2019 r. poz. 537, 577, 730 i 1590) lub art. 54a ust. 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa. ” .
+
+**Art. 3.** W ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2019 r. poz. 645) wprowadza się następujące zmiany:
+
+- **1)** w art. 54a: uchyla się ust. 3–5, ust. 7 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+7. Osoby upoważnione, o których mowa w ust. 1, mogą być dopuszczone do przetwarzania danych osobowych zawartych w tych dokumentach po wydaniu im przez podmiot wykonujący działalność leczniczą upoważnienia do przetwarzania danych osobowych. Osoby te mogą być obecne przy udzielaniu świadczeń zdrowotnych oraz są obowiązane do zachowania poufności wszelkich informacji i danych uzyskanych w związku z wystawianiem zaświadczenia lekarskiego. Zachowanie poufności obowiązuje również po śmierci ubezpieczonego. ” , uchyla się ust. 8–10, w ust. 11 pkt 2 otrzymuje brzmienie: „
+
+- **c)**
+- **d)**
+- **2)** po dokonaniu weryfikacji, o której mowa w art. 31b ust. 9 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2019 r. poz. 408, 730 i 1590), z wynikiem pozytywnym, Zakład Ubezpieczeń Społecznych, nie później niż w terminie 48 godzin, zapewnia osobie upoważnionej, o której mowa w ust. 1, możliwość wystawiania zaświadczeń lekarskich w formie dokumentu elektronicznego za pośrednictwem systemu teleinformatycznego udostępnionego bezpłatnie przez Zakład Ubezpieczeń Społecznych, na jej profilu informacyjnym; ” , uchyla się ust. 13 i 14, dodaje się ust. 15 w brzmieniu: „
+    - **e)**
+    - **f)**
+
+15. Udzielanie upoważnień, o których mowa w ust. 1, następuje za pośrednictwem Rejestru Asystentów Medycznych, o którym mowa w art. 31b ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, na zasadach określonych w tej ustawie. ” ;
+
+- **2)** w art. 60a ust. 2 otrzymuje brzmienie: „
+
+2. Informacje dotyczące zaświadczeń lekarskich, o których mowa w art. 55 ust. 1, oraz zaświadczeń, o których mowa w art. 59 ust. 8, w zakresie odpowiadającym informacjom prezentowanym w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych, są przekazywane systemowi informacji w ochronie zdrowia, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia. ” .
 
 **Art. 4.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2019 r. poz. 499, 399, 959, 1495, 1542 i 1556) wprowadza się następujące zmiany:
 
+- **1)** w art. 2 po pkt 35a dodaje się pkt 35aa w brzmieniu: „ 35aa) receptą transgraniczną – jest recepta na produkt leczniczy lub wyrób medyczny wystawiona przez osobę uprawnioną do wystawiania recept zgodnie z prawem państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, w którym recepta została wystawiona, podlegająca realizacji w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, zwanym dalej „państwem realizacji”, zgodnie z prawem tego państwa; ” ;
+- **2)** w art. 95b: w ust. 2: – uchyla się pkt 2, – pkt 3 otrzymuje brzmienie: „ 3) recepty transgranicznej, jeżeli państwo realizacji nie realizuje recept transgranicznych w postaci elektronicznej lub recepta transgraniczna przeznaczona jest dla osoby małoletniej; ” , dodaje się ust. 3 i 4 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+3. Recepta dla:
+
+- **1)** osoby wystawiającej, zwana dalej „ receptą pro auctore ”,
+- **2)** małżonka, osoby pozostającej we wspólnym pożyciu, krewnych lub powinowatych w linii prostej, a w linii bocznej do stopnia pokrewieństwa między dziećmi rodzeństwa osoby wystawiającej, zwana dalej „ receptą pro familiae ” jest wystawiana w postaci elektronicznej albo papierowej.
+
+4. Minister właściwy do spraw zdrowia zamieszcza na stronie podmiotowej Biuletynu Informacji Publicznej urzędu obsługującego tego ministra wykaz państw realizacji, które nie realizują recept transgranicznych wystawianych w postaci elektronicznej w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym. ” ;
+
+- **3)** w art. 96: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Produkty lecznicze, środki spożywcze specjalnego przeznaczenia żywieniowego i wyroby medyczne są wydawane z apteki ogólnodostępnej przez farmaceutę lub technika farmaceutycznego w ramach jego uprawnień zawodowych na podstawie recepty, bez recepty, na podstawie zapotrzebowania podmiotu wykonującego działalność leczniczą, zwanego dalej „zapotrzebowaniem”. W przypadku recepty w postaci elektronicznej, produkty lecznicze, środki spożywcze specjalnego przeznaczenia żywieniowego i wyroby medyczne są wydawane po:
+
+- **1)** udostępnieniu klucza dostępu do recepty lub pakietu recept, o którym mowa w art. 96b ust. 1 pkt 1, albo
+- **2)** udostępnieniu kodu dostępu, o którym mowa w art. 96b ust. 1 pkt 2, oraz numeru PESEL, albo
+- **3)** potwierdzeniu obecności pacjenta przy użyciu certyfikatu potwierdzenia obecności, o którym mowa w ustawie z dnia 6 sierpnia 2010 r. o dowodach osobistych (Dz. U. z 2019 r. poz. 653 i 730), albo
+- **4)** udostępnieniu danych niezbędnych do identyfikacji pacjenta, dla którego wystawiono receptę transgraniczną, wskazanych przez państwo realizacji i zamieszczanych na stronie podmiotowej Biuletynu Informacji Publicznej urzędu obsługującego ministra właściwego do spraw zdrowia. ” , ust. 1a otrzymuje brzmienie: „
+    - **b)**
+
+1a. W przypadku awarii systemu, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, produkty lecznicze, środki spożywcze specjalnego przeznaczenia żywieniowego i wyroby medyczne wydawane na podstawie recepty są wydawane na podstawie informacji o wystawionej recepcie, udostępnionej w sposób, o którym mowa w art. 96b ust. 2 pkt 1 lub 3 oraz ust. 2a, po okazaniu dokumentu potwierdzającego tożsamość oraz złożeniu oświadczenia, że nie dokonano realizacji recepty, której dotyczy ta informacja. ” ;
+
+- **4)** w art. 96a: w ust. 1 w pkt 3: – lit. d otrzymuje brzmienie: „ d) adres poczty elektronicznej lub numer telefonu wraz z prefiksem międzynarodowym do bezpośredniego kontaktu z osobą wystawiającą receptę, ” , – w lit. e wprowadzenie do wyliczenia otrzymuje brzmienie: „ podpis osoby wystawiającej albo osoby upoważnionej do wystawienia recepty, w przypadku recepty: ” , w ust. 1a wprowadzenie do wyliczenia otrzymuje brzmienie: „ Recepta transgraniczna w postaci papierowej zawiera co najmniej następujące dane: ” , po ust. 1a dodaje się ust. 1aa w brzmieniu: „ 1aa. W przypadku recepty transgranicznej w postaci elektronicznej:
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **1)** przepis ust. 1a pkt 8 stosuje się;
+- **2)** która nie zawiera daty urodzenia pacjenta lub nazwy powszechnie stosowanej (międzynarodowej) produktu leczniczego, system teleinformatyczny, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, przekazuje te dane wraz z receptą do państwa realizacji;
+- **3)** system teleinformatyczny, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, przekazuje do państwa realizacji tę receptę wraz z oznaczeniem „Polska”. ” , w ust. 2 pkt 1 otrzymuje brzmienie: „
+    - **d)**
+
+- **1)** ilość produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego niezbędną pacjentowi do 360-dniowego okresu stosowania wyliczonego na podstawie określonego na recepcie sposobu dawkowania, przy czym na jednej recepcie w postaci papierowej ilość produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego nie może przekraczać ilości niezbędnej do 120-dniowego stosowania; ” , ust. 3 otrzymuje brzmienie: „
+    - **e)**
+
+3. Lekarz, lekarz dentysta, felczer, starszy felczer może wystawić do 12 recept w postaci papierowej na następujące po sobie okresy stosowania nieprzekraczające łącznie 360 dni; nie dotyczy to produktu leczniczego sprowadzanego w trybie art. 4. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
+
+- **f)**
+
+4a. W przypadku recepty w postaci elektronicznej pielęgniarka i położna może przepisać dla jednego pacjenta jednorazowo maksymalnie ilość produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego niezbędną pacjentowi do 180-dniowego okresu stosowania wyliczonego na podstawie określonego na recepcie sposobu dawkowania, w tym w przypadku produktu leczniczego antykoncepcyjnego wyłącznie w ramach kontynuacji zlecenia lekarskiego. Przepisu ust. 5 nie stosuje się. ” , w ust. 7: – pkt 1 otrzymuje brzmienie: „ 1) 30 dni od daty jej wystawienia albo naniesionej na recepcie daty realizacji „od dnia”, a w przypadku recepty w postaci elektronicznej – 365 dni; ” , – w pkt 3 w lit. b kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „ 4) 30 dni od daty jej wystawienia dla recepty na środki odurzające, substancje psychotropowe, preparaty zawierające te środki lub substancje oraz prekursory kategorii 1. ” , po ust. 7 dodaje się ust. 7a w brzmieniu: „
+
+- **g)**
+- **h)**
+
+7a. W przypadku realizacji recepty elektronicznej:
+
+- **1)** po upływie 30 dni od daty jej wystawienia albo naniesionej na recepcie daty realizacji „od dnia”, recepta jest realizowana z wyłączeniem dni stosowania, które już upłynęły, licząc je od daty wystawienia recepty albo naniesionej na recepcie daty realizacji „od dnia”,
+- **2)** jednorazowo pacjent może otrzymać maksymalnie ilość produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego niezbędną pacjentowi do 180-dniowego okresu stosowania wyliczonego na podstawie określonego na recepcie sposobu dawkowania przy czym w przypadku produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego, wydawanego w opakowaniach, których wielkość uniemożliwia wydanie go w ilości niezbędnej do stosowania przez wyliczony okres, dopuszcza się wydanie go w ilości przekraczającej tę ilość, jednak nie więcej niż o jedno najmniejsze opakowanie. ” , w ust. 8 uchyla się pkt 2, uchyla się ust. 8a, w ust. 12 po pkt 1 dodaje się pkt 1a w brzmieniu: „
+    - **i)**
+    - **j)**
+    - **k)**
+
+- **1a)** sposób realizacji recepty transgranicznej w postaci elektronicznej wystawionej w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym; ” ;
+- **5)** w art. 96b: ust. 1a otrzymuje brzmienie: „
+    - **a)**
+
+1a. Informacja o wystawionej recepcie może zawierać fotokody, w tym kody QR, oraz komunikaty nadawane przez system teleinformatyczny, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+
+- **b)**
+
+2a. Do informacji, o której mowa w ust. 1, pacjent ma również dostęp w Internetowym Koncie Pacjenta, o którym mowa w art. 7a ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, lub otrzymuje tę informację. ” ;
+
+- **6)** w art. 99a: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Apteka ogólnodostępna oraz punkt apteczny przekazują Krajowemu Punktowi Kontaktowemu do spraw Transgranicznej Opieki Zdrowotnej lub oddziałowi wojewódzkiemu Narodowego Funduszu Zdrowia, o których mowa w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, na ich wniosek, dane dotyczące produktów leczniczych, wyrobów medycznych lub środków spożywczych specjalnego przeznaczenia żywieniowego, zakupionych przez wskazanych we wniosku pacjentów z innych niż Rzeczpospolita Polska państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, oraz ich cen. ” , dodaje się ust. 3 w brzmieniu: „
+
+- **b)**
+
+3. Apteka ogólnodostępna oraz punkt apteczny są obowiązane do realizacji recept transgranicznych wystawionych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym. ” .
+
+**Art. 5.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373 i 1394) wprowadza się następujące zmiany:
+
+- **1)** w art. 3 w ust. 1 pkt 1 i 2 otrzymują brzmienie: „
+- **1)** osoby posiadające obywatelstwo państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA), zwanego dalej „państwem członkowskim UE lub EFTA”, zamieszkujące na terytorium państwa członkowskiego UE lub EFTA,
+- **2)** osoby nieposiadające obywatelstwa państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, zwanego dalej „państwem członkowskim UE lub EOG”, lub Konfederacji Szwajcarskiej, które przebywają na terytorium Rzeczypospolitej Polskiej na podstawie wizy w celu wykonywania pracy, zezwolenia na pobyt czasowy z wyłączeniem zezwolenia udzielonego na podstawie art. 181 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, zezwolenia na pobyt stały, zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej, zgody na pobyt ze względów humanitarnych, zgody na pobyt tolerowany, ” ;
+- **2)** użyte w art. 3 ust. 1 pkt 3 i 4, ust. 2 pkt 1, 2, 4 i 5, art. 5 pkt 23, art. 42d ust. 1 pkt 1, art. 42f ust. 1 pkt 1, art. 42i ust. 1, ust. 2 pkt 1, ust. 3 pkt 1, ust. 5 pkt 1 lit. f, ust. 8 pkt 1 i ust. 9, art. 51 ust. 1 i 2, art. 87 ust. 8 pkt 2 i art. 97 ust. 3a-3c w różnej liczbie i różnym przypadku wyrazy „państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA)” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „państwo członkowskie UE lub EFTA”;
+- **3)** w art. 19a: w ust. 4 w pkt 2 lit. b otrzymuje brzmienie: „ informację o rezerwacji terminu – w przypadku gdy świadczeniobiorca wybrał termin późniejszy niż wskazany przez świadczeniodawcę oraz w przypadku, o którym mowa w art. 20 ust. 9b, ” , dodaje się ust. 10 w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **b)**
+
+10. Fundusz może dokonywać wpisów i wykreśleń w harmonogramie przyjęć prowadzonym w aplikacji udostępnionej przez Prezesa Funduszu, o której mowa w art. 190 ust. 1a. O dokonanych wpisach i wykreśleniach Fundusz niezwłocznie zawiadamia świadczeniodawcę. ” ;
+
+- **4)** w art. 20: w ust. 2 w pkt 3 w lit. i tiret drugie otrzymuje brzmienie: „ – informację o rezerwacji terminu – w przypadku gdy świadczeniobiorca wybrał termin późniejszy niż wskazany przez świadczeniodawcę oraz w przypadku, o którym mowa w ust. 9b, ” , po ust. 8a dodaje się ust. 8b w brzmieniu: „
+    - **a)**
+    - **b)**
+
+8b. Informacja, o której mowa w ust. 2 pkt 2, oraz informacja o zmianie terminu wynikającego ze zmiany kolejności udzielenia świadczenia opieki zdrowotnej zawiera również pouczenie świadczeniobiorcy o możliwości uzyskania informacji, o której mowa w art. 23 ust. 3. ” , ust. 9a otrzymuje brzmienie: „
+
+- **c)**
+
+9a. W przypadku pojawienia się wolnego terminu udzielenia świadczenia opieki zdrowotnej, świadczeniodawca może ograniczyć informowanie o możliwości zmiany terminu udzielenia świadczenia opieki zdrowotnej na wcześniejszy do świadczeniobiorców wpisanych na listę oczekujących na udzielenie świadczenia, którym określono termin udzielenia świadczenia w przedziale między 7. a 30. dniem liczonym od daty tego wolnego terminu oraz niezależnie od kolejności świadczeniobiorców na tej liście, z uwzględnieniem kryteriów medycznych określonych w przepisach wydanych na podstawie ust. 11. ” , po ust. 9a dodaje się ust. 9b w brzmieniu: „
+
+- **d)**
+
+9b. W przypadku gdy świadczeniobiorca nie wyraża zgody na zmianę terminu udzielenia świadczenia opieki zdrowotnej na wcześniejszy lub w przypadku bezskuteczności próby kontaktu ze świadczeniobiorcą, w celu poinformowania o możliwości zmiany terminu na wcześniejszy, dotychczasowy termin wyznaczony dla tego świadczeniobiorcy jest równoznaczny z rezerwacją terminu. ” ;
+
+- **5)** w art. 23: ust. 4 otrzymuje brzmienie: „
+    - **a)**
+
+4. Świadczeniodawca, o którym mowa w art. 20 ust. 1, przekazuje każdego jego dnia roboczego oddziałowi wojewódzkiemu Funduszu właściwemu ze względu na miejsce udzielania świadczenia informację o pierwszym wolnym terminie udzielenia świadczenia według stanu na dzień poprzedzający, z wyłączeniem świadczeń, dla których jest prowadzona lista oczekujących, o której mowa w art. 20 ust. 12, świadczeń pielęgnacyjnych i opiekuńczych w ramach opieki długoterminowej, świadczeń opieki paliatywnej i hospicyjnej, innych niż udzielane w warunkach ambulatoryjnych oraz świadczeń perinatalnej opieki paliatywnej. ” , ust. 10 otrzymuje brzmienie: „
+
+- **b)**
+
+10. Prezes Funduszu przekazuje na bieżąco informacje, o których mowa w ust. 4, 4a i 8, do systemu, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia. ” ;
+
+- **6)** w art. 31lc: ust. 3 otrzymuje brzmienie: „
+    - **a)**
+
+3. Podmioty obowiązane do finansowania świadczeń opieki zdrowotnej ze środków publicznych oraz jednostka podległa ministrowi właściwemu do spraw zdrowia właściwa w zakresie systemów informacyjnych ochrony zdrowia udostępniają nieodpłatnie Agencji dane, o których mowa w ust. 2, w celu realizacji zadań Agencji określonych w art. 31n pkt 1–3b, 4a i 4b oraz w celu dokonywania analiz na rzecz systemu ochrony zdrowia. ” , dodaje się ust. 8 w brzmieniu: „
+
+- **b)**
+
+8. Przepisów ust. 6 i przepisów wydanych na podstawie ust. 7 nie stosuje się do świadczeniodawców:
+
+- **1)** udzielających świadczeń opieki zdrowotnej wyłącznie w zakresie podstawowej opieki zdrowotnej;
+- **2)** którzy nie prowadzą ksiąg rachunkowych na podstawie ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2019 r. poz. 351, 1495 i 1571);
+- **3)** o których mowa w art. 5 pkt 41 lit. d. ” ;
+- **7)** w art. 42b: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Świadczeniobiorca jest uprawniony do otrzymania od Funduszu zwrotu kosztów świadczenia opieki zdrowotnej, będącego świadczeniem gwarantowanym, udzielonego na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego UE lub EOG, zwanego dalej „zwrotem kosztów”. ” , w ust. 4 i 9 wyrazy „Unii Europejskiej” zastępuje się wyrazami „UE lub EOG”, w ust. 10 pkt 1 i 2 otrzymują brzmienie: „
+
+- **b)**
+- **c)**
+- **1)** państwa członkowskiego UE lub EOG, na podstawie recepty wystawionej na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego UE lub EOG przez osobę uprawnioną do wystawiania recept zgodnie z przepisami tego państwa;
+- **2)** innego niż Rzeczpospolita Polska państwa członkowskiego UE lub EOG, na podstawie recepty transgranicznej. ” , w ust. 11 pkt 1 i 2 otrzymują brzmienie: „
+    - **d)**
+
+- **1)** państwa członkowskiego UE lub EOG, na podstawie zlecenia wystawionego na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego UE lub EOG przez osobę uprawnioną do jego wystawienia zgodnie z przepisami tego państwa;
+- **2)** innego niż Rzeczpospolita Polska państwa członkowskiego UE lub EOG, na podstawie zlecenia wystawionego przez osobę uprawnioną, o której mowa w art. 2 pkt 14 ustawy o refundacji, na zasadach określonych w tej ustawie. ” ;
+- **8)** w art. 42c: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. W przypadku gdy procedura medyczna wykonana na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego UE lub EOG mieści się w zakresie świadczeń gwarantowanych, nie mając dokładnego odpowiednika wśród procedur medycznych wykonywanych w kraju, za podstawę zwrotu kosztów przyjmuje się kwotę finansowania procedury medycznej, mieszczącej się w zakresie tych świadczeń, najbardziej zbliżonej pod względem medycznym do procedury wykonanej na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego UE lub EOG. ” , ust. 11 otrzymuje brzmienie: „
+
+- **b)**
+
+11. W przypadku gdy liczba DDD, w rozumieniu ustawy o refundacji, w opakowaniu leku zakupionego w innym niż Rzeczpospolita Polska państwie członkowskim UE lub EOG różni się od liczby DDD w opakowaniu leku wymienionego w wykazie, o którym mowa w art. 37 ust. 1 ustawy o refundacji, kwotę zwrotu kosztów odpowiednio zwiększa lub zmniejsza się proporcjonalnie do ilorazu liczby DDD w opakowaniu leku zakupionego w innym niż Rzeczpospolita Polska państwie członkowskim UE lub EOG i liczby DDD leku wymienionego w wykazie, o którym mowa w art. 37 ust. 1 ustawy o refundacji. ” ;
+
+- **9)** w art. 42d: ust. 3 otrzymuje brzmienie: „
+    - **a)**
+
+3. Przepisu ust. 2 pkt 5 nie stosuje się, jeżeli świadczeniobiorca po upływie 30 dni od dnia złożenia kompletnego wniosku o wydanie zgody, o której mowa w art. 42b ust. 9, ze względu na pilną konieczność podjęcia leczenia niezbędnego dla ratowania życia lub zdrowia, wynikającą z potwierdzonego stanu klinicznego, poddał się takiemu leczeniu na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego UE lub EOG. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
+
+- **b)**
+
+4a. W przypadku recepty transgranicznej w postaci elektronicznej, we wniosku o zwrot kosztów podaje się klucz dostępu do recepty lub pakietu recept, o którym mowa w art. 96b ust. 1 pkt 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne. ” , w ust. 5 pkt 1 otrzymuje brzmienie: „
+
+- **c)**
+- **1)** oryginał rachunku wystawionego w innym niż Rzeczpospolita Polska państwie członkowskim UE lub EOG przez podmiot udzielający świadczeń zdrowotnych lub oryginał rachunku wystawionego w państwie członkowskim UE lub EOG przez aptekę albo dostawcę wyrobów medycznych; ” , w ust. 15 zdanie pierwsze otrzymuje brzmienie: „ W przypadku gdy rozpatrzenie wniosku o zwrot kosztów wymaga przeprowadzenia postępowania wyjaśniającego przy udziale krajowego punktu kontaktowego do spraw transgranicznej opieki zdrowotnej, działającego w innym niż Rzeczpospolita Polska państwie członkowskim UE lub EOG, zwrot kosztów albo wydanie decyzji odmawiającej zwrotu kosztów następuje w terminie 6 miesięcy od dnia wszczęcia postępowania. ” ;
+    - **d)**
+
+- **10)** w art. 42f: w ust. 2 pkt 5 otrzymuje brzmienie: „
+    - **a)**
+
+- **5)** ma zostać udzielone przez podmiot udzielający świadczeń zdrowotnych, działający w innym niż Rzeczpospolita Polska państwie członkowskim UE lub EOG, co do którego zachodzą istotne wątpliwości w zakresie przestrzegania standardów jakości i bezpieczeństwa, ustanowionych przez państwo, w którym udziela on świadczeń zdrowotnych. ” , w ust. 4: – w pkt 1 lit. f otrzymuje brzmienie: „ f) wskazanie podmiotu udzielającego świadczeń zdrowotnych, działającego w innym państwie członkowskim UE lub EOG, mającego udzielić świadczeń opieki zdrowotnej, których dotyczy wniosek, wraz z uzasadnieniem, ” , – w pkt 2 lit. b otrzymuje brzmienie: „ b) pieczątkę, nadruk albo naklejkę zawierające numer prawa wykonywania zawodu oraz specjalizację lekarza wypełniającego wniosek, ” ;
+    - **b)**
+
+- **11)** w art. 42f w ust. 4 w pkt 2 w lit. c, w art. 42i w ust. 5 w pkt 2 w lit. c oraz w art. 42j w ust. 4 w pkt 2 w lit. c wyrazy „pieczęć świadczeniodawcy” zastępuje się wyrazami „pieczątkę, nadruk albo naklejkę zawierające nazwę i adres świadczeniodawcy”;
+- **12)** art. 42g otrzymuje brzmienie: „
+
+**Art. 42g.** Przepisów art. 42b-42f nie stosuje się do osób:
+
+- **1)** o których mowa w art. 66 ust. 1 pkt 16, oraz członków ich rodzin, posiadających miejsce zamieszkania na terytorium państwa członkowskiego UE lub EOG wymienionego w załączniku nr 3 do rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczącego wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego;
+- **2)** zgłoszonych do ubezpieczenia zdrowotnego jako członkowie rodzin osób, o których mowa w art. 66 ust. 1 pkt 1–15a, 17 i 20–37, jeżeli posiadają miejsce zamieszkania na terytorium innego państwa członkowskiego UE lub EOG niż osoba, która zgłosiła członka rodziny do ubezpieczenia zdrowotnego, a państwo zamieszkania jest wymienione w załączniku nr 3 do rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczącego wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego. ” ;
+- **13)** w art. 42i w ust. 5 w pkt 2 lit. b otrzymuje brzmienie: „ pieczątkę, nadruk albo naklejkę zawierające numer prawa wykonywania zawodu oraz specjalizację lekarza wypełniającego wniosek, ” ;
+    - **b)**
+
+- **14)** w art. 42j w ust. 4 w pkt 2 lit. b otrzymuje brzmienie: „ pieczątkę, nadruk albo naklejkę zawierające numer prawa wykonywania zawodu oraz specjalizację lekarza wypełniającego wniosek oraz tytuł lub stopień naukowy, ” ;
+    - **b)**
+
+- **15)** w art. 43a: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Świadczeniobiorcom, po ukończeniu 75. roku życia, przysługuje bezpłatne zaopatrzenie w leki, środki spożywcze specjalnego przeznaczenia żywieniowego oraz wyroby medyczne określone w wykazie, o którym mowa w art. 37 ust. 1 ustawy o refundacji, ustalonym w sposób określony w ust. 2, na podstawie recepty wystawionej przez lekarza lub pielęgniarkę udzielających świadczeń opieki zdrowotnej w ramach umowy o udzielanie świadczeń opieki zdrowotnej z zakresu podstawowej opieki zdrowotnej albo lekarza posiadającego prawo wykonywania zawodu, który zaprzestał wykonywania zawodu i wystawił receptę dla siebie albo dla małżonka, osoby pozostającej we wspólnym pożyciu oraz krewnych lub powinowatych w linii prostej, a w linii bocznej do stopnia pokrewieństwa między dziećmi rodzeństwa. ” , po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
+
+- **b)**
+
+1a. Bezpłatne zaopatrzenie, o którym mowa w ust. 1, przysługuje również na podstawie recepty wystawionej w postaci elektronicznej przez:
+
+- **1)** lekarza lub pielęgniarkę udzielających świadczeń opieki zdrowotnej: w ramach umowy o udzielanie świadczeń opieki zdrowotnej z zakresu ambulatoryjnej opieki specjalistycznej lub z zakresu ambulatoryjnej opieki specjalistycznej w ramach umowy, o której mowa w art. 159a;
+    - **a)**
+    - **b)**
+
+- **2)** lekarza udzielającego świadczeń opieki zdrowotnej: w ramach umowy o udzielanie świadczeń opieki zdrowotnej z zakresu leczenia szpitalnego lub z zakresu leczenia szpitalnego w ramach umowy, o której mowa w art. 159a w związku z zakończeniem leczenia szpitalnego.
+    - **a)**
+    - **b)**
+
+1b. Osoby uprawnione do wystawiania recept na podstawie ust. 1 i 1a, przed wystawieniem recepty są obowiązane do dokonywania za pośrednictwem systemu, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, weryfikacji ilości oraz rodzaju przepisanych świadczeniobiorcy, o którym mowa w ust. 1, leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, pod względem bezpieczeństwa oraz konieczności ich stosowania, biorąc pod uwagę recepty wystawione oraz zrealizowane dla tego świadczeniobiorcy. ” ;
+
+- **16)** w art. 47e w ust. 1 w pkt 14 wyrazy „i pieczęć” zastępuje się wyrazami „osoby uprawnionej do reprezentowania”;
+- **17)** w art. 50: w ust. 2 pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** świadczeniobiorca potwierdzi swoją tożsamość przez okazanie dowodu osobistego, paszportu, prawa jazdy, legitymacji szkolnej albo przy użyciu dokumentu elektronicznego, o którym mowa w art. 19e ust. 2 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2019 r. poz. 700, 730 i 848), przez okazanie tego dokumentu na ekranie urządzenia mobilnego osobie stwierdzającej tożsamość; legitymacja szkolna może być okazana jedynie przez osobę, która nie ukończyła 18. roku życia; ” , w ust. 3 skreśla się wyrazy „(Dz. U. z 2017 r. poz. 570 oraz z 2018 r. poz. 1000)”;
+    - **b)**
+
+- **18)** w art. 57 w ust. 2 w pkt 14 kropkę zastępuje się średnikiem i dodaje się pkt 15 w brzmieniu: „
+- **15)** psychologicznych, psychoterapeutycznych i środowiskowych dla dzieci i młodzieży. ” ;
+- **19)** w art. 59b ust. 2a otrzymuje brzmienie: „
+
+2a. Informacja o wystawionym skierowaniu może zawierać fotokody, w tym kody QR, oraz komunikaty nadawane przez system teleinformatyczny, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia. ” ;
+
+- **20)** w art. 87: w ust. 9 wyraz „ewidencją” zastępuje się wyrazem „rejestrem”, ust. 10a i 10b otrzymują brzmienie: „
+    - **a)**
+    - **b)**
+
+10a. Organ prowadzący rejestr PESEL udostępnia centrali Funduszu za pomocą środków komunikacji elektronicznej:
+
+- **1)** nowo nadane numery PESEL i odpowiadające im imiona, nazwiska i nazwiska rodowe oraz wskazanie rodzaju i numeru dokumentu potwierdzającego tożsamość danej osoby;
+- **2)** numery PESEL dzieci i ich rodziców, których dane są gromadzone w rejestrze PESEL – jeżeli są dostępne;
+- **3)** numery PESEL i odpowiadające im imiona, nazwiska i nazwiska rodowe osób, których zgon został zgłoszony;
+- **4)** informacje o zmianie danych, o których mowa w pkt 1–3.
+
+10b. Organ prowadzący rejestr PESEL i Fundusz uzgadniają format udostępnianych danych, o których mowa w ust. 10a. ” ;
+
+- **21)** po art. 87 dodaje się art. 87a w brzmieniu: „
+
+**Art. 87a.**
+
+1. Zakład Ubezpieczeń Społecznych przekazuje do centrali Funduszu nieodpłatnie, w postaci elektronicznej, dane:
+
+- **1)** osób, którym wypłacono zasiłek chorobowy z ubezpieczenia społecznego w razie choroby i macierzyństwa albo z ubezpieczenia społecznego z tytułu wypadków przy pracy i chorób zawodowych albo zasiłek opiekuńczy z tytułu konieczności osobistego sprawowania opieki nad chorym członkiem rodziny z ubezpieczenia społecznego w razie choroby i macierzyństwa obejmujące: numer PESEL, a w razie gdy nie nadano numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego tożsamość, informacje o rodzaju wypłaconego świadczenia,
+    - **a)**
+    - **b)**
+
+- **2)** osób pobierających rentę z tytułu niezdolności do pracy obejmujące: numer PESEL, a w razie gdy nie nadano numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego tożsamość, symbol renty, informację, czy renta jest stała czy okresowa,
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **3)** numer PESEL, a w razie gdy nie nadano numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego tożsamość, osób, którym przyznano jednorazowe odszkodowanie z ubezpieczenia społecznego z tytułu wypadków przy pracy i chorób zawodowych,
+- **4)** osób skierowanych na rehabilitację leczniczą w ramach prewencji rentowej obejmujące: numer PESEL, a w razie gdy nie nadano numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego tożsamość, rodzaj schorzenia uzasadniającego skierowanie na rehabilitację leczniczą oraz schorzenia współistniejącego, jeżeli takie zostało wskazane w orzeczeniu lekarza orzecznika Zakładu Ubezpieczeń Społecznych lub komisji lekarskiej Zakładu Ubezpieczeń Społecznych o potrzebie rehabilitacji leczniczej, ustalonych według Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów Zdrowotnych ICD-10, okres rehabilitacji leczniczej,
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **5)** osób, którym na podstawie art. 23 ustawy z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. z 2019 r. poz. 1205) przyznano świadczenia zdrowotne z zakresu stomatologii, szczepień ochronnych lub wyrobów medycznych obejmujące: numer PESEL, a w razie gdy nie nadano numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego tożsamość, informację, z jakiego zakresu jest świadczenie, wysokość świadczenia w celu monitorowania stanu zdrowia i zapotrzebowania ubezpieczonych na świadczenia zdrowotne oraz leki i wyroby medyczne, a także dokonywania analiz przepływu środków publicznych przeznaczonych na finansowanie świadczeń opieki zdrowotnej.
+    - **a)**
+    - **b)**
+    - **c)**
+
+2. Dane, o których mowa w ust. 1, Zakład Ubezpieczeń Społecznych przekazuje do dnia 30 kwietnia danego roku za poprzedni rok kalendarzowy.
+
+3. Dane, o których mowa w ust. 1 pkt 2, Zakład Ubezpieczeń Społecznych przekazuje według stanu na dzień 31 grudnia poprzedniego roku kalendarzowego.
+
+4. Dane, o których mowa w ust. 1, Zakład Ubezpieczeń Społecznych przekazuje także na wniosek centrali Funduszu, zawierający numer PESEL osoby, której dane dotyczą, a w razie gdy nie nadano numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego tożsamość tej osoby, w terminie 10 dni od dnia otrzymania wniosku, według stanu na dzień złożenia wniosku.
+
+5. Centrala Funduszu jest obowiązana do udostępniania ministrowi właściwemu do spraw zdrowia oraz jednostce podległej ministrowi właściwemu do spraw zdrowia właściwej w zakresie systemów informacyjnych w ochronie zdrowia danych, o których mowa w ust. 1, w celu dokonywania analiz na rzecz systemu ochrony zdrowia. ” ;
+
+- **22)** w art. 97: w ust. 3 pkt 9 otrzymuje brzmienie: „
+    - **a)**
+
+- **9)** prowadzenie działalności promocyjnej i informacyjnej w zakresie ochrony zdrowia, w tym promowanie Internetowego Konta Pacjenta, o którym mowa w art. 7a ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia; ” , ust. 7 otrzymuje brzmienie: „
+    - **b)**
+
+7. Zadania Funduszu określone w ust. 3 pkt 1, 2, 4, 6 i 11 w odniesieniu do podmiotów leczniczych nadzorowanych przez Ministra Obrony Narodowej, Ministra Sprawiedliwości, ministra właściwego do spraw wewnętrznych, Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu oraz Szefa Centralnego Biura Antykorupcyjnego realizuje komórka organizacyjna oddziału wojewódzkiego Funduszu, o której mowa w art. 96 ust. 4. ” , po ust. 8a dodaje się ust. 8b w brzmieniu: „
+
+- **c)**
+
+8b. Fundusz może otrzymywać dotację celową z budżetu państwa na finansowanie części kosztów realizacji zadania, o którym mowa w ust. 3 pkt 4c. ” ;
+
+- **23)** w art. 97a: w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ KPK i oddziały wojewódzkie Funduszu udzielają pacjentom z innych państw członkowskich UE lub EOG, na ich wniosek, niezbędnych informacji dotyczących: ” , ust. 4–6 otrzymują brzmienie: „
+    - **a)**
+    - **b)**
+
+4. KPK współpracuje z Komisją Europejską i krajowymi punktami kontaktowymi do spraw transgranicznej opieki zdrowotnej działającymi w innych państwach członkowskich UE lub EOG, w szczególności w zakresie wymiany informacji, o których mowa w ust. 2.
+
+5. Na wniosek krajowych punktów kontaktowych do spraw transgranicznej opieki zdrowotnej działających w innych niż Rzeczpospolita Polska państwach członkowskich UE lub EOG KPK, we współpracy z oddziałami wojewódzkimi Funduszu, udziela niezbędnej pomocy w wyjaśnianiu zawartości rachunków i innych dokumentów wystawionych pacjentom z innych niż Rzeczpospolita Polska państw członkowskich UE lub EOG przez polskich świadczeniodawców, apteki i dostawców wyrobów medycznych.
+
+6. KPK kieruje do krajowych punktów kontaktowych do spraw transgranicznej opieki zdrowotnej, działających w innych niż Rzeczpospolita Polska państwach członkowskich UE lub EOG, zapytania dotyczące zawartości rachunków i innych dokumentów wystawionych przez podmioty udzielające świadczeń zdrowotnych, apteki i dostawców wyrobów medycznych, działających na terytorium tych państw. ” , ust. 8 otrzymuje brzmienie: „
+
+- **c)**
+
+8. KPK zamieszcza na swojej stronie internetowej oraz w Biuletynie Informacji Publicznej Funduszu aktualne informacje o danych teleadresowych krajowych punktów kontaktowych do spraw transgranicznej opieki zdrowotnej działających w innych państwach członkowskich UE lub EOG. ” , w ust. 10 pkt 1 otrzymuje brzmienie: „
+
+- **d)**
+- **1)** możliwości uzyskania zwrotu kosztów przysługującego w przypadku uzyskania w innym państwie członkowskim UE lub EOG określonego świadczenia opieki zdrowotnej; ” , ust. 12 otrzymuje brzmienie: „
+    - **e)**
+
+12. Oddziały wojewódzkie Funduszu udzielają świadczeniobiorcom, bezpośrednio lub przy użyciu dostępnych środków komunikacji, w szczególności telefonicznie, w formie pisemnej albo przy użyciu poczty elektronicznej, informacji na temat przybliżonej wysokości zwrotu kosztów przysługującego w przypadku uzyskania w innym państwie członkowskim UE lub EOG określonego świadczenia opieki zdrowotnej. ” ;
+
+- **24)** w art. 102 w ust. 5: pkt 25 otrzymuje brzmienie: „
+    - **a)**
+
+- **25)** ustalanie jednolitych sposobów realizacji ustawowych zadań realizowanych przez oddziały wojewódzkie Funduszu z uwzględnieniem konieczności stosowania ułatwień w obiegu dokumentacji, w tym ich elektronizacji; ” , w pkt 26a wyrazy „art. 43a ust. 1” zastępuje się wyrazami „art. 43a ust. 1 i 1a”;
+    - **b)**
+
+- **25)** w art. 116 w ust. 1 pkt 5 otrzymuje brzmienie: „
+- **5)** dotacje, w tym dotacje celowe przeznaczone na finansowanie zadań, o których mowa w art. 97 ust. 3 pkt 2b, 2c i 4c; ” ;
+- **26)** w art. 146 w ust. 1 pkt 2 otrzymuje brzmienie: „
+- **2)** szczegółowe warunki umów o udzielanie świadczeń opieki zdrowotnej, obejmujące w szczególności obszar terytorialny, dla którego jest przeprowadzane postępowanie w sprawie zawarcia umów ze świadczeniodawcami, z uwzględnieniem taryfy świadczeń w przypadku jej ustalenia w danym zakresie oraz mając na uwadze konieczność stosowania ułatwień w obiegu dokumentacji, w tym ich elektronizacji; ” ;
+- **27)** w art. 188: w ust. 1 w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 w brzmieniu: „
+    - **a)**
+
+- **13)** przekazywania świadczeniobiorcom i świadczeniodawcom informacji z zakresu profilaktyki i zdrowego trybu życia, uzyskanych w ramach przetwarzania danych, o których mowa w pkt 8. ” , w ust. 4: – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) numery PESEL rodziców; ” , – w pkt 15a wyrazy „art. 43a ust. 1” zastępuje się wyrazami „art. 43a ust. 1 i 1a”;
+    - **b)**
+
+- **28)** w art. 192 uchyla się ust. 3 i 4.
+
 **Art. 6.** W ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2019 r. poz. 700, 730 i 848) wprowadza się następujące zmiany:
+
+- **1)** w art. 3 pkt 14 otrzymuje brzmienie: „
+- **14)** profil zaufany – środek identyfikacji elektronicznej zawierający zestaw danych identyfikujących i opisujących osobę fizyczną, która posiada pełną albo ograniczoną zdolność do czynności prawnych, który został wydany w sposób, o którym mowa w art. 20c; ” ;
+- **2)** w art. 12c: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Minister właściwy do spraw informatyzacji może raz w roku przeprowadzić konkurs na dofinansowanie projektów informatycznych o publicznym zastosowaniu lub przedsięwzięć wspierających rozwój społeczeństwa informacyjnego, zwany dalej „konkursem”. ” , ust. 4 otrzymuje brzmienie: „
+
+- **b)**
+
+4. Podmioty publiczne lub podmioty, o których mowa w art. 20c ust. 2a, mogące ubiegać się o dofinansowanie składają wniosek o dofinansowanie do ministra właściwego do spraw informatyzacji. ” ;
+
+- **3)** w art. 19e: w ust. 1 pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** pobranie, przechowywanie i prezentację dokumentów elektronicznych, o których mowa w ust. 2, a także przekazywanie tych dokumentów między urządzeniami mobilnymi lub do systemów teleinformatycznych; ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **b)**
+
+1a. Minister właściwy do spraw informatyzacji może udostępniać w publicznej aplikacji mobilnej funkcjonalność pozwalającą na:
+
+- **1)** dostęp do usługi online obsługiwanej przy użyciu tej aplikacji;
+- **2)** potwierdzenie udziału w usługach świadczonych na rzecz użytkownika tej aplikacji w określonym miejscu i czasie;
+- **3)** korzystanie, przy użyciu urządzenia mobilnego, z certyfikatów zawartych w dowodzie osobistym z warstwą elektroniczną;
+- **4)** wykorzystanie tej aplikacji w celu przekazywania danych w ramach usług świadczonych na rzecz użytkownika tej aplikacji. ” , po ust. 2 dodaje się ust. 2a-2d w brzmieniu: „
+    - **c)**
+
+2a. Minister właściwy do spraw informatyzacji może zapewnić użytkownikowi publicznej aplikacji mobilnej możliwość posługiwania się certyfikatem stanowiącym poświadczenie elektroniczne pozwalające na:
+
+- **1)** potwierdzenie integralności i pochodzenia dokumentu elektronicznego;
+- **2)** potwierdzenie lub przekazanie danych osobowych tego użytkownika.
+
+2b. Certyfikat:
+
+- **1)** może być wydany użytkownikowi publicznej aplikacji mobilnej uwierzytelnionemu w sposób określony w art. 20a ust. 1;
+- **2)** jest wydany w systemie teleinformatycznym, o którym mowa w ust. 2;
+- **3)** może zawierać dane, o których mowa odpowiednio w art. 56 ust. 1 pkt 1, 2 i 4 lit. a-c ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych oraz w art. 8 pkt 1–3, 4–6, 9–11, 14 i 22 ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2019 r. poz. 1397).
+
+2c. Minister właściwy do spraw informatyzacji zapewnia mechanizm weryfikacji ważności certyfikatu.
+
+2d. Minister właściwy do spraw informatyzacji może wydać podmiotowi, o którym mowa odpowiednio w art. 19g ust. 1 i 2, certyfikat pozwalający na zabezpieczenie oraz potwierdzenie pochodzenia danych przekazywanych pomiędzy systemem teleinformatycznym, o którym mowa w ust. 2, a systemem teleinformatycznym tego podmiotu. ” , w ust. 3 w pkt 2 skreśla się wyrazy „(Dz. U. z 2018 r. poz.1382 i 1544 oraz z 2019 r. poz. 60)”;
+
+- **d)**
+- **4)** w art. 19g w ust. 3 pkt 1 otrzymuje brzmienie: „
+- **1)** odpowiednio określenie: dokumentu elektronicznego oraz zakresu zawartych w nim danych, certyfikatu, w tym zakresu zawartych w nim danych; ” ;
+    - **a)**
+    - **b)**
+
+- **5)** art. 19h otrzymuje brzmienie: „
+
+**Art. 19h.** Minister właściwy do spraw informatyzacji przetwarza w systemie teleinformatycznym, o którym mowa w art. 19e, dane osobowe użytkowników publicznej aplikacji mobilnej w zakresie niezbędnym do obsługi dokumentów elektronicznych oraz realizacji czynności, o których mowa w art. 19e, a także zapewnienia bezpieczeństwa teleinformatycznego i bezpieczeństwa obrotu prawnego. Dane przetwarzane są przez okres 6 lat od dnia ostatniej aktywności użytkownika w systemie. ” ;
+
+- **6)** w art. 19i w pkt 3 w lit. b kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+- **4)** warunkach korzystania z certyfikatu. ” ;
+- **7)** w art. 20ad: ust. 3 otrzymuje brzmienie: „
+    - **a)**
+
+3. W przypadku zmiany w rejestrze PESEL danych, o których mowa w ust. 1, jest dokonywana automatyczna aktualizacja tych danych zawartych w profilu zaufanym. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
+
+- **b)**
+
+4a. W przypadku gdy w rejestrze PESEL został odnotowany zgon osoby posiadającej profil zaufany, profil zaufany tej osoby jest automatycznie unieważniany. ” ;
+
+- **8)** w art. 20c: w ust. 2 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
+    - **a)**
+
+- **5)** Narodowy Fundusz Zdrowia. ” , po ust. 2 dodaje się ust. 2a-2e w brzmieniu: „
+    - **b)**
+
+2a. Narodowy Fundusz Zdrowia może nadać uprawnienia do potwierdzania w swoim imieniu profilu zaufanego lekarzowi podstawowej opieki zdrowotnej, pielęgniarce podstawowej opieki zdrowotnej, położnej podstawowej opieki zdrowotnej realizującym zadania w zakresie podstawowej opieki zdrowotnej dla świadczeniodawcy, który udziela świadczeń opieki zdrowotnej w ramach umowy o udzielanie świadczeń opieki zdrowotnej z zakresu podstawowej opieki zdrowotnej, oraz osobie zatrudnionej u tego świadczeniodawcy pod warunkiem, że co najmniej imię, nazwisko i numer PESEL tej osoby zostały przekazane do Narodowego Funduszu Zdrowia w ramach zawartej umowy.
+
+2b. Osoba posiadająca uprawnienia do potwierdzania profilu zaufanego, o której mowa w ust. 2a, może potwierdzić profil zaufany wyłącznie świadczeniobiorcy, który w deklaracji wyboru, o której mowa w art. 10 ust. 1 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2019 r. poz. 357, 730 i 1590), wskazał świadczeniodawcę, w ramach którego działa osoba potwierdzająca profil zaufany.
+
+2c. Narodowy Fundusz Zdrowia niezwłocznie odbiera uprawnienia do potwierdzania profilu zaufanego w przypadku ustania okoliczności, o których mowa w ust. 2a.
+
+2d. Minister właściwy do spraw informatyzacji może udostępnić rozwiązanie techniczne przeznaczone do przekazywania informacji o zdarzeniach, o których mowa w ust. 2a i 2b, pomiędzy systemem teleinformatycznym Narodowego Funduszu Zdrowia, w którym znajdują się dane o świadczeniodawcach udzielających świadczeń z zakresu podstawowej opieki zdrowotnej, na podstawie zawartej z Narodowym Funduszem Zdrowia umowy o udzielanie świadczeń z zakresu podstawowej opieki zdrowotnej, a systemem, o którym mowa w art. 20aa ust. 1, zapewniające automatyczną weryfikację i aktualizację uprawnień do potwierdzania profilu zaufanego.
+
+2e. W przypadku, o którym mowa w ust. 2a, dokumenty w postaci papierowej w zakresie potwierdzania, przedłużania i unieważniania profilu zaufanego w sposób i przez okres określony w przepisach wydanych na podstawie art. 20d przechowuje i archiwizuje świadczeniodawca. ” .
 
 **Art. 7.** W ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2019 r. poz. 993) wprowadza się następujące zmiany:
 
-**Art. 8.** W ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2019 r. poz. 1127 i 1128) art. 18 ust. 1a otrzymuje brzmienie: „1a. W przypadku wyrażenia zgody na zabieg operacyjny albo zastosowanie metody leczenia lub diagnostyki stwarzających podwyższone ryzyko dla pacjenta za pośrednictwem Internetowego Konta Pacjenta, o którym mowa art. 7a ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji ochronie zdrowia (Dz. U. z 2019 r. poz. 408 i 730), lub przy użyciu podpisu osobistego, wymagana jest forma dokumentowa.”.
+- **1)** w art. 29 w ust. 5 pkt 3 otrzymuje brzmienie: „
+- **3)** rozstrzyganie sporów dotyczących przyjęcia osoby w stanie nagłego zagrożenia zdrowotnego przez szpital od jednostek systemu; ” ;
+- **2)** w art. 36 ust. 5 otrzymuje brzmienie: „
 
-**Art. 9.** W ustawie z dnia 28 kwietnia 2011 r. o systemie informacji ochronie zdrowia (Dz. U. z 2019 r. poz. 408 i 730) wprowadza się następujące zmiany:
+5. Kierownikiem zespołu ratownictwa medycznego, o którym mowa w ust. 1 pkt 2, może być osoba wskazana przez dysponenta jednostki, będąca ratownikiem medycznym lub pielęgniarką systemu, która posiada doświadczenie w udzielaniu świadczeń zdrowotnych w zespole ratownictwa medycznego, lotniczym zespole ratownictwa medycznego lub szpitalnym oddziale ratunkowym, w wymiarze co najmniej 5000 godzin w okresie ostatnich 5 lat. ” ;
+
+- **3)** w art. 44 uchyla się ust. 2;
+- **4)** art. 45 otrzymuje brzmienie: „
+
+**Art. 45.** W przypadku gdy u osoby w stanie nagłego zagrożenia zdrowotnego zostanie stwierdzony stan, który wymaga transportu z miejsca zdarzenia bezpośrednio do szpitala, w którym znajduje się centrum urazowe lub centrum urazowe dla dzieci, albo do jednostki organizacyjnej szpitala wyspecjalizowanej w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego, lub gdy tak zadecyduje kierownik zespołu ratownictwa medycznego, osobę w stanie nagłego zagrożenia zdrowotnego transportuje się bezpośrednio do szpitala, w którym znajduje się odpowiednie centrum albo jednostka organizacyjna szpitala wyspecjalizowana w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego, wskazanego przez dyspozytora medycznego lub wojewódzkiego koordynatora ratownictwa medycznego. W przypadku transportu poza obszar działania dyspozytorni medycznej transport koordynuje wojewódzki koordynator ratownictwa medycznego. ” ;
+
+- **5)** po art. 45 dodaje się art. 45a w brzmieniu: „ Odmowa przyjęcia osoby w stanie nagłego zagrożenia zdrowotnego, pacjenta urazowego albo pacjenta urazowego dziecięcego przez szpital od jednostek systemu skutkuje zastosowaniem kary umownej określonej w umowie o udzielanie świadczeń opieki zdrowotnej lub niezwłocznym rozwiązaniem tej umowy. ” .
+
+**Art. 8.** W ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2019 r. poz. 1127 i 1128) w art. 18 ust. 1a otrzymuje brzmienie: „ 1a. W przypadku wyrażenia zgody na zabieg operacyjny albo zastosowanie metody leczenia lub diagnostyki stwarzających podwyższone ryzyko dla pacjenta za pośrednictwem Internetowego Konta Pacjenta, o którym mowa w art. 7a ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2019 r. poz. 408 i 730), lub przy użyciu podpisu osobistego, wymagana jest forma dokumentowa. ” .
+
+**Art. 9.** W ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2019 r. poz. 408 i 730) wprowadza się następujące zmiany:
+
+- **1)** w art. 2: pkt 3a otrzymuje brzmienie: „
+    - **a)**
+
+- **3a)** certyfikat do uwierzytelniania systemu – poświadczenie elektroniczne, wydawane przez system, o którym mowa w art. 7 ust. 1, służące do: uwierzytelniania systemu usługodawcy w Systemie Informacji Medycznej, zwanym dalej „SIM”, oraz w dziedzinowych systemach teleinformatycznych, wzajemnego uwierzytelniania systemów teleinformatycznych usługodawców lub innych podmiotów przetwarzających jednostkowe dane medyczne; ” , pkt 7 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **b)**
+
+- **7)** jednostkowe dane medyczne – dane osoby fizycznej o udzielonych, udzielanych i planowanych świadczeniach opieki zdrowotnej oraz dotyczące jej stanu zdrowia, w tym profilaktyki zdrowotnej i realizacji programów zdrowotnych; ” , pkt 13 otrzymuje brzmienie: „
+    - **c)**
+
+- **13)** system teleinformatyczny – system teleinformatyczny w rozumieniu art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne; ” , pkt 18 otrzymuje brzmienie: „
+    - **d)**
+
+- **18)** zdarzenie medyczne przetwarzane w systemie informacji – świadczenie zdrowotne, o którym mowa w art. 5 pkt 40 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych; ” ;
+- **2)** w art. 3 w ust. 3: pkt 3 otrzymuje brzmienie: „
+    - **a)**
+
+- **3)** Naczelna Rada Lekarska na podstawie ustawy z dnia 2 grudnia 2009 r. o izbach lekarskich (Dz. U. z 2019 r. poz. 965), w zakresie danych przetwarzanych w Centralnym Rejestrze Lekarzy i Lekarzy Dentystów Rzeczypospolitej Polskiej oraz na podstawie ustawy z dnia 20 lipca 1950 r. o zawodzie felczera (Dz. U. z 2018 r. poz. 2150), w zakresie danych przetwarzanych w rejestrze felczerów; ” , pkt 6 otrzymuje brzmienie: „
+    - **b)**
+
+- **6)** okręgowe izby aptekarskie, na podstawie ustawy z dnia 19 kwietnia 1991 r. o izbach aptekarskich (Dz. U. z 2019 r. poz. 1419), w odniesieniu do danych zawartych w rejestrze farmaceutów; ” ;
+- **3)** w art. 4 w ust. 3 w pkt 1: po lit. b dodaje się lit. ba w brzmieniu: „ ba) imiona i nazwiska rodowe oraz numery PESEL rodziców, ” , po lit. j dodaje się lit. ja w brzmieniu: „ ja) adres zameldowania, ” , lit. n oraz o otrzymują brzmienie: „ informację o posiadaniu orzeczenia o niepełnosprawności albo orzeczenia o stopniu niepełnosprawności, informacje o uprawnieniach dodatkowych, w tym numer i termin ważności dokumentów potwierdzających te uprawnienia oraz datę utraty tych uprawnień, ” , lit. r otrzymuje brzmienie: „ datę zgonu albo datę znalezienia zwłok, ” ;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **n)**
+    - **o)**
+    - **d)**
+    - **r)**
+
+- **4)** w art. 5: w ust. 1 w pkt 2 w lit. k średnik zastępuje się przecinkiem i dodaje się lit. I w brzmieniu: „ Rejestru Asystentów Medycznych, zwanego dalej „RAM”; ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+    - **a)**
+    - **l)**
+    - **b)**
+
+3a. Dane zawarte w systemach, o których mowa w ust. 1 pkt 1, pkt 2 lit. a, e, g-j, I oraz w pkt 3, nie podlegają udostępnianiu na zasadach określonych w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2019 r. poz. 1429). ” ;
+
+- **5)** w art. 7: w ust. 1: – pkt 1a i 1b otrzymują brzmienie: „ 1a) składanie przez usługobiorców lub ich przedstawicieli ustawowych oświadczeń, deklaracji i wniosków, o których mowa odpowiednio w art. 7a ust. 1 pkt 3–5, 9, 10, 12 i 14; 1b) przekazywanie przez Zakład Ubezpieczeń Społecznych informacji, o których mowa w art. 60a ust. 2 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa oraz ich przechowywanie; ” , – w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 i 11 w brzmieniu: „ 10) przekazywanie i odbieranie danych osobowych i jednostkowych danych medycznych usługobiorców w zakresie wymiany recepty transgranicznej w rozumieniu art. 2 pkt 35aa ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, zwanej dalej „receptą transgraniczną”; 11) uzyskiwanie przez lekarzy, lekarzy dentystów, pielęgniarki, położne, felczerów, starszych felczerów, fizjoterapeutów, farmaceutów, techników farmaceutycznych oraz osoby wykonujące czynności pomocnicze przy udzielaniu świadczeń opieki zdrowotnej informacji o uprawnieniach dodatkowych usługobiorców oraz informacji o posiadaniu przez nich orzeczenia o niepełnosprawności albo orzeczenia o stopniu niepełnosprawności. ” , po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „
+    - **a)**
+    - **b)**
+
+2a. Jednostka, o której mowa w ust. 2, wykonuje zadania Krajowego Punktu Kontaktowego do spraw Transgranicznej Opieki Zdrowotnej, w zakresie wymiany recepty transgranicznej w postaci elektronicznej, zwanego dalej „KPK”.
+
+2b. Do zadań KPK, o których mowa w ust. 2a, należy:
+
+- **1)** przygotowanie, testowanie, wdrożenie, uruchomienie i obsługa w zakresie wymiany recepty transgranicznej w postaci elektronicznej przez umożliwienie elektronicznego przesyłania danych między Rzecząpospolitą Polską a innymi państwami członkowskimi Unii Europejskiej lub państwami członkowskimi Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronami umowy o Europejskim Obszarze Gospodarczym w ramach świadczenia usług transgranicznej opieki zdrowotnej;
+- **2)** współpraca z Komisją Europejską i krajowymi punktami kontaktowymi do spraw transgranicznej opieki zdrowotnej działającymi w innych państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym. ” , dodaje się ust. 6 w brzmieniu: „
+    - **c)**
+
+6. Jednostka, o której mowa w ust. 2, może przekazywać usługobiorcom informacje, o których mowa w ust. 1 pkt 1, oraz inne informacje istotne dla ich stanu zdrowia również za pośrednictwem innych narzędzi niż system, o którym mowa w art. 7 ust. 1. ” ;
+
+- **6)** w art. 7a: w ust. 1: – pkt 3 otrzymuje brzmienie: „ 3) składanie oświadczeń o upoważnieniu osoby do dostępu do dokumentacji medycznej, o którym mowa w art. 26 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2019 r. poz. 1127, 1128 i 1590), lub o wyrażeniu zgody na udostępnienie danych, o której mowa w art. 35 ust. 1a, lub o ich wycofaniu; ” , – w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9–16 w brzmieniu: „ 9) składanie oświadczeń o wyrażeniu zgody na przetwarzanie danych osobowych i jednostkowych danych medycznych usługobiorcy koniecznych w procesie realizacji recepty transgranicznej w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym lub o jej wycofaniu; 10) składanie deklaracji wyboru świadczeniodawcy, udzielającego świadczeń z zakresu podstawowej opieki zdrowotnej, lekarza podstawowej opieki zdrowotnej, pielęgniarki podstawowej opieki zdrowotnej lub położnej podstawowej opieki zdrowotnej, o której mowa w art. 10 ust. 1 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2019 r. poz. 357, 730 i 1590), oraz dostęp do informacji o wybranym świadczeniodawcy udzielającym świadczeń z zakresu podstawowej opieki zdrowotnej, lekarzu podstawowej opieki zdrowotnej, pielęgniarce podstawowej opieki zdrowotnej lub położnej podstawowej opieki zdrowotnej; 11) dostęp do informacji o usługodawcy i udzielanych przez niego świadczeniach opieki zdrowotnej; 12) składanie wniosków o wydanie Europejskiej Karty Ubezpieczenia Zdrowotnego, o której mowa w art. 51 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, zwanej dalej „EKUZ”; 13) dostęp do informacji o wycofanych z obrotu produktach leczniczych lub wyrobach medycznych, jeżeli zostały one usługobiorcy przepisane na podstawie recepty w postaci elektronicznej lub przez niego nabyte; 14) składanie wniosków lub skarg do Rzecznika Praw Pacjenta, ministra właściwego do spraw zdrowia oraz Narodowego Funduszu Zdrowia; 15) dostęp do informacji o profilaktyce i zdrowym trybie życia na podstawie jednostkowych danych medycznych usługobiorcy; 16) udzielanie odpowiedzi na badania ankietowe w zakresie jakości opieki zdrowotnej. ” , w ust. 3 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **2)** ust. 1 pkt 2, 7, 10 i 11. ” , dodaje się ust. 5 w brzmieniu: „
+    - **c)**
+
+5. Organy Państwowej Inspekcji Farmaceutycznej zapewniają jednostce, o której mowa w ust. 3, dostęp do informacji, o których mowa w ust. 1 pkt 13. ” ;
+
+- **7)** w art. 7b: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Dostęp do IKP następuje za pośrednictwem systemu, o którym mowa w art. 7 ust. 1, po uwierzytelnieniu usługobiorcy, jego przedstawiciela ustawowego lub osoby przez niego upoważnionej w sposób określony w art. 20a ust. 1 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+- **b)**
+
+1a. Dostęp do IKP, w pełnym lub ograniczonym zakresie funkcjonalności, może być zapewniany przez ministra właściwego do spraw zdrowia za pośrednictwem publicznej aplikacji mobilnej, o której mowa w art. 19e ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, po potwierdzeniu danych osobowych usługobiorcy przy użyciu certyfikatu, o którym mowa w art. 19e ust. 2a tej ustawy. ” , ust. 2 otrzymuje brzmienie: „
+
+- **c)**
+
+2. W celu umożliwienia dostępu przedstawiciela ustawowego do IKP usługobiorcy będącego osobą małoletnią Narodowy Fundusz Zdrowia jest obowiązany przekazywać jednostce podległej ministrowi właściwemu do spraw zdrowia właściwej w zakresie systemów informacyjnych ochrony zdrowia informacje o członkach rodziny zgłoszonych do ubezpieczenia zdrowotnego, w tym kod stopnia pokrewieństwa albo powinowactwa między osobą zgłaszającą a zgłaszaną, wraz z identyfikatorami tych osób, o których mowa w art. 17c ust. 2. ” , dodaje się ust. 4 i 5 w brzmieniu: „
+
+- **d)**
+
+4. W szczególnie uzasadnionych przypadkach w celu umożliwienia dostępu przedstawiciela ustawowego usługobiorcy do IKP usługobiorcy jednostka podległa ministrowi właściwemu do spraw zdrowia właściwa w zakresie systemów informacyjnych ochrony zdrowia dokonuje potwierdzenia tożsamości przedstawiciela ustawowego usługobiorcy oraz jego prawa do działania w imieniu usługobiorcy.
+
+5. Jednostka podległa ministrowi właściwemu do spraw zdrowia właściwa w zakresie systemów informacyjnych ochrony zdrowia może zablokować dostęp do IKP przedstawiciela ustawowego usługobiorcy:
+
+- **1)** z urzędu, w przypadku powzięcia wątpliwości co do możliwości działania przez tę osobę w imieniu usługobiorcy;
+- **2)** na wniosek, po wykazaniu przez składającego wniosek interesu prawnego lub faktycznego. ” ;
+- **8)** po art. 9a dodaje się art. 9b w brzmieniu: „ Jednostka podległa ministrowi właściwemu do spraw zdrowia właściwa w zakresie systemów informacyjnych ochrony zdrowia udostępnia nieodpłatnie narzędzie informatyczne przeznaczone do określania odpłatności, o których mowa w art. 6 ust. 2 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2019 r. poz. 784, 999 i 1096), na recepcie w postaci elektronicznej. Minister właściwy do spraw zdrowia zamieszcza w Biuletynie Informacji Publicznej tego ministra dane pozwalające na utworzenie w systemie teleinformatycznym usługodawcy tego narzędzia oraz jego aktualizacje. ” ;
+- **9)** w art. 10: w ust. 2: – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) dane osób, o których mowa w art. 31b ust. 1; ” , – w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „ 7) dane dotyczące produktów leczniczych. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+4a. Dane, o których mowa w ust. 2 pkt 3a, są pozyskiwane do SIM z RAM. ” , po ust. 6a dodaje się ust. 6b w brzmieniu: „
+
+- **c)**
+
+6b. Dane, o których mowa w ust. 2 pkt 7, są pozyskiwane do SIM z Centralnego Wykazu Produktów Leczniczych, o którym mowa w art. 17a. ” ;
+
+- **10)** w art. 11: ust. 2–4 otrzymują brzmienie: „
+    - **a)**
+
+2. Dane osobowe i jednostkowe dane medyczne, zawarte w elektronicznej dokumentacji medycznej usługobiorcy, zgromadzone w systemie teleinformatycznym usługodawcy, są udostępniane za pośrednictwem SIM.
+
+3. Usługodawca przekazuje do SIM dane zdarzenia medycznego przetwarzanego w systemie informacji w celu umożliwienia innemu usługodawcy pobrania danych osobowych lub jednostkowych danych medycznych zawartych w elektronicznej dokumentacji medycznej lub dokumentacji medycznej, o której mowa w ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, niezbędnych do prowadzenia diagnostyki lub zapewnienia ciągłości leczenia. Dane te są udostępniane Narodowemu Funduszowi Zdrowia w celu rozliczania świadczeń opieki zdrowotnej.
+
+4. Dane zdarzenia medycznego przetwarzane w systemie informacji obejmują:
+
+- **1)** dane usługodawcy;
+- **2)** dane usługobiorcy;
+- **3)** dane identyfikujące świadczenie zdrowotne;
+- **4)** dane miejsca udzielenia świadczenia zdrowotnego;
+- **5)** dane pracownika medycznego udzielającego świadczenia zdrowotnego;
+- **6)** dane dotyczące dokumentacji medycznej wytworzonej w związku z udzielonym świadczeniem zdrowotnym;
+- **7)** inne dane pozwalające na identyfikację zdarzenia medycznego. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
+    - **b)**
+
+4a. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczegółowy zakres danych zdarzenia medycznego przetwarzanego w systemie informacji, o których mowa w ust. 4, oraz sposób i terminy przekazywania tych danych do SIM, mając na uwadze zakres świadczeń udzielanych przez usługodawców. ” , ust. 5 otrzymuje brzmienie: „
+
+- **c)**
+
+5. Usługodawca zamieszcza w SIM w czasie rzeczywistym:
+
+- **1)** recepty, o których mowa w art. 2 pkt 6 lit. a, oraz skierowania określone w przepisach wydanych na podstawie art. 59aa ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **2)** dane dotyczące realizacji recepty, o której mowa w art. 2 pkt 6 lit. a, lub zmiany statusu skierowania określonego w przepisach wydanych na podstawie art. 59aa ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych. ” , dodaje się ust. 9 w brzmieniu: „
+    - **d)**
+
+9. Jednostka podległa ministrowi właściwemu do spraw zdrowia właściwa w zakresie systemów informacyjnych ochrony zdrowia udostępnia dane o receptach, w tym o realizacji recept transgranicznych, skierowaniach określonych w przepisach wydanych na podstawie art. 59aa ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz o informacjach, o których mowa w art. 60a ust. 2 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa:
+
+- **1)** Narodowemu Funduszowi Zdrowia w celu rozliczania udzielonych świadczeń opieki zdrowotnej oraz dokonywania analiz na rzecz systemu ochrony zdrowia;
+- **2)** Agencji Oceny Technologii Medycznych i Taryfikacji w celu realizacji zadań określonych w art. 31n pkt 1–3b, 4a i 4b ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych. ” ;
+- **11)** w art. 12: w ust. 1: – pkt 3a i 3b otrzymują brzmienie: „ 3a) umożliwienia usługobiorcom lub ich przedstawicielom ustawowym uzyskiwania informacji o: a) prawie do świadczeń opieki zdrowotnej, b) kwocie środków publicznych wydatkowanych na sfinansowanie świadczeń opieki zdrowotnej, c) wysokości płaconej przez nich składki na ubezpieczenie zdrowotne, d) wystawionych zaświadczeniach lekarskich, o których mowa w art. 55 ust. 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, e) wybranym świadczeniodawcy udzielającym świadczeń z zakresu podstawowej opieki zdrowotnej, lekarzu podstawowej opieki zdrowotnej, pielęgniarce podstawowej opieki zdrowotnej lub położnej podstawowej opieki zdrowotnej, f) liczbie oczekujących na udzielenie świadczenia opieki zdrowotnej, średnim czasie oczekiwania na udzielenie świadczenia opieki zdrowotnej oraz pierwszym wolnym terminie udzielenia świadczenia opieki zdrowotnej, g) usługodawcy i udzielanych przez niego świadczeniach opieki zdrowotnej, h) wycofanych z obrotu produktach leczniczych lub wyrobach medycznych, i) profilaktyce i zdrowym trybie życia; 3b) umożliwienia usługobiorcom lub ich przedstawicielom ustawowym składania: a) oświadczeń, o których mowa w art. 7a ust. 1 pkt 3–5 i 9, b) deklaracji wyboru, o których mowa w art. 10 ust. 1 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej, c) wniosków o wydanie EKUZ, d) wniosków i skarg, o których mowa w art. 7a ust. 1 pkt 14; ” , – po pkt 3b dodaje się pkt 3c-3e w brzmieniu: „ 3c) umożliwienia lekarzom, lekarzom dentystom, pielęgniarkom, położnym, felczerom, starszym felczerom, fizjoterapeutom, farmaceutom, technikom farmaceutycznym oraz osobom wykonującym czynności pomocnicze przy udzielaniu świadczeń opieki zdrowotnej pozyskiwania informacji, o których mowa w art. 4 ust. 3 pkt 1 lit. n oraz o; 3d) umożliwienia usługobiorcom uczestnictwa w badaniach ankietowych w zakresie jakości opieki zdrowotnej; 3e) umożliwienia usługobiorcom realizacji recept transgranicznych; ” , ust. 3 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+3. Usługobiorca, jego przedstawiciel ustawowy lub osoba przez niego upoważniona ma dostęp do danych osobowych i jednostkowych danych medycznych, w zakresie niezbędnym do realizacji uprawnień określonych w ust. 1 pkt 3–3b, 3d i 3e. ” ;
+
+- **12)** w art. 15: w ust. 2 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** dane, o których mowa w art. 4 ust. 3 pkt 1 lit. a-d, g-o, r oraz u-x. ” , ust. 3 otrzymuje brzmienie: „
+    - **b)**
+
+3. Dane do Centralnego Wykazu Usługobiorców, w zakresie określonym w art. 4 ust. 3 pkt 1 lit. m-o oraz u-v, są obowiązani przekazywać płatnicy, o których mowa w art. 2 pkt 9 lit. a. ” , po ust. 4 dodaje się ust. 4a-4c w brzmieniu: „
+
+- **c)**
+
+4a. Dane do Centralnego Wykazu Usługobiorców, w zakresie określonym w art. 4 ust. 3 pkt 1 lit. x, jest obowiązane przekazywać Centrum Organizacyjno-Koordynacyjne do Spraw Transplantacji „Poltransplant”.
+
+4b. Dane do Centralnego Wykazu Usługobiorców, w zakresie określonym w art. 4 ust. 3 pkt 1 lit. I oraz w, mogą przekazywać również usługodawcy.
+
+4c. Dane do Centralnego Wykazu Usługobiorców, w zakresie określonym w art. 4 ust. 3 pkt 1 lit. n oraz o, są obowiązani przekazywać:
+
+- **1)** Zakład Ubezpieczeń Społecznych;
+- **2)** Minister Obrony Narodowej;
+- **3)** minister właściwy do spraw wewnętrznych;
+- **4)** Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych;
+- **5)** Szef Agencji Bezpieczeństwa Wewnętrznego;
+- **6)** Szef Agencji Wywiadu;
+- **7)** Szef Centralnego Biura Antykorupcyjnego;
+- **8)** podmioty, o których mowa w art. 7 ust. 2 ustawy z dnia 19 czerwca 1997 r. o zakazie stosowania wyrobów zawierających azbest (Dz. U. z 2017 r. poz. 2119);
+- **9)** Centrum Organizacyjno-Koordynacyjne do Spraw Transplantacji „Poltransplant”;
+- **10)** Polski Czerwony Krzyż;
+- **11)** administratorzy danych zawartych w Elektronicznym Krajowym Systemie Monitoringu Orzekania o Niepełnosprawności, o którym mowa w art. 6d ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2019 r. poz. 1172 i 1495). ” , w ust. 5 pkt 1 i 2 otrzymują brzmienie: „
+    - **d)**
+
+- **1)** przekazuje do Centralnego Wykazu Usługobiorców dane, w zakresie określonym w art. 4 ust. 3 pkt 1 lit. a-d, g, h, ja oraz r;
+- **2)** zapewnia stały dostęp do danych, w zakresie określonym w art. 4 ust. 3 pkt 1 lit. a-d, g, h, ja oraz r. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
+    - **e)**
+
+5a. Podmioty, o których mowa w ust. 3 i 4c, są obowiązane przekazywać dane, o których mowa w art. 4 ust. 3 pkt 1 lit. n oraz o, niezwłocznie, nie później jednak niż w terminie 3 dni od dnia uprawomocnienia się orzeczenia o niepełnosprawności albo orzeczenia o stopniu niepełnosprawności lub powstania uprawnienia albo jego zmiany lub utraty, jeżeli takie dane posiadają. ” , dodaje się ust. 7 w brzmieniu: „
+
+- **f)**
+
+7. Administrator danych udostępnia dane zawarte w Centralnym Wykazie Usługobiorców usługodawcom, w zakresie określonym w art. 4 ust. 3 pkt 1 lit. a, j-k, n oraz o, w celu umożliwienia automatycznego działania systemów teleinformatycznych usługodawców. ” ;
+
+- **13)** w art. 16 w ust. 2 po pkt 6 dodaje się pkt 6a i 6b w brzmieniu: „
+- **6a)** adresu strony internetowej;
+- **6b)** adresu poczty elektronicznej; ” ;
+- **14)** w art. 17: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Tworzy się rejestr medyczny zwany Centralnym Wykazem Pracowników Medycznych, zawierający dane dotyczące lekarzy, lekarzy dentystów, felczerów, starszych felczerów, pielęgniarek, położnych, diagnostów laboratoryjnych, fizjoterapeutów oraz farmaceutów. ” , w ust. 2: – pkt 7 otrzymuje brzmienie: „ 7) daty zgonu albo daty znalezienia zwłok, jeżeli dotyczą; ” , – uchyla się pkt 8, uchyla się ust. 2a i 2b, po ust. 2b dodaje się ust. 2c w brzmieniu: „
+
+- **b)**
+- **c)**
+- **d)**
+
+2c. Podmioty prowadzące rejestry dotyczące lekarzy, lekarzy dentystów, felczerów, starszych felczerów, pielęgniarek, położnych, diagnostów laboratoryjnych, fizjoterapeutów oraz farmaceutów są obowiązane do przekazywania do Centralnego Wykazu Pracowników Medycznych danych swoich członków, o których mowa w ust. 2 pkt 1, 2, 4 i 9, w terminie 1 dnia roboczego od dnia powzięcia uchwały w sprawie wpisania pracownika medycznego na listę członków odpowiedniej izby, w celu ich identyfikacji i uwierzytelnienia w systemie informacji, a także w celu weryfikacji ich uprawnień zawodowych. ” , uchyla się ust. 3, po ust. 4a dodaje się ust. 4b w brzmieniu: „
+
+- **e)**
+- **f)**
+
+4b. Administrator danych udostępnia dane, o których mowa w ust. 2 pkt 1, 2, 4, 7 i 9, Zakładowi Ubezpieczeń Społecznych w celu identyfikacji i uwierzytelnienia pracowników medycznych i osób, o których mowa w art. 31b ust. 1, otrzymujących certyfikat, o którym mowa w art. 68b ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2019 r. poz. 300, 303, 730, 1495, 1553 i 1590). ” , ust. 5 otrzymuje brzmienie: „
+
+- **g)**
+
+5. Data zgonu albo data znalezienia zwłok pracownika medycznego, o którym mowa w ust. 1, jest przekazywana do Centralnego Wykazu Pracowników Medycznych za pośrednictwem Centralnego Wykazu Usługobiorców. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
+
+- **h)**
+
+5a. Dane dotyczące specjalizacji są przekazywane do Centralnego Wykazu Pracowników Medycznych za pośrednictwem Systemu Monitorowania Kształcenia Pracowników Medycznych. ” , ust. 6 otrzymuje brzmienie: „
+
+- **i)**
+
+6. Minister właściwy do spraw zdrowia przekazuje datę zgonu albo datę znalezienia zwłok pracownika medycznego, o którym mowa w ust. 1, do podmiotów prowadzących rejestry medyczne pracowników medycznych. ” ;
+
+- **15)** w art. 19: w ust. 11 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Podmiot prowadzący rejestr medyczny określony w przepisach wydanych na podstawie art. 20 ust. 1 nieodpłatnie udostępnia Narodowemu Funduszowi Zdrowia, jednostce podległej ministrowi właściwemu do spraw zdrowia właściwej w zakresie systemów informacyjnych ochrony zdrowia oraz Agencji Oceny Technologii Medycznych i Taryfikacji dane gromadzone w rejestrze, obejmujące: ” , po ust. 12 dodaje się ust. 12a i 12b w brzmieniu: „
+    - **a)**
+    - **b)**
+
+12a. Dane, o których mowa w ust. 11, są przetwarzane przez Agencję Oceny Technologii Medycznych i Taryfikacji w celu realizacji zadań określonych w art. 31n pkt 1–3b, 4a i 4b ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+
+12b. Dane, o których mowa w ust. 11, są przetwarzane przez jednostkę podległą ministrowi właściwemu do spraw zdrowia właściwą w zakresie systemów informacyjnych ochrony zdrowia w celu dokonywania analiz na rzecz systemu ochrony zdrowia. ” , ust. 13 otrzymuje brzmienie: „
+
+- **c)**
+
+13. Dane, o których mowa w ust. 11, są udostępniane na wniosek w postaci elektronicznej Narodowego Funduszu Zdrowia, jednostki podległej ministrowi właściwemu do spraw zdrowia właściwej w zakresie systemów informacyjnych ochrony zdrowia lub Agencji Oceny Technologii Medycznych i Taryfikacji, zawierający zakres danych podlegających udostępnieniu. ” , po ust. 13 dodaje się ust. 13a w brzmieniu: „
+
+- **d)**
+
+13a. Podmiot prowadzący rejestr medyczny określony w przepisach wydanych na podstawie art. 20 ust. 1 nieodpłatnie udostępnia na wniosek w postaci elektronicznej Narodowemu Instytutowi Zdrowia Publicznego – Państwowemu Zakładowi Higieny jednostkowe dane medyczne gromadzone w prowadzonym przez niego rejestrze w celu oceny monitorowania zapotrzebowania na świadczenia opieki zdrowotnej oraz stanu zdrowia usługobiorców. ” ;
+
+- **16)** po art. 31a dodaje się art. 31b w brzmieniu: „
+
+**Art. 31b.**
+
+1. RAM jest systemem teleinformatycznym, w którym są przetwarzane dane o pracownikach medycznych i osobach wykonujących zawód medyczny, o których mowa w art. 2 ust. 1 pkt 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, lub czynności pomocnicze przy udzielaniu świadczeń zdrowotnych, o których mowa w art. 24 ust. 2 pkt 2 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, upoważnionych do wykonywania czynności określonych w art. 41a ust. 1 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty lub art. 54a ust. 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, zwanych dalej „osobami upoważnionymi”, umożliwiający pracownikowi medycznemu udzielenie tego upoważnienia.
+
+2. Administratorem danych gromadzonych w RAM jest minister właściwy do spraw zdrowia. Przepis art. 9a stosuje się odpowiednio.
+
+3. W celu udzielenia upoważnienia osoba uprawniona do złożenia wniosku o wpis do rejestru podmiotów wykonujących działalność leczniczą, o którym mowa w art. 100 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, w imieniu podmiotu wykonującego działalność leczniczą, w rozumieniu art. 2 ust. 1 pkt 5 tej ustawy, za pośrednictwem rejestru podmiotów wykonujących działalność leczniczą, otrzymuje uprawnienia w RAM i zakłada konta:
+
+- **1)** podmiotu wykonującego działalność leczniczą;
+- **2)** pracownika medycznego;
+- **3)** osoby upoważnionej.
+
+4. W przypadku istnienia konta w RAM drugiego konta nie zakłada się.
+
+5. Udzielenie upoważnienia następuje przez jego wytworzenie w RAM przez:
+
+- **1)** pracownika medycznego albo
+- **2)** osobę upoważnioną, albo
+- **3)** podmiot wykonujący działalność leczniczą za pomocą konta, o którym mowa w ust. 3, oraz jego podpisanie przez pracownika medycznego kwalifikowanym podpisem elektronicznym, podpisem osobistym, podpisem zaufanym albo z wykorzystaniem sposobu potwierdzenia pochodzenia oraz integralności danych w postaci elektronicznej dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych.
+
+6. Okręgowa izba lekarska może również otrzymać uprawnienia w RAM i założyć konto okręgowej izby lekarskiej lub konta, o których mowa w ust. 3 pkt 2 i 3. Przepis ust. 5 stosuje się odpowiednio.
+
+7. RAM zawiera następujące dane:
+
+- **1)** dotyczące pracownika medycznego: imię i nazwisko, numer prawa wykonywania zawodu, numer PESEL;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** dotyczące osoby upoważnionej: imię i nazwisko, numer PESEL, określenie zawodu medycznego, jaki wykonuje, i numer prawa wykonywania tego zawodu medycznego, jeżeli posiada, lub wskazanie, że jest osobą wykonującą czynności pomocnicze przy udzielaniu świadczeń zdrowotnych, o których mowa w art. 24 ust. 2 pkt 2 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **3)** datę, od której wystawione upoważnienie obowiązuje;
+- **4)** okres, na jaki udzielono upoważnienie;
+- **5)** datę cofnięcia albo wygaśnięcia upoważnienia;
+- **6)** określenie przyczyny cofnięcia albo wygaśnięcia upoważnienia;
+- **7)** unikalny identyfikator upoważnienia nadany przez RAM.
+
+8. Minister właściwy do spraw zdrowia udostępnia odpowiednio usługodawcom w odniesieniu do recept i skierowań lub Zakładowi Ubezpieczeń Społecznych w odniesieniu do zaświadczeń lekarskich raz dziennie, za pośrednictwem systemu teleinformatycznego, informacje, o których mowa w ust. 7 pkt 1 lit. b, pkt 2 lit. b oraz pkt 3–5, a także datę ostatniej aktualizacji wpisu w RAM i przyczynę tej aktualizacji, w formie dokumentu elektronicznego, zapisanego w formacie XML oraz opatrzonego pieczęcią elektroniczną.
+
+9. Zakład Ubezpieczeń Społecznych, na podstawie udostępnionej informacji, o której mowa w ust. 7 pkt 1 lit. b i pkt 2 lit. b, dokonuje weryfikacji, czy możliwe jest udostępnienie osobie upoważnionej możliwości wystawiania zaświadczeń lekarskich w formie dokumentu elektronicznego za pośrednictwem systemu teleinformatycznego udostępnionego bezpłatnie przez Zakład Ubezpieczeń Społecznych, i przekazuje wynik tej weryfikacji ministrowi właściwemu do spraw zdrowia przez wprowadzenie tego wyniku do RAM, za pośrednictwem systemu teleinformatycznego obsługującego ten rejestr, w formie dokumentu elektronicznego, zapisanego w formacie XML oraz opatrzonego pieczęcią elektroniczną.
+
+10. Upoważnienie do wystawiania zaświadczeń lekarskich obowiązuje od dnia otrzymania z Zakładu Ubezpieczeń Społecznych informacji o pozytywnym wyniku weryfikacji, o której mowa w ust. 9, albo od wprowadzonej przez wystawiającego zaświadczenie lekarskie daty obowiązywania upoważnienia do wystawiania zaświadczeń lekarskich – w zależności, która z okoliczności nastąpi później.
+
+11. Upoważnienie do wystawiania recept i skierowań obowiązuje od dnia następującego po dniu jego udzielenia albo od wprowadzonej przez wystawiającego daty obowiązywania upoważnienia – w zależności, która z okoliczności nastąpi później.
+
+12. Upoważnienia, o których mowa w ust. 1, są przechowywane w RAM.
+
+13. Informacje określone w ust. 8 minister właściwy do spraw zdrowia udostępnia także Narodowemu Funduszowi Zdrowia.
+
+14. Pracownik medyczny oraz osoba upoważniona używa kwalifikowanego podpisu elektronicznego, podpisu zaufanego, podpisu osobistego albo wykorzystuje sposób potwierdzania pochodzenia oraz integralności danych dostępny w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych do podpisywania:
+
+- **1)** elektronicznej dokumentacji medycznej;
+- **2)** wniosku o dostęp do danych umożliwiających pobranie z SIM elektronicznej dokumentacji medycznej lub danych z tych dokumentów;
+- **3)** wniosku o dostęp do danych przetwarzanych w SIM umożliwiających wymianę między usługodawcami danych zawartych w elektronicznej dokumentacji medycznej.
+
+15. Do wykorzystania sposobu potwierdzenia pochodzenia oraz integralności danych w postaci elektronicznej dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych nie jest konieczne uzyskanie upoważnienia wydanego przez Zakład Ubezpieczeń Społecznych do wystawiania zaświadczeń lekarskich, w tym również przez osoby wykonujące inne zawody medyczne niż wskazane w art. 54 ust. 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa. ” ;
+
+- **17)** w art. 35 ust. 1 i 1a otrzymują brzmienie: „
+
+1. Dostęp do danych osobowych lub jednostkowych danych medycznych usługobiorców, przetwarzanych w systemie teleinformatycznym usługodawcy lub w SIM, mają:
+
+- **1)** pracownik medyczny, który wytworzył elektroniczną dokumentację medyczną zawierającą dane osobowe lub jednostkowe dane medyczne usługobiorcy;
+- **2)** pracownik medyczny wykonujący zawód u usługodawcy, u którego została wytworzona elektroniczna dokumentacja medyczna zawierająca dane osobowe lub jednostkowe dane medyczne usługobiorcy, w związku z wykonywaniem przez niego zawodu u tego usługodawcy, jeżeli jest to niezbędne do prowadzenia diagnostyki lub zapewnienia ciągłości leczenia;
+- **3)** lekarz, pielęgniarka lub położna udzielający usługobiorcy świadczeń opieki zdrowotnej w ramach umowy o udzielanie świadczeń opieki zdrowotnej z zakresu podstawowej opieki zdrowotnej;
+- **4)** każdy pracownik medyczny w sytuacji zagrożenia życia usługobiorcy.
+
+1a. W przypadkach innych niż określone w ust. 1 udostępnienie danych osobowych lub jednostkowych danych medycznych z systemu teleinformatycznego usługodawcy lub z SIM następuje za zgodą usługobiorcy lub jego przedstawiciela ustawowego. Wyrażając zgodę, wskazuje się zakres czasowy i przedmiotowy dostępu do tych danych. ” ;
+
+- **18)** w art. 56: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. Recepty mogą być wystawiane w postaci papierowej do dnia 7 stycznia 2020 r. ” , ust. 4 otrzymuje brzmienie: „
+
+- **b)**
+
+4. Dane zawarte w elektronicznej dokumentacji medycznej określonej w przepisach wydanych na podstawie art. 13a, za pośrednictwem SIM, udostępnia się od dnia 8 stycznia 2021 r. ” , po ust. 4a dodaje się ust. 4b w brzmieniu: „
+
+- **c)**
+
+4b. Apteki są obowiązane do podłączenia się do systemu teleinformatycznego KPK w zakresie wymiany recepty transgranicznej w postaci elektronicznej, nie później niż do dnia 1 lipca 2020 r. ” ;
+
+- **19)** po art. 56a dodaje się art. 56b w brzmieniu: „
+
+**Art. 56b.** Udostępnianie danych, o których mowa w art. 15 ust. 7 i art. 17 ust. 4b, nastąpi nie później niż od dnia 1 lipca 2021 r. ” .
 
 **Art. 10.** W ustawie z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2019 r. poz. 784, 999 i 1096) wprowadza się następujące zmiany:
 
-**Art. 11.** W ustawie z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2019 r. poz. 576, 577 i 1490) art. 15a:
+- **1)** w art. 37: ust. 6 otrzymuje brzmienie: „
+    - **a)**
 
-**Art. 12.** W ustawie z dnia 25 czerwca 2015 r. o leczeniu niepłodności (Dz. U. z 2017 r. poz. 865 oraz z 2019 r. poz. 730) art. 63 ust. 2 pkt 5 wyraz „pieczęć” zastępuje się wyrazami „pieczątka lub imię i nazwisko”.
+6. Obwieszczenia, o których mowa w ust. 1 i 4, są ogłaszane raz na 2 miesiące w dzienniku urzędowym ministra właściwego do spraw zdrowia co najmniej na 7 dni przed dniem, na który ustala się wykazy, o których mowa w ust. 1 i 4. ” , ust. 8 otrzymuje brzmienie: „
 
-**Art. 13.** W ustawie z dnia 9 października 2015 r. o zmianie ustawy o systemie informacji ochronie zdrowia oraz niektórych innych ustaw (Dz. U. poz. 1991, z późn. zm. ) art. 16 ust. 1:
+- **b)**
+
+8. Minister właściwy do spraw zdrowia przekazuje do systemu informacji w ochronie zdrowia, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, dane objęte obwieszczeniem, o którym mowa w ust. 1, w terminie nie krótszym niż 10 dni przed dniem, na który ustala się wykaz, o którym mowa w ust. 1. ” ;
+
+- **2)** w art. 44a ust. 1 otrzymuje brzmienie: „
+
+1. W przypadku recepty wystawionej dla świadczeniobiorcy, który ukończył 75. rok życia, przez osoby wskazane w art. 43a ust. 1 i 1a ustawy o świadczeniach, osoba wydająca leki, środki spożywcze specjalnego przeznaczenia żywieniowego oraz wyroby medyczne, oprócz obowiązków wynikających z art. 44, ma obowiązek poinformować świadczeniobiorcę o możliwości nabycia leku innego niż lek przepisany na recepcie, o tej samej nazwie międzynarodowej, dawce, postaci farmaceutycznej, która nie powoduje powstania różnic terapeutycznych, i o tym samym wskazaniu terapeutycznym, objętego wykazem, o którym mowa w art. 37 ust. 1, w części dotyczącej bezpłatnego zaopatrzenia świadczeniobiorców po ukończeniu 75. roku życia oraz ma obowiązek na żądanie świadczeniobiorcy wydać ten lek. ” ;
+
+- **3)** w art. 45: po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **a)**
+
+2a. W komunikatach elektronicznych zamieszcza się także dane wynikające z realizacji recept w przypadku, o którym mowa w art. 96 ust. 1d ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+
+- **b)**
+
+3a. Za błędy albo inne nieprawidłowości wykazane w komunikatach elektronicznych nie uznaje się przypadków zgłoszenia Funduszowi realizacji przez aptekę recepty w postaci elektronicznej na podstawie fałszywego oświadczenia, o którym mowa w art. 96 ust. 1a ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne. ” ;
+
+- **4)** w art. 45a: w pkt 6 w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „ sposób udostępnienia danych niezbędnych do realizacji recepty, o którym mowa w art. 96 ust. 1–1d ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne; ” , w pkt 8 w lit. i: – tiret pierwsze otrzymuje brzmienie: „ – 0 – dla leku, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego wydanego bezpłatnie, w przypadku gdy realizacja recepty nastąpiła na podstawie uprawnienia innego niż uprawnienie, o którym mowa w art. 43a ust. 1 i 1a ustawy o świadczeniach, ” , – tiret trzecie otrzymuje brzmienie: „ – 20 – dla leku, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego wydanego bezpłatnie na podstawie uprawnienia, o którym mowa w art. 43a ust. 1 i 1a ustawy o świadczeniach, świadczeniobiorcy uprawnionemu również na podstawie art. 43 ust. 1 albo art. 45 ust. 1 pkt 1–3 ustawy o świadczeniach, ” , – tiret piąte otrzymuje brzmienie: „ – 21 – dla leku, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego wydawanego za odpłatnością ryczałtową, wydanego bezpłatnie na podstawie uprawnienia, o którym mowa w art. 43a ust. 1 i 1a ustawy o świadczeniach, ” , – tiret siódme otrzymuje brzmienie: „ – 22 – dla leku, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego wydawanego za odpłatnością 30% limitu finansowania, wydanego bezpłatnie na podstawie uprawnienia, o którym mowa w art. 43a ust. 1 i 1a ustawy o świadczeniach, ” , – tiret dziewiąte otrzymuje brzmienie: „ – 23 – dla leku, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego wydawanego za odpłatnością w wysokości 50% limitu finansowania, wydanego bezpłatnie na podstawie uprawnienia, o którym mowa w art. 43a ust. 1 i 1a ustawy o świadczeniach, ” .
+    - **a)**
+    - **e)**
+    - **b)**
+
+**Art. 11.** W ustawie z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2019 r. poz. 576, 577 i 1490) w art. 15a:
+
+- **1)** po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+1a. W przypadku leków określonych w wykazach, o których mowa w art. 37 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2019 r. poz. 784, 999, 1096 i 1590), zwanej dalej „ustawą o refundacji”, objętych refundacją w ramach kategorii dostępności refundacyjnej określonej w art. 6 ust. 1 pkt 1 lit. a tej ustawy, dla których istnieją refundowane odpowiedniki, pielęgniarka i położna, o których mowa w ust. 1 i 2, wystawiając receptę, może przyjąć jako zakres zarejestrowanych wskazań wskazania określone dla wszystkich odpowiedników refundowanych w ramach tej kategorii dostępności refundacyjnej. ” ;
+
+- **2)** ust. 3 otrzymuje brzmienie: „
+
+3. Uprawnienia, o których mowa w ust. 1 i 2, obejmują również wystawianie recept osobom, o których mowa w art. 43–46 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, na zasadach określonych w tej ustawie oraz w ustawie o refundacji, z wyjątkiem uprawnienia do wystawiania recept przez położną świadczeniobiorcom, o których mowa w art. 43a ust. 1 i 1a ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych. ” ;
+
+- **3)** po ust. 4 dodaje się ust. 4a i 4b w brzmieniu: „
+
+4a. Określenie odpłatności na recepcie w postaci elektronicznej może nastąpić przy wykorzystaniu narzędzia informatycznego, o którym mowa w art. 9b ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2019 r. poz. 408, 730 i 1590).
+
+4b. Pielęgniarka lub położna oraz świadczeniodawca nie ponoszą odpowiedzialności za skutki błędnego działania narzędzia informatycznego, o którym mowa w art. 9b ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, polegającego na nieprawidłowym określeniu odpłatności w związku z rozbieżnością danych zawartych w narzędziu a przepisami prawa, w szczególności z wykazami, o których mowa w art. 37 ust. 1 ustawy o refundacji. ” ;
+
+- **4)** w art. 45 w ust. 4 skreśla się wyrazy „(Dz. U. z 2019 r. poz. 408)”.
+
+**Art. 12.** W ustawie z dnia 25 czerwca 2015 r. o leczeniu niepłodności (Dz. U. z 2017 r. poz. 865 oraz z 2019 r. poz. 730) w art. 63 w ust. 2 w pkt 5 wyraz „pieczęć” zastępuje się wyrazami „pieczątka lub imię i nazwisko”.
+
+**Art. 13.** W ustawie z dnia 9 października 2015 r. o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw (Dz. U. poz. 1991, z późn. zm.) w art. 16 w ust. 1:
+
+- **1)** wprowadzenie do wyliczenia otrzymuje brzmienie: „ W latach 2015–2024 maksymalny limit wydatków budżetu państwa będących skutkiem finansowym niniejszej ustawy w części pozostającej w dyspozycji ministra właściwego do spraw zdrowia wynosi 744 303 tys. zł, z tym że w poszczególnych latach wyniesie odpowiednio: ” ;
+- **2)** pkt 5–8 otrzymują brzmienie: „
+- **5)** w 2019 r. – 92 396 tys. zł;
+- **6)** w 2020 r. – 144 434 tys. zł;
+- **7)** w 2021 r. – 126 904 tys. zł;
+- **8)** w 2022 r. – 104 729 tys. zł; ” .
 
 **Art. 14.** W ustawie z dnia 20 maja 2016 r. o zmianie ustawy o publicznej służbie krwi oraz niektórych innych ustaw (Dz. U. poz. 823 oraz z 2017 r. poz. 1524) wprowadza się następujące zmiany:
 
+- **1)** w art. 8 ust. 2 otrzymuje brzmienie: „
+
+2. Jednostki organizacyjne publicznej służby krwi, od dnia 1 czerwca 2021 r., przekazują dane, o których mowa w art. 30 ust. 2 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, oraz dane dotyczące zgłoszeń, o których mowa w art. 30 ust. 4a tej ustawy, w brzmieniu nadanym niniejszą ustawą, do systemu e-krew, o którym mowa w art. 17 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą. ” ;
+
+- **2)** art. 9 otrzymuje brzmienie: „
+
+1. Dane, o których mowa w art. 17 ust. 5 i 7–9 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, będą przekazywane do systemu e-krew, o którym mowa w art. 17 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w pełnym zakresie od dnia 1 czerwca 2021 r., z zastrzeżeniem ust. 2 i 3.
+
+2. Do dnia 31 maja 2021 r.:
+
+- **1)** jednostki organizacyjne publicznej służby krwi, o których mowa w art. 4 ust. 3 pkt 2–4 ustawy zmienianej w art. 1, wykonują zadanie, o którym mowa w art. 27 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, w zakresie danych, o których mowa w ust. 3;
+- **2)** jednostka organizacyjna publicznej służby krwi, o której mowa w art. 4 ust. 3 pkt 1 ustawy zmienianej w art. 1, wykonuje zadanie, o którym mowa w art. 25 pkt 8 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, w zakresie danych, o których mowa w ust. 3; 3) w zakresie zadań, o których mowa w pkt 1 i 2, administratorami danych, w tym gromadzonych w systemie e-krew, są odpowiednie jednostki organizacyjne publicznej służby krwi, o których mowa w art. 4 ust. 3 ustawy zmienianej w art. 1. 3. Przekazywanie danych, o których mowa w art. 17 ust. 5 i 7–9 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, do systemu e-krew, o którym mowa w art. 17 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, może odbywać się od dnia wejścia w życie ustawy do dnia 31 maja 2021 r. w zakresie wynikającym z możliwości technicznych systemu e-krew. Minimalny zakres przekazywanych danych obejmuje następujące dane dawcy krwi: 1) imię i nazwisko; 2) numer PESEL; 3) adres miejsca zamieszkania i adres do korespondencji; 4) grupę krwi; 5) numer karty identyfikacyjnej lub legitymacji dawcy krwi; 6) datę i przyczynę skreślenia z rejestru dawców krwi, jeżeli takie zdarzenie zaistniało. ” .
+
 **Art. 15.** W ustawie z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2019 r. poz. 162) wprowadza się następujące zmiany:
 
-**Art. 16.** W ustawie z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2019 r. poz. 357 i 730) art. 10:
+- **1)** po art. 21c dodaje się art. 21ca w brzmieniu: „ Art. 21ca.
 
-**Art. 17.** W ustawie z dnia 1 marca 2018 r. o zmianie niektórych ustaw związku z wprowadzeniem e-recepty (Dz. U. poz. 697) uchyla się art. 11.
+1. Podmiot odpowiedzialny za system identyfikacji elektronicznej ponosi odpowiedzialność cywilną za szkodę wynikającą z działania lub zaniechania, wyrządzoną w związku z wykorzystaniem środka identyfikacji elektronicznej, w celu uwierzytelnienia użytkowników systemów określonych w art. 21a ust. 1 pkt 2 lit. b, korzystających z usługi online świadczonej przez podmiot, o którym mowa w art. 2 i art. 19c ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, lub podmiot sektora publicznego, o którym mowa w art. 3 pkt 7 rozporządzenia 910/2014, spowodowaną przez awarię, przerwę lub błąd systemu lub przez zaciągnięcie zobowiązania w wyniku nieuprawnionego wykorzystania tego środka identyfikacji elektronicznej do wysokości 2 000 000 euro w odniesieniu do wszystkich zdarzeń w danym roku. 2. Ograniczenia odpowiedzialności do wysokości wskazanej w ust. 1 nie stosuje się w przypadku transgranicznego uwierzytelniania osób, o którym mowa w przepisach wydanych na podstawie art. 12 ust. 8 rozporządzenia 910/2014. ” ;
 
-**Art. 18.** W ustawie z dnia 6 grudnia 2018 r. o zmianie niektórych ustaw związku z e-skierowaniem oraz listami oczekujących na udzielenie świadczenia opieki zdrowotnej (Dz. U. poz. 2429) uchyla się art. 12.
+- **2)** w art. 21d ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, wysokość kwot odpowiedzialności podmiotu odpowiedzialnego za system identyfikacji elektronicznej, o której mowa w art. 21ca ust. 1, w odniesieniu do jednego zdarzenia, w zależności od poziomu bezpieczeństwa środków identyfikacji elektronicznej wydawanych w tym systemie, kierując się potrzebą zapewnienia zaufania do uwierzytelnienia z wykorzystaniem środków identyfikacji elektronicznej.”.
 
-**Art. 19.**
+**Art. 16.** W ustawie z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2019 r. poz. 357 i 730) w art. 10:
 
-1. W latach 2019–2028 maksymalny limit wydatków budżetu państwa będących skutkiem finansowym niniejszej ustawy, związku z realizacją zadania, o którym mowa art. 7 ust. 2a ustawy zmienianej art. 9, brzmieniu nadanym niniejszą ustawą, części pozostającej dyspozycji ministra właściwego do spraw zdrowia, wynosi 329 tys. zł, z tym że poszczególnych latach wyniesie odpowiednio:
+- **1)** ust. 1 otrzymuje brzmienie: „1. Wybór, o którym mowa w art. 9 ust. 1 i 2, świadczeniobiorca potwierdza oświadczeniem woli, zwanym dalej „deklaracją wyboru”: 1) w postaci papierowej; 2) w postaci elektronicznej, złożonym za pośrednictwem środków komunikacji elektronicznej, opatrzonym kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym; 3) złożonym za pośrednictwem Internetowego Konta Pacjenta, o którym mowa w art. 7a ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2019 r. poz. 408, 730 i 1590).”;
+- **2)** w ust. 3: w pkt 1 uchyla się lit. b oraz d, uchyla się pkt 3 i 4, pkt 8 otrzymuje brzmienie: „8) podpis świadczeniobiorcy lub jego przedstawiciela ustawowego w przypadku dokonania wyboru, o którym mowa w ust. 1 pkt 1 albo 2.”, uchyla się pkt 9;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
-- **1)** 2019 r. – 0 zł;
-- **2)** 2020 r. – 0 zł;
-- **3)** 2021 r. – 0 zł;
-- **4)** 2022 r. – 19 tys. zł;
-- **5)** 2023 r. – 39 tys. zł;
-- **6)** 2024 r. – 101 tys. zł;
-- **7)** 2025 r. – 41 tys. zł;
-- **8)** 2026 r. – 42 tys. zł;
-- **9)** 2027 r. – 43 tys. zł;
-- **10)** 2028 r. – 44 tys. zł.
+- **3)** w ust. 4 pkt 2 otrzymuje brzmienie: „
+- **2)** przed przyjęciem deklaracji wyboru, o której mowa w ust. 1 pkt 1 i 2, sprawdzić uprawnienia świadczeniobiorcy do korzystania ze świadczeń opieki zdrowotnej finansowanych ze środków publicznych. ” .
 
-2. Minister właściwy do spraw zdrowia monitoruje wykorzystanie limitów wydatków, o których mowa ust. 1, oraz wdraża mechanizm korygujący, o którym mowa ust. 3.
+**Art. 17.** W ustawie z dnia 1 marca 2018 r. o zmianie niektórych ustaw w związku z wprowadzeniem e-recepty (Dz. U. poz. 697) uchyla się art. 11.
 
-3. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa ust. 1, zostanie zastosowany mechanizm korygujący polegający na ograniczeniu wydatków planowanych na infrastrukturę sieciową, o kwotę przekroczenia.
+**Art. 18.** W ustawie z dnia 6 grudnia 2018 r. o zmianie niektórych ustaw w związku z e-skierowaniem oraz listami oczekujących na udzielenie świadczenia opieki zdrowotnej (Dz. U. poz. 2429) uchyla się art. 12. 1. W latach 2019–2028 maksymalny limit wydatków budżetu państwa będących skutkiem finansowym niniejszej ustawy, w związku z realizacją zadania, o którym mowa w art. 7 ust. 2a ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą, w części pozostającej w dyspozycji ministra właściwego do spraw zdrowia, wynosi 329 tys. zł, z tym że w poszczególnych latach wyniesie odpowiednio:
+
+- **1)** w 2019 r. – 0 zł;
+- **2)** w 2020 r. – 0 zł;
+- **3)** w 2021 r. – 0 zł;
+- **4)** w 2022 r. – 19 tys. zł;
+- **5)** w 2023 r. – 39 tys. zł;
+- **6)** w 2024 r. – 101 tys. zł;
+- **7)** w 2025 r. – 41 tys. zł;
+- **8)** w 2026 r. – 42 tys. zł;
+- **9)** w 2027 r. – 43 tys. zł;
+- **10)** w 2028 r. – 44 tys. zł.
+
+2. Minister właściwy do spraw zdrowia monitoruje wykorzystanie limitów wydatków, o których mowa w ust. 1, oraz wdraża mechanizm korygujący, o którym mowa w ust. 3.
+
+3. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa w ust. 1, zostanie zastosowany mechanizm korygujący polegający na ograniczeniu wydatków planowanych na infrastrukturę sieciową, o kwotę przekroczenia.
 
 **Art. 20.**
 
-1. Rejestr Asystentów Medycznych, o którym mowa art. 54a ust. 8 ustawy zmienianej art. 3, staje się Rejestrem Asystentów Medycznych, o którym mowa art. 31b ust. 1 ustawy zmienianej art. 9, brzmieniu nadanym niniejszą ustawą.
+1. Rejestr Asystentów Medycznych, o którym mowa w art. 54a ust. 8 ustawy zmienianej w art. 3, staje się Rejestrem Asystentów Medycznych, o którym mowa w art. 31b ust. 1 ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą.
 
-2. Funkcjonalność Rejestru Asystentów Medycznych, o której mowa art. 41a ust. 5 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, uruchamia się nie później niż do dnia 30 września 2019 r.
-
-**Art. 21.** Do dnia 31 grudnia 2020 r. na potrzeby przygotowania, testowania, wdrożenia, uruchomienia i obsługi wymiany recepty transgranicznej postaci elektronicznej, o których mowa art. 7 ust. 2b pkt 1 ustawy zmienianej art. 9, brzmieniu nadanym niniejszą ustawą, stosuje się przepisy ustaw zmienianych art. 4, art. 5 i art. 9, brzmieniu nadanym niniejszą ustawą.
+2. Funkcjonalność Rejestru Asystentów Medycznych, o której mowa w art. 41a ust. 5 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, uruchamia się nie później niż do dnia 30 września 2019 r. Do dnia 31 grudnia 2020 r. na potrzeby przygotowania, testowania, wdrożenia, uruchomienia i obsługi wymiany recepty transgranicznej w postaci elektronicznej, o których mowa w art. 7 ust. 2b pkt 1 ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą, stosuje się przepisy ustaw zmienianych w art. 4, art. 5 i art. 9, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 22.** Wnioski o zwrot kosztów:
 
+- **1)** udzielanych świadczeń opieki zdrowotnej, o których mowa w art. 42b ust. 1,
+- **2)** zakupionych leków, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, o których mowa w art. 42b ust. 10,
+- **3)** zakupionych lub naprawionych wyrobów medycznych, o których mowa w art. 42b ust. 11 ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, po dniu 30 lipca 2015 r., na terytorium innego niż państwo członkowskie Unii Europejskiej państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym składa się w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
 **Art. 23.**
 
-1. Do dnia 8 stycznia 2021 r. informacja o wystawionym skierowaniu, o której mowa art. 59b ust. 1 ustawy zmienianej art. 5, postaci wydruku, jest równoważna skierowaniu postaci papierowej, pod warunkiem opatrzenia jej podpisem osoby wystawiającej skierowanie.
+1. Do dnia 8 stycznia 2021 r. informacja o wystawionym skierowaniu, o której mowa w art. 59b ust. 1 ustawy zmienianej w art. 5, w postaci wydruku, jest równoważna skierowaniu w postaci papierowej, pod warunkiem opatrzenia jej podpisem osoby wystawiającej skierowanie.
 
-2. Do dnia 8 stycznia 2021 r. informacja, o której mowa ust. 1, zawiera także kod identyfikacyjny, o którym mowa przepisach wydanych na podstawie art. 105 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2018 r. poz. 2190 i 2219 oraz z 2019 r. poz. 492, 730 i 959), stanowiący część VIII systemu resortowych kodów identyfikacyjnych, a przypadku gdy osobą wystawiającą skierowanie jest lekarz ubezpieczenia zdrowotnego także numer umowy o udzielanie świadczeń opieki zdrowotnej zawartej z Narodowym Funduszem Zdrowia.
+2. Do dnia 8 stycznia 2021 r. informacja, o której mowa w ust. 1, zawiera także kod identyfikacyjny, o którym mowa w przepisach wydanych na podstawie art. 105 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2018 r. poz. 2190 i 2219 oraz z 2019 r. poz. 492, 730 i 959), stanowiący część VIII systemu resortowych kodów identyfikacyjnych, a w przypadku gdy osobą wystawiającą skierowanie jest lekarz ubezpieczenia zdrowotnego także numer umowy o udzielanie świadczeń opieki zdrowotnej zawartej z Narodowym Funduszem Zdrowia.
 
-3. Podmioty wykonujące działalność leczniczą udzielające świadczeń opieki zdrowotnej finansowanych ze środków publicznych, które nie zostały podłączone do systemu, o którym mowa art. 7 ust. 1 ustawy zmienianej art. 9, są obowiązane do przekazywania do Narodowego Funduszu Zdrowia co miesiąc, do 10. dnia miesiąca następującego po miesiącu, którym dokonały wpisu pacjenta na listę oczekujących na udzielenie świadczenia opieki zdrowotnej lub udzieliły tych świadczeń, na podstawie informacji, o której mowa ust. 1, zbiorczych zestawień tych informacji obejmujących dane, o których mowa art. 59b ust. 1 pkt 3 i 5 ustawy zmienianej art. 5.
+3. Podmioty wykonujące działalność leczniczą udzielające świadczeń opieki zdrowotnej finansowanych ze środków publicznych, które nie zostały podłączone do systemu, o którym mowa w art. 7 ust. 1 ustawy zmienianej w art. 9, są obowiązane do przekazywania do Narodowego Funduszu Zdrowia co miesiąc, do 10. dnia miesiąca następującego po miesiącu, w którym dokonały wpisu pacjenta na listę oczekujących na udzielenie świadczenia opieki zdrowotnej lub udzieliły tych świadczeń, na podstawie informacji, o której mowa w ust. 1, zbiorczych zestawień tych informacji obejmujących dane, o których mowa w art. 59b ust. 1 pkt 3 i 5 ustawy zmienianej w art. 5.
 
-4. Po dniu 8 stycznia 2021 r. Narodowy Fundusz Zdrowia jest obowiązany do zmiany statusu skierowań postaci elektronicznej zrealizowanych przez podmioty, o których mowa ust. 3, na podstawie informacji, o której mowa ust. 1.
+4. Po dniu 8 stycznia 2021 r. Narodowy Fundusz Zdrowia jest obowiązany do zmiany statusu skierowań w postaci elektronicznej zrealizowanych przez podmioty, o których mowa w ust. 3, na podstawie informacji, o której mowa w ust. 1.
 
-5. Podmioty wykonujące działalność leczniczą udzielające świadczeń opieki zdrowotnej finansowanych ze środków innych niż środki publiczne, które nie zostały podłączone do systemu, o którym mowa art. 7 ust. 1 ustawy zmienianej art. 9, są obowiązane do zmiany statusu skierowań postaci elektronicznej zrealizowanych na podstawie informacji, o której mowa ust. 1, terminie 3 miesięcy od dnia podłączenia do tego systemu.
+5. Podmioty wykonujące działalność leczniczą udzielające świadczeń opieki zdrowotnej finansowanych ze środków innych niż środki publiczne, które nie zostały podłączone do systemu, o którym mowa w art. 7 ust. 1 ustawy zmienianej w art. 9, są obowiązane do zmiany statusu skierowań w postaci elektronicznej zrealizowanych na podstawie informacji, o której mowa w ust. 1, w terminie 3 miesięcy od dnia podłączenia do tego systemu.
 
-**Art. 24.** Skierowania, o których mowa przepisach wydanych na podstawie art. 59aa ust. 2 ustawy zmienianej art. 5, mogą być wystawiane postaci papierowej do dnia 7 stycznia 2021 r.
+**Art. 24.** Skierowania, o których mowa w przepisach wydanych na podstawie art. 59aa ust. 2 ustawy zmienianej w art. 5, mogą być wystawiane w postaci papierowej do dnia 7 stycznia 2021 r.
 
-**Art. 25.** Minister właściwy do spraw zdrowia podaje do publicznej wiadomości, nie później niż do dnia 31 grudnia 2021 r., ogłaszając na stronie podmiotowej Biuletynu Informacji Publicznej obsługującego go urzędu oraz dzienniku urzędowym ministra właściwego do spraw zdrowia, informację o uruchomieniu funkcjonalności systemu, o którym mowa art. 7 ust. 1 ustawy zmienianej art. 9, umożliwiającej dokonywanie weryfikacji ilości oraz rodzaju przepisanych świadczeniobiorcy leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, o której mowa art. 43a ust. 1b ustawy zmienianej art. 5, brzmieniu nadanym niniejszą ustawą.
+**Art. 25.** Minister właściwy do spraw zdrowia podaje do publicznej wiadomości, nie później niż do dnia 31 grudnia 2021 r., ogłaszając na stronie podmiotowej Biuletynu Informacji Publicznej obsługującego go urzędu oraz w dzienniku urzędowym ministra właściwego do spraw zdrowia, informację o uruchomieniu funkcjonalności systemu, o którym mowa w art. 7 ust. 1 ustawy zmienianej w art. 9, umożliwiającej dokonywanie weryfikacji ilości oraz rodzaju przepisanych świadczeniobiorcy leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, o której mowa w art. 43a ust. 1b ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 26.**
 
-1. Zakład Ubezpieczeń Społecznych przekaże do centrali Narodowego Funduszu Zdrowia nieodpłatnie dane, o których mowa art. 87a ust. 1 ustawy zmienianej art. 5, brzmieniu nadanym niniejszą ustawą, oraz dane osób, którym wystawiono zaświadczenia lekarskie, o których mowa art. 55 ust. 1 ustawy zmienianej art. 3, za lata 2017–2018, terminie 4 miesięcy od dnia wejścia życie niniejszej ustawy.
+1. Zakład Ubezpieczeń Społecznych przekaże do centrali Narodowego Funduszu Zdrowia nieodpłatnie dane, o których mowa w art. 87a ust. 1 ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, oraz dane osób, którym wystawiono zaświadczenia lekarskie, o których mowa w art. 55 ust. 1 ustawy zmienianej w art. 3, za lata 2017–2018, w terminie 4 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-2. Dane osób, którym wystawiono zaświadczenia lekarskie, o których mowa art. 55 ust. 1 ustawy zmienianej art. 3, obejmują:
+2. Dane osób, którym wystawiono zaświadczenia lekarskie, o których mowa w art. 55 ust. 1 ustawy zmienianej w art. 3, obejmują:
 
-- **1)** numer PESEL, a razie gdy nie nadano numeru PESEL – rodzaj, serię i numer dokumentu tożsamości;
-- **2)** okres orzeczonej czasowej niezdolności do pracy, tym okres pobytu szpitalu;
+- **1)** numer PESEL, a w razie gdy nie nadano numeru PESEL – rodzaj, serię i numer dokumentu tożsamości;
+- **2)** okres orzeczonej czasowej niezdolności do pracy, w tym okres pobytu w szpitalu;
 - **3)** numer statystyczny choroby ustalony według Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów Zdrowotnych ICD-10;
 - **4)** numer prawa wykonywania zawodu wystawiającego zaświadczenie lekarskie.
 
 **Art. 27.**
 
-1. Konta systemie teleinformatycznym udostępnionym przez Narodowy Fundusz Zdrowia, o którym mowa przepisach wydanych na podstawie art. 192 ust. 2 ustawy zmienianej art. 5, zachowują ważność do dnia 30 czerwca 2020 r. wykorzystywane również po terminie, o którym mowa ust. 1.
+1. Konta w systemie teleinformatycznym udostępnionym przez Narodowy Fundusz Zdrowia, o którym mowa w przepisach wydanych na podstawie art. 192 ust. 2 ustawy zmienianej w art. 5, zachowują ważność do dnia 30 czerwca 2020 r.
 
-**Art. 28.** Do profili zaufanych istniejących przed dniem wejścia życie niniejszej ustawy stosuje się art. 20ad ust. 3 i 4a ustawy zmienianej art. 6, brzmieniu nadanym niniejszą ustawą.
+2. W celu dostępu do Internetowego Konta Pacjenta, dane dostępowe do kont, o których mowa w ust. 1, mogą być wykorzystywane również po terminie, o którym mowa w ust. 1.
+
+**Art. 28.** Do profili zaufanych istniejących przed dniem wejścia w życie niniejszej ustawy stosuje się art. 20ad ust. 3 i 4a ustawy zmienianej w art. 6, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 29.**
 
-1. W latach 2020–2022 minister właściwy do spraw zdrowia może dofinansować formie dotacji celowej przekazywanej do Narodowego Funduszu Zdrowia, kwocie do 150 000 tys. zł na pełnienie przez świadczeniodawców udzielających świadczeń z zakresu podstawowej opieki zdrowotnej funkcji punktu potwierdzającego profil zaufany, a także prowadzenie przez tych świadczeniodawców kampanii informacyjnej mającej na celu zakładanie profili zaufanych inny dostępny sposób oraz aktywowanie Internetowego Konta Pacjenta.
+1. W latach 2020–2022 minister właściwy do spraw zdrowia może dofinansować w formie dotacji celowej przekazywanej do Narodowego Funduszu Zdrowia, w kwocie do 150 000 tys. zł na pełnienie przez świadczeniodawców udzielających świadczeń z zakresu podstawowej opieki zdrowotnej funkcji punktu potwierdzającego profil zaufany, a także prowadzenie przez tych świadczeniodawców kampanii informacyjnej mającej na celu zakładanie profili zaufanych w inny dostępny sposób oraz aktywowanie Internetowego Konta Pacjenta.
 
-2. Wysokość kwoty dofinansowania dla świadczeniodawców, o których mowa ust. 1, jest uzależniona od liczby aktywowanych Internetowych Kont Pacjenta przez świadczeniobiorców, o których mowa art. 20c ust. 2b ustawy zmienianej art. 6, brzmieniu nadanym niniejszą ustawą:
+2. Wysokość kwoty dofinansowania dla świadczeniodawców, o których mowa w ust. 1, jest uzależniona od liczby aktywowanych Internetowych Kont Pacjenta przez świadczeniobiorców, o których mowa w art. 20c ust. 2b ustawy zmienianej w art. 6, w brzmieniu nadanym niniejszą ustawą:
 
-- **1)** związku z potwierdzeniem profilu zaufanego przez tych świadczeniodawców, zgodnie z art. 20c ust. 2a ustawy zmienianej art. 6, brzmieniu nadanym niniejszą ustawą,
-- **2)** sposób inny, niż określony pkt 1, wyniku kampanii, o której mowa ust. 1 – potwierdzonej oświadczeniami złożonymi przez tych świadczeniobiorców.
+- **1)** w związku z potwierdzeniem profilu zaufanego przez tych świadczeniodawców, zgodnie z art. 20c ust. 2a ustawy zmienianej w art. 6, w brzmieniu nadanym niniejszą ustawą,
+- **2)** w sposób inny, niż określony w pkt 1, w wyniku kampanii, o której mowa w ust. 1 potwierdzonej oświadczeniami złożonymi przez tych świadczeniobiorców.
 
-3. W latach 2019–2028 maksymalny limit wydatków budżetu państwa będących skutkiem finansowym niniejszej ustawy, związku z realizacją zadania, o którym mowa ust. 1, części pozostającej dyspozycji ministra właściwego do spraw zdrowia, wynosi 100 000 tys. zł, z tym że poszczególnych latach wyniesie odpowiednio:
+3. W latach 2019–2028 maksymalny limit wydatków budżetu państwa będących skutkiem finansowym niniejszej ustawy, w związku z realizacją zadania, o którym mowa w ust. 1, w części pozostającej w dyspozycji ministra właściwego do spraw zdrowia, wynosi 100 000 tys. zł, z tym że w poszczególnych latach wyniesie odpowiednio:
 
-- **1)** 2019 r. – 0 zł;
-- **2)** 2020 r. – 0 zł;
-- **3)** 2021 r. – 50 000 tys. zł;
-- **4)** 2022 r. – 50 000 tys. zł;
-- **5)** 2023 r. – 0 zł;
-- **6)** 2024 r. – 0 zł;
-- **7)** 2025 r. – 0 zł;
-- **8)** 2026 r. – 0 zł;
-- **9)** 2027 r. – 0 zł;
-- **10)** 2028 r. – 0 zł.
+- **1)** w 2019 r. – 0 zł;
+- **2)** w 2020 r. – 0 zł;
+- **3)** w 2021 r. – 50 000 tys. zł;
+- **4)** w 2022 r. – 50 000 tys. zł;
+- **5)** w 2023 r. – 0 zł;
+- **6)** w 2024 r. – 0 zł;
+- **7)** w 2025 r. – 0 zł;
+- **8)** w 2026 r. – 0 zł;
+- **9)** w 2027 r. – 0 zł;
+- **10)** w 2028 r. – 0 zł.
 
-4. Minister właściwy do spraw zdrowia monitoruje wykorzystanie limitów wydatków, o których mowa ust. 3, oraz wdraża mechanizm korygujący, o którym mowa ust. 5.
+4. Minister właściwy do spraw zdrowia monitoruje wykorzystanie limitów wydatków, o których mowa w ust. 3, oraz wdraża mechanizm korygujący, o którym mowa w ust. 5.
 
-5. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa ust. 3, zostanie zastosowany mechanizm korygujący polegający na ograniczeniu finansowania potwierdzania profili zaufanych przez świadczeniodawców, o których mowa ust. 1.
+5. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa w ust. 3, zostanie zastosowany mechanizm korygujący polegający na ograniczeniu finansowania potwierdzania profili zaufanych przez świadczeniodawców, o których mowa w ust. 1.
 
 **Art. 30.**
 
-1. Podmioty, o których mowa art. 15 ust. 4c ustawy zmienianej art. 9, brzmieniu nadanym niniejszą ustawą, są obowiązane do przekazania po raz pierwszy danych, o których mowa art. 4 ust. 3 pkt 1 lit. n oraz o ustawy zmienianej art. 9, brzmieniu nadanym niniejszą ustawą, jednostce podległej ministrowi właściwemu do spraw zdrowia właściwej zakresie systemów informacyjnych ochrony zdrowia, postaci elektronicznej, terminie do dnia 31 grudnia 2021 r.
+1. Podmioty, o których mowa w art. 15 ust. 4c ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą, są obowiązane do przekazania po raz pierwszy danych, o których mowa w art. 4 ust. 3 pkt 1 lit. n oraz o ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą, jednostce podległej ministrowi właściwemu do spraw zdrowia właściwej w zakresie systemów informacyjnych ochrony zdrowia, w postaci elektronicznej, w terminie do dnia 31 grudnia 2021 r.
 
-2. Narodowy Fundusz Zdrowia jest obowiązany przekazać jednostce podległej ministrowi właściwemu do spraw zdrowia właściwej zakresie systemów informacyjnych ochrony zdrowia, terminie do dnia 31 grudnia 2019 r., informacje postaci elektronicznej o uprawnieniach, o których mowa art. 4 ust. 3 pkt 1 lit. o ustawy zmienianej art. 9, brzmieniu nadanym niniejszą ustawą, zgromadzone do dnia 1 maja 2019 r., zakresie, jakim uprawnienia te mają niezbywalny charakter.
+2. Narodowy Fundusz Zdrowia jest obowiązany przekazać jednostce podległej ministrowi właściwemu do spraw zdrowia właściwej w zakresie systemów informacyjnych ochrony zdrowia, w terminie do dnia 31 grudnia 2019 r., informacje w postaci elektronicznej o uprawnieniach, o których mowa w art. 4 ust. 3 pkt 1 lit. o ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą, zgromadzone do dnia 1 maja 2019 r., w zakresie, w jakim uprawnienia te mają niezbywalny charakter.
 
-**Art. 31.**
+1. Minister właściwy do spraw zdrowia podaje do publicznej wiadomości, nie później niż w okresie 22 miesięcy od dnia wejścia w życie niniejszej ustawy, ogłaszając na stronie podmiotowej Biuletynu Informacji Publicznej obsługującego go urzędu oraz w dzienniku urzędowym ministra właściwego do spraw zdrowia, informację o uruchomieniu funkcjonalności, o których mowa w art. 7a ust. 1 pkt 9–16 ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą.
 
-1. Minister właściwy do spraw zdrowia podaje do publicznej wiadomości, nie później niż okresie 22 miesięcy od dnia wejścia życie niniejszej ustawy, ogłaszając na stronie podmiotowej Biuletynu Informacji Publicznej obsługującego go urzędu oraz dzienniku urzędowym ministra właściwego do spraw zdrowia, informację o uruchomieniu
+2. Minister właściwy do spraw zdrowia zamieszcza na stronie podmiotowej Biuletynu Informacji Publicznej obsługującego go urzędu oraz w dzienniku urzędowym ministra właściwego do spraw zdrowia dane pozwalające na utworzenie w systemie teleinformatycznym usługodawcy narzędzia, o którym mowa w art. 9b ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą, w terminie do dnia 31 grudnia 2019 r.
 
-2. Minister właściwy do spraw zdrowia zamieszcza na stronie podmiotowej Biuletynu Informacji Publicznej obsługującego go urzędu oraz dzienniku urzędowym ministra właściwego do spraw zdrowia dane pozwalające na utworzenie systemie teleinformatycznym usługodawcy narzędzia, o którym mowa art. 9b ustawy zmienianej art. 9, brzmieniu nadanym niniejszą ustawą, terminie do dnia 31 grudnia 2019 r.
+**Art. 32.** Prezes Narodowego Funduszu Zdrowia, w terminie do dnia 31 grudnia 2019 r., dostosuje przepisy wydane na podstawie art. 102 ust. 5 pkt 25 i art. 146 ust. 1 pkt 2 ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, w zakresie stosowania ułatwień w obiegu dokumentacji, w tym ich elektronizacji.
 
-**Art. 32.** Prezes Narodowego Funduszu Zdrowia, terminie do dnia 31 grudnia 2019 r., dostosuje przepisy wydane na podstawie art. 102 ust. 5 pkt 25 i art. 146 ust. 1 pkt 2 ustawy zmienianej art. 5, brzmieniu nadanym niniejszą ustawą, zakresie stosowania ułatwień obiegu dokumentacji, tym ich elektronizacji.
+**Art. 33.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 192 ust. 2 ustawy zmienianej w art. 5, zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 192 ust. 2 ustawy, o której mowa w art. 5, jednak nie dłużej niż do dnia 31 grudnia 2020 r.
 
-**Art. 33.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 192 ust. 2 ustawy zmienianej art. 5, zachowują moc do dnia wejścia życie nowych przepisów wykonawczych wydanych na podstawie art. 192 ust. 2 ustawy, o której mowa art. 5, jednak nie dłużej niż do dnia 31 grudnia 2020 r.
+**Art. 34.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
-**Art. 34.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+- **1)** art. 5 pkt 7 lit. a, c oraz d, które wchodzą w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 31 lipca 2015 r.;
+- **2)** art. 5 pkt 5 lit. b, pkt 21, pkt 22 lit. a, pkt 27 lit. b tiret pierwsze i pkt 28, art. 9 pkt 7 lit. a oraz art. 27, które wchodzą w życie z dniem 30 września 2019 r.;
+- **3)** art. 10 pkt 1 lit. a, który wchodzi w życie z dniem 1 grudnia 2019 r.;
+- **4)** art. 1 pkt 2 w zakresie art. 45 ust. 2d, art. 4 pkt 4 lit. i, art. 5 pkt 15 lit. b, pkt 24 lit. b, pkt 27 lit. b tiret drugie, art. 10 pkt 2 i pkt 4 lit. b, art. 11 pkt 1 i 2 oraz art. 16 pkt 2, które wchodzą w życie z dniem 1 lipca 2020 r.;
+- **5)** art. 4 pkt 1, pkt 2 lit. a tiret drugie oraz lit. b w zakresie art. 95b ust. 4, pkt 3 lit. a w zakresie art. 96 ust. 1 pkt 4, pkt 4 lit. a tiret pierwsze, lit. b, c oraz k, pkt 6 lit. b, art. 5 pkt 9 lit. b, art. 9 pkt 5 lit. a tiret drugie w zakresie art. 7 ust. 1 pkt 10 i lit. b, pkt 6 lit. a tiret drugie w zakresie art. 7a ust. 1 pkt 9 oraz pkt 11 lit. a tiret drugie w zakresie art. 12 ust. 1 pkt 3e, które wchodzą w życie z dniem 1 stycznia 2021 r.
+
 

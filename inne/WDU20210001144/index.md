@@ -1,0 +1,36 @@
+---
+title: "Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 21 czerwca 2021 r. zmieniające rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na rozwój ośrodków innowacyjności w ramach Programu Operacyjnego Rozwój Polski Wschodniej 2007-2013"
+address: WDU20210001144
+eli: DU/2021/1144
+publisher: DU
+year: 2021
+pos: 1144
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 21 czerwca 2021 r. zmieniające rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na rozwój ośrodków innowacyjności w ramach Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2021 poz. 1144 |
+| ISAP | WDU20210001144 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2021-06-21 |
+| Data wydania | 2021-06-25 |
+| Wejście w życie | 2021-06-26 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001144) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1144/text.pdf) |
+
+Treść rozporządzenia
+Na podstawie art. 6b ust. 10 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2020 r. poz. 299) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 16 grudnia 2014 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na rozwój ośrodków innowacyjności w ramach Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013 (Dz. U. z 2017 r. poz. 1984) w § 14 ust. 2 otrzymuje brzmienie: „2. Pomoc publiczna oraz pomoc de minimis będzie udzielana przedsiębiorcom przez beneficjentów do dnia 30 czerwca 2024 r.”.
+§ 2.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). Zgodnie z art. 25 pkt 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2021 r. poz. 1057) minister właściwy do spraw rozwoju regionalnego jest Instytucją Zarządzającą Programem Operacyjnym Rozwój Polski Wschodniej 2007–2013. 2) Tekst Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013 został zaakceptowany decyzją Komisji Europejskiej nr K(2007) 4568 z dnia 1 października 2007 r. w sprawie przyjęcia Programu Operacyjnego Rozwój Polski Wschodniej w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem „konwergencja” w Polsce oraz przyjęty uchwałą Rady Ministrów z dnia 30 stycznia 2007 r. w sprawie przyjęcia Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013. Narodowe Strategiczne Ramy Odniesienia 2007–2013. Zmiany w Programie Operacyjnym Rozwój Polski Wschodniej 2007–2013 zostały zaakceptowane: decyzją Komisji Europejskiej nr K(2009) 5712 z dnia 17 lipca 2009 r. zmieniającą decyzję Komisji K(2007) 4568 w sprawie przyjęcia programu operacyjnego „Rozwój Polski Wschodniej” w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem „konwergencja” w Polsce i przyjęte uchwałą Rady Ministrów z dnia 3 czerwca 2009 r. w sprawie przyjęcia zmiany Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013, decyzją Komisji Europejskiej nr K(2011) 9789 z dnia 23 grudnia 2011 r. zmieniającą decyzję K(2007) 4568 w sprawie przyjęcia programu operacyjnego Rozwój Polski Wschodniej w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem Konwergencji w Polsce i przyjęte uchwałą Rady Ministrów z dnia 6 czerwca 2011 r. w sprawie przyjęcia projektu zmiany Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013 (oraz objęte sprostowaniem nr C(2012) 4173 do decyzji Komisji K(2011) 9789 wersja ostateczna zmieniającej decyzję K(2007) 4568 w sprawie przyjęcia programu operacyjnego Rozwój Polski Wschodniej w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem Konwergencji w Polsce), decyzją Komisji Europejskiej nr C(2014) 1663 z dnia 11 marca 2014 r. zmieniającą decyzję K(2007) 4568 w sprawie przyjęcia Programu Operacyjnego „Rozwój Polski Wschodniej” w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem „konwergencja” w Polsce i przyjęte uchwałą Rady Ministrów z dnia 2 września 2013 r. w sprawie przyjęcia projektu zmiany Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013 oraz decyzją Komisji Europejskiej C(2016) 1297 z dnia 2 marca 2016 r. zmieniającą decyzję K(2007) 4568 w sprawie przyjęcia programu operacyjnego „Rozwój Polski Wschodniej” w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem Konwergencji w Polsce i przyjęte uchwałą Rady Ministrów z dnia 28 grudnia 2015 r. w sprawie przyjęcia projektu zmiany Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013.
+

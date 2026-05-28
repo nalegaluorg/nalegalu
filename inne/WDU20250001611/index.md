@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o obywatelstwie polskim
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 listopada 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 listopada 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-11-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001611) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1611/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 listopada 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o obywatelstwie polskim
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 2 kwietnia 2009 r. o obywatelstwie polskim (Dz. U. z 2023 r. poz. 1989), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 4 kwietnia 2025 r. o zmianie niektórych ustaw w celu wyeliminowania nieprawidłowości w systemie wizowym Rzeczypospolitej Polskiej (Dz. U. poz. 622),
 2) ustawą z dnia 25 czerwca 2025 r. o zmianie ustawy o repatriacji oraz niektórych innych ustaw (Dz. U. poz. 921) oraz zmian wynikających z przepisów ogłoszonych przed dniem 21 października 2025 r.
@@ -55,6 +55,11 @@ o obywatelstwie polskim
 
 **Art. 4.** Obywatelstwo polskie nabywa się:
 
+- **1)** z mocy prawa;
+- **2)** przez nadanie obywatelstwa polskiego;
+- **3)** przez uznanie za obywatela polskiego;
+- **4)** przez przywrócenie obywatelstwa polskiego.
+
 **Art. 5.** Zawarcie związku małżeńskiego przez obywatela polskiego z osobą niebędącą obywatelem polskim nie powoduje zmian w obywatelstwie małżonków.
 
 **Art. 6.**
@@ -75,6 +80,12 @@ o obywatelstwie polskim
 **Art. 8.** Do nadania obywatelstwa polskiego małoletniemu, który ukończył 16 lat, uznania go za obywatela polskiego oraz utraty przez niego obywatelstwa polskiego wskutek wyrażenia zgody na zrzeczenie się obywatelstwa przez jego rodziców jest wymagane oświadczenie o wyrażeniu zgody złożone przez małoletniego.
 
 **Art. 9.** Oświadczenia, o których mowa w ustawie, w sprawach związanych z nabyciem lub utratą obywatelstwa polskiego, składa się:
+
+- **1)** osobiście do protokołu przed:
+    - **a)** wojewodą właściwym ze względu na miejsce zamieszkania − od obywatela polskiego zamieszkałego na terytorium Rzeczypospolitej Polskiej oraz od cudzoziemca przebywającego legalnie na terytorium Rzeczypospolitej Polskiej, z wyłączeniem pobytu na podstawie wizy lub w ruchu bezwizowym,
+    - **b)** konsulem − od osoby zamieszkałej za granicą;
+
+- **2)** korespondencyjnie z podpisem urzędowo poświadczonym.
 
 **Art. 10.**
 
@@ -114,6 +125,9 @@ o obywatelstwie polskim
 #### Rozdział 2 Nabycie obywatelstwa polskiego z mocy prawa
 
 **Art. 14.** Małoletni nabywa obywatelstwo polskie przez urodzenie, w przypadku gdy:
+
+- **1)** co najmniej jedno z rodziców jest obywatelem polskim;
+- **2)** urodził się na terytorium Rzeczypospolitej Polskiej, a jego rodzice są nieznani, nie posiadają żadnego obywatelstwa lub ich obywatelstwo jest nieokreślone.
 
 **Art. 15.** Małoletni nabywa obywatelstwo polskie, gdy został znaleziony na terytorium Rzeczypospolitej Polskiej, a jego rodzice są nieznani.
 
@@ -266,6 +280,9 @@ o obywatelstwie polskim
 3. Do ustalenia, czy cudzoziemiec przebywa nieprzerwanie na terytorium Rzeczypospolitej Polskiej, stosuje się przepis art. 195 ust. 4 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2025 r. poz. 1079).
 
 **Art. 31.** Cudzoziemcowi odmawia się uznania za obywatela polskiego, w przypadku gdy:
+
+- **1)** nie spełnia wymogów, o których mowa w art. 30;
+- **2)** nabycie przez niego obywatelstwa polskiego stanowi zagrożenie dla obronności lub bezpieczeństwa państwa albo ochrony bezpieczeństwa i porządku publicznego.
 
 **Art. 32.**
 
@@ -544,6 +561,18 @@ o obywatelstwie polskim
 5. Wojewoda i konsul przekazują do rejestru centralnego dane zawarte w prowadzonych przez siebie rejestrach niezwłocznie po ich umieszczeniu we właściwym rejestrze.
 
 **Art. 61.** W rejestrach, o których mowa w art. 59 ust. 3, gromadzi się i przechowuje:
+
+- **1)** informacje o wnioskach i wydanych rozstrzygnięciach w sprawach nadania obywatelstwa polskiego, uznania za obywatela polskiego, przywrócenia obywatelstwa polskiego i wyrażenia zgody na zrzeczenie się obywatelstwa polskiego oraz o złożonych oświadczeniach o wyborze dla małoletniego obywatelstwa innego państwa;
+- **2)** dane dotyczące osób, które nabyły lub utraciły obywatelstwo polskie, określające:
+    - **a)** imię (imiona) i nazwisko,
+    - **b)** nazwisko rodowe,
+    - **c)** datę i miejsce urodzenia,
+    - **d)** imię i nazwisko ojca,
+    - **e)** imię i nazwisko rodowe matki,
+    - **f)** płeć,
+    - **g)** obywatelstwo,
+    - **h)** datę nabycia lub utraty obywatelstwa polskiego,
+    - **i)** numer PESEL, jeżeli został nadany.
 
 **Art. 62.**
 

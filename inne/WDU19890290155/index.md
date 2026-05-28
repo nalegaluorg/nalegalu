@@ -8,12 +8,10 @@ pos: 155
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o gwarancjach wolności sumienia wyznania Sejm Rzeczypospolitej Polskiej: – wykonując postanowienia Konstytucji Rzeczypospolitej Polskiej o wolności sumienia wyznania, – nawiązując do godnej trwałego szacunku kontynuacji tradycji tolerancji wolności religijnej oraz potwierdzającej ją współpracy Polaków różnych wyznań światopoglądów w rozwoju pomyślności Ojczyzny, – uznając historyczny wkład kościołów innych związków wyznaniowych w rozwój kultury narodowej oraz krzewienie umacnianie podstawowych wartości moralnych, – kierując się zasadami zawartymi w Powszechnej Deklaracji Praw Człowieka, Międzynarodowym Pakcie Praw Obywatelskich Politycznych, Akcie Końcowym Konferencji Bezpieczeństwa Współpracy w Europie oraz Deklaracji Organizacji Narodów Zjednoczonych o wyeliminowaniu wszelkich form nietolerancji dyskryminacji z powodów religijnych lub przekonań, – umacniając warunki do czynnego równoprawnego uczestnictwa obywateli w życiu publicznym społecznym, bez względu na ich stosunek do religii, stanowi, co następuje: Wolność sumienia wyznania
-
-*USTAWA z dnia 17 maja 1989 r.*
+# Ustawa z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania
 
 | Pole | Wartość |
 |---|---|
@@ -24,425 +22,367 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1989-05-17 |
 | Data wydania | 1989-05-23 |
+| Wejście w życie | 1989-05-23 |
 | Ostatnia zmiana | 2025-12-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890290155) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1989/155/text.pdf) |
 
+Treść ustawy Dział I – Wolność sumienia i wyznania Dział II – Stosunek państwa do kościołów i innych związków wyznaniowych Rozdział 1 – Przepisy ogólne Rozdział 2 – Działalność kościołów i innych związków wyznaniowych Dział III – Tworzenie kościołów i innych związków wyznaniowych Dział IV – Przepisy przejściowe i końcowe
+Sejm Polskiej Rzeczypospolitej Ludowej:
+– wykonując postanowienia Konstytucji Polskiej Rzeczypospolitej Ludowej o wolności sumienia i wyznania,
+– nawiązując do godnej trwałego szacunku i kontynuacji tradycji tolerancji i wolności religijnej oraz potwierdzającej ją współpracy Polaków różnych wyznań i światopoglądów w rozwoju i pomyślności Ojczyzny,
+– uznając historyczny wkład kościołów i innych związków wyznaniowych w rozwój kultury narodowej oraz krzewienie i umacnianie podstawowych wartości moralnych,
+– kierując się zasadami zawartymi w Powszechnej Deklaracji Praw Człowieka, Międzynarodowym Pakcie Praw Obywatelskich i Politycznych, Akcie Końcowym Konferencji Bezpieczeństwa i Współpracy w Europie oraz Deklaracji Organizacji Narodów Zjednoczonych o wyeliminowaniu wszelkich form nietolerancji i dyskryminacji z powodów religijnych lub przekonań,
+– umacniając warunki do czynnego i równoprawnego uczestnictwa obywateli w życiu publicznym i społecznym, bez względu na ich stosunek do religii,
+stanowi, co następuje:
+
+### Dział I Wolność sumienia i wyznania
+
 **Art. 1.**
 
-1. Rzeczpospolita Polska zapewnia każdemu obywatelowi wolność sumienia wyznania.
+1. Polska Rzeczpospolita Ludowa zapewnia każdemu obywatelowi wolność sumienia i wyznania.
 
-2. Wolność sumienia wyznania obejmuje swobodę wyboru religii lub przekonań oraz wyrażania ich indywidualnie zbiorowo, prywatnie publicznie.
+2. Wolność sumienia i wyznania obejmuje swobodę wyboru religii lub przekonań oraz wyrażania ich indywidualnie i zbiorowo, prywatnie i publicznie.
 
-3. Obywatele wierzący wszystkich wyznań oraz niewierzący mają równe prawa w życiu państwowym, politycznym, gospodarczym, społecznym kulturalnym.
+3. Obywatele wierzący wszystkich wyznań oraz niewierzący mają równe prawa w życiu państwowym, politycznym, gospodarczym, społecznym i kulturalnym.
 
-**Art. 2.** Korzystając z wolności sumienia wyznania obywatele mogą w szczególności:
+**Art. 2.** Korzystając z wolności sumienia i wyznania obywatele mogą w szczególności:
+
+- **1)** tworzyć kościoły i inne związki wyznaniowe oraz należeć lub nie należeć do nich,
+- **2)** zgodnie z zasadami swojego wyznania uczestniczyć w czynnościach i obrzędach religijnych oraz wypełniać obowiązki religijne i obchodzić święta religijne,
+- **3)** głosić swoją religię lub przekonania,
+- **4)** wychowywać dzieci zgodnie ze swoimi przekonaniami w sprawach religii,
+- **5)** zachowywać milczenie w sprawach swojej religii lub przekonań,
+- **6)** utrzymywać kontakty ze współwyznawcami, w tym uczestniczyć w pracach organizacji religijnych o zasięgu międzynarodowym,
+- **7)** korzystać ze źródeł informacji na temat religii,
+- **8)** wytwarzać i nabywać przedmioty potrzebne do celów kultu i praktyk religijnych oraz korzystać z nich,
+- **9)** wytwarzać, nabywać i posiadać artykuły potrzebne do przestrzegania reguł religijnych,
+- **10)** wybrać stan duchowny lub zakonny,
+- **11)** zrzeszać się w organizacjach świeckich w celu realizacji zadań wynikających z wyznawanej religii bądź przekonań w sprawach religii.
+
+**Art. 3.**
+
+1. Uzewnętrznianie indywidualnie lub zbiorowo swojej religii lub przekonań może podlegać jedynie ograniczeniom ustawowym koniecznym do ochrony bezpieczeństwa publicznego, porządku, zdrowia lub moralności publicznej albo podstawowych praw i wolności innych osób.
+
+2. Korzystanie z wolności sumienia i wyznania nie może prowadzić do uchylania się od wykonywania obowiązków publicznych nałożonych przez ustawy.
+
+3. Ze względu na przekonania religijne lub wyznawane zasady moralne obywatele mogą występować o skierowanie ich do służby zastępczej, na zasadach i w trybie określonych w ustawie o powszechnym obowiązku obrony Polskiej Rzeczypospolitej Ludowej. Korzystanie z tego prawa wymaga złożenia oświadczenia w sprawie przekonań religijnych lub wyznawanych zasad moralnych.
 
 **Art. 4.**
 
-1. Prawo określone w art. 2 pkt 2 oraz prawo do posiadania korzystania z przedmiotów potrzebnych do uprawiania kultu praktyk religijnych przysługują również osobom:
+1. Prawo określone w art. 2 pkt 2 oraz prawo do posiadania i korzystania z przedmiotów potrzebnych do uprawiania kultu i praktyk religijnych przysługują również osobom:
 
-- **1)** pełniącym służbę wojskową lub zasadniczą służbę w obronie cywilnej;
-- **2)** przebywającym w zakładach służby zdrowia opieki społecznej oraz dzieciom młodzieży na krajowych koloniach obozach organizowanych przez instytucje państwowe;
-- **3)** przebywającym w zakładach karnych, zakładach poprawczych, okręgowych ośrodkach wychowawczych, młodzieżowych ośrodkach wychowawczych, aresztach śledczych oraz schroniskach dla nieletnich.
+- **1)** pełniącym służbę wojskową lub zasadniczą służbę w obronie cywilnej,
+- **2)** przebywającym w zakładach służby zdrowia i opieki społecznej oraz dzieciom i młodzieży na krajowych koloniach i obozach organizowanych przez instytucje państwowe,
+- **3)** przebywającym w zakładach karnych, poprawczych i wychowawczych oraz aresztach śledczych, ośrodkach przystosowania społecznego oraz schroniskach dla nieletnich.
 
 2. Sposób realizacji uprawnień określonych w ust. 1 regulują odrębne ustawy oraz przepisy wydane na ich podstawie.
 
-**Art. 5.** Obywatele mają prawo do swobodnego świadczenia na rzecz kościołów innych związków wyznaniowych oraz instytucji charytatywno-opiekuńczych.
+**Art. 5.** Obywatele mają prawo do swobodnego świadczenia na rzecz kościołów i innych związków wyznaniowych oraz instytucji charytatywno-opiekuńczych.
 
 **Art. 6.**
 
-1. Nikt nie może być dyskryminowany bądź uprzywilejowany z powodu religii lub przekonań w sprawach religii. obrzędach religijnych ani do udziału w nich.
+1. Nikt nie może być dyskryminowany bądź uprzywilejowany z powodu religii lub przekonań w sprawach religii.
+
+2. Nie wolno zmuszać obywateli do niebrania udziału w czynnościach lub obrzędach religijnych ani do udziału w nich.
 
 **Art. 7.**
 
-1. Cudzoziemcy przebywający na terytorium Rzeczypospolitej Polskiej korzystają z wolności sumienia wyznania na równi z obywatelami polskimi.
+1. Cudzoziemcy przebywający na terytorium Polskiej Rzeczypospolitej Ludowej korzystają z wolności sumienia i wyznania na równi z obywatelami polskimi.
 
 2. Przepis ust. 1 stosuje się odpowiednio do bezpaństwowców.
 
-### DZIAŁ II Stosunek państwa do kościołów innych związków wyznaniowych
+### Dział II Stosunek państwa do kościołów i innych związków wyznaniowych
 
 #### Rozdział 1 Przepisy ogólne
 
-**Art. 8.** Kościoły inne związki wyznaniowe w Polsce działają w konstytucyjnych ramach ustrojowych Rzeczypospolitej Polskiej; ich sytuację prawną majątkową regulują przepisy rangi ustawowej.
+**Art. 8.** Kościoły i inne związki wyznaniowe w Polsce działają w konstytucyjnych ramach ustrojowych Polskiej Rzeczypospolitej Ludowej; ich sytuację prawną i majątkową regulują odrębne ustawy.
 
 **Art. 9.**
 
-1. W Rzeczypospolitej Polskiej stosunek państwa do wszystkich kościołów innych związków wyznaniowych opiera się na poszanowaniu wolności sumienia wyznania.
+1. W Polskiej Rzeczypospolitej Ludowej stosunek państwa do wszystkich kościołów i innych związków wyznaniowych opiera się na poszanowaniu wolności sumienia i wyznania.
 
-2. Gwarancjami wolności sumienia wyznania w stosunkach państwa z kościołami innymi związkami wyznaniowymi są:
+2. Gwarancjami wolności sumienia i wyznania w stosunkach państwa z kościołami i innymi związkami wyznaniowymi są:
 
-- **1)** oddzielenie kościołów innych związków wyznaniowych od państwa;
-- **2)** swoboda wypełniania przez kościoły inne związki wyznaniowe funkcji religijnych;
-- **3)** równouprawnienie wszystkich kościołów innych związków wyznaniowych, bez względu na formę uregulowania ich sytuacji prawnej.
+- **1)** oddzielenie kościołów i innych związków wyznaniowych od państwa,
+- **2)** swoboda wypełniania przez kościoły i inne związki wyznaniowe funkcji religijnych,
+- **3)** równouprawnienie wszystkich kościołów i innych związków wyznaniowych, bez względu na formę uregulowania ich sytuacji prawnej.
 
 **Art. 10.**
 
-1. Rzeczpospolita Polska jest państwem świeckim, neutralnym w sprawach religii przekonań.
+1. Polska Rzeczpospolita Ludowa jest państwem świeckim, neutralnym w sprawach religii i przekonań.
 
-2. Państwo państwowe jednostki organizacyjne nie dotują nie subwencjonują kościołów innych związków wyznaniowych. Wyjątki od tej zasady regulują ustawy lub przepisy wydane na ich podstawie.
+2. Państwo i państwowe jednostki organizacyjne nie dotują i nie subwencjonują kościołów i innych związków wyznaniowych. Wyjątki od tej zasady regulują ustawy lub przepisy wydane na ich podstawie.
 
 **Art. 11.**
 
-1. Kościoły inne związki wyznaniowe są niezależne od państwa przy wykonywaniu swoich funkcji religijnych. prawnej, w granicach określonych w ustawach.
+1. Kościoły i inne związki wyznaniowe są niezależne od państwa przy wykonywaniu swoich funkcji religijnych.
 
-3. Kościoły inne związki wyznaniowe mogą składać wnioski do Trybunału Konstytucyjnego na zasadach w trybie określonych w przepisach o Trybunale Konstytucyjnym.
+2. Kościoły i inne związki wyznaniowe oraz ich działalność podlegają ochronie prawnej, w granicach określonych w ustawach.
+
+3. Kościoły i inne związki wyznaniowe mogą składać wnioski do Trybunału Konstytucyjnego na zasadach i w trybie określonych w przepisach o Trybunale Konstytucyjnym.
 
 **Art. 12.**
 
-1. Duchowni oraz osoby zakonne kościołów innych związków wyznaniowych, ustanowione według przepisów prawa wewnętrznego kościoła lub innego związku wyznaniowego, korzystają z praw podlegają obowiązkom na równi z innymi obywatelami we wszystkich dziedzinach życia państwowego, politycznego, gospodarczego, społecznego kulturalnego. Są oni w ramach obowiązujących przepisów ustaw zwolnieni z obowiązków niemożliwych do pogodzenia z pełnieniem funkcji duchownego lub osoby zakonnej.
+1. Duchowni oraz osoby zakonne kościołów i innych związków wyznaniowych korzystają z praw i podlegają obowiązkom na równi z innymi obywatelami we wszystkich dziedzinach życia państwowego, politycznego, gospodarczego, społecznego i kulturalnego. Są oni w ramach obowiązujących przepisów ustaw zwolnieni z obowiązków niemożliwych do pogodzenia z pełnieniem funkcji duchownego lub osoby zakonnej.
 
 2. Osoby, o których mowa w ust. 1, mają prawo do noszenia stroju duchownego.
 
-3. Uprawnienia obowiązki osób duchownych w myśl prawa państwowego określają odrębne ustawy.
+3. Sprawy ubezpieczeń społecznych duchownych reguluje odrębna ustawa.
 
 **Art. 13.**
 
-1. Majątek przychody kościołów innych związków wyznaniowych podlegają ogólnie obowiązującym przepisom podatkowym, z wyjątkami określonymi w odrębnych ustawach.
+1. Majątek i przychody kościołów i innych związków wyznaniowych podlegają ogólnie obowiązującym przepisom podatkowym, z wyjątkami określonymi w odrębnych ustawach.
 
-2. Osoby prawne kościołów innych związków wyznaniowych są zwolnione od opodatkowania z tytułu przychodów ze swojej działalności niegospodarczej. W tym zakresie osoby te nie mają obowiązku prowadzenia dokumentacji wymaganej przez przepisy podatkowe.
+2. Osoby prawne kościołów i innych związków wyznaniowych są zwolnione od opodatkowania z tytułu przychodów ze swojej działalności niegospodarczej. W tym zakresie osoby te nie mają obowiązku prowadzenia dokumentacji wymaganej przez przepisy podatkowe.
 
-3. (uchylony)
+3. Osoby prawne kościołów i innych związków wyznaniowych są zwolnione od obowiązku uzyskiwania zezwoleń na przyjęcie spadku, zapisu i darowizny. Jeżeli przedmiotem spadku, zapisu lub darowizny jest nieruchomość, zwolnienie ma zastosowanie, gdy według testamentu lub aktu darowizny nieruchomość jest przeznaczona na inwestycję sakralną lub związaną z nią inwestycję kościelną.
 
-4. (uchylony)
+4. Zezwolenie na zawarcie umowy dożywocia nie jest wymagane, jeżeli nieruchomość będąca przedmiotem umowy jest przeznaczona na inwestycję sakralną lub związaną z nią inwestycję kościelną.
 
-5. Dochody z działalności gospodarczej osób prawnych kościołów innych związków wyznaniowych oraz spółek, których udziałowcami są wyłącznie te osoby, są zwolnione od opodatkowania w części, w jakiej zostały przeznaczone w roku podatkowym lub w roku po nim następującym na cele kultowe, oświatowowychowawcze, naukowe, kulturalne, działalność charytatywno-opiekuńczą, punkty katechetyczne, konserwację zabytków oraz na inwestycje sakralne inwestycje kościelne, których przedmiotem są punkty katechetyczne zakłady charytatywnoopiekuńcze, jak również remonty tych obiektów. opodatkowania od świadczeń na fundusz gminny fundusz miejski , od nieruchomości lub ich części, stanowiących własność tych osób lub używanych przez nie na podstawie innego tytułu prawnego na cele niemieszkalne, z wyjątkiem części zajmowanej na wykonywanie działalności gospodarczej.
+5. Dochody z działalności gospodarczej osób prawnych kościołów i innych związków wyznaniowych oraz spółek, których udziałowcami są wyłącznie te osoby, są zwolnione od opodatkowania w części, w jakiej zostały przeznaczone w roku podatkowym lub w roku po nim następującym na cele kultowe, oświatowo-wychowawcze, naukowe, kulturalne, działalność charytatywno-opiekuńczą, punkty katechetyczne, konserwację zabytków oraz na inwestycje sakralne i inwestycje kościelne, których przedmiotem są punkty katechetyczne i zakłady charytatywno-opiekuńcze, jak również remonty tych obiektów.
 
-7. Zwalnia się z należności celnych przywozowych towary przeznaczone na cele charytatywno-opiekuńcze oświatowo-wychowawcze oraz towary o charakterze kulturalnym przeznaczone na cele kultu, przywożone dla osób prawnych kościołów innych związków wyznaniowych, w granicach na warunkach określonych w rozporządzeniu Rady (WE) nr 1186/2009 z dnia 16 listopada 2009 r. ustanawiającym wspólnotowy system zwolnień celnych (Dz. Urz. UE L 342 z 10.12.2009, str. 23).
+6. Osoby prawne kościołów i innych związków wyznaniowych są zwolnione od opodatkowania i od świadczeń na fundusz gminny i fundusz miejski, od nieruchomości lub ich części, stanowiących własność tych osób lub używanych przez nie na podstawie innego tytułu prawnego na cele niemieszkalne, z wyjątkiem części zajmowanej na wykonywanie działalności gospodarczej.
+
+7. Wolne od opłat celnych są przesyłane z zagranicy dla osób prawnych kościołów i innych związków wyznaniowych dary:
+
+- **1)** przeznaczone na cele kultowe, charytatywno-opiekuńcze i oświatowo-wychowawcze,
+- **2)** maszyny, urządzenia i materiały poligraficzne oraz papier.
 
 **Art. 14.**
 
-1. Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, kościół lub inny związek wyznaniowy powiadamia ministra właściwego do spraw wyznań religijnych wojewodę właściwego ze względu na siedzibę jednostki organizacyjnej kościoła lub innego związku wyznaniowego o utworzeniu, zmianie nazwy, siedziby, granic lub połączeniu, podziale zniesieniu diecezji (okręgów porównywalnych jednostek organizacyjnych) oraz parafii (zborów, gmin porównywalnych jednostek organizacyjnych).
+1. Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, władze kościoła lub innego związku wyznaniowego powiadamiają właściwy organ administracji państwowej o utworzeniu, zmianie nazwy, siedziby, granic lub połączeniu, podziale i zniesieniu diecezji (okręgów i porównywalnych jednostek organizacyjnych) oraz parafii (zborów, gmin i porównywalnych jednostek organizacyjnych).
 
-2. Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, kościół lub inny związek wyznaniowy powiadamia w terminie 30 dni ministra właściwego do spraw wyznań religijnych wojewodę właściwego ze względu na siedzibę kościoła lub innego związku wyznaniowego o zmianie siedziby oraz o zmianie osób wchodzących do kierowniczych organów wykonawczych, podając ich imiona nazwiska, obywatelstwo miejsce zamieszkania.
+2. Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, władze kościoła lub innego związku wyznaniowego powiadamiają właściwy organ administracji państwowej o powołaniu i odwołaniu osoby będącej kierowniczym organem wykonawczym w kościele lub innym związku wyznaniowym.
 
 3. Przepis ust. 2 stosuje się odpowiednio do jednostek organizacyjnych, o których mowa w ust. 1.
 
-4. Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, przed objęciem stanowisk, o których mowa w ust. 2 3, przez cudzoziemca, minister właściwy do spraw wyznań religijnych nie wyraża wobec tego zastrzeżeń. Niezgłoszenie zastrzeżeń w terminie 60 dni od daty powiadomienia uważa się za wyrażenie zgody.
+4. Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, przed powołaniem na stanowiska, o których mowa w ust. 2 i 3, cudzoziemca, władze kościoła lub innego związku wyznaniowego winny się upewnić, czy Minister-Kierownik Urzędu do Spraw Wyznań nie wyraża wobec tego zastrzeżeń. Niezgłoszenie zastrzeżeń w terminie trzydziestu dni od daty powiadomienia uważa się za wyrażenie zgody.
 
-**Art. 15.** (uchylony)
+**Art. 15.** W sprawach, o których mowa w art. 14, właściwym organem administracji państwowej jest:
+
+- **1)** odnośnie do jednostek organizacyjnych o zasięgu ogólnopolskim oraz obejmujących swoimi granicami teren przekraczający granice jednego województwa, a także stanowisk w tych jednostkach – Urząd do Spraw Wyznań,
+- **2)** w pozostałych przypadkach – terenowy organ administracji państwowej stopnia wojewódzkiego o właściwości szczególnej do spraw wyznań.
 
 **Art. 16.**
 
-1. Państwo współdziała z kościołami innymi związkami wyznaniowymi w zachowaniu pokoju, kształtowaniu warunków rozwoju kraju oraz zwalczaniu patologii społecznych.
+1. Państwo współdziała z kościołami i innymi związkami wyznaniowymi w zachowaniu pokoju, kształtowaniu warunków rozwoju kraju oraz zwalczaniu patologii społecznych.
 
-2. W celach, o których mowa w ust. 1, oraz do rozpatrywania problemów związanych z rozwojem stosunków między państwem a poszczególnymi kościołami innymi związkami wyznaniowymi mogą być, na zasadach wzajemnego uzgodnienia, tworzone różne, w tym stałe formy współdziałania. Przepis ten nie narusza właściwości organów państwowych oraz organów kościołów innych związków wyznaniowych.
+2. W celach, o których mowa w ust. 1, oraz do rozpatrywania problemów związanych z rozwojem stosunków między państwem a poszczególnymi kościołami i innymi związkami wyznaniowymi mogą być, na zasadach wzajemnego uzgodnienia, tworzone różne, w tym stałe formy współdziałania. Przepis ten nie narusza właściwości organów państwowych oraz organów kościołów i innych związków wyznaniowych.
 
-**Art. 16a.**
-
-1. Dla określenia szczegółowych zasad stosunków, o których mowa w art. 16, mogą być zawierane umowy między właściwymi rzeczowo centralnymi organami administracji rządowej a władzami poszczególnych kościołów innych związków wyznaniowych.
-
-2. Przepisy umowy nie mogą naruszać przepisów ogólnie obowiązującego prawa, a w szczególności zasady równouprawnienia wszystkich kościołów innych związków wyznaniowych.
-
-3. Podpisana umowa zostaje opublikowana w dzienniku urzędowym właściwego ministerstwa.
-
-**Art. 17.** Państwo współdziała z kościołami innymi związkami wyznaniowymi w ochronie, konserwacji, udostępnianiu upowszechnianiu zabytków architektury, sztuki literatury religijnej, które stanowią integralną część dziedzictwa kultury.
+**Art. 17.** Państwo współdziała z kościołami i innymi związkami wyznaniowymi w ochronie, konserwacji, udostępnianiu i upowszechnianiu zabytków architektury, sztuki i literatury religijnej, które stanowią integralną część dziedzictwa kultury.
 
 **Art. 18.**
 
-1. Przepisy rozdziału 2 działu III regulują stosunek państwa tylko do tych kościołów innych związków wyznaniowych, których sytuacja prawna majątkowa nie jest uregulowana odrębnymi ustawami.
+1. Przepisy rozdziału 2 i działu III regulują stosunek państwa tylko do tych kościołów i innych związków wyznaniowych, których sytuacja prawna i majątkowa nie jest uregulowana odrębnymi ustawami.
 
-2. Przepisy rozdziału 2 określające uprawnienia kościołów innych związków wyznaniowych mają jednakże zastosowanie do kościołów innych związków określone w ust. 1 nie przewidują takich uprawnień.
+2. Przepisy rozdziału 2 określające uprawnienia kościołów i innych związków wyznaniowych mają jednakże zastosowanie do kościołów i innych związków wyznaniowych o ustawowo uregulowanej sytuacji wówczas, gdy odrębne ustawy określone w ust. 1 nie przewidują takich uprawnień.
 
-#### Rozdział 2 Działalność kościołów innych związków wyznaniowych
+#### Rozdział 2 Działalność kościołów i innych związków wyznaniowych
 
 **Art. 19.**
 
-1. Kościoły inne związki wyznaniowe korzystają na zasadach równouprawnienia ze swobody pełnienia funkcji religijnych.
+1. Kościoły i inne związki wyznaniowe korzystają na zasadach równouprawnienia ze swobody pełnienia funkcji religijnych.
 
-2. Wypełniając funkcje religijne kościoły inne związki wyznaniowe mogą w szczególności:
+2. Wypełniając funkcje religijne kościoły i inne związki wyznaniowe mogą w szczególności:
 
-- **1)** określać doktrynę religijną, dogmaty zasady wiary oraz liturgię;
-- **2)** organizować publicznie sprawować kult;
-- **3)** udzielać posług religijnych, w tym osobom, o których mowa w art. 4, oraz organizować obrzędy zgromadzenia religijne;
-- **4)** rządzić się w swoich sprawach własnym prawem, swobodnie wykonywać władzę duchowną oraz zarządzać swoimi sprawami;
-- **5)** ustanawiać, kształcić zatrudniać duchownych;
-- **6)** realizować inwestycje sakralne inne inwestycje kościelne;
-- **7)** nabywać, posiadać zbywać majątek ruchomy nieruchomy oraz zarządzać nim;
-- **8)** zbierać składki otrzymywać darowizny, spadki inne świadczenia od osób fizycznych prawnych;
-- **9)** wytwarzać nabywać przedmioty artykuły potrzebne do celów kultu praktyk religijnych oraz korzystać z nich;
-- **10)** nauczać religii głosić ją, w tym za pomocą prasy, książek innych druków oraz filmów środków audiowizualnych;
-- **11)** korzystać ze środków masowego przekazywania;
-- **12)** prowadzić działalność oświatowo-wychowawczą;
-- **13)** tworzyć prowadzić zakony oraz diakonaty;
-- **14)** tworzyć organizacje mające na celu działalność na rzecz formacji religijnej, kultu publicznego oraz przeciwdziałania patologiom społecznym ich skutkom;
-- **15)** prowadzić działalność charytatywno-opiekuńczą;
-- **16)** (uchylony)
-- **17)** powoływać krajowe organizacje międzykościelne; międzywyznaniowych oraz utrzymywać kontakty zagraniczne w sprawach związanych z realizacją swoich funkcji.
-
-3. Za wypełnianie funkcji religijnych, o których mowa w ust. 1, nie uznaje się oddziaływania poprzez badania eksperymenty psychologiczne.
-
-**Art. 19a.**
-
-1. Kościoły inne związki wyznaniowe mają prawo posiadania, zarządzania oraz zakładania poszerzania cmentarzy grzebalnych.
-
-2. Przepis ust. 1 nie narusza przepisów dotyczących cmentarzy chowania zmarłych.
+- **1)** określać doktrynę religijną, dogmaty i zasady wiary oraz liturgię,
+- **2)** organizować i publicznie sprawować kult,
+- **3)** udzielać posług religijnych, w tym osobom, o których mowa w art. 4, oraz organizować obrzędy i zgromadzenia religijne,
+- **4)** rządzić się w swoich sprawach własnym prawem, swobodnie wykonywać władzę duchowną oraz zarządzać swoimi sprawami,
+- **5)** kształcić i zatrudniać duchownych,
+- **6)** realizować inwestycje sakralne i inne inwestycje kościelne,
+- **7)** nabywać, posiadać i zbywać majątek ruchomy i nieruchomy oraz zarządzać nim,
+- **8)** zbierać składki i otrzymywać darowizny, spadki i inne świadczenia od osób fizycznych i prawnych,
+- **9)** wytwarzać i nabywać przedmioty i artykuły potrzebne do celów kultu i praktyk religijnych oraz korzystać z nich,
+- **10)** nauczać religii i głosić ją, w tym za pomocą prasy, książek i innych druków oraz filmów i środków audiowizualnych,
+- **11)** korzystać ze środków masowego przekazywania,
+- **12)** prowadzić działalność oświatowo-wychowawczą,
+- **13)** tworzyć i prowadzić zakony oraz diakonaty,
+- **14)** tworzyć organizacje mające na celu działalność na rzecz formacji religijnej, kultu publicznego oraz przeciwdziałania patologiom społecznym i ich skutkom,
+- **15)** prowadzić działalność charytatywno-opiekuńczą,
+- **16)** zakładać, posiadać i poszerzać cmentarze grzebalne oraz zarządzać nimi,
+- **17)** powoływać krajowe organizacje międzykościelne,
+- **18)** należeć do międzynarodowych organizacji wyznaniowych i międzywyznaniowych oraz utrzymywać kontakty zagraniczne w sprawach związanych z realizacją swoich funkcji.
 
 **Art. 20.**
 
-1. Kościoły inne związki wyznaniowe mogą nauczać religii oraz wychowywać religijnie dzieci młodzież, zgodnie z wyborem dokonanym przez ich rodziców lub opiekunów prawnych.
+1. Kościoły i inne związki wyznaniowe mogą nauczać religii oraz wychowywać religijnie dzieci i młodzież, zgodnie z wyborem dokonanym przez ich rodziców lub opiekunów prawnych.
 
-2. Nauczanie religii dzieci młodzieży jest wewnętrzną sprawą kościołów innych związków wyznaniowych. Jest ono organizowane, zgodnie z programem ustalonym przez władze kościoła lub innego związku wyznaniowego, w punktach katechetycznych znajdujących się w kościołach, domach modlitw innych pomieszczeniach udostępnionych na ten cel przez osobę uprawnioną do dysponowania nimi.
+2. Nauczanie religii dzieci i młodzieży jest wewnętrzną sprawą kościołów i innych związków wyznaniowych. Jest ono organizowane, zgodnie z programem ustalonym przez władze kościoła lub innego związku wyznaniowego, w punktach katechetycznych znajdujących się w kościołach, domach modlitw i innych pomieszczeniach udostępnionych na ten cel przez osobę uprawnioną do dysponowania nimi.
 
-3. Nauczanie religii uczniów szkół publicznych wychowanków przedszkoli publicznych może odbywać się również w szkołach przedszkolach na zasadach określonych w odrębnej ustawie.
+3. Minister Edukacji Narodowej, w drodze rozporządzenia, określa zasady i sposób godzenia rozkładu zajęć szkolnych z rozkładem zajęć z religii.
 
 **Art. 21.**
 
-1. Kościoły inne związki wyznaniowe mają prawo zakładać prowadzić szkoły przedszkola oraz inne placówki oświatowo-wychowawcze opiekuńczo-wychowawcze na zasadach określonych w ustawach.
+1. Kościoły i inne związki wyznaniowe mają prawo zakładać i prowadzić szkoły oraz inne placówki oświatowo-wychowawcze i opiekuńczo-wychowawcze na zasadach określonych w ustawach.
 
-2. Szkoły, przedszkola oraz inne placówki, o których mowa w ust. 1, będą dotowane przez państwo lub organy samorządu terytorialnego w przypadkach na zasadach określonych w odrębnych ustawach.
+2. Rodzaje szkół i placówek wymienionych w ust. 1 i zasady ich tworzenia oraz warunki prowadzenia i nadzoru nad nimi określa Minister Edukacji Narodowej w porozumieniu z władzami kościoła lub innego związku wyznaniowego; może również określać zasady ich dotowania.
 
-**Art. 21a.** Działalność służąca celom humanitarnym, charytatywnoopiekuńczym, naukowym oświatowo-wychowawczym, podejmowana przez osoby prawne kościołów innych związków wyznaniowych, jest zrównana pod względem prawnym z działalnością służącą analogicznym celom prowadzoną przez instytucje państwowe. prowadzić, według samodzielnie ustalonych programów, szkoły duchowne seminaria duchowne. 2. W zakresie realizacji programu szkół ogólnokształcących uzyskiwania świadectw dojrzałości szkoły duchowne wymienione w ust. 1 podlegają nadzorowi ministra właściwego do spraw oświaty wychowania. 3. Tworzenie prowadzenie przez kościoły inne związki wyznaniowe szkół wyższych, zasady udzielania im przez państwo pomocy finansowej oraz tryb zakres uznawania stopni tytułów naukowych nadawanych w tych szkołach regulują, na wniosek władz kościołów lub innych związków wyznaniowych, odrębne ustawy. 4. Kościoły inne związki wyznaniowe mają prawo zakładać religijne instytuty naukowe naukowo-dydaktyczne. 5. Status prawny wydziałów teologicznych na uniwersytetach państwowych regulują odrębne umowy pomiędzy ministrem właściwym do spraw szkolnictwa wyższego a władzami kościołów lub innych związków wyznaniowych.
+**Art. 22.**
 
-**Art. 23.** (uchylony)
+1. Kościoły i inne związki wyznaniowe mają prawo zakładać i prowadzić, według samodzielnie ustalonych programów, szkoły duchowne i seminaria duchowne.
+
+2. W zakresie realizacji programu szkół ogólnokształcących i uzyskiwania świadectw dojrzałości szkoły duchowne wymienione w ust. 1 podlegają nadzorowi Ministra Edukacji Narodowej.
+
+3. Tworzenie i prowadzenie szkół wyższych przez kościoły i inne związki wyznaniowe oraz tryb i zakres uznawania przez państwo stopni i tytułów naukowych nadawanych w tych szkołach regulują, na wniosek władz kościelnych, odrębne ustawy.
+
+4. Kościoły i inne związki wyznaniowe mają prawo zakładać religijne instytuty naukowe i naukowo-dydaktyczne.
+
+**Art. 23.** Zakres stosowania do nauczycieli i wychowawców oraz uczących się w szkołach, o których mowa w art. 21 oraz art. 22 ust. 3, uprawnień i świadczeń społecznych oraz nakładania obowiązków przewidzianych dla pracowników i uczniów w szkołach państwowych określa Minister Edukacji Narodowej w porozumieniu z władzami kościołów i innych związków wyznaniowych, chyba że przepis ustawy stanowi inaczej.
 
 **Art. 24.**
 
-1. W celu realizacji działalności charytatywno-opiekuńczej kościoły inne związki wyznaniowe mają prawo zakładać prowadzić, na zasadach określonych w ustawach, odpowiednie instytucje, w tym zakłady dla osób potrzebujących opieki, szpitale inne zakłady lecznicze podmiotów leczniczych w rozumieniu przepisów o działalności leczniczej, żłobki schroniska dla dzieci.
+1. W celu realizacji działalności charytatywno-opiekuńczej kościoły i inne związki wyznaniowe mają prawo zakładać i prowadzić, na zasadach określonych w ustawach, odpowiednie instytucje, w tym zakłady dla osób potrzebujących opieki, szpitale i inne zakłady lecznicze, żłobki i schroniska dla dzieci.
 
 2. Środki na realizację działalności charytatywno-opiekuńczej pochodzą w szczególności z:
 
-- **1)** ofiar pieniężnych w naturze;
-- **2)** spadków, zapisów darowizn krajowych zagranicznych;
-- **3)** dochodów z imprez zbiórek publicznych;
-- **4)** subwencji, dotacji ofiar pochodzących od krajowych instytucji przedsiębiorstw państwowych, społecznych, wyznaniowych prywatnych;
-- **5)** odpłatności za usługi świadczone przez instytucje charytatywno-opiekuńcze kościołów innych związków wyznaniowych;
+- **1)** ofiar pieniężnych i w naturze,
+- **2)** spadków, zapisów i darowizn krajowych i zagranicznych,
+- **3)** dochodów z imprez i zbiórek publicznych,
+- **4)** subwencji, dotacji i ofiar pochodzących od krajowych instytucji i przedsiębiorstw państwowych, społecznych, wyznaniowych i prywatnych,
+- **5)** odpłatności za usługi świadczone przez instytucje charytatywno-opiekuńcze kościołów i innych związków wyznaniowych,
+- **6)** dochodów instytucji kościołów i innych związków wyznaniowych.
 
 **Art. 25.**
 
-1. W celu realizacji swoich funkcji kościoły inne związki wyznaniowe mają prawo wydawania prasy, książek, druków oraz zakładania posiadania wydawnictw oraz zakładów poligraficznych, z zachowaniem obowiązujących w tym zakresie przepisów prawa.
+1. W celu realizacji swoich funkcji kościoły i inne związki wyznaniowe mają prawo wydawania prasy, książek, druków oraz zakładania i posiadania wydawnictw oraz zakładów poligraficznych, z zachowaniem obowiązujących w tym zakresie przepisów prawa.
 
-2. Kościoły inne związki wyznaniowe mogą organizować własny kolportaż prasy lub korzystać z pośrednictwa innej sieci kolportażu.
+2. Kościoły i inne związki wyznaniowe mogą organizować własny kolportaż prasy lub korzystać z pośrednictwa innej sieci kolportażu.
 
-3. Dla realizacji postanowień ust. 1 kościoły inne związki wyznaniowe mogą otrzymywać jako darowizny z zagranicy maszyny, urządzenia, materiały poligraficzne papier.
+3. Dla realizacji postanowień ust. 1 kościoły i inne związki wyznaniowe mogą otrzymywać jako darowizny z zagranicy maszyny, urządzenia, materiały poligraficzne i papier.
 
-4. Kościoły inne związki wyznaniowe mają prawo do emitowania w radiu telewizji programów religijno-moralnych, społecznych kulturalnych w sposób określony w porozumieniach między władzami danego kościoła lub innego związku wyznaniowego a jednostkami publicznej radiofonii telewizji.
+4. Kościoły i inne związki wyznaniowe mają prawo do emitowania w radiu i telewizji programów religijno-moralnych i kulturalnych, w sposób określony w porozumieniu między władzami danego kościoła lub innego związku wyznaniowego a Komitetem do Spraw Radia i Telewizji „Polskie Radio i Telewizja”.
 
 **Art. 26.**
 
-1. Kościoły inne związki wyznaniowe mają prawo organizowania prowadzenia związanej z wypełnianiem swoich funkcji działalności kulturalnej artystycznej.
+1. Kościoły i inne związki wyznaniowe mają prawo organizowania i prowadzenia związanej z wypełnianiem swoich funkcji działalności kulturalnej i artystycznej.
 
-2. Dla realizacji prawa, o którym mowa w ust. 1, kościoły inne związki wyznaniowe mogą zakładać prowadzić odpowiednie instytucje oraz dystrybucję rozpowszechnianie filmów.
+2. Dla realizacji prawa, o którym mowa w ust. 1, kościoły i inne związki wyznaniowe mogą zakładać i prowadzić odpowiednie instytucje oraz dystrybucję i rozpowszechnianie filmów.
 
-3. Korzystanie z praw, o których mowa w ust. 1 2, następuje bez obowiązku uzyskiwania zezwoleń upoważnień, jeżeli działalność ta prowadzona jest na potrzeby realizacji zadań religijno-moralnych w sferze kultury. O podjęciu prowadzeniu tej działalności władze kościoła lub innego związku wyznaniowego powiadamiają państwowy organ, właściwy do udzielania takich zezwoleń upoważnień.
+3. Korzystanie z praw, o których mowa w ust. 1 i 2, następuje bez obowiązku uzyskiwania zezwoleń i upoważnień, jeżeli działalność ta prowadzona jest na potrzeby realizacji zadań religijno-moralnych w sferze kultury. O podjęciu i prowadzeniu tej działalności władze kościoła lub innego związku wyznaniowego powiadamiają państwowy organ, właściwy do udzielania takich zezwoleń i upoważnień.
 
-4. Dla realizacji postanowień ust. 1 2 kościoły inne związki wyznaniowe mogą otrzymywać jako darowizny z zagranicy urządzenia materiały.
+4. Dla realizacji postanowień ust. 1 i 2 kościoły i inne związki wyznaniowe mogą otrzymywać jako darowizny z zagranicy urządzenia i materiały.
 
 **Art. 27.**
 
-1. Działalność kościołów innych związków wyznaniowych nie może naruszać przepisów ogólnie obowiązujących ustaw chroniących bezpieczeństwo publiczne, porządek, zdrowie lub moralność publiczną, władzę rodzicielską albo podstawowe prawa wolności innych osób. odbywa się zgodnie z ogólnie obowiązującymi przepisami, chyba że ustawy stanowią inaczej.
+1. Działalność kościołów i innych związków wyznaniowych nie może naruszać przepisów ogólnie obowiązujących ustaw chroniących bezpieczeństwo publiczne, porządek, zdrowie lub moralność publiczną albo podstawowe prawa i wolności innych osób.
+
+2. Korzystanie przez kościoły i inne związki wyznaniowe ze swobody działania odbywa się zgodnie z ogólnie obowiązującymi przepisami, chyba że ustawy stanowią inaczej.
 
 **Art. 28.**
 
-1. W sprawach majątkowych kościoły inne związki wyznaniowe działają poprzez swoje osoby prawne.
+1. W sprawach majątkowych kościoły i inne związki wyznaniowe działają poprzez swoje osoby prawne.
 
-2. Osoby prawne kościołów innych związków wyznaniowych, ich organy, zakres kompetencji sposób powoływania oraz reprezentacji określają statuty (prawo wewnętrzne, zwane dalej „statutami”).
+2. Osoby prawne kościołów i innych związków wyznaniowych, ich organy, zakres kompetencji i sposób powoływania oraz reprezentacji określają statuty (prawo wewnętrzne, zwane dalej „statutami”).
 
 **Art. 29.**
 
-1. W stosunku do organizacji tworzonych na podstawie art. 19 pkt 14, jeżeli nie mają osobowości prawnej, nie stosuje się Prawa o stowarzyszeniach. Natomiast przepisy ustawy o zgromadzeniach stosuje się do nich jedynie w zakresie dotyczącym zebrań na drogach placach publicznych oraz w pomieszczeniach użyteczności publicznej.
+1. W stosunku do organizacji tworzonych na podstawie art. 19 pkt 14, jeżeli nie mają osobowości prawnej, nie stosuje się Prawa o stowarzyszeniach. Natomiast przepisy ustawy o zgromadzeniach stosuje się do nich jedynie w zakresie dotyczącym zebrań na drogach i placach publicznych oraz w budynkach państwowych.
 
-2. Organizacje, o których mowa w ust. 1, działają w ramach osób prawnych kościołów innych związków wyznaniowych, w których zostały powołane.
+2. Organizacje, o których mowa w ust. 1, działają w ramach osób prawnych kościołów i innych związków wyznaniowych, w których zostały powołane.
 
-3. Władze kościołów innych związków wyznaniowych czuwają nad zgodnością działania tych organizacji z ich celami religijnymi moralnymi.
+3. Władze kościołów i innych związków wyznaniowych czuwają nad zgodnością działania tych organizacji z ich celami religijnymi i moralnymi.
 
-### DZIAŁ III Rejestrowanie kościołów innych związków wyznaniowych
+### Dział III Tworzenie kościołów i innych związków wyznaniowych
 
-**Art. 30.** Prawo wpisu do rejestru kościołów innych związków wyznaniowych, zwanego dalej „rejestrem”, prowadzonego przez ministra właściwego do spraw wyznań religijnych , jest realizowane przez złożenie temu ministrowi, zwanemu dalej „organem rejestrowym”, deklaracji o utworzeniu kościoła lub innego związku wyznaniowego wniosku o wpis do rejestru.
+**Art. 30.** Prawo tworzenia kościołów i innych związków wyznaniowych jest realizowane przez złożenie w Urzędzie do Spraw Wyznań deklaracji oraz wpis do rejestru kościołów i innych związków wyznaniowych, zwanego dalej „rejestrem”.
 
-**Art. 31.**
-
-1. Prawo wniesienia wniosku, o którym mowa w art. 30, przysługuje co najmniej 100 obywatelom polskim posiadającym pełną zdolność do czynności prawnych, zwanych dalej „wnioskodawcami”.
-
-2. Wnioskodawcy składają listę zawierającą ich notarialnie poświadczone podpisy potwierdzające treść wniosku, o którym mowa w ust. 1, deklaracji o utworzeniu kościoła lub innego związku wyznaniowego, imię nazwisko, datę oraz numer PESEL każdego z wnioskodawców.
-
-3. Wnioskodawcy mogą wybrać spośród siebie co najmniej pięcioosobowy komitet założycielski reprezentujący ich w postępowaniu w sprawie wpisu do rejestru.
+**Art. 31.** Prawo złożenia deklaracji, o której mowa w art. 30, przysługuje co najmniej 15 obywatelom polskim posiadającym pełną zdolność do czynności prawnych.
 
 **Art. 32.**
 
-1. Wniosek, o którym mowa w art. 30, powinien zawierać:
+1. Deklaracja, o której mowa w art. 30, powinna zawierać:
 
-- **1)** listę, o której mowa w art. 31 ust. 2;
-- **2)** informację o dotychczasowych formach życia religijnego metodach działania kościoła lub innego związku wyznaniowego na terytorium Rzeczypospolitej Polskiej;
-- **3)** informację o podstawowych celach, źródłach zasadach doktrynalnych, obrzędach religijnych;
-- **4)** adres siedziby kościoła lub innego związku wyznaniowego oraz dane osób wchodzących do kierowniczych organów wykonawczych:
-    - **a)** imiona nazwisko,
-    - **b)** datę urodzenia,
-    - **c)** adres zamieszkania,
-    - **d)** nazwę, serię numer dokumentu tożsamości,
-    - **e)** nr PESEL;
-
-- **5)** statut.
-
-1a. W przypadku wybrania komitetu założycielskiego, o którym mowa w art. 31 ust. 3, wniosek o wpis do rejestru powinien zawierać także podpisany przez wnioskodawców protokół z wyboru tego komitetu określający datę miejsce wyborów oraz następujące dane osób wchodzących w jego skład:
-
-- **1)** imiona nazwisko;
-- **2)** datę urodzenia;
-- **3)** adres zamieszkania;
-- **4)** rodzaj, serię numer dokumentu tożsamości;
-- **5)** nr PESEL.
+- **1)** informację o podstawowych założeniach doktrynalnych wyznania,
+- **2)** listę osób zgłaszających, zawierającą imiona i nazwiska, obywatelstwo, datę urodzenia, miejsce zamieszkania i własnoręczne podpisy,
+- **3)** adres tymczasowej siedziby kościoła lub innego związku wyznaniowego,
+- **4)** statut.
 
 2. Statut powinien określać w szczególności:
 
-- **1)** nazwę kościoła lub innego związku wyznaniowego różną od nazw innych organizacji;
-- **2)** teren działania siedzibę władz;
-- **3)** cele działalności oraz formy zasady ich realizacji; podejmowania decyzji;
-- **5)** źródła finansowania;
-- **6)** tryb dokonywania zmian statutu;
-- **7)** sposób reprezentowania na zewnątrz oraz zaciągania zobowiązań majątkowych;
-- **8)** sposób nabywania utraty członkostwa oraz prawa obowiązki członków;
-- **9)** sposób powoływania, odwoływania oraz kompetencje osób duchownych, o których mowa w art. 12 ust. 3, o ile kościół lub inny związek wyznaniowy przewiduje tworzenie takich stanowisk;
-- **10)** sposób rozwiązania kościoła lub innego związku wyznaniowego przeznaczenie pozostałego majątku.
+- **1)** nazwę kościoła lub innego związku wyznaniowego różną od nazw innych organizacji,
+- **2)** teren działania i siedzibę władz,
+- **3)** cele działalności i zasady ich realizacji,
+- **4)** organy i ich kompetencje,
+- **5)** źródła finansowania,
+- **6)** tryb dokonywania zmian statutu,
+- **7)** sposób rozwiązania kościoła lub innego związku wyznaniowego i przeznaczenie pozostałego majątku.
 
-3. Jeżeli kościół lub inny związek wyznaniowy przewiduje tworzenie jednostek organizacyjnych mających osobowość prawną, statut powinien określać ich nazwy, teren działania, siedziby, zakres uprawnień, zasady tworzenia, znoszenia przekształcania tych jednostek, ich organy, zakres kompetencji, tryb podejmowania decyzji, sposób powoływania odwoływania tych organów, sposób reprezentowania na zewnątrz oraz zaciągania zobowiązań majątkowych, a także przeznaczenie majątku pozostałego po zakończeniu likwidacji osoby prawnej kościoła lub innego związku wyznaniowego.
+3. Jeżeli kościół lub inny związek wyznaniowy przewiduje tworzenie jednostek organizacyjnych, zakonów lub diakonatów mających osobowość prawną, w statucie powinny być określone nazwy, zakres uprawnień oraz zasady tworzenia, znoszenia i przekształcania tych jednostek oraz ich organy, zakres kompetencji, sposób powoływania i odwoływania tych organów.
 
-4. Jeżeli kościół lub inny związek wyznaniowy stanowi część organizacji o zasięgu międzynarodowym, w statucie powinny być określone zakres formy wzajemnych stosunków.
-
-5. Jeżeli kościół lub inny związek wyznaniowy przewiduje tworzenie jednostek organizacyjnych bez osobowości prawnej, w statucie powinny być określone nazwy, zasady tworzenia, znoszenia przekształcania tych jednostek.
+4. Jeżeli kościół lub inny związek wyznaniowy stanowi część organizacji o zasięgu międzynarodowym, w statucie powinny być określone zakres i formy wzajemnych stosunków.
 
 **Art. 33.**
 
-1. W trakcie postępowania w sprawie wpisu do rejestru organ rejestrowy może żądać od wnioskodawców wyjaśnień treści wniosku w zakresie określonym w art. 32, a także zwracać się do odpowiednich organów państwowych o sprawdzanie prawdziwości zawartych we wniosku danych.
+1. Jeżeli deklaracja, o której mowa w art. 30, nie zawiera wymaganych przez ustawę informacji, Minister-Kierownik Urzędu do Spraw Wyznań wyznacza trzydziestodniowy termin jej uzupełnienia, po którego upływie wydaje decyzję o odmowie przyjęcia deklaracji.
 
-2. Jeżeli organ rejestrowy w trakcie postępowania w sprawie wpisu do rejestru stwierdzi braki lub uchybienia w treści wniosku, w zakresie określonym w art. 32, wyznacza dwumiesięczny termin ich uzupełnienia, a po upływie tego terminu wydaje decyzję o odmowie wpisu do rejestru. przepisami ustaw chroniącymi bezpieczeństwo porządek publiczny, zdrowie, moralność publiczną, władzę rodzicielską albo podstawowe prawa wolności innych osób, organ rejestrowy wydaje decyzję o odmowie wpisu do rejestru.
+2. Jeżeli deklaracja, o której mowa w art. 30, zawiera postanowienia pozostające w sprzeczności z przepisami ustaw chroniących bezpieczeństwo publiczne, porządek, zdrowie lub moralność publiczną albo podstawowe prawa i wolności innych osób – Minister-Kierownik Urzędu do Spraw Wyznań wydaje decyzję o odmowie przyjęcia tej deklaracji.
 
-4. Decyzje, o których mowa w ust. 2 3, powinny być wydane w terminie 3 miesięcy od daty wszczęcia postępowania o wpis do rejestru. Na decyzje te może być wniesiona skarga do sądu administracyjnego.
+3. Decyzje, o których mowa w ust. 1 i 2, powinny być wydane w terminie dwóch miesięcy od daty zgłoszenia deklaracji. Od decyzji tych przysługuje prawo skargi do Naczelnego Sądu Administracyjnego w trybie przepisów Kodeksu postępowania administracyjnego.
 
 **Art. 34.**
 
-1. Jeżeli nie zachodzą okoliczności wskazane w art. 33 ust. 2 3, organ rejestrowy wydaje, w terminie 3 miesięcy od zgłoszenia deklaracji, decyzję o wpisie do rejestru.
+1. Jeżeli nie zachodzą okoliczności wskazane w art. 33, Minister-Kierownik Urzędu do Spraw Wyznań wydaje, w terminie dwóch miesięcy od zgłoszenia deklaracji, decyzję o wpisie do rejestru.
 
-2. Z chwilą wpisu do rejestru kościół lub inny związek wyznaniowy uzyskuje, jako całość, osobowość prawną oraz korzysta ze wszystkich uprawnień podlega obowiązkom określonym w ustawach.
+2. Z chwilą wpisu do rejestru kościół lub inny związek wyznaniowy uzyskuje, jako całość, osobowość prawną oraz korzysta z wszystkich uprawnień i podlega obowiązkom określonym w ustawach.
 
-3. Przepis ust. 2 stosuje się odpowiednio do jednostek organizacyjnych, zakonów diakonatów, o których mowa w art. 32 ust. 3.
+3. Przepis ust. 2 stosuje się odpowiednio do jednostek organizacyjnych, zakonów i diakonatów, o których mowa w art. 32 ust. 3.
 
-4. Do kościołów innych związków wyznaniowych wpisanych do rejestru stosuje się odpowiednio art. 14.
+4. Do kościołów i innych związków wyznaniowych wpisanych do rejestru stosuje się odpowiednio przepisy art. 14 i 15.
 
-**Art. 35.**
-
-1. Zmiany statutu kościoła lub innego związku wyznaniowego wpisanego do rejestru dokonuje się w trybie obowiązującym przy ich rejestrowaniu.
-
-2. Organ rejestrowy może domagać się aktualizacji danych warunkujących wpis do rejestru, określonych w art. 32 ust. 1 pkt 2–5.
+**Art. 35.** Zmiany statutu kościoła lub innego związku wyznaniowego wpisanego do rejestru dokonuje się w trybie obowiązującym przy ich tworzeniu.
 
 **Art. 36.**
 
-1. Wykreśleniu z rejestru podlega:
+1. Wykreślenia z rejestru podlega:
 
-- **1)** kościół lub inny związek wyznaniowy, którego sytuacja prawna majątkowa została uregulowana w odrębnej ustawie;
-- **2)** kościół lub inny związek wyznaniowy, który zawiadomił organ rejestrowy o zaprzestaniu swojej działalności;
-- **3)** kościół lub inny związek wyznaniowy, który utracił cechy warunkujące uzyskanie wpisu do rejestru; dotyczy to w szczególności kościoła lub innego związku wyznaniowego, który w ciągu 3 lat nie odpowiedział na żądanie organu rejestrowego nie zaktualizował wpisów do rejestru w zakresie określonym w art. 32 ust. 1 pkt 4.
+- **1)** kościół lub inny związek wyznaniowy, którego sytuacja prawna i majątkowa została uregulowana w odrębnej ustawie,
+- **2)** kościół lub inny związek wyznaniowy, który zawiadomił Urząd do Spraw Wyznań o zaprzestaniu swojej działalności,
+- **3)** kościół lub inny związek wyznaniowy, który nie przejawiał swojej działalności w okresie dwóch lat.
 
-2. Wykreślenie z rejestru następuje na podstawie decyzji organu rejestrowego. wykreślenie z rejestru następuje po przeprowadzeniu likwidacji.
+2. Wykreślenie z rejestru następuje na podstawie decyzji Ministra-Kierownika Urzędu do Spraw Wyznań.
 
-4. W przypadku, o którym mowa w ust. 1 pkt 2, likwidatorami są członkowie organu kościoła lub innego związku wyznaniowego uprawnionego do reprezentowania na zewnątrz zaciągania zobowiązań majątkowych, jeżeli statut lub, w razie braku odpowiednich postanowień statutu, decyzja właściwego organu kościoła lub innego związku wyznaniowego nie stanowi inaczej.
+3. W przypadku decyzji o wykreśleniu z rejestru z powodu zaprzestania przez kościół lub inny związek wyznaniowy działalności, Minister-Kierownik Urzędu do Spraw Wyznań wyznacza likwidatora, stosując odpowiednio przepisy Prawa o stowarzyszeniach.
 
-5. Organ rejestrowy, w drodze decyzji, zarządza likwidację wyznacza likwidatora:
+4. Przepis ust. 3 ma również zastosowanie, jeżeli zawiadomienie o zaprzestaniu działalności kościoła lub innego związku wyznaniowego nie określa likwidatora.
 
-- **1)** w przypadkach, o których mowa w ust. 1 pkt 3 art. 36a ust. 2;
-- **2)** w razie braku możliwości ustalenia likwidatora, o którym mowa w ust. 4.
+5. Jeżeli statut kościoła lub innego związku wyznaniowego nie stanowi inaczej majątek pozostały po zakończeniu postępowania likwidacyjnego może być przeznaczony wyłącznie na cele charytatywno-opiekuńcze.
 
-6. Przed zniesieniem osoby prawnej, o której mowa w art. 32 ust. 3, kościół lub inny związek wyznaniowy zarządza jej likwidację wyznacza likwidatora informując o tym organ rejestrowy oraz określa przeznaczenie majątku pozostałego po zakończeniu likwidacji.
+6. Od decyzji, o których mowa w ust. 2–4, przysługuje prawo skargi do Naczelnego Sądu Administracyjnego w trybie przepisów Kodeksu postępowania administracyjnego.
 
-7. Do obowiązków likwidatora stosuje się odpowiednio art. 37 ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261).
+**Art. 37.** Minister-Kierownik Urzędu do Spraw Wyznań, w drodze rozporządzenia, określa szczegółowe zasady i sposób prowadzenia rejestru, dane i informacje podlegające wpisowi, warunki udostępniania rejestru, wydawania wyciągów z rejestru oraz sposób wykreślenia kościoła lub innego związku wyznaniowego z rejestru.
 
-8. Jeżeli statut kościoła lub innego związku wyznaniowego nie stanowi inaczej, majątek pozostały po zakończeniu postępowania likwidacyjnego kościoła lub innego związku wyznaniowego albo osób prawnych, o których mowa w art. 32 ust. 3, może być przeznaczony wyłącznie na cele charytatywno-opiekuńcze w drodze decyzji organu rejestrowego.
+**Art. 38.** Przepisy niniejszego rozdziału stosuje się odpowiednio do krajowych organizacji międzykościelnych, jeżeli mają one mieć osobowość prawną. Do utworzenia takiej organizacji jest wymagana deklaracja podpisana przez władze co najmniej dwóch działających w Polskiej Rzeczypospolitej Ludowej kościołów i innych związków wyznaniowych.
 
-**Art. 36a.**
+### Dział IV Przepisy przejściowe i końcowe
 
-1. Organ rejestrowy lub prokurator może wystąpić do sądu okręgowego o stwierdzenie niezgodności działania kościoła lub innego związku wyznaniowego z przepisami prawa, o których mowa w art. 27 ust. 1, lub ze statutem, o którym mowa w art. 32.
+**Art. 39.**
 
-2. W razie stwierdzenia prawomocnym wyrokiem sądu, że działalność kościoła lub innego związku wyznaniowego rażąco narusza prawo lub postanowienia statutu, organ rejestrowy wykreśli z rejestru ten kościół lub inny związek wyznaniowy.
+1. Zachowują moc przepisy statutów kościołów i innych związków wyznaniowych, o ile nie pozostają w sprzeczności z przepisami niniejszej ustawy.
 
-**Art. 37.** Minister właściwy do spraw wyznań religijnych określa, w drodze rozporządzenia, zasady sposób prowadzenia rejestru, dane informacje podlegające wpisowi, sposób, formę termin aktualizacji wpisów do rejestru, warunki kościoła lub innego związku wyznaniowego z rejestru.
+2. Do czasu wydania przepisów wykonawczych do ustawy pozostają w mocy przepisy dotychczasowe.
 
-**Art. 38.** Przepisy niniejszego działu stosuje się odpowiednio do krajowych organizacji międzykościelnych, jeżeli mają one mieć osobowość prawną. Do utworzenia takiej organizacji jest wymagana deklaracja podpisana przez władze co najmniej dwóch działających w Rzeczypospolitej Polskiej kościołów innych związków wyznaniowych.
+**Art. 40.** Kościoły, których byt prawny był uregulowany przed dniem 6 sierpnia 1949 r. decyzjami Ministra Administracji Publicznej, zachowują swój dotychczasowy status prawny do czasu ustawowego uregulowania ich sytuacji prawnej.
 
-### DZIAŁ IIIa Regulacja spraw majątkowych niektórych kościołów
+**Art. 41.**
 
-**Art. 38a.**
+1. Kościoły i inne związki wyznaniowe, które w dniu wejścia w życie ustawy miały uregulowany byt prawny na zasadach i w trybie określonym w § 3, 4 i 7 rozporządzenia Ministra Administracji Publicznej z dnia 6 sierpnia 1949 r. w sprawie wykonania dekretu z dnia 5 sierpnia 1949 r. o zmianie niektórych przepisów Prawa o stowarzyszeniach (Dz. U. Nr 47, poz. 358), podlegają wpisowi do rejestru z urzędu.
 
-1. Tworzy się Międzykościelną Komisję Regulacyjną, zwaną dalej „Komisją”, w celu ostatecznego uregulowania spraw majątkowych między Państwem a kościołami ich osobami prawnymi, które zgłosiły roszczenia w trybie na zasadach określonych w:
-
-- **1)** art. 24–26 ustawy z dnia 13 maja 1994 r. o stosunku Państwa do Kościoła Ewangelicko-Reformowanego w Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 483);
-- **2)** art. 37 ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Ewangelicko-Metodystycznego w Rzeczypospolitej Polskiej (Dz. U. z 2014 r. poz. 1712 oraz z 2022 r. poz. 1700);
-- **3)** art. 40–42 ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 169 oraz z 2022 r. poz. 1700);
-- **4)** art. 35 ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Adwentystów Dnia Siódmego w Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz.
-- **2616)** .
-
-2. Roszczenia majątkowe wobec Państwa mogą również zgłaszać do Komisji w terminie do dnia 31 grudnia 1998 r. kościoły inne związki wyznaniowe, niewymienione w ust. 1, a także krajowe organizacje międzykościelne, jeżeli wskażą we wniosku, że na rzecz Skarbu Państwa przejęto własność nieruchomości lub ich części będących uprzednio własnością tych kościołów związków wyznaniowych oraz krajowych organizacji międzykościelnych. których mowa w ust. 2, mają odpowiednie zastosowanie przepisy ustaw wskazanych w ust. 1 pkt 1–4.
-
-4. Jeżeli przywrócenie kościelnej osobie prawnej własności nieruchomości nie jest możliwe z uwagi na trudne do przezwyciężenia przeszkody, przyznaje się jej nieruchomość zamienną, a jeżeli nie jest to możliwe, osobie tej przyznaje się odszkodowanie ustalone według przepisów o wywłaszczeniu nieruchomości .
-
-5. Rada Ministrów określi, w drodze rozporządzenia, z mienia których państwowych jednostek organizacyjnych lub gmin może być wyłączona nieruchomość zamienna lub na którą państwową jednostkę organizacyjną może być nałożony obowiązek zapłaty odszkodowania.
-
-**Art. 38b.**
-
-1. Przedmiotem postępowania regulacyjnego może być również nieodpłatne przekazanie na własność nieruchomości lub ich części, które były własnością kościelnych osób prawnych działających do 1945 r. na Ziemiach Zachodnich Północnych, w celu przywrócenia w nich sprawowania kultu religijnego, działalności oświatowo-wychowawczej, charytatywno-opiekuńczej opiekuńczowychowawczej.
-
-2. W razie niemożności dokonania regulacji, o której mowa w ust. 1, postępowanie ulega umorzeniu.
-
-**Art. 38c.** Majątek nieruchomy, przekazany na własność gminie w trybie ustawy z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym ustawę o pracownikach samorządowych (Dz. U. poz. 191, z późn. zm. ), podlega postępowaniu, o którym mowa w art. 38a 38b.
-
-**Art. 38d.**
-
-1. Minister właściwy do spraw wyznań religijnych po zasięgnięciu opinii władz kościołów, o których mowa w art. 38a ust. 1 pkt 1–4, określi, w drodze rozporządzenia, liczebność Komisji, szczegółowy tryb postępowania regulacyjnego oraz wynagrodzenie dla członków Komisji personelu pomocniczego, uwzględniając w szczególności organizację pracy Komisji, zadania współprzewodniczących orzekania nadawania klauzul wykonalności orzeczeniom ugodom.
-
-2. Komisja rozpatruje sprawy w zespołach orzekających, w skład których wchodzi po dwóch członków wyznaczonych przez ministra właściwego do spraw wyznań religijnych władze kościoła lub związku wyznaniowego, którego wniosek dotyczy.
-
-3. Postępowanie regulacyjne wszczyna się z chwilą złożenia wniosku w Komisji. Zespół orzekający po otrzymaniu wniosku o wszczęcie postępowania regulacyjnego bada, czy jest ono dopuszczalne, a wniosek niedopuszczalny odrzuca.
-
-4. Postępowania sądowe lub administracyjne dotyczące nieruchomości, w stosunku do których wszczęto postępowanie regulacyjne, ulegają zawieszeniu, a sądy organy prowadzące postępowania administracyjne przekazują ich akta do Komisji.
-
-5. Uczestnikami postępowania regulacyjnego są, oprócz wnioskodawcy, wszystkie zainteresowane jednostki państwowe, samorządowe kościelne.
-
-6. Uczestnicy postępowania regulacyjnego mogą zawrzeć ugodę przed zespołem orzekającym. Jeżeli ugoda nie zostanie zawarta, zespół orzekający wydaje orzeczenie.
-
-7. Regulacja nie może naruszać praw nabytych przez niepaństwowe osoby trzecie, a w szczególności przez inne kościoły związki wyznaniowe oraz rolników indywidualnych.
-
-8. Ugody zawarte przed zespołem orzekającym, jak orzeczenia uwzględniające wniosek, powinny określać:
-
-- **1)** stan prawny nieruchomości;
-- **2)** związane z tym stanem obowiązki uczestników postępowania, a w szczególności obowiązek wydania nieruchomości w wyznaczonym terminie, jeżeli nie znajduje się ona we władaniu wnioskodawcy;
-- **3)** w razie przyznania odszkodowania, obowiązek termin zapłaty należnej z tego tytułu kwoty.
-
-9. Od orzeczenia zespołu orzekającego nie przysługuje odwołanie.
-
-**Art. 38e.**
-
-1. Ugody orzeczenia mają moc sądowych tytułów egzekucyjnych.
-
-2. Ugody orzeczenia stanowią podstawę do dokonywania wpisów w księgach wieczystych w ewidencji gruntów.
-
-**Art. 38f.**
-
-1. Postępowanie regulacyjne jest wolne od opłat. orzeczenia jest wolne od podatków opłat z tym związanych.
-
-**Art. 38g.**
-
-1. Jeżeli zespół orzekający nie uzgodni orzeczenia, zawiadamia o tym pisemnie uczestników postępowania regulacyjnego.
-
-2. Uczestnicy postępowania regulacyjnego mogą, w terminie sześciu miesięcy od otrzymania zawiadomienia, wystąpić o podjęcie zawieszonego postępowania sądowego lub administracyjnego, a jeżeli nie było ono wszczęte – wystąpić na drogę sądową pod rygorem wygaśnięcia roszczenia. Przy rozpoznawaniu sprawy sąd stosuje zasady określone w art. 38a 38b.
-
-### DZIAŁ IV Przepisy przejściowe końcowe
-
-**Art. 39.** (pominięty)
-
-**Art. 40.** Stosunki Państwa z kościołami innymi związkami wyznaniowymi działającymi na podstawie wpisu do rejestru mogą być regulowane w drodze odrębnej ustawy.
-
-**Art. 41.** Kościoły inne związki wyznaniowe działające w dniu wejścia w życie ustawy jako stowarzyszenia zwykłe mogą nabyć osobowość prawną, jeżeli spełnią wymagania określone w art. 30–32.
+2. Kościoły i inne związki wyznaniowe działające w dniu wejścia w życie ustawy jako stowarzyszenia zwykłe, mogą nabyć osobowość prawną, jeżeli spełnią wymagania określone w art. 30–32.
 
 **Art. 42.**
 
-1. Osoby należące do kościołów innych związków wyznaniowych, których święta religijne nie są dniami ustawowo wolnymi od pracy, mogą na własną prośbę uzyskać zwolnienie od pracy lub nauki na czas niezbędny do obchodzenia tych świąt, zgodnie z wymogami wyznawanej przez siebie religii.
+1. Osoby należące do kościołów i innych związków wyznaniowych, których święta religijne nie są dniami ustawowo wolnymi od pracy, mogą na własną prośbę uzyskać zwolnienie od pracy lub nauki na czas niezbędny do obchodzenia tych świąt, zgodnie z wymogami wyznawanej przez siebie religii.
 
 2. Osoby niepełnoletnie mogą korzystać z prawa określonego w ust. 1 na wniosek swych rodziców bądź opiekunów prawnych.
 
-3. Zwolnienie od pracy, o którym mowa w ust. 1 2, może być udzielone pod warunkiem odpracowania czasu zwolnienia, bez prawa do dodatkowego wynagrodzenia za pracę w dni ustawowo wolne od pracy lub pracę w godzinach nadliczbowych.
+3. Zwolnienie od pracy, o którym mowa w ust. 1 i 2, może być udzielone pod warunkiem odpracowania czasu zwolnienia, bez prawa do dodatkowego wynagrodzenia za pracę w dni ustawowo wolne od pracy lub pracę w godzinach nadliczbowych.
 
-4. Minister właściwy do spraw pracy oraz minister właściwy do spraw oświaty wychowania, minister właściwy do spraw szkolnictwa wyższego , w porozumieniu z określają szczegółowe zasady udzielania zwolnień, o których mowa w ust. 1 2.
+4. Minister Pracy i Polityki Socjalnej oraz Minister Edukacji Narodowej, w porozumieniu z Ministrem-Kierownikiem Urzędu do Spraw Wyznań, w drodze rozporządzenia, określają szczegółowe zasady udzielania zwolnień, o których mowa w ust. 1 i 2.
 
-**Art. 43.** (pominięty)
+**Art. 43.** W ustawie z dnia 15 lipca 1961 r. o rozwoju systemu oświaty i wychowania (Dz. U. Nr 32, poz. 160, z 1971 r. Nr 12, poz. 115, z 1972 r. Nr 16, poz. 114, z 1975 r. Nr 45, poz. 234 i z 1984 r. Nr 49, poz. 253) w art. 1 akapity drugi i trzeci otrzymują brzmienie: „ Zmierza ono do tego, aby uczniom i wychowankom zapewnić wiedzę o przyrodzie i życiu społecznym, o dziejach oraz kulturze narodu i ludzkości, aby zapewnić kwalifikacje do pracy zawodowej. Szkoły i inne placówki oświatowo-wychowawcze wychowują w duchu zasad współżycia społecznego, w duchu umiłowania Ojczyzny, pokoju, wolności, sprawiedliwości społecznej i braterstwa z ludźmi wszystkich krajów, uczą zamiłowania i szacunku dla skutecznej pracy, poszanowania mienia narodowego, przygotowują do czynnego udziału w rozwoju kraju, jego gospodarki i kultury. ”
 
-**Art. 44.** (pominięty)
+**Art. 44.** W ustawie z dnia 19 kwietnia 1968 r. o bibliotekach (Dz. U. Nr 12, poz. 63 i z 1984 r. Nr 26, poz. 129) w art. 34 po ust. 2 dodaje się ust. 2a w brzmieniu: „ 2a. Obowiązkom określonym w ust. 1 i 2 nie podlegają biblioteki i zbiory materiałów bibliotecznych należące do kościołów i innych związków wyznaniowych oraz ich osób prawnych, które o podjęciu publicznego udostępnienia zbiorów powiadamiają organ określony w ust. 1. ” .
 
-**Art. 45.** Ustawa wchodzi w życie z dniem ogłoszenia .
+**Art. 45.** Ustawa wchodzi w życie z dniem ogłoszenia.
 

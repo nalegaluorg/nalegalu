@@ -8,12 +8,10 @@ pos: 638
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy o Trybunale Konstytucyjnym oraz ustawy o zmianie ustawy Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw
-
-*USTAWA z dnia 9 czerwca 2000 r.*
+# Ustawa z dnia 9 czerwca 2000 r. o zmianie ustawy o Trybunale Konstytucyjnym oraz ustawy o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,32 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2000-06-09 |
 | Data wydania | 2000-07-07 |
+| Wejście w życie | 2000-10-08 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000530638) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/638/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz.U. Nr 102, poz. 643 i z 2000 r. Nr 48, poz. 552) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643 i z 2000 r. Nr 48, poz. 552) wprowadza się następujące zmiany:
+
+- **1)** w art. 6: dodaje się ust. 2a w brzmieniu: „
+    - **a)**
+
+2a. Sędziowie Trybunału Konstytucyjnego przechodzą w stan spoczynku po ukończeniu swojej kadencji. ” , w ust. 3 dodaje się zdanie drugie w brzmieniu: „ Do sędziów, którzy skorzystają z tego prawa, nie ma zastosowania przepis ust. 2a. ” ;
+
+- **b)**
+- **2)** w art. 39 dodaje się ust. 3 w brzmieniu: „
+
+3. Przepisu ust. 1 pkt 3 nie stosuje się, jeżeli wydanie orzeczenia o akcie normatywnym, który utracił moc obowiązującą przed wydaniem orzeczenia, jest konieczne dla ochrony konstytucyjnych wolności i praw. ” ;
+
+- **3)** w art. 46: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Skarga konstytucyjna, zwana dalej „skargą”, może być wniesiona po wyczerpaniu drogi prawnej, o ile droga ta jest przewidziana, w ciągu 3 miesięcy od doręczenia skarżącemu prawomocnego wyroku, ostatecznej decyzji lub innego ostatecznego rozstrzygnięcia. ” , skreśla się ust. 3 i 4;
+
+- **b)**
+- **4)** w art. 48 w ust. 1 wyrazy „Skarga powinna być sporządzona przez adwokata lub radcę prawnego” zastępuje się wyrazami „Skargę i zażalenie na postanowienie o odmowie nadania skardze dalszego biegu sporządzają adwokat lub radca prawny”;
+- **5)** w art. 59 w ust. 2 skreśla się wyraz „inny”.
+
+**Art. 2.** W ustawie z dnia 28 sierpnia 1997 r. o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw (Dz. U. Nr 124, poz. 782, z 1998 r. Nr 98, poz. 607 i z 1999 r. Nr 75, poz. 853) w art. 7 skreśla się zdanie drugie.
 
 **Art. 3.** Uprawnienia nabyte niniejszą ustawą przez sędziów Trybunału Konstytucyjnego przysługują od momentu wejścia w życie ustawy również sędziom Trybunału Konstytucyjnego pozostającym w stanie spoczynku.
 

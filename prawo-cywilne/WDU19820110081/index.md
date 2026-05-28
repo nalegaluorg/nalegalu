@@ -22,12 +22,44 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1982-03-26 |
 | Data wydania | 1982-04-06 |
+| Wejście w życie | 1982-04-06 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19820110081) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1982/81/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z 1971 r. Nr 27, poz. 252 i z 1976 r. Nr 19, poz. 122) wprowadza się następujące zmiany:
 
+- **1)** art. 131 otrzymuje brzmienie: „
+
 **Art. 131.** Przy tłumaczeniu i stosowaniu przepisów niniejszego kodeksu należy mieć na względzie, że Polska Rzeczpospolita Ludowa gwarantuje własność i całkowitą ochronę indywidualnych gospodarstw rolnych, stanowiących trwały i równoprawny element społeczno-gospodarczego ustroju Polskiej Rzeczypospolitej Ludowej. ” ;
+
+- **2)** w art. 160:
+    - **a)**
+
+§ 1. otrzymuje brzmienie: „
+
+§ 1. Własność nieruchomości rolnej lub jej części może być przeniesiona na rzecz osoby fizycznej tylko wtedy, gdy nabywca:
+
+- **1)** stale pracuje w jakimkolwiek gospodarstwie rolnym bezpośrednio przy produkcji rolnej albo
+- **2)** ma kwalifikacje do prowadzenia gospodarstwa rolnego. ” ,
+    - **b)**
+
+§ 3. otrzymuje brzmienie: „
+
+§ 3. Rozporządzenie Rady Ministrów, wydane po zasięgnięciu opinii właściwej komisji sejmowej oraz sejmowej Komisji Prac Ustawodawczych, określi, jakie nieruchomości uważa się za nieruchomości rolne, jakie gospodarstwo uważa się za gospodarstwo rolne, jakie kwalifikacje uważa się za kwalifikacje do prowadzenia gospodarstwa rolnego oraz organ właściwy do stwierdzania spełnienia warunków wymaganych dla nabycia własności nieruchomości rolnej przez osobę fizyczną i do wydawania zezwoleń na nabycie własności nieruchomości rolnej przez osoby prawne. Rozporządzenie to może uzależnić przeniesienie własności nieruchomości rolnej od przejęcia przez nabywcę ciążących na niej długów z tytułu nadania albo z tytułu sprzedaży przez Państwo. ” ;
+
+- **3)** w art. 161: § 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+§ 1. Obszar nabytej przez osobę fizyczną nieruchomości rolnej, wraz z obszarem nieruchomości rolnej stanowiącej już własność nabywcy lub wraz z obszarem odpowiadającym jego udziałowi we współwłasności takiej nieruchomości, nie może przekraczać norm obszarowych, które według przepisów o przeprowadzeniu reformy rolnej stanowią górną granicę obszaru nieruchomości nie podlegającej przejęciu przez Państwo na cele reformy rolnej.
+
+§ 2. W razie przekroczenia obszaru wymienionego w § 1 nadwyżka może być przejęta na własność Państwa, chyba że przekroczenie obszaru jest nieznaczne, a przejęcie nadwyżki nie byłoby celowe. Przejęcie następuje bez odszkodowania, w stanie wolnym od obciążeń, z wyjątkiem obciążeń z tytułu służebności gruntowych. O przejęciu nadwyżki orzeka sąd w postępowaniu nieprocesowym na wniosek Skarbu Państwa. ” .
+
+- **b)**
+
+§ 4. uchyla się;
+
+- **4)** art. 162 uchyla się;
+- **5)** art. 163 otrzymuje brzmienie: „
 
 **Art. 163.**
 
@@ -39,7 +71,11 @@ source: "eli-html"
 
 **Art. 164.** Przepisów artykułu poprzedzającego nie stosuje się do przeniesienia własności nieruchomości rolnej na rzecz Państwa. ” ;
 
+- **7)** art. 165 otrzymuje brzmienie: „
+
 **Art. 165.** Rozporządzenie Rady Ministrów, wydane po zasięgnięciu opinii właściwej komisji sejmowej, określi warunki uznania gospodarstwa rolnego za zdolne do towarowej produkcji rolnej oraz organ właściwy do stwierdzenia tych warunków. Jeżeli przeniesienie własności nieruchomości rolnej lub jej części następuje w drodze orzeczenia sądu lub ugody sądowej, zdolność gospodarstwa rolnego do towarowej produkcji rolnej ustala sąd. ” ;
+
+- **8)** art. 214 otrzymuje brzmienie: „
 
 **Art. 214.**
 
@@ -82,7 +118,15 @@ source: "eli-html"
 
 **Art. 1059.** Spadkobiercy dziedziczą z ustawy gospodarstwo rolne, jeżeli w chwili otwarcia spadku:
 
+- **1)** odpowiadają warunkom wymaganym dla nabycia własności nieruchomości rolnej w drodze przeniesienia własności albo
+- **2)** są małoletni bądź też pobierają naukę zawodu lub uczęszczają do szkół, albo
+- **3)** są trwale niezdolni do pracy. ” ;
+- **14)** art. 1060 otrzymuje brzmienie: „
+
 **Art. 1060.** W granicach określonych w art. 931 § 2 wnuki spadkodawcy, które w chwili otwarcia spadku odpowiadają warunkom przewidzianym w art. 1059 pkt 1, dziedziczą gospodarstwo rolne także wtedy, gdy ich ojciec lub matka nie mogą gospodarstwa dziedziczyć dla braku warunków przewidzianych w art. 1059. Przepis ten stosuje się odpowiednio do dalszych zstępnych. ” ;
+
+- **15)** art. 1061 uchyla się;
+- **16)** art. 1062 otrzymuje brzmienie: „
 
 **Art. 1062.**
 
@@ -94,7 +138,11 @@ source: "eli-html"
 
 **Art. 1063.** Jeżeli ani małżonek spadkodawcy, ani żaden z jego krewnych powołanych do dziedziczenia z ustawy nie odpowiada warunkom przewidzianym dla dziedziczenia gospodarstwa rolnego albo jeżeli uprawnionymi do dziedziczenia są wyłącznie osoby, które w chwili otwarcia spadku są trwale niezdolne do pracy, gospodarstwo dziedziczą spadkobiercy na zasadach ogólnych. ” ;
 
+- **18)** art. 1064 otrzymuje brzmienie: „
+
 **Art. 1064.** Rozporządzenie Rady Ministrów określi wypadki, w których pobieranie nauki zawodu lub uczęszczanie do szkół uprawnia do dziedziczenia gospodarstwa rolnego, oraz zasady i tryb stwierdzania trwałej niezdolności do pracy. ” ;
+
+- **19)** art. 1065 otrzymuje brzmienie: „
 
 **Art. 1065.**
 
@@ -110,9 +158,27 @@ source: "eli-html"
 
 **Art. 1068.** Obszar nabytej przez osobę fizyczną w drodze dziedziczenia lub zapisu nieruchomości rolnej wraz z obszarem nieruchomości rolnej stanowiącej już własność tego spadkobiercy lub zapisobiercy albo z obszarem odpowiadającym jego udziałowi we współwłasności nie może przekraczać obszaru, który według przepisów o przeprowadzeniu reformy rolnej stanowi górną granicę obszaru nieruchomości nie podlegającej przejęciu przez Państwo na cele reformy rolnej. Przepisy art. 161 § 2 i 3 stosuje się odpowiednio. ” ;
 
+- **21)** art. 1069 otrzymuje brzmienie: „
+
 **Art. 1069.** Jeżeli do spadku należy gospodarstwo rolne, spadkobierca może zbyć spadek w całości lub w części tylko osobie odpowiadającej warunkom wymaganym dla nabycia własności nieruchomości rolnej w drodze przeniesienia własności. Dotyczy to również zbycia udziału spadkowego. ” ;
 
+- **22)** w art. 1071: w § 1 w zdaniu pierwszym wyrazy: „i nie jest trwale niezdolny do pracy” skreśla się; § 2 i 3 otrzymują brzmienie: „
+    - **a)**
+    - **b)**
+
+§ 2. W braku zgody między współspadkobiercami sąd przyzna gospodarstwo rolne temu ze spadkobierców, który stale pracuje w tym gospodarstwie, chyba że interes społeczno-gospodarczy przemawia za wyborem innego spadkobiercy.
+
+§ 3. Spadkobierca, który w chwili działu spadku jest trwale niezdolny do pracy, może otrzymać gospodarstwo rolne tylko wtedy, gdy jest to usprawiedliwione „szczególnymi okolicznościami sprawy”. ” ;
+
+- **23)** w art. 1073 zdanie drugie skreśla się;
+- **24)** art. 1074 uchyla się;
+- **25)** art. 1085 otrzymuje brzmienie: „
+
 **Art. 1085.** Spadkobierca, który w wyniku działu spadku otrzymał gospodarstwo rolne i zbył je przed upływem lat dziesięciu od daty otwarcia spadku, obowiązany jest do wydania korzyści, uzyskanych w wyniku zbycia gospodarstwa, pozostałym spadkobiercom dziedziczącym gospodarstwo rolne, stosownie do ich udziałów w tym gospodarstwie. ” ;
+
+- **26)** w art. 1088 § 2 otrzymuje brzmienie: „
+
+§ 2. Jeżeli w chwili działu spadku żaden ze spadkobierców nie odpowiada warunkom określonym w paragrafie poprzedzającym, wkład gruntowy wraz z działką przyzagrodową i siedliskową ulega sprzedaży stosownie do przepisów kodeksu postępowania cywilnego. W takim wypadku rolniczej spółdzielni produkcyjnej przysługuje prawo pierwokupu, ”
 
 **Art. 2.**
 

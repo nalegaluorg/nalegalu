@@ -1,0 +1,234 @@
+---
+title: "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 25 lutego 2019 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu \"Modernizacja gospodarstw rolnych\" w ramach poddziałania \"Wsparcie inwestycji w gospodarstwach rolnych\" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020"
+address: WDU20190000407
+eli: DU/2019/407
+publisher: DU
+year: 2019
+pos: 407
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 25 lutego 2019 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Modernizacja gospodarstw rolnych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2019 poz. 407 |
+| ISAP | WDU20190000407 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2019-02-25 |
+| Data wydania | 2019-03-01 |
+| Wejście w życie | 2019-03-02 |
+| Ostatnia zmiana | 2025-03-06 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000407) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/407/text.pdf) |
+
+Treść rozporządzenia
+Na podstawie art. 45 ust. 1 pkt 1 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2018 r. poz. 627 oraz z 2019 r. poz. 83) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 21 sierpnia 2015 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Modernizacja gospodarstw rolnych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1371, z 2016 r. poz. 399 i 1617, z 2017 r. poz. 1041 oraz z 2018 r. poz. 544) wprowadza się następujące zmiany:
+1)
+w § 2:
+a)
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+„
+3a.
+Przepisu ust. 3 nie stosuje się do rolnika będącego osobą fizyczną, który prowadzi działalność rolniczą przez okres krótszy niż 12 miesięcy poprzedzających miesiąc złożenia wniosku o przyznanie pomocy.
+” ,
+b)
+ust. 6 otrzymuje brzmienie:
+„
+6.
+W przypadku rolnika będącego osobą prawną albo spółką osobową w rozumieniu ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2017 r. poz. 1577, z późn. zm.) pomoc jest przyznawana, jeżeli poza warunkami wymienionymi w ust. 1 jest ponadto wpisany do rejestru przedsiębiorców w Krajowym Rejestrze Sądowym co najmniej od dnia złożenia wniosku o przyznanie pomocy, a w przypadku przedsiębiorcy zagranicznego będącego osobą prawną albo jednostką organizacyjną niebędącą osobą prawną posiadającą zdolność prawną, który wykonuje działalność gospodarczą na terytorium Rzeczypospolitej Polskiej w ramach oddziału – jeżeli poza warunkami wymienionymi w ust. 1 jego oddział jest ponadto wpisany do rejestru przedsiębiorców w Krajowym Rejestrze Sądowym co najmniej od dnia złożenia wniosku o przyznanie pomocy.
+” ,
+c)
+w ust. 7:
+– pkt 4 otrzymuje brzmienie: „ 4) każdy ze wspólników będący osobą prawną, z wyjątkiem przedsiębiorcy zagranicznego będącego osobą prawną, albo spółką osobową w rozumieniu ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych jest wpisany do rejestru przedsiębiorców w Krajowym Rejestrze Sądowym co najmniej od dnia złożenia wniosku o przyznanie pomocy; ” ,
+– dodaje się pkt 5 w brzmieniu: „ 5) oddział każdego przedsiębiorcy zagranicznego będącego osobą prawną albo jednostką organizacyjną niebędącą osobą prawną posiadającą zdolność prawną, który wykonuje działalność gospodarczą na terytorium Rzeczypospolitej Polskiej w ramach tego oddziału, jest wpisany do rejestru przedsiębiorców w Krajowym Rejestrze Sądowym co najmniej od dnia złożenia wniosku o przyznanie pomocy. ” ;
+2)
+w § 4 po ust. 6 dodaje się ust. 6a i 6b w brzmieniu:
+„
+6a.
+Za staż pracy w rolnictwie, o którym mowa w § 5 ust. 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 13 lipca 2015 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej na operacje typu „Premie dla młodych rolników” w ramach poddziałania „Pomoc w rozpoczęciu działalności gospodarczej na rzecz młodych rolników” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2018 r. poz. 759 i 1021), uznaje się okres liczony do dnia złożenia wniosku o przyznanie pomocy, w którym osoba ubiegająca się o przyznanie pomocy:
+1)
+podlegała ubezpieczeniu społecznemu rolników jako rolnik lub domownik lub ubezpieczeniu społecznemu z tytułu prowadzenia działalności rolniczej w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) lub
+2)
+była zatrudniona w gospodarstwie na podstawie umowy o pracę lub spółdzielczej umowy o pracę, na stanowisku związanym z prowadzeniem produkcji rolnej, lub
+3)
+wykonywała pracę związaną z prowadzeniem działalności rolniczej w charakterze członka spółdzielni produkcji rolnej, lub
+4)
+odbyła staż dla bezrobotnych, obejmujący wykonywanie czynności związanych z prowadzeniem działalności rolniczej.
+6b.
+Dokumentem potwierdzającym okoliczności wymienione w ust. 6a:
+1)
+pkt 1 – jest zaświadczenie właściwej jednostki organizacyjnej Kasy Rolniczego Ubezpieczenia Społecznego o okresie podlegania ubezpieczeniu społecznemu rolników lub dokument potwierdzający podleganie ubezpieczeniu społecznemu z tytułu prowadzenia działalności rolniczej w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA);
+2)
+pkt 2 – jest świadectwo pracy wydane przez pracodawcę na podstawie przepisów prawa pracy obowiązujących w Rzeczypospolitej Polskiej lub w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA);
+3)
+pkt 3 – jest zaświadczenie o zatrudnieniu zawierające informację potwierdzającą zatrudnienie na stanowisku związanym z prowadzeniem produkcji rolnej, wydane przez spółdzielnię produkcji rolnej;
+4)
+pkt 4 – jest zaświadczenie o odbyciu stażu dla bezrobotnych w gospodarstwie, wydane przez starostę lub dokument potwierdzający odbycie takiego stażu, wydany przez właściwy organ lub instytucję innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – w przypadku odbycia takiego stażu w tych państwach.
+” ;
+3)
+w § 6:
+a)
+w ust. 3 w pkt 5 po wyrazie „rolnikowi” dodaje się wyrazy „lub jego małżonkowi”,
+b)
+w ust. 6 w pkt 5 po wyrazie „rolnikowi” dodaje się wyrazy „lub jego małżonkowi”;
+4)
+w § 7:
+a)
+w ust. 2:
+– w pkt 2 skreśla się wyrazy „lub przeznaczenia”,
+– pkt 10 otrzymuje brzmienie: „ 10) inwestycji trwale związanych z gruntem lub nieruchomością, w tym inwestycji związanych z zakładaniem sadów lub plantacji krzewów owocowych, gatunków owocujących efektywnie dłużej niż 5 lat: a) innych niż położone na gruntach stanowiących własność lub współwłasność podmiotu ubiegającego się o przyznanie pomocy lub przedmiot użytkowania wieczystego lub dzierżawy z Zasobu Własności Rolnej Skarbu Państwa lub od jednostek samorządu terytorialnego zawartej na czas nieoznaczony albo na okres co najmniej 7 lat liczony od dnia złożenia wniosku o przyznanie pomocy lub b) realizowanych przez osoby wspólnie wnioskujące; ” ,
+– dodaje się pkt 11 w brzmieniu: „ 11) kosztów dokończenia: budowy, przebudowy lub remontu połączonego z modernizacją budynków lub budowli wykorzystywanych do produkcji rolnej. ” ,
+b)
+ust. 3 otrzymuje brzmienie:
+„
+3.
+W przypadku operacji realizowanej w obszarach, o których mowa w § 4 ust. 1 pkt 1 lit. a-c, pomoc przyznaje się w formie refundacji części kosztów kwalifikowalnych, o których mowa w ust. 1 pkt 1, 2, 4 i 5, mogących służyć produkcji w danym obszarze wsparcia, przy czym operacja ta:
+1)
+obejmuje koszty kwalifikowalne, o których mowa w ust. 1 pkt 1, związane bezpośrednio z:
+a)
+budową lub modernizacją budynków inwentarskich, w tym ich wyposażaniem, lub
+b)
+adaptacją innych istniejących w gospodarstwie budynków na budynki inwentarskie, w tym ich wyposażaniem, lub
+c)
+budową lub modernizacją magazynów paszowych w gospodarstwach, w których jest prowadzona produkcja zwierzęca, w tym ich wyposażaniem;
+2)
+może obejmować tylko koszty niezwiązane bezpośrednio z kosztami, o których mowa w pkt 1 – gdy rolnikowi, któremu w wyniku złożenia wniosku o przyznanie pomocy w latach 2015–2018 w obszarach, o których mowa w § 4 ust. 1 pkt 1 lit. a-c, wypłacono pomoc za operację zrealizowaną lub przyznano pomoc na operację i operacja nie została zakończona.
+” ;
+5)
+w § 8:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Pomoc przyznaje się i wypłaca do wysokości limitu, który w okresie realizacji programu, na jednego beneficjenta i na jedno gospodarstwo, wynosi maksymalnie:
+1)
+500 tys. zł, z zastrzeżeniem pkt 2 i ust. 1a;
+2)
+200 tys. zł – na inwestycje niezwiązane bezpośrednio z budową, modernizacją budynków inwentarskich, w tym ich wyposażaniem, lub adaptacją innych istniejących w gospodarstwie budynków na budynki inwentarskie, w tym ich wyposażaniem, lub budową lub modernizacją magazynów paszowych w gospodarstwach, w których jest prowadzona produkcja zwierzęca, w tym ich wyposażaniem.
+” ,
+b)
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+„
+1a.
+Na operacje realizowane w obszarze, o którym mowa w § 4 ust. 1 pkt 1 lit. a, wysokość limitu, o którym mowa w ust. 1 pkt 1, wynosi maksymalnie 900 tys. zł.
+” ,
+c)
+w ust. 2 po wyrazach „ust. 1” dodaje się wyrazy „i 1a”,
+d)
+w ust. 3 wyrazy „ust. 1 pkt 1 i 3” zastępuje się wyrazami „ust. 1 pkt 1 i ust. 1a”;
+6)
+w § 13:
+a)
+w ust. 1:
+– w pkt 1 w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ c) współposiadacza gospodarstwa, jeżeli wyraził zgodę na nadanie mu tego numeru – w przypadku gdy gospodarstwo jest przedmiotem współposiadania; ” ,
+– w pkt 2 lit. e otrzymuje brzmienie: „ e) numer identyfikacji podatkowej (NIP), o ile został nadany; ” ,
+– po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) numer identyfikacji podatkowej (NIP) oddziału przedsiębiorcy zagranicznego, który wykonuje działalność gospodarczą na terytorium Rzeczypospolitej Polskiej w formie oddziału – w przypadku takiego przedsiębiorcy; ” ,
+– uchyla się pkt 5 i 8,
+b)
+w ust. 2 wyrazy „pkt 1–6, 8–10” zastępuje się wyrazami „pkt 1–4, 6, 9 i 10”,
+c)
+w ust. 3:
+– pkt 2 otrzymuje brzmienie: „ 2) kopie dokumentów określonych w: a) załączniku nr 1 do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 13 lipca 2015 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej na operacje typu „Premie dla młodych rolników” w ramach poddziałania „Pomoc w rozpoczęciu działalności gospodarczej na rzecz młodych rolników” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, potwierdzających posiadanie kwalifikacji zawodowych w zakresie dotyczącym wykształcenia, b) § 4 ust. 6b potwierdzających posiadanie kwalifikacji zawodowych w zakresie dotyczącym stażu pracy – w przypadku operacji realizowanej przez młodego rolnika; ” ,
+– w pkt 4 po wyrazie „ust. 3” dodaje się wyrazy „, z wyjątkiem podmiotu ubiegającego się o przyznanie pomocy będącego rolnikiem, o którym mowa w § 2 ust. 3a”,
+– pkt 5 i 6 otrzymują brzmienie: „ 5) plan rozmieszczenia na terenie gospodarstwa budynków i budowli, a w przypadku operacji związanych z zakładaniem lub wyposażeniem plantacji wieloletnich – również tych plantacji, oraz rzuty budynków służących do produkcji rolnej wraz z ich rozplanowaniem wewnętrznym w zakresie niezbędnym do oceny realizowanej operacji – w przypadku operacji niedotyczącej wyłącznie zakupu maszyn lub urządzeń, które będą wykorzystywane wyłącznie poza budynkami i budowlami; 6) kopię umowy przedwstępnej sprzedaży całej produkcji wytworzonej w gospodarstwie w związku z realizacją operacji, jeżeli podmiot ubiegający się o przyznanie pomocy jest w jej posiadaniu – w przypadku gdy w związku z realizacją operacji wzrośnie produkcja; ” ,
+– uchyla się pkt 7 i 11,
+– w pkt 14 w lit. c po wyrazie „współposiadania” dodaje się wyrazy „, z wyłączeniem współposiadania nieruchomości w ramach wspólnot gruntowych”,
+– pkt 17 otrzymuje brzmienie: „ 17) kopię projektu budowlanego – w przypadku gdy operacja obejmuje inwestycję polegającą na budowie, przebudowie lub remoncie połączonym z modernizacją, na realizację której jest wymagane uzyskanie pozwolenia na budowę; ” ,
+– po pkt 17 dodaje się pkt 17a w brzmieniu: „ 17a) rysunki planowanych do wykonania robót budowlanych umożliwiające poprawne zweryfikowanie kosztorysu inwestorskiego dołączonego do wniosku o przyznanie pomocy wraz z opisem zakresu planowanych robót budowlanych i szkicem sytuacyjnym rozmieszczenia przedmiotu objętego operacją w stosunku do pozostałych budynków na terenie gospodarstwa rolnego – w przypadku operacji obejmujących inwestycję polegającą na budowie, przebudowie lub remoncie połączonym z modernizacją niewymagającej pozwolenia na budowę; ” ,
+– w pkt 18 po wyrazie „dokumentów” dodaje się wyrazy „, w tym opinii,”,
+– pkt 19 otrzymuje brzmienie: „ 19) zaświadczenie wydane przez powiatowego lekarza weterynarii dotyczące warunków utrzymywania zwierząt gospodarskich w zakresie niezbędnym do ubiegania się lub otrzymania pomocy finansowej ze środków pochodzących z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich – w przypadku gdy operacja jest związana z produkcją zwierzęcą; ” ,
+– pkt 26 otrzymuje brzmienie: „ 26) kopię dokumentu potwierdzającego członkostwo w grupie producentów rolnych w rozumieniu ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. z 2018 r. poz. 1026), zwanej dalej „grupą producentów rolnych”, lub organizacji producentów w rozumieniu ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U. z 2018 r. poz. 945), lub ustawy z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U. z 2018 r. poz. 724 i 1578), lub organizacji producentów owoców i warzyw w rozumieniu ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. z 2018 r. poz. 1131 i 1633), zwanych dalej „organizacjami producentów”; ” ;
+7)
+w § 16:
+a)
+w ust. 2:
+– pkt 3 otrzymuje brzmienie: „ 3) jeżeli w dniu złożenia wniosku o przyznanie pomocy podmiot ubiegający się o przyznanie pomocy posiada: a) certyfikat lub świadectwo potwierdzające, że uczestniczy w unijnym systemie jakości, o którym mowa w art. 16 ust. 1 lit. a ppkt i, iii-v rozporządzenia nr 1305/2013, lub w krajowym systemie jakości, o którym mowa w art. 16 ust. 1 lit. b rozporządzenia nr 1305/2013, w ramach działania „Systemy jakości produktów rolnych i środków spożywczych” objętego programem, a operacja dotyczy produkcji objętej tym systemem, przyznaje się 2 punkty, b) certyfikat potwierdzający uczestnictwo w unijnym systemie jakości, o którym mowa w art. 16 ust. 1 lit. a ppkt ii rozporządzenia nr 1305/2013, a operacja dotyczy produkcji objętej tym systemem i suma powierzchni gruntów ornych, sadów, łąk trwałych i pastwisk trwałych w gospodarstwie objętych tym systemem stanowi co najmniej 50% sumy powierzchni gruntów ornych, sadów, łąk trwałych i pastwisk trwałych w tym gospodarstwie, przyznaje się 4 punkty; ” ,
+– w pkt 4 wyrazy „3 punkty” zastępuje się wyrazami „1 punkt”,
+– w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „ 6) jeżeli do dnia złożenia wniosku o przyznanie pomocy podmiotowi ubiegającemu się o przyznanie pomocy albo współposiadaczowi gospodarstwa, w którym będzie realizowana operacja, nie przyznano pomocy w związku z podjęciem albo rozwojem działalności pozarolniczej albo w celu wyposażenia tego samego gospodarstwa w ramach działania „Modernizacja gospodarstw rolnych” objętego PROW 2007–2013 lub operacji typu „Modernizacja gospodarstw rolnych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego programem, przyznaje się 1 punkt, chyba że podmiot ubiegający się o przyznanie pomocy lub współposiadacz gospodarstwa wystąpił o tę pomoc i nie przyznano mu pomocy. ” ,
+b)
+w ust. 3:
+– pkt 3 otrzymuje brzmienie: „ 3) jeżeli w dniu złożenia wniosku o przyznanie pomocy podmiot ubiegający się o przyznanie pomocy posiada: a) certyfikat lub świadectwo potwierdzające, że uczestniczy w unijnym systemie jakości, o którym mowa w art. 16 ust. 1 lit. a ppkt i, iii-v rozporządzenia nr 1305/2013, lub w krajowym systemie jakości, o którym mowa w art. 16 ust. 1 lit. b rozporządzenia nr 1305/2013, w ramach działania „Systemy jakości produktów rolnych i środków spożywczych” objętego programem, a operacja dotyczy produkcji objętej tym systemem, przyznaje się 2 punkty, b) certyfikat potwierdzający uczestnictwo w unijnym systemie jakości, o którym mowa w art. 16 ust. 1 lit. a ppkt ii rozporządzenia nr 1305/2013, a operacja dotyczy produkcji objętej tym systemem i suma powierzchni gruntów ornych, sadów, łąk trwałych i pastwisk trwałych w gospodarstwie objętych tym systemem stanowi co najmniej 50% sumy powierzchni gruntów ornych, sadów, łąk trwałych i pastwisk trwałych w tym gospodarstwie, przyznaje się 4 punkty; ” ,
+– w pkt 4 wyrazy „3 punkty” zastępuje się wyrazami „1 punkt”,
+– w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „ 6) jeżeli do dnia złożenia wniosku o przyznanie pomocy podmiotowi ubiegającemu się o przyznanie pomocy albo współposiadaczowi gospodarstwa, w którym będzie realizowana operacja, nie przyznano pomocy w związku z podjęciem albo rozwojem działalności pozarolniczej albo w celu wyposażenia tego samego gospodarstwa w ramach działania „Modernizacja gospodarstw rolnych” objętego PROW 2007–2013 lub operacji typu „Modernizacja gospodarstw rolnych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego programem, przyznaje się 1 punkt, chyba że podmiot ubiegający się o przyznanie pomocy lub współposiadacz gospodarstwa wystąpił o tę pomoc i nie przyznano mu pomocy. ” ,
+c)
+w ust. 4:
+– pkt 3 otrzymuje brzmienie: „ 3) jeżeli w dniu złożenia wniosku o przyznanie pomocy podmiot ubiegający się o przyznanie pomocy posiada: a) certyfikat lub świadectwo potwierdzające, że uczestniczy w unijnym systemie jakości, o którym mowa w art. 16 ust. 1 lit. a ppkt i, iii-v rozporządzenia nr 1305/2013, lub w krajowym systemie jakości, o którym mowa w art. 16 ust. 1 lit. b rozporządzenia nr 1305/2013, w ramach działania „Systemy jakości produktów rolnych i środków spożywczych” objętego programem, a operacja dotyczy produkcji objętej tym systemem, przyznaje się 2 punkty, b) certyfikat potwierdzający uczestnictwo w unijnym systemie jakości, o którym mowa w art. 16 ust. 1 lit. a ppkt ii rozporządzenia nr 1305/2013, a operacja dotyczy produkcji objętej tym systemem i suma powierzchni gruntów ornych, sadów, łąk trwałych i pastwisk trwałych w gospodarstwie objętych tym systemem stanowi co najmniej 50% sumy powierzchni gruntów ornych, sadów, łąk trwałych i pastwisk trwałych w tym gospodarstwie, przyznaje się 4 punkty; ” ,
+– w pkt 4 wyrazy „3 punkty” zastępuje się wyrazami „1 punkt”,
+– w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „ 6) jeżeli do dnia złożenia wniosku o przyznanie pomocy podmiotowi ubiegającemu się o przyznanie pomocy albo współposiadaczowi gospodarstwa, w którym będzie realizowana operacja, nie przyznano pomocy w związku z podjęciem albo rozwojem działalności pozarolniczej albo w celu wyposażenia tego samego gospodarstwa w ramach działania „Modernizacja gospodarstw rolnych” objętego PROW 2007–2013 lub operacji typu „Modernizacja gospodarstw rolnych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego programem, przyznaje się 1 punkt, chyba że podmiot ubiegający się o przyznanie pomocy lub współposiadacz gospodarstwa wystąpił o tę pomoc i nie przyznano mu pomocy. ” ,
+d)
+w ust. 5:
+– w pkt 1 lit. a i b otrzymują brzmienie: „ a) jeżeli operacja obejmuje wyłącznie koszty budowy lub modernizacji budynków inwentarskich, w tym ich wyposażenia, lub magazynu paszowego, w tym jego wyposażenia, przyznaje się 5 punktów, b) jeżeli koszty budowy lub modernizacji budynków inwentarskich, w tym ich wyposażenia, lub magazynu paszowego, w tym jego wyposażenia, stanowią co najmniej 50% wszystkich kosztów operacji, przyznaje się 3 punkty; ” ,
+– pkt 4 otrzymuje brzmienie: „ 4) jeżeli w dniu złożenia wniosku o przyznanie pomocy podmiot ubiegający się o przyznanie pomocy posiada: a) certyfikat lub świadectwo potwierdzające, że uczestniczy w unijnym systemie jakości, o którym mowa w art. 16 ust. 1 lit. a ppkt i, iii-v rozporządzenia nr 1305/2013, lub w krajowym systemie jakości, o którym mowa w art. 16 ust. 1 lit. b rozporządzenia nr 1305/2013, w ramach działania „Systemy jakości produktów rolnych i środków spożywczych” objętego programem, a operacja dotyczy produkcji objętej tym systemem, przyznaje się 2 punkty, b) certyfikat potwierdzający uczestnictwo w unijnym systemie jakości, o którym mowa w art. 16 ust. 1 lit. a ppkt ii rozporządzenia nr 1305/2013, a operacja dotyczy produkcji objętej tym systemem i suma powierzchni gruntów ornych, sadów, łąk trwałych i pastwisk trwałych w gospodarstwie objętych tym systemem stanowi co najmniej 50% sumy powierzchni gruntów ornych, sadów, łąk trwałych i pastwisk trwałych w tym gospodarstwie, przyznaje się 4 punkty; ” ,
+– w pkt 5 wyrazy „3 punkty” zastępuje się wyrazami „1 punkt”,
+– po pkt 6 dodaje się pkt 6a w brzmieniu: „ 6a) jeżeli do dnia złożenia wniosku o przyznanie pomocy podmiotowi ubiegającemu się o przyznanie pomocy albo współposiadaczowi gospodarstwa, w którym będzie realizowana operacja, nie przyznano pomocy w związku z podjęciem albo rozwojem działalności pozarolniczej albo w celu wyposażenia tego samego gospodarstwa w ramach działania „Modernizacja gospodarstw rolnych” objętego PROW 2007–2013 lub operacji typu „Modernizacja gospodarstw rolnych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego programem, przyznaje się 1 punkt, chyba że podmiot ubiegający się o przyznanie pomocy lub współposiadacz gospodarstwa wystąpił o tę pomoc i nie przyznano mu pomocy; ” ,
+– w pkt 7: – – w lit. b tiret drugie otrzymuje brzmienie: „ – jeżeli w dniu złożenia wniosku o przyznanie pomocy podmiot ubiegający się o przyznanie pomocy jest członkiem grupy producentów rolnych lub organizacji producentów, przyznaje się 1 punkt, ” , – – lit. d otrzymuje brzmienie: „ d) łódzkiego – przyznaje się dodatkowy 1 punkt, jeżeli w dniu złożenia wniosku o przyznanie pomocy podmiot ubiegający się o przyznanie pomocy jest członkiem grupy producentów rolnych lub organizacji producentów, ” , – – w lit. e po wyrazie „gospodarskich” dodaje się wyrazy „obejmujących bydło domowe ( Bos taurus ), bawoły ( Bubalus bubalus ), daniele ( Dama dama ), jelenie szlachetne ( Cervus elaphus ), jelenie sika ( Cervus nippon ), konie ( Equus caballus ), osły ( Equus asinus ), kozy ( Capra hircus ) oraz owce ( Ovis aries )”, – – w lit. g tiret pierwsze otrzymuje brzmienie: „ – jeżeli w dniu złożenia wniosku o przyznanie pomocy podmiot ubiegający się o przyznanie pomocy jest członkiem grupy producentów rolnych lub organizacji producentów, przyznaje się 1 punkt, ” , – – w lit. h tiret pierwsze otrzymuje brzmienie: „ – jeżeli w dniu złożenia wniosku o przyznanie pomocy podmiot ubiegający się o przyznanie pomocy jest członkiem grupy producentów rolnych lub organizacji producentów, przyznaje się 1 punkt, ” , – – lit. i otrzymuje brzmienie: „ i) podlaskiego – przyznaje się dodatkowe punkty w następujący sposób: – jeżeli w dniu złożenia wniosku o przyznanie pomocy podmiot ubiegający się o przyznanie pomocy jest członkiem grupy producentów rolnych lub organizacji producentów, przyznaje się 1 punkt, – jeżeli w dniu złożenia wniosku o przyznanie pomocy gospodarstwo podmiotu ubiegającego się o przyznanie pomocy jest położone na obszarze, na którym są podejmowane środki w związku z wystąpieniem choroby zakaźnej zwierząt podlegającej obowiązkowi zwalczania, przyznaje się 1 punkt, ” , – – w lit. k tiret trzecie otrzymuje brzmienie: „ – jeżeli w dniu złożenia wniosku o przyznanie pomocy podmiot ubiegający się o przyznanie pomocy jest członkiem grupy producentów rolnych lub organizacji producentów, przyznaje się 1 punkt, ” ;
+8)
+w § 17:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Kolejność przysługiwania pomocy jest ustalana na podstawie danych zawartych we wniosku o przyznanie pomocy oraz w dokumentach, o których mowa w § 13 ust. 3 pkt 1, 17 i 24–26, złożonych wraz z tym wnioskiem, w dniu złożenia tego wniosku.
+” ,
+b)
+w ust. 3 w pkt 1 wyrazy „4 punkty” zastępuje się wyrazami „3 punkty”;
+9)
+w § 18 w ust. 3 w pkt 1 wyrazy „4 punkty” zastępuje się wyrazami „3 punkty”;
+10)
+w § 24 w ust. 1 w pkt 3 wyrazy „w okresie” zastępuje się wyrazem „przez”;
+11)
+po § 26 dodaje się § 26a w brzmieniu:
+„
+§ 26a.
+Agencja, na uzasadnioną prośbę beneficjenta, może wyrazić zgodę na zakończenie realizacji operacji lub złożenie wniosku o płatność po upływie terminów określonych w § 4 ust. 7 pkt 1 albo ust. 9 pkt 1 lit. d, w terminie późniejszym, nie dłuższym niż 6 miesięcy od dnia upływu tych terminów, z tym że nie później niż do dnia 30 czerwca 2023 r.
+” ;
+12)
+w § 28 po ust. 1c dodaje się ust. 1d w brzmieniu:
+„
+1d.
+Do wniosku o płatność dołącza się dokumenty niezbędne do wypłaty środków finansowych z tytułu pomocy, potwierdzające spełnienie warunków wypłaty pomocy, których wykaz zawiera formularz wniosku o płatność.
+” ;
+13)
+w § 30 ust. 10 otrzymuje brzmienie:
+„
+10.
+Do wniosku następcy i trybu jego rozpatrywania stosuje się odpowiednio przepisy § 13 ust. 1 pkt 1, 2, 2a, 4, 7, 9, 10 i 12, ust. 3 pkt 1–6, 8–10, 13–23, 27 i 28 oraz ust. 4 i 5, § 14 ust. 3, § 15 oraz 19–21.
+” ;
+14)
+w § 31 ust. 9 otrzymuje brzmienie:
+„
+9.
+Do wniosku nabywcy i trybu jego rozpatrywania stosuje się odpowiednio przepisy § 13 ust. 1 pkt 1, 2, 2a, 4, 7, 9, 10 i 12, ust. 3 pkt 1–6, 8–10, 13–23, 27 i 28 oraz ust. 4 i 5, § 14 ust. 3, § 15 oraz 19–21.
+” ;
+15)
+po § 35b dodaje się § 35c i 35d w brzmieniu:
+„
+§ 35c.
+W odniesieniu do wniosków o przyznanie pomocy złożonych w 2018 r. termin, o którym mowa w § 19 ust. 1, wynosi 14 miesięcy od dnia podania do publicznej wiadomości informacji, o której mowa w § 18 ust. 1.
+§ 35d.
+1.
+W 2019 r. ogłoszenie o naborze wniosków o przyznanie pomocy podaje się do publicznej wiadomości nie później niż 7 dni przed dniem planowanego rozpoczęcia terminu składania tych wniosków.
+2.
+W przypadku ogłoszenia o naborze wniosków o przyznanie pomocy podanego do publicznej wiadomości w 2019 r., termin, o którym mowa w § 10 ust. 3, nie może być krótszy niż 14 dni i dłuższy niż 60 dni.
+” ;
+16)
+w załączniku do rozporządzenia w tabeli w:
+a)
+części VI. Urządzenia do przechowywania i stosowania nawozów naturalnych w lp. 80 dodaje się pkt 5 w brzmieniu: 5) szczelinowe tarczowe 8
+b)
+części VII. Maszyny do uprawy gleby lp. 84 otrzymuje brzmienie: 84 Pługi dłutowe, kultywatory dłutowe, grubery 8
+§ 2.
+Do postępowań w sprawach o przyznanie pomocy finansowej na operacje typu „Modernizacja gospodarstw rolnych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, wszczętych i niezakończonych do dnia wejścia w życie niniejszego rozporządzenia zawarciem umowy o przyznaniu pomocy, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
+§ 3.
+Do wypłaty pomocy finansowej, o której mowa w § 2, w sprawach objętych postępowaniami wszczętymi przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym, z tym że stosuje się również § 26a rozporządzenia zmienianego w § 1, który został dodany niniejszym rozporządzeniem.
+§ 4.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 398, 650, 1544, 2219 i 2244 oraz z 2019 r. poz. 55 i 60.
+

@@ -2,20 +2,14 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 18 lutego 2000 r. o zmianie ustawy - Karta Nauczyciela oraz o zmianie niektórych innych ustaw.*
 
-Łącznie: **35** orzeczeń
-(pominięto 10 orzeczeń sądów rejonowych)
+Łącznie: **19** orzeczeń
 
-## art. 1 (9)
+## art. 1 (4)
 
 - 2004-11-23 | TK | [P 15/03](https://www.saos.org.pl/judgments/106738) | Wyrok ★
 - 2001-03-19 | TK | [K 32/00](https://www.saos.org.pl/judgments/206065) | Wyrok ★
-- 2014-02-06 | SN | [II UK 284/13](https://www.saos.org.pl/judgments/104335) | Wyrok ★
-- 2010-09-01 | SN | [III UK 15/10](https://www.saos.org.pl/judgments/92852) | Wyrok ★
 - 2006-05-30 | SN | [I UK 319/05](https://www.saos.org.pl/judgments/84350) | Wyrok ★
 - 2003-07-30 | SN | [II UK 323/02](https://www.saos.org.pl/judgments/82130) | Wyrok ★
-- 2012-09-06 | SO | [III AUa 1761/11](https://www.saos.org.pl/judgments/1159) | Wyrok
-- 2012-08-14 | SO | [III APo 4/12](https://www.saos.org.pl/judgments/6085) | Wyrok
-- 2018-09-10 | SO | [VII U 837/18](https://www.saos.org.pl/judgments/386639) | Wyrok
 
 ## art. 3 (1)
 
@@ -25,12 +19,9 @@ Orzeczenia powołujące: *Ustawa z dnia 18 lutego 2000 r. o zmianie ustawy - Kar
 
 - 2005-10-06 | SN | [II PK 65/05](https://www.saos.org.pl/judgments/83764) | Wyrok ★
 
-## art. 7 (8)
+## art. 7 (5)
 
 - 2001-03-19 | TK | [K 32/00](https://www.saos.org.pl/judgments/206065) | Wyrok ★
-- 2010-11-17 | SN | [I PK 77/10](https://www.saos.org.pl/judgments/93429) | Wyrok ★
-- 2010-04-19 | SN | [II PK 301/09](https://www.saos.org.pl/judgments/165294) | Wyrok ★
-- 2009-02-19 | SN | [II PK 173/08](https://www.saos.org.pl/judgments/89692) | Wyrok ★
 - 2008-06-03 | SN | [I PK 302/07](https://www.saos.org.pl/judgments/88159) | Wyrok ★
 - 2008-03-20 | SN | [II PK 211/07](https://www.saos.org.pl/judgments/87634) | Wyrok ★
 - 2005-01-11 | SN | [I PK 159/04](https://www.saos.org.pl/judgments/83103) | Wyrok ★
@@ -40,12 +31,10 @@ Orzeczenia powołujące: *Ustawa z dnia 18 lutego 2000 r. o zmianie ustawy - Kar
 
 - 2001-03-19 | TK | [K 32/00](https://www.saos.org.pl/judgments/206065) | Wyrok ★
 
-## art. 10 (7)
+## art. 10 (5)
 
 - 2004-11-23 | TK | [P 15/03](https://www.saos.org.pl/judgments/106738) | Wyrok ★
 - 2001-03-19 | TK | [K 32/00](https://www.saos.org.pl/judgments/206065) | Wyrok ★
-- 2015-02-05 | SN | [III UK 100/14](https://www.saos.org.pl/judgments/168161) | Wyrok ★
-- 2008-12-03 | SN | [I PK 100/08](https://www.saos.org.pl/judgments/89299) | Wyrok ★
 - 2008-01-30 | SN | [I PK 195/07](https://www.saos.org.pl/judgments/87170) | Wyrok ★
 - 2007-06-25 | SN | [II UK 236/06](https://www.saos.org.pl/judgments/86206) | Wyrok ★
 - 2006-09-13 | SN | [II PK 4/06](https://www.saos.org.pl/judgments/84558) | Wyrok ★
@@ -61,12 +50,11 @@ Orzeczenia powołujące: *Ustawa z dnia 18 lutego 2000 r. o zmianie ustawy - Kar
 - 2001-12-17 | SN | [III ZP 29/01](https://www.saos.org.pl/judgments/81104) | Uchwała ★
 - 2004-10-14 | SN | [I PZP 7/04](https://www.saos.org.pl/judgments/82911) | Postanowienie
 
-## art. 16 (4)
+## art. 16 (3)
 
 - 2001-03-19 | TK | [K 32/00](https://www.saos.org.pl/judgments/206065) | Wyrok ★
 - 2003-06-11 | SN | [III PZP 5/03](https://www.saos.org.pl/judgments/82061) | Uchwała ★
 - 2001-12-17 | SN | [III ZP 29/01](https://www.saos.org.pl/judgments/81104) | Uchwała ★
-- 2018-07-19 | SO | [III APo 5/18](https://www.saos.org.pl/judgments/355201) | Wyrok
 
 ## art. 18 (1)
 
@@ -91,12 +79,4 @@ Orzeczenia powołujące: *Ustawa z dnia 18 lutego 2000 r. o zmianie ustawy - Kar
 ## art. 87 (1)
 
 - 2002-01-25 | SN | [III ZP 24/01](https://www.saos.org.pl/judgments/81162) | Uchwała ★
-
-## (ogólnie) (5)
-
-- 2015-09-29 | SO | [III AUa 3056/13](https://www.saos.org.pl/judgments/184385) | Wyrok
-- 2013-03-21 | SO | [III AUa 839/12](https://www.saos.org.pl/judgments/22801) | Wyrok
-- 2016-12-14 | SO | [III APo 5/16](https://www.saos.org.pl/judgments/272164) | Postanowienie
-- 2016-02-05 | SO | [III APa 39/15](https://www.saos.org.pl/judgments/215745) | Postanowienie
-- 2018-01-18 | SO | [IV Pa 43/17](https://www.saos.org.pl/judgments/392847) | Wyrok
 

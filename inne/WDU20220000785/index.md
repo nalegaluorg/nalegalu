@@ -8,12 +8,10 @@ pos: 785
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# szczegółowe wymagania, jakim powinny odpowiadać wnioski przyznanie pomocy;
-
-*ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI dnia 31 marca 2022 sprawie szczegółowych warunków trybu przyznawania, wypłaty zwrotu pomocy finansowej ramach działania „Zarządzanie ryzykiem” objętego Programem Rozwoju Obszarów Wiejskich lata 2014–2020 Na podstawie art. 45 ust. 1 pkt 1 ustawy dnia 20 lutego 2015 wspieraniu rozwoju obszarów wiejskich udziałem środków Europejskiego Funduszu Rolnego rzecz Rozwoju Obszarów Wiejskich ramach Programu Rozwoju Obszarów Wiejskich lata 2014–2020 (Dz. U. 2137 2022 88) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowe warunki tryb przyznawania, wypłaty zwrotu pomocy finansowej ramach działania „Zarządzanie ryzykiem” objętego Programem Rozwoju Obszarów Wiejskich lata 2014–2020, tym: formę tryb składania wniosków przyznanie tej pomocy, zwanej dalej „pomocą”;*
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 31 marca 2022 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej w ramach działania „Zarządzanie ryzykiem” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
 
 | Pole | Wartość |
 |---|---|
@@ -24,68 +22,171 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2022-03-31 |
 | Data wydania | 2022-04-08 |
+| Wejście w życie | 2022-04-09 |
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000785) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/785/text.pdf) |
 
-warunki tryb wypłaty zwrotu pomocy.
-§ 2. 1. Pomoc przyznaje się producentowi rolnemu rozumieniu art. 2 pkt 2 ustawy dnia 7 lipca 2005 ubezpieczeniach upraw rolnych zwierząt gospodarskich (Dz. U. 2019 477), zwanemu dalej „producentem rolnym”, jeżeli: temu producentowi rolnemu został nadany numer identyfikacyjny trybie przepisów krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych ewidencji wniosków przyznanie płatności;
-ten producent rolny jest posiadaczem samoistnym zależnym nieruchomości, której prowadzi działalność rolniczą zakresie produkcji drobiu, bydła świń terytorium Rzeczypospolitej Polskiej;
-ten producent rolny posiada ramach prowadzonej działalności rolniczej umowę drobiu, bydła świń od ryzyka wystąpienia szkód spowodowanych salmonellą, zwaną dalej „umową ubezpieczenia”, której wynika, że ubezpieczył co najmniej:
-a) 1000 sztuk kurcząt rzeźnych
-b) 1000 sztuk gęsi rzeźnych,
-c) 1000 sztuk indyków rzeźnych,
-d) 1000 sztuk drobiu nieśnego,
-e) 4 sztuki bydła,
-f) 14 sztuk świń;
-4) ten producent rolny zapłacił składkę tytułu wynikającą ubezpieczenia, a przypadku gdy zgodnie umową składka ma być opłacana ratach zapłacił wszystkie raty wynikające tej terminem płatności dnia złożenia wniosku przyznanie pomocy;
-5) temu producentowi rolnemu nie przyznano podstawie odrębnych przepisów dopłaty składki tytułu ubezpie3. W przypadku będącego wspólnikiem spółki cywilnej pomoc jest przyznawana, jeżeli numer identyfikacyjny, którym mowa ust. 1 pkt 1, został nadany spółce, a ponadto gdy: nieruchomość, której jest prowadzona działalność rolnicza zakresie produkcji drobiu, bydła świń, stanowi przedmiot najmu, dzierżawy, użyczenia producent rolny ma inny tytuł prawny władania tą nieruchomością co najmniej od dnia zawarcia ubezpieczenia;
-ramach spółki cywilnej jest prowadzona działalność rolnicza zakresie produkcji drobiu, bydła świń terytorium Rzeczypospolitej Polskiej;
-każdy ze wspólników będący osobą prawną podlegający wpisowi rejestru przedsiębiorców KRS, wyłączeniem przedsiębiorcy zagranicznego będącego osobą prawną, będący spółką osobową rozumieniu art. 4 § 1 pkt 1 ustawy dnia 15 września 2000 Kodeks spółek handlowych jest wpisany tego rejestru co najmniej od dnia zawarcia ubezpieczenia;
-4) oddział każdego przedsiębiorcy zagranicznego będącego osobą prawną jednostką organizacyjną niebędącą osobą prawną posiadającą zdolność prawną, który wykonuje działalność gospodarczą terytorium Rzeczypospolitej Polskiej ramach tego oddziału podlega wpisowi rejestru przedsiębiorców KRS, jest wpisany tego rejestru co najmniej od dnia zawarcia ubezpieczenia.
-§ 3. 1. Pomoc przyznaje się formie dopłaty składki tytułu drobiu, bydła świń od ryzyka wystąpienia szkód spowodowanych salmonellą okres objęty ubezpieczeniem rozpoczynający się nie wcześniej niż dniu 1 kwietnia 2022
-2. Pomoc przyznaje się wysokości 70% zapłaconej kwoty składki tytułu ubezpieczenia, jeżeli ubezpieczenia wynika, że wypłata odszkodowania nastąpi przypadku wystąpienia szkód wysokości przekraczającej 20% wyrażonej złotych wartości: średniej rocznej produkcji ubezpieczanych zwierząt trzech ostatnich lat poprzedzających rok, którym została zawarta umowa ubezpieczenia, trzech lat okresie pięcioletnim poprzedzającym rok, którym została zawarta umowa ubezpieczenia, pominięciem roku najwyższej najniższej wartości produkcji, ustalonej podstawie danych rachunkowych dokumentów potwierdzających wartość prowadzonej produkcji drobiu, bydła świń gospodarstwie rolnym dziale specjalnym produkcji rolnej, produkcji drobiu, bydła świń zadeklarowanej umowie przez przypadku gdy działalność rolnicza zakresie produkcji drobiu, bydła świń nie była prowadzona okresie poprzedzającym rok zawarcia ubezpieczenia.
-3. Wartość produkcji drobiu, bydła świń, której mowa ust. 2 pkt 2, jest ustalana jako kwota stanowiąca iloczyn liczby: bydła świń przewidzianej prowadzenia roku zawarcia działalności rolniczej zakresie produkcji bydła świń, które zostały zgłoszone przez Systemu Identyfikacji Rejestracji Zwierząt, którym mowa ustawie dnia 2 kwietnia 2004 systemie identyfikacji rejestracji zwierząt (Dz. U.
-1542), drobiu przewidzianej prowadzenia roku zawarcia działalności rolniczej zakresie produkcji drobiu zadeklarowanej przez oświadczeniu, którym mowa § 6 ust. 2 pkt 4 § 4. 1. Wniosek przyznanie pomocy może dotyczyć kilku umów ubezpieczenia.
-2. Prezes Agencji Restrukturyzacji Modernizacji Rolnictwa, zwanej dalej „Agencją”, podaje publicznej wiadomości dwa razy roku ogłoszenie terminie składania wniosków przyznanie pomocy stronie internetowej administrowanej przez Agencję co najmniej jednym dzienniku zasięgu krajowym siedzibie Agencji, oddziałach regionalnych biurach powiatowych Agencji nie później niż 14 dni przed planowanym dniem rozpoczęcia biegu terminu składania tych wniosków.
-3. Termin składania wniosków przyznanie pomocy nie może być krótszy niż 14 dni.
-4. Agencja udostępnia formularz wniosku przyznanie pomocy nie później niż dniu podania publicznej wiadomości ogłoszenia, którym mowa ust. 2.
-§ 5. Wniosek przyznanie pomocy składa się kierownika biura powiatowego Agencji właściwego ze względu miejsce zamieszkania siedzibę wskazane ewidencji producentów, której mowa przepisach krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych ewidencji wniosków przyznanie płatności.
-§ 6. 1. Wniosek przyznanie pomocy zawiera: numer identyfikacyjny ubiegającego się przyznanie pomocy numer identyfikacyjny:
-a) małżonka rolnego, jeżeli temu małżonkowi został nadany taki numer przypadku prowadzenia przez działalności rolniczej wspólnie małżonkiem,
-b) spółki cywilnej, której producent rolny jest wspólnikiem przypadku będącego wspólnikiem spółki cywilnej,
-c) współposiadacza gospodarstwa rolnego, jeżeli ten współposiadacz wyraził zgodę nadanie mu takiego numeru przypadku gdy gospodarstwo rolne jest przedmiotem współposiadania;
-numer identyfikacyjny powszechnego elektronicznego systemu ewidencji ludności (numer PESEL) numer identyfikacji podatkowej (NIP) ubiegającego się pomoc, a przypadku będącego osobą fizyczną nieposiadającą numeru PESEL kod kraju, numer paszportu innego dokumentu stwierdzającego tożsamość;
-numer PESEL małżonka przypadku prowadzenia przez działalności rolniczej wspólnie małżonkiem, a jeżeli małżonek nie ma numeru PESEL kod kraju, numer paszportu innego dokumentu stwierdzającego tożsamość tego małżonka;
-4) numer KRS, jeżeli producent rolny ma taki numer;
-5) informacje wynikające o:
-a) gatunku ubezpieczonych zwierząt,
-b) liczbie ubezpieczonych zwierząt gatunku drób, bydło świnie,
-c) wysokości składki tytułu ubezpieczenia,
-d) sumie ubezpieczenia,
-2. Do wniosku przyznanie pomocy dołącza się: kopię ubezpieczenia, której jest określona suma ubezpieczenia, liczba gatunek ubezpieczonych zwierząt gatunku drób, bydło świnie wysokość składki tytułu ubezpieczenia;
-oświadczenie małżonka wyrażeniu zgody ubieganie się przyznanie pomocy przypadku rolnego, który ubiega się przyznanie pomocy uwzględnieniem ubezpieczonych zwierząt gatunku drób, bydło świnie będących posiadaniu tego małżonka;
-oświadczenie współposiadacza gospodarstwa wyrażeniu zgody ubieganie się przyznanie pomocy przypadku rolnego, który ubiega się przyznanie pomocy uwzględnieniem ubezpieczonych zwierząt gatunku drób, bydło świnie będących przedmiotem współposiadania;
-4) oświadczenie liczbie zwierząt gatunku drób, która jest deklarowana prowadzenia przez niego działalności rolniczej zakresie produkcji drobiu, potwierdzonej przez powiatowego lekarza weterynarii sposób określony § 3 ust. 4 przypadku gdy producent rolny nie prowadził działalności rolniczej zakresie produkcji drobiu okresie poprzedzającym rok zawarcia ubezpieczenia;
-5) kopię dowodu zapłaty składek tytułu wynikających ubezpieczenia;
-6) kopię spółki cywilnej uchwały wspólników spółki cywilnej upoważniającej wspólnika tej spółki złożenia wniosku imieniu wspólników przypadku prowadzenia działalności rolniczej zakresie produkcji drobiu, bydła świń formie spółki cywilnej składania wniosku przez wspólnika imieniu wspólników.
-3. Kopie dokumentów, których mowa ust. 2 pkt 1 6, dołącza się wniosku formie kopii potwierdzonych za zgodność oryginałem przez pracownika Agencji podmiot, który wydał dokument, poświadczonej za zgodność oryginałem przez notariusza przez występującego sprawie pełnomocnika będącego radcą prawnym adwokatem.
-§ 7. Kierownik biura powiatowego Agencji wydaje decyzję przyznaniu pomocy terminie 2 miesięcy od dnia upływu terminu składania wniosków przyznanie pomocy.
-§ 8. Wypłata pomocy następuje terminie 30 dni od dnia, którym decyzja przyznaniu pomocy stała się ostateczna, rachunek wskazany przez niego ewidencji producentów, której mowa przepisach krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych ewidencji wniosków przyznanie płatności.
-§ 9. Producent rolny informuje Agencję piśmie: każdej zmianie danych zawartych we wniosku przyznanie pomocy terminie 7 dni od dnia zaistnienia tej zmiany;
-wygaśnięciu stosunku terminie 7 dni od dnia tego wygaśnięcia.
-§ 10. W przypadku wygaśnięcia stosunku przed upływem okresu, jaki została zawarta umowa ubezpieczenia, otrzymania przez od ubezpieczyciela zwrotu części składki tytułu producent rolny zwraca pomoc kwocie proporcjonalnej kwoty zwróconej składki terminie 30 dni od dnia otrzymania należności od ubezpieczyciela.
-§ 11. W sprawach przyznanie pomocy uwagi istotę cel tego działania nie jest możliwe: wstąpienie toczącego się postępowania miejsce ubiegającego się przyznanie pomocy przez następcę prawnego tego przez nabywcę gospodarstwa jego części, przez przejmującego posiadanie gospodarstwa jego części;
-przyznanie pomocy następcy prawnemu rolnego, któremu przyznano pomoc, nabywcy gospodarstwa jego części, przejmującemu posiadanie gospodarstwa jego części.
-1 Kurczęta brojlery 2,50 2 Młode indory rzeźne 22,56 3 Młode indyczki rzeźne 10,32 4 Gęsi rzeźne 7,00 5 Bydło wieku: miesiąca; 50,00 powyżej miesiąca 8 miesięcy:
-a) samice, 140,00
-b) samce; 205,00 powyżej 8 miesięcy 3 lat:
-a) samice, 200,00
-b) samce; 325,00
-4) powyżej 3 lat 5 lat:
-a) samice, 300,00
-b) samce; 450,00
-5) powyżej 5 lat:
-a) samice, 450,00
-b) samce 750,00 6 Świnia wieku: 2 miesięcy; 16,00 powyżej 2 miesięcy 5 miesięcy; 60,00 powyżej 5 miesięcy 8 miesięcy; 100,00
-4) powyżej 8 miesięcy 12 miesięcy 125,00 II. Średnia roczna liczba jaj od jednej sztuki drobiu nieśnego 219 sztuk
+Treść rozporządzenia
+Załącznik – Tekst załącznika
+Treść rozporządzenia
+Na podstawie art. 45 ust. 1 pkt 1 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2021 r. poz. 2137 oraz z 2022 r. poz. 88) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa szczegółowe warunki i tryb przyznawania, wypłaty oraz zwrotu pomocy finansowej w ramach działania „Zarządzanie ryzykiem” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, w tym:
+1)
+formę i tryb składania wniosków o przyznanie tej pomocy, zwanej dalej „pomocą”;
+2)
+szczegółowe wymagania, jakim powinny odpowiadać wnioski o przyznanie pomocy;
+3)
+warunki i tryb wypłaty oraz zwrotu pomocy.
+§ 2.
+1.
+Pomoc przyznaje się producentowi rolnemu w rozumieniu art. 2 pkt 2 ustawy z dnia 7 lipca 2005 r. o ubezpieczeniach upraw rolnych i zwierząt gospodarskich (Dz. U. z 2019 r. poz. 477), zwanemu dalej „producentem rolnym”, jeżeli:
+1)
+temu producentowi rolnemu został nadany numer identyfikacyjny w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności;
+2)
+ten producent rolny jest posiadaczem samoistnym lub zależnym nieruchomości, na której prowadzi działalność rolniczą w zakresie produkcji drobiu, bydła lub świń na terytorium Rzeczypospolitej Polskiej;
+3)
+ten producent rolny posiada w ramach prowadzonej działalności rolniczej umowę ubezpieczenia drobiu, bydła lub świń od ryzyka wystąpienia szkód spowodowanych salmonellą, zwaną dalej „umową ubezpieczenia”, z której wynika, że ubezpieczył co najmniej:
+a)
+1000 sztuk kurcząt rzeźnych lub
+b)
+1000 sztuk gęsi rzeźnych, lub
+c)
+1000 sztuk indyków rzeźnych, lub
+d)
+1000 sztuk drobiu nieśnego, lub
+e)
+4 sztuki bydła, lub
+f)
+14 sztuk świń;
+4)
+ten producent rolny zapłacił składkę z tytułu ubezpieczenia wynikającą z umowy ubezpieczenia, a w przypadku gdy zgodnie z umową ubezpieczenia składka ma być opłacana w ratach – zapłacił wszystkie raty wynikające z tej umowy ubezpieczenia z terminem płatności do dnia złożenia wniosku o przyznanie pomocy;
+5)
+temu producentowi rolnemu nie przyznano na podstawie odrębnych przepisów dopłaty do składki z tytułu ubezpieczenia wynikającej z umowy ubezpieczenia.
+2.
+W przypadku producenta rolnego podlegającego zgodnie z przepisami ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2020 r. poz. 1526 i 2320 oraz z 2021 r. poz. 2052) wpisowi do rejestru przedsiębiorców w Krajowym Rejestrze Sądowym, zwanym dalej „KRS”, pomoc jest przyznawana, jeżeli poza warunkami wymienionymi w ust. 1 ten producent rolny jest wpisany do tego rejestru co najmniej od dnia zawarcia umowy ubezpieczenia, a w przypadku przedsiębiorcy zagranicznego będącego osobą prawną albo jednostką organizacyjną niebędącą osobą prawną posiadającą zdolność prawną, który wykonuje działalność gospodarczą na terytorium Rzeczypospolitej Polskiej w ramach oddziału – jeżeli poza warunkami wymienionymi w ust. 1 jego oddział jest wpisany do rejestru przedsiębiorców w KRS co najmniej od dnia zawarcia umowy ubezpieczenia.
+3.
+W przypadku producenta rolnego będącego wspólnikiem spółki cywilnej pomoc jest przyznawana, jeżeli numer identyfikacyjny, o którym mowa w ust. 1 pkt 1, został nadany spółce, a ponadto gdy:
+1)
+nieruchomość, na której jest prowadzona działalność rolnicza w zakresie produkcji drobiu, bydła lub świń, stanowi przedmiot najmu, dzierżawy, użyczenia albo producent rolny ma inny tytuł prawny do władania tą nieruchomością co najmniej od dnia zawarcia umowy ubezpieczenia;
+2)
+w ramach umowy spółki cywilnej jest prowadzona działalność rolnicza w zakresie produkcji drobiu, bydła lub świń na terytorium Rzeczypospolitej Polskiej;
+3)
+każdy ze wspólników będący osobą prawną podlegający wpisowi do rejestru przedsiębiorców w KRS, z wyłączeniem przedsiębiorcy zagranicznego będącego osobą prawną, albo będący spółką osobową w rozumieniu art. 4 § 1 pkt 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych jest wpisany do tego rejestru co najmniej od dnia zawarcia umowy ubezpieczenia;
+4)
+oddział każdego przedsiębiorcy zagranicznego będącego osobą prawną albo jednostką organizacyjną niebędącą osobą prawną posiadającą zdolność prawną, który wykonuje działalność gospodarczą na terytorium Rzeczypospolitej Polskiej w ramach tego oddziału i podlega wpisowi do rejestru przedsiębiorców w KRS, jest wpisany do tego rejestru co najmniej od dnia zawarcia umowy ubezpieczenia.
+§ 3.
+1.
+Pomoc przyznaje się w formie dopłaty do składki z tytułu ubezpieczenia drobiu, bydła lub świń od ryzyka wystąpienia szkód spowodowanych salmonellą na okres objęty ubezpieczeniem rozpoczynający się nie wcześniej niż w dniu 1 kwietnia 2022 r.
+2.
+Pomoc przyznaje się w wysokości 70% zapłaconej kwoty składki z tytułu ubezpieczenia, jeżeli z umowy ubezpieczenia wynika, że wypłata odszkodowania nastąpi w przypadku wystąpienia szkód w wysokości przekraczającej 20% wyrażonej w złotych wartości:
+1)
+średniej rocznej produkcji ubezpieczanych zwierząt z trzech ostatnich lat poprzedzających rok, w którym została zawarta umowa ubezpieczenia, albo z trzech lat w okresie pięcioletnim poprzedzającym rok, w którym została zawarta umowa ubezpieczenia, z pominięciem roku o najwyższej i najniższej wartości produkcji, ustalonej na podstawie danych rachunkowych lub dokumentów potwierdzających wartość prowadzonej produkcji drobiu, bydła lub świń w gospodarstwie rolnym lub dziale specjalnym produkcji rolnej, albo
+2)
+produkcji drobiu, bydła lub świń zadeklarowanej w umowie ubezpieczenia przez producenta rolnego – w przypadku gdy działalność rolnicza w zakresie produkcji drobiu, bydła lub świń nie była prowadzona w okresie poprzedzającym rok zawarcia umowy ubezpieczenia.
+3.
+Wartość produkcji drobiu, bydła lub świń, o której mowa w ust. 2 pkt 2, jest ustalana jako kwota stanowiąca iloczyn liczby:
+1)
+bydła lub świń przewidzianej do prowadzenia w roku zawarcia umowy ubezpieczenia działalności rolniczej w zakresie produkcji bydła lub świń, które zostały zgłoszone przez producenta rolnego do Systemu Identyfikacji i Rejestracji Zwierząt, o którym mowa w ustawie z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2021 r. poz. 1542),
+2)
+drobiu przewidzianej do prowadzenia w roku zawarcia umowy ubezpieczenia działalności rolniczej w zakresie produkcji drobiu zadeklarowanej przez producenta rolnego w oświadczeniu, o którym mowa w § 6 ust. 2 pkt 4
+oraz średniej masy ciała zwierzęcia z gatunku drób, bydło lub świnie, a w przypadku drobiu nieśnego – średniej liczby jaj od jednej sztuki drobiu nieśnego i średniej ceny skupu ustalonej na podstawie wynikowych informacji statystycznych ogłaszanych, udostępnianych lub rozpowszechnianych zgodnie z przepisami o statystyce publicznej z trzech kolejnych lat poprzedzających rok zawarcia umowy ubezpieczenia albo z trzech lat w okresie pięcioletnim z pominięciem roku, w którym zanotowano najwyższą i najniższą cenę skupu.
+4.
+Deklarowaną przez producenta rolnego liczbę drobiu, o której mowa w ust. 3 pkt 2, powiatowy lekarz weterynarii właściwy ze względu na miejsce prowadzenia działalności rolniczej w zakresie produkcji drobiu potwierdza albo odmawia jej potwierdzenia na podstawie danych zawartych w rejestrze, o którym mowa w art. 11 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2020 r. poz. 1421), sporządzając na oświadczeniu producenta rolnego, o którym mowa w § 6 ust. 2 pkt 4, adnotację o zgodności albo niezgodności podanej przez producenta rolnego liczby drobiu z danymi zawartymi w tym rejestrze.
+5.
+Średnia masa ciała zwierząt z gatunku drób, bydłu lub świnie oraz średnia liczba jaj od jednej sztuki drobiu nieśnego, o których mowa w ust. 3, są określone w załączniku do rozporządzenia.
+§ 4.
+1.
+Wniosek o przyznanie pomocy może dotyczyć kilku umów ubezpieczenia.
+2.
+Prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa, zwanej dalej „Agencją”, podaje do publicznej wiadomości dwa razy w roku ogłoszenie o terminie składania wniosków o przyznanie pomocy na stronie internetowej administrowanej przez Agencję i co najmniej w jednym dzienniku o zasięgu krajowym oraz w siedzibie Agencji, oddziałach regionalnych i biurach powiatowych Agencji nie później niż 14 dni przed planowanym dniem rozpoczęcia biegu terminu składania tych wniosków.
+3.
+Termin składania wniosków o przyznanie pomocy nie może być krótszy niż 14 dni.
+4.
+Agencja udostępnia formularz wniosku o przyznanie pomocy nie później niż w dniu podania do publicznej wiadomości ogłoszenia, o którym mowa w ust. 2.
+§ 5.
+Wniosek o przyznanie pomocy składa się do kierownika biura powiatowego Agencji właściwego ze względu na miejsce zamieszkania albo siedzibę producenta rolnego wskazane w ewidencji producentów, o której mowa w przepisach o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności.
+§ 6.
+1.
+Wniosek o przyznanie pomocy zawiera:
+1)
+numer identyfikacyjny producenta rolnego ubiegającego się o przyznanie pomocy albo numer identyfikacyjny:
+a)
+małżonka producenta rolnego, jeżeli temu małżonkowi został nadany taki numer – w przypadku prowadzenia przez producenta rolnego działalności rolniczej wspólnie z małżonkiem,
+b)
+spółki cywilnej, której producent rolny jest wspólnikiem – w przypadku producenta rolnego będącego wspólnikiem spółki cywilnej,
+c)
+współposiadacza gospodarstwa rolnego, jeżeli ten współposiadacz wyraził zgodę na nadanie mu takiego numeru – w przypadku gdy gospodarstwo rolne jest przedmiotem współposiadania;
+2)
+numer identyfikacyjny powszechnego elektronicznego systemu ewidencji ludności (numer PESEL) albo numer identyfikacji podatkowej (NIP) producenta rolnego ubiegającego się o pomoc, a w przypadku producenta rolnego będącego osobą fizyczną nieposiadającą numeru PESEL – kod kraju, numer paszportu albo innego dokumentu stwierdzającego tożsamość;
+3)
+numer PESEL małżonka producenta rolnego – w przypadku prowadzenia przez producenta rolnego działalności rolniczej wspólnie z małżonkiem, a jeżeli małżonek producenta rolnego nie ma numeru PESEL – kod kraju, numer paszportu albo innego dokumentu stwierdzającego tożsamość tego małżonka;
+4)
+numer w KRS, jeżeli producent rolny ma taki numer;
+5)
+informacje wynikające z umowy ubezpieczenia o:
+a)
+gatunku ubezpieczonych zwierząt,
+b)
+liczbie ubezpieczonych zwierząt z gatunku drób, bydło lub świnie,
+c)
+wysokości składki z tytułu ubezpieczenia,
+d)
+sumie ubezpieczenia,
+e)
+okresie objętym ubezpieczeniem;
+6)
+miejsce prowadzenia działalności rolniczej w zakresie produkcji drobiu, bydła lub świń podlegających ubezpieczeniu;
+7)
+kwotę zapłaconych do dnia złożenia wniosku o przyznanie pomocy składek z tytułu ubezpieczenia wynikających z umowy ubezpieczenia;
+8)
+oświadczenie producenta rolnego:
+a)
+o niepodleganiu zakazowi dostępu do środków publicznych, o których mowa w art. 5 ust. 3 pkt 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.), na podstawie prawomocnego orzeczenia sądowego,
+b)
+o nieprzyznaniu na podstawie odrębnych przepisów dopłaty do składki z tytułu ubezpieczenia wynikającej z umowy ubezpieczenia,
+c)
+o prowadzeniu działalności rolniczej w zakresie produkcji drobiu, bydła lub świń.
+2.
+Do wniosku o przyznanie pomocy dołącza się:
+1)
+kopię umowy ubezpieczenia, w której jest określona suma ubezpieczenia, liczba i gatunek ubezpieczonych zwierząt z gatunku drób, bydło lub świnie oraz wysokość składki z tytułu ubezpieczenia;
+2)
+oświadczenie małżonka producenta rolnego o wyrażeniu zgody na ubieganie się o przyznanie pomocy – w przypadku producenta rolnego, który ubiega się o przyznanie pomocy z uwzględnieniem ubezpieczonych zwierząt z gatunku drób, bydło lub świnie będących w posiadaniu tego małżonka;
+3)
+oświadczenie współposiadacza gospodarstwa rolnego o wyrażeniu zgody na ubieganie się o przyznanie pomocy – w przypadku producenta rolnego, który ubiega się o przyznanie pomocy z uwzględnieniem ubezpieczonych zwierząt z gatunku drób, bydło lub świnie będących przedmiotem współposiadania;
+4)
+oświadczenie producenta rolnego o liczbie zwierząt z gatunku drób, która jest deklarowana do prowadzenia przez niego działalności rolniczej w zakresie produkcji drobiu, potwierdzonej przez powiatowego lekarza weterynarii w sposób określony w § 3 ust. 4 – w przypadku gdy producent rolny nie prowadził działalności rolniczej w zakresie produkcji drobiu w okresie poprzedzającym rok zawarcia umowy ubezpieczenia;
+5)
+kopię dowodu zapłaty składek z tytułu ubezpieczenia wynikających z umowy ubezpieczenia;
+6)
+kopię umowy spółki cywilnej oraz uchwały wspólników spółki cywilnej upoważniającej wspólnika tej spółki do złożenia wniosku w imieniu wspólników – w przypadku prowadzenia działalności rolniczej w zakresie produkcji drobiu, bydła lub świń w formie spółki cywilnej i składania wniosku przez wspólnika w imieniu wspólników.
+3.
+Kopie dokumentów, o których mowa w ust. 2 pkt 1 i 6, dołącza się do wniosku w formie kopii potwierdzonych za zgodność z oryginałem przez pracownika Agencji lub podmiot, który wydał dokument, albo poświadczonej za zgodność z oryginałem przez notariusza albo przez występującego w sprawie pełnomocnika będącego radcą prawnym albo adwokatem.
+§ 7.
+Kierownik biura powiatowego Agencji wydaje decyzję o przyznaniu pomocy w terminie 2 miesięcy od dnia upływu terminu składania wniosków o przyznanie pomocy.
+§ 8.
+Wypłata pomocy następuje w terminie 30 dni od dnia, w którym decyzja o przyznaniu pomocy stała się ostateczna, na rachunek producenta rolnego wskazany przez niego w ewidencji producentów, o której mowa w przepisach o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności.
+§ 9.
+Producent rolny informuje Agencję na piśmie:
+1)
+o każdej zmianie danych zawartych we wniosku o przyznanie pomocy w terminie 7 dni od dnia zaistnienia tej zmiany;
+2)
+o wygaśnięciu stosunku ubezpieczenia w terminie 7 dni od dnia tego wygaśnięcia.
+§ 10.
+W przypadku wygaśnięcia stosunku ubezpieczenia przed upływem okresu, na jaki została zawarta umowa ubezpieczenia, i otrzymania przez producenta rolnego od ubezpieczyciela zwrotu części składki z tytułu ubezpieczenia producent rolny zwraca pomoc w kwocie proporcjonalnej do kwoty zwróconej składki w terminie 30 dni od dnia otrzymania należności od ubezpieczyciela.
+§ 11.
+W sprawach o przyznanie pomocy z uwagi na istotę i cel tego działania nie jest możliwe:
+1)
+wstąpienie do toczącego się postępowania na miejsce producenta rolnego ubiegającego się o przyznanie pomocy przez następcę prawnego tego producenta rolnego albo przez nabywcę gospodarstwa lub jego części, albo przez przejmującego posiadanie gospodarstwa lub jego części;
+2)
+przyznanie pomocy następcy prawnemu producenta rolnego, któremu przyznano pomoc, albo nabywcy gospodarstwa lub jego części, albo przejmującemu posiadanie gospodarstwa lub jego części.
+§ 12.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270 oraz z 2022 r. poz. 583 i 655.
+Załącznik – Tekst załącznika
+I.
+Średnia masa ciała zwierząt z gatunku drób, bydło lub świnie Lp. Gatunek zwierząt Średnia masa ciała zwierząt w kilogramach 1 Kurczęta brojlery 2,50 2 Młode indory rzeźne 22,56 3 Młode indyczki rzeźne 10,32 4 Gęsi rzeźne 7,00 5 Bydło w wieku: 1) do miesiąca; 50,00 2) powyżej miesiąca do 8 miesięcy: a) samice, 140,00 b) samce; 205,00 3) powyżej 8 miesięcy do 3 lat: a) samice, 200,00 b) samce; 325,00 4) powyżej 3 lat do 5 lat: a) samice, 300,00 b) samce; 450,00 5) powyżej 5 lat: a) samice, 450,00 b) samce 750,00 6 Świnia w wieku: 1) do 2 miesięcy; 16,00 2) powyżej 2 miesięcy do 5 miesięcy; 60,00 3) powyżej 5 miesięcy do 8 miesięcy; 100,00 4) powyżej 8 miesięcy do 12 miesięcy 125,00
+II.
+Średnia roczna liczba jaj od jednej sztuki drobiu nieśnego – 219 sztuk
 

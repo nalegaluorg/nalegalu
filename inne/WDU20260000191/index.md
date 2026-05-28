@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o podatku od czynności cywilnoprawnych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 17 lutego 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 lutego 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-02-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000191) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/191/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 17 lutego 2026 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o podatku od czynności cywilnoprawnych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych (Dz. U. 2024 r. poz. 295), uwzględnieniem zmian wprowadzonych:
 1) ustawą dnia 9 maja 2025 r. o zmianie ustawy o szczególnych rozwiązaniach związanych usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 680),
 2) ustawą dnia 26 września 2025 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw (Dz. U. poz. 1556) oraz zmian wynikających przepisów ogłoszonych przed dniem 16 lutego 2026 r.
@@ -98,7 +98,43 @@ o podatku od czynności cywilnoprawnych
 
 **Art. 1a.** Użyte w ustawie określenia oznaczają:
 
+- **1)** spółka osobowa spółkę: cywilną, jawną, partnerską, komandytową lub komandytowo-akcyjną;
+- **2)** spółka kapitałowa spółkę: ograniczoną odpowiedzialnością, akcyjną lub europejską;
+- **3)** siedziba spółki siedzibę spółki określoną w umowie spółki;
+- **4)** rzeczywisty ośrodek zarządzania miejscowość, w której ma siedzibę organ zarządzający spółki kapitałowej;
+- **5)** państwo członkowskie państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) strona umowy o Europejskim Obszarze Gospodarczym;
+- **6)** (uchylony)
+- **7)** podatek od towarów i usług podatek od towarów i usług w rozumieniu ustawy dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. 2025 r. poz. 775, 894, 896, 1203, 1541 i 1811) lub podatek od wartości dodanej pobierany na podstawie przepisów obowiązujących w państwach członkowskich.
+
 **Art. 2.** Nie podlegają podatkowi:
+
+- **1)** czynności cywilnoprawne w sprawach:
+    - **a)** alimentacyjnych, opieki, kurateli i przysposobienia,
+    - **b)** ubezpieczenia społecznego, ubezpieczenia zdrowotnego, opieki społecznej, ulg określonych w przepisach szczególnych dla żołnierzy niezawodowych i osób odbywających służbę zastępczą oraz ich rodzin, a także uprawnień dla osób niepełnosprawnych i osób objętych przepisami o szczególnych uprawnieniach dla kombatantów,
+    - **c)** wyboru Prezydenta Rzeczypospolitej Polskiej, wyborów do Sejmu, Senatu i organów samorządu terytorialnego oraz referendum,
+    - **d)** obowiązku obrony Ojczyzny,
+    - **e)** zatrudnienia, świadczeń socjalnych i wynagrodzeń za pracę,
+    - **g)** podlegających przepisom o gospodarce nieruchomościami lub przepisom o autostradach płatnych,
+    - **h)** podlegających przepisom o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg krajowych,
+    - **i)** (uchylona)
+    - **j)** podlegających przepisom o szczególnych zasadach odbudowy, remontów, przebudowy i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych w wyniku działania żywiołu;
+
+- **2)** umowy sprzedaży nieruchomości lub prawa użytkowania wieczystego zawieranej w związku realizacją roszczeń wynikających ograniczenia sposobu korzystania nieruchomości na podstawie przepisów o ochronie środowiska;
+- **2a)** (uchylony)
+- **3)** (uchylony)
+- **4)** czynności cywilnoprawne, inne niż umowa spółki i jej zmiany:
+    - **a)** w zakresie, w jakim są opodatkowane podatkiem od towarów i usług, wyjątkiem umów sprzedaży, których przedmiotem jest lokal mieszkalny stanowiący odrębną nieruchomość, opodatkowanych zgodnie art. 7a,
+    - **b)** jeżeli przynajmniej jedna ze stron jest zwolniona od podatku od towarów i usług tytułu dokonania tej czynności, wyjątkiem: umów sprzedaży i zamiany, których przedmiotem jest nieruchomość lub jej część, albo prawo użytkowania wieczystego, spółdzielcze własnościowe prawo do lokalu, prawo do domu jednorodzinnego w spółdzielni mieszkaniowej lub prawo do miejsca postojowego w garażu wielostanowiskowym lub udział w tych prawach, umów sprzedaży udziałów i akcji w spółkach handlowych,
+    - **c)** niepodlegające podatkowi od towarów i usług na podstawie art. 8c ust. 1 ustawy dnia 11 marca 2004 r. o podatku od towarów i usług, wyjątkiem: umów sprzedaży i zamiany, których przedmiotem jest nieruchomość lub jej część, albo prawo użytkowania wieczystego, spółdzielcze własnościowe prawo do lokalu, prawo do domu jednorodzinnego w spółdzielni mieszkaniowej lub prawo do miejsca postojowego w garażu wielostanowiskowym lub udział w tych prawach, umów sprzedaży udziałów i akcji w spółkach handlowych;
+
+- **5)** umowy sprzedaży oraz zamiany rzeczy, które w rozumieniu przepisów prawa celnego stanowią towary:
+    - **a)** wprowadzone do wolnego obszaru celnego,
+    - **b)** objęte procedurą składu celnego;
+
+- **6)** umowy spółki i ich zmiany związane z:
+    - **a)** łączeniem spółek kapitałowych,
+    - **b)** przekształceniem spółki kapitałowej w inną spółkę kapitałową,
+    - **c)** wniesieniem do spółki kapitałowej, w zamian za jej udziały lub akcje: przedsiębiorstwa spółki kapitałowej lub jego zorganizowanej części, udziałów lub akcji innej spółki kapitałowej dających w niej większość głosów albo kolejnych udziałów lub akcji, w przypadku gdy spółka, do której są wnoszone te udziały lub akcje, posiada już większość głosów.
 
 #### Rozdział 2 Obowiązek podatkowy
 
@@ -116,6 +152,16 @@ o podatku od czynności cywilnoprawnych
 2. Jeżeli zawarcie umowy przenoszącej własność następuje w wykonaniu zobowiązania wynikającego uprzednio zawartej umowy zobowiązującej do przeniesienia własności, obowiązek podatkowy powstaje chwilą zawarcia umowy przenoszącej własność.
 
 **Art. 4.** Obowiązek podatkowy, zastrzeżeniem art. 5, ciąży:
+
+- **1)** przy umowie sprzedaży na kupującym;
+- **2)** przy umowie zamiany na stronach czynności;
+- **3)** przy umowie darowizny na obdarowanym;
+- **4)** przy umowie dożywocia na nabywcy własności nieruchomości;
+- **5)** przy umowie o dział spadku lub o zniesienie współwłasności na podmiocie nabywającym rzeczy lub prawa majątkowe ponad udział w spadku lub we współwłasności;
+- **6)** przy ustanowieniu odpłatnego użytkowania, w tym również nieprawidłowego oraz odpłatnej służebności na użytkowniku lub nabywającym prawo służebności;
+- **7)** przy umowie pożyczki i umowie depozytu nieprawidłowego na biorącym pożyczkę lub przechowawcy;
+- **8)** przy ustanowieniu hipoteki na składającym oświadczenia woli o ustanowieniu hipoteki;
+- **9)** przy umowie spółki cywilnej na wspólnikach, a przy pozostałych umowach spółki na spółce.
 
 **Art. 5.**
 
@@ -229,7 +275,76 @@ o podatku od czynności cywilnoprawnych
 
 **Art. 8.** Zwalnia się od podatku następujące strony czynności cywilnoprawnych:
 
+- **1)** państwa obce, ich przedstawicielstwa dyplomatyczne, urzędy konsularne i siły zbrojne, międzynarodowe organizacje i instytucje oraz ich oddziały i przedstawicielstwa, korzystające na podstawie ustaw, umów lub powszechnie uznanych zwyczajów międzynarodowych przywilejów i immunitetów, a także członków ich personelu i inne osoby zrównane nimi, jeżeli nie są one obywatelami polskimi i nie mają miejsca stałego pobytu na terytorium Rzeczypospolitej Polskiej pod warunkiem wzajemności;
+- **2)** (uchylony) 2a) organizacje pożytku publicznego, jeżeli dokonają czynności cywilnoprawnych wyłącznie w związku nieodpłatną działalnością pożytku publicznego w rozumieniu przepisów o działalności pożytku publicznego i o wolontariacie;
+- **3)** (uchylony)
+- **4)** jednostki samorządu terytorialnego;
+- **5)** Skarb Państwa;
+- **6)** osoby nabywające na potrzeby własne sprzęt rehabilitacyjny, wózki inwalidzkie, motorowery, motocykle lub samochody osobowe, zaliczone, w rozumieniu przepisów o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, do grupy osób o znacznym lub umiarkowanym stopniu niepełnosprawności bez względu na rodzaj schorzenia, oraz osoby o lekkim stopniu niepełnosprawności w związku ze schorzeniami narządów ruchu;
+- **7)** (uchylony)
+- **8)** Rządową Agencję Rezerw Strategicznych.
+
 **Art. 9.** Zwalnia się od podatku następujące czynności cywilnoprawne:
+
+- **1)** sprzedaż walut obcych;
+- **1a)** sprzedaż i zamianę walut wirtualnych w rozumieniu art. 2 ust. 2 pkt 26 ustawy dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. 2025 r. poz. 644 i 1669);
+- **2)** sprzedaż własności gruntów, stanowiących gospodarstwo rolne w rozumieniu przepisów o podatku rolnym, wraz będącymi ich częścią składową drzewami i innymi roślinami, pod warunkiem że w wyniku dokonania czynności zostanie utworzone lub powiększone gospodarstwo rolne, a powierzchnia gospodarstwa rolnego utworzonego lub powstałego w wyniku powiększenia będzie niemniejsza niż 11 ha i niewiększa niż 300 ha oraz gospodarstwo to będzie prowadzone przez nabywcę przez okres co najmniej 5 lat od dnia nabycia; zwolnienie to stanowi pomoc de minimis w rolnictwie, o której mowa w rozporządzeniu Komisji (UE) nr 1408/2013 dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis w sektorze rolnym (Dz. Urz. UE L 352
+
+24. 12.2013, str. 9);
+
+- **3)** sprzedaż nieruchomości, prawa użytkowania wieczystego, własnościowego spółdzielczego prawa do lokalu mieszkalnego oraz wynikających przepisów prawa spółdzielczego: prawa do domu jednorodzinnego lub prawa do lokalu w małym domu mieszkalnym, jeżeli nabywcą jest były właściciel (wieczysty użytkownik):
+    - **a)** nieruchomości wywłaszczonej, któremu przyznano odszkodowanie, a nie przyznano nieruchomości zamiennej,
+    - **b)** nieruchomości sprzedanej na cele publiczne określone w przepisach o gospodarce nieruchomościami, który w razie wywłaszczenia spełniałby warunki do przyznania nieruchomości zamiennej,
+    - **c)** nieruchomości lub prawa użytkowania wieczystego, wykupionych na podstawie przepisów o ochronie i kształtowaniu środowiska w wysokości kwoty otrzymanego odszkodowania (uzyskanej ceny), pod warunkiem że nabycie nastąpiło w ciągu 5 lat od daty otrzymania odszkodowania (zapłaty);
+
+- **4)** sprzedaż budynku mieszkalnego lub jego części, lokalu mieszkalnego stanowiącego odrębną nieruchomość, własnościowego spółdzielczego prawa do lokalu mieszkalnego oraz wynikających przepisów prawa spółdzielczego: prawa do domu jednorodzinnego lub prawa do lokalu w małym domu mieszkalnym, jeżeli następuje ona:
+    - **a)** w wykonaniu lub w związku wielostronną umową o zamianie budynku lub praw do lokalu,
+    - **b)** w celu uzyskania w zamian spółdzielczego lokatorskiego prawa do lokalu albo budynku mieszkalnego lub jego części, zajmowanego przez nabywcę na podstawie umowy najmu, określonej w przepisach o najmie lokali mieszkalnych i dodatkach mieszkaniowych ;
+
+- **5)** zamianę budynku mieszkalnego lub jego części, lokali mieszkalnych stanowiących odrębną nieruchomość, spółdzielczych własnościowych praw do lokalu mieszkalnego oraz wynikających przepisów prawa spółdzielczego: praw do domu jednorodzinnego lub praw do lokalu w małym domu mieszkalnym, jeżeli stronami umowy są osoby zaliczone do I grupy podatkowej zgodnie przepisami o podatku od spadków i darowizn;
+- **6)** sprzedaż rzeczy ruchomych, jeżeli podstawa opodatkowania nie przekracza 1000 zł;
+- **7)** sprzedaż bonów i obligacji skarbowych;
+- **8)** sprzedaż bonów pieniężnych Narodowego Banku Polskiego;
+- **9)** sprzedaż praw majątkowych, będących instrumentami finansowymi:
+    - **a)** firmom inwestycyjnym oraz zagranicznym firmom inwestycyjnym,
+    - **b)** dokonywaną za pośrednictwem firm inwestycyjnych lub zagranicznych firm inwestycyjnych,
+    - **c)** dokonywaną w ramach obrotu zorganizowanego,
+    - **d)** dokonywaną poza obrotem zorganizowanym przez firmy inwestycyjne oraz zagraniczne firmy inwestycyjne, jeżeli prawa te zostały nabyte przez te firmy w ramach obrotu zorganizowanego,
+    - **e)** bankom państwowym prowadzącym działalność maklerską,
+    - **f)** dokonywaną za pośrednictwem banków państwowych prowadzących działalność maklerską,
+    - **g)** dokonywaną poza obrotem zorganizowanym przez banki państwowe prowadzące działalność maklerską, jeżeli prawa te zostały nabyte przez te banki w ramach obrotu zorganizowanego w rozumieniu przepisów ustawy dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. 2024 r. poz. 722, późn. zm. );
+
+- **9a)** sprzedaż towarów giełdowych na giełdach towarowych;
+- **9b)** (uchylony)
+- **10)** pożyczki udzielane:
+    - **a)** przez przedsiębiorców niemających na terytorium Rzeczypospolitej Polskiej siedziby lub zarządu, prowadzących działalność w zakresie kredytowania oraz udzielania pożyczek,
+    - **b)** w formie pieniężnej na podstawie umowy zawartej między osobami, o których mowa w art. 4a ustawy dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. 2024 r. poz. 1837 oraz 2025 r. poz. 769, 1064 i 1854), w wysokości przekraczającej kwotę, określoną w art. 9 ust. 1 pkt 1 tej ustawy, pod warunkiem: złożenia deklaracji w sprawie podatku od czynności cywilnoprawnych właściwemu organowi podatkowemu w terminie 14 dni od daty dokonania czynności, wyłączeniem przypadku, gdy umowa została zawarta w formie aktu notarialnego, udokumentowania otrzymania pieniędzy przez biorącego pożyczkę dowodem przekazania na jego rachunek płatniczy lub na jego inny rachunek w banku lub w spółdzielczej kasie oszczędnościowo-kredytowej, lub przekazem pocztowym,
+    - **c)** na podstawie umowy zawartej między osobami zaliczonymi do I grupy podatkowej do wysokości kwoty niepodlegającej opodatkowaniu na zasadach określonych w przepisach o podatku od spadków i darowizn,
+    - **d)** na podstawie umowy zawartej między innymi podmiotami niż osoby, o których mowa w lit. b i c, jeżeli kwota lub wartość pożyczki nie przekracza 1000 zł,
+    - **e)** kas lub funduszów zakładowych, funduszów związków zawodowych, kas zapomogowo-pożyczkowych, spółdzielczych kas oszczędnościowo-kredytowych, koleżeńskich kas oszczędnościowo-pożyczkowych działających w wojsku oraz zakładowego funduszu świadczeń socjalnych,
+    - **f)** utworzonych w drodze ustawy innych funduszów celowych,
+    - **g)** (uchylona)
+    - **h)** (uchylona)
+    - **i)** przez wspólnika (akcjonariusza) spółce kapitałowej;
+
+- **11)** umowy spółki i ich zmiany:
+    - **a)** związane przekształceniem lub łączeniem spółek w części wkładów do spółki albo kapitału zakładowego, których wartość była uprzednio opodatkowana podatkiem od czynności cywilnoprawnych lub podatkiem od wkładów kapitałowych do spółek kapitałowych na terytorium państwa członkowskiego innego niż Rzeczpospolita Polska albo od których zgodnie prawem państwa członkowskiego podatek nie był naliczany,
+    - **b)** związane podwyższeniem kapitału zakładowego pokrytego niezwróconych wspólnikom lub akcjonariuszom dopłat albo niezwróconej pożyczki udzielonej spółce kapitałowej przez wspólnika lub akcjonariusza, które były uprzednio opodatkowane podatkiem od czynności cywilnoprawnych lub podatkiem od wkładów kapitałowych do spółek kapitałowych na terytorium państwa członkowskiego innego niż Rzeczpospolita Polska,
+    - **c)** związane podwyższeniem kapitału zakładowego w części dotyczącej wartości, o którą obniżono kapitał zakładowy w następstwie strat poniesionych przez spółkę kapitałową, pod warunkiem że podwyższenie kapitału zakładowego następuje w okresie 4 lat po jego obniżeniu,
+    - **d)** jeżeli przedmiotem działalności spółki kapitałowej jest świadczenie usług użyteczności publicznej w zakresie transportu publicznego, zarządzania portami i przystaniami morskimi, zaopatrzenia ludności w wodę, gaz, energię elektryczną, energię cieplną lub zbiorowego odprowadzania ścieków i w wyniku zawarcia umowy spółki Skarb Państwa lub jednostka samorządu terytorialnego obejmuje co najmniej połowę udziałów lub akcji w tej spółce albo w chwili zmiany umowy spółki Skarb Państwa lub jednostka samorządu terytorialnego posiada już co najmniej połowę udziałów lub akcji w tej spółce;
+
+- **12)** (uchylony)
+- **13)** ustanowienie hipoteki:
+    - **a)** na morskich statkach handlowych i rybackich,
+    - **b)** na zabezpieczenie dotacji lub innych form pomocy finansowej, udzielanych organizacjom społecznym działającym w dziedzinie sportu i turystyki,
+    - **c)** na zabezpieczenie wierzytelności banków tytułu kredytów udzielanych rolnikom indywidualnym lub zespołom rolników indywidualnych na budownictwo inwentarskie lub składowe, wraz urządzeniami towarzyszącymi,
+    - **d)** przysługującej spółdzielniom mieszkaniowym i wierzycielom spółdzielni mieszkaniowych,
+    - **e)** na zabezpieczenie pożyczek i kredytów udzielanych funduszy celowych utworzonych w drodze ustawy;
+
+- **14)** (uchylony)
+- **15)** sprzedaż nieruchomości dokonaną w ramach realizacji prawa do rekompensaty w rozumieniu ustawy dnia 8 lipca 2005 r. o realizacji prawa do rekompensaty tytułu pozostawienia nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej (Dz. U. 2017 r. poz. 2097) do wysokości kwoty odpowiadającej wartości zrealizowanego prawa do rekompensaty;
+- **16)** zbycia, o którym mowa w art. 8a ust. 1 ustawy dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego (Dz. U. 2024 r. poz. 1383 oraz 2025 r. poz. 1822), na rzecz przedsiębiorstwa, o którym mowa w art. 8 ust. 1 tej ustawy;
+- **17)** sprzedaż, której przedmiotem jest prawo własności lokalu mieszkalnego stanowiącego odrębną nieruchomość, prawo własności budynku mieszkalnego jednorodzinnego, spółdzielcze własnościowe prawo do lokalu dotyczące lokalu mieszkalnego albo domu jednorodzinnego, jeżeli kupującym jest osoba fizyczna lub osoby fizyczne, którym w dniu sprzedaży i przed tym dniem nie przysługiwało żadne tych praw ani udział w tych prawach, chyba że udział ten nie przekracza lub nie przekraczał 50 % i został nabyty w drodze dziedziczenia.
 
 #### Rozdział 5 Zapłata, pobór i zwrot podatku
 
@@ -276,8 +391,7 @@ o podatku od czynności cywilnoprawnych
 
 1. Organem podatkowym właściwym miejscowo w sprawach podatku od czynności cywilnoprawnych od umów, których przedmiotem są rzeczy znajdujące się na terytorium Rzeczypospolitej Polskiej lub prawa majątkowe wykonywane w kraju, jest:
 
-- **1)** od przeniesienia własności nieruchomości, własnościowego spółdzielczego prawa do lokalu mieszkalnego, spółdzielczego prawa do lokalu użytkowego oraz wynikających przepisów prawa spółdzielczego: prawa do domu jednorodzinnego i prawa do lokalu w małym domu mieszkalnym, prawa do miejsca postojowego w garażu wielostanowiskowym lub prawa użytkowania wieczystego naczelnik urzędu skarbowego właściwy ze względu na miejsce położenia nieruchomości;
-- **2)** od przeniesienia własności rzeczy lub praw majątkowych, innych niż wymienione w pkt 1, oraz od pozostałych umów naczelnik urzędu skarbowego właściwy ze względu na miejsce zamieszkania lub siedzibę podatnika, a w przypadku gdy obowiązek zapłaty ciąży solidarnie na kilku podmiotach naczelnik urzędu skarbowego właściwy ze względu na miejsce zamieszkania lub siedzibę jednego tych podmiotów;
+- **1)** od przeniesienia własności nieruchomości, własnościowego spółdzielczego prawa do lokalu mieszkalnego, spółdzielczego prawa do lokalu użytkowego oraz wynikających przepisów prawa spółdzielczego: prawa do domu jednorodzinnego i prawa do lokalu w małym domu mieszkalnym, prawa do miejsca postojowego w garażu wielostanowiskowym lub prawa użytkowania wieczystego naczelnik urzędu skarbowego właściwy ze względu na miejsce położenia nierucho2) od przeniesienia własności rzeczy lub praw majątkowych, innych niż wymienione w pkt 1, oraz od pozostałych umów naczelnik urzędu skarbowego właściwy ze względu na miejsce zamieszkania lub siedzibę podatnika, a w przypadku gdy obowiązek zapłaty ciąży solidarnie na kilku podmiotach naczelnik urzędu skarbowego właściwy ze względu na miejsce zamieszkania lub siedzibę jednego tych podmiotów;
 - **2a)** od ustanowienia hipoteki naczelnik urzędu skarbowego właściwy ze względu na miejsce zamieszkania lub siedzibę składającego oświadczenie woli o ustanowieniu tego prawa, a w przypadku gdy oświadczenie woli składane jest przez kilka podmiotów naczelnik urzędu skarbowego właściwy ze względu na miejsce zamieszkania lub siedzibę jednego tych podmiotów;
 - **3)** od umowy spółki naczelnik urzędu skarbowego właściwy ze względu na siedzibę spółki.
 - **4)** (uchylony)

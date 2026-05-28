@@ -22,10 +22,22 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-29 |
 | Data wydania | 2015-12-31 |
+| Wejście w życie | 2015-12-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002365) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2365/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. poz. 478) wprowadza się następujące zmiany:
+
+- **1)** w art. 41: ust. 12 otrzymuje brzmienie: „
+    - **a)**
+
+12. Ceny zakupu energii elektrycznej instalacji odnawialnych źródeł energii o mocy do 3 kW, o których mowa w ust. 10, obowiązują do dnia, gdy łączna moc oddawanych do użytku źródeł nie przekroczy 300 MW lub do zmiany ich wysokości rozporządzeniem ministra właściwego do spraw energii. ” , ust. 17 otrzymuje brzmienie: „
+
+- **b)**
+
+17. Ceny zakupu energii elektrycznej instalacji odnawialnych źródeł energii o mocy powyżej 3 kW do 10 kW włącznie, o których mowa w ust. 15, obowiązują do dnia, gdy łączna moc oddawanych do użytku źródeł nie przekroczy progu 500 MW lub do zmiany ich wysokości rozporządzeniem ministra właściwego do spraw energii. ” ;
+
+- **2)** po art. 188 dodaje się art. 188a w brzmieniu: „
 
 **Art. 188a.**
 
@@ -91,9 +103,45 @@ source: "eli-html"
 
 **Art. 194a.** Na potrzeby ustalenia średniej rocznej, o której mowa w art. 44 ust. 8 pkt 2, uwzględnia się ilość energii elektrycznej wytworzonej w okresie od dnia 1 stycznia 2014 r. do dnia wejścia w życie rozdziału 4. ” ;
 
+- **4)** art. 222 otrzymuje brzmienie: „
+
 **Art. 222.** Przepisy art. 9e i art. 9e1 ustawy zmienianej w art. 179 tracą moc z dniem 1 lipca 2016 r. ” ;
 
+- **5)** w art. 223 w pkt 1: wprowadzenie do wyliczenia otrzymuje brzmienie: „ rozdziału 4, art. 130, art. 178, art. 179 pkt 11 w zakresie uchylenia art. 9o, pkt 13 w zakresie uchylenia art. 9v, pkt 20, 21 i 29 oraz art. 182 pkt 1 lit. a, które wchodzą w życie z dniem 1 lipca 2016 r., z wyjątkiem: ” , po lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ art. 41 ust. 14 i 19, art. 53 ust. 4, art. 72, art. 73 ust. 7 oraz art. 77 ust. 1, które wchodzą w życie z dniem 1 stycznia 2016 r.; ” ;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **6)** w art. 6 ust. 5, art. 9 ust. 2, art. 10 ust. 5, art. 17 ust. 3 pkt 1, art. 32 ust. 3, art. 35 ust. 4, art. 39 ust. 7, art. 41 ust. 13 i 18, art. 53 ust. 4, art. 60, art. 61, art. 62, art. 69 ust. 1, art. 73 ust. 7, art. 77 ust. 1–4, art. 78 ust. 10, art. 81 ust. 7, art. 110 pkt 1, art. 113, art. 114, art. 119, art. 126 ust. 1 i 3–5, art. 127 ust. 1, 2, 4 i 5, art. 128 ust. 1 pkt 1 i ust. 2, art. 129 ust. 3, art. 131 ust. 1, 2, 4 i 5, art. 132 ust. 1, art. 133, art. 134, art. 152, art. 154 ust. 5 i 6, art. 157 ust. 2, art. 162, art. 164 ust. 3, art. 165 ust. 1 i 4–6, art. 166, art. 167, art. 171, art. 209, art. 211, art. 212 oraz art. 218 użyte w różnych przypadkach wyrazy „minister właściwy do spraw gospodarki” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw energii”.
+
 **Art. 2.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 9e: po ust. 1a dodaje się ust. 1b i 1c w brzmieniu: „
+    - **a)**
+
+1b. Świadectwo pochodzenia nie przysługuje dla energii elektrycznej wytworzonej od dnia 1 stycznia 2016 r. w instalacji odnawialnego źródła energii o łącznej mocy zainstalowanej elektrycznej większej niż 5 MW, wykorzystującej do wytworzenia tej energii hydroenergię w rozumieniu ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii.
+
+1c. Dla energii elektrycznej wytworzonej od dnia 1 stycznia 2016 r. z odnawialnego źródła energii w instalacji spalania wielopaliwowego w rozumieniu ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, z wyłączeniem energii elektrycznej z odnawialnego źródła energii wytworzonej w dedykowanej instalacji spalania wielopaliwowego w rozumieniu tej ustawy, przysługuje świadectwo pochodzenia skorygowane współczynnikiem 0,5. ” , w ust. 2 pkt 6 otrzymuje brzmienie „
+
+- **b)**
+- **6)** kwalifikację instalacji odnawialnego źródła energii do instalacji, o której mowa w art. 188 ust. 19 i art. 188a ust. 8 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii. ” , ust. 11 otrzymuje brzmienie: „
+    - **c)**
+
+11. Podmiot, o którym mowa w ust. 9, jest obowiązany na wniosek przedsiębiorstwa energetycznego, odbiorcy końcowego oraz towarowego domu maklerskiego lub domu maklerskiego, o których mowa w art. 188 ust. 2 i art. 188a ust. 2 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, lub innego podmiotu, któremu przysługują prawa majątkowe wynikające ze świadectwa pochodzenia, wydać dokument stwierdzający prawa majątkowe wynikające z tych świadectw przysługujące wnioskodawcy i odpowiadającą tym prawom ilość energii elektrycznej. ” , ust. 13–14 otrzymują brzmienie: „
+
+- **d)**
+
+13. Prezes Urzędu Regulacji Energetyki na wniosek przedsiębiorstwa energetycznego, odbiorcy końcowego oraz towarowego domu maklerskiego lub domu maklerskiego, o których mowa w art. 188 ust. 2 i art. 188a ust. 2 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, którym przysługują prawa majątkowe wynikające ze świadectw pochodzenia umarza, w drodze decyzji, te świadectwa w całości lub części.
+
+13a. Towarowy dom maklerski lub dom maklerski wykonując obowiązek, o którym mowa w art. 188 ust. 1 i art. 188a ust. 1 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, w odniesieniu do transakcji realizowanych na zlecenie odbiorców końcowych, może złożyć wniosek do Prezesa Urzędu Regulacji Energetyki o umorzenie świadectw pochodzenia należących do innego podmiotu, któremu przysługują wynikające z tych świadectw prawa majątkowe, o ile dołączy pisemną zgodę tego podmiotu na zaliczenie tych świadectw do wypełnienia obowiązku przez towarowy dom maklerski lub dom maklerski.
+
+14. Świadectwo pochodzenia umorzone do dnia 30 czerwca danego roku kalendarzowego jest uwzględniane przy rozliczeniu wykonania obowiązku określonego w art. 188 ust. 1 i art. 188a ust. 1 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii w poprzednim roku kalendarzowym. ” , ust. 16 otrzymuje brzmienie: „
+
+- **e)**
+
+16. Przedsiębiorstwo energetyczne, odbiorca końcowy oraz towarowy dom maklerski lub dom maklerski, o których mowa w art. 188 ust. 2 i art. 188a ust. 2 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, wraz z wnioskiem o umorzenie świadectw pochodzenia jest obowiązany złożyć do Prezesa Urzędu Regulacji Energetyki dokument, o którym mowa w ust. 11. ” ;
+
+- **2)** art. 9v otrzymuje brzmienie: „
 
 **Art. 9v.** Energię elektryczną wytworzoną w mikroinstalacji przyłączonej do sieci dystrybucyjnej znajdującej się na terenie obejmującym obszar działania sprzedawcy z urzędu i oferowaną do sprzedaży przez osobę, o której mowa w art. 9u, jest obowiązany zakupić ten sprzedawca. Zakup tej energii odbywa się po cenie równej 100% średniej ceny sprzedaży energii elektrycznej na rynku konkurencyjnym w poprzednim kwartale ogłoszonej przez Prezesa URE na podstawie art. 23 ust. 2 pkt 18a. ” .
 

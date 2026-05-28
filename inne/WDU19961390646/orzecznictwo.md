@@ -3,7 +3,6 @@
 Orzeczenia powołujące: *Ustawa z dnia 30 sierpnia 1996 r. o zmianie ustawy o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży oraz o zmianie niektórych innych ustaw.*
 
 Łącznie: **1** orzeczeń
-(pominięto 1 orzeczeń sądów rejonowych)
 
 ## art. 1 (1)
 

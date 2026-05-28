@@ -8,12 +8,10 @@ pos: 1001
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# zmianie ustawy rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz produktach tradycyjnych oraz niektórych innych ustaw
-
-*USTAWA z dnia 10 czerwca 2016 r.*
+# Ustawa z dnia 10 czerwca 2016 r. o zmianie ustawy o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,148 +22,285 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2016-06-10 |
 | Data wydania | 2016-07-11 |
+| Wejście w życie | 2016-07-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001001) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1001/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 grudnia 2004 r. rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz produktach tradycyjnych (Dz. U. z 2005 r. poz. 68 oraz z 2008 r. poz. 1056 i 1368) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 17 grudnia 2004 r. o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych (Dz. U. z 2005 r. poz. 68 oraz z 2008 r. poz. 1056 i 1368) wprowadza się następujące zmiany:
 
-**Art. 8.** Wniosek rejestrację poza elementami określonymi odpowiednio 8 albo 20 rozporządzenia nr 1151/2012 zawiera:
+- **1)** w art. 1 pkt 1 otrzymuje brzmienie: „
+- **1)** zadania oraz właściwość organów w zakresie oceny wniosków o rejestrację nazw pochodzenia, oznaczeń geograficznych i gwarantowanych tradycyjnych specjalności produktów rolnych lub środków spożywczych, zwanych dalej „wnioskami o rejestrację”, określone w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1151/2012 z dnia 21 listopada 2012 r. w sprawie systemów jakości produktów rolnych i środków spożywczych (Dz. Urz. UE L 343 z 14.12.2012, str. 1), zwanym dalej „rozporządzeniem nr 1151/2012”, oraz przepisach Unii Europejskiej wydanych w trybie tego rozporządzenia; ” ;
+- **2)** art. 2 otrzymuje brzmienie: „
 
-**Art. 30.** Rada, terminie 14 dni od dnia przekazania uzasadnionego oświadczenia sprzeciwie, którym mowa 51 ust. 2 rozporządzenia nr 1151/2012, wydaje opinię spełnianiu przez uzasadnione oświadczenie sprzeciwie wymagań określonych 10 albo 21 rozporządzenia nr 1151/2012.
+**Art. 2.** Ilekroć w ustawie jest mowa o:
 
-**Art. 31.** Minister właściwy do spraw rynków rolnych, biorąc pod uwagę opinię Rady, której 30, niezwłocznie po jej otrzymaniu:
+- **1)** wnioskodawcy – należy przez to rozumieć wnioskodawcę, o którym mowa w art. 49 ust. 1 rozporządzenia nr 1151/2012;
+- **2)** rejestrze gwarantowanych tradycyjnych specjalności − należy przez to rozumieć rejestr gwarantowanych tradycyjnych specjalności, o którym mowa w art. 22 rozporządzenia nr 1151/2012;
+- **3)** rejestrze chronionych nazw pochodzenia oraz chronionych oznaczeń geograficznych − należy przez to rozumieć rejestr chronionych nazw pochodzenia i chronionych oznaczeń geograficznych, o którym mowa w art. 11 rozporządzenia nr 1151/2012;
+- **4)** specyfikacji – należy przez to rozumieć specyfikację produktu, o której mowa w art. 7 lub art. 19 rozporządzenia nr 1151/2012. ” ;
+- **3)** w art. 4: pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** przekazywania Komisji Europejskiej: jednolitego dokumentu, o którym mowa w art. 8 ust. 1 lit. c rozporządzenia nr 1151/2012, zwanego dalej „jednolitym dokumentem”, wniosku o rejestrację, o którym mowa w art. 20 rozporządzenia nr 1151/2012, wniosku o zatwierdzenie zmiany wspecyfikacji, o którym mowa w art. 53 rozporządzenia nr 1151/2012; ” , pkt 4 i 5 otrzymują brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **b)**
+
+- **4)** prowadzenia postępowania w przypadku złożenia sprzeciwu przez inne państwo wobec wniosku o rejestrację zgłoszonego przez Rzeczpospolitą Polską;
+- **5)** przyjmowania i zgłaszania sprzeciwu oraz prowadzenia postępowania w przypadku złożenia sprzeciwu przez Rzeczpospolitą Polską wobec wniosku o rejestrację zgłoszonego przez inne państwo; ” ;
+- **4)** w art. 6 pkt 4 i 5 otrzymują brzmienie: „
+- **4)** uzasadnione oświadczenia o sprzeciwie wobec wniosków o rejestrację, o których mowa w art. 28a ust. 2;
+- **5)** uzasadnione oświadczenia o sprzeciwie wobec wniosków o rejestrację, o których mowa w art. 32 ust. 1. ” ;
+- **5)** art. 7 i art. 8 otrzymują brzmienie: „
+
+**Art. 7.** Wniosek o rejestrację może dotyczyć tylko jednego produktu rolnego lub środka spożywczego, z wyjątkiem art. 5 rozporządzenia wykonawczego Komisji (UE) nr 668/2014 z dnia 13 czerwca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1151/2012 w sprawie systemów jakości produktów rolnych i środków spożywczych (Dz. Urz. UE L 179 z 19.06.2014, str. 36, z późn. zm.).
+
+**Art. 8.** Wniosek o rejestrację poza elementami określonymi odpowiednio w art. 8 albo art. 20 rozporządzenia nr 1151/2012 zawiera:
+
+- **1)** wskazanie: osoby działającej w imieniu wnioskodawcy, adresu do korespondencji wnioskodawcy;
+    - **a)**
+    - **b)**
+
+- **2)** wykaz dokumentów lub informacji dołączonych do wniosku o rejestrację. ” ;
+- **6)** w art. 9 pkt 2 otrzymuje brzmienie: „
+- **2)** składa się w postaci papierowej oraz na informatycznym nośniku danych. ” ;
+- **7)** w art. 14 w ust. 1 pkt 4 otrzymuje brzmienie: „
+- **4)** informacje, czy wnioskodawca ubiega się o rejestrację nazwy pochodzenia, oznaczenia geograficznego albo gwarantowanej tradycyjnej specjalności produktu rolnego lub środka spożywczego ” ;
+- **8)** w art. 16 pkt 4 otrzymuje brzmienie: „
+- **4)** zamieszcza na stronie internetowej urzędu obsługującego ministra właściwego do spraw rynków rolnych treść wniosku o rejestrację. ” ;
+- **9)** w art. 18 ust. 1 otrzymuje brzmienie: „
+
+1. W przypadku niewniesienia zastrzeżenia do wniosku o rejestrację Rada, w terminie 30 dni od dnia upływu terminu na wniesienie zastrzeżenia, wydaje opinię do tego wniosku o spełnianiu wymagań określonych w rozporządzeniu nr 1151/2012. ” ;
+
+- **10)** w art. 19 w ust. 1 w pkt 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ wydaje decyzję o stwierdzeniu spełniania wymagań określonych w rozporządzeniu nr 1151/2012, a następnie przekazuje niezwłocznie Komisji Europejskiej: ” ;
+- **11)** w art. 21 ust. 1 otrzymuje brzmienie: „
+
+1. W przypadku wniesienia zastrzeżenia do wniosku o rejestrację Rada, w terminie 30 dni od dnia otrzymania zastrzeżenia, wydaje opinię do tego wniosku o zasadności wniesionego zastrzeżenia oraz spełnianiu przez wniosek o rejestrację wymagań określonych w rozporządzeniu nr 1151/2012. ” ;
+
+- **12)** w art. 22 w ust. 1 w pkt 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ w przypadku gdy wniosek o rejestrację jest zasadny, a zastrzeżenie jest niezasadne – wydaje decyzję o stwierdzeniu spełniania wymagań określonych w rozporządzeniu nr 1151/2012 i oddaleniu zastrzeżenia, jeżeli zastrzeżenie nie zostało oddalone na podstawie art. 22a, a następnie przekazuje niezwłocznie Komisji Europejskiej: ” ;
+- **13)** art. 22a otrzymuje brzmienie: „
+
+**Art. 22a.** Minister właściwy do spraw rynków rolnych, po uzyskaniu opinii Rady, o której mowa w art. 21 ust. 1, w przypadku gdy wniosek o rejestrację i zastrzeżenie do tego wniosku są zasadne, a z zastrzeżenia wynika, że wnoszący zastrzeżenie wykorzystywał nazwę, która ma zostać zarejestrowana jako nazwa pochodzenia lub oznaczenie geograficzne, przez co najmniej 5 lat poprzedzających dzień ogłoszenia w dzienniku urzędowym ministra właściwego do spraw rynków rolnych danych i informacji, o których mowa w art. 14 ust. 1, może, w drodze decyzji, zezwolić wnoszącemu zastrzeżenie na używanie nazwy w okresie przejściowym, o którym mowa w art. 15 ust. 4 rozporządzenia nr 1151/2012, i oddalić zastrzeżenie. ” ;
+
+- **14)** w art. 23 ust. 2 otrzymuje brzmienie: „
+
+2. Rada w terminie 30 dni od dnia przekazania wniosku o rejestrację przez ministra właściwego do spraw rynków rolnych wydaje opinię do tego wniosku o spełnianiu przez wniosek o rejestrację, o którym mowa w art. 22 ust. 1 pkt 3, wymagań określonych w rozporządzeniu nr 1151/2012. ” ;
+
+- **15)** w art. 24 w ust. 1 w pkt 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ wydaje decyzję o stwierdzeniu spełniania wymagań określonych w rozporządzeniu nr 1151/2012, a następnie: ” ;
+- **16)** art. 26 otrzymuje brzmienie: „
+
+**Art. 26.** Przepisy art. 7–25 stosuje się odpowiednio do wniosku o zatwierdzenie zmiany w specyfikacji, z tym że dokumenty, o których mowa w art. 19 ust. 1 pkt 1, art. 22 ust. 1 pkt 1 oraz art. 24 ust. 1 pkt 1, przekazuje się Komisji Europejskiej, jeżeli z przepisów rozporządzenia nr 1151/2012 wynika obowiązek przekazywania Komisji Europejskiej informacji zmienianych we wniosku o rejestrację. ” ;
+
+- **17)** art. 28 otrzymuje brzmienie: „
+
+**Art. 28.** Osoba fizyczna, osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, mająca uzasadniony interes, w postępowaniu w sprawie rejestracji nazwy pochodzenia, oznaczenia geograficznego lub gwarantowanej tradycyjnej specjalności produktów rolnych lub środków spożywczych, może złożyć do ministra właściwego do spraw rynków rolnych zawiadomienie o sprzeciwie, o którym mowa w art. 51 ust. 1 rozporządzenia nr 1151/2012, wobec wniosku o rejestrację, w terminie 2 miesięcy od dnia ogłoszenia w Dzienniku Urzędowym Unii Europejskiej:
+
+- **1)** wniosku o rejestrację lub wniosku o zatwierdzenie zmiany w specyfikacji produktu rolnego lub środka spożywczego będącego gwarantowaną tradycyjną specjalnością,
+- **2)** jednolitego dokumentu – w przypadku wniosku o rejestrację lub wniosku o zatwierdzenie zmiany w specyfikacji produktu rolnego lub środka spożywczego posiadającego chronioną nazwę pochodzenia lub chronione oznaczenie geograficzne złożonego przez wnioskodawcę, którego siedziba lub miejsce zamieszkania znajduje się poza terytorium Rzeczypospolitej Polskiej. ” ;
+- **18)** po art. 28 dodaje się art. 28a w brzmieniu: „
+
+1. Minister właściwy do spraw rynków rolnych niezwłocznie przekazuje Komisji Europejskiej zawiadomienie o sprzeciwie wobec wniosku o rejestrację.
+
+2. W przypadku złożenia zawiadomienia o sprzeciwie wobec wniosku o rejestrację podmiot, o którym mowa w art. 28, składa do ministra właściwego do spraw rynków rolnych uzasadnione oświadczenie o sprzeciwie, o którym mowa w art. 51 ust. 2 rozporządzenia nr 1151/2012, w terminie 30 dni od dnia złożenia zawiadomienia o sprzeciwie wobec wniosku o rejestrację.
+
+3. Do uzasadnionego oświadczenia o sprzeciwie, o którym mowa w art. 51 ust. 2 rozporządzenia nr 1151/2012, stosuje się odpowiednio przepisy art. 9 pkt 1, art. 10–13, art. 17 ust. 2 i 3 oraz art. 18 ust. 2. ” ;
+
+- **19)** art. 29–32 otrzymują brzmienie: „
+
+**Art. 29.** Minister właściwy do spraw rynków rolnych niezwłocznie przekazuje Radzie uzasadnione oświadczenie o sprzeciwie, o którym mowa w art. 51 ust. 2 rozporządzenia nr 1151/2012.
+
+**Art. 30.** Rada, w terminie 14 dni od dnia przekazania uzasadnionego oświadczenia o sprzeciwie, o którym mowa w art. 51 ust. 2 rozporządzenia nr 1151/2012, wydaje opinię o spełnianiu przez uzasadnione oświadczenie o sprzeciwie wymagań określonych w art. 10 albo art. 21 rozporządzenia nr 1151/2012.
+
+**Art. 31.** Minister właściwy do spraw rynków rolnych, biorąc pod uwagę opinię Rady, o której mowa w art. 30, niezwłocznie po jej otrzymaniu:
+
+- **1)** przekazuje uzasadnione oświadczenie o sprzeciwie Komisji Europejskiej – w przypadku gdy uzasadnione oświadczenie o sprzeciwie spełnia wymagania określone w art. 10 albo art. 21 rozporządzenia nr 1151/2012;
+- **2)** wydaje decyzję o odmowie przekazania uzasadnionego oświadczenia o sprzeciwie Komisji Europejskiej − w przypadku gdy uzasadnione oświadczenie o sprzeciwie nie spełnia wymagań określonych w art. 10 albo art. 21 rozporządzenia nr 1151/2012.
 
 **Art. 32.**
 
-1. Minister właściwy do spraw rynków rolnych niezwłocznie powiadamia wnioskodawcę otrzymaniu:
+1. Minister właściwy do spraw rynków rolnych niezwłocznie powiadamia wnioskodawcę o otrzymaniu:
 
-- **1)** zawiadomienia sprzeciwie,
-- **2)** uzasadnionego oświadczenia sprzeciwie − wobec wniosku rejestrację, ze strony innego państwa.
+- **1)** zawiadomienia o sprzeciwie,
+- **2)** uzasadnionego oświadczenia o sprzeciwie wobec wniosku o rejestrację, ze strony innego państwa.
 
-2. Wnioskodawca, terminie 30 dni od dnia otrzymania powiadomienia, którym ust. 1, może przedstawić na piśmie ministrowi właściwemu do spraw rynków rolnych stanowisko do złożonego zawiadomienia sprzeciwie lub uzasadnionego oświadczenia sprzeciwie wobec wniosku rejestrację.
+2. Wnioskodawca, w terminie 30 dni od dnia otrzymania powiadomienia, o którym mowa w ust. 1, może przedstawić na piśmie ministrowi właściwemu do spraw rynków rolnych stanowisko do złożonego zawiadomienia o sprzeciwie lub uzasadnionego oświadczenia o sprzeciwie wobec wniosku o rejestrację.
 
-3. Do uzasadnionego oświadczenia sprzeciwie złożonego przez inne państwo stosuje się odpowiednio 29 i 30.”; „Art. 34. 1. Minister właściwy do spraw rynków rolnych przekazuje państwu, które złożyło sprzeciw wobec wniosku rejestrację, uzgodnione z wnioskodawcą stanowisko sprawie sprzeciwu oraz proponuje środki zmierzające do osiągnięcia porozumienia.
+3. Do uzasadnionego oświadczenia o sprzeciwie złożonego przez inne państwo stosuje się odpowiednio art. 29 i art. 30. ” ;
 
-2. Minister właściwy do spraw rynków rolnych po przekazaniu stanowiska, którym ust. 1, podejmuje działania zmierzające do osiągnięcia porozumienia.
+- **20)** art. 34 otrzymuje brzmienie: „
 
-3. Po osiągnięciu porozumienia minister właściwy do spraw rynków rolnych przekazuje Komisji Europejskiej informację osiągniętym porozumieniu.”;
+**Art. 34.**
 
-- **21)** tytuł rozdziału 6 otrzymuje „Kontrola produktów rolnych i środków spożywczych”;
-- **22)** 39:
-    - **a)** ust. 1: − pkt 1 otrzymuje „1) minister właściwy do spraw rynków rolnych − upoważniający jednostki certyfikujące, spełniające wymagania określone 37 ust. 1 lit. b rozporządzenia nr 1151/2012 i akredytowane zgodnie z 39 rozporządzenia nr 1151/2012, do przeprowadzania kontroli, wydawania i cofania certyfikatów potwierdzających zgodność procesu produkcji produktów rolnych i środków spożywczych posiadających chronioną nazwę pochodzenia, chronione oznaczenie geograficzne lub będących gwarantowanymi tradycyjnymi specjalnościami ze specyfikacją, zwanych dalej „certyfikatami zgodności”;”, − pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 brzmieniu: „5) Inspekcja Jakości Handlowej Artykułów Rolno-Spożywczych, zwana dalej „Inspekcją”, sprawująca nadzór nad produkcją produktów rolnych lub środków spożywczych posiadających chronione nazwy pochodzenia, chronione oznaczenia geograficzne lub będących gwarantowanymi tradycyjnymi specjalnościami.”,
-    - **b)** dodaje się ust. 3 brzmieniu: „3. Nadzór, którym ust. 1 pkt 5, jest sprawowany na podstawie przepisów jakości handlowej artykułów rolno-spożywczych dotyczących postępowania kontrolnego.”;
+1. Minister właściwy do spraw rynków rolnych przekazuje państwu, które złożyło sprzeciw wobec wniosku o rejestrację, uzgodnione z wnioskodawcą stanowisko w sprawie sprzeciwu oraz proponuje środki zmierzające do osiągnięcia porozumienia.
 
-- **23)** 40:
-    - **a)** ust. 1: – pkt 1 wprowadzenie do wyliczenia otrzymuje „przeprowadza audyty i inspekcje upoważnionych jednostek certyfikujących zakresie:”, – pkt 4 otrzymuje „4) przekazuje upoważnionym jednostkom certyfikującym wnioski wynikające z ustaleń audytu lub inspekcji;”, – dodaje się pkt 5 i 6 brzmieniu: „5) nakłada na upoważnione jednostki certyfikujące obowiązek wykonania wyznaczonym terminie odpowiednich działań naprawczych związanych z funkcjonowaniem tych jednostek;
+2. Minister właściwy do spraw rynków rolnych po przekazaniu stanowiska, o którym mowa w ust. 1, podejmuje działania zmierzające do osiągnięcia porozumienia.
 
-- **6)** zatwierdza plan kontroli zgodności procesu produkcji produktów rolnych lub środków spożywczych posiadających chronioną nazwę pochodzenia, chronione oznaczenie geograficzne lub będących gwarantowanymi tradycyjnymi specjalnościami ze specyfikacją.”,
-    - **b)** po ust. 1 dodaje się ust. 1a brzmieniu: „1a. Jeżeli na podstawie wniosków wynikających z ustaleń audytu lub inspekcji, których ust. 1 pkt 4, Główny Inspektor stwierdzi, że jednostka certyfikująca nie realizuje odpowiednio zadań, powierzonych jej na podstawie 41 ust. 3, lub jeżeli jednostka certyfikująca nie wykona działań naprawczych, których ust. 1 pkt 5, kierując się stopniem zagrożenia interesów producentów kontrolowanych przez tę jednostkę, może, drodze decyzji, zakazać jednostce certyfikującej przyjmowania nowych wniosków przeprowadzenie kontroli zgodności, której 42 ust. 1, oraz nałożyć obowiązek wykonania wyznaczonym terminie przez tę jednostkę odpowiednich działań naprawczych.”,
-    - **c)** ust. 2 wprowadzenie do wyliczenia otrzymuje „Organy Inspekcji mogą:”, „3. Do przeprowadzanych audytów i inspekcji ramach nadzoru, którym ust. 1 i 2, stosuje się odpowiednio przepisy jakości handlowej artykułów rolno-spożywczych.”;
+3. Po osiągnięciu porozumienia minister właściwy do spraw rynków rolnych przekazuje Komisji Europejskiej informację o osiągniętym porozumieniu. ” ;
 
-- **24)** 41:
-    - **a)** ust. 2 pkt 2 otrzymuje „2) dokumenty lub informacje niezbędne do stwierdzenia spełniania wymagań określonych 36 ust. 2 rozporządzenia nr 1151/2012.”,
-    - **b)** ust. 5 otrzymuje „5. Minister właściwy do spraw rynków rolnych na wniosek Głównego Inspektora wydaje decyzję cofnięciu upoważnionej jednostce certyfikującej upoważnienia do przeprowadzania kontroli oraz do wydawania i cofania certyfikatów zgodności przypadku stwierdzenia, że jednostka certyfikująca nie wykonała odpowiednich działań naprawczych terminie określonym decyzji, której 40 ust. 1a, lub przypadku gdy jednostka certyfikująca nie spełnia wymagań określonych 36 ust. 2 rozporządzenia nr 1151/2012.”,
-    - **c)** dodaje się ust. 6 i 7 brzmieniu: „6. W przypadku cofnięcia upoważnienia jednostce certyfikującej, którym ust. 5, certyfikaty zgodności wydane przez tę jednostkę zachowują ważność przez okres nie dłuższy niż 90 dni od dnia, którym decyzja cofnięciu upoważnienia jednostce certyfikującej stała się ostateczna.
+- **21)** tytuł rozdziału 6 otrzymuje brzmienie: „Kontrola produktów rolnych i środków spożywczych”;
+- **22)** w art. 39: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) minister właściwy do spraw rynków rolnych − upoważniający jednostki certyfikujące, spełniające wymagania określone w art. 37 ust. 1 lit. b rozporządzenia nr 1151/2012 i akredytowane zgodnie z art. 39 rozporządzenia nr 1151/2012, do przeprowadzania kontroli, wydawania i cofania certyfikatów potwierdzających zgodność procesu produkcji produktów rolnych i środków spożywczych posiadających chronioną nazwę pochodzenia, chronione oznaczenie geograficzne lub będących gwarantowanymi tradycyjnymi specjalnościami ze specyfikacją, zwanych dalej „certyfikatami zgodności”; ” , – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „ 5) Inspekcja Jakości Handlowej Artykułów Rolno-Spożywczych, zwana dalej „Inspekcją”, sprawująca nadzór nad produkcją produktów rolnych lub środków spożywczych posiadających chronione nazwy pochodzenia, chronione oznaczenia geograficzne lub będących gwarantowanymi tradycyjnymi specjalnościami. ” , dodaje się ust. 3 w brzmieniu: „
+    - **a)**
+    - **b)**
 
-7. Od dnia, którym decyzja cofnięciu upoważnienia jednostce certyfikującej stała się ostateczna, do dnia wyboru przez producenta, którym 42 ust. 2, innego podmiotu kontrolującego, uprawnienia jednostki certyfikującej zakresie nadzoru wydanych certyfikatów zgodności wykonuje Inspekcja.”;
+3. Nadzór, o którym mowa w ust. 1 pkt 5, jest sprawowany na podstawie przepisów o jakości handlowej artykułów rolno-spożywczych dotyczących postępowania kontrolnego. ” ;
 
-- **25)** po 42 dodaje się 42a brzmieniu: „Art. 42a. 1. Upoważniona jednostka certyfikująca prowadzi wykaz producentów, którym wydano lub cofnięto certyfikat zgodności, zawierający co najmniej:
+- **23)** w art. 40: w ust. 1: – w pkt 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ przeprowadza audyty i inspekcje upoważnionych jednostek certyfikujących w zakresie: ” , – pkt 4 otrzymuje brzmienie: „ 4) przekazuje upoważnionym jednostkom certyfikującym wnioski wynikające z ustaleń audytu lub inspekcji; ” , – dodaje się pkt 5 i 6 w brzmieniu: „ 5) nakłada na upoważnione jednostki certyfikujące obowiązek wykonania w wyznaczonym terminie odpowiednich działań naprawczych związanych z funkcjonowaniem tych jednostek; 6) zatwierdza plan kontroli zgodności procesu produkcji produktów rolnych lub środków spożywczych posiadających chronioną nazwę pochodzenia, chronione oznaczenie geograficzne lub będących gwarantowanymi tradycyjnymi specjalnościami ze specyfikacją. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+1a. Jeżeli na podstawie wniosków wynikających z ustaleń audytu lub inspekcji, o których mowa w ust. 1 pkt 4, Główny Inspektor stwierdzi, że jednostka certyfikująca nie realizuje odpowiednio zadań, powierzonych jej na podstawie art. 41 ust. 3, lub jeżeli jednostka certyfikująca nie wykona działań naprawczych, o których mowa w ust. 1 pkt 5, kierując się stopniem zagrożenia interesów producentów kontrolowanych przez tę jednostkę, może, w drodze decyzji, zakazać jednostce certyfikującej przyjmowania nowych wniosków o przeprowadzenie kontroli zgodności, o której mowa w art. 42 ust. 1, oraz nałożyć obowiązek wykonania w wyznaczonym terminie przez tę jednostkę odpowiednich działań naprawczych. ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Organy Inspekcji mogą: ” , ust. 3 otrzymuje brzmienie: „
+
+- **c)**
+- **d)**
+
+3. Do przeprowadzanych audytów i inspekcji w ramach nadzoru, o którym mowa w ust. 1 i 2, stosuje się odpowiednio przepisy o jakości handlowej artykułów rolno-spożywczych. ” ;
+
+- **24)** w art. 41: w ust. 2 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** dokumenty lub informacje niezbędne do stwierdzenia spełniania wymagań określonych w art. 36 ust. 2 rozporządzenia nr 1151/2012. ” , ust. 5 otrzymuje brzmienie: „
+    - **b)**
+
+5. Minister właściwy do spraw rynków rolnych na wniosek Głównego Inspektora wydaje decyzję o cofnięciu upoważnionej jednostce certyfikującej upoważnienia do przeprowadzania kontroli oraz do wydawania i cofania certyfikatów zgodności w przypadku stwierdzenia, że jednostka certyfikująca nie wykonała odpowiednich działań naprawczych w terminie określonym w decyzji, o której mowa w art. 40 ust. 1a, lub w przypadku gdy jednostka certyfikująca nie spełnia wymagań określonych w art. 36 ust. 2 rozporządzenia nr 1151/2012. ” , dodaje się ust. 6 i 7 w brzmieniu: „
+
+- **c)**
+
+6. W przypadku cofnięcia upoważnienia jednostce certyfikującej, o którym mowa w ust. 5, certyfikaty zgodności wydane przez tę jednostkę zachowują ważność przez okres nie dłuższy niż 90 dni od dnia, w którym decyzja o cofnięciu upoważnienia jednostce certyfikującej stała się ostateczna.
+
+7. Od dnia, w którym decyzja o cofnięciu upoważnienia jednostce certyfikującej stała się ostateczna, do dnia wyboru przez producenta, o którym mowa w art. 42 ust. 2, innego podmiotu kontrolującego, uprawnienia jednostki certyfikującej w zakresie nadzoru wydanych certyfikatów zgodności wykonuje Inspekcja. ” ;
+
+- **25)** po art. 42 dodaje się art. 42a w brzmieniu: „
+
+**Art. 42a.**
+
+1. Upoważniona jednostka certyfikująca prowadzi wykaz producentów, którym wydano lub cofnięto certyfikat zgodności, zawierający co najmniej:
+
 - **1)** nazwę albo imię i nazwisko producenta;
 - **2)** siedzibę i adres albo miejsce zamieszkania i adres producenta;
 - **3)** nazwę wytwarzanego produktu rolnego lub środka spożywczego;
 - **4)** datę wydania lub cofnięcia certyfikatu zgodności.
 
-2. Wykaz, którym ust. 1, upoważniona jednostka certyfikująca przekazuje Głównemu Inspektorowi terminie do 10. dnia każdego miesiąca, według stanu za poprzedni miesiąc.
+2. Wykaz, o którym mowa w ust. 1, upoważniona jednostka certyfikująca przekazuje Głównemu Inspektorowi w terminie do 10. dnia każdego miesiąca, według stanu za poprzedni miesiąc.
 
-3. Wykaz, którym ust. 1, sporządza się na formularzach opracowanych i udostępnionych przez Głównego Inspektora i przekazuje się za pośrednictwem środków komunikacji elektronicznej.
+3. Wykaz, o którym mowa w ust. 1, sporządza się na formularzach opracowanych i udostępnionych przez Głównego Inspektora i przekazuje się za pośrednictwem środków komunikacji elektronicznej.
 
-4. Główny Inspektor prowadzi wykaz producentów, posiadających ważny certyfikat zgodności lub ważne świadectwo jakości, którym 42 ust. 4.
+4. Główny Inspektor prowadzi wykaz producentów, posiadających ważny certyfikat zgodności lub ważne świadectwo jakości, o którym mowa w art. 42 ust. 4.
 
-5. Główny Inspektor zamieszcza Biuletynie Informacji Publicznej na stronie podmiotowej Inspekcji wykaz producentów, którym ust. 4.”;
+5. Główny Inspektor zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej Inspekcji wykaz producentów, o którym mowa w ust. 4. ” ;
 
-- **26)** 43 ust. 2 otrzymuje „2. Sprawozdanie, wykaz oraz informacje, których ust. 1, sporządza się na formularzach opracowanych i udostępnionych przez Głównego Inspektora i przekazuje się postaci papierowej oraz za pośrednictwem środków komunikacji elektronicznej.”;
-- **27)** 44 ust. 1 i 2 otrzymują „1. W przypadku stwierdzenia wyniku przeprowadzonej kontroli, której 42 ust. 1, że produkt rolny lub środek spożywczy nie spełnia wymagań określonych specyfikacji, przeprowadzający kontrolę wzywa producenta do usunięcia uchybień wyznaczonym terminie.
+- **26)** w art. 43 ust. 2 otrzymuje brzmienie: „
 
-2. W przypadku nieusunięcia uchybień terminie, którym ust. 1, upoważniona jednostka certyfikująca odmawia wydania producentowi certyfikatu zgodności albo cofa certyfikat zgodności oraz niezwłocznie informuje tym Głównego Inspektora, ministra właściwego do spraw rynków rolnych oraz inne upoważnione jednostki certyfikujące.”;
+2. Sprawozdanie, wykaz oraz informacje, o których mowa w ust. 1, sporządza się na formularzach opracowanych i udostępnionych przez Głównego Inspektora i przekazuje się w postaci papierowej oraz za pośrednictwem środków komunikacji elektronicznej. ” ;
 
-- **28)** po 44 dodaje się 44a brzmieniu: „Art. 44a. 1. Inspekcja Handlowa współpracuje z Inspekcją przy sprawowaniu nadzoru, którym 39 ust. 1 pkt 5, zakresie wprowadzania do obrotu produktów rolnych lub środków spożywczych posiadających chronione nazwy pochodzenia, chronione oznaczenia geograficzne lub będących gwarantowanymi tradycyjnymi
+- **27)** w art. 44 ust. 1 i 2 otrzymują brzmienie: „
 
-2. Główny Inspektor przekazuje Prezesowi Urzędu Ochrony Konkurencji i Konsumentów posiadane informacje producentach produktów rolnych lub środków spożywczych posiadających chronione nazwy pochodzenia, chronione oznaczenia geograficzne lub będących gwarantowanymi tradycyjnymi specjalnościami.
+1. W przypadku stwierdzenia w wyniku przeprowadzonej kontroli, o której mowa w art. 42 ust. 1, że produkt rolny lub środek spożywczy nie spełnia wymagań określonych w specyfikacji, przeprowadzający kontrolę wzywa producenta do usunięcia uchybień w wyznaczonym terminie.
 
-3. Wojewódzki inspektor Inspekcji Handlowej właściwy ze względu na miejsce przeprowadzanej – na zasadach określonych odrębnych przepisach – kontroli podmiotów prowadzących działalność zakresie wprowadzania do obrotu produktów rolnych lub środków spożywczych posiadających chronione nazwy pochodzenia, chronione oznaczenia geograficzne lub będących gwarantowanymi tradycyjnymi specjalnościami lub odwołujących się do chronionych nazw pochodzenia, chronionych oznaczeń geograficznych lub gwarantowanych tradycyjnych specjalności przekazuje wojewódzkiemu inspektorowi właściwemu ze względu na miejsce prowadzenia tej działalności dane i informacje wykrytych trakcie kontroli naruszeniach i podejrzeniach naruszenia przepisów dotyczących rejestracji i ochrony nazw i oznaczeń produktów rolnych i środków spożywczych oraz produktach tradycyjnych zakresie tych produktów.
+2. W przypadku nieusunięcia uchybień w terminie, o którym mowa w ust. 1, upoważniona jednostka certyfikująca odmawia wydania producentowi certyfikatu zgodności albo cofa certyfikat zgodności oraz niezwłocznie informuje o tym Głównego Inspektora, ministra właściwego do spraw rynków rolnych oraz inne upoważnione jednostki certyfikujące. ” ;
 
-4. Szczegółowe warunki i sposób współpracy przy sprawowaniu nadzoru, którym 39 ust. 1 pkt 5, zakresie wprowadzania do obrotu produktów rolnych lub środków spożywczych posiadających chronione nazwy pochodzenia, chronione oznaczenia geograficzne lub będących gwarantowanymi tradycyjnymi specjalnościami lub odwołujących się do chronionych nazw pochodzenia, chronionych oznaczeń geograficznych lub gwarantowanych tradycyjnych specjalności, określa porozumienie zawarte między Prezesem Urzędu Ochrony Konkurencji i Konsumentów a Głównym Inspektorem.”;
+- **28)** po art. 44 dodaje się art. 44a w brzmieniu: „
 
-- **29)** 45:
-    - **a)** ust. 1 pkt 3 otrzymuje „3) wniosku zatwierdzenie zmiany specyfikacji;”,
-    - **b)** ust. 4 otrzymuje „4. Dowód wniesienia opłaty dołącza się do wniosku rejestrację, zastrzeżenia do wniosku rejestrację, wniosku zatwierdzenie zmiany specyfikacji oraz sprzeciwu, którym 28.”;
+**Art. 44a.**
 
-- **30)** 46 otrzymuje „Art. 46. Minister właściwy do spraw rynków rolnych określi, drodze rozporządzenia, stawki opłat za czynności, których 45 ust. 1, mając na względzie zakres czynności podejmowanych przy ocenie wniosków rejestrację, zastrzeżeń do wniosków rejestrację, wniosków zatwierdzenie zmiany specyfikacji oraz sprzeciwów, których 28.”;
-- **31)** 47 ust. 1 otrzymuje „1. Produkty rolne i środki spożywcze przeznaczone do spożycia przez ludzi, których załączniku I do Traktatu funkcjonowaniu Unii Europejskiej, załączniku I do rozporządzenia nr 1151/2012, oraz napoje spirytusowe, których rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 110/2008 z dnia 15 stycznia 2008 r. sprawie definicji, opisu, prezentacji, etykietowania i ochrony oznaczeń geograficznych napojów spirytusowych oraz uchylającym rozporządzenie Rady (EWG) nr 1576/89 (Dz. Urz. UE L 39 z 13.02.2008, str. 16, z późn. zm.), których jakość lub wyjątkowe cechy i właściwości wynikają ze stosowania tradycyjnych metod produkcji, stanowiące element dziedzictwa kulturowego regionu, którym są wytwarzane, oraz będące elementem tożsamości społeczności lokalnej, zwane dalej „produktami tradycyjnymi”, mogą być wpisane na listę produktów tradycyjnych.”;
-- **32)** uchyla się 55;
+1. Inspekcja Handlowa współpracuje z Inspekcją przy sprawowaniu nadzoru, o którym mowa w art. 39 ust. 1 pkt 5, w zakresie wprowadzania do obrotu produktów rolnych lub środków spożywczych posiadających chronione nazwy pochodzenia, chronione oznaczenia geograficzne lub będących gwarantowanymi tradycyjnymi specjalnościami lub odwołujących się do chronionych nazw pochodzenia, chronionych oznaczeń geograficznych lub gwarantowanych tradycyjnych specjalności.
+
+2. Główny Inspektor przekazuje Prezesowi Urzędu Ochrony Konkurencji i Konsumentów posiadane informacje o producentach produktów rolnych lub środków spożywczych posiadających chronione nazwy pochodzenia, chronione oznaczenia geograficzne lub będących gwarantowanymi tradycyjnymi specjalnościami.
+
+3. Wojewódzki inspektor Inspekcji Handlowej właściwy ze względu na miejsce przeprowadzanej – na zasadach określonych w odrębnych przepisach – kontroli podmiotów prowadzących działalność w zakresie wprowadzania do obrotu produktów rolnych lub środków spożywczych posiadających chronione nazwy pochodzenia, chronione oznaczenia geograficzne lub będących gwarantowanymi tradycyjnymi specjalnościami lub odwołujących się do chronionych nazw pochodzenia, chronionych oznaczeń geograficznych lub gwarantowanych tradycyjnych specjalności przekazuje wojewódzkiemu inspektorowi właściwemu ze względu na miejsce prowadzenia tej działalności dane i informacje o wykrytych w trakcie kontroli naruszeniach i podejrzeniach naruszenia przepisów dotyczących rejestracji i ochrony nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych w zakresie tych produktów.
+
+4. Szczegółowe warunki i sposób współpracy przy sprawowaniu nadzoru, o którym mowa w art. 39 ust. 1 pkt 5, w zakresie wprowadzania do obrotu produktów rolnych lub środków spożywczych posiadających chronione nazwy pochodzenia, chronione oznaczenia geograficzne lub będących gwarantowanymi tradycyjnymi specjalnościami lub odwołujących się do chronionych nazw pochodzenia, chronionych oznaczeń geograficznych lub gwarantowanych tradycyjnych specjalności, określa porozumienie zawarte między Prezesem Urzędu Ochrony Konkurencji i Konsumentów a Głównym Inspektorem. ” ;
+
+- **29)** w art. 45: w ust. 1 pkt 3 otrzymuje brzmienie: „
+    - **a)**
+
+- **3)** wniosku o zatwierdzenie zmiany w specyfikacji; ” , ust. 4 otrzymuje brzmienie: „
+    - **b)**
+
+4. Dowód wniesienia opłaty dołącza się do wniosku o rejestrację, zastrzeżenia do wniosku o rejestrację, wniosku o zatwierdzenie zmiany w specyfikacji oraz sprzeciwu, o którym mowa w art. 28. ” ;
+
+- **30)** art. 46 otrzymuje brzmienie: „
+
+**Art. 46.** Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, stawki opłat za czynności, o których mowa w art. 45 ust. 1, mając na względzie zakres czynności podejmowanych przy ocenie wniosków o rejestrację, zastrzeżeń do wniosków o rejestrację, wniosków o zatwierdzenie zmiany w specyfikacji oraz sprzeciwów, o których mowa w art. 28. ” ;
+
+- **31)** w art. 47 ust. 1 otrzymuje brzmienie: „
+
+1. Produkty rolne i środki spożywcze przeznaczone do spożycia przez ludzi, o których mowa w załączniku I do Traktatu o funkcjonowaniu Unii Europejskiej, w załączniku I do rozporządzenia nr 1151/2012, oraz napoje spirytusowe, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 110/2008 z dnia 15 stycznia 2008 r. w sprawie definicji, opisu, prezentacji, etykietowania i ochrony oznaczeń geograficznych napojów spirytusowych oraz uchylającym rozporządzenie Rady (EWG) nr 1576/89 (Dz. Urz. UE L 39 z 13.02.2008, str. 16, z późn. zm.), których jakość lub wyjątkowe cechy i właściwości wynikają ze stosowania tradycyjnych metod produkcji, stanowiące element dziedzictwa kulturowego regionu, w którym są wytwarzane, oraz będące elementem tożsamości społeczności lokalnej, zwane dalej „produktami tradycyjnymi”, mogą być wpisane na listę produktów tradycyjnych. ” ;
+
+- **32)** uchyla się art. 55;
 - **33)** uchyla się rozdział 9;
-- **34)** po rozdziale 9 dodaje się rozdział 9a brzmieniu: „Rozdział 9a Kary pieniężne
+- **34)** po rozdziale 9 dodaje się rozdział 9a w brzmieniu: „
+
+#### Rozdział 9a Kary pieniężne
 
 **Art. 58a.**
 
 1. Jednostka certyfikująca, która:
 
-- **1)** nie przekazuje Głównemu Inspektorowi terminie do 10. dnia każdego miesiąca wykazu, którym 42a ust. 1, lub przekazuje wykaz niezgodnie z 42a ust. 3, lub przekazuje wykaz zawierający niekompletne lub nieprawdziwe informacje,
-- **2)** nie przekazuje Głównemu Inspektorowi sprawozdania, wykazu oraz informacji, których 43 ust. 1, terminie do dnia 31 stycznia każdego roku lub przekazuje sprawozdanie, wykaz oraz informacje zawierające niekompletne lub nieprawdziwe dane, zgodności – podlega karze pieniężnej wysokości do dziesięciokrotności przeciętnego wynagrodzenia miesięcznego gospodarce narodowej za rok poprzedzający rok nałożenia tej kary, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie przepisów emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, zwanego dalej „przeciętnym wynagrodzeniem”.
+- **1)** nie przekazuje Głównemu Inspektorowi w terminie do 10. dnia każdego miesiąca wykazu, o którym mowa w art. 42a ust. 1, lub przekazuje wykaz niezgodnie z art. 42a ust. 3, lub przekazuje wykaz zawierający niekompletne lub nieprawdziwe informacje,
+- **2)** nie przekazuje Głównemu Inspektorowi sprawozdania, wykazu oraz informacji, o których mowa w art. 43 ust. 1, w terminie do dnia 31 stycznia każdego roku lub przekazuje sprawozdanie, wykaz oraz informacje zawierające niekompletne lub nieprawdziwe dane,
+- **3)** nie informuje Głównego Inspektora, ministra właściwego do spraw rynków rolnych lub innych upoważnionych jednostek certyfikujących o odmowie wydania producentowi certyfikatu zgodności lub cofnięciu certyfikatu zgodności podlega karze pieniężnej w wysokości do dziesięciokrotności przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej za rok poprzedzający rok nałożenia tej kary, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, zwanego dalej „przeciętnym wynagrodzeniem”.
 
 2. Jednostka certyfikująca, która:
 
 - **1)** wydaje certyfikaty zgodności niezgodnie ze specyfikacją,
-- **2)** nie wykonuje działań naprawczych, których 40 ust. 1 pkt 5,
-- **3)** nie udzieli informacji, których 40 ust. 2 pkt 1,
-- **4)** działa niezgodnie z zakresem udzielonego upoważnienia, którym 41 ust. 3,
-- **5)** prowadzi kontrolę, której 42 ust. 1, niezgodnie z zasadami określonymi na podstawie 37 lub 39 rozporządzenia nr 1151/2012 – podlega karze pieniężnej wysokości do dwudziestokrotności przeciętnego wynagrodzenia.
+- **2)** nie wykonuje działań naprawczych, o których mowa w art. 40 ust. 1 pkt 5,
+- **3)** nie udzieli informacji, o których mowa w art. 40 ust. 2 pkt 1,
+- **4)** działa niezgodnie z zakresem udzielonego upoważnienia, o którym mowa w art. 41 ust. 3,
+- **5)** prowadzi kontrolę, o której mowa w art. 42 ust. 1, niezgodnie z zasadami określonymi na podstawie art. 37 lub art. 39 rozporządzenia nr 1151/2012 podlega karze pieniężnej w wysokości do dwudziestokrotności przeciętnego wynagrodzenia.
 
-3. Kto działa jako upoważniona jednostka certyfikująca bez upoważnienia, którym 41 ust. 3, podlega karze pieniężnej wysokości do dwudziestokrotności przeciętnego wynagrodzenia.
+3. Kto działa jako upoważniona jednostka certyfikująca bez upoważnienia, o którym mowa w art. 41 ust. 3, podlega karze pieniężnej w wysokości do dwudziestokrotności przeciętnego wynagrodzenia.
 
-**Art. 58b.**
+1. Kto używa nazwy zarejestrowanej jako chroniona nazwa pochodzenia, chronione oznaczenie geograficzne lub gwarantowana tradycyjna specjalność do produktu rolnego lub środka spożywczego niezgodnego ze specyfikacją lub narusza zakres jej ochrony określony w art. 13 ust. 1 lub art. 24 ust. 1 rozporządzenia nr 1151/2012, podlega karze pieniężnej w wysokości do dziesięciokrotności przeciętnego wynagrodzenia.
 
-1. Kto używa nazwy zarejestrowanej jako chroniona nazwa pochodzenia, chronione oznaczenie geograficzne lub gwarantowana tradycyjna specjalność do produktu rolnego lub środka spożywczego niezgodnego ze specyfikacją lub narusza zakres jej ochrony określony 13 ust. 1 lub 24 ust. 1 rozporządzenia nr 1151/2012, podlega karze pieniężnej wysokości do dziesięciokrotności przeciętnego wynagrodzenia.
+2. Kto używa oznaczenia, jego skrótu lub symbolu z naruszeniem art. 44 ust. 1 rozporządzenia nr 1151/2012, podlega karze pieniężnej w wysokości do 200% korzyści majątkowej uzyskanej lub korzyści majątkowej, którą można uzyskać za wprowadzony do obrotu produkt rolny lub środek spożywczy.
 
-2. Kto używa oznaczenia, jego skrótu lub symbolu z naruszeniem 44 ust. 1 rozporządzenia nr 1151/2012, podlega karze pieniężnej wysokości do 200% korzyści majątkowej uzyskanej lub korzyści majątkowej, którą można uzyskać za wprowadzony do obrotu produkt rolny lub środek spożywczy.
+3. Kto wprowadza do obrotu produkt rolny lub środek spożywczy posiadający chronioną nazwę pochodzenia, chronione oznaczenie geograficzne lub będący gwarantowaną tradycyjną specjalnością, który wbrew obowiązkowi wynikającemu z art. 12 ust. 3 lub art. 23 ust. 3 rozporządzenia nr 1151/2012 nie został oznakowany albo został oznakowany z naruszeniem tych przepisów, podlega karze pieniężnej w wysokości do trzykrotności przeciętnego wynagrodzenia.
 
-3. Kto wprowadza do obrotu produkt rolny lub środek spożywczy posiadający chronioną nazwę pochodzenia, chronione oznaczenie geograficzne lub będący gwarantowaną tradycyjną specjalnością, który wbrew obowiązkowi wynikającemu z 12 ust. 3 lub 23 ust. 3 rozporządzenia nr 1151/2012 nie został oznakowany albo został oznakowany z naruszeniem tych przepisów, podlega karze pieniężnej wysokości do trzykrotności przeciętnego wynagrodzenia.
+4. Kto ponownie wprowadza do obrotu produkt rolny lub środek spożywczy, o którym mowa w ust. 3, który wbrew obowiązkowi wynikającemu z art. 12 ust. 3 lub art. 23 ust. 3 rozporządzenia nr 1151/2012 nie został oznakowany albo został oznakowany z naruszeniem tych przepisów, podlega karze pieniężnej w wysokości do dwudziestokrotności przeciętnego wynagrodzenia, nie niższej od wysokości kary pieniężnej nałożonej poprzednio za takie naruszenie.
 
-4. Kto ponownie wprowadza do obrotu produkt rolny lub środek spożywczy, którym ust. 3, który wbrew obowiązkowi wynikającemu z 12 ust. 3 lub 23 ust. 3 rozporządzenia nr 1151/2012 nie został oznakowany albo został oznakowany z naruszeniem tych przepisów, podlega karze pieniężnej wysokości do dwudziestokrotności przeciętnego wynagrodzenia, nie niższej od wysokości kary pieniężnej nałożonej poprzednio za takie naruszenie.
+5. Kto ponownie używa nazwy zarejestrowanej jako chroniona nazwa pochodzenia, chronione oznaczenie geograficzne lub gwarantowana tradycyjna specjalność do produktu rolnego lub środka spożywczego niezgodnego ze specyfikacją lub narusza zakres jej ochrony określony w art. 13 ust. 1 lub art. 24 ust. 1 rozporządzenia nr 1151/2012, podlega karze pieniężnej w wysokości do dwudziestokrotności przeciętnego wynagrodzenia, nie niższej od wysokości kary pieniężnej nałożonej poprzednio za takie naruszenie.
 
-5. Kto ponownie używa nazwy zarejestrowanej jako chroniona nazwa pochodzenia, chronione oznaczenie geograficzne lub gwarantowana tradycyjna specjalność do produktu rolnego lub środka spożywczego niezgodnego ze specyfikacją lub narusza zakres jej ochrony określony 13 ust. 1 lub 24 ust. 1 rozporządzenia nr 1151/2012, podlega karze pieniężnej wysokości do dwudziestokrotności przeciętnego wynagrodzenia, nie niższej od wysokości kary pieniężnej nałożonej poprzednio za takie naruszenie.
+1. Kary pieniężne, o których mowa w art. 58a, nakłada Główny Inspektor w drodze decyzji.
 
-**Art. 58c.**
+2. Kary pieniężne, o których mowa w art. 58b, nakłada w drodze decyzji właściwy ze względu na miejsce przeprowadzonej kontroli wojewódzki inspektor albo wojewódzki inspektor Inspekcji Handlowej.
 
-1. Kary pieniężne, których 58a, nakłada Główny Inspektor drodze decyzji.
+3. Kary pieniężne, o których mowa w art. 58a i art. 58b, nakłada się przy uwzględnieniu stopnia szkodliwości czynu, zakresu naruszenia, dotychczasowej działalności podmiotu dokonującego naruszenia i wielkości jego obrotów.
 
-2. Kary pieniężne, których 58b, nakłada drodze decyzji właściwy ze względu na miejsce przeprowadzonej kontroli wojewódzki inspektor albo wojewódzki inspektor Inspekcji Handlowej.
+4. Termin zapłaty kar pieniężnych, o których mowa w art. 58a i art. 58b, wynosi 30 dni od dnia, w którym decyzja o nałożeniu kary stała się ostateczna.
 
-3. Kary pieniężne, których 58a i 58b, nakłada się przy uwzględnieniu stopnia szkodliwości czynu, zakresu naruszenia, dotychczasowej działalności podmiotu dokonującego naruszenia i wielkości jego obrotów.
+5. Środki finansowe pochodzące z kar pieniężnych, o których mowa w art. 58a i art. 58b, stanowią dochód budżetu państwa i są wnoszone na rachunek bieżący dochodów państwowej jednostki budżetowej obsługującej odpowiednio Głównego Inspektora, wojewódzkiego inspektora albo wojewódzkiego inspektora Inspekcji Handlowej, który wydał decyzję o nałożeniu kary.
 
-4. Termin zapłaty kar pieniężnych, których 58a i 58b, wynosi 30 dni od dnia, którym decyzja nałożeniu kary stała się ostateczna.
-
-5. Środki finansowe pochodzące z kar pieniężnych, których 58a i 58b, stanowią dochód budżetu państwa i są wnoszone na rachunek bieżący dochodów państwowej jednostki budżetowej obsługującej odpowiednio Głównego Inspektora, wojewódzkiego inspektora albo wojewódzkiego inspektora Inspekcji Handlowej, który wydał decyzję nałożeniu kary. i 58b, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613, z późn. zm. ).
-
-**Art. 58d.**
+6. W zakresie nieuregulowanym w niniejszym rozdziale do kar pieniężnych, o których mowa w art. 58a i art. 58b, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613, z późn. zm.).
 
 1. Kary pieniężnej nie nakłada się, jeżeli od dnia popełnienia czynu upłynęło 5 lat.
 
-2. Kary pieniężnej nie pobiera się po upływie 5 lat od dnia wydania ostatecznej decyzji nałożeniu kary.
+2. Kary pieniężnej nie pobiera się po upływie 5 lat od dnia wydania ostatecznej decyzji o nałożeniu kary.
 
-3. Egzekucja nałożonych kar pieniężnych wraz z odsetkami za zwłokę następuje trybie przepisów postępowaniu egzekucyjnym administracji.
+3. Egzekucja nałożonych kar pieniężnych wraz z odsetkami za zwłokę następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 
-4. W przypadku uchylenia albo stwierdzenia nieważności decyzji nałożeniu kary pieniężnej albo uwzględnienia skargi na decyzję nałożeniu kary pieniężnej przez organ, który wydał decyzję, albo przez sąd administracyjny, uiszczona kara pieniężna podlega zwrotowi terminie 14 dni od dnia, którym wydana decyzja lub orzeczenie zwrocie tej kary stały się ostateczne.
+4. W przypadku uchylenia albo stwierdzenia nieważności decyzji o nałożeniu kary pieniężnej albo uwzględnienia skargi na decyzję o nałożeniu kary pieniężnej przez organ, który wydał decyzję, albo przez sąd administracyjny, uiszczona kara pieniężna podlega zwrotowi w terminie 14 dni od dnia, w którym wydana decyzja lub orzeczenie o zwrocie tej kary stały się ostateczne.
 
-5. W przypadku niskiego stopnia szkodliwości czynu, niewielkiego zakresu naruszenia lub braku stwierdzenia istotnych uchybień dotychczasowej działalności podmiotu dokonującego naruszenia, można odstąpić od nałożenia kar pieniężnych, których 58a i 58b.
+5. W przypadku niskiego stopnia szkodliwości czynu, niewielkiego zakresu naruszenia lub braku stwierdzenia istotnych uchybień w dotychczasowej działalności podmiotu dokonującego naruszenia, można odstąpić od nałożenia kar pieniężnych, o których mowa w art. 58a i art. 58b. Jeżeli naruszenie, o którym mowa w art. 58b, wyczerpuje jednocześnie znamiona naruszenia, o którym mowa w art. 40a ust. 1 pkt 3 lub 4 lub ust. 3 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2015 r. poz. 678, 1505 i 1893 oraz z 2016 r. poz. 50 i 1001) lub art. 25 ust. 1 pkt 3, 4 lub 5 lub ust. 2 ustawy z dnia 25 czerwca 2009 r. o rolnictwie ekologicznym (Dz. U. z 2015 r. poz. 497 oraz z 2016 r. poz. 1001), karę pieniężną wymierza się na podstawie przepisów ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych. ” . W ustawie z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2015 r. poz. 678, 1505 i 1893 oraz z 2016 r. poz. 50) wprowadza się następujące zmiany:
 
-**Art. 58e.** Jeżeli naruszenie, którym 58b, wyczerpuje jednocześnie znamiona naruszenia, którym 40a ust. 1 pkt 3 lub 4 lub ust. 3 ustawy z dnia 21 grudnia 2000 r. jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2015 r. poz. 678, 1505 i 1893 oraz z 2016 r. poz. 50 i 1001) lub 25 ust. 1 pkt 3, 4 lub 5 lub ust. 2 ustawy z dnia 25 czerwca 2009 r. rolnictwie ekologicznym (Dz. U. z 2015 r. poz. 497 oraz z 2016 r. poz. 1001), karę pieniężną wymierza się na podstawie przepisów ustawy z dnia 21 grudnia 2000 r. jakości handlowej artykułów rolno-spożywczych.”.
+- **1)** w art. 17 w ust. 1 w pkt 1 w lit. g średnik zastępuje się przecinkiem i dodaje się lit. h w brzmieniu: „ kontrola artykułów rolno-spożywczych oznaczonych określeniem jakościowym stosowanym fakultatywnie „produkt górski”, o którym mowa w art. 31 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1151/2012 z dnia 21 listopada 2012 r. w sprawie systemów jakości produktów rolnych i środków spożywczych (Dz. Urz. UE L 343 z 14.12.2012, str. 1); ” ;
+    - **h)**
 
-**Art. 2.** W ustawie z dnia 21 grudnia 2000 r. jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2015 r. poz. 678, 1505 i 1893 oraz z 2016 r. poz. 50) wprowadza się następujące zmiany:
+- **2)** po art. 40a dodaje się art. 40b w brzmieniu: „
 
-**Art. 3.** W ustawie z dnia 25 czerwca 2009 r. rolnictwie ekologicznym (Dz. U. z 2015 r. poz. 497) wprowadza się następujące zmiany:
+**Art. 40b.** Jeżeli naruszenie, o którym mowa w art. 40a ust. 1 pkt 3 lub 4 lub ust. 3, wyczerpuje jednocześnie znamiona naruszenia, o którym mowa w art. 58b ustawy z dnia 17 grudnia 2004 r. o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych (Dz. U. z 2005 r. poz. 68, z 2008 r. poz. 1056 i 1368 oraz z 2016 r. poz. 1001) lub art. 25 ust. 1 pkt 3, 4 lub 5 lub ust. 2 ustawy z dnia 25 czerwca 2009 r. o rolnictwie ekologicznym (Dz. U. z 2015 r. poz. 497 oraz z 2016 r. poz. 1001), karę pieniężną wymierza się na podstawie przepisów niniejszej ustawy. ” .
 
-**Art. 5.** Dotychczasowe przepisy wykonawcze wydane na podstawie 46 ustawy zmienianej 1, zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie 46 tej ustawy, brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż 6 miesięcy od dnia wejścia życie niniejszej ustawy.
+**Art. 3.** W ustawie z dnia 25 czerwca 2009 r. o rolnictwie ekologicznym (Dz. U. z 2015 r. poz. 497) wprowadza się następujące zmiany:
 
-**Art. 6.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
+- **1)** w art. 26 ust. 1 otrzymuje brzmienie: „
+
+1. Kary pieniężne, o których mowa w art. 24 i art. 25, wymierza się przy uwzględnieniu stopnia szkodliwości czynu, zakresu naruszenia, dotychczasowej działalności podmiotu dokonującego naruszenia i wielkości jego obrotów. ” ;
+
+- **2)** po art. 26 dodaje się art. 26a w brzmieniu: „ Jeżeli naruszenie, o którym mowa w art. 25 ust. 1 pkt 3, 4 lub 5 lub ust. 2, wyczerpuje jednocześnie znamiona naruszenia, o którym mowa w art. 40a ust. 1 pkt 3 lub 4 lub ust. 3 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2015 r. poz. 678, 1505 i 1893 oraz z 2016 r. poz. 50 i 1001) lub art. 58b ustawy z dnia 17 grudnia 2004 r. o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych (Dz. U. z 2005 r. poz. 68, z 2008 r. poz. 1056 i 1368 oraz z 2016 r. poz. 1001), karę pieniężną wymierza się na podstawie przepisów ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych. ” .
+
+**Art. 4.** Do kontroli, o których mowa w art. 40 ust. 1 ustawy zmienianej w art. 1, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+
+**Art. 5.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 46 ustawy zmienianej w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 46 tej ustawy, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

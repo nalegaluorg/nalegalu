@@ -1,0 +1,447 @@
+---
+title: "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 12 marca 2024 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i szczegółowego trybu przyznawania i wypłaty pomocy finansowej w ramach schematów na rzecz dobrostanu zwierząt w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023-2027"
+address: WDU20240000381
+eli: DU/2024/381
+publisher: DU
+year: 2024
+pos: 381
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 12 marca 2024 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i szczegółowego trybu przyznawania i wypłaty pomocy finansowej w ramach schematów na rzecz dobrostanu zwierząt w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023–2027
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2024 poz. 381 |
+| ISAP | WDU20240000381 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2024-03-12 |
+| Data wydania | 2024-03-14 |
+| Wejście w życie | 2024-03-15 |
+| Ostatnia zmiana | 2026-03-16 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000381) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/381/text.pdf) |
+
+Treść rozporządzenia
+Załącznik – Liczba punktów za realizację praktyk podwyższających poziom dobrostanu zwierząt
+Treść rozporządzenia
+Na podstawie art. 70 ust. 1 i ust. 2 pkt 7 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. z 2024 r. poz. 261) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 20 kwietnia 2023 r. w sprawie szczegółowych warunków i szczegółowego trybu przyznawania i wypłaty pomocy finansowej w ramach schematów na rzecz dobrostanu zwierząt w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 797 i 1795 oraz z 2024 r. poz. 66) wprowadza się następujące zmiany:
+1)
+w § 2 w ust. 1 po pkt 9 dodaje się pkt 9a w brzmieniu:
+„
+9a)
+ogier – niekastrowany samiec zwierzęcia z gatunku koń domowy ( Equus caballus ), mający co najmniej 24 miesiące;
+” ;
+2)
+w § 3:
+a)
+w ust. 2:
+– w pkt 1 w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „ e) utrzymywanie zgodnie z wymogami systemu „Quality Assurance for Food Products” – „Kulinarne mięso wieprzowe”, zwanego dalej „systemem QAFP – Kulinarne mięso wieprzowe”; ” ,
+– w pkt 2 w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „ e) utrzymywanie zgodnie z wymogami systemu QAFP – Kulinarne mięso wieprzowe; ” ,
+– w pkt 4 w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f w brzmieniu: „ f) utrzymywanie zgodnie z wymogami systemu „Quality Meat Program”, zwanego dalej „systemem QMP”; ” ,
+– po pkt 4 dodaje się pkt 4a w brzmieniu: „ 4a) Wariantu Dobrostan krów mamek utrzymywanych w systemie otwartym są realizowane następujące praktyki podwyższające poziom dobrostanu zwierząt: a) zwiększona co najmniej o 20 % zewnętrzna powierzchnia bytowa (pastwisko, wybieg lub okólnik), zwana dalej „zewnętrzną powierzchnią bytową”, b) utrzymywanie zgodnie z wymogami systemu QMP; ” ,
+– w pkt 5 w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f w brzmieniu: „ f) utrzymywanie zgodnie z wymogami systemu QMP; ” ,
+– pkt 6 otrzymuje brzmienie: „ 6) wariantów wymienionych w ust. 1 pkt 7–13 – przestrzeganie w ramach danego wariantu wymogów, o których mowa w ust. 28–34 załącznika nr 2 do rozporządzenia, jest równoznaczne z realizacją praktyki podwyższającej poziom dobrostanu zwierząt; ” ,
+– dodaje się pkt 7 w brzmieniu: „ 7) wariantów wymienionych w ust. 1 pkt 9 i 10 – jest realizowana praktyka podwyższająca poziom dobrostanu zwierząt polegająca na utrzymywaniu kurcząt brojlerów lub indyków utrzymywanych z przeznaczeniem do produkcji mięsa zgodnie z wymogami systemu „Quality Assurance for Food Products” – „Tusze, elementy i mięso z kurczaka i indyka”, zwanego dalej „systemem QAFP – Tusze, elementy i mięso z kurczaka i indyka”. ” ,
+b)
+w ust. 3 po wyrazach „ust. 2” dodaje się wyrazy „pkt 1–6”,
+c)
+dodaje się ust. 4 i 5 w brzmieniu:
+„
+4.
+Praktykę podwyższającą poziom dobrostanu zwierząt, o której mowa w ust. 2 pkt 1 lit. e, pkt 2 lit. e oraz pkt 7, może realizować rolnik, który uczestniczy w systemie QAFP – Kulinarne mięso wieprzowe lub systemie QAFP – Tusze, elementy i mięso z kurczaka i indyka, wytwarza produkty przeznaczone bezpośrednio lub po przetworzeniu do spożycia przez ludzi zgodnie ze specyfikacją i standardami odpowiednio systemu QAFP – Kulinarne mięso wieprzowe lub systemu QAFP – Tusze, elementy i mięso z kurczaka i indyka oraz ma w dniu złożenia wniosku o przyznanie płatności dobrostanowej w ramach tej praktyki certyfikat potwierdzający, że wytwarzane przez niego produkty są zgodne ze specyfikacją i standardami danego systemu, zwany dalej „rolnikiem spełniającym wymagania systemu QAFP”.
+5.
+Praktykę podwyższającą poziom dobrostanu zwierząt, o której mowa w ust. 2 pkt 4 lit. f, pkt 4a lit. b oraz pkt 5 lit. f, może realizować rolnik, który uczestniczy w systemie QMP, wytwarza produkty przeznaczone bezpośrednio lub po przetworzeniu do spożycia przez ludzi zgodnie ze specyfikacją i standardami systemu QMP oraz ma w dniu złożenia wniosku o przyznanie płatności dobrostanowej w ramach tej praktyki certyfikat potwierdzający, że wytwarzane przez niego produkty są zgodne ze specyfikacją i standardami systemu QMP, zwany dalej „rolnikiem spełniającym wymagania systemu QMP”.
+” ;
+3)
+w § 4 w ust. 1 w pkt 1 wyrazy „pkt 4 lit. a-d oraz pkt 5 lit. a-d” zastępuje się wyrazami „pkt 4 lit. a-d i f, pkt 4a, pkt 5 lit. a-d i f oraz pkt 7”;
+4)
+po § 4 dodaje się § 4a w brzmieniu:
+„
+§ 4a.
+1.
+Rolnik, który ubiega się o przyznanie płatności dobrostanowej za realizację praktyk podwyższających poziom dobrostanu zwierząt w ramach wariantów, o których mowa w § 3 ust. 1, odbywa szkolenie z zakresu metod ograniczających stosowanie antybiotyków w produkcji zwierzęcej w terminie do dnia 14 marca roku następującego po roku, w którym złożył wniosek o przyznanie płatności dobrostanowej.
+2.
+Wymóg odbycia szkolenia, o którym mowa w ust. 1, nie dotyczy rolnika, który odbył to szkolenie przed dniem złożenia wniosku o przyznanie płatności dobrostanowej.
+3.
+Szkolenie, o którym mowa w ust. 1, organizują jednostki doradztwa rolniczego, o których mowa w art. 2 ust. 1 ustawy z dnia 22 października 2004 r. o jednostkach doradztwa rolniczego (Dz. U. z 2024 r. poz. 76).
+4.
+Szkolenie, o którym mowa w ust. 1, jest bezpłatne.
+5.
+Dokumentem potwierdzającym odbycie szkolenia, o którym mowa w ust. 1, jest zaświadczenie o ukończeniu przez rolnika tego szkolenia zawierające:
+1)
+imię i nazwisko rolnika;
+2)
+numer identyfikacyjny rolnika nadany mu w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, zwany dalej „numerem identyfikacyjnym”;
+3)
+tematykę szkolenia zgodną z ust. 1;
+4)
+datę odbycia szkolenia;
+5)
+informację o organizatorze szkolenia.
+6.
+Zaświadczenie, o którym mowa w ust. 5, rolnik składa za pomocą systemu teleinformatycznego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa albo kierownikowi biura powiatowego Agencji w terminie do dnia 21 marca roku następującego po roku, w którym złożył wniosek o przyznanie płatności dobrostanowej.
+7.
+W przypadku gdy rolnik nie złożył zaświadczenia, o którym mowa w ust. 5, w sposób i w terminie określonych w ust. 6, kierownik biura powiatowego Agencji wzywa na piśmie rolnika do złożenia tego zaświadczenia w terminie 7 dni od dnia doręczenia wezwania, chyba że rolnik złożył już to zaświadczenie.
+” ;
+5)
+w § 6 w ust. 7 wyrazy „przepisu ust. 1 pkt 1” zastępuje się wyrazami „przepisów ust. 1”;
+6)
+w § 9 w ust. 2 wyrazy „przed upływem 25 dni od dnia, w którym upływa termin składania wniosków” zastępuje się wyrazami „do dnia 31 lipca roku, w którym złożył wniosek”;
+7)
+w § 10:
+a)
+w ust. 1:
+– wprowadzenie do wyliczenia otrzymuje brzmienie: „ Jeżeli rolnik ubiega się o przyznanie płatności dobrostanowej w ramach wariantów, o których mowa w § 3 ust. 1 pkt 7, 9–11 i 13, składa oświadczenie o zapewnieniu utrzymywanym w gospodarstwie: ” ;
+– w pkt 1 skreśla się wyrazy „(pastwiska, wybiegu lub okólnika), zwanej dalej „zewnętrzną powierzchnią bytową”,”,
+b)
+dodaje się ust. 6 w brzmieniu:
+„
+6.
+W odniesieniu do rolnika, który realizuje wariant, o którym mowa w § 3 ust. 1 pkt 12, i w okresie realizacji tego wariantu utrzymuje ogiery w pomieszczeniach lub w budynkach, przepisy ust. 1 pkt 4 i 5 stosuje się odpowiednio.
+” ;
+8)
+w § 11:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+W przypadku wariantów, o których mowa w § 3 ust. 1 pkt 1, 2 i 7–13, oraz praktyk podwyższających poziom dobrostanu zwierząt, o których mowa w § 3 ust. 2 pkt 3 lit. b i c, pkt 4 lit. a i b, pkt 4a lit. a oraz pkt 5 lit. a i b, płatność dobrostanową przyznaje się rolnikowi, który ma plan poprawy dobrostanu zwierząt.
+” ,
+b)
+ust. 3 otrzymuje brzmienie:
+„
+3.
+Plan poprawy dobrostanu zwierząt sporządza się przy udziale doradcy rolniczego w terminie do dnia 31 lipca roku, w którym został złożony wniosek o przyznanie płatności dobrostanowej.
+” ,
+c)
+w ust. 4 wyrazy „przed upływem 25 dni od dnia, w którym upływa termin składania wniosków” zastępuje się wyrazami „do dnia 31 lipca roku, w którym złożył wniosek”,
+d)
+ust. 5 otrzymuje brzmienie:
+„
+5.
+W przypadku realizacji więcej niż jednego z wariantów, o których mowa w § 3 ust. 1 pkt 1, 2 i 7–13, lub więcej niż jednej z praktyk podwyższających poziom dobrostanu zwierząt, o których mowa w § 3 ust. 2 pkt 3 lit. b i c, pkt 4 lit. a i b, pkt 4a lit. a oraz pkt 5 lit. a i b, rolnik może mieć więcej niż jeden plan poprawy dobrostanu zwierząt odrębnie dla każdego z tych wariantów lub dla każdej z tych praktyk.
+” ,
+e)
+w ust. 6 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Jeżeli rolnik w roku następującym bezpośrednio po roku, za który przyznano mu płatność dobrostanową w ramach wariantów, o których mowa w § 3 ust. 1 pkt 1, 2 i 7–13, lub praktyk podwyższających poziom dobrostanu zwierząt, o których mowa w § 3 ust. 2 pkt 3 lit. b i c, pkt 4 lit. a i b, pkt 4a lit. a oraz pkt 5 lit. a i b, realizuje ten sam wariant lub tę samą praktykę, to w odniesieniu do tego samego wariantu lub tej samej praktyki: ” ,
+f)
+w ust. 8:
+– wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku, o którym mowa w ust. 6 pkt 1, rolnik składa za pomocą systemu teleinformatycznego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa albo kierownikowi biura powiatowego Agencji na formularzu opracowanym przez Agencję i udostępnionym na jej stronie internetowej oświadczenie, że w planie poprawy dobrostanu zwierząt nie zaszły zmiany w zakresie informacji, o których mowa w ust. 2 pkt 1 lit. f lub pkt 2 lit. e, lub pkt 5 lit. e, lub pkt 6 lit. c, lub pkt 7 lit. b, lub pkt 8 lit. c, lub pkt 9 lit. d, lub pkt 10 lit. b lub d, lub pkt 11 lit. b lub d, lub pkt 12 lit. b lub d, lub pkt 13 lit. d lub f, lub pkt 14 lit. b, lub pkt 15 lit. d lub g załącznika nr 3 do rozporządzenia, które to oświadczenie jest sporządzane w roku, w którym ten rolnik złożył wniosek o przyznanie płatności dobrostanowej, i zawiera również oświadczenie, że: ” ,
+– pkt 2 otrzymuje brzmienie: „ 2) nastąpiła zmiana sposobu utrzymywania zwierząt z utrzymywania pojedynczo na utrzymywanie grupowo lub z utrzymywania grupowo na utrzymywanie pojedynczo – w przypadku realizacji wariantów, o których mowa w § 3 ust. 1 pkt 7, 11 i 13, oraz nastąpiła zmiana plenności maciorek – w przypadku realizacji wariantów, o których mowa w § 3 ust. 1 pkt 7 i 13. ” ,
+g)
+ust. 9 otrzymuje brzmienie:
+„
+9.
+Jeżeli rolnik przestrzega wymogów w ramach wariantu, o którym mowa w § 3 ust. 1 pkt 7, lub praktyk podwyższających poziom dobrostanu zwierząt, o których mowa w § 3 ust. 2 pkt 1 lit. a, pkt 2 lit. a, pkt 3 lit. b lub pkt 4a lit. a, i realizował w poprzednim roku warianty, o których mowa w § 4 ust. 2 pkt 1 lit. a i b, pkt 2 lit. b i c oraz pkt 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 3 marca 2020 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Dobrostan zwierząt” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 382, z 2021 r. poz. 441 oraz z 2022 r. poz. 571), to ma:
+1)
+ten sam plan poprawy dobrostanu zwierząt, jeżeli w gospodarstwie nie zaszły zmiany skutkujące koniecznością zmiany informacji, o których mowa w ust. 2 pkt 1 lit. f lub g lub pkt 2 lit. e, lub pkt 5 lit. e, lub pkt 7 lit. b, lub pkt 9 lit. d lub e załącznika nr 3 do rozporządzenia, albo
+2)
+nowy plan poprawy dobrostanu zwierząt, jeżeli w gospodarstwie zaszły zmiany skutkujące koniecznością zmiany informacji określonych w pkt 1.
+” ,
+h)
+w ust. 10 w pkt 1:
+– w lit. a wyrazy „c i d” zastępuje się wyrazami „c-e”,
+– w lit. b wyrazy „§ 3 ust. 2 pkt 1 lit. a, c i d oraz pkt 2 lit. a, c i d” zastępuje się wyrazami „§ 3 ust. 2 pkt 1 lit. a i c-e oraz pkt 2 lit. a i c-e”,
+i)
+w ust. 11 wyrazy „przed upływem 25 dni od dnia, w którym upływa termin składania wniosków” zastępuje się wyrazami „do dnia 31 lipca roku, w którym został złożony wniosek”,
+j)
+ust. 13 otrzymuje brzmienie:
+„
+13.
+Jeżeli mimo wezwania, o którym mowa w ust. 12, rolnik nie dostarczył lub nie uzupełnił planu poprawy dobrostanu zwierząt lub nie dokonał czynności, o których mowa w ust. 8 lub 10, płatności dobrostanowej w ramach odpowiednio wariantów, o których mowa w § 3 ust. 1 pkt 1, 2 i 7–13, oraz praktyk podwyższających poziom dobrostanu zwierząt, o których mowa w § 3 ust. 2 pkt 3 lit. b i c, pkt 4 lit. a i b, pkt 4a lit. a oraz pkt 5 lit. a i b, nie przyznaje się.
+” ,
+k)
+ust. 16 otrzymuje brzmienie:
+„
+16.
+Przepisu ust. 1 nie stosuje się do:
+1)
+rolnika, który ubiega się o przyznanie płatności dobrostanowej w ramach praktyk podwyższających poziom dobrostanu zwierząt, o których mowa w § 3 ust. 2 pkt 3 lit. a i d-f, pkt 4 lit. c-f, pkt 4a lit. b oraz pkt 5 lit. c-f;
+2)
+rolnika ekologicznego;
+3)
+rolnika spełniającego wymagania systemu QAFP, który ubiega się o przyznanie płatności dobrostanowej w ramach praktyk podwyższających poziom dobrostanu zwierząt, o których mowa w § 3 ust. 2 pkt 1 lit. a oraz pkt 2 lit. a.
+” ;
+9)
+w § 14:
+a)
+w ust. 2:
+– we wprowadzeniu do wyliczenia skreśla się wyrazy „przed upływem”,
+– pkt 1 i 2 otrzymują brzmienie: „ 1) do dnia 31 lipca roku, w którym został złożony wniosek o przyznanie płatności dobrostanowej; 2) przed upływem 7 dni od dnia objęcia krowy wymogami wariantu, o którym mowa w § 3 ust. 1 pkt 3 – w przypadku krowy objętej wymogami tego wariantu w okresie przestrzegania wymogów w ramach tego wariantu. ” ,
+b)
+w ust. 3:
+– we wprowadzeniu do wyliczenia skreśla się wyrazy „przed upływem”,
+– pkt 1 i 2 otrzymują brzmienie: „ 1) do dnia 31 lipca roku, w którym został złożony wniosek o przyznanie płatności dobrostanowej; 2) przed upływem 7 dni od dnia objęcia krów wymogami wariantów, o których mowa w § 3 ust. 1 pkt 4 i 5 – w przypadku krowy objętej wymogami danego wariantu w okresie przestrzegania wymogów w ramach tego wariantu. ” ;
+10)
+w § 15 w ust. 2:
+a)
+we wprowadzeniu do wyliczenia skreśla się wyrazy „przed upływem”,
+b)
+pkt 1 i 2 otrzymują brzmienie:
+„
+1)
+do dnia 31 lipca roku, w którym został złożony wniosek o przyznanie płatności dobrostanowej;
+2)
+przed upływem 7 dni od dnia objęcia bydła wymogami wariantu, o którym mowa w § 3 ust. 1 pkt 6 – w przypadku bydła objętego wymogami tego wariantu w okresie przestrzegania wymogów w ramach tego wariantu.
+” ;
+11)
+w § 16 pkt 2 otrzymuje brzmienie:
+„
+2)
+zakładowi drobiu w rozumieniu art. 2 pkt 28 ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt został nadany numer zgodnie z przepisami tej ustawy, z tym że w odniesieniu do:
+a)
+wariantu, o którym mowa w § 3 ust. 1 pkt 8, jeżeli z informacji zawartych w komputerowej bazie danych wynika, że rolnik prowadzi:
+– zakład hodowli kur niosek,
+– zakład utrzymujący drób na użytek własny – w przypadku rolnika ekologicznego,
+b)
+wariantu, o którym mowa w § 3 ust. 1 pkt 9 lub 10, jeżeli z informacji zawartych w komputerowej bazie danych wynika, że rolnik prowadzi:
+– zakład hodowli drobiu rzeźnego,
+– zakład utrzymujący drób na użytek własny – w przypadku rolnika ekologicznego;
+” ;
+12)
+§ 18 otrzymuje brzmienie:
+„
+§ 18.
+W przypadku wariantu, o którym mowa w § 3 ust. 1 pkt 12, rolnikowi, który utrzymuje:
+1)
+konie w warunkach dzikich lub półdzikich na obszarach parku narodowego albo parku krajobrazowego, płatności dobrostanowej nie przyznaje się;
+2)
+ogiery w pomieszczeniach lub w budynkach w okresie, o którym mowa w § 4 ust. 1 pkt 1, płatność dobrostanową przyznaje się w ramach wariantu, o którym mowa w § 3 ust. 1 pkt 11, jeżeli są spełnione wymogi określone w ust. 32 pkt 1 lit. a i b, pkt 2 lit. a, pkt 3, pkt 4 lit. a oraz pkt 5 załącznika nr 2 do rozporządzenia.
+” ;
+13)
+w § 21:
+a)
+w ust. 1 wyrazy „c i d” zastępuje się wyrazami „c-e”,
+b)
+w ust. 2 po wyrazach „§ 3 ust. 2 pkt 2 lit. c” dodaje się wyrazy „lub e”,
+c)
+w ust. 3:
+– po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) były urodzone w gospodarstwie rolnika, oraz ” ,
+– pkt 2 otrzymuje brzmienie: „ 2) w okresie od dnia objęcia wymogami praktyki, o której mowa w § 3 ust. 2 pkt 2 lit. a-e, do dnia poddania ubojowi w gospodarstwie lub do dnia przemieszczenia bezpośrednio do rzeźni z przeznaczeniem do uboju, lub do dnia przemieszczenia do podmiotów wymienionych w § 26 ust. 2 pkt 1 lit. b tiret pierwsze podwójne tiret trzecie lub podwójne tiret czwarte, za pośrednictwem których te tuczniki zostaną przemieszczone do rzeźni z przeznaczeniem do uboju, były utrzymywane w gospodarstwie rolnika, który realizował tę praktykę. ” ,
+d)
+dodaje się ust. 4 w brzmieniu:
+„
+4.
+Rolnik może realizować praktykę podwyższającą poziom dobrostanu zwierząt, o której mowa w § 3 ust. 2 pkt 7, jeżeli realizuje warianty, o których mowa w § 3 ust. 1 pkt 9 lub 10, w zakresie przestrzegania wymogów określonych w ust. 30 lub 31 załącznika nr 2 do rozporządzenia.
+” ;
+14)
+w § 22 wyrazy „pkt 3, 4 i 6” zastępuje się wyrazami „pkt 3–6”;
+15)
+w § 23:
+a)
+w ust. 1 w pkt 4 po wyrazach „§ 14” dodaje się wyrazy „i § 15”,
+b)
+w ust. 3 w pkt 1 wyrazy „wariantu, o którym mowa w § 3 ust. 1 pkt 5” zastępuje się wyrazami „praktyki podwyższającej poziom dobrostanu zwierząt, o której mowa w § 3 ust. 2 pkt 4a lit. a”;
+16)
+po § 23 dodaje się § 23a i § 23b w brzmieniu:
+„
+§ 23a.
+1.
+W przypadku praktyk podwyższających poziom dobrostanu zwierząt, o których mowa w § 3 ust. 2 pkt 1 lit. e oraz pkt 2 lit. e, płatność dobrostanową przyznaje się rolnikowi spełniającemu wymagania systemu QAFP, a w przypadku praktyki podwyższającej poziom dobrostanu zwierząt, o której mowa w § 3 ust. 2 pkt 1 lit. e – spełniającemu także warunki, o których mowa w § 13.
+2.
+W przypadku rolnika spełniającego wymagania systemu QAFP uznaje się, że są spełnione wymogi określone w załączniku nr 2 do rozporządzenia dla praktyki podwyższającej poziom dobrostanu zwierząt, o której mowa w § 3 ust. 2 pkt 1 lit. a oraz pkt 2 lit. a.
+3.
+W przypadku praktyk podwyższających poziom dobrostanu zwierząt, o których mowa w § 3 ust. 2 pkt 4 lit. f, pkt 4a lit. b oraz pkt 5 lit. f, rolnikowi spełniającemu wymagania systemu QMP przyznaje się płatność dobrostanową, jeżeli:
+1)
+spełnia warunki, o których mowa w § 14 ust. 1 pkt 2, ust. 3 i 4 oraz § 15;
+2)
+bydło nie jest utrzymywane na uwięzi.
+§ 23b.
+1.
+W przypadku praktyk podwyższających poziom dobrostanu zwierząt, o których mowa w § 3 ust. 2 pkt 1 lit. e, pkt 2 lit. e oraz pkt 7, rolnikowi spełniającemu wymagania systemu QAFP przyznaje się płatność dobrostanową, jeżeli złoży za pomocą systemu teleinformatycznego Agencji albo kierownikowi biura powiatowego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa, w terminie do dnia 21 marca roku następującego po roku, w którym złożył wniosek o przyznanie płatności dobrostanowej, certyfikat, o którym mowa w § 3 ust. 4, wydany przez upoważnioną jednostkę certyfikującą.
+2.
+W przypadku praktyk podwyższających poziom dobrostanu zwierząt, o których mowa w § 3 ust. 2 pkt 1 lit. e, pkt 2 lit. e oraz pkt 7, certyfikat, o którym mowa w § 3 ust. 4, obejmuje wszystkie zwierzęta utrzymywane w gospodarstwie objęte wymogami danej praktyki.
+3.
+W przypadku praktyk podwyższających poziom dobrostanu zwierząt, o których mowa w § 3 ust. 2 pkt 4 lit. f, pkt 4a lit. b oraz pkt 5 lit. f, rolnikowi spełniającemu wymagania systemu QMP przyznaje się płatność dobrostanową, jeżeli złoży za pomocą systemu teleinformatycznego Agencji albo kierownikowi biura powiatowego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa, w terminie do dnia 21 marca roku następującego po roku, w którym złożył wniosek o przyznanie płatności dobrostanowej, certyfikat, o którym mowa w § 3 ust. 5, wydany przez upoważnioną jednostkę certyfikującą.
+4.
+W przypadku gdy rolnik nie złożył certyfikatu w sposób i w terminie określonych w ust. 1 lub 3, kierownik biura powiatowego Agencji wzywa na piśmie rolnika do złożenia tego certyfikatu w terminie 7 dni od dnia doręczenia wezwania, chyba że rolnik złożył już ten certyfikat.
+5.
+Jeżeli mimo wezwania, o którym mowa w ust. 4, zostanie stwierdzone, że rolnik nie złożył certyfikatu, o którym mowa odpowiednio w § 3 ust. 4 lub 5, płatności dobrostanowej za realizację praktyk podwyższających poziom dobrostanu zwierząt, o których mowa w § 3 ust. 2 pkt 1 lit. e, pkt 2 lit. e, pkt 4 lit. f, pkt 4a lit. b, pkt 5 lit. f oraz pkt 7, nie przyznaje się.
+” ;
+17)
+§ 24 otrzymuje brzmienie:
+„
+§ 24.
+Rolnikowi ekologicznemu przyznaje się również płatność dobrostanową w ramach praktyk podwyższających poziom dobrostanu zwierząt, o których mowa w § 3 ust. 2 pkt 1 lit. b-e, pkt 2 lit. b-e, pkt 3 lit. c-f, pkt 4 lit. b-f, pkt 4a lit. b i pkt 5 lit. b-f, oraz w ramach praktyki podwyższającej poziom dobrostanu zwierząt polegającej na utrzymywaniu kurcząt brojlerów lub indyków utrzymywanych z przeznaczeniem do produkcji mięsa zgodnie z wymogami systemu QAFP w ramach wariantów, o których mowa w § 3 ust. 1 pkt 9 lub 10, jeżeli złożył wniosek o przyznanie płatności dobrostanowej w ramach danej praktyki, a tę praktykę realizował i udokumentował zgodnie z przepisami rozporządzenia.
+” ;
+18)
+w § 25 w pkt 2 część wspólna otrzymuje brzmienie:
+„
+– w przypadku wariantów, o których mowa w § 3 ust. 1 pkt 7 i 11–13, oraz praktyk podwyższających poziom dobrostanu zwierząt, o których mowa w § 3 ust. 2 pkt 4 lit. a i b, pkt 4a lit. a oraz pkt 5 lit. a i b.
+” ;
+19)
+w § 26 w ust. 2:
+a)
+w pkt 1:
+– lit. a otrzymuje brzmienie: „ a) pkt 1, jest średnia liczba loch oznakowanych kolczykiem z indywidualnym numerem identyfikacyjnym lochy i zarejestrowanych zgodnie z przepisami o systemie identyfikacji i rejestracji zwierząt, utrzymywanych przez rolnika w okresie, w którym ten rolnik przestrzega wymogów w ramach tych praktyk, ustalonym na podstawie § 4 ust. 1 pkt 1, ” ,
+– w lit. b w tiret pierwszym wprowadzenie do wyliczenia otrzymuje brzmienie: „ w okresie ustalonym na podstawie § 29, § 50 lub § 50a zostały: ” ,
+– uchyla się lit. c,
+b)
+w pkt 2:
+– lit. a i b otrzymują brzmienie: „ a) pkt 3 lit. a, jest średnia liczba krów mlecznych utrzymywanych przez rolnika i wypasanych zgodnie z wymogami, o których mowa w ust. 11 pkt 1 i 2 załącznika nr 2 do rozporządzenia, w okresie ustalonym na podstawie § 4 ust. 1 pkt 5, b) pkt 3 lit. b-e, jest średnia liczba krów mlecznych utrzymywanych przez rolnika w okresie, w którym ten rolnik przestrzega wymogów w ramach tych praktyk, ustalonym na podstawie § 4 ust. 1 pkt 1, ” ,
+– lit. d otrzymuje brzmienie: „ d) pkt 4 lit. a-d, jest średnia liczba krów mamek utrzymywanych przez rolnika w okresie, w którym ten rolnik przestrzega wymogów w ramach tych praktyk, ustalonym na podstawie § 4 ust. 1 pkt 1, ” ,
+– po lit. d dodaje się lit. da w brzmieniu: „ da) pkt 4 lit. f, jest liczba krów mamek wymienionych w certyfikacie, o którym mowa w § 3 ust. 5, utrzymywanych przez rolnika w okresie, w którym ten rolnik przestrzega wymogów w ramach tej praktyki, ustalonym na podstawie § 4 ust. 1 pkt 1, ” ,
+– w lit. e po wyrazach „pkt 4 lit. e, jest” dodaje się wyraz „średnia”,
+– po lit. e dodaje się lit. ea i eb w brzmieniu: „ ea) pkt 4a lit. a, jest średnia liczba krów mamek utrzymywanych przez rolnika w okresie, w którym ten rolnik przestrzega wymogów w ramach tej praktyki, ustalonym na podstawie § 4 ust. 1 pkt 1, eb) pkt 4a lit. b, jest liczba krów wymienionych w certyfikacie, o którym mowa w § 3 ust. 5, utrzymywanych przez rolnika w okresie, w którym ten rolnik przestrzega wymogów w ramach tej praktyki, ustalonym na podstawie § 4 ust. 1 pkt 1, ” ,
+– lit. f oraz g otrzymują brzmienie: „ f) pkt 5 lit. a-d, jest średnia liczba opasów spełniających warunki, o których mowa w § 15, utrzymywanych przez rolnika co najmniej przez 120 dni w okresie, w którym ten rolnik przestrzega wymogów w ramach tych praktyk, ustalonym na podstawie § 4 ust. 1 pkt 1, g) pkt 5 lit. e, jest średnia liczba opasów spełniających warunki, o których mowa w § 15, utrzymywanych przez rolnika co najmniej przez 120 dni w okresie ustalonym na podstawie § 4 ust. 1 pkt 1 i wypasanych zgodnie z wymogami, o których mowa w ust. 26 pkt 1 i 2 załącznika nr 2 do rozporządzenia, w okresie ustalonym na podstawie § 4 ust. 1 pkt 5, ” ,
+– dodaje się lit. h w brzmieniu: „ h) pkt 5 lit. f, jest liczba opasów spełniających warunki, o których mowa w § 15, wymienionych w certyfikacie, o którym mowa w § 3 ust. 5, utrzymywanych przez rolnika co najmniej przez 120 dni w okresie, w którym ten rolnik przestrzega wymogów w ramach tej praktyki, ustalonym na podstawie § 4 ust. 1 pkt 1 ” ;
+20)
+w § 28 wyrazy „§ 26 ust. 2 pkt 1 lit. a i pkt 2 lit. b, d oraz f” zastępuje się wyrazami „§ 26 ust. 2 pkt 1 lit. a i pkt 2 lit. a, b, d, e, ea, f oraz g”;
+21)
+w § 29 wyrazy „§ 4 ust. 1 pkt 1” zastępuje się wyrazami „§ 26 ust. 2 pkt 1 lit. b tiret pierwsze”;
+22)
+po § 29 dodaje się § 29a w brzmieniu:
+„
+§ 29a.
+W przypadku gdy rolnik otrzymał płatność dobrostanową w ramach praktyk podwyższających poziom dobrostanu zwierząt, o których mowa w § 3 ust. 2 pkt 2, w poprzednim roku, okres, o którym mowa w § 26 ust. 2 pkt 1 lit. b tiret pierwsze, trwa od dnia 15 marca roku, w którym rolnik złożył wniosek o przyznanie płatności dobrostanowej w ramach tych praktyk, do dnia 14 marca kolejnego roku.
+” ;
+23)
+w § 31:
+a)
+pkt 1 i 2 otrzymują brzmienie:
+„
+1)
+pkt 7, jest średnia liczba samic z gatunku owca domowa mających co najmniej 12 miesięcy życia, utrzymywanych przez rolnika w okresie, w którym ten rolnik przestrzega wymogów w ramach tego wariantu, ustalonym na podstawie § 4 ust. 1 pkt 2 lit. b,
+2)
+pkt 8, jest średnia liczba kur niosek utrzymywanych przez rolnika w okresie, w którym ten rolnik przestrzega wymogów w ramach tego wariantu, ustalonym na podstawie § 4 ust. 1 pkt 1,
+” ,
+b)
+w pkt 3 wyrazy „§ 4 ust. 1 pkt 1” zastępuje się wyrazami „§ 35 lub § 35a”,
+c)
+pkt 4 otrzymuje brzmienie:
+„
+4)
+pkt 11 i 12, jest średnia liczba koni dorosłych lub ogierów utrzymywanych przez rolnika w okresie, w którym ten rolnik przestrzega wymogów w ramach danego wariantu, ustalonym na podstawie § 4 ust. 1 pkt 1 lub pkt 3 lit. a,
+” ;
+24)
+w § 35 wyrazy „§ 4 ust. 1 pkt 1” zastępuje się wyrazami „§ 31 pkt 3”;
+25)
+po § 35 dodaje się § 35a w brzmieniu:
+„
+§ 35a.
+W przypadku gdy rolnik otrzymał płatność dobrostanową w ramach wariantów, o których mowa w § 3 ust. 1 pkt 9 lub 10, w poprzednim roku, okres, o którym mowa w § 31 pkt 3, trwa od dnia 15 marca roku, w którym rolnik złożył wniosek o przyznanie płatności dobrostanowej w ramach danego wariantu, do dnia 14 marca kolejnego roku.
+” ;
+26)
+w § 36:
+a)
+w ust. 1 po wyrazach „w ramach” dodaje się wyrazy „praktyk podwyższających poziom dobrostanu zwierząt w ramach”,
+b)
+dodaje się ust. 4 w brzmieniu:
+„
+4.
+Do zwierząt objętych wnioskiem o przyznanie płatności dobrostanowej, o której mowa w § 23a ust. 1 i 3, płatność dobrostanową przyznaje się w pełnej wysokości niezależnie od liczby zwierząt utrzymywanych w gospodarstwie wyrażonej w DJP.
+” ;
+27)
+w § 37:
+a)
+ust. 1 i 2 otrzymują brzmienie:
+„
+1.
+Rolnikowi może zostać przyznana kwota przeznaczona na refundację kosztów transakcyjnych, o których mowa w art. 31 ust. 7 lit. b rozporządzenia 2021/2115, poniesionych z tytułu sporządzenia planu poprawy dobrostanu zwierząt, jeżeli są spełnione warunki przyznania płatności dobrostanowej w ramach wariantów, o których mowa w § 3 ust. 1 pkt 1, 2 i 7–13, oraz praktyk podwyższających poziom dobrostanu zwierząt, o których mowa w § 3 ust. 2 pkt 3 lit. b i c, pkt 4 lit. a i b, pkt 4a lit. a oraz pkt 5 lit. a i b.
+2.
+Wysokość kwoty przeznaczonej na refundację kosztów określonych w ust. 1, poniesionych z tytułu sporządzenia planu poprawy dobrostanu zwierząt, nie może przekraczać 15 % wypłaconej płatności dobrostanowej w ramach danego wariantu, o którym mowa w § 3 ust. 1 pkt 1, 2 i 7–13, oraz praktyk podwyższających poziom dobrostanu zwierząt, o których mowa w § 3 ust. 2 pkt 3 lit. b i c, pkt 4 lit. a i b, pkt 4a lit. a oraz pkt 5 lit. a i b, i nie może być wyższa niż 1200 zł w odniesieniu do jednego gatunku zwierząt spośród gatunków zwierząt wymienionych w art. 36 ust. 1 ustawy, a w przypadku drobiu – w ramach wszystkich gatunków ptaków.
+” ,
+b)
+w ust. 4 po wyrazach „o których mowa w § 23 ust. 1,” dodaje się wyrazy „oraz rolnika spełniającego wymagania systemu QAFP, który realizuje praktyki podwyższające poziom dobrostanu zwierząt, o których mowa w § 3 ust. 2 pkt 1 lit. a i pkt 2 lit. a,”;
+28)
+w § 41 w ust. 5 skreśla się wyrazy „nadany mu w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, zwany dalej „numerem identyfikacyjnym”,”;
+29)
+w § 48:
+a)
+w ust. 1:
+– we wprowadzeniu do wyliczenia skreśla się wyrazy „5 i”,
+– pkt 2 otrzymuje brzmienie: „ 2) wysokości kwoty płatności dobrostanowej, jaka przysługiwałaby w ramach: a) wariantów, o których mowa w § 3 ust. 1 pkt 7–13, lub praktyk podwyższających poziom dobrostanu zwierząt, o których mowa w § 3 ust. 2 pkt 1–5, lub b) wariantu, o którym mowa w § 3 ust. 1 pkt 11 – w przypadku ogierów utrzymywanych w pomieszczeniach lub w budynkach w ramach wariantu, o którym mowa w § 3 ust. 1 pkt 12 – gdyby rolnik przestrzegał wymogów w ramach tych wariantów lub tych praktyk. ” ,
+b)
+w ust. 2 pkt 2 otrzymuje brzmienie:
+„
+2)
+wysokości kwoty płatności dobrostanowej, jaka przysługiwałaby w ramach:
+a)
+wariantów, o których mowa w § 3 ust. 1 pkt 7–13, lub praktyk podwyższających poziom dobrostanu zwierząt, o których mowa w § 3 ust. 2 pkt 1–5, lub
+b)
+wariantu, o którym mowa w § 3 ust. 1 pkt 11 – w przypadku ogierów utrzymywanych w pomieszczeniach lub w budynkach w ramach wariantu, o którym mowa w § 3 ust. 1 pkt 12
+gdyby rolnik przestrzegał wymogów w ramach tych wariantów lub tych praktyk.
+” ,
+c)
+po ust. 7 dodaje się ust. 7a i 7b w brzmieniu:
+„
+7a.
+Jeżeli zostanie stwierdzone, że rolnik ma plan poprawy dobrostanu zwierząt sporządzony po upływie terminu określonego w § 11 ust. 3, jednak nie później niż 14 dni od dnia upływu tego terminu, wysokość kary w roku realizacji wymogów w ramach wariantów oraz praktyk podwyższających poziom dobrostanu zwierząt, o których mowa w ust. 1, w którym stwierdzono to uchybienie, wynosi 10 % płatności dobrostanowej, jaka przysługiwałaby za realizację tych wariantów lub praktyk, gdyby ten rolnik miał ten plan sporządzony w terminie określonym w § 11 ust. 3.
+7b.
+Jeżeli zostanie stwierdzone, że rolnik, który ubiega się o przyznanie płatności dobrostanowej za realizację praktyk podwyższających poziom dobrostanu zwierząt w ramach wariantów, o których mowa w § 3 ust. 1, nie odbył szkolenia, o którym mowa w § 4a ust. 1, wysokość kary w roku realizacji tych praktyk, w którym stwierdzono to uchybienie, wynosi 30 % płatności dobrostanowej, jaka przysługiwałaby za realizację tych praktyk, gdyby ten rolnik odbył takie szkolenie.
+” ,
+d)
+w ust. 8 wyrazy „w ust. 1–3, 6 i 7” zastępuje się wyrazami „w ust. 1–3 i 6–7b”;
+30)
+po § 50c dodaje się § 50d w brzmieniu:
+„
+§ 50d.
+Wymóg odbycia szkolenia, o którym mowa w § 4a ust. 1, dotyczy rolnika, który złożył wniosek o przyznanie płatności dobrostanowej po dniu 14 marca 2024 r.
+” ;
+31)
+w załączniku nr 1 do rozporządzenia w części II po wyrazach „Wariant Dobrostan krów mamek utrzymywanych w systemie otwartym” dodaje się wyrazy „, praktyka – zwiększona co najmniej o 20 % zewnętrzna powierzchnia bytowa”;
+32)
+w załączniku nr 2 do rozporządzenia:
+a)
+w ust. 11 w pkt 1 po wyrazach „w okresie pastwiskowym,” dodaje się wyrazy „biorąc pod uwagę stan fizjologiczny tych krów mlecznych oraz niekorzystne zjawiska pogodowe,”,
+b)
+w ust. 19 w pkt 2 po wyrazach „w pkt 1” dodaje wyrazy „, na zewnętrznej powierzchni bytowej”,
+c)
+w ust. 22 we wprowadzeniu do wyliczenia po wyrazach „w systemie otwartym” dodaje się wyrazy „, praktyki – zwiększona co najmniej o 20 % zewnętrzna powierzchnia bytowa”,
+d)
+w ust. 33 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu:
+„
+3)
+w przypadku ogierów utrzymywanych w pomieszczeniach lub w budynkach – przepisy ust. 32 pkt 1 lit. a i b, pkt 2 lit. a, pkt 3, pkt 4 lit. a oraz pkt 5 stosuje się odpowiednio.
+” ;
+33)
+w załączniku nr 3 do rozporządzenia:
+a)
+w ust. 2:
+– w pkt 7 we wprowadzeniu do wyliczenia po wyrazach „w systemie otwartym” dodaje się wyrazy „, praktyki – zwiększona co najmniej o 20 % zewnętrzna powierzchnia bytowa”;
+– w pkt 13: – – lit. d otrzymuje brzmienie: „ d) podanie wielkości (w metrach kwadratowych) powierzchni bytowej: – boksów, – w pomieszczeniach lub w budynkach przeznaczonej dla zwierząt z gatunku koń domowy, ” , – – w lit. f średnik zastępuje się przecinkiem i dodaje się lit. g-i w brzmieniu: „ g) opis posiadanej zewnętrznej powierzchni bytowej przeznaczonej dla zwierząt z gatunku koń domowy oraz sposobu realizacji wymogu, o którym mowa w ust. 32 pkt 3 załącznika nr 2 do rozporządzenia, w terminie, o którym mowa w § 4 ust. 1 pkt 3 lit. b rozporządzenia, h) podanie wielkości (w metrach kwadratowych) i terminów wykorzystania posiadanych zewnętrznych powierzchni bytowych lub biegalni w budynkach lub w pomieszczeniach dostępnych poza okresem pastwiskowym dla wszystkich zwierząt z gatunku koń domowy w gospodarstwie oraz sposobu realizacji wymogu, o którym mowa w ust. 32 pkt 4 załącznika nr 2 do rozporządzenia, w terminie, o którym mowa w § 4 ust. 1 pkt 3 lit. c rozporządzenia, i) wskazanie oddzielnie dla każdej siedziby stada sposobu utrzymywania zwierząt z gatunku koń domowy (pojedynczo lub grupowo), a w przypadku jednoczesnego utrzymywania tych zwierząt zarówno pojedynczo, jak i grupowo – również ze wskazaniem liczby zwierząt utrzymywanych pojedynczo; ” , – w pkt 14 w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c i d w brzmieniu: „ c) oświadczenie o zapewnieniu wszystkim utrzymywanym w gospodarstwie koniom zadaszenia o powierzchni pozwalającej na jednoczesne przebywanie tych koni pod tym zadaszeniem, a także ściółki pod tym zadaszeniem, d) w przypadku utrzymywania ogierów w pomieszczeniach lub w budynkach: – opis posiadanych w gospodarstwie pomieszczeń i budynków przeznaczonych dla ogierów, – podanie wielkości (w metrach kwadratowych) powierzchni bytowej: – – boksów, – – w pomieszczeniach lub w budynkach przeznaczonej dla ogierów, – wskazanie oddzielnie dla każdej siedziby stada sposobu utrzymywania ogierów (pojedynczo lub grupowo), a w przypadku jednoczesnego utrzymywania tych zwierząt zarówno pojedynczo, jak i grupowo – również ze wskazaniem liczby zwierząt utrzymywanych pojedynczo; ” ,
+b)
+w ust. 3:
+– w pkt 1 wyrazy „wariantów, o których mowa w § 3 ust. 1 pkt 5 lub 12” zastępuje się wyrazami „wariantu, o którym mowa w § 3 ust. 1 pkt 12”,
+– w pkt 4 po wyrazach „pkt 4 lit. d” dodaje się wyrazy „, pkt 4a lit. a”;
+34)
+załącznik nr 4 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia;
+35)
+w załączniku nr 6 do rozporządzenia:
+a)
+w części Wariant Dobrostan krów mamek, praktyka – zapewnienie wypasu uchyla się pkt 7–10,
+b)
+w części Wariant Dobrostan kur niosek dodaje się pkt 8 i 9 w brzmieniu: 8. Niezapewnienie zwiększonej dostępności gniazd, o której mowa w ust. 29 pkt 2 załącznika nr 2 do rozporządzenia 32% 1,25 – – 40% 9. Niezapewnienie minimalnej długości grzędy, o której mowa w ust. 29 pkt 3 załącznika nr 2 do rozporządzenia 32% 1,25 – – 40%
+c)
+w części Wariant Dobrostan kurcząt brojlerów po pkt 6 dodaje się pkt 6a-6f w brzmieniu: 6a. Powierzchnia bytowa w kurniku, w którym są utrzymywane kurczęta brojlery objęte wymogami wariantu, jest mniejsza niż ta, która pozwoliłaby na zapewnienie tym kurczętom powierzchni bytowej w kurniku, o której mowa w ust. 30 pkt 1 załącznika nr 2 do rozporządzenia – mniej niż o 5 % i nie dłużej niż przez 2,5 % wymaganego okresu przestrzegania wymogów, ale dłużej niż przez 3 dni 16% 1,25 – – 20% 6b. Powierzchnia bytowa w kurniku, w którym są utrzymywane kurczęta brojlery objęte wymogami wariantu, jest mniejsza niż ta, która pozwoliłaby na zapewnienie tym kurczętom powierzchni bytowej w kurniku, o której mowa w ust. 30 pkt 1 32% 1,25 – – 40% załącznika nr 2 do rozporządzenia -mniej niż o 5 % i dłużej niż przez 2,5 % wymaganego okresu przestrzegania wymogów, ale nie dłużej niż przez 5 % wymaganego okresu przestrzegania wymogów 6c. Powierzchnia bytowa w kurniku, w którym są utrzymywane kurczęta brojlery objęte wymogami wariantu, jest mniejsza niż ta, która pozwoliłaby na zapewnienie tym kurczętom powierzchni bytowej w kurniku, o której mowa w ust. 30 pkt 1 załącznika nr 2 do rozporządzenia -mniej niż o 5 % i dłużej niż przez 5 % wymaganego okresu przestrzegania wymogów, ale nie dłużej niż przez 10 % wymaganego okresu przestrzegania wymogów 48% 1,25 – – 60% 6d. Powierzchnia bytowa w kurniku, w którym są utrzymywane kurczęta brojlery objęte wymogami wariantu, jest mniejsza niż ta, która pozwoliłaby na zapewnienie tym kurczętom powierzchni bytowej w kurniku, o której mowa w ust. 30 pkt 1 załącznika nr 2 do rozporządzenia -mniej niż o 5 % i dłużej niż przez 10 % wymaganego okresu przestrzegania wymogów, ale nie dłużej niż przez 20 % wymaganego okresu przestrzegania wymogów 64% 1,25 – – 80% 6e. Powierzchnia bytowa w kurniku, w którym są utrzymywane kurczęta brojlery objęte wymogami wariantu, jest mniejsza niż ta, która pozwoliłaby na zapewnienie tym kurczętom powierzchni bytowej w kurniku, o której mowa w ust. 30 pkt 1 załącznika nr 2 do rozporządzenia -mniej niż o 5 %, ale dłużej niż przez 20 % wymaganego okresu przestrzegania wymogów 80% 1,25 – – 100 % 6f. Powierzchnia bytowa w kurniku, w którym są utrzymywane kurczęta brojlery objęte wymogami wariantu, jest mniejsza niż ta, która pozwoliłaby na zapewnienie tym kurczętom powierzchni bytowej w kurniku, o której mowa w ust. 30 pkt 1 załącznika nr 2 do rozporządzenia więcej niż o 5 % 80% 1,25 – – 100 %
+d)
+w części Wariant Dobrostan koni utrzymywanych w systemie otwartym dodaje się pkt 7 i 8 w brzmieniu: 7. Zadaszenie, o którym mowa w ust. 33 pkt 1 lit. b załącznika nr 2 do rozporządzenia, nie zostało zapewnione 32% 1,25 – – 40% 8. Ściółka pod zadaszeniem, o której mowa w ust. 33 pkt 1 lit. b załącznika nr 2 do rozporządzenia, nie została zapewniona 32% 1,25 – – 20%
+§ 2.
+1.
+Do przyznawania płatności, o której mowa w § 1 rozporządzenia zmienianego w § 1, w sprawach objętych postępowaniami:
+1)
+wszczętymi i niezakończonymi ostateczną decyzją przed dniem wejścia w życie niniejszego rozporządzenia,
+2)
+zakończonymi ostateczną decyzją wydaną na podstawie przepisów dotychczasowych, w przypadku gdy zostały one wznowione od dnia wejścia w życie niniejszego rozporządzenia
+stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym, z wyjątkiem przepisów § 21 ust. 3 pkt 2, § 23 ust. 1 pkt 4, § 26 ust. 2 pkt 1 lit. a i b, pkt 2 lit. a, b, d, f oraz g, § 29, § 31 pkt 1–3 i pkt 4 w zakresie dotyczącym koni dorosłych, § 35, § 36 ust. 1 oraz załącznika nr 6 do rozporządzenia zmienianego w § 1, które stosuje się w brzmieniu nadanym niniejszym rozporządzeniem, oraz przepisu § 21 ust. 3 pkt 1a rozporządzenia zmienianego w § 1.
+2.
+Do przyznawania płatności, o której mowa w § 1 rozporządzenia zmienianego w § 1, w sprawach objętych postępowaniami wszczętymi po dniu 14 marca 2024 r. stosuje się przepisy rozporządzenia zmienianego w § 1, z tym że:
+1)
+§ 3 ust. 2 pkt 1 lit. e, pkt 2 lit. e, pkt 4 lit. f, pkt 4a, pkt 5 lit. f oraz pkt 7, ust. 4 i 5, § 21 ust. 4, § 23a, § 23b, § 26 ust. 2 pkt 2 lit. da, ea, eb i h oraz § 36 ust. 4 rozporządzenia zmienianego w § 1,
+2)
+§ 3 ust. 2 pkt 6 i ust. 3, § 4 ust. 1 pkt 1, § 11 ust. 1, 5, 6 i 9, ust. 10 pkt 1 lit. a i b, ust. 13 i 16, § 21 ust. 1 i 2, § 22, § 23 ust. 3 pkt 1, § 24, § 25 pkt 2, § 26 ust. 2 pkt 1 w zakresie lit. c, § 28, § 37 ust. 1 i 2, § 48 ust. 1 i 2, część II załącznika nr 1, ust. 22 załącznika nr 2, ust. 2 pkt 7, ust. 3 pkt 1 i 4 załącznika nr 3 oraz załącznik nr 4 do rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem
+stosuje się, jeżeli Komisja Europejska zatwierdzi, na podstawie art. 119 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2115 z dnia 2 grudnia 2021 r. ustanawiającego przepisy dotyczące wsparcia planów strategicznych sporządzanych przez państwa członkowskie w ramach wspólnej polityki rolnej (planów strategicznych WPR) i finansowanych z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) oraz uchylającego rozporządzenia (UE) nr 1305/2013 i (UE) nr 1307/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 1, z późn. zm.), zmiany Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023–2027 w zakresie umożliwiającym przyznanie płatności dobrostanowej, o której mowa w § 1 rozporządzenia zmienianego w § 1, za realizację praktyk podwyższających poziom dobrostanu zwierząt, o których mowa w § 3 ust. 2 pkt 1 lit. e, pkt 2 lit. e, pkt 4 lit. f, pkt 4a lit. b oraz pkt 5 lit. f rozporządzenia zmienianego w § 1.
+3.
+W przypadku gdy Komisja Europejska nie zatwierdzi zmiany Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023–2027 w zakresie umożliwiającym przyznanie płatności dobrostanowej za realizację praktyk podwyższających poziom dobrostanu zwierząt, o których mowa w § 3 ust. 2 pkt 1 lit. e, pkt 2 lit. e, pkt 4 lit. f, pkt 4a lit. b oraz pkt 5 lit. f rozporządzenia zmienianego w § 1, płatności dobrostanowej za realizację tych praktyk nie przyznaje się.
+§ 3.
+Rozporządzenie wchodzi w życie z dniem 15 marca 2024 r.
+1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 119 z 21.04.2022, str. 1, Dz. Urz. UE L 181 z 07.07.2022, str. 35, Dz. Urz. UE L 227 z 01.09.2022, str. 136, Dz. Urz. UE L 102 z 17.04.2023, str. 1 oraz Dz. Urz. UE L 148 z 08.06.2023, str. 130.
+Załącznik – Liczba punktów za realizację praktyk podwyższających poziom dobrostanu zwierząt
+Lp. Warianty i praktyki Liczba punktów Wariant Dobrostan loch 1 Praktyka: zwiększona co najmniej o 20 % powierzchnia bytowa w pomieszczeniach lub w budynkach 3,9 2 Praktyka: zwiększona co najmniej o 50 % powierzchnia bytowa w pomieszczeniach lub w budynkach 9,3 3 Praktyka: utrzymywanie na ściółce 1,6 4 Praktyka: późniejsze odsadzanie prosiąt 2,7 5 Praktyka: utrzymywanie zgodnie z wymogami systemu QAFP – Kulinarne mięso wieprzowe 1,9 Wariant Dobrostan tuczników 1 Praktyka: zwiększona co najmniej o 20 % powierzchnia bytowa w pomieszczeniach lub w budynkach 0,4 2 Praktyka: zwiększona co najmniej o 50 % powierzchnia bytowa w pomieszczeniach lub w budynkach 0,6 3 Praktyka: utrzymywanie na ściółce 0,6 4 Praktyka: utrzymywanie w cyklu zamkniętym 0,3 5 Praktyka: utrzymywanie zgodnie z wymogami systemu QAFP – Kulinarne mięso wieprzowe 0,5 Wariant Dobrostan krów mlecznych 1 Praktyka: zapewnienie wypasu 3,1 2 Praktyka: zwiększona co najmniej o 20 % powierzchnia bytowa w pomieszczeniach lub w budynkach 6,9 3 Praktyka: zwiększona co najmniej o 50 % powierzchnia bytowa w pomieszczeniach lub w budynkach 10 4 Praktyka: utrzymywanie na ściółce 1 5 Praktyka: zapewnienie wybiegu 2 6 Praktyka: późniejsze odsadzanie cieląt 1,7 Wariant Dobrostan krów mamek utrzymywanych w pomieszczeniach lub w budynkach 1 Praktyka: zwiększona co najmniej o 20 % powierzchnia bytowa w pomieszczeniach lub w budynkach 3,6 2 Praktyka: zwiększona co najmniej o 50 % powierzchnia bytowa w pomieszczeniach lub w budynkach 9,1 3 Praktyka: utrzymywanie na ściółce 0,9 4 Praktyka: zapewnienie wybiegu 1,5 5 Praktyka: zapewnienie wypasu 1,5 6 Praktyka: utrzymywanie zgodnie z wymogami systemu QMP 2,5 Wariant Dobrostan krów mamek utrzymywanych w systemie otwartym 1 Praktyka: zwiększona co najmniej o 20 % zewnętrzna powierzchnia bytowa 3,8 2 Praktyka: utrzymywanie zgodnie z wymogami systemu QMP 2,5 Wariant Dobrostan opasów 1 Praktyka: zwiększona co najmniej o 20 % powierzchnia bytowa w pomieszczeniach lub w budynkach 0,8 2 Praktyka: zwiększona co najmniej o 50 % powierzchnia bytowa w pomieszczeniach lub w budynkach 2 3 Praktyka: utrzymywanie na ściółce 0,9 4 Praktyka: zapewnienie wybiegu 2,8 5 Praktyka: zapewnienie wypasu 2,9 6 Praktyka: utrzymywanie zgodnie z wymogami systemu QMP 1,3
+

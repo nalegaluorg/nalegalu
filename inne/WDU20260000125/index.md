@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 26 stycznia 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 lutego 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-02-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000125) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/125/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 26 stycznia 2026 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych (Dz. U. z 2023 r.
 poz. 154), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 20 marca 2025 r. o zmianie ustawy o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych (Dz. U. poz. 523),
@@ -38,6 +38,9 @@ poz. 154), z uwzględnieniem zmian wprowadzonych:
 3. Członkowie Komisji powołani zgodnie z wnioskiem, o którym mowa w ust. 2, pełnią swoje funkcje do dnia wygaśnięcia kadencji tej Komisji.
 
 **Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+
+- **2)** art. 23 ustawy z dnia 24 kwietnia 2025 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw (Dz. U. poz. 619), który stanowi: „Art. 23. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia.”;
+- **3)** art. 147 ustawy z dnia 21 listopada 2025 r. o zdrowiu zwierząt (Dz. U. poz. 1795), który stanowi: „Art. 147. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 126 pkt 11, który wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych
 
 #### Rozdział 1 Wykonywanie zawodu lekarza weterynarii
 
@@ -153,6 +156,9 @@ poz. 154), z uwzględnieniem zmian wprowadzonych:
 3. Dokumenty, o których mowa w ust. 2, przedstawia się w okresie 3 miesięcy od dnia ich wydania.
 
 **Art. 2c.** Okręgowa rada lekarsko-weterynaryjna przyznaje także, w trybie i na zasadach określonych w przepisach o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej, prawo wykonywania zawodu lekarza weterynarii osobie spełniającej warunki określone w art. 2 ust. 1 pkt 1 i 3–6, jeżeli osoba ta posiada:
+
+- **1)** dokument potwierdzający kwalifikacje do wykonywania zawodu lekarza weterynarii spełniające minimalne wymagania w zakresie kształcenia określone w przepisach Unii Europejskiej dotyczących uznawania kwalifikacji zawodowych, o którym mowa w art. 2a ust. 1, lecz nie może przedstawić zaświadczenia wydanego przez właściwe organy państwa członkowskiego, potwierdzającego faktyczne i zgodne z prawem wykonywanie zawodu lekarza weterynarii przez okres co najmniej trzech kolejnych lat w okresie pięciu lat bezpośrednio poprzedzających wydanie zaświadczenia lub przez okres co najmniej pięciu kolejnych lat w okresie siedmiu lat bezpośrednio poprzedzających wydanie zaświadczenia albo
+- **2)** dokument potwierdzający kwalifikacje do wykonywania zawodu lekarza weterynarii, wydany przez właściwe organy innego państwa niż państwo członkowskie i przedstawi zaświadczenie, że posiada trzyletnie doświadczenie w zawodzie lekarza weterynarii, uzyskane na terytorium państwa członkowskiego, które uznało ten dokument zgodnie z wewnętrznymi przepisami tego państwa oraz potwierdziło uzyskane doświadczenie zawodowe.
 
 **Art. 2d.**
 
@@ -443,6 +449,13 @@ poz. 154), z uwzględnieniem zmian wprowadzonych:
 
 **Art. 6a.** Okręgowa rada lekarsko-weterynaryjna stwierdza utratę prawa wykonywania zawodu lekarza weterynarii w przypadku:
 
+- **1)** utraty przez lekarza weterynarii obywatelstwa polskiego lub obywatelstwa państwa członkowskiego, jeżeli nie nabył równocześnie obywatelstwa innego państwa członkowskiego;
+- **2)** ubezwłasnowolnienia lekarza weterynarii całkowitego lub częściowego;
+- **3)** utraty przez lekarza weterynarii praw publicznych;
+- **4)** zrzeczenia się przez lekarza weterynarii prawa wykonywania zawodu;
+- **5)** nieuiszczania składki członkowskiej przez okres dłuższy niż 1 rok;
+- **6)** upływu czasu, na jaki zostało przyznane.
+
 **Art. 7.**
 
 1. Do uchwał organów samorządu w sprawach przyznawania prawa wykonywania zawodu, pozbawiania prawa bądź zawieszania w prawie wykonywania tego zawodu z powodu niezdolności do jego wykonywania, lub stwierdzania utraty tego prawa stosuje się przepisy Kodeksu postępowania administracyjnego odnoszące się do decyzji administracyjnych.
@@ -520,6 +533,14 @@ poz. 154), z uwzględnieniem zmian wprowadzonych:
 6. Na członków sądów lekarsko-weterynaryjnych mogą kandydować lekarze weterynarii wykonujący zawód nieprzerwanie co najmniej przez siedem lat.
 
 **Art. 13.** Mandat członka organu izby lekarsko-weterynaryjnej wygasa wskutek:
+
+- **1)** śmierci;
+- **2)** zrzeczenia się mandatu;
+- **3)** skreślenia z rejestru członków izby lekarsko-weterynaryjnej;
+- **4)** odwołania przez organ, który dokonał wyboru;
+- **5)** utraty obywatelstwa polskiego;
+- **6)** ukarania prawomocnym orzeczeniem sądu lekarsko-weterynaryjnego na kary określone w art. 46 ust. 1 pkt 2 i 3;
+- **7)** skazania prawomocnym wyrokiem na karę dodatkową pozbawienia praw publicznych lub zakazu wykonywania zawodu lekarza weterynarii.
 
 **Art. 14.**
 
@@ -599,7 +620,15 @@ poz. 154), z uwzględnieniem zmian wprowadzonych:
 
 **Art. 19.** Członkowie samorządu obowiązani są:
 
+- **1)** przestrzegać zasad etyki i deontologii weterynaryjnej oraz innych przepisów związanych z wykonywaniem zawodu lekarza weterynarii, a także uchwał władz i organów samorządu lekarzy weterynarii;
+- **2)** regularnie opłacać składkę członkowską.
+
 **Art. 20.** Członkowie samorządu mają prawo:
+
+- **1)** wybierać i być wybierani do organów samorządu, z zastrzeżeniem art. 12 ust. 4 i 5;
+- **2)** korzystać z pomocy izb lekarsko-weterynaryjnych w zakresie rozwijania kwalifikacji zawodowych oraz zapewnienia właściwych warunków wykonywania zawodu;
+- **3)** korzystać z ochrony i pomocy prawnej organów izb lekarsko-weterynaryjnych;
+- **4)** korzystać ze świadczeń instytucji izb lekarsko-weterynaryjnych i działalności samopomocowej.
 
 **Art. 21.**
 
@@ -620,6 +649,12 @@ poz. 154), z uwzględnieniem zmian wprowadzonych:
 **Art. 23.** Okręgową izbę lekarsko-weterynaryjną stanowią lekarze wpisani do rejestru jej członków.
 
 **Art. 24.** Organami okręgowej izby lekarsko-weterynaryjnej są:
+
+- **1)** okręgowy zjazd lekarzy weterynarii;
+- **2)** okręgowa rada lekarsko-weterynaryjna;
+- **3)** okręgowa komisja rewizyjna;
+- **4)** okręgowy sąd lekarsko-weterynaryjny;
+- **5)** okręgowy rzecznik odpowiedzialności zawodowej.
 
 **Art. 25.** Najwyższą władzą okręgowej izby lekarsko-weterynaryjnej jest okręgowy zjazd lekarzy weterynarii.
 
@@ -652,6 +687,15 @@ poz. 154), z uwzględnieniem zmian wprowadzonych:
 
 **Art. 27.** Okręgowy zjazd lekarzy weterynarii w szczególności:
 
+- **1)** podejmuje uchwały w sprawach objętych zakresem działania izby;
+- **2)** ustala zasady gospodarki finansowej izby oraz uchwala budżet izby;
+- **3)** rozpatruje i zatwierdza sprawozdania okręgowej rady lekarsko-weterynaryjnej, okręgowej komisji rewizyjnej, okręgowego sądu lekarsko-weterynaryjnego i okręgowego rzecznika odpowiedzialności zawodowej;
+- **4)** ustala organizację organów izby i tryb ich działania;
+- **5)** ustala liczbę członków organów izby i zastępców rzecznika odpowiedzialności zawodowej;
+- **6)** dokonuje wyboru prezesa i członków okręgowej rady lekarsko-weterynaryjnej, członków okręgowej komisji rewizyjnej, członków okręgowego sądu lekarsko-weterynaryjnego oraz okręgowego rzecznika odpowiedzialności zawodowej i jego zastępców;
+- **7)** dokonuje wyboru delegatów na Krajowy Zjazd Lekarzy Weterynarii;
+- **8)** ustala wysokość składki członkowskiej.
+
 **Art. 28.**
 
 1. Okręgowa rada lekarsko-weterynaryjna wybiera spośród swoich członków prezydium. Prezydium stanowią: prezes oraz wybrani przez radę wiceprezesi, sekretarz, skarbnik i członkowie.
@@ -660,9 +704,18 @@ poz. 154), z uwzględnieniem zmian wprowadzonych:
 
 **Art. 29.** Okręgowa rada lekarsko-weterynaryjna kieruje działalnością izby w okresie pomiędzy okręgowymi zjazdami lekarzy weterynarii, a w szczególności:
 
+- **1)** wykonuje zadania i czynności określone w art. 10, z wyjątkiem ustanawiania zasad etyki i deontologii weterynaryjnej oraz sprawowania sądownictwa lekarsko-weterynaryjnego;
+- **2)** wykonuje uchwały okręgowego zjazdu lekarzy weterynarii;
+- **3)** składa przed okręgowym zjazdem lekarzy weterynarii sprawozdanie z działalności oraz wykonania budżetu;
+- **4)** prowadzi bieżące sprawy izby;
+- **5)** wykonuje zadania zlecone przez Krajową Radę Lekarsko-Weterynaryjną.
+
 **Art. 30.** Przewodniczącemu okręgowej komisji rewizyjnej, przewodniczącemu okręgowego sądu lekarsko-weterynaryjnego oraz okręgowemu rzecznikowi odpowiedzialności zawodowej służy prawo do udziału w posiedzeniach okręgowej rady lekarsko-weterynaryjnej i jej prezydium.
 
 **Art. 31.** Okręgowa komisja rewizyjna:
+
+- **1)** kontroluje działalność finansową i gospodarczą izby;
+- **2)** występuje z wnioskiem o udzielenie absolutorium okręgowej radzie lekarsko-weterynaryjnej.
 
 **Art. 32.** Okręgowy sąd lekarsko-weterynaryjny rozpatruje sprawy z zakresu odpowiedzialności zawodowej lekarzy weterynarii oraz sprawuje sądownictwo polubowne.
 
@@ -671,6 +724,12 @@ poz. 154), z uwzględnieniem zmian wprowadzonych:
 #### Rozdział 5 Krajowa Izba Lekarsko-Weterynaryjna
 
 **Art. 34.** Organami Krajowej Izby Lekarsko-Weterynaryjnej są:
+
+- **1)** Krajowy Zjazd Lekarzy Weterynarii;
+- **2)** Krajowa Rada Lekarsko-Weterynaryjna;
+- **3)** Krajowa Komisja Rewizyjna;
+- **4)** Krajowy Sąd Lekarsko-Weterynaryjny;
+- **5)** Krajowy Rzecznik Odpowiedzialności Zawodowej.
 
 **Art. 35.** Najwyższą władzą samorządu jest Krajowy Zjazd Lekarzy Weterynarii.
 
@@ -691,6 +750,14 @@ poz. 154), z uwzględnieniem zmian wprowadzonych:
 5. Nadzwyczajny Krajowy Zjazd Lekarzy Weterynarii powinien być zwołany w ciągu 3 miesięcy od dnia wpływu wniosku o zwołanie Zjazdu i obraduje nad sprawami, dla których został zwołany.
 
 **Art. 37.** Krajowy Zjazd Lekarzy Weterynarii w szczególności:
+
+- **1)** uchwala zasady etyki i deontologii weterynaryjnej;
+- **2)** uchwala program działalności samorządu;
+- **3)** rozpatruje i zatwierdza sprawozdania organów Krajowej Izby Lekarsko-Weterynaryjnej;
+- **4)** uchwala regulaminy organów Izby;
+- **5)** ustala liczbę członków organów Izby i zastępców Krajowego Rzecznika Odpowiedzialności Zawodowej;
+- **6)** wybiera Prezesa oraz członków Krajowej Rady Lekarsko-Weterynaryjnej, Krajowej Komisji Rewizyjnej, Krajowego Sądu Lekarsko-Weterynaryjnego oraz Krajowego Rzecznika Odpowiedzialności Zawodowej i jego zastępców;
+- **7)** ustala zasady określania wysokości i podziału składki członkowskiej.
 
 **Art. 38.**
 
@@ -736,9 +803,20 @@ poz. 154), z uwzględnieniem zmian wprowadzonych:
 
 **Art. 42.** Krajowa Komisja Rewizyjna:
 
+- **1)** kontroluje finansową i gospodarczą działalność Krajowej Izby Lekarsko-Weterynaryjnej oraz wykonanie uchwał Krajowego Zjazdu Lekarzy Weterynarii;
+- **2)** sprawuje nadzór nad działalnością okręgowych komisji rewizyjnych;
+- **3)** zgłasza wniosek w sprawie absolutorium dla Krajowej Rady Lekarsko-Weterynaryjnej.
+
 **Art. 43.** Krajowy Sąd Lekarsko-Weterynaryjny:
 
+- **1)** rozpatruje sprawy z zakresu odpowiedzialności zawodowej lekarzy weterynarii;
+- **2)** składa Krajowej Radzie Lekarsko-Weterynaryjnej okresowe informacje o stanie prowadzonych spraw.
+
 **Art. 44.** Krajowy Rzecznik Odpowiedzialności Zawodowej:
+
+- **1)** prowadzi postępowania w sprawach odpowiedzialności zawodowej lekarzy weterynarii;
+- **2)** sprawuje nadzór nad działalnością okręgowych rzeczników odpowiedzialności zawodowej;
+- **3)** składa Krajowej Radzie Lekarsko-Weterynaryjnej okresowe informacje o stanie prowadzonych spraw.
 
 #### Rozdział 6 Odpowiedzialność zawodowa
 
@@ -936,6 +1014,10 @@ poz. 154), z uwzględnieniem zmian wprowadzonych:
 **Art. 69.** Minister właściwy do spraw zdrowia, w porozumieniu z ministrem właściwym do spraw rolnictwa oraz po zasięgnięciu opinii Krajowej Rady Lekarsko-Weterynaryjnej, w drodze rozporządzenia, określi oznakowanie, tryb i zasady wystawiania przez lekarzy weterynarii recept na produkty lecznicze lub leki recepturowe przeznaczone dla ludzi, które będą stosowane u zwierząt w sytuacji gdy brak jest weterynaryjnego produktu leczniczego dopuszczonego do obrotu, z uwzględnieniem w szczególności grup zwierząt, przypadków oraz warunków, z zachowaniem których mogą być wystawiane recepty, oraz ich wzór uprawniający do nabycia produktów leczniczych za opłatą, sposób zaopatrywania w druki recept, kontroli ich wystawiania, realizacji i stosowania. Art. 70–72. (pominięte)
 
 **Art. 73.** Z dniem wejścia w życie ustawy tracą moc:
+
+- **1)** dekret z dnia 7 grudnia 1945 r. o wykonywaniu praktyki lekarsko-weterynaryjnej (Dz. U. poz. 337);
+- **2)** dekret z dnia 24 września 1947 r. o rejestracji pracowników służby weterynaryjnej (Dz. U. poz. 338);
+- **3)** ustawa z dnia 7 kwietnia 1949 r. o planowym rozmieszczeniu lekarzy weterynaryjnych (Dz. U. poz. 178).
 
 **Art. 74.** Ustawa wchodzi w życie po upływie sześciu miesięcy od dnia ogłoszenia , z tym że przepisy art. 21, 22, 70 i 71 wchodzą w życie z dniem ogłoszenia.
 

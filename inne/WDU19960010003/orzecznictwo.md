@@ -3,7 +3,6 @@
 Orzeczenia powołujące: *Ustawa z dnia 14 grudnia 1995 r. o izbach rolniczych.*
 
 Łącznie: **3** orzeczeń
-(pominięto 2 orzeczeń sądów rejonowych)
 
 ## art. 1 (2)
 

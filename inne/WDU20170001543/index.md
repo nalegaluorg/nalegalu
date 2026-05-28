@@ -8,12 +8,10 @@ pos: 1543
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy oraz niektórych innych ustaw
-
-*USTAWA z dnia 20 lipca 2017 r.*
+# Ustawa z dnia 20 lipca 2017 r. o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +22,182 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-20 |
 | Data wydania | 2017-08-17 |
+| Wejście w życie | 2018-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001543) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1543/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2017 r. poz. 1065, 1292, 1321 i 1428) wprowadza się następujące zmiany:
 
-**Art. 88o.**
+- **1)** w odnośniku nr 1 do tytułu ustawy w zdaniu pierwszym w tiret ósmym kropkę zastępuje się przecinkiem i dodaje się tiret dziewiąte w brzmieniu: „ – dyrektywy Parlamentu Europejskiego i Rady 2014/36/UE z dnia 26 lutego 2014 r. w sprawie warunków wjazdu i pobytu obywateli państw trzecich w celu zatrudnienia w charakterze pracownika sezonowego (Dz. Urz. UE L 94 z 28.03.2014, str. 375). ” ;
+- **2)** w art. 1: w ust. 3: – w pkt 2 po lit. ha dodaje się lit. hb w brzmieniu: „ hb) posiadających w Rzeczypospolitej Polskiej wizę wydaną w celu, o którym mowa w art. 60 ust. 1 pkt 5a ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub zezwolenie na pobyt czasowy, o którym mowa w art. 185a ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, albo przebywających na terytorium Rzeczypospolitej Polskiej w ramach ruchu bezwizowego w związku z wnioskiem wpisanym do ewidencji wniosków, o której mowa w art. 88p ust. 1 pkt 1, ” , – pkt 3 otrzymuje brzmienie: „ 3) cudzoziemców towarzyszących na terytorium Rzeczypospolitej Polskiej cudzoziemcowi, o którym mowa w pkt 2 lit. a-c, jako członkowie rodziny w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2017 r. poz. 900); ” , – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) cudzoziemców – członków rodzin cudzoziemców, o których mowa w pkt 2 lit. d, i, j oraz l; ” , dodaje się ust. 7 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+7. Na zasadach określonych w ustawie osoby, o których mowa w ust. 3 pkt 2 lit. hb, mogą korzystać z usług rynku pracy dotyczących pracy sezonowej w rozumieniu art. 88 ust. 2, z wyłączeniem prawa do świadczeń określonych w art. 41–42a. ” ;
+
+- **3)** w art. 2 w ust. 1: pkt 14 otrzymuje brzmienie: „
+    - **a)**
+
+- **14)** nielegalnym wykonywaniu pracy przez cudzoziemca – oznacza to wykonywanie pracy przez cudzoziemca, który nie jest uprawniony do wykonywania pracy w rozumieniu art. 87 ust. 1 lub nie posiada odpowiedniego zezwolenia na pracę, nie będąc zwolnionym na podstawie przepisów szczególnych z obowiązku posiadania zezwolenia na pracę, lub którego podstawa pobytu nie uprawnia do wykonywania pracy; ” , w pkt 21b wyrazy „podmiocie powierzającym wykonywanie pracy przez cudzoziemca” zastępuje się wyrazami „podmiocie powierzającym wykonywanie pracy cudzoziemcowi”, pkt 22a otrzymuje brzmienie: „
+    - **b)**
+    - **c)**
+
+- **22a)** powierzeniu cudzoziemcowi nielegalnego wykonywania pracy – oznacza to powierzenie wykonywania pracy cudzoziemcowi, który nie jest uprawniony do wykonywania pracy w rozumieniu art. 87 ust. 1 lub nie posiada odpowiedniego zezwolenia na pracę, nie będąc zwolnionym na podstawie przepisów szczególnych z obowiązku posiadania zezwolenia na pracę, lub którego podstawa pobytu nie uprawnia do wykonywania pracy, lub który wykonuje pracę na innych warunkach lub na innym stanowisku niż określone w odpowiednim zezwoleniu na pracę, z zastrzeżeniem art. 88f ust. 1a-1c lub art. 88s ust. 1 i 2, lub który wykonuje pracę na innych warunkach lub na innym stanowisku niż określone w zezwoleniu na pobyt czasowy, o którym mowa w art. 114, art. 126, art. 127 lub art. 142 ust. 3, z zastrzeżeniem art. 119 i art. 135 ust. 3 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub bez zawarcia umowy o pracę albo umowy cywilnoprawnej w wymaganej formie; ” , pkt 40 otrzymuje brzmienie: „
+    - **d)**
+
+- **40)** wykonywaniu pracy przez cudzoziemca – oznacza to zatrudnienie, wykonywanie innej pracy zarobkowej, pełnienie funkcji w zarządach osób prawnych, które uzyskały wpis do rejestru przedsiębiorców na podstawie przepisów o Krajowym Rejestrze Sądowym lub są spółkami kapitałowymi w organizacji, lub prowadzenie spraw spółki komandytowej lub komandytowo-akcyjnej przez komplementariusza, lub działanie w charakterze prokurenta; ” ;
+- **4)** po art. 5 dodaje się art. 5a w brzmieniu: „
+
+**Art. 5a.** W sprawach dotyczących zezwoleń na pracę oraz oświadczeń o powierzeniu wykonywania pracy cudzoziemcowi organem wyższego stopnia w rozumieniu przepisów Kodeksu postępowania administracyjnego jest minister właściwy do spraw pracy. ” ;
+
+- **5)** w art. 10: w ust. 2 pkt 3 otrzymuje brzmienie: „
+    - **a)**
+
+- **3)** wydawanie zezwoleń na pracę, o których mowa w art. 88 ust. 1; ” , w ust. 4 w pkt 2 wyrazy „podmiotu powierzającego wykonywanie pracy przez cudzoziemca” zastępuje się wyrazami „podmiotu powierzającego wykonywanie pracy cudzoziemcowi”;
+    - **b)**
+
+- **6)** w art. 43 w ust. 1 pkt 9 otrzymuje brzmienie: „
+- **9)** jest cudzoziemcem, o którym mowa w art. 1 ust. 3 pkt 2 lit. h, ha lub hb, z zastrzeżeniem art. 1 ust. 6 i 7 ” ;
+- **7)** w art. 87: w ust. 1: – po pkt 6 dodaje się pkt 6a w brzmieniu: „ 6a) posiada ważne zaświadczenie wydane na podstawie art. 35 ust. 1 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej; ” , – pkt 10 otrzymuje brzmienie: „ 10) towarzyszy na terytorium Rzeczypospolitej Polskiej cudzoziemcowi, o którym mowa w pkt 7–9, jako członek rodziny w rozumieniu ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin; ” , – w pkt 12 po lit. c dodaje się lit. ca w brzmieniu: „ ca) na podstawie dokumentu, o którym mowa w art. 61 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, określającego status członka rodziny członka misji dyplomatycznej lub urzędu konsularnego państwa obcego albo innej osoby zrównanej z nimi na podstawie ustaw, umów lub powszechnie ustalonych zwyczajów międzynarodowych, pozostającego z tą osobą we wspólnocie domowej, jeżeli pomiędzy Rzecząpospolitą Polską a państwem obcym zostały zawarte umowa lub porozumienie międzynarodowe w sprawie wykonywania działalności zarobkowej przez członków rodzin członków personelu misji dyplomatycznych lub urzędów konsularnych, lub ” , w ust. 2 uchyla się pkt 7, dodaje się ust. 3 i 4 w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+3. Zezwolenie na pracę nie jest wymagane w przypadku cudzoziemca, będącego obywatelem państwa określonego w przepisach wydanych na podstawie art. 90 ust. 10 pkt 2, który wykonuje pracę poza zakresem działalności określonych w przepisach wydanych na podstawie art. 90 ust. 9 przez okres nie dłuższy niż 6 miesięcy w ciągu kolejnych 12 miesięcy, jeżeli powiatowy urząd pracy przed rozpoczęciem pracy przez cudzoziemca wpisał oświadczenie o powierzeniu wykonywania pracy cudzoziemcowi do ewidencji oświadczeń, a praca jest wykonywana na warunkach określonych w tym oświadczeniu.
+
+4. Zezwolenie na pracę nie jest wymagane w przypadku cudzoziemca będącego obywatelem państwa innego, niż określone w przepisach wydanych na podstawie art. 90 ust. 10 pkt 2, wykonującego pracę w zawodach określonych w przepisach wydanych na podstawie art. 90 ust. 11 przez okres nie dłuższy niż 6 miesięcy w ciągu kolejnych 12 miesięcy, jeżeli powiatowy urząd pracy przed rozpoczęciem pracy przez cudzoziemca wpisał oświadczenie o powierzeniu wykonywania pracy cudzoziemcowi do ewidencji oświadczeń, a praca jest wykonywana na warunkach określonych w tym oświadczeniu. ” ;
+
+- **8)** w art. 88: dotychczasową treść oznacza się jako ust. 1 i pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** w związku z pełnieniem funkcji w zarządzie osoby prawnej wpisanej do rejestru przedsiębiorców lub będącej spółką kapitałową w organizacji albo w związku z prowadzeniem spraw spółki komandytowej lub komandytowo-akcyjnej jako komplementariusz, albo w związku z udzieleniem mu prokury przebywa na terytorium Rzeczypospolitej Polskiej przez okres przekraczający łącznie 6 miesięcy w ciągu kolejnych 12 miesięcy; ” , dodaje się ust. 2 w brzmieniu: „
+    - **b)**
+
+2. Zezwolenie na pracę sezonową, o którym mowa w art. 88n-88y, jest wymagane, jeżeli cudzoziemiec wykonuje na terytorium Rzeczypospolitej Polskiej pracę w zakresie działalności określonych w przepisach wydanych na podstawie art. 90 ust. 9 na podstawie umowy z podmiotem, którego siedziba lub miejsce zamieszkania albo oddział, zakład lub inna forma zorganizowanej działalności znajduje się na terytorium Rzeczypospolitej Polskiej (praca sezonowa). ” ;
+
+- **9)** w art. 88a po ust. 1a dodaje się ust. 1aa-1ac w brzmieniu: „ 1aa. Wniosek o wydanie zezwolenia na pracę obejmuje:
+- **1)** informacje dotyczące podmiotu powierzającego wykonywanie pracy cudzoziemcowi oraz odpowiednio pracodawcy użytkownika lub podmiotu, do którego pracownik jest delegowany: nazwę albo imię (imiona) i nazwisko, adres siedziby albo miejsca zamieszkania, numer telefonu oraz numer faksu lub adres poczty elektronicznej o charakterze służbowym, nazwę rejestru właściwego do prowadzenia działalności gospodarczej lub statutowej i numer wpisu w rejestrze – w przypadku podmiotu prowadzącego działalność gospodarczą lub statutową, albo nazwę, serię, numer, datę wydania i datę ważności dokumentu tożsamości oraz nazwę organu, który wydał ten dokument – w przypadku osoby fizycznej nieprowadzącej działalności gospodarczej, numery identyfikacyjne NIP i REGON – w przypadku podmiotu prowadzącego działalność gospodarczą, albo numer PESEL – w przypadku osoby fizycznej, numer wpisu do rejestru podmiotów prowadzących agencje zatrudnienia – w przypadku podmiotu powierzającego wykonywanie pracy cudzoziemcowi, który prowadzi agencję zatrudnienia świadczącą usługi pracy tymczasowej, symbol PKD oraz opis wykonywanej działalności związanej z wnioskiem o wydanie zezwolenia na pracę, liczbę osób wykonujących pracę na rzecz podmiotu powierzającego wykonywanie pracy cudzoziemcowi, w tym osób zatrudnionych przez ten podmiot, oświadczenie składane pod rygorem odpowiedzialności karnej, czy zachodzą okoliczności, o których mowa w art. 88j ust. 1 pkt 3–7 (składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań);
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+
+- **2)** dane osoby przebywającej na terytorium Rzeczypospolitej Polskiej, posiadającej dokumenty potwierdzające wypełnienie obowiązków określonych w art. 88c ust. 6 pkt 1 i 2 i upoważnionej do reprezentowania pracodawcy wobec wojewody i organów, o których mowa w art. 88f ust. 3: imię (imiona) i nazwisko, obywatelstwo, nazwę, serię, numer, datę wydania i datę ważności dokumentu tożsamości oraz nazwę organu, który wydał ten dokument, adres do korespondencji na terytorium Rzeczypospolitej Polskiej, numer telefonu oraz numer faksu lub adres poczty elektronicznej o charakterze służbowym w przypadkach, o których mowa w art. 88 ust. 1 pkt 3–5;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **3)** dane osobowe cudzoziemca: imię (imiona) i nazwisko, płeć, datę urodzenia, obywatelstwo, nazwę, serię, numer, datę wydania i datę ważności dokumentu podróży;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **4)** informacje dotyczące pracy oferowanej cudzoziemcowi: okres lub okresy pracy oznaczone datami, stanowisko lub rodzaj wykonywanej pracy, miejsce wykonywania pracy, podstawę prawną wykonywania pracy, wymiar czasu pracy lub przewidywaną liczbę godzin pracy w ciągu miesiąca lub tygodnia, wysokość wynagrodzenia określoną stawką godzinową lub miesięczną, zakres podstawowych obowiązków w związku z powierzeniem pracy cudzoziemcowi. 1ab. Jeżeli cudzoziemiec będzie wykonywał pracę w okresie krótszym niż miesiąc, we wniosku o wydanie zezwolenia na pracę podaje się przewidywaną liczbę godzin pracy i wynagrodzenie za cały okres pracy. 1ac. Podmiot powierzający wykonywanie pracy cudzoziemcowi dołącza do wniosku dokumenty określone w przepisach wydanych na podstawie art. 90 ust. 1 pkt 5, niezbędne do potwierdzenia danych zawartych we wniosku i okoliczności uzasadniających wydanie zezwolenia na pracę. ” ;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+
+- **10)** w art. 88b w ust. 1: w pkt 1 wyrazy „art. 88 pkt 1 i 2” zastępuje się wyrazami „art. 88 ust. 1 pkt 1 i 2”, w pkt 2 wyrazy „art. 88 pkt 3” zastępuje się wyrazami „art. 88 ust. 1 pkt 3”, w pkt 3 wyrazy „art. 88 pkt 4” zastępuje się wyrazami „art. 88 ust. 1 pkt 4”, w pkt 4 wyrazy „art. 88 pkt 5” zastępuje się wyrazami „art. 88 ust. 1 pkt 5”;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **11)** w art. 88c: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku, o którym mowa w art. 88 ust. 1 pkt 1, wojewoda wydaje zezwolenie, jeżeli: ” , – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) wysokość miesięcznego wynagrodzenia, o którym mowa w pkt 1, nie będzie niższa niż wysokość minimalnego wynagrodzenia za pracę; ” , po ust. 1a dodaje się ust. 1b w brzmieniu: „
+    - **a)**
+    - **b)**
+
+1b. W przypadku gdy specyfika pracy tymczasowej wykonywanej przez cudzoziemca nie pozwala na wskazanie głównego miejsca jej wykonywania, informację, o której mowa w ust. 1 pkt 2, wydaje starosta właściwy ze względu na siedzibę lub miejsce zamieszkania pracodawcy użytkownika. ” , w ust. 3 pkt 1 otrzymuje brzmienie: „
+
+- **c)**
+- **1)** zawód, w którym cudzoziemiec ma wykonywać pracę, lub rodzaj pracy, która ma być mu powierzona, znajduje się w wykazie, o którym mowa w art. 10 ust. 4 pkt 1, określonym przez wojewodę właściwego ze względu na główne miejsce wykonywania pracy, siedzibę lub miejsce zamieszkania podmiotu powierzającego wykonywanie pracy cudzoziemcowi albo pracodawcy użytkownika, odpowiednio do właściwości miejscowej starosty, określonej w ust. 1 pkt 2, ust. 1a lub 1b; ” , w ust. 4: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku, o którym mowa w art. 88 ust. 1 pkt 2, wojewoda wydaje zezwolenie, jeżeli podmiot, którego członkiem zarządu, komplementariuszem lub prokurentem ma być cudzoziemiec: ” , – pkt 1 otrzymuje brzmienie: „ 1) w roku podatkowym poprzedzającym złożenie wniosku osiągnął dochód nie niższy niż 12-krotność aktualnego w dniu złożenia wniosku przeciętnego miesięcznego wynagrodzenia w województwie, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 30 ust. 2 ustawy z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2017 r. poz. 79 i 1442), oraz zatrudnia na czas nieokreślony i w pełnym wymiarze czasu pracy przez okres co najmniej roku poprzedzającego złożenie wniosku co najmniej dwóch pracowników, którzy nie podlegają obowiązkowi posiadania zezwolenia na pracę, lub ” , w ust. 6: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku, o którym mowa w art. 88 ust. 1 pkt 3–5, wojewoda wydaje zezwolenie, jeżeli: ” , – pkt 2 otrzymuje brzmienie: „ 2) wysokość wynagrodzenia, która będzie przysługiwała cudzoziemcowi za wykonywanie pracy, nie będzie niższa o więcej niż 30% od wysokości aktualnego w dniu złożenia wniosku przeciętnego miesięcznego wynagrodzenia w województwie, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 30 ust. 2 ustawy z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego; ” ;
+    - **d)**
+    - **e)**
+
+- **12)** w art. 88f: ust. 1 i 1a otrzymują brzmienie: „
+    - **a)**
+
+1. Zezwolenie na pracę jest wydawane dla określonego cudzoziemca. Zezwolenie na pracę określa podmiot powierzający wykonywanie pracy cudzoziemcowi, stanowisko lub rodzaj pracy wykonywanej przez cudzoziemca, najniższe miesięczne wynagrodzenie cudzoziemca na danym stanowisku, wymiar czasu pracy albo liczbę godzin pracy w tygodniu lub miesiącu, rodzaj umowy będącej podstawą wykonywania pracy oraz okres ważności zezwolenia. Przepis art. 88a ust. 1ab stosuje się odpowiednio. W przypadkach, o których mowa w art. 88 ust. 1 pkt 3 i 4, w zezwoleniu na pracę jest określany podmiot, do którego cudzoziemiec jest delegowany. Jeżeli zezwolenie dotyczy pracy cudzoziemca w charakterze pracownika tymczasowego, w zezwoleniu na pracę jest określany pracodawca użytkownik.
+
+1a. Zmiana siedziby lub miejsca zamieszkania, nazwy lub formy prawnej podmiotu powierzającego wykonywanie pracy cudzoziemcowi, przejęcie zakładu pracy lub jego części przez innego pracodawcę, przejście zakładu pracy lub jego części na innego pracodawcę lub zastąpienie umowy cywilnoprawnej umową o pracę nie wymagają wydania nowego zezwolenia na pracę. ” , ust. 2 otrzymuje brzmienie: „
+
+- **b)**
+
+2. Zezwolenie na pracę jest wydawane w trzech egzemplarzach, z których dwa otrzymuje podmiot powierzający wykonywanie pracy cudzoziemcowi. Jeżeli zezwolenie wydaje się w formie dokumentu elektronicznego w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, dodatkowo wydaje się jeden egzemplarz zezwolenia w formie pisemnej. ” , uchyla się ust. 4;
+
+- **c)**
+- **13)** w art. 88g ust. 1a i 1b otrzymują brzmienie: „
+
+1a. Jeżeli termin na złożenie wniosku o wydanie przedłużenia zezwolenia na pracę u tego samego pracodawcy i na tym samym stanowisku został zachowany i wniosek nie zawiera braków formalnych lub braki formalne zostały uzupełnione w terminie, pracę cudzoziemca na terytorium Rzeczypospolitej Polskiej uważa się za legalną od dnia złożenia wniosku do dnia, w którym decyzja w sprawie przedłużenia zezwolenia na pracę stanie się ostateczna. Do okresów legalnej pracy nie wlicza się okresów zawieszenia postępowania na wniosek strony.
+
+1b. Do cudzoziemca, który złożył wniosek o zezwolenie na pobyt czasowy, o którym mowa w art. 114 ust. 1, art. 126 ust. 1, art. 127 lub art. 142 ust. 3 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub wniosek o udzielenie zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej, w celu kontynuowania pracy wykonywanej zgodnie z posiadanym przez siebie zezwoleniem na pracę lub zezwoleniem na pobyt czasowy, stosuje się przepis ust. 1a. ” ;
+
+- **14)** w art. 88h: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) dostosowywania, w przypadku, o którym mowa w art. 88c ust. 6, wysokości wynagrodzenia cudzoziemca do aktualnej wysokości przeciętnego miesięcznego wynagrodzenia w województwie, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 30 ust. 2 ustawy z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego, co najmniej raz w roku; ” , – pkt 4 otrzymuje brzmienie: „ 4) przekazania jednego egzemplarza zezwolenia na pracę cudzoziemcowi, którego dotyczy zezwolenie, w formie pisemnej; ” , – pkt 6 otrzymuje brzmienie: „ 6) zachowania należytej staranności w postępowaniach o zezwolenie, przedłużenie i uchylenie zezwolenia na pracę cudzoziemca; ” , ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2. W stosunku do cudzoziemca pełniącego funkcję w zarządzie osoby prawnej wpisanej do rejestru przedsiębiorców lub będącej spółką kapitałową w organizacji albo prowadzącego sprawy spółki komandytowej lub komandytowo-akcyjnej jako komplementariusz, albo będącego prokurentem przepisów ust. 1 pkt 1–3 nie stosuje się. ” , w ust. 3 wyrazy „art. 88 pkt 3–5” zastępuje się wyrazami „art. 88 ust. 1 pkt 3–5”, w ust. 4: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku stwierdzenia naruszenia przepisów ust. 1–3, niewypłacenia należnego wynagrodzenia lub nieopłacenia należnych składek na ubezpieczenia społeczne podmiot powierzający wykonywanie pracy cudzoziemcowi jest obowiązany do: ” , – pkt 2 otrzymuje brzmienie: „ 2) wypłacenia cudzoziemcowi zaległego wynagrodzenia za okres wykonywanej pracy w wysokości zgodnej z zezwoleniem na pracę oraz opłacenia związanych z nim składek na ubezpieczenia społeczne i zaliczek na podatek dochodowy. ” ;
+
+- **c)**
+- **d)**
+- **15)** w art. 88j: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) nie spełnił wymogów określonych w art. 88c; ” , – w pkt 9 po lit. a dodaje się lit. aa w brzmieniu: „ aa) nie spełnia wymagań podmiotu powierzającego wykonywanie pracy cudzoziemcowi określonych w informacji starosty o braku możliwości zaspokojenia potrzeb kadrowych pracodawcy, ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+1a. Przepisy ust. 1 pkt 3–7 stosuje się odpowiednio w przypadku, gdy osobą ukaraną jest osoba fizyczna, która działała w imieniu podmiotu powierzającego wykonywanie pracy cudzoziemcowi. ” , po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „
+
+- **c)**
+
+2a. Wojewoda wydaje decyzję o odmowie wydania zezwolenia na pracę, jeżeli w danym roku nastąpiło przekroczenie obowiązującego go limitu zezwoleń na pracę, o którym mowa w art. 90b ust. 1.
+
+2b. Wojewoda może wydać decyzję o odmowie wydania zezwolenia na pracę, jeżeli z okoliczności wynika, że wniosek o wydanie zezwolenia na pracę został złożony dla pozoru, zezwolenie będzie wykorzystane przez cudzoziemca w celu innym niż wykonywanie pracy dla danego podmiotu lub podmiot powierzający wykonywanie pracy cudzoziemcowi nie dopełnia obowiązków związanych z prowadzeniem działalności lub powierzaniem pracy innym osobom, w szczególności:
+
+- **1)** nie posiada środków finansowych ani źródeł dochodu niezbędnych do pokrycia zobowiązań wynikających z powierzenia pracy cudzoziemcowi lub
+- **2)** nie prowadzi działalności gospodarczej, rolniczej lub statutowej uzasadniającej powierzenie pracy danemu cudzoziemcowi w danym okresie, w tym zawiesił działalność, został wykreślony z właściwego rejestru lub jego działalność jest w okresie likwidacji, lub
+- **3)** nie dopełnia obowiązku opłacania składek na ubezpieczenia społeczne, na ubezpieczenie zdrowotne, na Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych oraz na Fundusz Emerytur Pomostowych, lub
+- **4)** nie zgłasza do ubezpieczenia społecznego pracowników lub innych osób objętych obowiązkowym ubezpieczeniem społecznym, lub
+- **5)** zalega z uiszczeniem podatków, z wyjątkiem przypadków, gdy uzyskał przewidziane prawem zwolnienie, odroczenie, rozłożenie na raty zaległych płatności lub wstrzymanie w całości wykonania decyzji właściwego organu. ” , uchyla się ust. 3, dodaje się ust. 4–8 w brzmieniu: „
+    - **d)**
+    - **e)**
+
+4. Organy Straży Granicznej i Państwowej Inspekcji Pracy są obowiązane nieodpłatnie udostępniać wojewodom posiadane informacje o okolicznościach, o których mowa w ust. 1 pkt 3‒7, dotyczących podmiotu powierzającego wykonywanie pracy cudzoziemcowi.
+
+5. Wojewoda może pozyskać od organów Krajowej Administracji Skarbowej informacje o:
+
+- **1)** przychodzie lub dochodzie podmiotu powierzającego wykonywanie pracy cudzoziemcowi, podlegającym opodatkowaniu podatkiem dochodowym od osób fizycznych albo podatkiem dochodowym od osób prawnych,
+- **2)** zaległościach podmiotu powierzającego wykonywanie pracy cudzoziemcowi z tytułu podatków lub innych należności publicznoprawnych ‒ w celu ustalenia okoliczności, o których mowa w ust. 2b pkt 1, 2 i 5.
+
+6. Przekazanie informacji, o których mowa w ust. 5, następuje za pomocą systemów teleinformatycznych prowadzonych przez ministra właściwego do spraw pracy.
+
+7. Wojewoda może pozyskać z systemu teleinformatycznego Zakładu Ubezpieczeń Społecznych, przy wykorzystaniu systemów teleinformatycznych prowadzonych przez ministra właściwego do spraw pracy, informacje w celu ustalenia okoliczności, o których mowa w ust. 2b pkt 3 i 4.
+
+8. Uprawnienia określone w ust. 5 i 7 przysługują organowi wyższego stopnia w postępowaniu odwoławczym. ” ;
+
+- **16)** w art. 88k w ust. 1 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 i 8 w brzmieniu: „
+- **7)** podmiot powierzający wykonywanie pracy cudzoziemcowi nie prowadzi działalności gospodarczej, rolniczej lub statutowej, w szczególności zawiesił działalność, został wykreślony z właściwego rejestru lub jest w likwidacji;
+- **8)** zaistniały okoliczności, o których mowa w art. 88j ust. 1 pkt 3–7. ” ;
+- **17)** art. 88m otrzymuje brzmienie: „
+
+**Art. 88m.** Zezwolenie na pracę wygasa z mocy prawa z dniem, w którym udzielono cudzoziemcowi zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej, zezwolenia na pobyt stały albo zezwolenia na pobyt czasowy i pracę w związku z wykonywaniem pracy u tego samego podmiotu powierzającego wykonywanie pracy cudzoziemcowi i na tym samym stanowisku. ” ;
+
+- **18)** po art. 88m dodaje się art. 88n-88za w brzmieniu: „
+
+1. Zezwolenie na pracę sezonową wydaje starosta właściwy ze względu na siedzibę lub miejsce zamieszkania podmiotu powierzającego wykonywanie pracy cudzoziemcowi.
+
+2. W przypadku zmiany właściwości starosty ze względu na zmianę siedziby lub miejsca zamieszkania podmiotu powierzającego wykonywanie pracy cudzoziemcowi właściwość starosty do prowadzenia postępowania w sprawie wydania przedłużenia zezwolenia na pracę sezonową określa się na dzień złożenia wniosku o wydanie przedłużenia zezwolenia.
 
 1. Zezwolenie na pracę sezonową wydaje się, jeżeli:
 
@@ -37,8 +205,6 @@ source: "isap-pdf"
 - **2)** podmiot powierzający wykonywanie pracy cudzoziemcowi dołączył do wniosku o wydanie zezwolenia na pracę sezonową informację starosty, o której mowa w art. 88c ust. 1 pkt 2.
 
 2. Przepisu ust. 1 pkt 2 nie stosuje się w przypadku powierzenia wykonywania pracy cudzoziemcowi będącemu obywatelem państwa określonego w przepisach wydanych na podstawie art. 90 ust. 10.
-
-**Art. 88p.**
 
 1. Jeżeli cudzoziemiec wskazany we wniosku o wydanie zezwolenia na pracę sezonową będzie ubiegał się o wydanie wizy, o której mowa w art. 60 ust. 1 pkt 5a ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub zamierza wjechać na terytorium Rzeczypospolitej Polskiej w ramach ruchu bezwizowego, a podmiot powierzający wykonywanie pracy cudzoziemcowi spełnia warunki, o których mowa w art. 88o, i nie zachodzą okoliczności, z powodu których odmawia się wydania zezwolenia na pracę sezonową, właściwy starosta:
 
@@ -66,13 +232,10 @@ source: "isap-pdf"
 
 10. Jeżeli wniosek o wydanie zezwolenia na pracę sezonową został wpisany do ewidencji wniosków, o której mowa w ust. 1 pkt 1, a podmiot powierzający wykonywanie pracy cudzoziemcowi w terminie 120 dni od dnia dokonania wpisu nie przedstawił kopii ważnego dokumentu uprawniającego cudzoziemca do pobytu na terytorium Rzeczypospolitej Polskiej, postępowanie w sprawie wniosku o wydanie zezwolenia na pracę sezonową umarza się.
 
-11. Przepisu ust. 10 nie stosuje się, jeżeli okoliczności wskazują, że zezwolenie na pracę sezonową zostanie wykorzystane zgodnie z celem w późniejszym terminie.
+11. Przepisu ust. 10 nie stosuje się, jeżeli okoliczności wskazują, że zezwolenie na pracę sezonową zostanie wykorzystane zgodnie z celem w późniejszym terminie. Na wniosek podmiotu powierzającego wykonywanie pracy cudzoziemcowi starosta może dokonać wpisu wniosku o wydanie zezwolenia na pracę sezonową na okresy nie dłuższe niż 9 miesięcy w ciągu roku kalendarzowego przypadające odpowiednio w ciągu nie więcej niż 3 kolejnych lat kalendarzowych do ewidencji wniosków, o której mowa w art. 88p ust. 1 pkt 1, jeżeli cudzoziemiec jest obywatelem państwa określonego w przepisach wydanych na podstawie art. 90 ust. 10, a podmiot powierzający wykonywanie pracy cudzoziemcowi:
 
-**Art. 88q.** Na wniosek podmiotu powierzającego wykonywanie pracy cudzoziemcowi starosta może dokonać wpisu wniosku o wydanie zezwolenia na pracę sezonową na okresy nie dłuższe niż 9 miesięcy w ciągu roku kalendarzowego przypadające odpowiednio w ciągu nie więcej niż 3 kolejnych lat kalendarzowych do ewidencji wniosków, o której mowa w art. 88p ust. 1 pkt 1, jeżeli cudzoziemiec jest obywatelem państwa określonego w przepisach wydanych na podstawie art. 90 ust. 10, a podmiot powierzający wykonywanie pracy cudzoziemcowi:
-
-**Art. 88r.** Zezwolenie na pracę sezonową jest wydawane dla określonego cudzoziemca. Zezwolenie określa podmiot powierzający wykonywanie pracy cudzoziemcowi, najniższe wynagrodzenie cudzoziemca, wymiar czasu pracy albo liczbę godzin pracy w tygodniu lub miesiącu, rodzaj umowy będącej podstawą wykonywania pracy oraz okres ważności zezwolenia. Jeżeli zezwolenie dotyczy pracy cudzoziemca w charakterze pracownika tymczasowego, w zezwoleniu na pracę jest określany także pracodawca użytkownik.
-
-**Art. 88s.**
+- **1)** powierzał wykonywanie pracy cudzoziemcowi, którego dotyczy wniosek, zgodnie z zezwoleniem na pracę sezonową co najmniej raz w okresie 5 lat poprzedzających dzień złożenia wniosku;
+- **2)** nie zalega z uiszczeniem zaliczek na podatek dochodowy i składek na ubezpieczenia społeczne, jeżeli były wymagane w związku z pracą wykonywaną przez tego cudzoziemca, z wyjątkiem przypadków, gdy uzyskał rozłożenie na raty zaległych płatności lub wstrzymanie w całości wykonania decyzji właściwego organu. Zezwolenie na pracę sezonową jest wydawane dla określonego cudzoziemca. Zezwolenie określa podmiot powierzający wykonywanie pracy cudzoziemcowi, najniższe wynagrodzenie cudzoziemca, wymiar czasu pracy albo liczbę godzin pracy w tygodniu lub miesiącu, rodzaj umowy będącej podstawą wykonywania pracy oraz okres ważności zezwolenia. Jeżeli zezwolenie dotyczy pracy cudzoziemca w charakterze pracownika tymczasowego, w zezwoleniu na pracę jest określany także pracodawca użytkownik.
 
 1. Podmiot powierzający wykonywanie pracy cudzoziemcowi na podstawie zezwolenia na pracę sezonową może powierzyć mu pracę innego rodzaju niż praca wykonywana w ramach działalności określonych w przepisach wydanych na podstawie art. 90 ust. 9 na okresy nie dłuższe niż łącznie 30 dni w ciągu ważności zezwolenia, jeżeli zostały spełnione łącznie następujące warunki:
 
@@ -89,15 +252,11 @@ source: "isap-pdf"
 
 3. Jeżeli podmiotem powierzającym wykonywanie pracy cudzoziemcowi jest agencja pracy tymczasowej, podmiot ten pisemnie powiadamia starostę, który wydał zezwolenie na pracę sezonową, o okolicznościach, o których mowa w ust. 2 pkt 1‒3, w terminie 7 dni od dnia ich zaistnienia.
 
-**Art. 88t.**
-
 1. Zezwolenie na pracę sezonową wydaje się na czas określony, który nie może być dłuższy niż 9 miesięcy w roku kalendarzowym.
 
 2. W przypadku cudzoziemca, który wjechał na terytorium Rzeczypospolitej Polskiej na podstawie wizy wydanej w celu wykonywania pracy sezonowej lub w ramach ruchu bezwizowego w związku z wnioskiem o wydanie zezwolenia na pracę sezonową wpisanym do ewidencji wniosków, o której mowa w art. 88p ust. 1 pkt 1, okres, o którym mowa w ust. 1, jest liczony od dnia pierwszego wjazdu cudzoziemca na terytorium państw obszaru Schengen w danym roku kalendarzowym.
 
 3. Jeżeli wniosek o wydanie zezwolenia na pracę sezonową dotyczy cudzoziemca, który przebywa na terytorium Rzeczypospolitej Polskiej na innej podstawie niż określona w ust. 2, z którą może wiązać się uprawnienie do wykonywania pracy, zezwolenie może być wydane na okres legalnego pobytu, nie dłużej jednak niż na okres 9 miesięcy w ciągu roku kalendarzowego, liczony łącznie z okresami określonymi w poprzednio wydanych zezwoleniach na pracę sezonową dla tego cudzoziemca.
-
-**Art. 88u.**
 
 1. Jeżeli cudzoziemiec wjechał na terytorium Rzeczypospolitej Polskiej na podstawie wizy wydanej w celu wykonywania pracy sezonowej lub w ramach ruchu bezwizowego w związku z wnioskiem o wydanie zezwolenia na pracę sezonową wpisanym do ewidencji, o której mowa w art. 88p ust. 1 pkt 1, starosta może wydać przedłużenie zezwolenia na pracę sezonową w celu kontynuacji pracy sezonowej przez cudzoziemca na rzecz tego samego podmiotu powierzającego wykonywanie pracy cudzoziemcowi lub w celu wykonywania pracy sezonowej na rzecz innego podmiotu powierzającego wykonywanie pracy cudzoziemcowi. Przepis art. 88p ust. 7 stosuje się odpowiednio.
 
@@ -107,11 +266,7 @@ source: "isap-pdf"
 
 4. Jeżeli podmiot powierzający wykonywanie pracy cudzoziemcowi, na podstawie zezwolenia na pracę sezonową, złożył wniosek o przedłużenie zezwolenia na pracę sezonową dla tego cudzoziemca, a wniosek nie zawiera braków formalnych lub braki formalne zostały uzupełnione w terminie, pracę cudzoziemca na warunkach określonych w zezwoleniu na pracę sezonową uważa się za legalną od dnia złożenia wniosku do dnia, w którym decyzja w sprawie przedłużenia zezwolenia na pracę sezonową staje się ostateczna. Do okresów legalnej pracy nie wlicza się okresów zawieszenia postępowania na wniosek strony.
 
-5. Jeżeli wniosek o przedłużenie zezwolenia na pracę sezonową złożył podmiot, który nie powierzał pracy danemu cudzoziemcowi na podstawie zezwolenia na pracę sezonową w okresie bezpośrednio poprzedzającym dzień złożenia wniosku, pracę tego cudzoziemca na warunkach określonych we wniosku uważa się za legalną do dnia wydania decyzji starosty, nie dłużej jednak niż przez okres 30 dni liczonych od dnia złożenia wniosku, który nie zawiera braków formalnych.
-
-**Art. 88v.** Do przedłużenia zezwolenia na pracę sezonową stosuje się odpowiednio przepisy dotyczące wydania zezwolenia na pracę sezonową.
-
-**Art. 88w.**
+5. Jeżeli wniosek o przedłużenie zezwolenia na pracę sezonową złożył podmiot, który nie powierzał pracy danemu cudzoziemcowi na podstawie zezwolenia na pracę sezonową w okresie bezpośrednio poprzedzającym dzień złożenia wniosku, pracę tego cudzoziemca na warunkach określonych we wniosku uważa się za legalną do dnia wydania decyzji starosty, nie dłużej jednak niż przez okres 30 dni liczonych od dnia złożenia wniosku, który nie zawiera braków formalnych. Do przedłużenia zezwolenia na pracę sezonową stosuje się odpowiednio przepisy dotyczące wydania zezwolenia na pracę sezonową.
 
 1. Jeżeli cudzoziemiec wjechał na terytorium Rzeczypospolitej Polskiej na podstawie wizy wydanej w celu wykonywania pracy sezonowej lub w ramach ruchu bezwizowego w związku z wnioskiem o wydanie zezwolenia na pracę sezonową wpisanym do ewidencji, o której mowa w art. 88p ust. 1 pkt 1, a podmiot powierzający wykonywanie pracy cudzoziemcowi na podstawie zezwolenia na pracę sezonową zapewnia mu zakwaterowanie, podmiot ten jest obowiązany do zawarcia z cudzoziemcem odrębnej umowy w formie pisemnej określającej warunki najmu lub użyczenia kwatery mieszkalnej.
 
@@ -119,9 +274,7 @@ source: "isap-pdf"
 
 3. Przed podpisaniem umowy, o której mowa w ust. 1, podmiot powierzający wykonywanie pracy cudzoziemcowi jest obowiązany do przedstawienia cudzoziemcowi tłumaczenia umowy na język dla niego zrozumiały.
 
-**Art. 88x.**
-
-1. Do zezwolenia na pracę sezonową stosuje się odpowiednio przepisy art. 88a ust. 1 i 1aa–2, art. 88c ust. 1a–2 i 7–11, art. 88d, art. 88f ust. 2 i 3, art. 88g ust. 1 i 2, art. 88h ust. 1 i 4, art. 88j oraz art. 88l.
+1. Do zezwolenia na pracę sezonową stosuje się odpowiednio przepisy art. 88a ust. 1 i 1aa-2, art. 88c ust. 1a-2 i 7–11, art. 88d, art. 88f ust. 2 i 3, art. 88g ust. 1 i 2, art. 88h ust. 1 i 4, art. 88j oraz art. 88l.
 
 2. Wniosek o wydanie zezwolenia na pracę sezonową zawiera, poza informacjami, o których mowa w art. 88a ust. 1aa:
 
@@ -130,15 +283,13 @@ source: "isap-pdf"
 - **3)** oświadczenie, że według wiedzy podmiotu powierzającego wykonywanie pracy cudzoziemcowi na podstawie zezwolenia na pracę sezonową cudzoziemiec zapewnia sobie zakwaterowanie we własnym zakresie, albo oświadczenie podmiotu powierzającego wykonywanie pracy cudzoziemcowi o zapewnieniu cudzoziemcowi zakwaterowania;
 - **4)** informacje dotyczące przewidywanego płatnego urlopu przysługującego cudzoziemcowi.
 
-**Art. 88y.**
-
 1. Starosta wydaje decyzję o uchyleniu zezwolenia na pracę sezonową, jeżeli:
 
 - **1)** uległy zmianie okoliczności lub dowody, odnoszące się do wydanej decyzji;
 - **2)** ustała przyczyna udzielenia zezwolenia na pracę sezonową;
-- **3)** podmiot powierzający wykonywanie pracy cudzoziemcowi w toku postępowania:
-    - **a)** złożył wniosek zawierający nieprawdziwe dane osobowe lub fałszywe informacje lub dołączył do niego dokumenty zawierające takie dane lub
-    - **b)** zeznał nieprawdę lub zataił prawdę albo w celu użycia jako autentyczny podrobił lub przerobił dokument, albo takiego dokumentu jako autentycznego używał;
+- **3)** podmiot powierzający wykonywanie pracy cudzoziemcowi w toku postępowania: złożył wniosek zawierający nieprawdziwe dane osobowe lub fałszywe informacje lub dołączył do niego dokumenty zawierające takie dane lub zeznał nieprawdę lub zataił prawdę albo w celu użycia jako autentyczny podrobił lub przerobił dokument, albo takiego dokumentu jako autentycznego używał;
+    - **a)**
+    - **b)**
 
 - **4)** podmiot powierzający wykonywanie pracy cudzoziemcowi nie dopełnił obowiązków, o których mowa w art. 88h ust. 4;
 - **5)** podmiot powierzający wykonywanie pracy cudzoziemcowi nie prowadzi działalności uzasadniającej powierzenie pracy cudzoziemcowi, w szczególności nie prowadzi działalności gospodarczej, statutowej lub rolniczej, jego działalność jest w okresie likwidacji lub w okresie zawieszenia;
@@ -150,41 +301,39 @@ source: "isap-pdf"
 
 4. W przypadku uchylenia zezwolenia na pracę sezonową na podstawie ust. 1 pkt 5 lub 6 cudzoziemcowi przysługuje prawo do odszkodowania od podmiotu powierzającego wykonywanie pracy cudzoziemcowi za niewykonanie zobowiązań, które ten podmiot musiałby wykonać, gdyby zezwolenie na pracę sezonową nie zostało uchylone.
 
-**Art. 88z.**
-
 1. W oświadczeniu o powierzeniu wykonywania pracy cudzoziemcowi, podlegającym wpisaniu do ewidencji oświadczeń, podmiot powierzający wykonywanie pracy cudzoziemcowi zamieszcza:
 
-- **1)** informacje dotyczące podmiotu powierzającego wykonywanie pracy cudzoziemcowi:
-    - **a)** nazwę albo imię (imiona) i nazwisko,
-    - **b)** adres stałego pobytu albo adres siedziby,
-    - **c)** numer telefonu oraz numer faksu,
-    - **d)** numery identyfikacyjne NIP i REGON – w przypadku podmiotu prowadzącego działalność gospodarczą, albo numer PESEL – w przypadku osoby fizycznej,
-    - **e)** numer wpisu do rejestru podmiotów prowadzących agencje zatrudnienia – w przypadku podmiotu powierzającego wykonywanie pracy cudzoziemcowi, który prowadzi agencję zatrudnienia świadczącą usługi pracy tymczasowej,
-    - **f)** symbol PKD oraz opis wykonywanej działalności związanej z pracą cudzoziemca,
-    - **g)** oświadczenie składane pod rygorem odpowiedzialności karnej, czy zachodzą okoliczności, o których mowa w art. 88z ust. 5 pkt 1–6 (składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań),
-    - **h)** oświadczenie o zapoznaniu się z przepisami dotyczącymi zasad powierzenia wykonywania pracy cudzoziemcom;
+- **1)** informacje dotyczące podmiotu powierzającego wykonywanie pracy cudzoziemcowi: nazwę albo imię (imiona) i nazwisko, adres stałego pobytu albo adres siedziby, numer telefonu oraz numer faksu, numery identyfikacyjne NIP i REGON – w przypadku podmiotu prowadzącego działalność gospodarczą, albo numer PESEL – w przypadku osoby fizycznej, numer wpisu do rejestru podmiotów prowadzących agencje zatrudnienia – w przypadku podmiotu powierzającego wykonywanie pracy cudzoziemcowi, który prowadzi agencję zatrudnienia świadczącą usługi pracy tymczasowej, symbol PKD oraz opis wykonywanej działalności związanej z pracą cudzoziemca, oświadczenie składane pod rygorem odpowiedzialności karnej, czy zachodzą okoliczności, o których mowa w art. 88z ust. 5 pkt 1–6 (składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań), oświadczenie o zapoznaniu się z przepisami dotyczącymi zasad powierzenia wykonywania pracy cudzoziemcom;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
 
-- **2)** informacje dotyczące cudzoziemca:
-    - **a)** imię (imiona) i nazwisko,
-    - **b)** płeć,
-    - **c)** datę urodzenia,
-    - **d)** obywatelstwo,
-    - **e)** nazwę, serię, numer, datę wydania i datę ważności dokumentu podróży,
-    - **f)** numer wizy lub karty pobytu oraz okres ważności tego dokumentu, jeżeli przebywa na terytorium Rzeczypospolitej Polskiej,
-    - **g)** dane dotyczące podstawy prawnej pobytu na terytorium Rzeczypospolitej Polskiej oraz przewidywanego sposobu wykorzystania oświadczenia wpisanego do ewidencji oświadczeń;
+- **2)** informacje dotyczące cudzoziemca: imię (imiona) i nazwisko, płeć, datę urodzenia, obywatelstwo, nazwę, serię, numer, datę wydania i datę ważności dokumentu podróży, numer wizy lub karty pobytu oraz okres ważności tego dokumentu, jeżeli przebywa na terytorium Rzeczypospolitej Polskiej, dane dotyczące podstawy prawnej pobytu na terytorium Rzeczypospolitej Polskiej oraz przewidywanego sposobu wykorzystania oświadczenia wpisanego do ewidencji oświadczeń;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
 
-- **3)** dane dotyczące pracy oferowanej cudzoziemcowi:
-    - **a)** nazwę zawodu, podklasę działalności według klasyfikacji PKD, w której powierza pracę cudzoziemcowi,
-    - **b)** stanowisko lub rodzaj pracy,
-    - **c)** miejsce wykonywania pracy,
-    - **d)** okres lub okresy pracy oznaczone datami,
-    - **e)** rodzaj umowy stanowiącej podstawę wykonywania pracy,
-    - **f)** najniższe wynagrodzenie, jakie może otrzymywać cudzoziemiec, określone stawką godzinową lub miesięczną,
-    - **g)** wymiar czasu pracy lub liczbę godzin pracy w tygodniu lub w miesiącu;
+- **3)** dane dotyczące pracy oferowanej cudzoziemcowi: nazwę zawodu, podklasę działalności według klasyfikacji PKD, w której powierza pracę cudzoziemcowi, stanowisko lub rodzaj pracy, miejsce wykonywania pracy, okres lub okresy pracy oznaczone datami, rodzaj umowy stanowiącej podstawę wykonywania pracy, najniższe wynagrodzenie, jakie może otrzymywać cudzoziemiec, określone stawką godzinową lub miesięczną, wymiar czasu pracy lub liczbę godzin pracy w tygodniu lub w miesiącu;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
 
-- **4)** dane dotyczące pracodawcy użytkownika, jeżeli oświadczenie dotyczy pracy cudzoziemca w charakterze pracownika tymczasowego:
-    - **a)** nazwę albo imię (imiona) i nazwisko,
-    - **b)** adres stałego pobytu albo siedziby.
+- **4)** dane dotyczące pracodawcy użytkownika, jeżeli oświadczenie dotyczy pracy cudzoziemca w charakterze pracownika tymczasowego: nazwę albo imię (imiona) i nazwisko, adres stałego pobytu albo siedziby.
+    - **a)**
+    - **b)**
 
 2. Powiatowy urząd pracy właściwy ze względu na siedzibę lub miejsce stałego pobytu podmiotu powierzającego wykonywanie pracy cudzoziemcowi wpisuje oświadczenie o powierzeniu wykonywania pracy cudzoziemcowi do ewidencji oświadczeń, jeżeli:
 
@@ -243,45 +392,55 @@ source: "isap-pdf"
 
 15. Domniemywa się, że cudzoziemiec, którego dotyczy oświadczenie o powierzeniu wykonywania pracy cudzoziemcowi wpisane do ewidencji oświadczeń, zakończył wykonywanie pracy w dniu określonym w oświadczeniu, chyba że z okoliczności wynika, że cudzoziemiec zakończył pracę na podstawie oświadczenia w innym terminie.
 
-16. Podmiot powierzający wykonywanie pracy cudzoziemcowi na podstawie oświadczenia o powierzeniu wykonywania pracy cudzoziemcowi wpisanego do ewidencji oświadczeń lub cudzoziemiec wykonujący pracę na podstawie takiego oświadczenia mogą powiadomić właściwy powiatowy urząd pracy o zakończeniu tej pracy. Art. 88za. 1. Jeżeli podmiot powierzający wykonywanie pracy cudzoziemcowi, który zatrudniał cudzoziemca przez okres nie krótszy niż 3 miesiące w związku z oświadczeniem o powierzeniu wykonywania pracy cudzoziemcowi wpisanym do ewidencji oświadczeń, złożył przed upływem daty zakończenia pracy wskazanej w oświadczeniu wniosek o wydanie zezwolenia na pracę dla tego cudzoziemca na tym samym stanowisku na podstawie umowy o pracę, a wniosek nie zawiera braków formalnych lub braki formalne zostały uzupełnione w terminie, pracę cudzoziemca na warunkach nie gorszych niż określone w oświadczeniu wpisanym do ewidencji oświadczeń uważa się za legalną od dnia upływu ważności tego oświadczenia do dnia wydania zezwolenia na pracę lub doręczenia decyzji odmownej w tej sprawie.
+16. Podmiot powierzający wykonywanie pracy cudzoziemcowi na podstawie oświadczenia o powierzeniu wykonywania pracy cudzoziemcowi wpisanego do ewidencji oświadczeń lub cudzoziemiec wykonujący pracę na podstawie takiego oświadczenia mogą powiadomić właściwy powiatowy urząd pracy o zakończeniu tej pracy.
+
+1. Jeżeli podmiot powierzający wykonywanie pracy cudzoziemcowi, który zatrudniał cudzoziemca przez okres nie krótszy niż 3 miesiące w związku z oświadczeniem o powierzeniu wykonywania pracy cudzoziemcowi wpisanym do ewidencji oświadczeń, złożył przed upływem daty zakończenia pracy wskazanej w oświadczeniu wniosek o wydanie zezwolenia na pracę dla tego cudzoziemca na tym samym stanowisku na podstawie umowy o pracę, a wniosek nie zawiera braków formalnych lub braki formalne zostały uzupełnione w terminie, pracę cudzoziemca na warunkach nie gorszych niż określone w oświadczeniu wpisanym do ewidencji oświadczeń uważa się za legalną od dnia upływu ważności tego oświadczenia do dnia wydania zezwolenia na pracę lub doręczenia decyzji odmownej w tej sprawie.
 
 2. Przepisu ust. 1 nie stosuje się w przypadku zawieszenia postępowania na wniosek strony.
 
-3. Przepisy ust. 1 i 2 stosuje się odpowiednio w przypadku wniosku cudzoziemca o udzielenie zezwolenia na pobyt czasowy, o którym mowa w art. 114 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, w celu kontynuacji zatrudnienia u danego pracodawcy.”;
+3. Przepisy ust. 1 i 2 stosuje się odpowiednio w przypadku wniosku cudzoziemca o udzielenie zezwolenia na pobyt czasowy, o którym mowa w art. 114 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, w celu kontynuacji zatrudnienia u danego pracodawcy. ” ;
 
-- **19)** w art. 90:
-    - **a)** w ust. 1: – pkt 5 otrzymuje brzmienie: „5) wykaz dokumentów, które podmiot powierzający wykonywanie pracy cudzoziemcowi jest obowiązany dołączyć do wniosku o wydanie zezwolenia na pracę albo przedstawić w trakcie postępowania administracyjnego,”, – w pkt 6 na końcu dodaje się przecinek i dodaje się pkt 7–9 w brzmieniu: „7) wzory zaświadczeń o wpisie do ewidencji wniosków w sprawie pracy sezonowej,
+- **19)** w art. 90: w ust. 1: – pkt 5 otrzymuje brzmienie: „ 5) wykaz dokumentów, które podmiot powierzający wykonywanie pracy cudzoziemcowi jest obowiązany dołączyć do wniosku o wydanie zezwolenia na pracę albo przedstawić w trakcie postępowania administracyjnego, ” , – w pkt 6 na końcu dodaje się przecinek i dodaje się pkt 7–9 w brzmieniu: „ 7) wzory zaświadczeń o wpisie do ewidencji wniosków w sprawie pracy sezonowej, 8) wzory oświadczeń o powierzeniu wykonywania pracy cudzoziemcowi, 9) tryb postępowania w sprawie wpisu oświadczenia o powierzeniu wykonywania pracy cudzoziemcowi do ewidencji oświadczeń ” , – część wspólna otrzymuje brzmienie: „ – mając na uwadze specyfikę sytuacji, o których mowa w art. 87 ust. 3 i 4 oraz art. 88, pierwszeństwo dostępu do rynku pracy dla obywateli polskich i cudzoziemców, o których mowa w art. 87 ust. 1 pkt 1–11, oraz zapewnienie właściwej organizacji postępowania w sprawach wydawania i przedłużania zezwoleń na pracę oraz w sprawach wpisu do ewidencji oświadczeń. ” , uchyla się ust. 7, dodaje się ust. 9–11 w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **8)** wzory oświadczeń o powierzeniu wykonywania pracy cudzoziemcowi,
-- **9)** tryb postępowania w sprawie wpisu oświadczenia o powierzeniu wykonywania pracy cudzoziemcowi do ewidencji oświadczeń”, – część wspólna otrzymuje brzmienie: „– mając na uwadze specyfikę sytuacji, o których mowa w art. 87 ust. 3 i 4 oraz art. 88, pierwszeństwo dostępu do rynku pracy dla obywateli polskich i cudzoziemców, o których mowa w art. 87 ust. 1 pkt 1–11, oraz zapewnienie właściwej organizacji postępowania w sprawach wydawania i przedłużania zezwoleń na pracę oraz w sprawach wpisu do ewidencji oświadczeń.”,
-    - **b)** uchyla się ust. 7,
-    - **c)** dodaje się ust. 9–11 w brzmieniu: „9. Minister właściwy do spraw pracy w porozumieniu z ministrem właściwym do spraw rolnictwa i ministrem właściwym do spraw turystyki określi, w drodze rozporządzenia, podklasy działalności według klasyfikacji PKD, w których wydaje się zezwolenia na pracę sezonową, biorąc pod uwagę znacznie wyższe zapotrzebowanie na siłę roboczą w niektórych okresach roku ze względu na powtarzające się wydarzenia lub typy wydarzeń podlegające uwarunkowaniom sezonowym w tych podklasach działalności.
+9. Minister właściwy do spraw pracy w porozumieniu z ministrem właściwym do spraw rolnictwa i ministrem właściwym do spraw turystyki określi, w drodze rozporządzenia, podklasy działalności według klasyfikacji PKD, w których wydaje się zezwolenia na pracę sezonową, biorąc pod uwagę znacznie wyższe zapotrzebowanie na siłę roboczą w niektórych okresach roku ze względu na powtarzające się wydarzenia lub typy wydarzeń podlegające uwarunkowaniom sezonowym w tych podklasach działalności.
 
 10. Minister właściwy do spraw pracy, kierując się celami polskiej polityki migracyjnej, określi, w drodze rozporządzenia:
 
 - **1)** państwa, dla których obywateli wydaje się zezwolenie na pracę sezonową bez względu na spełnienie warunku, o którym mowa w art. 88o ust. 1 pkt 2, oraz dokonuje się wpisu wniosku o wydanie zezwolenia na pracę sezonową do ewidencji wniosków w sprawie pracy sezonowej na podstawie art. 88q;
 - **2)** państwa, których obywatele mogą wykonywać pracę bez zezwolenia na pracę na podstawie oświadczenia o powierzeniu wykonywania pracy cudzoziemcowi wpisanego do ewidencji oświadczeń.
 
-11. Minister właściwy do spraw pracy, kierując się potrzebami rynku pracy, może określić, w drodze rozporządzenia, zawody, w których cudzoziemcy będący obywatelami państw innych, niż określone w przepisach wydanych na podstawie ust. 10 pkt 2, mogą wykonywać pracę bez zezwolenia na pracę na podstawie oświadczenia o powierzeniu wykonywania pracy cudzoziemcowi wpisanego do ewidencji oświadczeń.”;
+11. Minister właściwy do spraw pracy, kierując się potrzebami rynku pracy, może określić, w drodze rozporządzenia, zawody, w których cudzoziemcy będący obywatelami państw innych, niż określone w przepisach wydanych na podstawie ust. 10 pkt 2, mogą wykonywać pracę bez zezwolenia na pracę na podstawie oświadczenia o powierzeniu wykonywania pracy cudzoziemcowi wpisanego do ewidencji oświadczeń. ” ;
 
-- **20)** w art. 90a:
-    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Podmiot powierzający wykonywanie pracy cudzoziemcowi składa:
+- **20)** w art. 90a: po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+
+1a. Podmiot powierzający wykonywanie pracy cudzoziemcowi składa:
 
 - **1)** wniosek o wydanie zezwolenia na pracę sezonową lub jego przedłużenie,
-- **2)** oświadczenie o powierzeniu wykonywania pracy cudzoziemcowi w celu dokonania wpisu w ewidencji oświadczeń – po dokonaniu jednorazowej wpłaty w wysokości nie większej niż 10% minimalnego wynagrodzenia za pracę za każdego cudzoziemca.”,
-    - **b)** ust. 2 otrzymuje brzmienie: „2. Wpłaty, o których mowa w ust. 1 i 1a, stanowią dochód budżetu państwa, z zastrzeżeniem ust. 2a.”,
-    - **c)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. W przypadku wpłaty dokonywanej w związku z wnioskiem o wydanie zezwolenia na pracę sezonową lub oświadczeniem o powierzeniu wykonywania pracy cudzoziemcowi, 50% tej wpłaty stanowi dochód powiatu.”,
-    - **d)** w ust. 3: – we wprowadzeniu do wyliczenia wyrazy „wysokość wpłaty, o której mowa w ust. 1” zastępuje się wyrazami „wysokość wpłat, o których mowa w ust. 1 i 1a”, – w pkt 4 kropkę zastępuje się przecinkiem i dodaje się wyraz „lub” oraz dodaje się pkt 5 w brzmieniu: „5) liczbę oświadczeń o powierzeniu wykonywania pracy cudzoziemcowi składanych przez podmioty powierzające wykonywanie pracy cudzoziemcowi.”;
+- **2)** oświadczenie o powierzeniu wykonywania pracy cudzoziemcowi w celu dokonania wpisu w ewidencji oświadczeń po dokonaniu jednorazowej wpłaty w wysokości nie większej niż 10% minimalnego wynagrodzenia za pracę za każdego cudzoziemca. ” , ust. 2 otrzymuje brzmienie: „
+    - **b)**
 
-- **21)** po art. 90a dodaje się art. 90b–90e w brzmieniu: „Art. 90b. 1. Minister właściwy do spraw pracy w porozumieniu z ministrem właściwym do spraw gospodarki oraz ministrem właściwym do spraw wewnętrznych może określić, w drodze rozporządzenia, maksymalną liczbę zezwoleń na pracę, która w danym roku kalendarzowym może zostać wydana przez wojewodów, uwzględniając potrzeby rynku pracy, względy bezpieczeństwa państwa i porządku publicznego oraz zasadę komplementarności zatrudnienia cudzoziemców w stosunku do obywateli polskich. Limity mogą dotyczyć poszczególnych województw, zawodów, rodzajów umów, na podstawie których cudzoziemcowi może zostać powierzone wykonywanie pracy, lub rodzajów działalności podmiotu powierzającego wykonywanie pracy cudzoziemcowi według klasyfikacji PKD.
+2. Wpłaty, o których mowa w ust. 1 i 1a, stanowią dochód budżetu państwa, z zastrzeżeniem ust. 2a. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+
+- **c)**
+
+2a. W przypadku wpłaty dokonywanej w związku z wnioskiem o wydanie zezwolenia na pracę sezonową lub oświadczeniem o powierzeniu wykonywania pracy cudzoziemcowi, 50% tej wpłaty stanowi dochód powiatu. ” , w ust. 3: – we wprowadzeniu do wyliczenia wyrazy „wysokość wpłaty, o której mowa w ust. 1” zastępuje się wyrazami „wysokość wpłat, o których mowa w ust. 1 i 1a”, – w pkt 4 kropkę zastępuje się przecinkiem i dodaje się wyraz „lub” oraz dodaje się pkt 5 w brzmieniu: „ 5) liczbę oświadczeń o powierzeniu wykonywania pracy cudzoziemcowi składanych przez podmioty powierzające wykonywanie pracy cudzoziemcowi. ” ;
+
+- **d)**
+- **21)** po art. 90a dodaje się art. 90b-90e w brzmieniu: „
+
+**Art. 90b.**
+
+1. Minister właściwy do spraw pracy w porozumieniu z ministrem właściwym do spraw gospodarki oraz ministrem właściwym do spraw wewnętrznych może określić, w drodze rozporządzenia, maksymalną liczbę zezwoleń na pracę, która w danym roku kalendarzowym może zostać wydana przez wojewodów, uwzględniając potrzeby rynku pracy, względy bezpieczeństwa państwa i porządku publicznego oraz zasadę komplementarności zatrudnienia cudzoziemców w stosunku do obywateli polskich. Limity mogą dotyczyć poszczególnych województw, zawodów, rodzajów umów, na podstawie których cudzoziemcowi może zostać powierzone wykonywanie pracy, lub rodzajów działalności podmiotu powierzającego wykonywanie pracy cudzoziemcowi według klasyfikacji PKD.
 
 2. Minister właściwy do spraw pracy w porozumieniu z ministrem właściwym do spraw rolnictwa, ministrem właściwym do spraw gospodarki oraz ministrem właściwym do spraw wewnętrznych może określić, w drodze rozporządzenia, maksymalną liczbę zezwoleń na pracę sezonową, która w danym roku kalendarzowym może zostać wydana, uwzględniając potrzeby rynku pracy, względy bezpieczeństwa państwa i porządku publicznego oraz zasadę komplementarności zatrudnienia cudzoziemców w stosunku do obywateli polskich. Limity mogą dotyczyć poszczególnych województw, zawodów, rodzajów umów, na podstawie których cudzoziemcowi może zostać powierzone wykonywanie pracy, lub rodzajów działalności podmiotu powierzającego wykonywanie pracy cudzoziemcowi według klasyfikacji PKD.
 
 3. Minister właściwy do spraw pracy w porozumieniu z ministrem właściwym do spraw gospodarki oraz ministrem właściwym do spraw wewnętrznych może określić, w drodze rozporządzenia, maksymalną liczbę oświadczeń, o których mowa w art. 88z ust. 1, która w danym roku kalendarzowym może zostać wpisana do ewidencji oświadczeń przez starostów, uwzględniając potrzeby rynku pracy, względy bezpieczeństwa państwa i porządku publicznego, zasadę komplementarności zatrudnienia cudzoziemców w stosunku do obywateli polskich oraz obciążenia i możliwości starostów wynikające z realizacji zadań, o których mowa w art. 88z, w latach poprzednich. Limity mogą dotyczyć poszczególnych województw, zawodów, rodzajów umów, na podstawie których cudzoziemcowi może zostać powierzone wykonywanie pracy, lub rodzajów działalności podmiotu powierzającego wykonywanie pracy cudzoziemcowi według klasyfikacji PKD.
 
 4. Minister właściwy do spraw pracy umieszcza informacje o stanie wykorzystania limitów, o których mowa w ust. 1, 2 lub 3, w Biuletynie Informacji Publicznej oraz ogłasza ich wyczerpanie w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w drodze obwieszczenia.
-
-**Art. 90c.**
 
 1. W sprawach z zakresu wykonywania pracy przez cudzoziemców na terytorium Rzeczypospolitej Polskiej prowadzi się w systemach teleinformatycznych rejestry spraw dotyczących:
 
@@ -361,7 +520,7 @@ source: "isap-pdf"
 - **3)** konsulom w celu prowadzenia postępowań w sprawie wydania wizy;
 - **4)** Szefowi Urzędu do Spraw Cudzoziemców w celu prowadzenia postępowań w sprawie zezwoleń na pobyt czasowy, zezwoleń na pobyt rezydenta długoterminowego Unii Europejskiej, udzielenia ochrony międzynarodowej, zobowiązania cudzoziemca do powrotu oraz przedłużenia wizy i prowadzenia konsultacji zgodnie z art. 67–69 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach;
 - **5)** Państwowej Inspekcji Pracy w celu prowadzenia kontroli legalności zatrudnienia, innej pracy zarobkowej oraz wykonywania pracy przez cudzoziemców, oraz kontroli przestrzegania przepisów ustawy z dnia 10 czerwca 2016 r. o delegowaniu pracowników w ramach świadczenia usług;
-- **6)** Straży Granicznej w celu dokonywania kontroli ruchu granicznego zgodnie z art. 1 ust. 2 pkt 2 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2016 r. poz. 1643, z późn. zm. ) oraz prowadzenia kontroli legalności wykonywania pracy przez cudzoziemców, prowadzenia działalności gospodarczej przez cudzoziemców, powierzania wykonywania pracy cudzoziemcom oraz pobytu cudzoziemców;
+- **6)** Straży Granicznej w celu dokonywania kontroli ruchu granicznego zgodnie z art. 1 ust. 2 pkt 2 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2016 r. poz. 1643, z późn. zm.) oraz prowadzenia kontroli legalności wykonywania pracy przez cudzoziemców, prowadzenia działalności gospodarczej przez cudzoziemców, powierzania wykonywania pracy cudzoziemcom oraz pobytu cudzoziemców;
 - **7)** Policji w celu prowadzenia kontroli legalności pobytu cudzoziemców;
 - **8)** naczelnikowi urzędu celno-skarbowego w celu prowadzenia kontroli legalności pobytu cudzoziemców.
 
@@ -375,25 +534,141 @@ source: "isap-pdf"
 
 14. Po upływie 10 lat od dnia wydania postanowienia lub decyzji ostatecznej w sprawie wydania zezwolenia na pracę lub przedłużenia zezwolenia na pracę, uchylenia zezwolenia na pracę lub pozostawienia wniosku w sprawie zezwolenia na pracę lub przedłużenia zezwolenia na pracę bez rozpoznania organy prowadzące rejestry, o których mowa w ust. 1, usuwają z nich dane osobowe cudzoziemca, dane podmiotu powierzającego wykonywanie pracy cudzoziemcowi oraz dane pracodawcy użytkownika lub podmiotu, do którego cudzoziemiec został delegowany na terytorium Rzeczypospolitej Polskiej.
 
-**Art. 90d.**
-
 1. W przypadku powierzenia pracy cudzoziemcowi zwolnionemu z obowiązku posiadania zezwolenia na pracę, podmiot powierzający wykonywanie pracy cudzoziemcowi, którego siedziba lub miejsce zamieszkania albo oddział, zakład lub inna forma zorganizowanej działalności znajdują się na terytorium Rzeczypospolitej Polskiej, jest obowiązany do zawarcia z cudzoziemcem umowy w formie pisemnej.
 
-2. Przed podpisaniem umowy, o której mowa w ust. 1, podmiot powierzający wykonywanie pracy cudzoziemcowi jest obowiązany do przedstawienia cudzoziemcowi tłumaczenia umowy na język dla niego zrozumiały.
+2. Przed podpisaniem umowy, o której mowa w ust. 1, podmiot powierzający wykonywanie pracy cudzoziemcowi jest obowiązany do przedstawienia cudzoziemcowi tłumaczenia umowy na język dla niego zrozumiały. Minister właściwy do spraw pracy, wojewoda oraz starosta w celu realizacji zadań określonych w niniejszym rozdziale mogą pozyskiwać z systemu teleinformatycznego Straży Granicznej, przy wykorzystaniu systemów teleinformatycznych prowadzonych przez ministra właściwego do spraw pracy, informacje o przekroczeniach granicy Rzeczypospolitej Polskiej przez cudzoziemca. ” ;
 
-**Art. 90e.** Minister właściwy do spraw pracy, wojewoda oraz starosta w celu realizacji zadań określonych w niniejszym rozdziale mogą pozyskiwać z systemu teleinformatycznego Straży Granicznej, przy wykorzystaniu systemów teleinformatycznych prowadzonych przez ministra właściwego do spraw pracy, informacje o przekroczeniach granicy Rzeczypospolitej Polskiej przez cudzoziemca.”;
+- **22)** w art. 120: w ust. 1 wyrazy „nie niższej niż 3000 zł” zastępuje się wyrazami „od 1000 zł do 30 000 zł”, w ust. 3 wyrazy „do 10 000 zł” zastępuje się wyrazami „od 3000 zł do 30 000 zł”, w ust. 4 wyrazy „nie niższej niż 3000 zł” zastępuje się wyrazami „od 3000 zł do 30 000 zł”, w ust. 5 wyrazy „do 10 000 zł” zastępuje się wyrazami „od 3000 zł do 30 000 zł”, dodaje się ust. 8–11 w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
-**Art. 2.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2016 r. poz. 963, z późn. zm. ) w art. 50 w ust. 14a w pkt 3 w lit. d dodaje się przecinek oraz dodaje się pkt 4 i 5 w brzmieniu: „4) liczbę ubezpieczonych,
+8. Kto, prowadząc agencję pracy tymczasowej lub działając w jej imieniu, nie dopełnia obowiązku, o którym mowa w art. 88s ust. 3, podlega karze grzywny od 200 zł do 2000 zł.
 
-**Art. 3.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2016 r. poz. 1713 i 1948 oraz z 2017 r. poz. 708, 962, 966 i 1477) w art. 96 w § 1a w pkt 2 na końcu dodaje się przecinek i dodaje się pkt 3 w brzmieniu: „3) o czyny określone w art. 120 ust. 2, 6 i 8–10 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, w których oskarżycielem publicznym jest właściwy organ Straży Granicznej”.
+9. Kto nie dopełnia obowiązku, o którym mowa w art. 88w ust. 1 lub 3, podlega karze grzywny od 200 zł do 2000 zł.
 
-**Art. 4.** W ustawie z dnia 27 czerwca 2003 r. o rencie socjalnej (Dz. U. z 2013 r. poz. 982 i 1650 oraz z 2014 r. poz. 1175 i 1682) w art. 2 pkt 3 otrzymuje brzmienie: „3) cudzoziemcom posiadającym kartę pobytu z adnotacją „dostęp do rynku pracy”, z wyłączeniem obywateli państw trzecich, którzy uzyskali zezwolenie na pracę na terytorium państwa członkowskiego na okres nieprzekraczający 6 miesięcy, obywateli państw trzecich przyjętych w celu podjęcia studiów lub pracy sezonowej oraz obywateli państw trzecich, którzy mają prawo do wykonywania pracy na podstawie wizy;”.
+10. Kto nie dopełnia obowiązku, o którym mowa w art. 88z ust. 13, lub przekazuje nieprawdziwe informacje o podjęciu, niepodjęciu lub zakończeniu pracy przez cudzoziemca na podstawie oświadczenia o powierzeniu wykonywania pracy cudzoziemcowi, podlega karze grzywny.
 
-**Art. 5.** W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2016 r. poz. 1518, z późn. zm. ) w art. 1 w ust. 2 w pkt 2 lit. d otrzymuje brzmienie: „d) posiadającym kartę pobytu z adnotacją „dostęp do rynku pracy”, z wyłączeniem obywateli państw trzecich, którzy uzyskali zezwolenie na pracę na terytorium państwa członkowskiego na okres nieprzekraczający 6 miesięcy, obywateli państw trzecich przyjętych w celu podjęcia studiów lub pracy sezonowej oraz obywateli państw trzecich, którzy mają prawo do wykonywania pracy na podstawie wizy.”.
+11. Kto nie dopełnia obowiązku, o którym mowa w art. 90d ust. 1 lub 2, podlega karze grzywny od 200 zł do 2000 zł. ” .
+
+**Art. 2.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2016 r. poz. 963, z późn. zm.) w art. 50 w ust. 14a w pkt 3 w lit. d dodaje się przecinek oraz dodaje się pkt 4 i 5 w brzmieniu: „
+
+- **4)** liczbę ubezpieczonych,
+- **5)** okres rozliczeniowy ” .
+
+**Art. 3.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2016 r. poz. 1713 i 1948 oraz z 2017 r. poz. 708, 962, 966 i 1477) w art. 96 w § 1a w pkt 2 na końcu dodaje się przecinek i dodaje się pkt 3 w brzmieniu: „
+
+- **3)** o czyny określone w art. 120 ust. 2, 6 i 8–10 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, w których oskarżycielem publicznym jest właściwy organ Straży Granicznej ” .
+
+**Art. 4.** W ustawie z dnia 27 czerwca 2003 r. o rencie socjalnej (Dz. U. z 2013 r. poz. 982 i 1650 oraz z 2014 r. poz. 1175 i 1682) w art. 2 pkt 3 otrzymuje brzmienie: „
+
+- **3)** cudzoziemcom posiadającym kartę pobytu z adnotacją „dostęp do rynku pracy”, z wyłączeniem obywateli państw trzecich, którzy uzyskali zezwolenie na pracę na terytorium państwa członkowskiego na okres nieprzekraczający 6 miesięcy, obywateli państw trzecich przyjętych w celu podjęcia studiów lub pracy sezonowej oraz obywateli państw trzecich, którzy mają prawo do wykonywania pracy na podstawie wizy; ” . W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2016 r. poz. 1518, z późn. zm.) w art. 1 w ust. 2 w pkt 2 lit. d otrzymuje brzmienie: „ posiadającym kartę pobytu z adnotacją „dostęp do rynku pracy”, z wyłączeniem obywateli państw trzecich, którzy uzyskali zezwolenie na pracę na terytorium państwa członkowskiego na okres nieprzekraczający 6 miesięcy, obywateli państw trzecich przyjętych w celu podjęcia studiów lub pracy sezonowej oraz obywateli państw trzecich, którzy mają prawo do wykonywania pracy na podstawie wizy. ” .
+    - **d)**
 
 **Art. 6.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2016 r. poz. 1827 oraz z 2017 r. poz. 624, 1273 i 1529) w załączniku do ustawy w części III wprowadza się następujące zmiany:
 
+- **1)** w kolumnie 2 ust. 2 otrzymuje brzmienie: „
+
+2. Zezwolenie na pobyt czasowy, z wyłączeniem zezwolenia udzielonego na podstawie art. 181 ust. 1 oraz art. 185a ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2016 r. poz. 1990, 1948 i 2066 oraz z 2017 r. poz. 60, 858 i 1543) ” ;
+
+- **2)** po ust. 2b dodaje się ust. 2c w brzmieniu: 2c. Zezwolenie, o którym mowa w art. 185a ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach 170 zł
+
 **Art. 7.** W ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2016 r. poz. 1990, 1948 i 2066 oraz z 2017 r. poz. 60 i 858) wprowadza się następujące zmiany:
+
+- **1)** w odnośniku nr 1 do tytułu ustawy w pkt 15 kropkę zastępuje się średnikiem i dodaje się pkt 16 w brzmieniu: „
+- **16)** dyrektywy Parlamentu Europejskiego i Rady 2014/36/UE z dnia 26 lutego 2014 r. w sprawie warunków wjazdu i pobytu obywateli państw trzecich w celu zatrudnienia w charakterze pracownika sezonowego (Dz. Urz. UE L 94 z 28.03.2014, str. 375). ” ;
+- **2)** w art. 25 w ust. 3 w pkt 1 po lit. c dodaje się lit. ca i cb w brzmieniu: „ ca) wizy, o której mowa w art. 60 ust. 1 pkt 5, lub cb) wizy, o której mowa w art. 60 ust. 1 pkt 5a, lub ” ;
+- **3)** w art. 60 w ust. 1: pkt 5 otrzymuje brzmienie: „
+    - **a)**
+
+- **5)** wykonywania pracy, w okresie nieprzekraczającym 6 miesięcy w ciągu kolejnych 12 miesięcy, na podstawie wpisanego do ewidencji oświadczenia o powierzeniu wykonywania pracy cudzoziemcowi; ” , po pkt 5 dodaje się pkt 5a w brzmieniu: „
+    - **b)**
+
+- **5a)** wykonywania pracy, o której mowa w art. 88 ust. 2 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, w okresie nieprzekraczającym 9 miesięcy w roku kalendarzowym; ” , pkt 6 otrzymuje brzmienie: „
+    - **c)**
+
+- **6)** wykonywania pracy innej, niż określona w pkt 5 i 5a; ” ;
+- **4)** w art. 64: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Wiza w celu, o którym mowa w art. 60 ust. 1 pkt 6, może być wydana cudzoziemcowi, który przedstawi zezwolenie na pracę w rozumieniu art. 2 ust. 1 pkt 43a ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, chyba że zezwolenie to nie jest wymagane. ” , po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
+
+- **b)**
+
+1a. Wiza w celu, o którym mowa w art. 60 ust. 1 pkt 5, może być wydana cudzoziemcowi, który przedstawi wpisane do ewidencji oświadczenie o powierzeniu wykonywania pracy cudzoziemcowi, o którym mowa w art. 88z ust. 1 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy.
+
+1b. Wiza w celu, o którym mowa w art. 60 ust. 1 pkt 5a, może być wydana cudzoziemcowi, którego dotyczy wniosek o wydanie zezwolenia na pracę sezonową wpisany do ewidencji, o której mowa w art. 88p ust. 1 pkt 1 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, jeżeli cudzoziemiec przedstawi zaświadczenie, o którym mowa w art. 88p ust. 1 pkt 2 tej ustawy. Zaświadczenie wydane na okresy, o których mowa w art. 88q ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, jest ważne do końca ostatniego okresu pracy wskazanego w tym zaświadczeniu. ” , ust. 2 otrzymuje brzmienie: „
+
+- **c)**
+
+2. Wizę w celu, o którym mowa w art. 60 ust. 1 pkt 6, wydaje się na okres pobytu, który odpowiada okresowi wskazanemu w zezwoleniu lub innym dokumencie niż zaświadczenie, o którym mowa w art. 88p ust. 1 pkt 2 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, albo wpisane do ewidencji oświadczenie o powierzeniu wykonywania pracy cudzoziemcowi, o którym mowa w art. 88z ust. 1 tej ustawy. Okres ten nie może być dłuższy niż przewidziany dla danego typu wizy. ” , po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „
+
+- **d)**
+
+2a. Wizę w celu, o którym mowa w art. 60 ust. 1 pkt 5, wydaje się na okres pobytu, który odpowiada okresowi wskazanemu w oświadczeniu o powierzeniu wykonywania pracy cudzoziemcowi, o którym mowa w art. 88z ust. 1 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy. Okres ten nie może być dłuższy niż przewidziany dla danego typu wizy.
+
+2b. Wizę w celu, o którym mowa w art. 60 ust. 1 pkt 5a, wydaje się na okres pobytu, który odpowiada okresowi wskazanemu w zaświadczeniu, o którym mowa w art. 88p ust. 1 pkt 2 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy. Okres ten nie może być dłuższy niż przewidziany dla danego typu wizy. ” , w ust. 3 po wyrazach „Rzeczypospolitej Polskiej” dodaje się wyrazy „z uwzględnieniem ograniczeń wynikających dla wiz Schengen”, dodaje się ust. 4 w brzmieniu: „
+
+- **e)**
+- **f)**
+
+4. W przypadku wizy wydawanej w celu, o którym mowa w art. 60 ust. 1 pkt 5a, okres pobytu, na który się ją wydaje, nie może być dłuższy niż 9 miesięcy w roku kalendarzowym z uwzględnieniem ograniczeń wynikających dla wiz Schengen. ” ;
+
+- **5)** w art. 66 dodaje się ust. 7 w brzmieniu: „
+
+7. Wizę krajową w celu, o którym mowa w art. 60 ust. 1 pkt 5a, wydaje lub odmawia jej wydania konsul właściwy ze względu na państwo stałego zamieszkania cudzoziemca, a w przypadku cudzoziemca przebywającego legalnie na terytorium innego państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej – konsul, którego siedziba znajduje się w danym państwie, o ile cudzoziemiec uzasadnił złożenie wniosku poza państwem stałego zamieszkania. ” ;
+
+- **6)** w art. 90 dodaje się ust. 3 w brzmieniu: „
+
+3. Organ, który unieważnił lub cofnął wizę krajową, umieszcza informacje o tej wizie w Systemie Informacyjnym Schengen, o ile w dokumencie podróży lub na osobnym blankiecie wizowym nie została odnotowana decyzja o unieważnieniu lub cofnięciu tej wizy. ” ;
+
+- **7)** w art. 114 w ust. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
+- **5)** wysokość miesięcznego wynagrodzenia, o którym mowa w pkt 4, nie jest niższa niż wysokość minimalnego wynagrodzenia za pracę. ” ;
+- **8)** w art. 116 w pkt 3 kropkę zastępuje się przecinkiem i dodaje się wyraz „lub” oraz dodaje się pkt 4 w brzmieniu: „
+- **4)** przebywa na terytorium Rzeczypospolitej Polskiej w celu wykonywania pracy, o której mowa w art. 88 ust. 2 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy. ” ;
+- **9)** w art. 117 w pkt 2 w lit. b kropkę zastępuje się przecinkiem i dodaje się wyraz „lub” oraz lit. c w brzmieniu: „ nie spełnia wymagań podmiotu powierzającego wykonywanie pracy cudzoziemcowi określonych w informacji starosty o braku możliwości zaspokojenia potrzeb kadrowych tego podmiotu. ” ;
+    - **c)**
+
+- **10)** po art. 117 dodaje się art. 117a w brzmieniu: „
+
+**Art. 117a.** Udzielenia zezwolenia na pobyt czasowy i pracę można odmówić, jeżeli podmiot powierzający wykonywanie pracy cudzoziemcowi nie posiada środków finansowych ani źródeł dochodu niezbędnych do pokrycia zobowiązań wynikających z powierzenia pracy cudzoziemcowi lub nie prowadzi rzeczywistej działalności gospodarczej, rolniczej lub statutowej uzasadniającej powierzenie pracy cudzoziemcowi w danym okresie, w szczególności zawiesił działalność lub został wykreślony z właściwego rejestru lub jego działalność jest w okresie likwidacji. ” ;
+
+- **11)** art. 119 otrzymuje brzmienie: „
+
+**Art. 119.** Zmiana siedziby lub miejsca zamieszkania, nazwy lub formy prawnej podmiotu powierzającego wykonywanie pracy cudzoziemcowi lub przejęcie pracodawcy lub jego części przez innego pracodawcę, lub przejście zakładu pracy lub jego części na innego pracodawcę, lub zastąpienie umowy cywilnoprawnej umową o pracę nie wymagają zmiany lub wydania nowego zezwolenia na pobyt czasowy i pracę. ” ;
+
+- **12)** art. 122 otrzymuje brzmienie: „
+
+**Art. 122.** Poza przypadkami, o których mowa w art. 101, wojewoda cofa zezwolenie na pobyt czasowy i pracę, jeżeli:
+
+- **1)** stanowisko określone w zezwoleniu uległo zmianie lub wysokość wynagrodzenia została obniżona, a zezwolenie to nie zostało zmienione lub
+- **2)** podmiot powierzający wykonywanie pracy cudzoziemcowi nie prowadzi działalności gospodarczej, rolniczej lub statutowej, w szczególności zawiesił działalność, został wykreślony z właściwego rejestru lub jest w okresie likwidacji. ” ;
+- **13)** w art. 125 ust. 1 otrzymuje brzmienie: „
+
+1. Do ustalenia, czy podmiot powierzający wykonywanie pracy cudzoziemcowi nie ma możliwości zaspokojenia potrzeb kadrowych na lokalnym rynku pracy, stosuje się przepisy art. 88c ust. 1 pkt 2 i ust. 1a-2 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy. ” ;
+
+- **14)** w art. 126 dodaje się ust. 3 w brzmieniu: „
+
+3. Przepisy ust. 1 i 2 stosuje się odpowiednio, jeżeli wykonywanie pracy na terytorium Rzeczypospolitej Polskiej polega na działaniu przez cudzoziemca w charakterze prokurenta. ” ;
+
+- **15)** w art. 131 w pkt 4 kropkę zastępuje się przecinkiem i dodaje się wyraz „lub” oraz dodaje się pkt 5 w brzmieniu: „
+- **5)** przebywa na terytorium Rzeczypospolitej Polskiej w celu wykonywania pracy, o której mowa w art. 88 ust. 2 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy. ” ;
+- **16)** w art. 136 ust. 1 otrzymuje brzmienie: „
+
+1. Do ustalenia, czy podmiot powierzający wykonywanie pracy cudzoziemcowi nie ma możliwości zaspokojenia potrzeb kadrowych na lokalnym rynku pracy, stosuje się przepisy art. 88c ust. 1 pkt 2 i ust. 1a-2 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy. ” ;
+
+- **17)** w art. 142: w ust. 1 w pkt 3 lit. a otrzymuje brzmienie: „ w roku podatkowym poprzedzającym złożenie wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt czasowy w celu prowadzenia działalności gospodarczej przez cudzoziemca osiągnął dochód nie niższy niż 12-krotność aktualnego w dniu złożenia wniosku przeciętnego miesięcznego wynagrodzenia w województwie, w którym podmiot ten ma siedzibę lub miejsce zamieszkania, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 30 ust. 2 ustawy z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2017 r. poz. 79 i 1442), lub zatrudnia na czas nieokreślony i w pełnym wymiarze czasu pracy co najmniej przez okres 1 roku poprzedzającego złożenie wniosku co najmniej 2 pracowników będących obywatelami polskimi lub cudzoziemcami, o których mowa w art. 87 ust. 1 pkt 1–9 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, lub ” , ust. 3 otrzymuje brzmienie: „
+    - **a)**
+    - **a)**
+    - **b)**
+
+3. Zezwolenia na pobyt czasowy w celu prowadzenia działalności gospodarczej udziela się cudzoziemcowi, którego celem pobytu jest wykonywanie pracy poprzez pełnienie funkcji w zarządzie spółki z ograniczoną odpowiedzialnością lub spółki akcyjnej, którą utworzył lub której udziały lub akcje objął lub nabył, lub prowadzenie spraw spółki komandytowej lub komandytowo-akcyjnej przez komplementariusza, lub działanie w charakterze prokurenta, o ile cudzoziemiec spełnia warunki, o których mowa w ust. 1 pkt 1 i 2, a spółka spełnia warunki, o których mowa w ust. 1 pkt 3. ” ;
+
+- **18)** w dziale V po rozdziale 10 dodaje się rozdział 10a w brzmieniu: „
+
+#### Rozdział 10a Zezwolenie na pobyt czasowy ze względu na pracę sezonową
 
 **Art. 185a.**
 
@@ -409,13 +684,18 @@ source: "isap-pdf"
 
 3. Zezwolenia, o którym mowa w ust. 1, można także udzielić w przypadku, gdy okoliczności ubiegania się o to zezwolenie nie uzasadniają pobytu cudzoziemca na terytorium Rzeczypospolitej Polskiej przez okres dłuższy niż 3 miesiące.
 
-4. W postępowaniu w sprawie udzielenia cudzoziemcowi zezwolenia, o którym mowa w ust. 1, przepisy art. 183 stosuje się odpowiednio.
+4. W postępowaniu w sprawie udzielenia cudzoziemcowi zezwolenia, o którym mowa w ust. 1, przepisy art. 183 stosuje się odpowiednio. Zezwolenia, o którym mowa w art. 185a ust. 1, odmawia się cudzoziemcowi, gdy nie spełnia on wymogów udzielenia mu tego zezwolenia lub wystąpiła przynajmniej jedna z okoliczności, o których mowa w art. 100 ust. 1 pkt 2–9. Zezwolenie, o którym mowa w art. 185a ust. 1, cofa się cudzoziemcowi, gdy ustał cel pobytu, ze względu na który zezwolenie zostało udzielone, lub cudzoziemiec przestał spełniać wymogi udzielenia mu tego zezwolenia albo wystąpiła przynajmniej jedna z okoliczności, o których mowa w art. 100 ust. 1 pkt 2 lub 4–8. ” ;
 
-**Art. 185b.** Zezwolenia, o którym mowa w art. 185a ust. 1, odmawia się cudzoziemcowi, gdy nie spełnia on wymogów udzielenia mu tego zezwolenia lub wystąpiła przynajmniej jedna z okoliczności, o których mowa w art. 100 ust. 1 pkt 2–9.
+- **19)** w art. 244 w ust. 1 po pkt 12 dodaje się pkt 12a w brzmieniu: „
+- **12a)** adnotację „praca sezonowa” – w przypadku zezwolenia, o którym mowa w art. 185a; ” ;
+- **20)** w art. 302 w ust. 1 pkt 4 otrzymuje brzmienie: „
+- **4)** wykonuje lub w dniu wszczęcia kontroli legalności wykonywania pracy prowadzonej przez uprawniony do tego organ wykonywał pracę bez odpowiedniego zezwolenia na pracę lub oświadczenia o powierzeniu wykonywania pracy cudzoziemcowi wpisanego do ewidencji oświadczeń, lub ” .
 
-**Art. 185c.** Zezwolenie, o którym mowa w art. 185a ust. 1, cofa się cudzoziemcowi, gdy ustał cel pobytu, ze względu na który zezwolenie zostało udzielone, lub cudzoziemiec przestał spełniać wymogi udzielenia mu tego zezwolenia albo wystąpiła przynajmniej jedna z okoliczności, o których mowa w art. 100 ust. 1 pkt 2 lub 4–8.”;
+**Art. 8.** W ustawie z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U. poz. 195, z późn. zm.) w art. 1 w ust. 2 w pkt 2 lit. d otrzymuje brzmienie: „
 
-**Art. 8.** W ustawie z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U. poz. 195, z późn. zm. ) w art. 1 w ust. 2 w pkt 2 lit. d otrzymuje brzmienie: „d) posiadającym kartę pobytu z adnotacją „dostęp do rynku pracy”, jeżeli zamieszkują z członkami rodzin na terytorium Rzeczypospolitej Polskiej, z wyłączeniem obywateli państw trzecich, którzy uzyskali zezwolenie na pracę na terytorium państwa członkowskiego na okres nieprzekraczający sześciu miesięcy, obywateli państw trzecich przyjętych w celu podjęcia studiów lub pracy sezonowej oraz obywateli państw trzecich, którzy mają prawo do wykonywania pracy na podstawie wizy.”.
+posiadającym kartę pobytu z adnotacją „dostęp do rynku pracy”, jeżeli zamieszkują z członkami rodzin na terytorium Rzeczypospolitej Polskiej, z wyłączeniem obywateli państw trzecich, którzy uzyskali zezwolenie na pracę na terytorium państwa członkowskiego na okres nieprzekraczający sześciu miesięcy, obywateli państw trzecich przyjętych w celu podjęcia studiów lub pracy sezonowej oraz obywateli państw trzecich, którzy mają prawo do wykonywania pracy na podstawie wizy. ” .
+
+- **d)**
 
 **Art. 9.** Dane zgromadzone i przetwarzane na podstawie art. 88f ust. 4 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym stają się danymi zgromadzonymi w rejestrach prowadzonych na podstawie art. 90c ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
@@ -427,7 +707,7 @@ source: "isap-pdf"
 
 **Art. 13.**
 
-1. Do postępowań w sprawach o wydanie wizy w celu, o którym mowa w art. 60 ust. 1 pkt 5 ustawy zmienianej w art. 7 w brzmieniu dotychczasowym, stosuje się przepisy dotychczasowe, jeżeli wniosek o wydanie wizy został złożony przed dniem 31 października 2018 r.
+1. Do postępowań w sprawach owydanie wizy w celu, o którym mowa w art. 60 ust. 1 pkt 5 ustawy zmienianej w art. 7 w brzmieniu dotychczasowym, stosuje się przepisy dotychczasowe, jeżeli wniosek o wydanie wizy został złożony przed dniem 31 października 2018 r.
 
 2. W postępowaniach, o których mowa w ust. 1, wniosek o wydanie wizy pozostawia się bez rozpoznania, jeżeli praca, w celu wykonywania której jest złożony ten wniosek, byłaby wykonywana po dniu 31 grudnia 2018 r.
 
@@ -438,4 +718,8 @@ source: "isap-pdf"
 2. Wnioski, o których mowa w ust. 1, poza informacjami, o których mowa w art. 88a ust. 1aa oraz art. 88x ust. 2 pkt 1, 3 i 4 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, zawierają dane dotyczące okresu wykonywania pracy przez cudzoziemca, którego dotyczy wniosek, na rzecz wnioskodawcy w okresie 5 lat poprzedzających dzień złożenia wniosku na podstawie oświadczenia o zamiarze powierzenia wykonywania pracy, zarejestrowanego przez powiatowy urząd pracy.
 
 **Art. 15.** Ustawa wchodzi w życie z dniem 1 stycznia 2018 r., z wyjątkiem:
+
+- **1)** art. 12, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;
+- **2)** art. 1 pkt 15 lit. e w zakresie art. 88j ust. 6 i art. 1 pkt 18 w zakresie art. 88z ust. 9, które wchodzą w życie z dniem 1 lipca 2018 r.
+
 

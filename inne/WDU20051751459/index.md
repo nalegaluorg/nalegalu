@@ -8,12 +8,10 @@ pos: 1459
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o przekształceniu prawa wieczystego własności nieruchomości
-
-*USTAWA z dnia 29 lipca 2005 r.*
+# Ustawa z dnia 29 lipca 2005 r. o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości
 
 | Pole | Wartość |
 |---|---|
@@ -24,98 +22,76 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2005-07-29 |
 | Data wydania | 2005-09-12 |
+| Wejście w życie | 2005-10-13 |
 | Ostatnia zmiana | 2024-06-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051751459) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1459/text.pdf) |
 
 **Art. 1.**
 
-1. Osoby fizyczne będące dniu 13 października 2005 r. użytkownikami wieczystymi nieruchomości zabudowanych na cele mieszkaniowe lub zabudowanych garażami albo przeznaczonych pod zabudowę na cele mieszkaniowe lub pod zabudowę garażami oraz nieruchomości rolnych mogą wystąpić z żądaniem przekształcenia prawa wieczystego tych nieruchomości własności. Przez nieruchomość rolną rozumie nieruchomość rolną rozumieniu Kodeksu cywilnego, z wyłączeniem nieruchomości przeznaczonych miejscowym planie zagospodarowania przestrzennego albo decyzji o warunkach zabudowy i zagospodarowania terenu na cele inne niż rolne.
+1. Osoby fizyczne będące w dniu wejścia w życie ustawy użytkownikami wieczystymi nieruchomości zabudowanych na cele mieszkaniowe lub zabudowanych garażami albo przeznaczonych pod tego rodzaju zabudowę oraz nieruchomości rolnych mogą wystąpić z żądaniem przekształcenia prawa użytkowania wieczystego tych nieruchomości w prawo własności. Przez nieruchomość rolną rozumie się nieruchomość rolną w rozumieniu Kodeksu cywilnego, z wyłączeniem nieruchomości przeznaczonych w miejscowym planie zagospodarowania przestrzennego albo w decyzji o warunkach zabudowy na cele inne niż rolne.
 
-1a. Z żądaniem przekształcenia prawa wieczystego własności nieruchomości mogą wystąpić również osoby fizyczne będące dniu 13 października 2005 r. użytkownikami wieczystymi nieruchomości, jeżeli użytkowanie wieczyste uzyskały:
+2. Z żądaniem przekształcenia prawa użytkowania wieczystego nieruchomości, o którym mowa w ust. 1, w prawo własności nieruchomości, mogą również wystąpić:
 
-- **1)** zamian za wywłaszczenie lub przejęcie nieruchomości gruntowej na rzecz Skarbu Państwa na podstawie innych tytułów, przed dniem 5 grudnia 1990 r.;
-- **2)** na podstawie art. 7 dekretu z dnia 26 października 1945 r. o własności i użytkowaniu gruntów na obszarze m.st. Warszawy (Dz. U. poz. 279 oraz z 1985 r. poz. 99).
-
-1b. Przepisu 1 nie stosuje do:
-
-- **1)** (uchylony)
-- **2)** (uchylony)
-- **3)** nieruchomości, wobec których toczy postępowanie administracyjne, mające na celu nabycie nieruchomości lub jej części pod inwestycję celu publicznego.
+- **1)** osoby fizyczne i prawne będące właścicielami lokali, których udział w nieruchomości wspólnej obejmuje prawo użytkowania wieczystego;
 - **2)** spółdzielnie mieszkaniowe będące właścicielami budynków mieszkalnych lub garaży.
 
-3. Z żądaniem przekształcenia prawa wieczystego własności nieruchomości mogą również wystąpić osoby fizyczne będące następcami prawnymi osób, o których mowa 1 i 1a, oraz osoby fizyczne i prawne będące następcami prawnymi osób, o których mowa 2.
+3. Z żądaniem przekształcenia prawa użytkowania wieczystego w prawo własności nieruchomości mogą również wystąpić osoby fizyczne będące następcami prawnymi osób, o których mowa w ust. 1, oraz osoby fizyczne i prawne będące następcami prawnymi osób, o których mowa w ust. 2.
 
-4. Przepisy 1a pkt 2 i 2 pkt 1 stosuje również do osób, które wieczystego albo udział tym prawie uzyskały po dniu 13 października 2005 r.
+4. Przepis ust. 2 pkt 1 stosuje się również do osób, które nabyły udział w użytkowaniu wieczystym po dniu wejścia w życie ustawy.
 
-5. (uchylony).
+5. Osoby, o których mowa w ust. 1–4, mogą wystąpić z żądaniem przekształcenia prawa użytkowania wieczystego w prawo własności nieruchomości do dnia 31 grudnia 2012 r.
 
-**Art. 2.**
-
-1. W przypadku współużytkowania wieczystego z żądaniem przekształcenia występują wszyscy współużytkownicy wieczyści, z zastrzeżeniem
-
-2.
-
-2. Z żądaniem przekształcenia mogą wystąpić współużytkownicy wieczyści, których suma udziałów wynosi co najmniej połowę. Jeżeli co najmniej jeden współużytkownik wieczysty zgłosi sprzeciw wobec złożonego wniosku o przekształcenie, właściwy organ zawiesza postępowanie. W takim przypadku przepis art. 199 Kodeksu cywilnego stosuje odpowiednio.
+**Art. 2.** W przypadku osób, o których mowa w art. 1 ust. 2, z żądaniem przekształcenia występują wszyscy użytkownicy wieczyści. W razie braku zgody stosuje się odpowiednio art. 199 Kodeksu cywilnego.
 
 **Art. 3.**
 
-1. Decyzję o przekształceniu prawa wieczystego własności nieruchomości wydaje:
+1. Decyzję o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości wydaje:
 
-- **1)** starosta wykonujący zadania z zakresu administracji rządowej – przypadku nieruchomości stanowiących własność Skarbu Państwa, tym również nieruchomości, stosunku do których własności Skarbu Państwa wykonują inne państwowe osoby prawne;
-- **2)** wójt, burmistrz, prezydent miasta, zarząd powiatu albo zarząd województwa – odpowiednio przypadku nieruchomości stanowiących własność jednostek samorządu terytorialnego.
+- **1)** starosta – w przypadku nieruchomości stanowiących własność Skarbu Państwa, w tym również nieruchomości, w stosunku do których prawo własności Skarbu Państwa wykonują inne państwowe osoby prawne;
+- **2)** wójt, burmistrz, prezydent miasta, zarząd powiatu albo zarząd województwa – odpowiednio w przypadku nieruchomości stanowiących własność jednostek samorządu terytorialnego.
 
-1a. Organem wyższego stopnia sprawach, o których mowa 1 pkt 1, jest wojewoda. własności nie narusza praw osób trzecich.
+2. Prawo użytkowania wieczystego przekształca się w prawo własności nieruchomości z dniem, w którym decyzja, o której mowa w ust. 1, stała się ostateczna. Decyzja ta stanowi podstawę wpisu do księgi wieczystej.
+
+3. Decyzja o przekształceniu prawa użytkowania wieczystego w prawo własności nie narusza praw osób trzecich.
 
 **Art. 4.**
 
-1. Osoba, na rzecz której zostało przekształcone wieczystego własności nieruchomości, jest obowiązana do uiszczenia dotychczasowemu właścicielowi opłaty z tytułu tego przekształcenia, z zastrzeżeniem art. 5.
+1. Osoba, na rzecz której zostało przekształcone prawo użytkowania wieczystego w prawo własności nieruchomości, jest obowiązana do uiszczenia dotychczasowemu właścicielowi opłaty z tytułu tego przekształcenia, z zastrzeżeniem art. 5.
 
-2. W decyzji, o której mowa art. 3 1, właściwy organ ustala opłatę z tytułu przekształcenia prawa wieczystego własności nieruchomości, którą stanowi różnica wartości nieruchomości gruntowej i wartości prawa wieczystego tej nieruchomości, określonych według stanu na dzień wydania decyzji. Do określania wartości nieruchomości gruntowej i wartości prawa wieczystego stosuje przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2023 r. poz. 344, z późn. zm. ).
+2. W decyzji, o której mowa w art. 3 ust. 1, właściwy organ ustala opłatę z tytułu przekształcenia prawa użytkowania wieczystego w prawo własności. Do ustalenia tej opłaty stosuje się odpowiednio przepisy art. 67 ust. 1, art. 68 ust. 1, art. 69 oraz art. 70 ust. 2–4 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2004 r. Nr 261, poz. 2603 i Nr 281, poz. 2782 oraz z 2005 r. Nr 130, poz. 1087 i Nr 169, poz. 1420).
 
-2a. Opłatę, o której mowa 1, wnosi terminie 14 dni od dnia, którym decyzja, o której mowa art. 3 1, stała ostateczna.
+3. Jeżeli przekształcenie prawa użytkowania wieczystego w prawo własności dotyczy nieruchomości rolnej, organ właściwy do wydania decyzji może udzielić bonifikaty od opłaty, o której mowa w ust. 1, w odniesieniu do nieruchomości stanowiących własność:
 
-3. Opłatę, o której mowa 1, rozkłada się, na wniosek użytkownika wieczystego, na raty, na czas nie krótszy niż 10 lat i nie dłuższy niż 20 lat, chyba że wnioskodawca wystąpi o okres krótszy niż 10 lat.
+- **1)** Skarbu Państwa – za zgodą wojewody;
+- **2)** jednostek samorządu terytorialnego – za zgodą właściwej rady lub sejmiku.
 
-4. Nieuiszczona część opłaty, rozłożonej na raty zgodnie z 3, podlega oprocentowaniu przy zastosowaniu stopy procentowej równej stopie redyskonta weksli stosowanej przez Narodowy Bank Polski.
+4. Do wpływów osiąganych z opłat z tytułu przekształcenia stosuje się odpowiednio przepis art. 23 ust. 3 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
-4a. W odniesieniu do nieruchomości wykorzystywanej dniu wydania decyzji, o której mowa art. 3 1, do prowadzenia działalności gospodarczej rozumieniu art. 3 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz.
+5. Organ, o którym mowa w art. 3 ust. 1, żąda zwrotu kwoty równej udzielonej bonifikacie po jej waloryzacji, jeżeli osoba, na rzecz której zostało przekształcone prawo użytkowania wieczystego w prawo własności nieruchomości przed upływem 5 lat, licząc od dnia przekształcenia, zbyła lub wykorzystała nieruchomość na inne cele niż cele, które stanowiły podstawę udzielenia bonifikaty. Nie dotyczy to zbycia na rzecz osoby bliskiej w rozumieniu art. 4 pkt 13 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, spółdzielni mieszkaniowej w przypadku ustanowienia odrębnej własności na rzecz członków oraz właścicieli lokali, którym przekształcono udział w prawie użytkowania wieczystego w prawo własności. W szczególnie uzasadnionych przypadkach organ może odstąpić od żądania zwrotu bonifikaty, za zgodą odpowiednio wojewody, rady lub sejmiku.
 
-- **236)** rozłożenie opłaty na raty wymaga zastosowania stopy referencyjnej ustalonej zgodnie z komunikatem Komisji sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych (Dz. Urz. UE C 14 z 19.01.2008, str. 6).
+6. Waloryzacji, o której mowa w ust. 5, dokonuje się według zasad określonych w art. 5 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
-6. Wierzytelność z tytułu opłaty, o której mowa 1, podlega zabezpieczeniu hipoteką przymusową na nieruchomości objętej przekształceniem prawa wieczystego własności. W przypadku przekształcenia udziału prawie wieczystego nieruchomości, związanego z odrębną własnością lokalu, hipoteka przymusowa obciąża nieruchomość lokalową osoby, na rzecz której nastąpiło przekształcenie. Podstawą wpisu hipoteki jest ostateczna decyzja, o której mowa art. 3 1.
+**Art. 5.** Przekształcenie prawa użytkowania wieczystego w prawo własności nieruchomości następuje nieodpłatnie na rzecz użytkowników wieczystych lub ich następców prawnych:
 
-7. Organ właściwy do wydania decyzji może udzielić bonifikaty od opłaty, o której mowa 1, odniesieniu do nieruchomości stanowiących własność:
+- **1)** którym oddano nieruchomość w użytkowanie wieczyste w zamian za wywłaszczenie lub przejęcie nieruchomości gruntowej na rzecz Skarbu Państwa na podstawie innych tytułów, przed dniem 5 grudnia 1990 r.;
+- **2)** które uzyskały użytkowanie wieczyste na podstawie art. 7 dekretu z dnia 26 października 1945 r. o własności i użytkowaniu gruntów na obszarze m.st. Warszawy (Dz. U. Nr 50, poz. 279).
 
-- **1)** Skarbu Państwa – na podstawie zarządzenia wojewody;
-- **2)** jednostek samorządu terytorialnego – na podstawie uchwały właściwej rady lub sejmiku.
+**Art. 6.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2004 r. Nr 208, poz. 2128, z późn. zm.) w art. 17b:
 
-8. (uchylony).
+- **1)** w ust. 1 po pkt 2 dodaje się pkt 2a w brzmieniu: „
+- **2a)** na cele mieszkaniowe, na realizację urządzeń infrastruktury technicznej oraz innych celów publicznych 1%, ” ;
+- **2)** po ust. 4 dodaje się ust. 4a w brzmieniu: „
 
-9. W odniesieniu do nieruchomości stanowiących własność Skarbu Państwa osobom fizycznym, które wieczystego uzyskały przed dniem 5 grudnia 1990 r., oraz ich następcom prawnym, organ właściwy do wydania decyzji udziela, na ich wniosek, 50 % bonifikaty od opłaty, o której mowa 1.
+4a. Z dniem zawarcia umowy sprzedaży nieruchomości wygasa, z mocy prawa, uprzednio ustanowione prawo użytkowania wieczystego. Przepisu art. 241 Kodeksu cywilnego nie stosuje się. ” .
 
-10. Na wniosek użytkownika wieczystego odniesieniu do nieruchomości lub jej części wpisanych do rejestru zabytków opłatę, o której mowa 1, obniża o 50 %.
+**Art. 7.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2004 r. Nr 261, poz. 2603 i Nr 281, poz. 2782 oraz z 2005 r. Nr 130, poz. 1087 i Nr 169, poz. 1420) w art. 32 ust. 2 otrzymuje brzmienie: „ 2. Z dniem zawarcia umowy sprzedaży nieruchomości wygasa, z mocy prawa, uprzednio ustanowione prawo użytkowania wieczystego. Przepisu art. 241 Kodeksu cywilnego nie stosuje się. ” .
 
-11. W odniesieniu do nieruchomości stanowiących własność Skarbu Państwa organ właściwy do wydania decyzji może, na podstawie zarządzenia wojewody, udzielić wyższej, niż określona 9 i 10, bonifikaty od opłaty, o której mowa
+**Art. 8.** Do spraw wszczętych na podstawie ustaw, o których mowa w art. 9, i niezakończonych decyzją ostateczną, stosuje się przepisy niniejszej ustawy.
 
-1. W odniesieniu do nieruchomości stanowiących własność jednostek samorządu terytorialnego organ właściwy do wydania decyzji może, na podstawie uchwały właściwej rady lub sejmiku, udzielić wyższej, niż określona 10, bonifikaty od opłaty, o której mowa 1.
+**Art. 9.** Tracą moc:
 
-11a. W zarządzeniu wojewody albo uchwale rady lub sejmiku, o których mowa 7 lub 11, określa szczególności warunki udzielania bonifikat i wysokość stawek procentowych. nieruchomości niewykorzystywanej dniu wydania decyzji, o której mowa art. 3 1, do prowadzenia działalności gospodarczej rozumieniu art. 3 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców była dokonana aktualizacja opłaty rocznej z tytułu wieczystego, do ustalenia opłaty, o której mowa 1, przyjmuje wartość nieruchomości gruntowej określoną dla celów tej aktualizacji.
+- **1)** ustawa z dnia 4 września 1997 r. o przekształceniu prawa użytkowania wieczystego przysługującego osobom fizycznym w prawo własności (Dz. U. z 2001 r. Nr 120, poz. 1299 oraz z 2002 r. Nr 113, poz. 984);
+- **2)** ustawa z dnia 26 lipca 2001 r. o nabywaniu przez użytkowników wieczystych prawa własności nieruchomości (Dz. U. Nr 113, poz. 1209, z 2002 r. Nr 113, poz. 984 oraz z 2003 r. Nr 3, poz. 24 i Nr 64, poz. 592).
 
-14. Do wpływów osiąganych z opłat z tytułu przekształcenia stosuje odpowiednio przepis art. 23 3 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
-
-15. Organ, o którym mowa art. 3 1, żąda zwrotu kwoty równej udzielonej bonifikacie po jej waloryzacji, jeżeli osoba, na rzecz której zostało przekształcone wieczystego własności nieruchomości przed upływem 5 lat, licząc od dnia przekształcenia, zbyła lub wykorzystała nieruchomość na inne cele niż cele, które stanowiły podstawę udzielenia bonifikaty. Nie dotyczy to zbycia na rzecz osoby bliskiej rozumieniu art. 4 pkt 13 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, spółdzielni mieszkaniowej przypadku ustanowienia odrębnej własności na rzecz członków oraz właścicieli lokali, którym przekształcono udział prawie wieczystego własności. W szczególnie uzasadnionych przypadkach organ może odstąpić od żądania zwrotu bonifikaty, za zgodą odpowiednio wojewody, rady lub sejmiku.
-
-16. Waloryzacji, o której mowa 15, dokonuje według zasad określonych art. 5 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
-
-17. W przypadkach, o których mowa 5 i 15, do wyrażenia zgody przez wojewodę, radę lub sejmik stosuje odpowiednio przepis art. 11 2 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
-
-**Art. 5.** Przekształcenie prawa wieczystego własności nieruchomości następuje nieodpłatnie na rzecz:
-
-**Art. 6.** (pominięty)
-
-**Art. 7.** (pominięty)
-
-**Art. 7a.** Żądanie, o którym mowa art. 1 i art. 2, może zostać zgłoszone organowi, o którym mowa art. 3, do dnia 31 grudnia 2025 r. wieczystego przysługującego osobom fizycznym własności (Dz. U. z 2001 r. poz. 1299 oraz z 2002 r. poz. 984);
-
-**Art. 10.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia .
+**Art. 10.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

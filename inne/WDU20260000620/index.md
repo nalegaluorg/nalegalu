@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 30 kwietnia 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 maja 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-05-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000620) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/620/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 30 kwietnia 2026 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2025 r. poz. 643), z uwzględnieniem stanu prawnego na dzień 27 kwietnia 2026 r. oraz zmian wprowadzonych:
 1) ustawą z dnia 25 czerwca 2025 r. o zmianie niektórych ustaw związku z zapewnieniem operacyjnej odporności cyfrowej sektora finansowego oraz emitowaniem europejskich zielonych obligacji (Dz. U. poz. 1069);
 2) ustawą z dnia 4 grudnia 2025 r. zmieniającą ustawę o zmianie ustawy Kodeks karny oraz niektórych innych ustaw oraz o zmianie niektórych innych ustaw (Dz. U. poz. 1844);
@@ -39,6 +39,10 @@ poz. 176);
 Art. 341–368. (pominięte)
 
 **Art. 20.** Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia.”;
+
+- **2)** art. 6 ustawy z dnia 4 grudnia 2025 r. zmieniającej ustawę o zmianie ustawy Kodeks karny oraz niektórych innych ustaw oraz o zmianie niektórych innych ustaw (Dz. U. poz. 1844), który stanowi: „Art. 6. Ustawa wchodzi życie z dniem 1 stycznia 2026 r., z wyjątkiem art. 2, art. 3 pkt 2 i art. 4, które wchodzą życie z dniem 1 lipca 2026 r.”; „Art. 35. Ustawa wchodzi życie po upływie 12 miesięcy od dnia ogłoszenia, z wyjątkiem art. 28 i art. 33, które wchodzą życie z dniem 28 lutego 2026 r.”;
+- **4)** art. 10 ustawy z dnia 23 stycznia 2026 r. o zmianie ustawy o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających oraz niektórych innych ustaw (Dz. U. poz. 331), który stanowi: „Art. 10. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.”;
+- **5)** art. 10 i art. 12 ustawy z dnia 23 stycznia 2026 r. o zmianie niektórych ustaw związanych z funkcjonowaniem rynku finansowego oraz ochroną uczestników tego rynku (Dz. U. poz. 340), które stanowią: „Art. 10. Do podmiotu podlegającego likwidacji nie stosuje się przepisów art. 97 ust. 1 i art. 99a ust. 1 ustawy zmienianej art. 8 oraz przepisu art. 99a ust. 6 ustawy zmienianej art. 8, brzmieniu nadanym niniejszą ustawą, odniesieniu do określonego dla tego podmiotu przez Bankowy Fundusz Gwarancyjny przed dniem wejścia życie niniejszej ustawy minimalnego poziomu funduszy własnych i zobowiązań kwalifikowalnych, z wyjątkiem przypadku, o którym mowa art. 97 ust. 2d zdanie drugie ustawy zmienianej art. 8, brzmieniu dotychczasowym. Przepisów art. 89 ustawy zmienianej art. 8, brzmieniu nadanym niniejszą ustawą, i art. 91 ustawy zmienianej art. 8 nie stosuje się.” „Art. 12. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 7 pkt 2, 3, 6 i 7, które wchodzą życie z dniem 9 stycznia 2027 r.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -60,6 +64,184 @@ Art. 341–368. (pominięte)
 3. Przepisów działu II, działu V rozdziału 2 oddziału 1, art. 318, art. 319, art. 330 ust. 3 pkt 1, art. 331 oraz działu IX rozdziału 1 nie stosuje się do banków hipotecznych.
 
 **Art. 2.** Użyte ustawie określenia oznaczają:
+
+- **1)** bank bank krajowy rozumieniu art. 4 ust. 1 pkt 1 ustawy Prawo bankowe;
+- **2)** bank restrukturyzacji bank, wobec którego właściwy organ przymusowej restrukturyzacji wydał decyzję, o której mowa art. 101 ust. 7;
+- **2a)** bank zrzeszający bank, o którym mowa art. 2 pkt 2 ustawy o funkcjonowaniu banków spółdzielczych;
+- **2b)** CCP CCP, o którym mowa art. 2 pkt 1 rozporządzenia nr 648/2012;
+- **2c)** CCP restrukturyzacji CCP, wobec którego Fundusz wydał decyzję o objęciu restrukturyzacją i uporządkowaną likwidacją;
+- **3)** deponent osobę lub podmiot uprawnione do świadczenia pieniężnego, o których mowa art. 20 i art. 21;
+- **3a)** dom maklerski stosujący rozporządzenie nr 575/2013 dom maklerski: holdingową o działalności mieszanej, która:
+    - **a)** wobec którego została wydana decyzja, o której mowa art. 110ac ust. 1 ustawy o obrocie instrumentami finansowymi, lub
+    - **b)** o którym mowa art. 1 ust. 2 lit. a lub b lub ust. 5 rozporządzenia nr 2019/2033;
+    - **a)** nie jest podmiotem zależnym stosunku do banku, instytucji kredytowej lub firmy inwestycyjnej, o której mowa art. 4 ust. 1 pkt 22 rozporządzenia nr 2019/2033, objętej wymogiem dotyczącym kapitału założycielskiego wysokości 750 000 euro, której udzielono zezwolenia tym samym państwie członkowskim, którym siedzibę ma ta spółka, oraz
+    - **b)** nie jest podmiotem zależnym stosunku do finansowej spółki holdingowej, inwestycyjnej spółki holdingowej lub finansowej spółki holdingowej o działalności mieszanej, mających siedzibę tym samym państwie członkowskim, którym siedzibę ma ta spółka;
+
+- **5)** dominująca finansowa spółka holdingowa z państwa członkowskiego dominującą finansową spółkę holdingową z państwa członkowskiego, o której mowa art. 4 ust. 1 pkt 30 rozporządzenia nr 575/2013;
+- **5a)** dominująca inwestycyjna spółka holdingowa z państwa członkowskiego inwestycyjną spółkę holdingową, która:
+    - **a)** nie jest podmiotem zależnym stosunku do firmy inwestycyjnej, o której mowa art. 4 ust. 1 pkt 22 rozporządzenia nr 2019/2033, objętej wymogiem dotyczącym kapitału założycielskiego wysokości 750 000 euro, której zezwolenia na wykonywanie działalności maklerskiej udzielono tym samym państwie członkowskim, którym siedzibę ma ta spółka, oraz
+    - **b)** nie jest podmiotem zależnym stosunku do inwestycyjnej spółki holdingowej lub finansowej spółki holdingowej o działalności mieszanej, mających siedzibę tym samym państwie członkowskim, którym siedzibę ma ta spółka, oraz
+    - **c)** nie jest dominującą finansową spółką holdingową z państwa członkowskiego;
+
+- **6)** (uchylony)
+- **7)** działalność bankowa wykonywanie przez bank czynności, o których mowa art. 5 lub art. 6 ustawy Prawo bankowe;
+- **8)** działalność maklerska działalność, o której mowa art. 69 ust. 2 ustawy o obrocie instrumentami finansowymi, oraz działalność, o której mowa art. 69 ust. 4 tej ustawy, o ile jest wykonywana łącznie z działalnością, o której mowa art. 69 ust. 2 tej ustawy;
+- **8a)** działanie ramach przymusowej restrukturyzacji podjęcie przez Fundusz decyzji o wszczęciu przymusowej restrukturyzacji, o której mowa art. 101 ust. 7 lub art. 102 ust. 1, zastosowanie co najmniej jednego z instrumentów przymusowej restrukturyzacji, o których mowa art. 110, lub wykonanie przez Fundusz uprawnienia przymusowej restrukturyzacji;
+- **9)** dzień roboczy dzień od poniedziałku do piątku, z wyłączeniem dni ustawowo wolnych od pracy;
+- **10)** dzień spełnienia warunku gwarancji:
+    - **a)** przypadku banku dzień zawieszenia działalności banku wskazany decyzji Komisji Nadzoru Finansowego, o której mowa art. 158 ust. 1 lub 2 ustawy Prawo bankowe, i ustanowienia zarządu komisarycznego, o ile nie został on ustanowiony wcześniej, oraz wystąpienia do właściwego sądu z wnioskiem o ogłoszenie upadłości lub dzień wystąpienia przez Fundusz do właściwego sądu z wnioskiem o ogłoszenie upadłości, o którym mowa art. 230 ust. 2 pkt 1,
+    - **b)** przypadku oddziału banku zagranicznego dzień wydania przez sąd postanowienia o uznaniu orzeczenia o wszczęciu zagranicznego postępowania upadłościowego, o którym mowa art. 379 pkt 1 ustawy Prawo upadłościowe, dotyczącego banku zagranicznego, który prowadzi działalność na terytorium Rzeczypospolitej Polskiej formie oddziału, albo dzień wszczęcia postępowania upadłościowego obejmującego majątek banku zagranicznego położony na terytorium Rzeczypospolitej Polskiej,
+    - **c)** przypadku kasy dzień zawieszenia działalności kasy wskazany decyzji Komisji Nadzoru Finansowego, o której mowa art. 74k ust. 1 lub 2 ustawy o spółdzielczych kasach oszczędnościowo-kredytowych, i ustanowienia zarządcy komisarycznego, o ile nie został on ustanowiony wcześniej, oraz wystąpienia do właściwego sądu z wnioskiem o ogłoszenie upadłości lub dzień wystąpienia przez Fundusz do właściwego sądu z wnioskiem o ogłoszenie upadłości, o którym mowa art. 230 ust. 2 pkt 2;
+
+- **11)** Europejski Urząd Nadzoru Bankowego Europejski Urząd Nadzoru Bankowego, o którym mowa rozporządzeniu nr 1093/2010;
+- **12)** finansowa spółka holdingowa finansową spółkę holdingową, o której mowa art. 4 ust. 1 pkt 20 rozporządzenia nr 575/2013; mowa art. 4 ust. 1 pkt 21 rozporządzenia nr 575/2013;
+- **14)** firma inwestycyjna dom maklerski rozumieniu przepisów ustawy o obrocie instrumentami finansowymi, który posiada zezwolenie na prowadzenie działalności zakresie, o którym mowa art. 69 ust. 2 pkt 3, 7 lub 9 tej ustawy;
+- **15)** firma inwestycyjna restrukturyzacji firmę inwestycyjną, wobec której właściwy organ przymusowej restrukturyzacji wydał decyzję, o której mowa art. 101 ust. 7;
+- **16)** fundusze własne fundusze własne, o których mowa art. 4 ust. 1 pkt 118 rozporządzenia nr 575/2013, a przypadku firm inwestycyjnych niebędących domami maklerskimi stosującymi rozporządzenie nr 575/2013 fundusze własne, o których mowa art. 9 rozporządzenia nr 2019/2033;
+- **17)** funkcje krytyczne usługi, operacje lub inną działalność podmiotu lub grupy, których zaprzestanie mogłoby prowadzić, jednym lub kilku państwach członkowskich będących członkiem Unii Europejskiej, do zakłóceń funkcjonowaniu gospodarki lub zagrozić stabilności finansowej ze względu na wielkość podmiotu lub grupy, ich udział rynku, złożoność, działalność transgraniczną, powiązania gospodarcze lub finansowe, szczególności uwzględniając możliwość wykonywania tych usług, operacji lub innej działalności przez inne podmioty;
+- **17a)** globalna instytucja o znaczeniu systemowym jednostkę, o której mowa art. 4 ust. 1 pkt 133 rozporządzenia nr 575/2013;
+- **18)** główna linia biznesowa wyodrębnioną na potrzeby zarządcze część działalności, która stanowi dla podmiotu lub grupy, skład której wchodzi podmiot, istotne źródło przychodów, zysku lub wartości przedsiębiorstwa;
+- **19)** grupa podmiot dominujący oraz podmioty zależne, o których mowa art. 4 ust. 1 pkt 16 rozporządzenia nr 575/2013;
+- **19a)** grupa podlegająca przymusowej restrukturyzacji:
+    - **a)** podmiot podlegający przymusowej restrukturyzacji oraz jego podmioty zależne, o ile żaden z tych podmiotów zależnych: nie jest podmiotem podlegającym przymusowej restrukturyzacji, nie jest podmiotem zależnym innych podmiotów podlegających przymusowej restrukturyzacji, nie jest podmiotem mającym siedzibę państwie trzecim, który zgodnie z planem przymusowej restrukturyzacji nie wchodzi skład grupy podlegającej przymusowej restrukturyzacji, ani nie jest podmiotem zależnym tego podmiotu mającego siedzibę państwie trzecim, albo
+    - **b)** organ centralny, bank lub instytucję kredytową trwale powiązane z organem centralnym, a także ich podmioty zależne, przypadku gdy organ centralny lub co najmniej jeden bank lub jedna instytucja kredytowa jest podmiotem podlegającym przymusowej restrukturyzacji;
+
+- **20)** grupowy plan przymusowej restrukturyzacji plan sporządzony przez właściwy organ przymusowej restrukturyzacji dla grupy określający sposób, jaki ten organ zamierza prowadzić restrukturyzację grupy;
+- **21)** holding mieszany holding mieszany, o którym mowa art. 4 ust. 1 pkt 22 rozporządzenia nr 575/2013, lub holding mieszany rozumieniu art. 110a ust. 1 pkt 6c ustawy o obrocie instrumentami finansowymi;
+- **22)** instrument pochodny instrument pochodny, o którym mowa art. 2 pkt 5 rozporządzenia nr 648/2012;
+- **22a)** instrumenty dodatkowe Tier I instrumenty kapitałowe spełniające warunki określone art. 52 ust. 1 rozporządzenia nr 575/2013;
+- **23)** instrumenty finansowe instrumenty finansowe, o których mowa art. 2 ustawy o obrocie instrumentami finansowymi;
+- **23a)** instrumenty kapitale podstawowym Tier I instrumenty kapitałowe spełniające warunki określone art. 28 ust. 1–4, art. 29 ust. 1–5 lub art. 31 ust. 1 rozporządzenia nr 575/2013;
+- **23b)** instrumenty Tier II instrumenty kapitałowe lub pożyczki podporządkowane, spełniające warunki określone art. 63 rozporządzenia nr 575/2013;
+- **24)** instytucja finansowa instytucję finansową, o której mowa art. 4 ust. 1 pkt 26 rozporządzenia nr 575/2013, lub instytucję finansową, o której mowa art. 4 ust. 1 pkt 14 rozporządzenia nr 2019/2033;
+- **25)** instytucja kredytowa instytucję kredytową, o której mowa art. 4 ust. 1 pkt 1 rozporządzenia nr 575/2013, mającą siedzibę na terytorium państwa członkowskiego innego niż Rzeczpospolita Polska; rzony celu przeniesienia na ten podmiot praw udziałowych podmiotu restrukturyzacji, jego przedsiębiorstwa albo praw majątkowych lub zobowiązań podmiotu restrukturyzacji celu kontynuowania całości lub części działalności prowadzonej przez podmiot restrukturyzacji;
+- **26a)** inwestycyjna spółka holdingowa inwestycyjną spółkę holdingową, o której mowa art. 4 ust. 1 pkt 23 rozporządzenia nr 2019/2033;
+- **27)** istotny oddział:
+    - **a)** przypadku oddziału instytucji kredytowej oddział uznany za istotny zgodnie z art. 141f ust. 13 ustawy Prawo bankowe,
+    - **b)** (uchylona)
+    - **c)** przypadku oddziału banku prowadzącego działalność poza terytorium Rzeczypospolitej Polskiej oddział uznany za istotny przez organy państwa przyjmującego;
+
+- **27a)** istotny podmiot zależny istotną jednostkę zależną, o której mowa art. 4 ust. 1 pkt 135 rozporządzenia nr 575/2013;
+- **27b)** kapitał podstawowy Tier I kapitał podstawowy Tier I obliczony zgodnie z art. 50 rozporządzenia nr 575/2013;
+- **28)** kasa spółdzielczą kasę oszczędnościowo-kredytową;
+- **29)** Kasa Krajowa Krajową Spółdzielczą Kasę Oszczędnościowo-Kredytową;
+- **30)** kasa restrukturyzacji kasę, wobec której właściwy organ przymusowej restrukturyzacji wydał decyzję, o której mowa art. 101 ust. 7;
+- **31)** kolegium przymusowej restrukturyzacji kolegium utworzone zgodnie z art. 127 ust. 1;
+- **32)** (uchylony)
+- **33)** krajowy podmiot dominujący:
+    - **a)** bank będący unijną instytucją dominującą lub firmę inwestycyjną będącą unijną dominującą firmą inwestycyjną,
+    - **b)** unijną dominującą finansową spółkę holdingową, unijną dominującą finansową spółkę holdingową o działalności mieszanej lub unijną dominującą inwestycyjną spółkę holdingową, jeżeli są objęte nadzorem skonsolidowanym, nadzorem nad grupą firm inwestycyjnych na zasadzie skonsolidowanej lub nadzorem nad zgodnością z grupowym testem kapitałowym, o których mowa przepisach działu IV rozdziału 1 oddziału 2a ustawy o obrocie instrumentami finansowymi, sprawowanym przez Komisję Nadzoru Finansowego;
+
+- **33a)** krajowy podmiot zależny podmiot zależny mający siedzibę na terytorium Rzeczypospolitej Polskiej;
+- **33b)** łączna kwota ekspozycji na ryzyko kwotę obliczoną zgodnie z art. 92 ust. 3 rozporządzenia nr 575/2013;
+- **34)** obowiązkowy system gwarantowania depozytów system gwarantowania środków pieniężnych funkcjonujący na podstawie ustawy;
+- **35)** oddział banku zagranicznego oddział banku zagranicznego rozumieniu art. 4 ust. 1 pkt 20 ustawy Prawo bankowe;
+- **36)** oficjalnie uznany system gwarantowania depozytów system gwarantowania środków pieniężnych, utworzony i urzędowo uznany państwie członkowskim;
+- **36a)** organ centralny podmiot, o którym mowa art. 10 ust. 1 rozporządzenia nr 575/2013;
+- **37)** państwo członkowskie państwo będące członkiem Unii Europejskiej lub Europejskiego Obszaru Gospodarczego;
+- **38)** państwo trzecie państwo inne niż państwo członkowskie;
+- **39)** plan przymusowej restrukturyzacji plan sporządzony przez właściwy organ przymusowej restrukturyzacji, określający sposób, tym zastosowanie instrumentów przymusowej restrukturyzacji, jaki ten organ zamierza prowadzić restrukturyzację podmiotu;
+- **39a)** podmiot dominujący podmiot, o którym mowa art. 4 ust. 1 pkt 15 lit. a rozporządzenia nr 575/2013;
+- **40)** podmiot krajowy bank, firmę inwestycyjną lub kasę;
+- **41)** podmiot objęty systemem gwarantowania objęty obowiązkowym systemem gwarantowania depozytów:
+    - **a)** bank, z wyjątkiem banku hipotecznego, gwarantowania środków pieniężnych, którym uczestniczy, nie zapewnia gwarantowania środków pieniężnych co najmniej zakresie i wysokości określonych ustawie,
+    - **c)** kasę;
+
+- **41a)** podmiot podlegający przymusowej restrukturyzacji:
+    - **a)** bank, instytucję kredytową lub firmę inwestycyjną, które nie są częścią grupy objętej nadzorem skonsolidowanym zgodnie z przepisami państwa członkowskiego, wobec których planie przymusowej restrukturyzacji opracowanym zgodnie z art. 73 przewidziano działanie ramach przymusowej restrukturyzacji,
+    - **b)** osobę prawną mającą siedzibę państwie członkowskim, która została wskazana planie przymusowej restrukturyzacji opracowanym zgodnie z art. 77 ust. 2 lub grupowym planie przymusowej restrukturyzacji opracowanym zgodnie z art. 74 ust. 1 jako podmiot, wobec którego przewidziano działanie ramach przymusowej restrukturyzacji;
+
+- **41b)** podmiot podlegający likwidacji:
+    - **a)** osobę prawną mającą siedzibę państwie członkowskim, której likwidację ramach postępowania upadłościowego przewidziano grupowym planie przymusowej restrukturyzacji lub planie przymusowej restrukturyzacji,
+    - **b)** niebędący podmiotem podlegającym przymusowej restrukturyzacji podmiot należący do grupy podlegającej przymusowej restrukturyzacji, wobec którego grupowym planie przymusowej restrukturyzacji nie przewidziano umorzenia lub konwersji instrumentów kapitałowych lub zobowiązań kwalifikowalnych;
+
+- **42)** podmiot rezydualny podmiot restrukturyzacji, wobec którego Fundusz podjął decyzję o likwidacji lub wystąpił z wnioskiem o ogłoszenie jego upadłości;
+- **43)** podmiot uprawniony do reprezentacji przypadku:
+    - **a)** banku zarząd, zarząd komisaryczny, likwidatora, administratora, zastępcę administratora albo pełnomocnika ustanowionego przez Fundusz, a jeżeli ogłoszono upadłość banku syndyka,
+    - **b)** oddziału banku zagranicznego dyrektora oddziału albo zarządcę zagranicznego, o którym mowa art. 379 pkt 4 ustawy Prawo upadłościowe,
+    - **c)** kasy zarząd, zarządcę komisarycznego, likwidatora, administratora, zastępcę administratora albo pełnomocnika ustanowionego przez Fundusz, a jeżeli ogłoszono upadłość kasy syndyka;
+
+- **44)** podmiot restrukturyzacji podmiot, wobec którego właściwy organ przymusowej restrukturyzacji wydał decyzję, o której mowa art. 101 ust. 7–9 i art. 102 ust. 1 i 4;
+- **45)** podmiot zależny:
+    - **a)** podmiot, o którym mowa art. 4 ust. 1 pkt 16 rozporządzenia nr 575/2013,
+    - **b)** bank lub instytucję kredytową trwale powiązane z organem centralnym, organ centralny oraz ich podmioty zależne, zakresie, jakim do grupy podlegającej przymusowej restrukturyzacji, o której mowa pkt 19a lit. b, stosuje się przepisy art. 70–72, art. 82, art. 91–95, art. 97–99, art. 132–134, z uwzględnieniem sposobu, jaki spełniają wymogi określone art. 98 ust. 2a, oraz przepis art. 141n ustawy Prawo bankowe;
+
+- **46)** podmiot zarządzający aktywami podmiot, którego jedynym akcjonariuszem lub podmiotem dominującym jest Fundusz, utworzony celu przeniesienia praw majątkowych i powiązanych z nimi zobowiązań podmiotu restrukturyzacji lub instytucji pomostowej celu zarządzania tymi prawami, tym ich zbycia lub likwidacji;
+- **47)** podmiot znaczący podmiot, który indywidualnie spełnia jedną z przesłanek: nr 575/2013, z wyłączeniem instrumentów, o których mowa art. 72b ust. 3–5 tego rozporządzenia;
+    - **a)** łączna wartość jego aktywów ustalona na podstawie ostatniego zatwierdzonego sprawozdania finansowego przekracza równowartość złotych kwoty 30 000 000 000 euro według średniego kursu ogłoszonego przez Narodowy Bank Polski na dzień sporządzenia tego sprawozdania,
+    - **b)** stosunek całkowitej wartości jego aktywów do produktu krajowego brutto państwa członkowskiego, którym ma siedzibę, przekracza 20 %, chyba że wartość jego aktywów ustalona na podstawie ostatniego zatwierdzonego sprawozdania finansowego jest niższa niż równowartość złotych kwoty 5 000 000 000 euro według średniego kursu ogłoszonego przez Narodowy Bank Polski na dzień sporządzenia tego sprawozdania;
+
+- **48)** prawa udziałowe akcje, udziały, prawa poboru, prawa do akcji, warranty subskrypcyjne i inne zbywalne papiery wartościowe inkorporujące prawa majątkowe odpowiadające prawom wynikającym z akcji oraz inne zbywalne prawa majątkowe, które powstają wyniku emisji, inkorporujące uprawnienie do nabycia lub objęcia papierów wartościowych określonych wcześniej;
+- **49)** przejęcie przedsiębiorstwa instrument przymusowej restrukturyzacji polegający na przejęciu:
+    - **a)** przedsiębiorstwa prowadzonego przez podmiot restrukturyzacji lub
+    - **b)** wybranych albo wszystkich praw majątkowych podmiotu restrukturyzacji lub wybranych albo wszystkich zobowiązań tego podmiotu, lub
+    - **c)** praw udziałowych podmiotu restrukturyzacji;
+
+- **50)** rachunek podmiocie objętym systemem gwarantowania rachunek bankowy banku lub oddziale banku zagranicznego lub rachunek kasie;
+- **51)** rejestr instrumentów finansowych prowadzoną przez podmiot postaci elektronicznej ewidencję otwartych pozycji z tytułu transakcji instrumentami finansowymi zapewniającą możliwość bezzwłocznego uzyskania wszystkich danych pozwalających szczególności na identyfikację typu instrumentu finansowego, należności lub zobowiązań z tytułu transakcji, waluty transakcji, strony transakcji, terminu transakcji, sposobu rozliczenia, zabezpieczenia transakcji i prawa właściwego dla transakcji;
+- **52)** rozporządzenie nr 1093/2010 rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1093/2010 z dnia 24 listopada 2010 r. sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Bankowego), zmiany decyzji nr 716/2009/WE oraz uchylenia decyzji Komisji 2009/78/WE (Dz. Urz. UE L 331 z 15.12.2010, str. 12, z późn. zm.);
+- **53)** rozporządzenie nr 648/2012 rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r. sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 201 z 27.07.2012, str. 1, z późn. zm.);
+- **54)** rozporządzenie nr 575/2013 rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniające rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm. );
+- **54a)** rozporządzenie nr 596/2014 rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 596/2014 z dnia 16 kwietnia 2014 r. sprawie nadużyć na rynku (rozporządzenie sprawie nadużyć na rynku) oraz uchylające dyrektywę 2003/6/WE Parlamentu Europejskiego i Rady i dyrektywy Komisji 2003/124/WE, 2003/125/WE i 2004/72/WE (Dz. Urz. UE L 173 z 12.06.2014, str. 1, z późn. zm. );
+- **55)** rozporządzenie nr 2015/63 rozporządzenie delegowane Komisji (UE) 2015/63 z dnia 21 października 2014 r. uzupełniające dyrektywę Parlamentu Europejskiego i Rady 2014/59/UE odniesieniu do składek ex ante wnoszonych na rzecz mechanizmów finansowania restrukturyzacji i uporządkowanej likwidacji (Dz. Urz. UE L 11 z 17.01.2015, str. 44);
+- **55a)** rozporządzenie nr 2017/1129 rozporządzenie Parlamentu Europejskiego i Rady (UE) 2017/1129 z dnia 14 czerwca 2017 r. sprawie prospektu, który ma być publikowany związku z ofertą publiczną papierów wartościowych lub dopuszczeniem ich do obrotu na rynku regulowanym oraz uchylenia dyrektywy 2003/71/WE (Dz. Urz. UE L 168 z 30.06.2017, str. 12);
+- **55b)** rozporządzenie nr 2019/2033 rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/2033 z dnia 27 listopada 2019 r. sprawie wymogów ostrożnościowych dla firm inwestycyjnych oraz zmieniające rozporządzenia (UE) nr 1093/2010, (UE) nr 575/2013, (UE) nr 600/2014 i (UE) nr 806/2014 (Dz. Urz. UE L 314 z 05.12.2019, str. 1, z późn. zm. ); sprawie ram na potrzeby prowadzenia działań naprawczych oraz restrukturyzacji i uporządkowanej likwidacji odniesieniu do kontrahentów centralnych oraz zmieniające rozporządzenia (UE) nr 1095/2010, (UE) nr 648/2012, (UE) nr 600/2014, (UE) nr 806/2014 i (UE) 2015/2365 oraz dyrektywy 2002/47/WE, 2004/25/WE, 2007/36/WE, 2014/59/UE i (UE) 2017/1132 (Dz. Urz. UE L 22 z 22.01.2021, str. 1);
+- **55d)** rozporządzenie 2022/2554 rozporządzenie Parlamentu Europejskiego i Rady (UE) 2022/2554 z dnia 14 grudnia 2022 r. sprawie operacyjnej odporności cyfrowej sektora finansowego i zmieniające rozporządzenia (WE) nr 1060/2009, (UE) nr 648/2012, (UE) nr 600/2014, (UE) nr 909/2014 oraz (UE) 2016/1011 (Dz. Urz. UE L 333 z 27.12.2022, str. 1, z późn. zm. );
+- **56)** rynek regulowany rynek regulowany, o którym mowa art. 14 ust. 1 ustawy o obrocie instrumentami finansowymi;
+- **57)** spełnienie warunku gwarancji:
+    - **a)** przypadku banku, z wyjątkiem banku hipotecznego: wydanie przez Komisję Nadzoru Finansowego decyzji o zawieszeniu działalności banku, o której mowa art. 158 ust. 1 lub 2 ustawy Prawo bankowe, i ustanowienie zarządu komisarycznego, o ile nie został on ustanowiony wcześniej, oraz wystąpienie do właściwego sądu z wnioskiem o ogłoszenie upadłości albo wystąpienie przez Fundusz do właściwego sądu z wnioskiem o ogłoszenie upadłości, o którym mowa art. 230 ust. 2 pkt 1,
+    - **b)** przypadku oddziału banku zagranicznego wydanie przez sąd postanowienia o uznaniu orzeczenia o wszczęciu zagranicznego postępowania upadłościowego, o którym mowa art. 379 pkt 1 ustawy Prawo upadłościowe, dotyczącego banku zagranicznego, który prowadzi działalność Rzeczypospolitej Polskiej formie oddziału, albo wszczęcie postępowania upadłościowego obejmującego majątek banku zagranicznego położony na terytorium Rzeczypospolitej Polskiej,
+    - **c)** przypadku kasy: wydanie przez Komisję Nadzoru Finansowego decyzji o zawieszeniu działalności kasy, o której mowa art. 74k ust. 1 lub 2 ustawy o spółdzielczych kasach oszczędnościowo-kredytowych, i ustanowienie zarządcy komisarycznego, o ile nie został on ustanowiony wcześniej, oraz wystąpienie do właściwego sądu z wnioskiem o ogłoszenie upadłości albo wystąpienie przez Fundusz do właściwego sądu z wnioskiem o ogłoszenie upadłości, o którym mowa art. 230 ust. 2 pkt 2;
+
+- **58)** system goszczący oficjalnie uznany system gwarantowania depozytów państwie członkowskim innym niż Rzeczpospolita Polska, na którego terytorium podmiot objęty systemem gwarantowania wykonuje działalność przez oddział;
+- **59)** system macierzysty oficjalnie uznany system gwarantowania depozytów, do którego należy instytucja kredytowa, o której mowa art. 4 ust. 1 pkt 17 ustawy Prawo bankowe, państwie członkowskim, którym ta instytucja kredytowa uzyskała zezwolenie na wykonywanie działalności i na którego terytorium ma siedzibę;
+- **60)** system ochrony instytucjonalnej instytucjonalny system ochrony, o którym mowa art. 113 ust. 7 rozporządzenia nr 575/2013;
+- **61)** system płatności system płatności, o którym mowa art. 1 pkt 1 ustawy o ostateczności rozrachunku;
+- **62)** system rekompensat system rekompensat, o którym mowa art. 133 ust. 1 ustawy o obrocie instrumentami finansowymi;
+- **63)** system rozrachunku system rozrachunku papierów wartościowych, o którym mowa art. 1 pkt 2 ustawy o ostateczności rozrachunku;
+- **64)** system wyliczania system informatyczny podmiotu objętego systemem gwarantowania przeznaczony do zapewnienia możliwości niezwłocznego uzyskania danych pozwalających na identyfikację deponentów oraz określenie wysokości środków gwarantowanych należnych poszczególnym deponentom;
+- **65)** środki gwarantowane środki deponenta objęte ochroną gwarancyjną do wysokości, o której mowa art. 24 ust. 1, 3 i 4; restrukturyzacji banków do wykorzystania na ten cel;
+- **67)** środki na finansowanie przymusowej restrukturyzacji kas środki funduszu przymusowej restrukturyzacji kas do wykorzystania na ten cel;
+- **68)** środki objęte ochroną gwarancyjną środki deponenta objęte ochroną zgodnie z art. 17–19;
+- **69)** środki systemu gwarantowania depozytów bankach środki funduszu gwarancyjnego banków do wykorzystania oraz funduszu statutowego po pomniejszeniu o:
+    - **a)** wartość rzeczowych aktywów trwałych oraz wartości niematerialnych i prawnych,
+    - **b)** wartość środków przeznaczonych decyzją Rady Funduszu na pokrycie różnicy, o której mowa art. 258n ust. 1;
+
+- **70)** środki systemu gwarantowania depozytów kasach środki funduszu gwarancyjnego kas do wykorzystania;
+- **71)** umorzenie lub konwersja zobowiązań instrument przymusowej restrukturyzacji polegający na umorzeniu zobowiązań celu pokrycia strat lub zamianie zobowiązań na instrumenty kapitałowe;
+- **71a)** umowy finansowe:
+    - **a)** umowy będące instrumentami finansowymi rozumieniu ustawy o obrocie instrumentami finansowymi,
+    - **b)** niebędące instrumentami finansowymi, o których mowa lit. a, umowy dotyczące obrotu towarami,
+    - **c)** niebędące instrumentami finansowymi, o których mowa lit. a, opcje, kontrakty terminowe, swapy, umowy forward oraz inne prawa majątkowe, których cena lub wartość zależy bezpośrednio lub pośrednio od ceny lub wartości składnika majątku, usługi, prawa lub udziału,
+    - **d)** umowy pożyczki międzybankowej, jeżeli termin spłaty pożyczki wynosi 3 miesiące albo jest krótszy,
+    - **e)** umowy ramowe, których przedmiotem jest zawieranie umów, o których mowa lit. a–d;
+
+- **72)** unijna dominująca finansowa spółka holdingowa unijną dominującą finansową spółkę holdingową, o której mowa art. 4 ust. 1 pkt 31 rozporządzenia nr 575/2013;
+- **73)** unijna dominująca finansowa spółka holdingowa o działalności mieszanej unijną dominującą finansową spółkę holdingową o działalności mieszanej, o której mowa art. 4 ust. 1 pkt 33 rozporządzenia nr 575/2013, lub unijną dominującą finansową spółkę holdingową o działalności mieszanej, o której mowa art. 4 ust. 1 pkt 58 rozporządzenia nr 2019/2033;
+- **73a)** unijna dominująca firma inwestycyjna unijną dominującą firmę inwestycyjną, o której mowa art. 4 ust. 1 pkt 29b rozporządzenia nr 575/2013, lub unijną dominującą firmę inwestycyjną, o której mowa art. 4 ust. 1 pkt 56 rozporządzenia nr 2019/2033;
+- **73b)** unijna dominująca inwestycyjna spółka holdingowa unijną dominującą inwestycyjną spółkę holdingową, o której mowa art. 4 ust. 1 pkt 57 rozporządzenia nr 2019/2033;
+- **74)** unijna instytucja dominująca unijną instytucję dominującą, o której mowa art. 4 ust. 1 pkt 29 rozporządzenia nr 575/2013;
+- **74a)** ustawa o funkcjonowaniu banków spółdzielczych ustawę z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających (Dz. U. z 2025 r. poz. 265 i 1191 oraz z 2026 r. poz. 331);
+- **74b)** ustawa o nadzorze makroostrożnościowym ustawę z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym systemie finansowym (Dz. U. z 2025 r. poz. 819);
+- **75)** ustawa o obrocie instrumentami finansowymi ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722, z późn. zm. );
+- **76)** ustawa o ostateczności rozrachunku ustawę z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami (Dz. U. z 2024 r. poz. 585 oraz z 2026 r. poz. 340);
+- **77)** ustawa o spółdzielczych kasach oszczędnościowo-kredytowych ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2025 r. poz. 379, 820, 1069, 1170 i 1191 oraz z 2026 r. poz. 331);
+- **79)** ustawa Prawo upadłościowe ustawę z dnia 28 lutego 2003 r. Prawo upadłościowe (Dz. U. z 2025 r. poz. 614, 1085, 1170 i 1172 oraz z 2026 r. poz. 331 i 340);
+- **80)** wiążąca mediacja procedurę określoną art. 19 rozporządzenia nr 1093/2010;
+- **81)** właściciel akcjonariusza, wspólnika spółki albo członka spółdzielni;
+- **81a)** właściwa instytucja dominująca dominującą instytucję z państwa członkowskiego, dominującą firmę inwestycyjną z państwa członkowskiego, o której mowa art. 4 ust. 1 pkt 29a rozporządzenia 575/2013, unijną instytucję dominującą, unijną dominującą firmę inwestycyjną, o której mowa art. 4 ust. 1 pkt 29b rozporządzenia 575/2013, finansową spółkę holdingową, inwestycyjną spółkę holdingową, finansową spółkę holdingową o działalności mieszanej, holding mieszany, dominującą finansową spółkę holdingową z państwa członkowskiego, dominującą inwestycyjną spółkę holdingową z państwa członkowskiego, unijną dominującą finansową spółkę holdingową, unijną dominującą inwestycyjną spółkę holdingową, dominującą finansową spółkę holdingową o działalności mieszanej z państwa członkowskiego lub unijną dominującą finansową spółkę holdingową o działalności mieszanej, odniesieniu do której zastosowano instrument umorzenia lub konwersji zobowiązań;
+- **82)** właściwy organ przymusowej restrukturyzacji organ państwa członkowskiego wykonujący zadania z zakresu przymusowej restrukturyzacji albo Jednolitą Radę do spraw Restrukturyzacji i Uporządkowanej Likwidacji utworzoną na mocy rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 806/2014 z dnia 15 lipca 2014 r. ustanawiającego jednolite zasady i jednolitą procedurę restrukturyzacji i uporządkowanej likwidacji instytucji kredytowych i niektórych firm inwestycyjnych ramach jednolitego mechanizmu restrukturyzacji i uporządkowanej likwidacji oraz jednolitego funduszu restrukturyzacji i uporządkowanej likwidacji oraz zmieniającego rozporządzenie (UE) nr 1093/2010 (Dz. Urz. UE L 225 z 30.07.2014, str. 1);
+- **83)** właściwy organ przymusowej restrukturyzacji dla grupy organ przymusowej restrukturyzacji właściwy państwie członkowskim, którego organ nadzoru sprawuje nadzór skonsolidowany, albo Jednolitą Radę do spraw Restrukturyzacji i Uporządkowanej Likwidacji utworzoną na mocy rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 806/2014 z dnia 15 lipca 2014 r. ustanawiającego jednolite zasady i jednolitą procedurę restrukturyzacji i uporządkowanej likwidacji instytucji kredytowych i niektórych firm inwestycyjnych ramach jednolitego mechanizmu restrukturyzacji i uporządkowanej likwidacji oraz jednolitego funduszu restrukturyzacji i uporządkowanej likwidacji oraz zmieniającego rozporządzenie (UE) nr 1093/2010;
+- **84)** właściwy organ przymusowej restrukturyzacji dla istotnego oddziału właściwy organ przymusowej restrukturyzacji państwie członkowskim, na którego terytorium podmiot utworzył istotny oddział;
+- **85)** właściwy organ przymusowej restrukturyzacji dla podmiotu zależnego właściwy organ przymusowej restrukturyzacji państwie członkowskim, na którego terytorium ma siedzibę podmiot zależny;
+- **86)** właściwy organ przymusowej restrukturyzacji państwa trzeciego organ przymusowej restrukturyzacji państwa trzeciego wykonujący zadania z zakresu przymusowej restrukturyzacji;
+- **87)** wspólna decyzja porozumienie podjęte ramach kolegium przymusowej restrukturyzacji przez właściwe organy przymusowej restrukturyzacji;
+- **88)** wydzielenie praw majątkowych instrument przymusowej restrukturyzacji polegający na przeniesieniu wybranych praw majątkowych i powiązanych z nimi zobowiązań z podmiotu restrukturyzacji albo instytucji pomostowej do podmiotu zarządzającego aktywami;
+- **88a)** wymóg połączonego bufora wymóg, o którym mowa art. 55 ust. 4 ustawy o nadzorze makroostrożnościowym;
+- **89)** zagraniczne postępowanie przymusowej restrukturyzacji przymusową restrukturyzację wszczętą państwie trzecim;
+- **90)** zagraniczny podmiot restrukturyzacji podmiot z siedzibą państwie trzecim, wobec którego wydano decyzję o wszczęciu przymusowej restrukturyzacji;
+- **90a)** zobowiązania kwalifikowalne zobowiązania mogące podlegać umorzeniu lub konwersji, które spełniają warunki określone art. 97a–97g lub art. 98 ust. 2l pkt 1, oraz instrumenty Tier II, o których mowa art. 72a ust. 1 lit. b rozporządzenia nr 575/2013;
+- **90b)** zobowiązania mogące podlegać umorzeniu lub konwersji zobowiązania i instrumenty kapitałowe, które nie kwalifikują się do instrumentów kapitale podstawowym Tier I, instrumentów dodatkowych Tier I lub instrumentów Tier II podmiotu, o którym mowa art. 64 pkt 2, i które nie są wyłączone z umorzenia lub konwersji zobowiązań na podstawie art. 206 ust. 1; wykonania jest zabezpieczone przez obciążenie, szczególności przez zastaw, hipotekę lub inną formę zabezpieczenia ustanowionego na prawach majątkowych dłużnika, tym zobowiązanie wynikające z transakcji z udzielonym przyrzeczeniem odkupu i innych uzgodnień dotyczących zabezpieczeń finansowych polegających na przeniesieniu tytułu do tego prawa majątkowego.
 
 #### Rozdział 2 Status, zadania i organy Funduszu
 
@@ -99,7 +281,7 @@ Art. 341–368. (pominięte)
 - **2)** kontrola danych zawartych systemach wyliczania podmiotów objętych systemem gwarantowania;
 - **3)** restrukturyzacja podmiotów, o których mowa art. 64 pkt 2, przez umorzenie lub konwersję instrumentów kapitałowych;
 - **4)** prowadzenie przymusowej restrukturyzacji;
-- **4a)** wykonywanie zadań organu do spraw restrukturyzacji i uporządkowanej likwidacji CCP, o których mowa rozporządzeniu nr 2021/23;
+- **4a)** wykonywanie zadań organu do spraw restrukturyzacji i uporządkowanej likwidacji CCP, o których mowa rozporządzeniu nr 2021/23; restrukturyzacji;
 - **6)** gromadzenie i analizowanie informacji o podmiotach objętych systemem gwarantowania oraz o bankach hipotecznych, szczególności celu opracowywania analiz i prognoz dotyczących sektora bankowego i sektora kas oraz poszczególnych banków i kas;
 - **7)** prowadzenie innych działań na rzecz stabilności krajowego systemu finansowego.
 
@@ -183,7 +365,7 @@ Art. 341–368. (pominięte)
 
 5. Kadencja Rady Funduszu trwa 3 lata, przy czym z upływem kadencji wygasają mandaty wszystkich jej członków.
 
-6. Mandat członka Rady Funduszu wygasa z upływem kadencji Rady Funduszu, wskutek śmierci, złożenia rezygnacji albo odwołania z Rady Funduszu.
+6. Mandat członka Rady Funduszu wygasa z upływem kadencji Rady Funduszu, wskutek śmierci, złożenia rezygnacji albo odwołania z Rady Funduszu. nowego członka następuje na okres do końca kadencji Rady Funduszu.
 
 8. Po upływie kadencji Rady Funduszu członkowie Rady Funduszu pełnią obowiązki do dnia powołania nowej Rady Funduszu.
 
@@ -214,7 +396,7 @@ Art. 341–368. (pominięte)
     - **b)** wysokości składek nadzwyczajnych na fundusz gwarancyjny banków, fundusz gwarancyjny kas, fundusz przymusowej restrukturyzacji banków i fundusz przymusowej restrukturyzacji kas, o których mowa odpowiednio art. 291 ust. 1, art. 292 ust. 1, art. 299 ust. 1 i art. 300 ust. 1, oraz terminu ich wniesienia,
     - **c)** zasad odraczania terminów płatności składek nadzwyczajnych na fundusz przymusowej restrukturyzacji banków i fundusz przymusowej restrukturyzacji kas,
     - **d)** zasad sporządzania, akceptacji i oceny wykonalności planów przymusowej restrukturyzacji i grupowych planów przymusowej restrukturyzacji,
-    - **e)** szczegółowych wewnętrznych zasad prowadzenia przez Fundusz przymusowej restrukturyzacji,
+    - **e)** szczegółowych wewnętrznych zasad prowadzenia przez Fundusz przymusowej restrukturyzacji, przymusowej restrukturyzacji,
     - **g)** zasad przeprowadzania oszacowań na potrzeby przymusowej restrukturyzacji,
     - **h)** zasad udzielania przez Fundusz pożyczek, o których mowa pkt 6, z funduszu gwarancyjnego banków, funduszu gwarancyjnego kas, funduszu przymusowej restrukturyzacji banków i funduszu przymusowej restrukturyzacji kas,
     - **i)** zmniejszenia częstotliwości przeglądów planów przymusowej restrukturyzacji dla niektórych podmiotów i grupowych planów przymusowej restrukturyzacji,
@@ -383,7 +565,7 @@ Art. 341–368. (pominięte)
 
 3. Fundusz nie ponosi odpowiedzialności za niewykonanie zadań określonych ustawie, tym niedokonanie wypłaty środków gwarantowanych terminach określonych ustawą, jeżeli było to spowodowane siłą wyższą.
 
-4. Członkowie organów Funduszu działający z należytą starannością nie ponoszą odpowiedzialności za szkodę wynikłą z niewłaściwej realizacji wypłat środków gwarantowanych. jako organu przymusowej restrukturyzacji albo organu do spraw restrukturyzacji i uporządkowanej likwidacji CCP, szczególności za szkodę spowodowaną wyborem instrumentów przymusowej restrukturyzacji, o których mowa art. 110 ust. 1, albo instrumentów restrukturyzacji i uporządkowanej likwidacji, o których mowa art. 27 ust. 1 rozporządzenia 2021/23.
+4. Członkowie organów Funduszu działający z należytą starannością nie ponoszą odpowiedzialności za szkodę wynikłą z niewłaściwej realizacji wypłat środków gwarantowanych. ze zgodnych z przepisami prawa działań lub zaniechań, które pozostają związku z uprawnieniami i zadaniami Funduszu jako organu przymusowej restrukturyzacji albo organu do spraw restrukturyzacji i uporządkowanej likwidacji CCP, szczególności za szkodę spowodowaną wyborem instrumentów przymusowej restrukturyzacji, o których mowa art. 110 ust. 1, albo instrumentów restrukturyzacji i uporządkowanej likwidacji, o których mowa art. 27 ust. 1 rozporządzenia 2021/23.
 
 6. Odpowiedzialność za działania lub zaniechania, o których mowa ust. 5, jest ograniczona do wysokości rzeczywistej szkody.
 
@@ -436,7 +618,22 @@ Art. 341–368. (pominięte)
 
 **Art. 20.** W przypadku banku lub oddziału banku zagranicznego objętych obowiązkowym systemem gwarantowania depozytów uprawnione do świadczenia pieniężnego, o którym mowa art. 35 ust. 2, z zastrzeżeniem art. 22, są:
 
+- **1)** osoby fizyczne;
+- **2)** osoby prawne;
+- **3)** jednostki organizacyjne niebędące osobami prawnymi, którym odrębna ustawa przyznaje zdolność prawną;
+- **4)** szkolne kasy oszczędnościowe;
+- **5)** kasy zapomogowo-pożyczkowe;
+- **6)** rady rodziców.
+
 **Art. 21.** W przypadku kasy objętej obowiązkowym systemem gwarantowania depozytów uprawnione do świadczenia pieniężnego, o którym mowa art. 35 ust. 2, z zastrzeżeniem art. 22, są:
+
+- **1)** osoby fizyczne;
+- **2)** organizacje pozarządowe rozumieniu art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2025 r. poz. 1338);
+- **3)** jednostki organizacyjne kościoła lub związku wyznaniowego, będące osobami prawnymi;
+- **4)** spółdzielnie;
+- **5)** związki zawodowe;
+- **6)** wspólnoty mieszkaniowe;
+- **7)** spółki jawne, spółki partnerskie i spółki komandytowe.
 
 **Art. 22.**
 
@@ -531,7 +728,20 @@ Art. 341–368. (pominięte)
 
 **Art. 30.** Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Komisji Nadzoru Finansowego oraz Zarządu Funduszu, określi, drodze rozporządzenia:
 
+- **1)** minimalne wymogi, jakie powinien spełniać system wyliczania,
+- **2)** szczegółowy zakres i strukturę danych zawartych systemie wyliczania, a także standard techniczny ich przygotowania i zapisu,
+- **3)** format i tryb przekazywania danych do Funduszu, uwzględniając ich zabezpieczenie przed nieuprawnionym dostępem,
+- **4)** sposób oznaczenia środków gwarantowanych, których dotyczy postępowanie sprawach określonych art. 165a lub art. 299 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872),
+- **5)** tryb i sposób kontroli prawidłowości danych zawartych systemie wyliczania mając na względzie potrzebę zapewnienia otrzymywania przez Fundusz należycie przygotowanych i zweryfikowanych danych na potrzeby realizacji ustawowych zadań Funduszu oraz warunki wykonywania czynności faktycznych związanych z działalnością bankową lub działalnością kasy.
+
 **Art. 31.** Za wdrożenie i utrzymywanie prawidłowo funkcjonującego systemu wyliczania, zgodność danych, o których mowa art. 29 ust. 2, z saldami kont księgi głównej i ksiąg pomocniczych oraz przekazywanie Funduszowi tych danych jest odpowiedzialny podmiot uprawniony do reprezentacji.
+
+- **1)** otrzymanych zgodnie z ust. 2, wyniku kontroli realizowanej siedzibie Funduszu;
+- **2)** ramach kontroli realizowanej podmiotach objętych systemem gwarantowania.
+
+2. Podmiot objęty systemem gwarantowania przekazuje niezwłocznie Funduszowi, na jego żądanie, dane znajdujące się systemie wyliczania.
+
+3. W celu realizacji kontroli, o której mowa ust. 1, Fundusz, oparciu o dane gromadzone rejestrze PESEL, weryfikuje dane osobowe deponentów ujęte systemach wyliczania. Dokonywana przez Fundusz weryfikacja obejmuje potwierdzenie zgodności przekazanych danych z danymi zgromadzonymi rejestrze PESEL, a przypadku braku zgodności lub niekompletności skutkujących brakiem możliwości identyfikacji deponentów udostępnienie Funduszowi weryfikowanych danych z rejestru PESEL.
 
 **Art. 33.**
 
@@ -616,6 +826,9 @@ Art. 341–368. (pominięte)
 
 **Art. 38.** Przepisy dotyczące przekazania środków, o których mowa:
 
+- **1)** art. 56 ust. 1 przypadku banku lub oddziału banku zagranicznego,
+- **2)** art. 57 ust. 1 przypadku kasy stosuje się odpowiednio przypadku dokonywania przez Fundusz wypłat środków gwarantowanych, o których mowa art. 36 ust. 1 pkt 3, art. 44 i art. 51.
+
 **Art. 39.**
 
 1. Z dniem spełnienia warunku gwarancji Funduszowi przysługuje roszczenie do podmiotu, stosunku do którego nastąpiło spełnienie warunku gwarancji, wysokości sumy środków gwarantowanych. Roszczenie przysługuje Funduszowi także po ogłoszeniu upadłości podmiotu, co do którego nastąpiło spełnienie warunku gwarancji.
@@ -630,7 +843,7 @@ Art. 341–368. (pominięte)
 
 **Art. 41.**
 
-1. W przypadku spełnienia warunku gwarancji podmiot uprawniony do reprezentacji, po ustaleniu stanu ksiąg rachunkowych podmiotu objętego systemem gwarantowania na dzień spełnienia warunku gwarancji, sporządza listę deponentów na podstawie danych zawartych systemie wyliczania podmiotu objętego systemem gwarantowania, według stanu na dzień spełnienia warunku gwarancji.
+1. W przypadku spełnienia warunku gwarancji podmiot uprawniony do reprezentacji, po ustaleniu stanu ksiąg rachunkowych podmiotu objętego systemem gwarantowania na dzień spełnienia warunku gwarancji, sporządza listę deponentów na podstawie danych zawartych systemie wyliczania podmiotu objętego systemem gwarantowania, według stanu na dzień spełnienia warunku gwarancji. wydanymi na podstawie art. 30.
 
 3. Odpowiedzialność za zgodność danych zawartych systemie wyliczania z zapisami księgach rachunkowych podmiotu objętego systemem gwarantowania oraz ze stanem prawnym ponosi, za okres pełnienia funkcji, podmiot uprawniony do reprezentacji, przypadku gdy pełnił funkcję dniu spełnienia warunku gwarancji lub okresie bieżącego roku obrotowego (obrachunkowego) lub roku obrotowego (obrachunkowego) poprzedzającego dzień spełnienia warunku gwarancji.
 
@@ -708,7 +921,10 @@ Art. 341–368. (pominięte)
 
 2. Do dokumentacji, o której mowa ust. 1 pkt 2, stosuje się przepisy art. 7 ust. 2 ustawy Prawo bankowe.
 
-**Art. 51.** Roszczenia deponentów z tytułu gwarancji nieujawnione ramach listy deponentów przekazanej Funduszowi na podstawie art. 43, z wyłączeniem przypadków określonych art. 36 ust. 1, Fundusz zaspokaja terminie 7 dni roboczych od dnia otrzymania danych uzupełniających listę deponentów, sporządzonych przez podmiot uprawniony do reprezentacji, szczególności po ustaleniu listy wierzytelności sporządzonej postępowaniu upadłościowym podmiotu objętego systemem gwarantowania lub po stwierdzeniu prawomocnym orzeczeniem sądu wierzytelności wobec podmiotu objętego systemem gwarantowania, stosunku do którego nastąpiło spełnienie warunku gwarancji. lub art. 14 ust. 1 pkt 1 i 2 ustawy o spółdzielczych kasach oszczędnościowo-kredytowych, oraz niezależnie od przyczyny faktycznej lub prawnej zostały wykazane systemie wyliczania podmiotu objętego systemem gwarantowania jako uprawnienia poprzednika prawnego, Fundusz jest obowiązany spełnić świadczenie pieniężne z tytułu środków gwarantowanych, stanowiące kwotę obliczoną dla poprzednika prawnego, zgodnie z art. 24. 2. W przypadku, o którym mowa ust. 1:
+**Art. 51.** Roszczenia deponentów z tytułu gwarancji nieujawnione ramach listy deponentów przekazanej Funduszowi na podstawie art. 43, z wyłączeniem przypadków określonych art. 36 ust. 1, Fundusz zaspokaja terminie 7 dni roboczych od dnia otrzymania danych uzupełniających listę deponentów, sporządzonych przez podmiot uprawniony do reprezentacji, szczególności po ustaleniu listy wierzytelności sporządzonej postępowaniu upadłościowym podmiotu objętego systemem gwarantowania lub po stwierdzeniu prawomocnym orzeczeniem sądu wierzytelności wobec podmiotu objętego systemem gwarantowania, stosunku do którego nastąpiło spełnienie warunku gwarancji. następcom prawnym deponenta oraz osobom, o których mowa art. 55 ust. 1 pkt 1 i art. 56 ust. 1 ustawy Prawo bankowe lub art. 14 ust. 1 pkt 1 i 2 ustawy o spółdzielczych kasach oszczędnościowo-kredytowych, oraz niezależnie od przyczyny faktycznej lub prawnej zostały wykazane systemie wyliczania podmiotu objętego systemem gwarantowania jako uprawnienia poprzednika prawnego, Fundusz jest obowiązany spełnić świadczenie pieniężne z tytułu środków gwarantowanych, stanowiące kwotę obliczoną dla poprzednika prawnego, zgodnie z art. 24. 2. W przypadku, o którym mowa ust. 1:
+
+- **1)** wysokość świadczenia zostaje określona bez uwzględnienia środków gwarantowanych, jakie mogą przysługiwać następcom prawnym oraz osobom, o których mowa art. 55 ust. 1 pkt 1 i art. 56 ust. 1 ustawy Prawo bankowe lub art. 14 ust. 1 pkt 1 i 2 ustawy o spółdzielczych kasach oszczędnościowo-kredytowych, z tytułu czynności dokonanych odrębnie od czynności będących podstawą powstania środków gwarantowanych poprzednika prawnego;
+- **2)** uprawnienia do odbioru środków gwarantowanych ustala się zgodnie z przepisami określającymi skutki danego rodzaju następstwa prawnego oraz zasady dysponowania majątkiem, jaki należał do poprzednika prawnego.
 
 **Art. 53.** Jeżeli dniu spełnienia warunku gwarancji środki gwarantowane przysługiwały deponentowi, a następnie weszły do majątku, do którego uprawnienia przysługują następcom prawnym deponenta, uprawnienia do odbioru środków gwarantowanych ustala się zgodnie z przepisami określającymi skutki danego rodzaju następstwa prawnego oraz zasadami dysponowania majątkiem, jaki należał do poprzednika prawnego.
 
@@ -763,6 +979,9 @@ Art. 341–368. (pominięte)
 
 **Art. 58.** W przypadku dokonywania wypłat środków gwarantowanych, o których mowa art. 36 ust. 1 pkt 3, art. 44 i art. 51, decyzję o wykorzystaniu na ten cel środków:
 
+- **1)** o których mowa art. 56 przypadku banku lub oddziału banku zagranicznego,
+- **2)** o których mowa art. 57 przypadku kasy podejmuje Zarząd Funduszu.
+
 #### Rozdział 4 Transgraniczne wypłaty środków gwarantowanych
 
 **Art. 59.**
@@ -771,7 +990,7 @@ Art. 341–368. (pominięte)
 
 2. Systemowi goszczącemu, który będzie dokonywał wypłat środków gwarantowanych, Fundusz przekazuje listę wypłat oraz środki finansowe niezbędne do dokonywania wypłat.
 
-3. Wypłata środków gwarantowanych dokonywana jest złotych, o ile porozumienie, o którym mowa art. 60, nie stanowi inaczej.
+3. Wypłata środków gwarantowanych dokonywana jest złotych, o ile porozumienie, o którym mowa art. 60, nie stanowi inaczej. goszczącym porozumienie określające zasady współpracy zakresie wypłaty środków gwarantowanych.
 
 **Art. 61.**
 
@@ -797,9 +1016,23 @@ Art. 341–368. (pominięte)
 
 **Art. 64.** Użyte dziale określenia oznaczają:
 
+- **1)** instytucja instytucję kredytową lub firmę inwestycyjną, o której mowa art. 4 ust. 1 pkt 22 rozporządzenia nr 2019/2033, objętą wymogiem dotyczącym kapitału założycielskiego wysokości 750 000 euro;
+- **2)** podmiot podmiot krajowy oraz, jeżeli jest objęta nadzorem skonsolidowanym, nadzorem nad grupą firm inwestycyjnych na zasadzie skonsolidowanej lub nadzorem nad zgodnością z grupowym testem kapitałowym, o których mowa przepisach działu IV rozdziału 1 oddziału 2a ustawy o obrocie instrumentami finansowymi, sprawowanym przez Komisję Nadzoru Finansowego:
+    - **a)** instytucję inną niż podmiot krajowy,
+    - **b)** instytucję finansową, jeżeli jest podmiotem zależnym podmiotu krajowego lub podmiotu, o którym mowa lit. c i d,
+    - **c)** finansową spółkę holdingową, holding mieszany, finansową spółkę holdingową o działalności mieszanej z siedzibą na terytorium państwa członkowskiego, inwestycyjną spółkę holdingową,
+    - **d)** dominującą finansową spółkę holdingową z państwa członkowskiego, unijną dominującą finansową spółkę holdingową, dominującą finansową spółkę holdingową o działalności mieszanej z państwa członkowskiego, unijną dominującą finansową spółkę holdingową o działalności mieszanej, dominującą inwestycyjną spółkę holdingową z państwa członkowskiego i unijną dominującą inwestycyjną spółkę holdingową;
+
+- **3)** nadzwyczajne wsparcie ze środków publicznych pomoc państwa rozumieniu art. 107 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE 2012 C/326, z 26.10.2012 r., str. 47) lub inne publiczne wsparcie finansowe na poziomie ponadnarodowym, które, jeżeli jest udzielane na poziomie krajowym, stanowi pomoc państwa, udzielaną celu utrzymania lub przywrócenia rentowności, płynności bądź wypłacalności podmiotu lub grupy, której częścią jest podmiot, tym działania, o których mowa ustawie z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej.
+
 **Art. 65.** Organem przymusowej restrukturyzacji jest Fundusz.
 
 **Art. 66.** Celami przymusowej restrukturyzacji są:
+
+- **1)** utrzymanie stabilności finansowej, szczególności przez ochronę zaufania do sektora finansowego i zapewnienie dyscypliny rynkowej;
+- **2)** ograniczenie zaangażowania funduszy publicznych lub prawdopodobieństwa ich zaangażowania wobec sektora finansowego lub jego poszczególnych podmiotów dla realizacji celów, o których mowa pkt 1 oraz 3–5;
+- **3)** zapewnienie kontynuacji realizowanych przez podmiot funkcji krytycznych;
+- **5)** ochrona środków powierzonych podmiotowi przez jego klientów.
 
 **Art. 67.**
 
@@ -923,7 +1156,7 @@ Art. 341–368. (pominięte)
 1. Fundusz dokonuje umorzenia lub konwersji instrumentów kapitałowych lub zobowiązań kwalifikowalnych następującej kolejności i następujący sposób:
 
 - **1)** instrumenty kapitale podstawowym Tier I do wysokości strat podmiotu restrukturyzacji;
-- **2)** instrumenty dodatkowe Tier I kwocie niezbędnej do spełnienia warunków prowadzenia działalności, a przypadku, o którym mowa art. 70 ust. 1 pkt 2, do osiągnięcia celów przymusowej restrukturyzacji, o których mowa art. 66;
+- **2)** instrumenty dodatkowe Tier I kwocie niezbędnej do spełnienia warunków prowadzenia działalności, a przypadku, o którym mowa art. 70 ust. 1 pkt 2, do osiągnięcia celów przymusowej restrukturyzacji, o których mowa art. 66; mowa art. 70 ust. 1 pkt 2, do osiągnięcia celów przymusowej restrukturyzacji, o których mowa art. 66;
 - **4)** zobowiązania kwalifikowalne kwocie niezbędnej do osiągnięcia celów przymusowej restrukturyzacji albo do wysokości maksymalnej umożliwiającej pokrywanie strat przez odpowiednie zobowiązania kwalifikowalne, zależności od tego, która z tych kwot jest niższa.
 
 1a. W przypadku gdy z oszacowania, o którym mowa art. 137 ust. 2 lub 3, wynika, że wartość netto podmiotu jest dodatnia, Fundusz może, wyniku przeprowadzenia konwersji instrumentów kapitałowych lub zobowiązań kwalifikowalnych, dokonać procentowego zmniejszenia udziału dotychczasowych posiadaczy instrumentów, o których mowa ust. 1 pkt 1.
@@ -1008,7 +1241,7 @@ Art. 341–368. (pominięte)
 
 1. Fundusz opracowuje plan przymusowej restrukturyzacji szczególności na podstawie informacji uzyskanych od Komisji Nadzoru Finansowego oraz od podmiotów krajowych.
 
-2. Fundusz może zobowiązać podmiot krajowy do współpracy zakresie opracowania i aktualizacji planu przymusowej restrukturyzacji, tym do opracowania elementów planu przymusowej restrukturyzacji, na podstawie wytycznych Funduszu zawierających zakres przekazywanych informacji, termin ich przekazania oraz pouczenie o karach pieniężnych za nieudzielenie informacji. nałożyć na taki podmiot karę pieniężną wysokości do 10 % przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym, a przypadku braku takiego sprawozdania karę pieniężną wysokości do 10 % prognozowanego przychodu określonego na podstawie sytuacji ekonomiczno-finansowej podmiotu, niewyższą jednak niż 100 000 000 zł.
+2. Fundusz może zobowiązać podmiot krajowy do współpracy zakresie opracowania i aktualizacji planu przymusowej restrukturyzacji, tym do opracowania elementów planu przymusowej restrukturyzacji, na podstawie wytycznych Funduszu zawierających zakres przekazywanych informacji, termin ich przekazania oraz pouczenie o karach pieniężnych za nieudzielenie informacji. o których mowa art. 85, lub niewykonania obowiązku, o którym mowa art. 78 ust. 2, Fundusz może, drodze decyzji, nałożyć na taki podmiot karę pieniężną wysokości do 10 % przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym, a przypadku braku takiego sprawozdania karę pieniężną wysokości do 10 % prognozowanego przychodu określonego na podstawie sytuacji ekonomiczno-finansowej podmiotu, niewyższą jednak niż 100 000 000 zł.
 
 1a. W przypadku gdy jest możliwe ustalenie kwoty korzyści uzyskanych przez podmiot krajowy wyniku nieprzekazania informacji lub niewykonania obowiązków, o których mowa ust. 1, Fundusz może nałożyć na ten podmiot karę pieniężną, o której mowa ust. 1, do wysokości dwukrotności kwoty uzyskanych przez ten podmiot korzyści.
 
@@ -1081,7 +1314,7 @@ Art. 341–368. (pominięte)
 - **2)** podmiotu zależnego z siedzibą państwie członkowskim;
 - **3)** finansowej spółki holdingowej, inwestycyjnej spółki holdingowej, holdingu mieszanego i finansowej spółki holdingowej o działalności mieszanej;
 - **4)** dominującej finansowej spółki holdingowej z państwa członkowskiego lub dominującej inwestycyjnej spółki holdingowej z państwa członkowskiego i dominującej finansowej spółki holdingowej o działalności mieszanej z państwa członkowskiego;
-- **5)** podmiotu zależnego z siedzibą na terytorium państwa trzeciego.
+- **5)** podmiotu zależnego z siedzibą na terytorium państwa trzeciego. podlegające przymusowej restrukturyzacji.
 
 3. Grupowy plan przymusowej restrukturyzacji określa szczególności:
 
@@ -1231,7 +1464,7 @@ Art. 341–368. (pominięte)
 
 4. Fundusz, we współpracy z Komisją Nadzoru Finansowego i Europejskim Urzędem Nadzoru Bankowego, po konsultacji z właściwymi organami nadzoru podmiotów zależnych, opracowuje informację zawierającą analizę zidentyfikowanych okoliczności utrudniających lub uniemożliwiających przeprowadzenie przymusowej restrukturyzacji wraz ze wskazaniem przyczyny, dla której realizacja środków określonych planach działań, przedstawionych zgodnie z ust. 3, nie doprowadzi do ich ograniczenia lub usunięcia, oraz zalecenia dotyczące środków niezbędnych do ich ograniczenia lub usunięcia. Fundusz uwzględnia wpływ tych środków na działalność grupy.
 
-4a. Określając środki, o których mowa ust. 3b, oraz opracowując informację, o której mowa ust. 4, uwzględnia się wpływ środków na model biznesowy grupy. oddziałów, a przypadku, o którym mowa art. 91 ust. 5a krajowemu podmiotowi dominującemu.
+4a. Określając środki, o których mowa ust. 3b, oraz opracowując informację, o której mowa ust. 4, uwzględnia się wpływ środków na model biznesowy grupy. przymusowej restrukturyzacji dla podmiotów zależnych i właściwym organom przymusowej restrukturyzacji dla istotnych oddziałów, a przypadku, o którym mowa art. 91 ust. 5a krajowemu podmiotowi dominującemu.
 
 6. Krajowy podmiot dominujący może, terminie 4 miesięcy od dnia otrzymania informacji, o której mowa ust. 4, przedstawić Funduszowi uwagi do tej informacji oraz propozycję innych środków mających na celu ograniczenie lub usunięcie we właściwym czasie okoliczności wskazanych informacji wraz z uzasadnieniem.
 
@@ -1289,7 +1522,7 @@ Art. 341–368. (pominięte)
 - **6)** ograniczenia lub zaprzestania prowadzenia określonej działalności przez podmiot;
 - **7)** ograniczenia wprowadzania lub rozwoju nowych produktów lub linii biznesowych;
 - **8)** zmian strukturze organizacyjnej i prawnej celu uproszczenia struktury lub rozdzielenia rodzajów działalności;
-- **9)** utworzenia dominującej finansowej spółki holdingowej z państwa członkowskiego z siedzibą na terytorium Rzeczypospolitej Polskiej, dominującej inwestycyjnej spółki holdingowej z państwa członkowskiego z siedzibą na terytorium Rzeczypospolitej Polskiej, unijnej dominującej finansowej spółki holdingowej lub unijnej dominującej inwestycyjnej spółki holdingowej celu ułatwienia przymusowej restrukturyzacji oraz uniknięcia sytuacji, której zastosowanie instrumentów przymusowej restrukturyzacji oraz uprawnień, o których mowa przepisach rozdziału 5, będzie miało negatywne skutki dla niefinansowej części danej grupy; podlegających umorzeniu lub konwersji;
+- **9)** utworzenia dominującej finansowej spółki holdingowej z państwa członkowskiego z siedzibą na terytorium Rzeczypospolitej Polskiej, dominującej inwestycyjnej spółki holdingowej z państwa członkowskiego z siedzibą na terytorium Rzeczypospolitej Polskiej, unijnej dominującej finansowej spółki holdingowej lub unijnej dominującej inwestycyjnej spółki holdingowej celu ułatwienia przymusowej restrukturyzacji oraz uniknięcia sytuacji, której zastosowanie instrumentów przymusowej restrukturyzacji oraz uprawnień, o których mowa przepisach rozdziału 5, będzie miało negatywne skutki dla niefinansowej części danej grupy; lifikowalnych, instrumentów dłużnych zamiennych na kapitał lub innych instrumentów kapitałowych lub dłużnych podlegających umorzeniu lub konwersji;
 - **11)** podjęcia działań innych niż określone pkt 10 celu osiągnięcia minimalnego poziomu funduszy własnych i zobowiązań kwalifikowalnych, szczególności renegocjacji warunków zobowiązań kwalifikowalnych, instrumentów dodatkowych Tier I lub instrumentów Tier II oraz zobowiązań, o których mowa art. 206 ust. 1, celu zapewnienia skuteczności umorzenia lub konwersji na mocy prawa właściwego dla tego zobowiązania lub tego instrumentu;
 - **11a)** zmiany profilu zapadalności instrumentów funduszy własnych, za zgodą Komisji Nadzoru Finansowego, oraz zobowiązań kwalifikowalnych, o których mowa art. 97a–97g i art. 98 ust. 2l pkt 1, celu zapewnienia stałego utrzymywania minimalnego poziomu funduszy własnych i zobowiązań kwalifikowalnych;
 - **12)** utrzymywania określonej struktury zobowiązań;
@@ -1425,7 +1658,7 @@ Art. 341–368. (pominięte)
 2b. Fundusz określa wysokość minimalnego poziomu funduszy własnych i zobowiązań kwalifikowalnych jako kwotę funduszy własnych i zobowiązań kwalifikowalnych wyrażoną jako odsetek:
 
 - **1)** łącznej kwoty ekspozycji na ryzyko oraz
-- **2)** miary ekspozycji całkowitej, obliczonej zgodnie z art. 429 i art. 429a rozporządzenia nr 575/2013. walnych, minimalny poziom funduszy własnych i zobowiązań kwalifikowalnych jest ustalany na poziomie umożliwiającym:
+- **2)** miary ekspozycji całkowitej, obliczonej zgodnie z art. 429 i art. 429a rozporządzenia nr 575/2013. instrumentu przymusowej restrukturyzacji lub umorzenie lub konwersję instrumentów kapitałowych lub zobowiązań kwalifikowalnych, minimalny poziom funduszy własnych i zobowiązań kwalifikowalnych jest ustalany na poziomie umożliwiającym:
 - **1)** pokrycie strat (kwota na pokrycie strat),
 - **2)** odbudowę funduszy własnych do poziomu umożliwiającego spełnienie warunków kontynuowania działalności przez okres 12 miesięcy (kwota dokapitalizowania) podmiocie podlegającym przymusowej restrukturyzacji oraz jego podmiotach zależnych objętych wymogiem, o którym mowa ust. 1, niebędących podmiotami podlegającymi przymusowej restrukturyzacji.
 
@@ -1439,7 +1672,7 @@ Art. 341–368. (pominięte)
 
 - **1)** celu określenia kwoty, o której mowa ust. 2b pkt 1 jako sumę:
     - **a)** wysokości strat, które mają być pokryte przypadku przymusowej restrukturyzacji podmiotu podlegającego przymusowej restrukturyzacji na poziomie skonsolidowanym grupy podlegającej przymusowej restrukturyzacji, odpowiadającej wymogom, o których mowa art. 92 ust. 1 lit. c rozporządzenia nr 575/2013 oraz art. 138 ust. 2 pkt 2 ustawy Prawo bankowe albo art. 110y ust. 3 ustawy o obrocie instrumentami finansowymi, oraz
-    - **b)** kwoty dokapitalizowania umożliwiającej grupie podlegającej przymusowej restrukturyzacji powstałej wyniku przymusowej restrukturyzacji spełnienie, po przeprowadzeniu przymusowej restrukturyzacji, wymogu łącznego współczynnika kapitałowego, o którym mowa art. 92 ust. 1 lit. c rozporządzenia nr 575/2013, oraz dodatkowego wymogu zakresie funduszy własnych, o którym mowa art. 138 ust. 2 pkt 2 ustawy Prawo bankowe albo art. 110y ust. 3 ustawy o obrocie instrumentami finansowymi, na poziomie skonsolidowanym grupy podlegającej przymusowej restrukturyzacji, po zrealizowaniu preferowanej strategii przymusowej restrukturyzacji, o której mowa art. 2 pkt 3 rozporządzenia delegowanego Komisji (UE) nr 2016/1075 z dnia 23 marca 2016 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2014/59/UE odniesieniu do regulacyjnych standardów technicznych określających treść planów naprawy, planów restrukturyzacji i uporządkowanej likwidacji oraz sowego ramach grupy, wymagania wobec niezależnych rzeczoznawców, umowne uznanie uprawnień do umorzenia i konwersji, procedury i treść wymogów dotyczących powiadomienia i obwieszczenia o zawieszeniu oraz sposób funkcjonowania kolegiów do spraw restrukturyzacji i uporządkowanej likwidacji (Dz. Urz. UE L 184 z 08.07.2016, str. 1), zwanej dalej „preferowaną strategią przymusowej restrukturyzacji”;
+    - **b)** kwoty dokapitalizowania umożliwiającej grupie podlegającej przymusowej restrukturyzacji powstałej wyniku przymusowej restrukturyzacji spełnienie, po przeprowadzeniu przymusowej restrukturyzacji, wymogu łącznego współczynnika kapitałowego, o którym mowa art. 92 ust. 1 lit. c rozporządzenia nr 575/2013, oraz dodatkowego wymogu zakresie funduszy własnych, o którym mowa art. 138 ust. 2 pkt 2 ustawy Prawo bankowe albo art. 110y ust. 3 ustawy o obrocie instrumentami finansowymi, na poziomie skonsolidowanym grupy podlegającej przymusowej restrukturyzacji, po zrealizowaniu preferowanej strategii przymusowej restrukturyzacji, o której mowa art. 2 pkt 3 rozporządzenia delegowanego Komisji (UE) nr 2016/1075 z dnia 23 marca 2016 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2014/59/UE odniesieniu do regulacyjnych standardów powych planów restrukturyzacji i uporządkowanej likwidacji, minimalne kryteria, które właściwy organ ma poddać ocenie odniesieniu do planów naprawy i grupowych planów naprawy, warunki udzielenia wsparcia finansowego ramach grupy, wymagania wobec niezależnych rzeczoznawców, umowne uznanie uprawnień do umorzenia i konwersji, procedury i treść wymogów dotyczących powiadomienia i obwieszczenia o zawieszeniu oraz sposób funkcjonowania kolegiów do spraw restrukturyzacji i uporządkowanej likwidacji (Dz. Urz. UE L 184 z 08.07.2016, str. 1), zwanej dalej „preferowaną strategią przymusowej restrukturyzacji”;
 
 - **2)** celu określenia kwoty, o której mowa ust. 2b pkt 2 jako sumę:
     - **a)** wysokości strat, które mają być pokryte przypadku przymusowej restrukturyzacji podmiotu podlegającego przymusowej restrukturyzacji na poziomie skonsolidowanym grupy podlegającej przymusowej restrukturyzacji, odpowiadającej wymogowi dotyczącemu wskaźnika dźwigni, o którym mowa art. 92 ust. 1 lit. d rozporządzenia nr 575/2013, oraz
@@ -1463,8 +1696,7 @@ Art. 341–368. (pominięte)
 - **1)** celu określenia kwoty, o której mowa ust. 2b pkt 1 jako sumę:
     - **a)** wysokości strat podmiotu, które mają być pokryte, odpowiadającej wymogom, o których mowa art. 92 ust. 1 lit. c rozporządzenia nr 575/2013 oraz art. 138 ust. 2 pkt 2 ustawy Prawo bankowe albo art. 110y ust. 3 ustawy o obrocie instrumentami finansowymi, oraz
     - **b)** kwoty dokapitalizowania umożliwiającej podmiotowi spełnienie wymogu zakresie łącznego współczynnika kapitałowego, o którym mowa art. 92 ust. 1 lit. c rozporządzenia nr 575/2013, oraz dodatkowego wymogu zakresie funduszy własnych, o którym mowa art. 138 ust. 2 pkt 2 ustawy Prawo bankowe albo art. 110y ust. 3 ustawy o obrocie instrumentami finansowymi, po wykonaniu uprawnienia, o którym mowa art. 70, lub po przeprowadzeniu przymusowej restrukturyzacji grupy podlegającej przymusowej restrukturyzacji;
-
-- **2)** celu określenia kwoty, o której mowa ust. 2b pkt 2 jako sumę:
+    - **a)** wysokości strat, które mają być pokryte, odpowiadającej wymogowi dotyczącemu wskaźnika dźwigni, o którym mowa art. 92 ust. 1 lit. d rozporządzenia nr 575/2013, dla danego podmiotu oraz
     - **b)** kwoty dokapitalizowania umożliwiającej podmiotowi spełnienie wymogu dotyczącego dźwigni, o którym mowa art. 92 ust. 1 lit. d rozporządzenia nr 575/2013, po wykonaniu uprawnienia, o którym mowa art. 70, lub po przeprowadzeniu przymusowej restrukturyzacji grupy podlegającej przymusowej restrukturyzacji.
 
 2l. Fundusz, określając kwotę, o której mowa ust. 2k pkt 2, uwzględnia progi, o których mowa art. 274 i art. 275, oraz progi, o których mowa art. 19a ust. 2 ustawy z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej.
@@ -1644,7 +1876,7 @@ Art. 341–368. (pominięte)
 - **2)** wykonalność lub wiarygodność działań określonych planie przymusowej restrukturyzacji lub grupowym planie przymusowej restrukturyzacji, gdy są ograniczone ze względu na wielkość, status prawny podmiotu i strukturę własnościową, powiązania, charakter, zakres, profil ryzyka i złożoność prowadzonej działalności, lub
 - **3)** nałożony przez Komisję Nadzoru Finansowego na podstawie art. 138 ust. 2 pkt 2 ustawy Prawo bankowe albo art. 110y ust. 3 ustawy o obrocie instrumentami finansowymi dodatkowy wymóg zakresie funduszy własnych, który wskazuje, że podmiot znajduje się grupie 20 % podmiotów o najbardziej ryzykownej działalności, stosunku do których Komisja Nadzoru Finansowego może zastosować ten dodatkowy wymóg i odniesieniu do których Fundusz określa wymóg, o którym mowa art. 97 ust. 1.
 
-3. W przypadku określonym ust. 2 pkt 3 liczba podmiotów wynikająca z obliczeń jest zaokrąglana górę do najbliższej liczby całkowitej. oraz przypadku podmiotu podlegającego przymusowej restrukturyzacji niebędącego podmiotem, o którym mowa art. 97h ust. 1 lub 3, Fundusz może, po zasięgnięciu opinii Komisji Nadzoru Finansowego, określić, że część wymogu określonego art. 98 ust. 1–2, do wysokości 8 % zobowiązań ogółem, powiększonych o fundusze własne podmiotu, lub do kwoty ustalonej zgodnie z art. 97d ust. 1 pkt 2, jest spełniona za pomocą funduszy własnych, podporządkowanych instrumentów kwalifikowalnych lub zobowiązań, o których mowa art. 97b ust. 1, jeżeli:
+3. W przypadku określonym ust. 2 pkt 3 liczba podmiotów wynikająca z obliczeń jest zaokrąglana górę do najbliższej liczby całkowitej. o znaczeniu systemowym lub podmiotem podlegającym przymusowej restrukturyzacji, który jest jej podmiotem zależnym, oraz przypadku podmiotu podlegającego przymusowej restrukturyzacji niebędącego podmiotem, o którym mowa art. 97h ust. 1 lub 3, Fundusz może, po zasięgnięciu opinii Komisji Nadzoru Finansowego, określić, że część wymogu określonego art. 98 ust. 1–2, do wysokości 8 % zobowiązań ogółem, powiększonych o fundusze własne podmiotu, lub do kwoty ustalonej zgodnie z art. 97d ust. 1 pkt 2, jest spełniona za pomocą funduszy własnych, podporządkowanych instrumentów kwalifikowalnych lub zobowiązań, o których mowa art. 97b ust. 1, jeżeli:
 
 - **1)** zobowiązania, o których mowa art. 97a, które nie są zobowiązaniami podporządkowanymi, mają taki sam stopień uprzywilejowania kolejności zaspokajania roszczeń postępowaniu upadłościowym jak zobowiązania wyłączone ze stosowania uprawnień do umorzenia lub konwersji zgodnie z art. 206 ust. 1 lub 3;
 - **2)** spełniony jest co najmniej jeden z warunków:
@@ -1669,6 +1901,14 @@ Art. 341–368. (pominięte)
 3. Kwota kapitału podstawowego Tier I, którą podmiot utrzymuje celu spełnienia wymogu połączonego bufora, nie jest jednocześnie zaliczana do wymogów wyrażonych jako odsetek łącznej kwoty ekspozycji na ryzyko, o których mowa art. 97c, art. 97d ust. 1 i art. 97e.
 
 **Art. 97g.** W przypadkach, o których mowa art. 97d ust. 1 i art. 97e, Fundusz uwzględnia:
+
+- **1)** obecność kupujących i sprzedających na rynku funduszy własnych i podporządkowanych instrumentów kwalifikowalnych podmiotu podlegającego przymusowej restrukturyzacji, gotowych do zawierania transakcji, dostępność wyceny takich instrumentów oraz czas konieczny do zrealizowania transakcji niezbędnych do celów zastosowania się do rozstrzygnięcia Funduszu;
+- **2)** wartość instrumentów, które wynikają z zobowiązań kwalifikowalnych, które spełniają warunki określone art. 72a rozporządzenia nr 575/2013, o rezydualnym terminie zapadalności wynoszącym mniej niż rok, liczonym od dnia określenia przez Fundusz minimalnej kwoty funduszy własnych lub podporządkowanych instrumentów kwalifikowalnych, lub zobowiązań, o których mowa art. 97b ust. 1, których warunki emisji lub konstrukcja przewidują możliwość dokonania korekt ilościowych stosunku do wymogów, o których mowa art. 97d ust. 1 i art. 97e; inne niż określone art. 72b ust. 2 lit. d tego rozporządzenia;
+- **4)** czy kwota zobowiązań, które są wyłączone ze stosowania umorzenia i konwersji zgodnie z art. 206 ust. 1 lub 3 i zaliczają się do tej samej kategorii uprzywilejowania co zobowiązania kwalifikowalne o najwyższym stopniu uprzywilejowania lub kategorii, która postępowaniu upadłościowym podlega zaspokojeniu dalszej kolejności zaspokajania należności zgodnie z art. 440 ust. 2 ustawy Prawo upadłościowe, jest istotna porównaniu z kwotą funduszy własnych i zobowiązań kwalifikowalnych podmiotu podlegającego przymusowej restrukturyzacji;
+- **5)** model biznesowy, sposób finansowania, profil ryzyka, tym kapitał, płynność i finansowanie, jakość aktywów, model prowadzenia działalności i zarządzania podmiotu podlegającego przymusowej restrukturyzacji, oraz potencjalne straty Funduszu;
+- **6)** znaczenie podmiotu dla stabilności finansowej oraz wpływ na funkcjonowanie gospodarki, szczególności ze względu na powiązania z innymi podmiotami systemu finansowego;
+- **7)** wpływ potencjalnych kosztów restrukturyzacji podmiotu określonych programie restrukturyzacji, o którym mowa art. 214, na poziom funduszy własnych podmiotu podlegającego przymusowej restrukturyzacji;
+- **8)** czy kwota zobowiązań wyłączonych ze stosowania umorzenia lub konwersji, o których mowa pkt 4, przekracza poziom 5 % łącznej kwoty funduszy własnych i zobowiązań kwalifikowalnych podmiotu podlegającego przymusowej restrukturyzacji, poniżej którego kwotę tę uznaje się za nieistotną.
 
 **Art. 97h.**
 
@@ -1718,7 +1958,7 @@ Art. 341–368. (pominięte)
 2d. W przypadku gdy więcej niż jeden podmiot będący częścią tej samej globalnej instytucji o znaczeniu systemowym jest podmiotem podlegającym przymusowej restrukturyzacji lub podmiotem z państwa trzeciego, który byłby podmiotem podlegającym przymusowej restrukturyzacji, gdyby miał siedzibę państwie członkowskim, oraz jeżeli jest to uzasadnione i zgodne ze strategią przymusowej restrukturyzacji tej globalnej instytucji o znaczeniu systemowym, Fundusz oraz właściwe organy przymusowej restrukturyzacji dla podmiotów zależnych wydają zgodę na stosowanie art. 72e rozporządzenia nr 575/2013 oraz na zastosowanie korekty służącej zmniejszeniu lub usunięciu różnicy między:
 
 - **1)** sumą kwot, o których mowa art. 97 ust. 19 pkt 1, oraz kwot, o których mowa art. 12a lit. a rozporządzenia nr 575/2013 dla podmiotu podlegającego przymusowej restrukturyzacji lub podmiotu z państwa trzeciego, który byłby podmiotem podlegającym przymusowej restrukturyzacji, gdyby miał siedzibę państwie członkowskim, a
-- **2)** sumą kwot, o których mowa art. 97 ust. 19 pkt 2, oraz kwot, o których mowa art. 12a lit. b rozporządzenia nr 575/2013. które byłyby podmiotami podlegającymi przymusowej restrukturyzacji, gdyby miały siedziby państwach członkowskich, nie może być mniejsza niż suma kwot, o których mowa art. 97 ust. 19 pkt 2, oraz kwot, o których mowa art. 12a lit. b rozporządzenia nr 575/2013, określonych dla krajowego podmiotu dominującego.
+- **2)** sumą kwot, o których mowa art. 97 ust. 19 pkt 2, oraz kwot, o których mowa art. 12a lit. b rozporządzenia nr 575/2013. nr 575/2013, określonych dla podmiotów podlegających przymusowej restrukturyzacji oraz podmiotów z państw trzecich, które byłyby podmiotami podlegającymi przymusowej restrukturyzacji, gdyby miały siedziby państwach członkowskich, nie może być mniejsza niż suma kwot, o których mowa art. 97 ust. 19 pkt 2, oraz kwot, o których mowa art. 12a lit. b rozporządzenia nr 575/2013, określonych dla krajowego podmiotu dominującego.
 
 2f. Korektę, o której mowa ust. 2d, można zastosować odniesieniu do różnic obliczeniach łącznych kwot ekspozycji na ryzyko między odpowiednimi państwami członkowskimi lub państwami trzecimi. Korekty tej nie stosuje się celu wyeliminowania różnic będących wynikiem ekspozycji między grupami podlegającymi przymusowej restrukturyzacji.
 
@@ -1735,7 +1975,7 @@ Art. 341–368. (pominięte)
     - **b)** zdolności tego podmiotu do spełniania wymogów zakresie funduszy własnych, o których mowa art. 92–98 rozporządzenia nr 575/2013, po umorzeniu lub konwersji instrumentów kapitałowych lub zobowiązań kwalifikowalnych,
     - **c)** adekwatności wewnętrznego mechanizmu przeniesienia strat i dokapitalizowania, tym umorzenia lub konwersji instrumentów kapitałowych lub zobowiązań kwalifikowalnych tego podmiotu lub innych podmiotów, które wchodzą skład grupy podlegającej przymusowej restrukturyzacji.
 
-- **1)** podmiotu podlegającego przymusowej restrukturyzacji oraz zostały nabyte bezpośrednio przez ten podmiot lub za pośrednictwem innych podmiotów, które wchodzą skład tej samej grupy podlegającej przymusowej restrukturyzacji i nie są objęte konsolidacją tego podmiotu zależnego; 2hc. Wartość zobowiązań zaliczonych do kwoty funduszy własnych i zobowiązań kwalifikowalnych zgodnie z ust. 2hb nie może przekraczać kwoty stanowiącej różnicę pomiędzy kwotą minimalnego poziomu funduszy własnych i zobowiązań kwalifikowalnych, do którego utrzymywania jest obowiązany podmiot zależny objęty konsolidacją, a kwotą zobowiązań wyemitowanych przez ten podmiot zależny objęty konsolidacją na rzecz podmiotu zobowiązanego do spełniania wymogu, o którym mowa art. 97 ust. 1, na zasadzie skonsolidowanej zgodnie z ust. 2ha, nabytych przez ten podmiot bezpośrednio albo pośrednio przez inne podmioty, które wchodzą skład tej samej grupy podlegającej przymusowej restrukturyzacji, objęte konsolidacją tego podmiotu, powiększoną o kwotę funduszy własnych tego podmiotu zależnego objętego konsolidacją wyemitowanych zgodnie z ust. 2l pkt 2.
+- **1)** podmiotu podlegającego przymusowej restrukturyzacji oraz zostały nabyte bezpośrednio przez ten podmiot lub za pośrednictwem innych podmiotów, które wchodzą skład tej samej grupy podlegającej przymusowej restrukturyzacji i nie są objęte konsolidacją tego podmiotu zależnego; turyzacji. 2hc. Wartość zobowiązań zaliczonych do kwoty funduszy własnych i zobowiązań kwalifikowalnych zgodnie z ust. 2hb nie może przekraczać kwoty stanowiącej różnicę pomiędzy kwotą minimalnego poziomu funduszy własnych i zobowiązań kwalifikowalnych, do którego utrzymywania jest obowiązany podmiot zależny objęty konsolidacją, a kwotą zobowiązań wyemitowanych przez ten podmiot zależny objęty konsolidacją na rzecz podmiotu zobowiązanego do spełniania wymogu, o którym mowa art. 97 ust. 1, na zasadzie skonsolidowanej zgodnie z ust. 2ha, nabytych przez ten podmiot bezpośrednio albo pośrednio przez inne podmioty, które wchodzą skład tej samej grupy podlegającej przymusowej restrukturyzacji, objęte konsolidacją tego podmiotu, powiększoną o kwotę funduszy własnych tego podmiotu zależnego objętego konsolidacją wyemitowanych zgodnie z ust. 2l pkt 2.
 
 2i. Unijne instytucje dominujące oraz unijne dominujące firmy inwestycyjne, które nie są podmiotami podlegającymi przymusowej restrukturyzacji i są podmiotami zależnymi od podmiotów z państw trzecich, spełniają wymóg określony art. 97 ust. 2c na zasadzie skonsolidowanej.
 
@@ -1755,7 +1995,7 @@ Art. 341–368. (pominięte)
     - **c)** spełniają warunki kwalifikowalności, o których mowa art. 72a rozporządzenia nr 575/2013, z wyjątkiem warunków, o których mowa art. 72b ust. 2 lit. b, c, k–m oraz ust. 3–5 rozporządzenia nr 575/2013,
     - **d)** mogą podlegać umorzeniu lub konwersji, o których mowa art. 70–72, sposób, który jest zgodny ze strategią przymusowej restrukturyzacji grupy podlegającej przymusowej restrukturyzacji, szczególności nie wywierają wpływu na kontrolę sprawowaną nad podmiotem objętym tym wymogiem przez podmiot podlegający przymusowej restrukturyzacji należący do tej samej grupy podlegającej przymusowej restrukturyzacji,
     - **e)** nabycie instrumentu, z tytułu którego powstało zobowiązanie, nie zostało sfinansowane bezpośrednio lub pośrednio przez podmiot objęty tym wymogiem,
-    - **f)** warunki emisji instrumentu, z tytułu którego powstało zobowiązanie, nie przewidują, bezpośrednio lub pośrednio, możliwości wezwania do sprzedaży zobowiązań, wykupu, spłaty lub odkupu przez podmiot objęty tym wymogiem przed terminem zapadalności, przypadku innym niż ogłoszenie upadłości albo likwidacja tego podmiotu, a podmiot ten nie informuje o takiej możliwości inny sposób, miotu objętego tym wymogiem,
+    - **f)** warunki emisji instrumentu, z tytułu którego powstało zobowiązanie, nie przewidują, bezpośrednio lub pośrednio, możliwości wezwania do sprzedaży zobowiązań, wykupu, spłaty lub odkupu przez podmiot objęty tym wymogiem przed terminem zapadalności, przypadku innym niż ogłoszenie upadłości albo likwidacja tego podmiotu, a podmiot ten nie informuje o takiej możliwości inny sposób, niejszej wypłaty odsetek lub kwoty głównej przypadkach innych niż ogłoszenie upadłości albo likwidacja podmiotu objętego tym wymogiem,
     - **h)** wysokość wypłat odsetek lub dywidend nie jest zmieniana na podstawie oceny zdolności kredytowej podmiotu objętego tym wymogiem lub jego podmiotu dominującego;
 
 - **2)** funduszy własnych:
@@ -1805,7 +2045,7 @@ Art. 341–368. (pominięte)
 
 11. Fundusz lub organ przymusowej restrukturyzacji właściwy dla podmiotu podlegającego przymusowej restrukturyzacji nie występuje do Europejskiego Urzędu Nadzoru Bankowego o wiążącą mediację przypadku, gdy minimalny poziom funduszy własnych i zobowiązań kwalifikowalnych na poziomie indywidualnym, określony przez właściwy organ przymusowej restrukturyzacji dla podmiotów zależnych:
 
-- **1)** nie przekracza 2 % łącznej kwoty ekspozycji na ryzyko minimalnego poziomu funduszy własnych i zobowiązań kwalifikowalnych określonego dla podmiotu podlegającego przymusowej restrukturyzacji; mentu Europejskiego i Rady 2014/59/UE z dnia 15 maja 2014 r. ustanawiającej ramy na potrzeby prowadzenia działań naprawczych oraz restrukturyzacji i uporządkowanej likwidacji odniesieniu do instytucji kredytowych i firm inwestycyjnych oraz zmieniającej dyrektywę Rady 82/891/EWG i dyrektywy Parlamentu Europejskiego i Rady 2001/24/WE, 2002/47/WE, 2004/25/WE, 2005/56/WE, 2007/36/WE, 2011/35/UE, 2012/30/UE i 2013/36/EU oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1093/2010 i (UE) nr 648/2012 (Dz. Urz. UE L 173 z 12.06.2014, str. 190, z późn. zm. ).
+- **1)** nie przekracza 2 % łącznej kwoty ekspozycji na ryzyko minimalnego poziomu funduszy własnych i zobowiązań kwalifikowalnych określonego dla podmiotu podlegającego przymusowej restrukturyzacji; stwa członkowskiego innego niż Rzeczpospolita Polska, stanowiącymi implementację art. 45c ust. 7 dyrektywy Parlamentu Europejskiego i Rady 2014/59/UE z dnia 15 maja 2014 r. ustanawiającej ramy na potrzeby prowadzenia działań naprawczych oraz restrukturyzacji i uporządkowanej likwidacji odniesieniu do instytucji kredytowych i firm inwestycyjnych oraz zmieniającej dyrektywę Rady 82/891/EWG i dyrektywy Parlamentu Europejskiego i Rady 2001/24/WE, 2002/47/WE, 2004/25/WE, 2005/56/WE, 2007/36/WE, 2011/35/UE, 2012/30/UE i 2013/36/EU oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1093/2010 i (UE) nr 648/2012 (Dz. Urz. UE L 173 z 12.06.2014, str. 190, z późn. zm. ).
 
 12. W przypadkach, o których mowa ust. 3 i 7, jeżeli brak określenia minimalnych poziomów funduszy własnych i zobowiązań kwalifikowalnych terminie 4 miesięcy od dnia przekazania przez Fundusz informacji niezbędnych do określenia minimalnego poziomu funduszy własnych i zobowiązań kwalifikowalnych wynika z braku porozumienia dotyczącego tych poziomów dla grupy podlegającej przymusowej restrukturyzacji na poziomie skonsolidowanym oraz dla podmiotów wchodzących skład tej grupy na poziomie indywidualnym, określenia minimalnych poziomów funduszy własnych i zobowiązań kwalifikowalnych na poziomie:
 
@@ -1826,7 +2066,7 @@ Art. 341–368. (pominięte)
 - **2)** opinię właściwego organu przymusowej restrukturyzacji dla grupy, przypadku gdy właściwy organ przymusowej restrukturyzacji dla grupy jest inny niż organ przymusowej restrukturyzacji właściwy dla podmiotu podlegającego przymusowej restrukturyzacji;
 - **3)** ocenę podmiotów należących do grupy podlegającej przymusowej restrukturyzacji, które nie są podmiotami podlegającymi przymusowej restrukturyzacji, dokonaną przez właściwe organy przymusowej restrukturyzacji, jeżeli krajowy podmiot zależny jest podmiotem podlegającym przymusowej restrukturyzacji.
 
-4. Jeżeli przed upływem terminu, o którym mowa ust. 3, Fundusz, właściwy organ przymusowej restrukturyzacji dla grupy i właściwe organy przymusowej restrukturyzacji dla podmiotów zależnych od unijnej instytucji dominującej lub unijnej dominującej firmy inwestycyjnej nie określą minimalnego poziomu funduszy własnych i zobowiązań kwalifikowalnych dla podmiotów zależnych od unijnej instytucji dominującej lub unijnej dominującej firmy inwestycyjnej, a którykolwiek z takich właściwych organów przymusowej restrukturyzacji zwrócił się do Europejskiego Urzędu Nadzoru Bankowego o wiążącą mediację, Fundusz nie określa minimalnego poziomu funduszy własnych i zobowiązań kwalifikowalnych dla krajowego podmiotu zależnego od unijnej instytucji dominującej lub unijnej dominującej firmy inwestycyjnej do czasu podjęcia decyzji przez Europejski Urząd Nadzoru Bankowego. Przepis art. 75 ust. 7 stosuje się odpowiednio. zań kwalifikowalnych dla podmiotów zależnych od unijnej instytucji dominującej lub unijnej dominującej firmy inwestycyjnej, Fundusz może przystąpić do wspólnej decyzji określającej minimalne poziomy funduszy własnych i zobowiązań kwalifikowalnych dla pozostałych podmiotów zależnych od unijnej jednostki dominującej lub unijnej dominującej firmy inwestycyjnej wraz z pozostałymi właściwymi organami przymusowej restrukturyzacji ramach kolegium przymusowej restrukturyzacji.
+4. Jeżeli przed upływem terminu, o którym mowa ust. 3, Fundusz, właściwy organ przymusowej restrukturyzacji dla grupy i właściwe organy przymusowej restrukturyzacji dla podmiotów zależnych od unijnej instytucji dominującej lub unijnej dominującej firmy inwestycyjnej nie określą minimalnego poziomu funduszy własnych i zobowiązań kwalifikowalnych dla podmiotów zależnych od unijnej instytucji dominującej lub unijnej dominującej firmy inwestycyjnej, a którykolwiek z takich właściwych organów przymusowej restrukturyzacji zwrócił się do Europejskiego Urzędu Nadzoru Bankowego o wiążącą mediację, Fundusz nie określa minimalnego poziomu funduszy własnych i zobowiązań kwalifikowalnych dla krajowego podmiotu zależnego od unijnej instytucji dominującej lub unijnej dominującej firmy inwestycyjnej do czasu podjęcia decyzji przez Europejski Urząd Nadzoru Bankowego. Przepis art. 75 ust. 7 stosuje się odpowiednio. musowej restrukturyzacji, nie przystąpił do wspólnej decyzji określającej minimalny poziom funduszy własnych i zobowiązań kwalifikowalnych dla podmiotów zależnych od unijnej instytucji dominującej lub unijnej dominującej firmy inwestycyjnej, Fundusz może przystąpić do wspólnej decyzji określającej minimalne poziomy funduszy własnych i zobowiązań kwalifikowalnych dla pozostałych podmiotów zależnych od unijnej jednostki dominującej lub unijnej dominującej firmy inwestycyjnej wraz z pozostałymi właściwymi organami przymusowej restrukturyzacji ramach kolegium przymusowej restrukturyzacji.
 
 6. Jeżeli Europejski Urząd Nadzoru Bankowego nie podejmie decyzji terminie miesiąca od dnia złożenia wniosku o wiążącą mediację, Fundusz określa minimalny poziom funduszy własnych i zobowiązań kwalifikowalnych dla krajowego podmiotu zależnego od unijnej instytucji dominującej lub unijnej dominującej firmy inwestycyjnej.
 
@@ -1856,9 +2096,7 @@ Art. 341–368. (pominięte)
 
 - **1)** kasa, zamiast informacji, o których mowa ust. 1 pkt 1, przekazuje informacje dotyczące kwoty funduszy własnych, o których mowa art. 97a ust. 6 pkt 1, oraz kwoty zobowiązań kwalifikowalnych spełniających warunki określone art. 97a ust. 6 pkt 2 i ust. 7;
 - **2)** podmiot niebędący podmiotem podlegającym przymusowej restrukturyzacji, zamiast informacji dotyczących kwot funduszy własnych i zobowiązań kwalifikowalnych, o których mowa ust. 1 pkt 1, przekazuje informacje dotyczące kwot funduszy własnych spełniających warunki określone art. 98 ust. 2l pkt 2 i zobowiązań spełniających warunki określone art. 98 ust. 2l pkt 1.
-
-4. Informacje są przekazywane nierzadziej niż raz na:
-
+- **1)** 6 miesięcy przypadku informacji, o których mowa ust. 1 pkt 1 oraz ust. 3;
 - **2)** rok przypadku informacji, o których mowa ust. 1 pkt 2 i 3.
 
 5. Komisja Nadzoru Finansowego lub Fundusz mogą zobowiązać podmioty do przekazywania informacji częściej niż terminach określonych ust. 4.
@@ -1896,7 +2134,7 @@ Art. 341–368. (pominięte)
 2. Komisja Nadzoru Finansowego niezwłocznie informuje Fundusz o:
 
 - **1)** zaprzestaniu spełniania przez oddział banku zagranicznego warunków prowadzenia działalności albo zagrożeniu zaprzestania spełniania przez oddział banku zagranicznego warunków prowadzenia działalności oraz o braku przesłanek wskazujących, że możliwe działania nadzorcze lub działania tego podmiotu pozwolą we właściwym czasie usunąć to zagrożenie lub spełnić te warunki;
-- **2)** zaprzestaniu przez oddział banku zagranicznego regulowania zobowiązań lub takim zagrożeniu; podobnego postępowania, lub zamiarze wszczęcia takiego postępowania wobec banku zagranicznego.
+- **3)** wszczęciu przez właściwy organ przymusowej restrukturyzacji państwa trzeciego przymusowej restrukturyzacji lub podobnego postępowania, lub zamiarze wszczęcia takiego postępowania wobec banku zagranicznego.
 
 3. Podmiot uznaje się za zagrożony upadłością przypadku wystąpienia co najmniej jednej z następujących okoliczności:
 
@@ -1933,10 +2171,8 @@ Art. 341–368. (pominięte)
 - **7)** podmiotom zarządzającym funduszami przymusowej restrukturyzacji państwie, na którego terytorium ma siedzibę podmiot dominujący, przypadku gdy funduszem nie zarządza właściwy organ przymusowej restrukturyzacji dla grupy;
 - **8)** Przewodniczącemu Komitetu Stabilności Finansowej;
 - **9)** Europejskiej Radzie Ryzyka Systemowego.
-
-7. W przypadku gdy łącznie są spełnione następujące warunki:
-
-- **1)** podmiot krajowy jest zagrożony upadłością, nalnej lub działania nadzorcze, tym środki wczesnej interwencji, pozwolą we właściwym czasie usunąć zagrożenie upadłością,
+- **1)** podmiot krajowy jest zagrożony upadłością,
+- **2)** nie występują uzasadnione przesłanki wskazujące, że działania podmiotu krajowego lub systemu ochrony instytucjonalnej lub działania nadzorcze, tym środki wczesnej interwencji, pozwolą we właściwym czasie usunąć zagrożenie upadłością,
 - **3)** działania wobec podmiotu krajowego konieczne są interesie publicznym Fundusz wydaje decyzję o wszczęciu wobec podmiotu krajowego przymusowej restrukturyzacji albo decyzję o umorzeniu lub konwersji instrumentów kapitałowych lub zobowiązań kwalifikowalnych, o której mowa art. 70 ust. 1 pkt 1.
 
 8. W przypadku, o którym mowa ust. 2 pkt 1 lub 3, jeżeli działania wobec oddziału podmiotu mającego siedzibę na terytorium państwa trzeciego lub banku zagranicznego konieczne są interesie publicznym, Fundusz wydaje decyzję o wszczęciu wobec tego oddziału przymusowej restrukturyzacji.
@@ -1969,8 +2205,7 @@ Art. 341–368. (pominięte)
 13. Nie uznaje się za zaangażowanie nadzwyczajnych środków publicznych, o którym mowa ust. 3 pkt 4, udzielenia na podstawie odrębnych przepisów pomocy wypłacalnemu podmiotowi celu przeciwdziałania poważnym zakłóceniom gospodarce i utrzymania stabilności finansowej formie:
 
 - **1)** gwarancji Skarbu Państwa celu zabezpieczenia wsparcia płynności, udostępnianego przez Narodowy Bank Polski,
-- **2)** gwarancji Skarbu Państwa spłaty zobowiązań z tytułu nowo emitowanych instrumentów dłużnych,
-- **3)** rekapitalizacji na warunkach nieodbiegających od przeciętnych warunków rynkowych przypadku, gdy jest ona konieczna do pokrycia niedoborów kapitału oszacowanych wyniku testów warunków skrajnych lub przeglądu jakości aktywów o ile jest proporcjonalne do skali zagrożeń, ma charakter zapobiegawczy i czasowy, a także nie może służyć pokryciu strat, które podmiot poniósł lub poniesie bliskiej przyszłości.
+- **2)** gwarancji Skarbu Państwa spłaty zobowiązań z tytułu nowo emitowanych instrumentów dłużnych, do pokrycia niedoborów kapitału oszacowanych wyniku testów warunków skrajnych lub przeglądu jakości aktywów przeprowadzonych przez Komisję Nadzoru Finansowego, Europejski Bank Centralny lub Europejski Urząd Nadzoru Bankowego o ile jest proporcjonalne do skali zagrożeń, ma charakter zapobiegawczy i czasowy, a także nie może służyć pokryciu strat, które podmiot poniósł lub poniesie bliskiej przyszłości.
 
 14. Podmiot krajowy lub podmioty, o których mowa art. 64 pkt 2 lit. a, c lub d, podlegają likwidacji na zasadach określonych odrębnych przepisach, przypadku gdy są spełnione przesłanki określone ust. 7 pkt 1 i 2, ale nie jest spełniony warunek określony ust. 7 pkt 3.
 
@@ -2009,8 +2244,8 @@ Art. 341–368. (pominięte)
 6. Fundusz niezwłocznie zawiadamia o wydaniu decyzji, o których mowa art. 11 ust. 4 pkt 1, 2, 4–14, 17–20 i 22–26 podmioty wymienione art. 101 ust. 6 oraz:
 
 - **1)** Komisję Europejską;
-- **2)** Europejski Bank Centralny;
-- **3)** odpowiednio Europejski Urząd Nadzoru Giełd i Papierów Wartościowych, Europejski Urząd Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych lub Europejski Urząd Nadzoru Bankowego; Krajowy Depozyt Papierów Wartościowych Spółkę Akcyjną;
+- **2)** Europejski Bank Centralny; i Pracowniczych Programów Emerytalnych lub Europejski Urząd Nadzoru Bankowego;
+- **4)** jeżeli zagrożony podmiot jest instytucją, o której mowa art. 1 pkt 5 lit. c, d i h–j ustawy o ostateczności rozrachunku operatorów systemów płatności lub systemów rozrachunku, których uczestnikiem jest ten podmiot, oraz Krajowy Depozyt Papierów Wartościowych Spółkę Akcyjną;
 - **5)** Komisję Nadzoru Finansowego.
 
 7. Do zawiadomienia, o którym mowa ust. 6, załącza się odpis decyzji będącej przedmiotem zawiadomienia. W zawiadomieniu wskazuje się dzień, z którym decyzja staje się wykonalna.
@@ -2047,14 +2282,17 @@ Art. 341–368. (pominięte)
 
 **Art. 108.** Jeżeli ocenie Narodowego Banku Polskiego lub ministra właściwego do spraw instytucji finansowych sytuacja ekonomiczna podmiotu krajowego może negatywnie wpłynąć na:
 
+- **1)** realizację funkcji krytycznych,
+- **2)** stabilność finansową, szczególności zaufanie do sektora finansowego i dyscyplinę rynkową,
+- **3)** ochronę interesów deponentów,
+- **4)** ochronę funduszy lub aktywów klientów powierzonych podmiotowi podmioty te informują o tym Fundusz i Komisję Nadzoru Finansowego.
+
 **Art. 109.**
 
 1. Fundusz niezwłocznie zamieszcza na swojej stronie internetowej:
 
 - **1)** decyzję o wszczęciu przymusowej restrukturyzacji oraz wydane ramach przymusowej restrukturyzacji decyzje, o których mowa art. 11 ust. 4 pkt 2, 4–8, 11, 12 i 17–26, lub informację o tych decyzjach oraz przyczynach i skutkach wydania tych decyzji, szczególności dla klientów indywidualnych;
-- **2)** decyzje, o których mowa art. 142 ust. 1, art. 143 ust. 1 i 2, art. 144 ust. 1 oraz art. 144a ust. 1, wraz z informacją o warunkach zawieszenia regulowania zobowiązań, zawieszenia prawa do realizacji zabezpieczeń i zawieszenia prawa do wypowiedzenia.
-
-1a. Decyzje lub informacje, o których mowa ust. 1, są zamieszczane z zachowaniem tajemnicy, o której mowa art. 320 ust. 2, tajemnicy bankowej, o której mowa art. 104 ustawy Prawo bankowe, tajemnicy, o której mowa art. 9e instrumentami finansowymi.
+- **2)** decyzje, o których mowa art. 142 ust. 1, art. 143 ust. 1 i 2, art. 144 ust. 1 oraz art. 144a ust. 1, wraz z informacją o warunkach zawieszenia regulowania zobowiązań, zawieszenia prawa do realizacji zabezpieczeń i zawieszenia prawa do wypowiedzenia. art. 320 ust. 2, tajemnicy bankowej, o której mowa art. 104 ustawy Prawo bankowe, tajemnicy, o której mowa art. 9e ustawy o spółdzielczych kasach oszczędnościowo-kredytowych, oraz tajemnicy, o której mowa art. 147 ustawy o obrocie instrumentami finansowymi.
 
 2. Fundusz przekazuje niezwłocznie, postaci papierowej lub elektronicznej, decyzje lub informacje, o których mowa ust. 1, Komisji Nadzoru Finansowego, Europejskiemu Urzędowi Nadzoru Bankowego i podmiotowi restrukturyzacji, celu ich zamieszczenia na stronach internetowych tych podmiotów, z uwzględnieniem dochowania obowiązku zachowania tajemnic, o których mowa ust. 1a.
 
@@ -2090,9 +2328,9 @@ Art. 341–368. (pominięte)
 4. W przypadku zastosowania instrumentów przymusowej restrukturyzacji wobec:
 
 - **1)** kasy przepisów art. 10 i art. 11 ustawy o spółdzielczych kasach oszczędnościowo-kredytowych nie stosuje się;
-- **2)** banków spółdzielczych przepisów art. 16 i art. 17 ustawy z dnia 16 września 1982 r. Prawo spółdzielcze nie stosuje się.
+- **2)** banków spółdzielczych przepisów art. 16 i art. 17 ustawy z dnia 16 września 1982 r. Prawo spółdzielcze nie stosuje się. dzielczy, przepisy art. 5 ust. 3 i 4 ustawy o funkcjonowaniu banków spółdzielczych stosuje się odpowiednio.
 
-5. W przypadku gdy nabywcą lub podmiotem przejmującym ramach przymusowej restrukturyzacji jest bank spółdzielczy, przepisy art. 5 ust. 3 i 4 ustawy o funkcjonowaniu banków spółdzielczych stosuje się odpowiednio. zapewnia podjęcie innych działań, które spowodują poniesienie strat przez właścicieli lub wierzycieli tych instrumentów, przed zastosowaniem instrumentów przymusowej restrukturyzacji lub jednocześnie z ich zastosowaniem, jeżeli wyniku zastosowania tych instrumentów wierzyciele ponieśliby straty lub ich zobowiązania podlegałyby konwersji.
+6. Fundusz dokonuje umorzenia lub konwersji instrumentów kapitałowych lub zobowiązań kwalifikowalnych lub zapewnia podjęcie innych działań, które spowodują poniesienie strat przez właścicieli lub wierzycieli tych instrumentów, przed zastosowaniem instrumentów przymusowej restrukturyzacji lub jednocześnie z ich zastosowaniem, jeżeli wyniku zastosowania tych instrumentów wierzyciele ponieśliby straty lub ich zobowiązania podlegałyby konwersji.
 
 **Art. 111.** Przymusowa restrukturyzacja zostaje wszczęta z dniem doręczenia podmiotowi decyzji Funduszu, o której mowa art. 101 ust. 7–9 i art. 102 ust. 1 i 4.
 
@@ -2126,9 +2364,7 @@ Art. 341–368. (pominięte)
 
 7. Fundusz może udzielić Narodowemu Bankowi Polskiemu gwarancji spłaty kredytów, o których mowa art. 42 ust. 1 oraz art. 43 ust. 2 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2022 r. poz. 2025 oraz z 2026 r. poz. 340). Przepisy art. 80–84 ustawy Prawo bankowe stosuje się odpowiednio.
 
-8. Jeżeli nie umówiono się inaczej, z dniem spełnienia przez Fundusz świadczenia z tytułu gwarancji, o której mowa ust. 1 pkt 3 lub ust. 7, Fundusz nabywa z mocy prawa spłaconą wierzytelność wynikającą z udzielonego kredytu, pożyczki lub wyemitowanych i objętych obligacji do wysokości dokonanej zapłaty, wraz z przedmiotem zabezpieczenia ustanowionym przez pożyczkobiorcę, kredytobiorcę lub podmiot zarządzający aktywami oraz innymi prawami związanymi z nabytą wierzytelnością.
-
-9. Gwarancja, o której mowa ust. 1 pkt 3 lub ust. 7, może także obejmować spłatę kredytu, pożyczki lub wykup obligacji, wraz z odsetkami umownymi oraz innymi kosztami związanymi z kredytem, pożyczką lub obligacjami. Wypłaty nanych płatności z tytułu wyemitowanych obligacji oraz o kwoty uzyskane przez kredytodawcę, pożyczkodawcę lub podmiot, który nabył obligacje, wyniku zaspokojenia się z przedmiotu zabezpieczenia tego kredytu, pożyczki lub z przedmiotu zabezpieczenia tych obligacji.
+8. Jeżeli nie umówiono się inaczej, z dniem spełnienia przez Fundusz świadczenia z tytułu gwarancji, o której mowa ust. 1 pkt 3 lub ust. 7, Fundusz nabywa z mocy prawa spłaconą wierzytelność wynikającą z udzielonego kredytu, pożyczki lub wyemitowanych i objętych obligacji do wysokości dokonanej zapłaty, wraz z przedmiotem zabezpieczenia ustanowionym przez pożyczkobiorcę, kredytobiorcę lub podmiot zarządzający aktywami oraz innymi prawami związanymi z nabytą wierzytelnością. obligacji, wraz z odsetkami umownymi oraz innymi kosztami związanymi z kredytem, pożyczką lub obligacjami. Wypłaty z tytułu gwarancji są pomniejszane o spłaty kredytu dokonane przez kredytobiorcę lub pożyczkobiorcę lub kwotę dokonanych płatności z tytułu wyemitowanych obligacji oraz o kwoty uzyskane przez kredytodawcę, pożyczkodawcę lub podmiot, który nabył obligacje, wyniku zaspokojenia się z przedmiotu zabezpieczenia tego kredytu, pożyczki lub z przedmiotu zabezpieczenia tych obligacji.
 
 **Art. 113.**
 
@@ -2155,9 +2391,7 @@ Art. 341–368. (pominięte)
 
 1a. W przypadku, o którym mowa ust. 1 pkt 1, Fundusz reprezentuje podmiot restrukturyzacji. Przepisów dotyczących podejmowania decyzji i uchwał przez organy podmiotu restrukturyzacji nie stosuje się.
 
-1b. Fundusz może powołać zarząd podmiotu restrukturyzacji. W przypadku powołania takiego zarządu decyzja o ustanowieniu administratora, zastępcy administratora lub pełnomocników, o których mowa art. 114 ust. 1, traci moc. W tym przypadku uprawnienia do podejmowania decyzji i uchwał zastrzeżonych ustawie i statucie albo umowie spółki zastrzeżone do właściwości zarządu przechodzą na zarząd podmiotu restrukturyzacji.
-
-1c. Powołanie zarządu podmiotu restrukturyzacji traci moc przypadku wydania przez Fundusz decyzji o ustanowieniu administratora, zastępcy administratora lub pełnomocników, o których mowa art. 114 ust. 1. W tym przypadku zarządu przechodzą na administratora, zastępcę administratora lub pełnomocników.
+1b. Fundusz może powołać zarząd podmiotu restrukturyzacji. W przypadku powołania takiego zarządu decyzja o ustanowieniu administratora, zastępcy administratora lub pełnomocników, o których mowa art. 114 ust. 1, traci moc. W tym przypadku uprawnienia do podejmowania decyzji i uchwał zastrzeżonych ustawie i statucie albo umowie spółki zastrzeżone do właściwości zarządu przechodzą na zarząd podmiotu restrukturyzacji. wieniu administratora, zastępcy administratora lub pełnomocników, o których mowa art. 114 ust. 1. W tym przypadku uprawnienia do podejmowania decyzji i uchwał zastrzeżonych ustawie i statucie albo umowie spółki zastrzeżone do właściwości zarządu przechodzą na administratora, zastępcę administratora lub pełnomocników.
 
 1d. W przypadkach, o których mowa ust. 1b i 1c, nie stosuje się przepisów art. 22b ust. 1 ustawy Prawo bankowe, art. 21 ust. 1 ustawy o spółdzielczych kasach oszczędnościowo-kredytowych oraz art. 102a ust. 1 ustawy o obrocie instrumentami finansowymi.
 
@@ -2200,7 +2434,7 @@ Art. 341–368. (pominięte)
 
 2. Zwrot świadczenia spełnionego na podstawie czynności prawnej, o której mowa ust. 1, na rzecz podmiotu restrukturyzacji, przysługuje, jeżeli czynność prawna została podjęta po wszczęciu przymusowej restrukturyzacji, a przed podaniem informacji o decyzji Funduszu, o której mowa art. 101 ust. 7–9 i art. 102 ust. 1 i 4, do publicznej wiadomości, chyba że strona tej czynności wiedziała o wszczęciu tego postępowania.
 
-**Art. 116.** Fundusz niezwłocznie powiadamia sąd rejestrowy o wszczęciu przymusowej restrukturyzacji. art. 101 ust. 7–9 i art. 102 ust. 1 i 4, na podstawie oszacowania, o którym mowa art. 137 ust. 2 i 3.
+**Art. 117.** Fundusz sporządza bilans otwarcia przymusowej restrukturyzacji na dzień doręczenia decyzji, o której mowa art. 101 ust. 7–9 i art. 102 ust. 1 i 4, na podstawie oszacowania, o którym mowa art. 137 ust. 2 i 3.
 
 **Art. 118.**
 
@@ -2213,6 +2447,20 @@ Art. 341–368. (pominięte)
 **Art. 120.** Na wniosek Funduszu podmioty prowadzące repozytoria transakcji udostępniają posiadane informacje niezbędne do przygotowania planów przymusowej restrukturyzacji, grupowych planów przymusowej restrukturyzacji, umorzenia lub konwersji instrumentów kapitałowych lub prowadzenia przymusowej restrukturyzacji.
 
 **Art. 121.** W przymusowej restrukturyzacji:
+
+- **1)** prowadzonej wobec podmiotów restrukturyzacji będących spółkami prawa handlowego nie stosuje się:
+    - **a)** przepisów art. 212, art. 223, art. 233, art. 236, art. 237, art. 255 § 1, art. 397, art. 399 § 3, art. 400, art. 401, art. 430 § 1 oraz przepisów tytułu IV działu I i II oraz działu III rozdziału 4 Kodeksu spółek handlowych, aa) przepisów art. 258 § 1 oraz art. 311–312 związku z art. 431 § 7 i art. 433 § 1 Kodeksu spółek handlowych do objęcia praw udziałowych na podstawie decyzji o umorzeniu lub konwersji instrumentów kapitałowych lub zobowiązań kwalifikowalnych, lub decyzji o zastosowaniu instrumentów przymusowej restrukturyzacji,
+    - **b)** do zwołania zgromadzenia wspólników lub walnego zgromadzenia podmiotu restrukturyzacji terminów, o których mowa art. 238 § 1, art. 402 § 1 i 3 oraz art. 402 § 2 Kodeksu spółek handlowych, ba) przepisów rozdziałów 4a i 4b ustawy o ofercie publicznej,
+    - **c)** przepisów ustawy z dnia 26 maja 2023 r. o uczestnictwie pracowników spółce powstałej wyniku transgranicznego przekształcenia, połączenia lub podziału spółek (Dz. U. poz. 1784);
+
+- **2)** prowadzonej wobec podmiotów restrukturyzacji będących bankami nie stosuje się przepisów art. 34 ust. 2, art. 124, art. 124a i art. 124c ustawy Prawo bankowe;
+- **3)** prowadzonej wobec podmiotów restrukturyzacji będących spółdzielniami nie stosuje się przepisów art. 12a § 3, art. 36 § 8, art. 39, art. 40 § 2 i art. 42 § 3–7 oraz przepisów części I tytułu I działów VIII, IX i XI ustawy z dnia 16 września 1982 r. Prawo spółdzielcze, a także postanowień statutów spółdzielni określających zasady zwoływania walnych zgromadzeń, obradowania na nich i podejmowania uchwał;
+- **4)** prowadzonej wobec podmiotów restrukturyzacji będących bankami spółdzielczymi lub bankami zrzeszającymi nie stosuje się przepisów art. 5 ust. 2, art. 5a, art. 6 ust. 2, art. 7, art. 8 ust. 1, art. 9 i art. 23 ustawy o funkcjonowaniu banków spółdzielczych;
+- **5)** prowadzonej wobec podmiotów restrukturyzacji będących kasami nie stosuje się przepisów art. 74a i art. 74b ustawy o spółdzielczych kasach oszczędnościowo-kredytowych;
+- **6)** prowadzonej wobec podmiotów restrukturyzacji będących bankami zrzeszającymi nie stosuje się: wej restrukturyzacji nie stosuje się przepisów ustawy z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego (Dz. U. z 2025 r. poz. 1653 oraz z 2026 r. poz. 317).
+    - **a)** wymogów, o których mowa art. 2 pkt 2 ustawy o funkcjonowaniu banków spółdzielczych, dotyczących tworzenia banku zrzeszającego przez banki spółdzielcze oraz posiadania kapitału założycielskiego wynoszącego co najmniej czterokrotność kwoty określonej art. 32 ust. 1 ustawy Prawo bankowe lub dwukrotność tej kwoty przypadku banku, którego działalność ogranicza się wyłącznie do świadczenia usług na rzecz zrzeszonych banków,
+    - **b)** wymogu posiadania lub nabycia przez zrzeszone banki spółdzielcze co najmniej jednej akcji banku zrzeszającego, o którym mowa art. 16 ust. 1 ustawy o funkcjonowaniu banków spółdzielczych,
+    - **c)** przepisów art. 21 ustawy o funkcjonowaniu banków spółdzielczych.
 
 **Art. 122.**
 
@@ -2243,6 +2491,9 @@ Art. 341–368. (pominięte)
 3. W przypadku wszczęcia przymusowej restrukturyzacji przepis art. 41 Kodeksu pracy stosuje się odpowiednio do podmiotu restrukturyzacji.
 
 **Art. 125.** Fundusz, stosując instrumenty przymusowej restrukturyzacji i wykonując uprawnienia, o których mowa art. 113 ust. 1:
+
+- **1)** uwzględnia wynikające z odrębnych przepisów uprawnienia pracowników do udziału organach zarządzających lub nadzorczych podmiotu restrukturyzacji;
+- **2)** razie potrzeby informuje o podejmowanych działaniach pracowników podmiotu restrukturyzacji i konsultuje się z nimi.
 
 **Art. 126.** Fundusz może zwrócić się do ministra właściwego do spraw instytucji finansowych o wyrażenie zgody na zastosowanie rządowych instrumentów stabilizacji finansowej, o których mowa rozdziale 3a ustawy z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej. Przymusowa restrukturyzacja grup
 
@@ -2313,7 +2564,7 @@ Art. 341–368. (pominięte)
 2. (uchylony) 2a. W przypadku gdy:
 
 - **1)** zgodnie z globalną strategią przymusowej restrukturyzacji dla grupy podmioty zależne utworzone państwach członkowskich lub podmiot będący unijną instytucją dominującą, unijną dominującą firmą inwestycyjną, unijną dominującą finansową spółką holdingową, unijną dominującą inwestycyjną spółką holdingową albo unijną dominującą finansową spółką holdingową o działalności mieszanej, i jego podmioty zależne będące instytucjami nie są podmiotami podlegającymi przymusowej restrukturyzacji,
-- **2)** członkowie europejskiego kolegium przymusowej restrukturyzacji akceptują globalną strategię przymusowej restrukturyzacji podmioty zależne utworzone państwach członkowskich oraz podmiot będący unijną instytucją dominującą, unijną dominującą finansową spółką holdingową albo unijną dominującą finansową spółką holdingową o działalności mieszanej, na poziomie skonsolidowanym, utrzymują minimalny poziom funduszy własnych i zobowiązań kwalifikowalnych zgodnie z art. 98 ust. 2i oraz 2l.
+- **2)** członkowie europejskiego kolegium przymusowej restrukturyzacji akceptują globalną strategię przymusowej restrukturyzacji podmioty zależne utworzone państwach członkowskich oraz podmiot będący unijną instytucją dominującą, unijną dominującą finansową spółką holdingową albo unijną dominującą finansową spółką holdingową o działalności mieszanej, na poziomie skonsolidowanym, utrzymują minimalny poziom funduszy własnych i zobowiązań kwalifikowalnych zgodnie z art. 98 ust. 2i oraz 2l. art. 98 ust. 2l, które zostały objęte przez:
 - **1)** jednostkę dominującą najwyższego szczebla rozumieniu art. 92b ust. 2 rozporządzenia nr 575/2013,
 - **2)** podmioty zależne jednostki, o której mowa pkt 1, z siedzibą na terytorium tego samego państwa trzeciego co ta jednostka, lub
 - **3)** osoby prawne inne niż podmioty określone pkt 1 i 2, jeżeli są spełnione warunki określone art. 98 ust. 2l pkt 1 lit. a lub pkt 2 lit. b.
@@ -2383,7 +2634,7 @@ Art. 341–368. (pominięte)
 
 2. Fundusz przedstawia propozycję schematu przymusowej restrukturyzacji, jeżeli:
 
-- **1)** podjęcie działań wobec krajowego podmiotu dominującego może spowodować spełnienie przesłanek wszczęcia przymusowej restrukturyzacji wobec podmiotów zależnych państwach członkowskich;
+- **1)** podjęcie działań wobec krajowego podmiotu dominującego może spowodować spełnienie przesłanek wszczęcia przymusowej restrukturyzacji wobec podmiotów zależnych państwach członkowskich; lub nie zapewnia najpełniejszej realizacji celów przymusowej restrukturyzacji;
 - **3)** przesłanki wszczęcia przymusowej restrukturyzacji są spełnione przynajmniej wobec jednego podmiotu zależnego państwie członkowskim;
 - **4)** podjęcie działań wobec krajowego podmiotu dominującego przyniesie podmiotom zależnym korzyści uzasadniające uzgodnienie schematu przymusowej restrukturyzacji.
 
@@ -2498,7 +2749,7 @@ Art. 341–368. (pominięte)
 
 2. Dzień, na który dokonuje się zamknięcia ksiąg rachunkowych, jest dniem bilansowym rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2026 r. poz. 522). Sprawozdanie finansowe sporządzone na ten dzień nie jest rocznym sprawozdaniem finansowym rozumieniu tej ustawy.
 
-3. Zyski lub straty, ustalone na podstawie sprawozdania finansowego, o którym mowa ust. 2, mogą podlegać odpowiednio podziałowi lub pokryciu. szeniu tego prawa.
+3. Zyski lub straty, ustalone na podstawie sprawozdania finansowego, o którym mowa ust. 2, mogą podlegać odpowiednio podziałowi lub pokryciu. na okres niedłuższy niż do końca dnia roboczego następującego po dniu publikacji ogłoszenia o decyzji Funduszu o zawieszeniu tego prawa.
 
 2. Fundusz nie może zawiesić prawa do realizacji zabezpieczenia przez:
 
@@ -2539,7 +2790,7 @@ Art. 341–368. (pominięte)
 2. Przepisu ust. 1 nie stosuje się stosunku do zobowiązań:
 
 - **1)** wobec deponentów z tytułu środków gwarantowanych;
-- **2)** wobec inwestorów z tytułu środków objętych ochroną ramach systemu rekompensat;
+- **2)** wobec inwestorów z tytułu środków objętych ochroną ramach systemu rekompensat; ustawy o ostateczności rozrachunku, tym wobec podmiotu prowadzącego ten system;
 - **4)** wobec CCP;
 - **5)** wobec Narodowego Banku Polskiego, banku centralnego innego państwa członkowskiego rozumieniu przepisów ustawy o ostateczności rozrachunku lub Europejskiego Banku Centralnego.
 
@@ -2616,7 +2867,7 @@ Art. 341–368. (pominięte)
 
 **Art. 146.**
 
-1. Fundusz może, drodze decyzji, zobowiązać podmiot należący do grupy podmiotu restrukturyzacji do świadczenia usług zakresie niezbędnym do prowadzenia działalności związanej z przeniesionymi: przedsiębiorstwem podmiotu restrukturyzacji, prawami udziałowymi podmiotu restrukturyzacji, wybranymi albo wszystkimi prawami majątkowymi lub wybranymi albo wszystkimi zobowiązaniami podmiotu restrukturyzacji przez podmiot, na który są przenoszone, szczególności jeżeli świadczyły one takie usługi na rzecz podmiotu restrukturyzacji przed dniem wszczęcia przymusowej restrukturyzacji. Okres świadczenia usług nie może być dłuższy niż 12 miesięcy od dnia wydania decyzji Funduszu o zastosowaniu instrumentu przejęcia przedsiębiorstwa, instytucji pomostowej lub wydzielenia praw majątkowych. ciętnych warunkach rynkowych, na podstawie umowy zawartej z podmiotem, na rzecz którego są świadczone usługi.
+1. Fundusz może, drodze decyzji, zobowiązać podmiot należący do grupy podmiotu restrukturyzacji do świadczenia usług zakresie niezbędnym do prowadzenia działalności związanej z przeniesionymi: przedsiębiorstwem podmiotu restrukturyzacji, prawami udziałowymi podmiotu restrukturyzacji, wybranymi albo wszystkimi prawami majątkowymi lub wybranymi albo wszystkimi zobowiązaniami podmiotu restrukturyzacji przez podmiot, na który są przenoszone, szczególności jeżeli świadczyły one takie usługi na rzecz podmiotu restrukturyzacji przed dniem wszczęcia przymusowej restrukturyzacji. Okres świadczenia usług nie może być dłuższy niż 12 miesięcy od dnia wydania decyzji Funduszu o zastosowaniu instrumentu przejęcia przedsiębiorstwa, instytucji pomostowej lub wydzielenia praw majątkowych. nych, a przypadku gdy podmioty te nie zawierały umów z podmiotem restrukturyzacji zakresie tych usług na przeciętnych warunkach rynkowych, na podstawie umowy zawartej z podmiotem, na rzecz którego są świadczone usługi.
 
 3. Usługi, o których mowa ust. 1, nie mogą obejmować wsparcia finansowego.
 
@@ -2625,6 +2876,9 @@ Art. 341–368. (pominięte)
 **Art. 147a.** Fundusz może zawiesić, do dnia zakończenia przymusowej restrukturyzacji, zwrot wpłat dokonanych przez właścicieli podmiotu restrukturyzacji na udziały podmiotu restrukturyzacji będącego spółdzielnią.
 
 **Art. 148.** Fundusz może wystąpić z wnioskiem do spółki prowadzącej rynek regulowany lub firmy inwestycyjnej organizującej alternatywny system obrotu, o której mowa art. 78 ustawy o obrocie instrumentami finansowymi:
+
+- **1)** o wykluczenie instrumentów finansowych z obrotu zorganizowanego rozumieniu przepisów tej ustawy, szczególności przypadku zastosowania instrumentu umorzenia lub konwersji zobowiązań;
+- **2)** o zawieszenie obrotu instrumentami finansowymi, na okres niedłuższy niż 3 miesiące.
 
 **Art. 149.**
 
@@ -2671,6 +2925,9 @@ Art. 341–368. (pominięte)
 - **2)** listów zastawnych lub innych zabezpieczonych instrumentów.
 
 **Art. 152.** Fundusz może, jeżeli jest to niezbędne celu zapewnienia dostępu deponentów do środków gwarantowanych, szczególności:
+
+- **1)** dokonać przeniesienia zobowiązań z tytułu środków gwarantowanych bez przeniesienia powiązanych z nimi praw majątkowych lub zobowiązań;
+- **2)** przenieść prawa majątkowe lub zobowiązania, zmienić warunki lub dokonać rozliczenia umowy bez odpowiednich czynności przeniesienia lub zmiany powiązanych zobowiązań z tytułu środków gwarantowanych.
 
 #### Rozdział 9 Administrator
 
@@ -2837,7 +3094,7 @@ Art. 341–368. (pominięte)
 
 1. Bezskuteczna jest umowa przeniesienia własności rzeczy, wierzytelności lub innego prawa majątkowego podmiotu zawarta celu zabezpieczenia wierzytelności, jeżeli nie została zawarta formie pisemnej z datą pewną.
 
-2. Umowa ustanawiająca zabezpieczenie finansowe na podstawie przepisów ustawy z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych dla swojej skuteczności wobec podmiotu restrukturyzacji nie wymaga zachowania formy pisemnej z datą pewną. przedsiębiorstwem podmiotu określone umowie o pracę, umowie o świadczenie usług lub uchwale organu podmiotu zawartej lub podjętej przed wszczęciem przymusowej restrukturyzacji jest rażąco wyższe od przeciętnego wynagrodzenia za tego rodzaju pracę lub usługi i nie jest uzasadnione nakładem pracy, wynagrodzenie lub jego część przypadające za okres przed wszczęciem przymusowej restrukturyzacji, niedłużej jednak niż 6 miesięcy przed dniem doręczenia decyzji Funduszu, o której mowa art. 101 ust. 7–9 i art. 102 ust. 1 i 4, podlegają zwrotowi, a przypadku gdy nie zostały wypłacone, roszczenie o ich wypłatę jest bezskuteczne stosunku do podmiotu restrukturyzacji.
+2. Umowa ustanawiająca zabezpieczenie finansowe na podstawie przepisów ustawy z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych dla swojej skuteczności wobec podmiotu restrukturyzacji nie wymaga zachowania formy pisemnej z datą pewną. zakresie zarządu przedsiębiorstwem lub wynagrodzenie osoby świadczącej usługi związane z zarządem lub nadzorem nad przedsiębiorstwem podmiotu określone umowie o pracę, umowie o świadczenie usług lub uchwale organu podmiotu zawartej lub podjętej przed wszczęciem przymusowej restrukturyzacji jest rażąco wyższe od przeciętnego wynagrodzenia za tego rodzaju pracę lub usługi i nie jest uzasadnione nakładem pracy, wynagrodzenie lub jego część przypadające za okres przed wszczęciem przymusowej restrukturyzacji, niedłużej jednak niż 6 miesięcy przed dniem doręczenia decyzji Funduszu, o której mowa art. 101 ust. 7–9 i art. 102 ust. 1 i 4, podlegają zwrotowi, a przypadku gdy nie zostały wypłacone, roszczenie o ich wypłatę jest bezskuteczne stosunku do podmiotu restrukturyzacji.
 
 2. Przepis ust. 1 stosuje się odpowiednio do świadczeń przysługujących związku z rozwiązaniem stosunku pracy albo umowy o świadczenie usług związanych z zarządzaniem przedsiębiorstwem podmiotu.
 
@@ -2910,7 +3167,7 @@ Art. 341–368. (pominięte)
 
 9. Kara pieniężna, o której mowa ust. 6, stanowi dochód budżetu państwa.
 
-10. Egzekucja należności wynikających z kary pieniężnej, o której mowa ust. 6, następuje na podstawie przepisów o postępowaniu egzekucyjnym administracji.
+10. Egzekucja należności wynikających z kary pieniężnej, o której mowa ust. 6, następuje na podstawie przepisów o postępowaniu egzekucyjnym administracji. art. 113 ust. 1 pkt 1 oraz ust. 1e wygasają z dniem określonym tej decyzji.
 
 **Art. 176.**
 
@@ -2939,7 +3196,7 @@ Art. 341–368. (pominięte)
 
 5. (uchylony) 5a. W przypadku gdy przedmiotem przejęcia są prawa udziałowe wyemitowane przez podmiot restrukturyzacji i zarejestrowane rejestrze akcjonariuszy, podmiot prowadzący rejestr akcjonariuszy po otrzymaniu od Funduszu informacji o decyzji, o której mowa art. 174 ust. 1 pkt 3, dokonuje ich blokady rejestrze akcjonariuszy od dnia otrzymania decyzji do dnia realizacji dyspozycji wpisu podmiotu przejmującego jako uprawnionego z tych praw udziałowych.
 
-5b. Podmiot przejmujący składa do podmiotu prowadzącego rejestr akcjonariuszy podmiotu restrukturyzacji dyspozycję wpisu swoich danych jako uprawnionego z wyemitowanych przez podmiot restrukturyzacji praw udziałowych. wych, zamian za zapłatę wynagrodzenia, o którym mowa art. 174 ust. 5, o ile ma ono postać pieniężną.
+5b. Podmiot przejmujący składa do podmiotu prowadzącego rejestr akcjonariuszy podmiotu restrukturyzacji dyspozycję wpisu swoich danych jako uprawnionego z wyemitowanych przez podmiot restrukturyzacji praw udziałowych. danych podmiotu przejmującego jako akcjonariusza podmiotu restrukturyzacji lub uprawnionego z innych praw udziałowych, zamian za zapłatę wynagrodzenia, o którym mowa art. 174 ust. 5, o ile ma ono postać pieniężną.
 
 6. Fundusz dokonuje przeniesienia praw udziałowych na podmiot przejmujący prawa udziałowe.
 
@@ -2977,7 +3234,7 @@ Art. 341–368. (pominięte)
 - **2)** terminu przejęcia;
 - **3)** możliwości wsparcia płynnościowego i kapitałowego podmiotu restrukturyzacji, szczególności zapewnienia bezpieczeństwa środków gwarantowanych gromadzonych podmiocie restrukturyzacji.
 
-6. Fundusz może odstąpić od wymogów określonych ust. 1, jeżeli ich spełnienie utrudniałoby osiągnięcie co najmniej jednego z celów przymusowej restrukturyzacji, a także jeżeli uzna to za konieczne celu zapobieżenia zagrożeniu stabilności finansowej przez sytuację podmiotu restrukturyzacji i zmniejszeniu skuteczności instrumentu przejęcia przedsiębiorstwa dla uniknięcia znaczących negatywnych skutków dla stabilności finansowej. ust. 4 lub 5 tego rozporządzenia.
+6. Fundusz może odstąpić od wymogów określonych ust. 1, jeżeli ich spełnienie utrudniałoby osiągnięcie co najmniej jednego z celów przymusowej restrukturyzacji, a także jeżeli uzna to za konieczne celu zapobieżenia zagrożeniu stabilności finansowej przez sytuację podmiotu restrukturyzacji i zmniejszeniu skuteczności instrumentu przejęcia przedsiębiorstwa dla uniknięcia znaczących negatywnych skutków dla stabilności finansowej. przypadkach byłoby wymagane zgodnie z art. 17 ust. 1 rozporządzenia nr 596/2014, może zostać opóźnione zgodnie z art. 17 ust. 4 lub 5 tego rozporządzenia.
 
 **Art. 179.**
 
@@ -3009,7 +3266,7 @@ Art. 341–368. (pominięte)
 
 5. Działalność instytucji pomostowej podlega nadzorowi sprawowanemu przez Komisję Nadzoru Finansowego zakresie i na zasadach określonych ustawie Prawo bankowe albo ustawie o obrocie instrumentami finansowymi, o ile przepisy ustawy nie stanowią inaczej.
 
-6. Do utworzenia i działalności instytucji pomostowej przepisów art. 36 ust. 2 i 4, art. 38, art. 141m–142a, art. 144–147, art. 153–157f oraz art. 158 ust. 4, 5 i 7 ustawy Prawo bankowe, przepisów art. 84 ust. 1a, art. 89 ust. 1 pkt 1 , art. 110zc–110zzd oraz art. 167 ust. 1 pkt 4 ustawy o obrocie instrumentami finansowymi oraz art. 129 ust. 3 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2025 r. poz. 1891) nie stosuje się. Z wnioskiem o wydanie zezwolenia przez Komisję Nadzoru Finansowego na rozpoczęcie działalności przez instytucję pomostową występuje Fundusz. zrzeszonych podmiocie restrukturyzacji. Wymogów, o których mowa art. 2 pkt 2 ustawy o funkcjonowaniu banków spółdzielczych, dotyczących tworzenia banku zrzeszającego przez banki spółdzielcze oraz posiadania kapitału założycielskiego wynoszącego co najmniej czterokrotność kwoty określonej art. 32 ust. 1 ustawy Prawo bankowe lub dwukrotność tej kwoty przypadku banku, którego działalność ogranicza się wyłącznie do świadczenia usług na rzecz zrzeszonych banków, a także wymogu posiadania lub nabycia przez zrzeszone banki spółdzielcze co najmniej jednej akcji banku zrzeszającego, o którym mowa art. 16 ust. 1 ustawy o funkcjonowaniu banków spółdzielczych, nie stosuje się.
+6. Do utworzenia i działalności instytucji pomostowej przepisów art. 36 ust. 2 i 4, art. 38, art. 141m–142a, art. 144–147, art. 153–157f oraz art. 158 ust. 4, 5 i 7 ustawy Prawo bankowe, przepisów art. 84 ust. 1a, art. 89 ust. 1 pkt 1 , art. 110zc–110zzd oraz art. 167 ust. 1 pkt 4 ustawy o obrocie instrumentami finansowymi oraz art. 129 ust. 3 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2025 r. poz. 1891) nie stosuje się. Z wnioskiem o wydanie zezwolenia przez Komisję Nadzoru Finansowego na rozpoczęcie działalności przez instytucję pomostową występuje Fundusz. podmiotu restrukturyzacji będącego bankiem zrzeszającym, staje się bankiem zrzeszającym dla banków spółdzielczych zrzeszonych podmiocie restrukturyzacji. Wymogów, o których mowa art. 2 pkt 2 ustawy o funkcjonowaniu banków spółdzielczych, dotyczących tworzenia banku zrzeszającego przez banki spółdzielcze oraz posiadania kapitału założycielskiego wynoszącego co najmniej czterokrotność kwoty określonej art. 32 ust. 1 ustawy Prawo bankowe lub dwukrotność tej kwoty przypadku banku, którego działalność ogranicza się wyłącznie do świadczenia usług na rzecz zrzeszonych banków, a także wymogu posiadania lub nabycia przez zrzeszone banki spółdzielcze co najmniej jednej akcji banku zrzeszającego, o którym mowa art. 16 ust. 1 ustawy o funkcjonowaniu banków spółdzielczych, nie stosuje się.
 
 7. Ujawnienie informacji objętych odpowiednio tajemnicą bankową, o której mowa art. 104 ust. 1 ustawy Prawo bankowe, albo tajemnicą zawodową, o której mowa art. 147 ustawy o obrocie instrumentami finansowymi, jest dopuszczalne, jeżeli jest to niezbędne do zawarcia i wykonania umów zakresie zbycia akcji instytucji pomostowej, przedsiębiorstwa instytucji pomostowej albo jej praw majątkowych lub zobowiązań. W tych samych granicach jest dopuszczalne ujawnienie informacji poufnej, o której mowa art. 154 ustawy o obrocie instrumentami finansowymi, oraz informacji objętych tajemnicą przedsiębiorstwa rozumieniu art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2026 r. poz. 85).
 
@@ -3042,7 +3299,7 @@ Art. 341–368. (pominięte)
 
 3. W zezwoleniu, o którym mowa ust. 1, Komisja Nadzoru Finansowego określa, na wniosek Funduszu, okres i zakres wyłączenia stosowania wobec instytucji pomostowej wymogów określonych przepisach rozporządzenia nr 575/2013, ustawy Prawo bankowe, ustawy o obrocie instrumentami finansowymi lub ustawy o nadzorze makroostrożnościowym.
 
-4. Komisja Nadzoru Finansowego rozpatruje wniosek o udzielenie zezwolenia, o którym mowa ust. 1, terminie niedłuższym niż 3 dni od dnia jego otrzymania.
+4. Komisja Nadzoru Finansowego rozpatruje wniosek o udzielenie zezwolenia, o którym mowa ust. 1, terminie niedłuższym niż 3 dni od dnia jego otrzymania. pkt 1 i 2 ustawy o obrocie instrumentami finansowymi stosuje się odpowiednio.
 
 6. Okres, o którym mowa ust. 3, nie może być dłuższy niż 3 lata od dnia utworzenia instytucji pomostowej.
 
@@ -3087,7 +3344,7 @@ Art. 341–368. (pominięte)
 5. Fundusz może przekazać instytucji pomostowej, a przypadku przeniesienia praw udziałowych podmiotowi restrukturyzacji lub instytucji pomostowej, środki z funduszu gwarancyjnego banków albo z funduszu gwarancyjnego kas do wysokości różnicy:
 
 - **1)** między wartością przenoszonych zobowiązań podmiotu restrukturyzacji a wartością przenoszonego przedsiębiorstwa albo przenoszonych praw majątkowych podmiotu restrukturyzacji przypadku przeniesienia przedsiębiorstwa lub jego części na podstawie ust. 1 pkt 2 i 3 albo przeniesienia praw majątkowych na podstawie ust. 1 pkt 3;
-- **2)** między wartością zobowiązań podmiotu restrukturyzacji a wartością przedsiębiorstwa podmiotu restrukturyzacji przypadku przeniesienia praw udziałowych podmiotu restrukturyzacji na podstawie ust. 1 pkt 1. cią przewidywanych na podstawie oszacowania, o którym mowa art. 137 ust. 1, kwot zaspokojenia roszczeń z tytułu wypłaty środków gwarantowanych postępowaniu upadłościowym, przypadku gdyby na dzień wydania decyzji o wszczęciu przymusowej restrukturyzacji sąd wydał postanowienie o ogłoszeniu upadłości podmiotu restrukturyzacji.
+- **2)** między wartością zobowiązań podmiotu restrukturyzacji a wartością przedsiębiorstwa podmiotu restrukturyzacji przypadku przeniesienia praw udziałowych podmiotu restrukturyzacji na podstawie ust. 1 pkt 1. podmiotu restrukturyzacji z tytułu środków gwarantowanych na dzień wszczęcia przymusowej restrukturyzacji a wartością przewidywanych na podstawie oszacowania, o którym mowa art. 137 ust. 1, kwot zaspokojenia roszczeń z tytułu wypłaty środków gwarantowanych postępowaniu upadłościowym, przypadku gdyby na dzień wydania decyzji o wszczęciu przymusowej restrukturyzacji sąd wydał postanowienie o ogłoszeniu upadłości podmiotu restrukturyzacji.
 
 6. W przypadku przeniesienia i zwrotnego przeniesienia praw udziałowych podmiocie restrukturyzacji przepisu art. 73 ustawy o ofercie publicznej nie stosuje się.
 
@@ -3153,6 +3410,9 @@ Art. 341–368. (pominięte)
 
 **Art. 195.** Zakończenie działalności instytucji pomostowej następuje z dniem:
 
+- **1)** otwarcia likwidacji;
+- **2)** zbycia przedsiębiorstwa instytucji pomostowej lub wszystkich praw majątkowych związanych z prowadzeniem działalności i przejęciem przez osobę trzecią wszystkich zobowiązań innych niż zobowiązania wobec Funduszu.
+
 **Art. 196.**
 
 1. Fundusz wydaje decyzję o likwidacji instytucji pomostowej, jeżeli upłynął okres, o którym mowa art. 181 ust. 3, i nie zostały zbyte lub przeniesione wszystkie prawa majątkowe związane z prowadzeniem działalności. Przepisu art. 156a ustawy Prawo bankowe nie stosuje się.
@@ -3210,7 +3470,7 @@ Art. 341–368. (pominięte)
 - **1)** umorzenia lub konwersji zobowiązań celu dokapitalizowania podmiotu restrukturyzacji;
 - **2)** umorzenia lub konwersji zobowiązań przenoszonych do instytucji pomostowej celu wyposażenia jej fundusze własne;
 - **3)** umorzenia lub konwersji zobowiązań przenoszonych ramach instrumentu wydzielenia praw majątkowych;
-- **4)** umorzenia lub konwersji zobowiązań ramach instrumentu przejęcia przedsiębiorstwa. działalności oraz istnieją uzasadnione przesłanki, że wyniku restrukturyzacji, o której mowa art. 214, osiągnie długoterminową stabilność finansową.
+- **4)** umorzenia lub konwersji zobowiązań ramach instrumentu przejęcia przedsiębiorstwa. przypadku gdy jej wyniku podmiot restrukturyzacji spełni określone odrębnymi przepisami warunki prowadzenia działalności oraz istnieją uzasadnione przesłanki, że wyniku restrukturyzacji, o której mowa art. 214, osiągnie długoterminową stabilność finansową.
 
 3. Dokonanie przez Fundusz umorzenia lub konwersji zobowiązań, o których mowa ust. 1, może prowadzić do zmiany formy prawnej podmiotu restrukturyzacji.
 
@@ -3247,7 +3507,7 @@ Art. 341–368. (pominięte)
 1. Przedmiotem umorzenia lub konwersji zobowiązań mogą być zobowiązania podmiotu restrukturyzacji, z wyjątkiem zobowiązań:
 
 - **1)** z tytułu środków gwarantowanych;
-- **2)** zabezpieczonych, tym zobowiązań z tytułu listów zastawnych oraz zobowiązań postaci instrumentów finansowych, które stanowią integralną część puli zabezpieczonej zgodnie z prawem właściwym sposób podobny do listów zastawnych; cyjne, pod warunkiem że tacy klienci podlegają ochronie na podstawie przepisów dotyczących postępowania upadłościowego;
+- **2)** zabezpieczonych, tym zobowiązań z tytułu listów zastawnych oraz zobowiązań postaci instrumentów finansowych, które stanowią integralną część puli zabezpieczonej zgodnie z prawem właściwym sposób podobny do listów zastawnych; do klientów, tym zdeponowanych ich imieniu przez fundusze inwestycyjne lub alternatywne fundusze inwestycyjne, pod warunkiem że tacy klienci podlegają ochronie na podstawie przepisów dotyczących postępowania upadłościowego;
 - **4)** wynikających ze stosunku powierniczego między podmiotem restrukturyzacji a inną osobą (beneficjentem), pod warunkiem że taki beneficjent podlega ochronie na podstawie przepisów dotyczących postępowania upadłościowego lub prawa cywilnego;
 - **5)** wobec banków krajowych, banków zagranicznych, innych instytucji kredytowych oraz firm inwestycyjnych, o pierwotnym terminie wymagalności krótszym niż 7 dni, z wyjątkiem zobowiązań pomiędzy podmiotami należącymi do tej samej grupy;
 - **6)** wynikających z uczestnictwa systemach płatności, systemach rozrachunku lub zobowiązań wobec operatorów tych systemów lub ich uczestników, powstałych wyniku uczestnictwa takim systemie, lub wobec CCP posiadających zezwolenie na prowadzenie działalności Unii Europejskiej uzyskane zgodnie z art. 14 rozporządzenia nr 648/2012 oraz CCP z państw trzecich uznanych przez Europejski Urząd Nadzoru Giełd i Papierów Wartościowych zgodnie z art. 25 rozporządzenia nr 648/2012, które staną się wymagalne terminie krótszym niż 7 dni od dnia ich umorzenia lub konwersji;
@@ -3359,7 +3619,7 @@ Art. 341–368. (pominięte)
 
 6. Odpis decyzji, o której mowa ust. 1, stanowi podstawę wpisu obniżenia lub podwyższenia kapitału zakładowego spółki do Krajowego Rejestru Sądowego. Podwyższenie albo obniżenie kapitału zakładowego spółki następuje z chwilą doręczenia decyzji Funduszu podmiotowi, o którym mowa ust. 1.
 
-7. W przypadku gdy instrumenty będące przedmiotem umorzenia lub powstałe wyniku konwersji podlegają zarejestrowaniu depozycie papierów wartościowych albo rejestrze akcjonariuszy, Fundusz niezwłocznie informuje Krajowy Depozyt Papierów Wartościowych Spółkę Akcyjną albo podmiot prowadzący rejestr akcjonariuszy o wydaniu decyzji, o której mowa ust. 1, przekazując im odpis tej decyzji zakresie niezbędnym do ujawnienia umorzenia akcji depozycie papierów wartościowych albo rejestrze akcjonariuszy albo celu rejestracji odpowiednio depozycie papierów wartościowych albo rejestrze akcjonariuszy akcji wyemitowanych ramach podwyższenia kapitału zakładowego spółki.
+7. W przypadku gdy instrumenty będące przedmiotem umorzenia lub powstałe wyniku konwersji podlegają zarejestrowaniu depozycie papierów wartościowych albo rejestrze akcjonariuszy, Fundusz niezwłocznie informuje Krajowy Depozyt Papierów Wartościowych Spółkę Akcyjną albo podmiot prowadzący rejestr akcjonariuszy o wydaniu decyzji, o której mowa ust. 1, przekazując im odpis tej decyzji zakresie niezbędnym do ujawnienia umorzenia akcji depozycie papierów wartościowych albo rejestrze akcjonariuszy albo celu rejestracji odpowiednio depozycie papierów wartościowych albo rejestrze akcjonariuszy akcji wyemitowanych ramach podwyższenia kapitału zakładowego spółki. dzielczym albo kasą zawiera:
 
 - **1)** wskazanie kwoty, o jaką fundusze zaliczane do funduszy własnych mają zostać obniżone;
 - **2)** wskazanie instrumentów lub zobowiązań oraz ich wartości podlegających umorzeniu lub wartości, o którą następuje obniżenie wartości nominalnej tych instrumentów lub zobowiązań.
@@ -3484,6 +3744,10 @@ Art. 341–368. (pominięte)
 #### Rozdział 18 Wydzielenie praw majątkowych
 
 **Art. 223.** Wydzielenie praw majątkowych jest możliwe przypadku, gdy:
+
+- **1)** likwidacja praw majątkowych mogłaby mieć istotny niekorzystny wpływ na sytuację na rynku, szczególności na ceny takich praw majątkowych;
+- **2)** przeniesienie praw majątkowych do podmiotu zarządzającego aktywami jest konieczne dla kontynuowania działalności podmiotu restrukturyzacji lub instytucji pomostowej lub
+- **3)** przeniesienie praw majątkowych do podmiotu zarządzającego aktywami zwiększy przychody z tych praw.
 
 **Art. 224.**
 
@@ -3723,6 +3987,17 @@ Art. 341–368. (pominięte)
 
 **Art. 235.** Kosztami przymusowej restrukturyzacji są poniesione przez Fundusz:
 
+- **1)** opłaty sądowe oraz inne niż określone art. 237 i art. 239 wydatki niezbędne do osiągnięcia celu przymusowej restrukturyzacji;
+- **2)** koszty przeprowadzenia oszacowania, o którym mowa art. 137 ust. 2 i 3 oraz art. 241;
+- **3)** koszty zbycia przedsiębiorstwa podmiotu restrukturyzacji, wybranych praw majątkowych, zbycia nieruchomości i rzeczy ruchomych, dochodzenia roszczeń od dłużników i wykonywania innych praw majątkowych albo ich zbycia;
+- **4)** wydatki z tytułu wsparcia udzielanego ramach przymusowej restrukturyzacji;
+- **5)** straty z tytułu udzielenia pożyczek i gwarancji ramach przymusowej restrukturyzacji podmiotowi restrukturyzacji, jego podmiotom zależnym, instytucji pomostowej, podmiotowi przejmującemu prawa udziałowe podmiotu restrukturyzacji, jego przedsiębiorstwo lub wybrane prawa majątkowe lub zobowiązania;
+- **6)** wydatki z tytułu nabycia praw majątkowych podmiotu restrukturyzacji, o których mowa art. 112 ust. 1 pkt 2, i koszty ich zbycia;
+- **7)** koszty związane z wykonywaniem funkcji administratora lub zastępcy administratora, przypadku, o którym mowa art. 153 ust. 10;
+- **8)** wydatki z tytułu dotacji, o której mowa art. 112 ust. 3 pkt 2;
+- **9)** wydatki z tytułu finansowania przymusowej restrukturyzacji, o których mowa art. 179, art. 188 ust. 5 i 5a, art. 202 ust. 4 i 5, art. 237 oraz art. 272 ust. 3 i 7;
+- **10)** wydatki związane z likwidacją podmiotu, o której mowa art. 230 ust. 4 i 5.
+
 **Art. 236.** Pożytki uzyskane z instytucji pomostowej i podmiotu zarządzającego aktywami, tym dywidendy i odsetki, a także przychody z tytułu zbycia lub likwidacji instytucji pomostowej i podmiotu zarządzającego aktywami stanowią przychody z przymusowej restrukturyzacji, z zastrzeżeniem art. 189 i art. 227.
 
 **Art. 237.**
@@ -3859,7 +4134,7 @@ Art. 341–368. (pominięte)
 
 2. Postępowanie przedmiocie uchylenia lub zmiany decyzji o uznaniu zagranicznego postępowania przymusowej restrukturyzacji może być wszczęte na wniosek każdego, kto ma tym interes prawny, lub z urzędu.
 
-3. W decyzji o zmianie decyzji o uznaniu zagranicznego postępowania przymusowej restrukturyzacji Fundusz określa zakres zmian.
+3. W decyzji o zmianie decyzji o uznaniu zagranicznego postępowania przymusowej restrukturyzacji Fundusz określa zakres zmian. turyzacji przepisy rozdziału 7 stosuje się odpowiednio.
 
 2. Właściwy organ przymusowej restrukturyzacji państwa trzeciego informuje Fundusz o zmianie osób upoważnionych do działania imieniu tego organu, ze wskazaniem ich imion, nazwisk i miejsc zamieszkania, wraz z urzędowo poświadczonym odpisem orzeczenia lub decyzji o ich ustanowieniu oraz jego uwierzytelnionym tłumaczeniem na język polski.
 
@@ -3896,7 +4171,7 @@ Art. 341–368. (pominięte)
 
 1. W przypadku wydania przez Fundusz decyzji o podjęciu wobec CCP działania ramach restrukturyzacji i uporządkowanej likwidacji, o którym mowa art. 2 pkt 11 rozporządzenia nr 2021/23, zarząd CCP restrukturyzacji, członek zarządu CCP restrukturyzacji, rada nadzorcza CCP restrukturyzacji i członek rady nadzorczej CCP restrukturyzacji oraz osoby, o których mowa art. 74 rozporządzenia nr 2021/23, mogą wnieść skargę do sądu administracyjnego terminie 7 dni od dnia doręczenia decyzji CCP.
 
-2. W przypadku, o którym mowa art. 23 ust. 1 lit. f rozporządzenia nr 2021/23, uprawnienie, o którym mowa ust. 1, przysługuje członkowi zarządu CCP restrukturyzacji i członkowi rady nadzorczej CCP restrukturyzacji, którzy pełnili funkcję momencie wydania przez Fundusz decyzji o podjęciu wobec CCP działania ramach restrukturyzacji i uporządkowanej likwidacji, o którym mowa art. 2 pkt 11 rozporządzenia nr 2021/23.
+2. W przypadku, o którym mowa art. 23 ust. 1 lit. f rozporządzenia nr 2021/23, uprawnienie, o którym mowa ust. 1, przysługuje członkowi zarządu CCP restrukturyzacji i członkowi rady nadzorczej CCP restrukturyzacji, którzy pełnili funkcję momencie wydania przez Fundusz decyzji o podjęciu wobec CCP działania ramach restrukturyzacji i uporządkowanej likwidacji, o którym mowa art. 2 pkt 11 rozporządzenia nr 2021/23. ust. 1 i 2 oraz art. 106.
 
 4. Publikacja, o której mowa art. 72 ust. 3 rozporządzenia nr 2021/23, następuje z uwzględnieniem obowiązku dochowania tajemnic, o których mowa art. 320 ust. 2, oraz tajemnic, o których mowa art. 104 ustawy Prawo bankowe, art. 9e ustawy o spółdzielczych kasach oszczędnościowo-kredytowych i art. 147 ustawy o obrocie instrumentami finansowymi.
 
@@ -3926,7 +4201,7 @@ Art. 341–368. (pominięte)
 
 4. Fundusz celu ujawnienia Krajowym Rejestrze Sądowym obniżenia lub podwyższenia kapitału zakładowego CCP niezwłocznie informuje o wydaniu decyzji, o której mowa ust. 1, właściwy sąd rejestrowy i przekazuje mu odpis tej decyzji bez oszacowania i uzasadnienia, z uwzględnieniem obowiązku dochowania tajemnic, o których mowa art. 320 ust. 2, oraz tajemnic, o których mowa art. 104 ustawy Prawo bankowe, art. 9e ustawy o spółdzielczych kasach oszczędnościowo-kredytowych i art. 147 ustawy o obrocie instrumentami finansowymi.
 
-5. Odpis decyzji, o której mowa ust. 1, stanowi podstawę wpisu obniżenia lub podwyższenia kapitału zakładowego CCP do Krajowego Rejestru Sądowego. Podwyższenie albo obniżenie kapitału zakładowego CCP następuje z chwilą doręczenia CCP decyzji Funduszu, o której mowa ust. 1. Depozyt Papierów Wartościowych Spółkę Akcyjną albo podmiot prowadzący rejestr akcjonariuszy CCP o wydaniu decyzji, o której mowa ust. 1, i przekazuje mu odpis tej decyzji zakresie niezbędnym do ujawnienia umorzenia akcji depozycie papierów wartościowych albo rejestrze akcjonariuszy albo celu rejestracji depozycie papierów wartościowych albo rejestrze akcjonariuszy akcji wyemitowanych ramach podwyższenia kapitału zakładowego CCP.
+5. Odpis decyzji, o której mowa ust. 1, stanowi podstawę wpisu obniżenia lub podwyższenia kapitału zakładowego CCP do Krajowego Rejestru Sądowego. Podwyższenie albo obniżenie kapitału zakładowego CCP następuje z chwilą doręczenia CCP decyzji Funduszu, o której mowa ust. 1. strowaniu depozycie papierów wartościowych albo rejestrze akcjonariuszy, Fundusz niezwłocznie informuje Krajowy Depozyt Papierów Wartościowych Spółkę Akcyjną albo podmiot prowadzący rejestr akcjonariuszy CCP o wydaniu decyzji, o której mowa ust. 1, i przekazuje mu odpis tej decyzji zakresie niezbędnym do ujawnienia umorzenia akcji depozycie papierów wartościowych albo rejestrze akcjonariuszy albo celu rejestracji depozycie papierów wartościowych albo rejestrze akcjonariuszy akcji wyemitowanych ramach podwyższenia kapitału zakładowego CCP.
 
 **Art. 258i.**
 
@@ -3941,6 +4216,12 @@ Art. 341–368. (pominięte)
 **Art. 258l.** W przypadku objęcia CCP restrukturyzacją i uporządkowaną likwidacją Fundusz może, formie uchwały Zarządu Funduszu, wykonać jedno lub więcej z uprawnień, o których mowa art. 48 ust. 1 lit. a oraz m, art. 49 ust. 1 lit. c, e oraz f lub art. 58 rozporządzenia nr 2021/23.
 
 **Art. 258m.** W restrukturyzacji i uporządkowanej likwidacji CCP nie stosuje się:
+
+- **1)** przepisów art. 212, art. 223, art. 233, art. 236, art. 237, art. 397, art. 399 § 3, art. 400 i art. 401 oraz przepisów tytułu IV działów I i II Kodeksu spółek handlowych;
+- **2)** przepisów art. 258 § 1 oraz art. 311–312 związku z art. 431 § 7 i art. 433 § 1 Kodeksu spółek handlowych do objęcia praw udziałowych na podstawie decyzji o zastosowaniu instrumentu, o którym mowa art. 33 ust. 1 rozporządzenia nr 2021/23;
+- **3)** terminów, o których mowa art. 238 § 1, art. 402 § 1 i 3 oraz art. 402 § 2 Kodeksu spółek handlowych do zwołania zgromadzenia wspólników lub walnego zgromadzenia CCP restrukturyzacji;
+- **4)** przepisów rozdziałów 4a i 4b ustawy o ofercie publicznej;
+- **5)** przepisów ustawy z dnia 25 kwietnia 2008 r. o uczestnictwie pracowników spółce powstałej wyniku transgranicznego połączenia się spółek.
 
 **Art. 258n.**
 
@@ -3959,7 +4240,7 @@ Art. 341–368. (pominięte)
 - **3)** kasa korzystająca z pomocy, o której mowa art. 5 ust. 2 pkt 1 lub 2, zapewnia deponentom dostęp do środków gwarantowanych;
 - **4)** Komisja Nadzoru Finansowego potwierdziła zdolność kas do wniesienia składek nadzwyczajnych, o których mowa art. 292 ust. 1, z uwzględnieniem składek, których wniesienie zostało odroczone zgodnie z art. 292 ust. 4 i 5, z zastrzeżeniem art. 263 ust. 2.
 
-2. Działania zakresie restrukturyzacji oraz obowiązki nakładane na kasę Fundusz konsultuje z Komisją Nadzoru Finansowego.
+2. Działania zakresie restrukturyzacji oraz obowiązki nakładane na kasę Fundusz konsultuje z Komisją Nadzoru Finansowego. gwarantowania pożyczek, gwarancji lub poręczeń.
 
 2. Środki uzyskane przez kasy objęte systemem gwarantowania wyniku udzielenia przez Fundusz pożyczek, gwarancji lub poręczeń, o których mowa ust. 1, mogą być przeznaczone tylko na usunięcie niebezpieczeństwa niewypłacalności, o ile spełnione zostały warunki, o których mowa art. 261.
 
@@ -3968,6 +4249,12 @@ Art. 341–368. (pominięte)
 4. Do gwarancji, o których mowa ust. 1, stosuje się odpowiednio przepisy dotyczące gwarancji udzielanych przez banki.
 
 **Art. 261.** Warunkiem udzielenia przez Fundusz pomocy, o której mowa art. 5 ust. 2 pkt 1 i 2, jest szczególności:
+
+- **1)** uznanie przez Zarząd Funduszu przedstawionych przez kasę objętą systemem gwarantowania, wnioskującą o udzielenie pomocy, wyników badania sprawozdania finansowego dotyczącego jej działalności;
+- **2)** przedstawienie Zarządowi Funduszu przez kasę ubiegającą się o pomoc pozytywnej opinii Komisji Nadzoru Finansowego o programie postępowania naprawczego;
+- **3)** wykazanie, że wysokość wnioskowanych przez kasę objętą systemem gwarantowania pożyczek, gwarancji, poręczeń oraz środków wydatkowanych przez Fundusz na wykup wierzytelności byłaby niewyższa niż łączna maksymalna kwota z tytułu gwarancji tej kasie liczona jako suma środków gwarantowanych na rachunkach deponentów kasy;
+- **4)** wykorzystanie dotychczasowych funduszy własnych kasy na pokrycie strat kasy ubiegającej się o pomoc;
+- **5)** przypadku pomocy, o której mowa art. 5 ust. 2 pkt 1, zabezpieczenie wierzytelności z tytułu udzielonej pomocy gwarantujące zwrot pełnej kwoty pomocy wraz z odsetkami.
 
 **Art. 262.**
 
@@ -4003,6 +4290,12 @@ Art. 341–368. (pominięte)
 4. Fundusz może udzielać wsparcia, o którym mowa ust. 1, jeżeli koszty restrukturyzacji kasy nie przekraczają kosztów zadań realizowanych przez Fundusz na podstawie ustawy zakresie funkcjonowania obowiązkowego systemu gwarantowania depozytów.
 
 **Art. 265.** Warunkiem udzielenia przez Fundusz wsparcia, o którym mowa art. 5 ust. 2 pkt 3, jest szczególności:
+
+- **1)** uznanie przez Zarząd Funduszu przedstawionych przez przejmującego lub nabywcę wyników badania sprawozdania finansowego dotyczącego jej działalności;
+- **2)** przedstawienie Zarządowi Funduszu przez przejmującego lub nabywcę pozytywnej opinii Komisji Nadzoru Finansowego o celowości przejęcia i braku zagrożenia dla bezpieczeństwa środków deponentów gromadzonych kasie, wobec której Komisja Nadzoru Finansowego wydała decyzję o przejęciu lub likwidacji, oraz przejmującym lub nabywającym banku lub kasie;
+- **3)** wykazanie, że wysokość środków zaangażowanych przez Fundusz we wsparcie przejmującego lub nabywcy byłaby niewyższa niż łączna maksymalna kwota z tytułu gwarancji kasie, wobec której Komisja Nadzoru Finansowego wydała decyzję o przejęciu lub likwidacji, liczona jako suma środków gwarantowanych na przejmowanych rachunkach deponentów tej kasy;
+- **4)** wykorzystanie dotychczasowych funduszy własnych przejmowanej lub likwidowanej kasy na pokrycie strat;
+- **5)** zabezpieczenie wierzytelności gwarantujące zwrot pełnej kwoty wsparcia wraz z odsetkami przypadku wsparcia formie, o której mowa art. 264 ust. 2 pkt 2.
 
 **Art. 266.** Podmiot przejmujący kasę korzystającą ze wsparcia, przejmujący wybrane prawa majątkowe lub wybrane zobowiązania kasy, lub nabywca przedsiębiorstwa kasy likwidacji, jego zorganizowanej części lub wybranych praw majątkowych, na żądanie Funduszu, udziela informacji niezbędnych do oceny ryzyka zwrotu udzielonego wsparcia lub strat związanych z nabywanymi lub przejmowanymi prawami majątkowymi lub zobowiązaniami.
 
@@ -4060,6 +4353,11 @@ Art. 341–368. (pominięte)
 3. W przypadku, o którym mowa ust. 2 pkt 1, przepisu art. 25 ust. 1 ustawy Prawo bankowe nie stosuje się.
 
 **Art. 268b.** Warunkiem udzielenia przez Fundusz wsparcia, o którym mowa art. 5 ust. 2a pkt 1, jest szczególności:
+
+- **1)** uznanie przez Zarząd Funduszu przedstawionych przez bank przejmujący wyników badania sprawozdania finansowego dotyczącego działalności restrukturyzowanego banku sporządzonego na dzień poprzedzający dzień przejęcia;
+- **2)** wykazanie, że koszty restrukturyzacji banku nie przekraczają kosztów zadań realizowanych przez Fundusz na podstawie ustawy zakresie funkcjonowania obowiązkowego systemu gwarantowania depozytów;
+- **3)** wykorzystanie dotychczasowych funduszy własnych przejmowanego banku na pokrycie strat;
+- **4)** zabezpieczenie wierzytelności gwarantujące zwrot pełnej kwoty wsparcia wraz z odsetkami przypadku wsparcia formie, o której mowa art. 268a ust. 2 pkt 2. udzielać na żądanie Funduszu informacji niezbędnych do oceny ryzyka braku zwrotu udzielonego wsparcia lub strat związanych z przejmowanymi prawami majątkowymi lub zobowiązaniami.
 
 **Art. 268d.** Działania, o których mowa niniejszym dziale, mogą być podejmowane i prowadzone po uzyskaniu decyzji Komisji Europejskiej o zgodności ze wspólnym rynkiem.
 
@@ -4134,9 +4432,20 @@ Art. 341–368. (pominięte)
 
 **Art. 274.** W przypadku, o którym mowa art. 206 ust. 3, jeżeli wyniku wyłączenia zobowiązań z umorzenia lub konwersji zobowiązań mogących podlegać umorzeniu lub konwersji straty podmiotu restrukturyzacji nie zostały całości pokryte umorzonymi zobowiązaniami innych wierzycieli, Fundusz może przeznaczyć środki funduszy, o których mowa art. 273, na pokrycie strat podmiotu restrukturyzacji lub objęcie praw udziałowych podmiotu restrukturyzacji celu odtworzenia jego funduszy własnych, jeżeli:
 
+- **1)** dokonał umorzenia lub konwersji praw udziałowych lub zobowiązań lub zapewnił podjęcie innych działań, które będą skutkować poniesieniem strat przez właścicieli lub wierzycieli podmiotu restrukturyzacji lub jego dokapitalizowaniem wysokości co najmniej 8 % zobowiązań ogółem podmiotu restrukturyzacji, powiększonych o fundusze własne podmiotu restrukturyzacji, ustalonej zgodnie z oszacowaniem, o którym mowa art. 137 ust. 1;
+- **2)** kwota środków nie przekracza 5 % sumy zobowiązań ogółem podmiotu restrukturyzacji, powiększonych o fundusze własne podmiotu restrukturyzacji, ustalonej na podstawie oszacowania, o którym mowa art. 137 ust. 1.
+
 **Art. 275.** W przypadku gdy nie został spełniony warunek, o którym mowa art. 274 pkt 1, Fundusz może przeznaczyć środki na cel określony art. 274, jeżeli:
 
+- **1)** dokonał umorzenia lub konwersji praw udziałowych lub zobowiązań wysokości niemniejszej niż 20 % wartości aktywów ważonych ryzykiem podmiotu restrukturyzacji oraz
+- **2)** wielkość środków odpowiednio na finansowanie przymusowej restrukturyzacji banków i firm inwestycyjnych albo środków na finansowanie przymusowej restrukturyzacji kas jest niemniejsza niż 3 % kwoty środków gwarantowanych we wszystkich podmiotach objętych systemem gwarantowania, oraz
+- **3)** wielkość sumy bilansowej podmiotu restrukturyzacji na poziomie skonsolidowanym ustalona na podstawie ostatniego zatwierdzonego sprawozdania finansowego nie przekracza równowartości złotych kwoty 900 000 000 000 euro według średniego kursu ogłoszonego przez Narodowy Bank Polski na dzień sporządzenia tego sprawozdania.
+
 **Art. 276.** Wydatki na cel określony art. 274 mogą być finansowane ze środków:
+
+- **1)** na finansowanie przymusowej restrukturyzacji odpowiednio banków i firm inwestycyjnych albo kas;
+- **2)** które mogą być uzyskane okresie 3 lat ze składek nadzwyczajnych;
+- **3)** uzyskanych z innych źródeł, sposób określony art. 278.
 
 **Art. 277.** Fundusz może przeznaczyć środki funduszy, o których mowa art. 273, na pokrycie strat podmiotu restrukturyzacji lub objęcie praw udziałowych podmiotu restrukturyzacji celu odtworzenia jego funduszy własnych wysokości przekraczającej poziom, o którym mowa art. 274 pkt 2, jeżeli wszystkie niezabezpieczone zobowiązania podlegające umorzeniu lub konwersji inne niż środki objęte ochroną gwarancyjną zostały umorzone lub skonwertowane. W celu finansowania tych wydatków Fundusz może zaciągać pożyczki od podmiotów trzecich lub przeznaczyć na ich pokrycie środki na finansowanie przymusowej restrukturyzacji odpowiednio banków i firm inwestycyjnych albo kas.
 
@@ -4149,6 +4458,14 @@ Art. 341–368. (pominięte)
 **Art. 281.** Fundusz gwarancyjny banków, fundusz gwarancyjny kas, fundusz przymusowej restrukturyzacji banków, fundusz przymusowej restrukturyzacji kas oraz fundusz restrukturyzacji banków spółdzielczych dzielą się na fundusze wykorzystane zakresie, jakim zostały one wykorzystane na finansowanie zadań Funduszu, oraz fundusze do wykorzystania pozostałym zakresie. Szczegółowe zasady tworzenia i wykorzystania funduszy własnych Funduszu określa statut Funduszu. 2. Kwoty uzyskane przez Fundusz z masy upadłości banku lub oddziału banku zagranicznego zasilają fundusz gwarancyjny banków. 3. Kwoty uzyskane przez Fundusz z masy upadłości firmy inwestycyjnej zasilają fundusz przymusowej restrukturyzacji banków.
 
 **Art. 283.** Środki Funduszu przeznacza się na finansowanie zadań Funduszu, szczególności zakresie:
+
+- **1)** gwarantowania środków pieniężnych;
+- **2)** przymusowej restrukturyzacji;
+- **2a)** restrukturyzacji i uporządkowanej likwidacji CCP;
+- **3)** działalności pomocowej dla banków na cele określone art. 35 ust. 3 i 4 ustawy o funkcjonowaniu banków spółdzielczych;
+- **4)** nabycia praw majątkowych, o których mowa art. 314;
+- **4a)** restrukturyzacji banków i kas;
+- **5)** pokrywania kosztów lub nakładów związanych z działalnością Funduszu.
 
 **Art. 284.** Jeżeli wymagane finansowanie, o którym mowa art. 133 ust. 2 pkt 7, jest realizowane przez udzielenie gwarancji, Fundusz może udzielić gwarancji spłaty zobowiązań do wysokości udziału Funduszu wymaganym finansowaniu określonego schemacie przymusowej restrukturyzacji.
 
@@ -4252,7 +4569,7 @@ Art. 341–368. (pominięte)
 
 5. Komisja Nadzoru Finansowego może odmówić zatwierdzenia metod, o których mowa ust. 3, jeżeli zostały one opracowane niezgodnie z przepisami wydanymi na podstawie ust. 11. Komisja Nadzoru Finansowego, wydając decyzję o odmowie zatwierdzenia metod, przekazuje Funduszowi zalecenia zakresie niezbędnych zmian opracowanych metodach.
 
-6. Komisja Nadzoru Finansowego zatwierdza metody wyznaczania składek, o których mowa ust. 3, formie uchwał.
+6. Komisja Nadzoru Finansowego zatwierdza metody wyznaczania składek, o których mowa ust. 3, formie uchwał. Urząd Nadzoru Bankowego niezwłocznie, niepóźniej niż terminie 5 dni od dnia podjęcia uchwał, o których mowa ust. 6.
 
 8. Fundusz dokonuje zmiany metody wyznaczania składek, przypadku gdy dotychczasowe metody nie różnicują sposób odpowiedni wyznaczanych składek ze względu na profil ryzyka podmiotów zobowiązanych do wnoszenia składek oraz może dokonać zmiany przypadku zmiany sprawozdawczości banków lub oddziałów banków zagranicznych objętych obowiązkowym systemem gwarantowania depozytów.
 
@@ -4364,7 +4681,7 @@ Art. 341–368. (pominięte)
 
 3. W przypadku, o którym mowa art. 292 ust. 1, Rada Funduszu określa, drodze uchwały, łączną kwotę składek nadzwyczajnych należnych od kas oraz termin lub terminy wniesienia tych składek.
 
-4. Kwoty, o których mowa ust. 1 pkt 1 i ust. 2, podlegają podziałowi na poszczególne banki i oddziały banków zagranicznych zgodnie z metodą, o której mowa art. 289 ust. 3.
+4. Kwoty, o których mowa ust. 1 pkt 1 i ust. 2, podlegają podziałowi na poszczególne banki i oddziały banków zagranicznych zgodnie z metodą, o której mowa art. 289 ust. 3. mowa art. 290 ust. 3.
 
 6. Informacja o wysokości składki oraz terminie lub terminach jej wniesienia przekazywana jest bez zbędnej zwłoki podmiotom zobowiązanym do jej uiszczenia.
 
@@ -4521,7 +4838,7 @@ Art. 341–368. (pominięte)
 
 1. Rada Funduszu, ustalając wysokość obowiązkowych składek, może określić, jakim zakresie podmioty zobowiązane do ich wniesienia mogą wnosić składki formie zobowiązań do zapłaty.
 
-2. Udział łącznej kwoty zobowiązań do zapłaty na fundusz gwarancyjny banków lub fundusz gwarancyjny kas nie może przekroczyć 30 % poziomu danego funduszu do wykorzystania.
+2. Udział łącznej kwoty zobowiązań do zapłaty na fundusz gwarancyjny banków lub fundusz gwarancyjny kas nie może przekroczyć 30 % poziomu danego funduszu do wykorzystania. przymusowej restrukturyzacji kas nie może przekroczyć 30 % należnej składki rocznej.
 
 4. Składka formie ryczałtowej nie może być wnoszona formie zobowiązania do zapłaty.
 
@@ -4601,7 +4918,7 @@ Art. 341–368. (pominięte)
 
 4b. Wartość zobowiązań do zapłaty na fundusz gwarancyjny banków ustala się według stanu na koniec dnia poprzedzającego dzień podjęcia przez Fundusz decyzji o wezwaniu podmiotów do przekazania środków odpowiadających zobowiązaniom do zapłaty.
 
-4c. W przypadku finansowania restrukturyzacji kasy Fundusz może wezwać kasy do przekazania, niepóźniej niż terminie 2 dni roboczych od dnia doręczenia wezwania, środków odpowiadających zobowiązaniom do zapłaty na rzecz funduszu gwarancyjnego kas, do wysokości kwoty takiego finansowania. fundusz gwarancyjny kas, oraz udziału wartości zobowiązań do zapłaty poszczególnych kas na fundusz gwarancyjny kas łącznej wartości zobowiązań do zapłaty na fundusz gwarancyjny kas. W łącznej wartości zobowiązań do zapłaty na fundusz gwarancyjny kas nie uwzględnia się zobowiązań do zapłaty kasy podlegających przekazaniu do Funduszu na podstawie art. 304 ust. 8.
+4c. W przypadku finansowania restrukturyzacji kasy Fundusz może wezwać kasy do przekazania, niepóźniej niż terminie 2 dni roboczych od dnia doręczenia wezwania, środków odpowiadających zobowiązaniom do zapłaty na rzecz funduszu gwarancyjnego kas, do wysokości kwoty takiego finansowania. kasy jako iloczyn kwoty podlegającej zapłacie przez Fundusz, niewiększej niż łączna wartość zobowiązań do zapłaty na fundusz gwarancyjny kas, oraz udziału wartości zobowiązań do zapłaty poszczególnych kas na fundusz gwarancyjny kas łącznej wartości zobowiązań do zapłaty na fundusz gwarancyjny kas. W łącznej wartości zobowiązań do zapłaty na fundusz gwarancyjny kas nie uwzględnia się zobowiązań do zapłaty kasy podlegających przekazaniu do Funduszu na podstawie art. 304 ust. 8.
 
 4e. W przypadku skierowania wezwania, o którym mowa ust. 4c, wartość zobowiązań do zapłaty na fundusz gwarancyjny kas ustala się według stanu na koniec dnia poprzedzającego dzień podjęcia przez Fundusz decyzji o wezwaniu podmiotów do przekazania środków odpowiadających zobowiązaniom do zapłaty.
 
@@ -4635,7 +4952,7 @@ Art. 341–368. (pominięte)
 
 9. Składki wnoszone przez rozpoczynające działalność banki, firmy inwestycyjne, oddziały banków zagranicznych lub kasy wyliczane są z pominięciem profilu ryzyka podmiotu, o którym mowa art. 289 ust. 2, art. 290 ust. 2 lub art. 298 ust. 2, do momentu, kiedy będzie możliwe pozyskanie danych pozwalających na jego uwzględnienie.
 
-10. W przypadku połączenia, jeżeli podmiot powstały wyniku połączenia zobowiązany jest do wnoszenia składek na podstawie ustawy, przy wyliczeniu składki jest uwzględniana suma podstaw, o których mowa art. 289 ust. 1, art. 290 ust. 1 lub art. 298 ust. 1, odpowiednich dla łączących się podmiotów oraz profil ryzyka podmiotu przejmującego wyliczony oparciu o metody, o których mowa art. 289, art. 290 lub art. 298. składek na podstawie ustawy, wnosi on składki należne od łączących się podmiotów wysokości proporcjonalnej do liczby pełnych miesięcy prowadzenia przez nie działalności samodzielnie kwartale, którym nastąpiło połączenie. Jeżeli łączące się podmioty wniosły należne składki za kwartał, którym nastąpiło połączenie, a podmiot powstały wyniku połączenia nie jest zobowiązany do wnoszenia składek na podstawie ustawy, Fundusz zwraca część wniesionych składek wysokości proporcjonalnej do liczby pełnych miesięcy nieprowadzenia przez łączące się podmioty działalności samodzielnie kwartale, którym nastąpiło połączenie.
+10. W przypadku połączenia, jeżeli podmiot powstały wyniku połączenia zobowiązany jest do wnoszenia składek na podstawie ustawy, przy wyliczeniu składki jest uwzględniana suma podstaw, o których mowa art. 289 ust. 1, art. 290 ust. 1 lub art. 298 ust. 1, odpowiednich dla łączących się podmiotów oraz profil ryzyka podmiotu przejmującego wyliczony oparciu o metody, o których mowa art. 289, art. 290 lub art. 298. za kwartał, którym nastąpiło połączenie, i podmiot powstały wyniku połączenia nie jest zobowiązany do wnoszenia składek na podstawie ustawy, wnosi on składki należne od łączących się podmiotów wysokości proporcjonalnej do liczby pełnych miesięcy prowadzenia przez nie działalności samodzielnie kwartale, którym nastąpiło połączenie. Jeżeli łączące się podmioty wniosły należne składki za kwartał, którym nastąpiło połączenie, a podmiot powstały wyniku połączenia nie jest zobowiązany do wnoszenia składek na podstawie ustawy, Fundusz zwraca część wniesionych składek wysokości proporcjonalnej do liczby pełnych miesięcy nieprowadzenia przez łączące się podmioty działalności samodzielnie kwartale, którym nastąpiło połączenie.
 
 12. W przypadku połączenia, jeżeli łączące się podmioty nie wniosły należnej składki, o której mowa art. 295 ust. 1, za rok, którym nastąpiło połączenie, i podmiot powstały wyniku połączenia nie jest zobowiązany do wnoszenia składek na podstawie ustawy, wnosi on składki należne od łączących się podmiotów wysokości proporcjonalnej do liczby pełnych miesięcy prowadzenia przez nie działalności samodzielnie roku, którym nastąpiło połączenie. Jeżeli łączące się podmioty wniosły należne składki za rok, którym nastąpiło połączenie, a podmiot powstały wyniku połączenia nie jest zobowiązany do wnoszenia składek na podstawie ustawy, Fundusz zwraca część wniesionych składek wysokości proporcjonalnej do liczby pełnych miesięcy nieprowadzenia przez łączące się podmioty działalności samodzielnie roku, którym nastąpiło połączenie.
 
@@ -4658,7 +4975,7 @@ Art. 341–368. (pominięte)
 - **3)** oficjalnie uznany system gwarantowania depozytów zaciągający pożyczkę złoży oświadczenie, że pożyczone środki zostaną wykorzystane celu spłaty roszczeń deponentów z tytułu środków gwarantowanych;
 - **4)** oficjalnie uznany system gwarantowania depozytów zaciągający pożyczkę nie jest chwili udzielania pożyczki zobowiązany do spłaty pożyczki udzielonej przez inny system gwarantowania depozytów;
 - **5)** łączna kwota pożyczki, o którą wnosi oficjalnie uznany system gwarantowania depozytów, nie przekracza 0,5 % środków pieniężnych gwarantowanych przez oficjalnie uznany system gwarantowania depozytów zaciągający pożyczkę;
-- **6)** oficjalnie uznany system gwarantowania depozytów zaciągający pożyczkę przedstawi dokument potwierdzający przekazanie Europejskiemu Urzędowi Nadzoru Bankowego informacji o przyczynach podjęcia decyzji o wystąpieniu o udzielenie pożyczki oraz określający kwotę żądanej pożyczki.
+- **6)** oficjalnie uznany system gwarantowania depozytów zaciągający pożyczkę przedstawi dokument potwierdzający przekazanie Europejskiemu Urzędowi Nadzoru Bankowego informacji o przyczynach podjęcia decyzji o wystąpieniu o udzielenie pożyczki oraz określający kwotę żądanej pożyczki. spłacona ratach rocznych. Odsetki są należne terminie spłaty.
 
 3. Zasady oprocentowania pożyczki określa umowa pożyczki, przy czym oprocentowanie pożyczki nie może być niższe niż wartość stopy procentowej kredytu lombardowego określonej przez Europejski Bank Centralny okresie, na jaki została udzielona pożyczka.
 
@@ -4745,7 +5062,7 @@ Art. 341–368. (pominięte)
 
 1b. W celu dokonywania lokat, o których mowa ust. 1a, Fundusz może otwierać rachunki bankowe Banku Gospodarstwa Krajowego.
 
-2. Fundusz może posiadać rachunki papierów wartościowych Krajowym Depozycie Papierów Wartościowych Spółce Akcyjnej, Narodowym Banku Polskim, banku lub domu maklerskim oraz może posiadać rachunki pieniężne, jak również być uczestnikiem systemu rozliczeniowego organizowanego przez CCP lub inny podmiot uprawniony do rozliczania transakcji, tym jako uczestnik, o którym mowa art. 45b ust. 1 pkt 1 ustawy o obrocie instrumentami finansowymi, celu dokonywania odpowiednio rozrachunku lub rozliczeń. może posiadać rachunki papierów wartościowych zagranicznej izbie rozliczeniowej i posiadać rachunek bankowy do przeprowadzania rozliczeń z tym związanych.
+2. Fundusz może posiadać rachunki papierów wartościowych Krajowym Depozycie Papierów Wartościowych Spółce Akcyjnej, Narodowym Banku Polskim, banku lub domu maklerskim oraz może posiadać rachunki pieniężne, jak również być uczestnikiem systemu rozliczeniowego organizowanego przez CCP lub inny podmiot uprawniony do rozliczania transakcji, tym jako uczestnik, o którym mowa art. 45b ust. 1 pkt 1 ustawy o obrocie instrumentami finansowymi, celu dokonywania odpowiednio rozrachunku lub rozliczeń. bywania lub zbywania papierów wartościowych celu wykonywania zadań, o których mowa art. 314 ust. 2, Fundusz może posiadać rachunki papierów wartościowych zagranicznej izbie rozliczeniowej i posiadać rachunek bankowy do przeprowadzania rozliczeń z tym związanych.
 
 **Art. 316.**
 
@@ -4892,6 +5209,17 @@ Art. 341–368. (pominięte)
 
 **Art. 320a.** Fundusz może udostępnić informacje stanowiące jednocześnie tajemnicę zawodową i tajemnicę bankową, tajemnicę, o której mowa art. 9e ustawy o spółdzielczych kasach oszczędnościowo-kredytowych, albo tajemnicę, o której mowa art. 147 ustawy o obrocie instrumentami finansowymi:
 
+- **1)** innym podmiotom przypadku, o którym mowa art. 96 ust. 4 pkt 3, zakresie niezbędnym do wyboru podmiotu przejmującego lub wydania i wykonania decyzji Funduszu o przejęciu;
+- **2)** podmiotowi zainteresowanemu przejęciem przedsiębiorstwa, wybranych albo wszystkich praw majątkowych lub wybranych albo wszystkich zobowiązań lub praw udziałowych podmiotu, wobec którego może zostać wszczęta przymusowa restrukturyzacja, albo podmiotu restrukturyzacji, celu zastosowania instrumentu przejęcia przedsiębiorstwa i zakresie niezbędnym do zaoferowania przez podmiot zainteresowany ceny przejęcia;
+- **3)** podmiotowi przeprowadzającemu oszacowanie, o którym mowa art. 137 ust. 2 lub art. 241, zakresie niezbędnym do przeprowadzenia tego oszacowania lub do dokonania aktualizacji oszacowania, o której mowa art. 19f ust. 8 ustawy z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej;
+- **4)** osobom lub podmiotom świadczącym na rzecz Funduszu usługi doradztwa, zakresie niezbędnym do należytego świadczenia tych usług;
+- **5)** adwokatom lub radcom prawnym związku ze świadczeniem na rzecz Funduszu pomocy prawnej, zakresie niezbędnym do świadczenia tej pomocy;
+- **6)** instytucji pomostowej lub podmiotowi zarządzającemu aktywami, dotyczących podmiotu restrukturyzacji, zakresie niezbędnym do wydania i wykonania decyzji Funduszu o zastosowaniu instrumentu instytucji pomostowej lub instrumentu wydzielenia praw majątkowych; spółdzielczych, zakresie informacji niezbędnych do realizacji celów, o których mowa art. 22a ust. 1 tej ustawy, i wsparcia, o którym mowa art. 22a ust. 1a tej ustawy, lub zadań organu zarządzającego systemem ochrony określonych art. 22i ust. 1 pkt 3 i 4 oraz ust. 1a tej ustawy;
+- **8)** podmiotowi zainteresowanemu nabyciem akcji instytucji pomostowej, przedsiębiorstwa instytucji pomostowej albo jej praw majątkowych lub zobowiązań, zakresie niezbędnym do zawarcia i wykonania umów dotyczących zbycia akcji instytucji pomostowej, przedsiębiorstwa instytucji pomostowej albo jej praw majątkowych lub zobowiązań;
+- **9)** podmiotowi obejmującemu lub przejmującemu prawa udziałowe na podstawie decyzji Funduszu o zastosowaniu rządowych instrumentów stabilizacji finansowej zgodnie z ustawą z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej;
+- **10)** jednostce zarządzającej systemem ochrony, o której mowa art. 130e ust. 1 ustawy Prawo bankowe, zakresie informacji niezbędnych do realizacji celów, o których mowa art. 130b ust. 1 tej ustawy, i wsparcia, o którym mowa art. 130b ust. 2 tej ustawy, lub zadań organu zarządzającego systemem ochrony określonych art. 130k ust. 1 pkt 3 i 4 oraz ust. 2 tej ustawy;
+- **11)** osobom, organom i podmiotom, o których mowa art. 73 ust. 5 rozporządzenia nr 2021/23, zakresie określonym tym przepisie.
+
 **Art. 321.** Fundusz może udostępniać informacje oraz dokonywać wzajemnej wymiany informacji chronionych na podstawie odrębnych ustaw podmiotom określonym art. 320 ust. 4 pkt 1, 2 i 7, zakresie niezbędnym dla zapewniania współpracy przy realizacji celów i zadań Funduszu oraz zakresie niezbędnym do wykonywania ich ustawowo określonych zadań, szczególności zapewnienia stabilności finansowej lub celu ustalenia lub weryfikacji należnych, potencjalnych lub spornych świadczeń na rzecz deponentów albo związku z realizacją obowiązku wypłaty świadczeń gwarancyjnych.
 
 **Art. 322.**
@@ -4921,7 +5249,7 @@ Art. 341–368. (pominięte)
 - **1)** o ich sytuacji ekonomiczno-finansowej;
 - **2)** o zobowiązaniu ich do wdrożenia planu naprawy albo opracowania programu postępowania naprawczego, o powzięciu informacji o ich stracie, groźbie jej wystąpienia lub powstaniu niebezpieczeństwa ich niewypłacalności lub utraty płynności oraz podejmowanych takim przypadku stosunku do nich działaniach;
 - **3)** o działaniach wczesnej interwencji lub ustanowieniu zarządcy lub zarządu komisarycznego tych podmiotach;
-- **4)** o wyrażeniu zgody na zawarcie umowy dotyczącej wsparcia finansowego, o której mowa art. 141t ustawy Prawo bankowe lub art. 110zr ust. 1 ustawy o obrocie instrumentami finansowymi, i warunkach tej umowy;
+- **4)** o wyrażeniu zgody na zawarcie umowy dotyczącej wsparcia finansowego, o której mowa art. 141t ustawy Prawo bankowe lub art. 110zr ust. 1 ustawy o obrocie instrumentami finansowymi, i warunkach tej umowy; im wsparcia płynnościowego lub kapitałowego;
 - **6)** o zaistnieniu innych niż wymienione pkt 2–5 okoliczności mogących skutkować powstaniem zobowiązań Funduszu, szczególności wobec deponentów z tytułu środków gwarantowanych, lub zagrożeniem upadłością podmiotu;
 - **7)** niezbędne do opracowania planu przymusowej restrukturyzacji;
 - **8)** o istotnej zmianie organizacyjnej, prawnej lub wystąpieniu innego zdarzenia mającego wpływ na przyjęte planie przymusowej restrukturyzacji założenia i realizację tego planu.
@@ -5015,6 +5343,15 @@ Art. 341–368. (pominięte)
 2. Tej samej karze podlega, kto, będąc członkiem zarządu lub rady nadzorczej podmiotu krajowego, organu administrującego spółki europejskiej albo dyrektorem oddziału banku zagranicznego, przez obciążenie środków, o których mowa ust. 1, doprowadza do powstania straty po stronie Funduszu.
 
 **Art. 333.** Kto, będąc członkiem zarządu lub rady nadzorczej podmiotu objętego systemem gwarantowania, podmiotu krajowego, organu administrującego spółki europejskiej albo dyrektorem oddziału banku zagranicznego, przez nieodprowadzenie przez ten podmiot obowiązkowych składek, o których mowa art. 286 ust. 2 lub 3 lub art. 295 ust. 2 lub 4, lub składek nadzwyczajnych, o których mowa art. 291 ust. 1, art. 292 ust. 1, art. 299 ust. 1 lub art. 300 ust. 1, lub nieodprowadzenie tych składek odpowiedniej wysokości mimo dysponowania przez ten podmiot wystarczającymi środkami pieniężnymi pozwalającymi na wniesienie tych składek, doprowadza do powstania straty po stronie Funduszu, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności od 3 miesięcy do 5 lat. administrującego spółki europejskiej albo członkiem zarządu lub rady nadzorczej kasy objętej systemem gwarantowania albo członkiem zarządu lub rady nadzorczej banku zrzeszającego albo członkiem zarządu lub rady nadzorczej Kasy Krajowej obowiązanym do ujawnienia Funduszowi informacji dotyczących podmiotu objętego systemem gwarantowania lub jego deponentów zakresie ustalonym ustawie, podaje nieprawdziwe lub zataja prawdziwe dane, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2. 2. Tej samej karze podlega, kto nie przekazuje informacji, o których mowa art. 85, art. 86 ust. 1 i art. 88 ust. 1. 3. Tej samej karze podlega, kto, będąc obowiązany na postawie art. 118 ust. 1, nie wydaje Funduszowi całego majątku lub dokumentów podmiotu restrukturyzacji. 4. Tej samej karze podlega, kto, będąc odpowiedzialnym za zapewnienie właściwego funkcjonowania wewnętrznej kontroli danych i informacji wymaganych zakresie ustalonym ustawie lub za udzielanie informacji i wyjaśnień na żądanie Funduszu, nie wykonuje ciążącego na nim obowiązku albo wykonuje go nieterminowo. 5. Tej samej karze podlega także ten, kto, sprawując nadzór zgodnie z art. 9a ust. 2 ustawy Prawo bankowe, art. 212 § 1, art. 213 § 1 lub art. 382 § 1 Kodeksu spółek handlowych albo art. 44 ustawy z dnia 16 września 1982 r. Prawo spółdzielcze, nie egzekwuje wypełnienia przez zarząd banku, firmy inwestycyjnej albo kasy obowiązku powiadomienia Komisji Nadzoru Finansowego o wypełnieniu przesłanek wszczęcia przymusowej restrukturyzacji zgodnie z art. 157f ust. 3 ustawy Prawo bankowe albo art. 110zzh ust. 3 ustawy o obrocie instrumentami finansowymi, albo wykonuje go nierzetelnie lub nieterminowo. 6. Tej samej karze podlega także ten, kto:
+
+- **1)** nie wykonuje ciążącego na nim obowiązku powiadomienia Komisji Nadzoru Finansowego o wypełnieniu przesłanek wszczęcia przymusowej restrukturyzacji zgodnie z art. 157f ust. 3 ustawy Prawo bankowe albo art. 110zzh ust. 3 ustawy o obrocie instrumentami finansowymi, albo wykonuje go nierzetelnie lub nieterminowo;
+- **2)** nie dopełnia obowiązków, o których mowa art. 110zj ust. 1 i 7, art. 110zk ust. 1, art. 110zl ust. 1, art. 110zm ust. 1 oraz art. 110zx ust. 1 ustawy o obrocie instrumentami finansowymi lub art. 141m ust. 1, 4 i 5, art. 141n ust. 1 oraz art. 141v ust. 7 pkt 1 ustawy Prawo bankowe;
+- **3)** nie wykonuje ciążącego na nim obowiązku sporządzenia lub przedstawienia Funduszowi sprawozdania finansowego lub innych sprawozdań i informacji związanych z przygotowaniem i przeprowadzeniem przymusowej restrukturyzacji albo wykonuje go nierzetelnie lub nieterminowo.
+
+7. Tej samej karze podlega także ten, kto:
+
+- **1)** nie wykonuje ciążącego na nim obowiązku, o którym mowa art. 140 ust. 5;
+- **2)** nie przekazuje informacji, o których mowa art. 330 ust. 1.
 
 **Art. 335.**
 
@@ -5188,7 +5525,7 @@ Art. 341–368. (pominięte)
 
 11. W przypadku spełnienia warunku gwarancji wobec podmiotu objętego systemem gwarantowania, o którym mowa art. 2 pkt 41 lit. a i b, okresie od dnia 1 stycznia 2017 r. do dnia 31 grudnia 2024 r. wypłaty środków gwarantowanych dokonywane są przez Fundusz ze środków funduszy ochrony środków gwarantowanych, po wyczerpaniu środków, o których mowa art. 56.
 
-12. W przypadku, o którym mowa ust. 11, Fundusz wzywa podmiot objęty systemem gwarantowania, o którym mowa art. 2 pkt 41 lit. a i b, wobec którego nastąpiło spełnienie warunku gwarancji, do przekazania środków funduszu ochrony środków gwarantowanych, kwocie stanowiącej różnicę między kwotą zobowiązania Funduszu z tytułu wypłaty środków gwarantowanych a kwotą środków, o których mowa art. 56. mowa art. 2 pkt 41 lit. a i b, drodze ogłoszenia dzienniku o zasięgu ogólnopolskim, o obowiązku wniesienia na rzecz Funduszu kwot przeznaczonych na wypłatę środków gwarantowanych (łączna kwota obowiązkowej wpłaty podmiotów objętych systemem gwarantowania), wysokości stanowiącej różnicę między kwotą zobowiązania Funduszu z tytułu wypłaty środków gwarantowanych a kwotą środków, o których mowa art. 56, oraz środków przekazanych zgodnie z ust. 12. W zawiadomieniu Fundusz wskazuje rachunek bankowy, na który mają zostać dokonane wpłaty, oraz tytuł płatności. Wpłaty, do których są zobowiązane banki spółdzielcze zrzeszone z bankami zrzeszającymi, wnoszą, imieniu tych banków, banki zrzeszające.
+12. W przypadku, o którym mowa ust. 11, Fundusz wzywa podmiot objęty systemem gwarantowania, o którym mowa art. 2 pkt 41 lit. a i b, wobec którego nastąpiło spełnienie warunku gwarancji, do przekazania środków funduszu ochrony środków gwarantowanych, kwocie stanowiącej różnicę między kwotą zobowiązania Funduszu z tytułu wypłaty środków gwarantowanych a kwotą środków, o których mowa art. 56. z tytułu wypłaty środków gwarantowanych, Fundusz zawiadamia podmioty objęte systemem gwarantowania, o których mowa art. 2 pkt 41 lit. a i b, drodze ogłoszenia dzienniku o zasięgu ogólnopolskim, o obowiązku wniesienia na rzecz Funduszu kwot przeznaczonych na wypłatę środków gwarantowanych (łączna kwota obowiązkowej wpłaty podmiotów objętych systemem gwarantowania), wysokości stanowiącej różnicę między kwotą zobowiązania Funduszu z tytułu wypłaty środków gwarantowanych a kwotą środków, o których mowa art. 56, oraz środków przekazanych zgodnie z ust. 12. W zawiadomieniu Fundusz wskazuje rachunek bankowy, na który mają zostać dokonane wpłaty, oraz tytuł płatności. Wpłaty, do których są zobowiązane banki spółdzielcze zrzeszone z bankami zrzeszającymi, wnoszą, imieniu tych banków, banki zrzeszające.
 
 14. Kwota, którą obowiązany jest wnieść podmiot objęty systemem gwarantowania, o którym mowa art. 2 pkt 41 lit. a i b (obowiązkowa wpłata podmiotu objętego systemem gwarantowania), zostaje ustalona jako kwota pozostająca takiej proporcji do łącznej kwoty obowiązkowej wpłaty podmiotów objętych systemem gwarantowania, jakiej pozostawała wysokość funduszu ochrony środków gwarantowanych podmiotu objętego systemem gwarantowania do sumy funduszy ochrony środków gwarantowanych wszystkich podmiotów objętych systemem gwarantowania, z wyłączeniem podmiotu, wobec którego nastąpiło spełnienie warunku gwarancji.
 
@@ -5220,11 +5557,16 @@ Art. 341–368. (pominięte)
 
 2. Z dniem wejścia życie ustawy:
 
-- **1)** plan finansowy i plan działalności Bankowego Funduszu Gwarancyjnego działającego na podstawie ustawy uchylanej art. 388 stają się planem finansowym i planem działalności Funduszu;
+- **1)** plan finansowy i plan działalności Bankowego Funduszu Gwarancyjnego działającego na podstawie ustawy uchylanej art. 388 stają się planem finansowym i planem działalności Funduszu; stają się należnościami i zobowiązaniami Funduszu;
 - **3)** pracownicy Bankowego Funduszu Gwarancyjnego działającego na podstawie ustawy uchylanej art. 388 stają się pracownikami Funduszu; przepis art. 23 Kodeksu pracy stosuje się odpowiednio;
 - **4)** Radzie Funduszu wygasa członkostwo osób, o których mowa art. 6 ust. 4 pkt 4 ustawy uchylanej art. 388.
 
 **Art. 372.** Z dniem wejścia życie ustawy Funduszu:
+
+- **1)** likwiduje się fundusz pomocowy, stabilizacyjny, zapasowy oraz fundusz środków odzyskanych z mas upadłości;
+- **2)** zwiększa się fundusz gwarancyjny banków o wartość funduszu pomocowego i funduszu środków odzyskanych z mas upadłości;
+- **3)** zwiększa się fundusz przymusowej restrukturyzacji banków o wartość funduszu stabilizacyjnego i funduszu zapasowego;
+- **4)** środki funduszu gwarancyjnego kas utworzonego na podstawie ustawy uchylanej art. 388 zalicza się na poczet funduszu gwarancyjnego kas.
 
 **Art. 373.**
 
@@ -5238,11 +5580,17 @@ Art. 341–368. (pominięte)
 
 **Art. 375.** Do postępowań wszczętych i niezakończonych przed dniem wejścia życie ustawy sprawie:
 
+- **1)** uchylenia zezwolenia na utworzenie banku na podstawie art. 25n ust. 5, art. 138 ust. 3 pkt 4 i ust. 6 ustawy zmienianej art. 347 ,
+- **2)** uchylenia zezwolenia na utworzenie oddziału banku zagranicznego na podstawie art. 138 ust. 6a ustawy zmienianej art. 347 ,
+- **3)** postępowań na podstawie art. 147 ust. 1 i art. 158 ust. 1 i 2 ustawy zmienianej art. 347 ,
+- **4)** postępowań na podstawie art. 74c ust. 3 i 4 oraz art. 74k ust. 1 i 2 ustawy zmienianej art. 363 ,
+- **5)** cofnięcia zezwolenia na prowadzenie działalności maklerskiej na podstawie art. 106l ust. 6, art. 108 ust. 7 i art. 167 ust. 1 ustawy zmienianej art. 359 stosuje się przepisy tych ustaw brzmieniu dotychczasowym.
+
 **Art. 376.** W sprawach, których przed dniem wejścia życie ustawy wpłynął wniosek o ogłoszenie upadłości na podstawie przepisów części trzeciej tytułu II ustawy, o której mowa art. 354 , stosuje się przepisy tej ustawy brzmieniu dotychczasowym.
 
 **Art. 377.** W sprawach, których przed dniem wejścia życie ustawy wpłynął wniosek o ogłoszenie upadłości na podstawie przepisów części trzeciej tytułu II ustawy, o której mowa art. 354 , na nabywcę przedsiębiorstwa bankowego lub kasy trybie art. 437 ustawy, o której mowa art. 354 , nie przechodzą zobowiązania wynikające z wierzytelności Bankowego Funduszu Gwarancyjnego, o których mowa art. 39 ust. 1.
 
-**Art. 378.** W sprawach, których przed dniem wejścia życie ustawy wpłynął wniosek o otwarcie postępowania układowego na podstawie przepisów tytułu IV działu III ustawy, o której mowa art. 366 , stosuje się przepisy tej ustawy brzmieniu dotychczasowym. o której mowa art. 366 , zawarto układ, do wniosków o zmianę lub uchylenie układu stosuje się przepisy ustawy, o której mowa art. 366 , brzmieniu dotychczasowym.
+**Art. 378.** W sprawach, których przed dniem wejścia życie ustawy wpłynął wniosek o otwarcie postępowania układowego na podstawie przepisów tytułu IV działu III ustawy, o której mowa art. 366 , stosuje się przepisy tej ustawy brzmieniu dotychczasowym. o której mowa art. 354 lub postępowaniu układowym prowadzonym na podstawie przepisów tytułu IV działu III ustawy, o której mowa art. 366 , zawarto układ, do wniosków o zmianę lub uchylenie układu stosuje się przepisy ustawy, o której mowa art. 366 , brzmieniu dotychczasowym.
 
 **Art. 380.** Należności Funduszu z tytułu udzielonej pomocy finansowej i wsparcia, o których mowa art. 19 ust. 1, art. 20c ust. 1 i art. 20g ust. 1 ustawy uchylanej art. 388, są zaspokajane postępowaniu upadłościowym i postępowaniu likwidacyjnym, o którym mowa art. 125 § 1 pkt 2 ustawy, o której mowa art. 344 , kategorii drugiej.
 
@@ -5291,4 +5639,8 @@ Art. 341–368. (pominięte)
 **Art. 388.** Traci moc ustawa z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym (Dz. U. z 2014 r. poz. 1866, z późn. zm. ).
 
 **Art. 389.** Ustawa wchodzi życie po upływie 3 miesięcy od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 351 pkt 2, art. 361 pkt 1 i art. 363 pkt 3, które wchodzą życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 106, który wchodzi życie z dniem 11 lutego 2017 r.
+
 

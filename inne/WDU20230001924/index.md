@@ -8,10 +8,10 @@ pos: 1924
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 września 2023 OBWIESZCZENIE MINISTRA EDUKACJI I NAUKI dnia 21 sierpnia 2023 sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narodowej sprawie szczegółowych warunków przechodzenia ucznia ze publicznej, artystycznej, niepublicznej niepublicznej artystycznej o uprawnieniach artystycznej, do innego typu albo tego samego typu
+# Obwieszczenie Ministra Edukacji i Naukiz dnia 21 sierpnia 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narodowej w sprawie szczegółowych warunków przechodzenia ucznia ze szkoły publicznej, publicznej szkoły artystycznej, szkoły niepublicznej lub niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej, do szkoły publicznej innego typu albo szkoły publicznej tego samego typu
 
 | Pole | Wartość |
 |---|---|
@@ -25,127 +25,281 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001924) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1924/text.pdf) |
 
-1. Na podstawie art. 16 ust. 3 ustawy dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Edukacji Narodowej dnia 21 sierpnia 2019 sprawie szczegółowych warunków przechodzenia ucznia ze publicznej, artystycznej, niepublicznej niepublicznej artystycznej o uprawnieniach artystycznej, do innego typu albo tego samego typu (Dz. U. poz. 1641), uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Edukacji i Nauki dnia 24 sierpnia 2022 zmieniającym rozporządzenie sprawie szczegółowych warunków przechodzenia ucznia ze publicznej, artystycznej, niepublicznej niepublicznej artystycznej o uprawnieniach artystycznej, do innego typu albo tego samego typu (Dz. U. poz. 1805).
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Edukacji i Nauki dnia 24 sierpnia 2022 zmieniającego rozporządzenie sprawie szczegółowych warunków przechodzenia ucznia ze publicznej, artystycznej, niepublicznej niepublicznej artystycznej o uprawnieniach artystycznej, do innego typu albo tego samego typu (Dz. U. poz. 1805), który stanowi: „§ 2. Rozporządzenie wchodzi życie dniem 1 września 2022 r.”.
-Minister Edukacji i Nauki: P. Czarnek ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ dnia 21 sierpnia 2019 sprawie szczegółowych warunków przechodzenia ucznia ze publicznej, artystycznej, niepublicznej niepublicznej artystycznej o uprawnieniach artystycznej, do innego typu albo tego samego typu Na podstawie art. 164 ust. 5 ustawy dnia 14 grudnia 2016 Prawo oświatowe (Dz. U. 2023 poz. 900, 1672 i 1718) zarządza się, co następuje: § 1. Rozporządzenie określa:
-1) szczegółowe warunki przechodzenia ucznia ze publicznej, artystycznej, niepublicznej niepublicznej artystycznej o uprawnieniach artystycznej do innego typu albo tego samego typu, o których mowa art. 164 ust. 1 ustawy dnia 14 grudnia 2016 Prawo oświatowe;
-2) przypadki, których uczeń publicznej, artystycznej, niepublicznej niepublicznej artystycznej o uprawnieniach artystycznej może być przyjęty do innego typu do programowo wyższej, a przypadku branżowej II stopnia, policealnej i dla dorosłych na semestr programowo wyższy, niż to wynika kopii arkusza ocen ucznia zaświadczenia o przebiegu nauczania ucznia, o których mowa przepisach wydanych na podstawie art. 47 ust. 1 pkt 7 ustawy dnia 14 grudnia 2016 Prawo oświatowe.
-§ 2. 1. Uczeń przechodzący z:
-1) I–III branżowej I stopnia niepublicznej może być przyjęty do:
-a) I branżowej I stopnia, której jest realizowane kształcenie zawodzie innym niż zawód, którym kształci się uczeń, albo
-b) I publicznego liceum ogólnokształcącego, albo
-c) I publicznego technikum;
-2) III branżowej I stopnia niepublicznej może być przyjęty do II publicznego technikum, której jest realizowane kształcenie zawodzie, którym zakres pierwszej kwalifikacji wyodrębnionej tym zawodzie jest wspólny zakresem kwalifikacji wyodrębnionej zawodzie nauczanym branżowej szkole I stopnia;
-3) I–IV liceum ogólnokształcącego publicznego niepublicznego może być przyjęty do:
-a) I publicznego technikum albo
-b) I branżowej I stopnia;
-4) I–V technikum publicznego niepublicznego może być przyjęty do:
-a) I technikum, której jest realizowane kształcenie zawodzie innym niż zawód, którym kształci się uczeń, albo
-b) I branżowej I stopnia;
-5) I technikum publicznego niepublicznego może być przyjęty do I publicznego liceum ogólnokształcącego;
-b) II branżowej I stopnia, której jest realizowane kształcenie zawodzie, którym zakres kwalifikacji wyodrębnionej tym zawodzie jest wspólny zakresem pierwszej kwalifikacji wyodrębnionej zawodzie nauczanym technikum;
-7) III technikum publicznego niepublicznego może być przyjęty do:
-a) II albo III publicznego liceum ogólnokształcącego albo
-b) III branżowej I stopnia, której jest realizowane kształcenie zawodzie, którym zakres kwalifikacji wyodrębnionej tym zawodzie jest wspólny zakresem pierwszej kwalifikacji wyodrębnionej zawodzie nauczanym technikum;
-8) IV technikum publicznego niepublicznego może być przyjęty do:
-a) III albo IV publicznego liceum ogólnokształcącego albo
-b) III branżowej I stopnia, której jest realizowane kształcenie zawodzie, którym zakres kwalifikacji wyodrębnionej tym zawodzie jest wspólny zakresem pierwszej kwalifikacji wyodrębnionej zawodzie nauczanym technikum, albo
-c) I branżowej II stopnia, której jest realizowane kształcenie zawodzie, którym zakres drugiej kwalifikacji wyodrębnionej tym zawodzie jest wspólny zakresem drugiej kwalifikacji wyodrębnionej zawodzie nauczanym technikum;
-9) V technikum publicznego niepublicznego może być przyjęty do:
-a) IV publicznego liceum ogólnokształcącego albo
-b) II branżowej II stopnia, której jest realizowane kształcenie zawodzie, którym zakres drugiej kwalifikacji wyodrębnionej tym zawodzie jest wspólny zakresem drugiej kwalifikacji wyodrębnionej zawodzie nauczanym technikum.
-2. Uczeń przechodzący z:
-1) I–VIII ogólnokształcącej muzycznej I stopnia niepublicznej o uprawnieniach artystycznej może być przyjęty odpowiednio do I–VIII podstawowej;
-2) (uchylony);
-3) I–IV ogólnokształcącej muzycznej II stopnia niepublicznej o uprawnieniach artystycznej może być przyjęty odpowiednio do I–IV publicznego liceum ogólnokształcącego;
-4) I–V ogólnokształcącej baletowej niepublicznej o uprawnieniach artystycznej może być przyjęty odpowiednio do IV–VIII podstawowej;
-5) VI–IX ogólnokształcącej baletowej niepublicznej o uprawnieniach artystycznej może być przyjęty odpowiednio do I–IV publicznego liceum ogólnokształcącego;
-6) I liceum sztuk plastycznych publicznego niepublicznego o uprawnieniach artystycznej może być przyjęty do I publicznego liceum ogólnokształcącego;
-7) II liceum sztuk plastycznych publicznego niepublicznego o uprawnieniach artystycznej może być przyjęty do I albo II publicznego liceum ogólnokształcącego;
-8) III liceum sztuk plastycznych publicznego niepublicznego o uprawnieniach artystycznej może być przyjęty do II albo III publicznego liceum ogólnokształcącego;
-9) IV liceum sztuk plastycznych publicznego niepublicznego o uprawnieniach artystycznej może być przyjęty do III publicznego liceum ogólnokształcącego;
-10) V liceum sztuk plastycznych publicznego niepublicznego o uprawnieniach artystycznej może być przyjęty do III albo IV publicznego liceum ogólnokształcącego.
-na semestr programowo wyższy, powodu uzyskania negatywnych rocznych ocen klasyfikacyjnych obowiązkowych zajęć edukacyjnych szkole, której przechodzi, a który ze wszystkich obowiązkowych zajęć edukacyjnych realizowanych oddziale tego samego typu, do której przechodzi, uzyskał pozytywne roczne oceny klasyfikacyjne, może być przyjęty odpowiednio do programowo wyższej albo na semestr programowo wyższy podstawowej ponadpodstawowej.
-2. W przypadku gdy uczeń uzyskał negatywną roczną ocenę klasyfikacyjną języka obcego nowożytnego realizowanego oddziale szkoły, do której przechodzi, jako obowiązkowe zajęcia edukacyjne, przepisu ust. 1 nie stosuje się.
-§ 4. Uczeń niepublicznej, który nie otrzymał promocji do programowo wyższej powodu uzyskania negatywnych rocznych ocen klasyfikacyjnych języka mniejszości narodowej etnicznej albo języka regionalnego, a który ze wszystkich obowiązkowych zajęć edukacyjnych realizowanych oddziale tego samego typu albo innego typu, do której przechodzi, uzyskał pozytywne roczne oceny klasyfikacyjne, może być przyjęty do programowo wyższej odpowiedniego typu publicznej, pod warunkiem, że nie będzie kontynuować nauki języka mniejszości narodowej etnicznej albo języka regionalnego tej klasie.
-§ 5. 1. Uczeń I technikum publicznego niepublicznego, który nie otrzymał promocji do II powodu uzyskania negatywnych rocznych ocen klasyfikacyjnych obowiązkowych zajęć edukacyjnych zakresu kształcenia zawodowego, a który ze wszystkich obowiązkowych zajęć edukacyjnych ogólnokształcących uzyskał pozytywne roczne oceny klasyfikacyjne, może być przyjęty do I albo II publicznego liceum ogólnokształcącego.
-2. Uczeń II technikum publicznego niepublicznego, który nie otrzymał promocji do III powodu uzyskania negatywnych rocznych ocen klasyfikacyjnych obowiązkowych zajęć edukacyjnych zakresu kształcenia zawodowego, a który ze wszystkich obowiązkowych zajęć edukacyjnych ogólnokształcących uzyskał pozytywne roczne oceny klasyfikacyjne, może być przyjęty do II albo III publicznego liceum ogólnokształcącego.
-3. Uczeń III technikum publicznego niepublicznego, który nie otrzymał promocji do IV powodu uzyskania negatywnych rocznych ocen klasyfikacyjnych obowiązkowych zajęć edukacyjnych zakresu kształcenia zawodowego, a który ze wszystkich obowiązkowych zajęć edukacyjnych ogólnokształcących uzyskał pozytywne roczne oceny klasyfikacyjne, może być przyjęty do III albo IV publicznego liceum ogólnokształcącego.
-4. Uczeń IV technikum publicznego niepublicznego, który nie otrzymał promocji do V powodu uzyskania negatywnych rocznych ocen klasyfikacyjnych obowiązkowych zajęć edukacyjnych zakresu kształcenia zawodowego, a który ze wszystkich obowiązkowych zajęć edukacyjnych ogólnokształcących uzyskał pozytywne roczne oceny klasyfikacyjne, może być przyjęty do IV publicznego liceum ogólnokształcącego.
-§ 6. 1. Uczeń ogólnokształcącej muzycznej I stopnia, ogólnokształcącej muzycznej II stopnia i ogólnokształcącej baletowej, niepublicznej o uprawnieniach artystycznej, który nie otrzymał promocji do programowo wyższej powodu uzyskania negatywnych rocznych ocen klasyfikacyjnych obowiązkowych zajęć edukacyjnych artystycznych, a który ze wszystkich obowiązkowych zajęć edukacyjnych ogólnokształcących uzyskał pozytywne roczne oceny klasyfikacyjne, może być przyjęty do programowo wyższej odpowiednio podstawowej publicznego liceum ogólnokształcącego.
-2. Uczeń I liceum sztuk plastycznych publicznego niepublicznego o uprawnieniach artystycznej, który nie otrzymał promocji do II powodu uzyskania negatywnych rocznych ocen klasyfikacyjnych obowiązkowych zajęć edukacyjnych artystycznych, a który ze wszystkich obowiązkowych zajęć edukacyjnych ogólnokształcących uzyskał pozytywne roczne oceny klasyfikacyjne, może być przyjęty do II publicznego liceum ogólnokształcącego.
-3. Uczeń II liceum sztuk plastycznych publicznego niepublicznego o uprawnieniach artystycznej, który nie otrzymał promocji do III powodu uzyskania negatywnych rocznych ocen klasyfikacyjnych obowiązkowych zajęć edukacyjnych artystycznych, a który ze wszystkich obowiązkowych zajęć edukacyjnych ogólnokształcących uzyskał pozytywne roczne oceny klasyfikacyjne, może być przyjęty do II albo III publicznego liceum ogólnokształcącego.
-4. Uczeń III liceum sztuk plastycznych publicznego niepublicznego o uprawnieniach artystycznej, który nie otrzymał promocji do IV powodu uzyskania negatywnych rocznych ocen klasyfikacyjnych obowiązkowych zajęć edukacyjnych artystycznych, a który ze wszystkich obowiązkowych zajęć edukacyjnych ogólnokształcących uzyskał pozytywne roczne oceny klasyfikacyjne, może być przyjęty do III publicznego liceum ogólnokształcącego.
-obowiązkowych zajęć edukacyjnych artystycznych, a który ze wszystkich obowiązkowych zajęć edukacyjnych ogólnokształcących uzyskał pozytywne roczne oceny klasyfikacyjne, może być przyjęty do III albo IV publicznego liceum ogólnokształcącego.
-§ 7. W przypadkach, o których mowa § 2 ust. 1 pkt 6 lit. a, ust. 2 pkt 7 i § 5 ust. 1, uczeń przechodzący jednego typu do innego typu jest kwalifikowany do odpowiedniej przez dyrektora szkoły, do której przechodzi, na podstawie świadectwa promocyjnego wydanego przez szkołę, której uczeń przechodzi, a przypadkach, o których mowa § 2 ust. 1 pkt 7 lit. a, pkt 8 lit. a, ust. 2 pkt 8 i 10, § 5 ust. 2 i 3 oraz § 6 ust. 3 i 5 na podstawie świadectw promocyjnych wydanych przez szkołę, której uczeń przechodzi.
-§ 8. 1. Różnice programowe obowiązkowych zajęć edukacyjnych realizowanych oddziale szkoły, do której uczeń przechodzi, są uzupełniane na warunkach ustalonych przez nauczycieli prowadzących obowiązkowe zajęcia edukacyjne tym oddziale.
-2. Jeżeli uczeń szkole ponadpodstawowej, której przechodzi, zrealizował obowiązkowe zajęcia edukacyjne:
-1) ogólnokształcące zakresie podstawowym, a oddziale szkoły, do której przechodzi, zajęcia te są realizowane zakresie rozszerzonym,
-2) zakresu kształcenia zawodowego węższym zakresie niż zajęcia te są realizowane oddziale szkoły, do której przechodzi przepis ust. 1 stosuje się odpowiednio.
-3. W przypadku ucznia przechodzącego ze jednego typu do tego samego typu innego typu, który szkole, której przechodzi, nie realizował obowiązkowych zajęć edukacyjnych, które zostały zrealizowane oddziale szkoły, do której przechodzi, dyrektor zapewnia uczniowi warunki do zrealizowania treści nauczania tych zajęć, do końca danego etapu edukacyjnego.
-4. Jeżeli powodu rozkładu zajęć edukacyjnych innych ważnych przyczyn nie można zapewnić uczniowi, o którym mowa ust. 3, warunków do zrealizowania treści nauczania obowiązkowych zajęć edukacyjnych, które zostały zrealizowane oddziale szkoły, do której uczeń przechodzi, dla ucznia przeprowadza się egzamin klasyfikacyjny tych zajęć.
-5. W przypadku gdy uczeń szkole, której przechodzi, zrealizował obowiązkowe zajęcia edukacyjne i uzyskał pozytywną roczną ocenę klasyfikacyjną, a oddziale szkoły, do której przechodzi, zajęcia te są będą realizowane tym samym węższym zakresie, uczeń jest zwolniony obowiązku uczestniczenia tych zajęciach.
-§ 9. 1. Jeżeli uczeń szkole, której przechodzi, uczył się jako przedmiotu obowiązkowego języka obcego nowożytnego innego niż język obcy nowożytny nauczany oddziale szkoły, do której przechodzi, a rozkład zajęć edukacyjnych uniemożliwia mu uczęszczanie innym oddziale grupie tej szkole na zajęcia języka obcego nowożytnego, którego uczył się szkole, której przechodzi, uczeń jest obowiązany:
-1) uczyć się języka obcego nowożytnego nauczanego oddziale szkoły, do której przechodzi, wyrównując we własnym zakresie różnice programowe do końca roku szkolnego albo
-2) kontynuować we własnym zakresie naukę języka obcego nowożytnego, którego uczył się szkole, której przechodzi, albo
-3) uczęszczać do oddziału innej szkole na zajęcia języka obcego nowożytnego, którego uczył się szkole, której przechodzi.
-2. Dla ucznia, o którym mowa ust. 1 pkt 2 i 3, przeprowadza się egzamin klasyfikacyjny zgodnie art. 44l albo art. 44wa ustawy dnia 7 września 1991 o systemie oświaty (Dz. U. 2022 poz. 2230 oraz 2023 poz. 1234) oraz przepisami wydanymi na podstawie art. 44zb tej ustawy.
-§ 10. Uczeń przechodzący roku szkolnym 2019/2020 z:
-1) I–III branżowej I stopnia niepublicznej, prowadzonej dla absolwentów dotychczasowego gimnazjum, może być przyjęty do:
-a) I branżowej I stopnia niepublicznej, prowadzonej dla absolwentów dotychczasowego gimnazjum, której jest realizowane kształcenie zawodzie innym niż zawód, którym kształci się uczeń, albo
-b) I publicznego dotychczasowego trzyletniego liceum ogólnokształcącego, albo wane kształcenie zawodzie, którym zakres pierwszej kwalifikacji wyodrębnionej tym zawodzie jest wspólny zakresem kwalifikacji wyodrębnionej zawodzie nauczanym branżowej szkole I stopnia;
-3) I–III dotychczasowego trzyletniego liceum ogólnokształcącego publicznego niepublicznego może być przyjęty do I branżowej I stopnia, prowadzonej dla absolwentów dotychczasowego gimnazjum;
-4) I–IV dotychczasowego czteroletniego technikum publicznego niepublicznego może być przyjęty do:
-a) I dotychczasowego czteroletniego technikum publicznego niepublicznego, której jest realizowane kształcenie zawodzie innym niż zawód, którym kształci się uczeń, albo
-b) I branżowej I stopnia, prowadzonej dla absolwentów dotychczasowego gimnazjum;
-5) II dotychczasowego czteroletniego technikum publicznego niepublicznego może być przyjęty do II branżowej I stopnia, prowadzonej dla absolwentów dotychczasowego gimnazjum, której jest realizowane kształcenie zawodzie, którym zakres kwalifikacji wyodrębnionej tym zawodzie jest wspólny zakresem pierwszej kwalifikacji wyodrębnionej zawodzie nauczanym dotychczasowym czteroletnim technikum;
-6) III dotychczasowego czteroletniego technikum publicznego niepublicznego może być przyjęty do III branżowej I stopnia, prowadzonej dla absolwentów dotychczasowego gimnazjum, której jest realizowane kształcenie zawodzie, którym zakres kwalifikacji wyodrębnionej tym zawodzie jest wspólny zakresem pierwszej kwalifikacji wyodrębnionej zawodzie nauczanym dotychczasowym czteroletnim technikum;
-7) IV dotychczasowego czteroletniego technikum publicznego niepublicznego może być przyjęty do III branżowej I stopnia, prowadzonej dla absolwentów dotychczasowego gimnazjum, której jest realizowane kształcenie zawodzie, którym zakres kwalifikacji wyodrębnionej tym zawodzie jest wspólny zakresem pierwszej kwalifikacji wyodrębnionej zawodzie nauczanym dotychczasowym czteroletnim technikum.
-§ 11. Uczeń przechodzący roku szkolnym 2020/2021 z:
-1) III branżowej I stopnia niepublicznej, prowadzonej dla absolwentów dotychczasowego gimnazjum, może być przyjęty do:
-a) I branżowej I stopnia niepublicznej, której jest realizowane kształcenie zawodzie innym niż zawód, którym kształci się uczeń, albo
-b) II publicznego dotychczasowego czteroletniego technikum, której jest realizowane kształcenie zawodzie, którym zakres pierwszej kwalifikacji wyodrębnionej tym zawodzie jest wspólny zakresem kwalifikacji wyodrębnionej zawodzie nauczanym branżowej szkole I stopnia;
-2) II albo III dotychczasowego trzyletniego liceum ogólnokształcącego publicznego niepublicznego może być przyjęty do:
-a) I publicznego technikum albo
-b) I branżowej I stopnia;
-3) II dotychczasowego czteroletniego technikum publicznego niepublicznego może być przyjęty do:
-a) I technikum, której jest realizowane kształcenie zawodzie innym niż zawód, którym kształci się uczeń, albo
-b) I publicznego liceum ogólnokształcącego, albo
-c) I branżowej I stopnia, albo
-d) II branżowej I stopnia, prowadzonej dla absolwentów dotychczasowego gimnazjum, której jest realizowane kształcenie zawodzie, którym zakres kwalifikacji wyodrębnionej tym zawodzie jest wspólny zakresem pierwszej kwalifikacji wyodrębnionej zawodzie nauczanym dotychczasowym czteroletnim technikum;
-4) III dotychczasowego czteroletniego technikum publicznego niepublicznego może być przyjęty do:
-a) I technikum, której jest realizowane kształcenie zawodzie innym niż zawód, którym kształci się uczeń, albo
-b) I branżowej I stopnia, albo jest wspólny zakresem pierwszej kwalifikacji wyodrębnionej zawodzie nauczanym dotychczasowym czteroletnim technikum;
-5) IV dotychczasowego czteroletniego technikum publicznego niepublicznego może być przyjęty do:
-a) I technikum, której jest realizowane kształcenie zawodzie innym niż zawód, którym kształci się uczeń, albo
-b) I branżowej I stopnia, albo
-c) III branżowej I stopnia, prowadzonej dla absolwentów dotychczasowego gimnazjum, której jest realizowane kształcenie zawodzie, którym zakres kwalifikacji wyodrębnionej tym zawodzie jest wspólny zakresem pierwszej kwalifikacji wyodrębnionej zawodzie nauczanym dotychczasowym czteroletnim technikum, albo
-d) I branżowej II stopnia, prowadzonej dla absolwentów branżowej I stopnia, którzy ukończyli dotychczasowe gimnazjum, której jest realizowane kształcenie zawodzie, którym zakres drugiej kwalifikacji wyodrębnionej tym zawodzie jest wspólny zakresem drugiej kwalifikacji wyodrębnionej zawodzie nauczanym dotychczasowym czteroletnim technikum.
-§ 12. Uczeń przechodzący roku szkolnym 2021/2022 z:
-1) III dotychczasowego trzyletniego liceum ogólnokształcącego publicznego niepublicznego może być przyjęty do:
-a) I publicznego technikum albo
-b) I branżowej I stopnia;
-2) III dotychczasowego czteroletniego technikum publicznego niepublicznego może być przyjęty do:
-a) I technikum, której jest realizowane kształcenie zawodzie innym niż zawód, którym kształci się uczeń, albo
-b) I branżowej I stopnia, albo
-c) III branżowej I stopnia, prowadzonej dla absolwentów dotychczasowego gimnazjum, której jest realizowane kształcenie zawodzie, którym zakres kwalifikacji wyodrębnionej tym zawodzie jest wspólny zakresem pierwszej kwalifikacji wyodrębnionej zawodzie nauczanym dotychczasowym czteroletnim technikum;
-3) IV dotychczasowego czteroletniego technikum publicznego niepublicznego może być przyjęty do:
-a) I technikum, której jest realizowane kształcenie zawodzie innym niż zawód, którym kształci się uczeń, albo
-b) I branżowej I stopnia, albo
-c) III branżowej I stopnia, prowadzonej dla absolwentów dotychczasowego gimnazjum, której jest realizowane kształcenie zawodzie, którym zakres kwalifikacji wyodrębnionej tym zawodzie jest wspólny zakresem pierwszej kwalifikacji wyodrębnionej zawodzie nauczanym dotychczasowym czteroletnim technikum, albo
-d) I branżowej II stopnia, prowadzonej dla absolwentów branżowej I stopnia, którzy ukończyli dotychczasowe gimnazjum, której jest realizowane kształcenie zawodzie, którym zakres drugiej kwalifikacji wyodrębnionej tym zawodzie jest wspólny zakresem drugiej kwalifikacji wyodrębnionej zawodzie nauczanym dotychczasowym czteroletnim technikum.
-§ 13. Uczeń przechodzący roku szkolnym 2022/2023 IV dotychczasowego czteroletniego technikum publicznego niepublicznego może być przyjęty do:
-1) I technikum, której jest realizowane kształcenie zawodzie innym niż zawód, którym kształci się uczeń, albo
-2) I branżowej I stopnia, albo dzie nauczanym dotychczasowym czteroletnim technikum, albo
-4) I branżowej II stopnia, której jest realizowane kształcenie zawodzie, którym zakres drugiej kwalifikacji wyodrębnionej tym zawodzie jest wspólny zakresem drugiej kwalifikacji wyodrębnionej zawodzie nauczanym dotychczasowym czteroletnim technikum, albo
-5) III albo IV publicznego liceum ogólnokształcącego.
-§ 13a. 1. Uczeń przechodzący roku szkolnym 2022/2023 z:
-1) II dotychczasowej ogólnokształcącej muzycznej II stopnia o sześcioletnim cyklu kształcenia, która jest prowadzona ogólnokształcącej szkole muzycznej II stopnia niepublicznej o uprawnieniach artystycznej, może być przyjęty do VIII podstawowej;
-2) III–VI dotychczasowej ogólnokształcącej muzycznej II stopnia o sześcioletnim cyklu kształcenia, która jest prowadzona ogólnokształcącej szkole muzycznej II stopnia niepublicznej o uprawnieniach publicznej artystycznej, może być przyjęty odpowiednio do I–IV publicznego liceum ogólnokształcącego.
-2. Uczeń przechodzący roku szkolnym 2023/2024 III–VI dotychczasowej ogólnokształcącej muzycznej II stopnia o sześcioletnim cyklu kształcenia, która jest prowadzona ogólnokształcącej szkole muzycznej II stopnia niepublicznej o uprawnieniach artystycznej, może być przyjęty odpowiednio do I–IV publicznego liceum ogólnokształcącego.
-3. Uczeń przechodzący roku szkolnym 2024/2025 IV–VI dotychczasowej ogólnokształcącej muzycznej II stopnia o sześcioletnim cyklu kształcenia, która jest prowadzona ogólnokształcącej szkole muzycznej II stopnia niepublicznej o uprawnieniach artystycznej, może być przyjęty odpowiednio do II–IV publicznego liceum ogólnokształcącego.
-4. Uczeń przechodzący roku szkolnym 2025/2026 V i VI dotychczasowej ogólnokształcącej muzycznej II stopnia o sześcioletnim cyklu kształcenia, która jest prowadzona ogólnokształcącej szkole muzycznej II stopnia niepublicznej o uprawnieniach artystycznej, może być przyjęty odpowiednio do III IV publicznego liceum ogólnokształcącego.
-5. Uczeń przechodzący roku szkolnym 2026/2027 VI dotychczasowej ogólnokształcącej muzycznej II stopnia o sześcioletnim cyklu kształcenia, która jest prowadzona ogólnokształcącej szkole muzycznej II stopnia niepublicznej o uprawnieniach artystycznej, może być przyjęty do IV publicznego liceum ogólnokształcącego.
-§ 14. W przypadkach, o których mowa § 10–13a, stosuje się odpowiednio przepisy § 3, § 4 i § 8.
-§ 15. Rozporządzenie wchodzi życie dniem 1 września 2019
+Treść obwieszczenia
+Załącznik – Rozporządzenie Ministra Edukacji Narodowej z dnia 21 sierpnia 2019 r. w sprawie szczegółowych warunków przechodzenia ucznia ze szkoły publicznej, publicznej szkoły artystycznej, szkoły niepublicznej lub niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej, do szkoły publicznej innego typu albo szkoły publicznej tego samego typu
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Edukacji Narodowej z dnia 21 sierpnia 2019 r. w sprawie szczegółowych warunków przechodzenia ucznia ze szkoły publicznej, publicznej szkoły artystycznej, szkoły niepublicznej lub niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej, do szkoły publicznej innego typu albo szkoły publicznej tego samego typu (Dz. U. poz. 1641), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Edukacji i Nauki z dnia 24 sierpnia 2022 r. zmieniającym rozporządzenie w sprawie szczegółowych warunków przechodzenia ucznia ze szkoły publicznej, publicznej szkoły artystycznej, szkoły niepublicznej lub niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej, do szkoły publicznej innego typu albo szkoły publicznej tego samego typu (Dz. U. poz. 1805).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Edukacji i Nauki z dnia 24 sierpnia 2022 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków przechodzenia ucznia ze szkoły publicznej, publicznej szkoły artystycznej, szkoły niepublicznej lub niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej, do szkoły publicznej innego typu albo szkoły publicznej tego samego typu (Dz. U. poz. 1805), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie z dniem 1 września 2022 r.
+” .
+1) Minister Edukacji i Nauki kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18 i 1842).
+Załącznik – Rozporządzenie Ministra Edukacji Narodowej z dnia 21 sierpnia 2019 r. w sprawie szczegółowych warunków przechodzenia ucznia ze szkoły publicznej, publicznej szkoły artystycznej, szkoły niepublicznej lub niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej, do szkoły publicznej innego typu albo szkoły publicznej tego samego typu
+Na podstawie art. 164 ust. 5 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 r. poz. 900, 1672 i 1718) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+szczegółowe warunki przechodzenia ucznia ze szkoły publicznej, publicznej szkoły artystycznej, szkoły niepublicznej lub niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej – do szkoły publicznej innego typu albo szkoły publicznej tego samego typu, o których mowa w art. 164 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe;
+2)
+przypadki, w których uczeń szkoły publicznej, publicznej szkoły artystycznej, szkoły niepublicznej lub niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej – może być przyjęty do szkoły publicznej innego typu do klasy programowo wyższej, a w przypadku branżowej szkoły II stopnia, szkoły policealnej i szkoły dla dorosłych – na semestr programowo wyższy, niż to wynika z kopii arkusza ocen ucznia lub zaświadczenia o przebiegu nauczania ucznia, o których mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 7 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe.
+§ 2.
+1.
+Uczeń przechodzący z:
+1)
+klasy I-III branżowej szkoły I stopnia publicznej lub niepublicznej może być przyjęty do:
+a)
+klasy I publicznej branżowej szkoły I stopnia, w której jest realizowane kształcenie w zawodzie innym niż zawód, w którym kształci się uczeń, albo
+b)
+klasy I publicznego liceum ogólnokształcącego, albo
+c)
+klasy I publicznego technikum;
+2)
+klasy III branżowej szkoły I stopnia publicznej lub niepublicznej może być przyjęty do klasy II publicznego technikum, w której jest realizowane kształcenie w zawodzie, w którym zakres pierwszej kwalifikacji wyodrębnionej w tym zawodzie jest wspólny z zakresem kwalifikacji wyodrębnionej w zawodzie nauczanym w branżowej szkole I stopnia;
+3)
+klasy I-IV liceum ogólnokształcącego publicznego lub niepublicznego może być przyjęty do:
+a)
+klasy I publicznego technikum albo
+b)
+klasy I publicznej branżowej szkoły I stopnia;
+4)
+klasy I-V technikum publicznego lub niepublicznego może być przyjęty do:
+a)
+klasy I technikum, w której jest realizowane kształcenie w zawodzie innym niż zawód, w którym kształci się uczeń, albo
+b)
+klasy I publicznej branżowej szkoły I stopnia;
+5)
+klasy I technikum publicznego lub niepublicznego może być przyjęty do klasy I publicznego liceum ogólnokształcącego;
+6)
+klasy II technikum publicznego lub niepublicznego może być przyjęty do:
+a)
+klasy I albo II publicznego liceum ogólnokształcącego albo
+b)
+klasy II publicznej branżowej szkoły I stopnia, w której jest realizowane kształcenie w zawodzie, w którym zakres kwalifikacji wyodrębnionej w tym zawodzie jest wspólny z zakresem pierwszej kwalifikacji wyodrębnionej w zawodzie nauczanym w technikum;
+7)
+klasy III technikum publicznego lub niepublicznego może być przyjęty do:
+a)
+klasy II albo III publicznego liceum ogólnokształcącego albo
+b)
+klasy III publicznej branżowej szkoły I stopnia, w której jest realizowane kształcenie w zawodzie, w którym zakres kwalifikacji wyodrębnionej w tym zawodzie jest wspólny z zakresem pierwszej kwalifikacji wyodrębnionej w zawodzie nauczanym w technikum;
+8)
+klasy IV technikum publicznego lub niepublicznego może być przyjęty do:
+a)
+klasy III albo IV publicznego liceum ogólnokształcącego albo
+b)
+klasy III publicznej branżowej szkoły I stopnia, w której jest realizowane kształcenie w zawodzie, w którym zakres kwalifikacji wyodrębnionej w tym zawodzie jest wspólny z zakresem pierwszej kwalifikacji wyodrębnionej w zawodzie nauczanym w technikum, albo
+c)
+klasy I publicznej branżowej szkoły II stopnia, w której jest realizowane kształcenie w zawodzie, w którym zakres drugiej kwalifikacji wyodrębnionej w tym zawodzie jest wspólny z zakresem drugiej kwalifikacji wyodrębnionej w zawodzie nauczanym w technikum;
+9)
+klasy V technikum publicznego lub niepublicznego może być przyjęty do:
+a)
+klasy IV publicznego liceum ogólnokształcącego albo
+b)
+klasy II publicznej branżowej szkoły II stopnia, w której jest realizowane kształcenie w zawodzie, w którym zakres drugiej kwalifikacji wyodrębnionej w tym zawodzie jest wspólny z zakresem drugiej kwalifikacji wyodrębnionej w zawodzie nauczanym w technikum.
+2.
+Uczeń przechodzący z:
+1)
+klasy I-VIII ogólnokształcącej szkoły muzycznej I stopnia publicznej lub niepublicznej o uprawnieniach publicznej szkoły artystycznej może być przyjęty odpowiednio do klasy I-VIII publicznej szkoły podstawowej;
+2)
+(uchylony);
+3)
+klasy I-IV ogólnokształcącej szkoły muzycznej II stopnia publicznej lub niepublicznej o uprawnieniach publicznej szkoły artystycznej może być przyjęty odpowiednio do klasy I-IV publicznego liceum ogólnokształcącego;
+4)
+klasy I-V ogólnokształcącej szkoły baletowej publicznej lub niepublicznej o uprawnieniach publicznej szkoły artystycznej może być przyjęty odpowiednio do klasy IV-VIII publicznej szkoły podstawowej;
+5)
+klasy VI-IX ogólnokształcącej szkoły baletowej publicznej lub niepublicznej o uprawnieniach publicznej szkoły artystycznej może być przyjęty odpowiednio do klasy I-IV publicznego liceum ogólnokształcącego;
+6)
+klasy I liceum sztuk plastycznych publicznego lub niepublicznego o uprawnieniach publicznej szkoły artystycznej może być przyjęty do klasy I publicznego liceum ogólnokształcącego;
+7)
+klasy II liceum sztuk plastycznych publicznego lub niepublicznego o uprawnieniach publicznej szkoły artystycznej może być przyjęty do klasy I albo II publicznego liceum ogólnokształcącego;
+8)
+klasy III liceum sztuk plastycznych publicznego lub niepublicznego o uprawnieniach publicznej szkoły artystycznej może być przyjęty do klasy II albo III publicznego liceum ogólnokształcącego;
+9)
+klasy IV liceum sztuk plastycznych publicznego lub niepublicznego o uprawnieniach publicznej szkoły artystycznej może być przyjęty do klasy III publicznego liceum ogólnokształcącego;
+10)
+klasy V liceum sztuk plastycznych publicznego lub niepublicznego o uprawnieniach publicznej szkoły artystycznej może być przyjęty do klasy III albo IV publicznego liceum ogólnokształcącego.
+§ 3.
+1.
+Uczeń szkoły podstawowej lub szkoły ponadpodstawowej niepublicznej, który nie otrzymał promocji do klasy programowo wyższej, a w przypadku branżowej szkoły II stopnia, szkoły policealnej i szkoły dla dorosłych niepublicznej – na semestr programowo wyższy, z powodu uzyskania negatywnych rocznych ocen klasyfikacyjnych z obowiązkowych zajęć edukacyjnych w szkole, z której przechodzi, a który ze wszystkich obowiązkowych zajęć edukacyjnych realizowanych w oddziale szkoły publicznej tego samego typu, do której przechodzi, uzyskał pozytywne roczne oceny klasyfikacyjne, może być przyjęty odpowiednio do klasy programowo wyższej albo na semestr programowo wyższy publicznej szkoły podstawowej lub szkoły ponadpodstawowej.
+2.
+W przypadku gdy uczeń uzyskał negatywną roczną ocenę klasyfikacyjną z języka obcego nowożytnego realizowanego w oddziale szkoły, do której przechodzi, jako obowiązkowe zajęcia edukacyjne, przepisu ust. 1 nie stosuje się.
+§ 4.
+Uczeń szkoły publicznej lub niepublicznej, który nie otrzymał promocji do klasy programowo wyższej z powodu uzyskania negatywnych rocznych ocen klasyfikacyjnych z języka mniejszości narodowej lub etnicznej albo języka regionalnego, a który ze wszystkich obowiązkowych zajęć edukacyjnych realizowanych w oddziale szkoły publicznej tego samego typu albo szkoły publicznej innego typu, do której przechodzi, uzyskał pozytywne roczne oceny klasyfikacyjne, może być przyjęty do klasy programowo wyższej odpowiedniego typu szkoły publicznej, pod warunkiem, że nie będzie kontynuować nauki języka mniejszości narodowej lub etnicznej albo języka regionalnego w tej klasie.
+§ 5.
+1.
+Uczeń klasy I technikum publicznego lub niepublicznego, który nie otrzymał promocji do klasy II z powodu uzyskania negatywnych rocznych ocen klasyfikacyjnych z obowiązkowych zajęć edukacyjnych z zakresu kształcenia zawodowego, a który ze wszystkich obowiązkowych zajęć edukacyjnych ogólnokształcących uzyskał pozytywne roczne oceny klasyfikacyjne, może być przyjęty do klasy I albo II publicznego liceum ogólnokształcącego.
+2.
+Uczeń klasy II technikum publicznego lub niepublicznego, który nie otrzymał promocji do klasy III z powodu uzyskania negatywnych rocznych ocen klasyfikacyjnych z obowiązkowych zajęć edukacyjnych z zakresu kształcenia zawodowego, a który ze wszystkich obowiązkowych zajęć edukacyjnych ogólnokształcących uzyskał pozytywne roczne oceny klasyfikacyjne, może być przyjęty do klasy II albo III publicznego liceum ogólnokształcącego.
+3.
+Uczeń klasy III technikum publicznego lub niepublicznego, który nie otrzymał promocji do klasy IV z powodu uzyskania negatywnych rocznych ocen klasyfikacyjnych z obowiązkowych zajęć edukacyjnych z zakresu kształcenia zawodowego, a który ze wszystkich obowiązkowych zajęć edukacyjnych ogólnokształcących uzyskał pozytywne roczne oceny klasyfikacyjne, może być przyjęty do klasy III albo IV publicznego liceum ogólnokształcącego.
+4.
+Uczeń klasy IV technikum publicznego lub niepublicznego, który nie otrzymał promocji do klasy V z powodu uzyskania negatywnych rocznych ocen klasyfikacyjnych z obowiązkowych zajęć edukacyjnych z zakresu kształcenia zawodowego, a który ze wszystkich obowiązkowych zajęć edukacyjnych ogólnokształcących uzyskał pozytywne roczne oceny klasyfikacyjne, może być przyjęty do klasy IV publicznego liceum ogólnokształcącego.
+§ 6.
+1.
+Uczeń ogólnokształcącej szkoły muzycznej I stopnia, ogólnokształcącej szkoły muzycznej II stopnia i ogólnokształcącej szkoły baletowej, publicznej lub niepublicznej o uprawnieniach publicznej szkoły artystycznej, który nie otrzymał promocji do klasy programowo wyższej z powodu uzyskania negatywnych rocznych ocen klasyfikacyjnych z obowiązkowych zajęć edukacyjnych artystycznych, a który ze wszystkich obowiązkowych zajęć edukacyjnych ogólnokształcących uzyskał pozytywne roczne oceny klasyfikacyjne, może być przyjęty do klasy programowo wyższej odpowiednio publicznej szkoły podstawowej lub publicznego liceum ogólnokształcącego.
+2.
+Uczeń klasy I liceum sztuk plastycznych publicznego lub niepublicznego o uprawnieniach publicznej szkoły artystycznej, który nie otrzymał promocji do klasy II z powodu uzyskania negatywnych rocznych ocen klasyfikacyjnych z obowiązkowych zajęć edukacyjnych artystycznych, a który ze wszystkich obowiązkowych zajęć edukacyjnych ogólnokształcących uzyskał pozytywne roczne oceny klasyfikacyjne, może być przyjęty do klasy II publicznego liceum ogólnokształcącego.
+3.
+Uczeń klasy II liceum sztuk plastycznych publicznego lub niepublicznego o uprawnieniach publicznej szkoły artystycznej, który nie otrzymał promocji do klasy III z powodu uzyskania negatywnych rocznych ocen klasyfikacyjnych z obowiązkowych zajęć edukacyjnych artystycznych, a który ze wszystkich obowiązkowych zajęć edukacyjnych ogólnokształcących uzyskał pozytywne roczne oceny klasyfikacyjne, może być przyjęty do klasy II albo III publicznego liceum ogólnokształcącego.
+4.
+Uczeń klasy III liceum sztuk plastycznych publicznego lub niepublicznego o uprawnieniach publicznej szkoły artystycznej, który nie otrzymał promocji do klasy IV z powodu uzyskania negatywnych rocznych ocen klasyfikacyjnych z obowiązkowych zajęć edukacyjnych artystycznych, a który ze wszystkich obowiązkowych zajęć edukacyjnych ogólnokształcących uzyskał pozytywne roczne oceny klasyfikacyjne, może być przyjęty do klasy III publicznego liceum ogólnokształcącego.
+5.
+Uczeń klasy IV liceum sztuk plastycznych publicznego lub niepublicznego o uprawnieniach publicznej szkoły artystycznej, który nie otrzymał promocji do klasy V z powodu uzyskania negatywnych rocznych ocen klasyfikacyjnych z obowiązkowych zajęć edukacyjnych artystycznych, a który ze wszystkich obowiązkowych zajęć edukacyjnych ogólnokształcących uzyskał pozytywne roczne oceny klasyfikacyjne, może być przyjęty do klasy III albo IV publicznego liceum ogólnokształcącego.
+§ 7.
+W przypadkach, o których mowa w § 2 ust. 1 pkt 6 lit. a, ust. 2 pkt 7 i § 5 ust. 1, uczeń przechodzący z jednego typu szkoły do innego typu szkoły jest kwalifikowany do odpowiedniej klasy przez dyrektora szkoły, do której przechodzi, na podstawie świadectwa promocyjnego wydanego przez szkołę, z której uczeń przechodzi, a w przypadkach, o których mowa w § 2 ust. 1 pkt 7 lit. a, pkt 8 lit. a, ust. 2 pkt 8 i 10, § 5 ust. 2 i 3 oraz § 6 ust. 3 i 5 – na podstawie świadectw promocyjnych wydanych przez szkołę, z której uczeń przechodzi.
+§ 8.
+1.
+Różnice programowe z obowiązkowych zajęć edukacyjnych realizowanych w oddziale szkoły, do której uczeń przechodzi, są uzupełniane na warunkach ustalonych przez nauczycieli prowadzących obowiązkowe zajęcia edukacyjne w tym oddziale.
+2.
+Jeżeli uczeń w szkole ponadpodstawowej, z której przechodzi, zrealizował obowiązkowe zajęcia edukacyjne:
+1)
+ogólnokształcące w zakresie podstawowym, a w oddziale szkoły, do której przechodzi, zajęcia te są realizowane w zakresie rozszerzonym,
+2)
+z zakresu kształcenia zawodowego w węższym zakresie niż zajęcia te są realizowane w oddziale szkoły, do której przechodzi
+przepis ust. 1 stosuje się odpowiednio.
+3.
+W przypadku ucznia przechodzącego ze szkoły jednego typu do szkoły tego samego typu lub szkoły innego typu, który w szkole, z której przechodzi, nie realizował obowiązkowych zajęć edukacyjnych, które zostały zrealizowane w oddziale szkoły, do której przechodzi, dyrektor szkoły zapewnia uczniowi warunki do zrealizowania treści nauczania z tych zajęć, do końca danego etapu edukacyjnego.
+4.
+Jeżeli z powodu rozkładu zajęć edukacyjnych lub innych ważnych przyczyn nie można zapewnić uczniowi, o którym mowa w ust. 3, warunków do zrealizowania treści nauczania z obowiązkowych zajęć edukacyjnych, które zostały zrealizowane w oddziale szkoły, do której uczeń przechodzi, dla ucznia przeprowadza się egzamin klasyfikacyjny z tych zajęć.
+5.
+W przypadku gdy uczeń w szkole, z której przechodzi, zrealizował obowiązkowe zajęcia edukacyjne i uzyskał pozytywną roczną ocenę klasyfikacyjną, a w oddziale szkoły, do której przechodzi, zajęcia te są lub będą realizowane w tym samym lub w węższym zakresie, uczeń jest zwolniony z obowiązku uczestniczenia w tych zajęciach.
+§ 9.
+1.
+Jeżeli uczeń w szkole, z której przechodzi, uczył się jako przedmiotu obowiązkowego języka obcego nowożytnego innego niż język obcy nowożytny nauczany w oddziale szkoły, do której przechodzi, a rozkład zajęć edukacyjnych uniemożliwia mu uczęszczanie w innym oddziale lub grupie w tej szkole na zajęcia z języka obcego nowożytnego, którego uczył się w szkole, z której przechodzi, uczeń jest obowiązany:
+1)
+uczyć się języka obcego nowożytnego nauczanego w oddziale szkoły, do której przechodzi, wyrównując we własnym zakresie różnice programowe do końca roku szkolnego albo
+2)
+kontynuować we własnym zakresie naukę języka obcego nowożytnego, którego uczył się w szkole, z której przechodzi, albo
+3)
+uczęszczać do oddziału w innej szkole na zajęcia z języka obcego nowożytnego, którego uczył się w szkole, z której przechodzi.
+2.
+Dla ucznia, o którym mowa w ust. 1 pkt 2 i 3, przeprowadza się egzamin klasyfikacyjny zgodnie z art. 44l albo art. 44wa ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2022 r. poz. 2230 oraz z 2023 r. poz. 1234) oraz przepisami wydanymi na podstawie art. 44zb tej ustawy.
+§ 10.
+Uczeń przechodzący w roku szkolnym 2019/2020 z:
+1)
+klasy I-III branżowej szkoły I stopnia publicznej lub niepublicznej, prowadzonej dla absolwentów dotychczasowego gimnazjum, może być przyjęty do:
+a)
+klasy I branżowej szkoły I stopnia publicznej lub niepublicznej, prowadzonej dla absolwentów dotychczasowego gimnazjum, w której jest realizowane kształcenie w zawodzie innym niż zawód, w którym kształci się uczeń, albo
+b)
+klasy I publicznego dotychczasowego trzyletniego liceum ogólnokształcącego, albo
+c)
+klasy I publicznego dotychczasowego czteroletniego technikum;
+2)
+klasy III branżowej szkoły I stopnia publicznej lub niepublicznej, prowadzonej dla absolwentów dotychczasowego gimnazjum, może być przyjęty do klasy II publicznego dotychczasowego czteroletniego technikum, w której jest realizowane kształcenie w zawodzie, w którym zakres pierwszej kwalifikacji wyodrębnionej w tym zawodzie jest wspólny z zakresem kwalifikacji wyodrębnionej w zawodzie nauczanym w branżowej szkole I stopnia;
+3)
+klasy I-III dotychczasowego trzyletniego liceum ogólnokształcącego publicznego lub niepublicznego może być przyjęty do klasy I publicznej branżowej szkoły I stopnia, prowadzonej dla absolwentów dotychczasowego gimnazjum;
+4)
+klasy I-IV dotychczasowego czteroletniego technikum publicznego lub niepublicznego może być przyjęty do:
+a)
+klasy I dotychczasowego czteroletniego technikum publicznego lub niepublicznego, w której jest realizowane kształcenie w zawodzie innym niż zawód, w którym kształci się uczeń, albo
+b)
+klasy I publicznej branżowej szkoły I stopnia, prowadzonej dla absolwentów dotychczasowego gimnazjum;
+5)
+klasy II dotychczasowego czteroletniego technikum publicznego lub niepublicznego może być przyjęty do klasy II publicznej branżowej szkoły I stopnia, prowadzonej dla absolwentów dotychczasowego gimnazjum, w której jest realizowane kształcenie w zawodzie, w którym zakres kwalifikacji wyodrębnionej w tym zawodzie jest wspólny z zakresem pierwszej kwalifikacji wyodrębnionej w zawodzie nauczanym w dotychczasowym czteroletnim technikum;
+6)
+klasy III dotychczasowego czteroletniego technikum publicznego lub niepublicznego może być przyjęty do klasy III publicznej branżowej szkoły I stopnia, prowadzonej dla absolwentów dotychczasowego gimnazjum, w której jest realizowane kształcenie w zawodzie, w którym zakres kwalifikacji wyodrębnionej w tym zawodzie jest wspólny z zakresem pierwszej kwalifikacji wyodrębnionej w zawodzie nauczanym w dotychczasowym czteroletnim technikum;
+7)
+klasy IV dotychczasowego czteroletniego technikum publicznego lub niepublicznego może być przyjęty do klasy III publicznej branżowej szkoły I stopnia, prowadzonej dla absolwentów dotychczasowego gimnazjum, w której jest realizowane kształcenie w zawodzie, w którym zakres kwalifikacji wyodrębnionej w tym zawodzie jest wspólny z zakresem pierwszej kwalifikacji wyodrębnionej w zawodzie nauczanym w dotychczasowym czteroletnim technikum.
+§ 11.
+Uczeń przechodzący w roku szkolnym 2020/2021 z:
+1)
+klasy III branżowej szkoły I stopnia publicznej lub niepublicznej, prowadzonej dla absolwentów dotychczasowego gimnazjum, może być przyjęty do:
+a)
+klasy I branżowej szkoły I stopnia publicznej lub niepublicznej, w której jest realizowane kształcenie w zawodzie innym niż zawód, w którym kształci się uczeń, albo
+b)
+klasy II publicznego dotychczasowego czteroletniego technikum, w której jest realizowane kształcenie w zawodzie, w którym zakres pierwszej kwalifikacji wyodrębnionej w tym zawodzie jest wspólny z zakresem kwalifikacji wyodrębnionej w zawodzie nauczanym w branżowej szkole I stopnia;
+2)
+klasy II albo III dotychczasowego trzyletniego liceum ogólnokształcącego publicznego lub niepublicznego może być przyjęty do:
+a)
+klasy I publicznego technikum albo
+b)
+klasy I publicznej branżowej szkoły I stopnia;
+3)
+klasy II dotychczasowego czteroletniego technikum publicznego lub niepublicznego może być przyjęty do:
+a)
+klasy I technikum, w której jest realizowane kształcenie w zawodzie innym niż zawód, w którym kształci się uczeń, albo
+b)
+klasy I publicznego liceum ogólnokształcącego, albo
+c)
+klasy I publicznej branżowej szkoły I stopnia, albo
+d)
+klasy II publicznej branżowej szkoły I stopnia, prowadzonej dla absolwentów dotychczasowego gimnazjum, w której jest realizowane kształcenie w zawodzie, w którym zakres kwalifikacji wyodrębnionej w tym zawodzie jest wspólny z zakresem pierwszej kwalifikacji wyodrębnionej w zawodzie nauczanym w dotychczasowym czteroletnim technikum;
+4)
+klasy III dotychczasowego czteroletniego technikum publicznego lub niepublicznego może być przyjęty do:
+a)
+klasy I technikum, w której jest realizowane kształcenie w zawodzie innym niż zawód, w którym kształci się uczeń, albo
+b)
+klasy I publicznej branżowej szkoły I stopnia, albo
+c)
+klasy III publicznej branżowej szkoły I stopnia, prowadzonej dla absolwentów dotychczasowego gimnazjum, w której jest realizowane kształcenie w zawodzie, w którym zakres kwalifikacji wyodrębnionej w tym zawodzie jest wspólny z zakresem pierwszej kwalifikacji wyodrębnionej w zawodzie nauczanym w dotychczasowym czteroletnim technikum;
+5)
+klasy IV dotychczasowego czteroletniego technikum publicznego lub niepublicznego może być przyjęty do:
+a)
+klasy I technikum, w której jest realizowane kształcenie w zawodzie innym niż zawód, w którym kształci się uczeń, albo
+b)
+klasy I publicznej branżowej szkoły I stopnia, albo
+c)
+klasy III publicznej branżowej szkoły I stopnia, prowadzonej dla absolwentów dotychczasowego gimnazjum, w której jest realizowane kształcenie w zawodzie, w którym zakres kwalifikacji wyodrębnionej w tym zawodzie jest wspólny z zakresem pierwszej kwalifikacji wyodrębnionej w zawodzie nauczanym w dotychczasowym czteroletnim technikum, albo
+d)
+klasy I publicznej branżowej szkoły II stopnia, prowadzonej dla absolwentów branżowej szkoły I stopnia, którzy ukończyli dotychczasowe gimnazjum, w której jest realizowane kształcenie w zawodzie, w którym zakres drugiej kwalifikacji wyodrębnionej w tym zawodzie jest wspólny z zakresem drugiej kwalifikacji wyodrębnionej w zawodzie nauczanym w dotychczasowym czteroletnim technikum.
+§ 12.
+Uczeń przechodzący w roku szkolnym 2021/2022 z:
+1)
+klasy III dotychczasowego trzyletniego liceum ogólnokształcącego publicznego lub niepublicznego może być przyjęty do:
+a)
+klasy I publicznego technikum albo
+b)
+klasy I publicznej branżowej szkoły I stopnia;
+2)
+klasy III dotychczasowego czteroletniego technikum publicznego lub niepublicznego może być przyjęty do:
+a)
+klasy I technikum, w której jest realizowane kształcenie w zawodzie innym niż zawód, w którym kształci się uczeń, albo
+b)
+klasy I publicznej branżowej szkoły I stopnia, albo
+c)
+klasy III publicznej branżowej szkoły I stopnia, prowadzonej dla absolwentów dotychczasowego gimnazjum, w której jest realizowane kształcenie w zawodzie, w którym zakres kwalifikacji wyodrębnionej w tym zawodzie jest wspólny z zakresem pierwszej kwalifikacji wyodrębnionej w zawodzie nauczanym w dotychczasowym czteroletnim technikum;
+3)
+klasy IV dotychczasowego czteroletniego technikum publicznego lub niepublicznego może być przyjęty do:
+a)
+klasy I technikum, w której jest realizowane kształcenie w zawodzie innym niż zawód, w którym kształci się uczeń, albo
+b)
+klasy I publicznej branżowej szkoły I stopnia, albo
+c)
+klasy III publicznej branżowej szkoły I stopnia, prowadzonej dla absolwentów dotychczasowego gimnazjum, w której jest realizowane kształcenie w zawodzie, w którym zakres kwalifikacji wyodrębnionej w tym zawodzie jest wspólny z zakresem pierwszej kwalifikacji wyodrębnionej w zawodzie nauczanym w dotychczasowym czteroletnim technikum, albo
+d)
+klasy I publicznej branżowej szkoły II stopnia, prowadzonej dla absolwentów branżowej szkoły I stopnia, którzy ukończyli dotychczasowe gimnazjum, w której jest realizowane kształcenie w zawodzie, w którym zakres drugiej kwalifikacji wyodrębnionej w tym zawodzie jest wspólny z zakresem drugiej kwalifikacji wyodrębnionej w zawodzie nauczanym w dotychczasowym czteroletnim technikum.
+§ 13.
+Uczeń przechodzący w roku szkolnym 2022/2023 z klasy IV dotychczasowego czteroletniego technikum publicznego lub niepublicznego może być przyjęty do:
+1)
+klasy I technikum, w której jest realizowane kształcenie w zawodzie innym niż zawód, w którym kształci się uczeń, albo
+2)
+klasy I publicznej branżowej szkoły I stopnia, albo
+3)
+klasy III publicznej branżowej szkoły I stopnia, w której jest realizowane kształcenie w zawodzie, w którym zakres kwalifikacji wyodrębnionej w tym zawodzie jest wspólny z zakresem pierwszej kwalifikacji wyodrębnionej w zawodzie nauczanym w dotychczasowym czteroletnim technikum, albo
+4)
+klasy I publicznej branżowej szkoły II stopnia, w której jest realizowane kształcenie w zawodzie, w którym zakres drugiej kwalifikacji wyodrębnionej w tym zawodzie jest wspólny z zakresem drugiej kwalifikacji wyodrębnionej w zawodzie nauczanym w dotychczasowym czteroletnim technikum, albo
+5)
+klasy III albo IV publicznego liceum ogólnokształcącego.
+§ 13a.
+1.
+Uczeń przechodzący w roku szkolnym 2022/2023 z:
+1)
+klasy II dotychczasowej ogólnokształcącej szkoły muzycznej II stopnia o sześcioletnim cyklu kształcenia, która jest prowadzona w ogólnokształcącej szkole muzycznej II stopnia publicznej lub niepublicznej o uprawnieniach publicznej szkoły artystycznej, może być przyjęty do klasy VIII publicznej szkoły podstawowej;
+2)
+klasy III-VI dotychczasowej ogólnokształcącej szkoły muzycznej II stopnia o sześcioletnim cyklu kształcenia, która jest prowadzona w ogólnokształcącej szkole muzycznej II stopnia publicznej lub niepublicznej o uprawnieniach publicznej szkoły artystycznej, może być przyjęty odpowiednio do klasy I-IV publicznego liceum ogólnokształcącego.
+2.
+Uczeń przechodzący w roku szkolnym 2023/2024 z klasy III-VI dotychczasowej ogólnokształcącej szkoły muzycznej II stopnia o sześcioletnim cyklu kształcenia, która jest prowadzona w ogólnokształcącej szkole muzycznej II stopnia publicznej lub niepublicznej o uprawnieniach publicznej szkoły artystycznej, może być przyjęty odpowiednio do klasy I-IV publicznego liceum ogólnokształcącego.
+3.
+Uczeń przechodzący w roku szkolnym 2024/2025 z klasy IV-VI dotychczasowej ogólnokształcącej szkoły muzycznej II stopnia o sześcioletnim cyklu kształcenia, która jest prowadzona w ogólnokształcącej szkole muzycznej II stopnia publicznej lub niepublicznej o uprawnieniach publicznej szkoły artystycznej, może być przyjęty odpowiednio do klasy II-IV publicznego liceum ogólnokształcącego.
+4.
+Uczeń przechodzący w roku szkolnym 2025/2026 z klasy V i VI dotychczasowej ogólnokształcącej szkoły muzycznej II stopnia o sześcioletnim cyklu kształcenia, która jest prowadzona w ogólnokształcącej szkole muzycznej II stopnia publicznej lub niepublicznej o uprawnieniach publicznej szkoły artystycznej, może być przyjęty odpowiednio do klasy III lub IV publicznego liceum ogólnokształcącego.
+5.
+Uczeń przechodzący w roku szkolnym 2026/2027 z klasy VI dotychczasowej ogólnokształcącej szkoły muzycznej II stopnia o sześcioletnim cyklu kształcenia, która jest prowadzona w ogólnokształcącej szkole muzycznej II stopnia publicznej lub niepublicznej o uprawnieniach publicznej szkoły artystycznej, może być przyjęty do klasy IV publicznego liceum ogólnokształcącego.
+§ 14.
+W przypadkach, o których mowa w § 10–13a, stosuje się odpowiednio przepisy § 3, § 4 i § 8.
+§ 15.
+Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.
+1) Obecnie działem administracji rządowej – oświata i wychowanie kieruje Minister Edukacji i Nauki, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18 i 1842). 2) Przez § 1 pkt 1 lit. a rozporządzenia Ministra Edukacji i Nauki z dnia 24 sierpnia 2022 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków przechodzenia ucznia ze szkoły publicznej, publicznej szkoły artystycznej, szkoły niepublicznej lub niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej, do szkoły publicznej innego typu albo szkoły publicznej tego samego typu (Dz. U. poz. 1805), które weszło w życie z dniem 1 września 2022 r. 3) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 5) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 6) Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 7) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 8 sierpnia 2017 r. w sprawie szczegółowych warunków przechodzenia ucznia ze szkoły publicznej lub szkoły niepublicznej o uprawnieniach szkoły publicznej jednego typu do szkoły publicznej innego typu albo do szkoły publicznej tego samego typu (Dz. U. poz. 1546), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 169 ust. 1 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534 i 1287).
 

@@ -2,15 +2,10 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 14 marca 2003 r. o referendum ogólnokrajowym*
 
-Łącznie: **32** orzeczeń
+Łącznie: **28** orzeczeń
 
-## art. 2 (1)
+## art. 3 (1)
 
-- 2011-07-20 | TK | [K 9/11](https://www.saos.org.pl/judgments/206301) | Wyrok ★
-
-## art. 3 (2)
-
-- 2011-07-20 | TK | [K 9/11](https://www.saos.org.pl/judgments/206301) | Wyrok ★
 - 2003-07-07 | SN | [III SW 133/03](https://www.saos.org.pl/judgments/82110) | Uchwała ★
 
 ## art. 4 (2)
@@ -22,18 +17,13 @@ Orzeczenia powołujące: *Ustawa z dnia 14 marca 2003 r. o referendum ogólnokra
 
 - 2003-07-04 | SN | [III SW 124/03](https://www.saos.org.pl/judgments/82104) | Uchwała ★
 
-## art. 6 (2)
+## art. 6 (1)
 
 - 2003-07-04 | SN | [III SW 124/03](https://www.saos.org.pl/judgments/82104) | Uchwała ★
-- 2010-07-20 | SN | [III SW 321/10](https://www.saos.org.pl/judgments/92704) | Postanowienie
 
 ## art. 9 (1)
 
 - 2003-07-04 | SN | [III SW 124/03](https://www.saos.org.pl/judgments/82104) | Uchwała ★
-
-## art. 10 (1)
-
-- 2011-07-20 | TK | [K 9/11](https://www.saos.org.pl/judgments/206301) | Wyrok ★
 
 ## art. 13 (1)
 
@@ -51,7 +41,7 @@ Orzeczenia powołujące: *Ustawa z dnia 14 marca 2003 r. o referendum ogólnokra
 
 - 2003-05-27 | TK | [K 11/03](https://www.saos.org.pl/judgments/106323) | Wyrok ★
 
-## art. 33 (10)
+## art. 33 (9)
 
 - 2003-07-10 | SN | [III SW 56/03](https://www.saos.org.pl/judgments/82111) | Uchwała ★
 - 2003-07-07 | SN | [III SW 133/03](https://www.saos.org.pl/judgments/82110) | Uchwała ★
@@ -62,7 +52,6 @@ Orzeczenia powołujące: *Ustawa z dnia 14 marca 2003 r. o referendum ogólnokra
 - 2004-05-18 | TK | [Ts 178/03](https://www.saos.org.pl/judgments/107045) | Postanowienie ★
 - 2004-01-12 | TK | [Ts 182/03](https://www.saos.org.pl/judgments/107048) | Postanowienie ★
 - 2004-01-05 | TK | [Ts 178/03](https://www.saos.org.pl/judgments/107043) | Postanowienie ★
-- 2015-10-08 | SN | [III SW 85/15](https://www.saos.org.pl/judgments/243479) | Postanowienie
 
 ## art. 34 (8)
 
@@ -79,10 +68,6 @@ Orzeczenia powołujące: *Ustawa z dnia 14 marca 2003 r. o referendum ogólnokra
 
 - 2004-05-18 | TK | [Ts 178/03](https://www.saos.org.pl/judgments/107045) | Postanowienie ★
 - 2004-01-05 | TK | [Ts 178/03](https://www.saos.org.pl/judgments/107043) | Postanowienie ★
-
-## art. 38 (1)
-
-- 2009-10-28 | TK | [Kp 3/09](https://www.saos.org.pl/judgments/109001) | Wyrok ★
 
 ## art. 40 (1)
 
@@ -115,14 +100,9 @@ Orzeczenia powołujące: *Ustawa z dnia 14 marca 2003 r. o referendum ogólnokra
 
 - 2003-05-27 | TK | [K 11/03](https://www.saos.org.pl/judgments/106323) | Wyrok ★
 
-## art. 84 (2)
+## art. 84 (1)
 
-- 2009-10-28 | TK | [Kp 3/09](https://www.saos.org.pl/judgments/109001) | Wyrok ★
 - 2003-07-01 | SN | [III SW 57/03](https://www.saos.org.pl/judgments/82105) | Uchwała ★
-
-## art. 85 (1)
-
-- 2009-10-28 | TK | [Kp 3/09](https://www.saos.org.pl/judgments/109001) | Wyrok ★
 
 ## art. 92 (1)
 

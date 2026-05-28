@@ -8,12 +8,10 @@ pos: 425
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o Inspekcji Ochrony Środowiska
-
-*USTAWA z dnia 20 lipca 1991 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 11 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Inspekcji Ochrony Środowiska
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,234 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-01-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000425) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/425/text.pdf) |
 
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska Rozdział 1 – Przepisy ogólne Rozdział 2 – Organy Inspekcji Ochrony Środowiska Rozdział 2a – Pracownicy Inspekcji Ochrony Środowiska Rozdział 3 – Wykonywanie zadań kontrolnych przez Inspekcję Ochrony Środowiska Rozdział 4 – Państwowy monitoring środowiska Rozdział 4a Rozdział 4b – Laboratoria Rozdział 4c – System informatyczny Inspekcji Ochrony Środowiska „Ekoinfonet” Rozdział 5 – Wykonywanie zadań w zakresie poważnych awarii Rozdział 5a – Przepisy karne i przepisy o karach pieniężnych Rozdział 6 – Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2023 r. poz. 824), z uwzględnieniem zmian wprowadzonych:
+1)
+ustawą z dnia 14 kwietnia 2023 r. o zmianie ustawy o służbie cywilnej oraz niektórych innych ustaw (Dz. U. poz. 1195),
+2)
+ustawą z dnia 16 czerwca 2023 r. o wielkoobszarowych terenach zdegradowanych (Dz. U. poz. 1719)
+oraz zmian wynikających z przepisów ogłoszonych przed dniem 27 lutego 2024 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia jednolity tekst ustawy nie obejmuje:
+1)
+art. 15 ustawy z dnia 14 kwietnia 2023 r. o zmianie ustawy o służbie cywilnej oraz niektórych innych ustaw (Dz. U. poz. 1195), który stanowi:
+„
+1.
+Pracownikami Inspekcji Ochrony Środowiska są pracownicy zatrudnieni w Głównym Inspektoracie Ochrony Środowiska i wojewódzkich inspektoratach ochrony środowiska.
+2.
+Do pracowników Inspekcji Ochrony Środowiska zatrudnionych na:
+1)
+stanowiskach urzędniczych, z wyłączeniem osób zatrudnionych na stanowisku inspektora Inspekcji Ochrony Środowiska – stosuje się przepisy ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2022 r. poz. 1691 oraz z 2023 r. poz. 1195 i 1598);
+2)
+stanowisku inspektora Inspekcji Ochrony Środowiska – stosuje się przepisy ustawy, o której mowa w pkt 1, z wyłączeniem art. 4.
+3.
+(uchylony)
+4.
+Do pracowników innych niż wymienieni w ust. 2 stosuje się przepisy ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2023 r. poz. 1917).
+1.
+Inspektorem Inspekcji Ochrony Środowiska może być pracownik Inspekcji Ochrony Środowiska, który:
+1)
+jest obywatelem polskim;
+2)
+ma pełną zdolność do czynności prawnych;
+3)
+korzysta z pełni praw publicznych;
+4)
+nie był skazany prawomocnym wyrokiem sądu za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+5)
+posiada wyższe wykształcenie;
+6)
+posiada stan zdrowia pozwalający na zatrudnienie na stanowisku inspektora Inspekcji Ochrony Środowiska;
+7)
+odbył półroczny kurs przygotowujący do wykonywania pracy na stanowisku inspektora Inspekcji Ochrony Środowiska i zdał egzamin końcowy.
+2.
+Główny Inspektor Ochrony Środowiska zwalnia z obowiązku odbywania kursu oraz egzaminu końcowego, o których mowa w ust. 1 pkt 7, pracownika Głównego Inspektoratu Ochrony Środowiska lub wojewódzkiego inspektoratu ochrony środowiska, posiadającego wiedzę i doświadczenie zawodowe umożliwiające należyte wykonywanie obowiązków służbowych.
+3.
+Minister właściwy do spraw klimatu określi, w drodze rozporządzenia, zakres i sposób przeprowadzenia kursu, o którym mowa w ust. 1 pkt 7, oraz warunki zdania egzaminu końcowego, kierując się potrzebą należytego przygotowania inspektorów Inspekcji Ochrony Środowiska do wykonywania kontroli.
+1.
+(uchylony)
+2.
+(uchylony)
+3.
+(uchylony)
+4.
+Pracownik Inspekcji Ochrony Środowiska zatrudniony na stanowisku inspektora Inspekcji Ochrony Środowiska, wykonujący pracę w systemie określonym w:
+1)
+art. 97 ust. 1 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej nie może wykonywać pracy na więcej niż dziesięciu zmianach w porze nocnej w miesiącu kalendarzowym,
+2)
+art. 97 ust. 2 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej nie może wykonywać pracy na więcej niż ośmiu zmianach w porze nocnej w miesiącu kalendarzowym
+chyba że jest to uzasadnione szczególnymi potrzebami pracodawcy lub tym, że nieobecność tego pracownika mogłaby spowodować poważne zakłócenie organizacji pracy u pracodawcy.
+5.
+Praca w godzinach nadliczbowych pracownika jest dopuszczalna ze względu na:
+1)
+konieczność współudziału w zwalczaniu poważnej awarii lub innych zdarzeń nadzwyczajnych w zakresie ochrony środowiska;
+2)
+konieczność wykonania rozpoczętych czynności kontrolnych, jeżeli nie mogą one zostać przerwane;
+3)
+szczególne potrzeby pracodawcy.
+6.
+Praca w godzinach nadliczbowych pracownika następuje na polecenie pracodawcy.
+7.
+W zamian za czas pracy w godzinach nadliczbowych pracownikowi udziela się czasu wolnego od pracy w wymiarze o połowę wyższym albo może mu być przyznane wynagrodzenie wraz z dodatkiem za pracę w godzinach nadliczbowych w wysokości 50 % wynagrodzenia. Udzielenie pracownikowi czasu wolnego nie może spowodować obniżenia wynagrodzenia należnego pracownikowi za pełny miesięczny wymiar czasu pracy.
+8.
+O przyznaniu czasu wolnego od pracy albo dodatku, o których mowa w ust. 7, decyduje:
+1)
+dyrektor generalny – w przypadku pracowników zatrudnionych w Głównym Inspektoracie Ochrony Środowiska;
+2)
+wojewódzki inspektor ochrony środowiska – w przypadku pracowników zatrudnionych w wojewódzkim inspektoracie ochrony środowiska.
+9.
+Liczba godzin nadliczbowych, za które przyznano wynagrodzenie, nie może przekraczać:
+1)
+7 godzin w przyjętym miesięcznym okresie rozliczeniowym;
+2)
+14 godzin w przyjętym dwumiesięcznym okresie rozliczeniowym;
+3)
+21 godzin w przyjętym trzymiesięcznym okresie rozliczeniowym.
+10.
+Praca w niedzielę lub święto w godzinach nadliczbowych oraz w porze nocnej nie może być wykonywana przez:
+1)
+pracownika będącego jedynym opiekunem dziecka do 8 lat lub osoby wymagającej stałej opieki,
+2)
+pracownika opiekującego się dzieckiem do 8 lat, jeżeli z uprawnienia do opieki nie korzysta drugie z rodziców lub opiekun,
+3)
+pracownicę karmiącą dziecko piersią
+bez ich zgody.
+Inspektorom Inspekcji Ochrony Środowiska wykonującym czynności kontrolne przysługuje miesięczny dodatek inspekcyjny do wynagrodzenia w wysokości do 100 % tego wynagrodzenia.
+Pracownicy Inspekcji Ochrony Środowiska podczas pełnienia obowiązków służbowych i w związku z pełnieniem tych obowiązków korzystają z ochrony przewidzianej w Kodeksie karnym dla funkcjonariuszy publicznych.
+(uchylony)
+1.
+W Głównym Inspektoracie Ochrony Środowiska działa centralne laboratorium badawcze.
+2.
+Centralne laboratorium badawcze prowadzi działalność laboratoryjną, o której mowa w art. 2 ust. 1 pkt 2a, oraz może wykonywać inne badania z zakresu ochrony środowiska.
+3.
+Do wykonywania badań, w tym pobierania próbek, wykonywania pomiarów i analiz na potrzeby działań kontrolnych centralne laboratorium badawcze obowiązane jest posiadać akredytację w rozumieniu ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2023 r. poz. 215).
+4.
+W zakresie, w jakim centralne laboratorium badawcze nie posiada akredytacji, Główny Inspektor Ochrony Środowiska może zawrzeć umowę o wykonanie badań, w tym pobranie próbek, wykonywanie pomiarów i analiz z inną jednostką posiadającą akredytację w rozumieniu ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności.
+5.
+Główny Inspektorat Ochrony Środowiska może pozyskiwać środki finansowe z tytułu sprzedaży usług centralnego laboratorium badawczego oraz krajowych laboratoriów referencyjnych.
+6.
+Środki, o których mowa w ust. 5, stanowią dochód budżetu państwa i są wpłacane na rachunek bieżący dochodów Głównego Inspektoratu Ochrony Środowiska.
+7.
+Centralne laboratorium badawcze wykonuje nieodpłatnie badania i analizy na potrzeby kontroli prowadzonych przez wojewódzkich inspektorów ochrony środowiska.
+8.
+Główny Inspektor Ochrony Środowiska zawiera z wojewódzkim inspektorem ochrony środowiska porozumienie w sprawie zakresu i sposobu realizacji przez centralne laboratorium badawcze badań, w tym pobierania próbek, wykonywania pomiarów i analiz na potrzeby działań kontrolnych.
+1.
+W Głównym Inspektoracie Ochrony Środowiska działają krajowe laboratorium referencyjne do spraw jakości powietrza atmosferycznego oraz krajowe laboratorium referencyjne do spraw jakości wód powierzchniowych.
+2.
+W Głównym Inspektoracie Ochrony Środowiska mogą być tworzone krajowe laboratoria referencyjne do spraw jakości pomiarów:
+1)
+hałasu;
+2)
+pól elektromagnetycznych;
+3)
+emisji zanieczyszczeń do wód i powietrza.
+3.
+Do zadań krajowego laboratorium referencyjnego do spraw jakości powietrza atmosferycznego należy zapewnienie nadzoru nad jakością badań powietrza atmosferycznego wykonywanych w ramach programów państwowego monitoringu środowiska poprzez:
+1)
+organizowanie i wykonywanie porównań międzylaboratoryjnych i badań biegłości;
+2)
+dokonywanie przeglądów systemów zapewnienia i kontroli jakości w instytucjach obsługujących sieci pomiarowe i poszczególne punkty pomiarowe co najmniej raz na pięć lat;
+3)
+koordynację właściwego stosowania metodyk referencyjnych i wykazywania równoważności metodyk niereferencyjnych;
+4)
+wdrażanie nowych metod badawczych;
+5)
+uczestniczenie, przynajmniej raz na trzy lata, w programach zapewnienia jakości badań organizowanych przez Komisję Europejską.
+4.
+Zapewnienie nadzoru, o którym mowa w ust. 3, w odniesieniu do badań wykonywanych przez centralne laboratorium badawcze polega również na:
+1)
+ujednolicaniu metod i procedur badawczych;
+2)
+szkoleniu pracowników centralnego laboratorium badawczego w zakresie nowych metod badawczych;
+3)
+koordynacji na terenie kraju udziału w programach zapewnienia jakości badań organizowanych przez Komisję Europejską;
+4)
+wspieraniu prac prowadzonych przez europejską sieć krajowych laboratoriów referencyjnych ustanowioną przez Komisję Europejską.
+5.
+Do zadań krajowego laboratorium referencyjnego do spraw jakości wód powierzchniowych należy zapewnienie nadzoru nad jakością badań i analiz w zakresie wód powierzchniowych wykonywanych przez centralne laboratorium badawcze oraz inne podmioty prowadzące badania monitoringowe, w szczególności przez:
+1)
+prowadzenie badań i oznaczeń próbek biologicznych, wody i osadów;
+2)
+tworzenie, weryfikację i aktualizację przewodników i wytycznych do wykonania badań biologicznych;
+3)
+udział w opracowaniu, testowanie oraz wsparcie we wdrażaniu i użytkowaniu systemów zarządzania laboratorium;
+4)
+organizowanie porównań międzylaboratoryjnych i badań biegłości;
+5)
+udział w międzynarodowych programach zapewnienia jakości;
+6)
+ujednolicanie metod i procedur badawczych;
+7)
+wdrażanie nowych metod badawczych;
+8)
+szkolenie pracowników centralnego laboratorium badawczego w zakresie nowych metod badawczych;
+9)
+współpracę z laboratoriami referencyjnymi państw członkowskich Unii Europejskiej;
+10)
+gromadzenie i rozpowszechnianie informacji dotyczących metod badawczych stosowanych przez laboratoria referencyjne państw członkowskich Unii Europejskiej.
+1.
+Tworzy się system informatyczny Inspekcji Ochrony Środowiska „Ekoinfonet”, zwany dalej „Ekoinfonetem”, za pomocą którego są zbierane, przechowywane, przetwarzane i udostępniane dane dotyczące przestrzegania przepisów o ochronie środowiska oraz badania i oceny stanu środowiska, uzyskiwane w trakcie realizacji zadań, o których mowa w art. 2 ust. 1.
+2.
+Ekoinfonet obejmuje dane, o których mowa w ust. 1, przekazywane przez:
+1)
+Głównego Inspektora Ochrony Środowiska;
+2)
+wojewódzkich inspektorów ochrony środowiska.
+3.
+Główny Inspektor Ochrony Środowiska:
+1)
+organizuje szkolenia specjalistyczne w zakresie obsługi Ekoinfonetu;
+2)
+zapewnia sprzęt informatyczny i oprogramowanie do obsługi Ekoinfonetu.
+4.
+Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia, zakres, sposób oraz tryb zbierania i udostępniania danych, o którym mowa w ust. 1, kierując się koniecznością uzyskania danych niezbędnych do oceny przestrzegania przepisów ochrony środowiska oraz badania i oceny stanu środowiska, a także sporządzania sprawozdań w tym zakresie.
+1.
+Integralną częścią Ekoinfonetu jest Krajowe Repozytorium Danych o Stanie i Ochronie Środowiska, zwane dalej „Krajowym Repozytorium”, w którym są gromadzone i archiwizowane dane, o których mowa w art. 28h ust. 1.
+2.
+Krajowe Repozytorium jest prowadzone przez Głównego Inspektora Ochrony Środowiska.
+3.
+Dane z Krajowego Repozytorium stanowią materiały archiwalne w rozumieniu ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164).
+Korzystający z danych z Ekoinfonetu lub je przetwarzający jest obowiązany podać w wytwarzanych informacjach, że dane te pochodzą z Ekoinfonetu.
+1.
+Kto:
+1)
+w wyznaczonym terminie nie informuje organu Inspekcji Ochrony Środowiska o zakresie wykonania zarządzeń pokontrolnych albo o przeprowadzeniu postępowania służbowego lub innego przewidzianego prawem postępowania przeciw osobom winnym dopuszczenia do uchybień,
+2)
+niezgodnie z prawdą informuje organ Inspekcji Ochrony Środowiska o wykonaniu zarządzeń pokontrolnych lub przeprowadzeniu postępowania służbowego lub innego przewidzianego prawem,
+3)
+korzystając z danych z Ekoinfonetu lub je przetwarzając nie podaje w wytwarzanych informacjach, że dane te pochodzą z Ekoinfonetu,
+podlega karze aresztu, ograniczenia wolności lub grzywny.
+2.
+Postępowanie w sprawach, o których mowa w ust. 1, prowadzi się na podstawie przepisów Kodeksu postępowania w sprawach o wykroczenia.
+Kto, będąc do tego obowiązany na podstawie art. 23 ust. 16, nie gromadzi lub nie przetwarza danych lub informacji lub nie udostępnia ich nieodpłatnie na potrzeby państwowego monitoringu środowiska
+– podlega karze grzywny.
+1.
+Kto:
+1)
+uniemożliwia organowi Inspekcji Ochrony Środowiska przeprowadzanie kontroli albo
+2)
+utrudnia organowi Inspekcji Ochrony Środowiska przeprowadzanie kontroli
+podlega karze pieniężnej w wysokości od 10 000 zł do 100 000 zł.
+2.
+Kary pieniężne, o których mowa w ust. 1, wymierza, w drodze decyzji, właściwy organ Inspekcji Ochrony Środowiska.
+3.
+Decyzji, o której mowa w ust. 2, organ Inspekcji Ochrony Środowiska może nadać rygor natychmiastowej wykonalności.
+4.
+Kary pieniężne stanowią dochód budżetu państwa i są wpłacane odpowiednio na rachunek bankowy wojewódzkiego inspektoratu ochrony środowiska albo Głównego Inspektoratu Ochrony Środowiska.
+5.
+Do kar pieniężnych, o których mowa w ust. 1, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760), z tym że uprawnienia organów podatkowych przysługują odpowiednio wojewódzkiemu inspektorowi ochrony środowiska albo Głównemu Inspektorowi Ochrony Środowiska.
+
+**Art. 15.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1 pkt 2, 19 i 21, art. 2, art. 7, art. 9 ust. 2 i art. 10–12, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 1 pkt 1, 3, 7–17 i 20, art. 8 i art. 9 ust. 1, które wchodzą w życie po upływie 7 dni od dnia ogłoszenia komunikatu ogłoszonego na podstawie art. 14. ” ;
+- **2)** art. 27 ustawy z dnia 16 czerwca 2023 r. o wielkoobszarowych terenach zdegradowanych (Dz. U. poz. 1719), który stanowi: „
+
+**Art. 27.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska
+
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Inspekcja Ochrony Środowiska jest powołana do kontroli przestrzegania przepisów o ochronie środowiska oraz badania i oceny stanu środowiska.
@@ -35,51 +261,50 @@ source: "isap-pdf"
 
 1. Do zadań Inspekcji Ochrony Środowiska należy:
 
-- **1)** kontrola podmiotów korzystających ze środowiska w rozumieniu ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54) w zakresie: o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2022 r. poz. 546), w zakresie wymagań określonych w zezwoleniach na prowadzenie zakładu inżynierii genetycznej albo w zgodach na zamierzone uwolnienie organizmów genetycznie zmodyfikowanych do środowiska w zakresie postępowania z odpadami, w tym powstającymi podczas zamkniętego użycia organizmów genetycznie zmodyfikowanych oraz po zakończeniu zamierzonego uwolnienia organizmów genetycznie zmodyfikowanych do środowiska,
-    - **a)** przestrzegania przepisów o ochronie środowiska,
-    - **b)** przestrzegania decyzji ustalających warunki korzystania ze środowiska oraz przestrzegania zakresu, częstotliwości i sposobu prowadzenia pomiarów wielkości emisji i jej wpływu na stan środowiska,
-    - **c)** przestrzegania przepisów dotyczących zawartości siarki w ciężkim oleju opałowym stosowanym w instalacjach energetycznego spalania paliw oraz w oleju do silników statków żeglugi śródlądowej,
-    - **d)** eksploatacji instalacji i urządzeń chroniących środowisko przed zanieczyszczeniem,
-    - **e)** przestrzegania przepisów o gospodarce opakowaniami oraz odpadami opakowaniowymi,
-    - **f)** przestrzegania przepisów o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej,
-    - **g)** postępowania z substancjami zubożającymi warstwę ozonową oraz z fluorowanymi gazami cieplarnianymi i pozostałymi fluorowanymi gazami cieplarnianymi, o których mowa w ustawie z dnia 15 maja 2015 r. o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych (Dz. U. z 2020 r. poz. 2065), oraz z produktami i urządzeniami zawierającymi te substancje lub gazy lub od nich uzależnionymi, z wyłączeniem systemów ochrony przeciwpożarowej i gaśnic zawierających te substancje lub gazy,
-    - **h)** przestrzegania przepisów ustawy z dnia 22 czerwca 2001 r.
-    - **i)** przestrzegania przepisów o recyklingu pojazdów wycofanych z eksploatacji,
-    - **j)** przestrzegania przepisów o zużytym sprzęcie elektrycznym i elektronicznym, z wyjątkiem przepisów art. 37 i art. 39 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. z 2022 r. poz. 1622 oraz z 2023 r. poz. 1852),
-    - **k)** przestrzegania przepisów o bateriach i akumulatorach, z wyjątkiem przestrzegania przez sprzedawców detalicznych i sprzedawców hurtowych przepisów art. 8, art. 9, art. 10 ust. 1, art. 11, art. 31 ust. 3, art. 48–50, art. 53 oraz art. 54 ust. 1 i 2 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach (Dz. U. z 2022 r. poz. 1113 oraz z 2023 r. poz. 1852),
-    - **l)** przestrzegania przepisów ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587, 1597, 1688, 1852 i 2029);
+- **1)** kontrola podmiotów korzystających ze środowiska w rozumieniu ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54) w zakresie: przestrzegania przepisów o ochronie środowiska, przestrzegania decyzji ustalających warunki korzystania ze środowiska oraz przestrzegania zakresu, częstotliwości i sposobu prowadzenia pomiarów wielkości emisji i jej wpływu na stan środowiska, przestrzegania przepisów dotyczących zawartości siarki w ciężkim oleju opałowym stosowanym w instalacjach energetycznego spalania paliw oraz w oleju do silników statków żeglugi śródlądowej, eksploatacji instalacji i urządzeń chroniących środowisko przed zanieczyszczeniem, przestrzegania przepisów o gospodarce opakowaniami oraz odpadami opakowaniowymi, przestrzegania przepisów o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej, postępowania z substancjami zubożającymi warstwę ozonową oraz z fluorowanymi gazami cieplarnianymi i pozostałymi fluorowanymi gazami cieplarnianymi, o których mowa w ustawie z dnia 15 maja 2015 r. o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych (Dz. U. z 2020 r. poz. 2065), oraz z produktami i urządzeniami zawierającymi te substancje lub gazy lub od nich uzależnionymi, z wyłączeniem systemów ochrony przeciwpożarowej i gaśnic zawierających te substancje lub gazy, przestrzegania przepisów ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2022 r. poz. 546), w zakresie wymagań określonych w zezwoleniach na prowadzenie zakładu inżynierii genetycznej albo w zgodach na zamierzone uwolnienie organizmów genetycznie zmodyfikowanych do środowiska w zakresie postępowania z odpadami, w tym powstającymi podczas zamkniętego użycia organizmów genetycznie zmodyfikowanych oraz po zakończeniu zamierzonego uwolnienia organizmów genetycznie zmodyfikowanych do środowiska, przestrzegania przepisów o recyklingu pojazdów wycofanych z eksploatacji, przestrzegania przepisów o zużytym sprzęcie elektrycznym i elektronicznym, z wyjątkiem przepisów art. 37 i art. 39 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. z 2022 r. poz. 1622 oraz z 2023 r. poz. 1852), przestrzegania przepisów o bateriach i akumulatorach, z wyjątkiem przestrzegania przez sprzedawców detalicznych i sprzedawców hurtowych przepisów art. 8, art. 9, art. 10 ust. 1, art. 11, art. 31 ust. 3, art. 48–50, art. 53 oraz art. 54 ust. 1 i 2 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach (Dz. U. z 2022 r. poz. 1113 oraz z 2023 r. poz. 1852), przestrzegania przepisów ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587, 1597, 1688, 1852 i 2029);
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
+    - **k)**
+    - **l)**
 
-- **1a)** kontrola przestrzegania przepisów ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2023 r. poz. 1469 i
-- **1852)** ;
-- **2)** prowadzenie państwowego monitoringu środowiska, w szczególności:
-    - **a)** opracowywanie i realizacja wieloletnich strategicznych programów państwowego monitoringu środowiska i wykonawczych programów państwowego monitoringu środowiska,
-    - **b)** gromadzenie informacji o środowisku w zakresie ujętym w programach państwowego monitoringu środowiska,
-    - **c)** przetwarzanie zgromadzonych informacji o środowisku i dokonywanie ocen stanu środowiska,
-    - **d)** opracowywanie raportów o stanie środowiska,
-    - **e)** udział w międzynarodowej wymianie informacji o stanie środowiska, w tym koordynacja współpracy z Europejską Agencją Środowiska, o której mowa w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 401/2009 z dnia 23 kwietnia 2009 r. w sprawie Europejskiej Agencji Środowiska oraz Europejskiej Sieci Informacji i Obserwacji Środowiska (Dz. Urz. UE L 126 z 21.05.2009, str. 13);
+- **1a)** kontrola przestrzegania przepisów ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2023 r. poz. 1469 i 1852);
+- **2)** prowadzenie państwowego monitoringu środowiska, w szczególności: opracowywanie i realizacja wieloletnich strategicznych programów państwowego monitoringu środowiska i wykonawczych programów państwowego monitoringu środowiska, gromadzenie informacji o środowisku w zakresie ujętym w programach państwowego monitoringu środowiska, przetwarzanie zgromadzonych informacji o środowisku i dokonywanie ocen stanu środowiska, opracowywanie raportów o stanie środowiska, udział w międzynarodowej wymianie informacji o stanie środowiska, w tym koordynacja współpracy z Europejską Agencją Środowiska, o której mowa w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 401/2009 z dnia 23 kwietnia 2009 r. w sprawie Europejskiej Agencji Środowiska oraz Europejskiej Sieci Informacji i Obserwacji Środowiska (Dz. Urz. UE L 126 z 21.05.2009, str. 13);
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
-- **2a)** prowadzenie działalności laboratoryjnej polegającej na:
-    - **a)** wykonywaniu badań, w tym pobieraniu próbek, wykonywaniu pomiarów i analiz na potrzeby państwowego monitoringu środowiska oraz działań kontrolnych,
-    - **b)** zapewnieniu nadzoru nad jakością badań, o których mowa w lit. a, zgodnie z normą PN-EN-ISO/IEC 17025 Ogólne wymagania dotyczące kompetencji laboratoriów badawczych i wzorcujących,
-    - **c)** prowadzeniu badań przy użyciu referencyjnych i równoważnych metod pomiarowych,
-    - **d)** organizacji i udziale w porównaniach międzylaboratoryjnych i badaniach biegłości;
+- **2a)** prowadzenie działalności laboratoryjnej polegającej na: wykonywaniu badań, w tym pobieraniu próbek, wykonywaniu pomiarów i analiz na potrzeby państwowego monitoringu środowiska oraz działań kontrolnych, zapewnieniu nadzoru nad jakością badań, o których mowa w lit. a, zgodnie z normą PN-EN-ISO/IEC 17025 Ogólne wymagania dotyczące kompetencji laboratoriów badawczych i wzorcujących, prowadzeniu badań przy użyciu referencyjnych i równoważnych metod pomiarowych, organizacji i udziale w porównaniach międzylaboratoryjnych i badaniach biegłości;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **3)** podejmowanie decyzji wstrzymujących działalność prowadzoną z naruszeniem wymagań związanych z ochroną środowiska lub naruszeniem warunków korzystania ze środowiska;
 - **4)** przeciwdziałanie poważnym awariom oraz sprawowanie nadzoru nad usuwaniem ich skutków;
 - **5)** wykonywanie zadań związanych ze zbieraniem danych do Europejskiego Rejestru Uwalniania i Transferu Zanieczyszczeń oraz prowadzeniem Krajowego Rejestru Uwalniania i Transferu Zanieczyszczeń;
-- **6)** wykonywanie zadań określonych w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2023 r. poz. 1094, z późn. zm. );
+- **6)** wykonywanie zadań określonych w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2023 r. poz. 1094, z późn. zm.);
 - **7)** udział w przekazywaniu do użytkowania obiektów lub instalacji realizowanych jako przedsięwzięcia mogące zawsze znacząco lub potencjalnie znacząco oddziaływać na środowisko;
 - **8)** wykonywanie zadań w zakresie zapobiegania szkodom w środowisku i ich naprawy;
 - **9)** wykonywanie zadań określonych w przepisach o międzynarodowym przemieszczaniu odpadów;
 - **10)** wykonywanie zadań określonych w ustawie z dnia 10 lipca 2008 r. o odpadach wydobywczych (Dz. U. z 2022 r. poz. 2336);
 - **10a)** wykonywanie zadań określonych w przepisach ustawy z dnia 16 czerwca 2023 r. o wielkoobszarowych terenach zdegradowanych (Dz. U. poz. 1719);
 - **11)** kontrola wyrobów wprowadzonych do obrotu lub oddanych do użytku, podlegających ocenie zgodności w zakresie spełniania przez nie zasadniczych lub innych wymagań dotyczących ochrony środowiska;
-- **12)** wykonywanie zadań z zakresu:
-    - **a)** ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U. z 2022 r. poz. 1816),
-    - **b)** rozporządzenia (WE) nr 1907/2006 Parlamentu Europejskiego i Rady z dnia 18 grudnia 2006 r. w sprawie rejestracji, oceny, udzielania zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH) i utworzenia Europejskiej Agencji Chemikaliów, zmieniającego dyrektywę 1999/45/WE oraz uchylającego rozporządzenie Rady (EWG) nr 793/93 i rozporządzenie Komisji (WE) nr 1488/94, jak również dyrektywę Rady 76/769/EWG i dyrektywy Komisji 91/155/EWG, 93/67/EWG, 93/105/WE i 2000/21/WE (Dz. Urz. UE L 396 z 30.12.2006, str. 1, z późn. zm.),
-    - **c)** rozporządzenia (WE) nr 648/2004 Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. w sprawie detergentów (Dz. Urz. UE L 104 z 08.04.2004, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 48, z późn. zm.),
-    - **d)** rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 689/2008 z dnia 17 czerwca 2008 r. dotyczącego wywozu i przywozu niebezpiecznych chemikaliów (Dz. Urz. UE L 204 z 31.07.2008, str. 1, z późn. zm.),
-    - **e)** rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1272/2008 z dnia 16 grudnia 2008 r. w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin, zmieniającego i uchylającego dyrektywy 67/548/EWG i 1999/45/WE oraz zmieniającego rozporządzenie (WE) nr 1907/2006 (Dz. Urz. UE L 353 z 31.12.2008, str. 1, z późn. zm.) – w zakresie zagrożeń dla środowiska;
+- **12)** wykonywanie zadań z zakresu: ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U. z 2022 r. poz. 1816), rozporządzenia (WE) nr 1907/2006 Parlamentu Europejskiego i Rady z dnia 18 grudnia 2006 r. w sprawie rejestracji, oceny, udzielania zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH) i utworzenia Europejskiej Agencji Chemikaliów, zmieniającego dyrektywę 1999/45/WE oraz uchylającego rozporządzenie Rady (EWG) nr 793/93 i rozporządzenie Komisji (WE) nr 1488/94, jak również dyrektywę Rady 76/769/EWG i dyrektywy Komisji 91/155/EWG, 93/67/EWG, 93/105/WE i 2000/21/WE (Dz. Urz. UE L 396 z 30.12.2006, str. 1, z późn. zm.), rozporządzenia (WE) nr 648/2004 Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. w sprawie detergentów (Dz. Urz. UE L 104 z 08.04.2004, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 48, z późn. zm.), rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 689/2008 z dnia 17 czerwca 2008 r. dotyczącego wywozu i przywozu niebezpiecznych chemikaliów (Dz. Urz. UE L 204 z 31.07.2008, str. 1, z późn. zm.), rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1272/2008 z dnia 16 grudnia 2008 r. w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin, zmieniającego i uchylającego dyrektywy 67/548/EWG i 1999/45/WE oraz zmieniającego rozporządzenie (WE) nr 1907/2006 (Dz. Urz. UE L 353 z 31.12.2008, str. 1, z późn. zm.) w zakresie zagrożeń dla środowiska;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 - **12a)** wykonywanie zadań wynikających z rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 995/2010 z dnia 20 października 2010 r. ustanawiającego obowiązki podmiotów wprowadzających do obrotu drewno i produkty z drewna (Dz. Urz. UE L 295 z 12.11.2010, str. 23);
 - **13)** wykonywanie zadań dotyczących przeprowadzania kontroli przestrzegania przepisów ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. z 2023 r. poz. 589 i 2029) w zakresie emisji gazów cieplarnianych objętych systemem oraz szacowanie wielkości emisji gazów cieplarnianych z instalacji lub z operacji lotniczej, o którym mowa w art. 87 ust. 4 i art. 88 ust. 1 tej ustawy;
@@ -94,7 +319,6 @@ source: "isap-pdf"
 - **17d)** kontrola przestrzegania przepisów ustawy z dnia 19 lipca 2019 r. o przeciwdziałaniu marnowaniu żywności (Dz. U. z 2020 r. poz. 1645);
 - **17e)** wykonywanie zadań określonych w przepisach ustawy z dnia 15 lipca 2020 r. o systemach homologacji typu UE i nadzoru rynku silników spalinowych przeznaczonych do maszyn mobilnych nieporuszających się po drogach (Dz. U. poz. 1339);
 - **17f)** wykonywanie zadań wynikających z ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2023 r. poz. 2496) w zakresie wprowadzania gazów lub pyłów do powietrza przez przedsiębiorcę w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236);
-- **17g)** wykonywanie zadań określonych w ustawie z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. z 2022 r. poz. 673, z 2024 r. poz. 834 i 1940 oraz z 2025 r. poz. 1863);
 - **18)** wykonywanie innych zadań określonych odrębnymi przepisami.
 
 1a. Do zadań Inspekcji Ochrony Środowiska należy również ściganie przestępstw przeciwko środowisku określonych w Kodeksie karnym oraz wykroczeń określonych w Kodeksie wykroczeń i ustawach wymienionych w ust. 1, w tym wnoszenie i popieranie aktów oskarżenia.
@@ -103,7 +327,7 @@ source: "isap-pdf"
 
 3. Inspekcja Ochrony Środowiska współpracuje z Szefem Krajowego Centrum Informacji Kryminalnych w zakresie niezbędnym do realizacji jego zadań ustawowych.
 
-4. W przypadku niecierpiącym zwłoki organy Inspekcji Ochrony Środowiska, realizując zadania, o których mowa w ust. 1, 1a i 3, wykonują obowiązek, o którym mowa w art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2016/679”, przez udostępnienie informacji, o których mowa w art. 13 ust. 1 i 2 rozporządzenia 2016/679, w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu, na swojej stronie internetowej oraz w siedzibie urzędu w widocznym miejscu.
+4. W przypadku niecierpiącym zwłoki organy Inspekcji Ochrony Środowiska, realizując zadania, o których mowa w ust. 1, 1a i 3, wykonują obowiązek, o którym mowa w art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2016/679”, przez udostępnienie informacji, o których mowa w art. 13 ust. 1 i 2 rozporządzenia 2016/679, w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu, na swojej stronie internetowej oraz w siedzibie urzędu w widocznym miejscu.
 
 5. W związku z przetwarzaniem przez organy Inspekcji Ochrony Środowiska danych osobowych w toku realizacji zadań określonych w ust. 1, 1a i 3 prawo, o którym mowa w art. 15 ust. 1 lit. g rozporządzenia 2016/679, przysługuje w zakresie, w jakim nie ma wpływu na ochronę praw i wolności osoby, od której dane pozyskano.
 
@@ -120,7 +344,8 @@ source: "isap-pdf"
 
 **Art. 3.** Organami Inspekcji Ochrony Środowiska są:
 
-**Art. 3a.** Główny Inspektor Ochrony Środowiska jest centralnym organem administracji rządowej nadzorowanym przez ministra właściwego do spraw klimatu.
+- **1)** Główny Inspektor Ochrony Środowiska;
+- **2)** wojewódzki inspektor ochrony środowiska jako organ rządowej administracji zespolonej w województwie. Główny Inspektor Ochrony Środowiska jest centralnym organem administracji rządowej nadzorowanym przez ministra właściwego do spraw klimatu.
 
 **Art. 4.**
 
@@ -181,15 +406,13 @@ source: "isap-pdf"
 
 4k. Zespół przeprowadzający nabór na stanowisko, o którym mowa w ust. 4, powołuje Główny Inspektor Ochrony Środowiska.
 
-4l. Do sposobu przeprowadzania naboru na stanowisko, o którym mowa w ust. 4, stosuje się odpowiednio ust. 4a–4j.
+4l. Do sposobu przeprowadzania naboru na stanowisko, o którym mowa w ust. 4, stosuje się odpowiednio ust. 4a-4j.
 
 5. Główny Inspektor Ochrony Środowiska wykonuje zadania przy pomocy Głównego Inspektoratu Ochrony Środowiska.
 
 6. W skład Głównego Inspektoratu Ochrony Środowiska mogą wchodzić: departamenty, wydziały, zespoły terenowe, samodzielne stanowiska oraz laboratoria.
 
 7. Organizację Głównego Inspektoratu Ochrony Środowiska określa statut nadany, w drodze rozporządzenia, przez Prezesa Rady Ministrów na wniosek ministra właściwego do spraw klimatu.
-
-**Art. 4a.**
 
 1. Główny Inspektor Ochrony Środowiska, kierując działalnością Inspekcji Ochrony Środowiska:
 
@@ -199,9 +422,9 @@ source: "isap-pdf"
 - **4)** organizuje i koordynuje kontrole podmiotów korzystających ze środowiska o zasięgu lub znaczeniu ponadwojewódzkim;
 - **4a)** może wydawać wojewódzkim inspektorom ochrony środowiska polecenia przeprowadzenia w określonym czasie kontroli;
 - **5)** opracowuje i realizuje wieloletnie strategiczne oraz wykonawcze programy państwowego monitoringu środowiska;
-- **6)** dokonuje analiz i ocen:
-    - **a)** przestrzegania przepisów, o których mowa w art. 2 ust. 1,
-    - **b)** stanu środowiska;
+- **6)** dokonuje analiz i ocen: przestrzegania przepisów, o których mowa w art. 2 ust. 1, stanu środowiska;
+    - **a)**
+    - **b)**
 
 - **7)** prowadzi system informatyczny, o którym mowa w art. 28h ust. 1, i nadzoruje jego funkcjonowanie;
 - **8)** organizuje szkolenia pracowników Inspekcji Ochrony Środowiska w zakresie wykonywania zadań określonych w ustawie i w przepisach odrębnych;
@@ -211,7 +434,7 @@ source: "isap-pdf"
 
 - **1)** prowadzenia państwowego monitoringu środowiska oraz prowadzenia działalności laboratoryjnej,
 - **2)** prowadzenia działań edukacyjnych dla innych organów i podmiotów korzystających ze środowiska z zakresu korzystania ze środowiska,
-- **3)** wykonywania zadań, o których mowa w art. 5 ust. 1 pkt 2 ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych – należy do Głównego Inspektora Ochrony Środowiska.
+- **3)** wykonywania zadań, o których mowa w art. 5 ust. 1 pkt 2 ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych należy do Głównego Inspektora Ochrony Środowiska.
 
 2. Główny Inspektor Ochrony Środowiska w zakresie zadań określonych w art. 2 ust. 1 współpracuje z:
 
@@ -256,15 +479,13 @@ source: "isap-pdf"
 
 9. Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw administracji publicznej określi, w drodze rozporządzenia, zasady i sposób organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur, mając na względzie zapewnienie ich sprawnego i jednolitego działania.
 
-**Art. 5a.**
-
 1. Roczny plan działalności kontrolnej obejmuje:
 
 - **1)** ogólną ocenę znaczących zagadnień dotyczących środowiska;
 - **2)** obszar objęty planem kontroli;
-- **3)** wykaz zakładów objętych planem, w tym wykaz:
-    - **a)** instalacji wymagających uzyskania pozwolenia zintegrowanego,
-    - **b)** zakładów o zwiększonym ryzyku i zakładów o dużym ryzyku wystąpienia poważnej awarii przemysłowej w rozumieniu przepisów o ochronie środowiska, zwanych dalej odpowiednio „zakładami o zwiększonym ryzyku” i „zakładami o dużym ryzyku”;
+- **3)** wykaz zakładów objętych planem, w tym wykaz: instalacji wymagających uzyskania pozwolenia zintegrowanego, zakładów o zwiększonym ryzyku i zakładów o dużym ryzyku wystąpienia poważnej awarii przemysłowej w rozumieniu przepisów o ochronie środowiska, zwanych dalej odpowiednio „zakładami o zwiększonym ryzyku” i „zakładami o dużym ryzyku”;
+    - **a)**
+    - **b)**
 
 - **4)** procedury opracowywania programów kontroli planowych dla zakładów, o których mowa w pkt 3;
 - **5)** procedury kontroli pozaplanowych dla zakładów, o których mowa w pkt 3;
@@ -293,100 +514,9 @@ source: "isap-pdf"
 
 **Art. 7.** Wojewódzki inspektor ochrony środowiska, za zgodą Głównego Inspektora Ochrony Środowiska, może powierzyć, w drodze porozumienia, prowadzenie spraw z zakresu właściwości wojewódzkiego inspektora ochrony środowiska, w tym wydawanie w jego imieniu decyzji administracyjnych, powiatom położonym na terenie województwa.
 
-**Art. 8.** W rozumieniu Kodeksu postępowania administracyjnego, w sprawach związanych z wykonywaniem zadań i kompetencji Inspekcji Ochrony Środowiska organem właściwym jest, jeżeli ustawa nie stanowi inaczej, wojewódzki inspektor ochrony środowiska i jako organ wyższego stopnia ‒ Główny Inspektor Ochrony Środowiska.
-
-**Art. 8a.**
-
-1. Wojewódzki inspektor ochrony środowiska przekazuje radzie gminy, radzie powiatu i sejmikowi województwa, na ich wniosek, informację o wynikach kontroli obiektów o podstawowym znaczeniu dla województwa.
-
-2. W związku z przedłożoną informacją, o której mowa w ust. 1, radzie powiatu służy prawo do określania, w drodze uchwały, kierunków działania wojewódzkiego inspektora ochrony środowiska w celu zapewnienia na danym obszarze należytej ochrony środowiska.
-
-3. W przypadku bezpośredniego zagrożenia środowiska starosta lub wójt (burmistrz, prezydent miasta) może skierować, zawierający uzasadnienie, wniosek do wojewódzkiego inspektora ochrony środowiska o podjęcie należących do jego zadań i kompetencji działań zmierzających do usunięcia tego zagrożenia, gdy podjęcie działań wykracza poza zadania i kompetencje odpowiednio starosty lub wójta (burmistrza, prezydenta miasta).
-
-4. Uchwała podjęta na podstawie ust. 2 oraz wniosek skierowany na podstawie ust. 3 nie mogą dotyczyć wykonania konkretnych czynności służbowych ani określać sposobu wykonania zadania przez wojewódzkiego inspektora ochrony środowiska, lecz powinny ustalać przedmiot działań lub wskazywać stan niezgodny z prawem, o którego usunięcie chodzi i którego zakres należy do właściwości wojewódzkiego inspektora ochrony środowiska.
-
-**Art. 8b.**
-
-1. Starosta, wójt (burmistrz, prezydent miasta) ponoszą wyłączną odpowiedzialność za treść wniosku skierowanego na podstawie art. 8a ust. 3.
-
-2. Wniosek przekazany ustnie wymaga potwierdzenia na piśmie.
-
-**Art. 8c.** (uchylony)
+**Art. 8.** W rozumieniu Kodeksu postępowania administracyjnego, w sprawach związanych z wykonywaniem zadań i kompetencji Inspekcji Ochrony Środowiska organem właściwym jest, jeżeli ustawa nie stanowi inaczej, wojewódzki inspektor ochrony środowiska i jako organ wyższego stopnia ‒ Główny Inspektor Ochrony Środowiska. 1. Wojewódzki inspektor ochrony środowiska przekazuje radzie gminy, radzie powiatu i sejmikowi województwa, na ich wniosek, informację o wynikach kontroli obiektów o podstawowym znaczeniu dla województwa. 2. W związku z przedłożoną informacją, o której mowa w ust. 1, radzie powiatu służy prawo do określania, w drodze uchwały, kierunków działania wojewódzkiego inspektora ochrony środowiska w celu zapewnienia na danym obszarze należytej ochrony środowiska. 3. W przypadku bezpośredniego zagrożenia środowiska starosta lub wójt (burmistrz, prezydent miasta) może skierować, zawierający uzasadnienie, wniosek do wojewódzkiego inspektora ochrony środowiska o podjęcie należących do jego zadań i kompetencji działań zmierzających do usunięcia tego zagrożenia, gdy podjęcie działań wykracza poza zadania i kompetencje odpowiednio starosty lub wójta (burmistrza, prezydenta miasta). 4. Uchwała podjęta na podstawie ust. 2 oraz wniosek skierowany na podstawie ust. 3 nie mogą dotyczyć wykonania konkretnych czynności służbowych ani określać sposobu wykonania zadania przez wojewódzkiego inspektora ochrony środowiska, lecz powinny ustalać przedmiot działań lub wskazywać stan niezgodny z prawem, o którego usunięcie chodzi i którego zakres należy do właściwości wojewódzkiego inspektora ochrony środowiska. 1. Starosta, wójt (burmistrz, prezydent miasta) ponoszą wyłączną odpowiedzialność za treść wniosku skierowanego na podstawie art. 8a ust. 3. 2. Wniosek przekazany ustnie wymaga potwierdzenia na piśmie. (uchylony)
 
 #### Rozdział 2a Pracownicy Inspekcji Ochrony Środowiska
-
-**Art. 8d.**
-
-1. Pracownikami Inspekcji Ochrony Środowiska są pracownicy zatrudnieni w Głównym Inspektoracie Ochrony Środowiska i wojewódzkich inspektoratach ochrony środowiska.
-
-2. Do pracowników Inspekcji Ochrony Środowiska zatrudnionych na:
-
-- **1)** stanowiskach urzędniczych, z wyłączeniem osób zatrudnionych na stanowisku inspektora Inspekcji Ochrony Środowiska – stosuje się przepisy ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2022 r. poz. 1691 oraz z 2023 r. poz. 1195 i 1598);
-- **2)** stanowisku inspektora Inspekcji Ochrony Środowiska – stosuje się przepisy ustawy, o której mowa w pkt 1, z wyłączeniem art. 4.
-
-3. (uchylony)
-
-4. Do pracowników innych niż wymienieni w ust. 2 stosuje się przepisy ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2023 r. poz. 1917).
-
-**Art. 8e.**
-
-1. Inspektorem Inspekcji Ochrony Środowiska może być pracownik Inspekcji Ochrony Środowiska, który:
-
-- **1)** jest obywatelem polskim;
-- **2)** ma pełną zdolność do czynności prawnych;
-- **3)** korzysta z pełni praw publicznych;
-- **4)** nie był skazany prawomocnym wyrokiem sądu za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
-- **5)** posiada wyższe wykształcenie;
-- **6)** posiada stan zdrowia pozwalający na zatrudnienie na stanowisku inspektora Inspekcji Ochrony Środowiska;
-- **7)** odbył półroczny kurs przygotowujący do wykonywania pracy na stanowisku inspektora Inspekcji Ochrony Środowiska i zdał egzamin końcowy.
-
-2. Główny Inspektor Ochrony Środowiska zwalnia z obowiązku odbywania kursu oraz egzaminu końcowego, o których mowa w ust. 1 pkt 7, pracownika Głównego Inspektoratu Ochrony Środowiska lub wojewódzkiego inspektoratu ochrony środowiska, posiadającego wiedzę i doświadczenie zawodowe umożliwiające należyte wykonywanie obowiązków służbowych.
-
-3. Minister właściwy do spraw klimatu określi, w drodze rozporządzenia, zakres i sposób przeprowadzenia kursu, o którym mowa w ust. 1 pkt 7, oraz warunki zdania egzaminu końcowego, kierując się potrzebą należytego przygotowania inspektorów Inspekcji Ochrony Środowiska do wykonywania kontroli.
-
-**Art. 8f.**
-
-1. (uchylony)
-
-2. (uchylony)
-
-3. (uchylony)
-
-4. Pracownik Inspekcji Ochrony Środowiska zatrudniony na stanowisku inspektora Inspekcji Ochrony Środowiska, wykonujący pracę w systemie określonym w:
-
-- **1)** art. 97 ust. 1 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej nie może wykonywać pracy na więcej niż dziesięciu zmianach w porze nocnej w miesiącu kalendarzowym,
-- **2)** art. 97 ust. 2 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej nie może wykonywać pracy na więcej niż ośmiu zmianach w porze nocnej w miesiącu kalendarzowym – chyba że jest to uzasadnione szczególnymi potrzebami pracodawcy lub tym, że nieobecność tego pracownika mogłaby spowodować poważne zakłócenie organizacji pracy u pracodawcy.
-
-5. Praca w godzinach nadliczbowych pracownika jest dopuszczalna ze względu na:
-
-- **1)** konieczność współudziału w zwalczaniu poważnej awarii lub innych zdarzeń nadzwyczajnych w zakresie ochrony środowiska;
-- **2)** konieczność wykonania rozpoczętych czynności kontrolnych, jeżeli nie mogą one zostać przerwane;
-- **3)** szczególne potrzeby pracodawcy.
-
-6. Praca w godzinach nadliczbowych pracownika następuje na polecenie pracodawcy.
-
-7. W zamian za czas pracy w godzinach nadliczbowych pracownikowi udziela się czasu wolnego od pracy w wymiarze o połowę wyższym albo może mu być przyznane wynagrodzenie wraz z dodatkiem za pracę w godzinach nadliczbowych w wysokości 50 % wynagrodzenia. Udzielenie pracownikowi czasu wolnego nie może spowodować obniżenia wynagrodzenia należnego pracownikowi za pełny miesięczny wymiar czasu pracy.
-
-8. O przyznaniu czasu wolnego od pracy albo dodatku, o których mowa w ust. 7, decyduje:
-
-- **1)** dyrektor generalny – w przypadku pracowników zatrudnionych w Głównym Inspektoracie Ochrony Środowiska;
-- **2)** wojewódzki inspektor ochrony środowiska – w przypadku pracowników zatrudnionych w wojewódzkim inspektoracie ochrony środowiska.
-
-9. Liczba godzin nadliczbowych, za które przyznano wynagrodzenie, nie może przekraczać:
-
-- **1)** 7 godzin w przyjętym miesięcznym okresie rozliczeniowym;
-- **2)** 14 godzin w przyjętym dwumiesięcznym okresie rozliczeniowym;
-- **3)** 21 godzin w przyjętym trzymiesięcznym okresie rozliczeniowym.
-
-10. Praca w niedzielę lub święto w godzinach nadliczbowych oraz w porze nocnej nie może być wykonywana przez:
-
-- **1)** pracownika będącego jedynym opiekunem dziecka do 8 lat lub osoby wymagającej stałej opieki,
-- **2)** pracownika opiekującego się dzieckiem do 8 lat, jeżeli z uprawnienia do opieki nie korzysta drugie z rodziców lub opiekun,
-- **3)** pracownicę karmiącą dziecko piersią – bez ich zgody.
-
-**Art. 8g.** Inspektorom Inspekcji Ochrony Środowiska wykonującym czynności kontrolne przysługuje miesięczny dodatek inspekcyjny do wynagrodzenia w wysokości do 100 % tego wynagrodzenia.
-
-**Art. 8h.** Pracownicy Inspekcji Ochrony Środowiska podczas pełnienia obowiązków służbowych i w związku z pełnieniem tych obowiązków korzystają z ochrony przewidzianej w Kodeksie karnym dla funkcjonariuszy publicznych.
 
 #### Rozdział 3 Wykonywanie zadań kontrolnych przez Inspekcję Ochrony Środowiska
 
@@ -407,12 +537,11 @@ source: "isap-pdf"
 
 2. Przy wykonywaniu kontroli przestrzegania wymagań ochrony środowiska inspektor uprawniony jest do:
 
-- **1)** wstępu przez całą dobę wraz z niezbędnym sprzętem:
-    - **a)** na teren nieruchomości, obiektu lub ich części, na których prowadzona jest działalność gospodarcza,
-    - **b)** do środków transportu,
-    - **c)** na teren niezwiązany z prowadzeniem działalności gospodarczej;
+- **1)** wstępu przez całą dobę wraz z niezbędnym sprzętem: na teren nieruchomości, obiektu lub ich części, na których prowadzona jest działalność gospodarcza, do środków transportu, na teren niezwiązany z prowadzeniem działalności gospodarczej; 1a) (uchylony)
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **1a)** (uchylony)
 - **2)** przeprowadzania niezbędnych pomiarów lub badań, w tym pobierania próbek lub wykonywania innych czynności kontrolnych, w tym z użyciem bezzałogowych statków powietrznych, w celu ustalenia na terenie kontrolowanej nieruchomości, w obiekcie lub jego części, w kontrolowanym środku transportu, stanu środowiska oraz oceny tego stanu w świetle przepisów o ochronie środowiska, a także warunków wykonywania działalności wpływającej na środowisko indywidualnie określonych w decyzjach administracyjnych;
 - **3)** żądania wstrzymania ruchu lub uruchomienia instalacji lub urządzeń, w tym środków transportu oraz powstrzymania się od wykonywania innych czynności w zakresie, w jakim jest to niezbędne dla przeprowadzenia badań, w tym pobrania próbek i wykonania pomiarów;
 - **4)** oceny sposobu eksploatacji instalacji lub urządzeń, w tym środków transportu;
@@ -430,13 +559,9 @@ source: "isap-pdf"
 
 3. (uchylony)
 
-**Art. 9a.**
-
 1. Kontrolę przedsiębiorców wykonuje się na zasadach określonych w rozdziale 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 2. Do kontroli pozaplanowych przedsiębiorców nie stosuje się przepisów art. 47, art. 48, art. 50, art. 51, art. 54, art. 55 i art. 58 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
-
-**Art. 9b.**
 
 1. Kontrolę wykonuje się po okazaniu legitymacji służbowej potwierdzającej tożsamość i uprawnienia inspektora do jej wykonania.
 
@@ -447,8 +572,6 @@ source: "isap-pdf"
 4. Inspektor jest obowiązany do zwrotu legitymacji z dniem ustania stosunku pracy.
 
 5. Minister właściwy do spraw klimatu określi, w drodze rozporządzenia, wzór legitymacji służbowej, o której mowa w ust. 1, mając na względzie możliwość identyfikacji inspektora i jego stanowiska służbowego.
-
-**Art. 9c.**
 
 1. W kontroli prowadzonej przez inspektora mogą uczestniczyć inni pracownicy Głównego Inspektoratu Ochrony Środowiska lub wojewódzkiego inspektoratu ochrony środowiska upoważnieni przez Głównego Inspektora Ochrony Środowiska lub wojewódzkiego inspektora ochrony środowiska.
 
@@ -462,13 +585,7 @@ source: "isap-pdf"
 
 6. Do osób, o których mowa w ust. 1 oraz w art. 9 ust. 2a, stosuje się przepisy ust. 5 oraz art. 9 ust. 2 pkt 1, 2 i 9.
 
-**Art. 10.** Kierownik kontrolowanej jednostki organizacyjnej oraz kontrolowana osoba fizyczna, z zachowaniem przepisów o ochronie informacji niejawnych oraz o zakwaterowaniu sił zbrojnych, obowiązani są umożliwić inspektorowi przeprowadzenie kontroli, w szczególności umożliwić dokonanie czynności, o których mowa w art. 9 ust. 2.
-
-**Art. 10a.**
-
-1. Wojewódzki inspektor ochrony środowiska może wystąpić z wnioskiem do Policji lub organów administracji publicznej, w tym do Krajowej Administracji Skarbowej, Inspekcji Transportu Drogowego, urzędów nadzoru górniczego, Państwowej Inspekcji Pracy, Inspekcji Handlowej, Państwowej Inspekcji Sanitarnej, Inspekcji Weterynaryjnej, Państwowej Inspekcji Ochrony Roślin i Nasiennictwa, Straży Granicznej, Państwowej Straży Pożarnej, o udzielenie pomocy, jeżeli jest to niezbędne do przeprowadzenia czynności kontrolnych.
-
-2. Udzielenie pomocy, o której mowa w ust. 1, może polegać w szczególności na:
+**Art. 10.** Kierownik kontrolowanej jednostki organizacyjnej oraz kontrolowana osoba fizyczna, z zachowaniem przepisów o ochronie informacji niejawnych oraz o zakwaterowaniu sił zbrojnych, obowiązani są umożliwić inspektorowi przeprowadzenie kontroli, w szczególności umożliwić dokonanie czynności, o których mowa w art. 9 ust. 2. 1. Wojewódzki inspektor ochrony środowiska może wystąpić z wnioskiem do Policji lub organów administracji publicznej, w tym do Krajowej Administracji Skarbowej, Inspekcji Transportu Drogowego, urzędów nadzoru górniczego, Państwowej Inspekcji Pracy, Inspekcji Handlowej, Państwowej Inspekcji Sanitarnej, Inspekcji Weterynaryjnej, Państwowej Inspekcji Ochrony Roślin i Nasiennictwa, Straży Granicznej, Państwowej Straży Pożarnej, o udzielenie pomocy, jeżeli jest to niezbędne do przeprowadzenia czynności kontrolnych. 2. Udzielenie pomocy, o której mowa w ust. 1, może polegać w szczególności na:
 
 - **1)** umożliwieniu inspektorowi wejścia na kontrolowany teren, do kontrolowanego obiektu lub do środka transportu;
 - **2)** gromadzeniu i zabezpieczaniu dowodów popełnienia przestępstwa albo wykroczenia;
@@ -477,11 +594,7 @@ source: "isap-pdf"
 
 3. Organy wymienione w ust. 1 nie mogą odmówić udzielenia pomocy wojewódzkiemu inspektorowi ochrony środowiska.
 
-4. Na wniosek wojewódzkiego inspektora ochrony środowiska, w przypadku uzasadnionego podejrzenia popełnienia przestępstwa polegającego na udaremnianiu lub utrudnianiu wstępu na kontrolowany teren, do kontrolowanego obiektu lub do środka transportu, Policja obowiązana jest umożliwić inspektorom ten wstęp, w tym przy wykorzystaniu środka przymusu bezpośredniego, o którym mowa w art. 12 ust. 1 pkt 19 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2023 r. poz. 202, 547, 1053, 1088, 1489 i
-
-- **1963)** .
-
-**Art. 10b.**
+4. Na wniosek wojewódzkiego inspektora ochrony środowiska, w przypadku uzasadnionego podejrzenia popełnienia przestępstwa polegającego na udaremnianiu lub utrudnianiu wstępu na kontrolowany teren, do kontrolowanego obiektu lub do środka transportu, Policja obowiązana jest umożliwić inspektorom ten wstęp, w tym przy wykorzystaniu środka przymusu bezpośredniego, o którym mowa w art. 12 ust. 1 pkt 19 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2023 r. poz. 202, 547, 1053, 1088, 1489 i 1963).
 
 1. W przypadku powzięcia uzasadnionego podejrzenia popełnienia przestępstwa przeciwko środowisku określonego w art. 182, art. 183 lub art. 186 Kodeksu karnego lub wykroczeń przeciwko środowisku określonych w przepisach odrębnych, Główny Inspektor Ochrony Środowiska, wojewódzki inspektor ochrony środowiska lub upoważnieni inspektorzy Inspekcji Ochrony Środowiska mogą podjąć czynności, o których mowa w ust. 2.
 
@@ -502,8 +615,6 @@ source: "isap-pdf"
 
 5. Administratorem danych osobowych przetwarzanych w celu, o którym mowa w art. 1 pkt 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2023 r. poz. 1206), jest minister właściwy do spraw klimatu, Główny Inspektor Ochrony Środowiska lub wojewódzki inspektor ochrony środowiska.
 
-**Art. 10c.**
-
 1. Główny Inspektor Ochrony Środowiska może powołać zespół kontrolny, w skład którego może powołać inspektorów Inspekcji Ochrony Środowiska zatrudnionych w wojewódzkich inspektoratach ochrony środowiska.
 
 2. W przypadku, o którym mowa w ust. 1, wojewódzki inspektor ochrony środowiska wskazuje inspektorów Inspekcji Ochrony Środowiska, którzy wejdą w skład zespołu kontrolnego. Koszty delegacji inspektorów Inspekcji Ochrony Środowiska wskazanych do prac w zespole kontrolnym pokrywa wojewódzki inspektor ochrony środowiska.
@@ -514,8 +625,6 @@ source: "isap-pdf"
 
 5. W przypadku, o którym mowa w ust. 4, wojewódzki inspektor ochrony środowiska wskazuje pracownika, który wejdzie w skład zespołu kontrolnego. Koszty delegacji pracownika wskazanego do prac w zespole kontrolnym pokrywa wojewódzki inspektor ochrony środowiska.
 
-**Art. 10d.**
-
 1. Informacje uzyskane w czasie prowadzenia czynności, o których mowa w art. 10b ust. 2, mogą być wykorzystywane w celu realizacji zadań ustawowych Inspekcji Ochrony Środowiska, w tym w zakresie kontroli oraz stanowić dowód w postępowaniach administracyjnych, karnych oraz w postępowaniach w sprawach wykroczeń.
 
 2. Informacje, o których mowa w ust. 1, udostępnia się na wniosek:
@@ -524,8 +633,6 @@ source: "isap-pdf"
 - **2)** sądu lub prokuratora – w związku z toczącym się postępowaniem;
 - **3)** organów i służb uprawnionych do ścigania przestępstw i wykroczeń;
 - **4)** organów nadzoru górniczego.
-
-**Art. 10e.**
 
 1. Organy Inspekcji Ochrony Środowiska w zakresie koniecznym do wykonywania czynności, o których mowa w art. 10b ust. 2, mogą korzystać z informacji kryminalnej zgromadzonej w Krajowym Centrum Informacji Kryminalnych.
 
@@ -563,17 +670,11 @@ source: "isap-pdf"
 
 5. Decyzja, o której mowa w ust. 4, podlega natychmiastowemu wykonaniu.
 
-6. Do decyzji, o której mowa w ust. 4, przepisów art. 61 § 3 i 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2023 r. poz. 1634, 1705 i 1860) nie stosuje się.
-
-**Art. 12a.** (uchylony)
-
-**Art. 12b.** (uchylony)
+6. Do decyzji, o której mowa w ust. 4, przepisów art. 61 § 3 i 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2023 r. poz. 1634, 1705 i 1860) nie stosuje się. (uchylony) (uchylony)
 
 **Art. 13.** (uchylony)
 
-**Art. 14.** W sprawach o wykroczenia przeciwko środowisku organom Inspekcji Ochrony Środowiska przysługuje uprawnienie oskarżyciela publicznego także wtedy, gdy wniosek o ukaranie za wykroczenie złożył inny uprawniony oskarżyciel.
-
-**Art. 15.** W razie stwierdzenia, że działanie lub zaniechanie kierownika jednostki organizacyjnej, jej pracownika lub innej osoby fizycznej wyczerpuje znamiona przestępstwa przeciwko środowisku, organy Inspekcji Ochrony Środowiska kierują do organu powołanego do ścigania przestępstw zawiadomienie o popełnieniu przestępstwa, dołączając dowody dokumentujące podejrzenie.
+**Art. 14.** W sprawach o wykroczenia przeciwko środowisku organom Inspekcji Ochrony Środowiska przysługuje uprawnienie oskarżyciela publicznego także wtedy, gdy wniosek o ukaranie za wykroczenie złożył inny uprawniony oskarżyciel. W razie stwierdzenia, że działanie lub zaniechanie kierownika jednostki organizacyjnej, jej pracownika lub innej osoby fizycznej wyczerpuje znamiona przestępstwa przeciwko środowisku, organy Inspekcji Ochrony Środowiska kierują do organu powołanego do ścigania przestępstw zawiadomienie o popełnieniu przestępstwa, dołączając dowody dokumentujące podejrzenie.
 
 **Art. 16.**
 
@@ -585,8 +686,6 @@ source: "isap-pdf"
 
 - **1)** skierować wystąpienie o wyjaśnienie przyczyn nieprawidłowości lub o ich usunięcie;
 - **2)** zwrócić się o wszczęcie postępowania administracyjnego, wnieść skargę do sądu administracyjnego, a także uczestniczyć w tych postępowaniach – na prawach przysługujących prokuratorowi.
-
-**Art. 16a.**
 
 1. W przypadku stwierdzenia nieprawidłowości w zakresie wydawania przez organy ochrony środowiska decyzji ustalających warunki korzystania ze środowiska organ Inspekcji Ochrony Środowiska kieruje wystąpienie, którego treścią może być w szczególności wniosek o stwierdzenie nieważności tej decyzji.
 
@@ -600,7 +699,8 @@ source: "isap-pdf"
 
 2. Współdziałanie to obejmuje w szczególności:
 
-- **1)** (uchylony) 1a) rozpatrywanie wniosków o przeprowadzenie kontroli, składanych przez organy jednostek samorządu terytorialnego;
+- **1)** (uchylony)
+- **1a)** rozpatrywanie wniosków o przeprowadzenie kontroli, składanych przez organy jednostek samorządu terytorialnego;
 - **2)** przekazywanie właściwym organom administracji państwowej i rządowej oraz organom samorządu terytorialnego informacji o wynikach kontroli przeprowadzonych przez Inspekcję Ochrony Środowiska;
 - **3)** wymianę informacji o wynikach kontroli;
 - **4)** wymianę z Krajową Administracją Skarbową i Strażą Graniczną informacji związanych ze sprowadzaniem do kraju towarów, których wwóz jest zakazany lub ograniczony ze względu na ochronę środowiska;
@@ -628,11 +728,7 @@ source: "isap-pdf"
 
 - **1)** kontroli przestrzegania wymagań ochrony środowiska;
 - **2)** (uchylony)
-- **3)** szacowania wielkości emisji z instalacji albo z operacji lotniczej, o którym mowa w ustawie z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych.
-
-**Art. 18a.** (uchylony)
-
-**Art. 18b.** (uchylony)
+- **3)** szacowania wielkości emisji z instalacji albo z operacji lotniczej, o którym mowa w ustawie z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych. (uchylony) (uchylony)
 
 **Art. 19.** W postępowaniu o ustalenie warunków zabudowy i zagospodarowania terenu dotyczącym przedsięwzięcia mogącego znacząco oddziaływać na środowisko, o którym mowa w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, oraz w sprawie ustalenia lokalizacji autostrad oraz dróg ekspresowych wojewódzkiemu inspektorowi ochrony środowiska przysługują prawa strony w postępowaniu administracyjnym i postępowaniu przed sądem administracyjnym, jeżeli zgłosi swój udział w postępowaniu.
 
@@ -706,24 +802,14 @@ source: "isap-pdf"
 
 **Art. 24.** (uchylony)
 
-**Art. 25.** Informacje o środowisku i jego ochronie objęte państwowym monitoringiem środowiska są gromadzone przez Głównego Inspektora Ochrony Środowiska.
-
-**Art. 25a.** (uchylony)
-
-**Art. 25b.** Główny Inspektor Ochrony Środowiska opracowuje, nie rzadziej niż raz na 4 lata, raport o stanie środowiska w Polsce, uwzględniając w szczególności dane z państwowego monitoringu środowiska.
-
-**Art. 25c.**
-
-1. Główny Inspektor Ochrony Środowiska sporządza i przekazuje Komisji Europejskiej i Europejskiej Agencji Środowiska, co 4 lata, w terminie do dnia 1 lipca danego roku:
+**Art. 25.** Informacje o środowisku i jego ochronie objęte państwowym monitoringiem środowiska są gromadzone przez Głównego Inspektora Ochrony Środowiska. (uchylony) Główny Inspektor Ochrony Środowiska opracowuje, nie rzadziej niż raz na 4 lata, raport o stanie środowiska w Polsce, uwzględniając w szczególności dane z państwowego monitoringu środowiska. 1. Główny Inspektor Ochrony Środowiska sporządza i przekazuje Komisji Europejskiej i Europejskiej Agencji Środowiska, co 4 lata, w terminie do dnia 1 lipca danego roku:
 
 - **1)** informacje o lokalizacji prowadzenia badań monitoringowych, o których mowa w art. 23 ust. 18a, i wskaźniki używane do badania wpływu zanieczyszczenia powietrza na ekosystemy;
 - **2)** dane uzyskane w wyniku badań monitoringowych, o których mowa w art. 23 ust. 18a.
 
 2. Główny Inspektor Ochrony Środowiska przekazuje ministrowi właściwemu do spraw klimatu do akceptacji informacje, wskaźniki oraz dane, o których mowa w ust. 1, w terminie 14 dni przed upływem terminu ich przekazania Komisji Europejskiej i Europejskiej Agencji Środowiska.
 
-**Art. 26.** (uchylony)
-
-**Art. 27.** Minister właściwy do spraw klimatu może, dla celów kontroli i badań stanu środowiska, określić, w drodze rozporządzenia, warunki i metody prowadzenia pomiarów wielkości emisji oraz stężeń i poziomów substancji lub energii w środowisku, uwzględniając zobowiązania międzynarodowe Rzeczypospolitej Polskiej oraz postęp w zakresie technik pomiarowych.
+**Art. 26.** (uchylony) Minister właściwy do spraw klimatu może, dla celów kontroli i badań stanu środowiska, określić, w drodze rozporządzenia, warunki i metody prowadzenia pomiarów wielkości emisji oraz stężeń i poziomów substancji lub energii w środowisku, uwzględniając zobowiązania międzynarodowe Rzeczypospolitej Polskiej oraz postęp w zakresie technik pomiarowych.
 
 **Art. 28.**
 
@@ -737,93 +823,16 @@ source: "isap-pdf"
 
 #### Rozdział 4b Laboratoria
 
-**Art. 28f.**
-
-1. W Głównym Inspektoracie Ochrony Środowiska działa centralne laboratorium badawcze.
-
-2. Centralne laboratorium badawcze prowadzi działalność laboratoryjną, o której mowa w art. 2 ust. 1 pkt 2a, oraz może wykonywać inne badania z zakresu ochrony środowiska.
-
-3. Do wykonywania badań, w tym pobierania próbek, wykonywania pomiarów i analiz na potrzeby działań kontrolnych centralne laboratorium badawcze obowiązane jest posiadać akredytację w rozumieniu ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2023 r. poz. 215).
-
-4. W zakresie, w jakim centralne laboratorium badawcze nie posiada akredytacji, Główny Inspektor Ochrony Środowiska może zawrzeć umowę o wykonanie badań, w tym pobranie próbek, wykonywanie pomiarów i analiz z inną jednostką posiadającą akredytację w rozumieniu ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności.
-
-5. Główny Inspektorat Ochrony Środowiska może pozyskiwać środki finansowe z tytułu sprzedaży usług centralnego laboratorium badawczego oraz krajowych laboratoriów referencyjnych.
-
-6. Środki, o których mowa w ust. 5, stanowią dochód budżetu państwa i są wpłacane na rachunek bieżący dochodów Głównego Inspektoratu Ochrony Środowiska.
-
-7. Centralne laboratorium badawcze wykonuje nieodpłatnie badania i analizy na potrzeby kontroli prowadzonych przez wojewódzkich inspektorów ochrony środowiska.
-
-8. Główny Inspektor Ochrony Środowiska zawiera z wojewódzkim inspektorem ochrony środowiska porozumienie w sprawie zakresu i sposobu realizacji przez centralne laboratorium badawcze badań, w tym pobierania próbek, wykonywania pomiarów i analiz na potrzeby działań kontrolnych.
-
-**Art. 28g.**
-
-1. W Głównym Inspektoracie Ochrony Środowiska działają krajowe laboratorium referencyjne do spraw jakości powietrza atmosferycznego oraz krajowe laboratorium referencyjne do spraw jakości wód powierzchniowych.
-
-2. W Głównym Inspektoracie Ochrony Środowiska mogą być tworzone krajowe laboratoria referencyjne do spraw jakości pomiarów:
-
-- **1)** hałasu;
-- **2)** pól elektromagnetycznych;
-- **3)** emisji zanieczyszczeń do wód i powietrza.
-
-3. Do zadań krajowego laboratorium referencyjnego do spraw jakości powietrza atmosferycznego należy zapewnienie nadzoru nad jakością badań powietrza atmosferycznego wykonywanych w ramach programów państwowego monitoringu środowiska poprzez:
-
-- **1)** organizowanie i wykonywanie porównań międzylaboratoryjnych i badań biegłości;
-- **2)** dokonywanie przeglądów systemów zapewnienia i kontroli jakości w instytucjach obsługujących sieci pomiarowe i poszczególne punkty pomiarowe co najmniej raz na pięć lat;
-- **3)** koordynację właściwego stosowania metodyk referencyjnych i wykazywania równoważności metodyk niereferencyjnych;
-- **4)** wdrażanie nowych metod badawczych;
-- **5)** uczestniczenie, przynajmniej raz na trzy lata, w programach zapewnienia jakości badań organizowanych przez Komisję Europejską.
-
-4. Zapewnienie nadzoru, o którym mowa w ust. 3, w odniesieniu do badań wykonywanych przez centralne laboratorium badawcze polega również na:
-
-- **1)** ujednolicaniu metod i procedur badawczych;
-- **2)** szkoleniu pracowników centralnego laboratorium badawczego w zakresie nowych metod badawczych;
-- **3)** koordynacji na terenie kraju udziału w programach zapewnienia jakości badań organizowanych przez Komisję Europejską;
-- **4)** wspieraniu prac prowadzonych przez europejską sieć krajowych laboratoriów referencyjnych ustanowioną przez Komisję Europejską.
-
-5. Do zadań krajowego laboratorium referencyjnego do spraw jakości wód powierzchniowych należy zapewnienie nadzoru nad jakością badań i analiz w zakresie wód powierzchniowych wykonywanych przez centralne laboratorium badawcze oraz inne podmioty prowadzące badania monitoringowe, w szczególności przez:
-
-- **1)** prowadzenie badań i oznaczeń próbek biologicznych, wody i osadów;
-- **2)** tworzenie, weryfikację i aktualizację przewodników i wytycznych do wykonania badań biologicznych;
-- **3)** udział w opracowaniu, testowanie oraz wsparcie we wdrażaniu i użytkowaniu systemów zarządzania laboratorium;
-- **4)** organizowanie porównań międzylaboratoryjnych i badań biegłości;
-- **5)** udział w międzynarodowych programach zapewnienia jakości;
-- **6)** ujednolicanie metod i procedur badawczych;
-- **7)** wdrażanie nowych metod badawczych;
-- **8)** szkolenie pracowników centralnego laboratorium badawczego w zakresie nowych metod badawczych;
-- **9)** współpracę z laboratoriami referencyjnymi państw członkowskich Unii Europejskiej;
-- **10)** gromadzenie i rozpowszechnianie informacji dotyczących metod badawczych stosowanych przez laboratoria referencyjne państw członkowskich Unii Europejskiej.
-
 #### Rozdział 4c System informatyczny Inspekcji Ochrony Środowiska „Ekoinfonet”
-
-**Art. 28h.**
-
-1. Tworzy się system informatyczny Inspekcji Ochrony Środowiska „Ekoinfonet”, zwany dalej „Ekoinfonetem”, za pomocą którego są zbierane, przechowywane, przetwarzane i udostępniane dane dotyczące przestrzegania przepisów o ochronie środowiska oraz badania i oceny stanu środowiska, uzyskiwane w trakcie realizacji zadań, o których mowa w art. 2 ust. 1.
-
-2. Ekoinfonet obejmuje dane, o których mowa w ust. 1, przekazywane przez:
-
-- **1)** Głównego Inspektora Ochrony Środowiska;
-- **2)** wojewódzkich inspektorów ochrony środowiska.
-
-3. Główny Inspektor Ochrony Środowiska:
-
-- **1)** organizuje szkolenia specjalistyczne w zakresie obsługi Ekoinfonetu;
-- **2)** zapewnia sprzęt informatyczny i oprogramowanie do obsługi Ekoinfonetu.
-
-4. Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia, zakres, sposób oraz tryb zbierania i udostępniania danych, o którym mowa w ust. 1, kierując się koniecznością uzyskania danych niezbędnych do oceny przestrzegania przepisów ochrony środowiska oraz badania i oceny stanu środowiska, a także sporządzania sprawozdań w tym zakresie.
-
-**Art. 28i.**
-
-1. Integralną częścią Ekoinfonetu jest Krajowe Repozytorium Danych o Stanie i Ochronie Środowiska, zwane dalej „Krajowym Repozytorium”, w którym są gromadzone i archiwizowane dane, o których mowa w art. 28h ust. 1.
-
-2. Krajowe Repozytorium jest prowadzone przez Głównego Inspektora Ochrony Środowiska.
-
-3. Dane z Krajowego Repozytorium stanowią materiały archiwalne w rozumieniu ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164).
-
-**Art. 28j.** Korzystający z danych z Ekoinfonetu lub je przetwarzający jest obowiązany podać w wytwarzanych informacjach, że dane te pochodzą z Ekoinfonetu.
 
 #### Rozdział 5 Wykonywanie zadań w zakresie poważnych awarii
 
 **Art. 29.** W zakresie przeciwdziałania poważnym awariom do Inspekcji Ochrony Środowiska należy:
+
+- **1)** kontrola podmiotów, których działalność może stanowić przyczynę powstania poważnej awarii;
+- **2)** (uchylony)
+- **3)** badanie przyczyn powstawania oraz sposobów likwidacji skutków poważnych awarii dla środowiska;
+- **4)** prowadzenie rejestru zakładów, których działalność może być przyczyną wystąpienia poważnej awarii, w tym zakładów o zwiększonym ryzyku i zakładów o dużym ryzyku.
 
 **Art. 30.** Inspekcja Ochrony Środowiska współdziała w zwalczaniu poważnej awarii z organami właściwymi do jej zwalczania oraz sprawuje nadzór nad usuwaniem skutków tej awarii.
 
@@ -841,33 +850,6 @@ source: "isap-pdf"
 
 #### Rozdział 5a Przepisy karne i przepisy o karach pieniężnych
 
-**Art. 31a.**
-
-1. Kto:
-
-- **1)** w wyznaczonym terminie nie informuje organu Inspekcji Ochrony Środowiska o zakresie wykonania zarządzeń pokontrolnych albo o przeprowadzeniu postępowania służbowego lub innego przewidzianego prawem postępowania przeciw osobom winnym dopuszczenia do uchybień,
-- **2)** niezgodnie z prawdą informuje organ Inspekcji Ochrony Środowiska o wykonaniu zarządzeń pokontrolnych lub przeprowadzeniu postępowania służbowego lub innego przewidzianego prawem,
-- **3)** korzystając z danych z Ekoinfonetu lub je przetwarzając nie podaje w wytwarzanych informacjach, że dane te pochodzą z Ekoinfonetu, podlega karze aresztu, ograniczenia wolności lub grzywny.
-
-2. Postępowanie w sprawach, o których mowa w ust. 1, prowadzi się na podstawie przepisów Kodeksu postępowania w sprawach o wykroczenia.
-
-**Art. 31b.** Kto, będąc do tego obowiązany na podstawie art. 23 ust. 16, nie gromadzi lub nie przetwarza danych lub informacji lub nie udostępnia ich nieodpłatnie na potrzeby państwowego monitoringu środowiska – podlega karze grzywny.
-
-**Art. 31c.**
-
-1. Kto:
-
-- **1)** uniemożliwia organowi Inspekcji Ochrony Środowiska przeprowadzanie kontroli albo
-- **2)** utrudnia organowi Inspekcji Ochrony Środowiska przeprowadzanie kontroli – podlega karze pieniężnej w wysokości od 10 000 zł do 100 000 zł.
-
-2. Kary pieniężne, o których mowa w ust. 1, wymierza, w drodze decyzji, właściwy organ Inspekcji Ochrony Środowiska.
-
-3. Decyzji, o której mowa w ust. 2, organ Inspekcji Ochrony Środowiska może nadać rygor natychmiastowej wykonalności.
-
-4. Kary pieniężne stanowią dochód budżetu państwa i są wpłacane odpowiednio na rachunek bankowy wojewódzkiego inspektoratu ochrony środowiska albo Głównego Inspektoratu Ochrony Środowiska.
-
-5. Do kar pieniężnych, o których mowa w ust. 1, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760), z tym że uprawnienia organów podatkowych przysługują odpowiednio wojewódzkiemu inspektorowi ochrony środowiska albo Głównemu Inspektorowi Ochrony Środowiska.
-
 #### Rozdział 6 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
 **Art. 32.** (pominięty)
@@ -882,5 +864,5 @@ source: "isap-pdf"
 
 **Art. 37.** Postępowanie w sprawach wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie ustawy prowadzi się zgodnie z dotychczasowymi przepisami.
 
-**Art. 38.** Ustawa wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia .
+**Art. 38.** Ustawa wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia.
 

@@ -8,10 +8,10 @@ pos: 1179
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 sierpnia 2016 r.
+# Rozporządzenie Ministra Zdrowiaz dnia 1 sierpnia 2016 r. w sprawie jednostek organizacyjnych, które prowadzą badania jakościowe produktów leczniczych i produktów leczniczych weterynaryjnych, oraz opłat pobieranych za te badania
 
 | Pole | Wartość |
 |---|---|
@@ -22,236 +22,52 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2016-08-01 |
 | Data wydania | 2016-08-05 |
+| Wejście w życie | 2016-08-08 |
 | Ostatnia zmiana | 2025-10-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001179) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1179/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 1 sierpnia 2016 r.
-w sprawie jednostek organizacyjnych, które prowadzą badania jakościowe produktów leczniczych i produktów leczniczych weterynaryjnych, oraz opłat pobieranych za te badania Na podstawie art. 22 ust. 2 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2008 r. poz. 271, z późn.
-zm. ) zarządza się, co następuje: § 1. Badania jakościowe produktów leczniczych, produktów leczniczych weterynaryjnych, materiałów wyjściowych i produktów pośrednich lub innych składników produktu leczniczego lub produktu leczniczego weterynaryjnego w toku postępowania o udzielenie pozwolenia na dopuszczenie do obrotu wykonują następujące jednostki organizacyjne:
-1) instytuty badawcze:
-a) Narodowy Instytut Leków w Warszawie, mający status Państwowego Laboratorium Kontroli Produktów Leczniczych (OMCL Official Medicines Control Laboratory) w pełnym zakresie badań w odniesieniu do wszystkich kategorii produktów leczniczych i produktów leczniczych weterynaryjnych,
-b) Narodowy Instytut Zdrowia Publicznego Państwowy Zakład Higieny w Warszawie, mający status Państwowego Laboratorium Kontroli Produktów Leczniczych (OMCL Official Medicines Control Laboratory) w odniesieniu do produktów immunologicznych, produktów krwiopochodnych i produktów leczniczych stosowanych w diagnostyce serologicznej,
-c) Instytut Hematologii i Transfuzjologii w Warszawie, mający status wyznaczonego krajowego laboratorium badawczego w odniesieniu do kontroli seryjnej wstępnej produktów krwiopochodnych,
-d) Instytut Żywności i Żywienia im. prof. dra med. Aleksandra Szczygła w Warszawie, mający status wyznaczonego krajowego laboratorium badawczego w odniesieniu do produktów leczniczych stosowanych w dietach eliminacyjnych,
-e) Państwowy Instytut Weterynaryjny Państwowy Instytut Badawczy w Puławach, mający status wyznaczonego krajowego laboratorium badawczego w odniesieniu do immunologicznych produktów leczniczych weterynaryjnych;
-2) laboratoria kontroli jakości leków:
-a) Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Białymstoku,
-b) Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Gdańsku,
-c) Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Katowicach,
-d) Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Krakowie,
-e) Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Opolu,
-f) Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Poznaniu,
-g) Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Rzeszowie,
-h) Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym we Wrocławiu mające status wyznaczonego krajowego laboratorium badawczego w zakresie analizy jakościowej produktów leczniczych i wyrobów medycznych.
-§ 2. Cennik opłat pobieranych za określone czynności podejmowane w ramach badań jakościowych produktów leczniczych, produktów leczniczych weterynaryjnych, materiałów wyjściowych i produktów pośrednich lub innych składników produktu leczniczego lub produktu leczniczego weterynaryjnego w toku postępowania o udzielenie pozwolenia na dopuszczenie do obrotu określa załącznik do rozporządzenia.
-§ 3. Rozporządzenie wchodzi w życie z dniem 8 sierpnia 2016 r.
-Minister Zdrowia: K. Radziwiłł CENNIK OPŁAT POBIERANYCH ZA OKREŚLONE CZYNNOŚCI PODEJMOWANE W RAMACH BADAŃ JAKOŚCIOWYCH PRODUKTÓW LECZNICZYCH, PRODUKTÓW LECZNICZYCH WETERYNARYJNYCH, MATERIAŁÓW WYJŚCIOWYCH I PRODUKTÓW POŚREDNICH LUB INNYCH SKŁADNIKÓW PRODUKTU LECZNICZEGO LUB PRODUKTU LECZNICZEGO WETERYNARYJNEGO W TOKU POSTĘPOWANIA O UDZIELENIE POZWOLENIA NA DOPUSZCZENIE DO OBROTU Podane ceny nie zawierają podatku VAT Opłata w zł Lp. Rodzaj badania I. Czynności wstępne dotyczące przygotowania próbki i wzorca 1 Przygotowanie naważki i:
-a) rozpuszczanie 62,00
-b) ogrzewanie 62,00
-c) oziębianie 62,00
-d) rozcieńczanie 62,00
-e) maceracja 62,00
-f) ekstrakcja z rozdzieleniem faz (1–2 x) 190,00
-g) wielokrotna ekstrakcja 380,00
-h) elucja z chromatogramu 250,00
-i) odparowanie 126,00
-j) suszenie 62,00
-k) hydroliza/zmydlenie 190,00
-l) wirowanie 126,00
-m) krystalizacja 62,00
-n) sączenie proste 62,00
-o) sączenie pod zwiększonym/zmniejszonym ciśnieniem 126,00
-p) dodatkowa czynność nieujęta w cenniku 62,00 2 Rozdzielenie przez destylację 250,00 3 Mineralizacja na sucho 190,00 4 Mineralizacja na mokro / spalanie w kolbie z tlenem 380,00 5 Otrzymywanie pochodnej na drodze mikrosyntezy z krystalizacją 380,00 6 Przygotowanie prostego odczynnika 62,00 7 Przygotowanie buforu z ustaleniem pH 190,00 8 Przygotowanie roztworu mianowanego z ustaleniem miana 250,00 9 Przygotowanie próbki w aparacie do rozfrakcjonowania cząstek (dawka efektywna):
-a) typ I 380,00
-b) typ II 760,00
-c) typ III 1 140,00 10 Badanie preparatów izotopowych:
-a) specjalne przygotowanie materiału zwierzęcego 190,00
-b) specjalne przygotowanie do badań produktów leczniczych izotopowych 126,00
-c) przygotowanie preparatu izotopowego 190,00
-d) przygotowanie próbek do pomiaru aktywności 126,00 11 Przygotowanie próbki z 1 pojemnika aerozolowego (wymrożenie, ważenie) 250,00 12 Oczyszczenie odczynnika organicznego 250,00 13 Przygotowanie próbek do oznaczania jednolitości dawki dostępnej z pojemnika aerozolowego 1 060,00 (pierwsza, środkowa, końcowa, 100 dawek) II. Badanie prawidłowości przygotowania postaci leku 1 Opis wyglądu zewnętrznego 62,00 2 Przegląd wizualny preparatów ciekłych w pojemnikach pojedynczych 126,00 3 Oznaczanie wielkości zanieczyszczeń nierozpuszczalnych:
-a) płyny iniekcyjne i infuzyjne 940,00
-b) zawiesiny 1 070,00
-c) metodą filtrów membranowych 380,00 4 Badanie wielkości cząstek:
-a) pod mikroskopem 250,00
-b) metodą instrumentalną w zawiesinach, emulsjach, aerozolach, maściach, proszkach 1 000,00 5 Oznaczanie wielkości cząstek w zawiesinie metodą przechodzenia przez igłę o określonej 62,00 średnicy 6 Oznaczanie średniej zawartości w opakowaniu (wagowo) 62,00 7 Oznaczanie średniej zawartości i jej rozrzutu:
-a) w ampułkach, fiolkach i flakonach z płynem 190,00
-b) w fiolkach i kapsułkach z substancją stałą lub oleistą 380,00
-c) w systemach przezskórnych 380,00
-d) w aerozolach 750,00
-e) w saszetkach z ziołami do zaparzania 190,00 8 Oznaczanie średniej zawartości maści w opakowaniu z wypłukaniem i ważeniem 320,00 9 Oznaczanie średniej masy tabletek, drażetek, kapsułek i innych postaci dozowanych:
-a) średnia masa 62,00
-b) badanie jednolitości masy 126,00 10 Oznaczenie średniej masy rdzenia tabletek powlekanych po usunięciu powłoki z 20 jednostek 190,00 11 Badanie wymiarów 62,00 12 Badanie wytrzymałości tabletek 62,00 13 Badanie ścieralności tabletek 62,00 14 Badanie czasu rozpadu tabletek, drażetek, kapsułek itp.:
-a) w roztworze pojedynczym 126,00
-b) w różnych roztworach 190,00 15 Frakcyjne uwalnianie substancji czynnej z postaci leku:
-a) uzyskanie pierwszej frakcji (dla 6 próbek) 190,00
-b) uzyskanie każdej następnej frakcji po wyodrębnieniu 126,00
-c) frakcje uzyskane po czasie 12 h 280,00
-d) oznaczenie ilościowe dla każdej z 6 próbek wg cennika, oznaczanie 12 lub 24 próbek z 25% upustem
-e) przygotowanie medium niezbuforowanego 190,00
-f) przygotowanie medium zbuforowanego 315,00 16 Obliczenie wartości AV 126,00 17 Oznaczanie zdolności pęcznienia 126,00 18 Oznaczanie zdolności tworzenia piany (półilościowe) 126,00 19 Oznaczanie konsystencji penetrometrem 190,00 20 Oznaczanie czasu topnienia, rozpuszczenia bądź całkowitej deformacji czopków 126,00 21 Oznaczenie stopnia rozdrobnienia postaci stałych leku (analiza sitowa, za 1 sito) 62,00 22 Badanie czasu rozpuszczania preparatów iniekcyjnych 62,00 23 Ocena właściwości organoleptycznych 62,00 24 Jednolitość zawartości zgodnie z cennikiem obowiązuje upust 25% III. Sprawdzenie tożsamości i zawartości 1 Chemiczna próba tożsamości 126,00 2 Oznaczenie temperatury topnienia lub krzepnięcia z wzorcem lub temperatury kroplenia 126,00 3 Oznaczenie temperatury wrzenia metodą destylacji 250,00 4 Oznaczenie gęstości:
-a) wagą Mohra 190,00
-b) piknometrem, wprost 190,00
-c) aerometrem 62,00 5 Sprawdzenie rozpuszczalności w jednym rozpuszczalniku z określeniem proporcji 62,00 6 Chromatografia bibułowa:
-a) wykonanie oznaczenia 380,00
-b) autoradiografia z interpretacją i obliczeniem 320,00
-c) elektroforeza bibułowa 320,00 7 Chromatografia TLC (nałożenie, wywołanie, rozwinięcie, interpretacja):
-a) chromatografia jednokierunkowa: identyfikacja 1 związku 315,00 identyfikacja kolejnego związku 126,00 badanie czystości związku 380,00
-b) chromatografia wielokierunkowa/wielostopniowa 560,00
-c) dodatkowe przygotowanie płytek 62,00
-d) autoradiografia z interpretacją i obliczeniem 500,00 8 Badanie właściwości precypitacyjnych (pełne badanie) 126,00 IV. Sprawdzenie czystości 1 Określenie zabarwienia w porównaniu z wzorcem:
-a) wzorzec gotowy 190,00
-b) z przygotowaniem wzorca 280,00 2 Określenie zmętnienia lub zanieczyszczeń nierozpuszczalnych w płynach 190,00 3 Określenie zanieczyszczeń kationami i anionami w porównaniu z wzorcem:
-a) azotanami 190,00
-b) chlorkami 440,00
-c) siarczanami 440,00
-d) solami amonowymi 440,00
-e) arsenem: bezpośrednio 500,00 po mineralizacji 1 008,00
-f) borem 190,00
-g) magnezem 380,00
-h) potasem 320,00
-i) wapniem 190,00
-j) solami żelaza 440,00
-k) metalami ciężkimi (wg FP): metoda I 440,00 metoda II 700,00 metoda III 760,00 4 Strata masy po suszeniu 190,00 5 Sucha pozostałość 190,00 6 Popiół zwykły lub siarczanowy:
-a) półilościowo 190,00
-b) ilościowo 380,00 7 Popiół nierozpuszczalny w HCl 380,00 8 Oznaczenie kroplenia 126,00 9 Badanie tłuszczów na zjełczenie 126,00 V. Badania tożsamości, czystości i zawartości substancji czynnych 1 Pomiar współczynnika refrakcji 126,00 2 Badanie polarymetryczne:
-a) pomiar kąta skręcenia 126,00
-b) skręcalność właściwa lub polarymetryczne oznaczenie zawartości (całość oznaczenia) 440,00 3 Pomiar pH:
-a) prosty 62,00
-b) z doprowadzeniem do określonej wartości 190,00 4 Pomiar lepkości (jedno oznaczenie w jednej temperaturze) 126,00 pomiar lepkości z ustaleniem warunków badania 630,00 5 Elektroforeza żelowa:
-a) wylanie żelu rozdzielającego (cena łącznie z przygotowaniem odczynników): izokratycznego 700,00 gradientowego 820,00 dodatkowe wylanie żelu rozbiegowego 500,00
-b) rozdział elektroforetyczny: denaturacja I redukcja próbki lub wzorca 250,00 przygotowanie żelu do rozdziału 250,00 wykonanie rozdziału: elektroforeza niskonapięciowa 390,00 elektroforeza wysokonapięciowa 650,00
-c) barwienie: odczynnikiem srebrowym 390,00 odczynnikiem z błękitem Coomasie 250,00 utrwalanie prążków i odbarwianie tła 250,00 utrwalanie żelu i suszenie 190,00 opracowanie wyników 126,00 6 Elektroforeza kapilarna CE:
-a) przygotowanie kapilary do oznaczeń 126,00
-b) sączenie i odgazowanie buforu rozdzielającego 126,00
-c) rozdział elektroforetyczny jednej substancji: związki o krótkim czasie migracji 320,00 związki o długim czasie migracji 630,00
-d) opracowanie nowego układu elektroforetycznego 1 865,00
-e) opracowanie wyników 126,00 7 Chromatografia kolumnowa:
-a) chromatografia prosta 190,00
-b) chromatografia z odbiorem frakcji 320,00
-c) dodatkowe przygotowanie kolumny 126,00 8 Chromatografia gazowa GC:
-a) przygotowanie kolumny: wypełnienie i kondycjonowanie nowej kolumny 1 320,00 rekondycjonowanie kolumny 250,00 oznaczenie rozdzielności układu 550,00
-b) wykonanie oznaczenia jakościowego: związku o krótkim czasie retencji (do 31 min.) 190,00 substancji o długim czasie retencji 320,00
-c) wykonanie oznaczenia ilościowego: substancji o krótkim czasie retencji (do 31 min.) 380,00 substancji o długim czasie retencji 700,00
-d) obliczenie i interpretacja wyników 126,00 9 Chromatografia HPLC:
-a) przygotowanie kolumn do oznaczeń: w układzie izokratycznym 1 015,00 w układzie gradientowym 1 280,00
-b) wykonanie rozdziału chromatograficznego: oznaczenie jakościowe 390,00 wykonanie oznaczenia ilościowego 630,00 wykonanie oznaczenia ilościowego w układzie gradientowym 1 700,00 analiza o czasie retencji powyżej 31 min. 310,00
-c) obliczanie wyników i ich interpretacja (dla 1 składnika/zanieczyszczenia) 126,00
-d) określenie rozdzielczości układu chromatograficznego 570,00 10 Badanie spektrofotometryczne i spektrofluorymetryczne:
-a) pomiar absorpcji przy jednej długości fali lub rejestracja widma 126,00
-b) badanie w podczerwieni: rejestracja widma w podczerwieni 250,00 wykonanie badania techniką w bromku potasu 494,00 wykonanie badania techniką w nujolu w roztworze lub bezpośrednio między płytkami 380,00
-c) opracowanie wyników 126,00 11 Oznaczanie metodą miareczkową:
-a) z odczytem wizualnym 126,00
-b) z odczytem elektrometrycznym 190,00
-c) miareczkowanie w środowisku niewodnym zwykłe 315,00
-d) miareczkowanie w środowisku niewodnym potencjometryczne (pełne oznaczenie) 500,00
-e) opracowanie wyników 62,00 12 Badanie metodą ASA:
-a) oznaczenie ilościowe 1 pierwiastka 1 470,00
-b) oznaczenie ilościowe metodą ICP-MS: przygotowanie krzywej wzorcowej dla jednego poziomu stężeń 1 054,00 oznaczenie dla jednego poziomu stężeń 126,00
-c) opracowanie wyników dla 1 pierwiastka 126,00
-d) skanowanie widma mas 126,00 13 Oznaczenie przewodności elektrycznej właściwej (5 pomiarów) 246,00 14 Pomiar osmolalności 126,00 15 Oznaczanie przy użyciu elektrody jonoselektywnej:
-a) wyznaczenie krzywej wzorcowej (3 punkty) 1 417,00
-b) oznaczenie 1 próbki 348,00 16 Pomiar fotometryczny 190,00 17 Oznaczenie polarograficzne:
-a) metoda dodania wzorca jedno oznaczenie 434,00
-b) metoda krzywej wzorcowej + 3 próbki 1 420,00 18 Oznaczenie densytometryczne wykreślenie widma w jednym zakresie (UV lub VIS) z interpretacją:
-a) wykreślenie widma dla 1 składnika 62,00
-b) wykreślenie widma różnicowego 126,00
-c) skanowanie próbki badanej lub wzorca 126,00
-d) interpretacja densytogramu i obliczenie wyniku dla 1 składnika 126,00 19 Pomiar radioaktywności produktów radioizotopowych:
-a) pomiar niemetrologiczny promieniowania gamma 19,00
-b) pomiar niemetrologiczny promieniowania beta w kierunku ciekło-scyntylacyjnym 56,00
-c) pomiar niemetrologiczny promieniowania gamma w komorze jonizacyjnej 169,00
-d) badanie tożsamości radionuklidu: oznaczenie przybliżonego okresu półtrwania 225,00 rejestracja widma promieniowania gamma z interpretacją 300,00 20 Badanie preparatu w mikroskopie skanningowym:
-a) wykonanie badania 440,00
-b) wykonanie jednego zdjęcia 62,00 21 Badanie metodą spektrometrii mas: wyznaczenie dokładnej masy pojedynczego związku z potwierdzeniem składu elementarnego przy zastosowaniu jedynego źródła jonizacji:
-a) MS; MS/MS: w jednym trybie jonizacji 282,00 w dwóch trybach jonizacji 423,00
-b) HPLC-MS; HPLC-MS/MS: w jednym trybie jonizacji 470,00 w dwóch trybach jonizacji 705,00
-c) GC-MS 470,00
-d) interpretacja widma pojedynczego składnika: potwierdzenie tożsamości 190,00 identyfikacja 705,00 22 Badania metodą NMR:
-a) wykonanie podstawowego widma 1H NMR (za pierwszą godzinę pracy operatora na syste- 868,00 mie INOVA 500): cena każdej następnej godziny pracy 434,00 cena pierwszej godziny pracy w badaniach specjalnych (13-C, 15-N, 19-F, 17-O, 31-P, 1 284,00 widma 2D COSY, NOESY, PFG-1-H, widma temperaturowe i inne) cena każdej następnej godziny pracy w badaniach specjalnych 434,00
-b) interpretacja widma 1 240,00 23 Badania spektrofluorymetryczne przy użyciu cytometru przepływowego:
-a) oznaczanie zawartości DNA i białka, przy wzbudzeniu fluorochromów w świetle UV 190,00 (za każdą próbę)
-b) oznaczanie zawartości innych składników komórkowych za każdy składnik i próbę 126,00
-c) oznaczanie ilościowe subfrakcji limfocytów we krwi ludzkiej standardowym panelem prze- 500,00 ciwciał f-my Becton-Dickinson
-d) pomiar zawartości w komórce dowolnego fluorochromu w świetle widzialnym 62,00
-e) sortowanie komórek, za każdą godzinę pracy cytometru 500,00
-f) badanie przeżywalności komórek lub apoptozy w hodowli metodami cytometrii przepływowej 5 600,00 (jedna linia komórkowa, jeden czas działania, jedno stężenie substancji cytotoksycznej + hodowla kontrolna)
-g) za każdy dodatkowy czas działania lub stężenia substancji cytotoksycznej 376,00 24 Izolacja genu metodą PCR:
-a) izolacja DNA 1 440,00
-b) oznaczenie czystości DNA 320,00
-c) amplifikacja 1 genu 1 440,00
-d) elektroforeza amplifikatu 250,00
-e) analiza obrazu żelu z korektą tła 126,00
-f) analiza densytometryczna amplifikatu 250,00
-g) analiza wielkości amplifikatu 250,00 25 Badania metodą laserownej, skaningowej mikroskopii konfokalnej:
-a) przygotowanie próbki do pomiaru 240,00
-b) analiza obrazu żelu z korektą tła 357,00
-c) wykonanie badania przy użyciu lasera UV (cena za godzinę pracy systemu) 552,00
-d) wykonanie badania przy użyciu lasera Ar (cena za godzinę pracy systemu) 494,00
-e) wykonanie badania przy użyciu lasera He-Ne (cena za godzinę pracy systemu) 357,00
-f) wykonanie jednego zdjęcia 62,00
-g) badanie kształtów w świetle przejściowym z użyciem lasera Ar 808,00 26 Rentgenowska analiza fazowa:
-a) przygotowanie próbek do analizy (sproszkowanie, umieszczenie w ramce lub kapilarze) 62,00
-b) rejestracja dyfraktogramu dla próbek proszkowych o masie 10–50 mg 620,00
-c) rejestracja dyfraktometru dla próbek proszkowych o masie powyżej 1 g 808,00
-d) rejestracja dyfraktogramów serii preparatów o zbliżonym składzie (powyżej 3) o masie 376,00 10–50 mg próbka druga i kolejne
-e) rejestracja dyfraktogramów serii preparatów o zbliżonym składzie (powyżej 3) o masie powyżej 1 g próbka druga i kolejne 376,00
-f) identyfikacja składu fazowego próbek wieloskładnikowych na podstawie zarejestrowanych 246,00 dyfraktogramów
-g) rejestracja przejść fazowych w zakresie: − 190°C do + 450°C wraz z interpretacją 1 363,00 27 Oznaczenie zawartości etanolu/olejków 494,00 VI. Farmakologiczne badania aktywności biologicznej i nieszkodliwości 1 Badanie nieszkodliwości preparatów do wstrzyknięć:
-a) na myszach 250,00
-b) na szczurach 250,00
-c) na świnkach morskich 190,00
-d) na królikach 126,00 2 Badanie nieszkodliwości preparatów podawanych dożołądkowo na:
-a) myszach 190,00
-b) szczurach 190,00
-c) świnkach morskich 190,00 3 Badanie toksyczności (LD50):
-a) bez wzorca 3 220,00
-b) z wzorcem 5 100,00 4 Badanie działania cytotoksycznego (LD50) na hodowlach komórkowych 3 020,00 5 Badanie wpływu na żywotność plemników 250,00 6 Badanie toksyczności wzmożonej na rybach Lebistes reticulatus 250,00 7 Badanie obecności substancji gorączkotwórczych na królikach:
-a) preparatów o właściwościach antygenowych 1 008,00
-b) pozostałych 500,00 8 Badanie preparatów iniekcyjnych na krążenie krwi i oddech:
-a) na królikach 1 580,00
-b) na kotach 760,00
-c) na gołębiach 5 600,00 9 Badanie obecności endotoksyn bakteryjnych w preparatach iniekcyjnych (całość badania) 1 008,00 10 Badanie preparatów na obecność ciał histaminopodobnych 880,00 11 Mianowanie zawartości histaminy w preparatach iniekcyjnych in vivo 1 760,00 12 Badanie aktywności oksytocyny metodą pomiaru ciśnienia krwi u kogutów 5 980,00 13 Badanie działania presyjnego preparatów na szczurach:
-a) badanie jakościowe 1 260,00
-b) badanie ilościowe 5 980,00 14 Badanie aktywności biologicznej produktów leczniczych wpływających na krzepnięcie krwi:
-a) metodą graficzną 1 760,00
-b) metodą 3 x 3 2 080,00
-c) metodą biochemiczną 4 540,00 15 Badanie agregacji płytek krwi pod wpływem materiałów medycznych 1 640,00 16 Badanie adhezji składników krwi na powierzchni tworzyw sztucznych 1 640,00 17 Badanie właściwości trombogennych tworzyw sztucznych w krążeniu pozaustrojowym 1 640,00 18 Badanie właściwości antygenowych preparatów do wstrzyknięć:
-a) jednorazowe 320,00
-b) wielokrotne 1 008,00 19 Badanie działania uczulającego podanie naskórne 4 050,00 20 Badanie preparatów zwiększających wydzielanie soku trzustkowego (całość badania) 7 275,00 21 Badanie działania miejscowo-drażniącego na królikach:
-a) podanie do worka spojówkowego: jednorazowe 250,00 wielokrotne 630,00
-b) podanie śródskórne 2 460,00
-c) podanie naskórne: jednokrotne 2 460,00 wielokrotne 4 440,00 22 Badanie na królikach działania hipoglikemicznego preparatów o przedłużonym działaniu n=6, 6 090,00 met. 1+1 23 Badanie aktywności biologicznej insuliny na myszach wg Ph. E. met. C 7 256,00 24 Badanie działania gonadotropowego na szczurach:
-a) 3+3 dawki n ≥ 6, 1 x dz. 6 220,00
-b) 3+3 dawki n ≥ 6, 2 x dz. 7 256,00 25 Badanie aktywności erytropoetyny wg Ph. E. met. B 7 256,00 26 Badanie rozmieszczenia fizjologicznego preparatów radioizotopowych (1 dawka/1 czas/3 zwierzęta):
-a) oznaczenie wychwytu radionuklidu: w jednej tkance 1 109,00 w każdej kolejnej tkance 190,00
-b) dystrybucja cząstkowa: w 7 tkankach 2 425,00 w każdej kolejnej tkance 282,00 27 Oznaczenie kinetyki zmian względnej zawartości radionuklidu w określonych tkankach zwierząt (1 dawka/ 3 czasy/9 zwierząt):
-a) w jednej tkance 2 914,00
-b) w każdej kolejnej tkance (do 6) 564,00
-c) w każdej kolejnej tkance (ponad 6) 752,00 28 Wykonanie scyntygramu rozkładu radioaktywności w ciele zwierząt z użyciem aparatu do gam- 470,00 magrafii 29 Badanie działania hemolitycznego wyciągów z tworzyw sztucznych 620,00 30 Badanie działania hemolizującego materiałów medycznych metodą bezpośrednią 752,00 31 Test hemaglutynacji czynnej miano przeciwciał anty SRBC 2 020,00 32 Test rozetkowy 3 150,00 33 Badanie przeżywalności tymocytów myszy w hodowlach z hydrokortyzonem 2 710,00 34 Oznaczenie obecności przeciwciał przeciwko HIV I/HIV II 1 070,00 35 Oznaczenie obecności antygenu HBS 760,00 36 Badanie aktywności p-wirusowej interferonów 9 140,00 37 Badanie aktywności biologicznej czynników wzrostu 9 140,00 38 Liczenie komórek z użyciem aparatu Coultera 808,00 39 Badanie mutagenności testem Amesa, 3 stężenia na 4 szczepach:
-a) bez aktywacji metabolicznej 16 976,00
-b) z aktywacją metaboliczną 20 530,00 40 Badania genotoksyczności testem mikrojądrowym in vitro, 3 stężenia, 1 linia komórkowa:
-a) bez aktywacji metabolicznej 17 108,00
-b) z aktywacją metaboliczną 20 530,00 41 Wykrywanie obecności bakterii Mycoplasma sp. z zastosowaniem metody PCR 1 085,00 VII. Mikrobiologiczne badania jałowości, czystości i zawartości substancji czynnych 1 Oznaczenie ilościowe antybiotyku metodą dyfuzyjną w preparacie prostym 1 140,00 2 Oznaczenie ilościowe jednego antybiotyku w preparacie złożonym:
-a) mikrobiologiczną metodą dyfuzyjną 1 260,00
-b) mikrobiologiczną metodą turbidymetryczną 1 830,00
-c) obliczenia i interpretacja wyn ików 126,00 3 Przygotowanie 1 podłoża ze sterylizacją:
-a) złożenie podłoża 630,00
-b) przygotowanie z gotowego kitu 320,00 4 Mikrobiologiczne oznaczenie ilościowe metodą probówkową lub płytkową jednej witaminy 1 200,00 5 Badanie zahamowania stref wzrostu bakterii z przygotowaniem szczepów i podłoży 880,00 6 Przygotowanie szczepu testowego do oznaczeń 62,00 7 Badanie aktywności przeciwbakteryjnej:
-a) badanie wrażliwości bakterii (MIC) dla 1 antybiotyku na 1–10 szczepów na podłożu płynnym 820,00
-b) badanie wrażliwości bakterii (MIC) dla 1 antybiotyku na 1–10 szczepów na podłożu agaro- 760,00 wym
-c) badanie działania bakteriobójczego (MBC) dla 1 antybiotyku dla 1–5 szczepów 1 260,00 8 Badanie skuteczności ochrony przeciwdrobnoustrojowej metodą posiewu bezpośredniego (test konserwacji):
-a) preparaty parentalne, do oczu, do stosowania zewnętrznego miejscowo 2 900,00
-b) preparaty doustne 3 466,00
-c) preparaty doustne z dużą zawartością cukru 4 030,00
-d) zastosowanie metody filtracyjnej 752,00 9 Badanie żywotności kultur bakteryjnych 553,00 10 Badanie homogenności kultur bakteryjnych 553,00 11 Badanie jałowości preparatów iniekcyjnych metodą posiewu bezpośredniego:
-a) preparatów „zimnych” 620,00
-b) preparatów radioizotopowych 730,00 12 Badanie jałowości preparatów iniekcyjnych zawierających antybiotyki metodą rozcieńczeń 560,00 13 Badanie jałowości metodą filtrów membranowych:
-a) badanie maści, emulsji, preparatów z antybiotykiem lub środkiem konserwującym 928,00
-b) badanie innych preparatów 808,00 14 Badanie jałowości płynów (≥100 ml) w układzie zamkniętnym 996,00 15 Oznaczanie czystości mikrobiologicznej preparatów doustnych i zewnętrznych metodą filtrów 2 500,00 membranowych z przygotowaniem podłóż 16 Identyfikacja bakterii lub grzybów (jeden izolat) 390,00 17 Oznaczenie czystości mikrobiologicznej preparatów doustnych i zewnętrznych metodą 2 790,00 posiewu bezpośredniego z przygotowaniem podłóż badanie obecności bakterii beztlenowych 18 Oznaczanie przepuszczalności dla bakterii materiałów do opakowań 940,00 VIII. Badanie surowców roślinnych i mieszanek ziołowych 1 Sprawdzenie tożsamości surowca roślinnego farmakopealnego:
-a) badanie makroskopowe 62,00
-b) badanie mikroskopowe 126,00 2 Sprawdzenie tożsamości surowca roślinnego farmakopealnego w mieszance ziołowej:
-a) za pierwszy składnik 126,00
-b) za każdy następny składnik 62,00 3 Określenie ilościowe składników mieszanki ziołowej 372,00 4 Oznaczenie ilościowe metodą morfologiczną jednego składnika w mieszance 2 lub 3 surowców pociętych:
-a) proste 126,00
-b) złożone 250,00 5 Oznaczenie stopnia rozdrobnienia i rozkruszu 190,00 6 Oznaczenie zanieczyszczeń szkodnikami żywymi i martwymi 126,00 7 Oznaczenie zanieczyszczeń mineralnych 126,00 8 Oznaczenie zanieczyszczeń fragmentami roślin szkodliwych 62,00 9 Oznaczenie zanieczyszczeń innymi częściami roślinnymi 126,00 10 Oznaczenie zanieczyszczeń organicznych 126,00 11 Oznaczenie zawartości surowca o niewłaściwych cechach 126,00
+Treść rozporządzenia
+Załącznik – Cennik opłat pobieranych za określone czynności podejmowane w ramach badań jakościowych produktów leczniczych, produktów leczniczych weterynaryjnych, materiałów wyjściowych i produktów pośrednich lub innych składników produktu leczniczego lub produktu leczniczego weterynaryjnego w toku postępowania o udzielenie pozwolenia na dopuszczenie do obrotu
+Treść rozporządzenia
+Na podstawie art. 22 ust. 2 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. poz. 271, z późn. zm.) zarządza się, co następuje:
+§ 1.
+Badania jakościowe produktów leczniczych, produktów leczniczych weterynaryjnych, materiałów wyjściowych i produktów pośrednich lub innych składników produktu leczniczego lub produktu leczniczego weterynaryjnego w toku postępowania o udzielenie pozwolenia na dopuszczenie do obrotu wykonują następujące jednostki organizacyjne:
+1)
+instytuty badawcze:
+a)
+Narodowy Instytut Leków w Warszawie, mający status Państwowego Laboratorium Kontroli Produktów Leczniczych (OMCL – Official Medicines Control Laboratory) – w pełnym zakresie badań w odniesieniu do wszystkich kategorii produktów leczniczych i produktów leczniczych weterynaryjnych,
+b)
+Narodowy Instytut Zdrowia Publicznego – Państwowy Zakład Higieny w Warszawie, mający status Państwowego Laboratorium Kontroli Produktów Leczniczych (OMCL – Official Medicines Control Laboratory) – w odniesieniu do produktów immunologicznych, produktów krwiopochodnych i produktów leczniczych stosowanych w diagnostyce serologicznej,
+c)
+Instytut Hematologii i Transfuzjologii w Warszawie, mający status wyznaczonego krajowego laboratorium badawczego – w odniesieniu do kontroli seryjnej wstępnej produktów krwiopochodnych,
+d)
+Instytut Żywności i Żywienia im. prof. dra med. Aleksandra Szczygła w Warszawie, mający status wyznaczonego krajowego laboratorium badawczego – w odniesieniu do produktów leczniczych stosowanych w dietach eliminacyjnych,
+e)
+Państwowy Instytut Weterynaryjny – Państwowy Instytut Badawczy w Puławach, mający status wyznaczonego krajowego laboratorium badawczego – w odniesieniu do immunologicznych produktów leczniczych weterynaryjnych;
+2)
+laboratoria kontroli jakości leków:
+a)
+Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Białymstoku,
+b)
+Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Gdańsku,
+c)
+Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Katowicach,
+d)
+Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Krakowie,
+e)
+Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Opolu,
+f)
+Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Poznaniu,
+g)
+Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Rzeszowie,
+h)
+Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym we Wrocławiu
+mające status wyznaczonego krajowego laboratorium badawczego – w zakresie analizy jakościowej produktów leczniczych i wyrobów medycznych.
+§ 2.
+Cennik opłat pobieranych za określone czynności podejmowane w ramach badań jakościowych produktów leczniczych, produktów leczniczych weterynaryjnych, materiałów wyjściowych i produktów pośrednich lub innych składników produktu leczniczego lub produktu leczniczego weterynaryjnego w toku postępowania o udzielenie pozwolenia na dopuszczenie do obrotu określa załącznik do rozporządzenia.
+§ 3.
+Rozporządzenie wchodzi w życie z dniem 8 sierpnia 2016 r.
+1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. poz. 1505 i 1570, z 2009 r. poz. 97, 206, 753, 788 i 817, z 2010 r. poz. 513 i 679, z 2011 r. poz. 322, 451, 622, 654, 657 i 696, z 2012 r. poz. 1342 i 1544, z 2013 r. poz. 1245, z 2014 r. poz. 822 i 1491, z 2015 r. poz. 28, 277, 788, 875, 1771, 1830, 1918, 1926 i 1991 oraz z 2016 r. poz. 823 i 960. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 28 listopada 2013 r. w sprawie jednostek organizacyjnych, które prowadzą badania jakościowe produktów leczniczych i produktów leczniczych weterynaryjnych, oraz opłat pobieranych za te badania (Dz. U. poz. 1472), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 7 ustawy z dnia 19 grudnia 2014 r. o zmianie ustawy – Prawo farmaceutyczne oraz niektórych innych ustaw (Dz. U. z 2015 r. poz. 28).
+Załącznik – Cennik opłat pobieranych za określone czynności podejmowane w ramach badań jakościowych produktów leczniczych, produktów leczniczych weterynaryjnych, materiałów wyjściowych i produktów pośrednich lub innych składników produktu leczniczego lub produktu leczniczego weterynaryjnego w toku postępowania o udzielenie pozwolenia na dopuszczenie do obrotu
+Podane ceny nie zawierają podatku VAT Opłata w zł Lp. Rodzaj badania I. Czynności wstępne dotyczące przygotowania próbki i wzorca 1 Przygotowanie naważki i: a) rozpuszczanie 62,00 b) ogrzewanie 62,00 c) oziębianie 62,00 d) rozcieńczanie 62,00 e) maceracja 62,00 f) ekstrakcja z rozdzieleniem faz (1–2 x) 190,00 g) wielokrotna ekstrakcja 380,00 h) elucja z chromatogramu 250,00 i) odparowanie 126,00 j) suszenie 62,00 k) hydroliza/zmydlenie 190,00 l) wirowanie 126,00 m) krystalizacja 62,00 n) sączenie proste 62,00 o) sączenie pod zwiększonym/zmniejszonym ciśnieniem 126,00 p) dodatkowa czynność nieujęta w cenniku 62,00 2 Rozdzielenie przez destylację 250,00 3 Mineralizacja na sucho 190,00 4 Mineralizacja na mokro / spalanie w kolbie z tlenem 380,00 5 Otrzymywanie pochodnej na drodze mikrosyntezy z krystalizacją 380,00 6 Przygotowanie prostego odczynnika 62,00 7 Przygotowanie buforu z ustaleniem pH 190,00 8 Przygotowanie roztworu mianowanego z ustaleniem miana 250,00 9 Przygotowanie próbki w aparacie do rozfrakcjonowania cząstek (dawka efektywna): a) typ I 380,00 b) typ II 760,00 c) typ III 1 140,00 10 Badanie preparatów izotopowych: a) specjalne przygotowanie materiału zwierzęcego 190,00 b) specjalne przygotowanie do badań produktów leczniczych izotopowych 126,00 c) przygotowanie preparatu izotopowego 190,00 d) przygotowanie próbek do pomiaru aktywności 126,00 11 Przygotowanie próbki z 1 pojemnika aerozolowego (wymrożenie, ważenie) 250,00 12 Oczyszczenie odczynnika organicznego 250,00 13 Przygotowanie próbek do oznaczania jednolitości dawki dostępnej z pojemnika aerozolowego (pierwsza, środkowa, końcowa, 100 dawek) 1 060,00 II. Badanie prawidłowości przygotowania postaci leku 1 Opis wyglądu zewnętrznego 62,00 2 Przegląd wizualny preparatów ciekłych w pojemnikach pojedynczych 126,00 3 Oznaczanie wielkości zanieczyszczeń nierozpuszczalnych: a) płyny iniekcyjne i infuzyjne 940,00 b) zawiesiny 1 070,00 c) metodą filtrów membranowych 380,00 4 Badanie wielkości cząstek: a) pod mikroskopem 250,00 b) metodą instrumentalną w zawiesinach, emulsjach, aerozolach maściach, proszkach 1 000,00 5 Oznaczanie wielkości cząstek w zawiesinie metodą przechodzenia przez igłę o określonej średnicy 62,00 6 Oznaczanie średniej zawartości w opakowaniu (wagowo) 62,00 7 Oznaczanie średniej zawartości i jej rozrzutu: a) w ampułkach fiolkach i flakonach z płynem 190,00 b) w fiolkach i kapsułkach z substancją stałą lub oleistą 380,00 c) w systemach przezskórnych 380,00 d) w aerozolach 750,00 e) w saszetkach z ziołami do zaparzania 190,00 8 Oznaczanie średniej zawartości maści w opakowaniu z wypłukaniem i ważeniem 320,00 9 Oznaczanie średniej masy tabletek, drażetek, kapsułek i innych postaci dozowanych: a) średnia masa 62,00 b) badanie jednolitości masy 126,00 10 Oznaczenie średniej masy rdzenia tabletek powlekanych po usunięciu powłoki z 20 jednostek 190,00 11 Badanie wymiarów 62,00 12 Badanie wytrzymałości tabletek 62,00 13 Badanie ścieralności tabletek 62,00 14 Badanie czasu rozpadu tabletek, drażetek, kapsułek itp.: a) w roztworze pojedynczym 126,00 b) w różnych roztworach 190,00 15 Frakcyjne uwalnianie substancji czynnej z postaci leku: a) uzyskanie pierwszej frakcji (dla 6 próbek) 190,00 b) uzyskanie każdej następnej frakcji po wyodrębnieniu 126,00 c) frakcje uzyskane po czasie 12 h 280,00 d) oznaczenie ilościowe dla każdej z 6 próbek wg cennika, oznaczanie 12 lub 24 próbek z 25% upustem e) przygotowanie medium niezbuforowanego 190,00 f) przygotowanie medium zbuforowanego 315,00 16 Obliczenie wartości AV 126,00 17 Oznaczanie zdolności pęcznienia 126,00 18 Oznaczanie zdolności tworzenia piany (półilościowe) 126,00 19 Oznaczanie konsystencji penetrometrem 190,00 20 Oznaczanie czasu topnienia, rozpuszczenia bądź całkowitej deformacji czopków 126,00 21 Oznaczenie stopnia rozdrobnienia postaci stałych leku (analiza sitowa, za 1 sito) 62,00 22 Badanie czasu rozpuszczania preparatów iniekcyjnych 62,00 23 Ocena właściwości organoleptycznych 62,00 24 Jednolitość zawartości – zgodnie z cennikiem obowiązuje upust 25% III. Sprawdzenie tożsamości i zawartości 1 Chemiczna próba tożsamości 126,00 2 Oznaczenie temperatury topnienia lub krzepnięcia z wzorcem lub temperatury kropienia 126,00 3 Oznaczenie temperatury wrzenia metodą destylacji 250,00 4 Oznaczenie gęstości: a) wagą Mohra 190,00 b) piknometrem, wprost 190,00 c) aerometrem 62,00 5 Sprawdzenie rozpuszczalności w jednym rozpuszczalniku z określeniem proporcji 62,00 6 Chromatografia bibułowa: a) wykonanie oznaczenia 380,00 b) autoradiografia z interpretacją i obliczeniem 320,00 c) elektroforeza bibułowa 320,00 7 Chromatografia TLC (nałożenie, wywołanie, rozwinięcie, interpretacja): a) chromatografia jednokierunkowa: – identyfikacja 1 związku 315,00 – identyfikacja kolejnego związku 126,00 – badanie czystości związku 380,00 b) chromatografia wielokierunkowa/wielostopniowa 560,00 c) dodatkowe przygotowanie płytek 62,00 d) autoradiografia z interpretacją i obliczeniem 500,00 8 Badanie właściwości precypitacyjnych (pełne badanie) 126,00 IV. Sprawdzenie czystości 1 Określenie zabarwienia w porównaniu z wzorcem: a) wzorzec gotowy 190,00 b) z przygotowaniem wzorca 280,00 2 Określenie zmętnienia lub zanieczyszczeń nierozpuszczalnych w płynach 190,00 3 Określenie zanieczyszczeń kationami i anionami w porównaniu z wzorcem: a) azotanami 190,00 b) chlorkami 440,00 c) siarczanami 440,00 d) solami amonowymi 440,00 e) arsenem: – bezpośrednio 500,00 – po mineralizacji 1 008,00 f) borem 190,00 g) magnezem 380,00 h) potasem 320,00 i) wapniem 190,00 j) solami żelaza 440,00 k) metalami ciężkimi (wg FP): – metoda I 440,00 – metoda II 700,00 – metoda III 760,00 4 Strata masy po suszeniu 190,00 5 Sucha pozostałość 190,00 6 Popiół zwykły lub siarczanowy: a) półilościowo 190,00 b) ilościowo 380,00 7 Popiół nierozpuszczalny w HC1 380,00 8 Oznaczenie kropienia 126,00 9 Badanie tłuszczów na zjełczenie 126,00 V. Badania tożsamości, czystości i zawartości substancji czynnych 1 Pomiar współczynnika refrakcji 126,00 2 Badanie polarymetryczne: a) pomiar kąta skręcenia 126,00 b) skręcalność właściwa lub polarymetryczne oznaczenie zawartości (całość oznaczenia) 440,00 3 Pomiar pH: a) prosty 62,00 b) z doprowadzeniem do określonej wartości 190,00 4 Pomiar lepkości (jedno oznaczenie w jednej temperaturze) 126,00 pomiar lepkości z ustaleniem warunków badania 630,00 5 Elektroforeza żelowa: a) wylanie żelu rozdzielającego (cena łącznie z przygotowaniem odczynników): – izokratycznego 700,00 – gradientowego 820,00 – dodatkowe wylanie żelu rozbiegowego 500,00 b) rozdział elektroforetyczny: – denaturacja I redukcja próbki lub wzorca 250,00 – przygotowanie żelu do rozdziału 250,00 – wykonanie rozdziału: – elektroforeza niskonapięciowa 390,00 – elektroforeza wysokonapięciowa 650,00 c) barwienie: – odczynnikiem srebrowym 390,00 – odczynnikiem z błękitem Coomasie 250,00 – utrwalanie prążków i odbarwianie tła 250,00 – utrwalanie żelu i suszenie 190,00 – opracowanie wyników 126,00 6 Elektroforeza kapilarna CE: a) przygotowanie kapilary do oznaczeń 126,00 b) sączenie i odgazowanie buforu rozdzielającego 126,00 c) rozdział elektroforetyczny jednej substancji: – związki o krótkim czasie migracji 320,00 – związki o długim czasie migracji 630,00 d) opracowanie nowego układu elektroforetycznego 1 865,00 e) opracowanie wyników 126,00 7 Chromatografia kolumnowa: a) chromatografia prosta 190,00 b) chromatografia z odbiorem frakcji 320,00 c) dodatkowe przygotowanie kolumny 126,00 8 Chromatografia gazowa GC: a) przygotowanie kolumny: – wypełnienie i kondycjonowanie nowej kolumny 1 320,00 – rekondycjonowanie kolumny 250,00 – oznaczenie rozdzielności układu 550,00 b) wykonanie oznaczeniajakościowego: – związku o krótkim czasie retencji (do 31 min.) 190,00 – substancji o długim czasie retencji 320,00 c) wykonanie oznaczenia ilościowego: – substancji o krótkim czasie retencji (do 31 min.) 380,00 – substancji o długim czasie retencji 700,00 d) obliczenie i interpretacja wyników 126,00 9 Chromatografia HPLC: a) przygotowanie kolumn do oznaczeń: – w układzie izokratycznym 1 015,00 – w układzie gradientowym 1 280,00 b) wykonanie rozdziału chromatograficznego: – oznaczenie jakościowe 390,00 – wykonanie oznaczenia ilościowego 630,00 – wykonanie oznaczenia ilościowego w układzie gradientowym 1 700,00 – analiza o czasie retencji powyżej 31 min. 310,00 c) obliczanie wyników i ich interpretacja (dla 1 składnika/zanieczyszczenia) 126,00 d) określenie rozdzielczości układu chromatograficznego 570,00 10 Badanie spektrofotometryczne i spektrofluorymetryczne: a) pomiar absorpcji przy jednej długości fali lub rejestracja widma 126,00 b) badanie w podczerwieni: – rejestracja widma w podczerwieni 250,00 – wykonanie badania techniką w bromku potasu 494,00 – wykonanie badania techniką w nujolu w roztworze lub bezpośrednio między płytkami 380,00 c) opracowanie wyników 126,00 11 Oznaczanie metodą miareczkową: a) z odczytem wizualnym 126,00 b) z odczytem elektrometrycznym 190,00 c) miareczkowanie w środowisku niewodnym zwykłe 315,00 d) miareczkowanie w środowisku niewodnym potencjometryczne (pełne oznaczenie) 500,00 e) opracowanie wyników 62,00 12 Badanie metodą ASA: a) oznaczenie ilościowe 1 pierwiastka 1 470,00 b) oznaczenie ilościowe metodą ICP-MS: – przygotowanie krzywej wzorcowej dla jednego poziomu stężeń 1 054,00 – oznaczenie dla jednego poziomu stężeń 126,00 c) opracowanie wyników dla 1 pierwiastka 126,00 d) skanowanie widma mas 126,00 13 Oznaczenie przewodności elektrycznej właściwej (5 pomiarów) 246,00 14 Pomiar osmolalności 126,00 15 Oznaczanie przy użyciu elektrody jonoselektywnej: a) wyznaczenie krzywej wzorcowej (3 punkty) 1 417,00 b) oznaczenie 1 próbki 348,00 16 Pomiar fotometryczny 190,00 17 Oznaczenie polarograficzne: a) metoda dodania wzorca – jednooznaczenie 434,00 b) metoda krzywej wzorcowej + 3 próbki 1 420,00 18 Oznaczenie densytometryczne – wykreślenie widma w jednym zakresie (UV lub VIS) z interpretacją: a) wykreślenie widma dla 1 składnika 62,00 b) wykreślenie widma różnicowego 126,00 c) skanowanie próbki badanej lub wzorca 126,00 d) interpretacja densytogramu i obliczenie wyniku dla 1 składnika 126,00 19 Pomiar radioaktywności produktów radioizotopowych: a) pomiar niemetrologiczny promieniowania gamma 19,00 b) pomiar niemetrologiczny promieniowania beta w kierunku ciekło-scyntylacyjnym 56,00 c) pomiar niemetrologiczny promieniowania gamma w komorze jonizacyjnej 169,00 d) badanie tożsamości radionuklidu: – oznaczenie przybliżonego okresu półtrwania 225,00 – rejestracja widma promieniowania gamma z interpretacją 300,00 20 Badanie preparatu w mikroskopie skanningowym: a) wykonanie badania 440,00 b) wykonanie jednego zdjęcia 62,00 21 Badanie metodą spektrometrii mas: wyznaczenie dokładnej masy pojedynczego związku z potwierdzeniem składu elementarnego przy zastosowaniu jedynego źródła jonizacji: a) MS; MS/MS: – w jednym trybie jonizacji 282,00 – w dwóch trybach jonizacji 423,00 b) HPLC-MS; HPLC-MS/MS: – w jednym trybie jonizacji 470,00 – w dwóch trybach jonizacji 705,00 c) GC-MS 470,00 d) interpretacja widma pojedynczego składnika: – potwierdzenie tożsamości 190,00 – identyfikacja 705,00 22 Badania metodą NMR: a) wykonanie podstawowego widma 1H NMR (za pierwszą godzinę pracy operatora na systemie INOVA 500): 868,00 – cena każdej następnej godziny pracy 434,00 -cena pierwszej godziny pracy w badaniach specjalnych (13-C, 15-N, 19-F, 17–0, 31-P, widma 2D COSY, NOESY, PFG-l-H, widma temperaturowe i inne) 1 284,00 – cena każdej następnej godziny pracy w badaniach specjalnych 434,00 b) interpretacja widma 1 240,00 23 Badania spektrofluorymetryczne przy użyciu cytometru przepływowego: a) oznaczanie zawartości DNA i białka, przy wzbudzeniu fluorochromów w świetle UV (za każdą próbę) 190,00 b) oznaczanie zawartości innych składników komórkowych za każdy składnik i próbę 126,00 c) oznaczanie ilościowe subfrakcji limfocytów we krwi ludzkiej standardowym panelem przeciwciał f-my Becton-Dickinson 500,00 d) pomiar zawartości w komórce dowolnego fluorochromu w świetle widzialnym 62,00 e) sortowanie komórek, za każdą godzinę pracy cytometru 500,00 f) badanie przeżywalności komórek lub apoptozy w hodowli metodami cytometrii przepływowej (jedna linia komórkowa, jeden czas działania, jedno stężenie substancji cytotoksycznej + hodowla kontrolna) 5 600,00 g) za każdy dodatkowy czas działania lub stężenia substancji cytotoksycznej 376,00 24 Izolacja genu metodą PCR: a) izolacja DNA 1 440,00 b) oznaczenie czystości DNA 320,00 c) amplifikacja 1 genu 1 440,00 d) elektroforeza amplifikatu 250,00 e) analiza obrazu żelu z korektą tła 126,00 f) analiza densytometryczna amplifikatu 250,00 g) analiza wielkości amplifikatu 250,00 25 Badania metodą laserownej, skaningowej mikroskopii konfokalnej: a) przygotowanie próbki do pomiaru 240,00 b) analiza obrazu żelu z korektą tła 357,00 c) wykonanie badania przy użyciu lasera UV (cena za godzinę pracy systemu) 552,00 d) wykonanie badania przy użyciu lasera Ar (cena za godzinę pracy systemu) 494,00 e) wykonanie badania przy użyciu lasera He-Ne (cena za godzinę pracy systemu) 357,00 f) wykonanie jednego zdjęcia 62,00 g) badanie kształtów w świetle przejściowym z użyciem lasera Ar 808,00 26 Rentgenowska analiza fazowa: a) przygotowanie próbek do analizy (sproszkowanie, umieszczenie w ramce lub kapilarze) 62,00 b) rejestracja dyfraktogramu dla próbek proszkowych o masie 10–50 mg 620,00 c) rejestracja dyfraktometru dla próbek proszkowych o masie powyżej 1 g 808,00 d) rejestracja dyfraktogramów serii preparatów o zbliżonym składzie (powyżej 3) o masie 10–50 mg – próbka druga i kolejne 376,00 e) rejestracja dyfraktogramów serii preparatów o zbliżonym składzie (powyżej 3) o masie powyżej 1 g- próbka druga i kolejne 376,00 f) identyfikacja składu fazowego próbek wieloskładnikowych na podstawie zarejestrowanych dyfraktogramów 246,00 g) rejestracja przejść fazowych w zakresie: – 190°C do + 450°C wraz z interpretacją 1 363,00 27 Oznaczenie zawartości etanolu/olejków 494,00 VI. Farmakologiczne badania aktywności biologicznej i nieszkodliwości 1 Badanie nieszkodliwości preparatów do wstrzyknięć: a) na myszach 250,00 b) na szczurach 250,00 c) na świnkach morskich 190,00 d) na królikach 126,00 2 Badanie nieszkodliwości preparatów podawanych dożołądkowo na: a) myszach 190,00 b) szczurach 190,00 c) świnkach morskich 190,00 3 Badanie toksyczności (LD50): a) bez wzorca 3 220,00 b) z wzorcem 5 100,00 4 Badanie działania cytotoksycznego (LD50) na hodowlach komórkowych 3 020,00 5 Badanie wpływu na żywotność plemników 250,00 6 Badanie toksyczności wzmożonej na rybach Lebistes reticulatus 250,00 7 Badanie obecności substancji gorączkotwórczych na królikach: a) preparatów o właściwościach antygenowych 1 008,00 b) pozostałych 500,00 8 Badanie preparatów iniekcyjnych na krążenie krwi i oddech: a) na królikach 1 580,00 b) na kotach 760,00 c) na gołębiach 5 600,00 9 Badanie obecności endotoksyn bakteryjnych w preparatach iniekcyjnych (całość badania) 1 008,00 10 Badanie preparatów na obecność ciał histaminopodobnych 880,00 11 Mianowanie zawartości histaminy w preparatach iniekcyjnych in vivo 1 760,00 12 Badanie aktywności oksytocyny metodą pomiaru ciśnienia krwi u kogutów 5 980,00 13 Badanie działania presyjnego preparatów na szczurach: a) badanie jakościowe 1 260,00 b) badanie ilościowe 5 980,00 14 Badanie aktywności biologicznej produktów leczniczych wpływających na krzepnięcie krwi: a) metodą graficzną 1 760,00 b) metodą 3 × 3 2 080,00 c) metodą biochemiczną 4 540,00 15 Badanie agregacji płytek krwi pod wpływem materiałów medycznych 1 640,00 16 Badanie adhezji składników krwi na powierzchni tworzyw sztucznych 1 640,00 17 Badanie właściwości trombogennych tworzyw sztucznych w krążeniu pozaustrojowym 1 640,00 18 Badanie właściwości antygenowych preparatów do wstrzyknięć: a) jednorazowe 320,00 b) wielokrotne 1 008,00 19 Badanie działania uczulającego – podanie naskóme 4 050,00 20 Badanie preparatów zwiększających wydzielanie soku trzustkowego (całość badania) 7 275,00 21 Badanie działania miejscowo-drażniącego na królikach: a) podanie do worka spojówkowego: -jednorazowe 250,00 – wielokrotne 630,00 b) podanie śródskórne 2 460,00 c) podanie naskórne: -jednokrotne 2 460,00 – wielokrotne 4 440,00 22 Badanie na królikach działania hipoglikemicznego preparatów o przedłużonym działaniu n=6, met. 1+1 6 090,00 23 Badanie aktywności biologicznej insuliny na myszach wg Ph. E. met. C 7 256,00 24 Badanie działania gonadotropowego na szczurach: a) 3+3 dawki n > 6, 1 × dz. 6 220,00 b) 3+3 dawki n > 6, 2 × dz. 7 256,00 25 Badanie aktywności erytropoetyny wg Ph. E. met. B 7 256,00 26 Badanie rozmieszczenia fizjologicznego preparatów radioizotopowych (1 dawka/1 czas/3 zwierzęta): a) oznaczenie wychwytu radionuklidu: – w jednej tkance 1 109,00 – w każdej kolejnej tkance 190,00 b) dystrybucja cząstkowa: – w 7 tkankach 2 425,00 – w każdej kolejnej tkance 282,00 27 Oznaczenie kinetyki zmian względnej zawartości radionuklidu w określonych tkankach zwierząt (1 dawka/ 3 czasy / 9 zwierząt): a) w jednej tkance 2 914,00 b) w każdej kolejnej tkance (do 6) 564,00 c) w każdej kolejnej tkance (ponad 6) 752,00 28 Wykonanie scyntygramu rozkładu radioaktywności w ciele zwierząt z użyciem aparatu do gam-magrafii 470,00 29 Badanie działania hemolitycznego wyciągów z tworzyw sztucznych 620,00 30 Badanie działania hemolizującego materiałów medycznych metodą bezpośrednią 752,00 31 Test hemaglutynacji czynnej – miano przeciwciał anty SRBC 2 020,00 32 Test rozetkowy 3 150,00 33 Badanie przeżywalności tymocytów myszy w hodowlach z hydrokortyzonem 2 710,00 34 Oznaczenie obecności przeciwciał przeciwko HIV I/HIV II 1 070,00 35 Oznaczenie obecności antygenu HBS 760,00 36 Badanie aktywności p-wirusowej interferonów 9 140,00 37 Badanie aktywności biologicznej czynników wzrostu 9 140,00 38 Liczenie komórek z użyciem aparatu Coultera 808,00 39 Badanie mutagenności testem Amesa, 3 stężenia na 4 szczepach: a) bez aktywacji metabolicznej 16 976,00 b) z aktywacją metaboliczną 20 530,00 40 Badania genotoksyczności testem mikrojądrowym in vitro, 3 stężenia, 1 linia komórkowa: a) bez aktywacji metabolicznej 17 108,00 b) z aktywacją metaboliczną 20 530,00 41 Wykrywanie obecności bakterii Mycoplasma sp. z zastosowaniem metody PCR 1 085,00 VII. Mikrobiologiczne badania jałowości, czystości i zawartości substancji czynnych 1 Oznaczenie ilościowe antybiotyku metodą dyfuzyjną w preparacie prostym 1 140,00 2 Oznaczenie ilościowe jednego antybiotyku w preparacie złożonym: a) mikrobiologiczną metodą dyfuzyjną 1 260,00 b) mikrobiologiczną metodą turbidymetryczną 1 830,00 c) obliczenia i interpretacja wyników 126,00 3 Przygotowanie 1 podłoża ze sterylizacją: a) złożenie podłoża 630,00 b) przygotowanie z gotowego kitu 320,00 4 Mikrobiologiczne oznaczenie ilościowe metodą probówkową lub płytkową jednej witaminy 1 200,00 5 Badanie zahamowania stref wzrostu bakterii z przygotowaniem szczepów i podłoży 880,00 6 Przygotowanie szczepu testowego do oznaczeń 62,00 7 Badanie aktywności przeciwbakteryjnej: a) badanie wrażliwości bakterii (MIC) dla 1 antybiotyku na 1–10 szczepów na podłożu płynnym 820,00 b) badanie wrażliwości bakterii (MIC) dla 1 antybiotyku na 1–10 szczepów na podłożu agarowym 760,00 c) badanie działania bakteriobójczego (MBC) dla 1 antybiotyku dla 1–5 szczepów 1 260,00 8 Badanie skuteczności ochrony przeciwdrobnoustrojowej metodą posiewu bezpośredniego (test konserwacji): a) preparaty parentalne, do oczu, do stosowania zewnętrznego miejscowo 2 900,00 b) preparaty doustne 3 466,00 c) preparaty doustne z dużą zawartością cukru 4 030,00 d) zastosowanie metody filtracyjnej 752,00 9 Badanie żywotności kultur bakteryjnych 553,00 10 Badanie homogenności kultur bakteryjnych 553,00 11 Badanie jałowości preparatów iniekcyjnych metodą posiewu bezpośredniego: a) preparatów „zimnych” 620,00 b) preparatów radioizotopowych 730,00 12 Badanie jałowości preparatów iniekcyjnych zawierających antybiotyki metodą rozcieńczeń 560,00 13 Badanie jałowości metodą filtrów membranowych: a) badanie maści, emulsji, preparatów z antybiotykiem lub środkiem konserwującym 928,00 b) badanie innych preparatów 808,00 14 Badanie jałowości płynów (>100 ml) w układzie zamkniętnym 996,00 15 Oznaczanie czystości mikrobiologicznej preparatów doustnych i zewnętrznych metodą filtrów membranowych z przygotowaniem podłóż 2 500,00 16 Identyfikacja bakterii lub grzybów (jeden izolat) 390,00 17 Oznaczenie czystości mikrobiologicznej preparatów doustnych i zewnętrznych metodą posiewu bezpośredniego z przygotowaniem podłóż – badanie obecności bakterii beztlenowych 2 790,00 18 Oznaczanie przepuszczalności dla bakterii materiałów do opakowań 940,00 VIII. Badanie surowców roślinnych i mieszanek ziołowych 1 Sprawdzenie tożsamości surowca roślinnego farmakopealnego: a) badanie makroskopowe 62,00 b) badanie mikroskopowe 126,00 2 Sprawdzenie tożsamości surowca roślinnego farmakopealnego w mieszance ziołowej: a) za pierwszy składnik 126,00 b) za każdy następny składnik 62,00 3 Określenie ilościowe składników mieszanki ziołowej 372,00 4 Oznaczenie ilościowe metodą morfologiczną jednego składnika w mieszance 2 lub 3 surowców pociętych: a) proste 126,00 b) złożone 250,00 5 Oznaczenie stopnia rozdrobnienia i rozkruszu 190,00 6 Oznaczenie zanieczyszczeń szkodnikami żywymi i martwymi 126,00 7 Oznaczenie zanieczyszczeń mineralnych 126,00 8 Oznaczenie zanieczyszczeń fragmentami roślin szkodliwych 62,00 9 Oznaczenie zanieczyszczeń innymi częściami roślinnymi 126,00 10 Oznaczenie zanieczyszczeń organicznych 126,00 11 Oznaczenie zawartości surowca o niewłaściwych cechach 126,00
 

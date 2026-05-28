@@ -8,10 +8,10 @@ pos: 1977
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# 11997777 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA dnia 20 września 2022 r.
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 20 września 2022 r. w sprawie wzoru wniosku o wypłatę i wzoru wniosku o rozliczenie rekompensaty przysługującej przedsiębiorstwom energetycznym stosującym średnią cenę wytwarzania ciepła z rekompensatą
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,33 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2022-09-20 |
 | Data wydania | 2022-09-20 |
+| Wejście w życie | 2022-09-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001977) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1977/text.pdf) |
 
-sprawie wzoru wniosku wypłatę wzoru wniosku rozliczenie rekompensaty przysługującej przedsiębiorstwom energetycznym stosującym średnią cenę wytwarzania ciepła rekompensatą Na podstawie art. 16 ustawy dnia 15 września 2022 r. szczególnych rozwiązaniach zakresie niektórych źródeł ciepła związku sytuacją na rynku paliw (Dz. U. poz. 1967) zarządza się, co następuje: § 1. Rozporządzenie określa wzór wniosku o:
-1) wypłatę rekompensaty przysługującej przedsiębiorstwom energetycznym stosującym średnią cenę wytwarzania ciepła rekompensatą, której mowa art. 12 ust. 1 ustawy dnia 15 września 2022 r. szczególnych rozwiązaniach zakresie niektórych źródeł ciepła związku sytuacją na rynku paliw, zwanej dalej „rekompensatą”, który stanowi załącznik nr 1 do rozporządzenia;
-2) rozliczenie rekompensaty, który stanowi załącznik nr 2 do rozporządzenia.
-§ 2. Rozporządzenie wchodzi życie dniem następującym po dniu ogłoszenia.
-Minister Klimatu Środowiska: A. Moskwa M W W W M W W M
+Treść rozporządzenia
+
+## Załącznik nr 1 — – Wniosek o wypłatę rekompensaty (wzór)
+
+## Załącznik nr 2 — – Wniosek o rozliczenie rekompensaty (wzór)
+
+Treść rozporządzenia
+Na podstawie art. 16 ustawy z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw (Dz. U. poz. 1967) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa wzór wniosku o:
+1)
+wypłatę rekompensaty przysługującej przedsiębiorstwom energetycznym stosującym średnią cenę wytwarzania ciepła z rekompensatą, o której mowa w art. 12 ust. 1 ustawy z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw, zwanej dalej „rekompensatą”, który stanowi załącznik nr 1 do rozporządzenia;
+2)
+rozliczenie rekompensaty, który stanowi załącznik nr 2 do rozporządzenia.
+§ 2.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
+
+## Załącznik nr 1 — – Wniosek o wypłatę rekompensaty (wzór)
+
+patrz oryginał
+
+## Załącznik nr 2 — – Wniosek o rozliczenie rekompensaty (wzór)
+
+patrz oryginał
 

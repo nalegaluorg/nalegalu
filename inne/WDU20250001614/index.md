@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy Prawo o ustroju sądów wojskowych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 listopada 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 listopada 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-11-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001614) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1614/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 listopada 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy Prawo o ustroju sądów wojskowych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 21 sierpnia 1997 r. Prawo o ustroju sądów wojskowych (Dz. U. z 2022 r. poz. 2250), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 6 marca 2025 r. o zmianie ustawy Prawo o ustroju sądów powszechnych oraz ustawy Prawo o ustroju sądów wojskowych (Dz. U. poz. 526) oraz zmian wynikających z przepisów ogłoszonych przed dniem 5 listopada 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 3–5 ustawy z dnia 6 marca 2025 r. o zmianie ustawy Prawo o ustroju sądów powszechnych oraz ustawy Prawo o ustroju sądów wojskowych (Dz. U.
 poz. 526), które stanowią: „Art. 3. Delegowanie sędziego do pełnienia obowiązków sędziego w innym sądzie dokonane przed dniem wejścia w życie niniejszej ustawy pozostaje w mocy.
@@ -161,6 +161,9 @@ Art. 65–69. (pominięte)
 
 **Art. 10a.** Organami sądów wojskowych są:
 
+- **1)** w wojskowych sądach okręgowych prezes sądu oraz kolegium wojskowego sądu okręgowego;
+- **2)** w wojskowych sądach garnizonowych prezes sądu.
+
 **Art. 11.**
 
 1. Prezes wojskowego sądu okręgowego i prezes wojskowego sądu garnizonowego, zwani dalej „prezesami sądów wojskowych”, kierują działalnością sądu oraz są przełożonymi sędziów i pozostałego składu osobowego danego sądu.
@@ -180,7 +183,7 @@ Art. 65–69. (pominięte)
 
 6. Odwołanie prezesa sądu wojskowego albo jego zastępcy następuje po zasięgnięciu opinii Krajowej Rady Sądownictwa. Zamiar odwołania, wraz z pisemnym uzasadnieniem, Minister Sprawiedliwości w porozumieniu z Ministrem Obrony Narodowej przedstawia Krajowej Radzie Sądownictwa w celu uzyskania opinii.
 
-6a. Występując o opinię do Krajowej Rady Sądownictwa Minister Sprawiedliwości w porozumieniu z Ministrem Obrony Narodowej może zawiesić prezesa sądu wojskowego albo jego zastępcę w pełnieniu czynności. Przepis art. 22b 2 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych stosuje się odpowiednio.
+6a. Występując o opinię do Krajowej Rady Sądownictwa Minister Sprawiedliwości w porozumieniu z Ministrem Obrony Narodowej może zawiesić prezesa sądu wojskowego albo jego zastępcę w pełnieniu czynności. Przepis art. 22b 2 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych stosuje się odpowiednio. Sprawiedliwości wiążąca, jeżeli uchwała w tej sprawie została podjęta większością dwóch trzecich głosów.
 
 7. Niewydanie opinii przez Krajową Radę Sądownictwa w terminie 30 dni od dnia przedstawienia przez Ministra Sprawiedliwości w porozumieniu z Ministrem Obrony Narodowej zamiaru odwołania prezesa sądu wojskowego albo jego zastępcy nie stoi na przeszkodzie odwołaniu.
 
@@ -229,7 +232,7 @@ Art. 65–69. (pominięte)
 
 1. Prezesi sądów wojskowych wykonują czynności nadzoru służbowego i administracji sądowej przewidziane w przepisach postępowania sądowego oraz w regulaminach urzędowania, a także inne czynności określone w ustawach i odrębnych przepisach.
 
-2. W zakresie, o którym mowa w 1, prezesi wojskowych sądów garnizonowych podlegają prezesom właściwych wojskowych sądów okręgowych, a prezesi tych sądów Ministrowi Sprawiedliwości.
+2. W zakresie, o którym mowa w 1, prezesi wojskowych sądów garnizonowych podlegają prezesom właściwych wojskowych sądów okręgowych, a prezesi tych sądów Ministrowi Sprawiedliwości. swoim zastępcom, a w szczególnych przypadkach sędziom.
 
 4. Prezes sądu wojskowego wyznacza sędziego do sprawowania nadzoru penitencjarnego.
 
@@ -412,6 +415,33 @@ Art. 65–69. (pominięte)
 
 **Art. 27.** Minister Obrony Narodowej w porozumieniu z Ministrem Sprawiedliwości może powierzyć czasowe pełnienie czynności sędziowskich oficerowi rezerwy powołanemu na ćwiczenia wojskowe, który jest sędzią sądu powszechnego. majątkowym dotyczy majątku osobistego oraz objętego małżeńską wspólnością majątkową. Oświadczenie to powinno zawierać w szczególności informacje o:
 
+- **1)** posiadanych zasobach pieniężnych;
+- **2)** posiadanych nieruchomościach i tytułach prawnych do ich posiadania;
+- **3)** posiadanych rzeczach ruchomych o wartości jednostkowej powyżej 10.000 zł;
+- **4)** posiadanych udziałach i akcjach w spółkach prawa handlowego;
+- **5)** posiadanych instrumentach finansowych w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722, z późn. zm. ) innych niż wskazane w pkt 4;
+- **6)** dochodach podlegających opodatkowaniu podatkiem dochodowym od osób fizycznych, uzyskanych w okresie roku przed dniem, na który składane jest oświadczenie, o ile ich łączna wartość przekracza 10.000 zł, i ich źródłach, z wyłączeniem dochodów uzyskanych w związku z pełnieniem urzędu na stanowisku sędziowskim;
+- **7)** nabytym przez składającego oświadczenie albo jego małżonka od Skarbu Państwa, innej państwowej osoby prawnej, jednostek samorządu terytorialnego, ich związków lub samorządowej osoby prawnej, mieniu, które podlegało zbyciu w drodze przetargu;
+- **8)** wierzytelnościach i zobowiązaniach pieniężnych o wartości powyżej 10.000 zł.
+
+1a. Oświadczenie, o którym mowa w 1, składa się w dwóch egzemplarzach.
+
+2. Oświadczenia, o których mowa w 1, sędziowie składają prezesowi właściwego wojskowego sądu okręgowego, który dokonuje analizy zawartych w nich danych.
+
+3. Prezesi wojskowych sądów okręgowych składają oświadczenie, o którym mowa w 1, Krajowej Radzie Sądownictwa, która dokonuje analizy danych w nim zawartych.
+
+4. Oświadczenie, o którym mowa w 1, składa się w terminie 30 dni od dnia objęcia urzędu sędziego, według stanu na dzień objęcia urzędu, a następnie co roku do dnia 30 kwietnia, według stanu na dzień 31 grudnia roku poprzedniego, a także w terminie 30 dni od dnia opuszczenia urzędu sędziego, według stanu na dzień opuszczenia urzędu.
+
+4a. Oświadczenie składane w związku z objęciem urzędu sędziego nie zawiera informacji, o których mowa w 1 pkt 6. Oświadczenie składane w związku z opuszczeniem urzędu sędziego zawiera informacje, o których mowa w 1 pkt 6, za okres od dnia 1 stycznia roku opuszczenia urzędu do dnia opuszczenia urzędu.
+
+5. Informacje zawarte w oświadczeniu, o którym mowa w 1, są jawne, także co do imienia i nazwiska, z wyjątkiem danych adresowych, informacji o miejscu położenia nieruchomości, a także informacji umożliwiających identyfikację ruchomości sędziego. Na wniosek sędziego, który złożył oświadczenie, podmiot uprawniony do odebrania oświadczenia może zdecydować o objęciu informacji zawartych w oświadczeniu ochroną przewidzianą dla informacji niejawnych o klauzuli tajności „zastrzeżone”, określoną w przepisach ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2025 r. poz. 1209), jeżeli ujawnienie tych informacji mogłoby powodować zagrożenie dla sędziego lub osób dla niego najbliższych. Minister Sprawiedliwości jest uprawniony do zniesienia tej klauzuli. W stosunku do tego uprawnienia przepisu art. 6 ust. 3 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych nie stosuje się.
+
+5a. Jawne informacje zawarte w oświadczeniach o stanie majątkowym podmiot uprawniony do odebrania oświadczenia udostępnia w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902), nie później niż do dnia 30 czerwca każdego roku.
+
+5b. Oświadczenie, o którym mowa w 1, przechowuje się przez 6 lat.
+
+6. Jeden egzemplarz oświadczenia o stanie majątkowym podmiot uprawniony do odebrania oświadczenia przekazuje do urzędu skarbowego właściwego ze względu na miejsce zamieszkania sędziego. Właściwy urząd skarbowy jest uprawniony do analizy danych zawartych w oświadczeniu, w tym również do porównania jego treści z treścią uprzednio złożonych oświadczeń oraz rocznych zeznań podatkowych (PIT). Jeżeli wynik analizy budzi uzasadnione wątpliwości co do legalności pochodzenia majątku ujawnionego w oświadczeniu, urząd skarbowy kieruje sprawę do właściwego postępowania, prowadzonego na podstawie odrębnych przepisów. oświadczenia. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu uprawnionego do odebrania oświadczenia o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
+
 **Art. 29.** Do złożenia oświadczenia, o którym mowa w art. 28, stosuje się odpowiednio formularz, którego wzór określony jest w przepisach wykonawczych wydanych na podstawie art. 88 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych.
 
 **Art. 30.**
@@ -446,7 +476,7 @@ Art. 65–69. (pominięte)
 
 6. (uchylony)
 
-7. (uchylony)
+8. (uchylony)
 
 9. (uchylony)
 
@@ -756,7 +786,7 @@ Art. 65–69. (pominięte)
 - **2)** zachowania godzącego w powagę sądu;
 - **3)** utraty warunków, o których mowa w art. 55 1 pkt 2.
 
-2. Zebranie żołnierzy, o którym mowa w 1, może odwołać ławnika z własnej inicjatywy lub na wniosek prezesa właściwego sądu wojskowego.
+2. Zebranie żołnierzy, o którym mowa w 1, może odwołać ławnika z własnej inicjatywy lub na wniosek prezesa właściwego sądu wojskowego. ławnika.
 
 2. Dodatkowe wybory ławników zarządza prezes właściwego sądu wojskowego.
 
@@ -790,7 +820,7 @@ Art. 65–69. (pominięte)
 - **2)** uprawnienia określone w art. 92 1 powołanej ustawy przysługują, jeżeli sędzia wojskowy nie nabył wcześniej prawa do urlopu dodatkowego określonego w przepisach ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny;
 - **3)** oceny pracy sędziów sądów wojskowych dokonują sędziowie wizytatorzy, powoływani przez Ministra Sprawiedliwości spośród sędziów wojskowego sądu okręgowego, po zasięgnięciu opinii kolegium wojskowego sądu okręgowego; negatywna opinia kolegium jest dla Ministra Sprawiedliwości wiążąca; kandydatów do sprawowania funkcji wizytatora zgłasza prezes wojskowego sądu okręgowego;
 - **4)** przepisów art. 131 powołanej ustawy nie stosuje się w przypadkach określonych w art. 15 niniejszej ustawy;
-- **5)** uprawnienia określone w art. 172–174 powołanej ustawy przysługują w przypadku określonym w art. 61 niniejszej ustawy;
+- **5)** uprawnienia określone w art. 172–174 powołanej ustawy przysługują w przypadku określonym w art. 61 niniejszej ustawy; wojskowej;
 - **7)** obsada wolnych stanowisk sędziowskich, o których mowa w art. 20a 1–2a powołanej ustawy, następuje z uwzględnieniem potrzeb kadrowych sądownictwa wojskowego;
 - **8)** zgłoszenia kandydatury na wolne stanowisko sędziowskie dokonuje się poprzez złożenie karty zgłoszenia w dwóch egzemplarzach; nie ma zastosowania system teleinformatyczny obsługujący postępowanie w sprawie powołania do pełnienia urzędu na stanowisku sędziego sądu powszechnego.
 

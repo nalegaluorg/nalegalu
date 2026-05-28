@@ -8,10 +8,10 @@ pos: 484
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy o Krajowej Radzie Sądownictwa oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 16 marca 2007 r. o zmianie ustawy o Krajowej Radzie Sądownictwa oraz o zmianie niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -22,26 +22,66 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2007-03-16 |
 | Data wydania | 2007-04-25 |
+| Wejście w życie | 2007-05-10 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070730484) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/484/text.pdf) |
 
-**Art. 1.** ustawie dnia 27 lipca 2001 o Krajowej Radzie Sądownictwa (Dz. U. 100, 1082, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 lipca 2001 r. o Krajowej Radzie Sądownictwa (Dz. U. Nr 100, poz. 1082, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 2.** ustawie dnia 27 lipca 2001 – Prawo o ustroju sądów powszechnych (Dz. U. 98, 1070, późn. zm. ) wprowadza się następujące zmiany:
+- **1)** w art. 2: w ust. 1: – zdanie wstępne otrzymuje brzmienie: „ Rada wykonuje zadania określone w ustawach, a w szczególności: ” , – pkt 4 otrzymuje brzmienie: „ 4) rozpatruje wnioski o przeniesienie sędziego w stan spoczynku. ” , w ust. 2 pkt 8 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **8)** czuwa nad przestrzeganiem zasad etyki zawodowej i w przypadku uzyskania wiarygodnej informacji o przewinieniu służbowym, w tym o oczywistej i rażącej obrazie przepisów prawa i uchybieniu godności urzędu, występuje z żądaniem podjęcia czynności dyscyplinarnych wobec sędziego, ” , po ust. 2 dodaje się ust. 3 w brzmieniu: „
+    - **c)**
+
+3. Rada przedstawia Sejmowi, Senatowi i Prezydentowi Rzeczypospolitej Polskiej, nie później niż do 31 maja roku następnego, informację z rocznej działalności Rady oraz postulaty co do aktualnych problemów i potrzeb wymiaru sprawiedliwości. Nad informacją w Sejmie i Senacie nie przeprowadza się głosowania. ” ;
+
+- **2)** po art. 2 dodaje się art. 2a w brzmieniu: „
+
+**Art. 2a.**
+
+1. Do zadań Rady należy także inspirowanie i wspieranie działań mających na celu ujednolicanie wykładni prawa w orzecznictwie sądów.
+
+2. Informację o podejmowanych działaniach na rzecz ujednolicania wykładni prawa w orzecznictwie sądów, Rada zamieszcza w informacji, o której mowa w art. 2 ust. 3. ” ;
+
+- **3)** art. 3 otrzymuje brzmienie: „
+
+**Art. 3.**
+
+1. Rada może zarządzić przeprowadzenie:
+
+- **1)** wizytacji sądu albo jego jednostki organizacyjnej,
+- **2)** lustracji działalności sądu w określonym zakresie,
+- **3)** lustracji pracy sędziego, którego indywidualna sprawa podlega rozpatrzeniu przez Radę.
+
+2. Czynności, o których mowa w ust. 1, nie mogą wkraczać w dziedzinę, w której sędziowie są niezawiśli.
+
+3. Czynności, o których mowa w ust. 1, mogą być przeprowadzane przez członków Rady lub przez sędziów delegowanych do Biura Rady na podstawie odrębnych przepisów.
+
+4. Przeprowadzenie czynności, o których mowa w ust. 1, Rada może zarządzić z urzędu lub na wniosek Ministra Sprawiedliwości, Pierwszego Prezesa Sądu Najwyższego lub Prezesa Naczelnego Sądu Administracyjnego. ” ;
+
+- **4)** art. 4 otrzymuje brzmienie: „
 
 **Art. 4.**
 
-1. Postępowania przed Krajową Radą Sądownictwa sprawach wyrażenia zgody dalsze zajmowanie stanowiska przez sędziego, który ukończył 65 rok życia, umarza się.
+1. Pierwszy Prezes Sądu Najwyższego, Prezes Naczelnego Sądu Administracyjnego i Minister Sprawiedliwości są członkami Rady przez okres pełnienia tych funkcji.
 
-2. sprawach niezakończonych wniosek sędziego o wyrażenie zgody dalsze zajmowanie stanowiska, złożony podstawie przepisów dotychczasowych, jest równoznaczny oświadczeniem woli dalszego zajmowania stanowiska rozumieniu 69 § 1 ustawy, o której mowa 2, brzmieniu nadanym niniejszą ustawą. przypadku, o którym mowa 2, terminie dwóch miesięcy od dnia wejścia życie ustawy sędzia przedstawi Ministrowi Sprawiedliwości zaświadczenie stwierdzające, że jest zdolny, ze względu stan zdrowia, do pełnienia obowiązków sędziego, wydane zasadach określonych dla kandydata stanowisko sędziowskie, albo najpóźniej upływem tego terminu przechodzi stan spoczynku.
+2. W przypadku niemożności uczestnictwa w posiedzeniu plenarnym Rady osoby lub osób, o których mowa w ust. 1, na posiedzeniu plenarnym może być obecny upoważniony przedstawiciel Pierwszego Prezesa Sądu Najwyższego, Prezesa Naczelnego Sądu Administracyjnego albo Ministra Sprawiedliwości. Przedstawiciel może wyrażać stanowisko w każdej sprawie, jednakże bez prawa głosu. ” ;
 
-4. Sędzia, który podstawie przepisów dotychczasowych uzyskał zgodę Krajowej Rady Sądownictwa dalsze zajmowanie stanowiska pomimo ukończenia 65 roku życia, zajmować stanowisko do uko ńczenia 70 roku życia po przedstawieniu Ministrowi Sprawiedliwości zaświadczenia, o którym mowa 3, terminie trzech miesięcy od upływu okresu, który zgoda została wyrażona, albo najpóźniej upływem tego terminu przechodzi stan spoczynku. Przepis brzmieniu nadanym niniejszą ustawą albo upływem tego terminu przechodzą stan spoczynku. Przepis 69 § 3 zdanie drugie ustawy, o której mowa 2 niniejszej ustawy, stosuje się.
+- **5)** po art. 6 dodaje się art. 6a w brzmieniu: „
 
-6. Prokuratorzy Prokuratury Krajowej oraz prokuratorzy Głównej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, którzy ukończą 65 lat nie później niż ciągu sześciu miesięcy od dnia wejścia życie ustawy, składają wniosek o wyrażenie zgody dalsze zajmowanie stanowiska, o którym mowa 62a 2 ustawy wymienionej 3 brzmieniu nadanym niniejszą ustawą, terminie trzech miesięcy od dnia ukończenia 65 lat albo najpóźniej upływem tego terminu przechodzą stan spoczynku. Przepis 69 § 3 ustawy, o której mowa 2 niniejszej ustawy, stosuje się. [Art. 5.
+**Art. 6a.** Sędzia może pełnić funkcję wybieranego członka Rady tylko dwie kadencje. ” ;
 
-1. terminie miesiąca od dnia wejścia życie ustawy wybrany członek Krajowej Rady Sądownictwa będący sędzią, pełniący funkcję prezesa albo wiceprezesa sądu zrzec się mandatu członka Krajowej Rady Sądownictwa; takim przypadku mandat wygasa upływem trzech miesięcy od dnia wejścia życie ustawy.
+- **6)** w art. 10 w ust. 1 pkt 4 otrzymuje brzmienie: „
+- **4)** zgłoszenia jego kandydatury na inne stanowisko sędziowskie, ” ;
+- **7)** w art. 12: ust. 4 otrzymuje brzmienie: „
+    - **a)**
 
-2. Jeżeli wybrany członek Krajowej Rady Sądownictwa będący sędzią pełniący funkcję prezesa albo wiceprezesa sądu nie zrzeknie się mandatu, terminie o którym mowa 1, powołanie do pełnienia funkcji prezesa albo wiceprezesa sądu wygasa upływem trzech miesięcy od dnia wejścia życie ustawy.]
+4. Rada podejmuje uchwały bezwzględną większością głosów, w głosowaniu jawnym. ” , ust. 6 otrzymuje brzmienie: „
 
-**Art. 6.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
+- **b)**
+
+6.
+
 

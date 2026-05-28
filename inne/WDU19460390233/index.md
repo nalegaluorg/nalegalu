@@ -11,7 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# DEKRET dnia 8 sierpnia 1946 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Warsz.wa, dnia 30 sierpnia 1946 r Nr 39.
 
 | Pole | Wartość |
 |---|---|
@@ -21,45 +21,37 @@ source: "isap-pdf"
 | Status | obowiązujący |
 | W mocy | tak |
 | Data ogłoszenia | 1946-08-08 |
+| Wejście w życie | 1946-08-30 |
 | Ostatnia zmiana | 2015-07-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19460390233) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1946/233/text.pdf) |
 
-o wpisywaniu w księgach hipotecznych (gruntowych) prawa własności nieruchomości przejętych na cele reformy rolnej.
-Na podstawie ustawy dnia 3 stycznia 1945 r. o trybie wydawania dekretów mocą ustawy (Dz. U. R.P. Nr 1, poz. 1) - Rada Ministrów postanawia, a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:
+Z 233 .D EK R E T dnia 8 sierpnia 1946 r.
+o wpisywaniu hipotecznych (gruntowych) pPawa na cele reforll!Y rolnej.
+Na podstawie tistawyz dnia 3 stycznia 1945 r. trybie wydawania,debetów lIIStawy (Dz. U. R. . Nr 1, poz. 1) - Rada MinistliÓW postanawia, a Prezydium Krajowej Rady' Nal1oolOwej zatwierdza,
 
-**Art. 1.**
+**Art. 1.** 'Tytułem do wpisania na hipotecznej (g:run tlowej) prawa ziem .kich, wymiooionych wart. 2 ust. (1) lit.
 
-1. Tytułem wpisania na rzecz Skarbu Państwa w księdze hipotecznej (gruntowej) prawa własności nieruchomości ziemskich, wymienionych w art. 2 ust. (1) lit. b), c), d), i e) dekretu dnia 6-go września 1944 r. o przeprowadzeniu reformy rolnej (Dz. U. R.P. 1945 r. Nr 3, poz. 13), jest zaświadczenie starosty, stwierdzające, że nieruchomość ziemska jest przeznaczona na cele reformy rolnej według powołanych wyżej przepisów.
+- **b)** , c):, d), i e) dlekretu dnia 6-glO wrze iln.ia 1944 r. >ó przeprowadzeniu refOll'lffiyl1Ol nej (Dz. U. R. P. 1945 r. Nr 3, poz. 13), jest ziem skieg'o, s ziern ika jest cele reformy rolnej weic1.ług 'powołanych wyrej pl1ZeJp.isBw. ł
 
-2. Jednocześnie wpisaniem stosownie ust. 1 prawa własności nieruchomości ziemskiej na rzecz Skarbu Państwa będą wykreślone księgi hipotecznej (gruntowej) wszelkie ograniczenia własności oraz wszelkie obciążenia wyjątkiem służebności gruntowych, których utrzymanie w mocy starosta uzna za niezbędne. Do wykreślenia hipoteki listowej nie jest w tym przypadku potrzebne przedstawienie sądowi listu hipotecznego.
+2. wpis.aniem do 1 praw:a ziem skiej na rzecz Skarbu wykrd1!one hipotecznej (gruntowej!) wszelkie graniczenia oraz wszelkie gruntowych, kt9cr-ych utrzymanie mocy wojewódzki ziemski UIZ!Ila za Do hiplOteki listowej ni,e jlest tym przypadku potrzebne listu hipoteczhego.
 
-3. Treść utrzymanych w mocy służebności może być przez starostę zmieniona stosownie potrzeb nowoutworzonych gospodarstw.
+3. utrzymanych· iIDocy wojewódfzki ziemski zmie mona stosownie do potrreb nowoutWlOlrzonychl gospodarstw. ..
 
-4. Wpisy, przewidziane w ust. 1, 2 i 3, następują na wniosek właściwego starosty.
+4. Wpisy, przewidziane ust. l, 2 i 3,
 
-5. (skreślony).
+5. Mintster RlOb1idwa i Refo!rm Rolnych drodze rza artykule lI1iniejszym dla wojlewl6idZ k:iJch 'ziemskich, powiato· WYm ziemskim. .
 
-**Art. 2.**
+1. wpisania hipotecznej (gruntowej,) prawa na. danej na l'recz nabywcy jest nadania wraz <odpisem wykonalnej decyzji pil1Zedmiocie klasyfiKacJi i szacUiIlku iOlSzaaowaniem dzidooego nabywcy mwentarza. wlpisaniem na '1"z:ecz na bywcy prawa wpisane hipotecznej (gruntówej) ogranicz.e nia 13 dekretu 10,.... przeprowadzeniu reformy jiakio 'realny :z ceny i Na oOlszarre prawa o nieruchoffi)'l:h,przywilJej.ach i hiplOtekac:h/ 1818 r. ceny wpisane jaklO wieczysty 11O.ZUIIllie niu 44 teg'o prawa.
 
-1. Tytułem wpisania w księdze hipotecznej (gruntowej) prawa własności nadanej działki na rzecz nabywcy jest dokument nadania wraz odpisem wykonalnej decyzji właściwej władzy w przedmiocie klasyfikacji i szacunku działki łącznie oszacowaniem przydzielonego nabywcy inwentarza. 13 dekretu o przeprowadzeniu reformy rolnej, oraz jako ciężar realny należności tytułu niezapłaconej ceny działki i inwentarza. Na obszarze mocy obowiązującej prawa o ustaleniu własności dóbr nieruchomych, przywilejach i hipotekach 1818 r. należności tytułu niezapłaconej ceny będą wpisane jako ciężar wieczysty w rozumieniu art. 44 tego prawa.
+3. W:'pisy hipotecznej wej) , wymienione ust. 1 i 2, na wruosek powiatowego ziemskiego. _ Art. . 3. Do wpisu prawa własności:nadanej' namocz trla'lJ'ywcy nie pjotrZlebne .ao· kumen ty pomiarowe, przepisach stawie szkicu -i .przez plowiatowy ziemski. , 'Art. 4. hipoteczna (grun tJOwa) znisz.cz{enitJ, Iprzewidiiane w, 1 i 2 Winioski wraz idokUlIllootami, ich do .. takie ma skutek wpisu wy da nabywcy dJOkUlIllent, jego, prawo ,-"
 
-3. Wpisy w księdze hipotecznej (gruntowej), wymienione w ust. 1 i 2, następują na wniosek właściwego starosty.
+2. 'Ust. 1 stosuje takie pn)' padku, gidy tnie ma (gruntowej). . . . !Art. 5. DokUmenty; wnioski i ,wpisy do (gruntowych)} ppade na dekretu, wolne od o. 1 ste;mplowych. 'Art. 6. RiOz,pOl'z·ądienie Ministra Sprawie- I sposób ,oznaczania nadanej hipotcl::z:nej (gruntowej) oraz sposób i wniosków oraz dokumentów Art., 1. Wykonanie niniejszego delCretu 1>0rucza MinistI1om: RJolnictwa l RefollU Rol nych, i Skarbu, zakresie .
 
-**Art. 3.** Do wpisu prawa własności nadanej działki na rzecz nabywcy nie są potrzebne dokumenty pomiarowe, przewidziane w przepisach o księgach hipotecznych (gruntowych). Wystarcza opis granic działki, dokonany na podstawie szkicu podziału i poświadczony przez starostę.
+**Art. 8.** Dekret mniejszy wchod2i zycie . dniem--- .ogllOsZlema. traci moc dekl1et (dnia 24 sierpnia 1945 r. .o wpisywaniu dó hipotecznych (grunto-. wych) prawa tych na cele :ref,ormy rol'rlej (Dz; U. R. . Nr 34, poz. 204);. , , KrajoWej Narodowej: , . Bierut . PT~ M:i!nistrOw: . E-cJwa'rd O'$óhka Morawsld Minister Rolnictwa 'i Refolilll Rol'rl)th': wf't Minister Leon Chajn Minister sic'lubu: Dqbro",sld 234 MINISTRA ADMINISTRACJI PUBLICZNEJ
 
-**Art. 3a.** Zadania starosty określone w art. 1 w ust. 1-4, w art. 2 w ust. 3 i w art. 3 są zadaniami zakresu administracji rządowej.
+o zniesieniu gminy wiejskiej Mąkolin powiecie .płodd.m wo}ewództtrie warszawskiib o utworzeniu gminy wiejskiej Bodzanów . powiecie i woJewództwie. Na podstawie l . i 4 usta~ dnia wiejską Bo&an6vr ~ieHzihą rzarządu gmin'negb prze!cLmiode gra- Bodzanowie powiecie i tik oraz i tworzenia gmin 'wiej- twie. skich (Dz. R. p. Nr 86, poz. 770) dzam, co § 1. mosi po wiede województwie WlarszawsJ.clrrt a obszaru gminy tworzy § 2. . Zy- . cie dniem Minister Publicmej: Kiernik 235 , ROZPORZĄDZENIE' MINISTRA SPRAWIEDLIWOŚCI dnia 10 sierpnia 1946 r. o eznaczania .. hipotecznej na cele reform, rolnej i o sposobie skladania i przecnowywania sądzie wniosków oraz dokumentów takich Na [Jlcxls ta wie 6 !dlekre,rru idlnia '8 sj,e:rp oia 1946 r. v wpisywaniu llipotecz nych prawa nierucho n.a oele refolimy rolnej (Dz. U. R. P. Nr 39, poz. co § -L ninirejs.zym bez siy . do dekretu dlnia 8 sierplI1ia 1946 o wpisywa § 2. nadane trybie .dd:::retu dnia 6 1944 p!rz!eprowadizeniu reformy roLnej (Dz. U. R. P. 1945 r. Nr 3, poz. 13) oznacza przlez uwidoczni'cnie opisu granic (art. 3):
 
-**Art. 4.**
+- **d)** lia 24 lipc::a 1946 r.
+- **1)** na mocy deksu NapoLeIOna tomu X cz. 1 Zwodlu Praw .- dziaLe pierwszym wykazu hipotectnego;
 
-1. Jeżeli księga hipoteczna (gruntowa) uległa zniszczeniu, przewidziane w art. 1 i 2 wnioski wraz dokumentami, będącymi ich podstawą, winny być złożone w sądzie, właściwym prowadzenia księgi. Złożenie takie ma skutek wpisu księgi. Sąd urzędu wyda nabywcy działki dokument, stwierdzający jego prawo własności.
-
-2. Przepisy ust. 1 stosuje się także w przypadku, gdy nieruchomość nie ma urządzonej księgi hipotecznej (gruntowej).
-
-**Art. 5.** Dokumenty, wnioski i wpisy ksiąg hipotecznych (gruntowych), oparte na przepisach niniejszego dekretu, są wolne od opłat sądowych i stemplowych.
-
-**Art. 6.** Rozporządzenie Ministra Sprawiedliwości określi sposób oznaczania nadanej działki w księdze hipotecznej (gruntowej) oraz sposób składania i przechowywania w sądzie wniosków oraz dokumentów (art. 4).
-
-**Art. 7.** Wykonanie niniejszego dekretu porucza się Ministrom: Rolnictwa i Reform Rolnych, Sprawiedliwości i Skarbu, każdemu w zakresie jego właściwości.
-
-**Art. 8.** Dekret niniejszy wchodzi w życie dniem ogłoszenia. Równocześnie hipotecznych (gruntowych) prawa własności nieruchomości, przejętych na cele reformy rolnej (Dz. U. R.P. Nr 34, poz. 204).
 

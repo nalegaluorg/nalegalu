@@ -8,12 +8,10 @@ pos: 1159
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy o kształtowaniu ustroju rolnego oraz ustawy o księgach wieczystych i hipotece
-
-*USTAWA z dnia 6 lipca 2016 r.*
+# Ustawa z dnia 6 lipca 2016 r. o zmianie ustawy o kształtowaniu ustroju rolnego oraz ustawy o księgach wieczystych i hipotece
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,25 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2016-07-06 |
 | Data wydania | 2016-08-01 |
+| Wejście w życie | 2016-08-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001159) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1159/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego (Dz. U. z 2012 r. poz. 803 oraz z 2016 r. poz. 585) wprowadza się następujące zmiany:
+
+- **1)** art. 1a otrzymuje brzmienie: „ Przepisów ustawy nie stosuje się do:
+- **1)** nieruchomości rolnych: wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa, o którym mowa w ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2015 r. poz. 1014, 1433 i 1830 oraz z 2016 r. poz. 50 i 585), o powierzchni mniejszej niż 0,3 ha, będących drogami wewnętrznymi;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** nabycia udziałów lub ich części we współwłasności nieruchomości, o których mowa w pkt 1 lit. b i c. ” ;
+- **2)** w art. 2a w ust. 3 w pkt 1 w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „ parki narodowe, w przypadku zakupu nieruchomości rolnych na cele związane z ochroną przyrody; ” ;
+    - **e)**
+
+- **3)** w art. 4 ust. 6 otrzymuje brzmienie: „
+
+6. Przepisy ust. 1–3, ust. 4 pkt 2 lit. b-d, ust. 5, art. 3 ust. 10 i 11 oraz art. 3a ust. 3 stosuje się odpowiednio do nabycia udziałów i akcji w spółce prawa handlowego, która jest właścicielem nieruchomości rolnej. ” .
 
 **Art. 2.** W ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2016 r. poz. 790 i 996) w art. 68 uchyla się ust. 2a.
 

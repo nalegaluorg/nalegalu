@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# o działach administracji rządowej
-
-*USTAWA z dnia 4 września 1997 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 września 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,13 +25,29 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-03-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001275) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1275/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 15 września 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o działach administracji rządowej
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2024 r. poz. 1370), z uwzględnieniem zmian wprowadzonych:
+1) ustawą z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907),
+2) ustawą z dnia 9 maja 2025 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 820) oraz zmian wynikających z przepisów ogłoszonych przed dniem 2 września 2025 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+1) art. 212 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907), który stanowi: „Art. 212. Ustawa wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem:
+1) art. 16, art. 156, art. 198 i art. 199, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+2) art. 76 ust. 5 i art. 78 ust. 2, które wchodzą w życie po upływie roku od dnia ogłoszenia;
+3) art. 11 ust. 3 pkt 3, art. 45–48, art. 189 oraz art. 211, które wchodzą w życie z dniem 1 stycznia 2026 r.;
+4) art. 187, który wchodzi w życie z dniem 1 stycznia 2027 r.”;
+2) art. 34 ustawy z dnia 9 maja 2025 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U.
+poz. 820), który stanowi: „Art. 34. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 27, art. 28 i art. 30, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.”.
+Marszałek Sejmu: S. Hołownia
+USTAWA z dnia 4 września 1997 r.
+o działach administracji rządowej
 Art. 39–75. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa zakres działów administracji rządowej, zwanych dalej „działami”, oraz właściwość ministra kierującego danym działem.
 
-**Art. 2.** Ustawę stosuje się odpowiednio do przewodniczących określonych w ustawach komitetów, którzy są powołani w skład Rady Ministrów – z zastrzeżeniem przepisów tych ustaw dotyczących kierowania działem przez komitet.
+**Art. 2.** Ustawę stosuje się odpowiednio do przewodniczących określonych w ustawach komitetów, którzy są powołani w skład Rady Ministrów z zastrzeżeniem przepisów tych ustaw dotyczących kierowania działem przez komitet oraz z zastrzeżeniem art. 18.
 
 **Art. 3.**
 
@@ -69,6 +83,47 @@ Art. 39–75. (pominięte)
 
 **Art. 5.** Ustala się następujące działy:
 
+- **1)** administracja publiczna;
+- **1a)** budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo;
+- **1b)** aktywa państwowe;
+- **2)** budżet;
+- **2a)** energia;
+- **3)** finanse publiczne;
+- **4)** gospodarka;
+- **5)** gospodarka morska;
+- **6)** gospodarka wodna;
+- **6a)** gospodarka surowcami energetycznymi;
+- **7)** instytucje finansowe;
+- **7a)** informatyzacja;
+- **8)** członkostwo Rzeczypospolitej Polskiej w Unii Europejskiej;
+- **8a)** klimat;
+- **9)** kultura i ochrona dziedzictwa narodowego;
+- **10)** kultura fizyczna;
+- **11)** łączność;
+- **12)** (uchylony)
+- **13)** (uchylony)
+- **14)** obrona narodowa;
+- **15)** oświata i wychowanie;
+- **16)** praca;
+- **17)** rolnictwo;
+- **18)** rozwój wsi;
+- **18a)** rozwój regionalny;
+- **18b)** rynki rolne;
+- **18c)** rybołówstwo;
+- **19)** (uchylony)
+- **20)** sprawiedliwość;
+- **21)** szkolnictwo wyższe i nauka;
+- **22)** transport;
+- **22a)** turystyka;
+- **23)** środowisko;
+- **23a)** rodzina;
+- **24)** sprawy wewnętrzne;
+- **25)** wyznania religijne oraz mniejszości narodowe i etniczne;
+- **26)** zabezpieczenie społeczne;
+- **27)** sprawy zagraniczne;
+- **28)** zdrowie;
+- **29)** żegluga śródlądowa.
+
 **Art. 6.**
 
 1. Dział administracja publiczna obejmuje sprawy:
@@ -89,6 +144,14 @@ Art. 39–75. (pominięte)
 
 **Art. 7.** Dział budżet obejmuje sprawy:
 
+- **1)** opracowywania budżetu państwa, wykonywania z wyjątkiem spraw zastrzeżonych do kompetencji ministra właściwego do spraw finansów publicznych budżetu państwa, kontroli realizacji budżetu państwa oraz przygotowywania sprawozdań z wykonania budżetu państwa;
+- **2)** systemu finansowania:
+    - **a)** samorządu terytorialnego,
+    - **b)** sfery budżetowej,
+    - **c)** bezpieczeństwa państwa;
+
+- **3)** wynikające z zarządzania długiem publicznym.
+
 **Art. 7a.**
 
 1. Dział energia obejmuje sprawy energii.
@@ -107,7 +170,7 @@ Art. 39–75. (pominięte)
 
 **Art. 8.**
 
-1. Dział finanse publiczne obejmuje sprawy realizacji dochodów i wydatków budżetu państwa, jak również ochrony interesów Skarbu Państwa – z wyjątkiem spraw, które na mocy odrębnych przepisów przypisane są innym działom.
+1. Dział finanse publiczne obejmuje sprawy realizacji dochodów i wydatków budżetu państwa, jak również ochrony interesów Skarbu Państwa z wyjątkiem spraw, które na mocy odrębnych przepisów przypisane są innym działom.
 
 2. Minister właściwy do spraw finansów publicznych odpowiada, na zasadach, w trybie i w granicach określonych odrębnymi przepisami, w szczególności za:
 
@@ -175,13 +238,13 @@ Art. 39–75. (pominięte)
 - **9)** infrastruktury komunalnej, z wyjątkiem określenia zasad i warunków zbiorowego zaopatrzenia w wodę przeznaczoną do spożycia przez ludzi oraz zbiorowego odprowadzania ścieków,
 - **10)** rodzinnych ogrodów działkowych,
 - **11)** infrastruktury informacji przestrzennej,
-- **12)** zarządzania i koordynacji programami w zakresie upowszechniania, rozwoju i promocji wykorzystywania technologii niskoemisyjnych i zeroemisyjnych – z zastrzeżeniem art. 23a ust. 1 pkt 13.
+- **12)** zarządzania i koordynacji programami w zakresie upowszechniania, rozwoju i promocji wykorzystywania technologii niskoemisyjnych i zeroemisyjnych z zastrzeżeniem art. 23a ust. 1 pkt 13.
 
 2. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa sprawuje nadzór nad Głównym Inspektorem Nadzoru Budowlanego oraz Głównym Geodetą Kraju.
 
 **Art. 9b.**
 
-1. Dział aktywa państwowe obejmuje sprawy dotyczące gospodarowania mieniem państwowym, w tym wykonywania praw majątkowych i osobistych przysługujących Skarbowi Państwa, jak również ochrony interesów Skarbu Państwa – z wyjątkiem spraw, które na mocy przepisów odrębnych przypisane są innym działom.
+1. Dział aktywa państwowe obejmuje sprawy dotyczące gospodarowania mieniem państwowym, w tym wykonywania praw majątkowych i osobistych przysługujących Skarbowi Państwa, jak również ochrony interesów Skarbu Państwa z wyjątkiem spraw, które na mocy przepisów odrębnych przypisane są innym działom.
 
 2. Minister właściwy do spraw aktywów państwowych reprezentuje Skarb Państwa w zakresie określonym w ust. 1.
 
@@ -202,7 +265,7 @@ Art. 39–75. (pominięte)
 
 3. Ministrowi właściwemu do spraw gospodarki morskiej podlegają urzędy morskie.
 
-4. Minister właściwy do spraw gospodarki morskiej sprawuje nadzór nad Morską Służbą Poszukiwania i Ratownictwa w Gdyni (SAR), Centralną Morską Komisją Egzaminacyjną, Uniwersytetem Morskim w Gdyni, Politechniką Morską w Szczecinie oraz izbami morskimi i Odwoławczą Izbą Morską w Gdańsku z siedzibą w Gdyni na zasadach określonych w przepisach szczególnych.
+4. Minister właściwy do spraw gospodarki morskiej sprawuje nadzór nad Morską Służbą Poszukiwania i Ratownictwa w Gdyni (SAR), Centralną Morską Komisją Egzaminacyjną, Akademią Morską w Gdyni , Politechniką Morską w Szczecinie, Instytutem Morskim w Gdańsku oraz izbami morskimi i Odwoławczą Izbą Morską w Gdańsku z siedzibą w Gdyni na zasadach określonych w przepisach szczególnych.
 
 **Art. 10a.**
 
@@ -300,7 +363,7 @@ Art. 39–75. (pominięte)
 
 - **1)** koordynuje proces wdrażania prawa Unii Europejskiej do polskiego systemu prawa;
 - **2)** przedstawia Radzie Ministrów, na zasadach określonych w regulaminie pracy Rady Ministrów, opinie o zgodności z prawem Unii Europejskiej rządowych projektów aktów prawa powszechnie obowiązującego oraz opinie o zgodności z prawem Unii Europejskiej projektów umów międzynarodowych;
-- **3)** opiniuje, na zasadach określonych w regulaminie oraz regulaminie Senatu, projekty ustaw co do ich zgodności z prawem Unii Europejskiej;
+- **3)** opiniuje, na zasadach określonych w regulaminie Sejmu oraz regulaminie Senatu, projekty ustaw co do ich zgodności z prawem Unii Europejskiej;
 - **4)** koordynuje udział w postępowaniach w sprawie naruszenia przez Rzeczpospolitą Polską prawa Unii Europejskiej prowadzonych przez instytucje i organy Unii Europejskiej;
 - **5)** zapewnia reprezentację Rzeczypospolitej Polskiej w postępowaniach przed organami sądowymi Unii Europejskiej i Trybunałem Europejskiego Porozumienia o Wolnym Handlu (EFTA);
 - **6)** monitoruje wykonywanie wyroków organów sądowych Unii Europejskiej.
@@ -308,7 +371,7 @@ Art. 39–75. (pominięte)
 4. Minister właściwy do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej w zakresie spraw, o których mowa w ust. 1 pkt 3, w szczególności:
 
 - **1)** inicjuje i koordynuje działania związane ze sprawowaniem przez Rzeczpospolitą Polską prezydencji w Radzie Unii Europejskiej;
-- **2)** inicjuje i koordynuje działania dotyczące zatrudnienia obywateli polskich w instytucjach i organach Unii Europejskiej, z zastrzeżeniem art. 32 ust. 1 pkt 6b.
+- **2)** inicjuje i koordynuje działania dotyczące zatrudnienia obywateli polskich w instytucjach i organach Unii Europejskiej, z zastrzeżeniem art. 32 ust. 2 pkt 6b.
 
 **Art. 13a.**
 
@@ -327,9 +390,9 @@ Art. 39–75. (pominięte)
 - **10)** społeczno-ekonomicznych aspektów transformacji ekologicznej i klimatycznej;
 - **11)** efektywności energetycznej;
 - **12)** rozwoju i wykorzystania odnawialnych źródeł energii, w tym rozwoju energetyki prosumenckiej i rozproszonej;
-- **13)** edukacji ekologicznej i promocji ekologicznych warunków życia – w zakresie zadań należących do działu.
+- **13)** edukacji ekologicznej i promocji ekologicznych warunków życia w zakresie zadań należących do działu.
 
-2. Minister właściwy do spraw klimatu sprawuje nadzór nad Prezesem Państwowej Agencji Atomistyki, Głównym Inspektorem Ochrony Środowiska, Instytutem Ochrony Środowiska – Państwowym Instytutem Badawczym, Instytutem Ekologii Terenów Uprzemysłowionych, a także nad działalnością Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej oraz wojewódzkich funduszy ochrony środowiska i gospodarki wodnej.
+2. Minister właściwy do spraw klimatu sprawuje nadzór nad Prezesem Państwowej Agencji Atomistyki, Głównym Inspektorem Ochrony Środowiska, Instytutem Ochrony Środowiska Państwowym Instytutem Badawczym, Instytutem Ekologii Terenów Uprzemysłowionych, a także nad działalnością Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej oraz wojewódzkich funduszy ochrony środowiska i gospodarki wodnej.
 
 **Art. 14.**
 
@@ -356,6 +419,10 @@ Art. 39–75. (pominięte)
 
 **Art. 15.** Dział kultura fizyczna obejmuje sprawy:
 
+- **1)** sportu;
+- **2)** wychowania fizycznego;
+- **3)** rehabilitacji ruchowej.
+
 **Art. 16.** Dział łączność obejmuje sprawy poczty.
 
 **Art. 17.** (uchylony)
@@ -368,7 +435,7 @@ Art. 39–75. (pominięte)
 
 - **1)** obrony Państwa oraz Sił Zbrojnych Rzeczypospolitej Polskiej, zwanych dalej „Siłami Zbrojnymi”, 1a) bezpieczeństwa cyberprzestrzeni w wymiarze militarnym,
 - **2)** udziału Rzeczypospolitej Polskiej w wojskowych przedsięwzięciach organizacji międzynarodowych oraz w zakresie wywiązywania się z zobowiązań militarnych, wynikających z umów międzynarodowych,
-- **3)** umów offsetowych – chyba że na mocy odrębnych przepisów określone sprawy należą do zakresu zadań i kompetencji Prezydenta Rzeczypospolitej Polskiej lub innych organów państwowych.
+- **3)** umów offsetowych chyba że na mocy odrębnych przepisów określone sprawy należą do zakresu zadań i kompetencji Prezydenta Rzeczypospolitej Polskiej lub innych organów państwowych.
 
 2. Minister właściwy do spraw obrony narodowej wykonuje zadania i kompetencje Ministra Obrony Narodowej określone w art. 134 ust. 2 i 5 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. (Dz. U. poz. 483, z 2001 r. poz. 319, z 2006 r. poz. 1471 oraz z 2009 r. poz. 946).
 
@@ -395,7 +462,7 @@ Art. 39–75. (pominięte)
 - **2)** stosunków pracy i warunków pracy;
 - **3)** wynagrodzeń i świadczeń pracowniczych;
 - **4)** zbiorowych stosunków pracy i sporów zbiorowych;
-- **5)** związków zawodowych i organizacji pracodawców; <6) zawodu psychologa.>
+- **5)** związków zawodowych i organizacji pracodawców.
 
 2. (uchylony)
 
@@ -459,7 +526,7 @@ Art. 39–75. (pominięte)
 - **1)** programowania i koordynacji polityki rozwoju, w szczególności opracowywania projektów strategii rozwoju;
 - **2)** programowania i realizacji polityki regionalnej, obejmującej również politykę miejską oraz koordynację programów i działań w zakresie rewitalizacji obszarów zdegradowanych społecznie i gospodarczo;
 - **2a)** (uchylony) 2b) (uchylony)
-- **3)** opracowywania dokumentów programowych z zakresu społeczno-gospodarczego, regionalnego i przestrzennego rozwoju kraju, planów rozwojowych, planów społeczno-klimatycznych oraz planu partnerstwa krajowego i regionalnego, w tym będących podstawą do pozyskiwania środków rozwojowych z Unii Europejskiej i innych źródeł zagranicznych;
+- **3)** opracowywania dokumentów programowych z zakresu społeczno-gospodarczego, regionalnego i przestrzennego rozwoju kraju, planów rozwojowych oraz planów społeczno-klimatycznych, w tym będących podstawą do pozyskiwania środków rozwojowych z Unii Europejskiej i innych źródeł zagranicznych;
 - **4)** wykonywania, o ile ustawa nie stanowi inaczej, zadań państwa członkowskiego określonych w przepisach Unii Europejskiej dotyczących funduszy strukturalnych i Funduszu Spójności;
 - **5)** opracowywania analiz i prognoz rozwoju społeczno-gospodarczego, regionalnego i przestrzennego, w tym raportu o rozwoju społeczno-gospodarczym, regionalnym i przestrzennym kraju;
 - **6)** opiniowania zgodności rządowych strategii i programów rozwoju, w rozumieniu przepisów o zasadach prowadzenia polityki rozwoju, ze średniookresową strategią rozwoju kraju;
@@ -494,7 +561,7 @@ Art. 39–75. (pominięte)
 
 2. Ministrowi właściwemu do spraw rybołówstwa podlega Główny Inspektor Rybołówstwa Morskiego.
 
-3. Minister właściwy do spraw rybołówstwa sprawuje nadzór nad Morskim Instytutem Rybackim – Państwowym Instytutem Badawczym oraz Instytutem Rybactwa Śródlądowego im. Stanisława Sakowicza.
+3. Minister właściwy do spraw rybołówstwa sprawuje nadzór nad Morskim Instytutem Rybackim Państwowym Instytutem Badawczym oraz Instytutem Rybactwa Śródlądowego im. Stanisława Sakowicza.
 
 **Art. 24.**
 
@@ -546,14 +613,21 @@ Art. 39–75. (pominięte)
 - **4)** leśnictwa;
 - **5)** ochrony lasów i gruntów leśnych;
 - **6)** łowiectwa;
-- **7)** edukacji ekologicznej i promocji ekologicznych warunków życia – w zakresie zadań należących do działu;
+- **7)** edukacji ekologicznej i promocji ekologicznych warunków życia w zakresie zadań należących do działu;
 - **8)** mikroorganizmów genetycznie zmodyfikowanych oraz organizmów genetycznie zmodyfikowanych, w tym nadzoru nad uprawami GMO w rozumieniu przepisów o mikroorganizmach genetycznie zmodyfikowanych oraz organizmach genetycznie zmodyfikowanych, z wyjątkiem spraw związanych z wydawaniem zezwoleń na wprowadzenie do obrotu żywności i środków farmaceutycznych, spraw organizmów genetycznie zmodyfikowanych przeznaczonych do użytku paszowego i pasz genetycznie zmodyfikowanych w zakresie niektórych zadań lub czynności określonych właściwymi przepisami oraz kontroli upraw w zakresie organizmów genetycznie zmodyfikowanych.
 
 2. Ministrowi właściwemu do spraw środowiska podlega Generalny Dyrektor Ochrony Środowiska.
 
-3. Minister właściwy do spraw środowiska sprawuje nadzór nad działalnością Państwowego Gospodarstwa Leśnego „Lasy Państwowe”, Instytutem Badawczym Leśnictwa i Państwowym Instytutem Geologicznym – Państwowym Instytutem Badawczym oraz działalnością Biura Nasiennictwa Leśnego w Warszawie.
+3. Minister właściwy do spraw środowiska sprawuje nadzór nad działalnością Państwowego Gospodarstwa Leśnego „Lasy Państwowe”, Instytutem Badawczym Leśnictwa i Państwowym Instytutem Geologicznym Państwowym Instytutem Badawczym oraz działalnością Biura Nasiennictwa Leśnego w Warszawie.
 
 **Art. 28a.** Dział rodzina obejmuje sprawy:
+
+- **1)** uwarunkowań demograficznych w kraju;
+- **2)** opieki nad dzieckiem do lat 3;
+- **3)** ochrony i wspierania rodziny z dziećmi na utrzymaniu, w szczególności rodzin znajdujących się w trudnej sytuacji materialnej i społecznej;
+- **4)** rozwoju systemu pieczy zastępczej nad dzieckiem;
+- **5)** koordynowania i organizowania współpracy organów administracji publicznej, organizacji pozarządowych i instytucji w zakresie realizacji praw rodziny i dziecka;
+- **6)** współpracy międzynarodowej dotyczącej realizacji i ochrony praw rodziny i dziecka.
 
 **Art. 29.**
 
@@ -578,6 +652,9 @@ Art. 39–75. (pominięte)
 4. Minister właściwy do spraw wewnętrznych sprawuje nadzór nad działalnością Policji, Straży Granicznej, Państwowej Straży Pożarnej, Szefa Urzędu do Spraw Cudzoziemców, Krajowego Centrum Informacji Kryminalnych, Służby Ochrony Państwa oraz Rządowej Agencji Rezerw Strategicznych.
 
 **Art. 30.** Dział wyznania religijne oraz mniejszości narodowe i etniczne obejmuje sprawy:
+
+- **1)** stosunków Państwa z Kościołem Katolickim oraz innymi kościołami i związkami wyznaniowymi;
+- **2)** związane z zachowaniem i rozwojem tożsamości kulturowej mniejszości narodowych i etnicznych, integracją obywatelską i społeczną osób należących do tych mniejszości, a także zachowaniem i rozwojem języka regionalnego.
 
 **Art. 31.**
 
@@ -626,7 +703,7 @@ Art. 39–75. (pominięte)
 5. Prezes Rady Ministrów, w drodze rozporządzenia, ustala:
 
 - **1)** organizację Stałego Przedstawicielstwa Rzeczypospolitej Polskiej przy Unii Europejskiej oraz zasady wyznaczania osób na stanowiska w Przedstawicielstwie,
-- **2)** zasady wyznaczania osoby na stanowisko kierownicze w placówce zagranicznej Rzeczypospolitej Polskiej w państwie członkowskim Unii Europejskiej, obsługujące w szczególności zadania ministra właściwego do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej – uwzględniając potrzebę zapewnienia realizacji polityki państwa w zakresie spraw zagranicznych i członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej, w szczególności udziału organów administracji rządowej w pracach instytucji i organów Unii Europejskiej, a także reprezentacji i ochrony interesów Rzeczypospolitej Polskiej.
+- **2)** zasady wyznaczania osoby na stanowisko kierownicze w placówce zagranicznej Rzeczypospolitej Polskiej w państwie członkowskim Unii Europejskiej, obsługujące w szczególności zadania ministra właściwego do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej uwzględniając potrzebę zapewnienia realizacji polityki państwa w zakresie spraw zagranicznych i członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej, w szczególności udziału organów administracji rządowej w pracach instytucji i organów Unii Europejskiej, a także reprezentacji i ochrony interesów Rzeczypospolitej Polskiej.
 
 **Art. 33.**
 
@@ -676,7 +753,7 @@ Art. 39–75. (pominięte)
 4. Prezes Rady Ministrów, w drodze rozporządzenia, wyznacza:
 
 - **1)** ministra właściwego do spraw uznawania kwalifikacji w zawodach regulowanych oraz do spraw uznawania kwalifikacji do podejmowania lub wykonywania działalności, objętych działalnością administracji rządowej wykonywaną przez urzędy określone w ust. 1, oraz wskazuje, który z tych urzędów wyznaczony minister może upoważnić do wykonywania zadań w sprawach uznawania kwalifikacji w zawodach regulowanych oraz w sprawach uznawania kwalifikacji do podejmowania lub wykonywania działalności,
-- **2)** ministra właściwego do spraw uznawania kwalifikacji w tych zawodach regulowanych oraz do spraw uznawania kwalifikacji do podejmowania lub wykonywania tych działalności, dla wykonywania których właściwy jest więcej niż jeden minister – kierując się specyfiką poszczególnych zawodów regulowanych oraz działalności, właściwością odpowiednich działów administracji rządowej, a także zakresem działania urzędów, o których mowa w ust. 1.
+- **2)** ministra właściwego do spraw uznawania kwalifikacji w tych zawodach regulowanych oraz do spraw uznawania kwalifikacji do podejmowania lub wykonywania tych działalności, dla wykonywania których właściwy jest więcej niż jeden minister kierując się specyfiką poszczególnych zawodów regulowanych oraz działalności, właściwością odpowiednich działów administracji rządowej, a także zakresem działania urzędów, o których mowa w ust. 1.
 
 5. Minister, o którym mowa w ust. 4 pkt 1, może, w drodze rozporządzenia, upoważnić do wykonywania zadań w sprawach uznawania kwalifikacji w zawodach regulowanych oraz w sprawach uznawania kwalifikacji do podejmowania lub wykonywania działalności wskazany urząd albo podmioty, o których mowa w art. 4a ust. 3.
 
@@ -696,7 +773,7 @@ Art. 39–75. (pominięte)
 
 **Art. 34.**
 
-1. Minister jest obowiązany do inicjowania i opracowywania polityki Rady Ministrów w stosunku do działu, którym kieruje, a także przedkładania w tym zakresie inicjatyw, projektów założeń projektów ustaw i projektów aktów normatywnych na posiedzenia Rady Ministrów – na zasadach i w trybie określonych w regulaminie pracy Rady Ministrów. W zakresie działu, którym kieruje, minister wykonuje politykę Rady Ministrów i koordynuje jej wykonywanie przez organy, urzędy i jednostki organizacyjne, które jemu podlegają lub są przez niego nadzorowane.
+1. Minister jest obowiązany do inicjowania i opracowywania polityki Rady Ministrów w stosunku do działu, którym kieruje, a także przedkładania w tym zakresie inicjatyw, projektów założeń projektów ustaw i projektów aktów normatywnych na posiedzenia Rady Ministrów na zasadach i w trybie określonych w regulaminie pracy Rady Ministrów. W zakresie działu, którym kieruje, minister wykonuje politykę Rady Ministrów i koordynuje jej wykonywanie przez organy, urzędy i jednostki organizacyjne, które jemu podlegają lub są przez niego nadzorowane.
 
 2. W sprawach indywidualnych decyzje centralnego organu administracji rządowej są ostateczne w rozumieniu przepisów Kodeksu postępowania administracyjnego, chyba że ustawa uprawnienie takie przyznaje ministrowi kierującemu określonym działem administracji rządowej.
 
@@ -710,7 +787,7 @@ Art. 39–75. (pominięte)
 
 1. W celu realizacji swoich zadań minister kierujący określonym działem współdziała, na zasadach i w trybie określonych w odrębnych przepisach oraz w zakresie wynikającym z potrzeb danego działu, z innymi członkami Rady Ministrów oraz innymi organami administracji rządowej i państwowymi jednostkami organizacyjnymi, organami samorządu terytorialnego, jak również z organami samorządu gospodarczego, zawodowego, związków zawodowych i organizacji pracodawców oraz innych organizacji społecznych i przedstawicielstw środowisk zawodowych i twórczych.
 
-2. Minister kierujący działem administracji rządowej podejmuje w odniesieniu do tego działu czynności w zakresie współpracy z zagranicą we współpracy z ministrem właściwym do spraw zagranicznych, a w zakresie członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej – we współpracy z ministrem właściwym do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej.
+2. Minister kierujący działem administracji rządowej podejmuje w odniesieniu do tego działu czynności w zakresie współpracy z zagranicą we współpracy z ministrem właściwym do spraw zagranicznych, a w zakresie członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej we współpracy z ministrem właściwym do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej.
 
 3. Ministrowie w zakresie kierowanych przez nich działów administracji rządowej opracowują roczne i wieloletnie plany współpracy zagranicznej.
 
@@ -725,6 +802,9 @@ Art. 39–75. (pominięte)
 **Art. 77.** (uchylony)
 
 **Art. 78.** Minister właściwy do spraw finansów publicznych ustala:
+
+- **1)** zasady ewidencji należności i zobowiązań Skarbu Państwa;
+- **2)** warunki prowadzenia rozliczeń środków zgromadzonych na rachunkach likwidacyjnych, w tym zasady stosowania kursów walut dla jednostek rozliczeniowych. Art. 79–89. (pominięte)
 
 **Art. 90.** Ilekroć w przepisach obowiązujących jest mowa o ministerstwie, należy przez to rozumieć urząd obsługujący ministra właściwego do danych spraw w rozumieniu ustawy.
 

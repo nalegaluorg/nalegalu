@@ -8,12 +8,10 @@ pos: 1210
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# zmieniająca ustawę o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw, ustawę o efektywności energetycznej oraz ustawę o biokomponentach i biopaliwach ciekłych
-
-*USTAWA z dnia 13 czerwca 2019 r.*
+# Ustawa z dnia 13 czerwca 2019 r. zmieniająca ustawę o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw, ustawę o efektywności energetycznej oraz ustawę o biokomponentach i biopaliwach ciekłych
 
 | Pole | Wartość |
 |---|---|
@@ -24,26 +22,472 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2019-06-13 |
 | Data wydania | 2019-06-28 |
+| Wejście w życie | 2019-06-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001210) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1210/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 28 grudnia 2018 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2538 oraz z 2019 r. poz. 412) wprowadza się następujące zmiany:
+## Załącznik nr 1 — – Oświadczenie odbiorcy końcowego energii elektrycznej (wzór)
 
-**Art. 2.** W ustawie z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. z 2019 r. poz. 545 i 1030) art. 55 1 otrzymuje brzmienie: „1. Do dnia 30 czerwca 2021 r. świadectwa efektywności energetycznej wydane na podstawie ustawy uchylanej art. 59 uwzględnia się realizacji obowiązku określonego art. 10 1.”.
+## Załącznik nr 2 — – Oświadczenie o otrzymanej pomocy de minimis (wzór)
 
-**Art. 3.** W ustawie z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2019 r. poz. 1155) wprowadza się następujące zmiany:
+Art. 1.
+W ustawie z dnia 28 grudnia 2018 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2538 oraz z 2019 r. poz. 412) wprowadza się następujące zmiany:
+1)
+w art. 5:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną określa ceny i stawki opłat za energię elektryczną w wysokości:
+1)
+cen stosowanych w dniu 31 grudnia 2018 r. ustalonych w taryfie w rozumieniu art. 3 pkt 17 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2019 r. poz. 755 i 730), zatwierdzonej przez Prezesa Urzędu Regulacji Energetyki, zwanego dalej „Prezesem URE”;
+2)
+nie wyższej niż ceny i stawki opłat za energię elektryczną stosowane w dniu 30 czerwca 2018 r. dla odbiorcy końcowego w rozumieniu art. 3 pkt 13a ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, zwanego dalej „odbiorcą końcowym”, ustalone przez to przedsiębiorstwo w inny sposób, niż wskazany w pkt 1, w tym w formie umów wynegocjowanych indywidualnie lub w trybie przewidzianym w ustawie z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2018 r. poz. 1986 i 2215 oraz z 2019 r. poz. 53 i 730), zwane dalej „cennikiem energii elektrycznej”
+na okres od dnia 1 stycznia 2019 r. do dnia 30 czerwca 2019 r. dla odbiorcy końcowego, innego niż określony w ust. 1a, oraz na okres od dnia 1 stycznia 2019 r. do dnia 31 grudnia 2019 r. dla odbiorcy końcowego określonego w ust. 1a.
+” ,
+b)
+po ust. 1 dodaje się ust. 1a-1e w brzmieniu:
+„
+1a.
+Obowiązek, o którym mowa w ust. 1, na okres od dnia 1 stycznia 2019 r. do dnia 31 grudnia 2019 r. stosuje się do odbiorców końcowych:
+1)
+pobierających energię elektryczną w punktach poboru energii o napięciu znamionowym nie wyższym niż 1 kV, zużywających energię elektryczną na potrzeby:
+a)
+gospodarstw domowych,
+b)
+pomieszczeń gospodarczych związanych z prowadzeniem gospodarstw domowych, o ile nie jest w nich wykonywana działalność gospodarcza,
+c)
+lokali o charakterze zbiorowego mieszkania, o ile nie jest w nich wykonywana działalność gospodarcza,
+d)
+mieszkań rotacyjnych, mieszkań pracowników placówek dyplomatycznych i pracowników zagranicznych przedstawicielstw,
+e)
+domów letniskowych, domów kempingowych i altan w ogródkach działkowych, w których nie jest wykonywana działalność gospodarcza oraz w przypadkach wspólnego pomiaru – administracji ogródków działkowych,
+f)
+oświetlenia w budynkach mieszkalnych,
+g)
+zasilania dźwigów w budynkach mieszkalnych,
+h)
+węzłów cieplnych i hydroforni, będących w zarządzie administracji domów mieszkalnych,
+i)
+garaży, w których nie jest wykonywana działalność gospodarcza;
+2)
+będących mikroprzedsiębiorcami albo małymi przedsiębiorcami w rozumieniu art. 7 ust. 1 pkt 1 i 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. poz. 646, 1479, 1629, 1633 i 2212);
+3)
+będących szpitalami, o których mowa w art. 2 ust. 1 pkt 9 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2018 r. poz. 2190 i 2219 oraz z 2019 r. poz. 492, 730 i 959);
+4)
+będących jednostkami sektora finansów publicznych w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869);
+5)
+będących innymi, niż określone w pkt 4, państwowymi jednostkami organizacyjnymi nieposiadającymi osobowości prawnej.
+1b.
+Odbiorca końcowy, o którym mowa w ust. 1a pkt 2–5, jest obowiązany w terminie:
+1)
+28 dni od dnia wejścia w życie ustawy z dnia 13 czerwca 2019 r. zmieniającej ustawę o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw, ustawę o efektywności energetycznej oraz ustawę o biokomponentach i biopaliwach ciekłych (Dz. U. poz. 1210),
+2)
+14 dni od dnia wystąpienia zdarzenia powodującego zmianę statusu odbiorcy końcowego, o którym mowa w ust. 1a pkt 2–5, mającą wpływ na przyznanie mu uprawnienia, o którym mowa w ust. 1
+złożyć przedsiębiorstwu energetycznemu wykonującemu działalność gospodarczą w zakresie obrotu energią elektryczną, będącemu stroną umowy sprzedaży energii elektrycznej albo umowy kompleksowej z tym odbiorcą, oświadczenie o spełnieniu przesłanek, o których mowa w ust. 1a pkt 2–5, którego wzór określa załącznik nr 1 do ustawy; oświadczenie to składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+1c.
+Odbiorca końcowy, o którym mowa w ust. 1a pkt 2–5, zawierający z przedsiębiorstwem energetycznym wykonującym działalność gospodarczą w zakresie obrotu energią elektryczną umowę sprzedaży energii elektrycznej albo umowę kompleksową obowiązany jest przy zawieraniu tej umowy, do złożenia temu przedsiębiorstwu oświadczenia, o którym mowa w ust. 1b.
+1d.
+W przypadku wystąpienia zdarzenia powodującego zmianę statusu odbiorcy końcowego, o którym mowa w ust. 1a pkt 2–5, mającą wpływ na utratę uprawnienia, o którym mowa w ust. 1, odbiorca ten obowiązany jest do poinformowania o tym zdarzeniu przedsiębiorstwa energetycznego wykonującego działalność gospodarczą w zakresie obrotu energią elektryczną, będącego stroną umowy sprzedaży energii elektrycznej albo umowy kompleksowej z tym odbiorcą niezwłocznie, nie później niż w terminie 14 dni od dnia wystąpienia tego zdarzenia. Obowiązek przedsiębiorstwa energetycznego, o którym mowa w ust. 1, traci moc od dnia wystąpienia tego zdarzenia.
+1e.
+Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu i dystrybucji energii elektrycznej, któremu Prezes URE udzielił koncesji na wykonywanie działalności gospodarczej w zakresie obrotu energią elektryczną po dniu 31 grudnia 2018 r. określa do dnia 31 grudnia 2019 r., dla odbiorcy końcowego, o którym mowa w ust. 1a pkt 1, przyłączonego do jego sieci, ceny za energię elektryczną w wysokości cen stosowanych w dniu 31 grudnia 2018 r. przez sprzedawcę z urzędu, na którego obszarze działania zlokalizowane są jego sieci, ustalonych w taryfie zatwierdzonej przez Prezesa URE.
+” ;
+2)
+w art. 6 dodaje się ust. 3–5 w brzmieniu:
+„
+3.
+Obowiązek, o którym mowa w ust. 1, uznaje się za wykonany w przypadku:
+1)
+dostosowania cen i stawek opłat za energię elektryczną dla odbiorcy końcowego zgodnie z art. 5 ust. 1, lub
+2)
+dostarczenia odbiorcy końcowemu cennika energii elektrycznej, w przypadku gdy odbiorca końcowy nie zaakceptował wprowadzenia zmian w zakresie cen i stawek opłat za energię elektryczną, zgodnie z art. 5 ust. 1, w zawartej umowie sprzedaży energii elektrycznej albo umowie kompleksowej w terminie wskazanym przez przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną, nie krótszym niż 7 dni od dnia otrzymania cennika energii elektrycznej, lub
+3)
+nieprzekazania przez odbiorcę końcowego informacji, niezbędnych przedsiębiorstwu energetycznemu wykonującemu działalność gospodarczą w zakresie obrotu energią elektryczną do wykonania obowiązku, o którym mowa w art. 5 ust. 1, w zakresie, trybie i w terminie wskazanym w przepisach wydanych na podstawie art. 7 ust. 2, lub
+4)
+niezłożenia przez odbiorcę końcowego, o którym mowa w art. 5 ust. 1a pkt 2–5 oświadczenia, zgodnie z art. 5 ust. 1b lub 1c, lub
+5)
+dostarczenia odbiorcy końcowemu propozycji wprowadzenia zmiany do umowy, zgodnie z ust. 5, w przypadku gdy odbiorca końcowy nie zaakceptował wprowadzenia tej zmiany w terminie wskazanym przez przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną, nie krótszym niż 7 dni od dnia otrzymania propozycji zmiany umowy.
+4.
+W przypadku gdy obiorca końcowy, o którym mowa w art. 5 ust. 1a pkt 2–5, nie złoży oświadczenia, o którym mowa w art. 5 ust. 1b pkt 1, zmiana umowy przez przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną obejmuje okres od dnia 1 stycznia 2019 r. do dnia 30 czerwca 2019 r.
+5.
+W przypadku gdy umowa sprzedaży energii elektrycznej lub umowa kompleksowa zawarta pomiędzy przedsiębiorstwem energetycznym wykonującym działalność gospodarczą w zakresie obrotu energią elektryczną i odbiorcą końcowym przewiduje określanie obowiązującej w 2019 r. lub w części 2019 r. ceny energii elektrycznej na podstawie wyboru przez odbiorcę końcowego terminu zakupu energii elektrycznej na giełdzie towarowej w rozumieniu przepisów ustawy z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2019 r. poz. 312), przedsiębiorstwo to dostarcza odbiorcy końcowemu propozycję wprowadzenia zmiany do umowy w zakresie ceny energii elektrycznej, w której na pozostałą część 2019 r. oferuje stałą cenę energii elektrycznej, określoną zgodnie z art. 5 ust. 1 pkt 2, nie później niż w terminie 30 dni od dnia wejścia w życie przepisów wydanych na podstawie art. 7 ust. 2.
+” ;
+3)
+po art. 6 dodaje się art. 6a w brzmieniu:
+„
+Art. 6a.
+W przypadku wystąpienia przez odbiorcę końcowego o ponowne wystawienie faktury za energię elektryczną, w celu wykonania przez przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną obowiązku, o którym mowa w art. 6 ust. 1, przedsiębiorstwo to obowiązane jest do jej wystawienia, w terminie 7 dni od dnia wystąpienia o wystawienie faktury, na zasadach określonych w ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2018 r. poz. 2174, z późn. zm.).
+” ;
+4)
+w art. 7:
+a)
+w ust. 1:
+– pkt 1 i 2 otrzymują brzmienie: „ 1) kwoty na pokrycie różnicy między wielkością przychodów za obrót energią elektryczną na rzecz odbiorców końcowych, o których mowa w art. 5 ust. 1, określoną na podstawie średnioważonej wolumenem ceny energii elektrycznej na rynku hurtowym powiększonej o pozostałe koszty jednostkowe, o których mowa w ust. 4 pkt 1, a wielkością przychodów wynikających z zastosowania cen energii elektrycznej, o których mowa w art. 5 ust. 1 pkt 1, lub cen i stawek opłat za energię elektryczną stosowanych w dniu 30 czerwca 2018 r., o których mowa w art. 5 ust. 1 pkt 2, obliczonej zgodnie ze wzorem określonym w przepisach wydanych na podstawie ust. 2, za okres od dnia 1 stycznia 2019 r. do dnia 30 czerwca 2019 r., lub 2) kwoty na pokrycie różnicy między wielkością kosztów nabycia energii elektrycznej na własne potrzeby przez tego odbiorcę końcowego, zużytej w okresie od dnia 1 stycznia 2019 r. do dnia 30 czerwca 2019 r., określonych na podstawie średnioważonej wolumenem ceny energii elektrycznej na rynku hurtowym a wielkością kosztów nabycia energii elektrycznej w czerwcu 2018 r., określonych na podstawie średnioważonej wolumenem ceny energii elektrycznej na rynku hurtowym, obliczonej zgodnie ze wzorem określonym w przepisach wydanych na podstawie ust. 2 ” ,
+– część wspólna otrzymuje brzmienie: „ – jako rekompensaty odpowiednio z tytułu obowiązku sprzedaży energii elektrycznej po cenach lub stawkach opłat za energię elektryczną określonych w art. 5 ust. 1 albo nabycia energii elektrycznej po cenach wyższych niż ceny nabycia w dniu 30 czerwca 2018 r., zwanej dalej „kwotą różnicy ceny”. ” ,
+b)
+po ust. 1a dodaje się ust. 1b w brzmieniu:
+„
+1b.
+Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną może zwrócić się do zarządcy rozliczeń cen z wnioskiem o wypłatę kwoty na pokrycie różnicy między wielkością przychodów za obrót energią elektryczną na rzecz odbiorców końcowych, o których mowa w art. 5 ust. 1a, określonej na podstawie średnioważonej wolumenem ceny energii elektrycznej na rynku hurtowym powiększonej o pozostałe koszty jednostkowe, o których mowa w ust. 4 pkt 1, a wielkością przychodów wynikających z zastosowania cen energii elektrycznej, o których mowa w art. 5 ust. 1 pkt 1, lub cen i stawek opłat za energię elektryczną stosowanych w dniu 30 czerwca 2018 r., o których mowa w art. 5 ust. 1 pkt 2, za okres od dnia 1 lipca 2019 r. do dnia 31 grudnia 2019 r., obliczonej zgodnie ze wzorem określonym w przepisach wydanych na podstawie ust. 2, zwanej dalej „rekompensatą finansową”.
+” ,
+c)
+w ust. 2:
+– w pkt 1: – – po lit. a dodaje się lit. aa w brzmieniu: „ aa) rekompensaty finansowej przez przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną, ” , – – w lit. b wyrazy „w lit. a” zastępuje się wyrazami „w lit. a i aa”,
+– w pkt 2 w lit. g wyraz „układu” zastępuje się wyrazem „urządzenia”,
+– w pkt 3 po wyrazach „kwoty różnicy ceny” dodaje się wyrazy „, rekompensaty finansowej”,
+– pkt 4 otrzymuje brzmienie: „ 4) zakres informacji ogłaszanych przez Prezesa URE w Biuletynie Informacji Publicznej Urzędu Regulacji Energetyki, stanowiących części składowe służące do obliczenia kwoty różnicy ceny i rekompensaty finansowej; ” ,
+– dodaje się pkt 5 w brzmieniu: „ 5) zakres informacji przedstawianych przez odbiorcę końcowego przedsiębiorstwu energetycznemu wykonującemu działalność gospodarczą w zakresie obrotu energią elektryczną w celu wykonania przez to przedsiębiorstwo obowiązku, o którym mowa w art. 5 ust. 1, oraz tryb i termin ich przekazania ” ,
+d)
+w ust. 3 po wyrazach „kwoty różnicy ceny” dodaje się wyrazy „oraz rekompensaty finansowej”,
+e)
+po ust. 4 dodaje się ust. 4a-4d w brzmieniu:
+„
+4a.
+Przedsiębiorca będący odbiorcą końcowym innym niż wskazany w art. 5 ust. 1a, może zwrócić się do zarządcy rozliczeń cen z wnioskiem o wypłatę dofinansowania z tytułu wzrostu cen energii elektrycznej, zwanego dalej „dofinansowaniem”, za okres od dnia 1 lipca 2019 r. do dnia 31 grudnia 2019 r.
+4b.
+Do ubiegania się o dofinansowanie nie są uprawnieni odbiorcy końcowi wykonujący działalność gospodarczą określoną w Polskiej Klasyfikacji Działalności (PKD) 2007 lub w Polskiej Klasyfikacji Wyrobów i Usług (PKWiU) 2015 i oznaczoną odpowiednio następującymi kodami: 24.42; 08.91; 20.13; 24.43; 14.11 (ex. 32.99); 24.10; 24.20.1; 17.12; 20.15 (ex 38.21); 24.44; (ex.19.10) 20.14; 13.10; 20.60; 07.10 (ex 09.90); 20.16.10; (ex 20.16.51.0); (ex 20.16.30.0); (ex 20.16.40.0); 17.11.14.0, wytwarzający co najmniej jeden produkt z wyżej wymienionego sektora oraz podsektora, posiadający tytuł prawny do instalacji w rozumieniu art. 3 pkt 6 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2018 r. poz. 799, z późn. zm.) oraz eksploatujący tę instalację.
+4c.
+Dofinansowanie oblicza się jako iloczyn jednostkowej stawki dofinansowania, określonej zgodnie z ust. 5, i wolumenu energii elektrycznej zakupionej przez odbiorcę końcowego w okresie do dnia 31 grudnia 2019 r. i zużytej w okresie od dnia 1 lipca 2019 r. do dnia 31 grudnia 2019 r.
+4d.
+Dofinansowanie stanowi pomoc de minimis w rozumieniu rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1), albo rozporządzenia Komisji (UE) nr 1408/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis w sektorze rolnym (Dz. Urz. UE L 352 z 24.12.2013, str. 9, z późn. zm.) albo rozporządzenia Komisji (UE) nr 717/2014 z dnia 27 czerwca 2014 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis w sektorze rybołówstwa i akwakultury (Dz. Urz. UE L 190 z 28.06.2014, str. 45).
+” ,
+f)
+ust. 5 i 6 otrzymują brzmienie:
+„
+5.
+Minister właściwy do spraw energii ogłasza w terminie 14 dni od dnia wejścia w życie przepisów wydanych na podstawie ust. 2, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, pozostałe koszty jednostkowe, o których mowa w ust. 4 pkt 1 lit. a, b oraz d, dla grup odbiorców końcowych określonych w odniesieniu do wysokości napięcia sieci elektroenergetycznej oraz stawkę dofinansowania, wyrażonego w zł/MWh, uwzględniając ceny sprzedaży energii elektrycznej za lata 2017 lub 2018, a przy ogłaszaniu pozostałych kosztów jednostkowych także koszty jednostkowe za lata 2017 lub 2018.
+6.
+Giełda towarowa energii elektrycznej w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych publikuje na swojej stronie internetowej części składowe służące do obliczenia kwoty różnicy ceny, rekompensaty finansowej i średnioważonych cen energii elektrycznej, o których mowa w przepisach wydanych na podstawie ust. 2, w sposób i w terminie określonych w tych przepisach.
+” ;
+5)
+po art. 7 dodaje się art. 7a i art. 7b w brzmieniu:
+„
+Art. 7a.
+1.
+Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną może zwrócić się do Prezesa URE z wnioskiem o określenie indywidualnych pozostałych kosztów jednostkowych, o których mowa w art. 7 ust. 4 pkt 1 lit. a-c, dla grup odbiorców końcowych określonych w odniesieniu do wysokości napięcia sieci elektroenergetycznej, zgodnie z obwieszczeniem wydanym na podstawie art. 7 ust. 5, za okres od dnia 1 stycznia 2019 r. do dnia 30 czerwca 2019 r., będących podstawą do obliczenia kwoty różnicy ceny, w terminie od dnia 1 stycznia 2020 r. do dnia 30 kwietnia 2020 r., przedkładając:
+1)
+dokumenty umożliwiające określenie tych indywidualnych pozostałych kosztów jednostkowych, w tym odpis sprawozdania finansowego za rok obrotowy 2019, sporządzonego na zasadach i w trybie określonym w ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2019 r. poz. 351) i ustawie z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. poz. 1089, z 2018 r. poz. 398, 1669, 2193 i 2243 oraz z 2019 r. poz. 730), zbadanego przez biegłego rewidenta, zawierającego w ramach ujawnień w informacji dodatkowej tego sprawozdania przedstawienie odpowiednich pozycji bilansu oraz rachunku zysków i strat za okres od dnia 1 stycznia 2019 r. do dnia 30 czerwca 2019 r., odrębnie dla wykonywanej działalności gospodarczej w zakresie obrotu energią elektryczną dla każdej z grup odbiorców końcowych, określonych w odniesieniu do wysokości napięcia sieci elektroenergetycznej, zgodnie z obwieszczeniem wydanym na podstawie art. 7 ust. 5;
+2)
+obliczenia indywidualnych pozostałych kosztów jednostkowych, o których mowa w art. 7 ust. 4 pkt 1 lit. a-c, dla danego przedsiębiorstwa energetycznego wykonującego działalność gospodarczą w zakresie obrotu energią elektryczną poniesionych w okresie od dnia 1 stycznia 2019 r. do dnia 30 czerwca 2019 r., na podstawie dokumentów, wskazanych w pkt 1.
+2.
+Prezes URE ocenia wniosek, o którym mowa w ust. 1, pod względem:
+1)
+zasadności zakwalifikowania danych kosztów do rodzaju kosztów, o których mowa w art. 7 ust. 4 pkt 1 lit a-c;
+2)
+prawidłowości dokonanych przez przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną obliczeń, o których mowa w ust. 1 pkt 2;
+3)
+kompletności złożonych dokumentów.
+3.
+Prezes URE w terminie 90 dni od dnia otrzymania wniosku, o którym mowa w ust. 1, określa, w drodze decyzji, wysokość indywidualnych pozostałych kosztów jednostkowych dla grup odbiorców końcowych, określonych w odniesieniu do wysokości napięcia sieci elektroenergetycznej zgodnie z obwieszczeniem wydanym na podstawie art. 7 ust. 5, poniesionych w okresie od dnia 1 stycznia 2019 r. do dnia 30 czerwca 2019 r., albo odmawia, w drodze decyzji, określenia tych kosztów w przypadku niespełnienia warunków wskazanych w ust. 2, informując przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną o przyczynie tej odmowy. Odpis decyzji doręcza się zarządcy rozliczeń cen.
+4.
+Wniosek, o którym mowa w ust. 1, oraz ocena przez Prezesa URE, o której mowa w ust. 2, obejmują wszystkie pozostałe koszty jednostkowe, o których mowa w art. 7 ust. 4 pkt 1 lit. a-c, poniesione w okresie od dnia 1 stycznia 2019 r. do dnia 30 czerwca 2019 r.
+5.
+Prezes URE w toku postępowania, o którym mowa w ust. 2 i 3, ma prawo wglądu do ksiąg rachunkowych oraz żądania od przedsiębiorstwa energetycznego wykonującego działalność gospodarczą w zakresie obrotu energią elektryczną przedstawienia informacji i innych dokumentów niezbędnych do weryfikacji danych przedstawionych we wniosku, o którym mowa w ust. 1, oraz może żądać przedstawienia takich informacji lub dokumentów od innych niż to przedsiębiorstwo podmiotów, które są w ich w posiadaniu, z zachowaniem przepisów o ochronie informacji niejawnych i innych informacji prawnie chronionych.
+6.
+W przypadku gdy wypłacona przedsiębiorstwu energetycznemu wykonującemu działalność gospodarczą w zakresie obrotu energią elektryczną kwota różnicy ceny jest wyższa albo niższa niż kwota różnicy ceny ustalona na podstawie zastosowania indywidualnych pozostałych kosztów jednostkowych określonych w decyzji, o której mowa w ust. 3, przedsiębiorstwo to dokonując korekty, o której mowa w art. 9, stosuje koszty jednostkowe ustalone w tej decyzji.
+1.
+Wniosek, o którym mowa w art. 7 ust. 4a, składa się za okres kwartału kalendarzowego, przy użyciu formularza udostępnionego na platformie elektronicznej utworzonej w tym celu przez zarządcę rozliczeń cen. Wniosek opatruje się kwalifikowanym podpisem elektronicznym.
+2.
+Do wniosku, o którym mowa w art. 7 ust. 4a, dołącza się oświadczenie, którego wzór określa załącznik nr 2 do ustawy. Oświadczenie to składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+3.
+Wniosek, o którym mowa w art. 7 ust. 4a, zawiera w szczególności:
+1)
+oznaczenie wnioskodawcy – jego firmę, siedzibę i adres poczty elektronicznej;
+2)
+numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile wnioskodawca taki numer posiada, albo numer równoważnego rejestru państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Turcji;
+3)
+numer identyfikacji podatkowej (NIP);
+4)
+wolumen zakupionej energii elektrycznej, określony na podstawie rzeczywistych odczytów urządzeń pomiarowo-rozliczeniowych, za którą w okresie objętym wnioskiem przysługuje temu odbiorcy dofinansowanie, wyrażony w MWh, z dokładnością do czterech miejsc po przecinku;
+5)
+wnioskowaną wysokość dofinansowania obliczoną zgodnie z art. 7 ust. 4c;
+6)
+oznaczenie okresu, którego wniosek dotyczy;
+7)
+numery faktur, numery punktów poboru energii oraz wolumen energii elektrycznej, o którym mowa w pkt 4, odrębnie dla każdej faktury, punktu poboru energii i dla każdego przedsiębiorstwa energetycznego wykonującego działalność gospodarczą w zakresie obrotu energią elektryczną ze wskazaniem nazwy tego przedsiębiorstwa;
+8)
+numer rachunku bankowego, na który ma zostać dokonana wypłata dofinansowania.
+4.
+Wniosek, o którym mowa w art. 7 ust. 4a, może zostać złożony w terminie do dnia 30 czerwca 2020 r. pod rygorem utraty prawa do otrzymania dofinansowania. Wniosek złożony po upływie tego terminu pozostawia się bez rozpoznania.
+5.
+Zarządca rozliczeń cen, w terminie 7 dni od dnia otrzymania wniosku, o którym mowa w art. 7 ust. 4a, występuje za pomocą środków komunikacji elektronicznej do przedsiębiorstwa energetycznego wykonującego działalność gospodarczą w zakresie obrotu energią elektryczną, wskazanego we wniosku, o potwierdzenie danych dotyczących wolumenu sprzedanej energii elektrycznej wskazanego we wniosku.
+6.
+Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną potwierdza za pomocą środków komunikacji elektronicznej dane dotyczące wolumenu sprzedanej energii elektrycznej za wskazany we wniosku, o którym mowa w art. 7 ust. 4a, okres w terminie 14 dni od dnia wystąpienia o potwierdzenie danych przez zarządcę rozliczeń cen.
+7.
+Zarządca rozliczeń cen dokonuje weryfikacji wniosku, o którym mowa w art. 7 ust. 4a, pod względem poprawności dokonanych obliczeń, kompletności wymaganych danych oraz prawidłowości złożonego oświadczenia.
+8.
+W przypadku pozytywnej weryfikacji wniosku, o którym mowa w art. 7 ust. 4a, zarządca rozliczeń cen zatwierdza wniosek i dokonuje wypłaty dofinansowania w terminie 40 dni od dnia otrzymania prawidłowo sporządzonego wniosku. Zatwierdzenie wniosku nie wymaga wydania decyzji administracyjnej. Przepisy art. 8 ust. 6–8a stosuje się odpowiednio.
+9.
+Za dzień udzielenia pomocy publicznej uznaje się dzień zatwierdzenia wniosku, o którym mowa w art. 7 ust. 4a, przez zarządcę rozliczeń cen.
+10.
+Zarządca rozliczeń cen w dniu udzielenia pomocy publicznej wydaje i doręcza odbiorcy końcowemu, za pomocą środków komunikacji elektronicznej, zaświadczenie o udzielonej pomocy de minimis.
+” ;
+6)
+w art. 8:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Wniosek, o którym mowa w art. 7 ust. 1 i 1b, składa się do zarządcy rozliczeń cen przy użyciu formularza udostępnionego na platformie elektronicznej utworzonej w tym celu przez zarządcę rozliczeń cen i opatruje się kwalifikowanym podpisem elektronicznym.
+” ,
+b)
+w ust. 2 w pkt 7 po wyrazach „kwoty różnicy ceny” dodaje się wyrazy „lub rekompensaty finansowej”,
+c)
+w ust. 2a pkt 1 i 2 otrzymują brzmienie:
+„
+1)
+wolumen energii elektrycznej zakupionej i zużytej przez odbiorców końcowych w 2019 r., za którą w okresie objętym wnioskiem przysługuje temu przedsiębiorstwu kwota różnicy ceny lub rekompensata finansowa, wyrażony w MWh, z dokładnością do czterech miejsc po przecinku, z podziałem na poszczególne ceny i stawki opłat za energię elektryczną i z wyodrębnieniem odbiorców końcowych lub grup tych odbiorców i ich liczby, przypisanych poszczególnym cenom i stawkom opłat za energię elektryczną;
+2)
+wnioskowaną wysokość kwoty różnicy ceny albo rekompensaty finansowej, obliczoną odpowiednio zgodnie z art. 7 ust. 1 pkt 1 i ust. 1b, z zaokrągleniem w górę do pełnego złotego.
+” ,
+d)
+w ust. 2b pkt 1 otrzymuje brzmienie:
+„
+1)
+wolumen energii elektrycznej zakupionej i zużytej przez tego odbiorcę końcowego w okresie od dnia 1 stycznia 2019 r. do dnia 30 czerwca 2019 r., za którą w okresie objętym wnioskiem przysługuje temu odbiorcy końcowemu kwota różnicy ceny, wyrażony w MWh, określony na podstawie rzeczywistych odczytów urządzeń pomiarowo-rozliczeniowych, z dokładnością do czterech miejsc po przecinku z podziałem na poszczególne ceny;
+” ,
+e)
+w ust. 3 wyrazy „pomiarowo rozliczeniowych” zastępuje się wyrazami „pomiarowo-rozliczeniowych”,
+f)
+ust. 4a otrzymuje brzmienie:
+„
+4a.
+W przypadku powzięcia uzasadnionych wątpliwości co do wysokości wskazanego we wniosku wolumenu energii elektrycznej, zarządca rozliczeń cen dokonuje szczegółowej weryfikacji tego wolumenu, poprzez żądanie od przedsiębiorstwa energetycznego wykonującego działalność gospodarczą w zakresie obrotu energią elektryczną lub odbiorcy końcowego, o którym mowa w art. 7 ust. 1, przedstawienia dokumentów lub informacji mających znaczenie dla oceny jego prawidłowości, a przedsiębiorstwo to zobowiązane jest do ich przekazania zarządcy rozliczeń cen w terminie wskazanym w żądaniu, nie krótszym niż 14 dni od dnia otrzymania żądania.
+” ,
+g)
+w ust. 5 po wyrazach „kwoty różnicy ceny” dodaje się wyrazy „lub rekompensaty finansowej”,
+h)
+ust. 8a i 9 otrzymują brzmienie:
+„
+8a.
+Zarządca rozliczeń cen może w terminie 7 miesięcy od dnia wypłaty kwoty różnicy ceny lub rekompensaty finansowej żądać od podmiotów, o których mowa w art. 7 ust. 1 i 1b, przedłożenia dokumentów lub informacji uzasadniających wysokość wypłaconej kwoty różnicy ceny lub rekompensaty finansowej. Przepisy ust. 4a i 4b stosuje się odpowiednio.
+9.
+Wniosek, o którym mowa w art. 7:
+1)
+ust. 1 – składa się do zarządcy rozliczeń cen jednorazowo, w terminie 40 dni od dnia wejścia w życie obwieszczenia wydanego na podstawie art. 7 ust. 5,
+2)
+ust. 1b – składa się do zarządcy rozliczeń cen, za okres pełnego miesiąca kalendarzowego, najpóźniej do dnia 31 stycznia 2020 r.
+pod rygorem pozostawienia tego wniosku bez rozpoznania.
+” ,
+i)
+w ust. 10 po wyrazach „kwoty różnicy ceny” dodaje się wyrazy „lub rekompensaty finansowej”,
+j)
+dodaje się ust. 11 w brzmieniu:
+„
+11.
+Kwota różnicy ceny, rekompensata finansowa oraz dofinansowanie nie stanowią dotacji, subwencji i innych dopłat o podobnym charakterze, o których mowa w art. 29a ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług.
+” ;
+7)
+w art. 9:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną dokonuje korekty otrzymanej kwoty różnicy ceny oraz rekompensaty finansowej po uzyskaniu potwierdzenia danych od operatora lub operatorów systemów dystrybucyjnych o wolumenie sprzedanej i zużytej energii elektrycznej za okres od dnia 1 stycznia 2019 r. do dnia 31 grudnia 2019 r., oraz składa wniosek do zarządcy rozliczeń cen o korektę otrzymanej kwoty różnicy ceny oraz rekompensaty finansowej.
+” ,
+b)
+po ust. 1 dodaje się ust. 1a i 1b w brzmieniu:
+„
+1a.
+W przypadku gdy Prezes URE w decyzji, o której mowa w art. 7a ust. 3, ustalił indywidualne pozostałe koszty jednostkowe, korekty kwoty różnicy ceny, o której mowa w ust. 1, dokonuje się uwzględniając pozostałe koszty jednostkowe wynikające z tej decyzji.
+1b.
+Złożenie wniosku, o którym mowa w art. 7a ust. 1, wstrzymuje prawo do wystąpienia z wnioskiem, o którym mowa w art. 9 ust. 1, do czasu wydania przez Prezesa URE decyzji, o której mowa w art. 7a ust. 3.
+” ,
+c)
+w ust. 2 po wyrazach „art. 7 ust. 1” dodaje się wyrazy „pkt 1 i ust. 1b”,
+d)
+po użytych w ust. 3 i 4 w różnej liczbie i różnym przypadku wyrazach „kwota różnicy ceny” dodaje się użyte w odpowiedniej liczbie i odpowiednim przypadku wyrazy „lub rekompensaty finansowej”;
+8)
+w art. 10:
+a)
+ust. 1 i 1a otrzymują brzmienie:
+„
+1.
+Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną lub odbiorca końcowy, o którym mowa w art. 7 ust. 1 i 4a, którzy na podstawie wniosków, o których mowa w art. 7 ust. 1, 1b i 4a, otrzymali kwotę różnicy ceny, rekompensatę finansową lub dofinansowanie nienależnie, obowiązani są do ich zwrotu.
+1a.
+Zarządca rozliczeń cen wydaje decyzję określającą wysokość nienależnie pobranej kwoty różnicy ceny, rekompensaty finansowej lub dofinansowania podlegających zwrotowi oraz termin dokonania tego zwrotu.
+” ,
+b)
+uchyla się ust. 1b i 2,
+c)
+ust. 3 otrzymuje brzmienie:
+„
+3.
+Od nienależnie pobranej kwoty różnicy ceny, rekompensaty finansowej i dofinansowania naliczane są odsetki ustawowe za opóźnienie od dnia ich otrzymania.
+” ;
+9)
+po art. 10 dodaje się art. 10a w brzmieniu:
+„
+Art. 10a.
+W sprawach decyzji, wydawanych przez zarządcę rozliczeń cen, organem wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096 oraz z 2019 r. poz. 60, 730 i 1133), w stosunku do zarządcy rozliczeń cen, jest minister właściwy do spraw energii, jako dysponent Funduszu Wypłaty Różnicy Ceny, zwanego dalej „Funduszem”.
+” ;
+10)
+w art. 11:
+a)
+w ust. 1 skreśla się wyrazy „Wypłaty Różnicy Ceny, zwany dalej „Funduszem” „,
+b)
+ust. 2 otrzymuje brzmienie:
+„
+2.
+Kwoty różnicy ceny, rekompensaty finansowe oraz dofinansowania finansowane są z Funduszu.
+” ;
+11)
+w art. 12 pkt 2 otrzymuje brzmienie:
+„
+2)
+środki stanowiące zwrot kwot różnicy ceny, rekompensat finansowych oraz dofinansowań;
+” ;
+12)
+w art. 13 pkt 1 otrzymuje brzmienie:
+„
+1)
+wypłatę kwot różnicy ceny, rekompensat finansowych oraz dofinansowań;
+” ;
+13)
+w art. 14 w ust. 1 we wprowadzeniu do wyliczenia wyrazy „kwot różnic cen” zastępuje się wyrazami „kwot, o których mowa w art. 13 pkt 1”;
+14)
+w art. 15 w pkt 1 wyrazy „pkt 1 i 2” zastępuje się wyrazami „pkt 1–2a;”;
+15)
+w art. 16 w ust. 1:
+a)
+pkt 1 i 2 otrzymują brzmienie:
+„
+1)
+weryfikacja wniosków, o których mowa w art. 7 ust. 1, 1b, 4a oraz art. 9 ust. 1;
+2)
+dokonywanie wypłat kwot różnicy ceny i rekompensat finansowych, a także korekt tych wypłat;
+” ,
+b)
+po pkt 2 dodaje się pkt 2a w brzmieniu:
+„
+2a)
+dokonywanie wypłat dofinansowania oraz wydawanie zaświadczeń o udzielonej pomocy de minimis;
+” ,
+c)
+uchyla się pkt 6,
+d)
+pkt 7 otrzymuje brzmienie:
+„
+7)
+prowadzenie ewidencji finansowo-księgowej środków Funduszu;
+” ,
+e)
+uchyla się pkt 8,
+f)
+dodaje się pkt 9 w brzmieniu:
+„
+9)
+dokonywanie zapłaty wynagrodzenia BGK za prowadzenie obsługi bankowej Funduszu.
+” ;
+16)
+w art. 18:
+a)
+w ust. 1:
+– w pkt 1 po wyrazach „w art. 5” dodaje się wyrazy „ust. 1 i 1a”,
+– w pkt 2 po wyrazach „w art. 6” dodaje się wyrazy „ust. 1 i 2”,
+– w pkt 3 po wyrazach „o której mowa w art. 9 ust. 1” dodaje się wyrazy „, a w przypadku wydania decyzji, o której mowa w art. 7a ust. 3, nie dokonuje korekty zgodnie z treścią tej decyzji;”,
+– dodaje się pkt 4 w brzmieniu: „ 4) nie wypełnia obowiązku, o którym mowa w art. 6a. ” ,
+b)
+ust. 4 otrzymuje brzmienie:
+„
+4.
+Wysokość kary pieniężnej, o której mowa w ust. 1:
+1)
+pkt 1–3 – nie może być niższa niż 0,5% i wyższa niż 5% przychodu ukaranego przedsiębiorcy, wynikającego z działalności koncesjonowanej, osiągniętego w poprzednim roku podatkowym, a jeżeli przedsiębiorca nie uzyskał przychodu w poprzednim roku podatkowym, wysokość kary nie może być niższa od 100 000 zł i wyższa od 500 000 zł;
+2)
+pkt 4 – wynosi 500 zł oddzielnie od każdej niewystawionej faktury.
+” ,
+c)
+w ust. 5a wyrazy „art. 5 lub art. 6” zastępuje się wyrazami „art. 5 ust. 1 i 1a lub art. 6 ust. 1 i 2”;
+17)
+dodaje się załączniki nr 1 i 2 do ustawy w brzmieniu określonym w załącznikach nr 1 i 2 do niniejszej ustawy.
+Art. 2.
+Wustawie z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. z 2019 r. poz. 545 i 1030) w art. 55 ust. 1 otrzymuje brzmienie:
+„
+1.
+Do dnia 30 czerwca 2021 r. świadectwa efektywności energetycznej wydane na podstawie ustawy uchylanej w art. 59 uwzględnia się w realizacji obowiązku określonego w art. 10 ust. 1.
+” .
+Art. 3.
+Wustawie z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2019 r. poz. 1155) wprowadza się następujące zmiany:
+1)
+w art. 28ze w ust. 1 po pkt 11 dodaje się pkt 11a w brzmieniu:
+„
+11a)
+wsparcie zakupu nowych pojazdów kategorii M1, o której mowa w załączniku nr 2 do ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2018 r. poz. 1990, z późn. zm.), wykorzystujących do napędu energię elektryczną wytworzoną z wodoru w zainstalowanych w nim ogniwach paliwowych lub wykorzystujących do napędu wyłącznie energię elektryczną;
+” ;
+2)
+w art. 28zf:
+a)
+w ust. 2 w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu:
+„
+10)
+pkt 11a – osobom fizycznym niewykonującym działalności gospodarczej.
+” ,
+b)
+ust. 5 otrzymuje brzmienie:
+„
+5.
+Minister właściwy do spraw energii w porozumieniu z ministrem właściwym do spraw finansów publicznych, ministrem właściwym do spraw gospodarki, ministrem właściwym do spraw środowiska, ministrem właściwym do spraw gospodarki morskiej oraz ministrem właściwym do spraw żeglugi śródlądowej określi, w drodze rozporządzenia:
+1)
+szczegółowe warunki udzielania wsparcia, o którym mowa w art. 28ze ust. 1 pkt 1–11, ze środków Funduszu,
+2)
+szczegółowy sposób rozliczania wsparcia, o którym mowa w art. 28ze ust. 1 pkt 1–11, udzielonego ze środków Funduszu
+mając na względzie skuteczność wsparcia niskoemisyjnego transportu, rynku biokomponentów i biopaliw ciekłych oraz prawidłowe wykorzystanie udzielonego wsparcia.
+” ;
+3)
+w art. 28zg:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Wybór projektów do wsparcia ze środków Funduszu, z wyłączeniem wsparcia, o którym mowa w art. 28ze ust. 1 pkt 11a, jest dokonywany w trybie:
+1)
+konkursowym;
+2)
+pozakonkursowym.
+” ,
+b)
+w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Ze środków Funduszu może być udzielone wsparcie w trybie konkursowym oraz pozakonkursowym wnioskodawcy, który: ” ,
+c)
+ust. 5 i 6 otrzymują brzmienie:
+„
+5.
+Wsparcia w trybie konkursowym oraz pozakonkursowym udziela się projektom, które uzyskały najwyższą ocenę w postępowaniu w zakresie wyboru projektów do wsparcia, aż do wyczerpania środków finansowych przeznaczonych na wsparcie w tym postępowaniu.
+6.
+Minister właściwy do spraw energii w porozumieniu z ministrem właściwym do spraw finansów publicznych, ministrem właściwym do spraw gospodarki, ministrem właściwym do spraw środowiska, ministrem właściwym do spraw gospodarki morskiej oraz ministrem właściwym do spraw żeglugi śródlądowej określi, w drodze rozporządzenia, szczegółowe kryteria wyboru projektów do wsparcia, o którym mowa w art. 28ze ust. 1 pkt 1–11, kierując się koniecznością zapewnienia efektywnej realizacji celów wspieranych ze środków Funduszu oraz prawidłowego przebiegu wyboru projektów w toku postępowania w zakresie wyboru projektów do wsparcia.
+” ;
+4)
+po art. 28zg dodaje się art. 28zga w brzmieniu:
+„
+Art. 28zga.
+1.
+Wsparcia, o którym mowa w art. 28ze ust. 1 pkt 11a, udziela się na wniosek.
+2.
+Nabór wniosków o udzielenie wsparcia, o którym mowa w art. 28ze ust. 1 pkt 11a, jest prowadzony w trybie ciągłym do czasu wyczerpania środków finansowych przeznaczonych na wsparcie w danym roku.
+3.
+Wnioski o udzielenie wsparcia, o którym mowa w art. 28ze ust. 1 pkt 11a, są rozpatrywane przez Zarządzającego, który rekomenduje Dysponentowi wnioski do wsparcia.
+4.
+W przypadku wsparcia, o którym mowa w art. 28ze ust. 1 pkt 11a, nie stosuje się przepisów art. 28zk-28zp.
+5.
+Minister właściwy do spraw energii w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowe warunki udzielania i rozliczania wsparcia osobom fizycznym niewykonującym działalności gospodarczej, w tym wysokość wsparcia, biorąc pod uwagę sytuacje finansową Funduszu oraz rozwój rynku pojazdów elektrycznych.
+” .
+Art. 4.
+Korektę planu finansowego Funduszu Wypłaty Różnicy Ceny na 2019 r. dysponent Funduszu sporządza w terminie 30 dni od dnia wejścia w życie niniejszej ustawy.
+Art. 5.
+1.
+Minister właściwy do spraw energii monitoruje wykorzystanie środków finansowych zgromadzonych na rachunku bankowym Funduszu Wypłaty Różnicy Ceny.
+2.
+W przypadku gdy wykorzystanie środków finansowych Funduszu Wypłaty Różnicy Ceny w pierwszych 9 miesiącach 2019 r. wyniesie więcej niż 70% środków finansowych wskazanych w planie finansowym Funduszu Wypłaty Różnicy Ceny na 2019 r. minister właściwy do spraw energii może wydać obwieszczenie, o którym mowa w art. 7 ust. 5, obejmujące pozostałą część roku, uwzględniając sytuację na rynku energii elektrycznej w 2019 r.
+Minister właściwy do spraw energii wyda przepisy wykonawcze na podstawie art. 7 ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w terminie 21 dni od dnia wejścia w życie niniejszej ustawy.
+Przepis art. 55 ust. 1 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, stosuje się od dnia 30 czerwca 2019 r.
+Art. 8.
+Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
-**Art. 4.** Korektę planu finansowego Funduszu Wypłaty Różnicy Ceny na 2019 r. dysponent Funduszu sporządza terminie 30 dni od dnia wejścia życie niniejszej ustawy.
+## Załącznik nr 1 — – Oświadczenie odbiorcy końcowego energii elektrycznej (wzór)
 
-**Art. 5.**
+patrz oryginał
 
-1. Minister właściwy do spraw energii monitoruje wykorzystanie środków finansowych zgromadzonych na rachunku bankowym Funduszu Wypłaty Różnicy Ceny.
+## Załącznik nr 2 — – Oświadczenie o otrzymanej pomocy de minimis (wzór)
 
-2. W przypadku gdy wykorzystanie środków finansowych Funduszu Wypłaty Różnicy Ceny pierwszych 9 miesiącach 2019 r. wyniesie więcej niż 70% środków finansowych wskazanych planie finansowym Funduszu Wypłaty Różnicy Ceny na 2019 r. minister właściwy do spraw energii może wydać obwieszczenie, o którym mowa art. 7 5, obejmujące pozostałą część roku, uwzględniając sytuację na rynku energii elektrycznej 2019 r.
-
-**Art. 6.** Minister właściwy do spraw energii wyda przepisy wykonawcze na podstawie art. 7 2 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, terminie 21 dni od dnia wejścia życie niniejszej ustawy.
-
-**Art. 7.** Przepis art. 55 1 ustawy zmienianej art. 2, brzmieniu nadanym niniejszą ustawą, stosuje się od dnia 30 czerwca 2019 r.
-
-**Art. 8.** Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia. WZÓR OŚWIADCZENIE ODBIORCY KOŃCOWEGO ENERGII ELEKTRYCZNEJ Lp. NUMER PPE ALBO NUMER LICZNIKA ENERGII ELEKTRYCZNEJ 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 15. 16. 17. 18. 19. 20. * W przypadku większej niż 20 liczby PPE należy dołączyć dodatkową tabelę. „ WZÓR OŚWIADCZENIE O OTRZYMANEJ POMOCY DE MINIMIS Instrukcja wypełniania 1. Wypełnić WIELKIMI LITERAMI. 2. W oświadczeniu należy podać wyrażoną walucie euro kwotę pomocy de minimis tym pomocy de minimis rolnictwie lub rybołówstwie, otrzymanej bieżącym roku podatkowym oraz dwóch poprzedzających go latach podatkowych, z wyodrębnieniem pomocy uzyskanej rolnictwie i rybołówstwie. 3. W przypadku braku otrzymanej pomocy ww. okresie, należy wpisać cyfrę zero. Dane identyfikacyjne wnioskodawcy NAZWA ADRES (ULICA I NUMER DOMU LUB LOKALU) ADRES (MIASTO ORAZ KOD POCZTOWY) NIP Dane identyfikacyjne osoby uprawnionej do reprezentowania wnioskodawcy IMIĘ NAZWISKO RODZAJ DOKUMENTU TOŻSAMOŚCI Wpisz „1” jeśli dowód osobisty lub „2” jeśli paszport SERIA I NUMER DOKUMENTU Wielkość otrzymanej dotychczas pomocy de minimis tym pomocy de minimis rolnictwie lub rybołówstwie KWOTA CAŁKOWITA POMOCY tym kwota pomocy de minimis rolnictwie i rybołówstwie E U R E U R
+patrz oryginał
 

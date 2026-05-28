@@ -8,10 +8,10 @@ pos: 1384
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 21 lipca 2023 OBWIESZCZENIE MINISTRA OBRONY NARODOWEJ 13 czerwca 2023 sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Obrony Narodowej sprawie oddelegowania funkcjonariusza Służby Wywiadu wykonywania zadań służbowych poza Służbą Wywiadu
+# Obwieszczenie Ministra Obrony Narodowejz dnia 13 czerwca 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Obrony Narodowej w sprawie oddelegowania funkcjonariusza Służby Wywiadu Wojskowego do wykonywania zadań służbowych poza Służbą Wywiadu Wojskowego
 
 | Pole | Wartość |
 |---|---|
@@ -25,67 +25,160 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001384) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1384/text.pdf) |
 
-1. Na podstawie art. 16 ust. 3 ustawy 20 lipca 2000 o ogłaszaniu aktów normatywnych niektórych innych aktów prawnych 2019 1461) ogłasza załączniku niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Obrony Narodowej 29 września 2006 sprawie oddelegowania funkcjonariusza Służby Wywiadu wykonywania zadań służbowych poza Służbą Wywiadu 1346), uwzględnieniem zmian wprowadzonych: rozporządzeniem Ministra Obrony Narodowej 24 lutego 2009 zmieniającym rozporządzenie sprawie oddelegowania funkcjonariusza Służby Wywiadu wykonywania zadań służbowych poza Służbą Wywiadu
-318);
-rozporządzeniem Ministra Obrony Narodowej 4 2015 zmieniającym rozporządzenie sprawie oddelegowania funkcjonariusza Służby Wywiadu wykonywania zadań służbowych poza Służbą Wywiadu
-386);
-3) rozporządzeniem Ministra Obrony Narodowej 3 stycznia 2023 zmieniającym rozporządzenie sprawie oddelegowania funkcjonariusza Służby Wywiadu wykonywania zadań służbowych poza Służbą Wywiadu
-36).
-Podany załączniku niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje: 2 rozporządzenia Ministra Obrony Narodowej 24 lutego 2009 zmieniającego rozporządzenie sprawie oddelegowania funkcjonariusza Służby Wywiadu wykonywania zadań służbowych poza Służbą Wywiadu
-318), który stanowi: „§ Rozporządzenie wchodzi życie po upływie 14 dni od ogłoszenia.”;
-2 rozporządzenia Ministra Obrony Narodowej 4 2015 zmieniającego rozporządzenie sprawie oddelegowania funkcjonariusza Służby Wywiadu wykonywania zadań służbowych poza Służbą Wywiadu
-386), który stanowi: „§ Rozporządzenie wchodzi życie po upływie 14 dni od ogłoszenia.”;
-3) 2 3 rozporządzenia Ministra Obrony Narodowej 3 stycznia 2023 zmieniającego rozporządzenie spra11 2022 o obronie Ojczyzny, jednak nie dłużej niż upływu terminu określonego tym przepisie.
-3. Rozporządzenie wchodzi życie po upływie 14 dni od ogłoszenia.”.
-Minister Obrony Narodowej: up. M. Wiśniewski ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ 29 września 2006 sprawie oddelegowania funkcjonariusza Służby Wywiadu wykonywania zadań służbowych poza Służbą Wywiadu Na podstawie art. 15 ust. 3 ustawy 9 czerwca 2006 o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu 2022 1328 oraz 2023 347) zarządza się, co następuje:
-1. Rozporządzenie określa: warunki tryb oddelegowania funkcjonariusza Służby Wywiadu Wojskowego, zwanej dalej „SWW”, wykonywania zadań służbowych poza SWW;
-wysokość sposób wypłacania uposażenia innych świadczeń pieniężnych przysługujących oddelegowanemu funkcjonariuszowi SWW;
-3) uprawnienia obowiązki funkcjonariusza SWW czasie oddelegowania;
-4) szczególne uprawnienia obowiązki funkcjonariusza SWW pełniącego służbę poza granicami kraju.
-Oddelegowanie funkcjonariusza SWW następuje podstawie rozkazu personalnego Szefa SWW o oddelegowaniu, który zawiera: dane identyfikujące oddelegowanego funkcjonariusza SWW;
-datę okres oddelegowania;
-3) nazwę podmiotu, którego następuje oddelegowanie, zwanego dalej „podmiotem oddelegowania”;
-4) rodzaj poświadczenia bezpieczeństwa upoważniającego oddelegowanego funkcjonariusza SWW dostępu informacji niejawnych okres jego ważności.
-3. 1. Oddelegowanie funkcjonariusza następuje wniosek Szefa SWW lub kierownika podmiotu oddelegowania, zwany dalej „wnioskiem”.
-Z wnioskiem występuje Szef SWW kierownika podmiotu oddelegowania albo kierownik podmiotu oddelegowania Szefa SWW.
-4. Wniosek zawiera następujące dane: nazwę podmiotu oddelegowania;
-proponowane stanowisko służbowe przeznaczone dla oddelegowanego funkcjonariusza oraz przysługującą tym stanowisku wysokość uposażenia, ze wskazaniem poszczególnych jego składników;
-3) kwalifikacje wymagane zajmowania proponowanego stanowiska służbowego;
-4) zakres wykonywanych zadań obowiązków proponowanym stanowisku służbowym;
-5) wymagania zakresie rodzaju poświadczenia bezpieczeństwa upoważniającego dostępu informacji niejawnych okres jego ważności;
-6) proponowany okres oddelegowania;
-7) informacje o ilości godzin pracy użyciem monitora ekranowego.
-5. Szef SWW: przypadku uwzględnienia wniosku wyznacza funkcjonariusza oddelegowania;
-7. 1. przypadku, o którym mowa 5 pkt 1, Szef SWW zawiera właściwym kierownikiem podmiotu oddelegowania porozumienie o oddelegowaniu, zwane dalej „porozumieniem”.
-Porozumienie określa: datę porozumienia;
+Treść obwieszczenia
+Załącznik – Tekst jednolity rozporządzenia Ministra Obrony Narodowej z dnia 29 września 2006 r. w sprawie oddelegowania funkcjonariusza Służby Wywiadu Wojskowego do wykonywania zadań służbowych poza Służbą Wywiadu Wojskowego
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Obrony Narodowej z dnia 29 września 2006 r. w sprawie oddelegowania funkcjonariusza Służby Wywiadu Wojskowego do wykonywania zadań służbowych poza Służbą Wywiadu Wojskowego (Dz. U. poz. 1346), z uwzględnieniem zmian wprowadzonych:
+1)
+rozporządzeniem Ministra Obrony Narodowej z dnia 24 lutego 2009 r. zmieniającym rozporządzenie w sprawie oddelegowania funkcjonariusza Służby Wywiadu Wojskowego do wykonywania zadań służbowych poza Służbą Wywiadu Wojskowego (Dz. U. poz. 318);
+2)
+rozporządzeniem Ministra Obrony Narodowej z dnia 4 marca 2015 r. zmieniającym rozporządzenie w sprawie oddelegowania funkcjonariusza Służby Wywiadu Wojskowego do wykonywania zadań służbowych poza Służbą Wywiadu Wojskowego (Dz. U. poz. 386);
+3)
+rozporządzeniem Ministra Obrony Narodowej z dnia 3 stycznia 2023 r. zmieniającym rozporządzenie w sprawie oddelegowania funkcjonariusza Służby Wywiadu Wojskowego do wykonywania zadań służbowych poza Służbą Wywiadu Wojskowego (Dz. U. poz. 36).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
+1)
+§ 2 rozporządzenia Ministra Obrony Narodowej z dnia 24 lutego 2009 r. zmieniającego rozporządzenie w sprawie oddelegowania funkcjonariusza Służby Wywiadu Wojskowego do wykonywania zadań służbowych poza Służbą Wywiadu Wojskowego (Dz. U. poz. 318), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+” ;
+2)
+§ 2 rozporządzenia Ministra Obrony Narodowej z dnia 4 marca 2015 r. zmieniającego rozporządzenie w sprawie oddelegowania funkcjonariusza Służby Wywiadu Wojskowego do wykonywania zadań służbowych poza Służbą Wywiadu Wojskowego (Dz. U. poz. 386), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+” ;
+3)
+§ 2 i § 3 rozporządzenia Ministra Obrony Narodowej z dnia 3 stycznia 2023 r. zmieniającego rozporządzenie w sprawie oddelegowania funkcjonariusza Służby Wywiadu Wojskowego do wykonywania zadań służbowych poza Służbą Wywiadu Wojskowego (Dz. U. poz. 36), które stanowią:
+„
+§ 2.
+Do dnia wejścia w życie przepisów wydanych na podstawie art. 203 ust. 8 i art. 468 ust. 10 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305), w zakresie szczególnych uprawnień i obowiązków funkcjonariusza Służby Wywiadu Wojskowego pełniącego służbę poza granicami państwa stosuje się odpowiednio przepisy wydane na podstawie art. 24 ust. 8 i art. 102 ust. 10 ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2022 r. poz. 536) utrzymane czasowo w mocy na podstawie art. 822 ust. 6 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, jednak nie dłużej niż do upływu terminu określonego w tym przepisie.
+§ 3.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+” .
+Załącznik – Tekst jednolity rozporządzenia Ministra Obrony Narodowej z dnia 29 września 2006 r. w sprawie oddelegowania funkcjonariusza Służby Wywiadu Wojskowego do wykonywania zadań służbowych poza Służbą Wywiadu Wojskowego
+Na podstawie art. 15 ust. 3 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2022 r. poz. 1328 oraz z 2023 r. poz. 347) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+warunki i tryb oddelegowania funkcjonariusza Służby Wywiadu Wojskowego, zwanej dalej „SWW”, do wykonywania zadań służbowych poza SWW;
+2)
+wysokość i sposób wypłacania uposażenia i innych świadczeń pieniężnych przysługujących oddelegowanemu funkcjonariuszowi SWW;
+3)
+uprawnienia i obowiązki funkcjonariusza SWW w czasie oddelegowania;
+4)
+szczególne uprawnienia i obowiązki funkcjonariusza SWW pełniącego służbę poza granicami kraju.
+§ 2.
+Oddelegowanie funkcjonariusza SWW następuje na podstawie rozkazu personalnego Szefa SWW o oddelegowaniu, który zawiera:
+1)
+dane identyfikujące oddelegowanego funkcjonariusza SWW;
+2)
+datę i okres oddelegowania;
+3)
+nazwę podmiotu, do którego następuje oddelegowanie, zwanego dalej „podmiotem oddelegowania”;
+4)
+rodzaj poświadczenia bezpieczeństwa upoważniającego oddelegowanego funkcjonariusza SWW do dostępu do informacji niejawnych i okres jego ważności.
+§ 3.
+1.
+Oddelegowanie funkcjonariusza następuje na wniosek Szefa SWW lub kierownika podmiotu oddelegowania, zwany dalej „wnioskiem”.
+2.
+Z wnioskiem występuje Szef SWW do kierownika podmiotu oddelegowania albo kierownik podmiotu oddelegowania do Szefa SWW.
+§ 4.
+Wniosek zawiera następujące dane:
+1)
+nazwę podmiotu oddelegowania;
+2)
+proponowane stanowisko służbowe przeznaczone dla oddelegowanego funkcjonariusza oraz przysługującą na tym stanowisku wysokość uposażenia, ze wskazaniem poszczególnych jego składników;
+3)
+kwalifikacje wymagane do zajmowania proponowanego stanowiska służbowego;
+4)
+zakres wykonywanych zadań i obowiązków na proponowanym stanowisku służbowym;
+5)
+wymagania w zakresie rodzaju poświadczenia bezpieczeństwa upoważniającego do dostępu do informacji niejawnych i okres jego ważności;
+6)
+proponowany okres oddelegowania;
+7)
+informacje o ilości godzin pracy z użyciem monitora ekranowego.
+§ 5.
+Szef SWW:
+1)
+w przypadku uwzględnienia wniosku wyznacza funkcjonariusza do oddelegowania;
+2)
+może nie uwzględnić wniosku kierownika podmiotu oddelegowania, jeżeli na wskazanym stanowisku służbowym nie będą wykonywane zadania służbowe, o których mowa w ustawie z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego, albo jeżeli jest to uzasadnione potrzebami SWW.
+§ 6.
+Funkcjonariusz wyznaczony do oddelegowania zostaje zapoznany z treścią wniosku i wyraża wstępną zgodę na oddelegowanie przez złożenie pisemnego oświadczenia, załączanego do rozkazu, o którym mowa w § 2.
+§ 7.
+1.
+W przypadku, o którym mowa w § 5 pkt 1, Szef SWW zawiera z właściwym kierownikiem podmiotu oddelegowania porozumienie o oddelegowaniu, zwane dalej „porozumieniem”.
+2.
+Porozumienie określa:
+1)
+datę porozumienia;
+2)
 okres oddelegowania;
-3) stopień, imię nazwisko oddelegowanego funkcjonariusza;
-4) zobowiązanie kierownika podmiotu oddelegowania wypłacania oddelegowanemu funkcjonariuszowi okresie oddelegowania uposażenia oraz innych świadczeń należności pieniężnych, o których mowa 11;
-5) numer poświadczenia bezpieczeństwa wydanego oddelegowanemu funkcjonariuszowi, datę jego wydania oraz okres ważności;
-6) stanowisko służbowe, które oddelegowany funkcjonariusz będzie zajmował;
-7) zakres zadań obowiązków oddelegowanego funkcjonariusza.
-8. Na czas oddelegowania funkcjonariusza przenosi dyspozycji Szefa SWW.
-8a. Kierownik podmiotu oddelegowania wyznacza stanowisko służbowe oddelegowanego funkcjonariusza SWW, zgodnie porozumieniem, formie przewidzianej dla tego stanowiska.
-9. Oddelegowany funkcjonariusz SWW czasie oddelegowania podlega Szefowi SWW, a zakresie wykonywanych zadań obowiązków określonych porozumieniu kierownikowi podmiotu oddelegowania.
-10. 1. Oddelegowany funkcjonariusz SWW zachowuje okresie oddelegowania uprawnienia świadczenia, które przysługują podstawie obowiązujących przepisów funkcjonariuszom SWW, uwzględnieniem zmian zaistniałych okresie oddelegowania, o ile korzystanie tych uprawnień świadczeń nie spowoduje zagrożenia ujawnienia informacji niejawnych.
-Przepis ust. 1 stosuje odpowiednio obowiązków spoczywających funkcjonariuszu SWW.
-11. 1. czasie oddelegowania funkcjonariusz SWW otrzymuje uposażenie inne należności pieniężne wysokości określonej przepisach o służbie funkcjonariuszy SWW według stanowiska służbowego zajmowanego funkcjonariusza przed przeniesieniem dyspozycji Szefa SWW.
-Składniki uposażenia inne świadczenia oraz należności pieniężne są wypłacane oddelegowanemu funkcjonariuszowi przez: podmiot oddelegowania:
-a) uposażenie wysokości określonej porozumieniu, o którym mowa 7, terminach płatności przewidzianych dla funkcjonariuszy,
-b) nagrody roczne oraz uznaniowe, jeżeli podmiot oddelegowania wypłaca takie nagrody, oraz zapomogi,
-c) należności za podróże służbowe przeniesienia;
+3)
+stopień, imię i nazwisko oddelegowanego funkcjonariusza;
+4)
+zobowiązanie kierownika podmiotu oddelegowania do wypłacania oddelegowanemu funkcjonariuszowi w okresie oddelegowania uposażenia oraz innych świadczeń i należności pieniężnych, o których mowa w § 11;
+5)
+numer poświadczenia bezpieczeństwa wydanego oddelegowanemu funkcjonariuszowi, datę jego wydania oraz okres ważności;
+6)
+stanowisko służbowe, które oddelegowany funkcjonariusz będzie zajmował;
+7)
+zakres zadań i obowiązków oddelegowanego funkcjonariusza.
+§ 8.
+Na czas oddelegowania funkcjonariusza przenosi się do dyspozycji Szefa SWW.
+§ 8a.
+Kierownik podmiotu oddelegowania wyznacza na stanowisko służbowe oddelegowanego funkcjonariusza SWW, zgodnie z porozumieniem, w formie przewidzianej dla tego stanowiska.
+§ 9.
+Oddelegowany funkcjonariusz SWW w czasie oddelegowania podlega Szefowi SWW, a w zakresie wykonywanych zadań i obowiązków określonych w porozumieniu – kierownikowi podmiotu oddelegowania.
+§ 10.
+1.
+Oddelegowany funkcjonariusz SWW zachowuje w okresie oddelegowania uprawnienia i świadczenia, które przysługują na podstawie obowiązujących przepisów funkcjonariuszom SWW, z uwzględnieniem zmian zaistniałych w okresie oddelegowania, o ile korzystanie z tych uprawnień i świadczeń nie spowoduje zagrożenia ujawnienia informacji niejawnych.
+2.
+Przepis ust. 1 stosuje się odpowiednio do obowiązków spoczywających na funkcjonariuszu SWW.
+§ 11.
+1.
+W czasie oddelegowania funkcjonariusz SWW otrzymuje uposażenie i inne należności pieniężne w wysokości określonej w przepisach o służbie funkcjonariuszy SWW według stanowiska służbowego zajmowanego przez funkcjonariusza przed przeniesieniem do dyspozycji Szefa SWW.
+2.
+Składniki uposażenia i inne świadczenia oraz należności pieniężne są wypłacane oddelegowanemu funkcjonariuszowi przez:
+1)
+podmiot oddelegowania:
+a)
+uposażenie w wysokości określonej w porozumieniu, o którym mowa w § 7, w terminach płatności przewidzianych dla funkcjonariuszy,
+b)
+nagrody roczne oraz uznaniowe, jeżeli podmiot oddelegowania wypłaca takie nagrody, oraz zapomogi,
+c)
+należności za podróże służbowe i przeniesienia;
+2)
 właściwą jednostkę organizacyjną SWW:
-a) nagrody jubileuszowe,
-b) należności tytułu uszczerbku zdrowiu,
-c) zasiłek zagospodarowanie,
-d) świadczenia związane ze zwolnieniem ze służby,
-e) zasiłek pogrzebowy odprawę pośmiertną.
-wykonywanych oddelegowanego funkcjonariusza SWW.
-4. przypadku gdy wysokość uposażenia, o którym mowa ust. 2 pkt 1 lit. a, jest niższa od uposażenia otrzymywanego oddelegowanego funkcjonariusza SWW ostatnio zajmowanym stanowisku służbowym przed przeniesieniem go dyspozycji Szefa SWW, uwzględnieniem powstałych tym okresie zmian mających wpływ wysokość uposażenia oraz innych świadczeń należności pieniężnych, oddelegowanemu funkcjonariuszowi SWW przysługuje odpowiednie wyrównanie ze środków właściwej jednostki organizacyjnej SWW.
-12. Uposażenie inne należności pieniężne, o których mowa 11, są wypłacane rąk oddelegowanego funkcjonariusza SWW albo wpłacane formie bezgotówkowej rachunek bankowy niego wskazany.
-13. 1. Oddelegowany funkcjonariusz SWW może być bez jego zgody odwołany oddelegowania każdym czasie Szefa SWW, ze względu potrzeby SWW albo razie zagrożenia ujawnienia informacji niejawnych.
-Szef SWW odwołuje funkcjonariusza SWW oddelegowania jego pisemny wniosek.
-3. przypadku odwołania oddelegowania lub upływu okresu, który nastąpiło oddelegowanie, oddelegowany funkcjonariusz SWW jest obowiązany stawić służby SWW.
-14. zakresie szczególnych uprawnień obowiązków funkcjonariusza SWW pełniącego służbę poza granicami państwa stosuje odpowiednio przepisy wydane podstawie art. 203 ust. 8 art. 468 ust. 10 ustawy 11 2022 o obronie Ojczyzny 2305 oraz 2023 347 641).
-15. Rozporządzenie wchodzi życie dniem ogłoszenia .
+a)
+nagrody jubileuszowe,
+b)
+należności z tytułu uszczerbku na zdrowiu,
+c)
+zasiłek na zagospodarowanie,
+d)
+świadczenia związane ze zwolnieniem ze służby,
+e)
+zasiłek pogrzebowy i odprawę pośmiertną.
+3.
+Szef SWW może przyznać oddelegowanemu funkcjonariuszowi SWW dodatkową należność pieniężną w wysokości miesięcznego uposażenia, w przypadku gdy jest to szczególnie uzasadnione miejscem lub charakterem i zakresem zadań wykonywanych przez oddelegowanego funkcjonariusza SWW.
+4.
+W przypadku gdy wysokość uposażenia, o którym mowa w ust. 2 pkt 1 lit. a, jest niższa od uposażenia otrzymywanego przez oddelegowanego funkcjonariusza SWW na ostatnio zajmowanym stanowisku służbowym przed przeniesieniem go do dyspozycji Szefa SWW, z uwzględnieniem powstałych w tym okresie zmian mających wpływ na wysokość uposażenia oraz innych świadczeń i należności pieniężnych, oddelegowanemu funkcjonariuszowi SWW przysługuje odpowiednie wyrównanie ze środków właściwej jednostki organizacyjnej SWW.
+§ 12.
+Uposażenie i inne należności pieniężne, o których mowa w § 11, są wypłacane do rąk oddelegowanego funkcjonariusza SWW albo wpłacane w formie bezgotówkowej na rachunek bankowy przez niego wskazany.
+§ 13.
+1.
+Oddelegowany funkcjonariusz SWW może być bez jego zgody odwołany z oddelegowania w każdym czasie przez Szefa SWW, ze względu na potrzeby SWW albo w razie zagrożenia ujawnienia informacji niejawnych.
+2.
+Szef SWW odwołuje funkcjonariusza SWW z oddelegowania na jego pisemny wniosek.
+3.
+W przypadku odwołania z oddelegowania lub upływu okresu, na który nastąpiło oddelegowanie, oddelegowany funkcjonariusz SWW jest obowiązany stawić się do służby w SWW.
+§ 14.
+Wzakresie szczególnych uprawnień i obowiązków funkcjonariusza SWW pełniącego służbę poza granicami państwa stosuje się odpowiednio przepisy wydane na podstawie art. 203 ust. 8 i art. 468 ust. 10 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305 oraz z 2023 r. poz. 347 i 641).
+§ 15.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia.
 

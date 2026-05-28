@@ -8,10 +8,10 @@ pos: 158
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 stycznia 2021 r.
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 22 stycznia 2021 r. zmieniające rozporządzenie w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń z tytułu zaopatrzenia w ciepło
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,29 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2021-01-22 |
 | Data wydania | 2021-01-25 |
+| Wejście w życie | 2021-02-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000158) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/158/text.pdf) |
 
-Poz. 158 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 22 stycznia 2021 r.
-zmieniające rozporządzenie w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń z tytułu zaopatrzenia w ciepło Na podstawie art. 46 ust. 5 i 6 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2020 r. poz. 833, 843, 1086, 1378 i 1565) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Klimatu z dnia 7 kwietnia 2020 r. w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń z tytułu zaopatrzenia w ciepło (Dz. U. poz. 718) wprowadza się następujące zmiany:
-1) w § 19 wyrazy „w § 13 ust. 1, i planowaną wielkość ciepła” zastępuje się wyrazami „w § 13 ust. 1 – planowaną wielkość ciepła”;
-2) w § 28 ust. 1 otrzymuje brzmienie: „1. W przypadku istotnej zmiany warunków lub zakresu wykonywania działalności gospodarczej przez przedsiębiorstwo energetyczne, w odniesieniu do działalności w zakresie wytwarzania ciepła w źródłach innych niż określone w § 13 ust. 1 lub działalności w zakresie przesyłania i dystrybucji ciepła, może nastąpić zmiana taryfy wprowadzonej do stosowania. Zmiana ta następuje w trybie określonym w art. 47 ustawy lub przez zawarcie umów z odbiorcami, po dokonaniu analizy i oceny skutków ekonomicznych tej zmiany.”;
-3) w § 32 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Przedsiębiorstwo energetyczne sprzedające ciepło zapewnia odbiorcy końcowemu dostęp do elektronicznej formy informacji w zakresie rozliczeń i wystawionych mu faktur.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 1 pkt 3, który wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
-Minister Klimatu i Środowiska: M. Kurtyka
+Treść rozporządzenia
+Na podstawie art. 46 ust. 5 i 6 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2020 r. poz. 833, 843, 1086, 1378 i 1565) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Ministra Klimatu z dnia 7 kwietnia 2020 r. w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń z tytułu zaopatrzenia w ciepło (Dz. U. poz. 718) wprowadza się następujące zmiany:
+1)
+w § 19 wyrazy „w § 13 ust. 1, i planowaną wielkość ciepła” zastępuje się wyrazami „w § 13 ust. 1 – planowaną wielkość ciepła”;
+2)
+w § 28 ust. 1 otrzymuje brzmienie:
+„
+1.
+W przypadku istotnej zmiany warunków lub zakresu wykonywania działalności gospodarczej przez przedsiębiorstwo energetyczne, w odniesieniu do działalności w zakresie wytwarzania ciepła w źródłach innych niż określone w § 13 ust. 1 lub działalności w zakresie przesyłania i dystrybucji ciepła, może nastąpić zmiana taryfy wprowadzonej do stosowania. Zmiana ta następuje w trybie określonym w art. 47 ustawy lub przez zawarcie umów z odbiorcami, po dokonaniu analizy i oceny skutków ekonomicznych tej zmiany.
+” ;
+3)
+w § 32 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu:
+„
+2.
+Przedsiębiorstwo energetyczne sprzedające ciepło zapewnia odbiorcy końcowemu dostęp do elektronicznej formy informacji w zakresie rozliczeń i wystawionych mu faktur.
+” .
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 1 pkt 3, który wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1720 i 2004).
 

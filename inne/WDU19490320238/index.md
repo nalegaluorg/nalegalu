@@ -22,6 +22,7 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1949-04-27 |
 | Data wydania | 1949-05-19 |
+| Wejście w życie | 1949-07-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19490320238) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1949/238/text.pdf) |
 
@@ -38,9 +39,18 @@ art. 5 § 1 otrzymuje brzmienie:
 
 **Art. 1.** W kodeksie postępowania karnego wprowadza się następujące zmiany:
 
+- **1)** w art. 17 wyrazy: „art. 255, jeżeli zniesławienie popełniono treścią druku” zastępuje się wyrazami: „art. 255, 256, jeżeli zniewagę popełniono treścią druku”,
+- **2)** art. 18, 19 i 20 otrzymują brzmienie: „
+
 **Art. 18.** Sąd grodzki wykonywa zlecone mu czynności w sprawach, należących do właściwości innych sądów.
 
 **Art. 19.** Sąd okręgowy:
+
+rozpoznaje w pierwszej instancji wszystkie sprawy, nie należące do właściwości innych sądów, rozpoznaje środki odwoławcze od orzeczeń sądów grodzkich, orzeka w innych wypadkach, wskazanych w ustawie.
+
+- **a)**
+- **b)**
+- **c)**
 
 **Art. 20.**
 
@@ -108,7 +118,16 @@ art. 5 § 1 otrzymuje brzmienie:
 
 **Art. 551.** Prokurator może jednak umorzyć śledztwo, jeżeli wniesienie oskarżenia do sądu byłoby niecelowe ze względu na znikomą szkodliwość społeczną czynu. ” ,
 
+- **11)** w art. 60 wyraz „dochodzenia” zastępuje się wyrazem „śledztwa”,
+- **12)** w art. 64 wyrazy: „od lat 17 do 21” zastępuje się wyrazami: „powyżej lat 17”,
+- **13)** w art. 67 § 3 wyraz „dochodzenie” zastępuje się wyrazem „śledztwo” oraz skreśla się wyrazy: „który rozstrzyga ostatecznie w składzie trzech sędziów”,
+- **14)** w art. 77 i 79 § 1 wyrazy: „dochodzenia”, „dochodzenie” zastępuje się wyrazami: „śledztwa”, „śledztwo”,
+- **15)** art. 80 otrzymuje brzmienie: „
+
 **Art. 80.** Podejrzany już w toku śledztwa może żądać, aby mu wyjaśniono, jakie przestępstwo mu zarzucono i jakie dowody przeciw niemu zebrano. ” ,
+
+- **16)** w art. 82 po wyrazie „wieku” umieszcza się wyrazy: „pochodzenia społecznego i przynależności społecznej, zawodu,”,
+- **17)** art. 83 § 1 otrzymuje brzmienie: „
 
 **Art. 83.**
 
@@ -129,6 +148,16 @@ art. 5 § 1 otrzymuje brzmienie:
 
 **Art. 89.** Jeżeli oskarżony nie ma obrońcy z wyboru, prezes sądu wyznacza mu obrońcę z urzędu:
 
+w wypadkach, wskazanych w art. 88, na prośbę oskarżonego, który z powodu ubóstwa nie może ponieść kosztów obrony. ” ,
+
+- **a)**
+- **b)**
+- **20)** art. 90 uchyla się,
+- **21)** w art. 93 § 1 skreśla się wyrazy: „dochodzenie lub”,
+- **22)** w art. 94 skreśla się wyrazy: „sędziego bądź”,
+- **23)** w art. 98 skreśla się wyrazy: „przez sąd”,
+- **24)** art. 102 otrzymuje brzmienie: „
+
 **Art. 102.**
 
 § 1. Poza wypadkami, wskazanymi w art. 101, sąd lub prokurator może przesłuchać świadka, który odmawia zeznań z powodu tajemnicy zawodowej, tylko wtedy, jeżeli nie uzna za możliwe zwolnić go od zeznań.
@@ -140,7 +169,14 @@ art. 5 § 1 otrzymuje brzmienie:
 
 **Art. 108.** Sąd na rozprawie głównej odbiera od świadka przyrzeczenie według przepisanej roty, chyba że strony zwolnią świadka od przyrzeczenia, a sąd nie uzna, że złożenie przyrzeczenia jest konieczne. ” ,
 
+- **27)** art. 109 uchyla się,
+- **28)** w art. 110 w § 1 wyraz „przysięgi” zastępuje się wyrazem „przyrzeczenia”; przepis § 2 uchyla się,
+- **29)** art. 111 otrzymuje brzmienie: „
+
 **Art. 111.** Świadek składa przyrzeczenie według następującej roty: „ Świadomy wagi mych słów i odpowiedzialności przed prawem przyrzekam uroczyście, że będę mówił szczerą prawdę, niczego nie ukrywając z tego, co mi jest wiadome. ”” , ”” ,
+
+- **30)** art. 112 uchyla się,
+- **31)** art. 113 otrzymuje brzmienie: „
 
 **Art. 113.**
 
@@ -154,7 +190,17 @@ art. 5 § 1 otrzymuje brzmienie:
 
 **Art. 114.** Świadkom, którzy w danej sprawie składali przyrzeczenie, przypomina się je przy ponownym przesłuchaniu, chyba że sąd uzna, iż konieczne jest ponowne odebranie przyrzeczenia. ” ,
 
+- **33)** w art. 116 wyrazy: „sąd może” zastępuje się wyrazem „można”,
+- **34)** w art. 117, 118, 119, 121 i 130 po wyrazie „sąd” umieszcza się wyrazy: „lub prokurator”,
+- **35)** w art. 118 i 120 zamiast wyrazów: „przysięgę”, „przysięgi”, „przysięgają”, „przysięga” wprowadza się odpowiednio wyrazy: „przyrzeczenie”, „przyrzeczenia”, „przyrzekają”,
+- **36)** w art. 123 wyrazy: „sąd dokonywa” zastępuje się wyrazami: „dokonywa się”,
+- **37)** w art. 124 i 126 § 2 wyrazy „sąd wzywa” zastępuje się wyrazami: „wzywa się”,
+- **38)** art. 131 otrzymuje brzmienie: „
+
 **Art. 131.** Oględzin, połączonych z obnażeniem ciała, dokonywa się w miarę możności przez biegłego tej samej płci. Jeżeli sędzia lub prowadzący śledztwo jest innej płci, niż osoba poddawana oględzinom, może być przy tym obecny tylko w razie konieczności. ” ,
+
+- **39)** w art. 132 skreśla się wyraz „sądowi”,
+- **40)** art. 133 otrzymuje brzmienie: „
 
 **Art. 133.**
 
@@ -197,6 +243,8 @@ art. 5 § 1 otrzymuje brzmienie:
 **Art. 1632.** Nadzór nad przestrzeganiem przepisów o zatrzymaniu i stosowaniu środków zapobiegających uchylaniu się od sądu należy do sądu lub prokuratora.
 
 **Art. 1633.** Na postanowienie w przedmiocie środka zapobiegającego uchylaniu się od sądu służy zażalenie. ” ,
+
+- **51)** art. 164 i 165 otrzymują brzmienie: „
 
 **Art. 164.**
 
@@ -254,7 +302,30 @@ art. 5 § 1 otrzymuje brzmienie:
 
 **Art. 213.** W toku śledztwa zezwolenie stronom, ich obrońcom, pełnomocnikom lub ustawowym przedstawicielom na przeglądanie akt i robienie odpisów oraz otrzymywanie odpisów uwierzytelnionych zależy od prowadzącego śledztwo. ” ,
 
+- **69)** w art. 224 skreśla się wyrazy: „lub aktu oskarżenia”,
+- **70)** w art. 225 i 226 wyrazy: „apelacji lub kasacji” zastępuje się wyrazem „rewizji”,
+- **71)** art. 230 otrzymuje brzmienie: „
+
 **Art. 230.** Z przebiegu rozprawy sądowej, przesłuchania oskarżonego, świadka lub biegłego, z przebiegu oględzin, rewizji i odebrania rzeczy oraz zatrzymania korespondencji lub przesyłki należy spisać protokół. Spisywania protokołu z przebiegu innych czynności śledczych można zaniechać, stwierdzając ich dokonanie odpowiednią notatką informacyjną. ” ,
+
+- **72)** w art. 233 § 2 wyraz „przysięgi” zastępuje się wyrazem „przyrzeczenia”, a wyrazy: „stenograf przysięgły”, „stenografa przysięgłego” zastępuje się wyrazami: „stenograf sądowy”, „stenografa sądowego”, §§ 1, 3 i 4 otrzymują brzmienie: „
+
+§ 1. Spisać protokół może: sędzia lub prokurator, choćby wykonywał czynność protokołowaną, aplikant sądowy, urzędnik sekretariatu sądowego lub prokuratorskiego, funkcjonariusz milicji obywatelskiej lub bezpieczeństwa publicznego, choćby wykonywał czynność protokołowaną.
+
+- **a)**
+- **b)**
+- **c)**
+- **d)**
+
+§ 3. W braku osób, wymienionych w § 1, można powołać w charakterze protokolanta każdą osobę wiarogodną po odebraniu od niej przyrzeczenia, że sumiennie wykona obowiązki protokolanta. Przepis § 2 ma odpowiednie zastosowanie.
+
+§ 4. Do przepisów §§ 2 i 3 stosuje się odpowiednio art. 113 §§ 1 i 3 oraz art. 133. ” ,
+
+- **73)** w art. 234 wyrazy: „właściwy sędzia” zastępuje się wyrazami: „osoba, która prowadzi czynności protokołowane”,
+- **74)** w art. 235 skreśla się wyrazy: „czynności sądowej”,
+- **75)** w art. 239 § 1 skreśla się wyrazy: „otwarcia roków przysięgłych”,
+- **76)** w księdze VI rozdział I otrzymuje tytuł: „Śledztwo”, rozdział II – „Akt oskarżenia”, tytuły rozdziałów III i IV – skreśla się,
+- **77)** art. 242 otrzymuje brzmienie: „
 
 **Art. 242.**
 
@@ -338,6 +409,14 @@ art. 5 § 1 otrzymuje brzmienie:
 § 2. Pokrzywdzony i jego pełnomocnik oraz podejrzany i jego obrońca mogą składać wnioski o dokonanie czynności śledczych ze wskazaniem okoliczności, które mają być ustalone. Prowadzący śledztwo nie może odmówić dokonania czynności, mającej istotne znaczenie dla sprawy; w razie odmowy sporządza postanowienie z uzasadnieniem.
 
 **Art. 257.** W sprawach, należących do właściwości sądu okręgowego i apelacyjnego, śledztwo mogą prowadzić organy bezpieczeństwa publicznego, jeżeli nie zostało ono wszczęte przez prokuratora. Oficerom śledczym bezpieczeństwa publicznego służą wówczas wszelkie uprawnienia, przewidziane w przepisach niniejszego kodeksu dla organów prowadzących śledztwo, z następującymi ograniczeniami:
+
+- **1)** o wszczęciu śledztwa zawiadamia się prokuratora,
+- **2)** prokurator sprawuje nadzór nad śledztwem,
+- **3)** oficerowie śledczy bezpieczeństwa publicznego nie mają prawa wydawać postanowień o zastosowaniu środków zapobiegania uchylaniu się od sądu, o przedłużeniu aresztu, przepadku kaucji lub ściągnięciu sumy poręczenia oraz o wymierzeniu grzywny nie stawającym świadkom i biegłym,
+- **4)** postanowienia oficerów śledczych bezpieczeństwa publicznego o umorzeniu śledztwa oraz o uchyleniu lub złagodzeniu środka zapobiegającego uchyleniu się od sądu wymagają zatwierdzenia przez prokuratora,
+- **5)** akty oskarżenia, sporządzone przez oficerów śledczych bezpieczeństwa publicznego, przedstawia się do zatwierdzenia prokuratorowi, który wnosi je do sądu lub sporządza sam akty oskarżenia. ” ,
+- **80)** art. 258–276 uchyla się,
+- **81)** art. 277 otrzymuje brzmienie: „
 
 **Art. 277.**
 
@@ -424,6 +503,9 @@ art. 5 § 1 otrzymuje brzmienie:
 
 **Art. 455.** Przepisy art. 292, 294–313, 315–338, 340–380, 387–398 stosuje się odpowiednio do postępowania przed sądem grodzkim, ze zmianami i uzupełnieniami, wskazanymi w niniejszym dziale. ” ,
 
+- **102)** art. 456 i 457 uchyla się,
+- **103)** art. 458 § 1 otrzymuje brzmienie: „
+
 **Art. 458.**
 
 § 1. Sąd grodzki może także i przed rozprawą umorzyć postępowanie, jeśli zachodzą warunki, wskazane w art. 290 § 1 lit. a), b), c) lub w razie oczywistej bezzasadności oskarżenia. ” ,
@@ -463,6 +545,8 @@ art. 5 § 1 otrzymuje brzmienie:
 **Art. 470.** Zażalenie samo przez się nie wstrzymuje wykonania zaskarżonego postanowienia, lecz sąd lub prokurator, który wydał postanowienie, lub instancja odwoławcza może wstrzymać wykonanie. Odmowa wstrzymania nie wymaga uzasadnienia.
 
 **Art. 472.** Przepisy art. 463 i 468–471 stosuje się odpowiednio do zażaleń na zarządzenia prezesa sądu. ” ,
+
+- **110)** w księdze VIII rozdział II otrzymuje brzmienie: „
 
 #### Rozdział II Rewizja
 
@@ -512,6 +596,11 @@ art. 5 § 1 otrzymuje brzmienie:
 
 **Art. 484.** Podstawę rewizji mogą stanowić wyłącznie zarzuty:
 
+- **1)** obrazy przepisów prawa materialnego,
+- **2)** uchybień, określonych w art. 491 § 1 lit. b)-f) lub obrazy przepisów prawa procesowego, jeżeli mogła mieć wpływ na treść wyroku,
+- **3)** błędnej oceny okoliczności faktycznych, przyjętych za podstawę wyroku,
+- **4)** rażącej niewspółmierności kary w stosunku do przypisanego czynu albo nieodpowiedniego zastosowania lub niezastosowania środka zabezpieczającego lub wychowawczego.
+
 **Art. 485.**
 
 § 1. Rewizja może dotyczyć całości wyroku lub jego części.
@@ -537,6 +626,12 @@ art. 5 § 1 otrzymuje brzmienie:
 **Art. 489.** Sąd rewizyjny na posiedzeniu niejawnym pozostawia rewizję bez rozpoznania, jeżeli zachodzi brak formalnych warunków rewizji, zwłaszcza przewidzianych w art. 484, 486 §§ 1–3.
 
 **Art. 490.** Sąd rewizyjny na posiedzeniu niejawnym uznaje wyrok za nieważny i przekazuje sprawę komu należy:
+
+jeżeli wyrok zapadł z obrazą art. 12 lub 13, jeżeli w składzie sądu uczestniczyła osoba nieuprawniona do wydawania wyroków albo jeżeli orzekał sędzia lub ławnik, który z mocy art. 41 ulegał wyłączeniu, jeżeli zachodzi inna przyczyna nieważności z mocy samego prawa.
+
+- **a)**
+- **b)**
+- **c)**
 
 **Art. 491.**
 
@@ -576,7 +671,15 @@ art. 5 § 1 otrzymuje brzmienie:
 
 **Art. 496.** Sąd rewizyjny uchyla zaskarżony wyrok:
 
+- **1)** jeżeli sąd wydał wyrok uniewinniający pomimo istnienia w czynie oskarżonego znamion przestępstwa lub umarzający postępowanie pomimo braku warunków umorzenia,
+- **2)** jeżeli rewizja zasadnie zarzuca inną obrazę przepisów prawa materialnego,
+- **3)** jeżeli rewizja zasadnie zarzuca uchybienia procesowe lub błąd w ocenie okoliczności faktycznych, przyjętych za podstawę wyroku, jeżeli te uchybienia lub błąd mogły mieć wpływ na treść wyroku,
+- **4)** jeżeli zachodzą okoliczności, określone w art. 491, a stwierdzone dopiero na rozprawie.
+
 **Art. 497.** Sąd rewizyjny zmienia wyrok w części dotyczącej kary oraz środków zabezpieczających lub wychowawczych:
+
+- **1)** niezależnie od granic rewizji, jeżeli sąd na niekorzyść oskarżonego zastosował do niego karę, nie przepisaną w ustawie za dane przestępstwo,
+- **2)** jeżeli rewizja zasadnie zarzuca rażącą niewspółmierność kary w stosunku do szkodliwości społecznej przestępstwa albo nieodpowiednie zastosowanie lub niezastosowanie środka wychowawczego lub zabezpieczającego.
 
 **Art. 498.** Sąd rewizyjny niezależnie od zarzutów, przytoczonych w rewizji, uchyla wyrok w całości lub w części na korzyść strony, która założyła rewizję, jeżeli utrzymanie w mocy zaskarżonego wyroku byłoby oczywiście niesprawiedliwe.
 
@@ -612,6 +715,8 @@ art. 5 § 1 otrzymuje brzmienie:
 
 **Art. 506.** Przy ponownym rozpoznawaniu sprawy sąd, któremu sprawę przekazano, nie może zwiększyć kary orzeczonej w uchylonym wyroku, jeżeli wyrok uchylono na żądanie oskarżonego, chyba że przy ponownym rozpoznawaniu sprawy wyszły na jaw nowe okoliczności, mające istotne znaczenie dla wymiaru kary. ” ,
 
+- **111)** w księdze VIII rozdział III otrzymuje brzmienie: „
+
 #### Rozdział III Rewizja nadzwyczajna
 
 **Art. 507.** Od każdego prawomocnego orzeczenia, kończącego postępowanie sądowe, może być założona rewizja nadzwyczajna do Sądu Najwyższego.
@@ -644,6 +749,9 @@ art. 5 § 1 otrzymuje brzmienie:
 
 **Art. 514.** Sąd, któremu sprawę przekazano, nie jest związany zapadłym w poprzednim postępowaniu wyrokiem w zakresie, w jakim Sąd Najwyższy wyrok ten uchylił. ” ,
 
+- **112)** art. 515–539 uchyla się,
+- **113)** art. 542 § 2 otrzymuje brzmienie: „
+
 **Art. 542.**
 
 § 2. Wykonanie każdego innego wyroku zarządza prokurator sądu, który wydał prawomocny wyrok. W sprawach rozpoznawanych przez Sąd Najwyższy wykonanie wyroku zarządza prokurator sądu apelacyjnego. ” ,
@@ -654,6 +762,8 @@ art. 5 § 1 otrzymuje brzmienie:
 **Art. 544.** W celu wykonania wyroku prokurator daje zlecenia władzom więziennym, milicyjnym i innym władzom.
 
 **Art. 546.** Skazanemu na karę pozbawienia wolności zalicza się na poczet kary okres tymczasowego aresztowania po ogłoszeniu wyroku pierwszej instancji, chyba że sąd rewizyjny postanowi inaczej. ” ,
+
+- **116)** w art. 562 § 1 otrzymuje brzmienie: „
 
 **Art. 562.**
 
@@ -679,9 +789,16 @@ art. 5 § 1 otrzymuje brzmienie:
 
 **Art. 630.** Wyroki sądu dla nieletnich ulegają zaskarżeniu w drodze rewizji do sądu apelacyjnego, który stosuje odpowiednio przepisy niniejszego rozdziału. ” ,
 
+- **127)** art. 631 otrzymuje brzmienie: „
+
 **Art. 631.** Rewizja od wyroku sądu dla nieletnich nie wstrzymuje wykonania wyroku. ” ,
 
+- **128)** w art. 632 § 1, 633, 634 wyraz „sędziego” zastępuje się wyrazem „sądowi”,
+- **129)** art. 635 otrzymuje brzmienie: „
+
 **Art. 635.** Jeżeli w sądzie okręgowym nie został utworzony osobny wydział dla nieletnich, sprawy nieletnich rozpoznaje sąd zwykły według ogólnych zasad właściwości, stosując przepisy art. 620, 628, 633 i 634. ” ,
+
+- **130)** art. 636 i 637 otrzymują brzmienie: „
 
 **Art. 636.**
 
@@ -692,6 +809,9 @@ art. 5 § 1 otrzymuje brzmienie:
 § 3. Jeżeli wyrokowało kilka sądów różnego rzędu, właściwy jest sąd wyższego rzędu, który wydał ostatni wyrok.
 
 **Art. 637.** Przed wydaniem postanowienia w przedmiocie przywrócenia praw lub zatarcia skazania, sąd może zwrócić się do prokuratora o zebranie informacyj o zachowaniu się skazanego po wyroku. ” ,
+
+- **131)** w art. 646 § 2 zdanie ostatnie otrzymuje brzmienie: „ Od świadków i biegłych można odebrać przyrzeczenie. ” ,
+- **132)** art. 647 otrzymuje brzmienie: „
 
 **Art. 647.**
 
@@ -738,7 +858,14 @@ art. 5 § 1 otrzymuje brzmienie:
 
 **Art. 3.** Uchyla się:
 
+- **1)** rozporządzenie Prezydenta Rzeczypospolitej z dnia 25 czerwca 1929 r. w sprawie formy zapewnienia w postępowaniu karnym przez świadków, biegłych, tłumaczów i przysięgłych zgodnego z prawem spełniania ich obowiązków (Dz. U. R. P. Nr 47, poz. 303),
+- **2)** art. 52–54 i 56–64 dekretu z dnia 13 czerwca 1946 r. o przestępstwach szczególnie niebezpiecznych w okresie odbudowy Państwa (Dz. U. R. P. z 1946 r. Nr 30, poz. 192 i z 1947 r. Nr 65, poz. 390),
+- **3)** dekret z dnia 17 października 1946 r. o zniesieniu specjalnych sądów karnych (Dz. U. R. P. Nr 59, poz. 324),
+- **4)** art. 10 dekretu z dnia 31 sierpnia 1944 r. o wymiarze kary dla faszystowsko-hitlerowskich zbrodniarzy winnych zabójstw i znęcania się nad ludnością cywilną i jeńcami oraz dla zdrajców Narodu Polskiego (Dz. U. R. P. Nr 69, poz. 377) w brzmieniu, nadanym dekretem z dnia 3 kwietnia 1948 r. (Dz. U. R. P. Nr 18, poz. 124).
+
 **Art. 4.** W przepisach wprowadzających kodeks postępowania karnego wprowadza się następujące zmiany:
+
+- **1)** rozdział II otrzymuje tytuł: „
 
 #### Rozdział II Schroniska dla nieletnich”
 
@@ -762,6 +889,8 @@ art. 5 § 1 otrzymuje brzmienie:
 
 **Art. 6.** W prawie o sądach obywatelskich (Dz. U. R. P. z 1946 r. Nr 8, poz. 64 i z 1948 r. Nr 23, poz. 153) wprowadza się następujące zmiany:
 
+- **1)** art. 45 i 47 otrzymują brzmienie: „
+
 **Art. 45.**
 
 § 1. Od wyroku sądu obywatelskiego służy w terminie dwutygodniowym od daty ogłoszenia bądź doręczenia wyroku w sprawach cywilnych – apelacja, a w sprawach karnych – rewizja. Środki odwoławcze od orzeczeń sądu obywatelskiego w sprawach cywilnych i karnych rozpoznaje sąd okręgowy.
@@ -770,7 +899,12 @@ art. 5 § 1 otrzymuje brzmienie:
 
 **Art. 47.** Orzeczenia sądu okręgowego jako instancji odwoławczej są prawomocne. ” ,
 
+- **2)** w art. 49 po wyrazie „apelacji” dodaje się wyraz „rewizji”.
+
 **Art. 7.** Art. 8 ust. 3 dekretu z dnia 13 września 1946 r. o wyłączeniu ze społeczeństwa polskiego osób narodowości niemieckiej (Dz. U. R. P. Nr 55, poz. 310) otrzymuje brzmienie: „ 3. Właściwy do rozpoznania sprawy jest sąd okręgowy, w którego okręgu znajduje się siedziba władzy, która wydała orzeczenie. Sąd orzeka postanowieniem ” . W prawie karnym skarbowym (Dz. U. R. P. z 1947 r. Nr 30, poz. 140 i z 1948 r. Nr 18, poz. 123) wprowadza się następujące zmiany:
+
+- **1)** w art. 151 w pkt 4 po wyrazie „sąd” dodaje się wyrazy: „lub prokurator”,
+- **2)** art. 201 otrzymuje brzmienie: „
 
 **Art. 201.**
 
@@ -788,6 +922,22 @@ art. 5 § 1 otrzymuje brzmienie:
 
 **Art. 10.** W sprawach o przestępstwa, określone w dekrecie z dnia 31 sierpnia 1944 r. o wymiarze kary dla faszystowsko-hitlerowskich zbrodniarzy winnych zabójstw i znęcania się nad ludnością cywilną i jeńcami oraz dla zdrajców Narodu Polskiego (Dz. U. R. P. z 1946 r. Nr 69, poz. 377, z 1947 r. Nr 65, poz. 290 i z 1948 r. Nr 18, poz. 124) stosuje się przepisy kodeksu postępowania karnego z następującymi uzupełnieniami:
 
+- **1)** nieujęcie sprawcy nie stanowi przeszkody do wszczęcia i dalszego prowadzenia postępowania z tym, że: udział obrońcy w toku całego postępowania sądowego jest konieczny, obrońcy służą prawa strony, prawo wyboru obrońcy służy oskarżonemu oraz jego ojcu, matce, opiekunowi, małżonkowi, dzieciom i rodzeństwu, jeżeli nie ma obrońcy z wyboru należy wyznaczyć obrońcę z urzędu, sąd ogłasza o wszczęciu postępowania sądowego w czasopiśmie według swego wyboru; sąd może również zarządzić ogłoszenie w gminie ostatniego miejsca zamieszkania lub pobytu oskarżonego; rozprawa nie może odbyć się wcześniej niż po upływie 60 dni po dniu ogłoszenia w czasopiśmie; przepisu tego nie stosuje się, jeżeli oskarżony uchylił się od sądu po otrzymaniu odpisu aktu oskarżenia,
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **2)** jeżeli po dokonaniu przestępstwa sprawca zapadł na chorobę psychiczną lub zmarł, sąd może tytułem środka zabezpieczającego orzec przepadek całego lub części jego majątku,
+- **3)** wznowienie postępowania, zakończonego prawomocnym wyrokiem może nastąpić: na niekorzyść oskarżonego nie tylko z przyczyn, wskazanych w art. 600 kodeksu postępowania karnego, lecz także wtedy, gdy po wydaniu wyroku ujawnią się nowe fakty lub dowody, nieznane przedtem ani oskarżycielowi publicznemu, ani sądowi, stwierdzające, że oskarżony jest winien lub że skazano go za przestępstwo lżejsze niż to, które popełnił; wznowienie z powodu ujawnienia takich nowych faktów lub dowodów może nastąpić tylko w ciągu pięciu lat od dnia uprawomocnienia się wyroku; jeżeli wyrok uprawomocnił się przed dniem wejścia w życie niniejszej ustawy, termin ten liczy się od dnia 10 kwietnia 1948 r., na korzyść oskarżonego w wypadku, gdy postępowanie toczyło się mimo jego nieujęcia również w razie przytoczenia takich nowych faktów lub dowodów, nieznanych przedtem sądowi, które bądź same, bądź w związku z innymi stwierdzają, że skazany jest niewinny lub że go skazano za przestępstwo cięższe niż to, które popełnił,
+    - **a)**
+    - **b)**
+
+- **4)** w sprawach, przekazanych przez prokuratora Najwyższego Trybunału Narodowego, sąd może odczytać na rozprawie: akta śledztwa, wszelkie zapiski, sporządzone w kraju lub za granicą przez organa władz państw sprzymierzonych, oraz przez osoby, działające z ich polecenia, które prowadziły dochodzenie lub śledztwo albo też przedsięwzięły inne czynności, mające na celu wykrycie przestępstwa lub ujęcie sprawcy.
+    - **a)**
+    - **b)**
+
 **Art. 11.** Do orzekania w sprawach, określonych w dekrecie z dnia 28 czerwca 1946 r. o odpowiedzialności karnej za odstępstwo od narodowości w czasie wojny 1939–1945 r. (Dz. U. R. P. z 1946 r. Nr 41, poz. 237, z 1947 r. Nr 31, poz. 131 i Nr 65, poz. 376), właściwy jest sąd okręgowy; sąd ten stosuje przepisy kodeksu postępowania karnego z uzupełnieniami, przewidzianymi w dekrecie powyższym.
 
 **Art. 12.** Przepisy o rewizji stosuje się również w wypadku, gdy według przepisów, wydanych przed dniem wejścia w życie niniejszej ustawy, służyła apelacja lub kasacja od orzeczeń w sprawach karnych, należących do właściwości sądów powszechnych.
@@ -800,7 +950,19 @@ art. 5 § 1 otrzymuje brzmienie:
 
 **Art. 17.** Ilekroć w przepisach, dotyczących postępowania karnego, przewidziane jest złożenie przysięgi lub zapewnienia, zastępującego przysięgę, należy odbierać przyrzeczenie, przewidziane w niniejszej ustawie. Pod względem skutków prawnych odebranie przyrzeczenia, określonego w niniejszej ustawie, ma to samo znaczenie, co odebranie przysięgi, przewidziane w dotychczasowych przepisach.
 
+§ 1. Sąd okręgowy rozpoznaje środki odwoławcze od orzeczeń sądów obywatelskich w składzie jednego sędziego.
+
+§ 2. Sąd okręgowy, rozstrzygając rewizje od wyroków sądów obywatelskich, stosuje odpowiednio przepisy kodeksu postępowania karnego o rozpoznawaniu rewizji od wyroków sądu grodzkiego. W okresie rocznym od dnia wejścia w życie niniejszej ustawy prezes sądu okręgowego lub apelacyjnego może zarządzić rozpoznawanie rewizji w sprawach mniejszej wagi przez jednego sędziego.
+
 **Art. 21.** Przepisy niniejszej ustawy stosuje się do spraw, wszczętych przed jej wejściem w życie z następującymi zmianami:
+
+- **1)** śledztwa, wszczęte według dotychczasowych przepisów, przekazuje się właściwemu prokuratorowi,
+- **2)** sprawy, w których przed dniem wejścia w życie niniejszej ustawy rozpoczęto rozprawę główną w pierwszej instancji, toczą się do końca według dotychczasowych przepisów, jednakże: w razie odroczenia rozprawy, uchylenia wyroku pierwszej instancji lub uznania wyroku za nieważny dalsze postępowanie toczy się według przepisów niniejszej ustawy, od orzeczeń, wydanych przez sąd w pierwszej instancji po wejściu w życie niniejszej ustawy, służy stronom środek odwoławczy według nowych przepisów, od orzeczeń, wydanych przez sąd w drugiej instancji po wejściu w życie niniejszej ustawy, nie służy środek odwoławczy, zamiast przysięgi lub zapewnienia, zastępującego przysięgę, odbiera się przyrzeczenie, wykonanie orzeczeń następuje według przepisów niniejszej ustawy.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 **Art. 22.** Upoważnia się Ministra Sprawiedliwości do ogłoszenia w Dzienniku Ustaw Rzeczypospolitej Polskiej jednolitego tekstu kodeksu postępowania karnego oraz przepisów wprowadzających kodeks postępowania karnego z uwzględnieniem zmian, wynikających z przepisów, ogłoszonych przed dniem wydania jednolitego tekstu z zastosowaniem ciągłej numeracji działów, rozdziałów, artykułów i paragrafów. Wykonanie niniejszej ustawy porucza się Ministrowi Sprawiedliwości. Ustawa niniejsza wchodzi w życie z dniem 1 lipca 1949 r.
 

@@ -8,12 +8,10 @@ pos: 1661
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary
-
-*USTAWA z dnia 28 października 2002 r.*
+# Ustawa z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2002-10-28 |
 | Data wydania | 2002-11-27 |
+| Wejście w życie | 2003-11-28 |
 | Ostatnia zmiana | 2026-05-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021971661) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1661/text.pdf) |
 
@@ -31,25 +30,30 @@ source: "isap-pdf"
 
 **Art. 2.**
 
-1. Podmiotem zbiorowym w rozumieniu ustawy jest osoba prawna oraz jednostka organizacyjna niemająca osobowości prawnej, której odrębne przepisy przyznają zdolność prawną, z wyłączeniem Skarbu Państwa, jednostek samorządu terytorialnego i ich związków.
+1. Podmiotem zbiorowym w rozumieniu ustawy jest osoba prawna oraz jednostka organizacyjna niemająca osobowości prawnej, z wyłączeniem Skarbu Państwa, jednostek samorządu terytorialnego i ich związków oraz organów państwowych i samorządu terytorialnego.
 
 2. Podmiotem zbiorowym w rozumieniu ustawy jest również spółka handlowa z udziałem Skarbu Państwa, jednostki samorządu terytorialnego lub związku takich jednostek, spółka kapitałowa w organizacji, podmiot w stanie likwidacji oraz przedsiębiorca niebędący osobą fizyczną, a także zagraniczna jednostka organizacyjna.
 
 **Art. 3.** Podmiot zbiorowy podlega odpowiedzialności za czyn zabroniony, którym jest zachowanie osoby fizycznej:
 
-**Art. 4.** Podmiot zbiorowy podlega odpowiedzialności, jeżeli fakt popełnienia czynu zabronionego, wymienionego w art. 16, przez osobę, o której mowa w art. 3, został potwierdzony prawomocnym wyrokiem skazującym tę osobę, wyrokiem warunkowo umarzającym wobec niej postępowanie karne albo postępowanie w sprawie o przestępstwo skarbowe, orzeczeniem o udzielenie tej osobie zezwolenia na dobrowolne poddanie się odpowiedzialności albo orzeczeniem sądu o umorzeniu przeciwko niej postępowania z powodu okoliczności wyłączającej ukaranie sprawcy.
+- **1)** działającej w imieniu lub w interesie podmiotu zbiorowego w ramach uprawnienia lub obowiązku do jego reprezentowania, podejmowania w jego imieniu decyzji lub wykonywania kontroli wewnętrznej albo przy przekroczeniu tego uprawnienia lub niedopełnieniu tego obowiązku,
+- **2)** dopuszczonej do działania w wyniku przekroczenia uprawnień lub niedopełnienia obowiązków przez osobę, o której mowa w pkt 1,
+- **3)** działającej w imieniu lub w interesie podmiotu zbiorowego, za zgodą lub wiedzą osoby, o której mowa w pkt 1,
+- **4)** będącej przedsiębiorcą jeżeli zachowanie to przyniosło lub mogło przynieść podmiotowi zbiorowemu korzyść, chociażby niemajątkową.
 
-**Art. 4a.** W przypadku popełnienia czynu zabronionego, wymienionego w art. 16 ust. 1 pkt 8, przez osobę, o której mowa w art. 3, podmiot zbiorowy podlega odpowiedzialności niezależnie od wydania wyroku albo orzeczenia, o których mowa w art. 4.
+**Art. 4.** Podmiot zbiorowy podlega odpowiedzialności, jeżeli popełnienie przestępstwa lub przestępstwa skarbowego przez osobę, o której mowa w art. 3, zostało stwierdzone prawomocnym wyrokiem skazującym, nakazem karnym, prawomocnym orzeczeniem o zezwoleniu na dobrowolne poddanie się odpowiedzialności lub prawomocnym orzeczeniem warunkowo umarzającym postępowanie albo prawomocnym orzeczeniem o umorzeniu postępowania z powodu okoliczności wyłączających ściganie sprawcy.
 
-**Art. 5.** Podmiot zbiorowy podlega odpowiedzialności, jeżeli do popełnienia czynu zabronionego doszło w następstwie:
+**Art. 5.** Podmiot zbiorowy podlega odpowiedzialności w razie stwierdzenia co najmniej braku należytej staranności w wyborze osoby fizycznej, o której mowa w art. 3 pkt 2 lub 3, lub co najmniej braku należytego nadzoru nad tą osobą albo gdy organizacja działalności tego podmiotu nie zapewnia uniknięcia popełnienia czynu zabronionego, a mogło je zapewnić zachowanie należytej, wymaganej w danych okolicznościach ostrożności przez osobę, o której mowa w art. 3 pkt 1 lub 4.
 
 **Art. 6.** Odpowiedzialność albo brak odpowiedzialności podmiotu zbiorowego na zasadach określonych w niniejszej ustawie nie wyłącza odpowiedzialności cywilnej za wyrządzoną szkodę, odpowiedzialności administracyjnej ani indywidualnej odpowiedzialności prawnej sprawcy czynu zabronionego.
 
-**Art. 7.** Wobec podmiotu zbiorowego sąd orzeka karę pieniężną w wysokości od 1000 do 5 000 000 złotych, nie wyższą jednak niż 3 % przychodu osiągniętego w roku obrotowym, w którym popełniono czyn zabroniony będący podstawą odpowiedzialności podmiotu zbiorowego.
+**Art. 7.**
 
-**Art. 7a.** W przypadku określonym w art. 4a wobec podmiotu zbiorowego sąd orzeka karę pieniężną w wysokości od 10 000 do 5 000 000 złotych.
+1. Za czyn określony w ustawie wobec podmiotu zbiorowego orzeka się karę pieniężną w wysokości do 10% przychodu określonego w trybie przepisów o podatku dochodowym od osób prawnych, osiągniętego w roku podatkowym poprzedzającym wydanie orzeczenia.
 
-**Art. 7b.** W przypadku określonym w art. 16 ust. 1 pkt 18 w zakresie art. 57a– 57c ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2026 r. poz. 43 i 516) wobec podmiotu zbiorowego sąd orzeka karę pieniężną w wysokości do 15 % całkowitego rocznego obrotu wskazanego w sprawozdaniu finansowym za poprzedzający rok obrotowy.
+2. Jeżeli przychód, o którym mowa w ust. 1, jest niższy niż 1 000 000 zł, karę pieniężną orzeka się w wysokości do 10% wydatków poniesionych w roku poprzedzającym wydanie orzeczenia.
+
+3. Kara pieniężna orzeczona na podstawie ust. 1 lub 2 nie może być niższa niż 5 000 zł.
 
 **Art. 8.**
 
@@ -67,130 +71,81 @@ source: "isap-pdf"
 
 - **1)** zakaz promocji lub reklamy prowadzonej działalności, wytwarzanych lub sprzedawanych wyrobów, świadczonych usług lub udzielanych świadczeń;
 - **2)** zakaz korzystania z dotacji, subwencji lub innych form wsparcia finansowego środkami publicznymi;
-- **2a)** zakaz dostępu do środków, o których mowa w art. 5 ust. 3 pkt 1 i 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530, 1572 i 1717) – w przypadku skazania osoby, o której mowa w art. 3, za przestępstwo, o którym mowa w art. 9 lub art. 10 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2021 r. poz. 1745);
 - **3)** zakaz korzystania z pomocy organizacji międzynarodowych, których Rzeczpospolita Polska jest członkiem;
 - **4)** zakaz ubiegania się o zamówienia publiczne;
-- **5)** (uchylony)
+- **5)** zakaz prowadzenia określonej działalności podstawowej lub ubocznej;
 - **6)** podanie wyroku do publicznej wiadomości.
 
-2. Zakazy, o których mowa w ust. 1 pkt 1–4, orzeka się na okres od 1 roku do lat 5; orzeka się je w latach.
+2. Zakazy, o których mowa w ust. 1 pkt 1–5, orzeka się na okres od 1 roku do lat 5; orzeka się je w latach.
 
-2a. W przypadku skazania osoby, o której mowa w art. 3, za przestępstwo, o którym mowa w art. 9 lub art. 10 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej, sąd może zasądzić na rzecz Skarbu Państwa kwotę stanowiącą równowartość środków publicznych, o których mowa w ust. 1 pkt 2a, otrzymanych w okresie 12 miesięcy poprzedzających wydanie wyroku albo orzeczenia, o którym mowa w art. 4.
+3. Zakazu, o którym mowa w ust. 1 pkt 5, nie orzeka się, jeżeli jego orzeczenie mogłoby doprowadzić do upadłości albo likwidacji podmiotu zbiorowego lub zwolnień, o których mowa w art. 1 ustawy z dnia 28 grudnia 1989 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn dotyczących zakładu pracy (Dz. U. z 2002 r. Nr 112, poz. 980 i Nr 135, poz. 1146).
 
-3. (uchylony)
-
-**Art. 10.** Orzekając karę pieniężną, zakazy lub podanie wyroku do publicznej wiadomości, sąd uwzględnia w szczególności wagę nieprawidłowości w wyborze lub nadzorze, o których mowa w art. 5, rozmiary korzyści uzyskanej lub możliwej do uzyskania przez podmiot zbiorowy, jego sytuację majątkową, społeczne następstwa ukarania oraz wpływ ukarania na dalsze funkcjonowanie podmiotu zbiorowego.
+**Art. 10.** Orzekając karę pieniężną, zakazy lub podanie wyroku do publicznej wiadomości, sąd uwzględnia w szczególności rozmiary korzyści uzyskanej przez podmiot zbiorowy, a także społeczne następstwa ukarania.
 
 **Art. 11.**
 
-1. Orzekając karę pieniężną lub przepadek, sąd uwzględnia prawomocne orzeczenie o nałożeniu na podmiot zbiorowy odpowiedzialności posiłkowej za karę grzywny lub ściągnięcie równowartości pieniężnej przepadku przedmiotów orzeczone wobec osoby fizycznej, o której mowa w art. 3, za przestępstwo skarbowe.
+1. Orzekając karę pieniężną lub przepadek, sąd uwzględnia prawomocne orzeczenie o nałożeniu na podmiot zbiorowy odpowiedzialności posiłkowej za grzywnę lub przepadek orzeczone wobec osoby fizycznej, o której mowa w art. 3, za przestępstwo skarbowe określone w Kodeksie karnym skarbowym.
 
-2. Orzekając przepadek korzyści majątkowej lub jej równowartości, sąd uwzględnia prawomocne orzeczenie wydane na podstawie art. 24 § 5 Kodeksu karnego skarbowego, nakładające na podmiot zbiorowy obowiązek zwrotu korzyści majątkowej osiągniętej w wyniku przestępstwa osoby fizycznej, o której mowa w art. 3.
+2. Orzekając przepadek korzyści majątkowej lub jej równowartości, sąd uwzględnia prawomocne orzeczenie wydane na podstawie art. 52 Kodeksu karnego lub art. 24 § 5 Kodeksu karnego skarbowego, nakładające na podmiot zbiorowy obowiązek zwrotu korzyści majątkowej osiągniętej w wyniku przestępstwa osoby fizycznej, o której mowa w art. 3.
 
 **Art. 12.** W szczególnie uzasadnionych wypadkach, gdy czyn zabroniony stanowiący podstawę odpowiedzialności podmiotu zbiorowego nie przyniósł temu podmiotowi korzyści, sąd może odstąpić od orzeczenia kary pieniężnej, poprzestając na orzeczeniu przepadku, zakazu lub podania wyroku do publicznej wiadomości, z zastrzeżeniem przepisów art. 8 ust. 2 i art. 11.
 
-**Art. 13.** Jeżeli przed upływem 5 lat od orzeczenia kary pieniężnej zostanie ponownie popełniony czyn zabroniony stanowiący podstawę odpowiedzialności podmiotu zbiorowego, wobec tego podmiotu można orzec karę pieniężną w wysokości do górnej granicy ustawowego zagrożenia zwiększonego o połowę.
+**Art. 13.** Jeżeli przed upływem 5 lat od orzeczenia kary pieniężnej zostanie ponownie popełniony czyn zabroniony stanowiący podstawę odpowiedzialności podmiotu zbiorowego, wobec tego podmiotu można orzec karę pieniężną w wysokości do górnej granicy ustawowego zagrożenia zwiększonego o połowę; przepisu art. 9 ust. 3 nie stosuje się.
 
 **Art. 14.** Kary pieniężnej, przepadku, zakazów ani podania wyroku do publicznej wiadomości nie orzeka się wobec podmiotu zbiorowego, jeżeli od dnia wydania orzeczenia, o którym mowa w art. 4, upłynęło 10 lat.
 
 **Art. 15.** Kary pieniężnej, przepadku, zakazów ani podania wyroku do publicznej wiadomości nie wykonuje się, jeżeli od uprawomocnienia się wyroku stwierdzającego odpowiedzialność podmiotu zbiorowego za czyn zabroniony pod groźbą kary upłynęło 10 lat.
 
-**Art. 15a.** Egzekucję środka, o którym mowa w art. 9 ust. 2a, prowadzi naczelnik urzędu skarbowego właściwy ze względu na siedzibę sądu pierwszej instancji w trybie przepisów o postępowaniu egzekucyjnym w administracji. W celu wykonania środka sąd niezwłocznie po uprawomocnieniu się wyroku, o którym mowa w art. 9 ust. 2a, przesyła organowi egzekucyjnemu jego odpis lub wyciąg.
-
 **Art. 16.**
 
 1. Podmiot zbiorowy podlega odpowiedzialności na podstawie ustawy, jeżeli osoba, o której mowa w art. 3, popełniła przestępstwo:
 
-- **1)** przeciwko obrotowi gospodarczemu, określone w: z 2024 r. poz. 1646 i 1685), o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2023 r. poz. 1743), poz. 2378);
-    - **a)** art. 296, art. 297–306c oraz art. 308 Kodeksu karnego,
-    - **b)** art. 430–440 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2024 r. poz. 838 i 1565),
-    - **c)** art. 87–98 ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2024 r. poz. 708),
-    - **d)** art. 171 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U.
-    - **e)** art. 303–305 ustawy z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2023 r. poz. 1170),
-    - **f)** art. 585–592 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96),
-    - **g)** art. 33 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2023 r. poz. 1582),
-    - **h)** art. 133, art. 136 i art. 139 ustawy z dnia 13 czerwca 2019 r.
-    - **i)** (uchylona)
-    - **j)** art. 63–63c ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2022 r.
+- **1)** przeciwko obrotowi gospodarczemu, określone w: art. 296–306 oraz art. 308 Kodeksu karnego, art. 90f-90k ustawy z dnia 28 lipca 1990 r. o działalności ubezpieczeniowej (Dz. U. z 1996 r. Nr 11, poz. 62, z 1997 r. Nr 43, poz. 272, Nr 88, poz. 554, Nr 107, poz. 685, Nr 121, poz. 769 i 770 i Nr 139, poz. 934, z 1998 r. Nr 155, poz. 1015, z 1999 r. Nr 49, poz. 483, Nr 101, poz. 1178 i Nr 110, poz. 1255, z 2000 r. Nr 43, poz. 483, Nr 48, poz. 552, Nr 70, poz. 819, Nr 114, poz. 1193 i Nr 116, poz. 1216, z 2001 r. Nr 37, poz. 424, Nr 88, poz. 961, Nr 100, poz. 1084 i Nr 110, poz. 1189 oraz z 2002 r. Nr 25, poz. 253, Nr 41, poz. 365 i Nr 153, poz. 1271), art. 38–43a ustawy z dnia 29 czerwca 1995 r. o obligacjach (Dz. U. z 2001 r. Nr 120, poz. 1300), art. 171 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271 i Nr 169, poz. 1385 i 1387), art. 303–305 ustawy z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2001 r. Nr 49, poz. 508 oraz z 2002 r. Nr 74, poz. 676, Nr 108, poz. 945, Nr 113, poz. 983 i Nr 153, poz. 1271), art. 585–592 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037 oraz z 2001 r. Nr 102, poz. 1117), art. 33 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz o zmianie niektórych ustaw (Dz. U. Nr 119, poz. 1250, z 2001 r. Nr 154, poz. 1789 oraz z 2002 r. Nr 41, poz. 365, Nr 74, poz. 676 i Nr 89, poz. 804), art. 36 oraz art. 37 ustawy z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. Nr 67, poz. 679 oraz z 2002 r. Nr 74, poz. 676 i Nr 117, poz. 1007);
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
 
-- **2)** przeciwko obrotowi pieniędzmi i papierami wartościowymi, określone w: z 2024 r. poz. 620),
-    - **a)** art. 310–314 Kodeksu karnego,
-    - **b)** art. 178–183 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722),
-    - **c)** art. 37 ustawy z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych (Dz. U. z 2023 r. poz. 110),
-    - **d)** art. 99–101 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U.
-    - **e)** art. 37–41 ustawy z dnia 7 lipca 2022 r. o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom (Dz. U. z 2024 r. poz. 984);
+- **2)** przeciwko obrotowi pieniędzmi i papierami wartościowymi, określone w: art. 310–314 Kodeksu karnego, art. 165–177 ustawy z dnia 21 sierpnia 1997 r.- Prawo o publicznym obrocie papierami wartościowymi (Dz. U. z 2002 r. Nr 49, poz. 447), art. 37 ustawy z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych (Dz. U. Nr 140, poz. 940, z 1998 r. Nr 107, poz. 669, z 2000 r. Nr 6, poz. 70 i Nr 60, poz. 702, z 2001 r. Nr 15, poz. 148 i Nr 39, poz. 459 oraz z 2002 r. Nr 126, poz. 1070 i Nr 153, poz. 1271);
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **3)** łapownictwa i płatnej protekcji, określone w: z 2024 r. poz. 146, 858, 1222, 1593 i 1615), poz. 1488);
-    - **a)** art. 228–230a, art. 250a i art. 296a Kodeksu karnego,
-    - **b)** art. 192b i art. 192c ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U.
-    - **c)** art. 46–48 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2024 r.
-
-- **4)** przeciwko ochronie informacji, określone w art. 267–269b Kodeksu karnego;
+- **3)** łapownictwa i płatnej protekcji, określone w art. 228–230 Kodeksu karnego;
+- **4)** przeciwko ochronie informacji, określone w art. 267–269 Kodeksu karnego;
 - **5)** przeciwko wiarygodności dokumentów, określone w art. 270–273 Kodeksu karnego;
 - **6)** przeciwko mieniu, określone w art. 286 i 287 oraz w art. 291–293 Kodeksu karnego;
-- **7)** przeciwko wolności seksualnej i obyczajności, określone w art. 199–200b i art. 202–204 Kodeksu karnego;
-- **8)** przeciwko środowisku, określone w: o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2022 r. poz. 546),
-    - **a)** rozdziale XXII Kodeksu karnego,
-    - **b)** art. 31–34 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U. z 2022 r. poz. 1816),
-    - **c)** (uchylona)
-    - **d)** art. 58–61 i art. 64 ustawy z dnia 22 czerwca 2001 r.
-    - **e)** art. 37b ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2024 r. poz. 416),
-    - **f)** art. 127a i art. 128a ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2024 r. poz. 1478),
-    - **g)** art. 52 i art. 53 ustawy z dnia 15 maja 2015 r. o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych (Dz. U. z 2020 r. poz. 2065),
-    - **h)** art. 35a ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U. z 2023 r. poz. 1072 oraz z 2024 r. poz. 834);
+- **7)** przeciwko wolności seksualnej i obyczajności, określone w art. 200 § 2, art. 202 oraz w art. 204 Kodeksu karnego;
+- **8)** przeciwko środowisku, określone w: art. 181–184 oraz art. 186–188 Kodeksu karnego, art. 34 ustawy z dnia 11 stycznia 2001 r. o substancjach i preparatach chemicznych (Dz. U. Nr 11, poz. 84, Nr 100, poz. 1085, Nr 123, poz. 1350 i Nr 125, poz. 1367 oraz z 2002 r. Nr 135, poz. 1145 i Nr 142, poz. 1187), art. 69 ustawy z dnia 27 kwietnia 2001 r. o odpadach (Dz. U. Nr 62, poz. 628 oraz z 2002 r. Nr 41, poz. 365 i Nr 113, poz. 984), art. 58–64 ustawy z dnia 22 czerwca 2001 r. o organizmach genetycznie zmodyfikowanych (Dz. U. Nr 76, poz. 811 oraz z 2002 r. Nr 25, poz. 253 i Nr 41, poz. 365);
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
-- **9)** przeciwko ludzkości określone w art. 119 Kodeksu karnego oraz przeciwko wolności i porządkowi publicznemu, określone w art. 189a i w art. 252, art. 255, art. 256–258, art. 263 oraz w art. 264 i art. 264a Kodeksu karnego;
-- **9a)** przeciwko rodzinie i opiece określone w art. 211a Kodeksu karnego;
-- **9b)** określone w art. 55 ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2023 r. poz. 102);
-- **10)** określone w art. 23–24b ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2022 r. poz. 1233);
-- **11)** przeciwko własności intelektualnej, określone w art. 115–118 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2022 r. poz. 2509 oraz z 2024 r. poz. 1222 i 1254);
-- **12)** o charakterze terrorystycznym oraz określone w art. 165a i art. 255a Kodeksu karnego;
-- **13)** określone w art. 53, art. 55 ust. 1 i 3, art. 56 ust. 1 i 3, art. 57, art. 58, art. 59 ust. 1 i 2, art. 61, art. 62 ust. 1 i 2, art. 63, art. 64 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2023 r. poz. 1939);
-- **14)** określone w art. 124–126, art. 127, art. 127a, art. 129, art. 129a, art. 130–132c i art. 132e ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2024 r. poz. 686);
-- **15)** określone w art. 58 ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych (Dz. U. z 2023 r. poz. 616);
-- **16)** określone w art. 45–51 ustawy z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych (Dz. U. z 2023 r. poz. 2160 oraz z 2024 r. poz. 1597);
-- **17)** określone w art. 9 i art. 10 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej;
-- **18)** określone w art. 57a–57c, art. 57f i art. 57g ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
-- **19)** określone w art. 168f–168h ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505, z późn. zm. );
-- **20)** określone w art. 62 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. z 2024 r. poz. 695);
-- **21)** określone w art. 449 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221).
+- **9)** przeciwko porządkowi publicznemu, określone w art. 252 i 253, art. 256–258, art. 263 oraz w art. 264 Kodeksu karnego;
+- **10)** stanowiące czyn nieuczciwej konkurencji, określone w art. 23 i 24 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. Nr 47, poz. 211, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 88, poz. 554, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 29, poz. 356 i Nr 93, poz. 1027 oraz z 2002 r. Nr 126, poz. 1068 i 1071 i Nr 129, poz. 1102);
+- **11)** przeciwko własności intelektualnej, określone w art. 115–1181 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2000 r. Nr 80, poz. 904, z 2001 r. Nr 128, poz. 1402 oraz z 2002 r. Nr 126, poz. 1068).
 
 2. Podmiot zbiorowy podlega również odpowiedzialności na podstawie ustawy, jeżeli osoba, o której mowa w art. 3, popełniła przestępstwo skarbowe:
 
-- **1)** przeciwko obowiązkom podatkowym i rozliczeniom z tytułu dotacji lub subwencji, określone w art. 54 § 1 i 2, art. 55 § 1 i 2, art. 56 § 1 i 2, art. 58 § 2 i 3, art. 59 § 1–3, art. 60 § 1–3, art. 61 § 1, art. 62 § 1–4, art. 63 § 1–4, art. 64 § 1, art. 65 § 1–3, art. 66 § 1, art. 67 § 1 i 2, art. 68 § 1, art. 69 § 1–3, art. 70 § 1–4, art. 71–72, art. 73 § 1, art. 73a § 1 i 2, art. 74 § 1–3, art. 75 § 1 i 2, art. 76 § 1 i 2, art. 77 § 1 i 2, art. 78 § 1 i 2, art. 80 § 1–3, art. 80a § 1, art. 82 § 1 oraz art. 83 § 1 Kodeksu karnego skarbowego;
-- **2)** przeciwko obowiązkom celnym oraz zasadom obrotu z zagranicą towarami i usługami, określone w art. 85 § 1 i 2, art. 86 § 1–3, art. 87 § 1–3, art. 88 § 1 i 2, art. 89 § 1 i 2, art. 90 § 1 i 2, art. 91 § 1–3, art. 92 § 1 i 2, art. 93, 94 § 1 i 2 oraz art. 95 § 1 Kodeksu karnego skarbowego;
-- **3)** przeciwko obrotowi dewizowemu, określone w art. 97 § 1–3, art. 98 § 1, art. 99 § 1 i 2, art. 101 § 1, art. 102 § 1, art. 103 § 1, art. 104 § 1, art. 105 § 1, art. 106 § 1, art. 106a § 1, art. 106b § 1, art. 106c § 1, art. 106d § 1, art. 106i § 1 oraz art. 106j § 1 Kodeksu karnego skarbowego;
-- **4)** przeciwko organizacji gier hazardowych, określone w art. 107 § 1–3, art. 107a § 1, art. 108, art. 109, art. 110 i art. 110a Kodeksu karnego skarbowego.
+- **1)** przeciwko obowiązkom podatkowym i rozliczeniom z tytułu dotacji lub subwencji, określone w art. 54–56, art. 63, art. 65, art. 67, art. 76, art. 77 oraz w art. 82 Kodeksu karnego skarbowego;
+- **2)** przeciwko obowiązkom celnym oraz zasadom obrotu z zagranicą towarami i usługami, określone w art. 85, art. 88, art. 89 oraz w art. 92 Kodeksu karnego skarbowego.
 
-**Art. 17.** (uchylony)
+**Art. 17.** Podmiot zbiorowy za przestępstwo osoby fizycznej, o którym mowa w art. 16 ust. 1 pkt 1–3, podlega karze pieniężnej w wysokości od 2% do 10% przychodu lub wydatków, o których mowa w art. 7 ust. 1 lub 2.
 
-**Art. 18.** (uchylony)
+**Art. 18.** Podmiot zbiorowy za przestępstwo osoby fizycznej, o którym mowa w art. 16 ust. 1 pkt 4–7, podlega karze pieniężnej w wysokości od 1% do 8% przychodu lub wydatków, o których mowa w art. 7 ust. 1 lub 2.
 
-**Art. 19.** (uchylony)
+**Art. 19.** Podmiot zbiorowy za przestępstwo osoby fizycznej, o którym mowa w art. 16 ust. 1 pkt 8–11, podlega karze pieniężnej w wysokości do 5% przychodu lub wydatków, o których mowa w art. 7 ust. 1 lub 2.
 
-**Art. 20.** (uchylony)
+**Art. 20.** Podmiot zbiorowy za przestępstwo skarbowe osoby fizycznej, o którym mowa w art. 16 ust. 2, podlega karze pieniężnej w wysokości od 1% do 8% przychodu lub wydatków, o których mowa w art. 7 ust. 1 lub 2.
 
-**Art. 21.**
+**Art. 21.** Podmiot zbiorowy, który nie stosuje się do zakazu określonego w art. 9 ust. 1 pkt 1–5, podlega karze pieniężnej w wysokości od 2% do 10% przychodu lub wydatków, o których mowa w art. 7 ust. 1 lub 2.
 
-1. W postępowaniu karnym albo w postępowaniu w sprawie o przestępstwo skarbowe przeciwko osobie, o której mowa w art. 3, o czyn zabroniony określony w art. 16, jeżeli zachodzi uzasadnione podejrzenie, że przyniósł on lub mógł przynieść podmiotowi zbiorowemu korzyść, chociażby niemajątkową, podmiot ten może zgłosić udział swojego przedstawiciela w postępowaniu przed sądem, nie później niż przed zamknięciem przewodu sądowego w pierwszej instancji.
-
-2. Przedstawicielem podmiotu zbiorowego nie może być osoba, o której mowa w art. 3, przeciwko której toczy się postępowanie karne albo postępowanie w sprawie o przestępstwo skarbowe.
-
-3. Zgłoszenie udziału przedstawiciela podmiotu zbiorowego następuje w formie pisemnej. Przepisy art. 119 i 120 Kodeksu postępowania karnego stosuje się odpowiednio.
-
-4. Jeżeli w postępowaniu przygotowawczym zostanie ustalony podmiot, o którym mowa w ust. 1, należy niezwłocznie powiadomić ten podmiot o przysługujących mu uprawnieniach i obowiązkach, o których mowa w ust. 1–3 oraz w art. 21a.
-
-5. Jeżeli podmiot, o którym mowa w ust. 1, zostanie ustalony w postępowaniu przed sądem pierwszej instancji, przed zamknięciem przewodu sądowego, przepis ust. 4 stosuje się odpowiednio.
-
-**Art. 21a.**
-
-1. W postępowaniu sądowym, po zgłoszeniu w nim udziału przedstawiciela podmiotu zbiorowego, podmiotowi temu przysługują uprawnienia określone w art. 156, art. 167, art. 171 § 2, art. 341 § 1, art. 343 § 5, art. 343a, art. 350 § 2 pkt 2, art. 352, art. 396 § 3, art. 406, art. 422 § 1, art. 423 § 2, art. 425, art. 444, art. 457 § 2 i art. 459 Kodeksu postępowania karnego.
-
-2. Sąd może przesłuchać przedstawiciela podmiotu zbiorowego w charakterze świadka. Osoba ta może odmówić zeznań. Przepisy art. 72, art. 75, art. 87 i art. 89 Kodeksu postępowania karnego stosuje się odpowiednio.
-
-3. W przypadku skorzystania z uprawnienia określonego w art. 171 § 2 lub art. 406 § 1 Kodeksu postępowania karnego przedstawiciel podmiotu zbiorowego może, uwzględniając kolejność wskazaną w art. 370 § 1 oraz w art. 406 § 1 Kodeksu postępowania karnego, odpowiednio zadawać pytania stronom lub zabrać głos po zamknięciu przewodu sądowego przed wystąpieniem obrońcy oskarżonego.
-
-**Art. 22.** Do postępowania w sprawie odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary stosuje się odpowiednio przepisy Kodeksu postępowania karnego, o ile przepisy niniejszej ustawy nie stanowią inaczej. Nie stosuje się jednak przepisów Kodeksu postępowania karnego o oskarżycielu prywatnym, przedstawicielu społecznym, postępowaniu przygotowawczym, postępowaniach szczególnych oraz o postępowaniu karnym w sprawach podlegających orzecznictwu sądów wojskowych.
+**Art. 22.** Do postępowania w sprawie odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary stosuje się odpowiednio przepisy Kodeksu postępowania karnego, o ile przepisy niniejszej ustawy nie stanowią inaczej. Nie stosuje się jednak przepisów Kodeksu postępowania karnego o oskarżycielu prywatnym, powodzie cywilnym, przedstawicielu społecznym, postępowaniu przygotowawczym, postępowaniach szczególnych oraz o postępowaniu karnym w sprawach podlegających orzecznictwu sądów wojskowych.
 
 **Art. 23.** Ciężar dowodu spoczywa na tym, kto dowód zgłasza.
 
@@ -204,25 +159,23 @@ source: "isap-pdf"
 
 **Art. 26.** W celu zabezpieczenia prawidłowego toku postępowania, jeszcze przed jego wszczęciem, można wystąpić do właściwego sądu o wydanie postanowienia o zabezpieczeniu na mieniu podmiotu zbiorowego grożącej kary pieniężnej lub przepadku.
 
-**Art. 26a.**
-
-1. W postępowaniu w sprawie odpowiedzialności podmiotu zbiorowego lub w postępowaniu karnym albo postępowaniu w sprawie o przestępstwo skarbowe przeciwko osobie, o której mowa w art. 3, o czyn zabroniony określony w art. 16, sąd może zastosować wobec podmiotu zbiorowego środek zapobiegawczy w postaci zakazu łączenia się, podziału lub przekształcenia się podmiotu zbiorowego, zakazu ubiegania się o zamówienia publiczne na czas trwania tych postępowań, a także obciążania w tym czasie bez zgody sądu swojego majątku lub zbywania bez takiej zgody określonych przez sąd składników majątkowych.
-
-2. Na postanowienie w przedmiocie środka zapobiegawczego przysługuje zażalenie.
-
-3. Okres wykonywania środka zapobiegawczego w postaci zakazu ubiegania się o zamówienia publiczne na czas trwania postępowania zalicza się do okresu, na który orzeczono zakaz, o którym mowa w art. 9 ust. 1 pkt 4.
-
-4. W przypadku zastosowania środka zapobiegawczego w postaci zakazu ubiegania się o zamówienia publiczne na czas trwania postępowania, przy orzekaniu zakazu, o którym mowa w art. 9 ust. 1 pkt 4, nie stosuje się przepisu art. 14.
-
 **Art. 27.**
 
 1. Postępowanie wszczyna się na wniosek prokuratora lub pokrzywdzonego, z zastrzeżeniem ust. 2.
 
 2. W sprawach, w których podstawą odpowiedzialności podmiotu zbiorowego jest czyn zabroniony uznany przez ustawę za czyn nieuczciwej konkurencji, postępowanie wszczyna się również na wniosek Prezesa Urzędu Ochrony Konkurencji i Konsumentów.
 
-**Art. 28.** Wniosek złożony przez pokrzywdzonego powinien być sporządzony i podpisany przez osobę uprawnioną do obrony według przepisów o ustroju adwokatury lub ustawy o radcach prawnych.
+**Art. 28.** Wniosek złożony przez pokrzywdzonego powinien być sporządzony i podpisany przez osobę uprawnioną do obrony według przepisów o ustroju adwokatury lub osobę uprawnioną do świadczenia pomocy prawnej według przepisów o radcach prawnych.
 
 **Art. 29.** Wniosek powinien zawierać:
+
+- **1)** oznaczenie wnioskodawcy oraz jego adres dla doręczeń;
+- **2)** oznaczenie podmiotu zbiorowego oraz jego adres dla doręczeń;
+- **3)** dokładne określenie czynu zabronionego stanowiącego podstawę odpowiedzialności podmiotu zbiorowego, z uwzględnieniem okoliczności, o których mowa w art. 3 i 5;
+- **4)** wskazanie prawomocnego wyroku lub innego orzeczenia, o którym mowa w art. 4, wraz z oznaczeniem sądu lub organu, który wydał to orzeczenie;
+- **5)** wskazanie sądu właściwego do rozpoznania sprawy;
+- **6)** uzasadnienie;
+- **7)** wykaz dowodów, których przeprowadzenia na rozprawie głównej domaga się wnioskodawca.
 
 **Art. 30.** Z wnioskiem przesyła się sądowi odpis orzeczenia, o którym mowa w art. 4, wraz z uzasadnieniem, jeżeli je sporządzono.
 
@@ -232,17 +185,9 @@ source: "isap-pdf"
 
 **Art. 33.**
 
-1. W imieniu podmiotu zbiorowego w postępowaniu występuje osoba wchodząca w skład organu uprawnionego do reprezentowania tego podmiotu.
+1. W imieniu podmiotu zbiorowego w postępowaniu uczestniczy osoba wchodząca w skład organu uprawnionego do reprezentowania tego podmiotu.
 
-2. Podmiot zbiorowy może ustanowić obrońcę spośród radców prawnych lub adwokatów.
-
-3. Osoba, o której mowa w ust. 1, ma prawo składania wyjaśnień, może jednak bez podania powodów odmówić odpowiedzi na poszczególne pytania lub odmówić składania wyjaśnień. Osoba ta ma prawo składania wyjaśnień do każdego dowodu przeprowadzonego na rozprawie.
-
-4. W imieniu podmiotu zbiorowego w postępowaniu nie może występować osoba, o której mowa w art. 3.
-
-5. W przypadku wyznaczenia przez podmiot zbiorowy osoby, o której mowa w art. 3, sąd wzywa podmiot zbiorowy do wskazania, w terminie 30 dni, innej osoby, która będzie występowała w postępowaniu w jego imieniu.
-
-6. W razie niewyznaczenia w terminie innej osoby, o której mowa w ust. 5, albo gdy nie działają organy uprawnione do reprezentowania podmiotu zbiorowego, sąd wyznacza temu podmiotowi obrońcę z urzędu, spośród osób wymienionych w ust. 2.
+2. Podmiot zbiorowy może ustanowić obrońcę spośród osób uprawnionych do obrony według przepisów o ustroju adwokatury lub osób uprawnionych do świadczenia pomocy prawnej według przepisów o radcach prawnych.
 
 **Art. 34.**
 
@@ -274,7 +219,7 @@ source: "isap-pdf"
 
 **Art. 39.** Od wyroku sądu pierwszej instancji wnioskodawcy i podmiotowi zbiorowemu przysługuje apelacja.
 
-**Art. 40.** Kasacja może być wniesiona przez strony oraz przez Prokuratora Generalnego lub Rzecznika Praw Obywatelskich.
+**Art. 40.** Kasacja może być wniesiona jedynie przez Prokuratora Generalnego lub Rzecznika Praw Obywatelskich.
 
 **Art. 41.**
 
@@ -284,9 +229,104 @@ source: "isap-pdf"
 
 **Art. 42.** Do wykonania orzeczonej kary pieniężnej, przepadku, zakazów oraz podania wyroku do publicznej wiadomości stosuje się odpowiednio przepisy Kodeksu karnego wykonawczego dotyczące wykonania grzywny, przepadku, zakazów oraz podania wyroku do publicznej wiadomości, przy czym kara pieniężna jest płatna z przychodu podmiotu zbiorowego.
 
-**Art. 43.** Zatarcie orzeczenia stwierdzającego odpowiedzialność podmiotu zbiorowego za czyn zabroniony pod groźbą kary następuje z mocy prawa z upływem 10 lat od wykonania lub darowania albo przedawnienia wykonania kary pieniężnej, przepadku, zakazów oraz podania wyroku do publicznej wiadomości. Art. 44–46. (pominięte)
+**Art. 43.** Zatarcie orzeczenia stwierdzającego odpowiedzialność podmiotu zbiorowego za czyn zabroniony pod groźbą kary następuje z mocy prawa z upływem 10 lat od wykonania lub darowania albo przedawnienia wykonania kary pieniężnej, przepadku, zakazów oraz podania wyroku do publicznej wiadomości.
+
+**Art. 44.** W ustawie z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. Nr 47, poz. 211, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 88, poz. 554, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 29, poz. 356 i Nr 93, poz. 1027 oraz z 2002 r. Nr 126, poz. 1068 i 1071 i Nr 129, poz. 1102) skreśla się rozdział 3a „Odpowiedzialność przedsiębiorców za przekupstwo osoby pełniącej funkcję publiczną”.
+
+**Art. 45.** W ustawie z dnia 10 czerwca 1994 r. o zamówieniach publicznych (Dz. U. z 2002 r. Nr 72, poz. 664 i Nr 113, poz. 984) w art. 19 w ust. 1 pkt 6 otrzymuje brzmienie: „
+
+- **6)** podmioty zbiorowe, wobec których sąd orzekł zakaz ubiegania się o zamówienia publiczne, na podstawie przepisów ustawy z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. Nr 197, poz. 1661), ” .
+
+**Art. 46.** W ustawie z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym (Dz. U. Nr 50, poz. 580, z 2001 r. Nr 56, poz. 579 oraz z 2002 r. Nr 74, poz. 676) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 dodaje się ust. 3 w brzmieniu: „
+
+3. W Rejestrze gromadzi się również dane o podmiotach zbiorowych, wobec których prawomocnie orzeczono karę pieniężną, przepadek, zakaz lub podanie wyroku do publicznej wiadomości, na podstawie ustawy z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. Nr 197, poz. 1661). ” ;
+
+- **2)** w art. 4 w ust. 1 w pkt 1, 2 i 3 po wyrazach „danych osobowych” dodaje się wyrazy „oraz danych o podmiotach zbiorowych”;
+- **3)** w art. 5 po wyrazach „Dane osobowe” dodaje się wyrazy „oraz dane o podmiotach zbiorowych”;
+- **4)** w art. 6 dotychczasową treść oznacza się jako ust. 1 oraz dodaje się ust. 2 w brzmieniu: „
+
+2. Przepisy ust. 1 pkt 1, 4–9 i 11 stosuje się odpowiednio do uzyskiwania zgromadzonych w Rejestrze informacji o podmiotach zbiorowych. ” ;
+
+- **5)** w art. 7 dotychczasową treść oznacza się jako ust. 1 oraz dodaje się ust. 2 w brzmieniu: „
+
+2. Każdemu podmiotowi zbiorowemu przysługuje prawo do uzyskania informacji, czy jego dane są zgromadzone w Rejestrze. Podmiotowi, którego dane znajdują się w zbiorach danych zgromadzonych w Rejestrze, na jego wniosek, udostępnia się informację o treści wszystkich zapisów dotyczących tego podmiotu. ” ;
+
+- **6)** w art. 10 w ust. 1 po wyrazach „o których mowa w art. 1 ust. 2,” dodaje się wyrazy „oraz dane o podmiotach zbiorowych, o których mowa w art. 1 ust. 3,”;
+- **7)** w art. 11: w ust. 1: – po wyrazach „dane osobowe” dodaje się wyrazy „lub dane o podmiotach zbiorowych”, – w pkt 2 kropkę zastępuje się przecinkiem oraz dodaje się pkt 3 w brzmieniu: „ 3) zawiadomienie dotyczące podmiotu zbiorowego. ” , w ust. 2 po wyrazach „art. 1 ust. 2 pkt 1–7” dodaje się wyrazy „, lub wobec podmiotu zbiorowego, o którym mowa w art. 1 ust. 3”; dodaje się ust. 4 w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+4. Zawiadomienie dotyczące podmiotu zbiorowego sporządza organ wykonujący orzeczenie w postępowaniu karnym w sprawach o przestępstwa i przestępstwa skarbowe. ” ;
+
+- **8)** w art. 12: w ust. 1 po wyrazie „rejestracyjnej” dodaje się wyrazy „dotyczącej osoby”, po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+1a. W karcie rejestracyjnej dotyczącej podmiotu zbiorowego umieszcza się:
+
+- **1)** oznaczenie podmiotu zbiorowego oraz jego siedziby,
+- **2)** oznaczenie sądu, który wydał wyrok oraz sygnaturę akt sprawy,
+- **3)** datę wydania oraz uprawomocnienia się wyroku,
+- **4)** orzeczoną karę pieniężną, przepadek, zakaz oraz podanie wyroku do publicznej wiadomości,
+- **5)** kwalifikację prawną czynu zabronionego osoby fizycznej stanowiącego podstawę odpowiedzialności podmiotu zbiorowego,
+- **6)** nazwisko, imię, stanowisko oraz podpis osoby sporządzającej. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **c)**
+
+2a. Zawiadomienie dotyczące podmiotu zbiorowego zawiera dane, o których mowa w ust. 1a pkt 1, 2 i 6, oraz informacje o:
+
+- **1)** wykonaniu kary pieniężnej, przepadków, zakazów oraz podania wyroku do publicznej wiadomości, o których mowa w art. 7, 8 i 9 ustawy z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary,
+- **2)** zatarciu orzeczenia stwierdzającego odpowiedzialność podmiotu zbiorowego za czyn zabroniony pod groźbą kary,
+- **3)** likwidacji podmiotu zbiorowego, którego dane zgromadzono w Rejestrze. ” ;
+- **9)** w art. 13 w pkt 3 kropkę zastępuje się przecinkiem oraz dodaje się pkt 4 w brzmieniu: „
+- **4)** kart rejestracyjnych i zawiadomień, zawierających informacje o podmiotach zbiorowych podlegających odpowiedzialności na podstawie przepisów ustawy z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary. ” ;
+- **10)** w art. 14 w ust. 1 po wyrazach „art. 1 ust. 2 pkt 1–4 i 7,” dodaje się wyrazy „oraz dane o podmiotach zbiorowych, o których mowa w art. 1 ust. 3,”;
+- **11)** art. 17 otrzymuje brzmienie: „ Minister Sprawiedliwości określi, w drodze rozporządzenia, warunki, w tym techniczne i organizacyjne, sposób oraz tryb gromadzenia danych osobowych oraz danych o podmiotach zbiorowych w Rejestrze oraz usuwania tych danych z Rejestru, mając na uwadze konieczność zapewnienia sprawnego funkcjonowania Rejestru oraz zabezpieczenia gromadzonych w nim danych osobowych oraz danych o podmiotach zbiorowych przed dostępem osób nieuprawnionych, wykorzystywaniem przez osoby nieuprawnione, uszkodzeniem lub zniszczeniem. ” ;
+- **12)** w art. 18 w ust. 1 po wyrazach „danych osobowych” dodaje się wyrazy „lub danych o podmiotach zbiorowych”;
+- **13)** w art. 19: w ust. 1 po wyrazach „art. 6” oraz po wyrazach „art. 7” dodaje się wyrazy „ust. 1”, po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+1a. Informacji o podmiocie zbiorowym na podstawie danych o tym podmiocie zgromadzonych w Rejestrze udziela się na zapytanie podmiotów wymienionych w art. 6 ust. 1 pkt 1, 4–9 i 11 lub na wniosek podmiotu, o którym mowa w art. 7 ust. 2. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+
+- **c)**
+
+2a. Zapytanie o udzielenie informacji o podmiocie zbiorowym powinno zawierać:
+
+- **1)** oznaczenie podmiotu zbiorowego oraz jego siedziby,
+- **2)** określenie rodzaju i zakresu danych o podmiocie zbiorowym, które mają być przedmiotem informacji,
+- **3)** wskazanie postępowania, w związku z którym zachodzi potrzeba uzyskania danych o podmiocie zbiorowym,
+- **4)** nazwę podmiotu kierującego zapytanie,
+- **5)** datę wystawienia,
+- **6)** podpis sędziego, prokuratora albo uprawnionej osoby lub organu podmiotu kierującego zapytanie. ” , ust. 3 otrzymuje brzmienie: „
+    - **d)**
+
+3. Wniosek osoby, o której mowa w art. 7 ust. 1, o udzielenie informacji z Rejestru powinien zawierać: nazwisko, w tym także przybrane, imiona, nazwisko rodowe, datę i miejsce urodzenia, imiona rodziców, nazwisko rodowe matki, miejsce zamieszkania, obywatelstwo oraz numer PESEL i podpis wnioskodawcy. Wniosek podmiotu zbiorowego, o którym mowa w art. 7 ust. 2, powinien zawierać oznaczenie tego podmiotu i jego adres. Jeżeli we wniosku nie określono rodzaju i zakresu danych, które mają być przedmiotem informacji, informacja ta powinna zawierać odpis wszystkich zapisów dotyczących wnioskodawcy zamieszczonych na kartach rejestracyjnych i zawiadomieniach. ” ;
+
+- **14)** w art. 20 dotychczasową treść oznacza się jako ust. 1 oraz dodaje się ust. 2 w brzmieniu: „
+
+2. Informacja o podmiocie zbiorowym, sporządzona na podstawie danych zgromadzonych w Rejestrze, zawiera:
+
+- **1)** oznaczenie podmiotu zbiorowego wraz z jego siedzibą,
+- **2)** dane o podmiocie zbiorowym w zakresie objętym zapytaniem lub wnioskiem albo stwierdzenie, że podmiot zbiorowy nie figuruje w Rejestrze,
+- **3)** datę wydania,
+- **4)** nazwisko i imię osoby upoważnionej do jej wydania,
+- **5)** pieczęć urzędową. ” ;
+- **15)** art. 21 otrzymuje brzmienie: „ Minister Sprawiedliwości określi, w drodze rozporządzenia, warunki, sposób i tryb udzielania informacji o osobach oraz informacji o podmiotach zbiorowych na podstawie danych zgromadzonych w Rejestrze, mając na uwadze potrzebę przekazywania takich informacji w określonych przypadkach, także za pomocą urządzeń służących do automatycznego ich przekazywania, a także określi wzór zapytania o udzielenie informacji o osobie, o którym mowa w art. 19 ust. 2, wzór zapytania o udzielenie informacji o podmiocie zbiorowym, o którym mowa w art. 19 ust. 2a, wzór formularza informacji o osobie, o której mowa w art. 20 ust. 1, oraz wzór formularza informacji o podmiocie zbiorowym, o której mowa w art. 20 ust. 2. ” ;
+- **16)** art. 23 otrzymuje brzmienie: „ Informacja o osobie, o której mowa w art. 20 ust. 1, oraz informacja o podmiocie zbiorowym, o którym mowa w art. 20 ust. 2, stanowi zaświadczenie w rozumieniu przepisów działu VII Kodeksu postępowania administracyjnego. ” ;
+- **17)** art. 24 otrzymuje brzmienie: „
+
+1. Za wydanie z Rejestru informacji o osobie pobiera się opłatę stanowiącą dochód budżetu państwa. Od uiszczenia opłaty zwolnione są podmioty wymienione w art. 6 ust. 1 pkt 1–9 i 11.
+
+2. Za wydanie z Rejestru informacji o podmiocie zbiorowym pobiera się opłatę stanowiącą dochód budżetu państwa. Od uiszczenia opłaty zwolnione są podmioty wymienione w art. 6 ust. 1 pkt 1, 4–9 i 11.
+
+3. Minister Sprawiedliwości określi, w drodze rozporządzenia, wysokość opłat, o których mowa w ust. 1 i 2, mając na uwadze faktyczne koszty wydania informacji. ” ;
+
+- **18)** w art. 25 po wyrazach „informację o osobie” dodaje się wyrazy „albo informację o podmiocie zbiorowym”.
 
 **Art. 47.** Do czasu wydania przepisów wykonawczych na podstawie upoważnień zmienionych niniejszą ustawą zachowują moc przepisy dotychczasowe, jeżeli nie są z nią sprzeczne.
 
-**Art. 48.** Ustawa wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia .
+**Art. 48.** Ustawa wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.
 

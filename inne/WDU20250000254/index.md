@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy konsultantach ochronie zdrowia
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 lutego 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 lutego 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,12 +25,23 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-03-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000254) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/254/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 lutego 2025 r.
+sprawie ogłoszenia jednolitego tekstu ustawy konsultantach ochronie zdrowia
 1. Na podstawie 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 6 listopada 2008 r. konsultantach ochronie zdrowia (Dz. U. z 2024 r. poz. 69), z uwzględnieniem zmian wprowadzonych ustawą z dnia 27 listopada 2024 r. zmianie ustawy Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (Dz. U. poz. 1897) oraz zmian wynikających z przepisów ogłoszonych przed dniem 19 lutego 2025 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje 23 ust. 1 i 2 oraz 41 ustawy z dnia 27 listopada 2024 r. zmianie ustawy Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (Dz. U. poz. 1897), które stanowią:
 
 **Art. 23.** „1. Z dniem wejścia życie niniejszej ustawy likwiduje się Centrum Kształcenia Podyplomowego Pielęgniarek i Położnych, zwane dalej „Centrum”. 2. Z dniem wejścia życie niniejszej ustawy mienie, należności, zobowiązania, prawa i obowiązki Centrum będącego państwową jednostką budżetową stają się mieniem, należnościami, zobowiązaniami, prawami i obowiązkami Centrum Medycznego Kształcenia Podyplomowego działającego na podstawie ustawy zmienianej 1 brzmieniu nadanym niniejszą ustawą, zwanego dalej „CMKP”.” „Art. 41. Ustawa wchodzi życie z dniem 1 stycznia 2025 r., z wyjątkiem:
 
+- **1)** 12, 15, 19 i 40, które wchodzą życie z dniem 30 grudnia 2024 r.;
+- **2)** 9 pkt 14 i 15 oraz 28 ust. 5 i 6, które wchodzą życie z dniem 16 stycznia 2025 r.;
+- **3)** 2 pkt 3 i 4 oraz 35, które wchodzą życie z dniem 1 września 2025 r.;
+- **4)** 9 pkt 7 lit. b–e i pkt 9, które wchodzą życie z dniem 1 stycznia 2027 r.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 6 listopada 2008 r. konsultantach ochronie zdrowia
+
 **Art. 1.** Ustawa określa:
+
+- **1)** zasady powoływania i odwoływania konsultantów krajowych, wojewódzkich oraz wojskowej służby zdrowia;
+- **2)** zadania konsultantów krajowych, wojewódzkich oraz wojskowej służby zdrowia;
+- **3)** sposób finansowania realizacji zadań, których pkt 2.
 
 **Art. 2.** Ilekroć ustawie jest konsultancie bez bliższego określenia, rozumie się przez to konsultanta krajowego, wojewódzkiego oraz wojskowej służby zdrowia.
 
@@ -122,7 +131,7 @@ source: "isap-pdf"
 1. Kandydat na konsultanta albo konsultant składa organowi powołującemu oświadczenie zawierające informacje, czy:
 
 - **1)** jest członkiem organów spółek handlowych, spółdzielni, stowarzyszeń, fundacji lub przedstawicielem albo pełnomocnikiem przedsiębiorców:
-    - **a)** wykonujących działalność leczniczą, a jeżeli tak, to jakich, środkiem spożywczym specjalnego przeznaczenia żywieniowego, wyrobem medycznym, wyposażeniem wyrobów medycznych, systemami i zestawami zabiegowymi, rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ), lub wyrobem medycznym do diagnostyki in vitro i wyposażeniem wyrobów medycznych do diagnostyki in vitro, rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. ), zwanymi dalej „wyrobami medycznymi”, a jeżeli tak, to jakich,
+    - **a)** wykonujących działalność leczniczą, a jeżeli tak, to jakich, czynnymi i wykorzystywanymi jako materiały wyjściowe przeznaczone do wytwarzania produktów leczniczych, środkiem spożywczym specjalnego przeznaczenia żywieniowego, wyrobem medycznym, wyposażeniem wyrobów medycznych, systemami i zestawami zabiegowymi, rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ), lub wyrobem medycznym do diagnostyki in vitro i wyposażeniem wyrobów medycznych do diagnostyki in vitro, rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. ), zwanymi dalej „wyrobami medycznymi”, a jeżeli tak, to jakich,
     - **c)** wykonujących działalność gospodarczą zakresie doradztwa związanego z refundacją leków, środków spożywczych specjalnego przeznaczenia żywieniowego, wyrobów medycznych, a jeżeli tak, to jakich,
     - **d)** wykonujących działalność ubezpieczeniową, a jeżeli tak, to jakich,
     - **e)** którzy złożyli wniosek wydanie pozwolenia na dopuszczenie do obrotu produktu leczniczego albo uzyskali to pozwolenie lub złożyli wniosek wydanie pozwolenia na import równoległy produktu leczniczego albo uzyskali to pozwolenie, a jeżeli tak, to jakich,
@@ -174,7 +183,50 @@ source: "isap-pdf"
 
 **Art. 9.** Konsultanci:
 
+- **1)** wykonują zadania opiniodawcze, doradcze i kontrolne dla organów administracji rządowej, podmiotów tworzących rozumieniu przepisów działalności leczniczej, Narodowego Funduszu Zdrowia i Rzecznika Praw Pacjenta;
+- **2)** prowadzą nadzór nad stroną merytoryczną doskonalenia zawodowego i szkolenia specjalizacyjnego lekarzy, lekarzy dentystów, pielęgniarek, położnych, farmaceutów oraz osób wykonujących inne zawody medyczne lub inne zawody mające zastosowanie ochronie zdrowia;
+- **3)** biorą udział pracach komisji i zespołów powoływanych celu realizacji polityki zdrowotnej;
+- **4)** sporządzają opinie dotyczące doskonalenia zawodowego lekarzy, lekarzy dentystów, pielęgniarek, położnych, farmaceutów oraz osób wykonujących inne zawody medyczne lub inne zawody mające zastosowanie ochronie zdrowia;
+- **5)** sporządzają opinie dotyczące realizacji szkolenia podyplomowego i specjalizacyjnego lekarzy, lekarzy dentystów, pielęgniarek, położnych, farmaceutów oraz osób wykonujących inne zawody medyczne lub inne zawody mające zastosowanie ochronie zdrowia zakresie wynikającym z określonego programu kształcenia oraz sprawują nadzór nad ich merytoryczną realizacją. szczególności:
+- **1)** przeprowadzanie kontroli podmiotów udzielających świadczeń zdrowotnych dotyczącej realizacji kształcenia i doskonalenia zawodowego lekarzy, lekarzy dentystów, pielęgniarek, położnych, farmaceutów oraz osób wykonujących inne zawody medyczne lub inne zawody mające zastosowanie ochronie zdrowia, zakresie wynikającym z programów kształcenia;
+- **2)** kontrola dostępności świadczeń zdrowotnych;
+- **3)** kontrola wyposażenia podmiotów udzielających świadczeń zdrowotnych aparaturę i sprzęt medyczny, aparaturę analityczną oraz aparaturę do przygotowywania i badania produktów leczniczych i kontrola ich efektywnego wykorzystania realizacji zadań dydaktycznych;
+- **4)** informowanie organów administracji rządowej, podmiotów tworzących rozumieniu przepisów działalności leczniczej, oddziałów wojewódzkich Narodowego Funduszu Zdrowia oraz Rzecznika Praw Pacjenta uchybieniach stwierdzonych wyniku kontroli;
+- **4a)** powiadamianie Prezesa Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych stwierdzonych incydentach lub nieprawidłowościach zakresie wyrobów medycznych;
+- **5)** sporządzanie opinii dotyczącej oceny zasobów kadrowych oraz potrzeb kadrowych dziedzinie medycyny, farmacji oraz innych dziedzinach mających zastosowanie ochronie zdrowia reprezentowanej przez właściwego konsultanta;
+- **6)** wydawanie opinii stosowanym postępowaniu diagnostycznym, leczniczym i pielęgnacyjnym zakresie jego zgodności z aktualnym stanem wiedzy, z uwzględnieniem dostępności metod i środków;
+- **6a)** wydawanie opinii zakresie wyrobów medycznych, na wniosek Prezesa Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych;
+- **7)** sporządzanie rocznego raportu dokumentującego wykonywanie zadań zakresie obejmującym reprezentowaną przez właściwego konsultanta dziedzinę medycyny, farmacji lub inną dziedzinę mającą zastosowanie ochronie zdrowia.
+
+2. Do zadań konsultanta krajowego, którym 4, należy także:
+
+- **1)** inicjowanie prowadzenia badań epidemiologicznych na obszarze kraju oraz ocena metod i wyników tych badań;
+- **2)** wydawanie opinii i doradztwo zakresie zadań realizowanych przez Centrum Egzaminów Medycznych oraz Centrum Medycznego Kształcenia Podyplomowego;
+- **3)** prognozowanie potrzeb zdrowotnych reprezentowanej przez konsultanta krajowego dziedzinie medycyny, farmacji lub innej dziedzinie mającej zastosowanie ochronie zdrowia;
+- **4)** opiniowanie, na wniosek ministra właściwego do spraw zdrowia, pod względem merytorycznym oraz celowościowym projektów aktów prawnych;
+- **5)** prowadzenie doradztwa zakresie realizacji zadań wynikających z Narodowego Programu Zdrowia i innych programów polityki zdrowotnej;
+- **6)** opiniowanie wniosków skierowanie pacjenta do przeprowadzenia leczenia lub badań diagnostycznych poza granicami Rzeczypospolitej Polskiej trybie określonym przepisach odrębnych;
+- **7)** występowanie z wnioskiem do ministra właściwego do spraw zdrowia powołanie nowego konsultanta wojewódzkiego;
+- **8)** występowanie z wnioskiem do ministra właściwego do spraw zdrowia odwołanie konsultanta wojewódzkiego.
+
+3. Do zadań konsultanta wojewódzkiego należy także:
+
+- **1)** opiniowanie wniosków jednostek ubiegających się wpisanie ich na prowadzoną przez ministra właściwego do spraw zdrowia listę jednostek organizacyjnych uprawnionych do prowadzenia specjalizacji lekarzy i lekarzy dentystów, pielęgniarek, położnych, farmaceutów oraz osób wykonujących inne zawody medyczne;
+- **2)** występowanie z wnioskiem do okręgowych rad właściwych samorządów zawodowych przeprowadzenie kontroli jakości udzielanych świadczeń zdrowotnych przez osoby wykonujące dany zawód medyczny;
+- **3)** wydawanie, na wniosek wojewody, opinii spełnianiu przez podmiot leczniczy warunków do udzielania świadczeń zdrowotnych danej dziedzinie medycyny;
+- **4)** wydawanie, na podstawie przeprowadzonej kontroli, opinii spełnianiu przez jednostkę uprawnioną na podstawie odrębnych przepisów warunków do prowadzenia stażu podyplomowego lekarzy, lekarzy dentystów, a także opinii dotyczącej sposobu realizacji stażu lub specjalizacji oraz poziomu udzielanych świadczeń zdrowotnych przez osoby wykonujące zawód medyczny zatrudnione zakładzie leczniczym podmiotu leczniczego. odnoszących się do przypadków poszczególnych pacjentów, przekazuje niezwłocznie kopię tej opinii ministrowi właściwemu do spraw zdrowia, który publikuje ją Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego tego ministra.
+
 **Art. 11.** Do zadań konsultantów, których 5, należy szczególności:
+
+- **1)** sporządzanie opinii potrzebach kadrowych dziedzinach medycyny, farmacji oraz innych dziedzinach mających zastosowanie ochronie zdrowia związanych z realizacją zadań istotnych dla obronności kraju;
+- **2)** opiniowanie programów szkolenia podyplomowego związanego z realizacją zadań, których 5, oraz sposobu ich realizacji;
+- **3)** opiniowanie, na wniosek Ministra Obrony Narodowej, pod względem merytorycznym oraz celowościowym projektów aktów prawnych;
+- **4)** opiniowanie, na wniosek Ministra Obrony Narodowej, jakości i dostępności świadczeń zdrowotnych związanych z realizacją zadań, których 5, jednostkach utworzonych i nadzorowanych przez tego ministra oraz innych podmiotach realizujących te zadania;
+- **5)** doradztwo dostosowywaniu krajowych norm i standardów opieki zdrowotnej do zobowiązań wynikających z uczestnictwa Rzeczypospolitej Polskiej międzynarodowych sojuszach obronnych;
+- **6)** doradztwo zakresie realizacji medycznych celów Sił Zbrojnych Rzeczypospolitej Polskiej, do których jest zobowiązana Rzeczpospolita Polska z racji uczestnictwa Sojuszu Północnoatlantyckim;
+- **7)** kontrola wyposażenia podmiotów leczniczych utworzonych i nadzorowanych przez Ministra Obrony Narodowej aparaturę i sprzęt medyczny, aparaturę analityczną oraz aparaturę do przygotowywania i badania produktów leczniczych i kontrola ich efektywnego wykorzystania przy realizacji zadań dydaktycznych;
+- **8)** informowanie właściwego podmiotu uchybieniach stwierdzonych wyniku kontroli;
+- **9)** sporządzanie rocznego raportu dokumentującego wykonanie zadań, do realizacji których został powołany.
 
 **Art. 12.**
 
@@ -205,7 +257,7 @@ source: "isap-pdf"
     - **a)** do dnia 30 listopada każdego roku,
     - **b)** dwa razy do roku na 45 dni przed terminem rozpoczęcia postępowania kwalifikacyjnego do specjalizacji lekarskich, którym przepisach zawodach lekarza i lekarza dentysty, przypadku opinii potrzebach kadrowych zawodach lekarza i lekarza dentysty;
 
-- **2)** konsultanci wojewódzcy sporządzają terminie określonym przez konsultanta krajowego. min jego wykonania.
+- **2)** konsultanci wojewódzcy sporządzają terminie określonym przez konsultanta krajowego. medycyny wykonanie określonego zadania mieszczącego się zakresie zadań konsultanta wojewódzkiego, określając termin jego wykonania.
 
 1a. Informację wydaniu polecenia, którym ust. 1, konsultant krajowy przekazuje ministrowi właściwemu do spraw zdrowia oraz właściwemu wojewodzie.
 

@@ -8,10 +8,10 @@ pos: 706
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 maja 2015 r.
+# Rozporządzenie Ministra Finansówz dnia 14 maja 2015 r. w sprawie zmiany obszaru wolnego obszaru celnego w Gdańsku
 
 | Pole | Wartość |
 |---|---|
@@ -22,61 +22,18 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2015-05-14 |
 | Data wydania | 2015-05-22 |
+| Wejście w życie | 2015-06-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000706) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/706/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 14 maja 2015 r.
-sprawie zmiany obszaru wolnego obszaru celnego Gdańsku Na podstawie art. 27 ust. 2 ustawy z dnia 19 marca 2004 r. Prawo celne (Dz. U. z 2013 r. poz. 727, z późn. zm. ) zarządza się, co następuje: § 1. Określa się, załączniku rozporządzenia, granice i obszar wolnego obszaru celnego Gdańsku, ustanowionego rozporządzeniem Rady Ministrów z dnia 28 listopada 1995 r. sprawie ustanowienia wolnego obszaru celnego Gdańsku (Dz. U. Nr 141, poz. 693, z 2002 r. Nr 47, poz. 439 oraz z 2011 r. Nr 76, poz. 411).
-§ 2. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów: M. Szczurek SZCZEGÓŁOWY OPIS GRANIC I OBSZAR WOLNEGO OBSZARU CELNEGO W GDAŃSKU Wolny obszar celny jest zlokalizowany na terenie stanowiącym własność Skarbu Państwa, który jest użytkowaniu wieczystym Zarządu Morskiego Portu Gdańsk S.A.
-Opis przebiegu granic wolnego obszaru celnego przedstawiony jest na mapie. Dokument zawierający opis przebiegu granic wolnego obszaru celnego wraz z mapą jest przechowywany u zarządzającego wolnym obszarem celnym oraz postaci kopii we właściwej miejscowo izbie celnej nadzorującej wolny obszar celny i Ministerstwie Finansów.
-Granice części wolnego obszaru celnego zlokalizowanej Nowym Porcie wyznaczają następujące punkty graniczne.
-1 biegnie południowo-zachodnim ogrodzenia, łącząc punkt 2 z
-3.
-3 ulega załamaniu południowo-wschodnim i biegnie linii prostej ogrodzenia 4.
-4 biegnie południowo-zachodnim, linią łamaną ogrodzenia oraz skarpy,
-5.
-5 ulega załamaniu południowo-wschodnim i łączy linią łamaną punkty od 6 9, przebiegając ogrodzenia.
-9 zmierza zachodnim linii prostej ogrodzenia 10, który stanowi słupek ogrodzenia.
-10 ulega załamaniu południowo-zachodnim i biegnie linią łamaną, ogrodzenia parku, łącząc punkty od 11 14.
-14 ulega załamaniu wschodnim i biegnie linii prostej ogrodzenia
-15.
-15 ulega załamaniu południowym, bramy wjazdowej, 16.
-16 biegnie południowo-wschodnim, krawędzi skarpy, 17.
-17 ulega załamaniu północnym, ogrodzenia, 18.
-18 ulega załamaniu południowo-wschodnim i biegnie bramy 19.
-19 ulega załamaniu północnym i biegnie linii prostej, ogrodzenia,
-20.
-20 biegnie bramy kolejowej południowo-wschodnim, przecinając tory kolejowe, i dochodzi 21.
-21 biegnie ogrodzenia wschodnim, łącząc punkty od 22 24.
-24 ulega załamaniu północnym i biegnie bramy oraz ściany budynku 25, gdzie ulega załamaniu wschodnim 26.
-26 ulega załamaniu północno-wschodnim i biegnie ogrodzenia, a następnie ściany budynku, łącząc prostymi punkty 27 i 28.
-28 ulega załamaniu północnym i biegnie ogrodzenia prostymi 29 i następnie 30.
-30 ulega załamaniu wschodnim i biegnie 31 i 32.
-32 ulega załamaniu południowo-wschodnim i linii prostej ogrodzenia łą37 ulega załamaniu wschodnim i, tworząc linię łamaną, biegnie ściany budynku 38.
-38 biegnie ściany budynku północnym, następnie ulega załamaniu wschodnim, tworząc linię łamaną, 39.
-39 biegnie północnym ogrodzenia, tworząc linię łamaną, przez punkty od 40 44.
-44 biegnie linii prostej 45.
-45 biegnie linii prostej północno-zachodnim bramy 46, następnie skręca północnym i biegnie linią łamaną ogrodzenia 47.
-47 ulega załamaniu południowo-zachodnim i biegnie ogrodzenia
-48.
-48 ulega załamaniu północno-zachodnim i biegnie ogrodzenia
-49.
-49 ulega załamaniu zachodnim i biegnie ogrodzenia 50.
-50 biegnie bramy 51, następnie biegnąc ogrodzenia zachodnim linii prostej, łączy z 1.
-Granice części wolnego obszaru celnego zlokalizowanej Porcie Północnym wyznaczają następujące punkty graniczne.
-1 biegnie linii prostej północno-zachodnim bramy wjazdowej 2, gdzie ulega załamaniu północno-wschodnim, i biegnie linii prostej ogrodzenia 3.
-3 ulega załamaniu północno-zachodnim i biegnie linii prostej ogrodzenia, przecinając rurociągi paliwowe, i dalej bramy 4.
-4 biegnie ogrodzenia, gdzie ulega załamaniu północnym, 5.
-5 ulega załamaniu północno-wschodnim i dochodzi 6.
-6 biegnie ogrodzenia północno-zachodnim linii prostej 7.
-7 biegnie linii prostej ogrodzenia północno-wschodnim obok torów kolejowych 8.
-8 biegnie linii prostej ogrodzenia północno-wschodnim obok torów kolejowych, łącząc punkty od 9 13.
-13 biegnie północno-wschodnim ogrodzenia 14.
-14 biegnie linii prostej ogrodzenia północno-wschodnim 15.
-15 biegnie północno-wschodnim ogrodzenia, łącząc punkty od 16
-20.
-20 ulega załamaniu południowym i linii prostej biegnie krawędzi falochronu 21.
-21 biegnie krawędzi falochronu południowym, łącząc prostymi punkty od 21 31.
-31 ulega załamaniu południowo-zachodnim i biegnie linii prostej ogrodzenia 32.
+Treść rozporządzenia
+Załącznik – Szczegółowy opis granic i obszar wolnego obszaru celnego w Gdańsku
+Treść rozporządzenia
+Na podstawie art. 27 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2013 r. poz. 727, z późn. zm.) zarządza się, co następuje:
+§ 1.
+Określa się, w załączniku do rozporządzenia, granice i obszar wolnego obszaru celnego w Gdańsku, ustanowionego rozporządzeniem Rady Ministrów z dnia 28 listopada 1995 r. w sprawie ustanowienia wolnego obszaru celnego w Gdańsku (Dz. U. Nr 141, poz. 693, z 2002 r. Nr 47, poz. 439 oraz z 2011 r. Nr 76, poz. 411).
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Załącznik – Szczegółowy opis granic i obszar wolnego obszaru celnego w Gdańsku
+Wolny obszar celny jest zlokalizowany na terenie stanowiącym własność Skarbu Państwa, który jest w użytkowaniu wieczystym Zarządu Morskiego Portu Gdańsk S.A. Opis przebiegu granic wolnego obszaru celnego przedstawiony jest na mapie. Dokument zawierający opis przebiegu granic wolnego obszaru celnego wraz z mapą jest przechowywany u zarządzającego wolnym obszarem celnym oraz w postaci kopii we właściwej miejscowo izbie celnej nadzorującej wolny obszar celny i w Ministerstwie Finansów. Granice części wolnego obszaru celnego zlokalizowanej w Nowym Porcie wyznaczają następujące punkty graniczne. Od punktu nr 1 granica biegnie w kierunku południowo-zachodnim wzdłuż ogrodzenia, łącząc punkt nr 2 z punktem nr 3. Od punktu nr 3 granica ulega załamaniu w kierunku południowo-wschodnim i biegnie w linii prostej wzdłuż ogrodzenia do punktu nr 4. Od punktu nr 4 granica biegnie w kierunku południowo-zachodnim, linią łamaną wzdłuż ogrodzenia oraz skarpy, do punktu nr 5. Od punktu nr 5 granica ulega załamaniu w kierunku południowo-wschodnim i łączy linią łamaną punkty od nr 6 do nr 9, przebiegając wzdłuż ogrodzenia. Od punktu nr 9 granica zmierza w kierunku zachodnim w linii prostej wzdłuż ogrodzenia do punktu nr 10, który stanowi słupek ogrodzenia. Od punktu nr 10 granica ulega załamaniu w kierunku południowo-zachodnim i biegnie linią łamaną, wzdłuż ogrodzenia parku, łącząc punkty od nr 11 do nr 14. Od punktu nr 14 granica ulega załamaniu w kierunku wschodnim i biegnie w linii prostej wzdłuż ogrodzenia do punktu nr 15. Od punktu nr 15 granica ulega załamaniu w kierunku południowym, wzdłuż bramy wjazdowej, do punktu nr 16. Od punktu nr 16 granica biegnie w kierunku południowo-wschodnim, wzdłuż krawędzi skarpy, do punktu nr 17. Od punktu nr 17 granica ulega załamaniu w kierunku północnym, wzdłuż ogrodzenia, do punktu nr 18. Od punktu nr 18 granica ulega załamaniu w kierunku południowo-wschodnim i biegnie wzdłuż bramy do punktu nr 19. Od punktu nr 19 granica ulega załamaniu w kierunku północnym i biegnie w linii prostej, wzdłuż ogrodzenia, do punktu nr 20. Od punktu nr 20 granica biegnie wzdłuż bramy kolejowej w kierunku południowo-wschodnim, przecinając tory kolejowe, i dochodzi do punktu nr 21. Od punktu nr 21 granica biegnie wzdłuż ogrodzenia w kierunku wschodnim, łącząc punkty od nr 22 do nr 24. Od punktu nr 24 granica ulega załamaniu w kierunku północnym i biegnie wzdłuż bramy oraz ściany budynku do punktu nr 25, gdzie ulega załamaniu w kierunku wschodnim do punktu nr 26. Od punktu nr 26 granica ulega załamaniu w kierunku północno-wschodnim i biegnie wzdłuż ogrodzenia, a następnie wzdłuż ściany budynku, łącząc odcinkami prostymi punkty nr 27 i nr 28. Od punktu nr 28 granica ulega załamaniu w kierunku północnym i biegnie wzdłuż ogrodzenia odcinkami prostymi do punktu nr 29 i następnie do punktu nr 30. Od punktu nr 30 granica ulega załamaniu w kierunku wschodnim i biegnie do punktu nr 31 i nr 32. Od punktu nr 32 granica ulega załamaniu w kierunku południowo-wschodnim i w linii prostej wzdłuż ogrodzenia łączy się z punktem nr 33. Od punktu nr 33 granica biegnie w kierunku wschodnim wzdłuż ogrodzenia, łącząc ze sobą odcinkami prostymi punkty od nr 34 do nr 36. Od punktu nr 36 granica ulega załamaniu w kierunku północnym do punktu nr 37. Od punktu nr 37 granica ulega załamaniu w kierunku wschodnim i, tworząc linię łamaną, biegnie wzdłuż ściany budynku do punktu nr 38. Od punktu nr 38 granica biegnie wzdłuż ściany budynku w kierunku północnym, następnie ulega załamaniu w kierunku wschodnim, tworząc linię łamaną, do punktu nr 39. Od punktu nr 39 granica biegnie w kierunku północnym wzdłuż ogrodzenia, tworząc linię łamaną, przez punkty od nr 40 do nr 44. Od punktu nr 44 granica biegnie w linii prostej do punktu nr 45. Od punktu nr 45 granica biegnie w linii prostej w kierunku północno-zachodnim wzdłuż bramy do punktu nr 46, następnie skręca w kierunku północnym i biegnie linią łamaną wzdłuż ogrodzenia do punktu nr 47. Od punktu nr 47 granica ulega załamaniu w kierunku południowo-zachodnim i biegnie wzdłuż ogrodzenia do punktu nr 48. Od punktu nr 48 granica ulega załamaniu w kierunku północno-zachodnim i biegnie wzdłuż ogrodzenia do punktu nr 49. Od punktu nr 49 granica ulega załamaniu w kierunku zachodnim i biegnie wzdłuż ogrodzenia do punktu nr 50. Od punktu nr 50 granica biegnie wzdłuż bramy do punktu nr 51, następnie biegnąc wzdłuż ogrodzenia w kierunku zachodnim w linii prostej, łączy się z punktem nr 1. Granice części wolnego obszaru celnego zlokalizowanej w Porcie Północnym wyznaczają następujące punkty graniczne. Od punktu nr 1 granica biegnie w linii prostej w kierunku północno-zachodnim wzdłuż bramy wjazdowej do punktu nr 2, gdzie ulega załamaniu w kierunku północno-wschodnim, i biegnie w linii prostej wzdłuż ogrodzenia do punktu nr 3. Od punktu nr 3 granica ulega załamaniu w kierunku północno-zachodnim i biegnie w linii prostej wzdłuż ogrodzenia, przecinając rurociągi paliwowe, i dalej wzdłuż bramy do punktu nr 4. Od punktu nr 4 granica biegnie wzdłuż ogrodzenia, gdzie ulega załamaniu w kierunku północnym, do punktu nr 5. Od punktu nr 5 granica ulega załamaniu w kierunku północno-wschodnim i dochodzi do punktu nr 6. Od punktu nr 6 granica biegnie wzdłuż ogrodzenia w kierunku północno-zachodnim w linii prostej do punktu nr 7. Od punktu nr 7 granica biegnie w linii prostej wzdłuż ogrodzenia w kierunku północno-wschodnim obok torów kolejowych do punktu nr 8. Od punktu nr 8 granica biegnie w linii prostej wzdłuż ogrodzenia w kierunku północno-wschodnim obok torów kolejowych, łącząc punkty od nr 9 do nr 13. Od punktu nr 13 granica biegnie w kierunku północno-wschodnim wzdłuż ogrodzenia do punktu nr 14. Od punktu nr 14 granica biegnie w linii prostej wzdłuż ogrodzenia w kierunku północno-wschodnim do punktu nr 15. Od punktu nr 15 granica biegnie w kierunku północno-wschodnim wzdłuż ogrodzenia, łącząc punkty od nr 16 do nr 20. Od punktu nr 20 granica ulega załamaniu w kierunku południowym i w linii prostej biegnie wzdłuż krawędzi falochronu do punktu nr 21. Od punktu nr 21 granica biegnie wzdłuż krawędzi falochronu w kierunku południowym, łącząc odcinkami prostymi punkty od nr 21 do nr 31. Od punktu nr 31 granica ulega załamaniu w kierunku południowo-zachodnim i biegnie w linii prostej wzdłuż ogrodzenia do punktu nr 32. Od punktu nr 32 granica biegnie w kierunku południowo-zachodnim wzdłuż ogrodzenia i łączy się z punktem nr 1. Łączna powierzchnia wolnego obszaru celnego wynosi 58 ha 48 a 23 m2.
 

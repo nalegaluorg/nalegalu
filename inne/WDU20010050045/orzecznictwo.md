@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 22 grudnia 2000 r. o zmianie ustawy o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw i ustawy o zakładach opieki zdrowotnej.*
 
-Łącznie: **14** orzeczeń
+Łącznie: **12** orzeczeń
 
 ## art. 1 (4)
 
@@ -18,7 +18,7 @@ Orzeczenia powołujące: *Ustawa z dnia 22 grudnia 2000 r. o zmianie ustawy o ne
 - 2005-08-11 | SN | [V CK 79/05](https://www.saos.org.pl/judgments/163487) | Wyrok ★
 - 2005-04-21 | SN | [III CK 645/04](https://www.saos.org.pl/judgments/163192) | Wyrok ★
 
-## art. 4 (8)
+## art. 4 (7)
 
 - 2002-12-18 | TK | [K 43/01](https://www.saos.org.pl/judgments/106039) | Wyrok ★
 - 2007-01-15 | SN | [I PK 235/06](https://www.saos.org.pl/judgments/85001) | Wyrok ★
@@ -27,7 +27,6 @@ Orzeczenia powołujące: *Ustawa z dnia 22 grudnia 2000 r. o zmianie ustawy o ne
 - 2006-05-19 | SN | [III CSK 11/05](https://www.saos.org.pl/judgments/164291) | Wyrok ★
 - 2006-04-11 | SN | [I CSK 120/05](https://www.saos.org.pl/judgments/164200) | Wyrok ★
 - 2005-04-21 | SN | [III CK 645/04](https://www.saos.org.pl/judgments/163192) | Wyrok ★
-- 2013-01-08 | SO | [I ACa 981/12](https://www.saos.org.pl/judgments/6210) | Wyrok
 
 ## art. 34 (1)
 
@@ -57,8 +56,4 @@ Orzeczenia powołujące: *Ustawa z dnia 22 grudnia 2000 r. o zmianie ustawy o ne
 ## art. 131 (1)
 
 - 2005-04-21 | SN | [III CK 645/04](https://www.saos.org.pl/judgments/163192) | Wyrok ★
-
-## (ogólnie) (1)
-
-- 2013-12-04 | SO | [VI ACa 498/13](https://www.saos.org.pl/judgments/37405) | Wyrok
 

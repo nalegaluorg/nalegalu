@@ -22,6 +22,7 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1974-07-18 |
 | Data wydania | 1974-07-19 |
+| Wejście w życie | 1974-07-22 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19740270159) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1974/159/text.pdf) |
 
@@ -72,7 +73,29 @@ i biorąc pod uwagę doniosłość jubileuszu XXX-lecia Polski Ludowej stanowi, 
 
 **Art. 3.** W sprawach o przestępstwa oraz o przestępstwa skarbowe popełnione przed dniem 15 czerwca 1974 r., w których orzeczono karę surowszą niż określona w art. 1 ust. 1:
 
+- **1)** łagodzi się o połowę karę pozbawienia wolności orzeczoną w rozmiarze powyżej lat 2 do lat 3;
+- **2)** łagodzi się o połowę karę pozbawienia wolności orzeczoną w rozmiarze powyżej lat 3 do lat 5, jeżeli orzeczona była za przestępstwo nieumyślne; nie dotyczy to kary pozbawienia wolności orzeczonej za przestępstwo nieumyślnego spowodowania śmierci określone w art. 152 Kodeksu karnego;
+- **3)** łagodzi się o połowę karę pozbawienia wolności orzeczoną w rozmiarze powyżej lat 3 do lat 5: kobietom, które do dnia wejścia w życie ustawy sprawowały nad dzieckiem w wieku do lat 16 pieczę, do której są obowiązani rodzice, osobom, które do dnia wejścia w życie ustawy ukończyły: kobiety – 50 lat, mężczyźni – 60 lat, osobom, które w chwili popełnienia przestępstwa nie ukończyły 18 lat;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **4)** w innych wypadkach niż określone w pkt 1–3 karę pozbawienia wolności orzeczoną w rozmiarze do lat 15 łagodzi się o 1/3.
+
 **Art. 4.** Amnestii nie stosuje się:
+
+- **1)** do zbrodni określonej w art. 1 pkt 1 dekretu z dnia 31 sierpnia 1944 r. o wymiarze kary dla faszystowsko-hitlerowskich zbrodniarzy winnych zabójstw i znęcania się nad ludnością cywilną i jeńcami oraz dla zdrajców Narodu Polskiego (Dz. U. z 1946 r. Nr 69, poz. 377 z późniejszymi zmianami) oraz do innych zbrodni wojennych i zbrodni przeciwko ludzkości;
+- **2)** do zbrodni określonych w art. 122, 124, 127 i 131 Kodeksu karnego, do przestępstw określonych w art. 128 § 1 w związku z art. 122, 124 i 127 Kodeksu karnego oraz do przestępstw określonych w art. 129 w związku z tymi przepisami;
+- **3)** do zbrodni zabójstwa określonej w art. 148 § 1 Kodeksu karnego;
+- **4)** do zbrodni określonych w art. 134 Kodeksu karnego oraz w art. 201 i 202 § 2 tego kodeksu, jeżeli zagarnięto mienie wielkiej wartości, jak również do osób organizujących lub kierujących wykonaniem przez inne osoby przestępstwa polegającego na zagarnięciu mienia społecznego w porozumieniu z innymi osobami, bez względu na wysokość wyrządzonej szkody;
+- **5)** do zbrodni określonych w art. 135 Kodeksu karnego oraz do przestępstw dewizowych i przestępstw w zakresie ceł i obrotu towarowego z zagranicą, za które orzeczono karę nie podlegającą darowaniu na podstawie art. 1 ust. 1 albo jeżeli z okoliczności sprawy, w szczególności ze względu na wartość przedmiotu przestępstwa lub wysokość uszczuplonego cła wynika, że należałoby za nie taką karę orzec;
+- **6)** do przestępstw łapownictwa i płatnej protekcji określonych w art. 239, 240 i 241 § 1, 3 i 4 Kodeksu karnego, w art. 242 w związku z tymi przepisami oraz w art. 244 Kodeksu karnego, za które orzeczono karę pozbawienia wolności w rozmiarze powyżej 1 roku bez warunkowego zawieszenia jej wykonania, albo jeżeli z okoliczności sprawy wynika, że należałoby za nie taką karę orzec;
+- **7)** do przestępstw określonych w art. 136 i 323 § 2 Kodeksu karnego popełnionych w stanie nietrzeźwości oraz do przestępstwa określonego w art. 145 § 2 tego kodeksu popełnionego przez osobę prowadzącą w stanie nietrzeźwości pojazd mechaniczny, jeżeli w wyniku tych przestępstw nastąpiła śmierć człowieka;
+- **8)** do zbrodni sprowadzenia pożaru określonej w art. 138 § 1 Kodeksu karnego;
+- **9)** do przestępstw zgwałcenia określonych w art. 168 Kodeksu karnego;
+- **10)** do przestępstw rozboju i wymuszenia rozbójniczego określonych w art. 210 i 211 Kodeksu karnego;
+- **11)** do przestępstw powrotnych popełnionych w warunkach określonych w art. 60 Kodeksu karnego, za które orzeczono karę pozbawienia wolności w rozmiarze powyżej 1 roku albo jeżeli z okoliczności sprawy wynika, że należałoby za nie taką karę orzec. Wyłączenie to nie dotyczy sprawców, którzy w chwili popełnienia ostatniego przestępstwa nie ukończyli 18 lat;
+- **12)** do przestępstw o charakterze chuligańskim, chyba że sprawca w chwili popełnienia czynu nie ukończył 18 lat, a orzeczona kara pozbawienia wolności lub ograniczenia wolności nie przekracza 6 miesięcy, lub z okoliczności sprawy wynika, że należałoby takie kary orzec.
 
 **Art. 5.**
 

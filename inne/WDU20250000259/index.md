@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Agencji Badań Medycznych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 lutego 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 marca 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-03-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000259) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/259/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 lutego 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o Agencji Badań Medycznych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 21 lutego 2019 r. o Agencji Badań Medycznych (Dz. U. z 2023 r. poz. 2064), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 27 listopada 2024 r. o zmianie ustawy o Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (Dz. U. poz. 1897) oraz zmian wynikających z przepisów ogłoszonych przed dniem 19 lutego 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 41 ustawy z dnia 27 listopada 2024 r. o zmianie ustawy o Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (Dz. U.
 poz. 1897), który stanowi: „Art. 41. Ustawa wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem:
@@ -59,11 +59,31 @@ Art. 34–40. (pominięte)
 
 **Art. 2.** Działalność Agencji polega na:
 
+- **1)** dofinansowaniu badań naukowych i prac rozwojowych w dziedzinie nauk medycznych i nauk o zdrowiu oraz projektów interdyscyplinarnych wyłonionych w drodze konkursu, ze szczególnym uwzględnieniem badań klinicznych, obserwacyjnych i epidemiologicznych oraz eksperymentów badawczych;
+- **2)** wydawaniu opinii i ekspertyz w dziedzinie nauk medycznych i nauk o zdrowiu na rzecz organów administracji publicznej lub innych podmiotów w wyniku realizacji zawartych umów;
+- **3)** inicjowaniu i rozwijaniu współpracy międzynarodowej w dziedzinie nauk medycznych i nauk o zdrowiu na podstawie programów, o których mowa w art. 15 ust. 1 pkt 1;
+- **4)** inicjowaniu i realizacji własnych badań naukowych i prac rozwojowych;
+- **5)** wspieraniu działalności Naczelnej Komisji Bioetycznej, o której mowa w rozdziale 4 ustawy z dnia 9 marca 2023 r. o badaniach klinicznych produktów leczniczych stosowanych u ludzi (Dz. U. poz. 605);
+- **6)** inicjowaniu i rozwijaniu działań o charakterze edukacyjnym i szkoleniowym.
+
 **Art. 3.** Ilekroć w ustawie jest mowa o:
+
+- **1)** badaniu naukowym należy przez to rozumieć badanie naukowe w rozumieniu art. 4 ust. 2 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, 1871 i 1897) w dziedzinie nauk medycznych i nauk o zdrowiu lub badanie interdyscyplinarne łączące co najmniej dwie dziedziny nauki, z których jedna to dziedzina nauk medycznych i nauk o zdrowiu;
+- **2)** beneficjencie należy przez to rozumieć podmiot, który zawarł umowę z Agencją na realizację i dofinansowanie projektu;
+- **2a)** eksperymencie badawczym należy przez to rozumieć eksperyment badawczy w rozumieniu art. 21 ust. 3 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2024 r. poz. 1287 i 1897);
+- **3)** konkursie należy przez to rozumieć ogłoszony i przeprowadzany przez Agencję nabór wniosków na realizację i dofinansowanie projektu;
+- **4)** pracach rozwojowych należy przez to rozumieć prace rozwojowe w rozumieniu art. 4 ust. 3 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce;
+- **5)** programie należy przez to rozumieć instrument realizacji zadań Agencji wyznaczający strategiczne cele w zakresie rozwoju innowacji w obszarze ochrony zdrowia i działania niezbędne do ich osiągnięcia oraz definiujący w sposób mierzalny oczekiwane efekty;
+- **6)** projekcie należy przez to rozumieć przedsięwzięcie realizowane w ramach zadań Agencji, o których mowa w art. 15 ust. 2, o określonej wartości finansowej, prowadzone w ustalonych ramach czasowych na podstawie umowy albo badanie naukowe lub prace rozwojowe, o których mowa w art. 15 ust. 1 pkt 5 i 6;
+- **7)** projekcie interdyscyplinarnym należy przez to rozumieć projekt o celach medycznych, który łączy co najmniej dwie dziedziny nauki, z których jedna to dziedzina nauk medycznych i nauk o zdrowiu;
+- **8)** wniosku należy przez to rozumieć wniosek na realizację i dofinansowanie projektu złożony w konkursie.
 
 #### Rozdział 2 Organy i organizacja Agencji
 
 **Art. 4.** Organami Agencji są:
+
+- **1)** Prezes Agencji, zwany dalej „Prezesem”;
+- **2)** Rada Agencji, zwana dalej „Radą”.
 
 **Art. 5.**
 
@@ -490,6 +510,12 @@ Art. 34–40. (pominięte)
 
 **Art. 22.** Nadzór Agencji nad realizacją projektu obejmuje:
 
+- **1)** ocenę raportów okresowych z wykonania projektu;
+- **2)** kontrolę u beneficjenta lub podmiotu wykonującego projekt;
+- **3)** uprawnienie Prezesa, po zasięgnięciu opinii Rady, do wstrzymania finansowania projektu w przypadku wydatkowania przez wykonawcę środków finansowych niezgodnie z umową na realizację i dofinansowanie projektu lub nieosiągnięcia wyników zaplanowanych na danym etapie realizacji projektu lub badania naukowego lub prac rozwojowych do czasu wyjaśnienia nieprawidłowości;
+- **4)** uprawnienie Prezesa, po zasięgnięciu opinii Rady, do przerwania finansowania projektu w przypadku nieterminowego lub nienależytego wykonywania umowy na realizację i dofinansowanie projektu;
+- **5)** uprawnienie Prezesa, po zasięgnięciu opinii Rady, do zakończenia finansowania projektu lub badania naukowego i pracy rozwojowej i uznania wydatków poniesionych za rozliczone, na wniosek beneficjenta w sytuacji wysokiego ryzyka braku spodziewanych i zaplanowanych rezultatów.
+
 **Art. 23.** Agencja prowadzi systematyczną ewaluację finansowanych projektów i przeprowadzonych na ich podstawie badań naukowych oraz prac rozwojowych oraz innych zadań Agencji, w tym w zakresie korzyści finansowych dla budżetu państwa i systemu ochrony zdrowia z prowadzonych badań i analiz.
 
 **Art. 24.**
@@ -510,6 +536,10 @@ Art. 34–40. (pominięte)
 2. Podmioty, o których mowa w ust. 1, mogą udzielić dofinansowania Agencji na rzecz prowadzenia zainicjowanego przez nich badania naukowego na podstawie umowy zawartej z Agencją.
 
 **Art. 26.** Działalność Agencji dotycząca inicjowania i rozwijania współpracy międzynarodowej w dziedzinie nauk medycznych i nauk o zdrowiu jest realizowana w obszarach wskazanych w programie, o którym mowa w art. 15 ust. 1 pkt 1, i polega na:
+
+- **1)** inicjowaniu zawierania porozumień dotyczących współpracy międzynarodowej;
+- **2)** pomocy podmiotom, o których mowa w art. 7 ust. 1 pkt 1–6 i 8 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, w realizacji międzynarodowych projektów badawczych;
+- **3)** organizacji wydarzeń naukowych i propagowaniu działalności naukowej.
 
 #### Rozdział 4 Gospodarka finansowa Agencji
 
@@ -654,6 +684,9 @@ Art. 34–40. (pominięte)
 2. Minister właściwy do spraw zdrowia, w terminie do 30 dni od dnia upływu terminu określonego w ust. 1, powołuje członków Rady.
 
 **Art. 44.** Prezes, w terminie 30 dni od dnia wejścia w życie ustawy:
+
+- **1)** sporządzi i przedstawi ministrowi właściwemu do spraw zdrowia do zatwierdzenia roczny plan finansowy Agencji,
+- **2)** sporządzi roczny plan działalności Agencji obowiązujący do końca 2019 r.
 
 **Art. 45.**
 

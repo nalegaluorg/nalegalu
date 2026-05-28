@@ -8,10 +8,10 @@ pos: 457
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 kwietnia 2013 r.
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 27 marca 2013 r. w sprawie terminów składania oraz wzoru wniosku o wydanie zgody na wprowadzenie do obrotu mieszanki dla ochrony środowiska
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,29 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2013-03-27 |
 | Data wydania | 2013-04-15 |
+| Wejście w życie | 2013-04-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000457) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/457/text.pdf) |
 
-Poz. 457 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI dnia 27 marca 2013 r.
-w sprawie terminów składania oraz wzoru wniosku środowiska Na podstawie art. 106 ust. 7 ustawy dnia 9 listopada 2012 r. nasiennictwie (Dz. U. poz. 1512) zarządza się, co następuje: § 1. Wniosek środowiska składa się w terminie:
-1) dnia 15 sierpnia – w przypadku środowiska przeznaczonej siewu w sezonie jesiennym;
-2) dnia 15 stycznia – w przypadku środowiska przeznaczonej siewu w sezonie wiosennym.
-§ 2. Wzór wniosku środowiska jest określony w załączniku rozporządzenia.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: wz. T. Nalewajk WZÓR Minister Rolnictwa i Rozwoju Wsi WNIOSEK Na podstawie art. 106 ust. 2 ustawy dnia 9 listopada 2012 r. nasiennictwie (Dz. U. poz. 1512) zwracam się prośbą dnia .......................................... obszarze ................................................
-następującej środowiska: Mieszanka środowiska Określenie rodzaju zbierana bezpośrednio/uprawiana mieszanka środowiska Procentowy skład wagowy poszczególnych składników środowiska, podaniem gatunków Zdolność kiełkowania poszczególnych składników środowiska objętych przepisami ustawy dnia 9 listopada 2012 r. nasiennictwie – w przypadku uprawianych mieszanek środowiska Proponowana wprowadzenia ilość środowiska (w kg) Region pochodzenia środowiska Obszar źródłowy Miejsce zbioru, a w przypadku uprawianej środowiska – dodatkowo miejsca rozmnożenia Termin i sposób zbioru zbieranej bezpośrednio Rodzaj siedliska występującego w miejscu zbioru Rok zbioru środowiska
+Treść rozporządzenia
+Załącznik – Wniosek (wzór)
+Treść rozporządzenia
+– dyrektywy Rady 66/401/EWG z dnia 14 czerwca 1966 r. w sprawie obrotu materiałem siewnym roślin pastewnych (Dz. Urz. WE L 125 z 11.07.1966, str. 2298, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 1, str. 55, z późn. zm.).
+Na podstawie art. 106 ust. 7 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. poz. 1512) zarządza się, co następuje:
+§ 1.
+Wniosek o wydanie zgody na wprowadzenie do obrotu mieszanki dla ochrony środowiska składa się w terminie:
+1)
+do dnia 15 sierpnia – w przypadku mieszanki dla ochrony środowiska przeznaczonej do siewu w sezonie jesiennym;
+2)
+do dnia 15 stycznia – w przypadku mieszanki dla ochrony środowiska przeznaczonej do siewu w sezonie wiosennym.
+§ 2.
+Wzór wniosku o wydanie zgody na wprowadzenie do obrotu mieszanki dla ochrony środowiska jest określony w załączniku do rozporządzenia.
+§ 3.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+2)
+Przepisy niniejszego rozporządzenia wdrażają postanowienia:
+– dyrektywy Komisji 2010/60/UE z dnia 30 sierpnia 2010 r. przewidującej pewne odstępstwa dotyczące wprowadzania do obrotu mieszanek materiału siewnego roślin pastewnych przeznaczonych do wykorzystania w ramach ochrony środowiska naturalnego (Dz. Urz. UE L 228 z 31.08.2010, str. 10),
+– dyrektywy Rady 66/401/EWG z dnia 14 czerwca 1966 r. w sprawie obrotu materiałem siewnym roślin pastewnych (Dz. Urz. WE L 125 z 11.07.1966, str. 2298, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 1, str. 55, z późn. zm.).
+Załącznik – Wniosek (wzór)
+patrz oryginał
 

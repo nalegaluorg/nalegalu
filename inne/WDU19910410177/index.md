@@ -8,10 +8,10 @@ pos: 177
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Szkole Głównej Gospodarstwa Wiejskiego - Akademii Rolniczej w Warszawie nadaje się nazwę „Szkoła Główna Gospodarstwa Wiejskiego w Warszawie”.
+# Ustawa z dnia 5 kwietnia 1991 r. o zmianie nazw niektórych szkół wyższych
 
 | Pole | Wartość |
 |---|---|
@@ -22,8 +22,15 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1991-04-05 |
 | Data wydania | 1991-05-14 |
+| Wejście w życie | 1991-05-14 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910410177) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/177/text.pdf) |
 
-Szkole Głównej Planowania i Statystyki w Warszawie nadaje się nazwę „„Szkoła Główna Traci moc dekret z dnia 16 sierpnia 1949 r. o przekształceniu Szkoły Głównej Handlowej w Warszawie na Szkołę Główną Planowania i Statystyki w Warszawie (Dz.U. Nr 48, poz. 368).
+**Art. 1.** Szkole Głównej Gospodarstwa Wiejskiego – Akademii Rolniczej w Warszawie nadaje się nazwę „Szkoła Główna Gospodarstwa Wiejskiego w Warszawie”.
+
+**Art. 2.** Szkole Głównej Planowania i Statystyki w Warszawie nadaje się nazwę „Szkoła Główna Handlowa w Warszawie”.
+
+**Art. 3.** Traci moc dekret z dnia 16 sierpnia 1949 r. o przekształceniu Szkoły Głównej Handlowej w Warszawie na Szkołę Główną Planowania i Statystyki w Warszawie (Dz. U. Nr 48, poz. 368).
+
+**Art. 4.** Ustawa wchodzi w życie z dniem ogłoszenia.
 

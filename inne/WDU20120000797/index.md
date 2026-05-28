@@ -22,6 +22,7 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2012-07-04 |
 | Data wydania | 2012-07-11 |
+| Wejście w życie | 2012-07-12 |
 | Ostatnia zmiana | 2024-07-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000797) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/797/text.pdf) |
 

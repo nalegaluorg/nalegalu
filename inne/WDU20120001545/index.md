@@ -8,10 +8,10 @@ pos: 1545
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 grudnia 2012 r.
+# Rozporządzenie Ministra Zdrowiaz dnia 28 grudnia 2012 r. w sprawie sposobu ustalania minimalnych norm zatrudnienia pielęgniarek i położnych w podmiotach leczniczych niebędących przedsiębiorcami
 
 | Pole | Wartość |
 |---|---|
@@ -22,159 +22,195 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2012-12-28 |
 | Data wydania | 2012-12-31 |
+| Wejście w życie | 2013-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001545) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1545/text.pdf) |
 
-nr 1 Kr teria la kategorii opiek w przypadku oddziału o profilu zachowaw ym i zabiegowym lub innej jed ostki lub komórki organizacyjnej podmio u o tym profilu Uwaga: przy kwalifikowaniu pacjenta do danej kategorii opieki uwzględnia się następujący sposób kwalifikacji:
-1) kategoria opieki I kryteria kategorii opieki I lub nie więcej niż dwa kryteria z kategorii opieki II, lub nie więcej niż jedno kryterium z kategorii opieki III;
-2) kategoria opieki II co najmniej trzy kryteria kategorii opieki II lub nie więcej niż dwa kryteria z kategorii opieki III;
-3) kategoria opieki III co najmniej trzy kryteria kategorii opieki III.
-Lp. KRYTERIA Kategoria opieki I Kategoria opieki II Kategoria opieki III
-1. AKTYWNOŚĆ FIZYCZNA pacjent samodzielny porusza się przy pomocy laski, chodzika, wymaga niewielkiej pomocy przy wstawaniu z łóżka, zejściu z fotela, większą część czasu spędza w łóżku nie opuszcza łóżka, może sam lub przy pomocy pielęgniarki zmieniać pozycję, transport tylko na noszach, wózku, w oddziałach chirurgicznych opieka w pierwszej dobie po zabiegu operacyjnym
-2. HIGIENA we własnym zakresie większość czynności wymaga pomocy przy wykonuje wykonywaniu samodzielnie, niewielka wszystkich czynności pomoc przy higienicznych, zmianie wykonywaniu toalety, bielizny pościelowej wejściu do wanny, i osobistej, mycie w wymaga pomocy przy łóżku, pomoc w toalecie umyciu pleców, jamy ustnej lub włosów wykonanie toalety jamy ustnej, wzmożona pielęgnacja skóry w szczególności postępowanie przeciwodleżynowe
-3. ODŻYWIANIE samodzielnie niewielka pomoc, podanie tacy lub rozdrobnienie posiłku, nadzór nad ilością spożywanego posiłku wymaga karmienia, rozdrobnienia posiłku lub odżywiany jest i nawadniany pozajelitowo
-4. WYDALANIE samodzielnie wymaga pomocy przeważnie sygnalizuje w zaprowadzeniu do swoje potrzeby, korzysta toalety z basenu, kaczki, często ma założony cewnik, może występować biegunka, korzysta z pieluchomajtek
-5. POMIAR podstawowe podstawowe parametry podstawowe parametry PARAMETRÓW parametry mierzone mierzone częściej niż mierzone częściej niż ŻYCIOWYCH 2 x na dobę 2 x na dobę, 2 x na dobę, założenie wykonywanie innych i prowadzenie kart zabiegów np. obserwacji, prowadzony prowadzenie bilansu bilans płynów, płynów, oznaczenie pobieranie próbek krwi, masy ciała itp. moczu i innych wydzielin częściej niż 2 x na dobę
-6. LECZENIE doustne, sporadycznie doustne, domięśniowe, domięśniowe, dożylne, dożylne, podskórne dożylne, wlewy dożylne (np. premedykacja) w oddziałach i doodbytnicze, zmiana domięśniowo, zabiegowych opatrunku częściej niż podanie kropli do wykonywanie 2 x na dobę, odsysanie oczu, uszu, leczenie opatrunków wydzieliny skóry– maści, zasypki 2 x na dobę, z rany pooperacyjnej, stosowane w oddziałach kąpiele lecznicze, samodzielnie dermatologicznych pędzlowanie śluzówek, kąpiele, pędzlowanie stosowanie maści, śluzówek, zawijanie, zasypek częściej niż stosowanie maści 2 x na dobę zasypek 2 x na dobę
-7. EDUKACJA pełna wiedza ZDROWOTNA na temat zdrowia I WSPARCIE i choroby, wymaga PSYCHICZNE podstawowych informacji o oddziale (topografia, rozkład dnia w oddziale, uprawnienia pacjenta, nazwiska osób opiekujących się, planowane postępowanie pielęgnacyjne) nie wymaga wsparcia psychicznego słaba orientacja w sprawach zdrowia, wymaga informacji o zdrowiu i chorobie oraz wsparcia psychicznego, manifestuje pewien poziom lęku, nastrój nieco obniżony brak wiedzy o zdrowiu i chorobie, wymaga informacji oraz wsparcia psychicznego, często wysoki poziom lęku, zdezorientowany, nastrój depresyjny, rodzina pacjenta powinna być objęta programem edukacyjnym i wsparciem psychicznym Uwaga: przy kwalifikowaniu pacjenta do danej kategorii opieki uwzględnia się następujący sposób kwalifikacji:
-1) kategoria opieki I kryteria kategorii opieki I lub nie więcej niż dwa kryteria z kategorii opieki II, lub nie więcej niż jedno kryterium z kategorii opieki III;
-2) kategoria opieki II co najmniej trzy kryteria kategorii opieki II lub nie więcej niż dwa kryteria z kategorii opieki III;
-3) kategoria opieki III co najmniej trzy kryteria kategorii opieki III.
-Lp. KRYTERIA Kategoria Kategoria opieki II Kategoria opieki III opieki I
-1. AKTYWNOŚĆ pacjent porusza się przy FIZYCZNA samodzielny pomocy laski, chodzika, wymaga pomocy przy wstaniu z łóżka, z fotela, większą część czasu spędza w łóżku nie opuszcza łóżka, pozycję zmienia sam lub przy pomocy pielęgniarki, transport na wózku lub noszach
-2. HIGIENA we własnym większość czynności wymaga pomocy przy zakresie wykonuje wykonywaniu samodzielnie, wszystkich czynności niewielka pomoc przy higienicznych, zmianie wykonywaniu toalety, bielizny pościelowej wejściu do wanny, i osobistej, mycie pod prysznic, wymaga w łóżku, pomoc pomocy przy umyciu w toalecie jamy ustnej, pleców, włosów wzmożona pielęgnacja skóry w szczególności postępowanie przeciwodleżynowe
-3. ODŻYWIANIE samodzielnie niewielka pomoc, wymaga karmienia, podanie tacy lub rozdrobnienia posiłku rozdrobnienie posiłku, lub odżywiany jest nadzór nad ilością i nawadniany spożywanego posiłku pozajelitowo
-4. WYDALANIE samodzielnie wymaga pomocy w zaprowadzeniu do toalety przeważnie sygnalizuje swoje potrzeby, korzysta z basenu, kaczki, często ma założony cewnik, może występować biegunka, korzysta z pieluchomajtek
-5. POMIAR podstawowe PARAMETRÓW parametry ŻYCIOWYCH mierzone 2 x na dobę podstawowe parametry mierzone częściej niż 2 x dobę, wykonywanie innych kontrola stanu fizycznego osoby unieruchomionej lub zabiegów np. prowadzenie bilansu płynów, kontrola masy ciała itp.
-izolowanej nie rzadziej niż co 15 minut oraz dokumentowanie ww.
-obserwacji w kartach zastosowania unieruchomienia i izolacji
-6. LECZENIE doustne, doustne, domięśniowe, domięśniowe, dożylne, sporadycznie ewentualnie dożylne, podskórne, wlewy dożylne, okresowo odmawia dożylne i doodbytnicze, domięśniowe, przyjmowania leków, oponuje przeciwko pod inną niewielkie nasilenie leczeniu, wymaga postacią niż objawów ubocznych interwencji osób doustne, leki, polekowych trzecich przy przyjmuje bez podawaniu leków lub oporów przy wykonywaniu zabiegów, występują ciężkie objawy uboczne, polekowe np. złośliwy zespół neuroleptyczny
-7. EDUKACJA pełna wiedza ZDROWOTNA na temat zdrowia I WSPARCIE i choroby, PSYCHICZNE wymaga podstawowych informacji o oddziale (topografia, rozkład dnia w oddziale, uprawnienia pacjenta, nazwiska osób opiekujących się, planowane postępowanie pielęgnacyjne) słaba orientacja w sprawach zdrowia, wymaga informacji o zdrowiu i chorobie oraz wsparcia psychicznego, manifestuje pewien poziom lęku, wymaga oddziaływań psychoedukacyjnych brak wiedzy o zdrowiu i chorobie, wymaga informacji oraz wsparcia psychicznego, często wysoki poziom lęku, zdezorientowany, nastrój depresyjny;
-pacjent i jego rodzina wymagają wsparcia i podjęcia działań psychoedukacyjnych
-8. ZACHOWANIA spokojny, bez agresja słowna agresja słowna AGRESYWNE słownych w stosunku do i czynna w stosunku i czynnych pacjentów i personelu do pacjentów i zachowań personelu, niszczenie agresywnych sprzętów w oddziale, autoagresja, nadmierne pobudzenie seksualne
-9. DEZORGANIZACJA brak niewielka nasilona dezorganizacja ZACHOWANIA dezorganizacja zachowania zachowania bez wpływu na podstawowe czynności życiowe
-10. NAPĘD prawidłowy okresowo niepokój PSYCHORUCHOWY ruchowy, głośno mówi, śpiewa, nastrój labilny, dysforia, euforia lub porusza się powoli, zastyga, halucynuje wzrokowo i słuchowo, powolny, siedzi bezczynnie lub staje nieruchomo, nadmiernie aktywny, pobudzony psychoruchowo, dysforyczny, stale przemieszcza się w oddziale, domaga się wyjścia poza oddział, głośno mówi, krzyczy, płacze, szarpie się (pacjent odpowiada cicho, szeptem lub wcale, nastrój obojętny, sztywna mimika twarzy unieruchomiony), zaczepia innych, niszczy ubranie, okalecza się, rzuca przedmiotami, całkowity bezruch (stupor)
-11. DEPRESJA bezsenność lub obniżenie nastroju aktywność fizyczna nadmierna i napędu i psychiczna obniżona, senność, lęk psychoruchowego, uboga mimika twarzy, zaburzenia snu, zaniedbany wygląd, lęk okresowy lub nie reaguje na próby przewlekły, nawiązania kontaktu, dysregulacja rytmów nie odpowiada biologicznych, na pytania, odmawia układu przyjmowania posiłków autonomicznego i płynów (zaburzenia snu, lęk, zaparcia, bóle głowy), wewnętrzny niepokój, drażliwość
-12. MYŚLI brak wypowiada myśli po próbie samobójczej, SAMOBÓJCZE samobójcze, ale nie ma wypowiada myśli tendencji do ich samobójcze, realizacji ma tendencje do ich realizacji, w wywiadzie próby samobójcze, wymaga stałej obserwacji pielęgniarskiej
-13. OBJAWY brak lub umiarkowane nasilenie ciężkie, masywne PSYCHOTYCZNE niewielkie bez aktywności objawy wytwórcze psychotycznej z nasiloną aktywnością psychotyczną
-14. ŚWIADOMOŚĆ świadomość senny, na zadawane dezorientacja, prawidłowa pytania odpowiada przymglenie, z opóźnieniem, majaczenie, splątanie zdezorientowany w czasie
-15. UDZIAŁ chętnie okresowo uczestniczy nie uczestniczy w życiu W TERAPII uczestniczy w zajęciach społeczności i terapii w zajęciach terapeutycznych, zajęciowej terapeutycznych nie kończy podjętych zadań
-16. EDUKACJA pełna wiedza ZDROWOTNA na temat zdrowia I WSPARCIE i choroby, PSYCHICZNE wymaga podstawowych informacji o oddziale (topografia, rozkład dnia w oddziale, uprawnienia pacjenta, nazwiska osób opiekujących się, planowane postępowanie pielęgnacyjne) nie wymaga wsparcia psychicznego słaba orientacja w sprawach zdrowia, wymaga informacji o zdrowiu i chorobie oraz wsparcia psychicznego, manifestuje pewien poziom lęku, nastrój nieco obniżony brak wiedzy o zdrowiu i chorobie, wymaga informacji oraz wsparcia psychicznego, często wysoki poziom lęku, zdezorientowany, nastrój depresyjny, rodzina pacjenta powinna być objęta programem edukacyjnym i wsparciem psychicznym Uwaga: przy kwalifikowaniu pacjenta do danej kategorii opieki uwzględnia się następujący sposób kwalifikacji:
-1) kategoria opieki I kryteria kategorii opieki I lub nie więcej niż dwa kryteria z kategorii opieki II, lub nie więcej niż jedno kryterium z kategorii opieki III;
-2) kategoria opieki II co najmniej trzy kryteria kategorii opieki II lub nie więcej niż dwa kryteria z kategorii opieki III;
-3) kategoria opieki III co najmniej trzy kryteria kategorii opieki III.
-Lp. KRYTERIA Kategoria opieki I Kategoria opieki II Kategoria opieki III
-1. I OKRES PORODU
-1. Ciąża >37 Hbd;
-płód pojedynczy, żywy, położenie podłużnegłówkowe
-1. Ciąża >32 <37 Hbd i powyżej 40 Hbd;
-ciąża bliźniacza lub pojedyncza położenie nieprawidłowe
-1. Ciąża <32 Hbd, ciąża mnoga, położenie płodu nieprawidłowe lub ciąża martwa
-2. Przebieg ciąży 2.
-prawidłowy bez dolegliwości ze strony innych układów Wywiad położniczy 2.
-obciążony, w tej lub poprzednich ciążach Wywiad położniczy obciążony lub choroby innych układów
-3. Pozycja 3.
-dowolna, rodząca chodzi Pozycja częściowo 3.
-ograniczona Rodząca leżąca
-4. Pełna 4.
-samodzielność w zakresie czynności higienicznych Wymaga pomocy 4.
-w toalecie ciała, szczególnie higiena krocza Wymaga stałej pomocy w utrzymaniu higieny ciała
-5. Dieta 5.
-lekkostrawna, płyny wg potrzeb Dieta płynna 5.
-z ograniczeniami Dieta ścisła
-6. Rutynowy pomiar parametrów życiowych
-6. Pomiar parametrów życiowych co 2 godziny
-6. Pomiar parametrów życiowych co 15 minut (karta obserwacji)
-7. Rutynowa kontrola akcji serca płodu (monitorowanie dłuższe przy przyjęciu rodzącej do
-7. Okresowe 7.
-monitorowanie ASP (dodatkowo) oddziału) Stałe monitorowanie ASP
-8. Postęp porodu 8. Zaburzenia w 8. Zaburzenia prawidłowy, do 8 postępie porodu lub czynności godzin planowane ciecie skurczowej cesarskie macicy, brak postępu porodu lub nagle cięcie cesarskie
-9. Potrzeby 9.
-wydalania zaspokaja sama Wymaga podania 9.
-basenu Cewnikowanie lub cewnik na stałe
-10. Zachowany 10.
-pęcherz płodowy, pęknięcie o czasie Pęknięty pęcherz 10.
-płodowy, odpływa prawidłowy płyn owodniowy Odpływa płyn owodniowy o nieprawidłowym zabarwieniu i woni lub w dużej ilość
-11. Rodząca stosuje 11.
-ćwiczenia oddechowe, relaksujące, korzysta z udogodnień Rodząca wymaga 11.
-instruktażu odnośnie ćwiczeń oddechowych i relaksujących Rodząca wymaga stałej pomocy w stosowaniu ćwiczeń oddechowych i relaksujących
-12. Otrzymuje leki 12.
-doustne, doodbytnicze, domięśniowe Otrzymuje leki doustne, doodbytnicze, domięśniowe, dożylne
-12. Otrzymuje leki parenteralnie, infuzja (dożylnie)
-13. Pozytywne 13. Mierna orientacja co 13. Negatywny nastawienie do stosunek do rodzącej do przebiegu porodu, porodu i osób porodu, dobra utrudniony kontakt towarzyszących, orientacja co z położną, rodząca brak orientacji do przebiegu nieopanowana, w przebiegu porodu, dobry niespokojna, porodu, wymaga kontakt z wymaga okresowego stałej obecności położną, wsparcia osoby położnej rodząca jest towarzyszącej spokojna i opanowana
-2. II OKRES 1. Czas przebiegu do 1. Przedłużający się 1. Poród zabiegowy, PORODU 2 godzin ponad 2 godziny nagłe cięcie cesarskie
-2. Podczas parcia 2. Podczas parcia 2. Podczas parcia pozycja dowolna pozycja ograniczona pozycja wymuszona
-3. Wymaga 3. Wymaga 3. Wymaga zapewnienia zapewnienia zapewnienia czystości krocza czystości krocza czystości krocza i okolic przylegających
-4. Ochrona krocza 4. Znieczulenie, 4. Pęknięcie krocza, nacięcie krocza rozlegle nacięcie
-5. Rodząca aktywnie 5. Rodząca wymaga 5. Rodząca wymaga uczestniczy nauki, pomocy przy aktywnej pomocy, w porodzie parciu biernie uczestniczy w porodzie
-6. Zastosowanie mają 6. Zastosowanie mają 6. Zastosowanie mają pkt 4–7,9, 12 i 13 pkt 4–7, 9, 12 i 13 pkt 4–7, 9, 12 i 13 dotyczące I okresu dotyczące dotyczące I okresu porodu I okresu porodu porodu
-3. III OKRES PORODU
-1. Noworodek w skali Apgar 7–10 pkt
-1. Noworodek w skali 1.
-Apgar 4–6 pkt Noworodek w skali Apgar 0–3 pkt
-2. Waga noworodka 2.
-2500-4000 g Waga noworodka 2.
-poniżej 2500 g lub powyżej 4000 g Waga noworodka poniżej 1500 g, wady u noworodka, martwo urodzony lub umierający po porodzie
-3. Bardzo dobry 3. Kontakt matki z 3. Brak kontaktu lub kontakt matki noworodkiem niechęć matki do z noworodkiem zaburzony, noworodka matka obojętna
-4.Bierne i czynne 4. Czynne prowadzenie 4. Patologia III okresu prowadzenie III III okresu porodu; porodu, zabiegi okresu porodu, popłód wątpliwości w ocenie manualne lub kompletny popłodu instrumentalne
-5. Krwawienie z dróg 5. Krwawienie z dróg 5. Krwotok z dróg rodnych do 200 ml rodnych powyżej 200 ml rodnych
-6. Kanał rodny bez 6. Otarcia, pęknięcia 6. Pęknięcie krocza obrażeń kanału rodnego, II lub III stopnia nacięcie krocza
-7. Zastosowanie mają pkt 4–6, 9, 12 i 13 dotyczące I okresu porodu
-7. Zastosowanie mają pkt 4–6, 9, 12 i 13 dotyczące I okresu porodu
-7. Zastosowanie mają pkt 4–6, 9, 12 i 13 dotyczące I okresu porodu
-4. IV OKRES 1. Skrócony czas 1. Dwugodzinna 1. Obserwacja PORODU przebywania na obserwacja powyżej 2 godzin sali porodowej
-2. Rutynowy pomiar 2. Pomiar parametrów 2. Opieka po parametrów życiowych co 15 znieczuleniu życiowych, min., kontrola ogólnym, dokładna wysokości wysokości dna obserwacja i dna macicy, macicy i krwawienia pomiar parametrów krwawienia z dróg z dróg rodnych życiowych, rodnych (krwawienie wysokości dna zwiększone) macicy i krwawienia z dróg rodnych
-3. Matka karmi 3. Matka wymaga 3. Matka nie karmi dziecko piersią pomocy dziecka piersią, w przystawieniu zły kontakt dziecka do piersi z dzieckiem lub brak
-4. Dobra orientacja 4. Matka wymaga 4. Brak orientacji matki w sprawach pomocy w matki w sprawach zdrowia, spożyciu posiłku, zdrowotnych, samopielęgnacji wymaga informacji wymaga wsparcia w połogu, opieki o samopielęgnacji psychicznego nad dzieckiem, w połogu, pielęgnacji ze strony położnej dobry kontakt noworodka, wymaga z otoczeniem wsparcia osób bliskich Uwaga: przy kwalifikowaniu pacjenta do danej kategorii opieki uwzględnia się następujący sposób kwalifikacji:
-1) kategoria opieki I kryteria kategorii opieki I lub nie więcej niż dwa kryteria z kategorii opieki II, lub nie więcej niż jedno kryterium z kategorii opieki III;
-2) kategoria opieki II co najmniej trzy kryteria kategorii opieki II lub nie więcej niż dwa kryteria z kategorii opieki III;
-3) kategoria opieki III co najmniej trzy kryteria kategorii opieki III.
-Lp. KRYTERIA Kategoria opieki I Kategoria opieki II Kategoria opieki III
-1. AKTYWNOŚĆ ciąża pojedyncza, FIZYCZNA poród fizjologiczny bez nacięcia krocza lub z niewielkim pęknięciem I°, ciąża przebiegała bez powikłań, ukończona w terminie porodu, położnica chodząca ciąża mnoga bliźnięta, poród z nacięciem i rozległym uszkodzeniem krocza, zabiegowy; ciąża o podwyższonym ryzyku, zakończona przed lub po upływie terminu porodu;
-przebieg porodu był częściowo zaburzony, nacięcie lub pęknięcie krocza II°, położnica większą część czasu spędza w łóżku ciąża mnoga troje lub więcej dzieci, ukończona cięciem cesarskim, interwencja w jamie macicy, w związku z krwotokiem poporodowym, uszkodzenie spojenia łonowego;
-ciąża wysokiego ryzyka, pęknięcie krocza III°, położnica leżąca, nie opuszcza łóżka, może sama zmieniać pozycję
-2. HIGIENA położnica wykonuje wymaga wykonania wymaga toalety całego samodzielnie toalety krocza lub ciała, pielęgnacją czynności wykonuje noworodka zajmuje się higieniczne, kąpiel samodzielnie, położna i toaletę noworodka lecz wymaga pomocy wykonuje przy położnej podczas pomocy położnej kąpieli pod natryskiem;
-u noworodka wykonuje tylko niektóre czynności higienicznopielęgnacyjne, wymaga pomocy i nadzoru ze strony położnej
-3. ODŻYWIANIE położnica wymaga położnica wymaga położnica ma dietę diety dla matki diety dla matki półpłynną lub wymaga karmiącej, karmiącej lub pomocy przy samodzielnie połączonej ze specjalną spożywaniu np.
-spożywa posiłki dietą w związku podanie pokarmu, z chorobami pojniczka lub współistniejącymi, odżywiana jest wymaga pomocy parenteralnie w spożywaniu posiłków (pokrojenie, rozdrobnienie)
-4. WYDALANIE położnica sama zaspokaja położnica ma trudności z oddawaniem moczu, położnica ma trudności z oddawaniem moczu czynność pęcherza istnieją trudności cewnikowania lub moczowego i jelit z oddawaniem stolca ma założony cewnik, prawidłowa (zaparcia) prowadzona jest karta kontroli przyjmowanych i wydalanych płynów, istnieją trudności z oddawaniem stolca
-5. POMIAR podstawowe parame- podstawowe parametry prowadzona jest karta PARAMETRÓW try (temperatura, (temperatura, tętno), ścisłej obserwacji ŻYCIOWYCH tętno), wysokość dna wysokość dna macicy, macicy, kontrola kontrola krwawienia, krwawienia, odchodów, stan krocza odchodów, stan pomiar i obserwacja krocza pomiar i częściej niż 2 x na dobę obserwacja 2 x na oraz dodatkowo pomiar dobę ciśnienia tętniczego krwi
-6. LECZENIE nie wymaga otrzymuje leki podawania leków doustnie, domięśniowo, podskórnie, doodbytniczo otrzymuje leki dożylnie, ma podłączoną kroplówkę, może być przetaczana krew
-7. EDUKACJA położnica zna zasady położnica ma słabą położnica nie zna ZDROWOTNA pielęgnacji orientację na temat zasad pielęgnacji I WSPARCIE noworodka, pielęgnacji noworodka, noworodka, nie PSYCHICZNE karmienia piersią karmienia piersią i jest przekonana do i zdrowego stylu zdrowego stylu życia w karmienia piersią i nie życia w okresie okresie połogu, zna techniki karmienia połogu, nie wymaga wymaga wsparcia oraz zasad zdrowego wsparcia położnej i osób stylu życia w okresie psychicznego, ma bliskich, nie jest połogu, wymaga dobry kontakt z przekonana do edukacji w tym dzieckiem, chętnie karmienia piersi zakresie, brak kontaktu karmi piersią z dzieckiem, wymaga profesjonalnego wsparcia psychicznego (dziecko urodzone w stanie ciężkim, z wadą lub zmarło) Uwaga: przy kwalifikowaniu noworodka do danej kategorii opieki uwzględnia się następujący sposób kwalifikacji:
-1) kategoria opieki I kryteria kategorii opieki I lub nie więcej niż dwa kryteria z kategorii opieki II;
-2) kategoria opieki II co najmniej trzy kryteria kategorii opieki II.
-Lp. KRYTERIA Kategoria opieki I Kategoria opieki II
-1. MASA 2501 4000 g 2000 2500 g lub > 4000 g URODZENIOWA
-2. SKALA APGAR 8 10 pkt 5 7 pkt
-3. URAZY POPORODOWE nie ma krwiak zewnątrzczaszkowy, wybroczyny na skórze, złamanie obojczyka, porażenie splotu barkowego
-4. WADY nie ma wady układu kostno stawowego, WRODZONE wady twarzoczaszki, układu nerwowego, wady serca, inne wady wrodzone na etapie diagnozy nie wymagające natychmiastowej interwencji chirurgicznej
-5. HIGIENA codzienna kąpiel noworodka, toaleta krótkotrwała, pojedyncze I PIELĘGNACJA pielęgnacja kikuta ogniska zmian na skórze i błonach pępowinowego wykonywana śluzowych, pomoc położnej podczas przez położne, matka wykonuje przewijania i toalety noworodka oraz samodzielnie toaletę noworodka przy pielęgnacji kikuta pępowinowego podczas przewijania, skóra i śluzówki bez zmian patologicznych
-6. ODDYCHANIE oddycha prawidłowo zaburzenia oddychania np.: oddech przyśpieszony, postękiwanie, tymczasowa tlenoterapia i odśluzowywanie dróg oddechowych
-7. ODŻYWIANIE karmienie piersią na żądanie, pomoc położnej przy dostawianiu matka samodzielnie, prawidłowo noworodka do piersi, karmienie przystawia noworodka do piersi pokarmem matki przy pomocy kieliszka lub łyżeczki, wymaga dokarmiania i dopajania
-8. WYDALANIE prawidłowo wydalony stolec, problemy z zaspokojeniem potrzeb mocz i gazy fizjologicznych, wymaga pomocy położnej poprzez odpowiednie ułożenie bądź jednorazowe zastosowanie rurki doodbytniczej
-9. ŻÓŁTACZKA fizjologiczna wymaga fototerapii NOWORODKÓW hiperbilirubinemia
-10. OBSERWACJE I POMIAR PARAMETRÓW ŻYCIOWYCH obserwacja i pomiary podstawowych parametrów życiowych dokonywane są 2 x na dobę obserwacja i pomiary podstawowych parametrów życiowych dokonywane są 3 x na dobę lub więcej w ciągu dnia
-11. BADANIA testy przesiewowe testy przesiewowe na fenyloketonurię DIAGNOSTYCZE na fenyloketonurię i hipotyreozę i hipotyreozę, dodatkowo poziom bilirubiny, glikemia, morfologia krwi, gazometria, elektrolity, posiewy, wymazy, analiza moczu
-12. LECZENIE szczepienia leki doustne, iniekcje domięśniowe, PROFILAKTYKA wlewy kroplowe dożylne, krople, maści, kąpiele lecznicze Uwaga: przy kwalifikowaniu pacjenta do danej kategorii opieki uwzględnia się następujący sposób kwalifikacji:
-1) kategoria opieki I kryteria kategorii opieki I lub nie więcej niż dwa kryteria z kategorii opieki II, lub nie więcej niż jedno kryterium z kategorii opieki III;
-2) kategoria opieki II co najmniej trzy kryteria kategorii opieki II lub nie więcej niż dwa kryteria z kategorii opieki III;
-3) kategoria opieki III co najmniej trzy kryteria kategorii opieki III.
-Lp. KRYTERIA Kategoria opieki I Kategoria opieki II Kategoria opieki III
-1. AKTYWNOŚĆ pacjent samodzielne lub pacjent wymaga pomocy FIZYCZNA przebywające na stałe z przy wstawaniu, rodzicami większą część czasu spędza w łóżku pacjent unieruchomione, w oddziale zabiegowym I doba po zabiegu
-2. HIGIENA we własnym zakresie niewielka pomoc przy nie sygnalizuje lub przez rodziców wykonaniu toalety potrzeb wymaga przebywających na stałe pełnego wsparcia z pacjentem przy wykonaniu toalety, wzmożona pielęgnacja skóry w szczególności postępowanie przeciwodleżynowe lub założony cewnik
-3. KARMIENIE samodzielnie lub niewielka pomoc, wymaga karmienia I ODŻYWIANIE pacjent karmiony rozdrobnienie posiłku, piersią lub schłodzenie płynów do przebywający na stałe z picia rodzicami
-4. WYDALANIE samodzielnie wymaga pomocy przeważnie w zaprowadzeniu do sygnalizuje swoje toalety potrzeby, korzysta z basenu, kaczki, często ma założony cewnik, może występować biegunka, korzysta z pieluchomajtek
-5. POMIAR podstawowe parametry podstawowe parametry podstawowe PARAMETRÓW 2 x na dobę częściej niż 2x na dobę parametry częściej ŻYCIOWYCH lub podstawowe 2x niż 2x na dobę, na dobę i pobieranie pobieranie prób krwi, prób do badań moczu i innych wydzielin częściej niż 2x na dobę, stałe monitorowanie parametrów życiowych
-6. LECZENIE doustne, nawadnianie leczenie dożylne, podawanie tlenu, dożylne, podskórne (np. opatrunki 2x na dobę, wlewy dożylne i premedykacja), podanie inhalacje (zabiegi doodbytniczo, kropli, maści do oczu, zajmujące 60–90 minut) opatrunki częściej uszu, leczenie skóry, niż 2x na dobę, błon śluzowych, maści, (zabiegi zajmujące zasypki itp. więcej niż 90 minut)
-7. EDUKACJA pełna wiedza na temat słaba orientacja brak wiedzy o ZDROWOTNA choroby, wymaga o chorobie, wymaga chorobie wymaga ORAZ podstawowych wsparcia, manifestuje pełnej edukacji WSPARCIE informacji lęk i przygotowania do DZIECKA I uzupełniających samopielęgnacji, RODZICÓW dotyczących stanu manifestuje lęk zdrowia, planu opieki praw pacjenta, organizacji oddziału Uwaga: przy kwalifikowaniu pacjenta do danej kategorii opieki uwzględnia się następujący sposób kwalifikacji:
-1) kategoria opieki I kryteria kategorii opieki I lub nie więcej niż dwa kryteria z kategorii opieki II;
-2) kategoria opieki II co najmniej trzy kryteria kategorii opieki II.
-Lp. KRYTERIA Kategoria opieki I Kategoria opieki II
-1. AKTYWNOŚĆ pacjent unieruchomiony w czasie pacjent wymaga niewielkiej FIZYCZNA dializy, nie wymaga pomocy pomocy przy zaścieleniu fotela, w zmianie pozycji i wygodnym przy wstawaniu i ułożeniu się na ułożeniu, po dializie pacjent fotelu, wejściu na wagę przy samodzielny pionizacji
-2. HIGIENA pacjent samodzielny po dializie, w trakcie trwania zabiegu nie ma potrzeby wykonywania czynności higienicznych pacjent samodzielny w zakresie toalety twarzy, jamy ustnej, rąk, nie wymaga wykonywania innych czynności higienicznych
-3. ODŻYWIANIE pacjent samodzielny pacjent wymaga niewielkiej pomocy, podania tacy z posiłkiem, kubka lub talerza, rozdrobnienia pokarmu
-4. WYDALANIE pacjent nie zgłasza potrzeb pacjent wymaga podania basenu lub kaczki
-5. POMIAR w czasie trwania dializy: w czasie trwania dializy: PARAMETRÓW dwukrotny pomiar ciśnienia co najmniej trzykrotny pomiar ŻYCIOWYCH tętniczego krwi, tętna, temperatury ciśnienia tętniczego krwi, tętna, ciała oraz oznaczenie masy ciała temperatury ciała, oraz oznaczenie masy ciała, co najmniej jednokrotne pobranie próbek krwi
-6. LECZENIE leczenie przez przetokę tętniczożylną do 4,5 godz., stosowanie zasypek leczniczych na skórę, wlewy kroplowe przez przetokę, wykonanie opatrunku na przetoce, wykonanie iniekcji podskórnych leczenie przez „świeżą” przetokę tętniczo-żylną, wkłucie centralne, leczenie doustne, wykonanie więcej niż jednego opatrunku w czasie trwania dializy, częste stosowanie zasypek leczniczych, zmniejszenie objawów ubocznych dializy, stosowanie kompresów i przymoczek
-7. EDUKACJA pełna wiedza na temat choroby wymaga informacji o chorobie ZDROWOTNA I i leczenia, dobra orientacja i leczeniu, diecie, sposobach OPIEKA w sprawach zdrowia, nie wymaga zachowania lub poprawy zdrowia, PSYCHOSPOŁE- wsparcia psychicznego, wymaga planach postępowania CZNA informacji o planach postępowania pielęgniarskiego oraz wsparcia pielęgniarskiego psychicznego, pacjenci przebywający po raz pierwszy na oddziale, zapoznawani z topografią oddziału, planem leczenia
+Treść rozporządzenia
+
+## Załącznik nr 1 — – Kryteria dla kategorii opieki w przypadku oddziału o profilu zachowawczym i zabiegowym lub innej jednostki lub komórki organizacyjnej podmiotu o tym profilu
+
+## Załącznik nr 2 — – Kryteria dla kategorii opieki w przypadku oddziału o profilu psychiatrycznym lub innej jednostki lub komórki organizacyjnej podmiotu o tym profilu
+
+## Załącznik nr 3 — – Kryteria dla kategorii opieki w przypadku zespołu porodowego lub innej jednostki lub komórki organizacyjnej podmiotu o tym profilu, w stosunku do rodzących siłami natury albo w przypadku oddziału lub zespołu porodowego o profilu ciąży powikłanej lub innej jednostki lub komórki organizacyjnej podmiotu o tym profilu, w stosunku do pacjentek zakwaifikowanych do cięcia cesarskiego
+
+## Załącznik nr 4 — – Kryteria dla kategorii opieki w przypadku oddziału o profilu położniczo-ginekologicznym w systemie „matka z dzieckiem” lub innej jednostki lub komórki organizacyjnej podmiotu o tym profilu – w odniesieniu do położnicy
+
+## Załącznik nr 5 — – Kryteria dla kategorii opieki w przypadku oddziału o profilu położniczo-ginekologicznym w systemie „matka z dzieckiem” lub innej jednostki lub komórki organizacyjnej podmiotu o tym profilu – w odniesieniu do noworodka
+
+## Załącznik nr 6 — – Kryteria dla kategorii opieki w przypadku oddziału o profilu pediatrycznym lub innej jednostki lub komórki organizacyjnej podmiotu o tym profilu
+
+## Załącznik nr 7 — – Kryteria dla kategorii opieki w przypadku oddziału o profilu dializoterapii lub innej jednostki lub komórki organizacyjnej podmiotu o tym profilu
+
+Treść rozporządzenia
+Na podstawie art. 50 ust. 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. Nr 112, poz. 654, z późn. zm.) zarządza się, co następuje:
+§ 1.
+1.
+Przy ustalaniu minimalnych norm zatrudnienia pielęgniarek i położnych, zwanych dalej „minimalnymi normami”, w podmiocie leczniczym niebędącym przedsiębiorcą, zwanym dalej „podmiotem”, wykonującym działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne, uwzględnia się:
+1)
+zakres i rodzaj udzielanych świadczeń zdrowotnych, w tym świadczeń profilaktycznych;
+2)
+liczbę pacjentów obejmowanych opieką w danym roku;
+3)
+wyposażenie, w szczególności w sprzęt i aparaturę medyczną, techniczną oraz środki transportu i łączności;
+4)
+harmonogram czasu pracy;
+5)
+średni dobowy czas świadczeń pielęgniarskich i średni czas dyspozycyjny, o których mowa w § 2;
+6)
+właściwą kategorię opieki ustaloną dla pacjenta;
+7)
+liczbę pacjentów zakwalifikowanych do danej kategorii opieki;
+8)
+stan zatrudnienia i organizacji pracy w jednostkach lub komórkach organizacyjnych nieudzielających świadczeń zdrowotnych.
+2.
+Do ustalania minimalnej normy nie wlicza się zatrudnionej w podmiocie kadry kierowniczej pielęgniarskiej lub położniczej, z wyłączeniem pielęgniarek lub położnych oddziałowych i ich zastępców oraz pielęgniarek lub położnych koordynujących pracę innych pielęgniarek i położnych i ich zastępców.
+§ 2.
+1.
+Średni dobowy czas świadczeń pielęgniarskich bezpośrednich, średni dobowy czas świadczeń pielęgniarskich całkowity oraz średni czas dyspozycyjny pielęgniarki lub położnej w ciągu roku oblicza się według wzorów:
+1)
+Tśpb = (NI x TśpbI) + (NII x TśpbII) + (NIII x TśpbIII),
+2)
+Tśpc = Tśpb + Tśpp
+gdzie poszczególne symbole oznaczają: Tśpb – średni dobowy czas świadczeń pielęgniarskich bezpośrednich, N – średnią liczbę pacjentów za poprzedni rok kalendarzowy poprzedzający ustalenie minimalnej normy (NI – kategoria opieki I, NII – kategoria opieki II, NIII – kategoria opieki III), Tśpc – średni dobowy czas świadczeń pielęgniarskich całkowity, TśpbI – średni dobowy czas świadczeń pielęgniarskich bezpośrednich dla kategorii opieki I, TśpbII – średni dobowy czas świadczeń pielęgniarskich bezpośrednich dla kategorii opieki II, TśpbIII – średni dobowy czas świadczeń pielęgniarskich bezpośrednich dla kategorii opieki III, Tśpp – średni dobowy czas wykonania świadczeń pielęgniarskich pośrednich, który może wynosić od 10% do 25% średniego dobowego czasu świadczeń pielęgniarskich bezpośrednich; czas ten określa się, biorąc pod uwagę organizację pracy w podmiocie;
+3)
+Td = Tścp – (Tścuw + Tścod + Tśckp + Tśczl)
+gdzie poszczególne symbole oznaczają: Td – średni czas dyspozycyjny pielęgniarki lub położnej w ciągu roku, Tścp – średni czas pracy w dniach, Tścuw – średni czas urlopu wypoczynkowego w dniach, Tścod – średni czas ustawowo przysługujący na opiekę nad dzieckiem w dniach, Tśckp – średni czas przeznaczony na realizację kształcenia podyplomowego w dniach, Tśczl – średni czas nieobecności w pracy usprawiedliwiony zaświadczeniem lekarskim w dniach.
+2.
+Średnią liczbę pacjentów oraz średni dobowy czas świadczeń pielęgniarskich bezpośrednich dla danej kategorii opieki, o których mowa w ust. 1 pkt 1, kierownik podmiotu ustala, uwzględniając kategorię opieki, do której pacjent został zakwalifikowany zgodnie z kryteriami określonymi w załączniku:
+1)
+nr 1 do rozporządzenia – w przypadku oddziału o profilu zachowawczym i zabiegowym lub innej jednostki lub komórki organizacyjnej podmiotu o tym profilu;
+2)
+nr 2 do rozporządzenia – w przypadku oddziału o profilu psychiatrycznym lub innej jednostki lub komórki organizacyjnej podmiotu o tym profilu;
+3)
+nr 3 do rozporządzenia – w przypadku:
+a)
+zespołu porodowego lub innej jednostki lub komórki organizacyjnej podmiotu o tym profilu, w stosunku do rodzących siłami natury, albo
+b)
+oddziału lub zespołu porodowego o profilu ciąży powikłanej lub innej jednostki lub komórki organizacyjnej podmiotu o tym profilu, w stosunku do pacjentek zakwalifikowanych do cięcia cesarskiego;
+4)
+nr 4 i 5 do rozporządzenia – odpowiednio w odniesieniu do położnicy i noworodka, w przypadku oddziału o profilu położniczo-ginekologicznym w systemie „matka z dzieckiem” lub innej jednostki lub komórki organizacyjnej podmiotu o tym profilu;
+5)
+nr 6 do rozporządzenia – w przypadku oddziału o profilu pediatrycznym lub innej jednostki lub komórki organizacyjnej podmiotu o tym profilu;
+6)
+nr 7 do rozporządzenia – w przypadku oddziału o profilu dializoterapii lub innej jednostki lub komórki organizacyjnej podmiotu o tym profilu.
+3.
+Przy ustalaniu minimalnej normy stosuje się wzór: \( L_e = {{T{}_{śpc} \times 365} \over {T{}_d}} \) – gdzie poszczególne symbole oznaczają: Le – liczbę etatów lub równoważników etatów – stanowiącą podstawę obliczenia minimalnej normy, Tśpc – średni dobowy czas świadczeń pielęgniarskich całkowity, o którym mowa w ust. 1 pkt 2, w dniach.
+§ 3.
+W przypadku oddziału o profilu:
+1)
+anestezjologia i intensywna terapia (stanowisko intensywnej terapii) lub innej jednostki lub komórki organizacyjnej podmiotu o tym profilu,
+2)
+neonatologicznym lub innej jednostki lub komórki organizacyjnej podmiotu o tym profilu
+stosuje się minimalne normy wynikające z przepisów wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.) dotyczących świadczeń z zakresu leczenia szpitalnego, odnoszące się do odpowiedniego poziomu referencyjnego.
+§ 4.
+1.
+W przypadku podmiotu wykonującego świadczenia z zakresu leczenia uzależnień przy ustalaniu minimalnej normy uwzględnia się przepisy § 1 ust. 1 pkt 1–4 i 8.
+2.
+W przypadku szpitalnego oddziału ratunkowego lub izby przyjęć przy ustalaniu minimalnej normy uwzględnia się liczbę pacjentów w skali roku, stan zatrudnienia i organizacji pracy w innych komórkach organizacyjnych podmiotu oraz przepisy § 1 ust. 1 pkt 1, 3 i 4.
+3.
+W przypadku bloku operacyjnego przy ustalaniu minimalnej normy na 1 stół operacyjny w trakcie zabiegu operacyjnego (1 pacjent) uwzględnia się przepisy § 1 ust. 1 pkt 1–4 i 8.
+§ 5.
+1.
+W przypadku utworzenia nowego podmiotu, zmiany rodzaju działalności leczniczej lub zmiany zakresu udzielanych świadczeń zdrowotnych skutkujących utworzeniem nowego oddziału lub innej jednostki lub komórki organizacyjnej albo zmianą profilu tego oddziału, jednostki lub komórki, przy ustalaniu minimalnych norm uwzględnia się:
+1)
+planowany zakres i rodzaj świadczeń zdrowotnych;
+2)
+planowaną liczbę pacjentów;
+3)
+wyposażenie, w szczególności w sprzęt i aparaturę medyczną, techniczną oraz środki transportu i łączności;
+4)
+harmonogram czasu pracy;
+5)
+stan zatrudnienia i organizacji pracy w komórkach organizacyjnych nieudzielających świadczeń zdrowotnych.
+2.
+Minimalną normę ustala się w sposób określony w ust. 1 na okres roku, licząc od dnia wpisu podmiotu albo wpisu zmian określonych w ust. 1 do rejestru podmiotów wykonujących działalność leczniczą, o którym mowa w art. 100 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej.
+§ 6.
+W przypadku podmiotów wykonujących działalność leczniczą w rodzaju ambulatoryjne świadczenia zdrowotne przy ustalaniu minimalnych norm uwzględnia się:
+1)
+wielkość i rozległość terytorialną oraz strukturę demograficzną i narażenia środowiskowe charakterystyczne dla obszaru działania tego podmiotu;
+2)
+zakres i rodzaj udzielanych świadczeń zdrowotnych, w tym świadczeń profilaktycznych, z uwzględnieniem świadczeń zdrowotnych udzielanych w miejscu zamieszkania, nauki lub pobytu pacjenta;
+3)
+liczbę pacjentów obejmowanych opieką w danym roku;
+4)
+wyposażenie, w szczególności w sprzęt i aparaturę medyczną, techniczną oraz środki transportu i łączności;
+5)
+harmonogram czasu pracy;
+6)
+wykonywane obowiązki związane z prowadzeniem kształcenia podyplomowego;
+7)
+stan zatrudnienia i organizacji pracy w komórkach organizacyjnych nieudzielających świadczeń zdrowotnych.
+§ 7.
+Minimalne normy ustala się co najmniej raz na trzy lata.
+§ 8.
+Minimalne normy ustalone przed dniem wejścia w życie niniejszego rozporządzenia mogą być stosowane nie dłużej niż do dnia 31 marca 2014 r.
+§ 9.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r.
+
+## Załącznik nr 1 — – Kryteria dla kategorii opieki w przypadku oddziału o profilu zachowawczym i zabiegowym lub innej jednostki lub komórki organizacyjnej podmiotu o tym profilu
+
+Uwaga: przy kwalifikowaniu pacjenta do danej kategorii opieki uwzględnia się następujący sposób kwalifikacji:
+1)
+kategoria opieki I – kryteria kategorii opieki I lub nie więcej niż dwa kryteria z kategorii opieki II, lub nie więcej niż jedno kryterium z kategorii opieki III;
+2)
+kategoria opieki II – co najmniej trzy kryteria kategorii opieki II lub nie więcej niż dwa kryteria z kategorii opieki III;
+3)
+kategoria opieki III – co najmniej trzy kryteria kategorii opieki III. Lp. KRYTERIA Kategoria opieki I Kategoria opieki II Kategoria opieki III 1. AKTYWNOŚĆ FIZYCZNA pacjent samodzielny porusza się przy pomocy laski, chodzika, wymaga niewielkiej pomocy przy wstawaniu z łóżka, zejściu z fotela, większą część czasu spędza w łóżku nie opuszcza łóżka, może sam lub przy pomocy pielęgniarki zmieniać pozycję, transport tylko na noszach, wózku, w oddziałach chirurgicznych – opieka w pierwszej dobie po zabiegu operacyjnym 2. HIGIENA we własnym zakresie większość czynności wykonuje samodzielnie, niewielka pomoc przy wykonywaniu toalety, wejściu do wanny, wymaga pomocy przy umyciu pleców, włosów wymaga pomocy przy wykonywaniu wszystkich czynności higienicznych, zmianie bielizny pościelowej i osobistej, mycie w łóżku, pomoc w toalecie jamy ustnej lub wykonanie toalety jamy ustnej, wzmożona pielęgnacja skóry w szczególności postępowanie przeciwodleżynowe 3. ODŻYWIANIE samodzielnie niewielka pomoc, podanie tacy lub rozdrobnienie posiłku, nadzór nad ilością spożywanego posiłku wymaga karmienia, rozdrobnienia posiłku lub odżywiany jest i nawadniany pozajelitowo 4. WYDALANIE samodzielnie wymaga pomocy w zaprowadzeniu do toalety przeważnie sygnalizuje swoje potrzeby, korzysta z basenu, kaczki, często ma założony cewnik, może występować biegunka, korzysta z pieluchomajtek 5. POMIAR PARAMETRÓW ŻYCIOWYCH podstawowe parametry mierzone 2 x na dobę podstawowe parametry mierzone częściej niż 2 x na dobę, wykonywanie innych zabiegów np. prowadzenie bilansu płynów, oznaczenie masy ciała itp. podstawowe parametry mierzone częściej niż 2 x na dobę, założenie i prowadzenie kart obserwacji, prowadzony bilans płynów, pobieranie próbek krwi, moczu i innych wydzielin częściej niż 2 x na dobę 6. LECZENIE doustne, sporadycznie dożylne, podskórne (np. premedykacja) domięśniowo, podanie kropli do oczu, uszu, leczenie skóry- maści, zasypki stosowane samodzielnie doustne, domięśniowe, dożylne, w oddziałach zabiegowych wykonywanie opatrunków 2 x na dobę, w oddziałach dermatologicznych kąpiele, pędzlowanie śluzówek, zawijanie, stosowanie maści zasypek 2 x na dobę domięśniowe, dożylne, wlewy dożylne i doodbytnicze, zmiana opatrunku częściej niż 2 x na dobę, odsysanie wydzieliny z rany pooperacyjnej, kąpiele lecznicze, pędzlowanie śluzówek, stosowanie maści, zasypek częściej niż 2 x na dobę 7. EDUKACJA ZDROWOTNA I WSPARCIE PSYCHICZNE pełna wiedza na temat zdrowia i choroby, wymaga podstawowych informacji o oddziale (topografia, rozkład dnia w oddziale, uprawnienia pacjenta, nazwiska osób opiekujących się, planowane postępowanie pielęgnacyjne) nie wymaga wsparcia psychicznego słaba orientacja w sprawach zdrowia, wymaga informacji o zdrowiu i chorobie oraz wsparcia psychicznego, manifestuje pewien poziom lęku, nastrój nieco obniżony brak wiedzy o zdrowiu i chorobie, wymaga informacji oraz wsparcia psychicznego, często wysoki poziom lęku, zdezorientowany, nastrój depresyjny, rodzina pacjenta powinna być objęta programem edukacyjnym i wsparciem psychicznym
+
+## Załącznik nr 2 — – Kryteria dla kategorii opieki w przypadku oddziału o profilu psychiatrycznym lub innej jednostki lub komórki organizacyjnej podmiotu o tym profilu
+
+Uwaga: przy kwalifikowaniu pacjenta do danej kategorii opieki uwzględnia się następujący sposób kwalifikacji:
+1)
+kategoria opieki I – kryteria kategorii opieki I lub nie więcej niż dwa kryteria z kategorii opieki II, lub nie więcej niż jedno kryterium z kategorii opieki III;
+2)
+kategoria opieki II – co najmniej trzy kryteria kategorii opieki II lub nie więcej niż dwa kryteria z kategorii opieki III;
+3)
+kategoria opieki III – co najmniej trzy kryteria kategorii opieki III. Lp. KRYTERIA Kategoria opieki I Kategoria opieki II Kategoria opieki III 1. AKTYWNOŚĆ FIZYCZNA pacjent samodzielny porusza się przy pomocy laski, chodzika, wymaga pomocy przy wstaniu z łóżka, z fotela, większą część czasu spędza w łóżku nie opuszcza łóżka, pozycję zmienia sam lub przy pomocy pielęgniarki, transport na wózku lub noszach 2. HIGIENA we własnym zakresie większość czynności wykonuje samodzielnie, niewielka pomoc przy wykonywaniu toalety, wejściu do wanny, pod prysznic, wymaga pomocy przy umyciu pleców, włosów wymaga pomocy przy wykonywaniu wszystkich czynności higienicznych, zmianie bielizny pościelowej i osobistej, mycie w łóżku, pomoc w toalecie jamy ustnej, wzmożona pielęgnacja skóry w szczególności postępowanie przeciwodleżynowe 3. ODŻYWIANIE samodzielnie niewielka pomoc, podanie tacy lub rozdrobnienie posiłku, nadzór nad ilością spożywanego posiłku wymaga karmienia, rozdrobnienia posiłku lub odżywiany jest i nawadniany pozajelitowo 4. WYDALANIE samodzielnie wymaga pomocy w zaprowadzeniu do toalety przeważnie sygnalizuje swoje potrzeby, korzysta z basenu, kaczki, często ma założony cewnik, może występować biegunka, korzysta z pieluchomajtek 5. POMIAR PARAMETRÓW ŻYCIOWYCH podstawowe parametry mierzone 2 x na dobę podstawowe parametry mierzone częściej niż 2 x dobę, wykonywanie innych zabiegów np. prowadzenie bilansu płynów, kontrola masy ciała itp. kontrola stanu fizycznego osoby unieruchomionej lub izolowanej nie rzadziej niż co 15 minut oraz dokumentowanie ww. obserwacji w kartach zastosowania unieruchomienia i izolacji 6. LECZENIE doustne, sporadycznie dożylne, domięśniowe, pod inną postacią niż doustne, leki, przyjmuje bez oporów doustne, domięśniowe, ewentualnie dożylne, okresowo odmawia przyjmowania leków, niewielkie nasilenie objawów ubocznych polekowych domięśniowe, dożylne, podskórne, wlewy dożylne i doodbytnicze, oponuje przeciwko leczeniu, wymaga interwencji osób trzecich przy podawaniu leków lub przy wykonywaniu zabiegów, występują ciężkie objawy uboczne, polekowe np. złośliwy zespół neuroleptyczny 7. EDUKACJA ZDROWOTNA I WSPARCIE PSYCHICZNE pełna wiedza na temat zdrowia i choroby, wymaga podstawowych informacji o oddziale (topografia, rozkład dnia w oddziale, uprawnienia pacjenta, nazwiska osób opiekujących się, planowane postępowanie pielęgnacyjne) słaba orientacja w sprawach zdrowia, wymaga informacji o zdrowiu i chorobie oraz wsparcia psychicznego, manifestuje pewien poziom lęku, wymaga oddziaływań psychoedukacyjnych brak wiedzy o zdrowiu i chorobie, wymaga informacji oraz wsparcia psychicznego, często wysoki poziom lęku, zdezorientowany, nastrój depresyjny; pacjent i jego rodzina wymagają wsparcia i podjęcia działań psychoedukacyjnych 8. ZACHOWANIA AGRESYWNE spokojny, bez słownych i czynnych zachowań agresywnych agresja słowna w stosunku do pacjentów i personelu agresja słowna i czynna w stosunku do pacjentów i personelu, niszczenie sprzętów w oddziale, autoagresja, nadmierne pobudzenie seksualne 9. DEZORGANIZACJA ZACHOWANIA brak niewielka dezorganizacja zachowania bez wpływu na podstawowe czynności życiowe nasilona dezorganizacja zachowania 10. NAPĘD PSYCHORUCHOWY prawidłowy okresowo niepokój ruchowy, głośno mówi, śpiewa, nastrój labilny, dysforia, euforia lub porusza się powoli, zastyga, halucynuje wzrokowo i słuchowo, powolny, siedzi bezczynnie lub staje nieruchomo, odpowiada cicho, szeptem lub wcale, nastrój obojętny, sztywna mimika twarzy nadmiernie aktywny, pobudzony psychoruchowo, dysforyczny, stale przemieszcza się w oddziale, domaga się wyjścia poza oddział, głośno mówi, krzyczy, płacze, szarpie się (pacjent unieruchomiony), zaczepia innych, niszczy ubranie, okalecza się, rzuca przedmiotami, całkowity bezruch (stupor) 11. DEPRESJA bezsenność lub nadmierna senność, lęk obniżenie nastroju i napędu psychoruchowego, zaburzenia snu, lęk okresowy lub przewlekły, dysregulacja rytmów biologicznych, układu autonomicznego (zaburzenia snu, lęk, zaparcia, bóle głowy), wewnętrzny niepokój, drażliwość aktywność fizyczna i psychiczna obniżona, uboga mimika twarzy, zaniedbany wygląd, nie reaguje na próby nawiązania kontaktu, nie odpowiada na pytania, odmawia przyjmowania posiłków i płynów 12. MYŚLI SAMOBÓJCZE brak wypowiada myśli samobójcze, ale nie ma tendencji do ich realizacji po próbie samobójczej, wypowiada myśli samobójcze, ma tendencje do ich realizacji, w wywiadzie próby samobójcze, wymaga stałej obserwacji pielęgniarskiej 13. OBJAWY PSYCHOTYCZNE brak lub niewielkie umiarkowane nasilenie bez aktywności psychotycznej ciężkie, masywne objawy wytwórcze z nasiloną aktywnością psychotyczną 14. ŚWIADOMOŚĆ świadomość prawidłowa senny, na zadawane pytania odpowiada z opóźnieniem, zdezorientowany w czasie dezorientacja, przymglenie, majaczenie, splątanie 15. UDZIAŁ W TERAPII chętnie uczestniczy w zajęciach terapeutycznych okresowo uczestniczy w zajęciach terapeutycznych, nie kończy podjętych zadań nie uczestniczy w życiu społeczności i terapii zajęciowej 16. EDUKACJA ZDROWOTNA I WSPARCIE PSYCHICZNE pełna wiedza na temat zdrowia i choroby, wymaga podstawowych informacji o oddziale (topografia, rozkład dnia w oddziale, uprawnienia pacjenta, nazwiska osób opiekujących się, planowane postępowanie pielęgnacyjne) nie wymaga wsparcia psychicznego słaba orientacja w sprawach zdrowia, wymaga informacji o zdrowiu i chorobie oraz wsparcia psychicznego, manifestuje pewien poziom lęku, nastrój nieco obniżony brak wiedzy o zdrowiu i chorobie, wymaga informacji oraz wsparcia psychicznego, często wysoki poziom lęku, zdezorientowany, nastrój depresyjny, rodzina pacjenta powinna być objęta programem edukacyjnym i wsparciem psychicznym
+
+## Załącznik nr 3 — – Kryteria dla kategorii opieki w przypadku zespołu porodowego lub innej jednostki lub komórki organizacyjnej podmiotu o tym profilu, w stosunku do rodzących siłami natury albo w przypadku oddziału lub zespołu porodowego o profilu ciąży powikłanej lub innej jednostki lub komórki organizacyjnej podmiotu o tym profilu, w stosunku do pacjentek zakwaifikowanych do cięcia cesarskiego
+
+Uwaga: przy kwalifikowaniu pacjenta do danej kategorii opieki uwzględnia się następujący sposób kwalifikacji:
+1)
+kategoria opieki I – kryteria kategorii opieki I lub nie więcej niż dwa kryteria z kategorii opieki II, lub nie więcej niż jedno kryterium z kategorii opieki III;
+2)
+kategoria opieki II – co najmniej trzy kryteria kategorii opieki II lub nie więcej niż dwa kryteria z kategorii opieki III;
+3)
+kategoria opieki III – co najmniej trzy kryteria kategorii opieki III. Lp. KRYTERIA Kategoria opieki I Kategoria opieki II Kategoria opieki III 1. I OKRES PORODU 1. Ciąża >37Hbd; płód pojedynczy, żywy, położenie podłużne-główkowe 1. Ciąża>32<37Hbdi powyżej 40 Hbd; ciąża bliźniacza lub pojedyncza położenie nieprawidłowe 1. Ciąża <32 Hbd, ciąża mnoga, położenie płodu nieprawidłowe lub ciąża martwa 2. Przebieg ciąży prawidłowy bez dolegliwości ze strony innych układów 2. Wywiad położniczy obciążony, w tej lub poprzednich ciążach 2. Wywiad położniczy obciążony lub choroby innych układów 3. Pozycja dowolna, rodząca chodzi 3. Pozycja częściowo ograniczona 3. Rodząca leżąca 4. Pełna samodzielność w zakresie czynności higienicznych 4. Wymaga pomocy w toalecie ciała, szczególnie higiena krocza 4. Wymaga stałej pomocy w utrzymaniu higieny ciała 5. Dieta lekkostrawna, płyny wg potrzeb 5. Dieta płynna z ograniczeniami 5. Dieta ścisła 6. Rutynowy pomiar parametrów życiowych 6. Pomiar parametrów życiowych co 2 godziny 6. Pomiar parametrów życiowych co 15 minut (karta obserwacji) 7. Rutynowa kontrola akcji serca płodu (monitorowanie dłuższe przy przyjęciu rodzącej do oddziału) 7. Okresowe monitorowanie ASP (dodatkowo) 7. Stałe monitorowanie ASP 8. Postęp porodu prawidłowy, do 8 godzin 8. Zaburzenia w postępie porodu lub planowane ciecie cesarskie 8. Zaburzenia czynności skurczowej macicy, brak postępu porodu lub nagle cięcie cesarskie 9. Potrzeby wydalania zaspokaja sama 9. Wymaga podania basenu 9. Cewnikowanie lub cewnik na stałe 10. Zachowany pęcherz płodowy, pęknięcie o czasie 10. Pęknięty pęcherz płodowy, odpływa prawidłowy płyn owodniowy 10. Odpływa płyn owodniowy o nieprawidłowym zabarwieniu i woni lub w dużej ilość 11. Rodząca stosuje ćwiczenia oddechowe, relaksujące, korzysta z udogodnień 11. Rodząca wymaga instruktażu odnośnie ćwiczeń oddechowych i relaksujących 11. Rodząca wymaga stałej pomocy w stosowaniu ćwiczeń oddechowych i relaksujących 12. Otrzymuje leki doustne, doodbytnicze, domięśniowe 12. Otrzymuje leki doustne, doodbytnicze, domięśniowe, dożylne 12. Otrzymuje leki parenteralnie, infuzja (dożylnie) 13. Pozytywne nastawienie rodzącej do porodu, dobra orientacja co do przebiegu porodu, dobry kontakt z położną, rodząca jest spokojna i opanowana 13. Mierna orientacja co do przebiegu porodu, utrudniony kontakt z położną, rodząca nieopanowana, niespokojna, wymaga okresowego wsparcia osoby towarzyszącej 13. Negatywny stosunek do porodu i osób towarzyszących, brak orientacji w przebiegu porodu, wymaga stałej obecności położnej 2. II OKRES PORODU 1. Czas przebiegu do 2 godzin 1. Przedłużający się ponad 2 godziny 1. Poród zabiegowy, nagłe cięcie cesarskie 2. Podczas parcia pozycja dowolna 2. Podczas parcia pozycja ograniczona 2. Podczas parcia pozycja wymuszona 3. Wymaga zapewnienia czystości krocza 3. Wymaga zapewnienia czystości krocza 3. Wymaga zapewnienia czystości krocza i okolic przylegających 4. Ochrona krocza 4. Znieczulenie, nacięcie krocza 4. Pęknięcie krocza, rozlegle nacięcie 5. Rodząca aktywnie uczestniczy w porodzie 5. Rodząca wymaga nauki, pomocy przy parciu 5. Rodząca wymaga aktywnej pomocy, biernie uczestniczy w porodzie 6. Zastosowanie mają pkt 4–7,9, 12 i 13 dotyczące I okresu porodu 6. Zastosowanie mają pkt 4–7, 9, 12 i 13 dotyczące I okresu porodu 6. Zastosowanie mają pkt 4–7, 9, 12 i 13 dotyczące I okresu porodu 3. III OKRES PORODU 1. Noworodek w skali Apgar 7–10 pkt 1. Noworodek w skali Apgar 4–6 pkt 1. Noworodek w skali Apgar 0–3 pkt 2. Waga noworodka 2500–4000 g 2. Waga noworodka poniżej 2500 g lub powyżej 4000 g 2. Waga noworodka poniżej 1500 g, wady u noworodka, martwo urodzony lub umierający po porodzie 3. Bardzo dobry kontakt matki z noworodkiem 3. Kontakt matki z noworodkiem zaburzony, matka obojętna 3. Brak kontaktu lub niechęć matki do noworodka 4. Bierne i czynne prowadzenie III okresu porodu, popłód kompletny 4. Czynne prowadzenie III okresu porodu; wątpliwości w ocenie popłodu 4. Patologia III okresu porodu, zabiegi manualne lub instrumentalne 5. Krwawienie z dróg rodnych do 200 ml 5. Krwawienie z dróg rodnych powyżej 200 ml 5. Krwotok z dróg rodnych 6. Kanał rodny bez obrażeń 6. Otarcia, pęknięcia kanału rodnego, nacięcie krocza 6. Pęknięcie krocza II lub III stopnia 7. Zastosowanie mają pkt 4–6, 9, 12 i 13 dotyczące I okresu porodu 7. Zastosowanie mają pkt 4–6, 9, 12 i 13 dotyczące I okresu porodu 7. Zastosowanie mają pkt 4–6, 9, 12 i 13 dotyczące I okresu porodu 4. IV OKRES PORODU 1. Skrócony czas przebywania na sali porodowej 1. Dwugodzinna obserwacja 1. Obserwacja powyżej 2 godzin 2. Rutynowy pomiar parametrów życiowych, wysokości dna macicy, krwawienia z dróg rodnych 2. Pomiar parametrów życiowych co 15 min., kontrola wysokości dna macicy i krwawienia z dróg rodnych (krwawienie zwiększone) 2. Opieka po znieczuleniu ogólnym, dokładna obserwacja i pomiar parametrów życiowych, wysokości dna macicy i krwawienia z dróg rodnych 3. Matka karmi dziecko piersią 3. Matka wymaga pomocy w przystawieniu dziecka do piersi 3. Matka nie karmi dziecka piersią, zły kontakt z dzieckiem lub brak 4. Dobra orientacja matki w sprawach zdrowia, samopielęgnacji w połogu, opieki nad dzieckiem, dobry kontakt z otoczeniem 4. Matka wymaga pomocy w spożyciu posiłku, wymaga informacji o samopielęgnacji w połogu, pielęgnacji noworodka, wymaga wsparcia osób bliskich 4. Brak orientacji matki w sprawach zdrowotnych, wymaga wsparcia psychicznego ze strony położnej
+
+## Załącznik nr 4 — – Kryteria dla kategorii opieki w przypadku oddziału o profilu położniczo-ginekologicznym w systemie „matka z dzieckiem” lub innej jednostki lub komórki organizacyjnej podmiotu o tym profilu – w odniesieniu do położnicy
+
+Uwaga: przy kwalifikowaniu pacjenta do danej kategorii opieki uwzględnia się następujący sposób kwalifikacji:
+1)
+kategoria opieki I – kryteria kategorii opieki I lub nie więcej niż dwa kryteria z kategorii opieki II, lub nie więcej niż jedno kryterium z kategorii opieki III;
+2)
+kategoria opieki II – co najmniej trzy kryteria kategorii opieki II lub nie więcej niż dwa kryteria z kategorii opieki III;
+3)
+kategoria opieki III – co najmniej trzy kryteria kategorii opieki III. Lp. KRYTERIA Kategoria opieki I Kategoria opieki II Kategoria opieki III 1. AKTYWNOŚĆ FIZYCZNA ciąża pojedyncza, poród fizjologiczny bez nacięcia krocza lub z niewielkim pęknięciem Iş, ciąża przebiegała bez powikłań, ukończona w terminie porodu, położnica chodząca ciąża mnoga-bliźnięta, poród z nacięciem i rozległym uszkodzeniem krocza, zabiegowy; ciąża o podwyższonym ryzyku, zakończona przed lub po upływie terminu porodu; przebieg porodu był częściowo zaburzony, nacięcie lub pęknięcie krocza IIş, położnica większą część czasu spędza w łóżku ciąża mnoga-troje lub więcej dzieci, ukończona cięciem cesarskim, interwencja w jamie macicy, w związku z krwotokiem poporodowym, uszkodzenie spojenia łonowego; ciąża wysokiego ryzyka, pęknięcie krocza IIIş, położnica leżąca, nie opuszcza łóżka, może sama zmieniać pozycję 2. HIGIENA położnica wykonuje samodzielnie czynności higieniczne, kąpiel i toaletę noworodka wykonuje przy pomocy położnej wymaga wykonania toalety krocza lub wykonuje samodzielnie, lecz wymaga pomocy położnej podczas kąpieli pod natryskiem; u noworodka wykonuje tylko niektóre czynności higieniczno-pielęgnacyjne, wymaga pomocy i nadzoru ze strony położnej wymaga toalety całego ciała, pielęgnacją noworodka zajmuje się położna 3. ODŻYWIANIE położnica wymaga diety dla matki karmiącej, samodzielnie spożywa posiłki położnica wymaga diety dla matki karmiącej lub połączonej ze specjalną dietą w związku z chorobami współistniejącymi, wymaga pomocy w spożywaniu posiłków (pokrojenie, rozdrobnienie) położnica ma dietę półpłynną lub wymaga pomocy przy spożywaniu np. podanie pokarmu, pojniczka lub odżywiana jest parenteralnie 4. WYDALANIE położnica sama zaspokaja potrzebę wydalania, czynność pęcherza moczowego i jelit prawidłowa położnica ma trudności z oddawaniem moczu, wymaga prowokacji, istnieją trudności z oddawaniem stolca (zaparcia) położnica ma trudności z oddawaniem moczu – wymaga cewnikowania lub ma założony cewnik, prowadzona jest karta kontroli przyjmowanych i wydalanych płynów, istnieją trudności z oddawaniem stolca 5. POMIAR PARAMETRÓW ŻYCIOWYCH podstawowe parametry (temperatura, tętno), wysokość dna macicy, kontrola krwawienia, odchodów, stan krocza – pomiar i obserwacja 2 x na dobę podstawowe parametry (temperatura, tętno), wysokość dna macicy, kontrola krwawienia, odchodów, stan krocza -pomiar i obserwacja częściej niż 2 x na dobę oraz dodatkowo pomiar ciśnienia tętniczego krwi prowadzona jest karta ścisłej obserwacji 6. LECZENIE nie wymaga podawania leków otrzymuje leki doustnie, domięśniowo, podskórnie, doodbytniczo otrzymuje leki dożylnie, ma podłączoną kroplówkę, może być przetaczana krew 7. EDUKACJA ZDROWOTNA I WSPARCIE PSYCHICZNE położnica zna zasady pielęgnacji noworodka, karmienia piersią i zdrowego stylu życia w okresie połogu, nie wymaga wsparcia psychicznego, ma dobry kontakt z dzieckiem, chętnie karmi piersią położnica ma słabą orientację na temat pielęgnacji noworodka, karmienia piersią i zdrowego stylu życia w okresie połogu, wymaga wsparcia położnej i osób bliskich, nie jest przekonana do karmienia piersi położnica nie zna zasad pielęgnacji noworodka, nie jest przekonana do karmienia piersią i nie zna techniki karmienia oraz zasad zdrowego stylu życia w okresie połogu, wymaga edukacji w tym zakresie, brak kontaktu z dzieckiem, wymaga profesjonalnego wsparcia psychicznego (dziecko urodzone w stanie ciężkim, z wadą lub zmarło)
+
+## Załącznik nr 5 — – Kryteria dla kategorii opieki w przypadku oddziału o profilu położniczo-ginekologicznym w systemie „matka z dzieckiem” lub innej jednostki lub komórki organizacyjnej podmiotu o tym profilu – w odniesieniu do noworodka
+
+Uwaga: przy kwalifikowaniu noworodka do danej kategorii opieki uwzględnia się następujący sposób kwalifikacji:
+1)
+kategoria opieki I – kryteria kategorii opieki I lub nie więcej niż dwa kryteria z kategorii opieki II;
+2)
+kategoria opieki II – co najmniej trzy kryteria kategorii opieki II. Lp. KRYTERIA Kategoria opieki I Kategoria opieki II 1. MASA URODZENIOWA 2501–4000 g 2000 – 2500 g lub > 4000 g 2. SKALA APGAR 8–10 pkt 5–7 pkt 3. URAZY POPORODOWE nie ma krwiak zewnątrzczaszkowy, wybroczyny na skórze, złamanie obojczyka, porażenie splotu barkowego 4. WADY WRODZONE nie ma wady układu kostno – stawowego, wady twarzoczaszki, układu nerwowego, wady serca, inne wady wrodzone na etapie diagnozy nie wymagające natychmiastowej interwencji chirurgicznej 5. HIGIENAI PIELĘGNACJA codzienna kąpiel noworodka, pielęgnacja kikuta pępowinowego wykonywana przez położne, matka wykonuje samodzielnie toaletę noworodka podczas przewijania, skóra i śluzówki bez zmian patologicznych toaleta krótkotrwała, pojedyncze ogniska zmian na skórze i błonach śluzowych, pomoc położnej podczas przewijania i toalety noworodka oraz przy pielęgnacji kikuta pępowinowego 6. ODDYCHANIE oddycha prawidłowo zaburzenia oddychania np.: oddech przyśpieszony, postękiwanie, tymczasowa tlenoterapia i odśluzowywanie dróg oddechowych 7. ODŻYWIANIE karmienie piersią na żądanie, matka samodzielnie, prawidłowo przystawia noworodka do piersi pomoc położnej przy dostawianiu noworodka do piersi, karmienie pokarmem matki przy pomocy kieliszka lub łyżeczki, wymaga dokarmiania i dopajania 8. WYDALANIE prawidłowo wydalony stolec, mocz i gazy problemy z zaspokojeniem potrzeb fizjologicznych, wymaga pomocy położnej poprzez odpowiednie ułożenie bądź jednorazowe zastosowanie rurki doodbytniczej 9. ŻÓŁTACZKA NOWORODKÓW fizjologiczna wymaga fototerapii – hiperbilirubinemia 10. OBSERWACJE I POMIAR PARAMETRÓW ŻYCIOWYCH obserwacja i pomiary podstawowych parametrów życiowych dokonywane są 2 x na dobę obserwacja i pomiary podstawowych parametrów życiowych dokonywane są 3 x na dobę lub więcej w ciągu dnia 11. BADANIA DIAGNOSTYCZE testy przesiewowe na fenyloketonurię i hipotyreozę testy przesiewowe na fenyloketonurię i hipotyreozę, dodatkowo poziom bilirubiny, glikemia, morfologia krwi, gazometria, elektrolity, posiewy, wymazy, analiza moczu 12. LECZENIE PROFILAKTYKA szczepienia leki doustne, iniekcje domięśniowe, wlewy kroplowe dożylne, krople, maści, kąpiele lecznicze
+
+## Załącznik nr 6 — – Kryteria dla kategorii opieki w przypadku oddziału o profilu pediatrycznym lub innej jednostki lub komórki organizacyjnej podmiotu o tym profilu
+
+Uwaga: przy kwalifikowaniu pacjenta do danej kategorii opieki uwzględnia się następujący sposób kwalifikacji:
+1)
+kategoria opieki I – kryteria kategorii opieki I lub nie więcej niż dwa kryteria z kategorii opieki II, lub nie więcej niż jedno kryterium z kategorii opieki III;
+2)
+kategoria opieki II – co najmniej trzy kryteria kategorii opieki II lub nie więcej niż dwa kryteria z kategorii opieki III;
+3)
+kategoria opieki III – co najmniej trzy kryteria kategorii opieki III. Lp. KRYTERIA Kategoria opieki I Kategoria opieki II Kategoria opieki III 1. AKTYWNOŚĆ FIZYCZNA pacjent samodzielne lub przebywające na stałe z rodzicami pacjent wymaga pomocy przy wstawaniu, większą część czasu spędza w łóżku pacjent unieruchomione, w oddziale zabiegowym – I doba po zabiegu 2. HIGIENA we własnym zakresie lub przez rodziców przebywających na stałe z pacjentem niewielka pomoc przy wykonaniu toalety nie sygnalizuje potrzeb wymaga pełnego wsparcia przy wykonaniu toalety, wzmożona pielęgnacja skóry w szczególności postępowanie przeciwodleżynowe lub założony cewnik 3. KARMIENIE I ODŻYWIANIE samodzielnie lub pacjent karmiony piersią lub przebywający na stałe z rodzicami niewielka pomoc, rozdrobnienie posiłku, schłodzenie płynów do picia wymaga karmienia 4. WYDALANIE samodzielnie wymaga pomocy w zaprowadzeniu do toalety przeważnie sygnalizuje swoje potrzeby, korzysta z basenu, kaczki, często ma założony cewnik, może występować biegunka, korzysta z pieluchomajtek 5. POMIAR PARAMETRÓW ŻYCIOWYCH podstawowe parametry 2 x na dobę podstawowe parametry częściej niż 2x na dobę lub podstawowe 2x na dobę i pobieranie prób do badań podstawowe parametry częściej niż 2x na dobę, pobieranie prób krwi, moczu i innych wydzielin częściej niż 2x na dobę, stałe monitorowanie parametrów życiowych 6. LECZENIE doustne, nawadnianie dożylne, podskórne (np. premedykacja), podanie kropli, maści do oczu, uszu, leczenie skóry, błon śluzowych, maści, zasypki itp. leczenie dożylne, opatrunki 2x na dobę, inhalacje (zabiegi zajmujące 60–90 minut) podawanie tlenu, wlewy dożylne i doodbytniczo, opatrunki częściej niż 2x na dobę, (zabiegi zajmujące więcej niż 90 minut) 7. EDUKACJA ZDROWOTNA ORAZ WSPARCIE DZIECKA I RODZICÓW pełna wiedza na temat choroby, wymaga podstawowych informacji uzupełniających dotyczących stanu zdrowia, planu opieki praw pacjenta, organizacji oddziału słaba orientacja o chorobie, wymaga wsparcia, manifestuje lęk brak wiedzy o chorobie wymaga pełnej edukacji i przygotowania do samopielęgnacji, manifestuje lęk
+
+## Załącznik nr 7 — – Kryteria dla kategorii opieki w przypadku oddziału o profilu dializoterapii lub innej jednostki lub komórki organizacyjnej podmiotu o tym profilu
+
+Uwaga: przy kwalifikowaniu pacjenta do danej kategorii opieki uwzględnia się następujący sposób kwalifikacji:
+1)
+kategoria opieki I – kryteria kategorii opieki I lub nie więcej niż dwa kryteria z kategorii opieki II;
+2)
+kategoria opieki II – co najmniej trzy kryteria kategorii opieki II. Lp. KRYTERIA Kategoria opieki I Kategoria opieki II 1. AKTYWNOŚĆ FIZYCZNA pacjent unieruchomiony w czasie dializy, nie wymaga pomocy w zmianie pozycji i wygodnym ułożeniu, po dializie pacjent samodzielny pacjent wymaga niewielkiej pomocy przy zaścieleniu fotela, przy wstawaniu i ułożeniu się na fotelu, wejściu na wagę przy pionizacji 2. HIGIENA pacjent samodzielny po dializie, w trakcie trwania zabiegu nie ma potrzeby wykonywania czynności higienicznych pacjent samodzielny w zakresie toalety twarzy, jamy ustnej, rąk, nie wymaga wykonywania innych czynności higienicznych 3. ODŻYWIANIE pacjent samodzielny pacjent wymaga niewielkiej pomocy, podania tacy z posiłkiem, kubka lub talerza, rozdrobnienia pokarmu 4. WYDALANIE pacjent nie zgłasza potrzeb pacjent wymaga podania basenu lub kaczki 5. POMIAR PARAMETRÓW ŻYCIOWYCH w czasie trwania dializy: dwukrotny pomiar ciśnienia tętniczego krwi, tętna, temperatury ciała oraz oznaczenie masy ciała w czasie trwania dializy: co najmniej trzykrotny pomiar ciśnienia tętniczego krwi, tętna, temperatury ciała, oraz oznaczenie masy ciała, co najmniej jednokrotne pobranie próbek krwi 6. LECZENIE leczenie przez przetokę tętniczo-żylną do 4,5 godz., stosowanie zasypek leczniczych na skórę, wlewy kroplowe przez przetokę, wykonanie opatrunku na przetoce, wykonanie iniekcji podskórnych leczenie przez „świeżą” przetokę tętniczo-żylną, wkłucie centralne, leczenie doustne, wykonanie więcej niż jednego opatrunku w czasie trwania dializy, częste stosowanie zasypek leczniczych, zmniejszenie objawów ubocznych dializy, stosowanie kompresów i przymoczek 7. EDUKACJA ZDROWOTNA I OPIEKA PSYCHOSPOŁECZNA pełna wiedza na temat choroby i leczenia, dobra orientacja w sprawach zdrowia, nie wymaga wsparcia psychicznego, wymaga informacji o planach postępowania pielęgniarskiego wymaga informacji o chorobie i leczeniu, diecie, sposobach zachowania lub poprawy zdrowia, planach postępowania pielęgniarskiego oraz wsparcia psychicznego, pacjenci przebywający po raz pierwszy na oddziale, zapoznawani z topografią oddziału, planem leczenia
 

@@ -8,10 +8,10 @@ pos: 1398
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 września 2016 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA dnia 1 września 2016 rejestru szkód Na podstawie art. 26a ust. 7 ustawy dnia 13 kwietnia 2007 zapobieganiu szkodom i ich naprawie U. 2014 poz. 1789 oraz 2015 poz. 277 i 1926) zarządza się, co następuje:
+# Rozporządzenie Ministra Środowiskaz dnia 1 września 2016 r. w sprawie rejestru szkód w środowisku
 
 | Pole | Wartość |
 |---|---|
@@ -22,49 +22,152 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2016-09-01 |
 | Data wydania | 2016-09-05 |
+| Wejście w życie | 2016-09-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001398) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1398/text.pdf) |
 
-1. Rozporządzenie określa szczegółowy zakres informacji, które są gromadzone rejestrze bezpośrednich zagrożeń szkodą i szkód środowisku, zwanym dalej „rejestrem”.
-2. W rejestrze gromadzi się:
-1) rodzaju bezpośredniego zagrożenia szkodą szkody w:
-a) gatunkach chronionych, chronionych siedliskach przyrodniczych, wodach,
-d) powierzchni ziemi;
-2) informację charakterystyce bezpośredniego zagrożenia szkodą szkody (opis sytuacji);
-3) miejscu wystąpienia bezpośredniego zagrożenia szkodą szkody środowisku:
-a) adres (województwo, powiat, gmina, miejscowość, a także ile występuje ulica i numer porządkowy), identyfikator działek ewidencyjnych, współrzędne miejsca wykaz współrzędnych punktów załamania granicy obszaru wystąpienia bezpośredniego zagrożenia szkodą szkody środowisku, obowiązującym państwowym układzie odniesień przestrzennych, ile są dostępne,
-d) inne niż wskazane lit. a–c pozwalające na ustalenie miejsca wystąpienia bezpośredniego zagrożenia szkodą szkody środowisku;
-4) wskazujące, czy władającym powierzchnią ziemi, na której występuje bezpośrednie zagrożenie szkodą szkoda środowisku, jest:
-a) osoba fizyczna, jednostka samorządu terytorialnego, ze wskazaniem organu, który ją reprezentuje sprawach gospodarowania nieruchomościami,
-d) Skarb Państwa, ze wskazaniem organu, który go reprezentuje sprawach gospodarowania nieruchomościami;
-5) datę, przedział czasowy inne pozwalające na określenie czasu wystąpienia bezpośredniego zagrożenia szkodą szkody środowisku;
-6) datę wykrycia bezpośredniego zagrożenia szkodą szkody środowisku;
-7) opis przeprowadzonych działań zapobiegawczych naprawczych, a przypadku bezpośredniego zagrożenia szkodą szkody powierzchni ziemi opis remediacji, podaniem sposobu jej przeprowadzenia zgodnie art. 101q ust. 1 ustawy dnia 27 kwietnia 2001 Prawo ochrony środowiska U. 2016 poz. 672, 831, 903 i 1250), oraz osiągniętych ich wyniku efektów ekologicznych;
-8) przypadku bezpośredniego zagrożenia szkodą szkody gatunkach chronionych nazwy gatunków chronionych;
-9) przypadku bezpośredniego zagrożenia szkodą szkody chronionych siedliskach przyrodniczych nazwy chronionych siedlisk przyrodniczych;
-10) przypadku bezpośredniego zagrożenia szkodą szkody wodach:
-a) informację, czy bezpośrednie zagrożenie szkodą szkoda dotyczy wód podziemnych czy powierzchniowych, informację, czy znacząca negatywna zmiana zmiany przypadku wystąpienia szkody dotyczą: potencjału ekologicznego wód powierzchniowych, stanu ekologicznego wód powierzchniowych, stanu chemicznego wód powierzchniowych podziemnych, stanu ilościowego wód podziemnych, nazwy substancji stanowiących mogących stanowić zanieczyszczenie, ile znacząca negatywna zmiana zmiany dotyczą stanu chemicznego wód powierzchniowych podziemnych;
-11) przypadku bezpośredniego zagrożenia szkodą szkody powierzchni ziemi:
-a) nazwy substancji powodujących ryzyko, które zostały zawarte zgłoszeniu dla których potwierdzono przekroczenie dopuszczalnych zawartości glebie ziemi zgodnie przepisami wydanymi na podstawie art. 101a ust. 5 ustawy dnia 27 kwietnia 2001 Prawo ochrony środowiska, przedział zawartości glebie ziemi substancji powodujących ryzyko, dla których potwierdzono przekroczenie dopuszczalnych zawartości, wynikający badań zanieczyszczenia nimi gleby i ziemi, wykonanych przez laboratorium, którym mowa art. 147a ust. 1 pkt 1 ust. 1a ustawy dnia 27 kwietnia 2001 Prawo ochrony środowiska, uwzględnieniem przedziału głębokości, którym dokonano badania zanieczyszczenia gleby ziemi, ze wskazaniem odpowiednio grupy i podgrupy gruntów, zgodnie przepisami wydanymi na podstawie art. 101a ust. 5 ustawy dnia 27 kwietnia 2001 Prawo ochrony środowiska, wodoprzepuszczalności gleby i ziemi, określonej wartością współczynnika filtracji m/s, informację powierzchni zanieczyszczonej substancjami powodującymi ryzyko;
-12) imię i nazwisko albo nazwę oraz adres zamieszkania albo adres siedziby zgłaszającego bezpośrednie zagrożenie szkodą szkodę środowisku;
-13) obowiązanym do wykonania działań zapobiegawczych naprawczych:
-a) przypadku podmiotu korzystającego ze środowiska, którego działalność była przyczyną bezpośredniego zagrożenia szkodą szkody środowisku, ile został on zidentyfikowany: imię i nazwisko albo nazwę, adres zamieszkania albo adres siedziby, przypadku organu ochrony środowiska nazwę tego organu;
-14) wskazujące, czy podmiotem obowiązanym do prowadzenia działań zapobiegawczych naprawczych jest:
-a) podmiot korzystający ze środowiska, podmiot korzystający ze środowiska solidarnie władającym powierzchnią ziemi, organ ochrony środowiska;
-15) na temat postępowań administracyjnych:
-a) wskazanie daty wszczęcia postępowania administracyjnego, wskazanie daty wydania decyzji, tym decyzji wydanej przez organ odwoławczy, jej znaku, podstawy prawnej, nazwy organu wydającego decyzję oraz skan tej decyzji, odwołaniach od decyzji wskazujące: imię i nazwisko nazwę adres zamieszkania albo adres siedziby odwołującego się, nazwę organu, do którego wniesiono odwołanie, przyczyny odwołania;
-16) na temat orzeczeń sądowych, szczególności datę i sygnaturę akt wyroku sądu administracyjnego wraz przytoczeniem sentencji wyroku;
-17) statusie postępowania i statusie działań zapobiegawczych i naprawczych:
-a) postępowanie administracyjne toku, zakończone postępowanie administracyjne, postępowanie sądowoadministracyjne toku,
-d) zakończone postępowanie sądowoadministracyjne,
-e) postępowanie egzekucyjne toku,
-f) prowadzone działania zapobiegawcze naprawcze,
-g) zakończone działania zapobiegawcze naprawcze;
-18) finansowaniu działań zapobiegawczych naprawczych, ile pozostają posiadaniu organu ochrony środowiska:
-a) wskazujące źródła finansowania kosztów działań zapobiegawczych naprawczych, bezpośrednim pokryciu kosztów przez obowiązanego do ich ponoszenia, pełnym albo częściowym odzyskaniu kosztów od obowiązanego do ich ponoszenia wyniku postępowania egzekucyjnego,
-d) pełnym albo częściowym odzyskaniu kosztów ze środków zabezpieczenia finansowego podmiotu korzystającego ze środowiska,
-e) przyczynie nieodzyskania całości albo części kosztów.
-3. W rejestrze nie gromadzi się informacji postępowania administracyjnego dotyczącego bezpośredniego zagrożenia szkodą szkody a na decyzję tę nie została wniesiona skarga do sądu administracyjnego albo sąd administracyjny wydał postanowienie odrzuceniu skargi orzekł prawomocnym wyrokiem jej oddaleniu.
-4. Informacje, których mowa 2 pkt 11 lit. a i b, wynikające postępowań administracyjnych zakończonych wydaniem decyzji okresie obowiązywania rozporządzenia Ministra Środowiska dnia 9 września 2002 standardów jakości gleby oraz standardów jakości ziemi U. poz. 1359), wskazuje się zgodnie przepisami tego rozporządzenia.
-5. Rozporządzenie wchodzi życie dniem 5 września 2016 Minister Środowiska: J. Szyszko
+Treść rozporządzenia
+Na podstawie art. 26a ust. 7 ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie (Dz. U. z 2014 r. poz. 1789 oraz z 2015 r. poz. 277 i 1926) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa szczegółowy zakres informacji, które są gromadzone w rejestrze bezpośrednich zagrożeń szkodą w środowisku i szkód w środowisku, zwanym dalej „rejestrem”.
+§ 2.
+W rejestrze gromadzi się:
+1)
+informacje o rodzaju bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku w:
+a)
+gatunkach chronionych,
+b)
+chronionych siedliskach przyrodniczych,
+c)
+wodach,
+d)
+powierzchni ziemi;
+2)
+informację o charakterystyce bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku (opis sytuacji);
+3)
+informacje o miejscu wystąpienia bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku:
+a)
+adres (województwo, powiat, gmina, miejscowość, a także – o ile występuje – ulica i numer porządkowy),
+b)
+identyfikator działek ewidencyjnych,
+c)
+współrzędne miejsca lub wykaz współrzędnych punktów załamania granicy obszaru wystąpienia bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku, w obowiązującym państwowym układzie odniesień przestrzennych, o ile są dostępne,
+d)
+inne niż wskazane w lit. a-c informacje pozwalające na ustalenie miejsca wystąpienia bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku;
+4)
+informacje wskazujące, czy władającym powierzchnią ziemi, na której występuje bezpośrednie zagrożenie szkodą w środowisku lub szkoda w środowisku, jest:
+a)
+osoba fizyczna,
+b)
+podmiot korzystający ze środowiska,
+c)
+jednostka samorządu terytorialnego, ze wskazaniem organu, który ją reprezentuje w sprawach gospodarowania nieruchomościami,
+d)
+Skarb Państwa, ze wskazaniem organu, który go reprezentuje w sprawach gospodarowania nieruchomościami;
+5)
+datę, przedział czasowy lub inne informacje pozwalające na określenie czasu wystąpienia bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku;
+6)
+datę wykrycia bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku;
+7)
+opis przeprowadzonych działań zapobiegawczych lub naprawczych, a w przypadku bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku w powierzchni ziemi – opis remediacji, z podaniem sposobu jej przeprowadzenia zgodnie z art. 101q ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2016 r. poz. 672, 831, 903 i 1250), oraz osiągniętych w ich wyniku efektów ekologicznych;
+8)
+w przypadku bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku w gatunkach chronionych – nazwy gatunków chronionych;
+9)
+w przypadku bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku w chronionych siedliskach przyrodniczych – nazwy chronionych siedlisk przyrodniczych;
+10)
+w przypadku bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku w wodach:
+a)
+informację, czy bezpośrednie zagrożenie szkodą w środowisku lub szkoda w środowisku dotyczy wód podziemnych czy powierzchniowych,
+b)
+informację, czy znacząca negatywna zmiana lub zmiany w przypadku wystąpienia szkody w środowisku dotyczą:
+– potencjału ekologicznego wód powierzchniowych,
+– stanu ekologicznego wód powierzchniowych,
+– stanu chemicznego wód powierzchniowych lub podziemnych,
+– stanu ilościowego wód podziemnych,
+c)
+nazwy substancji stanowiących lub mogących stanowić zanieczyszczenie, o ile znacząca negatywna zmiana lub zmiany dotyczą stanu chemicznego wód powierzchniowych lub podziemnych;
+11)
+w przypadku bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku w powierzchni ziemi:
+a)
+nazwy substancji powodujących ryzyko, które zostały zawarte w zgłoszeniu lub dla których potwierdzono przekroczenie dopuszczalnych zawartości w glebie lub w ziemi zgodnie z przepisami wydanymi na podstawie art. 101a ust. 5 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska,
+b)
+przedział zawartości w glebie lub ziemi substancji powodujących ryzyko, dla których potwierdzono przekroczenie dopuszczalnych zawartości, wynikający z badań zanieczyszczenia nimi gleby i ziemi, wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, z uwzględnieniem przedziału głębokości, w którym dokonano badania zanieczyszczenia gleby lub ziemi, ze wskazaniem odpowiednio grupy i podgrupy gruntów, zgodnie z przepisami wydanymi na podstawie art. 101a ust. 5 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, lub wodoprzepuszczalności gleby i ziemi, określonej wartością współczynnika filtracji w m/s,
+c)
+informację o powierzchni zanieczyszczonej substancjami powodującymi ryzyko;
+12)
+imię i nazwisko albo nazwę oraz adres zamieszkania albo adres siedziby zgłaszającego bezpośrednie zagrożenie szkodą w środowisku lub szkodę w środowisku;
+13)
+informacje o obowiązanym do wykonania działań zapobiegawczych lub naprawczych:
+a)
+w przypadku podmiotu korzystającego ze środowiska, którego działalność była przyczyną bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku, o ile został on zidentyfikowany:
+– imię i nazwisko albo nazwę,
+– adres zamieszkania albo adres siedziby,
+– określenie przedmiotu wykonywanej działalności gospodarczej, zgodnie z Polską Klasyfikacją Działalności (PKD),
+b)
+w przypadku władającego powierzchnią ziemi, gdy jest on obowiązany do solidarnego z podmiotem korzystającym ze środowiska podjęcia działań:
+– imię i nazwisko albo nazwę,
+– adres zamieszkania albo adres siedziby,
+c)
+w przypadku organu ochrony środowiska – nazwę tego organu;
+14)
+informacje wskazujące, czy podmiotem obowiązanym do prowadzenia działań zapobiegawczych lub naprawczych jest:
+a)
+podmiot korzystający ze środowiska,
+b)
+podmiot korzystający ze środowiska solidarnie z władającym powierzchnią ziemi,
+c)
+organ ochrony środowiska;
+15)
+informacje na temat postępowań administracyjnych:
+a)
+wskazanie daty wszczęcia postępowania administracyjnego,
+b)
+wskazanie daty wydania decyzji, w tym decyzji wydanej przez organ odwoławczy, jej znaku, podstawy prawnej, nazwy organu wydającego decyzję oraz skan tej decyzji,
+c)
+informacje o odwołaniach od decyzji wskazujące:
+– imię i nazwisko lub nazwę adres zamieszkania albo adres siedziby odwołującego się,
+– nazwę organu, do którego wniesiono odwołanie,
+– przyczyny odwołania;
+16)
+informacje na temat orzeczeń sądowych, w szczególności datę i sygnaturę akt wyroku sądu administracyjnego wraz z przytoczeniem sentencji wyroku;
+17)
+informacje o statusie postępowania i o statusie działań zapobiegawczych i naprawczych:
+a)
+postępowanie administracyjne w toku,
+b)
+zakończone postępowanie administracyjne,
+c)
+postępowanie sądowoadministracyjne w toku,
+d)
+zakończone postępowanie sądowoadministracyjne,
+e)
+postępowanie egzekucyjne w toku,
+f)
+prowadzone działania zapobiegawcze lub naprawcze,
+g)
+zakończone działania zapobiegawcze lub naprawcze;
+18)
+informacje o finansowaniu działań zapobiegawczych lub naprawczych, o ile pozostają w posiadaniu organu ochrony środowiska:
+a)
+wskazujące źródła finansowania kosztów działań zapobiegawczych lub naprawczych,
+b)
+o bezpośrednim pokryciu kosztów przez obowiązanego do ich ponoszenia,
+c)
+o pełnym albo częściowym odzyskaniu kosztów od obowiązanego do ich ponoszenia w wyniku postępowania egzekucyjnego,
+d)
+o pełnym albo częściowym odzyskaniu kosztów ze środków zabezpieczenia finansowego podmiotu korzystającego ze środowiska,
+e)
+o przyczynie nieodzyskania całości albo części kosztów.
+§ 3.
+W rejestrze nie gromadzi się informacji z postępowania administracyjnego dotyczącego bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku, jeżeli decyzją ostateczną:
+1)
+orzeczono o umorzeniu tego postępowania albo
+2)
+odmówiono uzgodnienia warunków przeprowadzenia działań naprawczych w trybie art. 13 ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie z uwagi na brak stwierdzenia bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku
+a na decyzję tę nie została wniesiona skarga do sądu administracyjnego albo sąd administracyjny wydał postanowienie o odrzuceniu skargi lub orzekł prawomocnym wyrokiem o jej oddaleniu.
+§ 4.
+Informacje, o których mowa w § 2 pkt 11 lit. a i b, wynikające z postępowań administracyjnych zakończonych wydaniem decyzji w okresie obowiązywania rozporządzenia Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. poz. 1359), wskazuje się zgodnie z przepisami tego rozporządzenia.
+§ 5.
+Rozporządzenie wchodzi w życie z dniem 5 września 2016 r.
+1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1904 i 2095). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2004/35/WE Parlamentu Europejskiego i Rady z dnia 21 kwietnia 2004 r. w sprawie odpowiedzialności za środowisko w odniesieniu do zapobiegania i zaradzania szkodom wyrządzonym środowisku naturalnemu (Dz. Urz. UE L 143 z 30.04.2004, str. 56; Dz. Urz. UE L 102 z 11.04.2006, str. 15; Dz. Urz. UE L 140 z 05.06.2009, str. 114 i Dz. Urz. UE L 178 z 28.06.2013, str. 66; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 357). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 26 lutego 2008 r. w sprawie rejestru bezpośrednich zagrożeń szkodą w środowisku i szkód w środowisku (Dz. U. poz. 233), które zgodnie z art. 37 ustawy z dnia 11 lipca 2014 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. poz. 1101) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 

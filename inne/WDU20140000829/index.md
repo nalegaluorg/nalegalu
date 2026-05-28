@@ -8,12 +8,10 @@ pos: 829
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym oraz ustawy o działach administracji rządowej
-
-*USTAWA z dnia 30 maja 2014 r.*
+# Ustawa z dnia 30 maja 2014 r. o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym oraz ustawy o działach administracji rządowej
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +22,46 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2014-05-30 |
 | Data wydania | 2014-06-24 |
+| Wejście w życie | 2014-07-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000829) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/829/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym (Dz. U. Nr 17, poz. 141, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym (Dz. U. Nr 17, poz. 141, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2013 r. poz. 743 i 984 oraz z 2014 r. poz. 496) w art. 30 pkt 2 otrzymuje brzmienie: „2) związane z zachowaniem i rozwojem tożsamości kulturowej mniejszości narodowych i etnicznych, integracją obywatelską i społeczną osób należących do tych mniejszości, a także zachowaniem i rozwojem języka regionalnego.”.
+- **1)** art. 1 otrzymuje brzmienie: „ Ustawa reguluje sprawy związane z zachowaniem i rozwojem tożsamości kulturowej mniejszości narodowych i etnicznych, zachowaniem i rozwojem języka regionalnego, integracją obywatelską i społeczną osób należących do mniejszości narodowych i etnicznych, a także sposób realizacji zasady równego traktowania osób bez względu na pochodzenie etniczne oraz określa zadania i kompetencje organów administracji rządowej i jednostek samorządu terytorialnego w zakresie tych spraw. ” ;
+- **2)** w art. 3 w pkt 2 kropkę na końcu zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+- **3)** integracji społecznej – rozumie się przez to działania na rzecz poprawy ważnych aspektów życia społecznego osób należących do mniejszości, w szczególności warunków bytowych oraz dostępu do systemu oświaty, rynku pracy, systemu zabezpieczenia społecznego, a także opieki zdrowotnej. ” ;
+- **3)** tytuł rozdziału 3 otrzymuje brzmienie: „ Oświata, kultura oraz integracja obywatelska i społeczna ” ;
+- **4)** w art. 18: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Organy władzy publicznej są obowiązane podejmować odpowiednie środki w celu wspierania:
+
+- **1)** działalności zmierzającej do ochrony, zachowania i rozwoju tożsamości kulturowej mniejszości;
+- **2)** integracji obywatelskiej i społecznej. ” , w ust. 2 pkt 10 otrzymuje brzmienie: „
+    - **b)**
+
+- **10)** inne zadania zmierzające do osiągnięcia celów, o których mowa w ust. 1, w szczególności realizowane w ramach programów wieloletnich. ” , po ust. 3a dodaje się ust. 3b w brzmieniu: „
+    - **c)**
+
+3b. Jednostki samorządu terytorialnego mogą otrzymywać dotacje celowe z budżetu państwa na realizację zadań zmierzających do osiągnięcia celów, o których mowa w ust. 1. ” , ust. 4 otrzymuje brzmienie: „
+
+- **d)**
+
+4. Środkami, o których mowa w ust. 1, mogą być również środki przekazywane z budżetu jednostki samorządu terytorialnego organizacjom lub instytucjom, realizującym zadania służące ochronie, zachowaniu i rozwojowi tożsamości kulturowej mniejszości lub integracji obywatelskiej lub społecznej. ” ;
+
+- **5)** w art. 21 w ust. 2 w pkt 1: lit. a otrzymuje brzmienie: „ zachowania i rozwoju tożsamości, kultury i języka mniejszości, ” , w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ integracji obywatelskiej i społecznej; ” ;
+    - **a)**
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **6)** w art. 23 w ust. 2 pkt 2 otrzymuje brzmienie: „
+- **2)** opiniowanie programów służących tworzeniu warunków sprzyjających zachowaniu i rozwojowi tożsamości kulturowej mniejszości, zachowaniu i rozwojowi języka regionalnego, integracji obywatelskiej lub społecznej; ” .
+
+**Art. 2.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2013 r. poz. 743 i 984 oraz z 2014 r. poz. 496) w art. 30 pkt 2 otrzymuje brzmienie: „
+
+- **2)** związane z zachowaniem i rozwojem tożsamości kulturowej mniejszości narodowych i etnicznych, integracją obywatelską i społeczną osób należących do tych mniejszości, a także zachowaniem i rozwojem języka regionalnego. ” .
 
 **Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -8,12 +8,10 @@ pos: 303
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o rodzicielskim świadczeniu uzupełniającym
-
-*USTAWA z dnia 31 stycznia 2019 r.*
+# Ustawa z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2019-01-31 |
 | Data wydania | 2019-02-18 |
+| Wejście w życie | 2019-03-01 |
 | Ostatnia zmiana | 2025-11-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000303) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/303/text.pdf) |
 
@@ -34,6 +33,20 @@ source: "isap-pdf"
 2. Celem świadczenia jest zapewnienie niezbędnych środków utrzymania osobom, które zrezygnowały z zatrudnienia lub innej działalności zarobkowej albo ich nie podjęły ze względu na wychowywanie dzieci.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** dziecku – oznacza to dziecko własne lub współmałżonka lub dziecko przysposobione lub przyjęte na wychowanie w ramach rodziny zastępczej, z wyjątkiem rodziny zastępczej zawodowej;
+- **2)** dochodzie – oznacza to: przychody podlegające opodatkowaniu na zasadach określonych w art. 27, art. 30 ust. 1 pkt 4a, art. 30a-30c, art. 30e i art. 30f ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, z późn. zm.) pomniejszone o koszty uzyskania przychodu, należny podatek dochodowy od osób fizycznych, składki na ubezpieczenia społeczne niezaliczone do kosztów uzyskania przychodu oraz składki na ubezpieczenie zdrowotne, dochód z działalności podlegającej opodatkowaniu na podstawie przepisów o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, inne dochody niepodlegające opodatkowaniu na podstawie przepisów o podatku dochodowym od osób fizycznych: – renty określone w przepisach o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, – renty wypłacone osobom represjonowanym i członkom ich rodzin, przyznane na zasadach określonych w przepisach o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, – świadczenia pieniężne oraz ryczałt energetyczny określone w przepisach o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych, – dodatek kombatancki, ryczałt energetyczny i dodatek kompensacyjny określone w przepisach o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego, – świadczenie pieniężne określone w przepisach o osobach deportowanych do pracy przymusowej oraz osadzonych w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich, – emerytury i renty otrzymywane przez osoby, które utraciły wzrok w wyniku działań wojennych w latach 1939–1945 lub eksplozji pozostałych po tej wojnie niewypałów i niewybuchów, – świadczenia pieniężne wypłacane osobom uprawnionym na podstawie przepisów o świadczeniu pieniężnym i uprawnieniach przysługujących cywilnym niewidomym ofiarom działań wojennych, – renty inwalidzkie z tytułu inwalidztwa wojennego, kwoty zaopatrzenia otrzymywane przez ofiary wojny oraz członków ich rodzin, renty wypadkowe osób, których inwalidztwo powstało w związku z przymusowym pobytem na robotach w III Rzeszy Niemieckiej w latach 1939–1945, otrzymywane z zagranicy, – świadczenia pieniężne wypłacane na podstawie przepisów o weteranach działań poza granicami państwa, – emerytury i renty zagraniczne, – zasiłki chorobowe i zasiłki macierzyńskie określone w przepisach o ubezpieczeniu społecznym rolników, – zasiłki i świadczenia określone w przepisach o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, – środki bezzwrotnej pomocy zagranicznej otrzymywane od rządów państw obcych, organizacji międzynarodowych lub międzynarodowych instytucji finansowych, pochodzące ze środków bezzwrotnej pomocy przyznanych na podstawie jednostronnej deklaracji lub umów zawartych z tymi państwami, organizacjami lub instytucjami przez Radę Ministrów, właściwego ministra lub agencje rządowe, w tym również w przypadku gdy przekazanie tych środków jest dokonywane za pośrednictwem podmiotu upoważnionego do rozdzielania środków bezzwrotnej pomocy zagranicznej na rzecz podmiotów, którym ta pomoc ma służyć, – należności ze stosunku pracy osób fizycznych mających miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej przebywających czasowo za granicą w wysokości odpowiadającej równowartości diety z tytułu podróży służbowej poza granicami kraju określonej w przepisach w sprawie należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej, wydanych na podstawie art. 775§ 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm.), – należności pieniężne wypłacone policjantom, żołnierzom, celnikom i pracownikom jednostek wojskowych i jednostek policyjnych użytych poza granicami państwa w celu udziału w konflikcie zbrojnym lub wzmocnienia sił państwa albo państw sojuszniczych, misji pokojowej, akcji zapobieżenia aktom terroryzmu lub ich skutkom, a także należności pieniężne wypłacone żołnierzom, policjantom, celnikom i pracownikom pełniącym funkcje obserwatorów w misjach pokojowych organizacji międzynarodowych i sił wielonarodowych, – dochody członków rolniczych spółdzielni produkcyjnych z tytułu członkostwa w rolniczej spółdzielni produkcyjnej pomniejszone o składki na ubezpieczenia społeczne, – kwoty diet nieopodatkowanych podatkiem dochodowym od osób fizycznych, otrzymywanych przez osoby wykonujące czynności związane z pełnieniem obowiązków społecznych i obywatelskich, – należności pieniężne otrzymywane z tytułu wynajmu pokoi gościnnych w budynkach mieszkalnych położonych na terenach wiejskich w gospodarstwie rolnym osobom przebywającym na wypoczynku oraz uzyskane z tytułu wyżywienia tych osób, – dodatki za tajne nauczanie określone w ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2018 r. poz. 967 i 2245), – dochody uzyskane z działalności gospodarczej prowadzonej na podstawie zezwolenia na terenie specjalnej strefy ekonomicznej, określonej w przepisach o specjalnych strefach ekonomicznych, – ekwiwalenty pieniężne za deputaty węglowe określone w przepisach o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”, – ekwiwalenty pieniężne z tytułu prawa do bezpłatnego węgla określone w przepisach o restrukturyzacji górnictwa węgla kamiennego w latach 2003–2006, – świadczenia określone w przepisach o wykonywaniu mandatu posła i senatora, – dochody uzyskane z gospodarstwa rolnego, – dochody uzyskiwane za granicą Rzeczypospolitej Polskiej pomniejszone odpowiednio o zapłacone za granicą Rzeczypospolitej Polskiej podatek dochodowy oraz składki na obowiązkowe ubezpieczenia społeczne i obowiązkowe ubezpieczenie zdrowotne, – renty określone w przepisach o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej oraz w przepisach o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich, – świadczenia pieniężne wypłacane w przypadku bezskuteczności egzekucji alimentów, – kwoty otrzymane na podstawie art. 27f ust. 8–10 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, – świadczenie pieniężne i pomoc pieniężną określone w przepisach o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych, – dochody uzyskane z działalności gospodarczej określonej w decyzji o wsparciu, o której mowa w ustawie z dnia 10 maja 2018 r. o wspieraniu nowych inwestycji (Dz. U. poz. 1162), w części zwolnionej od podatku dochodowego na podstawie art. 21 ust. 1 pkt 63b ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **3)** emeryturach i rentach – oznacza to emerytury, renty rodzinne, renty inwalidzkie oraz renty z tytułu niezdolności do pracy, w tym renty szkoleniowe, określone w przepisach o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, o ubezpieczeniu społecznym rolników, o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin, o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego, uposażenia w stanie spoczynku określone w przepisach prawa o ustroju sądów powszechnych, o prokuraturze oraz o Sądzie Najwyższym, renty szkoleniowe i renty z tytułu niezdolności do pracy określone w przepisach o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych, renty z tytułu niezdolności do pracy określone w przepisach o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach, emerytury pomostowe określone w przepisach o emeryturach pomostowych, nauczycielskie świadczenia kompensacyjne określone w przepisach o nauczycielskich świadczeniach kompensacyjnych, zasiłki przedemerytalne i świadczenia przedemerytalne określone w przepisach o promocji zatrudnienia i instytucjach rynku pracy, renty socjalne określone w przepisach o rencie socjalnej, a także renty strukturalne określone w przepisach o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej oraz o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz okresowe emerytury kapitałowe określone w przepisach o emeryturach kapitałowych;
+- **4)** gospodarstwie rolnym – oznacza to gospodarstwo służące prowadzeniu działalności rolniczej;
+- **5)** najniższej emeryturze – oznacza to kwotę emerytury, o której mowa w art. 85 ust. 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2018 r. poz. 1270 i 2245 oraz z 2019 r. poz. 39);
+- **6)** organie rentowym – oznacza to jednostkę organizacyjną Zakładu Ubezpieczeń Społecznych lub Kasy Rolniczego Ubezpieczenia Społecznego lub inny organ emerytalno-rentowy wypłacający emeryturę lub rentę;
+- **7)** przepisach emerytalnych – oznacza to przepisy ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2019 r. poz. 299), ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2019 r. poz. 288) i ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2019 r. poz. 289);
+- **8)** przepisach o systemie ubezpieczeń społecznych – oznacza to przepisy ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2019 r. poz. 300);
+- **9)** wychowaniu – oznacza to sprawowanie osobistej opieki nad dziećmi polegającej na stałym, bezpośrednim i ciągłym wykonywaniu ogółu obowiązków spoczywających na rodzicach w ramach praw im przysługujących względem dzieci w celu należytego sprawowania pieczy nad nimi i nad ich majątkiem.
 
 **Art. 3.**
 
@@ -73,24 +86,19 @@ source: "isap-pdf"
 
 3. Wniosek zawiera:
 
-- **1)** dane osoby, która ubiega się o świadczenie:
-    - **a)** imię i nazwisko,
-    - **b)** datę urodzenia,
-    - **c)** numer PESEL albo, jeśli nie nadano tego numeru, serię i numer dowodu osobistego lub numer paszportu,
-    - **d)** adres miejsca zamieszkania,
-    - **e)** adres miejsca pobytu lub ostatniego miejsca zamieszkania w przypadku osoby nieposiadającej adresu miejsca zamieszkania,
-    - **f)** adres do korespondencji, jeśli jest inny niż adres zamieszkania;
+- **1)** dane osoby, która ubiega się o świadczenie: imię i nazwisko, datę urodzenia, numer PESEL albo, jeśli nie nadano tego numeru, serię i numer dowodu osobistego lub numer paszportu, adres miejsca zamieszkania, adres miejsca pobytu lub ostatniego miejsca zamieszkania w przypadku osoby nieposiadającej adresu miejsca zamieszkania, adres do korespondencji, jeśli jest inny niż adres zamieszkania;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
 
 - **2)** żądanie wnioskodawcy ze wskazaniem świadczenia, o jakie się ubiega;
 - **3)** wskazanie sposobu wypłaty świadczenia wraz z podaniem danych niezbędnych do jego wypłaty;
 - **4)** podpis wnioskodawcy lub jego przedstawiciela ustawowego albo pełnomocnika.
 
-4. Do wniosku należy dołączyć:
-
-- **1)** zagraniczny dokument stanu cywilnego potwierdzający urodzenie dziecka, jeżeli akt urodzenia dziecka nie jest sporządzony w rejestrze stanu cywilnego;
-- **2)** orzeczenie sądu o powierzeniu sprawowania pieczy zastępczej nad dzieckiem;
-- **3)** informację o numerach PESEL dzieci;
-- **4)** oświadczenie o sytuacji osobistej, rodzinnej, majątkowej i materialnej oraz innych okolicznościach, których ustalenie jest niezbędne do przyznania świadczenia.
+4. Do wniosku należy dołączyć akty urodzenia dzieci lub orzeczenia sądu o powierzeniu sprawowania pieczy zastępczej nad dzieckiem, informację o numerach PESEL dzieci oraz oświadczenie o sytuacji osobistej, rodzinnej, majątkowej i materialnej oraz innych okolicznościach, których ustalenie jest niezbędne do przyznania świadczenia.
 
 5. W oświadczeniu, o którym mowa w ust. 4, wnioskodawca potwierdza następujące okoliczności:
 
@@ -119,7 +127,7 @@ source: "isap-pdf"
 
 7. Do celów ustalenia wysokości dochodów uzyskiwanych z zagranicy organ, o którym mowa w art. 5 ust. 1 i 2, dokonuje przeliczenia równowartości w polskich złotych kwoty dochodu wyrażonej w walucie obcej, przy zastosowaniu kursu złotego do waluty obcej ogłoszonego przez Narodowy Bank Polski z dnia dokonywania przeliczenia przez ten organ, chyba że umowa międzynarodowa, której stroną jest Rzeczpospolita Polska, lub przepisy Unii Europejskiej stanowią inaczej.
 
-8. Oświadczenia, o których mowa w ust. 4, 5 i ust. 6 pkt 5, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+8. Oświadczenia, o których mowa w ust. 4, 5 i ust. 6 pkt 5, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „ Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia ” . Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
 **Art. 5.**
 
@@ -129,7 +137,7 @@ source: "isap-pdf"
 
 3. Przyznanie prawa do świadczenia lub odmowa przyznania prawa do świadczenia następuje w drodze decyzji.
 
-4. Od decyzji przyznającej prawo do świadczenia oraz od decyzji odmawiającej przyznania prawa do świadczenia stronie przysługuje prawo do wniesienia do organu, który wydał decyzję, wniosku o ponowne rozpatrzenie sprawy na zasadach dotyczących decyzji wydanej w pierwszej instancji przez ministra. Do wniosku stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769) dotyczące odwołań od decyzji oraz ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685 oraz z 2025 r. poz. 769 i 1427) dotyczące skarg.
+4. Od decyzji przyznającej prawo do świadczenia oraz od decyzji odmawiającej przyznania prawa do świadczenia stronie przysługuje prawo do wniesienia do organu, który wydał decyzję, wniosku o ponowne rozpatrzenie sprawy na zasadach dotyczących decyzji wydanej w pierwszej instancji przez ministra. Do wniosku stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096 oraz z 2019 r. poz. 60) dotyczące odwołań od decyzji oraz ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2018 r. poz. 1302, 1467, 1544 i 1629 oraz z 2019 r. poz. 11 i 60) dotyczące skarg.
 
 **Art. 6.**
 
@@ -141,8 +149,6 @@ source: "isap-pdf"
 
 4. Przepisów ust. 1 i 2 nie stosuje się, jeżeli organ, o którym mowa w art. 5 ust. 1 i 2, lub organ rentowy ma możliwość ustalenia we własnym zakresie okoliczności będących podstawą przyznania i wypłaty świadczenia.
 
-5. Organ, o którym mowa w art. 5 ust. 1 i 2, lub organ rentowy, w przypadku uzasadnionych wątpliwości co do zamieszczonych we wniosku danych dzieci wnioskodawcy, może potwierdzić te dane w rejestrze stanu cywilnego w sposób określony w art. 45 ust. 3 ustawy z dnia 28 listopada 2014 r. – Prawo o aktach stanu cywilnego (Dz. U. z 2025 r. poz. 594 i 1006).
-
 **Art. 7.**
 
 1. Wysokość świadczenia nie może być wyższa od najniższej emerytury.
@@ -151,7 +157,7 @@ source: "isap-pdf"
 
 3. Prawo do świadczenia powstaje od pierwszego dnia miesiąca, w którym wydano decyzję, nie wcześniej jednak niż od dnia osiągnięcia wieku, o którym mowa w art. 3 ust. 3.
 
-4. Na podstawie decyzji, o której mowa w ust. 3, organ rentowy podejmuje wypłatę świadczenia i zawiadamia o tym zainteresowanego. Do wypłaty świadczenia stosuje się odpowiednio przepisy emerytalne, z wyjątkiem art. 136 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, art. 47 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin i art. 46 ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin.
+4. Na podstawie decyzji, o której mowa w ust. 3, organ rentowy podejmuje wypłatę świadczenia i zawiadamia o tym zainteresowanego. Do wypłaty świadczenia stosuje się odpowiednio przepisy emerytalne, z wyjątkiem art. 136 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, art. 47 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin i art. 46 ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin.
 
 5. Zawiadomienie o podjęciu wypłaty świadczenia powinno określać w szczególności: organ rentowy, osobę uprawnioną do przyznanego świadczenia (z podaniem jej imienia i nazwiska), nazwę świadczenia, numer i symbol świadczenia, termin i tryb płatności świadczenia, datę, od której podejmuje się wypłatę, oraz wysokość świadczenia. Zawiadomienie powinno być opatrzone pieczęcią i podpisem osoby upoważnionej.
 
@@ -196,17 +202,17 @@ source: "isap-pdf"
 
 1. Prezes Zakładu Ubezpieczeń Społecznych i Prezes Kasy Rolniczego Ubezpieczenia Społecznego realizują zadania z zakresu świadczenia jako zadanie zlecone z zakresu administracji rządowej.
 
-2. Do finansowania świadczenia mają zastosowanie przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483).
+2. Do finansowania świadczenia mają zastosowanie przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077, z późn. zm.).
 
 3. Świadczenie i koszty jego obsługi są finansowane z budżetu państwa.
 
-4. Koszty obsługi, o których mowa w ust. 3, w przypadku organów, o których mowa w ust. 1, wynoszą 2,5 % kwoty wypłat świadczeń.
+4. Koszty obsługi, o których mowa w ust. 3, w przypadku organów, o których mowa w ust. 1, wynoszą 2,5% kwoty wypłat świadczeń.
 
 **Art. 11.**
 
 1. Do postępowania w sprawie świadczenia w zakresie nieuregulowanym w ustawie stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
-2. Od decyzji organu rentowego wydanej w sprawie ponownego ustalenia wysokości świadczenia, ustania prawa do świadczenia, wypłaty świadczenia oraz zwrotu nienależnie pobranego świadczenia przysługuje odwołanie do właściwego sądu w terminie i na zasadach określonych w przepisach ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841 oraz z 2025 r. poz. 620, 1172, 1302 i 1518).
+2. Od decyzji organu rentowego wydanej w sprawie ponownego ustalenia wysokości świadczenia, ustania prawa do świadczenia, wypłaty świadczenia oraz zwrotu nienależnie pobranego świadczenia przysługuje odwołanie do właściwego sądu w terminie i na zasadach określonych w przepisach ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 1360, z późn. zm.).
 
 3. Jeżeli organ rentowy uzna odwołanie za słuszne, zmienia lub uchyla decyzję niezwłocznie, nie później niż w terminie 30 dni od dnia wniesienia odwołania. W tym przypadku odwołaniu nie nadaje się dalszego biegu.
 
@@ -214,7 +220,111 @@ source: "isap-pdf"
 
 **Art. 12.** Organ, o którym mowa w art. 5 ust. 1 i 2, lub organ rentowy są uprawnione do pozyskiwania i przetwarzania danych osobowych w zakresie niezbędnym do przyznawania i ustania prawa do świadczenia, ustalania wysokości i wypłacania świadczenia.
 
-**Art. 13.** Rada Ministrów składa co 4 lata Sejmowi i Senatowi, w terminie do dnia 30 czerwca, sprawozdanie z realizacji ustawy za 4 lata poprzedzające rok złożenia sprawozdania. Art. 14–24. (pominięte)
+**Art. 13.** Rada Ministrów składa co 4 lata Sejmowi i Senatowi, w terminie do dnia 30 czerwca, sprawozdanie z realizacji ustawy za 4 lata poprzedzające rok złożenia sprawozdania.
+
+**Art. 14.** W ustawie z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2017 r. poz. 682 oraz z 2018 r. poz. 950) w art. 135 w § 3 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
+
+- **5)** rodzicielskie świadczenie uzupełniające, o którym mowa w ustawie z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym (Dz. U. poz. 303). ” .
+
+**Art. 15.** W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2019 r. poz. 299) wprowadza się następujące zmiany:
+
+- **1)** w art. 6 pkt 10c otrzymuje brzmienie: „
+- **10c)** ustalonym prawie do emerytury lub renty – rozumie się ustalone prawo do emerytury lub renty z ubezpieczenia albo ustalone prawo do emerytury lub renty na podstawie przepisów emerytalnych lub innych przepisów o zaopatrzeniu emerytalnym, albo ustalone prawo do emerytury pomostowej na podstawie przepisów o emeryturach pomostowych lub do nauczycielskich świadczeń kompensacyjnych na podstawie przepisów o nauczycielskich świadczeniach kompensacyjnych, a także ustalone prawo do zasiłku przedemerytalnego lub świadczenia przedemerytalnego, przyznanego na podstawie przepisów o promocji zatrudnienia i instytucjach rynku pracy, świadczenia o charakterze rentowym z instytucji zagranicznej oraz do rodzicielskiego świadczenia uzupełniającego, o którym mowa w ustawie z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym (Dz. U. poz. 303); ” ;
+- **2)** w art. 16 w ust. 2 po pkt 3 dodaje się pkt 3a w brzmieniu: „
+- **3a)** osobę pobierającą rodzicielskie świadczenie uzupełniające, o którym mowa w ustawie z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym – do uzyskania 25-letniego okresu ubezpieczenia emerytalno-rentowego, o którym mowa w art. 19 ust. 1 pkt 2; ” ;
+- **3)** w art. 36 w ust. 1 w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu: „
+- **11)** przyznania rodzicielskich świadczeń uzupełniających, o których mowa w ustawie z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym. ” .
+
+**Art. 16.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 21 w ust. 1 po pkt 95 dodaje się pkt 95a w brzmieniu: „
+- **95a)** odsetki z tytułu nieterminowej wypłaty zasiłków pieniężnych z ubezpieczenia społecznego; ” ;
+- **2)** w art. 34: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Organy rentowe są obowiązane jako płatnicy pobierać zaliczki miesięczne od wypłacanych bezpośrednio przez te organy emerytur i rent, świadczeń przedemerytalnych i zasiłków przedemerytalnych, nauczycielskich świadczeń kompensacyjnych, zasiłków pieniężnych z ubezpieczenia społecznego, rent strukturalnych, rent socjalnych oraz rodzicielskich świadczeń uzupełniających. ” , w ust. 4 w pkt 2 lit. a otrzymuje brzmienie: „ nie otrzymuje emerytury, renty lub rodzicielskiego świadczenia uzupełniającego za pośrednictwem płatnika, ” , w ust. 7 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Organy rentowe są obowiązane sporządzić i przekazać roczne obliczenie podatku, według ustalonego wzoru, podatnikom uzyskującym dochód z emerytur i rent, rent strukturalnych, rent socjalnych, świadczeń przedemerytalnych, zasiłków przedemerytalnych, nauczycielskich świadczeń kompensacyjnych i rodzicielskich świadczeń uzupełniających oraz urzędowi skarbowemu, przy pomocy którego właściwy według miejsca zamieszkania podatnika naczelnik urzędu skarbowego wykonuje swoje zadania, a w przypadku podatnika, o którym mowa w art. 3 ust. 2a, urzędowi skarbowemu, przy pomocy którego właściwy w sprawach opodatkowania osób zagranicznych naczelnik urzędu skarbowego wykonuje swoje zadania; obowiązek ten nie dotyczy podatników: ” , ust. 10 otrzymuje brzmienie: „
+
+- **b)**
+- **a)**
+- **c)**
+- **d)**
+
+10. Jeżeli podatnik dokonał zwrotu nienależnie pobranych emerytur i rent lub zasiłków z ubezpieczenia społecznego, rent strukturalnych, rent socjalnych, świadczeń przedemerytalnych, zasiłków przedemerytalnych, nauczycielskich świadczeń kompensacyjnych, rodzicielskich świadczeń uzupełniających, otrzymanych bezpośrednio z tego organu, a obowiązek poboru zaliczek przez ten organ trwa – organ rentowy odejmuje od dochodu kwoty zwrotów dokonanych w roku podatkowym przy ustalaniu wysokości zaliczek oraz w rocznym obliczeniu dochodu, zamieszczając na tym rozliczeniu odpowiednie informacje. ” .
+
+**Art. 17.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2019 r. poz. 300) w art. 73 w ust. 3 po pkt 6 dodaje się pkt 6a w brzmieniu: „
+
+- **6a)** przyznawanie rodzicielskich świadczeń uzupełniających, o których mowa w ustawie z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym (Dz. U. poz. 303); ” .
+
+**Art. 18.** W ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2017 r. poz. 1368, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 13 w ust. 1 pkt 4 otrzymuje brzmienie: „
+- **4)** jest uprawniona do zasiłku dla bezrobotnych, zasiłku przedemerytalnego, świadczenia przedemerytalnego, rodzicielskiego świadczenia uzupełniającego lub nauczycielskiego świadczenia kompensacyjnego; ” ;
+- **2)** w art. 18 ust. 7 otrzymuje brzmienie: „
+
+7. Świadczenie rehabilitacyjne nie przysługuje osobie uprawnionej do emerytury lub renty z tytułu niezdolności do pracy, zasiłku dla bezrobotnych, zasiłku przedemerytalnego, świadczenia przedemerytalnego, rodzicielskiego świadczenia uzupełniającego, nauczycielskiego świadczenia kompensacyjnego oraz do urlopu dla poratowania zdrowia, udzielonego na podstawie odrębnych przepisów. ” .
+
+**Art. 19.** W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2018 r. poz. 2220 i 2354 oraz z 2019 r. poz. 60) wprowadza się następujące zmiany:
+
+- **1)** w art. 3: w pkt 23 lit. d otrzymuje brzmienie: „ utratą zasiłku przedemerytalnego lub świadczenia przedemerytalnego, nauczycielskiego świadczenia kompensacyjnego, a także emerytury lub renty, renty rodzinnej, renty socjalnej lub rodzicielskiego świadczenia uzupełniającego, o którym mowa w ustawie z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym (Dz. U. poz. 303), ” , w pkt 24 lit. d otrzymuje brzmienie: „ uzyskaniem zasiłku przedemerytalnego lub świadczenia przedemerytalnego, nauczycielskiego świadczenia kompensacyjnego, a także emerytury lub renty, renty rodzinnej, renty socjalnej lub rodzicielskiego świadczenia uzupełniającego, o którym mowa w ustawie z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym, ” ;
+    - **a)**
+    - **d)**
+    - **b)**
+    - **d)**
+
+- **2)** w art. 16a w ust. 8 w pkt 1 lit. a otrzymuje brzmienie: „ ma ustalone prawo do emerytury, renty, renty rodzinnej z tytułu śmierci małżonka przyznanej w przypadku zbiegu prawa do renty rodzinnej i innego świadczenia emerytalno-rentowego, renty socjalnej, zasiłku stałego, nauczycielskiego świadczenia kompensacyjnego, zasiłku przedemerytalnego, świadczenia przedemerytalnego lub rodzicielskiego świadczenia uzupełniającego, o którym mowa w ustawie z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym, ” ;
+    - **a)**
+
+- **3)** w art. 17 w ust. 5 w pkt 1 lit. a otrzymuje brzmienie: „ ma ustalone prawo do emerytury, renty, renty rodzinnej z tytułu śmierci małżonka przyznanej w przypadku zbiegu prawa do renty rodzinnej i innego świadczenia emerytalno-rentowego, renty socjalnej, zasiłku stałego, nauczycielskiego świadczenia kompensacyjnego, zasiłku przedemerytalnego, świadczenia przedemerytalnego lub rodzicielskiego świadczenia uzupełniającego, o którym mowa w ustawie z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym, ” .
+    - **a)**
+
+**Art. 20.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 5 po pkt 20 dodaje się pkt 20a w brzmieniu: „
+- **20a)** osoba pobierająca rodzicielskie świadczenie uzupełniające – osobę, o której mowa w art. 3 ustawy z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym (Dz. U. poz. 303); ” ;
+- **2)** w art. 66 w ust. 1 po pkt 16 dodaje się pkt 16a w brzmieniu: „
+- **16a)** osoby pobierające rodzicielskie świadczenie uzupełniające; ” ;
+- **3)** po art. 72 dodaje się art. 72a w brzmieniu: „
+
+**Art. 72a.** Obowiązek ubezpieczenia zdrowotnego osób pobierających rodzicielskie świadczenie uzupełniające powstaje od dnia, od którego przysługuje jego wypłata, i wygasa z dniem zaprzestania pobierania świadczenia. ” ;
+
+- **4)** w art. 75 ust. 1 otrzymuje brzmienie: „
+
+1. Osoby pobierające emeryturę lub rentę lub rodzicielskie świadczenie uzupełniające zgłasza do ubezpieczenia zdrowotnego jednostka organizacyjna Zakładu Ubezpieczeń Społecznych określona w przepisach o systemie ubezpieczeń społecznych, właściwa do wydania decyzji w sprawach świadczeń, Kasa Rolniczego Ubezpieczenia Społecznego, właściwy organ emerytalny lub instytucja wypłacająca emeryturę lub rentę albo bank dokonujący wypłaty emerytury lub renty z zagranicy do 15. dnia miesiąca następującego po miesiącu, w którym powstał obowiązek ubezpieczenia lub zaistniały zmiany dotyczące tego obowiązku. ” ;
+
+- **5)** w art. 81 w ust. 8 po pkt 2 dodaje się pkt 2a w brzmieniu: „
+- **2a)** osób, o których mowa w art. 66 ust. 1 pkt 16a, jest kwota rodzicielskiego świadczenia uzupełniającego; ” ;
+- **6)** w art. 85 ust. 9 otrzymuje brzmienie: „
+
+9. Za osobę pobierającą emeryturę lub rentę lub rodzicielskie świadczenie uzupełniające składkę jako płatnik oblicza, pobiera z kwoty emerytury lub renty, o której mowa w art. 81 ust. 8 pkt 2 i ust. 9, albo z kwoty rodzicielskiego świadczenia uzupełniającego, o której mowa w art. 81 ust. 8 pkt 2a, i odprowadza jednostka organizacyjna Zakładu Ubezpieczeń Społecznych określona w przepisach o systemie ubezpieczeń społecznych, właściwa do wydawania decyzji w sprawach świadczeń, Kasa Rolniczego Ubezpieczenia Społecznego, inny właściwy organ emerytalny lub rentowy lub instytucja wypłacająca emeryturę lub rentę albo bank dokonujący wypłaty emerytury lub renty z zagranicy. ” .
+
+**Art. 21.** W ustawie z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2018 r. poz. 554, z późn. zm.) w art. 2:
+
+- **1)** w pkt 17 lit. d otrzymuje brzmienie: „ utratą zasiłku przedemerytalnego lub świadczenia przedemerytalnego, nauczycielskiego świadczenia kompensacyjnego, a także emerytury lub renty, renty rodzinnej, renty socjalnej lub rodzicielskiego świadczenia uzupełniającego, o którym mowa w ustawie z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym (Dz. U. poz. 303), ” ;
+    - **d)**
+
+- **2)** w pkt 18 lit. d otrzymuje brzmienie: „ uzyskaniem zasiłku przedemerytalnego lub świadczenia przedemerytalnego, nauczycielskiego świadczenia kompensacyjnego, a także emerytury lub renty, renty rodzinnej, renty socjalnej lub rodzicielskiego świadczenia uzupełniającego, o którym mowa w ustawie z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym, ” .
+    - **d)**
+
+**Art. 22.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077, z późn. zm.) w art. 50 w ust. 6 pkt 4 otrzymuje brzmienie: „
+
+- **4)** wypłat i obsługi świadczeń rodzinnych, rodzicielskich świadczeń uzupełniających, świadczeń z funduszu alimentacyjnego, świadczenia wychowawczego, dodatku wychowawczego, o którym mowa w przepisach o wspieraniu rodziny i systemie pieczy zastępczej, oraz finansowania składek na ubezpieczenia emerytalne i rentowe za osoby pobierające świadczenie pielęgnacyjne lub specjalny zasiłek opiekuńczy; ” .
+
+**Art. 23.** W ustawie z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U. z 2018 r. poz. 2134 i 2354 oraz z 2019 r. poz. 60) w art. 2:
+
+- **1)** w pkt 19 lit. d otrzymuje brzmienie: „ utratą zasiłku przedemerytalnego lub świadczenia przedemerytalnego, nauczycielskiego świadczenia kompensacyjnego, a także emerytury lub renty, renty rodzinnej, renty socjalnej lub rodzicielskiego świadczenia uzupełniającego, o którym mowa w ustawie z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym (Dz. U. poz. 303), ” ;
+    - **d)**
+
+- **2)** w pkt 20 lit. d otrzymuje brzmienie: „ uzyskaniem zasiłku przedemerytalnego lub świadczenia przedemerytalnego, nauczycielskiego świadczenia kompensacyjnego, a także emerytury lub renty, renty rodzinnej, renty socjalnej lub rodzicielskiego świadczenia uzupełniającego, o którym mowa w ustawie z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym, ” .
+    - **d)**
+
+**Art. 24.** W ustawie z dnia 26 stycznia 2018 r. – Przepisy wprowadzające ustawę o Straży Marszałkowskiej (Dz. U. poz. 730) wprowadza się następujące zmiany:
+
+- **1)** w przypisie 1 do tytułu ustawy wyrazy „oraz ustawę z dnia 10 stycznia 2018 r. o szczególnych rozwiązaniach związanych z organizacją w Rzeczypospolitej Polskiej sesji Konferencji Stron Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu” zastępuje się wyrazami „, ustawę z dnia 10 stycznia 2018 r. o szczególnych rozwiązaniach związanych z organizacją w Rzeczypospolitej Polskiej sesji Konferencji Stron Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu oraz ustawę z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym”;
+- **2)** po art. 38 dodaje się art. 38a w brzmieniu: „
+
+**Art. 38a.** W ustawie z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym (Dz. U. poz. 303) w art. 2 w pkt 3 i 7 oraz w art. 7 w ust. 4 po wyrazach „Straży Granicznej,” dodaje się wyrazy „Straży Marszałkowskiej,”,
+
+- **3)** w art. 47 w pkt 1 po wyrazach „w zakresie art. 35,” dodaje się wyrazy „art. 38a, ”” .
 
 **Art. 25.** Przepis art. 21 ust. 1 pkt 95a dodany ustawą zmienianą w art. 16 ma zastosowanie do dochodów (przychodów) uzyskanych od dnia 1 stycznia 2019 r.
 

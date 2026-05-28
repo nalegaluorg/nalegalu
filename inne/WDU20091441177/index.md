@@ -1,0 +1,40 @@
+---
+title: Ustawa z dnia 16 lipca 2009 r. o zmianie ustawy o wykonywaniu mandatu posła i senatora
+address: WDU20091441177
+eli: DU/2009/1177
+publisher: DU
+year: 2009
+pos: 1177
+act_type: Ustawa
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Ustawa z dnia 16 lipca 2009 r. o zmianie ustawy o wykonywaniu mandatu posła i senatora
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2009 nr 144 poz. 1177 |
+| ISAP | WDU20091441177 |
+| Typ aktu | Ustawa |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2009-07-16 |
+| Data wydania | 2009-09-04 |
+| Wejście w życie | 2009-10-01 |
+| Ostatnia zmiana | 2024-03-15 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091441177) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1177/text.pdf) |
+
+**Art. 1.** W ustawie z dnia 9 maja 1996 r. o wykonywaniu mandatu posła i senatora (Dz. U. z 2003 r. Nr 221, poz. 2199, z późn. zm.) w art. 25:
+
+- **1)** w ust. 3 po wyrazach „nie przysługuje” dodaje się wyrazy „, z zastrzeżeniem ust. 3a”;
+- **2)** dodaje się ust. 3a w brzmieniu: „
+
+3a. Posłowi lub senatorowi uprawnionemu do emerytury na podstawie:
+
+- **1)** ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.) albo ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2008 r. Nr 50, poz. 291, z późn. zm.), który ukończył 60 lat (kobieta) albo 65 lat (mężczyzna),
+- **2)** ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 66, z późn. zm.) albo ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 67, z późn. zm.), którego emerytura stanowi 75 % podstawy jej wymiaru bez uwzględnienia podwyższenia z tytułu inwalidztwa pozostającego w związku ze służbą uposażenie, o którym mowa w ust. 1 i 2, przysługuje również w razie pobierania emerytury. ” .
+
+**Art. 2.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.
+

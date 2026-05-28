@@ -8,12 +8,10 @@ pos: 24
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób
-
-*USTAWA z dnia 22 listopada 2013 r.*
+# Ustawa z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób
 
 | Pole | Wartość |
 |---|---|
@@ -24,14 +22,17 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2013-11-22 |
 | Data wydania | 2014-01-07 |
+| Wejście w życie | 2014-01-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000024) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/24/text.pdf) |
-
-Art. 49–53. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa reguluje postępowanie wobec osób, które spełniają łącznie następujące przesłanki:
+
+- **1)** odbywają prawomocnie orzeczoną karę pozbawienia wolności lub karę 25 lat pozbawienia wolności, wykonywaną w systemie terapeutycznym,
+- **2)** w trakcie postępowania wykonawczego występowały u nich zaburzenia psychiczne w postaci upośledzenia umysłowego, zaburzenia osobowości lub zaburzenia preferencji seksualnych,
+- **3)** stwierdzone u nich zaburzenia psychiczne mają taki charakter lub takie nasilenie, że zachodzi co najmniej wysokie prawdopodobieństwo popełnienia czynu zabronionego z użyciem przemocy lub groźbą jej użycia przeciwko życiu, zdrowiu lub wolności seksualnej, zagrożonego karą pozbawienia wolności, której górna granica wynosi co najmniej 10 lat zwanych dalej „osobami stwarzającymi zagrożenie”.
 
 **Art. 2.**
 
@@ -39,13 +40,11 @@ Art. 49–53. (pominięte)
 
 2. Czynności określone w rozdziale 3 wykonuje sąd właściwy dla siedziby zakładu karnego, czynności określone w rozdziale 4 – sąd właściwy dla miejsca stałego pobytu osoby stwarzającej zagrożenie, a czynności określone w rozdziałach 5 i 7 – sąd właściwy dla siedziby Krajowego Ośrodka Zapobiegania Zachowaniom Dyssocjalnym.
 
-3. W postępowaniu sądowym stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ) o postępowaniu nieprocesowym ze zmianami wynikającymi z niniejszej ustawy, z tym że do środków odwoławczych wnoszonych przez osobę, której dotyczy postępowanie uregulowane w niniejszej ustawie, nie ma zastosowania art. 368 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
+3. W postępowaniu sądowym stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.) o postępowaniu nieprocesowym ze zmianami wynikającymi z niniejszej ustawy, z tym że do środków odwoławczych wnoszonych przez osobę, której dotyczy postępowanie uregulowane w niniejszej ustawie, nie ma zastosowania art. 368 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
 
 4. Postępowanie określone w rozdziałach 3, 4 i 7 toczy się z udziałem prokuratora.
 
 **Art. 3.** Wobec osoby stwarzającej zagrożenie stosuje się nadzór prewencyjny albo umieszczenie w Krajowym Ośrodku Zapobiegania Zachowaniom Dyssocjalnym.
-
-**Art. 3a.** Ustawa ma zastosowanie do osób skazanych za czyn popełniony przed dniem wejścia w życie ustawy z dnia 20 lutego 2015 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 396).
 
 #### Rozdział 2 Krajowy Ośrodek Zapobiegania Zachowaniom Dyssocjalnym
 
@@ -53,7 +52,7 @@ Art. 49–53. (pominięte)
 
 1. Tworzy się Krajowy Ośrodek Zapobiegania Zachowaniom Dyssocjalnym, zwany dalej „Ośrodkiem”.
 
-2. Minister właściwy do spraw zdrowia jest dla Ośrodka podmiotem tworzącym w rozumieniu art. 2 ust. 1 pkt 6 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2022 r. poz. 633, 655, 974 i 1079).
+2. Minister właściwy do spraw zdrowia jest dla Ośrodka podmiotem tworzącym w rozumieniu art. 2 ust. 1 pkt 6 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2013 r. poz. 217).
 
 3. Zadaniem Ośrodka jest prowadzenie postępowania terapeutycznego wobec osób stwarzających zagrożenie umieszczonych w Ośrodku.
 
@@ -67,21 +66,9 @@ Art. 49–53. (pominięte)
 
 **Art. 6.**
 
-1. W Ośrodku powołuje się służbę ochrony, której zadania są realizowane przez pracowników wpisanych na listę kwalifikowanych pracowników ochrony fizycznej, o której mowa w art. 26 ust. 1 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2021 r. poz. 1995).
+1. W Ośrodku powołuje się służbę ochrony, której zadania są realizowane przez pracowników wpisanych na listę kwalifikowanych pracowników ochrony fizycznej, o której mowa w art. 26 ust. 1 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2005 r. Nr 145, poz. 1221, z późn. zm.).
 
 2. Do zadań służby ochrony należy ochrona osób przebywających w Ośrodku, ochrona mienia, zapewnienie bezpieczeństwa i porządku na terenie Ośrodka, a także zapewnienie, aby osoby stwarzające zagrożenie w nim umieszczone nie opuściły go i nie oddaliły się samowolnie.
-
-3. Zadania służby ochrony, w przypadku użyczenia przez jednostkę organizacyjną Służby Więziennej na rzecz Ośrodka nieruchomości zabudowanej, mogą być wykonywane przez funkcjonariuszy Służby Więziennej.
-
-**Art. 6a.**
-
-1. W przypadku użyczenia na czas określony przez jednostkę organizacyjną Służby Więziennej na rzecz Ośrodka nieruchomości zabudowanej, w celu umożliwienia przyjęcia większej liczby osób stwarzających zagrożenie, Dyrektor Generalny Służby Więziennej, na wniosek ministra właściwego do spraw zdrowia, może delegować do Ośrodka funkcjonariuszy Służby Więziennej do wykonywania zadań służby ochrony, jednak przez okres nie dłuższy niż 18 miesięcy od dnia przekazania w użyczenie nieruchomości.
-
-2. Funkcjonariusz Służby Więziennej może być delegowany do Ośrodka na okres do 6 miesięcy. Ponowne lub dłuższe delegowanie wymaga zgody funkcjonariusza.
-
-3. Do delegowania, o którym mowa w ust. 1 i 2, stosuje się przepisy art. 74 ust. 2 i ust. 3 pkt 1, art. 75 ust. 1 pkt 2 i ust. 2, art. 77–79, art. 80 ust. 1, 2 i 3, art. 81 oraz art. 82 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, 1728 i 2448 oraz z 2022 r. poz. 655 i 1115).
-
-4. Funkcjonariusze Służby Więziennej, delegowani na podstawie ust. 1 i 2, mają w zakresie stosowania przymusu bezpośredniego uprawnienia i obowiązki przewidziane w niniejszej ustawie dla pracowników służby ochrony.
 
 **Art. 7.**
 
@@ -89,13 +76,19 @@ Art. 49–53. (pominięte)
 
 2. Monitorowany obraz lub dźwięk jest utrwalany.
 
-3. Obraz z monitoringu pomieszczeń lub ich części przeznaczonych do celów sanitarno-higienicznych jest przekazywany w sposób uniemożliwiający ukazywanie intymnych części ciała ludzkiego oraz intymnych czynności fizjologicznych.
+3. Obraz z monitoringu pomieszczeń lub ich części przeznaczonych do celów sanitarnohigienicznych jest przekazywany w sposób uniemożliwiający ukazywanie intymnych części ciała ludzkiego oraz intymnych czynności fizjologicznych.
 
 4. Zapis utrwalonego obrazu i dźwięku podlega ochronie określonej w przepisach o ochronie danych osobowych. Dostęp do urządzeń monitorujących oraz do zapisu utrwalonego za ich pomocą mają wyłącznie osoby upoważnione przez kierownika Ośrodka.
 
 5. Zapis z monitoringu przechowuje się przez 6 miesięcy. Po upływie terminu przechowywania zapis usuwa się w sposób uniemożliwiający jego odzyskanie. Z usunięcia zapisu sporządza się protokół, w którym należy wskazać datę tej czynności oraz imię i nazwisko osoby, która dokonała usunięcia.
 
 **Art. 8.** Minister właściwy do spraw zdrowia w porozumieniu z Ministrem Sprawiedliwości określi, w drodze rozporządzenia:
+
+- **1)** liczbę łóżek w Ośrodku przeznaczonych dla osób stwarzających zagrożenie umieszczonych w Ośrodku,
+- **2)** wymagania ogólnoprzestrzenne, sanitarne i instalacyjne, jakie muszą spełniać pomieszczenia i urządzenia Ośrodka stosownie do rodzaju wykonywanej działalności leczniczej oraz zakresu udzielanych świadczeń zdrowotnych,
+- **3)** warunki zabezpieczenia Ośrodka,
+- **4)** rodzaj i liczebność personelu mającego styczność z osobami stwarzającymi zagrożenie umieszczonymi w Ośrodku,
+- **5)** rodzaje urządzeń i środków technicznych służących do przekazywania, odtwarzania i utrwalania obrazu lub dźwięku z monitoringu oraz sposób przechowywania, odtwarzania i niszczenia zapisów oraz udostępniania ich uprawnionym podmiotom mając na względzie potrzebę zapewnienia odpowiedniego postępowania terapeutycznego, bezpieczeństwa zdrowotnego osób stwarzających zagrożenie umieszczonych w Ośrodku, zapobieżenia samowolnemu oddaleniu się tych osób poza Ośrodek oraz przeciwdziałania zachowaniom zagrażającym życiu i zdrowiu ludzkiemu lub powodującym niszczenie mienia, a także konieczność właściwego zabezpieczenia monitorowanego obrazu lub dźwięku przed utratą, zniekształceniem lub nieuprawnionym ujawnieniem.
 
 #### Rozdział 3 Postępowanie przed sądem
 
@@ -108,6 +101,9 @@ Art. 49–53. (pominięte)
 2. Zakończenie odbywania kary pozbawienia wolności po złożeniu wniosku nie stanowi przeszkody do wydania orzeczenia w przedmiocie określonym w ust. 1.
 
 **Art. 11.** W celu ustalenia, czy osoba, której dotyczy wniosek, wykazuje zaburzenia, o których mowa w art. 1 pkt 3, w postaci upośledzenia umysłowego, zaburzenia osobowości lub zaburzenia preferencji seksualnych, sąd, w terminie 7 dni od dnia otrzymania wniosku, powołuje:
+
+- **1)** dwóch biegłych lekarzy psychiatrów;
+- **2)** w sprawach osób z zaburzeniami osobowości ponadto biegłego psychologa, a w sprawach osób z zaburzeniami preferencji seksualnych – ponadto biegłego lekarza seksuologa lub certyfikowanego psychologa seksuologa.
 
 **Art. 12.**
 
@@ -150,6 +146,11 @@ Art. 49–53. (pominięte)
 2. Kierownik podmiotu leczniczego, o którym mowa w ust. 1, informuje sąd i komendanta Policji sprawującego nadzór prewencyjny o uchylaniu się od obowiązku poddania się postępowaniu terapeutycznemu przez osobę stwarzającą zagrożenie.
 
 **Art. 17.** Wydając postanowienie o uznaniu osoby za osobę stwarzającą zagrożenie, sąd zarządza:
+
+- **1)** pobranie od tej osoby wymazu ze śluzówki policzków w celu przeprowadzenia analizy kwasu dezoksyrybonukleinowego (DNA);
+- **2)** pobranie od tej osoby odcisków linii papilarnych;
+- **3)** wykonanie zdjęć, szkiców i opisów wizerunku tej osoby;
+- **4)** umieszczenie wyników analizy DNA, odcisków linii papilarnych, zdjęć, szkiców i opisów wizerunków w odpowiednich bazach i zbiorach danych, o których mowa w ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2011 r. Nr 287, poz. 1687, ze zm.).
 
 **Art. 18.**
 
@@ -220,7 +221,7 @@ Art. 49–53. (pominięte)
 
 **Art. 26.**
 
-1. Osobie stwarzającej zagrożenie umieszczonej w Ośrodku nie przysługuje prawo wyboru lekarza i pielęgniarki podstawowej opieki zdrowotnej, świadczeniodawcy udzielającego ambulatoryjnych świadczeń opieki zdrowotnej, lekarza dentysty oraz szpitala, określone w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm. ).
+1. Osobie stwarzającej zagrożenie umieszczonej w Ośrodku nie przysługuje prawo wyboru lekarza i pielęgniarki podstawowej opieki zdrowotnej, świadczeniodawcy udzielającego ambulatoryjnych świadczeń opieki zdrowotnej, lekarza dentysty oraz szpitala, określone w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.).
 
 2. Świadczenia zdrowotne, których nie można udzielić w Ośrodku, są udzielane osobie stwarzającej zagrożenie umieszczonej w Ośrodku w pierwszej kolejności przez podmioty lecznicze dla osób pozbawionych wolności.
 
@@ -237,7 +238,7 @@ Art. 49–53. (pominięte)
 
 1. Od osoby stwarzającej zagrożenie umieszczonej w Ośrodku nie pobiera się opłat za świadczenia opieki zdrowotnej udzielane przez świadczeniodawcę, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej, o której mowa w art. 132 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 
-2. Osobie stwarzającej zagrożenie umieszczonej w Ośrodku przysługują ponadto, bez pobierania od niej opłat, wyroby medyczne, wyposażenie wyrobów medycznych, systemy i zestawy zabiegowe, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ), oraz wyroby medyczne do diagnostyki in vitro i wyposażenie wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. ), oraz produkty lecznicze.
+2. Osobie stwarzającej zagrożenie umieszczonej w Ośrodku przysługują ponadto, bez pobierania od niej opłat, wyroby, o których mowa w ustawie z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. Nr 107, poz. 679 oraz z 2011 r. Nr 102, poz. 586 i Nr 113, poz. 657), oraz produkty lecznicze.
 
 **Art. 28.**
 
@@ -285,7 +286,7 @@ Art. 49–53. (pominięte)
 - **1)** kierowania ustnych i pisemnych skarg dotyczących naruszenia jej praw;
 - **2)** uzyskania informacji o rozstrzygnięciu zgłoszonej sprawy.
 
-3. Do ochrony praw osób stwarzających zagrożenie umieszczonych w Ośrodku stosuje się odpowiednio art. 10b, art. 43 i art. 44 ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2020 r. poz. 685 oraz z 2022 r. poz. 974).
+3. Do ochrony praw osób stwarzających zagrożenie umieszczonych w Ośrodku stosuje się odpowiednio art. 10b, art. 43 i art. 44 ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2011 r. Nr 231, poz. 1375).
 
 **Art. 33.** Jeżeli osoba stwarzająca zagrożenie umieszczona w Ośrodku samowolnie opuści Ośrodek, kierownik Ośrodka niezwłocznie powiadamia o tym Policję, która podejmuje czynności w celu poszukiwania, zatrzymania i doprowadzenia tej osoby do Ośrodka. Przepis art. 20 stosuje się.
 
@@ -324,10 +325,10 @@ Art. 49–53. (pominięte)
 - **2)** przymusowym zastosowaniu produktów leczniczych;
 - **3)** założeniu pasów obezwładniających lub kaftana bezpieczeństwa;
 - **4)** izolacji;
-- **5)** użyciu:
-    - **a)** kajdanek,
-    - **b)** pałki służbowej,
-    - **c)** ręcznego miotacza substancji obezwładniających.
+- **5)** użyciu: kajdanek, pałki służbowej, ręcznego miotacza substancji obezwładniających.
+    - **a)**
+    - **b)**
+    - **c)**
 
 2. Nie stosuje się prewencyjnie przymusu bezpośredniego określonego w ust. 1 pkt 3 oraz w pkt 5 lit. b i c.
 
@@ -359,7 +360,7 @@ Art. 49–53. (pominięte)
 
 1. O zastosowaniu przymusu bezpośredniego określonego w art. 36 ust. 1 pkt 1 decyduje lekarz albo pracownik służby ochrony; w przypadku różnicy zdań rozstrzyga decyzja lekarza.
 
-2. O zastosowaniu przymusu bezpośredniego określonego w art. 36 ust. 1 pkt 2– 4 decyduje lekarz.
+2. O zastosowaniu przymusu bezpośredniego określonego w art. 36 ust. 1 pkt 2–4 decyduje lekarz.
 
 3. O zastosowaniu przymusu bezpośredniego określonego w art. 36 ust. 1 pkt 5 decyduje pracownik służby ochrony.
 
@@ -417,9 +418,9 @@ Art. 49–53. (pominięte)
 
 - **1)** służbowe dane identyfikacyjne pracownika;
 - **2)** określenie czasu i miejsca zastosowania przymusu bezpośredniego;
-- **3)** następujące dane osoby, wobec której zastosowano przymus bezpośredni:
-    - **a)** imię, nazwisko i datę urodzenia,
-    - **b)** serię i numer dokumentu tożsamości lub numer PESEL;
+- **3)** następujące dane osoby, wobec której zastosowano przymus bezpośredni: imię, nazwisko i datę urodzenia, serię i numer dokumentu tożsamości lub numer PESEL;
+    - **a)**
+    - **b)**
 
 - **4)** określenie celu zastosowania przymusu bezpośredniego;
 - **5)** informację o przyczynie zastosowania przymusu bezpośredniego;
@@ -427,9 +428,9 @@ Art. 49–53. (pominięte)
 - **7)** opis czynności zrealizowanych przed zastosowaniem przymusu bezpośredniego i po zastosowaniu tego przymusu;
 - **8)** opis skutków zastosowania przymusu bezpośredniego;
 - **9)** informację o udzieleniu pierwszej pomocy i jej zakresie lub zapewnieniu udzielenia kwalifikowanej pierwszej pomocy lub medycznych czynności ratunkowych;
-- **10)** następujące dane ustalonych świadków zdarzenia:
-    - **a)** imię i nazwisko oraz serię i numer dokumentu tożsamości lub numer PESEL albo
-    - **b)** służbowe dane identyfikacyjne, jeżeli świadkiem zdarzenia był pracownik służby ochrony albo funkcjonariusz posługujący się takimi danymi;
+- **10)** następujące dane ustalonych świadków zdarzenia: imię i nazwisko oraz serię i numer dokumentu tożsamości lub numer PESEL albo służbowe dane identyfikacyjne, jeżeli świadkiem zdarzenia był pracownik służby ochrony albo funkcjonariusz posługujący się takimi danymi;
+    - **a)**
+    - **b)**
 
 - **11)** podpis stosującego przymus bezpośredni.
 
@@ -465,6 +466,57 @@ Art. 49–53. (pominięte)
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących
 
+**Art. 49.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2011 r. Nr 287, poz. 1687, ze. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 15 w ust. 1 w pkt 3a lit. a otrzymuje brzmienie: „ w trybie i przypadkach określonych w przepisach Kodeksu postępowania karnego oraz ustawy z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób (Dz. U. z 2014 r. poz. 24), ” ;
+    - **a)**
+
+- **2)** w art. 20 ust. 2a otrzymuje brzmienie: „
+
+2a. Policja może pobierać, uzyskiwać, gromadzić, przetwarzać i wykorzystywać w celu realizacji zadań ustawowych informacje, w tym dane osobowe, o następujących osobach, także bez ich wiedzy i zgody:
+
+- **1)** osobach podejrzanych o popełnienie przestępstw ściganych z oskarżenia publicznego;
+- **2)** nieletnich dopuszczających się czynów zabronionych przez ustawę jako przestępstwa ścigane z oskarżenia publicznego;
+- **3)** osobach o nieustalonej tożsamości lub usiłujących ukryć swoją tożsamość;
+- **4)** osobach stwarzających zagrożenie, o których mowa w ustawie z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób;
+- **5)** osobach poszukiwanych. ” ;
+- **3)** w art. 21a w ust. 2: w pkt 1 w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „ osób stwarzających zagrożenie, o których mowa w ustawie z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób; ” , w pkt 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ dane dotyczące osób, o których mowa w pkt 1 lit. a i e, obejmujące: ” ;
+    - **a)**
+    - **e)**
+    - **b)**
+
+- **4)** w art. 21b pkt 1 otrzymuje brzmienie: „
+- **1)** organu prowadzącego postępowanie przygotowawcze lub sądu – w przypadku analizy kwasu dezoksyrybonukleinowego (DNA) przeprowadzonej w związku z postępowaniem karnym, postępowaniem w sprawach nieletnich lub postępowaniem określonym w ustawie z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób; ” ;
+- **5)** w art. 21d ust. 2 otrzymuje brzmienie: „
+
+2. Próbki biologiczne i informacje dotyczące wyników analizy kwasu dezoksyrybonukleinowego (DNA) podejrzanych, oskarżonych lub skazanych w związku z popełnieniem zbrodni lub występków określonych w rozdziałach XVI-XX, XXV i XXXV Kodeksu karnego, osób określonych w art. 94 § 1 Kodeksu karnego, a także osób stwarzających zagrożenie, o których mowa w ustawie z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób, mogą być przechowywane w bazie danych DNA przez okres do 35 lat. ” .
+
+**Art. 50.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 12 w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „
+- **10)** art. 16 ust. 1 i art. 25 ustawy z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób (Dz. U. z 2014 r. poz. 24). ” ;
+- **2)** art. 13a otrzymuje brzmienie: „ Minister właściwy do spraw zdrowia w porozumieniu z Ministrem Sprawiedliwości oraz ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, sposób i tryb finansowania z budżetu państwa świadczeń opieki zdrowotnej:
+- **1)** udzielanych świadczeniobiorcom, o których mowa w art. 2 ust. 1 pkt 2 i 3,
+- **2)** o których mowa w art. 12 pkt 2–6, 9 i 10, art. 12a oraz art. 26 uwzględniając zasady i sposób wydatkowania środków publicznych oraz zapewnienie skuteczności udzielania świadczeń opieki zdrowotnej. ” .
+
+**Art. 51.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2010 r. Nr 90, poz. 594, z późn. zm.) po art. 98 dodaje się art. 98a w brzmieniu: „
+
+**Art. 98a.** W postępowaniu prowadzonym na podstawie ustawy z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób (Dz. U. z 2014 r. poz. 24) nie pobiera się opłat, a wydatki ponosi Skarb Państwa. ” .
+
+**Art. 52.** W ustawie z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2013 r. poz. 217) wprowadza się następujące zmiany:
+
+- **1)** w art. 37 po ust. 4 dodaje się ust. 4a w brzmieniu: „
+
+4a. Do Krajowego Ośrodka Zapobiegania Zachowaniom Dyssocjalnym, o którym mowa w ustawie z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób (Dz. U. z 2014 r. poz. 24), przepisy ustawy stosuje się odpowiednio, z tym że przepisów art. 22, art. 29, art. 30, art. 34, art. 35, art. 36 ust. 3, art. 44, art. 45, art. 49 ust. 1 pkt 1 i art. 50 oraz przepisów oddziału 2 w rozdziale 3 działu II nie stosuje się. ” ;
+
+- **2)** w art. 88 po ust. 3 dodaje się ust. 3a w brzmieniu: „
+
+3a. Pracownikom podmiotu leczniczego, o którym mowa w art. 37 ust. 4a, przysługuje oprócz składników wynagrodzenia, o których mowa w ust. 1, dodatek w wysokości od 10% do 50% miesięcznego wynagrodzenia zasadniczego. Dodatek przysługuje pracownikom, którzy przy wykonywaniu swoich obowiązków mają bezpośredni kontakt z osobami, wobec których sąd orzekł o umieszczeniu w tym podmiocie. ” .
+
+**Art. 53.** W ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. poz. 628 i 1165) w art. 3 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
+
+- **7)** ustawie z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób (Dz. U. z 2014 r. poz. 24). ” .
+
 #### Rozdział 9 Przepisy przejściowe i końcowe
 
 **Art. 54.** Do czasu spełnienia przez Ośrodek warunków określonych w rozporządzeniu wydanym na podstawie art. 8 oraz w przepisach odrębnych, jednakże przez okres nie dłuższy niż 18 miesięcy od dnia wejścia w życie ustawy, można umieszczać w Ośrodku osoby stwarzające zagrożenie, jeżeli zapewniono właściwe zabezpieczenie Ośrodka i możliwość udzielania świadczeń terapeutycznych.
@@ -475,7 +527,7 @@ Art. 49–53. (pominięte)
 
 2. Funkcjonariusz Służby Więziennej może być delegowany do Ośrodka na okres do 6 miesięcy. Ponowne lub dalsze delegowanie wymaga zgody funkcjonariusza.
 
-3. Minister Sprawiedliwości wypłaca delegowanym funkcjonariuszom świadczenia, należności oraz ich równoważniki przewidziane w art. 80 ust. 1 i 2 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej. Do celów związanych z pełnieniem służby w Służbie Więziennej oraz obliczania uposażenia i innych należności pieniężnych funkcjonariusza w okresie oddelegowania, Dyrektor Generalny zalicza stanowisko służbowe zajmowane w Ośrodku do odpowiedniej grupy uposażenia zasadniczego funkcjonariuszy oraz ustala stopień Służby Więziennej, do którego zaszeregowuje to stanowisko, przy czym uposażenie funkcjonariusza obliczone w ten sposób nie może być niższe od dotychczas otrzymywanego.
+3. Minister Sprawiedliwości wypłaca delegowanym funkcjonariuszom świadczenia, należności oraz ich równoważniki przewidziane w art. 80 ust. 1 i 2 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. Nr 79, poz. 523, z późn. zm.). Do celów związanych z pełnieniem służby w Służbie Więziennej oraz obliczania uposażenia i innych należności pieniężnych funkcjonariusza w okresie oddelegowania, Dyrektor Generalny zalicza stanowisko służbowe zajmowane w Ośrodku do odpowiedniej grupy uposażenia zasadniczego funkcjonariuszy oraz ustala stopień Służby Więziennej, do którego zaszeregowuje to stanowisko, przy czym uposażenie funkcjonariusza obliczone w ten sposób nie może być niższe od dotychczas otrzymywanego.
 
 4. Do delegowania funkcjonariusza Służby Więziennej do Ośrodka nie stosuje się art. 74–78 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej.
 
@@ -494,21 +546,21 @@ Art. 49–53. (pominięte)
 - **7)** w 2019 r. – 7 000 000 zł,
 - **8)** w 2020 r. – 7 000 000 zł,
 - **9)** w 2021 r. – 7 000 000 zł,
-- **10)** w 2022 r. – 7 000 000 zł – pod warunkiem, że liczba osób skierowanych do Krajowego Ośrodka Zapobiegania Zachowaniom Dyssocjalnym nie przekroczy 10.
+- **10)** w 2022 r. – 7 000 000 zł pod warunkiem, że liczba osób skierowanych do Krajowego Ośrodka Zapobiegania Zachowaniom Dyssocjalnym nie przekroczy 10.
 
 2. Jeżeli liczba osób, o której mowa w ust. 1, zostanie przekroczona, wówczas, począwszy od kolejnego roku (rok X), maksymalny limit wydatków budżetu państwa będący skutkiem finansowym ustawy wynosi:
 
 - **1)** w roku X – 15 000 000 zł;
 - **2)** w roku X + 1 – 35 000 000 zł;
 - **3)** w roku X + 2 – 30 600 000 zł;
-- **4)** w roku X + 3 – 59 370 000 zł;
-- **5)** w roku X+4 – 65 375 000 zł;
-- **6)** w roku X+5 – 56 886 870 zł;
-- **7)** w roku X + 6 – 94 925 630 zł;
-- **8)** w roku X + 7 – 100 668 250 zł;
-- **9)** w roku X + 8 – 129 700 000 zł;
-- **10)** w roku X + 9 – 136 510 000 zł;
-- **11)** w roku X + 10 – 139 602 500 zł.
+- **4)** w roku X + 3 – 20 000 000 zł;
+- **5)** w roku X + 4 – 20 000 000 zł;
+- **6)** w roku X + 5 – 20 000 000 zł;
+- **7)** w roku X + 6 – 20 000 000 zł;
+- **8)** w roku X + 7 – 20 000 000 zł;
+- **9)** w roku X + 8 – 20 000 000 zł;
+- **10)** w roku X + 9 – 20 000 000 zł;
+- **11)** w roku X + 10 – 20 000 000 zł.
 
 3. Minister właściwy do spraw zdrowia monitoruje wykorzystanie zaplanowanych na dany rok wydatków i dokonuje, co najmniej cztery razy w roku, według stanu na koniec każdego kwartału, analizy stopnia wykorzystania zaplanowanych na dany rok wydatków.
 
@@ -516,9 +568,9 @@ Art. 49–53. (pominięte)
 
 - **1)** po pierwszym kwartale – co najmniej o 15%,
 - **2)** po dwóch kwartałach – co najmniej o 10%,
-- **3)** po trzech kwartałach – co najmniej o 5% – minister właściwy do spraw zdrowia stosuje mechanizm korygujący, polegający na ograniczeniu tych wydatków.
+- **3)** po trzech kwartałach – co najmniej o 5% minister właściwy do spraw zdrowia stosuje mechanizm korygujący, polegający na ograniczeniu tych wydatków.
 
-**Art. 57.** Akty wykonawcze wydane na podstawie art. 13a ustawy, o której mowa w art. 50 oraz art. 88 ust. 9 ustawy, o której mowa w art. 52 , zachowują moc do dnia wejścia w życie odpowiednio aktów wykonawczych wydanych na podstawie art. 13a ustawy, o której mowa w art. 50, w brzmieniu nadanym niniejszą ustawą oraz art. 88 ust. 9 ustawy, o której mowa w art. 52, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+**Art. 57.** Akty wykonawcze wydane na podstawie art. 13a ustawy, o której mowa w art. 50 oraz art. 88 ust. 9 ustawy, o której mowa w art. 52, zachowują moc do dnia wejścia w życie odpowiednio aktów wykonawczych wydanych na podstawie art. 13a ustawy, o której mowa w art. 50, w brzmieniu nadanym niniejszą ustawą oraz art. 88 ust. 9 ustawy, o której mowa w art. 52, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 58.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+**Art. 58.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

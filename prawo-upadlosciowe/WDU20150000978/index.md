@@ -8,12 +8,10 @@ pos: 978
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Prawo restrukturyzacyjne
-
-*USTAWA z dnia 15 maja 2015 r.*
+# Ustawa z dnia 15 maja 2015 r.Prawo restrukturyzacyjne
 
 | Pole | Wartość |
 |---|---|
@@ -24,20 +22,1043 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2015-05-15 |
 | Data wydania | 2015-07-14 |
+| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2026-04-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000978) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/978/text.pdf) |
 
-Art. 401–447. (pominięte)
+Treść ustawy Tytuł I – Przepisy ogólne o postępowaniach restrukturyzacyjnych i ich skutkach Dział I – Przepisy ogólne Rozdział 1 – Przepisy wstępne Rozdział 2 – Podstawy otwarcia postępowania Rozdział 3 – Plan restrukturyzacyjny Rozdział 4 – Zbieg postępowania restrukturyzacyjnego i upadłościowego Dział II – Sąd i sędzia-komisarz Rozdział 1 – Sąd Rozdział 2 – Sędzia-komisarz Dział III – Nadzorca i zarządca Rozdział 1 – Przepisy ogólne Rozdział 2 – Nadzorca układu Rozdział 3 – Nadzorca sądowy Rozdział 4 – Zarządca Dział IV – Uczestnicy postępowania Rozdział 1 – Przepisy ogólne Rozdział 2 – Spis wierzytelności Rozdział 3 – Zgromadzenie wierzycieli Rozdział 4 – Rada wierzycieli Dział V – Pomoc publiczna Dział VI – Układ Rozdział 1 – Przepisy ogólne Rozdział 2 – Propozycje układowe Rozdział 3 – Zatwierdzenie układu Rozdział 4 – Skutki układu Rozdział 5 – Zmiana układu Rozdział 6 – Uchylenie i wygaśnięcie układu Dział VII – Układ częściowy Dział VIII – Przepisy ogólne dotyczące postępowania restrukturyzacyjnego Tytuł II – Przepisy szczególne o postępowaniach restrukturyzacyjnych i ich skutkach Dział I – Postępowanie o zatwierdzenie układu Dział II – Przyspieszone postępowanie układowe Rozdział 1 – Wniosek o otwarcie przyspieszonego postępowania układowego Rozdział 2 – Postanowienie o otwarciu przyspieszonego postępowania układowego Rozdział 3 – Skutki otwarcia przyspieszonego postępowania układowego Rozdział 4 – Przebieg przyspieszonego postępowania układowego Dział III – Postępowanie układowe Rozdział 1 – Postępowanie o otwarcie postępowania układowego Rozdział 2 – Skutki otwarcia postępowania układowego Rozdział 3 – Przebieg postępowania układowego Dział IV – Postępowanie sanacyjne Rozdział 1 – Postępowanie o otwarcie postępowania sanacyjnego Rozdział 2 – Skutki otwarcia postępowania sanacyjnego Rozdział 3 – Przygotowanie i realizacja planu restrukturyzacyjnego Rozdział 4 – Przebieg postępowania sanacyjnego Dział V – Zakończenie i umorzenie postępowania restrukturyzacyjnego Dział VI – Uproszczony wniosek o ogłoszenie upadłości Tytuł III – Przepisy z zakresu międzynarodowego postępowania restrukturyzacyjnego Dział I – Przepisy ogólne Dział II – Jurysdykcja krajowa Dział III – Współpraca z sądami zagranicznymi i zarządcami zagranicznymi Tytuł IV – Odrębne postępowania restrukturyzacyjne Dział I – Postępowanie restrukturyzacyjne wobec deweloperów Dział II – Postępowanie restrukturyzacyjne wobec emitentów obligacji Dział III – Postępowanie restrukturyzacyjne wobec banków i spółdzielczych kas oszczędnościowo-kredytowych Rozdział 1 – Przepisy ogólne Rozdział 2 – Postępowanie restrukturyzacyjne wobec banków hipotecznych Rozdział 3 – Postępowanie restrukturyzacyjne wobec instytucji kredytowych, banków zagranicznych oraz banków krajowych prowadzących działalność za granicą Tytuł V – Przepisy karne Tytuł VI – Zmiany w przepisach obowiązujących, przepisy przejściowe i przepis końcowy Dział I – Zmiany w przepisach obowiązujących Dział II – Przepisy przejściowe Dział III – Przepis końcowy
+1.
+Do wniosku o ogłoszenie upadłości może być dołączony wniosek o zatwierdzenie warunków sprzedaży przedsiębiorstwa dłużnika lub jego zorganizowanej części lub składników majątkowych stanowiących znaczną część przedsiębiorstwa.
+2.
+Niedopuszczalne jest złożenie wniosku o zatwierdzenie warunków sprzedaży w odniesieniu do składników majątkowych objętych zastawem rejestrowym, jeżeli umowa o ustanowienie zastawu rejestrowego przewiduje przejęcie przedmiotu zastawu albo jego sprzedaż na podstawie art. 24 ustawy z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów (Dz. U. z 2009 r. Nr 67, poz. 569, z późn. zm.), chyba że do wniosku zostanie dołączona pisemna zgoda zastawnika. Przepis art. 330 stosuje się odpowiednio.
+3.
+Do wniosku o zatwierdzenie warunków sprzedaży dołącza się opis i oszacowanie składnika objętego wnioskiem sporządzone przez osobę wpisaną na listę biegłych sądowych.
+4.
+Wniosek o zatwierdzenie warunków sprzedaży musi zawierać warunki sprzedaży przez wskazanie co najmniej ceny oraz nabywcy. Warunki sprzedaży mogą być określone w złożonym projekcie umowy, która ma być zawarta przez syndyka.
+5.
+Wniosek o zatwierdzenie warunków sprzedaży może przewidywać wydanie przedsiębiorstwa nabywcy z dniem ogłoszenia upadłości dłużnika. W takim przypadku do wniosku dołącza się dowód wpłaty pełnej ceny na rachunek depozytowy sądu.
+1.
+Sprzedaż, o której mowa w niniejszym dziale, na rzecz podmiotów wskazanych w art. 128 dopuszczalna jest wyłącznie po cenie sprzedaży nie niższej niż cena oszacowania. Cenę oszacowania ustala sąd na podstawie dowodu z opinii biegłego.
+2.
+Wnioskodawca i potencjalny nabywca składają oświadczenie, czy między nimi a dłużnikiem nie zachodzą stosunki, o których mowa w art. 128.
+1.
+Sąd uwzględnia wniosek o zatwierdzenie warunków sprzedaży, jeżeli cena jest wyższa niż kwota możliwa do uzyskania w postępowaniu upadłościowym przy likwidacji na zasadach ogólnych, pomniejszona o koszty postępowania, które należałoby ponieść w związku z likwidacją w takim trybie.
+2.
+Sąd może uwzględnić wniosek, jeżeli cena jest zbliżona do kwoty możliwej do uzyskania w postępowaniu upadłościowym przy likwidacji na zasadach ogólnych, pomniejszonej o koszty postępowania, które należałoby ponieść w związku z likwidacją w takim trybie, jeżeli przemawia za tym ważny interes publiczny lub możliwość zachowania przedsiębiorstwa dłużnika.
+1.
+Uwzględniając wniosek, sąd w postanowieniu o ogłoszeniu upadłości zatwierdza warunki sprzedaży, określając co najmniej cenę oraz nabywcę mienia będącego przedmiotem sprzedaży, o której mowa w niniejszym dziale. W postanowieniu sąd może także odwołać się do warunków sprzedaży określonych w projekcie umowy.
+2.
+Na postanowienie oddalające wniosek o zatwierdzenie warunków sprzedaży zażalenie przysługuje wnioskodawcy, a na postanowienie uwzględniające wniosek – każdemu z wierzycieli. Zażalenie można wnieść w terminie tygodnia od dnia obwieszczenia w Rejestrze.
+1.
+Syndyk zawiera umowę sprzedaży na warunkach określonych w postanowieniu sądu nie później niż w terminie trzydziestu dni od dnia uprawomocnienia się tego postanowienia, chyba że zaakceptowane przez sąd warunki umowy przewidywały inny termin.
+2.
+Zawarcie umowy sprzedaży może nastąpić wyłącznie po wpłaceniu przez nabywcę całej ceny do masy upadłości lub po wydaniu syndykowi ceny złożonej wcześniej do depozytu.
+3.
+Do skutków sprzedaży według przepisów niniejszego rozdziału przepisy art. 313, art. 314 i art. 317 stosuje się.
+1.
+Jeżeli do wniosku o zatwierdzenie warunków sprzedaży był dołączony dowód wpłaty pełnej ceny na rachunek depozytowy sądu, wydanie przedsiębiorstwa nabywcy następuje niezwłocznie po wydaniu postanowienia o ogłoszeniu upadłości.
+2.
+Wydanie przedsiębiorstwa nabywcy następuje bezpośrednio do rąk nabywcy, przy udziale syndyka. Przepis art. 174 stosuje się odpowiednio.
+3.
+Do czasu uprawomocnienia się postanowienia zatwierdzającego warunki sprzedaży i zawarcia umowy sprzedaży nabywca zarządza nabytym majątkiem w granicach zwykłego zarządu na własne ryzyko i odpowiedzialność.
+4.
+Uchylając postanowienie zatwierdzające warunki sprzedaży, sąd zobowiązuje nabywcę do zwrotu przedsiębiorstwa do rąk syndyka lub dłużnika. Postanowienie jest tytułem egzekucyjnym przeciwko nabywcy.
+1.
+Po uprawomocnieniu się postanowienia zatwierdzającego warunki sprzedaży sąd z urzędu lub na wniosek syndyka postanowi o wydaniu syndykowi ceny złożonej do depozytu.
+2.
+W innych przypadkach niż określony w ust. 1 o wydaniu ceny z depozytu orzeka na wniosek nabywcy sąd w terminie trzydziestu dni od dnia wydania przedsiębiorstwa syndykowi lub dłużnikowi. Syndyk lub dłużnik może złożyć wniosek o zatrzymanie ceny w depozycie na kolejne dwa tygodnie potrzebne do złożenia wniosku o zabezpieczenie powództwa o odszkodowanie według przepisów ogólnych. Po upływie tego terminu sąd niezwłocznie postanowi o wydaniu ceny z depozytu, chyba że został złożony wniosek o zabezpieczenie.
+3.
+W przedmiocie postanowienia o wydaniu ceny z depozytu w sytuacjach wskazanych w ust. 1 i 2 orzeka sąd w składzie jednoosobowym.
+W terminie przewidzianym na zawarcie umowy sprzedaży syndyk może złożyć wniosek do sądu o uchylenie lub zmianę postanowienia zatwierdzającego warunki sprzedaży, jeżeli po wydaniu postanowienia zmieniły się lub zostały ujawnione okoliczności mające istotny wpływ na wartość składnika majątkowego będącego przedmiotem sprzedaży. Na postanowienie uwzględniające wniosek przysługuje zażalenie. Przepisy art. 56a-56g stosuje się odpowiednio.
+” ;
+40)
+w art. 57 ust. 1 otrzymuje brzmienie:
+„
+1.
+Upadły jest obowiązany wskazać i wydać syndykowi cały swój majątek, a także wydać dokumenty dotyczące jego działalności, majątku oraz rozliczeń, w szczególności księgi rachunkowe, inne ewidencje prowadzone dla celów podatkowych i korespondencję. Wykonanie tego obowiązku upadły potwierdza w formie oświadczenia na piśmie, które składa sędziemu-komisarzowi.
+” ;
+41)
+uchyla się art. 59 i art. 60;
+42)
+art. 601 otrzymuje brzmienie:
+„
+1.
+W postępowaniu upadłościowym dopuszczalne jest zawarcie układu.
+2.
+Propozycje układowe w postępowaniu upadłościowym mogą zgłosić upadły, wierzyciel oraz syndyk.
+1.
+Podmioty uprawnione do złożenia propozycji układowych mogą wraz z propozycjami złożyć wniosek o całkowite lub częściowe wstrzymanie likwidacji masy upadłości do czasu zatwierdzenia układu.
+2.
+Niedopuszczalne jest wstrzymanie likwidacji masy upadłości, jeżeli propozycje układowe nie przewidują zaspokojenia wierzytelności nieobjętych układem niezwłocznie po zatwierdzeniu układu i prawomocnym zakończeniu postępowania na tej podstawie.
+3.
+Niedopuszczalne jest wstrzymanie likwidacji w zakresie przedmiotu obciążonego hipoteką, zastawem, zastawem rejestrowym, zastawem skarbowym lub hipoteką morską, jeżeli sprzeciwi się temu wierzyciel, którego wierzytelność jest w ten sposób zabezpieczona. Jeżeli sprzeciw wierzyciela wpłynął do sędziego-komisarza po wydaniu postanowienia o wstrzymaniu likwidacji, sędzia-komisarz uchyla swoje postanowienie w tym zakresie.
+4.
+Sędzia-komisarz może wstrzymać likwidację masy upadłości, jeżeli zostały spełnione przesłanki zwołania zgromadzenia wierzycieli w celu głosowania nad układem, o których mowa w art. 266c ust. 1.
+5.
+Sędzia-komisarz wstrzymuje likwidację masy upadłości, jeżeli zostały spełnione przesłanki zwołania zgromadzenia wierzycieli w celu głosowania nad układem, o których mowa w art. 266c ust. 2.
+6.
+Sędzia-komisarz wstrzymuje likwidację masy upadłości wyłącznie w zakresie, jaki jest niezbędny do wykonania układu.
+1.
+Sędzia-komisarz może zwołać zgromadzenie wierzycieli w celu głosowania nad układem, jeżeli zostało uprawdopodobnione, że układ zostanie przyjęty przez wierzycieli i wykonany.
+2.
+Sędzia-komisarz zwołuje zgromadzenie wierzycieli, jeżeli wniosek jest popierany przez wierzyciela lub wierzycieli posiadających łącznie co najmniej 50% sumy wierzytelności przysługujących wierzycielom uprawnionym do głosowania nad układem.
+3.
+Zgromadzenie wierzycieli zwołuje się po zatwierdzeniu listy wierzytelności. Jeżeli sędzia-komisarz zatwierdził częściowo listę wierzytelności w zakresie nieobjętym sprzeciwami, zgromadzenie wierzycieli zwołuje się, jeżeli suma wierzytelności objętych sprzeciwami nie przekracza 15% sumy wierzytelności objętych układem.
+Po prawomocnym zatwierdzeniu układu sąd wydaje postanowienie o zakończeniu postępowania. Przepisy art. 362–367 stosuje się odpowiednio.
+W przypadku zakończenia postępowania po prawomocnym zatwierdzeniu układu wynagrodzenie ostateczne syndyka może zostać ustalone na podstawie przepisów art. 55 oraz art. 58–61 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne, jeżeli będzie to korzystne dla syndyka i jest uzasadnione jego zaangażowaniem w skuteczne zawarcie układu.
+W zakresie nieuregulowanym w niniejszym tytule do układu i jego skutków przepisy Prawa restrukturyzacyjnego stosuje się odpowiednio, przy czym czynności zastrzeżone dla nadzorcy sądowego lub zarządcy wykonuje syndyk.
+” ;
+163)
+w części I uchyla się tytuł VI;
+164)
+art. 306 otrzymuje brzmienie:
+„
+Po ogłoszeniu upadłości syndyk niezwłocznie przystępuje do spisu inwentarza i oszacowania masy upadłości oraz sporządzenia planu likwidacyjnego. Syndyk składa sędziemu-komisarzowi spis inwentarza wraz z planem likwidacyjnym w terminie trzydziestu dni od dnia ogłoszenia upadłości. Plan likwidacyjny określa proponowane sposoby sprzedaży składników majątku upadłego, w szczególności sprzedaży przedsiębiorstwa, termin sprzedaży, preliminarz wydatków oraz ekonomiczne uzasadnienie dalszego prowadzenia działalności gospodarczej.
+” ;
+165)
+w art. 308 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu:
+„
+2.
+Syndyk jest obowiązany do podejmowania działań umożliwiających zakończenie likwidacji w ciągu sześciu miesięcy od dnia ogłoszenia upadłości. Sędzia-komisarz i rada wierzycieli rozpoznają wniosek o wyrażenie zgody na określony sposób likwidacji nie później niż w terminie dwóch tygodni od dnia przedstawienia im wniosku przez syndyka.
+” ;
+166)
+art. 309 otrzymuje brzmienie:
+„
+Sędzia-komisarz może wstrzymać likwidację masy upadłości do czasu uprawomocnienia się postanowienia o ogłoszeniu upadłości.
+” ;
+167)
+w art. 310 ust. 1 otrzymuje brzmienie:
+„
+1.
+Przed rozpoczęciem likwidacji masy upadłości syndyk może sprzedać z wolnej ręki bez zezwolenia rady wierzycieli ruchomości, jeżeli jest to potrzebne na zaspokojenie kosztów postępowania. Ponadto syndyk może sprzedać ruchomości, które ulegają szybkiemu zepsuciu lub wskutek opóźnienia sprzedaży straciłyby znacznie na wartości albo których przechowanie pociąga za sobą koszty zbyt wysokie w stosunku do ich wartości.
+” ;
+168)
+w art. 311:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Likwidacji masy upadłości dokonuje się przez sprzedaż z wolnej ręki lub w drodze przetargu lub aukcji przedsiębiorstwa upadłego w całości lub jego zorganizowanych części, nieruchomości i ruchomości, wierzytelności oraz innych praw majątkowych wchodzących w skład masy upadłości albo przez ściągnięcie wierzytelności od dłużników upadłego i wykonanie innych jego praw majątkowych.
+” ,
+b)
+po ust. 1 dodaje się ust. 1a-1c w brzmieniu:
+„
+1a.
+O zamiarze sprzedaży składników majątku służących do prowadzenia działalności w dziedzinie obronności i bezpieczeństwa państwa syndyk zawiadamia Ministra Obrony Narodowej, który w terminie tygodnia od zawiadomienia może przedstawić sędziemu-komisarzowi opinię.
+1b.
+W terminie trzech dni od dnia sprzedaży składników majątku, ściągnięcia wierzytelności albo wykonania praw majątkowych syndyk składa sędziemu-komisarzowi spis zlikwidowanych składników masy upadłości. Spis składa się w postaci elektronicznej i zamieszcza w Rejestrze.
+1c.
+Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowo wzór spisu, o którym mowa w ust. 1b, mając na uwadze zakres informacji, których umieszczenie w spisie jest niezbędne dla oceny składu masy upadłości, w szczególności określenie zlikwidowanego składnika majątku, datę likwidacji, cenę, a także biorąc pod uwagę czytelność oraz kompletność spisu.
+” ;
+169)
+w art. 312:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Po ogłoszeniu upadłości można prowadzić dalej przedsiębiorstwo upadłego, jeżeli możliwe jest zawarcie układu z wierzycielami lub możliwa jest sprzedaż przedsiębiorstwa upadłego w całości lub jego zorganizowanych części.
+” ,
+b)
+dodaje się ust. 3 w brzmieniu:
+„
+3.
+Syndyk nie może prowadzić dalej przedsiębiorstwa upadłego, jeżeli na upadłym ciąży obowiązek zwrotu pomocy publicznej. Rada wierzycieli może zezwolić na zwrot pomocy publicznej udzielonej niezgodnie z prawem i dalsze prowadzenie przedsiębiorstwa upadłego, jeżeli zostanie uprawdopodobnione, że mimo zwrotu pomocy publicznej udzielonej niezgodnie z prawem pozostali wierzyciele zostaną zaspokojeni w większym stopniu ze względu na sprzedaż prowadzonego przedsiębiorstwa za większą kwotę lub w wyniku zawarcia i wykonania układu.
+” ;
+170)
+w art. 313 dodaje się ust. 6 w brzmieniu:
+„
+6.
+Do sprzedaży ułamkowej części nieruchomości odpowiednie zastosowanie mają przepisy art. 1004, art. 1005, art. 1007, art. 1009, art. 1012 i art. 1013 Kodeksu postępowania cywilnego.
+” ;
+171)
+w art. 315 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu:
+„
+2.
+Jeżeli w skład masy upadłości wchodzi nieruchomość lub jej ułamkowa część, której nie można zbyć z zachowaniem przepisów ustawy, a dalsze pozostawanie nieruchomości w masie upadłości będzie niekorzystne dla wierzycieli z uwagi na obciążenie masy związanymi z tym kosztami, sędzia-komisarz może zezwolić syndykowi na zawarcie umowy przekazania nieruchomości gminie albo Skarbowi Państwa.
+” ;
+172)
+w art. 316:
+a)
+ust. 2 otrzymuje brzmienie:
+„
+2.
+Sprzedaż przedsiębiorstwa upadłego może być, po wyrażeniu zgody przez sędziego-komisarza, poprzedzona umową dzierżawy na czas określony z prawem pierwokupu, jeżeli przemawiają za tym względy ekonomiczne.
+” ,
+b)
+uchyla się ust. 3;
+173)
+w art. 317:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Na nabywcę przedsiębiorstwa upadłego przechodzą wszelkie koncesje, zezwolenia, licencje i ulgi, które zostały udzielone upadłemu, chyba że odrębne ustawy stanowią inaczej.
+” ,
+b)
+dodaje się ust. 3 w brzmieniu:
+„
+3.
+Nabywca przedsiębiorstwa upadłego wstępuje z mocy prawa w miejsce upadłego lub syndyka do postępowań cywilnych i administracyjnych dotyczących przedsiębiorstwa lub jego składników. Przepisu art. 196 § 2 Kodeksu postępowania cywilnego nie stosuje się.
+” ;
+174)
+w art. 319:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Jeżeli planowana jest sprzedaż przedsiębiorstwa upadłego w całości, przy sporządzaniu spisu inwentarza i oszacowania masy upadłości, albo odrębnie, jeżeli możliwość takiej sprzedaży ujawniła się na późniejszym etapie, biegły wybrany przez syndyka sporządza opis i oszacowanie przedsiębiorstwa upadłego.
+” ,
+b)
+ust. 5 otrzymuje brzmienie:
+„
+5.
+Zarzuty na opis i oszacowanie wnosi się w terminie tygodnia od dnia obwieszczenia o ich przekazaniu sędziemu-komisarzowi. Zarzuty rozpoznaje sędzia-komisarz. W przypadku wątpliwości co do rzetelności lub poprawności opisu i oszacowania, sędzia-komisarz wskazuje biegłego do sporządzenia nowego opisu i oszacowania.
+” ;
+175)
+w art. 320 ust. 1 otrzymuje brzmienie:
+„
+1.
+Sprzedaż mienia uregulowana przepisami niniejszego działu może nastąpić w drodze przetargu lub aukcji, do których przepisy Kodeksu cywilnego stosuje się odpowiednio, z tym że:
+1)
+warunki przetargu lub aukcji zatwierdza sędzia-komisarz;
+2)
+o przetargu lub aukcji należy zawiadomić przez obwieszczenie co najmniej na dwa tygodnie, a jeżeli przetarg albo aukcja dotyczy przedsiębiorstwa spółki publicznej – co najmniej na sześć tygodni przed terminem posiedzenia wyznaczonego w celu ich przeprowadzenia;
+3)
+przetarg lub aukcję przeprowadza się na posiedzeniu jawnym;
+4)
+przetarg lub aukcję prowadzi syndyk pod nadzorem sędziego-komisarza;
+5)
+wyboru oferenta dokonuje syndyk; wybór wymaga zatwierdzenia przez sędziego-komisarza;
+6)
+postanowienie zatwierdzające wybór oferenta sędzia-komisarz może wydać na posiedzeniu niejawnym;
+7)
+sędzia-komisarz może odroczyć zatwierdzenie wyboru oferenta o tydzień; w tym przypadku postanowienie o zatwierdzeniu wyboru oferenta obwieszcza się.
+” ;
+176)
+uchyla się art. 322 i art. 323;
+177)
+w art. 324 ust. 1 otrzymuje brzmienie:
+„
+1.
+Jeżeli rada wierzycieli udzieliła zezwolenia, o którym mowa w art. 206 ust. 1 pkt 3, spółka z udziałem ponad połowy pracowników upadłego będącego spółką handlową z udziałem Skarbu Państwa ma pierwszeństwo w nabyciu przedsiębiorstwa upadłego albo jego zorganizowanej części nadającej się do prowadzenia działalności gospodarczej.
+” ;
+178)
+art. 325 otrzymuje brzmienie:
+„
+Jeżeli przepisy niniejszego działu nie stanowią inaczej, do sprzedaży ruchomości przepisy art. 320 i art. 321 stosuje się odpowiednio.
+” ;
+179)
+uchyla się art. 326;
+180)
+po art. 330 dodaje się art. 330a w brzmieniu:
+„
+1.
+Jeżeli w skład masy upadłości wchodzą ruchomości, których nie można zbyć z zachowaniem przepisów ustawy, wierzyciel może przejąć na własność ruchomości wystawione na sprzedaż albo niektóre z nich w cenie nie niższej od połowy ceny oszacowania.
+2.
+Pierwszeństwo przejęcia ruchomości na własność przysługuje wierzycielowi, którego wierzytelność zabezpieczona jest zastawem, zastawem rejestrowym, zastawem skarbowym na tej ruchomości, a w dalszej kolejności – temu wierzycielowi, który oferował najwyższą cenę.
+3.
+Oświadczenie o przejęciu będzie uwzględnione tylko wtedy, gdy wierzyciel jednocześnie z wnioskiem złoży całą cenę. Własność ruchomości przechodzi na wierzyciela z chwilą zawiadomienia go przez syndyka o przyznaniu mu przejętej rzeczy.
+4.
+Jeżeli fundusze masy upadłości wystarczają na zaspokojenie wszystkich wierzycieli z wyższej i równorzędnej kategorii zaspokojenia i zobowiązań, o których mowa w art. 230, nabywca może zaliczyć swoją wierzytelność na cenę nabycia.
+” ;
+181)
+art. 331 otrzymuje brzmienie:
+„
+1.
+Likwidacja wierzytelności upadłego następuje przez ich zbycie albo ściągnięcie.
+2.
+Wybór sposobu likwidacji należy poprzedzić oceną, który z nich umożliwia zaspokojenie wierzycieli w jak największym stopniu przy uwzględnieniu kosztów i ryzyka niepowodzenia ściągnięcia wierzytelności upadłego oraz konieczności zaspokojenia zobowiązań, o których mowa w art. 230, związanych z przedłużeniem postępowania upadłościowego.
+” ;
+182)
+w art. 334 ust. 1 otrzymuje brzmienie:
+„
+1.
+Do sprzedaży wierzytelności lub praw majątkowych upadłego przepisy art. 315, art. 320 i art. 321 stosuje się odpowiednio.
+” ;
+183)
+w art. 336:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Sumy uzyskane z likwidacji rzeczy, wierzytelności i praw obciążonych hipoteką, zastawem, zastawem rejestrowym, zastawem skarbowym lub hipoteką morską, a także prawami oraz prawami osobistymi i roszczeniami ujawnionymi przez wpis do księgi wieczystej lub nieujawnionymi w ten sposób, lecz zgłoszonymi sędziemu-komisarzowi w terminie określonym w art. 51 ust. 1 pkt 5, przeznacza się na zaspokojenie wierzycieli, których wierzytelności były zabezpieczone na tych rzeczach lub prawach, z zachowaniem przepisów ustawy. Kwoty pozostałe po zaspokojeniu tych wierzytelności wchodzą do funduszów masy upadłości.
+” ,
+b)
+dodaje się ust. 3 w brzmieniu:
+„
+3.
+Do sum stanowiących pożytki rzeczy lub prawa obciążonego hipoteką, zastawem, zastawem rejestrowym, zastawem skarbowym lub hipoteką morską, a także prawami oraz prawami osobistymi i roszczeniami przepisu ust. 1 nie stosuje się.
+” ;
+184)
+w art. 337:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Podziału funduszów dokonuje się jednorazowo albo kilkakrotnie w miarę likwidacji masy upadłości po zatwierdzeniu przez sędziego-komisarza listy wierzytelności w całości lub części.
+” ,
+b)
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+„
+1a.
+W przypadku zatwierdzenia częściowego listy wierzytelności, w planie podziału uwzględnia się kwoty objęte nierozpoznanymi sprzeciwami, zabezpieczając w masie upadłości środki na ich ewentualną wypłatę po prawomocnym rozpoznaniu sprzeciwów.
+” ;
+185)
+w art. 342:
+a)
+w ust. 1:
+– pkt 1–4 otrzymują brzmienie: „ 1) kategoria pierwsza – przypadające za czas przed ogłoszeniem upadłości należności ze stosunku pracy, z wyjątkiem roszczeń z tytułu wynagrodzenia reprezentanta upadłego lub wynagrodzenia osoby wykonującej czynności związane z zarządem lub nadzorem nad przedsiębiorstwem upadłego, należności rolników z tytułu umów o dostarczenie produktów z własnego gospodarstwa rolnego, należności alimentacyjne oraz renty z tytułu odszkodowania za wywołanie choroby, niezdolności do pracy, kalectwa lub śmierci i renty z tytułu zamiany uprawnień objętych treścią prawa dożywocia na dożywotnią rentę, przypadające za trzy ostatnie lata przed ogłoszeniem upadłości należności z tytułu składek na ubezpieczenia społeczne w rozumieniu ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2015 r. poz. 121, 689 i 978) oraz należności powstałe w postępowaniu restrukturyzacyjnym z czynności zarządcy albo należności powstałe z czynności dłużnika dokonanych po otwarciu postępowania restrukturyzacyjnego niewymagających zezwolenia rady wierzycieli albo zgody nadzorcy sądowego lub dokonanych za zezwoleniem rady wierzycieli albo zgodą nadzorcy sądowego, jeżeli upadłość ogłoszono w wyniku rozpoznania uproszczonego wniosku o ogłoszenie upadłości jak również należności z tytułu kredytu, pożyczki, obligacji, gwarancji lub akredytyw lub innego finansowania przewidzianego układem przyjętym w postępowaniu restrukturyzacyjnym i udzielonego w związku z wykonaniem takiego układu, jeżeli upadłość ogłoszono w wyniku rozpoznania wniosku o ogłoszenie upadłości złożonego nie później niż trzy miesiące po prawomocnym uchyleniu układu; 2) kategoria druga – inne należności, jeżeli nie podlegają zaspokojeniu w innych kategoriach, w szczególności podatki i inne daniny publiczne oraz pozostałe należności z tytułu składek na ubezpieczenie społeczne; 3) kategoria trzecia – odsetki od należności ujętych w wyższych kategoriach w kolejności, w jakiej podlega zaspokojeniu kapitał, a także sądowe i administracyjne kary grzywny oraz należności z tytułu darowizn i zapisów; 4) kategoria czwarta – należności wspólników albo akcjonariuszy z tytułu pożyczki lub innej czynności prawnej o podobnych skutkach, w szczególności dostawy towaru z odroczonym terminem płatności, dokonanej na rzecz upadłego będącego spółką kapitałową w okresie pięciu lat przed ogłoszeniem upadłości, wraz z odsetkami. ” ,
+– uchyla się pkt 5,
+b)
+uchyla się ust. 2,
+c)
+dodaje się ust. 5 i 6 w brzmieniu:
+„
+5.
+Przepisu ust. 1 pkt 4 nie stosuje się do:
+1)
+należności z tytułu pożyczek oraz innych czynności prawnych o podobnych skutkach dokonanych w toku postępowania restrukturyzacyjnego, jak również w ramach wykonania układu;
+2)
+należności z tytułu pożyczek oraz innych czynności prawnych o podobnych skutkach dokonanych przez wspólników albo akcjonariuszy dysponujących mniej niż 10% głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu spółki, chyba że są oni członkami organów spółki lub faktycznie prowadzą jej sprawy;
+3)
+należności wspólnika albo akcjonariusza, który stał się nim w wyniku konwersji wierzytelności na udziały lub akcje dokonanej w ramach zawartego układu, z tytułu pożyczek oraz innych czynności prawnych o podobnych skutkach dokonanych przed taką konwersją.
+6.
+Do pożyczek lub innych czynności prawnych o podobnych skutkach dokonanych przez podmiot, który dysponuje bezpośrednio większością głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu w spółce kapitałowej lub dysponuje bezpośrednio większością głosów w spółce osobowej, będącej wspólnikiem albo akcjonariuszem upadłej spółki, która otrzymała pożyczkę lub była beneficjentem czynności prawnej o podobnych skutkach, przepisy ust. 1 pkt 4 i ust. 5 stosuje się odpowiednio.
+” ;
+186)
+w art. 343:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Z masy upadłości zaspokaja się w pierwszej kolejności koszty postępowania, a jeżeli fundusze masy upadłości na to pozwalają – również inne zobowiązania masy upadłości, o których mowa w art. 230 ust. 2, w miarę wpływu do masy upadłości stosownych sum.
+” ,
+b)
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+„
+1a.
+Jeżeli inne zobowiązania masy upadłości, o których mowa w art. 230 ust. 2, nie zostaną zaspokojone w sposób, o którym mowa w ust. 1, zaspokaja się je stosunkowo do wysokości każdej z nich w drodze podziału funduszów masy upadłości. Przepisy art. 347–360 stosuje się odpowiednio.
+” ,
+c)
+ust. 2 otrzymuje brzmienie:
+„
+2.
+Zobowiązania alimentacyjne ciążące na upadłym, przypadające za czas po ogłoszeniu upadłości, syndyk zaspokaja zgodnie z ust. 1 w terminach ich płatności, do dnia sporządzenia ostatecznego planu podziału, każdorazowo dla każdego uprawnionego w kwocie nie wyższej niż minimalne wynagrodzenie za pracę. Pozostała część tych należności nie podlega zaspokojeniu z masy upadłości.
+” ;
+187)
+art. 344 otrzymuje brzmienie:
+„
+1.
+Należności, o których mowa w art. 342 ust. 1, zaspokaja się dopiero po zaspokojeniu w całości kosztów postępowania, zobowiązań masy upadłości i należności alimentacyjnych zgodnie z art. 343.
+2.
+Jeżeli suma przeznaczona do podziału nie wystarcza na zaspokojenie w całości wszystkich należności, należności dalszej kategorii zaspokaja się dopiero po zaspokojeniu w całości należności poprzedzającej kategorii, a jeżeli suma przeznaczona do podziału nie wystarcza na zaspokojenie w całości wszystkich należności tej samej kategorii, należności te zaspokaja się stosunkowo do wysokości każdej z nich.
+” ;
+188)
+w art. 345 ust. 2 otrzymuje brzmienie:
+„
+2.
+Wierzytelności i prawa, o których mowa w ust. 1, są zaspokajane w kolejności przysługującego im pierwszeństwa. Jeżeli z sumy uzyskanej z likwidacji obciążonego przedmiotu zaspokojeniu podlegają zarówno wierzytelności zabezpieczone hipoteką, jak i wygasające na podstawie art. 313 ust. 2 prawa oraz prawa i roszczenia osobiste, o pierwszeństwie rozstrzyga chwila, od której liczy się skutki wpisu hipoteki, prawa lub roszczenia do księgi wieczystej.
+” ;
+189)
+w art. 347:
+a)
+w ust. 1 pkt 4 otrzymuje brzmienie:
+„
+4)
+wskazuje, które sumy mają być wypłacone, a które i z jakich przyczyn mają być pozostawione w depozycie sądowym lub pozostawione w masie upadłości na zaspokojenie wierzytelności objętych nierozpoznanymi sprzeciwami;
+” ,
+b)
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+„
+1a.
+Plan podziału składa się w postaci elektronicznej i zamieszcza w Rejestrze.
+” ;
+190)
+art. 349 otrzymuje brzmienie:
+„
+1.
+Sędzia-komisarz zawiadamia upadłego i członków rady wierzycieli oraz obwieszcza, że plan podziału można przeglądać w sekretariacie sądu i w terminie dwóch tygodni od dnia obwieszczenia wnosić zarzuty przeciwko planowi podziału.
+2.
+W przypadku złożenia ostatecznego planu podziału sędzia-komisarz dokonuje czynności, o których mowa w ust. 1, po uprawomocnieniu się postanowienia o przyznaniu syndykowi wynagrodzenia ostatecznego.
+3.
+Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór planu podziału sumy uzyskanej ze sprzedaży rzeczy obciążonej, planu podziału oraz ostatecznego planu podziału, mając na uwadze zakres informacji ujmowanych w planach podziału, czytelność oraz kompletność planów podziału.
+” ;
+191)
+w art. 351 ust. 1 otrzymuje brzmienie:
+„
+1.
+Sędzia-komisarz zatwierdza plan podziału, jeżeli nie wniesiono zarzutów.
+” ;
+192)
+w art. 353 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 i 3 w brzmieniu:
+„
+2.
+Po wykonaniu planu podziału syndyk składa sprawozdanie z wykonania planu podziału. Sprawozdanie składa się w postaci elektronicznej i zamieszcza w Rejestrze.
+3.
+Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór sprawozdania, o którym mowa w ust. 2, mając na uwadze zakres informacji, których umieszczenie w sprawozdaniu jest niezbędne dla oceny prawidłowości wykonania planu podziału, w szczególności wysokość kwot wydanych poszczególnym wierzycielom ze wskazaniem sposobu wykonania planu podziału, a także biorąc pod uwagę czytelność oraz kompletność sprawozdania.
+” ;
+193)
+art. 355 otrzymuje brzmienie:
+„
+Sumę wydzieloną na zaspokojenie wierzytelności, za którą osoba trzecia odpowiada jako poręczyciel, gwarant lub współdłużnik, wydaje się wierzycielowi w proporcji do wysokości kwoty należnej mu w dniu sporządzenia planu podziału, a poręczycielowi, gwarantowi lub współdłużnikowi – w proporcji do wysokości dokonanej zapłaty.
+” ;
+194)
+w art. 356 ust. 2 otrzymuje brzmienie:
+„
+2.
+Sumę wydzieloną na zaspokojenie wierzytelności, której zapłata zależy od warunku zawieszającego, w tym wierzytelności, o których mowa w art. 248 ust. 2, wydaje się wierzycielowi, jeżeli udowodni, że warunek się ziścił; w przeciwnym razie sumę tę składa się do depozytu sądowego.
+” ;
+195)
+art. 359 i art. 360 otrzymują brzmienie:
+„
+1.
+W sprawach o złożenie do depozytu sądowego orzeka sędzia-komisarz. Przepisów art. 6933 § 1 i 3 Kodeksu postępowania cywilnego nie stosuje się.
+2.
+W sprawach o wydanie kwot złożonych do depozytu sądowego orzeka sędzia-komisarz, a po prawomocnym zakończeniu lub umorzeniu postępowania upadłościowego – sąd.
+1.
+W postępowaniu o wydanie kwoty z depozytu sądowego badaniu podlega jedynie legitymacja czynna wnioskodawcy. Kwoty z depozytu wydaje się osobie, na którą przeszło uprawnienie wierzyciela do wypłaty kwoty z depozytu, jeżeli przejście to będzie wykazane dokumentem urzędowym lub prywatnym z podpisem urzędowo poświadczonym.
+2.
+Termin do odbioru depozytu sądowego wynosi trzy lata od dnia uprawomocnienia się postanowienia o zakończeniu albo umorzeniu postępowania upadłościowego, ale nie mniej niż trzy lata od daty ziszczenia się warunku, o którym mowa w art. 356 ust. 1 lub 2, albo od daty wymagalności. Po upływie terminu prawa do niepodjętego depozytu przechodzą na Skarb Państwa. Do likwidacji niepodjętego depozytu zastosowanie mają przepisy art. 69318–69322 Kodeksu postępowania cywilnego.
+” ;
+196)
+art. 362 otrzymuje brzmienie:
+„
+Postanowienie o umorzeniu postępowania upadłościowego doręcza się upadłemu, syndykowi oraz członkom rady wierzycieli. Postanowienie obwieszcza się. Na postanowienie przysługuje zażalenie.
+” ;
+197)
+w art. 364 ust. 2 otrzymuje brzmienie:
+„
+2.
+Syndyk wyda niezwłocznie upadłemu jego majątek, księgi, korespondencję i dokumenty. W przypadku potrzeby sędzia-komisarz wyda postanowienie nakazujące przymusowe odebranie majątku. Prawomocne postanowienie ma moc tytułu wykonawczego.
+” ;
+198)
+art. 365–367 otrzymują brzmienie:
+„
+1.
+Jeżeli upadły nie odbiera ksiąg, korespondencji lub dokumentów w terminie wyznaczonym przez syndyka, syndyk oddaje je na przechowanie na koszt upadłego. Syndyk może wstrzymać wydanie upadłemu majątku potrzebnego na pokrycie kosztów przechowania ksiąg, korespondencji lub dokumentów do czasu ich odebrania przez upadłego.
+2.
+Syndyk pokrywa koszty przechowania ksiąg, korespondencji lub dokumentów z funduszów masy upadłości, jeżeli posiada płynne środki pozwalające na pokrycie tych kosztów. W przypadku braku płynnych środków syndyk dokonuje za zgodą sądu likwidacji majątku w celu pokrycia kosztów ich przechowania.
+3.
+W przypadku braku majątku potrzebnego na pokrycie kosztów przechowania ksiąg, korespondencji lub dokumentów sąd zasądza od upadłego na rzecz przechowawcy koszty przechowania. W przypadku upadłego będącego osobą prawną albo spółką osobową sąd może zasądzić koszty przechowania od osób upoważnionych do reprezentowania upadłego, określając osobę albo osoby ponoszące koszty przechowania. Na postanowienie sądu zażalenie przysługuje wyłącznie upadłemu, osobie zobowiązanej do ponoszenia kosztów oraz przechowawcy.
+4.
+Jeżeli oddanie na przechowanie ksiąg, korespondencji lub dokumentów jest niemożliwe, podlegają one złożeniu do właściwego archiwum wraz z aktami postępowania upadłościowego na koszt upadłego, z wyjątkiem dokumentacji osobowej i płacowej, do której stosuje się przepis art. 51u ust. 3 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2011 r. Nr 123, poz. 698, z późn. zm.). Koszty te ściąga się w trybie przepisów Kodeksu postępowania cywilnego o egzekucji opłat sądowych. Przepis ust. 3 stosuje się odpowiednio.
+1.
+Sąd zarządza likwidację majątku i określa sposób likwidacji, jeżeli upadły nie odbierze swojego majątku w terminie wyznaczonym przez syndyka.
+2.
+Sąd może nakazać likwidację majątku na koszt upadłego przez przekazanie majątku na cele dobroczynne lub w inny sposób, jeżeli likwidacja majątku w sposób określony przez sąd okaże się niemożliwa lub nadmiernie utrudniona. Przepis art. 365 ust. 3 stosuje się odpowiednio.
+3.
+Na postanowienie w przedmiocie likwidacji przysługuje zażalenie.
+1.
+Po umorzeniu postępowania upadłościowego umarza się wszczęte przez syndyka niezakończone procesy o uznanie za bezskuteczną czynności dokonanej przez upadłego ze szkodą dla wierzycieli. Wzajemne roszczenia o zwrot kosztów procesu wygasają.
+2.
+W innych postępowaniach cywilnych upadły wchodzi do postępowania w miejsce syndyka.
+” ;
+199)
+w art. 368 ust. 1 i 2 otrzymują brzmienie:
+„
+1.
+Sąd po wykonaniu ostatecznego planu podziału stwierdza zakończenie postępowania upadłościowego.
+2.
+Sąd stwierdza zakończenie postępowania także wtedy, gdy w toku postępowania wszyscy wierzyciele zostali zaspokojeni.
+” ;
+200)
+art. 369 otrzymuje brzmienie:
+„
+1.
+W terminie trzydziestu dni od dnia obwieszczenia postanowienia o zakończeniu postępowania upadłościowego upadły będący osobą fizyczną może złożyć wniosek o ustalenie planu spłaty wierzycieli i umorzenie pozostałej części zobowiązań, które nie zostały zaspokojone w postępowaniu upadłościowym.
+2.
+Sąd oddala wniosek, o którym mowa w ust. 1, jeżeli upadły doprowadził do swojej niewypłacalności lub istotnie zwiększył jej stopień umyślnie lub wskutek rażącego niedbalstwa.
+3.
+Sąd oddala wniosek, o którym mowa w ust. 1, jeżeli:
+1)
+materiał zebrany w sprawie daje podstawę do stwierdzenia, że zachodzą okoliczności stanowiące podstawę do pozbawienia upadłego prawa prowadzenia działalności gospodarczej na własny rachunek lub w ramach spółki cywilnej oraz pełnienia funkcji członka rady nadzorczej, członka komisji rewizyjnej, reprezentanta lub pełnomocnika osoby fizycznej prowadzącej działalność gospodarczą w zakresie tej działalności, spółki handlowej, przedsiębiorstwa państwowego, spółdzielni, fundacji lub stowarzyszenia lub
+2)
+upadły nie wykonywał rzetelnie obowiązków nałożonych na niego w postępowaniu upadłościowym, lub
+3)
+w okresie dziesięciu lat przed dniem złożenia wniosku o ogłoszenie upadłości w stosunku do upadłego prowadzono postępowanie upadłościowe, w którym umorzono całość lub część jego zobowiązań, chyba że do niewypłacalności upadłego lub zwiększenia jej stopnia doszło pomimo dochowania przez upadłego należytej staranności, lub
+4)
+w okresie dziesięciu lat przed dniem złożenia wniosku o ogłoszenie upadłości ustalony dla upadłego plan spłaty wierzycieli został uchylony na podstawie art. 370e ust. 1 lub 2 albo art. 49120, lub
+5)
+w okresie dziesięciu lat przed dniem złożenia wniosku o ogłoszenie upadłości czynność prawna upadłego została prawomocnie uznana za dokonaną z pokrzywdzeniem wierzycieli
+chyba że umorzenie pozostałej części zobowiązań upadłego jest uzasadnione względami słuszności lub względami humanitarnymi.
+” ;
+201)
+uchyla się art. 370;
+202)
+po art. 370 dodaje się art. 370a-370f w brzmieniu:
+„
+1.
+W postanowieniu o ustaleniu planu spłaty wierzycieli sąd określa, w jakim zakresie i w jakim czasie, nie dłuższym niż trzydzieści sześć miesięcy, upadły jest obowiązany spłacać zobowiązania uznane na liście wierzytelności a niewykonane w toku postępowania upadłościowego na podstawie planów podziału oraz jaka część zobowiązań upadłego powstałych przed dniem ogłoszenia upadłości zostanie umorzona po wykonaniu planu spłaty wierzycieli.
+2.
+Zobowiązania powstałe po ogłoszeniu upadłości i niewykonane w toku postępowania uwzględnia się w planie spłaty wierzycieli w pełnej wysokości, przy czym ich spłata może być rozłożona na raty na czas nie dłuższy niż przewidziany na wykonanie planu spłaty wierzycieli.
+3.
+Sąd nie jest związany stanowiskiem upadłego co do treści planu spłaty wierzycieli. Ustalając plan spłaty wierzycieli, sąd bierze pod uwagę możliwości zarobkowe upadłego, konieczność utrzymania upadłego i osób pozostających na jego utrzymaniu, w tym ich potrzeby mieszkaniowe, wysokość niezaspokojonych wierzytelności i realność ich zaspokojenia w przyszłości.
+4.
+Postanowienie sądu o ustaleniu planu spłaty wierzycieli obwieszcza się. Na postanowienie sądu w przedmiocie ustalenia planu spłaty przysługuje zażalenie.
+5.
+Ustalenie planu spłaty wierzycieli nie narusza praw wierzyciela wobec poręczyciela upadłego oraz współdłużnika upadłego ani praw wynikających z hipoteki, zastawu, zastawu rejestrowego, zastawu skarbowego lub hipoteki morskiej, jeżeli były one ustanowione na mieniu osoby trzeciej. Ustalenie planu spłaty wierzycieli i umorzenie zobowiązań upadłego jest skuteczne również w stosunkach między upadłym, a poręczycielem, gwarantem i współdłużnikiem upadłego.
+1.
+Na postanowienie sądu drugiej instancji w przedmiocie ustalenia planu spłaty wierzycieli przysługuje skarga kasacyjna.
+2.
+W przypadku wniesienia skargi kasacyjnej, sąd upadłościowy na wniosek skarżącego może wstrzymać wydanie postanowienia o umorzeniu zobowiązań upadłego, o którym mowa w art. 370f ust. 1.
+3.
+Jeżeli w wyniku rozpoznania skargi kasacyjnej postanowienie w przedmiocie ustalenia planu spłaty wierzycieli zostanie uchylone, sąd upadłościowy uchyla postanowienie o umorzeniu zobowiązań upadłego, o którym mowa w art. 370f ust. 1.
+1.
+W okresie wykonywania planu spłaty wierzycieli niedopuszczalne jest wszczęcie postępowania egzekucyjnego dotyczącego wierzytelności powstałych przed ogłoszeniem upadłości, z wyjątkiem wierzytelności wynikających z zobowiązań, o których mowa w art. 370f ust. 2, oraz wierzytelności, których upadły nie ujawnił, jeżeli wierzyciel nie brał udziału w postępowaniu.
+2.
+W okresie wykonywania planu spłaty wierzycieli upadły nie może dokonywać czynności prawnych, które mogłyby pogorszyć jego zdolność do wykonania planu spłaty wierzycieli.
+3.
+W szczególnie uzasadnionych przypadkach sąd na wniosek upadłego może wyrazić zgodę na dokonanie albo zatwierdzić dokonanie czynności prawnej, o której mowa w ust. 2.
+4.
+Upadły jest obowiązany składać sądowi corocznie do końca kwietnia sprawozdanie z wykonania planu spłaty wierzycieli za poprzedni rok kalendarzowy, w którym wykazuje osiągnięte przychody, spłacone kwoty oraz nabyte składniki majątkowe o wartości przekraczającej przeciętne miesięczne wynagrodzenie w sektorze przedsiębiorstw bez wypłat nagród z zysku w trzecim kwartale roku poprzedniego, ogłoszone przez Prezesa Głównego Urzędu Statystycznego. Do sprawozdania upadły dołącza kopię rocznego zeznania podatkowego.
+1.
+Jeżeli upadły nie może wywiązać się z obowiązków określonych w planie spłaty wierzycieli, sąd na jego wniosek po wysłuchaniu wierzycieli może zmienić plan spłaty wierzycieli. Sąd może przedłużyć termin spłaty zobowiązań na dalszy okres nieprzekraczający osiemnastu miesięcy. Na postanowienie sądu przysługuje zażalenie, a na postanowienie sądu drugiej instancji – skarga kasacyjna.
+2.
+W przypadku istotnej poprawy sytuacji majątkowej upadłego w okresie wykonywania planu spłaty wierzycieli wynikającej z innych przyczyn niż zwiększenie się wynagrodzenia za pracę lub dochodów uzyskiwanych z osobiście wykonywanej przez upadłego działalności zarobkowej wierzyciel oraz upadły mogą wystąpić z wnioskiem o zmianę planu spłaty wierzycieli. O zmianie planu spłaty wierzycieli sąd orzeka po wysłuchaniu upadłego i wierzycieli objętych planem spłaty. Na postanowienie sądu przysługuje zażalenie.
+3.
+Do wierzycieli, których wierzytelności powstałe przed zakończeniem postępowania upadłościowego zostały po ustaleniu planu spłaty wierzycieli stwierdzone prawomocnym orzeczeniem, ugodą zawartą przed sądem lub ostateczną decyzją, przepis ust. 2 stosuje się odpowiednio.
+1.
+W przypadku niewykonywania przez upadłego obowiązków ustalonych w planie spłaty wierzycieli sąd z urzędu albo na wniosek wierzyciela uchyla plan spłaty wierzycieli po wysłuchaniu upadłego i wierzycieli objętych planem spłaty, chyba że uchybienie obowiązkom jest nieznaczne lub umorzenie pozostałej części zobowiązań upadłego jest uzasadnione względami słuszności lub względami humanitarnymi. Na postanowienie sądu przysługuje zażalenie.
+2.
+Przepis ust. 1 stosuje się odpowiednio, jeżeli upadły:
+1)
+nie złożył w terminie sprawozdania z wykonania planu spłaty wierzycieli zgodnie z art. 370c ust. 4;
+2)
+w sprawozdaniu z wykonania planu spłaty wierzycieli zataił osiągnięte przychody lub nabyte składniki majątkowe, o których mowa w art. 370c ust. 4;
+3)
+dokonał czynności prawnej, o której mowa w art. 370c ust. 2, bez zgody sądu albo czynność ta nie została przez sąd zatwierdzona;
+4)
+ukrywał majątek lub czynność prawna upadłego została prawomocnie uznana za dokonaną z pokrzywdzeniem wierzycieli.
+3.
+W przypadku uchylenia planu spłaty zobowiązania upadłego nie podlegają umorzeniu.
+1.
+Po wykonaniu przez upadłego obowiązków określonych w planie spłaty wierzycieli sąd wydaje postanowienie o stwierdzeniu wykonania planu spłaty i umorzeniu zobowiązań upadłego powstałych przed dniem ogłoszenia upadłości i niezaspokojonych w wyniku wykonania planu spłaty wierzycieli.
+2.
+Nie podlegają umorzeniu zobowiązania o charakterze alimentacyjnym, zobowiązania wynikające z rent z tytułu odszkodowania za wywołanie choroby, niezdolności do pracy, kalectwa lub śmierci, zobowiązania do zapłaty kar grzywny orzeczonych przez sąd, a także do wykonania obowiązku naprawienia szkody oraz zadośćuczynienia za doznaną krzywdę, zobowiązania do zapłaty nawiązki lub świadczenia pieniężnego orzeczonych przez sąd jako środek karny lub środek związany z poddaniem sprawcy próbie, jak również zobowiązania do naprawienia szkody wynikającej z przestępstwa lub wykroczenia stwierdzonego prawomocnym orzeczeniem oraz zobowiązania, których upadły umyślnie nie ujawnił, jeżeli wierzyciel nie brał udziału w postępowaniu.
+3.
+Na postanowienie sądu przysługuje zażalenie.
+4.
+Po wydaniu postanowienia, o którym mowa w ust. 1, niedopuszczalne jest wszczęcie postępowania egzekucyjnego dotyczącego wierzytelności powstałej przed ogłoszeniem upadłości, z wyjątkiem wierzytelności, wynikających z zobowiązań, o których mowa w ust. 2.
+” ;
+203)
+w art. 371 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 i 3 w brzmieniu:
+„
+2.
+Przepis ust. 1 ma odpowiednie zastosowanie w przypadku umorzenia postępowania w przedmiocie ogłoszenia upadłości na podstawie art. 54 ust. 4.
+3.
+Na postanowienie sądu przysługuje zażalenie.
+” ;
+204)
+w art. 372 w ust. 2 pkt 1 i 2 otrzymują brzmienie:
+„
+1)
+upadły może cofnąć wypowiedzenie umów dokonane przez syndyka, jeżeli nie upłynął termin wypowiedzenia;
+2)
+upadły może w terminie trzydziestu dni od dnia ogłoszenia albo doręczenia postanowienia, którym uchylono postępowanie – odstąpić od umów zawartych przez syndyka, jeżeli umowa przez niego zawarta nie została wykonana albo została wykonana częściowo.
+” ;
+205)
+w art. 373:
+a)
+w ust. 1:
+– wprowadzenie do wyliczenia otrzymuje brzmienie: „ Sąd może orzec pozbawienie na okres od jednego do dziesięciu lat prawa prowadzenia działalności gospodarczej na własny rachunek lub w ramach spółki cywilnej oraz pełnienia funkcji członka rady nadzorczej, członka komisji rewizyjnej, reprezentanta lub pełnomocnika osoby fizycznej prowadzącej działalność gospodarczą w zakresie tej działalności, spółki handlowej, przedsiębiorstwa państwowego, spółdzielni, fundacji lub stowarzyszenia osoby, która ze swojej winy: ” ,
+– pkt 1 otrzymuje brzmienie: „ 1) będąc do tego zobowiązana z mocy ustawy, nie złożyła w ustawowym terminie wniosku o ogłoszenie upadłości albo ” ,
+– po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) faktycznie zarządzając przedsiębiorstwem dłużnika, istotnie przyczyniła się do niezłożenia wniosku o ogłoszenie upadłości w ustawowym terminie, albo ” ,
+– pkt 2 i 3 otrzymują brzmienie: „ 2) po ogłoszeniu upadłości nie wydała lub nie wskazała majątku, ksiąg rachunkowych, korespondencji lub innych dokumentów upadłego, w tym danych w postaci elektronicznej, do których wydania lub wskazania była obowiązana z mocy ustawy, albo 3) jako upadły po ogłoszeniu upadłości ukrywała, niszczyła lub obciążała majątek wchodzący w skład masy upadłości, albo ” ,
+b)
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+„
+1a.
+Mimo zaistnienia przesłanki, o której mowa w ust. 1 pkt 1, sąd może oddalić wniosek o orzeczenie zakazu prowadzenia działalności gospodarczej, jeżeli został złożony wniosek o otwarcie przyspieszonego postępowania układowego, postępowania układowego lub postępowania sanacyjnego, a rozmiar pokrzywdzenia wierzycieli jest nieznaczny.
+” ,
+c)
+ust. 2 otrzymuje brzmienie:
+„
+2.
+Przy orzekaniu zakazu, o którym mowa w ust. 1, sąd bierze pod uwagę stopień winy oraz skutki podejmowanych działań, w szczególności obniżenie wartości ekonomicznej przedsiębiorstwa upadłego i rozmiar pokrzywdzenia wierzycieli.
+” ,
+d)
+w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Sąd może orzec pozbawienie na okres od jednego do dziesięciu lat prawa prowadzenia działalności gospodarczej na własny rachunek lub w ramach spółki cywilnej oraz pełnienia funkcji członka rady nadzorczej, członka komisji rewizyjnej, reprezentanta lub pełnomocnika osoby fizycznej prowadzącej działalność gospodarczą w zakresie tej działalności, spółki handlowej, przedsiębiorstwa państwowego, spółdzielni, fundacji lub stowarzyszenia osoby, wobec której: ” ;
+206)
+w art. 374 ust. 2 otrzymuje brzmienie:
+„
+2.
+Do osób uprawnionych do reprezentowania przedsiębiorcy będącego osobą prawną albo spółką handlową niemającą osobowości prawnej oraz osób faktycznie zarządzających przedsiębiorstwem dłużnika, jeżeli niewypłacalność przedsiębiorcy lub pogorszenie jego sytuacji finansowej jest następstwem celowego działania lub rażącego niedbalstwa tych osób, przepis ust. 1 stosuje się.
+” ;
+207)
+w art. 376:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Postępowanie w sprawach, o których mowa w art. 373 i art. 374, wszczyna się wyłącznie na wniosek wierzyciela, tymczasowego nadzorcy sądowego, zarządcy przymusowego, syndyka, prokuratora, a także Prezesa Urzędu Ochrony Konkurencji i Konsumentów oraz Komisji Nadzoru Finansowego. Wygaśnięcie w toku postępowania funkcji tymczasowego nadzorcy, zarządcy przymusowego lub syndyka oraz zaspokojenie wierzytelności wierzyciela będącego wnioskodawcą nie ma wpływu na dalszy bieg postępowania wszczętego na jego wniosek. W sprawach tych stosuje się przepisy o postępowaniu nieprocesowym.
+” ,
+b)
+dodaje się ust. 5 w brzmieniu:
+„
+5.
+Postanowienie o orzeczeniu zakazu prowadzenia działalności gospodarczej obwieszcza się.
+” ;
+208)
+art. 377 otrzymuje brzmienie:
+„
+Nie orzeka się zakazu, o którym mowa w art. 373, jeżeli postępowanie w tej sprawie nie zostało wszczęte w terminie roku od dnia umorzenia lub zakończenia postępowania upadłościowego albo oddalenia wniosku o ogłoszenie upadłości na podstawie art. 13, a gdy wniosek o ogłoszenie upadłości nie był złożony, w terminie trzech lat od dnia ustania stanu niewypłacalności albo wygaśnięcia obowiązku złożenia wniosku o ogłoszenie upadłości przez daną osobę.
+” ;
+209)
+art. 379–381 otrzymują brzmienie:
+„
+Ilekroć w przepisach niniejszej części jest mowa o:
+1)
+zagranicznym postępowaniu upadłościowym – należy przez to rozumieć wszelkie postępowania sądowe lub administracyjne lub inne postępowania poddane nadzorowi sądu zagranicznego, których przedmiotem jest wspólne dochodzenie roszczeń przeciwko dłużnikowi niewypłacalnemu lub zagrożonemu niewypłacalnością, prowadzone za granicą, w których mienie i sprawy dłużnika są poddane kontroli lub zarządowi zagranicznego sądu lub zagranicznego zarządcy w celu ich restrukturyzacji lub likwidacji;
+2)
+głównym zagranicznym postępowaniu upadłościowym – należy przez to rozumieć postępowanie, o którym mowa w pkt 1, jeżeli prowadzone jest w państwie, w którym znajduje się główny ośrodek podstawowej działalności dłużnika;
+3)
+ubocznym zagranicznym postępowaniu upadłościowym – należy przez to rozumieć postępowanie, o którym mowa w pkt 1, jeżeli nie ma charakteru głównego i jeżeli prowadzone jest w państwie miejsca prowadzenia działalności dłużnika albo jego miejsca zamieszkania lub siedziby albo w państwie, w którym znajduje się majątek dłużnika;
+4)
+zarządcy zagranicznym – należy przez to rozumieć osobę lub podmiot wyznaczony w zagranicznym postępowaniu upadłościowym do zarządzania majątkiem dłużnika, reorganizowania lub likwidacji jego majątku, jak również do nadzoru nad zarządzaniem majątkiem dłużnika lub jego reorganizacją;
+5)
+sądzie zagranicznym – należy przez to rozumieć sąd lub inny organ władzy publicznej uprawniony do prowadzenia lub nadzorowania zagranicznego postępowania upadłościowego;
+6)
+miejscu prowadzenia działalności – należy przez to rozumieć miejsce, w którym dłużnik podejmuje czynności w zakresie działalności o charakterze ekonomicznym, jeżeli nie mają charakteru jednorazowego lub krótkotrwałego;
+7)
+uznanym zagranicznym postępowaniu upadłościowym – należy przez to rozumieć zagraniczne postępowanie upadłościowe, co do którego zostało wydane przez polski sąd prawomocne postanowienie o uznaniu orzeczenia o wszczęciu postępowania.
+1.
+Wierzyciel, którego miejsce zwykłego pobytu, miejsce zamieszkania albo siedziba znajdują się za granicą, korzysta w postępowaniu upadłościowym z praw, które przysługują wierzycielowi, którego miejsce zwykłego pobytu, miejsce zamieszkania albo siedziba znajdują się w Rzeczypospolitej Polskiej.
+2.
+Wierzyciel, który nie ma miejsca zamieszkania, zwykłego pobytu albo siedziby w Rzeczypospolitej Polskiej lub w innym państwie członkowskim Unii Europejskiej, jeżeli nie ustanowił w Rzeczypospolitej Polskiej pełnomocnika do prowadzenia sprawy, jest obowiązany wskazać pełnomocnika do doręczeń w Rzeczypospolitej Polskiej.
+3.
+W przypadku niewskazania pełnomocnika do doręczeń, przeznaczone dla tego wierzyciela pisma sądowe pozostawia się w aktach sprawy ze skutkiem doręczenia. Wierzyciela należy o tym pouczyć przy pierwszym doręczeniu. Wierzyciela należy również pouczyć o tym, kto może być ustanowiony pełnomocnikiem.
+4.
+Zagraniczne wierzytelności publicznoprawne, w szczególności należności podatkowe oraz z tytułu ubezpieczenia społecznego, mogą być zgłoszone w postępowaniu upadłościowym, o ile ich dochodzenie w Rzeczypospolitej Polskiej jest dopuszczalne. W takim przypadku wierzytelności te podlegają zaspokojeniu w kategorii drugiej, z wyjątkiem kar majątkowych niemających charakteru cywilnoprawnego, orzeczonych przez sądy lub organy administracyjne za granicą, które podlegają zaspokojeniu w kategorii trzeciej.
+W sprawach nieuregulowanych przepisami niniejszej części przepisy części I oraz Kodeksu postępowania cywilnego dotyczące międzynarodowego postępowania cywilnego stosuje się odpowiednio.
+” ;
+210)
+art. 382 otrzymuje brzmienie:
+„
+1.
+Do wyłącznej jurysdykcji sądów polskich należą sprawy upadłościowe, jeżeli w Rzeczypospolitej Polskiej znajduje się główny ośrodek podstawowej działalności dłużnika.
+2.
+Sądom polskim przysługuje również jurysdykcja, jeżeli dłużnik prowadzi w Rzeczypospolitej Polskiej działalność gospodarczą albo ma miejsce zamieszkania lub siedzibę albo majątek.
+3.
+Jeżeli jurysdykcja sądu polskiego jest wyłączna, postępowanie upadłościowe ma charakter głównego postępowania upadłościowego. W pozostałych przypadkach postępowanie upadłościowe ma charakter ubocznego postępowania upadłościowego.
+” ;
+211)
+w części II tytuł tytułu III otrzymuje brzmienie: „Uznawanie orzeczeń o wszczęciu zagranicznego postępowania upadłościowego”;
+212)
+uchyla się art. 385;
+213)
+w art. 386:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Postępowanie w przedmiocie uznania orzeczenia o wszczęciu zagranicznego postępowania upadłościowego wszczyna się na wniosek zarządcy zagranicznego albo dłużnika, któremu pozostawiono zarząd własny majątkiem.
+” ,
+b)
+w ust. 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu:
+„
+3)
+spis wierzycieli, których miejsce zamieszkania, siedziba lub główny ośrodek podstawowej działalności znajdują się na terenie Rzeczypospolitej Polskiej, wierzycieli, których wierzytelności wynikają z działalności ekonomicznej dłużnika prowadzonej w Rzeczypospolitej Polskiej, oraz wierzycieli, którym przysługują wobec dłużnika wierzytelności zabezpieczone na majątku dłużnika położonym na terenie Rzeczypospolitej Polskiej hipoteką, zastawem, zastawem skarbowym, zastawem rejestrowym, hipoteką morską lub przeniesieniem na zabezpieczenie rzeczy, wierzytelności lub innych praw majątkowych.
+” ,
+c)
+ust. 3 i 4 otrzymują brzmienie:
+„
+3.
+W przypadku braku dokumentów wymienionych w ust. 2 pkt 1 i 2 do wniosku należy dołączyć inny wiarygodny dowód na piśmie wszczęcia zagranicznego postępowania i wyznaczenia zagranicznego zarządcy.
+4.
+Do wniosku należy ponadto dołączyć oświadczenie wnioskodawcy o innych postępowaniach zagranicznych prowadzonych wobec upadłego, które są znane wnioskodawcy, oraz oświadczenie zawierające informacje o terminie zgłaszania wierzytelności, adresie, pod którym wierzytelności należy zgłaszać, jak również o innych niezbędnych danych, które należy podać w zgłoszeniu, oraz o języku zgłoszenia.
+” ,
+d)
+dodaje się ust. 6 w brzmieniu:
+„
+6.
+Wnioskodawca uiszcza zaliczkę na wydatki w toku postępowania w przedmiocie uznania orzeczenia o wszczęciu zagranicznego postępowania upadłościowego w wysokości jednokrotności przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w trzecim kwartale roku poprzedniego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego i wraz z wnioskiem przedstawia dowód jej uiszczenia. W przypadku nieuiszczenia zaliczki przewodniczący wzywa do jej uiszczenia w terminie tygodnia pod rygorem zwrotu wniosku.
+” ;
+214)
+art. 387 otrzymuje brzmienie:
+„
+Uczestnikami postępowania w przedmiocie uznania orzeczenia o wszczęciu zagranicznego postępowania upadłościowego są zarządca zagraniczny albo dłużnik, któremu pozostawiono zarząd własny majątkiem.
+” ;
+215)
+art. 389 otrzymuje brzmienie:
+„
+Po wniesieniu wniosku o uznanie orzeczenia o wszczęciu zagranicznego postępowania upadłościowego, wnioskodawca jest obowiązany niezwłocznie informować sąd:
+1)
+o zmianie postępowania zagranicznego, którego dotyczy wniosek o uznanie orzeczenia o wszczęciu zagranicznego postępowania upadłościowego, oraz o ustanowieniu lub zmianie zarządcy;
+2)
+o innych zagranicznych postępowaniach upadłościowych dotyczących dłużnika oraz innych postępowaniach sądowych, administracyjnych, sądowoadministracyjnych i przed sądami polubownymi dotyczących majątku dłużnika, które są znane wnioskodawcy.
+” ;
+216)
+w art. 390 ust. 1 otrzymuje brzmienie:
+„
+1.
+Z dniem wniesienia wniosku o uznanie orzeczenia o wszczęciu zagranicznego postępowania upadłościowego sąd na wniosek wnioskodawcy może:
+1)
+wydać postanowienie o zabezpieczeniu;
+2)
+zabezpieczyć dowody potrzebne do dochodzenia roszczeń przeciw dłużnikowi.
+” ;
+217)
+uchyla się art. 391;
+218)
+w art. 392 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Orzeczenie o wszczęciu zagranicznego postępowania upadłościowego podlega uznaniu, jeżeli: ” ;
+219)
+w art. 393:
+a)
+w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W postanowieniu o uznaniu orzeczenia o wszczęciu zagranicznego postępowania upadłościowego określa się: ” ,
+b)
+ust. 2 otrzymuje brzmienie:
+„
+2.
+W postanowieniu o uznaniu orzeczenia o wszczęciu zagranicznego postępowania upadłościowego wzywa się wierzycieli upadłego do zgłoszenia wierzytelności, wskazując termin zgłaszania wierzytelności oraz adres, pod którym wierzytelności należy zgłosić, jak również niezbędne dane, które należy podać w zgłoszeniu, i język zgłoszenia.
+” ,
+c)
+dodaje się ust. 3–5 w brzmieniu:
+„
+3.
+Postanowienie o uznaniu orzeczenia o wszczęciu zagranicznego postępowania upadłościowego obwieszcza się.
+4.
+Odpis postanowienia o uznaniu orzeczenia o wszczęciu zagranicznego postępowania upadłościowego doręcza się wierzycielom wskazanym przez wnioskodawcę w spisie, o którym mowa w art. 386 ust. 2 pkt 3, oraz innym wierzycielom wskazanym w tym przepisie, jeżeli są znani sądowi, nawet jeżeli nie zostali wskazani w spisie przedłożonym przez wnioskodawcę. Wierzycieli poucza się o skutkach uznania orzeczenia o wszczęciu zagranicznego postępowania upadłościowego oraz o możliwości złożenia wniosku o wszczęcie wtórnego postępowania upadłościowego i skutkach niezłożenia wniosku w terminie trzydziestu dni od dnia obwieszczenia.
+5.
+Na postanowienie w przedmiocie uznania orzeczenia o wszczęciu zagranicznego postępowania upadłościowego przysługuje zażalenie wnioskodawcy oraz wierzycielom, o których mowa w art. 386 ust. 2 pkt 3.
+” ;
+220)
+po art. 393 dodaje się art. 393a w brzmieniu:
+„
+1.
+Niezwłocznie po uznaniu orzeczenia o wszczęciu zagranicznego postępowania upadłościowego sąd zabezpiecza majątek dłużnika znajdujący się na terenie Rzeczypospolitej Polskiej przez ustanowienie tymczasowego nadzorcy sądowego.
+2.
+Czynności zagranicznego zarządcy albo dłużnika sprawującego zarząd własny majątkiem, dotyczące majątku znajdującego się na terenie Rzeczypospolitej Polskiej przekraczające zakres zwykłego zarządu wymagają zgody tymczasowego nadzorcy sądowego pod rygorem nieważności, chyba że wymagają zgody sądu. Zgody tymczasowego nadzorcy sądowego wymaga również wywiezienie składników majątku dłużnika poza teren Rzeczypospolitej Polskiej.
+3.
+Zabezpieczenie przez ustanowienie tymczasowego nadzorcy sądowego upada z mocy prawa z chwilą wszczęcia wtórnego postępowania upadłościowego, prawomocnego oddalenia lub odrzucenia wniosku o wszczęcie wtórnego postępowania upadłościowego lub umorzenia postępowania w przedmiocie wniosku albo niezłożenia wniosku o wszczęcie wtórnego postępowania upadłościowego w terminie trzydziestu dni od dnia obwieszczenia postanowienia o uznaniu orzeczenia o wszczęciu zagranicznego postępowania upadłościowego.
+4.
+Z dniem uznania orzeczenia o wszczęciu zagranicznego postępowania upadłościowego zarówno głównego, jak i ubocznego sąd na wniosek zarządcy zagranicznego może zabezpieczyć dowody.
+” ;
+221)
+w art. 394 ust. 1 i 2 otrzymują brzmienie:
+„
+1.
+Jeżeli przepisy ustawy nie stanowią inaczej, uznanie orzeczenia o wszczęciu zagranicznego postępowania upadłościowego skutkuje z mocy prawa uznaniem wydanych w jego toku orzeczeń dotyczących powołania, odwołania oraz zmiany zarządcy zagranicznego, a także orzeczeń dotyczących toku zagranicznego postępowania upadłościowego, jego zawieszenia i zakończenia.
+2.
+Egzekucja przeciwko upadłemu na podstawie zagranicznych tytułów egzekucyjnych wykonalnych w państwie, w którym zostały wydane w uznanym zagranicznym postępowaniu upadłościowym, w tym na podstawie listy wierzytelności lub innych podobnych dokumentów, jak również egzekucja na podstawie postanowień układu zawartego w uznanym zagranicznym postępowaniu upadłościowym, a także egzekucja na podstawie wyciągów, odpisów i innych podobnych dokumentów wystawionych na podstawie układu zawartego w uznanym postępowaniu upadłościowym, może być prowadzona po stwierdzeniu ich wykonalności przez sąd uznający orzeczenie o wszczęciu zagranicznego postępowania upadłościowego.
+” ;
+222)
+w art. 395:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Postanowienie o uznaniu orzeczenia o wszczęciu zagranicznego postępowania upadłościowego może być w każdym czasie zmienione lub uchylone w przypadku późniejszego wykrycia, że nie było podstaw do jego uznania albo podstawy te przestały istnieć.
+” ,
+b)
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+„
+1a.
+Sąd uchyla postanowienie o uznaniu orzeczenia o wszczęciu zagranicznego postępowania upadłościowego, jeżeli w zagranicznym postępowaniu upadłościowym został przyjęty układ, którego treść jest rażąco sprzeczna z polskim prawem.
+” ,
+c)
+dodaje się ust. 3 w brzmieniu:
+„
+3.
+Przepisy art. 393 ust. 3–5 stosuje się odpowiednio.
+” ;
+223)
+art. 396 otrzymuje brzmienie:
+„
+1.
+W postanowieniu o zmianie orzeczenia o uznaniu orzeczenia o wszczęciu zagranicznego postępowania upadłościowego sąd określa zakres zmian, w szczególności zakres uprawnień zarządcy zagranicznego.
+2.
+W przypadku pozbawienia zarządcy zagranicznego prawa do prowadzenia postępowań cywilnych, wszczęte przez niego postępowania podlegają umorzeniu, chyba że sąd prowadzący postępowanie postanowi, że do postępowań tych może wstąpić inny zarządca zagraniczny albo syndyk ustanowiony w postępowaniu upadłościowym lub dłużnik. Do interwencji ubocznych zgłoszonych przez zarządcę zagranicznego przepis ten stosuje się odpowiednio.
+” ;
+224)
+w art. 397 ust. 1 otrzymuje brzmienie:
+„
+1.
+Z dniem uznania orzeczenia o wszczęciu zagranicznego postępowania upadłościowego do skutków wszczęcia zagranicznego postępowania upadłościowego dla prowadzonych w Rzeczypospolitej Polskiej postępowań sądowych, egzekucyjnych, administracyjnych, sądowoadministracyjnych lub przed sądami polubownymi stosuje się prawo polskie z uwzględnieniem, likwidacyjnego lub restrukturyzacyjnego charakteru zagranicznego postępowania upadłościowego, zakresu pozbawienia dłużnika prawa zarządu majątkiem oraz zakresu objęcia wierzytelności układem. Prawo polskie stosuje się również do oceny możliwości wszczęcia postępowania po uznaniu orzeczenia o wszczęciu zagranicznego postępowania upadłościowego.
+” ;
+225)
+uchyla się art. 399 i art. 400;
+226)
+po art. 400 dodaje się art. 400a w brzmieniu:
+„
+Po uznaniu orzeczenia o wszczęciu zagranicznego postępowania upadłościowego postępowanie toczy się w sądzie, który uznał orzeczenie.
+” ;
+227)
+w art. 401:
+a)
+ust. 1 i 2 otrzymują brzmienie:
+„
+1.
+Po uznaniu orzeczenia o wszczęciu głównego zagranicznego postępowania upadłościowego zarządca zagraniczny lub dłużnik, któremu pozostawiono zarząd własny majątkiem, sporządza spis inwentarza i oszacowanie, które obejmują wchodzący do masy upadłości majątek upadłego znajdujący się na terenie Rzeczypospolitej Polskiej. Spis inwentarza wraz z oszacowaniem zarządca zagraniczny lub dłużnik, któremu pozostawiono zarząd własny majątkiem, składa sądowi uznającemu orzeczenie o wszczęciu zagranicznego postępowania w terminie czterech miesięcy od dnia uprawomocnienia się postanowienia o uznaniu. O dokonanym spisie i oszacowaniu obwieszcza się. Wnioski o wyłączenie z masy upadłości rozpoznaje sąd uznający. Termin do wniesienia takich wniosków wynosi trzydzieści dni od dnia obwieszczenia.
+2.
+Po sporządzeniu spisu inwentarza i oszacowania zarządca zagraniczny lub dłużnik, któremu pozostawiono zarząd własny majątkiem, składa sądowi uznającemu plan likwidacji majątku położonego w Rzeczypospolitej Polskiej oraz ogólną informację o przewidywanym sposobie zaspokojenia wierzycieli, w tym również mających miejsce zamieszkania, miejsce zwykłego pobytu albo siedzibę w Rzeczypospolitej Polskiej. Na tej podstawie sąd uznający postanowieniem wyda zezwolenie na likwidację majątku upadłego znajdującego się na terenie Rzeczypospolitej Polskiej. Postanowienie to sąd uznający wydaje nie wcześniej niż po upływie terminu, w którym można żądać wyłączenia z masy upadłości. Na postanowienie o odmowie wydania zezwolenia przysługuje zażalenie.
+” ,
+b)
+ust. 4 otrzymuje brzmienie:
+„
+4.
+Do ustalenia składu masy upadłości, spisu inwentarza i oszacowania, wyłączeń z masy upadłości, zarządu masą upadłości znajdującą się w Rzeczypospolitej Polskiej oraz likwidacji masy upadłości stosuje się przepisy niniejszej ustawy. Sąd uznający może zezwolić na likwidację masy upadłości w inny sposób, jeżeli nie narusza to podstawowych zasad porządku prawnego Rzeczypospolitej Polskiej.
+” ,
+c)
+dodaje się ust. 5 i 6 w brzmieniu:
+„
+5.
+Po zakończeniu likwidacji majątku znajdującego się na terytorium Rzeczypospolitej Polskiej sąd uznający wydaje postanowienie o zakończeniu postępowania.
+6.
+Sąd uznający wydaje również postanowienie o zakończeniu postępowania w przypadku wszczęcia wtórnego postępowania upadłościowego oraz w przypadku uprawomocnienia się postanowienia o uchyleniu postanowienia o uznaniu orzeczenia o wszczęciu zagranicznego postępowania upadłościowego.
+” ;
+228)
+art. 402 otrzymuje brzmienie:
+„
+Po uznaniu orzeczenia o wszczęciu zagranicznego postępowania upadłościowego zarządca zagraniczny jest uprawniony do złożenia wniosku o ogłoszenie upadłości oraz do udziału w postępowaniu upadłościowym prowadzonym przez sądy polskie, tak jak wierzyciel.
+” ;
+229)
+w art. 403 ust. 1 otrzymuje brzmienie:
+„
+1.
+W przypadku uznania orzeczenia o wszczęciu zagranicznego postępowania upadłościowego, skutki ogłoszenia upadłości co do majątku upadłego położonego w Rzeczypospolitej Polskiej oraz zobowiązań, które powstały lub mają być wykonywane w Rzeczypospolitej Polskiej, ocenia się według prawa polskiego.
+” ;
+230)
+art. 404 otrzymuje brzmienie:
+„
+1.
+Zaspokojenie wierzytelności zabezpieczonych ograniczonymi prawami rzeczowymi na rzeczach znajdujących się w Rzeczypospolitej Polskiej albo wpisanymi do ksiąg wieczystych i rejestrów w Rzeczypospolitej Polskiej następuje według prawa polskiego. Przepisu art. 313 ust. 2 zdanie piąte nie stosuje się.
+2.
+Hipoteka wygasa z chwilą zawarcia umowy sprzedaży, pod warunkiem że środki wpłyną na rachunek depozytowy Ministra Finansów. Podstawą wykreślenia hipoteki jest zaświadczenie sądu uznającego.
+3.
+Wypłata kwot z depozytu następuje bezpośrednio na rzecz wierzycieli po zatwierdzeniu planu podziału sporządzonego przez zagranicznego zarządcę albo na podstawie postanowienia sądu uznającego, jeżeli nie sporządzono planu podziału.
+” ;
+231)
+w art. 405:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Uznanie orzeczenia o wszczęciu zagranicznego postępowania upadłościowego nie stanowi przeszkody do wszczęcia przez sąd polski postępowania upadłościowego. Jeżeli jednak uznane zostało orzeczenie o wszczęciu głównego zagranicznego postępowania upadłościowego, postępowanie upadłościowe wszczęte w Rzeczypospolitej Polskiej jest wtórnym postępowaniem upadłościowym.
+” ,
+b)
+ust. 3 otrzymuje brzmienie:
+„
+3.
+Jeżeli uznane zostało orzeczenie o wszczęciu ubocznego zagranicznego postępowania upadłościowego, postępowanie upadłościowe w Rzeczypospolitej Polskiej toczy się na zasadach ogólnych.
+” ;
+232)
+w art. 406 ust. 1 otrzymuje brzmienie:
+„
+1.
+Przepisy o wtórnym postępowaniu upadłościowym stosuje się również do postępowań upadłościowych wszczętych przed uznaniem orzeczenia o wszczęciu zagranicznego postępowania upadłościowego, jeżeli sąd polski uzna zagraniczne postępowanie upadłościowe za główne.
+” ;
+233)
+art. 407–410 otrzymują brzmienie:
+„
+Sąd wszczyna wtórne postępowanie upadłościowe, jeżeli wnosi o to wierzyciel mający miejsce zamieszkania, siedzibę lub główny ośrodek podstawowej działalności w Rzeczypospolitej Polskiej, wierzyciel, którego wierzytelności wynikają z działalności ekonomicznej dłużnika prowadzonej w Rzeczypospolitej Polskiej, lub wierzyciel, któremu przysługują wobec dłużnika wierzytelności zabezpieczone na majątku dłużnika położonym na terenie Rzeczypospolitej Polskiej hipoteką, zastawem, zastawem skarbowym, zastawem rejestrowym, hipoteką morską lub przeniesieniem na zabezpieczenie rzeczy, wierzytelności lub innych praw majątkowych.
+W przypadku uznania orzeczenia o wszczęciu głównego zagranicznego postępowania upadłościowego domniemywa się, że dłużnik jest niewypłacalny.
+W przypadku wniesienia wniosku o wszczęcie wtórnego postępowania upadłościowego sąd może uchylić lub zmienić zabezpieczenia ustanowione na podstawie art. 390.
+Po wszczęciu wtórnego postępowania upadłościowego:
+1)
+zarząd majątkiem upadłego położonym w Rzeczypospolitej Polskiej wykonywany dotychczas przez zarządcę zagranicznego lub dłużnika, któremu pozostawiono zarząd własny majątkiem, przejmuje syndyk ustanowiony we wtórnym postępowaniu upadłościowym;
+2)
+syndyk wstępuje do postępowań sądowych, egzekucyjnych, administracyjnych, sądowoadministracyjnych oraz przed sądami polubownymi, prowadzonych przez zarządcę zagranicznego lub dłużnika, któremu pozostawiono zarząd własny majątkiem.
+” ;
+234)
+po art. 410 dodaje się art. 410a i art. 410b w brzmieniu:
+„
+1.
+Jeżeli w uznanym głównym zagranicznym postępowaniu upadłościowym został zawarty układ, którego treść nie jest rażąco sprzeczna z polskim prawem, sąd wyznacza termin zgromadzenia wierzycieli w celu głosowania nad uznaniem skuteczności zagranicznego układu.
+2.
+W zgromadzeniu wierzycieli biorą udział z prawem głosu wierzyciele, których miejsce zamieszkania, siedziba lub główny ośrodek podstawowej działalności znajdują się na terenie Rzeczypospolitej Polskiej, wierzyciele, których wierzytelności wynikają z działalności ekonomicznej dłużnika prowadzonej w Rzeczypospolitej Polskiej, oraz wierzyciele, którym przysługują wobec dłużnika wierzytelności zabezpieczone na majątku dłużnika położonym na terenie Rzeczypospolitej Polskiej hipoteką, zastawem, zastawem skarbowym, zastawem rejestrowym, hipoteką morską lub przeniesieniem na zabezpieczenie rzeczy, wierzytelności lub innych praw majątkowych.
+3.
+Do zgromadzenia wierzycieli i głosowania przepisy o zgromadzeniu i głosowaniu nad układem w postępowaniu upadłościowym stosuje się odpowiednio.
+1.
+Jeżeli na zgromadzeniu wierzycieli nie podjęto uchwały o uznaniu skuteczności zagranicznego układu, sąd umarza wtórne postępowanie upadłościowe i uchyla postanowienie o uznaniu orzeczenia o wszczęciu zagranicznego postępowania upadłościowego.
+2.
+Przepisy art. 393 ust. 3–5 stosuje się odpowiednio.
+” ;
+235)
+art. 411 otrzymuje brzmienie:
+„
+Jeżeli we wtórnym postępowaniu upadłościowym ma zostać zawarty układ, a w zagranicznym głównym postępowaniu upadłościowym ma nastąpić likwidacja majątku upadłego, układ może mieć wyłącznie charakter likwidacyjny.
+” ;
+236)
+art. 413 i art. 414 otrzymują brzmienie:
+„
+W sprawach uregulowanych przepisami niniejszej części sąd i sędzia-komisarz mogą porozumiewać się bezpośrednio z sądem zagranicznym i zarządcą zagranicznym, w szczególności przez telefon, faks lub pocztę elektroniczną.
+Syndyk ustanowiony w postępowaniu upadłościowym porozumiewa się z sądem zagranicznym i zarządcą zagranicznym bezpośrednio lub za pośrednictwem sędziego-komisarza.
+” ;
+237)
+w art. 416 pkt 1 otrzymuje brzmienie:
+„
+1)
+dotyczące majątku upadłego i miejsca jego położenia, jak również informacje dotyczące postępowań sądowych, administracyjnych, sądowoadministracyjnych i przed sądami polubownymi dotyczących upadłego;
+” ;
+238)
+art. 417 otrzymuje brzmienie:
+„
+1.
+Jeżeli w Rzeczypospolitej Polskiej wszczęto postępowanie upadłościowe i uznano orzeczenia o wszczęciu dwóch lub więcej zagranicznych postępowań upadłościowych przeciwko temu samemu upadłemu, sędzia-komisarz określa, jaki majątek dłużnika objęty zostanie poszczególnymi postępowaniami. Na postanowienie sędziego-komisarza przysługuje zażalenie.
+2.
+Jeżeli w Rzeczypospolitej Polskiej nie zostało wszczęte postępowanie upadłościowe obejmujące majątek należący do podmiotu, wobec którego są prowadzone zagraniczne postępowania upadłościowe, postanowienie, o którym mowa w ust. 1, wydaje sąd, który uznał orzeczenie o wszczęciu zagranicznego postępowania upadłościowego. Przepisy części pierwszej tytułu II stosuje się odpowiednio.
+” ;
+239)
+uchyla się art. 420;
+240)
+art. 423 otrzymuje brzmienie:
+„
+Do czynności upadłego, dokonanych na sześć miesięcy przed jego śmiercią, przepisy art. 127–130a stosuje się.
+” ;
+241)
+w części trzeciej tytuł Ia otrzymuje brzmienie:
+„
+Przepisy niniejszego tytułu stosuje się w przypadku ogłoszenia upadłości dewelopera w rozumieniu ustawy z dnia 16 września 2011 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego (Dz. U. Nr 232, poz. 1377 oraz z 2015 r. poz. 978), zwanej dalej „ustawą o ochronie nabywcy”.
+Postępowanie określone w niniejszym tytule prowadzi się w celach, o których mowa w art. 2, a także aby doprowadzić do zaspokojenia nabywców w drodze przeniesienia na nich własności lokali, o ile racjonalne względy na to pozwolą.
+Ilekroć w przepisach niniejszego tytułu jest mowa o:
+1)
+nabywcy – należy przez to rozumieć osobę fizyczną, osobę prawną, a także jednostkę organizacyjną niebędącą osobą prawną, której odrębna ustawa przyznaje zdolność prawną, wobec której deweloper zobowiązał się do przeniesienia prawa, o którym mowa w art. 1 ustawy o ochronie nabywcy, i która zobowiązała się do spełnienia świadczenia pieniężnego na rzecz dewelopera na poczet ceny nabycia tego prawa;
+2)
+przeniesieniu własności lokalu – należy przez to rozumieć przeniesienie własności lokalu mieszkalnego, a także przeniesienie własności nieruchomości gruntowej zabudowanej domem jednorodzinnym lub użytkowania wieczystego nieruchomości gruntowej i własności domu jednorodzinnego na niej posadowionego stanowiącego odrębną nieruchomość;
+3)
+umowie deweloperskiej – należy przez to rozumieć umowę między upadłym a nabywcą, której przedmiotem jest przeniesienie prawa, o którym mowa w art. 1 ustawy o ochronie nabywcy.
+W przypadku gdy upadły jest emitentem obligacji, a dla zabezpieczenia praw z obligacji ustanowiono zabezpieczenie na nieruchomości, na której realizowane jest przedsięwzięcie deweloperskie, przepisów art. 488–490 nie stosuje się.
+1.
+W postępowaniu upadłościowym syndyk może dalej prowadzić przedsięwzięcie deweloperskie upadłego za zgodą sędziego-komisarza. Sędzia-komisarz udziela zgody, jeżeli racjonalne względy wskazują, że dalsze prowadzenie przedsięwzięcia deweloperskiego jest ekonomicznie uzasadnione i istnieją szanse na jego ukończenie.
+2.
+Syndyk prowadzi dalej przedsięwzięcie deweloperskie upadłego, w odniesieniu do którego we wcześniejszym postępowaniu sanacyjnym wobec upadłego nabywcy podjęli uchwałę, o której mowa w art. 358 ust. 4 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne, oraz wpłacili lub zabezpieczyli dopłaty w terminach, o których mowa w art. 359 ust. 1 i 2 tej ustawy, ale układ nie doszedł do skutku, chyba że na odstąpienie od dalszego prowadzenia przedsięwzięcia deweloperskiego wyraził zgodę sędzia-komisarz.
+3.
+Syndyk przechowuje środki pieniężne uzyskane z dopłat wpłaconych we wcześniejszym postępowaniu sanacyjnym, przekazane mu przez zarządcę ustanowionego w tym postępowaniu, na odrębnym rachunku bankowym. W przypadku odstąpienia od dalszego prowadzenia przedsięwzięcia deweloperskiego syndyk zwraca dopłaty nabywcom, a zabezpieczenia wpłacenia dopłat wygasają z mocy prawa.
+4.
+W przypadku prawomocnego oddalenia lub odrzucenia wniosku o ogłoszenie upadłości lub umorzenia postępowania w przedmiocie ogłoszenia upadłości przepis ust. 3 stosuje się odpowiednio.
+1.
+W przypadku dalszego prowadzenia przedsięwzięcia deweloperskiego zgodnie z art. 425e do umowy deweloperskiej przepisu art. 98 nie stosuje się w zakresie, w jakim przewiduje uprawnienie syndyka do odstąpienia od umowy, a do roszczenia nabywcy wynikającego z umowy deweloperskiej przepisu art. 91 nie stosuje się. Roszczenie nabywcy zaspokajane jest przez przeniesienie własności lokalu.
+2.
+Przeniesienie własności lokalu nie wywołuje skutków sprzedaży egzekucyjnej. Przepisu art. 313 nie stosuje się.
+Jeżeli nieruchomość, na której prowadzone jest przedsięwzięcie deweloperskie, obciążona jest hipoteką, której przysługuje pierwszeństwo przed roszczeniami chociażby jednego nabywcy, a wierzyciel zabezpieczony hipoteką wyraził zgodę na bezobciążeniowe wyodrębnienie lokalu mieszkalnego, o której mowa w art. 22 ust. 1 pkt 17 ustawy o ochronie nabywcy, zgodnie z art. 76 ust. 4 zdanie drugie ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2013 r. poz. 707, z późn. zm.), zgoda taka pozostaje w mocy na warunkach w niej określonych, przy czym warunek wykonania zobowiązania nabywcy względem upadłego uznaje się za spełniony w przypadku wykonania zobowiązania do rąk syndyka lub zarządcy ustanowionego we wcześniejszym postępowaniu sanacyjnym.
+1.
+Jeżeli w toku postępowania upadłościowego ujawni się podstawa do przyjęcia, że dalsze prowadzenie przedsięwzięcia deweloperskiego nie jest uzasadnione racjonalnymi względami, sędzia-komisarz na wniosek syndyka udziela zgody na zaprzestanie dalszego prowadzenia przedsięwzięcia deweloperskiego. Na postanowienie sędziego-komisarza przysługuje zażalenie.
+2.
+Uprawomocnienie się postanowienia sędziego-komisarza o wyrażeniu zgody na zaprzestanie dalszego prowadzenia przedsięwzięcia deweloperskiego wywołuje z mocy prawa skutek odstąpienia przez syndyka od umów deweloperskich na podstawie art. 98, a do roszczeń nabywców wynikających z tych umów przepis art. 91 stosuje się odpowiednio.
+3.
+Do dopłat w części niewykorzystanej przepis art. 425e ust. 3 zdanie drugie stosuje się.
+4.
+Po uprawomocnieniu się postanowienia sędziego-komisarza o wyrażeniu zgody na zaprzestanie dalszego prowadzenia przedsięwzięcia deweloperskiego syndyk informuje o tym bank prowadzący mieszkaniowy rachunek powierniczy dla przedsięwzięcia deweloperskiego i składa dyspozycję zwrotu środków znajdujących się na rachunku nabywcom.
+Sumy uzyskane z likwidacji nieruchomości, na której prowadzone jest przedsięwzięcie deweloperskie, podlegają podziałowi na zasadach ogólnych, z tym że w przypadku wyrażenia przez wierzyciela zabezpieczonego hipoteką zgody na bezobciążeniowe wyodrębnienie lokalu mieszkalnego, o której mowa w art. 22 ust. 1 pkt 17 ustawy o ochronie nabywcy, zgodnie z art. 76 ust. 4 zdanie drugie ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece, uznaje się, że roszczeniu nabywcy lokalu, którego ta zgoda dotyczy, przysługuje pierwszeństwo przed hipoteką w zakresie, w jakim dokonał wpłat na poczet umowy.
+Roszczenia nabywcy wynikające z odstąpienia od umowy deweloperskiej podlegają zaspokojeniu z sum uzyskanych z likwidacji nieruchomości, na której prowadzone jest przedsięwzięcie deweloperskie, na takich samych zasadach jak roszczenie z umowy deweloperskiej. Nabywcy przysługuje pierwszeństwo wynikające z ujawnienia w księdze wieczystej przysługującego mu roszczenia z umowy deweloperskiej, także w przypadku gdy wpis o ujawnieniu tego roszczenia został wykreślony.
+Roszczenie pieniężne nabywcy powstałe wskutek przekształcenia roszczenia z umowy deweloperskiej w toku postępowania restrukturyzacyjnego lub upadłościowego podlega zaspokojeniu w sposób określony w art. 425j.
+1.
+Na wniosek syndyka sędzia-komisarz może wyrazić zgodę na sprzedaż nieruchomości, na której prowadzone jest przedsięwzięcie deweloperskie, przedsiębiorcy, który zobowiąże się do kontynuacji przedsięwzięcia deweloperskiego.
+2.
+Przedsiębiorca nabywający nieruchomość na podstawie ust. 1 odpowiada solidarnie z upadłym za jego zobowiązania z umów deweloperskich zawartych w związku z przedsięwzięciem deweloperskim realizowanym na nieruchomości, jak również za zobowiązania wobec nabywców wynikające z przekształcenia roszczeń z takich umów w toku postępowania restrukturyzacyjnego lub upadłościowego lub z odstąpienia od takich umów. Zobowiązania, o których mowa w zdaniu poprzednim, nie podlegają zaspokojeniu w postępowaniu upadłościowym prowadzonym wobec upadłego.
+3.
+Wraz z własnością nieruchomości przedsiębiorca nabywający nieruchomość na podstawie ust. 1 nabywa przysługujące upadłemu prawa wynikające z umów deweloperskich zawartych w związku z przedsięwzięciem deweloperskim realizowanym na nieruchomości.
+4.
+Sprzedaż nieruchomości na podstawie ust. 1 nie wywołuje skutków sprzedaży egzekucyjnej. Przepisu art. 313 nie stosuje się.
+5.
+Wyrażając zgodę na sprzedaż nieruchomości na podstawie ust. 1, sędzia-komisarz uwzględnia interes nabywców oraz prawdopodobieństwo dokończenia przedsięwzięcia deweloperskiego przez przedsiębiorcę nabywającego nieruchomość.
+6.
+Do umowy deweloperskiej zawartej w ramach przedsięwzięcia deweloperskiego prowadzonego na nieruchomości podlegającej sprzedaży na podstawie ust. 1 przepisów art. 98 nie stosuje się. Do roszczenia nabywcy wynikającego z umowy deweloperskiej przepisu art. 91 nie stosuje się.
+7.
+W przypadku sprzedaży nieruchomości na podstawie ust. 1 przepisów art. 336, art. 345 i art. 346 nie stosuje się.
+1.
+Jeżeli dla przedsięwzięcia deweloperskiego prowadzonego na nieruchomości nabytej na podstawie art. 425l ust. 1 jest prowadzony mieszkaniowy rachunek powierniczy upadłego, przedsiębiorca nabywający tę nieruchomość jest obowiązany do zawarcia umowy o prowadzenie mieszkaniowego rachunku powierniczego w terminie trzydziestu dni od dnia wyrażenia przez sędziego-komisarza zgody, o której mowa w art. 425l ust. 1. O otwarciu rachunku powierniczego przedsiębiorca niezwłocznie informuje syndyka.
+2.
+Niezwłocznie po zawarciu przez przedsiębiorcę umowy o prowadzenie mieszkaniowego rachunku powierniczego zgodnie z ust. 1 syndyk informuje bank prowadzący mieszkaniowy rachunek powierniczy upadłego o przejściu praw z umów deweloperskich zgodnie z art. 425l ust. 3 i składa dyspozycję przekazania środków zgromadzonych na mieszkaniowym rachunku powierniczym upadłego na mieszkaniowy rachunek powierniczy przedsiębiorcy.
+3.
+Po przekazaniu środków, o których mowa w ust. 2, na mieszkaniowy rachunek powierniczy przedsiębiorcy nabywającego nieruchomość na podstawie art. 425l ust. 1 umowa o prowadzenie mieszkaniowego rachunku powierniczego upadłego wygasa.
+Nabywcy w liczbie stanowiącej co najmniej 20% liczby nabywców w ramach przedsięwzięcia deweloperskiego prowadzonego przez upadłego mogą zgłosić propozycje układowe w terminie trzydziestu dni od dnia ogłoszenia upadłości.
+1.
+Propozycje układowe mogą także obejmować:
+1)
+wpłacenie dopłat przez wszystkich albo niektórych nabywców i zaspokojenie ich przez przeniesienie własności lokali, przy czym propozycje układowe mogą przewidywać późniejszy zwrot dopłat z przychodów z realizacji przedsięwzięcia deweloperskiego;
+2)
+sprzedaż nieruchomości, na której prowadzone jest przedsięwzięcie deweloperskie, z zachowaniem ciążących na niej ograniczonych praw rzeczowych, na rzecz przedsiębiorcy, który przejąłby zobowiązania wobec nabywców i zobowiązałby się do kontynuacji przedsięwzięcia deweloperskiego, przy czym propozycje układowe mogą przewidywać zmianę treści umów deweloperskich;
+3)
+określenie innych warunków kontynuacji przedsięwzięcia deweloperskiego i sposobów jego finansowania;
+4)
+zamianę lokali między wierzycielami lub zamianę lokalu na lokal niebędący przedmiotem umowy deweloperskiej.
+2.
+Przepis art. 162 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne stosuje się odpowiednio.
+1.
+Propozycje układowe mogą przewidywać różny sposób traktowania nabywców w zależności od tego, czy wpłacą oni dopłaty, o których mowa w art. 425o ust. 1 pkt 1.
+2.
+Do propozycji układowych przewidujących sposób restrukturyzacji, o którym mowa w art. 425o ust. 1 pkt 2, załącza się sporządzone w formie aktu notarialnego nieodwołalne oświadczenie woli przedsiębiorcy o nabyciu nieruchomości, na której jest prowadzone przedsięwzięcie deweloperskie, wraz z ciążącymi na niej obciążeniami i o przejęciu zobowiązań upadłego w stosunku do nabywców. W przypadku prawomocnego zatwierdzenia układu przewidującego sprzedaż nieruchomości na zasadach określonych w oświadczeniu woli przedsiębiorcy, o którym mowa w niniejszym ustępie, oświadczenie to zastępuje jego oświadczenie woli konieczne do zawarcia umowy sprzedaży nieruchomości, na której jest prowadzone przedsięwzięcie deweloperskie, a umowę uznaje się za zawartą.
+3.
+Prawomocne postanowienie o zatwierdzeniu układu wraz z oświadczeniem, o którym mowa w ust. 2, stanowi podstawę ujawnienia prawa własności w księdze wieczystej. Jeżeli dla przedsięwzięcia deweloperskiego jest prowadzony mieszkaniowy rachunek powierniczy upadłego, przepis art. 425m stosuje się odpowiednio.
+1.
+Głosowanie nad układem przeprowadza się w grupach wierzycieli.
+2.
+Nabywcy stanowią odrębną grupę wierzycieli, dla której sporządza się odrębną listę wierzycieli uprawnionych do głosowania. Dopuszczalny jest dodatkowy podział nabywców na większą liczbę grup obejmujących poszczególne kategorie interesów, w szczególności z uwagi na stopień wykonania umowy z deweloperem.
+1.
+Jeżeli zostaną zgłoszone propozycje układowe przewidujące sposób restrukturyzacji, o którym mowa w art. 425o ust. 1 pkt 1, sędzia-komisarz niezwłocznie przeprowadza wstępne głosowanie nabywców nad propozycjami układowymi w zakresie ich dotyczącym.
+2.
+Sędzia-komisarz sporządza listę nabywców uprawnionych do głosowania na podstawie listy przedłożonej przez syndyka.
+3.
+Uchwała nabywców zostaje przyjęta, jeżeli wypowiedzą się za nią nabywcy deklarujący łącznie dopłaty wystarczające zgodnie z treścią propozycji układowych do sfinansowania dokończenia przedsięwzięcia deweloperskiego.
+4.
+Przyjęcie uchwały stwierdza sędzia-komisarz postanowieniem.
+1.
+W przypadku przyjęcia uchwały nabywców, o której mowa w art. 425r ust. 3, nabywcy zobowiązani do wpłacenia dopłat wpłacają je do masy upadłości lub zabezpieczają ich wpłatę w zakresie przewidzianym uchwałą w terminie dwóch miesięcy od dnia podjęcia uchwały. W szczególnie uzasadnionych przypadkach termin może zostać przedłużony postanowieniem sędziego-komisarza.
+2.
+Jeżeli w terminie, o którym mowa w ust. 1, nie zostaną wpłacone lub zabezpieczone wszystkie dopłaty, w pełnej wysokości przewidzianej uchwałą, nabywcy mogą uzupełnić brakujące dopłaty, wpłacając je lub zabezpieczając ich wpłatę w terminie trzydziestu dni od bezskutecznego upływu terminu, o którym mowa w ust. 1. W tym samym terminie upadły lub syndyk mogą przedstawić dowód istnienia innych źródeł finansowania przedsięwzięcia deweloperskiego.
+3.
+Wpłacenie lub zabezpieczenie dopłat lub innych środków w wysokości wystarczającej na sfinansowanie przedsięwzięcia deweloperskiego stwierdza postanowieniem sędzia-komisarz, jednocześnie wyznaczając termin zgromadzenia wierzycieli w celu głosowania nad układem. Treść uchwały nabywców, o której mowa w art. 425r ust. 3, włącza się do układu, a zgromadzenie wierzycieli nie może przyjąć układu o treści odbiegającej od uchwały nabywców w zakresie nią uregulowanym. Sędzia-komisarz zwraca uwagę wierzycieli uczestniczących w zgromadzeniu wierzycieli na niezgodność propozycji układowych z uchwałą nabywców. Sąd odmawia zatwierdzenia układu o treści odbiegającej od uchwały nabywców w zakresie nią uregulowanym.
+4.
+Jeżeli w terminach, o których mowa w ust. 1 lub 2, zostaną wpłacone lub zabezpieczone dopłaty w wysokości przewidzianej uchwałą nabywców, o której mowa w art. 425r ust. 3, przedsięwzięcie deweloperskie może być dalej prowadzone.
+5.
+W przypadku niedojścia układu do skutku pomimo podjęcia uchwały nabywców, o której mowa w art. 425r ust. 3, oraz wpłacenia lub zabezpieczenia w terminach, o których mowa w ust. 1 lub 2, dopłat w wysokości wystarczającej na sfinansowanie przedsięwzięcia deweloperskiego w dalszym toku postępowania upadłościowego odstąpienie przez syndyka od kontynuacji przedsięwzięcia deweloperskiego wymaga zgody sędziego-komisarza.
+6.
+Syndyk przechowuje środki pieniężne uzyskane z dopłat na odrębnym rachunku bankowym. W przypadku odstąpienia od dalszego prowadzenia przedsięwzięcia deweloperskiego syndyk zwraca dopłaty nabywcom, a zabezpieczenia wpłacenia dopłat wygasają z mocy prawa.
+7.
+Po uprawomocnieniu się postanowienia sędziego-komisarza o wyrażeniu zgody na odstąpienie przez syndyka od kontynuacji przedsięwzięcia deweloperskiego syndyk informuje o tym bank prowadzący mieszkaniowy rachunek powierniczy dla przedsięwzięcia deweloperskiego i składa dyspozycję zwrotu środków znajdujących się na rachunku nabywcom.
+” ;
+242)
+art. 426 otrzymuje brzmienie:
+„
+1.
+Bank jest niewypłacalny również wówczas, gdy według bilansu sporządzonego na koniec okresu sprawozdawczego aktywa banku nie wystarczają na zaspokojenie jego zobowiązań.
+2.
+Wniosek o ogłoszenie upadłości banku może zgłosić tylko Komisja Nadzoru Finansowego.
+3.
+W postępowaniu upadłościowym wobec banku przepisów art. 11 ust. 3–7 oraz art. 38–43 nie stosuje się.
+” ;
+243)
+w art. 427:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Przed ogłoszeniem upadłości banku, sąd wysłuchuje co do podstaw ogłoszenia upadłości oraz co do osoby syndyka:
+1)
+przedstawiciela Komisji Nadzoru Finansowego;
+2)
+prezesa oraz innych członków ostatniego zarządu albo zarządu komisarycznego, albo likwidatora banku, którego dotyczy wniosek.
+” ,
+b)
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+„
+1a.
+W przypadku postępowania dotyczącego upadłości banku będącego podmiotem zależnym od Skarbu Państwa, sąd wysłuchuje również przedstawiciela ministra właściwego do spraw Skarbu Państwa.
+” ;
+244)
+w art. 429 uchyla się ust. 1 i 2;
+245)
+art. 432 otrzymuje brzmienie:
+„
 
-## TYTUŁ I Przepisy ogólne o postępowaniach restrukturyzacyjnych i ich skutkach
+## Tytuł I Przepisy ogólne o postępowaniach restrukturyzacyjnych i ich skutkach
 
-### DZIAŁ I Przepisy ogólne
+### Dział I Przepisy ogólne
 
 #### Rozdział 1 Przepisy wstępne
 
 **Art. 1.** Ustawa reguluje:
 
+- **1)** zawieranie przez dłużnika niewypłacalnego lub zagrożonego niewypłacalnością układu z wierzycielami oraz skutki układu;
+- **2)** przeprowadzanie działań sanacyjnych.
+
 **Art. 2.** Restrukturyzację przeprowadza się w następujących postępowaniach restrukturyzacyjnych:
+
+- **1)** postępowaniu o zatwierdzenie układu;
+- **2)** przyspieszonym postępowaniu układowym;
+- **3)** postępowaniu układowym;
+- **4)** postępowaniu sanacyjnym.
 
 **Art. 3.**
 
@@ -46,17 +1067,17 @@ Art. 401–447. (pominięte)
 2. Postępowanie o zatwierdzenie układu:
 
 - **1)** umożliwia zawarcie układu w wyniku samodzielnego zbierania głosów wierzycieli przez dłużnika bez udziału sądu;
-- **2)** może być prowadzone, jeżeli suma wierzytelności spornych uprawniających do głosowania nad układem nie przekracza 15 % sumy wierzytelności uprawniających do głosowania nad układem.
+- **2)** może być prowadzone, jeżeli suma wierzytelności spornych uprawniających do głosowania nad układem nie przekracza 15% sumy wierzytelności uprawniających do głosowania nad układem.
 
 3. Przyspieszone postępowanie układowe:
 
 - **1)** umożliwia dłużnikowi zawarcie układu po sporządzeniu i zatwierdzeniu spisu wierzytelności w uproszczonym trybie;
-- **2)** może być prowadzone, jeżeli suma wierzytelności spornych uprawniających do głosowania nad układem nie przekracza 15 % sumy wierzytelności uprawniających do głosowania nad układem.
+- **2)** może być prowadzone, jeżeli suma wierzytelności spornych uprawniających do głosowania nad układem nie przekracza 15% sumy wierzytelności uprawniających do głosowania nad układem.
 
 4. Postępowanie układowe:
 
 - **1)** umożliwia dłużnikowi zawarcie układu po sporządzeniu i zatwierdzeniu spisu wierzytelności;
-- **2)** może być prowadzone, jeżeli suma wierzytelności spornych uprawniających do głosowania nad układem przekracza 15 % sumy wierzytelności uprawniających do głosowania nad układem.
+- **2)** może być prowadzone, jeżeli suma wierzytelności spornych uprawniających do głosowania nad układem przekracza 15% sumy wierzytelności uprawniających do głosowania nad układem.
 
 5. Postępowanie sanacyjne umożliwia dłużnikowi przeprowadzenie działań sanacyjnych oraz zawarcie układu po sporządzeniu i zatwierdzeniu spisu wierzytelności.
 
@@ -66,36 +1087,33 @@ Art. 401–447. (pominięte)
 
 1. Przepisy ustawy stosuje się do:
 
-- **1)** przedsiębiorców w rozumieniu ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508 oraz z 2026 r. poz. 184), zwanej dalej „Kodeksem cywilnym”;
-- **2)** spółek z ograniczoną odpowiedzialnością, prostych spółek akcyjnych i spółek akcyjnych nieprowadzących działalności gospodarczej;
+- **1)** przedsiębiorców w rozumieniu ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2014 r. poz. 121, z późn. zm.), zwanej dalej „Kodeksem cywilnym”;
+- **2)** spółek z ograniczoną odpowiedzialnością i spółek akcyjnych nieprowadzących działalności gospodarczej;
 - **3)** wspólników osobowych spółek handlowych ponoszących odpowiedzialność za zobowiązania spółki bez ograniczenia całym swoim majątkiem;
 - **4)** wspólników spółki partnerskiej.
 
 2. Przepisów ustawy nie stosuje się do:
 
 - **1)** Skarbu Państwa i jednostek samorządu terytorialnego;
-- **2)** banków krajowych;
-- **3)** Banku Gospodarstwa Krajowego;
-- **4)** oddziałów banków zagranicznych;
-- **5)** spółdzielczych kas oszczędnościowo-kredytowych;
-- **6)** domów maklerskich, o których mowa w art. 95 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722, z późn. zm. );
-- **7)** zakładów ubezpieczeń i zakładów reasekuracji;
-- **8)** funduszy inwestycyjnych;
-- **9)** instytucji finansowych w rozumieniu art. 4 ust. 1 pkt 26 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem nr 575/2013”, z siedzibą w państwie członkowskim Unii Europejskiej, jeżeli są jednostką zależną w rozumieniu art. 4 ust. 1 pkt 16 rozporządzenia nr 575/2013 wobec instytucji kredytowej, o której mowa w art. 4 ust. 1 pkt 1 rozporządzenia nr 575/2013, podmiotu, o którym mowa w pkt 3–8, innej instytucji finansowej w rozumieniu art. 4 ust. 1 pkt 26 rozporządzenia nr 575/2013 z siedzibą w państwie członkowskim Unii Europejskiej lub firmy inwestycyjnej w rozumieniu art. 4 ust. 1 pkt 22 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2033 z dnia 27 listopada 2019 r. w sprawie wymogów ostrożnościowych dla firm inwestycyjnych oraz zmieniającego rozporządzenia (UE) nr 1093/2010, (UE) nr 575/2013, (UE) nr 600/2014 i (UE) nr 806/2014 (Dz. Urz. UE L 314 z 05.12.2019, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem nr 2019/2033”, i są objęte nadzorem skonsolidowanym sprawowanym zgodnie z przepisami części pierwszej tytułu II rozdziału 1 i rozdziału 2 sekcji 1 rozporządzenia nr 575/2013;
-- **9a)** instytucji finansowych w rozumieniu art. 4 ust. 1 pkt 14 rozporządzenia nr 2019/2033 z siedzibą w państwie członkowskim Unii Europejskiej, jeżeli są jednostką zależną w rozumieniu art. 4 ust. 1 pkt 51 rozporządzenia nr 2019/2033 wobec podmiotu, o którym mowa w pkt 6–8, innej instytucji finansowej w rozumieniu art. 4 ust. 1 pkt 14 rozporządzenia nr 2019/2033 z siedzibą w państwie członkowskim Unii Europejskiej lub firmy inwestycyjnej w rozumieniu art. 4 ust. 1 pkt 22 rozporządzenia nr 2019/2033 i są objęte nadzorem nad grupą firm inwestycyjnych na zasadzie skonsolidowanej lub nadzorem nad zgodnością z grupowym testem kapitałowym, o których mowa w ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
-- **10)** finansowych spółek holdingowych w rozumieniu w art. 4 ust. 1 pkt 20 rozporządzenia nr 575/2013 z siedzibą w państwie członkowskim Unii Europejskiej;
-- **10a)** inwestycyjnych spółek holdingowych w rozumieniu art. 4 ust. 1 pkt 23 rozporządzenia nr 2019/2033;
-- **11)** finansowych spółek holdingowych o działalności mieszanej w rozumieniu art. 4 ust. 1 pkt 21 rozporządzenia nr 575/2013 z siedzibą w państwie członkowskim Unii Europejskiej;
-- **12)** holdingów mieszanych w rozumieniu art. 4 ust. 1 pkt 22 rozporządzenia nr 575/2013 z siedzibą w państwie członkowskim Unii Europejskiej lub holdingów mieszanych w rozumieniu art. 110a ust. 1 pkt 6c ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi z siedzibą w państwie członkowskim Unii Europejskiej;
-- **13)** dominujących finansowych spółek holdingowych z państwa członkowskiego Unii Europejskiej w rozumieniu art. 4 ust. 1 pkt 30 rozporządzenia nr 575/2013;
-- **14)** unijnych dominujących finansowych spółek holdingowych w rozumieniu art. 4 ust. 1 pkt 31 rozporządzenia nr 575/2013;
-- **14a)** unijnych dominujących inwestycyjnych spółek holdingowych w rozumieniu art. 4 ust. 1 pkt 57 rozporządzenia nr 2019/2033;
-- **15)** dominującej finansowej spółki holdingowej o działalności mieszanej z państwa członkowskiego Unii Europejskiej, o której mowa w art. 4 ust. 1 pkt 32 rozporządzenia nr 575/2013;
-- **16)** unijnej dominującej finansowej spółki holdingowej o działalności mieszanej, o której mowa w art. 4 ust. 1 pkt 33 rozporządzenia nr 575/2013, lub unijnej dominującej finansowej spółki holdingowej o działalności mieszanej, o której mowa w art. 4 ust. 1 pkt 58 rozporządzenia nr 2019/2033.
+- **2)** banków państwowych;
+- **3)** zakładów ubezpieczeń i zakładów reasekuracji;
+- **4)** funduszy inwestycyjnych.
 
-**Art. 5.** (uchylony)
+**Art. 5.**
 
-**Art. 5a.** Ilekroć w ustawie jest mowa o „Rejestrze”, należy przez to rozumieć Krajowy Rejestr Zadłużonych.
+1. Tworzy się Centralny Rejestr Restrukturyzacji i Upadłości, zwany dalej „Rejestrem”.
+
+2. Rejestr:
+
+- **1)** służy zamieszczaniu i obwieszczaniu postanowień, zarządzeń, dokumentów i informacji dotyczących postępowania restrukturyzacyjnego i upadłościowego;
+- **2)** służy udostępnianiu danych zawartych w postanowieniach, zarządzeniach, dokumentach i informacjach, dotyczących postępowania restrukturyzacyjnego i upadłościowego, obwieszczonych w Rejestrze w odniesieniu do danego podmiotu;
+- **3)** umożliwia składanie pism i dokumentów oraz dokonywanie doręczeń;
+- **4)** wspomaga organizację pracy i prowadzenie postępowania restrukturyzacyjnego i upadłościowego;
+- **5)** służy udostępnianiu wzorów pism procesowych i dokumentów określonych w ustawie.
+
+3. Rejestr jest prowadzony w systemie teleinformatycznym administrowanym i udostępnianym przez Ministra Sprawiedliwości.
+
+4. Minister Sprawiedliwości określi, w drodze rozporządzenia, organizację Rejestru, sposób zamieszczania i obwieszczania postanowień, zarządzeń, dokumentów i informacji dotyczących postępowania restrukturyzacyjnego i upadłościowego, sposób udostępniania danych, o których mowa w ust. 2 pkt 2, i szczegółową treść tych danych, sposób składania pism i dokumentów oraz dokonywania doręczeń, w tym wymogi techniczne niezbędne do składania dokumentów za pośrednictwem Rejestru, sposób i zakres wspomagania organizacji pracy i prowadzenia postępowania restrukturyzacyjnego i upadłościowego oraz sposób udostępniania wzorów pism procesowych i dokumentów określonych w ustawie, mając na uwadze konieczność zapewnienia dostępu do Rejestru organom i uczestnikom postępowania restrukturyzacyjnego i upadłościowego oraz osobom zainteresowanym, z rozróżnieniem zakresu informacji ujawnianych publicznie oraz dostępnych jedynie dla uczestników i organów postępowania, konieczność zapewnienia kompletności danych zawartych w Rejestrze oraz ich niezwłocznej aktualizacji wskutek obwieszczania i zamieszczania postanowień, zarządzeń, dokumentów i informacji dotyczących postępowania restrukturyzacyjnego i upadłościowego, potrzebę zapewnienia czytelności oraz przejrzystości danych prezentowanych w Rejestrze, łatwość jego użytkowania oraz konieczność zapewnienia bezpieczeństwa przetwarzanych danych.
 
 #### Rozdział 2 Podstawy otwarcia postępowania
 
@@ -103,7 +1121,7 @@ Art. 401–447. (pominięte)
 
 1. Postępowanie restrukturyzacyjne może być prowadzone wobec dłużnika niewypłacalnego lub zagrożonego niewypłacalnością.
 
-2. Przez dłużnika niewypłacalnego należy rozumieć dłużnika niewypłacalnego w rozumieniu ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2025 r. poz. 614, 1085, 1170 i 1172 oraz z 2026 r. poz. 331 i 340), zwanej dalej „Prawem upadłościowym”.
+2. Przez dłużnika niewypłacalnego należy rozumieć dłużnika niewypłacalnego w rozumieniu ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2015 r. poz. 233 i 978), zwanej dalej „Prawem upadłościowym”.
 
 3. Przez dłużnika zagrożonego niewypłacalnością należy rozumieć dłużnika, którego sytuacja ekonomiczna wskazuje, że w niedługim czasie może stać się niewypłacalny.
 
@@ -113,27 +1131,19 @@ Art. 401–447. (pominięte)
 
 2. Przez wniosek restrukturyzacyjny należy rozumieć wniosek o otwarcie postępowania restrukturyzacyjnego oraz wniosek o zatwierdzenie układu przyjętego w postępowaniu o zatwierdzenie układu.
 
-3. Zarządzenie o wpisaniu do repertorium wniosku restrukturyzacyjnego złożonego przez dłużnika, prawomocne zarządzenie o zwrocie tego wniosku oraz prawomocne postanowienie o odrzuceniu lub oddaleniu tego wniosku lub umorzeniu postępowania w przedmiocie rozpoznania tego wniosku obwieszcza się.
-
 **Art. 8.**
 
 1. Sąd odmawia otwarcia postępowania restrukturyzacyjnego, jeżeli skutkiem tego postępowania byłoby pokrzywdzenie wierzycieli.
 
 2. Sąd odmawia otwarcia postępowania układowego lub sanacyjnego również, jeżeli nie została uprawdopodobniona zdolność dłużnika do bieżącego zaspokajania kosztów postępowania i zobowiązań powstałych po jego otwarciu.
 
-#### Rozdział 3 Plan restrukturyzacyjny oraz test zaspokojenia
+#### Rozdział 3 Plan restrukturyzacyjny
 
-**Art. 9.**
-
-1. Wstępny plan restrukturyzacyjny zawiera co najmniej:
+**Art. 9.** Wstępny plan restrukturyzacyjny zawiera co najmniej:
 
 - **1)** analizę przyczyn trudnej sytuacji ekonomicznej dłużnika;
 - **2)** wstępny opis i przegląd planowanych środków restrukturyzacyjnych i związanych z nimi kosztów;
 - **3)** wstępny harmonogram wdrożenia środków restrukturyzacyjnych.
-
-2. Wstępny plan restrukturyzacyjny zawiera również sprawozdanie finansowe dłużnika sporządzone na dzień przypadający w okresie trzydziestu dni przed dniem złożenia wniosku.
-
-3. Jeżeli dłużnik nie może załączyć sprawozdania, o którym mowa w ust. 2, podaje przyczyny niezałączenia sprawozdania.
 
 **Art. 10.**
 
@@ -142,47 +1152,20 @@ Art. 401–447. (pominięte)
 - **1)** opis przedsiębiorstwa dłużnika wraz z informacją o aktualnym oraz przyszłym stanie podaży i popytu w sektorze rynku, na którym przedsiębiorstwo działa;
 - **2)** analizę przyczyn trudnej sytuacji ekonomicznej dłużnika;
 - **3)** prezentację proponowanej przyszłej strategii prowadzenia przedsiębiorstwa dłużnika oraz informację na temat poziomu i rodzaju ryzyka;
-- **4)** pełny opis i przegląd planowanych środków restrukturyzacyjnych i związanych z nimi kosztów, w szczególności:
-    - **a)** określenie ogólnych skutków w zakresie zatrudnienia, w tym planowanych zwolnień i organizacji pracy w zmniejszonym wymiarze czasu,
-    - **b)** ustalenia dotyczące informowania przedstawicieli pracowników dłużnika i przeprowadzania z nimi konsultacji;
-
+- **4)** pełny opis i przegląd planowanych środków restrukturyzacyjnych i związanych z nimi kosztów;
 - **5)** harmonogram wdrożenia środków restrukturyzacyjnych oraz ostateczny termin wdrożenia planu restrukturyzacyjnego;
 - **6)** informację o zdolnościach produkcyjnych przedsiębiorstwa dłużnika, w szczególności o ich wykorzystaniu i redukcji;
 - **7)** opis metod i źródeł finansowania, w tym wykorzystania dostępnego kapitału, sprzedaży aktywów w celu finansowania restrukturyzacji, finansowych zobowiązań udziałowców i osób trzecich, w szczególności banków lub innych kredytodawców, wielkości udzielonej i wnioskowanej pomocy publicznej oraz pomocy de minimis lub pomocy de minimis w rolnictwie lub rybołówstwie i wykazania zapotrzebowania na nią;
 - **8)** projektowane zyski i straty na kolejne pięć lat oparte na co najmniej dwóch prognozach;
-- **8a)** zestawienie aktywów i pasywów dłużnika wraz ze wskazaniem szacunkowej wartości aktywów oraz opis sytuacji ekonomicznej dłużnika i sytuacji jego pracowników;
 - **9)** imiona i nazwiska osób odpowiedzialnych za wykonanie układu;
 - **10)** imiona i nazwiska autorów planu restrukturyzacyjnego;
 - **11)** datę sporządzenia planu restrukturyzacyjnego.
 
 2. Plan restrukturyzacyjny może być ograniczony, jeżeli z uwagi na wielkość lub charakter przedsiębiorstwa dłużnika ustalenie wszystkich informacji wymienionych w ust. 1 nie jest możliwe albo nie jest niezbędne do dokonania oceny możliwości wykonania układu. Ograniczenie planu restrukturyzacyjnego wymaga uzasadnienia.
 
-2a. Opis przedsiębiorstwa dłużnika zawiera informację, czy w dniu złożenia wniosku restrukturyzacyjnego dłużnik był mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą.
-
-3. (uchylony)
+3. Plan restrukturyzacyjny składa się w postaci elektronicznej i zamieszcza w Rejestrze.
 
 4. W szczególnie uzasadnionych przypadkach, za zgodą sędziego-komisarza, nadzorca sądowy albo zarządca może zlecić sporządzenie planu restrukturyzacyjnego osobom trzecim.
-
-**Art. 10a.**
-
-1. Nadzorca albo zarządca sporządza test zaspokojenia, który zawiera:
-
-- **1)** wycenę wskazującą metody i założenia przyjęte w trakcie jej sporządzania, obejmującą:
-    - **a)** wartość przedsiębiorstwa dłużnika przy założeniu realizacji planu restrukturyzacyjnego i kontynuacji działalności gospodarczej,
-    - **b)** wartość majątku dłużnika przy założeniu ogłoszenia jego upadłości i sprzedaży przedsiębiorstwa jako całości oraz odstąpienia od sprzedaży przedsiębiorstwa jako całości i sprzedaży poszczególnych składników majątku; jeżeli składniki majątku dłużnika są obciążone hipoteką, zastawem, zastawem rejestrowym, zastawem skarbowym, hipoteką morską lub innymi prawami i skutkami ujawnienia praw i roszczeń osobistych, w wycenie należy oddzielnie podać, które z tych praw pozostają w mocy po sprzedaży w postępowaniu upadłościowym, a także wartość tych praw oraz wartość składników majątku nimi obciążonych;
-
-- **2)** informację o przewidywanym stopniu zaspokojenia wierzycieli, których wierzytelności są objęte układem, w postępowaniu upadłościowym, które byłoby prowadzone wobec dłużnika, obejmującą następujące dane:
-    - **a)** wartość majątku dłużnika, o której mowa w pkt 1 lit. b,
-    - **b)** przewidywany czas trwania postępowania upadłościowego oraz przewidywaną wysokość kosztów postępowania upadłościowego oraz innych zobowiązań masy upadłości,
-    - **c)** kategorię, w której w postępowaniu upadłościowym byliby zaspokajani wierzyciele stanowiący grupy obejmujące poszczególne kategorie interesów;
-
-- **3)** ocenę, czy wierzytelności objęte układem będą zaspokojone w wyższym stopniu w przypadku zawarcia i wykonania układu czy w postępowaniu upadłościowym.
-
-2. W przypadku dłużnika, którego upadłości nie można ogłosić zgodnie z przepisami Prawa upadłościowego, wartość majątku, o której mowa w ust. 1 pkt 1 lit. b, oraz informacja, o której mowa w ust. 1 pkt 2, odnoszą się do sytuacji, w której prowadzone byłoby postępowanie egzekucyjne.
-
-3. Nadzorca, za zgodą dłużnika, albo zarządca może zlecić sporządzenie wyceny, o której mowa w ust. 1 pkt 1, osobom trzecim. Nadzorca albo zarządca może wziąć pod uwagę wskazania uczestników postępowania co do metod i założeń sporządzenia wyceny oraz osób sporządzających wycenę.
-
-4. Testu zaspokojenia nie sporządza się w postępowaniu restrukturyzacyjnym prowadzonym wobec dłużnika, który jest mikroprzedsiębiorcą.
 
 #### Rozdział 4 Zbieg postępowania restrukturyzacyjnego i upadłościowego
 
@@ -200,7 +1183,7 @@ Art. 401–447. (pominięte)
 
 **Art. 13.** Jeżeli została ogłoszona upadłość dłużnika, sąd restrukturyzacyjny wstrzymuje rozpoznanie wniosku restrukturyzacyjnego do czasu uprawomocnienia się postanowienia o ogłoszeniu upadłości. Sąd restrukturyzacyjny odmawia zatwierdzenia układu w postępowaniu o zatwierdzenie układu albo odmawia otwarcia postępowania restrukturyzacyjnego w przypadku uprawomocnienia się postanowienia o ogłoszeniu upadłości. W przypadku uchylenia postanowienia o ogłoszeniu upadłości i przekazania sprawy do ponownego rozpoznania przepisy art. 11 i art. 12 ust. 2–4 stosuje się odpowiednio.
 
-### DZIAŁ II Sąd i sędzia-komisarz
+### Dział II Sąd i sędzia-komisarz
 
 #### Rozdział 1 Sąd
 
@@ -266,11 +1249,9 @@ Art. 401–447. (pominięte)
 
 4. Do zastępcy sędziego-komisarza przepisy dotyczące sędziego-komisarza stosuje się odpowiednio.
 
-5. W czasie trwania przemijającej przeszkody do wykonywania czynności przez sędziego-komisarza i jego zastępcę czynności wykonuje jako sędzia-komisarz wyznaczony sędzia, do którego przepisy o czynnościach sędziego-komisarza stosuje się odpowiednio.
-
 **Art. 22.** Organy administracji publicznej i komornicy sądowi udzielają pomocy sędziemu-komisarzowi w wykonywaniu jego czynności.
 
-### DZIAŁ III Nadzorca i zarządca
+### Dział III Nadzorca i zarządca
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -278,9 +1259,7 @@ Art. 401–447. (pominięte)
 
 **Art. 24.**
 
-1. Nadzorcą albo zarządcą może być osoba fizyczna, która posiada pełną zdolność do czynności prawnych i licencję doradcy restrukturyzacyjnego wydawaną na zasadach i w trybie określonych w ustawie z dnia 15 czerwca 2007 r. o licencji doradcy restrukturyzacyjnego (Dz. U. z 2022 r. poz. 1007), zwanej dalej „ustawą o licencji doradcy restrukturyzacyjnego”, oraz ma konto doradcy restrukturyzacyjnego w systemie teleinformatycznym obsługującym postępowanie sądowe, albo spółka handlowa, której wspólnicy ponoszący odpowiedzialność za zobowiązania spółki bez ograniczenia całym swoim majątkiem albo członkowie zarządu reprezentujący spółkę posiadają taką licencję oraz która ma konto doradcy restrukturyzacyjnego w systemie teleinformatycznym obsługującym postępowanie sądowe.
-
-1a. Spółka handlowa, której wspólnicy ponoszący odpowiedzialność za zobowiązania spółki bez ograniczenia całym swoim majątkiem albo członkowie zarządu reprezentujący spółkę posiadają licencję doradcy restrukturyzacyjnego i która zamierza wykonywać obowiązki w postępowaniach restrukturyzacyjnych, zakłada konto doradcy restrukturyzacyjnego w systemie teleinformatycznym obsługującym postępowanie sądowe.
+1. Nadzorcą albo zarządcą może być osoba fizyczna, która posiada pełną zdolność do czynności prawnych i licencję doradcy restrukturyzacyjnego wydawaną na zasadach i w trybie określonych w ustawie z dnia 15 czerwca 2007 r. o licencji doradcy restrukturyzacyjnego (Dz. U. z 2014 r. poz. 776 oraz z 2015 r. poz. 978), zwanej dalej „ustawą o licencji doradcy restrukturyzacyjnego”, albo spółka handlowa, której wspólnicy ponoszący odpowiedzialność za zobowiązania spółki bez ograniczenia całym swoim majątkiem albo członkowie zarządu reprezentujący spółkę posiadają taką licencję.
 
 2. Nadzorcą albo zarządcą nie może być osoba fizyczna albo spółka handlowa, która jest:
 
@@ -288,36 +1267,26 @@ Art. 401–447. (pominięte)
 - **2)** małżonkiem, wstępnym, zstępnym, jednym z rodzeństwa, powinowatym dłużnika lub jego wierzyciela w tej samej linii czy stopniu;
 - **3)** osobą pozostającą z dłużnikiem w stosunku przysposobienia lub małżonkiem tej osoby albo osobą pozostającą z dłużnikiem w faktycznym związku, prowadzącą z nim wspólnie gospodarstwo domowe;
 - **4)** lub była zatrudniona przez dłużnika na podstawie stosunku pracy albo wykonywała pracę lub świadczyła usługi na rzecz dłużnika na podstawie innego stosunku prawnego, z wyjątkiem wykonywania na rzecz dłużnika czynności doradztwa restrukturyzacyjnego, o których mowa w ustawie o licencji doradcy restrukturyzacyjnego;
-- **5)** lub była członkiem organu, prokurentem lub pełnomocnikiem dłużnika albo jest lub w okresie dwóch lat przed dniem złożenia wniosku restrukturyzacyjnego była wspólnikiem albo akcjonariuszem dłużnika posiadającym udziały albo akcje w wysokości wyższej niż 5 % kapitału zakładowego dłużnika lub wierzyciela, a w przypadku prostej spółki akcyjnej – więcej niż 5 % akcji tej spółki;
-- **6)** lub była spółką powiązaną z dłużnikiem lub jest lub była członkiem organu, prokurentem lub pełnomocnikiem takiej spółki albo jest lub w okresie dwóch lat przed dniem złożenia wniosku restrukturyzacyjnego była wspólnikiem albo akcjonariuszem posiadającym udziały albo akcje w wysokości wyższej niż 5 % kapitału zakładowego spółki powiązanej z dłużnikiem, a w przypadku prostej spółki akcyjnej – więcej niż 5 % akcji tej spółki.
+- **5)** lub była członkiem organu, prokurentem lub pełnomocnikiem dłużnika albo jest lub w okresie dwóch lat przed dniem złożenia wniosku restrukturyzacyjnego była wspólnikiem albo akcjonariuszem dłużnika posiadającym udziały albo akcje w wysokości wyższej niż 5% kapitału zakładowego dłużnika lub wierzyciela;
+- **6)** lub była spółką powiązaną z dłużnikiem lub jest lub była członkiem organu, prokurentem lub pełnomocnikiem takiej spółki albo jest lub w okresie dwóch lat przed dniem złożenia wniosku restrukturyzacyjnego była wspólnikiem albo akcjonariuszem posiadającym udziały albo akcje w wysokości wyższej niż 5% kapitału zakładowego spółki powiązanej z dłużnikiem.
 
 3. Powołanie osoby, która była nadzorcą, jako zarządcy w postępowaniu dotyczącym tego samego dłużnika jest niedopuszczalne.
 
 4. Przeszkody, o których mowa w ust. 2 pkt 2 i 3, trwają mimo ustania małżeństwa lub przysposobienia.
 
-5. Nadzorca i zarządca niezwłocznie, niepóźniej niż wraz z podjęciem pierwszej czynności przed sądem lub sędzią-komisarzem, składają do akt postępowania oświadczenie, że nie zachodzą przeszkody, o których mowa w ust. 2 i 3.
-
-6. Jeżeli ustawa wymaga, aby osoba wyznaczona do pełnienia funkcji nadzorcy albo zarządcy posiadała także tytuł kwalifikowanego doradcy restrukturyzacyjnego, funkcję nadzorcy albo zarządcy może również pełnić spółka handlowa, której wspólnicy ponoszący odpowiedzialność za zobowiązania spółki bez ograniczenia całym swoim majątkiem albo członkowie zarządu reprezentujący spółkę posiadają także tytuł kwalifikowanego doradcy restrukturyzacyjnego.
+5. Nadzorca i zarządca niezwłocznie, nie później niż wraz z podjęciem pierwszej czynności przed sądem lub sędzią-komisarzem, składają do akt postępowania oświadczenie, że nie zachodzą przeszkody, o których mowa w ust. 2 i 3.
 
 **Art. 25.**
 
 1. Nadzorca i zarządca odpowiadają za szkodę wyrządzoną na skutek nienależytego wykonywania obowiązków.
 
-2. Nadzorca i zarządca niezwłocznie, niepóźniej niż wraz z podjęciem pierwszej czynności przed sądem lub sędzią-komisarzem, składają do akt postępowania dokument potwierdzający zawarcie umowy ubezpieczenia odpowiedzialności cywilnej za szkody wyrządzone w związku z pełnieniem funkcji. Koszty ubezpieczenia nie stanowią kosztów postępowania restrukturyzacyjnego.
-
-**Art. 25a.**
-
-1. Nadzorca i zarządca udzielają pomocy dłużnikowi i wierzycielom w prowadzonych przez nich negocjacjach w przedmiocie zawarcia układu.
-
-2. Nadzorca i zarządca, za zgodą dłużnika, mogą przybrać mediatora do pomocy w negocjacjach, o których mowa w ust. 1. Umowę z mediatorem zawiera nadzorca albo zarządca.
+2. Nadzorca i zarządca niezwłocznie, nie później niż wraz z podjęciem pierwszej czynności przed sądem lub sędzią-komisarzem, składają do akt postępowania dokument potwierdzający zawarcie umowy ubezpieczenia odpowiedzialności cywilnej za szkody wyrządzone w związku z pełnieniem funkcji. Koszty ubezpieczenia nie stanowią kosztów postępowania restrukturyzacyjnego.
 
 **Art. 26.**
 
 1. Nadzorca informuje dłużnika o dostępnych dla dłużnika źródłach finansowania, w tym pomocy publicznej, a także współpracuje z dłużnikiem w celu uzyskania tego finansowania.
 
 2. Jeżeli istnieje taka potrzeba i możliwość, zarządca podejmuje działania w celu uzyskania dodatkowego źródła finansowania działalności dłużnika, w tym uzyskania pomocy publicznej.
-
-**Art. 26a.** Po obwieszczeniu postanowienia o otwarciu postępowania restrukturyzacyjnego banki, w których dłużnik ma rachunki bankowe, sejfy lub skrytki, oraz spółdzielcze kasy oszczędnościowo-kredytowe, które prowadzą rachunki dłużnika, są obowiązane zawiadomić o tym nadzorcę sądowego albo zarządcę.
 
 **Art. 27.**
 
@@ -334,7 +1303,7 @@ Art. 401–447. (pominięte)
 - **1)** na jego wniosek;
 - **2)** w przypadku cofnięcia albo zawieszenia praw wynikających z licencji doradcy restrukturyzacyjnego osobie fizycznej albo wspólnikom ponoszącym odpowiedzialność za zobowiązania spółki będącej nadzorcą sądowym albo zarządcą bez ograniczenia całym swoim majątkiem albo członkom zarządu reprezentującym taką spółkę;
 - **3)** na podstawie uchwały rady wierzycieli podjętej w trybie określonym w art. 133 ust. 2;
-- **4)** na wniosek dłużnika, do którego dołączono pisemną zgodę wierzyciela lub wierzycieli mających łącznie więcej niż 30 % sumy wierzytelności, z wyłączeniem wierzycieli określonych w art. 80 ust. 3, art. 109 ust. 1 i art. 116.
+- **4)** na wniosek dłużnika, do którego dołączono pisemną zgodę wierzyciela lub wierzycieli mających łącznie więcej niż 30% sumy wierzytelności, z wyłączeniem wierzycieli określonych w art. 80 ust. 3, art. 109 ust. 1 i art. 116.
 
 2. W przypadku, o którym mowa w ust. 1 pkt 4, sąd może odmówić powołania wskazanej osoby, jeżeli zachodzą uzasadnione przyczyny, w szczególności jeżeli jest oczywiste, że wskazana osoba nie daje rękojmi należytego wykonywania obowiązków.
 
@@ -360,15 +1329,11 @@ Art. 401–447. (pominięte)
 
 3. W przypadku rażącego uchybienia albo braku poprawy w wykonywaniu obowiązków mimo nałożonej grzywny lub w przypadku niewykonania obowiązków, o których mowa w art. 24 ust. 5 i art. 25 ust. 2, mimo wezwania do ich spełnienia w terminie tygodnia, sąd odwołuje nadzorcę sądowego albo zarządcę. Odpis prawomocnego postanowienia doręcza się Ministrowi Sprawiedliwości.
 
-3a. Wniosek o odwołanie nadzorcy sądowego albo zarządcy z przyczyn, o których mowa w ust. 3, może złożyć prokurator.
-
 4. Sąd wysłuchuje nadzorcę sądowego albo zarządcę przed ich odwołaniem. W przypadku uprawdopodobnienia podstaw do odwołania nadzorcy sądowego albo zarządcy sąd może do czasu wydania postanowienia w przedmiocie odwołania zawiesić nadzorcę sądowego albo zarządcę w wykonywaniu jego czynności, powołując tymczasowego nadzorcę sądowego albo tymczasowego zarządcę, do których przepisy o nadzorcy sądowym albo zarządcy stosuje się odpowiednio.
 
 5. Na postanowienie sądu w przedmiocie odwołania nadzorcy sądowego albo zarządcy oraz postanowienie sędziego-komisarza w przedmiocie upomnienia lub nałożenia grzywny na nadzorcę sądowego albo zarządcę, przysługuje zażalenie. Zażalenie przysługuje również nadzorcy sądowemu albo zarządcy.
 
 6. Sąd powołuje nadzorcę sądowego albo zarządcę po uprawomocnieniu się postanowienia o odwołaniu, o którym mowa w ust. 3. Do czasu powołania nadzorcy sądowego albo zarządcy sąd powołuje tymczasowego nadzorcę sądowego albo tymczasowego zarządcę, do których przepisy o nadzorcy sądowym albo zarządcy stosuje się odpowiednio.
-
-**Art. 30a.** Postanowienie o powołaniu nadzorcy sądowego, zarządcy albo organu, do którego przepisy o nadzorcy sądowym albo zarządcy stosuje się odpowiednio, a także prawomocne postanowienie o zmianie, odwołaniu, zawieszeniu albo stwierdzeniu wygaśnięcia funkcji nadzorcy sądowego, zarządcy albo organu, do którego przepisy o nadzorcy sądowym albo zarządcy stosuje się odpowiednio, obwieszcza się.
 
 **Art. 31.**
 
@@ -377,27 +1342,24 @@ Art. 401–447. (pominięte)
 2. Sprawozdanie z czynności nadzorcy sądowego obejmuje co najmniej wskazanie:
 
 - **1)** czy dłużnik reguluje zobowiązania powstałe po otwarciu przyspieszonego postępowania układowego lub postępowania układowego;
-- **1a)** stanu niezaspokojonych przez dłużnika zobowiązań;
 - **2)** przedstawionych przez dłużnika wpływów i wydatków oraz wysokości środków pieniężnych zgromadzonych w kasie i na rachunkach bankowych na początku i końcu okresu sprawozdawczego;
 - **3)** czynności przekraczających zakres zwykłego zarządu, na które nadzorca sądowy wyraził zgodę.
 
-3. Sprawozdanie z czynności zarządcy obejmuje co najmniej wskazanie i omówienie etapu przygotowywania lub realizacji planu restrukturyzacyjnego, wskazanie, czy zarządca reguluje zobowiązania powstałe po otwarciu postępowania sanacyjnego, oraz wskazanie stanu niezaspokojonych przez zarządcę zobowiązań.
+3. Sprawozdanie z czynności zarządcy obejmuje co najmniej wskazanie i omówienie etapu przygotowywania lub realizacji planu restrukturyzacyjnego oraz wskazanie, czy zarządca reguluje zobowiązania powstałe po otwarciu postępowania sanacyjnego.
 
 4. Sędzia-komisarz może wyznaczyć inne terminy składania sprawozdań z czynności oraz określić dodatkowe wymogi co do treści tych sprawozdań.
 
 **Art. 32.**
 
-1. Zarządca składa sędziemu-komisarzowi co miesiąc kalendarzowy sprawozdanie rachunkowe. Sprawozdanie rachunkowe obejmuje co najmniej wskazanie źródła i wysokości poszczególnych wpływów i wydatków w okresie sprawozdawczym, w tym wydatków poniesionych przez zarządcę, wysokości środków pieniężnych zgromadzonych w kasie i na rachunkach bankowych na początku i końcu okresu sprawozdawczego oraz informację o stanie wpływów i wydatków na początek i koniec okresu sprawozdawczego oraz rosnąco od dnia otwarcia postępowania, jak również stan przychodów i kosztów na początek i koniec okresu sprawozdawczego oraz rosnąco od dnia otwarcia postępowania.
+1. Zarządca składa sędziemu-komisarzowi co miesiąc kalendarzowy sprawozdanie rachunkowe. Sprawozdanie rachunkowe obejmuje co najmniej wskazanie źródła i wysokości poszczególnych wpływów i wydatków oraz wysokości środków pieniężnych zgromadzonych w kasie i na rachunkach bankowych na początku i końcu okresu sprawozdawczego.
 
 2. Sędzia-komisarz może wyznaczyć inne terminy składania sprawozdań rachunkowych oraz określić dodatkowe wymogi co do ich treści.
 
-3. W terminie trzydziestu dni od dnia złożenia sprawozdania dłużnik i wierzyciele mogą wnosić zarzuty dotyczące wydatków poniesionych przez zarządcę wskazanych w sprawozdaniu, o którym mowa w ust. 1. Zarzuty wniesione po upływie terminu lub nieodpowiadające wymogom formalnym pisma procesowego pozostawia się bez rozpoznania. Przepisu art. 130 § 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568, z późn. zm. ), zwanej dalej „Kodeksem postępowania cywilnego”, nie stosuje się.
+3. Sędzia-komisarz zatwierdza sprawozdanie rachunkowe, odmawia uznania określonego wydatku lub dokonuje odpowiedniego sprostowania oraz orzeka o zwrocie do masy sanacyjnej kwoty niezatwierdzonej.
 
-3a. Sędzia-komisarz w wyniku rozpoznania zarzutów lub z urzędu w terminie dwóch miesięcy od dnia złożenia sprawozdania, o którym mowa w ust. 1, odmawia postanowieniem uznania w całości albo części określonego wydatku poniesionego przez zarządcę oraz orzeka o zwrocie do masy sanacyjnej kwoty poniesionej z tytułu wydatku, którego uznania odmówiono.
+4. Na postanowienie sędziego-komisarza przysługuje zażalenie. Zażalenie przysługuje również zarządcy.
 
-4. Na postanowienie sędziego-komisarza, o którym mowa w ust. 3a, oraz postanowienie o oddaleniu zarzutów przysługuje zażalenie. Zażalenie przysługuje również zarządcy.
-
-5. Prawomocne postanowienie zobowiązujące zarządcę do zwrotu do masy sanacyjnej kwoty poniesionej z tytułu wydatku, którego uznania odmówiono, stanowi tytuł egzekucyjny przeciwko zarządcy.
+5. Prawomocne postanowienie zobowiązujące zarządcę do zwrotu do masy sanacyjnej kwoty niezatwierdzonej stanowi tytuł egzekucyjny przeciwko zarządcy.
 
 **Art. 33.**
 
@@ -411,25 +1373,11 @@ Art. 401–447. (pominięte)
 
 **Art. 34.**
 
-1. Do sprawozdań, o których mowa w art. 32 i art. 33, przepisów ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. ) nie stosuje się.
+1. Do sprawozdań, o których mowa w art. 32 i art. 33, przepisów ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.) nie stosuje się.
 
-2. (uchylony)
+2. Sprawozdania, o których mowa w art. 31–33, składa się w postaci elektronicznej i zamieszcza w Rejestrze.
 
-3. (uchylony)
-
-**Art. 34a.**
-
-1. Do pism kierowanych do nadzorcy sądowego i zarządcy przez wierzycieli, o których mowa w art. 196b ust. 1, oraz pism procesowych i dokumentów, o których mowa w art. 196c, stosuje się odpowiednio przepisy art. 165 § 1–3 Kodeksu postępowania cywilnego.
-
-2. Do doręczeń dokonywanych przez nadzorcę sądowego i zarządcę do wierzycieli, o których mowa w art. 196b ust. 1, stosuje się odpowiednio przepisy art. 131–139 i art. 140–142 Kodeksu postępowania cywilnego.
-
-3. W zawiadomieniu skierowanym do wierzycieli nadzorca sądowy albo zarządca poucza ich o treści art. 196a–196c oraz sposobie i terminie wniesienia zażalenia na postanowienie o otwarciu postępowania restrukturyzacyjnego w części dotyczącej jurysdykcji sądów polskich.
-
-**Art. 34b.**
-
-1. W sprawach dotyczących zlecenia sporządzenia planu restrukturyzacyjnego osobom trzecim, o którym mowa w art. 10 ust. 4, zlecenia sporządzenia wyceny osobom trzecim, o którym mowa w art. 10a ust. 3, zawarcia umowy z mediatorem, o której mowa w art. 25a ust. 2, oraz zlecenia sporządzenia opinii, o którym mowa w art. 164 ust. 3a, nadzorca dokonuje czynności w imieniu własnym na rachunek dłużnika.
-
-2. Nadzorca nie odpowiada za zobowiązania zaciągnięte w sprawach, o których mowa w ust. 1.
+3. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór sprawozdania z czynności nadzorcy sądowego i zarządcy, sprawozdania rachunkowego i sprawozdania końcowego zarządcy, mając na uwadze zakres informacji, których umieszczenie w sprawozdaniach jest niezbędne dla prawidłowego sprawowania nadzoru nad nadzorcą sądowym albo zarządcą, oceny stanu przedsiębiorstwa oraz nakładu pracy nadzorcy sądowego albo zarządcy, a także czytelność oraz kompletność sprawozdań.
 
 #### Rozdział 2 Nadzorca układu
 
@@ -438,13 +1386,6 @@ Art. 401–447. (pominięte)
 1. W postępowaniu o zatwierdzenie układu nadzorca układu jest wybierany przez dłużnika i pełni swoją funkcję na podstawie umowy zawartej z dłużnikiem.
 
 2. W umowie, o której mowa w ust. 1, określa się wynagrodzenie nadzorcy układu.
-
-2a. W przypadku mikroprzedsiębiorców wynagrodzenie nadzorcy układu nie może być wyższe niż 15 % poziomu zaspokojenia wierzycieli zgodnie z postanowieniami układu, a ponadto w przypadku gdy poziom zaspokojenia wierzycieli zgodnie z postanowieniami układu przekracza:
-
-- **1)** 100 000 złotych, wynagrodzenie od poziomu przewyższającego 100 000 złotych nie może przekroczyć równowartości 3 % zaspokojenia wierzycieli;
-- **2)** 500 000 złotych, wynagrodzenie od poziomu przewyższającego 500 000 złotych nie może przekroczyć równowartości 1 % zaspokojenia wierzycieli.
-
-2b. W przypadku prawomocnej odmowy zatwierdzenia układu albo prawomocnego umorzenia postępowania prowadzonego wobec mikroprzedsiębiorcy wynagrodzenie nadzorcy układu przewidziane w umowie nie może przekroczyć dwukrotności przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w trzecim kwartale roku poprzedniego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego.
 
 3. Umowa, o której mowa w ust. 1, wygasa w przypadku cofnięcia lub zawieszenia praw wynikających z licencji doradcy restrukturyzacyjnego oraz w przypadku śmierci nadzorcy układu lub utraty przez niego pełnej zdolności do czynności prawnych. Umowa wygasa również w przypadku, gdy w terminie dwóch tygodni od dnia jej zawarcia nadzorca układu nie zawrze umowy ubezpieczenia odpowiedzialności cywilnej.
 
@@ -466,7 +1407,7 @@ Art. 401–447. (pominięte)
 
 2. Do czynności nadzorcy układu należy w szczególności:
 
-- **1)** sporządzenie wspólnie z dłużnikiem planu restrukturyzacyjnego;
+- **1)** sporządzenie planu restrukturyzacyjnego;
 - **2)** przygotowanie wspólnie z dłużnikiem propozycji układowych;
 - **3)** sporządzenie spisu wierzytelności oraz spisu wierzytelności spornych;
 - **4)** współpraca z dłużnikiem w zakresie sprawnego i zgodnego z prawem zbierania głosów przy zachowaniu praw wierzycieli;
@@ -480,21 +1421,7 @@ Art. 401–447. (pominięte)
 
 1. Nadzorca sądowy jest powoływany przez sąd w postanowieniu o otwarciu przyspieszonego postępowania układowego lub postępowania układowego.
 
-1a. Sąd powołuje nadzorcę sądowego, biorąc pod uwagę liczbę spraw, w których osoba posiadająca licencję doradcy restrukturyzacyjnego pełni funkcję nadzorcy sądowego lub zarządcy w innych postępowaniach restrukturyzacyjnych lub syndyka w postępowaniach upadłościowych, a także jej doświadczenie, dodatkowe kwalifikacje oraz specyfikę danej sprawy.
-
-1b. Przepis ust. 1a stosuje się odpowiednio w przypadku wyznaczania nadzorcy sądowego będącego spółką handlową.
-
-1c. W przypadku:
-
-- **1)** przedsiębiorcy, który w co najmniej jednym z dwóch ostatnich lat obrotowych:
-    - **a)** zatrudniał średniorocznie 250 lub więcej pracowników lub
-    - **b)** osiągnął roczny obrót netto ze sprzedaży towarów, wyrobów i usług oraz operacji finansowych przekraczający równowartość w złotych 50 milionów euro, lub
-    - **c)** osiągnął sumy aktywów bilansu sporządzonego na koniec jednego z tych lat, które przekroczyły równowartość w złotych 43 milionów euro,
-
-- **2)** spółki o istotnym znaczeniu dla gospodarki państwa, umieszczonej w wykazie określonym w przepisach wykonawczych wydanych na podstawie art. 31 ust. 2 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2026 r. poz. 373),
-- **3)** przedsiębiorcy o szczególnym znaczeniu gospodarczo-obronnym, umieszczonego w wykazie określonym w przepisach wykonawczych wydanych na podstawie art. 6 ustawy z dnia 23 sierpnia 2001 r. o organizowaniu zadań na rzecz obronności państwa realizowanych przez przedsiębiorców (Dz. U. z 2020 r. poz. 1669) – sąd wyznacza do pełnienia funkcji nadzorcy sądowego osobę posiadającą licencję doradcy restrukturyzacyjnego z tytułem kwalifikowanego doradcy restrukturyzacyjnego.
-
-2. Na wniosek dłużnika, do którego dołączono pisemną zgodę wierzyciela lub wierzycieli mających łącznie więcej niż 30 % sumy wierzytelności, z wyłączeniem wierzycieli, o których mowa w art. 80 ust. 3 oraz art. 116, sąd, w postanowieniu o otwarciu przyspieszonego postępowania układowego lub postępowania układowego, powołuje do pełnienia funkcji nadzorcy sądowego osobę spełniającą wymogi, o których mowa w art. 24, wskazaną przez dłużnika. Sąd może odmówić powołania wskazanej osoby, jeżeli zachodzą uzasadnione przyczyny, w szczególności jeżeli jest oczywiste, że wskazana osoba nie daje rękojmi należytego wykonywania obowiązków.
+2. Na wniosek dłużnika, do którego dołączono pisemną zgodę wierzyciela lub wierzycieli mających łącznie więcej niż 30% sumy wierzytelności, z wyłączeniem wierzycieli, o których mowa w art. 80 ust. 3 oraz art. 116, sąd, w postanowieniu o otwarciu przyspieszonego postępowania układowego lub postępowania układowego, powołuje do pełnienia funkcji nadzorcy sądowego osobę spełniającą wymogi, o których mowa w art. 24, wskazaną przez dłużnika. Sąd może odmówić powołania wskazanej osoby, jeżeli zachodzą uzasadnione przyczyny, w szczególności jeżeli jest oczywiste, że wskazana osoba nie daje rękojmi należytego wykonywania obowiązków.
 
 **Art. 39.**
 
@@ -503,6 +1430,11 @@ Art. 401–447. (pominięte)
 2. Przepisy art. 36 ust. 2 i 3 oraz art. 37 ust. 1 stosuje się odpowiednio.
 
 **Art. 40.** Do czynności nadzorcy sądowego należy w szczególności:
+
+- **1)** zawiadomienie wierzycieli o otwarciu postępowania restrukturyzacyjnego;
+- **2)** sporządzenie planu restrukturyzacyjnego i spisu wierzytelności;
+- **3)** ocena propozycji układowych, w tym, w razie potrzeby, doradztwo w zakresie ich zmiany w celu zapewnienia zgodności z prawem i możliwości ich wykonania, podejmowanie działań w celu złożenia przez wierzycieli możliwie największej liczby ważnych głosów, udział w zgromadzeniu wierzycieli oraz złożenie opinii o możliwości wykonania układu;
+- **4)** w przyspieszonym postępowaniu układowym – sporządzenie spisu wierzytelności spornych.
 
 **Art. 41.** Nadzorca sądowy nie ponosi odpowiedzialności za prawdziwość informacji dostarczonych mu przez dłużnika, pouczonego o odpowiedzialności karnej za dostarczanie nieprawdziwych informacji w celu wykorzystania w postępowaniu restrukturyzacyjnym oraz za zatajanie informacji mających istotne znaczenie dla przeprowadzenia postępowania restrukturyzacyjnego. Nie zwalnia to nadzorcy sądowego z obowiązku rzetelnego weryfikowania przedstawionych informacji, w szczególności w przypadku gdy istnieją uzasadnione wątpliwości co do ich prawdziwości.
 
@@ -514,21 +1446,21 @@ Art. 401–447. (pominięte)
 
 2. Części składowe wynagrodzenia ustala się według następujących zasad:
 
-- **1)** część zależna od liczby wierzycieli będących uczestnikami postępowania:
-    - **a)** jedna podstawa wynagrodzenia – do 10 wierzycieli,
-    - **b)** trzy podstawy wynagrodzenia – od 11 do 50 wierzycieli,
-    - **c)** sześć podstaw wynagrodzenia – od 51 do 100 wierzycieli,
-    - **d)** osiem podstaw wynagrodzenia – od 101 do 500 wierzycieli,
-    - **e)** dziesięć podstaw wynagrodzenia – od 501 do 1000 wierzycieli,
-    - **f)** dwanaście podstaw wynagrodzenia – powyżej 1000 wierzycieli;
+- **1)** część zależna od liczby wierzycieli będących uczestnikami postępowania: jedna podstawa wynagrodzenia – do 10 wierzycieli, trzy podstawy wynagrodzenia – od 11 do 50 wierzycieli, sześć podstaw wynagrodzenia – od 51 do 100 wierzycieli, osiem podstaw wynagrodzenia – od 101 do 500 wierzycieli, dziesięć podstaw wynagrodzenia – od 501 do 1000 wierzycieli, dwanaście podstaw wynagrodzenia – powyżej 1000 wierzycieli;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
 
-- **2)** część zależna od sumy wierzytelności przysługujących wierzycielom będącym uczestnikami postępowania:
-    - **a)** jedna podstawa wynagrodzenia – dla sumy do 100 000,00 zł,
-    - **b)** trzy podstawy wynagrodzenia – dla sumy od 100 000,01 zł do 500 000,00 zł,
-    - **c)** sześć podstaw wynagrodzenia – dla sumy od 500 000,01 zł do 1 000 000,00 zł,
-    - **d)** osiem podstaw wynagrodzenia – dla sumy od 1 000 000,01 zł do 10 000 000,00 zł,
-    - **e)** dziesięć podstaw wynagrodzenia – dla sumy od 10 000 000,01 zł do 500 000 000,00 zł,
-    - **f)** dwanaście podstaw wynagrodzenia – dla sumy przekraczającej 500 000 000,00 zł;
+- **2)** część zależna od sumy wierzytelności przysługujących wierzycielom będącym uczestnikami postępowania: jedna podstawa wynagrodzenia – dla sumy do 100 000,00 zł, trzy podstawy wynagrodzenia – dla sumy od 100 000,01 zł do 500 000,00 zł, sześć podstaw wynagrodzenia – dla sumy od 500 000,01 zł do 1 000 000,00 zł, osiem podstaw wynagrodzenia – dla sumy od 1 000 000,01 zł do 10 000 000,00 zł, dziesięć podstaw wynagrodzenia – dla sumy od 10 000 000,01 zł do 500 000 000,00 zł, dwanaście podstaw wynagrodzenia – dla sumy przekraczającej 500 000 000,00 zł;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
 
 - **3)** część ustalana przez sąd stosownie do rodzaju postępowania restrukturyzacyjnego, zakresu czynności podejmowanych przez nadzorcę sądowego w toku postępowania i pracy włożonej w osiągnięcie celu postępowania – w granicach do dziesięciu podstaw wynagrodzenia;
 - **4)** część ustalana w przypadku, gdy z przyczyn niezależnych od nadzorcy sądowego postępowanie układowe trwa dłużej niż dwanaście miesięcy – w granicach do dziesięciu podstaw wynagrodzenia.
@@ -537,26 +1469,11 @@ Art. 401–447. (pominięte)
 
 **Art. 43.**
 
-1. Nadzorca sądowy w postępowaniu układowym ma prawo do zaliczek kwartalnych w wysokości 10 % wynagrodzenia obliczonego zgodnie z art. 42 ust. 2 pkt 1 i 2, po upływie pełnego kwartału pełnienia funkcji, niewcześniej niż po złożeniu spisu wierzytelności.
+1. Nadzorca sądowy w postępowaniu układowym ma prawo do zaliczek kwartalnych w wysokości 10% wynagrodzenia, obliczonego zgodnie z art. 42 ust. 2 pkt 1 i 2, po upływie pełnego kwartału pełnienia funkcji, nie wcześniej niż po zatwierdzeniu spisu wierzytelności.
 
 2. Zaliczkę kwartalną wypłaca się na podstawie rachunku wystawionego przez nadzorcę sądowego.
 
 3. Sędzia-komisarz rozstrzyga postanowieniem spory co do wysokości zaliczek kwartalnych oraz po upływie pięciu kwartałów pełnienia funkcji przez nadzorcę sądowego orzeka o dalszych zaliczkach.
-
-**Art. 43a.**
-
-1. W przyspieszonym postępowaniu układowym dłużnik składa zaliczkę na pokrycie wynagrodzenia nadzorcy sądowego w terminie:
-
-- **1)** siedmiu dni od dnia doręczenia mu postanowienia o otwarciu postępowania – w wysokości 30 % wynagrodzenia obliczonego zgodnie z art. 42 ust. 2 pkt 1 i 2,
-- **2)** dwóch miesięcy od dnia otwarcia postępowania – w wysokości 10 % wynagrodzenia obliczonego zgodnie z art. 42 ust. 2 pkt 1 i 2 – pod rygorem umorzenia postępowania.
-
-2. Wysokość zaliczki dłużnik oblicza na podstawie danych o liczbie wierzycieli i sumie wierzytelności zawartych w wykazie wierzycieli, o którym mowa w art. 227 ust. 1 pkt 6, a jeżeli w postępowaniu nadzorca sądowy złożył spis wierzytelności – na podstawie spisu wierzytelności.
-
-3. Jeżeli dłużnik wpłacił zaliczkę w kwocie niższej niż wynikająca z ust. 1, sędzia-komisarz wzywa dłużnika do jej uzupełnienia w terminie czternastu dni pod rygorem umorzenia postępowania. Żądanie uzupełnienia zaliczki nie wstrzymuje biegu postępowania.
-
-4. Przepisów ust. 1–3 nie stosuje się, jeżeli nadzorca sądowy złoży oświadczenie, że dłużnik będzie wypłacał nadzorcy sądowemu zaliczki miesięczne na podstawie rachunku wystawionego przez nadzorcę sądowego.
-
-5. Jeżeli dłużnik nie wypłaca nadzorcy sądowemu zaliczek miesięcznych zgodnie z ust. 4, nadzorca sądowy może cofnąć oświadczenie, o którym mowa w ust. 4. Po cofnięciu oświadczenia przez nadzorcę sądowego sędzia-komisarz wzywa do uiszczenia zaliczki zgodnie z ust. 1.
 
 **Art. 44.**
 
@@ -586,11 +1503,11 @@ Art. 401–447. (pominięte)
 
 **Art. 46.**
 
-1. W przypadku prawomocnej odmowy zatwierdzenia układu albo prawomocnego umorzenia postępowania restrukturyzacyjnego wynagrodzenie nadzorcy sądowego ustala się w wysokości 40 % wynagrodzenia obliczonego zgodnie z art. 42. Wynagrodzenie, w części przewyższającej pobrane zaliczki, wypłaca się na podstawie rachunku wystawionego przez nadzorcę sądowego niezwłocznie po uprawomocnieniu się postanowienia o ustaleniu wynagrodzenia.
+1. W przypadku prawomocnej odmowy zatwierdzenia układu albo prawomocnego umorzenia postępowania restrukturyzacyjnego wynagrodzenie nadzorcy sądowego ustala się w wysokości 40% wynagrodzenia obliczonego zgodnie z art. 42. Wynagrodzenie, w części przewyższającej pobrane zaliczki, wypłaca się na podstawie rachunku wystawionego przez nadzorcę sądowego niezwłocznie po uprawomocnieniu się postanowienia o ustaleniu wynagrodzenia.
 
 2. W przypadku prawomocnego zatwierdzenia układu wynagrodzenie nadzorcy sądowego ustala się w kwocie nieprzekraczającej wynagrodzenia obliczonego zgodnie z art. 42.
 
-3. Wynagrodzenie, o którym mowa w ust. 2, w części przewyższającej pobrane zaliczki, do wysokości 90 % wypłaca się na podstawie rachunku wystawionego przez nadzorcę sądowego niezwłocznie po uprawomocnieniu się postanowienia o ustaleniu wynagrodzenia. Pozostałą część wynagrodzenia wypłaca się po uprawomocnieniu się postanowienia o stwierdzeniu wykonania układu.
+3. Wynagrodzenie, o którym mowa w ust. 2, w części przewyższającej pobrane zaliczki, do wysokości 90% wypłaca się na podstawie rachunku wystawionego przez nadzorcę sądowego niezwłocznie po uprawomocnieniu się postanowienia o ustaleniu wynagrodzenia. Pozostałą część wynagrodzenia wypłaca się po uprawomocnieniu się postanowienia o stwierdzeniu wykonania układu.
 
 **Art. 47.** Jeżeli w przyspieszonym postępowaniu układowym lub postępowaniu układowym funkcję nadzorcy sądowego pełniło kilku nadzorców sądowych, wynagrodzenie rozdziela się między nich proporcjonalnie do czasu pełnienia tej funkcji w postępowaniu, przy czym sąd może zdecydować o odstąpieniu od proporcjonalnego podziału, w szczególności jeżeli jest to uzasadnione zróżnicowanym wpływem poszczególnych nadzorców sądowych na przyjęcie układu.
 
@@ -612,21 +1529,7 @@ Art. 401–447. (pominięte)
 
 1. Zarządca jest powoływany przez sąd w postanowieniu o otwarciu postępowania sanacyjnego.
 
-1a. Sąd powołuje zarządcę, biorąc pod uwagę liczbę spraw, w których osoba posiadająca licencję doradcy restrukturyzacyjnego pełni funkcję nadzorcy sądowego lub zarządcy w innych postępowaniach restrukturyzacyjnych lub syndyka w postępowaniach upadłościowych, a także jej doświadczenie, dodatkowe kwalifikacje oraz specyfikę danej sprawy.
-
-1b. Przepis ust. 1a stosuje się odpowiednio w przypadku wyznaczania zarządcy będącego spółką handlową.
-
-1c. W przypadku:
-
-- **1)** przedsiębiorcy, który w co najmniej jednym z dwóch ostatnich lat obrotowych:
-    - **a)** zatrudniał średniorocznie 250 lub więcej pracowników lub
-    - **b)** osiągnął roczny obrót netto ze sprzedaży towarów, wyrobów i usług oraz operacji finansowych przekraczający równowartość w złotych 50 milionów euro, lub
-    - **c)** osiągnął sumy aktywów bilansu sporządzonego na koniec jednego z tych lat, które przekroczyły równowartość w złotych 43 milionów euro,
-
-- **2)** spółki o istotnym znaczeniu dla gospodarki państwa, umieszczonej w wykazie określonym w przepisach wykonawczych wydanych na podstawie art. 31 ust. 2 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym,
-- **3)** przedsiębiorcy realizującego zadania na rzecz Sił Zbrojnych, o których mowa w art. 648 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080 oraz z 2026 r. poz. 26) – sąd wyznacza do pełnienia funkcji zarządcy osobę posiadającą licencję doradcy restrukturyzacyjnego z tytułem kwalifikowanego doradcy restrukturyzacyjnego.
-
-2. Na wniosek dłużnika, do którego dołączono pisemną zgodę wierzyciela lub wierzycieli mających łącznie więcej niż 30 % sumy wierzytelności, z wyłączeniem wierzycieli, o których mowa w art. 80 ust. 3 oraz art. 116, sąd, w postanowieniu o otwarciu postępowania sanacyjnego, powołuje do pełnienia funkcji zarządcy osobę spełniającą wymogi, o których mowa w art. 24, wskazaną przez dłużnika. Sąd może odmówić powołania wskazanej osoby, jeżeli zachodzą uzasadnione przyczyny, w szczególności jeżeli jest oczywiste, że wskazana osoba nie daje rękojmi należytego wykonywania obowiązków.
+2. Na wniosek dłużnika, do którego dołączono pisemną zgodę wierzyciela lub wierzycieli mających łącznie więcej niż 30% sumy wierzytelności, z wyłączeniem wierzycieli, o których mowa w art. 80 ust. 3 oraz art. 116, sąd, w postanowieniu o otwarciu postępowania sanacyjnego, powołuje do pełnienia funkcji zarządcy osobę spełniającą wymogi, o których mowa w art. 24, wskazaną przez dłużnika. Sąd może odmówić powołania wskazanej osoby, jeżeli zachodzą uzasadnione przyczyny, w szczególności jeżeli jest oczywiste, że wskazana osoba nie daje rękojmi należytego wykonywania obowiązków.
 
 3. Do zarządcy powołanego w przyspieszonym postępowaniu układowym lub postępowaniu układowym przepisy niniejszego rozdziału stosuje się odpowiednio.
 
@@ -634,11 +1537,11 @@ Art. 401–447. (pominięte)
 
 1. Zarządca niezwłocznie obejmuje zarząd masą sanacyjną, zarządza nią, sporządza spis inwentarza wraz z oszacowaniem oraz sporządza i realizuje plan restrukturyzacyjny.
 
-2. (uchylony)
+2. Spis inwentarza składa się w postaci elektronicznej i zamieszcza w Rejestrze.
 
 3. Przepisy art. 36 ust. 2 i 3 oraz art. 40 stosuje się odpowiednio.
 
-4. (uchylony)
+4. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór spisu inwentarza, mając na uwadze zakres informacji, których umieszczenie w spisie jest niezbędne dla oceny składu masy sanacyjnej, a także czytelność oraz kompletność spisu.
 
 **Art. 53.**
 
@@ -650,9 +1553,9 @@ Art. 401–447. (pominięte)
 
 1. Zarządca wykonuje obowiązki sprawozdawcze ciążące na dłużniku. Zarządca nie odpowiada za opóźnienia w realizacji tych obowiązków spowodowane nieprzekazaniem mu dokumentacji lub przekazaniem dokumentacji nierzetelnej lub niekompletnej.
 
-2. Obowiązek przekazywania informacji, o którym mowa w art. 56 ust. 1 pkt 2 i ust. 7 oraz art. 70 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2025 r. poz. 592 oraz z 2026 r. poz. 176), a także art. 17 ust. 1 i 2 oraz art. 19 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 596/2014 z dnia 16 kwietnia 2014 r. w sprawie nadużyć na rynku (rozporządzenie w sprawie nadużyć na rynku) oraz uchylającego dyrektywę 2003/6/WE Parlamentu Europejskiego i Rady i dyrektywy Komisji 2003/124/WE, 2003/125/WE i 2004/72/WE (Dz. Urz. UE L 173 z 12.06.2014, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem nr 596/2014”, ciąży na zarządcy.
+2. Obowiązek przekazywania informacji, o którym mowa w art. 56 ust. 1, 5 i 7 oraz art. 70 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2013 r. poz. 1382 oraz z 2015 r. poz. 978), ciąży na zarządcy.
 
-3. Dłużnik jest obowiązany do natychmiastowego udostępniania zarządcy posiadanych informacji i dokumentów pozwalających na wykonanie obowiązku, o którym mowa w art. 56 ust. 1 pkt 2 i ust. 7 oraz art. 70 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, a także art. 17 ust. 1 i 2 oraz art. 19 ust. 3 rozporządzenia nr 596/2014. Jeżeli dla dłużnika został ustanowiony kurator w postępowaniu restrukturyzacyjnym, obowiązek ten ciąży na kuratorze.
+3. Dłużnik jest obowiązany do natychmiastowego udostępniania zarządcy posiadanych informacji i dokumentów pozwalających na wykonanie obowiązku, o którym mowa w art. 56 ust. 1, 5 i 7 oraz art. 70 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych. Jeżeli dla dłużnika został ustanowiony kurator w postępowaniu restrukturyzacyjnym, obowiązek ten ciąży na kuratorze.
 
 ##### Oddział 2 Wynagrodzenie
 
@@ -662,34 +1565,34 @@ Art. 401–447. (pominięte)
 
 2. Części składowe wynagrodzenia ustala się według następujących zasad:
 
-- **1)** część zależna od liczby wierzycieli będących uczestnikami postępowania:
-    - **a)** jedna podstawa wynagrodzenia – do 10 wierzycieli,
-    - **b)** trzy podstawy wynagrodzenia – od 11 do 50 wierzycieli,
-    - **c)** sześć podstaw wynagrodzenia – od 51 do 100 wierzycieli,
-    - **d)** dziesięć podstaw wynagrodzenia – od 101 do 500 wierzycieli,
-    - **e)** dwanaście podstaw wynagrodzenia – od 501 do 1000 wierzycieli,
-    - **f)** dwadzieścia cztery podstawy wynagrodzenia – powyżej 1000 wierzycieli;
+- **1)** część zależna od liczby wierzycieli będących uczestnikami postępowania: jedna podstawa wynagrodzenia – do 10 wierzycieli, trzy podstawy wynagrodzenia – od 11 do 50 wierzycieli, sześć podstaw wynagrodzenia – od 51 do 100 wierzycieli, dziesięć podstaw wynagrodzenia – od 101 do 500 wierzycieli, dwanaście podstaw wynagrodzenia – od 501 do 1000 wierzycieli, dwadzieścia cztery podstawy wynagrodzenia – powyżej 1000 wierzycieli;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
 
-- **2)** część zależna od sumy wierzytelności przysługujących wierzycielom będącym uczestnikami postępowania:
-    - **a)** jedna podstawa wynagrodzenia – dla sumy do 100 000,00 zł,
-    - **b)** trzy podstawy wynagrodzenia – dla sumy od 100 000,01 zł do 500 000,00 zł,
-    - **c)** sześć podstaw wynagrodzenia – dla sumy od 500 000,01 zł do 1 000 000,00 zł,
-    - **d)** dziesięć podstaw wynagrodzenia – dla sumy od 1 000 000,01 zł do 10 000 000,00 zł,
-    - **e)** dwanaście podstaw wynagrodzenia – dla sumy od 10 000 000,01 zł do 500 000 000,00 zł,
-    - **f)** dwadzieścia cztery podstawy wynagrodzenia – dla sumy przekraczającej 500 000 000,00 zł;
+- **2)** część zależna od sumy wierzytelności przysługujących wierzycielom będącym uczestnikami postępowania: jedna podstawa wynagrodzenia – dla sumy do 100 000,00 zł, trzy podstawy wynagrodzenia – dla sumy od 100 000,01 zł do 500 000,00 zł, sześć podstaw wynagrodzenia – dla sumy od 500 000,01 zł do 1 000 000,00 zł, dziesięć podstaw wynagrodzenia – dla sumy od 1 000 000,01 zł do 10 000 000,00 zł, dwanaście podstaw wynagrodzenia – dla sumy od 10 000 000,01 zł do 500 000 000,00 zł, dwadzieścia cztery podstawy wynagrodzenia – dla sumy przekraczającej 500 000 000,00 zł;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
 
-- **3)** część zależna od średniomiesięcznych obrotów osiągniętych w toku postępowania sanacyjnego:
-    - **a)** jedna podstawa wynagrodzenia – do 20 000,00 zł,
-    - **b)** sześć podstaw wynagrodzenia – od 20 000,01 zł do 100 000,00 zł,
-    - **c)** dwanaście podstaw wynagrodzenia – od 100 000,01 zł do 1 000 000,00 zł,
-    - **d)** dwadzieścia podstaw wynagrodzenia – od 1 000 000,01 zł do 10 000 000,00 zł,
-    - **e)** sześćdziesiąt podstaw wynagrodzenia – od 10 000 000,01 zł do 50 000 000,00 zł,
-    - **f)** osiemdziesiąt podstaw wynagrodzenia – powyżej 50 000 000,00 zł;
+- **3)** część zależna od średniomiesięcznych obrotów osiągniętych w toku postępowania sanacyjnego: jedna podstawa wynagrodzenia – do 20 000,00 zł, sześć podstaw wynagrodzenia – od 20 000,01 zł do 100 000,00 zł, dwanaście podstaw wynagrodzenia – od 100 000,01 zł do 1 000 000,00 zł, dwadzieścia podstaw wynagrodzenia – od 1 000 000,01 zł do 10 000 000,00 zł, sześćdziesiąt podstaw wynagrodzenia – od 10 000 000,01 zł do 50 000 000,00 zł, osiemdziesiąt podstaw wynagrodzenia – powyżej 50 000 000,00 zł;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
 
-- **4)** część ustalana przez sąd, stosownie do:
-    - **a)** stopnia poprawy kondycji ekonomicznej przedsiębiorstwa dłużnika, która miała miejsce w czasie trwania postępowania sanacyjnego, wyrażającego się między innymi w zwiększeniu przychodów i ograniczeniu kosztów,
-    - **b)** podjęcia przez zarządcę innych działań, w szczególności zawarcia umów, które przyniosą w przyszłości pozytywne ekonomicznie efekty dla dłużnika,
-    - **c)** stopnia skomplikowania sytuacji majątkowej i prawnej masy sanacyjnej oraz rodzaju i zakresu działalności prowadzonej przez dłużnika, w tym liczby pracowników zatrudnianych przez dłużnika – w granicach do sześćdziesięciu podstaw wynagrodzenia;
+- **4)** część ustalana przez sąd, stosownie do: stopnia poprawy kondycji ekonomicznej przedsiębiorstwa dłużnika, która miała miejsce w czasie trwania postępowania sanacyjnego, wyrażającego się między innymi w zwiększeniu przychodów i ograniczeniu kosztów, podjęcia przez zarządcę innych działań, w szczególności zawarcia umów, które przyniosą w przyszłości pozytywne ekonomicznie efekty dla dłużnika, stopnia skomplikowania sytuacji majątkowej i prawnej masy sanacyjnej oraz rodzaju i zakresu działalności prowadzonej przez dłużnika, w tym liczby pracowników zatrudnianych przez dłużnika w granicach do sześćdziesięciu podstaw wynagrodzenia;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **5)** część ustalana w przypadku, gdy z przyczyn niezależnych od zarządcy postępowanie trwa dłużej niż dwanaście miesięcy – w granicach do dwudziestu podstaw wynagrodzenia.
 
@@ -714,7 +1617,7 @@ Art. 401–447. (pominięte)
 
 **Art. 57.**
 
-1. Po ustaleniu wynagrodzenia wstępnego zarządca ma prawo do zaliczek kwartalnych w wysokości równej 7 % wynagrodzenia wstępnego, po upływie pełnego kwartału pełnienia funkcji. Pierwsza zaliczka może być pobrana niewcześniej niż przed uprawomocnieniem się postanowienia o ustaleniu wynagrodzenia wstępnego.
+1. Po ustaleniu wynagrodzenia wstępnego zarządca ma prawo do zaliczek kwartalnych w wysokości równej 7% wynagrodzenia wstępnego, po upływie pełnego kwartału pełnienia funkcji. Pierwsza zaliczka może być pobrana nie wcześniej niż przed uprawomocnieniem się postanowienia o ustaleniu wynagrodzenia wstępnego.
 
 2. Zaliczkę kwartalną wypłaca się na podstawie rachunku wystawionego przez zarządcę.
 
@@ -739,15 +1642,15 @@ Art. 401–447. (pominięte)
 
 1. Sąd wydaje postanowienie w przedmiocie wynagrodzenia ostatecznego niezwłocznie po zakończeniu albo prawomocnym umorzeniu postępowania restrukturyzacyjnego.
 
-2. W przypadku prawomocnej odmowy zatwierdzenia układu albo prawomocnego umorzenia postępowania restrukturyzacyjnego wynagrodzenie zarządcy ustala się w wysokości 30 % wynagrodzenia obliczonego zgodnie z art. 55. Wynagrodzenie, w części przewyższającej pobrane zaliczki, wypłaca się na podstawie rachunku wystawionego przez zarządcę niezwłocznie po uprawomocnieniu się postanowienia o ustaleniu wynagrodzenia.
+2. W przypadku prawomocnej odmowy zatwierdzenia układu albo prawomocnego umorzenia postępowania restrukturyzacyjnego wynagrodzenie zarządcy ustala się w wysokości 30% wynagrodzenia obliczonego zgodnie z art. 55. Wynagrodzenie, w części przewyższającej pobrane zaliczki, wypłaca się na podstawie rachunku wystawionego przez zarządcę niezwłocznie po uprawomocnieniu się postanowienia o ustaleniu wynagrodzenia.
 
 3. W przypadku prawomocnego zatwierdzenia układu wynagrodzenie zarządcy ustala się w kwocie nieprzekraczającej wynagrodzenia obliczonego zgodnie z art. 55.
 
-4. Wynagrodzenie, o którym mowa w ust. 3, w części przewyższającej pobrane zaliczki, do wysokości 85 %, wypłaca się na podstawie rachunku wystawionego przez zarządcę niezwłocznie po uprawomocnieniu się postanowienia o ustaleniu wynagrodzenia. Pozostałą część wynagrodzenia wypłaca się po uprawomocnieniu się postanowienia o stwierdzeniu wykonania układu.
+4. Wynagrodzenie, o którym mowa w ust. 3, w części przewyższającej pobrane zaliczki, do wysokości 85%, wypłaca się na podstawie rachunku wystawionego przez zarządcę niezwłocznie po uprawomocnieniu się postanowienia o ustaleniu wynagrodzenia. Pozostałą część wynagrodzenia wypłaca się po uprawomocnieniu się postanowienia o stwierdzeniu wykonania układu.
 
-5. Jeżeli zarządca w świetle zatwierdzonego układu będzie obowiązany wydać dłużnikowi jego majątek z chwilą zakończenia postępowania restrukturyzacyjnego albo wydano postanowienie o umorzeniu postępowania, kwota wynagrodzenia podlega złożeniu do depozytu sądowego w wysokości różnicy między wynagrodzeniem wnioskowanym a sumą pobranych zaliczek, chyba że sąd, mając na względzie ważny interes dłużnika, postanowi o ograniczeniu wysokości zabezpieczenia do kwoty nieniższej niż 30 % wynagrodzenia zarządcy obliczonego zgodnie z art. 55 ust. 1 i ust. 2 pkt 1–3.
+5. Jeżeli zarządca jest obowiązany wydać dłużnikowi jego majątek na skutek zakończenia postępowania restrukturyzacyjnego albo uprawomocnienia się postanowienia o jego umorzeniu, a postanowienie o ustaleniu wynagrodzenia ostatecznego nie jest jeszcze prawomocne, kwota wynagrodzenia podlega złożeniu do depozytu sądowego w wysokości różnicy między wynagrodzeniem wnioskowanym a sumą pobranych zaliczek, chyba że sąd, mając na względzie ważny interes dłużnika, postanowi o ograniczeniu wysokości zabezpieczenia do kwoty ustalonej w nieprawomocnym postanowieniu o ustaleniu wynagrodzenia ostatecznego.
 
-6. O złożeniu kwoty wynagrodzenia do depozytu orzeka sąd w składzie jednoosobowym na wniosek zarządcy. Przepisów art. 693 § 1 i 3 Kodeksu postępowania cywilnego nie stosuje się. O wydaniu kwoty wynagrodzenia z depozytu orzeka sąd w składzie jednoosobowym po prawomocnym ustaleniu wynagrodzenia ostatecznego.
+6. O złożeniu kwoty wynagrodzenia do depozytu orzeka sąd w składzie jednoosobowym na wniosek zarządcy. Przepisów art. 6933 § 1 i 3 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.), zwanej dalej „Kodeksem postępowania cywilnego”, nie stosuje się. O wydaniu kwoty wynagrodzenia z depozytu orzeka sąd w składzie jednoosobowym po prawomocnym ustaleniu wynagrodzenia ostatecznego.
 
 7. Jeżeli wynagrodzenie ostateczne ustalono w wysokości niższej niż suma pobranych zaliczek, zarządca zwraca nadwyżkę pobranych zaliczek. O zwrocie orzeka sąd w postanowieniu o ustaleniu wynagrodzenia ostatecznego.
 
@@ -767,7 +1670,7 @@ Art. 401–447. (pominięte)
 
 3. Uchwała o ustaleniu wynagrodzenia zarządcy może być poddana pod głosowanie wyłącznie po złożeniu przez dłużnika oświadczenia o jej poparciu.
 
-4. Jeżeli uchwała o ustaleniu wynagrodzenia zarządcy przewiduje wynagrodzenie niewyższe niż 150 % wynagrodzenia obliczonego zgodnie z art. 55, oświadczenie dłużnika, o którym mowa w ust. 3, nie jest wymagane.
+4. Jeżeli uchwała o ustaleniu wynagrodzenia zarządcy przewiduje wynagrodzenie nie wyższe niż 150% wynagrodzenia obliczonego zgodnie z art. 55, oświadczenie dłużnika, o którym mowa w ust. 3, nie jest wymagane.
 
 5. W przypadku nieprzyjęcia układu albo prawomocnej odmowy zatwierdzenia przyjętego układu uchwała zgromadzenia wierzycieli o ustaleniu wynagrodzenia zarządcy traci moc. W takim przypadku oraz w sytuacji, gdy na zgromadzeniu wierzycieli nie podjęto uchwały o ustaleniu wynagrodzenia, zarządca składa wniosek o ustalenie wynagrodzenia ostatecznego w terminie tygodnia od dnia zgromadzenia wierzycieli albo od doręczenia mu postanowienia o odmowie zatwierdzenia układu.
 
@@ -789,7 +1692,7 @@ Art. 401–447. (pominięte)
 
 2. W przypadku, o którym mowa w ust. 1, sąd orzeka o wynagrodzeniu zarządcy z urzędu.
 
-### DZIAŁ IV Uczestnicy postępowania
+### Dział IV Uczestnicy postępowania
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -829,11 +1732,11 @@ Art. 401–447. (pominięte)
 
 4. Jeżeli przepisy szczególne nie stanowią inaczej, do czynności, które podlegają ujawnieniu w księdze wieczystej i rejestrach, przepisy ust. 2 i 3 stosuje się.
 
-5. Jeżeli zawarcie umowy lub ustanowienie zabezpieczenia finansowego nastąpiło w dniu otwarcia postępowania restrukturyzacyjnego, a uprawniony z zabezpieczenia wykaże, że nie wiedział i przy zachowaniu należytej staranności nie mógł wiedzieć o otwarciu postępowania restrukturyzacyjnego, do ustanowienia zabezpieczenia finansowego zgodnie z przepisami ustawy z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych (Dz. U. z 2024 r. poz. 294) przepisu ust. 2 nie stosuje się. Do zabezpieczenia ustanowionego w związku z uczestnictwem w systemie płatności lub systemie rozrachunku papierów wartościowych w rozumieniu ustawy z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami (Dz. U. z 2024 r. poz. 585 oraz z 2026 r. poz. 340), na rzecz podmiotu prowadzącego ten system lub na rzecz uczestnika tego systemu przepisu ust. 2 nie stosuje się.
+5. Jeżeli zawarcie umowy lub ustanowienie zabezpieczenia finansowego nastąpiło w dniu otwarcia postępowania restrukturyzacyjnego, a uprawniony z zabezpieczenia wykaże, że nie wiedział i przy zachowaniu należytej staranności nie mógł wiedzieć o otwarciu postępowania restrukturyzacyjnego, do ustanowienia zabezpieczenia finansowego zgodnie z przepisami ustawy z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych (Dz. U. z 2012 r. poz. 942 i 1166 oraz z 2013 r. poz. 1036) przepisu ust. 2 nie stosuje się. Do zabezpieczenia ustanowionego w związku z uczestnictwem w systemie płatności lub systemie rozrachunku papierów wartościowych w rozumieniu ustawy z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami (Dz. U. z 2013 r. poz. 246 i 1036 oraz z 2015 r. poz. 978), na rzecz podmiotu prowadzącego ten system lub na rzecz uczestnika tego systemu przepisu ust. 2 nie stosuje się.
 
 **Art. 68.**
 
-1. Jeżeli po złożeniu wniosku restrukturyzacyjnego dłużnik utracił zdolność procesową i nie działa za niego przedstawiciel ustawowy, a także jeżeli w składzie organów dłużnika będącego osobą prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną, zachodzą braki uniemożliwiające ich działanie, sędzia-komisarz, a przed dniem otwarcia postępowania sąd, ustanawia kuratora. Jeżeli dla dłużnika ustanowiono kuratora na podstawie art. 42 § 1 Kodeksu cywilnego, tego kuratora powołuje się na kuratora, o którym mowa w niniejszym przepisie.
+1. Jeżeli po złożeniu wniosku restrukturyzacyjnego dłużnik utracił zdolność procesową i nie działa za niego przedstawiciel ustawowy, a także jeżeli w składzie organów dłużnika będącego osobą prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną, zachodzą braki uniemożliwiające ich działanie, sędzia-komisarz, a przed dniem otwarcia postępowania sąd, ustanawia kuratora. Jeżeli dla dłużnika ustanowiono kuratora na podstawie art. 26 ust. 1 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2013 r. poz. 1203, z późn. zm.) albo na podstawie art. 42 Kodeksu cywilnego, kuratora tego powołuje się na kuratora, o którym mowa w niniejszym przepisie.
 
 2. Kurator ustanowiony w postępowaniu o otwarcie postępowania restrukturyzacyjnego pełni swoją funkcję również po otwarciu tego postępowania.
 
@@ -845,7 +1748,7 @@ Art. 401–447. (pominięte)
 
 1. Kuratorowi przysługuje prawo do wynagrodzenia oraz zwrotu wydatków.
 
-2. Wynagrodzenie kuratora ustanowionego na podstawie art. 68 ust. 1 ustala sędzia-komisarz, a przed otwarciem postępowania sąd, w wysokości stosownej do nakładu pracy kuratora, stosując odpowiednio przepisy wykonawcze wydane na podstawie art. 9 pkt 3 ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2025 r. poz. 1228 oraz z 2026 r. poz. 346).
+2. Wynagrodzenie kuratora ustanowionego na podstawie art. 68 ust. 1 ustala sędzia-komisarz, a przed otwarciem postępowania sąd, w wysokości stosownej do nakładu pracy kuratora, stosując odpowiednio przepisy o wynagrodzeniu kuratora ustanowionego na podstawie art. 26 ust. 1 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym.
 
 3. Na postanowienie w przedmiocie wynagrodzenia oraz zwrotu wydatków przysługuje zażalenie. Zażalenie przysługuje również kuratorowi.
 
@@ -855,19 +1758,19 @@ Art. 401–447. (pominięte)
 
 **Art. 72.**
 
-1. W przypadku śmierci dłużnika jego spadkobierca, a jeżeli ustanowiono zarząd sukcesyjny – zarządca sukcesyjny, staje się uczestnikiem postępowania restrukturyzacyjnego. Dla zabezpieczenia praw spadkobiercy sędzia-komisarz z urzędu ustanawia kuratora, do którego przepisy art. 68–71 stosuje się.
+1. W przypadku śmierci dłużnika jego spadkobierca staje się uczestnikiem postępowania restrukturyzacyjnego. Dla zabezpieczenia praw spadkobiercy sędzia-komisarz z urzędu ustanawia kuratora, do którego przepisy art. 68–71 stosuje się.
 
 2. Ustanowienie kuratora traci moc po wstąpieniu do postępowania spadkobiercy dłużnika, który wykazał swoje prawa prawomocnym postanowieniem o stwierdzeniu nabycia spadku, europejskim poświadczeniem spadkowym albo zarejestrowanym aktem poświadczenia dziedziczenia. Do spadkobiercy przepisy o prawach i obowiązkach dłużnika stosuje się odpowiednio.
 
 3. W przypadku ustanowienia kuratora spadku przepis ust. 2 stosuje się odpowiednio.
 
-**Art. 73.** Z dniem otwarcia postępowania restrukturyzacyjnego w stosunku do jednego z małżonków pozostających w ustroju wspólności majątkowej majątek wspólny małżonków wchodzi do masy układowej albo sanacyjnej i podlega nadzorowi nadzorcy sądowego albo zarządowi zarządcy. Przepisy art. 34 i art. 36–39 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2026 r. poz. 236) stosuje się.
+**Art. 73.** Z dniem otwarcia postępowania restrukturyzacyjnego w stosunku do jednego z małżonków pozostających w ustroju wspólności majątkowej majątek wspólny małżonków wchodzi do masy układowej albo sanacyjnej i podlega nadzorowi nadzorcy sądowego albo zarządowi zarządcy. Przepisy art. 341 i art. 36–39 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2015 r. poz. 583) stosuje się.
 
 **Art. 74.** Ustanowienie rozdzielności majątkowej po dniu otwarcia postępowania restrukturyzacyjnego z datą wcześniejszą niż dzień otwarcia postępowania restrukturyzacyjnego jest niedopuszczalne.
 
 **Art. 75.**
 
-1. Jeżeli wierzyciel nie ma zdolności procesowej i nie działa za niego przedstawiciel ustawowy, a także jeżeli w składzie organów wierzyciela będącego osobą prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną, zachodzą braki uniemożliwiające ich działanie, sędzia-komisarz może, jeżeli przyczyni się to do usprawnienia postępowania, ustanowić dla niego kuratora, który działa za wierzyciela w postępowaniu restrukturyzacyjnym. Jeżeli dla wierzyciela ustanowiono kuratora na podstawie art. 42 § 1 Kodeksu cywilnego, tego kuratora powołuje się na kuratora, o którym mowa w niniejszym przepisie.
+1. Jeżeli wierzyciel nie ma zdolności procesowej i nie działa za niego przedstawiciel ustawowy, a także jeżeli w składzie organów wierzyciela będącego osobą prawną lub inną jednostką organizacyjną nieposiadającą osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną, zachodzą braki uniemożliwiające ich działanie, sędzia-komisarz może, jeżeli przyczyni się to do usprawnienia postępowania, ustanowić dla niego kuratora, który działa za wierzyciela w postępowaniu restrukturyzacyjnym. Jeżeli dla wierzyciela ustanowiono kuratora na podstawie art. 26 ust. 1 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym albo na podstawie art. 42 Kodeksu cywilnego, kuratora tego powołuje się na kuratora, o którym mowa w niniejszym przepisie.
 
 2. Przepisy art. 68 ust. 2–4, art. 69 i art. 70 stosuje się odpowiednio.
 
@@ -885,7 +1788,7 @@ Art. 401–447. (pominięte)
 
 1. Wierzytelność za okres rozliczeniowy, w trakcie którego zostało otwarte postępowanie restrukturyzacyjne, w szczególności z tytułu czynszu najmu lub dzierżawy, podatków lub składek na ubezpieczenia społeczne, ulega z mocy prawa proporcjonalnemu podziałowi na część traktowaną jak wierzytelność powstała przed dniem otwarcia postępowania oraz część traktowaną jak wierzytelność powstająca po dniu otwarcia postępowania.
 
-2. Jeżeli przedmiot leasingu nie stanowi u korzystającego dłużnika środka trwałego w rozumieniu ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2025 r. poz. 163, z późn. zm. ) oraz ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2025 r. poz. 278, z późn. zm. ) do umowy leasingu przepis ust. 1 stosuje się.
+2. Jeżeli przedmiot leasingu nie stanowi u korzystającego dłużnika środka trwałego w rozumieniu ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.) oraz ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.) do umowy leasingu przepis ust. 1 stosuje się.
 
 3. Jeżeli rozliczenie należności publicznoprawnych wymaga sporządzenia deklaracji lub innego tego typu dokumentu obejmujących rozliczenie, obie części wierzytelności, o której mowa w ust. 1, ujmuje się w odrębnych deklaracjach lub innych tego typu dokumentach.
 
@@ -893,7 +1796,7 @@ Art. 401–447. (pominięte)
 
 **Art. 79.**
 
-1. Jeżeli w dniu otwarcia postępowania restrukturyzacyjnego wierzytelność bez zastrzeżenia odsetek nie stała się jeszcze wymagalna, w spisie wierzytelności umieszcza się wierzytelność pomniejszoną o odsetki ustawowe, niewyższe jednak niż 6 % rocznie, za czas od dnia otwarcia postępowania do dnia wymagalności, najdłużej jednak za dwa lata.
+1. Jeżeli w dniu otwarcia postępowania restrukturyzacyjnego wierzytelność bez zastrzeżenia odsetek nie stała się jeszcze wymagalna, w spisie wierzytelności umieszcza się wierzytelność pomniejszoną o odsetki ustawowe, nie wyższe jednak niż 6% rocznie, za czas od dnia otwarcia postępowania do dnia wymagalności, najdłużej jednak za dwa lata.
 
 2. Odsetki od wierzytelności pieniężnej umieszcza się w spisie wierzytelności w kwocie naliczonej do dnia poprzedzającego dzień otwarcia postępowania restrukturyzacyjnego włącznie.
 
@@ -907,7 +1810,7 @@ Art. 401–447. (pominięte)
 
 **Art. 81.**
 
-1. Niewymagalne wierzytelności ze stosunków prawnych o charakterze ciągłym, a także wierzytelności z tytułu kredytu i pożyczki, umieszcza się w spisie wierzytelności pomniejszone o odsetki ustawowe, niewyższe jednak niż 6 % rocznie, za czas od dnia otwarcia postępowania do dnia wymagalności każdego przyszłego świadczenia, najdłużej jednak za dwa lata.
+1. Niewymagalne wierzytelności ze stosunków prawnych o charakterze ciągłym, a także wierzytelności z tytułu kredytu i pożyczki, umieszcza się w spisie wierzytelności pomniejszone o odsetki ustawowe, nie wyższe jednak niż 6% rocznie, za czas od dnia otwarcia postępowania do dnia wymagalności każdego przyszłego świadczenia, najdłużej jednak za dwa lata.
 
 2. Wierzytelności z tytułu świadczeń powtarzających się, których czas trwania oznaczono na czas życia uprawnionego lub innej osoby, albo nieoznaczonych co do czasu trwania, umieszcza się w spisie wierzytelności jako sumę stanowiącą wartość prawa.
 
@@ -944,38 +1847,30 @@ Art. 401–447. (pominięte)
 2. W spisie wierzytelności umieszcza się w osobnych rubrykach:
 
 - **1)** liczbę porządkową;
-- **2)** imię i nazwisko wierzyciela albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jego jednoznaczną identyfikację oraz firmę, pod którą działa wierzyciel będący przedsiębiorcą, miejsce zamieszkania albo siedzibę, adres oraz numer identyfikacji podatkowej (NIP), jeżeli wierzyciel ma taki numer;
+- **2)** imię i nazwisko wierzyciela albo jego nazwę, jego miejsce zamieszkania albo siedzibę, adres oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jego jednoznaczną identyfikację;
 - **3)** sumę wierzytelności i sumę, według której będzie obliczany głos wierzyciela w głosowaniu nad układem;
 - **4)** informację o istnieniu i rodzaju zabezpieczenia wierzytelności;
 - **5)** informację, czy wierzytelność jest uzależniona od warunku;
-- **6)** (uchylony)
+- **6)** informację, czy wierzycielowi przysługuje prawo potrącenia;
 - **7)** informację, czy w stosunku do wierzyciela zachodzą okoliczności wskazane w art. 80 ust. 3, art. 109 ust. 1 lub art. 116;
 - **8)** uzasadnienie;
-- **9)** (uchylony)
+- **9)** oświadczenie dłużnika o uznaniu lub odmowie uznania wierzytelności oraz o tym, czy w stosunku do wierzycieli umieszczonych w spisie wierzytelności zachodzą okoliczności wskazane w art. 80 ust. 3, art. 109 ust. 1 lub art. 116;
 - **10)** dla wierzytelności, które są objęte układem za zgodą wierzyciela – informację, czy wierzyciel wyraził zgodę na objęcie wierzytelności układem;
 - **11)** sumę wszystkich wierzytelności umieszczonych w spisie wierzytelności, a jeżeli w spisie wierzytelności jest uwzględniony podział wierzycieli na grupy – również sumę wierzytelności dla każdej grupy.
 
-3. W przypadku wierzytelności zabezpieczonych na składnikach majątku dłużnika hipoteką, zastawem, zastawem rejestrowym, zastawem skarbowym lub hipoteką morską, a także przez przeniesienie na wierzyciela własności rzeczy, wierzytelności lub innego prawa w spisie wierzytelności wskazuje się sumę wierzytelności, która odpowiada wartości przedmiotu zabezpieczenia.
+3. W przypadku wierzytelności zabezpieczonych sumę, według której będzie obliczany głos wierzyciela w głosowaniu nad układem, oznacza się według tej części wierzytelności, która prawdopodobnie nie będzie zaspokojona z przedmiotu zabezpieczenia, chyba że wierzyciel wyraził zgodę na objęcie wierzytelności układem.
 
 4. Uzasadnienie, o którym mowa w ust. 2 pkt 8, obejmuje wskazanie stanu faktycznego, z którego wynika wierzytelność, oraz wskazanie dokumentów jej dotyczących.
 
-5. Do spisu wierzytelności załącza się oświadczenie dłużnika o uznaniu lub odmowie uznania wierzytelności oraz o tym, czy w stosunku do wierzycieli umieszczonych w spisie wierzytelności zachodzą okoliczności wskazane w art. 80 ust. 3, art. 109 ust. 1 lub art. 116, albo informację, że dłużnik nie złożył oświadczenia z podaniem przyczyny.
+5. Jeżeli dłużnik nie złożył oświadczenia, o którym mowa w ust. 2 pkt 9, nadzorca lub zarządca umieszcza w spisie wierzytelności informację, że dłużnik nie złożył oświadczenia, oraz podaje przyczynę.
 
-6. Przez inne dane umożliwiające jednoznaczną identyfikację wierzyciela, o których mowa w ust. 2 pkt 2, rozumie się w szczególności numer paszportu i oznaczenie państwa wystawiającego paszport albo numer karty pobytu w Rzeczypospolitej Polskiej, albo numer w zagranicznym rejestrze, albo zagraniczny numer identyfikacji lub identyfikacji podatkowej.
+**Art. 87.** W spisie wierzytelności spornych zwięźle przedstawia się podstawę sporu. Przepisy art. 86 stosuje się odpowiednio.
 
-**Art. 86a.**
-
-1. Suma wierzytelności, która odpowiada wartości przedmiotu zabezpieczenia, oznacza sumę wierzytelności, która zostałaby zaspokojona z przedmiotu zabezpieczenia w postępowaniu upadłościowym prowadzonym wobec dłużnika.
-
-2. W przypadku dłużnika, którego upadłości nie można ogłosić zgodnie z przepisami Prawa upadłościowego, suma wierzytelności, która odpowiada wartości przedmiotu zabezpieczenia, oznacza sumę wierzytelności, która zostałaby zaspokojona z przedmiotu zabezpieczenia w postępowaniu egzekucyjnym prowadzonym wobec dłużnika.
-
-**Art. 87.** W spisie wierzytelności spornych zwięźle przedstawia się podstawę sporu. Przepisy art. 86 i art. 86a stosuje się odpowiednio.
-
-**Art. 88.** (uchylony)
+**Art. 88.** Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór spisu wierzytelności oraz wzór spisu wierzytelności spornych, mając na uwadze zakres informacji umieszczanych w spisie wierzytelności i spisie wierzytelności spornych, czytelność oraz kompletność spisów.
 
 **Art. 89.**
 
-1. (uchylony)
+1. Spis wierzytelności i spis wierzytelności spornych składa się w postaci elektronicznej i zamieszcza w Rejestrze.
 
 2. O dacie złożenia spisu wierzytelności i spisu wierzytelności spornych obwieszcza się.
 
@@ -983,11 +1878,11 @@ Art. 401–447. (pominięte)
 
 1. W przyspieszonym postępowaniu układowym dłużnik może zgłosić zastrzeżenia co do umieszczenia wierzytelności w spisie wierzytelności.
 
-2. Wierzytelność, co do której dłużnik zgłosił zastrzeżenia, stanowi wierzytelność sporną. W takim przypadku sędzia-komisarz dokonuje odpowiednich zmian spisu wierzytelności oraz spisu wierzytelności spornych. O dacie postanowienia o zmianie spisu wierzytelności lub spisu wierzytelności spornych obwieszcza się.
+2. Wierzytelność, co do której dłużnik zgłosił zastrzeżenia, stanowi wierzytelność sporną. W takim przypadku sędzia-komisarz dokonuje odpowiednich zmian spisu wierzytelności oraz spisu wierzytelności spornych.
 
 **Art. 91.**
 
-1. W postępowaniu układowym oraz postępowaniu sanacyjnym, w terminie dwóch tygodni od dnia obwieszczenia, o którym mowa w art. 89 ust. 2, uczestnicy postępowania mogą złożyć do sędziego-komisarza sprzeciw co do umieszczenia wierzytelności w spisie wierzytelności. Dłużnik może złożyć sprzeciw, o ile spis wierzytelności nie jest zgodny z jego oświadczeniem, o którym mowa w art. 86 ust. 5. Jeżeli dłużnik nie złożył oświadczenia, może złożyć sprzeciw tylko w przypadku, gdy wykaże, że nie złożył oświadczenia z przyczyn od niego niezależnych.
+1. W postępowaniu układowym oraz postępowaniu sanacyjnym, w terminie dwóch tygodni od dnia obwieszczenia, o którym mowa w art. 89 ust. 2, uczestnicy postępowania mogą złożyć do sędziego-komisarza sprzeciw co do umieszczenia wierzytelności w spisie wierzytelności. Dłużnik może złożyć sprzeciw, o ile spis wierzytelności nie jest zgodny z jego oświadczeniem, o którym mowa w art. 86 ust. 2 pkt 9. Jeżeli dłużnik nie złożył oświadczenia, może złożyć sprzeciw tylko w przypadku, gdy wykaże, że nie złożył oświadczenia z przyczyn od niego niezależnych.
 
 2. W terminie, o którym mowa w ust. 1, dłużnik lub wierzyciel, który nie został umieszczony w spisie wierzytelności, może złożyć sprzeciw co do pominięcia wierzytelności w spisie wierzytelności.
 
@@ -997,15 +1892,13 @@ Art. 401–447. (pominięte)
 
 2. Sprzeciw co do pominięcia wierzytelności w spisie wierzytelności powinien ponadto zawierać:
 
-- **1)** imię i nazwisko wierzyciela albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jego jednoznaczną identyfikację oraz firmę, pod którą działa wierzyciel będący przedsiębiorcą, miejsce zamieszkania albo siedzibę oraz adres, a jeżeli wierzycielem jest spółka osobowa, osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną – imiona i nazwiska reprezentantów spółki albo osoby prawnej, w tym likwidatorów, jeżeli zostali ustanowieni;
+- **1)** imię i nazwisko wierzyciela albo jego nazwę, jego miejsce zamieszkania albo siedzibę, adres oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jego jednoznaczną identyfikację, a jeżeli wierzycielem jest spółka osobowa, osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną – imiona i nazwiska reprezentantów spółki albo osoby prawnej, w tym likwidatorów, jeżeli zostali ustanowieni;
 - **2)** wskazanie sumy wierzytelności oraz sumy, według której będzie obliczany głos wierzyciela w głosowaniu nad układem;
 - **3)** wskazanie istnienia i rodzaju zabezpieczenia wierzytelności;
 - **4)** informację, czy w stosunku do wierzyciela zachodzą okoliczności wskazane w art. 80 ust. 3, art. 109 ust. 1 lub art. 116;
 - **5)** informację, czy wierzytelność jest uzależniona od warunku zawieszającego;
 - **6)** informację, czy wierzycielowi przysługuje prawo potrącenia;
 - **7)** dla wierzytelności, które są objęte układem za zgodą wierzyciela – informację, czy wierzyciel wyraził zgodę na objęcie wierzytelności układem.
-
-2a. Przez inne dane umożliwiające jednoznaczną identyfikację wierzyciela, o których mowa w ust. 2 pkt 1, rozumie się dane, o których mowa w art. 86 ust. 6.
 
 3. Przepis art. 86 ust. 3 stosuje się.
 
@@ -1027,7 +1920,7 @@ Art. 401–447. (pominięte)
 
 3. Sędzia-komisarz doręcza odpis sprzeciwu dłużnika nadzorcy sądowemu albo zarządcy oraz wierzycielowi, którego wierzytelności sprzeciw dotyczy.
 
-4. Uczestnik postępowania może złożyć odpowiedź na sprzeciw w terminie wyznaczonym przez sędziego-komisarza niekrótszym niż tydzień od dnia doręczenia odpisu sprzeciwu. Nadzorca sądowy albo zarządca jest obowiązany w tym samym terminie do złożenia odpowiedzi na sprzeciw.
+4. Uczestnik postępowania może złożyć odpowiedź na sprzeciw w terminie wyznaczonym przez sędziego-komisarza nie krótszym niż tydzień od dnia doręczenia odpisu sprzeciwu. Nadzorca sądowy albo zarządca jest obowiązany w tym samym terminie do złożenia odpowiedzi na sprzeciw.
 
 5. Odpowiedź na sprzeciw złożona po upływie terminu lub której braków strona nie uzupełniła w terminie podlega zwrotowi.
 
@@ -1061,9 +1954,9 @@ Art. 401–447. (pominięte)
 
 2. Przepis art. 97 ust. 2 stosuje się.
 
-3. Sędzia-komisarz zatwierdza spis wierzytelności w zakresie nieobjętym nierozpoznanymi prawomocnie sprzeciwami, jeżeli suma wierzytelności uprawniających do głosowania nad układem, których dotyczą sprzeciwy prawomocnie nierozpoznane, nie przekracza 15 % sumy wierzytelności uprawniających do głosowania nad układem. Postępowania w przedmiocie tych sprzeciwów podlegają umorzeniu przez sąd albo sędziego-komisarza, jeżeli nie zostaną prawomocnie rozpoznane do czasu głosowania nad układem.
+3. Sędzia-komisarz zatwierdza spis wierzytelności w zakresie nieobjętym nierozpoznanymi prawomocnie sprzeciwami, jeżeli suma wierzytelności uprawniających do głosowania nad układem, których dotyczą sprzeciwy prawomocnie nierozpoznane, nie przekracza 15% sumy wierzytelności uprawniających do głosowania nad układem. Postępowania w przedmiocie tych sprzeciwów podlegają umorzeniu przez sąd albo sędziego-komisarza, jeżeli nie zostaną prawomocnie rozpoznane do czasu głosowania nad układem.
 
-**Art. 99.** Sędzia-komisarz może z urzędu wykreślić wierzytelność ze spisu wierzytelności w przypadku stwierdzenia, że w spisie umieszczono wierzytelność, która w całości lub części nie istnieje albo przysługuje innej osobie niż wskazana w spisie jako wierzyciel. Postanowienie o wykreśleniu wierzytelności ze spisu wierzytelności doręcza się wierzycielowi, którego dotyczy, dłużnikowi oraz nadzorcy albo zarządcy. Osobom tym przysługuje zażalenie na postanowienie. O dacie postanowienia o wykreśleniu wierzytelności ze spisu wierzytelności oraz informację o prawomocności tego postanowienia obwieszcza się.
+**Art. 99.** Sędzia-komisarz może z urzędu wykreślić wierzytelność ze spisu wierzytelności w przypadku stwierdzenia, że w spisie umieszczono wierzytelność, która w całości lub części nie istnieje albo przysługuje innej osobie niż wskazana w spisie jako wierzyciel. Postanowienie o wykreśleniu wierzytelności ze spisu wierzytelności doręcza się wierzycielowi, którego dotyczy, dłużnikowi oraz nadzorcy albo zarządcy. Osobom tym przysługuje zażalenie na postanowienie.
 
 **Art. 100.**
 
@@ -1075,9 +1968,7 @@ Art. 401–447. (pominięte)
 
 1. Nieuwzględnienie wierzytelności w spisie wierzytelności nie stanowi przeszkody do jej dochodzenia we właściwym trybie.
 
-2. Sędzia-komisarz zmienia spis wierzytelności stosownie do przedstawionych mu prawomocnych orzeczeń. Przepisy art. 89 ust. 2, art. 90 i art. 91 stosuje się odpowiednio. O dacie postanowienia o zmianie spisu wierzytelności oraz informację o prawomocności tego postanowienia obwieszcza się.
-
-3. Do sprostowania niedokładności, błędów pisarskich albo rachunkowych lub innych oczywistych omyłek w zatwierdzonym spisie wierzytelności oraz spisie wierzytelności spornych stosuje się odpowiednio przepisy art. 350 i art. 353 Kodeksu postępowania cywilnego. Sprostowania dokonuje sędzia-komisarz. Sprostowania może dokonać również referendarz sądowy. Wniesienie skargi na postanowienie referendarza sądowego nie powoduje utraty mocy przez zaskarżone postanowienie. Sąd rozpoznaje skargę w składzie jednego sędziego jako sąd drugiej instancji, stosując odpowiednio przepisy o zażaleniu. Rozpoznając skargę, sąd wydaje postanowienie, w którym zaskarżone postanowienie referendarza sądowego utrzymuje w mocy albo je zmienia. Prawomocne postanowienie o sprostowaniu spisu wierzytelności obwieszcza się.
+2. Sędzia-komisarz zmienia spis wierzytelności stosownie do przedstawionych mu prawomocnych orzeczeń. Przepisy art. 89–91 stosuje się odpowiednio.
 
 **Art. 102.**
 
@@ -1097,9 +1988,13 @@ Art. 401–447. (pominięte)
 
 **Art. 104.** Zgromadzenie wierzycieli zwołuje sędzia-komisarz w:
 
+- **1)** celu głosowania nad układem;
+- **2)** przypadku, gdy rada wierzycieli podejmie uchwałę o zwołaniu zgromadzenia;
+- **3)** przypadku, gdy uzna to za potrzebne.
+
 **Art. 105.**
 
-1. Zgromadzenie wierzycieli zwołuje się przez obwieszczenie, w którym określa się termin, miejsce i przedmiot obrad oraz sposób głosowania. W obwieszczeniu określa się również, czy zgromadzenie będzie przeprowadzone w sposób określony w art. 110 ust. 6.
+1. Zgromadzenie wierzycieli zwołuje się przez obwieszczenie, w którym określa się termin, miejsce i przedmiot obrad oraz sposób głosowania.
 
 2. Obwieszczenia dokonuje się co najmniej na dwa tygodnie przed terminem zgromadzenia wierzycieli.
 
@@ -1107,21 +2002,13 @@ Art. 401–447. (pominięte)
 
 4. W przypadku odroczenia zgromadzenia wierzycieli, sędzia-komisarz podaje obecnym do wiadomości nowy termin i miejsce zgromadzenia. W takim przypadku nie dokonuje się ponownego obwieszczenia. Oddany poprzednio głos wierzyciela, który nie stawił się na odroczonym zgromadzeniu wierzycieli, zachowuje moc i jest uwzględniany przy obliczaniu wyników głosowania, jeżeli na tym zgromadzeniu poddane pod głosowanie są te same uchwały lub uchwały korzystniejsze dla wierzycieli.
 
-5. Zawiadomień wierzycieli o terminie zgromadzenia wierzycieli dokonuje nadzorca sądowy albo zarządca za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456) albo za pośrednictwem komornika sądowego w sposób określony w ustawie z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2024 r. poz. 1458, z 2025 r. poz. 1018 i 1172 oraz z 2026 r. poz. 26). Jeżeli wierzyciel w postępowaniu wniósł pismo za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe, to zawiadomienia o terminie zgromadzenia wierzycieli dokonuje się za pośrednictwem tego systemu. Przepis art. 131 § 2 Kodeksu postępowania cywilnego stosuje się.
-
-6. Przed terminem zgromadzenia wierzycieli nadzorca sądowy albo zarządca przedkłada sędziemu-komisarzowi:
-
-- **1)** otrzymane karty do głosowania, wraz z pełnomocnictwami koniecznymi do wykazania uprawnienia do oddania głosu oraz informacją, czy w stosunku do wierzyciela nie zachodzą okoliczności wskazane w art. 116, uszeregowane zgodnie z kolejnością przyjętą w spisie wierzytelności;
-- **2)** dowód wysłania, co najmniej na trzy tygodnie przed dniem zgromadzenia wierzycieli, zawiadomienia o zgromadzeniu wierzycieli na adres wskazany w rejestrze, do którego jest wpisany wierzyciel, o ile wierzyciel jest wpisany do rejestru, w przeciwnym przypadku na adres wierzyciela znany dłużnikowi;
-- **3)** otrzymane przez nadzorcę sądowego albo zarządcę dowody doręczenia zawiadomienia o zgromadzeniu wierzycieli.
-
 **Art. 106.**
 
 1. Zgromadzeniu wierzycieli przewodniczy sędzia-komisarz.
 
 2. Z przebiegu zgromadzenia wierzycieli sporządza się protokół.
 
-3. Obecność wierzycieli sprawdza nadzorca sądowy albo zarządca pod nadzorem sędziego-komisarza. Spis obecności obejmujący również wierzycieli, którzy oddali głosy na piśmie, stanowi załącznik do protokołu. Spis obecności sporządza się w systemie teleinformatycznym obsługującym postępowanie sądowe.
+3. Obecność wierzycieli sprawdza nadzorca sądowy albo zarządca pod nadzorem sędziego-komisarza. Spis obecności obejmujący również wierzycieli, którzy oddali głosy na piśmie, stanowi załącznik do protokołu. Jeżeli spis obecności został sporządzony w postaci elektronicznej i warunki techniczne to umożliwiają, składa się go również w postaci elektronicznej.
 
 **Art. 107.**
 
@@ -1143,27 +2030,27 @@ Art. 401–447. (pominięte)
 
 1. Wierzyciel nie ma prawa głosu na podstawie wierzytelności, którą nabył w drodze przelewu lub indosu po otwarciu postępowania restrukturyzacyjnego.
 
-2. Jeżeli przejście wierzytelności nastąpiło wskutek spłacenia przez wierzyciela długu, za który odpowiadał osobiście albo określonymi przedmiotami majątkowymi, ze stosunku prawnego powstałego przed dniem otwarcia postępowania restrukturyzacyjnego, przepisu ust. 1 nie stosuje się.
+2. Jeżeli przejście wierzytelności nastąpiło wskutek spłacenia przez wierzyciela długu, za który odpowiadał osobiście albo określonymi przedmiotami majątkowymi, ze stosunku prawnego powstałego przed dniem otwarciem postępowania restrukturyzacyjnego, albo nabycie wierzytelności nastąpiło po obwieszczeniu w Rejestrze informacji o trybie i miejscu sprzedaży wierzytelności, a zbycie nastąpiło na rzecz nabywcy, który zaoferował najwyższą kwotę, przepisu ust. 1 nie stosuje się.
 
 3. W postępowaniu o zatwierdzenie układu przepisu ust. 1 nie stosuje się.
 
 **Art. 110.**
 
-1. Głosowanie na zgromadzeniu wierzycieli przeprowadza się za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe, a opis przebiegu i wynik głosowania zamieszcza się w protokole. Wierzyciel, który stawił się osobiście na zgromadzeniu wierzycieli, może oddać głos ustnie do protokołu lub na piśmie. Głos oddany na piśmie wprowadza się do protokołu, a pismo składa się do zbioru dokumentów.
+1. Głosowanie na zgromadzeniu wierzycieli przeprowadza się pisemnie, a opis przebiegu i wynik głosowania zamieszcza się w protokole. Wierzyciel, który stawił się osobiście na zgromadzeniu wierzycieli, może oddać głos ustnie do protokołu.
 
-2. Głosowanie przeprowadza nadzorca sądowy albo zarządca pod nadzorem sędziego-komisarza. Spis głosów, do którego stosuje się odpowiednio przepis art. 86 ust. 2, stanowi załącznik do protokołu. Jeżeli oddano głos w cudzym imieniu, wskazuje się również imię i nazwisko głosującego.
+2. Głosowanie przeprowadza nadzorca sądowy albo zarządca pod nadzorem sędziego-komisarza. Spis głosów złożonych na piśmie oraz głosów oddanych ustnie na zgromadzeniu wierzycieli, do którego stosuje się odpowiednio przepis art. 86 ust. 2, stanowi załącznik do protokołu. Jeżeli oddano głos w cudzym imieniu, wskazuje się również imię i nazwisko głosującego. Jeżeli spis głosów został sporządzony w postaci elektronicznej i warunki techniczne to umożliwiają, składa się go również w postaci elektronicznej.
 
 3. Uczestnik postępowania może głosować na zgromadzeniu wierzycieli również przez pełnomocnika. Pełnomocnikiem może być również jeden z wierzycieli.
 
-4. Głos oddany na piśmie oraz głos oddany za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe zawiera wskazanie imienia i nazwiska albo nazwy głosującego oraz wskazanie, czy głosuje za czy przeciw uchwale.
+4. Głos oddany na piśmie zawiera wskazanie imienia i nazwiska albo nazwy głosującego oraz wskazanie, czy głosuje za, czy przeciw uchwale.
 
 5. Wierzyciela, który wstrzymał się od głosu, uważa się za nieuczestniczącego w głosowaniu.
 
-6. Jeżeli istnieją możliwości techniczne, głosowanie na zgromadzeniu wierzycieli może zostać przeprowadzone z wykorzystaniem elektronicznych środków komunikacji. Głosowanie z wykorzystaniem elektronicznych środków komunikacji może obejmować w szczególności transmisję zgromadzenia wierzycieli w czasie rzeczywistym, w ramach której wierzyciele mogą wypowiadać się w toku zgromadzenia wierzycieli, przebywając w miejscu innym niż miejsce zgromadzenia wierzycieli. Udział wierzycieli w zgromadzeniu może podlegać jedynie wymogom i ograniczeniom, które są niezbędne do identyfikacji wierzycieli i zapewnienia bezpieczeństwa komunikacji elektronicznej.
+6. Jeżeli istnieją możliwości techniczne, głosowanie na zgromadzeniu wierzycieli może zostać przeprowadzone z wykorzystaniem elektronicznych środków komunikacji, gdy sędzia-komisarz tak postanowi. Głosowanie z wykorzystaniem elektronicznych środków komunikacji może obejmować w szczególności transmisję zgromadzenia wierzycieli w czasie rzeczywistym, w ramach której wierzyciele mogą wypowiadać się w toku zgromadzenia wierzycieli, przebywając w miejscu innym niż miejsce zgromadzenia wierzycieli. Udział wierzycieli w zgromadzeniu może podlegać jedynie wymogom i ograniczeniom, które są niezbędne do identyfikacji wierzycieli i zapewnienia bezpieczeństwa komunikacji elektronicznej.
 
-7. W przypadku gdy z uwagi na znaczną liczbę wierzycieli odbycie zgromadzenia wierzycieli jest utrudnione, sędzia-komisarz może postanowić o przeprowadzeniu głosowania wyłącznie za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe. Postanowienie obwieszcza się.
+7. W przypadku gdy z uwagi na znaczną liczbę wierzycieli odbycie zgromadzenia wierzycieli jest utrudnione, sędzia-komisarz może postanowić o przeprowadzeniu głosowania w innym trybie niż określony w ust. 1–6, w tym również z pominięciem zwoływania zgromadzenia wierzycieli. Postanowienie obwieszcza się.
 
-8. (uchylony)
+8. Na postanowienie, o którym mowa w ust. 7, przysługuje zażalenie.
 
 **Art. 111.** Jeżeli ustawa nie stanowi inaczej, uchwała zgromadzenia wierzycieli zostaje przyjęta, jeżeli wypowie się za nią większość głosujących wierzycieli, którzy oddali ważny głos, mających łącznie co najmniej połowę sumy wierzytelności przysługujących głosującym wierzycielom.
 
@@ -1203,7 +2090,7 @@ Art. 401–447. (pominięte)
 
 3. Prawa głosu w sprawie dotyczącej układu nie ma również wierzyciel będący spółką kapitałową, której spółka dominująca jest również spółką dominującą dla dłużnika, oraz osoby uprawnione do jej reprezentowania.
 
-4. W sprawach dotyczących układu, jeżeli dłużnikiem jest spółka kapitałowa, prawa głosu nie ma wierzyciel będący osobą fizyczną, jeżeli reprezentuje ponad 25 % kapitału zakładowego spółki, a w przypadku prostej spółki akcyjnej – posiada ponad 25 % akcji tej spółki.
+4. W sprawach dotyczących układu, jeżeli dłużnikiem jest spółka kapitałowa, prawa głosu nie ma wierzyciel będący osobą fizyczną, jeżeli reprezentuje ponad 25% kapitału zakładowego spółki.
 
 **Art. 117.**
 
@@ -1227,16 +2114,7 @@ Art. 401–447. (pominięte)
 
 2. Jeżeli głosowanie nad układem przeprowadza się w grupach wierzycieli, obejmujących poszczególne kategorie interesów, układ zostaje przyjęty, jeżeli w każdej grupie wypowie się za nim większość głosujących wierzycieli z tej grupy, mających łącznie co najmniej dwie trzecie sumy wierzytelności, przysługujących głosującym wierzycielom z tej grupy.
 
-3. Układ zostaje przyjęty, chociażby nie uzyskał wymaganej większości w niektórych z grup wierzycieli, obejmujących poszczególne kategorie interesów, jeżeli:
-
-- **1)** za przyjęciem układu głosowała większość grup wierzycieli, w tym co najmniej jedna grupa wierzycieli, o których mowa w art. 161 ust. 1a pkt 3, lub wierzycieli o wyższym stopniu zaspokojenia od wierzycieli, o których należnościach jest mowa w art. 342 ust. 1 pkt 2 Prawa upadłościowego,
-- **2)** w przypadku niespełnienia warunku, o którym mowa w pkt 1, za przyjęciem układu głosowała co najmniej jedna grupa wierzycieli należąca do tych kategorii wierzycieli, którzy w przypadku przeprowadzenia postępowania upadłościowego otrzymaliby jakiekolwiek zaspokojenie przy zastosowaniu wyceny zakładającej kontynuację działalności przedsiębiorstwa dłużnika – przy czym za przyjęciem układu głosowali wierzyciele mający łącznie co najmniej połowę sumy wierzytelności przysługujących głosującym wierzycielom.
-
-4. Jeżeli wierzyciele z grupy o niższym stopniu zaspokojenia w postępowaniu upadłościowym otrzymają w drodze układu jakiekolwiek zaspokojenie, to wierzyciele z grupy albo grup o wyższym stopniu zaspokojenia w postępowaniu upadłościowym, które wypowiedziały się przeciw przyjęciu układu, muszą uzyskać w drodze układu pełne zaspokojenie w terminie określonym w układzie.
-
-5. Przez wierzycieli o wyższym stopniu zaspokojenia, o których mowa w ust. 3 pkt 1, albo wierzycieli o niższym stopniu zaspokojenia, o których mowa w ust. 4, rozumie się wierzycieli, którzy są zaspokojeni w odpowiednio wyższym albo niższym stopniu w postępowaniu upadłościowym, w szczególności wierzycieli o odpowiednio wyższej albo niższej kategorii zaspokojenia, przy uwzględnieniu wierzycieli zaspokajanych w ramach odrębnego planu podziału.
-
-6. Przyjęciu układu, o którym mowa w ust. 3, nie stoi na przeszkodzie zaspokojenie wierzyciela w drodze układu w wyższym stopniu od przewidzianego w postępowaniu upadłościowym na zasadach wynikających z zastosowania art. 160 lub art. 162 ust. 2.
+3. Układ zostaje przyjęty, chociażby nie uzyskał wymaganej większości w niektórych z grup wierzycieli, jeżeli wierzyciele mający łącznie dwie trzecie sumy wierzytelności przysługujących głosującym wierzycielom głosowali za przyjęciem układu, a wierzyciele z grupy lub grup, które wypowiedziały się przeciw przyjęciu układu, zostaną zaspokojeni na podstawie układu w stopniu nie mniej korzystnym niż w przypadku przeprowadzenia postępowania upadłościowego.
 
 **Art. 120.**
 
@@ -1254,7 +2132,7 @@ Art. 401–447. (pominięte)
 
 1. Radę wierzycieli ustanawia oraz powołuje i odwołuje jej członków sędzia-komisarz z urzędu, o ile uzna to za potrzebne, albo na wniosek.
 
-2. Sędzia-komisarz niezwłocznie, niepóźniej niż w terminie tygodnia, ustanawia radę wierzycieli na wniosek dłużnika, co najmniej trzech wierzycieli lub wierzyciela albo wierzycieli mających łącznie co najmniej piątą część sumy wierzytelności, z wyłączeniem wierzycieli określonych w art. 80 ust. 3, art. 109 ust. 1 i art. 116.
+2. Sędzia-komisarz niezwłocznie, nie później niż w terminie tygodnia, ustanawia radę wierzycieli na wniosek dłużnika, co najmniej trzech wierzycieli lub wierzyciela albo wierzycieli mających łącznie co najmniej piątą część sumy wierzytelności, z wyłączeniem wierzycieli określonych w art. 80 ust. 3, art. 109 ust. 1 i art. 116.
 
 3. Do czasu zatwierdzenia spisu wierzytelności uprawnienia wierzycieli w sprawach dotyczących rady wierzycieli ustala się na podstawie:
 
@@ -1381,19 +2259,19 @@ Art. 401–447. (pominięte)
 
 **Art. 136.**
 
-1. (uchylony)
+1. Uchwały rady wierzycieli zamieszcza się w Rejestrze.
 
-2. W terminie tygodnia uczestnik postępowania oraz zarządca albo nadzorca sądowy mogą wnieść zarzuty przeciwko uchwale rady wierzycieli. Zarzuty wniesione po upływie terminu lub nieodpowiadające wymogom formalnym pisma procesowego pozostawia się bez rozpoznania. Przepisu art. 130 § 1 Kodeksu postępowania cywilnego nie stosuje się.
+2. W terminie tygodnia od dnia zamieszczenia uchwały rady wierzycieli w Rejestrze uczestnik postępowania oraz zarządca albo nadzorca sądowy mogą wnieść zarzuty przeciwko uchwale. Zarzuty wniesione po upływie terminu lub nieodpowiadające wymogom formalnym pisma procesowego pozostawia się bez rozpoznania. Przepisu art. 130 § 1 Kodeksu postępowania cywilnego nie stosuje się.
 
 3. Sędzia-komisarz rozpoznaje zarzuty w terminie tygodnia od dnia przedłożenia mu zarzutów.
 
-4. Sędzia-komisarz w wyniku rozpoznania zarzutów lub z urzędu w terminie dwóch tygodni od dnia przekazania mu uchwały rady wierzycieli może uchylić tę uchwałę, jeżeli jest ona sprzeczna z prawem lub narusza interes wierzycieli. Na postanowienie sędziego-komisarza zażalenie przysługuje wyłącznie skarżącemu, dłużnikowi oraz członkom rady wierzycieli.
+4. Sędzia-komisarz w wyniku rozpoznania zarzutów lub z urzędu w terminie dwóch tygodni od dnia zamieszczenia uchwały rady wierzycieli w Rejestrze może uchylić tę uchwałę, jeżeli jest ona sprzeczna z prawem lub narusza interes wierzycieli. Na postanowienie sędziego-komisarza zażalenie przysługuje wyłącznie skarżącemu, dłużnikowi oraz członkom rady wierzycieli.
 
-5. Wykonanie uchwały nie może nastąpić wcześniej niż po upływie dwóch tygodni od dnia jej przekazania sędziemu-komisarzowi. Sędzia-komisarz może wstrzymać wykonanie uchwały do czasu uprawomocnienia się postanowienia w przedmiocie rozpoznania zarzutów lub postanowienia o uchyleniu uchwały rady wierzycieli.
+5. Wykonanie uchwały nie może nastąpić wcześniej niż po upływie dwóch tygodni od dnia jej zamieszczenia w Rejestrze. Sędzia-komisarz może wstrzymać wykonanie uchwały do czasu uprawomocnienia się postanowienia w przedmiocie rozpoznania zarzutów lub postanowienia o uchyleniu uchwały rady wierzycieli.
 
 **Art. 137.**
 
-1. Członkowi rady wierzycieli przysługuje prawo do zwrotu koniecznych wydatków związanych z jego udziałem w posiedzeniu rady wierzycieli. Za udział w posiedzeniu sędzia-komisarz może przyznać członkowi stosowne wynagrodzenie, jeżeli jest to uzasadnione rodzajem i stopniem zawiłości sprawy oraz zakresem wykonywanych prac. Wynagrodzenie to nie może przekraczać 3 % miesięcznego przeciętnego wynagrodzenia, o którym mowa w art. 55 ust. 3, za jeden dzień posiedzenia. Wynagrodzenie oraz zwrot wydatków wchodzą w skład kosztów postępowania restrukturyzacyjnego.
+1. Członkowi rady wierzycieli przysługuje prawo do zwrotu koniecznych wydatków związanych z jego udziałem w posiedzeniu rady wierzycieli. Za udział w posiedzeniu sędzia-komisarz może przyznać członkowi stosowne wynagrodzenie, jeżeli jest to uzasadnione rodzajem i stopniem zawiłości sprawy oraz zakresem wykonywanych prac. Wynagrodzenie to nie może przekraczać 3% miesięcznego przeciętnego wynagrodzenia, o którym mowa w art. 55 ust. 3, za jeden dzień posiedzenia. Wynagrodzenie oraz zwrot wydatków wchodzą w skład kosztów postępowania restrukturyzacyjnego.
 
 2. Postanowienie w sprawie wynagrodzenia i zwrotu wydatków wydaje sędzia-komisarz po wysłuchaniu członka rady wierzycieli i nadzorcy sądowego albo zarządcy.
 
@@ -1405,13 +2283,11 @@ Art. 401–447. (pominięte)
 
 2. Sędzia-komisarz wykonuje również czynności zastrzeżone dla rady wierzycieli, jeżeli rada nie wykona ich w terminie wyznaczonym przez sędziego-komisarza.
 
-### DZIAŁ V Pomoc publiczna
-
-**Art. 139a.** (uchylony)
+### Dział V Pomoc publiczna
 
 **Art. 140.**
 
-1. Jeżeli w postępowaniu restrukturyzacyjnym może dojść do udzielenia przedsiębiorcy przez państwo lub przy użyciu zasobów państwowych wsparcia w jakiejkolwiek formie, w szczególności przez zmniejszenie, w drodze układu, wysokości zobowiązań, rozłożenie spłaty na raty, odroczenie terminu wykonania zobowiązań lub zawieszenie, z mocy prawa lub na podstawie postanowienia sądu lub sędziego-komisarza, postępowań egzekucyjnych prowadzonych w celu dochodzenia wierzytelności, udzielenie pożyczek, kredytów, poręczeń lub gwarancji, nadzorca albo zarządca sporządza:
+1. Jeżeli w postępowaniu restrukturyzacyjnym może dojść do udzielenia przedsiębiorcy przez państwo lub przy użyciu zasobów państwowych wsparcia w jakiejkolwiek formie, w szczególności przez zmniejszenie, w drodze układu, wysokości zobowiązań, rozłożenie spłaty na raty, odroczenie terminu wykonania zobowiązań lub zawieszenie, z mocy prawa lub na podstawie postanowienia sądu lub sędziego-komisarza, postępowań egzekucyjnych prowadzonych w celu dochodzenia wierzytelności, udzielenie pożyczek, kredytów, poręczeń lub gwarancji, plan restrukturyzacyjny dodatkowo zawiera:
 
 - **1)** test prywatnego wierzyciela lub test prywatnego inwestora, stanowiący ocenę, czy wsparcie udzielone w postępowaniu restrukturyzacyjnym i w trakcie wykonywania układu będzie stanowiło pomoc publiczną;
 - **2)** ocenę, dokonaną na podstawie informacji przedstawionych przez podmiot ubiegający się o pomoc de minimis lub pomoc de minimis w rolnictwie lub rybołówstwie, czy wsparcie udzielone w postępowaniu restrukturyzacyjnym i w trakcie wykonywania układu spełnia kryteria uznania go za pomoc de minimis lub pomoc de minimis w rolnictwie lub rybołówstwie wraz z uzasadnieniem.
@@ -1420,14 +2296,14 @@ Art. 401–447. (pominięte)
 
 3. Test prywatnego wierzyciela zawiera:
 
-- **1)** informację o przewidywanym stopniu zaspokojenia poszczególnych wierzycieli publicznoprawnych w ramach wykonania układu, która zawiera następujące dane, będące podstawą oceny, o której mowa w ust. 2:
-    - **a)** wysokość objętych układem zobowiązań dłużnika wobec poszczególnych wierzycieli publicznoprawnych,
-    - **b)** treść propozycji układowych wobec poszczególnych wierzycieli publicznoprawnych;
+- **1)** informację o przewidywanym stopniu zaspokojenia poszczególnych wierzycieli publicznoprawnych w ramach wykonania układu, która zawiera następujące dane, będące podstawą oceny, o której mowa w ust. 2: wysokość objętych układem zobowiązań dłużnika wobec poszczególnych wierzycieli publicznoprawnych, treść propozycji układowych wobec poszczególnych wierzycieli publicznoprawnych;
+    - **a)**
+    - **b)**
 
-- **2)** informację o przewidywanym stopniu zaspokojenia poszczególnych wierzycieli publicznoprawnych w postępowaniu upadłościowym, które byłoby prowadzone wobec dłużnika, zawierającą następujące dane, będące podstawą oceny, o której mowa w ust. 2:
-    - **a)** wartość majątku dłużnika ze wskazaniem obciążeń,
-    - **b)** przewidywaną wysokość kosztów postępowania upadłościowego,
-    - **c)** kategorię, w której byliby zaspokajani poszczególni wierzyciele publicznoprawni w postępowaniu upadłościowym;
+- **2)** informację o przewidywanym stopniu zaspokojenia poszczególnych wierzycieli publicznoprawnych w postępowaniu upadłościowym, które byłoby prowadzone wobec dłużnika, zawierającą następujące dane, będące podstawą oceny, o której mowa w ust. 2: wartość majątku dłużnika ze wskazaniem obciążeń, przewidywaną wysokość kosztów postępowania upadłościowego, kategorię, w której byliby zaspokajani poszczególni wierzyciele publicznoprawni w postępowaniu upadłościowym;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **3)** ocenę, czy wierzytelności wierzyciela publicznoprawnego będą zaspokojone w większym stopniu w przypadku zawarcia i wykonania układu, czy w postępowaniu upadłościowym.
 
@@ -1447,23 +2323,21 @@ Art. 401–447. (pominięte)
 - **1)** podjął działalność gospodarczą w danym sektorze w okresie co najmniej trzech lat przed dniem złożenia wniosku restrukturyzacyjnego;
 - **2)** nie prowadzi działalności gospodarczej w sektorach hutnictwa żelaza i stali, górnictwa węgla lub w sektorze finansowym;
 - **3)** nie prowadzi działalności na rynku, na którym występuje lub może występować długookresowa strukturalna nadprodukcja;
-- **4)** nie jest przedsiębiorcą należącym do grupy kapitałowej ani nie jest przejmowany przez żadnego przedsiębiorcę należącego do grupy kapitałowej, z wyjątkiem sytuacji gdy wykaże, że jego trudna sytuacja ekonomiczna:
-    - **a)** ma charakter wewnętrzny i nie jest wynikiem nieuzasadnionego podziału kosztów w ramach grupy kapitałowej,
-    - **b)** jest zbyt poważna, aby mogła zostać rozwiązana przez przedsiębiorcę lub przedsiębiorców należących do tej samej grupy kapitałowej.
+- **4)** nie jest przedsiębiorcą należącym do grupy kapitałowej ani nie jest przejmowany przez żadnego przedsiębiorcę należącego do grupy kapitałowej, z wyjątkiem sytuacji gdy wykaże, że jego trudna sytuacja ekonomiczna: ma charakter wewnętrzny i nie jest wynikiem nieuzasadnionego podziału kosztów w ramach grupy kapitałowej, jest zbyt poważna, aby mogła zostać rozwiązana przez przedsiębiorcę lub przedsiębiorców należących do tej samej grupy kapitałowej.
+    - **a)**
+    - **b)**
 
 2. Przedsiębiorcy zagrożonemu niewypłacalnością pomoc publiczna na restrukturyzację może zostać udzielona w przypadku:
 
-- **1)** gdy przedsiębiorca wskutek poniesionych strat utracił więcej niż połowę kapitału, w szczególności jeżeli suma zysku (strat) z lat ubiegłych, zysku (straty) netto w danym roku obrotowym, kapitału zapasowego, kapitału z aktualizacji wyceny i pozostałych kapitałów (funduszy) rezerwowych jest ujemna i jej wartość bezwzględna jest większa niż 50 % kapitału (funduszu) podstawowego;
-- **2)** (uchylony)
-- **3)** przedsiębiorcy innego niż mały lub średni, gdy w ciągu dwóch ostatnich lat stosunek:
-    - **a)** długów do kapitału własnego był większy niż 7,5,
-    - **b)** zysku operacyjnego powiększonego o amortyzację do odsetek był niższy niż 1.
+- **1)** spółki akcyjnej, spółki z ograniczoną odpowiedzialnością oraz spółki komandytowo-akcyjnej – jeżeli wysokość niepokrytych strat przekracza kapitał zapasowy i 50% kapitału zakładowego;
+- **2)** spółki jawnej, spółki komandytowej oraz spółki partnerskiej – jeżeli wysokość niepokrytych strat przekracza 50% wartości wszystkich udziałów w tej spółce;
+- **3)** gdy przedsiębiorca jest innym przedsiębiorcą niż mały lub średni i w ciągu dwóch ostatnich lat stosunek: długów do kapitału własnego był większy niż 7,5, zysku operacyjnego powiększonego o amortyzację do odsetek był niższy niż 1.
+    - **a)**
+    - **b)**
 
 3. Przez grupę kapitałową należy rozumieć przedsiębiorców będących przedsiębiorstwami partnerskimi i powiązanymi, o których mowa w art. 3 ust. 2 i 3 załącznika I do rozporządzenia Komisji Europejskiej (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1).
 
 4. Przez małego lub średniego przedsiębiorcę należy rozumieć przedsiębiorcę będącego małym lub średnim przedsiębiorstwem w rozumieniu załącznika I do rozporządzenia, o którym mowa w ust. 3, z wyłączeniem przepisu art. 3 ust. 4 tego załącznika.
-
-5. Warunek, o którym mowa w ust. 2 pkt 1, sprawdza się na podstawie zatwierdzonych sprawozdań finansowych sporządzanych zgodnie z przepisami ustawy z dnia 29 września 1994 r. o rachunkowości, a w przypadku gdy przedsiębiorca nie jest zobowiązany do ich sporządzania – na podstawie innych wiarygodnych dokumentów finansowych.
 
 **Art. 142.**
 
@@ -1471,23 +2345,21 @@ Art. 401–447. (pominięte)
 
 - **1)** w celu realizacji planu restrukturyzacyjnego, który umożliwi przywrócenie przedsiębiorcy długookresowej zdolności do konkurowania na rynku, rozumianej jako zdolność do pokrywania kosztów działalności gospodarczej, w tym kosztów amortyzacji i kosztów finansowych;
 - **2)** jeżeli sposób restrukturyzacji jest właściwy dla usunięcia przyczyn trudnej sytuacji ekonomicznej przedsiębiorcy;
-- **3)** jeżeli zapobiega trudnościom społecznym lub prowadzi do przezwyciężenia niedoskonałości rynku, a bez tej pomocy cel ten nie zostałby osiągnięty lub zostałby osiągnięty w mniejszym zakresie;
-- **4)** jeżeli zostanie przedstawiony wiarygodny scenariusz alternatywny nieprzewidujący pomocy publicznej, z którego wynika, że bez tej pomocy cel, o którym mowa w pkt 3, nie zostałby osiągnięty lub zostałby osiągnięty w mniejszym zakresie;
-- **5)** jeżeli bez tej pomocy przedsiębiorca zostałby zrestrukturyzowany, sprzedany lub zlikwidowany w taki sposób, że cel, o którym mowa w pkt 3, nie zostałby osiągnięty lub zostałby osiągnięty w mniejszym zakresie.
+- **3)** jeżeli zapobiega trudnościom społecznym lub prowadzi do przezwyciężenia niedoskonałości rynku, a bez tej pomocy cel ten nie zostałby osiągnięty lub zostałby osiągnięty w mniejszym zakresie.
 
 2. Trudności społeczne lub niedoskonałości rynku objawiają się w szczególności w przypadku:
 
-- **1)** małych i średnich przedsiębiorców:
-    - **a)** ryzykiem opuszczenia rynku przez przedsiębiorcę prowadzącego działalność innowacyjną lub mającego duży potencjał wzrostu, skutkującym negatywnymi konsekwencjami dla danego regionu lub sektora,
-    - **b)** ryzykiem opuszczenia rynku przez przedsiębiorcę o silnych powiązaniach z innymi lokalnymi lub regionalnymi przedsiębiorcami, szczególnie z sektora małych i średnich przedsiębiorców,
-    - **c)** występowaniem ograniczeń na rynkach finansowych, skutkujących zwiększeniem liczby upadłości przedsiębiorstw;
+- **1)** małych i średnich przedsiębiorców: ryzykiem opuszczenia rynku przez przedsiębiorcę prowadzącego działalność innowacyjną lub mającego duży potencjał wzrostu, skutkującym negatywnymi konsekwencjami dla danego regionu lub sektora, ryzykiem opuszczenia rynku przez przedsiębiorcę o silnych powiązaniach z innymi lokalnymi lub regionalnymi przedsiębiorcami, szczególnie z sektora małych i średnich przedsiębiorców, występowaniem ograniczeń na rynkach finansowych, skutkujących zwiększeniem liczby upadłości przedsiębiorstw;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **2)** innych przedsiębiorców niż określeni w pkt 1: 1799 oraz z 2025 r. poz. 1792), która ma charakter stały i której towarzyszą trudności związane z tworzeniem nowych miejsc pracy w tym regionie,
-    - **a)** wyższą niż średnia unijna lub średnia krajowa stopą bezrobocia w regionie określonym na poziomie 2, zgodnie z przepisami w sprawie wprowadzenia Nomenklatury Jednostek Terytorialnych do celów statystycznych (NTS) wydanymi na podstawie art. 40 ust. 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2024 r. poz.
-    - **b)** ryzykiem przerwania świadczenia usługi w ogólnym interesie gospodarczym lub innej ważnej usługi, którą trudno jest zastąpić i w przypadku której konkurentom trudno byłoby zacząć ją świadczyć,
-    - **c)** ryzykiem opuszczenia rynku przez przedsiębiorcę o istotnym znaczeniu dla danego regionu lub sektora,
-    - **d)** występowaniem ograniczeń na rynkach finansowych, skutkujących zwiększeniem liczby upadłości przedsiębiorstw,
-    - **e)** ryzykiem utraty ważnej wiedzy technicznej lub eksperckiej.
+- **2)** innych przedsiębiorców niż określeni w pkt 1: wyższą niż średnia unijna lub średnia krajowa stopą bezrobocia w regionie określonym na poziomie 2, zgodnie z przepisami w sprawie wprowadzenia Nomenklatury Jednostek Terytorialnych do celów statystycznych (NTS) wydanymi na podstawie art. 40 ust. 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2012 r. poz. 591, z późn. zm.), która ma charakter stały i której towarzyszą trudności związane z tworzeniem nowych miejsc pracy w tym regionie, ryzykiem przerwania świadczenia usługi w ogólnym interesie gospodarczym lub innej ważnej usługi, którą trudno jest zastąpić i w przypadku której konkurentom trudno byłoby zacząć ją świadczyć, ryzykiem opuszczenia rynku przez przedsiębiorcę o istotnym znaczeniu dla danego regionu lub sektora, występowaniem ograniczeń na rynkach finansowych, skutkujących zwiększeniem liczby upadłości przedsiębiorstw, ryzykiem utraty ważnej wiedzy technicznej lub eksperckiej.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 3. Pomoc publiczna na restrukturyzację nie może zostać udzielona, jeżeli środki restrukturyzacyjne określone w planie restrukturyzacyjnym:
 
@@ -1499,10 +2371,10 @@ Art. 401–447. (pominięte)
 1. Pomoc publiczna na restrukturyzację może zostać udzielona, jeżeli przedsiębiorca:
 
 - **1)** nie otrzymał wcześniej pomocy publicznej na ratowanie, tymczasowej pomocy publicznej na restrukturyzację lub pomocy publicznej na restrukturyzację albo
-- **2)** otrzymał pomoc publiczną na ratowanie, tymczasową pomoc publiczną na restrukturyzację lub pomoc publiczną na restrukturyzację i upłynęło co najmniej dziesięć lat, licząc od dnia wystąpienia najpóźniejszego z następujących zdarzeń:
-    - **a)** przyznania przedsiębiorcy pomocy publicznej,
-    - **b)** zakończenia realizacji poprzedniego planu restrukturyzacyjnego,
-    - **c)** zaprzestania realizacji poprzedniego planu restrukturyzacyjnego.
+- **2)** otrzymał pomoc publiczną na ratowanie, tymczasową pomoc publiczną na restrukturyzację lub pomoc publiczną na restrukturyzację i upłynęło co najmniej dziesięć lat, licząc od dnia wystąpienia najpóźniejszego z następujących zdarzeń: przyznania przedsiębiorcy pomocy publicznej, zakończenia realizacji poprzedniego planu restrukturyzacyjnego, zaprzestania realizacji poprzedniego planu restrukturyzacyjnego.
+    - **a)**
+    - **b)**
+    - **c)**
 
 2. Pomoc publiczna na restrukturyzację może zostać udzielona przed upływem dziesięciu lat od dnia przyznania przedsiębiorcy pomocy publicznej na ratowanie lub tymczasowej pomocy publicznej na restrukturyzację, jeżeli:
 
@@ -1528,19 +2400,17 @@ Art. 401–447. (pominięte)
 
 1. Pomoc publiczna na restrukturyzację może stanowić jedynie uzupełnienie środków:
 
-- **1)** własnych przedsiębiorcy, z wyłączeniem amortyzacji i planowanych zysków,
+- **1)** własnych przedsiębiorcy,
 - **2)** pochodzących od akcjonariuszy lub udziałowców przedsiębiorcy lub innych przedsiębiorców należących do tej samej grupy kapitałowej co przedsiębiorca,
-- **3)** pochodzących od wierzycieli przedsiębiorcy – w zakresie niezbędnym do realizacji celu, o którym mowa w art. 142 ust. 1 pkt 1.
+- **3)** pochodzących od wierzycieli przedsiębiorcy w zakresie niezbędnym do realizacji celu, o którym mowa w art. 142 ust. 1 pkt 1.
 
 2. Udział środków, o których mowa w ust. 1, w kosztach restrukturyzacji wynosi co najmniej:
 
-- **1)** 25 % – w przypadku małego przedsiębiorcy;
-- **2)** 40 % – w przypadku średniego przedsiębiorcy;
-- **3)** 50 % – w przypadku przedsiębiorcy innego niż określony w pkt 1 lub 2.
+- **1)** 25% – w przypadku małego przedsiębiorcy;
+- **2)** 40% – w przypadku średniego przedsiębiorcy;
+- **3)** 50% – w przypadku przedsiębiorcy innego niż określony w pkt 1 lub 2.
 
-3. W przypadku wystąpienia wyjątkowych okoliczności lub szczególnych trudności udział środków, o których mowa w ust. 1, w kosztach restrukturyzacji może być niższy niż określony w ust. 2, ale musi być znaczny.
-
-3a. Środki, o których mowa w ust. 1, muszą być realne oraz nie mogą stanowić pomocy publicznej. W normalnych okolicznościach środki te muszą być porównywalne z przyznawaną pomocą publiczną pod względem wpływu na wypłacalność lub poziom płynności finansowej przedsiębiorcy.
+3. W przypadku wystąpienia wyjątkowych okoliczności lub szczególnych trudności, udział środków, o których mowa w ust. 1, w kosztach restrukturyzacji może być niższy niż określony w ust. 2.
 
 4. Pomoc udzielana jako rekompensata z tytułu usług świadczonych w ogólnym interesie gospodarczym nie jest uwzględniana w obliczeniu udziału środków, o których mowa w ust. 1, w kosztach restrukturyzacji.
 
@@ -1570,22 +2440,20 @@ Art. 401–447. (pominięte)
 
 5. Środki otwarcia rynku polegają w szczególności na ułatwianiu wejścia na rynek innym przedsiębiorcom.
 
-6. Nie stanowią środków wyrównujących zakłócenia konkurencji na rynku działania konieczne do realizacji celu, o którym mowa w art. 142 ust. 1 pkt 1, polegające na likwidacji lub ograniczeniu działalności przedsiębiorcy, przynoszącej przed restrukturyzacją straty.
+6. Nie stanowią środków wyrównujących zakłócenia konkurencji na rynku działania polegające na likwidacji lub ograniczeniu działalności przedsiębiorcy, które są konieczne dla realizacji celu, o którym mowa w art. 142 ust. 1 pkt 1.
 
 7. Rodzaj i zakres zastosowanych środków wyrównujących zakłócenia konkurencji na rynku zależą od:
 
 - **1)** wielkości, formy i warunków udzielenia pomocy publicznej na restrukturyzację, przy czym pomoc w celu pokrycia kosztów restrukturyzacji zatrudnienia nie jest brana pod uwagę;
-- **2)** wielkości, formy i warunków udostępnienia środków:
-    - **a)** własnych przedsiębiorcy,
-    - **b)** pochodzących od akcjonariuszy lub udziałowców przedsiębiorcy,
-    - **c)** pochodzących od innych przedsiębiorców należących do tej samej grupy kapitałowej co przedsiębiorca,
-    - **d)** pochodzących od wierzycieli przedsiębiorcy, w tym ewentualnego wkładu w koszty restrukturyzacji poniesionego przez wierzycieli posiadających wierzytelności zabezpieczone hipoteką, zastawem, zastawem rejestrowym, zastawem skarbowym lub hipoteką morską;
+- **2)** wielkości, formy i warunków udostępnienia środków: własnych przedsiębiorcy, pochodzących od akcjonariuszy lub udziałowców przedsiębiorcy, pochodzących od innych przedsiębiorców należących do tej samej grupy kapitałowej co przedsiębiorca, pochodzących od wierzycieli przedsiębiorcy, w tym ewentualnego wkładu w koszty restrukturyzacji poniesionego przez wierzycieli posiadających wierzytelności zabezpieczone hipoteką, zastawem, zastawem rejestrowym, zastawem skarbowym lub hipoteką morską;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **3)** wielkości przedsiębiorcy, jego udziału w rynku oraz świadczenia przez przedsiębiorcę usług w ogólnym interesie gospodarczym;
 - **4)** charakterystyki rynku, na którym działa przedsiębiorca;
 - **5)** oceny wpływu środków wyrównujących zakłócenia konkurencji na rynku na funkcjonowanie rynku wewnętrznego.
-
-7a. Środki behawioralne stosuje się w każdym przypadku.
 
 8. Środki wyrównujące zakłócenia konkurencji na rynku nie mogą zagrażać rentowności przedsiębiorcy ani powodować zagrożeń dla struktury rynku, na którym działa przedsiębiorca, lub interesów konsumentów.
 
@@ -1595,7 +2463,7 @@ Art. 401–447. (pominięte)
 
 11. Do małego przedsiębiorcy przepisów ust. 1–10 nie stosuje się. Zwiększenie przez małego przedsiębiorcę zdolności produkcyjnych w trakcie realizacji planu restrukturyzacyjnego jest niedopuszczalne.
 
-**Art. 146.** Pomoc publiczna na restrukturyzację może zostać udzielona przedsiębiorcy świadczącemu usługi w ogólnym interesie gospodarczym, nawet jeżeli nie są spełnione warunki określone w art. 141–145, w przypadku gdy jest to niezbędne do zachowania ciągłości tych usług, niedłużej niż do dnia przekazania obowiązku świadczenia tych usług kolejnemu przedsiębiorcy.
+**Art. 146.** Pomoc publiczna na restrukturyzację może zostać udzielona przedsiębiorcy świadczącemu usługi w ogólnym interesie gospodarczym, nawet jeżeli nie są spełnione warunki określone w art. 141–145, w przypadku gdy jest to niezbędne do zachowania ciągłości tych usług, nie dłużej niż do dnia przekazania obowiązku świadczenia tych usług kolejnemu przedsiębiorcy.
 
 **Art. 147.**
 
@@ -1619,7 +2487,7 @@ Art. 401–447. (pominięte)
 
 **Art. 149.** Pomoc publiczna na restrukturyzację, która nie podlega notyfikacji Komisji Europejskiej, może zostać udzielona w okresie wskazanym w decyzji Komisji Europejskiej wydanej na podstawie art. 4 ust. 3 albo art. 7 ust. 3 lub 4 rozporządzenia Rady (WE) nr 659/1999 z dnia 22 marca 1999 r. ustanawiającego szczegółowe zasady stosowania art. 108 Traktatu o Funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 83 z 27.03.1999, str. 1, z późn. zm.).
 
-### DZIAŁ VI Układ
+### Dział VI Układ
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1629,12 +2497,9 @@ Art. 401–447. (pominięte)
 
 - **1)** wierzytelności osobiste powstałe przed dniem otwarcia postępowania restrukturyzacyjnego, jeżeli ustawa nie stanowi inaczej;
 - **2)** odsetki za okres od dnia otwarcia postępowania restrukturyzacyjnego;
-- **3)** wierzytelności zależne od warunku, jeżeli warunek ziścił się w czasie wykonywania układu;
-- **4)** wierzytelności zabezpieczone przeniesieniem na wierzyciela własności rzeczy, wierzytelności lub innego prawa.
+- **3)** wierzytelności zależne od warunku, jeżeli warunek ziścił się w czasie wykonywania układu.
 
 2. Wierzytelności wobec dłużnika wynikające z umowy wzajemnej, która nie została wykonana w całości lub części przed dniem otwarcia postępowania restrukturyzacyjnego, są objęte układem tylko w przypadku, gdy świadczenie drugiej strony jest świadczeniem podzielnym i tylko w zakresie, w jakim druga strona spełniła świadczenie przed dniem otwarcia postępowania restrukturyzacyjnego i nie otrzymała świadczenia wzajemnego.
-
-3. Wierzytelności zabezpieczone na składnikach majątku dłużnika hipoteką, zastawem, zastawem rejestrowym, zastawem skarbowym lub hipoteką morską, a także przez przeniesienie na wierzyciela własności rzeczy, wierzytelności lub innego prawa uznaje się za zabezpieczone w tej części wierzytelności, która odpowiada wartości przedmiotu zabezpieczenia.
 
 **Art. 151.**
 
@@ -1643,13 +2508,11 @@ Art. 401–447. (pominięte)
 - **1)** wierzytelności alimentacyjnych oraz rent z tytułu odszkodowania za wywołanie choroby, niezdolności do pracy, kalectwa lub śmierci oraz z tytułu zamiany uprawnień objętych treścią prawa dożywocia na dożywotnią rentę;
 - **2)** roszczeń o wydanie mienia i zaniechanie naruszania praw;
 - **3)** wierzytelności, za które dłużnik odpowiada w związku z nabyciem spadku po dniu otwarcia postępowania restrukturyzacyjnego, po wejściu spadku do masy układowej lub sanacyjnej;
-- **4)** (uchylony)
+- **4)** wierzytelności z tytułu składek na ubezpieczenia społeczne w części finansowanej przez ubezpieczonego, których płatnikiem jest dłużnik.
 
-2. Układ nie obejmuje wierzytelności ze stosunku pracy, chyba że wierzyciel wyraził zgodę na objęcie jej układem. Zgodę na objęcie wierzytelności układem wyraża się w sposób bezwarunkowy i nieodwołalny, najpóźniej przed przystąpieniem do głosowania nad układem. Zgoda może zostać wyrażona ustnie do protokołu zgromadzenia wierzycieli.
+2. Układ nie obejmuje wierzytelności ze stosunku pracy oraz wierzytelności zabezpieczonej na mieniu dłużnika hipoteką, zastawem, zastawem rejestrowym, zastawem skarbowym lub hipoteką morską, w części znajdującej pokrycie w wartości przedmiotu zabezpieczenia, chyba że wierzyciel wyraził zgodę na objęcie jej układem. Zgodę na objęcie wierzytelności układem wyraża się w sposób bezwarunkowy i nieodwołalny, najpóźniej przed przystąpieniem do głosowania nad układem. Zgoda może zostać wyrażona ustnie do protokołu zgromadzenia wierzycieli.
 
-2a. (uchylony)
-
-3. (uchylony)
+3. Do wierzytelności zabezpieczonych przeniesieniem na wierzyciela własności rzeczy, wierzytelności lub innego prawa przepis ust. 2 stosuje się odpowiednio.
 
 **Art. 152.** Objęcie układem wierzytelności objętej innym układem jest niedopuszczalne, chyba że układ ten został uchylony.
 
@@ -1663,11 +2526,9 @@ Art. 401–447. (pominięte)
 
 1. Propozycje układowe składa dłużnik.
 
-2. Propozycje układowe może również złożyć rada wierzycieli, nadzorca sądowy albo zarządca, albo wierzyciel lub wierzyciele mający łącznie więcej niż 30 % sumy wierzytelności, z wyłączeniem wierzycieli określonych w art. 80 ust. 3, art. 109 ust. 1 i art. 116.
+2. Propozycje układowe może również złożyć rada wierzycieli, nadzorca sądowy albo zarządca, albo wierzyciel lub wierzyciele mający łącznie więcej niż 30% sumy wierzytelności, z wyłączeniem wierzycieli określonych w art. 80 ust. 3, art. 109 ust. 1 i art. 116.
 
 3. Propozycje układowe określają sposób restrukturyzacji zobowiązań dłużnika.
-
-4. Propozycje układowe nie mogą przewidywać dla żadnego wierzyciela zaspokojenia wyższego niż wysokość jego wierzytelności.
 
 **Art. 156.**
 
@@ -1691,13 +2552,14 @@ Art. 401–447. (pominięte)
 
 5. Propozycje układowe przewidujące konwersję wierzytelności na udziały lub akcje zawierają:
 
-- **1)** sumę, o jaką kapitał zakładowy ma zostać podwyższony, a w przypadku prostej spółki akcyjnej – liczbę akcji, które mają zostać wyemitowane;
-- **2)** liczbę oraz wartość nominalną nowo ustanowionych udziałów lub akcji lub też wartość, o którą następuje podwyższenie wartości nominalnej udziałów lub akcji już istniejących, a w przypadku akcji niemających wartości nominalnej – ich liczbę i cenę emisyjną;
-- **3)** określenie, że objęcie udziałów lub akcji następuje z wyłączeniem prawa pierwszeństwa lub poboru, przy czym wyłączenie prawa pierwszeństwa lub poboru następuje nawet wówczas, jeżeli takiej możliwości nie przewiduje umowa spółki lub statut; [4) oznaczenie, czy akcje nowej emisji są na okaziciela, czy imienne;]
+- **1)** sumę, o jaką kapitał zakładowy ma zostać podwyższony;
+- **2)** liczbę oraz wartość nominalną nowo ustanowionych udziałów lub akcji lub też wartość, o którą następuje podwyższenie wartości nominalnej udziałów lub akcji już istniejących;
+- **3)** określenie, że objęcie udziałów lub akcji następuje z wyłączeniem prawa pierwszeństwa lub poboru, przy czym wyłączenie prawa pierwszeństwa lub poboru następuje nawet wówczas, jeżeli takiej możliwości nie przewiduje umowa spółki lub statut;
+- **4)** oznaczenie, czy akcje nowej emisji są na okaziciela, czy imienne;
 - **5)** cenę emisyjną nowych akcji;
 - **6)** datę, od której nowe akcje mają uczestniczyć w dywidendzie.
 
-6. Nie stanowi oferty publicznej w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/1129 z dnia 14 czerwca 2017 r. w sprawie prospektu, który ma być publikowany w związku z ofertą publiczną papierów wartościowych lub dopuszczeniem ich do obrotu na rynku regulowanym oraz uchylenia dyrektywy 2003/71/WE (Dz. Urz. UE L 168 z 30.06.2017, str. 12) propozycja układowa przewidująca konwersję wierzytelności na akcje. Do takiej propozycji nie stosuje się art. 19 ust. 1 pkt 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
+6. Do propozycji układowych przewidujących konwersję wierzytelności na akcje w sposób określony w art. 3 ust. 1 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych przepisów art. 7 ust. 1 tej ustawy oraz art. 19 ust. 1 pkt 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2014 r. poz. 94, z późn. zm.) nie stosuje się.
 
 **Art. 157.** Jeżeli propozycje układowe przewidują spłatę zobowiązań z zysku przedsiębiorstwa dłużnika, mogą one określać, jaka część zysku będzie przeznaczona na spłatę zobowiązań.
 
@@ -1711,7 +2573,7 @@ Art. 401–447. (pominięte)
 
 **Art. 160.**
 
-1. Restrukturyzacja zobowiązań z tytułu składek na ubezpieczenia społeczne, z tytułu składek na Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych, Fundusz Emerytur Pomostowych, z tytułu składek na własne ubezpieczenia społeczne i ubezpieczenie zdrowotne dłużnika oraz innych zobowiązań dłużnika wobec Zakładu Ubezpieczeń Społecznych, w szczególności odsetek za zwłokę od wyżej wymienionych składek, kosztów egzekucyjnych, kosztów upomnienia i dodatkowej opłaty, może obejmować wyłącznie rozłożenie na raty lub odroczenie terminu płatności.
+1. Restrukturyzacja zobowiązań z tytułu składek na ubezpieczenia społeczne w części finansowanej przez dłużnika jako pracodawcę, z tytułu składek na Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych, Fundusz Emerytur Pomostowych, z tytułu składek na własne ubezpieczenia społeczne i ubezpieczenie zdrowotne dłużnika oraz innych zobowiązań dłużnika wobec Zakładu Ubezpieczeń Społecznych, w szczególności odsetek za zwłokę od wyżej wymienionych składek, kosztów egzekucyjnych, kosztów upomnienia i dodatkowej opłaty, może obejmować wyłącznie rozłożenie na raty lub odroczenie terminu płatności.
 
 2. Jeżeli układ przewiduje przejęcie całości majątku dłużnika przez osobę trzecią lub wierzyciela, dopłaty lub spłaty między wierzycielami, w układzie wskazuje się wierzyciela lub osobę trzecią, którzy przejmą obowiązek wykonania zobowiązań wobec Zakładu Ubezpieczeń Społecznych. Przejęcie obowiązku nie zmienia charakteru wierzytelności Zakładu Ubezpieczeń Społecznych i możliwości ich przymusowego dochodzenia z uwzględnieniem uprzywilejowania wynikającego z przepisów regulujących dochodzenie wierzytelności Zakładu Ubezpieczeń Społecznych.
 
@@ -1723,47 +2585,22 @@ Art. 401–447. (pominięte)
 
 **Art. 161.**
 
-1. Propozycje układowe mogą przewidywać podział wierzycieli na grupy obejmujące poszczególne kategorie interesów. Podział wierzycieli na te grupy odbywa się w oparciu o obiektywne, jednoznaczne i uzasadnione ekonomicznie lub prawnie kryteria dotyczące stosunków prawnych wiążących wierzycieli z dłużnikiem, z których wynikają zobowiązania objęte propozycjami układowymi.
+1. Propozycje układowe mogą przewidywać podział wierzycieli na grupy obejmujące poszczególne kategorie interesów, w szczególności:
 
-1a. Dla wierzycieli:
-
-- **1)** którym przysługują wierzytelności ze stosunku pracy i którzy wyrazili zgodę na objęcie ich układem,
-- **2)** którym przysługują wierzytelności z tytułu umów o dostarczenie produktów z własnego gospodarstwa rolnego,
-- **3)** których wierzytelności są zabezpieczone na składnikach majątku dłużnika hipoteką, zastawem, zastawem rejestrowym, zastawem skarbowym lub hipoteką morską, a także przez przeniesienie na wierzyciela własności rzeczy, wierzytelności lub innego prawa w części znajdującej pokrycie w wartości przedmiotu zabezpieczenia – propozycje układowe przewidują podział na grupy obejmujące poszczególne kategorie interesów.
+- **1)** wierzycieli, którym przysługują wierzytelności ze stosunku pracy i którzy wyrazili zgodę na objęcie ich układem;
+- **2)** rolników, którym przysługują wierzytelności z tytułu umów o dostarczenie produktów z własnego gospodarstwa rolnego;
+- **3)** wierzycieli, których wierzytelności są zabezpieczone na składnikach majątku dłużnika hipoteką, zastawem, zastawem rejestrowym, zastawem skarbowym lub hipoteką morską, a także przez przeniesienie na wierzyciela własności rzeczy, wierzytelności lub innego prawa, i którzy wyrazili zgodę na objęcie ich układem;
+- **4)** wierzycieli będących wspólnikami lub akcjonariuszami dłużnika będącego spółką kapitałową, posiadających udziały lub akcje spółki zapewniające co najmniej 5% głosów na zgromadzeniu wspólników albo walnym zgromadzeniu akcjonariuszy, chociażby przysługiwały im wierzytelności wymienione w pkt 1–3.
 
 2. Listy przyporządkowujące poszczególnych wierzycieli do grup sporządza nadzorca sądowy albo zarządca po zatwierdzeniu spisu wierzytelności, jeżeli podziału na grupy nie dokonano w spisie albo dokonany podział jest niezgodny z aktualnymi propozycjami układowymi.
 
 3. W postępowaniu o zatwierdzenie układu listy wierzycieli sporządza nadzorca układu.
 
-4. Na wniosek podmiotów, o których mowa w art. 155 ust. 1 i 2, sąd zatwierdza podział wierzycieli na grupy obejmujące poszczególne kategorie interesów. Na postanowienie w przedmiocie rozpoznania wniosku przysługuje zażalenie. Zażalenie rozpoznaje się w terminie dwóch tygodni.
-
-5. W razie odmowy zatwierdzenia podziału wierzycieli na grupy obejmujące poszczególne kategorie interesów sąd w sentencji postanowienia wskazuje na uchybienia oraz wskazuje zmiany w tym podziale, których wprowadzenie pozwoli na jego zatwierdzenie.
-
-6. Zatwierdzony prawomocnie podział wierzycieli na grupy obejmujące poszczególne kategorie interesów oraz podział na grupy obejmujące poszczególne kategorie interesów uwzględniający wskazane zmiany wiąże sąd, który wydaje postanowienie w przedmiocie zatwierdzenia układu.
-
-7. Przepisów ust. 4–6 nie stosuje się w postępowaniu o zatwierdzenie układu.
-
-**Art. 161a.**
-
-1. Propozycje układowe dla wierzycieli wymienionych w art. 161 ust. 1a pkt 3 przewidują stopień zaspokojenia niemniej korzystny niż w postępowaniu upadłościowym, które byłoby prowadzone wobec dłużnika, chyba że wierzyciel wyrazi zgodę na warunki mniej korzystne.
-
-2. Propozycje, o których mowa w ust. 1, nie mogą przewidywać innego sposobu zaspokojenia niż przewidziany w umowie ustanawiającej zabezpieczenie, chyba że wierzyciel wyraził na to zgodę.
-
-3. Układ może przewidywać zmianę przedmiotu zabezpieczenia wierzytelności za zgodą wierzyciela, o którym mowa w ust. 1, lub jego sprzedaż. Sprzedaży dokonuje nadzorca wykonania układu, o którym mowa w art. 171 ust. 1, albo zarządca przymusowy.
-
-4. W sprawach dotyczących sprzedaży, o której mowa w ust. 3, nadzorca wykonania układu, o którym mowa w art. 171 ust. 1, albo zarządca przymusowy dokonuje czynności, działając w imieniu własnym na rachunek dłużnika.
-
-5. W przypadku dłużnika, którego upadłości nie można ogłosić zgodnie z przepisami Prawa upadłościowego, przez stopień zaspokojenia w postępowaniu upadłościowym rozumie się stopień zaspokojenia w postępowaniu egzekucyjnym prowadzonym wobec dłużnika przez wszystkich wierzycieli z całego majątku dłużnika.
-
 **Art. 162.**
 
 1. Warunki restrukturyzacji zobowiązań dłużnika są jednakowe dla wszystkich wierzycieli, a jeżeli głosowanie nad układem przeprowadza się w grupach wierzycieli, jednakowe dla wierzycieli zaliczonych do tej samej grupy, chyba że wierzyciel wyraźnie zgodzi się na warunki mniej korzystne.
 
-2. Przyznanie korzystniejszych warunków restrukturyzacji zobowiązań dłużnika jest dopuszczalne wobec wierzyciela:
-
-- **1)** który po otwarciu postępowania restrukturyzacyjnego udzielił lub ma udzielić finansowania w postaci kredytu, obligacji, gwarancji bankowych, akredytyw lub na podstawie innego instrumentu finansowego niezbędnego do wykonania układu,
-- **2)** którego świadczenia na rzecz dłużnika po otwarciu postępowania restrukturyzacyjnego są konieczne do kontynuowania działalności dłużnika,
-- **3)** który jest mikroprzedsiębiorcą – jeżeli jest to konieczne do osiągnięcia celów planu restrukturyzacyjnego i nie spowoduje to niesprawiedliwego traktowania praw lub interesów innych uczestników postępowania.
+2. Przyznanie korzystniejszych warunków restrukturyzacji zobowiązań dłużnika jest dopuszczalne wobec wierzyciela, który po otwarciu postępowania restrukturyzacyjnego udzielił lub ma udzielić finansowania w postaci kredytu, obligacji, gwarancji bankowych, akredytyw lub na podstawie innego instrumentu finansowego, niezbędnego do wykonania układu.
 
 **Art. 163.**
 
@@ -1771,7 +2608,7 @@ Art. 401–447. (pominięte)
 
 2. Restrukturyzacja dotyczy w równym stopniu zobowiązań pieniężnych i niepieniężnych. Jeżeli wierzyciel w terminie tygodnia od dnia otrzymania zawiadomienia o terminie zgromadzenia wierzycieli z odpisem propozycji układowych sprzeciwił się restrukturyzacji swojej wierzytelności jako wierzytelności niepieniężnej, składając oświadczenie nadzorcy albo zarządcy albo ze względu na charakter wierzytelności niepieniężnej restrukturyzacja nie jest możliwa, wierzytelność ta zmienia się w wierzytelność pieniężną. Skutek ten powstaje z dniem otwarcia postępowania.
 
-3. Warunki restrukturyzacji wierzytelności, o których mowa w art. 161 ust. 1a pkt 3, mogą być zróżnicowane stosownie do przysługującego im pierwszeństwa.
+3. Warunki restrukturyzacji wierzytelności, o których mowa w art. 161 ust. 1 pkt 3, mogą być zróżnicowane stosownie do przysługującego im pierwszeństwa.
 
 #### Rozdział 3 Zatwierdzenie układu
 
@@ -1779,15 +2616,11 @@ Art. 401–447. (pominięte)
 
 1. Układ przyjęty przez zgromadzenie wierzycieli zatwierdza sąd, zawierając w sentencji postanowienia treść układu.
 
-2. Posiedzenie wyznaczone w celu rozpoznania układu odbywa się niewcześniej niż po upływie tygodnia od dnia zakończenia zgromadzenia wierzycieli, na którym przyjęto układ.
-
-2a. W uzasadnionych przypadkach sąd może wyznaczyć rozprawę w celu rozpoznania układu.
+2. Rozprawa wyznaczona w celu rozpoznania układu odbywa się nie wcześniej niż po upływie tygodnia od dnia zakończenia zgromadzenia wierzycieli, na którym przyjęto układ.
 
 3. Uczestnicy postępowania mogą pisemnie zgłaszać zastrzeżenia przeciwko układowi. Sąd nie bierze pod uwagę zastrzeżeń zgłoszonych po upływie tygodnia od dnia przyjęcia układu lub niespełniających wymogów formalnych pisma procesowego.
 
-3a. W przypadku zgłoszenia zastrzeżeń, których podstawą jest zarzut naruszenia kryterium ochrony najlepszych interesów wierzycieli lub zarzut stwierdzenia przyjęcia układu z naruszeniem art. 119 ust. 3 pkt 2, sąd może zobowiązać nadzorcę albo zarządcę do przedłożenia opinii weryfikującej test zaspokojenia. Sąd w takim przypadku określa część testu zaspokojenia podlegającą weryfikacji oraz wskazuje podmiot sporządzający opinię. Nadzorca albo zarządca zleca sporządzenie opinii weryfikującej test zaspokojenia podmiotowi wskazanemu przez sąd.
-
-4. O terminie posiedzenia wyznaczonego w celu rozpoznania układu zawiadamia się przez obwieszczenie, chyba że sędzia-komisarz zawiadomił o tym na zgromadzeniu wierzycieli.
+4. O terminie rozprawy wyznaczonej w celu rozpoznania układu zawiadamia się przez obwieszczenie, chyba że sędzia-komisarz zawiadomił o tym na zgromadzeniu wierzycieli.
 
 5. Postanowienie o zatwierdzeniu układu obwieszcza się.
 
@@ -1795,21 +2628,17 @@ Art. 401–447. (pominięte)
 
 1. Sąd odmawia zatwierdzenia układu, jeżeli narusza on prawo, w szczególności jeżeli przewiduje udzielenie pomocy publicznej niezgodnie z przepisami, albo jeżeli jest oczywiste, że układ nie będzie wykonany. Domniemywa się, że jest oczywiste, że układ nie będzie wykonany, jeżeli dłużnik nie wykonuje zobowiązań powstałych po dniu otwarcia postępowania restrukturyzacyjnego.
 
-2. Sąd odmawia zatwierdzenia układu, jeżeli którykolwiek wierzyciel, który głosował przeciw układowi, zgłosił zastrzeżenia zawierające zarzut, że znalazłby się w wyniku realizacji układu w gorszej sytuacji niż w przypadku przeprowadzenia postępowania upadłościowego albo postępowania egzekucyjnego w przypadku dłużnika, o którym mowa w art. 161a ust. 5, lub niż w przypadku zakończenia postępowania restrukturyzacyjnego bez przyjęcia układu (kryterium ochrony najlepszych interesów wierzycieli), i zarzut ten jest uzasadniony.
+2. Sąd może odmówić zatwierdzenia układu, jeżeli jego warunki są rażąco krzywdzące dla wierzycieli, którzy głosowali przeciw układowi i zgłosili zastrzeżenia.
 
-3. Sąd odmawia zatwierdzenia układu w postępowaniu o zatwierdzenie układu albo przyspieszonym postępowaniu układowym, jeżeli suma spornych wierzytelności uprawniających do głosowania nad układem przekracza 15 % sumy wierzytelności uprawniających do głosowania nad układem.
+3. Sąd odmawia zatwierdzenia układu w postępowaniu o zatwierdzenie układu albo przyspieszonym postępowaniu układowym, jeżeli suma spornych wierzytelności uprawniających do głosowania nad układem przekracza 15% sumy wierzytelności uprawniających do głosowania nad układem.
 
 4. Jeżeli w przyspieszonym postępowaniu układowym okoliczność, o której mowa w ust. 3, ujawni się po przyjęciu układu, sąd może zatwierdzić układ o ile zostanie wykazane, że dłużnik nie wiedział o istnieniu wierzytelności spornych, a ich zaspokojenie w wyniku wykonania układu nie będzie mniejsze niż w przypadku ogłoszenia upadłości dłużnika.
 
-5. Na posiedzeniu wyznaczonym w celu rozpoznania układu sąd umarza postępowanie restrukturyzacyjne, jeżeli ustali, że układ nie został przyjęty na skutek braku odpowiedniej większości.
+5. Na rozprawie wyznaczonej w celu rozpoznania układu sąd umarza postępowanie restrukturyzacyjne, jeżeli ustali, że układ nie został przyjęty na skutek braku odpowiedniej większości.
 
 6. Postanowienie o odmowie zatwierdzenia układu oraz postanowienie o umorzeniu postępowania restrukturyzacyjnego, o którym mowa w ust. 5, obwieszcza się.
 
 7. Na postanowienie w przedmiocie zatwierdzenia układu przysługuje zażalenie. Zażalenie wnosi się w terminie dwóch tygodni.
-
-8. Postanowienie sądu drugiej instancji w przedmiocie rozpoznania zażalenia na postanowienie w przedmiocie zatwierdzenia układu oraz informację o prawomocności postanowienia w przedmiocie zatwierdzenia układu obwieszcza się.
-
-**Art. 165a.** Sąd może dokonać zmian w układzie, jeżeli zmiany te nie naruszają istotnych postanowień układu i na skutek ich wprowadzenia sąd zatwierdzi układ.
 
 #### Rozdział 4 Skutki układu
 
@@ -1825,7 +2654,11 @@ Art. 401–447. (pominięte)
 
 2. Do praw wynikających z przeniesienia na wierzyciela własności rzeczy, wierzytelności lub innego prawa w celu zabezpieczenia wierzytelności przepis ust. 1 stosuje się odpowiednio.
 
-**Art. 168.** (uchylony)
+**Art. 168.**
+
+1. Układ nie narusza praw wynikających z hipoteki, zastawu, zastawu rejestrowego, zastawu skarbowego lub hipoteki morskiej, jeżeli były ustanowione na mieniu dłużnika, chyba że uprawniony wyraził zgodę na objęcie zabezpieczonej wierzytelności układem.
+
+2. W przypadku wyrażenia zgody na objęcie układem zabezpieczonej wierzytelności, prawa, o których mowa w ust. 1, pozostają w mocy, z tym że zabezpieczają one wierzytelność w wysokości i na warunkach płatności określonych w układzie.
 
 **Art. 169.**
 
@@ -1833,9 +2666,9 @@ Art. 401–447. (pominięte)
 
 2. Jeżeli układ przewiduje ustanowienie zarządu przymusowego na czas wykonania układu, odpis prawomocnego postanowienia zatwierdzającego układ ma moc tytułu wykonawczego do wprowadzenia zarządcy we władanie majątkiem dłużnika.
 
-3. Jeżeli układ przewiduje konwersję wierzytelności na udziały lub akcje, prawomocnie zatwierdzony układ zastępuje określone w ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96 oraz z 2026 r. poz. 176 i 187) czynności związane z podwyższeniem kapitału zakładowego spółki z ograniczoną odpowiedzialnością lub spółki akcyjnej, emisją akcji prostej spółki akcyjnej, przystąpieniem do spółki, objęciem udziałów lub akcji oraz wniesieniem wkładu.
+3. Jeżeli układ przewiduje konwersję wierzytelności na udziały lub akcje, prawomocnie zatwierdzony układ zastępuje określone w ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2013 r. poz. 1030, z późn. zm.) czynności związane z podwyższeniem kapitału zakładowego, przystąpieniem do spółki, objęciem udziałów lub akcji oraz wniesieniem wkładu.
 
-4. Odpis prawomocnego postanowienia o zatwierdzeniu układu stanowi podstawę wpisu podwyższenia kapitału zakładowego spółki z ograniczoną odpowiedzialnością lub spółki akcyjnej albo wpisu zmiany liczby akcji prostej spółki akcyjnej do Krajowego Rejestru Sądowego.
+4. Odpis prawomocnego postanowienia o zatwierdzeniu układu stanowi podstawę wpisu podwyższenia kapitału zakładowego spółki do Krajowego Rejestru Sądowego.
 
 **Art. 170.**
 
@@ -1859,7 +2692,7 @@ Art. 401–447. (pominięte)
 
 1. Po wykonaniu układu lub wyegzekwowaniu wierzytelności objętych układem sąd na wniosek dłużnika, nadzorcy wykonania układu albo innej osoby, która z mocy układu jest uprawniona do wykonania lub nadzorowania wykonania układu, wydaje postanowienie o wykonaniu układu. Na postanowienie przysługuje zażalenie.
 
-2. Postanowienie o wykonaniu układu, postanowienie sądu drugiej instancji w przedmiocie rozpoznania zażalenia na postanowienie o wykonaniu układu oraz informację o prawomocności postanowienia o wykonaniu układu obwieszcza się.
+2. Postanowienie o wykonaniu układu obwieszcza się.
 
 3. Prawomocne postanowienie o wykonaniu układu stanowi podstawę do wykreślenia wpisów dotyczących układu w księgach wieczystych i rejestrach.
 
@@ -1883,8 +2716,6 @@ Art. 401–447. (pominięte)
 
 5. Na postanowienie o odmowie otwarcia postępowania o zmianę układu zażalenie przysługuje wyłącznie wnioskodawcy.
 
-6. Postanowienie sądu drugiej instancji w przedmiocie rozpoznania zażalenia na postanowienie w przedmiocie otwarcia postępowania o zmianę układu oraz informację o prawomocności postanowienia o otwarciu postępowania o zmianę układu obwieszcza się.
-
 **Art. 174.**
 
 1. Do postanowienia o otwarciu postępowania o zmianę układu przepisy art. 233 ust. 1 pkt 1 i 2 stosuje się odpowiednio.
@@ -1899,7 +2730,7 @@ Art. 401–447. (pominięte)
 
 3. W zgromadzeniu wierzycieli nie mogą uczestniczyć wierzyciele, których wierzytelności zostały w całości zaspokojone.
 
-4. Nadzorca sądowy w terminie dwóch tygodni od dnia otwarcia postępowania o zmianę układu sporządza wykaz wierzycieli uprawnionych do uczestniczenia w zgromadzeniu wierzycieli z uwzględnieniem okoliczności, o których mowa w ust. 1–3. Do wykazu wierzycieli przepisy art. 86 i art. 86a stosuje się odpowiednio.
+4. Nadzorca sądowy w terminie dwóch tygodni od dnia otwarcia postępowania o zmianę układu sporządza wykaz wierzycieli uprawnionych do uczestniczenia w zgromadzeniu wierzycieli z uwzględnieniem okoliczności, o których mowa w ust. 1–3. Do wykazu wierzycieli przepis art. 86 stosuje się odpowiednio.
 
 #### Rozdział 6 Uchylenie i wygaśnięcie układu
 
@@ -1915,8 +2746,6 @@ Art. 401–447. (pominięte)
 
 5. Na postanowienie oddalające wniosek zażalenie przysługuje wyłącznie wnioskodawcy.
 
-6. Postanowienie sądu drugiej instancji w przedmiocie rozpoznania zażalenia na postanowienie o uchyleniu układu oraz informację o prawomocności postanowienia o uchyleniu układu obwieszcza się.
-
 **Art. 177.**
 
 1. Jeżeli przed rozpoznaniem wniosku o zmianę układu wpłynął wniosek o uchylenie układu, sąd rozpoznaje obydwa wnioski łącznie.
@@ -1925,11 +2754,7 @@ Art. 401–447. (pominięte)
 
 3. Dopuszczalne jest złożenie razem z wnioskiem o uchylenie układu wniosku o ogłoszenie upadłości. W takim przypadku właściwy do łącznego rozpoznania wniosków jest sąd upadłościowy.
 
-**Art. 178.**
-
-1. Ogłoszenie upadłości dłużnika w czasie wykonywania układu albo oddalenie w tym czasie wniosku o ogłoszenie jego upadłości na podstawie art. 13 Prawa upadłościowego skutkuje wygaśnięciem układu z mocy prawa z dniem uprawomocnienia się postanowienia o ogłoszeniu upadłości albo oddaleniu wniosku o ogłoszenie upadłości.
-
-2. O wygaśnięciu układu z mocy prawa obwieszcza się.
+**Art. 178.** Ogłoszenie upadłości dłużnika w czasie wykonywania układu albo oddalenie w tym czasie wniosku o ogłoszenie jego upadłości na podstawie art. 13 Prawa upadłościowego skutkuje wygaśnięciem układu z mocy prawa z dniem uprawomocnienia się postanowienia o ogłoszeniu upadłości albo oddaleniu wniosku o ogłoszenie upadłości.
 
 **Art. 179.**
 
@@ -1941,7 +2766,7 @@ Art. 401–447. (pominięte)
 
 4. Hipoteka, zastaw, zastaw rejestrowy, zastaw skarbowy lub hipoteka morska zabezpieczają wierzytelność w takiej wysokości, w jakiej nie została jeszcze zaspokojona.
 
-### DZIAŁ VII Układ częściowy
+### Dział VII Układ częściowy
 
 **Art. 180.**
 
@@ -1958,9 +2783,11 @@ Art. 401–447. (pominięte)
 - **3)** zabezpieczone hipoteką, zastawem, zastawem rejestrowym, zastawem skarbowym lub hipoteką morską na przedmiotach i prawach niezbędnych do prowadzenia przedsiębiorstwa dłużnika;
 - **4)** największe określone według sumy.
 
-5. Przepisy art. 161 stosuje się odpowiednio.
+**Art. 181.**
 
-**Art. 181.** (uchylony)
+1. Jeżeli dłużnik przedstawił wierzycielowi, którego wierzytelność jest zabezpieczona hipoteką, zastawem, zastawem rejestrowym, zastawem skarbowym lub hipoteką morską, propozycje układowe przewidujące pełne zaspokojenie, w terminie określonym w układzie, jego wierzytelności wraz z należnościami ubocznymi, które były przewidziane w umowie będącej podstawą ustanowienia zabezpieczenia, nawet jeżeli umowa ta została skutecznie rozwiązana lub wygasła, albo przewidujące zaspokojenie wierzyciela w stopniu nie niższym od tego, jakiego może się spodziewać w przypadku dochodzenia wierzytelności wraz z należnościami ubocznymi z przedmiotu zabezpieczenia, do objęcia wierzytelności układem częściowym nie jest konieczna zgoda takiego wierzyciela.
+
+2. Do wierzytelności zabezpieczonych przeniesieniem na wierzyciela własności rzeczy, wierzytelności lub innego prawa przepis ust. 1 stosuje się odpowiednio.
 
 **Art. 182.**
 
@@ -1978,7 +2805,7 @@ Art. 401–447. (pominięte)
 
 1. Propozycje układowe nie mogą przewidywać dla wierzycieli objętych układem częściowym korzyści, które zmniejszają możliwość zaspokojenia wierzytelności nieobjętych układem.
 
-2. Jeżeli propozycje układowe przewidują zabezpieczenie wierzytelności objętych układem częściowym przez ustanowienie na majątku dłużnika hipoteki, zastawu, zastawu rejestrowego, hipoteki morskiej lub przeniesienie własności rzeczy, wierzytelności lub innego prawa na zabezpieczenie, zabezpieczenia te będą bezskuteczne w stosunku do masy upadłości lub wierzycieli dłużnika, jeżeli upadłość dłużnika zostanie ogłoszona w ciągu roku od dnia wydania postanowienia o zatwierdzeniu układu częściowego albo w tym samym terminie wniosek o ogłoszenie upadłości zostanie oddalony na podstawie art. 13 Prawa upadłościowego.
+2. Jeżeli propozycje układowe przewidują zabezpieczenie wierzytelności objętych układem częściowym przez ustanowienie na majątku dłużnika hipoteki, zastawu, zastawu rejestrowego, hipoteki morskiej lub przeniesienie własności rzeczy, wierzytelności lub innego prawa na zabezpieczenie, zabezpieczenia te będą bezskuteczne w stosunku do masy upadłości lub wierzycieli dłużnika, jeżeli upadłość dłużnika zostanie ogłoszona w ciągu roku od dnia wydania postano wienia o zatwierdzeniu układu częściowego albo w tym samym terminie wniosek o ogłoszenie upadłości zostanie oddalony na podstawie art. 13 Prawa upadłościowego.
 
 **Art. 184.** W przypadku samodzielnego zbierania głosów przez dłużnika karta do głosowania, oprócz elementów wskazanych w art. 213, zawiera wskazanie, że układ ma charakter częściowy, oraz określenie kryteriów decydujących o objęciu wierzycieli układem częściowym.
 
@@ -1988,7 +2815,7 @@ Art. 401–447. (pominięte)
 
 2. Wierzyciel nieobjęty układem częściowym może zgłaszać zastrzeżenia, o których mowa w art. 216 ust. 2, wyłącznie w zakresie niezgodnego z prawem określenia kryteriów wyodrębnienia wierzycieli objętych układem częściowym oraz w zakresie zgodności propozycji układowych z art. 183 ust. 1.
 
-**Art. 186.** (uchylony)
+**Art. 186.** Układ częściowy zostaje przyjęty, jeżeli większość wierzycieli, którzy oddali ważny głos, mających łącznie dwie trzecie sumy wierzytelności przysługującej wierzycielom objętym układem częściowym i uprawnionym do głosowania, głosowała za przyjęciem układu częściowego.
 
 **Art. 187.**
 
@@ -1998,7 +2825,7 @@ Art. 401–447. (pominięte)
 
 **Art. 188.** Na postanowienie o zatwierdzeniu układu częściowego zażalenie przysługuje również wierzycielowi nieobjętemu układem częściowym, przy czym może on wnosić wyłącznie zarzuty naruszenia art. 180 lub art. 183 ust. 1.
 
-### DZIAŁ VIII Przepisy ogólne dotyczące postępowania restrukturyzacyjnego
+### Dział VIII Przepisy ogólne dotyczące postępowania restrukturyzacyjnego
 
 **Art. 189.**
 
@@ -2008,15 +2835,15 @@ Art. 401–447. (pominięte)
 
 **Art. 190.**
 
-1. W przypadku otwarcia postępowania restrukturyzacyjnego wobec wspólników spółki cywilnej oraz ich małżonków sąd, który później wydaje postanowienie o otwarciu postępowania restrukturyzacyjnego, wyznacza tego samego sędziego-komisarza i nadzorcę sądowego albo zarządcę, który został wyznaczony w sprawie, w której sąd wcześniej wydał postanowienie o otwarciu postępowania restrukturyzacyjnego, chyba że z uwagi na szczególne okoliczności sprawy byłoby to nieuzasadnione. Jeżeli otwarto postępowanie restrukturyzacyjne w różnych sądach, przepis art. 17 stosuje się odpowiednio.
+1. W przypadku otwarcia postępowania restrukturyzacyjnego wobec wszystkich wspólników spółki cywilnej sąd może połączyć do wspólnego rozpoznania sprawy prowadzone wobec wspólników tej spółki. Jeżeli postępowania otwarto w różnych sądach, właściwy do dalszego prowadzenia połączonych spraw jest sąd, który pierwszy wydał postanowienie o otwarciu postępowania.
 
-2. (uchylony)
+2. W postanowieniu o połączeniu spraw sąd wyznacza jednego sędziego-komisarza do wszystkich połączonych spraw. Sąd może również wyznaczyć jednego nadzorcę sądowego albo zarządcę do wszystkich połączonych spraw, powołać jedną radę wierzycieli i wyznaczyć wspólne zgromadzenie wierzycieli.
 
-3. (uchylony)
+3. Dla każdego z dłużników sporządza się osobne spisy wierzytelności oraz głosuje się i przyjmuje odrębne układy.
 
-4. (uchylony)
+4. Wynagrodzenie nadzorcy sądowego i zarządcy oraz koszty postępowania pokrywa się z masy układowej lub sanacyjnej każdego z dłużników w częściach określonych przez sąd przy odpowiednim uwzględnieniu zasad przyznawania wynagrodzenia.
 
-5. W przypadku otwarcia postępowania restrukturyzacyjnego osobowej spółki handlowej oraz jej wspólników ponoszących odpowiedzialność za zobowiązania spółki bez ograniczenia całym swoim majątkiem, a także jeżeli sąd uzna to za uzasadnione w przypadku spraw restrukturyzacyjnych prowadzonych wobec innych dłużników, w szczególności wobec podmiotów powiązanych, przepis ust. 1 stosuje się odpowiednio.
+5. W przypadku otwarcia postępowania restrukturyzacyjnego osobowej spółki handlowej oraz jej wspólników ponoszących odpowiedzialność za zobowiązania spółki bez ograniczenia całym swoim majątkiem, a także jeżeli sąd uzna za uzasadnione połączenie spraw prowadzonych wobec innych dłużników, w szczególności wobec podmiotów powiązanych oraz małżonków, przepisy ust. 1–4 stosuje się odpowiednio.
 
 **Art. 191.**
 
@@ -2050,78 +2877,23 @@ Art. 401–447. (pominięte)
 
 **Art. 196.** W postępowaniu restrukturyzacyjnym nie przeprowadza się dowodu z opinii biegłego, z wyjątkiem określonym w art. 93 ust. 1.
 
-**Art. 196a.**
-
-1. W postępowaniu restrukturyzacyjnym pisma procesowe oraz dokumenty, z wyłączeniem pism i dokumentów, o których mowa w art. 196c, wnosi się wyłącznie za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe z wykorzystaniem udostępnianych w tym systemie formularzy. Pisma oraz dokumenty niewniesione za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe nie wywołują skutków prawnych, jakie ustawa wiąże z wniesieniem pisma albo dokumentu do sądu, nadzorcy, zarządcy albo organu, do którego przepisy o nadzorcy sądowym albo zarządcy stosuje się odpowiednio, o czym poucza się wnoszącego pismo albo dokument. Pouczenie nie jest wymagane, jeżeli wnoszącym pismo albo dokument jest nadzorca, zarządca albo organ, do którego przepisy o nadzorcy albo zarządcy stosuje się odpowiednio.
-
-2. Pisma procesowe oraz dokumenty wniesione za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo uwierzytelnia się w sposób zapewniający możliwość potwierdzenia pochodzenia i integralność weryfikowanych danych w postaci elektronicznej, dostępny w systemie teleinformatycznym obsługującym postępowanie sądowe.
-
-3. Do pisma procesowego wnoszonego za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe dołącza się załączniki w postaci elektronicznej.
-
-4. Jeżeli załączane dokumenty zostały sporządzone w postaci papierowej, do pisma dołącza się:
-
-- **1)** poświadczone elektronicznie odpisy dokumentów;
-- **2)** elektroniczne kopie dokumentów.
-
-5. Poza podmiotami określonymi w przepisach szczególnych elektronicznego poświadczenia odpisu dokumentu może również dokonać występująca w sprawie w charakterze uczestnika lub organu postępowania albo pełnomocnika osoba posiadająca licencję doradcy restrukturyzacyjnego. Elektronicznego poświadczenia odpisu protokołu posiedzenia rady wierzycieli oraz odpisu uchwały podjętej na posiedzeniu rady wierzycieli może również dokonać przewodniczący rady wierzycieli.
-
-6. W przypadku, o którym mowa w ust. 4 pkt 2, oryginał dokumentu albo jego odpis poświadczony za zgodność z oryginałem zgodnie z przepisami Kodeksu postępowania cywilnego składa się w sądzie restrukturyzacyjnym bez wezwania w terminie 3 dni od dnia wniesienia pisma. Przepis art. 130 § 2 Kodeksu postępowania cywilnego stosuje się odpowiednio.
-
-7. W każdym piśmie procesowym należy wskazać imię i nazwisko wnoszącego pismo albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jego jednoznaczną identyfikację oraz firmę, pod którą działa wnoszący pismo będący przedsiębiorcą, miejsce zamieszkania albo siedzibę, adres oraz NIP, jeżeli wnoszący pismo ma taki numer.
-
-8. Przez inne dane umożliwiające jednoznaczną identyfikację, o których mowa w ust. 7, rozumie się dane, o których mowa w art. 86 ust. 6.
-
-9. W piśmie procesowym wnoszący pismo może podać numer telefonu do kontaktu oraz adres poczty elektronicznej.
-
-**Art. 196b.**
-
-1. Wierzyciele, którym przysługują należności ze stosunku pracy, z wyjątkiem roszczeń z tytułu wynagrodzenia reprezentanta dłużnika lub wynagrodzenia osoby wykonującej czynności związane z zarządem lub nadzorem nad przedsiębiorstwem dłużnika, należności alimentacyjne oraz renty z tytułu odszkodowania za wywołanie choroby, niezdolności do pracy, kalectwa lub śmierci i renty z tytułu zamiany uprawnień objętych treścią prawa dożywocia na dożywotnią rentę, mogą wnosić pisma procesowe oraz dokumenty z pominięciem systemu teleinformatycznego obsługującego postępowanie sądowe.
-
-2. Osoby, o których mowa w ust. 1, mogą również wnosić wnioski lub składać oświadczenia i dokumenty w biurze podawczym każdego sądu rejonowego, przekazując ustnie treść wniosku lub oświadczenia pracownikowi biura podawczego oraz składając dokumenty sporządzone w postaci papierowej.
-
-3. Pracownik biura podawczego wprowadza treść wniosku lub oświadczenia do systemu teleinformatycznego obsługującego postępowanie sądowe, podając imię, nazwisko oraz numer PESEL osoby przekazującej ustnie treść wniosku lub oświadczenia ustalone na podstawie dowodu osobistego albo innego dokumentu potwierdzającego tożsamość, a także rodzaj i numer dokumentu potwierdzającego tożsamość i oznaczenie organu, który go wydał, a w przypadku ich braku – inne dane umożliwiające jednoznaczną identyfikację tej osoby. Wprowadzona do systemu treść wniosku lub oświadczenia podlega wydrukowaniu i podpisaniu przez osobę przekazującą ustnie treść wniosku lub oświadczenia oraz złożeniu do zbioru dokumentów. Wniosek lub oświadczenie wprowadzone do systemu teleinformatycznego obsługującego postępowanie sądowe opatruje podpisem pracownik biura podawczego zgodnie z art. 196a ust. 2.
-
-4. Przepisy art. 196a ust. 3, 4 i 6–9 stosuje się odpowiednio, z tym że elektronicznego poświadczenia odpisu dokumentu może również dokonać pracownik biura podawczego.
-
-5. Jeżeli wierzyciele, o których mowa w ust. 1, wnoszą pismo za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe, przepis art. 130 § 6 Kodeksu postępowania cywilnego stosuje się odpowiednio.
-
-**Art. 196c.** Pisma procesowe i dokumenty zawierające informacje niejawne w rozumieniu ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2025 r. poz. 1209), a także oferty składane w toku przetargu lub aukcji wnosi się z pominięciem systemu teleinformatycznego obsługującego postępowanie sądowe.
-
-**Art. 196d.** Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, sposób wnoszenia pism procesowych i składania dokumentów za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe oraz w biurze podawczym sądu rejonowego, mając na względzie skuteczność wnoszenia pism procesowych i składania dokumentów, szczególne wymagania postępowań obsługiwanych przez system teleinformatyczny obsługujący postępowanie sądowe oraz ochronę praw osób wnoszących pisma procesowe.
-
 **Art. 197.**
 
-1. W postępowaniu restrukturyzacyjnym orzeczenia zapadają w formie postanowień. Postanowienie wydane na posiedzeniu niejawnym uzasadnia się z urzędu, gdy przysługuje na nie środek zaskarżenia. Postanowienia te doręcza się wraz z uzasadnieniem. To samo dotyczy zarządzeń.
-
-1a. Orzeczenia w chwili ich wydania są wraz z uzasadnieniem utrwalane wyłącznie w systemie teleinformatycznym obsługującym postępowanie sądowe z wykorzystaniem wzorców udostępnionych w tym systemie i opatrywane kwalifikowanym podpisem elektronicznym.
+1. W postępowaniu restrukturyzacyjnym orzeczenia zapadają w formie postanowień.
 
 2. W postanowieniu oraz dokumencie, który dotyczy składnika masy układowej lub sanacyjnej, podaje się numer danego składnika masy ujawniony w spisie inwentarza lub w spisie należności lub w innych spisach.
 
-2a. W postanowieniu oraz dokumencie, które dotyczą wierzytelności wierzyciela, podaje się liczbę porządkową w spisie wierzytelności. Na podstawie prawomocnych postanowień oraz dokumentów, które dotyczą wierzytelności wierzycieli oraz sprawozdań nadzorcy sądowego albo zarządcy, tworzy się aktualny stan wierzytelności oraz niezaspokojonych przez dłużnika albo zarządcę zobowiązań.
+3. Postanowienia oraz zarządzenia wydane w postępowaniu restrukturyzacyjnym zamieszcza się w Rejestrze wraz z informacją o terminie i sposobie wniesienia środka zaskarżenia.
 
-3. Jednocześnie z utrwaleniem w systemie teleinformatycznym obsługującym postępowanie sądowe orzeczenia sądu, sędziego-komisarza, referendarza sądowego i przewodniczącego w systemie teleinformatycznym obsługującym postępowanie sądowe zamieszcza się informację o terminie i sposobie wniesienia środka zaskarżenia albo informację o tym, że środek zaskarżenia nie przysługuje.
+4. Uczestnicy postępowania mają dostęp do danych zawartych w zamieszczanych w Rejestrze postanowieniach, zarządzeniach, dokumentach i informacjach.
 
-4. Uczestnicy postępowania oraz osoby przez nich upoważnione mają dostęp do akt postępowania za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe.
-
-5. Do uchwał rady wierzycieli i zgromadzenia wierzycieli przepisy ust. 2 i 2a stosuje się odpowiednio.
-
-6. Ujawnienia informacji o prawomocności orzeczenia może dokonać w systemie teleinformatycznym obsługującym postępowanie sądowe pracownik sekretariatu. Obwieszczenia o prawomocności orzeczenia wymaganego na podstawie przepisów ustawy dokonuje sąd, sędzia-komisarz, referendarz sądowy albo przewodniczący.
+5. Do uchwał rady wierzycieli i zgromadzenia wierzycieli przepisy ust. 2–4 stosuje się odpowiednio.
 
 **Art. 198.**
 
 1. Postanowienie wydane na posiedzeniu niejawnym doręcza się dłużnikowi, osobom, których postanowienie dotyczy, oraz nadzorcy albo zarządcy, jeżeli ustawa nie stanowi inaczej. Postanowień dotyczących ogółu wierzycieli nie doręcza się wierzycielom.
 
-2. Pisma oraz postanowienia, o których mowa w ust. 1, doręcza się za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe. Przepis art. 131 § 2 Kodeksu postępowania cywilnego stosuje się.
-
-3. Przepisu ust. 2 nie stosuje się do doręczeń dokonywanych osobom, o których mowa w art. 196b ust. 1.
-
-4. Osoby, o których mowa w art. 196b ust. 1, mogą dokonać wyboru doręczenia elektronicznego, jeżeli wniosły pismo za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe. Oświadczenie o rezygnacji z wyboru doręczenia elektronicznego jest skuteczne w odniesieniu do pism, które zostały umieszczone w systemie teleinformatycznym obsługującym postępowanie sądowe po złożeniu oświadczenia o rezygnacji.
-
-5. Przepisu ust. 2 nie stosuje się do pierwszego doręczenia dokonywanego osobie fizycznej, osobie prawnej oraz jednostce organizacyjnej niebędącej osobą prawną, której ustawa przyznaje zdolność prawną, jeżeli nie wniosła w sprawie żadnego pisma. Nie dotyczy to doręczeń dokonywanych tymczasowemu nadzorcy sądowemu, zarządcy przymusowemu, syndykowi albo organowi, do którego przepisy o syndyku stosuje się odpowiednio.
-
-6. Pisma oraz postanowienia, o których mowa w ust. 1, skierowane do osoby albo jednostki, która nie ma założonego konta w systemie teleinformatycznym obsługującym postępowanie sądowe, pozostawia się w aktach sprawy ze skutkiem doręczenia, o czym należy pouczyć przy pierwszym doręczeniu wraz z pouczeniem o sposobie założenia konta w systemie teleinformatycznym obsługującym postępowanie sądowe oraz sposobie uwierzytelnienia się.
-
-7. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, tryb i sposób dokonywania doręczeń elektronicznych, mając na względzie zapewnienie skuteczności doręczeń oraz ochronę praw osób, którym pisma są doręczane.
+2. Nadzorcy, zarządcy oraz uczestnikowi postępowania doręcza się pisma oraz postanowienia, o których mowa w ust. 1, w drodze doręczenia elektronicznego, jeżeli wnieśli pismo za pośrednictwem Rejestru albo wybrali doręczanie elektroniczne za pośrednictwem tego Rejestru. Przepis art. 1311 § 2 Kodeksu postępowania cywilnego stosuje się odpowiednio.
 
 **Art. 199.**
 
@@ -2137,8 +2909,6 @@ Art. 401–447. (pominięte)
 
 1. Na postanowienia sądu restrukturyzacyjnego i sędziego-komisarza zażalenie przysługuje w przypadkach wskazanych w ustawie. Zażalenia na postanowienia sędziego-komisarza rozpoznaje sąd restrukturyzacyjny jako sąd drugiej instancji.
 
-1a. Zażalenia na postanowienia sądu restrukturyzacyjnego rozpoznaje sąd restrukturyzacyjny w innym składzie z wyjątkiem zażaleń na postanowienia, o których mowa w art. 30 ust. 5, art. 33 ust. 3, art. 45 ust. 2, art. 56 ust. 5, art. 59 ust. 8, art. 61 ust. 7, art. 133 ust. 2, art. 165 ust. 7, art. 172 ust. 1, art. 173 ust. 4 i 5, art. 176 ust. 4 i 5, art. 182 ust. 4, art. 226f, art. 236 ust. 1, art. 237 ust. 1, art. 239 ust. 2, art. 268 ust. 4, art. 286 ust. 1a, art. 327 ust. 1 i 2, art. 331 ust. 4 i art. 332 ust. 3, które rozpoznaje sąd drugiej instancji w składzie trzech sędziów zawodowych.
-
 2. Odpis zażalenia wniesionego przez wierzyciela doręcza się dłużnikowi, nadzorcy albo zarządcy oraz osobom, których dotyczy zaskarżone postanowienie.
 
 3. Odpis zażalenia wniesionego przez dłużnika doręcza się nadzorcy albo zarządcy oraz osobom, których dotyczy zaskarżone postanowienie.
@@ -2151,7 +2921,7 @@ Art. 401–447. (pominięte)
 
 **Art. 201.**
 
-1. Termin do wniesienia środka zaskarżenia od postanowień wydanych na posiedzeniu niejawnym biegnie od dnia zamieszczenia postanowienia w systemie teleinformatycznym obsługującym postępowanie sądowe. Zażalenie wnosi się w terminie tygodnia.
+1. Termin do wniesienia środka zaskarżenia od postanowień wydanych na posiedzeniu niejawnym biegnie od dnia zamieszczenia postanowienia w Rejestrze. Zażalenie wnosi się w terminie tygodnia.
 
 2. Jeżeli postanowienie wydane na posiedzeniu niejawnym podlega obwieszczeniu, termin do wniesienia środka zaskarżenia biegnie od dnia obwieszczenia.
 
@@ -2159,21 +2929,19 @@ Art. 401–447. (pominięte)
 
 4. Jeżeli postanowienie, od którego przysługuje środek zaskarżenia, zostało ogłoszone na posiedzeniu jawnym, osoby zawiadomione o posiedzeniu w terminie tygodnia od dnia posiedzenia, a osoby, które nie zostały zawiadomione o posiedzeniu jawnym – od dnia zamieszczenia, a jeżeli postanowienie podlega obwieszczeniu – od dnia obwieszczenia postanowienia w Rejestrze, mogą złożyć wniosek o sporządzenie uzasadnienia i doręczenie postanowienia wraz z uzasadnieniem. Termin do wniesienia środka zaskarżenia biegnie od dnia doręczenia postanowienia wraz z uzasadnieniem.
 
-5. Termin do zaskarżenia czynności rady wierzycieli oraz nadzorcy, zarządcy i innych organów, które zgodnie z przepisami ustawy podlegają zaskarżeniu, biegnie od dnia zamieszczenia w systemie teleinformatycznym obsługującym postępowanie sądowe przez sędziego-komisarza albo referendarza sądowego pouczenia o terminie i sposobie wniesienia środka zaskarżenia.
-
 **Art. 202.** Skarga kasacyjna, skarga o wznowienie postępowania oraz skarga o stwierdzenie niezgodności z prawem prawomocnego orzeczenia w postępowaniu restrukturyzacyjnym nie przysługują.
 
 **Art. 203.**
 
-1. Jeżeli ustawa przewiduje złożenie przez dłużnika oświadczenia, że przedstawione informacje są prawdziwe i zupełne, oświadczenie to zawiera klauzulę następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”.
+1. Jeżeli ustawa przewiduje złożenie przez dłużnika pisemnego oświadczenia, że przedstawione informacje są prawdziwe i zupełne, oświadczenie to zawiera klauzulę następującej treści: „ Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia ” .
 
-2. (uchylony)
+2. Jeżeli ustawa przewiduje złożenie dokumentu w postaci elektronicznej, dokument składa się za pośrednictwem Rejestru i opatruje się bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu albo podpisem potwierdzonym profilem zaufanym ePUAP.
 
-3. (uchylony)
+3. Dokumenty złożone w postaci elektronicznej drukuje się i załącza do akt wyłącznie na zarządzenie sędziego-komisarza.
 
 **Art. 204.**
 
-1. Jeżeli propozycje układowe przewidują, że dłużnikowi ma zostać udzielona pomoc publiczna, organ, który ma udzielić pomocy, zawiadamia o tym sędziego-komisarza w terminie dwóch tygodni od dnia doręczenia planu restrukturyzacyjnego oraz testu prywatnego wierzyciela lub testu prywatnego inwestora, o których mowa w art. 140, składając jednocześnie opinię w sprawie wraz z odpisami opinii dla dłużnika, nadzorcy albo zarządcy. Odpis opinii doręcza się dłużnikowi, nadzorcy albo zarządcy.
+1. Jeżeli propozycje układowe przewidują, że dłużnikowi ma zostać udzielona pomoc publiczna, organ, który ma udzielić pomocy, zawiadamia o tym sędziego-komisarza w terminie dwóch tygodni od dnia doręczenia planu restrukturyzacyjnego, składając jednocześnie opinię w sprawie wraz z odpisami opinii dla dłużnika, nadzorcy albo zarządcy. Odpis opinii doręcza się dłużnikowi, nadzorcy albo zarządcy.
 
 2. Dłużnik może złożyć zmienione propozycje układowe pod rygorem umorzenia postępowania w terminie tygodnia od dnia doręczenia odpisu opinii.
 
@@ -2181,9 +2949,9 @@ Art. 401–447. (pominięte)
 
 **Art. 206.**
 
-1. W sekretariacie sądu umożliwia się uczestnikom postępowania oraz każdemu, kto dostatecznie usprawiedliwi potrzebę przejrzenia akt sądowych, dostęp do tych akt za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe.
+1. Akta sądowe udostępnia się w sekretariacie sądu uczestnikom postępowania oraz każdemu, kto potrzebę ich przejrzenia dostatecznie usprawiedliwi. Osoby te mogą otrzymywać z akt odpisy i wyciągi oraz bez żadnych dodatkowych opłat sporządzać we własnym zakresie fotokopie.
 
-2. Pobrane samodzielnie wydruki komputerowe orzeczeń, pism i dokumentów utrwalonych w systemie teleinformatycznym obsługującym postępowanie sądowe mają moc urzędowo poświadczonych odpisów oraz wyciągów, jeżeli mają cechy umożliwiające ich weryfikację z danymi zawartymi w systemie teleinformatycznym obsługującym postępowanie sądowe.
+2. Pobrane samodzielnie wydruki komputerowe postanowień, zarządzeń i dokumentów obwieszczonych lub zamieszczonych w Rejestrze mają moc urzędowo poświadczonych odpisów, jeżeli posiadają cechy umożliwiające ich weryfikację z danymi zawartymi w Rejestrze.
 
 3. Od dnia obwieszczenia w Rejestrze nie można zasłaniać się nieznajomością treści obwieszczenia, chyba że mimo zachowania należytej staranności nie można było dowiedzieć się o obwieszczeniu.
 
@@ -2195,19 +2963,13 @@ Art. 401–447. (pominięte)
 
 2. Uczestnik postępowania ponosi koszty związane ze swoim udziałem w sprawie.
 
-3. Koszty postępowania wywołanego złożeniem sprzeciwu co do umieszczenia wierzytelności innego wierzyciela zasądza się od dłużnika na rzecz wierzyciela, który złożył sprzeciw, jeżeli w wyniku sprzeciwu odmówiono umieszczenia zaskarżonej wierzytelności, chyba że dłużnik kwestionował umieszczenie wierzytelności w spisie wierzytelności w oświadczeniu złożonym na podstawie art. 86 ust. 5 lub złożył sprzeciw.
+3. Koszty postępowania wywołanego złożeniem sprzeciwu co do umieszczenia wierzytelności innego wierzyciela zasądza się od dłużnika na rzecz wierzyciela, który złożył sprzeciw, jeżeli w wyniku sprzeciwu odmówiono umieszczenia zaskarżonej wierzytelności, chyba że dłużnik kwestionował umieszczenie wierzytelności w spisie wierzytelności w oświadczeniu złożonym na podstawie art. 86 ust. 2 pkt 9 lub złożył sprzeciw.
 
-**Art. 209.**
+**Art. 209.** W sprawach nieuregulowanych ustawą do postępowania restrukturyzacyjnego stosuje się odpowiednio przepisy księgi pierwszej części pierwszej Kodeksu postępowania cywilnego, z wyłączeniem przepisów o zawieszeniu i wznowieniu postępowania.
 
-1. W sprawach nieuregulowanych ustawą do postępowania restrukturyzacyjnego stosuje się odpowiednio przepisy księgi pierwszej części pierwszej Kodeksu postępowania cywilnego, z wyjątkiem art. 130 , art. 139 , art. 205 , art. 205 i art. 205 –205 oraz przepisów o zawieszeniu i wznowieniu postępowania oraz postępowaniu w sprawach gospodarczych.
+## Tytuł II Przepisy szczególne o postępowaniach restrukturyzacyjnych i ich skutkach
 
-2. Pouczeń na piśmie dokonuje się z wykorzystaniem udostępnionych w systemie teleinformatycznym obsługującym postępowanie sądowe wzorów pouczeń.
-
-## TYTUŁ II Przepisy szczególne o postępowaniach restrukturyzacyjnych i ich skutkach
-
-### DZIAŁ I Postępowanie o zatwierdzenie układu
-
-#### Rozdział 1 Przepisy wstępne
+### Dział I Postępowanie o zatwierdzenie układu
 
 **Art. 210.**
 
@@ -2219,72 +2981,24 @@ Art. 401–447. (pominięte)
 
 1. Niezwłocznie po rozpoczęciu przez nadzorcę układu pełnienia swojej funkcji dłużnik dokonuje ustalenia dnia układowego.
 
-2. Dzień układowy przypada niewcześniej niż cztery miesiące i niepóźniej niż dzień przed dniem złożenia wniosku o zatwierdzenie układu.
-
-2a. W przypadku dokonania obwieszczenia na podstawie art. 226a ust. 1 dzień układowy przypada ponadto niepóźniej niż na dzień dokonania obwieszczenia.
+2. Dzień układowy przypada nie wcześniej niż trzy miesiące i nie później niż dzień przed dniem złożenia wniosku o zatwierdzenie układu.
 
 3. Według stanu z dnia układowego określa się uprawnienia wierzycieli do głosowania nad układem oraz skutki przyjętego układu.
 
 4. Wierzytelności powstałe po dniu układowym nie są objęte układem.
 
-#### Rozdział 2 Przebieg postępowania o zatwierdzenie układu
-
-**Art. 211a.**
-
-1. W dniu ustalenia dnia układowego nadzorca układu zakłada akta w systemie teleinformatycznym obsługującym postępowanie sądowe.
-
-1a. Akta założone w systemie teleinformatycznym obsługującym postępowanie sądowe nadzorca układu prowadzi w tym systemie.
-
-2. Treść pism procesowych oraz dokumentów, o których mowa w art. 196b ust. 1, wniesionych z pominięciem systemu teleinformatycznego obsługującego postępowanie sądowe, nadzorca układu wprowadza do akt. Pisma procesowe oraz dokumenty składa się do zbioru dokumentów. Przepisy art. 196b ust. 2 i 3 stosuje się odpowiednio.
-
-3. Akta udostępnia się w biurze nadzorcy układu, za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe, uczestnikom postępowania oraz każdemu, kto potrzebę ich przejrzenia dostatecznie usprawiedliwi. W tym celu biuro nadzorcy układu jest czynne w dni powszednie co najmniej cztery następujące po sobie godziny dziennie między godziną 8.00 a 20.00.
-
-4. Po złożeniu wniosku o zatwierdzenie układu akta stanowią część akt sądowych. Po prawomocnym zakończeniu postępowania albo prawomocnym umorzeniu postępowania w przedmiocie rozpoznania wniosku o zatwierdzenie układu zbiór dokumentów jest przekazywany do sądu i dołączany do akt sądowych.
-
-5. Akta oraz zbiór dokumentów mogą być udostępniane służbie nadzoru Ministra Sprawiedliwości.
-
-6. W przypadku zmiany nadzorcy układu akta są przejmowane przez nowego nadzorcę układu wraz ze zbiorem dokumentów.
-
-7. Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób i tryb prowadzenia akt oraz zbioru dokumentów, w tym stosowane urządzenia ewidencyjne, a także udostępniania tych akt oraz zbioru dokumentów, mając na względzie zapewnienie bezpieczeństwa i ochrony danych w nich zawartych.
-
-**Art. 211b.**
-
-1. W terminie co najmniej trzydziestu dni przed dniem rozpoczęcia zbierania głosów wierzycieli albo przed dniem zwołania zgromadzenia wierzycieli w celu głosowania nad układem nadzorca układu sporządza:
-
-- **1)** spis wierzytelności;
-- **2)** spis wierzytelności spornych;
-- **3)** plan restrukturyzacyjny;
-- **4)** test zaspokojenia, o którym mowa w art. 10a ust. 1;
-- **5)** opinię o możliwości wykonania układu zgodnie z propozycjami układowymi złożonymi przez podmioty, o których mowa w art. 155;
-- **6)** test prywatnego wierzyciela lub test prywatnego inwestora, o których mowa w art. 140.
-
-2. Uczestnicy postępowania mogą złożyć zastrzeżenia do dokumentów, o których mowa w ust. 1, w terminie dwóch tygodni od dnia ich sporządzenia. Nadzorca układu w terminie dwóch tygodni uwzględnia zastrzeżenia i dokonuje zmian w dokumentach, do których złożono zastrzeżenia, albo składa do akt oświadczenie o nieuwzględnieniu zastrzeżeń wraz z uzasadnieniem. Wniesienie zastrzeżeń nie wpływa na termin rozpoczęcia procedury zbierania głosów wierzycieli oraz na termin zwołania zgromadzenia wierzycieli.
-
-**Art. 212.**
-
-1. Po ustaleniu dnia układowego nadzorca układu zbiera głosy wierzycieli.
-
-2. Wierzyciele oddają głos za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe, w którym nadzorca układu zamieszcza kartę do głosowania. Nadzorca układu za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe lub za pośrednictwem komornika sądowego w sposób określony w ustawie z dnia 22 marca 2018 r. o komornikach sądowych doręcza wierzycielom, na adres wskazany w rejestrze, do którego jest wpisany wierzyciel, informację o sposobie głosowania za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe z pouczeniem o sposobie uwierzytelnienia się i sposobie wypełnienia karty do głosowania. Jeżeli wierzyciel nie jest wpisany do rejestru, nadzorca układu doręcza informację, o której mowa w zdaniu poprzednim, na adres wierzyciela znany dłużnikowi.
-
-3. Nadzorca układu może również zwołać zgromadzenie wierzycieli, do którego stosuje się odpowiednio przepisy o zgromadzeniu wierzycieli, w celu głosowania nad układem.
-
-4. O terminie zgromadzenia wierzycieli zwołanego w celu głosowania nad układem nadzorca układu zawiadamia wierzycieli umieszczonych w spisie wierzytelności, jednocześnie doręczając im propozycje układowe, informację o podziale wierzycieli na grupy, obejmujące poszczególne kategorie interesów, informację o sposobie głosowania na zgromadzeniu wierzycieli oraz pouczenie o treści przepisów art. 107–110, art. 113 i art. 115–119.
-
-5. Z przebiegu zgromadzenia wierzycieli sporządza się protokół, utrwalając przebieg zgromadzenia za pomocą urządzenia rejestrującego dźwięk albo obraz i dźwięk oraz za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe, pod kierunkiem nadzorcy układu.
-
-6. Zgromadzeniu wierzycieli przewodniczy nadzorca układu.
+**Art. 212.** Po ustaleniu dnia układowego dłużnik zbiera głosy na piśmie, przedstawiając wierzycielom karty do głosowania.
 
 **Art. 213.**
 
 1. Karta do głosowania zawiera:
 
-- **1)** imię i nazwisko dłużnika albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jego jednoznaczną identyfikację, firmę, pod którą działa dłużnik, miejsce zamieszkania albo siedzibę, adres, a jeżeli dłużnikiem jest spółka osobowa, osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną – imiona i nazwiska reprezentantów, w tym likwidatorów, jeżeli są ustanowieni, oraz numery PESEL albo numery w Krajowym Rejestrze Sądowym reprezentantów, a w przypadku ich braku – inne dane umożliwiające ich jednoznaczną identyfikację, a ponadto w przypadku spółki osobowej – imiona i nazwiska albo nazwę, numery PESEL albo numery w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jednoznaczną identyfikację oraz miejsce zamieszkania albo siedzibę wspólników odpowiadających za zobowiązania spółki bez ograniczenia całym swoim majątkiem;
-- **1a)** NIP, jeżeli dłużnik ma taki numer;
+- **1)** imię i nazwisko dłużnika albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jego jednoznaczną identyfikację, miejsce zamieszkania albo siedzibę, adres, a gdy dłużnikiem jest spółka osobowa, osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną – imiona i nazwiska reprezentantów, w tym likwidatorów, jeżeli są ustanowieni, a ponadto w przypadku spółki osobowej – imiona i nazwiska oraz miejsce zamieszkania wspólników odpowiadających za zobowiązania spółki bez ograniczenia całym swoim majątkiem;
 - **2)** imię i nazwisko głosującego wierzyciela albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jego jednoznaczną identyfikację, miejsce zamieszkania albo siedzibę, adres, a gdy wierzycielem jest spółka osobowa, osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną – imiona i nazwiska reprezentantów, w tym likwidatorów, jeżeli są ustanowieni;
 - **3)** kwotę wierzytelności głosującego wierzyciela;
 - **4)** grupę obejmującą kategorię interesów, jeżeli zostały przewidziane, do której został zaliczony głosujący wierzyciel;
-- **5)** zgodę wierzyciela na objęcie wierzytelności układem, jeżeli jest ona wymagana na podstawie art. 151 ust. 2;
-- **6)** sumę wierzytelności objętych układem z mocy prawa oraz sumę wierzytelności, która może zostać objęta układem po wyrażeniu zgody przez wierzyciela;
+- **5)** zgodę wierzyciela na objęcie wierzytelności układem, jeżeli jest ona wymagana na podstawie art. 151 ust. 2 i 3;
+- **6)** sumę wierzytelności objętych układem;
 - **7)** wskazanie dnia układowego;
 - **8)** pełną treść propozycji układowych z jednoznacznym wskazaniem, które z propozycji dotyczą głosującego wierzyciela;
 - **9)** imię i nazwisko albo nazwę nadzorcy układu, numer licencji nadzorcy układu albo numer w Krajowym Rejestrze Sądowym spółki pełniącej funkcję nadzorcy układu, jego adres do korespondencji, numer telefonu oraz adres poczty elektronicznej;
@@ -2292,17 +3006,15 @@ Art. 401–447. (pominięte)
 - **11)** wskazanie dnia oddania głosu;
 - **12)** podpis wierzyciela, osób uprawnionych do jego reprezentowania albo podpis jego pełnomocnika.
 
-2. W przypadku gdy kartę do głosowania podpisał pełnomocnik, do karty dołącza się pełnomocnictwo.
+2. W przypadku gdy kartę do głosowania podpisał pełnomocnik, do karty dołącza się pełnomocnictwo. Uprawnienie do podpisania karty do głosowania albo do udzielenia pełnomocnictwa wykazuje się odpisem lub wydrukiem z odpowiedniego rejestru. W przypadku gdy wierzyciel nie dołączył odpisu lub wydruku, dłużnik może pozyskać odpis lub wydruk z odpowiedniego rejestru.
 
 3. Karta do głosowania niespełniająca wymogów określonych w ust. 1 jest nieważna.
 
 4. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór karty do głosowania, mając na uwadze rodzaj informacji, których umieszczenie na karcie do głosowania jest niezbędne, oraz jej kompletność i czytelność.
 
-5. Przez inne dane umożliwiające jednoznaczną identyfikację, o których mowa w ust. 1 pkt 1 i 2, rozumie się dane, o których mowa w art. 86 ust. 6.
+**Art. 214.** Jeżeli propozycje układowe przewidują, że dłużnikowi ma zostać udzielone wsparcie, o którym mowa w art. 140, wierzycielowi, który ma udzielić wsparcia, doręcza się, wraz z kartą do głosowania, plan restrukturyzacyjny wraz z dokumentami, o których mowa w art. 37 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z późn. zm.).
 
-**Art. 214.** Jeżeli propozycje układowe przewidują, że dłużnikowi ma zostać udzielone wsparcie, o którym mowa w art. 140, wierzycielowi, który ma udzielić wsparcia, doręcza się plan restrukturyzacyjny oraz test prywatnego wierzyciela lub test prywatnego inwestora, o których mowa w art. 140, wraz z dokumentami, o których mowa w art. 37 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2025 r. poz. 468 i 1652).
-
-**Art. 215.** Głos wierzyciela zachowuje ważność, o ile wniosek dłużnika o zatwierdzenie układu wpłynął do sądu przed upływem czterech miesięcy od dnia oddania głosu.
+**Art. 215.** Głos wierzyciela zachowuje ważność, o ile wniosek dłużnika o zatwierdzenie układu wpłynął do sądu przed upływem trzech miesięcy od dnia oddania głosu.
 
 **Art. 216.**
 
@@ -2312,47 +3024,53 @@ Art. 401–447. (pominięte)
 
 **Art. 217.**
 
-1. (uchylony)
+1. Układ jest przyjęty, jeżeli za jego przyjęciem wypowie się większość wierzycieli uprawnionych do głosowania nad układem, mających łącznie co najmniej dwie trzecie sumy wierzytelności uprawniających do głosowania nad układem.
 
-2. (uchylony)
+2. Jeżeli głosowanie nad układem przeprowadza się w grupach wierzycieli, obejmujących poszczególne kategorie interesów, układ jest przyjęty, jeżeli w każdej grupie wypowie się za nim większość uprawnionych do głosowania nad układem wierzycieli z tej grupy, mających łącznie co najmniej dwie trzecie sumy wierzytelności przysługujących uprawnionym do głosowania nad układem wierzycielom z tej grupy.
 
-3. (uchylony)
+3. Układ jest przyjęty, mimo nieuzyskania wymaganej większości w niektórych z grup wierzycieli, jeżeli wierzyciele mający łącznie dwie trzecie sumy wierzytelności przypadających wierzycielom uprawnionym do głosowania nad układem głosowali za przyjęciem układu, a wierzyciele z grupy lub grup, które wypowiedziały się przeciw przyjęciu układu, zostaną zaspokojeni na podstawie układu w stopniu nie mniej korzystnym niż w przypadku przeprowadzenia postępowania upadłościowego.
 
 4. Przyjęcie układu stwierdza nadzorca układu.
 
 **Art. 218.**
 
-1. Nadzorca układu informuje dłużnika na piśmie o niemożności zawarcia układu w trybie przewidzianym w niniejszym dziale niezwłocznie po stwierdzeniu, że suma wierzytelności spornych uprawniających do głosowania nad układem przekracza 15 % sumy wierzytelności uprawniających do głosowania nad układem.
+1. Nadzorca układu informuje dłużnika na piśmie o niemożności zawarcia układu w trybie przewidzianym w niniejszym dziale niezwłocznie po stwierdzeniu, że suma wierzytelności spornych uprawniających do głosowania nad układem przekracza 15% sumy wierzytelności uprawniających do głosowania nad układem.
 
-2. Głosy wierzycieli oddane niewcześniej niż trzy miesiące przed dniem złożenia wniosku o otwarcie postępowania układowego lub sanacyjnego zachowują ważność w głosowaniu na zgromadzeniu wierzycieli w otwartym postępowaniu układowym lub sanacyjnym, jeżeli zostały złożone do akt wraz z wnioskiem o otwarcie postępowania, niezależnie od daty, w jakiej odbędzie się zgromadzenie, o ile propozycje układowe w postępowaniu układowym lub sanacyjnym są niemniej korzystne dla wierzycieli niż przedłożone im w postępowaniu o zatwierdzenie układu. Wierzyciela zawiadamianego o zgromadzeniu wierzycieli w celu głosowania nad układem informuje się, że w aktach znajduje się oddany przez niego głos, który będzie uznany za ważny, jeżeli nie złoży odmiennego oświadczenia.
-
-**Art. 218a.**
-
-1. Postępowanie o zatwierdzenie układu umarza się z mocy prawa z dniem złożenia przez dłużnika do akt oświadczenia o rezygnacji z dalszego prowadzenia postępowania. Oświadczenie to może być złożone do momentu złożenia do sądu wniosku o zatwierdzenie układu.
-
-2. Postępowanie o zatwierdzenie układu umarza się z mocy prawa, jeżeli w terminie czterech miesięcy od dnia dokonania obwieszczenia o ustaleniu dnia układowego nie wpłynie do sądu wniosek o zatwierdzenie układu.
-
-3. W przypadku złożenia do sądu wniosku o zatwierdzenie układu postępowanie o zatwierdzenie układu kończy się z chwilą prawomocnego zwrotu, prawomocnego odrzucenia albo prawomocnego oddalenia tego wniosku, albo prawomocnego umorzenia postępowania w przedmiocie rozpoznania tego wniosku, albo prawomocnego zatwierdzenia układu, albo prawomocnej odmowy zatwierdzenia układu.
+2. Głosy wierzycieli oddane nie wcześniej niż trzy miesiące przed dniem złożenia wniosku o otwarcie postępowania układowego lub sanacyjnego zachowują ważność w głosowaniu na zgromadzeniu wierzycieli w otwartym postępowaniu układowym lub sanacyjnym, jeżeli zostały złożone do akt wraz z wnioskiem o otwarcie postępowania, niezależnie od daty, w jakiej odbędzie się zgromadzenie, o ile propozycje układowe w postępowaniu układowym lub sanacyjnym są nie mniej korzystne dla wierzycieli niż przedłożone im w postępowaniu o zatwierdzenie układu. Wierzyciela zawiadamianego o zgromadzeniu wierzycieli w celu głosowania nad układem informuje się, że w aktach znajduje się oddany przez niego głos, który będzie uznany za ważny, jeżeli nie złoży odmiennego oświadczenia.
 
 **Art. 219.**
 
 1. Wniosek o zatwierdzenie układu powinien zawierać:
 
-- **1)** imię i nazwisko dłużnika albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jego jednoznaczną identyfikację, firmę, pod którą działa dłużnik, miejsce zamieszkania albo siedzibę, adres, a jeżeli dłużnikiem jest spółka osobowa, osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną – imiona i nazwiska reprezentantów, w tym likwidatorów, jeżeli są ustanowieni, oraz numery PESEL albo numery w Krajowym Rejestrze Sądowym reprezentantów, a w przypadku ich braku – inne dane umożliwiające ich jednoznaczną identyfikację, a ponadto w przypadku spółki osobowej – imiona i nazwiska albo nazwę, numery PESEL albo numery w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jednoznaczną identyfikację oraz miejsce zamieszkania albo siedzibę wspólników odpowiadających za zobowiązania spółki bez ograniczenia całym swoim majątkiem;
-- **1a)** NIP, jeżeli dłużnik ma taki numer;
+- **1)** imię i nazwisko dłużnika albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jego jednoznaczną identyfikację, miejsce zamieszkania albo siedzibę, adres, a gdy dłużnikiem jest spółka osobowa, osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną – imiona i nazwiska reprezentantów, w tym likwidatorów, jeżeli są ustanowieni, a ponadto w przypadku spółki osobowej – imiona i nazwiska oraz miejsce zamieszkania wspólników odpowiadających za zobowiązania spółki bez ograniczenia całym swoim majątkiem;
 - **2)** propozycje układowe;
-- **3)** wynik głosowania ze wskazaniem liczby wierzycieli i sumy wierzytelności uprawniających do głosowania, liczby wierzycieli i sumy wierzytelności, co do których oddano ważny głos, oraz liczby wierzycieli i sumy wierzytelności przypadających wierzycielom głosującym za układem, a jeżeli propozycje układowe przewidują podział wierzycieli na grupy – również liczby wierzycieli i sumy wierzytelności poszczególnych grup oraz liczby wierzycieli i sumy wierzytelności przypadających wierzycielom głosującym za układem w każdej grupie.
+- **3)** wynik głosowania ze wskazaniem liczby wierzycieli i sumy wierzytelności uprawniającej do głosowania oraz liczby wierzycieli i sumy wierzytelności przypadającej wierzycielom głosującym za układem, a jeżeli propozycje układowe przewidują podział wierzycieli na grupy – również liczby wierzycieli i sumy wierzytelności poszczególnych grup oraz liczby wierzycieli i sumy wierzytelności przypadających wierzycielom głosującym za układem w każdej grupie.
 
 2. Do wniosku o zatwierdzenie układu dłużnik dołącza:
 
-- **1)** zebrane przez nadzorcę układu za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe karty do głosowania, wraz z pełnomocnictwami koniecznymi dla wykazania uprawnienia do oddania głosu oraz informacją, czy w stosunku do wierzyciela nie zachodzą okoliczności wskazane w art. 116, uszeregowane zgodnie z kolejnością przyjętą w spisie wierzytelności sporządzonym przez nadzorcę układu;
-- **2)** dowód wysłania co najmniej na trzy tygodnie przed dniem złożenia wniosku o zatwierdzenie układu informacji o sposobie głosowania z pouczeniem o sposobie uwierzytelnienia się w systemie teleinformatycznym obsługującym postępowanie sądowe i sposobie wypełnienia karty do głosowania lub zawiadomienia o terminie zgromadzenia wierzycieli wierzycielom, którzy nie oddali głosu;
-- **2a)** otrzymane przez nadzorcę układu dowody doręczenia informacji i zawiadomień, o których mowa w pkt 2;
+- **1)** zebrane przez dłużnika karty do głosowania, wraz z odpisami lub wydrukami z rejestru i pełnomocnictwami koniecznymi dla wykazania uprawnienia do oddania głosu oraz informacją, czy w stosunku do wierzyciela nie zachodzą okoliczności wskazane w art. 116, uszeregowane zgodnie z kolejnością przyjętą w spisie wierzytelności sporządzonym przez nadzorcę układu;
+- **2)** dowód wysłania co najmniej na trzy tygodnie przed dniem złożenia wniosku o zatwierdzenie układu kart do głosowania z propozycjami układowymi wierzycielom, którzy nie oddali głosu, na adres wskazany w rejestrze, do którego jest wpisany wierzyciel, o ile wierzyciel jest wpisany do rejestru, w przeciwnym przypadku na adres zamieszkania wierzyciela znany dłużnikowi;
 - **3)** sprawozdanie nadzorcy układu.
 
-3. Przez inne dane umożliwiające jednoznaczną identyfikację, o których mowa w ust. 1 pkt 1, rozumie się dane, o których mowa w art. 86 ust. 6.
-
 **Art. 220.** Sprawozdanie nadzorcy układu zawiera:
+
+- **1)** stwierdzenie przyjęcia układu;
+- **2)** ocenę zgodności z prawem przebiegu samodzielnego zbierania głosów wraz ze wskazaniem innych okoliczności, które mogą mieć wpływ na zatwierdzenie układu;
+- **3)** zastrzeżenia wierzycieli, o których mowa w art. 216 ust. 2;
+- **4)** ocenę możliwości wykonania układu;
+- **5)** wskazanie miejsc, w których znajduje się przedsiębiorstwo lub inny majątek dłużnika;
+- **6)** aktualny wykaz majątku dłużnika z szacunkową wyceną jego składników;
+- **7)** bilans sporządzony przez dłużnika dla celów postępowania o zatwierdzenie układu, na dzień przypadający w okresie trzydziestu dni przed dniem złożenia wniosku;
+- **8)** spis wierzytelności, sporządzony przez nadzorcę układu, ze wskazaniem, czy wierzyciel głosował za, czy przeciw układowi;
+- **9)** spis wierzytelności spornych, sporządzony przez nadzorcę układu;
+- **10)** wskazanie sumy wierzytelności z wyszczególnieniem, jaką część stanowią wierzytelności sporne;
+- **11)** listę zabezpieczeń dokonanych przez wierzycieli na majątku dłużnika wraz z datami ich ustanowienia;
+- **12)** spis podmiotów zobowiązanych majątkowo wobec dłużnika wraz z adresami, z określeniem wierzytelności, daty ich powstania i terminów zapłaty;
+- **13)** wykaz tytułów egzekucyjnych oraz tytułów wykonawczych przeciwko dłużnikowi;
+- **14)** informację o postępowaniach dotyczących ustanowienia na majątku dłużnika hipotek, zastawów, zastawów rejestrowych, zastawów skarbowych i hipotek morskich oraz innych obciążeń podlegających wpisowi w księdze wieczystej lub w rejestrach, jak również o prowadzonych innych postępowaniach sądowych, administracyjnych, sądowoadministracyjnych oraz przed sądami polubownymi dotyczących majątku dłużnika;
+- **15)** dokument potwierdzający zawarcie umowy ubezpieczenia odpowiedzialności cywilnej za szkody wyrządzone w związku z pełnieniem funkcji nadzorcy układu;
+- **16)** plan restrukturyzacyjny, sporządzony przez nadzorcę układu;
+- **17)** informacje, o których mowa w art. 140, oraz kopię zawiadomienia i opinii organu, o których mowa w art. 204, albo informację, że żaden organ takiego zawiadomienia lub opinii nie złożył.
 
 **Art. 221.**
 
@@ -2364,7 +3082,7 @@ Art. 401–447. (pominięte)
 
 **Art. 222.**
 
-1. O złożeniu wniosku o zatwierdzenie układu, który dotyczy przedsiębiorstwa państwowego albo jednoosobowej spółki Skarbu Państwa, sąd niezwłocznie zawiadamia, przy zastosowaniu środków bezpośredniego porozumiewania się na odległość, w szczególności przez telefon, faks lub pocztę elektroniczną, organ założycielski albo pełnomocnika Rządu, państwową osobę prawną, organ lub inną jednostkę uprawnioną do wykonywania praw z akcji lub udziałów należących do Skarbu Państwa, które mogą złożyć sądowi opinię w sprawie. Brak opinii nie wstrzymuje rozpoznania sprawy.
+1. O złożeniu wniosku o zatwierdzenie układu, który dotyczy przedsiębiorstwa państwowego albo jednoosobowej spółki Skarbu Państwa, sąd niezwłocznie zawiadamia, przy zastosowaniu środków bezpośredniego porozumiewania się na odległość, w szczególności przez telefon, faks lub pocztę elektroniczną, odpowiednio organ założycielski albo ministra właściwego do spraw Skarbu Państwa, który może złożyć sądowi opinię w sprawie. Brak opinii nie wstrzymuje rozpoznania sprawy.
 
 2. Podmioty, o których mowa w ust. 1, mogą zgłosić się do udziału w sprawie w charakterze uczestników postępowania.
 
@@ -2374,13 +3092,11 @@ Art. 401–447. (pominięte)
 
 1. Sąd wydaje postanowienie w przedmiocie zatwierdzenia układu w terminie dwóch tygodni od dnia złożenia wniosku o zatwierdzenie układu.
 
-2. W postanowieniu o zatwierdzeniu układu wskazuje się podstawę jurysdykcji sądów polskich. Jeżeli zastosowanie ma rozporządzenie Parlamentu Europejskiego i Rady (UE) 2015/848 z dnia 20 maja 2015 r. w sprawie postępowania upadłościowego (Dz. Urz. UE L 141 z 05.06.2015, str. 19), w postanowieniu określa się również, czy postępowanie ma charakter główny czy uboczny.
+2. W postanowieniu o zatwierdzeniu układu wskazuje się podstawę jurysdykcji sądów polskich. Jeżeli zastosowanie ma rozporządzenie Rady (WE) nr 1346/2000 z dnia 29 maja 2000 r. w sprawie postępowania upadłościowego (Dz. Urz. WE L 160 z 30.06.2000, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 1, str. 191, z późn. zm.), w postanowieniu określa się również, czy postępowanie ma charakter główny, czy uboczny.
 
 3. Przepisy art. 233 ust. 1 pkt 1 i 3 stosuje się odpowiednio.
 
 4. Dla wierzyciela, którego siedziba lub miejsce zwykłego pobytu w dniu wydania postanowienia znajdowały się za granicą, termin do wniesienia zażalenia na postanowienie o zatwierdzeniu układu w części dotyczącej jurysdykcji sądów polskich wynosi trzydzieści dni od dnia obwieszczenia postanowienia o zatwierdzeniu układu w Rejestrze.
-
-5. Przepis ust. 4 stosuje się odpowiednio, jeżeli wierzyciel, którego siedziba lub miejsce zwykłego pobytu w dniu wydania postanowienia znajdowały się za granicą, został pominięty przy zbieraniu głosów.
 
 **Art. 224.**
 
@@ -2390,62 +3106,13 @@ Art. 401–447. (pominięte)
 
 **Art. 225.**
 
-1. Postanowienia umowy zastrzegające na wypadek złożenia wniosku o zatwierdzenie układu, zatwierdzenia układu lub dokonania obwieszczenia, o którym mowa w art. 226a ust. 1, zmianę albo rozwiązanie stosunku prawnego, którego stroną jest dłużnik, są nieważne.
+1. Postanowienia umowy zastrzegające na wypadek złożenia wniosku o zatwierdzenie układu lub zatwierdzenia układu zmianę lub rozwiązanie stosunku prawnego, którego stroną jest dłużnik, są nieważne.
 
 2. Przepisy art. 250 i art. 251 stosuje się odpowiednio.
 
 **Art. 226.** Do postępowania o zatwierdzenie układu przepisów o zabezpieczeniu nie stosuje się.
 
-#### Rozdział 3 Skutki obwieszczenia o ustaleniu dnia układowego
-
-**Art. 226a.**
-
-1. Po sporządzeniu spisu wierzytelności, spisu wierzytelności spornych oraz wstępnego planu restrukturyzacyjnego nadzorca układu może dokonać obwieszczenia o ustaleniu dnia układowego.
-
-2. Dokonanie obwieszczenia, o którym mowa w ust. 1, jest niedopuszczalne, jeżeli w ciągu ostatnich dziesięciu lat dłużnik prowadził postępowanie o zatwierdzenie układu, w którym dokonano obwieszczenia o ustaleniu dnia układowego, albo w ciągu ostatnich dziesięciu lat umorzono postępowanie restrukturyzacyjne prowadzone wobec dłużnika, z wyjątkiem sytuacji, gdy umorzenie postępowania restrukturyzacyjnego nastąpiło za zgodą rady wierzycieli.
-
-3. W przypadku stwierdzenia zaistnienia okoliczności, o których mowa w ust. 2, nadzorca układu odmawia dokonania obwieszczenia, o którym mowa w ust. 1.
-
-**Art. 226b.**
-
-1. Odmowa dokonania obwieszczenia, o którym mowa w art. 226a ust. 1, wymaga uzasadnienia.
-
-2. Na odmowę dokonania obwieszczenia, o którym mowa w art. 226a ust. 1, dłużnikowi przysługuje skarga do sądu restrukturyzacyjnego. Nadzorca układu poucza dłużnika o terminie i sposobie wniesienia skargi.
-
-3. Skarga powinna czynić zadość wymaganiom pisma procesowego oraz określać zaskarżoną odmowę dokonania obwieszczenia, o którym mowa w art. 226a ust. 1.
-
-4. Skargę wnosi się w terminie tygodniowym od dnia doręczenia odmowy dokonania obwieszczenia, o którym mowa w art. 226a ust. 1, wraz z uzasadnieniem.
-
-5. Skargę wnosi się do nadzorcy układu. Nadzorca układu w terminie trzech dni od dnia otrzymania skargi przekazuje ją do sądu restrukturyzacyjnego wraz z odpisem odmowy dokonania obwieszczenia, o którym mowa w art. 226a ust. 1, i uzasadnieniem, chyba że skargę w całości uwzględnia. O uwzględnieniu skargi nadzorca układu zawiadamia dłużnika.
-
-6. Sąd restrukturyzacyjny rozpoznaje skargę w terminie tygodniowym od dnia jej wpływu do sądu, a gdy skarga zawiera braki formalne, które podlegają uzupełnieniu, lub jeżeli od skargi nie uiszczono należnej opłaty, w terminie tygodniowym od dnia jej uzupełnienia lub opłacenia.
-
-7. Sąd restrukturyzacyjny odrzuca skargę wniesioną po upływie przepisanego terminu lub z innych przyczyn niedopuszczalną, jak również skargę, której braków nie uzupełniono w terminie lub od której nie uiszczono należnej opłaty. Na postanowienie o odrzuceniu skargi służy zażalenie.
-
-**Art. 226c.**
-
-1. W obwieszczeniu, o którym mowa w art. 226a ust. 1, podaje się:
-
-- **1)** imię i nazwisko dłużnika albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jego jednoznaczną identyfikację, firmę, pod którą działa dłużnik, miejsce zamieszkania albo siedzibę, adres, a jeżeli dłużnikiem jest spółka osobowa, osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną – imiona i nazwiska reprezentantów, w tym likwidatorów, jeżeli są ustanowieni, oraz numery PESEL albo numery w Krajowym Rejestrze Sądowym reprezentantów, a w przypadku ich braku – inne dane umożliwiające ich jednoznaczną identyfikację, a ponadto w przypadku spółki osobowej – imiona i nazwiska albo nazwę, numery PESEL albo numery w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jednoznaczną identyfikację oraz miejsce zamieszkania albo siedzibę wspólników odpowiadających za zobowiązania spółki bez ograniczenia całym swoim majątkiem;
-- **2)** informację o głównym ośrodku podstawowej działalności dłużnika;
-- **3)** informację o niestwierdzeniu okoliczności, o których mowa w art. 226a ust. 2;
-- **4)** informację o prawie przysługującym zgodnie z art. 226f.
-
-2. Przez inne dane umożliwiające jednoznaczną identyfikację dłużnika, o których mowa w ust. 1 pkt 1, rozumie się dane, o których mowa w art. 86 ust. 6.
-
-**Art. 226d.** Od dnia dokonania obwieszczenia, o którym mowa w art. 226a ust. 1, do dnia prawomocnego umorzenia postępowania w przedmiocie rozpoznania wniosku o zatwierdzenie układu albo zakończenia postępowania o zatwierdzenie układu nadzorca układu wykonuje uprawnienia nadzorcy sądowego. Przepisy art. 36 ust. 2 i 3, art. 37 ust. 1 oraz art. 39 ust. 1 stosuje się odpowiednio. Przepisów art. 42–50 oraz art. 224 nie stosuje się.
-
-**Art. 226e.** W okresie wskazanym w art. 226d przepisy art. 256 i art. 312 stosuje się odpowiednio.
-
-**Art. 226f.** Na wniosek wierzyciela, dłużnika lub nadzorcy układu sąd uchyla skutki dokonania obwieszczenia, o którym mowa w art. 226a ust. 1, jeżeli prowadzą one do pokrzywdzenia wierzycieli lub jeżeli zostaną ujawnione okoliczności, o których mowa w art. 226a ust. 2. Przed wydaniem postanowienia sąd może przesłuchać dłużnika, wierzyciela lub nadzorcę układu. Na postanowienie w przedmiocie uchylenia skutków dokonania obwieszczenia przysługuje zażalenie. Prawomocne postanowienie o uchyleniu skutków dokonania obwieszczenia obwieszcza się.
-
-**Art. 226g.** Jeżeli w terminie czterech miesięcy od dnia dokonania obwieszczenia dłużnik nie złoży do sądu wniosku o zatwierdzenie układu, skutki obwieszczenia wygasają z mocy prawa.
-
-**Art. 226h.** Dłużnik w terminie do wniesienia zażalenia na postanowienie o odmowie zatwierdzenia układu albo w terminie siedmiu dni od umorzenia postępowania w przedmiocie rozpoznania wniosku o zatwierdzenie układu może złożyć uproszczony wniosek o otwarcie postępowania sanacyjnego, o którym mowa w art. 328, albo uproszczony wniosek o ogłoszenie upadłości, o którym mowa w art. 334.
-
-**Art. 226i.** Przez dzień złożenia wniosku o ogłoszenie upadłości i przez dzień zakończenia postępowania restrukturyzacyjnego, o których mowa w art. 131a Prawa upadłościowego, rozumie się także odpowiednio dzień dokonania obwieszczenia oraz dzień umorzenia postępowania, o których mowa w art. 218a.
-
-### DZIAŁ II Przyspieszone postępowanie układowe
+### Dział II Przyspieszone postępowanie układowe
 
 #### Rozdział 1 Wniosek o otwarcie przyspieszonego postępowania układowego
 
@@ -2453,8 +3120,7 @@ Art. 401–447. (pominięte)
 
 1. Wniosek o otwarcie przyspieszonego postępowania układowego powinien zawierać:
 
-- **1)** imię i nazwisko dłużnika albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jego jednoznaczną identyfikację, firmę, pod którą działa dłużnik, miejsce zamieszkania albo siedzibę, adres, a jeżeli dłużnikiem jest spółka osobowa, osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną – imiona i nazwiska reprezentantów, w tym likwidatorów, jeżeli są ustanowieni, oraz numery PESEL albo numery w Krajowym Rejestrze Sądowym reprezentantów, a w przypadku ich braku – inne dane umożliwiające ich jednoznaczną identyfikację, a ponadto w przypadku spółki osobowej – imiona i nazwiska albo nazwę, numery PESEL albo numery w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jednoznaczną identyfikację oraz miejsce zamieszkania albo siedzibę wspólników odpowiadających za zobowiązania spółki bez ograniczenia całym swoim majątkiem;
-- **1a)** NIP, jeżeli dłużnik ma taki numer;
+- **1)** imię i nazwisko dłużnika albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jego jednoznaczną identyfikację, miejsce zamieszkania albo siedzibę, adres, a gdy dłużnikiem jest spółka osobowa, osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną – imiona i nazwiska reprezentantów, w tym likwidatorów, jeżeli są ustanowieni, a ponadto w przypadku spółki osobowej – imiona i nazwiska oraz miejsce zamieszkania wspólników odpowiadających za zobowiązania spółki bez ograniczenia całym swoim majątkiem;
 - **2)** propozycje układowe wraz ze wstępnym planem restrukturyzacyjnym oraz odpisami propozycji układowych w liczbie wystarczającej do doręczenia wszystkim wierzycielom;
 - **3)** wskazanie miejsc, w których znajduje się przedsiębiorstwo lub inny majątek dłużnika;
 - **4)** aktualny wykaz majątku z szacunkową wyceną jego składników;
@@ -2463,17 +3129,11 @@ Art. 401–447. (pominięte)
 - **7)** sumę wierzytelności z wyszczególnieniem sumy wierzytelności objętej układem z mocy prawa oraz sumy wierzytelności, która może zostać objęta układem po wyrażeniu zgody przez wierzyciela;
 - **8)** wykaz wierzytelności spornych z podaniem imienia i nazwiska albo nazwy wierzycieli, miejsca zamieszkania albo siedziby, ich adresów i wysokości żądanej przez każdego z nich wierzytelności, terminów zapłaty oraz zwięzłym przedstawieniem podstawy sporu;
 - **9)** sumę wierzytelności spornych;
-- **10)** informację, czy dłużnik jest uczestnikiem podlegającego prawu polskiemu lub prawu innego państwa członkowskiego systemu płatności lub systemu rozrachunku papierów wartościowych w rozumieniu ustawy z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami, zwanych dalej „systemem płatności” oraz „systemem rozrachunku papierów wartościowych”, lub niebędącym uczestnikiem podmiotem prowadzącym system interoperacyjny w rozumieniu tej ustawy, zwany dalej „systemem interoperacyjnym”;
-- **11)** informację, czy w jednym z dwóch ostatnich lat obrotowych:
-    - **a)** dłużnik zatrudniał średniorocznie 250 lub więcej pracowników lub
-    - **b)** dłużnik osiągnął roczny obrót netto ze sprzedaży towarów, wyrobów i usług oraz operacji finansowych przekraczający równowartość w złotych 50 milionów euro, lub
-    - **c)** sumy aktywów bilansu dłużnika, sporządzonego na koniec jednego z tych lat, przekroczyły równowartość w złotych 43 milionów euro.
+- **10)** informację, czy dłużnik jest uczestnikiem podlegającego prawu polskiemu lub prawu innego państwa członkowskiego systemu płatności lub systemu rozrachunku papierów wartościowych w rozumieniu ustawy z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami, zwanych dalej „systemem płatności” oraz „systemem rozrachunku papierów wartościowych”, lub niebędącym uczestnikiem podmiotem prowadzącym system interoperacyjny w rozumieniu tej ustawy, zwany dalej „systemem interoperacyjnym”.
 
-2. (uchylony)
+2. W przypadku wierzytelności zabezpieczonych, sumę wierzytelności, która może zostać objęta układem po wyrażeniu zgody przez wierzyciela, oznacza się według tej części wierzytelności, która prawdopodobnie zostanie zaspokojona z przedmiotu zabezpieczenia.
 
-3. (uchylony)
-
-4. Przez inne dane umożliwiające jednoznaczną identyfikację, o których mowa w ust. 1 pkt 1, rozumie się dane, o których mowa w art. 86 ust. 6.
+3. Do wniosku o otwarcie przyspieszonego postępowania układowego dołącza się jego odpis i odpisy załączników.
 
 **Art. 228.**
 
@@ -2483,7 +3143,7 @@ Art. 401–447. (pominięte)
 
 **Art. 229.**
 
-1. O złożeniu wniosku o otwarcie przyspieszonego postępowania układowego, który dotyczy przedsiębiorstwa państwowego albo jednoosobowej spółki Skarbu Państwa, sąd niezwłocznie zawiadamia, przy zastosowaniu środków bezpośredniego porozumiewania się na odległość, w szczególności przez telefon, faks lub pocztę elektroniczną, organ założycielski albo pełnomocnika Rządu, państwową osobę prawną, organ lub inną jednostkę uprawnioną do wykonywania praw z akcji lub udziałów należących do Skarbu Państwa, które mogą złożyć sądowi opinię w sprawie. Brak opinii nie wstrzymuje rozpoznania sprawy.
+1. O złożeniu wniosku o otwarcie przyspieszonego postępowania układowego, który dotyczy przedsiębiorstwa państwowego albo jednoosobowej spółki Skarbu Państwa, sąd niezwłocznie zawiadamia, przy zastosowaniu środków bezpośredniego porozumiewania się na odległość, w szczególności przez telefon, faks lub pocztę elektroniczną, odpo wiednio organ założycielski albo ministra właściwego do spraw Skarbu Państwa, który może złożyć sądowi opinię w sprawie. Brak opinii nie wstrzymuje rozpoznania sprawy.
 
 2. Podmioty, o których mowa w ust. 1, mogą zgłosić się do udziału w sprawie w charakterze uczestników postępowania.
 
@@ -2509,13 +3169,11 @@ Art. 401–447. (pominięte)
 
 1. Uwzględniając wniosek o otwarcie przyspieszonego postępowania układowego, sąd wydaje postanowienie o otwarciu przyspieszonego postępowania układowego, w którym:
 
-- **1)** wymienia imię i nazwisko dłużnika albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jego jednoznaczną identyfikację, NIP, jeżeli dłużnik ma taki numer, firmę, pod którą działa dłużnik, miejsce zamieszkania albo siedzibę, adres, a gdy dłużnikiem jest spółka osobowa, osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną – imiona i nazwiska reprezentantów, w tym likwidatorów, jeżeli są ustanowieni, a ponadto w przypadku spółki osobowej – imiona i nazwiska albo nazwę, numery PESEL albo numery w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jednoznaczną identyfikację oraz miejsce zamieszkania albo siedzibę wspólników odpowiadających za zobowiązania spółki bez ograniczenia całym swoim majątkiem;
-- **2)** wyznacza nadzorcę sądowego;
+- **1)** wymienia imię i nazwisko dłużnika albo jego nazwę, miejsce zamieszkania albo siedzibę, adres oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jego jednoznaczną identyfikację;
+- **2)** wyznacza sędziego-komisarza oraz nadzorcę sądowego;
 - **3)** oznacza godzinę wydania postanowienia, jeżeli dłużnik jest uczestnikiem podlegającego prawu polskiemu lub prawu innego państwa członkowskiego systemu płatności lub systemu rozrachunku papierów wartościowych, lub niebędącym uczestnikiem podmiotem prowadzącym system interoperacyjny.
 
-1a. Przez inne dane umożliwiające jednoznaczną identyfikację, o których mowa w ust. 1 pkt 1, rozumie się dane, o których mowa w art. 86 ust. 6.
-
-2. W postanowieniu o otwarciu przyspieszonego postępowania układowego wskazuje się podstawę jurysdykcji sądów polskich. Jeżeli zastosowanie ma rozporządzenie Parlamentu Europejskiego i Rady (UE) 2015/848 z dnia 20 maja 2015 r. w sprawie postępowania upadłościowego, w postanowieniu określa się również, czy postępowanie ma charakter główny czy uboczny.
+2. W postanowieniu o otwarciu przyspieszonego postępowania układowego wskazuje się podstawę jurysdykcji sądów polskich. Jeżeli zastosowanie ma rozporządzenie Rady (WE) nr 1346/2000 z dnia 29 maja 2000 r. w sprawie postępowania upadłościowego, w postanowieniu określa się również, czy postępowanie ma charakter główny, czy uboczny.
 
 **Art. 234.**
 
@@ -2525,23 +3183,21 @@ Art. 401–447. (pominięte)
 
 **Art. 235.**
 
-1. Postanowienie o otwarciu przyspieszonego postępowania układowego oraz informację o prawomocności tego postanowienia obwieszcza się.
+1. Postanowienie o otwarciu przyspieszonego postępowania układowego obwieszcza się.
 
 2. Postanowienie w przedmiocie otwarcia przyspieszonego postępowania układowego doręcza się dłużnikowi, a postanowienie o otwarciu przyspieszonego postępowania układowego również nadzorcy sądowemu wraz z odpisem wniosku i odpisami załączników.
 
-3. Postanowienie w przedmiocie otwarcia przyspieszonego postępowania układowego wobec przedsiębiorstwa państwowego albo jednoosobowej spółki Skarbu Państwa doręcza się również organowi założycielskiemu albo pełnomocnikowi Rządu, państwowej osobie prawnej, organowi lub innej jednostce uprawnionej do wykonywania praw z akcji lub udziałów należących do Skarbu Państwa.
+3. Postanowienie w przedmiocie otwarcia przyspieszonego postępowania układowego wobec przedsiębiorstwa państwowego albo jednoosobowej spółki Skarbu Państwa doręcza się również odpowiednio organowi założycielskiemu albo ministrowi właściwemu do spraw Skarbu Państwa.
 
-4. O otwarciu postępowania zawiadamia się właściwą izbę administracji skarbowej i właściwy oddział Zakładu Ubezpieczeń Społecznych lub Kasy Rolniczego Ubezpieczenia Społecznego, a także znane organy egzekucyjne prowadzące postępowania egzekucyjne przeciwko dłużnikowi.
+4. O otwarciu postępowania zawiadamia się właściwą izbę skarbową i właściwy oddział Zakładu Ubezpieczeń Społecznych lub Kasy Rolniczego Ubezpieczenia Społecznego, a także znane sądowi organy egzekucyjne prowadzące postępowania egzekucyjne przeciwko dłużnikowi.
 
-5. Jeżeli dłużnik jest uczestnikiem podlegającego prawu polskiemu lub prawu innego państwa członkowskiego systemu płatności lub systemu rozrachunku papierów wartościowych, lub niebędącym uczestnikiem podmiotem prowadzącym system interoperacyjny, postanowienie o otwarciu przyspieszonego postępowania układowego doręcza się również Prezesowi Narodowego Banku Polskiego, po uprzednim zawiadomieniu go o godzinie wydania postanowienia.
+5. Jeżeli dłużnik jest uczestnikiem podlegającego prawu polskiemu lub prawu innego państwa członkowskiego systemu płatności lub systemu rozrachunku papierów wartościowych, lub niebędącym uczestnikiem podmiotem prowadzą cym system interoperacyjny, postanowienie o otwarciu przyspieszonego postępowania układowego doręcza się również Prezesowi Narodowego Banku Polskiego, po uprzednim zawiadomieniu go o godzinie wydania postanowienia.
 
 6. Jeżeli dłużnik jest spółką publiczną w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, postanowienie o otwarciu przyspieszonego postępowania układowego doręcza się również Komisji Nadzoru Finansowego, po uprzednim zawiadomieniu jej o wydaniu postanowienia.
 
-7. Jeżeli dłużnik jest operatorem publicznej sieci telekomunikacyjnej lub dostawcą publicznie dostępnych usług telekomunikacyjnych w rozumieniu ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221, z 2025 r. poz. 637 i 820 oraz z 2026 r. poz. 252), o otwarciu postępowania zawiadamia się Prezesa Urzędu Komunikacji Elektronicznej.
+7. Jeżeli dłużnik jest operatorem publicznej sieci telekomunikacyjnej lub dostawcą publicznie dostępnych usług telekomunikacyjnych w rozumieniu ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, 827 i 1198), o otwarciu postępowania zawiadamia się Prezesa Urzędu Komunikacji Elektronicznej.
 
-8. Zawiadomienia nadzorcy sądowego dokonuje się w dniu otwarcia postępowania przy zastosowaniu środków bezpośredniego porozumiewania się na odległość, w szczególności przez telefon, faks lub pocztę elektroniczną.
-
-9. Zawiadomień, o których mowa w ust. 4–7, dokonuje nadzorca sądowy w dniu otwarcia postępowania, a jeżeli jest to niemożliwe – w terminie 3 dni, przy zastosowaniu środków bezpośredniego porozumiewania się na odległość, w szczególności przez telefon, faks lub pocztę elektroniczną.
+8. Zawiadomień nadzorcy sądowego, organów egzekucyjnych oraz zawiadomień, o których mowa w ust. 5–7, dokonuje się w dniu otwarcia postępowania przy zastosowaniu środków bezpośredniego porozumiewania się na odległość, w szczególności przez telefon, faks lub pocztę elektroniczną.
 
 **Art. 236.**
 
@@ -2585,11 +3241,11 @@ Art. 401–447. (pominięte)
 
 **Art. 243.**
 
-1. W skład masy układowej dłużnika będącego stroną umowy o subpartycypację, o której mowa w art. 183 ust. 4 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2026 r. poz. 60 i 176), nie wchodzą wierzytelności będące przedmiotem tej umowy.
+1. W skład masy układowej dłużnika będącego stroną umowy o subpartycypację, o której mowa w art. 183 ust. 4 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. z 2014 r. poz. 157 oraz z 2015 r. poz. 73 i 978), nie wchodzą wierzytelności będące przedmiotem tej umowy.
 
-2. Fundusz wierzytelności wstępuje w prawa dłużnika z tytułu wierzytelności podlegających wyłączeniu oraz zabezpieczeń tych wierzytelności.
+2. Fundusz sekurytyzacyjny wstępuje w prawa dłużnika z tytułu wierzytelności podlegających wyłączeniu oraz zabezpieczeń tych wierzytelności.
 
-3. Dłużnik lub zarządca przekazuje funduszowi wierzytelności świadczenia otrzymane od dłużników z tytułu wierzytelności, o których mowa w ust. 1, oraz z tytułu zabezpieczeń tych wierzytelności.
+3. Dłużnik lub zarządca przekazuje funduszowi sekurytyzacyjnemu świadczenia otrzymane od dłużników z tytułu wierzytelności, o których mowa w ust. 1, oraz z tytułu zabezpieczeń tych wierzytelności.
 
 **Art. 244.**
 
@@ -2597,7 +3253,7 @@ Art. 401–447. (pominięte)
 
 - **1)** uczestnika tego systemu lub uczestnika współpracującego z nim systemu interoperacyjnego, który ustanowił to zabezpieczenie,
 - **2)** niebędącego uczestnikiem podmiotu prowadzącego system interoperacyjny współpracujący z tym systemem,
-- **3)** jakiegokolwiek innego podmiotu, który ustanowił to zabezpieczenie – w przypadku otwarcia przyspieszonego postępowania układowego wobec któregokolwiek z nich.
+- **3)** jakiegokolwiek innego podmiotu, który ustanowił to zabezpieczenie w przypadku otwarcia przyspieszonego postępowania układowego wobec któregokolwiek z nich.
 
 2. Z uwzględnieniem art. 12 ustawy z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami, przedmiot zabezpieczenia ustanowionego na rzecz Narodowego Banku Polskiego, banku centralnego innego państwa członkowskiego w rozumieniu tej ustawy lub Europejskiego Banku Centralnego, przez podmiot dokonujący operacji z tymi bankami lub przez jakikolwiek inny podmiot, nie wchodzi do masy układowej w przypadku otwarcia przyspieszonego postępowania układowego wobec któregokolwiek z nich.
 
@@ -2608,7 +3264,7 @@ Art. 401–447. (pominięte)
 1. Otwarcie przyspieszonego postępowania układowego wobec uczestnika systemu płatności lub systemu rozrachunku papierów wartościowych nie wstrzymuje możliwości wykorzystania:
 
 - **1)** środków pieniężnych i instrumentów finansowych w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, zgromadzonych i zapisanych na jego rachunku rozliczeniowym, nieobciążonych prawem rzeczowym na rzecz osób trzecich,
-- **2)** instrumentów finansowych zapisanych na rachunku rozliczeniowym upadłego, jako przedmiot zabezpieczenia kredytu uzyskanego w ramach systemu płatności lub systemu rozrachunku papierów wartościowych, jeżeli kredyt taki może być udostępniony w ramach istniejącej umowy o kredyt – w celu wykonania zobowiązań dłużnika wynikających ze zleceń rozrachunku wprowadzonych do systemu najpóźniej z dniem roboczym systemu płatności lub systemu rozrachunku papierów wartościowych rozpoczynającym się w dniu, w którym zostało otwarte przyspieszone postępowanie układowe.
+- **2)** instrumentów finansowych zapisanych na rachunku rozliczeniowym upadłego, jako przedmiot zabezpieczenia kredytu uzyskanego w ramach systemu płatności lub systemu rozrachunku papierów wartościowych, jeżeli kredyt taki może być udostępniony w ramach istniejącej umowy o kredyt w celu wykonania zobowiązań dłużnika wynikających ze zleceń rozrachunku wprowadzonych do systemu najpóźniej z dniem roboczym systemu płatności lub systemu rozrachunku papierów wartościowych rozpoczynającym się w dniu, w którym zostało otwarte przyspieszone postępowanie układowe.
 
 2. Za dzień roboczy systemu płatności lub systemu rozrachunku papierów wartościowych uznaje się określony przez zasady funkcjonowania systemu płatności lub systemu rozrachunku papierów wartościowych cykl wykonywania zleceń, w trakcie którego są dokonywane rozliczenia lub rozrachunki oraz występują inne operacje z tym związane. Dzień ten może rozpoczynać się i kończyć w następujących po sobie dniach kalendarzowych.
 
@@ -2647,7 +3303,7 @@ Art. 401–447. (pominięte)
 2. Do wykonania zobowiązań wynikających z zamieszczonej w umowie klauzuli kompensacyjnej, o której mowa w ustawie z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych, przepisu ust. 1 nie stosuje się, jeżeli:
 
 - **1)** ustanowienie zabezpieczenia finansowego, w tym zabezpieczenia uzupełniającego, w celu uwzględnienia wahań wartości przedmiotu zabezpieczenia lub wartości zabezpieczonych wierzytelności finansowych, albo
-- **2)** wycofanie środków pieniężnych, wierzytelności kredytowych lub instrumentów finansowych jako zabezpieczenia, w zamian za zastąpienie lub zmianę takiego zabezpieczenia – nastąpiło w dniu otwarcia przyspieszonego postępowania układowego, ale przed wydaniem postanowienia o jego otwarciu.
+- **2)** wycofanie środków pieniężnych, wierzytelności kredytowych lub instrumentów finansowych jako zabezpieczenia, w zamian za zastąpienie lub zmianę takiego zabezpieczenia nastąpiło w dniu otwarcia przyspieszonego postępowania układowego, ale przed wydaniem postanowienia o jego otwarciu.
 
 **Art. 253.**
 
@@ -2658,7 +3314,7 @@ Art. 401–447. (pominięte)
 
 2. Potrącenie wzajemnych wierzytelności jest dopuszczalne, jeżeli nabycie wierzytelności nastąpiło wskutek zapłaty długu, za który nabywca odpowiadał osobiście albo pewnymi przedmiotami majątkowymi, i jeżeli odpowiedzialność nabywcy za dług powstała przed dniem złożenia wniosku o otwarcie przyspieszonego postępowania układowego.
 
-3. Wierzyciel, który chce skorzystać z potrącenia zgodnie z ust. 2, składa o tym oświadczenie dłużnikowi, a gdy dłużnik jest pozbawiony prawa zarządu – zarządcy, niepóźniej niż w terminie trzydziestu dni od dnia otwarcia przyspieszonego postępowania układowego, a jeżeli podstawa potrącenia powstała później – w terminie trzydziestu dni od dnia, w którym powstała podstawa potrącenia. Oświadczenie jest skuteczne również w przypadku, gdy zostało złożone nadzorcy sądowemu.
+3. Wierzyciel, który chce skorzystać z potrącenia zgodnie z ust. 2, składa o tym oświadczenie dłużnikowi, a gdy dłużnik jest pozbawiony prawa zarządu – zarządcy, nie później niż w terminie trzydziestu dni od dnia otwarcia przyspieszonego postępowania układowego, a jeżeli podstawa potrącenia powstała później – w terminie trzydziestu dni od dnia, w którym powstała podstawa potrącenia. Oświadczenie jest skuteczne również w przypadku, gdy zostało złożone nadzorcy sądowemu.
 
 **Art. 254.** W przypadku otwarcia przyspieszonego postępowania układowego wobec uczestnika systemu płatności lub systemu rozrachunku papierów wartościowych skutki prawne zlecenia rozrachunku wynikające z jego wprowadzenia do tego systemu oraz wyniki kompensowania są niepodważalne i wiążące dla osób trzecich, jeżeli zlecenie to zostało wprowadzone do tego systemu przed otwarciem przyspieszonego postępowania układowego.
 
@@ -2666,9 +3322,9 @@ Art. 401–447. (pominięte)
 
 **Art. 256.**
 
-1. Od dnia dokonania obwieszczenia zarządzenia o wpisaniu do repertorium wniosku o otwarcie przyspieszonego postępowania układowego złożonego przez dłużnika do dnia dokonania obwieszczenia prawomocnego zarządzenia o zwrocie tego wniosku albo prawomocnego postanowienia o odrzuceniu albo oddaleniu tego wniosku, albo o umorzeniu postępowania w przedmiocie rozpoznania tego wniosku, a w przypadku otwarcia przyspieszonego postępowania układowego – do dnia jego zakończenia albo uprawomocnienia się postanowienia o umorzeniu przyspieszonego postępowania układowego, wypowiedzenie przez wynajmującego lub wydzierżawiającego umowy najmu lub dzierżawy lokalu lub nieruchomości, w których jest prowadzone przedsiębiorstwo dłużnika, bez zezwolenia rady wierzycieli jest niedopuszczalne.
+1. Od dnia otwarcia przyspieszonego postępowania układowego do dnia jego zakończenia albo uprawomocnienia się postanowienia o umorzeniu przyspieszonego postępowania układowego wypowiedzenie przez wynajmującego lub wydzierżawiającego umowy najmu lub dzierżawy lokalu lub nieruchomości, w których jest prowadzone przedsiębiorstwo dłużnika, bez zezwolenia rady wierzycieli, jest niedopuszczalne.
 
-2. Do umów kredytu w zakresie środków postawionych do dyspozycji kredytobiorcy przed dniem otwarcia postępowania, leasingu, ubezpieczeń majątkowych, umów rachunku bankowego, umów poręczeń, umów obejmujących licencje udzielone dłużnikowi oraz gwarancji lub akredytyw wystawionych przed dniem otwarcia przyspieszonego postępowania układowego oraz innych umów o podstawowym znaczeniu dla prowadzenia przedsiębiorstwa dłużnika przepis ust. 1 stosuje się odpowiednio. Spis umów o podstawowym znaczeniu dla prowadzenia przedsiębiorstwa dłużnika sporządza nadzorca sądowy i składa do akt w terminie trzech tygodni od dnia otwarcia postępowania.
+2. Do umów kredytu w zakresie środków postawionych do dyspozycji kredytobiorcy przed dniem otwarcia postępowania, leasingu, ubezpieczeń majątkowych, umów rachunku bankowego, umów poręczeń, umów obejmujących licencje udzielone dłużnikowi oraz gwarancji lub akredytyw wystawionych przed dniem otwarcia przyspieszonego postępowania układowego przepis ust. 1 stosuje się odpowiednio.
 
 3. W przypadku gdy podstawą wypowiedzenia umowy jest niewykonywanie przez dłużnika po dniu otwarcia przyspieszonego postępowania układowego zobowiązań nieobjętych układem lub inna okoliczność przewidziana w umowie, jeżeli zaistniały po dniu otwarcia postępowania, przepisów ust. 1 i 2 nie stosuje się.
 
@@ -2684,8 +3340,6 @@ Art. 401–447. (pominięte)
 
 3. Wszczęcie postępowania egzekucyjnego oraz wykonanie postanowienia o zabezpieczeniu roszczenia lub zarządzenia zabezpieczenia roszczenia wynikającego z wierzytelności objętej z mocy prawa układem jest niedopuszczalne po dniu otwarcia przyspieszonego postępowania układowego.
 
-4. W odniesieniu do roszczeń, co do których jest niedopuszczalne wszczęcie postępowania egzekucyjnego oraz wykonanie postanowienia o zabezpieczeniu roszczenia lub zarządzenia zabezpieczenia roszczenia, z dniem otwarcia przyspieszonego postępowania układowego bieg przedawnienia roszczenia nie rozpoczyna się, a rozpoczęty ulega zawieszeniu przez czas trwania przyspieszonego postępowania układowego.
-
 **Art. 260.**
 
 1. Wierzyciel posiadający wierzytelność zabezpieczoną na mieniu dłużnika hipoteką, zastawem, zastawem rejestrowym, zastawem skarbowym lub hipoteką morską może w toku przyspieszonego postępowania układowego prowadzić egzekucję wyłącznie z przedmiotu zabezpieczenia.
@@ -2700,43 +3354,33 @@ Art. 401–447. (pominięte)
 
 #### Rozdział 4 Przebieg przyspieszonego postępowania układowego
 
-**Art. 261.**
-
-1. W terminie trzydziestu dni od dnia otwarcia przyspieszonego postępowania układowego nadzorca sądowy sporządza i składa sędziemu-komisarzowi:
+**Art. 261.** W terminie dwóch tygodni od dnia otwarcia przyspieszonego postępowania układowego nadzorca sądowy sporządza i składa sędziemu-komisarzowi:
 
 - **1)** plan restrukturyzacyjny uwzględniający propozycje restrukturyzacji przedstawione przez dłużnika;
 - **2)** spis wierzytelności;
 - **3)** spis wierzytelności spornych.
 
-2. W terminie co najmniej trzydziestu dni przed dniem rozpoczęcia procedury głosowania w trybie art. 110 ust. 7 albo przed dniem zwołania zgromadzenia wierzycieli w celu głosowania nad układem nadzorca sądowy sporządza i składa sędziemu-komisarzowi:
-
-- **1)** test zaspokojenia, o którym mowa w art. 10a ust. 1;
-- **2)** opinię o możliwości wykonania układu zgodnie z propozycjami układowymi złożonymi przez podmioty, o których mowa w art. 155;
-- **3)** test prywatnego wierzyciela lub test prywatnego inwestora, o których mowa w art. 140.
-
-3. Uczestnicy postępowania mogą złożyć zastrzeżenia do dokumentów, o których mowa w ust. 2, w terminie dwóch tygodni od dnia ich sporządzenia. Nadzorca sądowy w terminie dwóch tygodni uwzględnia zastrzeżenia i dokonuje zmian w dokumentach, do których złożono zastrzeżenia, albo składa do akt oświadczenie o nieuwzględnieniu zastrzeżeń wraz z uzasadnieniem. Wniesienie zastrzeżeń nie wpływa na termin rozpoczęcia procedury głosowania oraz na termin zwołania zgromadzenia wierzycieli.
-
-**Art. 262.** Jeżeli od dnia sporządzenia spisów, o których mowa w art. 261 ust. 1 pkt 2 i 3, zaszły zmiany lub jeżeli dłużnik zgłosił zastrzeżenia, o których mowa w art. 90 ust. 1, nadzorca sądowy składa na zgromadzeniu wierzycieli aktualny spis wierzytelności i spis wierzytelności spornych.
+**Art. 262.** Jeżeli od dnia sporządzenia spisów, o których mowa w art. 261 pkt 2 i 3, zaszły zmiany lub jeżeli dłużnik zgłosił zastrzeżenia, o których mowa w art. 90 ust. 1, nadzorca sądowy składa na zgromadzeniu wierzycieli aktualny spis wierzytelności i spis wierzytelności spornych.
 
 **Art. 263.**
 
 1. Niezwłocznie po złożeniu dokumentów, o których mowa w art. 261, sędzia-komisarz wyznacza termin zgromadzenia wierzycieli w celu głosowania nad układem.
 
-2. Jeżeli propozycje układowe przewidują, że dłużnikowi może zostać udzielone wsparcie, o którym mowa w art. 140, wierzycielowi, który ma udzielić wsparcia, doręcza się przed wyznaczeniem terminu zgromadzenia wierzycieli plan restrukturyzacyjny oraz test prywatnego wierzyciela lub test prywatnego inwestora, o których mowa w art. 140, wraz z dokumentami i informacjami, o których mowa w art. 37 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej. W takim przypadku termin zgromadzenia wierzycieli może zostać wyznaczony dopiero po upływie terminów, o których mowa w art. 204 i art. 205.
+2. Jeżeli propozycje układowe przewidują, że dłużnikowi może zostać udzielone wsparcie, o którym mowa w art. 140, wierzycielowi, który ma udzielić wsparcia, doręcza się przed wyznaczeniem terminu zgromadzenia wierzycieli plan restrukturyzacyjny wraz z dokumentami i informacjami, o których mowa w art. 37 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej. W takim przypadku termin zgromadzenia wierzycieli może zostać wyznaczony dopiero po upływie terminów, o których mowa w art. 204 i art. 205.
 
 **Art. 264.**
 
-1. O terminie zgromadzenia wierzycieli zwołanego w celu przyjęcia układu nadzorca sądowy zawiadamia wierzycieli umieszczonych w spisie wierzytelności, jednocześnie doręczając im propozycje układowe, informację o podziale wierzycieli umieszczonych w spisie wierzytelności ze względu na kategorie interesów, informację o sposobie głosowania na zgromadzeniu wierzycieli oraz pouczenie o treści przepisów art. 107–110, art. 113 i art. 115–119.
+1. O terminie zgromadzenia wierzycieli zwołanego w celu przyjęcia układu sędzia-komisarz zawiadamia wierzycieli umieszczonych w spisie wierzytelności, jednocześnie doręczając im propozycje układowe, informację o podziale wierzycieli umieszczonych w spisie wierzytelności ze względu na kategorie interesów, informację o sposobie głosowania na zgromadzeniu wierzycieli oraz pouczenie o treści przepisów art. 107–110, art. 113 i art. 115–119.
 
-2. Do wierzycieli umieszczonych w spisie wierzytelności spornych przepis ust. 1 stosuje się. Zawiadamiając wierzyciela umieszczonego w spisie wierzytelności spornych, nadzorca sądowy wskazuje, że sędzia-komisarz może dopuścić go do udziału w zgromadzeniu wierzycieli, jeżeli uprawdopodobni istnienie wierzytelności.
+2. Do wierzycieli umieszczonych w spisie wierzytelności spornych przepis ust. 1 stosuje się. Zawiadamiając wierzyciela umieszczonego w spisie wierzytelności spornych, sędzia-komisarz wskazuje, że może dopuścić go do udziału w zgromadzeniu wierzycieli, jeżeli uprawdopodobni istnienie wierzytelności.
 
-### DZIAŁ III Postępowanie układowe
+### Dział III Postępowanie układowe
 
 #### Rozdział 1 Postępowanie o otwarcie postępowania układowego
 
 ##### Oddział 1 Wniosek o otwarcie postępowania układowego
 
-**Art. 265.** O ile przepisy niniejszego rozdziału nie stanowią inaczej, wniosek o otwarcie postępowania układowego powinien odpowiadać wymogom formalnym określonym w art. 227 ust. 1 pkt 1–3 i 6–10.
+**Art. 265.** O ile przepisy niniejszego rozdziału nie stanowią inaczej, wniosek o otwarcie postępowania układowego powinien odpowiadać wymogom formalnym określonym w art. 227 ust. 1 pkt 1–3 i pkt 6–10 oraz ust. 2 i 3.
 
 **Art. 266.**
 
@@ -2770,11 +3414,7 @@ Art. 401–447. (pominięte)
 
 9. O wynagrodzeniu tymczasowego nadzorcy sądowego orzeka sąd na jego wniosek złożony w terminie tygodnia od dnia powiadomienia o odwołaniu lub wygaśnięcia funkcji.
 
-**Art. 269.**
-
-1. W sprawach nieuregulowanych w ustawie do postępowania zabezpieczającego przepisy Kodeksu postępowania cywilnego o postępowaniu zabezpieczającym stosuje się odpowiednio.
-
-2. Zabezpieczenia zastosowane przez sąd upadają z dniem otwarcia postępowania układowego, uprawomocnienia się zarządzenia o zwrocie wniosku restrukturyzacyjnego albo postanowienia o odrzuceniu wniosku lub oddaleniu wniosku albo umorzeniu postępowania w przedmiocie rozpoznania wniosku. O upadku zabezpieczenia w postaci ustanowienia tymczasowego nadzorcy sądowego obwieszcza się.
+**Art. 269.** W sprawach nieuregulowanych w ustawie do postępowania zabezpieczającego przepisy Kodeksu postępowania cywilnego o postępowaniu zabezpieczającym stosuje się odpowiednio.
 
 ##### Oddział 3 Postanowienie o otwarciu postępowania układowego
 
@@ -2798,7 +3438,7 @@ Art. 401–447. (pominięte)
 
 ##### Oddział 1 Skutki otwarcia postępowania układowego co do osoby, majątku i zobowiązań dłużnika
 
-**Art. 273.** Po otwarciu postępowania układowego przepisy art. 238– 256 stosuje się odpowiednio.
+**Art. 273.** Po otwarciu postępowania układowego przepisy art. 238–256 stosuje się odpowiednio.
 
 **Art. 274.**
 
@@ -2808,14 +3448,11 @@ Art. 401–447. (pominięte)
 
 **Art. 275.**
 
-1. Ustalenie składu masy układowej na dzień otwarcia postępowania układowego następuje przez sporządzenie w systemie teleinformatycznym obsługującym postępowanie sądowe według wzorca udostępnionego w tym systemie spisu ruchomości, nieruchomości, środków pieniężnych oraz przysługujących dłużnikowi praw majątkowych, a także przez sporządzenie spisu należności.
+1. Ustalenie składu masy układowej następuje przez sporządzenie spisu inwentarza.
 
-2. Nadzorca sądowy sporządza spisy, o których mowa w ust. 1, na bieżąco, w miarę ustalania składu masy układowej. Podczas sporządzania spisu nadzorca sądowy usuwa błędnie wpisane pozycje.
+2. Wraz ze spisem inwentarza dokonuje się oszacowania mienia wchodzącego do masy układowej.
 
-3. Po zakończeniu ustalania składu masy układowej nadzorca sądowy składa spis inwentarza, który obejmuje raporty ze sporządzonych według stanu na dzień otwarcia postępowania układowego spisów:
-
-- **1)** ruchomości, nieruchomości, środków pieniężnych oraz przysługujących dłużnikowi praw majątkowych;
-- **2)** należności.
+3. Domniemywa się, że rzeczy znajdujące się w posiadaniu dłużnika w dniu otwarcia postępowania układowego należą do masy układowej.
 
 ##### Oddział 2 Wpływ otwarcia postępowania układowego na postępowania sądowe, administracyjne, sądowoadministracyjne i przed sądami polubownymi
 
@@ -2837,26 +3474,16 @@ Art. 401–447. (pominięte)
 
 2. Sumy uzyskane w zawieszonym postępowaniu egzekucyjnym, a jeszcze niewydane, przelewa się do masy układowej niezwłocznie po wydaniu postanowienia o otwarciu postępowania układowego.
 
-3. Przepisy art. 259 ust. 2–4 stosuje się odpowiednio.
+3. Przepisy art. 259 ust. 2 i 3 stosuje się odpowiednio.
 
 **Art. 279.** W postępowaniu układowym przepis art. 260 stosuje się odpowiednio.
 
 #### Rozdział 3 Przebieg postępowania układowego
 
-**Art. 280.**
-
-1. W terminie trzydziestu dni od dnia otwarcia postępowania układowego nadzorca sądowy sporządza i składa sędziemu-komisarzowi:
+**Art. 280.** W terminie trzydziestu dni od dnia otwarcia postępowania układowego nadzorca sądowy sporządza i składa sędziemu-komisarzowi:
 
 - **1)** plan restrukturyzacyjny uwzględniający propozycje restrukturyzacji przedstawione przez dłużnika;
 - **2)** spis wierzytelności.
-
-2. W terminie co najmniej trzydziestu dni przed dniem rozpoczęcia procedury głosowania w trybie art. 110 ust. 7 albo przed dniem zwołania zgromadzenia wierzycieli w celu głosowania nad układem nadzorca sądowy sporządza i składa sędziemu-komisarzowi:
-
-- **1)** test zaspokojenia, o którym mowa w art. 10a ust. 1;
-- **2)** opinię o możliwości wykonania układu zgodnie z propozycjami układowymi złożonymi przez podmioty, o których mowa w art. 155;
-- **3)** test prywatnego wierzyciela lub test prywatnego inwestora, o których mowa w art. 140.
-
-3. Uczestnicy postępowania mogą złożyć zastrzeżenia do dokumentów, o których mowa w ust. 2, w terminie dwóch tygodni od dnia ich sporządzenia. Nadzorca sądowy w terminie dwóch tygodni uwzględnia zastrzeżenia i dokonuje zmian w dokumentach, do których złożono zastrzeżenia, albo składa do akt oświadczenie o nieuwzględnieniu zastrzeżeń wraz z uzasadnieniem. Wniesienie zastrzeżeń nie wpływa na termin rozpoczęcia procedury głosowania oraz na termin zwołania zgromadzenia wierzycieli.
 
 **Art. 281.**
 
@@ -2870,7 +3497,7 @@ Art. 401–447. (pominięte)
 
 2. Do wierzyciela, którego dotyczy sprzeciw, jeżeli nie został on prawomocnie rozpoznany do dnia zwołania zgromadzenia wierzycieli, przepisy art. 264 ust. 1 i ust. 2 zdanie drugie stosuje się odpowiednio.
 
-### DZIAŁ IV Postępowanie sanacyjne
+### Dział IV Postępowanie sanacyjne
 
 #### Rozdział 1 Postępowanie o otwarcie postępowania sanacyjnego
 
@@ -2878,7 +3505,7 @@ Art. 401–447. (pominięte)
 
 **Art. 283.**
 
-1. Wniosek o otwarcie postępowania sanacyjnego w stosunku do osoby prawnej wpisanej do Krajowego Rejestru Sądowego może zgłosić również kurator ustanowiony na podstawie art. 42 § 1 Kodeksu cywilnego.
+1. Wniosek o otwarcie postępowania sanacyjnego w stosunku do osoby prawnej wpisanej do Krajowego Rejestru Sądowego może zgłosić również kurator ustanowiony na podstawie art. 26 ust. 1 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym.
 
 2. Wniosek o otwarcie postępowania sanacyjnego w stosunku do niewypłacalnej osoby prawnej może zgłosić również jej wierzyciel osobisty.
 
@@ -2886,21 +3513,14 @@ Art. 401–447. (pominięte)
 
 1. Wniosek o otwarcie postępowania sanacyjnego powinien zawierać:
 
-- **1)** imię i nazwisko dłużnika albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jego jednoznaczną identyfikację, firmę, pod którą działa dłużnik, miejsce zamieszkania albo siedzibę, adres, a jeżeli dłużnikiem jest spółka osobowa, osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną – imiona i nazwiska reprezentantów, w tym likwidatorów, jeżeli są ustanowieni, oraz numery PESEL albo numery w Krajowym Rejestrze Sądowym reprezentantów, a w przypadku ich braku – inne dane umożliwiające ich jednoznaczną identyfikację, a ponadto w przypadku spółki osobowej – imiona i nazwiska albo nazwę, numery PESEL albo numery w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jednoznaczną identyfikację oraz miejsce zamieszkania albo siedzibę wspólników odpowiadających za zobowiązania spółki bez ograniczenia całym swoim majątkiem;
-- **1a)** NIP, jeżeli dłużnik ma taki numer;
+- **1)** imię i nazwisko dłużnika albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jego jednoznaczną identyfikację, miejsce zamieszkania albo siedzibę, adres, a gdy dłużnikiem jest spółka osobowa, osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną – imiona i nazwiska reprezentantów, w tym likwidatorów, jeżeli są ustanowieni, a ponadto w przypadku spółki osobowej – imiona i nazwiska oraz miejsce zamieszkania wspólników odpowiadających za zobowiązania spółki bez ograniczenia całym swoim majątkiem;
 - **2)** wskazanie miejsc, w których znajduje się przedsiębiorstwo lub inny majątek dłużnika;
 - **3)** wstępny plan restrukturyzacyjny wraz z uzasadnieniem wskazującym, że jego wdrożenie przywróci dłużnikowi zdolność do wykonywania zobowiązań;
 - **4)** uprawdopodobnienie zdolności dłużnika do bieżącego zaspokajania kosztów postępowania sanacyjnego i zobowiązań powstałych po dniu jego otwarcia;
 - **5)** wykaz wierzycieli z podaniem imienia i nazwiska albo nazwy oraz miejsca zamieszkania albo siedziby, adresu i wysokości wierzytelności każdego z nich, terminów zapłaty, określeniem, czy wierzytelność objęta jest układem z mocy prawa, czy może zostać objęta układem po wyrażeniu zgody przez wierzyciela oraz czy wierzyciel posiada prawo do głosowania nad układem, a jeżeli nie to wskazanie z jakiego powodu;
 - **6)** sumę wierzytelności z wyszczególnieniem sumy wierzytelności objętej układem z mocy prawa oraz sumę wierzytelności, która może zostać objęta układem po wyrażeniu zgody przez wierzyciela;
 - **7)** wykaz wierzytelności spornych z podaniem imienia i nazwiska albo nazwy wierzycieli, miejsca zamieszkania albo siedziby, ich adresów i wysokości żądanej przez każdego z nich wierzytelności, terminów zapłaty oraz zwięzłym przedstawieniem podstawy sporu;
-- **8)** informację, czy dłużnik jest uczestnikiem podlegającego prawu polskiemu lub prawu innego państwa członkowskiego systemu płatności lub systemu rozrachunku papierów wartościowych lub niebędącym uczestnikiem podmiotem prowadzącym system interoperacyjny;
-- **9)** informację, czy w jednym z dwóch ostatnich lat obrotowych:
-    - **a)** dłużnik zatrudniał średniorocznie 250 lub więcej pracowników lub
-    - **b)** dłużnik osiągnął roczny obrót netto ze sprzedaży towarów, wyrobów i usług oraz operacji finansowych przekraczający równowartość w złotych 50 milionów euro, lub
-    - **c)** sumy aktywów bilansu dłużnika, sporządzonego na koniec jednego z tych lat, przekroczyły równowartość w złotych 43 milionów euro.
-
-1a. Przez inne dane umożliwiające jednoznaczną identyfikację, o których mowa w ust. 1 pkt 1, rozumie się dane, o których mowa w art. 86 ust. 6.
+- **8)** informację, czy dłużnik jest uczestnikiem podlegającego prawu polskiemu lub prawu innego państwa członkowskiego systemu płatności lub systemu rozrachunku papierów wartościowych lub niebędącym uczestnikiem podmiotem prowadzącym system interoperacyjny.
 
 2. W przypadku wierzytelności zabezpieczonych sumę, o której mowa w ust. 1 pkt 6, oznacza się według tej części wierzytelności, która będzie prawdopodobnie zaspokojona z przedmiotu zabezpieczenia.
 
@@ -2908,7 +3528,7 @@ Art. 401–447. (pominięte)
 
 4. Jeżeli wniosek o otwarcie postępowania sanacyjnego zgłasza wierzyciel, przepisów ust. 1 pkt 3–8 i ust. 2 nie stosuje się. Wniosek wierzyciela powinien wskazywać okoliczności uzasadniające wniosek, a ponadto zawierać uprawdopodobnienie jego wierzytelności. Przed wydaniem orzeczenia w sprawie otwarcia postępowania sanacyjnego sąd może żądać od dłużnika przedstawienia informacji, o których mowa w ust. 1 pkt 3–8 i ust. 2, w terminie dwóch tygodni.
 
-**Art. 285.** Sąd może żądać od wnioskodawcy zaliczki na wydatki postępowania o otwarcie postępowania sanacyjnego pod rygorem pominięcia czynności, z którą jest związane wezwanie do uiszczenia zaliczki, albo, w przypadku wezwania do uiszczenia zaliczki na wynagrodzenie tymczasowego nadzorcy sądowego albo tymczasowego zarządcy, pod rygorem umorzenia postępowania.
+**Art. 285.** Sąd może żądać od dłużnika zaliczki na wydatki postępowania o otwarcie postępowania sanacyjnego pod rygorem pominięcia czynności, z którą jest związane wezwanie do uiszczenia zaliczki, albo, w przypadku wezwania do uiszczenia zaliczki na wynagrodzenie tymczasowego nadzorcy sądowego albo tymczasowego zarządcy, pod rygorem umorzenia postępowania.
 
 ##### Oddział 2 Postępowanie zabezpieczające
 
@@ -2916,15 +3536,9 @@ Art. 401–447. (pominięte)
 
 1. W postępowaniu o otwarcie postępowania sanacyjnego sąd może zabezpieczyć majątek dłużnika przez ustanowienie tymczasowego nadzorcy sądowego, do którego stosuje się odpowiednio przepisy o nadzorcy sądowym, z wyłączeniem przepisów art. 42–46, albo przez ustanowienie tymczasowego zarządcy, do którego stosuje się odpowiednio przepisy o zarządcy, z wyłączeniem przepisów art. 55–59 oraz art. 61 i art. 62. Postanowienie o ustanowieniu tymczasowego nadzorcy sądowego albo tymczasowego zarządcy, zmianie osoby tymczasowego nadzorcy sądowego albo tymczasowego zarządcy oraz informację o uprawomocnieniu się postanowienia o zmianie sposobu zabezpieczenia przez odwołanie tymczasowego nadzorcy sądowego albo tymczasowego zarządcy obwieszcza się.
 
-1a. Dłużnikowi przysługuje zażalenie na postanowienie o ustanowieniu tymczasowego zarządcy wydane w postępowaniu o otwarcie postępowania sanacyjnego prowadzonym na wniosek wierzyciela.
-
 2. Do zawieszenia postępowania egzekucyjnego oraz wynagrodzenia tymczasowego nadzorcy sądowego oraz tymczasowego zarządcy przepisy art. 268 ust. 2–4 i 6–9 stosuje się odpowiednio.
 
-**Art. 287.**
-
-1. W sprawach nieuregulowanych w ustawie do postępowania zabezpieczającego przepisy Kodeksu postępowania cywilnego o postępowaniu zabezpieczającym stosuje się odpowiednio.
-
-2. Zabezpieczenia zastosowane przez sąd upadają z dniem otwarcia postępowania sanacyjnego, uprawomocnienia się zarządzenia o zwrocie wniosku restrukturyzacyjnego albo postanowienia o odrzuceniu wniosku lub oddaleniu wniosku albo umorzeniu postępowania w przedmiocie rozpoznania wniosku. O upadku zabezpieczenia w postaci ustanowienia tymczasowego nadzorcy sądowego albo tymczasowego zarządcy obwieszcza się.
+**Art. 287.** W sprawach nieuregulowanych w ustawie do postępowania zabezpieczającego przepisy Kodeksu postępowania cywilnego o postępowaniu zabezpieczającym stosuje się odpowiednio.
 
 ##### Oddział 3 Postanowienie o otwarciu postępowania sanacyjnego
 
@@ -2944,13 +3558,7 @@ Art. 401–447. (pominięte)
 
 3. Postanowienie o otwarciu postępowania sanacyjnego wydane na rozprawie doręcza się podmiotom określonym w art. 235 ust. 2 i 3 oraz tymczasowemu nadzorcy sądowemu albo tymczasowemu zarządcy, jeżeli był ustanowiony, o ile podmioty te nie były o niej zawiadomione.
 
-**Art. 290.**
-
-1. Na postanowienie o otwarciu postępowania sanacyjnego wydane na wniosek wierzyciela zażalenie przysługuje wyłącznie dłużnikowi.
-
-2. Na postanowienie o odmowie otwarcia postępowania sanacyjnego zażalenie przysługuje dłużnikowi oraz wnioskodawcy.
-
-3. Do zażalenia na postanowienie w przedmiocie otwarcia postępowania sanacyjnego przepisy art. 236 ust. 2 i art. 237 stosuje się odpowiednio.
+**Art. 290.** Do zażalenia na postanowienie w przedmiocie otwarcia postępowania sanacyjnego przepisy art. 236 i art. 237 stosuje się odpowiednio.
 
 #### Rozdział 2 Skutki otwarcia postępowania sanacyjnego
 
@@ -3040,7 +3648,7 @@ Art. 401–447. (pominięte)
 
 5. Do poręczeń, gwarancji i innych podobnych czynności dokonywanych w celu zabezpieczenia świadczenia przepisy ust. 1–4 stosuje się odpowiednio.
 
-6. Do zabezpieczeń ustanowionych przed dniem otwarcia postępowania sanacyjnego w związku z terminowymi operacjami finansowymi, pożyczkami instrumentów finansowych lub sprzedażą instrumentów finansowych ze zobowiązaniem do ich odkupu, o których mowa w art. 250 ust. 1, przepisów ust. 1– 4 nie stosuje się.
+6. Do zabezpieczeń ustanowionych przed dniem otwarcia postępowania sanacyjnego w związku z terminowymi operacjami finansowymi, pożyczkami instrumentów finansowych lub sprzedażą instrumentów finansowych ze zobowiązaniem do ich odkupu, o których mowa w art. 250 ust. 1, przepisów ust. 1–4 nie stosuje się.
 
 **Art. 305.**
 
@@ -3048,7 +3656,7 @@ Art. 401–447. (pominięte)
 
 - **1)** umowie o pracę,
 - **2)** umowie o świadczenie usług,
-- **3)** uchwale organu dłużnika – zawartej lub podjętej przed dniem otwarcia postępowania sanacyjnego jest rażąco wyższe od przeciętnego wynagrodzenia za tego rodzaju pracę lub usługi i nie jest uzasadnione nakładem pracy, sędzia-komisarz z urzędu albo na wniosek zarządcy uznaje, że określona część wynagrodzenia, przypadająca za okres przed dniem otwarcia postępowania sanacyjnego, niedłuższy jednak niż trzy miesiące przed dniem złożenia wniosku o otwarcie postępowania sanacyjnego, jest bezskuteczna w stosunku do masy sanacyjnej, chociażby wynagrodzenie zostało już wypłacone.
+- **3)** uchwale organu dłużnika zawartej lub podjętej przed dniem otwarcia postępowania sanacyjnego jest rażąco wyższe od przeciętnego wynagrodzenia za tego rodzaju pracę lub usługi i nie jest uzasadnione nakładem pracy, sędzia-komisarz z urzędu albo na wniosek zarządcy uznaje, że określona część wynagrodzenia, przypadająca za okres przed dniem otwarcia postępowania sanacyjnego, nie dłuższy jednak niż trzy miesiące przed dniem złożenia wniosku o otwarcie postępowania sanacyjnego, jest bezskuteczna w stosunku do masy sanacyjnej, chociażby wynagrodzenie zostało już wypłacone.
 
 2. Sędzia-komisarz może uznać za bezskuteczne w całości lub części w stosunku do masy sanacyjnej wynagrodzenie reprezentanta dłużnika, pracownika dłużnika wykonującego zadania w zakresie zarządu przedsiębiorstwem lub osoby świadczącej usługi związane z zarządem lub nadzorem nad przedsiębiorstwem dłużnika, przypadające za czas po otwarciu postępowania sanacyjnego, jeżeli ze względu na objęcie zarządu przez zarządcę nie jest ono uzasadnione nakładem pracy.
 
@@ -3058,7 +3666,7 @@ Art. 401–447. (pominięte)
 
 5. Na postanowienie zażalenie przysługuje również reprezentantowi dłużnika, pracownikowi dłużnika wykonującemu zadania w zakresie zarządu przedsiębiorstwem lub osobie świadczącej usługi związane z zarządem lub nadzorem nad przedsiębiorstwem dłużnika.
 
-6. Do świadczeń przysługujących w związku z rozwiązaniem stosunku pracy albo umowy o usługi związane z zarządem przedsiębiorstwem przepisy ust. 1– 4 stosuje się odpowiednio, z tym że ograniczenie wysokości tych świadczeń następuje do wysokości określonych według zasad powszechnie obowiązujących.
+6. Do świadczeń przysługujących w związku z rozwiązaniem stosunku pracy albo umowy o usługi związane z zarządem przedsiębiorstwem przepisy ust. 1–4 stosuje się odpowiednio, z tym że ograniczenie wysokości tych świadczeń następuje do wysokości określonych według zasad powszechnie obowiązujących.
 
 **Art. 306.**
 
@@ -3072,13 +3680,11 @@ Art. 401–447. (pominięte)
 
 2. Za zgodą sędziego-komisarza druga strona czynności może zwolnić się z obowiązku przekazania do masy sanacyjnej tego, co wskutek tej czynności z majątku dłużnika ubyło, przez zapłatę różnicy między wartością rynkową świadczenia dłużnika z dnia zawarcia umowy, a wartością świadczenia otrzymanego przez dłużnika.
 
-3. Jeżeli osoba obowiązana do przekazania składników majątkowych do masy sanacyjnej nie wykona swojego obowiązku na wezwanie zarządcy, a obowiązek przekazania składników majątkowych do masy sanacyjnej nie został stwierdzony prawomocnym orzeczeniem, zarządca może w drodze powództwa żądać nakazania przekazania składników majątkowych do masy sanacyjnej. Powództwo wnosi się do sądu restrukturyzacyjnego.
+3. Jeżeli osoba obowiązana do przekazania składników majątkowych do masy sanacyjnej nie wykona swojego obowiązku na wezwanie zarządcy, sędzia-komisarz wskazuje taką osobę lub takie osoby i określa zakres obowiązku każdej z nich.
 
-3a. Sąd restrukturyzacyjny może zabezpieczyć powództwo przez ustanowienie zakazu zbywania lub obciążania składników majątkowych objętych powództwem.
+4. Na postanowienie, o którym mowa w ust. 2 i 3, przysługuje zażalenie.
 
-4. Na postanowienie, o którym mowa w ust. 2, przysługuje zażalenie do sądu restrukturyzacyjnego drugiej instancji.
-
-5. (uchylony)
+5. Prawomocne postanowienie, o którym mowa w ust. 3, ma moc tytułu wykonawczego.
 
 6. W przypadkach, o których mowa w ust. 1, świadczenie wzajemne osoby trzeciej zwraca się tej osobie, jeżeli znajduje się w masie sanacyjnej oddzielnie od innego majątku lub o ile masa sanacyjna jest nim wzbogacona. Jeżeli świadczenie nie podlega zwrotowi, osoba trzecia może dochodzić wierzytelności. Wierzytelność ta jest objęta układem.
 
@@ -3114,8 +3720,6 @@ Art. 401–447. (pominięte)
 
 5. Do egzekucji świadczeń alimentacyjnych oraz rent z tytułu odszkodowania za wywołanie choroby, niezdolności do pracy, kalectwa lub śmierci oraz z tytułu zamiany uprawnień objętych treścią prawa dożywocia na dożywotnią rentę przepisów ust. 1–4 nie stosuje się.
 
-6. W odniesieniu do roszczeń, co do których jest niedopuszczalne wszczęcie postępowania egzekucyjnego oraz wykonanie postanowienia o zabezpieczeniu roszczenia lub zarządzenia zabezpieczenia roszczenia, z dniem otwarcia postępowania sanacyjnego bieg przedawnienia roszczenia nie rozpoczyna się, a rozpoczęty ulega zawieszeniu przez czas trwania postępowania sanacyjnego.
-
 #### Rozdział 3 Przygotowanie i realizacja planu restrukturyzacyjnego
 
 **Art. 313.**
@@ -3142,22 +3746,11 @@ Art. 401–447. (pominięte)
 
 #### Rozdział 4 Przebieg postępowania sanacyjnego
 
-**Art. 320.**
-
-1. Zarządca sporządza i składa sędziemu-komisarzowi spis wierzytelności w terminie trzydziestu dni od dnia otwarcia postępowania sanacyjnego.
-
-2. W terminie co najmniej trzydziestu dni przed dniem rozpoczęcia procedury głosowania w trybie art. 110 ust. 7 albo przed dniem zwołania zgromadzenia wierzycieli w celu głosowania nad układem zarządca sporządza i składa sędziemu-komisarzowi:
-
-- **1)** test zaspokojenia, o którym mowa w art. 10a ust. 1;
-- **2)** opinię o możliwości wykonania układu zgodnie z propozycjami układowymi złożonymi przez podmioty, o których mowa w art. 155;
-- **3)** test prywatnego wierzyciela lub test prywatnego inwestora, o których mowa w art. 140;
-- **4)** sprawozdanie z wykonania planu restrukturyzacyjnego w toku postępowania sanacyjnego oraz informację o efektach podjętych działań, a także głównych działaniach, które zgodnie z planem restrukturyzacyjnym zostaną podjęte po przyjęciu układu.
-
-3. Uczestnicy postępowania mogą złożyć zastrzeżenia do dokumentów, o których mowa w ust. 2, w terminie dwóch tygodni od dnia ich sporządzenia. Zarządca w terminie dwóch tygodni uwzględnia zastrzeżenia i dokonuje zmian w dokumentach, do których złożono zastrzeżenia, albo składa do akt oświadczenie o nieuwzględnieniu zastrzeżeń wraz z uzasadnieniem. Wniesienie zastrzeżeń nie wpływa na termin rozpoczęcia procedury głosowania oraz na termin zwołania zgromadzenia wierzycieli.
+**Art. 320.** Zarządca sporządza i składa sędziemu-komisarzowi spis wierzytelności w terminie trzydziestu dni od dnia otwarcia postępowania sanacyjnego.
 
 **Art. 321.**
 
-1. Sędzia-komisarz zwołuje zgromadzenie wierzycieli w celu głosowania nad układem niezwłocznie po zrealizowaniu całości lub części planu restrukturyzacyjnego przewidzianej do wykonania w toku postępowania sanacyjnego, niepóźniej jednak niż przed upływem dwunastu miesięcy od dnia otwarcia postępowania sanacyjnego.
+1. Sędzia-komisarz zwołuje zgromadzenie wierzycieli w celu głosowania nad układem niezwłocznie po zrealizowaniu całości lub części planu restrukturyzacyjnego przewidzianej do wykonania w toku postępowania sanacyjnego, nie później jednak niż przed upływem dwunastu miesięcy od dnia otwarcia postępowania sanacyjnego.
 
 2. Jeżeli w terminie, o którym mowa w ust. 1, nie został zatwierdzony spis wierzytelności lub nie została zakończona procedura uzyskiwania zgody na udzielenie pomocy publicznej, sędzia-komisarz zwołuje zgromadzenie wierzycieli w celu głosowania nad układem niezwłocznie po zatwierdzeniu spisu wierzytelności lub zakończeniu procedury uzyskiwania zgody na udzielenie pomocy publicznej.
 
@@ -3169,28 +3762,17 @@ Art. 401–447. (pominięte)
 
 **Art. 323.**
 
-1. Mienie należące do dłużnika i wchodzące w skład masy sanacyjnej oraz składniki majątkowe, o których mowa w art. 307 ust. 1, mogą zostać zbyte przez zarządcę, za zgodą sędziego-komisarza, który określa warunki zbycia. Przepis art. 73 stosuje się.
+1. Składniki mienia należącego do dłużnika i wchodzącego w skład masy sanacyjnej mogą zostać zbyte przez zarządcę, za zgodą sędziego-komisarza, który określa warunki ich zbycia. Przepis art. 73 stosuje się.
 
-2. Skarbowi Państwa reprezentowanemu przez Ministra Obrony Narodowej przysługuje prawo wykupu składników majątku służących do prowadzenia działalności w dziedzinie obronności i bezpieczeństwa państwa.
+2. O zamiarze zbycia składników mienia służących do prowadzenia działalności w dziedzinie obronności i bezpieczeństwa państwa zarządca zawiadamia Ministra Obrony Narodowej, który w terminie tygodnia od dnia zawiadomienia może przedstawić sędziemu-komisarzowi opinię.
 
-2a. O zamiarze sprzedaży składników majątku służących do prowadzenia działalności w dziedzinie obronności i bezpieczeństwa państwa zarządca zawiadamia Ministra Obrony Narodowej, który może przedstawić sędziemukomisarzowi w terminie:
-
-- **1)** tygodnia od dnia zawiadomienia – opinię albo
-- **2)** trzydziestu dni od dnia zawiadomienia – oświadczenie o skorzystaniu z prawa wykupu, o którym mowa w ust. 2.
-
-2b. Wykup, o którym mowa w ust. 2, jest dokonywany po cenie sprzedaży ustalonej na podstawie dowodu z opinii biegłego, przy czym cena nie może być niższa niż kwota możliwa do uzyskania w postępowaniu upadłościowym przy likwidacji na zasadach ogólnych, pomniejszona o koszty postępowania, które należałoby ponieść w związku z likwidacją w takim trybie. Koszty opinii biegłego ponosi Skarb Państwa.
-
-2c. Na postanowienie ustalające cenę sprzedaży, po której jest dokonywany wykup, o którym mowa w ust. 2, zażalenie przysługuje Ministrowi Obrony Narodowej, wierzycielom oraz dłużnikowi.
-
-2d. W przypadku wykupu składników majątku obciążonych zastawem rejestrowym, przepis art. 311 ust. 1ad Prawa upadłościowego stosuje się odpowiednio.
-
-3. Sprzedaż, o której mowa w ust. 1, oraz wykup, o którym mowa w ust. 2, wywołują takie skutki jak sprzedaż dokonana przez syndyka w postępowaniu upadłościowym.
+3. Sprzedaż, o której mowa w ust. 1, wywołuje skutki jak sprzedaż dokonana przez syndyka w postępowaniu upadłościowym.
 
 4. Zarządca sporządza odrębny plan podziału sum uzyskanych ze sprzedaży rzeczy, wierzytelności i praw obciążonych hipoteką, zastawem, zastawem rejestrowym, zastawem skarbowym lub hipoteką morską zgodnie z przepisami Prawa upadłościowego.
 
 5. W przypadku gdy zbycie składników mienia odbywa się w ramach prowadzonej działalności gospodarczej i nie przekracza zakresu zwykłego zarządu, przepisów ust. 1–4 nie stosuje się.
 
-### DZIAŁ V Zakończenie i umorzenie postępowania restrukturyzacyjnego
+### Dział V Zakończenie i umorzenie postępowania restrukturyzacyjnego
 
 **Art. 324.**
 
@@ -3213,7 +3795,7 @@ Art. 401–447. (pominięte)
 
 **Art. 326.**
 
-1. Sąd umarza przyspieszone postępowanie układowe w przypadku stwierdzenia, że suma wierzytelności spornych uprawniających do głosowania nad układem przekracza 15 % sumy wierzytelności uprawniających do głosowania nad układem, z uwzględnieniem art. 165 ust. 3 i 4.
+1. Sąd umarza przyspieszone postępowanie układowe w przypadku stwierdzenia, że suma wierzytelności spornych uprawniających do głosowania nad układem przekracza 15% sumy wierzytelności uprawniających do głosowania nad układem, z uwzględnieniem art. 165 ust. 3 i 4.
 
 2. Sąd umarza postępowanie układowe albo postępowanie sanacyjne, jeżeli dłużnik utracił zdolność do bieżącego zaspokajania kosztów postępowania i zobowiązań powstałych po jego otwarciu oraz zobowiązań, które nie mogą zostać objęte układem. Domniemywa się, że dłużnik utracił zdolność do zaspokajania zobowiązań, jeżeli opóźnienie w ich wykonywaniu przekracza trzydzieści dni.
 
@@ -3226,8 +3808,6 @@ Art. 401–447. (pominięte)
 2. Na postanowienie oddalające wniosek o umorzenie postępowania zażalenie przysługuje wyłącznie wnioskodawcy.
 
 3. Zażalenie wnosi się w terminie dwóch tygodni.
-
-4. Postanowienie o umorzeniu postępowania, postanowienie sądu drugiej instancji w przedmiocie rozpoznania zażalenia na postanowienie o umorzeniu postępowania oraz informację o prawomocności postanowienia o umorzeniu postępowania obwieszcza się.
 
 **Art. 328.**
 
@@ -3259,7 +3839,7 @@ Art. 401–447. (pominięte)
 
 4. Na postanowienie zażalenie przysługuje wyłącznie dłużnikowi, osobie zobowiązanej do ponoszenia kosztów oraz przechowawcy.
 
-5. Jeżeli oddanie na przechowanie ksiąg, korespondencji lub dokumentów jest niemożliwe, podlegają one złożeniu do właściwego archiwum wraz z aktami postępowania restrukturyzacyjnego na koszt dłużnika, z wyjątkiem dokumentacji osobowej i płacowej, do której stosuje się przepis art. 51u ust. 3 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164 oraz z 2025 r. poz. 1173). Koszty te ściąga się w trybie przepisów Kodeksu postępowania cywilnego o egzekucji opłat sądowych. Przepisy ust. 3 i 4 stosuje się odpowiednio.
+5. Jeżeli oddanie na przechowanie ksiąg, korespondencji lub dokumentów jest niemożliwe, podlegają one złożeniu do właściwego archiwum wraz z aktami postępowania restrukturyzacyjnego na koszt dłużnika, z wyjątkiem dokumentacji osobowej i płacowej, do której stosuje się przepis art. 51u ust. 3 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2011 r. Nr 123, poz. 698, z późn. zm.). Koszty te ściąga się w trybie przepisów Kodeksu postępowania cywilnego o egzekucji opłat sądowych. Przepisy ust. 3 i 4 stosuje się odpowiednio.
 
 **Art. 332.**
 
@@ -3275,7 +3855,7 @@ Art. 401–447. (pominięte)
 
 2. W innych postępowaniach niż określone w ust. 1 dłużnik wstępuje w miejsce zarządcy. Przepis ust. 1 zdanie drugie stosuje się odpowiednio.
 
-### DZIAŁ VI Uproszczony wniosek o ogłoszenie upadłości
+### Dział VI Uproszczony wniosek o ogłoszenie upadłości
 
 **Art. 334.**
 
@@ -3291,9 +3871,9 @@ Art. 401–447. (pominięte)
 
 **Art. 337.** Uproszczony wniosek o ogłoszenie upadłości rozpoznaje sąd upadłościowy zgodnie z przepisami Prawa upadłościowego.
 
-## TYTUŁ III Przepisy z zakresu międzynarodowego postępowania restrukturyzacyjnego
+## Tytuł III Przepisy z zakresu międzynarodowego postępowania restrukturyzacyjnego
 
-### DZIAŁ I Przepisy ogólne
+### Dział I Przepisy ogólne
 
 **Art. 338.** Przepisów niniejszego tytułu nie stosuje się, jeżeli umowa międzynarodowa, której Rzeczpospolita Polska jest stroną, albo prawo organizacji międzynarodowej, której Rzeczpospolita Polska jest członkiem, stanowi inaczej.
 
@@ -3307,7 +3887,7 @@ Art. 401–447. (pominięte)
 
 **Art. 341.** W sprawach nieuregulowanych przepisami niniejszego tytułu przepisy Kodeksu postępowania cywilnego dotyczące międzynarodowego postępowania cywilnego stosuje się odpowiednio.
 
-### DZIAŁ II Jurysdykcja krajowa
+### Dział II Jurysdykcja krajowa
 
 **Art. 342.**
 
@@ -3321,7 +3901,7 @@ Art. 401–447. (pominięte)
 
 **Art. 344.** Ustanowienie przez sąd zagraniczny zarządcy zagranicznego do podejmowania czynności w Rzeczypospolitej Polskiej nie wyłącza jurysdykcji krajowej sądów polskich.
 
-### DZIAŁ III Współpraca z sądami zagranicznymi i zarządcami zagranicznymi
+### Dział III Współpraca z sądami zagranicznymi i zarządcami zagranicznymi
 
 **Art. 345.** Sąd i sędzia-komisarz mogą porozumiewać się bezpośrednio z sądem zagranicznym i zarządcą zagranicznym, w szczególności przez telefon, faks lub pocztę elektroniczną.
 
@@ -3331,19 +3911,27 @@ Art. 401–447. (pominięte)
 
 **Art. 348.** W ramach współpracy z sądem zagranicznym i zarządcą zagranicznym sąd i sędzia-komisarz mogą podejmować działania, które zapewniają sprawne prowadzenie postępowań restrukturyzacyjnych, w szczególności przekazywać oraz zwracać się o informacje o:
 
-## TYTUŁ IV Odrębne postępowania restrukturyzacyjne
+- **1)** majątku dłużnika i miejscu jego położenia, jak również informacje o postępowaniach sądowych, administracyjnych, sądowoadministracyjnych i przed sądami polubownymi dotyczących dłużnika;
+- **2)** sposobie zabezpieczenia i restrukturyzacji zobowiązań;
+- **3)** zaspokojeniu poszczególnych wierzycieli.
 
-### DZIAŁ I Postępowanie restrukturyzacyjne wobec deweloperów
+## Tytuł IV Odrębne postępowania restrukturyzacyjne
 
-**Art. 349.** Przepisy niniejszego działu stosuje się w przypadku wszczęcia postępowania restrukturyzacyjnego wobec dewelopera w rozumieniu art. 5 pkt 1 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. z 2024 r. poz. 695, z 2025 r. poz. 758, 1077, 1167 i 1669 oraz z 2026 r. poz. 27).
+### Dział I Postępowanie restrukturyzacyjne wobec deweloperów
+
+**Art. 349.** Przepisy niniejszego działu stosuje się w przypadku wszczęcia postępowania restrukturyzacyjnego wobec dewelopera w rozumieniu ustawy z dnia 16 września 2011 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego (Dz. U. Nr 232, poz. 1377 oraz z 2015 r. poz. 978).
 
 **Art. 350.** Ilekroć w przepisach niniejszego działu jest mowa o:
+
+- **1)** nabywcy – należy przez to rozumieć osobę fizyczną, osobę prawną, a także jednostkę organizacyjną niebędącą osobą prawną, której odrębna ustawa przyznaje zdolność prawną, wobec której deweloper zobowiązał się do przeniesienia prawa, o którym mowa w art. 1 ustawy z dnia 16 września 2011 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego, i która zobowiązała się do spełnienia świadczenia pieniężnego na rzecz dewelopera na poczet ceny nabycia tego prawa;
+- **2)** przeniesieniu własności lokalu – należy przez to rozumieć przeniesienie własności lokalu mieszkalnego, a także przeniesienie własności nieruchomości gruntowej zabudowanej domem jednorodzinnym lub użytkowania wieczystego nieruchomości gruntowej i własności domu jednorodzinnego na niej posadowionego stanowiącego odrębną nieruchomość;
+- **3)** umowie deweloperskiej – należy przez to rozumieć umowę między dłużnikiem a nabywcą, której przedmiotem jest przeniesienie prawa, o którym mowa w art. 1 ustawy z dnia 16 września 2011 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego.
 
 **Art. 351.** Wobec dewelopera nie prowadzi się postępowania o zatwierdzenie układu, z wyjątkiem układu częściowego, jeżeli nie są nim objęte wierzytelności nabywców oraz wierzytelności zabezpieczone na nieruchomości, na której jest prowadzone przedsięwzięcie deweloperskie.
 
 **Art. 352.** Postępowanie określone w niniejszym dziale prowadzi się tak, aby doprowadzić do zaspokojenia nabywców w drodze przeniesienia na nich własności lokali, o ile racjonalne względy na to pozwolą.
 
-**Art. 353.** Nabywcy w liczbie stanowiącej co najmniej 20 % liczby nabywców w ramach przedsięwzięcia deweloperskiego prowadzonego przez dłużnika mogą zgłosić propozycje układowe w terminie trzydziestu dni od dnia otwarcia postępowania restrukturyzacyjnego.
+**Art. 353.** Nabywcy w liczbie stanowiącej co najmniej 20% liczby nabywców w ramach przedsięwzięcia deweloperskiego prowadzonego przez dłużnika mogą zgłosić propozycje układowe w terminie trzydziestu dni od dnia otwarcia postępowania restrukturyzacyjnego.
 
 **Art. 354.**
 
@@ -3402,9 +3990,9 @@ Art. 401–447. (pominięte)
 
 3. Środki pieniężne uzyskane z dopłat przechowywane przez zarządcę zgodnie z ust. 2 po umorzeniu postępowania sanacyjnego wyłącza się od egzekucji sądowej i administracyjnej prowadzonej przeciwko dłużnikowi.
 
-**Art. 361.** Jeżeli nieruchomość, na której jest prowadzone przedsięwzięcie deweloperskie lub zadanie inwestycyjne, jest obciążona hipoteką, której przysługuje pierwszeństwo przed roszczeniami chociażby jednego nabywcy, a wierzyciel hipoteczny wyraził zgodę, o której mowa w art. 25 ust. 1 pkt 1 lub 2 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym, lub zobowiązał się do jej udzielenia, zgodnie z art. 76 ust. 4 zdanie drugie ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2025 r. poz. 341, 1669, 1792 i 1793 oraz z 2026 r. poz. 119), zgoda taka lub zobowiązanie do jej udzielenia pozostają w mocy na warunkach w nich określonych, przy czym warunek wykonania zobowiązania nabywcy względem dłużnika uznaje się za spełniony w przypadku wykonania zobowiązania do rąk zarządcy.
+**Art. 361.** Jeżeli nieruchomość, na której jest prowadzone przedsięwzięcie deweloperskie, jest obciążona hipoteką, której przysługuje pierwszeństwo przed roszczeniami chociażby jednego nabywcy, a wierzyciel zabezpieczony hipoteką wyraził zgodę na bezobciążeniowe wyodrębnienie lokalu mieszkalnego, o której mowa w art. 22 ust. 1 pkt 17 ustawy z dnia 16 września 2011 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego, zgodnie z art. 76 ust. 4 zdanie drugie ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2013 r. poz. 707, z późn. zm.), zgoda taka pozostaje w mocy na warunkach w niej określonych, przy czym warunek wykonania zobowiązania nabywcy względem dłużnika uznaje się za spełniony w przypadku wykonania zobowiązania do rąk zarządcy.
 
-### DZIAŁ II Postępowanie restrukturyzacyjne wobec emitentów obligacji
+### Dział II Postępowanie restrukturyzacyjne wobec emitentów obligacji
 
 **Art. 362.**
 
@@ -3418,7 +4006,7 @@ Art. 401–447. (pominięte)
 
 1. Do reprezentowania praw obligatariuszy sąd ustanawia kuratora. Kuratorem może być również bank, z którym dłużnik zawarł umowę o reprezentowanie obligatariuszy wobec emitenta. Obligatariusze mogą działać w postępowaniu restrukturyzacyjnym również osobiście lub przez pełnomocnika, jeżeli zostali dopuszczeni do udziału w postępowaniu przez sędziego-komisarza. Sędzia-komisarz dopuszcza obligatariuszy do udziału w postępowaniu po wykazaniu, że przysługują im prawa z obligacji.
 
-2. Jeżeli dla zabezpieczenia praw z obligacji ustanowiono hipotekę na majątku emitenta, prawa i obowiązki obligatariuszy zabezpieczonych hipoteką w postępowaniu restrukturyzacyjnym wykonuje administrator hipoteki, o którym mowa w art. 31 ust. 4 ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2025 r. poz. 1667).
+2. Jeżeli dla zabezpieczenia praw z obligacji ustanowiono hipotekę na majątku emitenta, prawa i obowiązki obligatariuszy zabezpieczonych hipoteką w postępowaniu restrukturyzacyjnym wykonuje administrator hipoteki, o którym mowa w art. 31 ust. 4 ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. poz. 238).
 
 **Art. 364.** Do kuratora, o którym mowa w niniejszym dziale, przepisy art. 68 ust. 4 i art. 69–71 oraz przepisy o sprawozdaniach nadzorcy sądowego stosuje się odpowiednio.
 
@@ -3445,23 +4033,2223 @@ Art. 401–447. (pominięte)
 
 2. W przypadku gdy obligatariusze głosują na zgromadzeniu wierzycieli osobiście lub przez pełnomocnika, siłę głosów kuratora pomniejsza się o wartość wierzytelności głosujących obligatariuszy, a liczbę przysługujących kuratorowi głosów – o liczbę głosujących obligatariuszy.
 
-### DZIAŁ III (uchylony)
+### Dział III Postępowanie restrukturyzacyjne wobec banków i spółdzielczych kas oszczędnościowo-kredytowych
 
-## TYTUŁ V Przepisy karne
+#### Rozdział 1 Przepisy ogólne
 
-**Art. 399.** Kto, będąc dłużnikiem lub osobą uprawnioną do reprezentowania dłużnika, dostarcza nadzorcy, zarządcy lub sędziemu-komisarzowi nieprawdziwych informacji w celu ich wykorzystania w postępowaniu restrukturyzacyjnym lub zataja przed nimi informacje mające istotne znaczenie dla przeprowadzenia postępowania restrukturyzacyjnego lub nie udostępnia posiadanych przez siebie danych lub dokumentów pozwalających na wykonanie obowiązku, o którym mowa w art. 56 ust. 1 pkt 2 lub ust. 7 oraz art. 70 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, a także art. 17 ust. 1 lub 2 oraz art. 19 ust. 3 rozporządzenia nr 596/2014, podlega karze pozbawienia wolności do lat 3.
+**Art. 368.**
+
+1. Restrukturyzację banku uregulowaną niniejszą ustawą przeprowadza się wyłącznie w postępowaniu układowym.
+
+2. Wniosek o otwarcie postępowania układowego wobec banku może zgłosić wyłącznie Komisja Nadzoru Finansowego.
+
+3. W postępowaniu układowym wobec banku przepisów art. 268 i art. 269 nie stosuje się.
+
+4. W postanowieniu o otwarciu postępowania układowego wobec banku wyznacza się zarządcę.
+
+**Art. 369.**
+
+1. Przed otwarciem postępowania układowego wobec banku, sąd wysłuchuje co do podstaw otwarcia postępowania oraz co do osoby zarządcy:
+
+- **1)** przedstawiciela Komisji Nadzoru Finansowego;
+- **2)** prezesa oraz innych członków ostatniego zarządu albo zarządu komisarycznego, albo likwidatora banku, którego dotyczy wniosek.
+
+2. W przypadku postępowania dotyczącego postępowania układowego wobec banku będącego podmiotem zależnym od Skarbu Państwa, sąd wysłuchuje również przedstawiciela ministra właściwego do spraw Skarbu Państwa.
+
+3. Sąd może odstąpić od wysłuchania prezesa oraz innych członków zarządu banku, jeżeli ich wysłuchanie spowodowałoby zwłokę w rozpoznaniu sprawy.
+
+**Art. 370.**
+
+1. W postanowieniu o otwarciu postępowania układowego sąd ustanawia kuratora do reprezentowania banku w postępowaniu układowym.
+
+2. Do kuratora przepisy art. 68 ust. 4 i art. 69–71 stosuje się.
+
+**Art. 371.** Sprawozdania, o których mowa w art. 31–33, zarządca przekazuje do wiadomości Komisji Nadzoru Finansowego.
+
+**Art. 372.** Z dniem otwarcia postępowania układowego:
+
+- **1)** organy zarządzające i nadzorcze banku ulegają rozwiązaniu;
+- **2)** wygasają zarząd komisaryczny, powołanie likwidatora oraz uprawnienia kuratora ustanowionego na podstawie art. 144 ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2015 r. poz. 128, 559 i 978);
+- **3)** wygasają uprawnienia osób wchodzących w skład organów banku do odpraw pieniężnych, jak też do wynagrodzenia za okres po otwarciu postępowania układowego.
+
+**Art. 373.**
+
+1. Z dniem otwarcia postępowania układowego ulegają rozwiązaniu umowy:
+
+- **1)** rachunku bankowego;
+- **2)** kredytu i pożyczki, jeżeli do dnia otwarcia postępowania układowego nie nastąpiło oddanie środków pieniężnych do dyspozycji kredytobiorcy lub pożyczkobiorcy;
+- **3)** poręczenia, gwarancji bankowych i akredytyw, jeżeli do dnia otwarcia postępowania układowego bank nie otrzymał prowizji z tytułu tych czynności;
+- **4)** o udostępnienie skrytek sejfowych oraz umowy przechowania, z tym że wydanie przedmiotów i papierów wartościowych następuje w terminie uzgodnionym z oddającym na przechowanie.
+
+2. Oprocentowanie rachunku bankowego, o którym mowa w ust. 1 pkt 1, nalicza się do dnia otwarcia postępowania układowego.
+
+**Art. 374.**
+
+1. Propozycje układowe mogą złożyć również akcjonariusze lub członkowie reprezentujący dwie trzecie kapitału zakładowego banku w formie spółki akcyjnej lub funduszu udziałowego banku spółdzielczego, oraz bank zrzeszający, którego akcjonariuszem jest bank spółdzielczy.
+
+2. Przed zatwierdzeniem układu sąd zasięga opinii Komisji Nadzoru Finansowego.
+
+**Art. 375.**
+
+1. Restrukturyzację spółdzielczej kasy oszczędnościowo-kredytowej, uregulowaną niniejszą ustawą, przeprowadza się wyłącznie w postępowaniu układowym.
+
+2. Wniosek o otwarcie postępowania układowego wobec spółdzielczej kasy oszczędnościowo-kredytowej może zgłosić wyłącznie Komisja Nadzoru Finansowego.
+
+3. Propozycje układowe mogą złożyć również członkowie spółdzielczej kasy oszczędnościowo-kredytowej reprezentujący dwie trzecie funduszu udziałowego kasy.
+
+4. Przepisy art. 368–374 stosuje się odpowiednio.
+
+#### Rozdział 2 Postępowanie restrukturyzacyjne wobec banków hipotecznych
+
+**Art. 376.**
+
+1. Do reprezentowania praw posiadaczy listów zastawnych sąd ustanawia kuratora. Przed ustanowieniem kuratora sąd zasięga opinii Komisji Nadzoru Finansowego co do osoby kuratora.
+
+2. Posiadacze listów zastawnych mogą działać w postępowaniu układowym również osobiście lub przez pełnomocnika, jeżeli zostali dopuszczeni do udziału w postępowaniu układowym przez sędziego-komisarza. Sędzia-komisarz dopuszcza posiadaczy listów zastawnych do udziału w postępowaniu układowym po wykazaniu, że przysługują im prawa z listów zastawnych.
+
+**Art. 377.** Do kuratora, o którym mowa w niniejszym dziale, przepisy art. 68 ust. 4 i art. 69–71 oraz przepisy o sprawozdaniach nadzorcy sądowego stosuje się odpowiednio.
+
+**Art. 378.**
+
+1. Zarządca udziela kuratorowi wszelkich potrzebnych informacji.
+
+2. Kurator może przeglądać księgi i dokumenty dłużnika.
+
+3. Na zgromadzeniu wierzycieli kurator ma prawo głosu tylko w sprawach, które mogą mieć wpływ na prawa posiadaczy listów zastawnych.
+
+**Art. 379.** W spisie wierzytelności zarządca ujmuje łącznie posiadaczy listów zastawnych, wskazując sumę:
+
+- **1)** nominalną nieumorzonych do dnia otwarcia postępowania układowego listów zastawnych, których termin płatności przypada przed tym dniem, oraz sumę niezapłaconych odsetek;
+- **2)** listów zastawnych oraz odsetek płatnych po dniu otwarcia postępowania układowego oraz premii przewidzianej w planie.
+
+**Art. 380.**
+
+1. Przy zawieraniu układu kurator głosuje sumą wierzytelności posiadaczy listów zastawnych objętych układem, przy czym przysługuje mu jeden głos od każdej sumy, która wynika z podziału sumy innych wierzytelności uprawniających do głosowania przez liczbę wierzycieli, którzy reprezentują te wierzytelności.
+
+2. W przypadku gdy posiadacze listów zastawnych głosują na zgromadzeniu wierzycieli osobiście lub przez pełnomocnika, siłę głosów kuratora pomniejsza się o wartość wierzytelności głosujących posiadaczy listów zastawnych, a liczbę przysługujących kuratorowi głosów – o liczbę głosujących posiadaczy listów zastawnych.
+
+#### Rozdział 3 Postępowanie restrukturyzacyjne wobec instytucji kredytowych, banków zagranicznych oraz banków krajowych prowadzących działalność za granicą
+
+##### Oddział 1 Przepisy ogólne
+
+**Art. 381.** Przepisy niniejszego rozdziału stosuje się w przypadku otwarcia:
+
+- **1)** postępowania układowego wobec banku krajowego, jeżeli prowadzi on działalność również za granicą Rzeczypospolitej Polskiej w co najmniej jednym innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym;
+- **2)** w Rzeczypospolitej Polskiej postępowania układowego wobec banku zagranicznego, jeżeli bank zagraniczny prowadzi działalność w Rzeczypospolitej Polskiej oraz w co najmniej jednym innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym.
+
+**Art. 382.** Ilekroć w niniejszym rozdziale jest mowa o banku krajowym, banku zagranicznym, instytucji kredytowej, oddziale banku krajowego za granicą i oddziale banku zagranicznego, należy przez to rozumieć instytucje określone odpowiednio w art. 4 ust. 1 pkt 1, 2, 17, 19 i 20 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.
+
+**Art. 383.** Sądom polskim nie przysługuje jurysdykcja w sprawach restrukturyzacyjnych dotyczących instytucji kredytowych mających siedzibę w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym prowadzących działalność gospodarczą albo posiadających majątek w Rzeczypospolitej Polskiej.
+
+**Art. 384.** W skład masy układowej banku krajowego wchodzi również mienie dłużnika znajdujące się na terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym.
+
+##### Oddział 2 Postępowanie
+
+**Art. 385.**
+
+1. Sąd, który otworzył postępowanie układowe wobec banku krajowego lub banku zagranicznego, powiadamia o tym niezwłocznie właściwe organy państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, w którym znajduje się oddział banku krajowego za granicą albo inny oddział banku zagranicznego, informując o skutkach otwarcia postępowania układowego.
+
+2. Jeżeli otwarcie postępowania, o którym mowa w ust. 1, może mieć wpływ na prawa osób trzecich w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym albo jeżeli takim osobom przysługuje zażalenie na postanowienie o otwarciu postępowania układowego, postanowienie obwieszcza się w Dzienniku Urzędowym Unii Europejskiej oraz w dwóch czasopismach o zasięgu ogólnokrajowym w każdym państwie, w którym znajduje się oddział banku. Termin do wniesienia zażalenia liczy się od dnia obwieszczenia w Dzienniku Urzędowym Unii Europejskiej.
+
+3. Obwieszczenia, o którym mowa w ust. 2, dokonuje się w języku urzędowym lub jednym z języków urzędowych państwa, w którym jest dokonywane. W obwieszczeniu określa się cel i podstawy prawne otwarcia postępowania układowego, termin wniesienia zażalenia oraz adres sądu właściwego do jego rozpoznania wraz z adresem sądu, za pośrednictwem którego wnosi się zażalenie.
+
+4. Jeżeli sąd polski lub właściwy krajowy organ administracji uzna za konieczne wdrożenie na terytorium Rzeczypospolitej Polskiej jednego lub więcej środków służących reorganizacji, w szczególności postępowania układowego lub innego podobnego postępowania w stosunku do instytucji kredytowej prowadzącej działalność na tym terytorium, informuje o tym właściwe organy państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, w którym znajduje się siedziba instytucji kredytowej.
+
+**Art. 386.**
+
+1. Zarządca wzywa do zgłaszania wierzytelności wierzycieli mających miejsce zamieszkania, miejsce zwykłego pobytu albo siedzibę w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, w którym znajduje się siedziba instytucji kredytowej.
+
+2. Wezwanie do zgłaszania wierzytelności przez wierzycieli mających miejsce zamieszkania, miejsce zwykłego pobytu albo siedzibę w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym zawiera nagłówek o treści: „Wezwanie do zgłaszania wierzytelności. Termin zgłoszenia”, sporządzony we wszystkich językach urzędowych Unii Europejskiej oraz języku norweskim i języku islandzkim. Wezwanie wskazuje termin zgłoszenia wierzytelności, skutki jego uchybienia, zawiera informację, czy wierzyciele posiadający wierzytelności uprzywilejowane lub zabezpieczone rzeczowo muszą dokonać zgłoszenia wierzytelności, a także określa obowiązek załączenia dowodów stwierdzających istnienie wierzytelności.
+
+3. Wierzyciel mający miejsce zamieszkania, miejsce zwykłego pobytu albo siedzibę w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym może zgłosić wierzytelność w języku urzędowym lub jednym z języków urzędowych państwa, w którym ma miejsce zamieszkania, miejsce zwykłego pobytu albo siedzibę, jednakże co najmniej nagłówek „Zgłoszenie wierzytelności” wyraża się w języku polskim. Sąd może zażądać uwierzytelnionego tłumaczenia zgłoszenia na język polski.
+
+**Art. 387.** Wierzyciele banku krajowego lub banku zagranicznego, mający miejsce zamieszkania, miejsce zwykłego pobytu albo siedzibę w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, mają w postępowaniu takie same prawa, jak wierzyciele krajowi.
+
+**Art. 388.** Zarządca regularnie, nie rzadziej niż co sześć miesięcy, informuje wierzycieli, których miejsce zwykłego pobytu, miejsce zamieszkania albo siedziba znajdują się w innych państwach członkowskich Unii Europejskiej lub w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym, o czynnościach podjętych w postępowaniu układowym w okresie objętym informacją.
+
+##### Oddział 3 Prawo właściwe oraz skutki otwarcia postępowania układowego
+
+**Art. 389.** W postępowaniu układowym wszczętym w Rzeczypospolitej Polskiej stosuje się prawo polskie, o ile przepisy niniejszego oddziału nie stanowią inaczej.
+
+**Art. 390.**
+
+1. Stosunki pracy pracowników zatrudnionych na terytorium innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym podlegają prawu właściwemu dla umowy o pracę.
+
+2. Uznanie danej rzeczy za nieruchomość ocenia się według prawa miejsca położenia rzeczy.
+
+3. Do umów, których przedmiotem jest korzystanie z nieruchomości położonej na terytorium innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym albo nabycie takiej nieruchomości, stosuje się prawo państwa, w którym nieruchomość jest położona.
+
+4. Prawa dotyczące nieruchomości położonej na terytorium innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym oraz statku morskiego lub powietrznego, wpisanych do rejestru, podlegają prawu państwa, w którym jest prowadzony rejestr.
+
+**Art. 391.**
+
+1. Otwarcie postępowania układowego nie narusza praw wierzycieli i osób trzecich ciążących na rzeczy i innym mieniu dłużnika położonych na terytorium innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, nie wyłączając zorganizowanych części tego mienia, w szczególności prawa do rozporządzania mieniem w celu zaspokojenia należności lub prawa do zaspokojenia należności z pożytków, które mienie przynosi, prawa zastawu i hipoteki, prawa do żądania wydania mienia od osób, we władaniu których się ono znajduje wbrew woli uprawnionego oraz prawa do powierniczego korzystania z mienia.
+
+2. Do praw i roszczeń osobistych, wpisanych do ksiąg wieczystych i innych rejestrów publicznych, których realizacja prowadzi do powstania praw wymienionych w ust. 1, przepis ust. 1 stosuje się.
+
+3. Przepisy ust. 1 i 2 nie wyłączają możliwości żądania w drodze powództwa stwierdzenia nieważności czynności prawnej lub uznania za bezskuteczną czynności prawnej dokonanej z pokrzywdzeniem wierzycieli.
+
+**Art. 392.**
+
+1. Zastrzeżenie w umowie sprzedaży prawa własności na rzecz sprzedawcy nie wygasa wskutek otwarcia postępowania układowego wobec banku krajowego będącego nabywcą przedmiotu umowy, jeżeli w dniu otwarcia postępowania układowego przedmiot umowy znajdował się na terytorium innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym.
+
+2. Otwarcie postępowania układowego wobec banku krajowego będącego zbywcą składnika mienia nie może stanowić podstawy do odstąpienia od umowy sprzedaży, jeżeli wydanie przedmiotu sprzedaży nastąpiło przed otwarciem postępowania układowego, a w dniu otwarcia postępowania układowego przedmiot sprzedaży znajdował się za granicą.
+
+3. Przepisy ust. 1 i 2 nie wyłączają możliwości żądania w drodze powództwa stwierdzenia nieważności czynności prawnej lub uznania za bezskuteczną czynności prawnej dokonanej z pokrzywdzeniem wierzycieli.
+
+**Art. 393.**
+
+1. Wykonywanie praw, których powstanie, istnienie lub zbycie wymaga dokonania wpisu do ksiąg lub rejestrów, ujawnienia na rachunku albo złożenia do centralnego depozytu, podlega prawu państwa, w którym księgi lub rejestry, rachunki albo depozyty są prowadzone.
+
+2. Prawo odkupu podlega prawu właściwemu dla zobowiązań umownych, mającemu zastosowanie do umowy, z której prawo to wynika.
+
+3. Do umów zawieranych w ramach transakcji na rynku regulowanym w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi stosuje się prawo właściwe dla zobowiązań umownych, mające zastosowanie do transakcji zawieranych na tym rynku.
+
+**Art. 394.** Czynność kompensowania podlega prawu właściwemu dla zobowiązań umownych, mającemu zastosowanie do umowy o kompensowanie.
+
+**Art. 395.** Otwarcie postępowania układowego nie narusza prawa wierzyciela do potrącenia swej wierzytelności z wierzytelnością dłużnika, jeżeli takie potrącenie jest dopuszczalne według prawa właściwego dla wierzytelności dłużnika.
+
+**Art. 396.** Skuteczność i ważność czynności prawnej rozporządzającej w stosunku do nieruchomości, statku morskiego lub powietrznego, podlegających wpisowi do rejestru, albo w stosunku do praw, których powstanie, istnienie lub zbycie wymaga dokonania wpisu do ksiąg lub rejestrów, ujawnienia na rachunku albo złożenia do centralnego depozytu, dokonanej przez dłużnika po otwarciu postępowania układowego, podlega prawu państwa, w którym nieruchomość jest położona lub w którym są prowadzone księgi, rejestry, rachunki albo depozyty.
+
+**Art. 397.** Przepisów o nieważności i bezskuteczności czynności prawnej dokonanej z pokrzywdzeniem wierzycieli nie stosuje się w przypadku, gdy prawo właściwe dla tej czynności nie przewiduje bezskuteczności czynności dokonanych z pokrzywdzeniem wierzycieli.
+
+**Art. 398.** Wpływ otwarcia postępowania układowego na postępowanie sądowe toczące się przed sądem państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym ocenia się według prawa państwa, w którym toczy się postępowanie.
+
+## Tytuł V Przepisy karne
+
+**Art. 399.** Kto, będąc dłużnikiem lub osobą uprawnioną do reprezentowania dłużnika, dostarcza nadzorcy, zarządcy lub sędziemu-komisarzowi nieprawdziwych informacji w celu ich wykorzystania w postępowaniu restrukturyzacyjnym lub zataja przed nimi informacje mające istotne znaczenie dla przeprowadzenia postępowania restrukturyzacyjnego lub nie udostępnia posiadanych przez siebie danych lub dokumentów pozwalających na wykonanie obowiązku, o którym mowa w art. 56 ust. 1, 5 i 7 oraz art. 70 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, podlega karze pozbawienia wolności do lat 3.
 
 **Art. 400.** Kto, będąc dłużnikiem albo osobą uprawnioną do reprezentowania dłużnika, nie wydaje zarządcy ksiąg rachunkowych lub innych dokumentów dotyczących jego majątku, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
 
-## TYTUŁ VI Zmiany w przepisach obowiązujących, przepisy przejściowe i przepis końcowy
+## Tytuł VI Zmiany w przepisach obowiązujących, przepisy przejściowe i przepis końcowy
 
-### DZIAŁ I Zmiany w przepisach obowiązujących
+### Dział I Zmiany w przepisach obowiązujących
 
-### DZIAŁ II Przepisy przejściowe
+**Art. 401.** W ustawie z dnia 28 kwietnia 1936 r. – Prawo wekslowe (Dz. U. Nr 37, poz. 282, z 2006 r. Nr 73, poz. 501 oraz z 2012 r. poz. 1529) wprowadza się następujące zmiany:
 
-**Art. 448.** Przepisy o skutkach wszczęcia postępowania co do osoby, majątku i zobowiązań dłużnika lub upadłego stosuje się również do zdarzeń prawnych, które miały miejsce przed dniem wejścia w życie ustawy.
+- **1)** w art. 43 pkt 2 i 3 otrzymują brzmienie: „
+- **2)** jeżeli otwarto postępowanie restrukturyzacyjne albo jeżeli ogłoszono upadłość trasata bez względu, czy weksel przyjął, czy nie, albo jeżeli trasat zaprzestał płacenia długów, choćby to zaprzestanie nie zostało stwierdzone orzeczeniem sądowym, lub też jeżeli przeprowadzono bezskutecznie egzekucję z jego majątku;
+- **3)** jeżeli otwarto postępowanie restrukturyzacyjne albo jeżeli ogłoszono upadłość wystawcy wekslu, co do którego istnieje zakaz przedstawienia do przyjęcia. ” ;
+- **2)** w art. 44 ustęp szósty otrzymuje brzmienie: „ W przypadku otwarcia postępowania restrukturyzacyjnego albo ogłoszenia upadłości trasata, bez względu, czy weksel przyjął, czy nie, zarówno jak w przypadku otwarcia postępowania restrukturyzacyjnego albo ogłoszenia upadłości wystawcy wekslu, co do którego istnieje zakaz przedstawienia do przyjęcia, posiadacz wekslu może wykonywać zwrotne poszukiwanie już na podstawie orzeczenia, którem otwarto postępowanie restrukturyzacyjne albo którem ogłoszono upadłość. ” .
 
-**Art. 449.** W sprawach, w których przed dniem wejścia w życie ustawy wpłynął wniosek o ogłoszenie upadłości, stosuje się przepisy dotychczasowe.
+**Art. 402.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 87 § 1 otrzymuje brzmienie: „
+
+§ 1. Pełnomocnikiem może być adwokat lub radca prawny, w sprawach własności przemysłowej także rzecznik patentowy, a w sprawach restrukturyzacji i upadłości także osoba posiadająca licencję doradcy restrukturyzacyjnego, a ponadto osoba sprawująca zarząd majątkiem lub interesami strony oraz osoba pozostająca ze stroną w stałym stosunku zlecenia, jeżeli przedmiot sprawy wchodzi w zakres tego zlecenia, współuczestnik sporu, jak również rodzice, małżonek, rodzeństwo lub zstępni strony oraz osoby pozostające ze stroną w stosunku przysposobienia. ” ;
+
+- **2)** w art. 174: w § 1: – pkt 4 otrzymuje brzmienie: „ 4) jeżeli postępowanie dotyczy masy upadłości, masy układowej lub masy sanacyjnej i ogłoszono upadłość lub wszczęto wtórne postępowanie upadłościowe albo ustanowiono zarządcę w postępowaniu restrukturyzacyjnym; ” , – dodaje się pkt 5 w brzmieniu: „ 5) jeżeli ustanowiono zarządcę przymusowego w postępowaniu w przedmiocie ogłoszenia upadłości lub zarządcę tymczasowego w postępowaniu o otwarcie postępowania sanacyjnego, a postępowanie dotyczy majątku objętego zabezpieczeniem. ” , § 3 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+§ 3. W przypadkach, o których mowa w § 1 pkt 4 i 5, sąd wezwie syndyka, zarządcę przymusowego, zarządcę tymczasowego albo zarządcę do udziału w sprawie. ” ;
+
+- **3)** w art. 180 w § 1 pkt 5 otrzymuje brzmienie: „
+- **5)** w przypadku: ustanowienia zarządcy przymusowego w postępowaniu w przedmiocie ogłoszenia upadłości – z chwilą ustalenia osoby pełniącej funkcję zarządcy przymusowego, ogłoszenia upadłości strony lub wszczęcia wtórnego postępowania upadłościowego, z wyjątkiem określonym w art. 145 ust. 1 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2015 r. poz. 233 i 978) – z chwilą ustalenia osoby pełniącej funkcję syndyka, ustanowienia zarządcy tymczasowego w postępowaniu o otwarcie postępowania sanacyjnego – z chwilą ustalenia osoby pełniącej funkcję zarządcy tymczasowego, ustanowienia zarządcy w postępowaniu restrukturyzacyjnym – z chwilą ustalenia osoby pełniącej funkcję zarządcy. ” ;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **4)** w art. 1025 dodaje się § 5 w brzmieniu: „
+
+§ 5. Roszczenia nabywcy wynikające z odstąpienia od umowy deweloperskiej, o której mowa w art. 3 pkt 5 ustawy z dnia 16 września 2011 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego (Dz. U. Nr 232, poz. 1377 oraz z 2015 r. poz. 978), lub z przekształcenia roszczenia z umowy deweloperskiej w toku postępowania restrukturyzacyjnego lub upadłościowego, podlegają zaspokojeniu z kwoty uzyskanej z egzekucji z nieruchomości, na której prowadzone jest przedsięwzięcie deweloperskie, na takich samych zasadach, jak roszczenie z umowy deweloperskiej, z pierwszeństwem wynikającym z ujawnienia w księdze wieczystej przysługującego nabywcy roszczenia z umowy deweloperskiej także w przypadku, gdy wpis o ujawnieniu tego roszczenia został wykreślony. ” ;
+
+- **5)** w art. 1026 po § 1 dodaje się § 11 w brzmieniu: „
+
+§ 11. Jeżeli z kwoty uzyskanej z egzekucji zaspokojeniu podlegają zarówno wierzytelności zabezpieczone hipoteką, jak i prawa lub roszczenia ciążące na nieruchomości, o pierwszeństwie między hipoteką a tymi prawami lub roszczeniami rozstrzyga chwila, od której liczy się skutki wpisu hipoteki, prawa lub roszczenia do księgi wieczystej. ” ;
+
+- **6)** w art. 106410 § 1 otrzymuje brzmienie: „
+
+§ 1. Sąd powołuje na zarządcę osobę fizyczną lub prawną wskazaną przez strony spośród osób posiadających licencję doradcy restrukturyzacyjnego. ” .
+
+**Art. 403.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2014 r. poz. 1619, z późn. zm.) w art. 115 po § 5 dodaje się § 5a i 5b w brzmieniu: „
+
+§ 5a. Jeżeli z kwoty uzyskanej z egzekucji zaspokojeniu podlegają zarówno wierzytelności zabezpieczone hipoteką, jak i prawa lub roszczenia ciążące na nieruchomości, o pierwszeństwie między hipoteką a tymi prawami lub roszczeniami rozstrzyga chwila, od której liczy się skutki wpisu hipoteki, prawa lub roszczenia do księgi wieczystej.
+
+§ 5b. Roszczenia nabywcy wynikające z odstąpienia od umowy deweloperskiej, o której mowa w art. 3 pkt 5 ustawy z dnia 16 września 2011 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego (Dz. U. Nr 232, poz. 1377 oraz z 2015 r. poz. 978), lub z przekształcenia roszczenia z umowy deweloperskiej w toku postępowania restrukturyzacyjnego lub upadłościowego, podlegają zaspokojeniu z kwoty uzyskanej z egzekucji z nieruchomości, na której prowadzone jest przedsięwzięcie deweloperskie, na takich samych zasadach, jak roszczenie z umowy deweloperskiej, z pierwszeństwem wynikającym z ujawnienia w księdze wieczystej przysługującego nabywcy roszczenia z umowy deweloperskiej także w przypadku, gdy wpis o ujawnieniu tego roszczenia został wykreślony. ” .
+
+**Art. 404.** W ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2013 r. poz. 707, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 19 ust. 3 otrzymuje brzmienie: „
+
+3. W przypadku wpisu roszczenia nabywcy, do którego nie stosuje się przepisów ustawy z dnia 16 września 2011 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego (Dz. U. Nr 232, poz. 1377 oraz z 2015 r. poz. 978), o wybudowanie budynku, wyodrębnienie lokalu mieszkalnego i przeniesienie prawa własności tego lokalu oraz praw niezbędnych do korzystania z lokalu na nabywcę, albo przeniesienie na nabywcę własności nieruchomości wraz z domem jednorodzinnym lub użytkowania wieczystego nieruchomości gruntowej i własności domu jednorodzinnego stanowiącego odrębną nieruchomość lub przeniesienie ułamkowej części własności nieruchomości, wraz z prawem do wyłącznego korzystania z części nieruchomości służącej zaspokajaniu potrzeb mieszkaniowych oraz roszczenia przyszłego, bieg terminu do wykreślenia takich roszczeń liczy się od dnia, w którym stały się one wymagalne. ” ;
+
+- **2)** w art. 76 dodaje się ust. 5 w brzmieniu: „
+
+5. W razie podziału nieruchomości hipoteka obciążająca nieruchomość nie obciąża nieruchomości utworzonych przez podział, które wydzielono w wyniku zadośćuczynienia roszczeniu ujawnionemu w księdze wieczystej przed powstaniem hipoteki. ” .
+
+**Art. 405.** W ustawie z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2011 r. Nr 123, poz. 698, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 51p uchyla się ust. 6;
+- **2)** w art. 51u: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. W przypadku postawienia pracodawcy w stan likwidacji lub ogłoszenia jego upadłości, odpowiednio likwidator lub syndyk masy upadłości wskazuje podmiot prowadzący działalność w dziedzinie przechowywania dokumentacji, któremu zostanie ona przekazana do dalszego przechowywania, zapewniając na ten cel środki finansowe na czas, jaki pozostał do końca 50-letniego okresu przechowywania dokumentacji liczonego od dnia:
+
+- **1)** zakończenia pracy u danego pracodawcy – dla dokumentacji osobowej;
+- **2)** wytworzenia – dla dokumentacji płacowej. ” , ust. 3 otrzymuje brzmienie: „
+    - **b)**
+
+3. W przypadku stwierdzenia przez sąd rejestrowy, na wniosek pracodawcy lub syndyka masy upadłości podlegającego wpisowi do Krajowego Rejestru Sądowego lub do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, niemożności zapewnienia środków na koszty dalszego przechowywania, dokumentację przejmuje archiwum państwowe, utworzone w tym celu przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego. ” , ust. 5 i 6 otrzymują brzmienie: „
+
+- **c)**
+
+5. Przepisy art. 51p ust. 7–9 stosuje się odpowiednio.
+
+6. Likwidator lub syndyk masy upadłości porządkuje dokumentację przed jej przekazaniem do dalszego przechowywania. Do porządkowania dokumentacji stosuje się odpowiednio przepisy wydane na podstawie art. 5 ust. 2, z wyłączeniem obowiązku opatrywania poszczególnych stron dokumentacji kolejnym numerem. ” , dodaje się ust. 7 w brzmieniu: „
+
+- **d)**
+
+7. Likwidator lub syndyk masy upadłości przekazuje dokumentację do dalszego przechowywania przed wykreśleniem pracodawcy z Krajowego Rejestru Sądowego lub Centralnej Ewidencji i Informacji o Działalności Gospodarczej. ” ;
+
+- **3)** w art. 51z ust. 6 otrzymuje brzmienie: „
+
+6. Przepisy art. 51p ust. 7–9 stosuje się odpowiednio. ” .
+
+**Art. 406.** W ustawie z dnia 24 maja 1989 r. o rozpoznawaniu przez sądy spraw gospodarczych (Dz. U. z 2015 r. poz. 127) w art. 2 w ust. 2 pkt 6 otrzymuje brzmienie: „
+
+- **6)** z zakresu prawa upadłościowego i restrukturyzacyjnego; ” .
+
+**Art. 407.** W ustawie z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2014 r. poz. 164, z późn. zm.) w art. 92 dodaje się § 8–10 w brzmieniu: „
+
+§ 8. Jeżeli akt notarialny dotyczy umowy deweloperskiej, o której mowa w art. 3 pkt 5 ustawy z dnia 16 września 2011 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego (Dz. U. Nr 232, poz. 1377 oraz z 2015 r. poz. 978), a deweloper jest właścicielem lub wieczystym użytkownikiem nieruchomości, notariusz sporządzający akt notarialny jest obowiązany zamieścić w tym akcie wniosek o wpis w księdze wieczystej roszczenia nabywcy, o którym mowa w art. 23 ust. 2 tej ustawy, zawierający dane wymagane przepisami ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego. Przepis § 4 zdanie drugie stosuje się.
+
+§ 9. Jeżeli akt notarialny dotyczy umowy deweloperskiej, o której mowa w art. 3 pkt 5 ustawy, o której mowa w § 8, a deweloper nie jest właścicielem lub wieczystym użytkownikiem nieruchomości, notariusz sporządzający akt notarialny jest obowiązany zamieścić w tym akcie wniosek o wpis w księdze wieczystej roszczenia nabywcy, o którym mowa w art. 23 ust. 2 tej ustawy, zawierający dane wymagane przepisami ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, jeżeli deweloper przedłoży zgodę właściciela lub wieczystego użytkownika nieruchomości na wpis. Przepis § 4 zdanie drugie stosuje się. W przypadku braku zgody notariusz poucza nabywcę o skutkach braku wpisu i treści § 10.
+
+§ 10. Jeżeli przed przeniesieniem własności lub użytkowania wieczystego nieruchomości, na której prowadzone albo planowane jest przedsięwzięcie deweloperskie, o którym mowa w art. 3 pkt 6 ustawy, o której mowa w § 8, deweloper zawierał dotyczące tego przedsięwzięcia deweloperskiego umowy deweloperskie, o których mowa w art. 3 pkt 5 tej ustawy, a roszczenia nabywców nie zostały wpisane do księgi wieczystej wskutek braku zgody, o której mowa w § 9, w akcie notarialnym obejmującym przeniesienie własności lub użytkowania wieczystego nieruchomości na dewelopera notariusz jest obowiązany zamieścić wniosek dewelopera o wpis w księdze wieczystej roszczeń nabywców lokali mieszkalnych lub domów jednorodzinnych wynikających z umów deweloperskich, chyba że wynikające z nich zobowiązania wygasły. Przepis § 4 zdanie drugie stosuje się. ” .
+
+**Art. 408.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 5a w pkt 36 kropkę zastępuje się średnikiem i dodaje się pkt 37 w brzmieniu: „
+- **37)** postępowaniu restrukturyzacyjnym – oznacza to postępowanie restrukturyzacyjne w rozumieniu ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. poz. 978). ” ;
+- **2)** w art. 14 w ust. 3 pkt 6 otrzymuje brzmienie: „
+- **6)** kwoty stanowiącej równowartość umorzonych zobowiązań, w tym także umorzonych pożyczek (kredytów), jeżeli umorzenie zobowiązań jest związane z postępowaniem restrukturyzacyjnym lub postępowaniem upadłościowym; ” ;
+- **3)** w art. 21 w ust. 1 w pkt 141 kropkę zastępuje się średnikiem i dodaje się pkt 142 w brzmieniu: „
+- **142)** kwoty umorzonych zobowiązań niezwiązanych z pozarolniczą działalnością gospodarczą, jeżeli umorzenie zobowiązań związane jest z postępowaniem upadłościowym. ” ;
+- **4)** w art. 22f ust. 1 i 2 otrzymują brzmienie: „
+
+1. Podatnicy, z wyjątkiem tych, którzy ze względu na ogłoszoną upadłość nie prowadzą działalności gospodarczej, dokonują odpisów amortyzacyjnych od wartości początkowej środków trwałych oraz wartości niematerialnych i prawnych, o których mowa w art. 22a ust. 1 i ust. 2 pkt 1–3 oraz w art. 22b.
+
+2. Podatnicy będący armatorami, z wyjątkiem tych, którzy ze względu na ogłoszoną upadłość nie prowadzą działalności gospodarczej, mogą dokonywać odpisów amortyzacyjnych od zamówionego przez nich taboru transportu morskiego w budowie, o którym mowa w art. 22a ust. 2 pkt 4. ” ;
+
+- **5)** w art. 23: w ust. 1 pkt 40 otrzymuje brzmienie: „
+    - **a)**
+
+- **40)** umorzonych pożyczek, jeżeli ich umorzenie nie jest związane z postępowaniem restrukturyzacyjnym lub postępowaniem upadłościowym; ” , w ust. 2 pkt 2 otrzymuje brzmienie: „
+    - **b)**
+
+- **2)** postanowieniem sądu o: oddaleniu wniosku o ogłoszenie upadłości, jeżeli majątek niewypłacalnego dłużnika nie wystarcza na zaspokojenie kosztów postępowania lub wystarcza jedynie na zaspokojenie tych kosztów, lub umorzeniu postępowania upadłościowego, jeżeli zachodzi okoliczność, o której mowa w lit. a, lub zakończeniu postępowania upadłościowego, albo ” , w ust. 3 pkt 1 i 2 otrzymują brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **c)**
+
+- **1)** dłużnik zmarł, został wykreślony z Centralnej Ewidencji i Informacji o Działalności Gospodarczej, postawiony w stan likwidacji lub została ogłoszona jego upadłość albo
+- **2)** zostało otwarte postępowanie restrukturyzacyjne lub został złożony wniosek o zatwierdzenie układu w postępowaniu o zatwierdzenie układu, o którym mowa w ustawie z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne, lub zostało wszczęte postępowanie ugodowe w rozumieniu przepisów o restrukturyzacji finansowej przedsiębiorstw i banków, albo ” ;
+- **6)** w art. 26c w ust. 9 pkt 2 otrzymuje brzmienie: „
+- **2)** zostanie ogłoszona jego upadłość, lub zostanie postawiony w stan likwidacji, albo ” ;
+- **7)** w art. 44 w ust. 7g pkt 1 otrzymuje brzmienie: „
+- **1)** zlikwidowali działalność gospodarczą albo została ogłoszona ich upadłość lub upadłość spółki niebędącej osobą prawną, której są wspólnikami, lub ” .
+
+**Art. 409.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 4a po pkt 5 dodaje się pkt 5a w brzmieniu: „
+- **5a)** postępowaniu restrukturyzacyjnym – oznacza to postępowanie restrukturyzacyjne w rozumieniu ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. poz. 978). ” ;
+- **2)** w art. 12 w ust. 4 w pkt 8 lit. b otrzymuje brzmienie: „ postępowaniem restrukturyzacyjnym, postępowaniem upadłościowym lub ” ;
+    - **b)**
+
+- **3)** w art. 16: w ust. 1 w pkt 43 lit. b otrzymuje brzmienie: „ postępowaniem restrukturyzacyjnym, lub ” , w ust. 2 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **b)**
+
+- **2)** postanowieniem sądu o: oddaleniu wniosku o ogłoszenie upadłości, gdy majątek niewypłacalnego dłużnika nie wystarcza na zaspokojenie kosztów postępowania lub wystarcza jedynie na zaspokojenie tych kosztów, lub umorzeniu postępowania upadłościowego, jeżeli zachodzi okoliczność wymieniona w lit. a, lub zakończeniu postępowania upadłościowego, albo ” , w ust. 2a: – w pkt 1 lit. a i b otrzymują brzmienie: „ a) dłużnik zmarł, został wykreślony z Centralnej Ewidencji i Informacji o Działalności Gospodarczej, postawiony w stan likwidacji lub została ogłoszona jego upadłość albo b) zostało otwarte postępowanie restrukturyzacyjne lub został złożony wniosek o zatwierdzenie układu w postępowaniu o zatwierdzenie układu, o którym mowa w ustawie z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne, lub zostało wszczęte postępowanie ugodowe w rozumieniu przepisów o restrukturyzacji finansowej przedsiębiorstw i banków, albo ” , – w pkt 3 lit. b otrzymuje brzmienie: „ b) zostało otwarte postępowanie restrukturyzacyjne lub został złożony wniosek o zatwierdzenie układu w postępowaniu o zatwierdzenie układu, o którym mowa w ustawie z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne, lub ” ;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **c)**
+
+- **4)** w art. 16f ust. 1 i 2 otrzymują brzmienie: „
+
+1. Podatnicy, z wyjątkiem tych, którzy ze względu na ogłoszoną upadłość nie prowadzą działalności gospodarczej, dokonują odpisów amortyzacyjnych od wartości początkowej środków trwałych oraz wartości niematerialnych i prawnych, o których mowa w art. 16a ust. 1 i ust. 2 pkt 1–3 oraz w art. 16b.
+
+2. Podatnicy będący armatorami, z wyjątkiem tych, którzy ze względu na ogłoszoną upadłość nie prowadzą działalności gospodarczej, mogą dokonywać odpisów amortyzacyjnych od zamówionego przez nich taboru transportu morskiego w budowie, o którym mowa w art. 16a ust. 2 pkt 4. ” ;
+
+- **5)** w art. 18b w ust. 8 pkt 2 otrzymuje brzmienie: „
+- **2)** zostanie ogłoszona jego upadłość lub zostanie postawiony w stan likwidacji, albo ” ;
+- **6)** w art. 25 w ust. 14 pkt 1 otrzymuje brzmienie: „
+- **1)** zostali postawieni w stan likwidacji albo ogłoszona została ich upadłość w okresie korzystania ze zwolnienia albo w pięciu następnych latach podatkowych albo ” .
+
+**Art. 410.** W ustawie z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2011 r. Nr 43, poz. 226, z późn. zm.) w art. 38 w ust. 2 uchyla się pkt 2.
+
+**Art. 411.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 3 w ust. 1 pkt 6 otrzymuje brzmienie: „
+- **6)** kierowniku jednostki – rozumie się przez to członka zarządu lub innego organu zarządzającego, a jeżeli organ jest wieloosobowy – członków tego organu, z wyłączeniem pełnomocników ustanowionych przez jednostkę. W przypadku spółki jawnej i spółki cywilnej za kierownika jednostki uważa się wspólników prowadzących sprawy spółki, w przypadku spółki partnerskiej – wspólników prowadzących sprawy spółki albo zarząd, a w odniesieniu do spółki komandytowej i spółki komandytowo-akcyjnej – komplementariuszy prowadzących sprawy spółki. W przypadku osoby fizycznej prowadzącej działalność gospodarczą za kierownika jednostki uważa się tę osobę; do osób wykonujących wolne zawody przepis ten stosuje się odpowiednio. Za kierownika jednostki uważa się również likwidatora, a także syndyka lub zarządcę ustanowionego w postępowaniu restrukturyzacyjnym; ” ;
+- **2)** w art. 12 w ust. 3 uchyla się pkt 3;
+- **3)** w art. 26 w ust. 5 uchyla się pkt 1;
+- **4)** w art. 29 ust. 3 otrzymuje brzmienie: „
+
+3. Otwarcie postępowania restrukturyzacyjnego lub zmiana formy prawnej jednostki nie stanowią przeszkody do uznania, że działalność będzie kontynuowana. ” ;
+
+- **5)** w art. 35b w ust. 1 pkt 1 i 2 otrzymują brzmienie: „
+- **1)** należności od dłużników postawionych w stan likwidacji lub w stan upadłości oraz w stosunku do których zostało otwarte postępowanie restrukturyzacyjne lub został złożony wniosek o zatwierdzenie układu w postępowaniu o zatwierdzenie układu – do wysokości należności nieobjętej gwarancją lub innym zabezpieczeniem należności, zgłoszonej likwidatorowi lub sędziemu-komisarzowi w postępowaniu upadłościowym lub umieszczonej w spisie wierzytelności w postępowaniu restrukturyzacyjnym;
+- **2)** należności od dłużników w przypadku oddalenia wniosku o ogłoszenie upadłości, jeżeli majątek dłużnika nie wystarcza lub jedynie wystarcza na zaspokojenie kosztów postępowania upadłościowego – w pełnej wysokości należności; ” ;
+- **6)** w art. 36: ust. 2d otrzymuje brzmienie: „
+    - **a)**
+
+2d. Do zobowiązań bezwarunkowo umorzonych w wyniku postępowania restrukturyzacyjnego przepis ust. 2c stosuje się odpowiednio. ” , ust. 4 otrzymuje brzmienie: „
+
+- **b)**
+
+4. Przepis ust. 3 może być odpowiednio stosowany przez jednostki objęte postępowaniem restrukturyzacyjnym. ” .
+
+**Art. 412.** W ustawie z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym (Dz. U. z 2014 r. poz. 1866) wprowadza się następujące zmiany:
+
+- **1)** w art. 2: w pkt 4: – lit. a otrzymuje brzmienie: „ a) w przypadku banku krajowego – wydanie przez Komisję Nadzoru Finansowego decyzji o zawieszeniu działalności banku i ustanowieniu zarządu komisarycznego, o ile nie został on ustanowiony wcześniej, oraz wystąpienie do właściwego sądu z wnioskiem o ogłoszenie upadłości lub z wnioskiem o otwarcie postępowania układowego, ” , – lit. c otrzymuje brzmienie: „ c) w przypadku oddziału banku zagranicznego, wystąpienie jednego z poniższych zdarzeń: – wydanie przez sąd postanowienia o uznaniu orzeczenia o wszczęciu zagranicznego postępowania upadłościowego, o którym mowa w art. 379 pkt 1 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2015 r. poz. 233 i 978), wszczętego wobec banku zagranicznego, który prowadzi działalność w Rzeczypospolitej Polskiej w formie oddziału, – wszczęcie postępowania upadłościowego obejmującego majątek banku zagranicznego położonego na terytorium Rzeczypospolitej Polskiej, – otwarcie postępowania układowego obejmującego majątek banku zagranicznego położony na terytorium Rzeczypospolitej Polskiej; ” , w pkt 4a: – lit. a otrzymuje brzmienie: „ a) w przypadku banku krajowego – dzień wskazany w decyzji Komisji Nadzoru Finansowego jako dzień zawieszenia działalności banku i ustanowienia zarządu komisarycznego, o ile nie został on ustanowiony wcześniej, oraz wystąpienia do właściwego sądu z wnioskiem o ogłoszenie upadłości lub z wnioskiem o otwarcie postępowania układowego, ” , – lit. c otrzymuje brzmienie: „ c) w przypadku oddziału banku zagranicznego, dzień wystąpienia jednego z poniższych zdarzeń: – wydania przez sąd postanowienia o uznaniu orzeczenia o wszczęciu zagranicznego postępowania upadłościowego, o którym mowa w art. 379 pkt 1 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe, wszczętego wobec banku zagranicznego, który prowadzi działalność w Rzeczypospolitej Polskiej w formie oddziału, – wszczęcia postępowania upadłościowego obejmującego majątek banku zagranicznego położonego na terytorium Rzeczypospolitej Polskiej, – otwarcia postępowania układowego obejmującego majątek banku zagranicznego położony na terytorium Rzeczypospolitej Polskiej; ” ;
+    - **a)**
+    - **b)**
+
+- **2)** w art. 16a ust. 2 otrzymuje brzmienie: „
+
+2. W przypadku gdy wielkość zobowiązań z tytułu środków gwarantowanych przewyższa sumę środków, o których mowa w ust. 1, Fundusz dokonuje wypłat środków gwarantowanych ze środków funduszu własnego Funduszu przeznaczonego do ewidencjonowania środków odzyskanych z mas upadłości i mas układowych banków. ” ;
+
+- **3)** w art. 26d ust. 1 otrzymuje brzmienie: „
+
+1. Z tytułu wypłat środków gwarantowanych Funduszowi przysługuje roszczenie do podmiotu objętego obowiązkowym systemem gwarantowania, co do którego nastąpiło spełnienie warunku gwarancji o zapłatę kwot odpowiadających wartości sumy środków gwarantowanych, z wyłączeniem środków, o których mowa w art. 16a ust. 1 pkt 1. Funduszowi przysługuje roszczenie także po ogłoszeniu upadłości podmiotu albo otwarciu wobec niego postępowania układowego. ” ;
+
+- **4)** art. 26e otrzymuje brzmienie: „ Aktywa, które stanowiły fundusz ochrony środków gwarantowanych podmiotu objętego systemem gwarantowania, wobec którego nastąpiło spełnienie warunku gwarancji, nie wchodzą do masy upadłości ani masy układowej podmiotu objętego systemem gwarantowania. ” ;
+- **5)** art. 26k otrzymuje brzmienie: „ W przypadku ogłoszenia upadłości albo otwarcia postępowania układowego w trakcie dokonywania przez zarząd komisaryczny wypłat, o których mowa w art. 26j ust. 1, obowiązki związane z kontynuacją wypłat realizuje zarządca albo syndyk. ” ;
+- **6)** art. 26m otrzymuje brzmienie: „ Środki na wypłatę środków gwarantowanych, przekazane podmiotowi, o którym mowa w art. 26l ust. 1 pkt 1, na podstawie uchwały Zarządu Funduszu, nie mogą być wykorzystane na żaden inny cel niż wypłata środków gwarantowanych. Środki te nie wchodzą do masy upadłości ani masy układowej oraz nie podlegają egzekucji sądowej ani administracyjnej. ” ;
+- **7)** w art. 26p: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Roszczenia deponentów z tytułu gwarancji, nieujawnione w ramach listy deponentów, Fundusz zaspokaja w terminie 20 dni roboczych od dnia otrzymania uzupełnionej listy deponentów przez zarządcę albo syndyka lub po ustaleniu listy lub spisu wierzytelności lub po stwierdzeniu prawomocnym orzeczeniem sądu wierzytelności wobec podmiotu objętego obowiązkowym systemem gwarantowania, w stosunku do którego nastąpiło spełnienie warunku gwarancji. ” , ust. 3 otrzymuje brzmienie: „
+
+- **b)**
+
+3. W przypadku dokonania wypłat środków gwarantowanych, o których mowa w ust. 1, po ogłoszeniu upadłości banku albo po otwarciu wobec niego postępowania układowego, Fundusz zgłasza sędziemu-komisarzowi wierzytelność z tego tytułu. ” ;
+
+- **8)** w art. 38c ust. 4 otrzymuje brzmienie: „
+
+4. Informacje otrzymane przez Fundusz w ramach współpracy od podmiotów, o których mowa w ust. 1, nie mogą być udostępniane innym osobom, z wyjątkiem syndyka albo zarządcy w prowadzonym wobec podmiotu objętego systemem gwarantowania postępowaniu upadłościowym albo układowym. Ograniczenie to nie dotyczy przypadków, w których informacje nie są objęte ochroną prawną na terytorium Rzeczypospolitej Polskiej lub na terytorium państwa, w którym funkcjonuje system gwarantowania przekazujący informacje. ” ;
+
+- **9)** w art. 38l pkt 3 i 4 otrzymują brzmienie: „
+- **3)** spełnienie warunku gwarancji – wydanie przez Komisję Nadzoru Finansowego decyzji o zawieszeniu działalności kasy, ustanowieniu zarządcy komisarycznego, o ile nie został on ustanowiony wcześniej, oraz wystąpienie do właściwego sądu z wnioskiem o ogłoszenie upadłości kasy lub z wnioskiem o otwarcie wobec niej postępowania układowego;
+- **4)** dzień spełnienia warunku gwarancji – dzień wskazany w decyzji Komisji Nadzoru Finansowego jako dzień zawieszenia działalności kasy i ustanowienia zarządcy komisarycznego, o ile nie został on ustanowiony wcześniej, oraz wystąpienia do właściwego sądu z wnioskiem o ogłoszenie upadłości kasy lub z wnioskiem o otwarcie wobec niej postępowania układowego; ” ;
+- **10)** w art. 38s ust. 1 otrzymuje brzmienie: „
+
+1. Z tytułu wypłaty środków gwarantowanych Funduszowi przysługuje roszczenie do kasy, w przypadku której nastąpiło spełnienie warunku gwarancji, o zapłatę kwot odpowiadających wysokości sumy środków gwarantowanych. Funduszowi przysługuje roszczenie także po ogłoszeniu upadłości kasy lub otwarciu wobec niej postępowania układowego. ” ;
+
+- **11)** w art. 38t: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Na Fundusz przechodzą wierzytelności przysługujące deponentowi w stosunku do masy upadłości albo w stosunku do kasy, wobec której prowadzone jest postępowanie układowe, w wysokości środków gwarantowanych. ” , ust. 3 otrzymuje brzmienie: „
+
+- **b)**
+
+3. Kwoty uzyskane przez Fundusz z masy upadłości lub masy układowej kasy zasilają fundusz kas. ” ;
+
+- **12)** art. 38y otrzymuje brzmienie: „ W przypadku ogłoszenia upadłości albo otwarcia postępowania układowego w trakcie dokonywania przez zarządcę komisarycznego wypłat, o których mowa w art. 38x ust. 1, obowiązki związane z kontynuacją wypłat realizuje zarządca lub syndyk. ” ;
+- **13)** art. 38za otrzymuje brzmienie: „ Środki na wypłatę środków gwarantowanych, przekazane podmiotowi, o którym mowa w art. 38z ust. 1 pkt 1, na podstawie uchwały Zarządu Funduszu, nie mogą być wykorzystane na żaden inny cel niż wypłata środków gwarantowanych. Środki te nie wchodzą do masy upadłości ani masy układowej oraz nie podlegają egzekucji sądowej ani administracyjnej. ” ;
+- **14)** art. 38zd otrzymuje brzmienie: „
+
+1. Roszczenia deponentów z tytułu gwarancji, nieujawnione w ramach listy deponentów, Fundusz zaspokaja w terminie 20 dni roboczych od dnia otrzymania listy deponentów uzupełnionej przez zarządcę albo syndyka lub po ustaleniu listy lub spisu wierzytelności lub po stwierdzeniu prawomocnym orzeczeniem sądu wierzytelności wobec kasy, w przypadku której nastąpiło spełnienie warunku gwarancji.
+
+2. W przypadku dokonania wypłaty środków gwarantowanych, o których mowa w ust. 1, po ogłoszeniu upadłości kasy albo po otwarciu wobec niej postępowania układowego Zarząd Funduszu zgłasza sędziemu-komisarzowi wierzytelność z tego tytułu. ” .
+
+**Art. 413.** W ustawie z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa (Dz. U. z 2012 r. poz. 1224) wprowadza się następujące zmiany:
+
+- **1)** w art. 5a w ust. 3 pkt 4 otrzymuje brzmienie: „
+- **4)** dokonywana w postępowaniu likwidacyjnym, upadłościowym lub restrukturyzacyjnym; ” ;
+- **2)** w art. 7b: w ust. 1 pkt 3 otrzymuje brzmienie: „
+    - **a)**
+
+- **3)** postępowań upadłościowych i restrukturyzacyjnych, w których Skarb Państwa, reprezentowany przez ministra właściwego do spraw Skarbu Państwa, występuje w charakterze wierzyciela; ” , w ust. 2 pkt 3 otrzymuje brzmienie: „
+    - **b)**
+
+- **3)** siedziby upadłego lub dłużnika – w przypadku, o którym mowa w ust. 1 pkt 3; ” .
+
+**Art. 414.** W ustawie z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2015 r. poz. 747) w art. 3 w ust. 3 pkt 4 otrzymuje brzmienie: „
+
+- **4)** przedsiębiorstw, w stosunku do których toczy się postępowanie restrukturyzacyjne – do chwili uprawomocnienia się układu; ” .
+
+**Art. 415.** W ustawie z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów (Dz. U. z 2009 r. Nr 67, poz. 569, Nr 69, poz. 595 i Nr 215, poz. 1663) w art. 4 w ust. 1 pkt 3 otrzymuje brzmienie: „
+
+- **3)** wierzytelności objętej układem w postępowaniu upadłościowym albo restrukturyzacyjnym ” .
+
+**Art. 416.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2013 r. poz. 1203, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 4 w ust. 4b: wprowadzenie do wyliczenia otrzymuje brzmienie: „ Centralna Informacja udostępnia bezpłatnie, w ogólnodostępnych sieciach teleinformatycznych, listę podmiotów, wobec których w dziale 6 rejestru przedsiębiorców wpisano informację o ogłoszeniu upadłości albo o otwarciu postępowania restrukturyzacyjnego. Lista zawiera następujące dane: ” , pkt 5–7 otrzymują brzmienie: „
+    - **a)**
+    - **b)**
+
+- **5)** datę wydania orzeczenia o ogłoszeniu upadłości albo o otwarciu postępowania restrukturyzacyjnego;
+- **6)** sygnaturę sprawy i określenie sądu, który ogłosił upadłość albo wydał postanowienie o otwarciu postępowania restrukturyzacyjnego;
+- **7)** datę oraz sposób ukończenia postępowania upadłościowego albo postępowania restrukturyzacyjnego. ” ;
+- **2)** w art. 41 pkt 4 otrzymuje brzmienie: „
+- **4)** informacje o zabezpieczeniu majątku dłużnika w postępowaniu w przedmiocie ogłoszenia upadłości albo w postępowaniu restrukturyzacyjnym przez ustanowienie tymczasowego nadzorcy sądowego lub zarządcy przymusowego i jego zmianach lub o nadzorcy sądowym lub zarządcy ustanowionym w postępowaniu restrukturyzacyjnym, który pełni funkcję po prawomocnym umorzeniu postępowania restrukturyzacyjnego w związku ze złożeniem uproszczonego wniosku o otwarcie postępowania sanacyjnego albo uproszczonego wniosku o ogłoszenie upadłości, zawieszeniu prowadzonych przeciwko dłużnikowi egzekucji, a także o oddaleniu wniosku o ogłoszenie upadłości na podstawie art. 13 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2015 r. poz. 233 i 978); ” ;
+- **3)** w art. 44 w ust. 1 pkt 5 otrzymuje brzmienie: „
+- **5)** informacje o otwarciu postępowania restrukturyzacyjnego, o ogłoszeniu upadłości, o ukończeniu tych postępowań lub o uchyleniu układu, o osobie zarządcy przymusowego, syndyka, nadzorcy sądowego, zarządcy, zarządcy zagranicznego oraz o osobach powołanych w toku postępowania restrukturyzacyjnego albo upadłościowego do reprezentowania dłużnika albo upadłego (reprezentant dłużnika albo upadłego lub przedstawiciel dłużnika albo upadłego); ” ;
+- **4)** w art. 45 ust. 1 i 1a otrzymują brzmienie: „
+
+1. Wpisów w dziale 1 rejestru przedsiębiorców, o których mowa w art. 38 pkt 1 lit. a, dotyczących dodania do firmy oznaczenia „w upadłości” oraz wpisów w dziale 5 i w dziale 6 tego rejestru, o których mowa w art. 44 ust. 1 pkt 5, dokonuje się z urzędu.
+
+1a. Po ogłoszeniu upadłości albo otwarciu postępowania sanacyjnego, w dziale 2 rejestru przedsiębiorców z urzędu wykreśla się wpisy, o których mowa w art. 39 pkt 3. ” ;
+
+- **5)** w art. 55: pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** osoby fizyczne wykonujące działalność gospodarczą, jeżeli ogłoszono ich upadłość lub jeżeli wniosek o ogłoszenie ich upadłości został prawomocnie oddalony na podstawie art. 13 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe albo umorzono prowadzoną przeciwko nim egzekucję sądową lub administracyjną z uwagi na fakt, iż z egzekucji nie uzyska się sumy wyższej od kosztów egzekucyjnych; ” , pkt 2 otrzymuje brzmienie: „
+    - **b)**
+
+- **2)** wspólników ponoszących odpowiedzialność całym swoim majątkiem za zobowiązania spółki, z wyłączeniem komandytariuszy w spółce komandytowej, jeżeli ogłoszono jej upadłość lub jeżeli wniosek o ogłoszenie jej upadłości został prawomocnie oddalony na podstawie art. 13 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe albo umorzono prowadzoną przeciwko nim egzekucję sądową lub administracyjną z uwagi na fakt, iż z egzekucji nie uzyska się sumy wyższej od kosztów egzekucyjnych; ” .
+
+**Art. 417.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613 i 699) wprowadza się następujące zmiany:
+
+- **1)** w art. 116: w § 1 pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** nie wykazał, że: we właściwym czasie zgłoszono wniosek o ogłoszenie upadłości lub w tym czasie zostało otwarte postępowanie restrukturyzacyjne w rozumieniu ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. poz. 978) albo zatwierdzono układ w postępowaniu o zatwierdzenie układu, o którym mowa w ustawie z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne, albo niezgłoszenie wniosku o ogłoszenie upadłości nastąpiło bez jego winy; ” , po § 1 dodaje się § 1a w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **b)**
+
+§ 1a. Jeżeli obowiązek zgłoszenia wniosku o ogłoszenie upadłości powstał i istniał wyłącznie w czasie, gdy prowadzona była egzekucja przez zarząd przymusowy albo przez sprzedaż przedsiębiorstwa na podstawie przepisów Kodeksu postępowania cywilnego, uznaje się, że niezgłoszenie wniosku o ogłoszenie upadłości nastąpiło bez winy członka zarządu, o którym mowa w § 1. ” ;
+
+- **2)** po art. 116a dodaje się art. 116b w brzmieniu: „
+
+§ 1. Likwidatorzy spółki, z wyjątkiem likwidatorów ustanowionych przez sąd, odpowiadają za zaległości podatkowe spółki powstałe w czasie likwidacji.
+
+§ 2. Likwidatorzy innych osób prawnych niż wymienione w art. 116 odpowiadają za zaległości podatkowe tych osób powstałe w czasie likwidacji.
+
+§ 3. Do odpowiedzialności likwidatorów przepisy art. 116 i art. 116a stosuje się odpowiednio. ” .
+
+**Art. 418.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2015 r. poz. 128 i 559) wprowadza się następujące zmiany:
+
+- **1)** w art. 70 w ust. 2 pkt 2 otrzymuje brzmienie: „
+- **2)** przedstawienia niezależnie od zabezpieczenia spłaty kredytu programu naprawy gospodarki podmiotu, którego realizacja zapewni – według oceny banku – uzyskanie zdolności kredytowej w określonym czasie, przy czym programem naprawy gospodarki podmiotu, o którym mowa powyżej, może być w szczególności układ przyjęty w ramach postępowania restrukturyzacyjnego prowadzonego zgodnie z ustawą z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. poz. 978). ” ;
+- **2)** w art. 75 ust. 1 otrzymuje brzmienie: „
+
+1. W przypadku niedotrzymania przez kredytobiorcę warunków udzielenia kredytu albo w przypadku utraty przez kredytobiorcę zdolności kredytowej bank może obniżyć kwotę przyznanego kredytu albo wypowiedzieć umowę kredytu, o ile ustawa z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne nie stanowi inaczej. ” ;
+
+- **3)** w art. 158: ust. 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+1. Jeżeli według bilansu sporządzonego na koniec okresu sprawozdawczego aktywa banku nie wystarczają na zaspokojenie jego zobowiązań, zarząd banku, zarząd komisaryczny lub likwidator powiadamiają o tym niezwłocznie Komisję Nadzoru Finansowego, która podejmuje decyzję o zawieszeniu działalności banku i ustanowieniu zarządu komisarycznego, o ile nie został on ustanowiony wcześniej, oraz jednocześnie podejmuje decyzję o jego przejęciu przez inny bank, za zgodą banku przejmującego, albo występuje do właściwego sądu z wnioskiem o otwarcie postępowania układowego albo o ogłoszenie upadłości. O podjętych decyzjach Komisja Nadzoru Finansowego zawiadamia Bankowy Fundusz Gwarancyjny.
+
+2. Jeżeli z powodów związanych bezpośrednio z sytuacją finansową banku nie reguluje on swoich zobowiązań w zakresie wypłaty środków, o których mowa w art. 2 pkt 2 ustawy o Bankowym Funduszu Gwarancyjnym, wobec deponentów w rozumieniu art. 2 pkt 1 tej ustawy, Komisja Nadzoru Finansowego, w terminie 5 dni roboczych od dnia stwierdzenia tej okoliczności, podejmuje decyzję o zawieszeniu działalności banku i ustanowieniu zarządu komisarycznego, o ile nie został on ustanowiony wcześniej, oraz jednocześnie podejmuje decyzję o jego przejęciu przez inny bank, za zgodą banku przejmującego, albo występuje do właściwego sądu z wnioskiem o otwarcie postępowania układowego albo o ogłoszenie upadłości. O podjętych decyzjach Komisja Nadzoru Finansowego zawiadamia Bankowy Fundusz Gwarancyjny. ” , ust. 4 otrzymuje brzmienie: „
+
+- **b)**
+
+4. Decyzję o zawieszeniu działalności banku i ustanowieniu zarządu komisarycznego oraz przejęciu banku albo wystąpieniu z wnioskiem o otwarcie postępowania układowego albo o ogłoszenie upadłości Komisja Nadzoru Finansowego może podjąć także z własnej inicjatywy, jeżeli nie nastąpi powiadomienie, o którym mowa w ust. 1. ” ;
+
+- **4)** art. 169 otrzymuje brzmienie: „ W związku z likwidacją w trybie art. 138 i art. 147, przejęciem lub upadłością banku, otwarciem wobec niego postępowania układowego albo ustanowieniem zarządu komisarycznego posiadane uprawnienia członków władz banku dotyczące wypłaty odpraw pieniężnych i wynagrodzeń za okres po rozwiązaniu stosunku pracy tracą moc. ” .
+
+**Art. 419.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2015 r. poz. 121 i 689) wprowadza się następujące zmiany:
+
+- **1)** uchyla się art. 25;
+- **2)** w art. 28 w ust. 3 pkt 2 otrzymuje brzmienie: „
+- **2)** sąd oddalił wniosek o ogłoszenie upadłości dłużnika lub umorzył postępowanie upadłościowe z przyczyn, o których mowa w art. 13 i art. 361 pkt 1 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2015 r. poz. 233 i 978); ” ;
+- **3)** art. 31 otrzymuje brzmienie: „ Do należności z tytułu składek stosuje się odpowiednio art. 12, art. 26, art. 29 § 1 i 2, art. 33, art. 33a, art. 33b, art. 51 § 1, art. 55, art. 59 § 1 pkt 1, 3, 4, 8 i 9, art. 60 § 1, art. 61 § 1, art. 62 § 1, 3–5, art. 72 § 1 pkt 1 i 4 i § 2, art. 73 § 1 pkt 1 i 5, art. 77b § 1 i 2, art. 91, art. 93, art. 93a-93c, art. 93e, art. 94, art. 97 § 1, art. 98 § 1 i 2 pkt 1, 2, 5 i 7, art. 100, art. 101, art. 105 § 1 i 2, art. 106 § 1 i 2, art. 107 § 1, 1a, i 2 pkt 2 i 4, art. 108 § 1 i 4, art. 110 § 1, § 2 pkt 2, § 3, art. 111 § 1–4 i 5 pkt 1, art. 112, art. 113, art. 114, art. 115–117, art. 118 § 1 i 2 oraz art. 119 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa. ” .
+
+**Art. 420.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 144, poz. 930, z późn. zm.) w art. 21 w ust. 11 pkt 1 otrzymuje brzmienie: „
+
+- **1)** zlikwidowali działalność gospodarczą albo została ogłoszona ich upadłość lub upadłość spółki, w której są wspólnikami lub ” .
+
+**Art. 421.** W ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2013 r. poz. 1030, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 14 uchyla się § 3;
+- **2)** art. 85 otrzymuje brzmienie: „
+
+§ 1. W przypadku upadłości spółki jej rozwiązanie następuje po zakończeniu postępowania upadłościowego, z chwilą wykreślenia z rejestru. Wniosek o wykreślenie z rejestru składa syndyk.
+
+§ 2. Spółka nie ulega rozwiązaniu, w przypadku gdy postępowanie upadłościowe zostało zakończone w wyniku zaspokojenia wszystkich wierzycieli w całości lub zatwierdzenia układu albo gdy postępowanie upadłościowe zostało uchylone lub umorzone. ” ;
+
+- **3)** w art. 289 § 2 otrzymuje brzmienie: „
+
+§ 2. Spółka nie ulega rozwiązaniu, w przypadku gdy postępowanie upadłościowe zostało zakończone w wyniku zaspokojenia wszystkich wierzycieli w całości lub zatwierdzenia układu albo gdy postępowanie upadłościowe zostało uchylone lub umorzone. ” ;
+
+- **4)** w art. 299: § 2 otrzymuje brzmienie: „
+    - **a)**
+
+§ 2. Członek zarządu może się uwolnić od odpowiedzialności, o której mowa w § 1, jeżeli wykaże, że we właściwym czasie zgłoszono wniosek o ogłoszenie upadłości lub w tym samym czasie wydano postanowienie o otwarciu postępowania restrukturyzacyjnego albo o zatwierdzeniu układu w postępowaniu w przedmiocie zatwierdzenia układu, albo że niezgłoszenie wniosku o ogłoszenie upadłości nastąpiło nie z jego winy, albo że pomimo niezgłoszenia wniosku o ogłoszenie upadłości oraz niewydania postanowienia o otwarciu postępowania restrukturyzacyjnego albo niezatwierdzenia układu w postępowaniu w przedmiocie zatwierdzenia układu wierzyciel nie poniósł szkody. ” , dodaje się § 4 w brzmieniu: „
+
+- **b)**
+
+§ 4. Osoby, o których mowa w § 1, nie ponoszą odpowiedzialności za niezłożenie wniosku o ogłoszenie upadłości w czasie, gdy prowadzona jest egzekucja przez zarząd przymusowy albo przez sprzedaż przedsiębiorstwa, na podstawie przepisów Kodeksu postępowania cywilnego, jeżeli obowiązek złożenia wniosku o ogłoszenie upadłości powstał w czasie prowadzenia egzekucji. ” ;
+
+- **5)** po art. 299 dodaje się art. 2991 w brzmieniu: „
+
+**Art. 2991.** Do likwidatorów spółki z ograniczoną odpowiedzialnością, z wyjątkiem likwidatorów ustanowionych przez sąd, przepis art. 299 stosuje się odpowiednio. ” ;
+
+- **6)** w art. 477 § 2 otrzymuje brzmienie: „
+
+§ 2. Spółka nie ulega rozwiązaniu, w przypadku gdy postępowanie upadłościowe zostało zakończone w wyniku zaspokojenia wszystkich wierzycieli w całości lub zatwierdzenia układu albo gdy postępowanie upadłościowe zostało uchylone lub umorzone. ” .
+
+**Art. 422.** W ustawie z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2014 r. poz. 1804) wprowadza się następujące zmiany:
+
+- **1)** po art. 4a dodaje się art. 4b w brzmieniu: „ Agencja może realizować zadania w zakresie udzielania wsparcia małym i średnim przedsiębiorcom na dostosowanie ich działalności do zmieniających się warunków rynkowych lub przywrócenie tym przedsiębiorcom zdolności do konkurowania na rynku oraz prowadzenie cyklicznych badań pozwalających prognozować zmiany dynamiki kluczowych trendów mikro- i makroekonomicznych zachodzących na poziomie określonych sektorów gospodarczych i regionów. ” ;
+- **2)** w art. 6 w ust. 1 w pkt 10 lit. h otrzymuje brzmienie: „ dostosowanie działalności małych i średnich przedsiębiorców do zmieniających się warunków rynkowych lub przywrócenie tym przedsiębiorcom zdolności do konkurowania na rynku, ” ;
+    - **h)**
+
+- **3)** w art. 6b: uchyla się ust. 3a, po ust. 3a dodaje się ust. 3b w brzmieniu: „
+    - **a)**
+    - **b)**
+
+3b. Do przedsiębiorcy, któremu ma zostać udzielona pomoc, o której mowa w art. 6 ust. 1 pkt 10 lit. h, przepisów ust. 3 pkt 3 lit. a nie stosuje się. ” .
+
+**Art. 423.** W ustawie z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2013 r. poz. 1069) w art. 16f w ust. 1 pkt 3 otrzymuje brzmienie: „
+
+- **3)** podjęto decyzję o likwidacji przedsiębiorcy; ” .
+
+**Art. 424.** W ustawie z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami (Dz. U. z 2013 r. poz. 246 i 1036) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 w pkt 14 lit. a otrzymuje brzmienie: „ podmiotu mającego siedzibę na terytorium Rzeczypospolitej Polskiej, będącego uczestnikiem systemu płatności lub systemu rozrachunku papierów wartościowych, w tym także podlegających prawu innego państwa członkowskiego – zgodnie z ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2015 r. poz. 233 i 978), wydanie przez sąd właściwy w sprawach upadłości postanowienia o ogłoszeniu upadłości, jak również zgodnie z ustawą z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. poz. 978), wydanie przez sąd właściwy w sprawach restrukturyzacji postanowienia o otwarciu postępowania sanacyjnego, układowego albo przyspieszonego postępowania układowego, ” ;
+    - **a)**
+
+- **2)** art. 6a i art. 7 otrzymują brzmienie: „ Jeżeli w wyniku rozliczenia zleceń rozrachunku w jednym systemie przeprowadzany jest rozrachunek w drugim systemie, skutki, o których mowa w art. 136 i art. 137 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe albo w art. 254 i art. 255 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne, wynikające z wprowadzenia zlecenia rozrachunku do pierwszego systemu, mają zastosowanie odpowiednio do wynikających z tego rozliczenia zleceń rozrachunku realizowanych w drugim systemie.
+
+1. W zakresie uregulowanym w ustawie oraz w art. 66, art. 67, art. 80 i art. 135–137 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe albo w art. 242, art. 244, art. 245, art. 254, art. 255 i art. 309 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne skutki ogłoszenia upadłości uczestnika systemu powstają z chwilą otrzymania przez NBP powiadomienia o ogłoszeniu upadłości, otwarciu postępowania restrukturyzacyjnego, wydaniu orzeczenia albo decyzji o likwidacji, zawieszeniu lub ograniczeniu prowadzenia działalności uczestnika, lub informacji o podjęciu innych środków prawnych względem uczestnika skutkujących zawieszeniem lub ograniczeniem realizacji zleceń rozrachunku w systemie dotyczącym tego uczestnika.
+
+2. W przypadku ogłoszenia upadłości albo otwarcia postępowania restrukturyzacyjnego wobec niebędącego uczestnikiem podmiotu prowadzącego system interoperacyjny przepis ust. 1 stosuje się odpowiednio. ” ;
+
+- **3)** w art. 15 ust. 1 i 2 otrzymują brzmienie: „
+
+1. Przepisy art. 4–7 i art. 11–14 ustawy oraz art. 22 ust. 1 pkt 4, art. 66, art. 67, art. 80 i art. 135–137 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe oraz art. 227 ust. 1 pkt 10, art. 242, art. 244, art. 245, art. 254, art. 255 i art. 309 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne stosuje się do systemów rozrachunku papierów wartościowych prowadzonych na podstawie ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, do innych systemów rozrachunku papierów wartościowych prowadzonych przez Krajowy Depozyt Papierów Wartościowych S.A. lub przez spółkę, której Krajowy Depozyt Papierów Wartościowych S.A. przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 6 lub ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, oraz do systemów prowadzonych przez NBP.
+
+2. Przepisy art. 4–7 i art. 11–14 ustawy oraz art. 22 ust. 1 pkt 4, art. 66, art. 67, art. 80 i art. 135–137 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe oraz art. 227 ust. 1 pkt 10, art. 242, art. 244, art. 245, art. 254, art. 255 i art. 309 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne stosuje się także do systemów innych niż systemy wskazane w ust. 1, wskazanych przez ministra właściwego do spraw instytucji finansowych, w drodze rozporządzenia, wydanego po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego oraz KNF. ” .
+
+**Art. 425.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2013 r. poz. 1414, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 13 w ust. 2 pkt 2 otrzymuje brzmienie: „
+- **2)** połączenia, podziału lub przekształcenia, zgodnie z przepisami ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2013 r. poz. 1030, z późn. zm.), albo sprzedaży przedsiębiorstwa, zgodnie z przepisami ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2015 r. poz. 233 i 978), przedsiębiorcy posiadającego zezwolenie na wykonywanie zawodu przewoźnika drogowego lub licencję ” ;
+- **2)** w art. 16: w ust. 1 pkt 3 otrzymuje brzmienie: „
+    - **a)**
+
+- **3)** likwidacji albo postanowienia o ogłoszeniu upadłości przedsiębiorcy, któremu zostało udzielone, chyba że zachodzą okoliczności określone w art. 13 ust. 2; ” , w ust. 2 pkt 4 otrzymuje brzmienie: „
+    - **b)**
+
+- **4)** likwidacji albo postanowienia o ogłoszeniu upadłości przedsiębiorcy, któremu została udzielona, chyba że zachodzą okoliczności określone w art. 13 ust. 2; ” .
+
+**Art. 426.** W ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2013 r. poz. 1393 oraz z 2014 r. poz. 768) w art. 175 w ust. 4 pkt 3 otrzymuje brzmienie: „
+
+- **3)** otwarto likwidację przedsiębiorcy; ” .
+
+**Art. 427.** W ustawie z dnia 23 listopada 2002 r. o restrukturyzacji zobowiązań koncesyjnych operatorów stacjonarnych publicznych sieci telefonicznych (Dz. U. Nr 233, poz. 1956, z 2005 r. Nr 267, poz. 2258 oraz z 2015 r. poz. 238) w art. 14 ust. 1 otrzymuje brzmienie: „ 1. W przypadku gdy operator jest podmiotem, wobec którego został przyjęty oraz zatwierdzony układ w rozumieniu ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. poz. 978) lub ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2015 r. poz. 233 i 978), przewidujący zmniejszenie sumy jego długów, wniosek operatora, o którym mowa w art. 13 ust. 3, może być poprzedzony procedurą zmniejszenia sumy zobowiązań operatora z tytułu rat opłaty koncesyjnej lub opłaty prolongacyjnej, będących podstawą wyliczenia kwoty zdyskontowanej. ” .
+
+**Art. 428.** W ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2015 r. poz. 233) wprowadza się następujące zmiany:
+
+- **1)** tytuł ustawy otrzymuje brzmienie: „Prawo upadłościowe”;
+- **2)** w art. 1 w ust. 1 uchyla się pkt 5;
+- **3)** w art. 2 po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+1a. Postępowanie uregulowane ustawą wobec osób fizycznych, o których mowa w art. 5, należy prowadzić również tak, aby rzetelny dłużnik uzyskał możliwość oddłużenia. ” ;
+
+- **4)** w art. 6 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
+- **7)** funduszy inwestycyjnych. ” ;
+- **5)** w art. 8 ust. 1 otrzymuje brzmienie: „
+
+1. Wierzyciel może złożyć wniosek o ogłoszenie upadłości osoby fizycznej, która była przedsiębiorcą, także po zaprzestaniu prowadzenia przez nią działalności gospodarczej, jeżeli od dnia wykreślenia z właściwego rejestru nie upłynął rok. Postępowanie toczy się według przepisów tytułu V części trzeciej. ” ;
+
+- **6)** art. 9 otrzymuje brzmienie: „ Wierzyciel może złożyć wniosek o ogłoszenie upadłości osoby fizycznej, która faktycznie prowadziła działalność gospodarczą, nawet wówczas gdy nie dopełniła obowiązku jej zgłoszenia we właściwym rejestrze, jeżeli od dnia zaprzestania prowadzenia działalności nie upłynął rok. Postępowanie toczy się według przepisów tytułu V części trzeciej. ” ;
+- **7)** po art. 9 dodaje się art. 9a i art. 9b w brzmieniu: „ Nie można ogłosić upadłości przedsiębiorcy w okresie od otwarcia postępowania restrukturyzacyjnego do jego zakończenia lub prawomocnego umorzenia.
+
+1. W przypadku złożenia wniosku o ogłoszenie upadłości i wniosku restrukturyzacyjnego, w pierwszej kolejności rozpoznaje się wniosek restrukturyzacyjny.
+
+2. Sąd upadłościowy wstrzymuje rozpoznanie wniosku o ogłoszenie upadłości do czasu wydania prawomocnego orzeczenia w sprawie wniosku restrukturyzacyjnego. Wstrzymanie rozpoznania wniosku o ogłoszenie upadłości nie wyłącza możliwości zabezpieczenia majątku.
+
+3. Jeżeli wstrzymaniu rozpoznania wniosku o ogłoszenie upadłości sprzeciwia się interes ogółu wierzycieli, przepisu ust. 2 nie stosuje się. W takiej sytuacji sąd upadłościowy wydaje postanowienie o przejęciu wniosku o ogłoszenie upadłości i wniosku restrukturyzacyjnego do wspólnego rozpoznania i rozstrzygnięcia jednym postanowieniem. Sąd upadłościowy rozpoznaje wnioski w składzie właściwym dla rozpoznania wniosku o ogłoszenie upadłości.
+
+4. Jeżeli przejęcie wniosku o ogłoszenie upadłości i wniosku restrukturyzacyjnego do wspólnego rozpoznania prowadziłoby do znacznego opóźnienia wydania orzeczenia w przedmiocie ogłoszenia upadłości, ze szkodą dla wierzycieli, a podstawy restrukturyzacji przedstawione przez dłużnika we wniosku restrukturyzacyjnym są znane sądowi upadłościowemu, sąd upadłościowy nie wydaje postanowienia o przejęciu wniosków do wspólnego rozpoznania i rozpoznaje wniosek o ogłoszenie upadłości, o czym zawiadamia sąd restrukturyzacyjny. ” ;
+
+- **8)** w art. 11: ust 1. otrzymuje brzmienie: „
+    - **a)**
+
+1. Dłużnik jest niewypłacalny, jeżeli utracił zdolność do wykonywania swoich wymagalnych zobowiązań pieniężnych. ” , dodaje się ust. 1a w brzmieniu: „
+
+- **b)**
+
+1a. Domniemywa się, że dłużnik utracił zdolność do wykonywania swoich wymagalnych zobowiązań pieniężnych, jeżeli opóźnienie w wykonaniu zobowiązań pieniężnych przekracza trzy miesiące. ” , ust. 2 otrzymuje brzmienie: „
+
+- **c)**
+
+2. Dłużnik będący osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną, jest niewypłacalny także wtedy, gdy jego zobowiązania pieniężne przekraczają wartość jego majątku, a stan ten utrzymuje się przez okres przekraczający dwadzieścia cztery miesiące. ” , dodaje się ust. 3–7 w brzmieniu: „
+
+- **d)**
+
+3. Do majątku, o którym mowa w ust. 2, nie wlicza się składników niewchodzących w skład masy upadłości.
+
+4. Do zobowiązań pieniężnych, o których mowa w ust. 2, nie wlicza się zobowiązań przyszłych, w tym zobowiązań pod warunkiem zawieszającym oraz zobowiązań wobec wspólnika albo akcjonariusza z tytułu pożyczki lub innej czynności prawnej o podobnych skutkach, o których mowa w art. 342 ust. 1 pkt 4.
+
+5. Domniemywa się, że zobowiązania pieniężne dłużnika przekraczają wartość jego majątku, jeżeli zgodnie z bilansem jego zobowiązania, z wyłączeniem rezerw na zobowiązania oraz zobowiązań wobec jednostek powiązanych, przekraczają wartość jego aktywów, a stan ten utrzymuje się przez okres przekraczający dwadzieścia cztery miesiące.
+
+6. Sąd może oddalić wniosek o ogłoszenie upadłości, jeżeli nie ma zagrożenia utraty przez dłużnika zdolności do wykonywania jego wymagalnych zobowiązań pieniężnych w niedługim czasie.
+
+7. Przepisy ust. 2–6 nie mają zastosowania do spółek osobowych określonych w ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2013 r. poz. 1030, z późn. zm.), zwanej dalej „Kodeksem spółek handlowych”, w których co najmniej jednym wspólnikiem odpowiadającym za zobowiązania spółki bez ograniczenia całym swoim majątkiem jest osoba fizyczna. ” ;
+
+- **9)** uchyla się art. 12;
+- **10)** po art. 12 dodaje się art. 12a w brzmieniu: „ Sąd oddali wniosek o ogłoszenie upadłości złożony przez wierzyciela, jeżeli dłużnik wykaże, że wierzytelność ma w całości charakter sporny, a spór zaistniał między stronami przed złożeniem wniosku o ogłoszenie upadłości. ” ;
+- **11)** w art. 13: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Sąd oddali wniosek o ogłoszenie upadłości, jeżeli majątek niewypłacalnego dłużnika nie wystarcza na zaspokojenie kosztów postępowania lub wystarcza jedynie na zaspokojenie tych kosztów. ” , ust. 3 otrzymuje brzmienie: „
+
+- **b)**
+
+3. Jeżeli zostanie uprawdopodobnione, że obciążenia majątku dłużnika są bezskuteczne według przepisów ustawy albo gdy dokonane zostały w celu pokrzywdzenia wierzycieli, jak również jeżeli zostanie uprawdopodobnione, że dłużnik dokonał innych czynności prawnych bezskutecznych według przepisów ustawy, którymi wyzbył się majątku wystarczającego na zaspokojenie kosztów postępowania, a okoliczności sprawy wskazują, że zastosowanie przepisów o bezskuteczności i zaskarżaniu czynności upadłego doprowadzi do uzyskania majątku o wartości przekraczającej przewidywaną wysokość kosztów, przepisów ust. 1 i 2 nie stosuje się. ” , dodaje się ust. 4 w brzmieniu: „
+
+- **c)**
+
+4. Postanowienie o oddaleniu wniosku o ogłoszenie upadłości na podstawie ust. 1 lub 2 obwieszcza się. ” ;
+
+- **12)** uchyla się art. 14–17;
+- **13)** w art. 19: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Sprawy o ogłoszenie upadłości rozpoznaje sąd właściwy dla głównego ośrodka podstawowej działalności dłużnika. ” , po ust. 1 dodaje się ust. 1a-1c w brzmieniu: „
+
+- **b)**
+
+1a. Głównym ośrodkiem podstawowej działalności jest miejsce, w którym dłużnik regularnie zarządza swoją działalnością o charakterze ekonomicznym i które jako takie jest rozpoznawalne dla osób trzecich.
+
+1b. W przypadku osoby prawnej oraz jednostki organizacyjnej nieposiadającej osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną, domniemywa się, że głównym ośrodkiem jej podstawowej działalności jest miejsce siedziby.
+
+1c. W przypadku osoby fizycznej prowadzącej działalność gospodarczą lub zawodową domniemywa się, że głównym ośrodkiem jej podstawowej działalności jest główne miejsce wykonywania działalności gospodarczej lub zawodowej; w przypadku każdej innej osoby fizycznej domniemywa się, że głównym ośrodkiem podstawowej działalności jest miejsce zwykłego pobytu tej osoby. ” , uchyla się ust. 2, ust. 3 otrzymuje brzmienie: „
+
+- **c)**
+- **d)**
+
+3. Jeżeli dłużnik nie ma w Rzeczypospolitej Polskiej głównego ośrodka podstawowej działalności, właściwy jest sąd miejsca zwykłego pobytu albo siedziby dłużnika, a jeżeli dłużnik nie ma w Rzeczypospolitej Polskiej miejsca zwykłego pobytu albo siedziby, właściwy jest sąd, w którego obszarze znajduje się majątek dłużnika. ” , dodaje się ust. 4 w brzmieniu: „
+
+- **e)**
+
+4. Jeżeli okaże się, że właściwy jest inny sąd, sprawę przekazuje się temu sądowi. Na postanowienie o przekazaniu sprawy nie przysługuje zażalenie. Postanowienie to wiąże sąd, któremu sprawa została przekazana. Czynności dokonane w sądzie niewłaściwym pozostają w mocy. ” ;
+
+- **14)** w art. 20: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Wniosek o ogłoszenie upadłości może zgłosić dłużnik lub każdy z jego wierzycieli osobistych. ” , w ust. 2: – pkt 2 otrzymuje brzmienie: „ 2) w stosunku do osób prawnych oraz jednostek organizacyjnych nieposiadających osobowości prawnej, którym odrębna ustawa przyznaje zdolność prawną – każdy, kto na podstawie ustawy, umowy spółki lub statutu ma prawo do prowadzenia spraw dłużnika i do jego reprezentowania, samodzielnie lub łącznie z innymi osobami; ” , – w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „ 8) w stosunku do dłużnika, wobec którego prowadzona jest egzekucja przez zarząd przymusowy albo przez sprzedaż przedsiębiorstwa, na podstawie Kodeksu postępowania cywilnego – zarządca ustanowiony w tym postępowaniu. ” ;
+
+- **b)**
+- **15)** w art. 21: ust. 1–3 otrzymują brzmienie: „
+    - **a)**
+
+1. Dłużnik jest obowiązany, nie później niż w terminie trzydziestu dni od dnia, w którym wystąpiła podstawa do ogłoszenia upadłości, zgłosić w sądzie wniosek o ogłoszenie upadłości.
+
+2. Jeżeli dłużnikiem jest osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną, obowiązek, o którym mowa w ust. 1, spoczywa na każdym, kto na podstawie ustawy, umowy spółki lub statutu ma prawo do prowadzenia spraw dłużnika i do jego reprezentowania, samodzielnie lub łącznie z innymi osobami.
+
+3. Osoby, o których mowa w ust. 1 i 2, ponoszą odpowiedzialność za szkodę wyrządzoną wskutek niezłożenia wniosku w terminie określonym w ust. 1, chyba że nie ponoszą winy. Osoby te mogą uwolnić się od odpowiedzialności, w szczególności jeżeli wykażą, że w terminie określonym w ust. 1 otwarto postępowanie restrukturyzacyjne albo zatwierdzono układ w postępowaniu o zatwierdzenie układu. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+
+- **b)**
+
+3a. W przypadku dochodzenia odszkodowania przez wierzyciela niewypłacalnego dłużnika domniemywa się, że szkoda, o której mowa w ust. 3, obejmuje wysokość niezaspokojonej wierzytelności tego wierzyciela wobec dłużnika. ” , uchyla się ust. 4, dodaje się ust. 5 w brzmieniu: „
+
+- **c)**
+- **d)**
+
+5. Osoby, o których mowa w ust. 1 i 2, nie ponoszą odpowiedzialności za niezłożenie wniosku o ogłoszenie upadłości w czasie, gdy prowadzona jest egzekucja przez zarząd przymusowy albo przez sprzedaż przedsiębiorstwa, na podstawie przepisów Kodeksu postępowania cywilnego, jeżeli obowiązek złożenia wniosku o ogłoszenie upadłości powstał w czasie prowadzenia egzekucji. ” ;
+
+- **16)** w art. 22: w ust. 1 pkt 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+- **1)** imię i nazwisko dłużnika albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jego jednoznaczną identyfikację, miejsce zamieszkania albo siedzibę, adres, a jeżeli dłużnikiem jest spółka osobowa, osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną – imiona i nazwiska reprezentantów w tym likwidatorów, jeżeli są ustanowieni, a ponadto w przypadku spółki osobowej – imiona i nazwiska oraz miejsce zamieszkania wspólników odpowiadających za zobowiązania spółki bez ograniczenia całym swoim majątkiem;
+- **2)** wskazanie miejsca, w którym znajduje się główny ośrodek podstawowej działalności dłużnika; ” , uchyla się ust. 2 i 2a;
+    - **b)**
+
+- **17)** po art. 22 dodaje się art. 22a w brzmieniu: „ Wnioskodawca uiszcza zaliczkę na wydatki w toku postępowania w przedmiocie ogłoszenia upadłości w wysokości jednokrotności przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w trzecim kwartale roku poprzedniego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego i wraz z wnioskiem przedstawia dowód jej uiszczenia. W przypadku braku uiszczenia zaliczki przewodniczący wzywa do uiszczenia zaliczki w terminie tygodnia pod rygorem zwrotu wniosku. ” ;
+- **18)** w art. 23: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Jeżeli wniosek o ogłoszenie upadłości zgłasza dłużnik, do wniosku powinien dołączyć: ” , – pkt 2 otrzymuje brzmienie: „ 2) bilans sporządzony przez dłużnika dla celów postępowania, na dzień przypadający w okresie trzydziestu dni przed dniem złożenia wniosku; ” , – pkt 7 otrzymuje brzmienie: „ 7) informację o postępowaniach dotyczących ustanowienia na majątku dłużnika hipotek, zastawów, zastawów rejestrowych, zastawów skarbowych i hipotek morskich oraz innych obciążeń podlegających wpisowi w księdze wieczystej lub w rejestrach, jak również o prowadzonych innych postępowaniach sądowych, administracyjnych, sądowoadministracyjnych oraz przed sądami polubownymi dotyczących majątku dłużnika; ” , uchyla się ust. 2, ust. 3 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+3. Jeżeli dłużnik nie może dołączyć do wniosku dokumentów, o których mowa w ust. 1, powinien podać przyczyny ich niedołączenia oraz je uprawdopodobnić. ” ;
+
+- **19)** art. 24 otrzymuje brzmienie: „ Jeżeli wniosek o ogłoszenie upadłości zgłasza wierzyciel, powinien we wniosku uprawdopodobnić swoją wierzytelność. ” ;
+- **20)** w art. 27: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Sąd rozpoznaje sprawę na posiedzeniu niejawnym. ” , dodaje się ust. 4 w brzmieniu: „
+
+- **b)**
+
+4. Postanowienia oraz zarządzenia wydane w postępowaniu w przedmiocie ogłoszenia upadłości zamieszcza się w Centralnym Rejestrze Restrukturyzacji i Upadłości, o którym mowa w art. 5 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. poz. 978), zwanym dalej „Rejestrem”, wraz z informacją o terminie i sposobie wniesienia środka zaskarżenia. Postanowienia, zarządzenia i inne dokumenty zamieszczone w Rejestrze są dostępne dla uczestników postępowania. ” ;
+
+- **21)** po art. 29 dodaje się art. 29a w brzmieniu: „
+
+1. Sąd może uznać cofnięcie wniosku o ogłoszenie upadłości za niedopuszczalne, jeżeli prowadziłoby to do pokrzywdzenia wierzycieli.
+
+2. Wykonanie przez dłużnika zobowiązań wobec wnioskodawcy po złożeniu wniosku o ogłoszenie upadłości nie ma wpływu na dalszy bieg postępowania. ” ;
+
+- **22)** po art. 30 dodaje się art. 30a w brzmieniu: „ W postępowaniu w przedmiocie ogłoszenia upadłości nie przeprowadza się dowodu z opinii biegłego, z wyjątkiem określonym w art. 56b ust. 1. ” ;
+- **23)** uchyla się art. 31;
+- **24)** w art. 32: ust. 3 otrzymuje brzmienie: „
+    - **a)**
+
+3. Kosztami sądowymi obciąża się dłużnika w przypadku oddalenia wniosku na podstawie art. 13. ” , ust. 5 otrzymuje brzmienie: „
+
+- **b)**
+
+5. Od wnioskodawcy sąd może zażądać zaliczki na wydatki w postępowaniu w przedmiocie ogłoszenia upadłości w kwocie przewyższającej sumę określoną w art. 22a pod rygorem odrzucenia wniosku. Na postanowienie sądu w przedmiocie zaliczki zażalenie nie przysługuje. Żądanie dodatkowej zaliczki nie wstrzymuje rozpoznania wniosku o ogłoszenie upadłości. ” , dodaje się ust. 6 w brzmieniu: „
+
+- **c)**
+
+6. Wydatki pokrywane są w pierwszej kolejności z zaliczki wpłaconej przez wnioskodawcę. ” ;
+
+- **25)** art. 36 otrzymuje brzmienie: „ Po złożeniu wniosku o ogłoszenie upadłości sąd na wniosek albo z urzędu może dokonać zabezpieczenia majątku dłużnika. W przedmiocie zabezpieczenia sąd orzeka niezwłocznie. ” ;
+- **26)** w art. 37 dodaje się zdanie drugie w brzmieniu: „ Przepisu art. 396 Kodeksu postępowania cywilnego nie stosuje się. ” ;
+- **27)** w art. 38: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Sąd może zabezpieczyć majątek dłużnika przez ustanowienie tymczasowego nadzorcy sądowego. Do tymczasowego nadzorcy sądowego przepisy art. 157, art. 157a, art. 159–161, art. 166 ust. 6, art. 167 ust. 2, art. 167a, art. 167b i art. 170–172 stosuje się odpowiednio. ” , po ust. 1 dodaje się ust. 1a-1d w brzmieniu: „
+
+- **b)**
+
+1a. Postanowienie o ustanowieniu tymczasowego nadzorcy sądowego, odwołaniu albo zmianie osoby tymczasowego nadzorcy sądowego i informację o uprawomocnieniu się postanowienia o uchyleniu zabezpieczenia przez odwołanie tymczasowego nadzorcy sądowego obwieszcza się.
+
+1b. Sąd ustala wynagrodzenie tymczasowego nadzorcy sądowego, biorąc pod uwagę nakład pracy, zakres czynności podejmowanych w postępowaniu, stopień ich trudności oraz czas pełnienia funkcji.
+
+1c. Wynagrodzenie tymczasowego nadzorcy sądowego ustala się w wysokości od jednej czwartej przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w trzecim kwartale roku poprzedniego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego do jego dwukrotności.
+
+1d. W szczególnie uzasadnionych przypadkach można przyznać wyższe wynagrodzenie w wysokości do czterokrotności wynagrodzenia, o którym mowa w ust. 1c, jeżeli uzasadnia to nakład pracy tymczasowego nadzorcy sądowego, zakres podjętych czynności, stopień ich trudności oraz czas pełnienia funkcji. ” , ust. 2 otrzymuje brzmienie: „
+
+- **c)**
+
+2. O wynagrodzeniu tymczasowego nadzorcy sądowego i zwrocie wydatków koniecznych poniesionych w związku z pełnieniem funkcji orzeka sąd na jego wniosek złożony w terminie tygodnia od dnia powiadomienia o odwołaniu lub od dnia wygaśnięcia funkcji. Sąd może przyznać tymczasowemu nadzorcy sądowemu zaliczkę na wydatki. Kwotę zaliczki wypłaca się w pierwszej kolejności z zaliczki wpłaconej przez wnioskodawcę. ” , dodaje się ust. 3 w brzmieniu: „
+
+- **d)**
+
+3. Sąd może zobowiązać tymczasowego nadzorcę sądowego do złożenia w wyznaczonym terminie sprawozdania obejmującego w szczególności informacje na temat stanu finansowego dłużnika, rodzaju i wartości jego majątku oraz przewidywanych kosztów postępowania upadłościowego. Sprawozdanie składa się w postaci elektronicznej i zamieszcza w Rejestrze. ” ;
+
+- **28)** po art. 38 dodaje się art. 38a w brzmieniu: „ Dłużnik po ustanowieniu tymczasowego nadzorcy sądowego jest uprawniony do dokonywania czynności zwykłego zarządu. Na dokonanie czynności przekraczających zakres zwykłego zarządu jest wymagana zgoda tymczasowego nadzorcy sądowego pod rygorem nieważności. Zgoda może zostać udzielona również po dokonaniu czynności w terminie trzydziestu dni od jej dokonania. ” ;
+- **29)** art. 39 otrzymuje brzmienie: „
+
+1. Sąd na wniosek wnioskodawcy, dłużnika lub tymczasowego nadzorcy sądowego może zawiesić postępowanie egzekucyjne oraz uchylić zajęcie rachunku bankowego, jeżeli jest to niezbędne do osiągnięcia celów postępowania upadłościowego. Uchylając zajęcie rachunku bankowego, sąd ustanawia tymczasowego nadzorcę sądowego, jeżeli wcześniej nie został ustanowiony.
+
+2. Dyspozycje dłużnika dotyczące środków na rachunku bankowym, którego zajęcie uchylono, wymagają zgody tymczasowego nadzorcy sądowego.
+
+3. Postanowienie o zawieszeniu postępowania egzekucyjnego oraz uchyleniu zajęcia rachunku bankowego doręcza się wierzycielowi prowadzącemu egzekucję oraz organowi egzekucyjnemu. Na postanowienie to dłużnikowi oraz wierzycielowi prowadzącemu egzekucję przysługuje zażalenie. ” ;
+
+- **30)** w art. 40 ust. 4 otrzymuje brzmienie: „
+
+4. Do zarządcy przymusowego przepisy art. 38 ust. 1a-3 oraz przepisy ustawy o syndyku stosuje się odpowiednio. ” ;
+
+- **31)** uchyla się art. 42;
+- **32)** art. 43 otrzymuje brzmienie: „ Po ogłoszeniu upadłości zabezpieczenia w postaci ustanowienia tymczasowego nadzorcy sądowego albo zarządu przymusowego upadają z chwilą objęcia majątku upadłego dłużnika w zarząd przez syndyka. Inne zabezpieczenia zastosowane przez sąd po złożeniu wniosku o ogłoszenie upadłości upadają z dniem ogłoszenia upadłości. ” ;
+- **33)** w części pierwszej w tytule II uchyla się dział V;
+- **34)** w art. 51: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) wymienia imię i nazwisko dłużnika (upadłego) albo jego nazwę, miejsce zamieszkania albo siedzibę, adres oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jego jednoznaczną identyfikację; ” , – uchyla się pkt 2 i 3, – pkt 4–6 otrzymują brzmienie: „ 4) wzywa wierzycieli upadłego do zgłoszenia wierzytelności w terminie trzydziestu dni od dnia obwieszczenia postanowienia o ogłoszeniu upadłości w Rejestrze; 5) wzywa osoby, którym przysługują prawa oraz prawa osobiste i roszczenia ciążące na nieruchomości należącej do upadłego, jeżeli nie zostały ujawnione przez wpis w księdze wieczystej, do ich zgłoszenia w terminie trzydziestu dni od dnia obwieszczenia postanowienia o ogłoszeniu upadłości w Rejestrze pod rygorem utraty prawa powoływania się na nie w postępowaniu upadłościowym; 6) wyznacza sędziego-komisarza i zastępcę sędziego-komisarza oraz syndyka; ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+2a. W postanowieniu o ogłoszeniu upadłości wskazuje się podstawę jurysdykcji sądów polskich. Jeżeli zastosowanie ma rozporządzenie Rady (WE) nr 1346/2000 z dnia 29 maja 2000 r. w sprawie postępowania upadłościowego (Dz. Urz. WE L 160 z 30.06.2000, str. 1), w postanowieniu określa się również, czy postępowanie ma charakter główny, czy uboczny. ” ;
+
+- **35)** w art. 53: ust. 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+1. Postanowienie o ogłoszeniu upadłości obwieszcza się.
+
+2. Postanowienie w przedmiocie ogłoszenia upadłości doręcza się syndykowi po uprzednim powiadomieniu go o ogłoszeniu upadłości, upadłemu albo jego spadkobiercy oraz wierzycielowi, który żądał ogłoszenia upadłości. Postanowienie w przedmiocie ogłoszenia upadłości przedsiębiorstwa państwowego albo jednoosobowej spółki Skarbu Państwa doręcza się także odpowiednio organowi założycielskiemu albo ministrowi właściwemu do spraw Skarbu Państwa. Powiadomienie syndyka następuje w dniu ogłoszenia upadłości i dokonuje się go przy zastosowaniu środków bezpośredniego porozumiewania się na odległość, w szczególności przez telefon, faks lub pocztę elektroniczną. ” , ust. 5 otrzymuje brzmienie: „
+
+- **b)**
+
+5. O ogłoszeniu upadłości powiadamia się właściwą izbę skarbową i właściwy oddział Zakładu Ubezpieczeń Społecznych, a także znane sądowi organy egzekucyjne prowadzące postępowania egzekucyjne przeciwko upadłemu. Powiadomienie organów egzekucyjnych następuje w dniu ogłoszenia upadłości i dokonuje się go przy zastosowaniu środków bezpośredniego porozumiewania się na odległość, w szczególności przez telefon, faks lub pocztę elektroniczną. ” ;
+
+- **36)** w art. 54: uchyla się ust. 1, ust. 3 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+3. W przypadku uchylenia postanowienia o ogłoszeniu upadłości i przekazaniu sprawy do ponownego rozpoznania syndyk oraz sędzia-komisarz zachowują swoje uprawnienia, a czynności przez nich dokonane pozostają w mocy. ” , dodaje się ust. 4 w brzmieniu: „
+
+- **c)**
+
+4. Jeżeli po uchyleniu postanowienia o ogłoszeniu upadłości i przekazaniu sprawy do ponownego rozpoznania zostanie wydane postanowienie o zatwierdzeniu układu albo postanowienie o otwarciu postępowania restrukturyzacyjnego, postępowanie w przedmiocie ogłoszenia upadłości umarza się. ” ;
+
+- **37)** po art. 54 dodaje się art. 54a w brzmieniu: „
+
+1. Wierzycielowi w terminie tygodnia od dnia obwieszczenia postanowienia o ogłoszeniu upadłości w Rejestrze, a wierzycielowi, którego siedziba lub miejsce zwykłego pobytu w dniu otwarcia postępowania znajdowały się za granicą, w terminie trzydziestu dni od dnia obwieszczenia postanowienia o ogłoszeniu upadłości w Rejestrze przysługuje zażalenie na postanowienie o ogłoszeniu upadłości wyłącznie w części dotyczącej jurysdykcji sądów polskich.
+
+2. O wniesieniu zażalenia obwieszcza się w Rejestrze. ” ;
+
+- **38)** uchyla się art. 55 i art. 56;
+- **39)** w części pierwszej w tytule II dodaje się dział VII w brzmieniu: „
+
+### Dział VII Przygotowana likwidacja
+
+**Art. 601.** Po ogłoszeniu upadłości przedsiębiorca występuje w obrocie pod dotychczasową firmą z dodaniem oznaczenia „w upadłości”. ” ;
+
+- **43)** uchyla się art. 65;
+- **44)** w art. 65a ust. 3 otrzymuje brzmienie: „
+
+3. Syndyk przekazuje funduszowi sekurytyzacyjnemu świadczenia otrzymane od dłużników z tytułu wierzytelności, o których mowa w ust. 1, oraz dłużników z tytułu zabezpieczeń tych wierzytelności. ” ;
+
+- **45)** uchyla się art. 68;
+- **46)** w art. 69: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Ustalenie składu masy upadłości następuje przez sporządzenie spisu inwentarza oraz spisu należności. W spisie inwentarza syndyk ujmuje prawa, objęte ruchomości, nieruchomości oraz środki pieniężne zgromadzone w kasie i na rachunkach bankowych. Spis należności sporządza się na podstawie ksiąg upadłego oraz dokumentów bezspornych. ” , po ust. 1 dodaje się ust. 1a-1e w brzmieniu: „
+
+- **b)**
+
+1a. Jeżeli syndyk na podstawie ksiąg upadłego oraz dokumentów bezspornych ustali, że w skład masy upadłości wchodzą ruchomości, nieruchomości oraz środki pieniężne, których syndyk nie objął, sporządza ich spis. W miarę ich obejmowania albo uzyskiwania ich równowartości syndyk składa uzupełnienie spisu inwentarza.
+
+1b. Do składników majątkowych, których syndyk nie objął na skutek czynności bezskutecznych, przepis ust. 1a stosuje się odpowiednio.
+
+1c. Do spisu należności przepis ust. 1a zdanie drugie oraz ust. 1b stosuje się odpowiednio.
+
+1d. Spisy, o których mowa w ust. 1–1c, składa się w postaci elektronicznej i zamieszcza w Rejestrze.
+
+1e. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór spisów, o których mowa w ust. 1–1c, mając na uwadze zakres informacji, których umieszczenie w spisach jest niezbędne dla oceny składu masy upadłości, a także czytelność oraz kompletność spisów. ” ;
+
+- **47)** w art. 71 ust. 2 otrzymuje brzmienie: „
+
+2. W razie zbycia przez syndyka mienia, które podlegało wyłączeniu, osoba, do której prawo to należało, może żądać wydania świadczenia wzajemnego uzyskanego w zamian za to mienie. ” ;
+
+- **48)** art. 72 otrzymuje brzmienie: „ Osoba, której przysługuje prawo do mienia podlegającego wyłączeniu, może żądać jego wydania lub świadczenia wzajemnego za jednoczesnym zwrotem wydatków na utrzymanie tego mienia lub na uzyskanie świadczenia wzajemnego poniesionych przez upadłego lub z masy upadłości. ” ;
+- **49)** w art. 73 uchyla się ust. 5;
+- **50)** w art. 75: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Z dniem ogłoszenia upadłości upadły traci prawo zarządu oraz możliwość korzystania z mienia wchodzącego do masy upadłości i rozporządzania nim. ” , uchyla się ust. 3;
+
+- **b)**
+- **51)** uchyla się art. 76;
+- **52)** w art. 77: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Czynności prawne upadłego dotyczące mienia wchodzącego do masy upadłości są nieważne. ” , ust. 3 otrzymuje brzmienie: „
+
+- **b)**
+
+3. Zwrot świadczenia, o którym mowa w ust. 2, można nakazać, jeżeli czynność prawna została podjęta po ogłoszeniu upadłości i przed obwieszczeniem w Rejestrze postanowienia o ogłoszeniu upadłości, a osoba trzecia przy zachowaniu należytej staranności nie mogła wiedzieć o ogłoszeniu upadłości. Na postanowienie sędziego-komisarza osobie tej przysługuje zażalenie. ” ;
+
+- **53)** art. 78 otrzymuje brzmienie: „ Spełnienie świadczenia do rąk upadłego dokonane po obwieszczeniu o ogłoszeniu upadłości w Rejestrze nie zwalnia z obowiązku spełnienia świadczenia do masy upadłości, chyba że równowartość świadczenia została przekazana przez upadłego do masy upadłości. ” ;
+- **54)** w art. 80 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Ogłoszenie upadłości uczestnika systemu płatności lub systemu rozrachunku papierów wartościowych w rozumieniu ustawy z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunków papierów wartościowych oraz zasadach nadzoru nad tymi systemami nie wstrzymuje możliwości wykorzystania: ” ;
+- **55)** w art. 81 po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+1a. Po ogłoszeniu upadłości nie można ustanowić na składnikach masy upadłości hipoteki przymusowej ani zastawu skarbowego, także dla zabezpieczenia wierzytelności powstałej po ogłoszeniu upadłości. ” ;
+
+- **56)** w części pierwszej w tytule III w dziale II w rozdziale 2 uchyla się oznaczenia i tytuły oddziałów;
+- **57)** art. 83 otrzymuje brzmienie: „ Postanowienia umowy zastrzegające na wypadek złożenia wniosku o ogłoszenie upadłości lub ogłoszenia upadłości zmianę lub rozwiązanie stosunku prawnego, którego stroną jest upadły, są nieważne. ” ;
+- **58)** w art. 85 w ust. 1 pkt 1 otrzymuje brzmienie: „
+- **1)** wierzytelności z tytułu poszczególnych umów szczegółowych zawartych w jej wykonaniu nie są obejmowane układem zawartym w postępowaniu upadłościowym; ” ;
+- **59)** art. 85a i art. 86 otrzymują brzmienie: „ Ogłoszenie upadłości dłużnika nie narusza uprawnień wynikających z zamieszczonej w umowie klauzuli kompensacyjnej, o której mowa w ustawie z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych, jeżeli umowa została zawarta:
+- **1)** przed dniem ogłoszenia upadłości;
+- **2)** w dniu ogłoszenia upadłości, ale przed wydaniem postanowienia o ogłoszeniu upadłości;
+- **3)** w dniu ogłoszenia upadłości, ale po wydaniu postanowienia o ogłoszeniu upadłości, jeżeli przyjmujący zabezpieczenie może potwierdzić, że nie wiedział i nie mógł wiedzieć o ogłoszeniu upadłości.
+
+1. Po ogłoszeniu upadłości spółdzielni mieszkaniowej czynności określone w art. 41–43 ustawy z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych (Dz. U. z 2013 r. poz. 1222 oraz z 2015 r. poz. 201) wykonuje syndyk.
+
+2. Na syndyku ciąży obowiązek zawarcia umowy, o której mowa w art. 12, art. 1714, art. 1715, art. 39 i art. 48 ustawy wskazanej w ust. 1, jeżeli żądanie zostało złożone spółdzielni przed ogłoszeniem upadłości albo po ogłoszeniu upadłości na podstawie art. 541 ust. 2 tej ustawy. ” ;
+
+- **60)** uchyla się art. 87, art. 89 i art. 90;
+- **61)** w art. 98: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Jeżeli w dniu ogłoszenia upadłości zobowiązania z umowy wzajemnej nie zostały wykonane w całości lub części, syndyk może, za zgodą sędziego-komisarza, wykonać zobowiązanie upadłego i zażądać od drugiej strony spełnienia świadczenia wzajemnego lub od umowy odstąpić ze skutkiem na dzień ogłoszenia upadłości. ” , po ust. 1 dodaje się ust. 1a-1c w brzmieniu: „
+
+- **b)**
+
+1a. Wydając zgodę, o której mowa w ust. 1, sędzia-komisarz kieruje się celem postępowania upadłościowego, biorąc także pod uwagę ważny interes drugiej strony umowy.
+
+1b. Na postanowienie sędziego-komisarza zażalenie przysługuje upadłemu oraz drugiej stronie umowy.
+
+1c. Jeżeli w dniu ogłoszenia upadłości upadły był stroną umowy innej niż umowa wzajemna, syndyk może od umowy odstąpić, chyba że ustawa przewiduje inny skutek. Przepisy ust. 1–1b stosuje się odpowiednio. ” ;
+
+- **62)** w art. 109 dodaje się ust. 3 w brzmieniu: „
+
+3. Do najmu lub dzierżawy przedsiębiorstwa lub jego zorganizowanej części przepisy ust. 1 i 2 stosuje się odpowiednio. ” ;
+
+- **63)** w art. 110: ust. 3 otrzymuje brzmienie: „
+    - **a)**
+
+3. Jeżeli przedmiot najmu lub dzierżawy w dniu ogłoszenia upadłości był już wydany upadłemu, syndyk może wypowiedzieć umowę najmu lub dzierżawy, także wtedy, gdy wypowiedzenie tej umowy przez upadłego nie było dopuszczalne. Jeżeli umowa dotyczy nieruchomości, w której prowadzone było przedsiębiorstwo upadłego, wypowiedzenie następuje z zachowaniem trzymiesięcznego terminu wypowiedzenia, a w innych przypadkach – z zachowaniem terminu ustawowego, chyba że terminy wypowiedzenia przewidziane w umowie są krótsze. ” , ust. 5 otrzymuje brzmienie: „
+
+- **b)**
+
+5. Wynajmujący lub wydzierżawiający może dochodzić w postępowaniu upadłościowym odszkodowania z powodu rozwiązania najmu lub dzierżawy przed terminem przewidzianym w umowie, jednak za czas nie dłuższy niż dwa lata, pomniejszonego o rozliczenie nakładów upadłego podnoszących wartość przedmiotu najmu lub dzierżawy. ” , dodaje się ust. 6 w brzmieniu: „
+
+- **c)**
+
+6. Do najmu lub dzierżawy przedsiębiorstwa lub jego zorganizowanej części przepisy ust. 1–5 stosuje się odpowiednio. ” ;
+
+- **64)** po art. 110 dodaje się art. 110a w brzmieniu: „
+
+1. Syndyk może odstąpić z dniem ogłoszenia upadłości od umowy o zakazie konkurencji, o której mowa w art. 1012 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502 i 1662), bez prawa do odszkodowania.
+
+2. W przypadku sprzedaży przedsiębiorstwa upadłego w całości odpowiedzialność za zobowiązania upadłego z umowy o zakazie konkurencji, o której mowa w art. 1012 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, przechodzi na nabywcę przedsiębiorstwa, chyba że syndyk wcześniej odstąpił od umowy. ” ;
+
+- **65)** w art. 114 ust. 1 otrzymuje brzmienie: „
+
+1. W przypadku ogłoszenia upadłości korzystającego z rzeczy na podstawie umowy leasingu syndyk może, za zgodą sędziego-komisarza, odstąpić z dniem ogłoszenia upadłości od umowy leasingu. Przepisy art. 98 ust. 2 i art. 99 stosuje się odpowiednio. ” ;
+
+- **66)** uchyla się art. 117 i art. 118;
+- **67)** w art. 119 ust. 1 otrzymuje brzmienie: „
+
+1. Jeżeli do spadku otwartego po dniu ogłoszenia upadłości powołany zostaje upadły, spadek wchodzi do masy upadłości. Syndyk nie składa oświadczenia o przyjęciu spadku, a spadek uważa się za przyjęty z dobrodziejstwem inwentarza. ” ;
+
+- **68)** w art. 121 ust. 3 otrzymuje brzmienie: „
+
+3. Postanowienie o wyłączeniu spadku z masy upadłości wydaje z urzędu sędzia-komisarz. Na postanowienie przysługuje zażalenie upadłemu i wierzycielom. ” ;
+
+- **69)** w art. 127 ust. 3 otrzymuje brzmienie: „
+
+3. Bezskuteczne są również zabezpieczenie i zapłata długu niewymagalnego dokonane przez upadłego w ciągu sześciu miesięcy przed dniem złożenia wniosku o ogłoszenie upadłości. Jednak ten, kto otrzymał zapłatę lub zabezpieczenie, może w drodze powództwa lub zarzutu żądać uznania tych czynności za skuteczne, jeżeli w czasie ich dokonania nie wiedział o istnieniu podstawy do ogłoszenia upadłości. ” ;
+
+- **70)** w art. 128: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Sędzia-komisarz z urzędu albo na wniosek syndyka uzna za bezskuteczną w stosunku do masy upadłości odpłatną czynność prawną dokonaną przez upadłego w terminie sześciu miesięcy przed dniem złożenia wniosku o ogłoszenie upadłości z małżonkiem, krewnym lub powinowatym w linii prostej, krewnym lub powinowatym w linii bocznej do drugiego stopnia włącznie, z osobą pozostającą z upadłym w faktycznym związku, prowadzącą z nim wspólnie gospodarstwo domowe albo z przysposobionym lub przysposabiającym, chyba że druga strona czynności wykaże, że nie doszło do pokrzywdzenia wierzycieli. Na postanowienie sędziego-komisarza przysługuje zażalenie. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+- **b)**
+
+1a. Do czynności upadłego, dokonanych ze spółką, w której upadły jest członkiem zarządu, jedynym wspólnikiem lub akcjonariuszem, oraz ze spółkami, w których osoby wymienione w ust. 1 są członkami zarządu lub jedynymi wspólnikami lub akcjonariuszami, przepis ust. 1 stosuje się. ” , ust. 3 otrzymuje brzmienie: „
+
+- **c)**
+
+3. Do czynności upadłego będącego spółką, których dokonał z inną spółką, jeżeli jedna z nich była spółką dominującą, a także jeżeli ta sama spółka jest spółką dominującą w stosunku do upadłego i drugiej strony czynności, przepis ust. 1 stosuje się. ” ;
+
+- **71)** po art. 128 dodaje się art. 128a w brzmieniu: „
+
+1. Bezskuteczny w stosunku do masy upadłości jest przelew wierzytelności przyszłej, jeżeli wierzytelność ta powstanie po ogłoszeniu upadłości.
+
+2. W przypadku gdy umowa przelewu wierzytelności została zawarta nie później niż sześć miesięcy przed dniem złożenia wniosku o ogłoszenie upadłości w formie pisemnej z datą pewną, przepisu ust. 1 nie stosuje się. ” ;
+
+- **72)** w art. 129 ust. 1 i 2 otrzymują brzmienie: „
+
+1. Jeżeli wynagrodzenie za pracę reprezentanta upadłego lub pracownika upadłego wykonującego zadania w zakresie zarządu przedsiębiorstwem lub wynagrodzenie osoby świadczącej usługi związane z zarządem lub nadzorem nad przedsiębiorstwem upadłego określone w umowie o pracę, umowie o świadczenie usług lub uchwale organu upadłego zawartej lub podjętej przed dniem ogłoszenia upadłości jest rażąco wyższe od przeciętnego wynagrodzenia za tego rodzaju pracę lub usługi i nie jest uzasadnione nakładem pracy, sędzia-komisarz z urzędu albo na wniosek syndyka uznaje, że określona część wynagrodzenia przypadająca za okres przed dniem ogłoszenia upadłości, nie dłuższy jednak niż sześć miesięcy przed dniem złożenia wniosku o ogłoszenie upadłości, jest bezskuteczna w stosunku do masy upadłości, chociażby wynagrodzenie zostało już wypłacone. Sędzia-komisarz może uznać za bezskuteczne w całości lub części w stosunku do masy upadłości wynagrodzenie reprezentanta upadłego, pracownika upadłego wykonującego zadania w zakresie zarządu przedsiębiorstwem lub osoby świadczącej usługi związane z zarządem lub nadzorem nad przedsiębiorstwem upadłego przypadające za czas po dniu ogłoszenia upadłości, jeżeli ze względu na objęcie zarządu przez syndyka nie jest ono uzasadnione nakładem pracy.
+
+2. W przypadku, o którym mowa w ust. 1, sędzia-komisarz określa podlegające zaspokojeniu z masy upadłości wynagrodzenie w wysokości odpowiedniej do pracy wykonanej przez reprezentanta upadłego, pracownika upadłego wykonującego zadania w zakresie zarządu przedsiębiorstwem lub osobę wykonującą czynności związane z zarządem lub nadzorem nad przedsiębiorstwem upadłego. Sędzia-komisarz wydaje postanowienie po wysłuchaniu syndyka oraz reprezentanta, pracownika upadłego lub osoby wykonującej czynności związane z zarządem lub nadzorem nad przedsiębiorstwem upadłego. ” ;
+
+- **73)** w art. 130: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Sędzia-komisarz na wniosek syndyka uzna za bezskuteczne w stosunku do masy upadłości obciążenie majątku upadłego hipoteką, zastawem, zastawem rejestrowym lub hipoteką morską, jeżeli upadły nie był dłużnikiem osobistym zabezpieczonego wierzyciela, a obciążenie to zostało ustanowione w ciągu roku przed dniem złożenia wniosku o ogłoszenie upadłości i w związku z jego ustanowieniem upadły nie otrzymał żadnego świadczenia. ” , ust. 3 otrzymuje brzmienie: „
+
+- **b)**
+
+3. Bez względu na wysokość świadczenia otrzymanego przez upadłego sędzia-komisarz uzna za bezskuteczne obciążenia, o których mowa w ust. 1 i 2, jeżeli obciążenia te zabezpieczają długi osób, o których mowa w art. 128, chyba że druga strona wykaże, że nie doszło do pokrzywdzenia wierzycieli. ” ;
+
+- **74)** po art. 130 dodaje się art. 130a w brzmieniu: „ Sędzia-komisarz na wniosek syndyka uzna za bezskuteczne w stosunku do masy upadłości w całości lub części kary umowne zastrzeżone na wypadek niewykonania lub nienależytego wykonania zobowiązania, jeżeli zobowiązanie zostało w znacznej części wykonane przez upadłego lub jeżeli kara umowna jest rażąco wygórowana. Na postanowienie sędziego-komisarza przysługuje zażalenie. ” ;
+- **75)** art. 131 otrzymuje brzmienie: „ W sprawach nieuregulowanych przepisami art. 127–130a do zaskarżenia czynności prawnych upadłego, dokonanych z pokrzywdzeniem wierzycieli, przepisy art. 132–134 oraz przepisy Kodeksu cywilnego o ochronie wierzyciela w przypadku niewypłacalności dłużnika stosuje się odpowiednio. ” ;
+- **76)** w art. 132 ust. 1 i 2 otrzymują brzmienie: „
+
+1. Powództwo może wytoczyć syndyk.
+
+2. Syndyk nie ponosi opłat sądowych. ” ;
+
+- **77)** w art. 133 ust. 1 i 2 otrzymują brzmienie: „
+
+1. Syndyk może wstąpić w miejsce powoda w sprawie wszczętej przez wierzyciela, który zaskarżył czynności upadłego. W tym przypadku, jeżeli pozwanym był także upadły, postępowanie w stosunku do niego umarza się po uprawomocnieniu się postanowienia o ogłoszeniu upadłości.
+
+2. Z odzyskanej części majątku syndyk zwraca wierzycielowi poniesione przez niego koszty procesu. ” ;
+
+- **78)** w art. 134: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Jeżeli czynność upadłego jest bezskuteczna z mocy prawa lub została uznana za bezskuteczną, to, co wskutek tej czynności ubyło z majątku upadłego lub do niego nie weszło, podlega przekazaniu do masy upadłości, a jeżeli przekazanie w naturze jest niemożliwe, do masy upadłości wpłaca się równowartość w pieniądzu. Za zgodą sędziego-komisarza druga strona czynności może zwolnić się z obowiązku przekazania do masy upadłości tego, co wskutek tej czynności z majątku upadłego ubyło, przez zapłatę różnicy między wartością rynkową świadczenia dłużnika z dnia zawarcia umowy, a wartością świadczenia otrzymanego przez dłużnika. Na postanowienie, o którym mowa w zdaniu poprzednim, przysługuje zażalenie. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+- **b)**
+
+1a. Jeżeli osoba obowiązana do przekazania składników majątkowych do masy upadłości nie wykona swojego obowiązku na wezwanie syndyka, sędzia-komisarz wskazuje taką osobę lub takie osoby i określa zakres obowiązku każdej z nich. Na postanowienie sędziego-komisarza przysługuje zażalenie. Prawomocne postanowienie ma moc tytułu wykonawczego. ” ;
+
+- **79)** w art. 135 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
+
+2. Przepisów umożliwiających zaskarżanie czynności prawnych lub określających bezskuteczność czynności prawnych dokonanych przez upadłego nie stosuje się także do umowy o ustanowienie zabezpieczenia finansowego, o której mowa w ustawie z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych, ani do wykonania zobowiązań wynikających z takiej umowy. ” ;
+
+- **80)** w części pierwszej w tytule III w dziale V: uchyla się rozdział 1, uchyla się oznaczenie i tytuł rozdziału 2;
+    - **a)**
+    - **b)**
+
+- **81)** w art. 144 ust. 1 otrzymuje brzmienie: „
+
+1. Po ogłoszeniu upadłości postępowania sądowe, administracyjne lub sądowoadministracyjne dotyczące masy upadłości mogą być wszczęte i prowadzone wyłącznie przez syndyka albo przeciwko niemu. ” ;
+
+- **82)** w art. 145 ust. 1 otrzymuje brzmienie: „
+
+1. Postępowanie sądowe, administracyjne lub sądowoadministracyjne w sprawie wszczętej przeciwko upadłemu przed dniem ogłoszenia upadłości o wierzytelność, która podlega zgłoszeniu do masy upadłości, może być podjęte przeciwko syndykowi tylko w przypadku, gdy w postępowaniu upadłościowym wierzytelność ta po wyczerpaniu trybu określonego ustawą nie zostanie umieszczona na liście wierzytelności. ” ;
+
+- **83)** w art. 146: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Postępowanie egzekucyjne skierowane do majątku wchodzącego w skład masy upadłości, wszczęte przed dniem ogłoszenia upadłości, ulega zawieszeniu z mocy prawa z dniem ogłoszenia upadłości. Postępowanie to umarza się z mocy prawa po uprawomocnieniu się postanowienia o ogłoszeniu upadłości. Zawieszenie postępowania egzekucyjnego nie stoi na przeszkodzie przysądzeniu własności nieruchomości, jeżeli przybicia prawomocnie udzielono przed ogłoszeniem upadłości, a nabywca egzekucyjny wpłaci w terminie cenę nabycia. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+
+- **b)**
+
+2a. Sumy uzyskane ze sprzedaży w postępowaniu egzekucyjnym składników majątkowych obciążonych rzeczowo traktuje się w postępowaniu upadłościowym jak sumy uzyskane z likwidacji obciążonych rzeczowo składników masy upadłości. ” , ust. 3 otrzymuje brzmienie: „
+
+- **c)**
+
+3. Po dniu ogłoszenia upadłości niedopuszczalne jest skierowanie egzekucji do majątku wchodzącego w skład masy upadłości oraz wykonanie postanowienia o zabezpieczeniu lub zarządzenia zabezpieczenia na majątku upadłego, z wyjątkiem zabezpieczenia roszczeń alimentacyjnych oraz roszczeń o rentę z tytułu odszkodowania za wywołanie choroby, niezdolności do pracy, kalectwa lub śmierci oraz o zamianę uprawnień objętych treścią prawa dożywocia na dożywotnią rentę. ” , uchyla się ust. 4;
+
+- **d)**
+- **84)** art. 147 otrzymuje brzmienie: „ Do postępowań przed sądami polubownymi przepisy art. 174 § 1 pkt 4 i 5 oraz art. 180 § 1 pkt 5 Kodeksu postępowania cywilnego, a także art. 144 i art. 145 stosuje się odpowiednio. ” ;
+- **85)** po art. 147 dodaje się art. 147a w brzmieniu: „
+
+1. Jeżeli w dniu ogłoszenia upadłości postępowanie przed sądem polubownym nie zostało wszczęte, za zgodą sędziego-komisarza syndyk może odstąpić od zapisu na sąd polubowny, jeżeli dochodzenie roszczenia przed sądem polubownym utrudnia likwidację masy upadłości, w szczególności gdy stan masy uniemożliwia pokrycie kosztów wszczęcia i prowadzenia postępowania przed sądem polubownym.
+
+2. Na żądanie drugiej strony złożone w formie pisemnej syndyk w terminie trzydziestu dni oświadczy na piśmie, czy odstępuje od zapisu na sąd polubowny. Niezłożenie w tym terminie oświadczenia przez syndyka uważa się za odstąpienie od zapisu na sąd polubowny.
+
+3. Druga strona może odstąpić od zapisu na sąd polubowny, gdy syndyk mimo tego, że nie odstąpił od zapisu na sąd polubowny, odmówi udziału w kosztach postępowania przed sądem polubownym.
+
+4. Na skutek odstąpienia zapis na sąd polubowny traci moc. ” ;
+
+- **86)** uchyla się art. 148;
+- **87)** w art. 150: ust. 2 i 3 otrzymują brzmienie: „
+    - **a)**
+
+2. W przedmiocie wynagrodzenia syndyka, a także rozpoznając zażalenie na postanowienie sędziego-komisarza sąd upadłościowy orzeka w składzie trzech sędziów zawodowych.
+
+3. Po ogłoszeniu upadłości w skład sądu nie może wchodzić sędzia-komisarz ani jego zastępca. ” , dodaje się ust. 4 w brzmieniu: „
+
+- **b)**
+
+4. W przypadku uchylenia postanowienia sędziego-komisarza i przekazania sprawy do ponownego rozpoznania, sędzia-komisarz jest wyłączony od ponownego rozpoznawania tej sprawy. Wyłączenie to obowiązuje również w przypadku uchylenia postanowienia wydanego w wyniku ponownego rozpoznania sprawy. W takim przypadku sprawę rozpoznaje zastępca sędziego-komisarza albo wyznaczony sędzia. ” ;
+
+- **88)** w części pierwszej w tytule IV w dziale I tytuł rozdziału 2 otrzymuje brzmienie: „Sędzia-komisarz i zastępca sędziego-komisarza”;
+- **89)** w art. 151 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2–4 w brzmieniu: „
+
+2. Zastępca sędziego-komisarza wykonuje czynności sędziego-komisarza, jeżeli ustawa tak stanowi oraz w czasie trwania przemijającej przeszkody do wykonywania tych czynności przez sędziego-komisarza.
+
+3. W szczególnie uzasadnionych przypadkach sąd może ustanowić więcej niż jednego zastępcę sędziego-komisarza.
+
+4. Do zastępcy sędziego-komisarza przepisy dotyczące sędziego-komisarza stosuje się odpowiednio. ” ;
+
+- **90)** w art. 152: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Sędzia-komisarz kieruje tokiem postępowania upadłościowego, sprawuje nadzór nad czynnościami syndyka, oznacza czynności, których wykonywanie przez syndyka jest niedopuszczalne bez jego zezwolenia lub bez zezwolenia rady wierzycieli, jak również zwraca uwagę na popełnione przez syndyka uchybienia. ” , dodaje się ust. 3 w brzmieniu: „
+
+- **b)**
+
+3. Sędzia-komisarz i syndyk mogą porozumiewać się w sprawach dotyczących postępowania upadłościowego bezpośrednio oraz z użyciem środków bezpośredniego porozumiewania się na odległość, w szczególności przez telefon, faks lub pocztę elektroniczną. ” ;
+
+- **91)** w art. 155 ust. 2 otrzymuje brzmienie: „
+
+2. Po obwieszczeniu postanowienia o ogłoszeniu upadłości banki, w których upadły ma rachunki bankowe, sejfy lub skrytki, są obowiązane zawiadomić o tym sędziego-komisarza. ” ;
+
+- **92)** w części pierwszej w tytule IV: tytuł działu II otrzymuje brzmienie: „Syndyk i zastępca syndyka”, w dziale II uchyla się oznaczenia i tytuły rozdziałów;
+    - **a)**
+    - **b)**
+
+- **93)** w art. 156: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. W przypadku ogłoszenia upadłości powołuje się syndyka. ” , uchyla się ust. 2 i 3, ust. 4 otrzymuje brzmienie: „
+
+- **b)**
+- **c)**
+
+4. Syndyk niezwłocznie, nie później niż wraz z podjęciem pierwszej czynności przed sądem lub sędzią-komisarzem, składa do akt postępowania dokument potwierdzający zawarcie umowy ubezpieczenia odpowiedzialności cywilnej za szkody wyrządzone w związku z pełnieniem funkcji. Koszty ubezpieczenia nie stanowią kosztów postępowania upadłościowego i nie podlegają zwrotowi z masy upadłości. ” , uchyla się ust. 5;
+
+- **d)**
+- **94)** art. 1561 otrzymuje brzmienie: „
+
+**Art. 1561.** Postanowienie o wyznaczeniu syndyka obwieszcza się. ” ;
+
+- **95)** w art. 157: ust. 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+1. Funkcję syndyka może pełnić osoba fizyczna, która posiada pełną zdolność do czynności prawnych i licencję doradcy restrukturyzacyjnego.
+
+2. Funkcję syndyka może również pełnić spółka handlowa, której wspólnicy ponoszący odpowiedzialność za zobowiązania spółki bez ograniczenia całym swoim majątkiem albo członkowie zarządu reprezentujący spółkę posiadają licencję, o której mowa w ust. 1. ” , uchyla się ust. 4, dodaje się ust. 5 w brzmieniu: „
+
+- **b)**
+- **c)**
+
+5. W postanowieniu, w którym wyznacza się syndyka, wskazuje się numer licencji doradcy restrukturyzacyjnego syndyka lub numer w Krajowym Rejestrze Sądowym wyznaczonej do pełnienia funkcji syndyka spółki. ” ;
+
+- **96)** w art. 157a: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Syndykiem nie może być osoba fizyczna lub spółka handlowa, która: ” , – pkt 1 i 2 otrzymują brzmienie: „ 1) jest wierzycielem lub dłużnikiem upadłego, małżonkiem, wstępnym, zstępnym, rodzeństwem, powinowatym upadłego lub jego wierzyciela w tej samej linii czy stopniu, osobą pozostającą z nim w stosunku przysposobienia lub małżonkiem tej osoby albo osobą pozostającą z upadłym w faktycznym związku, prowadzącą z nim wspólnie gospodarstwo domowe; 2) jest lub była zatrudniona przez upadłego na podstawie stosunku pracy albo wykonywała pracę lub świadczyła usługi na rzecz upadłego na podstawie innego stosunku prawnego; ” , – dodaje się pkt 3–5 w brzmieniu: „ 3) jest lub była członkiem organu, prokurentem lub pełnomocnikiem upadłego, albo jest lub w okresie dwóch lat przed dniem złożenia wniosku o ogłoszenie upadłości była wspólnikiem albo akcjonariuszem posiadającym udziały albo akcje w wysokości wyższej niż 5% kapitału zakładowego dłużnika lub wierzyciela; 4) jest lub była spółką powiązaną z upadłym lub jest lub była członkiem organu, prokurentem lub pełnomocnikiem takiej spółki albo jest lub w okresie dwóch lat przed dniem złożenia wniosku o ogłoszenie upadłości była wspólnikiem albo akcjonariuszem posiadającym udziały albo akcje w wysokości wyższej niż 5% kapitału zakładowego spółki powiązanej z dłużnikiem; 5) pełniła funkcję nadzorcy lub zarządcy w prowadzonym wcześniej wobec upadłego postępowaniu restrukturyzacyjnym. ” , ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2. Syndyk oraz jego małżonek, wstępny, zstępny, rodzeństwo, osoba pozostająca z nim w stosunku przysposobienia lub małżonek takiej osoby, jak również osoba pozostająca z nim w faktycznym związku, prowadząca z nim wspólnie gospodarstwo domowe, nie mogą nabyć rzeczy ani praw pochodzących ze sprzedaży dokonanej w postępowaniu upadłościowym, w którym syndyk pełni albo pełnił tę funkcję. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+
+- **c)**
+
+2a. Do innych umów zawieranych przez syndyka w toku postępowania przepis ust. 2 stosuje się odpowiednio, chyba że sędzia-komisarz postanowi inaczej. ” , dodaje się ust. 4 w brzmieniu: „
+
+- **d)**
+
+4. Syndyk niezwłocznie, nie później niż wraz z podjęciem pierwszej czynności przed sądem lub sędzią-komisarzem, składa do akt postępowania oświadczenie, że nie zachodzą przeszkody, o których mowa w ust. 1. ” ;
+
+- **97)** uchyla się art. 158;
+- **98)** art. 159–167 otrzymują brzmienie: „
+
+1. Na wniosek syndyka lub z urzędu sędzia-komisarz może powołać zastępcę syndyka, jeżeli jest to potrzebne, zwłaszcza w przypadku wykonywania czynności w innym okręgu sądowym.
+
+2. Sędzia-komisarz określa zakres czynności zastępcy syndyka.
+
+3. Do zastępcy syndyka przepisy ustawy o syndyku stosuje się odpowiednio.
+
+1. W sprawach dotyczących masy upadłości syndyk dokonuje czynności w imieniu własnym na rachunek upadłego.
+
+2. Syndyk nie odpowiada za zobowiązania zaciągnięte w sprawach dotyczących masy upadłości.
+
+3. Syndyk odpowiada za szkodę wyrządzoną na skutek nienależytego wykonywania obowiązków.
+
+1. Syndyk może udzielać pełnomocnictw do dokonywania czynności prawnych. Może też udzielać pełnomocnictw procesowych w postępowaniach sądowych, administracyjnych, sądowoadministracyjnych i przed sądami polubownymi.
+
+2. Za szkodę wyrządzoną przez pełnomocników syndyk odpowiada jak za działanie własne.
+
+1. Wynagrodzenie syndyka ustala się jako sumę pięciu części składowych, w granicach od dwukrotności do dwustusześćdziesięciokrotności podstawy wynagrodzenia.
+
+2. Części składowe wynagrodzenia ustala się według następujących zasad:
+
+- **1)** część zależna od sumy wypłaconej wierzycielom w ramach wykonania planów podziału powiększonej o koszty rozwiązania stosunków pracy z pracownikami pozostającymi w zatrudnieniu w dniu ogłoszenia upadłości: jedna podstawa wynagrodzenia – dla sumy do 100 000,00 zł, cztery podstawy wynagrodzenia – dla sumy od 100 000,01 zł do 1 000 000,00 zł, dziesięć podstaw wynagrodzenia – dla sumy od 1 000 000,01 zł do 10 000 000,00 zł, trzydzieści podstaw wynagrodzenia – dla sumy od 10 000 000,01 zł do 100 000 000,00 zł, osiemdziesiąt podstaw wynagrodzenia – dla sumy przekraczającej 100 000 000,00 zł;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **2)** część zależna od liczby pracowników zatrudnionych w dniu ogłoszenia upadłości: połowa podstawy wynagrodzenia – od 1 do 10 pracowników, trzy podstawy wynagrodzenia – od 11 do 50 pracowników, dziesięć podstaw wynagrodzenia – od 51 do 200 pracowników, dwadzieścia podstaw wynagrodzenia – od 201 do 400 pracowników, trzydzieści podstaw wynagrodzenia – powyżej 400 pracowników;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **3)** część zależna od liczby wierzycieli biorących udział w postępowaniu: połowa podstawy wynagrodzenia – do 10 wierzycieli, dwie podstawy wynagrodzenia – od 11 do 100 wierzycieli, cztery podstawy wynagrodzenia – od 101 do 500 wierzycieli, dwadzieścia podstaw wynagrodzenia – od 501 do 1000 wierzycieli, czterdzieści podstaw wynagrodzenia – powyżej 1000 wierzycieli;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **4)** część zależna od czasu trwania postępowania upadłościowego od dnia ogłoszenia upadłości do dnia wykonania ostatecznego planu podziału: dla postępowań, w których suma podstaw wynagrodzenia określonych w pkt 1–3 nie przekracza ośmiokrotności: – cztery podstawy wynagrodzenia, jeżeli postępowanie trwało nie dłużej niż sześć miesięcy, – dwie podstawy wynagrodzenia, jeżeli postępowanie trwało powyżej sześciu miesięcy, ale nie dłużej niż dwanaście miesięcy, – jeżeli postępowanie trwało powyżej dwunastu miesięcy, wynagrodzenia nie podwyższa się o ten składnik, dla postępowań, w których suma podstaw wynagrodzenia określonych w pkt 1–3 przekracza ośmiokrotność i nie jest większa niż czterdziestokrotność: – osiem podstaw wynagrodzenia, jeżeli postępowanie trwało nie dłużej niż dwanaście miesięcy, – cztery podstawy wynagrodzenia, jeżeli postępowanie trwało powyżej dwunastu miesięcy, ale nie dłużej niż dwadzieścia cztery miesiące, – jeżeli postępowanie trwało powyżej dwudziestu czterech miesięcy, wynagrodzenia nie podwyższa się o ten składnik, dla postępowań, w których suma podstaw wynagrodzenia określonych w pkt 1–3 przekracza czterdziestokrotność: – czterdzieści podstaw wynagrodzenia, jeżeli postępowanie trwało nie dłużej niż osiemnaście miesięcy, – dwadzieścia podstaw wynagrodzenia, jeżeli postępowanie trwało powyżej osiemnastu miesięcy, ale nie dłużej niż trzydzieści sześć miesięcy, – jeżeli postępowanie trwało powyżej trzydziestu sześciu miesięcy, wynagrodzenia nie podwyższa się o ten składnik;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **5)** część ustalana przez sąd do siedemdziesięciu podstaw wynagrodzenia w zależności od stopnia trudności prowadzonego postępowania i jego efektywności, w szczególności od skomplikowania sytuacji prawnej i faktycznej masy upadłości, rozproszenia majątku oraz optymalizacji kosztów postępowania.
+
+3. Przez podstawę wynagrodzenia należy rozumieć przeciętne miesięczne wynagrodzenie w sektorze przedsiębiorstw bez wypłat nagród z zysku w trzecim kwartale roku poprzedniego, ogłoszone przez Prezesa Głównego Urzędu Statystycznego.
+
+1. Sąd ustala wynagrodzenie wstępne syndyka na wniosek syndyka, złożony po złożeniu planu likwidacyjnego, w terminie trzydziestu dni od dnia złożenia wniosku.
+
+2. We wniosku o ustalenie wynagrodzenia wstępnego podaje się aktualne, według stanu na dzień złożenia wniosku, informacje o:
+
+- **1)** przewidywanej sumie zaspokojenia wierzycieli w ramach poszczególnych kategorii zaspokojenia;
+- **2)** liczbie zatrudnionych pracowników;
+- **3)** liczbie wierzycieli;
+- **4)** przewidywanym zgodnie z planem likwidacyjnym czasie trwania postępowania;
+- **5)** stopniu skomplikowania sytuacji prawnej i faktycznej masy upadłości, rozproszeniu i stanie majątku oraz innych okolicznościach mających znaczenie dla nakładu pracy syndyka.
+
+3. Ustalając wynagrodzenie wstępne, sąd stosuje zasady określone w art. 162, biorąc pod uwagę wskaźniki i okoliczności podane we wniosku oraz prawdopodobieństwo realizacji planu likwidacyjnego zgodnie z jego założeniami.
+
+4. Na postanowienie w przedmiocie ustalenia wynagrodzenia wstępnego zażalenie przysługuje wyłącznie upadłemu i syndykowi.
+
+1. Po ustaleniu wynagrodzenia wstępnego syndyk pobiera z masy upadłości zaliczki w wysokości do 75% wynagrodzenia wstępnego w czterech ratach:
+
+- **1)** 10% – po uprawomocnieniu się postanowienia o wynagrodzeniu wstępnym;
+- **2)** 25% – po złożeniu listy wierzytelności;
+- **3)** 15% – po złożeniu pierwszego planu podziału;
+- **4)** 25% – po przeprowadzeniu pełnej likwidacji masy upadłości.
+
+2. Zaliczkę na wynagrodzenie wypłaca się na podstawie rachunku wystawionego przez syndyka.
+
+1. Sąd wydaje postanowienie w przedmiocie wynagrodzenia ostatecznego na wniosek syndyka złożony w terminie tygodnia od dnia złożenia ostatecznego planu podziału albo doręczenia mu postanowienia o odwołaniu lub zmianie syndyka albo umorzeniu postępowania. Złożenie wniosku z uchybieniem terminu skutkuje przyznaniem wynagrodzenia ostatecznego w wysokości dotychczas pobranych zaliczek, chyba że sąd postanowi o przyznaniu niższego wynagrodzenia i zwrocie części zaliczek. Do dnia wydania postanowienia w przedmiocie wynagrodzenia ostatecznego syndyk może złożyć wniosek o przywrócenie terminu, wykazując, że uchybienie terminu nastąpiło bez jego winy.
+
+2. We wniosku o przyznanie wynagrodzenia ostatecznego podaje się aktualne, według stanu na dzień złożenia wniosku, informacje o:
+
+- **1)** sumie wypłaconej wierzycielom w ramach wykonania planów podziału oraz o poniesionych z masy upadłości kosztach rozwiązania stosunków pracy z pracownikami pozostającymi w zatrudnieniu na dzień ogłoszenia upadłości;
+- **2)** liczbie pracowników zatrudnionych w dniu ogłoszenia upadłości;
+- **3)** liczbie wierzycieli, którzy zgłosili swoje wierzytelności, oraz o liczbie wierzycieli umieszczonych na liście wierzytelności z urzędu;
+- **4)** czasie trwania postępowania;
+- **5)** trudnościach prowadzonego postępowania i jego efektywności, w tym informacje o wysokości kosztów postępowania i innych zobowiązaniach masy upadłości.
+
+1. Sąd niezwłocznie doręcza odpis wniosku syndyka o przyznanie wynagrodzenia ostatecznego upadłemu i członkom rady wierzycieli albo informuje ich, że syndyk nie złożył takiego wniosku w terminie. Upadły i członkowie rady wierzycieli mogą w terminie tygodnia zająć stanowisko w sprawie wniosku, o czym należy ich pouczyć.
+
+2. Sąd ustala wynagrodzenie ostateczne niezwłocznie po przedstawieniu stanowisk, o których mowa w ust. 1, albo bezskutecznym upływie terminu na ich przedstawienie.
+
+3. Syndyk jest uprawniony do pobrania wynagrodzenia w wysokości ustalonej w prawomocnym postanowieniu o ustaleniu wynagrodzenia ostatecznego niezwłocznie po wydaniu postanowienia o zatwierdzeniu ostatecznego planu podziału.
+
+4. Jeżeli syndyk jest obowiązany wydać dłużnikowi jego majątek na skutek uprawomocnienia się postanowienia o umorzeniu lub zakończeniu postępowania, a postanowienie o przyznaniu wynagrodzenia ostatecznego nie jest jeszcze prawomocne, kwota wynagrodzenia podlega złożeniu do depozytu sądowego, w wysokości różnicy między wynagrodzeniem wnioskowanym a sumą pobranych zaliczek, chyba że sąd, mając na względzie ważny interes dłużnika, postanowi o ograniczeniu wysokości zabezpieczenia do kwoty ustalonej w nieprawomocnym postanowieniu o przyznaniu wynagrodzenia ostatecznego. Sąd postanowi o wydaniu syndykowi kwoty złożonej do depozytu sądowego na wniosek syndyka na podstawie prawomocnego postanowienia o ustaleniu wynagrodzenia ostatecznego. W przedmiocie złożenia i wydania z depozytu orzeka sąd w składzie jednoosobowym.
+
+5. Jeżeli wynagrodzenie ostateczne ustalono w wysokości niższej niż 75% wynagrodzenia wstępnego, syndyk jest obowiązany zwrócić do masy upadłości różnicę między sumą pobranych zaliczek a wynagrodzeniem ostatecznym. W postanowieniu o przyznaniu wynagrodzenia ostatecznego sąd określi kwotę podlegającą zwrotowi.
+
+6. Na postanowienie sądu w przedmiocie ustalenia wynagrodzenia ostatecznego i zwrotu zaliczek przysługuje zażalenie. Zażalenie przysługuje również syndykowi.
+
+7. Prawomocne postanowienie o przyznaniu wynagrodzenia ostatecznego stanowi tytuł egzekucyjny przeciwko syndykowi oraz upadłemu.
+
+1. Jeżeli syndyk został odwołany lub w przypadku zmiany syndyka przed dniem złożenia sprawozdania ostatecznego, zachowuje on prawo do zaliczek pobranych zgodnie z art. 164 do czasu ustalenia wynagrodzenia ostatecznego.
+
+2. Ustalając wynagrodzenie ostateczne w postępowaniu upadłościowym, w którym funkcję pełniło kilku syndyków, sąd rozdziela wynagrodzenie między nich proporcjonalnie do czasu pełnienia funkcji w postępowaniu, przy czym sąd może zdecydować o odstąpieniu od proporcjonalnego podziału, w szczególności jeżeli jest to uzasadnione zróżnicowanym wpływem poszczególnych syndyków na zaistnienie okoliczności, o której mowa w art. 162 ust. 2 pkt 1, oraz ich nakładem pracy.
+
+3. W przypadku umorzenia postępowania upadłościowego albo jego uchylenia sąd przyznaje syndykowi wynagrodzenie ostateczne, mając na uwadze okoliczności, o których mowa w art. 162, nakład pracy syndyka i czas trwania postępowania.
+
+4. Jeżeli przyznana syndykowi część wynagrodzenia ostatecznego przekracza wartość pobranych zaliczek, przepis art. 166 ust. 5 stosuje się odpowiednio. ” ;
+
+- **99)** po art. 167 dodaje się art. 167a i art. 167b w brzmieniu: „ Wynagrodzenie i zaliczki na wynagrodzenie syndyka obowiązanego do rozliczenia podatku od towarów i usług podwyższa się o kwotę podatku od towarów i usług.
+
+1. W przypadku śmierci syndyka roszczenie o należne mu wynagrodzenie należy do spadku po nim.
+
+2. O wynagrodzeniu syndyka w przypadku, o którym mowa w ust. 1, orzeka sąd z urzędu. ” ;
+
+- **100)** w art. 168: ust. 1–5 otrzymują brzmienie: „
+    - **a)**
+
+1. Syndyk składa sędziemu-komisarzowi w terminach przez niego wyznaczonych, przynajmniej co trzy miesiące, sprawozdanie ze swoich czynności oraz sprawozdanie rachunkowe z uzasadnieniem.
+
+2. Zastępca syndyka, jeżeli jest ustanowiony, składa sprawozdania, o których mowa w ust. 1, w terminach wyznaczonych przez syndyka. Syndyk składa te sprawozdania wraz ze swoim sprawozdaniem sędziemu-komisarzowi.
+
+3. Sprawozdania, o których mowa w ust. 1, 2 i 4, rozpoznaje sędzia-komisarz po wysłuchaniu w miarę potrzeby i możliwości syndyka, upadłego i członków rady wierzycieli.
+
+4. Po wykonaniu ostatecznego planu podziału funduszów masy upadłości syndyk i jego zastępcy składają sprawozdanie ostateczne obejmujące sprawozdanie ze swoich czynności oraz sprawozdanie rachunkowe. Sprawozdanie ostateczne obejmuje w szczególności wskazanie miejsca zarchiwizowania dokumentów upadłego, łącznej wysokości wydatków z tytułu kosztów postępowania i zobowiązań, o których mowa w art. 230, łącznej wysokości funduszów masy upadłości oraz funduszów uzyskanych ze zbycia rzeczy i praw obciążonych rzeczowo oraz ogólnego stopnia zaspokojenia wierzycieli.
+
+5. Sędzia-komisarz zatwierdza sprawozdanie rachunkowe, odmawia uznania określonego wydatku lub dokonuje odpowiedniego sprostowania oraz orzeka o zwrocie do masy upadłości kwoty niezatwierdzonej. Sędzia-komisarz odmawia zatwierdzenia sprawozdania ostatecznego w całości lub części, jeżeli syndyk dokonał czynności niezgodnych z prawem lub skutkujących pokrzywdzeniem wierzycieli lub upadłego albo mimo wezwania nie wykonał w zakreślonym terminie wszystkich obowiązków. Na postanowienie sędziego-komisarza przysługuje zażalenie. Zażalenie przysługuje również syndykowi. Prawomocne postanowienie zobowiązujące syndyka do zwrotu do masy upadłości kwoty niezatwierdzonej stanowi tytuł egzekucyjny przeciwko syndykowi. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
+
+- **b)**
+
+5a. Prawomocne postanowienie o odmowie zatwierdzenia sprawozdania ostatecznego w całości lub części doręcza się Ministrowi Sprawiedliwości. ” , dodaje się ust. 7 i 8 w brzmieniu: „
+
+- **c)**
+
+7. Sprawozdania, o których mowa w ust. 1, 2 i 4, składa się w postaci elektronicznej i zamieszcza w Rejestrze.
+
+8. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór sprawozdania z czynności syndyka, sprawozdania rachunkowego i sprawozdania ostatecznego syndyka, mając na uwadze zakres informacji, których umieszczenie w sprawozdaniach jest niezbędne dla prawidłowego sprawowania nadzoru nad syndykiem, oceny stanu masy upadłości oraz nakładu pracy syndyka, a także czytelność oraz kompletność sprawozdań. ” ;
+
+- **101)** art. 169–170 otrzymują brzmienie: „
+
+1. Syndyk wykonuje obowiązki sprawozdawcze ciążące na upadłym. Syndyk nie odpowiada za opóźnienia w realizacji tych obowiązków spowodowane nieprzekazaniem mu dokumentacji lub przekazaniem dokumentacji nierzetelnej lub niekompletnej.
+
+2. Obowiązek przekazywania informacji, o którym mowa w art. 56 ust. 1, 5 i 7 oraz art. 70 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, ciąży na syndyku.
+
+3. Upadły jest obowiązany do natychmiastowego udostępniania syndykowi posiadanych informacji i dokumentów pozwalających na wykonanie obowiązku, o którym mowa w art. 56 ust. 1, 5 i 7 oraz art. 70 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych. Jeżeli dla upadłego został ustanowiony kurator w postępowaniu upadłościowym, obowiązek ten ciąży na kuratorze.
+
+4. Syndyk prowadzący przedsiębiorstwo upadłego może prowadzić działalność wymagającą koncesji, licencji albo zezwolenia, chyba że co innego wynika z odrębnych ustaw.
+
+1. Sędzia-komisarz upomina syndyka, który nie wykonuje albo nienależycie wykonuje swoje obowiązki.
+
+2. W przypadku istotnego uchybienia albo braku poprawy w wykonywaniu obowiązków mimo upomnienia, sędzia-komisarz nakłada na syndyka grzywnę w wysokości od 1000 zł do 30 000 zł, biorąc pod uwagę stopień oraz wagę uchybienia.
+
+1. W przypadku rażącego uchybienia lub braku poprawy w wykonywaniu swoich obowiązków mimo nałożonej grzywny lub w przypadku niewykonania obowiązków, o których mowa w art. 156 ust. 4 lub art. 157a ust. 4, mimo wezwania do ich spełnienia w terminie tygodnia sąd odwołuje syndyka.
+
+2. Przed odwołaniem syndyka sąd jest obowiązany do jego wysłuchania. W przypadku uprawdopodobnienia podstaw do odwołania syndyka sąd może do czasu wydania postanowienia w przedmiocie odwołania zawiesić syndyka w wykonywaniu jego czynności, ustanawiając tymczasowego syndyka, do którego przepisy o syndyku stosuje się odpowiednio.
+
+3. Sąd zmienia syndyka na jego wniosek albo na podstawie uchwały rady wierzycieli podjętej w trybie określonym w art. 207a.
+
+4. W przypadku śmierci syndyka albo utraty przez niego pełnej zdolności do czynności prawnych albo jeżeli w składzie organów spółki będącej syndykiem zachodzą braki uniemożliwiające jej działanie, sąd stwierdza wygaśnięcie funkcji syndyka. W postanowieniu sąd wskazuje datę śmierci syndyka.
+
+5. Sąd zmienia syndyka w przypadku cofnięcia albo zawieszenia syndykowi praw wynikających z licencji doradcy restrukturyzacyjnego, a jeżeli syndykiem jest spółka – w przypadku cofnięcia albo zawieszenia praw wynikających z licencji doradcy restrukturyzacyjnego wspólnikom ponoszącym za zobowiązania spółki odpowiedzialność bez ograniczenia całym swoim majątkiem albo członkom zarządu reprezentującym taką spółkę.
+
+6. Odpis prawomocnego postanowienia o odwołaniu syndyka lub stwierdzeniu wygaśnięcia funkcji syndyka doręcza się Ministrowi Sprawiedliwości. ” ;
+
+- **102)** w art. 171: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. W przedmiocie odwołania lub zmiany zastępcy syndyka orzeka sędzia-komisarz. Sędzia-komisarz odwołuje zastępcę syndyka również wówczas, jeżeli jego dalszy udział w postępowaniu nie jest potrzebny. ” , uchyla się ust. 2, dodaje się ust. 3 w brzmieniu: „
+
+- **b)**
+- **c)**
+
+3. Na postanowienie, o którym mowa w ust. 1 w zdaniu drugim, zażalenie nie przysługuje. ” ;
+
+- **103)** art. 172 otrzymuje brzmienie: „
+
+1. Na postanowienie w przedmiocie odwołania syndyka oraz na postanowienie sędziego-komisarza w przedmiocie upomnienia lub nałożenia grzywny na syndyka przysługuje zażalenie. Zażalenie przysługuje również syndykowi. Przepisu art. 222 ust. 1 zdanie drugie nie stosuje się.
+
+2. Sąd wyznacza syndyka po uprawomocnieniu się postanowienia o odwołaniu, o którym mowa w ust. 1. Do czasu wyznaczenia syndyka sąd wyznacza syndyka tymczasowego, do którego przepisy o syndyku stosuje się odpowiednio. ” ;
+
+- **104)** w art. 174: ust. 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+1. Jeżeli syndyk napotyka przeszkody ze strony upadłego przy obejmowaniu majątku upadłego, wprowadzenia syndyka w posiadanie majątku upadłego dokonuje komornik sądowy. Podstawę wprowadzenia stanowi postanowienie sądu o ogłoszeniu upadłości lub postanowienie o powołaniu syndyka bez potrzeby nadawania mu klauzuli wykonalności.
+
+2. Koszty wprowadzenia pokrywa tymczasowo Skarb Państwa. Koszty te stanowią koszt postępowania upadłościowego, a jeżeli upadły nie jest osobą fizyczną, koszty te obciążają osoby uprawnione do reprezentowania upadłego, które przeszkadzały w objęciu majątku. W przypadku niemożności ściągnięcia kosztów od osób zobowiązanych do ich zwrotu podlegają one zaspokojeniu z masy upadłości. Jeżeli działania utrudniające objęcie majątku przez syndyka podejmowało kilka osób uprawnionych do reprezentowania upadłego, koszty wprowadzenia obciążają te osoby solidarnie. ” , dodaje się ust. 4 w brzmieniu: „
+
+- **b)**
+
+4. Koszty, o których mowa w ust. 2, ściąga się od osób zobowiązanych do ich zwrotu w trybie egzekucji opłat sądowych. ” ;
+
+- **105)** w art. 177 ust. 2 otrzymuje brzmienie: „
+
+2. Przekazane z Funduszu Gwarantowanych Świadczeń Pracowniczych środki nie wchodzą do masy upadłości ani nie mogą służyć zaspokojeniu innych wierzycieli niż uprawnieni do ich odbioru. ” ;
+
+- **106)** w części pierwszej w tytule IV w dziale II uchyla się rozdziały 3 i 4;
+- **107)** art. 186 otrzymuje brzmienie: „ Po ogłoszeniu upadłości wszelkie uprawnienia upadłego związane z uczestnictwem w spółkach lub spółdzielniach wykonuje syndyk. ” ;
+- **108)** w art. 187 ust. 4 otrzymuje brzmienie: „
+
+4. Wynagrodzenie kuratora ustanowionego na podstawie ust. 1 ustala sędzia-komisarz w wysokości stosownej do nakładu pracy kuratora, stosując odpowiednio przepisy o wynagrodzeniu kuratora ustanowionego na podstawie art. 26 ust. 1 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym. Wynagrodzenie kuratora obowiązanego do rozliczenia podatku od towarów i usług podwyższa się o kwotę podatku od towarów i usług. Na postanowienie w przedmiocie wynagrodzenia oraz zwrotu wydatków przysługuje zażalenie. Zażalenie przysługuje również kuratorowi. ” ;
+
+- **109)** w art. 188 ust. 1 otrzymuje brzmienie: „
+
+1. W przypadku śmierci upadłego jego spadkobierca ma prawo brać udział w postępowaniu upadłościowym. Jeżeli spadkobierca nie jest znany albo nie wstąpił do postępowania, sędzia-komisarz na wniosek syndyka albo z urzędu ustanowi kuratora, do którego przepis art. 187 stosuje się. ” ;
+
+- **110)** w art. 192 ust. 2 i 3 otrzymują brzmienie: „
+
+2. Obwieszczenia dokonuje się przynajmniej na dwa tygodnie przed terminem zgromadzenia wierzycieli.
+
+3. W przypadku odroczenia zgromadzenia wierzycieli, sędzia-komisarz podaje obecnym do wiadomości nowy termin i miejsce zgromadzenia; w takim przypadku nie dokonuje się ponownego obwieszczenia. Oddany poprzednio głos wierzyciela, który nie stawił się na odroczonym zgromadzeniu wierzycieli, zachowuje moc i jest uwzględniany przy obliczaniu wyników głosowania, jeżeli na tym zgromadzeniu poddane pod głosowanie są te same uchwały lub uchwały korzystniejsze dla wierzycieli. ” ;
+
+- **111)** w art. 193 ust. 1 otrzymuje brzmienie: „
+
+1. Zgromadzeniu wierzycieli przewodniczy sędzia-komisarz. ” ;
+
+- **112)** art. 194 otrzymuje brzmienie: „ Syndyk, członkowie rady wierzycieli i upadły wezwany do udzielenia wyjaśnień obowiązani są stawić się na zgromadzeniu wierzycieli. Ich niestawiennictwo jednak, choćby usprawiedliwione, nie stanowi przeszkody do odbycia zgromadzenia wierzycieli. ” ;
+- **113)** w art. 196 ust. 2 otrzymuje brzmienie: „
+
+2. Jeżeli wierzyciele nie dokonają wyboru pełnomocnika zgodnie z ust. 1, w imieniu wierzycieli głosuje zarządca ustanowiony według przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny o zarządzie związanym ze współwłasnością. ” ;
+
+- **114)** w art. 197 uchyla się ust. 2–4;
+- **115)** art. 198 otrzymuje brzmienie: „
+
+1. Głosowanie na zgromadzeniu wierzycieli przeprowadza się ustnie lub pisemnie, a opis przebiegu i wynik głosowania zamieszcza się w protokole. W protokole podaje się imię i nazwisko głosującego, czy głosuje za, czy przeciw uchwale, oraz sumę wierzytelności, z jaką głosuje. Jeżeli oddano głos w cudzym imieniu, wskazuje się reprezentowanego oraz imię i nazwisko głosującego. Wierzyciela, który wstrzymał się od głosu, uważa się za nieuczestniczącego w głosowaniu.
+
+2. Uczestnik postępowania może głosować na zgromadzeniu wierzycieli także przez pełnomocnika. ” ;
+
+- **116)** art. 201 otrzymuje brzmienie: „
+
+1. Radę wierzycieli ustanawia oraz powołuje i odwołuje jej członków sędzia-komisarz z urzędu, o ile uzna to za potrzebne, albo na wniosek.
+
+2. Sędzia-komisarz niezwłocznie, nie później niż w terminie tygodnia, ustanawia radę wierzycieli na wniosek upadłego, co najmniej trzech wierzycieli lub wierzyciela albo wierzycieli mających łącznie co najmniej piątą część sumy wierzytelności z wyłączeniem wierzycieli określonych w art. 116 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne oraz wierzycieli, którzy nabyli wierzytelność w drodze przelewu lub indosu po ogłoszeniu upadłości, chyba że przejście wierzytelności nastąpiło wskutek spłacenia przez wierzyciela długu, za który odpowiadał osobiście albo określonymi przedmiotami majątkowymi, ze stosunku prawnego powstałego przed ogłoszeniem upadłości, albo nabycie wierzytelności nastąpiło po obwieszczeniu w Rejestrze informacji o trybie i miejscu sprzedaży wierzytelności, a zbycie nastąpiło na rzecz nabywcy, który zaoferował najwyższą kwotę.
+
+3. Do czasu zatwierdzenia listy wierzytelności uprawnienia wierzycieli w sprawach dotyczących rady wierzycieli ustala się na podstawie:
+
+- **1)** spisu wierzycieli załączonego przez dłużnika do wniosku o ogłoszenie upadłości;
+- **2)** spisu wierzytelności bezspornych przedstawionego na żądanie sędziego-komisarza przez syndyka, sporządzonego w oparciu o księgi rachunkowe i inne dokumenty upadłego;
+- **3)** przedłożonych przez wierzycieli tytułów egzekucyjnych;
+- **4)** spisu wierzytelności sporządzonego w postępowaniu restrukturyzacyjnym. ” ;
+- **117)** w art. 202: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Rada wierzycieli składa się z pięciu członków oraz dwóch zastępców powoływanych spośród wierzycieli dłużnika będących uczestnikami postępowania. Rada wierzycieli może składać się z trzech członków, jeżeli liczba wierzycieli dłużnika będących uczestnikami postępowania jest mniejsza niż siedem. Sędzia-komisarz może odwołać członków rady wierzycieli, którzy nie pełnią należycie obowiązków, i powołać innych. Na postanowienie przysługuje zażalenie. Odwołany prawomocnie członek rady wierzycieli nie może być ponownie powołany. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+- **b)**
+
+1a. Sędzia-komisarz odwołuje członka rady wierzycieli na jego wniosek. ” , uchyla się ust. 2, dodaje się ust. 4 w brzmieniu: „
+
+- **c)**
+- **d)**
+
+4. Do zastępcy członka rady wierzycieli przepisy dotyczące członka rady wierzycieli stosuje się odpowiednio. Zastępca członka rady wierzycieli może uczestniczyć w posiedzeniach rady wierzycieli. Głosuje on nad uchwałą w przypadku nieobecności któregokolwiek z członków rady wierzycieli. Zamiast nieobecnego członka rady wierzycieli w pierwszej kolejności głosuje zastępca wymieniony na pierwszym miejscu w sentencji postanowienia sędziego-komisarza o powołaniu, jeżeli jest obecny na posiedzeniu. ” ;
+
+- **118)** po art. 202 dodaje się art. 202a w brzmieniu: „
+
+1. Na wniosek wierzyciela lub wierzycieli mających co najmniej piątą część sumy wierzytelności przysługujących wierzycielom będącym uczestnikami postępowania, z wyłączeniem wierzycieli określonych w art. 116 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne oraz wierzycieli, którzy nabyli wierzytelność w drodze przelewu lub indosu po ogłoszeniu upadłości, chyba że przejście wierzytelności nastąpiło wskutek spłacenia przez wierzyciela długu, za który odpowiadał osobiście albo określonymi przedmiotami majątkowymi, ze stosunku prawnego powstałego przed ogłoszeniem upadłości, albo nabycie wierzytelności nastąpiło po obwieszczeniu w Rejestrze informacji o trybie i miejscu sprzedaży wierzytelności, a zbycie nastąpiło na rzecz nabywcy, który zaoferował najwyższą kwotę, sędzia-komisarz powołuje na członka rady wierzycieli wierzyciela wskazanego przez wnioskodawcę, chyba że zachodzi uzasadnione przypuszczenie, że wskazany wierzyciel nie będzie należycie pełnił obowiązków członka rady wierzycieli. Na postanowienie oddalające wniosek zażalenie przysługuje wyłącznie wnioskodawcy.
+
+2. W przypadku gdy wierzyciel lub wierzyciele wnioskujący o powołanie członka rady wierzycieli posiadają co najmniej dwie piąte sumy wierzytelności przysługujących wierzycielom będącym uczestnikami postępowania, z wyłączeniem wierzycieli określonych w art. 116 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne oraz wierzycieli, którzy nabyli wierzytelność w drodze przelewu lub indosu po ogłoszeniu upadłości, chyba że przejście wierzytelności nastąpiło wskutek spłacenia przez wierzyciela długu, za który odpowiadał osobiście albo określonymi przedmiotami majątkowymi, ze stosunku prawnego powstałego przed ogłoszeniem upadłości, albo nabycie wierzytelności nastąpiło po obwieszczeniu w Rejestrze informacji o trybie i miejscu sprzedaży wierzytelności, a zbycie nastąpiło na rzecz nabywcy, który zaoferował najwyższą kwotę, mogą oni wskazać po jednym kandydacie na członka rady wierzycieli na każdą piątą część posiadanych wierzytelności.
+
+3. Wierzyciel lub wierzyciele, których wniosek wskazany w ust. 1 lub 2 został uwzględniony, nie mogą złożyć wniosku o powołanie kolejnych członków rady wierzycieli, chyba że członek powołany poprzednio na ich wniosek został odwołany. ” ;
+
+- **119)** art. 203–205 otrzymują brzmienie: „
+
+1. Na wniosek wierzyciela lub wierzycieli mających co najmniej piątą część sumy wierzytelności przysługujących wierzycielom będącym uczestnikami postępowania, z wyłączeniem wierzycieli określonych w art. 116 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne oraz wierzycieli, którzy nabyli wierzytelność w drodze przelewu lub indosu po ogłoszeniu upadłości, chyba że przejście wierzytelności nastąpiło wskutek spłacenia przez wierzyciela długu, za który odpowiadał osobiście albo określonymi przedmiotami majątkowymi, ze stosunku prawnego powstałego przed ogłoszeniem upadłości, albo nabycie wierzytelności nastąpiło po obwieszczeniu w Rejestrze informacji o trybie i miejscu sprzedaży wierzytelności, a zbycie nastąpiło na rzecz nabywcy, który zaoferował najwyższą kwotę, sędzia-komisarz zmienia skład rady wierzycieli, powołując na członka rady wierzycieli wierzyciela wskazanego przez wnioskodawcę, chyba że zachodzi uzasadnione przypuszczenie, że wskazany wierzyciel nie będzie należycie pełnił obowiązków członka rady wierzycieli. Na postanowienie oddalające wniosek zażalenie przysługuje wyłącznie wnioskodawcy.
+
+2. Przepisy art. 202a ust. 2 i 3 stosuje się odpowiednio.
+
+3. Sędzia-komisarz, zmieniając skład rady wierzycieli, nie może odwołać członka rady wierzycieli powołanego na podstawie ust. 1 lub art. 202a, chyba że żądają tego wierzyciele, na których wniosek członek został powołany.
+
+1. Członkowie rady wierzycieli pełnią swoje obowiązki osobiście albo przez pełnomocników.
+
+2. Pełnomocnictwo składa się przewodniczącemu rady, który składa je do akt postępowania wraz z protokołem z posiedzenia rady wierzycieli.
+
+1. Rada wierzycieli udziela pomocy syndykowi, kontroluje jego czynności, bada stan funduszów masy upadłości, udziela zezwolenia na czynności, które mogą być dokonane tylko za zezwoleniem rady wierzycieli, oraz wyraża opinię w innych sprawach, jeżeli tego zażąda sędzia-komisarz lub syndyk. Przy wykonywaniu obowiązków rada wierzycieli kieruje się interesem ogółu wierzycieli.
+
+2. Rada wierzycieli lub jej członkowie mogą przedstawiać sędziemu-komisarzowi swoje uwagi o działalności syndyka.
+
+3. Rada wierzycieli może żądać od upadłego oraz syndyka wyjaśnień oraz badać księgi i dokumenty dotyczące upadłości w zakresie, w jakim nie narusza to tajemnicy przedsiębiorstwa. Sędzia-komisarz rozstrzyga wątpliwości co do zakresu uprawnienia członków rady do badania ksiąg i dokumentów upadłego. ” ;
+
+- **120)** w art. 206: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zezwolenia rady wierzycieli pod rygorem nieważności wymagają następujące czynności: ” , – pkt 3 otrzymuje brzmienie: „ 3) sprzedaż z wolnej ręki mienia wchodzącego w skład masy upadłości; ” , – uchyla się pkt 5, uchyla się ust. 11, dodaje się ust. 3–5 w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+3. Zezwolenie rady wierzycieli na sprzedaż ruchomości nie jest wymagane, jeżeli wskazana w spisie inwentarza wartość oszacowania wszystkich ruchomości wchodzących w skład masy upadłości nie przekracza równowartości 50 000 zł.
+
+4. Do zezwolenia na sprzedaż wierzytelności oraz innych praw, jeżeli wskazana w spisie należności wartość nominalna wszystkich wierzytelności oraz innych praw wchodzących w skład masy upadłości nie przekracza równowartości 50 000 zł, przepis ust. 3 stosuje się odpowiednio.
+
+5. Wpis obciążenia majątku upadłego ograniczonym prawem rzeczowym w księdze wieczystej lub rejestrze dokonany bez zezwolenia wymaganego zgodnie z ust. 1 podlega wykreśleniu z urzędu. Podstawą wykreślenia jest prawomocne postanowienie sędziego-komisarza stwierdzające niedopuszczalność wpisu. Na postanowienie sędziego-komisarza przysługuje zażalenie. ” ;
+
+- **121)** w art. 207: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Rada wierzycieli wykonuje czynności przez podejmowanie uchwał na posiedzeniach, chyba że regulamin stanowi inaczej. Posiedzenia rady wierzycieli mogą odbywać się przy użyciu środków bezpośredniego porozumiewania się na odległość. ” , po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
+
+- **b)**
+
+1a. Jeżeli uchwała nie jest podejmowana na posiedzeniu, do jej podjęcia konieczne jest oddanie głosów przez wszystkich członków rady wierzycieli. W takim przypadku głosu nie może oddać zastępca członka rady wierzycieli.
+
+1b. Uchwały rady wierzycieli podejmuje się większością głosów, jeżeli ustawa nie stanowi inaczej, w terminie dwóch tygodni od dnia złożenia wniosku do rady. ” , ust. 2 otrzymuje brzmienie: „
+
+- **c)**
+
+2. Rada wierzycieli może kontrolować czynności syndyka oraz badać stan funduszów masy upadłości przez członka lub członków wskazanych w uchwale. ” , dodaje się ust. 3 i 4 w brzmieniu: „
+
+- **d)**
+
+3. Uchwałę rady wierzycieli o zbadaniu ksiąg i dokumentów przedsiębiorstwa upadłego wykonują wskazani w uchwale członkowie rady wierzycieli lub, jeżeli są wymagane wiadomości specjalne, inne osoby. Koszty badania nie stanowią kosztów postępowania i nie obciążają masy upadłości.
+
+4. Z kontroli działalności upadłego albo syndyka oraz badania ksiąg i dokumentów rada wierzycieli składa sprawozdanie sędziemu-komisarzowi. Z innych czynności rada wierzycieli składa sprawozdanie na żądanie sędziego-komisarza. ” ;
+
+- **122)** po art. 207 dodaje się art. 207a w brzmieniu: „
+
+1. Na skutek uchwały rady wierzycieli podjętej w pełnym składzie, za którą głosowało co najmniej czterech członków, albo na skutek uchwały rady wierzycieli podjętej zgodnie z wnioskiem upadłego sąd zmienia syndyka i powołuje do pełnienia tej funkcji osobę spełniającą wymogi, o których mowa w art. 157 ust. 1 lub 2, wskazaną przez radę wierzycieli, chyba że byłoby to niezgodne z prawem, rażąco naruszałoby interes wierzycieli lub zachodzi uzasadnione przypuszczenie, że wskazana osoba nie będzie należycie pełniła obowiązków. Na postanowienie sądu odmawiające powołania osoby wskazanej przez radę zażalenie przysługuje wyłącznie członkom rady wierzycieli oraz upadłemu.
+
+2. Jeżeli rada wierzycieli składa się z trzech członków, uchwałę, o której mowa w ust. 1, podejmuje się jednomyślnie. ” ;
+
+- **123)** art. 208–210 otrzymują brzmienie: „
+
+1. Pierwsze posiedzenie rady zwołuje syndyk niezwłocznie po powołaniu rady wierzycieli. Rada wierzycieli na pierwszym posiedzeniu przyjmuje regulamin, który określa w szczególności tryb posiedzeń, sposób zbierania głosów i zasady współpracy rady z syndykiem, w tym sposób składania wniosków do rady. Rada wierzycieli na pierwszym posiedzeniu wybiera spośród swoich członków przewodniczącego rady. Posiedzenie rady zwołuje przewodniczący rady, zawiadamiając członków i zastępców o terminie, miejscu i przedmiocie posiedzenia. Regulamin może określać sposób zawiadamiania członków rady. Posiedzeniu rady wierzycieli przewodniczy przewodniczący rady, chyba że regulamin stanowi inaczej.
+
+2. Posiedzenie rady wierzycieli może zwołać również sędzia-komisarz, który przewodniczy posiedzeniu.
+
+1. Z posiedzenia rady wierzycieli sporządza się protokół. Protokół podpisują obecni, a odmowę złożenia podpisu zaznacza się w protokole. Jeżeli posiedzenie odbywa się przy użyciu środków bezpośredniego porozumiewania się na odległość, protokół podpisuje wyłącznie przewodniczący rady, ze wskazaniem przyczyny braku pozostałych podpisów, chyba że co innego wynika z regulaminu.
+
+2. Przewodniczący rady niezwłocznie po posiedzeniu przekazuje odpis protokołu sędziemu-komisarzowi, a także syndykowi, jeżeli nie był obecny na posiedzeniu. Do odpisu protokołu załącza się odpisy uchwał podjętych na posiedzeniu.
+
+3. Po podjęciu uchwały bez zwoływania posiedzenia rady wierzycieli przewodniczący rady niezwłocznie przekazuje odpis uchwały sędziemu-komisarzowi.
+
+4. Przepisów ust. 1–3 nie stosuje się w przypadku posiedzenia rady wierzycieli, o którym mowa w art. 208 ust. 2.
+
+1. Uchwały rady wierzycieli zamieszcza się w Rejestrze.
+
+2. W terminie tygodnia od dnia zamieszczenia uchwały rady wierzycieli w Rejestrze uczestnik postępowania oraz syndyk mogą wnieść zarzuty przeciwko uchwale. Zarzuty wniesione po upływie terminu lub nieodpowiadające wymogom formalnym pisma procesowego pozostawia się bez rozpoznania. Przepisu art. 130 § 1 Kodeksu postępowania cywilnego nie stosuje się.
+
+3. Sędzia-komisarz rozpoznaje zarzuty w terminie tygodnia od dnia przedłożenia mu zarzutów.
+
+4. Sędzia-komisarz w wyniku rozpoznania zarzutów lub z urzędu w terminie dwóch tygodni od dnia zamieszczenia uchwały rady wierzycieli w Rejestrze może uchylić tę uchwałę, jeżeli jest ona sprzeczna z prawem lub narusza interes wierzycieli. Na postanowienie sędziego-komisarza zażalenie przysługuje wyłącznie skarżącemu, upadłemu oraz członkom rady wierzycieli.
+
+5. Wykonanie uchwały nie może nastąpić wcześniej niż po upływie dwóch tygodni od dnia jej zamieszczenia w Rejestrze. Sędzia-komisarz może wstrzymać wykonanie uchwały do czasu uprawomocnienia się postanowienia w przedmiocie rozpoznania zarzutów lub postanowienia o uchyleniu uchwały rady wierzycieli. ” ;
+
+- **124)** w art. 211 ust. 2 otrzymuje brzmienie: „
+
+2. Postanowienie w sprawie wynagrodzenia i zwrotu wydatków wydaje sędzia-komisarz po wysłuchaniu członka rady wierzycieli i syndyka. ” ;
+
+- **125)** w art. 213 ust. 2 otrzymuje brzmienie: „
+
+2. Sędzia-komisarz wykonuje również czynności zastrzeżone dla rady wierzycieli, jeżeli rada nie wykona ich w terminie wyznaczonym przez sędziego-komisarza lub w terminie określonym w art. 308 ust. 2. ” ;
+
+- **126)** w art. 215: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. W postanowieniu o połączeniu spraw sąd wyznacza jednego sędziego-komisarza do wszystkich połączonych spraw. Sąd może również wyznaczyć jednego syndyka do wszystkich połączonych spraw, powołać jedną radę wierzycieli i wyznaczyć wspólne zgromadzenie wierzycieli. ” , ust. 4 i 5 otrzymują brzmienie: „
+
+- **b)**
+
+4. Wynagrodzenie syndyka oraz koszty likwidacji pokrywa się z masy upadłości każdego z upadłych w częściach określonych przez sąd przy odpowiednim uwzględnieniu zasad przyznawania wynagrodzenia.
+
+5. W przypadku ogłoszenia upadłości osobowej spółki handlowej oraz jej wspólników ponoszących odpowiedzialność za zobowiązania spółki bez ograniczenia całym swoim majątkiem, a także jeżeli sąd uzna za uzasadnione połączenie spraw upadłościowych prowadzonych wobec innych upadłych, w szczególności wobec podmiotów powiązanych oraz małżonków, przepisy ust. 1–4 stosuje się odpowiednio. ” ;
+
+- **127)** po art. 216 dodaje się art. 216a i art. 216b w brzmieniu: „
+
+1. Jeżeli ustawa przewiduje złożenie dokumentu w postaci elektronicznej, dokument składa się za pośrednictwem Rejestru i opatruje się bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu albo podpisem potwierdzonym profilem zaufanym ePUAP.
+
+2. Dokumenty złożone w postaci elektronicznej drukuje się i załącza do akt wyłącznie na zarządzenie sędziego-komisarza. Organy postępowań upadłościowych obowiązane są do wzajemnej współpracy. ” ;
+
+- **128)** w art. 217 ust. 1 otrzymuje brzmienie: „
+
+1. Jeżeli zachodzi potrzeba przeprowadzenia dowodu z przesłuchania upadłego, syndyka, wierzyciela, członka rady wierzycieli lub innych osób, sąd albo sędzia-komisarz, stosownie do okoliczności, przesłuchuje ich na posiedzeniu i z przesłuchania sporządza protokół, niezależnie od obecności innych osób zainteresowanych, albo odbiera od osób przesłuchiwanych oświadczenia na piśmie; oświadczenia te stanowią dowód w sprawie. ” ;
+
+- **129)** art. 218 otrzymuje brzmienie: „ Syndyk składa sędziemu-komisarzowi wniosek o przeprowadzenie dowodu, jeżeli uzna za konieczne ustalenie okoliczności sprawy w drodze postępowania dowodowego. W przypadku uwzględnienia wniosku postępowanie dowodowe prowadzi sędzia-komisarz. ” ;
+- **130)** po art. 218 dodaje się art. 218a w brzmieniu: „ Sąd lub sędzia-komisarz, wyznaczając rozprawę, poucza uczestnika postępowania występującego w sprawie bez adwokata, radcy prawnego, osoby posiadającej licencję doradcy restrukturyzacyjnego, rzecznika patentowego lub radcy Prokuratorii Generalnej Skarbu Państwa o treści art. 162, art. 206 § 2 pkt 3, art. 207, art. 217, art. 229 i art. 230 Kodeksu postępowania cywilnego w zakresie, który jest uzasadniony przedmiotem sprawy, która ma być rozpoznana na rozprawie. ” ;
+- **131)** w art. 219: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. W postępowaniu upadłościowym orzeczenia zapadają w formie postanowień. W postanowieniu oraz dokumencie, który dotyczy składnika masy upadłości, podaje się numer danego składnika masy ujawniony w spisie inwentarza lub w spisie należności lub w innych spisach. ” , po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
+
+- **b)**
+
+1a. Postanowienia oraz zarządzenia wydane w postępowaniu upadłościowym zamieszcza się w Rejestrze wraz z informacją o terminie i sposobie wniesienia środka zaskarżenia.
+
+1b. Uczestnicy postępowania mają dostęp do danych zawartych w zamieszczanych w Rejestrze postanowieniach, zarządzeniach, dokumentach i informacjach. ” , dodaje się ust. 3 w brzmieniu: „
+
+- **c)**
+
+3. Do uchwał rady wierzycieli i zgromadzenia wierzycieli przepisy ust. 1 zdanie drugie oraz ust. 1a i 1b stosuje się odpowiednio. ” ;
+
+- **132)** art. 220 otrzymuje brzmienie: „
+
+1. Postanowienie wydane na posiedzeniu niejawnym doręcza się upadłemu, osobom, których postanowienie dotyczy, oraz syndykowi, jeżeli ustawa nie stanowi inaczej. Postanowień dotyczących ogółu wierzycieli nie doręcza się wierzycielom.
+
+2. Pisma oraz postanowienia, o których mowa w ust. 1, doręcza się w drodze doręczenia elektronicznego, jeżeli pismo zostało wniesione za pośrednictwem Rejestru albo wybrano doręczanie elektroniczne za pośrednictwem Rejestru. Przepis art. 1311 § 2 Kodeksu postępowania cywilnego stosuje się odpowiednio. ” ;
+
+- **133)** po art. 220 dodaje się art. 220a w brzmieniu: „ Sędzia-komisarz w celu przyspieszenia postępowania może dokonywać wezwań, zawiadomień i doręczeń w sposób, który uzna w okolicznościach konkretnej sprawy za najbardziej celowy, nawet z pominięciem przepisów ogólnych, jeżeli sposób wezwania, zawiadomienia lub doręczenia umożliwia adresatowi zapoznanie się z treścią otrzymanej informacji. ” ;
+- **134)** w art. 221: ust. 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+1. W przypadkach przewidzianych w ustawie obwieszczenia dokonuje się w Rejestrze. W przypadku gdy od dnia obwieszczenia biegnie termin do wniesienia środka zaskarżenia, obwieszczeniu podlega także informacja o sposobie i terminie jego wniesienia.
+
+2. Na wniosek syndyka lub z urzędu sędzia-komisarz może zarządzić dokonanie obwieszczenia także w inny sposób. ” , dodaje się ust. 4 i 5 w brzmieniu: „
+
+- **b)**
+
+4. Każdy ma dostęp do danych zawartych w obwieszczanych w Rejestrze postanowieniach, zarządzeniach, dokumentach i informacjach.
+
+5. Minister Sprawiedliwości podaje do publicznej wiadomości w Rejestrze wzory dokumentów i pism procesowych określone w ustawie. ” ;
+
+- **135)** w art. 222: ust. 2 i 3 otrzymują brzmienie: „
+    - **a)**
+
+2. Odpis zażalenia wniesionego przez wierzyciela doręcza się upadłemu, syndykowi oraz osobom, których dotyczy zaskarżone postanowienie.
+
+3. Odpis zażalenia wniesionego przez upadłego doręcza się syndykowi oraz osobom, których dotyczy zaskarżone postanowienie. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+
+- **b)**
+
+3a. Jeżeli ustawa przewiduje, że zażalenie może wnieść osoba niebędąca uczestnikiem postępowania upadłościowego, odpis zażalenia doręcza się upadłemu, syndykowi oraz osobom, których dotyczy zaskarżone postanowienie. ” , ust. 4 otrzymuje brzmienie: „
+
+- **c)**
+
+4. Odpisu zażalenia na postanowienia dotyczące ogółu wierzycieli nie doręcza się wierzycielom. ” , dodaje się ust. 5 w brzmieniu: „
+
+- **d)**
+
+5. Zażalenie rozpoznaje się w terminie trzydziestu dni od dnia przedstawienia akt sądowi drugiej instancji. ” ;
+
+- **136)** art. 224 otrzymuje brzmienie: „
+
+1. Termin do wniesienia środka zaskarżenia od postanowień wydanych na posiedzeniu niejawnym biegnie od dnia zamieszczenia postanowienia w Rejestrze. Zażalenie wnosi się w terminie tygodnia.
+
+2. Jeżeli postanowienie wydane na posiedzeniu niejawnym podlega obwieszczeniu, termin do wniesienia środka zaskarżenia biegnie od dnia obwieszczenia.
+
+3. Dla osób, którym ustawa nakazuje doręczyć postanowienie wydane na posiedzeniu niejawnym, termin do wniesienia środka zaskarżenia biegnie od dnia doręczenia postanowienia.
+
+4. Jeżeli postanowienie, od którego przysługuje środek zaskarżenia, zostało ogłoszone na posiedzeniu jawnym, osoby zawiadomione o posiedzeniu w terminie tygodnia od dnia posiedzenia, a osoby, które nie zostały zawiadomione o posiedzeniu jawnym – od dnia zamieszczenia, a jeżeli postanowienie podlega obwieszczeniu – od dnia obwieszczenia postanowienia w Rejestrze, mogą złożyć wniosek o sporządzenie uzasadnienia i doręczenie postanowienia wraz z uzasadnieniem. Termin do wniesienia środka zaskarżenia biegnie od dnia doręczenia postanowienia wraz z uzasadnieniem. ” ;
+
+- **137)** w art. 226: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. O wydaniu sumy złożonej do depozytu orzeka sędzia-komisarz po wysłuchaniu syndyka i osób zainteresowanych. ” , uchyla się ust. 3;
+
+- **b)**
+- **138)** art. 227 i art. 228 otrzymują brzmienie: „ Sumy pieniężne wchodzące do masy upadłości oraz sumy uzyskane ze zbycia rzeczy i praw obciążonych rzeczowo, jeżeli nie podlegają natychmiastowemu wydaniu, syndyk składa na oprocentowany rachunek bankowy lub na rachunek depozytowy Ministra Finansów.
+
+1. Akta sądowe udostępnia się w sekretariacie sądu uczestnikom postępowania oraz każdemu, kto potrzebę ich przejrzenia dostatecznie usprawiedliwi. Osoby te mogą otrzymywać z akt odpisy i wyciągi oraz bez żadnych dodatkowych opłat sporządzać we własnym zakresie fotokopie.
+
+2. Pobrane samodzielnie wydruki komputerowe postanowień, zarządzeń i dokumentów obwieszczonych lub zamieszczonych w Rejestrze mają moc urzędowo poświadczonych odpisów, jeżeli posiadają cechy umożliwiające ich weryfikację z danymi zawartymi w Rejestrze.
+
+3. Od dnia obwieszczenia w Rejestrze nie można zasłaniać się nieznajomością treści obwieszczenia, chyba że mimo zachowania należytej staranności nie można było dowiedzieć się o obwieszczeniu. ” ;
+
+- **139)** w części pierwszej w tytule IV tytuł działu V otrzymuje brzmienie: „Koszty i inne zobowiązania masy upadłości”;
+- **140)** art. 230 otrzymuje brzmienie: „
+
+1. Do kosztów postępowania zalicza się wydatki bezpośrednio związane z zabezpieczeniem, zarządem i likwidacją masy upadłości, w szczególności wynagrodzenie syndyka oraz jego zastępcy, wynagrodzenia osób zatrudnionych przez syndyka oraz należności z tytułu składek na ubezpieczenia społeczne od wynagrodzeń tych osób, wynagrodzenie i wydatki członków rady wierzycieli, wydatki związane ze zgromadzeniem wierzycieli, koszty archiwizacji dokumentów upadłego, korespondencji, ogłoszeń, podatki i inne daniny publiczne związane z likwidacją masy upadłości.
+
+2. Do innych zobowiązań masy upadłości zalicza się wszystkie niewymienione w ust. 1 zobowiązania masy upadłości powstałe po ogłoszeniu upadłości, w szczególności należności ze stosunku pracy przypadające za czas po ogłoszeniu upadłości, zobowiązania z tytułu bezpodstawnego wzbogacenia masy upadłości, zobowiązania z zawartych przez upadłego przed ogłoszeniem upadłości umów, których wykonania zażądał syndyk, inne zobowiązania powstałe z czynności syndyka oraz przypadające za czas po ogłoszeniu upadłości renty z tytułu odszkodowania za wywołanie choroby, niezdolności do pracy, kalectwa lub śmierci i renty z tytułu zamiany uprawnień objętych treścią prawa dożywocia na dożywotnią rentę. ” ;
+
+- **141)** w art. 231: uchyla się ust. 1, ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2. Niezaspokojone z masy upadłości zobowiązania, o których mowa w art. 230, po zakończeniu postępowania upadłościowego ponosi upadły. W przypadku uchylenia postępowania upadłościowego sędzia-komisarz może zwolnić upadłego od ponoszenia kosztów sądowych. ” ;
+
+- **142)** art. 232 otrzymuje brzmienie: „
+
+1. W przypadku potrzeby, w szczególności w przypadku braku płynnych funduszów masy upadłości, sędzia-komisarz zwoła zgromadzenie wierzycieli w przedmiocie podjęcia uchwały co do wpłacenia przez wierzycieli zaliczki na pokrycie kosztów postępowania albo zobowiąże wierzycieli mających największe wierzytelności, których łączna wysokość wynosi co najmniej 30% sumy wierzytelności przypadających wierzycielom uprawnionym do uczestniczenia w zgromadzeniu, do złożenia zaliczki na koszty postępowania.
+
+2. W przypadku gdy lista wierzytelności nie została sporządzona, wysokość wierzytelności przysługujących wierzycielom ustala się na podstawie spisu wierzycieli złożonego w postępowaniu w przedmiocie ogłoszenia upadłości lub na podstawie spisu wierzytelności sporządzonego w postępowaniu restrukturyzacyjnym albo na podstawie spisu bezspornych wierzytelności przedstawionego na żądanie sędziego-komisarza przez syndyka, sporządzonego na podstawie ksiąg rachunkowych upadłego. ” ;
+
+- **143)** w art. 238 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
+
+2. Do wierzytelności Kasy Rolniczego Ubezpieczenia Społecznego przepisy dotyczące wierzytelności Zakładu Ubezpieczeń Społecznych stosuje się odpowiednio. ” ;
+
+- **144)** art. 239 otrzymuje brzmienie: „
+
+1. Zgłoszenia wierzytelności dokonuje się na piśmie w dwóch egzemplarzach.
+
+2. Wierzyciel może dokonać zgłoszenia wierzytelności za pośrednictwem Rejestru.
+
+3. W zgłoszeniu wierzytelności wierzyciel wskazuje dowody uzasadniające zgłoszenie.
+
+4. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór pisemnego zgłoszenia wierzytelności oraz zakres danych objętych zgłoszeniem wierzytelności za pośrednictwem Rejestru, mając na uwadze jego przejrzystość i kompletność oraz uproszczenie i przyspieszenie zgłoszenia wierzytelności w postaci elektronicznej. ” ;
+
+- **145)** w art. 240: pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** imię i nazwisko albo nazwę wierzyciela i odpowiednio jego miejsce zamieszkania albo siedzibę, adres oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jego jednoznaczną identyfikację; ” , pkt 3 otrzymuje brzmienie: „
+    - **b)**
+
+- **3)** dowody stwierdzające istnienie wierzytelności; jeżeli wierzytelność została uznana w spisie wierzytelności sporządzonym w postępowaniu restrukturyzacyjnym, wystarczające jest powołanie się na tę okoliczność; ” , pkt 5 otrzymuje brzmienie: „
+    - **c)**
+
+- **5)** zabezpieczenia związane z wierzytelnością; ” , pkt 7 otrzymuje brzmienie: „
+    - **d)**
+
+- **7)** stan sprawy, jeżeli co do wierzytelności toczy się postępowanie sądowe, administracyjne, sądowoadministracyjne lub przed sądem polubownym; ” ;
+- **146)** art. 241–243 otrzymują brzmienie: „ Jeżeli zgłoszenie wierzytelności odpowiada wymaganiom określonym w art. 239 i art. 240, sędzia-komisarz niezwłocznie, nie później niż w terminie dwóch tygodni, przekazuje odpis zgłoszenia syndykowi. Jeżeli zgłoszenia wierzytelności dokonuje wierzyciel reprezentowany przez pełnomocnika procesowego, którym jest adwokat lub radca prawny, lub osoba posiadająca licencję doradcy restrukturyzacyjnego, zgłoszenie wierzytelności nieodpowiadające wymaganiom określonym w art. 239 i art. 240 lub zawierające inne braki uniemożliwiające nadanie zgłoszeniu biegu podlega zwrotowi bez wzywania do jego uzupełnienia.
+
+1. Syndyk sprawdza, czy zgłoszona wierzytelność znajduje potwierdzenie w księgach rachunkowych lub innych dokumentach upadłego albo we wpisach w księdze wieczystej lub rejestrach, oraz wzywa upadłego do złożenia w zakreślonym terminie oświadczenia, czy wierzytelność uznaje.
+
+2. W przypadku gdy zgłoszona wierzytelność nie znajduje potwierdzenia w księgach rachunkowych lub innych dokumentach upadłego albo we wpisach w księdze wieczystej lub rejestrach, syndyk wzywa wierzyciela do złożenia w terminie tygodnia dokumentów wskazanych w zgłoszeniu wierzytelności pod rygorem odmowy uznania wierzytelności. Termin ten nie podlega przedłużeniu ani przywróceniu. Syndyk może jednak uwzględnić dokumenty złożone po upływie terminu, jeżeli nie spowoduje to opóźnienia w przekazaniu listy sędziemu-komisarzowi.
+
+3. Wezwanie wierzyciela przez syndyka do złożenia dokumentów zawiera pouczenie o skutkach uchybienia terminowi. ” ;
+
+- **147)** art. 244 i art. 245 otrzymują brzmienie: „ Po upływie terminu do zgłoszenia wierzytelności i sprawdzeniu zgłoszonych wierzytelności syndyk niezwłocznie sporządza listę wierzytelności, nie później niż w terminie dwóch miesięcy od upływu okresu przewidzianego do zgłaszania wierzytelności.
+
+1. Na liście wierzytelności umieszcza się w osobnych rubrykach:
+
+- **1)** liczbę porządkową;
+- **2)** imię i nazwisko wierzyciela albo jego nazwę, miejsce zamieszkania albo siedzibę, adres oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jego jednoznaczną identyfikację;
+- **3)** sumę, w jakiej wierzytelność podlega uznaniu, i sumę, według której będzie obliczany głos wierzyciela w głosowaniu nad układem;
+- **4)** kategorię, w jakiej wierzytelność podlega zaspokojeniu;
+- **5)** informację o istnieniu i rodzaju zabezpieczenia wierzytelności;
+- **6)** informację, czy wierzytelność jest uzależniona od warunku;
+- **7)** informację, czy wierzycielowi przysługuje prawo potrącenia;
+- **8)** uzasadnienie;
+- **9)** informację o stanie postępowania sądowego, administracyjnego, sądowoadministracyjnego lub postępowania przed sądem polubownym w sprawie zgłoszonej wierzytelności, jej zabezpieczenia lub prawa potrącenia.
+
+2. Jeżeli syndyk zaprzecza w całości lub części oświadczeniom wierzyciela, uzasadnia to w osobnej rubryce. Uzasadnienie to oraz uzasadnienie, o którym mowa w ust. 1 pkt 8, obejmuje wskazanie stanu faktycznego, z którego wynika wierzytelność, oraz dokumentów jej dotyczących.
+
+3. W przypadku wierzytelności zabezpieczonych sumę, według której będzie obliczany głos wierzyciela w głosowaniu nad układem, oznacza się według tej części wierzytelności, która prawdopodobnie nie będzie zaspokojona z przedmiotu zabezpieczenia.
+
+4. Syndyk umieszcza na liście wierzytelności także oświadczenie upadłego i podane przez niego uzasadnienie, jeżeli upadły złożył takie oświadczenie, albo wzmiankę, że upadły oświadczenia takiego nie złożył i z jakiej przyczyny.
+
+5. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór listy wierzytelności, mając na uwadze zakres informacji ujmowanych w liście wierzytelności, czytelność oraz kompletność listy. ” ;
+
+- **148)** po art. 245 dodaje się art. 245a w brzmieniu: „
+
+1. Wierzytelność za okres rozliczeniowy, w trakcie którego została ogłoszona upadłość, w szczególności z tytułu czynszu najmu lub dzierżawy, podatków lub składek na ubezpieczenia społeczne, ulega z mocy prawa proporcjonalnemu podziałowi na część traktowaną jak wierzytelność powstała przed dniem ogłoszenia upadłości oraz część traktowaną jak wierzytelność powstająca po dniu ogłoszenia upadłości.
+
+2. Jeżeli przedmiot leasingu nie stanowi u korzystającego upadłego środka trwałego w rozumieniu ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.) oraz ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.), do umowy leasingu przepis ust. 1 stosuje się.
+
+3. Jeżeli rozliczenie należności publicznoprawnych wymaga sporządzenia deklaracji lub innego tego typu dokumentu obejmujących rozliczenie, obie części wierzytelności, o której mowa w ust. 1, ujmowane są w odrębnych deklaracjach lub innych tego typu dokumentach. ” ;
+
+- **149)** w art. 247 ust. 2 otrzymuje brzmienie: „
+
+2. Odsetki od wierzytelności pieniężnej umieszcza się na liście wierzytelności w kwocie naliczonej do dnia poprzedzającego dzień ogłoszenia upadłości włącznie. ” ;
+
+- **150)** w art. 248 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
+
+2. Współdłużnik, poręczyciel, gwarant lub bank otwierający akredytywy może dokonać zgłoszenia wierzytelności przed zaspokojeniem wierzyciela. Na liście wierzytelności umieszcza się wierzytelność współdłużnika, poręczyciela, gwaranta lub banku otwierającego akredytywy, który nie zaspokoił wierzyciela jako wierzytelność warunkową, która nie uprawnia do głosowania na zgromadzeniu wierzycieli. ” ;
+
+- **151)** art. 250–253 otrzymują brzmienie: „ Wierzytelność zabezpieczoną hipoteką lub wpisem w rejestrze na majątku upadłego położonym za granicą umieszcza się na liście, jeżeli złożony zostanie dowód wykreślenia wpisu o zabezpieczeniu. Złożenia dowodu wykreślenia wpisu o zabezpieczeniu nie wymaga się, jeżeli postępowanie upadłościowe zostało uznane w kraju, w którym znajduje się przedmiot zabezpieczenia. Wierzytelność w walucie obcej bez względu na termin jej wymagalności umieszcza się na liście po przeliczeniu na walutę polską według średniego kursu walut obcych w Narodowym Banku Polskim z dnia ogłoszenia upadłości, a gdy takiego kursu nie było – według średniej ceny rynkowej z tej daty. Umieszczenie na liście wierzytelności w przeliczeniu na walutę polską nie powoduje przekształcenia zobowiązania wyrażonego w walucie obcej na zobowiązanie w walucie polskiej. Zaspokojenie wierzytelności w wykonaniu planu podziału następuje w walucie polskiej.
+
+1. Jeżeli wierzytelność została zgłoszona przez wierzyciela po upływie terminu wyznaczonego do zgłaszania wierzytelności, bez względu na przyczynę opóźnienia, czynności już dokonane w postępowaniu upadłościowym są skuteczne wobec tego wierzyciela, zgłoszenie nie ma wpływu na złożone już plany podziału, a jego uznaną wierzytelność uwzględnia się tylko w planach podziału funduszów masy upadłości sporządzonych po jej uznaniu.
+
+2. Jeżeli postanowienie dotyczące wierzytelności zgłoszonej po upływie terminu wyznaczonego do zgłaszania wierzytelności nie zostało wydane albo nie stało się prawomocne do dnia zakończenia lub umorzenia postępowania upadłościowego, postępowanie w tym zakresie podlega umorzeniu. Jeżeli jednak wierzytelność zgłoszono po zatwierdzeniu ostatecznego planu podziału funduszów masy upadłości, pozostawia się ją bez rozpoznania.
+
+1. Po upływie terminu wyznaczonego do zgłaszania wierzytelności syndyk uzupełnia listę wierzytelności w miarę zgłaszania wierzytelności.
+
+2. Jeżeli zgłoszono wierzytelności po przekazaniu listy wierzytelności sędziemu-komisarzowi, syndyk sporządza uzupełnienie listy wierzytelności obejmujące takie wierzytelności wraz z zaznaczeniem, w jaki sposób będą zaspokajane. ” ;
+
+- **152)** w art. 254 ust. 1 otrzymuje brzmienie: „
+
+1. Zmianę wierzyciela po zgłoszeniu wierzytelności uwzględnia się na liście wierzytelności tylko wtedy, gdy została stwierdzona dokumentem urzędowym lub niebudzącym wątpliwości dokumentem prywatnym z podpisem urzędowo poświadczonym i gdy zmiana wierzyciela zgłoszona została syndykowi przed przekazaniem listy wierzytelności sędziemu-komisarzowi. Sędzia-komisarz może uwzględnić zmianę wierzyciela zgłoszoną po przekazaniu mu listy wierzytelności, a przed jej ostatecznym zatwierdzeniem, jeżeli nie spowoduje to opóźnienia w postępowaniu. ” ;
+
+- **153)** w art. 255 ust. 1 i 2 otrzymują brzmienie: „
+
+1. Listę wierzytelności składa się w postaci elektronicznej. Podlega ona zamieszczeniu w Rejestrze.
+
+2. O dacie złożenia listy wierzytelności obwieszcza się. ” ;
+
+- **154)** w art. 256 ust. 1 otrzymuje brzmienie: „
+
+1. W terminie dwóch tygodni od dnia obwieszczenia, o którym mowa w art. 255 ust. 2, wierzyciel może złożyć do sędziego-komisarza sprzeciw co do:
+
+- **1)** uznania wierzytelności – w przypadku wierzyciela umieszczonego na liście wierzytelności;
+- **2)** odmowy uznania wierzytelności – w przypadku wierzyciela, któremu odmówiono uznania zgłoszonej wierzytelności. ” ;
+- **155)** w art. 257: ust. 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+1. Sprzeciw powinien odpowiadać wymogom formalnym pisma procesowego, a ponadto wskazywać zaskarżoną wierzytelność oraz zawierać wniosek co do uznania albo odmowy uznania wierzytelności wraz z uzasadnieniem i wskazaniem dowodów na jego poparcie.
+
+2. Jeżeli sprzeciw nie odpowiada wymaganiom wskazanym w ust. 1 lub nie uiszczono należnej opłaty, przepis art. 130 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego stosuje się odpowiednio. Sędzia-komisarz odrzuca sprzeciw wniesiony po upływie terminu lub z innych przyczyn niedopuszczalny, jak również sprzeciw, którego braków strona nie uzupełniła, lub sprzeciw, od którego strona nie wniosła należnej opłaty w wyznaczonym terminie. ” , uchyla się ust. 3;
+
+- **b)**
+- **156)** art. 258 otrzymuje brzmienie: „
+
+1. Sprzeciw może być oparty wyłącznie na twierdzeniach i zarzutach wskazanych w zgłoszeniu wierzytelności. Inne twierdzenia i zarzuty mogą być zgłoszone tylko wtedy, gdy wierzyciel wykaże, że ich wcześniejsze zgłoszenie było niemożliwe albo że potrzeba ich wskazania wynikła później.
+
+2. Jeżeli wierzytelność jest stwierdzona prawomocnym orzeczeniem sądu, sprzeciw może być oparty tylko na zdarzeniach powstałych po zamknięciu rozprawy w sprawie, w której orzeczenie zostało wydane. Zdarzenia potwierdza się dowodem na piśmie. ” ;
+
+- **157)** po art. 258 dodaje się art. 258a w brzmieniu: „
+
+1. Sędzia-komisarz doręcza odpis sprzeciwu syndykowi oraz odpowiednio upadłemu i wierzycielowi, którego wierzytelności sprzeciw dotyczy, wyznaczając termin wniesienia odpowiedzi na sprzeciw nie krótszy niż tydzień.
+
+2. Odpowiedź na sprzeciw wniesiona po upływie terminu lub której braków strona nie uzupełniła w terminie podlega zwrotowi. Do odpowiedzi na sprzeciw przepisy art. 257 ust. 1 i 2 zdanie pierwsze stosuje się odpowiednio.
+
+3. Sędzia-komisarz pomija twierdzenia i dowody niezgłoszone w sprzeciwie i odpowiedzi na sprzeciw, chyba że strona uprawdopodobni, że nie zgłosiła ich w sprzeciwie albo odpowiedzi na sprzeciw bez swojej winy lub że uwzględnienie spóźnionych twierdzeń i dowodów nie spowoduje zwłoki w rozpoznaniu sprawy. ” ;
+
+- **158)** w art. 259: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Sędzia-komisarz, zastępca sędziego-komisarza albo wyznaczony sędzia rozpoznaje sprzeciw na posiedzeniu niejawnym w terminie dwóch miesięcy od jego wniesienia. Jeżeli sędzia-komisarz, zastępca sędziego-komisarza albo wyznaczony sędzia uzna za potrzebne wyznaczenie rozprawy, zawiadamia o niej syndyka, upadłego oraz wierzyciela, który wniósł sprzeciw, i wierzyciela, którego wierzytelności sprzeciw dotyczy. Niestawiennictwo tych osób, nawet usprawiedliwione, nie wstrzymuje wydania postanowienia. ” , po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
+
+- **b)**
+
+1a. Sędzia-komisarz, zastępca sędziego-komisarza albo wyznaczony sędzia może odstąpić od przeprowadzenia dowodu z zeznań świadka lub opinii biegłego, jeżeli świadek złożył zeznania albo biegły sporządził opinię w innym postępowaniu toczącym się przed sądem, sądem polubownym lub organem administracji. W takim przypadku dowodem są dokumenty, obejmujące treść zeznań świadka lub opinii biegłego.
+
+1b. W toku postępowania wywołanego wniesieniem sprzeciwu syndyk ma prawa i obowiązki uczestnika postępowania. ” , ust. 2 otrzymuje brzmienie: „
+
+- **c)**
+
+2. Na postanowienie w przedmiocie sprzeciwu zażalenie przysługuje upadłemu, syndykowi oraz każdemu z wierzycieli. ” , dodaje się ust. 3 w brzmieniu: „
+
+- **d)**
+
+3. Uchylenie postanowienia w przedmiocie sprzeciwu i przekazanie sprawy do ponownego rozpoznania jest możliwe tylko w przypadku konieczności przeprowadzenia postępowania dowodowego w całości albo gdy przy rozpoznawaniu sprzeciwu doszło do nieważności postępowania, której skutków nie dało się usunąć w postępowaniu zażaleniowym. ” ;
+
+- **159)** w art. 260 ust. 3 otrzymuje brzmienie: „
+
+3. Po upływie terminu do wniesienia sprzeciwów sędzia-komisarz może zatwierdzić częściowo listę wierzytelności w zakresie nieobjętym sprzeciwami. ” ;
+
+- **160)** w art. 262 ust. 1 otrzymuje brzmienie: „
+
+1. Jeżeli wierzytelność zgłoszono po terminie wyznaczonym do zgłoszenia wierzytelności lub została ujawniona po tym terminie wierzytelność, która nie wymaga zgłoszenia, wierzytelność taką umieszcza się na uzupełnieniu listy wierzytelności. ” ;
+
+- **161)** art. 263 otrzymuje brzmienie: „ Odmowa uznania wierzytelności według przepisów niniejszego działu nie stanowi przeszkody do jej dochodzenia we właściwym trybie. Z uwzględnieniem art. 145 ust. 1 dochodzenie wierzytelności, której odmówiono uznania, jest możliwe dopiero po umorzeniu lub zakończeniu postępowania upadłościowego. ” ;
+- **162)** w części I po tytule V dodaje się tytuł Va w brzmieniu: „
+
+## Tytuł VA Układ w upadłości
+
+## Tytuł IA Postępowanie upadłościowe wobec deweloperów
+
+### Dział I Przepisy ogólne
+
+### Dział II Dalsze prowadzenie przedsięwzięcia deweloperskiego
+
+### Dział III Likwidacja nieruchomości, na której prowadzone jest przedsięwzięcie deweloperskie
+
+### Dział IV Kontynuacja przedsięwzięcia deweloperskiego przez innego przedsiębiorcę
+
+### Dział V Kontynuacja przedsięwzięcia deweloperskiego w układzie
+
+**Art. 432.** Sprawozdania, o których mowa w art. 168, syndyk przekazuje do wiadomości Komisji Nadzoru Finansowego. ” ;
+
+- **246)** w art. 433 wprowadzenie do wyliczenia otrzymuje brzmienie: „ O ile skutki te nie nastąpiły wcześniej z powodu otwarcia postępowania układowego, z dniem ogłoszenia upadłości: ” ;
+- **247)** w art. 434 wprowadzenie do wyliczenia otrzymuje brzmienie: „ O ile skutki te nie nastąpiły wcześniej z powodu otwarcia postępowania układowego, z dniem ogłoszenia upadłości ulegają rozwiązaniu: ” ;
+- **248)** w art. 437 uchyla się ust. 1;
+- **249)** w art. 440 ust. 2 otrzymuje brzmienie: „
+
+2. Należności Bankowego Funduszu Gwarancyjnego z tytułu wypłaty środków gwarantowanych, z tytułu zwrotnej pomocy, o której mowa w art. 20c ust. 1 ustawy z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym (Dz. U. z 2014 r. poz. 1866 oraz z 2015 r. poz. 978), oraz wsparcia, o którym mowa w art. 20g ust. 2 tej ustawy, ulegają zaspokojeniu w kategorii pierwszej. ” ;
+
+- **250)** w art. 443 dodaje się ust. 3 w brzmieniu: „
+
+3. Posiadacze listów zastawnych mogą działać w postępowaniu również osobiście lub przez pełnomocnika, jeżeli zostali dopuszczeni do udziału w postępowaniu przez sędziego-komisarza. Sędzia-komisarz dopuszcza posiadaczy listów zastawnych do udziału w postępowaniu po wykazaniu, że przysługują im prawa z listów zastawnych. ” ;
+
+- **251)** art. 449 otrzymuje brzmienie: „
+
+**Art. 449.** Jeżeli osobna masa upadłości nie wystarcza na pełne zaspokojenie posiadaczy listów zastawnych, pozostała suma podlega zaspokojeniu w podziale funduszów masy upadłości. ” ;
+
+- **252)** art. 454 otrzymuje brzmienie: „
+
+**Art. 454.** Orzeczenie o wszczęciu zagranicznego postępowania upadłościowego, postępowania układowego lub innego podobnego postępowania prowadzonego wobec instytucji kredytowych podlega uznaniu z mocy prawa, jeżeli postępowanie wszczął właściwy sąd zagraniczny w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, w którym instytucja kredytowa ma siedzibę. ” ;
+
+- **253)** w art. 457: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Wezwanie do zgłaszania wierzytelności przez wierzycieli mających miejsce zamieszkania, miejsce zwykłego pobytu albo siedzibę w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym zawiera nagłówek o treści: „Wezwanie do zgłaszania wierzytelności. Termin zgłoszenia”, sporządzony we wszystkich językach urzędowych Unii Europejskiej oraz języku norweskim i języku islandzkim. Wezwanie wskazuje termin zgłoszenia wierzytelności, skutki jego uchybienia, zawiera informację, czy wierzyciele posiadający wierzytelności uprzywilejowane lub zabezpieczone rzeczowo muszą dokonać zgłoszenia wierzytelności, a także określa obowiązek załączenia dowodów stwierdzających istnienie wierzytelności. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+- **b)**
+
+1a. Do wezwania do zgłaszania wierzytelności, o którym mowa w ust. 1, przepis art. 176 ust. 1 stosuje się odpowiednio. ” , ust. 2 otrzymuje brzmienie: „
+
+- **c)**
+
+2. Wierzyciel mający miejsce zamieszkania, miejsce zwykłego pobytu albo siedzibę w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym może zgłosić wierzytelność w języku urzędowym lub jednym z języków urzędowych państwa, w którym ma miejsce zamieszkania, miejsce zwykłego pobytu albo siedzibę, jednakże co najmniej nagłówek „Zgłoszenie wierzytelności” wyraża się w języku polskim. Sąd może zażądać uwierzytelnionego tłumaczenia zgłoszenia na język polski. ” ;
+
+- **254)** art. 458 otrzymuje brzmienie: „
+
+**Art. 458.**
+
+1. Wierzyciele upadłościowi banku krajowego lub banku zagranicznego, mający miejsce zamieszkania, miejsce zwykłego pobytu albo siedzibę w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, mają w postępowaniu takie same prawa jak wierzyciele krajowi.
+
+2. Zagraniczne należności publicznoprawne zaspokaja się w kategorii trzeciej. ” ;
+
+- **255)** w art. 462 ust. 1 otrzymuje brzmienie: „
+
+1. Ogłoszenie upadłości nie narusza praw wierzycieli i osób trzecich ciążących na rzeczy i innym mieniu upadłego położonym na terytorium innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, nie wyłączając zorganizowanych części tego mienia, w szczególności prawa do rozporządzania mieniem w celu zaspokojenia należności lub prawa do zaspokojenia należności z pożytków, które mienie przynosi, prawa zastawu i hipoteki, prawa do żądania wydania mienia od osób, we władaniu których się ono znajduje wbrew woli uprawnionego, prawa do powierniczego korzystania z mienia. ” ;
+
+- **256)** art. 467 otrzymuje brzmienie: „
+
+**Art. 467.** Czynność kompensowania podlega prawu właściwemu dla zobowiązań umownych, mającemu zastosowanie do umowy o kompensowanie. ” ;
+
+- **257)** w art. 471 ust. 1 otrzymuje brzmienie: „
+
+1. Wniosek o ogłoszenie upadłości zakładu ubezpieczeń lub zakładu reasekuracji może zgłosić tylko dłużnik lub Komisja Nadzoru Finansowego, zwana dalej „Komisją”. ” ;
+
+- **258)** w art. 474 ust. 1 otrzymuje brzmienie: „
+
+1. Syndyk udziela kuratorowi potrzebnych informacji. Kurator ma prawo przeglądać księgi i dokumenty upadłego. Na zgromadzeniu wierzycieli kurator ma prawo głosu tylko w sprawach, które mogą mieć wpływ na prawa ubezpieczonych. ” ;
+
+- **259)** w art. 478 ust. 2 otrzymuje brzmienie: „
+
+2. Niezaspokojone z osobnej masy upadłości wierzytelności z umów ubezpieczenia umieszcza się w planie podziału funduszów masy upadłości w kategorii pierwszej. ” ;
+
+- **260)** art. 484 otrzymuje brzmienie: „
+
+**Art. 484.**
+
+1. Dla reprezentowania praw obligatariuszy sąd ustanawia kuratora. Kuratorem może być także bank, z którym upadły zawarł umowę o reprezentowanie obligatariuszy wobec emitenta. Obligatariusze mogą działać w postępowaniu również osobiście lub przez pełnomocnika, jeżeli zostali dopuszczeni do udziału w postępowaniu przez sędziego-komisarza. Sędzia-komisarz dopuszcza obligatariuszy do udziału w postępowaniu po wykazaniu, że przysługują im prawa z obligacji.
+
+2. Nie ustanawia się kuratora, o którym mowa w ust. 1, w przypadku gdy dla zabezpieczenia praw z obligacji ustanowiono hipotekę na majątku emitenta. W takiej sytuacji prawa i obowiązki obligatariuszy w postępowaniu upadłościowym wykonuje administrator hipoteki, o którym mowa w art. 31 ust. 4 ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. poz. 238). ” ;
+
+- **261)** art. 486 otrzymuje brzmienie: „
+
+**Art. 486.** Syndyk udziela kuratorowi potrzebnych informacji. Kurator ma prawo przeglądać księgi i dokumenty upadłego. Na zgromadzeniu wierzycieli kurator ma prawo głosu tylko w sprawach, które mogą mieć wpływ na prawa obligatariuszy. ” ;
+
+- **262)** w art. 4912: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. W sprawach nieuregulowanych w niniejszym tytule przepisy o postępowaniu upadłościowym stosuje się odpowiednio, z tym że przepisów art. 13, art. 21, art. 22a, art. 25, art. 32 ust. 5, art. 36, art. 38, art. 38a, art. 40, art. 74, art. 163, art. 164, art. 307 ust. 1 i art. 361 nie stosuje się. ” , ust. 3 otrzymuje brzmienie: „
+
+- **b)**
+
+3. Wniosek o ogłoszenie upadłości może zgłosić dłużnik, z uwzględnieniem art. 8 i art. 9. Wniosek składa się na formularzu. ” , dodaje się ust. 5 i 6 w brzmieniu: „
+
+- **c)**
+
+5. Jeżeli wniosek o ogłoszenie upadłości zgłasza wierzyciel, przepisów ust. 4 pkt 2 i 4–8 nie stosuje się. Przed wydaniem orzeczenia w przedmiocie ogłoszenia upadłości sąd może zobowiązać dłużnika do przedstawienia informacji, o których mowa w ust. 4, w terminie dwóch tygodni.
+
+6. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzory formularzy wniosku o ogłoszenie upadłości, mając na uwadze podmiot, który składa wniosek, oraz zakres informacji, których umieszczenie we wniosku jest niezbędne. ” ;
+
+- **263)** w art. 4914 dodaje się ust. 5 w brzmieniu: „
+
+5. Do wniosku o ogłoszenie upadłości złożonego przez wierzyciela ust. 2–4 nie stosuje się. ” ;
+
+- **264)** art. 4915 i art. 4916 otrzymują brzmienie: „
+
+**Art. 4915.** Uwzględniając wniosek o ogłoszenie upadłości, sąd wydaje postanowienie o ogłoszeniu upadłości, w którym:
+
+- **1)** wymienia imię i nazwisko, miejsce zamieszkania, adres oraz numer PESEL dłużnika (upadłego), a jeżeli upadły nie posiada numeru PESEL – dane umożliwiające jego jednoznaczną identyfikację;
+- **2)** określa, że upadły jest osobą nieprowadzącą działalności gospodarczej;
+- **3)** wzywa wierzycieli upadłego do zgłaszania wierzytelności w terminie trzydziestu dni od dnia obwieszczenia postanowienia o ogłoszeniu upadłości w Rejestrze;
+- **4)** wzywa osoby, którym przysługują prawa oraz prawa i roszczenia osobiste ciążące na nieruchomości należącej do upadłego, jeżeli nie zostały ujawnione w księdze wieczystej, do ich zgłaszania w terminie trzydziestu dni od dnia obwieszczenia postanowienia o ogłoszeniu upadłości w Rejestrze, pod rygorem utraty prawa powoływania się na nie w postępowaniu;
+- **5)** wyznacza sędziego-komisarza oraz syndyka.
+
+**Art. 4916.**
+
+1. Postanowienie o ogłoszeniu upadłości doręcza się również syndykowi.
+
+2. O ogłoszeniu upadłości powiadamia się właściwą izbę skarbową oraz właściwy oddział Zakładu Ubezpieczeń Społecznych lub Kasy Rolniczego Ubezpieczenia Społecznego. ” ;
+
+- **265)** w art. 49110 dodaje się ust. 5 w brzmieniu: „
+
+5. Do postępowania wszczętego na wniosek wierzyciela przepisów ust. 1–3 nie stosuje się. ” ;
+
+- **266)** w art. 49113 dodaje się ust. 4 w brzmieniu: „
+
+4. W przypadku postępowania wszczętego na wniosek wierzyciela przepisów ust. 1–3 nie stosuje się, jeżeli dłużnik doprowadził do swojej niewypłacalności lub istotnie zwiększył jej stopień umyślnie lub wskutek rażącego niedbalstwa. ” ;
+
+- **267)** po art. 49114 dodaje się art. 49114a w brzmieniu: „
+
+**Art. 49114a.** W przypadku postępowania wszczętego na wniosek wierzyciela przepisów art. 49114–49121 nie stosuje się, jeżeli:
+
+- **1)** dłużnik doprowadził do swojej niewypłacalności lub istotnie zwiększył jej stopień umyślnie lub wskutek rażącego niedbalstwa;
+- **2)** zachodzą okoliczności wskazane w art. 4914 ust. 2–4. ” ;
+- **268)** w art. 49122 dodaje się ust. 5 w brzmieniu: „
+
+5. W przypadku postępowania wszczętego na wniosek wierzyciela wniosek, o którym mowa w ust. 1, może złożyć również każdy z wierzycieli. Przepisu ust. 4 nie stosuje się. ” ;
+
+- **269)** art. 49123 otrzymuje brzmienie: „
+
+**Art. 49123.** Do zawarcia układu w postępowaniu prowadzonym na podstawie przepisów niniejszego tytułu, do jego skutków, zmiany oraz uchylenia przepisy o układzie w postępowaniu upadłościowym prowadzonym wobec przedsiębiorców stosuje się odpowiednio, z wyjątkiem przepisów art. 192 ust. 1 i 2. ” ;
+
+- **270)** uchyla się część czwartą;
+- **271)** art. 522 otrzymuje brzmienie: „
+
+**Art. 522.**
+
+1. Kto będąc dłużnikiem albo osobą uprawnioną do reprezentowania dłużnika, który jest osobą prawną lub spółką handlową niemającą osobowości prawnej, podaje we wniosku o ogłoszenie upadłości nieprawdziwe dane – podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+
+2. Tej samej karze podlega, kto będąc dłużnikiem lub osobą uprawnioną do reprezentowania dłużnika, który jest osobą prawną lub spółką handlową niemającą osobowości prawnej, w postępowaniu w przedmiocie ogłoszenia upadłości podaje sądowi nieprawdziwe informacje co do stanu majątku dłużnika. ” ;
+
+- **272)** w art. 523 ust. 2 otrzymuje brzmienie: „
+
+2. Tej samej karze podlega, kto będąc upadłym albo osobą uprawnioną do reprezentowania upadłego, który jest osobą prawną lub spółką handlową niemającą osobowości prawnej, nie udziela syndykowi lub sędziemu-komisarzowi informacji dotyczących majątku upadłego lub nie udostępnia syndykowi posiadanych przez siebie danych lub dokumentów pozwalających na wykonanie obowiązku, o którym mowa w art. 56 ust. 1, 5 i 7 oraz art. 70 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych. ” .
+
+**Art. 429.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2013 r. poz. 1594, z późn. zm.) w art. 48 w ust. 3 w pkt 6 lit. b otrzymuje brzmienie: „
+
+toczących się postępowaniach: upadłościowym, restrukturyzacyjnym, ugodowym lub likwidacyjnym wobec przedsiębiorcy; ” .
+
+- **b)**
+
+**Art. 430.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 89a w ust. 2: pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** dostawa towaru lub świadczenie usług jest dokonana na rzecz podatnika, o którym mowa w art. 15 ust. 1, zarejestrowanego jako podatnik VAT czynny, niebędącego w trakcie postępowania restrukturyzacyjnego w rozumieniu ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. poz. 978), postępowania upadłościowego lub w trakcie likwidacji; ” , w pkt 3 lit. b otrzymuje brzmienie: „ dłużnik nie jest w trakcie postępowania restrukturyzacyjnego w rozumieniu ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne, postępowania upadłościowego lub w trakcie likwidacji; ” ;
+    - **b)**
+    - **b)**
+
+- **2)** w art. 89b ust. 1b otrzymuje brzmienie: „
+
+1b. Przepisu ust. 1 nie stosuje się również w przypadku, gdy dłużnik w ostatnim dniu miesiąca, w którym upływa 150 dzień od dnia upływu terminu płatności, jest w trakcie postępowania restrukturyzacyjnego w rozumieniu ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne, postępowania upadłościowego lub w trakcie likwidacji. ” .
+
+**Art. 431.** W ustawie z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego (Dz. U. z 2014 r. poz. 1147) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 pkt 19 otrzymuje brzmienie: „
+- **19)** syndyk – syndyka w rozumieniu ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2015 r. poz. 233 i 978) oraz nadzorcę sądowego lub zarządcę w rozumieniu ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. poz. 978). ” ;
+- **2)** w art. 14 w ust. 1: pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** ogłoszenia upadłości albo prawomocnego oddalenia wniosku o ogłoszenie upadłości lub umorzenia postępowania upadłościowego instytucji finansowej, jeżeli jej majątek nie wystarcza na zaspokojenie kosztów postępowania albo otwarcia postępowania restrukturyzacyjnego, ” , pkt 4 otrzymuje brzmienie: „
+    - **b)**
+
+- **4)** wydania przez Komisję Nadzoru Finansowego decyzji o zawieszeniu działalności banku i ustanowieniu zarządu komisarycznego, o ile nie został on ustanowiony wcześniej, oraz wystąpienia do właściwego sądu z wnioskiem o ogłoszenie upadłości lub otwarcie postępowania restrukturyzacyjnego ” . W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. z 2014 r. poz. 157 oraz z 2015 r. poz. 73) wprowadza się następujące zmiany:
+- **1)** w art. 28 ust. 4 otrzymuje brzmienie: „
+
+4. Wpłaty, o których mowa w ust. 1–2a, nie mogą być przedmiotem egzekucji kierowanej przeciwko towarzystwu i nie wchodzą do masy upadłości towarzystwa oraz nie mogą być objęte postępowaniem restrukturyzacyjnym. ” ;
+
+- **2)** art. 81 otrzymuje brzmienie: „ Przechowywane przez depozytariusza aktywa funduszu inwestycyjnego albo wpłaty dokonane na rachunek, o którym mowa w art. 28 ust. 1 i art. 130 ust. 1, nie mogą być przedmiotem egzekucji kierowanej przeciwko depozytariuszowi lub podmiotom, o których mowa w art. 72 ust. 1 pkt 1, i nie wchodzą do masy upadłości depozytariusza lub tych podmiotów i nie mogą być objęte postępowaniem restrukturyzacyjnym. ” .
+
+**Art. 433.** W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, 699 i 875) w art. 25 w ust. 1 pkt 14 i 15 otrzymują brzmienie: „
+
+- **14)** informacja o ogłoszeniu upadłości i ukończeniu tego postępowania;
+- **15)** informacja o otwarciu postępowania restrukturyzacyjnego i jego ukończeniu albo uprawomocnieniu się postanowienia o zatwierdzeniu układu w postępowaniu o zatwierdzenie układu; ” .
+
+**Art. 434.** W ustawie z dnia 30 czerwca 2005 r. o kinematografii (Dz. U. Nr 132, poz. 1111, z późn. zm.) w art. 22 w ust. 2 w pkt 3 lit. b otrzymuje brzmienie: „
+
+pozostaje pod zarządem komisarycznym albo znajduje się w toku likwidacji, postępowania upadłościowego, postępowania restrukturyzacyjnego, lub ” .
+
+- **b)**
+
+**Art. 435.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2014 r. poz. 1025, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w tytule II tytuł działu 7 otrzymuje brzmienie: „Wysokość opłat w postępowaniach upadłościowym i restrukturyzacyjnym”;
+- **2)** w art. 74 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+- **3)** wniosku o zatwierdzenie układu po samodzielnym zbieraniu głosów albo otwarcie postępowania restrukturyzacyjnego. ” ;
+- **3)** w art. 75: uchyla się pkt 1, pkt 3 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **3)** zażalenia na postanowienia wydane w postępowaniach upadłościowym i restrukturyzacyjnym; ” , uchyla się pkt 4, dodaje się pkt 6 i 7 w brzmieniu: „
+    - **c)**
+    - **d)**
+
+- **6)** uproszczonego wniosku o otwarcie postępowania sanacyjnego;
+- **7)** uproszczonego wniosku o ogłoszenie upadłości. ” ;
+- **4)** w art. 76: pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** zarzutów przeciwko planowi podziału; ” , w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
+    - **b)**
+
+- **5)** wniosku upadłego przedsiębiorcy będącego osobą fizyczną o ustalenie planu spłaty i umorzenie pozostałej części zobowiązań, które nie zostały zaspokojone w postępowaniu upadłościowym. ” ;
+- **5)** po art. 76a dodaje się art. 76b w brzmieniu: „ Piątą część opłaty stosunkowej pobiera się od sprzeciwu oraz od zażalenia na postanowienie sędziego-komisarza wydane w wyniku rozpoznania sprzeciwu. ” .
+
+**Art. 436.** W ustawie z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2013 r. poz. 1382) wprowadza się następujące zmiany:
+
+- **1)** w art. 75 w ust. 3 pkt 3 otrzymuje brzmienie: „
+- **3)** w trybie określonym przepisami prawa upadłościowego oraz w postępowaniu egzekucyjnym; ” ;
+- **2)** w art. 79 w ust. 1 pkt 2 otrzymuje brzmienie: „
+- **2)** w przypadku gdy nie jest możliwe ustalenie ceny zgodnie z pkt 1 albo w przypadku spółki, w stosunku do której otwarte zostało postępowanie restrukturyzacyjne lub upadłościowe – nie może być niższa od ich wartości godziwej. ” ;
+- **3)** w art. 91 ust. 9 otrzymuje brzmienie: „
+
+9. Skutek określony w ust. 2 zdanie pierwsze następuje z mocy prawa bez spełnienia warunków, o których mowa w ust. 4–6, po upływie 6 miesięcy od dnia uprawomocnienia się postanowienia o ogłoszeniu upadłości tej spółki lub postanowienia o oddaleniu wniosku o ogłoszenie jej upadłości ze względu na to, że majątek spółki nie wystarcza lub wystarcza jedynie na zaspokojenie kosztów postępowania. Zniesienie dematerializacji akcji następuje nie wcześniej niż z dniem upływu tego terminu. ” .
+
+**Art. 437.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2014 r. poz. 94 i 586 oraz z 2015 r. poz. 73) wprowadza się następujące zmiany:
+
+- **1)** w art. 45e w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wszczęcie postępowania upadłościowego, restrukturyzacyjnego, egzekucyjnego lub otwarcie likwidacji, a także podjęcie innych środków prawnych względem uczestnika lub innego podmiotu zawierającego transakcje: ” ;
+- **2)** w art. 45h: ust. 14 otrzymuje brzmienie: „
+    - **a)**
+
+14. W przypadku ogłoszenia upadłości podmiotu rozliczającego, przepis art. 85 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2015 r. poz. 233 i 978) stosuje się odpowiednio do transakcji rozliczanych w sposób, o którym mowa w ust. 1 i 2. ” , dodaje się ust. 15 w brzmieniu: „
+
+- **b)**
+
+15. W przypadku otwarcia wobec podmiotu rozliczającego przyspieszonego postępowania układowego, postępowania układowego lub postępowania sanacyjnego przepisy art. 250 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. poz. 978) stosuje się odpowiednio do transakcji rozliczanych w sposób, o którym mowa w ust. 1 i 2. ” ;
+
+- **3)** w art. 133 w ust. 2 pkt 1 i 2 otrzymują brzmienie: „
+- **1)** ogłoszenia upadłości lub otwarcia postępowania restrukturyzacyjnego domu maklerskiego lub
+- **2)** prawomocnego oddalenia wniosku o ogłoszenie upadłości ze względu na to, że majątek tego domu maklerskiego nie wystarcza lub jedynie wystarcza na zaspokojenie kosztów postępowania, lub ” ;
+- **4)** w art. 139 ust. 10 otrzymuje brzmienie: „
+
+10. Inwestor zachowuje prawo do dochodzenia od masy upadłości, masy sanacyjnej lub domu maklerskiego swoich roszczeń ponad kwotę określoną w ust. 1 i 2. ” ;
+
+- **5)** w art. 140: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Syndyk lub zarządca jest obowiązany niezwłocznie, lecz nie później niż w terminie 6 miesięcy od dnia ogłoszenia upadłości domu maklerskiego albo otwarcia wobec niego postępowania restrukturyzacyjnego, ustalić i przedstawić w formie pisemnej Krajowemu Depozytowi: ” , – pkt 2 i 3 otrzymują brzmienie: „ 2) kwotę płynnych środków domu maklerskiego wchodzących w skład masy upadłości, masy układowej albo masy sanacyjnej według stanu na dzień ogłoszenia upadłości albo otwarcia postępowania restrukturyzacyjnego; 3) wysokość wydatków związanych z wypłatą wynagrodzeń pracownikom upadłego albo restrukturyzowanego domu maklerskiego i wysokość bieżących wydatków związanych z kosztami postępowania upadłościowego albo restrukturyzacyjnego, poniesionych do dnia sporządzenia listy inwestorów, powiększoną o wysokość niezbędnych wydatków związanych z wypłatą rekompensat, wraz z aktualną wysokością środków płynnych domu maklerskiego znajdujących się w dyspozycji syndyka lub zarządcy; ” , ust. 3 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+3. W przypadku powstania uzasadnionych wątpliwości co do podanej przez syndyka lub zarządcę wysokości wydatków określonych w ust. 1 pkt 3, Krajowy Depozyt zwraca się do sędziego-komisarza o zatwierdzenie wydatków w trybie art. 168 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe albo art. 32 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne, co nie wstrzymuje powzięcia przez Krajowy Depozyt uchwały o przekazaniu kwot na wypłatę rekompensat. ” , ust. 6 otrzymuje brzmienie: „
+
+- **c)**
+
+6. Po ustaleniu listy wierzytelności, spisu wierzytelności lub po stwierdzeniu wierzytelności prawomocnym orzeczeniem sądu syndyk lub zarządca uzupełnia listę, o której mowa w ust. 1 pkt 1, o wierzytelności inwestorów nieobjęte tą listą. Do uzupełnień listy inwestorów przepisy ust. 1–5 stosuje się odpowiednio. ” ;
+
+- **6)** w art. 141 ust. 3 i 4 otrzymują brzmienie: „
+
+3. W kwocie na wypłatę rekompensat uwzględnia się w całości udział w systemie, jaki przysługuje domowi maklerskiemu w stanie upadłości albo w restrukturyzacji.
+
+4. Kwoty na wypłatę rekompensat, przekazane na podstawie uchwały zarządu Krajowego Depozytu syndykowi lub zarządcy, nie wchodzą do masy upadłości, masy układowej, ani masy sanacyjnej i nie mogą być wykorzystane przez syndyka lub zarządcę na żaden inny cel niż wypłata rekompensat. ” ;
+
+- **7)** art. 142 otrzymuje brzmienie: „ Z tytułu przekazania środków syndykowi lub zarządcy, Krajowemu Depozytowi przysługuje roszczenie do masy upadłości, masy sanacyjnej lub do restrukturyzowanego domu maklerskiego o zwrot do systemu rekompensat przekazanych kwot, które w postępowaniu upadłościowym ulegają zaspokojeniu w kategorii pierwszej, o której mowa w art. 342 ust. 1 pkt 1 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe, po zaspokojeniu należności za pracę. Roszczenie o zwrot nie obejmuje jednak tej części przekazanej kwoty, jaka odpowiada udziałowi w systemie rekompensat domu maklerskiego w stanie upadłości albo w restrukturyzacji. ” ;
+- **8)** art. 144 otrzymuje brzmienie: „
+
+1. Wierzytelności przysługujące inwestorowi w stosunku do masy upadłości, masy sanacyjnej lub restrukturyzowanego domu maklerskiego, w wysokości kwot wypłaconych z tytułu rekompensat przechodzą z mocy prawa na Krajowy Depozyt, który realizuje je na rzecz systemu rekompensat.
+
+2. Kwoty zwrócone Krajowemu Depozytowi przez syndyka lub zarządcę w trybie określonym w art. 143 ust. 2 nie zmniejszają wierzytelności Krajowego Depozytu do masy upadłości, masy sanacyjnej lub restrukturyzowanego domu maklerskiego z tytułu przekazania środków pieniężnych na wypłatę rekompensat. ” ;
+
+- **9)** w art. 145: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku gdy nastąpi prawomocne oddalenie wniosku o ogłoszenie upadłości ze względu na to, że majątek domu maklerskiego nie wystarcza lub jedynie wystarcza na zaspokojenie kosztów postępowania, albo umorzenie postępowania upadłościowego, albo stwierdzenie przez Komisję zaistnienia okoliczności, o której mowa w art. 133 ust. 2 pkt 3, albo gdy dłużnik w postępowaniu restrukturyzacyjnym nie zostanie pozbawiony zarządu: ” , ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2. W przypadku otwarcia postępowania restrukturyzacyjnego domu maklerskiego, wierzytelności inwestorów wobec dłużnika z tytułu usług świadczonych na ich rzecz w zakresie czynności, o których mowa w art. 69 ust. 2 i ust. 4 pkt 1, do wysokości przysługujących im rekompensat, nie są objęte układem, a w głosowaniu nad układem, obok innych wierzycieli, mogą brać udział jedynie inwestorzy, których wierzytelności wobec upadłego są wyższe od przysługujących im rekompensat, i tylko w zakresie tej nadwyżki. ” .
+
+**Art. 438.** W ustawie z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz. U. z 2014 r. poz. 272, 598 i 923) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 w ust. 1 tiret drugie-czwarte otrzymują brzmienie: „ – w przypadku przedsiębiorców zagranicznych z Danii i państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym – może być wobec nich uznane główne zagraniczne postępowanie upadłościowe, o którym mowa w przepisach ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2015 r. poz. 233 i 978) dotyczących międzynarodowego postępowania upadłościowego, – w przypadku przedsiębiorców prowadzących działalność gospodarczą na terytorium Rzeczypospolitej Polskiej, a także oddziałów banków zagranicznych – odrębne przepisy nie wyłączają możliwości ogłoszenia na terytorium Rzeczypospolitej Polskiej upadłości oraz wszczęcia postępowania restrukturyzacyjnego takiego pracodawcy, – w przypadku przedsiębiorców zagranicznych z państw członkowskich Unii Europejskiej i państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym działających na terenie Rzeczypospolitej Polskiej jako oddział instytucji kredytowej lub zakładu ubezpieczeń – może zostać wszczęte wobec instytucji kredytowej lub zakładu ubezpieczeń postępowanie upadłościowe, postępowanie restrukturyzacyjne lub inne podobne postępowanie, ” ;
+- **2)** art. 3 otrzymuje brzmienie: „
+
+1. Niewypłacalność pracodawcy, o której mowa w art. 2 ust. 1, zachodzi, gdy sąd upadłościowy lub restrukturyzacyjny, na podstawie przepisów Prawa upadłościowego lub Prawa restrukturyzacyjnego, wyda postanowienie o:
+
+- **1)** ogłoszeniu upadłości pracodawcy lub wszczęciu wobec niego wtórnego postępowania upadłościowego;
+- **2)** otwarciu postępowania restrukturyzacyjnego, o którym mowa w art. 2 pkt 2–4 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. poz. 978);
+- **3)** oddaleniu wniosku o ogłoszenie upadłości pracodawcy, jeżeli jego majątek nie wystarcza lub jedynie wystarcza na zaspokojenie kosztów postępowania;
+- **4)** oddaleniu wniosku o ogłoszenie upadłości w przypadku stwierdzenia, że majątek dłużnika jest obciążony hipoteką, zastawem, zastawem rejestrowym, zastawem skarbowym lub hipoteką morską w takim stopniu, że pozostały jego majątek nie wystarcza na zaspokojenie kosztów postępowania.
+
+2. Datą niewypłacalności jest data wydania postanowienia sądu upadłościowego o ogłoszeniu upadłości lub wszczęciu wtórnego postępowania upadłościowego pracodawcy, data wydania postanowienia sądu restrukturyzacyjnego o otwarciu postępowania restrukturyzacyjnego pracodawcy, data postanowienia sądu upadłościowego o oddaleniu wniosku o ogłoszenie upadłości pracodawcy w przypadkach, o których mowa w ust. 1 pkt 3 i 4. ” ;
+
+- **3)** w art. 5 ust. 1 otrzymuje brzmienie: „
+
+1. Niewypłacalność pracodawcy, o którym mowa w art. 2 ust. 1, zachodzi również w przypadku wydania, zgodnie z przepisami Prawa upadłościowego dotyczącymi międzynarodowego postępowania upadłościowego, przez sąd upadłościowy postanowienia o uznaniu orzeczenia o wszczęciu głównego zagranicznego postępowania upadłościowego wszczętego wobec przedsiębiorcy zagranicznego z Danii lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym. ” ;
+
+- **4)** w art. 8 w ust. 1 w pkt 1: wprowadzenie do wyliczenia otrzymuje brzmienie: „ na podstawie przepisów Prawa upadłościowego sąd upadłościowy wyda postanowienie o umorzeniu postępowania upadłościowego, jeżeli: ” , lit. a otrzymuje brzmienie: „ majątek pozostały po wyłączeniu z niego przedmiotów majątkowych dłużnika obciążonych hipoteką, zastawem, zastawem rejestrowym, zastawem skarbowym lub hipoteką morską nie wystarcza na zaspokojenie kosztów postępowania, ” ;
+    - **a)**
+    - **b)**
+    - **a)**
+
+- **5)** w art. 14 ust. 4 otrzymuje brzmienie: „
+
+4. W przypadku gdy sędzia-komisarz wyda, zgodnie z przepisami Prawa upadłościowego, postanowienie, że określona część wynagrodzenia za pracę pracownika wykonującego zadania w zakresie zarządu przedsiębiorstwem lub wynagrodzenie osoby świadczącej usługi związane z zarządem przedsiębiorstwem upadłego, określone w umowie o pracę lub umowie o świadczenie usług zawartej przed ogłoszeniem upadłości, lub określona część świadczeń przysługujących w związku z rozwiązaniem stosunku pracy albo umowy o usługi związane z zarządem przedsiębiorstwem jest bezskuteczna w stosunku do masy upadłości, a wysokości części w stosunku do niej skutecznych są niższe niż przeciętne miesięczne wynagrodzenie, o którym mowa w ust. 1 – wysokość wypłacanych świadczeń nie może odpowiednio przekraczać wysokości roszczenia skutecznego do masy upadłości. ” ;
+
+- **6)** w art. 14a ust. 1 otrzymuje brzmienie: „
+
+1. W okresie od dnia złożenia wniosku o ogłoszenie upadłości pracodawcy spełniającego wymogi wskazane w art. 22–25 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe do dnia wydania przez sąd postanowienia w sprawie ogłoszenia upadłości, pracodawca może złożyć do marszałka województwa wniosek o wypłatę zaliczek przeznaczonych na zaspokojenie niezaspokojonych świadczeń pracowniczych, o których mowa w art. 12 ust. 2, w kwocie niezaspokojonych świadczeń należnych uprawnionemu pracownikowi, nie wyższej jednak niż wysokość minimalnego wynagrodzenia za pracę, obowiązującego w dniu wypłaty zaliczki. ” ;
+
+- **7)** w art. 15 ust. 1 otrzymuje brzmienie: „
+
+1. W okresie miesiąca od daty niewypłacalności pracodawcy pracodawca, nadzorca sądowy lub zarządca, syndyk, likwidator lub inna osoba sprawująca zarząd majątkiem pracodawcy sporządza i składa marszałkowi województwa zbiorczy wykaz niezaspokojonych roszczeń, zwany dalej „zbiorczym wykazem”, określając osoby uprawnione, o których mowa w art. 10, oraz tytuły i wysokość roszczeń wnioskowanych do zaspokojenia ze środków Funduszu. Zbiorczy wykaz obejmuje roszczenia z okresów poprzedzających datę niewypłacalności pracodawcy. ” ;
+
+- **8)** w art. 16 ust. 3 otrzymuje brzmienie: „
+
+3. Marszałek województwa, o którym mowa w art. 15 ust. 3, dokonuje wypłaty niezwłocznie po stwierdzeniu, że wniosek obejmuje roszczenia podlegające zaspokojeniu ze środków Funduszu oraz niezwłocznie powiadamia o tym pracodawcę, nadzorcę sądowego lub zarządcę, syndyka, likwidatora lub inną osobę sprawującą zarząd majątkiem pracodawcy. ” ;
+
+- **9)** w art. 17 w ust. 4 pkt 1 otrzymuje brzmienie: „
+- **1)** w przypadkach, o których mowa w ust. 1 pkt 1 – wydania, zgodnie z przepisami Prawa upadłościowego dotyczącymi międzynarodowego postępowania upadłościowego, przez sąd upadłościowy postanowienia o uznaniu orzeczenia o wszczęciu głównego zagranicznego postępowania upadłościowego wszczętego wobec przedsiębiorcy zagranicznego z Danii lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym albo ” ;
+- **10)** w art. 23 w ust. 6 pkt 4 otrzymuje brzmienie: „
+- **4)** sąd upadłościowy wydał postanowienie, o którym mowa w art. 3 ust. 1 pkt 3 lub 4 lub art. 8 ust. 1 pkt 1 lit. a. ” ;
+- **11)** art. 23a otrzymuje brzmienie: „
+
+1. Dysponent Funduszu może upoważnić marszałka województwa właściwego ze względu na siedzibę pracodawcy do wyrażania zgody, o której mowa w art. 151 ust. 2 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne.
+
+2. W przypadku braku wyrażenia przez marszałka województwa zgody, o której mowa w art. 151 ust. 2 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne, oraz w odniesieniu do wierzytelności Funduszu nieobjętych układem w postępowaniu restrukturyzacyjnym, dysponent Funduszu może zawrzeć z dłużnikiem, który zawarł układ z wierzycielami w postępowaniu restrukturyzacyjnym, porozumienie w przedmiocie określenia warunków zwrotu należności, w szczególności rozłożyć na raty lub odroczyć termin spłaty należności, jeżeli prowadzi to do zwrotu należności w całości.
+
+3. Jeżeli warunki zwrotu, o których mowa w ust. 2, stanowią pomoc publiczną, porozumienie może zostać zawarte wyłącznie zgodnie z przepisami Prawa restrukturyzacyjnego dotyczącymi pomocy publicznej na restrukturyzację.
+
+4. W przypadku wystąpienia przesłanek, o których mowa w ust. 2, marszałek województwa właściwy ze względu na siedzibę pracodawcy wnioskuje do dysponenta Funduszu o określenie warunków zwrotu należności. ” .
+
+**Art. 439.** W ustawie z dnia 18 października 2006 r. o wyrobie napojów spirytusowych oraz o rejestracji i ochronie oznaczeń geograficznych napojów spirytusowych (Dz. U. z 2013 r. poz. 144) w art. 6 w ust. 2 w pkt 6 lit. c otrzymuje brzmienie: „
+
+wobec przedsiębiorcy nie jest prowadzone postępowanie egzekucyjne, likwidacyjne lub upadłościowe. ” .
+
+- **c)**
+
+**Art. 440.** W ustawie z dnia 15 czerwca 2007 r. o licencji syndyka (Dz. U. z 2014 r. poz. 776) wprowadza się następujące zmiany:
+
+- **1)** tytuł ustawy otrzymuje brzmienie: „o licencji doradcy restrukturyzacyjnego”;
+- **2)** użyte w art. 1, art. 3 ust. 1 we wprowadzeniu do wyliczenia i pkt 6, tytule rozdziału 2, art. 4 ust. 1, art. 6 ust. 1 i 3–5, art. 9 pkt 1, tytule rozdziału 3, art. 10 ust. 1, art. 11–14, art. 16 we wprowadzeniu do wyliczenia, ust. 2 i 3, art. 17 ust. 1–3a, art. 18, art. 19, art. 20 ust. 1–3, w różnej liczbie i przypadku, wyrazy „licencja syndyka” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „licencja doradcy restrukturyzacyjnego”;
+- **3)** art. 2 otrzymuje brzmienie: „
+
+1. Licencja doradcy restrukturyzacyjnego uprawnia do wykonywania czynności:
+
+- **1)** syndyka na podstawie ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2015 r. poz. 233 i 978) oraz nadzorcy i zarządcy na podstawie ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. poz. 978);
+- **2)** zarządcy w egzekucji przez zarząd przymusowy na podstawie ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.).
+
+2. Osoba posiadająca licencję doradcy restrukturyzacyjnego może ponadto wykonywać czynności doradztwa restrukturyzacyjnego.
+
+3. Czynności doradztwa restrukturyzacyjnego obejmują udzielanie porad, opinii i wyjaśnień oraz świadczenie innych usług z zakresu restrukturyzacji i upadłości.
+
+4. Osoba fizyczna posiadająca licencję doradcy restrukturyzacyjnego, prowadząca pozarolniczą działalność gospodarczą powołana do pełnienia funkcji w postępowaniu restrukturyzacyjnym, upadłościowym lub egzekucyjnym wykonuje czynności w ramach działalności gospodarczej.
+
+5. Osoba fizyczna posiadająca licencję doradcy restrukturyzacyjnego jest obowiązana do kształcenia ustawicznego w celu podnoszenia kwalifikacji i umiejętności zawodowych. ” ;
+
+- **4)** w art. 3 w ust. 1 pkt 2 otrzymuje brzmienie: „
+- **2)** zna język polski w zakresie niezbędnym do wykonywania czynności syndyka, nadzorcy lub zarządcy; ” ;
+- **5)** w art. 8 ust. 2 otrzymuje brzmienie: „
+
+2. Egzamin obejmuje zagadnienia z zakresu prawa, ekonomii i finansów oraz zarządzania, ze szczególnym uwzględnieniem specyfiki postępowania upadłościowego i restrukturyzacyjnego. ” ;
+
+- **6)** w art. 15 ust. 1 otrzymuje brzmienie: „
+
+1. Osoba, której przyznano licencję doradcy restrukturyzacyjnego, składa wobec Ministra Sprawiedliwości, przed wpisem na listę osób posiadających licencję doradcy restrukturyzacyjnego, o której mowa w art. 17 ust. 1, ślubowanie według następującej roty: „Mając świadomość znaczenia moich słów i odpowiedzialności przed prawem, ślubuję uroczyście, że powierzone mi obowiązki w postępowaniu upadłościowym lub restrukturyzacyjnym będę wypełniać sumiennie i bezstronnie, dochowując tajemnic prawnie chronionych oraz kierując się w swym postępowaniu zasadami godności, uczciwości i etyki.”. ” ;
+
+- **7)** po art. 17 dodaje się art. 17a w brzmieniu: „
+
+1. Osoba posiadająca licencję doradcy restrukturyzacyjnego, pełniąca funkcję w postępowaniu restrukturyzacyjnym, upadłościowym lub egzekucyjnym podlega obowiązkowemu ubezpieczeniu odpowiedzialności cywilnej za szkody wyrządzone w związku z pełnieniem funkcji.
+
+2. Minister właściwy do spraw instytucji finansowych w porozumieniu z Ministrem Sprawiedliwości, po zasięgnięciu opinii Polskiej Izby Ubezpieczeń, określi, w drodze rozporządzenia, zakres ubezpieczenia obowiązkowego, o którym mowa w ust. 1, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc pod uwagę specyfikę czynności wykonywanych w ramach pełnienia funkcji w postępowaniach, o których mowa w ust. 1, oraz wartość majątku dłużnika, masy układowej lub sanacyjnej albo masy upadłości. ” ;
+
+- **8)** w art. 18 w ust. 1 uchyla się pkt 3;
+- **9)** po art. 18 dodaje się art. 18a w brzmieniu: „
+
+1. W przypadku stwierdzenia, że osoba posiadająca licencję doradcy restrukturyzacyjnego mogła dopuścić się rażącego naruszenia obowiązków nadzorcy, zarządcy albo syndyka, a zostało to ujawnione po zakończeniu pełnienia przez nią funkcji w danym postępowaniu, Minister Sprawiedliwości składa do sądu upadłościowego, przed którym toczy lub toczyło się postępowanie upadłościowe lub restrukturyzacyjne, wniosek o stwierdzenie przez sąd rażącego naruszenia obowiązków.
+
+2. Do ustalenia przez sąd rażącego naruszenia obowiązków przepisy o odwołaniu nadzorcy sądowego, zarządcy albo syndyka z powodu nienależytego pełnienia obowiązków stosuje się odpowiednio. Minister Sprawiedliwości ma uprawnienia uczestnika postępowania.
+
+3. Minister Sprawiedliwości cofa licencję doradcy restrukturyzacyjnego w przypadku prawomocnego ustalenia przez sąd rażącego naruszenia obowiązków syndyka, nadzorcy lub zarządcy.
+
+4. Osoba, której cofnięto licencję doradcy restrukturyzacyjnego z przyczyn wskazanych w ust. 3, nie może ponownie ubiegać się o przyznanie licencji doradcy restrukturyzacyjnego przez okres dziesięciu lat. ” .
+
+**Art. 441.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2014 r. poz. 752, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 48 w ust. 1 pkt 4 otrzymuje brzmienie: „
+- **4)** nie posiada zaległości z tytułu cła i podatków stanowiących dochód budżetu państwa, składek na ubezpieczenia społeczne i zdrowotne oraz nie jest wobec niego prowadzone postępowanie egzekucyjne, likwidacyjne lub upadłościowe; ” ;
+- **2)** w art. 56 w ust. 1 pkt 3 otrzymuje brzmienie: „
+- **3)** nie posiada zaległości z tytułu cła i podatków stanowiących dochód budżetu państwa, składek na ubezpieczenia społeczne i zdrowotne oraz nie jest wobec niego prowadzone postępowanie egzekucyjne, likwidacyjne lub upadłościowe; ” ;
+- **3)** w art. 64 w ust. 1 pkt 4 otrzymuje brzmienie: „
+- **4)** nie posiada zaległości z tytułu cła i podatków stanowiących dochód budżetu państwa, opłaty paliwowej, składek na ubezpieczenia społeczne i zdrowotne oraz nie jest wobec niego prowadzone postępowanie egzekucyjne, likwidacyjne lub upadłościowe; ” .
+
+**Art. 442.** W ustawie z dnia 19 grudnia 2008 r. o postępowaniu kompensacyjnym w podmiotach o szczególnym znaczeniu dla polskiego przemysłu stoczniowego (Dz. U. Nr 233, poz. 1569 oraz z 2011 r. Nr 144, poz. 866) wprowadza się następujące zmiany:
+
+- **1)** w art. 105 ust. 1 otrzymuje brzmienie: „
+
+1. Do spraw, o których mowa w art. 102, stosuje się odpowiednio przepisy art. 19, art. 70–74, art. 255–264 oraz art. 266 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2015 r. poz. 233 i 978), zwanej dalej „Prawem upadłościowym”. ” ;
+
+- **2)** użyte w art. 109 ust. 2, art. 113 ust. 2, art. 138 ust. 2 i 3, art. 139 ust. 1 i 3–5 w różnym przypadku wyrazy „Prawo upadłościowe i naprawcze” zastępuje się użytymi w odpowiednim przypadku wyrazami „Prawo upadłościowe”;
+- **3)** w art. 138 ust. 1 otrzymuje brzmienie: „
+
+1. Prawomocna decyzja o zakończeniu lub umorzeniu postępowania kompensacyjnego wywołuje takie skutki jak wniosek dłużnika o ogłoszenie upadłości, o którym mowa w przepisach Prawa upadłościowego. ” .
+
+**Art. 443.** W ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2013 r. poz. 1450) w art. 74k ust. 1 otrzymuje brzmienie: „ 1. Jeżeli na dzień sprawozdawczy określony w przepisach wydanych na podstawie art. 62c ust. 4 aktywa kasy nie wystarczają na zaspokojenie jej zobowiązań, zarząd kasy, zarządca komisaryczny lub likwidator powiadamia o tym niezwłocznie Komisję Nadzoru Finansowego, która podejmuje decyzję o ustanowieniu zarządcy komisarycznego, o ile nie został ustanowiony wcześniej, i może podjąć decyzję o zawieszeniu działalności kasy oraz wystąpić do właściwego sądu z wnioskiem o ogłoszenie upadłości kasy lub z wnioskiem o otwarcie postępowania układowego, a także Kasę Krajową. O podjętej decyzji Komisja Nadzoru Finansowego niezwłocznie zawiadamia Bankowy Fundusz Gwarancyjny oraz Kasę Krajową. Przepisy art. 73 ust. 3–6b i 8 stosuje się odpowiednio. ” .
+
+**Art. 444.** W ustawie z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2014 r. poz. 1435, 1491 i 1877) w art. 76 w ust. 8 pkt 3 otrzymuje brzmienie: „
+
+- **3)** likwidacji organizatora kształcenia; ” .
+
+**Art. 445.** W ustawie z dnia 16 września 2011 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego (Dz. U. Nr 232, poz. 1377) wprowadza się następujące zmiany:
+
+- **1)** w art. 15 po ust. 2 dodaje się ust. 2a w brzmieniu: „
+
+2a. W przypadku, o którym mowa w art. 425m ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2015 r. poz. 233 i 978), wysokość wypłaty, o której mowa w ust. 1, pomniejsza się o kwotę środków w części dotyczącej nabywcy przekazanych na mieszkaniowy rachunek powierniczy przedsiębiorcy nabywającego nieruchomość na podstawie art. 425l ust. 1 tej ustawy. ” ;
+
+- **2)** w art. 22 w ust. 1 pkt 17 otrzymuje brzmienie: „
+- **17)** informację o zgodzie banku lub innego wierzyciela zabezpieczonego hipoteką na bezobciążeniowe wyodrębnienie lokalu mieszkalnego i przeniesienie jego własności po wpłacie pełnej ceny przez nabywcę, jeżeli takie obciążenie istnieje, albo informację o braku takiej zgody albo informację o zgodzie banku lub innego wierzyciela zabezpieczonego hipoteką na bezobciążeniowe przeniesienie na nabywcę własności nieruchomości wraz z domem jednorodzinnym lub użytkowania wieczystego nieruchomości gruntowej i własności domu jednorodzinnego stanowiącego odrębną nieruchomość lub przeniesienie ułamkowej części własności nieruchomości wraz z prawem do wyłącznego korzystania z części nieruchomości służącej zaspokajaniu potrzeb mieszkaniowych po wpłacie pełnej ceny przez nabywcę, jeżeli takie obciążenie istnieje, albo informację o braku takiej zgody; ” ;
+- **3)** w art. 23 dodaje się ust. 3 w brzmieniu: „
+
+3. Do wpisu roszczenia, o którym mowa w ust. 2, przepisu art. 19 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2013 r. poz. 707, z późn. zm.) nie stosuje się. ” ;
+
+- **4)** w załączniku do ustawy w części ogólnej w pkt III „INFORMACJE DOTYCZĄCE NIERUCHOMOŚCI I PRZEDSIĘWZIĘCIA DEWELOPERSKIEGO” pierwsza część rubryki „INNE INFORMACJE” otrzymuje brzmienie: „ Informacja o zgodzie banku finansującego przedsięwzięcie deweloperskie lub jego część albo finansującego działalność dewelopera w przypadku zabezpieczenia kredytu na hipotece nieruchomości, na której jest realizowane przedsięwzięcie deweloperskie lub jego część, albo też finansującego zakup tej nieruchomości lub jej części w przypadku równoczesnego ustanowienia zabezpieczenia hipotecznego – na bezobciążeniowe wyodrębnienie lokalu mieszkalnego i przeniesienie jego własności albo bezobciążeniowe przeniesienie na nabywcę własności nieruchomości wraz z domem jednorodzinnym lub użytkowania wieczystego nieruchomości gruntowej i własności domu jednorodzinnego stanowiącego odrębną nieruchomość lub przeniesienie ułamkowej części własności nieruchomości wraz z prawem do wyłącznego korzystania z części nieruchomości służącej zaspokajaniu potrzeb mieszkaniowych albo informacja o braku zgody banku finansującego przedsięwzięcie deweloperskie lub jego część, albo finansującego działalność dewelopera w przypadku zabezpieczenia kredytu na hipotece nieruchomości, na której jest realizowane przedsięwzięcie deweloperskie lub jego część, albo też finansującego zakup tej nieruchomości lub jej części w przypadku równoczesnego ustanowienia zabezpieczenia hipotecznego – na bezobciążeniowe wyodrębnienie lokalu mieszkalnego i przeniesienie jego własności albo bezobciążeniowe przeniesienie na nabywcę własności nieruchomości wraz z domem jednorodzinnym lub użytkowania wieczystego nieruchomości gruntowej i własności domu jednorodzinnego stanowiącego odrębną nieruchomość lub przeniesienie ułamkowej części własności nieruchomości wraz z prawem do wyłącznego korzystania z części nieruchomości służącej zaspokajaniu potrzeb mieszkaniowych: ” .
+
+**Art. 446.** W ustawie z dnia 28 czerwca 2012 r. o spłacie niektórych niezaspokojonych należności przedsiębiorców, wynikających z realizacji udzielonych zamówień publicznych (Dz. U. poz. 891, z 2013 r. poz. 792 oraz z 2014 r. poz. 929) wprowadza się następujące zmiany:
+
+- **1)** w art. 5 w ust. 1 pkt 2 otrzymuje brzmienie: „
+- **2)** wobec którego ogłoszono upadłość albo sąd oddalił wniosek o ogłoszenie upadłości na podstawie art. 13 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2015 r. poz. 233 i 978) albo wobec którego otwarto postępowanie restrukturyzacyjne. ” ;
+- **2)** w art. 6 pkt 2 otrzymuje brzmienie: „
+- **2)** spisu wierzycieli, o którym mowa w art. 23 ust. 1 pkt 3 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe, obejmującego należność ” ;
+- **3)** w art. 7: w ust. 1: – pkt 3 otrzymuje brzmienie: „ 3) listy wierzytelności pod warunkiem niezłożenia w stosunku do danej wierzytelności sprzeciwu, o którym mowa w art. 256 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe, lub zatwierdzonej przez sędziego-komisarza listy wierzytelności, albo ” , – dodaje się pkt 4 w brzmieniu: „ 4) spisu wierzytelności pod warunkiem niezłożenia zastrzeżeń, o których mowa w art. 90 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. poz. 978), lub sprzeciwu, o którym mowa w art. 91 tej ustawy, lub zatwierdzonego przez sędziego-komisarza spisu wierzytelności ” , ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2. Na wniosek przedsiębiorcy złożony po upływie 30 dni od dnia obwieszczenia w Centralnym Rejestrze Restrukturyzacji i Upadłości, o którym mowa w art. 5 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne, o przekazaniu listy wierzytelności lub spisu wierzytelności sędziemu-komisarzowi, sędzia-komisarz, w terminie nie dłuższym niż 14 dni od dnia złożenia wniosku, udzieli pisemnej informacji, czy wobec wierzytelności stanowiącej przedmiot wniosku zgłoszono sprzeciw lub zastrzeżenie. ” ;
+
+- **4)** w art. 10 ust. 1 otrzymuje brzmienie: „
+
+1. W przypadku ogłoszenia upadłości wykonawcy lub otwarcia wobec niego postępowania restrukturyzacyjnego Generalny Dyrektor zawiadamia sędziego-komisarza o przedsiębiorcach, którym wypłacono należności, oraz o ich wysokości. ” .
+
+**Art. 447.** W ustawie z dnia 25 lipca 2014 r. o specjalnym podatku węglowodorowym (Dz. U. poz. 1215) w art. 10 w ust. 2 pkt 2 otrzymuje brzmienie: „
+
+- **2)** postanowieniem sądu o: oddaleniu wniosku o ogłoszenie upadłości, gdy majątek niewypłacalnego dłużnika nie wystarcza na zaspokojenie kosztów postępowania lub wystarcza jedynie na zaspokojenie kosztów lub umorzeniu postępowania upadłościowego, gdy zachodzi okoliczność wymieniona w lit. a, lub zakończeniu postępowania upadłościowego, albo ” .
+    - **a)**
+    - **b)**
+    - **c)**
+
+### Dział II Przepisy przejściowe
+
+**Art. 448.** Przepisy o skutkach wszczęcia postępowania co do osoby, majątku i zobowiązań dłużnika lub upadłego stosuje się również do zdarzeń prawnych, które miały miejsce przed dniem wejścia w życie ustawy. W sprawach, w których przed dniem wejścia w życie ustawy wpłynął wniosek o ogłoszenie upadłości, stosuje się przepisy dotychczasowe.
 
 **Art. 450.** W sprawach, w których przed dniem wejścia w życie ustawy wpłynął wniosek o zmianę układu lub uchylenie układu, a nie wydano jeszcze postanowienia w tym przedmiocie, postępowanie prowadzi się według przepisów dotychczasowych.
 
@@ -3471,7 +6259,7 @@ Art. 401–447. (pominięte)
 
 1. W sprawach, w których przed dniem wejścia w życie ustawy wpłynął wniosek o orzeczenie zakazu prowadzenia działalności gospodarczej, stosuje się przepisy dotychczasowe, z tym że zakaz ten może być orzeczony na okres od roku do dziesięciu lat.
 
-2. W sprawach, w których po wejściu w życie ustawy wpłynął wniosek o orzeczenie zakazu prowadzenia działalności gospodarczej, działania lub zaniechania, o których mowa w art. 373 i art. 374 ustawy zmienianej w art. 428 , w brzmieniu nadanym niniejszą ustawą, ocenia się według przepisów ustawy obowiązującej w dniu ich wystąpienia.
+2. W sprawach, w których po wejściu w życie ustawy wpłynął wniosek o orzeczenie zakazu prowadzenia działalności gospodarczej, działania lub zaniechania, o których mowa w art. 373 i art. 374 ustawy zmienianej w art. 428, w brzmieniu nadanym niniejszą ustawą, ocenia się według przepisów ustawy obowiązującej w dniu ich wystąpienia.
 
 3. Jeżeli działania lub zaniechania, o których mowa w art. 373 i art. 374 ustawy zmienianej w art. 428 w brzmieniu nadanym niniejszą ustawą, które stanowią podstawę orzeczenia zakazu prowadzenia działalności gospodarczej, miały miejsce zarówno przed dniem wejścia w życie ustawy, jak i po jej wejściu w życie, do oceny ich skutków stosuje się przepisy ustawy zmienianej w art. 428 w brzmieniu nadanym niniejszą ustawą.
 
@@ -3479,21 +6267,24 @@ Art. 401–447. (pominięte)
 
 1. Z dniem wejścia w życie ustawy licencja syndyka staje się licencją doradcy restrukturyzacyjnego.
 
-2. Do wniosków, o których mowa w art. 10 ust. 1 ustawy zmienianej w art. 440 , złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 440 w brzmieniu nadanym niniejszą ustawą.
+2. Do wniosków, o których mowa w art. 10 ust. 1 ustawy zmienianej w art. 440, złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 440 w brzmieniu nadanym niniejszą ustawą.
 
-3. Złożenie egzaminu dla osób ubiegających się o licencję syndyka przed dniem wejścia w życie ustawy uprawnia do ubiegania się o licencję doradcy restrukturyzacyjnego.
-
-**Art. 454.** Likwidatorzy, o których mowa w art. 116b ustawy zmienianej w art. 417 , nie odpowiadają za zaległości podatkowe oraz zaległości z tytułu składek na ubezpieczenia społeczne w rozumieniu ustawy zmienianej w art. 419 , które powstały przed dniem wejścia w życie niniejszej ustawy.
+3. Złożenie egzaminu dla osób ubiegających się o licencję syndyka przed dniem wejścia w życie ustawy uprawnia do ubiegania się o licencję doradcy restrukturyzacyjnego. Likwidatorzy, o których mowa w art. 116b ustawy zmienianej w art. 417, nie odpowiadają za zaległości podatkowe oraz zaległości z tytułu składek na ubezpieczenia społeczne w rozumieniu ustawy zmienianej w art. 419, które powstały przed dniem wejścia w życie niniejszej ustawy.
 
 **Art. 455.**
 
-1. Do dnia utworzenia Rejestru obwieszczeń, o których mowa w ustawie, dokonuje się w Monitorze Sądowym i Gospodarczym. W postępowaniu upadłościowym wobec osób fizycznych nieprowadzących działalności gospodarczej obwieszczenia nie podlegają opłatom. Obwieszczeń może dokonywać również syndyk, nadzorca sądowy lub zarządca, składając, po ukazaniu się obwieszczenia, do akt, dowód dokonania obwieszczenia.
+1. Do dnia utworzenia Rejestru obwieszczeń, o których mowa w ustawie, dokonuje się w Monitorze Sądowym i Gospodarczym.
 
 2. Postanowienia, zarządzenia i dokumenty, które zamieszcza się w Rejestrze do dnia utworzenia Rejestru wykłada się w sekretariacie sądu, o czym należy uczynić wzmiankę na sentencji postanowienia z zaznaczeniem daty wyłożenia. Jeżeli ustawa przewiduje, że termin biegnie od dnia zamieszczenia postanowienia, zarządzenia lub dokumentu w Rejestrze do dnia utworzenia Rejestru termin ten biegnie od dnia wyłożenia w sekretariacie sądu.
 
 3. Jeżeli ustawa przewiduje, że pisma lub dokumenty składa się albo można złożyć w postaci elektronicznej do dnia utworzenia Rejestru pisma lub dokumenty składa się w postaci papierowej.
 
-### DZIAŁ III Przepis końcowy
+### Dział III Przepis końcowy
 
 **Art. 456.** Ustawa wchodzi w życie z dniem 1 stycznia 2016 r., z wyjątkiem:
+
+- **1)** art. 5, który wchodzi w życie z dniem 1 lutego 2018 r.;
+- **2)** art. 148 i art. 149, które wchodzą w życie z dniem 1 września 2015 r.;
+- **3)** art. 428 pkt 138 w zakresie dotyczącym art. 227, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
 

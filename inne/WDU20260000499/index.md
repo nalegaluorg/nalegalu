@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Funduszu Medycznym
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 marca 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 kwietnia 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-04-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000499) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/499/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 marca 2026 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o Funduszu Medycznym
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 października 2020 r. o Funduszu Medycznym (Dz. U. z 2024 r. poz. 889), z uwzględnieniem stanu prawnego na dzień 16 marca 2026 r. oraz zmian wprowadzonych ustawą z dnia 21 listopada 2025 r. o zmianie ustawy o Funduszu Medycznym oraz ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. poz. 1739).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 3 i art. 4 ustawy z dnia 21 listopada 2025 r. o zmianie ustawy o Funduszu Medycznym oraz ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. poz. 1739), które stanowią: „Art. 3. 1. Limitu określonego w art. 31 ust. 4 ustawy zmienianej w art. 1 nie stosuje się w latach 2025–2029 do dotacji, o których mowa w art. 31 ust. 2 tej ustawy.
 2. W 2025 r. minister właściwy do spraw zdrowia nie dokonuje wpłaty z budżetu państwa, o której mowa w art. 8 pkt 2 ustawy zmienianej w art. 1.
@@ -47,9 +47,28 @@ Art. 34–36. (pominięte)
 
 **Art. 1.** Ustawa określa zasady:
 
+- **1)** działania Funduszu Medycznego, zwanego dalej „Funduszem”, oraz jego cele;
+- **2)** gromadzenia środków Funduszu;
+- **3)** udzielania finansowania i dofinansowania ze środków Funduszu.
+
 **Art. 2.** Ilekroć w ustawie jest mowa o:
 
+- **1)** infrastrukturze strategicznej rozumie się przez to infrastrukturę podmiotów leczniczych, o których mowa w art. 13 ust. 2, obejmującą w szczególności infrastrukturę niezbędną do udzielania świadczeń zdrowotnych lub wspierającą rozwój systemu kształcenia kadr medycznych;
+- **2)** podmiocie leczniczym rozumie się przez to podmiot leczniczy, o którym mowa w art. 4 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2026 r. poz. 156);
+- **3)** programie inwestycyjnym rozumie się przez to finansowany ze środków subfunduszu infrastruktury strategicznej, subfunduszu modernizacji podmiotów leczniczych oraz subfunduszu infrastruktury na potrzeby obronne państwa program o okresie realizacji dłuższym niż rok;
+- **4)** projekcie strategicznym rozumie się przez to projekt przyczyniający się do zwiększenia dostępności do świadczeń specjalistycznych, o których mowa w art. 5 pkt 36 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461, 1537 i 1739 oraz z 2026 r. poz. 26 i 203), i świadczeń wysokospecjalistycznych, o których mowa w art. 5 pkt 39 tej ustawy, oraz wspierający rozwój systemu kształcenia kadr medycznych;
+- **5)** świadczeniobiorcy rozumie się przez to świadczeniobiorcę, o którym mowa w art. 2 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **6)** świadczeniodawcy rozumie się przez to świadczeniodawcę, o którym mowa w art. 5 pkt 41 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **7)** świadczeniu opieki zdrowotnej rozumie się przez to świadczenie opieki zdrowotnej, o którym mowa w art. 5 pkt 34 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+
 **Art. 3.** Celem Funduszu jest wsparcie działań zmierzających do poprawy zdrowia i jakości życia w Rzeczypospolitej Polskiej przez zapewnienie dodatkowych źródeł finansowania:
+
+- **1)** profilaktyki, wczesnego wykrywania, diagnostyki i leczenia chorób cywilizacyjnych, w tym chorób nowotworowych, chorób zakaźnych i chorób rzadkich;
+- **2)** infrastruktury ochrony zdrowia wpływającej na jakość i dostępność oraz bezpieczeństwo udzielanych świadczeń opieki zdrowotnej;
+- **3)** dostępu do wysokiej jakości świadczeń opieki zdrowotnej;
+- **4)** rozwoju systemu opieki zdrowotnej przez koncentrację działań wokół pacjenta i jego potrzeb, ze szczególnym uwzględnieniem poprawy jakości życia pacjentów i ich rodzin;
+- **5)** świadczeń opieki zdrowotnej udzielanych osobom do ukończenia 18. roku życia;
+- **6)** świadczeń opieki zdrowotnej udzielanych świadczeniobiorcom poza granicami kraju.
 
 **Art. 4.** Minister właściwy do spraw zdrowia przeprowadza konkursy w sposób przejrzysty, rzetelny i bezstronny oraz zapewnia wnioskodawcom równy dostęp do informacji o warunkach i sposobie naboru oraz wyboru projektów.
 
@@ -118,7 +137,28 @@ Art. 34–36. (pominięte)
 
 **Art. 7.** Fundusz gromadzi środki z przeznaczeniem na:
 
+- **1)** dofinansowanie zadania polegającego na budowie, przebudowie, modernizacji lub doposażeniu infrastruktury strategicznej w ramach subfunduszu infrastruktury strategicznej;
+- **2)** dofinansowanie zadania polegającego na budowie, modernizacji, przebudowie lub doposażeniu podmiotów leczniczych w ramach subfunduszu modernizacji podmiotów leczniczych;
+- **2a)** dofinansowanie zadania polegającego na wsparciu rozwoju innowacyjnych rozwiązań służących do udzielania świadczeń opieki zdrowotnej;
+- **2b)** dofinansowanie zadania polegającego na budowie, rozbudowie, modernizacji, przebudowie lub wyposażeniu podmiotów leczniczych w ramach subfunduszu infrastruktury na potrzeby obronne państwa;
+- **3)** finansowanie leków w ramach ratunkowego dostępu do technologii lekowych, o którym mowa w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **3a)** finansowanie szczepionek do przeprowadzania zalecanych szczepień ochronnych w ramach Programu Szczepień Ochronnych, o którym mowa w art. 17 ust. 11 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2025 r. poz. 1675 oraz z 2026 r. poz. 26);
+- **4)** finansowanie technologii lekowej o wysokiej wartości klinicznej, o której mowa w art. 2 pkt 24a ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2026 r. poz. 253) lub technologii lekowej o wysokim poziomie innowacyjności, o której mowa w art. 2 pkt 24b tej ustawy;
+- **5)** dofinansowanie zadania polegającego na zwiększaniu skuteczności programów zdrowotnych lub programów polityki zdrowotnej w ramach subfunduszu rozwoju profilaktyki;
+- **6)** finansowanie świadczeń opieki zdrowotnej udzielanych osobom do ukończenia 18. roku życia;
+- **7)** finansowanie świadczeń opieki zdrowotnej udzielanych świadczeniobiorcom poza granicami kraju;
+- **8)** finansowanie świadczeń opieki zdrowotnej udzielanych osobom do ukończenia 18. roku życia, związanych z diagnostyką genetyczną, zakwalifikowanych jako świadczenia gwarantowane z zakresów, o których mowa w art. 15 ust. 2 pkt 2 i 3 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **8a)** finansowanie świadczeń opieki zdrowotnej udzielanych osobom do ukończenia 18. roku życia w zakresie leczenia chorób rzadkich w rozumieniu dyrektywy Parlamentu Europejskiego i Rady 2011/24/UE z dnia 9 marca 2011 r. w sprawie stosowania praw pacjentów w transgranicznej opiece zdrowotnej (Dz. Urz. UE L 88 z 04.04.2011, str. 45, z późn. zm. ), produktami leczniczymi terapii zaawansowanej, podawanymi jednorazowo w leczeniu szpitalnym, nieobjętych finansowaniem na podstawie art. 15 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **9)** dofinansowanie zadania polegającego na budowie, modernizacji, przebudowie lub doposażeniu centrów zdrowia 75+, o których mowa w ustawie z dnia 17 sierpnia 2023 r. o szczególnej opiece geriatrycznej (Dz. U. z 2024 r. poz. 1666 i 1897 oraz z 2026 r. poz. 160), w ramach subfunduszu modernizacji podmiotów leczniczych;
+- **10)** finansowanie zadań związanych z poprawą jakości teleinformatycznej obsługi pacjentów.
+
 **Art. 8.** Przychodami Funduszu są:
+
+- **1)** wpływy z tytułu opłat, o których mowa w art. 95e ust. 6 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **2)** wpłaty z budżetu państwa przekazywane przez ministra właściwego do spraw zdrowia, w wysokości określonej corocznie w ustawie budżetowej na dany rok budżetowy, nieniższej niż 4,0 mld zł;
+- **3)** odsetki od zgromadzonych środków;
+- **4)** dobrowolne wpłaty, darowizny i zapisy;
+- **5)** wpływy z innych tytułów.
 
 **Art. 9.**
 

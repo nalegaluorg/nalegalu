@@ -8,12 +8,10 @@ pos: 1032
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o dotacji przeznaczonej dla przedsiębiorstwa państwowego Zakłady Chemiczne „Tarnowskie Góry” w Tarnowskich Górach w likwidacji
-
-*USTAWA z dnia 10 lipca 2007 r.*
+# Ustawa z dnia 10 lipca 2007 r. o dotacji przeznaczonej dla przedsiębiorstwa państwowego Zakłady Chemiczne „Tarnowskie Góry” w Tarnowskich Górach w likwidacji
 
 | Pole | Wartość |
 |---|---|
@@ -24,18 +22,26 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2007-07-10 |
 | Data wydania | 2007-08-14 |
+| Wejście w życie | 2007-08-29 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071471032) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1032/text.pdf) |
 
 **Art. 1.** Ustawa określa cel i zakres wykorzystania oraz sposób udzielenia dotacji przeznaczonej dla przedsiębiorstwa państwowego Zakłady Chemiczne „Tarnowskie Góry” w Tarnowskich Górach w likwidacji, zwanego dalej „Zakładem”.
 
-**Art. 2.** Dotację przeznacza się na dofinansowanie prac zabezpieczających przedsięwzięcie „Ochrona Głównego Zbiornika Wód Podziemnych 330 - Gliwice, przez kompleksowe unieszkodliwienie odpadów wraz z rekultywacją terenów skażonych Zakładów Chemicznych „Tarnowskie Góry” w Tarnowskich Górach w likwidacji”, w zakresie:
+**Art. 2.** Dotację przeznacza się na dofinansowanie prac zabezpieczających przedsięwzięcie „Ochrona Głównego Zbiornika Wód Podziemnych 330 – Gliwice, przez kompleksowe unieszkodliwienie odpadów wraz z rekultywacją terenów skażonych Zakładów Chemicznych „Tarnowskie Góry” w Tarnowskich Górach w likwidacji”, w zakresie:
+
+- **1)** eksploatacji oczyszczalni ścieków;
+- **2)** monitoringu środowiska na terenie i w rejonie Zakładu;
+- **3)** dozorowania mienia i wykonywania prac naprawczych na terenie Zakładu objętego przedsięwzięciem.
 
 **Art. 3.** Dotację na wykonanie zadań, określonych w art. 2, przyznaje się na wniosek Zakładu, na podstawie zaakceptowanego przez Wojewodę Śląskiego:
 
+- **1)** programu likwidacji przedsiębiorstwa;
+- **2)** harmonogramu rzeczowo-finansowego prac planowanych do wykonania.
+
 **Art. 4.**
 
-1. Podstawą przyznania dotacji na wykonanie zada ń, określonych w art. 2, jest umowa zawarta między Wojewodą Śląskim a Zakładem.
+1. Podstawą przyznania dotacji na wykonanie zadań, określonych w art. 2, jest umowa zawarta między Wojewodą Śląskim a Zakładem.
 
 2. Umowa, o której mowa w ust. 1, określa w szczególności zobowiązanie Zakładu do wykonywania zadań, określonych w art. 2, wysokość dotacji i terminy przekazywania środków finansowych, sposób rozliczania i przyczyny ewentualnego zwrotu dotacji.
 

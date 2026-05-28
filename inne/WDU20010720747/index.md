@@ -24,22 +24,99 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2001-06-07 |
 | Data wydania | 2001-07-13 |
-| Ostatnia zmiana | 2026-05-14 |
+| Ostatnia zmiana | 2026-05-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010720747) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/747/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa zasady i warunki zbiorowego zaopatrzenia w wodę, w szczególności zaopatrzenia w wodę przeznaczoną do spożycia przez ludzi w całym łańcuchu dostaw wody przeznaczonej do spożycia przez ludzi, oraz zbiorowego odprowadzania ścieków, w tym:
 
+- **1)** zasady:
+    - **a)** działalności przedsiębiorstw wodociągowo-kanalizacyjnych,
+    - **b)** tworzenia warunków do zapewnienia ciągłości dostaw i bezpieczeństwa wody oraz niezawodnego odprowadzania i oczyszczania ścieków,
+    - **c)** ochrony interesów odbiorców usług, z uwzględnieniem wymagań ochrony środowiska i optymalizacji kosztów,
+    - **d)** podejmowania działań mających na celu poprawę powszechnego dostępu ludności do wody przeznaczonej do spożycia przez ludzi,
+    - **e)** podejmowania działań mających na celu ochronę zdrowia ludzi przed niepożądanymi skutkami wszelkiego zanieczyszczenia wody przeznaczonej do spożycia przez ludzi przez zapewnienie, aby była ona zdrowa i czysta;
+
+- **2)** wymagania dotyczące stosowania podejścia opartego na ryzyku do bezpieczeństwa wody w całym łańcuchu dostaw wody przeznaczonej do spożycia przez ludzi, w tym wymagania dotyczące jakości wody przeznaczonej do spożycia przez ludzi;
+- **3)** tryb zatwierdzania taryf oraz organ regulacyjny i jego zadania.
+
 **Art. 1a.** Do statków morskich stanowiących polską własność lub statków morskich o polskiej przynależności, używanych do przewozu pasażerów, odsalających wodę morską i będących dostawcami wody stosuje się odpowiednio przepisy art. 4a–4c, art. 4d ust. 1 pkt 2 i 3 oraz ust. 2, art. 4e ust. 1 pkt 2 oraz ust. 2, art. 4g–4n, art. 4p ust. 1 pkt 1–8, 11, 12, 14–16 i 18, art. 4q, art. 12, art. 13a i art. 13b oraz przepisy wydane na podstawie art. 13.
 
 **Art. 1b.** Przepisów ustawy nie stosuje się do:
 
+- **1)** naturalnych wód mineralnych spełniających wymagania określone w ustawie z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2023 r. poz. 1448 oraz z 2025 r. poz. 1424);
+- **2)** wód leczniczych:
+    - **a)** w rozumieniu art. 5 ust. 2 pkt 1 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2026 r. poz. 69),
+    - **b)** dla których wymagania określają przepisy wydane na podstawie art. 36 ust. 5 ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2025 r. poz. 1135);
+
+- **3)** wód termalnych i solanek w rozumieniu odpowiednio art. 5 ust. 2 pkt 2 i ust. 3 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze;
+- **4)** wody pochodzącej z indywidualnego źródła, które dostarcza średnio na dobę mniej niż 10 m wody lub zaopatruje w wodę mniej niż 50 osób, chyba że dostarczanie tej wody stanowi przedmiot działalności gospodarczej lub ta woda jest dostarczana do budynków użyteczności publicznej lub do budynków zamieszkania zbiorowego, lub do podmiotów prowadzących przedsiębiorstwo spożywcze, a ta woda jest wodą przeznaczoną do spożycia przez ludzi.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** dostawca wody – podmiot dostarczający wodę przeznaczoną do spożycia przez ludzi, w tym przedsiębiorstwo wodociągowo-kanalizacyjne oraz podmiot prowadzący hurtową sprzedaż wody;
+- **1a)** działanie naprawcze – działanie korygujące podjęte w celu wyeliminowania przyczyny niezgodności z wartością parametryczną wykorzystywaną do oceny jakości wody przeznaczonej do spożycia przez ludzi oraz w celu zapobiegania ponownemu wystąpieniu tej niezgodności;
+- **1b)** monitoring operacyjny – monitoring zapewniający szybki wgląd w parametry eksploatacyjne i w problemy z jakością wody przeznaczonej do spożycia przez ludzi oraz umożliwiający szybkie podjęcie zaplanowanych wcześniej działań naprawczych, ustalony przez dostawcę wody i dostosowany do danego systemu zaopatrzenia w wodę, z uwzględnieniem wyników identyfikacji zagrożeń i zdarzeń niebezpiecznych oraz oceny ryzyka w systemie zaopatrzenia w wodę, którego celem jest potwierdzenie skuteczności środków kontroli w zakresie poboru, uzdatniania, magazynowania i dystrybucji wody;
+- **1c)** monitoring zgodności – monitorowanie parametrów określonych w przepisach wydanych na podstawie art. 13 oraz ustalonych na podstawie oceny ryzyka w systemie zaopatrzenia w wodę w punkcie zgodności, o którym mowa w art. 4c ust. 1, w celu sprawdzenia spełniania wymagań dotyczących jakości wody przeznaczonej do spożycia przez ludzi, realizowane przez dostawców wody i nadzorowane odpowiednio przez organy Państwowej Inspekcji Sanitarnej lub organy Wojskowej Inspekcji Sanitarnej;
+- **2)** niezbędne przychody – wartość przychodów w danym roku obrachunkowym, zapewniających ciągłość zbiorowego zaopatrzenia w wodę odpowiedniej jakości i ilości i zbiorowego odprowadzania ścieków, które przedsiębiorstwo wodociągowo-kanalizacyjne powinno osiągnąć na pokrycie uzasadnionych kosztów, związanych z ujęciem i poborem wody, eksploatacją, utrzymaniem i rozbudową urządzeń wodociągowych i urządzeń kanalizacyjnych, oraz osiągnięcie zysku;
+- **2a)** niezgodność z wartością parametryczną – wartość oznaczonego parametru w wodzie przeznaczonej do spożycia przez ludzi, która jest wyższa niż wartość parametryczna, dla której właściwy organ nadzoru sanitarnego ocenia, z wyłączeniem parametrów mikrobiologicznych, czy ta wartość, stanowi zagrożenie, oraz może nałożyć obowiązek jak najszybszego podjęcia niezbędnych działań naprawczych służących przywróceniu jakości wody przeznaczonej do spożycia przez ludzi zgodnej z wymaganiami określonymi w przepisach wydanych na podstawie art. 13;
+- **3)** odbiorca usług – każdego, kto korzysta z usług wodociągowo-kanalizacyjnych z zakresu zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków na podstawie pisemnej umowy z przedsiębiorstwem wodociągowo-kanalizacyjnym;
+- **3a)** osoba korzystająca z lokalu – osobę posiadającą tytuł prawny do lokalu lub osobę korzystającą z lokalu o nieuregulowanym stanie prawnym;
+- **3b)** parametr wskaźnikowy – parametr istotny dla określenia, jak funkcjonują urządzenia wykorzystywane do produkcji i dystrybucji wody przeznaczonej do spożycia przez ludzi, oraz dla oceny jej jakości, mogący pomóc w zidentyfikowaniu nieprawidłowości w uzdatnianiu wody oraz odgrywający istotną rolę w podnoszeniu i utrzymaniu zaufania konsumentów do jakości wody przeznaczonej do spożycia przez ludzi, niemający bezpośredniego wpływu na zdrowie ludzi;
+- **3c)** podmiot prowadzący przedsiębiorstwo spożywcze – podmiot prowadzący przedsiębiorstwo spożywcze w rozumieniu art. 3 ust. 3 rozporządzenia (WE) nr 178/2002 Parlamentu Europejskiego i Rady z dnia 28 stycznia 2002 r. ustanawiającego ogólne zasady i wymagania prawa żywnościowego, powołującego Europejski Urząd ds. Bezpieczeństwa Żywności oraz ustanawiającego procedury w zakresie bezpieczeństwa żywności (Dz. Urz. WE L 31 z 01.02.2002, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 6, str. 463);
+- **3d)** przedsiębiorstwo spożywcze – przedsiębiorstwo spożywcze w rozumieniu art. 3 ust. 2 rozporządzenia, o którym mowa w pkt 3c;
+- **4)** przedsiębiorstwo wodociągowo-kanalizacyjne – przedsiębiorcę w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236), jeżeli prowadzi działalność gospodarczą w zakresie zbiorowego zaopatrzenia w wodę lub zbiorowego odprowadzania ścieków, oraz gminne jednostki organizacyjne nieposiadające osobowości prawnej, prowadzące tego rodzaju działalność;
+- **5)** przyłącze kanalizacyjne – odcinek przewodu łączącego wewnętrzną instalację kanalizacyjną w nieruchomości odbiorcy usług z siecią kanalizacyjną, za pierwszą studzienką, licząc od strony budynku, a w przypadku jej braku do granicy nieruchomości gruntowej;
+- **6)** przyłącze wodociągowe – odcinek przewodu łączącego sieć wodociągową z wewnętrzną instalacją wodociągową w nieruchomości odbiorcy usług wraz z zaworem za wodomierzem głównym;
+- **6a)** punkt dostawy – zawór za wodomierzem głównym, o którym mowa w art. 2 pkt 6, a w przypadku gdy przyłącze wodociągowe nie znajduje się w posiadaniu dostawcy wody, punkt połączenia wewnętrznego systemu wodociągowego z siecią wodociągową, a w przypadku hurtowej dostawy wody zawór za wodomierzem hurtowej sprzedaży wody;
+- **6b)** ryzyko – połączenie prawdopodobieństwa wystąpienia zdarzenia niebezpiecznego oraz dotkliwości jego skutków w przypadku pojawienia się zagrożenia i zdarzenia niebezpiecznego w systemie zaopatrzenia w wodę;
+- **7)** sieć – przewody wodociągowe lub kanalizacyjne wraz z uzbrojeniem i urządzeniami, którymi dostarczana jest woda lub którymi odprowadzane są ścieki, będące w posiadaniu przedsiębiorstwa wodociągowo-kanalizacyjnego;
+- **7a)** strefa zaopatrzenia – obszar geograficzny, na którym woda przeznaczona do spożycia przez ludzi pochodzi z jednego źródła lub większej ich liczby i na którym jakość wody przeznaczonej do spożycia przez ludzi jest w przybliżeniu jednolita;
+- **7b)** substancja promieniotwórcza – substancję promieniotwórczą w rozumieniu art. 3 pkt 45 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2026 r. poz. 1);
+- **7c)** system zaopatrzenia w wodę – układ współdziałających elementów, których zadaniem jest zaopatrzenie odbiorców w wodę przeznaczoną do spożycia przez ludzi przez jej ujmowanie, uzdatnianie, magazynowanie lub dystrybucję do punktu dostawy, pozostający w gestii jednego dostawcy wody;
+- **8)** ścieki – wprowadzane do wód lub do ziemi:
+    - **a)** wody zużyte na cele bytowe lub gospodarcze,
+    - **b)** ciekłe odchody zwierzęce, z wyjątkiem gnojówki i gnojowicy przeznaczonych do rolniczego wykorzystania w sposób i na zasadach określonych w przepisach działu III rozdziału 4 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2023 r. poz. 1478, 1688, 1890, 1963 i
+
+- **2029)** oraz w przepisach ustawy z dnia 10 lipca 2007 r. o nawozach i nawożeniu (Dz. U. z 2024 r. poz. 105),
+    - **c)** wody odciekowe ze składowisk odpadów oraz obiektów unieszkodliwiania odpadów wydobywczych, w których są składowane odpady wydobywcze niebezpieczne oraz odpady wydobywcze inne niż niebezpieczne i obojętne, miejsc magazynowania, prowadzenia odzysku lub unieszkodliwiania odpadów, wykorzystane solanki, wody lecznicze i termalne,
+    - **d)** wody pochodzące z obiegów chłodzących elektrowni lub elektrociepłowni,
+    - **e)** wody pochodzące z odwodnienia zakładów górniczych, z wyjątkiem wód wtłaczanych do górotworu, jeżeli rodzaje i ilość substancji zawartych w wodzie wtłaczanej do górotworu są tożsame z rodzajami i ilościami substancji zawartych w pobranej wodzie, z wyłączeniem niezanieczyszczonych wód pochodzących z odwodnienia zakładów górniczych,
+    - **f)** wody wykorzystane, odprowadzane z obiektów chowu lub hodowli ryb w obiektach przepływowych, charakteryzujących się poborem zwrotnym, o ile ilość i rodzaj substancji zawartych w tych wodach przekraczają wartości ustalone w warunkach wprowadzania ścieków do wód określonych w pozwoleniu wodnoprawnym,
+    - **g)** wody wykorzystane, odprowadzane z obiektów chowu lub hodowli ryb albo innych organizmów wodnych w stawach o wodzie stojącej, o ile produkcja tych ryb lub organizmów rozumiana jako średnioroczny przyrost masy tych ryb albo tych organizmów w poszczególnych latach cyklu produkcyjnego przekracza 1500 kg z 1 ha powierzchni użytkowej stawów rybnych tego obiektu w jednym roku danego cyklu;
+
+- **9)** ścieki bytowe – ścieki z budynków mieszkalnych, zamieszkania zbiorowego oraz użyteczności publicznej, powstające w wyniku ludzkiego metabolizmu lub funkcjonowania gospodarstw domowych oraz ścieki o zbliżonym składzie pochodzące z tych budynków;
+- **10)** ścieki komunalne – ścieki bytowe lub mieszaninę ścieków bytowych ze ściekami przemysłowymi albo wodami opadowymi lub roztopowymi będącymi skutkiem opadów atmosferycznych, odprowadzane urządzeniami służącymi do realizacji zadań własnych gminy w zakresie kanalizacji i oczyszczania ścieków komunalnych;
+- **11)** ścieki przemysłowe – ścieki niebędące ściekami bytowymi albo wodami opadowymi lub roztopowymi będącymi skutkiem opadów atmosferycznych, powstałe w związku z prowadzoną przez zakład działalnością handlową, przemysłową, składową, transportową lub usługową, a także będące ich mieszaniną ze ściekami innego podmiotu, odprowadzane urządzeniami kanalizacyjnymi tego zakładu;
+- **11a)** środki kontroli ryzyka – środki prawne, techniczne, finansowe i organizacyjne oraz działania, w tym działania naprawcze, podejmowane w celu zapewnienia ciągłości i niezawodności dostaw wody przeznaczonej do spożycia przez ludzi oraz przeciwdziałania zagrożeniu lub wyeliminowania tego zagrożenia lub zredukowania ryzyka z nim związanego do akceptowalnego poziomu;
+- **12)** taryfa – zestawienie ogłoszonych publicznie cen i stawek opłat za zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków oraz warunki ich stosowania;
+- **13)** taryfowa grupa odbiorców usług – odbiorców wyodrębnionych na podstawie charakterystyki zużycia wody lub odprowadzanych ścieków, warunków zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków, a także na podstawie sposobu rozliczeń za świadczone usługi;
+- **14)** urządzenia kanalizacyjne – sieci kanalizacyjne, wyloty urządzeń kanalizacyjnych służących do wprowadzania ścieków do wód lub do ziemi oraz urządzenia podczyszczające i oczyszczające ścieki oraz przepompownie ścieków;
+- **15)** urządzenie pomiarowe – przyrząd pomiarowy mierzący ilość odprowadzanych ścieków, znajdujący się na przyłączu kanalizacyjnym;
+- **16)** urządzenia wodociągowe – ujęcia wód powierzchniowych i podziemnych, studnie publiczne, urządzenia służące do magazynowania i uzdatniania wód, sieci wodociągowe, urządzenia regulujące ciśnienie wody;
+- **16a)** wartość parametryczna – wartość parametru jakości wody przeznaczonej do spożycia przez ludzi, z wyłączeniem wartości parametrycznej substancji promieniotwórczej, określona w przepisach wydanych na podstawie art. 13 lub ustalona na podstawie oceny ryzyka w systemie zaopatrzenia w wodę;
+- **16b)** wartość parametryczna substancji promieniotwórczej – zawartość substancji promieniotwórczej w wodzie przeznaczonej do spożycia przez ludzi określona w przepisach wydanych na podstawie art. 13, powyżej której należy ocenić, czy obecność substancji promieniotwórczej w tej wodzie stanowi zagrożenie wymagające działania oraz – w razie konieczności – nałożyć obowiązek podjęcia działań naprawczych służących poprawie jakości wody przeznaczonej do spożycia przez ludzi do poziomu zgodnego z wymaganiami dotyczącymi ochrony zdrowia ludzi przed promieniowaniem;
+- **16c)** wewnętrzny system wodociągowy – system obejmujący przewody wodociągowe wraz z uzbrojeniem i urządzeniami zainstalowane między punktami czerpalnymi używanymi zwykle do poboru wody przeznaczonej do spożycia przez ludzi zarówno w obiektach publicznych, jak i prywatnych a siecią wodociągową, na który składa się instalacja wodociągowa oraz przyłącze wodociągowe, pod warunkiem że podlega ono odpowiedzialności odbiorcy usług w zakresie, o którym mowa w art. 5 ust. 2;
+- **17)** właściciel – także posiadacza samoistnego i użytkownika wieczystego;
+- **17a)** właściwy organ nadzoru sanitarnego – właściwy państwowy powiatowy lub państwowy graniczny inspektor sanitarny lub wojskowy inspektor sanitarny właściwego terytorialnie wojskowego ośrodka medycyny prewencyjnej, nadzorujący system zaopatrzenia w wodę lub wewnętrzny system wodociągowy;
+- **18)** woda przeznaczona do spożycia przez ludzi: w sprawie higieny środków spożywczych (Dz. Urz. UE L 139 z 30.04.2004, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 319);
+    - **a)** wodę w stanie pierwotnym lub po uzdatnieniu, przeznaczoną do picia, wytwarzania, przygotowania żywności lub innych celów gospodarczych zarówno w obiektach publicznych, jak i prywatnych, niezależnie od jej pochodzenia i od tego, czy jest dostarczana z sieci wodociągowej, cystern, w tym również przewoźnych zbiorników, lub rozlewana do butelek lub pojemników,
+    - **b)** wodę wykorzystywaną przez przedsiębiorstwo spożywcze do wytworzenia, przetworzenia, konserwowania lub wprowadzania do obrotu produktów lub substancji przeznaczonych do spożycia przez ludzi, z wyłączeniem wody wykorzystywanej przez przedsiębiorstwo spożywcze, której jakość nie może wpływać na bezpieczeństwo środków spożywczych w ich końcowej postaci, oraz pod warunkiem, że podmiot prowadzący przedsiębiorstwo spożywcze spełnia wymagania określone w przepisach rozporządzenia WE nr 852/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r.
+
+- **18a)** woda surowa – wodę w stanie pierwotnym pobieraną z zasobów wodnych na potrzeby zaopatrzenia ludności w wodę przeznaczoną do spożycia przez ludzi;
+- **19)** wodomierz główny – przyrząd pomiarowy mierzący ilość pobranej wody, znajdujący się na każdym przyłączu wodociągowym;
+- **19a)** zagrożenie – czynnik biologiczny, chemiczny, fizyczny lub radiologiczny w wodzie lub inny stan wody, który potencjalnie może mieć szkodliwy wpływ na zdrowie ludzi;
+- **20)** zbiorowe odprowadzanie ścieków – działalność polegającą na odprowadzaniu i oczyszczaniu ścieków, prowadzoną przez przedsiębiorstwo wodociągowo-kanalizacyjne;
+- **21)** zbiorowe zaopatrzenie w wodę – działalność polegającą na ujmowaniu, uzdatnianiu i dostarczaniu wody, prowadzoną przez przedsiębiorstwo wodociągowo-kanalizacyjne;
+- **22)** zdarzenie niebezpieczne – zdarzenie, które wprowadza zagrożenie do systemu zaopatrzenia w wodę lub nie doprowadza do wyeliminowania tego zagrożenia z tego systemu.
 
 **Art. 2a.** Ilekroć w ustawie jest mowa o gminie, należy przez to rozumieć także związek międzygminny i porozumienie międzygminne.
 
 **Art. 2b.** Parametry jakości wody przeznaczonej do spożycia przez ludzi dzielą się na parametry:
+
+- **1)** mikrobiologiczne, chemiczne, wskaźnikowe, radiologiczne oraz wynikające z oceny ryzyka w systemie zaopatrzenia w wodę, a także istotne dla oceny ryzyka w wewnętrznym systemie wodociągowym;
+- **2)** objęte listą obserwacyjną stanowiącą wykaz substancji i związków przyjmowany przez Komisję Europejską w drodze aktu wykonawczego, o którym mowa w art. 13 ust. 8 dyrektywy Parlamentu Europejskiego i Rady (UE) 2020/2184 z dnia 16 grudnia 2020 r. w sprawie jakości wody przeznaczonej do spożycia przez ludzi.
 
 **Art. 3.**
 
@@ -336,6 +413,12 @@ source: "isap-pdf"
 
 **Art. 4l.** Ocenę ryzyka w wewnętrznym systemie wodociągowym lub jej przegląd i w razie potrzeby aktualizację przeprowadza osoba, która:
 
+- **1)** posiada pełną zdolność do czynności prawnych;
+- **2)** nie została skazana prawomocnym wyrokiem za przestępstwo przeciwko mieniu, wiarygodności dokumentów, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi lub za przestępstwo skarbowe;
+- **3)** posiada:
+    - **a)** udokumentowane, co najmniej trzyletnie doświadczenie w zakresie budowy, montażu, obsługi, eksploatacji, modernizacji lub projektowania instalacji sanitarnych lub nadzoru nad jakością, higieną lub bezpieczeństwem wody albo uprawnienia budowlane, o których mowa w art. 14 ust. 1 pkt 4 lit. b ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, oraz udokumentowaną wiedzę z zakresu zarządzania ryzykiem bezpieczeństwa zdrowotnego wody przeznaczonej do spożycia przez ludzi lub
+    - **b)** uprawnienie rzeczoznawcy do spraw sanitarnohigienicznych, o którym mowa w art. 34 ust. 1 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej.
+
 **Art. 4m.**
 
 1. W celu zmniejszenia ryzyka związanego z wewnętrznym systemem wodociągowym:
@@ -573,6 +656,13 @@ source: "isap-pdf"
 
 **Art. 7.** Osoby reprezentujące przedsiębiorstwo wodociągowo-kanalizacyjne, po okazaniu legitymacji służbowej i pisemnego upoważnienia, mają prawo wstępu na teren nieruchomości lub do obiektu budowlanego należących do osób, o których mowa w art. 6 ust. 2 i 4–7, w celu:
 
+- **1)** zainstalowania lub demontażu wodomierza głównego;
+- **2)** przeprowadzenia kontroli urządzenia pomiarowego, wodomierza głównego lub wodomierzy zainstalowanych przy punktach czerpalnych i dokonania odczytu ich wskazań oraz dokonania badań i pomiarów;
+- **3)** przeprowadzenia przeglądów i napraw urządzeń posiadanych przez to przedsiębiorstwo;
+- **4)** sprawdzenia ilości i jakości ścieków wprowadzanych do sieci;
+- **5)** odcięcia przyłącza wodociągowego lub przyłącza kanalizacyjnego lub założenia plomb na zamkniętych zaworach odcinających dostarczanie wody do lokalu;
+- **6)** usunięcia awarii przyłącza wodociągowego lub przyłącza kanalizacyjnego, jeżeli umowa, o której mowa w art. 6 ust. 1, tak stanowi.
+
 **Art. 8.**
 
 1. Przedsiębiorstwo wodociągowo-kanalizacyjne może odciąć dostawę wody lub zamknąć przyłącze kanalizacyjne, jeżeli:
@@ -607,7 +697,21 @@ source: "isap-pdf"
 
 **Art. 10.** Dostawca ścieków przemysłowych wprowadzanych do urządzeń kanalizacyjnych jest obowiązany do:
 
+- **1)** niezwłocznego powiadomienia właściciela urządzeń kanalizacyjnych o awarii powodującej zrzut niebezpiecznych substancji do urządzeń kanalizacyjnych, w celu podjęcia odpowiednich przedsięwzięć zmniejszających skutki awarii;
+- **2)** instalowania niezbędnych urządzeń podczyszczających ścieki przemysłowe i prawidłowej eksploatacji tych urządzeń;
+- **3)** umożliwienia właścicielowi urządzeń kanalizacyjnych dostępu w każdym czasie do miejsc kontroli ilości i jakości ścieków przemysłowych wprowadzanych do tych urządzeń oraz przeprowadzania kontroli sieci i urządzeń do podczyszczania ścieków będących własnością odbiorcy usług;
+- **4)** wewnętrznej kontroli przestrzegania dopuszczalnych ilości i natężeń dopływu ścieków przemysłowych oraz ich wskaźników zanieczyszczenia, w szczególności gdy wprowadzane ścieki przemysłowe stanowią więcej niż 10 % wszystkich ścieków komunalnych dopływających do oczyszczalni oraz gdy zanieczyszczenie w ściekach przemysłowych może stwarzać zagrożenia dla bezpieczeństwa lub zdrowia osób obsługujących urządzenia kanalizacyjne lub bezpieczeństwa konstrukcji budowlanych i wyposażenia technicznego urządzeń kanalizacyjnych lub procesu oczyszczania ścieków;
+- **5)** udostępniania wyników wewnętrznej kontroli właścicielowi urządzeń kanalizacyjnych oraz informacji na temat posiadanych urządzeń podczyszczających ścieki, a także rodzaju i źródeł substancji niebezpiecznych wprowadzanych do ścieków;
+- **6)** zainstalowania urządzeń pomiarowych służących do określania ilości i jakości ścieków przemysłowych, na żądanie właściciela urządzeń kanalizacyjnych, jeżeli takie wymaganie jest uzasadnione możliwością wystąpienia zagrożeń dla bezpieczeństwa lub zdrowia osób obsługujących urządzenia kanalizacyjne lub bezpieczeństwa konstrukcji budowlanych i wyposażenia technicznego urządzeń kanalizacyjnych lub procesu oczyszczania ścieków.
+
 **Art. 11.** Minister właściwy do spraw gospodarki wodnej w porozumieniu z ministrem właściwym do spraw klimatu określi, w drodze rozporządzenia, sposób realizacji obowiązków dostawców ścieków przemysłowych oraz warunki wprowadzania ścieków do urządzeń kanalizacyjnych, w tym dopuszczalne wartości wskaźników zanieczyszczeń w ściekach przemysłowych wprowadzanych do urządzeń kanalizacyjnych oraz sposób sprawowania kontroli ilości i jakości ścieków, biorąc pod uwagę:
+
+- **1)** bezpieczeństwo i zdrowie osób obsługujących urządzenia kanalizacyjne;
+- **2)** ochronę konstrukcji budowlanych i wyposażenia technicznego urządzeń kanalizacyjnych;
+- **3)** podatność mieszaniny ścieków przemysłowych i ścieków bytowych na mechaniczno-biologiczne procesy oczyszczania;
+- **4)** ochronę przed zanieczyszczeniem wód lub ziemi, do których są odprowadzane ścieki komunalne, a w szczególności spełnienie wymagań jakościowych odnoszących się do tych ścieków;
+- **5)** możliwość bezpiecznego dla środowiska wykorzystania osadów z oczyszczalni ścieków obsługującej zbiorczy system kanalizacyjny ścieków komunalnych;
+- **6)** zróżnicowanie w czasie warunków, jakie należy spełnić przy wprowadzaniu do urządzeń kanalizacyjnych ścieków zawierających substancje szczególnie szkodliwe dla środowiska wodnego określone na podstawie odrębnych przepisów.
 
 **Art. 12.** Nadzór nad jakością wody przeznaczonej do spożycia przez ludzi sprawują organy Państwowej Inspekcji Sanitarnej oraz organy Wojskowej Inspekcji Sanitarnej na zasadach określonych w przepisach ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej.
 
@@ -618,6 +722,25 @@ source: "isap-pdf"
 **Art. 12c.** (uchylony)
 
 **Art. 13.** Minister właściwy do spraw zdrowia w porozumieniu z Ministrem Obrony Narodowej określi, w drodze rozporządzenia:
+
+- **1)** minimalne wymagania dotyczące jakości wody przeznaczonej do spożycia przez ludzi, w tym wymagania mikrobiologiczne, chemiczne, wskaźnikowe, dodatkowe wymagania chemiczne, wymagania radiologiczne i istotne do oceny ryzyka w wewnętrznym systemie wodociągowym,
+- **2)** wykaz parametrów oraz minimalną częstotliwość pobierania próbek do badań jakości wody i wykonywania analiz tych parametrów,
+- **3)** metody analizy, w tym metody referencyjne, metody zwalidowane z uwzględnieniem charakterystyk wykonania analiz oraz metody alternatywne,
+- **4)** sposób pobierania próbek do badań jakości wody,
+- **5)** minimalną częstotliwość, sposób i miejsca poboru próbek do badań jakości wody dla monitorowania wartości parametrycznej bakterii z rodzaju Legionella w ciepłej wodzie użytkowej w wewnętrznych systemach wodociągowych, a także procedury postępowania w zależności od wyników tych badań,
+- **6)** terminy przekazywania przez dostawców wody:
+    - **a)** sprawozdań z badań jakości wody przeznaczonej do spożycia przez ludzi, o których mowa w art. 4p ust. 1 pkt 6 lit. a i ust. 2 pkt 5 lit. a,
+    - **b)** informacji, o których mowa w art. 4p ust. 1 pkt 6 lit. b oraz ust. 2 pkt 5 lit. b,
+    - **c)** wyników monitoringu w obszarze zasilania ujęcia wody wykorzystywanego do poboru wody przeznaczonej do spożycia przez ludzi lub monitoringu wody surowej, o których mowa w art. 4f ust. 3,
+
+- **7)** terminy przekazywania przez właścicieli lub zarządców obiektów priorytetowych:
+    - **a)** sprawozdań z badań jakości wody pobranej z wewnętrznego systemu wodociągowego w zakresie monitorowanych wartości parametrycznej bakterii z rodzaju Legionella w ciepłej wodzie użytkowej lub wartości parametrycznej ołowiu,
+    - **b)** informacji o podejmowanych działaniach mających na celu wyeliminowanie lub zmniejszenie ryzyka niezgodności z wartością parametryczną bakterii z rodzaju Legionella w ciepłej wodzie użytkowej lub wartością parametryczną ołowiu w przypadku, o którym mowa w art. 4k ust. 1,
+
+- **8)** sposób prowadzenia przez dostawców wody monitoringu substancji promieniotwórczych w wodzie oraz minimalną częstotliwość pobierania próbek do badań jakości wody w zakresie substancji promieniotwórczych,
+- **9)** sposób postępowania dostawcy wody oraz właściwego państwowego powiatowego lub państwowego granicznego, lub państwowego wojewódzkiego inspektora sanitarnego, lub wojskowego inspektora sanitarnego właściwego terytorialnie wojskowego ośrodka medycyny prewencyjnej w przypadku niezgodności z wartością parametryczną parametrów wskaźnikowych,
+- **10)** sposób postępowania w przypadku wykrycia substancji lub związków, o których mowa w art. 2b pkt 2, w wodzie surowej ujmowanej przez dostawców wody,
+- **11)** wartości odniesienia dla parametrów operacyjnych mętność i colifagi somatyczne oraz minimalną częstotliwość pobierania próbek do badań jakości wody i wykonywania analizy dla parametru operacyjnego mętność do celów monitoringu operacyjnego – biorąc pod uwagę bezpieczeństwo i zdrowie ludzi.
 
 **Art. 13a.**
 
@@ -764,6 +887,15 @@ source: "isap-pdf"
 
 **Art. 14.** Minister właściwy do spraw wewnętrznych, w porozumieniu z Ministrem Obrony Narodowej i Ministrem Sprawiedliwości, dla jednostek organizacyjnych podległych tym ministrom może określić, w drodze rozporządzenia:
 
+- **1)** warunki przyłączania nieruchomości do sieci oraz wymagania dotyczące urządzeń wodociągowych i urządzeń kanalizacyjnych będących w posiadaniu tych jednostek,
+- **2)** szczegółowe sposoby kontroli urządzeń, o których mowa w pkt 1,
+- **3)** warunki i tryb postępowania w sprawach zbiorowego zaopatrzenia w wodę oraz zbiorowego odprowadzania ścieków,
+- **4)** warunki korzystania z sieci wodociągowych w przypadku prowadzenia działań ratowniczych,
+- **5)** wymagania technologiczne dotyczące urządzeń wodociągowych i urządzeń kanalizacyjnych,
+- **6)** wymagania dotyczące zasilania elektroenergetycznego,
+- **7)** wymagania dotyczące zapewnienia ciągłości funkcjonowania urządzeń wodociągowych i urządzeń kanalizacyjnych,
+- **8)** tryb i sposób kontroli stanu przygotowania urządzeń wodociągowych i urządzeń kanalizacyjnych – biorąc pod uwagę specyfikę jednostek organizacyjnych podległych tym ministrom.
+
 **Art. 15.**
 
 1. Przedsiębiorstwo wodociągowo-kanalizacyjne jest obowiązane zapewnić budowę urządzeń wodociągowych i urządzeń kanalizacyjnych, ustalonych przez gminę w miejscowych planach zagospodarowania przestrzennego, w zakresie uzgodnionym w wieloletnim planie rozwoju i modernizacji, o którym mowa w art. 21 ust. 1.
@@ -806,7 +938,16 @@ source: "isap-pdf"
 
 **Art. 17a.** Przed podjęciem decyzji w sprawie wydania zezwolenia wójt (burmistrz, prezydent miasta) może:
 
+- **1)** wezwać przedsiębiorstwo wodociągowo-kanalizacyjne do uzupełnienia w wyznaczonym terminie, jednak nie krótszym niż 14 dni, brakującej dokumentacji poświadczającej, że spełnia ono warunki określone przepisami ustawy, wymagane do wykonywania zbiorowego zaopatrzenia w wodę lub zbiorowego odprowadzania ścieków;
+- **2)** dokonać kontrolnego sprawdzenia faktów podanych we wniosku o udzielenie zezwolenia w celu stwierdzenia, czy przedsiębiorstwo wodociągowo-kanalizacyjne spełnia warunki wykonywania działalności objętej zezwoleniem.
+
 **Art. 17b.** Wójt (burmistrz, prezydent miasta) odmawia udzielenia zezwolenia lub może ograniczyć jego zakres w stosunku do wniosku o udzielenie zezwolenia:
+
+- **1)** gdy przedsiębiorstwo wodociągowo-kanalizacyjne nie spełnia warunków wykonywania działalności objętej zezwoleniem określonych w ustawie;
+- **2)** ze względu na zagrożenie obronności lub bezpieczeństwa państwa;
+- **3)** ze względu na zagrożenie życia lub zdrowia ludzi, lub zagrożenie środowiska naturalnego;
+- **4)** jeżeli w wyniku postępowania na podstawie przepisów o zamówieniach publicznych zawarta została przez gminę umowa na prowadzenie zbiorowego zaopatrzenia w wodę lub zbiorowego odprowadzania ścieków z innym przedsiębiorstwem wodociągowo-kanalizacyjnym;
+- **5)** jeżeli na obszarze gminy działalność w zakresie zbiorowego zaopatrzenia w wodę lub zbiorowego odprowadzania ścieków prowadzi gmina lub jej jednostka organizacyjna nieposiadająca osobowości prawnej.
 
 **Art. 17c.**
 
@@ -823,6 +964,16 @@ source: "isap-pdf"
 6. W okresie ważności promesy nie można odmówić udzielenia zezwolenia objętego promesą następcy nabywcy przedsiębiorstwa w rozumieniu art. 45b ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw, jeżeli przedłoży on pisemną zgodę przedsiębiorcy, któremu udzielono promesy oraz pozostałych nabywców przedsiębiorstwa na udzielenie mu tego zezwolenia.
 
 **Art. 18.** Zezwolenie powinno określać w szczególności:
+
+- **1)** oznaczenie przedsiębiorstwa wodociągowo-kanalizacyjnego, jego siedzibę i adres;
+- **2)** datę podjęcia działalności;
+- **3)** przedmiot i obszar działalności;
+- **4)** wymagania w zakresie jakości usług wodociągowo-kanalizacyjnych;
+- **5)** warunki, zakres i tryb kontroli realizacji zezwolenia i przestrzegania regulaminu, o którym mowa w art. 19 ust. 3;
+- **6)** warunki wprowadzania ograniczeń dostarczania wody w przypadku wystąpienia jej niedoboru;
+- **7)** zobowiązanie do prowadzenia przez przedsiębiorstwo wodociągowo-kanalizacyjne racjonalnej gospodarki w zakresie działalności objętej zezwoleniem;
+- **8)** warunki cofnięcia zezwolenia;
+- **9)** warunki dotyczące okoliczności, w których zezwolenie może być cofnięte bez odszkodowania.
 
 **Art. 18a.**
 
@@ -978,6 +1129,10 @@ source: "isap-pdf"
 7. (uchylony)
 
 **Art. 22.** Przedsiębiorstwo wodociągowo-kanalizacyjne obciąża gminę na podstawie cen i stawek opłat ustalonych w taryfie za:
+
+- **1)** wodę pobraną z publicznych studni i zdrojów ulicznych;
+- **2)** wodę zużytą do zasilania publicznych fontann i na cele przeciwpożarowe;
+- **3)** wodę zużytą do zraszania publicznych ulic i publicznych terenów zielonych.
 
 **Art. 23.**
 

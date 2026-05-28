@@ -8,12 +8,10 @@ pos: 482
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o stosunku Państwa do Kościoła Polskokatolickiego w Rzeczypospolitej Polskiej
-
-*USTAWA z dnia 30 czerwca 1995 r.*
+# Ustawa z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Polskokatolickiego w Rzeczypospolitej Polskiej
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +22,11 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1995-06-30 |
 | Data wydania | 1995-08-23 |
+| Wejście w życie | 1995-09-06 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950970482) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1995/482/text.pdf) |
+
+Załącznik – Wykaz osób prawnych Kościoła Polskokatolickiego w Rzeczypospolitej Polskiej
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -33,7 +34,7 @@ source: "isap-pdf"
 
 1. Ustawa określa stosunek Państwa do Kościoła Polskokatolickiego w Rzeczypospolitej Polskiej, zwanego dalej „Kościołem”, oraz jego sytuację prawną i majątkową.
 
-2. W sprawach odnoszących się do Kościoła, nieuregulowanych w ustawie, stosuje się powszechnie obowiązujące przepisy prawa.
+2. W sprawach odnoszących się do Kościoła, nie uregulowanych w ustawie, stosuje się powszechnie obowiązujące przepisy prawa.
 
 3. Wszelkie zmiany niniejszej ustawy wymagają uprzedniej opinii Rady Synodalnej.
 
@@ -49,7 +50,7 @@ source: "isap-pdf"
 
 **Art. 3.** Kościół rządzi się w swoich sprawach własnym Prawem Wewnętrznym, swobodnie wykonuje władzę duchowną, jurysdykcyjną i samodzielnie zarządza swoimi sprawami.
 
-#### Rozdział 2 Osoby prawne Kościoła i ich organy
+#### Rozdział 2 Osoby prawne kościoła i ich organy
 
 **Art. 4.**
 
@@ -59,25 +60,25 @@ source: "isap-pdf"
 
 3. Osobowość prawną posiadają:
 
-- **1)** Kościół jako całość;
-- **2)** diecezje;
-- **3)** parafie;
-- **4)** seminaria duchowne;
+- **1)** Kościół jak całość,
+- **2)** diecezje,
+- **3)** parafie,
+- **4)** seminaria duchowne,
 - **5)** zakony.
 
 4. Organami osób prawnych wymienionych w ust. 3 są:
 
-- **1)** dla Kościoła jako całości – Synod Ogólnopolski, Rada Synodalna i Zwierzchnik Kościoła;
-- **2)** dla diecezji – biskup-ordynariusz lub administrator diecezji;
-- **3)** dla parafii – proboszcz lub administrator parafii;
-- **4)** dla seminarium duchownego – rektor;
+- **1)** dla Kościoła jako całości – Synod Ogólnopolski, Rada Synodalna i Zwierzchnik Kościoła,
+- **2)** dla diecezji – biskup-ordynariusz lub administrator diecezji,
+- **3)** dla parafii – proboszcz lub administrator parafii,
+- **4)** dla seminarium duchownego – rektor,
 - **5)** dla zakonu – przełożony lub przełożona.
 
 5. Do składania oświadczeń woli w imieniu Kościoła upoważniona jest Rada Synodalna, działająca poprzez jej Przewodniczącego wspólnie z Sekretarzem lub Skarbnikiem.
 
-6. Zmiana nazwy grup osób prawnych, o których mowa w ust. 3, może być dokonana przepisami wewnątrzkościelnymi. Zmiany te, na wniosek Rady Synodalnej, Minister–Szef Urzędu Rady Ministrów ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+6. Zmiana nazwy grup osób prawnych, o których mowa w ust. 3, może być dokonana przepisami wewnątrzkościelnymi. Zmiany te, na wniosek Rady Synodalnej, Minister-Szef Urzędu Rady Ministrów ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
-**Art. 5.** Inne jednostki organizacyjne Kościoła mogą, na wniosek Rady Synodalnej, uzyskać osobowość prawną w drodze rozporządzenia Ministra–Szefa Urzędu Rady Ministrów .
+**Art. 5.** Inne jednostki organizacyjne Kościoła mogą, na wniosek Rady Synodalnej, uzyskać osobowość prawną w drodze rozporządzenia Ministra-Szefa Urzędu Rady Ministrów.
 
 **Art. 6.**
 
@@ -85,7 +86,7 @@ source: "isap-pdf"
 
 2. O faktach wymienionych w ust. 1 władza kościelna powiadamia niezwłocznie właściwy organ administracji rządowej:
 
-- **1)** odnośnie do osób wymienionych w art. 4 ust. 3 pkt 2 oraz jednostek, które otrzymały osobowość prawną w drodze rozporządzenia, o którym mowa w art. 5 – Ministra–Szefa Urzędu Rady Ministrów ;
+- **1)** odnośnie do osób wymienionych w art. 4 ust. 3 pkt 2 oraz jednostek, które otrzymały osobowość prawną w drodze rozporządzenia, o którym mowa w art. 5 – Ministra-Szefa Urzędu Rady Ministrów,
 - **2)** w pozostałych przypadkach – wojewodę.
 
 3. Nowo utworzone jednostki organizacyjne, o których mowa w art. 4 ust. 3 pkt 2–5, nabywają osobowość prawną z chwilą pisemnego powiadomienia właściwego organu administracji rządowej. Odpis powiadomienia, z umieszczonym na nim potwierdzeniem odbioru, jest dowodem uzyskania osobowości prawnej.
@@ -94,33 +95,27 @@ source: "isap-pdf"
 
 5. Odpowiednie powiadomienie następuje również w przypadku powołania lub odwołania osób sprawujących funkcję organu lub członka organu osoby prawnej, uprawnionych do składania w imieniu osób prawnych oświadczeń woli. Powiadomienie obejmuje imię i nazwisko, obywatelstwo oraz miejsce zamieszkania.
 
-**Art. 7.** Wydawnictwa, zakłady charytatywno-opiekuńcze oraz zakłady gospodarcze, nieposiadające osobowości prawnej, działają w ramach kościelnych osób prawnych, które je powołały.
+**Art. 7.** Wydawnictwa, zakłady charytatywno-opiekuńcze oraz zakłady gospodarcze, nie posiadające osobowości prawnej, działają w ramach kościelnych osób prawnych, które je powołały.
 
 **Art. 8.** Kościelna osoba prawna nie odpowiada za zobowiązania innej kościelnej osoby prawnej.
 
-#### Rozdział 3 Działalność Kościoła
+#### Rozdział 3 Działalność kościoła
 
 **Art. 9.**
 
 1. Kościół swobodnie organizuje i sprawuje kult publiczny.
 
-2. Organizowanie imprez o charakterze religijnym na drogach publicznych wymaga uzgodnienia, w zakresie bezpieczeństwa ruchu drogowego, z właściwymi organami administracji rządowej lub samorządowej.
+2. Organizowanie imprez o charakterze religijnym na drogach publicznych wymaga uzgodnienia, w zakresie bezpieczeństwa ruchu drogowego, z właściwymi organami rządowej administracji ogólnej bądź organami samorządu terytorialnego.
 
 3. Przepisu ust. 2 nie stosuje się do konduktów pogrzebowych odbywających się stosownie do miejscowego zwyczaju.
 
 4. Religijne uroczystości pogrzebowe i nabożeństwa za zmarłych mogą być sprawowane na cmentarzach komunalnych przy zachowaniu obowiązujących przepisów porządkowych.
 
-**Art. 9a.**
-
-1. Małżeństwo zawarte w formie przewidzianej Prawem Wewnętrznym Kościoła wywołuje skutki cywilne, jeżeli odpowiada wymaganiom określonym w Kodeksie rodzinnym i opiekuńczym.
-
-2. Osobę duchowną, przed którą składa się oświadczenia o zawarciu małżeństwa, określa Prawo Wewnętrzne Kościoła.
-
 **Art. 10.**
 
 1. Kościół prowadzi konfesyjne nauczanie religii w szkołach publicznych na zasadach i w trybie przewidzianych w odrębnych przepisach.
 
-2. (uchylony)
+2. Oceny z religii wystawiane w punktach katechetycznych są umieszczane na świadectwach wydawanych przez szkoły publiczne.
 
 **Art. 11.**
 
@@ -128,7 +123,7 @@ source: "isap-pdf"
 
 2. Do nauczycieli, wychowawców i pracowników zatrudnionych w szkołach i innych placówkach oświatowo-wychowawczych i opiekuńczo-wychowawczych, a także seminariach duchownych i instytutach misyjnych prowadzonych przez Kościół stosuje się odpowiednio przepisy dotyczące uprawnień nauczycieli, wychowawców i pracowników zatrudnionych w szkołach i placówkach publicznych.
 
-3. Uczącym się w szkołach wymienionych w ust. 1 i 2 przysługują świadczenia opieki zdrowotnej finansowane ze środków publicznych oraz ulgi w opłatach za przejazdy środkami publicznego transportu zbiorowego na równi z uczniami szkół publicznych.
+3. Uczącym się w szkołach wymienionych w ust. 1 i 2 przysługują świadczenia publicznych zakładów opieki zdrowotnej oraz ulgi w opłatach za przejazdy środkami publicznego transportu zbiorowego na równi z uczniami szkół publicznych.
 
 **Art. 12.**
 
@@ -140,11 +135,11 @@ source: "isap-pdf"
 
 1. Kościół ma prawo do zakładania i prowadzenia szkół wyższych. Status prawny tych szkół, a także tryb i zakres uznawania przez Państwo stopni i tytułów nadawanych przez te szkoły regulują umowy między Ministrem Edukacji Narodowej a Radą Synodalną.
 
-2. Studentom szkół, o których mowa w ust. 1 oraz w art. 12 ust. 2, przysługują świadczenia opieki zdrowotnej finansowane ze środków publicznych oraz ulgi w opłatach za przejazdy środkami publicznego transportu zbiorowego na równi ze studentami uczelni publicznych.
+2. Studentom szkół, o których mowa w ust. 1 oraz w art. 12 ust. 2, przysługują świadczenia publicznych zakładów opieki zdrowotnej oraz ulgi w opłatach za przejazdy środkami publicznego transportu zbiorowego na równi ze studentami państwowych szkół wyższych.
 
-3. Osobom pozostającym w stosunku pracy w szkołach, o których mowa w ust. 1 oraz w art. 12 ust. 2, przysługują na równi z odpowiednimi pracownikami uczelni publicznych świadczenia:
+3. Osobom pozostającym w stosunku pracy w szkołach, o których mowa w ust. 1 oraz w art. 12 ust. 2, przysługują na równi z odpowiednimi pracownikami państwowych szkół wyższych świadczenia:
 
-- **1)** opieki zdrowotnej finansowane ze środków publicznych;
+- **1)** publicznych zakładów opieki zdrowotnej,
 - **2)** ubezpieczenia społecznego oraz
 - **3)** zaopatrzenia emerytalnego pracowników i ich rodzin. Nauczycielom przysługują ponadto ulgi w opłatach za przejazdy środkami publicznego transportu zbiorowego na równi z nauczycielami akademickimi.
 
@@ -162,7 +157,7 @@ source: "isap-pdf"
 
 **Art. 15.**
 
-1. Żołnierzom pełniącym czynną służbę wojskową zapewnia się możliwość uczestniczenia – poza terenem jednostek wojskowych – w nabożeństwach i czynnościach religijnych w niedziele i w święta, jeżeli w miejscowości stacjonowania jednostki wojskowej lub w jej pobliżu znajduje się miejsce kultu publicznego Kościoła i jeżeli nie koliduje to z ważnymi obowiązkami służbowymi.
+1. Żołnierzom pełniącym czynną służbę wojskową zapewnia się możliwość uczestniczenia – poza terenem jednostek wojskowych – w nabożeństwach i czynnościach religijnych w niedziele i święta, jeżeli w miejscowości stacjonowania jednostki wojskowej lub w jej pobliżu znajduje się miejsce kultu publicznego Kościoła i jeżeli nie koliduje to z ważnymi obowiązkami służbowymi.
 
 2. Opiekę duszpasterską na terenie jednostek wojskowych dla żołnierzy, o których mowa w ust. 1, zapewniają duchowni Kościoła w terminach uzgodnionych z dowódcami jednostek.
 
@@ -178,11 +173,11 @@ source: "isap-pdf"
 
 **Art. 17.**
 
-1. Prawo wykonywania praktyk religijnych i korzystania z opieki duszpasterskiej zapewnia się też osobom przebywającym w podmiotach leczniczych wykonujących działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne w rozumieniu przepisów o działalności leczniczej oraz w domach pomocy społecznej, a także osobom tymczasowo aresztowanym, skazanym oraz nieletnim przebywającym w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich.
+1. Prawo wykonywania praktyk religijnych i korzystania z opieki duszpasterskiej zapewnia się też osobom przebywającym w zakładach opieki zdrowotnej oraz domach pomocy społecznej, a także osobom tymczasowo aresztowanym, skazanym oraz nieletnim przebywającym w zakładach poprawczych i schroniskach dla nieletnich.
 
-2. Nabożeństwa dla osób, o których mowa w ust. 1, odbywają się w kaplicach lub innych pomieszczeniach udostępnianych na ten cel przez właściwych kierowników podmiotów i zakładów prowadzonych przez państwo lub samorząd terytorialny.
+2. Nabożeństwa dla osób, o których mowa w ust. 1, odbywają się w kaplicach lub innych pomieszczeniach udostępnianych na ten cel przez kierowników zakładów prowadzonych przez państwo lub samorząd terytorialny.
 
-3. Do wyznaczania kapelanów w podmiotach i zakładach prowadzonych przez państwo lub samorząd terytorialny, w celu zaspokajania potrzeb określonych w ust. 1, jest uprawniona Rada Synodalna.
+3. Do wyznaczania kapelanów w zakładach prowadzonych przez państwo lub samorząd terytorialny, w celu zaspokajania potrzeb określonych w ust. 1, jest uprawniona Rada Synodalna.
 
 **Art. 18.**
 
@@ -202,7 +197,7 @@ source: "isap-pdf"
 
 2. Na wniosek kościelnej osoby prawnej miejscowe plany zagospodarowania przestrzennego obejmują także inwestycje, o których mowa w ust. 1, oraz polskokatolickie cmentarze wyznaniowe.
 
-**Art. 20.** Grunty stanowiące własność Skarbu Państwa lub własność jednostek samorządu terytorialnego, przeznaczone w miejscowych planach zagospodarowania przestrzennego na potrzeby Kościoła, na wniosek kościelnych osób prawnych mogą być im oddawane w wieczyste użytkowanie lub sprzedawane.
+**Art. 20.** Grunty stanowiące własność Skarbu Państwa lub własność gminy, przeznaczone w miejscowych planach zagospodarowania przestrzennego na potrzeby Kościoła, na wniosek kościelnych osób prawnych mogą być im oddawane w wieczyste użytkowanie lub sprzedawane.
 
 **Art. 21.** Nie pobiera się opłat za użytkowanie wieczyste gruntów oddanych na potrzeby zakładów charytatywno-opiekuńczych i punktów katechetycznych.
 
@@ -218,7 +213,7 @@ source: "isap-pdf"
 
 **Art. 25.** Instytucje państwowe, samorządowe i kościelne współdziałają w ochronie, konserwacji, udostępnianiu i upowszechnianiu zabytków architektury kościelnej i sztuki sakralnej oraz ich dokumentacji, muzeów, archiwów i bibliotek będących własnością kościelną, a także dzieł kultury i sztuki o motywach religijnych, stanowiących ważną część dziedzictwa kultury polskiej.
 
-#### Rozdział 4 Sprawy majątkowe Kościoła
+#### Rozdział 4 Sprawy majątkowe kościoła
 
 **Art. 26.** Kościołowi i jego osobom prawnym przysługuje prawo nabywania, posiadania i zbywania mienia ruchomego i nieruchomego, nabywania i zbywania innych praw oraz swobodnego zarządzania swoim majątkiem.
 
@@ -230,26 +225,34 @@ source: "isap-pdf"
 
 3. Zwolnienie od opodatkowania podatkiem od nieruchomości obejmuje nieruchomości lub ich części przeznaczone na cele mieszkalne duchownych, jeżeli:
 
-- **1)** są one wpisane do rejestru zabytków;
-- **2)** służą jako internaty przy szkołach i seminariach duchownych;
+- **1)** są one wpisane do rejestru zabytków,
+- **2)** służą jako internaty przy szkołach i seminariach duchownych,
 - **3)** znajdują się w budynkach diecezji, zwierzchników diecezji, ich sufraganów, Zwierzchnika Kościoła i Rady Synodalnej.
 
 4. Nabywanie i zbywanie rzeczy i praw majątkowych przez kościelne osoby prawne w drodze czynności prawnych oraz spadkobrania, zapisu i zasiedzenia jest zwolnione od opłaty skarbowej, jeżeli ich przedmiotem są:
 
-- **1)** rzeczy i prawa nieprzeznaczone do działalności gospodarczej;
+- **1)** rzeczy i prawa nie przeznaczone do działalności gospodarczej,
 - **2)** sprowadzane z zagranicy maszyny, urządzenia i materiały poligraficzne oraz papier.
 
 5. Darowizny na kościelną działalność charytatywno-opiekuńczą pochodzące od osób fizycznych są wyłączone z podstawy opodatkowania darczyńców podatkiem dochodowym, jeżeli kościelna osoba prawna przedstawi darczyńcy pokwitowanie odbioru oraz – w okresie dwóch lat od dnia przekazania darowizny – sprawozdanie o przeznaczeniu jej na tę działalność.
 
 6. Nabywanie i zbywanie rzeczy oraz praw majątkowych, o których mowa w ust. 4, jest zwolnione od opłat sądowych, z wyłączeniem opłat kancelaryjnych.
 
-**Art. 28.** Zwalnia się z należności celnych przywozowych towary przeznaczone na cele charytatywno-opiekuńcze i oświatowo-wychowawcze oraz towary o charakterze kulturalnym przeznaczone na cele kultu, przywożone dla kościelnych osób prawnych, w granicach i na warunkach określonych w rozporządzeniu Rady (WE) nr 1186/2009 z dnia 16 listopada 2009 r. ustanawiającym wspólnotowy system zwolnień celnych (Dz. Urz. UE L 324 z 10.12.2009, str. 23).
+**Art. 28.** Wolne od opłat celnych są:
+
+- **1)** przesyłane z zagranicy dla kościelnych osób prawnych dary: przeznaczone na cele kultowe, charytatywno-opiekuńcze i oświatowo-wychowawcze, maszyny, urządzenia i materiały poligraficzne oraz papier,
+    - **a)**
+    - **b)**
+
+- **2)** wysyłane przez kościelne osoby prawne za granicę dary: na rzecz zagranicznych i międzynarodowych organizacji kościelnych i społecznych, przeznaczone dla ofiar klęsk żywiołowych i osób znajdujących się w potrzebie.
+    - **a)**
+    - **b)**
 
 **Art. 29.**
 
 1. Kościelne osoby prawne mają prawo do zbierania ofiar na cele religijne, kościelną działalność charytatywno-opiekuńczą, naukową, oświatową i wychowawczą oraz utrzymanie duchownych i zakonów.
 
-2. Zbiórki wymienione w ust. 1 nie wymagają zgłoszenia, jeżeli odbywają się w obrębie terenów kościelnych, kaplic oraz w miejscach i okolicznościach zwyczajowo przyjętych w danej okolicy i w sposób tradycyjnie ustalony.
+2. Zbiórki wymienione w ust. 1 nie wymagają zezwolenia, jeżeli odbywają się w obrębie terenów kościelnych, kaplic oraz w miejscach i okolicznościach zwyczajowo przyjętych i w sposób tradycyjnie ustalony.
 
 **Art. 30.**
 
@@ -263,7 +266,7 @@ source: "isap-pdf"
 
 5. Jeżeli statut fundacji nie stanowi inaczej, w razie jej likwidacji:
 
-- **1)** do jej majątku znajdującego się w kraju stosuje się odpowiednio przepis art. 31;
+- **1)** do jej majątku znajdującego się w kraju stosuje się odpowiednio przepis art. 31,
 - **2)** o przeznaczeniu jej majątku znajdującego się za granicą zadecyduje Rada Synodalna.
 
 **Art. 31.** W razie zniesienia kościelnej osoby prawnej, jej majątek przechodzi na własność Kościoła jako całości.
@@ -286,14 +289,14 @@ source: "isap-pdf"
 
 **Art. 34.**
 
-1. Na wniosek kościelnych osób prawnych wojewoda lub inny organ wykonujący, w imieniu Skarbu Państwa, prawa wynikające z własności nieruchomości albo organy jednostek samorządu terytorialnego w zakresie swoich właściwości – mogą nieodpłatnie przekazać Kościołowi lub jego osobom prawnym własność nieruchomości lub ich części:
+1. Na wniosek kościelnych osób prawnych wojewoda lub inny organ wykonujący, w imieniu Skarbu Państwa, prawa wynikające z własności nieruchomości albo organy gmin w zakresie swoich właściwości – mogą nieodpłatnie przekazać Kościołowi lub jego osobom prawnym własność nieruchomości lub ich części:
 
-- **1)** jeżeli są one niezbędne do sprawowania kultu religijnego lub działalności kościelnych osób prawnych w zakresie charytatywno-opiekuńczym lub oświatowo-wychowawczym;
+- **1)** jeżeli są one niezbędne do sprawowania kultu religijnego lub działalności kościelnych osób prawnych w zakresie charytatywno-opiekuńczym lub oświatowo-wychowawczym,
 - **2)** w celu utworzenia lub powiększenia gospodarstwa rolnego parafii działających na Ziemiach Zachodnich i Północnych, o powierzchni do 15 ha użytków rolnych łącznie dla jednej parafii.
 
 2. Przepis art. 33 ust. 3 stosuje się odpowiednio.
 
-3. Wnioski w sprawach, o których mowa w ust. 1, mogą być składane w terminie do dnia 31 grudnia 1998 r.
+3. Wnioski, o których mowa w ust. 1, mogą być składane w terminie 2 lat od dnia wejścia w życie ustawy.
 
 **Art. 35.**
 
@@ -301,5 +304,5 @@ source: "isap-pdf"
 
 2. Wykaz kościelnych osób prawnych istniejących w dniu wejścia w życie ustawy określa załącznik do ustawy.
 
-**Art. 36.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia . Załącznik do ustawy z dnia 30 czerwca 1995 r. (Dz. U. z 2023 r. poz. 51)
+**Art. 36.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Załącznik – Wykaz osób prawnych Kościoła Polskokatolickiego w Rzeczypospolitej Polskiej I. Diecezje i parafie 1. Diecezja Krakowsko-Częstochowska Parafia Bażanówka Parafia Bielsko-Biała Parafia Bolesław Parafia Bukowno Parafia Częstochowa Parafia Hucisko Parafia Jaćmierz Parafia Jastkowice Parafia Kielce Parafia Wniebowstąpienia Pańskiego – Kraków Parafia Wniebowzięcia Najświętszej Maryi Panny – Kraków Parafia Zmartwychwstania Pańskiego – Kraków Parafia Krzykawa Parafia Libiąż Parafia Łęki Dukielskie Parafia Okół Parafia Osówka Parafia Ostrowiec Świętokrzyski Parafia Podgórze Boryjskie Parafia Rokitno Szlacheckie Parafia Sanok Parafia Skadla Parafia Skarżysko-Kamienna Parafia Sosnowiec Parafia Strzyżowice Parafia Tarłów Parafia Tarnów 2. Diecezja Warszawska Parafia Bydgoszcz Parafia Chełm Parafia Dąbrówka Parafia Długi Kąt Parafia Elbląg Parafia Gdańsk Parafia Gdynia Parafia Gorzków Parafia Grudki Parafia Grudziądz Parafia Horodło Parafia Kosarzew Parafia Lębork Parafia Lipa Lubelska Parafia Lublin Parafia Maciejów Stary Parafia Majdan Leśniowski Parafia Majdan Nepryski Parafia Matki Bożej Nieustającej Pomocy – Łódź Parafia Świętej Rodziny – Łódź Parafia Olsztyn Parafia Ruda Huta Parafia Sieradz Parafia Studzianki Pancerne Parafia Świeciechów Parafia Tarnogóra Parafia Tolkmicko Parafia Tomaszów Mazowiecki Parafia Toruń Parafia Turowiec Parafia Dobrego Pasterza – Warszawa Parafia Świętego Ducha – Warszawa Parafia Zamość Parafia Żółkiewka 3. Diecezja Wrocławska Parafia Boguszów-Gorce Parafia Bukowo Morskie Parafia Duszniki-Zdrój Parafia Gorzów Wielkopolski Parafia Gozdnica Parafia Jelenia Góra Parafia Kotłów Parafia Legnica Parafia Leszno Parafia Lubawka Parafia Małomice Parafia Obórki Parafia Ostrów Wielkopolski Parafia Poznań Parafia Stargard Szczeciński Parafia Strzyżew Parafia Szczecin Parafia Świdnica Parafia Wałbrzych Parafia Wrocław Parafia Ząbkowice Śląskie Parafia Zielona Góra Parafia Złotoryja Parafia Żagań Parafia Żary Parafia Żarki II. Seminaria Wyższe Seminarium Duchowne Kościoła Polskokatolickiego w Warszawie.
 

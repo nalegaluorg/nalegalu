@@ -8,12 +8,10 @@ pos: 2338
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# zmianie ustawy Funduszu Dróg Samorządowych oraz niektórych innych ustaw
-
-*USTAWA dnia 19 listopada 2020 r.*
+# Ustawa z dnia 19 listopada 2020 r. o zmianie ustawy o Funduszu Dróg Samorządowych oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,204 +22,174 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2020-11-19 |
 | Data wydania | 2020-12-23 |
+| Wejście w życie | 2020-12-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002338) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2338/text.pdf) |
 
-**Art. 1.** W ustawie dnia 23 października 2018 r. Funduszu Dróg Samorządowych (Dz. U. 2020 r. poz. 1430 i 1747) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 23 października 2018 r. o Funduszu Dróg Samorządowych (Dz. U. z 2020 r. poz. 1430 i 1747) wprowadza się następujące zmiany:
 
-**Art. 16b.**
+- **1)** w tytule ustawy ogólne określenie jej przedmiotu otrzymuje brzmienie: „o Rządowym Funduszu Rozwoju Dróg”;
+- **2)** użyte w art. 1 w pkt 1 wyrazy „Funduszu Dróg Samorządowych” zastępuje się wyrazami „Rządowego Funduszu Rozwoju Dróg”;
+- **3)** w art. 2 w ust. 1 po pkt 2 dodaje się pkt 2a w brzmieniu: „
+- **2a)** obwodnicy – rozumie się przez to drogę omijającą miejscowość lub teren zwartej zabudowy miejscowości, planowaną do realizacji w większości w nowym przebiegu i mającą na celu wyprowadzenie części ruchu pojazdów z tej miejscowości; ” ;
+- **4)** tytuł rozdziału 2 otrzymuje brzmienie: „ Rządowy Fundusz Rozwoju Dróg ” ;
+- **5)** w art. 4: w ust. 1 po pkt 2 dodaje się pkt 2a i 2b w brzmieniu: „
+    - **a)**
 
-1. Jednostka samorządu terytorialnego może otrzymać ze środków Funduszu dofinansowanie zadania miejskiego wysokości do 80% kosztów realizacji tego zadania.
+- **2a)** budowie obwodnic lokalizowanych w ciągach dróg wojewódzkich, zwane dalej „zadaniami obwodnicowymi”;
+- **2b)** budowie, przebudowie lub remoncie dróg wojewódzkich, dróg powiatowych lub dróg gminnych, zarządzanych przez prezydenta miasta na prawach powiatu będącego siedzibą wojewody lub sejmiku województwa, zwane dalej „zadaniami miejskimi”; ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **b)**
 
-2. Do ustalenia wysokości dofinansowania stosuje się przepisy 14 2 i 3.
+1a. W ramach realizacji zadań powiatowych i zadań gminnych mogą być w szczególności dofinansowane zadania mające na celu wyłącznie poprawę bezpieczeństwa ruchu pieszych w obszarze oddziaływania przejść dla pieszych w rozumieniu art. 2 pkt 11 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym. ” , w ust. 4 wyrazy „o których mowa w ust. 1” zastępuje się wyrazami „o których mowa w ust. 1 pkt 1–2b”, w ust. 7 wyrazy „Przepisów ust. 1” zastępuje się wyrazami „Przepisów ust. 1 pkt 1–2a i 3”;
 
-3. Wysokość dofinansowania udzielonego na zadanie miejskie nie może przekroczyć 30 mln zł.”;
+- **c)**
+- **d)**
+- **6)** w art. 5: w ust. 1 w pkt 2 i 3 wyrazy „dotacji celowej” zastępuje się wyrazem „wpłat”, w ust. 5 wyrazy „działów III i IV” zastępuje się wyrazami „działu III rozdziału 1–6, 7, 8, 9, 11 i 13–15 oraz działu IV”;
+    - **a)**
+    - **b)**
 
-- **14)** 17 i 18 otrzymują brzmienie: „Art. 17. Środki własne jednostek samorządu terytorialnego przeznaczone na realizację zadań, których mowa 4 1 pkt 1–2b, nie mogą obejmować środków pochodzących budżetu państwa oraz budżetu Unii Europejskiej.
+- **7)** po art. 5 dodaje się art. 5a w brzmieniu: „
 
-**Art. 18.** Jednostka samorządu terytorialnego otrzymuje Funduszu środki na sfinansowanie zadania obronnego obejmujące całość kosztów przygotowania i realizacji tego zadania.”;
+**Art. 5a.** Wpłaty, o których mowa w art. 5 ust. 1 pkt 2 i 3, nie stanowią dotacji w rozumieniu art. 126 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych. ” ;
 
-**Art. 36b.**
+- **8)** w art. 6 w ust. 1 wyrazy „art. 4 ust. 1 pkt 1 i 2” zastępuje się wyrazami „art. 4 ust. 1 pkt 1–2b”;
+- **9)** w art. 7 w ust. 1 po pkt 2 dodaje się pkt 2a i 2b w brzmieniu: „
+- **2a)** dofinansowanie zadań obwodnicowych;
+- **2b)** dofinansowanie zadań miejskich; ” ;
+- **10)** w art. 9 dodaje się ust. 5 w brzmieniu: „
 
-1. Minister właściwy do spraw transportu dokonuje oceny wniosków dofinansowanie, których mowa 36a 1, biorąc pod uwagę stan przygotowania zadania obwodnicowego, ze szczególnym uwzględnieniem posiadanych przez wnioskodawcę zezwoleń, pozwoleń i innych decyzji, które są niezbędne do realizacji zadania, oraz ochronę ośrodków życia społeczno-kulturalnego i zapewnienie bezpiecznego dostępu do tych ośrodków, a także:
+5. Dysponent Funduszu może dokonywać przesunięć przewidzianych w planie finansowym Funduszu kwot:
 
-- **1)** wartość natężenia ruchu pojazdów rozumieniu 2 pkt 31 ustawy dnia 20 czerwca 1997 r. – Prawo ruchu drogowym,
-- **2)** liczbę wypadków i kolizji drogowych – na drodze wojewódzkiej, która zostanie zastąpiona drogą wybudowaną wyniku realizacji zadania obwodnicowego.
+- **1)** na dofinansowanie poszczególnych kategorii zadań, o których mowa w art. 4 ust. 1 pkt 1–2b;
+- **2)** między kategoriami wydatków bieżących i majątkowych na zadania, o których mowa w art. 4 ust. 1 pkt 1–2b. ” ;
+- **11)** w art. 11 ust. 2 otrzymuje brzmienie: „
 
-2. Do oceny, której mowa 1, przepisy 24 3 i 4 stosuje się odpowiednio.
+2. Dysponent Funduszu dokonuje wypłat ze środków Funduszu na rzecz jednostek samorządu terytorialnego realizujących:
 
-3. Na podstawie oceny, której mowa 1, minister właściwy do spraw transportu ustala listę zadań obwodnicowych rekomendowanych do dofinansowania ze środków Funduszu.
+- **1)** zadania obwodnicowe w terminach wynikających z umów, o których mowa w art. 36e ust. 1;
+- **2)** zadania miejskie w terminach wynikających z umów, o których mowa w art. 36j ust. 1;
+- **3)** zadania obronne w terminach wynikających z umów, o których mowa w art. 39 ust. 4. ” ;
+- **12)** w art. 14: ust. 2 otrzymuje brzmienie: „
+    - **a)**
 
-4. Lista, której mowa 3, składa się z:
+2. Wysokość dofinansowania ustala się, biorąc pod uwagę dochody podatkowe gmin i powiatów, o których mowa w art. 20 ust. 3 i art. 22 ust. 3 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2020 r. poz. 23, 374 i 1086), ustalone z uwzględnieniem art. 32 ust. 1 i 3 tej ustawy, pomniejszone o wpłaty danej jednostki samorządu terytorialnego, o których mowa odpowiednio w art. 29 i art. 30 tej ustawy, i powiększone o przysługujące danej jednostce samorządu terytorialnego część wyrównawczą i część równoważącą subwencji ogólnej, przeliczone na mieszkańca tej jednostki, w stosunku do sumy dochodów podatkowych jednostek samorządu terytorialnego danego rodzaju w skali kraju, pomniejszonych o sumę wpłat jednostek samorządu terytorialnego danego rodzaju, o których mowa w art. 29 i art. 30 tej ustawy, i powiększonych o sumę przysługujących im części wyrównawczych i równoważących subwencji ogólnej, przeliczonych na mieszkańca jednostek samorządu terytorialnego danego rodzaju. ” , w ust. 3 w pkt 1 wyrazy „dochody własne” zastępuje się wyrazami „dochody podatkowe”;
 
-- **1)** listy, na której umieszcza się zadania obwodnicowe rekomendowane do dofinansowania do wysokości środków, których mowa 36a 3 pkt 1;
-- **2)** listy, na której umieszcza się zadania obwodnicowe rekomendowane do dofinansowania, które nie zmieściły się wysokości środków, których mowa 36a 3 pkt 1.
+- **b)**
+- **13)** po art. 16 dodaje się art. 16a i art. 16b w brzmieniu: „
 
-5. Sporządzając listę, której mowa 3, minister właściwy do spraw transportu ustala wysokość dofinansowania dla poszczególnych zadań obwodnicowych zgodnie 16a.
+**Art. 16a.**
 
-6. W przypadku zadania obwodnicowego przebiegającego przez więcej niż jeden podregion, którym mowa 16a 2, do ustalenia wysokości dofinansowania przyjmuje się dane podregionu, na terenie którego przebiega dłuższy odcinek zadania obwodnicowego.
+1. Jednostka samorządu terytorialnego może otrzymać ze środków Funduszu dofinansowanie zadania obwodnicowego w wysokości do 80% kosztów realizacji tego zadania.
 
-**Art. 36c.**
+2. Wysokość dofinansowania zadania obwodnicowego ustala się, biorąc pod uwagę średni dochód gmin i powiatów na mieszkańca podregionu, na terenie którego jest planowana realizacja danego zadania obwodnicowego, w stosunku do średniego dochodu gmin i powiatów na mieszkańca kraju.
 
-1. W terminie 4 miesięcy od dnia ogłoszenia naboru minister właściwy do spraw transportu przedstawia Prezesowi Rady Ministrów do zatwierdzenia listę, której mowa 36b 3.
+3. Przez podregion, o którym mowa w ust. 2, rozumie się jednostkę terytorialną poziomu NUTS 3, o której mowa w rozporządzeniu (WE) nr 1059/2003 Parlamentu Europejskiego i Rady z dnia 26 maja 2003 r. w sprawie ustalenia wspólnej klasyfikacji Jednostek Terytorialnych do Celów Statystycznych (NUTS) (Dz. Urz. UE L 154 z 21.06.2003, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 14, t. 1, str. 196).
 
-2. Po otrzymaniu od ministra właściwego do spraw transportu listy, której mowa 36b 3, Prezes Rady Ministrów może:
+4. Średni dochód gmin i powiatów na mieszkańca podregionu oblicza się, dzieląc dochody podatkowe podregionu przez liczbę ludności tego podregionu.
 
-- **1)** przenieść zadanie umieszczone na liście, której mowa 36b 4 pkt 2, na listę, której mowa 36b 4 pkt 1, – mając na względzie poprawę dostępności komunikacyjnej obszarów niższej zamożności, wyrównywanie szans rozwojowych regionów i budowanie spójności terytorialnej kraju lub zgodność programami realizowanymi przez Radę Ministrów.
+5. Kwotę dochodów podatkowych podregionu, o których mowa w ust. 4, oblicza się jako sumę dochodów podatkowych gmin i powiatów wchodzących w skład tego podregionu, rozumianych jako dochody, o których mowa w art. 20 ust. 3 i art. 22 ust. 3 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego, ustalone z uwzględnieniem art. 32 ust. 1 i 3 tej ustawy.
 
-3. W przypadku wprowadzenia zmian na liście zadań obwodnicowych rekomendowanych do dofinansowania, których mowa 2, Prezes Rady Ministrów dokonuje podziału rezerwy, której mowa 36a 5.
+6. Liczbę ludności podregionu, o której mowa w ust. 4, oblicza się jako sumę liczby ludności zamieszkującej obszar gmin wchodzących w skład tego podregionu.
 
-4. Prezes Rady Ministrów zatwierdza ostateczną:
+7. Średni dochód gmin i powiatów na mieszkańca kraju oblicza się, dzieląc dochody podatkowe wszystkich gmin i powiatów w kraju, rozumiane jako dochody, o których mowa w art. 20 ust. 3 i art. 22 ust. 3 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego, ustalone z uwzględnieniem art. 32 ust. 1 i 3 tej ustawy, przez liczbę ludności wszystkich gmin w kraju.
 
-- **1)** listę zadań obwodnicowych przeznaczonych do dofinansowania, uwzględnieniem zmian dokonanych zgodnie 2, podziale na listy, których mowa 36b 4;
-- **2)** wysokość dofinansowania zadań obwodnicowych, uwzględniając:
-    - **a)** wysokość środków przeznaczonych danym roku na dofinansowanie zadań obwodnicowych,
-    - **b)** podział rezerwy, której mowa 36a 5, dokonany zgodnie 3.
+8. Przy obliczaniu dochodów podatkowych i liczby ludności nie bierze się pod uwagę dochodów podatkowych i liczby ludności miast na prawach powiatu będących siedzibą wojewody lub sejmiku województwa.
 
-5. Wnioskodawcy otrzymują dofinansowanie zadań obwodnicowych na podstawie ostatecznej listy, której mowa 4 pkt 1, do ostatecznej wysokości dofinansowania, której mowa 4 pkt 2.
+9. Podstawę wyliczenia średnich dochodów gmin i powiatów, o których mowa w ust. 2, stanowią:
 
-6. Na podstawie ostatecznej listy, której mowa 4 pkt 1, minister właściwy do spraw transportu udziela dofinansowania na zadania obwodnicowe ze środków Funduszu do wysokości środków, których mowa 4 pkt 2.
+- **1)** dochody podatkowe danej jednostki samorządu terytorialnego ustalone za rok poprzedzający rok bazowy;
+- **2)** liczba mieszkańców zamieszkałych na obszarze danej jednostki samorządu terytorialnego, według stanu na dzień 31 grudnia roku poprzedzającego rok bazowy, ustalona przez Prezesa Głównego Urzędu Statystycznego do dnia 31 maja roku bazowego.
 
-7. Ostateczna lista, której mowa 4 pkt 1, może ulec zmianie wyłącznie przypadku:
+10. Wysokość dofinansowania udzielonego na zadanie obwodnicowe nie może przekroczyć 100 mln zł.
 
-- **1)** rezygnacji wnioskodawcy udzielonego dofinansowania;
-- **2)** zmniejszenia wysokości dofinansowania wyniku przeprowadzonego postępowania udzielenie zamówienia na realizację zadania objętego wnioskiem dofinansowanie, którym mowa 36a 1.
+1. Jednostka samorządu terytorialnego może otrzymać ze środków Funduszu dofinansowanie zadania miejskiego w wysokości do 80% kosztów realizacji tego zadania.
 
-8. W przypadku, którym mowa 7, zadanie najwyższym priorytecie do dofinansowania umieszczone na liście, której mowa 36b 4 pkt 2, jest przenoszone na listę, której mowa 36b 4 pkt 1, do wysokości środków przeznaczonych na dofinansowanie zadań obwodnicowych.
+2. Do ustalenia wysokości dofinansowania stosuje się przepisy art. 14 ust. 2 i 3.
 
-9. Minister właściwy do spraw transportu niezwłocznie przekazuje Prezesowi Rady Ministrów informację zmianie, której mowa 7.
+3. Wysokość dofinansowania udzielonego na zadanie miejskie nie może przekroczyć 30 mln zł. ” ;
 
-10. Lista zadań obwodnicowych przeznaczonych do dofinansowania zmieniona zgodnie 7 nie wymaga zatwierdzenia przez Prezesa Rady Ministrów.
+- **14)** art. 17 i art. 18 otrzymują brzmienie: „
 
-**Art. 36d.** Do procedury udzielania dofinansowania zadań obwodnicowych ze środków Funduszu, tym do:
+**Art. 17.** Środki własne jednostek samorządu terytorialnego przeznaczone na realizację zadań, o których mowa w art. 4 ust. 1 pkt 1–2b, nie mogą obejmować środków pochodzących z budżetu państwa oraz z budżetu Unii Europejskiej.
 
-**Art. 36e.**
+**Art. 18.** Jednostka samorządu terytorialnego otrzymuje z Funduszu środki na sfinansowanie zadania obronnego obejmujące całość kosztów przygotowania i realizacji tego zadania. ” ;
 
-1. Minister właściwy do spraw transportu zawiera właściwą jednostką samorządu terytorialnego umowę udzielenie dofinansowania zadania obwodnicowego przeznaczonego do dofinansowania ze środków Funduszu zgodnie 36c 6.
+- **15)** w art. 21 po ust. 1 dodaje się ust. 1a w brzmieniu: „
 
-2. Do umowy, której mowa 1, przepisy 28 2–3 i 4–6 stosuje się odpowiednio.
+1a. Wojewoda w ramach środków, o których mowa w art. 20 ust. 1, może ogłosić i przeprowadzić nabór ograniczony wyłącznie do zadań, o których mowa w art. 4 ust. 1a. ” ;
 
-3. Do dofinansowania udzielonego na zadanie obwodnicowe przepisy 29 1 i 2, 30 oraz 31 1–10, 12 i 13 stosuje się odpowiednio, przy czym ilekroć tych przepisach jest mowa wojewodzie, rozumie się przez to ministra właściwego do spraw transportu.
+- **16)** w art. 24: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) poprawę stanu bezpieczeństwa ruchu drogowego, ze szczególnym uwzględnieniem bezpieczeństwa ruchu pieszych w obszarze oddziaływania przejść dla pieszych; ” , – w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „ 6) zwiększenie liczby obwodnic w ciągu dróg powiatowych i dróg gminnych. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+    - **b)**
 
-4. W terminie do dnia 31 marca danego roku minister właściwy do spraw transportu przedstawia Prezesowi Rady Ministrów zbiorcze sprawozdanie realizacji zadań obwodnicowych, na które zostało udzielone dofinansowanie, według stanu na dzień 31 grudnia roku poprzedzającego.
+1a. W przypadku naboru, o którym mowa w art. 21 ust. 1a, dokonując oceny, o której mowa w ust. 1, komisja bierze pod uwagę wyłącznie poprawę:
 
-**Art. 36f.**
+- **1)** jakości życia mieszkańców;
+- **2)** stanu bezpieczeństwa ruchu pieszych w obszarze oddziaływania przejścia dla pieszych. ” , w ust. 6 w pkt 2 wyrazy „równowartość 50% kwoty” zastępuje się wyrazami „równowartość 75% kwoty”;
+    - **c)**
 
-1. Nabór wniosków dofinansowanie zadań miejskich przeprowadza minister właściwy do spraw transportu.
+- **17)** w art. 28: po ust. 3 dodaje się ust. 3a w brzmieniu: „
+    - **a)**
 
-2. Minister właściwy do spraw transportu informuje naborze, którym mowa 1, za pośrednictwem
+3a. Dofinansowanie na zadania powiatowe oraz zadania gminne, których przewidywany czas realizacji jest nie dłuższy niż 12 miesięcy, może zostać przekazane do dnia 31 grudnia roku, na który w planie finansowanym Funduszu przeznaczono środki na dofinansowanie tych zadań. ” , w ust. 6 wyrazy „dofinansowaniem zadania” zastępuje się wyrazami „dofinansowywanym zadaniem”, dodaje się ust. 8 w brzmieniu: „
 
-- **1)** wysokość środków przeznaczonych na dofinansowanie zadań miejskich ustaloną przez ministra właściwego do spraw transportu, nie większą niż 1 mld zł;
-- **2)** termin, miejsce i sposób składania wniosków dofinansowanie zadań miejskich;
-- **3)** wymogi formalne, które powinien spełniać wniosek dofinansowanie zadania miejskiego, oraz jego wzór.
+- **b)**
+- **c)**
 
-4. Minister właściwy do spraw transportu informacji naborze może wskazać maksymalną liczbę zadań miejskich, które mogą uzyskać dofinansowanie jednego miasta na prawach powiatu ramach tego naboru.
+8. Umowa, o której mowa w ust. 1, o udzielenie dofinansowania zadania, którego przewidywany czas realizacji jest nie dłuższy niż 12 miesięcy, wygasa z mocy prawa, jeżeli wnioskodawca w terminie do dnia 15 grudnia roku, na który w planie finansowanym Funduszu przeznaczono środki na dofinansowanie tego zadania, nie zawrze umowy na realizację zadania objętego wnioskiem o dofinansowanie. ” ;
 
-5. W ramach środków, których mowa 3 pkt 1, wydziela się rezerwę wysokości 5%.
+- **18)** w art. 31 w ust. 9 w zdaniu pierwszym wyraz „niezależnie” zastępuje się wyrazem „nienależnie”;
+- **19)** po art. 36 dodaje się art. 36a-36j w brzmieniu: „
 
-6. Wniosek dofinansowanie, którym mowa 1, składa właściwy zarządca drogi terminie 30 dni od dnia udostępnienia informacji naborze sposób określony 2. Wnioski złożone po tym terminie pozostawia się bez rozpatrzenia.
+**Art. 36a.**
 
-7. Do wniosków dofinansowanie, których mowa 1, przepisy 33 4–6 stosuje się odpowiednio.
+1. Nabór wniosków o dofinansowanie zadań obwodnicowych przeprowadza minister właściwy do spraw transportu.
 
-**Art. 36g.**
+2. Minister właściwy do spraw transportu informuje o naborze, o którym mowa w ust. 1, za pośrednictwem Biuletynu Informacji Publicznej obsługującego go urzędu.
 
-1. Minister właściwy do spraw transportu dokonuje oceny wniosków dofinansowanie, których mowa 36f 1, biorąc pod uwagę:
+3. W informacji o naborze wskazuje się w szczególności:
 
-- **1)** poprawę jakości życia mieszkańców;
-- **2)** poprawę stanu bezpieczeństwa ruchu drogowego;
-- **3)** poprawę dostępności transportowej ośrodków życia gospodarczo-społecznego;
-- **4)** zapewnienie spójności sieci dróg publicznych;
-- **5)** podnoszenie standardów technicznych dróg publicznych oraz zachowanie jednorodności sieci dróg publicznych pod względem spełniania tych standardów;
-- **6)** stan przygotowania zadania miejskiego, ze szczególnym uwzględnieniem posiadanych przez wnioskodawców zezwoleń, pozwoleń i innych decyzji, które są niezbędne do realizacji zadania.
+- **1)** wysokość środków przeznaczonych na dofinansowanie zadań obwodnicowych ustaloną przez ministra właściwego do spraw transportu, nie większą niż 2 mld zł;
+- **2)** termin, miejsce i sposób składania wniosków o dofinansowanie zadań obwodnicowych;
+- **3)** wymogi formalne, które powinien spełniać wniosek o dofinansowanie zadania obwodnicowego, oraz jego wzór;
+- **4)** szczegółowy sposób ustalania natężenia ruchu drogowego oraz liczby wypadków i kolizji drogowych, o których mowa w art. 36b ust. 1 pkt 1 i 2, na potrzeby oceny wniosków o dofinansowanie zadań obwodnicowych.
 
-2. Do oceny, której mowa 1, przepisy 24 3 i 4 stosuje się odpowiednio.
+4. Minister właściwy do spraw transportu w informacji o naborze może wskazać maksymalną liczbę zadań obwodnicowych, które mogą uzyskać dofinansowanie z jednego województwa w ramach tego naboru.
 
-3. Na podstawie oceny, której mowa 1, minister właściwy do spraw transportu ustala listę zadań miejskich rekomendowanych do dofinansowania ze środków Funduszu.
+5. W ramach środków, o których mowa w ust. 3 pkt 1, wydziela się rezerwę w wysokości 5%.
 
-4. Lista, której mowa 3, składa się z:
+6. Wniosek o dofinansowanie, o którym mowa w ust. 1, składa właściwy zarządca drogi wojewódzkiej w terminie 30 dni od dnia udostępnienia informacji o naborze w sposób określony w ust. 2. Wnioski złożone po tym terminie pozostawia się bez rozpatrzenia.
 
-- **1)** listy, na której umieszcza się zadania miejskie rekomendowane do dofinansowania do wysokości środków, których mowa 36f 3 pkt 1;
-- **2)** listy, na której umieszcza się zadania miejskie rekomendowane do dofinansowania, które nie zmieściły się wysokości środków, których mowa 36f 3 pkt 1.
+7. Do wniosków o dofinansowanie, o których mowa w ust. 1, przepisy art. 33 ust. 4–6 stosuje się odpowiednio.
 
-5. Sporządzając listę, której mowa 3, minister właściwy do spraw transportu ustala wysokość dofinansowania dla poszczególnych zadań miejskich zgodnie 16b.
+1. Minister właściwy do spraw transportu dokonuje oceny wniosków o dofinansowanie, o których mowa w art. 36a ust. 1, biorąc pod uwagę stan przygotowania zadania obwodnicowego, ze szczególnym uwzględnieniem posiadanych przez wnioskodawcę zezwoleń, pozwoleń i innych decyzji, które są niezbędne do realizacji zadania, oraz ochronę ośrodków życia społeczno-kulturalnego i zapewnienie bezpiecznego dostępu do tych ośrodków, a także:
 
-**Art. 36h.**
+- **1)** wartość natężenia ruchu pojazdów w rozumieniu art. 2 pkt 31 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym,
+- **2)** liczbę wypadków i kolizji drogowych na drodze wojewódzkiej, która zostanie zastąpiona drogą wybudowaną w wyniku realizacji zadania obwodnicowego.
 
-1. W terminie 4 miesięcy od dnia ogłoszenia naboru minister właściwy do spraw transportu przedstawia Prezesowi Rady Ministrów do zatwierdzenia listę, której mowa 36g 3.
+2. Do oceny, o której mowa w ust. 1, przepisy art. 24 ust. 3 i 4 stosuje się odpowiednio.
 
-2. Po otrzymaniu od ministra właściwego do spraw transportu listy, której mowa 36g 3, Prezes Rady Ministrów może:
+3. Na podstawie oceny, o której mowa w ust. 1, minister właściwy do spraw transportu ustala listę zadań obwodnicowych rekomendowanych do dofinansowania ze środków Funduszu.
 
-- **1)** przenieść zadanie umieszczone na liście, której mowa 36g 4 pkt 2, na listę, której mowa 36g 4 pkt 1,
-- **2)** zwiększyć wysokość dofinansowania zadania miejskiego, uwzględnieniem 16b 1,
-- **3)** wskazać do dofinansowania zadanie miejskie nieumieszczone na liście, której mowa 36g 3 – mając na względzie wyrównywanie szans rozwojowych i poprawę dostępności transportowej ośrodków miejskich oraz zgodność programami realizowanymi przez Radę Ministrów.
+4. Lista, o której mowa w ust. 3, składa się z:
 
-3. W przypadku wprowadzenia zmian na liście zadań miejskich rekomendowanych do dofinansowania, których mowa 2, Prezes Rady Ministrów dokonuje podziału rezerwy, której mowa 36f 5.
+- **1)** listy, na której umieszcza się zadania obwodnicowe rekomendowane do dofinansowania do wysokości środków, o których mowa w art. 36a ust. 3 pkt 1;
+- **2)** listy, na której umieszcza się zadania obwodnicowe rekomendowane do dofinansowania, które nie zmieściły się w wysokości środków, o których mowa w art. 36a ust. 3 pkt 1.
 
-4. Prezes Rady Ministrów zatwierdza ostateczną:
+5. Sporządzając listę, o której mowa w ust. 3, minister właściwy do spraw transportu ustala wysokość dofinansowania dla poszczególnych zadań obwodnicowych zgodnie z art. 16a.
 
-- **1)** listę zadań miejskich przeznaczonych do dofinansowania, uwzględnieniem zmian dokonanych zgodnie 2, podziale na listy, których mowa 36g 4;
-    - **a)** wysokość środków przeznaczonych danym roku na dofinansowanie zadań miejskich,
-    - **b)** podział rezerwy, której mowa 36f 5, dokonany zgodnie 3.
+6. W przypadku zadania obwodnicowego przebiegającego przez więcej niż jeden podregion, o którym mowa w art. 16a ust. 2, do ustalenia wysokości dofinansowania przyjmuje się dane z podregionu, na terenie którego przebiega dłuższy odcinek zadania obwodnicowego.
 
-5. Wnioskodawcy otrzymują dofinansowanie zadań miejskich na podstawie ostatecznej listy, której mowa 4 pkt 1, do ostatecznej wysokości dofinansowania, której mowa 4 pkt 2.
+1. W terminie 4 miesięcy od dnia ogłoszenia naboru minister właściwy do spraw transportu przedstawia Prezesowi Rady Ministrów do zatwierdzenia listę, o której mowa w art. 36b ust. 3.
 
-6. Na podstawie ostatecznej listy, której mowa 4 pkt 1, minister właściwy do spraw transportu udziela dofinansowania na zadania miejskie ze środków Funduszu do wysokości środków, których mowa 4 pkt 2.
+2. Po otrzymaniu od ministra właściwego do spraw transportu listy, o której mowa w art. 36b ust. 3, Prezes Rady Ministrów może:
 
-7. Ostateczna lista, której mowa 4 pkt 1, może ulec zmianie wyłącznie przypadku:
+- **1)** przenieść zadanie umieszczone na liście, o której mowa w art. 36b ust. 4 pkt 2, na listę, o której mowa w art. 36b ust. 4 pkt 1,
+- **2)** zwiększyć wysokość dofinansowania zadania obwodnicowego, z uwzględnieniem art. 16a ust. 1,
+- **3)** wskazać do dofinansowania zadanie obwodnicowe nieumieszczone na liście, o której mowa w art. 36b ust. 3 mając na względzie poprawę dostępności komunikacyjnej obszarów o niższej zamożności, wyrównywanie szans rozwojowych regionów i budowanie spójności terytorialnej kraju lub zgodność z programami realizowanymi przez Radę Ministrów.
 
-- **1)** rezygnacji wnioskodawcy udzielonego dofinansowania;
-- **2)** zmniejszenia wysokości dofinansowania wyniku przeprowadzonego postępowania udzielenie zamówienia na realizację zadania objętego wnioskiem dofinansowanie, którym mowa 36f 1.
+3. W przypadku wprowadzenia zmian na liście zadań obwodnicowych rekomendowanych do dofinansowania, o których mowa w ust. 2, Prezes Rady Ministrów dokonuje podziału rezerwy, o której mowa w art. 36a ust. 5.
 
-8. W przypadku, którym mowa 7, zadanie najwyższym priorytecie do dofinansowania umieszczone na liście, której mowa 36g 4 pkt 2, jest przenoszone na listę, której mowa 36g 4 pkt 1, do wysokości środków przeznaczonych na dofinansowanie zadań miejskich.
+4.
 
-9. Minister właściwy do spraw transportu niezwłocznie przekazuje Prezesowi Rady Ministrów informację zmianie, której mowa 7.
-
-10. Lista zadań miejskich przeznaczonych do dofinansowania zmieniona zgodnie 7 nie wymaga zatwierdzenia przez Prezesa Rady Ministrów.
-
-**Art. 36i.** Do procedury udzielania dofinansowania zadań miejskich ze środków Funduszu, tym:
-
-**Art. 36j.**
-
-1. Minister właściwy do spraw transportu zawiera właściwą jednostką samorządu terytorialnego umowę udzielenie dofinansowania zadania miejskiego przeznaczonego do dofinansowania ze środków Funduszu zgodnie 36h 6.
-
-2. Do umowy, której mowa 1, przepisy 28 2–8 stosuje się odpowiednio.
-
-3. Do dofinansowania udzielonego na zadanie miejskie przepisy 29 1 i 2, 30 oraz 31 1–10, 12 i 13 stosuje się odpowiednio, przy czym ilekroć tych przepisach jest mowa wojewodzie, rozumie się przez to ministra właściwego do spraw transportu.
-
-4. W terminie do dnia 31 marca danego roku minister właściwy do spraw transportu przedstawia Prezesowi Rady Ministrów zbiorcze sprawozdanie realizacji zadań miejskich, na które zostało udzielone dofinansowanie, według stanu na dzień 31 grudnia roku poprzedzającego.”;
-
-- **20)** 38 1 otrzymuje brzmienie: „1. Właściwy zarządca drogi informuje użytkowników dróg, za pośrednictwem tablicy informacyjnej, realizacji zadania, którym mowa 4 1 pkt 1–2b, udziałem środków Funduszu.”;
-- **21)** 39:
-    - **a)** 5 wyrazy „art. 28 2–7” zastępuje się wyrazami „art. 28 2–6”,
-    - **b)** 6 otrzymuje brzmienie: „6. Do finansowania udzielonego na zadanie obronne przepisy 29 1 i 2, 30 oraz 31 1–10, 12 i 13 stosuje się odpowiednio, przy czym ilekroć tych przepisach jest mowa wojewodzie, rozumie się przez to ministra właściwego do spraw transportu.”;
-
-- **22)** po 42a dodaje się 42b i 42c brzmieniu: „Art. 42b. W przypadku gdy wydatek budżetu państwa tytułu wpłaty do Funduszu roku 2020 zostanie -gospodarczym skutkom COVID-19 (Dz. U. poz. 1747) – Fundusz może wydatkować środki przekazanej wpłaty do dnia 31 grudnia 2028 r.
-
-**Art. 42c.** W przypadku zmiany planu finansowego Funduszu na rok 2021 nie stosuje się przepisów 29 9 i 12 ustawy dnia 27 sierpnia 2009 r. finansach publicznych.”;
-
-**Art. 2.** W ustawie dnia 21 marca 1985 r. drogach publicznych (Dz. U. 2020 r. poz. 470, 471 i 1087) 39 3bb pkt 2 wyrazy „Funduszu Dróg Samorządowych” zastępuje się wyrazami „Rządowego Funduszu Rozwoju Dróg”.
-
-**Art. 3.** W ustawie dnia 28 września 1991 r. lasach (Dz. U. 2020 r. poz. 1463) 58b otrzymuje brzmienie: „Art. 58b. Dyrekcja Generalna Lasów Państwowych dokonuje corocznie wpłat na rzecz Rządowego Funduszu Rozwoju Dróg przychodów uzyskanych przez Lasy Państwowe ze sprzedaży drewna wysokości i na zasadach określonych przepisach ustawy dnia 23 października 2018 r. Rządowym Funduszu Rozwoju Dróg (Dz. U. 2020 r. poz. 1430, 1747 i 2338).”.
-
-**Art. 4.** W ustawie dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. 2020 r. poz. 1219, 1378, 1565 i 2127) 401c 11a otrzymuje brzmienie: „11a. Narodowy Fundusz corocznie dokonuje wpłat na rzecz Rządowego Funduszu Rozwoju Dróg wysokości i na zasadach określonych przepisach ustawy dnia 23 października 2018 r. Rządowym Funduszu Rozwoju Dróg (Dz. U. 2020 r. poz. 1430, 1747 i 2338).”.
-
-**Art. 5.** W ustawie dnia 16 maja 2019 r. Funduszu rozwoju przewozów autobusowych charakterze użyteczności publicznej (Dz. U. poz. 1123 oraz 2020 r. poz. 875, 1565 i 1747) 9 otrzymuje brzmienie: „Art. 9. 1. Środki Funduszu, które nie zostały przekazane do dnia 31 grudnia danego roku na cele określone 6, są pozostawiane na rachunku Funduszu kwocie do 50 mln zł. 2. Środki przewyższające kwotę, której mowa 1, są niezwłocznie odprowadzane przez dysponenta Funduszu na rachunek Rządowego Funduszu Rozwoju Dróg.”.
-
-**Art. 6.** W ustawie dnia 2 marca 2020 r. szczególnych rozwiązaniach związanych zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. 2020 r. poz. 1842, późn. zm. ) 31zzcb 1 pkt 2 otrzymuje brzmienie: „2) wpłat na Rządowy Funduszu Rozwoju Dróg, których mowa 5 1 pkt 5 ustawy dnia 23 października 2018 r. Rządowym Funduszu Rozwoju Dróg (Dz. U. 2020 r. poz. 1430, 1747 i 2338).”.
-
-**Art. 7.** Środki wpłacone na rzecz Rządowego Funduszu Rozwoju Dróg budżetu państwa części budżetowych, których dysponentami są Minister Obrony Narodowej i minister właściwy do spraw transportu, przed dniem wejścia życie niniejszej ustawy, stają się wpłatami, których mowa 5 1 pkt 2 i 3 ustawy zmienianej 1 brzmieniu nadanym niniejszą ustawą. dzona przez Prezesa Rady Ministrów przed dniem wejścia życie niniejszej ustawy, stosuje się przepis 14 2 ustawy zmienianej 1 brzmieniu nadanym niniejszą ustawą.
-
-**Art. 9.** Do sporządzania listy, której mowa 24 5 ustawy zmienianej 1, przypadku gdy nie została ona zatwierdzona przez Prezesa Rady Ministrów przed dniem wejścia życie niniejszej ustawy, stosuje się przepis 24 6 pkt 2 ustawy zmienianej 1 brzmieniu nadanym niniejszą ustawą.
-
-**Art. 10.** Do zadań powiatowych oraz zadań gminnych, których mowa 4 1 pkt 1 ustawy zmienianej 1, których przewidywany czas realizacji jest nie dłuższy niż 12 miesięcy, na które przeznaczono środki planie finansowym, którym mowa 9 1 ustawy zmienianej 1, na rok 2020 lub 2021, stosuje się przepisy 28 3a i 8 ustawy zmienianej 1.
-
-**Art. 11.** Do umów, których mowa 39 4 ustawy zmienianej 1, zawartych przed dniem wejścia życie niniejszej ustawy, stosuje się przepis 39 5 ustawy zmienianej 1 brzmieniu nadanym niniejszą ustawą.
-
-**Art. 12.** Do postępowań dotyczących wpłat, których mowa 5 1 pkt 5 ustawy zmienianej 1, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
-
-**Art. 13.** Umowy i porozumienia zawarte na podstawie ustawy zmienianej 1 brzmieniu dotychczasowym zachowują ważność, wyjątkiem umów udzielenie dotacji, których mowa 5 1 pkt 2 i 3 ustawy zmienianej 1 brzmieniu dotychczasowym, które wygasają dniem wejścia życie niniejszej ustawy.
-
-**Art. 14.** Tablice, których mowa 38 1 ustawy zmienianej 1, umieszczone przed dniem wejścia życie niniejszej ustawy na drodze albo moście realizowanym ramach zadania objętego dofinansowaniem ze środków Funduszu Dróg Samorządowych, nie wymagają aktualizacji zakresie informacji, której mowa 38 3 pkt 1 ustawy zmienianej 1.
-
-**Art. 15.** Ustawa wchodzi życie po upływie 7 dni od dnia ogłoszenia.
 

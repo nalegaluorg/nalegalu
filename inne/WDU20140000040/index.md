@@ -8,12 +8,10 @@ pos: 40
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o rodzinnych ogrodach działkowych Doceniając pozytywną rolę ogrodnictwa działkowego, będącego dziedziną życia społecznego, przyczyniającą się do zaspakajania socjalnych, wypoczynkowych i rekreacyjnych potrzeb społeczeństwa, a zwłaszcza rodzin z dziećmi, emerytów, rencistów i niepełnosprawnych, poprzez kształtowanie warunków dla prowadzenia aktywnego i zdrowego trybu życia oraz ochrony środowiska i przyrody, uznaje się za konieczne zapewnienie dalszego istnienia i rozwoju rodzinnych ogrodów działkowych, jako stałych elementów infrastruktury gmin, które powinny być uwzględniane w procesie ich rozwoju dla dobra obecnego i przyszłych pokoleń.
-
-*USTAWA z dnia 13 grudnia 2013 r.*
+# Ustawa z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,11 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2013-12-13 |
 | Data wydania | 2014-01-09 |
+| Wejście w życie | 2014-01-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000040) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/40/text.pdf) |
 
-Art. 53–64. (pominięte)
+Doceniając pozytywną rolę ogrodnictwa działkowego, będącego dziedziną życia społecznego, przyczyniającą się do zaspakajania socjalnych, wypoczynkowych i rekreacyjnych potrzeb społeczeństwa, a zwłaszcza rodzin z dziećmi, emerytów, rencistów i niepełnosprawnych, poprzez kształtowanie warunków dla prowadzenia aktywnego i zdrowego trybu życia oraz ochrony środowiska i przyrody, uznaje się za konieczne zapewnienie dalszego istnienia i rozwoju rodzinnych ogrodów działkowych, jako stałych elementów infrastruktury gmin, które powinny być uwzględniane w procesie ich rozwoju dla dobra obecnego i przyszłych pokoleń.
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -35,7 +34,31 @@ Art. 53–64. (pominięte)
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
 
+- **1)** działkowcu – należy przez to rozumieć pełnoletnią osobę fizyczną uprawnioną do korzystania z działki w rodzinnym ogrodzie działkowym na podstawie prawa do działki;
+- **2)** działce – należy przez to rozumieć podstawową jednostkę przestrzenną rodzinnego ogrodu działkowego, której powierzchnia nie może przekraczać 500 m2, służącą zaspokajaniu potrzeb działkowca i jego rodziny w zakresie prowadzenia upraw ogrodniczych, wypoczynku i rekreacji;
+- **3)** terenie ogólnym – należy przez to rozumieć grunt w rodzinnym ogrodzie działkowym, który nie stanowi wyodrębnionych działek, przeznaczony do wspólnego używania przez osoby korzystające z działek;
+- **4)** prawie do działki – należy przez to rozumieć ustanowiony zgodnie z ustawą tytuł prawny uprawniający do korzystania z działki;
+- **5)** rodzinnym ogrodzie działkowym – należy przez to rozumieć wydzielony obszar lub obszary przeznaczone na cele rodzinnych ogrodów działkowych, składające się z działek i terenu ogólnego, służące do wspólnego korzystania przez działkowców, wyposażone w infrastrukturę ogrodową;
+- **6)** stowarzyszeniu ogrodowym – należy przez to rozumieć stowarzyszenie w rozumieniu przepisów ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2001 r. Nr 79, poz. 855, z późn. zm.) powołane wyłącznie w celu zakładania i prowadzenia rodzinnych ogrodów działkowych;
+- **7)** regulaminie rodzinnego ogrodu działkowego – należy przez to rozumieć obowiązujące na terenie rodzinnego ogrodu działkowego przepisy określające szczegółowe zasady zagospodarowania i korzystania z działki oraz funkcjonowania i zagospodarowania rodzinnego ogrodu działkowego, a także zasady korzystania z terenu ogólnego i infrastruktury ogrodowej;
+- **8)** osobie bliskiej – należy przez to rozumieć małżonka działkowca, jego zstępnych, wstępnych, rodzeństwo, dzieci rodzeństwa oraz osoby pozostające z działkowcem w stosunku przysposobienia;
+- **9)** infrastrukturze ogrodowej – należy przez to rozumieć budynki i budowle, ogrodzenia, aleje i drogi ogrodowe, place zabaw, świetlice, hydrofornie, sieci wodociągowe i energetyczne oraz inne urządzenia znajdujące się na terenie rodzinnego ogrodu działkowego przeznaczone do wspólnego używania przez osoby korzystające z działek oraz służące do zapewnienia prawidłowego funkcjonowania rodzinnego ogrodu działkowego, o ile nie wchodzą w skład przedsiębiorstwa;
+- **10)** opłatach ogrodowych – należy przez to rozumieć ponoszone przez działkowca opłaty wynikające z uczestnictwa w pokrywaniu kosztów funkcjonowania rodzinnego ogrodu działkowego, a w szczególności związane z zarządzaniem, utrzymaniem terenu ogólnego i infrastruktury ogrodowej;
+- **11)** likwidacji rodzinnego ogrodu działkowego lub jego części – należy przez to rozumieć zbycie lub wygaśnięcie praw przysługujących stowarzyszeniu ogrodowemu do nieruchomości zajmowanej przez rodzinny ogród działkowy lub jego część oraz wydanie tej nieruchomości przez stowarzyszenie ogrodowe;
+- **12)** podmiocie likwidującym – należy przez to rozumieć właściciela nieruchomości, na której zlokalizowany jest rodzinny ogród działkowy podlegający likwidacji lub podmiot, który nabywa własność tej nieruchomości wskutek wywłaszczenia.
+
 **Art. 3.** Podstawowymi celami rodzinnego ogrodu działkowego, zwanego dalej „ROD”, są:
+
+- **1)** zaspokajanie wypoczynkowych i rekreacyjnych potrzeb społeczeństwa poprzez umożliwianie prowadzenia upraw ogrodniczych;
+- **2)** poprawa warunków socjalnych członków społeczności lokalnych;
+- **3)** pomoc rodzinom i osobom w trudnej sytuacji życiowej oraz wyrównywanie ich szans;
+- **4)** integracja wielopokoleniowej rodziny, wychowanie dzieci w zdrowych warunkach oraz zachowanie aktywności i zdrowia emerytów i rencistów;
+- **5)** integracja społeczna osób w wieku emerytalnym oraz niepełnosprawnych;
+- **6)** przywracanie społeczności i przyrodzie terenów zdegradowanych;
+- **7)** ochrona środowiska i przyrody;
+- **8)** oddziaływanie na poprawę warunków ekologicznych w gminach;
+- **9)** kształtowanie zdrowego otoczenia człowieka;
+- **10)** tworzenie warunków do udostępniania terenów zielonych dla społeczności lokalnych.
 
 **Art. 4.** ROD są urządzeniami użyteczności publicznej, służącymi zaspokajaniu wypoczynkowych, rekreacyjnych i innych potrzeb socjalnych członków społeczności lokalnych poprzez zapewnienie im powszechnego dostępu do ROD oraz działek dających możliwość prowadzenia upraw ogrodniczych na własne potrzeby, a także podniesienie standardów ekologicznych otoczenia.
 
@@ -59,9 +82,9 @@ Art. 53–64. (pominięte)
 
 3. Do utworzenia ROD na gruntach stanowiących własność powiatu lub województwa przepisy ust. 1 i 2 stosuje się odpowiednio.
 
-4. W odniesieniu do gruntów stanowiących własność Skarbu Państwa, z wyłączeniem nieruchomości, którymi na mocy przepisów odrębnych gospodaruje inny organ, kompetencję, o której mowa w ust. 1, wykonuje właściwy starosta w drodze zarządzenia, po uzyskaniu zgody wojewody. Przepis ust. 2 stosuje się odpowiednio.
+4. W odniesieniu do gruntów stanowiących własność Skarbu Państwa, z wyłączeniem nieruchomości, którymi na mocy przepisów odrębnych gospodaruje minister właściwy do spraw Skarbu Państwa, kompetencję, o której mowa w ust. 1, wykonuje właściwy starosta w drodze zarządzenia, po uzyskaniu zgody wojewody. Przepis ust. 2 stosuje się odpowiednio.
 
-**Art. 9.** Grunty stanowiące własność Skarbu Państwa lub jednostek samorządu terytorialnego mogą być w drodze umowy sprzedawane, oddawane w nieodpłatne lub odpłatne użytkowanie na czas nieoznaczony lub użytkowanie wieczyste stowarzyszeniom ogrodowym z przeznaczeniem na zakładanie i prowadzenie ROD – w trybie określonym w ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2020 r. poz. 1990 oraz z 2021 r. poz. 11, 234 i 815).
+**Art. 9.** Grunty stanowiące własność Skarbu Państwa lub jednostek samorządu terytorialnego mogą być w drodze umowy sprzedawane, oddawane w nieodpłatne lub odpłatne użytkowanie na czas nieoznaczony lub użytkowanie wieczyste stowarzyszeniom ogrodowym z przeznaczeniem na zakładanie i prowadzenie ROD – w trybie określonym w ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2010 r. Nr 102, poz. 651, z późn. zm.).
 
 **Art. 10.**
 
@@ -77,33 +100,17 @@ Art. 53–64. (pominięte)
 
 2. Podział gruntu na teren ogólny i działki, budowa infrastruktury ogrodowej oraz zagospodarowanie ROD należy do stowarzyszenia ogrodowego.
 
-3. Infrastruktura ogrodowa stanowi własność stowarzyszenia ogrodowego, z zastrzeżeniem art. 49 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2020 r. poz. 1740 i 2320).
+3. Infrastruktura ogrodowa stanowi własność stowarzyszenia ogrodowego, z zastrzeżeniem art. 49 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.).
 
 **Art. 12.** Na terenie działki obowiązuje zakaz zamieszkiwania oraz prowadzenia działalności gospodarczej lub innej działalności zarobkowej.
 
 **Art. 13.**
 
-1. Na terenie działki nie może znajdować się:
+1. Na terenie działki nie może znajdować się altana, której powierzchnia zabudowy przekracza powierzchnię określoną w art. 29 ust. 1 pkt 4 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409 oraz z 2014 r. poz. 40).
 
-- **1)** altana działkowa niespełniająca wymagań określonych w art. 2 pkt 9a;
-- **2)** obiekt gospodarczy o powierzchni zabudowy przekraczającej 35 m oraz o wysokości przekraczającej 5 m przy dachach stromych i 4 m przy dachach płaskich.
-
-2. W przypadku powzięcia informacji, że na terenie działki wybudowano, nadbudowano lub rozbudowano altanę działkową lub inny obiekt z naruszeniem przepisów prawa, stowarzyszenie ogrodowe zgłasza naruszenie do właściwego organu administracji publicznej.
+2. W przypadku powzięcia informacji, że na terenie działki wybudowano, nadbudowano lub rozbudowano altanę lub inny obiekt z naruszeniem przepisów prawa, stowarzyszenie ogrodowe zgłasza naruszenie do właściwego organu administracji publicznej.
 
 3. Naruszenie stwierdzone przez właściwy organ administracji publicznej stanowi podstawę do rozwiązania umowy w trybie określonym w art. 36 ust. 3.
-
-**Art. 13a.**
-
-1. Działkowiec może wystąpić do właściwego organu nadzoru budowlanego z wnioskiem o wydanie zaświadczenia potwierdzającego zgodność wybudowanej altany działkowej z wymaganiami określonymi w art. 2 pkt 9a.
-
-2. Do wniosku, o którym mowa w ust. 1, dołącza się:
-
-- **1)** aktualny na dzień złożenia wniosku wypis z ewidencji działek, o której mowa w art. 51;
-- **2)** oświadczenie działkowca o powierzchni zabudowy altany działkowej znajdującej się na jego działce, zawierające również wskazanie powierzchni tarasów, werand lub ganków.
-
-3. Za wydanie zaświadczenia, o którym mowa w ust. 1, nie pobiera się opłaty skarbowej.
-
-**Art. 13b.** Uproszczonego postępowania legalizacyjnego, o którym mowa w art. 49f ust. 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2020 r. poz. 1333, z późn. zm. ), nie stosuje się do obiektów budowlanych, o których mowa w art. 3 pkt 1 tej ustawy, zlokalizowanych na terenie działki.
 
 **Art. 14.**
 
@@ -113,7 +120,7 @@ Art. 53–64. (pominięte)
 
 3. Stowarzyszenie ogrodowe sprawuje nadzór nad przestrzeganiem regulaminu.
 
-4. Działkowcowi przysługuje prawo do wytoczenia powództwa przeciwko stowarzyszeniu ogrodowemu o stwierdzenie nieważności regulaminu lub jego zmian w razie ich sprzeczności z ustawą. Przepisu art. 189 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2020 r. poz. 1575, 1578 i 2320 oraz z 2021 r. poz. 11) nie stosuje się.
+4. Działkowcowi przysługuje prawo do wytoczenia powództwa przeciwko stowarzyszeniu ogrodowemu o stwierdzenie nieważności regulaminu lub jego zmian w razie ich sprzeczności z ustawą. Przepisu art. 189 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.) nie stosuje się.
 
 5. Wytoczenie powództwa, o którym mowa w ust. 4, nie zawiesza obowiązywania zaskarżonego regulaminu lub jego zmian. Prawo do wytoczenia powództwa wygasa z upływem 3 miesięcy od dnia otrzymania wiadomości o uchwaleniu regulaminu lub jego zmian, jednakże nie później niż z upływem 6 miesięcy od dnia uchwalenia regulaminu lub jego zmian.
 
@@ -129,7 +136,7 @@ Art. 53–64. (pominięte)
 
 **Art. 16.**
 
-1. Usunięcie drzew lub krzewów z terenu ogólnego lub działki następuje na zasadach określonych w przepisach ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2020 r. poz. 55, 471 i 1378).
+1. Usunięcie drzew lub krzewów z terenu ogólnego lub działki następuje na zasadach określonych w przepisach ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2013 r. poz. 627, 628 i 842).
 
 2. Zezwolenie na usunięcie drzew lub krzewów znajdujących się w ROD wydawane jest na wniosek:
 
@@ -138,7 +145,7 @@ Art. 53–64. (pominięte)
 
 **Art. 17.**
 
-1. Stowarzyszenie ogrodowe, prowadzące ROD na obszarze danej gminy może otrzymywać dotację celową z budżetu tej gminy, z zastosowaniem przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305) w zakresie udzielania dotacji celowych dla podmiotów niezaliczanych do sektora finansów publicznych i niedziałających w celu osiągnięcia zysku.
+1. Stowarzyszenie ogrodowe, prowadzące ROD na obszarze danej gminy może otrzymywać dotację celową z budżetu tej gminy, z zastosowaniem przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, 938 i 1646) w zakresie udzielania dotacji celowych dla podmiotów niezaliczanych do sektora finansów publicznych i niedziałających w celu osiągnięcia zysku.
 
 2. Dotacja, o której mowa w ust. 1, ma służyć realizacji celu publicznego, związanego z zadaniem gminy, o którym mowa w art. 6 ust. 1, i może być przeznaczona w szczególności na budowę lub modernizację infrastruktury ogrodowej, jeżeli wpłynie to na poprawę warunków do korzystania z ROD przez działkowców, lub zwiększy dostępność społeczności lokalnej do tego ROD.
 
@@ -178,6 +185,9 @@ Art. 53–64. (pominięte)
 
 **Art. 21.** Podmiot likwidujący obowiązany jest do odtworzenia ROD, polegającego na:
 
+- **1)** zawarciu ze stowarzyszeniem ogrodowym umowy dającej stowarzyszeniu ogrodowemu tytuł prawny do nieruchomości nie mniejszej od powierzchni likwidowanego ROD, w miejscu odpowiednim do potrzeb i funkcjonowania nowego ROD, odpowiadający tytułowi prawnemu, który posiadało ono do nieruchomości zajmowanej przez likwidowany ROD;
+- **2)** założeniu nowego ROD i odtworzeniu urządzeń i budynków odpowiadających rodzajem urządzeniom i budynkom likwidowanego ROD.
+
 **Art. 22.**
 
 1. Podmiot likwidujący obowiązany jest wypłacić:
@@ -205,7 +215,7 @@ Art. 53–64. (pominięte)
 
 **Art. 25.**
 
-1. W przypadku likwidacji ROD lub jego części w związku z realizacją roszczenia osoby trzeciej, nie stosuje się przepisu art. 21, jeżeli Skarb Państwa lub jednostka samorządu terytorialnego występowały jako właściciel nieruchomości w dniu nabycia do tej nieruchomości tytułu prawnego przez stowarzyszenie ogrodowe lub w dniu, w którym ROD stał się ogrodem stałym w rozumieniu ustawy z dnia 6 maja 1981 r. o pracowniczych ogrodach działkowych (Dz. U. z 1996 r. poz. 390, z późn. zm. ).
+1. W przypadku likwidacji ROD lub jego części w związku z realizacją roszczenia osoby trzeciej, nie stosuje się przepisu art. 21, jeżeli Skarb Państwa lub jednostka samorządu terytorialnego występowały jako właściciel nieruchomości w dniu nabycia do tej nieruchomości tytułu prawnego przez stowarzyszenie ogrodowe lub w dniu, w którym ROD stał się ogrodem stałym w rozumieniu ustawy z dnia 6 maja 1981 r. o pracowniczych ogrodach działkowych (Dz. U. z 1996 r. Nr 85, poz. 390, późn. zm.).
 
 2. W przypadku likwidacji ROD, o której mowa w ust. 1, przepis art. 22 ust. 1 stosuje się odpowiednio. Obowiązanym do wypłaty odszkodowań jest podmiot, który występował jako właściciel nieruchomości w dniu, o którym mowa w ust. 1. Ustalenie odszkodowań następuje w drodze decyzji.
 
@@ -294,6 +304,11 @@ Art. 53–64. (pominięte)
 
 **Art. 35.** Prawo do działki wygasa z chwilą:
 
+- **1)** rozwiązania umowy za zgodą obu stron albo upływu terminu wypowiedzenia;
+- **2)** śmierci działkowca, o ile ustawa nie stanowi inaczej;
+- **3)** likwidacji ROD lub jego części, na której znajduje się działka;
+- **4)** w innych przypadkach przewidzianych w ustawie.
+
 **Art. 36.**
 
 1. Wypowiedzenia dokonuje się na piśmie pod rygorem nieważności. Wypowiedzenie złożone przez stowarzyszenie ogrodowe określa przyczynę uzasadniającą wypowiedzenie.
@@ -302,7 +317,7 @@ Art. 53–64. (pominięte)
 
 3. Stowarzyszenie ogrodowe może wypowiedzieć umowę, nie później niż na miesiąc naprzód, na koniec miesiąca kalendarzowego, jeżeli działkowiec:
 
-- **1)** pomimo pisemnego upomnienia nadal korzysta z działki lub altany działkowej w sposób sprzeczny z przepisami ustawy lub regulaminem, niszczy infrastrukturę ogrodową albo wykracza w sposób rażący lub uporczywy przeciwko porządkowi ogrodowemu, czyniąc uciążliwym korzystanie z innych działek lub
+- **1)** pomimo pisemnego upomnienia nadal korzysta z działki lub altany w sposób sprzeczny z przepisami ustawy lub regulaminem, niszczy infrastrukturę ogrodową albo wykracza w sposób rażący lub uporczywy przeciwko porządkowi ogrodowemu, czyniąc uciążliwym korzystanie z innych działek lub
 - **2)** jest w zwłoce z zapłatą opłat ogrodowych lub opłat związanych z utrzymaniem działki na rzecz stowarzyszenia ogrodowego za korzystanie z działki co najmniej przez 6 miesięcy pomimo uprzedzenia go na piśmie o zamiarze wypowiedzenia umowy i wyznaczenia dodatkowego, miesięcznego terminu do zapłaty zaległych i bieżących należności, lub
 - **3)** oddał działkę lub jej część osobie trzeciej do płatnego lub bezpłatnego używania.
 
@@ -352,9 +367,7 @@ Art. 53–64. (pominięte)
 
 1. W razie wygaśnięcia prawa do działki, działkowcowi przysługuje wynagrodzenie za znajdujące się na działce nasadzenia, urządzenia i obiekty stanowiące jego własność. Wynagrodzenie nie przysługuje za nasadzenia, urządzenia i obiekty wykonane niezgodnie z prawem.
 
-2. W razie przeniesienia praw do działki warunki zapłaty i wysokość wynagrodzenia, o którym mowa w ust. 1, określa umowa, o której mowa w art. 41 ust.
-
-1.
+2. W razie przeniesienia praw do działki warunki zapłaty i wysokość wynagrodzenia, o którym mowa w ust. 1, określa umowa, o której mowa w art. 41 ust. 1.
 
 3. W razie rozwiązania umowy w przypadkach określonych w art. 36 ust. 3, warunki zapłaty i wysokość wynagrodzenia, o którym mowa w ust. 1, ustala się w drodze porozumienia pomiędzy stowarzyszeniem ogrodowym i działkowcem.
 
@@ -374,7 +387,22 @@ Art. 53–64. (pominięte)
 
 **Art. 46.** Do zadań stowarzyszeń ogrodowych należy w szczególności:
 
+- **1)** propagowanie idei ogrodnictwa działkowego w społeczeństwie, a szczególnie wszechstronnego znaczenia ROD dla rodzin działkowców i mieszkańców miast oraz racjonalnego wykorzystania gruntów miejskich;
+- **2)** działanie na rzecz wszechstronnego rozwoju ogrodnictwa działkowego;
+- **3)** zakładanie i zagospodarowywanie ROD;
+- **4)** ustanawianie praw do działek;
+- **5)** wszechstronne działanie na rzecz ochrony przyrody i środowiska;
+- **6)** organizowanie i udzielanie pomocy oraz poradnictwa w zagospodarowaniu działek i prowadzeniu upraw ogrodniczych;
+- **7)** propagowanie wiedzy ogrodniczej, zwłaszcza poprzez szkolenia i prowadzenie działalności wydawniczej;
+- **8)** prowadzenie działalności społecznej, wychowawczej, wypoczynkowej, rekreacyjnej i innej na rzecz osób korzystających z działek, ich rodzin oraz społeczności lokalnych.
+
 **Art. 47.** Statut stowarzyszenia ogrodowego określa w szczególności:
+
+- **1)** właściwy organ do dokonywania czynności prawnych związanych z ustanawianiem i wygaśnięciem prawa do działki;
+- **2)** tryb uchwalania regulaminu oraz dokonywania w nim zmian;
+- **3)** zasady ustalania i uiszczania opłat ogrodowych;
+- **4)** zasady oddawania działki w bezpłatne używanie instytucjom określonym w art. 27 ust. 4;
+- **5)** sposób prowadzenia ewidencji działek.
 
 **Art. 48.** Stowarzyszenie ogrodowe nie może odmówić przyjęcia w poczet członków działkowca mającego prawo do działki w ROD prowadzonym przez to stowarzyszenie, jeżeli działkowiec odpowiada wymaganiom statutu.
 
@@ -406,19 +434,110 @@ Art. 53–64. (pominięte)
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
 
+**Art. 53.** W ustawie z dnia 6 maja 1981 r. o pracowniczych ogrodach działkowych (Dz. U. z 1996 r. Nr 85, poz. 390, późn. zm.) w art. 11 ust. 3 otrzymuje brzmienie: „ 3. W braku decyzji, o której mowa w ust. 2, czasowy rodzinny ogród działkowy staje się ogrodem stałym, a nieruchomość zajęta przez ten ogród przechodzi w nieodpłatne użytkowanie w rozumieniu ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.) na rzecz stowarzyszenia ogrodowego prowadzącego rodzinny ogród działkowy. ” .
+
+**Art. 54.** W ustawie z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2013 r. poz. 1381) wprowadza się następujące zmiany:
+
+- **1)** w art. 12: w ust. 1 dodaje się pkt 13 w brzmieniu: „
+    - **a)**
+
+- **13)** grunty położone na terenie rodzinnego ogrodu działkowego, z wyjątkiem będących w posiadaniu podmiotów innych niż działkowcy lub stowarzyszenia ogrodowe w rozumieniu ustawy z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych (Dz. U. z 2014 r. poz. 40). ” , w ust. 2 uchyla się pkt 6;
+    - **b)**
+
+- **2)** w art. 13d ust. 1 otrzymuje brzmienie: „
+
+1. Zwolnienia i ulgi podatkowe określone w art. 12 ust. 1 pkt 1 i 2 oraz pkt 8–13, a także w art. 13b stosuje się z urzędu, a pozostałe zwolnienia i ulgi podatkowe na podstawie decyzji wydanej na wniosek podatnika. ” .
+
+**Art. 55.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2010 r. Nr 95, poz. 613, z późn. zm.) w art. 7:
+
+- **1)** w ust. 1 pkt 12 otrzymuje brzmienie: „
+- **12)** położone na terenie rodzinnego ogrodu działkowego: grunty i budynki nieprzekraczające norm powierzchni ustalonych w przepisach prawa budowlanego dla altan i obiektów gospodarczych oraz budynki stanowiące infrastrukturę ogrodową, w rozumieniu ustawy z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych (Dz. U. z 2014 r. poz. 40), z wyjątkiem zajętych na prowadzenie działalności gospodarczej; ” ;
+- **2)** w ust. 2 uchyla się pkt 6.
+
+**Art. 56.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2011 r. Nr 74, poz. 397, z późn. zm.) w art. 40 w ust. 2 pkt 8 otrzymuje brzmienie: „
+
+- **8)** ustawy z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych (Dz. U. z 2014 r. poz. 40). ” .
+
+**Art. 57.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409) w art. 29 w ust. 1 pkt 4 otrzymuje brzmienie: „
+
+- **4)** altan i obiektów gospodarczych na działkach w rodzinnych ogrodach działkowych o powierzchni zabudowy do 35 m2 oraz wysokości do 5 m przy dachach stromych i do 4 m przy dachach płaskich; ” .
+
+**Art. 58.** W ustawie z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2013 r. poz. 1205) w art. 2 w ust. 1 pkt 6 otrzymuje brzmienie: „
+
+- **6)** rodzinnych ogrodów działkowych i ogrodów botanicznych; ” .
+
+**Art. 59.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2010 r. Nr 102, poz. 651, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 37 ust. 4a otrzymuje brzmienie: „
+
+4a. Umowy użytkowania, najmu lub dzierżawy na czas oznaczony dłuższy niż 3 lata lub na czas nieoznaczony zawiera się w drodze bezprzetargowej, jeżeli użytkownikiem, najemcą lub dzierżawcą nieruchomości jest organizacja pożytku publicznego lub użytkownikiem nieruchomości jest stowarzyszenie ogrodowe w rozumieniu ustawy z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych (Dz. U. z 2014 r. poz. 40). ” ;
+
+- **2)** w art. 68 w ust. 1 pkt 3 otrzymuje brzmienie: „
+- **3)** stowarzyszeniom ogrodowym w rozumieniu ustawy z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych z przeznaczeniem na rodzinne ogrody działkowe; ” .
+
+**Art. 60.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232 i 1238) w art. 294 po pkt 5 dodaje się pkt 5a w brzmieniu: „
+
+- **5a)** na potrzeby nawadniania gruntów rodzinnych ogrodów działkowych; ” .
+
+**Art. 61.** W ustawie z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. z 2013 r. poz. 687) wprowadza się następujące zmiany:
+
+- **1)** art. 11j otrzymuje brzmienie: „ Do nieruchomości stanowiących rodzinne ogrody działkowe objętych decyzją o zezwoleniu na realizację inwestycji drogowej nie stosuje się przepisów art. 18–24 ustawy z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych (Dz. U. z 2014 r. poz. 40). ” ;
+- **2)** w art. 18: ust. 1g otrzymuje brzmienie: „
+    - **a)**
+
+1g. W przypadku gdy decyzja o zezwoleniu na realizację inwestycji drogowej dotyczy rodzinnych ogrodów działkowych ustanowionych zgodnie z ustawą z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych, podmiot, w którego interesie nastąpi likwidacja rodzinnego ogrodu działkowego lub jego części, zobowiązany jest:
+
+- **1)** wypłacić działkowcom – odszkodowanie za stanowiące ich własność nasadzenia, urządzenia i obiekty znajdujące się na działkach;
+- **2)** wypłacić stowarzyszeniu ogrodowemu – odszkodowanie za stanowiące jego własność urządzenia, budynki i budowle rodzinnego ogrodu działkowego przeznaczone do wspólnego korzystania przez użytkujących działki i służące do zapewnienia funkcjonowania ogrodu;
+- **3)** zapewnić grunty zastępcze na odtworzenie rodzinnego ogrodu działkowego. ” , po ust. 1g dodaje się ust. 1h w brzmieniu: „
+    - **b)**
+
+1h. Obowiązki wynikające z ust. 1g ustalane są w decyzji wydanej przez organ, o którym mowa w art. 12 ust. 4a. ” .
+
+**Art. 62.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2010 r. Nr 90, poz. 594, z późn. zm.) w art. 104 ust. 1 otrzymuje brzmienie: „ 1. Nie mają obowiązku uiszczania opłat organizacje pożytku publicznego działające na podstawie przepisów o działalności pożytku publicznego i o wolontariacie, z wyjątkiem spraw dotyczących prowadzonej przez te organizacje działalności gospodarczej, stowarzyszenia ogrodowe w rozumieniu ustawy z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych (Dz. U. z 2014 r. poz. 40), a także organizacje pozarządowe oraz podmioty wymienione w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2010 r. Nr 234, poz. 1536, z późn. zm.) w sprawach dotyczących realizacji zleconego zadania publicznego na podstawie przepisów o działalności pożytku publicznego i o wolontariacie. ” .
+
+**Art. 63.** W ustawie z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych (Dz. U. Nr 143, poz. 963 oraz z 2012 r. poz. 951) wprowadza się następujące zmiany:
+
+- **1)** art. 18 otrzymuje brzmienie: „ Do nieruchomości stanowiących rodzinne ogrody działkowe objętych decyzją o pozwoleniu na realizację inwestycji nie stosuje się przepisów art. 18–24 ustawy z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych (Dz. U. z 2014 r. poz. 40). ” ;
+- **2)** w art. 21 ust. 10 otrzymuje brzmienie: „
+
+10. W przypadku, gdy decyzja o pozwoleniu na realizację inwestycji dotyczy rodzinnych ogrodów działkowych ustanowionych zgodnie z ustawą z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych, podmiot, w którego interesie nastąpi likwidacja rodzinnego ogrodu działkowego lub jego części, zobowiązany jest:
+
+- **1)** wypłacić działkowcom – odszkodowanie za stanowiące ich własność nasadzenia, urządzenia i obiekty znajdujące się na działkach;
+- **2)** wypłacić stowarzyszeniu ogrodowemu – odszkodowanie za stanowiące jego własność urządzenia, budynki i budowle rodzinnego ogrodu działkowego przeznaczone do wspólnego korzystania przez użytkujących działki i służące do zapewnienia funkcjonowania ogrodu;
+- **3)** zapewnić nieruchomości zamienne na odtworzenie rodzinnego ogrodu działkowego. ” .
+
+**Art. 64.** W ustawie z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących (Dz. U. Nr 135, poz. 789 oraz z 2012 r. poz. 951) wprowadza się następujące zmiany:
+
+- **1)** art. 21 otrzymuje brzmienie: „ Do nieruchomości stanowiących rodzinne ogrody działkowe objętych decyzją o ustaleniu inwestycji w zakresie budowy obiektu energetyki jądrowej nie stosuje się przepisów art. 18–24 ustawy z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych (Dz. U. z 2014 r. poz. 40). ” ;
+- **2)** w art. 27: ust. 10 otrzymuje brzmienie: „
+    - **a)**
+
+10. W przypadku gdy decyzja o ustaleniu lokalizacji inwestycji w zakresie budowy obiektu energetyki jądrowej dotyczy rodzinnych ogrodów działkowych ustanowionych zgodnie z ustawą z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych, inwestor, w którego interesie nastąpi likwidacja rodzinnego ogrodu działkowego lub jego części, jest zobowiązany:
+
+- **1)** wypłacić działkowcom – odszkodowanie za stanowiące ich własność nasadzenia, urządzenia i obiekty znajdujące się na działkach;
+- **2)** wypłacić stowarzyszeniu ogrodowemu – odszkodowanie za stanowiące jego własność urządzenia, budynki i budowle rodzinnego ogrodu działkowego przeznaczone do wspólnego korzystania przez użytkujących działki i służące do zapewnienia funkcjonowania ogrodu;
+- **3)** zapewnić nieruchomości zamienne na odtworzenie rodzinnego ogrodu działkowego. ” , po ust. 10 dodaje się ust. 10a w brzmieniu: „
+    - **b)**
+
+10a. Do obowiązków wynikających z ust. 10, przepis ust. 2 stosuje się odpowiednio. ” .
+
 #### Rozdział 7 Przepisy przejściowe, dostosowujące i końcowe
 
 **Art. 65.**
 
 1. Z dniem wejścia w życie niniejszej ustawy:
 
-- **1)** Polski Związek Działkowców, o którym mowa w przepisach ustawy z dnia 8 lipca 2005 r. o rodzinnych ogrodach działkowych (Dz. U. poz. 1419, z 2006 r. poz. 1600, z 2008 r. poz. 1237 i 1475 oraz z 2012 r. poz. 837), staje się stowarzyszeniem ogrodowym w rozumieniu niniejszej ustawy i zachowuje osobowość prawną;
+- **1)** Polski Związek Działkowców, o którym mowa w przepisach ustawy z dnia 8 lipca 2005 r. o rodzinnych ogrodach działkowych (Dz. U. Nr 169, poz. 1419, z późn. zm.), staje się stowarzyszeniem ogrodowym w rozumieniu niniejszej ustawy i zachowuje osobowość prawną;
 - **2)** jednostki organizacyjne i organy samorządu Polskiego Związku Działkowców, o którym mowa w przepisach ustawy z dnia 8 lipca 2005 r. o rodzinnych ogrodach działkowych, stają się jednostkami organizacyjnymi i organami stowarzyszenia ogrodowego, o którym mowa w pkt 1, a członkowie tych organów zachowują mandaty;
 - **3)** prawa i obowiązki, w tym zobowiązania i należności, Polskiego Związku Działkowców stają się prawami i obowiązkami oraz zobowiązaniami i należnościami stowarzyszenia ogrodowego, o którym mowa w pkt 1.
 
 2. Do czasu uchwalenia statutu stowarzyszenia ogrodowego, o którym mowa w ust. 1 pkt 1, stowarzyszenie to działa na podstawie statutu Polskiego Związku Działkowców, w zakresie w jakim jego postanowienia nie pozostają w sprzeczności z powszechnie obowiązującymi przepisami prawa.
 
 **Art. 66.** Z dniem wejścia w życie niniejszej ustawy:
+
+- **1)** rodzinne ogrody działkowe, w rozumieniu ustawy z dnia 8 lipca 2005 r. o rodzinnych ogrodach działkowych, stają się rodzinnymi ogrodami działkowymi w rozumieniu niniejszej ustawy;
+- **2)** prawo używania działki i pobierania z niej pożytków (użytkowanie działki) ustanowione na podstawie art. 14 ust. 1 ustawy z dnia 8 lipca 2005 r. o rodzinnych ogrodach działkowych, przekształca się w prawo do działki w rozumieniu niniejszej ustawy, ustanawiane w drodze umowy dzierżawy działkowej.
 
 **Art. 67.**
 
@@ -466,9 +585,7 @@ Art. 53–64. (pominięte)
 
 1. Do założenia stowarzyszenia ogrodowego, powołanego na podstawie uchwały o wyodrębnieniu ROD, stosuje się przepisy ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach.
 
-2. Występując z wnioskiem o rejestrację stowarzyszenia ogrodowego powołanego na podstawie uchwały o wyodrębnieniu ROD, komitet założycielski, poza wymogami przewidzianymi przepisami ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach, obowiązany jest przedłożyć uchwałę o wyodrębnieniu ROD oraz wykazać spełnienie wymogów, o których mowa w art. 69 ust. 2 i art. 70 ust. 2 lub art.
-
-72.
+2. Występując z wnioskiem o rejestrację stowarzyszenia ogrodowego powołanego na podstawie uchwały o wyodrębnieniu ROD, komitet założycielski, poza wymogami przewidzianymi przepisami ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach, obowiązany jest przedłożyć uchwałę o wyodrębnieniu ROD oraz wykazać spełnienie wymogów, o których mowa w art. 69 ust. 2 i art. 70 ust. 2 lub art. 72.
 
 3. Z dniem nabycia osobowości prawnej przez stowarzyszenie ogrodowe, o którym mowa w ust. 1, staje się ono następcą prawnym stowarzyszenia ogrodowego, o którym mowa w art. 65 ust. 1 pkt 1, w zakresie praw i obowiązków terenowej jednostki organizacyjnej, której dotyczyła uchwała o wyodrębnieniu ROD. Następstwo prawne obejmuje w szczególności prawa do nieruchomości zajmowanych przez rodzinny ogród działkowy, własność infrastruktury ogrodowej oraz środki na rachunkach bankowych prowadzonych dla terenowej jednostki organizacyjnej.
 
@@ -526,7 +643,7 @@ Art. 53–64. (pominięte)
 
 2. Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, w zakresie zwrotu nieruchomości zajętych przez rodzinny ogród działkowy stosuje się przepisy art. 26.
 
-**Art. 79.** Traci moc ustawa z dnia 8 lipca 2005 r. o rodzinnych ogrodach działkowych (Dz. U. poz. 1419, z 2006 r. poz. 1600, z 2008 r. poz. 1237 i 1475 oraz z 2012 r. poz. 837).
+**Art. 79.** Traci moc ustawa z dnia 8 lipca 2005 r. o rodzinnych ogrodach działkowych (Dz. U. Nr 169, poz. 1419, z późn. zm.).
 
 **Art. 80.** Ustawa wchodzi w życie z dniem 19 stycznia 2014 r.
 

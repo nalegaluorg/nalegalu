@@ -8,12 +8,10 @@ pos: 1767
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie niektórych ustaw związku ze wspieraniem innowacyjności
-
-*USTAWA z dnia 25 września 2015 r.*
+# Ustawa z dnia 25 września 2015 r. o zmianie niektórych ustaw w związku ze wspieraniem innowacyjności
 
 | Pole | Wartość |
 |---|---|
@@ -24,63 +22,268 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-25 |
 | Data wydania | 2015-11-02 |
+| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001767) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1767/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 26f.** Podatnicy korzystający z odliczenia, o którym mowa art. 26e, są obowiązani wykazać zeznaniu koszty kwalifikowane podlegające odliczeniu.
+- **1)** w art. 5a w pkt 37 kropkę zastępuje się średnikiem i dodaje się pkt 38–40 w brzmieniu: „
+- **38)** działalności badawczo-rozwojowej – oznacza to działalność twórczą obejmującą badania naukowe lub prace rozwojowe, podejmowaną w sposób systematyczny w celu zwiększenia zasobów wiedzy oraz wykorzystania zasobów wiedzy do tworzenia nowych zastosowań;
+- **39)** badaniach naukowych – oznacza to: badania podstawowe – oryginalne prace badawcze, eksperymentalne lub teoretyczne podejmowane przede wszystkim w celu zdobywania nowej wiedzy o podstawach zjawisk i obserwowalnych faktów bez nastawienia na bezpośrednie zastosowanie komercyjne, badania stosowane – prace badawcze podejmowane w celu zdobycia nowej wiedzy, zorientowane przede wszystkim na zastosowanie w praktyce, badania przemysłowe – badania mające na celu zdobycie nowej wiedzy oraz umiejętności w celu opracowywania nowych produktów, procesów i usług lub wprowadzania znaczących ulepszeń do istniejących produktów, procesów i usług; badania te uwzględniają tworzenie elementów składowych systemów złożonych, budowę prototypów w środowisku laboratoryjnym lub w środowisku symulującym istniejące systemy, szczególnie do oceny przydatności danych rodzajów technologii, a także budowę niezbędnych w tych badaniach linii pilotażowych, w tym do uzyskania dowodu w przypadku technologii generycznych;
+    - **a)**
+    - **b)**
+    - **c)**
 
-**Art. 26g.** Odliczenie, o którym mowa art. 26e, podatnik wykazuje zeznaniu, którym rozlicza przychody ze źródła określonego art. 10 ust. 1 pkt 3.”.
+- **40)** pracach rozwojowych – oznacza to nabywanie, łączenie, kształtowanie i wykorzystywanie dostępnej aktualnie wiedzy i umiejętności z dziedziny nauki, technologii i działalności gospodarczej oraz innej wiedzy i umiejętności do planowania produkcji oraz tworzenia i projektowania nowych, zmienionych lub ulepszonych produktów, procesów i usług, z wyłączeniem prac obejmujących rutynowe i okresowe zmiany wprowadzane do produktów, linii produkcyjnych, procesów wytwórczych, istniejących usług oraz innych operacji w toku, nawet jeżeli takie zmiany mają charakter ulepszeń, w szczególności: opracowywanie prototypów i projektów pilotażowych oraz demonstracje, testowanie i walidację nowych lub ulepszonych produktów, procesów lub usług w otoczeniu stanowiącym model warunków rzeczywistego funkcjonowania, których głównym celem jest dalsze udoskonalenie techniczne produktów, procesów lub usług, których ostateczny kształt nie został określony, opracowywanie prototypów i projektów pilotażowych, które można wykorzystać do celów komercyjnych, w przypadku gdy prototyp lub projekt pilotażowy stanowi produkt końcowy gotowy do wykorzystania komercyjnego, a jego produkcja wyłącznie do celów demonstracyjnych i walidacyjnych jest zbyt kosztowna. ” ;
+    - **a)**
+    - **b)**
 
-**Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm. ) wprowadza się następujące zmiany:
+- **2)** w art. 6 ust. 2 otrzymuje brzmienie: „
 
-**Art. 18e.** Podatnicy korzystający z odliczenia, o którym mowa art. 18d, są obowiązani wykazać zeznaniu koszty kwalifikowane podlegające odliczeniu.”.
+2. Małżonkowie podlegający obowiązkowi podatkowemu, o którym mowa w art. 3 ust. 1, między którymi istnieje przez cały rok podatkowy wspólność majątkowa, pozostający w związku małżeńskim przez cały rok podatkowy mogą być, z zastrzeżeniem ust. 8, na wspólny wniosek wyrażony w zeznaniu podatkowym, opodatkowani łącznie od sumy swoich dochodów określonych zgodnie z art. 9 ust. 1 i 1a, po uprzednim odliczeniu, odrębnie przez każdego z małżonków, kwot określonych w art. 26 i art. 26e; w tym przypadku podatek określa się na imię obojga małżonków w podwójnej wysokości podatku obliczonego od połowy łącznych dochodów małżonków. ” ;
 
-**Art. 3.** W ustawie z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule zakresie sztuki (Dz. U. z 2014 r. poz. 1852 oraz z 2015 r. poz. 249) art. 21a otrzymuje brzmienie: Polskiej lub za granicą i podczas pracy innym państwie przez co najmniej pięć lat kierowała samodzielnie zespołami badawczymi oraz posiada znaczący dorobek i osiągnięcia naukowe, zatrudniona na stanowisku profesora nadzwyczajnego lub profesora wizytującego, nabywa uprawnienia równoważne uprawnieniom wynikającym z posiadania stopnia doktora habilitowanego na podstawie decyzji:
+- **3)** w art. 24a po ust. 1a dodaje się ust. 1b w brzmieniu: „
 
-**Art. 4.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2015 r. poz. 149, z późn. zm. ) art. 88c ust. 8 pkt 1 otrzymuje brzmienie: „1) okresie 3 lat poprzedzających złożenie wniosku o wydanie zezwolenia na pracę ukończył uczelnię z siedzibą na terytorium Rzeczypospolitej Polskiej albo innego państwa Europejskiego Obszaru Gospodarczego lub Konfederacji Szwajcarskiej albo jest uczestnikiem studiów doktoranckich odbywanych Rzeczypospolitej Polskiej lub”. (Dz. U. z 2015 r. poz. 562 i 1308) wprowadza się następujące zmiany:
+1b. Podatnicy prowadzący działalność badawczo-rozwojową, którzy zamierzają skorzystać z odliczenia, o którym mowa w art. 26e, są obowiązani w prowadzonej księdze albo w prowadzonych księgach rachunkowych, o których mowa w ust. 1, wyodrębnić koszty działalności badawczo-rozwojowej. ” ;
 
-**Art. 6.** (uchylony)
+- **4)** uchyla się art. 26c;
+- **5)** po art. 26d dodaje się art. 26e-26g w brzmieniu: „
+
+**Art. 26e.**
+
+1. Podatnik uzyskujący przychody ze źródła określonego w art. 10 ust. 1 pkt 3 odlicza od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, koszty uzyskania przychodów poniesione na działalność badawczo-rozwojową, zwane dalej „kosztami kwalifikowanymi”. Kwota odliczenia nie może w roku podatkowym przekroczyć kwoty dochodu uzyskanego przez podatnika ze źródła określonego w art. 10 ust. 1 pkt 3.
+
+2. Za koszty kwalifikowane uznaje się:
+
+- **1)** należności z tytułów, o których mowa w art. 12 ust. 1, oraz składki z tytułu tych należności określone w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w części finansowanej przez płatnika składek, jeżeli te należności i składki dotyczą pracowników zatrudnionych w celu realizacji działalności badawczo-rozwojowej;
+- **2)** nabycie materiałów i surowców bezpośrednio związanych z prowadzoną działalnością badawczo-rozwojową;
+- **3)** ekspertyzy, opinie, usługi doradcze i usługi równorzędne, a także nabycie wyników badań naukowych, świadczonych lub wykonywanych na podstawie umowy przez jednostkę naukową w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. z 2014 r. poz. 1620 oraz z 2015 r. poz. 249 i 1268) na potrzeby prowadzonej działalności badawczo-rozwojowej;
+- **4)** odpłatne korzystanie z aparatury naukowo-badawczej wykorzystywanej wyłącznie w prowadzonej działalności badawczo-rozwojowej, jeżeli to korzystanie nie wynika z umowy zawartej z podmiotem powiązanym z podatnikiem w rozumieniu art. 25 ust. 1 i 4.
+
+3. Za koszty kwalifikowane uznaje się także dokonywane w danym roku podatkowym, zaliczane do kosztów uzyskania przychodów, odpisy amortyzacyjne od środków trwałych oraz wartości niematerialnych i prawnych wykorzystywanych w prowadzonej działalności badawczo-rozwojowej, z wyłączeniem samochodów osobowych oraz budowli, budynków i lokali będących odrębną własnością. Do kosztów, o których mowa w zdaniu pierwszym, przepisu art. 23 ust. 1 pkt 45 nie stosuje się.
+
+4. Koszty kwalifikowane ponoszone w ramach badań podstawowych podlegają odliczeniu wyłącznie pod warunkiem, że badania te są prowadzone na podstawie umowy lub porozumienia z jednostką naukową w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki.
+
+5. Koszty kwalifikowane podlegają odliczeniu, jeżeli nie zostały podatnikowi zwrócone w jakiejkolwiek formie.
+
+6. Prawo do odliczenia nie przysługuje podatnikowi, jeżeli w roku podatkowym prowadził działalność na terenie specjalnej strefy ekonomicznej na podstawie zezwolenia.
+
+7. Kwota kosztów kwalifikowanych nie może przekroczyć:
+
+- **1)** w odniesieniu do kosztów, o których mowa w ust. 2 pkt 1 – 30% tych kosztów;
+- **2)** w odniesieniu do kosztów, o których mowa w ust. 2 pkt 2–4 i ust. 3: 20% tych kosztów – jeżeli podatnik jest mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą w rozumieniu przepisów o swobodzie działalności gospodarczej, 10% tych kosztów – w przypadku pozostałych podatników.
+    - **a)**
+    - **b)**
+
+8. Odliczenia dokonuje się w zeznaniu za rok podatkowy, w którym poniesiono koszty kwalifikowane. W przypadku gdy podatnik poniósł za rok podatkowy stratę lub wielkość dochodu podatnika jest niższa od kwoty przysługujących mu odliczeń, odliczenia – odpowiednio w całej kwocie lub w pozostałej części – dokonuje się w zeznaniach za kolejno następujące po sobie trzy lata podatkowe następujące bezpośrednio po roku, w którym podatnik skorzystał lub miał prawo skorzystać z odliczenia. Podatnicy korzystający z odliczenia, o którym mowa w art. 26e, są obowiązani wykazać w zeznaniu koszty kwalifikowane podlegające odliczeniu. Odliczenie, o którym mowa w art. 26e, podatnik wykazuje w zeznaniu, w którym rozlicza przychody ze źródła określonego w art. 10 ust. 1 pkt 3. ” .
+
+**Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 4a w pkt 25 kropkę zastępuje się średnikiem i dodaje się pkt 26–28 w brzmieniu: „
+- **26)** działalności badawczo-rozwojowej – oznacza to działalność twórczą obejmującą badania naukowe lub prace rozwojowe, podejmowaną w sposób systematyczny w celu zwiększenia zasobów wiedzy oraz wykorzystania zasobów wiedzy do tworzenia nowych zastosowań;
+- **27)** badaniach naukowych – oznacza to: badania podstawowe – oryginalne prace badawcze, eksperymentalne lub teoretyczne podejmowane przede wszystkim w celu zdobywania nowej wiedzy o podstawach zjawisk i obserwowalnych faktów bez nastawienia na bezpośrednie zastosowanie komercyjne, badania stosowane – prace badawcze podejmowane w celu zdobycia nowej wiedzy, zorientowane przede wszystkim na zastosowanie w praktyce, badania przemysłowe – badania mające na celu zdobycie nowej wiedzy oraz umiejętności w celu opracowywania nowych produktów, procesów i usług lub wprowadzania znaczących ulepszeń do istniejących produktów, procesów i usług; badania te uwzględniają tworzenie elementów składowych systemów złożonych, budowę prototypów w środowisku laboratoryjnym lub w środowisku symulującym istniejące systemy, szczególnie do oceny przydatności danych rodzajów technologii, a także budowę niezbędnych w tych badaniach linii pilotażowych, w tym do uzyskania dowodu w przypadku technologii generycznych;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **28)** pracach rozwojowych – oznacza to nabywanie, łączenie, kształtowanie i wykorzystywanie dostępnej aktualnie wiedzy i umiejętności z dziedziny nauki, technologii i działalności gospodarczej oraz innej wiedzy i umiejętności do planowania produkcji oraz tworzenia i projektowania nowych, zmienionych lub ulepszonych produktów, procesów i usług, z wyłączeniem prac obejmujących rutynowe i okresowe zmiany wprowadzane do produktów, linii produkcyjnych, procesów wytwórczych, istniejących usług oraz innych operacji w toku, nawet jeżeli takie zmiany mają charakter ulepszeń, w szczególności: opracowywanie prototypów i projektów pilotażowych oraz demonstracje, testowanie i walidację nowych lub ulepszonych produktów, procesów lub usług w otoczeniu stanowiącym model warunków rzeczywistego funkcjonowania, których głównym celem jest dalsze udoskonalenie techniczne produktów, procesów lub usług, których ostateczny kształt nie został określony, opracowywanie prototypów i projektów pilotażowych, które można wykorzystać do celów komercyjnych, w przypadku gdy prototyp lub projekt pilotażowy stanowi produkt końcowy gotowy do wykorzystania komercyjnego, a jego produkcja wyłącznie do celów demonstracyjnych i walidacyjnych jest zbyt kosztowna. ” ;
+    - **a)**
+    - **b)**
+
+- **2)** w art. 9 po ust. 1a dodaje się ust. 1b w brzmieniu: „
+
+1b. Podatnicy prowadzący działalność badawczo-rozwojową, którzy zamierzają skorzystać z odliczenia, o którym mowa w art. 18d, są obowiązani w ewidencji, o której mowa w ust. 1, wyodrębnić koszty działalności badawczo-rozwojowej. ” ;
+
+- **3)** w art. 17 w ust. 1 pkt 41 otrzymuje brzmienie: „
+- **41)** przychody Krajowego Funduszu Kapitałowego, o których mowa w art. 6 ust. 1 pkt 1, 2 i 2a ustawy z dnia 4 marca 2005 r. o Krajowym Funduszu Kapitałowym (Dz. U. z 2015 r. poz. 562, 1308 i 1767); ” ;
+- **4)** uchyla się art. 18b;
+- **5)** po art. 18c dodaje się art. 18d i art. 18e w brzmieniu: „
+
+**Art. 18d.**
+
+1. Od podstawy opodatkowania, ustalonej zgodnie z art. 18, odlicza się koszty uzyskania przychodów poniesione przez podatnika na działalność badawczo-rozwojową, zwane dalej „kosztami kwalifikowanymi”.
+
+2. Za koszty kwalifikowane uznaje się:
+
+- **1)** należności z tytułów, o których mowa w art. 12 ust. 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, oraz składki z tytułu tych należności określone w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w części finansowanej przez płatnika składek, jeżeli te należności i składki dotyczą pracowników zatrudnionych w celu realizacji działalności badawczo-rozwojowej;
+- **2)** nabycie materiałów i surowców bezpośrednio związanych z prowadzoną działalnością badawczo-rozwojową;
+- **3)** ekspertyzy, opinie, usługi doradcze i usługi równorzędne, a także nabycie wyników badań naukowych, świadczonych lub wykonywanych na podstawie umowy przez jednostkę naukową w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. z 2014 r. poz. 1620 oraz z 2015 r. poz. 249 i 1268) na potrzeby prowadzonej działalności badawczo-rozwojowej;
+- **4)** odpłatne korzystanie z aparatury naukowo-badawczej wykorzystywanej wyłącznie w prowadzonej działalności badawczo-rozwojowej, jeżeli to korzystanie nie wynika z umowy zawartej z podmiotem powiązanym z podatnikiem w rozumieniu art. 11 ust. 1 i 4.
+
+3. Za koszty kwalifikowane uznaje się także dokonywane w danym roku podatkowym, zaliczane do kosztów uzyskania przychodów, odpisy amortyzacyjne od środków trwałych oraz wartości niematerialnych i prawnych wykorzystywanych w prowadzonej działalności badawczo-rozwojowej, z wyłączeniem samochodów osobowych oraz budowli, budynków i lokali będących odrębną własnością. Do kosztów, o których mowa w zdaniu pierwszym, przepisu art. 16 ust. 1 pkt 48 nie stosuje się.
+
+4. Koszty kwalifikowane ponoszone w ramach badań podstawowych podlegają odliczeniu wyłącznie pod warunkiem, że badania te są prowadzone na podstawie umowy lub porozumienia z jednostką naukową w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki.
+
+5. Koszty kwalifikowane podlegają odliczeniu, jeżeli nie zostały podatnikowi zwrócone w jakiejkolwiek formie.
+
+6. Prawo do odliczenia nie przysługuje podatnikowi, jeżeli w roku podatkowym prowadził działalność na terenie specjalnej strefy ekonomicznej na podstawie zezwolenia.
+
+7. Kwota kosztów kwalifikowanych nie może przekroczyć:
+
+- **1)** w odniesieniu do kosztów, o których mowa w ust. 2 pkt 1 – 30% tych kosztów;
+- **2)** w odniesieniu do kosztów, o których mowa w ust. 2 pkt 2–4 i ust. 3: 20% tych kosztów – jeżeli podatnik jest mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą w rozumieniu przepisów o swobodzie działalności gospodarczej, 10% tych kosztów – w przypadku pozostałych podatników.
+    - **a)**
+    - **b)**
+
+8. Odliczenia dokonuje się w zeznaniu za rok podatkowy, w którym poniesiono koszty kwalifikowane. W przypadku gdy podatnik poniósł za rok podatkowy stratę lub wielkość dochodu podatnika jest niższa od kwoty przysługujących mu odliczeń, odliczenia – odpowiednio w całej kwocie lub w pozostałej części – dokonuje się w zeznaniach za kolejno następujące po sobie trzy lata podatkowe następujące bezpośrednio po roku, w którym podatnik skorzystał lub miał prawo skorzystać z odliczenia. Podatnicy korzystający z odliczenia, o którym mowa w art. 18d, są obowiązani wykazać w zeznaniu koszty kwalifikowane podlegające odliczeniu. ” .
+
+**Art. 3.** W ustawie z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki (Dz. U. z 2014 r. poz. 1852 oraz z 2015 r. poz. 249) art. 21a otrzymuje brzmienie: „
+
+**Art. 21a.**
+
+1. Osoba, która uzyskała stopień doktora w Rzeczypospolitej Polskiej lub za granicą i podczas pracy w innym państwie przez co najmniej pięć lat kierowała samodzielnie zespołami badawczymi oraz posiada znaczący dorobek i osiągnięcia naukowe, zatrudniona na stanowisku profesora nadzwyczajnego lub profesora wizytującego, nabywa uprawnienia równoważne uprawnieniom wynikającym z posiadania stopnia doktora habilitowanego na podstawie decyzji:
+
+- **1)** rektora – jeżeli jest zatrudniona w szkole wyższej;
+- **2)** dyrektora instytutu naukowego Polskiej Akademii Nauk – jeżeli jest zatrudniona w instytucie Polskiej Akademii Nauk;
+- **3)** dyrektora instytutu badawczego – jeżeli jest zatrudniona w instytucie badawczym.
+
+2. Podmioty wskazane w ust. 1 pkt 1–3 przekazują Centralnej Komisji decyzję, o której mowa w ust. 1, wraz z opisem kariery zawodowej i wykazem publikacji osoby, o której mowa w ust. 1.
+
+3. Decyzja, o której mowa w ust. 1, wchodzi w życie po upływie czterech miesięcy od dnia jej otrzymania przez Centralną Komisję, jeżeli w tym okresie Centralna Komisja, w drodze decyzji administracyjnej, nie wyraziła sprzeciwu i nie uchyliła tej decyzji.
+
+4. Na decyzję Centralnej Komisji podmiotom, o których mowa w ust. 1 pkt 1–3, przysługuje, w terminie 30 dni od dnia jej otrzymania, skarga do właściwego sądu administracyjnego. ” .
+
+**Art. 4.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2015 r. poz. 149, z późn. zm.) w art. 88c w ust. 8 pkt 1 otrzymuje brzmienie: „
+
+- **1)** w okresie 3 lat poprzedzających złożenie wniosku o wydanie zezwolenia na pracę ukończył uczelnię z siedzibą na terytorium Rzeczypospolitej Polskiej albo innego państwa Europejskiego Obszaru Gospodarczego lub Konfederacji Szwajcarskiej albo jest uczestnikiem studiów doktoranckich odbywanych w Rzeczypospolitej Polskiej lub ” .
+
+**Art. 5.** W ustawie z dnia 4 marca 2005 r. o Krajowym Funduszu Kapitałowym (Dz. U. z 2015 r. poz. 562 i 1308) wprowadza się następujące zmiany:
+
+- **1)** art. 5 otrzymuje brzmienie: „
+
+1. Podstawowym celem działalności Krajowego Funduszu Kapitałowego jest wspieranie polityki gospodarczej Rady Ministrów w zakresie stymulowania rozwoju gospodarczego państwa opartego na innowacyjności oraz konkurencyjności gospodarki.
+
+2. Cel, o którym mowa w ust. 1, Krajowy Fundusz Kapitałowy realizuje w szczególności poprzez:
+
+- **1)** udzielanie pomocy finansowej przedsiębiorcom i inwestorom w rozumieniu odrębnych przepisów, bezpośrednio lub za pośrednictwem funduszy kapitałowych, którym Krajowy Fundusz Kapitałowy udziela wsparcia finansowego;
+- **2)** dokonywanie inwestycji w przedsiębiorców poprzez obejmowanie emitowanych przez nich udziałów lub akcji, warrantów subskrypcyjnych, obligacji lub uczestniczenie jako wspólnik w przedsiębiorcach działających w formie spółek osobowych;
+- **3)** udzielanie pożyczek, gwarancji oraz poręczeń w rozumieniu odrębnych przepisów;
+- **4)** tworzenie lub współtworzenie funduszy kapitałowych;
+- **5)** świadczenie usług związanych z zarządzaniem portfelem inwestycyjnym i ryzykiem w rozumieniu art. 46 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. z 2014 r. poz. 157, z późn. zm.);
+- **6)** wykonywanie innych zadań przewidzianych dla Krajowego Funduszu Kapitałowego w odrębnych przepisach.
+
+3. Krajowy Fundusz Kapitałowy może również pełnić rolę podmiotu wdrażającego instrument finansowy lub fundusz funduszy, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającym wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającym przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającym rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320).
+
+4. Zasady oraz warunki pełnienia roli, o której mowa w ust. 3, określają odrębne przepisy oraz umowy zawarte z właściwymi organami administracji rządowej lub jednostek samorządu terytorialnego. ” ;
+
+- **2)** w art. 6: dotychczasową treść oznacza się jako ust. 1 i w tym ust. po pkt 2a dodaje się pkt 2b i 2c w brzmieniu: „
+    - **a)**
+
+- **2b)** przychody z działalności inwestycyjnej prowadzonej przez Krajowy Fundusz Kapitałowy, w szczególności dywidendy, przychody ze zbycia aktywów lub lokat, zwroty kapitałów i zysków oraz wszelkie inne wpływy wygenerowane przez inwestycje, o ile odrębne przepisy lub umowy dotyczące przekazania lub wykorzystania tych środków nie stanowią inaczej;
+- **2c)** przychody z działalności innej niż działalność, o której mowa w pkt 2b, prowadzonej przez Krajowy Fundusz Kapitałowy; ” , dodaje się ust. 2 w brzmieniu: „
+    - **b)**
+
+2. Przychody, o których mowa w ust. 1, stanowią źródło finansowania celów działalności Krajowego Funduszu Kapitałowego, o których mowa w art. 5 ust. 1, w tym kosztów zarządzania, chyba że odrębne przepisy stanowią inaczej. ” ;
+
+- **3)** w art. 16: wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wsparcie finansowe, o którym mowa w art. 5 ust. 2 pkt 1, może być udzielone funduszowi kapitałowemu wyłącznie w celu dokonania inwestycji w przedsiębiorców, którzy: ” , pkt 1 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **1)** podlegają w Rzeczypospolitej Polskiej nieograniczonemu lub ograniczonemu obowiązkowi podatkowemu, zgodnie z przepisami ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.) lub ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.); ” .
+
+**Art. 6.** W ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm.) w art. 115 ust. 1b otrzymuje brzmienie: „ 1b. Na stanowisku profesora nadzwyczajnego rektor może zatrudnić osobę niespełniającą wymagań określonych w art. 114 ust. 2, jeżeli osoba ta uzyskała stopnień naukowy doktora w Rzeczypospolitej Polskiej lub za granicą i przez co najmniej pięć lat kierowała samodzielnie zespołami badawczymi w innym państwie oraz posiada znaczące osiągnięcia naukowe. ” .
 
 **Art. 7.** W ustawie z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2015 r. poz. 1095) wprowadza się następujące zmiany:
 
+- **1)** w art. 17: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Do rozporządzania składnikami aktywów trwałych instytutu o wartości rynkowej przekraczającej równowartość w złotych kwoty 250 000 euro, z wyłączeniem czynności w zakresie komercjalizacji wyników badań naukowych i prac rozwojowych, stosuje się przepisy art. 5a-5c ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa (Dz. U. z 2012 r. poz. 1224, z późn. zm.). ” , w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Instytut zgłasza ministrowi nadzorującemu zamiar dokonania czynności prawnej, mającej za przedmiot mienie zaliczone zgodnie z przepisami o rachunkowości do aktywów trwałych o wartości rynkowej wyższej niż równowartość w złotych kwoty 134 000 euro, obliczonej na podstawie średniego kursu ogłoszonego przez Narodowy Bank Polski według stanu z dnia zgłoszenia, polegającej na: ” ;
+
+- **b)**
+- **2)** w art. 30 dodaje się ust. 11 w brzmieniu: „
+
+11. Statut instytutu może przewidywać możliwość udziału w posiedzeniach rady naukowej za pośrednictwem środków komunikacji elektronicznej, oraz możliwość głosowania za pośrednictwem systemu teleinformatycznego, jeżeli system ten zapewnia zachowanie tajności głosowania. ” .
+
 **Art. 8.** W ustawie z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2015 r. poz. 1082 i 1268) wprowadza się następujące zmiany:
 
-**Art. 9.** W ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650, z późn. zm. ) art. 144 ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Zezwolenia na pobyt czasowy celu kształcenia się na studiach pierwszego stopnia, studiach drugiego stopnia lub jednolitych studiach magisterskich albo studiach trzeciego stopnia udziela się cudzoziemcowi, gdy celem jego pobytu na terytorium Rzeczypospolitej Polskiej jest podjęcie lub kontynuacja stacjonarnych studiów wyższych lub studiów doktoranckich, zwanych dalej „studiami”, także wtedy, gdy studia te stanowią kontynuację lub uzupełnienie studiów podjętych przez cudzoziemca na terytorium innego państwa członkowskiego Unii Europejskiej, oraz gdy spełnione są łącznie następujące warunki:”.
+- **1)** w art. 8 ust. 3 otrzymuje brzmienie: „
 
-**Art. 10.** W ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów zakresie polityki spójności finansowanych perspektywie finansowej 2014–2020 (Dz. U. poz. 1146, z późn. zm. ) art. 28 ust. 2 otrzymuje brzmienie: „2. Podmiotem wdrażającym instrument finansowy lub fundusz funduszy, o którym mowa art. 2 pkt 27 rozporządzenia ogólnego, może być podmiot wskazany art. 38 ust. 4 lit. a i b rozporządzenia ogólnego, tym S.A., Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej oraz Polska Agencja Rozwoju Przedsiębiorczości.”.
+3. Członkiem zagranicznym może zostać osoba nieposiadająca obywatelstwa polskiego albo osoba posiadająca obywatelstwo polskie na stałe zamieszkała za granicą i zatrudniona w zagranicznej jednostce naukowej. ” ;
 
-**Art. 11.** Podatnicy, którzy przed końcem roku podatkowego rozpoczętego przed dniem 1 stycznia 2016 r. nabyli prawo do odliczenia wydatków poniesionych na nabycie nowych technologii na podstawie odpowiednio art. 26c ustawy wymienionej art. 1, brzmieniu dotychczasowym, oraz art. 18b ustawy wymienionej art. 2, brzmieniu dotychczasowym, zachowują prawo do tych odliczeń po dniu 31 grudnia 2015 r., zakresie i na zasadach nich określonych.
+- **2)** w art. 24 ust. 2 i 3 otrzymują brzmienie: „
 
-**Art. 12.** Podatnicy podatku dochodowego od osób prawnych, których rok podatkowy jest inny niż kalendarzowy i rozpoczął się przed dniem 1 stycznia 2016 r. oraz zakończy się po dniu 31 grudnia 2015 r., stosują do końca przyjętego przez siebie roku podatkowego przepisy ustawy wymienionej art. 2, brzmieniu obowiązującym do dnia 31 grudnia 2015 r.
+2. Kanclerz Akademii rozporządza składnikami aktywów trwałych Akademii o wartości rynkowej nieprzekraczającej równowartości w złotych kwoty 134 000 euro obliczonej na podstawie średniego kursu ogłoszonego przez Narodowy Bank Polski według stanu z pierwszego dnia miesiąca, w którym rozporządzenie ma być dokonane. Rozporządzenie przez Kanclerza Akademii składnikami aktywów trwałych Akademii o wartości rynkowej przekraczającej równowartość w złotych 134 000 euro wymaga zgody Prezesa Akademii.
 
-**Art. 13.** (uchylony)
+3. Do rozporządzania składnikami aktywów trwałych Akademii o wartości rynkowej przekraczającej równowartość w złotych kwoty 250 000 euro, z wyłączeniem czynności w zakresie komercjalizacji wyników badań naukowych i prac rozwojowych, stosuje się przepisy art. 5a-5c ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa (Dz. U. z 2012 r. poz. 1224, z późn. zm.). ” ;
+
+- **3)** w art. 54: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. Dyrektor rozporządza składnikami aktywów trwałych instytutu. Do czynności prawnych w zakresie rozporządzania składnikami aktywów trwałych instytutu o wartości rynkowej przekraczającej równowartość w złotych kwoty 250 000 euro, z wyłączeniem czynności w zakresie komercjalizacji wyników badań naukowych i prac rozwojowych, stosuje się przepisy art. 5a-5c ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa. ” , ust. 4 otrzymuje brzmienie: „
+
+- **b)**
+
+4. Zgody Prezesa Akademii wymaga czynność prawna mająca za przedmiot mienie będące własnością instytutu, zaliczone zgodnie z przepisami o rachunkowości do aktywów trwałych o wartości rynkowej wyższej niż równowartość w złotych kwoty 134 000 euro obliczonej na podstawie średniego kursu ogłoszonego przez Narodowy Bank Polski według stanu z pierwszego dnia miesiąca, w którym rozporządzenie ma być dokonane, polegająca na:
+
+- **1)** zbyciu, wydzierżawieniu, wynajmie, przeniesieniu mienia;
+- **2)** wniesieniu tego mienia do spółki lub fundacji;
+- **3)** dokonaniu darowizny;
+- **4)** nieodpłatnym oddaniu do użytkowania innym podmiotom w drodze umowy cywilnoprawnej. ” ;
+- **4)** w art. 75 ust. 1 otrzymuje brzmienie: „
+
+1. Zgody Prezydium Akademii wymaga zbycie lub obciążenie nieruchomości Akademii oraz instytutów o wartości przekraczającej równowartość w złotych kwoty 250 000 euro, obliczonej na podstawie średniego kursu ogłoszonego przez Narodowy Bank Polski, według stanu z dnia wystąpienia o zgodę. ” ;
+
+- **5)** w art. 83: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Akademia i jej instytuty mogą, w celu komercjalizacji wyników badań naukowych i prac rozwojowych oraz prowadzenia działań z zakresu transferu technologii i promocji nauki, tworzyć spółki, obejmować lub nabywać i posiadać udziały oraz akcje spółek handlowych. Każda z tych czynności wymaga uprzedniego zgłoszenia ministrowi właściwemu do spraw nauki. ” , po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
+
+- **b)**
+
+1a. Minister właściwy do spraw nauki, w terminie 30 dni od dnia doręczenia zgłoszenia może, w drodze decyzji administracyjnej, sprzeciwić się dokonaniu czynności, o której mowa w ust. 1.
+
+1b. Dokonanie czynności, o której mowa w ust. 1, może nastąpić, jeżeli w terminie 30 dni od dnia doręczenia zgłoszenia minister właściwy do spraw nauki nie wniósł sprzeciwu. Zgłoszona czynność niedokonana w ciągu roku od dnia doręczenia zgłoszenia wymaga dokonania nowego zgłoszenia. ” ;
+
+- **6)** w art. 89 ust. 7 otrzymuje brzmienie: „
+
+7. Na stanowisku specjalisty lub głównego specjalisty do spraw obsługi środowiskowej aparatury badawczej, o których mowa w art. 88 ust. 2, można zatrudnić osobę, która posiada stopień naukowy doktora lub tytuł zawodowy magistra lub równorzędny. ” .
+
+**Art. 9.** W ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650, z późn. zm.) w art. 144 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zezwolenia na pobyt czasowy w celu kształcenia się na studiach pierwszego stopnia, studiach drugiego stopnia lub jednolitych studiach magisterskich albo studiach trzeciego stopnia udziela się cudzoziemcowi, gdy celem jego pobytu na terytorium Rzeczypospolitej Polskiej jest podjęcie lub kontynuacja stacjonarnych studiów wyższych lub studiów doktoranckich, zwanych dalej „studiami”, także wtedy, gdy studia te stanowią kontynuację lub uzupełnienie studiów podjętych przez cudzoziemca na terytorium innego państwa członkowskiego Unii Europejskiej, oraz gdy spełnione są łącznie następujące warunki: ” .
+
+**Art. 10.** W ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. poz. 1146, z późn. zm.) w art. 28 ust. 2 otrzymuje brzmienie: „ 2. Podmiotem wdrażającym instrument finansowy lub fundusz funduszy, o którym mowa w art. 2 pkt 27 rozporządzenia ogólnego, może być podmiot wskazany w art. 38 ust. 4 lit. a i b rozporządzenia ogólnego, w tym w szczególności Bank Gospodarstwa Krajowego, Krajowy Fundusz Kapitałowy S.A., Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej oraz Polska Agencja Rozwoju Przedsiębiorczości. ” .
+
+**Art. 11.** Podatnicy, którzy przed końcem roku podatkowego rozpoczętego przed dniem 1 stycznia 2016 r. nabyli prawo do odliczenia wydatków poniesionych na nabycie nowych technologii na podstawie odpowiednio art. 26c ustawy wymienionej w art. 1, w brzmieniu dotychczasowym, oraz art. 18b ustawy wymienionej w art. 2, w brzmieniu dotychczasowym, zachowują prawo do tych odliczeń po dniu 31 grudnia 2015 r., w zakresie i na zasadach w nich określonych.
+
+**Art. 12.** Podatnicy podatku dochodowego od osób prawnych, których rok podatkowy jest inny niż kalendarzowy i rozpoczął się przed dniem 1 stycznia 2016 r. oraz zakończy się po dniu 31 grudnia 2015 r., stosują do końca przyjętego przez siebie roku podatkowego przepisy ustawy wymienionej w art. 2, w brzmieniu obowiązującym do dnia 31 grudnia 2015 r.
+
+**Art. 13.**
+
+1. W przypadku podatników podatku dochodowego od osób fizycznych nie ustala się przychodu i kosztów uzyskania przychodów z tytułu objęcia udziałów (akcji) w spółce kapitałowej w zamian za wkład niepieniężny w postaci komercjalizowanej własności intelektualnej, o której mowa w art. 5a pkt 34 ustawy wymienionej w art. 1, wniesiony, przez podmiot komercjalizujący, o którym mowa w art. 5a pkt 35 ustawy wymienionej w art. 1, jeżeli wkład został wniesiony w 2016 r. albo w 2017 r. Do przychodów tych nie stosuje się przepisów art. 17 ust. 1 pkt 9 i ust. 1a pkt 5 ustawy wymienionej w art. 1.
+
+2. W przypadku podatników podatku dochodowego od osób prawnych nie ustala się przychodu i kosztów uzyskania przychodów z tytułu objęcia udziałów (akcji) w spółce kapitałowej w zamian za wkład niepieniężny w postaci komercjalizowanej własności intelektualnej, o której mowa w art. 4a pkt 23 ustawy wymienionej w art. 2, wniesiony przez podmiot komercjalizujący, o którym mowa w art. 4a pkt 24 ustawy wymienionej w art. 2, jeżeli wkład został wniesiony w 2016 r. albo w 2017 r. Do przychodów tych nie stosuje się przepisów art. 12 ust. 1 pkt 7 i ust. 1b pkt 5 ustawy wymienionej w art. 2.
+
+3. Kosztem uzyskania przychodów z odpłatnego zbycia udziałów (akcji), o których mowa w ust. 1 i 2, są wydatki poniesione na ich objęcie, do wysokości nominalnej wartości tych udziałów (akcji).
+
+4. Przepisów ust. 1–3 nie stosuje się, jeżeli przedmiotem wkładu niepieniężnego w postaci komercjalizowanej własności intelektualnej, o której mowa w ust. 1 lub 2, jest autorskie prawo majątkowe do programu komputerowego.
 
 **Art. 14.**
 
-1. Zwalnia się z podatku dochodowego od osób prawnych, z zastrzeżeniem ust. 3 i 4, dochód z tytułu zbycia udziałów (akcji), nabytych latach 2016–2023 przez spółkę kapitałową lub spółkę komandytowo-akcyjną, której:
+1. Zwalnia się z podatku dochodowego od osób prawnych, z zastrzeżeniem ust. 3 i 4, dochód z tytułu zbycia udziałów (akcji), nabytych w 2016 r. albo 2017 r. przez spółkę kapitałową lub spółkę komandytowo-akcyjną, której:
 
-- **1)** wyłącznym przedmiotem działalności jest dokonywanie inwestycji finansowych i która zainwestowała co najmniej 75% wartości bilansowej aktywów, ustalonych na ostatni dzień roku podatkowego, którym dokonała zakończenia inwestycji, aktywa inne niż:
-    - **a)** papiery wartościowe będące przedmiotem publicznej oferty lub papiery wartościowe dopuszczone do obrotu na rynku regulowanym, chyba że papiery wartościowe stały się przedmiotem publicznej oferty lub zostały dopuszczone do obrotu na rynku regulowanym po ich nabyciu przez tę spółkę,
-    - **b)** instrumenty rynku pieniężnego, chyba że zostały wyemitowane przez spółki niepubliczne, których papiery wartościowe nie są dopuszczone do obrotu na rynku regulowanym lub których akcje lub udziały wchodzą skład portfela inwestycyjnego tej spółki,
-    - **c)** nieruchomości, oraz 000 euro według ceny nabycia, przeliczonej na złote według kursu średniego ogłaszanego przez Narodowy Bank Polski z dnia roboczego poprzedzającego dzień nabycia aktywów.
+- **1)** wyłącznym przedmiotem działalności jest dokonywanie inwestycji finansowych i która zainwestowała co najmniej 75% wartości bilansowej aktywów, ustalonych na ostatni dzień roku podatkowego, w którym dokonała zakończenia inwestycji, w aktywa inne niż: papiery wartościowe będące przedmiotem publicznej oferty lub papiery wartościowe dopuszczone do obrotu na rynku regulowanym, chyba że papiery wartościowe stały się przedmiotem publicznej oferty lub zostały dopuszczone do obrotu na rynku regulowanym po ich nabyciu przez tę spółkę, instrumenty rynku pieniężnego, chyba że zostały wyemitowane przez spółki niepubliczne, których papiery wartościowe nie są dopuszczone do obrotu na rynku regulowanym lub których akcje lub udziały wchodzą w skład portfela inwestycyjnego tej spółki, nieruchomości, oraz
+    - **a)**
+    - **b)**
+    - **c)**
 
-2. Przez inwestycje finansowe, o których mowa ust. 1, rozumie się inwestycje instrumenty finansowe określone art. 2 ust. 1 pkt 1 i pkt 2 lit. b ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2014 r. poz. 94, z późn. zm. ) oraz nabywanie lub obejmowanie udziałów spółkach z ograniczoną odpowiedzialnością.
+- **2)** wartość aktywów, innych niż określone w pkt 1 lit. a-c, nie przekracza 50 000 000 euro według ceny nabycia, przeliczonej na złote według kursu średniego ogłaszanego przez Narodowy Bank Polski z dnia roboczego poprzedzającego dzień nabycia aktywów.
 
-3. Zwolnienie, o którym mowa ust. 1, ma zastosowanie, jeżeli spełnione są następujące warunki:
+2. Przez inwestycje finansowe, o których mowa w ust. 1, rozumie się inwestycje w instrumenty finansowe określone w art. 2 ust. 1 pkt 1 i pkt 2 lit. b ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2014 r. poz. 94, z późn. zm.) oraz nabywanie lub obejmowanie udziałów w spółkach z ograniczoną odpowiedzialnością.
 
-- **1)** spółka, której udziały (akcje) są zbywane, jest spółką podlegającą Rzeczypospolitej Polskiej, innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej lub innym państwie należącym do Europejskiego Obszaru Gospodarczego opodatkowaniu podatkiem dochodowym od całości swoich dochodów, bez względu na miejsce ich osiągania oraz okresie, o którym mowa pkt 2, spółka ta:
-    - **a)** nie spełniała warunków, o których mowa art. 30f ust. 3 ustawy wymienionej art. 1 albo art. 24a ust. 3 ustawy wymienionej art. 2,
-    - **b)** nie prowadziła działalności polegającej na wytwarzaniu wyrobów opodatkowanych podatkiem akcyzowym,
-    - **c)** nie prowadziła działalności handlowej,
-    - **d)** prowadziła działalność badawczo-rozwojową;
+3. Zwolnienie, o którym mowa w ust. 1, ma zastosowanie, jeżeli spełnione są następujące warunki:
 
-- **2)** spółka dokonująca zbycia udziałów (akcji) posiada bezpośrednio, nieprzerwanie przez okres dwóch lat, nie mniej niż 10% udziałów (akcji) spółce, o której mowa pkt 1.
+- **1)** spółka, której udziały (akcje) są zbywane, jest spółką podlegającą w Rzeczypospolitej Polskiej, w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej lub w innym państwie należącym do Europejskiego Obszaru Gospodarczego opodatkowaniu podatkiem dochodowym od całości swoich dochodów, bez względu na miejsce ich osiągania oraz w okresie, o którym mowa w pkt 2, spółka ta: nie spełniała warunków, o których mowa w art. 30f ust. 3 ustawy wymienionej w art. 1 albo w art. 24a ust. 3 ustawy wymienionej w art. 2, nie prowadziła działalności polegającej na wytwarzaniu wyrobów opodatkowanych podatkiem akcyzowym, nie prowadziła działalności handlowej, prowadziła działalność badawczo-rozwojową;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
-4. W przypadku spółki, o której mowa ust. 1, zwolnienia, o którym mowa art. 22 ust. 4 ustawy wymienionej art. 2, nie stosuje do tej części dywidend oraz innych przychodów z tytułu udziału zyskach osób prawnych przez nią wypłaconych, która proporcjonalnie odpowiada udziałowi dochodów, o których mowa ust. 1, przychody z tytułu udziału zyskach osób prawnych są wypłacane.
+- **2)** spółka dokonująca zbycia udziałów (akcji) posiada bezpośrednio, nieprzerwanie przez okres dwóch lat, nie mniej niż 10% udziałów (akcji) w spółce, o której mowa w pkt 1.
 
-5. (uchylony)
+4. W przypadku spółki, o której mowa w ust. 1, zwolnienia, o którym mowa w art. 22 ust. 4 ustawy wymienionej w art. 2, nie stosuje do tej części dywidend oraz innych przychodów z tytułu udziału w zyskach osób prawnych przez nią wypłaconych, która proporcjonalnie odpowiada udziałowi dochodów, o których mowa w ust. 1, w całości dochodów tej spółki osiągniętych w okresie, za który dywidenda oraz inne przychody z tytułu udziału w zyskach osób prawnych są wypłacane.
 
-**Art. 15.** Ustawa wchodzi życie z dniem 1 stycznia 2016 r.
+5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór informacji o nabytych udziałach (akcjach) w spółkach, o których mowa w ust. 3 pkt 1, wraz z objaśnieniami co do sposobu jej wypełniania, terminu i miejsca składania oraz niezbędnymi pouczeniami, mając na uwadze zapewnienie informacji o tych inwestycjach finansowych.
+
+**Art. 15.** Ustawa wchodzi w życie z dniem 1 stycznia 2016 r., z wyjątkiem art. 6, który wchodzi w życie z dniem 1 października 2016 r.
 

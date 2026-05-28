@@ -8,12 +8,10 @@ pos: 201
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
 # Ustawa z dnia 17 stycznia 2019 r. zmieniająca ustawę o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego oraz niektórych innych ustaw
-
-*USTAWA z dnia 17 stycznia 2019 zmieniająca ustawę zmianie ustawy płatnościach ramach systemów wsparcia bezpośredniego oraz niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -24,50 +22,61 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2019-01-17 |
 | Data wydania | 2019-02-01 |
+| Wejście w życie | 2019-02-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000201) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/201/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 10 stycznia 2018 zmianie ustawy płatnościach ramach systemów wsparcia bezpośredniego oraz niektórych innych ustaw (Dz. U. poz. 311) wprowadza następujące zmiany:
+**Art. 1.** W ustawie z dnia 10 stycznia 2018 r. o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego oraz niektórych innych ustaw (Dz. U. poz. 311) wprowadza się następujące zmiany:
 
-**Art. 6b.**
+- **1)** po art. 6 dodaje się art. 6a-6d w brzmieniu: „
 
-1. W 2019 zamiast wniosku wypłatę pomocy ramach którym 5 ust. pkt 15 ustawy zmienianej 2, rolnik, który 2018 ubiegał wyłącznie wypłatę tej pomocy, a powierzchnia gruntów ornych zawarta we wniosku złożonym 2018 wynosiła mniej niż 10 ha, może złożyć oświadczenie, któ2799/98, (WE) 814/2000, (WE) 1290/2005 (WE) 485/2008, jeżeli 2018 nie ubiegał przyznanie:
+**Art. 6a.**
 
-- **1)** płatności dla młodych rolników, płatności związanej powierzchni upraw: roślin strączkowych ziarno, roślin pastewnych, ziemniaków skrobiowych, buraków cukrowych, pomidorów, truskawek, lnu, konopi włóknistych, płatności bydła oraz płatności krów, ustawie zmienianej 1;
-- **2)** pomocy ramach działań, 28 29 Parlamentu Europejskiego (UE) 1305/2013 z dnia 17 grudnia 2013 sprawie wsparcia rozwoju obszarów wiejskich przez Europejski rzecz Rozwoju Obszarów Wiejskich (EFRROW) uchylającego rozporządzenie (WE) 1698/2005, objętych Programem Rozwoju Obszarów Wiejskich lata 2014–2020.
+1. W 2019 r. zamiast wniosku o przyznanie płatności bezpośrednich i płatności niezwiązanej do tytoniu, o których mowa w art. 1 pkt 1 ustawy zmienianej w art. 1, rolnik, który w 2018 r. ubiegał się wyłącznie o jednolitą płatność obszarową, płatność za zazielenienie, płatność dodatkową, płatność związaną do powierzchni uprawy chmielu, płatność do owiec, płatność do kóz lub płatność niezwiązaną do tytoniu, a powierzchnia gruntów ornych zawarta we wniosku złożonym w 2018 r. wynosiła mniej niż 10 ha, może złożyć oświadczenie, w którym potwierdzi brak zmian, o którym mowa w art. 72 ust. 3 akapit drugi lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008, jeżeli w 2018 r. nie ubiegał się o przyznanie pomocy w ramach:
 
-2. W przypadku złożenia oświadczenia, którym ust. 1, uznaje się, że rolnik złożył ten rok wniosek odpowiednio przyznanie lub wypłatę pomocy, którą ubiegał 2018
+- **1)** działań, o których mowa w art. 28 i art. 29 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005, objętych Programem Rozwoju Obszarów Wiejskich na lata 2014–2020;
+- **2)** działania, o którym mowa w art. 36 lit. a pkt iv rozporządzenia Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW), objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013.
 
-3. Oświadczenie, którym ust. 1, składa terminie od dnia 15 lutego dnia 14 marca 2019 formularzu opracowanym udostępnionym przez Agencję Restrukturyzacji Modernizacji Rolnictwa.
+2. W przypadku złożenia oświadczenia, o którym mowa w ust. 1, uznaje się, że rolnik złożył na 2019 r. wniosek o przyznanie tych płatności bezpośrednich i płatności niezwiązanej do tytoniu, o które ubiegał się w 2018 r.
 
-4. Złożenie oświadczenia, którym ust. 1, skutkuje potwierdzeniem braku zmian, którym 72 ust. 3 akapit drugi lit. a Parlamentu Europejskiego (UE) 1306/2013 z dnia 17 grudnia 2013 sprawie finansowania wspólnej polityki rolnej, zarządzania nią monitorowania jej oraz uchylającego rozporządzenia (EWG) 352/78, (WE) 165/94, (WE) 2799/98, (WE) 814/2000, (WE) 1290/2005 (WE) 485/2008, również odniesieniu złożonego 2018 wniosku przyznanie:
+3. Oświadczenie, o którym mowa w ust. 1, składa się w terminie od dnia 15 lutego do dnia 14 marca 2019 r. na formularzu opracowanym i udostępnionym przez Agencję Restrukturyzacji i Modernizacji Rolnictwa.
 
-- **1)** jednolitej płatności obszarowej, płatności za zazielenienie, płatności dodatkowej, płatności związanej powierzchni uprawy chmielu, płatności owiec, płatności kóz lub płatności niezwiązanej tytoniu, ustawie zmienianej 1;
-- **2)** pomocy ramach którym 22 Parlamentu Europejskiego (UE) 1305/2013 z dnia 17 grudnia 2013 sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz rzecz Rozwoju Obszarów Wiejskich (EFRROW) uchylającego rozporządzenie (WE) 1698/2005, zakresie rocznych premii, 22 ust. tego rozporządzenia, oraz którym 31 tego rozporządzenia, objętych Programem Rozwoju Obszarów Wiejskich lata 2014–
+4. Złożenie oświadczenia, o którym mowa w ust. 1, skutkuje potwierdzeniem braku zmian, o którym mowa w art. 72 ust. 3 akapit drugi lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008, również w odniesieniu do złożonego w poprzednim roku wniosku o:
 
-2020.
+- **1)** przyznanie pomocy w ramach działania, o którym mowa w art. 22 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005, w zakresie rocznych premii, o których mowa w art. 22 ust. 1 tego rozporządzenia, oraz działania, o którym mowa w art. 31 tego rozporządzenia, objętych Programem Rozwoju Obszarów Wiejskich na lata 2014–2020;
+- **2)** wypłatę pomocy w ramach działania, o którym mowa w art. 36 lit. b pkt i oraz iii rozporządzenia Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW), objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013, w zakresie rocznych premii. 5. Termin, o którym mowa w ust. 3, nie podlega przywróceniu.
 
-5. Termin, którym ust. 3, nie podlega przywróceniu.
+1. W 2019 r. zamiast wniosku o wypłatę pomocy w ramach działania, o którym mowa w art. 5 ust. 1 pkt 15 ustawy zmienianej w art. 2, rolnik, który w 2018 r. ubiegał się wyłącznie o wypłatę tej pomocy, a powierzchnia gruntów ornych zawarta we wniosku złożonym w 2018 r. wynosiła mniej niż 10 ha, może złożyć oświadczenie, w którym potwierdzi brak zmian, o którym mowa w art. 72 ust. 3 akapit drugi lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008, jeżeli w 2018 r. nie ubiegał się o przyznanie:
 
-**Art. 6c.**
+- **1)** płatności dla młodych rolników, płatności związanej do powierzchni upraw: roślin strączkowych na ziarno, roślin pastewnych, ziemniaków skrobiowych, buraków cukrowych, pomidorów, truskawek, lnu, konopi włóknistych, płatności do bydła oraz płatności do krów, o których mowa w ustawie zmienianej w art. 1;
+- **2)** pomocy w ramach działań, o których mowa w art. 28 i art. 29 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005, objętych Programem Rozwoju Obszarów Wiejskich na lata 2014–2020.
 
-1. W 2019 zamiast wniosku przyznanie pomocy ramach którym 3 ust. pkt 8 ustawy zmienianej 3, zakresie rocznej premii, której 22 ust. Parlamentu Europejskiego (UE) 1305/2013 z dnia 17 grudnia 2013 sprawie wsparcia rozwoju obszarów wiejskich przez Europejski rzecz Rozwoju Obszarów Wiejskich (EFRROW) uchylającego rozporządzenie (WE) 1698/2005, lub wniosku ramach którym 3 ust. pkt 12 ustawy zmienianej 3, rolnik, który 2018 ubiegał wyłącznie przyznanie pomocy ramach tych działań, a powierzchnia gruntów ornych zawarta we wniosku złożonym 2018 wynosiła mniej niż 10 ha, może złożyć oświadczenie, którym potwierdzi brak zmian, którym 72 ust. 3 akapit drugi lit. a Parlamentu Europejskiego (UE) 1306/2013 z dnia 17 grudnia 2013 sprawie finansowania wspólnej polityki rolnej, zarządzania nią monitorowania jej oraz uchylającego (EWG) 352/78, (WE) 165/94, (WE) 2799/98, (WE) 814/2000, (WE) 1290/2005 (WE) 485/2008, jeżeli 2018 nie ubiegał przyznanie:
+2. W przypadku złożenia oświadczenia, o którym mowa w ust. 1, uznaje się, że rolnik złożył na ten rok wniosek odpowiednio o przyznanie lub wypłatę pomocy, o którą ubiegał się w 2018 r.
 
-- **1)** płatności dla młodych rolników, płatności związanej powierzchni upraw: roślin strączkowych ziarno, roślin pastewnych, ziemniaków skrobiowych, buraków cukrowych, pomidorów, truskawek, lnu, konopi włóknistych, płatności bydła oraz płatności krów, ustawie zmienianej 1;
-- **2)** pomocy ramach którym 36 lit. a pkt iv (WE) 1698/2005 z dnia 20 września 2005 sprawie wsparcia rozwoju obszarów wiejskich przez Europejski rzecz Rozwoju Obszarów Wiejskich (EFRROW), objętego Programem Rozwoju Obszarów Wiejskich lata 2007–2013.
+3. Oświadczenie, o którym mowa w ust. 1, składa się w terminie od dnia 15 lutego do dnia 14 marca 2019 r. na formularzu opracowanym i udostępnionym przez Agencję Restrukturyzacji i Modernizacji Rolnictwa.
 
-2. W przypadku złożenia oświadczenia, którym ust. 1, uznaje się, że rolnik złożył ten rok wniosek przyznanie pomocy, którą ubiegał 2018
+4. Złożenie oświadczenia, o którym mowa w ust. 1, skutkuje potwierdzeniem braku zmian, o którym mowa w art. 72 ust. 3 akapit drugi lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008, również w odniesieniu do złożonego w 2018 r. wniosku o przyznanie:
 
-3. Oświadczenie, którym ust. 1, składa terminie od dnia 15 lutego dnia 14 marca 2019 formularzu opracowanym udostępnionym przez Agencję Restrukturyzacji Modernizacji Rolnictwa.
+- **1)** jednolitej płatności obszarowej, płatności za zazielenienie, płatności dodatkowej, płatności związanej do powierzchni uprawy chmielu, płatności do owiec, płatności do kóz lub płatności niezwiązanej do tytoniu, o których mowa w ustawie zmienianej w art. 1;
+- **2)** pomocy w ramach działania, o którym mowa w art. 22 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005, w zakresie rocznych premii, o których mowa w art. 22 ust. 1 tego rozporządzenia, oraz działania, o którym mowa w art. 31 tego rozporządzenia, objętych Programem Rozwoju Obszarów Wiejskich na lata 2014–2020. 5. Termin, o którym mowa w ust. 3, nie podlega przywróceniu.
 
-4. Złożenie oświadczenia, którym ust. 1, skutkuje potwierdzeniem braku zmian, którym 72 ust. 3 akapit drugi lit. a Parlamentu Europejskiego (UE) 1306/2013 z dnia 17 grudnia 2013 sprawie finansowania wspólnej polityki rolnej, zarządzania nią monitorowania jej oraz uchylającego
+1. W 2019 r. zamiast wniosku o przyznanie pomocy w ramach działania, o którym mowa w art. 3 ust. 1 pkt 8 ustawy zmienianej w art. 3, w zakresie rocznej premii, o której mowa w art. 22 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005, lub wniosku w ramach działania, o którym mowa w art. 3 ust. 1 pkt 12 ustawy zmienianej w art. 3, rolnik, który w 2018 r. ubiegał się wyłącznie o przyznanie pomocy w ramach tych działań, a powierzchnia gruntów ornych zawarta we wniosku złożonym w 2018 r. wynosiła mniej niż 10 ha, może złożyć oświadczenie, w którym potwierdzi brak zmian, o którym mowa w art. 72 ust. 3 akapit drugi lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008, jeżeli w 2018 r. nie ubiegał się o przyznanie:
 
-- **1)** przyznanie jednolitej płatności obszarowej, płatności za zazielenienie, płatności dodatkowej, płatności związanej powierzchni uprawy chmielu, płatności owiec, płatności kóz lub płatności niezwiązanej tytoniu, ustawie zmienianej 1;
-- **2)** wypłatę pomocy ramach którym 36 lit. b pkt oraz iii (WE) 1698/2005 z dnia 20 września 2005 sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz rzecz Rozwoju Obszarów Wiejskich (EFRROW), objętego Programem Rozwoju Obszarów Wiejskich lata 2007–2013, zakresie rocznych premii.
+- **1)** płatności dla młodych rolników, płatności związanej do powierzchni upraw: roślin strączkowych na ziarno, roślin pastewnych, ziemniaków skrobiowych, buraków cukrowych, pomidorów, truskawek, lnu, konopi włóknistych, płatności do bydła oraz płatności do krów, o których mowa w ustawie zmienianej w art. 1;
+- **2)** pomocy w ramach działania, o którym mowa w art. 36 lit. a pkt iv rozporządzenia Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW), objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013.
 
-5. Termin, którym ust. 3, nie podlega przywróceniu.
+2. W przypadku złożenia oświadczenia, o którym mowa w ust. 1, uznaje się, że rolnik złożył na ten rok wniosek o przyznanie pomocy, o którą ubiegał się w 2018 r.
 
-**Art. 6d.** Oświadczenia, którym 6a ust. 1, 6b ust. oraz 6c ust. 1, nie może złożyć rolnik, który we wniosku, którym 6a ust. 1, 6b ust. lub 6c ust. 1, złożonym 2018 zadeklarował grunty, które 2019 r., skutek wyznaczenia obszarów, którym 32 ust. Parlamentu Europejskiego (UE) 1305/2013 z dnia 17 grudnia 2013 sprawie wsparcia rozwoju obszarów wiejskich przez Europejski rzecz Rozwoju Obszarów Wiejskich (EFRROW) uchylającego rozporządzenie (WE) 1698/2005, kwalifikują po raz pierwszy pomocy ramach którym 31 tego rozporządzenia, który 2018 nie ubiegał przyznanie tej pomocy.”;
+3. Oświadczenie, o którym mowa w ust. 1, składa się w terminie od dnia 15 lutego do dnia 14 marca 2019 r. na formularzu opracowanym i udostępnionym przez Agencję Restrukturyzacji i Modernizacji Rolnictwa.
 
-**Art. 2.** Ustawa wchodzi życie z dniem 15 lutego 2019 Prezydent Rzeczypospolitej Polskiej: A. Duda
+4. Złożenie oświadczenia, o którym mowa w ust. 1, skutkuje potwierdzeniem braku zmian, o którym mowa w art. 72 ust. 3 akapit drugi lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008, również w odniesieniu do złożonego w 2018 r. wniosku o:
+
+- **1)** przyznanie jednolitej płatności obszarowej, płatności za zazielenienie, płatności dodatkowej, płatności związanej do powierzchni uprawy chmielu, płatności do owiec, płatności do kóz lub płatności niezwiązanej do tytoniu, o których mowa w ustawie zmienianej w art. 1;
+- **2)** wypłatę pomocy w ramach działania, o którym mowa w art. 36 lit. b pkt i oraz iii rozporządzenia Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW), objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013, w zakresie rocznych premii.
+
+5. Termin, o którym mowa w ust. 3, nie podlega przywróceniu. Oświadczenia, o którym mowa w art. 6a ust. 1, art. 6b ust. 1 oraz art. 6c ust. 1, nie może złożyć rolnik, który we wniosku, o którym mowa w art. 6a ust. 1, art. 6b ust. 1 lub art. 6c ust. 1, złożonym w 2018 r. zadeklarował grunty, które w 2019 r., na skutek wyznaczenia obszarów, o którym mowa w art. 32 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005, kwalifikują się po raz pierwszy do pomocy w ramach działania, o którym mowa w art. 31 tego rozporządzenia, i który w 2018 r. nie ubiegał się o przyznanie tej pomocy. ” ;
+
+- **2)** w art. 7 w ust. 1 w części wspólnej do wyliczenia po wyrazach „w poprzednim roku” skreśla się przecinek i wyrazy „w formie papierowej”.
+
+**Art. 2.** Ustawa wchodzi w życie z dniem 15 lutego 2019 r.
 

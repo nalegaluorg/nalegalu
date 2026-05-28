@@ -8,12 +8,10 @@ pos: 390
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# 2 ) 19 j e ę 19 bmenu : „ 19 1 Obmcłnkmchn , kóymnugłenu yługująemeyuy , enyn li keeny nn e y n e 59 lbne 56 - 58 u y , kóejm 1 , bmenubąującymenem 22 lueg 1990 ., m śceńynjeęn 1 źenk 1990 .: 1 ) dp eneścennchgólnych , keślnyc echuekeu , kóychm 1 , 2 , 5 - 10 13 , bmenubąującymnugłennnej eżenem 21 , 2 ) dp eneścenkcenjnżej , jeże li n e e un kóynnścenmyślk 1 2 P e u 1 ujeę dp enób , kóejmły kencenk : - uychykncychgnch Po lkejZjencn Rbncej , ZjencnegS nn cLueg , S nn Demkycneg , - ncelnychgnchgnc ji ółelcych , cłnkóchn , kóymnugłennnejeju yługująemeyuy , enyn li keeny nn e , y n e 64 u y , kóejm 1 , n e nn eókeśljącychyynnśceńeP RyMnócególnymybe , kżeśceny ePeyenRecy li e j Po lkejn 22 li c 1952 „ 29 W un kuemeyóenc ó , kóyukńc 1990 80 l , elyc ji k nu j e ę 1 źenk 1990 ., uglęnenem 28 1 29 , njóźnejn 31 g u n 1990 Mnómżeeąen eyćne nnejegeunby , kóen 31 g u n 1990 u k l ” 3 Uchżycenemgłen
-
-*USTAWA n 24 m j 1990 mneuyenuemeylnymcnkóchn mnenekóycheóenuemeylnym 1 Wuen 14 g u n 1982 enuemeylnymcnkóch ( D U N 40 , 267 , 1984 N 52 , 268 270 , 1986 N I , 1 , 1989 35 , 190 192 1990 N 10 , 58 61 N 36 , 208 ) 56 - 58 k 2 Wuen 24 m j 1990 mnenekóycheóenu emeylnym ( D U N 36 , 206 ) ęnęującemny : 1 ) 19 nkńcujeęyy „ , eżenem 19 ” ;*
+# Ustawa z dnia 24 maja 1990 r. o zmianie ustawy o zaopatrzeniu emerytalnym pracowników i ich rodzin oraz ustawy o zmianie niektórych przepisów o zaopatrzeniu emerytalnym
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,29 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1990-05-24 |
 | Data wydania | 1990-09-29 |
+| Wejście w życie | 1990-09-29 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900660390) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/390/text.pdf) |
+
+**Art. 1.** W ustawie z dnia 14 grudnia 1982 r. o zaopatrzeniu emerytalnym pracowników i ich rodzin (Dz. U. Nr 40, poz. 267, z 1984 r. Nr 52, poz. 268 i 270, z 1986 r. Nr 1, poz. 1, z 1989 r. Nr 35, poz. 190 i 192 oraz z 1990 r. Nr 10, poz. 58 i 61 i Nr 36, poz. 206) art. 56–58 skreśla się.
+
+**Art. 2.** W ustawie z dnia 24 maja 1990 r. o zmianie niektórych przepisów o zaopatrzeniu emerytalnym (Dz. U. Nr 36, poz. 206) wprowadza się następujące zmiany:
+
+- **1)** w art. 19 na końcu dodaje się wyrazy „z zastrzeżeniem art. 19a”;
+- **2)** po art. 19 dodaje się art. 19a w brzmieniu: „
+
+**Art. 19a.**
+
+1. Osobom oraz członkom ich rodzin, którym w dniu ogłoszenia ustawy przysługują emerytury, renty inwalidzkie i renty rodzinne przyznane na podstawie art. 59 albo na podstawie art. 56–58 ustawy, o której mowa w art. 1, w brzmieniu obowiązującym przed dniem 22 lutego 1990 r., zamiast tych świadczeń przyznaje się od dnia 1 października 1990 r.:
+
+- **1)** odpowiednie świadczenia na zasadach ogólnych, określonych w przepisach ustaw i dekretu, o których mowa w art. 1, 2, 5–10, 11 lub 13. w brzmieniu obowiązującym po dniu ogłoszenia niniejszej ustawy, z zastrzeżeniem art. 21,
+- **2)** odpowiednie świadczenia w kwocie najniższej, jeżeli nie spełniają warunków do przyznania świadczenia w myśl pkt 1.
+
+2. Przepis ust. 1 stosuje się odpowiednio do osób, które zajmowały kierownicze stanowiska: – w statutowych i wykonawczych organach Polskiej Zjednoczonej Partii Robotniczej, Zjednoczonego Stronnictwa Ludowego, Stronnictwa Demokratycznego, – w naczelnych organach organizacji spółdzielczych, oraz członków ich rodzin, którym w dniu ogłoszenia niniejszej ustawy przysługują emerytury, renty inwalidzkie i renty rodzinne, przyznane na podstawie art. 64 ustawy, o której mowa w art. 1, na podstawie innych przepisów określających zasady przyznawania świadczeń przez Prezesa Rady Ministrów w szczególnym trybie, a także świadczenia przyznane przez Prezydenta Rzeczypospolitej Polskiej do dnia 22 lipca 1952 r. ” ,
+
+- **3)** po art. 29 dodaje się art. 29a w brzmieniu: „
+
+**Art. 29a.** W stosunku do emerytów i rencistów, którzy ukończyli lub ukończą w 1990 r. 80 lat, rewaloryzacji dokonuje się od 1 października 1990 r., z uwzględnieniem art. 28 i 29, najpóźniej do dnia 31 grudnia 1990 r. Rada Ministrów może w drodze rozporządzenia rozszerzyć stosowanie niniejszego przepisu na osoby, które do dnia 31 grudnia 1990 r. ukończą 75 lat ” .
+
+**Art. 3.** Ustawa wchodzi w życie z dniem ogłoszenia.
 

@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 marca 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 kwietnia 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-04-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000505) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/505/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 marca 2026 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2024 r. poz. 1121), z uwzględnieniem stanu prawnego na dzień 18 marca 2026 r. oraz zmian wprowadzonych:
 1) ustawą z dnia 26 lipca 2024 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw (Dz. U. poz. 1243);
 2) ustawą z dnia 1 października 2024 r. o zmianie niektórych ustaw w związku z utworzeniem oddziałów o profilu mundurowym oraz ułatwieniem powrotu do służby w Policji i Straży Granicznej (Dz. U. poz. 1562);
@@ -51,6 +51,9 @@ poz. 1042), przeniesionego do izby celnej albo urzędu celnego na podstawie tego
 Art. 52–56. (pominięte)
 
 **Art. 13.** Wskaźnik 25 %, o którym mowa w art. 95a ust. 1 i 6, art. 95b ust. 1, art. 104 ust. 8a oraz art. 105 ust. 2a ustawy zmienianej w art. 1, art. 54 ust. 1b i 1e ustawy zmienianej w art. 2, art. 33a ust. 1 i 6 ustawy zmienianej w art. 3, art. 42 ust. 2 ustawy zmienianej w art. 4, art. 43 ust. 2 ustawy zmienianej w art. 5, art. 25 ust. 5 i 6 ustawy zmienianej w art. 7, art. 8 ust. 4 i 5 ustawy zmienianej w art. 8, art. 5 ust. 4a ustawy zmienianej w art. 9, art. 27 ust. 2 ustawy zmienianej w art. 10 oraz w art. 17 ust. 2 ustawy zmienianej w art. 11 wynosi:
+
+- **1)** 15 % w okresie od dnia 1 lipca 2025 r. do dnia 31 grudnia 2026 r.;
+- **2)** 25 % w okresie od dnia 1 stycznia 2027 r.
 
 **Art. 14.**
 
@@ -80,6 +83,12 @@ Art. 52–56. (pominięte)
 3. W przypadku wydania decyzji o przyznaniu świadczenia motywacyjnego albo przyznaniu go w większej wysokości zgodnie z ust. 1 i 2 wypłata tego świadczenia następuje za okres od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 5.** Ustawa wchodzi w życie z dniem 1 stycznia 2026 r.”;
+
+- **6)** art. 13 ustawy z dnia 21 listopada 2025 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1823), który stanowi: „Art. 13. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 lipca 2025 r.”;
+- **7)** art. 43 ustawy z dnia 18 grudnia 2025 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (Dz. U. z 2026 r. poz. 26), który stanowi: „Art. 43. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
+- **1)** art. 1 pkt 3, art. 12 pkt 1 oraz art. 13 pkt 5, 6 lit. a i b oraz pkt 7, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
+- **2)** art. 12 pkt 4 i 5, które wchodzą w życie z dniem 1 października 2026 r.;
+- **3)** art. 1 pkt 2 lit. a tiret pierwsze i drugie, lit. b, pkt 5, 6 i 9 w zakresie art. 85a ust. 1 i art. 85c–85j, art. 2, art. 3 pkt 2 i 3, art. 4–11, art. 12 pkt 2, 3, 6–8, art. 13 pkt 1, 2 lit. b w zakresie ust. 1d i 1e, pkt 3, 4 i 6 lit. c, art. 14, art. 15, art. 17–25 oraz art. 28–33, które wchodzą w życie z dniem 1 stycznia 2027 r.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -158,6 +167,12 @@ Art. 52–56. (pominięte)
 4. Przy ustalaniu podstawy wymiaru emerytury lub renty inwalidzkiej nie uwzględnia się zmniejszenia wysokości uposażenia, o którym mowa w ust. 1 i 1a, w związku z przebywaniem na zwolnieniu lekarskim, urlopie macierzyńskim, urlopie na warunkach urlopu macierzyńskiego, uzupełniającym urlopie macierzyńskim, urlopie ojcowskim, urlopie rodzicielskim, urlopie opiekuńczym oraz urlopie wychowawczym.
 
 **Art. 6.** Emerytury i renty oraz podstawy ich wymiaru podlegają waloryzacji na zasadach i w terminach przewidzianych w ustawie o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, z tym że:
+
+- **1)** waloryzacja, o której mowa w art. 88 tej ustawy, obejmuje emerytury i renty osób:
+    - **a)** którym prawo do świadczenia ustalono przed dniem 1 marca,
+    - **b)** które nabyły prawo do renty rodzinnej po funkcjonariuszach zmarłych niepóźniej niż w ostatnim dniu lutego.
+
+- **2)** (uchylony)
 
 **Art. 7.**
 
@@ -315,6 +330,9 @@ Art. 52–56. (pominięte)
 
 **Art. 13c.** Za służbę na rzecz totalitarnego państwa nie uznaje się służby w rozumieniu art. 13b:
 
+- **1)** która rozpoczęła się po raz pierwszy niewcześniej niż w dniu 12 września 1989 r.;
+- **2)** której obowiązek wynikał z przepisów o powszechnym obowiązku obrony.
+
 **Art. 14.**
 
 1. Emerytowi uprawnionemu do emerytury obliczonej na podstawie art. 15 lub art. 15e dolicza się na jego wniosek do wysługi emerytalnej, z zastrzeżeniem ust. 2, następujące okresy przypadające po zwolnieniu ze służby:
@@ -379,6 +397,25 @@ Art. 52–56. (pominięte)
 - **2)** bezpośredniej ochrony i opieki nad osadzonymi w oddziałach dla nosicieli wirusa HIV, dla osadzonych wymagających stosowania szczególnych środków leczniczo-wychowawczych i osadzonych szczególnie niebezpiecznych w okresie do dnia 31 sierpnia 1998 r. oraz w oddziałach dla osadzonych niebezpiecznych i w oddziałach terapeutycznych dla skazanych z zaburzeniami psychicznymi lub upośledzonych umysłowo po dniu 1 września 1998 r., oraz okresy pełnienia służby na froncie w czasie wojny i w strefie działań wojennych.
 
 **Art. 15a.** Emerytura dla funkcjonariusza, który został przyjęty do służby po raz pierwszy po dniu 1 stycznia 1999 r., wynosi 40 % podstawy jej wymiaru za 15 lat służby i wzrasta na zasadach określonych w art. 15 ust. 1 pkt 1 i ust. 2–5. Art. 15aa. 1. Emerytura dla funkcjonariusza, który został przyjęty do służby po raz pierwszy w okresie po dniu 1 stycznia 1999 r. i przed dniem 1 października 2003 r., wynosi 40 % podstawy jej wymiaru za 15 lat służby i wzrasta o 2,6 % podstawy wymiaru za każdy dalszy rok tej służby. 2. Emeryturę podwyższa się na zasadach określonych w art. 15 ust. 2–5. 3. Emerytura dla funkcjonariusza, o którym mowa w ust. 1, który w dniu zwolnienia ze służby posiada co najmniej 25 lat służby i okresów z nią równorzędnych, o których mowa w art. 13 ust. 1 pkt 1, 1d, 2 lub 5–8, wzrasta również o 1,3 % podstawy wymiaru za każdy rok poprzedzających służbę:
+
+- **1)** okresów składkowych;
+- **2)** okresów opłacania składek na ubezpieczenia emerytalne i rentowe po dniu 31 grudnia 1998 r. lub okresów nieopłacania składek z powodu przekroczenia w trakcie roku kalendarzowego kwoty rocznej podstawy wymiaru składek na te ubezpieczenia.
+
+4. Emerytowi uprawnionemu do emerytury obliczonej na podstawie ust. 1–3, spełniającemu warunek, o którym mowa w ust. 3, dolicza się na jego wniosek do wysługi emerytalnej przypadające po zwolnieniu ze służby okresy opłacania składek na ubezpieczenia emerytalne i rentowe po dniu 31 grudnia 1998 r. lub okresy nieopłacania składek z powodu przekroczenia w trakcie roku kalendarzowego kwoty rocznej podstawy wymiaru składek na te ubezpieczenia.
+
+5. Okresy, o których mowa w ust. 4, dolicza się do wysługi emerytalnej, jeżeli emerytura wynosi mniej niż 75 % podstawy jej wymiaru.
+
+6. Za każdy rok okresów, o których mowa w ust. 4, doliczanych do wysługi emerytalnej zgodnie z ust. 4 i 5, emeryturę obliczoną na podstawie ust. 1–3, zwiększa się o 1,3 % podstawy jej wymiaru.
+
+7. Ponowne ustalenie wysokości emerytury przez doliczenie nieuwzględnionych dotychczas w wymiarze świadczenia okresów, o których mowa w ust. 4, następuje z uwzględnieniem pełnych miesięcy na wniosek zgłoszony niewcześniej niż po zakończeniu kwartału kalendarzowego, jeżeli emeryt pozostaje w ubezpieczeniu, chyba że ubezpieczenie ustało w kwartale kalendarzowym.
+
+8. W razie przyznania podwyższenia, o którym mowa w ust. 3, lub zwiększenia, o którym mowa w ust. 6, umowa między członkiem otwartego funduszu emerytalnego a tym funduszem ulega rozwiązaniu, a środki zgromadzone na rachunku członka w otwartym funduszu emerytalnym są niezwłocznie przekazywane na dochody budżetu państwa.
+
+9. Przekazanie środków, o których mowa w ust. 8, na dochody budżetu państwa następuje na podstawie zawiadomienia organu emerytalnego. Art. 15ab. 1. Funkcjonariusz, o którym mowa w art. 15aa, ma prawo wyboru sposobu ustalenia emerytury na zasadach i w wysokości określonych w art. 15a albo w art. 15aa, albo w art. 15d.
+
+2. Oświadczenie o wyborze, o którym mowa w ust. 1, składa się do organu emerytalnego najpóźniej w dniu złożenia wniosku o ustalenie prawa do zaopatrzenia emerytalnego.
+
+3. W przypadku niedokonania wyboru, o którym mowa w ust. 1, emeryturę ustala się na zasadach i w wysokości określonych w art. 15a albo w art. 15d.
 
 **Art. 15b.** (uchylony)
 
@@ -549,6 +586,10 @@ Art. 52–56. (pominięte)
 #### Rozdział 2 Renta inwalidzka
 
 **Art. 19.** Renta inwalidzka przysługuje funkcjonariuszowi zwolnionemu ze służby, który stał się inwalidą wskutek stałego lub długotrwałego naruszenia sprawności organizmu:
+
+- **1)** w czasie pełnienia służby albo
+- **2)** w ciągu 18 miesięcy po zwolnieniu ze służby, jeżeli inwalidztwo jest następstwem urazów doznanych w czasie pełnienia służby lub chorób powstałych w tym czasie;
+- **3)** w ciągu 3 lat po zwolnieniu ze służby, jeżeli inwalidztwo jest następstwem wypadku pozostającego w związku z pełnieniem służby albo choroby powstałej w związku ze szczególnymi właściwościami lub warunkami służby.
 
 **Art. 20.**
 
@@ -905,6 +946,10 @@ Art. 52–56. (pominięte)
 **Art. 37.** W sprawach świadczeń przewidzianych w ustawie osoby zainteresowane i organy emerytalne są zwolnione od wszelkich opłat.
 
 **Art. 38.** Minister właściwy do spraw wewnętrznych po zasięgnięciu opinii ministra właściwego do spraw finansów publicznych, Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu, Szefa Centralnego Biura Antykorupcyjnego i Szefa Kancelarii Sejmu, Minister Obrony Narodowej po zasięgnięciu opinii Szefa Służby Kontrwywiadu Wojskowego i Szefa Służby Wywiadu Wojskowego oraz Minister Sprawiedliwości, każdy w zakresie swojego działania, określą, w drodze rozporządzenia:
+
+- **1)** tryb postępowania i właściwość organów w sprawach zaopatrzenia emerytalnego funkcjonariuszy oraz uprawnionych członków ich rodzin, wskazując elementy wniosku o ustalenie prawa do zaopatrzenia, dowody niezbędne do ustalenia prawa do świadczenia oraz sposób i terminy wypłaty świadczeń,
+- **2)** podmioty uprawnione do wypłaty zasiłku pogrzebowego i tryb jego refundacji,
+- **3)** wzór i tryb wydawania legitymacji emeryta−rencisty policyjnego, uwzględniając organ uprawniony do wydawania, wymiany i dokonywania wpisów, w tym wpisu o niezdolności do samodzielnej egzystencji, oraz przypadki wymiany legitymacji, mając na względzie zapewnienie realizacji prawa emeryta i rencisty do zaopatrzenia emerytalnego oraz zapewnienie sprawności postępowania w tym zakresie.
 
 **Art. 38a.**
 

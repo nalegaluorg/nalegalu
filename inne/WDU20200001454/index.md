@@ -8,12 +8,10 @@ pos: 1454
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o wskazaniu organu prowadzącego punkt kontaktowy do spraw produktów oraz o odpowiedzialności za naruszenie przepisów rozporządzenia w sprawie wzajemnego uznawania towarów zgodnie z prawem wprowadzonych do obrotu w innym państwie członkowskim
-
-*USTAWA z dnia 14 sierpnia 2020 r.*
+# Ustawa z dnia 14 sierpnia 2020 r. o wskazaniu organu prowadzącego punkt kontaktowy do spraw produktów oraz o odpowiedzialności za naruszenie przepisów rozporządzenia w sprawie wzajemnego uznawania towarów zgodnie z prawem wprowadzonych do obrotu w innym państwie członkowskim
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,14 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2020-08-14 |
 | Data wydania | 2020-08-26 |
+| Wejście w życie | 2020-09-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001454) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1454/text.pdf) |
 
 **Art. 1.** Ustawa określa:
+
+- **1)** organ właściwy do prowadzenia punktu kontaktowego do spraw produktów, o którym mowa w art. 9 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/515 z dnia 19 marca 2019 r. w sprawie wzajemnego uznawania towarów zgodnie z prawem wprowadzonych do obrotu w innym państwie członkowskim oraz uchylającego rozporządzenie (WE) nr 764/2008 (Dz. Urz. UE L 91 z 29.03.2019, str. 1), zwanego dalej „rozporządzeniem 2019/515”;
+- **2)** zasady odpowiedzialności za naruszenie przepisów rozporządzenia 2019/515.
 
 **Art. 2.** Minister właściwy do spraw gospodarki prowadzi punkt kontaktowy do spraw produktów, o którym mowa w art. 9 rozporządzenia 2019/515.
 

@@ -8,10 +8,10 @@ pos: 2479
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Warszawa, 29 grudnia ROZPORZĄDZENIE MINISTRA FINANSÓW 21 grudnia sprawie dokumentacji cen transferowych podatku dochodowego od osób prawnych Na podstawie ust. 15 lutego 1992 o podatku dochodowym od osób prawnych (Dz. U.
+# Rozporządzenie Ministra Finansówz dnia 21 grudnia 2018 r. w sprawie dokumentacji cen transferowych w zakresie podatku dochodowego od osób prawnych
 
 | Pole | Wartość |
 |---|---|
@@ -22,31 +22,122 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-21 |
 | Data wydania | 2018-12-29 |
+| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002479) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2479/text.pdf) |
 
-poz. 1036, późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowy zakres elementów lokalnej dokumentacji cen transferowych i grupowej dokumentacji cen transferowych.
-§ 2. Lokalna dokumentacja cen transferowych obejmuje:
-1) opisu podmiotu powiązanego, o którym ust. 1 1 15 lutego 1992 o podatku dochodowym od osób prawnych, zwanej dalej „ustawą”: opis struktury zarządczej i schemat organizacyjny podmiotu powiązanego,
-b) opis podstawowej działalności podmiotu powiązanego, tym: wskazanie przedmiotu prowadzonej działalności, wskazanie rynków geograficznych, na podmiot powiązany prowadzi działalność, opis branży i otoczenia rynkowego, ramach podmiot powiązany prowadzi działalność, ze wskazaniem wpływu warunków ekonomicznych i regulacyjnych oraz wskazaniem kluczowych konkurentów, opis strategii gospodarczej, informację o istotnych ekonomicznie funkcjach, aktywach lub ryzykach, mających wpływ na podmiot powiązany, które zostały przeniesione roku obrotowym i roku poprzedzającym rok obrotowy, jeżeli takie przeniesienie nastąpiło;
-2) opisu transakcji, tym analizy funkcji, ryzyk i aktywów, o którym ust. 1 2 ustawy: przedmiot i rodzaj transakcji kontrolowanej,
-b) informację o podmiotach powiązanych uczestniczących dokonaniu transakcji kontrolowanej zawierającą: nazwę i siedzibę lub miejsce zarządu, numer identyfikacji podatkowej, a przypadku jego braku inny numer identyfikacyjny określeniem jego rodzaju, wskazanie przedmiotu podstawowej działalności, rodzaj powiązań występujących pomiędzy tymi podmiotami, angażowanych aktywów,
-d) sposób kalkulacji ceny transferowej, przyjętymi założeniami,
-e) wartość transakcji kontrolowanej, określoną zgodnie 11l ust. 2 ustawy, podziałem na kontrahentów,
-f) otrzymane lub przekazane płatności związane transakcją kontrolowaną, tym dokonane potrącenia wzajemnych wierzytelności,
-g) umowy, porozumienia wewnątrzgrupowe lub inne dokumenty dotyczące transakcji kontrolowanej,
-h) porozumienia lub interpretacje podatkowe dotyczące transakcji kontrolowanej, tym uprzednie porozumienia cenowe, zawarte administracjami podatkowymi państw innych niż Rzeczpospolita Polska lub wydane przez te administracje;
-3) analizy cen transferowych, o której ust. 1 3 ustawy: wskazanie metody, o której 11d ust. 1 i 2 ustawy, zastosowanej weryfikacji ceny transferowej, ze zwięzłym uzasadnieniem wyboru,
-b) wskazanie strony lub transakcji podlegającej badaniu ramach analizy cen transferowych, jeżeli wynika to metody wskazanej zgodnie lit. a, uzasadnieniem wyboru,
-c) opis analizy porównawczej, o której ust. 1 3 lit. a ustawy, przeprowadzonej wykorzystaniem metody wskazanej zgodnie lit. a, zawierający: opis procesu wyszukiwania i doboru danych oraz wskazanie źródeł tych danych, uzasadnieniem doboru kryteriów wyszukiwania oraz istotnych założeń przyjętych na potrzeby dokonania tej analizy, dane porównawcze przedstawione postaci elektronicznej umożliwiającej ich edycję, grupowanie, sortowanie i przeprowadzanie weryfikacji wykonanych obliczeń, tym wskaźniki finansowe, przyjęte oraz odrzucone ramach tej analizy, ich opisem, odnoszące się transakcji zawieranych przez podmiot powiązany podmiotem niepowiązanym (dane wewnętrzne) albo zawieranych pomiędzy podmiotami niepowiązanymi (dane zewnętrzne), jeżeli są dostępne, uzasadnienie powodów przyjęcia tej analizy danych wielu lat lub jednego roku, uzasadnienie wyboru wskaźnika finansowego przyjętego tej analizy, jeżeli został zastosowany, opis korekty porównywalności uzasadnieniem, jeżeli została zastosowana, wskazanie wyznaczonego wyniku tej analizy punktu lub przedziału opisem miar statystycznych, jeżeli zostały zastosowane,
-d) opis analizy zgodności, o której ust. 1 3 lit. b ustawy, jeżeli na podstawie ust. 1 3 lit. a nie jest sporządzany opis analizy porównawczej, przy czym przypadku wskazania zgodnie lit. a metody stanowiącej technikę wyceny opis tej analizy zawiera: uzasadnienie wyboru zastosowanej techniki wyceny, opis źródeł danych wykorzystanych wyceny, opis oraz uzasadnienie założeń przyjętych wyceny, szczególności założeń wskaźników stosowanych wycenie oraz opis sposobu kalkulacji tych wskaźników, opis oraz uzasadnienie założeń przyjętych prognoz, opis źródła wykorzystanych danych oraz wskazanie celu prognozy przypadku gdy zastosowanie techniki wyceny wymaga zastosowania prognozy, analizę wrażliwości wskazującą wpływ zmian poszczególnych założeń na wynik wyceny, uzasadnienie przyjętego punktu przedziału wartości przedmiotu transakcji kontrolowanej, § 3. Grupowa dokumentacja cen transferowych obejmuje:
-1) opisu grupy kapitałowej, o którym ust. 2 1 ustawy: opis lub schemat struktury właścicielskiej grupy kapitałowej podaniem nazwy i siedziby lub miejsca zarządu podmiotów wchodzących jej skład,
-b) opis przedmiotu i zakresu działalności prowadzonej przez grupę kapitałową, zawierający: opis najistotniejszych czynników decydujących o przewadze konkurencyjnej i możliwościach rozwoju grupy kapitałowej, opis lub schemat łańcucha wartości dla pięciu najistotniejszych pod względem przychodów grup produktów lub usług oraz takich grup produktów lub usług, przychody stanowią powyżej 5% skonsolidowanych przychodów grupy kapitałowej, ze wskazaniem głównych rynków geograficznych dla tych grup produktów lub usług, wyszczególnienie i zwięzły opis istotnych umów lub porozumień zawieranych między podmiotami powiązanymi grupy kapitałowej, usług, innych niż usługi dotyczące badań i rozwoju, zawierający szczególności opis zdolności głównych usługodawców świadczenia istotnych usług wewnątrzgrupowych oraz informację polityki cen transferowych grupy odniesieniu alokacji kosztów usług wewnątrzgrupowych i zasad ustalania cen za te usługi, zwięzły słowny opis analizy funkcjonalnej przedstawiający istotny udział podmiotów powiązanych tworzeniu wartości ramach grupy kapitałowej, tym istotne funkcje pełnione przez te podmioty powiązane, ponoszone przez nie istotne ryzyka i angażowane istotne aktywa, informację o istotnych transakcjach restrukturyzacji oraz transakcjach związanych ze zmianami własnościowymi, tym przejęciach, połączeniach i likwidacjach, przeprowadzonych sprawozdawczym roku obrotowym grupy kapitałowej;
-2) opisu istotnych wartości niematerialnych i prawnych grupy kapitałowej, o którym ust. 2 2 ustawy: ogólny opis strategii grupy kapitałowej tworzenia, rozwoju, własności oraz wykorzystania wartości niematerialnych i prawnych informacją o lokalizacji istotnych ośrodków badawczo-rozwojowych oraz lokalizacji ośrodków zarządzających funkcjami badawczo-rozwojowymi,
-b) wykaz wartości niematerialnych i prawnych lub ich grup istotnych punktu widzenia cen transferowych ze wskazaniem podmiotów posiadających tytuły prawne tych wartości,
-c) wykaz istotnych umów lub porozumień zawartych pomiędzy podmiotami powiązanymi grupy kapitałowej dotyczących wartości niematerialnych i prawnych, tym umów o podziale kosztów, umów o prowadzenie prac badawczo-rozwojowych i umów licencyjnych,
-d) opis polityki cen transferowych grupy kapitałowej działalności badawczo-rozwojowej oraz wartości niematerialnych i prawnych,
-e) ogólny opis istotnych zmian kontroli i własności wartości niematerialnych i prawnych oraz korzystania tych wartości, ze wskazaniem zaangażowanych podmiotów, ich siedziby lub miejsca zarządu oraz wypłaconego tytułu tych zmian wynagrodzenia lub rekompensaty;
-3) opisu istotnych transakcji finansowych grupy kapitałowej, o którym ust. 2 3 ustawy: ogólny opis sposobu finansowania działalności grupy kapitałowej, tym informacje o istotnych umowach dotyczących finansowania zawartych podmiotami niepowiązanymi,
-b) wskazanie podmiotów pełniących funkcje centralnego finansowania ramach grupy kapitałowej oraz § 4. Rozporządzenie wchodzi życie dniem 1 stycznia 2019 Minister Finansów: wz. T. Robaczyński
+Treść rozporządzenia
+Na podstawie art. 11q ust. 4 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2018 r. poz. 1036, z późn. zm.) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa szczegółowy zakres elementów lokalnej dokumentacji cen transferowych i grupowej dokumentacji cen transferowych.
+§ 2.
+Lokalna dokumentacja cen transferowych obejmuje:
+1)
+w zakresie opisu podmiotu powiązanego, o którym mowa w art. 11q ust. 1 pkt 1 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, zwanej dalej „ustawą”:
+a)
+opis struktury zarządczej i schemat organizacyjny podmiotu powiązanego,
+b)
+opis podstawowej działalności podmiotu powiązanego, w tym:
+– wskazanie przedmiotu prowadzonej działalności,
+– wskazanie rynków geograficznych, na których podmiot powiązany prowadzi działalność,
+– opis branży i otoczenia rynkowego, w ramach których podmiot powiązany prowadzi działalność, ze wskazaniem wpływu warunków ekonomicznych i regulacyjnych oraz wskazaniem kluczowych konkurentów,
+– opis strategii gospodarczej,
+– informację o istotnych ekonomicznie funkcjach, aktywach lub ryzykach, mających wpływ na podmiot powiązany, które zostały przeniesione w roku obrotowym i w roku poprzedzającym rok obrotowy, jeżeli takie przeniesienie nastąpiło;
+2)
+w zakresie opisu transakcji, w tym analizy funkcji, ryzyk i aktywów, o którym mowa w art. 11q ust. 1 pkt 2 ustawy:
+a)
+przedmiot i rodzaj transakcji kontrolowanej,
+b)
+informację o podmiotach powiązanych uczestniczących w dokonaniu transakcji kontrolowanej zawierającą:
+– nazwę i siedzibę lub miejsce zarządu,
+– numer identyfikacji podatkowej, a w przypadku jego braku – inny numer identyfikacyjny wraz z określeniem jego rodzaju,
+– wskazanie przedmiotu podstawowej działalności,
+– rodzaj powiązań występujących pomiędzy tymi podmiotami,
+c)
+analizę funkcjonalną podmiotów powiązanych uczestniczących w dokonaniu transakcji kontrolowanej, z uwzględnieniem istotnych zmian w porównaniu do poprzedniego roku obrotowego, zawierającą opis:
+– wykonywanych funkcji,
+– ponoszonych ryzyk, w tym zdolności do ich ponoszenia,
+– angażowanych aktywów,
+d)
+sposób kalkulacji ceny transferowej, wraz z przyjętymi założeniami,
+e)
+wartość transakcji kontrolowanej, określoną zgodnie z art. 11l ust. 2 ustawy, z podziałem na kontrahentów,
+f)
+otrzymane lub przekazane płatności związane z transakcją kontrolowaną, w tym dokonane potrącenia wzajemnych wierzytelności,
+g)
+umowy, porozumienia wewnątrzgrupowe lub inne dokumenty dotyczące transakcji kontrolowanej,
+h)
+porozumienia lub interpretacje podatkowe dotyczące transakcji kontrolowanej, w tym uprzednie porozumienia cenowe, zawarte z administracjami podatkowymi państw innych niż Rzeczpospolita Polska lub wydane przez te administracje;
+3)
+w zakresie analizy cen transferowych, o której mowa w art. 11q ust. 1 pkt 3 ustawy:
+a)
+wskazanie metody, o której mowa w art. 11d ust. 1 i 2 ustawy, zastosowanej do weryfikacji ceny transferowej, wraz ze zwięzłym uzasadnieniem wyboru,
+b)
+wskazanie strony lub transakcji podlegającej badaniu w ramach analizy cen transferowych, jeżeli wynika to z metody wskazanej zgodnie z lit. a, wraz z uzasadnieniem wyboru,
+c)
+opis analizy porównawczej, o której mowa w art. 11q ust. 1 pkt 3 lit. a ustawy, przeprowadzonej z wykorzystaniem metody wskazanej zgodnie z lit. a, zawierający:
+– opis procesu wyszukiwania i doboru danych oraz wskazanie źródeł tych danych, wraz z uzasadnieniem doboru kryteriów wyszukiwania oraz istotnych założeń przyjętych na potrzeby dokonania tej analizy,
+– dane porównawcze przedstawione w postaci elektronicznej umożliwiającej ich edycję, grupowanie, sortowanie i przeprowadzanie weryfikacji wykonanych obliczeń, w tym wskaźniki finansowe, przyjęte oraz odrzucone w ramach tej analizy, wraz z ich opisem, odnoszące się do transakcji zawieranych przez podmiot powiązany z podmiotem niepowiązanym (dane wewnętrzne) albo zawieranych pomiędzy podmiotami niepowiązanymi (dane zewnętrzne), jeżeli są dostępne,
+– uzasadnienie powodów przyjęcia do tej analizy danych z wielu lat lub z jednego roku,
+– uzasadnienie wyboru wskaźnika finansowego przyjętego do tej analizy, jeżeli został zastosowany,
+– opis korekty porównywalności wraz z uzasadnieniem, jeżeli została zastosowana,
+– wskazanie wyznaczonego w wyniku tej analizy punktu lub przedziału wraz z opisem miar statystycznych, jeżeli zostały zastosowane,
+d)
+opis analizy zgodności, o której mowa w art. 11q ust. 1 pkt 3 lit. b ustawy, jeżeli na podstawie art. 11q ust. 1 pkt 3 lit. a ustawy nie jest sporządzany opis analizy porównawczej, przy czym w przypadku wskazania zgodnie z lit. a metody stanowiącej technikę wyceny opis tej analizy zawiera:
+– uzasadnienie wyboru zastosowanej techniki wyceny,
+– opis źródeł danych wykorzystanych do wyceny,
+– opis oraz uzasadnienie założeń przyjętych do wyceny, w szczególności założeń do wskaźników stosowanych w wycenie oraz opis sposobu kalkulacji tych wskaźników,
+– opis oraz uzasadnienie założeń przyjętych do prognoz, opis źródła wykorzystanych danych oraz wskazanie celu prognozy – w przypadku gdy zastosowanie techniki wyceny wymaga zastosowania prognozy,
+– analizę wrażliwości wskazującą wpływ zmian poszczególnych założeń na wynik wyceny,
+– uzasadnienie przyjętego punktu z przedziału wartości przedmiotu transakcji kontrolowanej,
+e)
+odniesienie ceny transferowej do wyniku analiz, o których mowa w art. 11q ust. 1 pkt 3 ustawy, wraz z uzasadnieniem odchyleń, jeżeli wystąpiły;
+4)
+w zakresie informacji finansowych, o których mowa w art. 11q ust. 1 pkt 4 ustawy:
+a)
+zatwierdzone sprawozdanie finansowe dotyczące roku obrotowego sporządzone na podstawie przepisów o rachunkowości,
+b)
+opis umożliwiający przyporządkowanie danych finansowych dotyczących transakcji kontrolowanej do pozycji sprawozdania finansowego, o którym mowa w lit. a, lub do innych informacji w nim zawartych.
+§ 3.
+Grupowa dokumentacja cen transferowych obejmuje:
+1)
+w zakresie opisu grupy kapitałowej, o którym mowa w art. 11q ust. 2 pkt 1 ustawy:
+a)
+opis lub schemat struktury właścicielskiej grupy kapitałowej wraz z podaniem nazwy i siedziby lub miejsca zarządu podmiotów wchodzących w jej skład,
+b)
+opis przedmiotu i zakresu działalności prowadzonej przez grupę kapitałową, zawierający:
+– opis najistotniejszych czynników decydujących o przewadze konkurencyjnej i możliwościach rozwoju grupy kapitałowej,
+– opis lub schemat łańcucha wartości dla pięciu najistotniejszych pod względem przychodów grup produktów lub usług oraz takich grup produktów lub usług, z których przychody stanowią powyżej 5% skonsolidowanych przychodów grupy kapitałowej, wraz ze wskazaniem głównych rynków geograficznych dla tych grup produktów lub usług,
+– wyszczególnienie i zwięzły opis istotnych umów lub porozumień zawieranych między podmiotami powiązanymi grupy kapitałowej, w zakresie usług, innych niż usługi dotyczące badań i rozwoju, zawierający w szczególności opis zdolności głównych usługodawców do świadczenia istotnych usług wewnątrzgrupowych oraz informację w zakresie polityki cen transferowych grupy w odniesieniu do alokacji kosztów usług wewnątrzgrupowych i zasad ustalania cen za te usługi,
+– zwięzły słowny opis analizy funkcjonalnej przedstawiający istotny udział podmiotów powiązanych w tworzeniu wartości w ramach grupy kapitałowej, w tym istotne funkcje pełnione przez te podmioty powiązane, ponoszone przez nie istotne ryzyka i angażowane istotne aktywa,
+– informację o istotnych transakcjach restrukturyzacji oraz transakcjach związanych ze zmianami własnościowymi, w tym przejęciach, połączeniach i likwidacjach, przeprowadzonych w sprawozdawczym roku obrotowym grupy kapitałowej;
+2)
+w zakresie opisu istotnych wartości niematerialnych i prawnych grupy kapitałowej, o którym mowa w art. 11q ust. 2 pkt 2 ustawy:
+a)
+ogólny opis strategii grupy kapitałowej w zakresie tworzenia, rozwoju, własności oraz wykorzystania wartości niematerialnych i prawnych wraz z informacją o lokalizacji istotnych ośrodków badawczo-rozwojowych oraz lokalizacji ośrodków zarządzających funkcjami badawczo-rozwojowymi,
+b)
+wykaz wartości niematerialnych i prawnych lub ich grup istotnych z punktu widzenia cen transferowych wraz ze wskazaniem podmiotów posiadających tytuły prawne do tych wartości,
+c)
+wykaz istotnych umów lub porozumień zawartych pomiędzy podmiotami powiązanymi grupy kapitałowej dotyczących wartości niematerialnych i prawnych, w tym umów o podziale kosztów, umów o prowadzenie prac badawczo-rozwojowych i umów licencyjnych,
+d)
+opis polityki cen transferowych grupy kapitałowej w zakresie działalności badawczo-rozwojowej oraz wartości niematerialnych i prawnych,
+e)
+ogólny opis istotnych zmian w zakresie kontroli i własności wartości niematerialnych i prawnych oraz korzystania z tych wartości, wraz ze wskazaniem zaangażowanych podmiotów, ich siedziby lub miejsca zarządu oraz wypłaconego z tytułu tych zmian wynagrodzenia lub rekompensaty;
+3)
+w zakresie opisu istotnych transakcji finansowych grupy kapitałowej, o którym mowa w art. 11q ust. 2 pkt 3 ustawy:
+a)
+ogólny opis sposobu finansowania działalności grupy kapitałowej, w tym informacje o istotnych umowach dotyczących finansowania zawartych z podmiotami niepowiązanymi,
+b)
+wskazanie podmiotów pełniących funkcje w zakresie centralnego finansowania w ramach grupy kapitałowej oraz ich siedziby i miejsca sprawowania faktycznego zarządu,
+c)
+ogólny opis polityki cen transferowych w zakresie finansowania pomiędzy podmiotami powiązanymi;
+4)
+w zakresie informacji finansowych i podatkowych grupy kapitałowej, o których mowa w art. 11q ust. 2 pkt 4 ustawy:
+a)
+roczne skonsolidowane sprawozdanie grupy kapitałowej,
+b)
+wykaz i zwięzły opis zawartych przez podmioty powiązane grupy kapitałowej jednostronnych uprzednich porozumień cenowych lub innych interpretacji podatkowych dotyczących przypisania dochodu pomiędzy państwami.
+§ 4.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
+1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1162, 1291, 1629, 1669, 1693, 2073, 2159, 2192, 2193, 2212, 2215, 2243, 2244, 2245 i 2429. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 12 września 2017 r. w sprawie informacji zawartych w dokumentacji podatkowej w zakresie podatku dochodowego od osób prawnych (Dz. U. poz. 1753), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 23 października 2018 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych, ustawy – Ordynacja podatkowa oraz niektórych innych ustaw (Dz. U. poz. 2193).
 

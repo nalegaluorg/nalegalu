@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy Prawo atomowe
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 listopada 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 stycznia 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-01-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000001) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/1/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 listopada 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy Prawo atomowe
 1. Na podstawie art. 16 ust. zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 29 listopada 2000 r. Prawo atomowe (Dz. U. z 2024 r. poz. 1277), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 27 listopada 2024 r. o zmianie ustawy o Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (Dz. U. poz. 1897),
 2) ustawą z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907) oraz zmian wynikających z przepisów ogłoszonych przed dniem 3 listopada 2025 r.
@@ -68,6 +68,132 @@ Prawo atomowe
 **Art. 2.** Wykonywanie działalności, o której mowa w art. ust. pkt i ust. 3, jest dopuszczalne po zastosowaniu określonych w przepisach środków dla zapewnienia bezpieczeństwa oraz ochrony życia i zdrowia ludzi, jak również bezpieczeństwa mienia i ochrony środowiska.
 
 **Art. 3.** W rozumieniu niniejszej ustawy użyte określenia oznaczają:
+
+- **1)** audyt kliniczny systematyczną kontrolę lub przegląd medycznych procedur radiologicznych, mające na celu polepszenie jakości udzielanych pacjentowi świadczeń zdrowotnych poprzez usystematyzowaną analizę, w ramach której praktyka, procedury i wyniki radiologiczne są porównywane z uznanymi standardami oraz, w razie konieczności, modyfikację dotychczasowego postępowania lub wprowadzenie nowych standardów;
+- **1a)** awaria projektowa warunki awaryjne obiektu jądrowego uwzględnione w projekcie obiektu jądrowego zgodnie z ustalonymi wymaganiami projektowania, w których uszkodzenie paliwa oraz uwolnienia substancji promieniotwórczych są utrzymywane w ustalonych granicach;
+- **1b)** badanie przesiewowe badanie diagnostyczne z wykorzystaniem urządzeń radiologicznych przeprowadzane w celu wczesnego diagnozowania chorób w grupach ryzyka;
+- **2)** bezpieczeństwo jądrowe osiągnięcie odpowiednich warunków eksploatacji, zapobieganie awariom i łagodzenie ich skutków, czego wynikiem jest ochrona pracowników i ludności przed zagrożeniami wynikającymi z promieniowania jonizującego z obiektów jądrowych;
+- **2a)** ciężka awaria warunki awaryjne obiektu jądrowego, poważniejsze niż awarie projektowe, prowadzące do znaczącej degradacji rdzenia reaktora i mogące prowadzić do znaczących uwolnień substancji promieniotwórczych;
+- **2b)** członek ekipy awaryjnej osobę pełniącą określoną funkcję podczas zdarzenia radiacyjnego, która może zostać narażona podczas wykonywania zadań w związku ze zdarzeniem radiacyjnym w szczególności pracownika jednostki organizacyjnej, w której wystąpiło zdarzenie radiacyjne, pracownika organu, funkcjonariusza służby lub żołnierza biorącą udział w likwidacji zagrożenia, w tym w działaniach ratowniczych, lub usuwaniu skutków zdarzenia radiacyjnego;
+- **3)** dawka graniczna wartość dawki promieniowania jonizującego, wyrażoną jako:
+    - **a)** dawka skuteczna (efektywna), w tym obciążająca dawka skuteczna (efektywna) określona w załączniku nr do ustawy, lub
+    - **b)** dawka równoważna dla określonych osób, pochodzącej od kontrolowanej działalności zawodowej, której, poza przypadkami przewidzianymi w przepisach ustawy, nie wolno przekroczyć;
+
+- **4)** dawka pochłonięta dawkę pochłoniętą określoną w załączniku nr do ustawy;
+- **5)** dawka równoważna dawkę równoważną określoną w załączniku nr do ustawy;
+- **6)** dawka skuteczna (efektywna) dawkę skuteczną (efektywną) określoną w załączniku nr do ustawy;
+- **6a)** diagnostyczny poziom referencyjny poziom dawki w rentgenodiagnostyce i w radiologii zabiegowej lub, w przypadku produktów radiofarmaceutycznych, poziom aktywności tych produktów w odniesieniu do typowych badań diagnostycznych i zabiegów, którym poddawani są pacjenci o standardowej budowie ciała lub które przeprowadzane są na standardowych fantomach w odniesieniu do szeroko określonych kategorii sprzętu;
+- **6b)** działania interwencyjne działania, które zapobiegają narażeniu lub ograniczają narażenie ludzi, jak również zapobiegają skażeniu lub zmniejszają skażenie środowiska w wyniku zdarzenia radiacyjnego lub sytuacji narażenia istniejącego, polegające na oddziaływaniu na źródło promieniowania jonizującego, źródło skażeń promieniotwórczych, drogi rozprzestrzeniania skażeń promieniotwórczych, ludzi oraz na środowisko;
+- **6c)** działania naprawcze usunięcie źródła promieniowania jonizującego lub ograniczenie wartości jego aktywności lub ilości, przerwanie dróg narażenia lub ograniczenie wpływu tych dróg w celu uniknięcia lub ograniczenia dawek, które mogłyby zostać otrzymane w sytuacji narażenia istniejącego;
+- **6d)** ekspozycja medyczna ekspozycję na promieniowanie jonizujące osób w ramach medycznych procedur radiologicznych, mającą na celu przyniesienie korzyści dla ich zdrowia, a także ekspozycję opiekunów oraz osób uczestniczących w eksperymentach medycznych lub badaniach klinicznych;
+- **6e)** ekspozycja niezamierzona ekspozycję medyczną, która w znaczącym stopniu różni się od ekspozycji medycznej przewidzianej dla danego celu;
+- **6f)** elektrownia jądrowa obiekt służący do wytwarzania energii elektrycznej lub ciepła z paliwa jądrowego do celów innych niż badawcze;
+- **7)** (uchylony) 7 ) funkcja bezpieczeństwa funkcję, którą dla zapewnienia bezpieczeństwa wypełnia system, element konstrukcji lub element wyposażenia obiektu jądrowego;
+- **7a)** jednostka ochrony zdrowia jednostkę organizacyjną będącą podmiotem wykonującym działalność leczniczą w rozumieniu art. 2 ust. pkt 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2025 r. poz. 450, 620, 637 i 1211);
+- **8)** jednostka organizacyjna wykonującą działalność związaną z narażeniem:
+    - **a)** osobę fizyczną,
+    - **b)** osobę prawną,
+    - **c)** państwową jednostkę organizacyjną,
+    - **d)** samorządową jednostkę organizacyjną,
+    - **e)** organizację społeczną lub
+    - **f)** niebędącą osobą prawną jednostkę organizacyjną, której ustawa przyznaje zdolność prawną;
+
+- **8a)** lekarz kierujący lekarza, lekarza dentystę lub inną osobę upoważnioną do kierowania osób na medyczne procedury radiologiczne;
+- **8b)** lekarz prowadzący lekarza, lekarza dentystę lub inną osobę upoważnioną do przyjęcia odpowiedzialności za poddanie pacjenta ekspozycji medycznej;
+- **8c)** kultura bezpieczeństwa zespół podstawowych wartości, postaw i zachowań, zarówno grupowych, jak i indywidualnych, nadających priorytet zagadnieniom ochrony i bezpieczeństwa przed innymi celami;
+- **9)** likwidacja obiektu jądrowego doprowadzenie obiektu lub urządzenia do stanu niewymagającego ograniczeń z punktu widzenia bezpieczeństwa jądrowego i ochrony radiologicznej w wykonywaniu dowolnej działalności;
+- **10)** (uchylony) 10a) limity i warunki eksploatacyjne określony w zezwoleniu na wykonywanie działalności związanej z narażeniem, polegającej na rozruchu lub eksploatacji obiektu jądrowego zbiór wymagań, ustalający graniczne wartości parametrów eksploatacyjnych obiektu jądrowego, wymaganą dyspozycyjność funkcjonalną i wydajność urządzeń tego obiektu oraz obsadę pracownikami;
+- **10b)** materiał budowlany wyrób budowlany przeznaczony do włączenia w sposób trwały do budynku lub jego części, którego właściwości użytkowe mają wpływ na właściwości użytkowe budynku w odniesieniu do narażenia jego mieszkańców na promieniowanie jonizujące;
+- **11)** materiał jądrowy rudy, materiały wyjściowe (źródłowe) lub specjalne materiały rozszczepialne, o których mowa w art. 197 Traktatu ustanawiającego Europejską Wspólnotę Energii Atomowej, zwanego dalej „Traktatem Euratom”;
+- **11a)** materiał promieniotwórczy materiał zawierający substancje promieniotwórcze;
+- **12)** medycyna nuklearna działalność diagnostyczną związaną z podawaniem pacjentom produktów radiofarmaceutycznych, a także leczenie polegające na zamierzonym wprowadzeniu do ustroju terapeutycznych ilości produktów radiofarmaceutycznych;
+- **12a)** medyczna pracownia rentgenowska pomieszczenie lub zespół pomieszczeń, przeznaczonych do stosowania aparatów rentgenowskich do celów rentgenodiagnostyki, radiologii zabiegowej, radioterapii powierzchniowej lub radioterapii schorzeń nienowotworowych;
+- **13)** (uchylony)
+- **14)** (uchylony)
+- **15)** narażenie proces, w którym organizm ludzki podlega napromienieniu promieniowaniem jonizującym:
+    - **a)** zewnętrznemu lub jest wystawiony na możliwość takiego napromienienia (narażenie zewnętrzne) lub
+    - **b)** wewnętrznemu lub jest wystawiony na możliwość takiego napromienienia (narażenie wewnętrzne);
+
+- **15a)** narażenie na radon narażenie na pochodne radonu;
+- **15b)** narażenie przypadkowe narażenie w wyniku wypadku osób innych niż członkowie ekip awaryjnych;
+- **16)** narażenie wyjątkowe narażenie członka ekipy awaryjnej w sytuacji zdarzenia radiacyjnego; 16 ) narażenie w wyniku obrazowania pozamedycznego zamierzone narażenie w wyniku obrazowania, którego głównym celem nie jest przyniesienie korzyści zdrowotnej osobie poddawanej narażeniu; 16 ) natychmiastowe działania interwencyjne działania interwencyjne podejmowane bezpośrednio po wystąpieniu zdarzenia radiacyjnego, których opóźnione podjęcie wiązałoby się ze znacznym obniżeniem ich skuteczności;
+- **16a)** normalna eksploatacja eksploatację obiektu jądrowego w zakresie limitów i warunków eksploatacyjnych;
+- **17)** obiekt jądrowy elektrownię jądrową, reaktor badawczy, zakład wzbogacania izotopowego, zakład wytwarzania paliwa jądrowego, zakład przerobu wypalonego paliwa jądrowego, przechowalnik wypalonego paliwa jądrowego, a także bezpośrednio związany z którymkolwiek z tych obiektów i znajdujący się na jego terenie obiekt służący do przechowywania odpadów promieniotwórczych;
+- **18)** objętość tarczowa objętość guza nowotworowego lub innych tkanek, które są napromieniane w celu osiągnięcia planowanego efektu terapeutycznego;
+- **19)** ochrona fizyczna całokształt przedsięwzięć organizacyjnych i technicznych, mających na celu skuteczne zabezpieczenie materiałów jądrowych i obiektów jądrowych przed aktami terroru, dywersji, sabotażu i kradzieży;
+- **20)** ochrona radiologiczna zapobieganie narażeniu ludzi i skażeniu środowiska, a w przypadku braku możliwości zapobieżenia takim sytuacjom ograniczenie ich skutków do poziomu tak niskiego, jak tylko jest to rozsądnie osiągalne, przy uwzględnieniu czynników ekonomicznych, społecznych i zdrowotnych;
+- **21)** ochrona radiologiczna pacjenta zespół czynności i ograniczeń zmierzających do zminimalizowania narażenia pacjenta na promieniowanie jonizujące, które nie będzie nadmiernie utrudniało lub uniemożliwiało uzyskania pożądanych i uzasadnionych informacji diagnostycznych lub efektów leczniczych;
+- **22)** odpady promieniotwórcze materiały stałe, ciekłe lub gazowe, zawierające substancje promieniotwórcze lub skażone tymi substancjami, których wykorzystanie nie jest przewidywane ani rozważane, zakwalifikowane do kategorii odpadów wymienionych w art. 47, w tym wypalone paliwo jądrowe przeznaczone do składowania; niniejsza definicja nie ma zastosowania do rozdziału 8a;
+- **23)** ogranicznik dawki (limit użytkowy dawki) ograniczenie przewidywanych dawek indywidualnych, wyrażonych jako dawki skuteczne (efektywne) lub dawki równoważne, które mogą pochodzić od określonego źródła promieniowania jonizującego, uwzględnione podczas planowania ochrony radiologicznej w celach związanych z optymalizacją;
+- **23a)** operacyjne poziomy interwencyjne poziomy bezpośrednio mierzalnych wartości fizycznych wskazujące na możliwość przekroczenia poziomów interwencyjnych;
+- **23b)** opiekun osobę, która w sposób świadomy i dobrowolny poddaje się narażeniu na działanie promieniowania jonizującego przez pomoc, poza swoją pracą zawodową, we wspieraniu osób poddawanych aktualnie lub w przeszłości ekspozycji medycznej lub przez towarzyszenie tym osobom;
+- **23c)** osoba kierująca działaniami ekipy awaryjnej organ, dowódcę, komendanta, szefa służby, inspekcji i sił zbrojnych, których pracownicy, funkcjonariusze lub żołnierze biorą udział jako członkowie ekip awaryjnych w likwidacji zagrożenia, w tym w działaniach ratowniczych, lub usuwaniu skutków zdarzenia radiacyjnego;
+- **24)** postępowanie z odpadami promieniotwórczymi działania związane z przetwarzaniem, przemieszczaniem, przechowywaniem lub składowaniem odpadów promieniotwórczych, włącznie z odprowadzaniem odpadów promieniotwórczych do środowiska, z wyłączeniem transportu odpadów promieniotwórczych poza terenem jednostki organizacyjnej;
+- **25)** postępowanie z wypalonym paliwem jądrowym działania związane z przerobem, przemieszczaniem lub przechowywaniem wypalonego paliwa jądrowego, z wyłączeniem transportu wypalonego paliwa jądrowego poza terenem jednostki organizacyjnej;
+- **25a)** postulowane zdarzenie inicjujące zdarzenie zidentyfikowane przy projektowaniu obiektu jądrowego jako mogące prowadzić do przewidywanego zdarzenia eksploatacyjnego lub warunków awaryjnych;
+- **26)** poziom interwencyjny liczbową wartość dawki skutecznej lub równoważnej możliwej do uniknięcia albo poziom zawartości izotopów promieniotwórczych w żywności, wodzie przeznaczonej do spożycia przez ludzi i środkach żywienia zwierząt, których możliwość przekroczenia oznacza konieczność rozważenia podjęcia określonych działań interwencyjnych;
+- **26a)** poziom odniesienia poziom dawki skutecznej (efektywnej), dawki równoważnej lub stężenia promieniotwórczego w przypadku zdarzenia radiacyjnego lub w sytuacji narażenia istniejącego, powyżej którego za niewłaściwe uznaje się dopuszczenie do występowania narażenia;
+- **27)** (uchylony)
+- **28)** pracodawca zewnętrzny pracodawcę zatrudniającego pracowników, o których mowa w art. 17 ust. pkt 1, prowadzących dowolną działalność na terenie kontrolowanym u innego pracodawcy;
+- **28a)** pracownia pracownię akceleratorową, pracownię izotopową i pracownię rentgenowską;
+- **28b)** pracownia akceleratorowa zespół pomieszczeń z zainstalowanym akceleratorem, w skład których wchodzi co najmniej jedno pomieszczenie do napromieniania;
+- **28c)** pracownia izotopowa pomieszczenie lub zespół pomieszczeń przeznaczonych do pracy z otwartymi lub zamkniętymi źródłami promieniotwórczymi oraz urządzeniami zawierającymi zamknięte źródła promieniotwórcze;
+- **28d)** pracownia rentgenowska pomieszczenie przeznaczone do pracy z aparatem rentgenowskim lub zespół pomieszczeń składających się przynajmniej z jednego pomieszczenia do pracy z aparatem rentgenowskim;
+- **29)** pracownik pracownika w rozumieniu przepisów Prawa pracy, osobę wykonującą pracę na podstawie innej niż stosunek pracy, jak również osobę wykonującą działalność na własny rachunek, którzy w warunkach narażenia na promieniowanie jonizujące mogą otrzymać dawki przekraczające wartości dawek granicznych określonych dla osób z ogółu ludności;
+- **30)** pracownik zewnętrzny pracownika, zatrudnionego przez pracodawcę zewnętrznego lub wykonującego działalność na własny rachunek, wykonującego dowolną działalność na terenie kontrolowanym lub terenie nadzorowanym, za który nie jest odpowiedzialny ani on, ani jego pracodawca;
+- **31)** praktykant osobę odbywającą szkolenie lub praktykę w jednostce organizacyjnej w celu uzyskania określonych umiejętności;
+- **31a)** produkt radiofarmaceutyczny produkt leczniczy w rozumieniu art. 2 pkt 32 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2025 r. poz. 750, 905, 924 i 1416) zawierający substancję promieniotwórczą;
+- **32)** program zapewnienia jakości system działań gwarantujący spełnienie określonych wymagań bezpieczeństwa jądrowego i ochrony radiologicznej oraz przeprowadzenie sprawnego postępowania w przypadku wystąpienia zdarzenia radiacyjnego w zależności od prowadzonej działalności, a w przypadku działalności z materiałami jądrowymi lub obiektami jądrowymi gwarantujący także spełnienie wymagań ochrony fizycznej;
+- **33)** promieniowanie jonizujące promieniowanie składające się z cząstek bezpośrednio lub pośrednio jonizujących albo z obu rodzajów tych cząstek lub fal elektromagnetycznych o długości do 100 nm (nanometrów);
+- **34)** promieniowanie naturalne promieniowanie jonizujące emitowane ze źródeł pochodzenia naturalnego ziemskiego i kosmicznego;
+- **35)** przechowalnik wypalonego paliwa jądrowego obiekt jądrowy przeznaczony do bezpiecznego, stabilnego i chronionego przechowywania wypalonego paliwa jądrowego po jego wyładowaniu z reaktora lub basenu przy reaktorze, a przed przekazaniem do przerobu lub składowania w charakterze odpadu promieniotwórczego;
+- **36)** przechowywanie odpadów promieniotwórczych lub wypalonego paliwa jądrowego magazynowanie odpadów promieniotwórczych lub wypalonego paliwa jądrowego z zamiarem ponownego ich wydobycia;
+- **37)** przerób wypalonego paliwa jądrowego proces lub działanie zmierzające do wydobycia części lub wszystkich izotopów promieniotwórczych z wypalonego paliwa jądrowego w celu ich dalszego wykorzystania;
+- **38)** przetwarzanie materiałów jądrowych proces lub działanie zmierzające do zmiany postaci fizycznej lub chemicznej (konwersja) materiału jądrowego, począwszy od konwersji rudy uranu lub toru, aż do uzyskania materiału w postaci paliwa jądrowego lub dowolnej postaci, nadającej się do innych zastosowań tych materiałów, w tym przerób wypalonego paliwa jądrowego oraz przetwarzanie odpadów promieniotwórczych zawierających materiały jądrowe;
+- **39)** przetwarzanie odpadów promieniotwórczych proces lub działanie zmierzające do minimalizacji objętości odpadów, segregację odpadów według kategorii lub podkategorii oraz przygotowanie ich do transportu lub składowania;
+- **39a)** przewidywane zdarzenie eksploatacyjne proces eksploatacyjny odbiegający od normalnej eksploatacji, którego wystąpienie jest przewidywane co najmniej jeden raz podczas okresu eksploatacji obiektu jądrowego, ale który dzięki zastosowaniu odpowiednich rozwiązań projektowych nie spowoduje znaczącego uszkodzenia systemów lub elementów konstrukcji lub wyposażenia ważnych dla bezpieczeństwa obiektu jądrowego, a także nie doprowadzi do powstania warunków awaryjnych;
+- **40)** radiologia zabiegowa stosowanie technik obrazowania rentgenowskiego w celu ułatwienia wprowadzania i przemieszczania urządzeń w ciele ludzkim do celów diagnostycznych lub terapeutycznych;
+- **41)** radioterapia działalność terapeutyczną przeprowadzaną promieniowaniem jonizującym, poza metodami medycyny nuklearnej, w tym:
+    - **a)** terapię powierzchniową dla leczenia nowotworów położonych w skórze człowieka oraz terapię głęboką dla leczenia nowotworów i niektórych innych zmian chorobowych położonych w narządach i tkankach o innej lokalizacji (teleradioterapia),
+    - **b)** wprowadzanie źródła promieniotwórczego bezpośrednio do narządów wewnętrznych śródtkankowo, dojamowo lub umieszczanie go na powierzchni ciała pacjenta (brachyterapia);
+
+- **42)** rentgenodiagnostyka wszelką działalność diagnostyczną związaną z wykorzystaniem aparatów rentgenowskich;
+- **43)** skażenie promieniotwórcze niezamierzoną lub niepożądaną obecność substancji promieniotwórczych:
+    - **a)** na powierzchni lub w ciałach stałych, cieczach lub gazach,
+    - **b)** wewnątrz lub na powierzchni ciała ludzkiego;
+
+- **44)** składowanie odpadów promieniotwórczych złożenie odpadów promieniotwórczych w składowisku odpadów promieniotwórczych bez zamiaru ponownego ich wydobycia;
+- **44a)** specjalista w dziedzinie fizyki medycznej specjalistę w dziedzinie fizyki medycznej, o którym mowa w przepisach ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. z 2025 r. poz. 342);
+- **44b)** strefa planowania awaryjnego obszar wokół terenu jednostki organizacyjnej, dla którego planuje się i przygotowuje do podjęcia we właściwym czasie działania interwencyjne, w przypadku wystąpienia w tej jednostce organizacyjnej zdarzenia radiacyjnego powodującego lub mogącego spowodować powstanie zagrożenia poza terenem jednostki organizacyjnej, w celu uniknięcia lub znaczącego ograniczenia skutków radiologicznych zdarzenia radiacyjnego dla zdrowia osób z ogółu ludności;
+- **45)** substancja promieniotwórcza substancję zawierającą jeden lub więcej izotopów promieniotwórczych o takiej aktywności lub stężeniu promieniotwórczym, które nie mogą być pominięte z punktu widzenia ochrony radiologicznej;
+- **46)** (uchylony) 46a) sytuacja narażenia istniejącego sytuację narażenia, która już istnieje w momencie konieczności podjęcia decyzji dotyczącej jej kontroli i która nie wymaga lub przestała wymagać podjęcia pilnych działań;
+- **47)** szkoda dla zdrowia człowieka oszacowane ryzyko skrócenia długości i pogorszenia jakości życia ludzi w następstwie narażenia na promieniowanie jonizujące; obejmuje straty wynikające ze skutków somatycznych, nowotworów i poważnych zaburzeń genetycznych;
+- **47a)** średnioroczne stężenie radonu wartość stężenia radonu oszacowaną na podstawie pomiarów tego stężenia w okresie nie krótszym niż jeden miesiąc, odpowiadającą średniemu stężeniu radonu w powietrzu w okresie roku kalendarzowego;
+- **47b)** teleradiologia elektroniczne przesyłanie obrazów radiologicznych, w celu ich opisu lub konsultacji, z jednego miejsca do innego miejsca za pomocą łączy do transmisji zapewnionych przez dostawcę niezależnego od jednostki ochrony zdrowia, w której obraz powstał; przesyłanie to nie obejmuje przesyłania obrazów na własny użytek w ramach jednostki ochrony zdrowia;
+- **48)** teren kontrolowany teren o kontrolowanym dostępie, objęty specjalnymi przepisami mającymi na celu ochronę przed promieniowaniem jonizującym lub rozprzestrzenianiem się skażeń promieniotwórczych;
+- **49)** teren nadzorowany teren objęty specjalnym nadzorem, w celu ochrony przed promieniowaniem jonizującym;
+- **49a)** typ zamkniętego źródła promieniotwórczego oznaczenie katalogowe źródła lub zespół cech konstrukcyjnych i parametrów fizycznych charakteryzujących punktowe, powierzchniowe oraz liniowe źródło promieniotwórcze, w tym rodzaj wykorzystywanego promieniowania jonizującego;
+- **50)** urządzenia radiologiczne źródła promieniowania jonizującego lub urządzenia służące do detekcji promieniowania jonizującego, wykorzystywane do celów leczniczych lub diagnostycznych; 50 ) uszczerbek na zdrowiu możliwe do klinicznego zaobserwowania u osób lub ich potomstwa szkodliwe skutki, które pojawiają się natychmiast albo z opóźnieniem; w przypadku skutków pojawiających się z opóźnieniem zakłada się prawdopodobieństwo, a nie pewność ich wystąpienia;
+- **50a)** warunki awaryjne odchylenia od normalnej eksploatacji obiektu jądrowego poważniejsze niż przewidywane zdarzenia eksploatacyjne;
+- **50b)** warunki projektowe warunki występujące przy normalnej eksploatacji obiektu jądrowego, przewidywanych zdarzeniach eksploatacyjnych i podczas awarii projektowych, uwzględnione w projekcie obiektu jądrowego, zgodnie z ustalonymi kryteriami projektowania i przy zachowawczym podejściu;
+- **51)** wypalone paliwo jądrowe paliwo jądrowe, które zostało napromieniowane w rdzeniu reaktora oraz na stałe usunięte z rdzenia;
+- **51a)** wyprzedzające działania interwencyjne działania interwencyjne podejmowane przed uwolnieniem substancji promieniotwórczej lub krótko po tym uwolnieniu, lub przed wystąpieniem narażenia, w celu uniknięcia lub ograniczenia wystąpienia poważnych skutków deterministycznych zdarzenia radiacyjnego, na podstawie oceny aktualnego stanu i prognozy rozwoju sytuacji awaryjnej;
+- **51b)** wyrób powszechnego użytku przyrząd lub przedmiot:
+    - **a)** do którego w sposób zamierzony zostały wprowadzone izotopy promieniotwórcze lub w którym zostały one wytworzone przez aktywację, lub
+    - **b)** który wytwarza promieniowanie jonizujące który może być sprzedawany lub udostępniany osobom z ogółu ludności bez nadzoru i kontroli regulacyjnej po sprzedaży lub udostępnieniu;
+
+- **52)** wzbogacanie izotopowe proces polegający na rozdzielaniu izotopów uranu w celu zwiększenia zawartości uranu 235 w produkcie wyjściowym;
+- **53)** zagrożenie narażenie, którego wystąpienie nie jest pewne, lecz które może być skutkiem zdarzenia lub serii zdarzeń o charakterze probabilistycznym, w tym awarii sprzętu i błędów eksploatacyjnych;
+- **54)** zamknięcie składowiska odpadów promieniotwórczych zaprzestanie dostarczania odpadów promieniotwórczych do składowiska, na podstawie decyzji właściwego organu, oraz wykonanie prac koniecznych do zapewnienia bezpieczeństwa składowiska;
+- **54a)** zamknięte źródło promieniotwórcze źródło promieniotwórcze o takiej budowie, która w warunkach określonych dla jego stosowania uniemożliwia przedostanie się do środowiska zawartej w nim substancji promieniotwórczej;
+- **55)** zdarzenie radiacyjne nietypową sytuację lub zdarzenie związane ze źródłem promieniowania jonizującego, wymagające podjęcia pilnych działań interwencyjnych w celu: 55 ) zintegrowany system zarządzania system zarządzania obejmujący elementy związane z bezpieczeństwem, zdrowiem, środowiskiem, zapewnieniem jakości, kwestiami ekonomicznymi oraz ochroną fizyczną, dający priorytet bezpieczeństwu jądrowemu przez zapewnienie, że wszystkie decyzje są podejmowane po analizie ich wpływu na bezpieczeństwo jądrowe, ochronę radiologiczną, ochronę fizyczną i zabezpieczenia materiałów jądrowych;
+    - **a)** złagodzenia poważnych niepożądanych skutków dla zdrowia ludzi, ich bezpieczeństwa, jakości życia, mienia lub środowiska lub
+    - **b)** zmniejszenia ryzyka, które mogłoby doprowadzić do poważnych niepożądanych skutków, o których mowa w lit. a;
+
+- **55a)** źródło niekontrolowane źródło promieniotwórcze, z którym działalność podlega reglamentacji zgodnie z art. 4, a które nie jest objęte nadzorem i kontrolą regulacyjną albo zostało nimi objęte, ale kontrola i nadzór nad tym źródłem zostały przerwane, w szczególności z powodu porzucenia, zaginięcia, kradzieży, umieszczenia w miejscu do tego nieprzeznaczonym albo niezgodnego z prawem przekazania tego źródła;
+- **56)** źródło promieniotwórcze źródło promieniowania jonizującego zawierające materiał promieniotwórczy w celu wykorzystania promieniotwórczości tego materiału;
+- **57)** źródło promieniowania jonizującego czynnik, który może spowodować narażenie, w szczególności przez emitowanie promieniowania jonizującego lub uwalnianie materiału promieniotwórczego;
+- **58)** źródło wysokoaktywne zamknięte źródło promieniotwórcze zawierające izotop promieniotwórczy, którego aktywność jest równa wartości poziomu progowego aktywności P podanej w załączniku nr 2 do ustawy lub wyższa od niej.
 
 #### Rozdział 2 Zezwolenia w zakresie bezpieczeństwa jądrowego i ochrony radiologicznej
 
@@ -280,9 +406,20 @@ Prawo atomowe
 
 **Art. 6.** Rada Ministrów określi, w drodze rozporządzenia:
 
+- **1)** przypadki, w których:
+    - **a)** wykonywanie działalności związanej z narażeniem, o której mowa w art. 4 ust. 1, nie wymaga uzyskania zezwolenia, dokonania zgłoszenia albo dokonania powiadomienia,
+    - **b)** działalność związana z narażeniem, o której mowa w art. 4 ust. 1, może być wykonywana na podstawie zgłoszenia,
+    - **c)** działalność związana z narażeniem, o której mowa w art. 4 ust. 1, może być wykonywana na podstawie powiadomienia ustalając graniczne wartości aktywności całkowitej lub stężenia promieniotwórczego izotopów promieniotwórczych jako kryteria zwolnienia z obowiązku uzyskania zezwolenia, dokonania zgłoszenia albo dokonania powiadomienia, kierując się koniecznością zapewnienia odpowiedniej ochrony radiologicznej pracownikom i osobom z ogółu ludności, a także mając na względzie zagrożenie, jakie potencjalnie może wiązać się z wykonywaniem danej działalności;
+
+- **2)** dokumenty wymagane przy składaniu wniosku o wydanie zezwolenia na wykonywanie działalności związanej z narażeniem, o której mowa w art. 4 ust. 1, albo przy zgłoszeniu wykonywania tej działalności, konieczne dla potwierdzenia przez wnioskodawcę spełnienia warunków bezpieczeństwa jądrowego i ochrony radiologicznej, z uwzględnieniem specyfiki poszczególnych rodzajów wykonywanej działalności, kierując się koniecznością zapewnienia możliwości oceny, czy zostały spełnione wymagania bezpieczeństwa jądrowego i ochrony radiologicznej, oraz mając na względzie zagrożenie, jakie potencjalnie może wiązać się z wykonywaniem danej działalności.
+
 **Art. 6a.** Rada Ministrów określi, w drodze rozporządzenia, przypadki, w których wykonywanie działalności związanej z narażeniem, o której mowa w art. 4 ust. 1a, nie wymaga powiadomienia, ustalając graniczne wartości stężenia promieniotwórczego naturalnych izotopów promieniotwórczych jako kryteria zwolnienia z obowiązku powiadomienia oraz kierując się koniecznością zapewnienia skutecznej ochrony ludzi przed skutkami promieniowania jonizującego pochodzącego od naturalnych izotopów promieniotwórczych.
 
 **Art. 6b.** Rada Ministrów określi, w drodze rozporządzenia:
+
+- **1)** materiały budowlane, w których, przed ich wprowadzeniem do obrotu na terytorium Rzeczypospolitej Polskiej, oznacza się stężenie promieniotwórcze naturalnych izotopów promieniotwórczych potasu K-40, radu Ra-226 i toru Th-232,
+- **2)** wymagania dotyczące dokonywania oznaczeń stężenia promieniotwórczego naturalnych izotopów promieniotwórczych potasu K-40, radu Ra-226 i toru Th-232 w materiałach budowlanych, o których mowa w pkt 1, w szczególności sposób pobierania próbek i ich pomiaru oraz czynniki uwzględniane przy interpretacji wyników pomiaru, a także sposób wyznaczania wskaźnika stężenia promieniotwórczego tych izotopów,
+- **3)** wartość wskaźnika stężenia promieniotwórczego naturalnych izotopów promieniotwórczych potasu K-40, radu Ra-226 i toru Th-232 w materiałach budowlanych, o których mowa w pkt 1, przekroczenie której wymaga poinformowania organów nadzoru budowlanego kierując się koniecznością zapewnienia skutecznej ochrony ludzi przed skutkami promieniowania jonizującego pochodzącego od naturalnych izotopów promieniotwórczych.
 
 #### Rozdział 3 Bezpieczeństwo jądrowe i ochrona radiologiczna oraz ochrona zdrowia pracowników
 
@@ -540,6 +677,9 @@ Prawo atomowe
 
 **Art. 8b.** Przepisy ustawy dotyczące kierownika jednostki organizacyjnej stosuje się odpowiednio do:
 
+- **1)** syndyka w przypadku wydania orzeczenia o ogłoszeniu upadłości jednostki organizacyjnej;
+- **2)** zarządcy w przypadku otwarcia postępowania sanacyjnego dotyczącego jednostki organizacyjnej.
+
 **Art. 9.**
 
 1. Kierownik jednostki organizacyjnej zapewnia wykonywanie działalności związanej z narażeniem zgodnie z zasadą optymalizacji wymagającą, żeby przy rozsądnym uwzględnieniu czynników ekonomicznych i społecznych oraz aktualnego stanu wiedzy technicznej liczba narażonych pracowników i osób z ogółu ludności oraz prawdopodobieństwo ich narażenia były jak najmniejsze, a otrzymywane przez nich dawki promieniowania jonizującego były możliwie małe.
@@ -793,6 +933,10 @@ Prawo atomowe
 
 **Art. 12f.** Prezes Agencji, w drodze decyzji administracyjnej, cofa uprawnienia, o których mowa w art. 12 ust. 1, oraz uprawnienia, o których mowa w art. 12c ust. 1, osobie je posiadającej w przypadku:
 
+- **1)** utraty przez tę osobę pełnej zdolności do czynności prawnych;
+- **2)** utraty przez tę osobę odpowiednich warunków zdrowotnych lub psychicznych;
+- **3)** stwierdzenia wykonywania obowiązków na stanowisku mającym istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej albo czynności objętych uprawnieniem w sposób zagrażający bezpieczeństwu jądrowemu lub ochronie radiologicznej.
+
 **Art. 12g.**
 
 1. Wnioski o nadanie uprawnień, o których mowa w art. 7 ust. 3 i 5 oraz art. 12 ust. 1, oraz załączniki do tych wniosków, składa się w formie pisemnej w postaci papierowej lub elektronicznej.
@@ -976,6 +1120,9 @@ Prawo atomowe
 
 **Art. 23b.** Ustala się poziom odniesienia dla średniorocznego stężenia promieniotwórczego radonu w powietrzu w:
 
+- **1)** miejscach pracy wewnątrz pomieszczeń oraz
+- **2)** pomieszczeniach przeznaczonych na pobyt ludzi w wysokości 300 Bq/m (bekereli na metr sześcienny).
+
 **Art. 23c.**
 
 1. Kierownicy jednostek wykonujących działalność, w której występują miejsca pracy:
@@ -1084,7 +1231,18 @@ Prawo atomowe
 
 **Art. 25.** Rada Ministrów określi, w drodze rozporządzenia:
 
+- **1)** wskaźniki pozwalające na wyznaczenie dawek promieniowania jonizującego stosowane przy ocenie narażenia oraz sposób i częstotliwość dokonywania oceny narażenia pracowników i osób z ogółu ludności, uwzględniając wartości i zależności zalecane w rozdziałach 4 i 5 publikacji Międzynarodowej Komisji Ochrony Radiologicznej (ICRP) nr 116 w celu oszacowania dawek pochodzących z narażenia zewnętrznego oraz w rozdziale publikacji ICRP nr 119 w celu oszacowania dawek pochodzących z narażenia wewnętrznego i ich aktualizacjach oraz kierując się koniecznością zapewnienia ochrony radiologicznej pracownikom i osobom z ogółu ludności;
+- **2)** podstawowe wymagania dotyczące terenów kontrolowanych i nadzorowanych, w tym w szczególności:
+    - **a)** sposób oznakowania tych terenów, z uwzględnieniem wzorów znaków ostrzegawczych dla oznakowania granic terenu kontrolowanego i nadzorowanego,
+    - **b)** warunki dostępu i opuszczania tych terenów dla pracowników i innych osób,
+    - **c)** warunki, jakie muszą być spełnione dla wykonywania pomiarów dozymetrycznych w środowisku pracy na tych terenach, w szczególności odnośnie do zakresu programu pomiarów i wymagań, jakie muszą spełniać osoby wykonujące pomiary kierując się koniecznością zapewnienia ochrony radiologicznej pracownikom i osobom z ogółu ludności przebywającym na tych terenach.
+
 **Art. 26.** Kierownik jednostki organizacyjnej zatrudniającej pracowników w warunkach narażenia jest obowiązany zapewnić:
+
+- **1)** opiekę medyczną pracownikom oraz niezbędne środki ochrony indywidualnej i sprzęt dozymetryczny, stosownie do warunków narażenia;
+- **2)** prowadzenie pomiarów dawek indywidualnych albo pomiarów dozymetrycznych w środowisku pracy zgodnie z art. 17 ust. 3 i 4 oraz rejestrowanie danych w tym zakresie;
+- **3)** w przypadku działalności, które mogą prowadzić do uwolnień substancji promieniotwórczych do środowiska opracowanie i wdrożenie procedur pomiaru i oceny narażenia osób z ogółu ludności, prowadzenie pomiarów, a także rejestrowanie wyników tych pomiarów oraz wyników oceny narażenia osób z ogółu ludności;
+- **4)** odpowiedni dobór, właściwe użytkowanie, sprawdzenie sprawności i konserwację przyrządów dozymetrycznych oraz ich wzorcowanie.
 
 **Art. 27.**
 
@@ -1093,6 +1251,14 @@ Prawo atomowe
 2. Świadectwo wzorcowania, o którym mowa w ust. 1, wydaje laboratorium pomiarowe posiadające akredytację otrzymaną na podstawie odrębnych przepisów.
 
 **Art. 28.** Rada Ministrów określi, w drodze rozporządzenia, wymagania dotyczące:
+
+- **1)** rejestracji dawek indywidualnych, uwzględniając w szczególności:
+    - **a)** zawartość i sposób prowadzenia rejestru dawek indywidualnych prowadzonego przez kierownika jednostki organizacyjnej oraz centralnego rejestru dawek indywidualnych, długość okresu rejestracyjnego, okres przechowywania danych w tych rejestrach, okres przechowywania dokumentów stanowiących podstawę dokonywania wpisów do rejestrów, tryb sporządzania kopii danych zawartych w rejestrach oraz okres ich przechowywania, a także wzór karty zgłoszeniowej do centralnego rejestru dawek indywidualnych i wzór karty ewidencyjnej centralnego rejestru dawek indywidualnych,
+    - **b)** podmioty, którym mogą być przekazywane dane z rejestru dawek indywidualnych prowadzonego przez kierownika jednostki organizacyjnej oraz z centralnego rejestru dawek indywidualnych, terminy przekazywania danych, a także zawartość wniosku o udostępnienie danych z centralnego rejestru dawek indywidualnych,
+    - **c)** narażenia, o których mowa w art. 16 ust. 1, art. 19 ust. 1, art. 20 i art. 23c ust. 5, w tym wyniki pomiarów dozymetrycznych,
+    - **d)** wykaz instytutów badawczych, o których mowa w art. 22 ust. 2 pkt biorąc pod uwagę konieczność zapewnienia aktualnej informacji o dawkach indywidualnych otrzymanych przez pracowników i inne osoby narażone na promieniowanie jonizujące;
+
+- **2)** sprzętu dozymetrycznego, uwzględniając wymagania techniczne przy stosowaniu sprzętu w warunkach normalnych i w sytuacji zdarzeń radiacyjnych.
 
 **Art. 29.**
 
@@ -1210,6 +1376,11 @@ Prawo atomowe
 #### Rozdział 3a Stosowanie promieniowania jonizującego w celach medycznych oraz w celu obrazowania pozamedycznego
 
 **Art. 33a.** Stosowanie promieniowania jonizującego w celach medycznych obejmuje ekspozycje medyczne:
+
+- **1)** osób poddawanych badaniom diagnostycznym, zabiegom lub leczeniu,
+- **2)** osób poddawanych badaniom przesiewowym,
+- **3)** osób uczestniczących w eksperymentach medycznych lub badaniach klinicznych,
+- **4)** opiekunów zwanych dalej „osobami poddawanymi ekspozycji medycznej”.
 
 **Art. 33b.** Osoby poddawane ekspozycji medycznej podlegają ochronie radiologicznej, która obejmuje w szczególności uzasadnienie ekspozycji medycznej, o którym mowa w art. 33c, i optymalizację, o której mowa w art. 33d.
 
@@ -1387,6 +1558,12 @@ Prawo atomowe
 3. W przypadku dokonania zmiany w ewidencji, o której mowa w ust. pkt 1, jednostka ochrony zdrowia, w terminie 14 dni od dnia dokonania zmiany, informuje o dokonanej zmianie właściwy organ, który wydał zezwolenie na wykonywanie działalności związanej z narażeniem.
 
 **Art. 33k.** Jednostka ochrony zdrowia zapewnia, żeby sprzęt stosowany:
+
+- **1)** we fluoroskopii posiadał wzmacniacz obrazu lub inne równoważne urządzenie, a także urządzenie służące do automatycznej kontroli mocy dawki;
+- **2)** w radiologii zabiegowej posiadał urządzenie lub funkcję informującą upoważniony do wykonywania medycznej procedury radiologicznej personel o ilości promieniowania jonizującego wytwarzanego przez ten sprzęt w czasie realizacji medycznej procedury radiologicznej;
+- **3)** w teleradioterapii o nominalnej energii wiązki przekraczającej MeV (megaelektronowolt) posiadał urządzenie do weryfikacji kluczowych parametrów leczenia;
+- **4)** w radiologii zabiegowej i tomografii komputerowej oraz do celów planowania, prowadzenia i weryfikacji leczenia posiadał urządzenie lub funkcję informującą lekarza prowadzącego po zakończeniu medycznej procedury radiologicznej o odpowiednich parametrach pozwalających oszacować dawkę, którą otrzymał pacjent;
+- **5)** w radiologii zabiegowej i tomografii komputerowej umożliwiał umieszczanie w zapisie badania diagnostycznego lub zabiegu informacji o parametrach, o których mowa w pkt 4.
 
 **Art. 33l.**
 
@@ -1957,6 +2134,9 @@ Prawo atomowe
 
 **Art. 33x.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
+- **1)** szczegółowy zakres audytów klinicznych wewnętrznych oraz audytów klinicznych zewnętrznych,
+- **2)** wzór raportu z przeprowadzonego audytu klinicznego wewnętrznego oraz wzór raportu z przeprowadzonego audytu klinicznego zewnętrznego mając na względzie poprawę jakości i wyników opieki nad pacjentem oraz zapewnienie wysokiej jakości świadczonych usług medycznych, a także bezpieczeństwo pacjentów poddawanych medycznym procedurom radiologicznym oraz konieczność weryfikacji diagnostycznych poziomów referencyjnych i skuteczność okresowej oceny narażenia ludności wynikającego z medycznych zastosowań promieniowania jonizującego.
+
 **Art. 33y.**
 
 1. W przypadku gdy w związku z przeprowadzonym audytem klinicznym zewnętrznym w ocenie komisji procedur i audytów jednostka ochrony zdrowia przestała spełniać wymagania prowadzenia działalności określone w art. 33p ust. 7 albo w art. 33q ust. 7 lub w przepisach wydanych na podstawie art. 33p ust. 14 albo art. 33q ust. 13, przewodniczący tej komisji niezwłocznie informuje o tym organ, który wydał zgodę, o której mowa odpowiednio w art. 33p ust. lub 2 albo art. 33q ust. lub 2.
@@ -2468,6 +2648,12 @@ Prawo atomowe
 
 **Art. 38.** Rada Ministrów określi, w drodze rozporządzenia, wymagania dotyczące rozruchu i eksploatacji obiektów jądrowych, w tym w szczególności wymagania dotyczące:
 
+- **1)** limitów i warunków eksploatacyjnych obiektu jądrowego,
+- **2)** postępowania z paliwem jądrowym, w tym jego załadunku do obiektu jądrowego,
+- **3)** obowiązkowych testów rozruchowych systemów oraz elementów konstrukcji i wyposażenia obiektu jądrowego,
+- **4)** zawartości dokumentacji rozruchowej obiektu jądrowego oraz raportu z rozruchu obiektu jądrowego,
+- **5)** zawartości dokumentacji eksploatacyjnej obiektu jądrowego mając na celu konieczność zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej oraz biorąc pod uwagę wydane w tym zakresie zalecenia Międzynarodowej Agencji Energii Atomowej oraz Stowarzyszenia Zachodnioeuropejskich Organów Nadzoru Instalacji Jądrowych.
+
 **Art. 38a.** Obiekt jądrowy likwiduje się w sposób zapewniający bezpieczeństwo jądrowe oraz ochronę radiologiczną pracowników i ludności, zgodnie z zezwoleniem Prezesa Agencji oraz wdrożonym w jednostce organizacyjnej zintegrowanym systemem zarządzania.
 
 **Art. 38b.**
@@ -2633,6 +2819,17 @@ Prawo atomowe
 
 **Art. 39g.** W zezwoleniu określa się warunki wykonywania działalności objętej tym zezwoleniem, w szczególności w zakresie:
 
+- **1)** wymogów projektowych;
+- **2)** obowiązków jednostki organizacyjnej w zakresie bezpieczeństwa obiektu jądrowego, urządzeń, pracowników, społeczeństwa i środowiska, w tym ochrony przed promieniowaniem;
+- **3)** konserwacji obiektu jądrowego;
+- **4)** modernizacji obiektu jądrowego;
+- **5)** planowania i procedur awaryjnych;
+- **6)** zarządzania obiektem jądrowym;
+- **7)** limitów i warunków eksploatacyjnych;
+- **8)** uprawnień pracowników obiektu jądrowego;
+- **9)** zgłaszania organom dozoru jądrowego przewidywanych zdarzeń eksploatacyjnych i warunków awaryjnych w obiekcie jądrowym;
+- **10)** prac i czynności w obiekcie jądrowym, których wykonywanie wymaga obecności inspektora dozoru jądrowego.
+
 **Art. 39h.**
 
 1. W przypadku stwierdzenia w szczególności w wyniku oceny raportów z ocen okresowych że jest to niezbędne dla zapewnienia bezpieczeństwa jądrowego, ochrony radiologicznej, ochrony fizycznej lub zabezpieczeń materiałów jądrowych, Prezes Agencji może dokonać zmiany warunków wykonywania działalności objętej zezwoleniem.
@@ -2665,6 +2862,17 @@ Prawo atomowe
 #### Rozdział 4a Informacja społeczna w zakresie obiektów energetyki jądrowej
 
 **Art. 39l.** Ilekroć w niniejszym rozdziale jest mowa o:
+
+- **1)** obiekcie energetyki jądrowej należy przez to rozumieć elektrownię jądrową lub działający na potrzeby energetyki jądrowej:
+    - **a)** zakład wzbogacania izotopowego,
+    - **b)** zakład wytwarzania paliwa jądrowego,
+    - **c)** zakład przerobu wypalonego paliwa jądrowego,
+    - **d)** przechowalnik wypalonego paliwa jądrowego,
+    - **e)** obiekt do przechowywania odpadów promieniotwórczych będący obiektem jądrowym w rozumieniu art. 3 pkt 17;
+
+- **2)** społeczności lokalnej należy przez to rozumieć mieszkańców:
+    - **a)** gminy lub gmin, na których terenie zrealizowana została lub realizowana będzie inwestycja w zakresie budowy obiektu energetyki jądrowej,
+    - **b)** gmin, których granice znajdują się w odległości nie większej niż 15 km od granic nieruchomości, na której zrealizowana została lub realizowana będzie inwestycja, o której mowa w lit. a.
 
 **Art. 39m.**
 
@@ -2750,6 +2958,38 @@ Prawo atomowe
 
 **Art. 40.** W rozumieniu niniejszego rozdziału użyte określenia oznaczają:
 
+- **1)** dokumentacja jądrowa:
+    - **a)** dokumenty dotyczące pochodzenia, stanu lub ruchu materiałów jądrowych,
+    - **b)** deklaracje, powiadomienia (notyfikacje) i sprawozdania przekazywane do Komisji Europejskiej, dotyczące materiałów jądrowych i urządzeń, w których materiały jądrowe były, są lub mają być stosowane, przetwarzane, przechowywane lub transportowane,
+    - **c)** dokumenty dotyczące pracy urządzeń, o których mowa w lit. b,
+    - **d)** dokumentację projektowo-eksploatacyjną zawierającą podstawowe charakterystyki techniczne obiektu wskazane w przepisach Unii Europejskiej dotyczących zabezpieczeń materiałów jądrowych,
+    - **e)** deklaracje i plany działania związane z wykorzystaniem materiałów jądrowych,
+    - **f)** oceny, zalecenia, polecenia i decyzje Komisji Europejskiej w sprawach dotyczących zabezpieczeń materiałów jądrowych;
+
+- **1a)** deklaracja dla terenu obiektu ogólny opis każdego budynku dla terenu obiektu, łącznie z opisem sposobu jego wykorzystania i zawartości, wraz z mapą terenu obiektu, który Rzeczpospolita Polska jest zobowiązana dostarczyć Międzynarodowej Agencji Energii Atomowej (MAEA) zgodnie z art. 2 lit. a pkt (iii) Protokołu dodatkowego;
+- **2)** ewidencja materiałów jądrowych dokumentowanie zgodnie z wymaganiami zabezpieczeń materiałów jądrowych, oddzielnie dla każdego rejonu bilansu materiałowego, w oparciu o prowadzoną rachunkowość materiałową, informacji o stanie inwentarza materiałów wyjściowych i specjalnych materiałów rozszczepialnych, dotyczące w szczególności ilości, rodzaju, lokalizacji, zmian w inwentarzu oraz pochodzenia i przeznaczenia tych materiałów;
+- **3)** Euratom Europejską Wspólnotę Energii Atomowej;
+- **3a)** inspektorzy Euratomu inspektorów Komisji Europejskiej do spraw zabezpieczeń materiałów jądrowych wyznaczonych do działania na terytorium Rzeczypospolitej Polskiej zgodnie z art. 81 Traktatu Euratom;
+- **3b)** inspektorzy MAEA inspektorów MAEA do spraw zabezpieczeń materiałów jądrowych wyznaczonych do działania na terytorium Rzeczypospolitej Polskiej zgodnie z art. 85 Porozumienia;
+- **4)** kontrola technologii jądrowych działania podejmowane w celu stwierdzenia, czy działalność badawczo-rozwojowa, zdefiniowana w art. 18 lit. a Protokołu dodatkowego, działalność wytwórcza wymieniona w aneksie I do Protokołu dodatkowego, oraz urządzenia, części urządzeń i materiały wymienione w aneksie II do Protokołu dodatkowego, a także pozyskiwane z zagranicy lub przekazywane za granicę technologie jądrowe, dotyczą zastosowań nieprowadzących do wykorzystania materiałów jądrowych w sposób niezgodny z wymaganiami Układu o nierozprzestrzenianiu broni jądrowej;
+- **4a)** lokalizacja poza obiektem urządzenie lub lokalizację, które są określone w art. 18 lit. j Protokołu dodatkowego;
+- **4b)** materiały wyjściowe materiały należące do materiałów jądrowych, zdefiniowane w art. 197 ust. 3 Traktatu Euratom;
+- **5)** obiekt obiekt zdefiniowany w art. 98 ust. 2 lit. I Porozumienia;
+- **5a)** podstawowe zagrożenie projektowe dokument zawierający charakterystykę, a w szczególności cechy, motywację, zamiary, możliwości oraz sposoby działania podmiotów, zarówno z wewnątrz, jak i spoza jednostki organizacyjnej, mogących dążyć do czynów takich jak kradzież, nieupoważnione użycie, cyberatak, akt terroru lub sabotaż, które uwzględnia się przy opracowywaniu systemu ochrony fizycznej materiałów jądrowych lub obiektów jądrowych;
+- **6)** Porozumienie Porozumienie między Królestwem Belgii, Królestwem Danii, Republiką Federalną Niemiec, Irlandią, Republiką Włoską, Wielkim Księstwem Luksemburga, Królestwem Niderlandów, Europejską Wspólnotą Energii Atomowej a Międzynarodową Agencją Energii Atomowej dotyczące wprowadzenia w życie artykułu III ustępy i 4 Układu o nierozprzestrzenianiu broni jądrowej, podpisane w Brukseli dnia 5 kwietnia 1973 r.;
+- **7)** Protokół dodatkowy Protokół dodatkowy do Porozumienia między Republiką Austrii, Królestwem Belgii, Królestwem Danii, Republiką Finlandii, Republiką Federalną Niemiec, Republiką Grecką, Irlandią, Republiką Włoską, Wielkim Księstwem Luksemburga, Królestwem Niderlandów, Republiką Portugalską, Królestwem Hiszpanii, Królestwem Szwecji, Europejską Wspólnotą Energii Atomowej a Międzynarodową Agencją Energii Atomowej dotyczącego wprowadzenia w życie artykułu III ustępy i 4 Układu o nierozprzestrzenianiu broni jądrowej, podpisany w Wiedniu dnia 22 września 1998 r.;
+- **8)** rejon bilansu materiałowego obszar na terenie obiektu lub poza nim określony w art. 98 ust. 2 lit. M Porozumienia;
+- **8a)** specjalne materiały rozszczepialne materiały należące do materiałów jądrowych zdefiniowane w art. 197 ust. Traktatu Euratom;
+- **8b)** środki techniczne zabezpieczeń aparaty kontrolne i pomiarowe, przyrządy wykrywające promieniowanie jonizujące, urządzenia obserwacyjno-rejestrujące, urządzenia sygnalizujące stan lub sposób działania obiektu, środki zamykające, w tym pieczęcie zabezpieczające, oraz urządzenia służące do przekazywania informacji na odległość, w tym także poza granice państwa, instalowane w celu uzyskiwania ciągłej informacji o ilości i jakości materiałów jądrowych podlegających zabezpieczeniom;
+- **9)** technologie jądrowe technologie związane z jądrowym cyklem paliwowym, w szczególności:
+    - **a)** służące do wytwarzania, przetwarzania, wzbogacania izotopowego lub stosowania materiałów wyjściowych (źródłowych) lub specjalnych materiałów rozszczepialnych w obiektach jądrowych,
+    - **b)** stosowane w postępowaniu z wysoko- i średnioaktywnymi odpadami promieniotwórczymi zawierającymi specjalne materiały rozszczepialne,
+    - **c)** służące do wytwarzania urządzeń lub ich części niezbędnych do wytwarzania, przetwarzania, napromieniowania lub stosowania materiałów wyjściowych (źródłowych), specjalnych materiałów rozszczepialnych, ciężkiej wody, deuteru, trytu lub jądrowo czystego grafitu;
+
+- **10)** teren obiektu teren obiektu zdefiniowany w art. 18 lit. b Protokołu dodatkowego;
+- **11)** Układ Układ o nierozprzestrzenianiu broni jądrowej, sporządzony w Moskwie, Waszyngtonie i Londynie dnia lipca 1968 r. (Dz. U. z 1970 r. poz. 60);
+- **12)** zabezpieczenia materiałów jądrowych zespół środków prawnych i organizacyjnych oraz rozwiązań praktycznych, ustanowionych w ramach Układu, Porozumienia, Protokołu dodatkowego i Traktatu Euratom oraz przepisów wydanych na jego podstawie, w zamiarze niedopuszczenia do wykorzystania materiałów jądrowych stosowanych w pokojowej działalności do wytwarzania broni jądrowej, innych jądrowych urządzeń wybuchowych lub do celów nieznanych.
+
 **Art. 41.**
 
 1. Materiały jądrowe, z wyjątkiem rud uranu i toru, podlegają ochronie fizycznej.
@@ -2796,6 +3036,24 @@ Prawo atomowe
 
 **Art. 41b.** Kierownik jednostki organizacyjnej prowadzącej działalność z materiałami jądrowymi w obiekcie lub lokalizacji poza obiektem:
 
+- **1)** umożliwia organom dozoru jądrowego, inspektorom Euratomu oraz inspektorom MAEA dokonanie kontroli prowadzonej przez siebie działalności w zakresie określonym wymaganiami zabezpieczeń materiałów jądrowych, zapewniając w szczególności dostęp do dokumentacji jądrowej, materiałów jądrowych, budynków, pomieszczeń i urządzeń obiektu lub lokalizacji poza obiektem oraz do środków technicznych zabezpieczeń zainstalowanych lub zdeponowanych przez inspektorów Euratomu lub MAEA;
+- **2)** dostarcza Prezesowi Agencji kopie dokumentacji jądrowej przekazywanej Komisji Europejskiej oraz od niej otrzymywanej w ciągu jednego dnia roboczego od jej wysłania albo otrzymania;
+- **3)** przekazuje Prezesowi Agencji na jego żądanie wyjaśnienia dotyczące danych zawartych w dokumentacji jądrowej, w zakresie i terminie określonych w żądaniu;
+- **4)** przekazuje organom dozoru jądrowego, inspektorom Euratomu i inspektorom MAEA informacje o działalności eksploatacyjnej, o której mowa w art. 2 lit. a pkt (ii) Protokołu dodatkowego, w zakresie i terminie określonych w żądaniu;
+- **5)** w przypadku stwierdzenia utraty materiału jądrowego wskutek nadzwyczajnego zdarzenia lub okoliczności, a także jeżeli nastąpiło jego niedozwolone użycie, niezwłocznie informuje o tym Prezesa Agencji, podając:
+    - **a)** ilość i rodzaj utraconego albo użytego w niedozwolony sposób materiału jądrowego,
+    - **b)** rejon bilansu materiałowego, w którym materiał był objęty ewidencją,
+    - **c)** określenie przyczyn i okoliczności utraty lub niedozwolonego użycia materiału jądrowego,
+    - **d)** opis działań podjętych w celu przeciwdziałania skutkom utraty lub niedozwolonego użycia materiału jądrowego oraz w celu zapobieżenia podobnym zdarzeniom w przyszłości;
+
+- **6)** zapewnia warunki niezbędne do instalowania uzgodnionych z inspektorami Euratomu oraz inspektorami MAEA środków technicznych zabezpieczeń;
+- **7)** zapewnia zachowanie w stanie nienaruszonym integralności barier fizycznych i pieczęci chroniących przed nieupoważnionym dostępem do materiałów jądrowych, urządzeń, wzorców, próbek oraz środków technicznych zabezpieczeń, zamkniętych przez inspektorów Euratomu lub inspektorów MAEA za pomocą barier fizycznych i pieczęci, a w przypadku stwierdzenia naruszenia integralności barier fizycznych lub pieczęci niezwłocznie informuje o tym Prezesa Agencji, podając:
+    - **a)** przyczyny i okoliczności naruszenia,
+    - **b)** opis działań podjętych w celu przeciwdziałania skutkom naruszenia oraz w celu zapobieżenia naruszeniom w przyszłości;
+
+- **8)** organizuje wysyłanie próbek pobranych dla lub przez inspektorów Euratomu lub inspektorów MAEA oraz odbiór i wysyłanie materiałów i sprzętu służących inspektorom do kontroli;
+- **9)** zapoznaje inspektorów Euratomu i inspektorów MAEA ze specyficznymi wymaganiami ochrony radiologicznej obowiązującymi na terenie obiektu lub lokalizacji poza obiektem, wyposaża ich w niezbędne środki ochrony osobistej oraz prowadzi kontrolę dawek promieniowania jonizującego otrzymywanych przez inspektorów w trakcie prowadzonej kontroli.
+
 **Art. 41c.** Kierownik jednostki organizacyjnej prowadzącej działalność z materiałami jądrowymi w lokalizacji poza obiektem, wyznaczonej przez Prezesa Agencji w uzgodnieniu z Komisją Europejską, przekazuje Prezesowi Agencji w podanych przez niego zakresie i terminie informacje niezbędne do sporządzenia zbiorczych sprawozdań dla Komisji Europejskiej, o których mowa w art. 64, 67 i 68 Porozumienia.
 
 **Art. 41d.**
@@ -2815,7 +3073,15 @@ Prawo atomowe
 
 **Art. 41e.** Kierownik jednostki organizacyjnej prowadzącej działalność polegającą na składowaniu odpadów promieniotwórczych zawierających specjalne materiały rozszczepialne lub na postępowaniu z takimi odpadami:
 
+- **1)** prowadzi dokumentację odpadów promieniotwórczych zawierających specjalne materiały rozszczepialne, wobec których MAEA wydała decyzję o zakończeniu ewidencji, obejmującą informacje o ilości zawartego w nich plutonu, uranu-233, uranu wzbogaconego co najmniej w 20 % w izotopy uranu-233 lub uranu-235, ich koncentracji, postaci fizycznej, sposobie unieszkodliwienia oraz dacie przyjęcia do składowiska albo przechowalnika i miejscu składowania albo przechowywania;
+- **2)** informuje Prezesa Agencji o planowanym przemieszczeniu poza granice składowiska albo przechowalnika lub o planowanym przetwarzaniu odpadów promieniotwórczych zawierających materiały wymienione w pkt 1, z podaniem, odpowiednio, terminu przemieszczenia lub rozpoczęcia przetwarzania i jego zakończenia, w terminie co najmniej 210 dni przed dniem rozpoczęcia przemieszczania lub przetwarzania;
+- **3)** informuje Prezesa Agencji, w terminie do dnia 15 stycznia każdego roku, o dokonanych w poprzednim roku kalendarzowym zmianach w lokalizacji odpadów promieniotwórczych zawierających specjalne materiały rozszczepialne wymienione w pkt 1;
+- **4)** umożliwia organom dozoru jądrowego, inspektorom Euratomu oraz inspektorom MAEA dostęp do budynków i urządzeń jednostki w celu dokonania kontroli w ramach dostępu uzupełniającego, o którym mowa w art. 5 lit. a pkt (ii) Protokołu dodatkowego, umożliwia im przeprowadzenie czynności, o których mowa w art. 6 lit. b Protokołu dodatkowego, oraz udziela im niezbędnych wyjaśnień związanych z przeprowadzanymi czynnościami.
+
 **Art. 41f.** Kierownik jednostki wykorzystującej materiały jądrowe do celów niejądrowych lub jednostki, w posiadaniu której znajdują się materiały wyjściowe o składzie i czystości niekwalifikujących ich do produkcji paliwa jądrowego lub do wzbogacania izotopowego:
+
+- **1)** przekazuje Prezesowi Agencji, w terminie do dnia 31 marca każdego roku, informację, za okres poprzedniego roku kalendarzowego, o ilości i składzie chemicznym materiałów jądrowych, dacie ich przywozu lub przyjęcia i pochodzeniu, dacie ich wywozu lub przekazania i miejscu przeznaczenia oraz sposobie ich wykorzystania lub planowanego wykorzystania, z podaniem terminu i sposobu wykorzystania;
+- **2)** umożliwia organom dozoru jądrowego, inspektorom Euratomu oraz inspektorom MAEA dostęp do materiałów jądrowych w celu dokonania kontroli w ramach dostępu uzupełniającego, o którym mowa w art. 5 lit. a pkt (ii) Protokołu dodatkowego, umożliwia im przeprowadzenie czynności, o których mowa w art. 6 lit. b Protokołu dodatkowego, oraz udziela im niezbędnych wyjaśnień związanych z przeprowadzanymi czynnościami.
 
 **Art. 41g.**
 
@@ -2883,6 +3149,14 @@ Prawo atomowe
 **Art. 41n.** Przy opracowywaniu, zatwierdzaniu i opiniowaniu systemów ochrony fizycznej, o których mowa w art. 41 ust. 2 i art. 41m, uwzględnia się podstawowe zagrożenie projektowe.
 
 **Art. 41o.** Prezes Agencji opracowuje podstawowe zagrożenie projektowe w porozumieniu z:
+
+- **1)** ministrem właściwym do spraw gospodarki surowcami energetycznymi w zakresie zagrożeń mających wpływ na wykorzystanie energii jądrowej na potrzeby społeczno-gospodarcze kraju, w szczególności zagrożeń funkcjonowania obiektów energetyki jądrowej;
+- **2)** Komendantem Głównym Policji w zakresie wykrywania, rozpoznawania, zapobiegania i zwalczania przestępstw mogących stworzyć zagrożenie z punktu widzenia ochrony fizycznej materiałów jądrowych lub obiektów jądrowych;
+- **3)** Szefem Agencji Wywiadu w zakresie rozpoznawania i zwalczania zagrożeń dla materiałów i obiektów jądrowych, pochodzących spoza terytorium Rzeczypospolitej Polskiej;
+- **4)** Dyrektorem Rządowego Centrum Bezpieczeństwa w zakresie zarządzania kryzysowego, ochrony infrastruktury krytycznej oraz monitorowania potencjalnych zagrożeń w rozumieniu przepisów ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122 oraz z 2024 r. poz. 834, 1222, 1473, 1572 i 1907);
+- **5)** Komendantem Głównym Państwowej Straży Pożarnej w zakresie ochrony przeciwpożarowej;
+- **6)** Szefem Agencji Bezpieczeństwa Wewnętrznego w zakresie rozpoznawania, zapobiegania i zwalczania zagrożeń o charakterze terrorystycznym oraz rozpoznawania, zapobiegania i wykrywania przestępstw pozostających w zakresie właściwości Agencji Bezpieczeństwa Wewnętrznego;
+- **7)** Komendantem Głównym Straży Granicznej w zakresie liczby i częstotliwości przemieszczania przez granicę państwa transportów materiałów jądrowych, źródeł promieniotwórczych, urządzeń zawierających takie źródła, odpadów promieniotwórczych, wypalonego paliwa jądrowego i innych substancji promieniotwórczych oraz odnotowanych przez Straż Graniczną nieprawidłowości w związku z przemieszczaniem tych materiałów i urządzeń przez granicę państwa, a także przypadków prób przewozu przez granicę państwa materiałów, przedmiotów lub urządzeń mogących stwarzać zagrożenie z punktu widzenia ochrony fizycznej materiałów jądrowych lub obiektów jądrowych.
 
 **Art. 41p.**
 
@@ -3092,7 +3366,14 @@ Prawo atomowe
 
 **Art. 45.** Rada Ministrów, kierując się koniecznością zapobiegania niekontrolowanemu narażeniu pracowników i osób z ogółu ludności związanemu z wykonywaniem pracy ze źródłami promieniowania jonizującego, określi, w drodze rozporządzenia, szczegółowe warunki bezpiecznej pracy ze źródłami promieniowania jonizującego, uwzględniając:
 
+- **1)** wymagania techniczne i wymagania ochrony radiologicznej dotyczące pracowni stosujących źródła promieniotwórcze lub urządzenia zawierające takie źródła oraz wymagania dotyczące urządzeń wytwarzających promieniowanie jonizujące i pracowni stosujących takie urządzenia, z wyjątkiem aparatów rentgenowskich do celów diagnostyki medycznej, radiologii zabiegowej, radioterapii powierzchniowej i radioterapii schorzeń nienowotworowych oraz pracowni stosujących takie aparaty, w tym w szczególności wzory tablic informacyjnych służących do oznakowania wejść do pracowni, wzór tablicy informacyjnej służącej do oznakowania miejsca przechowywania źródeł promieniotwórczych oraz podział pracowni izotopowych z otwartymi źródłami promieniotwórczymi na klasy i kryteria tego podziału;
+- **2)** wymagania dotyczące pracy ze źródłami promieniotwórczymi, urządzeniami zawierającymi takie źródła oraz urządzeniami wytwarzającymi promieniowanie jonizujące stosowanymi poza pracowniami, o których mowa w pkt 1;
+- **3)** sposób prowadzenia kontroli i ewidencji, o których mowa w art. 43 ust. 1, częstotliwość przeprowadzania tej kontroli i sposób dokumentowania jej wyników, w tym ustali wzory kart ewidencyjnych służących do prowadzenia ewidencji źródeł promieniotwórczych, okres przechowywania tych kart i innych dokumentów ewidencji, dokumenty ewidencji, których kopie stanowią podstawę wpisu do rejestru, o którym mowa w art. 43c ust. 1, częstotliwość ich przekazywania, a także okres przechowywania tych kopii przez Prezesa Agencji.
+
 **Art. 46.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczegółowe warunki bezpiecznej pracy z urządzeniami radiologicznymi, uwzględniając:
+
+- **1)** dodatkowe wymagania techniczne dotyczące takich urządzeń i pracowni je stosujących nieokreślone w przepisach wydanych na podstawie art. 45;
+- **2)** sposób prowadzenia nadzoru w zakresie ochrony radiologicznej pacjenta.
 
 #### Rozdział 7 Odpady promieniotwórcze i wypalone paliwo jądrowe
 
@@ -3437,6 +3718,11 @@ Prawo atomowe
 
 **Art. 55e.** Projekt składowiska odpadów promieniotwórczych w szczególności:
 
+- **1)** uwzględnia konieczność zapewnienia ochrony radiologicznej, ochrony fizycznej oraz konieczność zachowania podkrytyczności podczas eksploatacji i zamknięcia składowiska oraz po jego zamknięciu;
+- **2)** uwzględnia sekwencję kolejnych barier ochronnych zapewniających spełnienie wymagań, o których mowa w pkt 1, nawet w przypadku uszkodzenia jednej z barier;
+- **3)** zawiera rozwiązania, które umożliwiają pewną, stabilną, łatwą i bezpieczną w zarządzaniu eksploatację i zamknięcie składowiska odpadów promieniotwórczych;
+- **4)** uwzględnia charakterystykę wybranej lokalizacji.
+
 **Art. 55f.**
 
 1. Składowisko odpadów promieniotwórczych buduje się, eksploatuje oraz zamyka w sposób zapewniający ochronę radiologiczną pracowników i ludności, zgodnie z zezwoleniem wydanym przez Prezesa Agencji oraz z wdrożonym w jednostce organizacyjnej zintegrowanym systemem zarządzania. Do zintegrowanego systemu zarządzania stosuje się odpowiednio przepisy art. 36k ust. 2.
@@ -3464,6 +3750,12 @@ Prawo atomowe
 7. Rada Ministrów określi, w drodze rozporządzenia, zakres oceny okresowej bezpieczeństwa oraz zakres raportu z tej oceny dla składowiska odpadów promieniotwórczych, biorąc pod uwagę konieczność zapewnienia kompleksowej i wiarygodnej informacji o stanie bezpieczeństwa składowisk odpadów promieniotwórczych.
 
 **Art. 55h.** Konstrukcja składowiska odpadów promieniotwórczych umożliwia:
+
+- **1)** ciągłą kontrolę spełnienia założeń projektowych dotyczących bezpieczeństwa składowiska;
+- **2)** zamknięcie składowiska przed terminem przewidzianym w projekcie w przypadku zaistnienia takiej konieczności;
+- **3)** wykonanie prac związanych z zamknięciem składowiska;
+- **4)** zachowanie naturalnych charakterystyk wybranej lokalizacji mających zapewnić długoterminowe bezpieczeństwo składowiska po jego zamknięciu;
+- **5)** rozbudowę składowiska.
 
 **Art. 55i.**
 
@@ -3538,6 +3830,10 @@ Prawo atomowe
 
 **Art. 55p.** W zezwoleniu określa się warunki wykonywania działalności objętej tym zezwoleniem, w szczególności w zakresie:
 
+- **1)** wskazania odpadów promieniotwórczych, które zostały wyłączone z możliwości składowania w danym składowisku;
+- **2)** szczegółowych wymagań w zakresie przygotowania odpadów promieniotwórczych do składowania w danym składowisku;
+- **3)** planowania i procedur awaryjnych.
+
 **Art. 55q.**
 
 1. Prezes Agencji może dokonać zmiany warunków wykonywania działalności objętej zezwoleniem w przypadku stwierdzenia, że jest to niezbędne dla zapewnienia ochrony radiologicznej, ochrony fizycznej lub zabezpieczeń materiałów jądrowych.
@@ -3593,6 +3889,20 @@ Prawo atomowe
 4. Gmina przekazuje ministrowi właściwemu do spraw gospodarki surowcami energetycznymi roczne sprawozdanie z wykonania obowiązku, o którym mowa w ust. 1, w terminie do 31 stycznia roku następnego.
 
 **Art. 57a.** Rada Ministrów określi, w drodze rozporządzenia:
+
+- **1)** szczegółowe przesłanki kwalifikowania odpadów promieniotwórczych do kategorii i podkategorii,
+- **2)** wzór karty ewidencyjnej i sposób jej wypełniania,
+- **3)** okresy przechowywania kart ewidencyjnych, ich kopii oraz kopii wspólnej ewidencji,
+- **4)** szczegółowe warunki przechowywania odpadów promieniotwórczych lub wypalonego paliwa jądrowego,
+- **5)** szczegółowe wymagania dla obiektów, pomieszczeń i opakowań przeznaczonych do przechowywania poszczególnych kategorii odpadów promieniotwórczych,
+- **6)** zakres przeprowadzania kontroli przechowalników wypalonego paliwa jądrowego,
+- **7)** szczegółowe wymagania dla poszczególnych rodzajów składowisk w zakresie ich eksploatacji i budowy,
+- **8)** szczegółowe wymagania w zakresie przygotowania odpadów promieniotwórczych do składowania,
+- **9)** sposób i zakres przeprowadzania kontroli zgodności stanu odpadów promieniotwórczych z informacjami zamieszczonymi w karcie ewidencyjnej,
+- **10)** wzory tablic informacyjnych do oznaczania wejść do:
+    - **a)** przechowalnika wypalonego paliwa jądrowego,
+    - **b)** magazynu odpadów promieniotwórczych,
+    - **c)** składowiska odpadów promieniotwórczych kierując się koniecznością zapewnienia spełnienia wymagań bezpieczeństwa w działaniach w postępowaniu z odpadami promieniotwórczymi lub z wypalonym paliwem jądrowym oraz ochrony interesów przyszłych pokoleń.
 
 **Art. 57b.**
 
@@ -3735,6 +4045,24 @@ Prawo atomowe
 
 **Art. 62b.** W rozumieniu niniejszego rozdziału użyte określenia oznaczają:
 
+- **1)** odbiorca jednostka organizacyjna, do której jest dokonywane przemieszczenie odpadów promieniotwórczych lub wypalonego paliwa jądrowego;
+- **2)** odpady promieniotwórcze materiały stałe, ciekłe lub gazowe zawierające substancje promieniotwórcze lub skażone tymi substancjami, których wykorzystanie jest niecelowe lub niemożliwe i w których aktywność całkowita oraz stężenie promieniotwórcze izotopów promieniotwórczych przekraczają wartości poziomów progowych aktywności całkowitej P oraz stężenia promieniotwórczego izotopów promieniotwórczych określone w załączniku nr 2 do ustawy, w tym wycofane z użytkowania (zużyte) zamknięte źródła promieniotwórcze, z wyjątkiem:
+    - **a)** wycofanych z użytkowania (zużytych) zamkniętych źródeł promieniotwórczych przemieszczanych do dostawcy, wytwórcy albo obiektu przeznaczonego do przechowywania lub składowania zamkniętych źródeł promieniotwórczych,
+    - **b)** odpadów zawierających wyłącznie naturalne substancje promieniotwórcze, których obecność nie została spowodowana działalnością człowieka;
+
+- **3)** państwo członkowskie państwo członkowskie Unii Europejskiej;
+- **4)** państwo pochodzenia państwo, z którego planuje się przeprowadzić lub przeprowadza się przemieszczenie odpadów promieniotwórczych lub wypalonego paliwa jądrowego;
+- **5)** państwo przeznaczenia państwo, do którego planuje się przeprowadzić lub przeprowadza się przemieszczenie odpadów promieniotwórczych lub wypalonego paliwa jądrowego;
+- **6)** państwo tranzytu państwo, przez którego terytorium planuje się przeprowadzić lub przeprowadza się przemieszczenie odpadów promieniotwórczych lub wypalonego paliwa jądrowego, niebędące państwem pochodzenia ani państwem przeznaczenia;
+- **7)** państwo trzecie państwo, które nie jest państwem członkowskim;
+- **8)** pierwsze państwo członkowskie państwo członkowskie, którego organ celny, w przypadku tranzytu odpadów promieniotwórczych lub wypalonego paliwa jądrowego przez obszar celny Wspólnoty, jest właściwy do podjęcia rozstrzygnięcia w przedmiocie wprowadzenia odpadów promieniotwórczych lub wypalonego paliwa jądrowego na obszar celny Wspólnoty albo odmowy ich wprowadzenia;
+- **9)** posiadacz jednostka organizacyjna, która przed przeprowadzeniem przemieszczenia odpadów promieniotwórczych lub wypalonego paliwa jądrowego jest na mocy prawa za nie odpowiedzialna i zamierza przeprowadzić ich przemieszczenie do odbiorcy;
+- **10)** przemieszczenie ogół czynności podejmowanych przy przewozie odpadów promieniotwórczych lub wypalonego paliwa jądrowego z państwa pochodzenia do państwa przeznaczenia;
+- **11)** tranzyt przewóz odpadów promieniotwórczych lub wypalonego paliwa jądrowego z państwa pochodzenia do państwa przeznaczenia przez terytorium państwa niebędącego państwem pochodzenia ani państwem przeznaczenia;
+- **12)** właściwy organ organ, który na mocy przepisów państwa pochodzenia, państwa tranzytu lub państwa przeznaczenia jest uprawniony do stosowania systemu nadzoru i kontroli nad przemieszczaniem odpadów promieniotwórczych i wypalonego paliwa jądrowego; w Rzeczypospolitej Polskiej Prezes Agencji;
+- **13)** zezwolenie zezwolenie, o którym mowa w art. 62c ust. 1;
+- **14)** zgoda zgoda, o której mowa w art. 62d ust. 1.
+
 **Art. 62c.**
 
 1. Zezwolenia wydanego przez Prezesa Agencji wymaga:
@@ -3855,6 +4183,10 @@ Prawo atomowe
 - **3)** tranzytu przez terytorium Rzeczypospolitej Polskiej odpadów promieniotwórczych lub wypalonego paliwa jądrowego przemieszczanych pomiędzy państwami trzecimi, jednostka organizacyjna odpowiedzialna za organizację przemieszczania w pierwszym państwie członkowskim ma obowiązek pokryć koszty powstałe w związku z nieukończeniem przemieszczenia.
 
 **Art. 62i.** Prezes Agencji niezwłocznie informuje Szefa Agencji Bezpieczeństwa Wewnętrznego, Komendanta Głównego Straży Granicznej i Szefa Krajowej Administracji Skarbowej o:
+
+- **1)** wydaniu zezwolenia, o którym mowa w art. 62c ust. 1;
+- **2)** wydaniu zgody, o której mowa w art. 62d ust. 1;
+- **3)** podjęciu decyzji, o której mowa w art. 62h ust. 1.
 
 **Art. 62j.** Rada Ministrów określi, w drodze rozporządzenia, tryb postępowania w sprawie udzielania zezwolenia oraz zgody, dokumenty jakie należy dołączyć do wniosku o wydanie zezwolenia oraz do wniosku o wydanie zgody, czynności, jakich dopełniają podmioty zaangażowane w przemieszczenie i Prezes Agencji po przeprowadzeniu przemieszczenia, kierując się koniecznością zapewnienia skutecznej kontroli nad przemieszczaniem odpadów promieniotwórczych i wypalonego paliwa jądrowego.
 
@@ -4273,6 +4605,13 @@ Prawo atomowe
 
 **Art. 74.** Prezes Agencji koordynuje działania stacji i placówek, a w szczególności:
 
+- **1)** współdziała z ministrami właściwymi do spraw wewnętrznych, klimatu, gospodarki surowcami energetycznymi, szkolnictwa wyższego, rolnictwa, zdrowia i Ministrem Obrony Narodowej oraz z Prezesem Polskiej Akademii Nauk;
+- **2)** zatwierdza techniki pomiarowe, programy pomiarowe i organizację pomiarów;
+- **3)** współpracuje z właściwymi jednostkami innych państw w zakresie wykrywania i pomiarów skażeń promieniotwórczych;
+- **4)** w sytuacji prawdopodobieństwa wystąpienia lub wystąpienia zdarzenia radiacyjnego określa:
+    - **a)** częstotliwość przekazywania przez stacje wyników pomiarów do Centrum do Spraw Zdarzeń Radiacyjnych,
+    - **b)** miejsca, częstotliwość oraz zakres pomiarów wykonywanych przez placówki, a także częstotliwość przekazywania przez nie wyników pomiarów do Centrum do Spraw Zdarzeń Radiacyjnych.
+
 **Art. 75.** Rada Ministrów określi, w drodze rozporządzenia, wykaz stacji i placówek oraz ich szczegółowe zadania, jak również sposoby wykonywania tych zadań, przyjmując za kryterium możliwość uzyskiwania danych niezbędnych dla dokonania oceny sytuacji radiacyjnej kraju.
 
 **Art. 76.** Prezes Agencji przyjmuje informacje o zdarzeniach radiacyjnych na terenie kraju, w szczególności uzyskiwane na podstawie art. 83 i art. 85 ust. 1, a w razie potrzeby udziela, w oparciu o uzyskane informacje, bezzwłocznej pomocy w ocenie wielkości powstałego zagrożenia radiacyjnego oraz doradza w zakresie likwidacji zagrożenia i usuwania skutków zdarzenia.
@@ -4294,6 +4633,10 @@ Prawo atomowe
 **Art. 79.** Na żądanie Prezesa Agencji instytucje, organizacje i osoby posiadające dane i informacje niezbędne dla analizy i oceny sytuacji radiacyjnej kraju obowiązane są do ich nieodpłatnego udostępnienia.
 
 **Art. 80.** Na podstawie oceny sytuacji radiacyjnej kraju Prezes Agencji:
+
+- **1)** ogłasza komunikaty dla ludności o sytuacji radiacyjnej, w tym o poziomie skażeń promieniotwórczych w warunkach normalnych i w sytuacji zdarzeń radiacyjnych;
+- **2)** informuje o powstaniu zagrożenia publicznego o zasięgu wojewódzkim lub krajowym odpowiednio właściwego wojewodę lub Radę Ministrów;
+- **3)** przekazuje przewodniczącemu odpowiedniego rządowego zespołu do spraw kryzysowych informacje o zdarzeniu radiacyjnym oraz prognozy rozwoju sytuacji radiacyjnej kraju.
 
 **Art. 81.** Kwartalne komunikaty dla ludności o sytuacji radiacyjnej kraju Prezes Agencji ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”. W przypadku zdarzenia radiacyjnego informowanie ludności następuje w trybie określonym w art. 92 ust. 3 i 4.
 
@@ -4418,6 +4761,14 @@ Prawo atomowe
 5. Podczas zdarzenia radiacyjnego powodującego zagrożenie o zasięgu krajowym akcją likwidacji zagrożenia i usuwania skutków zdarzenia kieruje minister właściwy do spraw wewnętrznych przy pomocy Prezesa Agencji.
 
 **Art. 84a.** W przypadku zdarzenia radiacyjnego powodującego zagrożenie o zasięgu wojewódzkim państwowy wojewódzki inspektor sanitarny:
+
+- **1)** zapewnia wsparcie merytoryczne wojewody w zakresie:
+    - **a)** pomiarów dozymetrycznych i spektrometrycznych na miejscu zdarzenia radiacyjnego,
+    - **b)** oznaczeń laboratoryjnych, interpretacji wyników i analiz,
+    - **c)** oceny zagrożenia i rozwoju sytuacji awaryjnej,
+    - **d)** opracowania projektu informacji, o której mowa w art. 92a ust. 1;
+
+- **2)** współpracuje z wojewodą w zakresie działań interwencyjnych, o których mowa w art. 90.
 
 **Art. 84b.**
 
@@ -4648,7 +4999,20 @@ Prawo atomowe
 
 **Art. 86j.** W sytuacji narażenia istniejącego i wystąpienia istotnych, w tym długotrwałych, skażeń promieniotwórczych terenu lub środowiska w wyniku zdarzenia radiacyjnego minister właściwy do spraw wewnętrznych opracowuje strategię zarządzania terenami skażonymi, która uzupełnia strategię zarządzania sytuacją narażenia istniejącego dla wojewódzkiego i krajowego planu postępowania awaryjnego i zawiera:
 
+- **1)** zamierzenia w zakresie zarządzania terenami skażonymi, w tym długoterminowe cele strategiczne oraz odpowiadające im poziomy odniesienia, o których mowa w art. 83e;
+- **2)** kryteria wydzielania terenów dotkniętych skażeniami promieniotwórczymi oraz identyfikacji osób z ogółu ludności dotkniętych tymi skażeniami;
+- **3)** analizę potrzeb w zakresie niezbędnych środków ochronnych, które należy zastosować w odniesieniu do terenów i osób z ogółu ludności dotkniętych skażeniem promieniotwórczym, oraz określenie zakresu tych środków;
+- **4)** analizę potrzeb w zakresie kontroli dostępu do terenów dotkniętych skażeniem promieniotwórczym lub wprowadzenia ograniczeń dotyczących warunków życia na tych terenach;
+- **5)** ocenę narażenia różnych grup ludności oraz ocenę środków, które są dostępne dla poszczególnych osób w celu kontroli ich narażenia;
+- **6)** rozwiązania w zakresie postępowania z odpadami promieniotwórczymi powstałymi podczas usuwania skutków zdarzenia radiacyjnego.
+
 **Art. 86k.** W sytuacji narażenia istniejącego, na terenie długotrwale skażonym w wyniku zdarzenia radiacyjnego, organ kierujący akcją likwidacji zagrożenia i usuwania skutków zdarzenia radiacyjnego może wyrazić zgodę na pobyt czasowy lub stały ludzi, w tym prowadzenie lub wznowienie działalności społeczno-gospodarczej na tym terenie, pod warunkiem:
+
+- **1)** wdrożenia strategii zarządzania terenami skażonymi, o której mowa w art. 86j;
+- **2)** określenia dla danego terenu odpowiednich poziomów odniesienia dawek skutecznych (efektywnych) w sytuacji narażenia istniejącego;
+- **3)** zapewnienia osobom przebywającym na tym terenie niezbędnych informacji o sytuacji radiacyjnej, zagrożeniu oraz biologicznych skutkach promieniowania jonizującego;
+- **4)** wskazania działań i zachowań ludności mających na celu optymalizację narażenia;
+- **5)** monitorowania sytuacji radiacyjnej na skażonym obszarze oraz informowania ludności o wynikach ocen sytuacji radiacyjnej.
 
 **Art. 86l.**
 
@@ -4728,6 +5092,16 @@ Prawo atomowe
 3. Rada Ministrów określi, w drodze rozporządzenia, zakres programu monitoringu radiacyjnego środowiska, o którym mowa w ust. 1, kierując się koniecznością zapewnienia wiarygodnych danych niezbędnych do oceny narażenia pracowników oraz osób z ogółu ludności.
 
 **Art. 86p.** Na wypadek zdarzenia radiacyjnego powodującego zagrożenie publiczne o zasięgu wojewódzkim albo krajowym wojewoda określa dla podległych organów i służb rozwiązania organizacyjne i techniczne zapewniające:
+
+- **1)** niezwłoczną ocenę zagrożenia, w tym ocenę rozwoju sytuacji awaryjnej;
+- **2)** niezwłoczne podjęcie działań interwencyjnych, w tym w strefach, o których mowa w art. 86l, oraz na obszarach wyznaczonych dystansami, o których mowa w art. 86n ust. 1;
+- **3)** monitorowanie skażeń osób, sprzętu i środków transportu, w tym opuszczających strefę planowania awaryjnego, oraz ich dekontaminację;
+- **4)** identyfikację osób poszkodowanych, w tym skażonych promieniotwórczo wskutek zdarzenia radiacyjnego;
+- **5)** udzielenie pomocy medycznej i psychologicznej osobom poszkodowanym;
+- **6)** ograniczenie i kontrolę dostępu do stref, o których mowa w art. 86l;
+- **7)** miejsca ewakuacji;
+- **8)** rejestrację osób z ogółu ludności w miejscach ewakuacji;
+- **9)** opiekę dla zwierząt, które pozostają na terenie, z którego uprzednio ewakuowano ich właścicieli lub opiekunów.
 
 **Art. 86q.**
 
@@ -4825,6 +5199,10 @@ Prawo atomowe
 
 **Art. 87.** Rada Ministrów określi, w drodze rozporządzenia:
 
+- **1)** (uchylony)
+- **2)** (uchylony)
+- **3)** wartości poziomów interwencyjnych dla poszczególnych rodzajów działań interwencyjnych, o których mowa w art. 90, oraz kryteria odwołania tych działań, uwzględniając zalecenia właściwych organizacji międzynarodowych.
+
 **Art. 88.**
 
 1. Decyzja o wprowadzeniu działań interwencyjnych, o których mowa w art. 90, może być podjęta po:
@@ -4858,6 +5236,13 @@ Prawo atomowe
 
 **Art. 90.** Działaniami interwencyjnymi wprowadzanymi w razie możliwości przekroczenia poziomów interwencyjnych są:
 
+- **1)** ewakuacja;
+- **2)** nakaz pozostania w pomieszczeniach zamkniętych;
+- **3)** podanie preparatów ze stabilnym jodem;
+- **4)** zakaz lub ograniczenie: spożywania skażonej żywności i skażonej wody przeznaczonej do spożycia przez ludzi, żywienia zwierząt skażonymi środkami żywienia zwierząt i pojenia skażoną wodą oraz wypasu zwierząt na skażonym terenie;
+- **5)** czasowe przesiedlenie ludności;
+- **6)** stałe przesiedlenie ludności.
+
 **Art. 90a.**
 
 1. W uzasadnionych przypadkach kierujący działaniami interwencyjnymi, o których mowa w art. 90, może wyrazić w drodze decyzji administracyjnej zgodę osobie niebędącej członkiem ekipy awaryjnej na dostęp do obszaru, z którego ewakuowano ludność, jeżeli:
@@ -4869,6 +5254,11 @@ Prawo atomowe
 2. Zgoda, o której mowa w ust. 1, jest wydawana na uzasadniony wniosek osoby ubiegającej się o uzyskanie tej zgody.
 
 **Art. 91.** Działaniami interwencyjnymi, o których mowa w art. 90, kieruje:
+
+- **1)** wojewoda właściwy dla miejsca zdarzenia radiacyjnego w przypadku zdarzenia radiacyjnego powodującego zagrożenie publiczne o zasięgu wojewódzkim;
+- **2)** minister właściwy do spraw wewnętrznych w przypadku zdarzenia radiacyjnego powodującego:
+    - **a)** zagrożenie publiczne o zasięgu krajowym,
+    - **b)** zagrożenie publiczne o zasięgu wojewódzkim, gdy podjęcie i prowadzenie działań interwencyjnych przekracza możliwości służb podległych wojewodzie.
 
 **Art. 91a.** W zakresie działań interwencyjnych, o których mowa w art. 90, wojewodzie są podporządkowane organy i jednostki organizacyjne administracji rządowej i samorządu województwa oraz inne siły i środki wydzielone do jego dyspozycji i skierowane do wykonywania tych działań.
 
@@ -5016,6 +5406,28 @@ Prawo atomowe
 
 **Art. 100.** W rozumieniu niniejszego rozdziału użyte określenia oznaczają:
 
+- **1)** urządzenie jądrowe:
+    - **a)** reaktor jądrowy, z wyjątkiem reaktora wykorzystywanego w środkach transportu morskiego lub lotniczego jako źródło mocy bądź napędu, bądź w innym celu,
+    - **b)** zakład używający paliwa jądrowego do produkcji materiału jądrowego lub zakład przetwarzania materiału jądrowego, łącznie z zakładem przerobu wypalonego paliwa jądrowego,
+    - **c)** urządzenie, w którym jest przechowywany lub składowany materiał jądrowy, z wyjątkiem przechowywania związanego z przewozem takiego materiału;
+
+- **2)** reaktor jądrowy urządzenie zawierające paliwo jądrowe w stanie, w którym samopodtrzymująca się reakcja łańcuchowa rozszczepienia jądrowego może następować bez dodatkowego źródła neutronów;
+- **3)** paliwo jądrowe materiał, który może wytwarzać energię przez samopodtrzymującą się reakcję łańcuchową rozszczepienia jądrowego;
+- **4)** materiał jądrowy:
+    - **a)** paliwo jądrowe, z wyjątkiem uranu naturalnego lub uranu zubożonego, które może wytwarzać energię w drodze samopodtrzymującej się reakcji łańcuchowej rozszczepienia jądrowego poza reaktorem jądrowym, zarówno samo, jak i w połączeniu z innymi materiałami,
+    - **b)** produkty lub odpady promieniotwórcze materiał promieniotwórczy wytworzony w procesie produkcji lub wykorzystywania paliwa jądrowego lub materiał, który stał się promieniotwórczy przez napromieniowanie w związku z tym procesem, z wyłączeniem izotopów promieniotwórczych, które osiągnęły końcową fazę ich wytwarzania, tak aby mogły być wykorzystane dla celów naukowych, medycznych, rolniczych, handlowych lub przemysłowych;
+
+- **5)** szkoda jądrowa:
+    - **a)** szkodę na osobie,
+    - **b)** szkodę w mieniu,
+    - **c)** szkodę w środowisku jako dobru wspólnym koszty zastosowanych środków mających na celu przywrócenie stanu środowiska naturalnego, jako dobra wspólnego, sprzed jego naruszenia, chyba że naruszenie jest nieznaczne w zakresie, w jakim szkoda powstała lub wynika z promieniowania jonizującego emitowanego przez jakiekolwiek źródło promieniowania wewnątrz urządzenia jądrowego lub emitowanego przez paliwo jądrowe, materiały promieniotwórcze, odpady lub materiał jądrowy, pochodzące z urządzenia jądrowego, powstałe w nim lub wprowadzone do niego, jeżeli wynikają one z właściwości promieniotwórczych tej substancji lub z połączenia właściwości promieniotwórczych z trującymi, wybuchowymi lub innymi niebezpiecznymi właściwościami takiej substancji;
+
+- **6)** środki przywracające stan środowiska sprzed jego naruszenia wszelkie właściwie zastosowane środki mające na celu przywrócenie lub naprawienie uszkodzonych lub zniszczonych składników środowiska albo, gdy jest to uzasadnione, wprowadzenie ich równoważnych odpowiedników zastępczych;
+- **7)** środki zapobiegawcze wszelkie właściwe środki podjęte po wypadku jądrowym celem zapobieżenia szkodzie jądrowej określonej w pkt 5 lub jej zmniejszenia;
+- **8)** wypadek jądrowy jakiekolwiek zdarzenie lub serię zdarzeń mających to samo źródło pochodzenia, które powodują szkodę jądrową lub poważne i bezpośrednie zagrożenie jej powstaniem;
+- **9)** osoba eksploatująca podmiot eksploatujący urządzenie jądrowe;
+- **10)** SDR jednostkę rozrachunkową Międzynarodowego Funduszu Walutowego.
+
 **Art. 100a.**
 
 1. Naprawienie szkody jądrowej następuje na zasadach określonych w przepisach Kodeksu cywilnego, z zastrzeżeniem wyjątków przewidzianych w niniejszej ustawie.
@@ -5162,6 +5574,16 @@ Prawo atomowe
 
 **Art. 108a.** W ramach wykonywania zadań związanych z wykorzystaniem energii atomowej na potrzeby społeczno-gospodarcze kraju, minister właściwy do spraw gospodarki surowcami energetycznymi podejmuje działania mające na celu rozwój energetyki jądrowej, w szczególności:
 
+- **1)** opracowuje projekty planów i strategii w zakresie rozwoju i funkcjonowania energetyki jądrowej w Rzeczypospolitej Polskiej, w tym projekt Programu polskiej energetyki jądrowej;
+- **2)** koordynuje realizację planów i strategii państwa w zakresie rozwoju energetyki jądrowej i przygotowuje założenia ich zmian;
+- **3)** prowadzi działania związane z komunikacją społeczną, edukacją i popularyzacją w zakresie energetyki jądrowej, z zastrzeżeniem art. 110 pkt 6;
+- **4)** podejmuje działania na rzecz:
+    - **a)** zapewnienia kompetentnych kadr dla energetyki jądrowej,
+    - **b)** rozwoju technologii jądrowych,
+    - **c)** udziału polskiego przemysłu w realizacji zadań w zakresie energetyki jądrowej;
+
+- **5)** monitoruje rynek uranu oraz rynek usług jądrowego cyklu paliwowego.
+
 **Art. 108b.**
 
 1. Program polskiej energetyki jądrowej, zwany dalej „Programem”, jest opracowywany zgodnie z zasadą zrównoważonego rozwoju kraju i określa w szczególności:
@@ -5278,6 +5700,20 @@ Prawo atomowe
 4. Minister właściwy do spraw klimatu sprawuje nadzór nad Prezesem Agencji.
 
 **Art. 110.** Do zakresu działania Prezesa Agencji należy wykonywanie zadań związanych z zapewnieniem bezpieczeństwa jądrowego i ochrony radiologicznej kraju, a w szczególności:
+
+- **1)** przygotowywanie projektów dokumentów dotyczących polityki państwa w zakresie zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej uwzględniających program rozwoju energetyki jądrowej i zagrożenia wewnętrzne i zewnętrzne;
+- **2)** sprawowanie nadzoru nad działalnością powodującą lub mogącą powodować narażenie ludzi i środowiska na promieniowanie jonizujące oraz przeprowadzanie kontroli w tym zakresie, w tym wydawanie decyzji w sprawach zezwoleń i uprawnień oraz innych decyzji przewidzianych w ustawie;
+- **3)** wydawanie zaleceń technicznych i organizacyjnych w sprawach bezpieczeństwa jądrowego i ochrony radiologicznej;
+- **4)** wykonywanie zadań związanych z oceną sytuacji radiacyjnej kraju w warunkach normalnych i w sytuacji zdarzeń radiacyjnych oraz przekazywanie właściwym organom i ludności informacji o tej sytuacji;
+- **5)** wykonywanie zadań wynikających z zobowiązań Rzeczypospolitej Polskiej w zakresie prowadzenia ewidencji i kontroli materiałów jądrowych, ochrony fizycznej materiałów i obiektów jądrowych, szczególnej kontroli obrotu z zagranicą towarami i technologiami jądrowymi oraz innych zobowiązań wynikających z umów międzynarodowych dotyczących bezpieczeństwa jądrowego i ochrony radiologicznej;
+- **6)** prowadzenie działań związanych z komunikacją społeczną oraz informacją techniczną i prawną w zakresie bezpieczeństwa jądrowego i ochrony radiologicznej, w tym przekazywanie ludności informacji na temat promieniowania jonizującego i jego oddziaływania na zdrowie człowieka i na środowisko oraz o możliwych do zastosowania środkach w przypadku zdarzeń radiacyjnych z wyłączeniem promocji wykorzystania promieniowania jonizującego, a w szczególności promocji energetyki jądrowej, ze względu na zasadę niezależności dozoru jądrowego;
+- **7)** współdziałanie z organami administracji rządowej i samorządowej w sprawach związanych z bezpieczeństwem jądrowym i ochroną radiologiczną oraz w sprawie badań naukowych w dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej;
+- **8)** wykonywanie zadań związanych z obronnością i obroną cywilną oraz ochroną informacji niejawnych, wynikających z odrębnych przepisów;
+- **9)** przygotowywanie opinii, w zakresie bezpieczeństwa jądrowego i ochrony radiologicznej do projektów działań technicznych związanych z pokojowym wykorzystywaniem energii atomowej, na potrzeby organów administracji rządowej i samorządowej;
+- **10)** współpraca z właściwymi jednostkami innych państw i organizacjami międzynarodowymi w zakresie objętym ustawą;
+- **11)** opracowywanie projektów aktów prawnych w zakresie objętym ustawą i uzgadnianie ich w trybie określonym w regulaminie prac Rady Ministrów;
+- **12)** opiniowanie projektów aktów prawnych opracowywanych przez uprawnione organy;
+- **13)** przedstawianie Prezesowi Rady Ministrów, w terminie do dnia 30 czerwca każdego roku, do akceptacji rocznego sprawozdania ze swojej działalności za rok poprzedni oraz oceny stanu bezpieczeństwa jądrowego i ochrony radiologicznej kraju.
 
 **Art. 111.** Prezes Rady Ministrów może określić, w drodze rozporządzenia, szczegółowy zakres działania Prezesa Agencji.
 
@@ -5618,4 +6054,88 @@ Prawo atomowe
 **Art. 138.** Traci moc ustawa z dnia 10 kwietnia 1986 r. Prawo atomowe (Dz. U. poz. 70, z późn. zm. ).
 
 **Art. 139.** Ustawa wchodzi w życie z dniem stycznia 2002 r., z wyjątkiem:
+
+- **1)** rozdziału 13 i art. 136, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia ;
+- **2)** art. 21 ust. 2 i art. 27 ust. 2, które wchodzą w życie po upływie 24 miesięcy od dnia ogłoszenia. OKREŚLENIA: DAWKI POCHŁONIĘTEJ, DAWKI RÓWNOWAŻNEJ, DAWKI SKUTECZNEJ (EFEKTYWNEJ), OBCIĄŻAJĄCEJ DAWKI RÓWNOWAŻNEJ ORAZ OBCIĄŻAJĄCEJ DAWKI SKUTECZNEJ (EFEKTYWNEJ)
+
+1. Dawka pochłonięta D: energia pochłonięta w jednostce masy, wyrażona wzorem: dε̅ D = dm gdzie: dε ̅ oznacza średnią energię przekazaną przez promieniowanie jonizujące materii w elemencie objętości, dm oznacza masę materii w elemencie objętości. Dawka pochłonięta oznacza dawkę uśrednioną w tkance lub narządzie. Jednostką dawki pochłoniętej jest grej (Gy). Jeden grej równa się jednemu dżulowi na kilogram: Gy = J kg
+
+2. Dawka równoważna H : dawka pochłonięta w tkance lub w narządzie T, ważona dla rodzaju i energii promieniowania R, wyrażona wzorem: HT = wRDT,R gdzie: D oznacza dawkę pochłoniętą promieniowania R, uśrednioną w tkance lub narządzie T, w oznacza czynnik wagowy promieniowania R. Jeżeli pole promieniowania składa się z różnych rodzajów promieniowania R o różnych energiach charakteryzujących się różnymi wartościami w , całkowitą dawkę równoważną H oblicza się zgodnie ze wzorem: HT =∑wRDT,R Jednostką dawki równoważnej jest siwert (Sv). Jeden siwert równa się jednemu dżulowi na kilogram: Sv = J kg .
+
+3. Dawka skuteczna (efektywna) E: suma ważonych dawek równoważnych od zewnętrznego i wewnętrznego napromienienia tkanek i narządów, wyrażona wzorem: E =∑wTHT =∑wT∑wRDT,R gdzie: D oznacza dawkę pochłoniętą promieniowania R, uśrednioną w tkance lub narządzie T, w oznacza czynnik wagowy promieniowania R, w oznacza czynnik wagowy tkanki lub narządu T. Jednostką dawki skutecznej (efektywnej) jest siwert (Sv).
+
+4. Obciążająca dawka równoważna H (): dawka obliczona jako całka po czasie () z mocy dawki równoważnej w tkance lub narządzie T, będąca wynikiem wniknięcia substancji promieniotwórczej do organizmu, wyrażona wzorem: HT (  ) = ∫ H ̇ T ( t ) dt dla wniknięcia w czasie t , gdzie: H ̇ T(t) oznacza moc dawki równoważnej w tkance lub narządzie T w czasie t,  oznacza okres objęty całkowaniem w latach. Dla zapewnienia zgodności z dawkami granicznymi przyjmuje się, że  jest okresem wynoszącym 50 lat dla dorosłych, a w przypadku niemowląt i dzieci okresem do wieku 70 lat. Jednostką obciążającej dawki równoważnej jest siwert (Sv).
+
+5. Obciążająca dawka skuteczna (efektywna) E(): suma obciążających dawek równoważnych będących wynikiem wniknięcia substancji promieniotwórczej do organizmu, pomnożonych przez odpowiednie czynniki wagowe tkanek lub narządów, wyrażona wzorem: E() =∑wTHT() gdzie: H () oznacza obciążającą dawkę równoważną w tkance lub narządzie T, w oznacza czynnik wagowy tkanki lub narządu T. Jednostką obciążającej dawki skutecznej (efektywnej) jest siwert (Sv). POZIOMY PROGOWE AKTYWNOŚCI ORAZ STĘŻENIA PROMIENIOTWÓRCZEGO IZOTOPÓW PROMIENIOTWÓRCZYCH Izotop promieniotwórczy Aktywność (Bq) P Aktywność (Bq) P Stężenie promieniotwórcze (kBq/kg) 2 3 4 H-3 1,00E+09 2,00E+15 1,00E+06 Be-7 1,00E+07 1,00E+12 1,00E+03 Be-10 3,00E+13 C-11 6,00E+10 C-14 1,00E+07 5,00E+13 1,00E+04 O-15 1,00E+09 1,00E+02 N-13 6,00E+10 F-18 1,00E+06 6,00E+10 1,00E+01 Na-22 1,00E+06 3,00E+10 1,00E+01 Na-24 1,00E+05 2,00E+10 1,00E+01 Mg-28 2,00E+10 Np.-26 3,00E+10 Si-31 1,00E+06 1,00E+13 1,00E+03 Si-32 7,00E+12 P-32 1,00E+05 1,00E+13 1,00E+03 P-33 1,00E+08 2,00E+14 1,00E+05 S-35 1,00E+08 6,00E+13 1,00E+05 Cl-36 1,00E+06 2,00E+13 1,00E+04 Cl-38 1,00E+05 5,00E+10 1,00E+01 Ar-37 1,00E+08 1,00E+06 Ar-39 3,00E+14 Ar-41 1,00E+09 5,00E+10 1,00E+02 K-40 1,00E+06 1,00E+02 K-42 1,00E+06 2,00E+11 1,00E+02 K-43 1,00E+06 7,00E+10 1,00E+01 Ca-45 1,00E+07 1,00E+14 1,00E+04 Ca-47 1,00E+06 6,00E+10 1,00E+01 Sc-44 3,00E+10 Sc-46 1,00E+06 3,00E+10 1,00E+01 Sc-47 1,00E+06 7,00E+11 1,00E+02 Sc-48 1,00E+05 2,00E+10 1,00E+01 Ti-44 3,00E+10 V-48 1,00E+05 2,00E+10 1,00E+01 V-49 2,00E+15 Cr-51 1,00E+07 2,00E+12 1,00E+03 Mn-51 1,00E+05 1,00E+01 Mn-52 1,00E+05 2,00E+10 1,00E+01 Mn-52m 1,00E+05 1,00E+01 Mn-53 1,00E+09 1,00E+04 Mn-54 1,00E+06 8,00E+10 1,00E+01 Mn-56 1,00E+05 4,00E+10 1,00E+01 Fe-52 1,00E+06 2,00E+10 1,00E+01 Fe-55 1,00E+06 8,00E+14 1,00E+04 Fe-59 1,00E+06 6,00E+10 1,00E+01 Fe-60 6,00E+10 Co-55 1,00E+06 3,00E+10 1,00E+01 Co-56 1,00E+05 2,00E+10 1,00E+01 Co-57 1,00E+06 7,00E+11 1,00E+02 Co-58 1,00E+06 7,00E+10 1,00E+01 Co-58m 1,00E+07 7,00E+10 1,00E+04 Co-60 1,00E+05 3,00E+10 1,00E+01 Co-60m 1,00E+06 1,00E+03 Co-61 1,00E+06 1,00E+02 Co-62m 1,00E+05 1,00E+01 Ni-59 1,00E+08 1,00E+15 1,00E+04 Ni-63 1,00E+08 6,00E+13 1,00E+05 Ni-65 1,00E+06 1,00E+11 1,00E+01 Cu-64 1,00E+06 3,00E+11 1,00E+02 Cu-67 7,00E+11 Zn-65 1,00E+06 1,00E+11 1,00E+01 Zn-69 1,00E+06 3,00E+13 1,00E+04 Zn-69m 1,00E+06 2,00E+11 1,00E+02 Ga-67 5,00E+11 Ga-68 7,00E+10 Ga-72 1,00E+05 3,00E+10 1,00E+01 Ge-68 7,00E+10 Ge-71 1,00E+08 1,00E+15 1,00E+04 Ge-77 6,00E+10 As-72 4,00E+10 As-73 1,00E+07 4,00E+13 1,00E+03 As-74 1,00E+06 9,00E+10 1,00E+01 As-76 1,00E+05 2,00E+11 1,00E+02 As-77 1,00E+06 8,00E+12 1,00E+03 Se-75 1,00E+06 2,00E+11 1,00E+02 Se-79 2,00E+14 Br-76 3,00E+10 Br-77 2,00E+11 Br-82 1,00E+06 3,00E+10 1,00E+01 Kr-74 1,00E+09 1,00E+02 Kr-76 1,00E+09 1,00E+02 Kr-77 1,00E+09 1,00E+02 Kr-79 1,00E+05 1,00E+03 Kr-81 1,00E+07 3,00E+13 1,00E+04 Kr-83m 1,00E+12 1,00E+05 Kr-85 1,00E+04 3,00E+13 1,00E+05 Kr-85m 1,00E+10 5,00E+11 1,00E+03 Kr-87 1,00E+09 9,00E+10 1,00E+02 Kr-88 1,00E+09 1,00E+02 Rb-81 1,00E+11 Rb-83 1,00E+11 Rb-84 7,00E+10 Rb-86 1,00E+05 7,00E+11 1,00E+02 Sr-82 6,00E+10 Sr-85 1,00E+06 1,00E+11 1,00E+02 Sr-85m 1,00E+07 1,00E+11 1,00E+02 Sr-87m 1,00E+06 2,00E+11 1,00E+02 Sr-89 1,00E+06 2,00E+13 1,00E+03 Sr-90+ 1,00E+04 1,00E+12 1,00E+02 Sr-91 1,00E+05 6,00E+10 1,00E+01 Sr-92 1,00E+06 4,00E+10 1,00E+01 Y-87 9,00E+10 Y-88 3,00E+10 Y-90 1,00E+05 5,00E+12 1,00E+03 Y-91 1,00E+06 8,00E+12 1,00E+03 Y-91m 1,00E+06 1,00E+11 1,00E+02 Y-92 1,00E+05 2,00E+11 1,00E+02 Y-93 1,00E+05 6,00E+11 1,00E+02 Zr-88 2,00E+10 Zr-93+ 1,00E+07 1,00E+03 Zr-95 1,00E+06 4,00E+10 1,00E+01 Zr-97+ 1,00E+05 4,00E+10 1,00E+01 Nb-93m 1,00E+07 3,00E+14 1,00E+04 Nb-94 1,00E+06 4,00E+10 1,00E+01 Nb-95 1,00E+06 9,00E+10 1,00E+01 Nb-97 1,00E+06 1,00E+11 1,00E+01 Nb-98 1,00E+05 1,00E+01 Mo-90 1,00E+06 1,00E+01 Mo-93 1,00E+08 3,00E+14 1,00E+03 Mo-99 1,00E+06 3,00E+11 1,00E+02 Mo-101 1,00E+06 1,00E+01 Tc-95m 1,00E+11 Tc-96 1,00E+06 3,00E+10 1,00E+01 Tc-96m 1,00E+07 3,00E+10 1,00E+03 Tc-97 1,00E+08 1,00E+03 Tc-97m 1,00E+07 4,00E+13 1,00E+03 Tc-98 5,00E+10 Tc-99 1,00E+07 3,00E+13 1,00E+04 Tc-99m 1,00E+07 7,00E+11 1,00E+02 Ru-97 1,00E+07 3,00E+11 1,00E+02 Ru-103 1,00E+06 1,00E+11 1,00E+02 Ru-105 1,00E+06 8,00E+10 1,00E+01 Ru-106+ 1,00E+05 3,00E+11 1,00E+02 Rh-99 1,00E+11 Rh-101 3,00E+11 Rh-102 3,00E+10 Rh-102m 1,00E+11 Rh-103m 1,00E+08 9,00E+14 1,00E+04 Rh-105 1,00E+07 9,00E+11 1,00E+02 Pd-103 1,00E+08 9,00E+13 1,00E+03 Pd-109 1,00E+06 2,00E+13 1,00E+03 Ag-105 1,00E+06 1,00E+11 1,00E+02 Ag-108m+ 1,00E+06 4,00E+10 1,00E+01 Ag-110m 1,00E+06 2,00E+10 1,00E+01 Ag-111 1,00E+06 2,00E+12 1,00E+03 Cd-109 1,00E+06 2,00E+13 1,00E+04 Cd-113m 4,00E+13 Cd-115 1,00E+06 2,00E+11 1,00E+02 Cd-115m 1,00E+06 3,00E+12 1,00E+03 In-111 1,00E+06 2,00E+11 1,00E+02 In-113m 1,00E+06 3,00E+11 1,00E+02 In-114m 1,00E+06 8,00E+11 1,00E+02 In-115m 1,00E+06 4,00E+11 1,00E+02 Sn-113 1,00E+07 3,00E+11 1,00E+03 Sn-117m 5,00E+11 Sn-119m 7,00E+13 Sn-121m 7,00E+13 Sn-123 7,00E+12 Sn-125 1,00E+05 1,00E+11 1,00E+02 Sn-126 3,00E+10 Sb-122 1,00E+04 1,00E+11 1,00E+02 Sb-124 1,00E+06 4,00E+10 1,00E+01 Sb-125 1,00E+06 2,00E+11 1,00E+02 Sb-126 2,00E+10 Te-121 1,00E+11 Te-121m 1,00E+11 Te-123m 1,00E+07 6,00E+11 1,00E+02 Te-125m 1,00E+07 1,00E+13 1,00E+03 Te-127 1,00E+06 1,00E+13 1,00E+03 Te-127m 1,00E+07 3,00E+12 1,00E+03 Te-129 1,00E+06 1,00E+12 1,00E+02 Te-129m 1,00E+06 1,00E+12 1,00E+03 Te-131 1,00E+05 1,00E+02 Te-131m 1,00E+06 4,00E+10 1,00E+01 Te-132 1,00E+07 3,00E+10 1,00E+02 Te-133 1,00E+05 1,00E+01 Te-133m 1,00E+05 1,00E+01 Te-134 1,00E+06 1,00E+01 I-123 1,00E+07 5,00E+11 1,00E+02 I-124 6,00E+10 I-125 1,00E+06 2,00E+11 1,00E+03 I-126 1,00E+06 1,00E+11 1,00E+02 I-129 1,00E+05 1,00E+02 I-130 1,00E+06 1,00E+01 I-131 1,00E+06 2,00E+11 1,00E+02 I-132 1,00E+05 3,00E+10 1,00E+01 I-133 1,00E+06 1,00E+11 1,00E+01 I-134 1,00E+05 3,00E+10 1,00E+01 I-135 1,00E+06 4,00E+10 1,00E+01 Xe-122 6,00E+10 Xe-123 9,00E+10 Xe-127 3,00E+11 Xe-131m 1,00E+04 1,00E+13 1,00E+04 Xe-133 1,00E+04 3,00E+12 1,00E+03 Xe-135 1,00E+10 3,00E+11 1,00E+03 Cs-129 1,00E+05 3,00E+11 1,00E+02 Cs-131 1,00E+06 2,00E+13 1,00E+03 Cs-132 1,00E+05 1,00E+11 1,00E+01 Cs-134 1,00E+04 4,00E+10 1,00E+01 Cs-134m 1,00E+05 4,00E+10 1,00E+03 Cs-135 1,00E+07 1,00E+04 Cs-136 1,00E+05 3,00E+10 1,00E+01 Cs-137+ 1,00E+04 1,00E+11 1,00E+01 Cs-138 1,00E+04 1,00E+01 Ba-131 1,00E+06 2,00E+11 1,00E+02 Ba-133 2,00E+11 Ba-133m 3,00E+11 Ba-140+ 1,00E+05 3,00E+10 1,00E+01 La-137 2,00E+13 La-140 1,00E+05 3,00E+10 1,00E+01 Ce-139 1,00E+06 6,00E+11 1,00E+02 Ce-141 1,00E+07 1,00E+12 1,00E+02 Ce-143 1,00E+06 3,00E+11 1,00E+02 Ce-144+ 1,00E+05 9,00E+11 1,00E+02 Pr-142 1,00E+05 1,00E+12 1,00E+02 Pr-143 1,00E+06 3,00E+13 1,00E+04 Nd-147 1,00E+06 6,00E+11 1,00E+02 Nd-149 1,00E+06 2,00E+11 1,00E+02 Pm-143 2,00E+11 Pm-144 4,00E+10 Pm-145 1,00E+13 Pm-147 1,00E+07 4,00E+13 1,00E+04 Pm-148m 3,00E+10 Pm-149 1,00E+06 6,00E+12 1,00E+03 Pm-151 2,00E+11 Sm-145 4,00E+12 Sm-151 1,00E+08 5,00E+14 1,00E+04 Sm-153 1,00E+06 2,00E+12 1,00E+02 Eu-147 2,00E+11 Eu-148 3,00E+10 Eu-149 2,00E+12 Eu-150b 2,00E+12 Eu-150a 5,00E+10 Eu-152 1,00E+06 6,00E+10 1,00E+01 Eu-152m 1,00E+06 2,00E+11 1,00E+02 Eu-154 1,00E+06 6,00E+10 1,00E+01 Eu-155 1,00E+07 2,00E+12 1,00E+02 Eu-156 5,00E+10 Gd-146 3,00E+10 Gd-148 4,00E+11 Gd-153 1,00E+07 1,00E+12 1,00E+02 Gd-159 1,00E+06 2,00E+12 1,00E+03 Tb-157 1,00E+14 Tb-158 9,00E+10 Tb-160 1,00E+06 6,00E+10 1,00E+01 Dy-159 6,00E+12 Dy-165 1,00E+06 3,00E+12 1,00E+03 Dy-166 1,00E+06 1,00E+12 1,00E+03 Ho-166 1,00E+05 2,00E+12 1,00E+03 Ho-166m 4,00E+10 Er-169 2,00E+14 Er-171 1,00E+06 2,00E+11 1,00E+02 Tm-167 6,00E+11 Tm-170 1,00E+06 2,00E+13 1,00E+03 Tm-171 1,00E+08 3,00E+14 1,00E+04 Yb-169 3,00E+11 Yb-175 1,00E+07 2,00E+12 1,00E+03 Lu-172 4,00E+10 Lu-173 9,00E+11 Lu-174 8,00E+11 Lu-174m 6,00E+11 Lu-177 1,00E+07 2,00E+12 1,00E+03 Hf-172 4,00E+10 Hf-175 2,00E+11 Hf-181 1,00E+06 1,00E+11 1,00E+01 Hf-182 5,00E+10 Ta-178 7,00E+10 Ta-179 6,00E+12 Ta-182 1,00E+04 6,00E+10 1,00E+01 W-178 9,00E+11 W-181 1,00E+07 5,00E+12 1,00E+03 W-185 1,00E+07 1,00E+14 1,00E+04 W-187 1,00E+06 1,00E+11 1,00E+02 W-188 1,00E+12 Re-184 8,00E+10 Re-184m 7,00E+10 Re-186 1,00E+06 4,00E+12 1,00E+03 Re-188 1,00E+05 1,00E+12 1,00E+02 Re-189 1,00E+12 Os-185 1,00E+06 1,00E+11 1,00E+01 Os-191 1,00E+07 2,00E+12 1,00E+02 Os-191m 1,00E+07 1,00E+12 1,00E+03 Os-193 1,00E+06 1,00E+12 1,00E+02 Os-194 7,00E+11 Ir-189 1,00E+12 Ir-190 1,00E+06 5,00E+10 1,00E+01 Ir-192 1,00E+04 8,00E+10 1,00E+01 Ir-194 1,00E+05 7,00E+11 1,00E+02 Pt-188 4,00E+10 Pt-191 1,00E+06 3,00E+11 1,00E+02 Pt-193 3,00E+15 Pt-193m 1,00E+07 1,00E+13 1,00E+03 Pt-195m 2,00E+12 Pt-197 1,00E+06 4,00E+12 1,00E+03 Pt-197m 1,00E+06 9,00E+11 1,00E+02 Au-193 6,00E+11 Au-194 7,00E+10 Au-195 2,00E+12 Au-198 1,00E+06 2,00E+11 1,00E+02 Au-199 1,00E+06 9,00E+11 1,00E+02 Hg-194 7,00E+10 Hg-195m 2,00E+11 Hg-197 1,00E+07 2,00E+12 1,00E+02 Hg-197m 1,00E+06 7,00E+11 1,00E+02 Hg-203 1,00E+05 3,00E+11 1,00E+02 Tl-200 1,00E+06 5,00E+10 1,00E+01 Tl-201 1,00E+06 1,00E+12 1,00E+02 Tl-202 1,00E+06 2,00E+11 1,00E+02 Tl-204 1,00E+04 2,00E+13 1,00E+04 Pb-201 9,00E+10 Pb-202 2,00E+11 Pb-203 1,00E+06 2,00E+11 1,00E+02 Pb-210+ 1,00E+04 3,00E+11 1,00E+01 Pb-212+ 1,00E+05 5,00E+10 1,00E+01 Bi-205 4,00E+10 Bi-206 1,00E+05 2,00E+10 1,00E+01 Bi-207 1,00E+06 5,00E+10 1,00E+01 Bi-210 1,00E+06 8,00E+12 1,00E+03 Bi-210m 3,00E+11 Bi-212+ 1,00E+05 5,00E+10 1,00E+01 Po-203 1,00E+06 1,00E+01 Po-205 1,00E+06 1,00E+01 Po-207 1,00E+06 1,00E+01 Po-210 1,00E+04 6,00E+10 1,00E+01 At-211 1,00E+07 5,00E+11 1,00E+03 Rn-220+ 1,00E+07 1,00E+04 Rn-222+ 1,00E+08 4,00E+10 1,00E+01 Ra-223+ 1,00E+05 1,00E+11 1,00E+02 Ra-224+ 1,00E+05 5,00E+10 1,00E+01 Ra-225 1,00E+05 1,00E+11 1,00E+02 Ra-226+ 1,00E+04 4,00E+10 1,00E+01 Ra-227 1,00E+06 1,00E+02 Ra-228+ 1,00E+05 3,00E+10 1,00E+01 Ac-225 9,00E+10 Ac-227 4,00E+10 Ac-228 1,00E+06 3,00E+10 1,00E+01 Th-226+ 1,00E+07 1,00E+03 Th-227 1,00E+04 8,00E+10 1,00E+01 Th-228+ 1,00E+04 4,00E+10 1,00E+00 Th-229+ 1,00E+03 1,00E+10 1,00E+00 Th-230 1,00E+04 7,00E+10 1,00E+00 Th-231 1,00E+07 1,00E+13 1,00E+03 Th-nat 1,00E+03 1,00E+00 Th-234+ 1,00E+05 2,00E+12 1,00E+03 Pa-230 1,00E+06 1,00E+11 1,00E+01 Pa-231 1,00E+03 6,00E+10 1,00E+00 Pa-233 1,00E+07 4,00E+11 1,00E+02 U-230+ 1,00E+05 4,00E+10 1,00E+01 U-231 1,00E+07 1,00E+02 U-232+ 1,00E+03 6,00E+10 1,00E+00 U-233 1,00E+04 7,00E+10 1,00E+01 U-234 1,00E+04 1,00E+11 1,00E+01 U-235+ 1,00E+04 8,00E+07 1,00E+01 U-236 1,00E+04 2,00E+11 1,00E+01 U-237 1,00E+06 1,00E+02 U-238+ 1,00E+04 1,00E+01 U-nat 1,00E+03 1,00E+00 U-239 1,00E+06 1,00E+02 U-240 1,00E+07 1,00E+03 U-240+ 1,00E+06 1,00E+01 U wzb. 10–20 % 8,00E+08 U wzb. > 20 % 8,00E+07 Np.-235 1,00E+14 Np.-236b 7,00E+09 Np.-236a 8,00E+11 Np.-237+ 1,00E+03 7,00E+10 1,00E+00 Np.-239 1,00E+07 5,00E+11 1,00E+02 Np.-240 1,00E+06 1,00E+01 Pu-234 1,00E+07 1,00E+02 Pu-235 1,00E+07 1,00E+02 Pu-236 1,00E+04 1,00E+11 1,00E+01 Pu-237 1,00E+07 2,00E+12 1,00E+03 Pu-238 1,00E+04 6,00E+10 1,00E+00 Pu-239 1,00E+04 6,00E+10 1,00E+00 Pu-240 1,00E+03 6,00E+10 1,00E+00 Pu-241 1,00E+05 3,00E+12 1,00E+02 Pu-242 1,00E+04 7,00E+10 1,00E+00 Pu-243 1,00E+07 1,00E+03 Pu-244 1,00E+04 3,00E+08 1,00E+00 Am-241 1,00E+04 6,00E+10 1,00E+00 Am-242 1,00E+06 1,00E+03 Am-242m+ 1,00E+04 3,00E+11 1,00E+00 Am-243+ 1,00E+03 2,00E+11 1,00E+00 Am-244 9,00E+10 Cm-240 3,00E+11 Cm-241 1,00E+11 Cm-242 1,00E+05 4,00E+10 1,00E+02 Cm-243 1,00E+04 2,00E+11 1,00E+00 Cm-244 1,00E+04 5,00E+10 1,00E+01 Cm-245 1,00E+03 9,00E+10 1,00E+00 Cm-246 1,00E+03 2,00E+11 1,00E+00 Cm-247 1,00E+04 1,00E+09 1,00E+00 Cm-248 1,00E+03 5,00E+09 1,00E+00 Bk-247 8,00E+10 Bk-249 1,00E+06 1,00E+13 1,00E+03 Cf-246 1,00E+06 1,00E+03 Cf-248 1,00E+04 1,00E+11 1,00E+01 Cf-249 1,00E+03 1,00E+11 1,00E+00 Cf-250 1,00E+04 1,00E+11 1,00E+01 Cf-251 1,00E+03 1,00E+11 1,00E+00 Cf-252 1,00E+04 2,00E+10 1,00E+01 Cf-253 1,00E+05 4,00E+11 1,00E+02 Cf-254 1,00E+03 3,00E+08 1,00E+00 Es-253 1,00E+05 1,00E+02 Es-254 1,00E+04 1,00E+01 Es-254m 1,00E+06 1,00E+02 Fm-254 1,00E+07 1,00E+04 Fm-255 1,00E+06 1,00E+03 Pu-239/Be-9 6,00E+10 Am-241/Be-9 6,00E+10 Liczby zapisano w postaci wykładniczej, gdzie liczba po literze E oznacza wykładnik całkowity liczby 10. Uwaga: Izotopy opatrzone wskaźnikiem „+” lub „nat” (naturalny) oznaczają izotopy macierzyste znajdujące się w stanie równowagi wiekowej ze swymi pochodnymi, podanymi poniżej. W takich przypadkach wartości poziomu progowego aktywności źródła niekontrolowanego podane w tabeli odnoszą się tylko do izotopów macierzystych, gdyż uwzględniają one również udział izotopów pochodnych. Izotopy macierzyste Izotopy pochodne 2 Sr-90+ Y-90 Zr-93+ Nb-93m Zr-97+ Nb-97 Ru-106+ Rh-106 Ag-108m+ Ag-108 Cs-137+ Ba-137m Ba-140+ La-140 Ce-144+ Pr-144 Pb-210+ Bi-210, Po-210 Pb-212+ Bi-212, Tl-208, Po-212 Bi-212+ TI-208, Po-212 Rn-220+ Po-216 Rn-222+ Po-218, Pb-214, Bi-214, Po-214 Ra-223+ Rn-219, Po-215, Pb-211, Bi-211, Tl-207 Ra-224+ Rn-220, Po-216, Pb-212, Bi-212, Tl-208, Po-212 Ra-226+ Rn-222, Po-218, Pb-214, Bi-214, Po-214, Pb-210, Bi-210, Po-210 Ra-228+ Ac-228 Th-226+ Ra-222, Rn-218, Po-214 Th-228+ Ra-224, Rn-220, Po-216, Pb-212, Bi-212, Tl-208, Po-212 Th-229+ Ra-225, Ac-225, Fr-221, Ar-217, Bi-213, Po-213, Pb-209 Th-nat Ra-228, Ac-228, Th-228, Ra-224, Rn-220, Po-216, Pb-212, Bi-212, Tl-208, Po-212 Th-234+ Pa-234m U-230+ Th-226, Ra-222, Rn-218, Po-214 U-232+ Th-228, Ra-224, Rn-220, Po-216, Pb-212, Bi-212, Tl-208, Po-212 U-235+ Th-231 U-238+ Th-234, Pa-234m U-nat Th-234, Pa-234m, U-234, Th-230, Ra-226, Rn-222, Po-218, Pb-214, Bi-214, Pb-210, Bi-210, Po-210, Po-214 U-240+ Np.-240m Np.-237+ Pa-233 Am-242m+ Am-242 Am-243+ Np.-239 SYMBOL PROMIENIOWANIA JONIZUJĄCEGO DAWKI GRANICZNE PROMIENIOWANIA JONIZUJĄCEGO I. Dla pracowników
+
+1. Dla pracowników dawka graniczna, wyrażona jako dawka skuteczna (efektywna), wynosi 20 mSv w ciągu roku kalendarzowego.
+
+2. W przypadku wyrażenia zgody, o której mowa w art. 14 ust. 1a ustawy, dawka, o której mowa w pkt 1, może być w danym roku kalendarzowym przekroczona do wartości 50 mSv, o ile zgodę na takie przekroczenie wyda, ze względu na szczególne warunki lub okoliczności wykonywania działalności związanej z narażeniem, organ właściwy do wydania zezwolenia, przyjęcia zgłoszenia albo przyjęcia powiadomienia, o których mowa w art. 4 ust. lub 1a ustawy.
+
+3. W przypadku, o którym mowa w pkt 2, średnia roczna dawka skuteczna (efektywna) w każdym okresie pięciu kolejnych lat kalendarzowych, w tym lat, w których dawka graniczna została przekroczona, nie może przekroczyć 20 mSv.
+
+4. Dawka graniczna, wyrażona jako dawka równoważna, wynosi w ciągu roku kalendarzowego:
+
+- **1)** 20 mSv dla soczewki oka;
+- **2)** 500 mSv dla skóry, jako wartość średnia dla każdego obszaru cm napromienionej części skóry, niezależnie od napromienionej powierzchni;
+- **3)** 500 mSv dla kończyn zdefiniowanych jako dłonie, przedramiona, stopy i kostki.
+
+5. Wartość, o której mowa w pkt 4 ppkt 1, może być w pojedynczym roku kalendarzowym przekroczona do 50 mSv, jednakże w każdym okresie pięciu kolejnych lat kalendarzowych, w tym lat, w których dawka graniczna została przekroczona, nie może przekroczyć 100 mSv. II. Dla uczniów, studentów i praktykantów
+
+1. Dla uczniów, studentów i praktykantów, w wieku 18 lat i powyżej, mają zastosowanie dawki graniczne ustalone w poz. I.
+
+2. Dla uczniów, studentów i praktykantów, w wieku od 16 lat do 18 lat, dawka graniczna, wyrażona jako dawka skuteczna (efektywna), z zastrzeżeniem art. 14 ust. 1b i 1c ustawy, wynosi 6 mSv w ciągu roku kalendarzowego, przy czym dawka graniczna, wyrażona jako dawka równoważna, wynosi w ciągu roku kalendarzowego:
+
+- **1)** 15 mSv dla soczewki oka;
+- **2)** 150 mSv dla skóry, jako wartość średnia dla każdego obszaru cm napromienionej części skóry, niezależnie od napromienionej powierzchni;
+- **3)** 150 mSv dla kończyn zdefiniowanych jako dłonie, przedramiona, stopy i kostki.
+
+3. Dla uczniów, studentów i praktykantów, w wieku poniżej 16 lat, mają zastosowanie dawki graniczne ustalone w poz. III. III. Dla osób z ogółu ludności Dla osób z ogółu ludności dawka graniczna, wyrażona jako dawka skuteczna (efektywna), wynosi mSv w ciągu roku kalendarzowego, przy czym dawka graniczna, wyrażona jako dawka równoważna, wynosi w ciągu roku kalendarzowego:
+
+- **1)** 15 mSv dla soczewki oka;
+- **2)** 50 mSv dla skóry, jako wartość średnia dla każdego obszaru cm napromienionej części skóry, niezależnie od napromienionej powierzchni. KWALIFIKACJA DZIAŁALNOŚCI ZWIĄZANEJ Z NARAŻENIEM DO KATEGORII ZAGROŻEŃ
+
+1. Kategoria I działalności związane z narażeniem mogące prowadzić do wystąpienia na terenie jednostki organizacyjnej zdarzenia radiacyjnego skutkującego lub mogącego skutkować poważnymi efektami deterministycznymi poza terenem tej jednostki, uzasadniającymi uruchomienie wyprzedzających działań interwencyjnych, w tym ewakuacji, nakazu pozostania w pomieszczeniach zamkniętych, podania preparatów ze stabilnym jodem oraz innych pilnych działań interwencyjnych. Kategoria I obejmuje rozruch, eksploatację i likwidację obiektu jądrowego, takiego jak reaktor o mocy cieplnej powyżej 100 MW (megawatów) lub przechowalnik zawierający wypalone paliwo jądrowe w ilości równoważnej rdzeniowi reaktora o mocy cieplnej 3000 MW.
+
+2. Kategoria II działalności związane z narażeniem mogące prowadzić do wystąpienia na terenie jednostki organizacyjnej zdarzenia radiacyjnego skutkującego lub mogącego skutkować efektami stochastycznymi narażenia osób z ogółu ludności poza terenem tej jednostki uzasadniającymi uruchomienie pilnych działań interwencyjnych. Kategoria II obejmuje:
+
+- **1)** rozruch, eksploatację i likwidację obiektu jądrowego, takiego jak reaktor o mocy cieplnej powyżej 2 MW do 100 MW, przechowalnik zawierający wypalone paliwo jądrowe wymagające aktywnego chłodzenia, zakład wzbogacania izotopowego, zakład wytwarzania paliwa jądrowego lub zakład przerobu wypalonego paliwa jądrowego;
+- **2)** eksploatację lub zamknięcie składowiska odpadów promieniotwórczych.
+
+3. Kategoria III działalności związane z narażeniem mogące prowadzić wyłącznie do wystąpienia zdarzenia radiacyjnego powodującego zagrożenie jednostki organizacyjnej, uzasadniającego uruchomienie pilnych działań interwencyjnych na terenie jednostki organizacyjnej. Kategoria III obejmuje:
+
+- **1)** rozruch, eksploatację i likwidację obiektu jądrowego, takiego jak reaktor o mocy cieplnej nieprzekraczającej 2 MW;
+- **2)** eksploatację i zamknięcie kopalni rudy uranu;
+- **3)** wytwarzanie i przetwarzanie materiałów jądrowych, materiałów promieniotwórczych, substancji promieniotwórczych lub źródeł promieniotwórczych oraz przetwarzanie odpadów promieniotwórczych, w pracowni izotopowej niebędącej obiektem jądrowym;
+- **4)** produkowanie urządzeń zawierających źródła promieniotwórcze;
+- **5)** zamierzone podawanie substancji promieniotwórczych ludziom i zwierzętom w celu medycznej lub weterynaryjnej diagnostyki, leczenia lub badań naukowych oraz zamierzone dodawanie substancji promieniotwórczych w procesie produkcyjnym wyrobów powszechnego użytku, wyrobów medycznych i wyposażenia wyrobów medycznych, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG, a także produktów wymienionych w załączniku XVI do tego rozporządzenia, oraz wyrobów medycznych do diagnostyki in vitro i wyposażenia wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE;
+- **6)** stosowanie materiałów jądrowych, materiałów promieniotwórczych, substancji promieniotwórczych, źródeł promieniotwórczych lub urządzeń zawierających źródła promieniotwórcze na terenie jednostki organizacyjnej w pracowni izotopowej i poza tą pracownią oraz przechowywanie materiałów jądrowych, materiałów promieniotwórczych, źródeł promieniotwórczych oraz odpadów promieniotwórczych na terenie jednostki organizacyjnej;
+- **7)** stosowanie urządzeń wytwarzających promieniowanie jonizujące na terenie jednostki organizacyjnej w pracowni rentgenowskiej lub pracowni akceleratorowej oraz poza pracownią;
+- **8)** uruchamianie pracowni, w których stosowane są źródła promieniowania jonizującego.
+
+4. Kategoria IV działalności związane z narażeniem mogące prowadzić do wystąpienia zdarzenia radiacyjnego uzasadniającego uruchomienie pilnych działań interwencyjnych w miejscu jego wystąpienia. Kategoria IV obejmuje:
+
+- **1)** stosowanie i przechowywanie materiałów jądrowych, materiałów promieniotwórczych lub źródeł promieniotwórczych w terenie;
+- **2)** transport materiałów jądrowych, materiałów promieniotwórczych, źródeł promieniotwórczych, odpadów promieniotwórczych lub wypalonego paliwa jądrowego;
+- **3)** instalowanie i obsługę urządzeń zawierających źródła promieniotwórcze oraz obrót tymi urządzeniami;
+- **4)** uruchamianie urządzeń wytwarzających promieniowanie jonizujące;
+- **5)** obrót materiałami jądrowymi, materiałami promieniotwórczymi, źródłami promieniotwórczymi lub wypalonym paliwem jądrowym oraz obrót wyrobami powszechnego użytku, wyrobami medycznymi i wyposażeniem wyrobów medycznych, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG, a także produktami wymienionymi w załączniku XVI do tego rozporządzenia, oraz wyrobami medycznymi do diagnostyki in vitro i wyposażeniem wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE, do których w procesie produkcyjnym dodano substancje promieniotwórcze, oraz przywóz na terytorium Rzeczypospolitej Polskiej i wywóz z tego terytorium tych wyrobów;
+- **6)** znalezienie porzuconej substancji promieniotwórczej, w tym źródła niekontrolowanego w miejscu publicznym, w szczególności takim jak jednostka zajmująca się magazynowaniem, sprzedażą lub przetwórstwem złomu metali.
+
+5. Kategoria V działalności związane z narażeniem zlokalizowane poza granicami Rzeczypospolitej Polskiej, mogące prowadzić do wystąpienia zdarzenia radiacyjnego wskutek uwolnienia substancji promieniotwórczych w ilości powodującej konieczność uruchomienia pilnych działań interwencyjnych na terytorium Rzeczypospolitej Polskiej. Kategoria V obejmuje reaktory jądrowe o mocy cieplnej powyżej 100 MW, zlokalizowane w odległości do 300 km od granicy Rzeczypospolitej Polskiej. WZÓR DEKLARACJA PRZEWOZU ZAMKNIĘTEGO ŹRÓDŁA PROMIENIOTWÓRCZEGO DECLARATION OF SHIPMENT OF THE SEALED RADIOACTIVE SOURCE Odbiorca zamkniętych źródeł promieniotwórczych wypełnia punkty od do 5 i przekazuje niniejszą deklarację do właściwej władzy w swoim kraju. The consignee of sealed radioactive sources must complete sections to 5 and send this declaration to the competent authority in his country. Właściwa władza w kraju odbiorcy wypełnia punkt 6 i zwraca niniejszą deklarację odbiorcy. The competent authority of the consignee country must fill in section 6 and return this declaration to the consignee. Następnie, przed wysyłką zamkniętych źródeł promieniotwórczych, odbiorca przesyła niniejszą deklarację do dostawcy tych źródeł w kraju dostawcy. Then, the consignee must send this declaration to the holder in the forwarding country prior to the shipment of the sealed sources. Wszystkie punkty niniejszej deklaracji muszą zostać wypełnione, a odpowiednie kratki zakreślone. All sections of this declaration must be completed and boxes ticked where appropriate.
+
+1. NINIEJSZA DEKLARACJA DOTYCZY: Niniejsza deklaracja jest ważna do chwili realizacji przeTHIS DECLARATION CONCERNS: wozu, o ile punkt 6 nie stanowi inaczej /This declaration is valid until the shipment is completed JEDNEGO PRZEWOZU unless otherwise stated in section 6 SINGLE SHIPMENT oczekiwana data przewozu (jeżeli jest znana): expected date of shipment (if available): WIELOKROTNYCH PRZEWOZÓW Niniejsza deklaracja jest ważna przez trzy lata, o ile SEVERAL SHIPMENTS punkt 6 nie stanowi inaczej /This declaration is valid for three years unless otherwise stated in section 6
+
+2. ADRES DOCELOWY ŹRÓDŁA (ŹRÓDEŁ) DESTINATION OF THE SOURCE(S) Nazwa odbiorcy/Name of consignee: Osoba upoważniona do kontaktów Pan/Pani/Contact person Mr./Ms: Adres/Address: Tel./Tel.: Faks/Fax: Poczta elektroniczna/e-mail:
+
+3. DOSTAWCA ŹRÓDŁA (ŹRÓDEŁ) W KRAJU WYSYŁAJĄCYM HOLDER OF THE SOURCE(S) IN THE FORWARDING COUNTRY Nazwa dostawcy/Name of holder: Osoba upoważniona do kontaktów Pan/Pani/Contact person Mr./Ms: Adres/Address: Tel./Tel.: Faks/Fax: Poczta elektroniczna/e-mail:
+
+4. OPIS PRZEWOŻONEGO ŹRÓDŁA (PRZEWOŻONYCH ŹRÓDEŁ) DESCRIPTION OF THE SOURCE(S) INVOLVED IN THE SHIPMENT Izotop promieniotwórczy (izotopy promieniotwórcze) /Radionuclide(s) Maksymalna aktywność pojedynczego źródła (MBq) /Maximum activity of individual source (MBq) Liczba źródeł /Number of sources Jeżeli zamknięte źródło (źródła) jest (są) zainstalowane w urządzeniu/przyrządzie/sprzęcie, to należy podać krótki opis tego urządzenia/przyrządu/sprzętu*: If sealed source(s) is (are) mounted in a machinery/device/equipment, short description of the machinery/ device/equipment should be given*: Podać (jeżeli to możliwe i wymagane przez właściwą władzę): Indicate (if available and requested by the competent authority): krajową lub międzynarodową normę techniczną, której wymagania spełnia (spełniają) zamknięte źródło (źródła) oraz numer świadectwa*: national or international technical standard with which the sealed source(s) complies(y) and certificate number*: datę wygaśnięcia ważności świadectwa: date of expiry of certificate: nazwę producenta i pozycję katalogową: name of the manufacturer and catalogue reference:
+
+5. DEKLARACJA OSOBY UPOWAŻNIONEJ LUB ODPOWIEDZIALNEJ DECLARATION OF AUTHORIZED OR RESPONSIBLE PERSON Ja, odbiorca, niniejszym oświadczam, że informacja podana w niniejszej deklaracji jest prawdziwa. I, the consignee, hereby certify that the information provided in this declaration is correct. Ja, odbiorca, niniejszym oświadczam, że uzyskałem zezwolenie na wykonywanie działalności ze źródłem (źródłami), zgłosiłem tą działalność lub powiadomiłem o jej wykonywaniu, co upoważnia mnie do otrzymania źródła (źródeł) opisanego (opisanych) w niniejszej deklaracji. I, the consignee, hereby certify that I got permission to carry out activities with a source (s), I reported this activity or notified its performance, which entitles me to receive the source (s) described in this declaration. Numer zezwolenia lub decyzji o przyjęciu zgłoszenia, lub data powiadomienia: The number of the permit or decision on acceptance of the application, or the date of the notification: Ja, odbiorca, niniejszym oświadczam, że spełniam wszystkie stosowne wymagania krajowe, odnoszące się do bezpiecznego przechowywania, wykorzystywania i przekazania jako odpad źródła (źródeł) opisanego (opisanych) w niniejszej deklaracji. I, the consignee, hereby certify that I comply with all the relevant national requirements, such as those relating to the safe storage, use or disposal of source(s) described in this declaration. Nazwisko/Name: Podpis/Signature: Data/Date:
+
+6. POTWIERDZENIE PRZEZ WŁAŚCIWĄ WŁADZĘ KRAJU ODBIORCY, ŻE ZAPOZNAŁA SIĘ Z NINIEJSZĄ DEKLARACJĄ CONFIRMATION BY THE COMPETENT AUTHORITY OF THE CONSIGNEE COUNTRY THAT IT HAS TAKEN NOTE OF THIS DECLARATION Pieczęć/Stamp: Nazwa właściwej władzy/Name of the competent authority: Adres/Address: Tel./Tel.: Faks/Fax: Poczta elektroniczna/e-mail: Data/Date: ...................................... Niniejsza deklaracja jest ważna do**/This declaration is valid until**: ............................................................
+
+7. POTWIERDZENIE PRZEZ SŁUŻBĘ CELNO-SKARBOWĄ PRZYWOZU/WYWOZU CUSTOMS SERVICE OF POLAND CONFIRMATION OF IMPORT/EXPORT Liczba źródeł/Number of Sources Data/Date Pieczęć/Stamp
+
 

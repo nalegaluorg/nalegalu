@@ -1,0 +1,256 @@
+---
+title: "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 28 września 2016 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu \"Modernizacja gospodarstw rolnych\" w ramach poddziałania \"Wsparcie inwestycji w gospodarstwach rolnych\" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020"
+address: WDU20160001617
+eli: DU/2016/1617
+publisher: DU
+year: 2016
+pos: 1617
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 28 września 2016 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Modernizacja gospodarstw rolnych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2016 poz. 1617 |
+| ISAP | WDU20160001617 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2016-09-28 |
+| Data wydania | 2016-10-06 |
+| Wejście w życie | 2016-10-07 |
+| Ostatnia zmiana | 2025-03-06 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001617) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1617/text.pdf) |
+
+Treść rozporządzenia
+Na podstawie art. 45 ust. 1 pkt 1 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 349 i 1888 oraz z 2016 r. poz. 337 i 1579) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 21 sierpnia 2015 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu „Modernizacja gospodarstw rolnych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1371 oraz z 2016 r. poz. 399) wprowadza się następujące zmiany:
+1)
+w § 4:
+a)
+w ust. 1 w pkt 2 lit. b otrzymuje brzmienie:
+„
+b)
+krów, których wiek przekracza 24 miesiące, zwanych dalej „krowami mlecznymi”, lub krów, które przekroczą wiek 24 miesięcy najpóźniej w dniu 15 maja roku, w którym zostanie złożony wniosek o płatność końcową, do co najmniej 25 – w przypadku obszaru, o którym mowa w pkt 1 lit. b;
+” ,
+b)
+ust. 4 otrzymuje brzmienie:
+„
+4.
+Pomoc przyznaje się, jeżeli wielkość ekonomiczna gospodarstwa jest nie mniejsza niż 10 tys. euro i nie większa niż:
+1)
+250 tys. euro – w przypadku operacji, o której mowa w ust. 1 pkt 1 lit. a,
+2)
+200 tys. euro – w przypadku operacji, o której mowa w ust. 1 pkt 1 lit. b-d
+z zastrzeżeniem ust. 5 i 6.
+” ,
+c)
+ust. 6 otrzymuje brzmienie:
+„
+6.
+W przypadku operacji, o której mowa w ust. 1 pkt 1 lit. b, pomoc może być przyznana, jeżeli wielkość ekonomiczna gospodarstwa jest nie większa niż 200 tys. euro i:
+1)
+w gospodarstwie tym na dzień złożenia wniosku o przyznanie pomocy jest utrzymywane co najmniej 25 krów mlecznych lub krów, które przekroczą wiek 24 miesięcy najpóźniej w dniu 15 maja roku, w którym został złożony ten wniosek, albo
+2)
+w gospodarstwie tym na dzień złożenia wniosku o przyznanie pomocy jest utrzymywane co najmniej 15 krów mlecznych lub krów, które przekroczą wiek 24 miesięcy najpóźniej w dniu 15 maja roku, w którym został złożony ten wniosek, i w wyniku realizacji operacji, do dnia złożenia wniosku o płatność końcową, liczba krów mlecznych lub krów, które przekroczą wiek 24 miesięcy najpóźniej w dniu 15 maja roku, w którym zostanie złożony wniosek o płatność końcową, wyniesie co najmniej 25,
+3)
+w przypadku gdy operacja jest realizowana przez osobę fizyczną, która w dniu złożenia wniosku o przyznanie pomocy ma nie więcej niż 40 lat, rozpoczęła kierowanie gospodarstwem nie wcześniej niż 5 lat przed złożeniem wniosku o przyznanie pomocy oraz posiada kwalifikacje zawodowe określone w przepisach w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej na operacje typu „Premie dla młodych rolników” w ramach poddziałania „Pomoc w rozpoczęciu działalności gospodarczej na rzecz młodych rolników” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, zwaną dalej „młodym rolnikiem” – w gospodarstwie tym na dzień złożenia wniosku o przyznanie pomocy jest utrzymywane mniej niż 15 krów mlecznych lub krów, które przekroczą wiek 24 miesięcy najpóźniej w dniu 15 maja roku, w którym został złożony ten wniosek, albo nie są utrzymywane krowy mleczne lub krowy, które przekroczą wiek 24 miesięcy najpóźniej w dniu 15 maja roku, w którym został złożony ten wniosek, i w wyniku realizacji operacji, do dnia złożenia wniosku o płatność końcową, liczba krów mlecznych lub krów, które przekroczą wiek 24 miesięcy najpóźniej w dniu 15 maja roku, w którym zostanie złożony wniosek o płatność końcową, wyniesie co najmniej 25, a wielkość ekonomiczna gospodarstwa wynosi co najmniej 10 tys. euro.
+” ;
+2)
+w § 6:
+a)
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+„
+3a.
+W przypadku gdy grunty uwzględnione przy ustalaniu wielkości ekonomicznej gospodarstwa są położone w różnych okręgach FADN w rozumieniu art. 2 lit. d rozporządzenia Rady (WE) nr 1217/2009 z dnia 30 listopada 2009 r. ustanawiającego sieć zbierania danych rachunkowych o dochodach i działalności gospodarczej gospodarstw rolnych w Unii Europejskiej (Dz. Urz. UE L 328 z 15.12.2009, str. 27, z późn. zm.) położonych w Rzeczypospolitej Polskiej, ustalając wielkość ekonomiczną tego gospodarstwa, bierze się pod uwagę współczynniki standardowej produkcji obliczone dla tego z tych okręgów, w którym jest położona największa część tych gruntów.
+” ,
+b)
+dodaje się ust. 5–7 w brzmieniu:
+„
+5.
+Ustalając spełnienie warunku, o którym mowa w § 4 ust. 5 pkt 2, bierze się pod uwagę współczynniki standardowej produkcji, na podstawie których została ustalona wielkość ekonomiczna gospodarstwa na potrzeby przyznania pomocy.
+6.
+Ustalając wielkość ekonomiczną gospodarstwa, o której mowa w § 4 ust. 5 pkt 2, uwzględnia się grunty orne, sady, łąki trwałe, pastwiska trwałe, grunty rolne zabudowane, grunty pod stawami oraz grunty pod rowami, wchodzące w skład gospodarstwa będącego w posiadaniu rolnika w dniu złożenia wniosku o płatność końcową:
+1)
+stanowiące przedmiot własności tego rolnika;
+2)
+oddane w użytkowanie wieczyste temu rolnikowi;
+3)
+które są dzierżawione przez tego rolnika z Zasobu Własności Rolnej Skarbu Państwa lub od jednostek samorządu terytorialnego, na podstawie umowy dzierżawy zawartej na czas nieoznaczony albo na okres co najmniej 5 lat od dnia złożenia wniosku o płatność końcową;
+4)
+które są dzierżawione przez tego rolnika od podmiotów innych niż wymienione w pkt 3, jeżeli umowa dzierżawy została zawarta:
+a)
+w formie aktu notarialnego albo z datą pewną oraz
+b)
+na okres co najmniej 5 lat od dnia złożenia wniosku o płatność końcową;
+5)
+do których temu rolnikowi przyznano jednolitą płatność obszarową na podstawie przepisów o płatnościach w ramach systemów wsparcia bezpośredniego, pomoc finansową w ramach działań obszarowych w ramach PROW 2007–2013 lub programu, co najmniej w roku, w którym złożono wniosek o płatność końcową, a jeżeli w danym roku nie przyznano jeszcze płatności lub pomocy, płatność lub pomoc została przyznana co najmniej w roku poprzedzającym rok złożenia wniosku o płatność końcową.
+7.
+Przy ustalaniu wielkości ekonomicznej gospodarstwa, o której mowa w § 4 ust. 5 pkt 2, bierze się pod uwagę:
+1)
+w przypadku produkcji zwierzęcej – stan średni zwierząt w roku, w którym został złożony wniosek o płatność końcową;
+2)
+w przypadku produkcji roślinnej – uprawy w plonie głównym w roku, w którym został złożony wniosek o płatność końcową; za plon główny uznaje się uprawę, której okres wegetacji jest najdłuższy.
+” ;
+3)
+w § 7:
+a)
+w ust. 1 pkt 5 otrzymuje brzmienie:
+„
+5)
+ogólne, o których mowa w art. 45 ust. 2 lit. c rozporządzenia nr 1305/2013, zwane dalej „kosztami ogólnymi”.
+” ,
+b)
+w ust. 2:
+– pkt 2 otrzymuje brzmienie: „ 2) nabycia maszyn tego samego rodzaju lub przeznaczenia jak nabyte w ramach PROW 2007–2013 w związku z podjęciem albo rozwojem działalności pozarolniczej albo w celu wyposażenia tego samego gospodarstwa – w przypadku gdy o pomoc ubiega się beneficjent PROW 2007–2013 lub współposiadacz tego gospodarstwa; ” ,
+– pkt 9 otrzymuje brzmienie: „ 9) nawodnień, w tym budowy ujęć wody, zakupu urządzeń do uzdatniania, rozprowadzania lub magazynowania wody; ” ;
+4)
+w § 10 ust. 3 otrzymuje brzmienie:
+„
+3.
+Dzień rozpoczęcia terminu składania wniosków, o którym mowa w ust. 2 pkt 1, powinien przypadać w pierwszym albo w drugim kwartale roku kalendarzowego, przy czym termin ten nie może być krótszy niż 14 dni oraz dłuższy niż 30 dni.
+” ;
+5)
+w § 12 po ust. 2 dodaje się ust. 2a w brzmieniu:
+„
+2a.
+Przepisu ust. 2 nie stosuje się w przypadku operacji, w ramach której będą realizowane inwestycje budowlane w rozumieniu przepisów prawa budowlanego lub inwestycje związane z zakładaniem sadów lub plantacji krzewów owocowych, gatunków owocujących efektywnie dłużej niż 5 lat.
+” ;
+6)
+w § 13:
+a)
+w ust. 3:
+– uchyla się pkt 12,
+– pkt 14 otrzymuje brzmienie: „ 14) oświadczenie: a) właściciela albo współwłaściciela gospodarstwa albo jego części o wyrażeniu zgody na realizację operacji – w przypadku gdy operacja będzie realizowana w gospodarstwie niestanowiącym własności podmiotu ubiegającego się o przyznanie pomocy albo stanowiącym współwłasność tego podmiotu i nie dotyczy wyłącznie nabycia rzeczy ruchomych, które nie wymagają instalacji, b) współposiadacza gospodarstwa o wyrażeniu zgody na ubieganie się o przyznanie pomocy przez podmiot ubiegający się o przyznanie pomocy – w przypadku gdy operacja będzie realizowana w gospodarstwie stanowiącym przedmiot współposiadania, c) współposiadacza nieruchomości wchodzącej w skład gospodarstwa o wyrażeniu zgody na ubieganie się o przyznanie pomocy przez podmiot ubiegający się o przyznanie pomocy – w przypadku gdy operacja będzie realizowana w gospodarstwie, w skład którego wchodzi nieruchomość będąca przedmiotem współposiadania – sporządzone na formularzu opracowanym i udostępnionym przez Agencję; ” ,
+– uchyla się pkt 15 i 16,
+– pkt 18 otrzymuje brzmienie: „ 18) kopie ostatecznych pozwoleń, zezwoleń lub innych decyzji, w tym dotyczących ocen oddziaływania na środowisko, których uzyskanie jest wymagane przez odrębne przepisy do realizacji inwestycji objętych operacją, a także kopie innych dokumentów potwierdzających spełnienie określonych w odrębnych przepisach warunków realizacji inwestycji objętych operacją – w przypadku gdy w ramach operacji będą realizowane tego typu inwestycje; ” ,
+b)
+ust. 4 otrzymuje brzmienie:
+„
+4.
+Kopie dokumentów dołącza się w formie kopii potwierdzonych za zgodność z oryginałem przez pracownika Agencji lub podmiot, który wydał dokument, albo poświadczonych za zgodność z oryginałem przez notariusza lub przez występującego w sprawie pełnomocnika będącego radcą prawnym lub adwokatem, z tym że kopie, o których mowa w ust. 3 pkt 3, 20 i 21, mogą być potwierdzone przez podmiot ubiegający się o przyznanie pomocy lub jedną z osób wspólnie wnioskujących.
+” ;
+7)
+w § 15:
+a)
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+„
+1a.
+Jeżeli podmiot ubiegający się o przyznanie pomocy pomimo wezwania nie usunął braków w wyznaczonym terminie, Agencja wzywa ponownie ten podmiot, w formie pisemnej, do usunięcia braków w terminie 14 dni od dnia doręczenia wezwania.
+” ,
+b)
+ust. 2 i 3 otrzymują brzmienie:
+„
+2.
+Jeżeli podmiot ubiegający się o przyznanie pomocy pomimo powtórnego wezwania nie usunął wszystkich braków wskazanych przez Agencję, Agencja nie przyznaje pomocy. Przepis art. 35 ust. 1 ustawy, dotyczący odmowy przyznania pomocy, stosuje się odpowiednio.
+3.
+Złożony wniosek o przyznanie pomocy nie może być zmieniany przez podmiot ubiegający się o przyznanie pomocy w zakresie kwoty wnioskowanej pomocy przez jej zwiększenie lub w zakresie planu finansowego operacji lub zestawienia rzeczowo-finansowego operacji, z wyłączeniem zmian wynikających z wezwań Agencji.
+” ;
+8)
+w § 16:
+a)
+w ust. 2 pkt 3 otrzymuje brzmienie:
+„
+3)
+jeżeli w dniu złożenia wniosku o przyznanie pomocy podmiot ubiegający się o przyznanie pomocy posiada certyfikat lub świadectwo potwierdzające, że uczestniczy w unijnym systemie jakości, o którym mowa w art. 16 ust. 1 lit. a rozporządzenia nr 1305/2013, lub w krajowym systemie jakości, o którym mowa w art. 16 ust. 1 lit. b rozporządzenia nr 1305/2013, w ramach działania „Systemy jakości produktów rolnych i środków spożywczych” objętego programem, a operacja dotyczy produkcji objętej tym systemem – przyznaje się 2 punkty, z tym że w przypadku posiadania certyfikatu potwierdzającego uczestnictwo w systemie rolnictwa ekologicznego, o którym mowa w rozporządzeniu nr 834/2007, jeżeli operacja dotyczy produkcji objętej tym systemem i suma powierzchni gruntów ornych, sadów, łąk trwałych i pastwisk trwałych w gospodarstwie objętych tym systemem stanowi co najmniej 50% sumy powierzchni gruntów ornych, sadów, łąk trwałych i pastwisk trwałych w tym gospodarstwie – przyznaje się 4 punkty;
+” ,
+b)
+w ust. 3 pkt 3 otrzymuje brzmienie:
+„
+3)
+jeżeli w dniu złożenia wniosku o przyznanie pomocy podmiot ubiegający się o przyznanie pomocy posiada certyfikat lub świadectwo potwierdzające, że uczestniczy w unijnym systemie jakości, o którym mowa w art. 16 ust. 1 lit. a rozporządzenia nr 1305/2013, lub w krajowym systemie jakości, o którym mowa w art. 16 ust. 1 lit. b rozporządzenia nr 1305/2013, w ramach działania „Systemy jakości produktów rolnych i środków spożywczych” objętego programem, a operacja dotyczy produkcji objętej tym systemem – przyznaje się 2 punkty, z tym że w przypadku posiadania certyfikatu potwierdzającego uczestnictwo w systemie rolnictwa ekologicznego, o którym mowa w rozporządzeniu nr 834/2007, jeżeli operacja dotyczy produkcji objętej tym systemem i suma powierzchni gruntów ornych, sadów, łąk trwałych i pastwisk trwałych w gospodarstwie objętych tym systemem stanowi co najmniej 50% sumy powierzchni gruntów ornych, sadów, łąk trwałych i pastwisk trwałych w tym gospodarstwie – przyznaje się 4 punkty;
+” ,
+c)
+w ust. 4 pkt 3 otrzymuje brzmienie:
+„
+3)
+jeżeli w dniu złożenia wniosku o przyznanie pomocy podmiot ubiegający się o przyznanie pomocy posiada certyfikat lub świadectwo potwierdzające, że uczestniczy w unijnym systemie jakości, o którym mowa w art. 16 ust. 1 lit. a rozporządzenia nr 1305/2013, lub w krajowym systemie jakości, o którym mowa w art. 16 ust. 1 lit. b rozporządzenia nr 1305/2013, w ramach działania „Systemy jakości produktów rolnych i środków spożywczych” objętego programem, a operacja dotyczy produkcji objętej tym systemem – przyznaje się 2 punkty, z tym że w przypadku posiadania certyfikatu potwierdzającego uczestnictwo w systemie rolnictwa ekologicznego, o którym mowa w rozporządzeniu nr 834/2007, jeżeli operacja dotyczy produkcji objętej tym systemem i suma powierzchni gruntów ornych, sadów, łąk trwałych i pastwisk
+trwałych w gospodarstwie objętych tym systemem stanowi co najmniej 50% sumy powierzchni gruntów ornych, sadów, łąk trwałych i pastwisk trwałych w tym gospodarstwie – przyznaje się 4 punkty;
+” ,
+d)
+w ust. 5 pkt 4 otrzymuje brzmienie:
+„
+4)
+jeżeli w dniu złożenia wniosku o przyznanie pomocy podmiot ubiegający się o przyznanie pomocy posiada certyfikat lub świadectwo potwierdzające, że uczestniczy w unijnym systemie jakości, o którym mowa w art. 16 ust. 1 lit. a rozporządzenia nr 1305/2013, lub w krajowym systemie jakości, o którym mowa w art. 16 ust. 1 lit. b rozporządzenia nr 1305/2013, w ramach działania „Systemy jakości produktów rolnych i środków spożywczych” objętego programem, a operacja dotyczy produkcji objętej tym systemem – przyznaje się 2 punkty, z tym że w przypadku posiadania certyfikatu potwierdzającego uczestnictwo w systemie rolnictwa ekologicznego, o którym mowa w rozporządzeniu nr 834/2007, jeżeli operacja dotyczy produkcji objętej tym systemem i suma powierzchni gruntów ornych, sadów, łąk trwałych i pastwisk trwałych w gospodarstwie objętych tym systemem stanowi co najmniej 50% sumy powierzchni gruntów ornych, sadów, łąk trwałych i pastwisk trwałych w tym gospodarstwie – przyznaje się 4 punkty;
+” ;
+9)
+w § 17:
+a)
+ust. 2 otrzymuje brzmienie:
+„
+2.
+Jeżeli wniosek o przyznanie pomocy lub dołączone do niego dokumenty nie zawierają danych niezbędnych do ustalenia liczby punktów za dane kryterium lub do tego wniosku nie dołączono dokumentów potwierdzających te dane lub potwierdzających spełnianie danego kryterium, nie przyznaje się punktów za to kryterium.
+” ,
+b)
+w ust. 7 dodaje się zdanie drugie w brzmieniu: „ W przypadku operacji realizowanej przez osoby wspólnie wnioskujące, do ustalenia pierwszeństwa w uzyskaniu pomocy uwzględnia się wiek osoby najmłodszej. ” ,
+c)
+uchyla się ust. 8;
+10)
+w § 24 w ust. 1 w pkt 11 lit. b otrzymuje brzmienie:
+„
+b)
+krów mlecznych lub krów, które przekroczą wiek 24 miesięcy najpóźniej w dniu 15 maja roku, w którym jest ustalane, czy beneficjent zrealizował lub realizuje to zobowiązanie – w przypadku operacji, o której mowa w § 4 ust. 1 pkt 1 lit. b, przy czym minimalna liczba tych krów w stadzie ma wynosić 25,
+” ;
+11)
+w § 26 w ust. 1 pkt 1 otrzymuje brzmienie:
+„
+1)
+zrealizował operację lub jej etap, w tym poniósł związane z tym koszty, zgodnie z warunkami określonymi w rozporządzeniu i w umowie oraz określonymi w innych przepisach dotyczących inwestycji objętych operacją, nie później niż do dnia złożenia wniosku o płatność końcową, a gdy został wezwany do usunięcia braków w tym wniosku zgodnie z § 28 ust. 3 lub 4 – nie później niż w terminie 14 dni od dnia doręczenia tego wezwania;
+” ;
+12)
+w § 28:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Wniosek o płatność składa się w oddziale regionalnym Agencji właściwym ze względu na miejsce realizacji operacji. Wniosek o płatność składa się osobiście lub przez upoważnioną osobę albo przesyłką rejestrowaną nadaną w placówce pocztowej operatora wyznaczonego w rozumieniu przepisów ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe.
+” ,
+b)
+po ust. 1 dodaje się ust. 1a-1c w brzmieniu:
+„
+1a.
+Wniosek o płatność może być złożony również osobiście albo przez upoważnioną osobę za pośrednictwem biura powiatowego Agencji znajdującego się na obszarze właściwości miejscowej oddziału regionalnego właściwego ze względu na miejsce realizacji operacji.
+1b.
+W przypadku złożenia wniosku o płatność osobiście albo przez upoważnioną osobę bezpośrednio w oddziale regionalnym Agencji albo za pośrednictwem biura powiatowego Agencji, z chwilą złożenia wniosku Agencja wydaje potwierdzenie jego złożenia, zawierające datę wpływu, opatrzone pieczęcią Agencji oraz podpisane przez osobę przyjmującą wniosek. W przypadku złożenia wniosku o płatność za pośrednictwem biura powiatowego Agencji, za dzień złożenia wniosku uznaje się dzień złożenia wniosku w tym biurze.
+1c.
+W przypadku złożenia wniosku o płatność przesyłką rejestrowaną nadaną w placówce pocztowej operatora wyznaczonego w rozumieniu przepisów ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, za dzień złożenia wniosku uznaje się dzień, w którym nadano tę przesyłkę.
+” ;
+13)
+w § 30 w ust. 4 pkt 2 otrzymuje brzmienie:
+„
+2)
+poświadczoną za zgodność z oryginałem przez notariusza lub występującego w sprawie pełnomocnika będącego radcą prawnym lub adwokatem albo potwierdzoną za zgodność z oryginałem przez upoważnionego pracownika Agencji, wraz z potwierdzeniem nadania tego wniosku w placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe albo kopią tego potwierdzenia poświadczoną za zgodność z oryginałem przez notariusza lub występującego w sprawie pełnomocnika będącego radcą prawnym lub adwokatem albo potwierdzoną za zgodność z oryginałem przez upoważnionego pracownika Agencji.
+” ;
+14)
+w § 31 ust. 8 otrzymuje brzmienie:
+„
+8.
+W przypadku nierozpatrzenia wniosku nabywcy w terminie, o którym mowa w ust. 7, Agencja zawiadamia wnioskodawcę o przyczynach zwłoki, wskazując nowy termin rozpatrzenia wniosku, nie dłuższy niż 2 miesiące.
+” ;
+15)
+po § 35a dodaje się § 35b w brzmieniu:
+„
+§ 35b.
+W odniesieniu do wniosków o przyznanie pomocy złożonych w 2016 r. termin, o którym mowa w § 19 ust. 1, wynosi 10 miesięcy od dnia podania do publicznej wiadomości informacji, o której mowa w § 18 ust. 1.
+” .
+§ 2.
+Do przyznawania pomocy finansowej na operacje typu „Modernizacja gospodarstw rolnych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, w sprawach objętych postępowaniami wszczętymi na wnioski złożone:
+1)
+w 2015 r. – stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym;
+2)
+w 2016 r. – stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym, z tym że:
+a)
+przepisy § 13 ust. 4 i § 15 ust. 2 rozporządzenia zmienianego w § 1 stosuje się w brzmieniu nadanym niniejszym rozporządzeniem,
+b)
+stosuje się również przepis § 15 ust. 1a rozporządzenia zmienianego w § 1, który został dodany niniejszym rozporządzeniem.
+§ 3.
+Do wypłaty pomocy finansowej na operacje typu „Modernizacja gospodarstw rolnych” w ramach poddziałania „Wsparcie inwestycji w gospodarstwach rolnych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 w sprawach wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
+§ 4.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 195 z 27.07.2011, str. 42, Dz. Urz. UE L 158 z 10.06.2013, str. 1 oraz Dz. Urz. UE L 340 z 17.12.2013, str. 1.
+

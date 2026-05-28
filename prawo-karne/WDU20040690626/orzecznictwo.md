@@ -2,11 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 18 marca 2004 r. o zmianie ustawy - Kodeks karny, ustawy - Kodeks postępowania karnego oraz ustawy - Kodeks wykroczeń*
 
-Łącznie: **2** orzeczeń
-
-## art. 1 (1)
-
-- 2013-09-09 | SO | [V Ka 395/13](https://www.saos.org.pl/judgments/21593) | Wyrok
+Łącznie: **1** orzeczeń
 
 ## (ogólnie) (1)
 

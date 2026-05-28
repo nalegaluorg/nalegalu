@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 24 marca 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 kwietnia 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-04-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000529) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/529/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 24 marca 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. z 2024 r. poz. 309), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U. poz. 1222),
 2) ustawą z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907),
@@ -56,9 +56,28 @@ o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw
 
 **Art. 1a.** Ustawa określa:
 
+- **1)** zasady sprawowania szczególnych form nadzoru przez ministra właściwego do spraw wewnętrznych nad Policją, Strażą Graniczną, Służbą Ochrony Państwa oraz Państwową Strażą Pożarną, zwanego dalej „nadzorem”;
+- **2)** zadania Inspektora Nadzoru Wewnętrznego;
+- **3)** organizację i tryb działania Biura Nadzoru Wewnętrznego, zwanego dalej „Biurem”.
+
 **Art. 1b.** Minister właściwy do spraw wewnętrznych sprawuje nadzór nad Policją, Strażą Graniczną, Służbą Ochrony Państwa oraz Państwową Strażą Pożarną w zakresie:
 
+- **1)** prawidłowości realizacji czynności operacyjno-rozpoznawczych,
+- **2)** prowadzonych czynności wyjaśniających i postępowań dyscyplinarnych,
+- **3)** rozpoznawania, zapobiegania i wykrywania popełnianych przez funkcjonariuszy Policji, Straży Granicznej i Służby Ochrony Państwa oraz strażaków Państwowej Straży Pożarnej, a także pracowników zatrudnionych w tych służbach umyślnych, ściganych z oskarżenia publicznego przestępstw oraz przestępstw skarbowych, a także realizacji zadań w tym zakresie przez Biuro Spraw Wewnętrznych Policji i Biuro Spraw Wewnętrznych Straży Granicznej,
+- **4)** weryfikowania kandydatów na określone stanowiska oraz osób zajmujących te stanowiska,
+- **5)** prawidłowości realizacji postępowań sprawdzających oraz kontrolnych postępowań sprawdzających przeprowadzanych przez Policję, Straż Graniczną i Służbę Ochrony Państwa oraz Państwową Straż Pożarną wobec własnych funkcjonariuszy, strażaków i pracowników w rozumieniu ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2024 r. poz. 632 i 1222) w zakresie, w jakim nie narusza to kompetencji Agencji Bezpieczeństwa Wewnętrznego,
+- **6)** realizacji obowiązku składania oświadczeń o stanie majątkowym przez funkcjonariuszy Policji, Straży Granicznej i Służby Ochrony Państwa oraz strażaków Państwowej Straży Pożarnej oraz pracowników zatrudnionych w tych służbach, a także ich analizy przez właściwych przełożonych w zakresie, w jakim nie narusza to kompetencji Centralnego Biura Antykorupcyjnego,
+- **7)** działania zgodnego z przepisami prawa oraz zasadami etyki funkcjonariuszy Policji, Straży Granicznej i Służby Ochrony Państwa oraz strażaków Państwowej Straży Pożarnej, w związku z koniecznością zapewnienia przestrzegania praw i wolności człowieka i obywatela,
+- **8)** przestrzegania zasad etyki zawodowej przez funkcjonariuszy Policji, Straży Granicznej i Służby Ochrony Państwa oraz strażaków Państwowej Straży Pożarnej,
+- **9)** gromadzenia i przetwarzania danych osobowych przez Policję, Straż Graniczną, Służbę Ochrony Państwa i Państwową Straż Pożarną,
+- **10)** zezwalania przez Komendanta Głównego Policji, Komendanta Głównego Straży Granicznej i Komendanta Służby Ochrony Państwa na udzielenie wiadomości stanowiącej informację niejawną uprawnionym podmiotom przy pomocy Inspektora Nadzoru Wewnętrznego, z zastrzeżeniem art. 1d.
+
 **Art. 1c.** W celu sprawowania nadzoru, o którym mowa w art. 1b, minister właściwy do spraw wewnętrznych jest uprawniony do:
+
+- **1)** weryfikacji funkcjonariuszy Policji, Straży Granicznej i Służby Ochrony Państwa oraz strażaków Państwowej Straży Pożarnej, a także pracowników zatrudnionych w tych służbach w zakresie określonym w art. 11a ust. 3 pkt 2;
+- **2)** zapoznawania się z wynikami i materiałami czynności operacyjno-rozpoznawczych prowadzonych w Policji, Straży Granicznej i Służbie Ochrony Państwa;
+- **3)** uzyskiwania informacji o wynikach i zapoznawania się z materiałami czynności wykonywanych przez Inspektora Nadzoru Wewnętrznego.
 
 **Art. 1d.** Przepisy niniejszej ustawy nie naruszają przepisów innych ustaw regulujących kwestie sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych nad Policją, Strażą Graniczną, Państwową Strażą Pożarną i Służbą Ochrony Państwa.
 
@@ -151,6 +170,15 @@ o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw
 
 **Art. 11c.** Inspektorem Nadzoru Wewnętrznego lub zastępcą Inspektora Nadzoru Wewnętrznego może być osoba, która:
 
+- **1)** posiada wyłącznie obywatelstwo polskie;
+- **2)** korzysta z pełni praw publicznych;
+- **3)** jest nieskazitelnego charakteru;
+- **4)** ze względu na posiadane kwalifikacje i praktykę zawodową daje rękojmię należytego wykonywania zadań;
+- **5)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+- **6)** spełnia wymagania określone w przepisach o ochronie informacji niejawnych w zakresie dostępu do informacji niejawnych o klauzuli „ściśle tajne”;
+- **7)** posiada wyższe wykształcenie;
+- **8)** nie pełniła służby zawodowej, nie pracowała i nie była współpracownikiem organów bezpieczeństwa państwa, wymienionych w art. 5 ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, ani też nie była sędzią, który orzekając uchybił godności urzędu, sprzeniewierzając się niezawisłości sędziowskiej.
+
 **Art. 11d.**
 
 1. Odwołanie Inspektora Nadzoru Wewnętrznego albo zastępcy Inspektora Nadzoru Wewnętrznego z zajmowanego stanowiska następuje w przypadku:
@@ -212,6 +240,10 @@ o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw
 **Art. 11h.** W Biurze mogą zostać zatrudnieni pracownicy, których wiedza i doświadczenie mogą przyczynić się do realizacji zadań Biura.
 
 **Art. 11i.** W okresie oddelegowania do Biura inspektorzy Biura oraz eksperci Biura podlegają Inspektorowi Nadzoru Wewnętrznego. Art. 11ia. Obowiązku doręczenia korespondencji przy wykorzystaniu publicznej usługi rejestrowanego doręczenia elektronicznego albo publicznej usługi hybrydowej, o których mowa w ustawie z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841), nie stosuje się:
+
+- **1)** w sprawach osobowych inspektorów Biura i ekspertów Biura oraz pracowników zatrudnionych w Biurze;
+- **2)** w sprawach osobowych byłych inspektorów Biura i ekspertów Biura oraz byłych pracowników Biura;
+- **3)** jeżeli doręczenie korespondencji przy wykorzystaniu publicznej usługi rejestrowanego doręczenia elektronicznego albo publicznej usługi hybrydowej mogłoby istotnie utrudniać lub uniemożliwić realizację zadań Biura.
 
 **Art. 11j.**
 

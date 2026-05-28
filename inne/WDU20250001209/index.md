@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie informacji niejawnych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 sierpnia 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 września 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-09-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001209) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1209/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 sierpnia 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie informacji niejawnych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2024 r. poz. 632), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U. poz. 1222),
 2) ustawą z dnia 9 maja 2025 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 820) oraz zmian wynikających z przepisów ogłoszonych przed dniem 7 sierpnia 2025 r.
@@ -89,6 +89,26 @@ strona 26/26
 5. Do danych osobowych stanowiących informacje niejawne stosuje się przepisy niniejszej ustawy.
 
 **Art. 2.** W rozumieniu ustawy:
+
+- **1)** jednostką organizacyjną jest podmiot wymieniony w art. 1 ust. 2;
+- **2)** rękojmią zachowania tajemnicy jest zdolność osoby do spełnienia ustawowych wymogów dla zapewnienia ochrony informacji niejawnych przed ich nieuprawnionym ujawnieniem, stwierdzona w wyniku przeprowadzenia postępowania sprawdzającego;
+- **3)** dokumentem jest każda utrwalona informacja niejawna;
+- **4)** materiałem jest dokument lub przedmiot albo dowolna ich część, chronione jako informacja niejawna, a zwłaszcza urządzenie, wyposażenie lub broń wyprodukowane albo będące w trakcie produkcji, a także składnik użyty do ich wytworzenia;
+- **5)** przetwarzaniem informacji niejawnych są wszelkie operacje wykonywane w odniesieniu do informacji niejawnych i na tych informacjach, w szczególności ich wytwarzanie, modyfikowanie, kopiowanie, klasyfikowanie, gromadzenie, przechowywanie, przekazywanie lub udostępnianie;
+- **6)** systemem teleinformatycznym jest system teleinformatyczny w rozumieniu art. 2 pkt 3 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513);
+- **7)** dokumentem szczególnych wymagań bezpieczeństwa jest systematyczny opis sposobu zarządzania bezpieczeństwem systemu teleinformatycznego;
+- **8)** dokumentem procedur bezpiecznej eksploatacji systemu teleinformatycznego jest opis sposobu i trybu postępowania w sprawach związanych z bezpieczeństwem informacji niejawnych przetwarzanych w systemie teleinformatycznym oraz zakres odpowiedzialności użytkowników systemu teleinformatycznego i pracowników mających do niego dostęp;
+- **9)** dokumentacją bezpieczeństwa systemu teleinformatycznego jest dokument szczególnych wymagań bezpieczeństwa oraz dokument procedur bezpiecznej eksploatacji systemu teleinformatycznego, opracowane zgodnie z zasadami określonymi w ustawie;
+- **10)** akredytacją bezpieczeństwa teleinformatycznego jest dopuszczenie systemu teleinformatycznego do przetwarzania informacji niejawnych;
+- **11)** certyfikacją jest proces potwierdzania zdolności urządzenia, narzędzia lub innego środka do ochrony informacji niejawnych;
+- **12)** audytem bezpieczeństwa systemu teleinformatycznego jest weryfikacja poprawności realizacji wymagań i procedur, określonych w dokumentacji bezpieczeństwa systemu teleinformatycznego;
+- **13)** przedsiębiorcą jest przedsiębiorca w rozumieniu ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, z późn. zm. ) lub każda inna jednostka organizacyjna, niezależnie od formy własności, którzy w ramach prowadzonej działalności gospodarczej zamierzają realizować lub realizują związane z dostępem do informacji niejawnych umowy lub zadania wynikające z przepisów prawa;
+- **14)** kierownikiem przedsiębiorcy jest członek jednoosobowego zarządu lub innego jednoosobowego organu zarządzającego, a jeżeli organ jest wieloosobowy cały organ albo członek lub członkowie tego organu wyznaczeni co najmniej uchwałą zarządu do pełnienia funkcji kierownika przedsiębiorcy, z wyłączeniem pełnomocników ustanowionych przez ten organ lub jednostkę; w przypadku spółki jawnej i spółki cywilnej kierownikiem przedsiębiorcy są wspólnicy prowadzący sprawy spółki, w przypadku spółki partnerskiej wspólnicy prowadzący sprawy spółki albo zarząd, a w odniesieniu do spółki komandytowej i spółki komandytowo-akcyjnej komplementariusze prowadzący sprawy spółki; w przypadku osoby fizycznej prowadzącej działalność gospodarczą kierownikiem przedsiębiorcy jest ta osoba; za kierownika przedsiębiorcy uważa się również likwidatora, a także syndyka lub zarządcę ustanowionego w postępowaniu upadłościowym; kierownik przedsiębiorcy jest kierownikiem jednostki organizacyjnej w rozumieniu przepisów ustawy;
+- **15)** ryzykiem jest kombinacja prawdopodobieństwa wystąpienia zdarzenia niepożądanego i jego konsekwencji;
+- **16)** szacowaniem ryzyka jest całościowy proces analizy i oceny ryzyka;
+- **17)** zarządzaniem ryzykiem są skoordynowane działania w zakresie zarządzania bezpieczeństwem informacji, z uwzględnieniem ryzyka;
+- **18)** zatrudnieniem jest również odpowiednio powołanie, mianowanie lub wyznaczenie;
+- **19)** rozwiązaniem informatycznym jest urządzenie lub zespół urządzeń, oprogramowanie, narzędzie lub usługa informatyczna umożliwiająca przetwarzanie informacji niejawnych w postaci elektronicznej, eksploatowana lub planowana do wdrożenia wyłącznie w jednostkach organizacyjnych wskazanych w art. 10 ust. 2.
 
 **Art. 3.** Do postępowań sprawdzających, kontrolnych postępowań sprawdzających oraz postępowań bezpieczeństwa przemysłowego, w zakresie nieuregulowanym w ustawie, mają zastosowanie przepisy art. 6, art. 7, art. 8, art. 12, art. 14–16, art. 24 § 1 pkt 1–6 i § 2–4, art. 26 § 1, art. 28, art. 29, art. 30 § 1–3, art. 35 § 1, art. 39, art. 41–47, art. 50, art. 55, art. 57–60, art. 61 § 3 i 4, art. 63 § 4, art. 64, art. 65, art. 72, art. 75 § 1, art. 77 § 1, art. 97 § 1 pkt 4 i § 2, art. 98, art. 101, art. 103, art. 104, art. 105 § 2, art. 107, art. 109 § 1, art. 112, art. 113 § 1, art. 125 § 1, art. 156–158 oraz art. 217 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769).
 
@@ -173,6 +193,10 @@ strona 26/26
 - **2)** ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2024 r. poz. 1632, 1897 i 1940) chyba że nadano im klauzulę tajności w wyniku przeglądu, o którym mowa w art. 19 ustawy z dnia 29 kwietnia 2016 r. o zmianie ustawy o Instytucie Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz niektórych innych ustaw (Dz. U. poz. 749), lub przeglądu, o którym mowa w art. 6 ust. 4.
 
 **Art. 8.** Informacje niejawne, którym nadano określoną klauzulę tajności:
+
+- **1)** mogą być udostępnione wyłącznie osobie uprawnionej, zgodnie z przepisami ustawy dotyczącymi dostępu do określonej klauzuli tajności;
+- **2)** muszą być przetwarzane w warunkach uniemożliwiających ich nieuprawnione ujawnienie, zgodnie z przepisami określającymi wymagania dotyczące kancelarii tajnych, bezpieczeństwa systemów teleinformatycznych, obiegu materiałów i środków bezpieczeństwa fizycznego, odpowiednich do nadanej klauzuli tajności;
+- **3)** muszą być chronione, odpowiednio do nadanej klauzuli tajności, z zastosowaniem środków bezpieczeństwa określonych w ustawie i przepisach wykonawczych wydanych na jej podstawie.
 
 **Art. 9.**
 
@@ -323,6 +347,10 @@ strona 26/26
 4. Kierownik jednostki organizacyjnej może powierzyć pełnomocnikowi ochrony oraz pracownikom pionu ochrony wykonywanie innych zadań, jeżeli ich realizacja nie naruszy prawidłowego wykonywania zadań, o których mowa w ust. 1.
 
 **Art. 16.** Pracownikiem pionu ochrony w jednostce organizacyjnej może być osoba, która posiada:
+
+- **1)** obywatelstwo polskie, z wyjątkiem pracowników pionu ochrony zatrudnionych u przedsiębiorców;
+- **2)** odpowiednie poświadczenie bezpieczeństwa lub upoważnienie, o którym mowa w art. 21 ust. 4 pkt 1;
+- **3)** zaświadczenie o odbytym przeszkoleniu w zakresie ochrony informacji niejawnych.
 
 **Art. 17.**
 
@@ -541,6 +569,10 @@ strona 26/26
 4. Do zażalenia na postanowienie w sprawie zawieszenia postępowania sprawdzającego przepisy art. 35, art. 37 i art. 38 stosuje się odpowiednio.
 
 **Art. 28.** Postępowanie sprawdzające kończy się:
+
+- **1)** wydaniem poświadczenia bezpieczeństwa;
+- **2)** odmową wydania poświadczenia bezpieczeństwa;
+- **3)** umorzeniem.
 
 **Art. 29.**
 
@@ -823,6 +855,13 @@ strona 26/26
 
 **Art. 40.** Organ albo podmiot, o którym mowa w art. 39 ust. 1, po przeprowadzeniu postępowania określonego w art. 39 ust. 8 wydaje decyzję, w której:
 
+- **1)** odmawia uchylenia decyzji o odmowie wydania lub o cofnięciu poświadczenia bezpieczeństwa, jeżeli stwierdzi brak podstaw do jej uchylenia na podstawie art. 39 ust. 1;
+- **2)** odmawia uchylenia decyzji o utrzymaniu w mocy decyzji o odmowie wydania lub o cofnięciu poświadczenia bezpieczeństwa, jeżeli stwierdzi brak podstaw do jej uchylenia na podstawie art. 39 ust. 1;
+- **3)** uchyla decyzję o odmowie wydania poświadczenia bezpieczeństwa, jeżeli stwierdzi istnienie podstaw do jej uchylenia na podstawie art. 39 ust. 1, i wydaje nową decyzję rozstrzygającą o istocie sprawy;
+- **4)** uchyla decyzję o utrzymaniu w mocy decyzji o odmowie wydania poświadczenia bezpieczeństwa oraz poprzedzającą ją decyzję o odmowie wydania poświadczenia, jeżeli stwierdzi istnienie podstaw do jej uchylenia na podstawie art. 39 ust. 1, i przekazuje sprawę do ponownego rozpatrzenia;
+- **5)** uchyla decyzję o cofnięciu poświadczenia bezpieczeństwa, jeżeli stwierdzi istnienie podstaw do jej uchylenia na podstawie art. 39 ust. 1;
+- **6)** uchyla decyzję o utrzymaniu w mocy decyzji o cofnięciu poświadczenia bezpieczeństwa oraz poprzedzającą ją decyzję o cofnięciu poświadczenia bezpieczeństwa, jeżeli stwierdzi istnienie podstaw do jej uchylenia na podstawie art. 39 ust. 1.
+
 **Art. 41.**
 
 1. Od decyzji o odmowie wznowienia postępowania, o którym mowa w art. 23 ust. 2–5, oraz od decyzji o odmowie uchylenia decyzji wydanej w wyniku postępowania, o którym mowa w art. 23 ust. 2–5, osobie sprawdzanej przysługuje odwołanie do Prezesa Rady Ministrów.
@@ -884,6 +923,11 @@ strona 26/26
 3. Przy określaniu poziomu zagrożeń, o którym mowa w ust. 2, uwzględnia się w szczególności występujące rodzaje zagrożeń, klauzule tajności i liczbę informacji niejawnych. W uzasadnionych przypadkach przy określaniu poziomu zagrożeń uwzględnia się wskazania odpowiednio ABW lub SKW.
 
 **Art. 46.** W celu uniemożliwienia osobom nieuprawnionym dostępu do informacji niejawnych o klauzuli „poufne” lub wyższej należy w szczególności:
+
+- **1)** zorganizować strefy ochronne;
+- **2)** wprowadzić system kontroli wejść i wyjść ze stref ochronnych;
+- **3)** określić uprawnienia do przebywania w strefach ochronnych;
+- **4)** stosować wyposażenie i urządzenia służące ochronie informacji niejawnych, którym przyznano certyfikaty.
 
 **Art. 47.**
 
@@ -1172,6 +1216,10 @@ strona 26/26
 2. Prezes Rady Ministrów określi, w drodze rozporządzenia, wysokość zryczałtowanych kosztów, o których mowa w ust. 1, oraz tryb ich zwrotu, uwzględniając, że wysokość kosztów nie powinna przekroczyć 7-krotności kwoty przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłaty nagród z zysku za ubiegły rok, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 60 pkt 5 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej.
 
 **Art. 62.** ABW albo SKW umarza postępowanie bezpieczeństwa przemysłowego, w tym postępowania sprawdzające wobec osób wymienionych w art. 57 ust. 3, w przypadku:
+
+- **1)** wycofania przez przedsiębiorcę wniosku o wydanie świadectwa;
+- **2)** wydania orzeczenia o zakazie prowadzenia przez przedsiębiorcę działalności gospodarczej;
+- **3)** przejęcia lub likwidacji przedsiębiorcy.
 
 **Art. 63.**
 

@@ -8,10 +8,10 @@ pos: 849
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Ustawa z dnia 13 czerwca 2013 r. o zmianie ustawy - Kodeks karny oraz ustawy - Kodeks postępowania karnego
+# Ustawa z dnia 13 czerwca 2013 r. o zmianie ustawy – Kodeks karny oraz ustawy – Kodeks postępowania karnego
 
 | Pole | Wartość |
 |---|---|
@@ -22,36 +22,79 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2013-06-13 |
 | Data wydania | 2013-07-26 |
+| Wejście w życie | 2014-01-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000849) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/849/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm. ) uchyla się 205.
+2)
+dyrektywy Parlamentu Europejskiego i Rady 2011/36/UE z dnia 5 kwietnia 2011 r. w sprawie zapobiegania handlowi ludźmi i zwalczania tego procederu oraz ochrony ofiar, zastępującej decyzję ramową Rady 2002/629/WSiSW (Dz. Urz. UE L 101 z 15.04.2011, str. 1);
+3)
+dyrektywy Parlamentu Europejskiego i Rady 2012/29/UE z dnia 25 października 2012 r. ustanawiającej normy minimalne w zakresie praw, wsparcia i ochrony ofiar przestępstw oraz zastępującej decyzję ramową Rady 2001/220/WSiSW (Dz. Urz. UE L 315 z 14.11.2012, str. 57).
 
-**Art. 2.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania (Dz. U. Nr 89, poz. 555, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.) uchyla się art. 205.
 
-**Art. 185b.**
+**Art. 2.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.) wprowadza się następujące zmiany:
 
-1. W sprawach przestępstwa popełnione z użyciem przemocy lub groźby bezprawnej lub określone rozdziałach XXV XXVI Kodeksu świadka, który chwili przesłuchania nie ukończył 15 lat, przesłuchuje się warunkach określonych 185a 1–3, jeżeli zeznania tego świadka mogą mieć istotne znaczenie dla rozstrzygnięcia sprawy.
+- **1)** w art. 12 § 3 otrzymuje brzmienie: „
 
-2. W sprawach przestępstwa wymienione 1 małoletniego świadka, który chwili przesłuchania ukończył 15 lat, przesłuchuje się trybie określonym 177 1a, gdy zachodzi uzasadniona obawa, że bezpośrednia obecność oskarżonego przy przesłuchaniu mogłaby oddziaływać krępująco na zeznania świadka lub wywierać negatywny wpływ na jego stan psychiczny.
+§ 3. Wniosek może być cofnięty w postępowaniu przygotowawczym za zgodą prokuratora, a w postępowaniu sądowym za zgodą sądu – do rozpoczęcia przewodu sądowego na pierwszej rozprawie głównej. Ponowne złożenie wniosku jest niedopuszczalne. ” ;
 
-3. Przepisów 1 2 nie stosuje się do świadka współdziałającego popełnieniu czynu zabronionego, który toczy się postępowanie karne, lub świadka, którego czyn pozostaje związku z czynem, który toczy się postępowanie karne.”;
+- **2)** w art. 147: § 2 otrzymuje brzmienie: „
+    - **a)**
 
-- **4)** po 185b dodaje się 185c 185d brzmieniu: „Art. 185c. 1. W sprawach przestępstwa określone 197–199 Kodeksu zawiadomienie przestępstwie, jeżeli składa je pokrzywdzony, powinno ograniczyć się do wskazania najważniejszych faktów dowodów.
+§ 2. Przesłuchanie świadka lub biegłego utrwala się za pomocą urządzenia rejestrującego obraz i dźwięk, gdy:
 
-2. Przesłuchanie pokrzywdzonego charakterze świadka przeprowadza sąd na posiedzeniu, którym mają prawo wziąć udział prokurator, obrońca pełnomocnik pokrzywdzonego. Na rozprawie głównej odtwarza się sporządzony zapis obrazu dźwięku przesłuchania odczytuje się protokół przesłuchania.
+- **1)** zachodzi niebezpieczeństwo, że przesłuchanie tej osoby nie będzie możliwe w dalszym postępowaniu,
+- **2)** przesłuchanie następuje w trybie określonym w art. 396. ” , po § 2 dodaje się § 2a w brzmieniu: „
+    - **b)**
 
-3. Jeżeli zajdzie konieczność ponownego przesłuchania pokrzywdzonego charakterze świadka, na jego wniosek przesłuchanie przeprowadza się sposób wskazany 177 1a, gdy zachodzi uzasadniona obawa, że bezpośrednia obecność oskarżonego przy przesłuchaniu mogłaby oddziaływać krępująco na zeznania pokrzywdzonego lub wywierać negatywny wpływ na jego stan psychiczny.
+§ 2a. Przesłuchanie pokrzywdzonego, o którym mowa w art. 185a i art. 185c, oraz świadka, o którym mowa w art. 185b, utrwala się za pomocą urządzenia rejestrującego obraz i dźwięk. ” ;
 
-4. Jeżeli przesłuchanie odbywa się z udziałem biegłego psychologa, należy zapewnić, na wniosek pokrzywdzonego, aby był on osobą tej samej płci co pokrzywdzony, chyba że będzie to utrudniać postępowanie.
+- **3)** art. 185a i art. 185b otrzymują brzmienie: „
 
-**Art. 185d.**
+**Art. 185a.**
 
-1. Przesłuchania trybie określonym 185a–185c przeprowadza się odpowiednio przystosowanych pomieszczeniach siedzibie sądu lub poza jego siedzibą.
+§ 1. W sprawach o przestępstwa popełnione z użyciem przemocy lub groźby bezprawnej lub określone w rozdziałach XXIII, XXV i XXVI Kodeksu karnego pokrzywdzonego, który w chwili przesłuchania nie ukończył 15 lat, przesłuchuje się w charakterze świadka tylko wówczas, gdy jego zeznania mogą mieć istotne znaczenie dla rozstrzygnięcia sprawy, i tylko raz, chyba że wyjdą na jaw istotne okoliczności, których wyjaśnienie wymaga ponownego przesłuchania, lub żąda tego oskarżony, który nie miał obrońcy w czasie pierwszego przesłuchania pokrzywdzonego.
 
-2. Minister Sprawiedliwości określi, drodze rozporządzenia, sposób przygotowania przesłuchania trybie,
+§ 2. Przesłuchanie przeprowadza sąd na posiedzeniu z udziałem biegłego psychologa. Prokurator, obrońca oraz pełnomocnik pokrzywdzonego mają prawo wziąć udział w przesłuchaniu. Osoba wymieniona w art. 51 § 2 lub osoba pełnoletnia wskazana przez pokrzywdzonego, o którym mowa w § 1, ma prawo również być obecna przy przesłuchaniu, jeżeli nie ogranicza to swobody wypowiedzi przesłuchiwanego. Jeżeli oskarżony zawiadomiony o tej czynności nie posiada obrońcy z wyboru, sąd wyznacza mu obrońcę z urzędu.
 
-2. Jeżeli urządzenie rejestrujące obraz dźwięk nie jest dostępne siedzibie organu przeprowadzającego przesłuchanie, można nie dopełniać obowiązku nałożonego 147 2 2a ustawy, której 2, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia życie niniejszej ustawy.
+§ 3. Na rozprawie głównej odtwarza się sporządzony zapis obrazu i dźwięku przesłuchania oraz odczytuje się protokół przesłuchania.
 
-**Art. 5.** Ustawa wchodzi życie po upływie 6 miesięcy od dnia ogłoszenia.
+§ 4. W sprawach o przestępstwa wymienione w § 1 małoletniego pokrzywdzonego, który w chwili przesłuchania ukończył 15 lat, przesłuchuje się w warunkach określonych w § 1–3, gdy zachodzi uzasadniona obawa, że przesłuchanie w innych warunkach mogłoby wywrzeć negatywny wpływ na jego stan psychiczny.
+
+§ 1. W sprawach o przestępstwa popełnione z użyciem przemocy lub groźby bezprawnej lub określone w rozdziałach XXV i XXVI Kodeksu karnego świadka, który w chwili przesłuchania nie ukończył 15 lat, przesłuchuje się w warunkach określonych w art. 185a § 1–3, jeżeli zeznania tego świadka mogą mieć istotne znaczenie dla rozstrzygnięcia sprawy.
+
+§ 2. W sprawach o przestępstwa wymienione w § 1 małoletniego świadka, który w chwili przesłuchania ukończył 15 lat, przesłuchuje się w trybie określonym w art. 177 § 1a, gdy zachodzi uzasadniona obawa, że bezpośrednia obecność oskarżonego przy przesłuchaniu mogłaby oddziaływać krępująco na zeznania świadka lub wywierać negatywny wpływ na jego stan psychiczny.
+
+§ 3. Przepisów § 1 i 2 nie stosuje się do świadka współdziałającego w popełnieniu czynu zabronionego, o który toczy się postępowanie karne, lub świadka, którego czyn pozostaje w związku z czynem, o który toczy się postępowanie karne. ” ;
+
+- **4)** po art. 185b dodaje się art. 185c i art. 185d w brzmieniu: „
+
+§ 1. W sprawach o przestępstwa określone w art. 197–199 Kodeksu karnego zawiadomienie o przestępstwie, jeżeli składa je pokrzywdzony, powinno ograniczyć się do wskazania najważniejszych faktów i dowodów.
+
+§ 2. Przesłuchanie pokrzywdzonego w charakterze świadka przeprowadza sąd na posiedzeniu, w którym mają prawo wziąć udział prokurator, obrońca oraz pełnomocnik pokrzywdzonego. Na rozprawie głównej odtwarza się sporządzony zapis obrazu i dźwięku przesłuchania oraz odczytuje się protokół przesłuchania.
+
+§ 3. Jeżeli zajdzie konieczność ponownego przesłuchania pokrzywdzonego w charakterze świadka, na jego wniosek przesłuchanie przeprowadza się w sposób wskazany w art. 177 § 1a, gdy zachodzi uzasadniona obawa, że bezpośrednia obecność oskarżonego przy przesłuchaniu mogłaby oddziaływać krępująco na zeznania pokrzywdzonego lub wywierać negatywny wpływ na jego stan psychiczny.
+
+§ 4. Jeżeli przesłuchanie odbywa się z udziałem biegłego psychologa, należy zapewnić, na wniosek pokrzywdzonego, aby był on osobą tej samej płci co pokrzywdzony, chyba że będzie to utrudniać postępowanie.
+
+§ 1. Przesłuchania w trybie określonym w art. 185a-185c przeprowadza się w odpowiednio przystosowanych pomieszczeniach w siedzibie sądu lub poza jego siedzibą.
+
+§ 2. Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób przygotowania przesłuchania w trybie, o którym mowa w § 1, oraz warunki, jakim powinny odpowiadać pomieszczenia przeznaczone do przeprowadzania takich przesłuchań, w tym ich wyposażenie techniczne, mając na względzie konieczność zapewnienia swobody wypowiedzi i poczucia bezpieczeństwa osób przesłuchiwanych. ” .
+
+**Art. 3.** Do czynów popełnionych przed dniem wejścia w życie niniejszej ustawy art. 205 ustawy, o której mowa w art. 1, oraz art. 12 § 3 ustawy, o której mowa w art. 2, stosuje się w brzmieniu dotychczasowym.
+
+**Art. 4.**
+
+1. Jeżeli na obszarze właściwości sądu nie jest dostępne pomieszczenie spełniające wymogi określone w rozporządzeniu wydanym na podstawie art. 185d § 2 ustawy, o której mowa w art. 2, przesłuchania w trybie art. 185a-185c tej ustawy można przeprowadzać w pomieszczeniach niespełniających tych wymogów, nie dłużej jednak niż przez 18 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+2. Jeżeli urządzenie rejestrujące obraz i dźwięk nie jest dostępne w siedzibie organu przeprowadzającego przesłuchanie, można nie dopełniać obowiązku nałożonego w art. 147 § 2 i 2a ustawy, o której mowa w art. 2, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 5.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
+
+- **1)** Niniejsza ustawa dokonuje częściowego wdrożenia dyrektyw:
+- **1)** dyrektywy Parlamentu Europejskiego i Rady 2011/93/UE z dnia 13 grudnia 2011 r. w sprawie zwalczania niegodziwego traktowania w celach seksualnych i wykorzystywania seksualnego dzieci oraz pornografii dziecięcej, zastępującej decyzję ramową Rady 2004/68/WSiSW (Dz. Urz. UE L 335 z 17.12.2011, str. 1 oraz Dz. Urz. UE L 18 z 21.01.2012, str. 7);
+- **2)** dyrektywy Parlamentu Europejskiego i Rady 2011/36/UE z dnia 5 kwietnia 2011 r. w sprawie zapobiegania handlowi ludźmi i zwalczania tego procederu oraz ochrony ofiar, zastępującej decyzję ramową Rady 2002/629/WSiSW (Dz. Urz. UE L 101 z 15.04.2011, str. 1);
+- **3)** dyrektywy Parlamentu Europejskiego i Rady 2012/29/UE z dnia 25 października 2012 r. ustanawiającej normy minimalne w zakresie praw, wsparcia i ochrony ofiar przestępstw oraz zastępującej decyzję ramową Rady 2001/220/WSiSW (Dz. Urz. UE L 315 z 14.11.2012, str. 57).
+
 

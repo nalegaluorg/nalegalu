@@ -8,10 +8,10 @@ pos: 2062
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# !
+# Rozporządzenie Ministra Zdrowiaz dnia 24 października 2018 r. w sprawie kwalifikacji wymaganych od osób zatrudnionych w bankach tkanek i komórek
 
 | Pole | Wartość |
 |---|---|
@@ -22,45 +22,48 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-10-24 |
 | Data wydania | 2018-10-29 |
+| Wejście w życie | 2018-10-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002062) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2062/text.pdf) |
 
-"#$%&&$’!()*+,!
--#%.#/01)012$*%3!012)’$%3!
-,45674849!:;<4!=>!?4@:7<A5;<B4!=CDE!5F!
-0G7F!=CH=!
-!"#$"!#%&#’()’* +)(),-!.*#&!"/).
-7!:;<4!=J!?4@:7<A5;<B4!=CDE!5F!
-0*1234056*704859574:;5*0<=4>4?<:@*AB*A1CD*E4F3GB?5A?<:@*0*D4?74:@*F74?67*5*7A=C367 * &4!?G:6K48<A!45KF!=L!M6KF!H!M6K48N!7!:;<4!D!O<?P4!=CCQ!5F!G!?GR<A54;<M9!?57APSG8N84;<M!<!?57A67P7A?<4;<M!BGTU5AB9!
-KB4;AB!<!;457V:U8!W"7F!(F!7!=CDL!5F!?G7F!DCCC!G547!7!=CDE!5F!?G7F!DHH>I!7457V:74!6<X9!PG!;46KX?MYAZ!
-H*IJ!-G7?G57V:7A;<A!GB5A[O4!B84O<\<B4PYA!8NT4]4;A!G:!G6UR!74K5M:;<G;NPS!8!R4;B4PS!KB4;AB!<!BGTU5AB!8NBG;MYV^ PNPS!RA7?G[5A:;<G!P7N;;G[P<!78<V74;A!7!?57AK84574;<AT9!?57APSG8N84;<AT9!:N6K5NRMPYV!OMR!KA6KG84;<AT!KB4;AB!<!BGTU^ 5AB!OM:7B<PSF!
-H*KJ!"G!8NBG;N84;<4!P7N;;G[P<!RA7?G[5A:;<G!78<V74;NPS!7!?57AK84574;<AT9!?57APSG8N84;<AT9!:N6K5NRMPYV!OMR!KA^ 6KG84;<AT!KB4;AB!<!BGTU5AB!OM:7B<PS!YA6K!M?548;<G;4!G6GR4!?G6<4:4YVP4!8NB67K4_PA;<A!TA:NP7;A9!R<GOG]<P7;A!OMR!R<G^ KAPS;GOG]<P7;AF!
-H*LJ!3A‘AO<!B<A5G8;<B<AT!R4;BM!KB4;AB!<!BGTU5AB!OMR!G6GRV!G:?G8<A:7<4O;V9!G!BKU5AY!TG84!8!45KF!=E!M6KF!D!M6K48N!
-7!:;<4!D!O<?P4!=CCQ!5F!G!?GR<A54;<M9!?57APSG8N84;<M!<!?57A67P7A?<4;<M!BGTU5AB9!KB4;AB!<!;457V:U89!YA6K!G6GR4!;<ARX:VP4!
-OAB457AT9!KG!R4;B!KB4;AB!<!BGTU5AB!74K5M:;<4!OAB4574!;4:7G5MYVPA]G9!?G6<4:4YVPA]G!?548G!8NBG;N84;<4!748G:MF!
-H*MJ!DF!16GR49!G!BKU5AY!TG84!8!a!=9!G547!OAB4579!G!BKU5NT!TG84!8!a!b9!8!74B5A6<A!8NBG;N84;NPS!P7N;;G[P<!78<V74^ ;NPS!7!?57AK84574;<AT9!?57APSG8N84;<AT9!:N6K5NRMPYV!OMR!KA6KG84;<AT!KB4;AB!<!BGTU5AB!OM:7B<PS!M6K48<P7;<A!?G:;G67V!
-B84O<\<B4PYA9!8!KNT!8!B4‘:NT!?57N?4:BM!8?5G84:7A;<4!;G8NPS!?5GPA:M5!8!?57AK84574;<M9!?57APSG8N84;<M9!:N6K5NRMPY<!
-OMR!KA6KG84;<M!KB4;AB!<!BGTU5AB!OM:7B<PSF!
-=F!0G:;G67A;<A!B84O<\<B4PY<9!G!BKU5NT!TG84!8!M6KF!D9!GRAYTMYA!8!67P7A]UO;G[P<Z!
-DI! 46?ABKN!AKNP7;Ac!
-=I! 46?ABKN!?548;Ac!
-bI! 46?ABKN!G5]4;<74PNY;Ac!
-JI! B5NKA5<4!Y4BG[P<!<!RA7?<AP7Ad6K84!78<V74;A!7!?GR<A54;<AT9!KA6KG84;<AT9!?57AK84574;<AT9!?57APSG8N84;<AT!<!:N6K5N^ RMPYV!KB4;AB!<!BGTU5AB!OM:7B<PSc!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-"7<A;;<B!(6K48! f!=!f! 0G7F!=CH=!
-!
-QI! 6K4;:45:G8A!?5GPA:M5N!G?A54PNY;A!6KG6G84;A!8!?57AK84574;<M9!?57APSG8N84;<M9!:N6K5NRMPY<!OMR!KA6KG84;<M!KB4;AB!
-<!BGTU5AB!OM:7B<PSc!
-HI! ?5GPA:M5N!BG;K5GO<!Y4BG[P<c!
-LI! 7;4YGTG[h!6N6KATU8!RA7?<AP7Ad6K84!7:5G8GK;A]G!8!R4;BM!KB4;AB!<!BGTU5ABc!
-EI! MT<AYXK;G[h!GR6_M]<!6?57XKM!8NBG57N6KN84;A]G!8!B4‘:AY!?5GPA:M57A!?57AK84574;<49!?57APSG8N84;<49!:N6K5NRMPY<!OMR!
-KA6KG84;<4!KB4;AB!<!BGTU5AB!OM:7B<PSc!
->I! 7;4YGTG[h! 6N6KATU8! BG;K5GO<! Y4BG[P<! 8!?57AK84574;<M9! ?57APSG8N84;<M9! :N6K5NRMPY<! OMR! KA6KG84;<M! KB4;AB!
-<!BGTU5AB!OM:7B<PSc!
-DCI! 7457V:74;<A!R474T<!:4;NPS!:48PU89!?5GPA:M5!<!:N6K5NRMPY<!KB4;AB!<!BGTU5AB!OM:7B<PS!?57A7;4P7G;NPS!:G!?57A^ 67P7A?<A;<4c!
-DDI! 7;4YGTG[h!?57A?<6U8!:GKNP7VPNPS!RA7?<AP7Ad6K84!<!S<]<A;N!?54PN!GRG8<V7MYVPNPS!8!R4;B4PS!KB4;AB!<!BGTU5ABF!
-H*NJ!"G!8NBG;N84;<4!P7N;;G[P<!RA7?G[5A:;<G!78<V74;NPS!7!?57AK84574;<AT9!?57APSG8N84;<AT9!:N6K5NRMPYV!OMR!KA^ 6KG84;<AT!KB4;AB!<!BGTU5AB!6V!M?548;<G;A!K4B‘A!G6GRN9!BKU5A!8!:;<M!8AY[P<4!8!‘NP<A!;<;<AY67A]G!5G7?G57V:7A;<4!8NBG^ ;MYV!KA!P7N;;G[P<!8!R4;B4PS!KB4;AB!<!BGTU5AB!<!;<A!6?A_;<4YV!8NT4]4d!GB5A[OG;NPS!8!a!=F!
-H*OJ!-G7?G57V:7A;<A!8PSG:7<!8!‘NP<A!7!:;<AT!;46KX?MYVPNT!?G!:;<M!G]_G67A;<4F !
-e<;<6KA5!#:5G8<4Z!!"#$%&’()*+,!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Treść rozporządzenia
+Na podstawie art. 27 ust. 6 ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2017 r. poz. 1000 oraz z 2018 r. poz. 1669) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa kwalifikacje wymagane od osób zatrudnionych w bankach tkanek i komórek wykonujących bezpośrednio czynności związane z przetwarzaniem, przechowywaniem, dystrybucją lub testowaniem tkanek i komórek ludzkich.
+§ 2.
+Do wykonywania czynności bezpośrednio związanych z przetwarzaniem, przechowywaniem, dystrybucją lub testowaniem tkanek i komórek ludzkich jest uprawniona osoba posiadająca wykształcenie medyczne, biologiczne lub biotechnologiczne.
+§ 3.
+Jeżeli kierownikiem banku tkanek i komórek lub osobą odpowiedzialną, o której mowa w art. 28 ust. 1 ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów, jest osoba niebędąca lekarzem, to bank tkanek i komórek zatrudnia lekarza nadzorującego, posiadającego prawo wykonywania zawodu.
+§ 4.
+1.
+Osoba, o której mowa w § 2, oraz lekarz, o którym mowa w § 3, w zakresie wykonywanych czynności związanych z przetwarzaniem, przechowywaniem, dystrybucją lub testowaniem tkanek i komórek ludzkich ustawicznie podnoszą kwalifikacje, w tym w każdym przypadku wprowadzenia nowych procedur w przetwarzaniu, przechowywaniu, dystrybucji lub testowaniu tkanek i komórek ludzkich.
+2.
+Podnoszenie kwalifikacji, o którym mowa w ust. 1, obejmuje w szczególności:
+1)
+aspekty etyczne;
+2)
+aspekty prawne;
+3)
+aspekty organizacyjne;
+4)
+kryteria jakości i bezpieczeństwa związane z pobieraniem, testowaniem, przetwarzaniem, przechowywaniem i dystrybucją tkanek i komórek ludzkich;
+5)
+standardowe procedury operacyjne stosowane w przetwarzaniu, przechowywaniu, dystrybucji lub testowaniu tkanek i komórek ludzkich;
+6)
+procedury kontroli jakości;
+7)
+znajomość systemów bezpieczeństwa zdrowotnego w banku tkanek i komórek;
+8)
+umiejętność obsługi sprzętu wykorzystywanego w każdej procedurze przetwarzania, przechowywania, dystrybucji lub testowania tkanek i komórek ludzkich;
+9)
+znajomość systemów kontroli jakości w przetwarzaniu, przechowywaniu, dystrybucji lub testowaniu tkanek i komórek ludzkich;
+10)
+zarządzanie bazami danych dawców, procedur i dystrybucji tkanek i komórek ludzkich przeznaczonych do przeszczepienia;
+11)
+znajomość przepisów dotyczących bezpieczeństwa i higieny pracy obowiązujących w bankach tkanek i komórek.
+§ 5.
+Do wykonywania czynności bezpośrednio związanych z przetwarzaniem, przechowywaniem, dystrybucją lub testowaniem tkanek i komórek są uprawnione także osoby, które w dniu wejścia w życie niniejszego rozporządzenia wykonują te czynności w bankach tkanek i komórek i nie spełniają wymagań określonych w § 2.
+§ 6.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). 2) Niniejsze rozporządzenie wdraża w zakresie swojej regulacji dyrektywę 2006/17/WE z dnia 8 lutego 2006 r. wprowadzającą w życie dyrektywę 2004/23/WE Parlamentu Europejskiego i Rady w odniesieniu do niektórych wymagań technicznych dotyczących dawstwa, pobierania i badania tkanek i komórek ludzkich (Dz. Urz. UE L 38 z 09.02.2006, str. 40 oraz Dz. Urz. UE L 327 z 27.11.2012, str. 24) oraz dyrektywę 2006/86/WE z dnia 24 października 2006 r. wykonującą dyrektywę 2004/23/WE Parlamentu Europejskiego i Rady w zakresie wymagań dotyczących możliwości śledzenia, powiadamiania o poważnych i niepożądanych reakcjach i zdarzeniach oraz niektórych wymaganiach technicznych dotyczących kodowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. WE L 294 z 25.10.2006, str. 32 oraz Dz. Urz. UE L 93 z 09.04.2015, str. 43). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 23 kwietnia 2007 r. w sprawie kwalifikacji wymaganych od osób zatrudnionych w bankach tkanek i komórek (Dz. U. poz. 553), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 5 ust. 2 ustawy z dnia 23 marca 2017 r. o zmianie ustawy o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. poz. 798).
 

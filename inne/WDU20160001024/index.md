@@ -8,12 +8,10 @@ pos: 1024
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o sejmowej komisji śledczej
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 czerwca 2016 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 27 czerwca 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o sejmowej komisji śledczej
 
 | Pole | Wartość |
 |---|---|
@@ -27,17 +25,30 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001024) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1024/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 21 stycznia 1999 r. o sejmowej komisji śledczej (Dz. U. z 2009 r. Nr 151, poz. 1218), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. Nr 182, poz. 1228),
-2) ustawą z dnia 28 stycznia 2016 r. Przepisy wprowadzające ustawę Prawo o prokuraturze (Dz. U. poz. 178) oraz zmian wynikających z przepisów ogłoszonych przed dniem 27 czerwca 2016 r.
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 191 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. Nr 182, poz. 1228), który stanowi: „Art. 191. Ustawa wchodzi życie po upływie 3 miesięcy od dnia ogłoszenia z wyjątkiem art. 131, który wchodzi życie z dniem 1 stycznia 2013 r.”;
-2) art. 75 ustawy z dnia 28 stycznia 2016 r. Przepisy wprowadzające ustawę Prawo o prokuraturze (Dz. U. poz. 178), który stanowi: „Art. 75. Ustawa wchodzi życie z dniem 4 marca 2016 r., z wyjątkiem:
-1) art. 2, art. 6 pkt 1, art. 7 pkt 3, art. 19 pkt 1 zakresie prokuratora do spraw wojskowych,
-2) art. 3, art. 4 pkt 5–9, art. 6 pkt 2 lit. b i d, pkt 4, art. 9, art. 10, art. 13–16, art. 19 pkt 3, art. 20 pkt 10 lit. b i c, art. 21, art. 31–33, art. 45 § 3, art. 46, art. 50, art. 62 § 4, 6 i 7, art. 64 § 3, 5 i 6 oraz art. 66 które wchodzą życie z dniem 4 kwietnia 2016 r.”.
-Marszałek Sejmu: M. Kuchciński
-USTAWA z dnia 21 stycznia 1999 r.
-o sejmowej komisji śledczej
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 21 stycznia 1999 r. o sejmowej komisji śledczej
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 21 stycznia 1999 r. o sejmowej komisji śledczej (Dz. U. z 2009 r. Nr 151, poz. 1218), z uwzględnieniem zmian wprowadzonych:
+1)
+ustawą z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. Nr 182, poz. 1228),
+2)
+ustawą z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178)
+oraz zmian wynikających z przepisów ogłoszonych przed dniem 27 czerwca 2016 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+1)
+art. 191 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. Nr 182, poz. 1228), który stanowi:
+„
+
+**Art. 191.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia z wyjątkiem art. 131, który wchodzi w życie z dniem 1 stycznia 2013 r. ” ;
+
+- **2)** art. 75 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178), który stanowi: „
+
+**Art. 75.** Ustawa wchodzi w życie z dniem 4 marca 2016 r., z wyjątkiem:
+
+- **1)** art. 2, art. 6 pkt 1, art. 7 pkt 3, art. 19 pkt 1 w zakresie prokuratora do spraw wojskowych,
+- **2)** art. 3, art. 4 pkt 5–9, art. 6 pkt 2 lit. b i d, pkt 4, art. 9, art. 10, art. 13–16, art. 19 pkt 3, art. 20 pkt 10 lit. b i c, art. 21, art. 31–33, art. 45 § 3, art. 46, art. 50, art. 62 § 4, 6 i 7, art. 64 § 3, 5 i 6 oraz art. 66 które wchodzą w życie z dniem 4 kwietnia 2016 r. ” . Załącznik – Tekst jednolity ustawy z dnia 21 stycznia 1999 r. o sejmowej komisji śledczej
 
 **Art. 1.**
 
@@ -51,39 +62,39 @@ o sejmowej komisji śledczej
 
 1. Komisję powołuje oraz wybiera i odwołuje jej skład osobowy Sejm bezwzględną większością głosów.
 
-2. W skład komisji może wchodzić do 11 członków. Skład komisji powinien odzwierciedlać reprezentację Sejmie klubów i kół poselskich mających swoich przedstawicieli Konwencie Seniorów, odpowiednio do jej liczebności.
+2. W skład komisji może wchodzić do 11 członków. Skład komisji powinien odzwierciedlać reprezentację w Sejmie klubów i kół poselskich mających swoich przedstawicieli w Konwencie Seniorów, odpowiednio do jej liczebności.
 
 3. Uchwała o powołaniu komisji określa zakres jej działania; może ona również określać szczegółowe zasady działania komisji oraz termin złożenia przez nią sprawozdania.
 
 **Art. 3.** (uchylony)
 
-**Art. 4.** Poseł nie może wchodzić skład komisji, jeżeli:
+**Art. 4.** Poseł nie może wchodzić w skład komisji, jeżeli:
 
-**Art. 4a.**
+- **1)** sprawa dotyczy go bezpośrednio;
+- **2)** brał albo bierze udział, występując w jakiejkolwiek roli procesowej, w sprawie przed organem władzy publicznej w sytuacji, o której mowa w art. 8 ust. 1;
+- **3)** istnieje, inna niż wymienione w pkt 1 i 2, okoliczność, która mogłaby wywołać uzasadnioną wątpliwość co do jego bezstronności w danej sprawie.
 
-1. Poseł kandydujący do komisji zostaje skreślony z listy kandydatów, jeżeli związku z okolicznością, o której mowa art. 4, nie może wchodzić skład komisji.
+1. Poseł kandydujący do komisji zostaje skreślony z listy kandydatów, jeżeli w związku z okolicznością, o której mowa w art. 4, nie może wchodzić w skład komisji.
 
-2. O skreśleniu, o którym mowa ust. 1, decyduje, drodze uchwały, Prezydium Sejmu.
+2. O skreśleniu, o którym mowa w ust. 1, decyduje, w drodze uchwały, Prezydium Sejmu.
 
-3. Prawo złożenia wniosku o dokonanie skreślenia, o którym mowa ust. 1, przysługuje każdemu posłowi.
+3. Prawo złożenia wniosku o dokonanie skreślenia, o którym mowa w ust. 1, przysługuje każdemu posłowi.
 
 **Art. 5.**
 
-1. Członek komisji zostaje wyłączony z jej składu osobowego, jeżeli zachodzi wobec niego okoliczność, o której mowa art. 4.
+1. Członek komisji zostaje wyłączony z jej składu osobowego, jeżeli zachodzi wobec niego okoliczność, o której mowa w art. 4.
 
-2. Wyłączenia, o którym mowa ust. 1, dokonuje komisja; głosowaniu nie bierze udziału członek komisji, którego wyłączenia głosowanie dotyczy.
+2. Wyłączenia, o którym mowa w ust. 1, dokonuje komisja; w głosowaniu nie bierze udziału członek komisji, którego wyłączenia głosowanie dotyczy.
 
-3. Prawo złożenia wniosku o dokonanie wyłączenia, o którym mowa ust. 1, przysługuje każdemu posłowi będącemu członkiem komisji oraz osobie wezwanej przez komisję celu złożenia zeznań.
+3. Prawo złożenia wniosku o dokonanie wyłączenia, o którym mowa w ust. 1, przysługuje każdemu posłowi będącemu członkiem komisji oraz osobie wezwanej przez komisję w celu złożenia zeznań. W przypadku odwołania lub wyłączenia ze składu komisji jej członka Sejm dokonuje wyboru uzupełniającego. Przepisy art. 2 ust. 1 i 2 oraz art. 4a stosuje się odpowiednio.
 
-**Art. 5a.** W przypadku odwołania lub wyłączenia ze składu komisji jej członka Sejm dokonuje wyboru uzupełniającego. Przepisy art. 2 ust. 1 i 2 oraz art. 4a stosuje się odpowiednio.
-
-**Art. 6.** Jeżeli trakcie postępowania prowadzonego przez komisję zostanie ujawniona okoliczność, która mogłaby wywołać wątpliwości co do bezstronności członka komisji przy wykonywaniu czynności przesłuchania osoby wezwanej przez komisję, ulega on wyłączeniu z tej czynności wniosek osoby wezwanej lub członka komisji; przepis art. 5 ust. 2 stosuje się odpowiednio.
+**Art. 6.** Jeżeli w trakcie postępowania prowadzonego przez komisję zostanie ujawniona okoliczność, która mogłaby wywołać wątpliwości co do bezstronności członka komisji przy wykonywaniu czynności przesłuchania osoby wezwanej przez komisję, ulega on wyłączeniu z tej czynności na wniosek osoby wezwanej lub członka komisji; przepis art. 5 ust. 2 stosuje się odpowiednio.
 
 **Art. 7.**
 
-1. Komisja jest związana zakresem przedmiotowym określonym uchwale o jej powołaniu.
+1. Komisja jest związana zakresem przedmiotowym określonym w uchwale o jej powołaniu.
 
-2. Z uprawnień wynikających z przepisów ustawy komisja korzysta tylko zakresie niezbędnym do wyjaśnienia sprawy będącej przedmiotem jej działania oraz taki sposób, aby nie naruszyć dóbr osobistych osób trzecich.
+2. Z uprawnień wynikających z przepisów ustawy komisja korzysta tylko w zakresie niezbędnym do wyjaśnienia sprawy będącej przedmiotem jej działania oraz w taki sposób, aby nie naruszyć dóbr osobistych osób trzecich.
 
 **Art. 8.**
 
@@ -91,7 +102,9 @@ o sejmowej komisji śledczej
 
 2. Przedmiotem działania komisji nie może być ocena zgodności z prawem orzeczeń sądowych.
 
-4. Postępowanie prowadzone przez komisję może zostać zawieszone szczególności wtedy, gdy istnieje uzasadnione przypuszczenie, że materiał zebrany postępowaniu przed innym organem władzy publicznej lub podjęte przez ten organ rozstrzygnięcie mogłyby być przydatne do wszechstronnego zbadania sprawy przez komisję.
+3. Komisja, za zgodą Marszałka Sejmu, może zawiesić swoją działalność do czasu zakończenia określonego etapu lub całości postępowania toczącego się przed innym organem władzy publicznej.
+
+4. Postępowanie prowadzone przez komisję może zostać zawieszone w szczególności wtedy, gdy istnieje uzasadnione przypuszczenie, że materiał zebrany w postępowaniu przed innym organem władzy publicznej lub podjęte przez ten organ rozstrzygnięcie mogłyby być przydatne do wszechstronnego zbadania sprawy przez komisję.
 
 **Art. 9.** Komisja badająca sprawę nie jest związana wynikami postępowania, opiniami lub wnioskami innych komisji sejmowych.
 
@@ -99,21 +112,19 @@ o sejmowej komisji śledczej
 
 1. (uchylony)
 
-2. Na zewnątrz komisję reprezentuje oraz działa jej imieniu przewodniczący komisji lub, z jego upoważnienia, zastępca przewodniczącego.
+2. Na zewnątrz komisję reprezentuje oraz działa w jej imieniu przewodniczący komisji lub, z jego upoważnienia, zastępca przewodniczącego.
 
-3. W sprawach, o których mowa art. 11 ust. 1, art. 11e ust. 2, art. 11g ust. 2 i 3, art. 12 ust. 1 i ust. 3 zdanie pierwsze, art. 14 ust. 1 i 3, art. 15 ust. 1 oraz art. 16a, przewodniczący komisji działa jedynie podstawie uchwały komisji.
+3. W sprawach, o których mowa w art. 11 ust. 1, art. 11e ust. 2, art. 11g ust. 2 i 3, art. 12 ust. 1 i ust. 3 zdanie pierwsze, art. 14 ust. 1 i 3, art. 15 ust. 1 oraz art. 16a, przewodniczący komisji działa jedynie na podstawie uchwały komisji.
 
 **Art. 11.**
 
-1. Każda osoba wezwana przez komisję ma obowiązek stawić się wyznaczonym terminie i złożyć zeznania.
+1. Każda osoba wezwana przez komisję ma obowiązek stawić się w wyznaczonym terminie i złożyć zeznania.
 
-2. Jeżeli osoba wezwana nie może stawić się wezwanie z powodu choroby, kalectwa lub innej niedającej się pokonać przeszkody, komisja może ją przesłuchać miejscu jej pobytu.
-
-**Art. 11a.**
+2. Jeżeli osoba wezwana nie może stawić się na wezwanie z powodu choroby, kalectwa lub innej niedającej się pokonać przeszkody, komisja może ją przesłuchać w miejscu jej pobytu.
 
 1. Z przesłuchania osoby wezwanej sporządza się protokół.
 
-2. Protokół sporządza się oparciu o zapis dźwiękowy przesłuchania.
+2. Protokół sporządza się w oparciu o zapis dźwiękowy przesłuchania.
 
 3. O dokonywaniu zapisu dźwiękowego przesłuchania przewodniczący komisji informuje osobę wezwaną.
 
@@ -121,17 +132,15 @@ o sejmowej komisji śledczej
 
 5. Protokół podpisuje przewodniczący komisji i osoba wezwana.
 
-6. Skreśleń, poprawek lub uzupełnień protokole dokonuje przewodniczący komisji wniosek osoby wezwanej lub członka komisji, o czym informuje członków komisji jej najbliższym posiedzeniu.
+6. Skreśleń, poprawek lub uzupełnień w protokole dokonuje przewodniczący komisji na wniosek osoby wezwanej lub członka komisji, o czym informuje członków komisji na jej najbliższym posiedzeniu.
 
-7. Skreślenia, poprawki lub uzupełnienia dokonane protokole wymagają omówienia podpisanego przez osoby podpisujące protokół.
+7. Skreślenia, poprawki lub uzupełnienia dokonane w protokole wymagają omówienia podpisanego przez osoby podpisujące protokół.
 
 8. Odrzucony wniosek o dokonanie skreśleń, poprawek lub uzupełnień dołącza się do protokołu.
 
-9. Jeżeli osoba wezwana odmawia podpisania protokołu lub nie może go podpisać, przewodniczący komisji zaznacza protokole przyczynę braku podpisu.
+9. Jeżeli osoba wezwana odmawia podpisania protokołu lub nie może go podpisać, przewodniczący komisji zaznacza w protokole przyczynę braku podpisu.
 
-10. Oczywiste omyłki pisarskie lub rachunkowe protokole mogą być sprostowane wniosek lub z urzędu.
-
-**Art. 11b.**
+10. Oczywiste omyłki pisarskie lub rachunkowe w protokole mogą być sprostowane na wniosek lub z urzędu.
 
 1. Osoba wezwana przez komisję może ustanowić pełnomocnika.
 
@@ -139,33 +148,30 @@ o sejmowej komisji śledczej
 
 3. Pełnomocnikiem może być adwokat albo radca prawny.
 
-4. Pełnomocnictwo powinno być udzielone piśmie i złożone komisji lub zgłoszone do protokołu.
+4. Pełnomocnictwo powinno być udzielone na piśmie i złożone komisji lub zgłoszone do protokołu.
 
 5. Ustanowienie pełnomocnika nie zwalnia osoby wezwanej z obowiązku osobistego stawiennictwa przed komisją i składania zeznań.
 
-6. W kwestiach dotyczących pełnomocnika, a nieunormowanych przez przepisy niniejszej ustawy, stosuje się odpowiednio przepisy obowiązujące postępowaniu cywilnym.
+6. W kwestiach dotyczących pełnomocnika, a nieunormowanych przez przepisy niniejszej ustawy, stosuje się odpowiednio przepisy obowiązujące w postępowaniu cywilnym.
 
-**Art. 11c.**
+1. W postępowaniu przed komisją osobie wezwanej służy w szczególności prawo do:
 
-1. W postępowaniu przed komisją osobie wezwanej służy szczególności prawo do:
-
-- **1)** uchylenia się od odpowiedzi pytanie, jeżeli jej udzielenie mogłoby narazić osobę wezwaną lub osobę dla niej najbliższą rozumieniu art. 115 § 11 Kodeksu karnego odpowiedzialność za przestępstwo lub przestępstwo skarbowe;
-- **2)** odmowy zeznań, gdy jest ona osobą podejrzaną o popełnienie przestępstwa pozostającego ścisłym związku z czynem stanowiącym przedmiot postępowania albo gdy za to przestępstwo została skazana;
-- **3)** żądania, aby przesłuchano ją posiedzeniu zamkniętym, jeżeli treść zeznań mogłaby narazić hańbę osobę wezwaną lub osobę dla niej najbliższą rozumieniu art. 115 § 11 Kodeksu karnego;
-- **5)** zgłoszenia wniosku o zarządzenie przerwy posiedzeniu komisji;
-- **6)** zwrócenia się z wnioskiem o umożliwienie swobodnego wypowiedzenia się objętej przesłuchaniem sprawie;
-- **7)** zwrócenia się z wnioskiem o uchylenie pytania, które ocenie osoby wezwanej sugeruje jej treść odpowiedzi, jest nieistotne bądź niestosowne;
+- **1)** uchylenia się od odpowiedzi na pytanie, jeżeli jej udzielenie mogłoby narazić osobę wezwaną lub osobę dla niej najbliższą w rozumieniu art. 115 § 11 Kodeksu karnego na odpowiedzialność za przestępstwo lub przestępstwo skarbowe;
+- **2)** odmowy zeznań, gdy jest ona osobą podejrzaną o popełnienie przestępstwa pozostającego w ścisłym związku z czynem stanowiącym przedmiot postępowania albo gdy za to przestępstwo została skazana;
+- **3)** żądania, aby przesłuchano ją na posiedzeniu zamkniętym, jeżeli treść zeznań mogłaby narazić na hańbę osobę wezwaną lub osobę dla niej najbliższą w rozumieniu art. 115 § 11 Kodeksu karnego;
+- **4)** odmowy zeznań co do okoliczności, na które rozciąga się ciążący na osobie wezwanej obowiązek zachowania tajemnicy ustawowo chronionej, w przypadkach określonych w przepisach niniejszej ustawy;
+- **5)** zgłoszenia wniosku o zarządzenie przerwy w posiedzeniu komisji;
+- **6)** zwrócenia się z wnioskiem o umożliwienie swobodnego wypowiedzenia się w objętej przesłuchaniem sprawie;
+- **7)** zwrócenia się z wnioskiem o uchylenie pytania, które w ocenie osoby wezwanej sugeruje jej treść odpowiedzi, jest nieistotne bądź niestosowne;
 - **8)** zwrócenia się z wnioskiem o zmianę terminu przesłuchania;
 - **9)** złożenia wniosku o dokonanie czynności, które komisja może albo ma obowiązek podejmować z urzędu;
-- **10)** złożenia wniosku o wyłączenie członka komisji trybie art. 5 albo 6 ustawy.
+- **10)** złożenia wniosku o wyłączenie członka komisji w trybie art. 5 albo 6 ustawy.
 
-2. O uprawnieniach wymienionych ust. 1 osobę wezwaną poucza się przed rozpoczęciem przesłuchania.
+2. O uprawnieniach wymienionych w ust. 1 osobę wezwaną poucza się przed rozpoczęciem przesłuchania.
 
-3. Na decyzję przewodniczącego komisji oddalającą wniosek osoby wezwanej, sprawach określonych ust. 1 pkt 5–9, służy jej odwołanie do komisji. Komisja rozstrzyga o odwołaniu drodze głosowania, większością głosów.
+3. Na decyzję przewodniczącego komisji oddalającą wniosek osoby wezwanej, w sprawach określonych w ust. 1 pkt 5–9, służy jej odwołanie do komisji. Komisja rozstrzyga o odwołaniu w drodze głosowania, większością głosów.
 
-**Art. 11d.**
-
-1. Przed rozpoczęciem przesłuchania należy uprzedzić osobę wezwaną o odpowiedzialności karnej za zeznanie nieprawdy lub zatajenie prawdy i odebrać od niej przyrzeczenie; przyrzeczenia nie odbiera się, jeżeli zachodzą okoliczności wymienione art. 189 Kodeksu postępowania karnego.
+1. Przed rozpoczęciem przesłuchania należy uprzedzić osobę wezwaną o odpowiedzialności karnej za zeznanie nieprawdy lub zatajenie prawdy i odebrać od niej przyrzeczenie; przyrzeczenia nie odbiera się, jeżeli zachodzą okoliczności wymienione w art. 189 Kodeksu postępowania karnego.
 
 2. Przyrzeczenie od osoby wezwanej odbiera komisja.
 
@@ -175,117 +181,89 @@ o sejmowej komisji śledczej
 
 5. Osoby nieme lub głuche składają przyrzeczenie przez podpisanie tekstu przyrzeczenia.
 
-6. Osobie wezwanej, która danej sprawie składała już przyrzeczenie, przewodniczący komisji przypomina je przy kolejnym przesłuchaniu, chyba że komisja uzna za potrzebne ponowne odebranie przyrzeczenia.
+6. Osobie wezwanej, która w danej sprawie składała już przyrzeczenie, przewodniczący komisji przypomina je przy kolejnym przesłuchaniu, chyba że komisja uzna za potrzebne ponowne odebranie przyrzeczenia.
 
-**Art. 11e.**
-
-1. Osoby obowiązane do zachowania tajemnicy informacji niejawnych o klauzuli tajności „tajne” lub „ściśle tajne” mogą być przesłuchane co do okoliczności, które rozciąga się ten obowiązek, tylko po zwolnieniu ich od obowiązku zachowania tajemnicy przez właściwy organ.
+1. Osoby obowiązane do zachowania w tajemnicy informacji niejawnych o klauzuli tajności „tajne” lub „ściśle tajne” mogą być przesłuchane co do okoliczności, na które rozciąga się ten obowiązek, tylko po zwolnieniu ich od obowiązku zachowania tajemnicy przez właściwy organ.
 
 2. Komisja może zwrócić się do właściwego organu o zwolnienie osoby wezwanej przez komisję od obowiązku zachowania tajemnicy.
 
-3. Zwolnienia wolno odmówić tylko wtedy, gdyby złożenie zeznania wyrządzić mogło poważną szkodę państwu.
+3. Zwolnienia wolno odmówić tylko wtedy, gdyby złożenie zeznania wyrządzić mogło poważną szkodę państwu. Osoby obowiązane do zachowania tajemnicy prawnie chronionej innej niż informacje niejawne o klauzuli tajności „tajne” lub „ściśle tajne” mogą odmówić zeznań co do okoliczności, na które rozciąga się ten obowiązek, chyba że komisja zwolni je od obowiązku zachowania tajemnicy, z zastrzeżeniem przepisu art. 11g.
 
-**Art. 11f.**
+1. Osoby obowiązane do zachowania tajemnicy notarialnej, adwokackiej, radcy prawnego, lekarskiej lub dziennikarskiej mogą być przesłuchane co do faktów objętych tą tajemnicą tylko wtedy, gdy jest to niezbędne dla ochrony ważnych interesów państwa, a zwłaszcza ochrony bezpieczeństwa państwa lub porządku publicznego, a okoliczność nie może być ustalona na podstawie innego dowodu.
 
-- **2)** Osoby obowiązane do zachowania tajemnicy prawnie chronionej innej niż informacje niejawne o klauzuli tajności „tajne” lub „ściśle tajne” mogą odmówić zeznań co do okoliczności, które rozciąga się ten obowiązek, chyba że komisja zwolni je od obowiązku zachowania tajemnicy, z zastrzeżeniem przepisu art. 11g.
+2. W celu uzyskania zgody na przesłuchanie osób co do faktów, o których mowa w ust. 1, komisja składa pisemny wniosek do Sądu Okręgowego w Warszawie.
 
-**Art. 11g.**
+3. Na postanowienie sądu w przedmiocie zezwolenia na przesłuchanie, komisji i osobie wezwanej służy zażalenie, na zasadach określonych w Kodeksie postępowania karnego.
 
-1. Osoby obowiązane do zachowania tajemnicy notarialnej, adwokackiej, radcy prawnego, lekarskiej lub dziennikarskiej mogą być przesłuchane co do faktów objętych tą tajemnicą tylko wtedy, gdy jest to niezbędne dla ochrony ważnych interesów państwa, a zwłaszcza ochrony bezpieczeństwa państwa lub porządku publicznego, a okoliczność nie może być ustalona podstawie innego dowodu.
+4. Wniesienie zażalenia wstrzymuje wykonanie postanowienia sądu.
 
-2. W celu uzyskania zgody przesłuchanie osób co do faktów, o których mowa ust. 1, komisja składa pisemny wniosek do Sądu Okręgowego Warszawie.
+1. Przesłuchania, o których mowa w art. 11e ust. 1, art. 11f i art. 11g ust. 1, odbywają się na posiedzeniu zamkniętym. Ta część posiedzenia, na której zapada decyzja w sprawie zamknięcia posiedzenia, jest również zamknięta. Komisja określa osoby, których udział w posiedzeniu zamkniętym jest niezbędny.
 
-3. Na postanowienie sądu przedmiocie zezwolenia przesłuchanie, komisji i osobie wezwanej służy zażalenie, zasadach określonych Kodeksie postępowania karnego.
-
-4. Wniesienie zażalenia wstrzymuje wykonanie postanowienia sądu. Komisja określa osoby, których udział posiedzeniu zamkniętym jest niezbędny.
-
-2. Wiadomości uzyskane toku przesłuchań, o których mowa art. 11f i art. 11g ust. 1, stanowią tajemnicę prawnie chronioną.
-
-**Art. 11i.** Do postępowania sprawach wzywania oraz przesłuchiwania osób wezwanych przez komisję oraz zwalniania ich z obowiązku zachowania tajemnicy zakresie nieuregulowanym niniejszej ustawie stosuje się odpowiednio przepisy Kodeksu postępowania karnego dotyczące tym zakresie świadków.
+2. Wiadomości uzyskane w toku przesłuchań, o których mowa w art. 11f i art. 11g ust. 1, stanowią tajemnicę prawnie chronioną. Do postępowania w sprawach wzywania oraz przesłuchiwania osób wezwanych przez komisję oraz zwalniania ich z obowiązku zachowania tajemnicy w zakresie nieuregulowanym w niniejszej ustawie stosuje się odpowiednio przepisy Kodeksu postępowania karnego dotyczące w tym zakresie świadków.
 
 **Art. 12.**
 
-1. W przypadku gdy osoba, o której mowa art. 11 ust. 1, bez usprawiedliwienia nie stawi się wezwanie komisji, bez zezwolenia komisji wydali się z miejsca czynności przed jej zakończeniem albo bezpodstawnie uchyli się od złożenia zeznań lub złożenia przyrzeczenia, komisja może zwrócić się do Sądu Okręgowego Warszawie z wnioskiem o zastosowanie kary porządkowej.
+1. W przypadku gdy osoba, o której mowa w art. 11 ust. 1, bez usprawiedliwienia nie stawi się na wezwanie komisji, bez zezwolenia komisji wydali się z miejsca czynności przed jej zakończeniem albo bezpodstawnie uchyli się od złożenia zeznań lub złożenia przyrzeczenia, komisja może zwrócić się do Sądu Okręgowego w Warszawie z wnioskiem o zastosowanie kary porządkowej.
 
-2. Do postępowania przedmiocie rozpatrzenia wniosku, o którym mowa ust. 1, oraz wykonania orzeczonej kary porządkowej stosuje się odpowiednio przepisy Kodeksu postępowania karnego i Kodeksu karnego wykonawczego.
+2. Do postępowania w przedmiocie rozpatrzenia wniosku, o którym mowa w ust. 1, oraz wykonania orzeczonej kary porządkowej stosuje się odpowiednio przepisy Kodeksu postępowania karnego i Kodeksu karnego wykonawczego.
 
-3. Komisji przysługuje zażalenie odmowę zastosowania kary porządkowej. Do postępowania sprawie zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
+3. Komisji przysługuje zażalenie na odmowę zastosowania kary porządkowej. Do postępowania w sprawie zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego. Dla uzyskania wiedzy specjalistycznej komisja może powoływać biegłych. Do biegłych stosuje się odpowiednio przepisy art. 12 oraz działu V rozdziału 22 Kodeksu postępowania karnego dotyczące biegłych.
 
-**Art. 12a.** Dla uzyskania wiedzy specjalistycznej komisja może powoływać biegłych. Do biegłych stosuje się odpowiednio przepisy art. 12 oraz działu V rozdziału 22 Kodeksu postępowania karnego dotyczące biegłych.
-
-**Art. 13.** Na terenie Sejmu czynności związane z zastosowaniem kary porządkowej wykonuje, polecenie sądu, Straż Marszałkowska.
+**Art. 13.** Na terenie Sejmu czynności związane z zastosowaniem kary porządkowej wykonuje, na polecenie sądu, Straż Marszałkowska.
 
 **Art. 14.**
 
-1. Organy władzy publicznej oraz organy innych osób prawnych i jednostek organizacyjnych niemających osobowości prawnej, żądanie komisji, składają pisemne wyjaśnienia lub przedstawiają dokumenty będące ich dyspozycji albo akta każdej sprawy przez nie prowadzonej.
+1. Organy władzy publicznej oraz organy innych osób prawnych i jednostek organizacyjnych niemających osobowości prawnej, na żądanie komisji, składają pisemne wyjaśnienia lub przedstawiają dokumenty będące w ich dyspozycji albo akta każdej sprawy przez nie prowadzonej.
 
-2. Komisja może zapoznawać się z dokumentami lub aktami, badając sprawę miejscu.
+2. Komisja może zapoznawać się z dokumentami lub aktami, badając sprawę na miejscu.
 
-3. Na wniosek sądu lub prokuratora komisja udostępnia tym organom zebrane przez siebie materiały, jeżeli pozostają one związku z toczącym się postępowaniem karnym; komisja, za zgodą Marszałka Sejmu, może udostępnić zebrane materiały, jeżeli uzna to za konieczne dla dobra postępowania prowadzonego przez inne organy władzy publicznej.
+3. Na wniosek sądu lub prokuratora komisja udostępnia tym organom zebrane przez siebie materiały, jeżeli pozostają one w związku z toczącym się postępowaniem karnym; komisja, za zgodą Marszałka Sejmu, może udostępnić zebrane materiały, jeżeli uzna to za konieczne dla dobra postępowania prowadzonego przez inne organy władzy publicznej.
 
 **Art. 15.**
 
 1. Komisja może zwrócić się do Prokuratora Generalnego o przeprowadzenie określonych czynności.
 
-2. Przewodniczący lub upoważniony przez niego członek komisji może brać udział czynnościach, o których mowa ust. 1.
+2. Przewodniczący lub upoważniony przez niego członek komisji może brać udział w czynnościach, o których mowa w ust. 1.
 
-3. Prokurator Generalny wykonuje czynności, o których mowa ust. 1, podstawie przepisów Kodeksu postępowania karnego oraz ustawy z dnia 28 stycznia 2016 r. Prawo o prokuraturze (Dz. U. poz. 177).
+3. Prokurator Generalny wykonuje czynności, o których mowa w ust. 1, na podstawie przepisów Kodeksu postępowania karnego oraz ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. poz. 177).
 
-4. Wydatki związane z czynnościami, o których mowa ust. 1, są pokrywane z budżetu państwa części Rezerwy celowe.
+4. Wydatki związane z czynnościami, o których mowa w ust. 1, są pokrywane z budżetu państwa w części Rezerwy celowe.
 
-**Art. 16.** Czynności określone art. 11a ust. 1, art. 11e ust. 1, art. 11g ust. 1, art. 14 i art. 15 ust. 1 przeprowadza się z zachowaniem przepisów o tajemnicy ustawowo chronionej.
+**Art. 16.** Czynności określone w art. 11a ust. 1, art. 11e ust. 1, art. 11g ust. 1, art. 14 i art. 15 ust. 1 przeprowadza się z zachowaniem przepisów o tajemnicy ustawowo chronionej. Komisja może zezwolić przedstawicielom prasy, w rozumieniu przepisów ustawy z dnia 26 stycznia 1984 r. – Prawo prasowe (Dz. U. poz. 24, z późn. zm.), na dokonywanie za pomocą aparatury utrwalenia obrazu lub dźwięku z posiedzenia komisji, gdy przemawia za tym interes publiczny; dokonywanie tych czynności nie będzie utrudniać przebiegu posiedzenia, a ważny interes osoby wezwanej nie sprzeciwia się temu.
 
-**Art. 16a.** Komisja może zezwolić przedstawicielom prasy, rozumieniu przepisów ustawy z dnia 26 stycznia 1984 r. Prawo prasowe (Dz. U. poz. 24, z późn. zm. ), dokonywanie za pomocą aparatury utrwalenia obrazu lub dźwięku z posiedzenia komisji, gdy przemawia za tym interes publiczny; dokonywanie tych czynności nie będzie utrudniać przebiegu posiedzenia, a ważny interes osoby wezwanej nie sprzeciwia się temu. złożenia wniosku. Suma zwrotu nie może przekraczać jednak trzykrotności minimalnego wynagrodzenia za pracę, określanego podstawie przepisów ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2015 r. poz. 2008). 2. Wniosek, o którym mowa ust. 1, składa się najpóźniej z upływem trzeciego dnia od dnia zakończenia posiedzenia komisji lub od dnia, którym miało się ono odbyć. Niezłożenie wniosku terminie powoduje utratę prawa do zwrotu wydatków. 3. Jeżeli niedotrzymanie terminu, o którym mowa ust. 2, zaistniało bez winy osoby wzywanej, może ona najpóźniej z upływem siódmego dnia od dnia ustania przyczyny uchybienia złożyć wniosek o przywrócenie terminu. 4. O zwrocie wydatków oraz o przywróceniu terminu decyduje przewodniczący komisji, a przypadku gdy zakończyła ona swoją działalność Marszałek Sejmu. 5. Wydatki, o których mowa ust. 1, pokrywane są przez Kancelarię Sejmu.
+**Art. 17.**
+
+1. Osobom wzywanym przez komisję przysługuje, na ich wniosek, zwrot uzasadnionych wydatków, jakie poniosły w związku z udziałem w posiedzeniu komisji, w tym z tytułu utraty zarobków; osoby te poucza się o prawie do złożenia wniosku. Suma zwrotu nie może przekraczać jednak trzykrotności minimalnego wynagrodzenia za pracę, określanego na podstawie przepisów ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2015 r. poz. 2008).
+
+2. Wniosek, o którym mowa w ust. 1, składa się najpóźniej z upływem trzeciego dnia od dnia zakończenia posiedzenia komisji lub od dnia, w którym miało się ono odbyć. Niezłożenie wniosku w terminie powoduje utratę prawa do zwrotu wydatków.
+
+3. Jeżeli niedotrzymanie terminu, o którym mowa w ust. 2, zaistniało bez winy osoby wzywanej, może ona najpóźniej z upływem siódmego dnia od dnia ustania przyczyny uchybienia złożyć wniosek o przywrócenie terminu.
+
+4. O zwrocie wydatków oraz o przywróceniu terminu decyduje przewodniczący komisji, a w przypadku gdy zakończyła ona swoją działalność – Marszałek Sejmu.
+
+5. Wydatki, o których mowa w ust. 1, pokrywane są przez Kancelarię Sejmu.
 
 **Art. 18.**
 
-1. Jeżeli komisja trakcie postępowania uznała, że dokonane przez nią ustalenia uzasadniają postawienie osobom, o których mowa art. 1 ust. 1 pkt 3–7 ustawy z dnia 26 marca 1982 r. o Trybunale Stanu (Dz. U. z 2002 r. poz. 925, z 2003 r. poz. 1692, z 2004 r. poz. 219, z 2010 r. poz. 472 i 1228 oraz z 2016 r. poz. 437), zarzutu popełnienia przez nie sposób zawiniony, zakresie swojego urzędowania lub związku z zajmowanym stanowiskiem, czynu naruszającego Konstytucję lub ustawę, występuje z wstępnym wnioskiem o pociągnięcie tych osób do odpowiedzialności konstytucyjnej przed Trybunałem Stanu.
+1. Jeżeli komisja w trakcie postępowania uznała, że dokonane przez nią ustalenia uzasadniają postawienie osobom, o których mowa w art. 1 ust. 1 pkt 3–7 ustawy z dnia 26 marca 1982 r. o Trybunale Stanu (Dz. U. z 2002 r. poz. 925, z 2003 r. poz. 1692, z 2004 r. poz. 219, z 2010 r. poz. 472 i 1228 oraz z 2016 r. poz. 437), zarzutu popełnienia przez nie w sposób zawiniony, w zakresie swojego urzędowania lub w związku z zajmowanym stanowiskiem, czynu naruszającego Konstytucję lub ustawę, występuje z wstępnym wnioskiem o pociągnięcie tych osób do odpowiedzialności konstytucyjnej przed Trybunałem Stanu.
 
-2. O wystąpieniu z wnioskiem, o którym mowa ust. 1, komisja postanawia większością 2/3 głosów obecności co najmniej połowy liczby jej członków.
+2. O wystąpieniu z wnioskiem, o którym mowa w ust. 1, komisja postanawia większością 2/3 głosów w obecności co najmniej połowy liczby jej członków.
 
-**Art. 19.** (uchylony)
-
-**Art. 19a.**
-
-1. Komisja sporządza sprawozdanie ze swojej działalności.
-
-2. Sprawozdanie komisji śledczej zawiera stanowisko komisji sprawie określonej uchwale o jej powołaniu.
-
-3. Przewodniczący komisji opracowuje i przedkłada komisji projekt jej stanowiska.
-
-4. Do projektu stanowiska, o którym mowa ust. 1, członkowie komisji mogą zgłaszać poprawki formie pisemnej.
-
-5. W sprawach dotyczących kolejności głosowania poprawek zgłoszonych do tekstu projektu stanowiska komisji, komisja może rozstrzygnąć drodze uchwały.
-
-6. Komisja śledcza przyjmuje swoje stanowisko drodze uchwały.
-
-**Art. 19b.**
-
-1. Sprawozdanie komisji śledczej może zawierać również zdania odrębne posłów członków komisji. Zdanie odrębne zawiera odmienne stanowisko, co do całości albo części stanowiska komisji.
-
-2. Zdanie odrębne, po jego zgłoszeniu formie pisemnej, żądanie wnioskodawcy, zamieszcza się sprawozdaniu komisji.
-
-**Art. 19c.**
-
-1. Na posiedzeniu Sejmu sprawozdanie komisji śledczej prezentuje wybrany z jej składu poseł sprawozdawca, który obiektywnie przedstawia stanowisko komisji oraz zawarte sprawozdaniu zdania odrębne.
-
-2. Do sprawozdania komisji trakcie jego rozpatrywania przez Sejm, poprawek nie zgłasza się.
-
-3. Nad sprawozdaniem komisji Sejm nie przeprowadza głosowania.
+**Art. 19.** (uchylony) 1. Komisja sporządza sprawozdanie ze swojej działalności. 2. Sprawozdanie komisji śledczej zawiera stanowisko komisji w sprawie określonej w uchwale o jej powołaniu. 3. Przewodniczący komisji opracowuje i przedkłada komisji projekt jej stanowiska. 4. Do projektu stanowiska, o którym mowa w ust. 1, członkowie komisji mogą zgłaszać poprawki w formie pisemnej. 5. W sprawach dotyczących kolejności głosowania poprawek zgłoszonych do tekstu projektu stanowiska komisji, komisja może rozstrzygnąć w drodze uchwały. 6. Komisja śledcza przyjmuje swoje stanowisko w drodze uchwały. 1. Sprawozdanie komisji śledczej może zawierać również zdania odrębne posłów – członków komisji. Zdanie odrębne zawiera odmienne stanowisko, co do całości albo części stanowiska komisji. 2. Zdanie odrębne, po jego zgłoszeniu w formie pisemnej, na żądanie wnioskodawcy, zamieszcza się w sprawozdaniu komisji. 1. Na posiedzeniu Sejmu sprawozdanie komisji śledczej prezentuje wybrany z jej składu poseł sprawozdawca, który obiektywnie przedstawia stanowisko komisji oraz zawarte w sprawozdaniu zdania odrębne. 2. Do sprawozdania komisji w trakcie jego rozpatrywania przez Sejm, poprawek nie zgłasza się. 3. Nad sprawozdaniem komisji Sejm nie przeprowadza głosowania.
 
 **Art. 20.**
 
 1. W przypadku gdy komisja nie zakończyła swojej działalności przed końcem kadencji Sejmu, który ją powołał, postępowanie przez nią prowadzone ulega zamknięciu z dniem zakończenia kadencji.
 
-2. Postępowania lub czynności zlecone albo wnioskowane przez komisję, o których mowa art. 12–15, kończą się z dniem zakończenia działalności komisji.
+2. Postępowania lub czynności zlecone albo wnioskowane przez komisję, o których mowa w art. 12–15, kończą się z dniem zakończenia działalności komisji.
 
 **Art. 21.**
 
 1. Jeżeli komisja przekazała Marszałkowi Sejmu sprawozdanie ze swojej działalności, a Sejm nie rozpatrzył go do końca kadencji, to może ono zostać rozpatrzone przez Sejm następnej kadencji.
 
-2. W przypadku określonym ust. 1 Marszałek Sejmu rozpatrującego sprawozdanie, po zasięgnięciu opinii Prezydium Sejmu i Konwentu Seniorów, wskazuje posła sprawozdawcę.
+2. W przypadku określonym w ust. 1 Marszałek Sejmu rozpatrującego sprawozdanie, po zasięgnięciu opinii Prezydium Sejmu i Konwentu Seniorów, wskazuje posła sprawozdawcę.
 
 **Art. 22.** (pominięty)
 
-**Art. 23.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia .
+**Art. 23.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

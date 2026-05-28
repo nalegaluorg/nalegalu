@@ -2,14 +2,11 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 28 marca 2003 r. o zmianie ustawy o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego "Polskie Koleje Państwowe" oraz o zmianie ustawy o gospodarce nieruchomościami*
 
-Łącznie: **5** orzeczeń
+Łącznie: **2** orzeczeń
 
-## art. 1 (4)
+## art. 1 (1)
 
 - 2005-04-12 | TK | [K 30/03](https://www.saos.org.pl/judgments/107182) | Wyrok ★
-- 2015-02-17 | TK | [Ts 140/14](https://www.saos.org.pl/judgments/206916) | Postanowienie ★
-- 2014-10-22 | TK | [Ts 140/14](https://www.saos.org.pl/judgments/206561) | Postanowienie ★
-- 2010-05-24 | TK | [P 13/09](https://www.saos.org.pl/judgments/109703) | Postanowienie ★
 
 ## art. 4 (1)
 
@@ -18,10 +15,6 @@ Orzeczenia powołujące: *Ustawa z dnia 28 marca 2003 r. o zmianie ustawy o kome
 ## art. 5 (1)
 
 - 2005-04-12 | TK | [K 30/03](https://www.saos.org.pl/judgments/107182) | Wyrok ★
-
-## art. 7 (1)
-
-- 2015-02-17 | TK | [Ts 140/14](https://www.saos.org.pl/judgments/206916) | Postanowienie ★
 
 ## art. 22 (1)
 

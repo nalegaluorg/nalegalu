@@ -8,12 +8,10 @@ pos: 1812
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o ekonomii społecznej
-
-*USTAWA z dnia 5 sierpnia 2022 r.*
+# Ustawa z dnia 5 sierpnia 2022 r. o ekonomii społecznej
 
 | Pole | Wartość |
 |---|---|
@@ -24,30 +22,68 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2022-08-05 |
 | Data wydania | 2022-08-29 |
+| Wejście w życie | 2022-10-30 |
 | Ostatnia zmiana | 2025-07-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001812) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1812/text.pdf) |
 
-Art. 67–77. (pominięte)
+Treść ustawy Dział I – Przepisy ogólne Dział II – Przedsiębiorstwo społeczne Rozdział 1 – Organizacja i zasady działania przedsiębiorstwa społecznego Rozdział 2 – Zasady uzyskiwania i utraty statusu przedsiębiorstwa społecznego oraz nadzór nad przedsiębiorstwem społecznym Rozdział 3 – Instrumenty wsparcia przedsiębiorstwa społecznego Dział III – Wsparcie rozwoju ekonomii społecznej przez organy administracji publicznej Rozdział 1 – Przepisy ogólne Rozdział 2 – Zasady i formy wspierania podmiotów ekonomii społecznej na poziomie krajowym Rozdział 3 – Zasady i formy wspierania podmiotów ekonomii społecznej na poziomie regionalnym Dział IV – Ochrona danych osobowych w związku z realizacją celów wynikających z ustawy Dział V – Zmiany w przepisach Dział VI – Przepisy przejściowe i dostosowujące oraz przepis końcowy
 
-### DZIAŁ I Przepisy ogólne
+### Dział I Przepisy ogólne
 
 **Art. 1.** Ustawa reguluje:
 
+- **1)** organizację i zasady działania przedsiębiorstwa społecznego;
+- **2)** zasady uzyskiwania i utraty statusu przedsiębiorstwa społecznego oraz nadzór nad przedsiębiorstwem społecznym;
+- **3)** instrumenty wsparcia przedsiębiorstwa społecznego;
+- **4)** zasady i formy wspierania rozwoju ekonomii społecznej przez organy administracji publicznej;
+- **5)** ochronę danych osobowych w związku z realizacją celów wynikających z ustawy.
+
 **Art. 2.** Ilekroć w niniejszej ustawie jest mowa o:
 
-### DZIAŁ II Przedsiębiorstwo społeczne
+- **1)** ekonomii społecznej – należy przez to rozumieć działalność podmiotów ekonomii społecznej na rzecz społeczności lokalnej w zakresie reintegracji społecznej i zawodowej, tworzenia miejsc pracy dla osób zagrożonych wykluczeniem społecznym oraz świadczenia usług społecznych, realizowaną w formie działalności gospodarczej, działalności pożytku publicznego i innej działalności o charakterze odpłatnym;
+- **2)** innej działalności o charakterze odpłatnym – należy przez to rozumieć działalność, o której mowa w art. 170 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2021 r. poz. 1082, z późn. zm.), działalność kulturalną w rozumieniu art. 1 ust. 1 ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2020 r. poz. 194) oraz działalność zarobkową kół gospodyń wiejskich, o której mowa w art. 22 ustawy z dnia 9 listopada 2018 r. o kołach gospodyń wiejskich (Dz. U. z 2021 r. poz. 2256), jeżeli nie jest działalnością gospodarczą;
+- **3)** jednostce tworzącej podmiot ekonomii społecznej – należy przez to rozumieć podmiot, o którym mowa w art. 10b ust. 1 i art. 29 ust. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2021 r. poz. 573 i 1981 oraz z 2022 r. poz. 558 i 1700) lub art. 3 ust. 2 i art. 18 ust. 1 ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. z 2020 r. poz. 176 oraz z 2022 r. poz. 218), który odpowiednio zorganizował warsztat terapii zajęciowej, utworzył zakład aktywności zawodowej lub centrum integracji społecznej lub prowadzi klub integracji społecznej;
+- **4)** osobach prawnych organizacyjnie powiązanych – należy przez to rozumieć co najmniej dwie osoby prawne, z których jedna posiada kontrolę w rozumieniu art. 4 pkt 4 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2021 r. poz. 275) nad pozostałą osobą prawną lub pozostałymi osobami prawnymi;
+- **5)** podmiocie ekonomii społecznej – należy przez to rozumieć: spółdzielnię socjalną, warsztat terapii zajęciowej i zakład aktywności zawodowej, centrum integracji społecznej i klub integracji społecznej, spółdzielnię pracy, w tym spółdzielnię inwalidów i spółdzielnię niewidomych, oraz spółdzielnię produkcji rolnej, organizację pozarządową, o której mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2022 r. poz. 1327 i 1265), z wyjątkiem partii politycznych, europejskich partii politycznych, związków zawodowych i organizacji pracodawców, samorządów zawodowych, fundacji utworzonych przez partie polityczne i europejskich fundacji politycznych, podmiot, o którym mowa w art. 3 ust. 3 pkt 1, 2 lub 4 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+
+- **6)** osobie zagrożonej wykluczeniem społecznym – należy przez to rozumieć: bezrobotnego, o którym mowa w art. 2 ust. 1 pkt 2 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2022 r. poz. 690, 830, 1079, 1383 i 1561), bezrobotnego długotrwale, o którym mowa w art. 2 ust. 1 pkt 5 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, poszukującego pracy, o którym mowa w art. 2 ust. 1 pkt 22 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, bez zatrudnienia: – w wieku do 30. roku życia oraz po ukończeniu 50. roku życia lub – niewykonującego innej pracy zarobkowej, o której mowa w art. 2 ust. 1 pkt 11 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, osobę niepełnosprawną w rozumieniu art. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, absolwenta centrum integracji społecznej oraz absolwenta klubu integracji społecznej, o których mowa w art. 2 pkt 1a i 1b ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym, osobę spełniającą kryteria, o których mowa w art. 8 ust. 1 pkt 1 i 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2021 r. poz. 2268, z późn. zm.), osobę uprawnioną do specjalnego zasiłku opiekuńczego, o której mowa w art. 16a ust. 1 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2022 r. poz. 615 i 1265), osobę usamodzielnianą, o której mowa w art. 140 ust. 1 i 2 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2022 r. poz. 447 i 1700) oraz art. 88 ust. 1 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, osobę z zaburzeniami psychicznymi, o której mowa w art. 3 pkt 1 ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2020 r. poz. 685 oraz z 2022 r. poz. 974 i 1700), osobę pozbawioną wolności, osobę opuszczającą zakład karny oraz pełnoletnią osobę opuszczającą zakład poprawczy, osobę starszą, o której mowa w art. 4 pkt 1 ustawy z dnia 11 września 2015 r. o osobach starszych (Dz. U. poz. 1705), osobę, która uzyskała w Rzeczypospolitej Polskiej status uchodźcy lub ochronę uzupełniającą;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
+    - **k)**
+    - **l)**
+
+- **7)** reintegracji społecznej – należy przez to rozumieć działania służące odbudowaniu lub nabyciu i podtrzymaniu umiejętności uczestniczenia w życiu społeczności lokalnej i pełnienia ról społecznych w miejscu pracy, zamieszkania lub pobytu, w tym rehabilitację społeczną osób niepełnosprawnych;
+- **8)** reintegracji zawodowej – należy przez to rozumieć działania służące zdobyciu nowych kwalifikacji, kompetencji, wiedzy i umiejętności w celu odbudowania lub uzyskania i podtrzymania zdolności do samodzielnego świadczenia pracy na rynku pracy i awansu zawodowego, w tym rehabilitację zawodową osób niepełnosprawnych;
+- **9)** usługach społecznych – należy przez to rozumieć działania z zakresu, o którym mowa w art. 2 ust. 1 pkt 1–14 ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych (Dz. U. poz. 1818);
+- **10)** zatrudnieniu – należy przez to rozumieć zatrudnienie, o którym mowa w art. 2 ust. 1 pkt 43 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy.
+
+### Dział II Przedsiębiorstwo społeczne
 
 #### Rozdział 1 Organizacja i zasady działania przedsiębiorstwa społecznego
 
 **Art. 3.**
 
-1. Status przedsiębiorstwa społecznego mogą posiadać podmiot ekonomii społecznej, o którym mowa w art. 2 pkt 5 lit. a oraz d–f, oraz jednostka tworząca podmiot ekonomii społecznej, prowadzące:
+1. Status przedsiębiorstwa społecznego mogą posiadać podmiot ekonomii społecznej, o którym mowa w art. 2 pkt 5 lit. a oraz d-f, oraz jednostka tworząca podmiot ekonomii społecznej, prowadzące:
 
 - **1)** działalność odpłatną pożytku publicznego, o której mowa w art. 8 ust. 1 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie,
-- **2)** działalność gospodarczą, o której mowa w art. 3 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871 oraz z 2025 r. poz. 222, 621 i 622),
-- **3)** inną działalność o charakterze odpłatnym – jeżeli spełniają warunki określone w ust. 2, art. 4 ust. 1 oraz art. 5–9.
+- **2)** działalność gospodarczą, o której mowa w art. 3 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2021 r. poz. 162 i 2105 oraz z 2022 r. poz. 24, 974 i 1570),
+- **3)** inną działalność o charakterze odpłatnym jeżeli spełniają warunki określone w ust. 2, art. 4 ust. 1 oraz art. 5–9.
 
-2. Status przedsiębiorstwa społecznego mogą posiadać podmiot ekonomii społecznej, o którym mowa w art. 2 pkt 5 lit. a oraz d–f, oraz jednostka tworząca podmiot ekonomii społecznej, jeżeli Skarb Państwa, jednostka samorządu terytorialnego, państwowa albo samorządowa osoba prawna nie posiadają nad podmiotem ekonomii społecznej kontroli w rozumieniu art. 4 pkt 4 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, z wyłączeniem spółdzielni socjalnych założonych przez osoby, o których mowa w art. 4 ust. 2 pkt 2 ustawy z dnia 27 kwietnia 2006 r. o spółdzielniach socjalnych.
+2. Status przedsiębiorstwa społecznego mogą posiadać podmiot ekonomii społecznej, o którym mowa w art. 2 pkt 5 lit. a oraz d-f, oraz jednostka tworząca podmiot ekonomii społecznej, jeżeli Skarb Państwa, jednostka samorządu terytorialnego, państwowa albo samorządowa osoba prawna lub osoba fizyczna nie posiadają nad podmiotem ekonomii społecznej kontroli w rozumieniu art. 4 pkt 4 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, z wyłączeniem spółdzielni socjalnych założonych przez osoby, o których mowa w art. 4 ust. 2 pkt 2 ustawy z dnia 27 kwietnia 2006 r. o spółdzielniach socjalnych.
 
 **Art. 4.**
 
@@ -62,7 +98,7 @@ Art. 67–77. (pominięte)
 
 1. Przedsiębiorstwo społeczne zatrudnia co najmniej 3 osoby na podstawie umowy o pracę lub spółdzielczej umowy o pracę. Każda z tych osób jest zatrudniona w wymiarze co najmniej 1/2 pełnego wymiaru czasu pracy.
 
-2. W przedsiębiorstwie społecznym działającym w celu, o którym mowa w art. 4 ust. 1 pkt 1, co najmniej 30 % ogółu osób zatrudnionych stanowią osoby zagrożone wykluczeniem społecznym, wykonujące pracę na podstawie umowy o pracę lub spółdzielczej umowy o pracę. Każda z tych osób zagrożonych wykluczeniem społecznym jest zatrudniona w wymiarze co najmniej 1/2 pełnego wymiaru czasu pracy.
+2. W przedsiębiorstwie społecznym działającym w celu, o którym mowa w art. 4 ust. 1 pkt 1, co najmniej 30% ogółu osób zatrudnionych stanowią osoby zagrożone wykluczeniem społecznym, wykonujące pracę na podstawie umowy o pracę lub spółdzielczej umowy o pracę. Każda z tych osób zagrożonych wykluczeniem społecznym jest zatrudniona w wymiarze co najmniej 1/2 pełnego wymiaru czasu pracy.
 
 3. Przez ogół osób zatrudnionych, o którym mowa w ust. 2, należy rozumieć osoby świadczące pracę na podstawie stosunku pracy, stosunku służbowego, umowy o pracę nakładczą lub umowy cywilnoprawnej lub osoby prowadzące jednoosobową działalność gospodarczą niebędące pracodawcami świadczące na rzecz przedsiębiorstwa społecznego usługi przez nieprzerwany okres co najmniej 3 miesięcy.
 
@@ -123,15 +159,15 @@ Art. 67–77. (pominięte)
 
 2. Roczne sprawozdanie, o którym mowa w ust. 1, zawiera:
 
-- **1)** informacje dotyczące przedsiębiorstwa społecznego:
-    - **a)** nazwę i formę prawną,
-    - **b)** adres siedziby oraz dane kontaktowe,
-    - **c)** NIP, numer identyfikacyjny REGON oraz numer w Krajowym Rejestrze Sądowym, innej ewidencji lub innym rejestrze;
+- **1)** informacje dotyczące przedsiębiorstwa społecznego: nazwę i formę prawną, adres siedziby oraz dane kontaktowe, NIP, numer identyfikacyjny REGON oraz numer w Krajowym Rejestrze Sądowym, innej ewidencji lub innym rejestrze;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **2)** szczegółowe informacje o:
-    - **a)** podjętych działaniach dotyczących reintegracji społecznej i zawodowej osób zatrudnionych wraz z osiągniętymi efektami,
-    - **b)** zatrudnieniu, z uwzględnieniem warunków, o których mowa w art. 5 ust. 2,
-    - **c)** korzystaniu z instrumentów wsparcia, o których mowa w art. 21, art. 22 i art. 24–26.
+- **2)** szczegółowe informacje o: podjętych działaniach dotyczących reintegracji społecznej i zawodowej osób zatrudnionych wraz z osiągniętymi efektami, zatrudnieniu, z uwzględnieniem warunków, o których mowa w art. 5 ust. 2, korzystaniu z instrumentów wsparcia, o których mowa w art. 21, art. 22 i art. 24–26.
+    - **a)**
+    - **b)**
+    - **c)**
 
 3. Roczne sprawozdanie, o którym mowa w ust. 1, przedsiębiorstwo społeczne sporządza:
 
@@ -150,7 +186,7 @@ Art. 67–77. (pominięte)
 
 **Art. 12.**
 
-1. Uzyskanie statusu przedsiębiorstwa społecznego następuje na wniosek podmiotu ekonomii społecznej, o którym mowa w art. 2 pkt 5 lit. a lub d– f, albo jednostki tworzącej podmiot ekonomii społecznej, w drodze decyzji wojewody właściwego ze względu na siedzibę tego podmiotu albo tej jednostki.
+1. Uzyskanie statusu przedsiębiorstwa społecznego następuje na wniosek podmiotu ekonomii społecznej, o którym mowa w art. 2 pkt 5 lit. a lub d-f, albo jednostki tworzącej podmiot ekonomii społecznej, w drodze decyzji wojewody właściwego ze względu na siedzibę tego podmiotu albo tej jednostki.
 
 2. Wniosek o uzyskanie statusu przedsiębiorstwa społecznego zawiera:
 
@@ -160,7 +196,7 @@ Art. 67–77. (pominięte)
 - **4)** określenie celu działalności, o którym mowa w art. 4 ust. 1;
 - **5)** planowany przedmiot dominującej działalności.
 
-3. Do wniosku o uzyskanie statusu przedsiębiorstwa społecznego dołącza się dokumenty potwierdzające spełnianie przez podmiot ekonomii społecznej, o którym mowa w art. 2 pkt 5 lit. a lub d–f, albo jednostkę tworzącą podmiot ekonomii społecznej warunków, o których mowa w art. 3, art. 4 ust. 1, art. 5 oraz art. 7–9, w szczególności statut, umowę spółki lub inny dokument o tym charakterze oraz odpowiednie uchwały i regulaminy.
+3. Do wniosku o uzyskanie statusu przedsiębiorstwa społecznego dołącza się dokumenty potwierdzające spełnianie przez podmiot ekonomii społecznej, o którym mowa w art. 2 pkt 5 lit. a lub d-f, albo jednostkę tworzącą podmiot ekonomii społecznej warunków, o których mowa w art. 3, art. 4 ust. 1, art. 5 oraz art. 7–9, w szczególności statut, umowę spółki lub inny dokument o tym charakterze oraz odpowiednie uchwały i regulaminy.
 
 4. Przepisu ust. 3 nie stosuje się do spółdzielni socjalnych.
 
@@ -178,9 +214,7 @@ Art. 67–77. (pominięte)
 
 **Art. 16.**
 
-1. Wojewoda może zarządzić w przedsiębiorstwie społecznym kontrolę z urzędu lub na wniosek innego organu administracji publicznej w zakresie spełniania warunków, o których mowa w art. 3, art. 4 ust. 1 oraz art. 5–
-
-10.
+1. Wojewoda może zarządzić w przedsiębiorstwie społecznym kontrolę z urzędu lub na wniosek innego organu administracji publicznej w zakresie spełniania warunków, o których mowa w art. 3, art. 4 ust. 1 oraz art. 5–10.
 
 2. Do kontroli, o której mowa w ust. 1, przepisy rozdziałów 2–5 ustawy z dnia 15 lipca 2011 r. o kontroli w administracji rządowej (Dz. U. z 2020 r. poz. 224) stosuje się odpowiednio.
 
@@ -190,7 +224,12 @@ Art. 67–77. (pominięte)
 
 **Art. 17.** Wojewoda wydaje decyzję o utracie statusu przedsiębiorstwa społecznego w przypadku, gdy:
 
-**Art. 18.** Podmiot ekonomii społecznej, o którym mowa w art. 2 pkt 5 lit. a oraz d–f, oraz jednostka tworząca podmiot ekonomii społecznej, które utraciły status przedsiębiorstwa społecznego na podstawie art. 17 pkt 1, mogą ponownie uzyskać ten status nie wcześniej niż po upływie roku od dnia, w którym decyzja o utracie statusu stała się ostateczna.
+- **1)** przedsiębiorstwo społeczne nie spełnia któregokolwiek z warunków, o których mowa w art. 3, art. 4 ust. 1 oraz art. 5–10, mimo upływu terminu, o którym mowa w art. 14 ust. 1;
+- **2)** ogłoszono upadłość przedsiębiorstwa społecznego albo oddalono wniosek o ogłoszenie upadłości przedsiębiorstwa społecznego z uwagi na fakt, że jego majątek nie wystarcza na zaspokojenie kosztów postępowania;
+- **3)** otwarto likwidację przedsiębiorstwa społecznego;
+- **4)** przedsiębiorstwo społeczne wystąpiło z wnioskiem o wydanie tej decyzji.
+
+**Art. 18.** Podmiot ekonomii społecznej, o którym mowa w art. 2 pkt 5 lit. a oraz d-f, oraz jednostka tworząca podmiot ekonomii społecznej, które utraciły status przedsiębiorstwa społecznego na podstawie art. 17 pkt 1, mogą ponownie uzyskać ten status nie wcześniej niż po upływie roku od dnia, w którym decyzja o utracie statusu stała się ostateczna.
 
 **Art. 19.**
 
@@ -221,25 +260,25 @@ Art. 67–77. (pominięte)
 
 3. Wniosek, o którym mowa w ust. 2, zawiera:
 
-- **1)** dane dotyczące przedsiębiorstwa społecznego:
-    - **a)** nazwę i formę prawną,
-    - **b)** adres siedziby oraz dane kontaktowe,
-    - **c)** NIP, numer identyfikacyjny REGON oraz numer w Krajowym Rejestrze Sądowym, innej ewidencji lub innym rejestrze;
+- **1)** dane dotyczące przedsiębiorstwa społecznego: nazwę i formę prawną, adres siedziby oraz dane kontaktowe, NIP, numer identyfikacyjny REGON oraz numer w Krajowym Rejestrze Sądowym, innej ewidencji lub innym rejestrze;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **2)** datę zawarcia umowy, o której mowa w ust. 2;
-- **3)** dane rozliczeniowe, obejmujące:
-    - **a)** okres opłacania składek,
-    - **b)** kwotę opłaconych składek w przypadku ubiegania się o ich refundację,
-    - **c)** kwotę składek podlegającą finansowaniu;
+- **3)** dane rozliczeniowe, obejmujące: okres opłacania składek, kwotę opłaconych składek w przypadku ubiegania się o ich refundację, kwotę składek podlegającą finansowaniu;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **4)** dane osoby, której dotyczy rozliczenie:
-    - **a)** imię, nazwisko i numer PESEL,
-    - **b)** okres, na jaki nawiązano stosunek pracy,
-    - **c)** wskazanie grupy osób zagrożonych wykluczeniem społecznym, do której ta osoba należy zgodnie z art. 2 pkt 6;
+- **4)** dane osoby, której dotyczy rozliczenie: imię, nazwisko i numer PESEL, okres, na jaki nawiązano stosunek pracy, wskazanie grupy osób zagrożonych wykluczeniem społecznym, do której ta osoba należy zgodnie z art. 2 pkt 6;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **5)** informację o nazwie banku i numerze rachunku bankowego albo informację o nazwie spółdzielczej kasy oszczędnościowo-kredytowej i numerze rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, na który mają zostać przekazane środki na finansowanie składek.
 
-4. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, wzór wniosku przedsiębiorstwa społecznego o finansowanie składek oraz tryb finansowania składek, mając na względzie konieczność zapewnienia przejrzystości danych zawartych we wniosku oraz racjonalne gospodarowanie środkami Funduszu Pracy, a także konieczność zapewnienia zgodności udzielania wsparcia z warunkami dopuszczalności pomocy de minimis.
+4. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, wzór wniosku przedsiębiorstwa społecznego o finansowanie składek oraz tryb finansowania składek, mając na względzie konieczność zapewnienia przejrzystości danych zawartych we wniosku oraz racjonalne gospodarowanie środkami Funduszu Pracy, a także konieczność zapewnienia zgodności udzielania wsparcia z warunkami dopuszczalności pomocy de minimis .
 
 **Art. 22.**
 
@@ -250,10 +289,10 @@ Art. 67–77. (pominięte)
 
 2. Wsparcie, o którym mowa w ust. 1, może być finansowane ze środków:
 
-- **1)** Funduszu Pracy na zasadach określonych w ustawie z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia;
+- **1)** Funduszu Pracy na zasadach określonych w ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy;
 - **2)** Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych na zasadach określonych w ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych.
 
-**Art. 23.** Wsparcie, o którym mowa w art. 21 i art. 22, może być finansowane ze środków, o których mowa w art. 5 ust. 1 pkt 2–3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530, 1572, 1717, 1756 i 1907 oraz z 2025 r. poz. 39), w tym za pośrednictwem ośrodka wsparcia ekonomii społecznej.
+**Art. 23.** Wsparcie, o którym mowa w art. 21 i art. 22, może być finansowane ze środków, o których mowa w art. 5 ust. 1 pkt 2–3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, 1692, 1725, 1747 i 1768), w tym za pośrednictwem ośrodka wsparcia ekonomii społecznej.
 
 **Art. 24.** Przedsiębiorstwu społecznemu przysługuje dofinansowanie do oprocentowania zaciągniętych kredytów bankowych i w spółdzielczych kasach oszczędnościowo-kredytowych na zasadach określonych w art. 32 ust. 1 pkt 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz zwrot kosztów, o których mowa w art. 32 ust. 1 pkt 2 tej ustawy.
 
@@ -261,7 +300,7 @@ Art. 67–77. (pominięte)
 
 **Art. 26.**
 
-1. Jednostka sektora finansów publicznych, udzielając zamówienia publicznego, do którego ze względu na jego wartość nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320 oraz z 2025 r. poz. 620), może zastrzec, że o udzielenie zamówienia publicznego mogą ubiegać się wyłącznie przedsiębiorstwa społeczne działające na podstawie ustawy lub właściwych przepisów państw członkowskich Unii Europejskiej lub Europejskiego Obszaru Gospodarczego, z uwzględnieniem art. 44 ust. 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+1. Jednostka sektora finansów publicznych, udzielając zamówienia publicznego, do którego ze względu na jego wartość nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2022 r. poz. 1710), może zastrzec, że o udzielenie zamówienia publicznego mogą ubiegać się wyłącznie przedsiębiorstwa społeczne działające na podstawie ustawy lub właściwych przepisów państw członkowskich Unii Europejskiej lub Europejskiego Obszaru Gospodarczego, z uwzględnieniem art. 44 ust. 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
 2. Informację o zastrzeżeniu, o którym mowa w ust. 1, zamieszcza się we wniosku o uruchomienie procedury udzielenia zamówienia publicznego oraz odpowiednich dokumentach postępowania o udzielenie zamówienia publicznego.
 
@@ -271,7 +310,7 @@ Art. 67–77. (pominięte)
 
 2. Wojewoda na wniosek zamawiającego, o którym mowa w art. 7 pkt 31 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, potwierdza w terminie określonym w ust. 1 aktualność wydanego zaświadczenia.
 
-### DZIAŁ III Wsparcie rozwoju ekonomii społecznej przez organy administracji publicznej
+### Dział III Wsparcie rozwoju ekonomii społecznej przez organy administracji publicznej
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -281,14 +320,14 @@ Art. 67–77. (pominięte)
 
 - **1)** koordynację działań na rzecz rozwoju ekonomii społecznej realizowanych przez organy administracji publicznej;
 - **2)** pomoc w tworzeniu podmiotów ekonomii społecznej i przedsiębiorstw społecznych;
-- **3)** udzielanie podmiotom ekonomii społecznej i przedsiębiorstwom społecznym wsparcia w szczególności w zakresie:
-    - **a)** zatrudnienia oraz reintegracji społecznej i zawodowej osób zagrożonych wykluczeniem społecznym,
-    - **b)** rozwijania potencjału podmiotów ekonomii społecznej i przedsiębiorstw społecznych w zakresie realizacji usług społecznych,
-    - **c)** rozwijania działalności gospodarczej, działalności odpłatnej pożytku publicznego i innej działalności odpłatnej oraz konkurencyjności.
+- **3)** udzielanie podmiotom ekonomii społecznej i przedsiębiorstwom społecznym wsparcia w szczególności w zakresie: zatrudnienia oraz reintegracji społecznej i zawodowej osób zagrożonych wykluczeniem społecznym, rozwijania potencjału podmiotów ekonomii społecznej i przedsiębiorstw społecznych w zakresie realizacji usług społecznych, rozwijania działalności gospodarczej, działalności odpłatnej pożytku publicznego i innej działalności odpłatnej oraz konkurencyjności.
+    - **a)**
+    - **b)**
+    - **c)**
 
 2. Działania, o których mowa w ust. 1, są realizowane w szczególności za pomocą:
 
-- **1)** programu rozwoju na rzecz ekonomii społecznej oraz regionalnych programów rozwoju na rzecz ekonomii społecznej opracowywanych na podstawie ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2025 r. poz. 198);
+- **1)** programu rozwoju na rzecz ekonomii społecznej oraz regionalnych programów rozwoju na rzecz ekonomii społecznej opracowywanych na podstawie ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2021 r. poz. 1057 oraz z 2022 r. poz. 1079);
 - **2)** resortowych programów wspierania ekonomii społecznej;
 - **3)** usług wsparcia podmiotów ekonomii społecznej;
 - **4)** instrumentów wsparcia, o których mowa w art. 21 i art. 22.
@@ -311,11 +350,15 @@ Art. 67–77. (pominięte)
 
 **Art. 30.** Minister właściwy do spraw zabezpieczenia społecznego koordynuje działania na rzecz rozwoju ekonomii społecznej, w szczególności:
 
+- **1)** opracowuje program rozwoju na rzecz ekonomii społecznej na podstawie ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju;
+- **2)** zapewnia realizację usług wsparcia podmiotów ekonomii społecznej na poziomie krajowym;
+- **3)** przyznaje akredytację podmiotom realizującym usługi wsparcia podmiotów ekonomii społecznej i status ośrodka wsparcia ekonomii społecznej;
+- **4)** gromadzi dane z obszaru ekonomii społecznej, w tym opracowane przez Prezesa Głównego Urzędu Statystycznego;
+- **5)** prowadzi działania z zakresu upowszechniania wiedzy o ekonomii społecznej.
+
 **Art. 31.**
 
 1. Minister właściwy do spraw zabezpieczenia społecznego może opracować resortowe programy wspierania ekonomii społecznej, skierowane do podmiotów ekonomii społecznej lub jednostek samorządu terytorialnego, oraz finansowo wspierać te programy.
-
-1a. Koszty obsługi programów, o których mowa w ust. 1, wynoszą do 2,5 % środków przeznaczonych na realizację tych programów.
 
 2. W ramach programów, o których mowa w ust. 1, są finansowane działania wspierające:
 
@@ -339,9 +382,9 @@ Art. 67–77. (pominięte)
 
 1. W ramach programów, o których mowa w art. 31 ust. 1, wsparciu może podlegać również działalność gospodarcza podmiotów ekonomii społecznej i przedsiębiorstw społecznych przez udzielenie im dotacji przez ministra właściwego do spraw zabezpieczenia społecznego.
 
-2. Wsparcie, o którym mowa w ust. 1, jest udzielane jako pomoc de minimis w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis.
+2. Wsparcie, o którym mowa w ust. 1, jest udzielane jako pomoc de minimis zgodnie z rozporządzeniem Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1, z późn. zm.), a w przypadku gdy podmiot ekonomii społecznej wykonuje usługi świadczone w ogólnym interesie gospodarczym zgodnie z rozporządzeniem Komisji (UE) nr 360/2012 z dnia 25 kwietnia 2012 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis przyznawanej przedsiębiorstwom wykonującym usługi świadczone w ogólnym interesie gospodarczym (Dz. Urz. UE L 114 z 26.04.2012, str. 8, z późn. zm.).
 
-3. Zaświadczenie potwierdzające, że udzielone wsparcie, o którym mowa w ust. 1, jest pomocą de minimis, wydaje minister właściwy do spraw zabezpieczenia społecznego na zasadach określonych w ustawie z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2025 r. poz. 468).
+3. Zaświadczenie potwierdzające, że udzielone wsparcie, o którym mowa w ust. 1, jest pomocą de minimis , wydaje minister właściwy do spraw zabezpieczenia społecznego na zasadach określonych w ustawie z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2021 r. poz. 743 oraz z 2022 r. poz. 807).
 
 **Art. 33.**
 
@@ -384,7 +427,7 @@ Art. 67–77. (pominięte)
 - **2)** żadna wskazana osoba nie weźmie udziału w pracach zespołu, lub
 - **3)** wszystkie osoby powołane w skład zespołu podlegają wyłączeniu na podstawie ust. 1 lub 3.
 
-3. Do członków zespołu, o którym mowa w ust. 1, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) dotyczące wyłączenia pracownika.
+3. Do członków zespołu, o którym mowa w ust. 1, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735, 1491 i 2052 oraz z 2022 r. poz. 1301) dotyczące wyłączenia pracownika.
 
 **Art. 35.**
 
@@ -415,7 +458,7 @@ Art. 67–77. (pominięte)
 
 2. Akredytacja i status ośrodka wsparcia ekonomii społecznej są przyznawane na okres nieprzekraczający 2 lat.
 
-3. Akredytację i status ośrodka wsparcia ekonomii społecznej może uzyskać podmiot ekonomii społecznej, o którym mowa w art. 2 pkt 5 lit. a lub d–f, realizujący usługi wsparcia podmiotów ekonomii społecznej, działający samodzielnie lub w partnerstwie, jeżeli spełnia następujące warunki:
+3. Akredytację i status ośrodka wsparcia ekonomii społecznej może uzyskać podmiot ekonomii społecznej, o którym mowa w art. 2 pkt 5 lit. a lub d-f, realizujący usługi wsparcia podmiotów ekonomii społecznej, działający samodzielnie lub w partnerstwie, jeżeli spełnia następujące warunki:
 
 - **1)** nie posiada zaległości w opłacaniu podatków i składek na ubezpieczenia społeczne lub zdrowotne;
 - **2)** członkowie organu zarządzającego tego podmiotu nie byli ukarani zakazem pełnienia funkcji związanych z dysponowaniem środkami publicznymi oraz skazani prawomocnym wyrokiem za przestępstwo umyślne lub umyślne przestępstwo skarbowe.
@@ -426,13 +469,13 @@ Art. 67–77. (pominięte)
 
 1. Minister właściwy do spraw zabezpieczenia społecznego ogłasza nabór wniosków o przyznanie akredytacji i statusu ośrodka wsparcia ekonomii społecznej na stronie podmiotowej urzędu go obsługującego w Biuletynie Informacji Publicznej. W ogłoszeniu o naborze wniosków określa się termin na ich złożenie, który nie może być krótszy niż 14 dni od dnia udostępnienia ogłoszenia o naborze wniosków.
 
-2. Wniosek podmiotu ekonomii społecznej, o którym mowa w art. 2 pkt 5 lit. a lub d–f, o przyznanie akredytacji i statusu ośrodka wsparcia ekonomii społecznej zawiera:
+2. Wniosek podmiotu ekonomii społecznej, o którym mowa w art. 2 pkt 5 lit. a lub d-f, o przyznanie akredytacji i statusu ośrodka wsparcia ekonomii społecznej zawiera:
 
-- **1)** dane dotyczące wnioskodawcy, a także partnera, jeżeli planuje się realizację usług wsparcia podmiotów ekonomii społecznej w partnerstwie:
-    - **a)** nazwę i formę prawną,
-    - **b)** adres siedziby oraz dane kontaktowe,
-    - **c)** NIP, numer identyfikacyjny REGON i numer w Krajowym Rejestrze Sądowym, innej ewidencji lub innym rejestrze,
-    - **d)** planowany obszar działania;
+- **1)** dane dotyczące wnioskodawcy, a także partnera, jeżeli planuje się realizację usług wsparcia podmiotów ekonomii społecznej w partnerstwie: nazwę i formę prawną, adres siedziby oraz dane kontaktowe, NIP, numer identyfikacyjny REGON i numer w Krajowym Rejestrze Sądowym, innej ewidencji lub innym rejestrze, planowany obszar działania;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **2)** informacje o dotychczasowym doświadczeniu wnioskodawcy w realizacji usług wsparcia podmiotów ekonomii społecznej, a także doświadczeniu partnera w realizacji takich usług, jeżeli planuje się realizację usług wsparcia podmiotów ekonomii społecznej w partnerstwie;
 - **3)** informacje dotyczące posiadanych zasobów rzeczowych i kadrowych przez wnioskodawcę, a także partnera, jeżeli planuje się realizację usług wsparcia podmiotów ekonomii społecznej w partnerstwie;
@@ -478,13 +521,24 @@ Art. 67–77. (pominięte)
 
 **Art. 42.** Minister właściwy do spraw zabezpieczenia społecznego wydaje decyzję o utracie akredytacji i statusu ośrodka wsparcia ekonomii społecznej w przypadku:
 
+- **1)** stwierdzenia braku możliwości prawidłowej realizacji usług wsparcia podmiotów ekonomii społecznej;
+- **2)** niespełniania warunków, o których mowa w art. 36 ust. 3;
+- **3)** nieprzekazania informacji, o których mowa w art. 40 ust. 2 pkt 1;
+- **4)** bezskutecznego upływu terminu, o którym mowa w art. 41;
+- **5)** złożenia przez ośrodek wsparcia ekonomii społecznej wniosku o wydanie tej decyzji.
+
 **Art. 43.** Minister właściwy do spraw zabezpieczenia społecznego prowadzi wykaz akredytowanych ośrodków wsparcia ekonomii społecznej i udostępnia go na stronie podmiotowej urzędu go obsługującego w Biuletynie Informacji Publicznej.
 
 **Art. 44.** Wykaz, o którym mowa w art. 43, w odniesieniu do każdego ośrodka zawiera:
 
+- **1)** nazwę ośrodka wsparcia ekonomii społecznej i podmiotów go tworzących;
+- **2)** adres siedziby ośrodka wsparcia ekonomii społecznej i obszar jego działania;
+- **3)** okres, na jaki przyznano akredytację i status ośrodka wsparcia ekonomii społecznej;
+- **4)** dane kontaktowe ośrodka wsparcia ekonomii społecznej.
+
 **Art. 45.** Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, szczegółowy tryb oceny, o której mowa w art. 38 ust. 1, oraz wzór wniosku o przyznanie akredytacji i statusu ośrodka wsparcia ekonomii społecznej, mając na względzie konieczność oceny doświadczenia wnioskodawcy w realizacji usług wsparcia podmiotów ekonomii społecznej i możliwości prawidłowej realizacji tych usług przez wnioskodawcę, a także konieczność zapewnienia przejrzystości danych zamieszczanych we wniosku.
 
-**Art. 46.** Koszty związane z działaniami ministra właściwego do spraw zabezpieczenia społecznego, o których mowa w art. 36–38 oraz art. 40–43, są pokrywane z części budżetu państwa, której dysponentem jest ten minister, oraz mogą być finansowane z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2– 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+**Art. 46.** Koszty związane z działaniami ministra właściwego do spraw zabezpieczenia społecznego, o których mowa w art. 36–38 oraz art. 40–43, są pokrywane z części budżetu państwa, której dysponentem jest ten minister, oraz mogą być finansowane z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2–3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
 **Art. 47.**
 
@@ -542,7 +596,7 @@ Art. 67–77. (pominięte)
 
 2. Koszty, o których mowa w ust. 1, mogą być finansowane z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2–3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
-3. Za udział w pracach Krajowego Komitetu ekspertom, członkom Krajowego Komitetu, o których mowa w art. 48 ust. 1 pkt 4, oraz osobom niebędącym jego członkami przysługuje zwrot kosztów podróży na zasadach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277).
+3. Za udział w pracach Krajowego Komitetu ekspertom, członkom Krajowego Komitetu, o których mowa w art. 48 ust. 1 pkt 4, oraz osobom niebędącym jego członkami przysługuje zwrot kosztów podróży na zasadach określonych w przepisach wydanych na podstawie art. 775 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2022 r. poz. 1510 i 1700).
 
 **Art. 52.** Obsługę administracyjno-biurową Krajowego Komitetu zapewnia urząd obsługujący ministra właściwego do spraw zabezpieczenia społecznego.
 
@@ -609,13 +663,13 @@ Art. 67–77. (pominięte)
 
 1. Samorząd województwa zapewnia realizację usług, o których mowa w art. 29.
 
-2. Samorząd województwa samodzielnie realizuje usługi, o których mowa w art. 29, lub zleca ich realizację akredytowanemu ośrodkowi wsparcia ekonomii społecznej w trybie otwartego konkursu ofert, o którym mowa w ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, lub stosując przepisy ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014– 2020 (Dz. U. z 2020 r. poz. 818) lub ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079 oraz z 2024 r. poz. 1717).
+2. Samorząd województwa samodzielnie realizuje usługi, o których mowa w art. 29, lub zleca ich realizację akredytowanemu ośrodkowi wsparcia ekonomii społecznej w trybie otwartego konkursu ofert, o którym mowa w ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, lub stosując przepisy ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818) lub ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079).
 
 3. Zadanie, o którym mowa w ust. 1, jest finansowane ze środków budżetu samorządu województwa oraz może być finansowane z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2–3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
 4. Samorząd województwa określa w regionalnym programie rozwoju na rzecz ekonomii społecznej sposób realizacji usług, o których mowa w art. 29, mając na względzie potrzebę zapewnienia na terenie całego województwa równego dostępu do tych usług.
 
-### DZIAŁ IV Ochrona danych osobowych w związku z realizacją celów wynikających z ustawy
+### Dział IV Ochrona danych osobowych w związku z realizacją celów wynikających z ustawy
 
 **Art. 60.**
 
@@ -659,17 +713,212 @@ Art. 67–77. (pominięte)
 
 **Art. 66.** Dane, o których mowa w art. 60 ust. 1, art. 61 ust. 1 i 2, art. 62 ust. 1, art. 63 ust. 1, art. 64 ust. 1 i art. 65 ust. 1, podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazywaniu, które polegają co najmniej na:
 
-### DZIAŁ V Zmiany w przepisach
+- **1)** dopuszczeniu do przetwarzania danych wyłącznie osób posiadających pisemne upoważnienie;
+- **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych do zachowania ich w poufności.
 
-### DZIAŁ VI Przepisy przejściowe i dostosowujące oraz przepis końcowy
+### Dział V Zmiany w przepisach
 
-**Art. 78.** Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, dotyczących środków określonych w art. 12a ust. 1, art. 13 ust. 1, art. 26 ust. 1, art. 26e ust. 1, art. 26g ust. 1 i art. 32 ust. 1 ustawy zmienianej w art. 68 , nie stosuje się przepisu art. 26h ustawy zmienianej w art. 68 .
+**Art. 67.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2021 r. poz. 1800, z późn. zm.) w art. 17 w ust. 1 po pkt 43 dodaje się pkt 43a w brzmieniu: „
 
-**Art. 79.** Strategie rozwiązywania problemów społecznych oraz strategie w zakresie polityki społecznej opracowane na podstawie przepisów ustawy zmienianej w art. 71 , w brzmieniu dotychczasowym, są realizowane przez okres, na który zostały opracowane.
+- **43a)** dochody przedsiębiorstw społecznych działających w celu, o którym mowa w art. 4 ust. 1 pkt 1 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej (Dz. U. poz. 1812), wydatkowane w roku podatkowym na cele związane z reintegracją społeczną i zawodową swoich pracowników w części niezaliczonej do kosztów uzyskania przychodów; ” .
+
+**Art. 68.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2021 r. poz. 573 i 1981 oraz z 2022 r. poz. 558 i 1700) wprowadza się następujące zmiany:
+
+- **1)** w art. 10a ust. 3a otrzymuje brzmienie: „
+
+3a. Na podstawie indywidualnego programu rehabilitacji uczestnik warsztatu może brać udział w nieodpłatnych praktykach zawodowych u pracodawcy, w tym w spółdzielni socjalnej lub przedsiębiorstwie społecznym, o którym mowa w ustawie z dnia 5 sierpnia 2022 r. o ekonomii społecznej (Dz. U. poz. 1812), zwanym dalej „przedsiębiorstwem społecznym”, w wymiarze do 15 godzin tygodniowo przez okres do 3 miesięcy, z możliwością przedłużenia do 6 miesięcy. ” ;
+
+- **2)** w art. 21: ust. 2f i 2f1 otrzymują brzmienie: „
+    - **a)**
+
+2f. Pracodawcy osiągający wskaźniki zatrudnienia osób niepełnosprawnych, o których mowa w ust. 2–2b, jednostki organizacyjne, o których mowa w ust. 2e, oraz pracodawcy, o których mowa w art. 22 ust. 1, składają Zarządowi Funduszu:
+
+- **1)** informacje ewidencyjne zgłoszeniowe lub informacje aktualizacyjne – w terminie do 20. dnia miesiąca następującego po miesiącu, w którym: stali się podmiotami zobowiązanymi do składania informacji, o których mowa w pkt 2, a nie podlegali zgłoszeniu w informacji ewidencyjnej zgłoszeniowej ani zgłoszeniowej deklaracji ewidencyjnej wpłat na Fundusz, lub uległy zmianie dane wykazane we wcześniejszej informacji ewidencyjnej lub w deklaracji ewidencyjnej wpłat na Fundusz;
+    - **a)**
+    - **b)**
+
+- **2)** informacje miesięczne o zatrudnieniu osób niepełnosprawnych, o zatrudnieniu i kształceniu osób niepełnosprawnych lub o działalności na rzecz osób niepełnosprawnych – w terminie do 20. dnia miesiąca następującego po miesiącu, którego dotyczy informacja;
+- **3)** informacje roczne o zatrudnieniu osób niepełnosprawnych, o zatrudnieniu i kształceniu osób niepełnosprawnych lub o działalności na rzecz osób niepełnosprawnych – w terminie do dnia 20 stycznia roku następującego po roku, którego dotyczy ta informacja. 2f1. Pracodawca składa informacje, o których mowa w ust. 2f, w formie dokumentu elektronicznego przez teletransmisję danych, z wyjątkiem informacji ewidencyjnej zgłoszeniowej, którą składa w formie dokumentu pisemnego. ” , po ust. 2f1 dodaje się ust. 2f2 w brzmieniu: „ 2f2. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, wzory informacji, o których mowa w ust. 2f, kierując się koniecznością zapewnienia dostępności tych wzorów oraz spójności i użyteczności danych pozyskiwanych na podstawie tych informacji, a także zautomatyzowanej weryfikacji zwolnienia pracodawcy z miesięcznych wpłat na Fundusz lub spełniania warunków wystawiania informacji o kwocie obniżenia tych wpłat. ” ;
+    - **b)**
+
+- **3)** w art. 22 ust. 1 otrzymuje brzmienie: „
+
+1. Wpłaty na Fundusz, o których mowa w art. 21 ust. 1, ulegają obniżeniu z tytułu zakupu produkcji lub usługi, z wyłączeniem handlu, odpowiednio wytworzonej lub świadczonej przez zakłady aktywności zawodowej, przedsiębiorstwa społeczne zatrudniające co najmniej 10 pracowników w przeliczeniu na pełny wymiar czasu pracy lub innych pracodawców zatrudniających co najmniej 25 pracowników w przeliczeniu na pełny wymiar czasu pracy – jeżeli wskaźnik zatrudnienia osób niepełnosprawnych zaliczonych do osób o:
+
+- **1)** znacznym stopniu niepełnosprawności lub
+- **2)** umiarkowanym stopniu niepełnosprawności, w odniesieniu do których orzeczono chorobę psychiczną, upośledzenie umysłowe, całościowe zaburzenia rozwojowe lub epilepsję, oraz niewidomych wynosi co najmniej 30%, zwanych dalej „sprzedającymi”. ” ;
+- **4)** art. 26g otrzymuje brzmienie: „
+
+1. Przedsiębiorstwo społeczne lub spółdzielnia socjalna mogą otrzymać, na wniosek, ze środków Funduszu:
+
+- **1)** środki na utworzenie stanowiska pracy dla osoby niepełnosprawnej, o której mowa w art. 11 ust. 1, w wysokości określonej w umowie zawartej ze starostą, wynoszącej od sześciokrotności do piętnastokrotności przeciętnego wynagrodzenia – w przypadku zobowiązania do utrzymania zatrudnienia tej osoby na utworzonym stanowisku pracy przez okres od 12 miesięcy do 24 miesięcy, pod warunkiem nieotrzymania bezzwrotnych środków publicznych na ten cel;
+- **2)** środki na finansowanie kosztów płacy osoby niepełnosprawnej, o której mowa w art. 11 ust. 1, w okresie do 6 miesięcy od dnia zawarcia umowy ze starostą, wypłacane miesięcznie w wysokości nie wyższej niż najniższe wynagrodzenie przez okres nie dłuższy niż 6 miesięcy.
+
+2. Przedsiębiorstwo społeczne lub spółdzielnia socjalna w przypadku zatrudnienia osoby niepełnosprawnej, o której mowa w art. 11 ust. 1, która odbyła nieodpłatną praktykę zawodową, o której mowa w art. 10a ust. 3a, w tym przedsiębiorstwie lub tej spółdzielni, mogą otrzymać środki, o których mowa w ust. 1 pkt 2, w okresie do 12 miesięcy od dnia zawarcia umowy ze starostą, wypłacane miesięcznie w wysokości nie wyższej niż najniższe wynagrodzenie przez okres nie dłuższy niż 12 miesięcy.
+
+3. Jeżeli okres zatrudnienia osoby niepełnosprawnej, o której mowa w art. 11 ust. 1, jest krótszy niż wskazany w ust. 1 pkt 1, przedsiębiorstwo społeczne lub spółdzielnia socjalna zwracają Funduszowi za pośrednictwem starosty otrzymane środki w wysokości proporcjonalnej do okresu pozostałego do upływu okresu wskazanego w ust. 1 pkt 1, jednak w wysokości nie mniejszej niż 1/6 ogólnej kwoty przyznanych środków.
+
+4. Przedsiębiorstwo społeczne lub spółdzielnia socjalna dokonują zwrotu, o którym mowa w ust. 3, w terminie 3 miesięcy, licząc od dnia rozwiązania stosunku pracy z osobą niepełnosprawną, o której mowa w art. 11 ust. 1, lub od dnia utraty ważności orzeczenia potwierdzającego jej niepełnosprawność – w zależności od tego, która okoliczność wystąpi wcześniej.
+
+5. Przedsiębiorstwo społeczne lub spółdzielnia socjalna nie zwracają środków, o których mowa w ust. 1 pkt 1, jeżeli w terminie 3 miesięcy od dnia rozwiązania stosunku pracy z osobą niepełnosprawną, o której mowa w art. 11 ust. 1, lub od dnia utraty ważności orzeczenia potwierdzającego jej niepełnosprawność zatrudnią inną osobę niepełnosprawną, o której mowa w art. 11 ust. 1, przy czym wynikająca z tego powodu przerwa nie jest wliczana do okresów, o których mowa w ust. 1 pkt 1.
+
+6. Przedsiębiorstwo społeczne lub spółdzielnia socjalna rozliczają otrzymane środki, o których mowa w ust. 1 pkt 1, w terminie określonym w umowie zawartej ze starostą oraz zwracają Funduszowi za pośrednictwem starosty kwotę stanowiącą równowartość kwoty podatku naliczonego z tytułu zakupionych towarów i usług sfinansowanej z przyznanych środków, w przypadku której odpowiednio przedsiębiorstwo społeczne lub spółdzielnia socjalna nabyły, zgodnie z ustawą z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, 974, 1137, 1301, 1488 i 1561), prawo do obniżenia kwoty podatku należnego o kwotę podatku naliczonego:
+
+- **1)** w terminie 90 dni od dnia złożenia deklaracji podatkowej dla podatku od towarów i usług, w której wykazano kwotę podatku naliczonego z tego tytułu, w przypadku gdy z deklaracji podatkowej za ten okres rozliczeniowy wynika kwota podatku podlegającego wpłacie do urzędu skarbowego lub kwota do przeniesienia na następny okres rozliczeniowy;
+- **2)** w terminie 30 dni od dnia dokonania przez urząd skarbowy zwrotu kwoty podatku, w przypadku gdy z deklaracji podatkowej dla podatku od towarów i usług za dany okres rozliczeniowy, w której wykazano kwotę podatku naliczonego z tego tytułu, wynika kwota do zwrotu.
+
+7. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia:
+
+- **1)** szczegółowe zasady i tryb przyznawania, wypłaty, rozliczania i zwrotu przez przedsiębiorstwo społeczne lub spółdzielnię socjalną środków, o których mowa w ust. 1,
+- **2)** wzory wniosków o przyznanie i wypłatę środków, o których mowa w ust. 1, oraz wzór rozliczenia tych środków,
+- **3)** elementy umów dotyczących przyznania środków, o których mowa w ust. 1, oraz dokumentację niezbędną do ich realizacji,
+- **4)** szczegółowe zasady zabezpieczenia zwrotu środków, o których mowa w ust. 1 mając na względzie zwiększenie mobilności oraz poziomu zatrudnienia osób niepełnosprawnych, o których mowa w art. 11 ust. 1, zapewnienie zgodności udzielania pomocy z zasadami przyznawania pomocy de minimis , racjonalne gospodarowanie środkami Funduszu, z uwzględnieniem efektywności przyznawania środków, w tym w zakresie odpowiedniego wykorzystania i utrzymania rzeczy i zwierząt finansowanych z przyznanych środków, a także zapewnienie dostępności postępowania w sprawie przyznawania, wypłaty i rozliczania środków oraz dostępności, kompletności i spójności wzorów wniosków i rozliczenia. ” ;
+- **5)** po art. 26g dodaje się art. 26h w brzmieniu: „ Warunkiem przyznania środków, o których mowa w art. 12a ust. 1, art. 13 ust. 1, art. 26 ust. 1, art. 26e ust. 1, art. 26g ust. 1 i art. 32 ust. 1, jest zabezpieczenie ich zwrotu w formie hipoteki, poręczenia, przelewu wierzytelności na zabezpieczenie, weksla z poręczeniem wekslowym (awal), gwarancji bankowej, zastawu na prawach lub rzeczach, blokady rachunku bankowego, blokady rachunku w spółdzielczej kasie oszczędnościowo-kredytowej lub aktu notarialnego o poddaniu się egzekucji przez dłużnika – adekwatnie do zabezpieczanej kwoty oraz sytuacji wnioskodawcy. ” ;
+- **6)** w art. 32: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Pracodawca prowadzący zakład pracy chronionej lub będący przedsiębiorstwem społecznym może otrzymać, na wniosek, ze środków Funduszu: ” , – pkt 1 otrzymuje brzmienie: „ 1) dofinansowanie w wysokości do 50% oprocentowania zaciągniętych kredytów bankowych i w spółdzielczych kasach oszczędnościowo-kredytowych, pod warunkiem wykorzystania tych kredytów na cele związane z rehabilitacją zawodową i społeczną osób niepełnosprawnych; ” , w ust. 2 pkt 1 i 2 otrzymują brzmienie: „
+    - **a)**
+    - **b)**
+
+- **1)** dotyczy wyłącznie dodatkowych kosztów wnioskodawcy wynikających z zatrudnienia osób niepełnosprawnych;
+- **2)** może być przyznany wnioskodawcy, u którego wskaźnik zatrudnienia osób niepełnosprawnych wynosi co najmniej 50%. ” ;
+- **7)** art. 32a otrzymuje brzmienie: „ Fundusz udziela pomocy, o której mowa w art. 32 ust. 1, na podstawie umowy zawartej z pracodawcą prowadzącym zakład pracy chronionej lub będącym przedsiębiorstwem społecznym. ” ;
+- **8)** w art. 35a w ust. 1 pkt 9a otrzymuje brzmienie: „
+- **9a)** przyznawanie środków, o których mowa w art. 12a ust. 1 i art. 26g ust. 1; ” ;
+- **9)** w art. 46 w pkt 7 wyrazy „art. 26g ust. 2 i 3” zastępuje się wyrazami „art. 26g ust. 3”.
+
+**Art. 69.** W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2022 r. poz. 1327 i 1265) wprowadza się następujące zmiany:
+
+- **1)** w art. 4 w ust. 1 w pkt 33 kropkę zastępuje się średnikiem i dodaje się pkt 34 w brzmieniu: „
+- **34)** działalności na rzecz podmiotów ekonomii społecznej i przedsiębiorstw społecznych, o których mowa w ustawie z dnia 5 sierpnia 2022 r. o ekonomii społecznej (Dz. U. poz. 1812). ” ;
+- **2)** w art. 5 w ust. 6 po wyrazach „pkt 33” dodaje się wyrazy „i 34”.
+
+**Art. 70.** W ustawie z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. z 2020 r. poz. 176 oraz z 2022 r. poz. 218) wprowadza się następujące zmiany:
+
+- **1)** w art. 3 po ust. 1a dodaje się ust. 1b w brzmieniu: „
+
+1b. Usługi, o których mowa w ust. 1, mogą być realizowane na rzecz pracowników zatrudnionych w przedsiębiorstwie społecznym, o którym mowa w ustawie z dnia 5 sierpnia 2022 r. o ekonomii społecznej (Dz. U. poz. 1812). ” ;
+
+- **2)** w art. 18 dodaje się ust. 10 w brzmieniu: „
+
+10. Działania z zakresu reintegracji zawodowej i społecznej mogą być realizowane przez klub integracji społecznej na rzecz pracowników zatrudnionych w przedsiębiorstwie społecznym, o którym mowa w ustawie z dnia 5 sierpnia 2022 r. o ekonomii społecznej. ” .
+
+**Art. 71.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2021 r. poz. 2268, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 16b: w ust. 2 pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** diagnozę sytuacji społecznej, w tym określenie zdolności podmiotów ekonomii społecznej do realizacji usług społecznych w zakresie, o którym mowa w art. 2 ust. 1 pkt 1–14 ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych; ” , dodaje się ust. 3 w brzmieniu: „
+    - **b)**
+
+3. Strategia, o której mowa w ust. 1, opracowana przez gminę i powiat określa usługi społeczne w zakresie, o którym mowa w art. 2 ust. 1 pkt 1–14 ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych, oraz zadania publiczne, o których mowa w art. 4 ust. 1 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2022 r. poz. 1327, 1265 i 1812), zlecane w trybach, o których mowa w tej ustawie. ” ;
+
+- **2)** w art. 23 w ust. 1a skreśla się wyrazy „(Dz. U. z 2020 r. poz. 1057 oraz z 2021 r. poz. 1038, 1243 i 1535)”.
+
+**Art. 72.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2022 r. poz. 690, 830, 1079, 1383 i 1561) wprowadza się następujące zmiany:
+
+- **1)** w art. 46: w ust. 1: – pkt 1d otrzymuje brzmienie: „ 1d) przyznać spółdzielni socjalnej lub przedsiębiorstwu społecznemu, o którym mowa w ustawie z dnia 5 sierpnia 2022 r. o ekonomii społecznej (Dz. U. poz. 1812), zwanemu dalej „przedsiębiorstwem społecznym”, jednorazowo środki na utworzenie stanowiska pracy dla skierowanego bezrobotnego lub skierowanego poszukującego pracy, o którym mowa w art. 49 pkt 7, lub skierowanego poszukującego pracy niepozostającego w zatrudnieniu lub niewykonującego innej pracy zarobkowej, w wysokości określonej w umowie, nie wyższej jednak niż 6-krotna wysokość przeciętnego wynagrodzenia; ” , – pkt 4 otrzymuje brzmienie: „ 4) przyznać spółdzielni socjalnej lub przedsiębiorstwu społecznemu środki na finansowanie kosztów wynagrodzenia, w okresie do 6 miesięcy od dnia zawarcia umowy, wypłacane miesięcznie w wysokości nie wyższej niż kwota minimalnego wynagrodzenia za pracę przez okres nie dłuższy niż 6 miesięcy, dla zatrudnionego skierowanego bezrobotnego lub zatrudnionego skierowanego poszukującego pracy, o którym mowa w art. 49 pkt 7, lub zatrudnionego skierowanego poszukującego pracy niepozostającego w zatrudnieniu lub niewykonującego innej pracy zarobkowej; ” , ust. 2d otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2d. Spółdzielnia socjalna lub przedsiębiorstwo społeczne, które otrzymały z Funduszu Pracy jednorazowo środki, o których mowa w ust. 1 pkt 1d, są obowiązane w terminie 30 dni od dnia doręczenia wezwania starosty dokonać zwrotu otrzymanych środków wraz z odsetkami ustawowymi, jeżeli zatrudniały w pełnym wymiarze czasu pracy łącznie przez okres krótszy niż 24 miesiące na utworzonym stanowisku pracy skierowanego bezrobotnego lub skierowanego poszukującego pracy, o którym mowa w art. 49 pkt 7, lub skierowanego poszukującego pracy niepozostającego w zatrudnieniu lub niewykonującego innej pracy zarobkowej albo naruszyły inne warunki umowy dotyczące przyznania tych środków. ” , ust. 3b otrzymuje brzmienie: „
+
+- **c)**
+
+3b. Spółdzielnia socjalna lub przedsiębiorstwo społeczne, które otrzymały z Funduszu Pracy środki, o których mowa w ust. 1 pkt 4, są obowiązane dokonać ich zwrotu wraz z odsetkami ustawowymi, jeżeli zatrudniały w pełnym wymiarze czasu pracy łącznie przez okres krótszy niż 12 miesięcy od dnia przyznania tych środków skierowanego bezrobotnego lub skierowanego poszukującego pracy, o którym mowa w art. 49 pkt 7, lub skierowanego poszukującego pracy niepozostającego w zatrudnieniu lub niewykonującego innej pracy zarobkowej albo naruszyły inne warunki umowy o finansowanie kosztów wynagrodzenia. ” , w ust. 6a: – pkt 1 otrzymuje brzmienie: „ 1) szczegółowe warunki i tryb przyznawania spółdzielni socjalnej lub przedsiębiorstwu społecznemu jednorazowo środków, o których mowa w ust. 1 pkt 1d, ” , – pkt 3 i 4 otrzymują brzmienie: „ 3) szczegółowe warunki i tryb przyznawania spółdzielni socjalnej lub przedsiębiorstwu społecznemu środków, o których mowa w ust. 1 pkt 4, 4) formy zabezpieczenia zwrotu środków na założenie spółdzielni socjalnej lub przystąpienie do niej po jej założeniu, utworzenie stanowiska pracy lub finansowanie kosztów wynagrodzenia w spółdzielni socjalnej lub przedsiębiorstwie społecznym – w przypadku niedotrzymania warunków umowy dotyczącej ich przyznania ” ;
+
+- **d)**
+- **2)** w art. 108 w ust. 1: pkt 41 otrzymuje brzmienie: „
+    - **a)**
+
+- **41)** zatrudnienia wspieranego, w zakresie i na zasadach określonych w przepisach o zatrudnieniu socjalnym, wsparcia, o którym mowa w art. 12 ust. 3a ustawy z dnia 27 kwietnia 2006 r. o spółdzielniach socjalnych, i instrumentów wsparcia, o których mowa w art. 21 i art. 22 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej; ” , w pkt 64 kropkę zastępuje się średnikiem i dodaje się pkt 65 w brzmieniu: „
+    - **b)**
+
+- **65)** kosztów programów, o których mowa w art. 31 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej. ” ;
+- **3)** po art. 109l dodaje się art. 109m w brzmieniu: „
+
+**Art. 109m.** Minister właściwy do spraw pracy może przekazać na zadania realizowane przez ministra właściwego do spraw zabezpieczenia społecznego środki Funduszu Pracy na realizację programów, o których mowa w art. 31 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej, w wysokości nie większej niż 20 mln zł rocznie. ” .
+
+**Art. 73.** W ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2020 r. poz. 2050, z 2021 r. poz. 2469 oraz z 2022 r. poz. 763, 764 i 1700) w art. 5 ust. 3 otrzymuje brzmienie: „ 3. W realizacji zadań, o których mowa w art. 2 ust. 1, mogą uczestniczyć organizacje pozarządowe oraz podmioty, o których mowa w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2022 r. poz. 1327, 1265 i 1812), których działalność statutowa obejmuje zadania należące do sfery zadań publicznych w zakresie ochrony i promocji zdrowia, pomocy społecznej, działalności charytatywnej, nauki, edukacji, oświaty i wychowania, kultury fizycznej, porządku i bezpieczeństwa publicznego lub przeciwdziałania patologiom społecznym, promocji i organizacji wolontariatu, po przeprowadzeniu konkursu, o którym mowa w art. 11 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, a także samorządy zawodów medycznych, rodziny osób uzależnionych oraz grupy samopomocy osób uzależnionych i ich rodzin. ” .
+
+**Art. 74.** W ustawie z dnia 27 kwietnia 2006 r. o spółdzielniach socjalnych (Dz. U. z 2020 r. poz. 2085) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 w ust. 2: pkt 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+- **1)** społecznej reintegracji jej członków oraz pracowników spółdzielni socjalnej będących osobami, o których mowa w art. 4 ust. 1, przez co należy rozumieć działania służące odbudowaniu lub nabyciu i podtrzymaniu umiejętności uczestniczenia w życiu społeczności lokalnej i pełnienia ról społecznych w miejscu pracy, zamieszkania lub pobytu, w tym rehabilitację społeczną osób niepełnosprawnych,
+- **2)** zawodowej reintegracji jej członków oraz pracowników spółdzielni socjalnej będących osobami, o których mowa w art. 4 ust. 1, przez co należy rozumieć działania służące zdobyciu nowych kwalifikacji, kompetencji, wiedzy i umiejętności w celu odbudowania lub uzyskania i podtrzymania zdolności do samodzielnego świadczenia pracy na rynku pracy i awansu zawodowego, w tym rehabilitację zawodową osób niepełnosprawnych ” , część wspólna otrzymuje brzmienie: „ – a działania te nie są podejmowane w ramach działalności gospodarczej prowadzonej przez tę spółdzielnię. ” ;
+    - **b)**
+
+- **2)** w art. 4 ust. 1 otrzymuje brzmienie: „
+
+1. Spółdzielnię socjalną mogą założyć osoby, o których mowa w art. 2 pkt 6 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej (Dz. U. poz. 1812), posiadające pełną zdolność do czynności prawnych. ” ;
+
+- **3)** w art. 5: w ust. 6 zdanie pierwsze otrzymuje brzmienie: „ Liczba osób, o których mowa w ust. 5, nie może być większa niż 50% ogólnej liczby członków spółdzielni socjalnej, z zastrzeżeniem ust. 6a oraz art. 4 ust. 2 pkt 1 lit. b. ” , po ust. 6 dodaje się ust. 6a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+6a. W przypadku uzyskania przez spółdzielnię socjalną statusu przedsiębiorstwa społecznego, o którym mowa w ustawie z dnia 5 sierpnia 2022 r. o ekonomii społecznej, liczba osób, o których mowa w art. 4 ust. 1, nie może być większa niż 70% ogólnej liczby członków tej spółdzielni. ” ;
+
+- **4)** w art. 6 ust. 1 i 2 otrzymują brzmienie: „
+
+1. Do wniosku o wpis spółdzielni socjalnej do Krajowego Rejestru Sądowego dołącza się:
+
+- **1)** zaświadczenie powiatowego urzędu pracy potwierdzające, że osoba zamierzająca założyć spółdzielnię socjalną posiada status osoby: bezrobotnej, o której mowa w art. 2 ust. 1 pkt 2 lub 5 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, albo poszukującej pracy, o której mowa w art. 2 ust. 1 pkt 22 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, bez zatrudnienia: – w wieku do 30. roku życia oraz po ukończeniu 50. roku życia lub – niewykonującej innej pracy zarobkowej, o której mowa w art. 2 ust. 1 pkt 11 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy;
+    - **a)**
+    - **b)**
+
+- **2)** orzeczenie o stopniu niepełnosprawności osoby zamierzającej założyć spółdzielnię socjalną;
+- **3)** zaświadczenie, o którym mowa w art. 13 ust. 5a albo art. 18 ust. 5a ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym;
+- **4)** oświadczenie potwierdzające, że osoba zamierzająca założyć spółdzielnię socjalną spełnia kryteria, o których mowa w art. 8 ust. 1 pkt 1 i 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2021 r. poz. 2268, z późn. zm.);
+- **5)** oświadczenie potwierdzające, że osoba zamierzająca założyć spółdzielnię socjalną jest uprawniona do specjalnego zasiłku opiekuńczego, o którym mowa w art. 16a ust. 1 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2022 r. poz. 615 i 1265);
+- **6)** oświadczenie potwierdzające, że osoba zamierzająca założyć spółdzielnię socjalną jest osobą usamodzielnianą, o której mowa w art. 140 ust. 1 i 2 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej lub art. 88 ust. 1 ustawy z dnia 12 marca 2004 r. o pomocy społecznej;
+- **7)** zaświadczenie zakładu opieki zdrowotnej potwierdzające, że osoba zamierzająca założyć spółdzielnię socjalną jest osobą z zaburzeniami psychicznymi, o której mowa w art. 3 pkt 1 ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2020 r. poz. 685 oraz z 2022 r. poz. 974 i 1700);
+- **8)** zaświadczenie zakładu karnego lub zakładu poprawczego, że osoba zamierzająca założyć spółdzielnię socjalną jest osobą pozbawioną wolności, osobą opuszczającą zakład karny albo osobą pełnoletnią opuszczającą zakład poprawczy;
+- **9)** oświadczenie potwierdzające, że osoba zamierzająca założyć spółdzielnię socjalną jest osobą starszą, o której mowa w art. 4 pkt 1 ustawy z dnia 11 września 2015 r. o osobach starszych (Dz. U. poz. 1705);
+- **10)** zaświadczenie Urzędu do Spraw Cudzoziemców potwierdzające, że osoba zamierzająca założyć spółdzielnię socjalną uzyskała w Rzeczypospolitej Polskiej status uchodźcy lub ochronę uzupełniającą;
+- **11)** uchwałę organu stanowiącego jednostki samorządu terytorialnego, kościelnej osoby prawnej lub organizacji pozarządowej o powołaniu spółdzielni socjalnej, w przypadku gdy organem założycielskim jest jednostka samorządu terytorialnego, kościelna osoba prawna lub organizacja pozarządowa.
+
+2. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, wzory zaświadczeń i oświadczeń, o których mowa w ust. 1, mając na względzie ich ujednolicenie oraz przydatność dla postępowania przed sądem rejestrowym. ” ;
+
+- **5)** w art. 12 ust. 1a otrzymuje brzmienie: „
+
+1a. Spółdzielnia socjalna może zatrudniać pracowników niebędących członkami spółdzielni, z tym że łączna liczba osób, o których mowa w art. 4 ust. 1, nie może być niższa niż 50% w stosunku do ogółu członków spółdzielni i osób zatrudnionych w spółdzielni socjalnej, z zastrzeżeniem art. 4 ust. 2 pkt 1 lit. b oraz art. 5 ust. 6a. ” ;
+
+- **6)** w art. 15b ust. 4 otrzymuje brzmienie: „
+
+4. Do konsorcjum spółdzielczego może przystąpić podmiot ekonomii społecznej, o którym mowa w art. 2 pkt 5 lit. d-f ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej, oraz jednostka tworząca podmiot ekonomii społecznej w rozumieniu art. 2 pkt 3 tej ustawy. ” ;
+
+- **7)** art. 19a otrzymuje brzmienie: „ Rada Ministrów przedkłada Sejmowi i Senatowi Rzeczypospolitej Polskiej w okresach trzyletnich, w terminie do dnia 30 listopada, informacje o funkcjonowaniu spółdzielni socjalnych na podstawie danych przekazanych ministrowi właściwemu do spraw zabezpieczenia społecznego przez związki rewizyjne właściwe dla spółdzielczości socjalnej do dnia 31 grudnia roku poprzedzającego rok złożenia informacji. ” .
+
+**Art. 75.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2021 r. poz. 1923, z późn. zm.) w załączniku do ustawy w części II w ust. 21 w kolumnie 4 dodaje się pkt 19 w brzmieniu: „
+
+- **19)** zaświadczenie wydawane na podstawie art. 27 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej (Dz. U. poz. 1812) oraz potwierdzenie, o którym mowa w art. 27 ust. 2 tej ustawy ” .
+
+**Art. 76.** W ustawie z dnia 23 października 2018 r. o Funduszu Solidarnościowym (Dz. U. z 2020 r. poz. 1787) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 po ust. 2 dodaje się ust. 2a w brzmieniu: „
+
+2a. Fundusz może wspierać działania na rzecz rozwoju ekonomii społecznej, w szczególności działania w zakresie reintegracji społecznej i zawodowej podejmowane przez przedsiębiorstwo społeczne na rzecz swoich pracowników będących osobami zagrożonymi wykluczeniem społecznym w rozumieniu art. 2 pkt 6 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej (Dz. U. poz. 1812). ” ;
+
+- **2)** po art. 6a dodaje się art. 6aa w brzmieniu: „ Środki Funduszu przeznacza się także na wsparcie udzielane w ramach programów, o których mowa w art. 31 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej, na zasadach określonych w tej ustawie. ” ;
+- **3)** w art. 18 po ust. 2 dodaje się ust. 2a w brzmieniu: „
+
+2a. Środki Funduszu przeznaczone na realizację programów, o których mowa w art. 31 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej, stanowią koszty Funduszu. ” .
+
+**Art. 77.** W ustawie z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2022 r. poz. 1710) w art. 361 dodaje się ust. 3 w brzmieniu: „ 3. Zamawiający może żądać dokumentów lub oświadczeń na potwierdzenie spełniania warunków, o których mowa w ust. 1 pkt 1–3, w szczególności zaświadczenia, o którym mowa w art. 27 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej (Dz. U. poz. 1812). ” .
+
+### Dział VI Przepisy przejściowe i dostosowujące oraz przepis końcowy
+
+**Art. 78.** Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, dotyczących środków określonych w art. 12a ust. 1, art. 13 ust. 1, art. 26 ust. 1, art. 26e ust. 1, art. 26g ust. 1 i art. 32 ust. 1 ustawy zmienianej w art. 68, nie stosuje się przepisu art. 26h ustawy zmienianej w art. 68.
+
+**Art. 79.** Strategie rozwiązywania problemów społecznych oraz strategie w zakresie polityki społecznej opracowane na podstawie przepisów ustawy zmienianej w art. 71, w brzmieniu dotychczasowym, są realizowane przez okres, na który zostały opracowane.
 
 **Art. 80.** Do postępowań o udzielenie zamówienia publicznego wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy przepisu art. 361 ust. 3 ustawy zmienianej w art. 77 nie stosuje się.
 
 **Art. 81.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
+
+- **1)** art. 21 ust. 2f i art. 26g ust. 5 ustawy zmienianej w art. 68 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 21 ust. 2f2 i art. 26g ust. 7 ustawy zmienianej w art. 68, w brzmieniu nadanym niniejszą ustawą,
+- **2)** art. 32 ust. 3 ustawy zmienianej w art. 68 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 32 ust. 3 ustawy zmienianej w art. 68, w brzmieniu nadanym niniejszą ustawą,
+- **3)** art. 46 ust. 6a ustawy zmienianej w art. 72 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 46 ust. 6a ustawy zmienianej w art. 72, w brzmieniu nadanym niniejszą ustawą jednak nie dłużej niż 6 miesięcy od dnia wejścia w życie niniejszej ustawy oraz mogą być zmieniane na podstawie tych przepisów w brzmieniu dotychczasowym.
 
 **Art. 82.** Samorząd województwa opracowuje regionalny program rozwoju ekonomii społecznej, o którym mowa w art. 54 ust. 1 pkt 1, w terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
@@ -708,5 +957,5 @@ Art. 67–77. (pominięte)
 
 4. Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 2, jest minister właściwy do spraw zabezpieczenia społecznego.
 
-**Art. 86.** Ustawa wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia , z wyjątkiem art. 67 oraz art. 72 pkt 2 lit. b i pkt 3, które wchodzą w życie z dniem 1 stycznia 2023 r.
+**Art. 86.** Ustawa wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia, z wyjątkiem art. 67 oraz art. 72 pkt 2 lit. b i pkt 3, które wchodzą w życie z dniem 1 stycznia 2023 r.
 

@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 6 marca 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 marca 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-03-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000299) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/299/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 6 marca 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2024 r. poz. 155), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907) oraz zmian wynikających z przepisów ogłoszonych przed dniem 26 lutego 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 212 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907), który stanowi: „Art. 212. Ustawa wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem:
 1) art. 16, art. 156, art. 198 i art. 199, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
@@ -53,6 +53,23 @@ Wstęp (uchylony)
 2. Wzór godła Rzeczypospolitej Polskiej zawiera załącznik nr 1.
 
 **Art. 2a.** Wizerunku orła ustalonego dla godła używają:
+
+- **1)** organy władzy państwowej;
+- **2)** organy administracji rządowej;
+- **3)** gminy, związki międzygminne oraz ich organy;
+- **4)** powiaty, związki powiatów oraz ich organy;
+- **4a)** związki powiatowo-gminne oraz ich organy;
+- **4b)** związki metropolitalne i ich organy;
+- **5)** samorządy województw oraz ich organy;
+- **6)** sądy, prokuratury i komornicy sądowi;
+- **7)** samorządowe kolegia odwoławcze;
+- **8)** regionalne izby obrachunkowe;
+- **9)** jednostki organizacyjne Sił Zbrojnych Rzeczypospolitej Polskiej;
+- **10)** jednostki organizacyjne Policji, Straży Granicznej, Krajowej Administracji Skarbowej i Państwowej Straży Pożarnej;
+- **10a)** Służba Ochrony Państwa;
+- **11)** jednostki organizacyjne Służby Więziennej;
+- **12)** szkoły publiczne, szkoły niepubliczne i niepubliczne szkoły artystyczne o uprawnieniach publicznej szkoły artystycznej, uczelnie publiczne, uczelnie niepubliczne oraz federacje podmiotów systemu szkolnictwa wyższego i nauki;
+- **13)** inne podmioty, jeżeli przepisy szczególne uprawniają je do używania wizerunku orła.
 
 **Art. 3.**
 

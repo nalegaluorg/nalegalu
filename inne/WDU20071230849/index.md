@@ -8,12 +8,10 @@ pos: 849
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o lekarzu sądowym
-
-*USTAWA z dnia 15 czerwca 2007 r.*
+# Ustawa z dnia 15 czerwca 2007 r. o lekarzu sądowym
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2007-06-15 |
 | Data wydania | 2007-07-09 |
+| Wejście w życie | 2008-02-01 |
 | Ostatnia zmiana | 2025-12-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071230849) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/849/text.pdf) |
 
@@ -37,7 +36,7 @@ source: "isap-pdf"
 - **2)** zasady wykonywania czynności lekarza sądowego;
 - **3)** zasady finansowania czynności lekarza sądowego.
 
-2. Przepisy ustawy stosuje się w przypadkach dotyczących usprawiedliwiania niestawiennictwa z powodu choroby, na wezwanie lub zawiadomienie sądu lub organu prowadzącego postępowanie karne, zwanych dalej „organami uprawnionymi”, w postępowaniu prowadzonym na podstawie ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm. ) oraz ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm. ), stron, ich przedstawicieli ustawowych, pełnomocników, świadków, oskarżonych, obrońców i innych uczestników postępowania, zwanych dalej „uczestnikami postępowania”.
+2. Przepisy ustawy stosuje się w przypadkach dotyczących usprawiedliwiania niestawiennictwa z powodu choroby, na wezwanie lub zawiadomienie sądu lub organu prowadzącego postępowanie karne, zwanych dalej „organami uprawnionymi”, w postępowaniu prowadzonym na podstawie ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.) oraz ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.), stron, ich przedstawicieli ustawowych, pełnomocników, świadków, oskarżonych, obrońców i innych uczestników postępowania, zwanych dalej „uczestnikami postępowania”.
 
 3. Przepisów ustawy nie stosuje się do osób pozbawionych wolności, których usprawiedliwianie niestawiennictwa z powodu choroby regulują odrębne przepisy.
 
@@ -86,9 +85,7 @@ source: "isap-pdf"
 
 - **1)** oświadczenie, że jest świadomy odpowiedzialności karnej za poświadczenie w dokumencie nieprawdy;
 - **2)** oświadczenie, że nie jest prowadzone przeciwko niemu postępowanie o przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe;
-- **3)** (uchylony).
-
-6. Prezes sądu okręgowego zasięga z Krajowego Rejestru Karnego informacji o kandydacie na lekarza sądowego.
+- **3)** zaświadczenie o niekaralności.
 
 **Art. 7.**
 
@@ -114,9 +111,9 @@ source: "isap-pdf"
 
 1. Okręgowa rada lekarska niezwłocznie przekazuje prezesowi sądu okręgowego informacje, które mogą mieć wpływ na wykonywanie czynności lekarza sądowego, w szczególności o podjętych uchwałach w przedmiocie pozbawienia prawa wykonywania zawodu, zawieszenia w prawie wykonywania zawodu albo ograniczenia wykonywania określonych czynności medycznych bądź zakończonych i prowadzonych postępowaniach karnych lub dotyczących odpowiedzialności zawodowej.
 
-2. Lekarz sądowy jest obowiązany niezwłocznie poinformować prezesa sądu okręgowego o niespełnianiu warunków, o których mowa w art. 5 ust. 1 pkt 1-3, oraz o prowadzonych postępowaniach, o których mowa w art. 5 ust. 2.
+2. Lekarz sądowy jest obowiązany niezwłocznie poinformować prezesa sądu okręgowego o niespełnianiu warunków, o których mowa w art. 5 ust. 1 pkt 1–3, oraz o prowadzonych postępowaniach, o których mowa w art. 5 ust. 2.
 
-3. W przypadku uzyskania informacji, o których mowa w ust. 1, świadczących o niespełnianiu warunków, o których mowa w art. 5, lub informacji, o których mowa w ust. 2, prezes sądu okręgowego rozwiązuje umowę o wykonywanie czynności lekarza sądowego ze skutkiem natychmiastowym. Prezes sądu okręgowego informuje właściwą okręgową radę lekarską o rozwiązaniu umowy z lekarzem sądowym.
+3. W przypadku uzyskania informacji, o których mowa w ust. 1, świadczących o niespełnieniu warunków, o których mowa w art. 5, lub informacji, o których mowa w ust. 2, prezes sądu okręgowego rozwiązuje umowę o wykonywanie czynności lekarza sądowego ze skutkiem natychmiastowym. Prezes sądu okręgowego informuje właściwą okręgową radę lekarską o rozwiązaniu umowy z lekarzem sądowym.
 
 **Art. 10.** W razie powzięcia uzasadnionych wątpliwości co do rzetelności zaświadczenia wystawionego przez lekarza sądowego prezes sądu okręgowego może rozwiązać umowę o wykonywanie czynności lekarza sądowego ze skutkiem natychmiastowym. Przepis art. 9 ust. 3 stosuje się odpowiednio.
 
@@ -156,7 +153,7 @@ source: "isap-pdf"
 
 - **1)** kolejny numer wystawionego zaświadczenia;
 - **2)** datę wystawienia zaświadczenia;
-- **3)** nazwisko i imiona uczestnika postępowania oraz numer PESEL lub datę urodzenia - w przypadku braku numeru PESEL;
+- **3)** nazwisko i imiona uczestnika postępowania oraz numer PESEL lub datę urodzenia – w przypadku braku numeru PESEL;
 - **4)** nazwę organu uprawnionego, który wystawił wezwanie lub zawiadomienie, i sygnaturę akt sprawy;
 - **5)** numer statystyczny choroby zgodny z Międzynarodową Statystyczną Klasyfikacją Chorób i Problemów Zdrowotnych;
 - **6)** potwierdzenie zdolności albo niezdolności stawienia się na wezwanie lub zawiadomienie;
@@ -209,17 +206,52 @@ source: "isap-pdf"
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących
 
-**Art. 21.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm. ) po art. 214 dodaje się art. 214 w brzmieniu: „Art. 214 . § 1. Usprawiedliwienie niestawiennictwa z powodu choroby stron, ich przedstawicieli ustawowych, pełnomocników, świadków i innych uczestników postępowania, wymaga przedstawienia zaświadczenia potwierdzającego niemożność stawienia się na wezwanie lub zawiadomienie sądu, wystawionego przez lekarza sądowego.
+**Art. 21.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.) po art. 214 dodaje się art. 2141 w brzmieniu: „
 
-**Art. 22.** W ustawie z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. z 2007 r. Nr 14, poz. 89) w art. 18 w ust. 3 pkt 4 otrzymuje brzmienie: „4) ministrowi właściwemu do spraw zdrowia, sądom, prokuratorom, lekarzom sądowym oraz sądom i rzecznikom odpowiedzialności zawodowej, w związku z prowadzonym postępowaniem;”.
+**Art. 2141.**
+
+§ 1. Usprawiedliwienie niestawiennictwa z powodu choroby stron, ich przedstawicieli ustawowych, pełnomocników, świadków i innych uczestników postępowania, wymaga przedstawienia zaświadczenia potwierdzającego niemożność stawienia się na wezwanie lub zawiadomienie sądu, wystawionego przez lekarza sądowego.
+
+§ 2. Przepisu § 1 nie stosuje się do osób pozbawionych wolności, których usprawiedliwianie niestawiennictwa z powodu choroby regulują odrębne przepisy. ” .
+
+**Art. 22.** W ustawie z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. z 2007 r. Nr 14, poz. 89) w art. 18 w ust. 3 pkt 4 otrzymuje brzmienie: „
+
+- **4)** ministrowi właściwemu do spraw zdrowia, sądom, prokuratorom, lekarzom sądowym oraz sądom i rzecznikom odpowiedzialności zawodowej, w związku z prowadzonym postępowaniem; ” .
 
 **Art. 23.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2005 r. Nr 226, poz. 1943 oraz z 2006 r. Nr 117, poz. 790, Nr 191, poz. 1410 i Nr 220, poz. 1600) wprowadza się następujące zmiany:
 
-**Art. 24.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm. ) wprowadza się następujące zmiany:
+- **1)** w art. 40 w ust. 2 w pkt 7 kropkę na końcu zdania zastępuje się przecinkiem i dodaje się pkt 8 w brzmieniu: „
+- **8)** zachodzi potrzeba przekazania niezbędnych informacji o pacjencie lekarzowi sądowemu. ” ;
+- **2)** w art. 50 dodaje się ust. 18 w brzmieniu: „
 
-**Art. 25.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm. ) po art. 115 dodaje się art. 115a w brzmieniu: „Art. 115a. § 1. Osobie pozbawionej wolności, w razie choroby uniemożliwiającej stawiennictwo w postępowaniu prowadzonym przez sąd lub organ prowadzący postępowanie karne, na podstawie Kodeksu postępowania karnego, w którym obecność osoby pozbawionej wolności była obowiązkowa lub gdy wnosiła ona o dopuszczenie do czynności, będąc uprawnioną do wzięcia w niej udziału lub przez sąd, na podstawie Kodeksu postępowania cywilnego, zaświadczenie usprawiedliwiające niestawiennictwo wystawia lekarz zakładu opieki zdrowotnej dla osób pozbawionych wolności.
+18. Wykonywanie funkcji lekarza sądowego w rozumieniu ustawy z dnia 15 czerwca 2007 r. o lekarzu sądowym (Dz. U. Nr 123, poz. 849) nie jest indywidualną praktyką lekarską lub indywidualną specjalistyczną praktyką lekarską. ” .
 
-**Art. 26.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. Nr 167, poz. 1398, z 2006 r. Nr 126, poz. 876 oraz z 2007 r. Nr 21, poz. 123 i Nr 82, poz. 560) w art. 5 w ust. 1 w pkt 9 kropkę na końcu zdania zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „10) koszty wystawienia zaświadczenia przez lekarza sądowego.”.
+**Art. 24.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 117: § 2a otrzymuje brzmienie: „
+    - **a)**
+
+§ 2a. Usprawiedliwienie niestawiennictwa z powodu choroby oskarżonych, świadków, obrońców, pełnomocników i innych uczestników postępowania, których obecność była obowiązkowa lub którzy wnosili o dopuszczenie do czynności, będąc uprawnionymi do wzięcia w niej udziału, wymaga przedstawienia zaświadczenia potwierdzającego niemożność stawienia się na wezwanie lub zawiadomienie organu prowadzącego postępowanie, wystawionego przez lekarza sądowego. ” , uchyla się § 4, po § 4 dodaje się § 5 w brzmieniu: „
+
+- **b)**
+- **c)**
+
+§ 5. Przepisu § 2a nie stosuje się do osób pozbawionych wolności, których zasady usprawiedliwiania niestawiennictwa regulują odrębne przepisy. ” ;
+
+- **2)** w art. 618 w § 1 pkt 9 otrzymuje brzmienie: „
+- **9)** należności biegłych lub instytucji wyznaczonych do wydania opinii lub wystawienia zaświadczenia, w tym koszty wystawienia zaświadczenia przez lekarza sądowego, ” .
+
+**Art. 25.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm.) po art. 115 dodaje się art. 115a w brzmieniu: „
+
+**Art. 115a.**
+
+§ 1. Osobie pozbawionej wolności, w razie choroby uniemożliwiającej stawiennictwo w postępowaniu prowadzonym przez sąd lub organ prowadzący postępowanie karne, na podstawie Kodeksu postępowania karnego, w którym obecność osoby pozbawionej wolności była obowiązkowa lub gdy wnosiła ona o dopuszczenie do czynności, będąc uprawnioną do wzięcia w niej udziału lub przez sąd, na podstawie Kodeksu postępowania cywilnego, zaświadczenie usprawiedliwiające niestawiennictwo wystawia lekarz zakładu opieki zdrowotnej dla osób pozbawionych wolności.
+
+§ 2. Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw zdrowia, określi, w drodze rozporządzenia, tryb wystawiania zaświadczenia potwierdzającego zdolność albo niezdolność stawiennictwa osoby pozbawionej wolności w przypadku choroby na wezwanie lub zawiadomienie sądu lub organu prowadzącego postępowanie karne oraz sposób doręczania zaświadczenia sądowi lub organowi prowadzącemu postępowanie karne, mając na uwadze konieczność zapewnienia prawidłowego toku postępowania oraz uwzględniając specyfikę opieki zdrowotnej w warunkach izolacji więziennej. ” .
+
+**Art. 26.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. Nr 167, poz. 1398, z 2006 r. Nr 126, poz. 876 oraz z 2007 r. Nr 21, poz. 123 i Nr 82, poz. 560) w art. 5 w ust. 1 w pkt 9 kropkę na końcu zdania zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „
+
+- **10)** koszty wystawienia zaświadczenia przez lekarza sądowego. ” .
 
 #### Rozdział 6 Przepisy przejściowe i końcowe
 
@@ -227,13 +259,5 @@ source: "isap-pdf"
 
 **Art. 28.** Wykaz, o którym mowa w art. 7, prezes sądu okręgowego sporządza po raz pierwszy do dnia 31 grudnia 2007 r.
 
-**Art. 28a.**
-
-1. W okresie do dnia 31 grudnia 2008 r. lekarzem sądowym w rozumieniu ustawy jest również inny lekarz dopuszczony przez prezesa sądu okręgowego do wykonywania czynności lekarza sądowego.
-
-2. Dopuszczenie do wykonywania czynności lekarza sądowego odbywa się na podstawie zarządzenia prezesa sądu okręgowego w przypadku niemożności zawarcia dostatecznej liczby umów o wykonywanie czynności lekarza sądowego.
-
-3. Do lekarza dopuszczonego do wykonywania czynności lekarza sądowego nie stosuje się art. 5 ust. 1 pkt 4-6, art. 6, art. 7 i art. 15.
-
-**Art. 29.** Ustawa wchodzi w życie z dniem 1 lutego 2008 r., z wyjątkiem art. 5-7 i 28, które wchodzą w życie z dniem 1 sierpnia 2007 r.
+**Art. 29.** Ustawa wchodzi w życie z dniem 1 lutego 2008 r., z wyjątkiem art. 5–7 i 28, które wchodzą w życie z dniem 1 sierpnia 2007 r.
 

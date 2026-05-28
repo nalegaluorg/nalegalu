@@ -8,12 +8,10 @@ pos: 1762
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# zmieniająca ustawę o zmianie niektórych ustaw wspierających rozwój mieszkalnictwa
-
-*USTAWA z dnia 8 listopada 2024 r.*
+# Ustawa z dnia 8 listopada 2024 r. zmieniająca ustawę o zmianie niektórych ustaw wspierających rozwój mieszkalnictwa
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,16 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-08 |
 | Data wydania | 2024-12-02 |
+| Wejście w życie | 2024-12-03 |
 | Ostatnia zmiana | 2024-12-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001762) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1762/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 10 grudnia 2020 r. o zmianie niektórych ustaw wspierających rozwój mieszkalnictwa (Dz. U. z 2021 r. poz. 11 oraz z 2022 r. poz. 807 i 2666) w art. 46:
+
+- **1)** w ust. 1 pkt 4 otrzymuje brzmienie: „
+- **4)** w 2024 r. – 20,5 mln zł; ” ;
+- **2)** w ust. 2 pkt 5 otrzymuje brzmienie: „
+- **5)** w 2024 r. – 34,5 mln zł; ” .
 
 **Art. 2.**
 

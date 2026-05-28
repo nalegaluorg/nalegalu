@@ -8,12 +8,10 @@ pos: 1717
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# zmianie ustawy szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw
-
-*USTAWA z dnia 21 listopada 2024 r.*
+# Ustawa z dnia 21 listopada 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,615 +22,1189 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-21 |
 | Data wydania | 2024-11-25 |
+| Wejście w życie | 2024-11-26 |
 | Ostatnia zmiana | 2024-12-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001717) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1717/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 16 września 2011 r. szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2024 r. poz. 654, 1473 i 1635) wprowadza się następujące zmiany:
+4.
+W przypadku złożenia wniosku o zasiłek celowy, o którym mowa w ust. 1, na kwotę niższą niż określona w ust. 3, zasiłek celowy wypłaca się w trybie określonym w ust. 3, w kwocie określonej w tym wniosku.
+5.
+Przy ustaleniu prawa do zasiłku celowego, o którym mowa w ust. 1, uwzględnia się kwotę, o której mowa w ust. 3 albo 4.
+6.
+W przypadku nieustalenia prawa do zasiłku celowego, o którym mowa w ust. 1, albo ustalenia kwoty tego zasiłku w wysokości niższej niż określona w ust. 3 albo 4, wypłacona część zasiłku podlega zwrotowi odpowiednio w kwocie wypłaconej albo w kwocie różnicy między kwotą wypłaconą a kwotą zasiłku ustaloną zgodnie z ust. 4 i 5.
+7.
+8.
+Ustalenia prawa do zasiłku celowego, o którym mowa w ust. 1, oraz jego wypłaty, w tym z uwzględnieniem ust. 3 i 4, może dokonywać także wójt (burmistrz, prezydent miasta) lub upoważniony przez niego, w formie pisemnej, pracownik urzędu gminy. W tym celu ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrum usług społecznych, udostępnia urzędowi gminy dokumentację.
+9.
+W szczególnie uzasadnionych przypadkach wojewoda może przejąć do rozpatrzenia, w tym wydania decyzji, sprawę przyznania zasiłku celowego, o którym mowa w ust. 1.
+10.
+W przypadku, o którym mowa w ust. 9, organ właściwy do wydania decyzji o przyznaniu zasiłku celowego, o którym mowa w ust. 1, niezwłocznie udostępnia wojewodzie dokumentację.
+11.
+Wojewoda po wydaniu decyzji, o której mowa w ust. 9, niezwłocznie wypłaca zasiłek celowy, o którym mowa w ust. 1.
+12.
+Wojewoda niezwłocznie informuje organ właściwy do wydania decyzji o przyznaniu zasiłku celowego, o którym mowa w ust. 1, o wydaniu decyzji i wypłacie tego zasiłku. Przepis art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się odpowiednio.
+1.
+W przypadku gdy zasiłek celowy, o którym mowa w art. 40 ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej na pomoc doraźną, został wypłacony w kwocie niższej niż określona w art. 69a, wypłaca się wyrównanie na podstawie decyzji wydanej z urzędu. Przepisów art. 10 i art. 61 § 4 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
+2.
+Kwotę wyrównania stanowi różnica między wypłaconym zasiłkiem celowym na pomoc doraźną, a kwotą, o której mowa w art. 69a.
+” ;
+20)
+w art. 71:
+a)
+w ust. 1 po wyrazach „na podstawie art. 1 ust. 2” dodaje się wyrazy „ustawy zmienianej w art. 1”,
+b)
+dodaje się ust. 4 w brzmieniu:
+„
+4.
+Do udzielania dotacji przeznaczonej na wypłatę dodatków, o których mowa w ust. 1, nie stosuje się ograniczenia określonego w art. 128 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+” ;
+21)
+po art. 71 dodaje się art. 71a w brzmieniu:
+„
 
-**Art. 8l.**
+**Art. 1.** W ustawie z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2024 r. poz. 654, 1473 i 1635) wprowadza się następujące zmiany:
 
-1. W okresie wskazanym przepisach wydanych na podstawie art. 1 ust. 2 na terenach gmin dotkniętych wystąpieniem powodzi przypadku zawieszenia lub czasowego zamknięcia działalności ośrodków wsparcia dla osób z zaburzeniami psychicznymi, których mowa art. 51a ust. 1 ustawy z dnia 12 marca 2004 r. pomocy społecznej, wojewoda przekazuje miesięczną kwotę dotacji z budżetu państwa na pokrycie bieżących kosztów ich prowadzenia.
+- **1)** w art. 1 po ust. 3a dodaje się ust. 3b w brzmieniu: „
 
-2. Wysokość miesięcznej kwoty dotacji z budżetu państwa na pokrycie bieżących kosztów prowadzenia środowiskowego domu samopomocy sytuacji, której mowa ust. 1, jest obliczana jako iloczyn aktualnej liczby osób posiadających decyzje skierowaniu do środowiskowego domu samopomocy, nie większej niż statutowa liczba miejsc tym domu oraz średniej miesięcznej wojewódzkiej kwoty dotacji na jednego uczestnika, wyliczonej dla województwa zgodnie z art. 51c ust. 3 pkt 1 ustawy z dnia 12 marca 2004 r. pomocy społecznej, z uwzględnieniem zwiększeń, których mowa art. 51c ust. 4 i 5 tej ustawy.
+3b. W przypadku wydania przez Radę Ministrów rozporządzenia, o którym mowa w ust. 2, zaniechanie poboru podatku od dochodów (przychodów) osiąganych w związku z usuwaniem skutków powodzi przez podatników prowadzących działalność gospodarczą, określone w rozporządzeniu wydanym na podstawie art. 22 § 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879 i 1685), stanowi pomoc udzielaną na zasadach określonych w art. 3a i art. 4 ust. 1. Przepisu art. 22 § 1a ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa nie stosuje się. ” ;
 
-3. Wysokość miesięcznej kwoty dotacji z budżetu państwa na pokrycie bieżących kosztów prowadzenia klubu samopomocy dla osób z zaburzeniami psychicznymi sytuacji, której mowa ust. 1, jest obliczana jako iloczyn statutowej liczby miejsc klubie oraz średniej miesięcznej wojewódzkiej kwoty dotacji na jednego uczestnika, wyliczonej dla województwa zgodnie z art. 51c ust. 3 pkt 2 ustawy z dnia 12 marca 2004 r. pomocy społecznej, z uwzględnieniem zwiększenia, którym mowa art. 51c ust. 4 tej ustawy.”;
+- **2)** po art. 3 dodaje się art. 3a w brzmieniu: „
 
-- **8)** po art. 14 dodaje się art. 14a i art. 14b brzmieniu: „Art. 14a. Zawiesza się okresy, których mowa art. 12a ust. 1 i art. 26g ust. 1 pkt 1 ustawy rehabilitacji, stosunku do osób niepełnosprawnych, które otrzymały jednorazowo środki na podjęcie działalności formie spółdzielni socjalnej oraz utraciły zatrudnienie wyniku wystąpienia powodzi, oraz spółdzielni socjalnych i przedsiębiorstw społecznych, poszkodowanych wyniku wystąpienia powodzi, posiadających siedzibę lub prowadzących działalność na terenie gmin wskazanych przepisach wydanych na podstawie art. 1 ust. 2, na okres wskazany tych przepisach. Starosta weryfikuje przesłanki, których mowa umowie, nie biorąc pod uwagę okresu zawieszenia.
+**Art. 3a.** Wsparcie określone w niniejszej ustawie, stanowiące pomoc publiczną, może być udzielane wyłącznie jako pomoc mająca na celu naprawienie szkód spowodowanych niektórymi klęskami żywiołowymi, spełniająca warunki określone w art. 50 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.) albo art. 37 rozporządzenia Komisji (UE) 2022/2472 z dnia 14 grudnia 2022 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 327 z 21.12.2022, str. 1, z późn. zm.). ” ;
 
-**Art. 14b.**
+- **3)** w art. 4: ust. 1 otrzymuje brzmienie: „
+    - **a)**
 
-1. Przyznane jednorazowo środki na podjęcie działalności formie spółdzielni socjalnej, których mowa art. 12a ust. 1 ustawy rehabilitacji, mogą zostać umorzone całości lub części wraz z odsetkami, jeżeli na skutek powodzi członkostwo spółdzielni socjalnej będzie krótsze niż odpowiednio 12 lub 24 miesiące.
+1. Łączna wartość pomocy publicznej udzielonej na podstawie ustawy w celu naprawienia szkód powstałych w wyniku wystąpienia powodzi łącznie z wartością pomocy publicznej otrzymanej na ten cel na podstawie przepisów odrębnych nie może przekroczyć wartości szkody poniesionej przez beneficjenta pomocy bezpośrednio w wyniku powodzi, obejmującej szkody materialne dotyczące aktywów oraz utratę dochodu w wyniku całkowitego lub częściowego zawieszenia działalności przez okres nie dłuższy niż 6 miesięcy od wystąpienia powodzi, w związku z którą zostało wydane rozporządzenie, o którym mowa w art. 1 ust. 2, pomniejszonej o wartość uzyskanego odszkodowania. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
 
-2. Przyznane środki na utworzenie stanowiska pracy lub na finansowanie kosztów płacy, których mowa art. 26g ust. 1 ustawy rehabilitacji, mogą zostać umorzone całości lub części wraz z odsetkami, jeżeli miejsca pracy uległy zniszczeniu na skutek powodzi.
+- **b)**
 
-3. Podmiotom, którym umorzono środki, których mowa ust. 1 i 2, przysługuje prawo ponownego złożenia wniosku przyznanie tych środków.
+5a. Przepisu ust. 5 nie stosuje się do świadczenia interwencyjnego, o którym mowa w art. 22a, ani pożyczki, o której mowa w rozdziale 3. ” ;
 
-4. Umorzeń, których mowa ust. 1 i 2, dokonuje starosta na wniosek poszkodowanego podmiotu złożony terminie określonym przepisach wydanych na podstawie art. 1 ust. 2.”;
+- **4)** w art. 5b w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Na terenach dotkniętych wystąpieniem powodzi, w okresie wskazanym w przepisach wydanych na podstawie art. 1 ust. 2, pracodawca prowadzący placówkę opiekuńczo-wychowawczą, regionalną placówkę opiekuńczo-terapeutyczną lub interwencyjny ośrodek preadopcyjny, o których mowa w art. 2 ust. 3 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2024 r. poz. 177, 742, 743, 858 i 1572), w celu zapewnienia opieki nad dziećmi umieszczonymi w systemie pieczy zastępczej oraz pracodawca prowadzący jednostkę organizacyjną pomocy społecznej, o której mowa w art. 6 pkt 5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, mogą po uzyskaniu uprzedniej zgody pracownika, na czas określony: ” ;
+- **5)** w art. 7a: ust. 6 otrzymuje brzmienie: „
+    - **a)**
 
-- **9)** art. 17 ust. 1 we wprowadzeniu do wyliczenia wyrazy „ustawy z dnia 20 kwietnia 2004 r. promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2024 r. poz. 475), zwanej dalej „ustawą promocji zatrudnienia” ” zastępuje się wyrazami „ustawy promocji zatrudnienia”;
-- **10)** art. 18:
-    - **a)** po ust. 2 dodaje się ust. 2a brzmieniu: „2a. Do wniosku, którym mowa ust. 2, nie stosuje się warunku nieprowadzenia przez bezrobotnego działalności gospodarczej okresie 12 miesięcy bezpośrednio poprzedzających dzień złożenia wniosku oraz nie dołącza się oświadczenia nieposiadaniu wpisu do ewidencji działalności gospodarczej lub oświadczenia zakończeniu działalności gospodarczej dniu przypadającym okresie przed upływem co najmniej 12 miesięcy bezpośrednio poprzedzających dzień złożenia wniosku.”,
-    - **b)** dodaje się ust. 4 brzmieniu: „4. Organem wyższego stopnia sprawach określonych ust. 3 jest wojewoda.”;
+6. Marszałek województwa na wniosek pracodawcy, złożony za pośrednictwem wojewódzkiego urzędu pracy, właściwego ze względu na miejsce prowadzenia działalności, dokonuje ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych zwrotu poniesionych przez pracodawcę kosztów na wynagrodzenia oraz należne od pracodawcy składki na ubezpieczenia społeczne pracowników, za okres zwolnienia, o którym mowa w ust. 1, łącznie na jednego pracownika do wysokości przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej z poprzedniego kwartału ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. ” , w ust. 7 dodaje się zdanie trzecie w brzmieniu: „ Wykaz obejmuje następujące dane pracowników: imię (imiona) i nazwisko, numer PESEL, a w przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego tożsamość, wysokość wynagrodzenia brutto, wymiar czasu pracy, liczbę dni zwolnienia od pracy i termin jego wykorzystania oraz miejsce zamieszkania. ” , ust. 9 otrzymuje brzmienie: „
 
-- **11)** po art. 18 dodaje się art. 18a i art. 18b brzmieniu: „Art. 18a. 1. Pożyczki, których mowa art. 61e pkt 1 i 1a ustawy promocji zatrudnienia, mogą zostać umorzone całości lub części wraz z odsetkami na wniosek pożyczkobiorcy, jeżeli stanowiska pracy utworzone dzięki pożyczce uległy zniszczeniu na skutek powodzi.
+- **b)**
+- **c)**
 
-2. Pożyczki, których mowa art. 61e pkt 2 i art. 61ea pkt 1 ustawy promocji zatrudnienia, mogą zostać umorzone całości lub części wraz z odsetkami na wniosek pożyczkobiorcy, jeżeli działalność gospodarcza prowadzona
+9. Kwotę, o której mowa w ust. 6, pracodawca zwraca w całości, wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych od dnia jej otrzymania, na rachunek bankowy wojewódzkiego urzędu pracy, jeżeli złożył niezgodne ze stanem faktycznym oświadczenie, o którym mowa w ust. 7. ” , po ust. 9 dodaje się ust. 9a-9f w brzmieniu: „
 
-- **1)** lokal, którym prowadzona była działalność gospodarcza, uległ całkowitemu lub częściowemu zniszczeniu lub
-- **2)** towary podlegające sprzedaży ramach prowadzonej działalności uległy całkowitemu lub częściowemu zniszczeniu, lub
+- **d)**
+
+9a. Marszałek województwa może przeprowadzać kontrole pracodawcy, o którym mowa w ust. 6, w zakresie zgodności ze stanem faktycznym złożonego oświadczenia, o którym mowa w ust. 7, w tym w zakresie wydatkowania środków na wypłatę wynagrodzeń i opłacania składek na ubezpieczenia społeczne należnych od pracodawcy, i w tym celu może żądać okazania wszelkiej dokumentacji z tym związanej oraz żądać złożenia stosownych wyjaśnień.
+
+9b. Pracodawca zobowiązuje się do poddania się kontroli marszałka województwa lub upoważnionych pracowników wojewódzkiego urzędu pracy. Pracodawca, który nie poddał się kontroli, jest obowiązany do zwrotu całości otrzymanej pomocy.
+
+9c. Marszałek województwa może pozyskiwać z Zakładu Ubezpieczeń Społecznych, przy wykorzystaniu systemów teleinformatycznych prowadzonych przez ministra właściwego do spraw pracy, w postaci elektronicznej, dane zgromadzone na koncie płatnika składek lub koncie ubezpieczonego, o których mowa w art. 50 ust. 14–16 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w celu ustalenia lub weryfikacji okoliczności, o których mowa w ust. 1 i 7.
+
+9d. Marszałek województwa w celu realizacji zadań przewidzianych w ustawie może pozyskiwać od starostów i powiatowych urzędów pracy informacje mające znaczenie dla oceny spełniania warunków przyznania pomocy i prawidłowości jej wykorzystania w zakresie określonym w niniejszym artykule.
+
+9e. Marszałek województwa może wystąpić do podmiotów, o których mowa w ust. 9c i 9d, o informacje o pracownikach obejmujące:
+
+- **1)** imię i nazwisko;
+- **2)** numer PESEL, a w przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+- **3)** informacje związane z zatrudnieniem pracowników w okresie objętym zwolnieniem, o którym mowa w ust. 1, dotyczące: czasu trwania i rodzaju umowy, wymiaru czasu pracy, wysokości wynagrodzenia, obowiązku odprowadzania składek na ubezpieczenia społeczne od wynagrodzenia, odprowadzania i wysokości odprowadzonych składek na ubezpieczenia społeczne od wynagrodzenia, odprowadzania i wysokości odprowadzonych zaliczek na podatek dochodowy, nieobecności w pracy, okresu i wysokości wsparcia udzielonego na pracownika na podstawie przepisów ustawy, trybu rozwiązania stosunku pracy.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+
+9f. Marszałek województwa w celu realizacji zadań przewidzianych w ustawie może pozyskiwać w postaci elektronicznej, w sposób automatyczny, przy wykorzystaniu systemów teleinformatycznych prowadzonych przez ministra właściwego do spraw pracy, informacje przetwarzane w Krajowym Rejestrze Sądowym, Centralnej Ewidencji i Informacji o Działalności Gospodarczej oraz Powszechnym Elektronicznym Systemie Ewidencji Ludności. ” , ust. 10 otrzymuje brzmienie: „
+
+- **e)**
+
+10. Marszałek województwa dochodzi roszczeń z tytułu niezwróconych i nienależnie udzielonych kwot, o których mowa w ust. 6, w trybie przepisów o postępowaniu egzekucyjnym w administracji. ” , po ust. 10 dodaje się ust. 10a-10d w brzmieniu: „
+
+- **f)**
+
+10a. Marszałek województwa może określić warunki zwrotu należności z tytułu roszczeń określonych w ust. 10, w szczególności rozłożyć płatność należności na raty, odroczyć termin spłaty należności, odstąpić w całości lub w części od dochodzenia zwrotu należności, lub umorzyć w całości lub w części należności.
+
+10b. Do udzielania ulg w spłacie należności, o których mowa w ust. 10a, stosuje się odpowiednio przepisy art. 56, art. 57 i art. 58 ust. 2–4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+
+10c. Dysponent Funduszu Gwarantowanych Świadczeń Pracowniczych może przeprowadzać u marszałka województwa i w podległym mu wojewódzkim urzędzie pracy kontrole w zakresie określonym w art. 39a ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz. U. z 2023 r. poz. 1087 oraz z 2024 r. poz. 1089 i 1635).
+
+10d. Marszałek województwa oraz upoważnione przez niego osoby przetwarzają dane osobowe pracodawców zawarte we wniosku, o którym mowa w ust. 6, i dane osobowe pracowników, o których mowa w ust. 1, w zakresie wynikającym z ust. 7. Przetwarzanie danych osobowych może następować w systemie teleinformatycznym, o którym mowa w art. 4 ust. 1 pkt 8, ust. 4a lub 9 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2024 r. poz. 475, 742, 858, 863, 1089 i 1572), zwanej dalej „ustawą o promocji zatrudnienia”. ” ;
+
+- **6)** po art. 7a dodaje się art. 7b w brzmieniu: „
+
+**Art. 7b.**
+
+1. Rozstrzygnięcie o przyznaniu zwrotu kosztów, o których mowa w art. 7a ust. 6, przez marszałka województwa, w całości uwzględniające wniosek pracodawcy nie wymaga wydania decyzji.
+
+2. W przypadku rozstrzygnięcia:
+
+- **1)** które nie uwzględnia w całości wniosku pracodawcy, o którym mowa w art. 7a ust. 6,
+- **2)** o odmowie przyznania zwrotu kosztów, o których mowa w art. 7a ust. 6,
+- **3)** o zwrocie wypłaconego zwrotu kosztów, o których mowa w art. 7a ust. 6, w całości lub w części marszałek województwa wydaje decyzję.
+
+3. Marszałek województwa nie dochodzi zwrotu kosztów, o których mowa w art. 7a ust. 6, jeżeli kwota podlegająca zwrotowi nie przekracza najniższych kosztów doręczenia w obrocie krajowym przesyłki poleconej za potwierdzeniem odbioru przez operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467, 1222 i 1717), zwanego dalej „operatorem wyznaczonym”. Kwota ta jest zaliczana w koszty Funduszu Gwarantowanych Świadczeń Pracowniczych.
+
+4. Od decyzji, o których mowa w ust. 2, przysługuje odwołanie do samorządowego kolegium odwoławczego. ” ;
+
+- **7)** po art. 8j dodaje się art. 8k i art. 8l w brzmieniu: „
+
+**Art. 8k.** W okresie wskazanym w przepisach wydanych na podstawie art. 1 ust. 2 na terenach gmin dotkniętych wystąpieniem powodzi w przypadku osób korzystających ze stałych form pomocy społecznej, u których nie nastąpiła zmiana danych, aktualizacji rodzinnego wywiadu środowiskowego nie sporządza się, pomimo upływu ustawowego terminu. W takim przypadku aktualizację rodzinnego wywiadu środowiskowego sporządza się niezwłocznie po zakończeniu okresu wskazanego w przepisach wydanych na podstawie art. 1 ust. 2. 1. W okresie wskazanym w przepisach wydanych na podstawie art. 1 ust. 2 na terenach gmin dotkniętych wystąpieniem powodzi w przypadku zawieszenia lub czasowego zamknięcia działalności ośrodków wsparcia dla osób z zaburzeniami psychicznymi, o których mowa w art. 51a ust. 1 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, wojewoda przekazuje miesięczną kwotę dotacji z budżetu państwa na pokrycie bieżących kosztów ich prowadzenia. 2. Wysokość miesięcznej kwoty dotacji z budżetu państwa na pokrycie bieżących kosztów prowadzenia środowiskowego domu samopomocy w sytuacji, o której mowa w ust. 1, jest obliczana jako iloczyn aktualnej liczby osób posiadających decyzje o skierowaniu do środowiskowego domu samopomocy, nie większej niż statutowa liczba miejsc w tym domu oraz średniej miesięcznej wojewódzkiej kwoty dotacji na jednego uczestnika, wyliczonej dla województwa zgodnie z art. 51c ust. 3 pkt 1 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, z uwzględnieniem zwiększeń, o których mowa w art. 51c ust. 4 i 5 tej ustawy. 3. Wysokość miesięcznej kwoty dotacji z budżetu państwa na pokrycie bieżących kosztów prowadzenia klubu samopomocy dla osób z zaburzeniami psychicznymi w sytuacji, o której mowa w ust. 1, jest obliczana jako iloczyn statutowej liczby miejsc w klubie oraz średniej miesięcznej wojewódzkiej kwoty dotacji na jednego uczestnika, wyliczonej dla województwa zgodnie z art. 51c ust. 3 pkt 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, z uwzględnieniem zwiększenia, o którym mowa w art. 51c ust. 4 tej ustawy. ” ;
+
+- **8)** po art. 14 dodaje się art. 14a i art. 14b w brzmieniu: „
+
+**Art. 14a.** Zawiesza się okresy, o których mowa w art. 12a ust. 1 i art. 26g ust. 1 pkt 1 ustawy o rehabilitacji, w stosunku do osób niepełnosprawnych, które otrzymały jednorazowo środki na podjęcie działalności w formie spółdzielni socjalnej oraz utraciły zatrudnienie w wyniku wystąpienia powodzi, oraz spółdzielni socjalnych i przedsiębiorstw społecznych, poszkodowanych w wyniku wystąpienia powodzi, posiadających siedzibę lub prowadzących działalność na terenie gmin wskazanych w przepisach wydanych na podstawie art. 1 ust. 2, na okres wskazany w tych przepisach. Starosta weryfikuje przesłanki, o których mowa w umowie, nie biorąc pod uwagę okresu zawieszenia. 1. Przyznane jednorazowo środki na podjęcie działalności w formie spółdzielni socjalnej, o których mowa w art. 12a ust. 1 ustawy o rehabilitacji, mogą zostać umorzone w całości lub w części wraz z odsetkami, jeżeli na skutek powodzi członkostwo w spółdzielni socjalnej będzie krótsze niż odpowiednio 12 lub 24 miesiące. 2. Przyznane środki na utworzenie stanowiska pracy lub na finansowanie kosztów płacy, o których mowa w art. 26g ust. 1 ustawy o rehabilitacji, mogą zostać umorzone w całości lub w części wraz z odsetkami, jeżeli miejsca pracy uległy zniszczeniu na skutek powodzi. 3. Podmiotom, którym umorzono środki, o których mowa w ust. 1 i 2, przysługuje prawo ponownego złożenia wniosku o przyznanie tych środków. 4. Umorzeń, o których mowa w ust. 1 i 2, dokonuje starosta na wniosek poszkodowanego podmiotu złożony w terminie określonym w przepisach wydanych na podstawie art. 1 ust. 2. ” ;
+
+- **9)** w art. 17 w ust. 1 we wprowadzeniu do wyliczenia wyrazy „ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2024 r. poz. 475), zwanej dalej „ustawą o promocji zatrudnienia” „ zastępuje się wyrazami „ustawy o promocji zatrudnienia”;
+- **10)** w art. 18: po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **a)**
+
+2a. Do wniosku, o którym mowa w ust. 2, nie stosuje się warunku nieprowadzenia przez bezrobotnego działalności gospodarczej w okresie 12 miesięcy bezpośrednio poprzedzających dzień złożenia wniosku oraz nie dołącza się oświadczenia o nieposiadaniu wpisu do ewidencji działalności gospodarczej lub oświadczenia o zakończeniu działalności gospodarczej w dniu przypadającym w okresie przed upływem co najmniej 12 miesięcy bezpośrednio poprzedzających dzień złożenia wniosku. ” , dodaje się ust. 4 w brzmieniu: „
+
+- **b)**
+
+4. Organem wyższego stopnia w sprawach określonych w ust. 3 jest wojewoda. ” ;
+
+- **11)** po art. 18 dodaje się art. 18a i art. 18b w brzmieniu: „
+
+**Art. 18a.**
+
+1. Pożyczki, o których mowa w art. 61e pkt 1 i 1a ustawy o promocji zatrudnienia, mogą zostać umorzone w całości lub w części wraz z odsetkami na wniosek pożyczkobiorcy, jeżeli stanowiska pracy utworzone dzięki pożyczce uległy zniszczeniu na skutek powodzi.
+
+2. Pożyczki, o których mowa w art. 61e pkt 2 i art. 61ea pkt 1 ustawy o promocji zatrudnienia, mogą zostać umorzone w całości lub w części wraz z odsetkami na wniosek pożyczkobiorcy, jeżeli działalność gospodarcza prowadzona na terenie obszaru wskazanego w przepisach wydanych na podstawie art. 1 ust. 2 na skutek powodzi nie może być kontynuowana lub jeżeli możliwość jej prowadzenia uległa istotnemu ograniczeniu, w szczególności gdy:
+
+- **1)** lokal, w którym prowadzona była działalność gospodarcza, uległ całkowitemu lub częściowemu zniszczeniu lub
+- **2)** towary podlegające sprzedaży w ramach prowadzonej działalności uległy całkowitemu lub częściowemu zniszczeniu, lub
 - **3)** środki trwałe zakupione ze środków pochodzących z pożyczki uległy całkowitemu lub częściowemu zniszczeniu.
 
-3. Wniosek umorzenie pożyczki, którym mowa ust. 1 lub 2, pożyczkobiorca składa do pośrednika finansowego, którym mowa art. 61g ustawy promocji zatrudnienia, terminie określonym przepisach wydanych na podstawie art. 1 ust. 2.
+3. Wniosek o umorzenie pożyczki, o którym mowa w ust. 1 lub 2, pożyczkobiorca składa do pośrednika finansowego, o którym mowa w art. 61g ustawy o promocji zatrudnienia, w terminie określonym w przepisach wydanych na podstawie art. 1 ust. 2.
 
-4. Minister właściwy do spraw pracy dokonuje umorzenia, którym mowa ust. 1 i 2, zakresie pożyczek, których mowa art. 61e pkt 1 i 1a ustawy promocji zatrudnienia, oraz pożyczek, których mowa art. 61e pkt 2 tej ustawy, udzielonych ze środków Funduszu Pracy, na podstawie wniosków umorzenie pożyczki. Wnioski umorzenie pożyczek podlegają zaopiniowaniu przez pośredników finansowych i Bank Gospodarstwa Krajowego.
+4. Minister właściwy do spraw pracy dokonuje umorzenia, o którym mowa w ust. 1 i 2, w zakresie pożyczek, o których mowa w art. 61e pkt 1 i 1a ustawy o promocji zatrudnienia, oraz pożyczek, o których mowa w art. 61e pkt 2 tej ustawy, udzielonych ze środków Funduszu Pracy, na podstawie wniosków o umorzenie pożyczki. Wnioski o umorzenie pożyczek podlegają zaopiniowaniu przez pośredników finansowych i Bank Gospodarstwa Krajowego.
 
-5. Pośrednik finansowy dokonuje umorzenia, którym mowa ust. 2, zakresie pożyczek, udzielonych przez niego ze środków Funduszu Pracy i środków Unii Europejskiej, na podstawie wniosków umorzenie pożyczki, pozytywnie zaopiniowanych przez Bank Gospodarstwa Krajowego.
+5. Pośrednik finansowy dokonuje umorzenia, o którym mowa w ust. 2, w zakresie pożyczek, udzielonych przez niego ze środków Funduszu Pracy i środków Unii Europejskiej, na podstawie wniosków o umorzenie pożyczki, pozytywnie zaopiniowanych przez Bank Gospodarstwa Krajowego.
 
-6. Z dniem wpływu wniosku umorzenie pożyczki do pośrednika finansowego spłata pożyczki ulega zawieszeniu.
+6. Z dniem wpływu wniosku o umorzenie pożyczki do pośrednika finansowego spłata pożyczki ulega zawieszeniu.
 
-7. W przypadku stwierdzenia braku przesłanek do umorzenia pożyczki całości lub części albo przypadku częściowego umorzenia pożyczki pożyczkobiorca jest obowiązany do spłaty rat pożyczki wraz z odsetkami zgodnie z nowym harmonogramem ustalonym przez pośrednika finansowego.
+7. W przypadku stwierdzenia braku przesłanek do umorzenia pożyczki w całości lub w części albo w przypadku częściowego umorzenia pożyczki pożyczkobiorca jest obowiązany do spłaty rat pożyczki wraz z odsetkami zgodnie z nowym harmonogramem ustalonym przez pośrednika finansowego.
 
-8. W przypadku stwierdzenia braku przesłanek do umorzenia pożyczki całości lub części albo przypadku częściowego umorzenia pożyczki, odsetki od pożyczki są naliczane z wyłączeniem okresu od dnia wpływu wniosku umorzenie pożyczki do pośrednika finansowego do dnia doręczenia pożyczkobiorcy nowego harmonogramu spłaty rat pożyczki wraz z odsetkami, którym mowa ust. 7, włącznie z tym dniem.
+8. W przypadku stwierdzenia braku przesłanek do umorzenia pożyczki w całości lub w części albo w przypadku częściowego umorzenia pożyczki, odsetki od pożyczki są naliczane z wyłączeniem okresu od dnia wpływu wniosku o umorzenie pożyczki do pośrednika finansowego do dnia doręczenia pożyczkobiorcy nowego harmonogramu spłaty rat pożyczki wraz z odsetkami, o którym mowa w ust. 7, włącznie z tym dniem. Zawiesza się terminy i okresy, o których mowa w art. 46 ust. 2d, 3 i 3b ustawy o promocji zatrudnienia, w stosunku do osób, które otrzymały z Funduszu Pracy środki na założenie lub przystąpienie do spółdzielni socjalnej oraz utraciły zatrudnienie w wyniku wystąpienia powodzi, oraz do spółdzielni socjalnych i przedsiębiorstw społecznych, poszkodowanych w wyniku wystąpienia powodzi, posiadających siedzibę lub prowadzących działalność na terenie gmin wskazanych w przepisach wydanych na podstawie art. 1 ust. 2, na okres wskazany w tych przepisach. Starosta weryfikuje przesłanki, o których mowa w umowie, nie biorąc pod uwagę okresu zawieszenia. ” ;
 
-**Art. 18b.** Zawiesza się terminy i okresy, których mowa art. 46 ust. 2d, 3 i 3b ustawy promocji zatrudnienia, stosunku do osób, które otrzymały z Funduszu Pracy środki na założenie lub przystąpienie do spółdzielni socjalnej oraz utraciły zatrudnienie wyniku wystąpienia powodzi, oraz do spółdzielni socjalnych i przedsiębiorstw społecznych, poszkodowanych wyniku wystąpienia powodzi, posiadających siedzibę lub prowadzących działalność na terenie gmin wskazanych przepisach wydanych na podstawie art. 1 ust. 2, na okres wskazany tych przepisach. Starosta weryfikuje przesłanki, których mowa umowie, nie biorąc pod uwagę okresu zawieszenia.”;
+- **12)** w art. 22 po ust. 1 dodaje się ust. 1a-1c w brzmieniu: „
 
-**Art. 22c.**
+1a. Środki Funduszu Pracy na finansowanie świadczeń, o których mowa w art. 19–21, są przyznawane samorządom powiatów przez ministra właściwego do spraw pracy na wniosek właściwego miejscowo starosty.
 
-1. Świadczenie interwencyjne jest przyznawane wysokości wskazanej przez przedsiębiorcę lub organizację albo podmiot, albo rolnika, których mowa art. 22a ust. 1a, we wniosku, którym mowa art. 22b ust. 1 – nie wyższej jednak niż wysokość szkody określonej art. 22a ust. 2 pkt 1. Wysokość przyznanego świadczenia nie może także przekraczać wysokości ustalonej zgodnie ze sposobem wskazanym przez:
+1b. Środki Funduszu Pracy przyznane na finansowanie świadczeń, o których mowa w art. 19–21, w części niewykorzystanej do końca roku budżetowego, podlegają rozliczeniu i zwrotowi na rachunek bankowy dysponenta Funduszu Pracy w terminie miesiąca od dnia zakończenia okresu finansowania tych świadczeń, nie później niż do dnia 31 stycznia następnego roku.
 
-- **1)** przedsiębiorcę lub organizację albo podmiot, albo rolnika, których mowa art. 22a ust. 1a, tym wniosku, jako kwota stanowiąca iloczyn liczby ubezpieczonych zgłoszonych do dobrowolnych ubezpieczeń społecznych, obowiązkowych ubezpieczeń społecznych, wyłącznie ubezpieczenia zdrowotnego, na dzień złożenia wniosku, którym mowa art. 22b ust. 1, albo na dzień wydania rozporządzenia, którym mowa art. 1 ust. 2, zależności od tego, która liczba jest mniejsza, oraz kwoty określonej tym rozporządzeniu albo
-- **2)** przedsiębiorcę lub organizację albo podmiot, których mowa art. 22a ust. 1a pkt 1 i 2, tym wniosku, jako kwota stanowiąca iloczyn wysokości średniomiesięcznego przychodu uzyskanego z prowadzenia działalności gospodarczej lub działalności, której mowa art. 22a ust. 1a pkt 1 i 2, roku kalendarzowym poprzedzającym rok wydania rozporządzenia, którym mowa art. 1 ust. 2, oraz współczynnika określonego tym rozporządzeniu przy uwzględnieniu rozmiarów skutków powodzi oraz sytuacji budżetu państwa.
+1c. Środki zwrócone przez podmioty korzystające ze świadczeń, o których mowa w art. 19–21, na rachunek bankowy samorządu powiatu, rozliczone przez powiatowy urząd pracy w danym miesiącu, podlegają zwrotowi na rachunek bankowy dysponenta Funduszu Pracy w terminie do 10. dnia następnego miesiąca. ” ;
 
-2. Określona rozporządzeniu, którym mowa art. 1 ust. 2, kwota, której mowa ust. 1 pkt 1, nie może być niższa niż połowa przeciętnego miesięcznego wynagrodzenia gospodarce narodowej z kwartału poprzedzającego wydanie tego rozporządzenia, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
+- **13)** w art. 22a: po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
 
-3. Wysokość średniomiesięcznego przychodu, którym mowa ust. 1 pkt 2, ustala się przez podzielenie przychodu uzyskanego z prowadzenia działalności gospodarczej przez przedsiębiorcę lub prowadzenia działalności, której mowa art. 22a ust. 1a pkt 1 i 2, przez organizację albo podmiot wymienione tych przepisach roku kalendarzowym poprzedzającym rok wydania rozporządzenia, którym mowa art. 1 ust. 2, przez liczbę miesięcy kalendarzowych tym roku kalendarzowym, trakcie których działalność ta była prowadzona przynajmniej przez jeden dzień, którym nie była zawieszona.
+1a. Świadczenie interwencyjne może być przyznane również na wsparcie dalszego prowadzenia:
 
-4. Maksymalną wysokość przyznawanego świadczenia interwencyjnego określa rozporządzenie, którym mowa art. 1 ust. 2, przy uwzględnieniu rozmiarów skutków powodzi.
+- **1)** działalności pożytku publicznego w rozumieniu ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491) przez organizacje pozarządowe w rozumieniu art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie lub podmioty, o których mowa w art. 3 ust. 3 tej ustawy,
+- **2)** działalności pożytku publicznego w rozumieniu ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie i innej działalności o charakterze odpłatnym w rozumieniu art. 2 pkt 2 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej (Dz. U. z 2024 r. poz. 113 i 1635) przez podmioty ekonomii społecznej, o których mowa w art. 2 pkt 5 tej ustawy,
+- **3)** działalności rolniczej w rozumieniu art. 2 ust. 2 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2024 r. poz. 226, z późn. zm.) przez rolników w rozumieniu art. 6 pkt 1 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników podlegających na podstawie tej ustawy ubezpieczeniu społecznemu rolników poszkodowanych w wyniku wystąpienia powodzi, którzy prowadzili tę działalność i posiadali status płatnika składek w rozumieniu art. 4 pkt 2 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych na dzień wydania rozporządzenia, o którym mowa w art. 1 ust. 2. ” , ust. 2 otrzymuje brzmienie: „
+    - **b)**
 
-5. W przypadku gdy przedsiębiorca lub organizacja albo podmiot, albo rolnik, których mowa art. 22a ust. 1a, przed wystąpieniem powodzi nie zawarli umowy ubezpieczenia przedsiębiorstwa lub składników majątkowych organizacji albo podmiotu, których mowa art. 22a ust. 1a pkt 1 i 2, albo gospodarstwa rolnego prowadzonego przez rolnika, którym mowa art. 22a ust. 1a pkt 3, służących do prowadzenia działalności, której mowa art. 22a ust. 1a, od następstw klęsk żywiołowych, wysokość przyznanego świadczenia interwencyjnego nie może przekroczyć 75 % wysokości szkody określonej art. 22a ust. 2 pkt 1 oraz 75 % maksymalnej wysokości świadczenia interwencyjnego określonej rozporządzeniu, którym mowa art. 1 ust. 2.
+2. Świadczenie interwencyjne może być przyznane wyłącznie przedsiębiorcy, o którym mowa w ust. 1, lub organizacji albo podmiotowi, albo rolnikowi, o których mowa w ust. 1a, którzy:
 
-**Art. 22d.**
+- **1)** ponieśli szkodę polegającą na utracie, uszkodzeniu lub zniszczeniu, bezpośrednio w wyniku wystąpienia powodzi, składników materialnych przedsiębiorstwa lub organizacji albo podmiotu, o których mowa w ust. 1a pkt 1 i 2, albo gospodarstwa rolnego prowadzonego przez rolnika, o którym mowa w ust. 1a pkt 3, niezbędnych do dalszego prowadzenia działalności gospodarczej lub działalności, o której mowa w ust. 1a, oraz
+- **2)** zobowiążą się do prowadzenia działalności gospodarczej lub działalności, o której mowa w ust. 1a, przez okres co najmniej 6 miesięcy od dnia otrzymania świadczenia interwencyjnego, oraz
+- **3)** zobowiążą się do utrzymania poziomu zatrudnienia przez okres 6 miesięcy od dnia wydania rozporządzenia, o którym mowa w art. 1 ust. 2. ” ;
+- **14)** art. 22b-22f otrzymują brzmienie: „
 
-1. Zakład Ubezpieczeń Społecznych informuje Szefa Krajowej Administracji Skarbowej średniomiesięcznym przychodzie stanowiącym podstawę do ustalenia wysokości świadczenia interwencyjnego, wskazanym we wniosku, którym mowa art. 22b ust. 1.
+**Art. 22b.**
 
-2. Szef Krajowej Administracji Skarbowej informuje Zakład Ubezpieczeń Społecznych rozbieżnościach między średniomiesięcznym przychodem wykazanym we wniosku, którym mowa art. 22b ust. 1 pkt 3, mowa art. 1 ust. 2, wykazanym dla celów podatkowych wyliczonym trybie wskazanym art. 22c ust. 3.
+1. W celu uzyskania świadczenia interwencyjnego przedsiębiorca lub organizacja albo podmiot, albo rolnik, o których mowa w art. 22a ust. 1a, składa do Zakładu Ubezpieczeń Społecznych wniosek zawierający:
 
-3. Prezes Kasy Rolniczego Ubezpieczenia Społecznego na wniosek Zakładu Ubezpieczeń Społecznych przekazuje informacje niezbędne do realizacji zadań zakresie świadczenia interwencyjnego.
+- **1)** oznaczenie wnioskodawcy: imię i nazwisko lub nazwę skróconą, adres do korespondencji, numer identyfikacji podatkowej (NIP) oraz numer identyfikacyjny REGON, a jeżeli ich nie nadano – numer PESEL lub serię i numer dowodu osobistego albo paszportu;
+- **2)** wskazanie sposobu ustalenia wysokości świadczenia interwencyjnego, o którym mowa w art. 22c ust. 1;
+- **3)** wysokość średniomiesięcznego przychodu uzyskanego z prowadzenia działalności gospodarczej lub działalności, o której mowa w art. 22a ust. 1a pkt 1 i 2, w roku kalendarzowym poprzedzającym rok wydania rozporządzenia, o którym mowa w art. 1 ust. 2, w przypadku wyboru sposobu ustalania wysokości świadczenia interwencyjnego, o którym mowa w art. 22c ust. 1 pkt 2;
+- **4)** numer rachunku płatniczego przedsiębiorcy lub organizacji albo podmiotu, albo rolnika, o których mowa w art. 22a ust. 1a, prowadzonego w kraju lub wydanego w kraju instrumentu płatniczego w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2024 r. poz. 30, 731 i 1222), na który ma być przekazane świadczenie interwencyjne;
+- **5)** wysokość wnioskowanego świadczenia interwencyjnego.
 
-4. Wymiana informacji, których mowa ust. 1–3, następuje formie elektronicznej.
+2. Do wniosku, o którym mowa w ust. 1, przedsiębiorca lub organizacja albo podmiot, albo rolnik, o których mowa w art. 22a ust. 1a, dołącza:
 
-**Art. 22e.**
+- **1)** oszacowanie, o którym mowa w art. 43 ust. 4 pkt 2, 3 lub ust. 6 zdanie drugie, wraz z dokumentacją, na podstawie której zostało ono dokonane, albo zobowiązanie do przesłania tego oszacowania wraz z tą dokumentacją w terminie 5 miesięcy od dnia otrzymania świadczenia interwencyjnego, a w przypadku rolnika – protokół oszacowania szkód sporządzony przez komisję, o której mowa w art. 4 ust. 7 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2023 r. poz. 1199), na którym wojewoda potwierdził wystąpienie szkód, sporządzając adnotację na tym protokole, albo zobowiązanie do przesłania tego protokołu w terminie 5 miesięcy od dnia otrzymania świadczenia interwencyjnego;
+- **2)** dokument potwierdzający zawarcie umowy ubezpieczenia przedsiębiorstwa lub składników majątkowych organizacji albo podmiotu, o których mowa w art. 22a ust. 1a pkt 1 i 2, albo gospodarstwa rolnego prowadzonego przez rolnika, o którym mowa w art. 22a ust. 1a pkt 3, służących do prowadzenia działalności, o której mowa w art. 22a ust. 1a, od następstw klęsk żywiołowych – jeżeli zawarł taką umowę, albo oświadczenie o niezawarciu takiej umowy;
+- **3)** oświadczenie o faktycznym miejscu prowadzenia działalności gospodarczej lub działalności, o której mowa w art. 22a ust. 1a;
+- **4)** oświadczenie o prowadzeniu działalności gospodarczej lub działalności, o której mowa w art. 22a ust. 1a, na dzień wydania rozporządzenia, o którym mowa w art. 1 ust. 2;
+- **5)** zobowiązanie do prowadzenia działalności gospodarczej lub działalności, o której mowa w art. 22a ust. 1a, oraz zobowiązanie do utrzymania poziomu zatrudnienia, o których mowa w art. 22a ust. 2 pkt 2 i 3.
 
-1. Świadczenie interwencyjne podlega, z zastrzeżeniem art. 4, zwrotowi przez przedsiębiorcę lub organizację albo podmiot, albo rolnika, których mowa art. 22a ust. 1a, całości, wraz z odsetkami za zwłokę, liczonymi od dnia jego wypłacenia, na rachunek bankowy wskazany przez Zakład Ubezpieczeń Społecznych, jeżeli przedsiębiorca lub organizacja albo podmiot, albo rolnik, których mowa art. 22a ust. 1a:
+3. Oświadczenia, o których mowa w ust. 2 pkt 2–4, przedsiębiorca lub organizacja albo podmiot, albo rolnik, o których mowa w art. 22a ust. 1a, składa pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-- **1)** okresie 6 miesięcy od dnia otrzymania świadczenia interwencyjnego zaprzestali prowadzenia działalności gospodarczej lub działalności, której mowa art. 22a ust. 1a, lub zawiesili ich prowadzenie;
-- **2)** złożyli niezgodne ze stanem faktycznym przynajmniej jedno z oświadczeń, których mowa art. 22b ust. 2 pkt 2–4;
-- **3)** wbrew zobowiązaniu nie przesłali terminie oszacowania wraz z dokumentacją, których mowa art. 22b ust. 2 pkt 1, a przypadku rolnika – protokołu, którym mowa art. 22b ust. 2 pkt 1;
-- **4)** nie poddali się kontroli lub utrudniali kontrolę, której mowa art. 22f ust. 1.
+4. Wniosek, o którym mowa w ust. 1, wraz z załącznikami, o których mowa w ust. 2, może być złożony za pomocą profilu informacyjnego utworzonego w systemie teleinformatycznym udostępnionym przez Zakład Ubezpieczeń Społecznych, w formie dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym albo wykorzystującego sposób potwierdzania pochodzenia oraz integralności danych udostępniony bezpłatnie przez Zakład Ubezpieczeń Społecznych w systemie teleinformatycznym.
 
-2. Świadczenie interwencyjne podlega zwrotowi przez przedsiębiorcę lub organizację albo podmiot, albo rolnika, których mowa art. 22a ust. 1a, części, wraz z odsetkami za zwłokę, liczonymi od dnia jego wypłacenia, na rachunek bankowy wskazany przez Zakład Ubezpieczeń Społecznych, jeżeli:
+5. Wniosek o przyznanie świadczenia interwencyjnego przedsiębiorca lub organizacja albo podmiot, albo rolnik, o których mowa w art. 22a ust. 1a, składa w terminie 6 miesięcy od dnia wydania rozporządzenia, o którym mowa w art. 1 ust. 2.
 
-- **1)** Szef Krajowej Administracji Skarbowej poinformuje Zakład Ubezpieczeń Społecznych wystąpieniu rozbieżności między średniomiesięcznym przychodem wykazanym we wniosku, którym mowa art. 22b ust. 1 pkt 3, a średniomiesięcznym przychodem uzyskanym z prowadzenia działalności gospodarczej lub działalności, której mowa art. 22a ust. 1a pkt 1 i 2, roku kalendarzowym poprzedzającym rok wydania rozporządzenia, którym mowa art. 1 ust. 2, wykazanym dla celów podatkowych wyliczonym trybie wskazanym art. 22c ust. 3 – proporcjonalnie do wysokości zawyżenia;
-- **2)** przedsiębiorca lub organizacja albo podmiot, albo rolnik, których mowa art. 22a ust. 1a, nie wykonali zobowiązania, którym mowa art. 22a ust. 2 pkt 3 – proporcjonalnie do różnicy liczbie ubezpieczonych zgłoszonych do dobrowolnych ubezpieczeń społecznych, obowiązkowych ubezpieczeń społecznych, oraz wyłącznie ubezpieczenia zdrowotnego.
+1. Świadczenie interwencyjne jest przyznawane w wysokości wskazanej przez przedsiębiorcę lub organizację albo podmiot, albo rolnika, o których mowa w art. 22a ust. 1a, we wniosku, o którym mowa w art. 22b ust. 1 – nie wyższej jednak niż wysokość szkody określonej w art. 22a ust. 2 pkt 1. Wysokość przyznanego świadczenia nie może także przekraczać wysokości ustalonej zgodnie ze sposobem wskazanym przez:
+
+- **1)** przedsiębiorcę lub organizację albo podmiot, albo rolnika, o których mowa w art. 22a ust. 1a, w tym wniosku, jako kwota stanowiąca iloczyn liczby ubezpieczonych zgłoszonych do dobrowolnych ubezpieczeń społecznych, obowiązkowych ubezpieczeń społecznych, wyłącznie ubezpieczenia zdrowotnego, na dzień złożenia wniosku, o którym mowa w art. 22b ust. 1, albo na dzień wydania rozporządzenia, o którym mowa w art. 1 ust. 2, w zależności od tego, która liczba jest mniejsza, oraz kwoty określonej w tym rozporządzeniu albo
+- **2)** przedsiębiorcę lub organizację albo podmiot, o których mowa w art. 22a ust. 1a pkt 1 i 2, w tym wniosku, jako kwota stanowiąca iloczyn wysokości średniomiesięcznego przychodu uzyskanego z prowadzenia działalności gospodarczej lub działalności, o której mowa w art. 22a ust. 1a pkt 1 i 2, w roku kalendarzowym poprzedzającym rok wydania rozporządzenia, o którym mowa w art. 1 ust. 2, oraz współczynnika określonego w tym rozporządzeniu przy uwzględnieniu rozmiarów skutków powodzi oraz sytuacji budżetu państwa.
+
+2. Określona w rozporządzeniu, o którym mowa w art. 1 ust. 2, kwota, o której mowa w ust. 1 pkt 1, nie może być niższa niż połowa przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej z kwartału poprzedzającego wydanie tego rozporządzenia, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
+
+3. Wysokość średniomiesięcznego przychodu, o którym mowa w ust. 1 pkt 2, ustala się przez podzielenie przychodu uzyskanego z prowadzenia działalności gospodarczej przez przedsiębiorcę lub prowadzenia działalności, o której mowa w art. 22a ust. 1a pkt 1 i 2, przez organizację albo podmiot wymienione w tych przepisach w roku kalendarzowym poprzedzającym rok wydania rozporządzenia, o którym mowa w art. 1 ust. 2, przez liczbę miesięcy kalendarzowych w tym roku kalendarzowym, w trakcie których działalność ta była prowadzona przynajmniej przez jeden dzień, w którym nie była zawieszona.
+
+4. Maksymalną wysokość przyznawanego świadczenia interwencyjnego określa rozporządzenie, o którym mowa w art. 1 ust. 2, przy uwzględnieniu rozmiarów skutków powodzi.
+
+5. W przypadku gdy przedsiębiorca lub organizacja albo podmiot, albo rolnik, o których mowa w art. 22a ust. 1a, przed wystąpieniem powodzi nie zawarli umowy ubezpieczenia przedsiębiorstwa lub składników majątkowych organizacji albo podmiotu, o których mowa w art. 22a ust. 1a pkt 1 i 2, albo gospodarstwa rolnego prowadzonego przez rolnika, o którym mowa w art. 22a ust. 1a pkt 3, służących do prowadzenia działalności, o której mowa w art. 22a ust. 1a, od następstw klęsk żywiołowych, wysokość przyznanego świadczenia interwencyjnego nie może przekroczyć 75 % wysokości szkody określonej w art. 22a ust. 2 pkt 1 oraz 75 % maksymalnej wysokości świadczenia interwencyjnego określonej w rozporządzeniu, o którym mowa w art. 1 ust. 2.
+
+1. Zakład Ubezpieczeń Społecznych informuje Szefa Krajowej Administracji Skarbowej o średniomiesięcznym przychodzie stanowiącym podstawę do ustalenia wysokości świadczenia interwencyjnego, wskazanym we wniosku, o którym mowa w art. 22b ust. 1.
+
+2. Szef Krajowej Administracji Skarbowej informuje Zakład Ubezpieczeń Społecznych o rozbieżnościach między średniomiesięcznym przychodem wykazanym we wniosku, o którym mowa w art. 22b ust. 1 pkt 3, a średniomiesięcznym przychodem uzyskanym z prowadzenia działalności gospodarczej lub działalności, o której mowa w art. 22a ust. 1a pkt 1 i 2, w roku kalendarzowym poprzedzającym rok wydania rozporządzenia, o którym mowa w art. 1 ust. 2, wykazanym dla celów podatkowych wyliczonym w trybie wskazanym w art. 22c ust. 3.
+
+3. Prezes Kasy Rolniczego Ubezpieczenia Społecznego na wniosek Zakładu Ubezpieczeń Społecznych przekazuje informacje niezbędne do realizacji zadań w zakresie świadczenia interwencyjnego.
+
+4. Wymiana informacji, o których mowa w ust. 1–3, następuje w formie elektronicznej.
+
+1. Świadczenie interwencyjne podlega, z zastrzeżeniem art. 4, zwrotowi przez przedsiębiorcę lub organizację albo podmiot, albo rolnika, o których mowa w art. 22a ust. 1a, w całości, wraz z odsetkami za zwłokę, liczonymi od dnia jego wypłacenia, na rachunek bankowy wskazany przez Zakład Ubezpieczeń Społecznych, jeżeli przedsiębiorca lub organizacja albo podmiot, albo rolnik, o których mowa w art. 22a ust. 1a:
+
+- **1)** w okresie 6 miesięcy od dnia otrzymania świadczenia interwencyjnego zaprzestali prowadzenia działalności gospodarczej lub działalności, o której mowa w art. 22a ust. 1a, lub zawiesili ich prowadzenie;
+- **2)** złożyli niezgodne ze stanem faktycznym przynajmniej jedno z oświadczeń, o których mowa w art. 22b ust. 2 pkt 2–4;
+- **3)** wbrew zobowiązaniu nie przesłali w terminie oszacowania wraz z dokumentacją, o których mowa w art. 22b ust. 2 pkt 1, a w przypadku rolnika – protokołu, o którym mowa w art. 22b ust. 2 pkt 1;
+- **4)** nie poddali się kontroli lub utrudniali kontrolę, o której mowa w art. 22f ust. 1.
+
+2. Świadczenie interwencyjne podlega zwrotowi przez przedsiębiorcę lub organizację albo podmiot, albo rolnika, o których mowa w art. 22a ust. 1a, w części, wraz z odsetkami za zwłokę, liczonymi od dnia jego wypłacenia, na rachunek bankowy wskazany przez Zakład Ubezpieczeń Społecznych, jeżeli:
+
+- **1)** Szef Krajowej Administracji Skarbowej poinformuje Zakład Ubezpieczeń Społecznych o wystąpieniu rozbieżności między średniomiesięcznym przychodem wykazanym we wniosku, o którym mowa w art. 22b ust. 1 pkt 3, a średniomiesięcznym przychodem uzyskanym z prowadzenia działalności gospodarczej lub działalności, o której mowa w art. 22a ust. 1a pkt 1 i 2, w roku kalendarzowym poprzedzającym rok wydania rozporządzenia, o którym mowa w art. 1 ust. 2, wykazanym dla celów podatkowych wyliczonym w trybie wskazanym w art. 22c ust. 3 – proporcjonalnie do wysokości zawyżenia;
+- **2)** przedsiębiorca lub organizacja albo podmiot, albo rolnik, o których mowa w art. 22a ust. 1a, nie wykonali zobowiązania, o którym mowa w art. 22a ust. 2 pkt 3 – proporcjonalnie do różnicy w liczbie ubezpieczonych zgłoszonych do dobrowolnych ubezpieczeń społecznych, obowiązkowych ubezpieczeń społecznych, oraz wyłącznie ubezpieczenia zdrowotnego.
 
 3. Świadczenie interwencyjne podlega zwrotowi przez:
 
-- **1)** przedsiębiorcę lub organizację albo podmiot, których mowa art. 22a ust. 1a pkt 1 i 2, części, na rachunek bankowy wskazany przez Zakład Ubezpieczeń Społecznych, jeżeli zostało ono przyznane wysokości wyższej niż wysokość szkody wynikającej z oszacowania, którym mowa art. 43 ust. 4 pkt 2, 3 lub ust. 6 zdanie drugie, z uwzględnieniem art. 22c ust. 5;
-- **2)** rolnika, którym mowa art. 22a ust. 1a pkt 3, części, na rachunek bankowy wskazany przez Zakład Ubezpieczeń Społecznych, jeżeli zostało ono przyznane wysokości wyższej niż wysokość szkody wynikającej z protokołu, którym mowa art. 22b ust. 2 pkt 1, z uwzględnieniem art. 22c ust. 5.
+- **1)** przedsiębiorcę lub organizację albo podmiot, o których mowa w art. 22a ust. 1a pkt 1 i 2, w części, na rachunek bankowy wskazany przez Zakład Ubezpieczeń Społecznych, jeżeli zostało ono przyznane w wysokości wyższej niż wysokość szkody wynikającej z oszacowania, o którym mowa w art. 43 ust. 4 pkt 2, 3 lub ust. 6 zdanie drugie, z uwzględnieniem art. 22c ust. 5;
+- **2)** rolnika, o którym mowa w art. 22a ust. 1a pkt 3, w części, na rachunek bankowy wskazany przez Zakład Ubezpieczeń Społecznych, jeżeli zostało ono przyznane w wysokości wyższej niż wysokość szkody wynikającej z protokołu, o którym mowa w art. 22b ust. 2 pkt 1, z uwzględnieniem art. 22c ust. 5.
 
-4. W przypadkach, których mowa ust. 1–3, termin zwrotu świadczenia interwencyjnego lub jego części nie może być dłuższy niż 30 dni kalendarzowych, liczonych od dnia uprawomocnienia się decyzji Zakładu Ubezpieczeń Społecznych.
+4. W przypadkach, o których mowa w ust. 1–3, termin zwrotu świadczenia interwencyjnego lub jego części nie może być dłuższy niż 30 dni kalendarzowych, liczonych od dnia uprawomocnienia się decyzji Zakładu Ubezpieczeń Społecznych.
 
-5. Spadkobiercy przedsiębiorcy lub rolnika, którym mowa art. 22a ust. 1a pkt 3, nie są obowiązani do zwrotu wypłaconego temu przedsiębiorcy lub rolnikowi świadczenia interwencyjnego, jeżeli wyłączną przesłanką zwrotu jest ziszczenie się warunku, którym mowa ust. 1 pkt 1, następstwie śmierci tego przedsiębiorcy lub rolnika.
+5. Spadkobiercy przedsiębiorcy lub rolnika, o którym mowa w art. 22a ust. 1a pkt 3, nie są obowiązani do zwrotu wypłaconego temu przedsiębiorcy lub rolnikowi świadczenia interwencyjnego, jeżeli wyłączną przesłanką zwrotu jest ziszczenie się warunku, o którym mowa w ust. 1 pkt 1, w następstwie śmierci tego przedsiębiorcy lub rolnika.
 
 6. Do ustalenia obowiązków następców prawnych oraz podmiotów przekształconych z tytułu nienależnie wypłaconego świadczenia interwencyjnego stosuje się odpowiednio przepisy art. 93–93c, art. 94, art. 97 § 1 i 1a, art. 97a § 1–3, art. 98 § 1 i § 2 pkt 1, 2, 5 i 7, art. 100, art. 101 oraz art. 106 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
-7. Do nienależnie wypłaconych świadczeń interwencyjnych i odsetek za zwłokę stosuje się przepisy art. 84 ust. 4–5 oraz 7–8e ustawy z dnia 13 października 1998 r. systemie ubezpieczeń społecznych.
+7. Do nienależnie wypłaconych świadczeń interwencyjnych i odsetek za zwłokę stosuje się przepisy art. 84 ust. 4–5 oraz 7–8e ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
 
-8. Do dochodzenia nienależnie wypłaconego świadczenia interwencyjnego stosuje się odpowiednio przepisy działu III rozdziału 15 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa. stanowi przychodu rozumieniu przepisów podatku dochodowym od osób fizycznych oraz przepisów podatku dochodowym od osób prawnych.
+8. Do dochodzenia nienależnie wypłaconego świadczenia interwencyjnego stosuje się odpowiednio przepisy działu III rozdziału 15 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
-**Art. 22f.**
+9. Przychód z tytułu uzyskanego świadczenia interwencyjnego oraz w przypadku, o którym mowa w ust. 5, nie stanowi przychodu w rozumieniu przepisów o podatku dochodowym od osób fizycznych oraz przepisów o podatku dochodowym od osób prawnych.
 
-1. Zakład Ubezpieczeń Społecznych jest uprawniony do kontroli prawidłowości i rzetelności danych, informacji i oświadczeń przekazanych przez przedsiębiorcę lub organizację albo podmiot, albo rolnika, których mowa art. 22a ust. 1a, we wniosku, którym mowa art. 22b ust. 1. Przepisy rozdziału 10 ustawy z dnia 13 października 1998 r. systemie ubezpieczeń społecznych stosuje się odpowiednio. Przepisów art. 47 ust. 1, art. 48 ust. 1, art. 54 ust. 1 oraz art. 55 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców nie stosuje się.
+1. Zakład Ubezpieczeń Społecznych jest uprawniony do kontroli prawidłowości i rzetelności danych, informacji i oświadczeń przekazanych przez przedsiębiorcę lub organizację albo podmiot, albo rolnika, o których mowa w art. 22a ust. 1a, we wniosku, o którym mowa w art. 22b ust. 1. Przepisy rozdziału 10 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych stosuje się odpowiednio. Przepisów art. 47 ust. 1, art. 48 ust. 1, art. 54 ust. 1 oraz art. 55 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców nie stosuje się.
 
-2. Zakład Ubezpieczeń Społecznych przeprowadza kontrolę przedsiębiorcy lub organizacji albo podmiotu, albo rolnika, których mowa art. 22a ust. 1a, którym przyznano świadczenie interwencyjne, okresie 3 lat liczonych od dnia jego przyznania, zakresie:
+2. Zakład Ubezpieczeń Społecznych przeprowadza kontrolę przedsiębiorcy lub organizacji albo podmiotu, albo rolnika, o których mowa w art. 22a ust. 1a, którym przyznano świadczenie interwencyjne, w okresie 3 lat liczonych od dnia jego przyznania, w zakresie:
 
-- **1)** prowadzenia działalności gospodarczej lub działalności, której mowa art. 22a ust. 1a, okresie 6 miesięcy od dnia otrzymania świadczenia interwencyjnego;
-- **2)** utrzymania poziomu zatrudnienia przez okres 6 miesięcy od dnia wydania rozporządzenia, którym mowa art. 1 ust. 2;
-- **3)** właściwego dokumentowania wniosku świadczenie interwencyjne.
+- **1)** prowadzenia działalności gospodarczej lub działalności, o której mowa w art. 22a ust. 1a, w okresie 6 miesięcy od dnia otrzymania świadczenia interwencyjnego;
+- **2)** utrzymania poziomu zatrudnienia przez okres 6 miesięcy od dnia wydania rozporządzenia, o którym mowa w art. 1 ust. 2;
+- **3)** właściwego dokumentowania wniosku o świadczenie interwencyjne.
 
-3. Kontrolowany jest obowiązany udostępnić wszelkie dokumenty i udzielać wyjaśnień sprawach objętych zakresem kontroli.
+3. Kontrolowany jest obowiązany udostępnić wszelkie dokumenty i udzielać wyjaśnień w sprawach objętych zakresem kontroli.
 
-4. Środki pochodzące ze świadczenia interwencyjnego nie podlegają egzekucji sądowej ani administracyjnej.”;
+4. Środki pochodzące ze świadczenia interwencyjnego nie podlegają egzekucji sądowej ani administracyjnej. ” ;
 
-- **15)** art. 22g ust. 4 otrzymuje brzmienie: „4. Od decyzji, których mowa ust. 2, przysługuje odwołanie do właściwego sądu terminie i według zasad określonych przepisach ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568) dla postępowań sprawach z zakresu ubezpieczeń społecznych. Przepisy art. 83 ust. 5–7 i art. 83a ustawy z dnia 13 października 1998 r. systemie ubezpieczeń społecznych stosuje się odpowiednio.”;
-- **16)** po art. 22h dodaje się art. 22i i art. 22j brzmieniu: „Art. 22i. 1. W przypadku gdy na terenie obszaru wskazanego przepisach wydanych na podstawie art. 1 ust. 2 bezpośrednio wyniku wystąpienia powodzi doszło do uszkodzenia lub zniszczenia infrastruktury pocztowej operatora wyznaczonego może on otrzymać dotację celową z budżetu państwa na naprawienie szkód powstałych wyniku wystąpienia powodzi.
+- **15)** w art. 22g ust. 4 otrzymuje brzmienie: „
+
+4. Od decyzji, o których mowa w ust. 2, przysługuje odwołanie do właściwego sądu w terminie i według zasad określonych w przepisach ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568) dla postępowań w sprawach z zakresu ubezpieczeń społecznych. Przepisy art. 83 ust. 5–7 i art. 83a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych stosuje się odpowiednio. ” ;
+
+- **16)** po art. 22h dodaje się art. 22i i art. 22j w brzmieniu: „
+
+1. W przypadku gdy na terenie obszaru wskazanego w przepisach wydanych na podstawie art. 1 ust. 2 bezpośrednio w wyniku wystąpienia powodzi doszło do uszkodzenia lub zniszczenia infrastruktury pocztowej operatora wyznaczonego może on otrzymać dotację celową z budżetu państwa na naprawienie szkód powstałych w wyniku wystąpienia powodzi.
 
 2. Oszacowania szkód poniesionych przez operatora wyznaczonego dokonuje, według jego wyboru:
 
 - **1)** rzeczoznawca lub biegły uprawniony do dokonywania wyceny środków trwałych lub aktywów obrotowych;
 - **2)** rzeczoznawca majątkowy.
 
-3. Koszt związany z oszacowaniem szkód, którym mowa ust. 2, może zostać pokryty ze środków finansowych uzyskanych z dotacji celowej, której mowa ust. 1.
+3. Koszt związany z oszacowaniem szkód, o którym mowa w ust. 2, może zostać pokryty ze środków finansowych uzyskanych z dotacji celowej, o której mowa w ust. 1.
 
-4. Dotacja celowa, której mowa ust. 1, jest udzielana na wniosek operatora wyznaczonego złożony do ministra właściwego do spraw łączności, zawierający:
+4. Dotacja celowa, o której mowa w ust. 1, jest udzielana na wniosek operatora wyznaczonego złożony do ministra właściwego do spraw łączności, zawierający:
 
 - **1)** oznaczenie podmiotu, do którego jest kierowany wniosek;
 - **2)** oznaczenie wnioskodawcy i jego siedziby oraz adres do korespondencji;
 - **3)** numer identyfikacji podatkowej (NIP) wnioskodawcy;
 - **4)** adres poczty elektronicznej wnioskodawcy;
-- **5)** wnioskowaną wysokość dotacji celowej wynikającą z oszacowania szkód, którym mowa ust. 2;
+- **5)** wnioskowaną wysokość dotacji celowej wynikającą z oszacowania szkód, o którym mowa w ust. 2;
 - **6)** numer rachunku bankowego, na który ma zostać dokonana wypłata kwoty dotacji celowej.
 
-5. Do wniosku wypłatę dotacji celowej, której mowa ust. 1, dołącza się:
+5. Do wniosku o wypłatę dotacji celowej, o której mowa w ust. 1, dołącza się:
 
 - **1)** dokument zawierający oszacowanie szkód poniesionych przez operatora wyznaczonego;
-- **2)** dokument potwierdzający zawarcie przez wnioskodawcę umowy ubezpieczenia od następstw klęsk żywiołowych – jeżeli zawarł taką umowę, albo oświadczenie niezawarciu takiej umowy.
+- **2)** dokument potwierdzający zawarcie przez wnioskodawcę umowy ubezpieczenia od następstw klęsk żywiołowych – jeżeli zawarł taką umowę, albo oświadczenie o niezawarciu takiej umowy.
 
-6. Oświadczenie, którym mowa ust. 5 pkt 2, wnioskodawca składa pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli
+6. Oświadczenie, o którym mowa w ust. 5 pkt 2, wnioskodawca składa pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-7. Szczegółowe warunki udzielenia dotacji celowej, której mowa ust. 1, określa umowa zawarta między operatorem wyznaczonym a ministrem właściwym do spraw łączności.
+7. Szczegółowe warunki udzielenia dotacji celowej, o której mowa w ust. 1, określa umowa zawarta między operatorem wyznaczonym a ministrem właściwym do spraw łączności.
 
-8. Wysokość dotacji celowej, której mowa ust. 1, nie może przekraczać różnicy między wysokością poniesionej szkody a wysokością odszkodowania oraz wsparcia ze środków publicznych uzyskanego z innych źródeł na pokrycie poniesionej szkody.
+8. Wysokość dotacji celowej, o której mowa w ust. 1, nie może przekraczać różnicy między wysokością poniesionej szkody a wysokością odszkodowania oraz wsparcia ze środków publicznych uzyskanego z innych źródeł na pokrycie poniesionej szkody. W okresie i na obszarze wskazanych w przepisach wydanych na podstawie art. 1 ust. 2 uzupełnianie w stałych zbiornikach pojazdu kolejowego w rozumieniu art. 4 pkt 6 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2024 r. poz. 697 i 731) paliwa niezbędnego do jego działania lub działania jego podzespołów może odbywać się poza stacją paliw ciekłych oraz stacją kontenerową w rozumieniu odpowiednio art. 3 pkt 10h i 10i ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, 834 i 859) bezpośrednio ze środka transportu paliw ciekłych w rozumieniu art. 3 pkt 10j ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne. ” ;
 
-**Art. 22j.** W okresie i na obszarze wskazanych przepisach wydanych na podstawie art. 1 ust. 2 uzupełnianie stałych zbiornikach pojazdu kolejowego rozumieniu art. 4 pkt 6 ustawy z dnia 28 marca 2003 r. transporcie kolejowym (Dz. U. z 2024 r. poz. 697 i 731) paliwa niezbędnego do jego działania lub działania jego podzespołów może odbywać się poza stacją paliw ciekłych oraz stacją kontenerową rozumieniu odpowiednio art. 3 pkt 10h i 10i ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, 834 i 859) bezpośrednio ze środka transportu paliw ciekłych rozumieniu art. 3 pkt 10j ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.”;
+- **17)** w art. 23: po ust. 3 dodaje się ust. 3a w brzmieniu: „
+    - **a)**
 
-**Art. 35g.**
+3a. Oświadczenie, o którym mowa w ust. 3, jest składane pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń. ” , po ust. 5 dodaje się ust. 5a i 5b w brzmieniu: „
 
-1. Wniosek umorzenie może zostać złożony jednorazowo do Zakładu Ubezpieczeń Społecznych i zawiera:
+- **b)**
+
+5a. Decyzję o zwrocie pożyczki w całości lub w części wydaje marszałek województwa.
+
+5b. Od decyzji, o której mowa w ust. 5a, przysługuje odwołanie do samorządowego kolegium odwoławczego. ” , ust. 6 otrzymuje brzmienie: „
+
+- **c)**
+
+6. Pracodawca może ubiegać się po dniu 31 grudnia roku następującego po roku wystąpienia powodzi o umorzenie należności z tytułu udzielonej pożyczki w całości lub w części, odroczenie terminu spłaty należności, lub rozłożenie spłaty należności na raty w całości lub w części, na wniosek złożony do marszałka województwa. Należność może zostać umorzona, termin spłaty należności może zostać odroczony lub spłata należności może zostać rozłożona na raty przez ministra właściwego do spraw pracy będącego dysponentem Funduszu Gwarantowanych Świadczeń Pracowniczych, zwanego dalej „dysponentem Funduszu”, jeżeli pracodawca wykaże, że na skutek powodzi nastąpiło u niego pogorszenie warunków prowadzenia działalności gospodarczej, a w szczególności:
+
+- **1)** nastąpił spadek obrotów gospodarczych, rozumianych jako sprzedaż lub nastąpiło zmniejszenie zamówień na usługi lub dostawy wytwarzanych towarów, w ciągu kolejnych 6 miesięcy w okresie od dnia otrzymania pożyczki do dnia złożenia wniosku o umorzenie należności z tytułu udzielonej pożyczki w całości lub w części, odroczenie terminu spłaty należności, lub rozłożenie spłaty należności na raty w całości lub w części w porównaniu z analogicznymi kolejnymi miesiącami w ciągu ostatnich dwóch lat lub
+- **2)** nastąpiły straty w środkach trwałych, które ograniczyły możliwość prowadzenia działalności gospodarczej w porównaniu z okresem sprzed powodzi. ” , po ust. 6 dodaje się ust. 6a w brzmieniu: „
+    - **d)**
+
+6a. Dysponent Funduszu może umorzyć należność z tytułu udzielonej pożyczki, jeżeli:
+
+- **1)** w postępowaniu egzekucyjnym stwierdzono, że przedsiębiorca, który pobrał pożyczkę, nie posiada majątku, z którego można dochodzić należności;
+- **2)** zachodzi uzasadnione przypuszczenie, że w postępowaniu egzekucyjnym nie odzyska się kwoty wyższej od kosztów dochodzenia i egzekucji należności lub postępowanie egzekucyjne okazało się nieskuteczne;
+- **3)** przedsiębiorca, który pobrał pożyczkę będący osobą prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej został wykreślony z właściwego rejestru przy jednoczesnym braku majątku, z którego można by egzekwować należność, a odpowiedzialność z tytułu należności nie przechodzi z mocy prawa na osoby trzecie. ” , w ust. 7 po wyrazach „Dysponent Funduszu umarza” skreśla się wyraz „pożyczkę” i dodaje się wyrazy „należność z tytułu udzielonej pożyczki”, po ust. 7 dodaje się ust. 7a-7i w brzmieniu: „
+    - **e)**
+    - **f)**
+
+7a. Marszałek województwa nie dochodzi zwrotu należności z tytułu pożyczki, jeżeli kwota należna do zwrotu nie przekracza, określonych na dzień dokonania rozliczenia, najniższych kosztów doręczenia w obrocie krajowym przesyłki poleconej za potwierdzeniem odbioru przez operatora wyznaczonego. Kwota ta jest zaliczana do kosztów Funduszu Gwarantowanych Świadczeń Pracowniczych.
+
+7b. Kwotę pożyczki pracodawca zwraca w całości, wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych od dnia jej otrzymania, na rachunek bankowy wojewódzkiego urzędu pracy, jeżeli złożył niezgodne ze stanem faktycznym oświadczenie, o którym mowa w ust. 3.
+
+7c. Marszałek województwa może przeprowadzać kontrole pracodawcy, o którym mowa w ust. 1, w zakresie wydatkowania środków Funduszu Gwarantowanych Świadczeń Pracowniczych na wypłatę wynagrodzeń i składek na ubezpieczenia społeczne należnych od pracodawcy zgodnie z przeznaczeniem i w tym celu może żądać okazania wszelkiej dokumentacji z tym związanej oraz żądać złożenia stosownych wyjaśnień.
+
+7d. Pracodawca zobowiązuje się do poddania się kontroli marszałka województwa lub upoważnionych pracowników wojewódzkiego urzędu pracy. Pracodawca, który nie poddał się kontroli, jest obowiązany do zwrotu całości otrzymanej pomocy.
+
+7e. Marszałek województwa może pozyskiwać z Zakładu Ubezpieczeń Społecznych, przy wykorzystaniu systemów teleinformatycznych prowadzonych przez ministra właściwego do spraw pracy, w postaci elektronicznej, dane zgromadzone na koncie płatnika składek lub koncie ubezpieczonego, o których mowa w art. 50 ust. 14–16 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w celu ustalenia lub weryfikacji okoliczności, o których mowa w ust. 1 i 6.
+
+7f. Marszałek województwa w celu realizacji zadań przewidzianych w ustawie może pozyskiwać od starostów i powiatowych urzędów pracy informacje mające znaczenie dla oceny spełniania warunków przyznania pomocy i prawidłowości jej wykorzystania w zakresie określonym w niniejszym artykule.
+
+7g. Marszałek województwa może wystąpić do podmiotów, o których mowa w ust. 7e i 7f, o informacje o pracownikach obejmujące:
+
+- **1)** imię i nazwisko;
+- **2)** numer PESEL, a w przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+- **3)** informacje związane z zatrudnieniem pracowników w okresie objętym pożyczką dotyczące: czasu trwania i rodzaju umowy, wymiaru czasu pracy, wysokości wynagrodzenia, obowiązku odprowadzania składek na ubezpieczenia społeczne od wynagrodzenia, odprowadzania i wysokości odprowadzonych składek na ubezpieczenia społeczne od wynagrodzenia, odprowadzania i wysokości odprowadzonych zaliczek na podatek dochodowy, nieobecności w pracy, okresu i wysokości wsparcia udzielonego na pracownika na podstawie przepisów ustawy, trybu rozwiązania stosunku pracy.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+
+7h. Marszałek województwa w celu realizacji zadań przewidzianych w ustawie może pozyskiwać w postaci elektronicznej, w sposób automatyczny, przy wykorzystaniu systemów teleinformatycznych prowadzonych przez ministra właściwego do spraw pracy, informacje przetwarzane w Krajowym Rejestrze Sądowym, Centralnej Ewidencji i Informacji o Działalności Gospodarczej oraz Powszechnym Elektronicznym Systemie Ewidencji Ludności.
+
+7i. Dysponent Funduszu może przeprowadzać u marszałka województwa i w podległym mu wojewódzkim urzędzie pracy kontrole w zakresie określonym w art. 39a ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy. ” , ust. 8 otrzymuje brzmienie: „
+
+- **g)**
+
+8. Dysponent Funduszu może upoważnić marszałków województw do wykonywania czynności, o których mowa w ust. 6–7. ” , w ust. 9 skreśla się wyrazy „(Dz. U. z 2023 r. poz. 1087)”, ust. 9b i 9c otrzymują brzmienie: „
+
+- **h)**
+- **i)**
+
+9b. Podmioty, o których mowa w ust. 9a, przetwarzają dane osobowe pracowników, o których mowa w ust. 1, w zakresie wynikającym z przepisów wydanych na podstawie ust. 10. Przetwarzanie danych osobowych może następować w systemie teleinformatycznym, o którym mowa w art. 4 ust. 1 pkt 8, ust. 4a lub 9 ustawy o promocji zatrudnienia.
+
+9c. Umorzenie należności z tytułu udzielonej pożyczki w całości lub w części, odroczenie terminu spłaty należności lub rozłożenie spłaty należności na raty w całości lub w części, o których mowa w ust. 6–7, następuje w formie pisemnej, na podstawie przepisów prawa cywilnego. ” ;
+
+- **18)** art. 27a otrzymuje brzmienie: „
+
+**Art. 27a.**
+
+1. Gminie wskazanej w przepisach wydanych na podstawie art. 1 ust. 2 i w okresie wskazanym w tych przepisach przysługuje prawo pierwokupu:
+
+- **1)** samodzielnego, wyodrębnionego lokalu mieszkalnego lub udziału w tym lokalu,
+- **2)** nieruchomości zabudowanej budynkiem mieszkalnym jednorodzinnym lub udziału w takiej nieruchomości położonych na obszarze tej gminy.
+
+2. W sprawach, o których mowa w ust. 1, stosuje się odpowiednio przepisy art. 109 ust. 3 i 4, art. 110 i art. 111 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
+
+3. Lokale mieszkalne i udziały w lokalach mieszkalnych oraz nieruchomości i udziały w nieruchomościach nabyte przez gminę w wykonaniu prawa pierwokupu, o którym mowa w ust. 1, wchodzą w skład mieszkaniowego zasobu gminy. ” ;
+
+- **19)** w art. 28: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. W przypadku gdy przedsięwzięcie, o którym mowa w art. 3 ust. 1 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych (Dz. U. z 2024 r. poz. 304) lub art. 5 ust. 1 pkt 1 i pkt 2 lit. a tej ustawy, w przypadku, o którym mowa w art. 5a ust. 1 tej ustawy, jest realizowane na terenie gminy lub miejscowości określonych w przepisach wydanych na podstawie art. 1 ust. 2, a pierwszeństwo w dostępie do tworzonych w ramach niego lokali mieszkalnych zapewnia się poszkodowanym będącym osobami fizycznymi, finansowego wsparcia udziela się do wysokości 100 % kosztów przedsięwzięcia. ” , uchyla się ust. 2, w ust. 7 w pkt 1: – lit. a otrzymuje brzmienie: „ a) zapewnieniu pierwszeństwa w dostępie do lokali mieszkalnych tworzonych w ramach przedsięwzięcia poszkodowanym będącym osobami fizycznymi, ” , – uchyla się lit. b, ust. 9 otrzymuje brzmienie: „
+
+- **b)**
+- **c)**
+- **d)**
+
+9. W przypadku finansowego wsparcia udzielanego zgodnie z zasadami określonymi w ust. 1 i 3 nie stosuje się przepisów art. 8a ust. 1, art. 13 ust. 1, la, 4 i 8–11 oraz art. 17 ust. 3a ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych. ” , po ust. 12 dodaje się ust. 12a-12c w brzmieniu: „
+
+- **e)**
+
+12a. W przypadku gdy wniosek o udzielenie finansowego wsparcia na przedsięwzięcie, o którym mowa w ust. 1, zawiera informacje o realizowanym przedsięwzięciu jedynie w części zakresu określonego w przepisach wydanych na podstawie art. 19 ust. 1 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych, Bank Gospodarstwa Krajowego w terminie 7 dni od dnia wpływu tego wniosku kwalifikuje go do finansowego wsparcia albo pozostawia go bez rozpatrzenia, jeżeli na podstawie danych i informacji w nim zawartych stwierdzi niezgodność tego przedsięwzięcia z ust. 1 oraz odpowiednio z art. 3, art. 5, art. 5a, art. 6 ust. 1–3 i 5, art. 6b, art. 7, art. 14, art. 14a ust. 1, art. 15 i art. 16 ust. 1–3 i 4 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych lub stwierdzi brak możliwości ustalenia wysokości kwoty finansowego wsparcia. Przepisów art. 8 ust. 4–7 i 9 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych nie stosuje się.
+
+12b. W przypadku zakwalifikowania wniosku o udzielenie finansowego wsparcia na przedsięwzięcie, o którym mowa w ust. 1, w trybie, o którym mowa w ust. 12a, wsparcie to uruchamia się, jeżeli:
+
+- **1)** w terminie 10 miesięcy od dnia złożenia tego wniosku, wnioskodawca uzupełni ten wniosek o informacje zgodne z zakresem określonym w przepisach wydanych na podstawie art. 19 ust. 1 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych oraz
+- **2)** przedsięwzięcie objęte tym wnioskiem jest zgodne z ust. 1 oraz odpowiednio z art. 3, art. 5, art. 5a, art. 6 ust. 1–3 i 5, art. 6b, art. 7, art. 14, art. 14a ust. 1, art. 15 i art. 16 ust. 1–3 i 4 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych.
+
+12c. W terminie 30 dni od dnia wpływu wniosku o finansowe wsparcie uzupełnionego na podstawie ust. 12b pkt 1, Bank Gospodarstwa Krajowego sprawdza, czy przedsięwzięcie jest zgodne z ust. 1 oraz odpowiednio z art. 3, art. 5, art. 5a, art. 6 ust. 1–3 i 5, art. 6b, art. 7, art. 14, art. 14a ust. 1, art. 15 i art. 16 ust. 1–3 i 4 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych. W przypadku stwierdzenia niezgodności przedsięwzięcia z ust. 1 oraz z art. 3, art. 5, art. 5a, art. 6 ust. 1–3 i 5, art. 6b, art. 7, art. 14, art. 14a ust. 1, art. 15 i art. 16 ust. 1–3 i 4 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych Bank Gospodarstwa Krajowego informuje o tym wnioskodawcę. ” ;
+
+- **20)** w art. 28a w ust. 2 wyrazy „art. 11j ust. 3 pkt 2 lit. a, b, d i e” zastępuje się wyrazami „art. 11j ust. 3 pkt 2 lit. a, b i d-f”;
+- **21)** w art. 30: w ust. 1 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** przychody poszkodowanego otrzymane na podstawie art. 10–12, art. 17–19 i art. 22i; wydatków i kosztów bezpośrednio sfinansowanych z tych przychodów nie uważa się za koszty uzyskania przychodów; ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **b)**
+
+1a. Dochodów i przychodów zwolnionych od podatku dochodowego od osób fizycznych na podstawie ust. 1 nie zalicza się do dochodów, o których mowa w art. 26 ust. 7e zdanie pierwsze ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych. ” ;
+
+- **22)** w art. 32 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
+
+2. Ulgi w spłacie zobowiązań podatkowych udzielone zgodnie z ust. 1 stanowią pomoc udzielaną na warunkach określonych w art. 50 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu.”
+
+- **23)** w art. 33 dodaje się ust. 4 w brzmieniu: „
+
+4. Środki pochodzące ze świadczeń uzyskanych w związku z powodzią nie podlegają egzekucji sądowej ani administracyjnej. ” ;
+
+- **24)** art. 35 otrzymuje brzmienie: „
+
+**Art. 35.**
+
+1. W przypadku udzielania dotacji przeznaczonej na zadania własne związane z usuwaniem skutków powodzi:
+
+- **1)** gminom wskazanym w przepisach wydanych na podstawie art. 1 ust. 2 lub
+- **2)** gminom, na których terenie znajdują się miejscowości wskazane w tych przepisach, lub
+- **3)** powiatom, na których terenie znajdują się gminy wskazane w przepisach wydanych na podstawie art. 1 ust. 2 lub gminy, na których terenie znajdują się miejscowości wskazane w tych przepisach nie stosuje się ograniczenia określonego w art. 128 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+
+2. W przypadku realizacji zadań, o których mowa w ust. 1, przez związki międzygminne, związki powiatów lub związki powiatowo-gminne, środki na realizacje tych zadań zapewnia właściwa jednostka samorządu terytorialnego. ” ;
+
+- **25)** w art. 35a w ust. 1 skreśla się wyrazy „(Dz. U. z 2023 r. poz. 571 oraz z 2024 r. poz. 834)”;
+- **26)** art. 35d otrzymuje brzmienie: „
+
+1. Pomoc publiczna, o której mowa w art. 26, art. 26a, art. 26d, art. 32 i art. 41 ustawy o rehabilitacji, w kwotach ustalonych na podstawie tej ustawy, może być udzielana jako pomoc publiczna spełniająca warunki określone w art. 50 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu pracodawcom posiadającym siedzibę lub prowadzącym działalność na terenie gmin wskazanych w przepisach wydanych na podstawie art. 1 ust. 2, którzy nie byli w trudnej sytuacji ekonomicznej w miesiącu poprzedzającym miesiąc, w którym weszły w życie przepisy wydane na podstawie art. 1 ust. 2.
+
+2. Do pomocy publicznej, o której mowa w ust. 1, stosuje się odpowiednio przepis art. 4 ust. 1. ” ;
+
+- **27)** po art. 35e dodaje się art. 35f-35k w brzmieniu: „
+
+1. Na wniosek poszkodowanego w wyniku wystąpienia powodzi będącego płatnikiem składek, zwany dalej „wnioskiem o umorzenie”, można umorzyć należności, w tym należności już opłacone, z tytułu składek na ubezpieczenia społeczne, na ubezpieczenie zdrowotne, na Fundusz Pracy, na Fundusz Solidarnościowy, na Fundusz Gwarantowanych Świadczeń Pracowniczych lub na Fundusz Emerytur Pomostowych za wskazany przez niego miesiąc kalendarzowy lub miesiące kalendarzowe przypadające w okresie wskazanym w przepisach wydanych na podstawie art. 1 ust. 2, jeżeli płatnik ten wykaże spadek przychodu z działalności gospodarczej lub z prowadzonej przez niego działalności, o której mowa w art. 22a ust. 1a, o co najmniej 40 % między porównywanymi miesiącami wskazanymi w przepisach wydanych na podstawie art. 1 ust. 2.
+
+2. Poszkodowany w wyniku wystąpienia powodzi płatnik składek, któremu:
+
+- **1)** na podstawie umowy, o której mowa w art. 29 ust. 1a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, odroczono termin płatności należności z tytułu składek za okres, o którym mowa w art. 36, lub rozłożono należności z tytułu tych składek na raty,
+- **2)** na podstawie art. 36 ustalono nowy termin płatności należności z tytułu składek za okres, o którym mowa w tym przepisie może uwzględnić te należności we wniosku o umorzenie.
+
+1. Wniosek o umorzenie może zostać złożony jednorazowo do Zakładu Ubezpieczeń Społecznych i zawiera:
 
 - **1)** oznaczenie wnioskodawcy: imię i nazwisko lub nazwę skróconą, adres do korespondencji, numer identyfikacji podatkowej (NIP) oraz numer identyfikacyjny REGON, a jeżeli ich nie nadano – numer PESEL lub serię i numer dowodu osobistego albo paszportu;
-- **2)** wskazanie miesiąca kalendarzowego lub miesięcy kalendarzowych, za które wnioskodawca wnosi umorzenie należności z tytułu składek, przypadających okresie wskazanym przepisach wydanych na podstawie art. 1 ust. 2;
-- **3)** oświadczenie poszkodowanego wyniku wystąpienia powodzi płatnika składek spadku przychodów, którym mowa art. 35f ust. 1;
-- **4)** oświadczenie poszkodowanego wyniku wystąpienia powodzi płatnika składek byciu poszkodowanym rozumieniu art. 2.
+- **2)** wskazanie miesiąca kalendarzowego lub miesięcy kalendarzowych, za które wnioskodawca wnosi o umorzenie należności z tytułu składek, przypadających w okresie wskazanym w przepisach wydanych na podstawie art. 1 ust. 2;
+- **3)** oświadczenie poszkodowanego w wyniku wystąpienia powodzi płatnika składek o spadku przychodów, o którym mowa w art. 35f ust. 1;
+- **4)** oświadczenie poszkodowanego w wyniku wystąpienia powodzi płatnika składek o byciu poszkodowanym w rozumieniu art. 2.
 
-2. Oświadczenia, których mowa ust. 1 pkt 3 i 4, poszkodowany wyniku wystąpienia powodzi płatnik składek składa pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu odpowiedzialności karnej za składanie fałszywych oświadczeń.
+2. Oświadczenia, o których mowa w ust. 1 pkt 3 i 4, poszkodowany w wyniku wystąpienia powodzi płatnik składek składa pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-3. W przypadku należności już opłaconych przepis art. 24 ustawy z dnia 13 października 1998 r. systemie ubezpieczeń społecznych stosuje się odpowiednio.
+3. W przypadku należności już opłaconych przepis art. 24 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych stosuje się odpowiednio.
 
-4. Wniosek umorzenie jest składany formie dokumentu elektronicznego za pomocą profilu informacyjnego, zwanego dalej „profilem informacyjnym”, utworzonego systemie teleinformatycznym udostępnionym przez Zakład Ubezpieczeń Społecznych, formie dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, albo wykorzystującego sposób potwierdzania pochodzenia oraz integralności danych udostępniony bezpłatnie przez Zakład Ubezpieczeń Społecznych systemie teleinformatycznym.
+4. Wniosek o umorzenie jest składany w formie dokumentu elektronicznego za pomocą profilu informacyjnego, zwanego dalej „profilem informacyjnym”, utworzonego w systemie teleinformatycznym udostępnionym przez Zakład Ubezpieczeń Społecznych, w formie dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, albo wykorzystującego sposób potwierdzania pochodzenia oraz integralności danych udostępniony bezpłatnie przez Zakład Ubezpieczeń Społecznych w systemie teleinformatycznym.
 
-**Art. 35h.**
-
-1. Rozstrzygnięcie przez Zakład Ubezpieczeń Społecznych umorzeniu należności, którym mowa art. 35f, uwzględniające całości wniosek umorzenie, nie wymaga wydania decyzji.
+1. Rozstrzygnięcie przez Zakład Ubezpieczeń Społecznych o umorzeniu należności, o którym mowa w art. 35f, uwzględniające w całości wniosek o umorzenie, nie wymaga wydania decyzji.
 
 2. Zakład Ubezpieczeń Społecznych wydaje decyzję:
 
-- **1)** nieuwzględnieniu całości wniosku umorzenie albo uwzględnieniu części tego wniosku;
-- **2)** odmowie umorzenia, którym mowa art. 35f;
-- **3)** obowiązku opłacenia składek umorzonych na podstawie art. 35f.
+- **1)** o nieuwzględnieniu w całości wniosku o umorzenie albo o uwzględnieniu w części tego wniosku;
+- **2)** o odmowie umorzenia, o którym mowa w art. 35f;
+- **3)** o obowiązku opłacenia składek umorzonych na podstawie art. 35f.
 
-3. Od decyzji, których mowa ust. 2, przysługuje odwołanie do właściwego sądu terminie i według zasad określonych przepisach ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego dla postępowań sprawach z zakresu ubezpieczeń społecznych. Przepisy art. 83 ust. 5–7 i art. 83a ustawy z dnia 13 października 1998 r. systemie ubezpieczeń społecznych stosuje się odpowiednio.
+3. Od decyzji, o których mowa w ust. 2, przysługuje odwołanie do właściwego sądu w terminie i według zasad określonych w przepisach ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego dla postępowań w sprawach z zakresu ubezpieczeń społecznych. Przepisy art. 83 ust. 5–7 i art. 83a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych stosuje się odpowiednio.
 
-4. Zakład Ubezpieczeń Społecznych wraz z odwołaniem przekazuje do sądu akta sprawy postaci wydruków z systemu teleinformatycznego. Wydruki zastępują dokumenty elektroniczne.
+4. Zakład Ubezpieczeń Społecznych wraz z odwołaniem przekazuje do sądu akta sprawy w postaci wydruków z systemu teleinformatycznego. Wydruki zastępują dokumenty elektroniczne.
 
-5. Decyzje, postanowienia, zawiadomienia, wezwania, informacje i inne pisma sprawie umorzenia, którym mowa art. 35f, Zakład Ubezpieczeń Społecznych może doręczać postaci elektronicznej na profilu informacyjnym. Informacja umieszczeniu na profilu informacyjnym decyzji, postanowienia, zawiadomienia, wezwania, informacji lub innego pisma wymienionych sprawach może zostać przesłana przez Zakład Ubezpieczeń Społecznych na wskazany na profilu informacyjnym adres poczty elektronicznej lub numer telefonu. pieczęcią elektroniczną Zakładu Ubezpieczeń Społecznych, albo zamieszcza się nich imię, nazwisko i stanowisko służbowe osoby upoważnionej do ich wydania.
+5. Decyzje, postanowienia, zawiadomienia, wezwania, informacje i inne pisma w sprawie umorzenia, o którym mowa w art. 35f, Zakład Ubezpieczeń Społecznych może doręczać w postaci elektronicznej na profilu informacyjnym. Informacja o umieszczeniu na profilu informacyjnym decyzji, postanowienia, zawiadomienia, wezwania, informacji lub innego pisma w wymienionych sprawach może zostać przesłana przez Zakład Ubezpieczeń Społecznych na wskazany na profilu informacyjnym adres poczty elektronicznej lub numer telefonu.
+
+6. Decyzje, postanowienia, zawiadomienia, wezwania, informacje i inne pisma, o których mowa w ust. 5, opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo kwalifikowaną pieczęcią elektroniczną Zakładu Ubezpieczeń Społecznych, albo zamieszcza się w nich imię, nazwisko i stanowisko służbowe osoby upoważnionej do ich wydania.
 
 7. Decyzje, postanowienia, zawiadomienia, wezwania, informacje i inne pisma uznaje się za doręczone:
 
-- **1)** momencie ich odbioru na profilu informacyjnym;
-- **2)** po upływie 14 dni od dnia umieszczenia na profilu informacyjnym decyzji, postanowienia, zawiadomienia, wezwania, informacji lub innego pisma – przypadku ich nieodebrania.
+- **1)** w momencie ich odbioru na profilu informacyjnym;
+- **2)** po upływie 14 dni od dnia umieszczenia na profilu informacyjnym decyzji, postanowienia, zawiadomienia, wezwania, informacji lub innego pisma – w przypadku ich nieodebrania. Przychody z tytułu umorzenia, o którym mowa w art. 35f, nie stanowią przychodu w rozumieniu przepisów o podatku dochodowym od osób fizycznych oraz przepisów o podatku dochodowym od osób prawnych.
 
-**Art. 35i.** Przychody z tytułu umorzenia, którym mowa art. 35f, nie stanowią przychodu rozumieniu przepisów podatku dochodowym od osób fizycznych oraz przepisów podatku dochodowym od osób prawnych.
+1. Zakład Ubezpieczeń Społecznych przeprowadza kontrolę prawidłowości, rzetelności danych i oświadczeń przekazanych przez płatnika składek we wniosku o umorzenie. Przepisy rozdziału 10 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych stosuje się odpowiednio. W przypadku stwierdzenia nieprawidłowości Zakład Ubezpieczeń Społecznych wydaje decyzję, o której mowa w art. 35h ust. 2 pkt 3.
 
-**Art. 35j.**
+2. W celu realizacji obowiązku, o którym mowa w ust. 1, Zakład Ubezpieczeń Społecznych występuje do właściwego naczelnika urzędu skarbowego o potwierdzenie spadku przychodu poszkodowanego w wyniku wystąpienia powodzi płatnika składek z działalności gospodarczej lub z prowadzonej przez niego działalności, o której mowa w art. 22a ust. 1a.
 
-1. Zakład Ubezpieczeń Społecznych przeprowadza kontrolę prawidłowości, rzetelności danych i oświadczeń przekazanych przez płatnika składek we wniosku umorzenie. Przepisy rozdziału 10 ustawy z dnia 13 października 1998 r. systemie ubezpieczeń społecznych stosuje się odpowiednio. W przypadku stwierdzenia nieprawidłowości Zakład Ubezpieczeń Społecznych wydaje decyzję, której mowa art. 35h ust. 2 pkt 3.
+1. Skutki finansowe w wysokości umorzenia należności z tytułu składek na ubezpieczenia społeczne, o których mowa w art. 35f ust. 1, są finansowane w ramach dotacji z budżetu państwa do Funduszu Ubezpieczeń Społecznych, o której mowa w art. 53 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
 
-2. W celu realizacji obowiązku, którym mowa ust. 1, Zakład Ubezpieczeń Społecznych występuje do właściwego naczelnika urzędu skarbowego potwierdzenie spadku przychodu poszkodowanego wyniku wystąpienia powodzi płatnika składek z działalności gospodarczej lub z prowadzonej przez niego działalności, której mowa art. 22a ust. 1a.
-
-**Art. 35k.**
-
-1. Skutki finansowe wysokości umorzenia należności z tytułu składek na ubezpieczenia społeczne, których mowa art. 35f ust. 1, są finansowane ramach dotacji z budżetu państwa do Funduszu Ubezpieczeń Społecznych, której mowa art. 53 ustawy z dnia 13 października 1998 r. systemie ubezpieczeń społecznych.
-
-2. Skutki finansowe należne Narodowemu Funduszowi Zdrowia wysokości umorzenia należności z tytułu składek na ubezpieczenie zdrowotne, których mowa art. 35f ust. 1, są finansowane ze środków rezerwy celowej, której mowa art. 3 ust. 2, za pośrednictwem ministra właściwego do spraw zdrowia.”;
+2. Skutki finansowe należne Narodowemu Funduszowi Zdrowia w wysokości umorzenia należności z tytułu składek na ubezpieczenie zdrowotne, o których mowa w art. 35f ust. 1, są finansowane ze środków rezerwy celowej, o której mowa w art. 3 ust. 2, za pośrednictwem ministra właściwego do spraw zdrowia. ” ;
 
 - **28)** uchyla się art. 36b i art. 36c;
-- **29)** art. 39:
-    - **a)** ust. 5 otrzymuje brzmienie: „5. Wydanie decyzji środowiskowych uwarunkowaniach dla przedsięwzięć polegających na wykonaniu urządzeń wodnych lub robót, których mowa ust. 1–2, następuje zgodnie z przepisami ustawy z dnia 3 października 2008 r. udostępnianiu informacji środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz ocenach oddziaływania na środowisko (Dz. U. z 2024 r. poz. 1112), z wyłączeniem art. 74 ust. 1 pkt 5 i 6 oraz ust. 1a i art. 80 ust. 2 tej ustawy.”,
-    - **b)** uchyla się ust. 8 i 9;
+- **29)** w art. 39: ust. 5 otrzymuje brzmienie: „
+    - **a)**
 
-- **30)** art. 39a ust. 2 wyrazy „podmiotowi, którym mowa art. 4 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2024 r. poz. 34, 731 i 834)” zastępuje się wyrazami „użytkownikowi rządowemu, którym mowa art. 2 pkt 87 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221)”;
-- **31)** art. 39b wyrazy „ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne” zastępuje się wyrazami „ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej”;
-- **32)** po art. 39d dodaje się art. 39e i art. 39f brzmieniu: „Art. 39e. 1. W przypadku gdy termin realizacji obowiązku przeprowadzenia okresowej kontroli obiektu budowlanego, której mowa art. 62 ust. 1 pkt 1 i 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, przypada na dzień okresie obowiązywania stanu klęski żywiołowej i na obszarze, na którym wprowadzono ten stan, lub okresie 90 dni po zniesieniu tego stanu, a właściciel lub zarządca zapewnił przeprowadzenie kontroli obiektu, której mowa art. 62 ust. 1 pkt 4 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, termin ten ulega przedłużeniu jeden rok.
+5. Wydanie decyzji o środowiskowych uwarunkowaniach dla przedsięwzięć polegających na wykonaniu urządzeń wodnych lub robót, o których mowa w ust. 1–2, następuje zgodnie z przepisami ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2024 r. poz. 1112), z wyłączeniem art. 74 ust. 1 pkt 5 i 6 oraz ust. 1a i art. 80 ust. 2 tej ustawy. ” , uchyla się ust. 8 i 9;
 
-2. Przedłużenie terminu, którym mowa ust. 1, dotyczy zakresu kontroli okresowych objętych przeprowadzoną kontrolą bezpiecznego użytkowania obiektu.
+- **b)**
+- **30)** w art. 39a w ust. 2 wyrazy „podmiotowi, o którym mowa w art. 4 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2024 r. poz. 34, 731 i 834)” zastępuje się wyrazami „użytkownikowi rządowemu, o którym mowa w art. 2 pkt 87 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221)”;
+- **31)** w art. 39b wyrazy „ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne” zastępuje się wyrazami „ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej”;
+- **32)** po art. 39d dodaje się art. 39e i art. 39f w brzmieniu: „
 
-**Art. 39f.** Minister Obrony Narodowej, na wniosek wojewody, może udzielić organowi prowadzącemu placówkę opiekuńczo-wychowawczą, szkołę, przedszkole lub żłobek, a także podmiotowi prowadzącemu placówkę wsparcia dziennego, związku z likwidacją skutków powodzi, dotacji celowej na dofinansowanie zadań inwestycyjnych do wysokości 100 % kosztów realizacji tych zadań.”;
+**Art. 39e.**
 
-**Art. 40w.**
+1. W przypadku gdy termin realizacji obowiązku przeprowadzenia okresowej kontroli obiektu budowlanego, o której mowa w art. 62 ust. 1 pkt 1 i 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, przypada na dzień w okresie obowiązywania stanu klęski żywiołowej i na obszarze, na którym wprowadzono ten stan, lub w okresie 90 dni po zniesieniu tego stanu, a właściciel lub zarządca zapewnił przeprowadzenie kontroli obiektu, o której mowa w art. 62 ust. 1 pkt 4 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, termin ten ulega przedłużeniu o jeden rok.
 
-1. Państwowe Gospodarstwo Leśne Lasy Państwowe może, okresie wskazanym przepisach wydanych na podstawie art. 1 ust. 2, na wniosek wojewody, udzielać świadczeń rzeczowych polegających na:
+2. Przedłużenie terminu, o którym mowa w ust. 1, dotyczy zakresu kontroli okresowych objętych przeprowadzoną kontrolą bezpiecznego użytkowania obiektu. Minister Obrony Narodowej, na wniosek wojewody, może udzielić organowi prowadzącemu placówkę opiekuńczo-wychowawczą, szkołę, przedszkole lub żłobek, a także podmiotowi prowadzącemu placówkę wsparcia dziennego, w związku z likwidacją skutków powodzi, dotacji celowej na dofinansowanie zadań inwestycyjnych do wysokości 100 % kosztów realizacji tych zadań. ” ;
+
+- **33)** w art. 40 w ust. 2 skreśla się wyrazy „(Dz. U. z 2023 r. poz. 571)”;
+- **34)** po art. 40c dodaje się art. 40ca-40cc w brzmieniu: „ Art. 40ca. W przypadku przerwy w udzielaniu świadczeń opieki zdrowotnej będącej skutkiem powodzi, do której doszło na obszarze wskazanym w przepisach wydanych na podstawie art. 1 ust. 2, w okresie wskazanym w tych przepisach, przepisu art. 136c ust. 4 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych nie stosuje się. W przypadku przeniesienia pacjenta do objęcia opieką przez innego świadczeniodawcę realizującego umowę zawartą z Narodowym Funduszem Zdrowia będącego skutkiem powodzi, w okresie wskazanym w przepisach wydanych na podstawie art. 1 ust. 2, ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych i przepisów wydanych na podstawie tej ustawy dotyczących skierowań oraz list oczekujących na udzielenie świadczenia nie stosuje się. Gmina poszkodowana w wyniku wystąpienia powodzi, wskazana w przepisach wydanych na podstawie art. 1 ust. 2, albo gmina z nią sąsiadująca, może przeznaczyć dochody, o których mowa w art. 93 ust. 3 pkt 1, art. 111, art. 18 lub art. 181 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 2151), w okresie wskazanym w przepisach wydanych na podstawie art. 1 ust. 2, na zadania związane z przeciwdziałaniem skutkom powodzi negatywnie wpływającym na realizację gminnych programów profilaktyki i rozwiązywania problemów alkoholowych oraz przeciwdziałania narkomanii, o których mowa w art. 41 ust. 2 tej ustawy, w szczególności w placówkach wsparcia dziennego, o których mowa w art. 9 pkt 2 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, i w ośrodkach, o których mowa w art. 3 ust. 1 pkt 4 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej. ” ;
+- **35)** w art. 40i: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Na obszarze wskazanym w przepisach wydanych na podstawie art. 1 ust. 2, w okresie wskazanym w tych przepisach, podmioty wykonujące działalność leczniczą dotknięte skutkami powodzi mogą nie stosować wymagań określonych w przepisach wydanych na podstawie art. 22 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, jeżeli zapewniają bezpieczeństwo zdrowotne pacjentów. ” , ust. 3 otrzymuje brzmienie: „
+
+- **b)**
+
+3. Na terenie gmin wskazanych w przepisach wydanych na podstawie art. 1 ust. 2, w okresie wskazanym w tych przepisach, dopuszcza się by w lokalu apteki ogólnodostępnej, w której wystąpiły szkody spowodowane powodzią, były świadczone usługi farmaceutyczne, w szczególności w zakresie wydawania lub sporządzania produktów leczniczych lub wydawania innego asortymentu aptecznego, w sytuacji wyłączenia z użytkowania pomieszczeń apteki określonych w przepisach wydanych na podstawie art. 97 ust. 5 lub art. 98 ust. 5 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2024 r. poz. 686), innych niż izba ekspedycyjna i komora przyjęć, jeżeli we wszystkich niewyłączonych z użytkowania pomieszczeniach zostaną w tym okresie zachowane wymagania sanitarnohigieniczne zgodne z wymaganiami określonymi w przepisach wydanych na podstawie art. 95 ust. 4 tej ustawy, a o zamiarze działania apteki ogólnodostępnej w taki sposób zostanie uprzednio powiadomiony – przez podmiot prowadzący tę aptekę – wojewódzki inspektor farmaceutyczny właściwy ze względu na lokalizację danej apteki. ” , dodaje się ust. 4 w brzmieniu: „
+
+- **c)**
+
+4. Możliwość działania apteki ogólnodostępnej w sposób, o którym mowa w ust. 3, nie obejmuje przypadków, w których magazynowanie, sporządzanie lub przechowywanie produktów leczniczych, lub surowców farmaceutycznych, może następować zgodnie z przepisami wydanymi na podstawie art. 95 ust. 4 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne wyłącznie w pomieszczeniach, które zostały wyłączone z użytkowania lub z wykorzystaniem wyposażenia apteki ogólnodostępnej znajdującego się w tych pomieszczeniach. ” ;
+
+- **36)** w art. 40j: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. Do inwestycji, o której mowa w art. 95d ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, lub remontu, o którym mowa w art. 114 ust. 1 pkt 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, które są finansowane z:
+
+- **1)** dotacji celowej na realizację zadania, o którym mowa w art. 114 ust. 1 pkt 2 i 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej,
+- **2)** innego źródła niż wskazane w pkt 1 nie stosuje się, na warunkach i w okresie wskazanych w przepisach wydanych na podstawie art. 1 ust. 2, warunku uzyskania opinii o celowości inwestycji, w przypadku podmiotu wykonującego działalność leczniczą dotkniętego skutkami powodzi. ” , dodaje się ust. 3 w brzmieniu: „
+    - **b)**
+
+3. W przypadku, o którym mowa w ust. 2 pkt 2, warunkiem uzyskania finansowania z innego źródła, o którym mowa w tym przepisie, jest opinia wojewody właściwego ze względu na miejsce udzielania świadczeń opieki zdrowotnej. Opinia jest wydawana niezwłocznie po otrzymaniu wniosku podmiotu wykonującego działalność leczniczą dotkniętego skutkami powodzi. ” ;
+
+- **37)** w art. 40q dodaje się ust. 5 w brzmieniu: „
+
+5. Do zmian planu finansowego Funduszu Medycznego będących skutkiem realizacji przepisów ust. 1–4, nie stosuje się przepisów art. 29 ust. 12–15 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych. ” ;
+
+- **38)** w art. 40r w ust. 15 dodaje się zdanie drugie w brzmieniu: „ W celu sprawowania nadzoru wojewódzki inspektor ochrony środowiska może wykorzystywać dostęp do rejestrowanego obrazu w czasie rzeczywistym, o którym mowa w art. 25 ust. 6g ustawy z dnia 14 grudnia 2012 r. o odpadach. ” ;
+- **39)** w art. 40t wyrazy „, której termin przydatności do spożycia jest krótszy niż 30 dni mogą przed upływem tego terminu nieodpłatnie przekazać taką żywność” zastępuje się wyrazami „mogą nieodpłatnie przekazać taką żywność, z wyjątkiem łatwo psujących się produktów spożywczych,”;
+- **40)** po art. 40t dodaje się art. 40u-40y w brzmieniu: „
+
+1. Właściciel infrastruktury lub urządzeń służących do świadczenia usług telekomunikacyjnych, dostarczania energii elektrycznej, wody, ciepła, ropy naftowej, paliw lub gazu oraz odprowadzania ścieków, lub jego upoważniony przedstawiciel, którego infrastruktura lub urządzenia są zlokalizowane w gminie wskazanej w przepisach wydanych na podstawie art. 1 ust. 2 na terenie nieruchomości, w tym w budynku, należących do osób trzecich lub znajdujących się w posiadaniu osób trzecich, w okresie wskazanym w tych przepisach, może wnioskować do właściwego miejscowo komendanta Policji o asystę funkcjonariusza Policji, w celu umożliwienia wejścia lub wjazdu na teren nieruchomości, w tym do budynku, w celu przeprowadzenia czynności niezbędnych dla ciągłości świadczenia usług, w tym w zakresie prac budowlanych. W przypadku udzielenia asysty funkcjonariusza Policji jest ona udzielana niezwłocznie.
+
+2. Asysta funkcjonariusza Policji może zostać udzielona po przedstawieniu przez właściciela infrastruktury lub urządzeń, o których mowa w ust. 1, lub jego upoważnionego przedstawiciela, właściwemu miejscowo komendantowi Policji dowodów potwierdzających:
+
+- **1)** brak możliwości kontaktu z właścicielem, użytkownikiem wieczystym, użytkownikiem lub zarządcą nieruchomości, w tym budynku;
+- **2)** odmowę przez właściciela, użytkownika lub zarządcę nieruchomości wejścia lub wjazdu na teren nieruchomości, w tym budynku;
+- **3)** niezbędność zapewnienia funkcjonowania infrastruktury lub urządzeń, o których mowa w ust. 1, w celu zaspokajania zbiorowych potrzeb mieszkańców gminy, bezpieczeństwa państwa i jego obywateli oraz służących zapewnieniu sprawnego funkcjonowania organów administracji publicznej.
+
+3. Funkcjonariusz Policji asystując przy wykonywaniu czynności, o których mowa w ust. 1, zapewnia bezpieczeństwo uczestnikom czynności, mając w szczególności na względzie poszanowanie godności osób biorących udział w tych czynnościach oraz zapewnia zachowanie porządku.
+
+4. Z czynności, o których mowa w ust. 1, jest sporządzany protokół, który zawiera:
+
+- **1)** miejsce i termin przeprowadzenia czynności;
+- **2)** uzasadnienie konieczności przeprowadzenia czynności;
+- **3)** wskazanie okoliczności udzielenia asysty funkcjonariusza Policji, o których mowa w ust. 2;
+- **4)** opis przeprowadzonych czynności.
+
+5. Protokół podpisują właściciel infrastruktury lub urządzeń, o których mowa w ust. 1, lub jego upoważniony przedstawiciel oraz funkcjonariusz Policji.
+
+6. Właściciel infrastruktury lub urządzeń wskazanych w ust. 1, po zakończeniu czynności, o których mowa w ust. 1, jest obowiązany do:
+
+- **1)** zabezpieczenia nieruchomości, w tym budynku, przed dostępem osób niepowołanych;
+- **2)** przekazania właścicielowi, użytkownikowi lub zarządcy nieruchomości, w tym budynku, kopii protokołu, o którym mowa w ust. 4, w terminie 7 dni od dnia jego podpisania;
+- **3)** naprawienia szkody, która powstała w związku z przeprowadzonymi czynnościami.
+
+1. Państwowe Gospodarstwo Leśne Lasy Państwowe może, w okresie wskazanym w przepisach wydanych na podstawie art. 1 ust. 2, na wniosek wojewody, udzielać świadczeń rzeczowych polegających na:
 
 - **1)** użyczeniu posiadanych rzeczy ruchomych,
-- **2)** nieodpłatnym przekazaniu drewna – zakresie, jakim jest to niezbędne do usuwania skutków powodzi.
+- **2)** nieodpłatnym przekazaniu drewna w zakresie, w jakim jest to niezbędne do usuwania skutków powodzi.
 
-2. W terminie 3 dni od dnia wejścia życie przepisów wydanych na podstawie art. 1 ust. 2 Państwowe Gospodarstwo Leśne Lasy Państwowe przekazuje wojewodzie informację posiadanych rzeczach ruchomych, które mogą zostać użyczone, oraz ilości drewna możliwego do przekazania, na potrzeby usuwania skutków powodzi. Państwowe Gospodarstwo Leśne Lasy Państwowe aktualizuje na bieżąco informację przekazywaną wojewodzie, zależności od dostępności posiadanych rzeczy ruchomych i drewna.
+2. W terminie 3 dni od dnia wejścia w życie przepisów wydanych na podstawie art. 1 ust. 2 Państwowe Gospodarstwo Leśne Lasy Państwowe przekazuje wojewodzie informację o posiadanych rzeczach ruchomych, które mogą zostać użyczone, oraz o ilości drewna możliwego do przekazania, na potrzeby usuwania skutków powodzi. Państwowe Gospodarstwo Leśne Lasy Państwowe aktualizuje na bieżąco informację przekazywaną wojewodzie, w zależności od dostępności posiadanych rzeczy ruchomych i drewna.
 
-3. Wniosek wojewody, którym mowa ust. 1, zawiera wskazanie:
+3. Wniosek wojewody, o którym mowa w ust. 1, zawiera wskazanie:
 
-- **1)** objętych informacją, której mowa ust. 2:
-    - **a)** rzeczy ruchomych podlegających użyczeniu,
-    - **b)** ilości drewna podlegającego nieodpłatnemu przekazaniu;
+- **1)** objętych informacją, o której mowa w ust. 2: rzeczy ruchomych podlegających użyczeniu, ilości drewna podlegającego nieodpłatnemu przekazaniu;
+    - **a)**
+    - **b)**
 
 - **2)** podmiotów, którym, odpowiednio, rzeczy ruchome zostaną użyczone lub drewno nieodpłatnie przekazane.
 
-4. Państwowe Gospodarstwo Leśne Lasy Państwowe przekazuje ministrowi właściwemu do spraw środowiska miesięczną informację rodzaju i liczbie użyczonych rzeczy ruchomych oraz ilości nieodpłatnie przekazanego drewna, objętych wnioskiem wojewody, którym mowa ust. 1, do końca miesiąca następującego po miesiącu, za który jest składana ta informacja.
+4. Państwowe Gospodarstwo Leśne Lasy Państwowe przekazuje ministrowi właściwemu do spraw środowiska miesięczną informację o rodzaju i liczbie użyczonych rzeczy ruchomych oraz o ilości nieodpłatnie przekazanego drewna, objętych wnioskiem wojewody, o którym mowa w ust. 1, do końca miesiąca następującego po miesiącu, za który jest składana ta informacja.
 
-**Art. 40x.**
+1. Drzewo lub krzew, które stwarza zagrożenie złomem lub wywrotem w wyniku wystąpienia powodzi, na obszarze i w terminie wskazanych w przepisach wydanych na podstawie art. 1 ust. 2, może być usunięte przez:
 
-1. Drzewo lub krzew, które stwarza zagrożenie złomem lub wywrotem wyniku wystąpienia powodzi, na obszarze i terminie wskazanych przepisach wydanych na podstawie art. 1 ust. 2, może być usunięte przez:
-
-- **1)** jednostki ochrony przeciwpożarowej, jednostki Sił Zbrojnych Rzeczypospolitej Polskiej, właścicieli urządzeń, których mowa art. 49 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237), zarządców dróg, zarządców infrastruktury kolejowej, gminne lub powiatowe jednostki oczyszczania lub inne podmioty działające tym zakresie na zlecenie gminy lub powiatu;
+- **1)** jednostki ochrony przeciwpożarowej, jednostki Sił Zbrojnych Rzeczypospolitej Polskiej, właścicieli urządzeń, o których mowa w art. 49 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237), zarządców dróg, zarządców infrastruktury kolejowej, gminne lub powiatowe jednostki oczyszczania lub inne podmioty działające w tym zakresie na zlecenie gminy lub powiatu;
 - **2)** inne podmioty lub osoby, po potwierdzeniu istnienia tego zagrożenia oraz braku rozwiązań alternatywnych przez organ właściwy do wydania zezwolenia na usunięcie drzewa lub krzewu; potwierdzenia dokonuje się na podstawie dokumentacji fotograficznej i oględzin.
 
-2. W przypadkach, których mowa ust. 1 pkt 1, podmioty określone tych przepisach, terminie 30 dni od dnia usunięcia drzewa lub krzewu, przekazują do organu właściwego do wydania zezwolenia na usunięcie drzewa lub krzewu pisemną informację terminie, miejscu i przyczynie ich usunięcia oraz liczbie drzew lub powierzchni usuniętych krzewów, a także dokumentację fotograficzną przedstawiającą przeznaczone do usunięcia drzewo lub krzew.
+2. W przypadkach, o których mowa w ust. 1 pkt 1, podmioty określone w tych przepisach, w terminie 30 dni od dnia usunięcia drzewa lub krzewu, przekazują do organu właściwego do wydania zezwolenia na usunięcie drzewa lub krzewu pisemną informację o terminie, miejscu i przyczynie ich usunięcia oraz liczbie drzew lub powierzchni usuniętych krzewów, a także dokumentację fotograficzną przedstawiającą przeznaczone do usunięcia drzewo lub krzew.
 
-3. W przypadkach, których mowa ust. 1 pkt 2, organ właściwy do wydania zezwolenia na usunięcie drzewa lub krzewu sporządza protokół. W protokole podaje się szczególności informację terminie, miejscu i przyczynie zamierzonego usunięcia drzewa lub krzewu oraz liczbie drzew lub powierzchni przeznaczonych do usunięcia krzewów oraz dołącza się dokumentację fotograficzną przedstawiającą przeznaczone do usunięcia drzewo lub krzew.
+3. W przypadkach, o których mowa w ust. 1 pkt 2, organ właściwy do wydania zezwolenia na usunięcie drzewa lub krzewu sporządza protokół. W protokole podaje się w szczególności informację o terminie, miejscu i przyczynie zamierzonego usunięcia drzewa lub krzewu oraz liczbie drzew lub powierzchni przeznaczonych do usunięcia krzewów oraz dołącza się dokumentację fotograficzną przedstawiającą przeznaczone do usunięcia drzewo lub krzew.
 
-4. Protokół oraz dokumentację, których mowa ust. 2 i 3, organ właściwy do wydania zezwolenia na usunięcie drzewa lub krzewu przechowuje przez okres 5 lat od końca roku, którym usunięto drzewo lub krzew.
+4. Protokół oraz dokumentację, o których mowa w ust. 2 i 3, organ właściwy do wydania zezwolenia na usunięcie drzewa lub krzewu przechowuje przez okres 5 lat od końca roku, w którym usunięto drzewo lub krzew.
 
-**Art. 40y.**
+1. Na wniosek warsztatu terapii zajęciowej, który prowadzi działalność na terenie dotkniętym wystąpieniem powodzi, wojewoda, w okresie wskazanym w przepisach wydanych na podstawie art. 1 ust. 2, może wydać podmiotowi prowadzącemu warsztat terapii zajęciowej, o którym mowa w art. 10b ust. 1 ustawy o rehabilitacji, polecenie zawieszenia zajęć na czas oznaczony, w związku z usuwaniem skutków powodzi.
 
-1. Na wniosek warsztatu terapii zajęciowej, który prowadzi działalność na terenie dotkniętym wystąpieniem powodzi, wojewoda, okresie wskazanym przepisach wydanych na podstawie art. 1 ust. 2, może wydać podmiotowi prowadzącemu warsztat terapii zajęciowej, którym mowa art. 10b ust. 1 ustawy rehabilitacji, polecenie zawieszenia zajęć na czas oznaczony, związku z usuwaniem skutków powodzi.
+2. Dofinansowanie ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych kosztów uczestnictwa w warsztacie terapii zajęciowej nie ulega obniżeniu, w związku z zawieszeniem zajęć, o którym mowa w ust. 1.
 
-2. Dofinansowanie ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych kosztów uczestnictwa warsztacie terapii zajęciowej nie ulega obniżeniu, związku z zawieszeniem zajęć, którym mowa ust. 1. art. 10b ust. 7 ustawy rehabilitacji, krótszego niż 35 godzin tygodniowo wymiaru zajęć warsztacie terapii zajęciowej, z powodu usuwania skutków powodzi, nie zmniejsza wysokości dofinansowania działalności tego warsztatu.
+3. Na terenie dotkniętym wystąpieniem powodzi ustalenie, zgodnie z przepisami wydanymi na podstawie art. 10b ust. 7 ustawy o rehabilitacji, krótszego niż 35 godzin tygodniowo wymiaru zajęć w warsztacie terapii zajęciowej, z powodu usuwania skutków powodzi, nie zmniejsza wysokości dofinansowania działalności tego warsztatu.
 
-4. Na terenie dotkniętym wystąpieniem powodzi przekroczenie wymiaru dopuszczalnej nieobecności uczestnika warsztatu terapii zajęciowej na zajęciach, z powodu usuwania skutków powodzi, nie może stanowić podstawy do wykreślenia tego uczestnika z listy uczestników warsztatu terapii zajęciowej.”;
+4. Na terenie dotkniętym wystąpieniem powodzi przekroczenie wymiaru dopuszczalnej nieobecności uczestnika warsztatu terapii zajęciowej na zajęciach, z powodu usuwania skutków powodzi, nie może stanowić podstawy do wykreślenia tego uczestnika z listy uczestników warsztatu terapii zajęciowej. ” ;
 
-- **41)** art. 43 ust. 1 wyrazy „50 000 zł” zastępuje się wyrazami „200 000 zł”.
+- **41)** w art. 43 w ust. 1 wyrazy „50 000 zł” zastępuje się wyrazami „200 000 zł”.
 
-**Art. 2.** W ustawie z dnia 6 kwietnia 1990 r. Policji (Dz. U. z 2024 r. poz. 145, z późn. zm. ) art. 71e uchyla się ust. 2.
+**Art. 2.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2024 r. poz. 145, z późn. zm.) w art. 71e uchyla się ust. 2. W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2024 r. poz. 915, z późn. zm.) w art. 75d uchyla się ust. 2.
 
-**Art. 3.** W ustawie z dnia 12 października 1990 r. Straży Granicznej (Dz. U. z 2024 r. poz. 915, z późn. zm. ) art. 75d uchyla się ust. 2.
+**Art. 4.** W ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2024 r. poz. 1443 i 1473) w art. 59d uchyla się ust. 2.
 
-**Art. 4.** W ustawie z dnia 24 sierpnia 1991 r. Państwowej Straży Pożarnej (Dz. U. z 2024 r. poz. 1443 i 1473) art. 59d uchyla się ust. 2.
+**Art. 5.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2023 r. poz. 2805, z późn. zm.) w art. 17 w ust. 1 po pkt 40 dodaje się pkt 40a w brzmieniu: „
 
-**Art. 5.** W ustawie z dnia 15 lutego 1992 r. podatku dochodowym od osób prawnych (Dz. U. z 2023 r. poz. 2805, z późn. zm. ) art. 17 ust. 1 po pkt 40 dodaje się pkt 40a brzmieniu: „40a) dochody z darowizn otrzymanych przez samorząd zawodowy od innego podatnika będącego samorządem zawodowym części przeznaczonej na pomoc dla członków tego samorządu zawodowego przekazywaną na likwidację szkód powstałych wyniku powodzi, związku z którą wprowadzono stan klęski żywiołowej;”.
+- **40a)** dochody z darowizn otrzymanych przez samorząd zawodowy od innego podatnika będącego samorządem zawodowym w części przeznaczonej na pomoc dla członków tego samorządu zawodowego przekazywaną na likwidację szkód powstałych w wyniku powodzi, w związku z którą wprowadzono stan klęski żywiołowej; ” .
 
-**Art. 6.** W ustawie z dnia 13 września 1996 r. utrzymaniu czystości i porządku gminach (Dz. U. z 2024 r. poz. 399) po art. 12a dodaje się art. 12b brzmieniu: „Art. 12b. 1. Kary pieniężne, których mowa art. 9x ust. 2 pkt 1 i 2, art. 9y ust. 2 pkt 1 i 2 oraz art. 9z ust. 2a pkt 1 i 2, oblicza się za 2024 r. i 2025 r. jako połowę iloczynu jednostkowej stawki opłaty za umieszczenie niesegregowanych (zmieszanych) odpadów komunalnych na składowisku, określonej przepisach wydanych na podstawie art. 290 ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, i brakującej masy odpadów komunalnych wyrażonej Mg, wymaganej do osiągnięcia odpowiedniego poziomu przygotowania do ponownego użycia i recyklingu odpadów komunalnych lub ograniczenia masy odpadów komunalnych ulegających biodegradacji przekazywanych do składowania. 2. Kary pieniężne, których mowa art. 9x ust. 2 pkt 3, art. 9y ust. 2 pkt 3 oraz art. 9z ust. 2a pkt 3, oblicza się za 2025 r. jako połowę iloczynu jednostkowej stawki opłaty za umieszczenie niesegregowanych (zmieszanych) odpadów komunalnych na składowisku, określonej przepisach wydanych na podstawie art. 290 ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, i masy składowanych odpadów komunalnych przekraczającej poziom składowania wyrażonej Mg.”.
+**Art. 6.** W ustawie z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2024 r. poz. 399) po art. 12a dodaje się art. 12b w brzmieniu: „
 
-**Art. 7.** W ustawie z dnia 21 sierpnia 1997 r. gospodarce nieruchomościami (Dz. U. z 2024 r. poz. 1145 i 1222) wprowadza się następujące zmiany:
+**Art. 12b.**
 
-**Art. 8.** W ustawie z dnia 11 sierpnia 2001 r. szczególnych zasadach odbudowy, remontów i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych wyniku działania żywiołu (Dz. U. z 2024 r. poz. 1190 i 1473) wprowadza się następujące zmiany:
+1. Kary pieniężne, o których mowa w art. 9x ust. 2 pkt 1 i 2, art. 9y ust. 2 pkt 1 i 2 oraz art. 9z ust. 2a pkt 1 i 2, oblicza się za 2024 r. i 2025 r. jako połowę iloczynu jednostkowej stawki opłaty za umieszczenie niesegregowanych (zmieszanych) odpadów komunalnych na składowisku, określonej w przepisach wydanych na podstawie art. 290 ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, i brakującej masy odpadów komunalnych wyrażonej w Mg, wymaganej do osiągnięcia odpowiedniego poziomu przygotowania do ponownego użycia i recyklingu odpadów komunalnych lub ograniczenia masy odpadów komunalnych ulegających biodegradacji przekazywanych do składowania.
 
-**Art. 9.** W ustawie z dnia 18 kwietnia 2002 r. stanie klęski żywiołowej (Dz. U. z 2017 r. poz. 1897) wprowadza się następujące zmiany:
+2. Kary pieniężne, o których mowa w art. 9x ust. 2 pkt 3, art. 9y ust. 2 pkt 3 oraz art. 9z ust. 2a pkt 3, oblicza się za 2025 r. jako połowę iloczynu jednostkowej stawki opłaty za umieszczenie niesegregowanych (zmieszanych) odpadów komunalnych na składowisku, określonej w przepisach wydanych na podstawie art. 290 ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, i masy składowanych odpadów komunalnych przekraczającej poziom składowania wyrażonej w Mg. ” . W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2024 r. poz. 1145 i 1222) wprowadza się następujące zmiany:
 
-**Art. 10.** W ustawie z dnia 17 lutego 2005 r. informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557) po art. 19a dodaje się art. 19aa–19ac brzmieniu: „Art. 19aa. Minister właściwy do spraw informatyzacji może, przy wykorzystaniu systemów teleinformatycznych tego ministra, udostępniać usługi online celu umożliwienia temu ministrowi oraz innym podmiotom publicznym obsługi drogą elektroniczną podań, tym wniosków, określonych przepisach odrębnych, jeżeli przepisy te nie wykluczają przesyłania dokumentów drogą elektroniczną. Art. 19ab. Minister właściwy do spraw informatyzacji może, przy wykorzystaniu systemów teleinformatycznych tego ministra udostępniać usługi online polegające na zapewnieniu możliwości wykonywania przez ministrów kierujących odpowiednimi działami administracji rządowej zadań związanych z:
+- **1)** w art. 10 w ust. 5 uchyla się zdanie drugie;
+- **2)** w art. 69a po ust. 1 dodaje się ust. 1a w brzmieniu: „
 
-**Art. 11.** W ustawie z dnia 6 grudnia 2006 r. zasadach prowadzenia polityki rozwoju (Dz. U. z 2024 r. poz. 324 i 862) wprowadza się następujące zmiany:
+1a. Udzielenie pomocy publicznej wymaga spełnienia warunków udzielenia pomocy de minimis określonych we właściwych przepisach prawa Unii Europejskiej dotyczących pomocy de minimis . ” . W ustawie z dnia 11 sierpnia 2001 r. o szczególnych zasadach odbudowy, remontów i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych w wyniku działania żywiołu (Dz. U. z 2024 r. poz. 1190 i 1473) wprowadza się następujące zmiany:
+
+- **1)** po art. 3 dodaje się art. 3a w brzmieniu: „ Do odbudowy dróg publicznych zniszczonych lub uszkodzonych w wyniku działania żywiołu nie stosuje się przepisów techniczno-budowlanych, o których mowa w art. 7 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, które uniemożliwiłyby odtworzenie drogi publicznej o wymiarach drogi zniszczonej lub uszkodzonej w dotychczasowym przebiegu. ” ;
+- **2)** w art. 4 uchyla się pkt 2;
+- **3)** po art. 5 dodaje się art. 5a w brzmieniu: „ W stosunku do obiektów budowlanych zniszczonych w wyniku działania żywiołu, z wyjątkiem budowli regulacyjnych na wodach oraz urządzeń wodnych, przepisów art. 74, art. 75 ust. 1 pkt 2 i ust. 2, art. 76 ust. 1–3 oraz art. 76a-79 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane nie stosuje się. ” ;
+- **4)** art. 6 otrzymuje brzmienie: „
+
+1. Nie wymaga uzyskania pozwolenia na budowę oraz zgłoszenia właściwemu organowi administracji architektoniczno-budowlanej remont uszkodzonych w wyniku działania żywiołu obiektów budowlanych, z zastrzeżeniem ust. 2.
+
+2. Remont obiektów budowlanych wpisanych do rejestru zabytków wymaga zgłoszenia właściwemu organowi administracji architektoniczno-budowlanej. ” ;
+
+- **5)** w art. 7: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Nie wymaga uzyskania pozwolenia na budowę oraz zgłoszenia właściwemu organowi administracji architektoniczno-budowlanej odbudowa zniszczonych w wyniku działania żywiołu:
+
+- **1)** budowli regulacyjnych na wodach oraz urządzeń wodnych;
+- **2)** obiektów budowlanych lub obiektów liniowych w zakresie infrastruktury telekomunikacyjnej o nieznacznym oddziaływaniu w rozumieniu art. 2 ust. 1 pkt 4 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych lub w zakresie infrastruktury technicznej, o której mowa w art. 2 ust. 1 pkt 6 tej ustawy;
+- **3)** obiektów budowlanych, o których mowa w art. 29 ust. 1 pkt 27 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, lub przyłączy telekomunikacyjnych;
+- **4)** obiektów budowlanych wymienionych w ust. 2 w przypadku obiektów gospodarczych i składowych, usytuowanych na działkach siedliskowych. ” , uchyla się ust. 1a, ust. 2 otrzymuje brzmienie: „
+    - **b)**
+    - **c)**
+
+2. Nie wymaga uzyskania pozwolenia na budowę, natomiast wymaga zgłoszenia właściwemu organowi administracji architektoniczno-budowlanej, odbudowa zniszczonych w wyniku działania żywiołu:
+
+- **1)** obiektów liniowych;
+- **2)** obiektów budowlanych o kubaturze nie większej niż 2000 m3. ” , ust. 3a i 4 otrzymują brzmienie: „
+    - **d)**
+
+3a. W przypadku odbudowy, o której mowa w art. 6a i art. 7 ust. 1 pkt 2 i 3, przepisów art. 29 ust. 6 i 7 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane nie stosuje się.
+
+4. Inwestor zamiast dokonania zgłoszenia dotyczącego odbudowy, o której mowa w ust. 2, może wystąpić z wnioskiem o wydanie decyzji o pozwoleniu na budowę. ” ;
+
+- **6)** w art. 7a wyrazy „art. 7 ust. 1a” zastępuje się wyrazami „art. 7 ust. 1 pkt 2 i 3”;
+- **7)** w art. 8: ust. 1a otrzymuje brzmienie: „
+    - **a)**
+
+1a. Do zgłoszenia odbudowy obiektu budowlanego:
+
+- **1)** o której mowa w art. 4 pkt 1 lit. b,
+- **2)** o kubaturze nie większej niż 2000 m3iwiększej niż 1000 m3,
+- **3)** o kubaturze nie większej niż 1000 m3io wysokości większej niż 12 m nad poziomem terenu w miejsce szkicu lub rysunku dołącza się projekt zagospodarowania działki lub terenu oraz projekt architektoniczno-budowlany sporządzony w sposób, który nie narusza ustaleń aktów prawa miejscowego. ” , uchyla się ust. 2b, w ust. 3 zdanie drugie otrzymuje brzmienie: „ Do wykonania robót budowlanych można przystąpić, jeżeli w terminie 7 dni od dnia doręczenia zgłoszenia organ administracji architektoniczno-budowlanej nie wniósł, w drodze decyzji, sprzeciwu. ” , dodaje się ust. 5 i 6 w brzmieniu: „
+    - **b)**
+    - **c)**
+    - **d)**
+
+5. Nie wymaga uzyskania pozwolenia na rozbiórkę oraz zgłoszenia właściwemu organowi administracji architektoniczno-budowlanej rozbiórka:
+
+- **1)** budynków mieszkalnych jednorodzinnych nieobjętych formami ochrony konserwatorskiej, o których mowa w art. 7 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292),
+- **2)** budynków i budowli, nieobjętych formami ochrony konserwatorskiej, o których mowa w art. 7 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, o wysokości poniżej 8 m, jeżeli ich odległość od granicy działki jest nie mniejsza niż połowa wysokości zniszczonych w wyniku działania żywiołu.
+
+6. O przystąpieniu do rozbiórki, o której mowa w ust. 5, inwestor informuje, w terminie 7 dni od dnia rozpoczęcia robót, właściwy organ administracji architektoniczno-budowlanej. ” ;
+
+- **8)** w art. 9 w ust. 2: pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** zgodę właściciela obiektu budowlanego lub jej kopię; ” , pkt 5 otrzymuje brzmienie: „
+    - **b)**
+
+- **5)** projekt rozbiórki lub jego kopię – w zależności od potrzeb; ” , dodaje się pkt 6 w brzmieniu: „
+    - **c)**
+
+- **6)** w odniesieniu do obiektu budowlanego wpisanego do rejestru zabytków – decyzję Generalnego Konserwatora Zabytków działającego w imieniu ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego o skreśleniu tego obiektu z rejestru zabytków. ” ;
+- **9)** w art. 12: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Do użytkowania obiektu budowlanego, na odbudowę którego jest wymagane uzyskanie pozwolenia na budowę lub zgłoszenie, o którym mowa w art. 8 ust. 1a, można przystąpić niezwłocznie po zawiadomieniu właściwego organu nadzoru budowlanego o zakończeniu odbudowy. ” , w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) oryginał dziennika budowy prowadzonego w postaci papierowej, a w przypadku prowadzenia dziennika budowy w postaci elektronicznej – numer tego dziennika, o którym mowa w art. 47h ust. 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane; ” , – pkt 3 otrzymuje brzmienie: „ 3) protokoły badań i sprawdzeń: a) przyłączy i instalacji, zapewniających użytkowanie obiektu budowlanego zgodnie z przeznaczeniem, sporządzone przez osoby posiadające uprawnienia budowlane w odpowiedniej specjalności lub osoby, o których mowa w art. 62 ust. 6 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, b) o których mowa w art. 14 ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2024 r. poz. 1194), o ile dotyczy; ” , dodaje się ust. 3 w brzmieniu: „
+
+- **b)**
+- **c)**
+
+3. Do zawiadomienia o zakończeniu odbudowy, zamiast oryginałów, można dołączyć kopie dokumentów, o których mowa w ust. 2 pkt 2–4. ” ;
+
+- **10)** po art. 12 dodaje się art. 12a w brzmieniu: „ Wnioski, zgłoszenia i zawiadomienia oraz inne dokumenty, o których mowa w ustawie, mogą być kierowane do organów administracji publicznej za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513). ” .
+
+**Art. 9.** W ustawie z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej (Dz. U. z 2017 r. poz. 1897) wprowadza się następujące zmiany:
+
+- **1)** w art. 23 po ust. 2 dodaje się ust. 2a w brzmieniu: „
+
+2a. O wydaniu rozporządzenia, zarządzenia lub decyzji, o których mowa w ust. 1, niezwłocznie informuje się właściwego miejscowo komendanta wojewódzkiego Policji lub Komendanta Stołecznego Policji, właściwego miejscowo komendanta wojewódzkiego Państwowej Straży Pożarnej oraz właściwego miejscowo komendanta oddziału Straży Granicznej. ” ;
+
+- **2)** po art. 27 dodaje się art. 27a w brzmieniu: „ Kto w związku z wprowadzeniem stanu klęski żywiołowej, wiedząc, że zagrożenie nie istnieje, publicznie rozpowszechnia informację mającą wywołać przekonanie o istnieniu zdarzenia, które zagraża życiu lub zdrowiu wielu osób lub mieniu w znacznych rozmiarach lub stwarza sytuację mającą wywołać przekonanie o istnieniu takiego zagrożenia, podlega grzywnie albo karze ograniczenia wolności do roku. ” .
+
+**Art. 10.** W ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557) po art. 19a dodaje się art. 19aa-19ac w brzmieniu: „ Art. 19aa. Minister właściwy do spraw informatyzacji może, przy wykorzystaniu systemów teleinformatycznych tego ministra, udostępniać usługi online w celu umożliwienia temu ministrowi oraz innym podmiotom publicznym obsługi drogą elektroniczną podań, w tym wniosków, określonych w przepisach odrębnych, jeżeli przepisy te nie wykluczają przesyłania dokumentów drogą elektroniczną. Minister właściwy do spraw informatyzacji może, przy wykorzystaniu systemów teleinformatycznych tego ministra udostępniać usługi online polegające na zapewnieniu możliwości wykonywania przez ministrów kierujących odpowiednimi działami administracji rządowej zadań związanych z:
+
+- **1)** zapewnieniem bezpieczeństwa i porządku publicznego;
+- **2)** ochroną przeciwpożarową i przeciwpowodziową;
+- **3)** ochroną zdrowia i życia;
+- **4)** zabezpieczeniem społecznym;
+- **5)** organizacją ruchu drogowego;
+- **6)** zbiorowym zaopatrzeniem w wodę;
+- **7)** usuwaniem i oczyszczaniem ścieków komunalnych;
+- **8)** utrzymaniem czystości i porządku urządzeń sanitarnych oraz wysypisk i unieszkodliwianiem odpadów komunalnych;
+- **9)** zaopatrzeniem w gaz, energię elektryczną oraz cieplną;
+- **10)** telekomunikacją;
+- **11)** publicznym transportem zbiorowym;
+- **12)** ochroną środowiska.
+
+1. W zakresie niezbędnym do realizacji usług online, o których mowa w art. 19aa i art. 19ab, następuje wymiana danych między systemami teleinformatycznymi ministra właściwego do spraw informatyzacji a systemami teleinformatycznymi właściwego ministra kierującego odpowiednim działem administracji rządowej.
+
+2. Minister właściwy do spraw informatyzacji zapewnia utrzymanie i rozwój usług online, o których mowa w ust. 1, w tym zapewnia:
+
+- **1)** ochronę przed nieuprawnionym dostępem;
+- **2)** rozliczalność działań dokonywanych na danych przetwarzanych w danej usłudze online.
+
+3. Minister właściwy do spraw informatyzacji zawiera z podmiotami, o których mowa w art. 19aa, lub z ministrami, o których mowa w art. 19ab, porozumienia określające:
+
+- **1)** szczegółowy sposób udostępniania usług online;
+- **2)** zakres danych udostępnianych na potrzeby realizacji danej usługi online, a także sposób i tryb ich udostępniania;
+- **3)** okres realizacji usług online. ” .
+
+**Art. 11.** W ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2024 r. poz. 324 i 862) wprowadza się następujące zmiany:
+
+- **1)** po art. 3b dodaje się art. 3c w brzmieniu: „
+
+1. W zakresie, w jakim wykorzystanie środków, o których mowa w art. 3b wiąże się z udzielaniem pomocy publicznej w rozumieniu art. 107 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej lub pomocy de minimis , zastosowanie mają szczegółowe warunki i tryb udzielania pomocy.
+
+2. Minister właściwy do spraw rozwoju regionalnego może określić, w drodze rozporządzenia, szczegółowe przeznaczenie, warunki i tryb udzielania pomocy, o której mowa w ust. 1, a także podmioty udzielające tej pomocy, uwzględniając konieczność zapewnienia zgodności tej pomocy z rynkiem wewnętrznym, efektywnego i skutecznego jej wykorzystania oraz przejrzystości jej udzielania, w przypadku gdy przepisy odrębne nie określają szczegółowego przeznaczenia, warunków lub trybu udzielania tej pomocy.
+
+3. Szczegółowe przeznaczenie, warunki i tryb udzielania pomocy, o której mowa w ust. 1, nieobjętej przepisami, o których mowa w ust. 2, lub innymi przepisami określa akt będący podstawą jej udzielenia. ” ;
+
+- **2)** po rozdziale 6 dodaje się rozdział 6a w brzmieniu: „
+
+#### Rozdział 6a Przepisy epizodyczne
 
 **Art. 50a.**
 
-1. W okresie 12 miesięcy od dnia wejścia życie niniejszego artykułu, przypadku gdy celu przeciwdziałania skutkom powodzi jest konieczne dokonanie zmiany programu rozumieniu art. 2 pkt 20 ustawy z dnia 28 kwietnia 2022 r. zasadach realizacji zadań finansowanych ze środków europejskich perspektywie finansowej 2021–2027, opracowanego przez:
+1. W okresie 12 miesięcy od dnia wejścia w życie niniejszego artykułu, w przypadku gdy w celu przeciwdziałania skutkom powodzi jest konieczne dokonanie zmiany programu w rozumieniu art. 2 pkt 20 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027, opracowanego przez:
 
-- **1)** ministra właściwego do spraw rozwoju regionalnego – zmianę programu przyjmuje Rada Ministrów, drodze uchwały, przed skierowaniem do przyjęcia przez Komisję Europejską;
-- **2)** zarząd województwa – zmianę programu przyjmuje zarząd województwa, drodze uchwały, po uzyskaniu opinii ministra właściwego do spraw rozwoju regionalnego, przed skierowaniem do przyjęcia przez Komisję Europejską.
+- **1)** ministra właściwego do spraw rozwoju regionalnego – zmianę programu przyjmuje Rada Ministrów, w drodze uchwały, przed skierowaniem do przyjęcia przez Komisję Europejską;
+- **2)** zarząd województwa – zmianę programu przyjmuje zarząd województwa, w drodze uchwały, po uzyskaniu opinii ministra właściwego do spraw rozwoju regionalnego, przed skierowaniem do przyjęcia przez Komisję Europejską.
 
-2. Uchwała, której mowa ust. 1 pkt 1, jest podejmowana na wniosek ministra właściwego do spraw rozwoju regionalnego, kierowany bezpośrednio do sekretarza Rady Ministrów.
+2. Uchwała, o której mowa w ust. 1 pkt 1, jest podejmowana na wniosek ministra właściwego do spraw rozwoju regionalnego, kierowany bezpośrednio do sekretarza Rady Ministrów.
 
-3. Do zmiany, której mowa ust. 1, nie stosuje się przepisów:
+3. Do zmiany, o której mowa w ust. 1, nie stosuje się przepisów:
 
 - **1)** art. 14g ust. 1 pkt 4, art. 14k, art. 14ka ust. 2–6 i art. 18 pkt 1;
-- **2)** art. 46–49 ustawy z dnia 3 października 2008 r. udostępnianiu informacji środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz ocenach oddziaływania na środowisko.
+- **2)** art. 46–49 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko. Przepisy wykonawcze wydane na podstawie art. 3c ust. 2 stosuje się do dnia 31 grudnia 2026 r. ” . W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530 i 1572) po art. 257 dodaje się art. 257a w brzmieniu: „
 
-**Art. 50b.** Przepisy wykonawcze wydane na podstawie art. 3c ust. 2 stosuje się do dnia 31 grudnia 2026 r.”.
+**Art. 257a.** Na obszarze objętym stanem klęski żywiołowej, stanem epidemii lub stanem zagrożenia epidemicznego wójt (burmistrz, prezydent miasta), zarząd powiatu lub zarząd województwa może dokonywać:
 
-**Art. 12.** W ustawie z dnia 27 sierpnia 2009 r. finansach publicznych (Dz. U. z 2024 r. poz. 1530 i 1572) po art. 257 dodaje się art. 257a brzmieniu: „Art. 257a. Na obszarze objętym stanem klęski żywiołowej, stanem epidemii lub stanem zagrożenia epidemicznego wójt (burmistrz, prezydent miasta), zarząd powiatu lub zarząd województwa może dokonywać:
+- **1)** zmian w planie dochodów i wydatków budżetu jednostki samorządu terytorialnego, w tym dokonywać przeniesień wydatków między działami klasyfikacji budżetowej;
+- **2)** czynności, o których mowa w art. 258 ust. 1 pkt 2 i 3;
+- **3)** zmian w wieloletniej prognozie finansowej oraz w planie wydatków budżetu jednostki samorządu terytorialnego związanych z wprowadzeniem nowych inwestycji lub zakupów inwestycyjnych przez jednostkę, o ile zmiana ta nie pogorszy wyniku budżetu tej jednostki. ” .
 
-**Art. 14.** W ustawie z dnia 23 października 2018 r. Rządowym Funduszu Rozwoju Dróg (Dz. U. z 2023 r. poz. 1983 oraz z 2024 r. poz. 1473 i 1572) wprowadza się następujące zmiany:
+**Art. 13.** W ustawie z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467 i 1222) w art. 51a ust. 1 otrzymuje brzmienie: „ 1. Prezes UKE na wniosek operatora wyznaczonego, w drodze decyzji, ustanawia dla operatora wyznaczonego odstępstwo od obowiązku świadczenia usług powszechnych, w razie szerzenia się zakażenia lub choroby zakaźnej, które może stanowić zagrożenie dla zdrowia publicznego, lub w razie wprowadzenia na obszarze kraju albo jego części stanu nadzwyczajnego. ” . W ustawie z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg (Dz. U. z 2023 r. poz. 1983 oraz z 2024 r. poz. 1473 i 1572) wprowadza się następujące zmiany:
 
-**Art. 15.** W ustawie z dnia 2 marca 2020 r. szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2024 r. poz. 340, 1089, 1222 i 1473) art. 15kb ust. 16a otrzymuje brzmienie: „16a. Niewykorzystane na dzień 31 października 2024 r. na wypłaty, których mowa art. 15ka ust. 1, oraz na koszty, których mowa art. 15kb ust. 4 pkt 2, środki Funduszu Zwrotów pochodzące ze źródeł, których mowa ust. 2 pkt 2 i 3, podlegają wpłacie do Funduszu Rozwoju Kultury Fizycznej, którym mowa art. 86 ustawy z dnia 19 listopada 2009 r. grach hazardowych (Dz. U. z 2023 r. poz. 227 oraz z 2024 r. poz. 1473), kwocie nie wyższej niż 84 mln zł.”.
+- **1)** w art. 36v: ust. 1 otrzymuje brzmienie: „
+    - **a)**
 
-**Art. 16.** W ustawie z dnia 28 kwietnia 2022 r. zasadach realizacji zadań finansowanych ze środków europejskich perspektywie finansowej 2021–2027 (Dz. U. poz. 1079) po rozdziale 19 dodaje się rozdział 19a brzmieniu: „Rozdział 19a Przepis epizodyczny
+1. Minister właściwy do spraw transportu może ogłosić nabór wniosków o dofinansowanie zadań powodziowych. ” , w ust. 4 pkt 1 otrzymuje brzmienie: „
 
-**Art. 130a.** W okresie 12 miesięcy od dnia wejścia życie niniejszego artykułu, sposób niekonkurencyjny, którym mowa art. 44 ust. 1, mogą być wybierane projekty służące usuwaniu skutków powodzi z września 2024 r. W takim przypadku przepisu art. 44 ust. 2 nie stosuje się.”.
+- **b)**
+- **1)** termin, miejsce i sposób składania wniosków o dofinansowanie zadań powodziowych; ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
+    - **c)**
 
-**Art. 17.** W ustawie z dnia 9 marca 2023 r. zmianie ustawy dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych oraz ustawy – Ordynacja podatkowa (Dz. U. poz. 511) wprowadza się następujące zmiany:
+4a. Minister właściwy do spraw transportu w informacji o naborze może wskazać kategorie dróg publicznych lub rodzaj zadań powodziowych, których dotyczy nabór. ” ;
 
-**Art. 19.** W ustawie z dnia 1 października 2024 r. zmianie ustawy szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1473) wprowadza się następujące zmiany:
+- **2)** w art. 36w: ust. 1–3 otrzymują brzmienie: „
+    - **a)**
 
-**Art. 32b.**
+1. Minister właściwy do spraw transportu dokonuje oceny wniosków o dofinansowanie, o których mowa w art. 36v ust. 1, na podstawie kryteriów ustalonych w zasadach naboru, biorąc pod uwagę w szczególności:
 
-1. Opłata z tytułu przekształcenia prawa użytkowania wieczystego, której mowa art. 7 ust. 1 i art. 13 ust. 3 ustawy z dnia 20 lipca 2018 r. przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe prawo własności tych gruntów, odniesieniu do nieruchomości stanowiącej poprzednio własność Skarbu Państwa, stosunku do której organem reprezentującym Skarb Państwa był starosta lub prezydent miasta na prawach powiatu, wykonujący zadania z zakresu administracji rządowej, należna za rok 2024 od poszkodowanego rozumieniu art. 2 ustawy zmienianej art. 1 podlega pomniejszeniu proporcjonalnie do liczby dni tym roku, których obowiązywał stan klęski żywiołowej związku z powodzią, która miała miejsce we wrześniu 2024 r., pod warunkiem zgłoszenia przez poszkodowanego wniesienia opłaty pomniejszonej wysokości staroście lub prezydentowi miasta na prawach powiatu, wykonującym zadania z zakresu administracji rządowej, do dnia 31 grudnia 2024 r.
+- **1)** długość zniszczonych lub uszkodzonych dróg w wyniku powodzi we wrześniu 2024 r. lub osunięcia ziemi będącego jej skutkiem w stosunku do sieci dróg publicznych zarządzanych przez zarządcę drogi, który składa wniosek o dofinansowanie;
+- **2)** liczbę mieszkańców danej jednostki samorządu terytorialnego;
+- **3)** informację, czy wniosek o dofinansowanie obejmuje również zniszczony lub uszkodzony most w wyniku powodzi we wrześniu 2024 r. lub osunięcia ziemi będącego jej skutkiem;
+- **4)** dane obliczone na podstawie odpowiednio art. 14 ust. 2 i 3 lub art. 16a ust. 2–9 dla jednostki samorządu terytorialnego.
 
-2. Obniżeniu kwotę wyliczoną zgodnie z ust. 1 podlega wysokość opłaty z tytułu przekształcenia prawa użytkowania wieczystego prawo własności, należnej za rok 2025 albo wnoszonej tym roku jako opłata jednorazowa, której mowa art. 7 ust. 7 ustawy z dnia 20 lipca 2018 r. przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe prawo własności tych gruntów.
+2. Do oceny, o której mowa w ust. 1, przepisy art. 24 ust. 3 i 4 stosuje się odpowiednio.
 
-3. Organ stanowiący jednostki samorządu terytorialnego może, drodze uchwały, postanowić pomniejszeniu opłaty z tytułu przekształcenia prawa użytkowania wieczystego, której mowa ust. 1, odniesieniu do nieruchomości stanowiącej poprzednio własność gminy, powiatu lub województwa, należnej od podmiotu, którym mowa ust. 1. Przepisy ust. 1 i 2 stosuje się odpowiednio, z tym że zgłoszenie, którym mowa ust. 1, wnosi się do właściwego organu wykonawczego jednostki samorządu terytorialnego.
+3. Na podstawie oceny, o której mowa w ust. 1, minister właściwy do spraw transportu sporządza listę zadań powodziowych przewidzianych do dofinansowania ze środków Funduszu. ” , po ust. 3 dodaje się ust. 3a-3c w brzmieniu: „
 
-**Art. 32c.**
+- **b)**
 
-1. Od poszkodowanego rozumieniu art. 2 ustawy zmienianej art. 1 nie pobiera się czynszu najmu i dzierżawy oraz opłaty za użytkowanie przypadających Skarbowi Państwa za okres pełnych miesięcy roku 2024, których obowiązywał stan klęski żywiołowej związku z powodzią, która miała miejsce we wrześniu 2024 r., z tytułu umów najmu, dzierżawy lub użytkowania zawartych na okres co najmniej sześciu miesięcy odniesieniu do nieruchomości należącej do zasobu nieruchomości Skarbu Państwa rozumieniu ustawy z dnia 21 sierpnia 1997 r. gospodarce nieruchomościami (Dz. U. z 2024 r. poz. 1145, 1222 i 1717), pod warunkiem zgłoszenia wnoszenia należności z pominięciem należności za wskazany we wniosku okres staroście lub prezydentowi miasta na prawach powiatu, wykonującym zadania z zakresu administracji rządowej, lub kierownikowi państwowej jednostki organizacyjnej, na rzecz której ustanowiono trwały zarząd na podstawie art. 45 ust. 1 lub art. 60 ust. 3 ustawy z dnia 21 sierpnia 1997 r. gospodarce nieruchomościami, do dnia 31 grudnia 2024 r. Nie pobiera się odsetek za opóźnienie za okres od dnia wymagalności świadczeń, których mowa zdaniu poprzednim, za dany miesiąc, do dnia zgłoszenia, którym mowa zdaniu poprzednim, jednak nie później niż do dnia 31 grudnia 2024 r.
+3a. Minister właściwy do spraw transportu udostępni w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego tego ministra zasady naboru, o których mowa w ust. 1.
 
-2. Organ stanowiący jednostki samorządu terytorialnego może, drodze uchwały, postanowić zwolnieniu z czynszu najmu i dzierżawy oraz opłaty za użytkowanie odniesieniu do nieruchomości stanowiącej własność gminy, powiatu lub województwa, należnych od poszkodowanego rozumieniu art. 2 ustawy zmienianej art. 1. Przepis ust. 1 stosuje się odpowiednio, z tym że zgłoszenie, którym mowa ust. 1, wnosi się do właściwego organu wykonawczego jednostki samorządu terytorialnego lub do kierownika samorządowej jednostki organizacyjnej, na rzecz której ustanowiono trwały zarząd na podstawie art. 45 ust. 1 ustawy z dnia 21 sierpnia 1997 r. gospodarce nieruchomościami.
+3b. Lista, o której mowa w ust. 3, składa się z listy, na której umieszcza się zadania powodziowe:
 
-**Art. 32d.**
+- **1)** przewidziane do dofinansowania do wysokości środków, o których mowa w art. 36v ust. 4 pkt 2;
+- **2)** możliwe do dofinansowania, które nie zmieściły się w wysokości środków, o których mowa w art. 36v ust. 4 pkt 2.
 
-1. Poszkodowany rozumieniu art. 2 ustawy zmienianej art. 1 będący przedsiębiorcą rozumieniu art. 4 ust. 1 lub 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236 i 1222), organizacją pozarządową rozumieniu art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. działalności pożytku publicznego i wolontariacie (Dz. U. z 2024 r. poz. 1491), podmiotem, którym mowa art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. działalności pożytku publicznego i wolontariacie, oraz państwową osobą prawną, której mowa ustawie z dnia 27 sierpnia 2009 r. finansach publicznych, dokonując zgłoszenia, którym mowa art. 32a ust. 1 lub 4, art. 32b ust. 1 lub 3 i art. 32c ust. 1 lub 2, przedstawia informacje, których mowa art. 37 ust. 5 ustawy z dnia 30 kwietnia 2004 r. postępowaniu sprawach dotyczących pomocy publicznej (Dz. U. z 2023 r. poz. 702 oraz z 2024 r. poz. 1635).
+3c. Sporządzając listę, o której mowa w ust. 3, minister właściwy do spraw transportu ustala kwotę dofinansowania dla poszczególnych zadań powodziowych. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
 
-2. Za dzień udzielenia pomocy publicznej uznaje się dzień dokonania zgłoszenia, którym mowa art. 32a ust. 1 lub 4, art. 32b ust. 1 lub 3 i art. 32c ust. 1 lub 2.
+- **c)**
 
-3. Na żądanie właściwego organu podmiot, którym mowa art. 32a ust. 1, art. 32b ust. 1 i art. 32c ust. 1, przedstawia terminie 30 dni od dnia otrzymania żądania dokumenty potwierdzające spełnienie przesłanek, których mowa ust. 1, oraz posiadanie statusu poszkodowanego rozumieniu art. 2 ustawy zmienianej art. 1.
+4a. W przypadku przekazania dodatkowych środków finansowych do Funduszu w wysokości wyższej niż określona na podstawie art. 36v ust. 4 pkt 2, minister właściwy do spraw transportu może przeznaczyć je na dofinansowanie zadań powodziowych z listy, o której mowa w ust. 3b pkt 2, albo przeprowadzić kolejny nabór na zadania powodziowe. ” , w ust. 5 w pkt 3 wyrazy „art. 36v ust. 4” zastępuje się wyrazami „art. 36v ust. 5”;
 
-4. Nieprzedstawienie terminie dokumentów, których mowa ust. 3, nieprzedstawienie informacji, których mowa art. 37 ust. 5 ustawy z dnia 30 kwietnia 2004 r. postępowaniu sprawach dotyczących pomocy publicznej, lub stwierdzenie przez właściwy organ, że nie zostały spełnione przesłanki, których mowa ust. 1, lub nie potwierdzono posiadania statusu poszkodowanego rozumieniu art. 2 ustawy zmienianej art. 1, stanowi podstawę do dochodzenia opłaty, której mowa art. 32a i art. 32b, lub należności, których mowa art. 32c, pełnej wysokości. mości najem, dzierżawę lub użytkowanie, przypadające za okres stanu klęski żywiołowej związku z powodzią, która miała miejsce we wrześniu 2024 r., mogą być umarzane całości albo części lub ich spłata może być odraczana lub rozkładana na raty przez starostę lub prezydenta miasta na prawach powiatu, wykonujących zadania z zakresu administracji rządowej, bez zgody wojewody.
+- **d)**
+- **3)** w art. 36x wyrazy „art. 36w ust. 1” zastępuje się wyrazami „art. 36w ust. 3”;
+- **4)** w art. 38: w ust. 1 wyrazy „art. 4 ust. 1 pkt 1–2e” zastępuje się wyrazami „art. 4 ust. 1 pkt 1–2d”, po ust. 1a dodaje się ust. 1b w brzmieniu: „
+    - **a)**
+    - **b)**
 
-2. Starosta lub prezydent miasta na prawach powiatu, wykonujący zadania z zakresu administracji rządowej, bez zgody wojewody może odstąpić od dochodzenia należności, których mowa ust. 1, na wniosek poszkodowanego rozumieniu art. 2 ustawy zmienianej art. 1.
+1b. Do zadań powodziowych nie stosuje się przepisów ust. 1a i 6 oraz art. 35a-35d ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych. ” .
 
-3. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa odniesieniu do nieruchomości określonych art. 60 ust. 1 ustawy z dnia 21 sierpnia 1997 r. gospodarce nieruchomościami może odstąpić od dochodzenia należności, których mowa ust. 1, na wniosek poszkodowanego rozumieniu art. 2 ustawy zmienianej art. 1.
+**Art. 15.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2024 r. poz. 340, 1089, 1222 i 1473) w art. 15kb ust. 16a otrzymuje brzmienie: „ 16a. Niewykorzystane na dzień 31 października 2024 r. na wypłaty, o których mowa w art. 15ka ust. 1, oraz na koszty, o których mowa w art. 15kb ust. 4 pkt 2, środki Funduszu Zwrotów pochodzące ze źródeł, o których mowa w ust. 2 pkt 2 i 3, podlegają wpłacie do Funduszu Rozwoju Kultury Fizycznej, o którym mowa w art. 86 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2023 r. poz. 227 oraz z 2024 r. poz. 1473), w kwocie nie wyższej niż 84 mln zł. ” .
 
-4. Kierownicy państwowych jednostek organizacyjnych, na rzecz których ustanowiony został trwały zarząd stosunku do nieruchomości Skarbu Państwa, mogą odstąpić od dochodzenia należności z tytułu oddania nieruchomości najem, dzierżawę lub użytkowanie, przypadających za okres stanu klęski żywiołowej związku z powodzią, która miała miejsce we wrześniu 2024 r., na wniosek poszkodowanego rozumieniu art. 2 ustawy zmienianej art. 1.
+**Art. 16.** W ustawie z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079) po rozdziale 19 dodaje się rozdział 19a w brzmieniu: „
 
-5. W przypadkach, których mowa ust. 2–4, przepisu art. 12a ust. 4 ustawy z dnia 21 sierpnia 1997 r. gospodarce nieruchomościami nie stosuje się.
+#### Rozdział 19a Przepis epizodyczny
 
-**Art. 32f.** Organ stanowiący jednostki samorządu terytorialnego może, drodze uchwały, postanowić odstąpieniu od dochodzenia należności charakterze cywilnoprawnym przypadających jednostce samorządu terytorialnego lub jej jednostkom organizacyjnym, wymienionym art. 9 pkt 3, 4 i 13 ustawy z dnia 27 sierpnia 2009 r. finansach publicznych, stosunku do poszkodowanych rozumieniu art. 2 ustawy zmienianej art. 1, którzy złożą wniosek odstąpienie od dochodzenia należności.
+**Art. 130a.** W okresie 12 miesięcy od dnia wejścia w życie niniejszego artykułu, w sposób niekonkurencyjny, o którym mowa w art. 44 ust. 1, mogą być wybierane projekty służące usuwaniu skutków powodzi z września 2024 r. W takim przypadku przepisu art. 44 ust. 2 nie stosuje się. ” .
 
-**Art. 32g¹.** Do czasu określenia przez organ stanowiący jednostki samorządu terytorialnego zasad udzielania ulg, których mowa art. 59 ust. 1 ustawy z dnia 27 sierpnia 2009 r. finansach publicznych, dotyczących należności pieniężnych z tytułu oddania nieruchomości najem, dzierżawę lub użytkowanie, przypadających za okres stanu klęski żywiołowej, wprowadzonego związku z powodzią, która miała miejsce we wrześniu 2024 r., jednostce samorządu terytorialnego lub jej jednostkom organizacyjnym, wymienionym art. 9 pkt 3, 4 i 13 tej ustawy, należności te mogą być umarzane, terminy ich spłaty mogą zostać odroczone lub płatność tych należności może zostać rozłożona na raty przez wójta (burmistrza, prezydenta miasta), zarząd powiatu albo zarząd województwa. 2. Do czasu podjęcia uchwały, której mowa art. 32f, wójt (burmistrz, prezydent miasta), zarząd powiatu albo zarząd województwa może postanowić odstąpieniu od dochodzenia należności, których mowa ust. 1, na wniosek poszkodowanego rozumieniu art. 2 ustawy zmienianej art. 1.”;
+**Art. 17.** W ustawie z dnia 9 marca 2023 r. o zmianie ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych oraz ustawy – Ordynacja podatkowa (Dz. U. poz. 511) wprowadza się następujące zmiany:
 
-**Art. 40b.**
+- **1)** w art. 3 w ust. 1 wyrazy „31 grudnia 2024 r.” zastępuje się wyrazami „31 grudnia 2025 r.”;
+- **2)** po art. 3 dodaje się art. 3a w brzmieniu: „
 
-1. W odniesieniu do zabytku wpisanego do rejestru zabytków, znajdującego się na obszarze, na którym został wprowadzony stan klęski żywiołowej związku z powodzią, która miała miejsce we wrześniu 2024 r., dotkniętego skutkami tej powodzi, przypadku którego jest konieczne przeprowadzenie pilnych prac konserwatorskich, robót drodze decyzji, określić zalecenia konserwatorskie ustalające zakres oraz sposób przeprowadzenia tych prac, robót lub działań.
+1. Obsługę elektronicznych transakcji płatniczych realizowanych na rzecz podmiotów publicznych, o których mowa w art. 3 ust. 1, zapewnia Bank Gospodarstwa Krajowego na podstawie umowy zawartej z ministrem właściwym do spraw informatyzacji.
 
-2. W decyzji, której mowa ust. 1, wojewódzki konserwator zabytków może określić, że:
+2. Umowa, o której mowa w ust. 1, może obejmować również zapewnienie obsługi elektronicznych transakcji płatniczych na rzecz podmiotów publicznych przy użyciu terminala płatniczego.
 
-- **1)** kierowanie pracami konserwatorskimi albo samodzielne ich wykonywanie ma być realizowane przez osobę spełniającą wymagania, których mowa odpowiednio art. 37a ust. 1 i 2 albo art. 37b ust. 1 i 3 ustawy z dnia 23 lipca 2003 r. ochronie zabytków i opiece nad zabytkami;
-- **2)** kierowanie robotami budowlanymi albo wykonywanie nadzoru inwestorskiego ma być realizowane przez osobę spełniającą wymagania, których mowa art. 37c ustawy z dnia 23 lipca 2003 r. ochronie zabytków i opiece nad zabytkami.
+3. W zakresie niezbędnym do wykonywania umowy, o której mowa w ust. 1, Bankowi Gospodarstwa Krajowego są udostępniane dane, o których mowa w art. 298a § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879 i 1685).
 
-3. W odniesieniu do prac konserwatorskich i robót budowlanych, a także działań których mowa art. 36 ust. 1 pkt 11 ustawy z dnia 23 lipca 2003 r. ochronie zabytków i opiece nad zabytkami, których zakres oraz sposób prowadzenia określono decyzji wydanej na podstawie ust. 1, nie jest wymagane pozwolenie, którym mowa art. 36 ust. 1 tej ustawy.
+4. Bankowi Gospodarstwa Krajowego przysługuje wynagrodzenie z tytułu obsługi transakcji płatniczych ze środków budżetu państwa z części, której dysponentem jest minister właściwy do spraw informatyzacji, przy czym wysokość tego wynagrodzenia nie może przekroczyć 0,10 zł od pojedynczej transakcji.
 
-4. Decyzja, której mowa ust. 1, nie może dotyczyć prac konserwatorskich, robót budowlanych i działań, których mowa art. 36 ust. 1 pkt 11 ustawy z dnia 23 lipca 2003 r. ochronie zabytków i opiece nad zabytkami, jeżeli, ze względu na ich zakres lub wpływ na zabytek, którym mowa ust. 1, będzie konieczne sporządzenie programu prac, robót lub innych działań albo projektu budowlanego lub przeprowadzenie badań konserwatorskich, badań architektonicznych lub badań archeologicznych.
+5. Bank Gospodarstwa Krajowego składa ministrowi właściwemu do spraw informatyzacji miesięczne sprawozdania z realizacji obsługi elektronicznych transakcji płatniczych.
 
-5. Stroną postępowania sprawie wydania decyzji, której mowa ust. 1, jest właściciel zabytku, którym mowa ust. 1, użytkownik wieczysty gruntu, na którym znajduje się zabytek nieruchomy, lub jednostka organizacyjna posiadająca zabytek nieruchomy trwałym zarządzie.
+6. Umowa, o której mowa w ust. 1, określa w szczególności:
 
-6. Przy wydawaniu decyzji, której mowa ust. 1, wojewódzki konserwator zabytków może odstąpić od zasady wyrażonej art. 10 § 1 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
+- **1)** czas trwania umowy;
+- **2)** tryb i sposób składania sprawozdań z realizacji umowy;
+- **3)** zasady obsługi elektronicznych transakcji płatniczych;
+- **4)** tryb, sposób i terminy dokonywania rozliczeń transakcji;
+- **5)** warunki zmiany oraz rozwiązania umowy. ” . W ustawie z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275) wprowadza się następujące zmiany:
+- **1)** w art. 3 w ust. 1 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „
+- **8)** korzystanie z usług online, o których mowa w art. 19aa i art. 19ab ustawy z dnia 17 lutego 2005 r o informatyzacji działalności podmiotów realizujących zadania publiczne. ” ;
+- **2)** po art. 3 dodaje się art. 3a w brzmieniu: „ Dokumenty składane w ramach usług online, o których mowa w art. 19aa i art. 19ab ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, opatruje się zaawansowaną pieczęcią elektroniczną ministra właściwego do spraw informatyzacji, po uwierzytelnieniu użytkownika aplikacji mObywatel z wykorzystaniem certyfikatu podstawowego, o którym mowa w art. 2 pkt 2. ” . W ustawie z dnia 1 października 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1473) wprowadza się następujące zmiany:
+- **1)** po art. 27 dodaje się art. 27a w brzmieniu: „
 
-7. Decyzja, której mowa ust. 1, może być ogłoszona ustnie, zgodnie z art. 14 § 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+1. W celu, o którym mowa w art. 27 ust. 1, parki narodowe, szkoły leśne i jednostki organizacyjne Państwowego Gospodarstwa Leśnego Lasy Państwowe, na polecenie ministra właściwego do spraw środowiska, mogą wspierać organizowanie:
 
-8. Przepisy ust. 1–7 stosuje się odpowiednio do przemieszczenia zabytku nieruchomego, wpisanego do rejestru zabytków, dotkniętego skutkami powodzi we wrześniu 2024 r. znajdującego się na obszarze, którym mowa ust. 1.
+- **1)** krajoznawstwa i turystyki, zgodnie z przepisami wydanymi na podstawie art. 47 ust. 1 pkt 8 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, przez publiczne przedszkola, szkoły i placówki położone na terenie gminy określonej w przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej w art. 1;
+- **2)** wypoczynku, zgodnie z przepisami ustawy z dnia 7 września 1991 r. o systemie oświaty, dla uczniów przedszkoli, szkół i placówek położonych na terenie gminy określonej w przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej w art. 1.
 
-9. Przepisy ust. 1 oraz 3–7 stosuje się odpowiednio do trwałego przeniesienia zabytku ruchomego, wpisanego do rejestru zabytków, dotkniętego skutkami powodzi we wrześniu 2024 r. znajdującego się na obszarze, którym mowa ust. 1, z naruszeniem ustalonego tradycją wystroju wnętrza, którym zabytek ten się znajduje, a także do prowadzenia robót budowlanych otoczeniu zabytku nieruchomego, którym mowa ust. 1.
+2. Wsparcie może polegać w szczególności na nieodpłatnym:
 
-10. W przypadku otrzymania decyzji, której mowa ust. 1, za spełniony uznaje się warunek posiadania sporządzonego na piśmie pozwolenia wojewódzkiego konserwatora zabytków na prowadzenie prac konserwatorskich, prac restauratorskich lub robót budowlanych przy zabytku, którym mowa art. 26hb ust. 2 pkt 2 ustawy z dnia 26 lipca 1991 r. podatku dochodowym od osób fizycznych (Dz. U. z 2024 r. poz. 226, z późn. zm. ).
+- **1)** przyjmowaniu uczniów przedszkoli, szkół i placówek, o których mowa w ust. 1, z wykorzystaniem własnej bazy noclegowej parków narodowych, szkół leśnych i jednostek organizacyjnych Państwowego Gospodarstwa Leśnego Lasy Państwowe;
+- **2)** organizowaniu zajęć edukacyjnych dla uczniów przedszkoli, szkół i placówek, o których mowa w ust. 1.
 
-**Art. 40c.** Do dotacji celowych przyznawanych związku z powodzią we wrześniu 2024 r.:
+3. Minister właściwy do spraw środowiska wydaje polecenie, o którym mowa w ust. 1, w porozumieniu z organem prowadzącym przedszkole, szkołę lub placówkę, o której mowa w ust. 1, a w przypadku wsparcia udzielanego przez szkoły leśne także po uzgodnieniu terminu wsparcia z dyrektorem szkoły leśnej.
 
-**Art. 41b.**
+4. Parki narodowe, organy prowadzące szkoły leśne i jednostki organizacyjne Państwowego Gospodarstwa Leśnego Lasy Państwowe na sfinansowanie kosztów wsparcia otrzymują środki finansowe z rezerwy celowej, o której mowa w art. 3 ust. 1 ustawy zmienianej w art. 1. ” ;
 
-1. W przypadku naboru wniosków na zadania powiatowe oraz zadania gminne, którym mowa art. 21 ust. 1 ustawy z dnia 23 października 2018 r. Rządowym Funduszu Rozwoju Dróg, na które przeznaczono środki planie finansowym Rządowego Funduszu Rozwoju Dróg na 2025 r., wojewoda przedstawia ministrowi właściwemu do spraw transportu listę, której mowa art. 24 ust. 5 tej ustawy, terminie 5 miesięcy od dnia ogłoszenia naboru.
+- **2)** po art. 32 dodaje się art. 32a-32g w brzmieniu: „
 
-2. W przypadku naboru, którym mowa ust. 1, terminy, których mowa art. 23 ust. 4 ustawy z dnia 23 października 2018 r. Rządowym Funduszu Rozwoju Dróg, mogą być dłuższe niż odpowiednio 10 i 5 dni od dnia otrzymania wezwania do uzupełnienia wniosku lub poprawienia nim oczywistych omyłek.
+**Art. 32a.**
 
-3. W przypadku naboru, którym mowa ust. 1, Prezes Rady Ministrów, zatwierdzając listy zadań powiatowych oraz zadań gminnych przeznaczonych do dofinansowania danym województwie, może dokonać podziału rezerwy, której mowa art. 26 ust. 1a ustawy z dnia 23 października 2018 r. Rządowym Funduszu Rozwoju Dróg, ten sposób, że może zwiększyć wysokość dofinansowania zadań powiatowych oraz zadań gminnych zlokalizowanych gminach wskazanych przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej art. 1 do 100 % kosztów realizacji tego zadania.”;
+1. Opłata roczna z tytułu użytkowania wieczystego nieruchomości stanowiącej własność Skarbu Państwa, w odniesieniu do której organem reprezentującym Skarb Państwa jest starosta lub prezydent miasta na prawach powiatu, wykonujący zadania z zakresu administracji rządowej, należna za rok 2024 od poszkodowanego w rozumieniu art. 2 ustawy zmienianej w art. 1 podlega pomniejszeniu proporcjonalnie do liczby dni w roku 2024, w których obowiązywał stan klęski żywiołowej w związku z powodzią, która miała miejsce we wrześniu 2024 r., pod warunkiem zgłoszenia przez poszkodowanego wniesienia opłaty w pomniejszonej wysokości staroście lub prezydentowi miasta na prawach powiatu, wykonującym zadania z zakresu administracji rządowej, do dnia 31 grudnia 2024 r.
 
-- **7)** po art. 43 dodaje się art. 43a i art. 43b brzmieniu: „Art. 43a. 1. Orzeczenie niepełnosprawności albo orzeczenie stopniu niepełnosprawności wydane na czas określony, posiadane przez osobę niepełnosprawną mającą miejsce stałego pobytu, albo miejsce pobytu, przypadku osób określonych art. 6 ust. 3 ustawy z dnia 27 sierpnia 1997 r. rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2024 r. poz. 44, 858, 1089, 1165 i 1494), na obszarze gminy poszkodowanej wyniku wystąpienia powodzi we wrześniu 2024 r., wskazanej przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej art. 1, która nie złożyła wniosku wydanie kolejnego orzeczenia niepełnosprawności albo orzeczenia stopniu niepełnosprawności terminie określonym art. 6bb ust. 1 ustawy z dnia 27 sierpnia 1997 r. rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych – zachowuje ważność nie dłużej niż do dnia wydania nowego ostatecznego orzeczenia niepełnosprawności albo orzeczenia stopniu niepełnosprawności, pod warunkiem złożenia do przewodniczącego powiatowego zespołu do spraw orzekania niepełnosprawności, terminie do upływu 60. dnia od dnia, którym zniesiono stan klęski żywiołowej wprowadzony związku z powodzią we wrześniu 2024 r.:
-- **1)** wniosku wydanie kolejnego orzeczenia niepełnosprawności albo orzeczenia stopniu niepełnosprawności;
-- **2)** oświadczenia posiadaniu, na dzień ogłoszenia stanu klęski żywiołowej, miejsca stałego pobytu na obszarze gminy wskazanej przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej art. 1, albo posiadaniu na tym obszarze miejsca pobytu, przypadku osób określonych art. 6 ust. 3 ustawy z dnia 27 sierpnia 1997 r. rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych.
+2. Obniżeniu o kwotę wyliczoną zgodnie z ust. 1 podlega wysokość opłaty rocznej z tytułu użytkowania wieczystego należnej za rok 2025.
 
-2. Przepis ust. 1 stosuje się do osób niepełnosprawnych, określonych ust. 1, przypadku których ważność orzeczenia niepełnosprawności albo orzeczenia stopniu niepełnosprawności upłynęła terminie nie wcześniejszym niż siódmy dzień poprzedzający okres na jaki wprowadzono stan klęski żywiołowej, związku z powodzią we wrześniu 2024 r.
+3. Jeżeli prawo użytkowania wieczystego nieruchomości uległo przekształceniu w prawo własności w 2024 r., obniżeniu o kwotę wyliczoną zgodnie z ust. 1 podlega wysokość należnej od tego podmiotu opłaty, o której mowa w art. 13 ust. 3 ustawy z dnia 20 lipca 2018 r. o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności tych gruntów (Dz. U. z 2024 r. poz. 386 i 1635), za rok 2025 albo wnoszonej w tym roku jako opłata jednorazowa, o której mowa w art. 7 ust. 7 tej ustawy.
 
-3. Po otrzymaniu wniosku i oświadczenia, których mowa ust. 1, przewodniczący powiatowego zespołu do spraw orzekania niepełnosprawności wydaje niezwłocznie zaświadczenie potwierdzające złożenie tego wniosku oraz określające termin ważności dotychczasowego orzeczenia niepełnosprawności albo orzeczenia stopniu niepełnosprawności.
+4. Organ stanowiący jednostki samorządu terytorialnego może, w drodze uchwały, postanowić o pomniejszeniu opłaty rocznej z tytułu użytkowania wieczystego, o której mowa w ust. 1, w odniesieniu do nieruchomości stanowiącej odpowiednio własność gminy, powiatu lub województwa, należnej od podmiotu, o którym mowa w ust. 1. Przepisy ust. 1–3 stosuje się odpowiednio, z tym że zgłoszenie, o którym mowa w ust. 1, wnosi się do właściwego organu wykonawczego jednostki samorządu terytorialnego.
 
-4. W związku z zachowaniem ważności orzeczeń niepełnosprawności albo orzeczeń stopniu niepełnosprawności, na okres wskazany ust. 1, karty parkingowe, których mowa art. 8 ust. 4 ustawy z dnia 20 czerwca 1997 r. – Prawo ruchu drogowym zachowują ważność do dnia wydania nowego ostatecznego orzeczenia niepełnosprawności albo orzeczenia stopniu niepełnosprawności, którym mowa ust. 1.
+1. Opłata z tytułu przekształcenia prawa użytkowania wieczystego, o której mowa w art. 7 ust. 1 i art. 13 ust. 3 ustawy z dnia 20 lipca 2018 r. o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności tych gruntów, w odniesieniu do nieruchomości stanowiącej poprzednio własność Skarbu Państwa, w stosunku do której organem reprezentującym Skarb Państwa był starosta lub prezydent miasta na prawach powiatu, wykonujący zadania z zakresu administracji rządowej, należna za rok 2024 od poszkodowanego w rozumieniu art. 2 ustawy zmienianej w art. 1 podlega pomniejszeniu proporcjonalnie do liczby dni w tym roku, w których obowiązywał stan klęski żywiołowej w związku z powodzią, która miała miejsce we wrześniu 2024 r., pod warunkiem zgłoszenia przez poszkodowanego wniesienia opłaty w pomniejszonej wysokości staroście lub prezydentowi miasta na prawach powiatu, wykonującym zadania z zakresu administracji rządowej, do dnia 31 grudnia 2024 r.
 
-5. Przepis ust. 4 nie ma zastosowania do osób, których karty parkingowe zachowują ważność do dnia 31 marca 2025 r. na podstawie art. 3 ustawy z dnia 24 lipca 2024 r. zmianie ustawy rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. poz. 1165), ile termin ten jest dłuższy niż termin określony ust. 4.
+2. Obniżeniu o kwotę wyliczoną zgodnie z ust. 1 podlega wysokość opłaty z tytułu przekształcenia prawa użytkowania wieczystego w prawo własności, należnej za rok 2025 albo wnoszonej w tym roku jako opłata jednorazowa, o której mowa w art. 7 ust. 7 ustawy z dnia 20 lipca 2018 r. przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności tych gruntów.
 
-**Art. 43b.**
+3. Organ stanowiący jednostki samorządu terytorialnego może, w drodze uchwały, postanowić o pomniejszeniu opłaty z tytułu przekształcenia prawa użytkowania wieczystego, o której mowa w ust. 1, w odniesieniu do nieruchomości stanowiącej poprzednio własność gminy, powiatu lub województwa, należnej od podmiotu, o którym mowa w ust. 1. Przepisy ust. 1 i 2 stosuje się odpowiednio, z tym że zgłoszenie, o którym mowa w ust. 1, wnosi się do właściwego organu wykonawczego jednostki samorządu terytorialnego.
 
-1. W 2024 r. jednostki samorządu terytorialnego na obszarze gmin lub miejscowości wskazanych przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej art. 1 mogą otrzymać dotacje celowe z budżetu państwa na dofinansowanie zadań własnych z zakresu systemu pieczy zastępczej, jeżeli doszło do uszkodzenia lub zniszczenia infrastruktury służącej do realizacji tych zadań. Dotacji celowej udziela minister właściwy do spraw rodziny za pośrednictwem wojewody. systemu pieczy zastępczej na terenie danej jednostki samorządu terytorialnego, które nie mogą realizować na odpowiednim poziomie powierzonych im zadań z uwagi na uszkodzenia lub zniszczenia infrastruktury, składanych do wojewody.
+1. Od poszkodowanego w rozumieniu art. 2 ustawy zmienianej w art. 1 nie pobiera się czynszu najmu i dzierżawy oraz opłaty za użytkowanie przypadających Skarbowi Państwa za okres pełnych miesięcy w roku 2024, w których obowiązywał stan klęski żywiołowej w związku z powodzią, która miała miejsce we wrześniu 2024 r., z tytułu umów najmu, dzierżawy lub użytkowania zawartych na okres co najmniej sześciu miesięcy w odniesieniu do nieruchomości należącej do zasobu nieruchomości Skarbu Państwa w rozumieniu ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2024 r. poz. 1145, 1222 i 1717), pod warunkiem zgłoszenia wnoszenia należności z pominięciem należności za wskazany we wniosku okres staroście lub prezydentowi miasta na prawach powiatu, wykonującym zadania z zakresu administracji rządowej, lub kierownikowi państwowej jednostki organizacyjnej, na rzecz której ustanowiono trwały zarząd na podstawie art. 45 ust. 1 lub art. 60 ust. 3 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, do dnia 31 grudnia 2024 r. Nie pobiera się odsetek za opóźnienie za okres od dnia wymagalności świadczeń, o których mowa w zdaniu poprzednim, za dany miesiąc, do dnia zgłoszenia, o którym mowa w zdaniu poprzednim, jednak nie później niż do dnia 31 grudnia 2024 r.
 
-3. Od dnia wejścia życie niniejszej ustawy celu udzielenia dotacji, której mowa ust. 1, Minister Finansów może dokonywać podziału rezerw celowych, którym mowa art. 154 ust. 1 i 2 ustawy z dnia 27 sierpnia 2009 r. finansach publicznych, do dnia 10 grudnia 2024 r.
+2. Organ stanowiący jednostki samorządu terytorialnego może, w drodze uchwały, postanowić o zwolnieniu z czynszu najmu i dzierżawy oraz opłaty za użytkowanie w odniesieniu do nieruchomości stanowiącej własność gminy, powiatu lub województwa, należnych od poszkodowanego w rozumieniu art. 2 ustawy zmienianej w art. 1. Przepis ust. 1 stosuje się odpowiednio, z tym że zgłoszenie, o którym mowa w ust. 1, wnosi się do właściwego organu wykonawczego jednostki samorządu terytorialnego lub do kierownika samorządowej jednostki organizacyjnej, na rzecz której ustanowiono trwały zarząd na podstawie art. 45 ust. 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
-4. Wnioski dysponentów dotyczące uruchomienia środków, których mowa ust. 3, są składane najpóźniej 3 dni robocze przed upływem terminu wskazanego ust. 3.
+1. Poszkodowany w rozumieniu art. 2 ustawy zmienianej w art. 1 będący przedsiębiorcą w rozumieniu art. 4 ust. 1 lub 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236 i 1222), organizacją pozarządową w rozumieniu art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491), podmiotem, o którym mowa w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, oraz państwową osobą prawną, o której mowa w ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych, dokonując zgłoszenia, o którym mowa w art. 32a ust. 1 lub 4, art. 32b ust. 1 lub 3 i art. 32c ust. 1 lub 2, przedstawia informacje, o których mowa w art. 37 ust. 5 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2023 r. poz. 702 oraz z 2024 r. poz. 1635).
 
-5. Przepisy ust. 3 i 4 stosuje się do województw, na których terenie znajdują się gminy poszkodowane, których mowa przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej art. 1.
+2. Za dzień udzielenia pomocy publicznej uznaje się dzień dokonania zgłoszenia, o którym mowa w art. 32a ust. 1 lub 4, art. 32b ust. 1 lub 3 i art. 32c ust. 1 lub 2.
+
+3. Na żądanie właściwego organu podmiot, o którym mowa w art. 32a ust. 1, art. 32b ust. 1 i art. 32c ust. 1, przedstawia w terminie 30 dni od dnia otrzymania żądania dokumenty potwierdzające spełnienie przesłanek, o których mowa w ust. 1, oraz posiadanie statusu poszkodowanego w rozumieniu art. 2 ustawy zmienianej w art. 1.
+
+4. Nieprzedstawienie w terminie dokumentów, o których mowa w ust. 3, nieprzedstawienie informacji, o których mowa w art. 37 ust. 5 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej, lub stwierdzenie przez właściwy organ, że nie zostały spełnione przesłanki, o których mowa w ust. 1, lub nie potwierdzono posiadania statusu poszkodowanego w rozumieniu art. 2 ustawy zmienianej w art. 1, stanowi podstawę do dochodzenia opłaty, o której mowa w art. 32a i art. 32b, lub należności, o których mowa w art. 32c, w pełnej wysokości.
+
+1. Należności pieniężne od poszkodowanych w rozumieniu art. 2 ustawy zmienianej w art. 1, o których mowa w art. 12a ust. 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, z tytułu oddania nieruchomości w najem, dzierżawę lub użytkowanie, przypadające za okres stanu klęski żywiołowej w związku z powodzią, która miała miejsce we wrześniu 2024 r., mogą być umarzane w całości albo w części lub ich spłata może być odraczana lub rozkładana na raty przez starostę lub prezydenta miasta na prawach powiatu, wykonujących zadania z zakresu administracji rządowej, bez zgody wojewody.
+
+2. Starosta lub prezydent miasta na prawach powiatu, wykonujący zadania z zakresu administracji rządowej, bez zgody wojewody może odstąpić od dochodzenia należności, o których mowa w ust. 1, na wniosek poszkodowanego w rozumieniu art. 2 ustawy zmienianej w art. 1.
+
+3. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa w odniesieniu do nieruchomości określonych w art. 60 ust. 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami może odstąpić od dochodzenia należności, o których mowa w ust. 1, na wniosek poszkodowanego w rozumieniu art. 2 ustawy zmienianej w art. 1.
+
+4. Kierownicy państwowych jednostek organizacyjnych, na rzecz których ustanowiony został trwały zarząd w stosunku do nieruchomości Skarbu Państwa, mogą odstąpić od dochodzenia należności z tytułu oddania nieruchomości w najem, dzierżawę lub użytkowanie, przypadających za okres stanu klęski żywiołowej w związku z powodzią, która miała miejsce we wrześniu 2024 r., na wniosek poszkodowanego w rozumieniu art. 2 ustawy zmienianej w art. 1.
+
+5. W przypadkach, o których mowa w ust. 2–4, przepisu art. 12a ust. 4 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami nie stosuje się. Organ stanowiący jednostki samorządu terytorialnego może, w drodze uchwały, postanowić o odstąpieniu od dochodzenia należności o charakterze cywilnoprawnym przypadających jednostce samorządu terytorialnego lub jej jednostkom organizacyjnym, wymienionym w art. 9 pkt 3, 4 i 13 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, w stosunku do poszkodowanych w rozumieniu art. 2 ustawy zmienianej w art. 1, którzy złożą wniosek o odstąpienie od dochodzenia należności. Art. 32g 1. Do czasu określenia przez organ stanowiący jednostki samorządu terytorialnego zasad udzielania ulg, o których mowa w art. 59 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, dotyczących należności pieniężnych z tytułu oddania nieruchomości w najem, dzierżawę lub użytkowanie, przypadających za okres stanu klęski żywiołowej, wprowadzonego w związku z powodzią, która miała miejsce we wrześniu 2024 r., jednostce samorządu terytorialnego lub jej jednostkom organizacyjnym, wymienionym w art. 9 pkt 3, 4 i 13 tej ustawy, należności te mogą być umarzane, terminy ich spłaty mogą zostać odroczone lub płatność tych należności może zostać rozłożona na raty przez wójta (burmistrza, prezydenta miasta), zarząd powiatu albo zarząd województwa.
+
+2. Do czasu podjęcia uchwały, o której mowa w art. 32f, wójt (burmistrz, prezydent miasta), zarząd powiatu albo zarząd województwa może postanowić o odstąpieniu od dochodzenia należności, o których mowa w ust. 1, na wniosek poszkodowanego w rozumieniu art. 2 ustawy zmienianej w art. 1. ” ;
+
+- **3)** w art. 37 w ust. 4 skreśla się wyrazy „(Dz. U. z 2023 r. poz. 1270, z późn. zm.)”;
+- **4)** po art. 39 dodaje się art. 39a w brzmieniu: „
+
+1. Właściwy starosta sporządzi i przekaże właściwemu wojewódzkiemu inspektorowi ochrony środowiska, w terminie do dnia 31 stycznia 2025 r., wykaz:
+
+- **1)** poszkodowanych, o których mowa w art. 38;
+- **2)** poszkodowanych, o których mowa w art. 39.
+
+2. Wykaz zawiera imiona i nazwiska albo nazwy poszkodowanych, ich adresy zamieszkania albo siedziby. ” ;
+
+- **5)** po art. 40 dodaje się art. 40a-40c w brzmieniu: „
+
+1. Termin ważności pozwoleń, o których mowa w art. 36 ust. 1 pkt 1, 3, 4 oraz 6–11 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292), wydanych na terenie województw, na których obszarze został wprowadzony stan klęski żywiołowej w związku z powodzią, która miała miejsce we wrześniu 2024 r., w odniesieniu do zabytków wpisanych do rejestru zabytków niedotkniętych skutkami tej powodzi, który upływa w okresie dwóch miesięcy od dnia wejścia w życie niniejszego przepisu, ulega przedłużeniu do dnia upływu czterech miesięcy od dnia wejścia w życie niniejszego przepisu.
+
+2. Przepis ust. 1 stosuje się odpowiednio także do pozwoleń, o których mowa w art. 36 ust. 1 pkt 2, 5 i 12 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami.
+
+1. W odniesieniu do zabytku wpisanego do rejestru zabytków, znajdującego się na obszarze, na którym został wprowadzony stan klęski żywiołowej w związku z powodzią, która miała miejsce we wrześniu 2024 r., dotkniętego skutkami tej powodzi, w przypadku którego jest konieczne przeprowadzenie pilnych prac konserwatorskich, robót budowlanych lub działań, o których mowa w art. 36 ust. 1 pkt 11 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, niezbędnych w celu usunięcia skutków tej powodzi, wojewódzki konserwator zabytków może, w drodze decyzji, określić zalecenia konserwatorskie ustalające zakres oraz sposób przeprowadzenia tych prac, robót lub działań.
+
+2. W decyzji, o której mowa w ust. 1, wojewódzki konserwator zabytków może określić, że:
+
+- **1)** kierowanie pracami konserwatorskimi albo samodzielne ich wykonywanie ma być realizowane przez osobę spełniającą wymagania, o których mowa odpowiednio w art. 37a ust. 1 i 2 albo art. 37b ust. 1 i 3 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami;
+- **2)** kierowanie robotami budowlanymi albo wykonywanie nadzoru inwestorskiego ma być realizowane przez osobę spełniającą wymagania, o których mowa w art. 37c ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami.
+
+3. W odniesieniu do prac konserwatorskich i robót budowlanych, a także działań o których mowa w art. 36 ust. 1 pkt 11 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, których zakres oraz sposób prowadzenia określono w decyzji wydanej na podstawie ust. 1, nie jest wymagane pozwolenie, o którym mowa w art. 36 ust. 1 tej ustawy.
+
+4. Decyzja, o której mowa w ust. 1, nie może dotyczyć prac konserwatorskich, robót budowlanych i działań, o których mowa w art. 36 ust. 1 pkt 11 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, jeżeli, ze względu na ich zakres lub wpływ na zabytek, o którym mowa w ust. 1, będzie konieczne sporządzenie programu prac, robót lub innych działań albo projektu budowlanego lub przeprowadzenie badań konserwatorskich, badań architektonicznych lub badań archeologicznych.
+
+5. Stroną postępowania w sprawie wydania decyzji, o której mowa w ust. 1, jest właściciel zabytku, o którym mowa w ust. 1, użytkownik wieczysty gruntu, na którym znajduje się zabytek nieruchomy, lub jednostka organizacyjna posiadająca zabytek nieruchomy w trwałym zarządzie.
+
+6. Przy wydawaniu decyzji, o której mowa w ust. 1, wojewódzki konserwator zabytków może odstąpić od zasady wyrażonej w art. 10 § 1 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
+
+7. Decyzja, o której mowa w ust. 1, może być ogłoszona ustnie, zgodnie z art. 14 § 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+
+8. Przepisy ust. 1–7 stosuje się odpowiednio do przemieszczenia zabytku nieruchomego, wpisanego do rejestru zabytków, dotkniętego skutkami powodzi we wrześniu 2024 r. znajdującego się na obszarze, o którym mowa w ust. 1.
+
+9. Przepisy ust. 1 oraz 3–7 stosuje się odpowiednio do trwałego przeniesienia zabytku ruchomego, wpisanego do rejestru zabytków, dotkniętego skutkami powodzi we wrześniu 2024 r. znajdującego się na obszarze, o którym mowa w ust. 1, z naruszeniem ustalonego tradycją wystroju wnętrza, w którym zabytek ten się znajduje, a także do prowadzenia robót budowlanych w otoczeniu zabytku nieruchomego, o którym mowa w ust. 1.
+
+10. W przypadku otrzymania decyzji, o której mowa w ust. 1, za spełniony uznaje się warunek posiadania sporządzonego na piśmie pozwolenia wojewódzkiego konserwatora zabytków na prowadzenie prac konserwatorskich, prac restauratorskich lub robót budowlanych przy zabytku, o którym mowa w art. 26hb ust. 2 pkt 2 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2024 r. poz. 226, z późn. zm.). Do dotacji celowych przyznawanych w związku z powodzią we wrześniu 2024 r.:
+
+- **1)** na prace konserwatorskie lub prace restauratorskie przy zabytku wpisanym na Listę Skarbów Dziedzictwa,
+- **2)** na prace konserwatorskie, prace restauratorskie lub roboty budowlane przy zabytku wpisanym do rejestru zabytków nie stosuje się ograniczenia dotyczącego okresu, po jakim można uzyskać kolejną dotację na ten sam zabytek, określonego w przepisach wydanych na podstawie art. 80 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami. ” ;
+- **6)** po art. 41 dodaje się art. 41a i art. 41b w brzmieniu: „
+
+**Art. 41a.** W przypadku niezrealizowania w wyniku powodzi we wrześniu 2024 r. lub osunięcia ziemi będącego jej skutkiem zadania, o którym mowa w art. 4 ust. 1 pkt 1–2d i 3 ustawy z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg (Dz. U. z 2023 r. poz. 1983 oraz z 2024 r. poz. 1473, 1572 i 1717), którego realizacja rozpoczęła się przed dniem wydania przepisów na podstawie art. 1 ust. 2 ustawy zmienianej w art. 1 na obszarze określonym w tych przepisach, pobranie dofinansowania lub finansowania udzielonego na jego realizację w tej części nie skutkuje uznaniem tego dofinansowania lub finansowania za wykorzystane niezgodnie z przeznaczeniem, pobrane nienależnie lub w nadmiernej wysokości i podlegające zwrotowi. 1. W przypadku naboru wniosków na zadania powiatowe oraz zadania gminne, o którym mowa w art. 21 ust. 1 ustawy z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg, na które przeznaczono środki w planie finansowym Rządowego Funduszu Rozwoju Dróg na 2025 r., wojewoda przedstawia ministrowi właściwemu do spraw transportu listę, o której mowa w art. 24 ust. 5 tej ustawy, w terminie 5 miesięcy od dnia ogłoszenia naboru. 2. W przypadku naboru, o którym mowa w ust. 1, terminy, o których mowa w art. 23 ust. 4 ustawy z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg, mogą być dłuższe niż odpowiednio 10 i 5 dni od dnia otrzymania wezwania do uzupełnienia wniosku lub poprawienia w nim oczywistych omyłek. 3. W przypadku naboru, o którym mowa w ust. 1, Prezes Rady Ministrów, zatwierdzając listy zadań powiatowych oraz zadań gminnych przeznaczonych do dofinansowania w danym województwie, może dokonać podziału rezerwy, o której mowa w art. 26 ust. 1a ustawy z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg, w ten sposób, że może zwiększyć wysokość dofinansowania zadań powiatowych oraz zadań gminnych zlokalizowanych w gminach wskazanych w przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej w art. 1 do 100 % kosztów realizacji tego zadania. ” ;
+
+- **7)** po art. 43 dodaje się art. 43a i art. 43b w brzmieniu: „
+
+**Art. 43a.**
+
+1. Orzeczenie o niepełnosprawności albo orzeczenie o stopniu niepełnosprawności wydane na czas określony, posiadane przez osobę niepełnosprawną mającą miejsce stałego pobytu, albo miejsce pobytu, w przypadku osób określonych w art. 6 ust. 3 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2024 r. poz. 44, 858, 1089, 1165 i 1494), na obszarze gminy poszkodowanej w wyniku wystąpienia powodzi we wrześniu 2024 r., wskazanej w przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej w art. 1, która nie złożyła wniosku o wydanie kolejnego orzeczenia o niepełnosprawności albo orzeczenia o stopniu niepełnosprawności w terminie określonym w art. 6bb ust. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych – zachowuje ważność nie dłużej niż do dnia wydania nowego ostatecznego orzeczenia o niepełnosprawności albo orzeczenia o stopniu niepełnosprawności, pod warunkiem złożenia do przewodniczącego powiatowego zespołu do spraw orzekania o niepełnosprawności, w terminie do upływu 60. dnia od dnia, w którym zniesiono stan klęski żywiołowej wprowadzony w związku z powodzią we wrześniu 2024 r.:
+
+- **1)** wniosku o wydanie kolejnego orzeczenia o niepełnosprawności albo orzeczenia o stopniu niepełnosprawności;
+- **2)** oświadczenia o posiadaniu, na dzień ogłoszenia stanu klęski żywiołowej, miejsca stałego pobytu na obszarze gminy wskazanej w przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej w art. 1, albo posiadaniu na tym obszarze miejsca pobytu, w przypadku osób określonych w art. 6 ust. 3 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych.
+
+2. Przepis ust. 1 stosuje się do osób niepełnosprawnych, określonych w ust. 1, w przypadku których ważność orzeczenia o niepełnosprawności albo orzeczenia o stopniu niepełnosprawności upłynęła w terminie nie wcześniejszym niż siódmy dzień poprzedzający okres na jaki wprowadzono stan klęski żywiołowej, w związku z powodzią we wrześniu 2024 r.
+
+3. Po otrzymaniu wniosku i oświadczenia, o których mowa w ust. 1, przewodniczący powiatowego zespołu do spraw orzekania o niepełnosprawności wydaje niezwłocznie zaświadczenie potwierdzające złożenie tego wniosku oraz określające termin ważności dotychczasowego orzeczenia o niepełnosprawności albo orzeczenia o stopniu niepełnosprawności.
+
+4. W związku z zachowaniem ważności orzeczeń o niepełnosprawności albo orzeczeń o stopniu niepełnosprawności, na okres wskazany w ust. 1, karty parkingowe, o których mowa w art. 8 ust. 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym zachowują ważność do dnia wydania nowego ostatecznego orzeczenia o niepełnosprawności albo orzeczenia o stopniu niepełnosprawności, o którym mowa w ust. 1.
+
+5. Przepis ust. 4 nie ma zastosowania do osób, których karty parkingowe zachowują ważność do dnia 31 marca 2025 r. na podstawie art. 3 ustawy z dnia 24 lipca 2024 r. o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. poz. 1165), o ile termin ten jest dłuższy niż termin określony w ust. 4.
+
+1. W 2024 r. jednostki samorządu terytorialnego na obszarze gmin lub miejscowości wskazanych w przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej w art. 1 mogą otrzymać dotacje celowe z budżetu państwa na dofinansowanie zadań własnych z zakresu systemu pieczy zastępczej, jeżeli doszło do uszkodzenia lub zniszczenia infrastruktury służącej do realizacji tych zadań. Dotacji celowej udziela minister właściwy do spraw rodziny za pośrednictwem wojewody.
+
+2. Dotacje, o których mowa w ust. 1, są udzielane na podstawie zapotrzebowań zgłoszonych przez podmioty systemu pieczy zastępczej na terenie danej jednostki samorządu terytorialnego, które nie mogą realizować na odpowiednim poziomie powierzonych im zadań z uwagi na uszkodzenia lub zniszczenia infrastruktury, składanych do wojewody.
+
+3. Od dnia wejścia w życie niniejszej ustawy w celu udzielenia dotacji, o której mowa w ust. 1, Minister Finansów może dokonywać podziału rezerw celowych, o którym mowa w art. 154 ust. 1 i 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, do dnia 10 grudnia 2024 r.
+
+4. Wnioski dysponentów dotyczące uruchomienia środków, o których mowa w ust. 3, są składane najpóźniej 3 dni robocze przed upływem terminu wskazanego w ust. 3.
+
+5. Przepisy ust. 3 i 4 stosuje się do województw, na których terenie znajdują się gminy poszkodowane, o których mowa w przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej w art. 1.
 
 6. Do rezerw celowych uruchomionych zgodnie z ust. 3:
 
-- **1)** nie stosuje się przepisów art. 128 ust. 2 i art. 170 ustawy z dnia 27 sierpnia 2009 r. finansach publicznych;
-- **2)** termin wskazany art. 154 ust. 8 zdanie pierwsze ustawy z dnia 27 sierpnia 2009 r. finansach publicznych ulega wydłużeniu do dnia 15 grudnia 2024 r.
+- **1)** nie stosuje się przepisów art. 128 ust. 2 i art. 170 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
+- **2)** termin wskazany w art. 154 ust. 8 zdanie pierwsze ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ulega wydłużeniu do dnia 15 grudnia 2024 r.
 
-7. Do dotacji celowych z budżetu państwa dla gmin na dofinansowanie zadań własnych z zakresu organizacji opieki nad dziećmi wieku do lat 3 mają zastosowanie przepisy ust. 3–6.”;
+7. Do dotacji celowych z budżetu państwa dla gmin na dofinansowanie zadań własnych z zakresu organizacji opieki nad dziećmi w wieku do lat 3 mają zastosowanie przepisy ust. 3–6. ” ;
 
 - **8)** uchyla się art. 44 i art. 45;
-- **9)** po art. 48 dodaje się art. 48a i art. 48b brzmieniu: „Art. 48a. 1. Uczestnikowi centrum integracji społecznej zamieszkującemu na terenie obszaru wskazanego przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej art. 1 przysługuje do dnia, którym upływają 3 miesiące od dnia ustania albo odwołania stanu klęski żywiołowej, do 30 dni wolnych od zajęć centrum integracji społecznej, celu usuwania skutków powodzi z września 2024 r. odniesieniu bezpośrednio do swojego mienia lub mienia osoby z nim spokrewnionej lub niespokrewnionej pozostającej z nim faktycznym związku, wspólnie zamieszkującej i gospodarującej.
+- **9)** po art. 48 dodaje się art. 48a i art. 48b w brzmieniu: „
 
-2. Uczestnikowi centrum integracji społecznej zamieszkującemu na terenie obszaru wskazanego przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej art. 1 przysługuje, okresie, którym mowa ust. 1, do 15 dni wolnych od zajęć centrum integracji społecznej, jeżeli brak możliwości udziału zajęciach był spowodowany okolicznościami związanymi z powodzią z września 2024 r.
+**Art. 48a.**
 
-3. Dni wolne od zajęć centrum integracji społecznej, których mowa ust. 1 i 2, przyznaje kierownik centrum integracji społecznej na wniosek uczestnika, uwzględniając informacje przedstawione przez uczestnika, tym informacje związanych z powodzią z września 2024 r. przyczynach braku możliwości uczestnictwa zajęciach.
+1. Uczestnikowi centrum integracji społecznej zamieszkującemu na terenie obszaru wskazanego w przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej w art. 1 przysługuje do dnia, w którym upływają 3 miesiące od dnia ustania albo odwołania stanu klęski żywiołowej, do 30 dni wolnych od zajęć w centrum integracji społecznej, w celu usuwania skutków powodzi z września 2024 r. w odniesieniu bezpośrednio do swojego mienia lub mienia osoby z nim spokrewnionej lub niespokrewnionej pozostającej z nim w faktycznym związku, wspólnie zamieszkującej i gospodarującej.
 
-4. W przypadkach, których mowa ust. 1 i 2, uczestnikowi centrum integracji społecznej za dni wolne od zajęć przysługuje świadczenie integracyjne pełnej wysokości.
+2. Uczestnikowi centrum integracji społecznej zamieszkującemu na terenie obszaru wskazanego w przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej w art. 1 przysługuje, w okresie, o którym mowa w ust. 1, do 15 dni wolnych od zajęć w centrum integracji społecznej, jeżeli brak możliwości udziału w zajęciach był spowodowany okolicznościami związanymi z powodzią z września 2024 r.
 
-5. Informacje świadczeniach integracyjnych wypłaconych na warunkach, których mowa ust. 1 i 2, kierownik centrum integracji społecznej uwzględnia we wniosku, którym mowa art. 15 ust. 8 ustawy z dnia 13 czerwca 2003 r. zatrudnieniu socjalnym (Dz. U. z 2022 r. poz. 2241 oraz z 2024 r. poz. 1635).
+3. Dni wolne od zajęć w centrum integracji społecznej, o których mowa w ust. 1 i 2, przyznaje kierownik centrum integracji społecznej na wniosek uczestnika, uwzględniając informacje przedstawione przez uczestnika, w tym informacje o związanych z powodzią z września 2024 r. przyczynach braku możliwości uczestnictwa w zajęciach.
 
-**Art. 48b.**
+4. W przypadkach, o których mowa w ust. 1 i 2, uczestnikowi centrum integracji społecznej za dni wolne od zajęć przysługuje świadczenie integracyjne w pełnej wysokości.
 
-1. Nieobecność zajęciach centrum integracji społecznej uczestnika zamieszkującego na terenie obszaru wskazanego przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej art. 1, spowodowana okolicznościami, których mowa odpowiednio art. 48a ust. 1 i 2, może na wniosek uczestnika zostać uznana za dni wolne od zajęć, jeżeli łącznie są spełnione następujące warunki:
+5. Informacje o świadczeniach integracyjnych wypłaconych na warunkach, o których mowa w ust. 1 i 2, kierownik centrum integracji społecznej uwzględnia we wniosku, o którym mowa w art. 15 ust. 8 ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. z 2022 r. poz. 2241 oraz z 2024 r. poz. 1635).
 
-- **1)** nieobecność miała miejsce między 16 września 2024 r. a dniem wejścia życie niniejszego przepisu;
-- **2)** uczestnik złoży wniosek do kierownika centrum integracji społecznej uznanie nieobecności za dni wolne;
-- **3)** kierownik centrum integracji społecznej oceni wniosek jako uzasadniony, biorąc pod uwagę okoliczności określone art. 48a ust. 3.
+1. Nieobecność w zajęciach w centrum integracji społecznej uczestnika zamieszkującego na terenie obszaru wskazanego w przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej w art. 1, spowodowana okolicznościami, o których mowa odpowiednio w art. 48a ust. 1 i 2, może na wniosek uczestnika zostać uznana za dni wolne od zajęć, jeżeli łącznie są spełnione następujące warunki:
 
-2. Dni wolnych od zajęć przyznanych na podstawie ust. 1 nie wlicza się do limitów dni wolnych, których mowa art. 48a ust. 1 i 2.
+- **1)** nieobecność miała miejsce między 16 września 2024 r. a dniem wejścia w życie niniejszego przepisu;
+- **2)** uczestnik złoży wniosek do kierownika centrum integracji społecznej o uznanie nieobecności za dni wolne;
+- **3)** kierownik centrum integracji społecznej oceni wniosek jako uzasadniony, biorąc pod uwagę okoliczności określone w art. 48a ust. 3.
 
-3. Za dni wolne od zajęć przyznane na podstawie ust. 1 przysługuje świadczenie integracyjne pełnej wysokości.
+2. Dni wolnych od zajęć przyznanych na podstawie ust. 1 nie wlicza się do limitów dni wolnych, o których mowa w art. 48a ust. 1 i 2.
 
-4. Informacje świadczeniach integracyjnych, których mowa ust. 3, kierownik centrum integracji społecznej uwzględnia we wniosku, którym mowa art. 15 ust. 8 ustawy z dnia 13 czerwca 2003 r. zatrudnieniu socjalnym.”;
+3. Za dni wolne od zajęć przyznane na podstawie ust. 1 przysługuje świadczenie integracyjne w pełnej wysokości.
 
+4. Informacje o świadczeniach integracyjnych, o których mowa w ust. 3, kierownik centrum integracji społecznej uwzględnia we wniosku, o którym mowa w art. 15 ust. 8 ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym. ” ;
+
+- **10)** uchyla się art. 50;
 - **11)** uchyla się art. 55;
-- **12)** po art. 55 dodaje się art. 55a brzmieniu: „Art. 55a. 1. Minister właściwy do spraw szkolnictwa wyższego i nauki może udzielić na wniosek uczelni niepublicznej, która jest właścicielem obiektu budowlanego użytkowanego na cele kształcenia, uszkodzonego na skutek powodzi, znajdującego się na obszarze, na którym został wprowadzony stan klęski żywiołowej związku z powodzią, która miała miejsce we wrześniu 2024 r., dotacji celowej na dofinansowanie prac remontowych związanych z usunięciem skutków powodzi tym obiekcie.
+- **12)** po art. 55 dodaje się art. 55a w brzmieniu: „
 
-2. Wniosek, którym mowa ust. 1, składa się terminie trzech miesięcy od dnia, którym nastąpiło zakończenie okresu, na który został ogłoszony stan klęski żywiołowej związku z powodzią, która miała miejsce we wrześniu 2024 r., systemie teleinformatycznym wskazanym przez ministra właściwego do spraw szkolnictwa wyższego i nauki na jego stronie podmiotowej Biuletynie Informacji Publicznej.
+**Art. 55a.**
 
-3. Wniosek, którym mowa ust. 1, zawiera:
+1. Minister właściwy do spraw szkolnictwa wyższego i nauki może udzielić na wniosek uczelni niepublicznej, która jest właścicielem obiektu budowlanego użytkowanego na cele kształcenia, uszkodzonego na skutek powodzi, znajdującego się na obszarze, na którym został wprowadzony stan klęski żywiołowej w związku z powodzią, która miała miejsce we wrześniu 2024 r., dotacji celowej na dofinansowanie prac remontowych związanych z usunięciem skutków powodzi w tym obiekcie.
 
-- **1)** dane wnioskodawcy:
-    - **a)** nazwę,
-    - **b)** dane teleadresowe,
-    - **c)** NIP i REGON,
-    - **d)** imię i nazwisko, numer telefonu i adres poczty elektronicznej rektora;
+2. Wniosek, o którym mowa w ust. 1, składa się w terminie trzech miesięcy od dnia, w którym nastąpiło zakończenie okresu, na który został ogłoszony stan klęski żywiołowej w związku z powodzią, która miała miejsce we wrześniu 2024 r., w systemie teleinformatycznym wskazanym przez ministra właściwego do spraw szkolnictwa wyższego i nauki na jego stronie podmiotowej w Biuletynie Informacji Publicznej.
 
-- **2)** lokalizację obiektu, którym mowa ust. 1;
-- **3)** zakres rzeczowy i opis remontu obiektu, którym mowa ust. 1;
-- **4)** wnioskowaną wysokość środków finansowych, które mają być przeznaczone na remont obiektu, którym mowa ust. 1;
-- **5)** harmonogram rzeczowo-finansowy remontu obiektu, którym mowa ust. 1.
+3. Wniosek, o którym mowa w ust. 1, zawiera:
 
-4. Do wniosku, którym mowa ust. 1, dołącza się:
+- **1)** dane wnioskodawcy: nazwę, dane teleadresowe, NIP i REGON, imię i nazwisko, numer telefonu i adres poczty elektronicznej rektora;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
-- **1)** oświadczenie wnioskodawcy posiadaniu prawa własności do obiektu, którym mowa ust. 1;
-- **2)** uwierzytelnione kopie dokumentów poświadczających zaistniałą szkodę obiekcie, którym mowa ust. 1.”;
-- **13)** po art. 57 dodaje się art. 57a brzmieniu: „Art. 57a. 1. Wsparcie określone niniejszej ustawie, stanowiące pomoc publiczną, może być udzielane wyłącznie jako pomoc mająca na celu naprawienie szkód spowodowanych niektórymi klęskami żywiołowymi, spełniająca warunki określone art. 50 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm. ).
+- **2)** lokalizację obiektu, o którym mowa w ust. 1;
+- **3)** zakres rzeczowy i opis remontu obiektu, o którym mowa w ust. 1;
+- **4)** wnioskowaną wysokość środków finansowych, które mają być przeznaczone na remont obiektu, o którym mowa w ust. 1;
+- **5)** harmonogram rzeczowo-finansowy remontu obiektu, o którym mowa w ust. 1.
 
-2. Łączna wartość pomocy publicznej, której mowa ust. 1, łącznie z wartością pomocy publicznej otrzymanej na ten sam cel na podstawie przepisów odrębnych nie może przekroczyć wartości szkody poniesionej przez beneficjenta pomocy bezpośrednio wyniku powodzi, obejmującej szkody materialne dotyczące aktywów oraz utratę dochodu wyniku całkowitego lub częściowego zawieszenia działalności przez okres nie dłuższy niż 6 miesięcy od wystąpienia powodzi, związku z którą zostało wydane rozporządzenie, którym mowa art. 1 ust. 2 ustawy zmienianej art. 1, pomniejszonej wartość uzyskanego odszkodowania.”;
+4. Do wniosku, o którym mowa w ust. 1, dołącza się:
 
-- **14)** art. 59 wyrazy „linii kolejowych lub dworców kolejowych” zastępuje się wyrazami „linii kolejowych, dworców kolejowych lub napowietrznych linii elektroenergetycznych napięciu znamionowym nie mniejszym niż 110 kV”;
-- **15)** po art. 59 dodaje się art. 59a brzmieniu: „Art. 59a. 1. W roku 2024 niewykorzystane środki na finansowanie programów wieloletnich, zablokowane na podstawie art. 177 ust. 1 ustawy z dnia 27 sierpnia 2009 r. finansach publicznych, mogą zostać przeniesione do rezerwy celowej przeznaczonej na przeciwdziałanie klęskom żywiołowym i usuwanie ich skutków trybie określonym odrębnych przepisach.
-- **16)** po art. 60 dodaje się art. 60a i art. 60b brzmieniu: „Art. 60a. W roku akademickim 2024/2025 do przyznania zapomóg studentom, którzy znaleźli się przejściowo trudnej sytuacji życiowej na skutek powodzi we wrześniu 2024 r., nie stosuje się przepisu art. 92 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571).
+- **1)** oświadczenie wnioskodawcy o posiadaniu prawa własności do obiektu, o którym mowa w ust. 1;
+- **2)** uwierzytelnione kopie dokumentów poświadczających zaistniałą szkodę w obiekcie, o którym mowa w ust. 1. ” ;
+- **13)** po art. 57 dodaje się art. 57a w brzmieniu: „
 
-**Art. 60b.**
+**Art. 57a.**
 
-1. Do dnia 31 grudnia 2025 r. zwalnia się od uiszczenia opłaty za wydanie z Krajowego Rejestru Karnego informacji osobie, której mowa art. 24 ust. 1 ustawy z dnia 24 maja 2000 r. Krajowym Rejestrze Karnym (Dz. U. z 2024 r. poz. 276), osoby, które mają być dopuszczone do działalności, której mowa art. 21 ustawy z dnia 13 maja 2016 r. przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich (Dz. U. z 2024 r. poz. 560 i 1228), skierowanej do dzieci, uczniów i wychowanków przedszkoli, innych form wychowania przedszkolnego, szkół lub placówek, których mowa art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, których wystąpiły szkody wyniku działania intensywnych opadów atmosferycznych lub powodzi we wrześniu 2024 r., położonych na terenie gmin wskazanych przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej art. 1.
+1. Wsparcie określone w niniejszej ustawie, stanowiące pomoc publiczną, może być udzielane wyłącznie jako pomoc mająca na celu naprawienie szkód spowodowanych niektórymi klęskami żywiołowymi, spełniająca warunki określone w art. 50 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.).
 
-2. Osoba, której mowa ust. 1, ubiegająca się wydanie informacji, której mowa ust. 1, do wniosku wydanie tej informacji załącza oświadczenie, że informacja ta ma być wydana dla celów wykonywania przez nią działalności, której mowa art. 21 ustawy z dnia 13 maja 2016 r. przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich, skierowanej do dzieci, uczniów i wychowanków przedszkoli, innych form wychowania przedszkolnego, szkół lub placówek, których mowa art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, których wystąpiły szkody wyniku działania intensywnych opadów atmosferycznych lub powodzi we wrześniu 2024 r., położonych na terenie gminy określonej przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej art. 1. Oświadczenie składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu odpowiedzialności karnej za składanie fałszywych oświadczeń.”;
+2. Łączna wartość pomocy publicznej, o której mowa w ust. 1, łącznie z wartością pomocy publicznej otrzymanej na ten sam cel na podstawie przepisów odrębnych nie może przekroczyć wartości szkody poniesionej przez beneficjenta pomocy bezpośrednio w wyniku powodzi, obejmującej szkody materialne dotyczące aktywów oraz utratę dochodu w wyniku całkowitego lub częściowego zawieszenia działalności przez okres nie dłuższy niż 6 miesięcy od wystąpienia powodzi, w związku z którą zostało wydane rozporządzenie, o którym mowa w art. 1 ust. 2 ustawy zmienianej w art. 1, pomniejszonej o wartość uzyskanego odszkodowania. ” ;
 
-- **17)** art. 68 ust. 1 wyrazy „określonego przepisach wydanych na podstawie art. 232 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. (Dz. U. poz. 483, z 2001 r. poz. 319, z 2006 r. poz. 1471 oraz z 2009 r. poz. 946) oraz art. 5 ust. 1 i 2 ustawy z dnia 18 kwietnia 2002 r. stanie klęski żywiołowej (Dz. U. z 2017 r. poz. 1897)” zastępuje się wyrazami „wskazanego przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej art. 1,”;
-- **18)** art. 69:
-    - **a)** ust. 1 po wyrazach „1 tys. zł” skreśla się wyraz „brutto”,
-    - **b)** po ust. 1 dodaje się ust. 1a i 1b brzmieniu: „1a. Powiększenia, którym mowa ust. 1, dokonuje, drodze decyzji, wójt (burmistrz, prezydent miasta) z urzędu.
+- **14)** w art. 59 wyrazy „linii kolejowych lub dworców kolejowych” zastępuje się wyrazami „linii kolejowych, dworców kolejowych lub napowietrznych linii elektroenergetycznych o napięciu znamionowym nie mniejszym niż 110 kV”;
+- **15)** po art. 59 dodaje się art. 59a w brzmieniu: „
 
-1b. Do decyzji wydanej na podstawie ust. 1 stosuje się odpowiednio przepisy art. 5 ust. 2, 6a i 7 ustawy zmienianej art. 1.”,
+**Art. 59a.**
 
-- **c)** ust. 2 wyrazy „25 mln zł” zastępuje się wyrazami „75 mln zł”;
-- **19)** po art. 69 dodaje się art. 69a–69c brzmieniu: „Art. 69a. Zasiłek celowy, którym mowa art. 40 ust. 2 ustawy z dnia 12 marca 2004 r. pomocy społecznej, kwocie 8 tys. zł, jest przyznawany jako pomoc doraźna osobie albo rodzinie, które poniosły stratę wyniku powodzi we wrześniu 2024 r., niezależnie od dochodu i sytuacji majątkowej i nie podlega zwrotowi.
+1. W roku 2024 niewykorzystane środki na finansowanie programów wieloletnich, zablokowane na podstawie art. 177 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, mogą zostać przeniesione do rezerwy celowej przeznaczonej na przeciwdziałanie klęskom żywiołowym i usuwanie ich skutków w trybie określonym w odrębnych przepisach.
 
-**Art. 69b.**
+2. Do środków, o których mowa w ust. 1, ograniczeń wynikających z art. 173 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych nie stosuje się. ” ;
 
-1. Zasiłek celowy, którym mowa art. 40 ust. 2 ustawy z dnia 12 marca 2004 r. pomocy społecznej, z przeznaczeniem na remont, odbudowę budynku mieszkalnego, lokalu mieszkalnego, budynku gospodarczego, a także odtworzenie budynku lub lokalu mieszkalnego innym miejscu lub innych wymiarach, zakup budynku lub lokalu mieszkalnego albo budynku mieszkalnego wraz z gruntem, na którym jest posadowiony albo zakup działki budowlanej albo najem budynku lub lokalu mieszkalnego, jest przyznawany osobie albo rodzinie, które poniosły stratę wyniku powodzi we wrześniu 2024 r., niezależnie od dochodu i sytuacji majątkowej tej osoby albo rodziny.
+- **16)** po art. 60 dodaje się art. 60a i art. 60b w brzmieniu: „
 
-2. Przy rozliczaniu zasiłku celowego, którym mowa ust. 1, uwzględnia się wydatki poniesione od dnia 16 września 2024 r. ustaleniu prawa do tego zasiłku, na podstawie wniosku złożonego przez osobę poszkodowaną terminie 4 dni od dnia złożenia wniosku.
+**Art. 60a.** W roku akademickim 2024/2025 do przyznania zapomóg studentom, którzy znaleźli się przejściowo w trudnej sytuacji życiowej na skutek powodzi we wrześniu 2024 r., nie stosuje się przepisu art. 92 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571). 1. Do dnia 31 grudnia 2025 r. zwalnia się od uiszczenia opłaty za wydanie z Krajowego Rejestru Karnego informacji o osobie, o której mowa w art. 24 ust. 1 ustawy z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym (Dz. U. z 2024 r. poz. 276), osoby, które mają być dopuszczone do działalności, o której mowa w art. 21 ustawy z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich (Dz. U. z 2024 r. poz. 560 i 1228), skierowanej do dzieci, uczniów i wychowanków przedszkoli, innych form wychowania przedszkolnego, szkół lub placówek, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, w których wystąpiły szkody w wyniku działania intensywnych opadów atmosferycznych lub powodzi we wrześniu 2024 r., położonych na terenie gmin wskazanych w przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej w art. 1. 2. Osoba, o której mowa w ust. 1, ubiegająca się o wydanie informacji, o której mowa w ust. 1, do wniosku o wydanie tej informacji załącza oświadczenie, że informacja ta ma być wydana dla celów wykonywania przez nią działalności, o której mowa w art. 21 ustawy z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich, skierowanej do dzieci, uczniów i wychowanków przedszkoli, innych form wychowania przedszkolnego, szkół lub placówek, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, w których wystąpiły szkody w wyniku działania intensywnych opadów atmosferycznych lub powodzi we wrześniu 2024 r., położonych na terenie gminy określonej w przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej w art. 1. Oświadczenie składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń. ” ;
 
-4. W przypadku złożenia wniosku zasiłek celowy, którym mowa ust. 1, na kwotę niższą niż określona ust. 3, zasiłek celowy wypłaca się trybie określonym ust. 3, kwocie określonej tym wniosku.
+- **17)** w art. 68 w ust. 1 wyrazy „określonego w przepisach wydanych na podstawie art. 232 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. (Dz. U. poz. 483, z 2001 r. poz. 319, z 2006 r. poz. 1471 oraz z 2009 r. poz. 946) oraz art. 5 ust. 1 i 2 ustawy z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej (Dz. U. z 2017 r. poz. 1897)” zastępuje się wyrazami „wskazanego w przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej w art. 1,”;
+- **18)** w art. 69: w ust. 1 po wyrazach „1 tys. zł” skreśla się wyraz „brutto”, po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
+    - **a)**
+    - **b)**
 
-5. Przy ustaleniu prawa do zasiłku celowego, którym mowa ust. 1, uwzględnia się kwotę, której mowa ust. 3 albo 4.
+1a. Powiększenia, o którym mowa w ust. 1, dokonuje, w drodze decyzji, wójt (burmistrz, prezydent miasta) z urzędu.
 
-6. W przypadku nieustalenia prawa do zasiłku celowego, którym mowa ust. 1, albo ustalenia kwoty tego zasiłku wysokości niższej niż określona ust. 3 albo 4, wypłacona część zasiłku podlega zwrotowi odpowiednio kwocie wypłaconej albo kwocie różnicy między kwotą wypłaconą a kwotą zasiłku ustaloną zgodnie z ust. 4 i 5.
+1b. Do decyzji wydanej na podstawie ust. 1 stosuje się odpowiednio przepisy art. 5 ust. 2, 6a i 7 ustawy zmienianej w art. 1. ” , w ust. 2 wyrazy „25 mln zł” zastępuje się wyrazami „75 mln zł”;
 
-7. Część zasiłku celowego, którym mowa ust. 1, podlegającą zwrotowi uznaje się za świadczenie nienależnie pobrane, którym mowa art. 6 pkt 16 ustawy z dnia 12 marca 2004 r. pomocy społecznej.
+- **c)**
+- **19)** po art. 69 dodaje się art. 69a-69c w brzmieniu: „
 
-8. Ustalenia prawa do zasiłku celowego, którym mowa ust. 1, oraz jego wypłaty, tym z uwzględnieniem ust. 3 i 4, może dokonywać także wójt (burmistrz, prezydent miasta) lub upoważniony przez niego, formie pisemnej, pracownik urzędu gminy. W tym celu ośrodek pomocy społecznej, a przypadku przekształcenia ośrodka pomocy społecznej centrum usług społecznych na podstawie ustawy z dnia 19 lipca 2019 r. realizowaniu usług społecznych przez centrum usług społecznych – centrum usług społecznych, udostępnia urzędowi gminy dokumentację.
+**Art. 69a.** Zasiłek celowy, o którym mowa w art. 40 ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, w kwocie 8 tys. zł, jest przyznawany jako pomoc doraźna osobie albo rodzinie, które poniosły stratę w wyniku powodzi we wrześniu 2024 r., niezależnie od dochodu i sytuacji majątkowej i nie podlega zwrotowi. 1. Zasiłek celowy, o którym mowa w art. 40 ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, z przeznaczeniem na remont, odbudowę budynku mieszkalnego, lokalu mieszkalnego, budynku gospodarczego, a także odtworzenie budynku lub lokalu mieszkalnego w innym miejscu lub o innych wymiarach, zakup budynku lub lokalu mieszkalnego albo budynku mieszkalnego wraz z gruntem, na którym jest posadowiony albo zakup działki budowlanej albo najem budynku lub lokalu mieszkalnego, jest przyznawany osobie albo rodzinie, które poniosły stratę w wyniku powodzi we wrześniu 2024 r., niezależnie od dochodu i sytuacji majątkowej tej osoby albo rodziny. 2. Przy rozliczaniu zasiłku celowego, o którym mowa w ust. 1, uwzględnia się wydatki poniesione od dnia 16 września 2024 r. 3.
 
-9. W szczególnie uzasadnionych przypadkach wojewoda może przejąć do rozpatrzenia, tym wydania decyzji, sprawę przyznania zasiłku celowego, którym mowa ust. 1.
+## Część zasiłku celowego, o którym mowa w ust. 1, wypłaca się w kwocie 50 tys. zł przed wydaniem decyzji o ustaleniu prawa do tego zasiłku, na podstawie wniosku złożonego przez osobę poszkodowaną w terminie 4 dni od dnia złożenia wniosku.
 
-10. W przypadku, którym mowa ust. 9, organ właściwy do wydania decyzji przyznaniu zasiłku celowego, którym mowa ust. 1, niezwłocznie udostępnia wojewodzie dokumentację.
+## Część zasiłku celowego, o którym mowa w ust. 1, podlegającą zwrotowi uznaje się za świadczenie nienależnie pobrane, o którym mowa w art. 6 pkt 16 ustawy z dnia 12 marca 2004 r. o pomocy społecznej.
 
-11. Wojewoda po wydaniu decyzji, której mowa ust. 9, niezwłocznie wypłaca zasiłek celowy, którym mowa ust. 1.
+**Art. 71a.**
 
-12. Wojewoda niezwłocznie informuje organ właściwy do wydania decyzji przyznaniu zasiłku celowego, którym mowa ust. 1, wydaniu decyzji i wypłacie tego zasiłku. Przepis art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się odpowiednio.
+1. W latach 2024–2026 przy ustalaniu wysokości podstawowych kwot dotacji, o których mowa w art. 12, art. 13 i art. 50 ust. 1 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. z 2024 r. poz. 754, 1562 i 1572), nie uwzględnia się zaplanowanych odpowiednio na 2024 r., 2025 r. i 2026 r. w budżecie jednostki samorządu terytorialnego wydatków bieżących związanych z usuwaniem skutków szkód powstałych w wyniku działania intensywnych opadów atmosferycznych lub powodzi we wrześniu 2024 r. w budynkach odpowiednio przedszkoli, innych form wychowania przedszkolnego, szkół i placówek, o których mowa w art. 2 pkt 7 i 8 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, położonych na terenie gmin wskazanych w przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej w art. 1.
 
-**Art. 69c.**
+2. W latach 2025–2027 przy obliczaniu wysokości wskaźnika zwiększającego, o którym mowa w art. 14 ust. 1 i 2 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych, nie uwzględnia się:
 
-1. W przypadku gdy zasiłek celowy, którym mowa art. 40 ust. 2 ustawy z dnia 12 marca 2004 r. pomocy społecznej na pomoc doraźną, został wypłacony kwocie niższej niż określona art. 69a, wypłaca się wyrównanie na podstawie decyzji wydanej z urzędu. Przepisów art. 10 i art. 61 § 4 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
+- **1)** wydatków bieżących odpowiednio z 2024 r., 2025 r. i 2026 r., związanych z usuwaniem skutków szkód powstałych w wyniku działania intensywnych opadów atmosferycznych lub powodzi we wrześniu 2024 r. w budynkach szkół położonych na terenie gmin wskazanych w przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej w art. 1;
+- **2)** środków, o których mowa w art. 14 ust. 3 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych, przeznaczonych na usuwanie skutków szkód powstałych w wyniku działania intensywnych opadów atmosferycznych lub powodzi w budynkach szkół położonych na terenie gmin wskazanych w przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej w art. 1. ” ;
+- **22)** po art. 72 dodaje się art. 72a-72c w brzmieniu: „
 
-2. Kwotę wyrównania stanowi różnica między wypłaconym zasiłkiem celowym na pomoc doraźną, a kwotą, której mowa art. 69a.”;
+**Art. 72a.**
 
-- **20)** art. 71:
-    - **a)** ust. 1 po wyrazach „na podstawie art. 1 ust. 2” dodaje się wyrazy „ustawy zmienianej art. 1”,
-    - **b)** dodaje się ust. 4 brzmieniu: „4. Do udzielania dotacji przeznaczonej na wypłatę dodatków, których mowa ust. 1, nie stosuje się ograniczenia określonego art. 128 ust. 2 ustawy z dnia 27 sierpnia 2009 r. finansach publicznych.”;
+1. Nie nakłada się kar pieniężnych, o których mowa w art. 9x ust. 2 pkt 1 i 2 oraz art. 9y ust. 2 pkt 1 i 2 ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2024 r. poz. 399 i 1717), za 2024 r. i 2025 r. oraz kar pieniężnych, o których mowa w art. 9x ust. 2 pkt 3 oraz art. 9y ust. 2 pkt 3 tej ustawy, za 2025 r. odpowiednio na przedsiębiorców i gminne jednostki organizacyjne, odbierające odpady komunalne z gmin wskazanych w przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej w art. 1.
 
-- **21)** po art. 71 dodaje się art. 71a brzmieniu: „Art. 71a. 1. W latach 2024–2026 przy ustalaniu wysokości podstawowych kwot dotacji, których mowa art. 12, art. 13 i art. 50 ust. 1 ustawy z dnia 27 października 2017 r. finansowaniu zadań oświatowych (Dz. U. z 2024 r. poz. 754, 1562 i 1572), nie uwzględnia się zaplanowanych odpowiednio na 2024 r., 2025 r. i 2026 r. budżecie jednostki samorządu terytorialnego wydatków bieżących związanych z usuwaniem skutków szkód powstałych wyniku działania intensywnych opadów atmosferycznych lub powodzi we wrześniu 2024 r. budynkach odpowiednio przedszkoli, innych form wychowania przedszkolnego, szkół i placówek, których mowa art. 2 pkt 7 i 8 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, położonych na terenie gmin wskazanych przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej art. 1.
+2. Nie nakłada się kar pieniężnych, o których mowa w art. 9z ust. 2a pkt 1 i 2 ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach, za 2024 r. i 2025 r. oraz kar pieniężnych, o których mowa w art. 9z ust. 2a pkt 3 tej ustawy, za 2025 r., na gminy, o których mowa w ust. 1. W 2024 r. z rezerwy celowej przeznaczonej na przeciwdziałanie klęskom żywiołowym i usuwanie ich skutków może być finansowana pomoc dla producenta rolnego, w którego gospodarstwie rolnym powstały szkody spowodowane wystąpieniem w 2024 r. powodzi, gradu, deszczu nawalnego, przymrozków wiosennych lub huraganu oraz na świadczenia interwencyjne dla rolników. Pomoc ta będzie udzielana na podstawie odrębnych przepisów, a jej łączna kwota nie może przekroczyć 84 mln zł.
 
-2. W latach 2025–2027 przy obliczaniu wysokości wskaźnika zwiększającego, którym mowa art. 14 ust. 1 i 2 ustawy z dnia 27 października 2017 r. finansowaniu zadań oświatowych, nie uwzględnia się: łych wyniku działania intensywnych opadów atmosferycznych lub powodzi we wrześniu 2024 r. budynkach szkół położonych na terenie gmin wskazanych przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej art. 1;
+1. Dotację celową na wypłatę zasiłków, o których mowa w art. 40 ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej oraz w art. 69a-69c, powiększa się o kwotę odpowiadającą wysokości 0,5 % łącznej kwoty dotacji wypłaconej w gminie, w związku z wystąpieniem powodzi z września 2024 r., w celu pokrycia kosztów wypłaty tych zasiłków.
 
-- **2)** środków, których mowa art. 14 ust. 3 ustawy z dnia 27 października 2017 r. finansowaniu zadań oświatowych, przeznaczonych na usuwanie skutków szkód powstałych wyniku działania intensywnych opadów atmosferycznych lub powodzi budynkach szkół położonych na terenie gmin wskazanych przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej art. 1.”;
-- **22)** po art. 72 dodaje się art. 72a–72c brzmieniu: „Art. 72a. 1. Nie nakłada się kar pieniężnych, których mowa art. 9x ust. 2 pkt 1 i 2 oraz art. 9y ust. 2 pkt 1 i 2 ustawy z dnia 13 września 1996 r. utrzymaniu czystości i porządku gminach (Dz. U. z 2024 r. poz. 399 i 1717), za 2024 r. i 2025 r. oraz kar pieniężnych, których mowa art. 9x ust. 2 pkt 3 oraz art. 9y ust. 2 pkt 3 tej ustawy, za 2025 r. odpowiednio na przedsiębiorców i gminne jednostki organizacyjne, odbierające odpady komunalne z gmin wskazanych przepisach wydanych na podstawie art. 1 ust. 2 ustawy zmienianej art. 1.
+2. Zwiększenie, o którym mowa w ust. 1:
 
-2. Nie nakłada się kar pieniężnych, których mowa art. 9z ust. 2a pkt 1 i 2 ustawy z dnia 13 września 1996 r. utrzymaniu czystości i porządku gminach, za 2024 r. i 2025 r. oraz kar pieniężnych, których mowa art. 9z ust. 2a pkt 3 tej ustawy, za 2025 r., na gminy, których mowa ust. 1.
+- **1)** obejmuje kwotę zasiłków wypłaconych w związku z wystąpieniem powodzi z września 2024 r.;
+- **2)** jest finansowane z rezerwy celowej przeznaczonej na przeciwdziałanie klęskom żywiołowym i usuwanie ich skutków. ” .
 
-**Art. 72b.** W 2024 r. z rezerwy celowej przeznaczonej na przeciwdziałanie klęskom żywiołowym i usuwanie ich skutków może być finansowana pomoc dla producenta rolnego, którego gospodarstwie rolnym powstały szkody spowodowane wystąpieniem 2024 r. powodzi, gradu, deszczu nawalnego, przymrozków wiosennych lub huraganu oraz na świadczenia interwencyjne dla rolników. Pomoc ta będzie udzielana na podstawie odrębnych przepisów, a jej łączna kwota nie może przekroczyć 84 mln zł.
+**Art. 20.** W ustawie z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572) w art. 108 ust. 2 otrzymuje brzmienie: „ 2. W roku 2024 do podziału rezerw, o których mowa w art. 26 ust. 1, art. 28 ust. 2, art. 36 ust. 4 pkt 1 i art. 36b ustawy uchylanej w art. 120, oraz przekazywania jednostkom samorządu terytorialnego środków pochodzących z tych rezerw stosuje się przepisy ustawy uchylanej w art. 120, z tym, że podział rezerwy, o której mowa w art. 28 ust. 2 tej ustawy następuje nie później niż do dnia 16 grudnia. ” .
 
-**Art. 72c.**
+**Art. 21.** W okresie od dnia wejścia w życie niniejszej ustawy do dnia 31 grudnia 2026 r., na obszarze, na którym wprowadzono stan klęski żywiołowej w związku z powodzią, która miała miejsce we wrześniu 2024 r., rada gminy może uchwalić miejscowy plan odbudowy, o którym mowa w art. 13d ustawy zmienianej w art. 8, przy czym:
 
-1. Dotację celową na wypłatę zasiłków, których mowa art. 40 ust. 2 ustawy z dnia 12 marca 2004 r. pomocy społecznej oraz art. 69a–69c, powiększa się kwotę odpowiadającą wysokości 0,5 % łącznej kwoty dotacji wypłaconej gminie, związku z wystąpieniem powodzi z września 2024 r., celu pokrycia kosztów wypłaty tych zasiłków.
+- **1)** plan ten uchwala się w celu umożliwienia odbudowy obiektów budowlanych, o których mowa w art. 6 pkt 6 ustawy zmienianej w art. 7, zniszczonych lub uszkodzonych w wyniku tej powodzi;
+- **2)** plan ten określa granice zewnętrzne gruntów przeznaczonych do odbudowy obiektów budowlanych zniszczonych lub uszkodzonych w wyniku tej powodzi;
+- **3)** dopuszcza się ograniczenie form konsultacji społecznych do zbierania uwag oraz prowadzenie konsultacji społecznych przez okres co najmniej 14 dni.
 
-2. Zwiększenie, którym mowa ust. 1:
+1. W okresie od dnia wejścia w życie niniejszej ustawy do dnia 31 grudnia 2025 r., w przypadku niewydania przez właściwy organ Państwowego Gospodarstwa Wodnego Wody Polskie, na którego obszarze działania wprowadzono stan klęski żywiołowej w związku z powodzią, która miała miejsce we wrześniu 2024 r.:
 
-- **1)** obejmuje kwotę zasiłków wypłaconych związku z wystąpieniem powodzi z września 2024 r.;
-- **2)** jest finansowane z rezerwy celowej przeznaczonej na przeciwdziałanie klęskom żywiołowym i usuwanie ich skutków.”.
+- **1)** decyzji, o których mowa w art. 18 ust. 1 ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu (Dz. U. z 2024 r. poz. 1286) w terminie, o którym mowa w art. 18 ust. 1 tej ustawy, nie wymierza się kary, o której mowa w art. 18 ust. 3 tej ustawy;
+- **2)** decyzji, o których mowa w art. 13b ust. 1 ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych (Dz. U. z 2024 r. poz. 1199) w terminie, o którym mowa w art. 13b ust. 1 tej ustawy, nie wymierza się kary, o której mowa w art. 13b ust. 7 tej ustawy;
+- **3)** decyzji, o których mowa w art. 16 ust. 1 ustawy z dnia 14 kwietnia 2023 r. o przygotowaniu i realizacji inwestycji w zakresie elektrowni szczytowo-pompowych oraz inwestycji towarzyszących (Dz. U. poz. 1113) w terminie, o którym mowa w art. 16 ust. 1 tej ustawy, nie wymierza się kary, o której mowa w art. 16 ust. 6 tej ustawy.
 
-**Art. 20.** W ustawie z dnia 1 października 2024 r. dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572) art. 108 ust. 2 otrzymuje brzmienie: „2. W roku 2024 do podziału rezerw, których mowa art. 26 ust. 1, art. 28 ust. 2, art. 36 ust. 4 pkt 1 i art. 36b ustawy uchylanej art. 120, oraz przekazywania jednostkom samorządu terytorialnego środków pochodzących z tych rezerw stosuje się przepisy ustawy uchylanej art. 120, z tym, że podział rezerwy, której mowa art. 28 ust. 2 tej ustawy następuje nie później niż do dnia 16 grudnia.”.
+2. Z dniem wejścia w życie niniejszej ustawy umarza się postępowania wszczęte i niezakończone w sprawie wymierzenia kary z tytułów, o których mowa w ust. 1.
 
-**Art. 21.** W okresie od dnia wejścia życie niniejszej ustawy do dnia 31 grudnia 2026 r., na obszarze, na którym wprowadzono stan klęski żywiołowej związku z powodzią, która miała miejsce we wrześniu 2024 r., rada gminy może uchwalić miejscowy plan odbudowy, którym mowa art. 13d ustawy zmienianej art. 8, przy czym:
+3. Z dniem wejścia w życie niniejszej ustawy umarza się kary wymierzone i niezapłacone z tytułów, o których mowa w ust. 1.
 
-**Art. 23.** W okresie od dnia wejścia życie niniejszej ustawy do dnia 31 grudnia 2025 r., nie stosuje się przepisu art. 472aa ust. 2 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2024 r. poz. 1087, 1089 i 1473) zakresie administracyjnej kary pieniężnej wymierzanej przez ministra właściwego do spraw gospodarki wodnej właściwemu organowi Państwowego Gospodarstwa Wodnego Wody Polskie, na którego obszarze działania wprowadzono stan klęski żywiołowej związku z powodzią, która miała miejsce we wrześniu 2024 r.
+4. Z dniem wejścia w życie niniejszej ustawy umarza się należne odsetki za zwłokę od kar wymierzonych i nieuiszczonych w terminie z tytułów, o których mowa w ust. 1.
 
-**Art. 24.** Przepis art. 1 ust. 3b ustawy zmienianej art. 1 stosuje się do pomocy udzielanej od dnia 12 września 2024 r.
+**Art. 23.** W okresie od dnia wejścia w życie niniejszej ustawy do dnia 31 grudnia 2025 r., nie stosuje się przepisu art. 472aa ust. 2 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2024 r. poz. 1087, 1089 i 1473) w zakresie administracyjnej kary pieniężnej wymierzanej przez ministra właściwego do spraw gospodarki wodnej właściwemu organowi Państwowego Gospodarstwa Wodnego Wody Polskie, na którego obszarze działania wprowadzono stan klęski żywiołowej w związku z powodzią, która miała miejsce we wrześniu 2024 r.
 
-**Art. 25.** Przepis art. 4 ust. 5a ustawy zmienianej art. 1 stosuje się również do świadczenia interwencyjnego, którym mowa art. 22a tej ustawy, wypłaconego przed dniem wejścia życie niniejszej ustawy, oraz pożyczki, której mowa rozdziale 3 tej ustawy, udzielonej przed dniem wejścia życie niniejszej ustawy.
+**Art. 24.** Przepis art. 1 ust. 3b ustawy zmienianej w art. 1 stosuje się do pomocy udzielanej od dnia 12 września 2024 r.
+
+**Art. 25.** Przepis art. 4 ust. 5a ustawy zmienianej w art. 1 stosuje się również do świadczenia interwencyjnego, o którym mowa w art. 22a tej ustawy, wypłaconego przed dniem wejścia w życie niniejszej ustawy, oraz pożyczki, o której mowa w rozdziale 3 tej ustawy, udzielonej przed dniem wejścia w życie niniejszej ustawy.
 
 **Art. 26.**
 
-1. Do wniosków przyznanie świadczenia interwencyjnego, którym mowa art. 22a ustawy zmienianej art. 1, złożonych i nierozpatrzonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
+1. Do wniosków o przyznanie świadczenia interwencyjnego, o którym mowa w art. 22a ustawy zmienianej w art. 1, złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-2. W przypadku gdy wyniku rozpatrzenia wniosku przyznanie świadczenia interwencyjnego przed dniem wejścia życie niniejszej ustawy wysokość wypłaconego przez Zakład Ubezpieczeń Społecznych świadczenia interwencyjnego jest niższa niż wysokość świadczenia interwencyjnego, które zostałoby wypłacone na podstawie ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, Zakład Ubezpieczeń Społecznych terminie miesiąca od dnia wejścia życie niniejszej ustawy przyznane świadczenie interwencyjne uzupełnia kwotę stanowiącą różnicę między tymi wysokościami.
+2. W przypadku gdy w wyniku rozpatrzenia wniosku o przyznanie świadczenia interwencyjnego przed dniem wejścia w życie niniejszej ustawy wysokość wypłaconego przez Zakład Ubezpieczeń Społecznych świadczenia interwencyjnego jest niższa niż wysokość świadczenia interwencyjnego, które zostałoby wypłacone na podstawie ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, Zakład Ubezpieczeń Społecznych w terminie miesiąca od dnia wejścia w życie niniejszej ustawy przyznane świadczenie interwencyjne uzupełnia o kwotę stanowiącą różnicę między tymi wysokościami. W przypadku wniosków o przyznanie świadczenia interwencyjnego złożonych przed dniem wejścia w życie niniejszej ustawy, do których dołączono zobowiązanie, o którym mowa w art. 22b ust. 2 pkt 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, uważa się za spełnione także w przypadku, gdy w terminie, o którym mowa w tym przepisie, przedsiębiorca prześle oszacowanie, o którym mowa w art. 43 ust. 6 zdanie drugie ustawy zmienianej w art. 1, wraz z dokumentacją na podstawie której zostało ono dokonane. Oszacowanie, o którym mowa w art. 43 ust. 6 zdanie drugie ustawy zmienianej w art. 1, stanowi wtedy podstawę określenia wysokości poniesionej przez przedsiębiorcę szkody.
 
-**Art. 27.** W przypadku wniosków przyznanie świadczenia interwencyjnego złożonych przed dniem wejścia życie niniejszej ustawy, do których dołączono zobowiązanie, którym mowa art. 22b ust. 2 pkt 1 ustawy zmienianej art. 1, brzmieniu dotychczasowym, uważa się za spełnione także przypadku, gdy terminie, którym mowa tym przepisie, przedsiębiorca prześle oszacowanie, którym mowa art. 43 ust. 6 zdanie drugie ustawy zmienianej art. 1, wraz z dokumentacją na podstawie której zostało ono dokonane. Oszacowanie, którym mowa art. 43 ust. 6 zdanie drugie ustawy zmienianej art. 1, stanowi wtedy podstawę określenia wysokości poniesionej przez przedsiębiorcę szkody.
+**Art. 28.** W 2024 r. dotacja celowa, o której mowa w art. 22i ust. 1 ustawy zmienianej w art. 1, może być przeznaczona na refundację wydatków poniesionych przez operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy zmienianej w art. 13, na naprawienie szkód powstałych w wyniku powodzi z września 2024 r.
 
-**Art. 28.** W 2024 r. dotacja celowa, której mowa art. 22i ust. 1 ustawy zmienianej art. 1, może być przeznaczona na refundację wydatków poniesionych przez operatora wyznaczonego rozumieniu art. 3 pkt 13 ustawy zmienianej art. 13, na naprawienie szkód powstałych wyniku powodzi z września 2024 r.
+**Art. 29.** Przepisy art. 35 ustawy zmienianej w art. 1 w zakresie, niestosowania ograniczenia określonego w art. 128 ust. 2 ustawy zmienianej w art. 12 stosuje się również do dotacji wypłaconych w 2024 r., o których mowa w art. 35 ust. 1 ustawy zmienianej w art. 1, przyznanych przed dniem wejścia w życie niniejszej ustawy. Przyznana na podstawie przepisów dotychczasowych dotacja ulega zwiększeniu do kwoty wynikającej z dyspozycji art. 35 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 29.** Przepisy art. 35 ustawy zmienianej art. 1 zakresie, niestosowania ograniczenia określonego art. 128 ust. 2 ustawy zmienianej art. 12 stosuje się również do dotacji wypłaconych 2024 r., których mowa art. 35 ust. 1 ustawy zmienianej art. 1, przyznanych przed dniem wejścia życie niniejszej ustawy. Przyznana na podstawie przepisów dotychczasowych dotacja ulega zwiększeniu do kwoty wynikającej z dyspozycji art. 35 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
+**Art. 30.** Przepisy art. 40a-40q ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się do powodzi, która miała miejsce we wrześniu 2024 r. oraz jej skutków.
 
-**Art. 30.** Przepisy art. 40a–40q ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, stosuje się do powodzi, która miała miejsce we wrześniu 2024 r. oraz jej skutków.
+**Art. 31.** Państwowe Gospodarstwo Leśne Lasy Państwowe przekazuje po raz pierwszy wojewodzie informację, o której mowa w art. 40w ust. 2 ustawy zmienianej w art. 1, w terminie 3 dni od dnia wejścia w życie niniejszej ustawy. 1. Umowy objęte prawem pierwokupu, o którym mowa w art. 27a ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, bezwarunkowo zawarte w okresie od dnia 5 października 2024 r. do dnia wejścia w życie niniejszej ustawy, poczytuje się za umowy zobowiązujące do przeniesienia własności rzeczy lub praw do nieruchomości. 2. Notariusz, przed którym została zawarta umowa, o której mowa w ust. 1, jest obowiązany w terminie 3 dni od dnia wejścia w życie niniejszej ustawy, zawiadomić właściwego wójta (burmistrza, prezydenta miasta) o treści tej umowy. 3. Przepisy art. 110 ust. 2, 4 i 5 oraz art. 111 ustawy zmienianej w art. 7 stosuje się odpowiednio. 4. Wójt (burmistrz, prezydent miasta) wykonuje prawo pierwokupu przez złożenie oświadczenia w formie aktu notarialnego u notariusza, o którym mowa w ust. 2. W przypadku gdyby złożenie oświadczenia u tego notariusza było niemożliwe lub napotykało poważne trudności, może być ono złożone u innego notariusza. 5. W przypadku nieskorzystania przez gminę z prawa pierwokupu, własność rzeczy lub praw do nieruchomości, o których mowa w art. 27a ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, przechodzi na nabywcę z mocy prawa po upływie miesiąca od dnia doręczenia zawiadomienia, o którym mowa w ust. 2, ze skutkiem na chwilę zawarcia umowy, o której mowa w ust. 1. 6. Jeżeli cena sprzedaży została w całości lub w części uiszczona przed wykonaniem prawa pierwokupu, gmina wykonująca prawo pierwokupu uiszcza tę kwotę na rzecz kupującego. 7. Notariusz w terminie 3 dni po upływie terminu, o którym mowa w ust. 5, zawiadamia pisemnie sąd, do którego skierował wniosek o wpis do księgi wieczystej, o nieskorzystaniu z prawa pierwokupu przez uprawnioną gminę. 8. Po otrzymaniu przez sąd zawiadomienia określonego w ust. 7, w niezakończonych prawomocnie postępowaniach o wpis w księdze wieczystej, wszczętych na podstawie wniosku zawartego w umowie, o której mowa w ust. 1, podstawą wpisu jest ta umowa oraz ust. 5. 9. W przypadku, gdy wniosek o wpis zawarty w umowie, o której mowa w ust. 1, został prawomocnie oddalony, sąd lub referendarz sądowy, po otrzymaniu przez sąd zawiadomienia określonego w ust. 7, z urzędu uchyla postanowienie o oddaleniu wniosku o wpis i ponownie rozpoznaje wniosek, jeżeli wyłączną podstawą oddalenia wniosku było zawarcie umowy bezwarunkowo.
 
-**Art. 32.**
+**Art. 33.** Do wniosków o finansowe wsparcie udzielane zgodnie z zasadami określonymi zgodnie art. 28 ust. 1 i 3 ustawy zmienianej w art. 1 złożonych w Banku Gospodarstwa Krajowego przed dniem wejścia w życie niniejszej ustawy i nierozpatrzonych przed tym dniem, stosuje się przepisy art. 28 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-1. Umowy objęte prawem pierwokupu, którym mowa art. 27a ustawy zmienianej art. 1, brzmieniu dotychczasowym, bezwarunkowo zawarte okresie od dnia 5 października 2024 r. do dnia wejścia życie niniejszej ustawy, poczytuje się za umowy zobowiązujące do przeniesienia własności rzeczy lub praw do nieruchomości.
+**Art. 34.** Przepisy ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, mają zastosowanie do darowizn przekazanych samorządowi zawodowemu przed dniem wejścia w życie niniejszej ustawy w związku z powodzią we wrześniu 2024 r. Procedura zmiany programu w rozumieniu art. 2 pkt 20 ustawy zmienianej w art. 16 zainicjowana przed dniem wejścia w życie niniejszej ustawy na podstawie art. 36c ustawy zmienianej w art. 1 jest kontynuowana na podstawie przepisów art. 50a ustawy zmienianej w art. 11.
 
-2. Notariusz, przed którym została zawarta umowa, której mowa ust. 1, jest obowiązany terminie 3 dni od dnia wejścia życie niniejszej ustawy, zawiadomić właściwego wójta (burmistrza, prezydenta miasta) treści tej umowy.
-
-3. Przepisy art. 110 ust. 2, 4 i 5 oraz art. 111 ustawy zmienianej art. 7 stosuje się odpowiednio.
-
-4. Wójt (burmistrz, prezydent miasta) wykonuje prawo pierwokupu przez złożenie oświadczenia formie aktu notarialnego u notariusza, którym mowa ust. 2. W przypadku gdyby złożenie oświadczenia u tego notariusza było niemożliwe lub napotykało poważne trudności, może być ono złożone u innego notariusza.
-
-5. W przypadku nieskorzystania przez gminę z prawa pierwokupu, własność rzeczy lub praw do nieruchomości, których mowa art. 27a ustawy zmienianej art. 1, brzmieniu dotychczasowym, przechodzi na nabywcę z mocy prawa po upływie miesiąca od dnia doręczenia zawiadomienia, którym mowa ust. 2, ze skutkiem na chwilę zawarcia umowy, której mowa ust. 1.
-
-6. Jeżeli cena sprzedaży została całości lub części uiszczona przed wykonaniem prawa pierwokupu, gmina wykonująca prawo pierwokupu uiszcza tę kwotę na rzecz kupującego.
-
-7. Notariusz terminie 3 dni po upływie terminu, którym mowa ust. 5, zawiadamia pisemnie sąd, do którego skierował wniosek wpis do księgi wieczystej, nieskorzystaniu z prawa pierwokupu przez uprawnioną gminę.
-
-8. Po otrzymaniu przez sąd zawiadomienia określonego ust. 7, niezakończonych prawomocnie postępowaniach wpis księdze wieczystej, wszczętych na podstawie wniosku zawartego umowie, której mowa ust. 1, podstawą wpisu jest ta umowa oraz ust. 5.
-
-9. W przypadku, gdy wniosek wpis zawarty umowie, której mowa ust. 1, został prawomocnie oddalony, sąd lub referendarz sądowy, po otrzymaniu przez sąd zawiadomienia określonego ust. 7, z urzędu uchyla postanowienie oddaleniu wniosku wpis i ponownie rozpoznaje wniosek, jeżeli wyłączną podstawą oddalenia wniosku było zawarcie umowy bezwarunkowo.
-
-**Art. 33.** Do wniosków finansowe wsparcie udzielane zgodnie z zasadami określonymi zgodnie art. 28 ust. 1 i 3 ustawy zmienianej art. 1 złożonych Banku Gospodarstwa Krajowego przed dniem wejścia życie niniejszej ustawy i nierozpatrzonych przed tym dniem, stosuje się przepisy art. 28 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
-
-**Art. 34.** Przepisy ustawy zmienianej art. 5, brzmieniu nadanym niniejszą ustawą, mają zastosowanie do darowizn przekazanych samorządowi zawodowemu przed dniem wejścia życie niniejszej ustawy związku z powodzią we wrześniu 2024 r.
-
-**Art. 35.** Procedura zmiany programu rozumieniu art. 2 pkt 20 ustawy zmienianej art. 16 zainicjowana przed dniem wejścia życie niniejszej ustawy na podstawie art. 36c ustawy zmienianej art. 1 jest kontynuowana na podstawie przepisów art. 50a ustawy zmienianej art. 11.
-
-**Art. 36.** Postępowania zakresie wyboru projektów do dofinansowania zainicjowane przed dniem wejścia życie niniejszej ustawy na podstawie art. 36b ustawy zmienianej art. 1 są kontynuowane na podstawie przepisów art. 130a ustawy zmienianej art. 16.
+**Art. 36.** Postępowania w zakresie wyboru projektów do dofinansowania zainicjowane przed dniem wejścia w życie niniejszej ustawy na podstawie art. 36b ustawy zmienianej w art. 1 są kontynuowane na podstawie przepisów art. 130a ustawy zmienianej w art. 16.
 
 **Art. 37.**
 
-1. Wsparcie określone niniejszej ustawie, stanowiące pomoc publiczną, może być udzielane wyłącznie jako pomoc mająca na celu naprawienie szkód spowodowanych niektórymi klęskami żywiołowymi, spełniająca warunki określone art. 50 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm. ).
+1. Wsparcie określone w niniejszej ustawie, stanowiące pomoc publiczną, może być udzielane wyłącznie jako pomoc mająca na celu naprawienie szkód spowodowanych niektórymi klęskami żywiołowymi, spełniająca warunki określone w art. 50 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.).
 
-2. Łączna wartość pomocy publicznej, której mowa ust. 1, łącznie z wartością pomocy publicznej otrzymanej na ten sam cel na podstawie przepisów odrębnych nie może przekroczyć wartości szkody poniesionej przez beneficjenta pomocy bezpośrednio wyniku powodzi, obejmującej szkody materialne dotyczące aktywów oraz utratę dochodu wyniku całkowitego lub częściowego zawieszenia działalności przez okres nie dłuższy niż 6 miesięcy od wystąpienia powodzi,
+2. Łączna wartość pomocy publicznej, o której mowa w ust. 1, łącznie z wartością pomocy publicznej otrzymanej na ten sam cel na podstawie przepisów odrębnych nie może przekroczyć wartości szkody poniesionej przez beneficjenta pomocy bezpośrednio w wyniku powodzi, obejmującej szkody materialne dotyczące aktywów oraz utratę dochodu w wyniku całkowitego lub częściowego zawieszenia działalności przez okres nie dłuższy niż 6 miesięcy od wystąpienia powodzi, w związku z którą zostało wydane rozporządzenie, o którym mowa w art. 1 ust. 2 ustawy zmienianej w art. 1, pomniejszonej o wartość uzyskanego odszkodowania.
 
-**Art. 38.** Do wniosków, których mowa art. 44 ust. 4 ustawy zmienianej art. 19, złożonych i nierozpatrzonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
-
-**Art. 39.** Do postępowań wszczętych i niezakończonych na podstawie art. 7a, art. 18 oraz art. 23 ustawy zmienianej art. 1, brzmieniu dotychczasowym, przed dniem wejścia życie niniejszej ustawy stosuje się przepisy ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
-
-**Art. 40.** Do terminów, które przed dniem wejścia życie niniejszej ustawy uległy zawieszeniu na podstawie art. 45 i art. 50 ustawy zmienianej art. 19, stosuje się przepisy ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
-
-**Art. 41.** Przepis art. 69a ustawy zmienianej art. 19 stosuje się również do wniosków przyznanie zasiłku celowego jako pomocy doraźnej, złożonych i nierozpatrzonych przed dniem wejścia życie niniejszej ustawy. Złożone do dnia wejścia życie niniejszej ustawy dokumenty i oświadczenia na potrzeby ustalenia dochodu i sytuacji majątkowej nie podlegają rozpoznaniu.
+**Art. 38.** Do wniosków, o których mowa w art. 44 ust. 4 ustawy zmienianej w art. 19, złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą. Do postępowań wszczętych i niezakończonych na podstawie art. 7a, art. 18 oraz art. 23 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą. Do terminów, które przed dniem wejścia w życie niniejszej ustawy uległy zawieszeniu na podstawie art. 45 i art. 50 ustawy zmienianej w art. 19, stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą. Przepis art. 69a ustawy zmienianej w art. 19 stosuje się również do wniosków o przyznanie zasiłku celowego jako pomocy doraźnej, złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszej ustawy. Złożone do dnia wejścia w życie niniejszej ustawy dokumenty i oświadczenia na potrzeby ustalenia dochodu i sytuacji majątkowej nie podlegają rozpoznaniu.
 
 **Art. 42.**
 
-1. Przepisy art. 69b ustawy zmienianej art. 19 stosuje się również do wniosków przyznanie zasiłku celowego, którym mowa art. 69b ust. 1 ustawy zmienianej art. 19, złożonych i nierozpatrzonych przed dniem wejścia życie niniejszej ustawy. Złożone do dnia wejścia życie niniejszej ustawy dokumenty i oświadczenia na potrzeby ustalenia dochodu i sytuacji majątkowej nie podlegają rozpoznaniu.
+1. Przepisy art. 69b ustawy zmienianej w art. 19 stosuje się również do wniosków o przyznanie zasiłku celowego, o którym mowa w art. 69b ust. 1 ustawy zmienianej w art. 19, złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszej ustawy. Złożone do dnia wejścia w życie niniejszej ustawy dokumenty i oświadczenia na potrzeby ustalenia dochodu i sytuacji majątkowej nie podlegają rozpoznaniu.
 
-2. W przypadku wniosków, których mowa ust. 1, termin, którym mowa art. 69b ust. 3 ustawy zmienianej art. 19, wynosi 3 dni od dnia wejścia życie niniejszej ustawy.
+2. W przypadku wniosków, o których mowa w ust. 1, termin, o którym mowa w art. 69b ust. 3 ustawy zmienianej w art. 19, wynosi 3 dni od dnia wejścia w życie niniejszej ustawy. Przepisy art. 72c ustawy zmienianej w art. 19 stosuje się również do dotacji wypłaconych gminom od dnia 16 września 2024 r. w związku z wystąpieniem powodzi z września 2024 r.
 
-**Art. 43.** Przepisy art. 72c ustawy zmienianej art. 19 stosuje się również do dotacji wypłaconych gminom od dnia 16 września 2024 r. związku z wystąpieniem powodzi z września 2024 r.
+**Art. 44.** Decyzje wydane na podstawie art. 69 ust. 1 ustawy zmienianej w art. 19, w brzmieniu dotychczasowym, zachowują moc, z zastrzeżeniem art. 5 ust. 7 ustawy zmienianej w art. 1.
 
-**Art. 44.** Decyzje wydane na podstawie art. 69 ust. 1 ustawy zmienianej art. 19, brzmieniu dotychczasowym, zachowują moc, z zastrzeżeniem art. 5 ust. 7 ustawy zmienianej art. 1.
+**Art. 45.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 1 ust. 2 ustawy zmienianej w art. 1 zachowują moc i mogą być zmieniane.
 
-**Art. 45.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 1 ust. 2 ustawy zmienianej art. 1 zachowują moc i mogą być zmieniane.
-
-**Art. 46.** Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 19 pkt 7 zakresie art. 43a, który wchodzi życie z dniem ogłoszenia, z mocą od dnia 9 września 2024 r.
+**Art. 46.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 19 pkt 7 w zakresie art. 43a, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 9 września 2024 r.
 

@@ -8,10 +8,10 @@ pos: 1040
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 lipca 2024 r.
+# Obwieszczenie Ministra Finansówz dnia 13 czerwca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie umundurowania funkcjonariuszy Służby Celno-Skarbowej
 
 | Pole | Wartość |
 |---|---|
@@ -25,61 +25,319 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-07-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001040) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1040/text.pdf) |
 
-1. Ubiór wyjściowy Lp. Składniki ubioru Liczba punktów przeliczeniowych 1 Kurtka wyjściowa 400 2 Spodnie wyjściowe męskie 150 3 Spodnie wyjściowe damskie 150 4 Spódnica wyjściowa 150 5 Koszula z długim rękawem w kolorze białym 70 6 Koszula z krótkim rękawem w kolorze białym 70 7 Koszula z długim rękawem w kolorze miętowym 70 8 Koszula z krótkim rękawem w kolorze miętowym 70 9 Kurtka mundurowa męska 300 10 Kurtka mundurowa damska 300 11 Czapka wyjściowa dla funkcjonariusza mężczyzny 100 12 Czapka wyjściowa zimowa 100 13 Kapelusz mundurowy dla funkcjonariusza kobiety 100 14 Krawat dla funkcjonariusza mężczyzny 10 15 Krawatka dla funkcjonariusza kobiety 10 16 Półbuty męskie 150 17 Czółenka damskie 150 18 Buty zimowe męskie* 175 19 Kozaki damskie 175 20 Szal 10 21 Rękawiczki skórzane letnie 60 22 Rękawiczki skórzane zimowe 60 23 Sznur galowy 45 24 Pasek skórzany 30 25 Emblemat Krajowej Administracji Skarbowej Służby Celno- 6 -Skarbowej*** 26 Emblemat Służby Celno-Skarbowej*** 6 27 Kordzik honorowy Służby Celno-Skarbowej 1000 28 Płaszcz** 1000 Uwagi: * Buty zimowe męskie mogą być pobierane zamiennie z kozakami damskimi, przez funkcjonariusza kobietę, w ramach posiadanych punktów przeliczeniowych.
-** Płaszcz przysługuje Szefowi Krajowej Administracji Skarbowej, Zastępcy Szefa Krajowej Administracji Skarbowej, dyrektorom i zastępcom dyrektorów komórek organizacyjnych urzędu obsługującego ministra właściwego do spraw finansów publicznych, dyrektorom i zastępcom dyrektorów izb administracji skarbowej, naczelnikom i zastępcom naczelników urzędów celno-skarbowych, funkcjonariuszom w korpusie generałów Służby Celno-Skarbowej oraz funkcjonariuszom wykonującym zadania reprezentacyjne, w szczególności pełniącym funkcję rzecznika prasowego, członkom pocztu flagowego, sztandarowego i dowódcom uroczystości.
-*** Emblematy w kolorach monochromatycznych mogą być noszone wyłącznie na składnikach ubioru specjalnego.
-2. Ubiór służbowy Lp. Składniki ubioru Liczba punktów przeliczeniowych 1 Bluza służbowa w kolorze szarozielonym/czarnym* 175 2 Koszulka typu polo w kolorze miętowym/czarnym* 55 3 Koszulobluza z długim rękawem w kolorze miętowym/czarnym* 130 4 Koszulobluza z krótkim rękawem w kolorze miętowym/czarnym* 110 5 Spodnie służbowe letnie w kolorze szarozielonym/czarnym* 150 6 Czapka służbowa letnia w kolorze szarozielonym/czarnym* 40 7 Czapka służbowa zimowa w kolorze szarozielonym/czarnym* 75 8 Buty letnie na grubej podeszwie 320 9 Buty letnie na grubej podeszwie o obniżonej cholewce 320 10 Buty wysokie na grubej podeszwie 350 11 Rękawiczki ochronne 50 12 Pas główny 30 13 Kamizelka ostrzegawcza 60 14 Kamizelka narzędziowa nasobna** 200 15 Kurtka służbowa w kolorze szarozielonym/czarnym* 650 16 Kurtka służbowa typu softshell w kolorze szarozielonym/czarnym* 400 17 Spodnie służbowe zimowe w kolorze szarozielonym/czarnym* 330 18 Kominiarka w kolorze szarozielonym/czarnym* 30 19 Szalik typu komin w kolorze szarozielonym/czarnym* 40 20 Kombinezon jednoczęściowy w kolorze szarozielonym/czarnym* ** 375 21 Buty letnie na grubej niebrudzącej podeszwie*** 320 22 Buty letnie na grubej niebrudzącej podeszwie o obniżonej cholewce*** 320 23 Buty wysokie na grubej niebrudzącej podeszwie*** 350 24 Sztormiak*** 1350 25 Emblemat -Skarbowej**** Krajowej Administracji Skarbowej Służby Celno- 6 Emblemat Służby Celno-Skarbowej/przewodników psów 6 26 służbowych/członków załóg jednostek pływających Krajowej Administracji Skarbowej**** 27 Kamizelka narzędziowa odblaskowa** 200 28 Półgolf w kolorze szarozielonym/czarnym* 90 Uwagi: * Składniki umundurowania w kolorze czarnym przysługują wyłącznie funkcjonariuszom pełniącym służbę w składzie załogi jednostki pływającej Krajowej Administracji Skarbowej.
-** Kamizelkę narzędziową nasobną, kamizelkę narzędziową odblaskową i kombinezon jednoczęściowy w kolorze szarozielonym/czarnym przydziela kierownik jednostki organizacyjnej. Kamizelka narzędziowa odblaskowa może być przydzielana zamiennie z kamizelką narzędziową nasobną.
-1. Wzory i kolory składników ubioru wyjściowego Funkcjonariusz ubrany w płaszcz.
-Funkcjonariusz w stopniu Funkcjonariusz w stopniu generała ubrany generała ubrany w płaszcz. w kurtkę mundurową ze sznurem galowym z podwójnym splotem i kordzikiem honorowym Służby Celno-Skarbowej.
-Kurtka mundurowa damska funkcjonariusza w stopniu generała z wizerunkiem orła białego na wyłogach.
-Funkcjonariusz ubrany w kurtkę mundurową damską albo kurtkę mundurową męską ze sznurem galowym z pojedynczym splotem, spodnie wyjściowe damskie albo spodnie wyjściowe męskie, koszulę z długim rękawem w kolorze białym, w krawatce dla funkcjonariusza kobiety albo krawacie dla funkcjonariusza mężczyzny, kapeluszu mundurowym dla funkcjonariusza kobiety albo czapce wyjściowej dla funkcjonariusza mężczyzny oraz czółenkach damskich albo półbutach męskich.
-Kurtka mundurowa męska funkcjonariusza ze znakiem Krajowej Administracji Skarbowej na wyłogach.
-Funkcjonariusz ubrany w spodnie wyjściowe damskie albo spodnie wyjściowe męskie, koszulę z długim rękawem w kolorze białym albo koszulę z krótkim rękawem w kolorze białym, z założonym paskiem skórzanym, w krawatce dla funkcjonariusza kobiety albo krawacie dla funkcjonariusza mężczyzny, kapeluszu mundurowym dla funkcjonariusza kobiety albo czapce wyjściowej dla funkcjonariusza mężczyzny oraz w czółenkach damskich albo półbutach męskich.
-Funkcjonariusz ubrany w spodnie wyjściowe męskie albo spodnie wyjściowe damskie, koszulę z krótkim rękawem w kolorze miętowym albo koszulę z długim rękawem w kolorze miętowym, w krawacie dla funkcjonariusza mężczyzny albo krawatce dla funkcjonariusza kobiety, czapce wyjściowej dla funkcjonariusza mężczyzny albo kapeluszu mundurowym dla funkcjonariusza kobiety oraz półbutach męskich albo czółenkach damskich.
-Funkcjonariusz ubrany w kurtkę wyjściową, w czapce wyjściowej zimowej i rękawiczkach skórzanych zimowych.
-2. Wzory i kolory składników ubioru służbowego Funkcjonariusz ubrany w spodnie Funkcjonariusz ubrany w spodnie służbowe służbowe zimowe, bluzę letnie, koszulobluzę z długim rękawem, służbową, z założonym pasem z założonym pasem głównym, w butach letnich na głównym, w butach wysokich na grubej podeszwie i czapce służbowej letniej.
-grubej podeszwie i czapce służbowej letniej.
-Funkcjonariusz ubrany w spodnie Funkcjonariusz ubrany w spodnie służbowe służbowe letnie, koszulobluzę letnie, koszulkę typu polo, z założonym pasem z długim rękawem, z założonym głównym, w butach letnich na grubej podeszwie pasem głównym, w butach letnich o obniżonej cholewce i czapce służbowej letniej.
-na grubej podeszwie o obniżonej cholewce i czapce służbowej letniej.
-Funkcjonariusz ubrany w spodnie służbowe letnie z uwidocznionym napisem „Służba Celno-Skarbowa” na bocznej kieszeni oraz odblaskowym lampasem, koszulobluzę z długim rękawem, z założonym pasem głównym, w butach letnich na grubej podeszwie i czapce służbowej letniej.
-Funkcjonariusz ubrany w kurtkę służbową, półgolf w kolorze szarozielonym*, spodnie służbowe zimowe, w szaliku typu komin, czapce służbowej zimowej, butach wysokich na grubej podeszwie i rękawiczkach ochronnych.
-Funkcjonariusz ubrany w spodnie służbowe zimowe, kurtkę służbową typu softshell w kolorze szarozielonym*, w butach wysokich na grubej podeszwie i czapce służbowej zimowej.
-Funkcjonariusz ubrany w spodnie Funkcjonariusz ubrany w spodnie służbowe służbowe letnie, koszulobluzę letnie, koszulkę typu polo, z założonym pasem z krótkim rękawem, w butach letnich głównym, w butach letnich na grubej podeszwie na grubej podeszwie o obniżonej i czapce służbowej letniej, także w kamizelce cholewce, kamizelce ostrzegawczej narzędziowej nasobnej albo kamizelce i czapce służbowej letniej. narzędziowej odblaskowej.
-Funkcjonariusz ubrany w spodnie służbowe zimowe z uwidocznionym napisem „Służba Celno-Skarbowa” Funkcjonariusz ubrany w kombinezon jednoczęściowy, w butach letnich na na bocznej kieszeni oraz odblaskowym lampasem, kurtkę służbową typu softshell, z założonym pasem głównym, w butach letnich na grubej podeszwie i czapce służbowej letniej.
-grubej podeszwie i kominiarce.
-Uwaga:  Składnik umundurowania może być wykonany również w kolorze czarnym. Składniki umundurowania w kolorze czarnym przysługują wyłącznie funkcjonariuszom pełniącym służbę w składzie załogi jednostki pływającej Krajowej Administracji Skarbowej.
-3. Wzory i kolory składników ubioru reprezentacyjnego Funkcjonariusz ubrany w płaszcz reprezentacyjny.
-Funkcjonariusz ubrany w kurtkę mundurową reprezentacyjną męską ze sznurem galowym z pojedynczym splotem, spodnie reprezentacyjne męskie, koszulę reprezentacyjną z długim rękawem w kolorze białym, z założonym pasem skórzanym reprezentacyjnym z kaburą, w krawacie, czapce reprezentacyjnej, oficerkach i rękawiczkach letnich.
-Funkcjonariusz ubrany w kurtkę mundurową reprezentacyjną męską ze sznurem galowym z pojedynczym splotem, spodnie reprezentacyjne typu bryczesy, koszulę reprezentacyjną z długim rękawem w kolorze białym, z założonym pasem skórzanym reprezentacyjnym, w krawacie, czapce reprezentacyjnej, oficerkach, z szablą z koalicyjką i w rękawiczkach letnich.
-Funkcjonariusz ubrany w kurtkę mundurową reprezentacyjną damską albo kurtkę mundurową reprezentacyjną męską ze sznurem galowym z pojedynczym splotem, spodnie reprezentacyjne damskie albo spodnie reprezentacyjne męskie, koszulę reprezentacyjną z długim rękawem w kolorze białym, z założonym pasem skórzanym reprezentacyjnym, w krawacie, czapce reprezentacyjnej, butach z opinaczami i rękawiczkach letnich.
-4. Wzory i kolory składników ubioru specjalnego Funkcjonariusz ubrany w kurtkę specjalną zimową, spodnie specjalne zimowe, w czapce specjalnej zimowej, szaliku typu komin, butach specjalnych zimowych i rękawiczkach taktycznych ocieplanych.
-Funkcjonariusz ubrany w kurtkę specjalną letnią, spodnie specjalne letnie, w czapce specjalnej letniej, butach specjalnych letnich i rękawiczkach taktycznych bez ocieplenia.
-Funkcjonariusz ubrany w bluzę specjalną polarową, spodnie specjalne letnie, w czapce specjalnej typu kominiarka i rękawiczkach taktycznych bez ocieplenia.
-Funkcjonariusz ubrany w kurtkę polową Funkcjonariusz ubrany w bluzę specjalną specjalną z możliwością skrytego noszenia letnią, spodnie specjalne letnie, znaków identyfikujących służbę, spodnie z założonym pasem głównym specjalnym specjalne zimowe, w czapce specjalnej z zapięciem typu cobra-belt, w czapce zimowej z wizerunkiem orła ze wstęgą specjalnej letniej i butach specjalnych i butach specjalnych zimowych. letnich.
-Funkcjonariusz ubrany w bluzę specjalną Funkcjonariusz ubrany w bluzę specjalną typu Combat-Shirt letnią, spodnie specjalne zimową i spodnie specjalne zimowe, letnie, z założonym pasem głównym w czapce specjalnej zimowej.
-specjalnym z zapięciem typu cobra-belt, w czapce specjalnej letniej i butach specjalnych ćwiczebnych.
-Funkcjonariusz ubrany w koszulkę specjalną Funkcjonariusz ubrany w kurtkę typu polo, spodnie specjalne letnie, nieprzemakalną specjalną i spodnie z założonym pasem głównym specjalnym nieprzemakalne specjalne, w butach z zapięciem typu cobra-belt, w czapce specjalnych letnich i rękawiczkach specjalnej letniej z wizerunkiem orła ze taktycznych bez ocieplenia.
-wstęgą.
-Wizerunek orła białego ze wstęgą z napisem „SŁUŻBA CELNO-SKARBOWA” noszony na składnikach umundurowania Znak Krajowej Administracji Skarbowej noszony na klapach kurtki mundurowej wyjściowej, z wyłączeniem funkcjonariuszy w korpusie generałów Służby Celno-Skarbowej Emblemat Krajowej Administracji Skarbowej Służby Celno-Skarbowej noszony na składnikach umundurowania Emblemat Służby Celno-Skarbowej noszony na składnikach umundurowania Emblemat funkcjonariuszy pełniących służbę w składzie załogi jednostki pływającej Krajowej Administracji Skarbowej noszony na składnikach ubioru służbowego Emblemat funkcjonariuszy przewodników psów służbowych noszony na składnikach ubioru służbowego Wszystkie emblematy mogą być wykonane również w kolorach monochromatycznych Sznur galowy Sznur galowy z podwójnym splotem Sznur galowy z pojedynczym splotem noszony na prawym ramieniu kurtki noszony na prawym ramieniu kurtki mundurowej przez funkcjonariuszy mundurowej przez funkcjonariuszy w korpusie generałów Służby niebędących członkami korpusu generałów Celno-Skarbowej. Przypinany z jednej Służby Celno-Skarbowej. Przypinany strony do guzika pod prawym z jednej strony do guzika pod prawym naramiennikiem, z drugiej strony do naramiennikiem, z drugiej strony do górnego dwóch górnych guzików kurtki guzika kurtki mundurowej.
-mundurowej.
-Buława sznura galowego z podwójnym Buława sznura galowego z pojedynczym splotem. splotem.
-1. Ubiór wyjściowy Liczba Lp. Nazwa składnika Funkcjonariusz Funkcjonariusz mężczyzna kobieta 1 Kurtka wyjściowa 1 1 2 Spodnie wyjściowe męskie 1 3 Spodnie wyjściowe damskie lub spódnica wyjściowa - 1 4 Koszula z długim rękawem w kolorze białym 1 1 5 Koszula z krótkim rękawem w kolorze białym 1 1 6 Koszula z długim rękawem w kolorze miętowym 1 1 7 Koszula z krótkim rękawem w kolorze miętowym 1 1 8 Kurtka mundurowa męska 1 9 Kurtka mundurowa damska - 1 10 Czapka wyjściowa dla funkcjonariusza mężczyzny 1 11 Czapka wyjściowa zimowa 1 1 12 Kapelusz mundurowy dla funkcjonariusza kobiety - 1 13 Krawat dla funkcjonariusza mężczyzny 1 14 Krawatka dla funkcjonariusza kobiety - 1 15 Półbuty męskie 1 16 Czółenka damskie - 1 17 Buty zimowe męskie 1 18 Kozaki damskie - 1 19 Szal 1 1 20 Rękawiczki skórzane letnie/zimowe 1 1 21 Sznur galowy 1 1 22 Pasek skórzany 1 1 23 Emblemat Krajowej Administracji Skarbowej 1 1 Służby Celno-Skarbowej 24 Emblemat Służby Celno-Skarbowej 1 1
-2. Ubiór służbowy Lp. Nazwa składnika Liczba 1 Bluza służbowa w kolorze szarozielonym/czarnym* 1 2 Koszulka typu polo w kolorze miętowym/czarnym* 2 3 Koszulobluza z długim rękawem w kolorze miętowym/czarnym* 1 4 Koszulobluza z krótkim rękawem w kolorze miętowym/czarnym* 1 5 Spodnie służbowe letnie w kolorze szarozielonym/czarnym* 2 6 Czapka służbowa letnia w kolorze szarozielonym/czarnym* 1 7 Czapka służbowa zimowa w kolorze szarozielonym/czarnym* 1 8 Buty letnie na grubej podeszwie albo buty letnie na grubej podeszwie 1 o obniżonej cholewce 9 Buty wysokie na grubej podeszwie 1 10 Rękawiczki ochronne 1 11 Pas główny 1 12 Kamizelka ostrzegawcza 1 13 Kurtka służbowa w kolorze szarozielonym/czarnym* 1 14 Kurtka służbowa typu softshell w kolorze szarozielonym/czarnym* 1 15 Spodnie służbowe zimowe w kolorze szarozielonym/czarnym* 1 16 Kominiarka w kolorze szarozielonym/czarnym* 1 17 Szalik typu komin w kolorze szarozielonym/czarnym* 1 18 Emblemat Krajowej Administracji Skarbowej Służby Celno- 2 -Skarbowej Emblemat Służby Celno-Skarbowej/przewodników psów 19 służbowych/członków załóg jednostek pływających Krajowej 2 Administracji Skarbowej 20 Półgolf w kolorze szarozielonym/czarnym* 1 Uwaga:  Składniki umundurowania w kolorze czarnym przysługują wyłącznie funkcjonariuszom pełniącym służbę w składzie załogi jednostki pływającej Krajowej Administracji Skarbowej.
-3. Ubiór specjalny Lp. Nazwa składnika Liczba 1 Kurtka specjalna letnia w kolorze oliwkowo-szarym lub kamuflującym 1 2 Kurtka specjalna zimowa w kolorze oliwkowo-szarym lub kamuflującym 1 3 Bluza specjalna polarowa w kolorze oliwkowo-szarym lub kamuflującym 1 4 Kurtka polowa specjalna w kolorze oliwkowo-szarym lub kamuflującym z możliwością skrytego noszenia znaków identyfikujących służbę 1 5 Spodnie specjalne letnie w kolorze oliwkowo-szarym lub kamuflującym 1 6 Bluza specjalna typu Combat-Shirt letnia w kolorze oliwkowo-szarym lub kamuflującym 1 7 Bluza specjalna letnia w kolorze oliwkowo-szarym lub kamuflującym 1 8 Bluza specjalna zimowa w kolorze oliwkowo-szarym lub kamuflującym 1 9 Spodnie specjalne zimowe w kolorze oliwkowo-szarym lub kamuflującym 1 10 Koszulka specjalna typu polo w kolorze oliwkowo-szarym lub kamuflującym 2 11 Czapka specjalna letnia w kolorze oliwkowo-szarym lub kamuflującym 1 12 Czapka specjalna zimowa w kolorze oliwkowo-szarym lub kamuflującym 1 13 Czapka specjalna typu kominiarka w kolorze oliwkowo-szarym lub kamuflującym 1 14 Czapka specjalna letnia w kolorze oliwkowo-szarym lub kamuflującym z wizerunkiem orła ze wstęgą 1 15 Czapka specjalna zimowa w kolorze oliwkowo-szarym lub kamuflującym z wizerunkiem orła ze wstęgą 1 16 Szalik typu komin w kolorze oliwkowo-szarym lub kamuflującym 1 17 Pas główny specjalny z zapięciem typu cobra-belt 1 18 Buty specjalne letnie 1 19 Buty specjalne zimowe 1 20 Buty specjalne ćwiczebne 1 21 Rękawiczki taktyczne bez ocieplenia 1 22 Rękawiczki taktyczne ocieplane 1 23 Kurtka nieprzemakalna specjalna w kolorze oliwkowo-szarym lub kamuflującym 1 24 Spodnie nieprzemakalne specjalne w kolorze oliwkowo-szarym lub kamuflującym 1 Odznaka korpusu oficerów Służby Celno-Skarbowej jest noszona na prawej górnej kieszeni kurtki mundurowej, równolegle do znaku identyfikacji indywidualnej.
-Znak identyfikacji indywidualnej Znak identyfikacji indywidualnej jest wykonany z metalu. Na znaku umieszczono:
-a) wytłoczony napis „SŁUŻBA CELNO-SKARBOWA” u góry znaku,
-b) wytłoczony orzeł w środku znaku,
-c) wygrawerowany kolejny napis pięciocyfrowy u dołu znaku.
-Orzeł, napis i numer są srebrzone, pozostała część znaku jest oksydowana.
-Znak jest noszony na kurtce mundurowej i koszuli z długim i krótkim rękawem w kolorze białym będącej odzieżą wierzchnią.
-Znak może być noszony na kurtce wyjściowej, bluzie, koszulobluzie, kombinezonie jednoczęściowym w kolorze szarozielonym, koszuli z długim i krótkim rękawem w kolorze miętowym, kurtkach służbowych na lewej kieszeni piersiowej, bezpośrednio i centralnie pod patką kieszeni piersiowej.
-Znak jest mocowany za pomocą patki pod znak identyfikacji indywidualnej wieszanej na guziku lewej kieszeni piersiowej.
-Znak imienny metalowy Znak imienny metalowy ma kształt prostokąta w kolorze czarnym z obwódką w kolorze srebrnym. Napis w kolorze srebrnym jest umieszczony centralnie na znaku imiennym metalowym i składa się z pierwszej litery imienia, kropki oraz nazwiska funkcjonariusza.
-Znak może być noszony na kurtce mundurowej i koszuli z długim i krótkim rękawem w kolorze białym będącej odzieżą wierzchnią bezpośrednio i centralnie nad prawą patką kieszeni piersiowej.
-Znak imienny na tkaninie Znak imienny jest wykonany z tkaniny koloru czarnego, ma kształt prostokąta z obszyciem koloru czarnego. Napis koloru srebrnego jest umieszczony centralnie na znaku imiennym i składa się z pierwszej litery imienia, kropki oraz nazwiska funkcjonariusza.
-Znak może być noszony niezależnie od przysługującego rodzaju umundurowania na kurtce wyjściowej, kurtkach służbowych, bluzie, koszulobluzie, kombinezonie jednoczęściowym w kolorze szarozielonym, koszuli z długim i krótkim rękawem w kolorze miętowym oraz koszulce typu polo będącej odzieżą wierzchnią bezpośrednio i centralnie nad prawą patką kieszeni piersiowej.
-Lp. Składniki umundurowania, które nie podlegają wydaniu w naturze 1 Podkoszulek letni 2 Podkoszulek zimowy 3 Figi dla funkcjonariusza kobiety 4 Biustonosz dla funkcjonariusza kobiety 5 Rajstopy dla funkcjonariusza kobiety w kolorze beżowym 6 Slipy dla funkcjonariusza mężczyzny 7 Kalesony dla funkcjonariusza mężczyzny 8 Skarpety w kolorze czarnym WYSOKOŚĆ RÓWNOWAŻNIKA PIENIĘŻNEGO Roczna wysokość Lp. Wyszczególnienie równoważnika pieniężnego (w zł) 1 Równoważnik pieniężny za składniki umundurowania, 300 które nie podlegają wydaniu w naturze 2 Równoważnik pieniężny za okresowe czyszczenie 150 umundurowania
-1. Kwotę zwrotu równowartości pieniężnej składników umundurowania wylicza się według wzoru: , × (−)×  w którym poszczególne symbole oznaczają: x liczbę dni, w których funkcjonariusz Służby Celno-Skarbowej pełnił służbę w umundurowaniu, a liczbę punktów przeliczeniowych przyznanych funkcjonariuszowi Służby Celno-Skarbowej w bieżącym roku kalendarzowym, b liczbę punktów przeliczeniowych niewykorzystanych w bieżącym roku kalendarzowym, P wartość punktu przeliczeniowego.
-2. Kwotę zwrotu równowartości pieniężnej zaokrągla się do pełnych złotych w ten sposób, że końcówkę kwoty wynoszącą mniej niż 50 groszy pomija się, a końcówkę kwoty wynoszącą 50 i więcej groszy podwyższa się do pełnych złotych.
+Treść obwieszczenia
+Załącznik – Tekst jednolity rozporządzenia Ministra Finansów z dnia 27 września 2018 r. w sprawie umundurowania funkcjonariuszy Służby Celno-Skarbowej
+
+## Załącznik nr 1 — – Wykaz składników umundurowania, które podlegają wydaniu w naturze, wraz z liczbą punktów przeliczeniowych przypisanych danemu składnikowi umundurowania
+
+## Załącznik nr 2 — – Wzory i kolory składników umundurowania, które podlegają wydaniu w naturze
+
+## Załącznik nr 3 — – Wykaz oraz liczba składników umundurowania przydzielanych z dniem mianowania do służby, przywrócenia do służby albo przeniesienia do służby w służbie celno-skarbowej
+
+## Załącznik nr 4 — – Wzory, kolory i sposób noszenia dystynkcji
+
+## Załącznik nr 5 — – Wzór, kolor i sposób noszenia odznaki korpusu oficerów służby celno-skarbowej
+
+## Załącznik nr 6 — – Wzory, kolory i sposób noszenia znaków identyfikacji osobistej
+
+## Załącznik nr 7 — – Zestawy ubiorcze składników ubiorów, które podlegają wydaniu w naturze
+
+## Załącznik nr 8 — – Wykaz składników umundurowania, za które przysługuje równoważnik pieniężny, wysokość tego równoważnika oraz wysokość równoważnika pieniężnego za okresowe czyszczenie umundurowania
+
+## Załącznik nr 9 — – Sposób wyliczenia zwrotu równowartości pieniężnej składników umundurowania
+
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 27 września 2018 r. w sprawie umundurowania funkcjonariuszy Służby Celno-Skarbowej (Dz. U. z 2022 r. poz. 901), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów z dnia 3 kwietnia 2023 r. zmieniającym rozporządzenie w sprawie umundurowania funkcjonariuszy Służby Celno-Skarbowej (Dz. U. poz. 670).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 3 kwietnia 2023 r. zmieniającego rozporządzenie w sprawie umundurowania funkcjonariuszy Służby Celno-Skarbowej (Dz. U. poz. 670), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+” .
+1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
+Załącznik – Tekst jednolity rozporządzenia Ministra Finansów z dnia 27 września 2018 r. w sprawie umundurowania funkcjonariuszy Służby Celno-Skarbowej
+Na podstawie art. 208 ust. 4 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm.) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+wzory, kolory oraz rodzaje umundurowania;
+2)
+wzory, kolory oraz rodzaje oznaczeń stopni służbowych i znaków identyfikacji osobistej funkcjonariuszy Służby Celno-Skarbowej, zwanych dalej „funkcjonariuszami”;
+3)
+tryb przydziału oznaczeń stopni służbowych i znaków identyfikacji osobistej funkcjonariuszy;
+4)
+przypisanie składnikom umundurowania liczby punktów przeliczeniowych;
+5)
+tryb przydziału składników umundurowania;
+6)
+wykaz składników umundurowania, za które przysługuje równoważnik pieniężny, oraz wysokość tego równoważnika;
+7)
+warunki przyznawania równoważnika pieniężnego w zamian za składniki umundurowania oraz za okresowe czyszczenie umundurowania;
+8)
+sposób noszenia poszczególnych rodzajów umundurowania, oznaczeń stopni służbowych oraz znaków identyfikacji osobistej funkcjonariuszy;
+9)
+przypadki, w których funkcjonariusz może zostać zwolniony z obowiązku wykonywania obowiązków służbowych w umundurowaniu;
+10)
+wartość punktu przeliczeniowego;
+11)
+sposób wyliczenia zwrotu równowartości pieniężnej składników umundurowania.
+§ 2.
+1.
+Umundurowanie funkcjonariuszy składa się z następujących rodzajów ubiorów:
+1)
+wyjściowego;
+2)
+służbowego;
+3)
+reprezentacyjnego;
+4)
+specjalnego.
+2.
+Wykaz składników umundurowania, o którym mowa w ust. 1, które podlegają wydaniu w naturze, oraz liczbę punktów przeliczeniowych przypisanych danemu składnikowi umundurowania określa załącznik nr 1 do rozporządzenia.
+3.
+Wzory i kolory składników umundurowania, o którym mowa w ust. 1, które podlegają wydaniu w naturze, określa załącznik nr 2 do rozporządzenia.
+§ 3.
+1.
+Ubiór wyjściowy i służbowy przysługuje wszystkim funkcjonariuszom.
+2.
+Ubiór reprezentacyjny przysługuje funkcjonariuszowi wchodzącemu w skład kompanii honorowej Szefa Krajowej Administracji Skarbowej.
+3.
+Funkcjonariuszom realizującym zadania, o których mowa w art. 14 ust. 1 pkt 19 lub art. 33 ust. 1 pkt 15 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, zwanej dalej „ustawą”, w ramach zespołów zabezpieczenia działań, może zostać przydzielony ubiór specjalny.
+§ 4.
+1.
+Kierownik jednostki organizacyjnej przydziela funkcjonariuszowi składniki umundurowania z dniem:
+1)
+mianowania do służby;
+2)
+przywrócenia funkcjonariusza do służby na zasadach określonych w art. 185 ust. 1 i art. 186 ust. 1 ustawy;
+3)
+przeniesienia do służby w Służbie Celno-Skarbowej na zasadach określonych w art. 176 ustawy.
+2.
+Ubiór reprezentacyjny przydziela Szef Krajowej Administracji Skarbowej z dniem wejścia funkcjonariusza w skład kompanii honorowej Szefa Krajowej Administracji Skarbowej.
+3.
+Ubiór specjalny przydziela Szef Krajowej Administracji Skarbowej. Funkcjonariuszom realizującym zadania w urzędach celno-skarbowych ubiór specjalny przydziela Szef Krajowej Administracji Skarbowej na wniosek właściwego dyrektora izby administracji skarbowej.
+4.
+Wykaz oraz liczbę składników umundurowania przydzielanych funkcjonariuszowi określa załącznik nr 3 do rozporządzenia.
+§ 5.
+Oznaczenia stopni służbowych dzielą się na:
+1)
+dystynkcje;
+2)
+odznakę korpusu oficerów Służby Celno-Skarbowej.
+§ 6.
+1.
+Kierownik jednostki organizacyjnej przydziela funkcjonariuszowi 3 komplety dystynkcji do każdego rodzaju przysługującego ubioru. Dystynkcje są przydzielane niezwłocznie po mianowaniu na stopień służbowy.
+2.
+Dystynkcje są noszone na każdym rodzaju ubioru, w tym na nakryciach głowy: kapeluszu mundurowym, czapce wyjściowej oraz czapce reprezentacyjnej. W przypadkach szczególnie uzasadnionych charakterem wykonywanych zadań kierownik jednostki organizacyjnej może zezwolić na odstąpienie od noszenia dystynkcji na składnikach ubioru specjalnego.
+3.
+Wzory, kolory i sposób noszenia dystynkcji określa załącznik nr 4 do rozporządzenia.
+§ 7.
+1.
+Kierownik jednostki organizacyjnej przydziela funkcjonariuszowi odznakę korpusu oficerów Służby Celno-Skarbowej po mianowaniu na pierwszy stopień służbowy w korpusie oficerów młodszych Służby Celno-Skarbowej.
+2.
+Odznaka korpusu oficerów Służby Celno-Skarbowej jest noszona przez funkcjonariusza, który posiada stopień służbowy w korpusie oficerów młodszych Służby Celno-Skarbowej albo w korpusie oficerów starszych Służby Celno-Skarbowej.
+3.
+Wzór, kolor i sposób noszenia odznaki korpusu oficerów Służby Celno-Skarbowej określa załącznik nr 5 do rozporządzenia.
+§ 8.
+1.
+Znaki identyfikacji osobistej dzielą się na:
+1)
+znak identyfikacji indywidualnej wraz z patką pod znak identyfikacji indywidualnej;
+2)
+znak imienny:
+a)
+metalowy,
+b)
+na tkaninie.
+2.
+Znak identyfikacji osobistej przydziela kierownik jednostki organizacyjnej funkcjonariuszowi mianowanemu do służby.
+3.
+Wzory, kolory i sposób noszenia znaków identyfikacji osobistej określa załącznik nr 6 do rozporządzenia.
+§ 9.
+1.
+Przydzielone składniki umundurowania, dystynkcje, odznaka korpusu oficerów Służby Celno-Skarbowej, znak imienny oraz patka pod znak identyfikacji indywidualnej nie podlegają zwrotowi do magazynu.
+2.
+W przypadku zwolnienia ze służby, wydalenia ze służby, wygaśnięcia stosunku służbowego albo przekształcenia stosunku służbowego w stosunek pracy na podstawie art. 174 ustawy, przydzielony znak identyfikacji indywidualnej podlega zwrotowi do magazynu. Znak ten nie może być przydzielony innemu funkcjonariuszowi.
+§ 10.
+1.
+Corocznie, w terminie do dnia 20 stycznia, funkcjonariuszowi są przyznawane punkty przeliczeniowe do wykorzystania w celu pobrania składników umundurowania.
+2.
+Punkty przeliczeniowe z przeznaczeniem na kombinezon jednoczęściowy w kolorze szarozielonym albo czarnym, kamizelkę narzędziową nasobną, kamizelkę narzędziową odblaskową i sztormiak, wchodzące w skład ubioru służbowego, przyznaje się raz na 3 lata. Punkty niewykorzystane w okresie 3 lat od dnia ich przyznania wygasają.
+3.
+Punkty przeliczeniowe z przeznaczeniem na kordzik honorowy Służby Celno-Skarbowej przyznaje się jednorazowo w przypadku mianowania funkcjonariusza na stopień nadinspektora.
+4.
+Punkty przeliczeniowe przyznane na podstawie ust. 2 i 3:
+1)
+nie pomniejszają liczby punktów przeliczeniowych, o których mowa w ust. 1;
+2)
+nie są wliczane do łącznej liczby punktów przeliczeniowych, o których mowa w ust. 6 i 7.
+5.
+Punkty przeliczeniowe z przeznaczeniem na składniki ubioru reprezentacyjnego, przysługujące funkcjonariuszom wchodzącym w skład kompanii honorowej Szefa Krajowej Administracji Skarbowej, przyznaje Szef Krajowej Administracji Skarbowej, mając na uwadze konieczność zapewnienia estetycznego wyglądu kompanii honorowej Szefa Krajowej Administracji Skarbowej.
+6.
+Liczba punktów przeliczeniowych, o których mowa w ust. 1, wynosi dla ubioru:
+1)
+wyjściowego i służbowego – 1450;
+2)
+specjalnego – 7490.
+7.
+Liczba punktów przeliczeniowych niewykorzystanych w danym roku kalendarzowym powiększa liczbę punktów przeliczeniowych do wykorzystania w roku następnym, z zastrzeżeniem że nie może ona łącznie przekroczyć dla ubioru:
+1)
+wyjściowego i służbowego – 4350;
+2)
+specjalnego – 22470.
+8.
+Liczbę punktów przeliczeniowych pomniejsza się o:
+1)
+liczbę punktów przeliczeniowych pobranego składnika umundurowania;
+2)
+1/365 liczby punktów przeliczeniowych określonych w ust. 6 za każdy dzień nieobecności funkcjonariusza w służbie w roku poprzedzającym przyznanie punktów przeliczeniowych, z wyłączeniem nieobecności spowodowanej urlopem wypoczynkowym.
+9.
+Liczby punktów przeliczeniowych nie pomniejsza się w przypadkach, o których mowa w § 12 ust. 1, 3 i 4.
+§ 11.
+1.
+W ramach przyznanej liczby punktów przeliczeniowych funkcjonariusz może pobierać składniki ubiorów:
+1)
+wyjściowego,
+2)
+służbowego,
+3)
+reprezentacyjnego,
+4)
+specjalnego
+mając na uwadze konieczność wykonywania obowiązków służbowych o każdej porze roku w umundurowaniu zapewniającym przepisowy i estetyczny wygląd.
+2.
+Nie dopuszcza się:
+1)
+wykonywania w umundurowaniu czynności naruszających powagę Służby Celno-Skarbowej;
+2)
+noszenia składników umundurowania:
+a)
+niezgodnie z przeznaczeniem,
+b)
+w połączeniu z ubraniem cywilnym,
+c)
+wykazujących znaczny stopień zużycia;
+3)
+noszenia naszyjników, korali, bransolet i tym podobnych ozdób osobistych w sposób widoczny na umundurowaniu;
+4)
+dokonywania samowolnych przeróbek powodujących zniekształcenie składników umundurowania.
+3.
+Składniki ubiorów nosi się zgodnie z zestawami ubiorczymi ustalonymi z uwzględnieniem pory roku. Zestawy ubiorcze składników ubiorów, które podlegają wydaniu w naturze, określa załącznik nr 7 do rozporządzenia.
+§ 12.
+1.
+W przypadku niezawinionego zniszczenia albo utraty składnika umundurowania, oznaczenia stopnia służbowego lub znaku imiennego, kierownik jednostki organizacyjnej, na wniosek funkcjonariusza złożony w postaci papierowej albo elektronicznej, zawierający opis zdarzenia, przydziela nowy składnik umundurowania, oznaczenie stopnia służbowego lub znak imienny.
+2.
+W przypadku zniszczenia albo utraty znaku identyfikacji indywidualnej lub patki pod znak identyfikacji indywidualnej kierownik jednostki organizacyjnej, na wniosek funkcjonariusza złożony w postaci papierowej albo elektronicznej, zawierający opis zdarzenia, przydziela nowy znak identyfikacji indywidualnej lub nową patkę pod znak identyfikacji indywidualnej.
+3.
+W przypadku nieobecności funkcjonariusza w służbie trwającej dłużej niż 12 miesięcy kierownik jednostki organizacyjnej, na wniosek funkcjonariusza złożony w postaci papierowej albo elektronicznej, po dokonaniu przeglądu posiadanego umundurowania, może przydzielić funkcjonariuszowi składniki umundurowania w celu zapewnienia wykonywania obowiązków służbowych o każdej porze roku w umundurowaniu zapewniającym przepisowy i estetyczny wygląd.
+4.
+W szczególnie uzasadnionych przypadkach kierownik jednostki organizacyjnej, na uzasadniony wniosek funkcjonariusza złożony w postaci papierowej albo elektronicznej, może przydzielić dodatkowy składnik umundurowania.
+§ 13.
+1.
+Na umundurowaniu nosi się odpowiednio:
+1)
+oznaczenia stopni służbowych;
+2)
+znaki identyfikacji osobistej.
+2.
+Funkcjonariusz mianowany do korpusu generałów Służby Celno-Skarbowej może nosić kordzik honorowy Służby Celno-Skarbowej.
+3.
+Umundurowany funkcjonariusz może nosić:
+1)
+teczkę lub aktówkę w kolorze czarnym;
+2)
+okulary korekcyjne lub przeciwsłoneczne;
+3)
+zwyczajowo przyjęty symbol żałoby;
+4)
+baretki orderów i odznaczeń w sposób określony w przepisach wydanych na podstawie art. 9 ust. 2 ustawy z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. z 2023 r. poz. 2053) – do ubioru wyjściowego i reprezentacyjnego;
+5)
+spinkę do krawata;
+6)
+parasol w kolorze czarnym.
+4.
+Umundurowany funkcjonariusz może nosić środki ochrony indywidualnej stosowane na podstawie przepisów odrębnych.
+5.
+Noszenie innych niż wymienione w ust. 1–4 oznaczeń, znaków lub przedmiotów jest dozwolone jedynie za zgodą kierownika jednostki organizacyjnej.
+§ 14.
+1.
+Funkcjonariuszowi przysługuje za dany rok równoważnik pieniężny za składniki umundurowania, które nie podlegają wydaniu w naturze, oraz za okresowe czyszczenie umundurowania.
+2.
+Równoważnik pieniężny wypłaca się raz w roku, w terminie do dnia 30 listopada za rok obrachunkowy. Przez rok obrachunkowy rozumie się okres od dnia 1 października roku poprzedzającego rok, w którym jest wypłacany równoważnik pieniężny, do dnia 30 września roku, w którym jest wypłacany równoważnik pieniężny.
+3.
+Równoważnik pieniężny nie przysługuje za okres nieobecności funkcjonariusza w służbie, z wyłączeniem nieobecności spowodowanej urlopem wypoczynkowym.
+4.
+W przypadku określonym w ust. 3 równoważnik pieniężny pomniejsza się o 1/365 równoważnika za każdy dzień nieobecności funkcjonariusza w służbie.
+5.
+Wykaz składników umundurowania, za które przysługuje równoważnik pieniężny, wysokość tego równoważnika oraz wysokość równoważnika pieniężnego za okresowe czyszczenie umundurowania określa załącznik nr 8 do rozporządzenia.
+§ 15.
+Funkcjonariusz może zostać zwolniony z obowiązku wykonywania obowiązków służbowych w umundurowaniu:
+1)
+na polecenie przełożonego podczas wykonywania czynności służbowych w miejscach, w których umundurowanie może być narażone na zniszczenie lub uszkodzenie;
+2)
+za zgodą albo na polecenie przełożonego przy wykonywaniu określonych czynności służbowych, jeżeli przemawia za tym ich charakter;
+3)
+w okresie ciąży.
+§ 16.
+Wartość punktu przeliczeniowego wynosi 1 zł.
+§ 17.
+1.
+Sposób wyliczenia zwrotu równowartości pieniężnej składników umundurowania, o której mowa w art. 208 ust. 2 ustawy, określa załącznik nr 9 do rozporządzenia.
+2.
+Zwrot jest należny jedynie w przypadku, gdy wynik obliczenia dokonanego przy zastosowaniu wzoru określonego w ust. 1 jest większy od 0.
+§ 18.
+1.
+Punkty przeliczeniowe przyznane na podstawie przepisów dotychczasowych i niewykorzystane do dnia 30 września 2018 r. mogą zostać wykorzystane w celu pobrania składników umundurowania określonych w przepisach dotychczasowych lub składników umundurowania określonych w rozporządzeniu.
+2.
+Punkty przeliczeniowe, o których mowa w ust. 1, nie powiększają limitu, o którym mowa w § 10 ust. 7.
+3.
+Punkty przeliczeniowe przyznane na podstawie rozporządzenia mogą zostać wykorzystane w celu pobrania składników umundurowania określonych w przepisach dotychczasowych.
+§ 19.
+Funkcjonariusz może łączyć składniki:
+1)
+ubioru wyjściowego, o którym mowa w przepisach dotychczasowych, tylko ze składnikami ubioru wyjściowego, o którym mowa w § 2 ust. 1 pkt 1;
+2)
+ubiorów służbowego, polowego i specjalnego, o których mowa w przepisach dotychczasowych, tylko ze składnikami ubioru służbowego, o którym mowa w § 2 ust. 1 pkt 2.
+§ 20.
+Równoważnik pieniężny za rok obrachunkowy obejmujący okres od dnia 1 października 2017 r. do dnia 30 września 2018 r. przysługuje w wysokości określonej w przepisach dotychczasowych.
+§ 21.
+Rozporządzenie wchodzi w życie z dniem 1 października 2018 r.
+1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – finanse publiczne kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i 1860 oraz z 2024 r. poz. 850, 863 i 879. 3) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 3 kwietnia 2023 r. zmieniającego rozporządzenie w sprawie umundurowania funkcjonariuszy Służby Celno-Skarbowej (Dz. U. poz. 670), które weszło w życie z dniem 12 kwietnia 2023 r. 4) Zakres spraw regulowany niniejszym rozporządzeniem był poprzednio uregulowany:1) rozporządzeniem Ministra Finansów z dnia 27 maja 2004 r. w sprawie broni służbowej i umundurowania pracowników kontroli skarbowej (Dz. U. poz. 1454), które w zakresie dotyczącym umundurowania utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 256 pkt 2 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379, 1537, 1926 i 2409);2) rozporządzeniem Ministra Finansów z dnia 15 września 2015 r. w sprawie umundurowania funkcjonariuszy celnych (Dz. U. poz. 1490), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 4 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej.
+
+## Załącznik nr 1 — – Wykaz składników umundurowania, które podlegają wydaniu w naturze, wraz z liczbą punktów przeliczeniowych przypisanych danemu składnikowi umundurowania
+
+patrz oryginał
+
+## Załącznik nr 2 — – Wzory i kolory składników umundurowania, które podlegają wydaniu w naturze
+
+patrz oryginał
+
+## Załącznik nr 3 — – Wykaz oraz liczba składników umundurowania przydzielanych z dniem mianowania do służby, przywrócenia do służby albo przeniesienia do służby w służbie celno-skarbowej
+
+patrz oryginał
+
+## Załącznik nr 4 — – Wzory, kolory i sposób noszenia dystynkcji
+
+patrz oryginał
+
+## Załącznik nr 5 — – Wzór, kolor i sposób noszenia odznaki korpusu oficerów służby celno-skarbowej
+
+patrz oryginał
+
+## Załącznik nr 6 — – Wzory, kolory i sposób noszenia znaków identyfikacji osobistej
+
+patrz oryginał
+
+## Załącznik nr 7 — – Zestawy ubiorcze składników ubiorów, które podlegają wydaniu w naturze
+
+patrz oryginał
+
+## Załącznik nr 8 — – Wykaz składników umundurowania, za które przysługuje równoważnik pieniężny, wysokość tego równoważnika oraz wysokość równoważnika pieniężnego za okresowe czyszczenie umundurowania
+
+patrz oryginał
+
+## Załącznik nr 9 — – Sposób wyliczenia zwrotu równowartości pieniężnej składników umundurowania
+
+patrz oryginał
 

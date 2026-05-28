@@ -22,16 +22,77 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1985-04-18 |
 | Data wydania | 1985-05-04 |
+| Wejście w życie | 1985-07-01 |
 | Ostatnia zmiana | 2024-09-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19850200086) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1985/86/text.pdf) |
 
 **Art. 1.** W Kodeksie postępowania cywilnego wprowadza się następujące zmiany:
 
+- **1)** art. 1 otrzymuje brzmienie: „ Kodeks postępowania cywilnego normuje postępowanie sądowe w sprawach ze stosunków z zakresu prawa cywilnego, rodzinnego i opiekuńczego oraz prawa pracy, jak również w sprawach z zakresu ubezpieczeń społecznych oraz w innych sprawach, do których przepisy tego Kodeksu stosuje się z mocy ustaw szczególnych (sprawy cywilne). ” ;
+- **2)** w art. 17: pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** o prawa niemajątkowe i łącznie z nimi dochodzone roszczenia majątkowe, oprócz spraw z zakresu prawa rodzinnego oraz spraw o uchylenie uchwał organów spółdzielni; ” , pkt 3 skreśla się, pkt 4 otrzymuje brzmienie: „
+    - **b)**
+    - **c)**
+
+- **4)** o prawa majątkowe, w których wartość przedmiotu sporu przewyższa pięćset tysięcy złotych, gdy jedną ze stron jest jednostka gospodarki uspołecznionej. ” ;
+- **3)** w art. 53 wyrazy „pięciu tysięcy złotych” zastępuje się wyrazami „dwudziestu tysięcy złotych”;
+- **4)** w art. 61: § 1 otrzymuje brzmienie: „
+    - **a)**
+
+§ 1. W sprawach o roszczenia alimentacyjne organizacje społeczne ludu pracującego, których zadanie nie polega na prowadzeniu działalności gospodarczej, mogą wytaczać powództwa na rzecz obywateli. Wykaz tych organizacji ustala Minister Sprawiedliwości. ” , dodaje się § 3 w brzmieniu: „
+
+- **b)**
+
+§ 3. Organizacje społeczne, do których zadań statutowych należy ochrona środowiska, ochrona konsumentów albo ochrona praw z tytułu wynalazczości, mogą w sprawach z tego zakresu wstąpić za zgodą powoda do postępowania w każdym jego stadium. Wykaz tych organizacji ustala Minister Sprawiedliwości. ” ;
+
+- **5)** art. 63 otrzymuje brzmienie: „
+
 **Art. 63.** Organizacje wymienione w artykułach poprzedzających, które nie uczestniczą w sprawie, mogą przedstawiać sądowi istotny dla sprawy pogląd wyrażony w uchwale lub oświadczeniu ich należycie umocowanych organów. ” ;
+
+- **6)** w art. 87 dodaje się § 4 i 5 w brzmieniu: „
+
+§ 4. W sprawach związanych z prowadzeniem gospodarstwa rolnego pełnomocnikiem rolnika może być również przedstawiciel organizacji zrzeszającej rolników indywidualnych, której rolnik jest członkiem.
+
+§ 5. W sprawach związanych z ochroną praw konsumentów pełnomocnikiem może być przedstawiciel organizacji, do której zadań statutowych należy ochrona konsumentów. ” ;
+
+- **7)** w art. 111 w § 1 skreśla się pkt 3;
+- **8)** w art. 163 w § 1 wyrazy „trzech tysięcy złotych” zastępuje się wyrazami „dwunastu tysięcy złotych”;
+- **9)** w art. 168 § 1 otrzymuje brzmienie: „
+
+§ 1. Jeżeli strona nie dokonała w terminie czynności procesowej bez swojej winy, sąd na jej wniosek postanowi przywrócenie terminu. Postanowienie może być wydane na posiedzeniu niejawnym. ” ;
+
+- **10)** w art. 197 wyrazy „właściwy do spraw finansowych organ prezydium powiatowej (miejskiej, dzielnicowej) rady narodowej” zastępuje się wyrazami „właściwy urząd skarbowy”;
+- **11)** w art. 328 § 1 otrzymuje brzmienie: „
+
+§ 1. Uzasadnienie wyroku sporządza się na żądanie strony zgłoszone w terminie tygodniowym od dnia ogłoszenia sentencji wyroku. Żądanie spóźnione sąd odrzuci na posiedzeniu niejawnym. Sąd sporządza uzasadnienie wyroku również wówczas, gdy wyrok został zaskarżony w ustawowym terminie. ” ;
+
+- **12)** art. 329 otrzymuje brzmienie: „
 
 **Art. 329.** Uzasadnienie wyroku sporządza się w terminie tygodniowym od dnia złożenia wniosku o sporządzenie uzasadnienia, a gdy wniosek taki nie był zgłoszony – od dnia zaskarżenia wyroku. ” ;
 
+- **13)** art. 331 otrzymuje brzmienie: „
+
 **Art. 331.** Wyrok z uzasadnieniem doręcza się tylko tej stronie, która zażądała sporządzenia uzasadnienia. ” ;
+
+- **14)** w art. 357: § 1 otrzymuje brzmienie: „
+    - **a)**
+
+§ 1. Postanowienia ogłoszone na posiedzeniu jawnym sąd uzasadnia tylko wtedy, gdy podlegają one zaskarżeniu, i tylko na żądanie strony zgłoszone w terminie tygodniowym od dnia ogłoszenia postanowienia. Postanowienia te doręcza się tylko tej stronie, która zażądała sporządzenia uzasadnienia i doręczenia postanowienia z uzasadnieniem. ” , w § 3 zdanie drugie otrzymuje brzmienie: „ Jeżeli postanowienie wydano na posiedzeniu jawnym termin tygodniowy liczy się od dnia, w którym zażądano jego doręczenia, a gdy żądania takiego nie było – od dnia wniesienia zażalenia. ” ;
+
+- **b)**
+- **15)** w art. 388 w § 1 po wyrazach „do ponownego rozpoznania” dodaje się wyrazy „w innym składzie”;
+- **16)** w art. 417 w § 1 zdanie pierwsze otrzymuje brzmienie: „ Od każdego prawomocnego orzeczenia kończącego postępowanie w sprawie Minister Sprawiedliwości, Pierwszy Prezes Sądu Najwyższego i Prokurator Generalny Polskiej Rzeczypospolitej Ludowej, a w sprawie z zakresu prawa pracy lub ubezpieczeń społecznych – także Minister Pracy, Płac i Spraw Socjalnych, może złożyć rewizję nadzwyczajną, jeżeli orzeczenie rażąco narusza prawo lub interes Polskiej Rzeczypospolitej Ludowej ” ;
+- **17)** w art. 419 dodaje się § 3 w brzmieniu: „
+
+§ 3. Jeżeli uzasadnienie zaskarżonego wyroku nie było sporządzone, Sąd Najwyższy może zażądać sporządzenia uzasadnienia przez sąd, który wydał orzeczenie. ” ;
+
+- **18)** w art. 423 § 3 otrzymuje brzmienie: „
+
+§ 3. Przepis paragrafu poprzedzającego nie ma zastosowania w postępowaniu wywołanym złożeniem rewizji nadzwyczajnej w sprawach z zakresu prawa pracy i ubezpieczeń społecznych, jednakże w postępowaniu w sprawach z zakresu ubezpieczeń społecznych niedopuszczalne jest zawarcie ugody sądowej. ” ;
+
+- **19)** dział III tytułu VII księgi pierwszej części pierwszej otrzymuje brzmienie: „
 
 ### Dział III Postępowanie w sprawach z zakresu prawa pracy i ubezpieczeń społecznych
 
@@ -242,6 +303,22 @@ source: "eli-html"
 
 **Art. 47715.** Poza tym w postępowaniu w sprawach z zakresu ubezpieczeń społecznych stosuje się odpowiednio przepisy art. 4773–4775. ” ;
 
+- **20)** w art. 480: dotychczasową treść oznacza się jako § 1, dodaje się § 2 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+§ 2. Minister Sprawiedliwości może, w drodze rozporządzenia, przekazać właściwym sądom czynności wykonywane w postępowaniu nakazowym i upominawczym przez państwowe biura notarialne. W takim wypadku przewodniczący może zarządzić rozpoznanie w postępowaniu upominawczym sprawy o roszczenia nadające się do rozpoznania w tym trybie także wówczas, gdy powód nie żądał wydania nakazu zapłaty. ” ,
+
+- **21)** w art. 498 wyraz „dwóch” zastępuje się wyrazem „dziesięciu”;
+- **22)** w art. 509 dodaje się pkt 9 i 10 w brzmieniu: „
+- **9)** rozstrzygnięcie sporu między radą pracowniczą przedsiębiorstwa a dyrektorem przedsiębiorstwa albo między tymi organami a organem założycielskim lub sprawującym nadzór nad przedsiębiorstwem,
+- **10)** rozstrzygnięcie sporu między radą zrzeszenia przedsiębiorstw lub dyrektorem tego zrzeszenia a organem sprawującym nadzór nad zrzeszeniem, ” ;
+- **23)** w art. 545 w § 4 wyrazy „pięciu tysięcy złotych” zastępuje się wyrazami „dwudziestu tysięcy złotych”;
+- **24)** w art. 635 w § 2 wyrazy „właściwy organ administracji finansowej pierwszej instancji” zastępuje się wyrazami „właściwy urząd skarbowy”;
+- **25)** w art. 637 w § 1 wyrazy „właściwego organu administracji finansowej pierwszej instancji” zastępuje się wyrazami „właściwego urzędu skarbowego”;
+- **26)** w art. 655 w § 1 wyrazy „właściwego organu administracji finansowej pierwszej instancji” zastępuje się wyrazami „właściwego urzędu skarbowego”;
+- **27)** w tytule II księgi drugiej części pierwszej po dziale IV dodaje się dział IVa w brzmieniu: „
+
 ### Dział IVa Sprawy z zakresu przepisów o przedsiębiorstwach państwowych i o samorządzie załogi przedsiębiorstwa państwowego
 
 **Art. 6911.**
@@ -271,6 +348,9 @@ source: "eli-html"
 **Art. 6918.** Koszty postępowania obciążające zarówno radę pracowniczą, jak i dyrektora przedsiębiorstwa ponosi przedsiębiorstwo, a Obciążające radę zrzeszenia przedsiębiorstw lub dyrektora tego zrzeszenia ponosi zrzeszenie.
 
 **Art. 6919.** Przepisów niniejszego działu nie stosuje się w sprawach o odszkodowanie. ” ;
+
+- **28)** w art. 762 w § 1 wyrazy „trzech tysięcy złotych” zastępuje się wyrazami „dwunastu tysięcy złotych”;
+- **29)** po art. 767 dodaje się art. 7671 w brzmieniu: „
 
 **Art. 7671.**
 

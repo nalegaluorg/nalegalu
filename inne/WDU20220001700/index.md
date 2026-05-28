@@ -8,12 +8,10 @@ pos: 1700
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o wspieraniu i resocjalizacji nieletnich Uznając rodzinę za naturalne środowisko rozwoju człowieka oraz opierając się na zasadzie autonomii rodziny i pierwszoplanowej roli rodziców – matki i ojca – w przekazywaniu nieletnim wartości, zasad i niezbędnych wzorców, kierując się nadto prawem nieletnich do szczególnej troski i pomocy oraz zasadą subsydiarności, Rzeczpospolita Polska otacza rodzinę ochroną i wsparciem w wychowaniu, które respektując chrześcijański system wartości, za podstawę przyjmuje uniwersalne zasady etyki.
-
-*USTAWA z dnia 9 czerwca 2022 r.*
+# Ustawa z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich
 
 | Pole | Wartość |
 |---|---|
@@ -24,14 +22,14 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2022-06-09 |
 | Data wydania | 2022-08-12 |
+| Wejście w życie | 2022-09-01 |
 | Ostatnia zmiana | 2026-02-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001700) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1700/text.pdf) |
 
-Umacnianie poczucia odpowiedzialności rodzin za przygotowanie dzieci do życia we wspólnocie, jako indywidualnie ukształtowanej jednostki oraz za wychowanie nieletnich na osoby świadome swych obowiązków rodzinnych i obywatelskich jest wspólnym dobrem całego społeczeństwa.
-W dążeniu do wzmacniania świadomości odpowiedzialności za własne czyny, przeciwdziałania demoralizacji nieletnich i dopuszczaniu się przez nich czynów karalnych oraz stwarzania warunków powrotu do normalnego życia nieletnim, którzy popadli w konflikt z prawem lub z zasadami współżycia społecznego, stanowi się, co następuje.
-Art. 360–392. (pominięte)
+Treść ustawy Dział I – Przepisy ogólne Dział II – Środki przeciwdziałania demoralizacji nieletnich i dopuszczaniu się przez nich czynów karalnych Dział III – Postępowanie rozpoznawcze Rozdział 1 – Przepisy ogólne Rozdział 2 – Strony i pokrzywdzony Rozdział 3 – Środki tymczasowe i zatrzymanie Rozdział 4 – Postępowanie w pierwszej instancji Rozdział 5 – Postępowanie odwoławcze Dział IV – Postępowanie wykonawcze Rozdział 1 – Przepisy ogólne Rozdział 2 – Prawa i obowiązki nieletnich Rozdział 3 – Nadzór nad wykonywaniem orzeczeń Rozdział 4 – Wykonywanie środków wychowawczych Rozdział 5 – Wykonywanie środka leczniczego Rozdział 6 – Wykonywanie środka poprawczego Rozdział 7 – Wykonywanie zobowiązania rodziców albo opiekuna nieletniego Rozdział 8 – Wykonywanie środków tymczasowych Dział V – Funkcjonowanie okręgowych ośrodków wychowawczych, zakładów poprawczych i schronisk dla nieletnich Rozdział 1 – Organizacja okręgowych ośrodków wychowawczych, zakładów poprawczych i schronisk dla nieletnich Rozdział 2 – Zapewnienie bezpieczeństwa w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich Dział VI – Ochrona danych osobowych Dział VII – Zmiany w przepisach, przepisy przejściowe, dostosowujące i końcowe Rozdział 1 – Zmiany w przepisach Rozdział 2 – Przepisy przejściowe i dostosowujące Rozdział 3 – Przepisy końcowe
+Uznając rodzinę za naturalne środowisko rozwoju człowieka oraz opierając się na zasadzie autonomii rodziny i pierwszoplanowej roli rodziców – matki i ojca – w przekazywaniu nieletnim wartości, zasad i niezbędnych wzorców, kierując się nadto prawem nieletnich do szczególnej troski i pomocy oraz zasadą subsydiarności, Rzeczpospolita Polska otacza rodzinę ochroną i wsparciem w wychowaniu, które respektując chrześcijański system wartości, za podstawę przyjmuje uniwersalne zasady etyki. Umacnianie poczucia odpowiedzialności rodzin za przygotowanie dzieci do życia we wspólnocie, jako indywidualnie ukształtowanej jednostki oraz za wychowanie nieletnich na osoby świadome swych obowiązków rodzinnych i obywatelskich jest wspólnym dobrem całego społeczeństwa. W dążeniu do wzmacniania świadomości odpowiedzialności za własne czyny, przeciwdziałania demoralizacji nieletnich i dopuszczaniu się przez nich czynów karalnych oraz stwarzania warunków powrotu do normalnego życia nieletnim, którzy popadli w konflikt z prawem lub z zasadami współżycia społecznego, stanowi się, co następuje.
 
-### DZIAŁ I Przepisy ogólne
+### Dział I Przepisy ogólne
 
 **Art. 1.**
 
@@ -39,14 +37,14 @@ Art. 360–392. (pominięte)
 
 - **1)** postępowania w sprawach o demoralizację – wobec osób, które ukończyły 10 lat i nie są pełnoletnie;
 - **2)** postępowania w sprawach o czyny karalne – wobec osób, które dopuściły się takiego czynu po ukończeniu 13 lat, ale przed ukończeniem 17 lat;
-- **3)** wykonywania środków wychowawczych, środka leczniczego lub środka poprawczego – wobec osób, względem których środki te zostały orzeczone, niedłużej jednak niż do ukończenia przez te osoby 21 lat, chyba że niniejsza ustawa stanowi inaczej.
+- **3)** wykonywania środków wychowawczych, środka leczniczego lub środka poprawczego – wobec osób, względem których środki te zostały orzeczone, nie dłużej jednak niż do ukończenia przez te osoby 21 lat, chyba że niniejsza ustawa stanowi inaczej.
 
 2. Ilekroć w ustawie jest mowa o:
 
 - **1)** nieletnich – rozumie się przez to osoby, o których mowa w ust. 1;
-- **2)** czynie karalnym – rozumie się przez to czyn zabroniony przez ustawę jako:
-    - **a)** przestępstwo lub przestępstwo skarbowe albo
-    - **b)** wykroczenie lub wykroczenie skarbowe;
+- **2)** czynie karalnym – rozumie się przez to czyn zabroniony przez ustawę jako: przestępstwo lub przestępstwo skarbowe albo wykroczenie lub wykroczenie skarbowe;
+    - **a)**
+    - **b)**
 
 - **3)** czynie zabronionym – rozumie się przez to zachowanie o znamionach określonych w ustawie karnej.
 
@@ -68,15 +66,27 @@ Art. 360–392. (pominięte)
 
 4. W przypadku gdy nieletni wykazuje przejawy demoralizacji lub dopuścił się czynu karalnego na terenie szkoły lub w związku z realizacją obowiązku szkolnego lub obowiązku nauki, dyrektor tej szkoły może, za zgodą rodziców albo opiekuna nieletniego oraz nieletniego, zastosować, jeżeli jest to wystarczające, środek oddziaływania wychowawczego w postaci pouczenia, ostrzeżenia ustnego albo ostrzeżenia na piśmie, przeproszenia pokrzywdzonego, przywrócenia stanu poprzedniego lub wykonania określonych prac porządkowych na rzecz szkoły. Zastosowanie środka oddziaływania wychowawczego nie wyłącza zastosowania kary określonej w statucie szkoły. Przepisu nie stosuje się w przypadku, gdy nieletni dopuścił się czynu zabronionego wyczerpującego znamiona przestępstwa ściganego z urzędu lub przestępstwa skarbowego.
 
-5. W przypadku gdy organ uprawniony do przeprowadzenia czynności wyjaśniających według przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, 1178, 1661, 1814, 1818 i 1872) stwierdzi, że nieletni dopuścił się czynu karalnego wyczerpującego znamiona wykroczenia, może zastosować, jeżeli jest to wystarczające, środek oddziaływania wychowawczego w postaci pouczenia, zwrócenia uwagi, ostrzeżenia, przywrócenia stanu poprzedniego lub zawiadomienia rodziców albo opiekuna nieletniego lub szkoły, do której nieletni uczęszcza.
+5. W przypadku gdy organ uprawniony do przeprowadzenia czynności wyjaśniających według przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124) stwierdzi, że nieletni dopuścił się czynu karalnego wyczerpującego znamiona wykroczenia, może zastosować, jeżeli jest to wystarczające, środek oddziaływania wychowawczego w postaci pouczenia, zwrócenia uwagi, ostrzeżenia, przywrócenia stanu poprzedniego lub zawiadomienia rodziców albo opiekuna nieletniego lub szkoły, do której nieletni uczęszcza.
 
 **Art. 5.** Podmioty współdziałające z sądem rodzinnym, a w szczególności instytucje państwowe i samorządowe oraz organizacje społeczne, w tym organizacje pozarządowe, a także osoby godne zaufania, w zakresie swojego działania, udzielają na żądanie sądu rodzinnego informacji niezbędnych w toku postępowania.
 
-### DZIAŁ II Środki przeciwdziałania demoralizacji nieletnich i dopuszczaniu się przez nich czynów karalnych
+### Dział II Środki przeciwdziałania demoralizacji nieletnich i dopuszczaniu się przez nich czynów karalnych
 
 **Art. 6.** Wobec nieletniego mogą być stosowane środki wychowawcze, środek leczniczy oraz środek poprawczy. Wobec nieletniego kara może być orzeczona tylko w przypadkach określonych w ustawie, jeżeli inne środki nie są w stanie zapewnić resocjalizacji nieletniego.
 
 **Art. 7.** Środkami wychowawczymi są:
+
+- **1)** upomnienie;
+- **2)** zobowiązanie do określonego postępowania, a zwłaszcza do naprawienia wyrządzonej szkody w całości albo w części, do zadośćuczynienia za doznaną krzywdę, do wykonania prac społecznych, do przeproszenia pokrzywdzonego, do podjęcia nauki lub pracy, do uczestniczenia w odpowiednich zajęciach o charakterze wychowawczym, terapeutycznym, w szczególności terapii uzależnień, psychoterapii, psychoedukacji, lub szkoleniowym, do powstrzymania się od przebywania w określonych środowiskach lub miejscach, do powstrzymania się od kontaktowania się z pokrzywdzonym lub innymi osobami w określony sposób lub do zaniechania używania substancji psychoaktywnej;
+- **3)** nadzór odpowiedzialny rodziców albo opiekuna nieletniego;
+- **4)** nadzór organizacji społecznej, w tym organizacji pozarządowej, której celem statutowym jest praca z nieletnimi o charakterze wychowawczym, terapeutycznym lub szkoleniowym, zapobieganie demoralizacji nieletnich lub pomoc w readaptacji społecznej nieletnich, pracodawcy albo osoby godnej zaufania udzielających poręczenia za nieletniego;
+- **5)** nadzór kuratora sądowego;
+- **6)** skierowanie do ośrodka kuratorskiego, a także do organizacji społecznej, w tym organizacji pozarządowej, lub instytucji zajmujących się pracą z nieletnimi o charakterze wychowawczym, terapeutycznym lub szkoleniowym, po uprzednim porozumieniu się z tą organizacją lub instytucją;
+- **7)** zakaz prowadzenia wszelkich pojazdów albo pojazdów określonego rodzaju;
+- **8)** przepadek przedmiotów pochodzących z czynu zabronionego, przepadek przedmiotów, które służyły lub były przeznaczone do popełnienia czynu zabronionego, przepadek równowartości przedmiotów pochodzących z czynu zabronionego lub przedmiotów, które służyły lub były przeznaczone do popełnienia czynu zabronionego, przepadek przedmiotów, których wytwarzanie, posiadanie, obrót, przesyłanie, przenoszenie, przewóz lub przechowywanie jest zabronione, przepadek przedsiębiorstwa albo jego równowartości, przepadek korzyści majątkowej albo jej równowartości lub przepadek przedmiotów czynów zabronionych;
+- **9)** umieszczenie w rodzinie zastępczej zawodowej specjalistycznej, która ukończyła szkolenie przygotowujące do sprawowania opieki nad nieletnim, zwanej dalej „rodziną zastępczą zawodową”;
+- **10)** umieszczenie w młodzieżowym ośrodku wychowawczym;
+- **11)** umieszczenie w okręgowym ośrodku wychowawczym.
 
 **Art. 8.** Środkiem leczniczym jest umieszczenie w zakładzie leczniczym, w którym są udzielane nieletnim świadczenia zdrowotne z zakresu opieki psychiatrycznej lub leczenia uzależnień, zwanym dalej „zakładem leczniczym”.
 
@@ -86,7 +96,7 @@ Art. 360–392. (pominięte)
 
 1. Zobowiązując nieletniego do naprawienia wyrządzonej szkody lub do zadośćuczynienia za doznaną krzywdę, sąd rodzinny określa sposób i termin wykonania tych zobowiązań.
 
-2. Zobowiązując nieletniego do wykonania prac społecznych, sąd rodzinny określa okres ich wykonywania niedłużej niż przez 6 miesięcy w wymiarze nieprzekraczającym łącznie 20 godzin, mając na uwadze wiek nieletniego, jego możliwości psychofizyczne oraz potrzeby edukacyjne.
+2. Zobowiązując nieletniego do wykonania prac społecznych, sąd rodzinny określa okres ich wykonywania nie dłużej niż przez 6 miesięcy w wymiarze nieprzekraczającym łącznie 20 godzin, mając na uwadze wiek nieletniego, jego możliwości psychofizyczne oraz potrzeby edukacyjne.
 
 3. Zobowiązując nieletniego do przeproszenia pokrzywdzonego, sąd rodzinny określa termin wykonania tego zobowiązania, a także może określić sposób jego wykonania.
 
@@ -112,7 +122,7 @@ Art. 360–392. (pominięte)
 
 1. Sąd rodzinny może orzec umieszczenie w zakładzie poprawczym nieletniego, który dopuścił się czynu karalnego, o którym mowa w art. 1 ust. 2 pkt 2 lit. a, jeżeli przemawiają za tym wysoki stopień demoralizacji nieletniego oraz rodzaj czynu karalnego, sposób i okoliczności jego popełnienia, zwłaszcza gdy środki wychowawcze okazały się nieskuteczne lub nie rokują resocjalizacji nieletniego.
 
-2. Sąd rodzinny orzeka umieszczenie w zakładzie poprawczym nieletniego, który dopuścił się czynu karalnego określonego w art. 134, art. 148 § 1, 2 lub 3, art. 156 § 1 lub 3, art. 163 § 1 lub 3, art. 166, art. 173 § 1 lub 3, art. 197 § 1, 1a, 3, 4 lub 5, art. 223 § 2, art. 252 § 1 lub 2 lub w art. 280 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872), zwanej dalej „Kodeksem karnym”.
+2. Sąd rodzinny orzeka umieszczenie w zakładzie poprawczym nieletniego, który dopuścił się czynu karalnego określonego w art. 134, art. 148 § 1, 2 lub 3, art. 156 § 1 lub 3, art. 163 § 1 lub 3, art. 166, art. 173 § 1 lub 3, art. 197 § 3 lub 4, art. 223 § 2, art. 252 § 1 lub 2 lub w art. 280 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138), zwanej dalej „Kodeksem karnym”.
 
 3. Wobec nieletniego, o którym mowa w ust. 2, sąd rodzinny może orzec środek wychowawczy, jeżeli sposób i okoliczności popełnienia czynu karalnego, właściwości i warunki osobiste nieletniego oraz jego postawa i zachowanie uzasadniają przypuszczenie, że środek wychowawczy okaże się skuteczny lub rokuje resocjalizację nieletniego.
 
@@ -122,8 +132,8 @@ Art. 360–392. (pominięte)
 
 6. Wobec nieletniego, o którym mowa w ust. 2, w szczególnie uzasadnionym przypadku, jeżeli przemawiają za tym bardzo wysoki stopień demoralizacji nieletniego, rodzaj czynu karalnego, sposób i okoliczności jego popełnienia, właściwości i warunki osobiste nieletniego, jego postawa i zachowanie oraz przebieg dotychczasowego procesu resocjalizacji, orzekając umieszczenie nieletniego w zakładzie poprawczym, sąd rodzinny może:
 
-- **1)** zagrozić przedłużeniem wykonywania środka poprawczego po ukończeniu przez nieletniego 21 lat, niedłużej jednak niż do ukończenia przez nieletniego 24 lat;
-- **2)** orzec, że środek poprawczy będzie wykonywany po ukończeniu przez nieletniego 21 lat, do ukończenia przez nieletniego określonego wieku, niedłużej jednak niż do ukończenia przez nieletniego 24 lat.
+- **1)** zagrozić przedłużeniem wykonywania środka poprawczego po ukończeniu przez nieletniego 21 lat, nie dłużej jednak niż do ukończenia przez nieletniego 24 lat;
+- **2)** orzec, że środek poprawczy będzie wykonywany po ukończeniu przez nieletniego 21 lat, do ukończenia przez nieletniego określonego wieku, nie dłużej jednak niż do ukończenia przez nieletniego 24 lat.
 
 **Art. 16.**
 
@@ -135,7 +145,7 @@ Art. 360–392. (pominięte)
 
 4. Jeżeli w okresie próby nieletni dopuścił się czynu karalnego lub jego zachowanie wskazuje na dalszą demoralizację, lub uchyla się od wykonywania środka wychowawczego, sąd rodzinny może odwołać warunkowe zawieszenie i zarządzić umieszczenie nieletniego w zakładzie poprawczym.
 
-5. W przypadku dopuszczenia się przez nieletniego czynu karalnego określonego w art. 134, art. 148 § 1, 2 lub 3, art. 156 § 1 lub 3, art. 163 § 1 lub 3, art. 166, art. 173 § 1 lub 3, art. 197 § 1, 1a, 3, 4 lub 5, art. 223 § 2, art. 252 § 1 lub 2 lub w art. 280 Kodeksu karnego i braku podstaw do rozpoznania sprawy przez sąd właściwy według przepisów ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, 304, 1178, 1420 i 1872), zwanej dalej „Kodeksem postępowania karnego”, sąd rodzinny odwołuje warunkowe zawieszenie i zarządza umieszczenie nieletniego w zakładzie poprawczym.
+5. W przypadku dopuszczenia się przez nieletniego czynu karalnego określonego w art. 134, art. 148 § 1, 2 lub 3, art. 156 § 1 lub 3, art. 163 § 1 lub 3, art. 166, art. 173 § 1 lub 3, art. 197 § 3 lub 4, art. 223 § 2, art. 252 § 1 lub 2 lub w art. 280 Kodeksu karnego i braku podstaw do rozpoznania sprawy przez sąd właściwy według przepisów ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375), zwanej dalej „Kodeksem postępowania karnego”, sąd rodzinny odwołuje warunkowe zawieszenie i zarządza umieszczenie nieletniego w zakładzie poprawczym.
 
 6. Jeżeli w okresie próby i w ciągu dalszych 3 miesięcy nie nastąpiło odwołanie warunkowego zawieszenia, orzeczenie o umieszczeniu w zakładzie poprawczym z mocy prawa uważa się za niebyłe.
 
@@ -165,7 +175,7 @@ Art. 360–392. (pominięte)
 
 **Art. 20.**
 
-1. W sprawie wymierzenia kary pieniężnej, o której mowa w art. 19 ust. 1 lub 2, sąd rodzinny orzeka z urzędu lub na wniosek kuratora sądowego kontrolującego wykonywanie środka, o którym mowa w art. 18 ust. 1, a w sprawie uchylenia, o którym mowa w art. 19 ust. 3 – także na wniosek osoby ukaranej, stosując odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568, z późn. zm. ), zwanej dalej „Kodeksem postępowania cywilnego”.
+1. W sprawie wymierzenia kary pieniężnej, o której mowa w art. 19 ust. 1 lub 2, sąd rodzinny orzeka z urzędu lub na wniosek kuratora sądowego kontrolującego wykonywanie środka, o którym mowa w art. 18 ust. 1, a w sprawie uchylenia, o którym mowa w art. 19 ust. 3 – także na wniosek osoby ukaranej, stosując odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.), zwanej dalej „Kodeksem postępowania cywilnego”.
 
 2. Postanowienie w przedmiocie wymierzenia kary pieniężnej sąd rodzinny wydaje po wysłuchaniu osoby, której ma ono dotyczyć, lub po złożeniu przez nią wyjaśnień na piśmie, chyba że osoba ta bez usprawiedliwienia nie stawiła się na wezwanie sądu lub nie złożyła wyjaśnień na piśmie.
 
@@ -175,9 +185,9 @@ Art. 360–392. (pominięte)
 
 **Art. 21.** Sąd rodzinny może zwrócić się do właściwej instytucji państwowej, samorządowej lub organizacji społecznej, w tym organizacji pozarządowej, o udzielenie niezbędnej pomocy w celu poprawy warunków wychowawczych, bytowych lub zdrowotnych nieletniego.
 
-**Art. 22.** W sprawach nieletnich, którzy dopuścili się czynu zabronionego, przepisy części ogólnej Kodeksu karnego, ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2025 r. poz. 633), zwanej dalej „Kodeksem karnym skarbowym”, lub ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2025 r. poz. 734, 1676, 1814, 1818 i 1872) stosuje się odpowiednio, jeżeli nie są sprzeczne z niniejszą ustawą.
+**Art. 22.** W sprawach nieletnich, którzy dopuścili się czynu zabronionego, przepisy części ogólnej Kodeksu karnego, ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2022 r. poz. 859 i 1301), zwanej dalej „Kodeksem karnym skarbowym”, lub ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2021 r. poz. 2008, 2052, 2269 i 2328) stosuje się odpowiednio, jeżeli nie są sprzeczne z niniejszą ustawą.
 
-### DZIAŁ III Postępowanie rozpoznawcze
+### Dział III Postępowanie rozpoznawcze
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -193,7 +203,7 @@ Art. 360–392. (pominięte)
 
 4. Postanowienie o przekazaniu sprawy innemu sądowi rodzinnemu może zostać wydane na posiedzeniu niejawnym.
 
-**Art. 25.** Jeżeli zachodzą podstawy do pociągnięcia nieletniego do odpowiedzialności na zasadach określonych w art. 10 § 2 lub 2a Kodeksu karnego, sprawę rozpoznaje sąd właściwy według przepisów Kodeksu postępowania karnego.
+**Art. 25.** Jeżeli zachodzą podstawy do pociągnięcia nieletniego do odpowiedzialności na zasadach określonych w art. 10 § 2 Kodeksu karnego, sprawę rozpoznaje sąd właściwy według przepisów Kodeksu postępowania karnego.
 
 **Art. 26.**
 
@@ -209,15 +219,15 @@ Art. 360–392. (pominięte)
 
 **Art. 28.**
 
-1. W sprawach o demoralizację, której przejawem jest dopuszczenie się przez nieletniego czynu zabronionego określonego w rozdziałach XXV lub XXVI, w art. 148, art. 153 § 1, art. 156 § 1 lub 3, art. 157 § 1, art. 158 § 1, art. 159, art. 189, art. 189a, art. 246, art. 280, art. 281, art. 282 lub w art. 289 § 3 Kodeksu karnego, albo w sprawach o czyn karalny określony w rozdziałach XXV lub XXVI, w art. 148, art. 153 § 1, art. 156 § 1 lub 3, art. 157 § 1, art. 158 § 1, art. 159, art. 189, art. 189a, art. 246, art. 280, art. 281, art. 282 lub w art. 289 § 3 Kodeksu karnego pokrzywdzonego, który w chwili przesłuchania nie ukończył 15 lat, przesłuchuje się w charakterze świadka tylko wówczas, gdy jego zeznania mogą mieć istotne znaczenie dla rozstrzygnięcia sprawy, i tylko raz, chyba że wyjdą na jaw istotne okoliczności, których wyjaśnienie wymaga ponownego przesłuchania, lub w razie uwzględnienia wniosku dowodowego nieletniego, który nie miał obrońcy w czasie pierwszego przesłuchania pokrzywdzonego.
+1. W sprawach o demoralizację, której przejawem jest dopuszczenie się przez nieletniego czynu zabronionego określonego w rozdziałach XXV lub XXVI, w art. 148, art. 153 § 1, art. 156 § 1 lub 3, art. 157 § 1, art. 158 § 1, art. 159, art. 189, art. 189a, art. 246, art. 280, art. 281, art. 282 lub w art. 289 § 3 Kodeksu karnego, albo w sprawach o czyn karalny określony w rozdziałach XXV lub XXVI, w art. 148, art. 153 § 1, art. 156 § 1 lub 3, art. 157 § 1, art. 158 § 1, art. 159, art. 189, art. 189a, art. 246, art. 280, art. 281, art. 282 lub w art. 289 § 3 Kodeksu karnego pokrzywdzonego, który w chwili przesłuchania nie ukończył 15 lat, przesłuchuje się w charakterze świadka tylko wówczas, gdy jego zeznania mogą mieć istotne znaczenie dla rozstrzygnięcia sprawy, i tylko raz, chyba że wyjdą na jaw istotne okoliczności, których wyjaśnienie wymaga ponownego przesłuchania, lub żąda tego nieletni, który nie miał obrońcy w czasie pierwszego przesłuchania pokrzywdzonego.
 
-2. Przesłuchanie przeprowadza sąd rodzinny na posiedzeniu z udziałem biegłego psychologa. Biegły psycholog biorący udział w przesłuchaniu powinien być osobą płci wskazanej przez pokrzywdzonego, chyba że będzie to utrudniać postępowanie. Prokurator, obrońca oraz pełnomocnik pokrzywdzonego mają prawo wziąć udział w przesłuchaniu. Przedstawiciel ustawowy pokrzywdzonego albo osoba, pod której stałą pieczą pokrzywdzony pozostaje, lub osoba pełnoletnia wskazana przez pokrzywdzonego również ma prawo być obecna przy przesłuchaniu, jeżeli nie ogranicza to swobody wypowiedzi przesłuchiwanego. Jeżeli nieletni zawiadomiony o tej czynności nie ma obrońcy z wyboru, sąd rodzinny wyznacza mu obrońcę z urzędu.
+2. Przesłuchanie przeprowadza sąd rodzinny na posiedzeniu z udziałem biegłego psychologa. Prokurator, obrońca oraz pełnomocnik pokrzywdzonego mają prawo wziąć udział w przesłuchaniu. Przedstawiciel ustawowy pokrzywdzonego albo osoba, pod której stałą pieczą pokrzywdzony pozostaje, lub osoba pełnoletnia wskazana przez pokrzywdzonego również ma prawo być obecna przy przesłuchaniu, jeżeli nie ogranicza to swobody wypowiedzi przesłuchiwanego. Jeżeli nieletni zawiadomiony o tej czynności nie ma obrońcy z wyboru, sąd rodzinny wyznacza mu obrońcę z urzędu.
 
 3. Przesłuchanie utrwala się za pomocą urządzenia rejestrującego obraz i dźwięk. Protokół sporządzony pisemnie można ograniczyć do zapisu najbardziej istotnych oświadczeń osób biorących udział w przesłuchaniu. Zapis obrazu i dźwięku załącza się do protokołu.
 
 4. Sąd rodzinny może przesłuchać w warunkach określonych w ust. 1–3 także inną osobę w charakterze świadka, w tym pokrzywdzonego, jeżeli jego dobro tego wymaga, w szczególności gdy zachodzi uzasadniona obawa, że bezpośrednia obecność nieletniego przy przesłuchaniu mogłaby oddziaływać krępująco na zeznania świadka lub wywierać negatywny wpływ na jego stan psychiczny.
 
-5. Przepisy art. 185c, art. 185e i art. 185f § 1 Kodeksu postępowania karnego oraz przepisy wydane na podstawie art. 147 § 5 i art. 185f § 4 tego kodeksu stosuje się odpowiednio.
+5. Przepisy art. 185c i art. 185d § 1 Kodeksu postępowania karnego oraz przepisy wydane na podstawie art. 147 § 5 i art. 185d § 2 tego kodeksu stosuje się odpowiednio.
 
 **Art. 29.**
 
@@ -269,19 +279,19 @@ Art. 360–392. (pominięte)
 - **2)** prawo do składania wyjaśnień lub odpowiedzi na poszczególne pytania;
 - **3)** prawo do odmowy składania wyjaśnień lub odpowiedzi na poszczególne pytania;
 - **4)** prawo do korzystania z bezpłatnej pomocy tłumacza, jeżeli nie włada w wystarczającym stopniu językiem polskim;
-- **5)** prawo do korzystania z bezpłatnej pomocy tłumacza języka migowego, jeżeli jest osobą, o której mowa w art. 2 ust. 1 pkt 1 ustawy z dnia 19 sierpnia 2011 r. o języku migowym i innych środkach komunikowania się (Dz. U. z 2023 r. poz. 20).
+- **5)** prawo do korzystania z bezpłatnej pomocy tłumacza języka migowego, jeżeli jest osobą, o której mowa w art. 2 ust. 1 pkt 1 ustawy z dnia 19 sierpnia 2011 r. o języku migowym i innych środkach komunikowania się (Dz. U. z 2017 r. poz. 1824 oraz z 2022 r. poz. 583 i 830).
 
-2. O prawach, o których mowa w ust. 1, nieletniego poucza się niepóźniej niż przed pierwszym przesłuchaniem lub wysłuchaniem. Brak pouczenia albo mylne pouczenie nie może wywoływać dla nieletniego ujemnych konsekwencji.
+2. O prawach, o których mowa w ust. 1, nieletniego poucza się nie później niż przed pierwszym przesłuchaniem lub wysłuchaniem. Brak pouczenia albo mylne pouczenie nie może wywoływać dla nieletniego ujemnych konsekwencji.
 
 **Art. 37.**
 
 1. Nieletni może działać osobiście lub przez obrońcę.
 
-2. Obrońcą może być jedynie osoba uprawniona do obrony według przepisów ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2024 r. poz. 1564 oraz z 2025 r. poz. 1172) lub ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2024 r. poz. 499 oraz z 2025 r. poz. 1172).
+2. Obrońcą może być jedynie osoba uprawniona do obrony według przepisów ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2022 r. poz. 1184) lub ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2022 r. poz. 1166).
 
 3. Do czasu ustanowienia obrońcy przez nieletniego pozbawionego wolności, obrońcę może ustanowić inna osoba, o czym niezwłocznie zawiadamia się nieletniego.
 
-4. Nieletni może mieć jednocześnie niewięcej niż trzech obrońców.
+4. Nieletni może mieć jednocześnie nie więcej niż trzech obrońców.
 
 5. Ustanowienie obrońcy uprawnia go do podejmowania czynności procesowych do prawomocnego zakończenia postępowania wykonawczego.
 
@@ -298,8 +308,8 @@ Art. 360–392. (pominięte)
 - **1)** jest głuchy, niemy lub niewidomy lub
 - **2)** zachodzi uzasadniona wątpliwość, czy jego stan zdrowia psychicznego pozwala na udział w postępowaniu lub prowadzenie obrony w sposób samodzielny oraz rozsądny, lub
 - **3)** wobec nieletniego zastosowano środek tymczasowy, o którym mowa w art. 44 pkt 4–8, lub
-- **4)** zachodzi uzasadnione podejrzenie dopuszczenia się przez nieletniego czynu zabronionego wyczerpującego znamiona zbrodni lub czynu karalnego określonego w art. 163 § 1 lub 3, art. 166 § 1, art. 173 § 1 lub 3, art. 197 § 1 lub 1a, art. 223 § 2 lub w art. 280 § 1 Kodeksu karnego, lub
-- **5)** występują inne okoliczności, które sąd rodzinny uzna za utrudniające nieletniemu obronę – sąd rodzinny wyznacza mu obrońcę z urzędu.
+- **4)** zachodzi uzasadnione podejrzenie dopuszczenia się przez nieletniego czynu zabronionego wyczerpującego znamiona zbrodni lub czynu karalnego określonego w art. 163 § 1 lub 3, art. 166 § 1, art. 173 § 1 lub 3, art. 223 § 2 lub w art. 280 § 1 Kodeksu karnego, lub
+- **5)** występują inne okoliczności, które sąd rodzinny uzna za utrudniające nieletniemu obronę sąd rodzinny wyznacza mu obrońcę z urzędu.
 
 3. Nieletni lub jego rodzice albo opiekun mogą złożyć wniosek o wyznaczenie nieletniemu obrońcy z urzędu. Sąd rodzinny uwzględnia wniosek, jeżeli udział obrońcy w sprawie uzna za potrzebny, a:
 
@@ -361,25 +371,35 @@ Art. 360–392. (pominięte)
 
 **Art. 44.** Środkami tymczasowymi są:
 
+- **1)** tymczasowy nadzór organizacji społecznej, w tym organizacji pozarządowej, której celem statutowym jest praca z nieletnimi o charakterze wychowawczym, terapeutycznym lub szkoleniowym, zapobieganie demoralizacji nieletnich lub pomoc w readaptacji społecznej nieletnich, pracodawcy albo osoby godnej zaufania;
+- **2)** tymczasowy nadzór kuratora sądowego;
+- **3)** tymczasowe skierowanie do ośrodka kuratorskiego, a także do organizacji społecznej, w tym organizacji pozarządowej, lub instytucji zajmujących się pracą z nieletnimi o charakterze wychowawczym, terapeutycznym lub szkoleniowym, po uprzednim porozumieniu się z tą organizacją lub instytucją;
+- **4)** tymczasowe umieszczenie w rodzinie zastępczej zawodowej;
+- **5)** tymczasowe umieszczenie w młodzieżowym ośrodku wychowawczym;
+- **6)** tymczasowe umieszczenie w okręgowym ośrodku wychowawczym;
+- **7)** tymczasowe umieszczenie w zakładzie leczniczym;
+- **8)** umieszczenie w schronisku dla nieletnich;
+- **9)** tymczasowe zobowiązanie rodziców albo opiekuna nieletniego w zakresie określonym w art. 18 ust. 1 pkt 1 i 2.
+
 **Art. 45.** Wobec nieletniego można zastosować środki tymczasowe wskazane w art. 44 pkt 4–7, jeżeli stosowanie środków tymczasowych, o których mowa w art. 44 pkt 1–3, byłoby niewystarczające i jednocześnie zostaną ujawnione okoliczności przemawiające za umieszczeniem nieletniego w rodzinie zastępczej zawodowej, w młodzieżowym ośrodku wychowawczym, w okręgowym ośrodku wychowawczym lub w zakładzie leczniczym.
 
 **Art. 46.**
 
 1. Nieletniego można umieścić w schronisku dla nieletnich, jeżeli zostaną ujawnione okoliczności przemawiające za umieszczeniem go w zakładzie poprawczym i jednocześnie zachodzi uzasadniona obawa utrudniania postępowania, w tym w szczególności ucieczki, ukrycia się nieletniego lub zatarcia śladów czynu karalnego, albo nie można ustalić tożsamości nieletniego.
 
-2. Umieszczenie nieletniego w schronisku dla nieletnich może nastąpić wyjątkowo także wtedy, gdy zostaną ujawnione okoliczności przemawiające za umieszczeniem go w zakładzie poprawczym, a nieletniemu zarzucono popełnienie czynu karalnego określonego w art. 134, art. 148 § 1, 2 lub 3, art. 156 § 1 lub 3, art. 163 § 1 lub 3, art. 166, art. 173 § 1 lub 3, art. 189, art. 189a, art. 197 § 1, 1a, 3, 4 lub 5, art. 198, art. 200, art. 202 § 3, 4, 4a, 4b lub 4c, art. 204 § 3, art. 223 § 2, art. 252 § 1 lub 2 lub w art. 280 Kodeksu karnego.
+2. Umieszczenie nieletniego w schronisku dla nieletnich może nastąpić wyjątkowo także wtedy, gdy zostaną ujawnione okoliczności przemawiające za umieszczeniem go w zakładzie poprawczym, a nieletniemu zarzucono popełnienie czynu karalnego określonego w art. 134, art. 148 § 1, 2 lub 3, art. 156 § 1 lub 3, art. 163 § 1 lub 3, art. 166, art. 173 § 1 lub 3, art. 189, art. 189a, art. 197 § 3 lub 4, art. 198, art. 200, art. 202 § 3, 4, 4a, 4b lub 4c, art. 204 § 3, art. 223 § 2, art. 252 § 1 lub 2 lub w art. 280 Kodeksu karnego.
 
 **Art. 47.**
 
-1. W postanowieniu o zastosowaniu środka tymczasowego, o którym mowa w art. 44 pkt 4–8, sąd rodzinny oznacza okres pobytu niedłuższy niż 3 miesiące. Okres ten liczy się od chwili zatrzymania nieletniego. O ile to możliwe, datę zatrzymania wskazuje się w tym postanowieniu.
+1. W postanowieniu o zastosowaniu środka tymczasowego, o którym mowa w art. 44 pkt 4–8, sąd rodzinny oznacza okres pobytu nie dłuższy niż 3 miesiące. Okres ten liczy się od chwili zatrzymania nieletniego. O ile to możliwe, datę zatrzymania wskazuje się w tym postanowieniu.
 
-2. Jeżeli ze względu na szczególne okoliczności sprawy zachodzi konieczność przedłużenia pobytu nieletniego w rodzinie zastępczej zawodowej, ośrodku, zakładzie albo schronisku dla nieletnich, o których mowa w art. 44 pkt 4–8, można ten pobyt przedłużać na okres oznaczony, każdorazowo niedłuższy niż 3 miesiące. Przedłużania dokonuje sąd, przed którym toczy się postępowanie, chyba że niniejsza ustawa stanowi inaczej.
+2. Jeżeli ze względu na szczególne okoliczności sprawy zachodzi konieczność przedłużenia pobytu nieletniego w rodzinie zastępczej zawodowej, ośrodku, zakładzie albo schronisku dla nieletnich, o których mowa w art. 44 pkt 4–8, można ten pobyt przedłużać na okres oznaczony, każdorazowo nie dłuższy niż 3 miesiące. Przedłużania dokonuje sąd, przed którym toczy się postępowanie, chyba że niniejsza ustawa stanowi inaczej.
 
 3. Łączny pobyt nieletniego w rodzinie zastępczej zawodowej, ośrodku, zakładzie albo schronisku dla nieletnich, o których mowa w art. 44 pkt 4–8, do prawomocnego zakończenia postępowania rozpoznawczego nie może być dłuższy niż rok. Do tego okresu nie wlicza się nieusprawiedliwionego pobytu nieletniego poza rodziną zastępczą zawodową, ośrodkiem, zakładem albo schroniskiem dla nieletnich, trwającego dłużej niż 3 dni.
 
-4. W szczególnie uzasadnionych przypadkach sąd okręgowy, w którego okręgu toczy się postępowanie, może przedłużać pobyt, o którym mowa w ust. 3, na okres oznaczony, każdorazowo niedłuższy niż 3 miesiące.
+4. W szczególnie uzasadnionych przypadkach sąd okręgowy, w którego okręgu toczy się postępowanie, może przedłużać pobyt, o którym mowa w ust. 3, na okres oznaczony, każdorazowo nie dłuższy niż 3 miesiące.
 
-5. Jeżeli postępowanie toczy się przed sądem rodzinnym, z wnioskiem o przedłużenie, o którym mowa w ust. 4, należy wystąpić, przesyłając jednocześnie akta sprawy sądowi okręgowemu, niepóźniej niż 14 dni przed upływem dotychczas oznaczonego okresu pobytu.
+5. Jeżeli postępowanie toczy się przed sądem rodzinnym, z wnioskiem o przedłużenie, o którym mowa w ust. 4, należy wystąpić, przesyłając jednocześnie akta sprawy sądowi okręgowemu, nie później niż 14 dni przed upływem dotychczas oznaczonego okresu pobytu.
 
 6. Jeżeli postępowanie toczy się przed sądem drugiej instancji, przedłużenia, o którym mowa w ust. 4, dokonuje ten sąd z urzędu.
 
@@ -423,7 +443,7 @@ Art. 360–392. (pominięte)
 - **3)** w ciągu 24 godzin od chwili zatrzymania nieletniego Policja nie przekazała sądowi rodzinnemu całości zgromadzonych materiałów uzasadniających przypuszczenie, że nieletni dopuścił się czynu karalnego, o którym mowa w art. 1 ust. 2 pkt 2 lit. a;
 - **4)** w ciągu 24 godzin od chwili przekazania sądowi rodzinnemu przez Policję całości zgromadzonych materiałów uzasadniających przypuszczenie, że nieletni dopuścił się czynu karalnego, o którym mowa w art. 1 ust. 2 pkt 2 lit. a, nie ogłoszono mu postanowienia o zastosowaniu środka tymczasowego, o którym mowa w art. 44 pkt 4–8.
 
-10. Nieletni, któremu ogłoszono postanowienie o zastosowaniu środka tymczasowego, o którym mowa w art. 44 pkt 4–8, może przebywać w policyjnej izbie dziecka przez czas niezbędny do przekazania go do właściwej rodziny zastępczej zawodowej, właściwego młodzieżowego ośrodka wychowawczego, okręgowego ośrodka wychowawczego, zakładu leczniczego albo schroniska dla nieletnich, niedłużej jednak niż przez kolejnych 5 dni od daty ogłoszenia postanowienia.
+10. Nieletni, któremu ogłoszono postanowienie o zastosowaniu środka tymczasowego, o którym mowa w art. 44 pkt 4–8, może przebywać w policyjnej izbie dziecka przez czas niezbędny do przekazania go do właściwej rodziny zastępczej zawodowej, właściwego młodzieżowego ośrodka wychowawczego, okręgowego ośrodka wychowawczego, zakładu leczniczego albo schroniska dla nieletnich, nie dłużej jednak niż przez kolejnych 5 dni od daty ogłoszenia postanowienia.
 
 11. Do zatrzymania nieletniego przez Straż Graniczną, w zakresie jej właściwości, przepisy ust. 3–10 stosuje się.
 
@@ -431,10 +451,10 @@ Art. 360–392. (pominięte)
 
 1. W policyjnej izbie dziecka można umieścić nieletniego:
 
-- **1)** na czas uzasadnionej przerwy w konwoju albo w doprowadzeniu, lecz niedłużej niż na 24 godziny;
-- **2)** zatrzymanego w trakcie jego samowolnego pobytu poza młodzieżowym ośrodkiem wychowawczym, okręgowym ośrodkiem wychowawczym, zakładem poprawczym albo schroniskiem dla nieletnich, na czas niezbędny do przekazania nieletniego do właściwego ośrodka, zakładu albo schroniska, niedłużej jednak niż na okres 5 dni.
+- **1)** na czas uzasadnionej przerwy w konwoju albo w doprowadzeniu, lecz nie dłużej niż na 24 godziny;
+- **2)** zatrzymanego w trakcie jego samowolnego pobytu poza młodzieżowym ośrodkiem wychowawczym, okręgowym ośrodkiem wychowawczym, zakładem poprawczym albo schroniskiem dla nieletnich, na czas niezbędny do przekazania nieletniego do właściwego ośrodka, zakładu albo schroniska, nie dłużej jednak niż na okres 5 dni.
 
-2. Nieletniego, który ukończył 18 lat, zatrzymanego w trakcie jego samowolnego pobytu poza zakładem poprawczym można umieścić w jednostce organizacyjnej Policji w pomieszczeniu dla osób zatrzymanych lub doprowadzonych w celu wytrzeźwienia, na czas niezbędny do przekazania nieletniego do właściwego zakładu, niedłużej jednak niż na okres 5 dni.
+2. Nieletniego, który ukończył 18 lat, zatrzymanego w trakcie jego samowolnego pobytu poza zakładem poprawczym można umieścić w jednostce organizacyjnej Policji w pomieszczeniu dla osób zatrzymanych lub doprowadzonych w celu wytrzeźwienia, na czas niezbędny do przekazania nieletniego do właściwego zakładu, nie dłużej jednak niż na okres 5 dni.
 
 3. Dyrektor młodzieżowego ośrodka wychowawczego lub upoważniony przez niego pracownik jest obowiązany do odebrania nieletniego zatrzymanego w trakcie jego samowolnego pobytu poza ośrodkiem z policyjnej izby dziecka w ciągu 72 godzin od chwili zawiadomienia go przez Policję o zatrzymaniu nieletniego.
 
@@ -490,7 +510,7 @@ Art. 360–392. (pominięte)
 
 9. Sąd rodzinny, orzekając w sprawie nieletniego, bierze pod uwagę wyniki mediacji oraz ugodę zawartą przed mediatorem.
 
-10. W zakresie nieuregulowanym w niniejszej ustawie do mediacji przepisy art. 183 –183 Kodeksu postępowania cywilnego stosuje się odpowiednio.
+10. W zakresie nieuregulowanym w niniejszej ustawie do mediacji przepisy art. 1831–18315 Kodeksu postępowania cywilnego stosuje się odpowiednio.
 
 **Art. 58.**
 
@@ -510,7 +530,7 @@ Art. 360–392. (pominięte)
 
 5. Do zbierania, przeprowadzania i utrwalania dowodów przez Policję przepisy Kodeksu postępowania karnego stosuje się odpowiednio, ze zmianami wynikającymi z niniejszej ustawy.
 
-6. Do czynności Straży Granicznej, w zakresie jej właściwości, przepisy ust. 3– 5 stosuje się.
+6. Do czynności Straży Granicznej, w zakresie jej właściwości, przepisy ust. 3–5 stosuje się.
 
 **Art. 60.**
 
@@ -565,7 +585,7 @@ Art. 360–392. (pominięte)
 
 1. W razie potrzeby uzyskania opinii o stanie zdrowia psychicznego nieletniego sąd rodzinny zarządza jego badanie przez co najmniej 2 biegłych lekarzy psychiatrów. Na wniosek biegłych lekarzy psychiatrów do udziału w wydaniu opinii sąd powołuje biegłego lub biegłych innych specjalności.
 
-2. W sprawach o czyn karalny określony w art. 134, art. 148 § 1, 2 lub 3, art. 156 § 1 lub 3, art. 163 § 1 lub 3, art. 166, art. 173 § 1 lub 3, art. 197 § 1, 1a, 3, 4 lub 5, art. 223 § 2, art. 252 § 1 lub 2 lub w art. 280 Kodeksu karnego sąd zarządza badanie nieletniego przez co najmniej 2 biegłych lekarzy psychiatrów. Przepis ust. 1 zdanie drugie stosuje się.
+2. W sprawach o czyn karalny określony w art. 134, art. 148 § 1, 2 lub 3, art. 156 § 1 lub 3, art. 163 § 1 lub 3, art. 166, art. 173 § 1 lub 3, art. 197 § 3 lub 4, art. 223 § 2, art. 252 § 1 lub 2 lub w art. 280 Kodeksu karnego sąd zarządza badanie nieletniego przez co najmniej 2 biegłych lekarzy psychiatrów. Przepis ust. 1 zdanie drugie stosuje się.
 
 3. W przypadku zgłoszenia przez biegłych takiej konieczności, badanie stanu zdrowia psychicznego nieletniego może być połączone z obserwacją w zakładzie leczniczym tylko wtedy, gdy zebrane dowody wskazują na duże prawdopodobieństwo, że nieletni wykazuje wysoki stopień demoralizacji lub dopuścił się czynu karalnego, o którym mowa w art. 1 ust. 2 pkt 2 lit. a.
 
@@ -577,11 +597,11 @@ Art. 360–392. (pominięte)
 
 1. Sąd rodzinny może przekazać sprawę nieletniego, za jego zgodą, szkole, do której nieletni uczęszcza, albo organizacji społecznej, w tym organizacji pozarządowej, do której nieletni należy, jeżeli uzna, że środki oddziaływania wychowawczego, jakimi dana szkoła lub organizacja dysponuje, są wystarczające. Sąd wskazuje, w miarę potrzeby, kierunki oddziaływania wychowawczego.
 
-2. Podmiot, któremu przekazano sprawę nieletniego, informuje sąd rodzinny o podjętych środkach oddziaływania wychowawczego i osiągniętych efektach, nierzadziej niż co 6 miesięcy, niezwłocznie zaś o ich nieskuteczności.
+2. Podmiot, któremu przekazano sprawę nieletniego, informuje sąd rodzinny o podjętych środkach oddziaływania wychowawczego i osiągniętych efektach, nie rzadziej niż co 6 miesięcy, niezwłocznie zaś o ich nieskuteczności.
 
 **Art. 67.**
 
-1. Jeżeli w toku postępowania zostaną ujawnione okoliczności mogące uzasadniać pociągnięcie nieletniego do odpowiedzialności na zasadach określonych w art. 10 § 2 lub 2a Kodeksu karnego, sąd rodzinny orzeka w przedmiocie przekazania sprawy prokuratorowi. Postanowienie może zostać wydane na posiedzeniu niejawnym.
+1. Jeżeli w toku postępowania zostaną ujawnione okoliczności mogące uzasadniać pociągnięcie nieletniego do odpowiedzialności na zasadach określonych w art. 10 § 2 Kodeksu karnego, sąd rodzinny orzeka w przedmiocie przekazania sprawy prokuratorowi. Postanowienie może zostać wydane na posiedzeniu niejawnym.
 
 2. Od chwili przekazania sprawy prokuratorowi postępowanie w sprawach, o których mowa w ust. 1, toczy się według przepisów Kodeksu postępowania karnego, przy czym w tym postępowaniu:
 
@@ -592,7 +612,7 @@ Art. 360–392. (pominięte)
 - **5)** jeżeli sąd uzna, że wobec nieletniego należy zastosować środki wychowawcze, środek leczniczy lub środek poprawczy, orzeka o zastosowaniu tych środków;
 - **6)** przepisy art. 80 i art. 82 stosuje się odpowiednio.
 
-3. W przypadku ujawnienia nowych okoliczności wskazujących, że nie zachodzą podstawy do pociągnięcia nieletniego do odpowiedzialności na zasadach określonych w art. 10 § 2 lub 2a Kodeksu karnego, prokurator przekazuje sprawę sądowi rodzinnemu.
+3. W przypadku ujawnienia nowych okoliczności wskazujących, że nie zachodzą podstawy do pociągnięcia nieletniego do odpowiedzialności na zasadach określonych w art. 10 § 2 Kodeksu karnego, prokurator przekazuje sprawę sądowi rodzinnemu.
 
 4. Na poczet orzeczonej kary zalicza się okresy: zatrzymania nieletniego, pobytu w policyjnej izbie dziecka, stosowania środków tymczasowych, o których mowa w art. 44 pkt 5–8, oraz obserwacji w zakładzie leczniczym.
 
@@ -602,7 +622,7 @@ Art. 360–392. (pominięte)
 
 1. Jeżeli jest to uzasadnione względami wychowawczymi, rozprawa odbywa się jawnie.
 
-2. O terminie rozprawy zawiadamia się strony, obrońcę nieletniego, pokrzywdzonego oraz pełnomocników. Ich niestawiennictwo nie tamuje rozpoznania sprawy, chyba że sąd rodzinny postanowi inaczej. W przypadkach, o których mowa w art. 38 ust. 1 i 2, udział obrońcy w rozprawie jest obowiązkowy. W sprawach o czyn karalny określony w art. 134, art. 148 § 1, 2 lub 3, art. 156 § 1 lub 3, art. 163 § 1 lub 3, art. 166, art. 173 § 1 lub 3, art. 197 § 1, 1a, 3, 4 lub 5, art. 223 § 2, art. 252 § 1 lub 2 lub w art. 280 Kodeksu karnego udział prokuratora w rozprawie jest obowiązkowy.
+2. O terminie rozprawy zawiadamia się strony, obrońcę nieletniego, pokrzywdzonego oraz pełnomocników. Ich niestawiennictwo nie tamuje rozpoznania sprawy, chyba że sąd rodzinny postanowi inaczej. W przypadkach, o których mowa w art. 38 ust. 1 i 2, udział obrońcy w rozprawie jest obowiązkowy. W sprawach o czyn karalny określony w art. 134, art. 148 § 1, 2 lub 3, art. 156 § 1 lub 3, art. 163 § 1 lub 3, art. 166, art. 173 § 1 lub 3, art. 197 § 3 lub 4, art. 223 § 2, art. 252 § 1 lub 2 lub w art. 280 Kodeksu karnego udział prokuratora w rozprawie jest obowiązkowy.
 
 3. Sąd rodzinny zarządza doprowadzenie na rozprawę nieletniego przebywającego w młodzieżowym ośrodku wychowawczym, okręgowym ośrodku wychowawczym, zakładzie leczniczym, zakładzie poprawczym albo schronisku dla nieletnich na jego wniosek albo gdy jego obecność na rozprawie uzna za konieczną. Sąd poucza nieletniego o prawie złożenia wniosku.
 
@@ -681,7 +701,7 @@ Art. 360–392. (pominięte)
 
 1. W każdej sprawie sąd rodzinny jest obowiązany z urzędu w toku postępowania wykonawczego, co najmniej raz w roku oceniać, czy z uwagi na sytuację materialną osób zobowiązanych do uiszczania kosztów postępowania zachodzi potrzeba zmiany wysokości tych kosztów.
 
-2. W celu dokonania oceny, o której mowa w ust. 1, sąd rodzinny wzywa osoby zobowiązane do uiszczania kosztów postępowania do złożenia oświadczenia, o którym mowa w art. 102 ust. 2 ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2025 r. poz. 1228), pod rygorem uznania, że sytuacja materialna osób zobowiązanych pozwala na pokrycie kosztów postępowania w pełnej wysokości.
+2. W celu dokonania oceny, o której mowa w ust. 1, sąd rodzinny wzywa osoby zobowiązane do uiszczania kosztów postępowania do złożenia oświadczenia, o którym mowa w art. 102 ust. 2 ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2022 r. poz. 1125), pod rygorem uznania, że sytuacja materialna osób zobowiązanych pozwala na pokrycie kosztów postępowania w pełnej wysokości.
 
 **Art. 77.** Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw wewnętrznych oraz ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wysokość zryczałtowanych należności w postępowaniu w sprawach nieletnich, mając na uwadze przeciętne koszty poszczególnych czynności i wykonywania orzeczonych środków.
 
@@ -772,11 +792,41 @@ Art. 360–392. (pominięte)
 
 2. Zażalenie rozpoznaje sąd rodzinny.
 
-### DZIAŁ IV Postępowanie wykonawcze
+### Dział IV Postępowanie wykonawcze
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 87.** Ilekroć w niniejszym dziale oraz dziale V i VI jest mowa o:
+
+- **1)** cenzurze korespondencji – rozumie się przez to zapoznanie się z treścią pisma oraz usunięcie części jego tekstu lub uczynienie go nieczytelnym;
+- **2)** kierowniku zakładu leczniczego – rozumie się przez to kierownika, o którym mowa w art. 2 ust. 2 pkt 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2022 r. poz. 633, 655, 974 i 1079);
+- **3)** kontroli osobistej – rozumie się przez to oględziny ciała oraz oględziny i sprawdzenie odzieży, bielizny i obuwia, a także kontrolę przedmiotów posiadanych przez nieletniego; oględziny ciała oraz oględziny i sprawdzenie odzieży, bielizny i obuwia przeprowadzane są w niemonitorowanym pomieszczeniu, podczas nieobecności osób postronnych oraz osób odmiennej płci i dokonywane są przez osobę tej samej płci; podczas kontroli osobistej, poza przeprowadzającym kontrolę, może być obecna osoba wskazana przez dyrektora młodzieżowego ośrodka wychowawczego, okręgowego ośrodka wychowawczego, zakładu poprawczego lub schroniska dla nieletnich albo kierownika zakładu leczniczego dysponującego warunkami wzmocnionego lub maksymalnego zabezpieczenia, jeżeli jest to uzasadnione względami bezpieczeństwa przeprowadzanej kontroli osobistej; podczas kontroli osobistej może być obecna także osoba wskazana przez nieletniego, chyba że jej obecność utrudniałaby lub uniemożliwiałaby przeprowadzenie tej kontroli; podczas kontroli osobistej nieletni powinien być częściowo ubrany; przeprowadzający kontrolę najpierw dokonuje oględzin i sprawdzenia część odzieży i bielizny, a przed oględzinami i sprawdzeniem kolejnej części odzieży i bielizny nieletni może się ubrać; podczas kontroli osobistej nieletni nie może być całkowicie pozbawiony odzieży lub bielizny;
+- **4)** kontroli paczki – rozumie się przez to oględziny i sprawdzenie opakowania paczki oraz kontrolę przedmiotów w niej zawartych, również z możliwością użycia urządzeń technicznych;
+- **5)** kontroli pobieżnej – rozumie się przez to powierzchowne oględziny i powierzchowne sprawdzenie odzieży i obuwia, a także przedmiotów posiadanych przez osobę kontrolowaną, również z możliwością użycia urządzeń technicznych; powierzchowne oględziny i powierzchowne sprawdzenie odzieży i obuwia dokonywane są przez osobę tej samej płci;
+- **6)** kontroli pojazdu – rozumie się przez to oględziny i sprawdzenie pojazdu oraz jego ładunku, również z możliwością użycia urządzeń technicznych, w obecności osoby wjeżdżającej lub wyjeżdżającej z terenu okręgowego ośrodka wychowawczego, zakładu poprawczego lub schroniska dla nieletnich;
+- **7)** kontroli pomieszczeń – rozumie się przez to oględziny pomieszczeń znajdujących się na terenie młodzieżowego ośrodka wychowawczego, okręgowego ośrodka wychowawczego, zakładu leczniczego dysponującego warunkami wzmocnionego lub maksymalnego zabezpieczenia, zakładu poprawczego lub schroniska dla nieletnich oraz kontrolę znajdujących się w nich przedmiotów, w tym elementów wyposażenia; kontrolę pomieszczeń przeprowadza się podczas nieobecności nieletnich; o przeprowadzonej kontroli pomieszczeń mieszkalnych zawiadamia się nieletnich w nich przebywających;
+- **8)** kontroli przedmiotów – rozumie się przez to zewnętrzne lub wewnętrzne oględziny przedmiotów i ich sprawdzenie, również z możliwością użycia urządzeń technicznych;
+- **9)** nadzorze korespondencji – rozumie się przez to otwarcie listu i sprawdzenie jego zawartości, bez zapoznawania się z treścią pisma;
+- **10)** nadzorze odwiedzin – rozumie się przez to zapewnienie porządku w czasie trwania odwiedzin, bez zapoznawania się z treścią rozmów;
+- **11)** organie prowadzącym postępowanie – rozumie się przez to sąd rodzinny, przed którym toczy się postępowanie rozpoznawcze, sąd drugiej instancji rozpoznający apelację od orzeczenia, o którym mowa w art. 72, albo organ, do dyspozycji którego pozostaje nieletni na podstawie przepisów Kodeksu postępowania karnego;
+- **12)** wydarzeniu nadzwyczajnym – rozumie się przez to zdarzenie, które spowodowało zagrożenie lub naruszenie bezpieczeństwa młodzieżowego ośrodka wychowawczego, okręgowego ośrodka wychowawczego, zakładu leczniczego dysponującego warunkami wzmocnionego lub maksymalnego zabezpieczenia, zakładu poprawczego lub schroniska dla nieletnich, zdrowia lub życia nieletniego, pracownika tego ośrodka, zakładu lub schroniska lub innej osoby przebywającej na jego terenie, w szczególności: bunt nieletnich, ucieczkę nieletniego z terenu ośrodka, zakładu lub schroniska, ucieczkę nieletniego spoza ośrodka, zakładu lub schroniska, pobicie nieletniego, pobicie pracownika ośrodka, zakładu lub schroniska lub innej osoby przez nieletniego, bójkę z udziałem nieletniego, pożar, katastrofę lub klęskę żywiołową, zamach terrorystyczny lub napaść na ośrodek, zakład lub schronisko, autoagresję nieletniego powodującą konieczność hospitalizacji lub udzielenia specjalistycznej pomocy medycznej, samobójstwo nieletniego albo usiłowanie jego dokonania, śmierć nieletniego, śmierć pracownika lub innej osoby na terenie ośrodka, zakładu lub schroniska, użycie przez nieletniego substancji psychoaktywnej, zgwałcenie nieletniego lub inny czyn noszący znamiona przestępstwa przeciwko wolności seksualnej i obyczajności z udziałem nieletniego, znęcanie się nad nieletnim;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
+    - **k)**
+    - **l)**
+    - **m)**
+    - **n)**
+    - **o)**
+
+- **13)** zatrzymaniu korespondencji – rozumie się przez to nieprzekazanie korespondencji adresatowi i dołączenie jej do akt sprawy, akt osobowych nieletniego albo złożenie do depozytu.
 
 **Art. 88.**
 
@@ -800,7 +850,7 @@ Art. 360–392. (pominięte)
 
 1. Sąd rodzinny wykonuje środki zastosowane na podstawie niniejszej ustawy oraz na podstawie art. 10 § 4 Kodeksu karnego lub art. 5 § 2 Kodeksu karnego skarbowego.
 
-2. Sąd rodzinny wykonuje środki wychowawcze, o których mowa w art. 7 pkt 7 i 8, stosując odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2025 r. poz. 911 i 1423).
+2. Sąd rodzinny wykonuje środki wychowawcze, o których mowa w art. 7 pkt 7 i 8, stosując odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2021 r. poz. 53, 472, 1236 i 2054 oraz z 2022 r. poz. 22 i 655).
 
 **Art. 91.**
 
@@ -822,7 +872,7 @@ Art. 360–392. (pominięte)
 
 3. Wykonywanie środków wychowawczych, o których mowa w art. 7 pkt 5 i 7, oraz środka poprawczego ustaje z mocy prawa z chwilą ukończenia przez nieletniego 21 lat.
 
-4. Wykonywanie środków wychowawczych, o których mowa w art. 7 pkt 2 i 5, po ukończeniu przez nieletniego 21 lat ustaje z mocy prawa z chwilą ukończenia przez nieletniego wieku, do którego sąd rodzinny orzekł o wykonywaniu tych środków, niedłużej jednak niż do ukończenia przez nieletniego 24 lat.
+4. Wykonywanie środków wychowawczych, o których mowa w art. 7 pkt 2 i 5, po ukończeniu przez nieletniego 21 lat ustaje z mocy prawa z chwilą ukończenia przez nieletniego wieku, do którego sąd rodzinny orzekł o wykonywaniu tych środków, nie dłużej jednak niż do ukończenia przez nieletniego 24 lat.
 
 5. Wykonywanie środków wychowawczych, o których mowa w art. 7 pkt 2 i 5, po ukończeniu przez nieletniego 24 lat ustaje z mocy prawa z chwilą ukończenia przez nieletniego 25 lat.
 
@@ -903,7 +953,7 @@ Art. 360–392. (pominięte)
 - **2)** wykonywaniu środka poprawczego albo zastosowaniu środka wychowawczego, o którym mowa w art. 7 pkt 2 lub 5, wobec nieletniego, o którym mowa w art. 15 ust. 6 pkt 1, po ukończeniu przez nieletniego 21 lat,
 - **3)** zastosowaniu wobec nieletniego zwalnianego z zakładu poprawczego po ukończeniu 21 lat środka wychowawczego, o którym mowa w art. 7 pkt 2 lub 5,
 - **4)** zastosowaniu wobec nieletniego zwalnianego z zakładu poprawczego po ukończeniu 24 lat środka wychowawczego, o którym mowa w art. 7 pkt 2 lub 5,
-- **5)** zmianie środka, o którym mowa w art. 18 ust. 1 – stają się skuteczne lub wykonalne po uprawomocnieniu się.
+- **5)** zmianie środka, o którym mowa w art. 18 ust. 1 stają się skuteczne lub wykonalne po uprawomocnieniu się.
 
 **Art. 105.**
 
@@ -968,7 +1018,35 @@ Art. 360–392. (pominięte)
 
 **Art. 108.** Nieletni umieszczony w młodzieżowym ośrodku wychowawczym, okręgowym ośrodku wychowawczym, zakładzie poprawczym lub schronisku dla nieletnich jest obowiązany do:
 
+- **1)** przestrzegania statutu lub regulaminu i rozkładu zajęć w ośrodku, zakładzie lub schronisku;
+- **2)** przestrzegania zasad bezpieczeństwa;
+- **3)** uczestniczenia w procesie resocjalizacji;
+- **4)** wykonywania poleceń pracowników ośrodka, zakładu lub schroniska;
+- **5)** odnoszenia się do pracowników ośrodka, zakładu lub schroniska, nieletnich oraz innych osób z poszanowaniem ich godności;
+- **6)** dbania o higienę osobistą i stan zdrowia;
+- **7)** dbania o schludny wygląd i kulturę słowa;
+- **8)** utrzymywania czystości i porządku w pomieszczeniach, w których przebywa;
+- **9)** dbania o rzeczy własne i innych osób, jak również o użytkowany sprzęt;
+- **10)** przekazywania do depozytu dokumentów stwierdzających tożsamość, środków pieniężnych, przedmiotów wartościowych oraz przedmiotów, których nie może posiadać w ośrodku, zakładzie lub schronisku na zasadach określonych w niniejszej ustawie;
+- **11)** uzyskania zgody dyrektora ośrodka, zakładu lub schroniska na czasowe opuszczenie ośrodka, zakładu lub schroniska;
+- **12)** przestrzegania terminu powrotu z pobytu poza ośrodkiem, zakładem lub schroniskiem;
+- **13)** poddania się badaniom na obecność w organizmie substancji psychoaktywnej w przypadkach określonych w niniejszej ustawie;
+- **14)** poddania się kontroli pobieżnej lub kontroli osobistej w przypadkach określonych w niniejszej ustawie;
+- **15)** powiadamiania pracowników ośrodka, zakładu lub schroniska o zagrożeniach dla bezpieczeństwa osób, środowiska, zdrowia, życia lub mienia;
+- **16)** wykonywania prac porządkowych na rzecz ośrodka, zakładu lub schroniska na zasadach określonych w niniejszej ustawie;
+- **17)** przestrzegania obowiązków i zakazów określonych w odrębnych przepisach.
+
 **Art. 109.** Nieletniemu umieszczonemu w młodzieżowym ośrodku wychowawczym, okręgowym ośrodku wychowawczym, zakładzie poprawczym lub schronisku dla nieletnich nie wolno:
+
+- **1)** stosować przemocy;
+- **2)** dokonywać ucieczek oraz udzielać innym pomocy przy ich dokonywaniu;
+- **3)** namawiać innych do nieprzestrzegania statutu lub regulaminu oraz do zachowań agresywnych;
+- **4)** uczestniczyć w grupach organizowanych bez zgody lub wiedzy dyrektora ośrodka, zakładu lub schroniska;
+- **5)** wykonywać tatuaży i innych uszkodzeń ciała;
+- **6)** posługiwać się wyrazami lub zwrotami wulgarnymi, obraźliwymi albo gwarą używaną w podkulturach o charakterze przestępczym;
+- **7)** wnosić na teren oraz używać na terenie ośrodka, zakładu lub schroniska substancji psychoaktywnych;
+- **8)** wnosić na teren i posiadać na terenie ośrodka, zakładu lub schroniska przedmiotów, które mogą stanowić zagrożenie bezpieczeństwa i porządku wewnętrznego;
+- **9)** posiadać bez zgody dyrektora ośrodka, zakładu lub schroniska przedmiotów służących do łączności, rejestrowania lub odtwarzania informacji.
 
 **Art. 110.** Prawa i obowiązki nieletniego umieszczonego w zakładzie leczniczym określają odrębne przepisy, z zastrzeżeniem przepisów niniejszej ustawy.
 
@@ -976,7 +1054,7 @@ Art. 360–392. (pominięte)
 
 **Art. 112.**
 
-1. Nieletniemu umieszczonemu w młodzieżowym ośrodku wychowawczym, okręgowym ośrodku wychowawczym, zakładzie leczniczym, zakładzie poprawczym lub schronisku dla nieletnich nie przysługuje prawo wyboru świadczeniodawcy udzielającego świadczeń z zakresu podstawowej opieki zdrowotnej, określone w ustawie z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2025 r. poz. 515), oraz świadczeniodawcy udzielającego ambulatoryjnych świadczeń opieki zdrowotnej, lekarza dentysty oraz szpitala, określone w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461, 1537 i 1739 oraz z 2026 r. poz. 26).
+1. Nieletniemu umieszczonemu w młodzieżowym ośrodku wychowawczym, okręgowym ośrodku wychowawczym, zakładzie leczniczym, zakładzie poprawczym lub schronisku dla nieletnich nie przysługuje prawo wyboru świadczeniodawcy udzielającego świadczeń z zakresu podstawowej opieki zdrowotnej, określone w ustawie z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2021 r. poz. 1050 oraz z 2022 r. poz. 655), oraz świadczeniodawcy udzielającego ambulatoryjnych świadczeń opieki zdrowotnej, lekarza dentysty oraz szpitala, określone w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.).
 
 2. Do dzieci nieletnich matek umieszczonych w domu dla matki i dziecka, o którym mowa w art. 135 ust. 1 i 2, przepis ust. 1 stosuje się odpowiednio.
 
@@ -994,7 +1072,7 @@ Art. 360–392. (pominięte)
 
 4. Miejsce, sposób i czas uczestniczenia nieletnich w wykonywaniu praktyk religijnych i korzystania z posług religijnych dyrektor okręgowego ośrodka wychowawczego, zakładu poprawczego lub schroniska dla nieletnich ustala w porozumieniu z duchownym kościoła lub innego związku wyznaniowego, do którego nieletni należy.
 
-5. Organizację nauki religii w szkołach w ośrodku, zakładzie lub schronisku określają przepisy ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2025 r. poz. 881 i 1019).
+5. Organizację nauki religii w szkołach w ośrodku, zakładzie lub schronisku określają przepisy ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2021 r. poz. 1915 oraz z 2022 r. poz. 583 i 1116).
 
 **Art. 115.**
 
@@ -1088,7 +1166,7 @@ Art. 360–392. (pominięte)
 
 4. Weryfikacji wyników badania, o której mowa w ust. 3, może żądać nieletni. Niezwłocznie po przeprowadzeniu badania, o którym mowa w ust. 1, nieletniego poucza się o prawie, terminie i sposobie żądania weryfikacji.
 
-5. Żądanie weryfikacji wyników badania, o której mowa w ust. 3, należy zgłosić bezpośrednio po przeprowadzaniu badania potwierdzającego obecność substancji psychoaktywnej w organizmie nieletniego, niepóźniej niż 12 godzin po zakończeniu badania.
+5. Żądanie weryfikacji wyników badania, o której mowa w ust. 3, należy zgłosić bezpośrednio po przeprowadzaniu badania potwierdzającego obecność substancji psychoaktywnej w organizmie nieletniego, nie później niż 12 godzin po zakończeniu badania.
 
 6. Badanie laboratoryjne, o którym mowa w ust. 3, jest przeprowadzane w medycznym laboratorium diagnostycznym lub przez inne podmioty uprawnione do przeprowadzania takich badań.
 
@@ -1120,15 +1198,15 @@ Art. 360–392. (pominięte)
 
 8. Zapis z monitoringu w młodzieżowym ośrodku wychowawczym jest przechowywany na informatycznym nośniku danych:
 
-- **1)** przez okres co najmniej 60 dni od dokonania zapisu, niedłużej niż przez 90 dni od dokonania zapisu – w przypadku monitoringu izb adaptacyjnych;
-- **2)** przez okres co najmniej 30 dni od dokonania zapisu, niedłużej niż przez 60 dni od dokonania zapisu – w przypadku monitoringu innych pomieszczeń i miejsc.
+- **1)** przez okres co najmniej 60 dni od dokonania zapisu, nie dłużej niż przez 90 dni od dokonania zapisu – w przypadku monitoringu izb adaptacyjnych;
+- **2)** przez okres co najmniej 30 dni od dokonania zapisu, nie dłużej niż przez 60 dni od dokonania zapisu – w przypadku monitoringu innych pomieszczeń i miejsc.
 
 9. Zapis z monitoringu w okręgowym ośrodku wychowawczym, zakładzie poprawczym lub schronisku dla nieletnich jest przechowywany na informatycznym nośniku danych:
 
-- **1)** przez okres co najmniej 90 dni od dokonania zapisu, niedłużej niż przez 120 dni od dokonania zapisu – w przypadku monitoringu izb adaptacyjnych, izb izolacyjnych i izb chorych;
-- **2)** przez okres co najmniej 60 dni od dokonania zapisu, niedłużej niż przez 90 dni od dokonania zapisu – w przypadku monitoringu innych pomieszczeń i miejsc.
+- **1)** przez okres co najmniej 90 dni od dokonania zapisu, nie dłużej niż przez 120 dni od dokonania zapisu – w przypadku monitoringu izb adaptacyjnych, izb izolacyjnych i izb chorych;
+- **2)** przez okres co najmniej 60 dni od dokonania zapisu, nie dłużej niż przez 90 dni od dokonania zapisu – w przypadku monitoringu innych pomieszczeń i miejsc.
 
-10. Zapis z monitoringu w zakładzie leczniczym dysponującym warunkami wzmocnionego lub maksymalnego zabezpieczenia jest przechowywany na informatycznym nośniku danych przez okres co najmniej 60 dni od dokonania zapisu, niedłużej niż przez 90 dni od dokonania zapisu.
+10. Zapis z monitoringu w zakładzie leczniczym dysponującym warunkami wzmocnionego lub maksymalnego zabezpieczenia jest przechowywany na informatycznym nośniku danych przez okres co najmniej 60 dni od dokonania zapisu, nie dłużej niż przez 90 dni od dokonania zapisu.
 
 11. W przypadku zarejestrowania wydarzenia nadzwyczajnego lub użycia wobec nieletniego umieszczonego w młodzieżowym ośrodku wychowawczym środka przymusu bezpośredniego zapis, o którym mowa w ust. 8, jest utrwalany i przechowywany na zewnętrznym informatycznym nośniku danych w aktach osobowych nieletniego do ukończenia przez niego 20 lat.
 
@@ -1142,13 +1220,13 @@ Art. 360–392. (pominięte)
 
 16. W przypadku zarejestrowania obrazu lub dźwięku wskazującego na podejrzenie popełnienia czynu zabronionego zapis z monitoringu utrwalony na zewnętrznym informatycznym nośniku danych dołącza się do zawiadomienia kierowanego do sądu rodzinnego albo Policji lub prokuratora o podejrzeniu popełnienia czynu zabronionego.
 
-17. Do zapisu z monitoringu w zakładzie leczniczym dysponującym warunkami wzmocnionego lub maksymalnego zabezpieczenia w zakresie nieuregulowanym w niniejszej ustawie przepisy ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2024 r. poz. 917) stosuje się.
+17. Do zapisu z monitoringu w zakładzie leczniczym dysponującym warunkami wzmocnionego lub maksymalnego zabezpieczenia w zakresie nieuregulowanym w niniejszej ustawie przepisy ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2020 r. poz. 685 oraz z 2022 r. poz. 974) stosuje się.
 
 18. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw oświaty i wychowania oraz ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, sposób utrwalania, przechowywania i niszczenia zapisów z monitoringu w młodzieżowych ośrodkach wychowawczych, okręgowych ośrodkach wychowawczych, zakładach leczniczych dysponujących warunkami wzmocnionego lub maksymalnego zabezpieczenia, zakładach poprawczych i schroniskach dla nieletnich oraz sposób udostępniania tych zapisów uprawnionym podmiotom, mając na uwadze konieczność właściwego zabezpieczenia utrwalonego obrazu lub dźwięku przed uszkodzeniem, zniszczeniem, utratą oraz nieuprawnionym ujawnieniem.
 
 **Art. 122.**
 
-1. W przypadku bezskuteczności środków oddziaływania psychologiczno-pedagogicznego, w przypadkach, o których mowa w art. 11 pkt 1–3, 6, 8, 10 i 12–14 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2025 r. poz. 555 i 820), wobec nieletniego umieszczonego w młodzieżowym ośrodku wychowawczym, okręgowym ośrodku wychowawczym, zakładzie poprawczym lub schronisku dla nieletnich można użyć środka przymusu bezpośredniego w postaci siły fizycznej.
+1. W przypadku bezskuteczności środków oddziaływania psychologiczno-pedagogicznego, w przypadkach, o których mowa w art. 11 pkt 1–3, 6, 8, 10 i 12–14 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2022 r. poz. 1416), wobec nieletniego umieszczonego w młodzieżowym ośrodku wychowawczym, okręgowym ośrodku wychowawczym, zakładzie poprawczym lub schronisku dla nieletnich można użyć środka przymusu bezpośredniego w postaci siły fizycznej.
 
 2. Wobec nieletniego umieszczonego w okręgowym ośrodku wychowawczym, gdy użycie siły fizycznej jest niewystarczające:
 
@@ -1165,7 +1243,7 @@ Art. 360–392. (pominięte)
 
 - **1)** w celu udzielenia świadczenia zdrowotnego,
 - **2)** w celu odwiedzenia poważnie chorego członka rodziny lub uczestnictwa w pogrzebie członka rodziny,
-- **3)** w innych przypadkach szczególnie ważnych dla nieletniego, w szczególności realizowania przez niego spraw urzędowych – można prewencyjnie użyć środka przymusu bezpośredniego, o którym mowa w art. 12 ust. 1 pkt 2 lit. a ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, w przypadku gdy istnieje uzasadnione prawdopodobieństwo podjęcia próby ucieczki lub wystąpienia objawów agresji lub autoagresji.
+- **3)** w innych przypadkach szczególnie ważnych dla nieletniego, w szczególności realizowania przez niego spraw urzędowych można prewencyjnie użyć środka przymusu bezpośredniego, o którym mowa w art. 12 ust. 1 pkt 2 lit. a ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, w przypadku gdy istnieje uzasadnione prawdopodobieństwo podjęcia próby ucieczki lub wystąpienia objawów agresji lub autoagresji.
 
 5. Użycie i dokumentowanie użycia środków przymusu bezpośredniego wobec nieletniego umieszczonego w młodzieżowym ośrodku wychowawczym, okręgowym ośrodku wychowawczym, zakładzie poprawczym lub schronisku dla nieletnich odbywa się na zasadach określonych w ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
 
@@ -1187,24 +1265,24 @@ Art. 360–392. (pominięte)
 
 1. W izbie adaptacyjnej umieszcza się nieletniego:
 
-- **1)** po przyjęciu do zakładu poprawczego lub schroniska dla nieletnich w celu:
-    - **a)** przeprowadzenia rozmowy wstępnej, a w przypadku przyjęcia do schroniska dla nieletnich również sporządzenia podstawowej informacji o nieletnim,
-    - **b)** poddania go wstępnym badaniom lekarskim i zabiegom higieniczno-sanitarnym,
-    - **c)** poddania go badaniom osobopoznawczym;
+- **1)** po przyjęciu do zakładu poprawczego lub schroniska dla nieletnich w celu: przeprowadzenia rozmowy wstępnej, a w przypadku przyjęcia do schroniska dla nieletnich również sporządzenia podstawowej informacji o nieletnim, poddania go wstępnym badaniom lekarskim i zabiegom higieniczno-sanitarnym, poddania go badaniom osobopoznawczym;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **2)** przeniesionego z innego zakładu poprawczego lub schroniska dla nieletnich w celu:
-    - **a)** przeprowadzenia rozmowy wstępnej, a w przypadku przeniesienia do schroniska dla nieletnich również sporządzenia podstawowej informacji o nieletnim,
-    - **b)** poddania go wstępnym badaniom lekarskim i zabiegom higieniczno-sanitarnym,
-    - **c)** poddania go badaniom osobopoznawczym.
+- **2)** przeniesionego z innego zakładu poprawczego lub schroniska dla nieletnich w celu: przeprowadzenia rozmowy wstępnej, a w przypadku przeniesienia do schroniska dla nieletnich również sporządzenia podstawowej informacji o nieletnim, poddania go wstępnym badaniom lekarskim i zabiegom higieniczno-sanitarnym, poddania go badaniom osobopoznawczym.
+    - **a)**
+    - **b)**
+    - **c)**
 
 2. W izbie adaptacyjnej można umieścić nieletniego po ucieczce z zakładu poprawczego lub schroniska dla nieletnich lub nieusprawiedliwionym niepowrocie z pobytu poza zakładem lub schroniskiem, o którym mowa w art. 252 ust. 1 i art. 299 ust. 1, w celu:
 
 - **1)** poddania go badaniom lekarskim i zabiegom higieniczno-sanitarnym;
 - **2)** poddania go obserwacji psychologicznej lub pedagogicznej.
 
-3. Nieletniego umieszczonego w izbie adaptacyjnej poddaje się wstępnym badaniom lekarskim niezwłocznie, niepóźniej niż w terminie 48 godzin od chwili umieszczenia nieletniego w izbie adaptacyjnej.
+3. Nieletniego umieszczonego w izbie adaptacyjnej poddaje się wstępnym badaniom lekarskim niezwłocznie, nie później niż w terminie 48 godzin od chwili umieszczenia nieletniego w izbie adaptacyjnej.
 
-4. Umieszczenie nieletniego w izbie adaptacyjnej może nastąpić na okres niedłuższy niż 14 dni. W każdym czasie dyrektor zakładu poprawczego lub schroniska dla nieletnich może podjąć decyzję o opuszczeniu przez nieletniego izby adaptacyjnej.
+4. Umieszczenie nieletniego w izbie adaptacyjnej może nastąpić na okres nie dłuższy niż 14 dni. W każdym czasie dyrektor zakładu poprawczego lub schroniska dla nieletnich może podjąć decyzję o opuszczeniu przez nieletniego izby adaptacyjnej.
 
 **Art. 126.**
 
@@ -1213,13 +1291,13 @@ Art. 360–392. (pominięte)
 - **1)** w przypadku gdy wcześniejsze oddziaływania psychologiczno-pedagogiczne i środki dyscyplinarne okazały się nieskuteczne;
 - **2)** w przypadku zgłoszenia przez niego potrzeby odosobnienia.
 
-2. Umieszczenie nieletniego w izbie adaptacyjnej może nastąpić na okres niedłuższy niż 5 dni. W każdym czasie dyrektor zakładu poprawczego lub schroniska dla nieletnich może podjąć decyzję o opuszczeniu przez nieletniego izby adaptacyjnej.
+2. Umieszczenie nieletniego w izbie adaptacyjnej może nastąpić na okres nie dłuższy niż 5 dni. W każdym czasie dyrektor zakładu poprawczego lub schroniska dla nieletnich może podjąć decyzję o opuszczeniu przez nieletniego izby adaptacyjnej.
 
 **Art. 127.**
 
 1. W przypadku, o którym mowa w art. 125 ust. 2 i w art. 126 ust. 1, decyzję o umieszczeniu nieletniego w izbie adaptacyjnej i o jej opuszczeniu podejmuje dyrektor zakładu lub schroniska.
 
-2. O umieszczeniu nieletniego w izbie adaptacyjnej dyrektor zakładu lub schroniska niezwłocznie, niepóźniej niż w ciągu 24 godzin od chwili umieszczenia, zawiadamia sąd rodzinny, w okręgu którego znajduje się zakład lub schronisko, oraz rodziców nieletniego albo tego z rodziców, pod którego stałą pieczą nieletni faktycznie pozostaje, albo opiekuna nieletniego, podając powody tej decyzji. Sąd może uchylić decyzję dyrektora zakładu lub schroniska. Postanowienie może zostać wydane na posiedzeniu niejawnym.
+2. O umieszczeniu nieletniego w izbie adaptacyjnej dyrektor zakładu lub schroniska niezwłocznie, nie później niż w ciągu 24 godzin od chwili umieszczenia, zawiadamia sąd rodzinny, w okręgu którego znajduje się zakład lub schronisko, oraz rodziców nieletniego albo tego z rodziców, pod którego stałą pieczą nieletni faktycznie pozostaje, albo opiekuna nieletniego, podając powody tej decyzji. Sąd może uchylić decyzję dyrektora zakładu lub schroniska. Postanowienie może zostać wydane na posiedzeniu niejawnym.
 
 3. Na umieszczenie w izbie adaptacyjnej nieletniemu przysługuje zażalenie do sądu rodzinnego, w okręgu którego znajduje się zakład lub schronisko. W zażaleniu nieletni może domagać się zbadania zasadności, legalności oraz prawidłowości umieszczenia w izbie adaptacyjnej. Niezwłocznie po umieszczeniu w izbie adaptacyjnej nieletniego poucza się o prawie, terminie i sposobie złożenia zażalenia.
 
@@ -1235,7 +1313,7 @@ Art. 360–392. (pominięte)
 
 1. Izby adaptacyjne mogą być organizowane w młodzieżowych ośrodkach wychowawczych i okręgowych ośrodkach wychowawczych.
 
-2. Do izb adaptacyjnych w młodzieżowych ośrodkach wychowawczych przepisy art. 124 ust. 2–4 oraz art. 125 ust. 1 pkt 1 lit. a i c, pkt 2 lit. a i c i ust. 2 pkt 2 oraz art. 126–129 stosuje się. Umieszczenie nieletniego w izbie adaptacyjnej na podstawie art. 125 ust. 1 albo 2 może nastąpić na okres niedłuższy niż 5 dni. W każdym czasie dyrektor młodzieżowego ośrodka wychowawczego może podjąć decyzję o opuszczeniu przez nieletniego izby adaptacyjnej.
+2. Do izb adaptacyjnych w młodzieżowych ośrodkach wychowawczych przepisy art. 124 ust. 2–4 oraz art. 125 ust. 1 pkt 1 lit. a i c, pkt 2 lit. a i c i ust. 2 pkt 2 oraz art. 126–129 stosuje się. Umieszczenie nieletniego w izbie adaptacyjnej na podstawie art. 125 ust. 1 albo 2 może nastąpić na okres nie dłuższy niż 5 dni. W każdym czasie dyrektor młodzieżowego ośrodka wychowawczego może podjąć decyzję o opuszczeniu przez nieletniego izby adaptacyjnej.
 
 3. Do izb adaptacyjnych w okręgowych ośrodkach wychowawczych przepisy art. 124 ust. 2–4 oraz art. 125–129 stosuje się.
 
@@ -1302,7 +1380,7 @@ Art. 360–392. (pominięte)
 
 1. Jeżeli rodzice albo opiekun nieletniego nie mogą zapewnić nieletniemu zwalnianemu z młodzieżowego ośrodka wychowawczego, okręgowego ośrodka wychowawczego, zakładu leczniczego, zakładu poprawczego, schroniska dla nieletnich albo opuszczającemu rodzinę zastępczą zawodową niezbędnych warunków wychowawczych lub bytowych, udziela się nieletniemu pomocy.
 
-2. Zasady i zakres udzielania pomocy, o której mowa w ust. 1, określają przepisy ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2025 r. poz. 1214 i 1302 oraz z 2026 r. poz. 26) i ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2025 r. poz. 49 i 1301).
+2. Zasady i zakres udzielania pomocy, o której mowa w ust. 1, określają przepisy ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2021 r. poz. 2268 i 2270 oraz z 2022 r. poz. 1, 66, 1079 i 1692) i ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2022 r. poz. 447).
 
 3. Pomocy nieletnim mogą udzielać również organizacje społeczne, w tym organizacje pozarządowe, których celem jest pomoc w readaptacji społecznej nieletnich, oraz osoby godne zaufania.
 
@@ -1402,11 +1480,11 @@ Art. 360–392. (pominięte)
 
 4. Zawodowy kurator sądowy wzywa nieletniego do stawienia się w określonym miejscu i terminie, w celu wykonania prac społecznych.
 
-5. Dzienny wymiar prac społecznych nieletniego nie może przekraczać 2 godzin. Prace nie mogą być wykonywane w dni wolne od pracy, o których mowa w ustawie z dnia 18 stycznia 1951 r. o dniach wolnych od pracy (Dz. U. z 2025 r. poz. 296).
+5. Dzienny wymiar prac społecznych nieletniego nie może przekraczać 2 godzin. Prace nie mogą być wykonywane w dni wolne od pracy, o których mowa w ustawie z dnia 18 stycznia 1951 r. o dniach wolnych od pracy (Dz. U. z 2020 r. poz. 1920).
 
 6. Podmiot, na rzecz którego nieletni wykonuje prace społeczne, niezwłocznie informuje zawodowego kuratora sądowego o istotnych okolicznościach dotyczących wykonywania przez nieletniego tych prac i jego zachowaniu, a w szczególności o terminie rozpoczęcia i zakończenia wykonywania prac, liczbie godzin przepracowanych przez nieletniego, rodzaju wykonywanych przez niego prac, niezgłoszeniu się do ich wykonywania lub ich niepodjęciu, przeszkodzie uniemożliwiającej wykonanie prac, opuszczeniu miejsca ich wykonywania bez usprawiedliwienia, każdym przypadku niesumiennego wykonywania prac społecznych oraz nieprzestrzegania ustalonego porządku i dyscypliny w miejscu wykonywania tych prac.
 
-7. Zmiana rodzaju, miejsca lub terminu rozpoczęcia wykonywania prac społecznych może nastąpić w szczególnie uzasadnionym przypadku. Przepisy ust. 2– 6 stosuje się.
+7. Zmiana rodzaju, miejsca lub terminu rozpoczęcia wykonywania prac społecznych może nastąpić w szczególnie uzasadnionym przypadku. Przepisy ust. 2–6 stosuje się.
 
 **Art. 151.**
 
@@ -1428,7 +1506,7 @@ Art. 360–392. (pominięte)
 
 3. Podmiotem uprawnionym do zawierania umów ubezpieczenia następstw nieszczęśliwych wypadków jest dyrektor sądu okręgowego, w okręgu którego są wykonywane przez nieletnich prace społeczne.
 
-4. Dyrektor sądu okręgowego zawiera umowę ubezpieczenia następstw nieszczęśliwych wypadków na zasadach określonych w przepisach ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).
+4. Dyrektor sądu okręgowego zawiera umowę ubezpieczenia następstw nieszczęśliwych wypadków na zasadach określonych w przepisach ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2021 r. poz. 1129, z późn. zm.).
 
 5. Minister Sprawiedliwości określi, w drodze rozporządzenia, tryb postępowania przy zawieraniu przez podmioty uprawnione umowy ubezpieczenia następstw nieszczęśliwych wypadków nieletnich wykonujących prace społeczne, a także minimalną i maksymalną sumę ubezpieczenia, na którą umowa taka może zostać zawarta, oraz termin zawierania umów, mając na uwadze konieczność zagwarantowania nieletnim, wykonującym prace społeczne, odpowiedniej rekompensaty w przypadku zaistnienia przy wykonywaniu tej pracy nieszczęśliwego wypadku oraz sprawne wykonywanie czynności związanych z zawieraniem umowy ubezpieczenia.
 
@@ -1486,11 +1564,11 @@ Art. 360–392. (pominięte)
 
 **Art. 157.**
 
-1. Kurator sądowy, któremu powierzono sprawowanie nadzoru nad nieletnim lub który został zobowiązany do kontrolowania wykonywania środka wychowawczego, o którym mowa w art. 7 pkt 2, powinien niezwłocznie, niepóźniej niż w terminie 7 dni, nawiązać kontakt z nieletnim, jego rodzicami lub opiekunem i poinformować ich o prawach i obowiązkach wynikających z zastosowanych środków wychowawczych.
+1. Kurator sądowy, któremu powierzono sprawowanie nadzoru nad nieletnim lub który został zobowiązany do kontrolowania wykonywania środka wychowawczego, o którym mowa w art. 7 pkt 2, powinien niezwłocznie, nie później niż w terminie 7 dni, nawiązać kontakt z nieletnim, jego rodzicami lub opiekunem i poinformować ich o prawach i obowiązkach wynikających z zastosowanych środków wychowawczych.
 
 2. Kurator sądowy jest obowiązany do składania sądowi rodzinnemu okresowych sprawozdań z przebiegu nadzoru oraz sprawozdań z kontrolowania wykonywania środka wychowawczego, o którym mowa w art. 7 pkt 2.
 
-3. Kurator sądowy, któremu powierzono sprawowanie nadzoru nad nieletnim lub który został zobowiązany do kontrolowania wykonywania środka wychowawczego, o którym mowa w art. 7 pkt 2, ma obowiązek niezwłocznego zawiadomienia sądu rodzinnego o zdarzeniach, które mogą wymagać ingerencji tego sądu, w szczególności na podstawie ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2023 r. poz. 2809 oraz z 2025 r. poz. 897), oraz o podejrzeniu dopuszczenia się przez nieletniego czynu zabronionego lub o innym rażącym naruszeniu przez niego porządku prawnego.
+3. Kurator sądowy, któremu powierzono sprawowanie nadzoru nad nieletnim lub który został zobowiązany do kontrolowania wykonywania środka wychowawczego, o którym mowa w art. 7 pkt 2, ma obowiązek niezwłocznego zawiadomienia sądu rodzinnego o zdarzeniach, które mogą wymagać ingerencji tego sądu, w szczególności na podstawie ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2020 r. poz. 1359), oraz o podejrzeniu dopuszczenia się przez nieletniego czynu zabronionego lub o innym rażącym naruszeniu przez niego porządku prawnego.
 
 **Art. 158.** Nieletni, wobec którego zastosowano nadzór kuratora sądowego lub nadzór organizacji społecznej, w tym organizacji pozarządowej, pracodawcy albo osoby godnej zaufania, jest obowiązany przestrzegać obowiązków związanych z nadzorem.
 
@@ -1510,7 +1588,7 @@ Art. 360–392. (pominięte)
 
 1. Sędzia rodzinny przyznaje, na wniosek przedstawiciela organizacji społecznej, w tym organizacji pozarządowej, pracodawcy lub osoby godnej zaufania, którym powierzono sprawowanie nadzoru nad nieletnim, miesięczny ryczałt z tytułu zwrotu kosztów ponoszonych w związku ze sprawowanym nadzorem, płatny do 20. dnia każdego miesiąca.
 
-2. Ryczałt za sprawowanie jednego nadzoru wynosi od 2 % do 4 % kwoty bazowej dla zawodowych kuratorów sądowych, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa.
+2. Ryczałt za sprawowanie jednego nadzoru wynosi od 2% do 4% kwoty bazowej dla zawodowych kuratorów sądowych, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa.
 
 **Art. 161.** Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowy sposób i warunki sprawowania nadzoru nad nieletnimi przez kuratorów sądowych, szczegółowy sposób i warunki kontrolowania przez kuratorów sądowych wykonywania środka wychowawczego, o którym mowa w art. 7 pkt 2, i środka, o którym mowa w art. 18 ust. 1, szczegółowy sposób i warunki organizowania i kontrolowania przez kuratorów sądowych wykonywania przez nieletnich zobowiązań do wykonania prac społecznych, szczegółowy sposób i warunki sprawowania nadzoru nad nieletnimi przez organizacje społeczne, w tym organizacje pozarządowe, pracodawców i osoby godne zaufania oraz tryb wyznaczania przedstawicieli przez sprawujące nadzór nad nieletnimi organizacje społeczne, w tym organizacje pozarządowe i pracodawców, mając na uwadze konieczność zapewnienia doboru właściwych metod oddziaływania wychowawczego wobec nieletnich, prawidłowe wypełnianie obowiązków przez nieletnich, ich rodziców albo opiekunów oraz sprawnego wykonywania orzeczeń.
 
@@ -1518,7 +1596,7 @@ Art. 360–392. (pominięte)
 
 **Art. 162.** Ośrodek kuratorski prowadzi działalność wychowawczą, resocjalizacyjną, terapeutyczną, profilaktyczną i kontrolną, zmierzając do zmiany postaw nieletnich w kierunku społecznie pożądanym, zapewniającym prawidłowy rozwój ich osobowości.
 
-**Art. 163.** Ośrodek kuratorski, nierzadziej niż co 6 miesięcy lub na żądanie sądu rodzinnego, sporządza sprawozdania o każdym nieletnim z wykonywania wobec niego środka wychowawczego w postaci skierowania do ośrodka kuratorskiego.
+**Art. 163.** Ośrodek kuratorski, nie rzadziej niż co 6 miesięcy lub na żądanie sądu rodzinnego, sporządza sprawozdania o każdym nieletnim z wykonywania wobec niego środka wychowawczego w postaci skierowania do ośrodka kuratorskiego.
 
 **Art. 164.**
 
@@ -1549,7 +1627,32 @@ Art. 360–392. (pominięte)
 
 **Art. 168.** Do obowiązków kierownika ośrodka kuratorskiego należy:
 
+- **1)** organizowanie i koordynowanie pracy ośrodka;
+- **2)** sporządzanie i przedstawianie prezesowi sądu rejonowego do zatwierdzenia: rocznych planów pracy ośrodka, sprawozdań z rocznej działalności ośrodka, propozycji planowanych rocznych kosztów w zakresie działalności ośrodka;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **3)** prowadzenie bieżących rozliczeń środków wydatkowanych na działalność ośrodka;
+- **4)** opiniowanie kandydatów do realizacji zadań w ośrodku;
+- **5)** prowadzenie dokumentacji ośrodka;
+- **6)** zapewnienie nieletnim bezpiecznych warunków pobytu w ośrodku;
+- **7)** opracowywanie harmonogramu prowadzenia zajęć w ośrodku;
+- **8)** prowadzenie zajęć z nieletnimi;
+- **9)** współpraca z organizacjami społecznymi, w tym organizacjami pozarządowymi, pracodawcami albo osobami godnymi zaufania sprawującymi nadzór nad nieletnim;
+- **10)** współpraca z kuratorem sądowym sprawującym nadzór nad nieletnim;
+- **11)** współpraca ze szkołą, do której nieletni uczęszcza;
+- **12)** składanie sądowi rodzinnemu sprawozdań, o których mowa w art. 163;
+- **13)** niezwłoczne zawiadamianie sądu rodzinnego o nieskuteczności środka wychowawczego w postaci skierowania do ośrodka kuratorskiego;
+- **14)** wykonywanie innych czynności wynikających z działalności ośrodka.
+
 **Art. 169.** Kierownik ośrodka kuratorskiego może:
+
+- **1)** przyznać nieletniemu nagrodę ze środków finansowych przeznaczonych na działalność ośrodka;
+- **2)** zwolnić nieletniego z obowiązku obecności w ośrodku w określonych dniach albo godzinach;
+- **3)** utrzymywać kontakt z nieletnim i jego rodzicami lub opiekunem w jego miejscu zamieszkania lub pobytu;
+- **4)** współpracować z instytucjami państwowymi i samorządowymi oraz organizacjami społecznymi, w tym organizacjami pozarządowymi, w celu realizacji zadań w zakresie oddziaływań na nieletnich;
+- **5)** składać wnioski o zmianę lub uchylenie środka wychowawczego w postaci skierowania do ośrodka kuratorskiego.
 
 **Art. 170.**
 
@@ -1564,6 +1667,11 @@ Art. 360–392. (pominięte)
 3. Osoby niebędące zawodowymi kuratorami sądowymi realizują zadania w ośrodku kuratorskim na podstawie umowy zawartej z dyrektorem sądu rejonowego.
 
 **Art. 171.** Do obowiązków zawodowego kuratora sądowego, o którym mowa w art. 170 ust. 1, należy:
+
+- **1)** prowadzenie zajęć z nieletnimi;
+- **2)** dokumentowanie przebiegu pracy z nieletnimi;
+- **3)** sporządzanie na polecenie kierownika ośrodka kuratorskiego sprawozdań, o których mowa w art. 163;
+- **4)** wykonywanie na polecenie kierownika ośrodka kuratorskiego innych czynności wynikających z działalności ośrodka.
 
 **Art. 172.**
 
@@ -1592,7 +1700,7 @@ Art. 360–392. (pominięte)
 
 ##### Oddział 7 Skierowanie do organizacji lub instytucji
 
-**Art. 174.** Organizacja społeczna, w tym organizacja pozarządowa lub instytucja, do której skierowano nieletniego, nierzadziej niż co 6 miesięcy lub na żądanie sądu rodzinnego, sporządza sprawozdania o nieletnim z wykonywania wobec niego środka wychowawczego, o którym mowa w art. 7 pkt 6.
+**Art. 174.** Organizacja społeczna, w tym organizacja pozarządowa lub instytucja, do której skierowano nieletniego, nie rzadziej niż co 6 miesięcy lub na żądanie sądu rodzinnego, sporządza sprawozdania o nieletnim z wykonywania wobec niego środka wychowawczego, o którym mowa w art. 7 pkt 6.
 
 **Art. 175.**
 
@@ -1612,9 +1720,9 @@ Art. 360–392. (pominięte)
 
 **Art. 177.**
 
-1. Środek wychowawczy, o którym mowa w art. 7 pkt 10, wykonuje się w młodzieżowym ośrodku wychowawczym. Rodzaje młodzieżowych ośrodków wychowawczych określają przepisy wydane na podstawie ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2025 r. poz. 1043, 1160 i 1837).
+1. Środek wychowawczy, o którym mowa w art. 7 pkt 10, wykonuje się w młodzieżowym ośrodku wychowawczym. Rodzaje młodzieżowych ośrodków wychowawczych określają przepisy wydane na podstawie ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2021 r. poz. 1082 oraz z 2022 r. poz. 655, 1079, 1116 i 1383).
 
-2. W celu zapewnienia sprawności postępowania w zakresie kierowania nieletnich do młodzieżowych ośrodków wychowawczych oraz przenoszenia i zwalniania nieletnich z tych ośrodków w zakresie wymiany informacji przy wykorzystaniu systemu teleinformatycznego, o którym mowa w art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703), ośrodki oraz organy prowadzące ośrodki współpracują z komisją do spraw kierowania nieletnich do młodzieżowego ośrodka wychowawczego.
+2. W celu zapewnienia sprawności postępowania w zakresie kierowania nieletnich do młodzieżowych ośrodków wychowawczych oraz przenoszenia i zwalniania nieletnich z tych ośrodków w zakresie wymiany informacji przy wykorzystaniu systemu teleinformatycznego, o którym mowa w art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070 oraz z 2022 r. poz. 1087), ośrodki oraz organy prowadzące ośrodki współpracują z komisją do spraw kierowania nieletnich do młodzieżowego ośrodka wychowawczego.
 
 **Art. 178.**
 
@@ -1663,7 +1771,7 @@ Art. 360–392. (pominięte)
 
 4. Przepisy ust. 1 pkt 2, 3 i 5–7 oraz ust. 2 stosuje się do nieletniego po ucieczce z młodzieżowego ośrodka wychowawczego lub nieusprawiedliwionym niepowrocie z pobytu poza ośrodkiem, o którym mowa w art. 180 ust. 1.
 
-5. Do kontroli pobieżnej i kontroli osobistej nieletniego przepisy art. 119 ust. 2– 5 i 7–11 oraz przepisy wydane na podstawie art. 119 ust. 12 stosuje się. Do badania na obecność w organizmie nieletniego substancji psychoaktywnej przepisy art. 120 ust. 2–10 oraz przepisy wydane na podstawie art. 120 ust. 11 stosuje się.
+5. Do kontroli pobieżnej i kontroli osobistej nieletniego przepisy art. 119 ust. 2–5 i 7–11 oraz przepisy wydane na podstawie art. 119 ust. 12 stosuje się. Do badania na obecność w organizmie nieletniego substancji psychoaktywnej przepisy art. 120 ust. 2–10 oraz przepisy wydane na podstawie art. 120 ust. 11 stosuje się.
 
 **Art. 180.**
 
@@ -1698,7 +1806,14 @@ Art. 360–392. (pominięte)
 
 **Art. 183.** Pracownicy młodzieżowego ośrodka wychowawczego w sposób określony w zakresie obowiązków, w szczególności:
 
-**Art. 184.** W szczególnie uzasadnionym przypadku, na pisemny wniosek nieletniego, który ukończył 18 lat, zwalnianego z młodzieżowego ośrodka wychowawczego, dyrektor ośrodka może wyrazić zgodę na jego pozostanie w ośrodku na czas określony, niedłuższy niż do ukończenia szkoły, do której uczęszcza.
+- **1)** prowadzą obserwację zachowania nieletnich w ośrodku;
+- **2)** nadzorują oraz kontrolują zachowanie nieletnich;
+- **3)** przeprowadzają i przewożą nieletnich;
+- **4)** przeciwdziałają wydarzeniom nadzwyczajnym;
+- **5)** sprawdzają dokumenty oraz tożsamość osób uprawnionych do wejścia na teren ośrodka i do wyjścia z terenu ośrodka;
+- **6)** informują dyrektora ośrodka o sytuacjach zagrożenia bezpieczeństwa i wykonują jego polecenia.
+
+**Art. 184.** W szczególnie uzasadnionym przypadku, na pisemny wniosek nieletniego, który ukończył 18 lat, zwalnianego z młodzieżowego ośrodka wychowawczego, dyrektor ośrodka może wyrazić zgodę na jego pozostanie w ośrodku na czas określony, nie dłuższy niż do ukończenia szkoły, do której uczęszcza.
 
 **Art. 185.** Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółowy tryb kierowania, przenoszenia i zwalniania nieletnich z młodzieżowych ośrodków wychowawczych, tryb powoływania i odwoływania członków komisji do spraw kierowania nieletnich do młodzieżowego ośrodka wychowawczego, jej skład, sposób działania i sposób obsługi administracyjno-biurowej, mając na uwadze konieczność zapewnienia prawidłowego i sprawnego wykonywania orzeczeń oraz konieczność zapewnienia prawidłowej realizacji zadań komisji.
 
@@ -1716,6 +1831,10 @@ Art. 360–392. (pominięte)
 3. Komórka organizacyjna Ministerstwa Sprawiedliwości wykonująca zadania z zakresu nadzoru pedagogicznego Ministra Sprawiedliwości nad okręgowymi ośrodkami wychowawczymi kieruje nieletniego do odpowiedniego okręgowego ośrodka wychowawczego na podstawie orzeczenia o zastosowaniu środka wychowawczego, o którym mowa w art. 7 pkt 11, oraz kompleksowej diagnozy osobowości nieletniego z uwzględnieniem możliwości psychofizycznych oraz indywidualnych potrzeb rozwojowych i edukacyjnych nieletniego, a w przypadku nieletniego posiadającego orzeczenie o potrzebie kształcenia specjalnego – także z uwzględnieniem zaleceń zawartych w tym orzeczeniu.
 
 **Art. 187.** W okręgowych ośrodkach wychowawczych wobec nieletnich realizuje się system wychowawczy:
+
+- **1)** resocjalizacyjny;
+- **2)** resocjalizacyjno-rewalidacyjny;
+- **3)** resocjalizacyjno-terapeutyczny.
 
 **Art. 188.**
 
@@ -1755,7 +1874,7 @@ Art. 360–392. (pominięte)
 
 1. Nieletni umieszczony w okręgowym ośrodku wychowawczym otrzymuje na własne wydatki kieszonkowe, wypłacane ze środków finansowych przeznaczonych na utrzymanie ośrodka.
 
-2. Wysokość kieszonkowego dla nieletniego wynosi miesięcznie 1,1 % kwoty bazowej dla zawodowych kuratorów sądowych, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa.
+2. Wysokość kieszonkowego dla nieletniego wynosi miesięcznie 1,1% kwoty bazowej dla zawodowych kuratorów sądowych, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa.
 
 3. Nieletniemu, którego okres pobytu w ośrodku nie przekracza miesiąca, kieszonkowe przysługuje w wysokości proporcjonalnej do okresu jego pobytu w ośrodku w danym miesiącu.
 
@@ -1767,7 +1886,7 @@ Art. 360–392. (pominięte)
 
 **Art. 192.** Na żądanie sądu rodzinnego okręgowy ośrodek wychowawczy sporządza opinię psychologiczno-pedagogiczną o nieletnim umieszczonym w ośrodku, obejmującą ocenę procesu resocjalizacji nieletniego i wnioski określające kierunki dalszych oddziaływań wychowawczych, resocjalizacyjnych lub terapeutycznych.
 
-**Art. 193.** W szczególnie uzasadnionym przypadku, na pisemny wniosek nieletniego zwalnianego z okręgowego ośrodka wychowawczego, dyrektor ośrodka może wyrazić zgodę na jego pozostanie w ośrodku na czas określony, niedłuższy niż rok.
+**Art. 193.** W szczególnie uzasadnionym przypadku, na pisemny wniosek nieletniego zwalnianego z okręgowego ośrodka wychowawczego, dyrektor ośrodka może wyrazić zgodę na jego pozostanie w ośrodku na czas określony, nie dłuższy niż rok.
 
 **Art. 194.** Jeżeli nieletni zwalniany z okręgowego ośrodka wychowawczego nie posiada własnych pieniędzy i nie może uzyskać potrzebnej pomocy od rodziców lub opiekuna lub z innych źródeł, dyrektor ośrodka udziela mu pomocy finansowej lub materialnej w kwocie do wysokości kwoty bazowej dla zawodowych kuratorów sądowych, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa.
 
@@ -1803,7 +1922,7 @@ Art. 360–392. (pominięte)
 - **6)** zgoda na wykonanie przedmiotu lub usługi w warsztatach szkolnych na potrzeby nieletniego;
 - **7)** zgoda na skorzystanie z internetu;
 - **8)** zgoda na udział w zajęciach kulturalnych, oświatowych lub sportowych organizowanych przez podmioty zewnętrzne poza okręgowym ośrodkiem wychowawczym;
-- **9)** podwyższenie kieszonkowego na okres do 3 miesięcy do wysokości 4,5 % kwoty bazowej dla zawodowych kuratorów sądowych, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa;
+- **9)** podwyższenie kieszonkowego na okres do 3 miesięcy do wysokości 4,5% kwoty bazowej dla zawodowych kuratorów sądowych, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa;
 - **10)** skrócenie lub darowanie zastosowanego środka dyscyplinarnego;
 - **11)** udzielenie przepustki na okres do 7 dni;
 - **12)** udzielenie urlopu w wymiarze do 65 dni w danym roku kalendarzowym.
@@ -1850,7 +1969,7 @@ Art. 360–392. (pominięte)
 - **6)** cofnięcie zgody na skorzystanie z internetu na okres do 1 miesiąca;
 - **7)** cofnięcie zgody albo nieudzielanie zgody na udział w zajęciach kulturalnych, oświatowych lub sportowych organizowanych przez podmioty zewnętrzne poza okręgowym ośrodkiem wychowawczym na okres do 1 miesiąca.
 
-2. W przypadku ucieczki z okręgowego ośrodka wychowawczego lub nieusprawiedliwionego niepowrotu z pobytu poza ośrodkiem, o którym mowa w art. 189 ust. 1, środkiem dyscyplinarnym jest również nieudzielanie nagrody, o której mowa w art. 197 ust. 1 pkt 11 lub 12, przez okres niedłuższy niż 3 miesiące.
+2. W przypadku ucieczki z okręgowego ośrodka wychowawczego lub nieusprawiedliwionego niepowrotu z pobytu poza ośrodkiem, o którym mowa w art. 189 ust. 1, środkiem dyscyplinarnym jest również nieudzielanie nagrody, o której mowa w art. 197 ust. 1 pkt 11 lub 12, przez okres nie dłuższy niż 3 miesiące.
 
 **Art. 203.**
 
@@ -1882,7 +2001,7 @@ Art. 360–392. (pominięte)
 
 **Art. 207.** Nieletni umieszczony w okręgowym ośrodku wychowawczym może zostać zatrudniony poza ośrodkiem, za zgodą dyrektora ośrodka, na zasadach określonych w przepisach prawa pracy. Dyrektor ośrodka zawiadamia sąd rodzinny o zatrudnieniu nieletniego poza okręgowym ośrodkiem wychowawczym.
 
-**Art. 208.** Do czasu pracy nieletniego stosuje się przepis art. 202 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25), zwanej dalej „Kodeksem pracy”.
+**Art. 208.** Do czasu pracy nieletniego stosuje się przepis art. 202 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2022 r. poz. 1510), zwanej dalej „Kodeksem pracy”.
 
 **Art. 209.**
 
@@ -1902,11 +2021,21 @@ Art. 360–392. (pominięte)
 
 **Art. 212.** Środek leczniczy wykonuje się w zakładzie leczniczym dysponującym warunkami:
 
+- **1)** podstawowego zabezpieczenia;
+- **2)** wzmocnionego zabezpieczenia;
+- **3)** maksymalnego zabezpieczenia.
+
 **Art. 213.** Zakład leczniczy dysponujący warunkami podstawowego zabezpieczenia jest przeznaczony dla nieletnich, wobec których nie stwierdza się potrzeby zastosowania zabezpieczeń, o których mowa w art. 214 i art. 215.
 
 **Art. 214.** Zakład leczniczy dysponujący warunkami wzmocnionego zabezpieczenia jest przeznaczony dla nieletnich:
 
+- **1)** których zachowania zagrażające życiu lub zdrowiu własnemu lub innych osób lub powodujące niszczenie mienia nie będą mogły być opanowane w zakładzie leczniczym dysponującym warunkami podstawowego zabezpieczenia;
+- **2)** jeżeli nie jest możliwe zapobieżenie ich samowolnemu oddaleniu się z zakładu leczniczego dysponującego warunkami podstawowego zabezpieczenia, a mogą oni stwarzać znaczne zagrożenie poza tym zakładem.
+
 **Art. 215.** Zakład leczniczy dysponujący warunkami maksymalnego zabezpieczenia jest przeznaczony dla nieletnich:
+
+- **1)** których powtarzające się zachowania zagrażające życiu lub zdrowiu własnemu lub innych osób lub powodujące niszczenie mienia nie będą mogły być opanowane w zakładzie leczniczym dysponującym warunkami wzmocnionego zabezpieczenia;
+- **2)** jeżeli nie jest możliwe zapobieżenie ich samowolnemu oddaleniu się z zakładu leczniczego dysponującego warunkami wzmocnionego zabezpieczenia, a mogą oni stwarzać znaczne zagrożenie poza tym zakładem.
 
 **Art. 216.**
 
@@ -1951,13 +2080,13 @@ Art. 360–392. (pominięte)
 
 **Art. 220.**
 
-1. Kierownik zakładu leczniczego, nierzadziej niż co 6 miesięcy, przesyła do sądu rodzinnego opinię o stanie zdrowia nieletniego umieszczonego w zakładzie leczniczym i o postępach w leczeniu.
+1. Kierownik zakładu leczniczego, nie rzadziej niż co 6 miesięcy, przesyła do sądu rodzinnego opinię o stanie zdrowia nieletniego umieszczonego w zakładzie leczniczym i o postępach w leczeniu.
 
 2. Kierownik zakładu leczniczego niezwłocznie przesyła do sądu rodzinnego opinię, o której mowa w ust. 1, jeżeli uzna, że w związku ze zmianą stanu zdrowia nieletniego jego dalsze pozostawanie w zakładzie leczniczym nie jest konieczne.
 
 3. Sąd rodzinny może w każdym czasie żądać opinii, o której mowa w ust. 1.
 
-4. Sąd rodzinny, nierzadziej niż co 6 miesięcy, a w przypadku, o którym mowa w ust. 2 – niezwłocznie, orzeka w przedmiocie dalszego pobytu nieletniego w zakładzie leczniczym.
+4. Sąd rodzinny, nie rzadziej niż co 6 miesięcy, a w przypadku, o którym mowa w ust. 2 – niezwłocznie, orzeka w przedmiocie dalszego pobytu nieletniego w zakładzie leczniczym.
 
 5. Na wniosek nieletniego sąd rodzinny zarządza doprowadzenie nieletniego na posiedzenie w sprawie, o której mowa w ust. 4, chyba że z uwagi na stan zdrowia nieletniego jego udział w posiedzeniu byłby niewskazany, albo sąd uzna za wystarczającą obecność obrońcy i złożenie przez nieletniego oświadczenia na piśmie. Nieletniego poucza się o prawie złożenia wniosku o doprowadzenie na posiedzenie oraz złożenia oświadczenia na piśmie.
 
@@ -1975,7 +2104,7 @@ Art. 360–392. (pominięte)
 
 2. Do przeniesienia nieletniego umieszczonego w zakładzie leczniczym do innego zakładu leczniczego przepisy art. 212–219 stosuje się.
 
-**Art. 222.** O przyjęciu nieletniego do zakładu leczniczego, jak również o każdej zmianie tego zakładu oraz o terminie zwolnienia i zwolnieniu nieletniego z zakładu, kierownik zakładu leczniczego niezwłocznie zawiadamia także komisję do spraw środka leczniczego dla nieletnich.
+**Art. 222.** Oprzyjęciu nieletniego do zakładu leczniczego, jak również o każdej zmianie tego zakładu oraz o terminie zwolnienia i zwolnieniu nieletniego z zakładu, kierownik zakładu leczniczego niezwłocznie zawiadamia także komisję do spraw środka leczniczego dla nieletnich.
 
 **Art. 223.**
 
@@ -1997,6 +2126,12 @@ Art. 360–392. (pominięte)
 
 **Art. 225.** Nieletni umieszczony w zakładzie leczniczym ma obowiązek:
 
+- **1)** aktywnego uczestniczenia w postępowaniu, o którym mowa w art. 224;
+- **2)** powrotu do zakładu leczniczego po udzieleniu zezwolenia na czasowy pobyt poza tym zakładem lub po udzieleniu przepustki okolicznościowej;
+- **3)** przekazywania do depozytu dokumentów stwierdzających tożsamość, środków pieniężnych, przedmiotów wartościowych oraz przedmiotów, których nie może posiadać w zakładzie leczniczym na zasadach określonych w niniejszej ustawie;
+- **4)** poddania się badaniom na obecność w organizmie substancji psychoaktywnej w przypadkach określonych w niniejszej ustawie;
+- **5)** poddania się kontroli pobieżnej lub kontroli osobistej w przypadkach określonych w niniejszej ustawie.
+
 **Art. 226.**
 
 1. Nieletni umieszczony w zakładzie leczniczym korzysta z własnej odzieży, bielizny i obuwia.
@@ -2015,7 +2150,7 @@ Art. 360–392. (pominięte)
 
 5. Jeżeli nieletni nie powróci do zakładu z upływem okresu, na który udzielono zezwolenia, sędzia rodzinny niezwłocznie zobowiązuje osobę, o której mowa w ust. 1, rodziców albo tego z rodziców, pod którego stałą pieczą nieletni faktycznie pozostaje, albo opiekuna nieletniego do doprowadzenia nieletniego w wyznaczonym terminie do zakładu. Po bezskutecznym upływie wyznaczonego terminu sąd rodzinny niezwłocznie zarządza zatrzymanie nieletniego przez Policję oraz doprowadzenie go do zakładu. Nieletniego doprowadza Policja w asyście lekarza, pielęgniarki albo ratownika medycznego. Asysta lekarza, pielęgniarki albo ratownika medycznego przysługuje bezpłatnie w związku z realizacją świadczenia gwarantowanego w określonym zakładzie leczniczym.
 
-6. Nieletniemu, który nie powrócił do zakładu z upływem okresu, na który udzielono zezwolenia, można udzielić ponownego zezwolenia na czasowy pobyt poza zakładem, jednak niewcześniej niż po upływie 3 miesięcy od dnia jego powrotu do zakładu.
+6. Nieletniemu, który nie powrócił do zakładu z upływem okresu, na który udzielono zezwolenia, można udzielić ponownego zezwolenia na czasowy pobyt poza zakładem, jednak nie wcześniej niż po upływie 3 miesięcy od dnia jego powrotu do zakładu.
 
 **Art. 228.** W przypadku losowym kierownik zakładu leczniczego może udzielić nieletniemu umieszczonemu w zakładzie leczniczym przepustki okolicznościowej na okres do 3 dni pod opieką członka rodziny lub osoby godnej zaufania. Przepisy art. 227 ust. 3–5 stosuje się.
 
@@ -2029,9 +2164,7 @@ Art. 360–392. (pominięte)
 
 **Art. 231.**
 
-1. Do wykonywania środka leczniczego oraz do nieletniego umieszczonego w zakładzie leczniczym w celu realizacji tego środka, w zakresie nieuregulowanym niniejszą ustawą, stosuje się przepisy ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego, ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz.
-
-- **2151)** , ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581 oraz z 2026 r. poz. 26).
+1. Do wykonywania środka leczniczego oraz do nieletniego umieszczonego w zakładzie leczniczym w celu realizacji tego środka, w zakresie nieuregulowanym niniejszą ustawą, stosuje się przepisy ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego, ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2021 r. poz. 1119 i 2469 oraz z 2022 r. poz. 24 i 218), ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2020 r. poz. 849 oraz z 2022 r. poz. 64 i 974).
 
 2. Nieletniemu zapewnia się warunki do realizacji obowiązku szkolnego i obowiązku nauki na zasadach określonych w art. 128 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe.
 
@@ -2057,7 +2190,7 @@ Art. 360–392. (pominięte)
 
 4. Jeżeli w okresie próby nieletni dopuścił się czynu karalnego lub jego zachowanie wskazuje na dalszą demoralizację, lub uchyla się od wykonywania środka wychowawczego, sąd rodzinny może odwołać warunkowe odstąpienie od wykonania orzeczenia i zarządzić umieszczenie nieletniego w zakładzie poprawczym.
 
-5. W przypadku dopuszczenia się przez nieletniego czynu karalnego określonego w art. 134, art. 148 § 1, 2 lub 3, art. 156 § 1 lub 3, art. 163 § 1 lub 3, art. 166, art. 173 § 1 lub 3, art. 197 § 1, 1a, 3, 4 lub 5, art. 223 § 2, art. 252 § 1 lub 2 lub w art. 280 Kodeksu karnego i braku podstaw do rozpoznania sprawy przez sąd właściwy według przepisów Kodeksu postępowania karnego sąd rodzinny odwołuje warunkowe odstąpienie od wykonania orzeczenia i zarządza umieszczenie nieletniego w zakładzie poprawczym.
+5. W przypadku dopuszczenia się przez nieletniego czynu karalnego określonego w art. 134, art. 148 § 1, 2 lub 3, art. 156 § 1 lub 3, art. 163 § 1 lub 3, art. 166, art. 173 § 1 lub 3, art. 197 § 3 lub 4, art. 223 § 2, art. 252 § 1 lub 2 lub w art. 280 Kodeksu karnego i braku podstaw do rozpoznania sprawy przez sąd właściwy według przepisów Kodeksu postępowania karnego sąd rodzinny odwołuje warunkowe odstąpienie od wykonania orzeczenia i zarządza umieszczenie nieletniego w zakładzie poprawczym.
 
 6. Jeżeli w okresie próby i w ciągu dalszych 3 miesięcy nie nastąpiło odwołanie warunkowego odstąpienia od wykonania orzeczenia, orzeczenie o umieszczeniu w zakładzie poprawczym z mocy prawa uważa się za niebyłe.
 
@@ -2077,7 +2210,7 @@ Art. 360–392. (pominięte)
 
 4. Jeżeli w okresie próby nieletni dopuścił się czynu karalnego lub jego zachowanie wskazuje na dalszą demoralizację, lub uchyla się od wykonywania środka wychowawczego, sąd rodzinny może odwołać warunkowe zwolnienie i zarządzić umieszczenie nieletniego w zakładzie poprawczym.
 
-5. W przypadku dopuszczenia się przez nieletniego czynu karalnego określonego w art. 134, art. 148 § 1, 2 lub 3, art. 156 § 1 lub 3, art. 163 § 1 lub 3, art. 166, art. 173 § 1 lub 3, art. 197 § 1, 1a, 3, 4 lub 5, art. 223 § 2, art. 252 § 1 lub 2 lub w art. 280 Kodeksu karnego i braku podstaw do rozpoznania sprawy przez sąd właściwy według przepisów Kodeksu postępowania karnego sąd rodzinny odwołuje warunkowe zwolnienie i zarządza umieszczenie nieletniego w zakładzie poprawczym.
+5. W przypadku dopuszczenia się przez nieletniego czynu karalnego określonego w art. 134, art. 148 § 1, 2 lub 3, art. 156 § 1 lub 3, art. 163 § 1 lub 3, art. 166, art. 173 § 1 lub 3, art. 197 § 3 lub 4, art. 223 § 2, art. 252 § 1 lub 2 lub w art. 280 Kodeksu karnego i braku podstaw do rozpoznania sprawy przez sąd właściwy według przepisów Kodeksu postępowania karnego sąd rodzinny odwołuje warunkowe zwolnienie i zarządza umieszczenie nieletniego w zakładzie poprawczym.
 
 6. Jeżeli w okresie próby i w ciągu dalszych 3 miesięcy nie nastąpiło odwołanie warunkowego zwolnienia, orzeczenie o umieszczeniu w zakładzie poprawczym z mocy prawa uważa się za niebyłe.
 
@@ -2089,8 +2222,8 @@ Art. 360–392. (pominięte)
 
 1. Wobec nieletniego, o którym mowa w art. 15 ust. 6 pkt 1, sąd rodzinny orzeka o:
 
-- **1)** wykonywaniu środka poprawczego po ukończeniu przez nieletniego 21 lat, do ukończenia przez nieletniego określonego wieku, niedłużej jednak niż do ukończenia przez nieletniego 24 lat, jeżeli dotychczasowe wyniki procesu resocjalizacji nie przyniosły oczekiwanego rezultatu i nieletni nadal wymaga oddziaływań resocjalizacyjnych albo
-- **2)** zastosowaniu wobec nieletniego zwalnianego z zakładu poprawczego po ukończeniu 21 lat środka wychowawczego, o którym mowa w art. 7 pkt 2 lub 5, do ukończenia przez nieletniego określonego wieku, niedłużej jednak niż do ukończenia przez nieletniego 24 lat, jeżeli dotychczasowe wyniki procesu resocjalizacji wskazują na potrzebę wsparcia nieletniego w kierunku dalszego nabywania i utrwalania postaw społecznie pożądanych.
+- **1)** wykonywaniu środka poprawczego po ukończeniu przez nieletniego 21 lat, do ukończenia przez nieletniego określonego wieku, nie dłużej jednak niż do ukończenia przez nieletniego 24 lat, jeżeli dotychczasowe wyniki procesu resocjalizacji nie przyniosły oczekiwanego rezultatu i nieletni nadal wymaga oddziaływań resocjalizacyjnych albo
+- **2)** zastosowaniu wobec nieletniego zwalnianego z zakładu poprawczego po ukończeniu 21 lat środka wychowawczego, o którym mowa w art. 7 pkt 2 lub 5, do ukończenia przez nieletniego określonego wieku, nie dłużej jednak niż do ukończenia przez nieletniego 24 lat, jeżeli dotychczasowe wyniki procesu resocjalizacji wskazują na potrzebę wsparcia nieletniego w kierunku dalszego nabywania i utrwalania postaw społecznie pożądanych.
 
 2. Postanowienie w przedmiocie, o którym mowa w ust. 1, sąd rodzinny wydaje po przeprowadzeniu rozprawy. Sąd rodzinny wyznacza rozprawę najpóźniej na 6 miesięcy przed ukończeniem przez nieletniego 21 lat.
 
@@ -2103,7 +2236,7 @@ Art. 360–392. (pominięte)
 
 **Art. 239.**
 
-1. W szczególnie uzasadnionym przypadku sąd rodzinny, z urzędu lub na wniosek dyrektora zakładu poprawczego, może orzec wobec nieletniego zwalnianego z zakładu poprawczego po ukończeniu 21 lat środek wychowawczy, o którym mowa w art. 7 pkt 2 lub 5, do ukończenia przez nieletniego określonego wieku, niedłużej jednak niż do ukończenia przez nieletniego 24 lat.
+1. W szczególnie uzasadnionym przypadku sąd rodzinny, z urzędu lub na wniosek dyrektora zakładu poprawczego, może orzec wobec nieletniego zwalnianego z zakładu poprawczego po ukończeniu 21 lat środek wychowawczy, o którym mowa w art. 7 pkt 2 lub 5, do ukończenia przez nieletniego określonego wieku, nie dłużej jednak niż do ukończenia przez nieletniego 24 lat.
 
 2. W szczególnie uzasadnionym przypadku sąd rodzinny, z urzędu lub na wniosek dyrektora zakładu poprawczego, może orzec wobec nieletniego zwalnianego z zakładu poprawczego po ukończeniu 24 lat środek wychowawczy, o którym mowa w art. 7 pkt 2 lub 5, do ukończenia przez nieletniego 25 lat.
 
@@ -2122,7 +2255,7 @@ Art. 360–392. (pominięte)
 
 2. W postanowieniu kończącym postępowanie w sprawie, o której mowa w ust. 1, sąd rodzinny stwierdza, czy nieletni dopuścił się czynu karalnego.
 
-3. W przypadku braku podstaw do rozpoznania sprawy przez sąd właściwy według przepisów Kodeksu postępowania karnego i stwierdzenia dopuszczenia się przez nieletniego czynu karalnego określonego w art. 134, art. 148 § 1, 2 lub 3, art. 156 § 1 lub 3, art. 163 § 1 lub 3, art. 166, art. 173 § 1 lub 3, art. 197 § 1, 1a, 3, 4 lub 5, art. 223 § 2, art. 252 § 1 lub 2 lub w art. 280 Kodeksu karnego sąd rodzinny orzeka także w przedmiocie przeniesienia nieletniego do zakładu poprawczego o wzmożonym nadzorze wychowawczym oraz zagrożenia przedłużeniem albo przedłużenia wykonywania środka poprawczego, stosownie do art. 15 ust. 6.
+3. W przypadku braku podstaw do rozpoznania sprawy przez sąd właściwy według przepisów Kodeksu postępowania karnego i stwierdzenia dopuszczenia się przez nieletniego czynu karalnego określonego w art. 134, art. 148 § 1, 2 lub 3, art. 156 § 1 lub 3, art. 163 § 1 lub 3, art. 166, art. 173 § 1 lub 3, art. 197 § 3 lub 4, art. 223 § 2, art. 252 § 1 lub 2 lub w art. 280 Kodeksu karnego sąd rodzinny orzeka także w przedmiocie przeniesienia nieletniego do zakładu poprawczego o wzmożonym nadzorze wychowawczym oraz zagrożenia przedłużeniem albo przedłużenia wykonywania środka poprawczego, stosownie do art. 15 ust. 6.
 
 4. Odpis prawomocnego postanowienia, o którym mowa w ust. 2, sąd rodzinny przesyła dyrektorowi zakładu poprawczego w celu zastosowania wobec nieletniego środka dyscyplinarnego.
 
@@ -2162,16 +2295,27 @@ Art. 360–392. (pominięte)
 
 **Art. 245.** Zakład poprawczy otwarty jest przeznaczony dla nieletnich, którzy:
 
+- **1)** wyrażają wolę uczestniczenia w procesie resocjalizacji i których postawa oraz zachowanie w schronisku dla nieletnich za tym przemawia;
+- **2)** swoją dotychczasową postawą oraz zachowaniem po orzeczeniu środka poprawczego wskazują na duże prawdopodobieństwo, że będą poddawać się procesowi resocjalizacji;
+- **3)** są umieszczeni w innym zakładzie poprawczym, a których postawa, zachowanie lub wskazania zespołu diagnostyczno-korekcyjnego przemawiają za umieszczeniem w zakładzie poprawczym otwartym.
+
 **Art. 246.** Zakład poprawczy półotwarty jest przeznaczony dla nieletnich, którzy:
 
+- **1)** ze względu na czyny karalne, których się dopuścili, i niekorzystne zmiany zachowania nie dają podstaw do umieszczenia ich w zakładzie poprawczym otwartym;
+- **2)** są umieszczeni w zakładzie poprawczym otwartym, a których postawa oraz zachowanie nie uzasadnia dalszego pobytu w tym zakładzie;
+- **3)** są umieszczeni w zakładzie poprawczym zamkniętym albo w zakładzie poprawczym o wzmożonym nadzorze wychowawczym, a których postawa, zachowanie lub wskazania zespołu diagnostyczno-korekcyjnego przemawiają za umieszczeniem w zakładzie poprawczym półotwartym.
+
 **Art. 247.** Zakład poprawczy zamknięty jest przeznaczony dla nieletnich, którzy:
+
+- **1)** ze względu na czyny karalne, których się dopuścili, i niekorzystne zmiany zachowania nie dają podstaw do umieszczenia ich w zakładzie poprawczym otwartym albo zakładzie poprawczym półotwartym;
+- **2)** swoją postawą lub zachowaniem podczas pobytu w schronisku dla nieletnich lub w zakładzie poprawczym innego rodzaju dają podstawy do umieszczenia ich w zakładzie poprawczym zamkniętym, lub co najmniej dwukrotnie uciekali ze schroniska dla nieletnich lub z zakładów poprawczych innego rodzaju.
 
 **Art. 248.**
 
 1. Zakład poprawczy o wzmożonym nadzorze wychowawczym jest przeznaczony dla nieletnich, którzy:
 
 - **1)** ukończyli 16 lat, a w wyjątkowych przypadkach ukończyli 15 lat, i wymagają wzmożonych oddziaływań wychowawczych lub terapeutycznych lub
-- **2)** dopuścili się czynu karalnego określonego w art. 134, art. 148 § 1, 2 lub 3, art. 156 § 1 lub 3, art. 163 § 1 lub 3, art. 166, art. 173 § 1 lub 3, art. 197 § 1, 1a, 3, 4 lub 5, art. 223 § 2, art. 252 § 1 lub 2 lub w art. 280 Kodeksu karnego.
+- **2)** dopuścili się czynu karalnego określonego w art. 134, art. 148 § 1, 2 lub 3, art. 156 § 1 lub 3, art. 163 § 1 lub 3, art. 166, art. 173 § 1 lub 3, art. 197 § 3 lub 4, art. 223 § 2, art. 252 § 1 lub 2 lub w art. 280 Kodeksu karnego.
 
 2. Umieszczenie nieletniego w zakładzie poprawczym o wzmożonym nadzorze wychowawczym następuje na podstawie orzeczenia sądu.
 
@@ -2181,7 +2325,7 @@ Art. 360–392. (pominięte)
 
 1. Nieletniego, który przebywał w aresztach śledczych lub zakładach karnych, umieszcza się w zakładzie poprawczym półotwartym, w zakładzie poprawczym zamkniętym albo w zakładzie poprawczym o wzmożonym nadzorze wychowawczym, chyba że szczególne względy resocjalizacyjne, postawa lub zachowanie nieletniego lub wskazania zespołu diagnostycznego, zespołu diagnostyczno-korekcyjnego albo opiniodawczego zespołu sądowych specjalistów przemawiają za umieszczeniem nieletniego w zakładzie poprawczym otwartym.
 
-2. Nieletniego, który dopuścił się czynu karalnego określonego w art. 134, art. 148 § 1, 2 lub 3, art. 156 § 1 lub 3, art. 163 § 1 lub 3, art. 166, art. 173 § 1 lub 3, art. 197 § 1, 1a, 3, 4 lub 5, art. 223 § 2, art. 252 § 1 lub 2 lub w art. 280 Kodeksu karnego, umieszcza się w zakładzie poprawczym o wzmożonym nadzorze wychowawczym, chyba że szczególne względy resocjalizacyjne, postawa lub zachowanie nieletniego lub wskazania zespołu diagnostycznego, zespołu diagnostyczno-korekcyjnego albo opiniodawczego zespołu sądowych specjalistów przemawiają za umieszczeniem nieletniego w zakładzie poprawczym zamkniętym, zakładzie poprawczym półotwartym albo w zakładzie poprawczym otwartym.
+2. Nieletniego, który dopuścił się czynu karalnego określonego w art. 134, art. 148 § 1, 2 lub 3, art. 156 § 1 lub 3, art. 163 § 1 lub 3, art. 166, art. 173 § 1 lub 3, art. 197 § 3 lub 4, art. 223 § 2, art. 252 § 1 lub 2 lub w art. 280 Kodeksu karnego, umieszcza się w zakładzie poprawczym o wzmożonym nadzorze wychowawczym, chyba że szczególne względy resocjalizacyjne, postawa lub zachowanie nieletniego lub wskazania zespołu diagnostycznego, zespołu diagnostyczno-korekcyjnego albo opiniodawczego zespołu sądowych specjalistów przemawiają za umieszczeniem nieletniego w zakładzie poprawczym zamkniętym, zakładzie poprawczym półotwartym albo w zakładzie poprawczym otwartym.
 
 **Art. 251.**
 
@@ -2218,7 +2362,7 @@ Art. 360–392. (pominięte)
 
 1. Nieletni umieszczony w zakładzie poprawczym otrzymuje na własne wydatki kieszonkowe wypłacane ze środków finansowych przeznaczonych na utrzymanie zakładu.
 
-2. Wysokość kieszonkowego dla nieletniego wynosi miesięcznie 1,1 % kwoty bazowej dla zawodowych kuratorów sądowych, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa.
+2. Wysokość kieszonkowego dla nieletniego wynosi miesięcznie 1,1% kwoty bazowej dla zawodowych kuratorów sądowych, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa.
 
 3. Nieletniemu, którego okres pobytu w zakładzie nie przekracza miesiąca, kieszonkowe przysługuje w wysokości proporcjonalnej do okresu jego pobytu w zakładzie w danym miesiącu.
 
@@ -2241,7 +2385,7 @@ Art. 360–392. (pominięte)
 
 **Art. 255.** Na żądanie sądu rodzinnego zakład poprawczy sporządza opinię psychologiczno-pedagogiczną o nieletnim umieszczonym w zakładzie, obejmującą ocenę procesu resocjalizacji nieletniego i wnioski określające kierunki dalszych oddziaływań wychowawczych, resocjalizacyjnych lub terapeutycznych.
 
-**Art. 256.** W szczególnie uzasadnionym przypadku, na pisemny wniosek nieletniego zwalnianego z zakładu poprawczego, dyrektor zakładu może wyrazić zgodę na jego pozostanie w zakładzie na czas określony, niedłuższy niż rok. Przepisu nie stosuje się w przypadku wykonywania środka poprawczego po ukończeniu przez nieletniego 21 lat.
+**Art. 256.** W szczególnie uzasadnionym przypadku, na pisemny wniosek nieletniego zwalnianego z zakładu poprawczego, dyrektor zakładu może wyrazić zgodę na jego pozostanie w zakładzie na czas określony, nie dłuższy niż rok. Przepisu nie stosuje się w przypadku wykonywania środka poprawczego po ukończeniu przez nieletniego 21 lat.
 
 **Art. 257.** Jeżeli nieletni zwalniany z zakładu poprawczego nie posiada własnych pieniędzy i nie może uzyskać potrzebnej pomocy od rodziców lub opiekuna lub z innych źródeł, dyrektor zakładu udziela mu pomocy finansowej lub materialnej w kwocie do wysokości kwoty bazowej dla zawodowych kuratorów sądowych, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa.
 
@@ -2277,7 +2421,7 @@ Art. 360–392. (pominięte)
 - **6)** zgoda na wykonanie przedmiotu lub usługi w warsztatach szkolnych na potrzeby nieletniego;
 - **7)** zgoda na skorzystanie z internetu;
 - **8)** zgoda na udział w zajęciach kulturalnych, oświatowych lub sportowych organizowanych przez podmioty zewnętrzne poza zakładem poprawczym;
-- **9)** podwyższenie kieszonkowego na okres do 3 miesięcy do wysokości 4,5 % kwoty bazowej dla zawodowych kuratorów sądowych, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa;
+- **9)** podwyższenie kieszonkowego na okres do 3 miesięcy do wysokości 4,5% kwoty bazowej dla zawodowych kuratorów sądowych, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa;
 - **10)** skrócenie lub darowanie zastosowanego środka dyscyplinarnego;
 - **11)** udzielenie przepustki na okres do 5 dni;
 - **12)** udzielenie urlopu.
@@ -2335,11 +2479,11 @@ Art. 360–392. (pominięte)
 - **3)** zawiadomienie rodziców albo opiekuna nieletniego o niewłaściwym zachowaniu nieletniego;
 - **4)** zawiadomienie sądu rodzinnego o niewłaściwym zachowaniu nieletniego;
 - **5)** cofnięcie zezwolenia albo nieudzielanie zezwolenia na rozmowy telefoniczne na koszt zakładu poprawczego na okres do 1 miesiąca, z wyjątkiem rozmów z rodzicami albo opiekunem nieletniego;
-- **6)** obniżenie kieszonkowego, niewięcej niż do 0,5 % kwoty bazowej ustalonej dla zawodowych kuratorów sądowych, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa, na okres do 3 miesięcy;
+- **6)** obniżenie kieszonkowego, nie więcej niż do 0,5% kwoty bazowej ustalonej dla zawodowych kuratorów sądowych, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa, na okres do 3 miesięcy;
 - **7)** cofnięcie zgody na skorzystanie z internetu na okres do 3 miesięcy;
 - **8)** cofnięcie zgody albo nieudzielanie zgody na udział w zajęciach kulturalnych, oświatowych lub sportowych organizowanych przez podmioty zewnętrzne poza zakładem poprawczym na okres do 3 miesięcy.
 
-2. W przypadku ucieczki z zakładu poprawczego lub nieusprawiedliwionego niepowrotu z pobytu poza zakładem, o którym mowa w art. 252 ust. 1, środkiem dyscyplinarnym jest również nieudzielanie nagrody, o której mowa w art. 260 ust. 1 pkt 11 lub 12, przez okres niedłuższy niż 5 miesięcy.
+2. W przypadku ucieczki z zakładu poprawczego lub nieusprawiedliwionego niepowrotu z pobytu poza zakładem, o którym mowa w art. 252 ust. 1, środkiem dyscyplinarnym jest również nieudzielanie nagrody, o której mowa w art. 260 ust. 1 pkt 11 lub 12, przez okres nie dłuższy niż 5 miesięcy.
 
 **Art. 266.**
 
@@ -2392,7 +2536,7 @@ Art. 360–392. (pominięte)
 - **1)** względy wychowawcze, a w szczególności możliwość zdobycia wykształcenia, zawodu, a także niezbędnych kwalifikacji lub uprawnień,
 - **2)** możliwość podjęcia zatrudnienia,
 - **3)** potrzeba specjalistycznego leczenia,
-- **4)** szczególne względy rodzinne – a ocena zachowania nieletniego wskazuje, że będzie możliwe roztoczenie nad nim skutecznego nadzoru.
+- **4)** szczególne względy rodzinne a ocena zachowania nieletniego wskazuje, że będzie możliwe roztoczenie nad nim skutecznego nadzoru.
 
 2. Wobec nieletniego, o którym mowa w art. 15 ust. 6, przepisu ust. 1 nie stosuje się.
 
@@ -2474,11 +2618,11 @@ Art. 360–392. (pominięte)
 
 **Art. 278.** Po upływie czasu określonego w decyzji o umieszczeniu nieletniego w hostelu albo odwołaniu decyzji przez dyrektora zakładu poprawczego, albo uchyleniu decyzji dyrektora zakładu poprawczego przez sąd rodzinny nieletni jest umieszczany w zakładzie poprawczym, z którego został umieszczony w hostelu. W przypadku, o którym mowa w art. 276 ust. 5 pkt 1, nieletni może zostać umieszczony w zakładzie poprawczym, który prowadzi hostel, jeżeli względy wychowawcze za tym przemawiają.
 
-**Art. 279.** W szczególnie uzasadnionym przypadku, na pisemny wniosek nieletniego zwalnianego z zakładu poprawczego, dyrektor zakładu poprawczego, o którym mowa w art. 276 ust. 5 pkt 1, albo kierownik hostelu, o którym mowa w art. 276 ust. 5 pkt 2, może wyrazić zgodę na pozostanie nieletniego w hostelu na czas określony, niedłuższy niż rok. Przepisu nie stosuje się w przypadku wykonywania środka poprawczego po ukończeniu przez nieletniego 21 lat.
+**Art. 279.** W szczególnie uzasadnionym przypadku, na pisemny wniosek nieletniego zwalnianego z zakładu poprawczego, dyrektor zakładu poprawczego, o którym mowa w art. 276 ust. 5 pkt 1, albo kierownik hostelu, o którym mowa w art. 276 ust. 5 pkt 2, może wyrazić zgodę na pozostanie nieletniego w hostelu na czas określony, nie dłuższy niż rok. Przepisu nie stosuje się w przypadku wykonywania środka poprawczego po ukończeniu przez nieletniego 21 lat.
 
 **Art. 280.**
 
-1. Nieletni przebywający w hostelu jest obowiązany do częściowego pokrywania wydatków związanych z kosztami utrzymania go w hostelu w wysokości nieprzekraczającej 25 % tych wydatków. Wysokość wydatków związanych z kosztami utrzymania nieletnich w hostelu określa dyrektor zakładu poprawczego, o którym mowa w art. 276 ust. 5 pkt 1, albo kierownik hostelu, o którym mowa w art. 276 ust. 5 pkt 2, na podstawie średniej kosztów utrzymania wychowanków tego hostelu, w tym kosztów wyżywienia nieletnich, kosztów ich zakwaterowania oraz wynagrodzenia pracowników zatrudnionych w hostelu, w okresie 6 miesięcy poprzedzających wydanie decyzji określającej wysokość wydatków, a jeżeli obliczenie wydatków za taki okres jest niemożliwe – za maksymalny możliwy do uwzględnienia okres.
+1. Nieletni przebywający w hostelu jest obowiązany do częściowego pokrywania wydatków związanych z kosztami utrzymania go w hostelu w wysokości nieprzekraczającej 25% tych wydatków. Wysokość wydatków związanych z kosztami utrzymania nieletnich w hostelu określa dyrektor zakładu poprawczego, o którym mowa w art. 276 ust. 5 pkt 1, albo kierownik hostelu, o którym mowa w art. 276 ust. 5 pkt 2, na podstawie średniej kosztów utrzymania wychowanków tego hostelu, w tym kosztów wyżywienia nieletnich, kosztów ich zakwaterowania oraz wynagrodzenia pracowników zatrudnionych w hostelu, w okresie 6 miesięcy poprzedzających wydanie decyzji określającej wysokość wydatków, a jeżeli obliczenie wydatków za taki okres jest niemożliwe – za maksymalny możliwy do uwzględnienia okres.
 
 2. Nieletniego umieszczonego w hostelu, na jego wniosek, można w całości albo w części zwolnić z obowiązku, o którym mowa w ust. 1, w przypadku gdy poniesienie przez niego wydatków w określonej wysokości jest niemożliwe lub zbyt uciążliwe z uwagi na jego sytuację materialną lub osobistą, w szczególności stan zdrowia, niezawinione niewykonywanie pracy zarobkowej, brak stałych źródeł dochodu lub konieczność łożenia przez nieletniego na utrzymanie innych osób.
 
@@ -2488,7 +2632,7 @@ Art. 360–392. (pominięte)
 
 **Art. 283.**
 
-1. Na finansowanie lub dofinansowanie wydatków związanych z pobytem nieletnich w hostelu, o którym mowa w art. 276 ust. 5 pkt 2, organizacje pozarządowe mogą otrzymywać środki finansowe w formie dotacji celowej na zasadach określonych w ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846).
+1. Na finansowanie lub dofinansowanie wydatków związanych z pobytem nieletnich w hostelu, o którym mowa w art. 276 ust. 5 pkt 2, organizacje pozarządowe mogą otrzymywać środki finansowe w formie dotacji celowej na zasadach określonych w ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634 i 1692).
 
 2. Finansowanie pobytu nieletnich w hostelach, o których mowa w art. 276 ust. 5 pkt 2, może odbywać się także z innych źródeł pozyskiwanych przez organizacje pozarządowe, prowadzące hostel.
 
@@ -2536,7 +2680,7 @@ Art. 360–392. (pominięte)
 
 **Art. 290.** Do wykonywania środka tymczasowego, o którym mowa w art. 44 pkt 7, przepisu art. 91 ust. 2 nie stosuje się.
 
-**Art. 291.** Do wykonywania środków tymczasowych, o których mowa w art. 44 pkt 1–7 i 9, stosuje się przepisy rozdziałów 4, 5 i 7, z zastrzeżeniem art. 292– 294.
+**Art. 291.** Do wykonywania środków tymczasowych, o których mowa w art. 44 pkt 1–7 i 9, stosuje się przepisy rozdziałów 4, 5 i 7, z zastrzeżeniem art. 292–294.
 
 **Art. 292.** Czasowe opuszczenie przez nieletniego tymczasowo umieszczonego w młodzieżowym ośrodku wychowawczym, w okręgowym ośrodku wychowawczym lub w zakładzie leczniczym ośrodka lub zakładu w przypadkach, o których mowa w art. 180 ust. 1, art. 189 ust. 1 pkt 2 i 3, art. 227 ust. 1 i art. 228, wymaga zgody organu prowadzącego postępowanie.
 
@@ -2560,6 +2704,10 @@ Art. 360–392. (pominięte)
 **Art. 296.** Schronisko dla nieletnich zwykłe jest przeznaczone dla nieletnich umieszczonych na podstawie art. 46 ust. 1 i art. 95 ust. 2.
 
 **Art. 297.** Schronisko dla nieletnich o wzmożonym nadzorze wychowawczym jest przeznaczone dla nieletnich:
+
+- **1)** umieszczonych na podstawie art. 46 ust. 2;
+- **2)** umieszczonych na podstawie art. 240 ust. 5;
+- **3)** których postawa lub zachowanie podczas pobytu w schronisku dla nieletnich zwykłym zagraża bezpieczeństwu schroniska, w tym osób w nim przebywających, i którzy wymagają wzmożonych oddziaływań wychowawczych lub terapeutycznych.
 
 **Art. 298.**
 
@@ -2596,7 +2744,7 @@ Art. 360–392. (pominięte)
 
 1. Nieletni umieszczony w schronisku dla nieletnich otrzymuje na własne wydatki kieszonkowe, wypłacane ze środków finansowych przeznaczonych na utrzymanie schroniska.
 
-2. Wysokość kieszonkowego dla nieletniego wynosi miesięcznie 1,1 % kwoty bazowej dla zawodowych kuratorów sądowych, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa.
+2. Wysokość kieszonkowego dla nieletniego wynosi miesięcznie 1,1% kwoty bazowej dla zawodowych kuratorów sądowych, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa.
 
 3. Nieletniemu, którego okres pobytu w schronisku nie przekracza miesiąca, kieszonkowe przysługuje w wysokości proporcjonalnej do okresu jego pobytu w schronisku w danym miesiącu.
 
@@ -2658,7 +2806,7 @@ Art. 360–392. (pominięte)
 - **6)** zgoda na wykonanie przedmiotu lub usługi w warsztatach szkolnych na potrzeby nieletniego;
 - **7)** zgoda na skorzystanie z internetu;
 - **8)** zgoda na udział w zajęciach kulturalnych, oświatowych lub sportowych organizowanych przez podmioty zewnętrzne poza schroniskiem dla nieletnich;
-- **9)** podwyższenie kieszonkowego na okres do 3 miesięcy do wysokości 4,5 % kwoty bazowej dla zawodowych kuratorów sądowych, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa;
+- **9)** podwyższenie kieszonkowego na okres do 3 miesięcy do wysokości 4,5% kwoty bazowej dla zawodowych kuratorów sądowych, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa;
 - **10)** skrócenie lub darowanie zastosowanego środka dyscyplinarnego;
 - **11)** udzielenie przepustki na okres do 5 dni.
 
@@ -2683,6 +2831,15 @@ Art. 360–392. (pominięte)
 4. Środek dyscyplinarny stosuje się niezwłocznie.
 
 **Art. 311.** Środkiem dyscyplinarnym jest:
+
+- **1)** upomnienie;
+- **2)** nagana;
+- **3)** zawiadomienie rodziców albo opiekuna nieletniego o niewłaściwym zachowaniu nieletniego;
+- **4)** zawiadomienie organu prowadzącego postępowanie o niewłaściwym zachowaniu nieletniego;
+- **5)** cofnięcie zezwolenia albo nieudzielanie zezwolenia na rozmowy telefoniczne na koszt schroniska dla nieletnich na okres do 1 miesiąca, z wyjątkiem rozmów z rodzicami albo opiekunem nieletniego;
+- **6)** obniżenie kieszonkowego, nie więcej niż do 0,5% kwoty bazowej ustalonej dla zawodowych kuratorów sądowych, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa, na okres do 3 miesięcy;
+- **7)** cofnięcie zgody na skorzystanie z internetu na okres do 3 miesięcy;
+- **8)** cofnięcie zgody albo nieudzielanie zgody na udział w zajęciach kulturalnych, oświatowych lub sportowych organizowanych przez podmioty zewnętrzne poza schroniskiem dla nieletnich na okres do 3 miesięcy.
 
 **Art. 312.**
 
@@ -2730,15 +2887,24 @@ Art. 360–392. (pominięte)
 
 **Art. 320.** Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowy tryb kierowania, przyjmowania, przenoszenia i zwalniania nieletnich ze schronisk dla nieletnich, szczegółowe warunki pobytu nieletnich w tych schroniskach, formę i zakres porozumienia dyrektora schroniska z duchownym kościoła lub innego związku wyznaniowego, do którego nieletni należą, dotyczącego uczestniczenia przez nieletnich w wykonywaniu praktyk religijnych i korzystaniu przez nich z posług religijnych oraz sposób realizacji tego porozumienia, mając na uwadze konieczność zapewnienia skuteczności oddziaływań wychowawczych, resocjalizacyjnych i terapeutycznych wobec nieletnich, właściwych warunków pobytu nieletnich w schroniskach, przestrzegania praw nieletnich oraz sprawnego wykonywania orzeczeń.
 
-### DZIAŁ V Funkcjonowanie okręgowych ośrodków wychowawczych, zakładów poprawczych i schronisk dla nieletnich
+### Dział V Funkcjonowanie okręgowych ośrodków wychowawczych, zakładów poprawczych i schronisk dla nieletnich
 
 #### Rozdział 1 Organizacja okręgowych ośrodków wychowawczych, zakładów poprawczych i schronisk dla nieletnich
 
 **Art. 321.** Organami okręgowego ośrodka wychowawczego są:
 
+- **1)** dyrektor okręgowego ośrodka wychowawczego;
+- **2)** rada okręgowego ośrodka wychowawczego.
+
 **Art. 322.** Organami zakładu poprawczego są:
 
+- **1)** dyrektor zakładu poprawczego;
+- **2)** rada zakładu poprawczego.
+
 **Art. 323.** Organami schroniska dla nieletnich są:
+
+- **1)** dyrektor schroniska dla nieletnich;
+- **2)** rada schroniska dla nieletnich.
 
 **Art. 324.**
 
@@ -2749,20 +2915,33 @@ Art. 360–392. (pominięte)
 - **3)** który posiada co najmniej pięcioletni staż pracy pedagogicznej;
 - **4)** który w okresie trzech lat poprzedzających powierzenie stanowiska dyrektora ośrodka, zakładu lub schroniska uzyskał co najmniej dobrą ocenę pracy;
 - **5)** który spełnia warunki zdrowotne niezbędne do wykonywania pracy na stanowisku kierowniczym;
-- **6)** który nie był karany karą dyscyplinarną, o której mowa w art. 76 ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2024 r. poz. 986, z późn. zm. ) lub w art. 276 ust. 1 pkt 2–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ), oraz przeciwko któremu nie toczy się postępowanie dyscyplinarne;
+- **6)** który nie był karany karą dyscyplinarną, o której mowa w art. 76 ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2021 r. poz. 1762 oraz z 2022 r. poz. 935 i 1116) lub w art. 276 ust. 1 pkt 2–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm.), oraz przeciwko któremu nie toczy się postępowanie dyscyplinarne;
 - **7)** który nie był prawomocnie skazany za umyślne przestępstwo lub umyślne przestępstwo skarbowe oraz przeciwko któremu nie toczy się postępowanie karne lub postępowanie karne skarbowe w sprawie o umyślne przestępstwo lub umyślne przestępstwo skarbowe;
 - **8)** wobec którego nie orzeczono zakazu pełnienia funkcji związanych z dysponowaniem środkami publicznymi;
 - **9)** który w okresie pięciu lat poprzedzających powierzenie stanowiska dyrektora ośrodka, zakładu lub schroniska nie został odwołany przez organ prowadzący lub nie został skutecznie odwołany na podstawie art. 70 § 1 Kodeksu pracy ze stanowiska dyrektora zakładu, ośrodka lub schroniska albo szkoły lub placówki, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, albo dyrektora placówki lub ośrodka, o których mowa w art. 93 ust. 1 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, chyba że odwołanie nastąpiło w wyniku przekształceń organizacyjnych lub likwidacji poprzedniego miejsca pracy albo złożenia przez niego rezygnacji ze stanowiska.
 
-2. Stanowisko dyrektora okręgowego ośrodka wychowawczego, zakładu poprawczego lub schroniska dla nieletnich może zajmować także nauczyciel mianowany lub dyplomowany zatrudniony na stanowisku wymagającym kwalifikacji pedagogicznych w urzędzie organu administracji rządowej, kuratorium oświaty, Centrum Edukacji Artystycznej, Centralnej Komisji Egzaminacyjnej lub okręgowych komisjach egzaminacyjnych oraz nauczyciel mianowany lub dyplomowany urlopowany lub zwolniony z obowiązku świadczenia pracy na podstawie przepisów ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2025 r. poz. 440 i
-
-- **1661)** spełniający wymagania, o których mowa w ust. 1 pkt 1–3 i 5–9.
+2. Stanowisko dyrektora okręgowego ośrodka wychowawczego, zakładu poprawczego lub schroniska dla nieletnich może zajmować także nauczyciel mianowany lub dyplomowany zatrudniony na stanowisku wymagającym kwalifikacji pedagogicznych w urzędzie organu administracji rządowej, kuratorium oświaty, Centrum Edukacji Artystycznej, Centralnej Komisji Egzaminacyjnej lub okręgowych komisjach egzaminacyjnych oraz nauczyciel mianowany lub dyplomowany urlopowany lub zwolniony z obowiązku świadczenia pracy na podstawie przepisów ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2022 r. poz. 854) spełniający wymagania, o których mowa w ust. 1 pkt 1–3 i 5–9.
 
 **Art. 325.** Stanowisko dyrektora okręgowego ośrodka wychowawczego, zakładu poprawczego lub schroniska dla nieletnich może zajmować także osoba:
 
+- **1)** która posiada obywatelstwo polskie, obywatelstwo innego państwa członkowskiego Unii Europejskiej, obywatelstwo państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej albo obywatelstwo innego państwa, jeżeli na podstawie przepisów prawa Unii Europejskiej przysługuje jej prawo podjęcia zatrudnienia lub samozatrudnienia na terytorium Rzeczypospolitej Polskiej na zasadach określonych w tych przepisach;
+- **2)** która posiada przygotowanie pedagogiczne;
+- **3)** która posiada co najmniej trzyletni staż pracy na stanowisku nauczyciela akademickiego;
+- **4)** która w okresie trzech lat poprzedzających powołanie na stanowisko dyrektora ośrodka, zakładu lub schroniska uzyskała pozytywną ocenę pracy na uczelni;
+- **5)** wobec której nie orzeczono zakazu zajmowania wszelkich lub określonych stanowisk, wykonywania wszelkich lub określonych zawodów albo działalności, związanych z wychowaniem, edukacją, leczeniem małoletnich lub z opieką nad nimi;
+- **6)** która spełnia wymagania, o których mowa w art. 324 ust. 1 pkt 2 i 5–9.
+
 **Art. 326.** Stanowisko dyrektora okręgowego ośrodka wychowawczego, zakładu poprawczego lub schroniska dla nieletnich może zajmować także osoba, która:
 
+- **1)** korzysta z pełni praw publicznych i ma pełną zdolność do czynności prawnych;
+- **2)** ukończyła studia drugiego stopnia lub jednolite studia magisterskie;
+- **3)** posiada co najmniej pięcioletni staż pracy, w tym co najmniej dwuletni staż pracy na stanowisku kierowniczym;
+- **4)** spełnia wymagania, o których mowa w art. 324 ust. 1 pkt 2 i 5–9 oraz w art. 325 pkt 1 i 5.
+
 **Art. 327.** Minister Sprawiedliwości, po zasięgnięciu opinii dyrektora komórki organizacyjnej Ministerstwa Sprawiedliwości wykonującej zadania z zakresu nadzoru pedagogicznego Ministra Sprawiedliwości nad okręgowymi ośrodkami wychowawczymi, zakładami poprawczymi i schroniskami dla nieletnich albo na wniosek dyrektora tej komórki:
+
+- **1)** powierza stanowisko dyrektora okręgowego ośrodka wychowawczego, zakładu poprawczego lub schroniska dla nieletnich osobie, o której mowa w art. 324 ust. 1 albo 2, na czas nieokreślony;
+- **2)** powołuje, na podstawie art. 68 Kodeksu pracy, na stanowisko dyrektora okręgowego ośrodka wychowawczego, zakładu poprawczego lub schroniska dla nieletnich osobę, o której mowa w art. 325 albo art. 326, na czas nieokreślony.
 
 **Art. 328.**
 
@@ -2789,27 +2968,27 @@ Art. 360–392. (pominięte)
 - **2)** dyrektora okręgowego ośrodka wychowawczego, zakładu poprawczego lub schroniska dla nieletnich, o którym mowa w art. 327 pkt 2, w pełnieniu przez niego obowiązków dyrektora w przypadku wszczęcia przeciwko niemu postępowania karnego lub postępowania karnego skarbowego w sprawie o umyślne przestępstwo lub umyślne przestępstwo skarbowe;
 - **3)** dyrektora okręgowego ośrodka wychowawczego, zakładu poprawczego lub schroniska dla nieletnich, o którym mowa w art. 327 pkt 1 lub 2, w pełnieniu przez niego obowiązków dyrektora w przypadku ujawnienia okoliczności uprawdopodabniających istnienie zaniedbań w zakresie realizacji zadań ośrodka, zakładu lub schroniska lub uchybień dyrektora w wykonywaniu obowiązków służbowych, w szczególności nierealizowania zadań wyznaczonych przez Ministra Sprawiedliwości.
 
-2. W przypadku, o którym mowa w ust. 1 pkt 3, Minister Sprawiedliwości zarządza przeprowadzenie kontroli w trybie uproszczonym zgodnie z ustawą z dnia 15 lipca 2011 r. o kontroli w administracji rządowej (Dz. U. z 2020 r. poz. 224 oraz z 2025 r. poz. 1158) lub przeprowadzenie działań doraźnych określonych w przepisach wydanych na podstawie art. 60 ust. 10 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe.
+2. W przypadku, o którym mowa w ust. 1 pkt 3, Minister Sprawiedliwości zarządza przeprowadzenie kontroli w trybie uproszczonym zgodnie z ustawą z dnia 15 lipca 2011 r. o kontroli w administracji rządowej (Dz. U. z 2020 r. poz. 224) lub przeprowadzenie działań doraźnych określonych w przepisach wydanych na podstawie art. 60 ust. 10 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe.
 
 3. Do zawieszenia dyrektora, o którym mowa w art. 327 pkt 1, w przypadku określonym w ust. 1 pkt 1, stosuje się przepisy ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela.
 
-4. W okresie zawieszenia, o którym mowa w ust. 1 pkt 2, dyrektorowi, o którym mowa w art. 327 pkt 2, wynagrodzenie zmniejsza się do 50 %.
+4. W okresie zawieszenia, o którym mowa w ust. 1 pkt 2, dyrektorowi, o którym mowa w art. 327 pkt 2, wynagrodzenie zmniejsza się do 50%.
 
 5. W okresie zawieszenia, o którym mowa w ust. 1 pkt 3:
 
 - **1)** dyrektorowi, o którym mowa w art. 327 pkt 1, nie przysługuje dodatek funkcyjny;
-- **2)** dyrektorowi, o którym mowa w art. 327 pkt 2, wynagrodzenie zmniejsza się do 50 %.
+- **2)** dyrektorowi, o którym mowa w art. 327 pkt 2, wynagrodzenie zmniejsza się do 50%.
 
 **Art. 331.**
 
 1. Minister Sprawiedliwości, w przypadku:
 
 - **1)** odwołania dyrektora okręgowego ośrodka wychowawczego, zakładu poprawczego lub schroniska dla nieletnich,
-- **2)** śmierci dyrektora okręgowego ośrodka wychowawczego, zakładu poprawczego lub schroniska dla nieletnich – przed powierzeniem stanowiska nowemu dyrektorowi albo powołaniem na stanowisko nowego dyrektora powierza pełnienie obowiązków dyrektora ośrodka, zakładu lub schroniska wyznaczonej przez siebie osobie:
+- **2)** śmierci dyrektora okręgowego ośrodka wychowawczego, zakładu poprawczego lub schroniska dla nieletnich przed powierzeniem stanowiska nowemu dyrektorowi albo powołaniem na stanowisko nowego dyrektora powierza pełnienie obowiązków dyrektora ośrodka, zakładu lub schroniska wyznaczonej przez siebie osobie:
 - **1)** będącej nauczycielem posiadającym kwalifikacje do zajmowania stanowiska nauczyciela, nauczyciela wychowawcy, nauczyciela pedagoga lub nauczyciela doradcy zawodowego w szkołach w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich lub w tych ośrodkach, zakładach i schroniskach, określone w przepisach wydanych na podstawie art. 9 ust. 2 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela,
-- **2)** posiadającej kwalifikacje do zajmowania stanowiska dyrektora ośrodka, zakładu lub schroniska, o których mowa w art. 325 albo art. 326 – na czas określony, niedłużej jednak niż na okres 12 miesięcy.
+- **2)** posiadającej kwalifikacje do zajmowania stanowiska dyrektora ośrodka, zakładu lub schroniska, o których mowa w art. 325 albo art. 326 na czas określony, nie dłużej jednak niż na okres 12 miesięcy.
 
-2. W przypadku zawieszenia dyrektora okręgowego ośrodka wychowawczego, zakładu poprawczego lub schroniska dla nieletnich Minister Sprawiedliwości wyznacza innego pracownika pedagogicznego ośrodka, zakładu lub schroniska, który zastępuje dyrektora na czas określony, niedłużej jednak niż na okres 12 miesięcy.
+2. W przypadku zawieszenia dyrektora okręgowego ośrodka wychowawczego, zakładu poprawczego lub schroniska dla nieletnich Minister Sprawiedliwości wyznacza innego pracownika pedagogicznego ośrodka, zakładu lub schroniska, który zastępuje dyrektora na czas określony, nie dłużej jednak niż na okres 12 miesięcy.
 
 3. W przypadku korzystania przez dyrektora ośrodka, zakładu lub schroniska z uprawnień określonych w art. 73 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela Minister Sprawiedliwości wyznacza innego pracownika pedagogicznego ośrodka, zakładu lub schroniska, który zastępuje dyrektora na czas określony, wynikający z udzielonego świadczenia.
 
@@ -2858,7 +3037,13 @@ Art. 360–392. (pominięte)
 
 **Art. 335.** Pracownik okręgowego ośrodka wychowawczego, zakładu poprawczego lub schroniska dla nieletnich ma obowiązek:
 
-**Art. 336.** Okręgowe ośrodki wychowawcze, zakłady poprawcze i schroniska dla nieletnich używają wizerunku orła ustalonego dla godła oraz urzędowej pieczęci, o której mowa w art. 16c ust. 1 ustawy z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2025 r. poz. 299).
+- **1)** przestrzegać praw nieletnich;
+- **2)** wykonywać zadania i obowiązki z najwyższą starannością, zgodnie z aktualnymi wskazaniami wiedzy i nauki oraz zasadami i etyką wykonywanego zawodu;
+- **3)** brać udział, odpowiednio do zajmowanego stanowiska, w resocjalizacji nieletnich oraz być dla nich pozytywnym przykładem;
+- **4)** dochowywać tajemnicy prawnie chronionej;
+- **5)** podnosić kwalifikacje zawodowe.
+
+**Art. 336.** Okręgowe ośrodki wychowawcze, zakłady poprawcze i schroniska dla nieletnich używają wizerunku orła ustalonego dla godła oraz urzędowej pieczęci, o której mowa w art. 16c ust. 1 ustawy z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2019 r. poz. 1509).
 
 **Art. 337.** Zasady kształcenia i wychowania w szkołach w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich określają przepisy ustawy z dnia 7 września 1991 r. o systemie oświaty i ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe.
 
@@ -2954,6 +3139,11 @@ Art. 360–392. (pominięte)
 
 **Art. 350.** Prawo wstępu na teren okręgowego ośrodka wychowawczego, zakładu poprawczego lub schroniska dla nieletnich, poza pracownikami w nim zatrudnionymi, mają osoby:
 
+- **1)** sprawujące nadzór nad ośrodkiem, zakładem lub schroniskiem;
+- **2)** którym została udzielona zgoda przez dyrektora ośrodka, zakładu lub schroniska;
+- **3)** upoważnione przez organ sprawujący nadzór nad ośrodkiem, zakładem lub schroniskiem;
+- **4)** uprawnione na podstawie niniejszej ustawy i odrębnych przepisów.
+
 **Art. 351.**
 
 1. Osoba wchodząca na teren okręgowego ośrodka wychowawczego, zakładu poprawczego lub schroniska dla nieletnich jest obowiązana do zdeponowania przedmiotów, których nie można posiadać w ośrodku, zakładzie lub schronisku. Przepis art. 142 stosuje się.
@@ -2995,7 +3185,7 @@ Art. 360–392. (pominięte)
 
 3. Do przedmiotów znalezionych w toku kontroli, o której mowa w art. 351 ust. 2 i 3, których nieletni nie może posiadać w ośrodku, zakładzie lub schronisku, przepisy art. 119 ust. 4 i 7 stosuje się.
 
-**Art. 355.** W szczególnie uzasadnionym przypadku dyrektor zakładu poprawczego lub schroniska dla nieletnich ze względu na potrzebę zapewnienia bezpieczeństwa nieletniego lub innych osób, może zwrócić się z wnioskiem do sędziego rodzinnego sprawującego nadzór nad zakładem lub schroniskiem o wydanie nakazu doprowadzenia nieletniego przez Policję w celu udzielenia świadczenia zdrowotnego, w szczególności nieletniego, który dopuścił się czynu zabronionego określonego w art. 134, art. 148 § 1, 2 lub 3, art. 156 § 1 lub 3, art. 163 § 1 lub 3, art. 166, art. 173 § 1 lub 3, art. 197 § 1, 1a, 3, 4 lub 5, art. 223 § 2, art. 252 § 1 lub 2 lub w art. 280 Kodeksu karnego.
+**Art. 355.** W szczególnie uzasadnionym przypadku dyrektor zakładu poprawczego lub schroniska dla nieletnich ze względu na potrzebę zapewnienia bezpieczeństwa nieletniego lub innych osób, może zwrócić się z wnioskiem do sędziego rodzinnego sprawującego nadzór nad zakładem lub schroniskiem o wydanie nakazu doprowadzenia nieletniego przez Policję w celu udzielenia świadczenia zdrowotnego, w szczególności nieletniego, który dopuścił się czynu zabronionego określonego w art. 134, art. 148 § 1, 2 lub 3, art. 156 § 1 lub 3, art. 163 § 1 lub 3, art. 166, art. 173 § 1 lub 3, art. 197 § 3 lub 4, art. 223 § 2, art. 252 § 1 lub 2 lub w art. 280 Kodeksu karnego.
 
 **Art. 356.** Jeżeli przeciwko nieletniemu toczy się postępowanie karne, a jego pobyt w zakładzie poprawczym lub schronisku dla nieletnich stwarzałby poważne zagrożenie bezpieczeństwa zakładu lub schroniska, dyrektor zakładu lub schroniska niezwłocznie zawiadamia organ prowadzący postępowanie o potrzebie zastosowania środka zapobiegawczego.
 
@@ -3021,7 +3211,7 @@ Art. 360–392. (pominięte)
 
 4. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, sposób i tryb współdziałania okręgowych ośrodków wychowawczych, zakładów poprawczych i schronisk dla nieletnich z Policją w związku z zagrożeniem bezpieczeństwa ośrodka, zakładu lub schroniska, mając na uwadze konieczność zapewnienia skutecznej i sprawnej współpracy.
 
-### DZIAŁ VI Ochrona danych osobowych
+### Dział VI Ochrona danych osobowych
 
 **Art. 358.**
 
@@ -3031,7 +3221,7 @@ Art. 360–392. (pominięte)
 
 **Art. 359.**
 
-1. Zasady i warunki przetwarzania danych osobowych przez Ministra Sprawiedliwości, okręgowe ośrodki wychowawcze, zakłady poprawcze, schroniska dla nieletnich oraz komisję do spraw kierowania nieletnich do młodzieżowego ośrodka wychowawczego na podstawie niniejszej ustawy w celu wykonywania orzeczeń w sprawach o demoralizację, której przejawem jest dopuszczenie się przez nieletniego czynu zabronionego, oraz w sprawach o czyn karalny reguluje ustawa z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2023 r. poz. 1206).
+1. Zasady i warunki przetwarzania danych osobowych przez Ministra Sprawiedliwości, okręgowe ośrodki wychowawcze, zakłady poprawcze, schroniska dla nieletnich oraz komisję do spraw kierowania nieletnich do młodzieżowego ośrodka wychowawczego na podstawie niniejszej ustawy w celu wykonywania orzeczeń w sprawach o demoralizację, której przejawem jest dopuszczenie się przez nieletniego czynu zabronionego, oraz w sprawach o czyn karalny reguluje ustawa z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125).
 
 2. W celu realizacji zadań, o których mowa w ust. 1, Minister Sprawiedliwości, okręgowe ośrodki wychowawcze, zakłady poprawcze, schroniska dla nieletnich oraz komisja do spraw kierowania nieletnich do młodzieżowego ośrodka wychowawczego są uprawnieni do przetwarzania następujących danych osobowych:
 
@@ -3052,15 +3242,385 @@ Art. 360–392. (pominięte)
 
 3. W celu realizacji zadań, o których mowa w ust. 1, Minister Sprawiedliwości, okręgowe ośrodki wychowawcze, zakłady poprawcze, schroniska dla nieletnich oraz komisja do spraw kierowania nieletnich do młodzieżowego ośrodka wychowawczego są uprawnieni do przetwarzania także danych osobowych, o których mowa w art. 14 ust. 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości.
 
-### DZIAŁ VII Zmiany w przepisach, przepisy przejściowe, dostosowujące i końcowe
+### Dział VII Zmiany w przepisach, przepisy przejściowe, dostosowujące i końcowe
 
 #### Rozdział 1 Zmiany w przepisach
+
+**Art. 360.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2022 r. poz. 1510) w art. 304 § 5 otrzymuje brzmienie: „
+
+§ 5. Minister Obrony Narodowej – w stosunku do żołnierzy w czynnej służbie wojskowej oraz żołnierzy pełniących służbę w aktywnej rezerwie i w pasywnej rezerwie, a Minister Sprawiedliwości – w stosunku do osób przebywających w zakładach karnych, okręgowych ośrodkach wychowawczych, zakładach poprawczych lub w schroniskach dla nieletnich, w porozumieniu z ministrem właściwym do spraw pracy, określą, w drodze rozporządzeń, zakres stosowania do tych osób przepisów działu dziesiątego w razie wykonywania określonych zadań lub prac na terenie zakładu pracy lub w miejscu wyznaczonym przez pracodawcę, mając na uwadze bezpieczeństwo wykonywania tych zadań lub prac. ” .
+
+**Art. 361.** W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2021 r. poz. 1762 oraz z 2022 r. poz. 935 i 1116) wprowadza się następujące zmiany:
+
+- **1)** w art. 1: w ust. 1 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** okręgowych ośrodkach wychowawczych, zakładach poprawczych oraz schroniskach dla nieletnich działających na podstawie ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700); ” , w ust. 2 w pkt 1 lit. e otrzymuje brzmienie: „ organach sprawujących nadzór pedagogiczny nad okręgowymi ośrodkami wychowawczymi, zakładami poprawczymi, schroniskami dla nieletnich oraz szkołami przy zakładach karnych; ” ;
+    - **b)**
+    - **e)**
+
+- **2)** w art. 6a ust. 12 otrzymuje brzmienie: „
+
+12. Minister właściwy do spraw oświaty i wychowania, a w stosunku do nauczycieli szkół artystycznych, okręgowych ośrodków wychowawczych, zakładów poprawczych, schronisk dla nieletnich odpowiednio – minister właściwy do spraw kultury i ochrony dziedzictwa narodowego oraz Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw oświaty i wychowania, określą, w drodze rozporządzeń, tryb dokonywania oceny pracy nauczycieli, w tym nauczycieli zajmujących stanowiska kierownicze, szczegółowy zakres informacji zawartych w karcie oceny pracy, skład i sposób powoływania zespołu oceniającego oraz szczegółowy tryb postępowania odwoławczego, mając na uwadze konieczność zapewnienia odpowiedniego poziomu wykonywania pracy przez nauczycieli. ” ;
+
+- **3)** w art. 9g w ust. 6 pkt 3 otrzymuje brzmienie: „
+- **3)** organach sprawujących nadzór pedagogiczny nad okręgowymi ośrodkami wychowawczymi, zakładami poprawczymi, schroniskami dla nieletnich oraz szkołami przy zakładach karnych – Minister Sprawiedliwości; ” ;
+- **4)** w art. 17 ust. 2 otrzymuje brzmienie: „
+
+2. Nauczyciele mianowani lub dyplomowani zatrudnieni na stanowisku kuratora oświaty oraz nauczyciele przechodzący do pracy w urzędach administracji rządowej, kuratoriach oświaty, Centralnej Komisji Egzaminacyjnej, okręgowych komisjach egzaminacyjnych, specjalistycznej jednostce nadzoru oraz w organach sprawujących nadzór pedagogiczny nad okręgowymi ośrodkami wychowawczymi, zakładami poprawczymi oraz schroniskami dla nieletnich na stanowiska wymagające kwalifikacji pedagogicznych oraz nauczyciele, z którymi został nawiązany stosunek pracy na podstawie wyboru na okres pełnienia funkcji z wyboru, otrzymują urlop bezpłatny na czas zajmowania tych stanowisk lub pełnienia tych funkcji. ” ;
+
+- **5)** w art. 30 ust. 7a otrzymuje brzmienie: „
+
+7a. Minister Sprawiedliwości, uwzględniając co najmniej wysokość średniego wynagrodzenia nauczycieli, o których mowa w ust. 3, określi, w drodze rozporządzenia, dla nauczycieli poszczególnych stopni awansu zawodowego zatrudnionych w okręgowych ośrodkach wychowawczych, zakładach poprawczych, schroniskach dla nieletnich oraz szkołach przy zakładach karnych i aresztach śledczych wysokość stawek dodatków, o których mowa w ust. 1 pkt 2, oraz szczegółowe warunki przyznawania tych dodatków, z zastrzeżeniem art. 33, a także szczegółowe warunki obliczania i wypłacania wynagrodzenia za godziny ponadwymiarowe i godziny doraźnych zastępstw oraz wysokość i warunki wypłacania składników wynagrodzenia, o których mowa w ust. 1 pkt 4, o ile nie zostały one określone w przepisach ustawy lub w odrębnych przepisach, uwzględniając w szczególności specyfikę organizacji nauki, pracy wychowawczej i resocjalizacyjnej, a także specyfikę nauczania prowadzonego w warunkach izolacji. ” ;
+
+- **6)** w art. 32 ust. 2 otrzymuje brzmienie: „
+
+2. Do nauczycieli mianowanych i dyplomowanych zatrudnionych na stanowiskach, na których wymagane są kwalifikacje pedagogiczne, w specjalistycznych jednostkach nadzoru, o których mowa w art. 53 ust. 1–3 ustawy – Prawo oświatowe, oraz w organach sprawujących nadzór pedagogiczny nad okręgowymi ośrodkami wychowawczymi, zakładami poprawczymi, schroniskami dla nieletnich i szkołami przy zakładach karnych, w zakresie wynagrodzenia i innych świadczeń stosuje się odpowiednio przepisy ustawy, o której mowa w ust. 1. ” ;
+
+- **7)** w art. 42: w ust. 3 w tabeli: – w lp. 3 po wyrazach „szkolenia rzemieślniczego w” dodaje się wyrazy „okręgowych ośrodkach wychowawczych,”, – w lp. 8 w lit. c po wyrazach „szkolno-wychowawczych,” dodaje się wyrazy „okręgowych ośrodkach wychowawczych,”, ust. 7b otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+7b. Minister właściwy do spraw oświaty i wychowania, a w stosunku do nauczycieli zatrudnionych w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich – Minister Sprawiedliwości, określą, w drodze rozporządzeń, wykaz zajęć prowadzonych bezpośrednio z uczniami lub wychowankami albo na ich rzecz, o których mowa w ust. 2 pkt 1, przez nauczycieli, o których mowa w ust. 3 w tabeli w lp. 11 i ust. 7 pkt 3 lit. b, uwzględniając zróżnicowaną specyfikę szkół i placówek. ” ;
+
+- **8)** w art. 88 ust. 1 otrzymuje brzmienie: „
+
+1. Nauczyciele mający trzydziestoletni okres zatrudnienia, w tym 20 lat wykonywania pracy w szczególnym charakterze, zaś nauczyciele szkół, placówek, zakładów specjalnych oraz okręgowych ośrodków wychowawczych, zakładów poprawczych i schronisk dla nieletnich – dwudziestopięcioletni okres zatrudnienia, w tym 20 lat wykonywania pracy w szczególnym charakterze w szkolnictwie specjalnym, mogą – po rozwiązaniu na swój wniosek stosunku pracy – przejść na emeryturę. ” ;
+
+- **9)** w art. 91a w ust. 1 pkt 2 otrzymuje brzmienie: „
+- **2)** specjalistycznej jednostce nadzoru oraz w organach sprawujących nadzór pedagogiczny nad okręgowymi ośrodkami wychowawczymi, zakładami poprawczymi, schroniskami dla nieletnich oraz szkołami przy zakładach karnych na stanowiskach wymagających kwalifikacji pedagogicznych przysługują uprawnienia wynikające z art. 9a-9i, art. 51, art. 63, art. 86, art. 88 i art. 90. ” .
+
+**Art. 362.** W ustawie z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2021 r. poz. 1119 i 2469 oraz z 2022 r. poz. 24 i 218) art. 37 otrzymuje brzmienie: „ 1. W okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich prowadzi się leczenie odwykowe nieletnich uzależnionych od alkoholu dostępnymi metodami i środkami, zgodnie ze wskazaniami aktualnej wiedzy, przez osoby legitymujące się posiadaniem fachowych kwalifikacji do ich stosowania oraz działania związane z profilaktyką i rozwiązywaniem problemów alkoholowych. 2. Nieletni uzależnieni od alkoholu umieszczeni w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich, mają obowiązek poddania się zarządzonemu leczeniu odwykowemu. 3. Leczenie odwykowe, o którym mowa w ust. 2, zarządza dyrektor okręgowego ośrodka wychowawczego, zakładu poprawczego lub schroniska dla nieletnich w stosunku do małoletniego za zgodą przedstawiciela ustawowego, a w razie jej braku, jak również w stosunku do osoby pełnoletniej – za zezwoleniem sądu wykonującego orzeczenie, wydanym po zasięgnięciu opinii biegłego. ” .
+
+**Art. 363.** W ustawie z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich (Dz. U. z 2018 r. poz. 969) w art. 95 uchyla się § 2.
+
+**Art. 364.** W ustawie z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2021 r. poz. 195 oraz z 2022 r. poz. 655) art. 21 otrzymuje brzmienie: „ Minister właściwy do spraw zdrowia w porozumieniu z Ministrem Sprawiedliwości określi, w drodze rozporządzenia, tryb i sposób wykonywania zadań przez państwowych inspektorów sanitarnych w odniesieniu do zakładów karnych, aresztów śledczych, okręgowych ośrodków wychowawczych, zakładów poprawczych oraz schronisk dla nieletnich, podległych Ministrowi Sprawiedliwości, mając na względzie specyfikę tych podmiotów oraz konieczność zapewnienia właściwej realizacji zadań z zakresu zdrowia publicznego. ” .
+
+**Art. 365.** W ustawie z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania (Dz. U. z 2022 r. poz. 1435) w art. 4 w ust. 1 pkt 3 otrzymuje brzmienie: „
+
+- **3)** przebywającym w zakładach karnych, zakładach poprawczych, okręgowych ośrodkach wychowawczych, młodzieżowych ośrodkach wychowawczych, aresztach śledczych oraz schroniskach dla nieletnich. ” .
+
+**Art. 366.** W ustawie z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz. U. z 2019 r. poz. 1347) w art. 32 ust. 3 otrzymuje brzmienie: „ 3. Nieletnim przebywającym w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich zapewnia się możliwość wykonywania praktyk religijnych, korzystania z katechizacji i posług religijnych, uczestniczenia we Mszy św. w niedziele i święta. Nieletnim, którzy nie mogą uczestniczyć we Mszy św., należy zapewnić możność wysłuchania Mszy św. transmitowanej przez środki masowego przekazywania. ” .
+
+**Art. 367.** W ustawie z dnia 4 lipca 1991 r. o stosunku Państwa do Polskiego Autokefalicznego Kościoła Prawosławnego (Dz. U. z 2014 r. poz. 1726) w art. 28 ust. 3 otrzymuje brzmienie: „ 3. Nieletnim przebywającym w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich zapewnia się możliwość wykonywania praktyk religijnych, korzystania z katechizacji i posług religijnych, uczestniczenia w Liturgii Świętej w niedziele i święta prawosławne. Nieletnim, którzy nie mogą uczestniczyć w Liturgii Świętej, należy zapewnić, w miarę potrzeby, w oddzielnych pomieszczeniach, możliwość wysłuchania nabożeństw transmitowanych przez środki masowego przekazywania. ” .
+
+**Art. 368.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2021 r. poz. 1915 oraz z 2022 r. poz. 583 i 1116) wprowadza się następujące zmiany:
+
+- **1)** w art. 44h ust. 5 otrzymuje brzmienie: „
+
+5. W szkole w okręgowym ośrodku wychowawczym, zakładzie poprawczym i schronisku dla nieletnich śródroczną i roczną ocenę klasyfikacyjną zachowania ustala wychowawca oddziału po zasięgnięciu opinii nauczycieli i wychowawców odpowiednio okręgowego ośrodka wychowawczego, zakładu poprawczego lub schroniska dla nieletnich. ” ;
+
+- **2)** w art. 44o ust. 6 otrzymuje brzmienie: „
+
+6. Uczeń szkoły podstawowej, w tym szkoły podstawowej w okręgowym ośrodku wychowawczym, zakładzie poprawczym lub schronisku dla nieletnich, który posiada orzeczenie o potrzebie kształcenia specjalnego i ma opóźnienie w realizacji programu nauczania co najmniej jednej klasy, a który w szkole podstawowej uzyskuje ze wszystkich obowiązkowych zajęć edukacyjnych oraz zajęć z języka mniejszości narodowej, mniejszości etnicznej lub języka regionalnego oceny uznane za pozytywne w ramach wewnątrzszkolnego oceniania oraz rokuje opanowanie w jednym roku szkolnym treści nauczania przewidzianych w programie nauczania dwóch klas, może być promowany do klasy programowo wyższej również w ciągu roku szkolnego. ” .
+
+**Art. 369.** W ustawie z dnia 13 maja 1994 r. o stosunku Państwa do Kościoła Ewangelicko-Augsburskiego w Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 43) w art. 23 ust. 3 otrzymuje brzmienie: „ 3. Nieletnim wyznania ewangelicko-augsburskiego, przebywającym w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich, zapewnia się możliwość wykonywania praktyk religijnych, korzystania z opieki duszpasterskiej oraz uczestniczenia w nabożeństwach w niedziele i święta ewangelickie. Nieletnim, którzy nie mają możliwości uczestniczenia w nabożeństwach na terenie ośrodków, zakładów lub schronisk, należy zapewnić wysłuchanie nabożeństw transmitowanych przez środki masowego przekazu. ” .
+
+**Art. 370.** W ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2020 r. poz. 685 oraz z 2022 r. poz. 974) art. 19 otrzymuje brzmienie: „ Przewidziane w innych ustawach badanie stanu psychicznego osoby, przeprowadzane na żądanie sądu, prokuratora lub innego uprawnionego organu, powinno się odbywać w podmiotach leczniczych udzielających świadczeń zdrowotnych w zakresie psychiatrycznej opieki zdrowotnej. W razie potrzeby badanie to może być przeprowadzone w opiniodawczych zespołach sądowych specjalistów, a wyjątkowo także w miejscu zamieszkania osoby badanej. ” .
+
+**Art. 371.** W ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Polskokatolickiego w Rzeczypospolitej Polskiej (Dz. U. z 2014 r. poz. 1599) w art. 17 ust. 1 otrzymuje brzmienie: „ 1. Prawo wykonywania praktyk religijnych i korzystania z opieki duszpasterskiej zapewnia się też osobom przebywającym w podmiotach leczniczych wykonujących działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne w rozumieniu przepisów o działalności leczniczej oraz w domach pomocy społecznej, a także osobom tymczasowo aresztowanym, skazanym oraz nieletnim przebywającym w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich. ” .
+
+**Art. 372.** W ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Ewangelicko-Metodystycznego w Rzeczypospolitej Polskiej (Dz. U. z 2014 r. poz. 1712) w art. 20 ust. 1 otrzymuje brzmienie: „ 1. Prawo wykonywania praktyk religijnych i korzystania z opieki duszpasterskiej zapewnia się też osobom przebywającym w podmiotach leczniczych wykonujących działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne w rozumieniu przepisów o działalności leczniczej oraz domach pomocy społecznej, a także osobom tymczasowo aresztowanym, skazanym oraz nieletnim przebywającym w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich. ” .
+
+**Art. 373.** W ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Adwentystów Dnia Siódmego w Rzeczypospolitej Polskiej (Dz. U. z 2014 r. poz. 1889) w art. 18:
+
+- **1)** ust. 1 i 2 otrzymują brzmienie: „
+
+1. Wiernym przebywającym w szpitalach i sanatoriach, w domach pomocy społecznej i w zakładach karnych oraz osobom tymczasowo aresztowanym i nieletnim przebywającym w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich – zapewnia się prawo do wykonywania praktyk religijnych, w tym udział w nabożeństwach i innych praktykach religijnych oraz w nauczaniu kościelnym i spotkaniach o charakterze wychowawczo-religijnym z osobami duchownymi lub świeckimi tego wyznania, a także świętowania soboty i przestrzegania zasad dietetycznych, oraz umożliwia się umieszczanie symboli religijnych, uwzględniających potrzeby religijne wiernych.
+
+2. Przepis ust. 1 ma również zastosowanie do dzieci i młodzieży korzystających z zorganizowanych form wypoczynku. Organizatorzy zorganizowanego wypoczynku dla dzieci i młodzieży zapewniają prawo do wykonywania praktyk religijnych, o których mowa w ust. 1, na życzenie rodzica lub opiekuna prawnego dziecka uczestniczącego w tym wypoczynku albo pełnoletniego uczestnika tego wypoczynku. ” ;
+
+- **2)** uchyla się ust. 5.
+
+**Art. 374.** W ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 169) w art. 20 ust. 3 otrzymuje brzmienie: „ 3. Nieletnim przebywającym w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich zapewnia się możliwość wykonywania praktyk religijnych, korzystania z katechizacji i posług religijnych, uczestniczenia w nabożeństwach w niedziele i święta. Nieletnim, którzy nie mają możliwości uczestniczenia w nabożeństwach, należy zapewnić możliwość wysłuchania nabożeństwa transmitowanego przez środki masowego przekazu. ” .
+
+**Art. 375.** W ustawie z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Katolickiego Mariawitów w Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 44) w art. 15 ust. 1 otrzymuje brzmienie: „ 1. Wiernym przebywającym w podmiotach leczniczych wykonujących działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne w rozumieniu przepisów o działalności leczniczej, w zakładach wychowawczo-opiekuńczych, okręgowych ośrodkach wychowawczych, zakładach poprawczych, schroniskach dla nieletnich i zakładach karnych oraz osobom tymczasowo aresztowanym zapewnia się prawo do wykonywania praktyk religijnych oraz korzystania z posług religijnych. ” .
+
+**Art. 376.** W ustawie z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Starokatolickiego Mariawitów w Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 14) w art. 16 ust. 1 otrzymuje brzmienie: „ 1. Wiernym przebywającym w podmiotach leczniczych wykonujących działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne w rozumieniu przepisów o działalności leczniczej, w zakładach wychowawczo-opiekuńczych, okręgowych ośrodkach wychowawczych, zakładach poprawczych, schroniskach dla nieletnich i zakładach karnych oraz osobom tymczasowo aresztowanym zapewnia się prawo do wykonywania praktyk religijnych oraz korzystania z posług religijnych. ” .
+
+**Art. 377.** W ustawie z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. z 2019 r. poz. 1479) w art. 26 ust. 1 otrzymuje brzmienie: „ 1. W celu zapewnienia obsługi bibliotecznej specjalnych grup użytkowników prowadzone są biblioteki w podmiotach leczniczych w rozumieniu przepisów o działalności leczniczej, w domach pomocy społecznej, w zakładach karnych, okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich, a także w jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej i ministrowi właściwemu do spraw wewnętrznych. ” .
+
+**Art. 378.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2021 r. poz. 573 i 1981 oraz z 2022 r. poz. 558) w art. 6 w ust. 3 pkt 3 otrzymuje brzmienie: „
+
+- **3)** przebywających w zakładach karnych, okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich; ” .
+
+**Art. 379.** W ustawie z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym (Dz. U. z 2021 r. poz. 1709) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 w ust. 2 pkt 6 otrzymuje brzmienie: „
+- **6)** nieletnich, wobec których prawomocnie orzeczono środki wychowawcze, środek leczniczy lub środek poprawczy na podstawie ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700); ” ;
+- **2)** w art. 12: w ust. 1 pkt 6 otrzymuje brzmienie: „
+    - **a)**
+
+- **6)** informacje o orzeczonych karach, warunkowym umorzeniu postępowania, środkach karnych, kompensacyjnych, zabezpieczających, wychowawczych, środku leczniczym, środku poprawczym, przepadku, okresie próby, dozorze kuratora i nałożonych obowiązkach oraz podstawę prawną ich orzeczenia; ” , w ust. 2: – pkt 18–20 otrzymują brzmienie: „ 18) odwołaniu warunkowego zawieszenia umieszczenia w zakładzie poprawczym i zarządzeniu umieszczenia w zakładzie poprawczym; 19) warunkowym zwolnieniu z zakładu poprawczego, a także odwołaniu warunkowego zwolnienia z zakładu poprawczego i zarządzeniu umieszczenia w zakładzie poprawczym; 20) warunkowym odstąpieniu od wykonania orzeczenia o umieszczeniu w zakładzie poprawczym, a także odwołaniu warunkowego odstąpienia od wykonania orzeczenia o umieszczeniu w zakładzie poprawczym i zarządzeniu umieszczenia w zakładzie poprawczym; ” , – uchyla się pkt 20a, – po pkt 20a dodaje się pkt 20b-20d w brzmieniu: „ 20b) zastosowaniu środka wychowawczego, o którym mowa w art. 7 pkt 2 lub 5 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich, wobec nieletniego zwalnianego z zakładu poprawczego po ukończeniu 21 lat; 20c) przedłużeniu wykonywania środka poprawczego wobec nieletniego, który ukończył 21 lat; 20d) zastosowaniu środka wychowawczego, o którym mowa w art. 7 pkt 2 lub 5 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich, wobec nieletniego zwalnianego z zakładu poprawczego po ukończeniu 24 lat; ” , – pkt 21 i 22 otrzymują brzmienie: „ 21) zmianie albo uchyleniu środka wychowawczego; 22) odroczeniu albo przerwaniu wykonywania środków wychowawczych lub środka poprawczego, a także odwołaniu odroczenia albo przerwy; ” , – pkt 25 otrzymuje brzmienie: „ 25) powołaniu nieletniego do obowiązkowej zasadniczej służby wojskowej lub służby zastępczej; ” , – po pkt 25 dodaje się pkt 25a i 25b w brzmieniu: „ 25a) zwolnieniu z zakładu leczniczego oraz o zastosowaniu środka wychowawczego; 25b) przerwaniu wykonywania środka wychowawczego lub poprawczego i zastosowaniu środka leczniczego; ” , ust. 2c otrzymuje brzmienie: „
+    - **b)**
+    - **c)**
+
+2c. Informacja o zastosowaniu późniejszych środków przekazywana organom centralnym państw członkowskich Unii Europejskiej zawiera dane określone w ust. 1 pkt 1–6b oraz w ust. 2 pkt 4–6, 8–12, 14, 15, 17 i 26–33 oraz dane o uchyleniu, zakończeniu lub wykonaniu środków zabezpieczających. Dane określone w ust. 2 pkt 18–25b umieszcza się w informacji, jeżeli środek wychowawczy, leczniczy lub poprawczy został orzeczony przez sąd karny. ” ;
+
+- **3)** w art. 12a ust. 1 otrzymuje brzmienie: „
+
+1. Przy przekazywaniu za pośrednictwem systemu ECRIS informacji dotyczących kwalifikacji prawnej czynu zabronionego przyjętej w orzeczeniu oraz orzeczonych kar i środków karnych, jak również środków zabezpieczających, kompensacyjnych i przepadku, środków wychowawczych, leczniczych i poprawczych stosuje się kod odpowiadający tym kwalifikacjom i karom oraz środkom karnym, kompensacyjnym i przepadkowi, jak również środkom zabezpieczającym, wychowawczym, leczniczym i poprawczym. ” ;
+
+- **4)** w art. 13 pkt 2 otrzymuje brzmienie: „
+- **2)** kart rejestracyjnych i zawiadomień, zawierających informacje o nieletnich, w rozumieniu przepisów ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich; ” ;
+- **5)** w art. 14 w ust. 2: w pkt 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ po ukończeniu 18. roku życia przez nieletniego, wobec którego wykonywane były środki wychowawcze lub środek leczniczy, z wyjątkiem przypadków, gdy: ” , – lit. b otrzymuje brzmienie: „ b) wykonanie środka wychowawczego ustało z mocy prawa po ukończeniu przez nieletniego 19. roku życia lub 21. roku życia albo z chwilą powołania nieletniego do obowiązkowej zasadniczej służby wojskowej lub służby zastępczej, ” , – dodaje się lit. c i d w brzmieniu: „ c) wykonanie środka wychowawczego, o którym mowa w art. 7 pkt 2 lub 5 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich, po ukończeniu przez nieletniego 21 lat ustało z mocy prawa z chwilą ukończenia przez nieletniego wieku, do którego sąd rodzinny orzekł o wykonywaniu tego środka, d) wykonanie środka wychowawczego, o którym mowa w art. 7 pkt 2 lub 5 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich, po ukończeniu przez nieletniego 24 lat ustało z mocy prawa z chwilą ukończenia przez nieletniego 25 lat; ” , pkt 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **2)** po upływie terminów określonych w art. 16 ust. 6, art. 96, art. 235 ust. 6 i art. 237 ust. 6 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich. ” , uchyla się pkt 3 i 4.
+    - **c)**
+
+**Art. 380.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2021 r. poz. 2268 i 2270 oraz z 2022 r. poz. 1, 66, 1079 i 1692) wprowadza się następujące zmiany:
+
+- **1)** w art. 19 pkt 6 i 7 otrzymują brzmienie: „
+- **6)** przyznawanie pomocy pieniężnej na usamodzielnienie oraz na kontynuowanie nauki osobom opuszczającym domy pomocy społecznej dla dzieci i młodzieży niepełnosprawnych intelektualnie, domy dla matek z małoletnimi dziećmi i kobiet w ciąży oraz okręgowe ośrodki wychowawcze, zakłady poprawcze, schroniska dla nieletnich, specjalne ośrodki szkolno-wychowawcze, specjalne ośrodki wychowawcze, młodzieżowe ośrodki socjoterapii zapewniające całodobową opiekę lub młodzieżowe ośrodki wychowawcze;
+- **7)** pomoc w integracji ze środowiskiem osób mających trudności w przystosowaniu się do życia, młodzieży opuszczającej domy pomocy społecznej dla dzieci i młodzieży niepełnosprawnych intelektualnie, domy dla matek z małoletnimi dziećmi i kobiet w ciąży oraz okręgowe ośrodki wychowawcze, zakłady poprawcze, schroniska dla nieletnich, specjalne ośrodki szkolno-wychowawcze, specjalne ośrodki wychowawcze, młodzieżowe ośrodki socjoterapii zapewniające całodobową opiekę lub młodzieżowe ośrodki wychowawcze, mających braki w przystosowaniu się; ” ;
+- **2)** w art. 53 ust. 1 otrzymuje brzmienie: „
+
+1. Osobie pełnoletniej, która ze względu na trudną sytuację życiową, wiek, niepełnosprawność lub chorobę potrzebuje wsparcia w funkcjonowaniu w codziennym życiu, ale nie wymaga usług w zakresie świadczonym przez jednostkę całodobowej opieki, w szczególności osobie z zaburzeniami psychicznymi, osobie opuszczającej pieczę zastępczą w rozumieniu przepisów o wspieraniu rodziny i systemie pieczy zastępczej, młodzieżowy ośrodek wychowawczy, okręgowy ośrodek wychowawczy, zakład poprawczy, schronisko dla nieletnich, a także cudzoziemcowi, który uzyskał w Rzeczypospolitej Polskiej status uchodźcy, ochronę uzupełniającą lub zezwolenie na pobyt czasowy udzielone w związku z okolicznością, o której mowa w art. 159 ust. 1 pkt 1 lit. c lub d ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, może być przyznane wsparcie w mieszkaniu chronionym. ” ;
+
+- **3)** w art. 88: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Osoba pełnoletnia opuszczająca dom pomocy społecznej dla dzieci i młodzieży niepełnosprawnych intelektualnie, dom dla matek z małoletnimi dziećmi i kobiet w ciąży oraz okręgowy ośrodek wychowawczy, zakład poprawczy, schronisko dla nieletnich, specjalny ośrodek szkolno-wychowawczy, specjalny ośrodek wychowawczy, młodzieżowy ośrodek socjoterapii zapewniający całodobową opiekę i młodzieżowy ośrodek wychowawczy, zwana dalej „osobą usamodzielnianą”, zostaje objęta pomocą mającą na celu jej życiowe usamodzielnienie i integrację ze środowiskiem przez pracę socjalną, a także pomocą: ” , ust. 3 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+3. Pomoc pieniężna na usamodzielnienie i pomoc pieniężna na kontynuowanie nauki przysługuje osobie, która przebywała w domu pomocy społecznej, okręgowym ośrodku wychowawczym, zakładzie poprawczym, schronisku dla nieletnich, specjalnym ośrodku szkolno-wychowawczym, specjalnym ośrodku wychowawczym, młodzieżowym ośrodku socjoterapii zapewniającym całodobową opiekę albo młodzieżowym ośrodku wychowawczym co najmniej rok. ” , ust. 5 otrzymuje brzmienie: „
+
+- **c)**
+
+5. Pomoc, o której mowa w ust. 1, przysługuje osobie opuszczającej dom dla matek z małoletnimi dziećmi i kobiet w ciąży, jeżeli bezpośrednio przed przyjęciem do takiego domu przebywała co najmniej rok w rodzinie zastępczej, rodzinnym domu dziecka, placówce opiekuńczo-wychowawczej, regionalnej placówce opiekuńczo-terapeutycznej, w domu pomocy społecznej, w okręgowym ośrodku wychowawczym, w zakładzie poprawczym, w schronisku dla nieletnich, w specjalnym ośrodku szkolno-wychowawczym, w specjalnym ośrodku wychowawczym, w młodzieżowym ośrodku socjoterapii zapewniającym całodobową opiekę albo w młodzieżowym ośrodku wychowawczym. ” , ust. 7 otrzymuje brzmienie: „
+
+- **d)**
+
+7. W realizacji indywidualnego programu usamodzielnienia osobę usamodzielnianą wspiera opiekun usamodzielnienia, którym może być pracownik socjalny powiatowego centrum pomocy rodzinie, wychowawca, psycholog lub pracownik socjalny domu pomocy społecznej, okręgowego ośrodka wychowawczego, zakładu poprawczego, schroniska dla nieletnich, specjalnego ośrodka szkolno-wychowawczego, specjalnego ośrodka wychowawczego, młodzieżowego ośrodka socjoterapii zapewniającego całodobową opiekę, młodzieżowego ośrodka wychowawczego, albo inna osoba wskazana przez osobę usamodzielnianą. ” ;
+
+- **4)** w art. 89 w ust. 7 pkt 2 otrzymuje brzmienie: „
+- **2)** osoba usamodzielniana przed osiągnięciem pełnoletności opuściła samowolnie dom pomocy społecznej dla dzieci i młodzieży niepełnosprawnych intelektualnie, dom dla matek z małoletnimi dziećmi i kobiet w ciąży lub okręgowy ośrodek wychowawczy, zakład poprawczy, schronisko dla nieletnich, specjalny ośrodek szkolno-wychowawczy, specjalny ośrodek wychowawczy, młodzieżowy ośrodek socjoterapii zapewniający całodobową opiekę lub młodzieżowy ośrodek wychowawczy; ” .
+
+**Art. 381.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** art. 29 i art. 30 otrzymują brzmienie: „ Świadczeniobiorca ma prawo wyboru świadczeniodawcy udzielającego ambulatoryjnych świadczeń specjalistycznych spośród tych świadczeniodawców, którzy zawarli umowy o udzielanie świadczeń opieki zdrowotnej, z zastrzeżeniem art. 325 i art. 599 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, art. 153 ust. 7a ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2022 r. poz. 1061 i 1115), art. 115 § 1a Kodeksu karnego wykonawczego i art. 112 ust. 1 i 2 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700). Świadczeniobiorca ma prawo wyboru szpitala spośród szpitali, które zawarły umowę o udzielanie świadczeń opieki zdrowotnej, z zastrzeżeniem art. 325 i art. 599 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, art. 153 ust. 7a ustawy z dnia 12 października 1990 r. o Straży Granicznej, art. 115 § 1a Kodeksu karnego wykonawczego i art. 112 ust. 1 i 2 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich. ” ;
+- **2)** w art. 31 ust. 1 otrzymuje brzmienie: „
+
+1. Świadczeniobiorca ma prawo wyboru lekarza dentysty spośród lekarzy dentystów, którzy zawarli umowę o udzielanie świadczeń opieki zdrowotnej, z zastrzeżeniem art. 325 i art. 599 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, art. 153 ust. 7a ustawy z dnia 12 października 1990 r. o Straży Granicznej, art. 115 § 1a Kodeksu karnego wykonawczego i art. 112 ust. 1 i 2 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich. ” ;
+
+- **3)** po art. 41a dodaje się art. 41b w brzmieniu: „ Zabezpieczenie transportu sanitarnego, o którym mowa w art. 218 ust. 2 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich, przysługuje bezpłatnie w związku z realizacją świadczenia gwarantowanego w określonym zakładzie leczniczym, o którym mowa w art. 8 tej ustawy. ” .
+
+**Art. 382.** W ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2020 r. poz. 2050, z 2021 r. poz. 2469 oraz z 2022 r. poz. 763 i 764) wprowadza się następujące zmiany:
+
+- **1)** w art. 5 w ust. 2 pkt 6 otrzymuje brzmienie: „
+- **6)** jednostki organizacyjne Służby Więziennej oraz okręgowe ośrodki wychowawcze, zakłady poprawcze i schroniska dla nieletnich; ” ;
+- **2)** w art. 29: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. W okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich oraz jednostkach organizacyjnych Służby Więziennej prowadzi się leczenie, rehabilitację i reintegrację osób uzależnionych umieszczonych w tych jednostkach. ” , po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
+
+- **b)**
+
+1a. Nieletni uzależnieni umieszczeni w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich, mają obowiązek poddania się zarządzonemu leczeniu i rehabilitacji.
+
+1b. Leczenie i rehabilitację, o których mowa w ust. 1a, zarządza dyrektor okręgowego ośrodka wychowawczego, zakładu poprawczego lub schroniska dla nieletnich w stosunku do małoletniego za zgodą przedstawiciela ustawowego, a w razie jej braku, jak również w stosunku do osoby pełnoletniej – za zezwoleniem sądu wykonującego orzeczenie, wydanym po zasięgnięciu opinii biegłego. ” , w ust. 2 pkt 1 otrzymuje brzmienie: „
+
+- **c)**
+- **1)** okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich, ” .
+
+**Art. 383.** W ustawie z dnia 19 grudnia 2008 r. o emeryturach pomostowych (Dz. U. z 2022 r. poz. 1340) w załączniku nr 2 lp. 21 otrzymuje brzmienie: „ Prace nauczycieli, wychowawców i innych pracowników pedagogicznych zatrudnionych w młodzieżowych ośrodkach wychowawczych, młodzieżowych ośrodkach socjoterapii, ośrodkach szkolno-wychowawczych, okręgowych ośrodkach wychowawczych, schroniskach dla nieletnich oraz zakładach poprawczych, zgodnie z przepisami ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700). ” .
+
+**Art. 384.** W ustawie z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych (Dz. U. z 2022 r. poz. 1466) wprowadza się następujące zmiany:
+
+- **1)** w art. 15 w ust. 3 w pkt 1 lit. b otrzymuje brzmienie: „ zobowiązujące do powstrzymania się od przebywania w miejscach przeprowadzania imprez masowych, wydane przez sąd wobec skazanego w związku z warunkowym zawieszeniem wykonania kary pozbawienia wolności albo wobec nieletniego na podstawie art. 7 pkt 2 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700); ” ;
+    - **b)**
+
+- **2)** w art. 22 w ust. 1 w pkt 1 w lit. a tiret drugie otrzymuje brzmienie: „ – zobowiązujące do powstrzymania się od przebywania w miejscach przeprowadzania imprez masowych, wydane przez sąd wobec skazanego w związku z warunkowym zawieszeniem wykonania kary pozbawienia wolności albo wobec nieletniego na podstawie art. 7 pkt 2 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich, ” .
+
+**Art. 385.** W ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2022 r. poz. 868 i 1116) wprowadza się następujące zmiany:
+
+- **1)** w art. 5a: w ust. 1: – pkt 4 otrzymuje brzmienie: „ 4) szkół w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich ” , – część wspólna otrzymuje brzmienie: „ – do bazy danych SIO są przekazywane dane przez odpowiednio szkołę, placówkę oświatową, zespół, okręgowy ośrodek wychowawczy, zakład poprawczy albo schronisko dla nieletnich. ” , w ust. 2 pkt 3 i 4 otrzymują brzmienie: „
+    - **a)**
+    - **b)**
+
+- **3)** poszczególnych szkół i placówek oświatowych połączonych w zespół, okręgowych ośrodków wychowawczych, zakładów poprawczych i schronisk dla nieletnich oraz szkół w tych ośrodkach, zakładach i schroniskach;
+- **4)** danych wspólnych dla odpowiednio szkoły i placówki oświatowej oraz jej filii, placówki, o której mowa w ust. 1 pkt 2, i szkoły wchodzącej w skład placówki, szkół i placówek oświatowych połączonych w zespół oraz okręgowych ośrodków wychowawczych, zakładów poprawczych i schronisk dla nieletnich oraz szkół w tych ośrodkach, zakładach i schroniskach. ” ;
+- **2)** w art. 7 w ust. 1: w pkt 7 lit. a otrzymuje brzmienie: „ szkoły lub placówki oświatowej wchodzącej w skład zespołu oraz szkoły wchodzącej w skład specjalnego ośrodka szkolno-wychowawczego, młodzieżowego ośrodka wychowawczego, młodzieżowego ośrodka socjoterapii, placówki kształcenia ustawicznego, okręgowego ośrodka wychowawczego, zakładu poprawczego lub schroniska dla nieletnich – także numer identyfikacyjny REGON odpowiednio zespołu, ośrodka, placówki, zakładu lub schroniska, ” , w pkt 13 w lit. h średnik zastępuje się przecinkiem i dodaje się lit. i w brzmieniu: „ w okręgowym ośrodku wychowawczym; ” ;
+    - **a)**
+    - **a)**
+    - **b)**
+    - **i)**
+
+- **3)** w art. 16: w pkt 5 część wspólna otrzymuje brzmienie: „ – zgodnie z przepisami wydanymi odpowiednio na podstawie art. 185 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700) oraz art. 123 ust. 1 pkt 1 i ust. 2 ustawy – Prawo oświatowe; ” , dodaje się pkt 6 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **6)** w przypadku nieletniej matki umieszczonej w młodzieżowym ośrodku wychowawczym: informację o umieszczeniu dziecka w domu dla matki i dziecka, datę urodzenia dziecka, datę rozpoczęcia i datę zakończenia przebywania dziecka w domu dla matki i dziecka zgodnie z przepisami wydanymi odpowiednio na podstawie art. 185 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich oraz art. 123 ust. 1 pkt 1 i ust. 2 ustawy – Prawo oświatowe. ” .
+    - **a)**
+    - **b)**
+    - **c)**
+
+**Art. 386.** W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2022 r. poz. 447) wprowadza się następujące zmiany:
+
+- **1)** w art. 11 ust. 1a otrzymuje brzmienie: „
+
+1a. W przypadku gdy rodzicem wychowującym dziecko jest małoletni opuszczający młodzieżowy ośrodek wychowawczy, młodzieżowy ośrodek socjoterapii, okręgowy ośrodek wychowawczy, schronisko dla nieletnich lub zakład poprawczy, pracownik socjalny ośrodka pomocy społecznej albo centrum usług społecznych przeprowadza u tego rodzica wywiad, o którym mowa w ust. 1, a następnie kierownik ośrodka pomocy społecznej albo dyrektor centrum usług społecznych przydziela temu rodzicowi asystenta rodziny. ” ;
+
+- **2)** art. 52 otrzymuje brzmienie: „ Minister właściwy do spraw rodziny określi, w drodze rozporządzenia, liczbę godzin szkoleń i zakres programowy szkoleń dla kandydatów do pełnienia funkcji rodziny zastępczej zawodowej, rodziny zastępczej niezawodowej lub prowadzenia rodzinnego domu dziecka oraz dla kandydatów na dyrektora placówki opiekuńczo-wychowawczej typu rodzinnego, biorąc pod uwagę możliwość umieszczenia dzieci na podstawie ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700) lub legitymujących się orzeczeniem o niepełnosprawności lub orzeczeniem o znacznym lub umiarkowanym stopniu niepełnosprawności oraz specyfikę zadań opiekuńczo – -wychowawczych dla poszczególnych form rodzinnej pieczy zastępczej, a także mając na uwadze konieczność zapewnienia odpowiedniego poziomu sprawowanej pieczy zastępczej. ” ;
+- **3)** w art. 54 w ust. 3 w pkt 7 lit. b otrzymuje brzmienie: „ dzieckiem umieszczonym na podstawie ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich, ” ;
+    - **b)**
+
+- **4)** w art. 59: w ust. 1 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** dzieci na podstawie ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich; ” , ust. 2 otrzymuje brzmienie: „
+    - **b)**
+
+2. W rodzinie zastępczej zawodowej specjalistycznej nie można w tym samym czasie umieścić dzieci legitymujących się orzeczeniem o niepełnosprawności lub orzeczeniem o znacznym lub umiarkowanym stopniu niepełnosprawności i dzieci na podstawie ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich. ” ;
+
+- **5)** w art. 81 w ust. 2 wyrazy „ustawy z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich” zastępuje się wyrazami „ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich”;
+- **6)** w art. 87 w ust. 2 w pkt 14 na końcu dodaje się przecinek i dodaje się pkt 15 w brzmieniu: „
+- **15)** okręgowym ośrodku wychowawczym ” ;
+- **7)** w art. 95 w ust. 3a w pkt 11 na końcu dodaje się przecinek i dodaje się pkt 12 w brzmieniu: „
+- **12)** okręgowym ośrodku wychowawczym ” ;
+- **8)** w art. 103 w ust. 4 pkt 1 i 2 otrzymują brzmienie: „
+- **1)** młodzieżowym ośrodkiem wychowawczym, okręgowym ośrodkiem wychowawczym, zakładem poprawczym, schroniskiem dla nieletnich, aresztem śledczym, zakładem karnym;
+- **2)** zakładem leczniczym, jeżeli pobyt w nim został orzeczony w trybie określonym w ustawie z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich. ” ;
+- **9)** w art. 141 w ust. 2 pkt 1 otrzymuje brzmienie: „
+- **1)** okresy pobytu w domu pomocy społecznej dla dzieci i młodzieży niepełnosprawnych intelektualnie, domu dla matek z małoletnimi dziećmi i kobiet w ciąży oraz w okręgowym ośrodku wychowawczym, zakładzie poprawczym, schronisku dla nieletnich, specjalnym ośrodku szkolno-wychowawczym, specjalnym ośrodku wychowawczym, młodzieżowym ośrodku socjoterapii, zapewniającym całodobową opiekę, i młodzieżowym ośrodku wychowawczym, jeżeli orzeczenie sądu o umieszczeniu w pieczy zastępczej nie zostało uchylone; ” ;
+- **10)** w art. 230 w ust. 2 w pkt 11 na końcu dodaje się przecinek i dodaje się pkt 12 w brzmieniu: „
+- **12)** okręgowym ośrodku wychowawczym ” .
+
+**Art. 387.** W ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2022 r. poz. 1416) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 w ust. 2 pkt 2 otrzymuje brzmienie: „
+- **2)** pracownicy zakładów poprawczych, schronisk dla nieletnich, okręgowych ośrodków wychowawczych lub młodzieżowych ośrodków wychowawczych. ” ;
+- **2)** w art. 4 w pkt 3 lit. a otrzymuje brzmienie: „ osób pobranych z zakładu karnego, aresztu śledczego, zakładu poprawczego, schroniska dla nieletnich, okręgowego ośrodka wychowawczego, młodzieżowego ośrodka wychowawczego lub policyjnej izby dziecka, ” ;
+    - **a)**
+
+- **3)** w art. 35 w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Decyzję o użyciu lub wykorzystaniu środków przymusu bezpośredniego przez uprawnionego będącego pracownikiem zakładu poprawczego, schroniska dla nieletnich, okręgowego ośrodka wychowawczego lub młodzieżowego ośrodka wychowawczego podejmuje: ” ;
+- **4)** art. 40 otrzymuje brzmienie: „
+
+1. O użyciu środków przymusu bezpośredniego wobec nieletniego umieszczonego w młodzieżowym ośrodku wychowawczym, okręgowym ośrodku wychowawczym, zakładzie poprawczym albo schronisku dla nieletnich dyrektor placówki niezwłocznie powiadamia sędziego rodzinnego sprawującego nadzór nad tą placówką, sąd rodzinny wykonujący środek wychowawczy albo środek poprawczy lub organ, do którego dyspozycji pozostaje nieletni umieszczony w schronisku dla nieletnich. Przepisu nie stosuje się do prewencyjnego użycia wobec nieletniego środków przymusu bezpośredniego.
+
+2. O użyciu środków przymusu bezpośredniego wobec nieletniego umieszczonego w policyjnej izbie dziecka kierownik izby powiadamia sąd rodzinny sprawujący nadzór nad wykonywaniem przez Policję lub Straż Graniczną czynności, o których mowa w art. 48, art. 50, art. 59 i art. 98 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), oraz sąd rodzinny, na obszarze właściwości którego znajduje się policyjna izba dziecka. ” ;
+
+- **5)** w art. 51 ust. 3 otrzymuje brzmienie: „
+
+3. W przypadku użycia środka przymusu bezpośredniego wobec nieletniego umieszczonego w zakładzie poprawczym, schronisku dla nieletnich, okręgowym ośrodku wychowawczym, młodzieżowym ośrodku wychowawczym lub policyjnej izbie dziecka uprawniony każdorazowo przekazuje przełożonemu notatkę, niezależnie od rodzaju i skutku użycia środka przymusu bezpośredniego. ” ;
+
+- **6)** w art. 52 po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+1a. Uprawniony, o którym mowa w art. 2 ust. 2 pkt 2, dokumentuje prewencyjne użycie środków przymusu bezpośredniego w księdze ewidencji prewencyjnego użycia środków przymusu bezpośredniego. Przepisów art. 51 ust. 1 i 3 nie stosuje się, chyba że skutkiem tego użycia było zranienie nieletniego lub wystąpienie innych widocznych objawów zagrożenia życia lub zdrowia tego nieletniego albo jego śmierć, albo zniszczenie mienia. ” .
+
+**Art. 388.** W ustawie z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym (Dz. U. z 2020 r. poz. 152) wprowadza się następujące zmiany:
+
+- **1)** w art. 6 w ust. 1 pkt 4 otrzymuje brzmienie: „
+- **4)** nieletnich, wobec których prawomocnie orzeczono środki wychowawcze, środek poprawczy lub środek leczniczy na podstawie ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700) w sprawach o czyny karalne, o których mowa w art. 2, z wyłączeniem art. 200 § 1 Kodeksu karnego ” ;
+- **2)** w art. 7 w ust. 1: pkt 7 otrzymuje brzmienie: „
+    - **a)**
+
+- **7)** informację o orzeczonych karach, warunkowym umorzeniu postępowania, środkach karnych, zabezpieczających, wychowawczych, środku poprawczym, środku leczniczym, okresie próby, dozorze kuratora, środkach kompensacyjnych, przepadku i nałożonych obowiązkach oraz podstawę prawną ich orzeczenia; ” , pkt 11–13 otrzymują brzmienie: „
+    - **b)**
+
+- **11)** informację o odwołaniu warunkowego zawieszenia umieszczenia w zakładzie poprawczym i zarządzeniu umieszczenia w zakładzie poprawczym;
+- **12)** informację o warunkowym zwolnieniu z zakładu poprawczego, a także odwołaniu warunkowego zwolnienia z zakładu poprawczego i zarządzeniu umieszczenia w zakładzie poprawczym;
+- **13)** informację o warunkowym odstąpieniu od wykonania orzeczenia o umieszczeniu w zakładzie poprawczym, a także odwołaniu warunkowego odstąpienia od wykonania orzeczenia o umieszczeniu w zakładzie poprawczym i zarządzeniu umieszczenia w zakładzie poprawczym; ” , po pkt 13 dodaje się pkt 13a-13c w brzmieniu: „
+    - **c)**
+
+- **13a)** informację o zastosowaniu środka wychowawczego, o którym mowa w art. 7 pkt 2 lub 5 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich, wobec nieletniego zwalnianego z zakładu poprawczego po ukończeniu 21 lat;
+- **13b)** informację o przedłużeniu wykonywania środka poprawczego wobec nieletniego, który ukończył 21 lat;
+- **13c)** informację o zastosowaniu środka wychowawczego, o którym mowa w art. 7 pkt 2 lub 5 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich, wobec nieletniego zwalnianego z zakładu poprawczego po ukończeniu 24 lat; ” , pkt 14 i 15 otrzymują brzmienie: „
+    - **d)**
+
+- **14)** informację o powołaniu nieletniego do obowiązkowej zasadniczej służby wojskowej lub służby zastępczej;
+- **15)** informację o zmianie albo uchyleniu środka wychowawczego; ” , dodaje się pkt 16 i 17 w brzmieniu: „
+    - **e)**
+
+- **16)** informację o zwolnieniu z zakładu leczniczego, o którym mowa w art. 8 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich, oraz o zastosowaniu środka wychowawczego;
+- **17)** informację o przerwaniu wykonywania środka wychowawczego lub poprawczego i zastosowaniu środka leczniczego. ” ;
+- **3)** w art. 11 w ust. 1 pkt 2 otrzymuje brzmienie: „
+- **2)** przebywająca w areszcie śledczym, zakładzie karnym, zakładzie psychiatrycznym, młodzieżowym ośrodku wychowawczym, okręgowym ośrodku wychowawczym, zakładzie leczniczym, o którym mowa w art. 8 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich, lub zakładzie poprawczym jest obowiązana do zgłoszenia osobie kierującej jednostką, w której przebywa, faktycznego adresu pobytu, pod którym będzie przebywała po opuszczeniu jednostki, najpóźniej w dniu opuszczenia tej jednostki; osoba kierująca jednostką niezwłocznie przekazuje informację o faktycznym adresie pobytu osoby ujętej w Rejestrze jednostce organizacyjnej Policji właściwej ze względu na miejsce tego pobytu. ” ;
+- **4)** w art. 18 w ust. 4: w pkt 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ ukończenia 18. roku życia przez nieletniego, wobec którego wykonywane były środki wychowawcze lub środek leczniczy, z wyjątkiem przypadków, gdy: ” , – lit. b otrzymuje brzmienie: „ b) wykonanie środka wychowawczego ustało z mocy prawa po ukończeniu przez nieletniego 19. roku życia lub 21. roku życia albo z chwilą powołania nieletniego do obowiązkowej zasadniczej służby wojskowej albo służby zastępczej, ” , – dodaje się lit. c i d w brzmieniu: „ c) wykonanie środka wychowawczego, o którym mowa w art. 7 pkt 2 lub 5 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich, po ukończeniu przez nieletniego 21 lat ustało z mocy prawa z chwilą ukończenia przez nieletniego wieku, do którego sąd rodzinny orzekł o wykonywaniu tego środka, d) wykonanie środka wychowawczego, o którym mowa w art. 7 pkt 2 lub 5 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich, po ukończeniu przez nieletniego 24 lat ustało z mocy prawa z chwilą ukończenia przez nieletniego 25 lat; ” , pkt 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **2)** upływu terminów określonych w art. 16 ust. 6, art. 96, art. 235 ust. 6 i art. 237 ust. 6 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich. ” , uchyla się pkt 3;
+    - **c)**
+
+- **5)** w art. 23 ust. 1 otrzymuje brzmienie: „
+
+1. Kto, będąc obowiązanym w związku z umieszczeniem danych w Rejestrze do zgłoszenia faktycznego adresu pobytu lub jego każdorazowej zmiany we właściwej jednostce organizacyjnej Policji lub właściwej osobie kierującej aresztem śledczym, zakładem karnym, zakładem psychiatrycznym, młodzieżowym ośrodkiem wychowawczym, okręgowym ośrodkiem wychowawczym, zakładem leczniczym, o którym mowa w art. 8 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich, lub zakładem poprawczym, nie wykonuje tego obowiązku, podlega karze aresztu, ograniczenia wolności albo grzywny nie niższej niż 1000 zł. ” .
+
+**Art. 389.** W ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2021 r. poz. 1082 oraz z 2022 r. poz. 655, 1079, 1116 i 1383) wprowadza się następujące zmiany:
+
+- **1)** w art. 8: ust. 12 otrzymuje brzmienie: „
+    - **a)**
+
+12. Minister Sprawiedliwości może zakładać i prowadzić publiczne szkoły i placówki w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich oraz publiczne szkoły i placówki przy zakładach karnych i aresztach śledczych. Szkoły i placówki przy zakładach karnych i aresztach śledczych działają w ramach ich struktury. ” , ust. 15 otrzymuje brzmienie: „
+
+- **b)**
+
+15. Zakładanie i prowadzenie publicznych przedszkoli, w tym z oddziałami integracyjnymi lub specjalnymi, przedszkoli integracyjnych i specjalnych oraz innych form wychowania przedszkolnego, o których mowa w art. 32 ust. 2, szkół podstawowych, w tym integracyjnych oraz z oddziałami integracyjnymi lub specjalnymi, z wyjątkiem szkół podstawowych specjalnych, szkół artystycznych oraz szkół przy zakładach karnych, szkół w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich, należy do zadań własnych gmin. ” ;
+
+- **2)** w art. 47 ust. 2 otrzymuje brzmienie: „
+
+2. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw oświaty i wychowania określi, w drodze rozporządzenia, organizację roku szkolnego w szkołach w okręgowych ośrodkach wychowawczych, w zakładach poprawczych i w schroniskach dla nieletnich, z uwzględnieniem w szczególności specyfiki organizacji pracy wychowawczej i resocjalizacyjnej w tych ośrodkach, zakładach i schroniskach oraz zapewnienia wykonywania orzeczeń sądowych. ” ;
+
+- **3)** art. 58 otrzymuje brzmienie: „ Organ prowadzący szkołę lub placówkę, a w zakresie działalności dydaktyczno-wychowawczej i opiekuńczej również organ sprawujący nadzór pedagogiczny, mogą ingerować w działalność szkoły lub placówki wyłącznie w zakresie i na zasadach określonych w ustawie. W przypadku szkół przy zakładach karnych ingerencja ta jest dopuszczalna również w zakresie realizacji celów wykonania kary pozbawienia wolności określonych w ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2021 r. poz. 53, 472, 1236 i 2054 oraz z 2022 r. poz. 22 i 655), a w przypadku szkół w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich – w zakresie realizacji celów określonych w ustawie z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700). ” ;
+- **4)** w art. 60 ust. 4 otrzymuje brzmienie: „
+
+4. Minister Sprawiedliwości i podporządkowane organy sprawują nadzór pedagogiczny nad okręgowymi ośrodkami wychowawczymi, zakładami poprawczymi i schroniskami dla nieletnich oraz nad szkołami w tych ośrodkach, zakładach i schroniskach, a także nad szkołami i placówkami przy zakładach karnych i aresztach śledczych, z wyjątkiem nadzoru nad nauczaniem przedmiotów ogólnokształcących, który sprawuje kurator oświaty. ” ;
+
+- **5)** w art. 88 ust. 3 otrzymuje brzmienie: „
+
+3. Nie ustala się obwodów szkołom specjalnym, szkołom integracyjnym, szkołom dwujęzycznym, szkołom dla mniejszości narodowych i etnicznych oraz społeczności posługujących się językiem regionalnym, szkołom sportowym, szkołom mistrzostwa sportowego, szkołom artystycznym, szkołom w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich oraz szkołom przy zakładach karnych i aresztach śledczych. ” ;
+
+- **6)** w art. 89 ust. 2 otrzymuje brzmienie: „
+
+2. Szkoła w okręgowym ośrodku wychowawczym, zakładzie poprawczym lub schronisku dla nieletnich oraz szkoła przy zakładzie karnym lub areszcie śledczym może być zlikwidowana w każdym czasie, po zapewnieniu uczniom możliwości kontynuowania nauki w innej szkole. ” ;
+
+- **7)** w art. 95 ust. 6 otrzymuje brzmienie: „
+
+6. W przypadku szkół podstawowych specjalnych funkcjonujących w młodzieżowych ośrodkach wychowawczych i młodzieżowych ośrodkach socjoterapii oraz szkół w okręgowych ośrodkach wychowawczych i w zakładach poprawczych mogą być tworzone szkoły obejmujące część klas szkoły podstawowej. Przepisów ust. 2–5 nie stosuje się. ” ;
+
+- **8)** w art. 96 ust. 7 otrzymuje brzmienie: „
+
+7. W szkołach ponadpodstawowych zorganizowanych w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich, działających w szczególnie trudnych warunkach demograficznych, dopuszcza się organizację nauczania w klasach łączonych. ” ;
+
+- **9)** w art. 108a dodaje się ust. 10 w brzmieniu: „
+
+10. Zasady monitorowania młodzieżowych ośrodków wychowawczych określają przepisy ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich. ” ;
+
+- **10)** w art. 123: w ust. 1 pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** rodzaje i szczegółowe zasady działania placówek publicznych, o których mowa w art. 2 pkt 3, 7 i 8, warunki pobytu dzieci i młodzieży w tych placówkach, a w przypadku młodzieżowych ośrodków wychowawczych – także warunki i tryb udzielania wychowankom urlopów i przepustek, warunki pobytu nieletnich matek i ich dzieci w tych ośrodkach oraz sposób dokumentowania pobytu nieletnich matek i ich dzieci w tych ośrodkach, oraz może określić wysokość i zasady odpłatności wnoszonej przez rodziców za pobyt ich dzieci w tych placówkach; ” , ust. 2 otrzymuje brzmienie: „
+    - **b)**
+
+2. Rozporządzenie, o którym mowa w ust. 1 pkt 1, powinno uwzględniać realizację przez placówki zadań i celów edukacyjnych, wychowawczych, rekreacyjnych oraz opiekuńczych i zapewnienie warunków bezpieczeństwa wychowanków, a w przypadku pobytu w młodzieżowych ośrodkach wychowawczych nieletnich matek i ich dzieci – również zapewnienie nieletniej wykonywania pieczy albo uczestniczenia w sprawowaniu bieżącej pieczy nad dzieckiem, zapewnienie specjalistycznej opieki dziecku i nieletniej oraz zabezpieczenie prawidłowego rozwoju dziecka, a także określi warunki i zasady działania wolontariuszy. ” ;
+
+- **11)** w art. 168 ust. 8 otrzymuje brzmienie: „
+
+8. Niepubliczny młodzieżowy ośrodek wychowawczy może zostać wpisany do ewidencji, jeżeli osoba zgłaszająca ten ośrodek do ewidencji przedstawi ponadto opinię organu odpowiedzialnego za wskazywanie ośrodka, do którego ma być skierowany nieletni, określonego w przepisach ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich, z której wynika, że istnieje zapotrzebowanie na miejsca w młodzieżowych ośrodkach wychowawczych. ” .
+
+**Art. 390.** W ustawie z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2021 r. poz. 1050 oraz z 2022 r. poz. 655) w art. 9 ust. 1 otrzymuje brzmienie: „ 1. Świadczeniobiorca ma prawo wyboru świadczeniodawcy, udzielającego świadczeń z zakresu podstawowej opieki zdrowotnej, spośród świadczeniodawców, którzy zawarli umowy o udzielanie świadczeń z zakresu podstawowej opieki zdrowotnej, z zastrzeżeniem art. 325 i art. 599 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655 i 974), art. 153 ust. 7a ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2022 r. poz. 1061 i 1115), art. 115 § 1a ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2021 r. poz. 53, 472, 1236 i 2054 oraz z 2022 r. poz. 22 i 655) i art. 112 ust. 1 i 2 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700). ” .
+
+**Art. 391.** W ustawie z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125) wprowadza się następujące zmiany:
+
+- **1)** w art. 3 pkt 1 otrzymuje brzmienie: „
+- **1)** znajdujących się w aktach spraw lub czynności lub urządzeniach ewidencyjnych, w tym tworzonych i przetwarzanych z wykorzystaniem technik informatycznych, prowadzonych na podstawie ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2021 r. poz. 53, 472, 1236 i 2054 oraz z 2022 r. poz. 22 i 655), ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375), ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2022 r. poz. 859 i 1301), ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124), ustawy z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób (Dz. U. z 2022 r. poz. 1689), ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2022 r. poz. 1247 i 1259), ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700); ” ;
+- **2)** w art. 26 w ust. 1 pkt 3 otrzymuje brzmienie: „
+- **3)** utrudnienie prowadzenia postępowania karnego, karnego wykonawczego, karnego skarbowego lub w sprawach o wykroczenia lub wykroczenia skarbowe, lub w sprawach, o których mowa w art. 359 ust. 1 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich; ” .
+
+**Art. 392.** W ustawie z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641) w art. 4 w ust. 1 pkt 6 otrzymuje brzmienie: „
+
+- **6)** podmiotów, o których mowa w art. 343 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), oraz zakładów karnych i aresztów śledczych, ” .
 
 #### Rozdział 2 Przepisy przejściowe i dostosowujące
 
 **Art. 393.** Zakłady poprawcze i schroniska dla nieletnich utworzone na podstawie przepisów dotychczasowych stają się zakładami poprawczymi i schroniskami dla nieletnich na podstawie niniejszej ustawy.
 
 **Art. 394.** Z dniem wejścia w życie niniejszej ustawy:
+
+- **1)** ośrodki kuratorskie utworzone na podstawie przepisów dotychczasowych stają się ośrodkami kuratorskimi na podstawie niniejszej ustawy;
+- **2)** policyjne izby dziecka utworzone na podstawie przepisów dotychczasowych stają się policyjnymi izbami dziecka na podstawie niniejszej ustawy;
+- **3)** schroniska dla nieletnich interwencyjne utworzone na podstawie przepisów dotychczasowych stają się schroniskami dla nieletnich o wzmożonym nadzorze wychowawczym.
 
 **Art. 395.**
 
@@ -3152,7 +3712,7 @@ Art. 360–392. (pominięte)
 
 **Art. 410.**
 
-1. Do placówki opiekuńczo-wychowawczej typu interwencyjnego, o której mowa w art. 103 ust. 1 ustawy zmienianej w art. 386 , nie może być przyjęte dziecko w trakcie samowolnego pobytu poza domem pomocy społecznej, jeżeli pobyt w tym domu został orzeczony przed dniem wejścia w życie niniejszej ustawy.
+1. Do placówki opiekuńczo-wychowawczej typu interwencyjnego, o której mowa w art. 103 ust. 1 ustawy zmienianej w art. 386, nie może być przyjęte dziecko w trakcie samowolnego pobytu poza domem pomocy społecznej, jeżeli pobyt w tym domu został orzeczony przed dniem wejścia w życie niniejszej ustawy.
 
 2. Przepis ust. 1 stosuje się odpowiednio do nieletnich, o których mowa w art. 398 ust. 1.
 
@@ -3166,13 +3726,5 @@ Art. 360–392. (pominięte)
 
 **Art. 413.** Do dnia powołania komisji do spraw środka leczniczego dla nieletnich kierowanie nieletnich do zakładów leczniczych odbywa się na zasadach dotychczasowych.
 
-**Art. 414.** Prezes Rady Ministrów może dokonywać, w drodze rozporządzenia, przeniesienia planowanych wydatków, w tym wynagrodzeń w ramach części 37 Sprawiedliwość z działu 801 Oświata i Wychowanie rozdziału 80144 Inne formy kształcenia osobno niewymienione do działu 755 Wymiar Sprawiedliwości rozdziału 75513 Zakłady dla nieletnich w celu zapewnienia prawidłowego funkcjonowania i efektywnego zarządzania jednostkami udzielającymi pomocy nieletnim i wdrażającymi wobec nich proces resocjalizacji.
-
-**Art. 415.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
-
-#### Rozdział 3 Przepisy końcowe
-
-**Art. 416.** Traci moc ustawa z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich (Dz. U. z 2018 r. poz. 969 oraz z 2022 r. poz. 1700).
-
-**Art. 417.** Ustawa wchodzi w życie z dniem 1 września 2022 r., z wyjątkiem art. 135 ust. 1 i 2, art. 186 ust. 1 i 2, art. 243 ust. 1, art. 321, art. 324–338 w zakresie okręgowych ośrodków wychowawczych, art. 340 w zakresie okręgowych ośrodków wychowawczych, art. 341 w zakresie okręgowych ośrodków wychowawczych, art. 343, art. 348 w zakresie okręgowych ośrodków wychowawczych, art. 361, art. 363, art. 385 pkt 1 i 2, art. 389 pkt 1 i 3–7, art. 393, art. 400, art. 401 ust. 2 i art. 415 pkt 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia .
+**Art. 414.**
 

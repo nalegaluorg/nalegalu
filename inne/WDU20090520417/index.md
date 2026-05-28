@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2008-11-06 |
 | Data wydania | 2009-03-31 |
+| Wejście w życie | 2009-05-21 |
 | Ostatnia zmiana | 2026-04-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090520417) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/417/text.pdf) |
 

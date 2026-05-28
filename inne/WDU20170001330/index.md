@@ -8,10 +8,10 @@ pos: 1330
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 lipca 2017 r.
+# Rozporządzenie Ministra Środowiskaz dnia 3 lipca 2017 r. w sprawie wysokości stawek opłat za usunięcie drzew i krzewów
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,33 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-03 |
 | Data wydania | 2017-07-06 |
+| Wejście w życie | 2017-07-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001330) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1330/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 3 lipca 2017 r.
-w sprawie wysokości stawek opłat za usunięcie drzew i krzewów Na podstawie art. 85 ust. 4b ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2016 r. poz. 2134, 2249 i 2260 oraz z 2017 r. poz. 60, 132 i 1074) zarządza się, co następuje: § 1. Rozporządzenie określa:
-1) wysokość stawek opłat dla poszczególnych rodzajów i gatunków drzew w zależności od obwodu pnia, stanowiącą załącznik nr 1 do rozporządzenia;
-2) wysokość stawek opłat dla poszczególnych rodzajów i gatunków krzewów w zależności od powierzchni krzewu albo krzewów rosnących w skupisku, stanowiącą załącznik nr 2 do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 17 lipca 2017 r.
-Minister Środowiska: J. Szyszko WYSOKOŚĆ STAWEK OPŁAT DLA POSZCZEGÓLNYCH RODZAJÓW I GATUNKÓW DRZEW W ZALEŻNOŚCI OD OBWODU PNIA Lp. Obwód pnia Stawki w zł za 1 cm obwodu pnia drzewa mierzonego drzewa w cm na wysokości 130 cm dla poszczególnych rodzajów i gatunków drzew mierzonego na wysokości 1 2 3 4 5 130 cm kasztanowiec zwyczajny, klon jesionolistny, klon srebrzysty, platan klonolistny, robinia akacjowa, topola, wierzba brzoza, czeremcha, czereśnia, daglezja, dąb czerwony, glediczja trójcierniowa, jesion, jodła z wyjątkiem jodły koreańskiej, kasztan jadalny, kasztanowiec pozostałe gatunki, klon czerwony, klon jawor, klon zwyczajny, lipa, metasekwoja chińska, modrzew, olcha, orzech, sofora chińska, sosna, sumak, świerk, wiąz, wiśnia z wyjątkiem ałyczy i wiśni wonnej, żywotnik olbrzymi ałycza, ambrowiec balsamiczny, buk pospolity, choina kanadyjska, cypryśnik błotny, dąb z wyjątkiem dębu czerwonego, grab pospolity, grusza, jabłoń, jarząb pospolity, klon polny, kłęk amerykański, korkowiec amurski, leszczyna turecka, magnolia, miłorząb japoński, morwa, orzesznik, rokitnik zwyczajny, surmia, tulipanowiec amerykański, wiśnia wonna cis, cyprysik, rodzaje głóg, jało- i gatunki wiec, jarząb drzew pozostałe inne niż gatunki, jodła wymienione koreańska, w grupach 1–4 oliwnik, żywotnik zachodni 1 do 100 12 25 55 170 25 2 od 101 15 30 70 210 30 WYSOKOŚĆ STAWEK OPŁAT DLA POSZCZEGÓLNYCH RODZAJÓW I GATUNKÓW KRZEWÓW W ZALEŻNOŚCI OD POWIERZCHNI KRZEWU ALBO KRZEWÓW ROSNĄCYCH W SKUPISKU Lp. Powierzchnia krzewu albo krzewów rosnących w skupisku w m Stawki w zł za 1 m powierzchni krzewu albo krzewów rosnących w skupisku dla poszczególnych rodzajów i gatunków krzewów dereń rozłogowy, róża pomarszczona, pozostałe rodzaje sumak, tawuła kutnerowata, i gatunki krzewów świdośliwa kłosowa 1 do 100 10 40 2 od 101 10 50
+Treść rozporządzenia
+
+## Załącznik nr 1 — – Wysokość stawek opłat dla poszczególnych rodzajów i gatunków drzew w zależności od obwodu pnia
+
+## Załącznik nr 2 — – Wysokość stawek opłat dla poszczególnych rodzajów i gatunków krzewów w zależności od powierzchni krzewu albo krzewów rosnących w skupisku
+
+Treść rozporządzenia
+Na podstawie art. 85 ust. 4b ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2016 r. poz. 2134, 2249 i 2260 oraz z 2017 r. poz. 60, 132 i 1074) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+wysokość stawek opłat dla poszczególnych rodzajów i gatunków drzew w zależności od obwodu pnia, stanowiącą załącznik nr 1 do rozporządzenia;
+2)
+wysokość stawek opłat dla poszczególnych rodzajów i gatunków krzewów w zależności od powierzchni krzewu albo krzewów rosnących w skupisku, stanowiącą załącznik nr 2 do rozporządzenia.
+§ 2.
+Rozporządzenie wchodzi w życie z dniem 17 lipca 2017 r.
+1) Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1904 i 2095).
+
+## Załącznik nr 1 — – Wysokość stawek opłat dla poszczególnych rodzajów i gatunków drzew w zależności od obwodu pnia
+
+Lp. Obwód pnia drzewa w cm mierzonego na wysokości 130 cm Stawki w zł za 1 cm obwodu pnia drzewa mierzonego na wysokości 130 cm dla poszczególnych rodzajów i gatunków drzew 1 2 3 4 5 kasztanowiec zwyczajny, klon jesionolistny, klon srebrzysty, platan klonolistny, robinia akacjowa, topola, wierzba brzoza, czeremcha, czereśnia, daglezja, dąb czerwony, glediczja trójcierniowa, jesion, jodła – z wyjątkiemjodły koreańskiej, kasztan jadalny, kasztanowiec – pozostałe gatunki, klon czerwony, klon jawor, klon zwyczajny, lipa, metasekwoja chińska, modrzew, olcha, orzech, sofora chińska, sosna, sumak, świerk, wiąz, wiśnia – z wyjątkiem ałyczy i wiśni wonnej, żywotnik olbrzymi ałycza, ambrowiec balsamiczny, buk pospolity, choina kanadyjska, cypryśnik błotny, dąb – z wyjątkiem dębu czerwonego, grab pospolity, grusza, jabłoń, jarząb pospolity, klon polny, klęk amerykański, korkowiec amurski, leszczyna turecka, magnolia, miłorząb japoński, morwa, orzesznik, rokitnik zwyczajny, surmia, tulipanowiec amerykański, wiśnia wonna cis, cyprysik, głóg, jałowiec, jarząb – pozostałe gatunki, jodła koreańska, oliwnik, żywotnik zachodni rodzaje i gatunki drzew inne niż wymienione w grupach 1–4 1 do 100 12 25 55 170 25 2 od 101 15 30 70 210 30
+
+## Załącznik nr 2 — – Wysokość stawek opłat dla poszczególnych rodzajów i gatunków krzewów w zależności od powierzchni krzewu albo krzewów rosnących w skupisku
+
+Lp. Powierzchnia krzewu albo krzewów rosnących w skupisku w m2 Stawki w zł za 1 m2 powierzchni krzewu albo krzewów rosnących w skupisku dla poszczególnych rodzajów i gatunków krzewów dereń rozłogowy, róża pomarszczona, sumak, tawuła kutnerowata, świdośliwa kłosowa pozostałe rodzaje i gatunki krzewów 1 do 100 10 40 2 od 101 10 50
 

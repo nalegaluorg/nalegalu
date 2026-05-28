@@ -8,10 +8,10 @@ pos: 2425
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 grudnia 2020 r.
+# Rozporządzenie Ministra Infrastrukturyz dnia 28 grudnia 2020 r. w sprawie stanowisk, zaszeregowania, kwalifikacji oraz szczegółowych warunków wynagradzania pracowników izb morskich
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,59 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-28 |
 | Data wydania | 2020-12-30 |
+| Wejście w życie | 2021-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002425) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2425/text.pdf) |
 
-TABELASTANOWISKI KWALIFIKACJI PRACOWNIKÓWZATRUDNIONYCH WIZBACH MORSKICH Grupa Stanowisko Wymagane kwalifikacje stanowisk URZĘDNICY Stanowiska główny księgowy według odrębnych przepisów samodzielne zastępca głównego jak dla stanowiska głównego księgowego księgowego starszy inspektor 1. wykształcenie wyższe pierwszego dochodzeniowy stopnia albo
-2. wykształcenie średnie i zdany egzamin maturalny oraz 1 rok pracy na stanowisku inspektora dochodzeniowego inspektor dochodzeniowy 1. wykształcenie wyższe pierwszego stopnia albo
-2. wykształcenie średnie i zdany egzamin maturalny oraz 1 rok pracy na stanowisku referenta kierownik sekretariatu 1. wykształcenie wyższe pierwszego Odwoławczej Izby Morskiej stopnia albo
-2. wykształcenie średnie i zdany egzamin maturalny oraz 1 rok pracy na stanowisku zastępcy kierownika sekretariatu lub starszego sekretarza albo 2 lata pracy na stanowisku sekretarza kierownik sekretariatu izby 1. wykształcenie wyższe pierwszego morskiej, kierownik sekcji stopnia albo ewidencji awaryjności 2. wykształcenie średnie i zdany egzamin maturalny oraz 1 rok pracy na stanowisku zastępcy kierownika sekretariatu lub starszego sekretarza bądź 2 lata pracy na stanowisku sekretarza zastępca kierownika 1. wykształcenie średnie i zdany egzamin sekretariatu Odwoławczej maturalny oraz 1 rok pracy na stanowisku Izby Morskiej, zastępca starszego sekretarza albo kierownika sekretariatu izby 2. 2 lata pracy na stanowisku sekretarza morskiej Stanowiska starszy inspektor do spraw wykształcenie wyższe drugiego stopnia wspomagające orzecznictwa i ewidencji oraz 1 rok pracy na stanowisku inspektora wypadków do spraw orzecznictwa i ewidencji wypadków inspektor do spraw wykształcenie wyższe pierwszego stopnia orzecznictwa i ewidencji wypadków starszy sekretarz 1. wykształcenie średnie i zdany egzamin maturalny oraz 1 rok pracy na stanowisku sekretarza albo
-2. 2 lata pracy na stanowisku referenta starszy księgowy 1. wykształcenie: ekonomiczne jednolite studia magisterskie, ekonomiczne wyższe studia zawodowe, uzupełniające ekonomiczne studia magisterskie lub ekonomiczne studia podyplomowe i co najmniej 1 rok pracy na stanowisku księgowego albo
-2. ukończona średnia szkoła policealna lub pomaturalna szkoła ekonomiczna i co najmniej 2 lata pracy na stanowisku księgowego sekretarz wykształcenie średnie i zdany egzamin maturalny oraz 1 rok pracy na stanowisku referenta księgowy 1. wykształcenie: ekonomiczne jednolite studia magisterskie, ekonomiczne wyższe studia zawodowe, uzupełniające ekonomiczne studia magisterskie lub ekonomiczne studia podyplomowe albo
-2. ukończona średnia szkoła policealna lub pomaturalna szkoła ekonomiczna i co najmniej 1 rok praktyki w księgowości referent wykształcenie średnie i zdany egzamin maturalny oraz umiejętność obsługi komputera, w tym biegłego pisania kasjer wykształcenie średnie i zdany egzamin maturalny administrator systemu wykształcenie wyższe kierunkowe informatycznego/ informatyczne drugiego stopnia teleinformatycznego informatyk wykształcenie wyższe kierunkowe informatyczne pierwszego stopnia bibliotekarz według odrębnych przepisów archiwista wykształcenie średnie i zdany egzamin maturalny oraz ukończony kurs dla archiwistów PRACOWNICY NIEBĘDĄCY URZĘDNIKAMI stanowiska pomocnicze, obsługi pracownik wykształcenie technicznej obsługi podstawowe i gospodarczej sprzątaczka wykształcenie podstawowe TABELAWYSOKOŚCIWYNAGRODZENIAZASADNICZEGO PRACOWNIKÓW ZATRUDNIONYCHWIZBACH MORSKICH Grupa stanowisk Kwota w złotych Stanowiska samodzielne 2800–12 400 Stanowiska wspomagające 2800–8000 Stanowiska pomocnicze, obsługi technicznej i gospodarczej 2800–6000 TABELAWYSOKOŚCI DODATKU FUNKCYJNEGO PRACOWNIKÓW ZATRUDNIONYCHWIZBACH MORSKICH Grupa stanowisk Kwota w złotych Stanowiska samodzielne do 2250 Stanowiska wspomagające: starszy inspektor do spraw orzecznictwa i ewidencji wypadków do 1690 inspektor do spraw orzecznictwa i ewidencji wypadków do 1240 administrator systemu informatycznego/teleinformatycznego do 1690 informatyk do 900
+Treść rozporządzenia
+
+## Załącznik nr 1 — – Tabela stanowisk i kwalifikacji pracowników zatrudnionych w izbach morskich
+
+## Załącznik nr 2 — – Tabela wysokości wynagrodzenia zasadniczego pracowników zatrudnionych w izbach morskich
+
+## Załącznik nr 3 — – Tabela wysokości dodatku funkcyjnego pracowników zatrudnionych w izbach morskich
+
+Treść rozporządzenia
+Na podstawie art. 11 ust. 2 ustawy z dnia 1 grudnia 1961 r. o izbach morskich (Dz. U. z 2020 r. poz. 159) zarządza się, co następuje:
+§ 1.
+Ustala się:
+1)
+tabelę stanowisk i kwalifikacji pracowników zatrudnionych w izbach morskich, stanowiącą załącznik nr 1 do rozporządzenia;
+2)
+tabelę wysokości wynagrodzenia zasadniczego pracowników zatrudnionych w izbach morskich, stanowiącą załącznik nr 2 do rozporządzenia;
+3)
+tabelę wysokości dodatku funkcyjnego pracowników zatrudnionych w izbach morskich, stanowiącą załącznik nr 3 do rozporządzenia.
+§ 2.
+1.
+Pracownikom izb morskich zatrudnionym na stanowiskach związanych z kierowaniem zespołem przysługuje dodatek funkcyjny.
+2.
+Dodatek funkcyjny przysługuje również pracownikom zatrudnionym na stanowiskach niezwiązanych z kierowaniem zespołem, dla których w załączniku nr 3 do rozporządzenia przewiduje się dodatek funkcyjny.
+3.
+W przypadku pełnienia więcej niż jednej funkcji lub zajmowania więcej niż jednego stanowiska pracownikom zatrudnionym w izbach morskich przysługuje jeden, najwyższy dodatek funkcyjny z dodatków należnych z tytułu zajmowanego stanowiska oraz pełnionej funkcji.
+§ 3.
+1.
+Przewodniczący izby morskiej może przyznać pracownikowi izby morskiej dodatek specjalny z tytułu okresowego zwiększenia obowiązków służbowych lub powierzenia dodatkowych zadań, w szczególności zadań o wysokim stopniu złożoności lub odpowiedzialności.
+2.
+Dodatek specjalny przyznaje się na czas określony w kwocie nieprzekraczającej 40% wynagrodzenia zasadniczego i dodatku funkcyjnego z tytułu zajmowanego stanowiska lub pełnionej funkcji łącznie.
+§ 4.
+Pracownik izby morskiej, który nie posiada wymaganych kwalifikacji przewidzianych dla stanowiska zajmowanego przez niego w dniu wejścia w życie rozporządzenia, może być nadal zatrudniony na tym stanowisku.
+§ 5.
+Pracownik izby morskiej zatrudniony w dniu wejścia w życie niniejszego rozporządzenia na stanowisku nieprzewidzianym w tym rozporządzeniu może być nadal zatrudniony, z tym że na stanowisku określonym w niniejszym rozporządzeniu.
+§ 6.
+Traci moc rozporządzenie Ministra Infrastruktury z dnia 25 czerwca 2009 r. w sprawie stanowisk, zaszeregowania, kwalifikacji oraz szczegółowych warunków wynagradzania pracowników izb morskich (Dz. U. poz. 888).
+§ 7.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.
+1) Minister Infrastruktury kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257 oraz z 2020 r. poz. 1722, 1745, 1927 i 2006).
+
+## Załącznik nr 1 — – Tabela stanowisk i kwalifikacji pracowników zatrudnionych w izbach morskich
+
+patrz oryginał
+
+## Załącznik nr 2 — – Tabela wysokości wynagrodzenia zasadniczego pracowników zatrudnionych w izbach morskich
+
+patrz oryginał
+
+## Załącznik nr 3 — – Tabela wysokości dodatku funkcyjnego pracowników zatrudnionych w izbach morskich
+
+patrz oryginał
 

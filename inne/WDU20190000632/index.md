@@ -8,10 +8,10 @@ pos: 632
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 kwietnia 2019 r.
+# Obwieszczenie Przewodniczącego Krajowej Rady Radiofonii i Telewizjiz dnia 7 marca 2019 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Krajowej Rady Radiofonii i Telewizji w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji
 
 | Pole | Wartość |
 |---|---|
@@ -25,348 +25,713 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000632) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/632/text.pdf) |
 
-OBWIESZCZENIE PRZEWODNICZĄCEGO KRAJOWEJ RADY RADIOFONII I TELEWIZJI z dnia 7 marca 2019 r.
-w sprawie ogłoszenia jednolitego tekstu rozporządzenia Krajowej Rady Radiofonii i Telewizji w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji
-1. Na podstawie art. 16 ust. 3 pkt 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 12 lipca 2011 r. w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji (Dz. U. poz. 915), z uwzględnieniem zmian wprowadzonych:
-1) rozporządzeniem Krajowej Rady Radiofonii i Telewizji z dnia 6 września 2011 r. zmieniającym rozporządzenie w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji (Dz. U. poz. 1146);
-2) rozporządzeniem Krajowej Rady Radiofonii i Telewizji z dnia 8 października 2013 r. zmieniającym rozporządzenie w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji (Dz. U. poz. 1285);
-3) rozporządzeniem Krajowej Rady Radiofonii i Telewizji z dnia 1 kwietnia 2014 r. zmieniającym rozporządzenie w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji (Dz. U. poz. 476);
-4) rozporządzeniem Krajowej Rady Radiofonii i Telewizji z dnia 14 października 2014 r. zmieniającym rozporządzenie w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji (Dz. U. poz. 1416);
-5) rozporządzeniem Krajowej Rady Radiofonii i Telewizji z dnia 11 września 2015 r. zmieniającym rozporządzenie w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji (Dz. U. poz. 1444);
-6) rozporządzeniem Krajowej Rady Radiofonii i Telewizji z dnia 13 września 2018 r. zmieniającym rozporządzenie w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audy2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 6 września 2011 r. zmieniającego rozporządzenie w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji (Dz. U. poz. 1146), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.”;
-2) § 2 rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 8 października 2013 r. zmieniającego rozporządzenie w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji (Dz. U. poz. 1285), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-3) § 2 rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 1 kwietnia 2014 r. zmieniającego rozporządzenie w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji (Dz. U. poz. 476), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.”;
-4) § 2 rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 14 października 2014 r. zmieniającego rozporządzenie w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji (Dz. U. poz. 1416), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.”;
-5) § 2 rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 11 września 2015 r. zmieniającego rozporządzenie w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji (Dz. U. poz. 1444), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.”;
-6) § 2 rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 13 września 2018 r. zmieniającego rozporządzenie w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji (Dz. U. poz. 1842), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.”.
-Przewodniczący Krajowej Rady Radiofonii i Telewizji: W. Kołodziejski ROZPORZĄDZENIE KRAJOWEJ RADY RADIOFONII I TELEWIZJI z dnia 12 lipca 2011 r.
-w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji Na podstawie art. 117 § 6 ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy (Dz. U. z 2018 r. poz. 754, 1000 i 1349 oraz z 2019 r. poz. 273) zarządza się, co następuje:
-1) czas przeznaczony na rozpowszechnianie nieodpłatnie audycji wyborczych w każdym z programów ogólnokrajowych i programów regionalnych publicznej radiofonii i telewizji;
-2) ramowy podział czasu rozpowszechniania nieodpłatnie audycji wyborczych w okresie od 15. dnia przed dniem głosowania do dnia zakończenia kampanii wyborczej;
-3) tryb postępowania w sprawach podziału czasu rozpowszechniania nieodpłatnie audycji wyborczych;
-4) sposób przygotowania oraz zakres rejestracji i emisji audycji wyborczych;
-5) typ i rodzaj nośnika zapisu audycji wyborczej;
-6) sposób rozpowszechniania informacji o terminach emisji audycji wyborczych.
-§ 2. Ilekroć w rozporządzeniu jest mowa o:
-1) audycjach wyborczych należy przez to rozumieć:
-a) nieodpłatne audycje wyborcze, o których mowa w art. 252 § 1 ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy, zwanej dalej „ustawą”,
-b) nieodpłatne audycje wyborcze, o których mowa w art. 284 § 1 i art. 285 § 1 ustawy,
-c) nieodpłatne audycje wyborcze, o których mowa w art. 326 § 1 i 5 ustawy,
-d) nieodpłatne audycje wyborcze, o których mowa w art. 347 § 1 ustawy,
-e) nieodpłatne audycje wyborcze, o których mowa w art. 411 § 1 i 3 ustawy,
-f) nieodpłatne audycje wyborcze, o których mowa w art. 491 § 1 i 5 ustawy;
-2) radzie należy przez to rozumieć odpowiednio rady gmin, rady dzielnic dla m.st. Warszawy, rady powiatów i sejmiki województw;
-3) wójcie należy przez to rozumieć także burmistrza i prezydenta miasta.
-§ 3. Komitet wyborczy jest reprezentowany przed „Telewizją Polską Spółka Akcyjna” i „Polskim Radiem Spółka Akcyjna”, zwanymi dalej „Telewizją Polską” i „Polskim Radiem”, oraz spółkami radiofonii regionalnej przez pełnomocnika wyborczego komitetu wyborczego lub osobę pisemnie upoważnioną przez pełnomocnika wyborczego, zwanych dalej „pełnomocnikiem”.
-1) ogólnokrajowych Telewizji Polskiej i Polskiego Radia jeżeli komitet wyborczy zarejestrował swoje listy kandydatów co najmniej w połowie okręgów wyborczych;
-2) regionalnych Telewizji Polskiej i spółek radiofonii regionalnej jeżeli komitet wyborczy zarejestrował listę kandydatów co najmniej w jednym okręgu wyborczym.
-§ 5. 1. W programach ogólnokrajowych Telewizji Polskiej czas rozpowszechniania audycji wyborczych, o których mowa w § 4 pkt 1, wynosi:
-1) w Programie 1 360 minut;
-2) w Programie 2 360 minut;
-3) w Programie TVP Polonia 180 minut.
-2. Telewizja Polska rozpowszechnia audycje wyborcze, o których mowa w ust. 1:
-1) w Programie 1 codziennie w godzinach 6 –10 i w godzinach 16 –23 w blokach audycji wyborczych nie krótszych niż 10 minut;
-2) w Programie 2 codziennie w godzinach 6 –9 i w godzinach 14 –17 w blokach audycji wyborczych nie krótszych niż 10 minut;
-3) w Programie TVP Polonia wykorzystuje w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 22 –23 , w godzinach 2 –5 i w godzinach 12 –15 .
-§ 6. 1. W programach ogólnokrajowych Polskiego Radia czas rozpowszechniania audycji wyborczych, o których mowa w § 4 pkt 1, wynosi:
-1) w Programie 1 500 minut;
-2) w Programie 2 250 minut;
-3) w Programie 3 500 minut;
-4) w Programie 4 250 minut;
-5) w programie dla zagranicy 300 minut.
-2. Polskie Radio rozpowszechnia audycje wyborcze, o których mowa w ust. 1:
-1) w Programie 1 codziennie w godzinach 6 –10 i w godzinach 22 –23 w blokach audycji wyborczych nie krótszych niż 15 minut;
-2) w Programie 2 codziennie w godzinach 6 –10 i w godzinach 22 –23 w blokach audycji wyborczych nie krótszych niż 7 minut;
-3) w Programie 3 codziennie w godzinach 6 –10 i w godzinach 22 –23 w blokach audycji wyborczych nie krótszych niż 15 minut;
-4) w Programie 4 codziennie w godzinach 6 –10 i w godzinach 22 –23 w blokach audycji wyborczych nie krótszych niż 7 minut;
-5) w programie dla zagranicy codziennie w godzinach 6 –10 i w godzinach 23 –24 w blokach audycji wyborczych nie krótszych niż 9 minut.
-§ 7. 1. W każdym programie regionalnym Telewizji Polskiej czas rozpowszechniania audycji wyborczych, o których mowa w § 4 pkt 2, wynosi 600 minut.
-2. Telewizja Polska rozpowszechnia audycje wyborcze, o których mowa w ust. 1:
-1) od poniedziałku do piątku w godzinach 17 –18 i w godzinach 19 –20 w blokach audycji wyborczych nie krótszych niż 20 minut;
-2) w soboty i niedziele w godzinach 7 –9 , w godzinach 17 –18 i w godzinach 19 –23 w blokach audycji wyborczych nie krótszych niż 10 minut.
-§ 8. 1. W każdym programie spółek radiofonii regionalnej czas rozpowszechniania audycji wyborczych, o których mowa w § 4 pkt 2, wynosi 900 minut.
-2. Spółki radiofonii regionalnej rozpowszechniając audycje wyborcze, o których mowa w ust. 1, wykorzystują w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 13 –15 i w godzinach 18 –22 .
-1) ogólnokrajowych Telewizji Polskiej i Polskiego Radia jeżeli komitet wyborczy zarejestrował kandydatów na senatorów co najmniej w połowie okręgów wyborczych;
-2) regionalnych Telewizji Polskiej i spółek radiofonii regionalnej jeżeli komitet wyborczy zarejestrował co najmniej jednego kandydata na senatora.
-§ 10. 1. W programach ogólnokrajowych Telewizji Polskiej czas rozpowszechniania audycji wyborczych, o których mowa w § 9 pkt 1, wynosi:
-1) w Programie 1 120 minut;
-2) w Programie 2 120 minut;
-3) w Programie TVP Polonia 60 minut.
-2. Telewizja Polska rozpowszechnia audycje wyborcze, o których mowa w ust. 1:
-1) w Programie 1 codziennie w godzinach 6 –10 lub w godzinach 16 –23 w bloku audycji wyborczych nie krótszym niż 8 minut;
-2) w Programie 2 codziennie w godzinach 6 –9 lub w godzinach 14 –17 w bloku audycji wyborczych nie krótszym niż 8 minut;
-3) w Programie TVP Polonia wykorzystuje w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 22 –23 , w godzinach 2 –5 i w godzinach 12 –15 .
-§ 11. 1. W programach ogólnokrajowych Polskiego Radia czas rozpowszechniania audycji wyborczych, o których mowa w § 9 pkt 1, wynosi:
-1) w Programie 1 120 minut;
-2) w Programie 2 120 minut;
-3) w Programie 3 120 minut;
-4) w Programie 4 120 minut;
-5) w programie dla zagranicy 120 minut.
-2. Polskie Radio rozpowszechnia audycje wyborcze, o których mowa w ust. 1:
-1) w Programie 1 codziennie w godzinach 6 –10 i w godzinach 22 –23 w blokach audycji wyborczych nie krótszych niż 3,5 minuty;
-2) w Programie 2 codziennie w godzinach 6 –10 i w godzinach 22 –23 w blokach audycji wyborczych nie krótszych niż 3,5 minuty;
-3) w Programie 3 codziennie w godzinach 6 –10 i w godzinach 22 –23 w blokach audycji wyborczych nie krótszych niż 3,5 minuty;
-4) w Programie 4 codziennie w godzinach 6 –10 i w godzinach 22 –23 w blokach audycji wyborczych nie krótszych niż 3,5 minuty;
-5) w programie dla zagranicy codziennie w godzinach 6 –10 i w godzinach 23 –24 w blokach audycji wyborczych nie krótszych niż 3,5 minuty.
-§ 12. 1. W każdym programie regionalnym Telewizji Polskiej czas rozpowszechniania audycji wyborczych, o których mowa w § 9 pkt 2, wynosi 180 minut.
-2. Telewizja Polska rozpowszechnia audycje wyborcze, o których mowa w ust. 1:
-1) od poniedziałku do piątku w godzinach 17 –18 i w godzinach 19 –20 w blokach audycji wyborczych nie krótszych niż 4,5 minuty;
-2) w soboty i niedziele w godzinach 7 –9 , w godzinach 17 –18 i w godzinach 19 –23 w blokach audycji wyborczych nie krótszych niż 4 minuty.
-§ 13. 1. W każdym programie spółek radiofonii regionalnej czas rozpowszechniania audycji wyborczych, o których mowa w § 9 pkt 2, wynosi 360 minut.
-2. Spółki radiofonii regionalnej rozpowszechniając audycje wyborcze, o których mowa w ust. 1, wykorzystują w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 13 –15 i w godzinach 18 –22 .
-§ 14. Audycje wyborcze przygotowywane przez komitety wyborcze w wyborach uzupełniających do Senatu Rzeczypospolitej Polskiej są rozpowszechniane, w okresie od 15. dnia przed dniem głosowania do dnia zakończenia kampanii wyborczej, w odpowiednich programach regionalnych Telewizji Polskiej i spółek radiofonii regionalnej.
-§ 15. 1. W odpowiednich programach regionalnych Telewizji Polskiej czas rozpowszechniania audycji wyborczych, o których mowa w § 14, wynosi 120 minut.
-2. Telewizja Polska rozpowszechniając audycje wyborcze, o których mowa w ust. 1:
-1) od poniedziałku do piątku wykorzystuje w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 17 –18 i w godzinach 19 –20 ;
-2) w soboty i niedziele wykorzystuje w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 7 –9 , w godzinach 17 –18 i w godzinach 19 –23 .
-§ 16. 1. W odpowiednich programach spółek radiofonii regionalnej czas rozpowszechniania audycji wyborczych, o których mowa w § 14, wynosi 240 minut.
-2. Spółki radiofonii regionalnej rozpowszechniając audycje wyborcze, o których mowa w ust. 1, wykorzystują w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 13 –15 i w godzinach 18 –22 .
-§ 18. 1. W programach ogólnokrajowych Telewizji Polskiej czas rozpowszechniania audycji wyborczych, o których mowa w § 17, wynosi:
-1) w Programie 1 600 minut;
-2) w Programie 2 600 minut;
-3) w Programie TVP Polonia 300 minut.
-2. Telewizja Polska rozpowszechnia audycje wyborcze, o których mowa w ust. 1:
-1) w Programie 1 codziennie w godzinach 6 –10 i w godzinach 16 –23 w blokach audycji wyborczych nie krótszych niż 10 minut;
-2) w Programie 2 codziennie w godzinach 6 –9 i w godzinach 14 –17 w blokach audycji wyborczych nie krótszych niż 10 minut;
-3) w Programie TVP Polonia wykorzystuje w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 22 –23 , w godzinach 2 –5 i w godzinach 12 –15 .
-§ 19. 1. W programach ogólnokrajowych Polskiego Radia czas rozpowszechniania audycji wyborczych, o których mowa w § 17, wynosi:
-1) w Programie 1 600 minut;
-2) w Programie 2 300 minut;
-3) w Programie 3 600 minut;
-4) w Programie 4 300 minut;
-5) w programie dla zagranicy 300 minut.
-2. Polskie Radio rozpowszechnia audycje wyborcze, o których mowa w ust. 1:
-1) w Programie 1 codziennie w godzinach 6 –10 i w godzinach 22 –23 w blokach audycji wyborczych nie krótszych niż 18 minut;
-2) w Programie 2 codziennie w godzinach 6 –10 i w godzinach 22 –23 w blokach audycji wyborczych nie krótszych niż 8 minut;
-3) w Programie 3 codziennie w godzinach 6 –10 i w godzinach 22 –23 w blokach audycji wyborczych nie krótszych niż 18 minut;
-4) w Programie 4 codziennie w godzinach 6 –10 i w godzinach 22 –23 w blokach audycji wyborczych nie krótszych niż 8 minut;
-5) w programie dla zagranicy codziennie w godzinach 6 –10 i w godzinach 22 –23 w blokach audycji wyborczych nie krótszych niż 8 minut.
-§ 20. Audycje wyborcze przygotowywane przez komitety wyborcze w przypadku zarządzenia ponownego głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej są rozpowszechniane, w okresie od 9. dnia przed dniem głosowania do dnia zakończenia kampanii wyborczej przed dniem ponownego głosowania, w programach ogólnokrajowych Telewizji Polskiej i Polskiego Radia.
-§ 21. 1. W programach ogólnokrajowych Telewizji Polskiej czas rozpowszechniania audycji wyborczych, o których mowa w § 20, wynosi:
-1) w Programie 1 150 minut;
-2) w Programie 2 150 minut;
-2. Telewizja Polska rozpowszechnia audycje wyborcze, o których mowa w ust. 1:
-1) w Programie 1 codziennie w godzinach 6 –10 i w godzinach 16 –23 w blokach audycji wyborczych nie krótszych niż 9 minut;
-2) w Programie 2 codziennie w godzinach 6 –9 i w godzinach 14 –17 w blokach audycji wyborczych nie krótszych niż 9 minut;
-3) w Programie TVP Polonia wykorzystuje w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 22 –23 , w godzinach 2 –5 i w godzinach 12 –15 .
-§ 22. 1. W programach ogólnokrajowych Polskiego Radia czas rozpowszechniania audycji wyborczych, o których mowa w § 20, wynosi:
-1) w Programie 1 100 minut;
-2) w Programie 2 100 minut;
-3) w Programie 3 100 minut;
-4) w Programie 4 100 minut;
-5) w programie dla zagranicy 80 minut.
-2. Polskie Radio rozpowszechnia audycje wyborcze, o których mowa w ust. 1:
-1) w Programie 1 codziennie w godzinach 6 –10 i w godzinach 22 –23 w blokach audycji wyborczych nie krótszych niż 5 minut;
-2) w Programie 2 codziennie w godzinach 6 –10 i w godzinach 22 –23 w blokach audycji wyborczych nie krótszych niż 5 minut;
-3) w Programie 3 codziennie w godzinach 6 –10 i w godzinach 22 –23 w blokach audycji wyborczych nie krótszych niż 5 minut;
-4) w Programie 4 codziennie w godzinach 6 –10 i w godzinach 22 –23 w blokach audycji wyborczych nie krótszych niż 5 minut;
-5) w programie dla zagranicy codziennie w godzinach 6 –10 i w godzinach 22 –23 w blokach audycji wyborczych nie krótszych niż 4 minuty.
-1) ogólnokrajowych Telewizji Polskiej i Polskiego Radia jeżeli komitet wyborczy zarejestrował swoje listy kandydatów co najmniej w połowie okręgów wyborczych;
-2) regionalnych Telewizji Polskiej i spółek radiofonii regionalnej jeżeli komitet wyborczy zarejestrował listę kandydatów co najmniej w jednym okręgu wyborczym.
-§ 24. 1. W programach ogólnokrajowych Telewizji Polskiej czas rozpowszechniania audycji wyborczych, o których mowa w § 23 pkt 1, wynosi:
-1) w Programie 1 360 minut;
-2) w Programie 2 360 minut;
-2. Telewizja Polska rozpowszechnia audycje wyborcze, o których mowa w ust. 1:
-1) w Programie 1 codziennie w godzinach 17 –23 w blokach audycji wyborczych nie krótszych niż 10 minut;
-2) w Programie 2 codziennie w godzinach 17 –23 w blokach audycji wyborczych nie krótszych niż 10 minut;
-3) w Programie TVP Polonia codziennie w godzinach 17 –23 w blokach audycji wyborczych nie krótszych niż 10 minut.
-§ 25. 1. W programach ogólnokrajowych Polskiego Radia czas rozpowszechniania audycji wyborczych, o których mowa w § 23 pkt 1, wynosi:
-1) w Programie 1 300 minut;
-2) w Programie 2 200 minut;
-3) w Programie 3 300 minut;
-4) w Programie 4 200 minut;
-5) w programie dla zagranicy 200 minut.
-2. Polskie Radio rozpowszechnia audycje wyborcze, o których mowa w ust. 1:
-1) w Programie 1 codziennie w godzinach 6 –10 i w godzinach 22 –23 w blokach audycji wyborczych nie krótszych niż 10 minut;
-2) w Programie 2 codziennie w godzinach 6 –10 i w godzinach 22 –23 w blokach audycji wyborczych nie krótszych niż 6 minut;
-3) w Programie 3 codziennie w godzinach 6 –10 i w godzinach 22 –23 w blokach audycji wyborczych nie krótszych niż 10 minut;
-4) w Programie 4 codziennie w godzinach 6 –10 i w godzinach 22 –23 w blokach audycji wyborczych nie krótszych niż 6 minut;
-5) w programie dla zagranicy codziennie w godzinach 6 –10 i w godzinach 22 –23 w blokach audycji wyborczych nie krótszych niż 6 minut.
-§ 26. 1. W każdym programie regionalnym Telewizji Polskiej czas rozpowszechniania audycji wyborczych, o których mowa w § 23 pkt 2, wynosi 600 minut.
-2. Telewizja Polska rozpowszechnia audycje wyborcze, o których mowa w ust. 1:
-1) od poniedziałku do piątku w godzinach 17 –18 i w godzinach 19 –20 w blokach audycji wyborczych nie krótszych niż 15 minut;
-2) w soboty i niedziele w godzinach 7 –9 , w godzinach 17 –18 i w godzinach 19 –23 w blokach audycji wyborczych nie krótszych niż 10 minut.
-§ 27. 1. W każdym programie spółek radiofonii regionalnej czas rozpowszechniania audycji wyborczych, o których mowa w § 23 pkt 2, wynosi 1200 minut.
-2. Spółki radiofonii regionalnej rozpowszechniając audycje wyborcze, o których mowa w ust. 1, wykorzystują w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 13 –15 i w godzinach 18 –22 .
-1) ogólnokrajowych Telewizji Polskiej i Polskiego Radia jeżeli komitet wyborczy zarejestrował listy kandydatów co najmniej w połowie okręgów wyborczych do wszystkich sejmików wojewódzkich, w tym przynajmniej jedną listę do każdego sejmiku;
-2) regionalnych Telewizji Polskiej i spółek radiofonii regionalnej jeżeli komitet wyborczy zarejestrował listę kandyda§ 29. 1. W programach ogólnokrajowych Telewizji Polskiej czas rozpowszechniania audycji wyborczych, o których mowa w § 28 pkt 1, wynosi:
-1) w Programie 1 450 minut;
-2) w Programie 2 450 minut.
-2. Telewizja Polska rozpowszechnia audycje wyborcze, o których mowa w ust. 1:
-1) w Programie 1 codziennie w godzinach 6 –10 i w godzinach 16 –23 w blokach audycji wyborczych nie krótszych niż 10 minut;
-2) w Programie 2 codziennie w godzinach 6 –9 i w godzinach 14 –17 w blokach audycji wyborczych nie krótszych niż 10 minut.
-§ 30. 1. W programach ogólnokrajowych Polskiego Radia czas rozpowszechniania audycji wyborczych, o których mowa w § 28 pkt 1, wynosi:
-1) w Programie 1 300 minut;
-2) w Programie 2 300 minut;
-3) w Programie 3 300 minut;
-4) w Programie 4 300 minut.
-2. Polskie Radio rozpowszechnia audycje wyborcze, o których mowa w ust. 1:
-1) w Programie 1 codziennie w godzinach 6 –10 i w godzinach 22 –23 w blokach audycji wyborczych nie krótszych niż 10 minut;
-2) w Programie 2 codziennie w godzinach 6 –10 i w godzinach 22 –23 w blokach audycji wyborczych nie krótszych niż 10 minut;
-3) w Programie 3 codziennie w godzinach 6 –10 i w godzinach 22 –23 w blokach audycji wyborczych nie krótszych niż 10 minut;
-4) w Programie 4 codziennie w godzinach 6 –10 i w godzinach 22 –23 w blokach audycji wyborczych nie krótszych niż 10 minut.
-§ 31. 1. W każdym programie regionalnym Telewizji Polskiej czas rozpowszechniania audycji wyborczych, o których mowa w § 28 pkt 2, wynosi 900 minut.
-2. Telewizja Polska rozpowszechnia audycje wyborcze, o których mowa w ust. 1:
-1) od poniedziałku do piątku w godzinach 17 –18 i w godzinach 19 –20 w blokach audycji wyborczych nie krótszych niż 25 minut;
-2) w soboty i niedziele w godzinach 7 –9 , w godzinach 17 –18 i w godzinach 19 –23 w blokach audycji wyborczych nie krótszych niż 10 minut.
-§ 32. 1. W każdym programie spółek radiofonii regionalnej czas rozpowszechniania audycji wyborczych, o których mowa w § 28 pkt 2, wynosi 1200 minut.
-2. Spółki radiofonii regionalnej rozpowszechniając audycje wyborcze, o których mowa w ust. 1, wykorzystują w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 13 –15 i w godzinach 18 –22 .
-§ 33. 1. Audycje wyborcze przygotowywane przez komitety wyborcze w wyborach przedterminowych oraz w wyborach do nowych rad są rozpowszechniane w odpowiednich programach regionalnych:
-1) Telewizji Polskiej 180 minut;
-2) spółek radiofonii regionalnej 240 minut.
-2. Telewizja Polska rozpowszechniając audycje wyborcze, o których mowa w ust. 1:
-1) od poniedziałku do piątku wykorzystuje w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 17 –18 i w godzinach 19 –20 ;
-2) w soboty i niedziele wykorzystuje w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na
-3. Spółki radiofonii regionalnej rozpowszechniając audycje wyborcze, o których mowa w ust. 1, wykorzystują w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 13 –15 i w godzinach 18 –22 .
-§ 35. 1. W każdym programie regionalnym Telewizji Polskiej czas rozpowszechniania audycji wyborczych, o których mowa w § 34, wynosi 120 minut.
-2. Telewizja Polska rozpowszechniając audycje wyborcze, o których mowa w ust. 1:
-1) od poniedziałku do piątku wykorzystuje w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 17 –18 i w godzinach 19 –20 ;
-2) w soboty i niedziele wykorzystuje w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 7 –9 , w godzinach 17 –18 i w godzinach 19 –23 .
-§ 36. 1. W każdym programie spółek radiofonii regionalnej czas rozpowszechniania audycji wyborczych, o których mowa w § 34, wynosi 240 minut.
-2. Spółki radiofonii regionalnej rozpowszechniając audycje wyborcze, o których mowa w ust. 1, wykorzystują w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 13 –15 i w godzinach 18 –22 .
-§ 37. Audycje wyborcze przygotowywane przez komitety wyborcze w wyborach przedterminowych wójta są rozpowszechniane w odpowiednich programach regionalnych Telewizji Polskiej i spółek radiofonii regionalnej.
-§ 38. 1. W odpowiednich programach regionalnych Telewizji Polskiej czas rozpowszechniania audycji wyborczych, o których mowa w § 37, wynosi 30 minut.
-2. Telewizja Polska rozpowszechniając audycje wyborcze, o których mowa w ust. 1:
-1) od poniedziałku do piątku wykorzystuje w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 17 –20 ;
-2) w soboty i niedziele wykorzystuje w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 7 –23 .
-§ 39. 1. W odpowiednich programach spółek radiofonii regionalnej czas rozpowszechniania audycji wyborczych, o których mowa w § 37, wynosi 60 minut.
-2. Spółki radiofonii regionalnej rozpowszechniając audycje wyborcze, o których mowa w ust. 1, wykorzystują w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 13 –15 i w godzinach 18 –22 .
-1) ogólnokrajowych dzieli się równo między wszystkie uprawnione komitety wyborcze, na podstawie informacji Państwowej Komisji Wyborczej;
-2) regionalnych dzieli się między uprawnione komitety wyborcze proporcjonalnie do liczby zarejestrowanych przez nie list kandydatów, na podstawie informacji okręgowej komisji wyborczej.
-§ 41. 1. Czas rozpowszechniania audycji wyborczych w wyborach do Senatu Rzeczypospolitej Polskiej w programach:
-1) ogólnokrajowych dzieli się równo między wszystkie uprawnione komitety wyborcze, na podstawie informacji Państwowej Komisji Wyborczej;
-2) regionalnych dzieli się między uprawnione komitety wyborcze proporcjonalnie do liczby kandydatów na senatorów zarejestrowanych przez nie w okręgach wyborczych objętych zasięgiem danego programu, na podstawie informacji okręgowej komisji wyborczej.
-2. Czas rozpowszechniania audycji wyborczych w wyborach uzupełniających do Senatu Rzeczypospolitej Polskiej w odpowiednich programach regionalnych dzieli się równo między uprawnione komitety wyborcze, na podstawie informacji okręgowej komisji wyborczej.
-§ 42. Czas rozpowszechniania audycji wyborczych w wyborach Prezydenta Rzeczypospolitej Polskiej w programach ogólnokrajowych dzieli się równo między wszystkie uprawnione komitety wyborcze, na podstawie informacji Państwowej Komisji Wyborczej.
-§ 43. Czas rozpowszechniania audycji wyborczych w wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej w programach:
-1) ogólnokrajowych dzieli się równo między wszystkie uprawnione komitety wyborcze, na podstawie informacji Państwowej Komisji Wyborczej;
-2) regionalnych dzieli się między uprawnione komitety wyborcze proporcjonalnie do liczby zarejestrowanych przez nie list kandydatów, na podstawie informacji okręgowej komisji wyborczej.
-§ 44. Czas rozpowszechniania audycji wyborczych w wyborach do rad w programach:
-1) ogólnokrajowych dzieli się między uprawnione komitety wyborcze proporcjonalnie do liczby zarejestrowanych przez nie list kandydatów w wyborach do sejmików wojewódzkich, na podstawie informacji Państwowej Komisji Wyborczej;
-2) regionalnych dzieli się między uprawnione komitety wyborcze proporcjonalnie do liczby zarejestrowanych przez nie list kandydatów w okręgach na obszarze objętym programem, na podstawie informacji komisarza wyborczego.
-§ 45. 1. Czas rozpowszechniania audycji wyborczych w wyborach wójta w programach regionalnych dzieli się między uprawnione komitety wyborcze proporcjonalnie do liczby zarejestrowanych przez nie kandydatów na wójtów na obszarze objętym programem, na podstawie informacji gminnej komisji wyborczej.
-2. Czas rozpowszechniania audycji wyborczych w wyborach przedterminowych wójta w programach regionalnych dzieli się równo między uprawnione komitety wyborcze, na podstawie informacji gminnej komisji wyborczej.
-§ 46. 1. Informacje, o których mowa w § 40–45, Państwowa Komisja Wyborcza, komisarze wyborczy oraz gminne komisje wyborcze przekazują Telewizji Polskiej, Polskiemu Radiu oraz spółkom radiofonii regionalnej, nie później niż w 24. dniu przed dniem wyborów.
-2. Jeżeli okręg wyborczy objęty jest obszarem emisji więcej niż jednego programu regionalnego, komisarz wyborczy lub gminna komisja wyborcza przekazuje informacje, o których mowa w ust. 1, wszystkim oddziałom Telewizji Polskiej i spółkom radiofonii regionalnej obejmującym obszarem emisji ten okręg wyborczy.
-§ 47. 1. Przydział czasu antenowego na rozpowszechnianie audycji wyborczych przez komitet wyborczy jest dokonywany na podstawie złożonego przez pełnomocnika wniosku o przydział nieodpłatnego czasu antenowego.
-2. Wniosek, o którym mowa w ust. 1, pełnomocnik obowiązany jest złożyć Telewizji Polskiej, Polskiemu Radiu oraz spółkom radiofonii i telewizji nie później niż w 22. dniu przed dniem wyborów, z wyjątkiem wniosku na rozpowszechnianie audycji wyborczych w związku z zarejestrowaniem kandydatów na wójtów lub kandydatów do rad, który pełnomocnik obowiązany jest złożyć nie później niż w 20. dniu przed dniem wyborów.
-3. Wniosek, o którym mowa w ust. 1, powinien zawierać:
-1) nazwę komitetu wyborczego uprawnionego do rozpowszechniania audycji wyborczych;
-2) imię i nazwisko oraz adres zamieszkania pełnomocnika;
-3) (uchylony).
-§ 48. W przypadku niezłożenia przez pełnomocnika wniosku w terminie, o którym mowa w § 47 ust. 2, lub złożenia wniosku niespełniającego wymogów określonych w § 47 ust. 3, podziału czasu antenowego przeznaczonego na rozpowszechnianie audycji wyborczych dokonuje się pomiędzy komitety wyborcze, których pełnomocnicy złożyli wnioski.
-§ 49. 1. Na potrzeby rozpowszechniania audycji wyborczych ustala się:
-1) obszary emitowania programów regionalnych Telewizji Polskiej, określone w załączniku nr 1 do rozporządzenia;
-2) obszary emitowania programów regionalnych poszczególnych spółek radiofonii regionalnej, określone w załączniku nr 2 do rozporządzenia.
-2. Jeżeli obszary emitowania, o których mowa w ust. 1, obejmują więcej niż jeden program regionalny Telewizji Polskiej lub spółki radiofonii regionalnej, pełnomocnik, składając wniosek o przydział nieodpłatnego czasu antenowego do jednego z oddziałów regionalnych Telewizji Polskiej lub spółki radiofonii regionalnej, decyduje, w którym z nich będą rozpowszechniane audycje wyborcze.
-3. Informacja, o której mowa w ust. 2, przekazywana jest przez wskazany oddział regionalny Telewizji Polskiej lub spółkę radiofonii regionalnej do pozostałych oddziałów regionalnych Telewizji Polskiej lub spółek radiofonii regionalnej objętych obszarem emitowania.
-4. Przewodniczący Krajowej Rady Radiofonii i Telewizji na wniosek pełnomocnika zainteresowanego komitetu wyborczego, złożony nie później niż w 24. dniu przed dniem wyborów, dotyczący rozpowszechniania audycji w okręgach wyborczych położonych na granicy obszarów określonych w załącznikach, o których mowa w ust. 1, może zezwolić na rozpowszechnianie audycji wyborczych z obszaru sąsiedniego, jeżeli jest to uzasadnione lepszą jakością techniczną programu.
-§ 50. Po rozpatrzeniu wniosków spełniających wymogi, o których mowa w § 47, nie później niż w 20. dniu przed dniem wyborów, a w przypadku wniosku na rozpowszechnianie audycji wyborczych w związku z zarejestrowaniem kandydatów na wójtów lub kandydatów do rad, nie później niż w 19. dniu przed dniem wyborów, Telewizja Polska, Polskie Radio oraz spółki radiofonii regionalnej dokonują ustaleń i informują pełnomocników o:
-1) czasie antenowym przysługującym komitetowi wyborczemu;
-2) terminach rozpowszechniania audycji wyborczych komitetu wyborczego;
-3) terminach i czasie rejestracji audycji wyborczych oraz wyposażeniu studia i standardach technicznych nagrywania audycji wyborczych;
-4) warunkach technicznych, jakim powinny odpowiadać materiały audycji wyborczych przygotowanych samodzielnie przez komitety wyborcze;
-5) miejscu i terminie losowania kolejności rozpowszechniania audycji wyborczych.
-§ 51. Kolejność rozpowszechniania w każdym dniu audycji wyborczych ustalają kierujący redakcjami właściwych programów ogólnokrajowych i regionalnych w drodze losowania przeprowadzanego w obecności pełnomocników, nie później niż w 18. dniu przed dniem wyborów.
-§ 52. 1. Komitety wyborcze, którym przysługuje prawo rozpowszechniania audycji wyborczych równocześnie do Sejmu i Senatu Rzeczypospolitej Polskiej, mogą prowadzić łączną kampanię wyborczą w programach ogólnokrajowych i regionalnych.
-2. Zasady i sposób łącznego prowadzenia kampanii wyborczej, o której mowa w ust. 1, określają przepisy wydane na podstawie art. 284 § 5 ustawy.
-§ 53. 1. Komitety wyborcze, którym przysługuje prawo rozpowszechniania audycji wyborczych w związku z zarejestrowaniem kandydatów na wójtów i zarejestrowaniem kandydatów do rad, mogą prowadzić łączną kampanię wyborczą w tym samym programie regionalnym.
-2. Prowadzenie łącznej kampanii wyborczej polega na łączeniu całego czasu przysługującego w tym samym programie regionalnym Telewizji Polskiej lub spółki radiofonii regionalnej z tytułu udziału w wyborach wójta z całym czasem przysługującym w programie regionalnym Telewizji Polskiej lub spółki radiofonii regionalnej z tytułu udziału w wyborach do rady.
-§ 54. 1. Wniosek w sprawie łącznego prowadzenia kampanii wyborczej, o której mowa w § 53, pełnomocnik składa Telewizji Polskiej i spółkom radiofonii regionalnej, nie później niż w 20. dniu przed dniem wyborów.
-2. W przypadku zamiaru łącznego prowadzenia kampanii wyborczej w tym samym programie regionalnym pełnomocnik wskazuje oddział Telewizji Polskiej lub spółkę radiofonii regionalnej, w których będzie prowadzona łączna kampania wyborcza.
-3. W przypadku niespełnienia przez pełnomocnika komitetu wyborczego wymogów określonych w ust. 1 i 2, komitetowi wyborczemu przydzielany jest czas na rozpowszechnianie audycji wyborczych w oddzielnych blokach.
-§ 55. 1. W przypadku ponownego głosowania na Prezydenta Rzeczypospolitej Polskiej podział czasu rozpowszechniania audycji wyborczych następuje na wniosek pełnomocnika, złożony Telewizji Polskiej i Polskiemu Radiu w ciągu 24 godzin od podania do wiadomości publicznej obwieszczenia Państwowej Komisji Wyborczej o wynikach głosowania.
-2. Kolejność rozpowszechniania w każdym dniu audycji wyborczych, o których mowa w ust. 1, ustalają kierujący redakcjami właściwych programów ogólnokrajowych w drodze losowania przeprowadzanego w obecności pełnomocników, nie później niż w 10. dniu przed dniem wyborów.
-§ 56. W wyborach zarządzonych w związku ze skróceniem kadencji Sejmu Rzeczypospolitej Polskiej:
-1) informacje, o których mowa w § 40 pkt 1, Państwowa Komisja Wyborcza przekazuje Telewizji Polskiej i Polskiemu Radiu, nie później niż w 19. dniu przed dniem wyborów;
-2) okręgowe komisje wyborcze, nie później niż w 19. dniu przed dniem wyborów, przekazują oddziałom Telewizji Polskiej i spółkom radiofonii regionalnej właściwym ze względu na obszar emitowania programów regionalnych informacje o komitetach wyborczych, które zarejestrowały listy okręgowe lub kandydatów na senatorów, podając:
-a) nazwy komitetów wyborczych uprawnionych do rozpowszechniania audycji wyborczych,
-b) imiona i nazwiska oraz adres zamieszkania pełnomocników,
-c) liczbę zarejestrowanych kandydatów na senatorów;
-3) niezwłocznie po nadaniu numerów zarejestrowanym listom okręgowym okręgowe komisje wyborcze przekazują informację o tych numerach oddziałom Telewizji Polskiej i spółkom radiofonii regionalnej właściwym ze względu na obszar emitowania programów regionalnych.
-§ 57. 1. W wyborach przedterminowych oraz w wyborach do nowej rady:
-1) termin do złożenia wniosku, o którym mowa w § 49 ust. 4, upływa 3. dnia po upływie terminu na zgłaszanie do zarejestrowania list kandydatów na radnych;
-1a) termin przekazania informacji, o których mowa w § 46 ust. 1, upływa 3. dnia po upływie terminu na zgłaszanie do zarejestrowania list kandydatów na radnych;
-2) termin, o którym mowa w § 47 ust. 2, upływa 5. dnia po upływie terminu na zgłaszanie do zarejestrowania list kandydatów na radnych;
-3) termin, o którym mowa w § 50, upływa 7. dnia po upływie terminu na zgłaszanie do zarejestrowania list kandydatów na radnych;
-4) termin ustalenia kolejności rozpowszechniania audycji wyborczych, o którym mowa w § 51, upływa 8. dnia po upływie terminu na zgłaszanie do zarejestrowania list kandydatów na radnych.
-2. W wyborach przedterminowych lub w wyborach do nowej rady przeprowadzanych w tym samym dniu co wybory wójta tej gminy, w których termin zgłaszania do zarejestrowania list kandydatów na radnych oraz kandydatów na wójta wyznaczony został na ten sam dzień, przepis ust. 1 stosuje się odpowiednio, a ponadto termin do złożenia wniosku, o którym mowa w § 54 ust. 1, upływa 5. dnia po upływie terminu na zgłaszanie do zarejestrowania list kandydatów na radnych.
-3. W wyborach przedterminowych lub w wyborach do nowej rady przeprowadzanych w tym samym dniu co wybory wójta tej gminy, w których terminy zgłaszania do zarejestrowania list kandydatów na radnych oraz kandydatów na wójta wyznaczone zostały na inne dni:
-1) termin, o którym mowa w § 49 ust. 4, upływa 3. dnia po upływie terminu na zgłaszanie kandydatów na wójta;
-1a) termin przekazania informacji, o których mowa w § 46 ust. 1, upływa 3. dnia po upływie terminu na zgłaszanie kandydatów na wójta;
-2) termin, o którym mowa w § 47 ust. 2, upływa 5. dnia po upływie terminu na zgłaszanie kandydatów na wójta;
-3) termin, o którym mowa w § 50, upływa 7. dnia po upływie terminu na zgłaszanie kandydatów na wójta;
-4) termin ustalenia kolejności rozpowszechniania audycji wyborczych, o którym mowa w § 51, upływa 8. dnia po upływie terminu na zgłaszanie kandydatów na wójta;
-5) termin do złożenia wniosku, o którym mowa w § 54 ust. 1, upływa 5. dnia po upływie terminu na zgłaszanie kandydatów na wójta.
-4. W wyborach przedterminowych wójta przepis ust. 3 stosuje się odpowiednio.
-2. Łączne audycje wyborcze do rad i na wójta, o których mowa w § 53 i 54, są rozpowszechniane w specjalnych blokach audycji wyborczych.
-3. Łączne audycje wyborcze do Sejmu i Senatu, o których mowa w przepisach wydanych na podstawie art. 284 § 5 ustawy, są rozpowszechniane w specjalnych blokach audycji wyborczych.
-4. Czas antenowy niewykorzystany w jednym bloku audycji wyborczych z przyczyn leżących po stronie komitetu wyborczego nie może być rekompensowany wydłużeniem czasu antenowego w innych blokach.
-§ 59. Rejestracja i emisja audycji wyborczych dokonywana jest na koszt Telewizji Polskiej, Polskiego Radia i spółek radiofonii regionalnej.
-§ 60. Rejestracja telewizyjnej audycji wyborczej i przygotowanie jej do rozpowszechniania obejmuje:
-1) nieodpłatne przegranie audycji wyborczej dostarczonej przez komitet wyborczy na kasecie lub innym nośniku z obrazem o rozdzielczości SD lub wyższej wskazanym pełnomocnikom przez Telewizję Polską na stosowane w emisji nośniki;
-2) nieodpłatne udostępnienie studia i urządzeń technicznych wraz z realizatorem w celu nagrania audycji wyborczej na czas nie dłuższy niż trzykrotność czasu audycji wyborczej.
-§ 61. Rejestracja radiowej audycji wyborczej i przygotowanie jej do rozpowszechniania obejmuje:
-1) nieodpłatne przegranie audycji wyborczej dostarczonej przez komitet wyborczy na kasecie, płycie lub innym nośniku dźwięku wskazanym pełnomocnikom przez Polskie Radio i spółki radiofonii regionalnej na stosowane w emisji nośniki;
-2) nieodpłatne udostępnienie studia i urządzeń technicznych wraz z realizatorem w celu nagrania audycji wyborczej na czas nie dłuższy niż trzykrotność czasu audycji wyborczej.
-§ 62. Wniosek o udostępnienie studia i urządzeń technicznych składany jest przez pełnomocnika do kierującego redakcją właściwego programu ogólnokrajowego lub regionalnego, nie później niż 24 godziny przed wnioskowaną rejestracją audycji wyborczej.
-§ 63. 1. Materiały audycji wyborczych przygotowywanych samodzielnie przez komitety wyborcze są dostarczane do Telewizji Polskiej, Polskiego Radia i spółek radiofonii regionalnej nie później niż na 24 godziny przed dniem ich rozpowszechnienia.
-2. Jeżeli materiały audycji wyborczych przygotowanych samodzielnie przez komitety wyborcze nie odpowiadają warunkom technicznym podanym do wiadomości pełnomocników, Telewizja Polska, Polskie Radio lub spółki radiofonii regionalnej wzywają pełnomocnika komitetu wyborczego do usunięcia wskazanych usterek i dostarczenia poprawionego materiału audycji wyborczych, najpóźniej na 8 godzin przed ustalonym czasem rozpowszechnienia audycji.
-3. Jeżeli komitet wyborczy nie usunie usterek i nie dostarczy poprawionego materiału audycji wyborczej w terminie, o którym mowa w ust. 2, Telewizja Polska, Polskie Radio lub spółki radiofonii regionalnej nie wyemitują tego materiału.
-Przepis § 58 ust. 4 stosuje się odpowiednio.
-§ 64. 1. Czas audycji wyborczych dostarczonych przez pełnomocnika komitetu wyborczego nie może przekraczać czasu ustalonego dla tych audycji.
-2. W przypadku stwierdzenia, że dostarczone przez komitet wyborczy materiały audycji wyborczych przekraczają czas ustalony dla tych audycji, Telewizja Polska, Polskie Radio lub spółki radiofonii regionalnej wzywają niezwłocznie komitet wyborczy do skrócenia czasu audycji.
-3. Jeżeli komitet wyborczy nie zastosuje się w ciągu 8 godzin do wezwania, o którym mowa w ust. 2, Telewizja Polska, Polskie Radio lub spółki radiofonii regionalnej przerywają emisję audycji wyborczej w chwili, kiedy upłynął czas audycji przysługujący danemu komitetowi wyborczemu.
-2. Informacje dotyczące rozpowszechniania bloków audycji wyborczych Telewizja Polska, Polskie Radio i spółki radiofonii regionalnej przekazują prasie, w trybie przyjętym dla informowania o treści programu.
-OBSZARY EMITOWANIA PROGRAMÓW REGIONALNYCH TELEWIZJI POLSKIEJ 3 Załącznik do rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 14 października 2014 r. (poz. …..) ZAŁĄCZNIK Nr 1 OBSZARY EMITOWANIA PROGRAMÓW REGIONALNYCH TELEWIZJI POLSKIEJ WOJEWÓDZTWO DOLNOŚLĄSKIE Powiaty w granicach administracyjnych Nazwa oddziału TVP S.A.
-1 2 Jelenia Góra, Legnica, Wałbrzych, Wrocław, powiaty: Oddział TVP Wrocław bolesławiecki, dzierżoniowski, głogowski, górowski, jaworski, jeleniogórski, kamiennogórski, kłodzki, legnicki, lubański, lubiński, lwówecki, milicki, oleśnicki, oławski, polkowicki, strzeliński, średzki, świdnicki, trzebnicki, wałbrzyski, wołowski, wrocławski, ząbkowicki, zgorzelecki, złotoryjski WOJEWÓDZTWO KUJAWSKO-POMORSKIE Powiaty w granicach administracyjnych Nazwa oddziału TVP S.A.
-1 2 Bydgoszcz, Grudziądz, Toruń, Włocławek, powiaty: Oddział TVP Bydgoszcz aleksandrowski, brodnicki, bydgoski, chełmiński, golubsko-dobrzyński, grudziądzki, inowrocławski, lipnowski, mogileński, nakielski, radziejowski, rypiński, sępoleński, świecki, toruński, tucholski, wąbrzeski, włocławski, żniński WOJEWÓDZTWO LUBELSKIE Powiaty w granicach administracyjnych Nazwa oddziału TVP S.A.
-1 2 Biała Podlaska, Chełm, Lublin, Zamość, powiaty: bialski, biłgorajski, chełmski, hrubieszowski, janowski, krasnostawski, kraśnicki, lubartowski, lubelski, łęczyński, łukowski, opolski, parczewski, puławski, radzyński, rycki, świdnicki, tomaszowski, włodawski, zamojski
-1 2 Gorzów Wielkopolski, Zielona Góra, powiaty: gorzowski, Oddział TVP Gorzów Wlkp.
-krośnieński, międzyrzecki, nowosolski, słubicki, strzelecko-drezdenecki, sulęciński, świebodziński, wschowski, zielonogórski, żagański, żarski WOJEWÓDZTWO ŁÓDZKIE Powiaty w granicach administracyjnych Nazwa oddziału TVP S.A.
-1 2 Łódź, Piotrków Trybunalski, Skierniewice, powiaty: Oddział TVP Łódź bełchatowski, brzeziński, kutnowski, łaski, łęczycki, łowicki, łódzki wschodni, opoczyński, pabianicki, pajęczański, piotrkowski, poddębicki, radomszczański, rawski, sieradzki, skierniewicki, tomaszowski, wieluński, wieruszowski, zduńskowolski, zgierski WOJEWÓDZTWO MAŁOPOLSKIE Powiaty w granicach administracyjnych Nazwa oddziału TVP S.A.
-1 2 Kraków, Nowy Sącz, Tarnów, powiaty: bocheński, brzeski, chrzanowski, dąbrowski, gorlicki, krakowski, limanowski, miechowski, myślenicki, nowosądecki, nowotarski, olkuski, oświęcimski, proszowicki, suski, tarnowski, tatrzański, wadowicki, wielicki
-1 2 Ostrołęka, Płock, Radom, Siedlce, m.st. Warszawa, Oddział TVP Warszawa powiaty: białobrzeski, ciechanowski, garwoliński, gostyniński, grodziski, grójecki, kozienicki, legionowski, lipski, łosicki, makowski, miński, mławski, nowodworski, ostrołęcki, ostrowski, otwocki, piaseczyński, płocki, płoński, pruszkowski, przasnyski, przysuski, pułtuski, radomski, siedlecki, sierpecki, sochaczewski, sokołowski, szydłowiecki, warszawski zachodni, węgrowski, wołomiński, wyszkowski, zwoleński, żuromiński, żyrardowski WOJEWÓDZTWO OPOLSKIE Powiaty w granicach administracyjnych Nazwa oddziału TVP S.A.
-1 2 Opole, powiaty: brzeski, głubczycki, kędzierzyńsko- Oddział TVP Opole -kozielski, kluczborski, krapkowicki, namysłowski, nyski, oleski, opolski, prudnicki, strzelecki WOJEWÓDZTWO PODKARPACKIE Powiaty w granicach administracyjnych Nazwa oddziału TVP S.A.
-1 2 Krosno, Przemyśl, Rzeszów, Tarnobrzeg, powiaty: bieszczadzki, brzozowski, dębicki, jarosławski, jasielski, kolbuszowski, krośnieński, leski, leżajski, lubaczowski, łańcucki, mielecki, niżański, przemyski, przeworski, ropczycko-sędziszowski, rzeszowski, sanocki, stalowowolski, strzyżowski, tarnobrzeski
-1 2 Białystok, Łomża, Suwałki, powiaty: augustowski, białostocki, bielski, grajewski, hajnowski, kolneński, łomżyński, moniecki, sejneński, siemiatycki, sokólski, suwalski, wysokomazowiecki, zambrowski
-1 2 Gdańsk, Gdynia, Słupsk, Sopot, powiaty: bytowski, Oddział TVP Gdańsk chojnicki, człuchowski, gdański, kartuski, kościerski, kwidzyński, lęborski, malborski, nowodworski, pucki, słupski, starogardzki, sztumski, tczewski, wejherowski WOJEWÓDZTWO ŚLĄSKIE Powiaty w granicach administracyjnych Nazwa oddziału TVP S.A.
-1 2 Bielsko-Biała, Bytom, Chorzów, Częstochowa, Dąbrowa Oddział TVP Katowice Górnicza, Gliwice, Jastrzębie-Zdrój, Jaworzno, Katowice, Mysłowice, Piekary Śląskie, Ruda Śląska, Rybnik, Siemianowice Śląskie, Sosnowiec, Świętochłowice, Tychy, Zabrze, Żory, powiaty: będziński, bielski, bieruńsko-lędziński, cieszyński, częstochowski, gliwicki, kłobucki, lubliniecki, mikołowski, myszkowski, pszczyński, raciborski, rybnicki, tarnogórski, wodzisławski, zawierciański, żywiecki WOJEWÓDZTWO ŚWIĘTOKRZYSKIE Powiaty w granicach administracyjnych Nazwa oddziału TVP S.A.
-1 2 Kielce, powiaty: buski, jędrzejowski, kazimierski, kielecki, Oddział TVP Kielce konecki, opatowski, ostrowiecki, pińczowski, sandomierski, skarżyski, starachowicki, staszowski, włoszczowski WOJEWÓDZTWO WARMIŃSKO-MAZURSKIE Powiaty w granicach administracyjnych Nazwa oddziału TVP S.A.
-1 2 Elbląg, Olsztyn, powiaty: bartoszycki, braniewski, Oddział TVP Olsztyn działdowski, elbląski, ełcki, giżycki, gołdapski, iławski, kętrzyński, lidzbarski, mrągowski, nidzicki, nowomiejski, olecki, olsztyński, ostródzki, piski, węgorzewski, szczycieński WOJEWÓDZTWO WIELKOPOLSKIE Powiaty w granicach administracyjnych Nazwa oddziału TVP S.A.
-1 2 Kalisz, Konin, Leszno, Poznań, powiaty: chodzieski, Oddział TVP Poznań czarnkowsko-trzcianecki, gnieźnieński, gostyński, grodziski, jarociński, kaliski, kępiński, kolski, koniński, kościański, krotoszyński, leszczyński, międzychodzki, nowotomyski, obornicki, ostrowski, ostrzeszowski, pilski, pleszewski, poznański, rawicki, słupecki, szamotulski, średzki, śremski, turecki, wągrowiecki, wolsztyński, wrzesiński, złotowski WOJEWÓDZTWO ZACHODNIOPOMORSKIE Powiaty w granicach administracyjnych Nazwa oddziału TVP S.A.
-1 2 Koszalin, Szczecin, Świnoujście, powiaty: białogardzki, Oddział TVP Szczecin choszczeński, goleniowski, gryfiński, drawski, gryficki, kamieński, kołobrzeski, koszaliński, łobeski, myśliborski, policki, pyrzycki, sławieński, stargardzki, szczecinecki, świdwiński, wałecki OBSZARY EMITOWANIA PROGRAMÓW SPÓŁEK RADIOFONII REGIONALNEJ
+Treść obwieszczenia
+Załącznik – Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 12 lipca 2011 r. w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji Dział I – Przepisy ogólne Dział II – Czas oraz ramowy podział czasu przeznaczonego na rozpowszechnianie audycji wyborczych w programach ogólnokrajowych i programach regionalnych publicznej radiofonii i telewizji Rozdział 1 – Czas oraz ramowy podział czasu przeznaczonego na rozpowszechnianie audycji wyborczych w wyborach do Sejmu Rzeczypospolitej Polskiej Rozdział 2 – Czas oraz ramowy podział czasu przeznaczonego na rozpowszechnianie audycji wyborczych w wyborach do Senatu Rzeczypospolitej Polskiej Rozdział 3 – Czas oraz ramowy podział czasu przeznaczonego na rozpowszechnianie audycji wyborczych w wyborach Prezydenta Rzeczypospolitej Polskiej Rozdział 4 – Czas oraz ramowy podział czasu przeznaczonego na rozpowszechnianie audycji wyborczych w wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej Rozdział 5 – Czas oraz ramowy podział czasu przeznaczonego na rozpowszechnianie audycji wyborczych w wyborach do rad gmin, rad powiatów i sejmików wojewódzkich Rozdział 6 – Czas oraz ramowy podział czasu przeznaczonego na rozpowszechnianie audycji wyborczych w wyborach wójta, burmistrza i prezydenta miasta Dział III – Tryb postępowania w sprawach podziału czasu rozpowszechniania audycji wyborczych Dział IV – Sposób przygotowania oraz zakres rejestracji i emisji audycji wyborczych oraz typ i rodzaj nośnika zapisu audycji wyborczej Dział V – Sposób rozpowszechniania informacji o terminach emisji audycji wyborczych Dział VI – Przepis końcowy
 
-### DZIAŁ I Przepisy ogólne § 1. Rozporządzenie określa:
+## Załącznik nr 1 — – Obszary emitowania programów regionalnych Telewizji Polskiej
 
-### DZIAŁ II Czas oraz ramowy podział czasu przeznaczonego na rozpowszechnianie audycji wyborczych w programach ogólnokrajowych i programach regionalnych publicznej radiofonii i telewizji
+## Załącznik nr 2 — – Obszary emitowania programów spółek radiofonii regionalnej
 
-#### Rozdział 1 Czas oraz ramowy podział czasu przeznaczonego na rozpowszechnianie audycji wyborczych w wyborach do Sejmu Rzeczypospolitej Polskiej § 4. Audycje wyborcze przygotowywane przez komitety wyborcze w wyborach do Sejmu Rzeczypospolitej Polskiej są rozpowszechniane, w okresie od 15. dnia przed dniem głosowania do dnia zakończenia kampanii wyborczej, w programach:
+Załącznik – OBSZARY EMITOWANIA PROGRAMÓW REGIONALNYCH TELEWIZJI POLSKIEJ
+Załącznik – OBSZARY EMITOWANIA PROGRAMÓW SPÓŁEK RADIOFONII REGIONALNEJ
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 pkt 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 12 lipca 2011 r. w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji (Dz. U. poz. 915), z uwzględnieniem zmian wprowadzonych:
+1)
+rozporządzeniem Krajowej Rady Radiofonii i Telewizji z dnia 6 września 2011 r. zmieniającym rozporządzenie w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji (Dz. U. poz. 1146);
+2)
+rozporządzeniem Krajowej Rady Radiofonii i Telewizji z dnia 8 października 2013 r. zmieniającym rozporządzenie w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji (Dz. U. poz. 1285);
+3)
+rozporządzeniem Krajowej Rady Radiofonii i Telewizji z dnia 1 kwietnia 2014 r. zmieniającym rozporządzenie w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji (Dz. U. poz. 476);
+4)
+rozporządzeniem Krajowej Rady Radiofonii i Telewizji z dnia 14 października 2014 r. zmieniającym rozporządzenie w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji (Dz. U. poz. 1416);
+5)
+rozporządzeniem Krajowej Rady Radiofonii i Telewizji z dnia 11 września 2015 r. zmieniającym rozporządzenie w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji (Dz. U. poz. 1444);
+6)
+rozporządzeniem Krajowej Rady Radiofonii i Telewizji z dnia 13 września 2018 r. zmieniającym rozporządzenie w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji (Dz. U. poz. 1842).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
+1)
+§ 2 rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 6 września 2011 r. zmieniającego rozporządzenie w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji (Dz. U. poz. 1146), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+” ;
+2)
+§ 2 rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 8 października 2013 r. zmieniającego rozporządzenie w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji (Dz. U. poz. 1285), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+” ;
+3)
+§ 2 rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 1 kwietnia 2014 r. zmieniającego rozporządzenie w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji (Dz. U. poz. 476), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+” ;
+4)
+§ 2 rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 14 października 2014 r. zmieniającego rozporządzenie w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji (Dz. U. poz. 1416), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+” ;
+5)
+§ 2 rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 11 września 2015 r. zmieniającego rozporządzenie w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji (Dz. U. poz. 1444), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+” ;
+6)
+§ 2 rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 13 września 2018 r. zmieniającego rozporządzenie w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji (Dz. U. poz. 1842), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+” .
+Załącznik – Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 12 lipca 2011 r. w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji
+Na podstawie art. 117 § 6 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2018 r. poz. 754, 1000 i 1349 oraz z 2019 r. poz. 273) zarządza się, co następuje:
+Dział I Przepisy ogólne
+§ 1.
+Rozporządzenie określa:
+1)
+czas przeznaczony na rozpowszechnianie nieodpłatnie audycji wyborczych w każdym z programów ogólnokrajowych i programów regionalnych publicznej radiofonii i telewizji;
+2)
+ramowy podział czasu rozpowszechniania nieodpłatnie audycji wyborczych w okresie od 15. dnia przed dniem głosowania do dnia zakończenia kampanii wyborczej;
+3)
+tryb postępowania w sprawach podziału czasu rozpowszechniania nieodpłatnie audycji wyborczych;
+4)
+sposób przygotowania oraz zakres rejestracji i emisji audycji wyborczych;
+5)
+typ i rodzaj nośnika zapisu audycji wyborczej;
+6)
+sposób rozpowszechniania informacji o terminach emisji audycji wyborczych.
+§ 2.
+Ilekroć w rozporządzeniu jest mowa o:
+1)
+audycjach wyborczych – należy przez to rozumieć:
+a)
+nieodpłatne audycje wyborcze, o których mowa w art. 252 § 1 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy, zwanej dalej „ustawą”,
+b)
+nieodpłatne audycje wyborcze, o których mowa w art. 284 § 1 i art. 285 § 1 ustawy,
+c)
+nieodpłatne audycje wyborcze, o których mowa w art. 326 § 1 i 5 ustawy,
+d)
+nieodpłatne audycje wyborcze, o których mowa w art. 347 § 1 ustawy,
+e)
+nieodpłatne audycje wyborcze, o których mowa w art. 411 § 1 i 3 ustawy,
+f)
+nieodpłatne audycje wyborcze, o których mowa w art. 491 § 1 i 5 ustawy;
+2)
+radzie – należy przez to rozumieć odpowiednio rady gmin, rady dzielnic – dla m.st. Warszawy, rady powiatów i sejmiki województw;
+3)
+wójcie – należy przez to rozumieć także burmistrza i prezydenta miasta.
+§ 3.
+Komitet wyborczy jest reprezentowany przed „Telewizją Polską – Spółka Akcyjna” i „Polskim Radiem – Spółka Akcyjna”, zwanymi dalej „Telewizją Polską” i „Polskim Radiem”, oraz spółkami radiofonii regionalnej przez pełnomocnika wyborczego komitetu wyborczego lub osobę pisemnie upoważnioną przez pełnomocnika wyborczego, zwanych dalej „pełnomocnikiem”.
+Dział II Czas oraz ramowy podział czasu przeznaczonego na rozpowszechnianie audycji wyborczych w programach ogólnokrajowych i programach regionalnych publicznej radiofonii i telewizji
+Rozdział 1 Czas oraz ramowy podział czasu przeznaczonego na rozpowszechnianie audycji wyborczych w wyborach do Sejmu Rzeczypospolitej Polskiej
+§ 4.
+Audycje wyborcze przygotowywane przez komitety wyborcze w wyborach do Sejmu Rzeczypospolitej Polskiej są rozpowszechniane, w okresie od 15. dnia przed dniem głosowania do dnia zakończenia kampanii wyborczej, w programach:
+1)
+ogólnokrajowych Telewizji Polskiej i Polskiego Radia – jeżeli komitet wyborczy zarejestrował swoje listy kandydatów co najmniej w połowie okręgów wyborczych;
+2)
+regionalnych Telewizji Polskiej i spółek radiofonii regionalnej – jeżeli komitet wyborczy zarejestrował listę kandydatów co najmniej w jednym okręgu wyborczym.
+§ 5.
+1.
+W programach ogólnokrajowych Telewizji Polskiej czas rozpowszechniania audycji wyborczych, o których mowa w § 4 pkt 1, wynosi:
+1)
+w Programie 1 – 360 minut;
+2)
+w Programie 2 – 360 minut;
+3)
+w Programie TVP Polonia – 180 minut.
+2.
+Telewizja Polska rozpowszechnia audycje wyborcze, o których mowa w ust. 1:
+1)
+w Programie 1 – codziennie w godzinach 600–1000 i w godzinach 1600–2300 w blokach audycji wyborczych nie krótszych niż 10 minut;
+2)
+w Programie 2 – codziennie w godzinach 600–900 i w godzinach 1430–1755 w blokach audycji wyborczych nie krótszych niż 10 minut;
+3)
+w Programie TVP Polonia – wykorzystuje w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 2200–2300, w godzinach 200–500 i w godzinach 1230–1530.
+§ 6.
+1.
+W programach ogólnokrajowych Polskiego Radia czas rozpowszechniania audycji wyborczych, o których mowa w § 4 pkt 1, wynosi:
+1)
+w Programie 1 – 500 minut;
+2)
+w Programie 2 – 250 minut;
+3)
+w Programie 3 – 500 minut;
+4)
+w Programie 4 – 250 minut;
+5)
+w programie dla zagranicy – 300 minut.
+2.
+Polskie Radio rozpowszechnia audycje wyborcze, o których mowa w ust. 1:
+1)
+w Programie 1 – codziennie w godzinach 605–1000 i w godzinach 2205–2300 w blokach audycji wyborczych nie krótszych niż 15 minut;
+2)
+w Programie 2 – codziennie w godzinach 605–1000 i w godzinach 2205–2300 w blokach audycji wyborczych nie krótszych niż 7 minut;
+3)
+w Programie 3 – codziennie w godzinach 605–1000 i w godzinach 2205–2300 w blokach audycji wyborczych nie krótszych niż 15 minut;
+4)
+w Programie 4 – codziennie w godzinach 605–1000 i w godzinach 2205–2300 w blokach audycji wyborczych nie krótszych niż 7 minut;
+5)
+w programie dla zagranicy – codziennie w godzinach 605–1000 i w godzinach 2305–2400 w blokach audycji wyborczych nie krótszych niż 9 minut.
+§ 7.
+1.
+W każdym programie regionalnym Telewizji Polskiej czas rozpowszechniania audycji wyborczych, o których mowa w § 4 pkt 2, wynosi 600 minut.
+2.
+Telewizja Polska rozpowszechnia audycje wyborcze, o których mowa w ust. 1:
+1)
+od poniedziałku do piątku w godzinach 1700–1800 i w godzinach 1900–2000 w blokach audycji wyborczych nie krótszych niż 20 minut;
+2)
+w soboty i niedziele w godzinach 700–900, w godzinach 1700–1800 i w godzinach 1900–2300 w blokach audycji wyborczych nie krótszych niż 10 minut.
+§ 8.
+1.
+W każdym programie spółek radiofonii regionalnej czas rozpowszechniania audycji wyborczych, o których mowa w § 4 pkt 2, wynosi 900 minut.
+2.
+Spółki radiofonii regionalnej rozpowszechniając audycje wyborcze, o których mowa w ust. 1, wykorzystują w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 1300–1500 i w godzinach 1800–2200.
+Rozdział 2 Czas oraz ramowy podział czasu przeznaczonego na rozpowszechnianie audycji wyborczych w wyborach do Senatu Rzeczypospolitej Polskiej
+§ 9.
+Audycje wyborcze przygotowywane przez komitety wyborcze w wyborach do Senatu Rzeczypospolitej Polskiej są rozpowszechniane, w okresie od 15. dnia przed dniem głosowania do dnia zakończenia kampanii wyborczej, w programach:
+1)
+ogólnokrajowych Telewizji Polskiej i Polskiego Radia – jeżeli komitet wyborczy zarejestrował kandydatów na senatorów co najmniej w połowie okręgów wyborczych;
+2)
+regionalnych Telewizji Polskiej i spółek radiofonii regionalnej – jeżeli komitet wyborczy zarejestrował co najmniej jednego kandydata na senatora.
+§ 10.
+1.
+W programach ogólnokrajowych Telewizji Polskiej czas rozpowszechniania audycji wyborczych, o których mowa w § 9 pkt 1, wynosi:
+1)
+w Programie 1 – 120 minut;
+2)
+w Programie 2 – 120 minut;
+3)
+w Programie TVP Polonia – 60 minut.
+2.
+Telewizja Polska rozpowszechnia audycje wyborcze, o których mowa w ust. 1:
+1)
+w Programie 1 – codziennie w godzinach 600–1000 lub w godzinach 1600–2300 w bloku audycji wyborczych nie krótszym niż 8 minut;
+2)
+w Programie 2 – codziennie w godzinach 600–900 lub w godzinach 1430–1755 w bloku audycji wyborczych nie krótszym niż 8 minut;
+3)
+w Programie TVP Polonia – wykorzystuje w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 2200–2300, w godzinach 200–500 i w godzinach 1230–1530.
+§ 11.
+1.
+W programach ogólnokrajowych Polskiego Radia czas rozpowszechniania audycji wyborczych, o których mowa w § 9 pkt 1, wynosi:
+1)
+w Programie 1 – 120 minut;
+2)
+w Programie 2 – 120 minut;
+3)
+w Programie 3 – 120 minut;
+4)
+w Programie 4 – 120 minut;
+5)
+w programie dla zagranicy – 120 minut.
+2.
+Polskie Radio rozpowszechnia audycje wyborcze, o których mowa w ust. 1:
+1)
+w Programie 1 – codziennie w godzinach 605–1000 i w godzinach 2205–2300 w blokach audycji wyborczych nie krótszych niż 3,5 minuty;
+2)
+w Programie 2 – codziennie w godzinach 605–1000 i w godzinach 2205–2300 w blokach audycji wyborczych nie krótszych niż 3,5 minuty;
+3)
+w Programie 3 – codziennie w godzinach 605–1000 i w godzinach 2205–2300 w blokach audycji wyborczych nie krótszych niż 3,5 minuty;
+4)
+w Programie 4 – codziennie w godzinach 605–1000 i w godzinach 2205–2300 w blokach audycji wyborczych nie krótszych niż 3,5 minuty;
+5)
+w programie dla zagranicy – codziennie w godzinach 605–1000 i w godzinach 2305–2400 w blokach audycji wyborczych nie krótszych niż 3,5 minuty.
+§ 12.
+1.
+W każdym programie regionalnym Telewizji Polskiej czas rozpowszechniania audycji wyborczych, o których mowa w § 9 pkt 2, wynosi 180 minut.
+2.
+Telewizja Polska rozpowszechnia audycje wyborcze, o których mowa w ust. 1:
+1)
+od poniedziałku do piątku w godzinach 1700–1800 i w godzinach 1900–2000 w blokach audycji wyborczych nie krótszych niż 4,5 minuty;
+2)
+w soboty i niedziele w godzinach 700–900, w godzinach 1700–1800 i w godzinach 1900–2300 w blokach audycji wyborczych nie krótszych niż 4 minuty.
+§ 13.
+1.
+W każdym programie spółek radiofonii regionalnej czas rozpowszechniania audycji wyborczych, o których mowa w § 9 pkt 2, wynosi 360 minut.
+2.
+Spółki radiofonii regionalnej rozpowszechniając audycje wyborcze, o których mowa w ust. 1, wykorzystują w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 1300–1500 i w godzinach 1800–2200.
+§ 14.
+Audycje wyborcze przygotowywane przez komitety wyborcze w wyborach uzupełniających do Senatu Rzeczypospolitej Polskiej są rozpowszechniane, w okresie od 15. dnia przed dniem głosowania do dnia zakończenia kampanii wyborczej, w odpowiednich programach regionalnych Telewizji Polskiej i spółek radiofonii regionalnej.
+§ 15.
+1.
+W odpowiednich programach regionalnych Telewizji Polskiej czas rozpowszechniania audycji wyborczych, o których mowa w § 14, wynosi 120 minut.
+2.
+Telewizja Polska rozpowszechniając audycje wyborcze, o których mowa w ust. 1:
+1)
+od poniedziałku do piątku wykorzystuje w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 1700–1800 i w godzinach 1900–2000;
+2)
+w soboty i niedziele wykorzystuje w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 700–900, w godzinach 1700–1800 i w godzinach 1900–2300.
+§ 16.
+1.
+W odpowiednich programach spółek radiofonii regionalnej czas rozpowszechniania audycji wyborczych, o których mowa w § 14, wynosi 240 minut.
+2.
+Spółki radiofonii regionalnej rozpowszechniając audycje wyborcze, o których mowa w ust. 1, wykorzystują w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 1300–1500 i w godzinach 1800–2200.
+Rozdział 3 Czas oraz ramowy podział czasu przeznaczonego na rozpowszechnianie audycji wyborczych w wyborach Prezydenta Rzeczypospolitej Polskiej
+§ 17.
+Audycje wyborcze przygotowywane przez komitety wyborcze w wyborach Prezydenta Rzeczypospolitej Polskiej są rozpowszechniane, w okresie od 15. dnia przed dniem głosowania do dnia zakończenia kampanii wyborczej, w programach ogólnokrajowych Telewizji Polskiej i Polskiego Radia.
+§ 18.
+1.
+W programach ogólnokrajowych Telewizji Polskiej czas rozpowszechniania audycji wyborczych, o których mowa w § 17, wynosi:
+1)
+w Programie 1 – 600 minut;
+2)
+w Programie 2 – 600 minut;
+3)
+w Programie TVP Polonia – 300 minut.
+2.
+Telewizja Polska rozpowszechnia audycje wyborcze, o których mowa w ust. 1:
+1)
+w Programie 1 – codziennie w godzinach 600–1000 i w godzinach 1600–2300 w blokach audycji wyborczych nie krótszych niż 10 minut;
+2)
+w Programie 2 – codziennie w godzinach 600–900 i w godzinach 1430–1755 w blokach audycji wyborczych nie krótszych niż 10 minut;
+3)
+w Programie TVP Polonia – wykorzystuje w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 2200–2300, w godzinach 200–500 i w godzinach 1230–1530.
+§ 19.
+1.
+W programach ogólnokrajowych Polskiego Radia czas rozpowszechniania audycji wyborczych, o których mowa w § 17, wynosi:
+1)
+w Programie 1 – 600 minut;
+2)
+w Programie 2 – 300 minut;
+3)
+w Programie 3 – 600 minut;
+4)
+w Programie 4 – 300 minut;
+5)
+w programie dla zagranicy – 300 minut.
+2.
+Polskie Radio rozpowszechnia audycje wyborcze, o których mowa w ust. 1:
+1)
+w Programie 1 – codziennie w godzinach 605–1000 i w godzinach 2205–2300 w blokach audycji wyborczych nie krótszych niż 18 minut;
+2)
+w Programie 2 – codziennie w godzinach 605–1000 i w godzinach 2205–2300 w blokach audycji wyborczych nie krótszych niż 8 minut;
+3)
+w Programie 3 – codziennie w godzinach 605–1000 i w godzinach 2205–2300 w blokach audycji wyborczych nie krótszych niż 18 minut;
+4)
+w Programie 4 – codziennie w godzinach 605–1000 i w godzinach 2205–2300 w blokach audycji wyborczych nie krótszych niż 8 minut;
+5)
+w programie dla zagranicy – codziennie w godzinach 605–1000 i w godzinach 2205–2300 w blokach audycji wyborczych nie krótszych niż 8 minut.
+§ 20.
+Audycje wyborcze przygotowywane przez komitety wyborcze w przypadku zarządzenia ponownego głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej są rozpowszechniane, w okresie od 9. dnia przed dniem głosowania do dnia zakończenia kampanii wyborczej przed dniem ponownego głosowania, w programach ogólnokrajowych Telewizji Polskiej i Polskiego Radia.
+§ 21.
+1.
+W programach ogólnokrajowych Telewizji Polskiej czas rozpowszechniania audycji wyborczych, o których mowa w § 20, wynosi:
+1)
+w Programie 1 – 150 minut;
+2)
+w Programie 2 – 150 minut;
+3)
+w Programie TVP Polonia – 60 minut.
+2.
+Telewizja Polska rozpowszechnia audycje wyborcze, o których mowa w ust. 1:
+1)
+w Programie 1 – codziennie w godzinach 600–1000 i w godzinach 1600–2300 w blokach audycji wyborczych nie krótszych niż 9 minut;
+2)
+w Programie 2 – codziennie w godzinach 600–900 i w godzinach 1430–1755 w blokach audycji wyborczych nie krótszych niż 9 minut;
+3)
+w Programie TVP Polonia – wykorzystuje w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 2200–2300, w godzinach 200–500 i w godzinach 1230–1530.
+§ 22.
+1.
+W programach ogólnokrajowych Polskiego Radia czas rozpowszechniania audycji wyborczych, o których mowa w § 20, wynosi:
+1)
+w Programie 1 – 100 minut;
+2)
+w Programie 2 – 100 minut;
+3)
+w Programie 3 – 100 minut;
+4)
+w Programie 4 – 100 minut;
+5)
+w programie dla zagranicy – 80 minut.
+2.
+Polskie Radio rozpowszechnia audycje wyborcze, o których mowa w ust. 1:
+1)
+w Programie 1 – codziennie w godzinach 605–1000 i w godzinach 2205–2300 w blokach audycji wyborczych nie krótszych niż 5 minut;
+2)
+w Programie 2 – codziennie w godzinach 605–1000 i w godzinach 2205–2300 w blokach audycji wyborczych nie krótszych niż 5 minut;
+3)
+w Programie 3 – codziennie w godzinach 605–1000 i w godzinach 2205–2300 w blokach audycji wyborczych nie krótszych niż 5 minut;
+4)
+w Programie 4 – codziennie w godzinach 605–1000 i w godzinach 2205–2300 w blokach audycji wyborczych nie krótszych niż 5 minut;
+5)
+w programie dla zagranicy – codziennie w godzinach 605–1000 i w godzinach 2205–2300 w blokach audycji wyborczych nie krótszych niż 4 minuty.
+Rozdział 4 Czas oraz ramowy podział czasu przeznaczonego na rozpowszechnianie audycji wyborczych w wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej
+§ 23.
+Audycje wyborcze przygotowywane przez komitety wyborcze w wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej są rozpowszechniane, w okresie od 15. dnia przed dniem głosowania do dnia zakończenia kampanii wyborczej, w programach:
+1)
+ogólnokrajowych Telewizji Polskiej i Polskiego Radia – jeżeli komitet wyborczy zarejestrował swoje listy kandydatów co najmniej w połowie okręgów wyborczych;
+2)
+regionalnych Telewizji Polskiej i spółek radiofonii regionalnej – jeżeli komitet wyborczy zarejestrował listę kandydatów co najmniej w jednym okręgu wyborczym.
+§ 24.
+1.
+W programach ogólnokrajowych Telewizji Polskiej czas rozpowszechniania audycji wyborczych, o których mowa w § 23 pkt 1, wynosi:
+1)
+w Programie 1 – 360 minut;
+2)
+w Programie 2 – 360 minut;
+3)
+w Programie TVP Polonia – 180 minut.
+2.
+Telewizja Polska rozpowszechnia audycje wyborcze, o których mowa w ust. 1:
+1)
+w Programie 1 – codziennie w godzinach 1700–2300 w blokach audycji wyborczych nie krótszych niż 10 minut;
+2)
+w Programie 2 – codziennie w godzinach 1700–2300 w blokach audycji wyborczych nie krótszych niż 10 minut;
+3)
+w Programie TVP Polonia – codziennie w godzinach 1700–2300 w blokach audycji wyborczych nie krótszych niż 10 minut.
+§ 25.
+1.
+W programach ogólnokrajowych Polskiego Radia czas rozpowszechniania audycji wyborczych, o których mowa w § 23 pkt 1, wynosi:
+1)
+w Programie 1 – 300 minut;
+2)
+w Programie 2 – 200 minut;
+3)
+w Programie 3 – 300 minut;
+4)
+w Programie 4 – 200 minut;
+5)
+w programie dla zagranicy – 200 minut.
+2.
+Polskie Radio rozpowszechnia audycje wyborcze, o których mowa w ust. 1:
+1)
+w Programie 1 – codziennie w godzinach 605–1000 i w godzinach 2205–2300 w blokach audycji wyborczych nie krótszych niż 10 minut;
+2)
+w Programie 2 – codziennie w godzinach 605–1000 i w godzinach 2205–2300 w blokach audycji wyborczych nie krótszych niż 6 minut;
+3)
+w Programie 3 – codziennie w godzinach 605–1000 i w godzinach 2205–2300 w blokach audycji wyborczych nie krótszych niż 10 minut;
+4)
+w Programie 4 – codziennie w godzinach 605–1000 i w godzinach 2205–2300 w blokach audycji wyborczych nie krótszych niż 6 minut;
+5)
+w programie dla zagranicy – codziennie w godzinach 605–1000 i w godzinach 2205–2300 w blokach audycji wyborczych nie krótszych niż 6 minut.
+§ 26.
+1.
+W każdym programie regionalnym Telewizji Polskiej czas rozpowszechniania audycji wyborczych, o których mowa w § 23 pkt 2, wynosi 600 minut.
+2.
+Telewizja Polska rozpowszechnia audycje wyborcze, o których mowa w ust. 1:
+1)
+od poniedziałku do piątku w godzinach 1700–1800 i w godzinach 1900–2000 w blokach audycji wyborczych nie krótszych niż 15 minut;
+2)
+w soboty i niedziele w godzinach 700–900, w godzinach 1700–1800 i w godzinach 1900–2300 w blokach audycji wyborczych nie krótszych niż 10 minut.
+§ 27.
+1.
+W każdym programie spółek radiofonii regionalnej czas rozpowszechniania audycji wyborczych, o których mowa w § 23 pkt 2, wynosi 1200 minut.
+2.
+Spółki radiofonii regionalnej rozpowszechniając audycje wyborcze, o których mowa w ust. 1, wykorzystują w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 1300–1500 i w godzinach 1800–2200.
+Rozdział 5 Czas oraz ramowy podział czasu przeznaczonego na rozpowszechnianie audycji wyborczych w wyborach do rad gmin, rad powiatów i sejmików wojewódzkich
+§ 28.
+Audycje wyborcze przygotowywane przez komitety wyborcze w wyborach do rad są rozpowszechniane, w okresie od 15. dnia przed dniem głosowania do dnia zakończenia kampanii wyborczej, w programach:
+1)
+ogólnokrajowych Telewizji Polskiej i Polskiego Radia – jeżeli komitet wyborczy zarejestrował listy kandydatów co najmniej w połowie okręgów wyborczych do wszystkich sejmików wojewódzkich, w tym przynajmniej jedną listę do każdego sejmiku;
+2)
+regionalnych Telewizji Polskiej i spółek radiofonii regionalnej – jeżeli komitet wyborczy zarejestrował listę kandydatów co najmniej w jednym okręgu wyborczym.
+§ 29.
+1.
+W programach ogólnokrajowych Telewizji Polskiej czas rozpowszechniania audycji wyborczych, o których mowa w § 28 pkt 1, wynosi:
+1)
+w Programie 1 – 450 minut;
+2)
+w Programie 2 – 450 minut.
+2.
+Telewizja Polska rozpowszechnia audycje wyborcze, o których mowa w ust. 1:
+1)
+w Programie 1 – codziennie w godzinach 600–1000 i w godzinach 1600–2300 w blokach audycji wyborczych nie krótszych niż 10 minut;
+2)
+w Programie 2 – codziennie w godzinach 600–900 i w godzinach 1430–1755 w blokach audycji wyborczych nie krótszych niż 10 minut.
+§ 30.
+1.
+W programach ogólnokrajowych Polskiego Radia czas rozpowszechniania audycji wyborczych, o których mowa w § 28 pkt 1, wynosi:
+1)
+w Programie 1 – 300 minut;
+2)
+w Programie 2 – 300 minut;
+3)
+w Programie 3 – 300 minut;
+4)
+w Programie 4 – 300 minut.
+2.
+Polskie Radio rozpowszechnia audycje wyborcze, o których mowa w ust. 1:
+1)
+w Programie 1 – codziennie w godzinach 605–1000 i w godzinach 2205–2300 w blokach audycji wyborczych nie krótszych niż 10 minut;
+2)
+w Programie 2 – codziennie w godzinach 605–1000 i w godzinach 2205–2300 w blokach audycji wyborczych nie krótszych niż 10 minut;
+3)
+w Programie 3 – codziennie w godzinach 605–1000 i w godzinach 2205–2300 w blokach audycji wyborczych nie krótszych niż 10 minut;
+4)
+w Programie 4 – codziennie w godzinach 605–1000 i w godzinach 2205–2300 w blokach audycji wyborczych nie krótszych niż 10 minut.
+§ 31.
+1.
+W każdym programie regionalnym Telewizji Polskiej czas rozpowszechniania audycji wyborczych, o których mowa w § 28 pkt 2, wynosi 900 minut.
+2.
+Telewizja Polska rozpowszechnia audycje wyborcze, o których mowa w ust. 1:
+1)
+od poniedziałku do piątku w godzinach 1700–1800 i w godzinach 1900–2000 w blokach audycji wyborczych nie krótszych niż 25 minut;
+2)
+w soboty i niedziele w godzinach 700–900, w godzinach 1700–1800 i w godzinach 1900–2300 w blokach audycji wyborczych nie krótszych niż 10 minut.
+§ 32.
+1.
+W każdym programie spółek radiofonii regionalnej czas rozpowszechniania audycji wyborczych, o których mowa w § 28 pkt 2, wynosi 1200 minut.
+2.
+Spółki radiofonii regionalnej rozpowszechniając audycje wyborcze, o których mowa w ust. 1, wykorzystują w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 1300–1500 i w godzinach 1800–2200.
+§ 33.
+1.
+Audycje wyborcze przygotowywane przez komitety wyborcze w wyborach przedterminowych oraz w wyborach do nowych rad są rozpowszechniane w odpowiednich programach regionalnych:
+1)
+Telewizji Polskiej – 180 minut;
+2)
+spółek radiofonii regionalnej – 240 minut.
+2.
+Telewizja Polska rozpowszechniając audycje wyborcze, o których mowa w ust. 1:
+1)
+od poniedziałku do piątku wykorzystuje w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 1700–1800 i w godzinach 1900–2000;
+2)
+w soboty i niedziele wykorzystuje w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 700–900, w godzinach 1700–1800 i w godzinach 1900–2300.
+3.
+Spółki radiofonii regionalnej rozpowszechniając audycje wyborcze, o których mowa w ust. 1, wykorzystują w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 1300–1500 i w godzinach 1800–2200.
+Rozdział 6 Czas oraz ramowy podział czasu przeznaczonego na rozpowszechnianie audycji wyborczych w wyborach wójta, burmistrza i prezydenta miasta
+§ 34.
+Audycje wyborcze przygotowywane przez komitety wyborcze w wyborach wójta są rozpowszechniane, w okresie od 15. dnia przed dniem głosowania do dnia zakończenia kampanii wyborczej, w programach regionalnych Telewizji Polskiej i spółek radiofonii regionalnej, jeżeli komitet wyborczy zarejestrował kandydata na wójta.
+§ 35.
+1.
+W każdym programie regionalnym Telewizji Polskiej czas rozpowszechniania audycji wyborczych, o których mowa w § 34, wynosi 120 minut.
+2.
+Telewizja Polska rozpowszechniając audycje wyborcze, o których mowa w ust. 1:
+1)
+od poniedziałku do piątku wykorzystuje w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 1700–1800 i w godzinach 1900–2000;
+2)
+w soboty i niedziele wykorzystuje w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 700–900, w godzinach 1700–1800 i w godzinach 1900–2300.
+§ 36.
+1.
+W każdym programie spółek radiofonii regionalnej czas rozpowszechniania audycji wyborczych, o których mowa w § 34, wynosi 240 minut.
+2.
+Spółki radiofonii regionalnej rozpowszechniając audycje wyborcze, o których mowa w ust. 1, wykorzystują w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 1300–1500 i w godzinach 1800–2200.
+§ 37.
+Audycje wyborcze przygotowywane przez komitety wyborcze w wyborach przedterminowych wójta są rozpowszechniane w odpowiednich programach regionalnych Telewizji Polskiej i spółek radiofonii regionalnej.
+§ 38.
+1.
+W odpowiednich programach regionalnych Telewizji Polskiej czas rozpowszechniania audycji wyborczych, o których mowa w § 37, wynosi 30 minut.
+2.
+Telewizja Polska rozpowszechniając audycje wyborcze, o których mowa w ust. 1:
+1)
+od poniedziałku do piątku wykorzystuje w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 1700–2000;
+2)
+w soboty i niedziele wykorzystuje w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 700–2300.
+§ 39.
+1.
+W odpowiednich programach spółek radiofonii regionalnej czas rozpowszechniania audycji wyborczych, o których mowa w § 37, wynosi 60 minut.
+2.
+Spółki radiofonii regionalnej rozpowszechniając audycje wyborcze, o których mowa w ust. 1, wykorzystują w całym okresie rozpowszechniania co najmniej 80% czasu przeznaczonego na audycje wyborcze w godzinach 1300–1500 i w godzinach 1800–2200.
+Dział III Tryb postępowania w sprawach podziału czasu rozpowszechniania audycji wyborczych
+§ 40.
+Czas rozpowszechniania audycji wyborczych w wyborach do Sejmu Rzeczypospolitej Polskiej w programach:
+1)
+ogólnokrajowych – dzieli się równo między wszystkie uprawnione komitety wyborcze, na podstawie informacji Państwowej Komisji Wyborczej;
+2)
+regionalnych – dzieli się między uprawnione komitety wyborcze proporcjonalnie do liczby zarejestrowanych przez nie list kandydatów, na podstawie informacji okręgowej komisji wyborczej.
+§ 41.
+1.
+Czas rozpowszechniania audycji wyborczych w wyborach do Senatu Rzeczypospolitej Polskiej w programach:
+1)
+ogólnokrajowych – dzieli się równo między wszystkie uprawnione komitety wyborcze, na podstawie informacji Państwowej Komisji Wyborczej;
+2)
+regionalnych – dzieli się między uprawnione komitety wyborcze proporcjonalnie do liczby kandydatów na senatorów zarejestrowanych przez nie w okręgach wyborczych objętych zasięgiem danego programu, na podstawie informacji okręgowej komisji wyborczej.
+2.
+Czas rozpowszechniania audycji wyborczych w wyborach uzupełniających do Senatu Rzeczypospolitej Polskiej w odpowiednich programach regionalnych dzieli się równo między uprawnione komitety wyborcze, na podstawie informacji okręgowej komisji wyborczej.
+§ 42.
+Czas rozpowszechniania audycji wyborczych w wyborach Prezydenta Rzeczypospolitej Polskiej w programach ogólnokrajowych dzieli się równo między wszystkie uprawnione komitety wyborcze, na podstawie informacji Państwowej Komisji Wyborczej.
+§ 43.
+Czas rozpowszechniania audycji wyborczych w wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej w programach:
+1)
+ogólnokrajowych – dzieli się równo między wszystkie uprawnione komitety wyborcze, na podstawie informacji Państwowej Komisji Wyborczej;
+2)
+regionalnych – dzieli się między uprawnione komitety wyborcze proporcjonalnie do liczby zarejestrowanych przez nie list kandydatów, na podstawie informacji okręgowej komisji wyborczej.
+§ 44.
+Czas rozpowszechniania audycji wyborczych w wyborach do rad w programach:
+1)
+ogólnokrajowych – dzieli się między uprawnione komitety wyborcze proporcjonalnie do liczby zarejestrowanych przez nie list kandydatów w wyborach do sejmików wojewódzkich, na podstawie informacji Państwowej Komisji Wyborczej;
+2)
+regionalnych – dzieli się między uprawnione komitety wyborcze proporcjonalnie do liczby zarejestrowanych przez nie list kandydatów w okręgach na obszarze objętym programem, na podstawie informacji komisarza wyborczego.
+§ 45.
+1.
+Czas rozpowszechniania audycji wyborczych w wyborach wójta w programach regionalnych dzieli się między uprawnione komitety wyborcze proporcjonalnie do liczby zarejestrowanych przez nie kandydatów na wójtów na obszarze objętym programem, na podstawie informacji gminnej komisji wyborczej.
+2.
+Czas rozpowszechniania audycji wyborczych w wyborach przedterminowych wójta w programach regionalnych dzieli się równo między uprawnione komitety wyborcze, na podstawie informacji gminnej komisji wyborczej.
+§ 46.
+1.
+Informacje, o których mowa w § 40–45, Państwowa Komisja Wyborcza, komisarze wyborczy oraz gminne komisje wyborcze przekazują Telewizji Polskiej, Polskiemu Radiu oraz spółkom radiofonii regionalnej, nie później niż w 24. dniu przed dniem wyborów.
+2.
+Jeżeli okręg wyborczy objęty jest obszarem emisji więcej niż jednego programu regionalnego, komisarz wyborczy lub gminna komisja wyborcza przekazuje informacje, o których mowa w ust. 1, wszystkim oddziałom Telewizji Polskiej i spółkom radiofonii regionalnej obejmującym obszarem emisji ten okręg wyborczy.
+§ 47.
+1.
+Przydział czasu antenowego na rozpowszechnianie audycji wyborczych przez komitet wyborczy jest dokonywany na podstawie złożonego przez pełnomocnika wniosku o przydział nieodpłatnego czasu antenowego.
+2.
+Wniosek, o którym mowa w ust. 1, pełnomocnik obowiązany jest złożyć Telewizji Polskiej, Polskiemu Radiu oraz spółkom radiofonii i telewizji nie później niż w 22. dniu przed dniem wyborów, z wyjątkiem wniosku na rozpowszechnianie audycji wyborczych w związku z zarejestrowaniem kandydatów na wójtów lub kandydatów do rad, który pełnomocnik obowiązany jest złożyć nie później niż w 20. dniu przed dniem wyborów.
+3.
+Wniosek, o którym mowa w ust. 1, powinien zawierać:
+1)
+nazwę komitetu wyborczego uprawnionego do rozpowszechniania audycji wyborczych;
+2)
+imię i nazwisko oraz adres zamieszkania pełnomocnika;
+3)
+(uchylony).
+§ 48.
+W przypadku niezłożenia przez pełnomocnika wniosku w terminie, o którym mowa w § 47 ust. 2, lub złożenia wniosku niespełniającego wymogów określonych w § 47 ust. 3, podziału czasu antenowego przeznaczonego na rozpowszechnianie audycji wyborczych dokonuje się pomiędzy komitety wyborcze, których pełnomocnicy złożyli wnioski.
+§ 49.
+1.
+Na potrzeby rozpowszechniania audycji wyborczych ustala się:
+1)
+obszary emitowania programów regionalnych Telewizji Polskiej, określone w załączniku nr 1 do rozporządzenia;
+2)
+obszary emitowania programów regionalnych poszczególnych spółek radiofonii regionalnej, określone w załączniku nr 2 do rozporządzenia.
+2.
+Jeżeli obszary emitowania, o których mowa w ust. 1, obejmują więcej niż jeden program regionalny Telewizji Polskiej lub spółki radiofonii regionalnej, pełnomocnik, składając wniosek o przydział nieodpłatnego czasu antenowego do jednego z oddziałów regionalnych Telewizji Polskiej lub spółki radiofonii regionalnej, decyduje, w którym z nich będą rozpowszechniane audycje wyborcze.
+3.
+Informacja, o której mowa w ust. 2, przekazywana jest przez wskazany oddział regionalny Telewizji Polskiej lub spółkę radiofonii regionalnej do pozostałych oddziałów regionalnych Telewizji Polskiej lub spółek radiofonii regionalnej objętych obszarem emitowania.
+4.
+Przewodniczący Krajowej Rady Radiofonii i Telewizji na wniosek pełnomocnika zainteresowanego komitetu wyborczego, złożony nie później niż w 24. dniu przed dniem wyborów, dotyczący rozpowszechniania audycji w okręgach wyborczych położonych na granicy obszarów określonych w załącznikach, o których mowa w ust. 1, może zezwolić na rozpowszechnianie audycji wyborczych z obszaru sąsiedniego, jeżeli jest to uzasadnione lepszą jakością techniczną programu.
+§ 50.
+Po rozpatrzeniu wniosków spełniających wymogi, o których mowa w § 47, nie później niż w 20. dniu przed dniem wyborów, a w przypadku wniosku na rozpowszechnianie audycji wyborczych w związku z zarejestrowaniem kandydatów na wójtów lub kandydatów do rad, nie później niż w 19. dniu przed dniem wyborów, Telewizja Polska, Polskie Radio oraz spółki radiofonii regionalnej dokonują ustaleń i informują pełnomocników o:
+1)
+czasie antenowym przysługującym komitetowi wyborczemu;
+2)
+terminach rozpowszechniania audycji wyborczych komitetu wyborczego;
+3)
+terminach i czasie rejestracji audycji wyborczych oraz wyposażeniu studia i standardach technicznych nagrywania audycji wyborczych;
+4)
+warunkach technicznych, jakim powinny odpowiadać materiały audycji wyborczych przygotowanych samodzielnie przez komitety wyborcze;
+5)
+miejscu i terminie losowania kolejności rozpowszechniania audycji wyborczych.
+§ 51.
+Kolejność rozpowszechniania w każdym dniu audycji wyborczych ustalają kierujący redakcjami właściwych programów ogólnokrajowych i regionalnych w drodze losowania przeprowadzanego w obecności pełnomocników, nie później niż w 18. dniu przed dniem wyborów.
+§ 52.
+1.
+Komitety wyborcze, którym przysługuje prawo rozpowszechniania audycji wyborczych równocześnie do Sejmu i Senatu Rzeczypospolitej Polskiej, mogą prowadzić łączną kampanię wyborczą w programach ogólnokrajowych i regionalnych.
+2.
+Zasady i sposób łącznego prowadzenia kampanii wyborczej, o której mowa w ust. 1, określają przepisy wydane na podstawie art. 284 § 5 ustawy.
+§ 53.
+1.
+Komitety wyborcze, którym przysługuje prawo rozpowszechniania audycji wyborczych w związku z zarejestrowaniem kandydatów na wójtów i zarejestrowaniem kandydatów do rad, mogą prowadzić łączną kampanię wyborczą w tym samym programie regionalnym.
+2.
+Prowadzenie łącznej kampanii wyborczej polega na łączeniu całego czasu przysługującego w tym samym programie regionalnym Telewizji Polskiej lub spółki radiofonii regionalnej z tytułu udziału w wyborach wójta z całym czasem przysługującym w programie regionalnym Telewizji Polskiej lub spółki radiofonii regionalnej z tytułu udziału w wyborach do rady.
+§ 54.
+1.
+Wniosek w sprawie łącznego prowadzenia kampanii wyborczej, o której mowa w § 53, pełnomocnik składa Telewizji Polskiej i spółkom radiofonii regionalnej, nie później niż w 20. dniu przed dniem wyborów.
+2.
+W przypadku zamiaru łącznego prowadzenia kampanii wyborczej w tym samym programie regionalnym pełnomocnik wskazuje oddział Telewizji Polskiej lub spółkę radiofonii regionalnej, w których będzie prowadzona łączna kampania wyborcza.
+3.
+W przypadku niespełnienia przez pełnomocnika komitetu wyborczego wymogów określonych w ust. 1 i 2, komitetowi wyborczemu przydzielany jest czas na rozpowszechnianie audycji wyborczych w oddzielnych blokach.
+§ 55.
+1.
+W przypadku ponownego głosowania na Prezydenta Rzeczypospolitej Polskiej podział czasu rozpowszechniania audycji wyborczych następuje na wniosek pełnomocnika, złożony Telewizji Polskiej i Polskiemu Radiu w ciągu 24 godzin od podania do wiadomości publicznej obwieszczenia Państwowej Komisji Wyborczej o wynikach głosowania.
+2.
+Kolejność rozpowszechniania w każdym dniu audycji wyborczych, o których mowa w ust. 1, ustalają kierujący redakcjami właściwych programów ogólnokrajowych w drodze losowania przeprowadzanego w obecności pełnomocników, nie później niż w 10. dniu przed dniem wyborów.
+§ 56.
+W wyborach zarządzonych w związku ze skróceniem kadencji Sejmu Rzeczypospolitej Polskiej:
+1)
+informacje, o których mowa w § 40 pkt 1, Państwowa Komisja Wyborcza przekazuje Telewizji Polskiej i Polskiemu Radiu, nie później niż w 19. dniu przed dniem wyborów;
+2)
+okręgowe komisje wyborcze, nie później niż w 19. dniu przed dniem wyborów, przekazują oddziałom Telewizji Polskiej i spółkom radiofonii regionalnej właściwym ze względu na obszar emitowania programów regionalnych informacje o komitetach wyborczych, które zarejestrowały listy okręgowe lub kandydatów na senatorów, podając:
+a)
+nazwy komitetów wyborczych uprawnionych do rozpowszechniania audycji wyborczych,
+b)
+imiona i nazwiska oraz adres zamieszkania pełnomocników,
+c)
+liczbę zarejestrowanych kandydatów na senatorów;
+3)
+niezwłocznie po nadaniu numerów zarejestrowanym listom okręgowym okręgowe komisje wyborcze przekazują informację o tych numerach oddziałom Telewizji Polskiej i spółkom radiofonii regionalnej właściwym ze względu na obszar emitowania programów regionalnych.
+§ 57.
+1.
+W wyborach przedterminowych oraz w wyborach do nowej rady:
+1)
+termin do złożenia wniosku, o którym mowa w § 49 ust. 4, upływa 3. dnia po upływie terminu na zgłaszanie do zarejestrowania list kandydatów na radnych;
+1a)
+termin przekazania informacji, o których mowa w § 46 ust. 1, upływa 3. dnia po upływie terminu na zgłaszanie do zarejestrowania list kandydatów na radnych;
+2)
+termin, o którym mowa w § 47 ust. 2, upływa 5. dnia po upływie terminu na zgłaszanie do zarejestrowania list kandydatów na radnych;
+3)
+termin, o którym mowa w § 50, upływa 7. dnia po upływie terminu na zgłaszanie do zarejestrowania list kandydatów na radnych;
+4)
+termin ustalenia kolejności rozpowszechniania audycji wyborczych, o którym mowa w § 51, upływa 8. dnia po upływie terminu na zgłaszanie do zarejestrowania list kandydatów na radnych.
+2.
+W wyborach przedterminowych lub w wyborach do nowej rady przeprowadzanych w tym samym dniu co wybory wójta tej gminy, w których termin zgłaszania do zarejestrowania list kandydatów na radnych oraz kandydatów na wójta wyznaczony został na ten sam dzień, przepis ust. 1 stosuje się odpowiednio, a ponadto termin do złożenia wniosku, o którym mowa w § 54 ust. 1, upływa 5. dnia po upływie terminu na zgłaszanie do zarejestrowania list kandydatów na radnych.
+3.
+W wyborach przedterminowych lub w wyborach do nowej rady przeprowadzanych w tym samym dniu co wybory wójta tej gminy, w których terminy zgłaszania do zarejestrowania list kandydatów na radnych oraz kandydatów na wójta wyznaczone zostały na inne dni:
+1)
+termin, o którym mowa w § 49 ust. 4, upływa 3. dnia po upływie terminu na zgłaszanie kandydatów na wójta;
+1a)
+termin przekazania informacji, o których mowa w § 46 ust. 1, upływa 3. dnia po upływie terminu na zgłaszanie kandydatów na wójta;
+2)
+termin, o którym mowa w § 47 ust. 2, upływa 5. dnia po upływie terminu na zgłaszanie kandydatów na wójta;
+3)
+termin, o którym mowa w § 50, upływa 7. dnia po upływie terminu na zgłaszanie kandydatów na wójta;
+4)
+termin ustalenia kolejności rozpowszechniania audycji wyborczych, o którym mowa w § 51, upływa 8. dnia po upływie terminu na zgłaszanie kandydatów na wójta;
+5)
+termin do złożenia wniosku, o którym mowa w § 54 ust. 1, upływa 5. dnia po upływie terminu na zgłaszanie kandydatów na wójta.
+4.
+W wyborach przedterminowych wójta przepis ust. 3 stosuje się odpowiednio.
+Dział IV Sposób przygotowania oraz zakres rejestracji i emisji audycji wyborczych oraz typ i rodzaj nośnika zapisu audycji wyborczej
+§ 58.
+1.
+Audycje wyborcze są rozpowszechniane w blokach audycji wyborczych.
+2.
+Łączne audycje wyborcze do rad i na wójta, o których mowa w § 53 i 54, są rozpowszechniane w specjalnych blokach audycji wyborczych.
+3.
+Łączne audycje wyborcze do Sejmu i Senatu, o których mowa w przepisach wydanych na podstawie art. 284 § 5 ustawy, są rozpowszechniane w specjalnych blokach audycji wyborczych.
+4.
+Czas antenowy niewykorzystany w jednym bloku audycji wyborczych z przyczyn leżących po stronie komitetu wyborczego nie może być rekompensowany wydłużeniem czasu antenowego w innych blokach.
+§ 59.
+Rejestracja i emisja audycji wyborczych dokonywana jest na koszt Telewizji Polskiej, Polskiego Radia i spółek radiofonii regionalnej.
+§ 60.
+Rejestracja telewizyjnej audycji wyborczej i przygotowanie jej do rozpowszechniania obejmuje:
+1)
+nieodpłatne przegranie audycji wyborczej dostarczonej przez komitet wyborczy na kasecie lub innym nośniku z obrazem o rozdzielczości SD lub wyższej wskazanym pełnomocnikom przez Telewizję Polską na stosowane w emisji nośniki;
+2)
+nieodpłatne udostępnienie studia i urządzeń technicznych wraz z realizatorem w celu nagrania audycji wyborczej na czas nie dłuższy niż trzykrotność czasu audycji wyborczej.
+§ 61.
+Rejestracja radiowej audycji wyborczej i przygotowanie jej do rozpowszechniania obejmuje:
+1)
+nieodpłatne przegranie audycji wyborczej dostarczonej przez komitet wyborczy na kasecie, płycie lub innym nośniku dźwięku wskazanym pełnomocnikom przez Polskie Radio i spółki radiofonii regionalnej na stosowane w emisji nośniki;
+2)
+nieodpłatne udostępnienie studia i urządzeń technicznych wraz z realizatorem w celu nagrania audycji wyborczej na czas nie dłuższy niż trzykrotność czasu audycji wyborczej.
+§ 62.
+Wniosek o udostępnienie studia i urządzeń technicznych składany jest przez pełnomocnika do kierującego redakcją właściwego programu ogólnokrajowego lub regionalnego, nie później niż 24 godziny przed wnioskowaną rejestracją audycji wyborczej.
+§ 63.
+1.
+Materiały audycji wyborczych przygotowywanych samodzielnie przez komitety wyborcze są dostarczane do Telewizji Polskiej, Polskiego Radia i spółek radiofonii regionalnej nie później niż na 24 godziny przed dniem ich rozpowszechnienia.
+2.
+Jeżeli materiały audycji wyborczych przygotowanych samodzielnie przez komitety wyborcze nie odpowiadają warunkom technicznym podanym do wiadomości pełnomocników, Telewizja Polska, Polskie Radio lub spółki radiofonii regionalnej wzywają pełnomocnika komitetu wyborczego do usunięcia wskazanych usterek i dostarczenia poprawionego materiału audycji wyborczych, najpóźniej na 8 godzin przed ustalonym czasem rozpowszechnienia audycji.
+3.
+Jeżeli komitet wyborczy nie usunie usterek i nie dostarczy poprawionego materiału audycji wyborczej w terminie, o którym mowa w ust. 2, Telewizja Polska, Polskie Radio lub spółki radiofonii regionalnej nie wyemitują tego materiału. Przepis § 58 ust. 4 stosuje się odpowiednio.
+§ 64.
+1.
+Czas audycji wyborczych dostarczonych przez pełnomocnika komitetu wyborczego nie może przekraczać czasu ustalonego dla tych audycji.
+2.
+W przypadku stwierdzenia, że dostarczone przez komitet wyborczy materiały audycji wyborczych przekraczają czas ustalony dla tych audycji, Telewizja Polska, Polskie Radio lub spółki radiofonii regionalnej wzywają niezwłocznie komitet wyborczy do skrócenia czasu audycji.
+3.
+Jeżeli komitet wyborczy nie zastosuje się w ciągu 8 godzin do wezwania, o którym mowa w ust. 2, Telewizja Polska, Polskie Radio lub spółki radiofonii regionalnej przerywają emisję audycji wyborczej w chwili, kiedy upłynął czas audycji przysługujący danemu komitetowi wyborczemu.
+Dział V Sposób rozpowszechniania informacji o terminach emisji audycji wyborczych
+§ 65.
+1.
+Telewizja Polska, Polskie Radio i spółki radiofonii regionalnej ogłaszają, co najmniej dwukrotnie, w swoich audycjach informacyjnych, harmonogram rozpowszechniania bloków audycji wyborczych i codziennie informują o terminach rozpowszechniania audycji wyborczych.
+2.
+Informacje dotyczące rozpowszechniania bloków audycji wyborczych Telewizja Polska, Polskie Radio i spółki radiofonii regionalnej przekazują prasie, w trybie przyjętym dla informowania o treści programu.
+Dział VI Przepis końcowy
+§ 66.
+Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2011 r.
 
-#### Rozdział 2 Czas oraz ramowy podział czasu przeznaczonego na rozpowszechnianie audycji wyborczych w wyborach do Senatu Rzeczypospolitej Polskiej § 9. Audycje wyborcze przygotowywane przez komitety wyborcze w wyborach do Senatu Rzeczypospolitej Polskiej są rozpowszechniane, w okresie od 15. dnia przed dniem głosowania do dnia zakończenia kampanii wyborczej, w programach:
+## Załącznik nr 1 — – Obszary emitowania programów regionalnych Telewizji Polskiej
 
-#### Rozdział 3 Czas oraz ramowy podział czasu przeznaczonego na rozpowszechnianie audycji wyborczych w wyborach Prezydenta Rzeczypospolitej Polskiej § 17. Audycje wyborcze przygotowywane przez komitety wyborcze w wyborach Prezydenta Rzeczypospolitej Polskiej są rozpowszechniane, w okresie od 15. dnia przed dniem głosowania do dnia zakończenia kampanii wyborczej, w programach ogólnokrajowych Telewizji Polskiej i Polskiego Radia.
+WOJEWÓDZTWO DOLNOŚLĄSKIE Powiaty w granicach administracyjnych Nazwa rozgłośni 1 2 Jelenia Góra, Legnica, Wałbrzych, Wrocław, powiaty: bolesławiecki, dzierżoniowski, głogowski, górowski, jaworski, jeleniogórski, kamiennogórski, kłodzki, legnicki, lubański, lubiński, lwówecki, milicki, oleśnicki, oławski, polkowicki, strzeliński, średzki, świdnicki, trzebnicki, wałbrzyski, wołowski, wrocławski, ząbkowicki, zgorzelecki, złotoryjski Oddział TVP Wrocław WOJEWÓDZTWO KUJAWSKO-POMORSKIE Powiaty w granicach administracyjnych Nazwa oddziału TVP S.A. 1 2 Bydgoszcz, Grudziądz, Toruń, Włocławek, powiaty: aleksandrowski, brodnicki, bydgoski, chełmiński, golubsko--dobrzyński, grudziądzki, inowrocławski, lipnowski, mogileński, nakielski, radziejowski, rypiński, sępoleński, świecki, toruński, tucholski, wąbrzeski, włocławski, żniński Oddział TVP Bydgoszcz WOJEWÓDZTWO LUBELSKIE Powiaty w granicach administracyjnych Nazwa rozgłośni 1 2 Biała Podlaska, Chełm, Lublin, Zamość, powiaty: bialski, biłgorajski, chełmski, hrubieszowski, janowski, krasnostawski, kraśnicki, lubartowski, lubelski, łęczyński, łukowski, opolski, parczewski, puławski, radzyński, rycki, świdnicki, tomaszowski, włodawski, zamojski Oddział TVP Lublin WOJEWÓDZTWO LUBUSKIE Powiaty w granicach administracyjnych Nazwa oddziału TVP S.A. 1 2 Gorzów Wielkopolski, Zielona Góra, powiaty: gorzowski, krośnieński, międzyrzecki, nowosolski, słubicki, strzelecko--drezdenecki, sulęciński, świebodziński, wschowski, zielonogórski, żagański, żarski Oddział TVP Gorzów Wlkp. WOJEWÓDZTWO ŁÓDZKIE Powiaty w granicach administracyjnych Nazwa oddziału TVP S.A. 1 2 Łódź, Piotrków Trybunalski, Skierniewice, powiaty: bełchatowski, brzeziński, kutnowski, łaski, łęczycki, łowicki, łódzki wschodni, opoczyński, pabianicki, pajęczański, piotrkowski, poddębicki, radomszczański, rawski, sieradzki, skierniewicki, tomaszowski, wieluński, wieruszowski, zduńskowolski, zgierski Oddział TVP Łódź WOJEWÓDZTWO MAŁOPOLSKIE Powiaty w granicach administracyjnych Nazwa oddziału TVP S.A. 1 2 Kraków, Nowy Sącz, Tarnów, powiaty: bocheński, brzeski, chrzanowski, dąbrowski, gorlicki, krakowski, limanowski, miechowski, myślenicki, nowosądecki, nowotarski, olkuski, oświęcimski, proszowicki, suski, tarnowski, tatrzański, wadowicki, wielicki Oddział TVP Kraków WOJEWÓDZTWO MAZOWIECKIE Powiaty w granicach administracyjnych Nazwa oddziału TVP S.A. 1 2 Ostrołęka, Płock, Radom, Siedlce, m.st. Warszawa, powiaty: białobrzeski, ciechanowski, garwoliński, gostyniński, grodziski, grójecki, kozienicki, legionowski, lipski, łosicki, makowski, miński, mławski, nowodworski, ostrołęcki, ostrowski, otwocki, piaseczyński, płocki, płoński, pruszkowski, przasnyski, przysuski, pułtuski, radomski, siedlecki, sierpecki, sochaczewski, sokołowski, szydłowiecki, warszawski zachodni, węgrowski, wołomiński, wyszkowski, zwoleński, żuromiński, żyrardowski Oddział TVP Warszawa WOJEWÓDZTWO OPOLSKIE Powiaty w granicach administracyjnych Nazwa oddziału TVP S.A. 1 2 Opole, powiaty: brzeski, głubczycki, kędzierzyńsko--kozielski, kluczborski, krapkowicki, namysłowski, nyski, oleski, opolski, prudnicki, strzelecki Oddział TVP Opole WOJEWÓDZTWO PODKARPACKIE Powiaty w granicach administracyjnych Nazwa oddziału TVP S.A. 1 2 Krosno, Przemyśl, Rzeszów, Tarnobrzeg, powiaty: bieszczadzki, brzozowski, dębicki, jarosławski, jasielski, kolbuszowski, krośnieński, leski, leżajski, lubaczowski, łańcucki, mielecki, niżański, przemyski, przeworski, ropczycko-sędziszowski, rzeszowski, sanocki, stalowowolski, strzyżowski, tarnobrzeski Oddział TVP Rzeszów WOJEWÓDZTWO PODLASKIE Powiaty w granicach administracyjnych Nazwa oddziału TVP S.A. 1 2 Białystok, Łomża, Suwałki, powiaty: augustowski, białostocki, bielski, grajewski, hajnowski, kolneński, łomżyński, moniecki, sejneński, siemiatycki, sokolski, suwalski, wysokomazowiecki, zambrowski Oddział TVP Białystok WOJEWÓDZTWO POMORSKIE Powiaty w granicach administracyjnych Nazwa oddziału TVP S.A. 1 2 Gdańsk, Gdynia, Słupsk, Sopot, powiaty: bytowski, chojnicki, człuchowski, gdański, kartuski, kościerski, kwidzyński, lęborski, malborski, nowodworski, pucki, słupski, starogardzki, sztumski, tczewski, wejherowski Oddział TVP Gdańsk WOJEWÓDZTWO ŚLĄSKIE Powiaty w granicach administracyjnych Nazwa oddziału TVP S.A. 1 2 Bielsko-Biała, Bytom, Chorzów, Częstochowa, Dąbrowa Górnicza, Gliwice, Jastrzębie-Zdrój, Jaworzno, Katowice, Mysłowice, Piekary Śląskie, Ruda Śląska, Rybnik, Siemianowice Śląskie, Sosnowiec, Świętochłowice, Tychy, Zabrze, Żory, powiaty: będziński, bielski, bieruńsko--lędziński, cieszyński, częstochowski, gliwicki, kłobucki, lubliniecki, mikołowski, myszkowski, pszczyński, raciborski, rybnicki, tarnogórski, wodzisławski, zawierciański, żywiecki Oddział TVP Katowice WOJEWÓDZTWO ŚWIĘTOKRZYSKIE Powiaty w granicach administracyjnych Nazwa oddziału TVP S.A. 1 2 Kielce, powiaty: buski, jędrzejowski, kazimierski, kielecki, konecki, opatowski, ostrowiecki, pińczowski, sandomierski, skarżyski, starachowicki, staszowski, włoszczowski Oddział TVP Kielce WOJEWÓDZTWO WARMIŃSKO-MAZURSKIE Powiaty w granicach administracyjnych Nazwa oddziału TVP S.A. 1 2 Elbląg, Olsztyn, powiaty: bartoszycki, braniewski, działdowski, elbląski, ełcki, giżycki, gołdapski, iławski, kętrzyński, lidzbarski, mrągowski, nidzicki, nowomiejski, olecki, olsztyński, ostródzki, piski, węgorzewski, szczycieński Oddział TVP Olsztyn WOJEWÓDZTWO WIELKOPOLSKIE Powiaty w granicach administracyjnych Nazwa oddziału TVP S.A. 1 2 Kalisz, Konin, Leszno, Poznań, powiaty: chodzieski, czarnkowsko-trzcianecki, gnieźnieński, gostyński, grodziski, jarociński, kaliski, kępiński, kolski, koniński, kościański, krotoszyński, leszczyński, międzychodzki, nowotomyski, obornicki, ostrowski, ostrzeszowski, pilski, pleszewski, poznański, rawicki, słupecki, szamotulski, średzki, śremski, turecki, wągrowiecki, wolsztyński, wrzesiński, złotowski Oddział TVP Poznań WOJEWÓDZTWO ZACHODNIOPOMORSKIE Powiaty w granicach administracyjnych Nazwa oddziału TVP S.A. 1 2 Koszalin, Szczecin, Świnoujście, powiaty: białogardzki, choszczeński, goleniowski, gryfiński, drawski, gryficki, kamieński, kołobrzeski, koszaliński, łobeski, myśliborski, policki, pyrzycki, sławieński, stargardzki, szczecinecki, świdwiński, wałecki Oddział TVP Szczecin
 
-#### Rozdział 4 Czas oraz ramowy podział czasu przeznaczonego na rozpowszechnianie audycji wyborczych w wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej § 23. Audycje wyborcze przygotowywane przez komitety wyborcze w wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej są rozpowszechniane, w okresie od 15. dnia przed dniem głosowania do dnia zakończenia kampanii wyborczej, w programach:
+## Załącznik nr 2 — – Obszary emitowania programów spółek radiofonii regionalnej
 
-#### Rozdział 5 Czas oraz ramowy podział czasu przeznaczonego na rozpowszechnianie audycji wyborczych w wyborach do rad gmin, rad powiatów i sejmików wojewódzkich § 28. Audycje wyborcze przygotowywane przez komitety wyborcze w wyborach do rad są rozpowszechniane, w okresie od 15. dnia przed dniem głosowania do dnia zakończenia kampanii wyborczej, w programach:
-
-#### Rozdział 6 Czas oraz ramowy podział czasu przeznaczonego na rozpowszechnianie audycji wyborczych w wyborach wójta, burmistrza i prezydenta miasta § 34. Audycje wyborcze przygotowywane przez komitety wyborcze w wyborach wójta są rozpowszechniane, w okresie od 15. dnia przed dniem głosowania do dnia zakończenia kampanii wyborczej, w programach regionalnych Telewizji Polskiej i spółek radiofonii regionalnej, jeżeli komitet wyborczy zarejestrował kandydata na wójta.
-
-### DZIAŁ III Tryb postępowania w sprawach podziału czasu rozpowszechniania audycji wyborczych § 40. Czas rozpowszechniania audycji wyborczych w wyborach do Sejmu Rzeczypospolitej Polskiej w programach:
-
-### DZIAŁ IV Sposób przygotowania oraz zakres rejestracji i emisji audycji wyborczych oraz typ i rodzaj nośnika zapisu audycji wyborczej § 58. 1. Audycje wyborcze są rozpowszechniane w blokach audycji wyborczych.
-
-### DZIAŁ V Sposób rozpowszechniania informacji o terminach emisji audycji wyborczych § 65. 1. Telewizja Polska, Polskie Radio i spółki radiofonii regionalnej ogłaszają, co najmniej dwukrotnie, w swoich audycjach informacyjnych, harmonogram rozpowszechniania bloków audycji wyborczych i codziennie informują o terminach rozpowszechniania audycji wyborczych.
-
-### DZIAŁ VI Przepis końcowy § 66. Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2011 r.
-
-##### Oddział TVP Lublin 4 WOJEWÓDZTWO LUBUSKIE Powiaty w granicach administracyjnych Nazwa oddziału TVP S.A.
-
-##### Oddział TVP Kraków WOJEWÓDZTWO MAZOWIECKIE Powiaty w granicach administracyjnych Nazwa oddziału TVP S.A.
-
-##### Oddział TVP Rzeszów WOJEWÓDZTWO PODLASKIE Powiaty w granicach administracyjnych Nazwa oddziału TVP S.A.
-
-##### Oddział TVP Białystok WOJEWÓDZTWO POMORSKIE Powiaty w granicach administracyjnych Nazwa oddziału TVP S.A.
+WOJEWÓDZTWO DOLNOŚLĄSKIE Powiaty w granicach administracyjnych Nazwa rozgłośni 1 2 Jelenia Góra, Legnica, Wałbrzych, Wrocław, powiaty: bolesławiecki, dzierżoniowski, głogowski, jaworski, jeleniogórski, kamiennogórski, kłodzki, legnicki, lubański, lubiński, lwówecki, oleśnicki, oławski, polkowicki, strzeliński, średzki, świdnicki, trzebnicki, wałbrzyski, wołowski, wrocławski, ząbkowicki, zgorzelecki, złotoryjski Radio Wrocław S.A. powiat: milicki, górowski Radio Poznań S.A. WOJEWÓDZTWO KUJAWSKO-POMORSKIE Powiaty w granicach administracyjnych Nazwa rozgłośni 1 2 Bydgoszcz, Grudziądz, Toruń, Włocławek, powiaty: aleksandrowski, brodnicki, bydgoski, chełmiński, golubsko-dobrzyński, grudziądzki, inowrocławski, nakielski, rypiński, sępoleński, świecki, toruński, tucholski, wąbrzeski, włocławski, żniński Radio Pomorza i Kujaw S.A. powiaty: mogileński, radziejowski Radio Poznań S.A. powiat: lipnowski Radio dla Ciebie S.A. WOJEWÓDZTWO LUBELSKIE Powiaty w granicach administracyjnych Nazwa rozgłośni 1 2 Biała Podlaska, Chełm, Lublin, Zamość, powiaty: bialski, chełmski, hrubieszowski, janowski, krasnostawski, kraśnicki, lubartowski, lubelski, łęczyński, opolski, parczewski, puławski, radzyński, rycki, świdnicki, tomaszowski, włodawski, zamojski Radio Lublin S.A. powiat: łukowski Radio dla Ciebie S.A. powiat: biłgorajski Radio Rzeszów S.A. WOJEWÓDZTWO LUBUSKIE Powiaty w granicach administracyjnych Nazwa rozgłośni 1 2 Gorzów Wielkopolski, Zielona Góra, powiaty: gorzowski, krośnieński, międzyrzecki, nowosolski, słubicki, strzelecko-drezdenecki, sulęciński, świebodziński, wschowski, zielonogórski, żagański, żarski Radio Zachód S.A. WOJEWÓDZTWO ŁÓDZKIE Powiaty w granicach administracyjnych Nazwa rozgłośni 1 2 Łódź, Piotrków Trybunalski, Skierniewice, powiaty: bełchatowski, brzeziński, kutnowski, łowicki, łaski, łęczycki, łódzki wschodni, opoczyński, pabianicki, pajęczański, piotrkowski, poddębicki, radomszczański, rawski, sieradzki, skierniewicki, tomaszowski, wieluński, wieruszowski, zduńskowolski, zgierski Radio Łódź S.A. WOJEWÓDZTWO MAŁOPOLSKIE Powiaty w granicach administracyjnych Nazwa rozgłośni 1 2 Kraków, Nowy Sącz, Tarnów, powiaty: bocheński, brzeski, dąbrowski, gorlicki, krakowski, limanowski, miechowski, myślenicki, nowosądecki, nowotarski, oświęcimski, proszowicki, suski, tarnowski, tatrzański, wadowicki, wielicki Radio Kraków S.A. powiaty: chrzanowski, olkuski Radio Katowice S.A. WOJEWÓDZTWO MAZOWIECKIE Powiaty w granicach administracyjnych Nazwa rozgłośni 1 2 Ostrołęka, Płock, Radom, Siedlce, m.st. Warszawa, powiaty: białobrzeski, ciechanowski, garwoliński, gostyniński, grodziski, grójecki, kozienicki, legionowski, łosicki, makowski, miński, mławski, nowodworski, ostrołęcki, ostrowski, otwocki, piaseczyński, płocki, płoński, pruszkowski, przasnyski, przysuski, pułtuski, radomski, siedlecki, sierpecki, sochaczewski, sokołowski, szydłowiecki, warszawski zachodni, węgrowski, wołomiński, wyszkowski, żuromiński, żyrardowski Radio dla Ciebie S.A. powiaty: lipski, zwoleński Radio Kielce S.A. WOJEWÓDZTWO OPOLSKIE Powiaty w granicach administracyjnych Nazwa rozgłośni 1 2 Opole, powiaty: brzeski, głubczycki, kędzierzyńsko-kozielski, kluczborski, krapkowicki, namysłowski, nyski, oleski, opolski, prudnicki, strzelecki Radio Opole S.A. WOJEWÓDZTWO PODKARPACKIE Powiaty w granicach administracyjnych Nazwa rozgłośni 1 2 Krosno, Przemyśl, Rzeszów, Tarnobrzeg, powiaty: bieszczadzki, brzozowski, dębicki, jarosławski, jasielski, kolbuszowski, krośnieński, leski, leżajski, lubaczowski, łańcucki, mielecki, niżański, przemyski, przeworski, ropczycko-sędziszowski, rzeszowski, sanocki, stalowowolski, strzyżowski, tarnobrzeski Radio Rzeszów S.A. WOJEWÓDZTWO PODLASKIE Powiaty w granicach administracyjnych Nazwa rozgłośni 1 2 Białystok, Łomża, Suwałki, powiaty: augustowski, białostocki, bielski, grajewski, hajnowski, kolneński, łomżyński, moniecki, sejneński, siemiatycki, sokolski, suwalski, wysokomazowiecki, zambrowski Radio Białystok S.A. WOJEWÓDZTWO POMORSKIE Powiaty w granicach administracyjnych Nazwa rozgłośni 1 2 Gdańsk, Gdynia, Słupsk, Sopot, powiaty: bytowski, chojnicki, gdański, kartuski, kościerski, kwidzyński, lęborski, malborski, nowodworski, pucki, słupski, starogardzki, sztumski, tczewski, wejherowski Radio Gdańsk S.A. powiat: człuchowski Radio Koszalin S.A. WOJEWÓDZTWO ŚLĄSKIE Powiaty w granicach administracyjnych Nazwa rozgłośni 1 2 Bielsko-Biała, Bytom, Chorzów, Częstochowa, Dąbrowa Górnicza, Gliwice, Jastrzębie-Zdrój, Jaworzno, Katowice, Mysłowice, Piekary Śląskie, Ruda Śląska, Rybnik, Siemianowice Śląskie, Sosnowiec, Świętochłowice, Tychy, Zabrze, Żory, powiaty: będziński, bielski, bieruńsko-lędziński, cieszyński, częstochowski, gliwicki, kłobucki, lubliniecki, mikołowski, myszkowski, pszczyński, raciborski, rybnicki, tamogórski, wodzisławski, zawierciański, żywiecki Radio Katowice S.A. WOJEWÓDZTWO ŚWIĘTOKRZYSKIE Powiaty w granicach administracyjnych Nazwa rozgłośni 1 2 Kielce, powiaty: buski, jędrzejowski, kielecki, konecki, opatowski, ostrowiecki, pińczowski, sandomierski, skarżyski, starachowicki, staszowski, włoszczowski Radio Kielce S.A. powiat: kazimierski Radio Kraków S.A. WOJEWÓDZTWO WARMIŃSKO-MAZURSKIE Powiaty w granicach administracyjnych Nazwa rozgłośni 1 2 Elbląg, Olsztyn, powiaty: bartoszycki, braniewski, działdowski, elbląski, ełcki, giżycki, gołdapski, iławski, kętrzyński, lidzbarski, mrągowski, nidzicki, nowomiejski, olecki, olsztyński, ostródzki, piski, szczycieński, węgorzewski Radio Olsztyn S.A. WOJEWÓDZTWO WIELKOPOLSKIE Powiaty w granicach administracyjnych Nazwa rozgłośni 1 2 Kalisz, Konin, Leszno, Poznań, powiaty: chodzieski, czamkowsko--trzcianecki, gnieźnieński, gostyński, grodziski, jarociński, kaliski, kępiński, kolski, koniński, kościański, krotoszyński, leszczyński, międzychodzki, nowotomyski, obornicki, ostrowski, ostrzeszowski, pilski, pleszewski, poznański, rawicki, słupecki, szamotulski, średzki, śremski, turecki, wągrowiecki, wolsztyński, wrzesiński, złotowski Radio Poznań S.A. WOJEWÓDZTWO ZACHODNIOPOMORSKIE Powiaty w granicach administracyjnych Nazwa rozgłośni 1 2 Koszalin, powiaty: białogardzki, drawski, kołobrzeski, koszaliński, sławieński, szczecinecki, świdwiński, wałecki Radio Koszalin S.A. Szczecin, Świnoujście, powiaty: choszczeński, goleniowski, gryficki, gryfiński, kamieński, łobeski, myśliborski, policki, pyrzycki, stargardzki Radio Szczecin S.A.
+Załącznik – OBSZARY EMITOWANIA PROGRAMÓW REGIONALNYCH TELEWIZJI POLSKIEJ
+patrz oryginał
+Załącznik – OBSZARY EMITOWANIA PROGRAMÓW SPÓŁEK RADIOFONII REGIONALNEJ
+patrz oryginał
 

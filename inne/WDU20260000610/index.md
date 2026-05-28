@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 30 kwietnia 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 maja 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-05-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000610) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/610/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 30 kwietnia 2026 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. z 2025 r. poz. 865), z uwzględnieniem stanu prawnego na dzień 29 kwietnia 2026 r. oraz zmian wprowadzonych ustawą z dnia 17 października 2025 r. o zmianie ustawy o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. poz. 1700).
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 ustawy z dnia 17 października 2025 r. o zmianie ustawy o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. poz. 1700), który stanowi: „Art. 2. Ustawa wchodzi życie po upływie 3 miesięcy od dnia ogłoszenia.”.
 Marszałek Sejmu: W. Czarzasty
@@ -38,6 +38,30 @@ o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz e
 **Art. 2.** Agencja Restrukturyzacji i Modernizacji Rolnictwa, zwana dalej „Agencją”, tworzy i prowadzi krajowy system ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, zwany dalej „systemem”.
 
 **Art. 3.** Użyte ustawie określenia oznaczają:
+
+- **1)** gospodarstwo rolne gospodarstwo rozumieniu art. 3 pkt 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2115 z dnia 2 grudnia 2021 r. ustanawiającego przepisy dotyczące wsparcia planów strategicznych sporządzanych przez państwa członkowskie ramach wspólnej polityki rolnej (planów strategicznych WPR) i finansowanych z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) oraz uchylającego rozporządzenia (UE) nr 1305/2013 i (UE) nr 1307/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2021/2115”;
+- **2)** producent producenta rolnego, beneficjenta programów rybackich, posiadacza zwierzęcia, organizację producentów, podmiot prowadzący zakład utylizacyjny oraz potencjalnego beneficjenta;
+- **3)** producent rolny osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, będącą:
+    - **a)** (uchylona)
+    - **b)** rolnikiem rozumieniu art. 3 pkt 1 rozporządzenia 2021/2115;
+    - **c)** (uchylona) 3a) (uchylony) 3b) beneficjent programów rybackich beneficjenta programów rybackich finansowanych ze środków europejskich i wdrażanych przez Agencję;
+
+- **3c)** posiadacz zwierzęcia:
+    - **a)** podmiot rozumieniu: art. 4 pkt 24 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/429 z dnia 9 marca 2016 r. sprawie przenośnych chorób zwierząt oraz zmieniającego i uchylającego niektóre akty dziedzinie zdrowia zwierząt („Prawo o zdrowiu zwierząt”) (Dz. Urz. UE L 84 z 31.03.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2016/429” odniesieniu do bydła, wielbłądowatych, jeleniowatych, owiec, kóz i świń, art. 2 pkt 3 rozporządzenia wykonawczego Komisji (UE) 2021/963 z dnia 10 czerwca 2021 r. ustanawiającego zasady stosowania rozporządzeń Parlamentu Europejskiego i Rady (UE) 2016/429, (UE) 2016/1012 i (UE) 2019/6 odniesieniu do identyfikacji i rejestracji koniowatych oraz określającego wzory dokumentów identyfikacyjnych dla tych zwierząt (Dz. Urz. UE L 213 z 16.06.2021, str. 3) odniesieniu do koniowatych z wyłączeniem przewoźnika rozumieniu art. 4 pkt 25 rozporządzenia 2016/429,
+    - **b)** zakład rozumieniu art. 4 pkt 27 rozporządzenia 2016/429 odniesieniu do ptaków z gatunków: kura (Gallus gallus), kaczka (Anas platyrhynchos), kaczka piżmowa (Cairina moschata), gęś (Anser anser), gęś garbonosa (Anser cygnoides), indyk (Meleagris gallopavo), przepiórka japońska (Coturnix japonica), perlica (Numida meleagris) oraz struś (Struthio camelus), tym wylęgarnię rozumieniu art. 4 pkt 47 rozporządzenia 2016/429, i Rady z dnia 29 kwietnia 2004 r. ustanawiającego szczególne przepisy dotyczące higieny odniesieniu do żywności pochodzenia zwierzęcego (Dz. Urz. UE L 139 z 30.04.2004, str. 55, z późn. zm. Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 14),
+    - **d)** właściciela koniowatego;
+
+- **4)** organizacja producentów grupę producentów rolnych i związek grup producentów rolnych uznane na podstawie przepisów ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. z 2023 r. poz. 1145) oraz organizację producentów, zrzeszenie organizacji producentów, organizację międzybranżową, międzynarodową organizację producentów, międzynarodowe zrzeszenie organizacji producentów i międzynarodową organizację międzybranżową uznane na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm. );
+- **5)** (uchylony)
+- **6)** podmiot prowadzący zakład utylizacyjny podmiot prowadzący zakład przetwórczy lub spalarnię rozumieniu przepisów o systemie identyfikacji i rejestracji zwierząt;
+- **6a)** potencjalny beneficjent osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, która może:
+    - **a)** ubiegać się o przyznanie pomocy ramach działań objętych programem rozwoju obszarów wiejskich,
+    - **b)** uczestniczyć innych niefinansowych, współfinansowanych lub finansowanych ze środków Unii Europejskiej lub ze środków budżetowych mechanizmach administrowanych przez Agencję lub Krajowy Ośrodek Wsparcia Rolnictwa, ramach których odpowiednio Agencja lub Krajowy Ośrodek Wsparcia Rolnictwa realizuje swoje zadania niebędącą producentem rolnym, beneficjentem programów rybackich, posiadaczem zwierzęcia, organizacją producentów lub podmiotem prowadzącym zakład utylizacyjny;
+
+- **6b)** jednostka gruntu nierolniczego jednostkę gruntu nierolniczego rozumieniu art. 2 pkt 12 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. z 2024 r. poz. 1741, z 2025 r. poz. 321 oraz z 2026 r. poz. 305);
+- **7)** działka rolna działkę rolną rozumieniu art. 2 pkt 4 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027;
+- **7a)** właściciel koniowatego właściciela rozumieniu art. 2 pkt 4 rozporządzenia wykonawczego Komisji (UE) 2021/963 z dnia 10 czerwca 2021 r. ustanawiającego zasady stosowania rozporządzeń Parlamentu Europejskiego i Rady (UE) 2016/429, (UE) 2016/1012 i (UE) 2019/6 odniesieniu do identyfikacji i rejestracji koniowatych oraz określającego wzory dokumentów identyfikacyjnych dla tych zwierząt; identyfikacji i rejestracji zwierząt, oraz ptaki z gatunków: kura (Gallus gallus), kaczka (Anas platyrhynchos), kaczka piżmowa (Cairina moschata), gęś (Anser anser), gęś garbonosa (Anser cygnoides), indyk (Meleagris gallopavo), przepiórka japońska (Coturnix japonica), perlica (Numida meleagris) oraz struś (Struthio camelus);
+- **9)** płatności pomoc finansową dla producentów rolnych, organizacji producentów i potencjalnych beneficjentów udzielaną całości lub części ze środków Europejskiego Funduszu Orientacji i Gwarancji Rolnej, Europejskiego Funduszu Rolniczego Gwarancji lub Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz przejściowe wsparcie krajowe, o którym mowa przepisach o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027.
 
 **Art. 3a.**
 
@@ -53,6 +77,13 @@ o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz e
 3. Strony oraz inne osoby uczestniczące postępowaniu, o którym mowa ust. 1, są obowiązane przedstawiać dowody oraz dawać wyjaśnienia co do okoliczności sprawy zgodnie z prawdą i bez zatajania czegokolwiek; ciężar udowodnienia faktu spoczywa na osobie, która z tego faktu wywodzi skutki prawne.
 
 **Art. 4.** System składa się z:
+
+- **1)** ewidencji producentów;
+- **2)** ewidencji gospodarstw rolnych;
+- **3)** ewidencji wniosków o przyznanie płatności;
+- **3a)** systemu identyfikacji działek rolnych, o którym mowa art. 68 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2116 z dnia 2 grudnia 2021 r. sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylenia rozporządzenia (UE) nr 1306/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 187, z późn. zm. ), zwanego dalej „rozporządzeniem 2021/2116”;
+- **3b)** systemu monitorowania obszarów rozumieniu art. 65 ust. 4 lit. b rozporządzenia 2021/2116;
+- **4)** dokumentacji związanej z prowadzeniem ewidencji i systemów, o których mowa pkt 1–3b.
 
 **Art. 5.**
 
@@ -252,7 +283,7 @@ o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz e
 
 2. Minister właściwy do spraw rolnictwa, minister właściwy do spraw rynków rolnych, minister właściwy do spraw rozwoju wsi, Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa, Prezes Kasy Rolniczego Ubezpieczenia Społecznego, wojewodowie, Główny Inspektor Jakości Handlowej Artykułów Rolno-Spożywczych i wojewódzcy inspektorzy jakości handlowej artykułów rolno-spożywczych udostępniają nieodpłatnie Agencji dane zawarte rejestrach oraz ewidencjach prowadzonych na podstawie odrębnych przepisów, niezbędne do dokonania płatności.
 
-3. Minister właściwy do spraw rozwoju wsi określi, drodze rozporządzenia, warunki oraz tryb udostępniania danych przechowywanych prowadzonych rejestrach i ewidencjach, o których mowa ust. 2, mając na względzie ochronę danych osobowych, zapewnienie jednolitości danych o podmiotach ubiegających się o przyznanie płatności oraz bezpieczeństwo tych rejestrów i ewidencji oraz przechowywanych nich danych, a także sprawne funkcjonowanie systemu. z 2025 r. poz. 242), dane przestrzenne zawarte systemie identyfikacji działek rolnych, o którym mowa art. 66 ust. 1 lit. a rozporządzenia 2021/2116, systemie wniosków geoprzestrzennych, o którym mowa art. 66 ust. 1 lit. b rozporządzenia 2021/2116, oraz systemie kontroli i kar, o którym mowa art. 66 ust. 1 lit. e rozporządzenia 2021/2116, dotyczące wektorowych granic i powierzchni:
+3. Minister właściwy do spraw rozwoju wsi określi, drodze rozporządzenia, warunki oraz tryb udostępniania danych przechowywanych prowadzonych rejestrach i ewidencjach, o których mowa ust. 2, mając na względzie ochronę danych osobowych, zapewnienie jednolitości danych o podmiotach ubiegających się o przyznanie płatności oraz bezpieczeństwo tych rejestrów i ewidencji oraz przechowywanych nich danych, a także sprawne funkcjonowanie systemu. o których mowa art. 9 ust. 1 pkt 1–3 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej (Dz. U. z 2025 r. poz. 242), dane przestrzenne zawarte systemie identyfikacji działek rolnych, o którym mowa art. 66 ust. 1 lit. a rozporządzenia 2021/2116, systemie wniosków geoprzestrzennych, o którym mowa art. 66 ust. 1 lit. b rozporządzenia 2021/2116, oraz systemie kontroli i kar, o którym mowa art. 66 ust. 1 lit. e rozporządzenia 2021/2116, dotyczące wektorowych granic i powierzchni:
 
 - **1)** działek referencyjnych rozumieniu art. 2 ust. 2 rozporządzenia 2022/1172, wraz z ich identyfikatorami;
 - **2)** maksymalnego kwalifikującego się obszaru, o którym mowa art. 2 ust. 7 lit. a rozporządzenia 2022/1172;

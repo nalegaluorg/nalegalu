@@ -8,12 +8,10 @@ pos: 1088
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o utworzeniu Akademii Techniczno-Humanistycznej w Bielsku-Białej
-
-*USTAWA z dnia 19 lipca 2001 r.*
+# Ustawa z dnia 19 lipca 2001 r. o utworzeniu Akademii Techniczno-Humanistycznej w Bielsku-Białej
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2001-07-19 |
 | Data wydania | 2001-09-20 |
+| Wejście w życie | 2001-10-05 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011011088) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1088/text.pdf) |
 
@@ -37,7 +36,7 @@ source: "isap-pdf"
 
 **Art. 2.** Podstawowym kierunkiem działalności Akademii jest kształcenie oraz prowadzenie badań naukowych w zakresie nauk humanistycznych, ekonomicznych i technicznych.
 
-**Art. 3.** Nadzór nad Akademią sprawuje minister właściwy do spraw szkolnictwa wyższego i nauki.
+**Art. 3.** Nadzór nad Akademią sprawuje minister właściwy do spraw szkolnictwa wyższego.
 
 **Art. 4.**
 
@@ -57,7 +56,7 @@ source: "isap-pdf"
 
 1. Z dniem 1 października 2001 r.:
 
-- **1)** pracownicy Politechniki Łódzkiej zatrudnieni w Filii w Bielsku-Białej stają się pracownikami Akademii;
+- **1)** pracownicy Politechniki Łódzkiej zatrudnieni w Filii w Bielsku-Białej stają się pracownikami Akademii,
 - **2)** studenci Politechniki Łódzkiej studiujący w Filii w Bielsku-Białej stają się studentami Akademii.
 
 2. Osoby przyjęte na pierwszy rok studiów na rok akademicki 2001/2002 do Filii Politechniki Łódzkiej w Bielsku-Białej z dniem utworzenia Akademii stają się jej studentami.
@@ -74,5 +73,5 @@ source: "isap-pdf"
 
 3. Do dnia 31 grudnia 2001 r. zostaną przeprowadzone wybory do Senatu Akademii oraz wybory dziekanów i rad wydziałów w trybie i na okres ustalony w statucie Akademii.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

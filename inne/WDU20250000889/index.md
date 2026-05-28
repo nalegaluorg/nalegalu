@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o drogach publicznych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 26 czerwca 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 lipca 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-07-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000889) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/889/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 26 czerwca 2025 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o drogach publicznych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2024 r. poz. 320), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U. poz. 1222),
 2) ustawą z dnia 4 kwietnia 2025 r. o zmianie ustawy o drogach publicznych (Dz. U. poz. 641) oraz zmian wynikających z przepisów ogłoszonych przed dniem 18 czerwca 2025 r.
@@ -89,7 +89,89 @@ Art. 48–50. (pominięte)
 
 **Art. 3.** Drogi publiczne ze względu na ich dostępność dzielą się na:
 
+- **1)** drogi ogólnodostępne;
+- **2)** drogi o ograniczonej dostępności, tym autostrady i drogi ekspresowe.
+
 **Art. 4.** Użyte ustawie określenia oznaczają:
+
+- **1)** pas drogowy ‒ wydzielony liniami rozgraniczającymi grunt wraz z przestrzenią nad i pod jego powierzchnią, którym jest lub będzie usytuowana droga;
+- **2)** droga ‒ budowlę składającą się z części i urządzeń drogi, budowli ziemnych, lub drogowych obiektów inżynierskich, określonych przepisach wydanych na podstawie art. 7 ustawy z dnia 7 lipca 1994 r. ‒ Prawo budowlane, stanowiącą całość techniczno-użytkową, usytuowaną pasie drogowym i przeznaczoną do ruchu lub postoju pojazdów, ruchu pieszych, ruchu osób poruszających się przy użyciu urządzenia wspomagającego ruch, jazdy wierzchem lub pędzenia zwierząt;
+- **2a)** urządzenie drogi ‒ obiekt lub urządzenie, tym obiekt lub urządzenie budowlane, związane funkcjonalnie z drogą lub ruchem drogowym, tym kanał technologiczny;
+- **2b)** urządzenie obce ‒ obiekt lub urządzenie, tym obiekt lub urządzenie budowlane, szczególności wodociągowe, kanalizacyjne, gazowe, cieplne, telekomunikacyjne lub elektroenergetyczne, niezwiązane funkcjonalnie z drogą lub ruchem drogowym, z wyjątkiem kanału technologicznego;
+- **3)** (uchylony)
+- **4)** (uchylony) wydzielonego z jezdni;
+- **6)** (uchylony)
+- **7)** (uchylony)
+- **8)** zjazd ‒ część drogi publicznej łączącą jezdnię z nieruchomością gruntową usytuowaną poza pasem drogowym, stanowiącą bezpośrednie miejsce dostępu do drogi publicznej rozumieniu przepisów o planowaniu i zagospodarowaniu przestrzennym;
+- **9)** skrzyżowanie ‒ część drogi publicznej będącą połączeniem dróg publicznych albo jezdni jednej drogi publicznej jednym poziomie;
+- **9a)** węzeł część drogi publicznej będącą połączeniem dróg publicznych na różnych poziomach;
+- **10)** droga ekspresowa drogę:
+    - **a)** której jezdnie główne lub jezdnia główna są przeznaczone wyłącznie do ruchu pojazdów samochodowych,
+    - **b)** łączącą lub krzyżującą się na różnych poziomach z innymi drogami transportu lądowego i wodnego, z dopuszczeniem wyjątkowo skrzyżowań z drogami publicznymi,
+    - **c)** oznaczoną odpowiednimi znakami drogowymi;
+
+- **11)** autostrada drogę:
+    - **a)** której jezdnie główne są przeznaczone wyłącznie do ruchu pojazdów samochodowych,
+    - **b)** posiadającą, z wyjątkiem uzasadnionych przypadków, oddzielne jezdnie dla obu kierunków ruchu oddzielone od siebie środkowym pasem dzielącym nieprzeznaczonym do ruchu lub oddzielone wyjątkowo inny sposób,
+    - **c)** łączącą lub krzyżującą się na różnych poziomach z innymi drogami transportu lądowego i wodnego,
+    - **d)** oznaczoną odpowiednimi znakami drogowymi;
+
+- **11a)** (uchylony) 11b) droga o znaczeniu obronnym droga publiczna lub jej odcinek, wyznaczona okresie pokoju, przewidziana do wykorzystania czasie pokoju, kryzysu lub wojny do wykonywania przewozów istotnych dla obronności państwa oraz zobowiązań sojuszniczych;
+- **12)** drogowy obiekt inżynierski ‒ most, wiadukt, tunel, przepust i konstrukcję oporową, o których mowa przepisach wydanych na podstawie art. 7 ustawy z dnia 7 lipca 1994 r. ‒ Prawo budowlane;
+- **13)** obiekt mostowy ‒ most i wiadukt, o których mowa przepisach wydanych na podstawie art. 7 ustawy z dnia 7 lipca 1994 r. ‒ Prawo budowlane;
+- **14)** (uchylony)
+- **15)** (uchylony) 15a) kanał technologiczny ciąg osłonowych elementów obudowy, studni kablowych oraz innych obiektów lub urządzeń służących umieszczeniu lub eksploatacji:
+    - **a)** urządzeń infrastruktury technicznej związanych z potrzebami zarządzania drogami lub potrzebami ruchu drogowego,
+    - **b)** linii telekomunikacyjnych wraz z zasilaniem oraz linii elektroenergetycznych, niezwiązanych z potrzebami zarządzania drogami lub potrzebami ruchu drogowego;
+
+- **16)** (uchylony)
+- **17)** budowa drogi wykonywanie połączenia drogowego między określonymi miejscami lub miejscowościami, a także jego odbudowę i rozbudowę;
+- **18)** przebudowa drogi wykonywanie robót, których wyniku następuje podwyższenie parametrów technicznych i eksploatacyjnych istniejącej drogi, niewymagających zmiany granic pasa drogowego;
+- **19)** remont drogi wykonywanie robót przywracających pierwotny stan drogi, także przy użyciu wyrobów budowlanych innych niż użyte stanie pierwotnym;
+- **20)** utrzymanie drogi wykonywanie robót konserwacyjnych, porządkowych i innych zmierzających do zwiększenia bezpieczeństwa i wygody ruchu, tym także odśnieżanie i zwalczanie śliskości zimowej; ograniczenia jej funkcji, niewłaściwego jej użytkowania oraz pogorszenia warunków bezpieczeństwa ruchu;
+- **22)** zieleń przydrożna roślinność umieszczoną pasie drogowym, mającą na celu szczególności ochronę użytkowników drogi przed oślepianiem przez pojazdy nadjeżdżające z kierunku przeciwnego, ochronę drogi przed zawiewaniem i zaśnieżaniem, ochronę przyległego terenu przed nadmiernym hałasem, zanieczyszczeniem powietrza, wody i gleby;
+- **23)** reklama umieszczone polu widzenia użytkownika drogi tablica reklamowa lub urządzenie reklamowe rozumieniu art. 2 pkt 16b i 16c ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz. 1130, 1907 i 1940 oraz z 2025 r. poz. 527 i 680), a także każdy inny nośnik informacji wizualnej, wraz z jej elementami konstrukcyjnymi i zamocowaniami, niebędący znakiem drogowym, o którym mowa przepisach wydanych na podstawie art. 7 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251), ustawionym przez gminę znakiem informującym o obiektach zlokalizowanych przy drodze, tym obiektach użyteczności publicznej, znakiem informującym o formie ochrony zabytków lub tablicą informacyjną o nazwie formy ochrony przyrody rozumieniu art. 115 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2024 r. poz. 1478 i 1940);
+- **24)** dostępność drogi ‒ cechę charakteryzującą gęstość połączeń danej drogi z innymi drogami przez skrzyżowania lub węzły oraz zakres dostępu do drogi przez zjazdy;
+- **25)** pojazd nienormatywny pojazd lub zespół pojazdów rozumieniu art. 2 pkt 35a ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym;
+- **26)** transeuropejska sieć drogowa sieć drogową na terytorium Rzeczypospolitej Polskiej określoną załączniku I do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1315/2013 z dnia 11 grudnia 2013 r. sprawie unijnych wytycznych dotyczących rozwoju transeuropejskiej sieci transportowej i uchylającego decyzję nr 661/2010/UE (Dz. Urz. UE L 348 z 20.12.2013, str. 1, z późn. zm. );
+- **27)** służby ratownicze jednostki ochrony przeciwpożarowej rozumieniu ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2025 r. poz. 188) oraz zespoły ratownictwa medycznego rozumieniu ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2025 r. poz. 91 i 637);
+- **28)** ocena wpływu planowanej drogi na bezpieczeństwo ruchu drogowego strategiczną analizę wpływu wariantów planowanej drogi na poziom bezpieczeństwa ruchu drogowego sieci dróg publicznych znajdujących się obszarze oddziaływania planowanej drogi;
+- **29)** audyt bezpieczeństwa ruchu drogowego niezależną, szczegółową, techniczną ocenę cech projektowanej, budowanej, przebudowywanej lub użytkowanej drogi publicznej pod względem bezpieczeństwa uczestników ruchu drogowego;
+- **30)** (uchylony)
+- **31)** (uchylony)
+- **32)** uczestnik ruchu drogowego uczestnika ruchu drogowego rozumieniu ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym;
+- **33)** inteligentne systemy transportowe (ITS) systemy wykorzystujące technologie informacyjne i komunikacyjne obszarze transportu drogowego, obejmującym infrastrukturę, pojazdy i jego użytkowników, a także obszarach zarządzania ruchem i zarządzania mobilnością, oraz do interfejsów z innymi rodzajami transportu;
+- **34)** interoperacyjność zdolność systemów oraz będących ich podstawą procesów gospodarczych do wymiany danych, informacji i wiedzy;
+- **35)** aplikacja ITS operacyjne narzędzie zastosowania ITS;
+- **36)** usługa ITS dostarczanie aplikacji ITS określonych ramach organizacyjnych i operacyjnych, celu zwiększenia bezpieczeństwa użytkowników obszarze transportu drogowego, efektywności i wygody ich przemieszczania się, a także ułatwiania lub wspierania operacji transportowych i przewozowych;
+- **37)** użytkownik ITS każdego użytkownika aplikacji lub usług ITS, tym podróżnych, szczególnie zagrożonych uczestników ruchu drogowego, użytkowników i zarządców dróg, podmioty zarządzające pojazdami transporcie osób lub rzeczy oraz służby ustawowo powołane do niesienia pomocy; gólności pieszych i kierujących rowerem, hulajnogą elektryczną, urządzeniem transportu osobistego lub urządzeniem wspomagającym ruch, a także kierujących motocyklem, osoby niepełnosprawne lub osoby o widocznej ograniczonej sprawności ruchowej;
+- **39)** interfejs połączenie między systemami, które zapewnia ich łączenie i współpracę;
+- **40)** ciągłość usług zdolność do zapewnienia nieprzerwanych usług ramach sieci transportowych na obszarze Unii Europejskiej;
+- **41)** usługa EETS usługę umożliwiającą korzystającym z dróg państwach członkowskich Unii Europejskiej, za użytkowanie których są pobierane opłaty z wykorzystaniem systemu elektronicznego poboru opłat, wypełnienie obowiązku uiszczenia tych opłat na obszarach EETS na podstawie umowy zawartej z dostawcą EETS;
+- **42)** obszar EETS drogę, sieć dróg, most, tunel lub przeprawę promową na terytorium państwa członkowskiego Unii Europejskiej, na których opłaty za przejazd pobiera się za pomocą systemu elektronicznego poboru opłat wykorzystującego co najmniej jedną z następujących technologii:
+    - **a)** pozycjonowanie satelitarne,
+    - **b)** łączność ruchomą,
+    - **c)** technologię mikrofalową 5,8 GHz,
+    - **d)** naliczanie opłat oparciu o automatyczne rozpoznawanie tablic rejestracyjnych pojazdów;
+
+- **42a)** podmiot pobierający opłaty na obszarze EETS podmiot pobierający opłaty za korzystanie z dróg publicznych na obszarze EETS znajdującym się na terytorium Rzeczypospolitej Polskiej;
+- **43)** dostawca EETS podmiot świadczący usługę EETS;
+- **43a)** umowa dotycząca obszaru EETS umowę zawieraną między dostawcą EETS a podmiotem pobierającym opłaty na danym obszarze EETS, na podstawie której dostawca EETS jest uprawniony do świadczenia usługi EETS na tym obszarze;
+- **44)** użytkownik EETS podmiot obowiązany do uiszczenia opłat, który zawarł umowę o świadczenie usługi EETS z dostawcą EETS;
+- **44a)** składniki interoperacyjności EETS podstawowe składniki, grupy składników, podzespoły lub zespoły, które są włączone lub które są przeznaczone do włączenia do usługi EETS, od których pośrednio lub bezpośrednio zależy interoperacyjność tej usługi, tym urządzenie na potrzeby poboru opłat systemie elektronicznego poboru opłat i oprogramowanie;
+- **44b)** przydatność do stosowania EETS zdolność składnika interoperacyjności EETS do osiągnięcia i utrzymania określonej wydajności czasie jego używania po zintegrowaniu go sposób reprezentatywny z usługą EETS powiązaniu z systemem elektronicznego poboru opłat podmiotu pobierającego opłaty na obszarze EETS;
+- **44c)** upoważniony przedstawiciel przedstawiciela rozumieniu art. 4 pkt 25 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2025 r. poz. 568);
+- **44d)** usługa poboru opłat usługę umożliwiającą korzystającym z dróg publicznych wypełnienie obowiązku uiszczenia opłat na obszarze EETS na podstawie jednej umowy, obejmującą: sprawie ochrony osób fizycznych związku z przetwarzaniem danych osobowych i sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. );
+    - **a)** zagwarantowanie, że podmiot pobierający opłaty otrzymuje opłaty, które są należne od korzystających z dróg publicznych,
+    - **b)** umożliwianie wnoszenia opłat za pomocą powszechnie dostępnych usług płatniczych rozumieniu art. 3 ust. 1 i 2 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2025 r. poz. 611),
+    - **c)** zapewnianie obsługi korzystających z dróg publicznych obowiązanych do wnoszenia opłat za przejazdy po obszarze EETS,
+    - **d)** wdrażanie i stosowanie polityk, o których mowa art. 24 ust. 2 rozporządzenia 2016/679, celu ochrony przetwarzanych danych osobowych,
+    - **e)** umożliwianie dostarczania użytkownikowi drogi urządzenia na potrzeby poboru opłat systemie elektronicznego poboru opłat, jeśli jest ono wymagane tym systemie;
+
+- **46)** Krajowy Punkt Kontaktowy Krajowy Punkt Kontaktowy, o którym mowa art. 80k ust. 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym.
+- **47)** (uchylony)
+- **48)** (uchylony)
+- **49)** (uchylony)
 
 **Art. 4a.**
 
@@ -172,7 +254,7 @@ Art. 48–50. (pominięte)
 
 4. Nowo wybudowany odcinek drogi zostaje zaliczony do kategorii drogi, której ciągu leży.
 
-5. Odcinek drogi krajowej zastąpiony nowo wybudowanym odcinkiem drogi z chwilą oddania go do użytkowania zostaje pozbawiony dotychczasowej kategorii i zaliczony do kategorii drogi wojewódzkiej. zaliczony do kategorii drogi powiatowej.
+5. Odcinek drogi krajowej zastąpiony nowo wybudowanym odcinkiem drogi z chwilą oddania go do użytkowania zostaje pozbawiony dotychczasowej kategorii i zaliczony do kategorii drogi wojewódzkiej. kiej o proporcjonalnej długości do odcinka drogi krajowej, o którym mowa ust. 5. Ten odcinek drogi wojewódzkiej zostaje zaliczony do kategorii drogi powiatowej.
 
 5a. W przypadku, o którym mowa ust. 5a, sejmik województwa nie może pozbawić kategorii drogi wojewódzkiej odcinka drogi krajowej, o którym mowa ust. 5, zastąpionego autostradą lub drogą ekspresową.
 
@@ -274,6 +356,12 @@ Art. 48–50. (pominięte)
 
 **Art. 13a.** Zadania zakresie budowy i eksploatacji autostrad i dróg ekspresowych mogą być realizowane:
 
+- **1)** na zasadach ogólnych określonych ustawie;
+- **2)** na zasadach określonych przepisach o autostradach płatnych oraz o Krajowym Funduszu Drogowym;
+- **3)** na zasadach określonych ustawie z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 1637);
+- **4)** na zasadach określonych ustawie z dnia 12 stycznia 2007 r. o drogowych spółkach specjalnego przeznaczenia (Dz. U. z 2021 r. poz. 1469);
+- **5)** na zasadach określonych ustawie z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi (Dz. U. z 2023 r. poz. 140 oraz z 2025 r. poz. 620).
+
 **Art. 13b.**
 
 1. Opłatę, o której mowa art. 13 ust. 1 pkt 1 lit. a, pobiera się za postój pojazdów samochodowych strefie płatnego parkowania, wyznaczonym miejscu, określone dni robocze, określonych godzinach lub całodobowo.
@@ -326,6 +414,47 @@ Art. 48–50. (pominięte)
 
 **Art. 13c.** (uchylony) lub tunel, którego długość jest większa niż 400 m. 2. Przez długość obiektu mostowego lub tunelu, o której mowa ust. 1, należy rozumieć długość całkowitą obiektu podaną dokumentach ewidencyjnych obiektu mostowego lub tunelu, prowadzonych zgodnie z przepisami sprawie numeracji i ewidencji dróg, obiektów mostowych, tuneli i promów. 3. Ustala się następujące kategorie pojazdów celu określania wysokości opłaty, o której mowa art. 13 ust. 2 pkt 1:
 
+- **1)** kategoria 1 trójkołowe lub czterokołowe pojazdy samochodowe o masie własnej nieprzekraczającej 550 kg;
+- **2)** kategoria 2 pojazdy samochodowe o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t, z wyjątkiem autobusów, oraz zespoły tych pojazdów;
+- **3)** kategoria 3 autobusy o dwóch osiach, ciągniki samochodowe bez naczep;
+- **4)** kategoria 4 samochody ciężarowe o dopuszczalnej masie całkowitej przekraczającej 3,5 t, autobusy o trzech i więcej osiach, pojazdy członowe o całkowitej liczbie osi do pięciu;
+- **5)** kategoria 5 zespoły pojazdów składające się z samochodu ciężarowego o dopuszczalnej masie całkowitej przekraczającej 3,5 t i przyczepy albo z autobusu i przyczepy oraz pojazdy członowe o całkowitej liczbie osi powyżej pięciu, a także pojazdy specjalne.
+
+4. Minister właściwy do spraw transportu, drodze rozporządzenia, może wprowadzić dla obiektów mostowych zlokalizowanych ciągach dróg, których zarządcą jest Generalny Dyrektor Dróg Krajowych i Autostrad albo dla których funkcję zarządcy drogi pełni drogowa spółka specjalnego przeznaczenia, opłatę, o której mowa art. 13 ust. 2 pkt 1, i ustalić wysokość opłaty, z tym że jednorazowa opłata za przejazd przez obiekt mostowy nie może przekroczyć dla:
+
+- **1)** pojazdu kategorii 1 4 zł;
+- **2)** pojazdu kategorii 2 5 zł;
+- **3)** pojazdu kategorii 3 6 zł;
+- **4)** pojazdu kategorii 4 8 zł;
+- **5)** pojazdu kategorii 5 9 zł.
+
+5. Organ stanowiący jednostki samorządu terytorialnego, drodze uchwały, może wprowadzić dla obiektów mostowych zlokalizowanych ciągach dróg, których zarządcą jest jednostka samorządu terytorialnego, opłatę, o której mowa art. 13 ust. 2 pkt 1, i ustalić wysokość opłaty, z tym że jednorazowa opłata za przejazd przez obiekt mostowy nie może przekroczyć stawek określonych ust. 4 pkt 1–5.
+
+6. Minister właściwy do spraw transportu, drodze rozporządzenia, może wprowadzić dla tuneli zlokalizowanych ciągach dróg, których zarządcą jest Generalny Dyrektor Dróg Krajowych i Autostrad albo dla których funkcję zarządcy drogi pełni drogowa spółka specjalnego przeznaczenia, opłatę, o której mowa art. 13 ust. 2 pkt 1, i ustalić wysokość opłaty, z tym że jednorazowa opłata za przejazd przez tunel nie może przekroczyć dla:
+
+- **1)** pojazdu kategorii 1 8 zł;
+- **2)** pojazdu kategorii 2 10 zł;
+- **3)** pojazdu kategorii 3 12 zł;
+- **4)** pojazdu kategorii 4 15 zł;
+- **5)** pojazdu kategorii 5 18 zł.
+
+7. Organ stanowiący jednostki samorządu terytorialnego, drodze uchwały, może wprowadzić dla tuneli zlokalizowanych ciągach dróg, których zarządcą jest jednostka samorządu terytorialnego, opłatę, o której mowa art. 13 ust. 2 pkt 1, i ustalić wysokość opłaty, z tym że jednorazowa opłata za przejazd przez tunel nie może przekroczyć stawek, o których mowa ust. 6 pkt 1–5.
+
+8. Minister właściwy do spraw transportu wprowadzając opłatę, o której mowa art. 13 ust. 2 pkt 1, drodze rozporządzenia:
+
+- **1)** może wprowadzić opłaty abonamentowe lub zryczałtowaną oraz zerową stawkę opłaty dla niektórych użytkowników drogi,
+- **3)** określa sposób pobierania tej opłaty uwzględniając szczególności potrzeby użytkowników zakresie częstotliwości korzystania z obiektów mostowych i tuneli, zmniejszenie skutków finansowych wprowadzenia opłaty dla mieszkańców, dostępność informacji o wysokości opłat oraz koszt poboru tej opłaty.
+
+9. Organ stanowiący jednostki samorządu terytorialnego wprowadzając opłatę, o której mowa art. 13 ust. 2 pkt 1, drodze uchwały:
+
+- **1)** może wprowadzić opłaty abonamentowe lub zryczałtowaną oraz zerową stawkę opłaty dla niektórych użytkowników drogi;
+- **2)** określa sposób ogłaszania wysokości tej opłaty;
+- **3)** określa sposób pobierania tej opłaty.
+
+10. Opłatę, o której mowa art. 13 ust. 2 pkt 1, pobiera zarząd drogi, a przypadku jego braku zarządca drogi, z zastrzeżeniem ust. 10a.
+
+10a. Opłatę, o której mowa art. 13 ust. 2 pkt 1, może pobierać na warunkach określonych umowie, o której mowa art. 6 ust. 1 ustawy z dnia 12 stycznia 2007 r. o drogowych spółkach specjalnego przeznaczenia, drogowa spółka specjalnego przeznaczenia, która pełni funkcję zarządcy drogi krajowej.
+
 **Art. 13e.**
 
 1. Opłata, o której mowa art. 13 ust. 2 pkt 2, może być pobierana za przewóz promem osób, zwierząt, bagażu lub pojazdów.
@@ -349,7 +478,7 @@ Art. 48–50. (pominięte)
 - **1)** jednej osoby 3 zł;
 - **2)** jednego zwierzęcia 3 zł;
 - **3)** jednej sztuki bagażu 5 zł;
-- **4)** pojazdu: art. 13 ust. 2 pkt 2, i ustalić wysokość opłaty, z tym że jednorazowa opłata za przewóz promem nie może przekroczyć stawek, o których mowa ust. 6 pkt 1–4.
+- **4)** pojazdu: wych zlokalizowanych ciągach dróg, których zarządcą jest jednostka samorządu terytorialnego, opłatę, o której mowa art. 13 ust. 2 pkt 2, i ustalić wysokość opłaty, z tym że jednorazowa opłata za przewóz promem nie może przekroczyć stawek, o których mowa ust. 6 pkt 1–4.
     - **a)** kategorii 1 8 zł,
     - **b)** kategorii 2 10 zł,
     - **c)** kategorii 3 12 zł,
@@ -385,6 +514,80 @@ Art. 48–50. (pominięte)
 **Art. 13g.** (uchylony)
 
 **Art. 13h.** W przypadku zawarcia umowy o partnerstwie publiczno-prywatnym opłaty, o których mowa art. 13 ust. 1 pkt 1, art. 13 ust. 2, oraz opłatę dodatkową, o której mowa art. 13f ust. 1, może pobierać partner prywatny. Art. 13ha. 1. Opłata, o której mowa art. 13 ust. 1 pkt 3, zwana dalej „opłatą elektroniczną”, jest pobierana za przejazd po drogach krajowych lub ich odcinkach, określonych przepisach wydanych na podstawie ust. 6. 2. Opłatę elektroniczną ustala się jako iloczyn liczby kilometrów przejazdu i stawki tej opłaty za kilometr dla danej kategorii pojazdu. 3. Ustala się następujące kategorie pojazdów celu określenia stawki opłaty elektronicznej:
+
+- **1)** kategoria 1 pojazdy samochodowe o dopuszczalnej masie całkowitej powyżej 3,5 tony i poniżej 12 ton;
+- **2)** kategoria 2 pojazdy samochodowe o dopuszczalnej masie całkowitej co najmniej 12 ton;
+- **3)** kategoria 3 autobusy.
+
+4. Stawka opłaty elektronicznej za przejazd kilometra drogą krajową, niezależnie od kategorii pojazdów, o której mowa ust. 3, nie może być wyższa niż 2 zł oraz nie może przekroczyć stawki tej opłaty obliczonej zgodnie z przepisami wydanymi na podstawie ust. 5.
+
+4a. Stawka opłaty elektronicznej za przejazd kilometra drogą krajową, ustalona przepisach wydanych na podstawie ust. 6, ulega podwyższeniu na następny rok stopniu odpowiadającym wskaźnikowi wzrostu cen towarów i usług konsumpcyjnych okresie pierwszych trzech kwartałów roku, którym stawki ulegają zmianie, stosunku do analogicznego okresu roku poprzedniego. 2 zł albo stawkę obliczoną zgodnie z przepisami wydanymi na podstawie ust. 5, stawka opłaty elektronicznej ulega podwyższeniu do wysokości niższej z tych kwot.
+
+4c. Wskaźnik wzrostu cen, o którym mowa ust. 4a, ustala się na podstawie komunikatu Prezesa Głównego Urzędu Statystycznego ogłoszonego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, terminie 15 dni po upływie trzeciego kwartału każdego roku.
+
+5. Rada Ministrów określi, drodze rozporządzenia, szczegółową metodę obliczania maksymalnej stawki opłaty elektronicznej za przejazd 1 kilometra drogi krajowej, uwzględniając koszty budowy drogi krajowej lub jej odcinka, tym koszty finansowe, koszty utrzymania, koszty remontów, ochrony oraz zarządzania drogą, koszty poboru opłaty elektronicznej oraz inne koszty eksploatacji.
+
+6. Rada Ministrów, drodze rozporządzenia:
+
+- **1)** określi drogi krajowe lub ich odcinki, na których pobiera się opłatę elektroniczną,
+- **2)** ustali dla nich wysokość stawek opłaty elektronicznej za przejazd kilometra, dla danej kategorii pojazdu, wysokości nie większej niż określona ust. 4 mając na uwadze potrzeby utrzymania i ochrony dróg istotnych dla rozwoju sieci drogowej, koszty poboru opłaty elektronicznej oraz klasę drogi, na której jest pobierana opłata elektroniczna.
+
+7. Rada Ministrów rozporządzeniu, o którym mowa ust. 6, może:
+
+- **1)** zróżnicować stawki opłaty elektronicznej ze względu na liczbę osi, emisję spalin pojazdu samochodowego, porę dnia, kategorię dnia i porę roku, mając na uwadze zapewnienie potrzeb ochrony środowiska, płynności ruchu, ochronę dróg publicznych, optymalizację wykorzystania infrastruktury transportu lądowego, a także propagowanie bezpieczeństwa ruchu drogowego;
+- **2)** wprowadzić stawki abonamentowe dla niektórych użytkowników drogi krajowej wysokości nie mniejszej niż 87 % stawki opłaty elektronicznej, z zachowaniem zasady przejrzystości i niedyskryminacji.
+
+8. Minister właściwy do spraw transportu ogłasza, drodze obwieszczenia, Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, stawki opłaty elektronicznej obliczone zgodnie z ust. 4a i 4b, zaokrąglając je górę do pełnych groszy. Art. 13haa. 1. Minister właściwy do spraw transportu realizuje politykę państwa zakresie opłaty elektronicznej i opłaty za przejazd autostradą, o której mowa art. 37a ust. 1a ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym.
+
+2. W związku z wykonywaniem zadań, o których mowa ust. 1, minister właściwy do spraw transportu:
+
+- **1)** określa kierunki rozwoju sieci dróg objętych poborem opłaty elektronicznej oraz opłaty za przejazd autostradą, o której mowa art. 37a ust. 1a ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym;
+- **2)** prowadzi analizy kierunków rozwoju sieci drogowej, stawek opłaty elektronicznej na poszczególnych drogach lub ich odcinkach, oraz wysokości stawek opłaty elektronicznej, mając na względzie politykę transportową państwa;
+- **3)** prowadzi działalność analityczną i prognostyczną dotyczącą:
+    - **a)** zjawisk występujących obszarze natężenia ruchu drogowego na podstawie danych z systemu opłat, o których mowa ust. 1, szczególności mających wpływ na przychody z ich tytułu,
+    - **b)** działania i rozwoju systemów poboru i kontroli prawidłowości uiszczenia opłat za korzystanie z infrastruktury drogowej stosowanych Rzeczypospolitej Polskiej i na świecie, szczególności Unii Europejskiej, oraz rozwiązań nich wykorzystywanych;
+
+- **4)** realizuje lub koordynuje współpracę z innymi państwami oraz międzynarodowymi organami, organizacjami i instytucjami zakresie opłat za korzystanie z infrastruktury drogowej;
+- **5)** zapewnia uczestnictwo swojego przedstawiciela posiedzeniach komitetów, o których mowa art. 9c ust. 1 dyrektywy 1999/62/WE Parlamentu Europejskiego i Rady z dnia 17 czerwca 1999 r. sprawie pobierania opłat za użytkowanie niektórych typów infrastruktury przez pojazdy ciężarowe (Dz. Urz. UE L 187 z 20.07.1999, str. 42), zwanej dalej „dyrektywą 1999/62/WE”, i art. 31 ust. 1 dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/520 z dnia 19 marca 2019 r. sprawie interoperacyjności systemów elektronicznego poboru opłat drogowych i ułatwiania transgranicznej wymiany informacji na temat przypadków nieuiszczenia opłat drogowych Unii (Dz. Urz. UE L 91 z 29.03.2019, str. 45, z późn. zm. ), zwanej dalej „dyrektywą 2019/520”; komitetów, o których mowa pkt 5, jeśli jest to uzasadnione przedmiotem posiedzenia;
+- **7)** przekazuje do Komisji Europejskiej informacje i dane dotyczące elektronicznego systemu poboru opłaty elektronicznej, zgodnie z art. 7h dyrektywy 1999/62/WE, oraz sprawozdania, o których mowa art. 11 ust. 1 tej dyrektywy.
+
+3. Działania, o których mowa ust. 2 pkt 4–6, są podejmowane porozumieniu z ministrem właściwym do spraw finansów publicznych. Art. 13hb. 1. (uchylony) 1a. (uchylony) 1b. (uchylony) 1ba. Opłatę elektroniczną pobiera Szef Krajowej Administracji Skarbowej, zwany dalej „Szefem KAS”. 1bb. Opłata elektroniczna jest pobierana za pomocą systemu teleinformatycznego, zwanego dalej „Systemem Poboru Opłaty Elektronicznej KAS”. 1bc. Minister właściwy do spraw finansów publicznych może wyznaczyć, drodze rozporządzenia, inny organ Krajowej Administracji Skarbowej do wykonywania zadań Szefa KAS, o których mowa ust. 1ba, określając szczegółowy zakres zadań, mając na względzie zapewnienie sprawnego i skutecznego wykonywania tych zadań.
+
+1c. (uchylony) 1d. (uchylony) 1e. (uchylony) 1f. (uchylony) 1g. (uchylony) 1h. (uchylony) 1i. (uchylony) 1j. (uchylony) 1ja. Zadania związane z projektowaniem, budową, rozwojem, wdrożeniem, utrzymaniem lub wsparciem urządzeń i elementów Systemu Poboru Opłaty Elektronicznej KAS mogą być wykonywane przez jednostkę podległą ministrowi właściwemu do spraw finansów publicznych lub przez niego nadzorowaną.
+
+1k. Świadczenie usług z zakresu projektowania, budowy, rozwoju, wdrożenia, utrzymania lub wsparcia urządzeń i elementów Systemu Poboru Opłaty Elektronicznej KAS oraz kontroli prawidłowości uiszczenia tej opłaty może być realizowane przez podmiot, o którym mowa art. 4 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320 oraz z 2025 r. poz. 620 i 769), zwany dalej „Podmiotem Wyznaczonym”.
+
+1l. Podmiot Wyznaczony posiada przygotowanie techniczne oraz doświadczenie zakresie projektowania, budowy, rozwoju, wdrażania lub utrzymania technologii teleinformatycznych.
+
+1m. Usługi, o których mowa ust. 1k, Podmiot Wyznaczony wykonuje na rzecz Skarbu Państwa reprezentowanego przez ministra właściwego do spraw finansów publicznych.
+
+1n. Minister właściwy do spraw finansów publicznych może, drodze rozporządzenia, wyznaczyć Podmiot Wyznaczony oraz określić zakres realizowanych przez niego usług, uwzględniając kryteria, o których mowa ust. 1l, a także mając na względzie interes Skarbu Państwa oraz zapewnienie możliwości wykorzystania Systemu Poboru Opłaty Elektronicznej KAS do udostępniania danych osobowych sposób określony art. 51a ust. 3 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. ).
+
+1o. W przypadku gdy Podmiot Wyznaczony jest nadzorowany albo podlega ministrowi innemu niż minister właściwy do spraw finansów publicznych, rozporządzenie, o którym mowa ust. 1n, wydaje się porozumieniu z właściwym ministrem.
+
+1p. (uchylony) o świadczenie usług”, która określa szczególności:
+
+- **1)** szczegółowy przedmiot i zakres czynności realizowanych przez Podmiot Wyznaczony, z uwzględnieniem przepisów wydanych na podstawie ust. 1n;
+- **2)** harmonogram przygotowania lub wykonania czynności przez Podmiot Wyznaczony;
+- **3)** termin wykonania czynności;
+- **4)** obowiązki Podmiotu Wyznaczonego;
+- **5)** wysokość i zasady wypłaty wynagrodzenia na rzecz Podmiotu Wyznaczonego;
+- **6)** tryb kontroli wykonania czynności przez Podmiot Wyznaczony;
+- **7)** skutki nienależytego wykonania i niewykonania umowy.
+
+1s. Umowę o świadczenie usług finansuje się ze środków Krajowego Funduszu Drogowego na zasadach określonych ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym.
+
+1t. Wynagrodzenie, o którym mowa ust. 1r pkt 5, obejmuje uzasadnione koszty oraz rozsądny zysk Podmiotu Wyznaczonego.
+
+2. Opłata elektroniczna stanowi przychód Krajowego Funduszu Drogowego.
+
+3. (uchylony) Art. 13hba. 1. W związku z poborem opłaty elektronicznej podmiot pobierający tę opłatę wykonuje obowiązek, o którym mowa art. 13 ust. 1 i 2 rozporządzenia 2016/679, przy pierwszej czynności skierowanej do osoby, której dane dotyczą, chyba że posiada ona te informacje, a ich zakres lub treść nie uległy zmianie, oraz za pośrednictwem strony internetowej zawierającej informacje dotyczące poboru opłaty elektronicznej.
+
+2. Wystąpienie z żądaniem, o którym mowa art. 18 ust. 1 rozporządzenia 2016/679, nie wpływa na obowiązek wniesienia opłaty elektronicznej. Art. 13hc. 1. Uiszczenie opłaty elektronicznej następuje systemie elektronicznego poboru opłat, zgodnie z art. 13i.
+
+2. Podmioty pobierające opłaty elektroniczne z wykorzystaniem systemów elektronicznego poboru opłat mogą umożliwić użytkownikom dróg krajowych uiszczanie tych opłat bez konieczności instalacji urządzenia, o którym mowa art. 13i ust. 3. Art. 13hd. (uchylony) Art. 13he. Szef KAS może wykorzystywać System Poboru Opłaty Elektronicznej KAS celu udostępniania danych osobowych sposób określony art. 51a ust. 3 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej. Art. 13hf. 1. W związku z poborem opłaty elektronicznej Szef KAS gromadzi informacje i dane dotyczące elektronicznego systemu poboru opłaty elektronicznej zakresie niezbędnym do wykonania przez ministra właściwego do spraw transportu obowiązku przekazania Komisji Europejskiej informacji i danych zgodnie z art. 7h dyrektywy 1999/62/WE.
+
+2. Informacje i dane gromadzone przez Szefa KAS obejmują szczególności liczbę kilometrów przejechanych przez pojazdy, o których mowa art. 13 ust. 1 pkt 3, po drogach krajowych, określonych przepisach wydanych na podstawie art. 13ha ust. 6, podziale na poszczególne kategorie, o których mowa art. 13ha ust. 3, i z uwzględnieniem różnicowania stawek opłaty elektronicznej ze względu na liczbę osi lub emisję spalin pojazdu samochodowego, przypadku wprowadzenia takiego różnicowania zgodnie z art. 13ha ust. 7 pkt 1.
 
 **Art. 13i.**
 
@@ -519,9 +722,9 @@ Art. 48–50. (pominięte)
 - **2)** dokonać rejestracji lub aktualizacji danych zawartych rejestrze, o którym mowa art. 13ia ust. 1;
 - **3)** uzupełnić lub aktualizować rejestr, o którym mowa art. 13ia ust. 1, zakresie, o którym mowa art. 13ib ust. 1 lub 2.
 
-2. W przypadku, o którym mowa ust. 1, właściciel, posiadacz albo użytkownik pojazdu, uiszczający opłatę elektroniczną, pobieraną przez Szefa KAS, trybie płatności okresowej z zabezpieczeniem, o której mowa przepisach wydanych na podstawie art. 40a ust. 5, nie wnosi zabezpieczenia, o którym mowa art. 13ia ust. 5 pkt 4. Dostawca kart flotowych odpowiada za nieuiszczenie opłaty elektronicznej przez właściciela, posiadacza albo użytkownika pojazdu, trybie płatności okresowej z zabezpieczeniem.
+2. W przypadku, o którym mowa ust. 1, właściciel, posiadacz albo użytkownik pojazdu, uiszczający opłatę elektroniczną, pobieraną przez Szefa KAS, trybie płatności okresowej z zabezpieczeniem, o której mowa przepisach wydanych na podstawie art. 40a ust. 5, nie wnosi zabezpieczenia, o którym mowa art. 13ia ust. 5 pkt 4. Dostawca kart flotowych odpowiada za nieuiszczenie opłaty elektronicznej przez właściciela, posiadacza albo użytkownika pojazdu, trybie płatności okresowej z zabezpieczeniem. wysokości odsetek ustawowych za opóźnienie spełnieniu świadczenia pieniężnego.
 
-3. W przypadku nieterminowego uiszczenia opłaty elektronicznej przez dostawcę kart flotowych pobiera się odsetki wysokości odsetek ustawowych za opóźnienie spełnieniu świadczenia pieniężnego. na żądanie Szefa KAS dowodów potwierdzających zawarcie umowy z właścicielem, posiadaczem albo użytkownikiem pojazdu tym zakresie.
+4. W przypadku, o którym mowa ust. 1, dostawca kart flotowych jest zobowiązany do niezwłocznego dostarczenia na żądanie Szefa KAS dowodów potwierdzających zawarcie umowy z właścicielem, posiadaczem albo użytkownikiem pojazdu tym zakresie.
 
 5. Wykonywanie usług, o których mowa ust. 1, wymaga zawarcia umowy z Szefem KAS.
 
@@ -559,7 +762,7 @@ Art. 48–50. (pominięte)
     - **a)** co najmniej BBB + albo Baa 1 przyznawanym przez agencje ratingowe określone przepisach wydanych na podstawie art. 2c ust. 3 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2024 r. poz. 291) albo
     - **b)** odpowiadającym co najmniej poziomowi BBB + albo Baa 1 przyznawanym przez agencje ratingowe o międzynarodowej renomie.
 
-4. Zabezpieczenie jest ustanawiane na okres nie krótszy niż rok, wysokości określonej umowie, o której mowa art. 13iba ust. 5. 622 i 769) stosuje się odpowiednio. Art. 13ic. 1. W przypadku stwierdzenia przerwy trwającej dłużej niż 15 minut nadawaniu sygnału pozycjonowania satelitarnego lub transmisji danych, o których mowa art. 13i ust. 3a, kierujący pojazdem samochodowym jest obowiązany do niezwłocznego zatrzymania się na najbliższym parkingu samochodowym lub najbliższej zatoce postojowej albo opuszcza niezwłocznie drogę, o której mowa przepisach wydanych na podstawie art. 13ha ust. 6. Wznowienie przejazdu po drodze, o której mowa przepisach wydanych na podstawie art. 13ha ust. 6, kierujący pojazdem samochodowym może rozpocząć po przywróceniu sygnału pozycjonowania satelitarnego lub transmisji danych.
+4. Zabezpieczenie jest ustanawiane na okres nie krótszy niż rok, wysokości określonej umowie, o której mowa art. 13iba ust. 5. pisy działu IV rozdziału 3a ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, 497, 621, 622 i 769) stosuje się odpowiednio. Art. 13ic. 1. W przypadku stwierdzenia przerwy trwającej dłużej niż 15 minut nadawaniu sygnału pozycjonowania satelitarnego lub transmisji danych, o których mowa art. 13i ust. 3a, kierujący pojazdem samochodowym jest obowiązany do niezwłocznego zatrzymania się na najbliższym parkingu samochodowym lub najbliższej zatoce postojowej albo opuszcza niezwłocznie drogę, o której mowa przepisach wydanych na podstawie art. 13ha ust. 6. Wznowienie przejazdu po drodze, o której mowa przepisach wydanych na podstawie art. 13ha ust. 6, kierujący pojazdem samochodowym może rozpocząć po przywróceniu sygnału pozycjonowania satelitarnego lub transmisji danych.
 
 1a. Przepisu ust. 1 nie stosuje się przypadku:
 
@@ -978,7 +1181,7 @@ Art. 48–50. (pominięte)
 6. Do wniosku, o którym mowa ust. 3, załącza się oświadczenie następującej treści: „Oświadczam, że:
 
 - **1)** informacje zawarte we wniosku o wpis do rejestru dostawców EETS są zgodne z prawdą;
-- **2)** znane mi są i spełniam warunki wykonywania działalności gospodarczej zakresie świadczenia usługi EETS określone ustawie z dnia 21 marca 1985 r. o drogach publicznych oraz aktach wykonawczych wydanych przez Komisję Europejską na podstawie dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/520 z dnia 19 marca 2019 r. sprawie interoperacyjności systemów elektronicznego poboru opłat drogowych i ułatwiania transgranicznej wymiany informacji na temat przypadków nieuiszczenia opłat drogowych Unii.”. fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
+- **2)** znane mi są i spełniam warunki wykonywania działalności gospodarczej zakresie świadczenia usługi EETS określone ustawie z dnia 21 marca 1985 r. o drogach publicznych oraz aktach wykonawczych wydanych przez Komisję Europejską na podstawie dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/520 z dnia 19 marca 2019 r. sprawie interoperacyjności systemów elektronicznego poboru opłat drogowych i ułatwiania transgranicznej wymiany informacji na temat przypadków nieuiszczenia opłat drogowych Unii.”. jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
 
 7. Oświadczenie, o którym mowa ust. 6, zawiera również następujące dane:
 
@@ -1021,6 +1224,12 @@ Art. 48–50. (pominięte)
 
 **Art. 16h.** Usługę EETS na terytorium Rzeczypospolitej Polskiej może także świadczyć dostawca EETS mający siedzibę na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej wpisany do odpowiedniego rejestru prowadzonego państwie jego siedziby, po:
 
+- **1)** zawarciu formie pisemnej:
+    - **a)** umowy dotyczącej obszaru EETS oraz
+    - **b)** umowy dotyczącej świadczenia usługi EETS;
+
+- **2)** zakończeniu, z pozytywnym wynikiem, procedury akredytacyjnej.
+
 **Art. 16i.**
 
 1. Dostawca EETS jest obowiązany:
@@ -1061,10 +1270,9 @@ Art. 48–50. (pominięte)
 
 2. Oświadczenia, o których mowa ust. 1 pkt 7, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, zamieszczając nich klauzulę, o której mowa art. 16f ust. 6, oraz dane, o których mowa art. 16f ust. 7.
 
-3. Obowiązki, o których mowa ust. 1 pkt 2, 3 i 6b oraz ust. 1a, dostawca EETS wypełnia z uwzględnieniem wymagań określonych akcie wykonawczym wydanym przez Komisję Europejską na podstawie art. 5 ust. 11 dyrektywy 2019/520.
+3. Obowiązki, o których mowa ust. 1 pkt 2, 3 i 6b oraz ust. 1a, dostawca EETS wypełnia z uwzględnieniem wymagań określonych akcie wykonawczym wydanym przez Komisję Europejską na podstawie art. 5 ust. 11 dyrektywy 2019/520. nym do wykonania obowiązku podatkowego ciążącego na tym podmiocie, jest obowiązany zapewnić, że dane te:
 
-4. Podmiot pobierający opłaty na obszarze EETS, który uzyskał od dostawcy EETS dane osobowe zakresie niezbędnym do wykonania obowiązku podatkowego ciążącego na tym podmiocie, jest obowiązany zapewnić, że dane te:
-
+- **1)** nie zostaną udostępnione podmiotom świadczącym usługi poboru opłat i dostawcom EETS świadczącym, odpowiednio, usługę poboru opłat albo usługę EETS na terytorium Rzeczypospolitej Polskiej;
 - **2)** zostaną wykorzystane przez podmiot pobierający opłaty na obszarze EETS wyłącznie celu, jaki zostały one uzyskane przypadku gdy podmiot pobierający opłaty na obszarze EETS, który uzyskał dane osobowe od dostawcy EETS, osobiście świadczy usługę poboru opłat.
 
 5. W przypadku gdy funkcjonariusze Służby Celno-Skarbowej uzyskują dane osobowe na podstawie ust. 1 pkt 4, administratorem tych danych jest Szef KAS.
@@ -1098,11 +1306,9 @@ Art. 48–50. (pominięte)
 
 3. W przypadku nieterminowego uiszczania opłat przez dostawcę EETS podmiotowi pobierającemu opłaty należą się odsetki ustawowe za opóźnienie.
 
-4. W przypadku gdy opłaty, o których mowa art. 13 ust. 1 pkt 3 i ust. 2, stanowią przychód Krajowego Funduszu Drogowego albo jednostek samorządu terytorialnego, obowiązek ich uiszczenia przez dostawcę EETS podmiotowi pobierającemu opłaty podlega egzekucji trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym administracji. Przepis stosuje się przypadku niemożności ściągnięcia należności podmiotu pobierającego opłaty z zabezpieczenia, o którym mowa art. 16k ust. 1.
+4. W przypadku gdy opłaty, o których mowa art. 13 ust. 1 pkt 3 i ust. 2, stanowią przychód Krajowego Funduszu Drogowego albo jednostek samorządu terytorialnego, obowiązek ich uiszczenia przez dostawcę EETS podmiotowi pobierającemu opłaty podlega egzekucji trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym administracji. Przepis stosuje się przypadku niemożności ściągnięcia należności podmiotu pobierającego opłaty z zabezpieczenia, o którym mowa art. 16k ust. 1. art. 13 ust. 1 pkt 3 i ust. 2, a także odsetek, o których mowa art. 16j ust. 3.
 
-**Art. 16k.**
-
-1. Dostawca EETS jest obowiązany ustanowić zabezpieczenie należności z tytułu opłat, o których mowa art. 13 ust. 1 pkt 3 i ust. 2, a także odsetek, o których mowa art. 16j ust. 3.
+2. Zabezpieczenie ustanawia się, tak aby umożliwiało podmiotowi pobierającemu opłaty na obszarze EETS bezwarunkowe, natychmiastowe, pełne i nieodwołalne ściągnięcie należnej opłaty wraz z odsetkami.
 
 3. Zabezpieczenie może być ustanawiane według wyboru podmiotu pobierającego opłaty jednej lub kilku następujących formach:
 
@@ -1247,7 +1453,7 @@ Art. 48–50. (pominięte)
 - **4)** obowiązki wynikające z przeprowadzenia procedury akredytacyjnej przypadku, o którym mowa art. 16xa ust. 1 pkt 2;
 - **5)** tryb dostarczania wykazu, o którym mowa art. 16l ust. 4, oraz jego aktualizacji;
 - **6)** zasady wystawiania przez dostawcę EETS dokumentów księgowych EETS;
-- **7)** formy i tryb sprawdzania sposobu świadczenia usługi EETS, zgodnie z art. 16q;
+- **8)** zakres i tryb współpracy dostawcy EETS z podmiotem pobierającym opłaty na obszarze EETS na wypadek podejmowania przez ten podmiot działań, o których mowa art. 16o ust. 1 pkt 7–9;
 - **9)** tryb współdziałania dostawcy EETS z podmiotem pobierającym opłaty na obszarze EETS przy wykonywaniu testów, o których mowa art. 16i ust. 1 pkt 6b;
 - **10)** tryb współpracy dostawcy EETS z podmiotem pobierającym opłaty na obszarze EETS oraz z Głównym Inspektorem Transportu Drogowego celu ustalenia zgodności ze stanem faktycznym danych użytkownika EETS, na podstawie których ustala się wysokość stawki opłaty za przejazd, zgodnie z art. 16lb ust. 3;
 - **11)** skutki nienależytego wykonania i niewykonania obowiązków umownych, szczególności kary umowne lub obniżenie wynagrodzenia wypłacanego dostawcy EETS z tytułu świadczenia usługi EETS na obszarze EETS;
@@ -1279,7 +1485,7 @@ Art. 48–50. (pominięte)
 
 5. W przypadku określonym ust. 4 przy ustalaniu wysokości wynagrodzenia dla dostawcy EETS nie uwzględnia się kosztów ponoszonych przez głównego dostawcę związku ze świadczeniem usługi poboru opłat, do których ponoszenia nie są zobowiązani dostawcy EETS.
 
-6. Kwota stanowiąca równowartość kosztów, o których mowa art. 16i ust. 1 pkt 6a, może być potrącona z wynagrodzenia dla dostawcy EETS. W takim przypadku umowa dotycząca obszaru EETS powinna zawierać warunki dokonywania tego potrącenia. pobierającymi opłaty na obszarach EETS.
+6. Kwota stanowiąca równowartość kosztów, o których mowa art. 16i ust. 1 pkt 6a, może być potrącona z wynagrodzenia dla dostawcy EETS. W takim przypadku umowa dotycząca obszaru EETS powinna zawierać warunki dokonywania tego potrącenia. szczególny tak stanowi. W takim przypadku podmiot ten zawiera umowy dotyczące obszarów EETS z innymi podmiotami pobierającymi opłaty na obszarach EETS.
 
 2. Podmiot pobierający opłaty na obszarze EETS będący jednocześnie dostawcą EETS nie może pokrywać kosztów wykonywania jednej z tych działalności przychodami pochodzącymi z drugiego rodzaju działalności (subsydiowanie skrośne) i jest obowiązany:
 
@@ -1352,7 +1558,7 @@ Art. 48–50. (pominięte)
 
 3. Producent, dostawca EETS lub upoważniony przedstawiciel sporządza dla składników interoperacyjności EETS deklarację WE zgodnie z procedurą określoną akcie wykonawczym wydanym przez Komisję Europejską na podstawie art. 15 ust. 7 dyrektywy 2019/520. Producent lub upoważniony przedstawiciel umieszcza oznakowanie CE zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawiającym wymagania zakresie akredytacji i nadzoru rynku odnoszące się do warunków wprowadzania produktów do obrotu i uchylającym rozporządzenie (EWG) nr 339/93 (Dz. Urz. UE L 218 z 13.08.2008, str. 30).
 
-4. Oznakowanie CE umieszcza się na składniku interoperacyjności EETS lub na jego etykiecie sposób widoczny, czytelny i trwały, a gdy nie jest to możliwe lub nie można tego zapewnić z uwagi na charakter wyrobu, umieszcza się je na opakowaniu lub na dokumentach towarzyszących. pejską na podstawie art. 19 ust. 5 dyrektywy 2019/520.
+4. Oznakowanie CE umieszcza się na składniku interoperacyjności EETS lub na jego etykiecie sposób widoczny, czytelny i trwały, a gdy nie jest to możliwe lub nie można tego zapewnić z uwagi na charakter wyrobu, umieszcza się je na opakowaniu lub na dokumentach towarzyszących. jednostki kontrolujące, spełniające wymagania, o których mowa akcie wykonawczym wydanym przez Komisję Europejską na podstawie art. 19 ust. 5 dyrektywy 2019/520.
 
 6. W przypadku gdy ocena, o której mowa ust. 2, wymaga udziału podmiotu pobierającego opłaty na obszarze EETS podmiot ten może pobierać opłatę za czynności związane z tą oceną. Wysokość opłaty strony ustalają umowie dotyczącej obszaru EETS lub odrębnej umowie dotyczącej takiej oceny.
 
@@ -1388,7 +1594,7 @@ Art. 48–50. (pominięte)
 - **1)** informacji o planowanym terminie wdrożenia istotnej zmiany elektronicznego systemu poboru opłat;
 - **2)** szczegółowego harmonogramu przeprowadzenia procedury akredytacyjnej.
 
-10. W przypadku, o którym mowa ust. 9, przepisy ust. 6–8 stosuje się odpowiednio. niedyskryminacji, środowisko testowe, którym dostawcy EETS mogą przeprowadzić testy akceptacyjne umożliwiające weryfikację, czy dane urządzenie może być wykorzystywane do świadczenia usługi EETS na obszarze EETS. Podmioty pobierające opłaty na obszarach EETS mogą, drodze umowy, ustanowić środowisko testowe dla więcej niż jednego obszaru EETS. Środowisko testowe testuje jedynie te urządzenia, które pracują technologii stosowanej na obszarach EETS.
+10. W przypadku, o którym mowa ust. 9, przepisy ust. 6–8 stosuje się odpowiednio. rych wykorzystuje się urządzenia na potrzeby poboru opłat rozumieniu art. 13i ust. 3 , zapewniają, z zachowaniem zasady niedyskryminacji, środowisko testowe, którym dostawcy EETS mogą przeprowadzić testy akceptacyjne umożliwiające weryfikację, czy dane urządzenie może być wykorzystywane do świadczenia usługi EETS na obszarze EETS. Podmioty pobierające opłaty na obszarach EETS mogą, drodze umowy, ustanowić środowisko testowe dla więcej niż jednego obszaru EETS. Środowisko testowe testuje jedynie te urządzenia, które pracują technologii stosowanej na obszarach EETS.
 
 2. Podmiot pobierający opłaty na obszarze EETS udostępnia informacji o obszarze EETS procedurę przeprowadzenia testów akceptacyjnych, tym opis stosowanej metodyki i warunków przeprowadzania testów.
 
@@ -1430,7 +1636,7 @@ Art. 48–50. (pominięte)
 
 1. Kontrolę składników interoperacyjności EETS przeprowadza organ nadzoru rynku, o którym mowa art. 58 ust. 2 pkt 8 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku.
 
-2. Postępowanie sprawach wprowadzonych do obrotu składników interoperacyjności EETS niezgodnych z wymaganiami, o których mowa art. 16x ust. 1 i 1a, prowadzą organy nadzoru rynku, o których mowa art. 58 ust. 3 pkt 8 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku. zgodnie z przepisami wydanymi przez Komisję Europejską na podstawie art. 15 ust. 7 dyrektywy 2019/520.
+2. Postępowanie sprawach wprowadzonych do obrotu składników interoperacyjności EETS niezgodnych z wymaganiami, o których mowa art. 16x ust. 1 i 1a, prowadzą organy nadzoru rynku, o których mowa art. 58 ust. 3 pkt 8 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku. EETS, które już zostały przeprowadzone jako część procedury oceny zgodności lub przydatności do stosowania EETS, zgodnie z przepisami wydanymi przez Komisję Europejską na podstawie art. 15 ust. 7 dyrektywy 2019/520.
 
 2b. Organ, o którym mowa ust. 2, wydając postanowienie, o którym mowa art. 82 ust. 1 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku, wzywa producenta lub upoważnionego przedstawiciela do usunięcia niezgodności składnika interoperacyjności EETS z wymaganiami, o których mowa art. 16x ust. 1 lub 1a.
 
@@ -1474,7 +1680,7 @@ Art. 48–50. (pominięte)
 3. Bezstronność i niezależność, o których mowa ust. 2 pkt 3, nie jest zachowana, jeżeli kandydat na członka Komisji, zastępczego członka Komisji lub członek Komisji:
 
 - **1)** posiada udziały, akcje lub inne tytuły własności podmiotach będących dostawcami EETS lub pobierającymi opłaty na obszarach EETS lub jednostkach z nimi powiązanych rozumieniu art. 3 ust. 1 pkt 43 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619, 1685 i 1863);
-- **2)** jest lub był ostatnich 5 latach przedstawicielem prawnym (pełnomocnikiem), członkiem organów nadzorujących, zarządzających, administrujących lub pracownikiem podmiotów, o których mowa pkt 1;
+- **2)** jest lub był ostatnich 5 latach przedstawicielem prawnym (pełnomocnikiem), członkiem organów nadzorujących, zarządzających, administrujących lub pracownikiem podmiotów, o których mowa pkt 1; na rzecz podmiotów, o których mowa pkt 1;
 - **4)** jest małżonkiem, krewnym lub powinowatym linii prostej do drugiego stopnia lub jest związany z tytułu opieki, przysposobienia lub kurateli z osobą będącą członkiem organów nadzorujących, zarządzających lub administrujących podmiotów, o których mowa pkt 1.
 
 4. Podmiot pobierający opłaty na obszarze EETS lub dostawca EETS, składając wniosek, o którym mowa art. 16z ust. 1, wskazuje po jednym kandydacie na członka Komisji i zastępczego członka Komisji oraz co najmniej dwóch i nie więcej niż czterech kandydatów na przewodniczącego Komisji. Po otrzymaniu wniosku, minister właściwy do spraw transportu wzywa drugą stronę sporu do wskazania, terminie nie dłuższym niż 30 dni od dnia otrzymania wezwania, kandydata na członka Komisji i zastępczego członka Komisji oraz co najmniej dwóch i nie więcej niż czterech kandydatów na przewodniczącego Komisji, a także do złożenia dokumentów dotyczących istoty sporu.
@@ -1508,7 +1714,7 @@ Art. 48–50. (pominięte)
 
 5. Informacje udzielone zgodnie z ust. 4, mogą być wykorzystane wyłącznie celu rozstrzygnięcia sporu, o którym mowa art. 16z ust. 1, przez Komisję.
 
-6. Podmiot pobierający opłaty na obszarze EETS oraz dostawca EETS udzielają, na żądanie Komisji, informacji o przychodach i kosztach związanych ze świadczeniem usługi poboru opłat, która spełnia warunki określone art. 16t ust. 4.
+6. Podmiot pobierający opłaty na obszarze EETS oraz dostawca EETS udzielają, na żądanie Komisji, informacji o przychodach i kosztach związanych ze świadczeniem usługi poboru opłat, która spełnia warunki określone art. 16t ust. 4. wskazanych we wniosku, o którym mowa art. 16z ust. 1, najpóźniej terminie 6 miesięcy od dnia powołania Komisji.
 
 2. Do terminu określonego ust. 1 nie wlicza się okresu, którym Komisja nie mogła prowadzić postępowania z powodu dokonania zmian składzie Komisji na podstawie art. 16za ust. 10 i 11.
 
@@ -1651,7 +1857,7 @@ Art. 48–50. (pominięte)
 
 - **1)** nazwę i adres urzędu;
 - **2)** określenie stanowiska, na które był prowadzony nabór;
-- **3)** imiona, nazwiska wybranych kandydatów oraz ich miejsca zamieszkania rozumieniu przepisów Kodeksu cywilnego albo informację o niewyłonieniu kandydata.
+- **3)** imiona, nazwiska wybranych kandydatów oraz ich miejsca zamieszkania rozumieniu przepisów Kodeksu cywilnego albo informację o niewyłonieniu kandydata. o wyniku tego naboru jest bezpłatne.
 
 15. Zespół przeprowadzający nabór na stanowiska, o których mowa ust. 4, powołuje Generalny Dyrektor Dróg Krajowych i Autostrad.
 
@@ -1696,7 +1902,7 @@ Art. 48–50. (pominięte)
 
 5. W granicach miast na prawach powiatu zarządcą wszystkich dróg publicznych, z wyjątkiem autostrad i dróg ekspresowych oraz dróg, o których mowa przepisach wydanych na podstawie art. 5 ust. 2a, jest prezydent miasta.
 
-5a. Funkcje zarządcy dróg krajowych, z wyjątkiem autostrad i dróg ekspresowych, oraz dróg wojewódzkich, może pełnić zarząd związku metropolitalnego.
+5a. Funkcje zarządcy dróg krajowych, z wyjątkiem autostrad i dróg ekspresowych, oraz dróg wojewódzkich, może pełnić zarząd związku metropolitalnego. nio z zarządem województwa albo prezydentem miasta, regulującego szczególności wzajemne rozliczenia finansowe.
 
 6. (uchylony)
 
@@ -1708,7 +1914,38 @@ Art. 48–50. (pominięte)
 
 **Art. 20.** Do zarządcy drogi należy szczególności:
 
+- **1)** opracowywanie projektów planów rozwoju sieci drogowej oraz bieżące informowanie o tych planach organów właściwych do sporządzania miejscowych planów zagospodarowania przestrzennego;
+- **2)** opracowywanie projektów planów finansowania budowy, przebudowy, remontu, utrzymania i ochrony dróg oraz drogowych obiektów inżynierskich;
+- **3)** pełnienie funkcji inwestora;
+- **4)** utrzymanie części drogi, urządzeń drogi, budowli ziemnych, drogowych obiektów inżynierskich, znaków drogowych, sygnałów drogowych i urządzeń bezpieczeństwa ruchu drogowego, z wyjątkiem części pasa drogowego, o których mowa art. 20f pkt 2;
+- **5)** realizacja zadań zakresie inżynierii ruchu;
+- **6)** przygotowanie infrastruktury drogowej dla potrzeb obronnych oraz wykonywanie innych zadań na rzecz obronności kraju;
+- **7)** koordynacja robót pasie drogowym;
+- **8)** wydawanie zezwoleń na zajęcie pasa drogowego i zjazdy z dróg oraz pobieranie opłat i kar pieniężnych;
+- **9)** prowadzenie ewidencji dróg, obiektów mostowych, tuneli, przepustów i promów oraz udostępnianie ich na żądanie uprawnionym organom;
+- **9a)** sporządzanie informacji o drogach publicznych oraz przekazywanie ich Generalnemu Dyrektorowi Dróg Krajowych i Autostrad;
+- **10)** przeprowadzanie okresowych kontroli stanu dróg i drogowych obiektów inżynierskich oraz przepraw promowych, tym weryfikacja cech i wskazanie usterek, które wymagają prac konserwacyjnych lub naprawczych, ze szczególnym uwzględnieniem ich wpływu na stan bezpieczeństwa ruchu drogowego, tym stan bezpieczeństwa szczególnie zagrożonych uczestników ruchu drogowego;
+- **10a)** badanie wpływu robót drogowych na bezpieczeństwo ruchu drogowego;
+- **11)** wykonywanie robót interwencyjnych, robót utrzymaniowych i zabezpieczających;
+- **12)** przeciwdziałanie niszczeniu dróg przez ich użytkowników;
+- **13)** przeciwdziałanie niekorzystnym przeobrażeniom środowiska mogącym powstać lub powstającym następstwie budowy lub utrzymania dróg;
+- **14)** wprowadzanie ograniczeń lub zamykanie dróg i drogowych obiektów inżynierskich dla ruchu oraz wyznaczanie objazdów drogami różnej kategorii, gdy występuje bezpośrednie zagrożenie bezpieczeństwa osób lub mienia;
+- **15)** dokonywanie okresowych pomiarów ruchu drogowego;
+- **16)** utrzymywanie zieleni przydrożnej, tym sadzenie i usuwanie drzew oraz krzewów; do tych nieruchomości;
+- **18)** nabywanie nieruchomości innych niż wymienione pkt 17 na potrzeby zarządzania drogami i gospodarowanie nimi ramach posiadanego do nich prawa;
+- **19)** zarządzanie i utrzymywanie kanałów technologicznych i pobieranie opłat, o których mowa art. 39 ust. 7g;
+- **20)** zarządzanie bezpieczeństwem dróg, o których mowa rozdziale 2b.
+
 **Art. 20a.** Do zarządcy drogi, o którym mowa art. 19 ust. 2 pkt 1 i 2, należy ponadto budowa, przebudowa, remont i utrzymanie:
+
+- **1)** parkingów przeznaczonych dla postoju pojazdów wykonujących przewozy drogowe, wynikającego z konieczności przestrzegania przepisów o czasie prowadzenia pojazdów oraz przepisów o ograniczeniach i zakazach ruchu drogowego;
+- **2)** miejsc wykonywania kontroli ruchu i transportu drogowego, przeznaczonych szczególności do ważenia pojazdów. Art. 20aa. 1. Zarządca drogi może ponadto planować i wykonywać oświetlenie przejść dla pieszych lub przejazdów dla rowerów na drogach publicznych na terenie zabudowy.
+
+2. Zarządca drogi finansuje prace, o których mowa ust. 1. Art. 20ab. 1. W ramach budowy drogi krajowej Generalny Dyrektor Dróg Krajowych i Autostrad, na zasadach określonych ustawie z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji zakresie dróg publicznych (Dz. U. z 2024 r. poz. 311), może, porozumieniu z właściwym miejscowo wojewodą, budować drogę do obsługi drogowego przejścia granicznego.
+
+2. Budowa drogi do obsługi drogowego przejścia granicznego, o której mowa ust. 1, jest finansowana przez właściwego miejscowo wojewodę.
+
+3. Po wybudowaniu drogi do obsługi drogowego przejścia granicznego, o której mowa ust. 1, Generalny Dyrektor Dróg Krajowych i Autostrad przekazuje ją do użytkowania i utrzymywania wojewodzie zgodnie z przepisami ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2025 r. poz. 184).
 
 **Art. 20b.**
 
@@ -1751,6 +1988,9 @@ Art. 48–50. (pominięte)
 **Art. 20e.** Przepisów art. 40 ust. 1 i 3 nie stosuje się do zajęcia pasa drogowego przez Inspekcję Transportu Drogowego związku z wykonywaniem zadań określonych art. 20b ust. 4 oraz art. 20c ust. 1 pkt 1.
 
 **Art. 20f.** Zarządca drogi, o którym mowa art. 19 ust. 2, jest obowiązany:
+
+- **1)** uwzględniać uchwały rady gminy, których dla zaspokojenia potrzeb mieszkańców wskazane zostaną wstępne miejsca lokalizacji nowych przystanków komunikacyjnych; o ostatecznej lokalizacji takiego przystanku decyduje zarządca drogi, uwzględniając charakter drogi oraz warunki bezpieczeństwa ruchu drogowego;
+- **2)** udostępnić nieodpłatnie gminie na jej wniosek część pasa drogowego celu budowy, przebudowy i remontu wiat przystankowych lub innych urządzeń służących do obsługi podróżnych.
 
 **Art. 20g.**
 
@@ -1805,7 +2045,7 @@ Art. 48–50. (pominięte)
 
 **Art. 21.**
 
-1. Zarządca drogi, o którym mowa art. 19 ust. 2 pkt 2–4 i ust. 5, może wykonywać swoje obowiązki przy pomocy jednostki organizacyjnej będącej zarządem drogi, utworzonej odpowiednio przez sejmik województwa, radę powiatu lub radę gminy. Jeżeli jednostka taka nie została utworzona, zadania zarządu drogi wykonuje zarządca. lonym zakresie, a szczególności do wydawania decyzji administracyjnych.
+1. Zarządca drogi, o którym mowa art. 19 ust. 2 pkt 2–4 i ust. 5, może wykonywać swoje obowiązki przy pomocy jednostki organizacyjnej będącej zarządem drogi, utworzonej odpowiednio przez sejmik województwa, radę powiatu lub radę gminy. Jeżeli jednostka taka nie została utworzona, zadania zarządu drogi wykonuje zarządca. lub gminy albo pracowników jednostki organizacyjnej będącej zarządem drogi, do załatwiania spraw jego imieniu, ustalonym zakresie, a szczególności do wydawania decyzji administracyjnych.
 
 2. Zarządy dróg mają prawo do:
 
@@ -1916,6 +2156,14 @@ Art. 48–50. (pominięte)
 
 **Art. 24h.** Zarządzanie bezpieczeństwem dróg, o których mowa art. 24ga, polega na:
 
+- **1)** przeprowadzaniu:
+    - **a)** oceny wpływu planowanej drogi na bezpieczeństwo ruchu drogowego,
+    - **b)** audytu bezpieczeństwa ruchu drogowego,
+    - **c)** oceny ryzyka wystąpienia wypadków i dotkliwości ich skutków, zwanej dalej „oceną ryzyka”;
+
+- **2)** sporządzaniu oceny bezpieczeństwa ruchu drogowego obejmującej całą sieć dróg, zwanej dalej „oceną bezpieczeństwa”;
+- **3)** przeprowadzaniu ukierunkowanych kontroli bezpieczeństwa ruchu drogowego.
+
 **Art. 24i.**
 
 1. Ocenę wpływu planowanej drogi na bezpieczeństwo ruchu drogowego przeprowadza się na etapie planowania tej drogi przed wszczęciem postępowania sprawie decyzji o środowiskowych uwarunkowaniach, o której mowa ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2024 r. poz. 1112, 1881 i 1940).
@@ -1970,7 +2218,7 @@ Art. 48–50. (pominięte)
 - **3)** urządzenia i obiekty pasie drogowym;
 - **4)** sposób zagospodarowania terenów przyległych do pasa drogowego, tym roślinność;
 - **5)** uczestników ruchu drogowego, tym szczególnie zagrożonych uczestników ruchu drogowego, oraz ich potrzeby zakresie bezpiecznych stref parkingowych;
-- **6)** sposób dostosowania urządzeń bezpieczeństwa ruchu drogowego do potrzeb uczestników ruchu drogowego, tym potrzeb szczególnie zagrożonych uczestników ruchu drogowego.
+- **6)** sposób dostosowania urządzeń bezpieczeństwa ruchu drogowego do potrzeb uczestników ruchu drogowego, tym potrzeb szczególnie zagrożonych uczestników ruchu drogowego. szczególności:
 - **1)** bezpieczeństwo uczestników ruchu drogowego, tym szczególnie zagrożonych uczestników ruchu drogowego, i widoczność różnych warunkach pogodowych oraz porach dnia;
 - **2)** widoczność oznakowania pionowego i poziomego drogi na podstawie wizji lokalnej terenie;
 - **3)** stan nawierzchni drogi.
@@ -2011,6 +2259,49 @@ Art. 48–50. (pominięte)
 
 **Art. 24m.** (uchylony) Art. 24ma. 1. Zarządca drogi na drogach lub ich odcinkach, o których mowa art. 24ga ust. 1 i 2, będących użytkowaniu od co najmniej 3 lat, przeprowadza ocenę ryzyka, ramach której ocenia parametry użytkowe i techniczne oraz stan techniczny dróg lub ich odcinków, a także ich wpływ na bezpieczeństwo ruchu drogowego. 2. Ocenę ryzyka przeprowadza się co 5 lat na podstawie wizji lokalnej terenie lub na podstawie nagrania wizualnego. oraz syntetyczny opis przyjętych założeń do dokonanej oceny ryzyka wraz z ich uzasadnieniem. 4. Zarządca drogi przekazuje sprawozdanie z oceny ryzyka, o którym mowa ust. 3, do ministra właściwego do spraw transportu co 5 lat, terminie do dnia 31 lipca danego roku kalendarzowego. Art. 24mb. 1. Na podstawie sprawozdań z ocen ryzyka, o których mowa art. 24ma ust. 3, minister właściwy do spraw transportu sporządza ocenę bezpieczeństwa, stanowiącą ocenę dróg, o których mowa art. 24ma ust. 1, pod względem poziomu bezpieczeństwa ruchu drogowego. 2. Na podstawie oceny bezpieczeństwa minister właściwy do spraw transportu dokonuje klasyfikacji sieci dróg, o których mowa art. 24ma ust. 1, zgodnie z poziomem bezpieczeństwa ruchu drogowego na tych drogach, przypisując poszczególne drogi lub ich odcinki do jednej z co najmniej trzech kategorii bezpieczeństwa ruchu drogowego. 3. Ocenę bezpieczeństwa przeprowadza się co 5 lat do dnia 31 grudnia danego roku kalendarzowego. 4. Minister właściwy do spraw transportu publikuje wyniki klasyfikacji, o której mowa ust. 2, na swojej stronie podmiotowej Biuletynu Informacji Publicznej. 5. Minister właściwy do spraw transportu sporządza sprawozdanie dotyczące klasyfikacji, o której mowa ust. 2, oraz przekazuje je do Komisji Europejskiej co 5 lat, terminie do dnia 31 października danego roku kalendarzowego. 6. Minister właściwy do spraw transportu określi, drodze rozporządzenia:
 
+- **1)** metodę i sposób przeprowadzania oceny ryzyka, o której mowa art. 24ma ust. 1;
+- **2)** sposób przekazywania sprawozdania z oceny ryzyka, o którym mowa art. 24ma ust. 3, do ministra właściwego do spraw transportu;
+- **3)** zawartość i sposób prezentacji wyników oceny ryzyka sprawozdaniu z oceny ryzyka, o którym mowa art. 24ma ust. 3;
+- **4)** kategorie bezpieczeństwa ruchu drogowego.
+
+7. Minister właściwy do spraw transportu, wydając rozporządzenie, o którym mowa ust. 6:
+
+- **1)** uwzględnia:
+    - **a)** liczbę i rodzaj wypadków drogowych, natężenie i rodzaj ruchu drogowego, parametry użytkowe i techniczne oraz stan techniczny drogi lub jej odcinka, analizę organizacji ruchu obowiązującej na danej drodze lub jej odcinku lub
+    - **b)** orientacyjne elementy ocen bezpieczeństwa ruchu drogowego obejmujących całą sieć określone załączniku III do dyrektywy Parlamentu Europejskiego i Rady 2008/96/WE z dnia 19 listopada 2008 r. sprawie zarządzania bezpieczeństwem infrastruktury drogowej (Dz. Urz. UE L 319 z 29.11.2008, str. 59), zwanej dalej „dyrektywą 2008/96/WE”,
+    - **c)** potrzebę uspójnienia wyników oceny ryzyka;
+
+- **2)** może uwzględnić wytyczne, o których mowa art. 5 ust. 5 dyrektywy 2008/96/WE, przypadku ich wydania przez Komisję Europejską. Art. 24mc. 1. Na podstawie wyników klasyfikacji bezpieczeństwa opublikowanych zgodnie z art. 24mb ust. 4 zarządcy dróg, którzy zarządzają poszczególnymi drogami lub ich odcinkami przypisanymi do kategorii o najniższym poziomie bezpieczeństwa oraz kategorii drugiej kolejności o najniższym poziomie bezpieczeństwa, przeprowadzają na tych drogach lub odcinkach ukierunkowane kontrole bezpieczeństwa ruchu drogowego, z uwzględnieniem potrzeb szczególnie zagrożonych uczestników ruchu drogowego.
+
+2. Ukierunkowana kontrola bezpieczeństwa ruchu drogowego ma na celu analizę:
+
+- **1)** parametrów użytkowych i technicznych oraz stanu technicznego drogi lub jej odcinka oraz
+- **2)** organizacji ruchu obowiązującej na danej drodze lub jej odcinku, przez którą rozumie się mające wpływ na ruch drogowy: nywanej na danej drodze lub jej odcinku przez zespół ekspertów powołany przez zarządcę drogi. W skład zespołu wchodzi co najmniej jeden audytor bezpieczeństwa ruchu drogowego.
+    - **a)** geometrię drogi i zakres dostępu do drogi,
+    - **b)** sposób umieszczania znaków pionowych, poziomych, sygnalizatorów i urządzeń bezpieczeństwa ruchu drogowego,
+    - **c)** zasady i sposób działania sygnalizacji, znaków świetlnych, znaków o zmiennej treści i innych zmiennych elementów pod kątem ich wpływu na stan bezpieczeństwa ruchu drogowego oraz ryzyko wystąpienia wypadków drogowych i innych zdarzeń niebezpiecznych.
+
+4. Przy przeprowadzaniu ukierunkowanej kontroli bezpieczeństwa ruchu drogowego zarządca drogi może wziąć pod uwagę orientacyjne elementy tych kontroli określone załączniku IIa do dyrektywy 2008/96/WE.
+
+5. Ukierunkowana kontrola bezpieczeństwa ruchu drogowego jest przeprowadzana niezwłocznie, jednak nie później niż terminie:
+
+- **1)** 12 miesięcy od dnia publikacji wyników, o których mowa art. 24mb ust. 4 przypadku dróg lub ich odcinków, które zostały przypisane do kategorii o najniższym poziomie bezpieczeństwa;
+- **2)** 24 miesięcy od dnia publikacji wyników, o których mowa art. 24mb ust. 4 przypadku dróg lub ich odcinków, które zostały przypisane do kategorii drugiej kolejności o najniższym poziomie bezpieczeństwa.
+
+6. Na podstawie wyników ukierunkowanej kontroli bezpieczeństwa ruchu drogowego zespół ekspertów sporządza raport, którym wskazuje zalecenia dla zarządcy drogi mające na celu zwiększenie poziomu bezpieczeństwa ruchu drogowego na danej drodze lub jej odcinku.
+
+7. Zarządca drogi uwzględnia zalecenia ramach planu finansowania, o którym mowa art. 20 pkt 2, oraz realizuje je miarę dostępnych środków finansowych.
+
+8. W uzasadnionych przypadkach zarządca drogi może nie uwzględnić zaleceń, o których mowa ust. 6.
+
+9. W przypadku, o którym mowa ust. 8, zarządca drogi jest obowiązany do opracowania uzasadnienia.
+
+10. Zarządca drogi realizuje zalecenia, które dają możliwość wdrożenia środków o wysokim potencjale poprawy bezpieczeństwa ruchu drogowego i zmniejszenia kosztów wypadków, pierwszej kolejności na drodze lub jej odcinku przypisanym do kategorii o najniższym poziomie bezpieczeństwa, a przypadku braku drogi lub odcinka przypisanego do tej kategorii na drodze lub odcinku przypisanym do kategorii drugiej kolejności o najniższym poziomie bezpieczeństwa.
+
+11. W przypadku gdy dany zarządca drogi zarządza więcej niż jedną drogą lub jej odcinkiem przypisanymi do kategorii o najniższym poziomie bezpieczeństwa lub kategorii drugiej kolejności o najniższym poziomie bezpieczeństwa, ustala on kolejność realizacji zaleceń i uwzględnia je planie finansowania, o którym mowa art. 20 pkt 2, oraz wprowadza zmiany ustalonej kolejności realizacji zaleceń, z uwzględnieniem ust. 10.
+
+12. Zarządca drogi przesyła do ministra właściwego do spraw transportu raport wraz z zaleceniami, oraz uzasadnienie terminie 6 miesięcy od sporządzenia tego raportu.
+
 #### Rozdział 2c Audytorzy bezpieczeństwa ruchu drogowego
 
 **Art. 24n.**
@@ -2028,7 +2319,7 @@ Art. 48–50. (pominięte)
 
 2a. Ukończenie szkolenia i zdanie egzaminu na audytora bezpieczeństwa ruchu drogowego nie może nastąpić później niż terminie 5 lat przed dniem złożenia wniosku o wydanie certyfikatu audytora bezpieczeństwa ruchu drogowego.
 
-3. Audytor bezpieczeństwa ruchu drogowego ma obowiązek stałego podnoszenia kwalifikacji zawodowych na szkoleniach okresowych co najmniej raz na 5 lat. (Dz. U. z 2024 r. poz. 1571, z późn. zm. ) prowadzące studia drugiego stopnia z zakresu budownictwa drogowego oraz instytuty badawcze posiadające kategorię naukową A+ albo A, działające zakresie budownictwa drogowego na podstawie ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych.
+3. Audytor bezpieczeństwa ruchu drogowego ma obowiązek stałego podnoszenia kwalifikacji zawodowych na szkoleniach okresowych co najmniej raz na 5 lat. ust. 3, przeprowadzają uczelnie rozumieniu ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ) prowadzące studia drugiego stopnia z zakresu budownictwa drogowego oraz instytuty badawcze posiadające kategorię naukową A+ albo A, działające zakresie budownictwa drogowego na podstawie ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych.
 
 5. (uchylony)
 
@@ -2051,13 +2342,17 @@ Art. 48–50. (pominięte)
 
 **Art. 24o.** Audytor bezpieczeństwa ruchu drogowego traci certyfikat audytora bezpieczeństwa ruchu drogowego przypadku:
 
+- **1)** skazania prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+- **2)** pozbawienia praw publicznych;
+- **3)** całkowitego lub częściowego ubezwłasnowolnienia.
+
 #### Rozdział 3 Krzyżowanie się dróg z innymi drogami komunikacji lądowej i powietrznej oraz liniowymi urządzeniami obcymi
 
 **Art. 25.**
 
 1. Budowa, przebudowa, remont, utrzymanie i ochrona skrzyżowania lub węzła dróg różnej kategorii wraz z drogowymi obiektami inżynierskimi, urządzeniami drogi, znakami i sygnałami drogowymi oraz urządzeniami bezpieczeństwa ruchu drogowego, związanymi z funkcjonowaniem tego skrzyżowania lub węzła, należy do zarządcy drogi właściwego dla drogi wyższej kategorii.
 
-2. Koszt budowy lub przebudowy skrzyżowania lub węzła, o których mowa ust. 1, wraz z drogowymi obiektami inżynierskimi, urządzeniami drogi, znakami i sygnałami drogowymi oraz urządzeniami bezpieczeństwa ruchu drogowego, związanymi z funkcjonowaniem tego skrzyżowania lub węzła, ponosi zarządca drogi, który wystąpił z inicjatywą budowy lub przebudowy takiego skrzyżowania lub węzła. oraz urządzeniami bezpieczeństwa ruchu drogowego, związanymi z funkcjonowaniem tego skrzyżowania lub węzła, należy do zarządcy autostrady lub drogi ekspresowej.
+2. Koszt budowy lub przebudowy skrzyżowania lub węzła, o których mowa ust. 1, wraz z drogowymi obiektami inżynierskimi, urządzeniami drogi, znakami i sygnałami drogowymi oraz urządzeniami bezpieczeństwa ruchu drogowego, związanymi z funkcjonowaniem tego skrzyżowania lub węzła, ponosi zarządca drogi, który wystąpił z inicjatywą budowy lub przebudowy takiego skrzyżowania lub węzła. drogami publicznymi wraz z drogowymi obiektami inżynierskimi, urządzeniami drogi, znakami i sygnałami drogowymi oraz urządzeniami bezpieczeństwa ruchu drogowego, związanymi z funkcjonowaniem tego skrzyżowania lub węzła, należy do zarządcy autostrady lub drogi ekspresowej.
 
 4. Koszt budowy lub przebudowy skrzyżowania lub węzła, o których mowa ust. 3, wraz z drogowymi obiektami inżynierskimi, urządzeniami drogi, znakami i sygnałami drogowymi oraz urządzeniami bezpieczeństwa ruchu drogowego, związanymi z funkcjonowaniem tego skrzyżowania lub węzła, ponosi zarządca drogi, który wystąpił z inicjatywą budowy lub przebudowy takiego skrzyżowania lub węzła.
 
@@ -2144,7 +2439,7 @@ Art. 48–50. (pominięte)
 
 2. Koszty przyłączy do urządzeń obcych granicach pasa drogowego pokrywa całości zarządca drogi, a poza tymi granicami właściciel lub użytkownik urządzeń.
 
-3. Koszty przełożenia urządzeń obcych pasie drogowym, wynikające z naruszenia lub konieczności zmian stanu dotychczasowego urządzenia obcego, wysokości odpowiadającej wartości tych urządzeń i przy zachowaniu dotychczasowych właściwości użytkowych i parametrów technicznych pokrywa zarządca drogi.
+3. Koszty przełożenia urządzeń obcych pasie drogowym, wynikające z naruszenia lub konieczności zmian stanu dotychczasowego urządzenia obcego, wysokości odpowiadającej wartości tych urządzeń i przy zachowaniu dotychczasowych właściwości użytkowych i parametrów technicznych pokrywa zarządca drogi. koszty tych ulepszeń pokrywa odpowiednio ich właściciel lub użytkownik.
 
 5. Przekazanie przez zarządcę drogi urządzeń, o których mowa ust. 2–4, wykonanych pasie drogowym, osobie uprawnionej następuje nieodpłatnie, na podstawie protokołu zdawczo-odbiorczego.
 
@@ -2217,7 +2512,7 @@ Art. 48–50. (pominięte)
 
 3. W przypadku gdy umieszczenie pasie drogowym dotyczy jednocześnie punktów dostępu i innej infrastruktury telekomunikacyjnej, zarządca drogi rozpatruje wnioski o wydanie decyzji, o których mowa ust. 3 i 3 , łącznie ramach jednego postępowania administracyjnego i wydaje jedną decyzję administracyjną.
 
-3. W decyzji, o której mowa ust. 3 i 3 , określa się szczególności sposób, termin, miejsce i warunki umieszczenia pasie drogowym punktów dostępu oraz powierzchnię zajętego pasa drogowego.
+3. W decyzji, o której mowa ust. 3 i 3 , określa się szczególności sposób, termin, miejsce i warunki umieszczenia pasie drogowym punktów dostępu oraz powierzchnię zajętego pasa drogowego. umieszczenia pasie drogowym oraz pouczenie inwestora, że przed rozpoczęciem robót budowlanych jest zobowiązany do:
 
 - **1)** uzyskania pozwolenia na budowę lub zgłoszenia budowy albo wykonywania robót budowlanych;
 - **2)** uzgodnienia z zarządcą drogi, przed uzyskaniem pozwolenia na budowę, projektu zagospodarowania działki lub terenu oraz projektu architektoniczno-budowlanego urządzenia, o którym mowa ust. 3;
@@ -2331,9 +2626,7 @@ Art. 48–50. (pominięte)
 
 3. Za zajęcie pasa drogowego pobiera się opłatę.
 
-4. Opłatę za zajęcie pasa drogowego celu, o którym mowa ust. 2 pkt 1 i 4, ustala się jako iloczyn liczby metrów kwadratowych zajętej powierzchni pasa drogowego, stawki opłaty za zajęcie 1 m pasa drogowego i liczby dni zajmowania pasa drogowego, przy czym zajęcie pasa drogowego przez okres krótszy niż 24 godziny jest traktowane jak zajęcie pasa drogowego przez 1 dzień.
-
-5. Opłatę za zajęcie pasa drogowego celu, o którym mowa ust. 2 pkt 2, ustala się jako iloczyn liczby metrów kwadratowych powierzchni pasa drogowego zajętej przez rzut poziomy liniowego urządzenia obcego i stawki opłaty za krótszy niż rok opłata obliczana jest proporcjonalnie do liczby dni umieszczenia liniowego urządzenia obcego pasie drogowym lub na drogowym obiekcie inżynierskim.
+4. Opłatę za zajęcie pasa drogowego celu, o którym mowa ust. 2 pkt 1 i 4, ustala się jako iloczyn liczby metrów kwadratowych zajętej powierzchni pasa drogowego, stawki opłaty za zajęcie 1 m pasa drogowego i liczby dni zajmowania pasa drogowego, przy czym zajęcie pasa drogowego przez okres krótszy niż 24 godziny jest traktowane jak zajęcie pasa drogowego przez 1 dzień. kwadratowych powierzchni pasa drogowego zajętej przez rzut poziomy liniowego urządzenia obcego i stawki opłaty za zajęcie 1 m pasa drogowego pobieranej za każdy rok umieszczenia liniowego urządzenia obcego pasie drogowym, przy czym za umieszczenie liniowego urządzenia obcego pasie drogowym lub na drogowym obiekcie inżynierskim przez okres krótszy niż rok opłata obliczana jest proporcjonalnie do liczby dni umieszczenia liniowego urządzenia obcego pasie drogowym lub na drogowym obiekcie inżynierskim.
 
 6. Opłatę za zajęcie pasa drogowego celu, o którym mowa ust. 2 pkt 3, ustala się jako iloczyn liczby metrów kwadratowych powierzchni pasa drogowego zajętej przez rzut poziomy urządzenia obcego innego niż wymienione ust. 2 pkt 2 albo powierzchni reklamy, liczby dni zajmowania pasa drogowego i stawki opłaty za zajęcie 1 m pasa drogowego.
 
@@ -2361,8 +2654,7 @@ Art. 48–50. (pominięte)
 
 11. Opłatę, o której mowa ust. 3, ustala, drodze decyzji administracyjnej, właściwy zarządca drogi przy udzielaniu zezwolenia na zajęcie pasa drogowego. W sytuacji, o której mowa ust. 2a, opłatę, o której mowa ust. 3, ustala się proporcjonalnie do planowanego okresu zajęcia pasa drogowego przez każdego z zajmujących pas drogowy, wskazanego przez nich we wspólnym wniosku o wydanie zezwolenia na zajęcie pasa drogowego. Ustalając opłatę, właściwy zarządca drogi uwzględnia także ustalenia umowy, o której mowa art. 50a ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2024 r. poz. 1465, 1572, 1907 i 1940), art. 50a ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2024 r. poz. 107 i 1907) i art. 59a ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2025 r. poz. 581).
 
-12. Za zajęcie pasa drogowego: o której mowa art. 39 ust. 3 lub 3 ,
-
+- **1)** bez zezwolenia zarządcy drogi lub bez zawarcia umowy, o której mowa art. 22 ust. 2, 2a lub 2c, lub bez decyzji, o której mowa art. 39 ust. 3 lub 3 ,
 - **2)** z przekroczeniem terminu zajęcia określonego zezwoleniu zarządcy drogi lub umowie, o której mowa art. 22 ust. 2, 2a lub 2c, lub decyzji, o której mowa art. 39 ust. 3 lub 3 ,
 - **3)** o powierzchni większej niż określona zezwoleniu zarządcy drogi lub umowie, o której mowa art. 22 ust. 2, 2a lub 2c, lub decyzji, o której mowa art. 39 ust. 3 lub 3 zarządca drogi wymierza, drodze decyzji administracyjnej, karę pieniężną wysokości 10-krotności opłaty ustalanej zgodnie z ust. 4–6.
 
@@ -2396,9 +2688,7 @@ Art. 48–50. (pominięte)
 
 1a. W przypadku zawarcia umowy o partnerstwie publiczno-prywatnym opłaty pobierane przez partnera prywatnego, o których mowa art. 13 ust. 1 pkt 1, art. 13 ust. 2 pkt 1, oraz opłata dodatkowa, o której mowa art. 13f ust. 1, stanowią przychody partnera prywatnego.
 
-1b. W przypadku powierzenia drogowej spółce specjalnego przeznaczenia pobierania opłat, o których mowa art. 13 ust. 2 pkt 1, mogą one stanowić przychód tej spółki, jeżeli umowa, o której mowa art. 6 ust. 1 ustawy z dnia 12 stycznia 2007 r. o drogowych spółkach specjalnego przeznaczenia, tak stanowi.
-
-1c. Kary pieniężne określone art. 13k ust. 1–2f są przekazywane na wyodrębniony rachunek pomocniczy Głównego Inspektora Transportu Drogowego. KAS przekazuje wpłacone opłaty elektroniczne i kary grzywny na rachunek Krajowego Funduszu Drogowego.
+1b. W przypadku powierzenia drogowej spółce specjalnego przeznaczenia pobierania opłat, o których mowa art. 13 ust. 2 pkt 1, mogą one stanowić przychód tej spółki, jeżeli umowa, o której mowa art. 6 ust. 1 ustawy z dnia 12 stycznia 2007 r. o drogowych spółkach specjalnego przeznaczenia, tak stanowi. Inspektora Transportu Drogowego. 1ca. Opłaty elektroniczne oraz kary grzywny, o których mowa art. 13na ust. 1 i art. 13naa ust. 1 i 2, są przekazywane na wyodrębniony rachunek pomocniczy urzędu obsługującego ministra właściwego do spraw finansów publicznych. Szef KAS przekazuje wpłacone opłaty elektroniczne i kary grzywny na rachunek Krajowego Funduszu Drogowego.
 
 1d. Środki uzyskane z opłat za postój pojazdów samochodowych śródmiejskiej strefie płatnego parkowania, wysokości nie mniejszej niż 65 % tych opłat, oraz środki z opłat dodatkowych, o których mowa art. 13f ust. 1, pobranych z tytułu nieuiszczenia opłaty, o której mowa art. 13 ust. 1 pkt 1 lit. b, gmina przeznacza wyłącznie na sfinansowanie poprawy publicznego transportu zbiorowego, budowę lub przebudowę infrastruktury pieszej lub rowerowej lub zieleń i zadrzewienia gminie.
 
@@ -2431,9 +2721,9 @@ Art. 48–50. (pominięte)
 
 **Art. 40e.**
 
-1. Organ, który udzielił zezwolenia, o którym mowa art. 40 ust. 1, na cele związane z infrastrukturą telekomunikacyjną, a także ciągami drenażowymi, przewodami i urządzeniami służącymi do przesyłania lub dystrybucji płynów, pary, gazów i energii elektrycznej oraz innymi podziemnymi obiektami i urządzeniami niezbędnymi do korzystania z tych przewodów i urządzeń lub na potrzeby wykonywania koncesji, o których mowa art. 22 ust. 1 ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze, przenosi, drodze decyzji, na rzecz podmiotu będącego nabywcą infrastruktury telekomunikacyjnej, a także ciągów drenażowych, przewodów i urządzeń służących do przesyłania lub dystrybucji płynów, pary, gazów i energii elektrycznej oraz innych podziemnych obiektów i urządzeń niezbędnych do korzystania z tych przewodów i urządzeń lub na potrzeby wykonywania koncesji, o których mowa art. 22 ust. 1 ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze, na jego wniosek, prawa i obowiązki wynikające z tego zezwolenia.
+1. Organ, który udzielił zezwolenia, o którym mowa art. 40 ust. 1, na cele związane z infrastrukturą telekomunikacyjną, a także ciągami drenażowymi, przewodami i urządzeniami służącymi do przesyłania lub dystrybucji płynów, pary, gazów i energii elektrycznej oraz innymi podziemnymi obiektami i urządzeniami niezbędnymi do korzystania z tych przewodów i urządzeń lub na potrzeby wykonywania koncesji, o których mowa art. 22 ust. 1 ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze, przenosi, drodze decyzji, na rzecz podmiotu będącego nabywcą infrastruktury telekomunikacyjnej, a także ciągów drenażowych, przewodów i urządzeń służących do przesyłania lub dystrybucji płynów, pary, gazów i energii elektrycznej oraz innych podziemnych obiektów i urządzeń niezbędnych do korzystania z tych przewodów i urządzeń lub na potrzeby wykonywania koncesji, o których mowa art. 22 ust. 1 ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze, na jego wniosek, prawa i obowiązki wynikające z tego zezwolenia. Kodeks postępowania administracyjnego.
 
-2. Do decyzji, o której mowa ust. 1, stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego. potrzeby określone ust. 1 uznaje się za załatwioną milcząco sposób całości uwzględniający żądania podmiotu występującego z wnioskiem, jeżeli terminie 30 dni od daty doręczenia wniosku właściwemu organowi organ ten nie wyda decyzji sprawie przeniesienia praw i obowiązków wynikających z zezwolenia, o którym mowa art. 40 ust. 1, na cele lub potrzeby określone ust. 1.
+3. Sprawę przeniesienia praw i obowiązków wynikających z zezwolenia, o którym mowa art. 40 ust. 1, na cele lub potrzeby określone ust. 1 uznaje się za załatwioną milcząco sposób całości uwzględniający żądania podmiotu występującego z wnioskiem, jeżeli terminie 30 dni od daty doręczenia wniosku właściwemu organowi organ ten nie wyda decyzji sprawie przeniesienia praw i obowiązków wynikających z zezwolenia, o którym mowa art. 40 ust. 1, na cele lub potrzeby określone ust. 1.
 
 4. Decyzja, o której mowa ust. 1, jest ostateczna.
 
@@ -2461,8 +2751,8 @@ Art. 48–50. (pominięte)
     - **c)** zabytek nieruchomy objęty formą ochrony zabytków, o której mowa art. 7 pkt 1 lub 1a ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907), lub graniczy z takim obszarem;
 
 - **2)** droga lub jej odcinek przebiega przez teren zwartej zabudowy mieszkaniowej;
-- **3)** droga lub jej odcinek przebiega przez uzdrowisko albo obszar ochrony uzdrowiskowej rozumieniu odpowiednio art. 2 pkt 3 i 4 ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2024 r. poz. 1420 i 1572) lub graniczy z takim uzdrowiskiem albo obszarem ochrony uzdrowiskowej;
-- **4)** droga lub jej odcinek przebiega przez obszar górniczy rozumieniu art. 6 ust. 1 pkt 5 ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze lub graniczy z takim obszarem; z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647), lub teren, na którym występują te ruchy;
+- **3)** droga lub jej odcinek przebiega przez uzdrowisko albo obszar ochrony uzdrowiskowej rozumieniu odpowiednio art. 2 pkt 3 i 4 ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2024 r. poz. 1420 i 1572) lub graniczy z takim uzdrowiskiem albo obszarem ochrony uzdrowiskowej; Prawo geologiczne i górnicze lub graniczy z takim obszarem;
+- **5)** droga lub jej odcinek przebiega przez teren zagrożony ruchami masowymi ziemi, o którym mowa art. 110a ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647), lub teren, na którym występują te ruchy;
 - **6)** droga lub jej odcinek przebiega przy obiekcie budowlanym, dla którego wstrząsy lub drgania wynikające z ruchu pojazdów o dopuszczalnym nacisku pojedynczej osi napędowej powyżej 8 t mogą powodować uszkodzenie tego obiektu;
 - **7)** droga lub jej odcinek graniczy:
     - **a)** z obszarem, na którym znajduje się szpital rozumieniu art. 2 ust. 1 pkt 9 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2025 r. poz. 450, 620 i 637),
@@ -2494,7 +2784,7 @@ Art. 48–50. (pominięte)
 
 10. Strefa, o której mowa ust. 2 pkt 2, może obejmować wyłącznie drogi publiczne lub ich odcinki spełniające wymagania, o których mowa ust. 4 albo 5.
 
-11. Ustanowienie strefy, o której mowa ust. 2 pkt 2, wymaga uzyskania zgody organów zarządzających drogami i ruchem na drogach publicznych lub ich odcinkach, które mają znajdować się tej strefie. uchwały.
+11. Ustanowienie strefy, o której mowa ust. 2 pkt 2, wymaga uzyskania zgody organów zarządzających drogami i ruchem na drogach publicznych lub ich odcinkach, które mają znajdować się tej strefie. od dnia otrzymania projektu uchwały. Niezajęcie przez organ stanowiska tym terminie uznaje się za uzgodnienie projektu uchwały.
 
 13. Uchwała, o której mowa ust. 3 pkt 2, jest aktem prawa miejscowego i określa:
 
@@ -2541,7 +2831,7 @@ Art. 48–50. (pominięte)
 
 4. Protokół podpisują kontrolujący i kontrolowany. Odmowę podpisania protokołu przez kontrolowanego kontrolujący odnotowuje protokole kontroli i podaje jej przyczynę.
 
-5. Oryginał protokołu kontroli zatrzymuje kontrolujący, a kopię doręcza się kontrolowanemu.
+6. Do protokołu kontroli kontrolowany może wnieść zastrzeżenia.
 
 **Art. 41d.**
 

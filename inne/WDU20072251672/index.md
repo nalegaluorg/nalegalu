@@ -22,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2007-11-27 |
 | Data wydania | 2007-12-03 |
+| Wejście w życie | 2007-12-03 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072251672) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1672/text.pdf) |
 

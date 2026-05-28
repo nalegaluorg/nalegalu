@@ -8,12 +8,10 @@ pos: 927
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o dokończeniu budowy Zbiornika Wodnego Świnna Poręba
-
-*USTAWA z dnia 13 maja 2016 r.*
+# Ustawa z dnia 13 maja 2016 r. o dokończeniu budowy Zbiornika Wodnego Świnna Poręba
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +22,11 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2016-05-13 |
 | Data wydania | 2016-06-29 |
+| Wejście w życie | 2016-07-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000927) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/927/text.pdf) |
+
+Załącznik – Planowane nakłady finansowe (w tys. zł) na dokończenie budowy Zbiornika Wodnego Świnna Poręba z podziałem na zadania oraz lata ich realizacji
 
 **Art. 1.** Ustawa określa zasady dokończenia budowy Zbiornika Wodnego Świnna Poręba, zwanego dalej „Zbiornikiem”.
 
@@ -33,12 +34,16 @@ source: "isap-pdf"
 
 **Art. 3.** W ramach dokończenia budowy Zbiornika realizuje się zadania dotyczące:
 
+- **1)** Zbiornika;
+- **2)** przebudowy dróg;
+- **3)** przeciwdziałania osuwiskom ziemi i likwidowania ich skutków dla środowiska.
+
 **Art. 4.**
 
 1. Łączne nakłady finansowe na dokończenie budowy Zbiornika nie mogą przekroczyć kwoty 53 230 tys. zł, w tym w roku:
 
 - **1)** 2016 – kwoty 46 530 tys. zł,
-- **2)** 2017 – kwoty 6700 tys. zł – ustalonej w cenach zadań z 2016 r.
+- **2)** 2017 – kwoty 6700 tys. zł ustalonej w cenach zadań z 2016 r.
 
 2. Dokończenie budowy Zbiornika jest finansowane ze środków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, z tym że realizacja zadania, o którym mowa w art. 3 pkt 3, jest finansowana ze środków przeznaczonych na ten cel zgodnie z art. 401c ust. 2 pkt 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2016 r. poz. 672, 831 i 903).
 
@@ -62,5 +67,5 @@ source: "isap-pdf"
 
 2. Minister właściwy do spraw gospodarki wodnej przedkłada Radzie Ministrów oraz Sejmowi Rzeczypospolitej Polskiej, nie później niż do dnia 31 maja roku kalendarzowego, roczną informację o realizacji zadań określonych w ustawie za rok ubiegły.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Załącznik – Planowane nakłady finansowe (w tys. zł) na dokończenie budowy Zbiornika Wodnego Świnna Poręba z podziałem na zadania oraz lata ich realizacji patrz oryginał
 

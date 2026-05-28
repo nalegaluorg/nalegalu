@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin
-
-*USTAWA z dnia 29 maja 1974 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 lutego 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,11 +25,49 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-04-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000195) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/195/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 lutego 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin (Dz. U. z 2023 r.
+poz. 1100), z uwzględnieniem zmian wprowadzonych ustawą z dnia 26 lipca 2024 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw (Dz. U. poz. 1243) oraz zmian wynikających z przepisów ogłoszonych przed dniem 28 stycznia 2025 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 12–14 i art. 17 ustawy z dnia 26 lipca 2024 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw (Dz. U. poz. 1243), które stanowią: „Art. 12. Właściwe organy rentowe i organy emerytalne, na swoich stronach podmiotowych, informują osoby pobierające świadczenia, o których mowa w art. 95a ust. 1 i art. 95b ustawy zmienianej w art. 1, art. 54 ust. 1b ustawy zmienianej w art. 2, art. 33a ust. 1 ustawy zmienianej w art. 3, art. 42 ust. 2 ustawy zmienianej w art. 4, art. 43 ust. 2 ustawy zmienianej w art. 5, art. 25 ust. 5 i 6 ustawy zmienianej w art. 7, art. 8 ust. 4 i 5 ustawy zmienianej w art. 8, art. 5 ust. 4a ustawy zmienianej w art. 9, art. 27 ust. 2 ustawy zmienianej w art. 10 oraz art. 17 ust. 2 ustawy zmienianej w art. 11, o warunkach pobierania tych świadczeń w zbiegu.
+
+**Art. 13.** Wskaźnik 25 %, o którym mowa w art. 95a ust. 1 i 6, art. 95b ust. 1, art. 104 ust. 8a oraz art. 105 ust. 2a ustawy zmienianej w art. 1, art. 54 ust. 1b i 1e ustawy zmienianej w art. 2, art. 33a ust. 1 i 6 ustawy zmienianej w art. 3, art. 42 ust. 2 ustawy zmienianej w art. 4, art. 43 ust. 2 ustawy zmienianej w art. 5, art. 25 ust. 5 i 6 ustawy zmienianej w art. 7, art. 8 ust. 4 i 5 ustawy zmienianej w art. 8, art. 5 ust. 4a ustawy zmienianej w art. 9, art. 27 ust. 2 ustawy zmienianej w art. 10 oraz w art. 17 ust. 2 ustawy zmienianej w art. 11 wynosi:
+
+- **1)** 15 % w okresie od dnia 1 lipca 2025 r. do dnia 31 grudnia 2026 r.;
+- **2)** 25 % w okresie od dnia 1 stycznia 2027 r.
+
+**Art. 14.**
+
+1. Prawo do świadczeń w zbiegu i ich wypłaty lub wyłącznie ich wypłaty, na zasadach określonych w niniejszej ustawie, powstaje nie wcześniej niż od dnia 1 lipca 2025 r.
+
+2. Osoby, które spełniają warunki do wypłaty świadczeń na zasadach określonych w niniejszej ustawie, mogą składać wnioski o ustalenie zbiegu świadczeń, o którym mowa w niniejszej ustawie, od dnia 1 stycznia 2025 r.
+
+3. W przypadku wniosków, o których mowa w ust. 2, złożonych do dnia 30 czerwca 2025 r., prawo do wypłaty świadczeń w tym zbiegu powstaje z dniem 1 lipca 2025 r.” „Art. 17. Ustawa wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem art. 12 i art. 15, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin
+
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Zaopatrzenie określone niniejszą ustawą przysługuje:
 
+- **1)** inwalidom wojennym;
+- **2)** inwalidom wojskowym;
+- **3)** członkom rodzin, pozostałym po żołnierzach poległych, zmarłych lub zaginionych w czasie służby wojskowej oraz po inwalidach wojennych i wojskowych.
+
 **Art. 2.** Zaopatrzenie obejmuje:
+
+- **1)** świadczenia pieniężne:
+    - **a)** rentę inwalidzką ,
+    - **b)** rentę rodzinną,
+    - **c)** dodatki do rent,
+    - **d)** zasiłek pogrzebowy,
+    - **e)** świadczenie pieniężne, o którym mowa w ustawie z dnia 8 lutego 2023 r. o świadczeniu pieniężnym przysługującym członkom rodziny funkcjonariuszy lub żołnierzy zawodowych, których śmierć nastąpiła w związku ze służbą albo podjęciem poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia (Dz. U. poz. 658);
+
+- **2)** świadczenia w naturze:
+    - **a)** świadczenia lecznicze i położnicze,
+    - **b)** protezowanie,
+    - **c)** przysposobienie zawodowe,
+    - **d)** pobyt w domu rencistów;
+
+- **3)** inne uprawnienia i przywileje.
 
 **Art. 3.** Zaopatrzenie określone w ustawie przysługuje z funduszy państwowych.
 
@@ -52,11 +88,26 @@ source: "isap-pdf"
 
 **Art. 7.** Za inwalidztwo powstałe w związku z działaniami wojennymi lub mającymi charakter wojennych uważa się inwalidztwo będące następstwem zranień, kontuzji i innych obrażeń lub chorób doznanych:
 
+- **1)** w walce z wrogiem;
+- **2)** na froncie lub w związku z pobytem na froncie;
+- **3)** wskutek wypadku pozostającego w związku z pełnieniem czynnej służby wojskowej w czasie określonym w art. 6;
+- **4)** w związku z pobytem w niewoli lub w obozie dla internowanych;
+- **5)** w związku z udziałem w ruchu podziemnym lub partyzanckim oraz z pobytem w niewoli, w obozach koncentracyjnych lub w więzieniach za udział w tym ruchu.
+
 **Art. 8.** Za inwalidę wojennego uważa się również osobę mającą obywatelstwo polskie, która została zaliczona do jednej z grup inwalidów z tytułu inwalidztwa będącego następstwem zranień lub kontuzji doznanych w związku z:
+
+- **1)** pełnieniem służby w wojskowych oddziałach ludowych w czasie wojny domowej w Hiszpanii lub w okresie internowania w następstwie tej służby;
+- **2)** udziałem w obronie Poczty Gdańskiej we wrześniu 1939 r. i w walkach o Cytadelę Poznańską w lutym 1945 r.;
+- **3)** uczestniczeniem w konwojach w okresie wojny 1939–1945 w charakterze członka załóg handlowych statków morskich;
+- **4)** udziałem w Powstaniu Wielkopolskim oraz Powstaniach Śląskich;
+- **5)** rozminowywaniem kraju w czasie pełnienia służby w Siłach Zbrojnych Polskiej Rzeczypospolitej Ludowej po zakończeniu wojny 1939–1945.
 
 **Art. 9.** Renta inwalidzka przysługuje żołnierzowi, który został zaliczony do jednej z grup inwalidów wskutek inwalidztwa powstałego w związku z działaniami wojennymi lub mającymi charakter wojennych, choćby nawet inwalidztwo to powstało po zwolnieniu ze służby wojskowej.
 
 **Art. 10.** Renta inwalidzka dla inwalidy wojennego wynosi:
+
+- **1)** 100 % podstawy jej wymiaru dla inwalidów I i II grupy;
+- **2)** 75 % podstawy jej wymiaru dla inwalidów III grupy .
 
 **Art. 11.**
 
@@ -64,7 +115,7 @@ source: "isap-pdf"
 
 2. Waloryzacji podstawy wymiaru renty inwalidzkiej dokonuje się na zasadach i w terminach przewidzianych w przepisach o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
-3. Podwyższenia podstawy wymiaru renty inwalidzkiej dokonuje się z urzędu, a w przypadku gdy prawo do świadczenia zostało zawieszone – na wniosek osoby zainteresowanej albo przy wznowieniu wypłaty świadczenia.
+3. Podwyższenia podstawy wymiaru renty inwalidzkiej dokonuje się z urzędu, a w przypadku gdy prawo do świadczenia zostało zawieszone na wniosek osoby zainteresowanej albo przy wznowieniu wypłaty świadczenia.
 
 **Art. 12.**
 
@@ -94,11 +145,11 @@ source: "isap-pdf"
 
 2. Uprawnienie, o którym mowa w ust. 1, przysługuje także przewodnikowi towarzyszącemu inwalidzie wojennemu zaliczonemu do I grupy inwalidzkiej .
 
-3. Inwalidzie wojennemu przysługuje prawo do ulgi w wysokości 37 % w komunikacji krajowej przy przejazdach środkami publicznego transportu zbiorowego kolejowego w 1 i 2 klasie pociągów i autobusowego w komunikacji zwykłej, przyspieszonej i pospiesznej – na podstawie biletów jednorazowych, z zastrzeżeniem ust. 4.
+3. Inwalidzie wojennemu przysługuje prawo do ulgi w wysokości 37 % w komunikacji krajowej przy przejazdach środkami publicznego transportu zbiorowego kolejowego w 1 i 2 klasie pociągów i autobusowego w komunikacji zwykłej, przyspieszonej i pospiesznej na podstawie biletów jednorazowych, z zastrzeżeniem ust. 4.
 
-4. Inwalidzie wojennemu zaliczonemu do I grupy inwalidów przysługuje prawo do ulgi w wysokości 78 % w komunikacji krajowej przy przejazdach środkami publicznego transportu zbiorowego kolejowego w 1 i 2 klasie pociągów osobowych i pospiesznych i autobusowego w komunikacji zwykłej, przyspieszonej i pospiesznej – na podstawie biletów jednorazowych.
+4. Inwalidzie wojennemu zaliczonemu do I grupy inwalidów przysługuje prawo do ulgi w wysokości 78 % w komunikacji krajowej przy przejazdach środkami publicznego transportu zbiorowego kolejowego w 1 i 2 klasie pociągów osobowych i pospiesznych i autobusowego w komunikacji zwykłej, przyspieszonej i pospiesznej na podstawie biletów jednorazowych.
 
-5. Do ulgi w wysokości 95 % w komunikacji krajowej przy przejazdach środkami publicznego transportu zbiorowego kolejowego w 1 i 2 klasie pociągów i autobusowego w komunikacji zwykłej, przyspieszonej i pospiesznej jest uprawniony przewodnik lub opiekun towarzyszący w podróży inwalidzie wojennemu zaliczonemu do I grupy inwalidów – na podstawie biletów jednorazowych.
+5. Do ulgi w wysokości 95 % w komunikacji krajowej przy przejazdach środkami publicznego transportu zbiorowego kolejowego w 1 i 2 klasie pociągów i autobusowego w komunikacji zwykłej, przyspieszonej i pospiesznej jest uprawniony przewodnik lub opiekun towarzyszący w podróży inwalidzie wojennemu zaliczonemu do I grupy inwalidów na podstawie biletów jednorazowych.
 
 6. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, rodzaje dokumentów poświadczających uprawnienia do korzystania z ulgowych przejazdów, o których mowa w ust. 3–5.
 
@@ -112,8 +163,8 @@ source: "isap-pdf"
 
 3. Rozwiązanie z inwalidą wojennym stosunku pracy przez pracodawcę może być dokonane tylko po uzyskaniu pisemnej zgody starosty:
 
-- **1)** bez wypowiedzenia – z przyczyn określonych w przepisach dotyczących rozwiązywania umów o pracę bez wypowiedzenia;
-- **2)** za wypowiedzeniem – tylko z ważnych przyczyn zawinionych przez inwalidę albo gdy następuje likwidacja pracodawcy.
+- **1)** bez wypowiedzenia z przyczyn określonych w przepisach dotyczących rozwiązywania umów o pracę bez wypowiedzenia;
+- **2)** za wypowiedzeniem tylko z ważnych przyczyn zawinionych przez inwalidę albo gdy następuje likwidacja pracodawcy.
 
 4. Zgoda, o której mowa w ust. 3, nie jest wymagana do rozwiązania stosunku pracy z inwalidą wojennym:
 
@@ -161,7 +212,7 @@ source: "isap-pdf"
 
 3. Refundacja przysługuje inwalidzie wojennemu, jeżeli nie korzysta z refundacji lub ulgi na podstawie innych przepisów.
 
-4. Wypłaty kwoty refundacji, o której mowa w ust. 1, dokonuje, na wniosek uprawnionego do refundacji, organ rentowy wypłacający rentę, a w przypadku gdy prawo do renty uległo zawieszeniu – organ rentowy, który ustalił prawo do renty, po okazaniu oryginału umowy ubezpieczenia i udokumentowaniu opłacenia składki.
+4. Wypłaty kwoty refundacji, o której mowa w ust. 1, dokonuje, na wniosek uprawnionego do refundacji, organ rentowy wypłacający rentę, a w przypadku gdy prawo do renty uległo zawieszeniu organ rentowy, który ustalił prawo do renty, po okazaniu oryginału umowy ubezpieczenia i udokumentowaniu opłacenia składki.
 
 5. Kwota refundacji, o której mowa w ust. 1, jest wypłacana przez organy rentowe ze środków będących w dyspozycji tych organów i finansowana z budżetu państwa.
 
@@ -190,7 +241,7 @@ source: "isap-pdf"
 - **1)** małżonka, który:
     - **a)** osiągnął wiek: kobieta 50 lat, mężczyzna 65 lat albo
     - **b)** jest inwalidą , albo
-    - **c)** wychowuje co najmniej jedno z dzieci, wnuków lub rodzeństwa uprawnione do renty rodzinnej po poległym – zmarłym, które nie osiągnęło 16 lat, a jeżeli kształci się w szkole – 18 lat życia, lub sprawuje pieczę nad dzieckiem zaliczonym do I lub II grupy inwalidów;
+    - **c)** wychowuje co najmniej jedno z dzieci, wnuków lub rodzeństwa uprawnione do renty rodzinnej po poległym zmarłym, które nie osiągnęło 16 lat, a jeżeli kształci się w szkole 18 lat życia, lub sprawuje pieczę nad dzieckiem zaliczonym do I lub II grupy inwalidów;
 
 - **2)** dzieci, wnuki i rodzeństwo, jeżeli spełniają warunki do uzyskania renty rodzinnej, określone w przepisach o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych;
 - **3)** rodziców, którzy pozostawali na utrzymaniu:
@@ -243,6 +294,11 @@ source: "isap-pdf"
 
 **Art. 33.** Inwalidztwo nie pozostaje w związku ze służbą wojskową, jeżeli:
 
+- **1)** powstało z innych przyczyn niż określone w art. 32;
+- **2)** jest następstwem wypadku lub choroby, których wyłączną przyczyną było udowodnione przez jednostkę wojskową umyślne lub rażąco niedbałe działanie albo zaniedbanie żołnierza naruszające obowiązujące przepisy lub rozkazy, jeżeli jego przełożeni zapewnili warunki odpowiadające tym przepisom i sprawowali we właściwy sposób nadzór nad ich przestrzeganiem, a żołnierz posiadał potrzebne umiejętności do wykonywania określonych czynności i był należycie przeszkolony w zakresie znajomości tych przepisów;
+- **3)** jest następstwem wypadku, do którego w znacznym stopniu przyczynił się sam żołnierz będąc w stanie nietrzeźwym;
+- **4)** zranienie, kontuzja i inne obrażenie lub choroba zostały spowodowane przez żołnierza rozmyślnie.
+
 **Art. 34.**
 
 1. Żołnierzami niezawodowymi w rozumieniu art. 30 są żołnierze:
@@ -271,13 +327,13 @@ source: "isap-pdf"
 
 3. Renta inwalidzka przysługuje również żołnierzowi zwolnionemu z czynnej służby wojskowej z powodu czasowej niezdolności do służby, jeżeli żołnierz ten nie ma prawa do zasiłku chorobowego. Renta ta przysługuje przez czas trwania niezdolności do wykonywania zatrudnienia. Na czas ten zalicza się żołnierza do jednej z grup inwalidów .
 
-**Art. 36.** Renta inwalidzka dla inwalidy wojskowego wynosi miesięcznie:
+**Art. 36.** Renta inwalidzka dla inwalidy wojskowego wynosi miesięcznie: Inwalidztwo powstałe Procent podstawy wymiaru w razie zaliczenia do: I i II grupy inwalidów III grupy inwalidów w związku ze służbą wojskową 100 75 bez związku ze służbą wojskową 80 60
 
 **Art. 37.** Podstawę wymiaru renty inwalidzkiej ustala się w myśl art. 11.
 
 **Art. 38.**
 
-1. Do renty inwalidzkiej przysługuje dodatek pielęgnacyjny – z tytułu zaliczenia do I grupy inwalidów lub ukończenia 75 lat życia.
+1. Do renty inwalidzkiej przysługuje dodatek pielęgnacyjny z tytułu zaliczenia do I grupy inwalidów lub ukończenia 75 lat życia.
 
 2. Dodatek, o którym mowa w ust. 1, przysługuje w wysokości i na zasadach określonych w przepisach o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
@@ -325,7 +381,7 @@ source: "isap-pdf"
 
 **Art. 45.**
 
-1. Uprawnionym członkom rodziny przysługuje renta rodzinna, która wynosi miesięcznie: 1a. W razie śmierci albo zaginięcia żołnierza w przypadkach, o których mowa w art. 44 ust. 2 i 3, renta rodzinna wynosi miesięcznie 100 % podstawy wymiaru.
+1. Uprawnionym członkom rodziny przysługuje renta rodzinna, która wynosi miesięcznie: Liczba członków rodziny Procent podstawy wymiaru w razie śmierci uprawnionych do renty w związku ze służbą bez związku ze służbą wojskową wojskową jedna osoba 70 60 dwie osoby 75 65 trzy i więcej osób 85 75 1a. W razie śmierci albo zaginięcia żołnierza w przypadkach, o których mowa w art. 44 ust. 2 i 3, renta rodzinna wynosi miesięcznie 100 % podstawy wymiaru.
 
 2. W przypadkach, o których mowa w art. 43 ust. 2, renta rodzinna przysługuje w wysokości przewidzianej dla rodziny po żołnierzu zmarłym.
 
@@ -361,9 +417,7 @@ source: "isap-pdf"
 
 5. Prawo do świadczenia pieniężnego oraz jego wysokość ustala w formie decyzji wojskowy organ emerytalny.
 
-6. Świadczenie pieniężne wypłaca organ emerytalny, o którym mowa w ust.
-
-5.
+6. Świadczenie pieniężne wypłaca organ emerytalny, o którym mowa w ust. 5.
 
 7. Do spraw załatwianych w formie decyzji, o której mowa w ust. 5, stosuje się odpowiednio przepisy art. 5, art. 7, art. 8 ust. 2 i 4–11, art. 9 ust. 2 i art. 10 ustawy, o której mowa w ust. 1.
 
@@ -420,7 +474,7 @@ source: "isap-pdf"
 
 2a. Przepis ust. 1 stosuje się odpowiednio do osoby pobierającej uposażenie w stanie spoczynku przyznane ze względu na wiek.
 
-3. W przypadkach niewymienionych w ust. 1, 1b i 2 osobie uprawnionej do renty inwalidzkiej lub renty rodzinnej na podstawie niniejszej ustawy oraz do innych świadczeń o charakterze rentowym wypłaca się jedno świadczenie – wyższe lub przez nią wybrane.
+3. W przypadkach niewymienionych w ust. 1, 1b i 2 osobie uprawnionej do renty inwalidzkiej lub renty rodzinnej na podstawie niniejszej ustawy oraz do innych świadczeń o charakterze rentowym wypłaca się jedno świadczenie wyższe lub przez nią wybrane.
 
 3a. Przepis ust. 3 stosuje się odpowiednio do osoby pobierającej uposażenie w stanie spoczynku przyznane z powodu choroby lub utraty sił albo uposażenie rodzinne.
 
@@ -440,7 +494,9 @@ source: "isap-pdf"
 
 **Art. 57.**
 
-1. Związek zranień, kontuzji i innych obrażeń lub chorób z działaniami wojennymi lub mającymi charakter wojennych albo ze służbą wojskową oraz związek śmierci żołnierza z tymi działaniami lub tą służbą ustala wojskowa komisja lekarska. Wojskowa komisja lekarska ustala również związek śmierci ze służbą wojskową żołnierza zwolnionego ze służby, jeżeli śmierć nastąpiła w podmiocie leczniczym, którego podmiotem tworzącym jest Minister Obrony Narodowej. Związek zranień i kontuzji z działaniami wymienionymi w art. 8 ustala wojskowa komisja lekarska. [2. Niezdolność do pracy, datę jej powstania, związek niezdolności do pracy z działaniami wojennymi lub mającymi charakter wojennych albo ze służbą wojskową, związek śmierci ze służbą wojskową żołnierza zwolnionego ze służby, który zmarł poza podmiotem, o którym mowa w ust. 1, oraz związek śmierci inwalidy ze służbą wojskową ustala lekarz orzecznik Zakładu Ubezpieczeń Społecznych lub komisja lekarska Zakładu Ubezpieczeń Społecznych, na podstawie orzeczenia wojskowej komisji lekarskiej.] <2. Niezdolność do pracy, datę jej powstania, związek niezdolności do pracy z działaniami wojennymi lub mającymi charakter wojennych albo ze służbą wojskową, związek śmierci ze służbą wojskową żołnierza zwolnionego ze służby, który zmarł poza podmiotem, o którym mowa w ust. 1, oraz związek śmierci inwalidy ze służbą wojskową ustala lekarz orzecznik Zakładu Ubezpieczeń Społecznych na podstawie orzeczenia wojskowej komisji lekarskiej. Orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ).>
+1. Związek zranień, kontuzji i innych obrażeń lub chorób z działaniami wojennymi lub mającymi charakter wojennych albo ze służbą wojskową oraz związek śmierci żołnierza z tymi działaniami lub tą służbą ustala wojskowa komisja lekarska. Wojskowa komisja lekarska ustala również związek śmierci ze służbą wojskową żołnierza zwolnionego ze służby, jeżeli śmierć nastąpiła w podmiocie leczniczym, którego podmiotem tworzącym jest Minister Obrony Narodowej. Związek zranień i kontuzji z działaniami wymienionymi w art. 8 ustala wojskowa komisja lekarska.
+
+2. Niezdolność do pracy, datę jej powstania, związek niezdolności do pracy z działaniami wojennymi lub mającymi charakter wojennych albo ze służbą wojskową, związek śmierci ze służbą wojskową żołnierza zwolnionego ze służby, który zmarł poza podmiotem, o którym mowa w ust. 1, oraz związek śmierci inwalidy ze służbą wojskową ustala lekarz orzecznik Zakładu Ubezpieczeń Społecznych lub komisja lekarska Zakładu Ubezpieczeń Społecznych, na podstawie orzeczenia wojskowej komisji lekarskiej.
 
 **Art. 58.** W razie śmierci osoby pobierającej rentę inwalidzką lub członka jej rodziny albo osoby pobierającej rentę rodzinną przysługuje zasiłek pogrzebowy w wysokości i na warunkach określonych w przepisach o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
@@ -476,7 +532,11 @@ source: "isap-pdf"
 
 **Art. 62.** Rada Ministrów może w drodze rozporządzenia:
 
+- **1)** podwyższać renty i dodatki do rent;
+- **2)** podwyższać podstawę wymiaru rent, określoną w art. 11 ust. 1 oraz w art. 25 ust. 2 pkt 1;
+- **3)** zmieniać wysokość kwot, o których mowa w art. 37 ust. 5, art. 46 ust. 2 i art. 59 ust. 2 i 3.
+
 **Art. 63.** Przewidziane w ustawie uprawnienia Ministra Obrony Narodowej przysługują ministrowi właściwemu do spraw wewnętrznych w stosunku do żołnierzy pełniących służbę w podległych mu jednostkach.
 
-**Art. 64.** W sprawach nieuregulowanych w ustawie stosuje się odpowiednio: art. 12–14, 70, 74, 83, 88–93, 102, art. 103 ust. 3, art. 107, 107a, 114 i 126– 144 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674).
+**Art. 64.** W sprawach nieuregulowanych w ustawie stosuje się odpowiednio: art. 12–14, 70, 74, 83, 88–93, 102, art. 103 ust. 3, art. 107, 107a, 114 i 126–144 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674).
 

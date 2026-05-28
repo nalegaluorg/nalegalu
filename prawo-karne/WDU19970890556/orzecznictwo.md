@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 6 czerwca 1997 r. - Przepisy wprowadzające Kodeks postępowania karnego.*
 
-Łącznie: **29** orzeczeń
+Łącznie: **25** orzeczeń
 
 ## art. 2 (1)
 
@@ -32,22 +32,19 @@ Orzeczenia powołujące: *Ustawa z dnia 6 czerwca 1997 r. - Przepisy wprowadzaj�
 - 2005-01-11 | TK | [SK 60/03](https://www.saos.org.pl/judgments/107284) | Wyrok ★
 - 1999-11-17 | TK | [SK 17/99](https://www.saos.org.pl/judgments/105304) | Postanowienie ★
 
-## art. 7 (9)
+## art. 7 (7)
 
 - 2003-06-30 | TK | [P 1/03](https://www.saos.org.pl/judgments/106356) | Wyrok ★
 - 2007-12-19 | SN | [I KZP 38/07](https://www.saos.org.pl/judgments/86951) | Uchwała ★
 - 1999-11-17 | TK | [SK 17/99](https://www.saos.org.pl/judgments/105304) | Postanowienie ★
 - 1998-11-18 | TK | [SK 1/98](https://www.saos.org.pl/judgments/105222) | Postanowienie ★
-- 2014-08-13 | SN | [III KK 65/14](https://www.saos.org.pl/judgments/166527) | Postanowienie
-- 2009-04-29 | SN | [I KZP 3/09](https://www.saos.org.pl/judgments/90115) | Postanowienie
 - 2008-04-28 | SN | [I KZP 7/08](https://www.saos.org.pl/judgments/87971) | Postanowienie
 - 2008-03-20 | SN | [I KZP 42/07](https://www.saos.org.pl/judgments/87619) | Postanowienie
 - 2006-04-03 | SN | [II KK 157/05](https://www.saos.org.pl/judgments/84223) | Postanowienie
 
-## art. 8 (10)
+## art. 8 (9)
 
 - 2005-01-11 | TK | [SK 60/03](https://www.saos.org.pl/judgments/107284) | Wyrok ★
-- 2011-03-23 | SN | [I KZP 31/10](https://www.saos.org.pl/judgments/94502) | Uchwała ★
 - 2007-12-19 | SN | [I KZP 38/07](https://www.saos.org.pl/judgments/86951) | Uchwała ★
 - 1999-11-17 | TK | [SK 17/99](https://www.saos.org.pl/judgments/105304) | Postanowienie ★
 - 1998-11-18 | TK | [SK 1/98](https://www.saos.org.pl/judgments/105222) | Postanowienie ★
@@ -57,7 +54,7 @@ Orzeczenia powołujące: *Ustawa z dnia 6 czerwca 1997 r. - Przepisy wprowadzaj�
 - 2006-04-03 | SN | [II KK 157/05](https://www.saos.org.pl/judgments/84223) | Postanowienie
 - 2004-03-23 | SN | [WZ 24/04](https://www.saos.org.pl/judgments/82574) | Postanowienie
 
-## art. 9 (7)
+## art. 9 (6)
 
 - 1999-11-17 | TK | [SK 17/99](https://www.saos.org.pl/judgments/105304) | Postanowienie ★
 - 1999-09-02 | TK | [Ts 7/99](https://www.saos.org.pl/judgments/105311) | Postanowienie ★
@@ -65,7 +62,6 @@ Orzeczenia powołujące: *Ustawa z dnia 6 czerwca 1997 r. - Przepisy wprowadzaj�
 - 1999-03-17 | TK | [Ts 9/99](https://www.saos.org.pl/judgments/205971) | Postanowienie ★
 - 1999-03-17 | TK | [Ts 8/99](https://www.saos.org.pl/judgments/205970) | Postanowienie ★
 - 1999-03-15 | TK | [Ts 7/99](https://www.saos.org.pl/judgments/105310) | Postanowienie ★
-- 2012-10-25 | SN | [IV KK 226/12](https://www.saos.org.pl/judgments/99489) | Postanowienie
 
 ## art. 11 (3)
 
@@ -86,10 +82,6 @@ Orzeczenia powołujące: *Ustawa z dnia 6 czerwca 1997 r. - Przepisy wprowadzaj�
 ## art. 39 (1)
 
 - 1998-11-18 | TK | [SK 1/98](https://www.saos.org.pl/judgments/105222) | Postanowienie ★
-
-## art. 269 (1)
-
-- 2012-10-25 | SN | [IV KK 226/12](https://www.saos.org.pl/judgments/99489) | Postanowienie
 
 ## art. 564 § 2 (1)
 

@@ -8,10 +8,10 @@ pos: 41
 act_type: Oświadczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 stycznia 2018 r.
+# Oświadczenie Rządowez dnia 12 grudnia 2017 r. w sprawie wejścia w życie zmienionego Załącznika nr 1 do Międzynarodowej konwencji o zwalczaniu dopingu w sporcie, sporządzonej w Paryżu dnia 19 października 2005 r., obowiązującego od dnia 1 stycznia 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,10 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000041) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/41/text.pdf) |
 
-Poz. 41 OŚWIADCZENIE RZĄDOWE z dnia 12 grudnia 2017 r.
-w sprawie wejścia w życie zmienionego Załącznika nr 1 do Międzynarodowej konwencji o zwalczaniu dopingu w sporcie, sporządzonej w Paryżu dnia 19 października 2005 r., obowiązującego od dnia 1 stycznia 2018 r.
-Podaje się do wiadomości, że zgodnie z art. 34 ust. 1 i 2 Międzynarodowej konwencji o zwalczaniu dopingu w sporcie, sporządzonej w Paryżu dnia 19 października 2005 r. , strony zatwierdziły zmiany do Załącznika nr 1 do powyższej konwencji w drodze pisemnych konsultacji.
-Zgodnie z art. 34 ust. 3 konwencji zmiany do Załącznika nr l wchodzą w życie w stosunku do Rzeczypospolitej Polskiej oraz pozostałych stron konwencji dnia 1 stycznia 2018 r.
-Jednocześnie podaje się do wiadomości, że zmieniony Załącznik nr 1 do Międzynarodowej konwencji o zwalczaniu dopingu w sporcie, sporządzonej w Paryżu dnia 19 października 2005 r., obowiązujący od dnia 1 stycznia 2017 r., przestaje obowiązywać dnia 31 grudnia 2017 r.
-Minister Spraw Zagranicznych: W. Waszczykowski
+Treść oświadczenia
+Podaje się do wiadomości, że zgodnie z art. 34 ust. 1 i 2 Międzynarodowej konwencji o zwalczaniu dopingu w sporcie, sporządzonej w Paryżu dnia 19 października 2005 r., strony zatwierdziły zmiany do Załącznika nr 1 do powyższej konwencji w drodze pisemnych konsultacji. Zgodnie z art. 34 ust. 3 konwencji zmiany do Załącznika nr 1 wchodzą w życie w stosunku do Rzeczypospolitej Polskiej oraz pozostałych stron konwencji dnia 1 stycznia 2018 r. Jednocześnie podaje się do wiadomości, że zmieniony Załącznik nr 1 do Międzynarodowej konwencji o zwalczaniu dopingu w sporcie, sporządzonej w Paryżu dnia 19 października 2005 r., obowiązujący od dnia 1 stycznia 2017 r., przestaje obowiązywać dnia 31 grudnia 2017 r.
 

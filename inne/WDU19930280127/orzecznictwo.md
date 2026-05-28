@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 6 marca 1993 r. o zmianie niektórych ustaw regulujących zasady opodatkowania oraz niektórych innych ustaw.*
 
-Łącznie: **12** orzeczeń
+Łącznie: **11** orzeczeń
 
 ## art. 1 (3)
 
@@ -22,9 +22,8 @@ Orzeczenia powołujące: *Ustawa z dnia 6 marca 1993 r. o zmianie niektórych us
 
 - 2004-02-27 | SN | [V CK 293/03](https://www.saos.org.pl/judgments/82535) | Wyrok ★
 
-## art. 9 (2)
+## art. 9 (1)
 
-- 2011-03-15 | TK | [P 7/09](https://www.saos.org.pl/judgments/110298) | Wyrok ★
 - 1995-05-16 | TK | [K 12/93](https://www.saos.org.pl/judgments/205650) | Wyrok ★
 
 ## art. 15 (2)

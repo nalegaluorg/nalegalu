@@ -8,12 +8,10 @@ pos: 1604
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o specjalnych strefach ekonomicznych
-
-*USTAWA z dnia 20 października 1994 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 7 lipca 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o specjalnych strefach ekonomicznych
 
 | Pole | Wartość |
 |---|---|
@@ -27,7 +25,46 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-02-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001604) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1604/text.pdf) |
 
-Art. 21–23. (pominięte)
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych Rozdział 1 – Przepisy ogólne Rozdział 2 – Ustanawianie, łączenie, znoszenie stref oraz zmiana ich obszaru Rozdział 3 – Zarządzanie strefą i zwolnienia podatkowe Rozdział 4 – Zezwolenie na prowadzenie działalności gospodarczej na terenie strefy uprawniające do korzystania z pomocy publicznej Rozdział 5 – Zmiany w przepisach obowiązujących. Przepisy przejściowe i końcowe
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2023 r. poz. 91), z uwzględnieniem zmian wprowadzonych ustawą z dnia 14 kwietnia 2023 r. o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, ustawy o obligacjach, ustawy o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji oraz niektórych innych ustaw (Dz. U. poz. 825) oraz zmian wynikających z przepisów ogłoszonych przed dniem 6 lipca 2023 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 26 ustawy z dnia 14 kwietnia 2023 r. o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, ustawy o obligacjach, ustawy o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji oraz niektórych innych ustaw (Dz. U. poz. 825), który stanowi:
+„
+1)
+(uchylony)
+2)
+(uchylony)
+2a)
+(uchylony)
+3)
+(uchylony)
+4)
+pełna realizacja rozpoczętej inwestycji będzie wymagała zwiększenia terenu strefy o nie więcej niż 2 ha.
+4.
+(uchylony)
+1.
+Rada Ministrów, mając na względzie realizację celów, o których mowa w art. 3, może, na wniosek ministra właściwego do spraw gospodarki, w drodze rozporządzenia, znieść strefę przed upływem okresu, na jaki została ona ustanowiona, połączyć strefy, z tym że łączny obszar wszystkich stref nie może przekroczyć 25 tys. ha.
+1a.
+(uchylony)
+2.
+Zniesienie strefy nie może nastąpić w okresie, w którym pozostaje w mocy choćby jedno zezwolenie wydane na podstawie art. 16 ust. 1.
+3.
+Zakazu, o którym mowa w ust. 2, nie stosuje się, gdy obszar, na którym przedsiębiorca prowadzi działalność gospodarczą na podstawie zezwolenia, zostanie włączony do obszaru innej strefy z zachowaniem prawa przedsiębiorcy do zwolnień podatkowych na dotychczasowych warunkach.
+4.
+Zmniejszenie obszaru strefy nie może dotyczyć nieruchomości, na których prowadzona jest działalność na podstawie zezwolenia wydanego zgodnie z art. 16 ust. 1, chyba że przedsiębiorca prowadzący tam działalność na podstawie zezwolenia wyrazi na to zgodę.
+5.
+(uchylony)
+Art. 21–23.
+(pominięte)
+
+**Art. 26.** Ustawa wchodzi w życie z dniem 1 października 2023 r., z wyjątkiem:
+
+- **1)** art. 16, art. 19 i art. 20, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 18, który wchodzi w życie z dniem 22 maja 2023 r.;
+- **3)** art. 1, art. 3, art. 4, art. 9 pkt 1, 2 i 7, pkt 10 lit. b i c oraz pkt 12, art. 11 pkt 1 i 5, art. 15, art. 17, art. 21, art. 22 oraz art. 24, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -37,6 +74,14 @@ Art. 21–23. (pominięte)
 
 **Art. 3.** Strefa może być ustanowiona w celu przyspieszenia rozwoju gospodarczego części terytorium kraju, w szczególności przez:
 
+- **1)** rozwój określonych dziedzin działalności gospodarczej;
+- **2)** rozwój nowych rozwiązań technicznych i technologicznych oraz ich wykorzystanie w gospodarce narodowej;
+- **3)** rozwój eksportu;
+- **4)** zwiększenie konkurencyjności wytwarzanych wyrobów i świadczonych usług;
+- **5)** zagospodarowanie istniejącego majątku przemysłowego i infrastruktury gospodarczej;
+- **6)** tworzenie nowych miejsc pracy;
+- **7)** zagospodarowanie niewykorzystanych zasobów naturalnych z zachowaniem zasad równowagi ekologicznej.
+
 #### Rozdział 2 Ustanawianie, łączenie, znoszenie stref oraz zmiana ich obszaru
 
 **Art. 4.**
@@ -45,7 +90,7 @@ Art. 21–23. (pominięte)
 
 - **1)** nazwę, teren i granice strefy,
 - **2)** zarządzającego strefą, zwanego dalej „zarządzającym”,
-- **3)** okres, na jaki ustanawia się strefę – biorąc pod uwagę potrzebę zapewnienia realizacji celów, o których mowa w art. 3, na terenie obejmowanym strefą.
+- **3)** okres, na jaki ustanawia się strefę biorąc pod uwagę potrzebę zapewnienia realizacji celów, o których mowa w art. 3, na terenie obejmowanym strefą.
 
 2. Minister właściwy do spraw gospodarki przedstawia wniosek, o którym mowa w ust. 1, po uzyskaniu opinii zarządu województwa oraz zgody rady gminy właściwej ze względu na położenie strefy.
 
@@ -58,7 +103,7 @@ Art. 21–23. (pominięte)
 - **3)** warunki udzielania pomocy publicznej przedsiębiorcy prowadzącemu działalność gospodarczą na terenie strefy na podstawie zezwolenia, o którym mowa w art. 16 ust. 1,
 - **4)** warunki uznawania wydatków za wydatki poniesione na inwestycję na terenie strefy, a także ich minimalną wysokość,
 - **5)** koszty inwestycji uwzględniane przy obliczaniu wielkości pomocy publicznej dla przedsiębiorców, którzy uzyskali zezwolenie, o którym mowa w art. 16 ust. 1, po dniu 31 grudnia 2000 r.,
-- **6)** sposób dyskontowania kosztów inwestycji i wielkości pomocy publicznej na dzień uzyskania zezwolenia, o którym mowa w art. 16 ust. 1 – biorąc pod uwagę konieczność zapewnienia zgodności udzielonej pomocy z prawem Unii Europejskiej.
+- **6)** sposób dyskontowania kosztów inwestycji i wielkości pomocy publicznej na dzień uzyskania zezwolenia, o którym mowa w art. 16 ust. 1 biorąc pod uwagę konieczność zapewnienia zgodności udzielonej pomocy z prawem Unii Europejskiej.
 
 **Art. 5.**
 
@@ -66,28 +111,9 @@ Art. 21–23. (pominięte)
 
 2. Strefa może być ustanowiona także, jeżeli nabycie przez zarządzającego lub jednostkę samorządu terytorialnego prawa do gruntów, o którym mowa w ust. 1, wynika z umowy zobowiązującej, która przewiduje ustanowienie strefy jako jedyny warunek nabycia.
 
-3. Część strefy może obejmować grunty stanowiące własność lub użytkowanie wieczyste podmiotów innych niż wymienione w ust. 1, za ich zgodą, w przypadku gdy:
+3.
 
-- **1)** (uchylony)
-- **2)** (uchylony) 2a) (uchylony)
-- **3)** (uchylony)
-- **4)** pełna realizacja rozpoczętej inwestycji będzie wymagała zwiększenia terenu strefy o nie więcej niż 2 ha.
-
-4. (uchylony)
-
-**Art. 5a.**
-
-1. Rada Ministrów, mając na względzie realizację celów, o których mowa w art. 3, może, na wniosek ministra właściwego do spraw gospodarki, w drodze rozporządzenia, znieść strefę przed upływem okresu, na jaki została ona ustanowiona, połączyć strefy, z tym że łączny obszar wszystkich stref nie może przekroczyć 25 tys. ha.
-
-1a. (uchylony)
-
-2. Zniesienie strefy nie może nastąpić w okresie, w którym pozostaje w mocy choćby jedno zezwolenie wydane na podstawie art. 16 ust. 1.
-
-3. Zakazu, o którym mowa w ust. 2, nie stosuje się, gdy obszar, na którym przedsiębiorca prowadzi działalność gospodarczą na podstawie zezwolenia, zostanie włączony do obszaru innej strefy z zachowaniem prawa przedsiębiorcy do zwolnień podatkowych na dotychczasowych warunkach.
-
-4. Zmniejszenie obszaru strefy nie może dotyczyć nieruchomości, na których prowadzona jest działalność na podstawie zezwolenia wydanego zgodnie z art. 16 ust. 1, chyba że przedsiębiorca prowadzący tam działalność na podstawie zezwolenia wyrazi na to zgodę.
-
-5. (uchylony)
+## Część strefy może obejmować grunty stanowiące własność lub użytkowanie wieczyste podmiotów innych niż wymienione w ust. 1, za ich zgodą, w przypadku gdy:
 
 #### Rozdział 3 Zarządzanie strefą i zwolnienia podatkowe
 
@@ -98,8 +124,6 @@ Art. 21–23. (pominięte)
 2. (uchylony)
 
 3. (uchylony)
-
-**Art. 6a.**
 
 1. Pełnienia funkcji członka zarządu spółki będącej zarządzającym nie można łączyć z zatrudnieniem u przedsiębiorcy prowadzącego działalność gospodarczą na terenie danej strefy lub przedsiębiorcy korzystającego ze wsparcia nowej inwestycji na podstawie decyzji o wsparciu, o której mowa w ustawie z dnia 10 maja 2018 r. o wspieraniu nowych inwestycji (Dz. U. z 2023 r. poz. 74), bez względu na podstawę prawną zatrudnienia.
 
@@ -118,9 +142,11 @@ Art. 21–23. (pominięte)
 - **2)** przedstawiciela ministra właściwego do spraw gospodarki;
 - **3)** nie więcej niż dwóch przedstawicieli jednostek samorządu terytorialnego, z wyłączeniem samorządu województwa, których udział w kapitale zakładowym tej spółki jest największy.
 
-1b. (uchylony) 1c. Do składu rady nadzorczej spółki będącej zarządzającym, w stosunku do której inny zarządzający posiada większość głosów, które mogą być oddane na walnym zgromadzeniu lub zgromadzeniu wspólników, powołuje się nie więcej niż 5 osób, w tym co najmniej dwóch przedstawicieli ministra właściwego do spraw gospodarki.
+1b. (uchylony)
 
-2. Do składu rady nadzorczej, o której mowa w ust. 1, 1a i 1c, nie może być powołana osoba, która jest członkiem rady nadzorczej, zarządu lub pracownikiem przedsiębiorcy prowadzącego działalność gospodarczą na terenie strefy lub przedsiębiorcy korzystającego ze zwolnienia od podatku dochodowego na podstawie decyzji o wsparciu, o której mowa w ustawie z dnia 10 maja 2018 r. o wspieraniu nowych inwestycji, lub pozostaje z takim przedsiębiorcą w powiązaniach w rozumieniu art. 11a ust. 1 pkt 5 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2022 r. poz. 2587, z późn. zm. ).
+1c. Do składu rady nadzorczej spółki będącej zarządzającym, w stosunku do której inny zarządzający posiada większość głosów, które mogą być oddane na walnym zgromadzeniu lub zgromadzeniu wspólników, powołuje się nie więcej niż 5 osób, w tym co najmniej dwóch przedstawicieli ministra właściwego do spraw gospodarki.
+
+2. Do składu rady nadzorczej, o której mowa w ust. 1, 1a i 1c, nie może być powołana osoba, która jest członkiem rady nadzorczej, zarządu lub pracownikiem przedsiębiorcy prowadzącego działalność gospodarczą na terenie strefy lub przedsiębiorcy korzystającego ze zwolnienia od podatku dochodowego na podstawie decyzji o wsparciu, o której mowa w ustawie z dnia 10 maja 2018 r. o wspieraniu nowych inwestycji, lub pozostaje z takim przedsiębiorcą w powiązaniach w rozumieniu art. 11a ust. 1 pkt 5 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2022 r. poz. 2587, z późn. zm.).
 
 **Art. 8.**
 
@@ -131,9 +157,9 @@ Art. 21–23. (pominięte)
 - **3)** świadczenie, na podstawie umowy, przedsiębiorcom prowadzącym działalność na obszarze strefy usług oraz tworzenie warunków do świadczenia usług przez osoby trzecie;
 - **4)** prowadzenie działań promujących podejmowanie działalności gospodarczej w strefie;
 - **5)** podejmowanie działań zmierzających do powstawania klastrów;
-- **6)** współpraca w zakresie uwzględniania w procesie kształcenia potrzeb rynku pracy w strefie: poz. 900),
-    - **a)** ze szkołami ponadpodstawowymi, o których mowa w art. 18 ust. 1 pkt 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 r.
-    - **b)** z uczelniami lub federacjami podmiotów systemu szkolnictwa wyższego i nauki w rozumieniu ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, 1088 i 1234).
+- **6)** współpraca w zakresie uwzględniania w procesie kształcenia potrzeb rynku pracy w strefie: ze szkołami ponadpodstawowymi, o których mowa w art. 18 ust. 1 pkt 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 r. poz. 900), z uczelniami lub federacjami podmiotów systemu szkolnictwa wyższego i nauki w rozumieniu ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, 1088 i 1234).
+    - **a)**
+    - **b)**
 
 2. Zarządzający może zbywać przysługujące mu prawo własności nieruchomości i użytkowania wieczystego gruntów położonych na terenie strefy, jeżeli jest to zgodne z planem rozwoju strefy, o którym mowa w art. 9. Zarządzającemu służy prawo pierwokupu w zakresie prawa własności i użytkowania wieczystego położonych na obszarze strefy nieruchomości.
 
@@ -141,9 +167,7 @@ Art. 21–23. (pominięte)
 
 4. Organ właściwy na podstawie przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2023 r. poz. 344) może zlecić zarządzającemu w drodze umowy przygotowanie nieruchomości do sprzedaży oraz zorganizowanie i przeprowadzenie przetargu na zbycie tej nieruchomości.
 
-**Art. 8a.**
-
-1. Zarządzający będący podmiotem, o którym mowa w art. 4 pkt 3 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2022 r. poz. 1710, 1812, 1933 i 2185 oraz z 2023 r. poz. 412 i 825), udzielając zamówienia, o którym mowa w art. 11 ust. 5 pkt 9 tej ustawy, którego wartość jest równa lub przekracza kwotę 170 000 złotych, zamieszcza ogłoszenie o udzielanym zamówieniu na swojej stronie podmiotowej Biuletynu Informacji Publicznej.
+1. Zarządzający będący podmiotem, o którym mowa w art. 4 pkt 3 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2022 r. poz. 1710, 1812, 1933 i 2185 oraz z 2023 r. poz. 412 i 825), udzielając zamówienia, o którym mowa w art. 11 ust. 5 pkt 9 tej ustawy, którego wartość jest równa lub przekracza kwotę 130 000 złotych, zamieszcza ogłoszenie o udzielanym zamówieniu na swojej stronie podmiotowej Biuletynu Informacji Publicznej.
 
 2. Zamówienie, o którym mowa w ust. 1, jest udzielane w sposób zapewniający zachowanie przejrzystości i równego traktowania podmiotów zainteresowanych wykonaniem zamówienia oraz z uwzględnieniem okoliczności mogących mieć wpływ na jego udzielenie.
 
@@ -187,27 +211,21 @@ Art. 21–23. (pominięte)
 
 - **1)** rozpoczęcie robót budowlanych związanych z inwestycją lub
 - **2)** pierwsze prawnie wiążące zobowiązanie do zamówienia urządzeń, lub
-- **3)** inne zobowiązanie, które sprawia, że inwestycja staje się nieodwracalna – w zależności od tego, które z tych zdarzeń wystąpiło pierwsze, przy czym nie uznaje się za rozpoczęcie inwestycji zakupu gruntów ani prac przygotowawczych, takich jak uzyskanie zezwoleń i przeprowadzenie studiów wykonalności.
+- **3)** inne zobowiązanie, które sprawia, że inwestycja staje się nieodwracalna w zależności od tego, które z tych zdarzeń wystąpiło pierwsze, przy czym nie uznaje się za rozpoczęcie inwestycji zakupu gruntów ani prac przygotowawczych, takich jak uzyskanie zezwoleń i przeprowadzenie studiów wykonalności.
 
 5. W przypadku przejęcia przez rozpoczęcie inwestycji rozumie się nabycie aktywów bezpośrednio związanych z nabytym zakładem.
-
-**Art. 12a.**
 
 1. Przedsiębiorcy korzystający z pomocy publicznej, udzielanej zgodnie z ustawą, obowiązani do prowadzenia ksiąg podatkowych – przechowują księgi i związane z ich prowadzeniem dokumenty, a przedsiębiorcy korzystający z pomocy publicznej, udzielanej zgodnie z ustawą, z tytułu tworzenia nowych miejsc pracy – dodatkowo przechowują dokumenty związane z poborem podatków oraz innych dochodów budżetu państwa, a także przychodów państwowych funduszy celowych.
 
 2. Księgi oraz dokumenty określone w ust. 1 są przechowywane do czasu upływu okresu przedawnienia roszczeń związanych ze zwrotem pomocy publicznej.
 
-**Art. 12b.**
-
 1. W przypadku cofnięcia zezwolenia, o którym mowa w art. 16 ust. 1, przedsiębiorca jest obowiązany do zwrotu pomocy publicznej, udzielonej zgodnie z ustawą. Do dnia zwrotu tej pomocy przedsiębiorcy nie może zostać udzielone nowe zezwolenie.
 
 2. W przypadku cofnięcia albo stwierdzenia wygaśnięcia zezwolenia, o którym mowa w art. 16 ust. 1, minister właściwy do spraw gospodarki przekazuje naczelnikowi urzędu skarbowego właściwemu dla przedsiębiorcy w sprawach podatku dochodowego kopię wydanej decyzji w terminie 14 dni, licząc od dnia, w którym decyzja ta stała się prawomocna.
 
-3. W przypadku cofnięcia zezwolenia, o którym mowa w art. 16 ust. 1, naczelnik urzędu skarbowego, o którym mowa w ust. 2, określa w drodze decyzji kwotę pomocy publicznej podlegającą zwrotowi pomniejszoną odpowiednio o kwotę podatku należnego, o którym mowa w art. 21 ust. 5c ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm. ) albo art. 17 ust. 6 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych.
+3. W przypadku cofnięcia zezwolenia, o którym mowa w art. 16 ust. 1, naczelnik urzędu skarbowego, o którym mowa w ust. 2, określa w drodze decyzji kwotę pomocy publicznej podlegającą zwrotowi pomniejszoną odpowiednio o kwotę podatku należnego, o którym mowa w art. 21 ust. 5c ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm.) albo art. 17 ust. 6 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych.
 
-4. W kwocie pomocy publicznej podlegającej zwrotowi, o której mowa w ust. 3, uwzględnia się odsetki liczone jak dla zaległości podatkowych. W odniesieniu do pomocy publicznej wynikającej ze zwolnienia, o którym mowa w art. 21 ust. 5c pkt 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i art. 17 ust. 6 pkt 1 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, odsetki liczone są za okres od dnia udzielenia pomocy publicznej do dnia wydania decyzji o uchyleniu, a zakresie pozostałej pomocy publicznej podlegającej zwrotowi do dnia jej zwrotu. W odniesieniu do pomocy publicznej wynikającej ze zwolnienia, o którym mowa w art. 21 ust. 5c pkt 2 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i art. 17 ust. 6 pkt 2 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, odsetek nie nalicza się.
-
-**Art. 12c.** Roszczenia związane ze zwrotem pomocy publicznej, udzielanej zgodnie z ustawą, przedawniają się z upływem 10 lat, licząc od końca roku kalendarzowego, w którym przedsiębiorca skorzystał z tej pomocy.
+4. W kwocie pomocy publicznej podlegającej zwrotowi, o której mowa w ust. 3, uwzględnia się odsetki liczone jak dla zaległości podatkowych. W odniesieniu do pomocy publicznej wynikającej ze zwolnienia, o którym mowa w art. 21 ust. 5c pkt 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i art. 17 ust. 6 pkt 1 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, odsetki liczone są za okres od dnia udzielenia pomocy publicznej do dnia wydania decyzji o uchyleniu, a zakresie pozostałej pomocy publicznej podlegającej zwrotowi do dnia jej zwrotu. W odniesieniu do pomocy publicznej wynikającej ze zwolnienia, o którym mowa w art. 21 ust. 5c pkt 2 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i art. 17 ust. 6 pkt 2 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, odsetek nie nalicza się. Roszczenia związane ze zwrotem pomocy publicznej, udzielanej zgodnie z ustawą, przedawniają się z upływem 10 lat, licząc od końca roku kalendarzowego, w którym przedsiębiorca skorzystał z tej pomocy.
 
 **Art. 13.** (uchylony)
 
@@ -241,9 +259,7 @@ Art. 21–23. (pominięte)
 
 6. Do postępowania w sprawie cofania i zmiany zezwolenia stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
 
-**Art. 17.** (uchylony)
-
-**Art. 17a.** (uchylony)
+**Art. 17.** (uchylony) (uchylony)
 
 **Art. 18.** Minister właściwy do spraw gospodarki przeprowadza kontrolę działalności gospodarczej prowadzonej na terenie strefy w zakresie i na zasadach określonych w art. 40 oraz rozdziale 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641 i 803).
 
@@ -270,22 +286,18 @@ Art. 21–23. (pominięte)
 
 - **1)** nie skorzystał z pomocy publicznej, udzielanej zgodnie z ustawą, na podstawie tego zezwolenia – jeśli przedsiębiorca posiada wyłącznie jedno zezwolenie, lub
 - **2)** nie osiągnął przychodów oraz nie korzystał ze zwolnienia w ramach zezwolenia, w rozumieniu ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych lub ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, z inwestycji, na którą zostało wydane zezwolenie – jeśli przedsiębiorca posiada więcej niż jedno zezwolenie, lub
-- **3)** skorzystał z pomocy publicznej udzielonej zgodnie z ustawą i spełnił wszystkie warunki określone w zezwoleniu oraz warunki udzielania pomocy publicznej, o których mowa w przepisach wydanych na podstawie art. 4 ust.
-
-4.
+- **3)** skorzystał z pomocy publicznej udzielonej zgodnie z ustawą i spełnił wszystkie warunki określone w zezwoleniu oraz warunki udzielania pomocy publicznej, o których mowa w przepisach wydanych na podstawie art. 4 ust. 4.
 
 6. Do wniosku, o którym mowa w ust. 5, przedsiębiorca dołącza oświadczenie o nieskorzystaniu z pomocy publicznej, udzielanej zgodnie z ustawą, na podstawie zezwolenia, którego wniosek dotyczy, albo o nieosiągnięciu przychodów z inwestycji, na którą zostało wydane zezwolenie, albo oświadczenie o realizacji warunków udzielenia pomocy publicznej, o których mowa w ust. 5.
 
-7. Oświadczenie, o którym mowa w ust. 6, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
-
-**Art. 19a.** (uchylony)
+7. Oświadczenie, o którym mowa w ust. 6, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań. (uchylony)
 
 **Art. 20.**
 
 1. Minister właściwy do spraw gospodarki może, w drodze rozporządzenia, powierzyć zarządzającemu:
 
 - **1)** (uchylony)
-- **2)** wykonywanie, w jego imieniu, kontroli realizacji warunków zezwolenia – uwzględniając potrzebę zapewnienia właściwego funkcjonowania strefy.
+- **2)** wykonywanie, w jego imieniu, kontroli realizacji warunków zezwolenia uwzględniając potrzebę zapewnienia właściwego funkcjonowania strefy.
 
 1a. (uchylony)
 
@@ -299,9 +311,9 @@ Art. 21–23. (pominięte)
 
 **Art. 24.**
 
-1. Z dniem wejścia w życie przepisów, o których mowa w art. 4 ust. 1, minister właściwy do spraw Skarbu Państwa przejmuje czynności i uprawnienia w stosunku do spółki ustanowionej zarządzającym, wykonywane przed tym dniem w imieniu Skarbu Państwa przez inny organ administracji rządowej, z tym że o udostępnieniu akcji lub udziałów należących do Skarbu Państwa takiej spółki, powstałej z przekształcenia przedsiębiorstwa państwowego na podstawie ustawy z dnia 13 lipca 1990 r. o prywatyzacji przedsiębiorstw państwowych (Dz. U. poz. 298, z późn. zm. ) , postanawia minister właściwy do spraw Skarbu Państwa, po zasięgnięciu opinii ministra właściwego do spraw gospodarki.
+1. Z dniem wejścia w życie przepisów, o których mowa w art. 4 ust. 1, minister właściwy do spraw Skarbu Państwa przejmuje czynności i uprawnienia w stosunku do spółki ustanowionej zarządzającym, wykonywane przed tym dniem w imieniu Skarbu Państwa przez inny organ administracji rządowej, z tym że o udostępnieniu akcji lub udziałów należących do Skarbu Państwa takiej spółki, powstałej z przekształcenia przedsiębiorstwa państwowego na podstawie ustawy z dnia 13 lipca 1990 r. o prywatyzacji przedsiębiorstw państwowych (Dz. U. poz. 298, z późn. zm.), postanawia minister właściwy do spraw Skarbu Państwa, po zasięgnięciu opinii ministra właściwego do spraw gospodarki.
 
-2. Do powstałej na podstawie ustawy o prywatyzacji przedsiębiorstw państwowych spółki będącej zarządzającym nie stosuje się art. 17, art. 19 ust. 1 zdanie drugie, art. 23 ust. 1–3, art. 24, 28 i 29 ustawy o prywatyzacji przedsiębiorstw państwowych .
+2. Do powstałej na podstawie ustawy o prywatyzacji przedsiębiorstw państwowych spółki będącej zarządzającym nie stosuje się art. 17, art. 19 ust. 1 zdanie drugie, art. 23 ust. 1–3, art. 24, 28 i 29 ustawy o prywatyzacji przedsiębiorstw państwowych.
 
 3. Organ administracji rządowej właściwy w sprawach gospodarki gruntami w odniesieniu do gruntów stanowiących własność Skarbu Państwa lub wójt (burmistrz, prezydent miasta) w odniesieniu do gruntów stanowiących własność gminy może wnieść do spółki będącej zarządzającym prawo własności gruntów, których użytkownikiem wieczystym jest ta spółka, lub gruntów, które pozostawały w użytkowaniu wieczystym przedsiębiorstwa państwowego likwidowanego w celu wniesienia przedsiębiorstwa lub zorganizowanej części mienia przedsiębiorstwa do spółki. Wniesienie prawa własności gruntów, które pozostawały w użytkowaniu wieczystym likwidowanego przedsiębiorstwa państwowego, następuje w porozumieniu z organem założycielskim przedsiębiorstwa. W przypadkach określonych w niniejszym ustępie prawo użytkowania wieczystego wygasa z chwilą wniesienia prawa własności gruntu do spółki będącej zarządzającym.
 
@@ -309,9 +321,10 @@ Art. 21–23. (pominięte)
 
 1. Zarządzający jest zwolniony od opłaty skarbowej z tytułu nabycia lub zbycia praw do nieruchomości położonych na terenie strefy.
 
-2. (uchylony)
+2. (uchylony) Rada Ministrów przedstawia Sejmowi informację o realizacji ustawy, wraz ze sprawozdaniem z wykonania budżetu.
 
-**Art. 26.** Rada Ministrów przedstawia Sejmowi informację o realizacji ustawy, wraz ze sprawozdaniem z wykonania budżetu.
+**Art. 27.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem przepisu art. 15, który wchodzi w życie z dniem 1 stycznia 1995 r.
 
-**Art. 27.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia , z wyjątkiem przepisu art. 15, który wchodzi w życie z dniem 1 stycznia 1995 r.
+- **1)** Ze zmianą wprowadzoną przez art. 4 pkt 1 ustawy z dnia 14 kwietnia 2023 r. o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, ustawy o obligacjach, ustawy o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji oraz niektórych innych ustaw (Dz. U. poz. 825); wszedł w życie z dniem 13 maja 2023 r. 2) Dodany przez art. 4 pkt 2 lit. a ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 13 maja 2023 r. 3) Ze zmianą wprowadzoną przez art. 4 pkt 2 lit. b ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 13 maja 2023 r. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2640 i 2745 oraz z 2023 r. poz. 185, 326, 412, 825, 1059 i 1130. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2687 i 2745 oraz z 2023 r. poz. 28, 185, 326, 605, 641, 658, 825, 1059, 1114 i 1130. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1990 r. poz. 498, z 1991 r. poz. 253 i 480, z 1994 r. poz. 591 i 685 oraz z 1996 r. poz. 405 i 496. 7) Ustawa utraciła moc z dniem 8 kwietnia 1997 r. na podstawie art. 74 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji przedsiębiorstw państwowych (Dz. U. poz. 561 i 775), która weszła w życie z dniem 8 kwietnia 1997 r. 8) Ustawa została ogłoszona w dniu 23 listopada 1994 r.
+
 

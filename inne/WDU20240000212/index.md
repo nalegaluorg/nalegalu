@@ -8,10 +8,10 @@ pos: 212
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Warszawa, dnia 19 lutego 2024 r.
+# Obwieszczenie Prezesa Rady Ministrówz dnia 13 lutego 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów w sprawie krajowej sieci obszarów wiejskich
 
 | Pole | Wartość |
 |---|---|
@@ -25,66 +25,162 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000212) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/212/text.pdf) |
 
-OBWIESZCZENIE PREZESA RADY MINISTRÓW dnia 13 lutego 2024 r.
-sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów sprawie krajowej sieci obszarów wiejskich
-1. Na podstawie art. 16 ust. 3 ustawy dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów dnia 18 marca 2009 r. sprawie krajowej sieci obszarów wiejskich (Dz. U. poz. 436), uwzględnieniem zmian wprowadzonych rozporządzeniem Prezesa Rady Ministrów dnia 28 września 2012 r. zmieniającym rozporządzenie sprawie krajowej sieci obszarów wiejskich (Dz. U. poz. 1111).
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje 2 rozporządzenia Prezesa Rady Ministrów dnia 28 września 2012 r. zmieniającego rozporządzenie sprawie krajowej sieci obszarów wiejskich (Dz. U. poz. 1111), który stanowi: „§ 2. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.”.
-Prezes Rady Ministrów: D. Tusk sprawie krajowej sieci obszarów wiejskich Na podstawie art. 37a ust. 7 ustawy dnia 7 marca 2007 r. wspieraniu rozwoju obszarów wiejskich udziałem środków Europejskiego Funduszu Rolnego rzecz Rozwoju Obszarów Wiejskich Programu Rozwoju Obszarów Wiejskich lata 2007–2013 (Dz. U. 2023 r. poz. 1105) zarządza się, co następuje:
-1. Rozporządzenie określa:
-1) szczegółowy zakres zadań Sekretariatu Centralnego i sekretariatów regionalnych krajowej sieci obszarów wiejskich (KSOW) oraz sposób ich wykonywania;
-2) zakres i sposób przygotowywania planu działania, którym art. 68 ust. 2 lit. b rozporządzenia Rady (WE) nr 1698/2005 dnia 20 września 2005 r. sprawie wsparcia rozwoju obszarów wiejskich Europejski Fundusz Rolny rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 21.10.2005, str. 1, późn. zm.) , zwanego dalej „planem działania”.
-2. Do zadań Sekretariatu Centralnego, oprócz zadań wymienionych art. 37a ust. 3 ustawy dnia 7 marca 2007 r.
-wspieraniu rozwoju obszarów wiejskich udziałem środków Europejskiego Funduszu Rolnego rzecz Rozwoju Obszarów Wiejskich Programu Rozwoju Obszarów Wiejskich lata 2007–2013 , zwanej dalej „ustawą”, należy szczególności:
-1) identyfikacja podmiotów ogólnokrajowym zasięgu działania, którymi współpracuje się KSOW;
-2) zapewnienie KSOW wymiany informacji i doświadczeń rozwoju obszarów wiejskich;
-3) sporządzenie planu działania i jego realizacja we współpracy sekretariatami regionalnymi;
-4) współpraca komitetem koordynacyjnym Europejskiej Sieci rzecz Rozwoju Obszarów Wiejskich, którym art. ust. decyzji Komisji 2008/168/WE dnia 20 lutego 2008 r. ustanawiającej strukturę organizacyjną Europejskiej Sieci rzecz Rozwoju Obszarów Wiejskich (Dz. Urz. UE L 56 29.02.2008, str. 31) , oraz współpraca międzynarodowa krajowymi sieciami rozwoju obszarów wiejskich funkcjonującymi innych państwach członkowskich Unii Europejskiej i współpraca międzynarodowa innymi podmiotami;
-5) zapewnienie obsługi administracyjnej i technicznej organu opiniodawczo-doradczego, którym art. 37a ust. 6 ustawy, zwanego dalej „grupą roboczą”;
-6) koordynowanie przygotowania sprawozdania realizacji planu działania zakresie dotyczącym poszczególnych województw oraz sporządzenie sprawozdania realizacji planu działania;
-7) współudział kontroli działań realizowanych planie działania województwie.
-4) współpraca jednostkami odpowiadającymi sekretariatom regionalnym KSOW innych państwach członkowskich Unii Europejskiej i innymi podmiotami;
-5) przygotowanie sprawozdania realizacji planu działania zakresie dotyczącym poszczególnych województw;
-6) zapewnienie obsługi administracyjnej i technicznej organu opiniodawczo-doradczego, którym art. 37a ust. 6a ustawy, zwanego dalej „wojewódzką grupą roboczą”.
+Treść obwieszczenia
+Załącznik – Tekst jednolity rozporządzenia Prezesa Rady Ministrów z dnia 18 marca 2009 r. w sprawie krajowej sieci obszarów wiejskich
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 18 marca 2009 r. w sprawie krajowej sieci obszarów wiejskich (Dz. U. poz. 436), z uwzględnieniem zmian wprowadzonych rozporządzeniem Prezesa Rady Ministrów z dnia 28 września 2012 r. zmieniającym rozporządzenie w sprawie krajowej sieci obszarów wiejskich (Dz. U. poz. 1111).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 28 września 2012 r. zmieniającego rozporządzenie w sprawie krajowej sieci obszarów wiejskich (Dz. U. poz. 1111), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+” .
+Załącznik – Tekst jednolity rozporządzenia Prezesa Rady Ministrów z dnia 18 marca 2009 r. w sprawie krajowej sieci obszarów wiejskich
+Na podstawie art. 37a ust. 7 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2023 r. poz. 1105) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+szczegółowy zakres zadań Sekretariatu Centralnego i sekretariatów regionalnych w ramach krajowej sieci obszarów wiejskich (KSOW) oraz sposób ich wykonywania;
+2)
+zakres i sposób przygotowywania planu działania, o którym mowa w art. 68 ust. 2 lit. b rozporządzenia Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.), zwanego dalej „planem działania”.
+§ 2.
+Do zadań Sekretariatu Centralnego, oprócz zadań wymienionych w art. 37a ust. 3 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013, zwanej dalej „ustawą”, należy w szczególności:
+1)
+identyfikacja podmiotów o ogólnokrajowym zasięgu działania, z którymi współpracuje się w ramach KSOW;
+2)
+zapewnienie w ramach KSOW wymiany informacji i doświadczeń na temat rozwoju obszarów wiejskich;
+3)
+sporządzenie planu działania i jego realizacja we współpracy z sekretariatami regionalnymi;
+4)
+współpraca z komitetem koordynacyjnym Europejskiej Sieci na rzecz Rozwoju Obszarów Wiejskich, o którym mowa w art. 1 ust. 1 decyzji Komisji 2008/168/WE z dnia 20 lutego 2008 r. ustanawiającej strukturę organizacyjną Europejskiej Sieci na rzecz Rozwoju Obszarów Wiejskich (Dz. Urz. UE L 56 z 29.02.2008, str. 31), oraz współpraca międzynarodowa z krajowymi sieciami rozwoju obszarów wiejskich funkcjonującymi w innych państwach członkowskich Unii Europejskiej i współpraca międzynarodowa z innymi podmiotami;
+5)
+zapewnienie obsługi administracyjnej i technicznej organu opiniodawczo-doradczego, o którym mowa w art. 37a ust. 6 ustawy, zwanego dalej „grupą roboczą”;
+6)
+koordynowanie przygotowania sprawozdania z realizacji planu działania w zakresie dotyczącym poszczególnych województw oraz sporządzenie sprawozdania z realizacji planu działania;
+7)
+współudział w kontroli działań realizowanych w planie działania w województwie.
+§ 3.
+Do zadań sekretariatu regionalnego, oprócz zadań wymienionych w art. 37a ust. 4 ustawy, należy w szczególności:
+1)
+identyfikacja podmiotów, z którymi współpracuje się w ramach KSOW w województwie;
+2)
+zapewnienie w ramach KSOW w województwie wymiany informacji i doświadczeń na temat rozwoju obszarów wiejskich;
+3)
+współpraca z Sekretariatem Centralnym i innymi sekretariatami regionalnymi w zakresie realizacji planu działania;
+4)
+współpraca z jednostkami odpowiadającymi sekretariatom regionalnym KSOW w innych państwach członkowskich Unii Europejskiej i innymi podmiotami;
+5)
+przygotowanie sprawozdania z realizacji planu działania w zakresie dotyczącym poszczególnych województw;
+6)
+zapewnienie obsługi administracyjnej i technicznej organu opiniodawczo-doradczego, o którym mowa w art. 37a ust. 6a ustawy, zwanego dalej „wojewódzką grupą roboczą”.
+§ 4.
 Realizację zadań:
-1) Sekretariatu Centralnego zapewnia komórka organizacyjna wchodząca skład urzędu obsługującego ministra właściwego do spraw rozwoju wsi;
-2) sekretariatu regionalnego zapewnia komórka organizacyjna wchodząca skład urzędu marszałkowskiego innej wojewódzkiej samorządowej jednostki organizacyjnej.
-5. 1. Centralny oraz sekretariaty regionalne zapewniają wymianę informacji i doświadczeń rozwoju obszarów wiejskich KSOW szczególności przez:
-1) działania edukacyjne, szkoleniowe promocyjne;
-2) opracowanie i publikację materiałów informacyjnych promocyjnych;
-3) przygotowanie i udostępnienie ekspertyz analiz.
-2. Rozpowszechnianie informacji rozwoju obszarów wiejskich KSOW odbywa się również ich umieszczanie stronie internetowej utworzonej tym celu Centralny we współpracy sekretariatami regionalnymi.
-6. 1. Centralny sporządza, we współpracy sekretariatami regionalnymi, listę zidentyfikowanych podmiotów, którymi współpracuje się KSOW.
-2. Listę, której ust. 1, umieszcza się stronie internetowej, której 5 ust. 2, i aktualizuje.
-7. Plan działania zawiera:
-1) wskazanie obejmującego dwa lata okresu, jaki będzie realizowany;
-2) określenie celów i opis następujących działań przewidzianych art. 68 ust. 2 lit. b rozporządzenia Rady (WE) nr 1698/2005 dnia 20 września 2005 r. sprawie wsparcia rozwoju obszarów wiejskich Europejski Fundusz Rolny rzecz Rozwoju Obszarów Wiejskich (EFRROW) i Programie Rozwoju Obszarów Wiejskich lata 2007–2013:
-a) identyfikacja i analiza możliwych do przeniesienia dobrych praktyk zakresie rozwoju obszarów wiejskich oraz przekazanie informacji ich temat,
-b) przeniesienie dobrych praktyk, projektów innowacyjnych oraz organizacja wymiany doświadczeń i know-how,
-c) przygotowanie programów szkoleniowych dla lokalnych grup działania procesie tworzenia, tym wymiana doświadczeń między lokalnymi grupami działania,
-d) zarządzanie siecią: uruchomienie i zarządzanie strukturami KSOW, działania informacyjno-promocyjne KSOW, monitorowanie i ocena KSOW, sowania.
-7a. Plan działania może również zawierać elementy inne niż określone 7, szczególności wskazanie przedsięwzięć realizowanych wspólnie Centralny, sekretariaty regionalne podmioty działające zakresie rozwoju obszarów wiejskich, którymi współpracuje się KSOW, oraz wskazanie, których działań objętych planem działania będą realizowane te przedsięwzięcia.
-8. 1. regionalny przygotowuje projekt planu działania zakresie dotyczącym województwa, określając zadania, jakie będą realizowane poszczególnych działań objętych planem działania, i uwzględniając zalecenia Sekretariatu Centralnego.
-2. Zalecenia, których ust. 1, Centralny przekazuje sekretariatom regionalnym terminie do dnia 30 kwietnia roku poprzedzającego rok rozpoczęcia realizacji planu działania, tym że przypadku powołania grupy roboczej przekazanie takich zaleceń poprzedza zaopiniowanie ich projektu grupę roboczą.
-3. regionalny zasięga opinii projektu planu działania zakresie dotyczącym województwa:
-1) podmiotów działających zakresie rozwoju obszarów wiejskich, którymi współpracuje się KSOW, podając go do publicznej wiadomości stronie internetowej, której 5 ust. 2, stronie internetowej administrowanej urząd marszałkowski,
-2) wojewódzkiej grupy roboczej określając termin ich wyrażenia.
-Po zaopiniowaniu projektu planu działania zakresie dotyczącym województwa podmioty działające zakresie rozwoju obszarów wiejskich, którymi współpracuje się KSOW, oraz wojewódzką grupę roboczą, sekretariat regionalny przyjmuje ten projekt i przekazuje go Sekretariatowi Centralnemu, terminie do dnia 15 października roku poprzedzającego rok rozpoczęcia realizacji tego planu.
-5. Centralny, podstawie projektów planu działania przekazanych sekretariaty regionalne, przygotowuje projekt planu działania, uwzględniając nim również zadania Sekretariatu Centralnego działań objętych tym planem.
-6. (uchylony).
-7. Centralny sporządza plan działania terminie do dnia 30 listopada roku poprzedzającego rok rozpoczęcia realizacji tego planu, tym że przypadku powołania grupy roboczej sporządzenie planu działania poprzedza zaopiniowanie jego projektu grupę roboczą. Plan ten jest następnie niezwłocznie podawany do publicznej wiadomości stronie internetowej, której 5 ust. 2.
-9. 1. Plan działania może być zmieniany.
-2. Do zmiany planu działania przepisy 8 stosuje się odpowiednio.
-10. Sprawozdanie realizacji planu działania zawiera szczególności informacje o:
-1) zrealizowanych i niezrealizowanych działaniach objętych planem działania;
-2) wydatkach poniesionych:
-a) funkcjonowanie struktury KSOW,
-b) realizację planu działania.
-po zaopiniowaniu projektu tego sprawozdania wojewódzką grupę roboczą;
-2) formularzu opracowanym i udostępnionym Centralny.
-3. (uchylony).
-Centralny sporządza sprawozdanie realizacji planu działania terminie do dnia 30 kwietnia roku następującego po roku, którym została zakończona realizacja tego planu, tym że przypadku powołania grupy roboczej sporządzenie sprawozdania realizacji planu działania poprzedza zaopiniowanie jego projektu grupę roboczą. Sprawozdanie to jest następnie niezwłocznie podawane do publicznej wiadomości stronie internetowej, której 5 ust. 2.
-12. 1. Centralny dostosuje zakres planu działania sporządzonego przed dniem wejścia życie rozporządzenia do wymagań określonych 7 terminie 3 miesięcy od dnia wejścia życie tego rozporządzenia.
-2. Plan, którym ust. 1, jest realizowany do dnia 31 grudnia 2009 r.
-13. Realizacja ostatniego planu działania Programu Rozwoju Obszarów Wiejskich lata 2007–2013 kończy się dniem 30 czerwca 2015 r.
-14. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia .
+1)
+Sekretariatu Centralnego – zapewnia komórka organizacyjna wchodząca w skład urzędu obsługującego ministra właściwego do spraw rozwoju wsi;
+2)
+sekretariatu regionalnego – zapewnia komórka organizacyjna wchodząca w skład urzędu marszałkowskiego lub innej wojewódzkiej samorządowej jednostki organizacyjnej.
+§ 5.
+1.
+Sekretariat Centralny oraz sekretariaty regionalne zapewniają wymianę informacji i doświadczeń na temat rozwoju obszarów wiejskich w ramach KSOW w szczególności przez:
+1)
+działania edukacyjne, szkoleniowe lub promocyjne;
+2)
+opracowanie i publikację materiałów informacyjnych lub promocyjnych;
+3)
+przygotowanie i udostępnienie ekspertyz lub analiz.
+2.
+Rozpowszechnianie informacji na temat rozwoju obszarów wiejskich w ramach KSOW odbywa się również przez ich umieszczanie na stronie internetowej utworzonej w tym celu przez Sekretariat Centralny we współpracy z sekretariatami regionalnymi.
+§ 6.
+1.
+Sekretariat Centralny sporządza, we współpracy z sekretariatami regionalnymi, listę zidentyfikowanych podmiotów, z którymi współpracuje się w ramach KSOW.
+2.
+Listę, o której mowa w ust. 1, umieszcza się na stronie internetowej, o której mowa w § 5 ust. 2, i aktualizuje.
+§ 7.
+Plan działania zawiera:
+1)
+wskazanie obejmującego dwa lata okresu, przez jaki będzie realizowany;
+2)
+określenie celów i opis następujących działań przewidzianych w art. 68 ust. 2 lit. b rozporządzenia Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i Programie Rozwoju Obszarów Wiejskich na lata 2007–2013:
+a)
+identyfikacja i analiza możliwych do przeniesienia dobrych praktyk w zakresie rozwoju obszarów wiejskich oraz przekazanie informacji na ich temat,
+b)
+przeniesienie dobrych praktyk, projektów innowacyjnych oraz organizacja wymiany doświadczeń i know-how,
+c)
+przygotowanie programów szkoleniowych dla lokalnych grup działania w procesie tworzenia, w tym wymiana doświadczeń między lokalnymi grupami działania,
+d)
+zarządzanie siecią:
+– uruchomienie i zarządzanie strukturami KSOW,
+– działania informacyjno-promocyjne KSOW,
+– monitorowanie i ocena KSOW,
+e)
+pomoc techniczna dla współpracy międzyterytorialnej i transnarodowej,
+f)
+wspieranie współpracy międzyinstytucjonalnej, w tym międzynarodowej,
+g)
+wymiana wiedzy oraz ocena polityki w zakresie rozwoju obszarów wiejskich;
+3)
+harmonogram realizacji działań objętych planem działania w ujęciu kwartalnym;
+4)
+plan finansowy z podziałem na poszczególne działania objęte planem działania, w tym wskazanie szacunkowych kwot i łącznej wartości realizacji wszystkich zadań zaplanowanych w ramach poszczególnych działań oraz źródła ich finansowania.
+§ 7a.
+Plan działania może również zawierać elementy inne niż określone w § 7, w szczególności wskazanie przedsięwzięć realizowanych wspólnie przez Sekretariat Centralny, sekretariaty regionalne lub podmioty działające w zakresie rozwoju obszarów wiejskich, z którymi współpracuje się w ramach KSOW, oraz wskazanie, w ramach których działań objętych planem działania będą realizowane te przedsięwzięcia.
+§ 8.
+1.
+Sekretariat regionalny przygotowuje projekt planu działania w zakresie dotyczącym województwa, określając zadania, jakie będą realizowane w ramach poszczególnych działań objętych planem działania, i uwzględniając zalecenia Sekretariatu Centralnego.
+2.
+Zalecenia, o których mowa w ust. 1, Sekretariat Centralny przekazuje sekretariatom regionalnym w terminie do dnia 30 kwietnia roku poprzedzającego rok rozpoczęcia realizacji planu działania, z tym że w przypadku powołania grupy roboczej przekazanie takich zaleceń poprzedza zaopiniowanie ich projektu przez grupę roboczą.
+3.
+Sekretariat regionalny zasięga opinii na temat projektu planu działania w zakresie dotyczącym województwa:
+1)
+podmiotów działających w zakresie rozwoju obszarów wiejskich, z którymi współpracuje się w ramach KSOW, podając go do publicznej wiadomości na stronie internetowej, o której mowa w § 5 ust. 2, lub na stronie internetowej administrowanej przez urząd marszałkowski,
+2)
+wojewódzkiej grupy roboczej
+określając termin ich wyrażenia.
+4.
+Po zaopiniowaniu projektu planu działania w zakresie dotyczącym województwa przez podmioty działające w zakresie rozwoju obszarów wiejskich, z którymi współpracuje się w ramach KSOW, oraz przez wojewódzką grupę roboczą, sekretariat regionalny przyjmuje ten projekt i przekazuje go Sekretariatowi Centralnemu, w terminie do dnia 15 października roku poprzedzającego rok rozpoczęcia realizacji tego planu.
+5.
+Sekretariat Centralny, na podstawie projektów planu działania przekazanych przez sekretariaty regionalne, przygotowuje projekt planu działania, uwzględniając w nim również zadania Sekretariatu Centralnego w ramach działań objętych tym planem.
+6.
+(uchylony).
+7.
+Sekretariat Centralny sporządza plan działania w terminie do dnia 30 listopada roku poprzedzającego rok rozpoczęcia realizacji tego planu, z tym że w przypadku powołania grupy roboczej sporządzenie planu działania poprzedza zaopiniowanie jego projektu przez grupę roboczą. Plan ten jest następnie niezwłocznie podawany do publicznej wiadomości na stronie internetowej, o której mowa w § 5 ust. 2.
+§ 9.
+1.
+Plan działania może być zmieniany.
+2.
+Do zmiany planu działania przepisy § 8 stosuje się odpowiednio.
+§ 10.
+Sprawozdanie z realizacji planu działania zawiera w szczególności informacje o:
+1)
+zrealizowanych i niezrealizowanych działaniach objętych planem działania;
+2)
+wydatkach poniesionych:
+a)
+na funkcjonowanie struktury KSOW,
+b)
+na realizację planu działania.
+§ 11.
+1.
+Sekretariat Centralny przygotowuje projekt sprawozdania z realizacji planu działania na podstawie projektów sprawozdań z realizacji tego planu w zakresie dotyczącym poszczególnych województw, uwzględniając w nim również informacje, o których mowa w § 10, odnoszące się do zadań realizowanych przez Sekretariat Centralny.
+2.
+Projekt sprawozdania z realizacji planu działania w zakresie dotyczącym województwa sekretariat regionalny przekazuje Sekretariatowi Centralnemu:
+1)
+w terminie do ostatniego dnia lutego roku następującego po roku, w którym została zakończona realizacja tego planu, po zaopiniowaniu projektu tego sprawozdania przez wojewódzką grupę roboczą;
+2)
+na formularzu opracowanym i udostępnionym przez Sekretariat Centralny.
+3.
+(uchylony).
+4.
+Sekretariat Centralny sporządza sprawozdanie z realizacji planu działania w terminie do dnia 30 kwietnia roku następującego po roku, w którym została zakończona realizacja tego planu, z tym że w przypadku powołania grupy roboczej sporządzenie sprawozdania z realizacji planu działania poprzedza zaopiniowanie jego projektu przez grupę roboczą. Sprawozdanie to jest następnie niezwłocznie podawane do publicznej wiadomości na stronie internetowej, o której mowa w § 5 ust. 2.
+§ 12.
+1.
+Sekretariat Centralny dostosuje zakres planu działania sporządzonego przed dniem wejścia w życie rozporządzenia do wymagań określonych w § 7 w terminie 3 miesięcy od dnia wejścia w życie tego rozporządzenia.
+2.
+Plan, o którym mowa w ust. 1, jest realizowany do dnia 31 grudnia 2009 r.
+§ 13.
+Realizacja ostatniego planu działania w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 kończy się z dniem 30 czerwca 2015 r.
+§ 14.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+1) Tytuł ustawy zmieniony przez art. 65 pkt 1 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 349), która weszła w życie z dniem 15 marca 2015 r. 2) Rozporządzenie utraciło moc z dniem 1 stycznia 2014 r. na podstawie art. 88 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.). 3) Decyzja utraciła moc z dniem 24 listopada 2014 r. na podstawie art. 11 decyzji wykonawczej Komisji 2014/825/UE z dnia 20 listopada 2014 r. określającej strukturę organizacyjną i zasady funkcjonowania europejskiej sieci na rzecz rozwoju obszarów wiejskich i sieci europejskiego partnerstwa innowacyjnego oraz uchylającej decyzję 2008/168/WE (Dz. Urz. UE L 334 z 21.11.2014, str. 98). 4) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 28 września 2012 r. zmieniającego rozporządzenie w sprawie krajowej sieci obszarów wiejskich (Dz. U. poz. 1111), które weszło w życie z dniem 24 października 2012 r. 5) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 4. 6) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 4. 7) Dodany przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 4. 8) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4. 9) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4. 10) W brzmieniu ustalonym przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 4. 11) Przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 4. 12) W brzmieniu ustalonym przez § 1 pkt 5 lit. c rozporządzenia, o którym mowa w odnośniku 4. 13) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 4. 14) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 4. 15) W brzmieniu ustalonym przez § 1 pkt 8 lit. a rozporządzenia, o którym mowa w odnośniku 4. 16) Przez § 1 pkt 8 lit. b rozporządzenia, o którym mowa w odnośniku 4. 17) W brzmieniu ustalonym przez § 1 pkt 8 lit. c rozporządzenia, o którym mowa w odnośniku 4. 18) Rozporządzenie zostało ogłoszone w dniu 1 kwietnia 2009 r.
 

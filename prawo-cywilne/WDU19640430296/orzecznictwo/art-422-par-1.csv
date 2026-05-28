@@ -100,8 +100,6 @@ saos_id|date|court|case_number|type|score|saos_url
 76484|1994-03-29|SN|III ARN 4/94|Wyrok|78|https://www.saos.org.pl/judgments/76484
 76464|1994-02-24|SN|III ARN 3/94|Wyrok|78|https://www.saos.org.pl/judgments/76464
 76458|1994-02-16|SN|III ARN 1/94|Wyrok|78|https://www.saos.org.pl/judgments/76458
-97120|2012-02-10|SN|II PK 180/11|Postanowienie|69|https://www.saos.org.pl/judgments/97120
-94453|2011-03-18|SN|III CSK 31/11|Postanowienie|69|https://www.saos.org.pl/judgments/94453
 77237|1996-09-04|SN|III ARN 38/96|Postanowienie|69|https://www.saos.org.pl/judgments/77237
 77234|1996-09-04|SN|III ARN 33/96|Postanowienie|69|https://www.saos.org.pl/judgments/77234
 76973|1995-10-18|SN|III ARN 45/95|Postanowienie|69|https://www.saos.org.pl/judgments/76973
@@ -114,6 +112,3 @@ saos_id|date|court|case_number|type|score|saos_url
 76635|1994-09-21|SN|III ARN 43/94|Postanowienie|69|https://www.saos.org.pl/judgments/76635
 76597|1994-07-14|SN|I PRN 47/94|Postanowienie|69|https://www.saos.org.pl/judgments/76597
 76579|1994-06-23|SN|III ARN 39/94|Postanowienie|69|https://www.saos.org.pl/judgments/76579
-364636|2018-05-17|SO|VII AGa 565/18|Wyrok|56|https://www.saos.org.pl/judgments/364636
-335342|2017-12-13|SO|I ACa 642/17|Wyrok|56|https://www.saos.org.pl/judgments/335342
-19922|2013-07-25|SO|V ACa 252/13|Wyrok|56|https://www.saos.org.pl/judgments/19922

@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o rozwoju lokalnym z udziałem lokalnej społeczności
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 lutego 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 lutego 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,12 +25,20 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-02-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000182) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/182/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 lutego 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o rozwoju lokalnym z udziałem lokalnej społeczności
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 lutego 2015 r. o rozwoju lokalnym z udziałem lokalnej społeczności (Dz. U. z 2023 r. poz. 1554), z uwzględnieniem zmian wprowadzonych ustawą z dnia 11 października 2024 r. o zmianie ustawy o rozwoju lokalnym z udziałem lokalnej społeczności (Dz. U. poz. 1672) oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 stycznia 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 i art. 3 ustawy z dnia 11 października 2024 r. o zmianie ustawy o rozwoju lokalnym z udziałem lokalnej społeczności (Dz. U. poz. 1672), które stanowią: „Art. 2. W przypadku rozwiązania umowy, o której mowa w art. 5 ust. 3 pkt 1a ustawy zmienianej w art. 1, przed dniem wejścia w życie niniejszej ustawy termin określony w art. 14a ustawy zmienianej w art. 1 liczy się od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 20 lutego 2015 r. o rozwoju lokalnym z udziałem lokalnej społeczności
 
 **Art. 1.** Ustawa określa:
+
+- **1)** zadania oraz właściwość organów w zakresie określonym w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającym wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej (Dz. Urz. UE L 231 z 30.06.2021, str. 159, z późn. zm. ), zwanym dalej „rozporządzeniem 2021/1060”, w odniesieniu do rozwoju lokalnego kierowanego przez społeczność, o którym mowa w tytule III w rozdziale II rozporządzenia 2021/1060, zwanego dalej „rozwojem lokalnym kierowanym przez społeczność”;
+- **2)** zasady:
+    - **a)** organizacji i działania lokalnych grup działania, o których mowa w art. 31 ust. 2 lit. b rozporządzenia 2021/1060, zwanych dalej „LGD”,
+    - **b)** dokonywania wyboru strategii rozwoju lokalnego kierowanego przez społeczność, o których mowa w art. 32 rozporządzenia 2021/1060, zwanych dalej „LSR”,
+    - **c)** udzielania wsparcia z udziałem funduszy, w ramach których jest finansowany rozwój lokalny kierowany przez społeczność, zwanych dalej „EFSI”, wspólne dla wszystkich EFSI w zakresie nieokreślonym w przepisach, o których mowa w pkt 1, lub przewidzianym w tych przepisach do określenia przez państwo członkowskie Unii Europejskiej.
 
 **Art. 1a.** Przepisów ustawy nie stosuje się do programu realizowanego z wykorzystaniem środków Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury.
 
@@ -147,6 +153,9 @@ source: "isap-pdf"
 **Art. 6.** Wyboru LSR dokonuje się na wniosek LGD w ramach konkursu ogłoszonego przez zarząd województwa.
 
 **Art. 7.** Wniosek o wybór LSR składa się do zarządu województwa:
+
+- **1)** na formularzu opracowanym przez ministra właściwego do spraw rozwoju wsi i udostępnionym przez zarząd województwa;
+- **2)** w terminie wskazanym w ogłoszeniu o konkursie na wybór LSR, uzgodnionym przez zarząd województwa z ministrem właściwym do spraw rozwoju wsi.
 
 **Art. 8.**
 
@@ -672,6 +681,10 @@ source: "isap-pdf"
 2. Informacja, o której mowa w ust. 1, zawiera pouczenie o możliwości wniesienia skargi do sądu administracyjnego na zasadach określonych w art. 22h.
 
 **Art. 22g.** Do procedury odwoławczej, o której mowa w art. 22–22f, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, z tym że:
+
+- **1)** stosuje się przepisy dotyczące doręczeń i sposobu obliczania terminów;
+- **2)** w weryfikacji, o której mowa w art. 22c ust. 3, a także w ponownej ocenie, o której mowa w art. 22e ust. 2 pkt 2, nie mogą brać udziału osoby, które były zaangażowane w przygotowanie operacji; w tym zakresie przepisy art. 24 § 1 pkt 1–4, 6 i 7 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego stosuje się odpowiednio;
+- **3)** w rozpatrywaniu protestu nie mogą brać udziału osoby, które były zaangażowane w przygotowanie operacji lub jej ocenę; w tym zakresie przepisy art. 24 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego stosuje się odpowiednio.
 
 **Art. 22h.**
 

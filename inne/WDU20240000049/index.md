@@ -8,10 +8,10 @@ pos: 49
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 stycznia 2024 Poz. 49 OBWIESZCZENIE MINISTRA EDUKACJI dnia 11 stycznia 2024 sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narodowej sprawie sposobu ustalania wynagrodzenia przewodniczących komisji dyscyplinarnych ich zastępców, przewodniczących składów orzekających oraz rzeczników dyscyplinarnych ich zastępców, a także wynagrodzenia obrońcy urzędu
+# Obwieszczenie Ministra Edukacjiz dnia 11 stycznia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narodowej w sprawie sposobu ustalania wysokości wynagrodzenia przewodniczących komisji dyscyplinarnych i ich zastępców, przewodniczących składów orzekających oraz rzeczników dyscyplinarnych i ich zastępców, a także wysokości wynagrodzenia obrońcy z urzędu
 
 | Pole | Wartość |
 |---|---|
@@ -25,20 +25,48 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000049) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/49/text.pdf) |
 
-1. Na podstawie art. 16 ust. 3 ustawy dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych niektórych innych aktów prawnych 2019 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Edukacji Narodowej dnia 9 grudnia 2016 sprawie sposobu ustalania wynagrodzenia przewodniczących komisji dyscyplinarnych ich zastępców, przewodniczących składów orzekających oraz rzeczników dyscyplinarnych ich zastępców, a także wynagrodzenia obrońcy urzędu 2040), uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Edukacji Nauki dnia 23 listopada 2023 zmieniającym rozporządzenie sprawie sposobu ustalania wynagrodzenia przewodniczących komisji dyscyplinarnych ich zastępców, przewodniczących składów orzekających oraz rzeczników dyscyplinarnych ich zastępców, a także wynagrodzenia obrońcy urzędu 2573).
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Edukacji Nauki dnia 23 listopada 2023 zmieniającego rozporządzenie sprawie sposobu ustalania wynagrodzenia przewodniczących komisji dyscyplinarnych ich zastępców, przewodniczących składów orzekających oraz rzeczników dyscyplinarnych ich zastępców, a także wynagrodzenia obrońcy urzędu 2573), który stanowi: „§ 2. Rozporządzenie wchodzi życie dniem 1 stycznia 2024 r.”.
-Minister Edukacji: B. Nowacka Dziennik Ustaw – 2 – Poz. 49 ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ dnia 9 grudnia 2016 sprawie sposobu ustalania wynagrodzenia przewodniczących komisji dyscyplinarnych ich zastępców, przewodniczących składów orzekających oraz rzeczników dyscyplinarnych ich zastępców, a także wynagrodzenia obrońcy urzędu Na podstawie art. 85p ust. 3 ustawy dnia 26 stycznia 1982 – Karta Nauczyciela 2023 984, 1234, 1586, 1672 2005) zarządza się, co następuje: § 1. Przewodniczącemu komisji dyscyplinarnej jego zastępcom przysługuje wynagrodzenie miesięczne od 200 do 900 zł brutto, zależności od liczby rozpoznanych spraw, zakończonych wydaniem orzeczenia lub postanowienia, oraz zawiłości tych spraw.
-§ 2. Przewodniczącemu składu orzekającego komisji dyscyplinarnej przysługuje wynagrodzenie za rozpoznanie sprawy, zakończonej wydaniem orzeczenia lub postanowienia, od 200 do 900 zł brutto, zależności od zawiłości sprawy.
-§ 3. Rzecznikowi dyscyplinarnemu jego zastępcom przysługuje wynagrodzenie za:
-1) przeprowadzenie postępowania wyjaśniającego od 200 do 900 zł brutto,
-2) udział postępowaniu dyscyplinarnym od 200 do 900 zł brutto – zależności od zawiłości sprawy będącej przedmiotem postępowania wyjaśniającego lub postępowania dyscyplinarnego.
-§ 4. Przy ocenie zawiłości rozpoznawanej sprawy bierze się pod uwagę okoliczności faktyczne prawne danej sprawy, uwzględnieniem:
-1) charakteru okoliczności popełnienia czynu uchybiającego godności zawodu nauczyciela lub obowiązkom, o których mowa art. 6 ustawy dnia 26 stycznia 1982 – Karta Nauczyciela;
-2) powagi stawianych zarzutów;
-3) rodzaju proponowanej lub orzeczonej kary dyscyplinarnej;
-4) zakresu dowodów zebranych przeprowadzanych postępowaniu wyjaśniającym postępowaniu dyscyplinarnym.
-§ 5. Obrońcy urzędu przysługuje wynagrodzenie za udział postępowaniu dyscyplinarnym wysokości:
-1) 360 zł – przed komisją dyscyplinarną pierwszej instancji;
-2) 420 zł – przed odwoławczą komisją dyscyplinarną.
-§ 6. Rozporządzenie wchodzi życie dniem 1 stycznia 2017
+Treść obwieszczenia
+Załącznik – Rozporządzenie Ministra Edukacji Narodowej z dnia 9 grudnia 2016 r. w sprawie sposobu ustalania wysokości wynagrodzenia przewodniczących komisji dyscyplinarnych i ich zastępców, przewodniczących składów orzekających oraz rzeczników dyscyplinarnych i ich zastępców, a także wysokości wynagrodzenia obrońcy z urzędu
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Edukacji Narodowej z dnia 9 grudnia 2016 r. w sprawie sposobu ustalania wysokości wynagrodzenia przewodniczących komisji dyscyplinarnych i ich zastępców, przewodniczących składów orzekających oraz rzeczników dyscyplinarnych i ich zastępców, a także wysokości wynagrodzenia obrońcy z urzędu (Dz. U. poz. 2040), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Edukacji i Nauki z dnia 23 listopada 2023 r. zmieniającym rozporządzenie w sprawie sposobu ustalania wysokości wynagrodzenia przewodniczących komisji dyscyplinarnych i ich zastępców, przewodniczących składów orzekających oraz rzeczników dyscyplinarnych i ich zastępców, a także wysokości wynagrodzenia obrońcy z urzędu (Dz. U. poz. 2573).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Edukacji i Nauki z dnia 23 listopada 2023 r. zmieniającego rozporządzenie w sprawie sposobu ustalania wysokości wynagrodzenia przewodniczących komisji dyscyplinarnych i ich zastępców, przewodniczących składów orzekających oraz rzeczników dyscyplinarnych i ich zastępców, a także wysokości wynagrodzenia obrońcy z urzędu (Dz. U. poz. 2573), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2024 r.
+” .
+1) Minister Edukacji kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).
+Załącznik – Rozporządzenie Ministra Edukacji Narodowej z dnia 9 grudnia 2016 r. w sprawie sposobu ustalania wysokości wynagrodzenia przewodniczących komisji dyscyplinarnych i ich zastępców, przewodniczących składów orzekających oraz rzeczników dyscyplinarnych i ich zastępców, a także wysokości wynagrodzenia obrońcy z urzędu
+Na podstawie art. 85p ust. 3 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2023 r. poz. 984, 1234, 1586, 1672 i 2005) zarządza się, co następuje:
+§ 1.
+Przewodniczącemu komisji dyscyplinarnej i jego zastępcom przysługuje wynagrodzenie miesięczne w wysokości od 200 do 900 zł brutto, w zależności od liczby rozpoznanych spraw, zakończonych wydaniem orzeczenia lub postanowienia, oraz zawiłości tych spraw.
+§ 2.
+Przewodniczącemu składu orzekającego komisji dyscyplinarnej przysługuje wynagrodzenie za rozpoznanie sprawy, zakończonej wydaniem orzeczenia lub postanowienia, w wysokości od 200 do 900 zł brutto, w zależności od zawiłości sprawy.
+§ 3.
+Rzecznikowi dyscyplinarnemu i jego zastępcom przysługuje wynagrodzenie za:
+1)
+przeprowadzenie postępowania wyjaśniającego w wysokości od 200 do 900 zł brutto,
+2)
+udział w postępowaniu dyscyplinarnym w wysokości od 200 do 900 zł brutto
+w zależności od zawiłości sprawy będącej przedmiotem postępowania wyjaśniającego lub postępowania dyscyplinarnego.
+§ 4.
+Przy ocenie zawiłości rozpoznawanej sprawy bierze się pod uwagę okoliczności faktyczne i prawne danej sprawy, z uwzględnieniem:
+1)
+charakteru i okoliczności popełnienia czynu uchybiającego godności zawodu nauczyciela lub obowiązkom, o których mowa w art. 6 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela;
+2)
+powagi stawianych zarzutów;
+3)
+rodzaju proponowanej lub orzeczonej kary dyscyplinarnej;
+4)
+zakresu dowodów zebranych i przeprowadzanych w postępowaniu wyjaśniającym i postępowaniu dyscyplinarnym.
+§ 5.
+Obrońcy z urzędu przysługuje wynagrodzenie za udział w postępowaniu dyscyplinarnym w wysokości:
+1)
+360 zł – przed komisją dyscyplinarną pierwszej instancji;
+2)
+420 zł – przed odwoławczą komisją dyscyplinarną.
+§ 6.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
+1) Obecnie działem administracji rządowej – oświata i wychowanie kieruje Minister Edukacji, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717). 2) Ze zmianą wprowadzoną przez § 1 rozporządzenia Ministra Edukacji i Nauki z dnia 23 listopada 2023 r. zmieniającego rozporządzenie w sprawie sposobu ustalania wysokości wynagrodzenia przewodniczących komisji dyscyplinarnych i ich zastępców, przewodniczących składów orzekających oraz rzeczników dyscyplinarnych i ich zastępców, a także wysokości wynagrodzenia obrońcy z urzędu (Dz. U. poz. 2573), które weszło w życie z dniem 1 stycznia 2024 r.
 

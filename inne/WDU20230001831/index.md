@@ -8,12 +8,10 @@ pos: 1831
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o szczególnej opiece geriatrycznej
-
-*USTAWA z dnia 17 sierpnia 2023 r.*
+# Ustawa z dnia 17 sierpnia 2023 r. o szczególnej opiece geriatrycznej
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,9 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2023-08-17 |
 | Data wydania | 2023-09-08 |
+| Wejście w życie | 2024-01-01 |
 | Ostatnia zmiana | 2026-02-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001831) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1831/text.pdf) |
-
-Art. 47–49. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -35,9 +32,13 @@ Art. 47–49. (pominięte)
 
 **Art. 2.** Szczególna opieka geriatryczna jest sprawowana w:
 
+- **1)** szpitalnych oddziałach geriatrycznych wskazanych w wojewódzkim planie działania szczególnej opieki geriatrycznej, zwanym dalej „wojewódzkim planem”;
+- **2)** centrach zdrowia 75+, zwanych dalej „centrami”;
+- **3)** podstawowej opiece zdrowotnej.
+
 **Art. 3.**
 
-1. Do korzystania ze szczególnej opieki geriatrycznej mają prawo osoby uprawnione do korzystania ze świadczeń opieki zdrowotnej finansowanych ze środków publicznych na zasadach określonych w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, 858 i 1222), które ukończyły 75. rok życia, zwane dalej „osobami uprawnionymi”.
+1. Do korzystania ze szczególnej opieki geriatrycznej mają prawo osoby uprawnione do korzystania ze świadczeń opieki zdrowotnej finansowanych ze środków publicznych na zasadach określonych w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm.), które ukończyły 75. rok życia, zwane dalej „osobami uprawnionymi”.
 
 2. Szczególna opieka geriatryczna ma na celu:
 
@@ -51,9 +52,24 @@ Art. 47–49. (pominięte)
 
 **Art. 4.** Użyte w ustawie określenia oznaczają:
 
+- **1)** całościowa ocena geriatryczna – wielowymiarowy, interdyscyplinarny proces diagnostyczny prowadzony w celu identyfikacji problemów zdrowotnych i opiekuńczych, optymalizacji leczenia, planowania opieki zdrowotnej oraz poprawy sprawności funkcjonalnej i jakości życia;
+- **2)** lekarz podstawowej opieki zdrowotnej – lekarza, o którym mowa w art. 6 ust. 1 i 2 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2022 r. poz. 2527);
+- **3)** obszar działania centrum – obszar działania centrum określony w wojewódzkim planie;
+- **4)** opiekun – osobę bliską lub opiekuna faktycznego w rozumieniu ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2023 r. poz. 1545, 1675 i 1692);
+- **5)** pielęgniarka podstawowej opieki zdrowotnej – pielęgniarkę, o której mowa w art. 7 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej;
+- **6)** podmiot leczniczy – podmiot, o którym mowa w art. 4 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2023 r. poz. 991 i 1675);
+- **7)** podmiot wykonujący działalność leczniczą – podmiot, o którym mowa w art. 2 ust. 1 pkt 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
+- **8)** skala VES-13 (Vulnerable Elders Survey 13) – badanie kwestionariuszowe, obejmujące samoocenę stanu zdrowia i wykonywania codziennych czynności, pomagające zidentyfikować osoby o zwiększonym ryzyku znacznego pogorszenia stanu zdrowia i sprawności funkcjonalnej;
+- **9)** świadczenie opieki zdrowotnej – świadczenie opieki zdrowotnej, o którym mowa w art. 5 pkt 34 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **10)** wstępna ocena geriatryczna – badanie przesiewowe przeprowadzone na podstawie wywiadu bezpośredniego, uwzględniające skalę VES-13, badanie fizykalne i badania laboratoryjne, mające na celu stwierdzenie potrzeby objęcia danej osoby szczególną opieką geriatryczną.
+
 #### Rozdział 2 Wykonywanie zadań z zakresu szczególnej opieki geriatrycznej
 
 **Art. 5.** Zadania z zakresu szczególnej opieki geriatrycznej wykonują:
+
+- **1)** minister właściwy do spraw zdrowia;
+- **2)** wojewoda;
+- **3)** powiat.
 
 **Art. 6.**
 
@@ -68,7 +84,16 @@ Art. 47–49. (pominięte)
 
 **Art. 7.** Do zadań wojewody z zakresu szczególnej opieki geriatrycznej należy:
 
+- **1)** sporządzanie projektu wojewódzkiego planu oraz jego aktualizacji;
+- **2)** uzgadnianie z właściwymi powiatami warunków utworzenia centrum;
+- **3)** monitorowanie działalności centrum w zakresie organizacji i dostępności do świadczeń opieki zdrowotnej.
+
 **Art. 8.** Do zadań powiatu z zakresu szczególnej opieki geriatrycznej należy:
+
+- **1)** rozpoznawanie potrzeb zdrowotnych i stanu zdrowia osób, które ukończyły 75. rok życia, zamieszkujących na terenie powiatu;
+- **2)** zgłaszanie propozycji dotyczącej utworzenia i lokalizacji centrum, o której mowa w art. 13 ust. 2;
+- **3)** utworzenie centrum, w przypadku gdy taka potrzeba wynika z wojewódzkiego planu;
+- **4)** zawieranie porozumień, o których mowa w art. 19 ust. 1.
 
 #### Rozdział 3 Wojewódzki plan
 
@@ -106,6 +131,16 @@ Art. 47–49. (pominięte)
 
 **Art. 12.** Przy sporządzaniu wojewódzkiego planu wojewoda bierze pod uwagę:
 
+- **1)** liczbę osób, które ukończyły 60. rok życia zamieszkujących na terenie województwa, ustaloną zgodnie z art. 10 ust. 3;
+- **2)** liczbę osób, które ukończyły 75. rok życia zamieszkujących na terenie poszczególnych powiatów, ustaloną zgodnie z art. 11 ust. 1;
+- **3)** potrzebę zapewnienia równomiernego rozmieszczenia na terenie województwa: oddziałów geriatrycznych, centrów;
+    - **a)**
+    - **b)**
+
+- **4)** potrzebę zapewnienia dostępności świadczeń opieki zdrowotnej udzielanych w: oddziałach geriatrycznych, centrach.
+    - **a)**
+    - **b)**
+
 **Art. 13.**
 
 1. Wojewoda udostępnia informację o rozpoczęciu prac nad sporządzaniem projektu wojewódzkiego planu w Biuletynie Informacji Publicznej urzędu wojewódzkiego.
@@ -114,9 +149,9 @@ Art. 47–49. (pominięte)
 
 3. Zgłoszenie, o którym mowa w ust. 2, zawiera:
 
-- **1)** propozycję lokalizacji centrum:
-    - **a)** wraz ze wskazaniem podmiotu leczniczego, w którym ma ono być utworzone – w przypadku gdy centrum ma zostać utworzone w ramach struktury organizacyjnej istniejącego podmiotu leczniczego, albo
-    - **b)** wraz z informacją, że ma być ono utworzone jako nowy podmiot leczniczy, w formie, o której mowa w art. 6 ust. 2 pkt 1 i 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
+- **1)** propozycję lokalizacji centrum: wraz ze wskazaniem podmiotu leczniczego, w którym ma ono być utworzone – w przypadku gdy centrum ma zostać utworzone w ramach struktury organizacyjnej istniejącego podmiotu leczniczego, albo wraz z informacją, że ma być ono utworzone jako nowy podmiot leczniczy, w formie, o której mowa w art. 6 ust. 2 pkt 1 i 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
+    - **a)**
+    - **b)**
 
 - **2)** propozycję obszaru działania centrum;
 - **3)** liczbę osób, które ukończyły 75. rok życia, zamieszkujących na obszarze, o którym mowa w pkt 2, ustaloną według stanu na dzień 31 grudnia roku poprzedniego.
@@ -195,6 +230,12 @@ Art. 47–49. (pominięte)
 
 **Art. 22.** W centrum wyodrębnia się:
 
+- **1)** poradnię konsultacyjną;
+- **2)** co najmniej jeden dzienny ośrodek opieki geriatrycznej;
+- **3)** geriatryczny zespół opieki domowej;
+- **4)** zespół koordynatorów opieki geriatrycznej;
+- **5)** zespół edukatorów zdrowotnych.
+
 **Art. 23.** W poradni konsultacyjnej zapewnia się udzielanie porad specjalistycznych w zakresie, o którym mowa w art. 20 ust. 2 pkt 1 i 3, porad psychologicznych oraz świadczeń pielęgniarskich.
 
 **Art. 24.**
@@ -243,7 +284,7 @@ Art. 47–49. (pominięte)
 - **5)** wskazówki metodyczne;
 - **6)** standardy dotyczące kadry i bazy dydaktycznej.
 
-4. Program szkolenia opracowuje Centrum Medycznego Kształcenia Podyplomowego, przy udziale ekspertów posiadających doświadczenie zawodowe i dorobek naukowy w zakresie geriatrii.
+4. Program szkolenia opracowuje Centrum Medyczne Kształcenia Podyplomowego, przy udziale ekspertów posiadających doświadczenie zawodowe i dorobek naukowy w zakresie geriatrii.
 
 5. Program, o którym mowa w ust. 4, zatwierdza minister właściwy do spraw zdrowia.
 
@@ -251,7 +292,18 @@ Art. 47–49. (pominięte)
 
 **Art. 29.** Do zadań edukatora zdrowotnego należy prowadzenie różnych form edukacji zdrowotnej dostosowanej do potrzeb pacjentów oraz ich opiekunów, obejmującej:
 
+- **1)** rozpoznawanie potrzeb edukacyjnych i planowanie edukacji zdrowotnej z uwzględnieniem stanu zdrowia pacjenta i warunków środowiskowych, w których funkcjonuje, w celu uzyskania przez niego kompetencji do podejmowania samoopieki;
+- **2)** podnoszenie poziomu wiedzy i umiejętności związanych z korzystaniem z systemu ochrony zdrowia i rozumieniem zasad jego funkcjonowania;
+- **3)** zwiększanie poziomu świadomości w zakresie czynników społecznych i środowiskowych wpływających na zdrowie;
+- **4)** ewaluację samodzielności pacjenta w zakresie kontroli stanu zdrowia, przebiegu choroby oraz zapobiegania jej skutkom, radzenia sobie w sytuacjach trudnych, a także zwiększenia aktywności fizycznej i uczestnictwa w życiu społecznym.
+
 **Art. 30.** W centrum działa punkt informacyjno-recepcyjny, do zadań którego należy w szczególności:
+
+- **1)** informowanie o świadczeniach opieki zdrowotnej udzielanych w centrum oraz zasadach ich udzielania;
+- **2)** informowanie o zasadach korzystania ze świadczeń opieki zdrowotnej finansowanych ze środków publicznych oraz zasadach korzystania ze świadczeń pomocy społecznej i usług społecznych realizowanych przez jednostki organizacyjne pomocy społecznej i centra usług społecznych działające na obszarze działania centrum;
+- **3)** w przypadku osób uprawnionych, które zgłosiły się do centrum bez skierowania lekarza podstawowej opieki zdrowotnej oraz: dokonały wyboru świadczeniodawcy, o którym mowa w art. 9 ust. 1 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej – umówienie, za zgodą osoby uprawnionej, terminu wizyty u tego świadczeniodawcy w celu przeprowadzenia wstępnej oceny geriatrycznej, nie dokonały wyboru świadczeniodawcy, o którym mowa w art. 9 ust. 1 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej – poinformowanie o możliwości wyboru takiego świadczeniodawcy i przeprowadzenia przez niego wstępnej oceny geriatrycznej.
+    - **a)**
+    - **b)**
 
 **Art. 31.**
 
@@ -357,7 +409,7 @@ Art. 47–49. (pominięte)
 
 - **1)** dwóch przedstawicieli ministra właściwego do spraw zdrowia;
 - **2)** dwóch przedstawicieli Prezydenta Rzeczypospolitej Polskiej;
-- **3)** przedstawiciela ministra właściwego do spraw zabezpieczenia społecznego albo Pełnomocnika Rządu do spraw Polityki Senioralnej, o ile został ustanowiony;
+- **3)** przedstawiciela ministra właściwego do spraw zabezpieczenia społecznego;
 - **4)** konsultantów krajowych w dziedzinach: geriatrii, rehabilitacji medycznej, fizjoterapii, psychiatrii, pielęgniarstwa geriatrycznego oraz zdrowia publicznego;
 - **5)** przedstawiciela Prezesa Narodowego Funduszu Zdrowia;
 - **6)** przedstawiciela Narodowego Instytutu Zdrowia Publicznego PZH – Państwowego Instytutu Badawczego;
@@ -367,7 +419,7 @@ Art. 47–49. (pominięte)
 - **10)** przedstawiciela stowarzyszeń będących, zgodnie z postanowieniami ich statutów, towarzystwami naukowymi o zasięgu krajowym, zrzeszającymi specjalistów w dziedzinie geriatrii lub medycyny rodzinnej;
 - **11)** przedstawiciela organizacji zrzeszających pacjentów, do których zadań statutowych należą sprawy dotyczące opieki nad osobami starszymi.
 
-2. Członków Krajowej Rady, o których mowa w ust. 1, powołuje i odwołuje minister właściwy do spraw zdrowia. Członków Rady, o których mowa w ust. 1 pkt 2– 11, minister właściwy do spraw zdrowia powołuje i odwołuje na wniosek podmiotów, których są przedstawicielami.
+2. Członków Krajowej Rady, o których mowa w ust. 1, powołuje i odwołuje minister właściwy do spraw zdrowia. Członków Rady, o których mowa w ust. 1 pkt 2–11, minister właściwy do spraw zdrowia powołuje i odwołuje na wniosek podmiotów, których są przedstawicielami.
 
 3. Członkowie Krajowej Rady, o których mowa w ust. 1 pkt 10 i 11, są powoływani spośród kandydatów wskazanych przez stowarzyszenia i organizacje, o których mowa w ust. 1 pkt 10 i 11, zgłoszonych w terminie 14 dni od dnia udostępnienia na stronie podmiotowej Biuletynu Informacji Publicznej urzędu obsługującego ministra właściwego do spraw zdrowia ogłoszenia o naborze przedstawicieli takich stowarzyszeń i organizacji na członków Rady.
 
@@ -407,6 +459,31 @@ Art. 47–49. (pominięte)
 
 #### Rozdział 10 Zmiany w przepisach, przepisy dostosowujące i przepis końcowy
 
+**Art. 47.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2023 r. poz. 1516 i 1617) w art. 29 w ust. 4 pkt 3 otrzymuje brzmienie: „
+
+- **3)** dyrektor instytutu badawczego nadzorowanego przez ministra właściwego do spraw zdrowia, dyrektor państwowego instytutu badawczego uczestniczącego w systemie ochrony zdrowia i nadzorowanego przez Ministra Obrony Narodowej, dyrektor Państwowego Instytutu Medycznego Ministerstwa Spraw Wewnętrznych i Administracji lub dyrektor instytutu Polskiej Akademii Nauk należącego do Wydziału Nauk Medycznych. ” .
+
+**Art. 48.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** art. 29 otrzymuje brzmienie: „ Świadczeniobiorca ma prawo wyboru świadczeniodawcy udzielającego ambulatoryjnych świadczeń specjalistycznych spośród tych świadczeniodawców, którzy zawarli umowy o udzielanie świadczeń opieki zdrowotnej, z zastrzeżeniem art. 325 i art. 599 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, art. 153 ust. 7a ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080, 1088, 1489 i 1723), art. 115 § 1a Kodeksu karnego wykonawczego, art. 112 ust. 1 i 2 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700 oraz z 2023 r. poz. 289) oraz art. 21 i art. 36 ust. 1 ustawy z dnia 17 sierpnia 2023 r. o szczególnej opiece geriatrycznej (Dz. U. poz. 1831). ” ;
+- **2)** w art. 95d w ust. 2 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „
+- **6)** centrum zdrowia 75+, o którym mowa w ustawie z dnia 17 sierpnia 2023 r. o szczególnej opiece geriatrycznej. ” .
+
+**Art. 49.** W ustawie z dnia 7 października 2020 r. o Funduszu Medycznym (Dz. U. z 2023 r. poz. 1758) wprowadza się następujące zmiany:
+
+- **1)** w art. 7: w pkt 2 po wyrazach „polegającego na” dodaje się wyrazy „budowie,”, w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **9)** dofinansowanie zadania polegającego na budowie, modernizacji, przebudowie lub doposażeniu centrów zdrowia 75+, o których mowa w ustawie z dnia 17 sierpnia 2023 r. o szczególnej opiece geriatrycznej (Dz. U. poz. 1831), w ramach subfunduszu modernizacji podmiotów leczniczych. ” ;
+- **2)** w art. 13 w ust. 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+- **3)** podmiotem leczniczym wykonującym działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenie zdrowotne w zakresie opieka psychiatryczna i leczenie uzależnień, na podstawie umowy z Narodowym Funduszem Zdrowia. ” ;
+- **3)** w art. 19 w ust. 3: w pkt 1 po wyrazach „opiekuńczo-leczniczych” dodaje się przecinek oraz wyrazy „świadczeń z zakresu opieka psychiatryczna i leczenie uzależnień oraz świadczeń z zakresu opieki paliatywnej i hospicyjnej udzielanych w warunkach stacjonarnych”, w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **5)** wsparcie tworzenia centrów zdrowia 75+, o których mowa w ustawie z dnia 17 sierpnia 2023 r. o szczególnej opiece geriatrycznej. ” .
+
 **Art. 50.**
 
 1. Wojewoda rozpoczyna prace nad opracowaniem pierwszego wojewódzkiego planu, udostępniając w Biuletynie Informacji Publicznej urzędu wojewódzkiego informację, o której mowa w art. 13 ust. 1, w terminie 14 dni od dnia wejścia w życie ustawy.
@@ -430,5 +507,5 @@ Art. 47–49. (pominięte)
 
 **Art. 55.** Powiat jest obowiązany do utworzenia centrum, w przypadku gdy wynika to z wojewódzkiego planu, albo do zawarcia porozumienia, o którym mowa w art. 19 ust. 1, nie później niż w terminie 5 lat od dnia wejścia w życie ustawy.
 
-**Art. 56.** Ustawa wchodzi w życie z dniem 1 stycznia 2024 r., z wyjątkiem art. 47, art. 49 pkt 1 lit. a, pkt 2 i 3 lit. a, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia .
+**Art. 56.** Ustawa wchodzi w życie z dniem 1 stycznia 2024 r., z wyjątkiem art. 47, art. 49 pkt 1 lit. a, pkt 2 i 3 lit. a, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
 

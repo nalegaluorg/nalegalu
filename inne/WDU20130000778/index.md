@@ -8,12 +8,10 @@ pos: 778
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o uchyleniu ustawy o przekształceniu własnościowym przedsiębiorstwa państwowego Polskie Linie Lotnicze „LOT”
-
-*USTAWA z dnia 10 maja 2013 r.*
+# Ustawa z dnia 10 maja 2013 r. o uchyleniu ustawy o przekształceniu własnościowym przedsiębiorstwa państwowego Polskie Linie Lotnicze „LOT”
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2013-05-10 |
 | Data wydania | 2013-07-05 |
+| Wejście w życie | 2013-07-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000778) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/778/text.pdf) |
 

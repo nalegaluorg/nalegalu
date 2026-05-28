@@ -8,12 +8,10 @@ pos: 1994
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zawodzie fizjoterapeuty
-
-*USTAWA z dnia 25 września 2015 r.*
+# Ustawa z dnia 25 września 2015 r. o zawodzie fizjoterapeuty
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-25 |
 | Data wydania | 2015-11-30 |
+| Wejście w życie | 2016-05-31 |
 | Ostatnia zmiana | 2026-05-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001994) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1994/text.pdf) |
 
@@ -67,12 +66,11 @@ source: "isap-pdf"
 - **2)** kwalifikowaniu, planowaniu i prowadzeniu fizykoterapii;
 - **3)** kwalifikowaniu, planowaniu i prowadzeniu kinezyterapii;
 - **4)** kwalifikowaniu, planowaniu i prowadzeniu masażu;
-- **5)** zlecaniu wyrobów medycznych, zgodnie z przepisami wydanymi na podstawie art. 38 ust. 4 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2026 r. poz. 253);
+- **5)** zlecaniu wyrobów medycznych, zgodnie z przepisami wydanymi na podstawie art. 38 ust. 4 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2015 r. poz. 345, 1830 i 1991);
 - **6)** dobieraniu do potrzeb pacjenta wyrobów medycznych;
 - **7)** nauczaniu pacjentów posługiwania się wyrobami medycznymi;
 - **8)** prowadzeniu działalności fizjoprofilaktycznej, polegającej na popularyzowaniu zachowań prozdrowotnych oraz kształtowaniu i podtrzymywaniu sprawności i wydolności osób w różnym wieku w celu zapobiegania niepełnosprawności;
 - **9)** wydawaniu opinii i orzeczeń odnośnie do stanu funkcjonalnego osób poddawanych fizjoterapii oraz przebiegu procesu fizjoterapii;
-- **9a)** wydawaniu orzeczeń w sprawach rehabilitacji leczniczej w ramach prewencji rentowej, o której mowa w art. 69 ust. 1 pkt 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2026 r. poz. 199, 252, 426, 473 i 507);
 - **10)** nauczaniu pacjentów mechanizmów kompensacyjnych i adaptacji do zmienionego potencjału funkcji ciała i aktywności.
 
 3. Za wykonywanie zawodu fizjoterapeuty uważa się również:
@@ -80,27 +78,18 @@ source: "isap-pdf"
 - **1)** nauczanie zawodu fizjoterapeuty oraz wykonywanie pracy na rzecz doskonalenia zawodowego fizjoterapeutów;
 - **2)** prowadzenie prac naukowo-badawczych w zakresie fizjoterapii;
 - **3)** kierowanie pracą zawodową osób wykonujących zawód fizjoterapeuty;
-- **4)** zatrudnienie na stanowiskach administracyjnych, na których wykonuje się czynności związane z przygotowywaniem, organizowaniem lub nadzorem nad udzielaniem świadczeń opieki zdrowotnej;
-- **5)** wykonywanie czynności zawodowych określonych w ust. 2 niebędących świadczeniami zdrowotnymi w rozumieniu art. 2 ust. 1 pkt 10 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2026 r. poz. 156) w podmiocie, który nie jest podmiotem wykonującym działalność leczniczą.
+- **4)** zatrudnienie na stanowiskach administracyjnych, na których wykonuje się czynności związane z przygotowywaniem, organizowaniem lub nadzorem nad udzielaniem świadczeń opieki zdrowotnej.
 
 4. Świadczeń zdrowotnych, o których mowa w ust. 2, udziela samodzielnie fizjoterapeuta posiadający tytuł:
 
-- **1)** magistra uzyskany w sposób, o którym mowa w art. 13 ust. 3 pkt 1 i 1a;
+- **1)** magistra uzyskany w sposób, o którym mowa w art. 13 ust. 3 pkt 1;
 - **2)** magistra uzyskany w sposób, o którym mowa w art. 13 ust. 3 pkt 2–7, oraz co najmniej 3-letnie doświadczenie w zawodzie fizjoterapeuty;
 - **3)** licencjata uzyskany w sposób, o którym mowa w art. 13 ust. 3 pkt 2 lub 3, oraz co najmniej 6-letnie doświadczenie w zawodzie fizjoterapeuty;
 - **4)** zawodowy technika fizjoterapii uzyskany w sposób, o którym mowa w art. 13 ust. 3 pkt 8, oraz co najmniej 6-letnie doświadczenie w zawodzie fizjoterapeuty.
 
-4a. Fizjoterapeuta nieposiadający okresu doświadczenia w zawodzie określonego w ust. 4 pkt 2–4 może udzielać świadczeń zdrowotnych w zakresie wynikającym z posiadanego tytułu zawodowego, wyłącznie na podstawie skierowania lekarza albo innego fizjoterapeuty posiadającego prawo samodzielnego udzielania świadczeń zdrowotnych z zakresu fizjoterapii.
-
 5. Fizjoterapeuta, o którym mowa w ust. 4 pkt 3 i 4, nie może kwalifikować do fizykoterapii i kinezyterapii oraz udzielać świadczeń zdrowotnych określonych w ust. 2 pkt 5 i 9.
 
-6. Fizjoterapeuta może wykonywać zawód:
-
-- **1)** na podstawie umowy o pracę;
-- **2)** w ramach stosunku służbowego;
-- **3)** na podstawie umowy cywilnoprawnej;
-- **4)** w ramach wolontariatu;
-- **5)** w ramach praktyk zawodowych wymienionych w art. 5 ust. 2 pkt 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej.
+6. Fizjoterapeuta wykonujący swój zawód w ramach działalności gospodarczej jest podmiotem leczniczym wykonującym działalność leczniczą w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2015 r. poz. 618, z późn. zm.).
 
 7. Minister właściwy do spraw zdrowia, określi, w drodze rozporządzenia, szczegółowy wykaz czynności zawodowych fizjoterapeuty w ramach poszczególnych zadań zawodowych i odpowiadający im poziom wykształcenia, niezbędny do ich wykonywania, kierując się koniecznością zapewnienia bezpieczeństwa zdrowotnego pacjentów.
 
@@ -118,7 +107,7 @@ source: "isap-pdf"
 
 2. W przypadku uzasadnionych wątpliwości odnoszących się do zleceń lekarza w zakresie fizjoterapii, fizjoterapeuta ma prawo domagać się od lekarza, który wydał zlecenie, by uzasadnił potrzebę jego wykonania, a także prawo odmowy wykonania określonego świadczenia. Odmowę wykonania świadczenia fizjoterapeuta uzasadnia w dokumentacji medycznej i informuje o niej lekarza zlecającego.
 
-**Art. 7.** Fizjoterapeuta ma prawo wglądu do dokumentacji medycznej pacjenta oraz do uzyskania od podmiotu udzielającego świadczeń zdrowotnych pełnej informacji w rozumieniu przepisów ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581 oraz z 2026 r. poz. 26) o stanie zdrowia pacjenta, rozpoznaniu, proponowanych metodach diagnostycznych, leczniczych, rehabilitacyjnych, zapobiegawczych i dających się przewidzieć następstwach podejmowanych działań, w zakresie niezbędnym do udzielanych przez siebie świadczeń zdrowotnych.
+**Art. 7.** Fizjoterapeuta ma prawo wglądu do dokumentacji medycznej pacjenta oraz do uzyskania od podmiotu udzielającego świadczeń zdrowotnych pełnej informacji w rozumieniu przepisów ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2012 r. poz. 159, z późn. zm.) o stanie zdrowia pacjenta, rozpoznaniu, proponowanych metodach diagnostycznych, leczniczych, rehabilitacyjnych, zapobiegawczych i dających się przewidzieć następstwach podejmowanych działań, w zakresie niezbędnym do udzielanych przez siebie świadczeń zdrowotnych.
 
 **Art. 8.**
 
@@ -127,6 +116,11 @@ source: "isap-pdf"
 2. W przypadku gdy działanie, o którym mowa w ust. 1, okaże się nieskuteczne, a dalsze naruszanie zasad wykonywania zawodu fizjoterapeuty może prowadzić do zagrożenia życia lub zdrowia pacjenta, osoba wykonująca zawód medyczny niezwłocznie zawiadamia o tym bezpośredniego przełożonego oraz Rzecznika Dyscyplinarnego, zwanego dalej „Rzecznikiem”.
 
 **Art. 9.** Fizjoterapeuta jest obowiązany:
+
+- **1)** informować pacjenta o jego prawach określonych w przepisach ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta;
+- **2)** udzielać informacji pacjentowi lub jego przedstawicielowi ustawowemu albo osobie bliskiej lub opiekunowi faktycznemu w rozumieniu przepisów ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, w zakresie niezbędnym do udzielanych przez siebie świadczeń zdrowotnych;
+- **3)** zachowywać w tajemnicy informacje związane z pacjentem, uzyskane w związku z wykonywaniem zawodu zgodnie z przepisami ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta;
+- **4)** prowadzić i udostępniać dokumentację medyczną na zasadach określonych w ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta.
 
 **Art. 10.**
 
@@ -156,9 +150,7 @@ source: "isap-pdf"
 
 **Art. 11.**
 
-1. Fizjoterapeuta, który nie wykonuje zawodu łącznie przez okres dłuższy niż 5 lat w okresie ostatnich 6 lat, a zamierza podjąć jego wykonywanie, ma obowiązek zawiadomić o tym Krajową Radę Fizjoterapeutów i odbyć trwające niedłużej niż 6 miesięcy przeszkolenie pod nadzorem fizjoterapeuty z tytułem magistra i 5-letnim stażem pracy lub z tytułem specjalisty w dziedzinie fizjoterapii, zwanym dalej „opiekunem”. Opiekuna wskazuje kierownik podmiotu leczniczego, w którym odbywa się przeszkolenie.
-
-1a. W okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii fizjoterapeuta, o którym mowa w ust. 1, jest zwolniony z odbycia przeszkolenia, pod warunkiem że przez pierwsze 3 miesiące wykonywania zawodu udziela świadczeń zdrowotnych pod nadzorem innego fizjoterapeuty.
+1. Fizjoterapeuta, który nie wykonuje zawodu łącznie przez okres dłuższy niż 5 lat w okresie ostatnich 6 lat, a zamierza podjąć jego wykonywanie, ma obowiązek zawiadomić o tym Krajową Radę Fizjoterapeutów i odbyć trwające nie dłużej niż 6 miesięcy przeszkolenie pod nadzorem fizjoterapeuty z tytułem magistra i 5-letnim stażem pracy lub z tytułem specjalisty w dziedzinie fizjoterapii, zwanym dalej „opiekunem”. Opiekuna wskazuje kierownik podmiotu leczniczego, w którym odbywa się przeszkolenie.
 
 2. Krajowa Rada Fizjoterapeutów określi miejsce, czas trwania i program przeszkolenia, o którym mowa w ust. 1.
 
@@ -184,7 +176,7 @@ source: "isap-pdf"
 
 8. Fizjoterapeuta, o którym mowa w ust. 7, może wystąpić do Krajowej Rady Fizjoterapeutów o uchylenie uchwały o zawieszeniu prawa wykonywania zawodu albo o ograniczeniu wykonywania określonych czynności zawodowych, jeżeli ustaną przyczyny zawieszenia albo ograniczenia.
 
-9. Postępowanie w sprawach określonych w ust. 1–7 jest poufne i odbywa się z zachowaniem przepisów o ochronie danych osobowych.
+9. Postępowanie w sprawach określonych w ust. 1–7 jest poufne i odbywa się z zachowaniem przepisów ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2014 r. poz. 1182 i 1662 oraz z 2015 r. poz. 1309).
 
 10. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Krajowej Rady Fizjoterapeutów, określi, w drodze rozporządzenia, wymagania dotyczące osób wchodzących w skład komisji, tryb orzekania o niezdolności do wykonywania zawodu oraz szczegółowy sposób i tryb postępowania w sprawach zawieszania prawa wykonywania zawodu albo ograniczenia wykonywania określonych czynności zawodowych, mając na względzie zapewnienie prawidłowego wykonywania zawodu oraz ochronę praw osób, wobec których wszczęto postępowanie.
 
@@ -195,13 +187,13 @@ source: "isap-pdf"
 1. Prawo wykonywania zawodu fizjoterapeuty przysługuje osobie, która spełnia łącznie następujące warunki:
 
 - **1)** ma pełną zdolność do czynności prawnych;
-- **2)** jej stan zdrowia pozwala na wykonywanie zawodu fizjoterapeuty, co potwierdza się orzeczeniem lekarskim albo innym dokumentem potwierdzającym brak przeciwwskazań do wykonywania zawodu fizjoterapeuty wymaganych w państwie członkowskim Unii Europejskiej innym niż Rzeczpospolita Polska lub Konfederacji Szwajcarskiej, lub w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym wydanym przez właściwe podmioty w tym państwie;
+- **2)** jej stan zdrowia pozwala na wykonywanie zawodu fizjoterapeuty, co potwierdza się orzeczeniem lekarskim albo innym dokumentem potwierdzającym brak przeciwwskazań do wykonywania zawodu fizjoterapeuty wymaganych w państwie członkowskim Unii Europejskiej innym niż Rzeczpospolita Polska lub Konfederacji Szwajcarskiej, lub w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) ─ stronie umowy o Europejskim Obszarze Gospodarczym wydanym przez właściwe podmioty w tym państwie;
 - **3)** wykazuje znajomość języka polskiego w stopniu wystarczającym do wykonywania zawodu fizjoterapeuty;
-- **4)** swoim dotychczasowym zachowaniem daje rękojmię prawidłowego wykonywania zawodu fizjoterapeuty, w szczególności nie była skazana prawomocnym wyrokiem za umyślne przestępstwo przeciwko życiu i zdrowiu, przeciwko wolności seksualnej i obyczajności oraz za czyny określone w art. 207 i art. 211 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872);
-- **5)** posiada dyplom, świadectwo lub inny dokument, zwane dalej „dyplomem”:
-    - **a)** potwierdzający kwalifikacje, o którym mowa w ust. 3, lub
-    - **b)** potwierdzający kwalifikacje do wykonywania zawodu fizjoterapeuty uzyskane w państwie członkowskim Unii Europejskiej innym niż Rzeczpospolita Polska lub Konfederacji Szwajcarskiej, lub w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, uznane w Rzeczypospolitej Polskiej zgodnie z przepisami o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej, lub
-    - **c)** potwierdzający kwalifikacje do wykonywania zawodu fizjoterapeuty, wydany w państwie innym niż państwo wskazane w lit. b, uznany w Rzeczypospolitej Polskiej za równoważny z dyplomem uzyskiwanym w Rzeczypospolitej Polskiej.
+- **4)** swoim dotychczasowym zachowaniem daje rękojmię prawidłowego wykonywania zawodu fizjoterapeuty, w szczególności nie była skazana prawomocnym wyrokiem za umyślne przestępstwo przeciwko życiu i zdrowiu, przeciwko wolności seksualnej i obyczajności oraz za czyny określone w art. 207 i art. 211 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.);
+- **5)** posiada dyplom, świadectwo lub inny dokument, zwane dalej „dyplomem”: potwierdzający kwalifikacje, o którym mowa w ust. 3, lub potwierdzający kwalifikacje do wykonywania zawodu fizjoterapeuty uzyskane w państwie członkowskim Unii Europejskiej innym niż Rzeczpospolita Polska lub Konfederacji Szwajcarskiej, lub w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) ─ stronie umowy o Europejskim Obszarze Gospodarczym, uznane w Rzeczypospolitej Polskiej zgodnie z przepisami o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej, lub potwierdzający kwalifikacje do wykonywania zawodu fizjoterapeuty, wydany w państwie innym niż państwo wskazane w lit. b, uznany w Rzeczypospolitej Polskiej za równoważny z dyplomem uzyskiwanym w Rzeczypospolitej Polskiej.
+    - **a)**
+    - **b)**
+    - **c)**
 
 2. Za wystarczające w zakresie spełnienia wymagania, o którym mowa w ust. 1 pkt 3, uznaje się przedstawienie odpowiednich dokumentów potwierdzających ukończenie studiów wyższych prowadzonych w języku polskim lub publicznej szkoły policealnej lub niepublicznej szkoły policealnej o uprawnieniach szkoły publicznej, kształcącej w języku polskim, albo:
 
@@ -210,7 +202,7 @@ source: "isap-pdf"
 
 3. Dyplomem potwierdzającym posiadanie kwalifikacji jest dyplom wydany osobie, która:
 
-- **1)** rozpoczęła po dniu 1 października 2017 r. jednolite 5-letnie studia wyższe w zakresie fizjoterapii, obejmujące co najmniej 300 punktów ECTS, o których mowa w art. 67 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ), zwanych dalej „punktami ECTS”, w tym co najmniej 160 punktów ECTS w zakresie fizjoterapii oraz odbyła 6-miesięczną praktykę zawodową i uzyskała tytuł zawodowy magistra albo 1a) rozpoczęła po roku akademickim 2018/2019 studia przygotowujące do wykonywania zawodu fizjoterapeuty, prowadzone zgodnie z przepisami wydanymi na podstawie art. 68 ust. 3 pkt 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, albo
+- **1)** rozpoczęła po dniu 1 października 2017 r. jednolite 5-letnie studia wyższe w zakresie fizjoterapii, obejmujące co najmniej 300 punktów ECTS, o których mowa w art. 2 ust. 1 pkt 18d ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm.), zwanych dalej „punktami ECTS”, w tym co najmniej 160 punktów ECTS w zakresie fizjoterapii oraz odbyła 6-miesięczną praktykę zawodową i uzyskała tytuł zawodowy magistra oraz złożyła Państwowy Egzamin Fizjoterapeutyczny, zwany dalej „PEF”, z wynikiem pozytywnym, albo
 - **2)** rozpoczęła po dniu 30 września 2012 r. i przed dniem 1 października 2017 r. studia wyższe z zakresu fizjoterapii, obejmujące co najmniej 180 punktów ECTS, w tym co najmniej 100 punktów ECTS w zakresie fizjoterapii i uzyskała tytuł licencjata lub dodatkowo odbyła studia wyższe obejmujące co najmniej 120 punktów ECTS, w tym co najmniej 60 punktów ECTS w zakresie fizjoterapii i uzyskała tytuł magistra, albo
 - **3)** rozpoczęła po dniu 31 grudnia 1997 r. studia wyższe na kierunku fizjoterapia zgodnie ze standardami kształcenia określonymi w odrębnych przepisach i uzyskała tytuł licencjata lub magistra na tym kierunku, albo
 - **4)** rozpoczęła przed dniem 1 stycznia 1998 r. studia wyższe na kierunku rehabilitacja ruchowa lub rehabilitacja i uzyskała tytuł magistra na tym kierunku, albo
@@ -232,11 +224,11 @@ source: "isap-pdf"
 
 1. Do praktyki zawodowej, o której mowa w art. 13 ust. 3 pkt 1, przystępuje osoba, która rozpoczęła po dniu wejścia w życie ustawy studia wyższe w zakresie fizjoterapii, o których mowa w art. 13 ust. 3 pkt 1, i złożyła ostatni wymagany planem studiów egzamin.
 
-2. Praktyka zawodowa rozpoczyna się niepóźniej niż z dniem 1 października i kończy po 6 miesiącach, pod warunkiem zrealizowania pełnego programu tej praktyki w łącznej liczbie 960 godzin dydaktycznych, przy czym godzina dydaktyczna realizacji zajęć w ramach praktyki trwa 45 minut.
+2. Praktyka zawodowa rozpoczyna się nie później niż z dniem 1 października i kończy po 6 miesiącach, pod warunkiem zrealizowania pełnego programu tej praktyki w łącznej liczbie 960 godzin dydaktycznych, przy czym godzina dydaktyczna realizacji zajęć w ramach praktyki trwa 45 minut.
 
-3. Okres praktyki zawodowej ulega przedłużeniu o czas nieobecności osoby odbywającej praktykę przez okres pobierania świadczeń, o których mowa w art. 2 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2025 r. poz. 501 i 1083 oraz z 2026 r. poz. 26 i 441), na wniosek osoby odbywającej praktykę.
+3. Okres praktyki zawodowej ulega przedłużeniu o czas nieobecności osoby odbywającej praktykę przez okres pobierania świadczeń, o których mowa w art. 2 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2014 r. poz. 159, z późn. zm.), na wniosek osoby odbywającej praktykę.
 
-4. Okres praktyki zawodowej może być skrócony na uzasadniony wniosek osoby odbywającej praktykę, o okres niedłuższy niż 1/2 okresu tej praktyki.
+4. Okres praktyki zawodowej może być skrócony na uzasadniony wniosek osoby odbywającej praktykę, o okres nie dłuższy niż 1/2 okresu tej praktyki.
 
 5. Wniosek, o którym mowa w ust. 3 i 4, osoba odbywająca praktykę składa do opiekuna, o którym mowa w ust. 6. Opiekun przekazuje rozstrzygnięcie do kierownika, o którym mowa w ust. 10.
 
@@ -264,29 +256,172 @@ source: "isap-pdf"
 
 - **1)** ramowy program praktyki zawodowej,
 - **2)** sposób odbywania, skrócenia, dokumentowania i zaliczania praktyki zawodowej,
-- **3)** wzór dziennika praktyki zawodowej – mając na celu zapewnienie właściwej realizacji praktyki zawodowej.
+- **3)** wzór dziennika praktyki zawodowej mając na celu zapewnienie właściwej realizacji praktyki zawodowej.
 
-**Art. 15.** (uchylony)
+**Art. 15.**
 
-**Art. 16.** (uchylony)
+1. PEF organizuje i przeprowadza Centrum Egzaminów Medycznych, zwane dalej „CEM”.
 
-**Art. 17.** (uchylony)
+2. Do PEF może przystąpić osoba, która uzyskała tytuł zawodowy magistra po ukończeniu studiów, o których mowa w art. 13 ust. 3 pkt 1.
 
-**Art. 18.** (uchylony)
+3. Osoba zamierzająca przystąpić do PEF, zwana dalej „zgłaszającym się”, składa wniosek o potwierdzenie uprawnień do złożenia zgłoszenia do PEF. Wniosek generowany i pobierany ze strony internetowej CEM, po wydrukowaniu jest własnoręcznie podpisywany przez zgłaszającego i składany do wojewody właściwego ze względu na miejsce zamieszkania, a w przypadku gdy nie jest możliwe ustalenie właściwego wojewody, do Wojewody Mazowieckiego.
 
-**Art. 19.** (uchylony)
+4. Potwierdzenia uprawnień do złożenia zgłoszenia do PEF dokonuje wojewoda, o którym mowa w ust. 3, w terminie 30 dni od dnia złożenia wniosku, o którym mowa w ust. 3. Wojewoda niezwłocznie przekazuje zgłaszającemu się powiadomienie o potwierdzeniu uprawnień do złożenia zgłoszenia do PEF albo ich braku.
 
-**Art. 20.** (uchylony)
+5. Zgłaszający się, który uzyskał potwierdzenie uprawnień do złożenia zgłoszenia do PEF, składa do dyrektora CEM zgłoszenie do PEF do dnia:
+
+- **1)** 28 lutego roku kalendarzowego, w którym przeprowadzany jest dany egzamin – w przypadku egzaminów wyznaczonych w okresie od dnia 1 kwietnia do dnia 15 maja;
+- **2)** 31 sierpnia roku kalendarzowego, w którym przeprowadzany jest dany egzamin – w przypadku egzaminów wyznaczonych w okresie od dnia 2 listopada do dnia 15 grudnia.
+
+6. Do terminów, o których mowa w ust. 5, nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2013 r. poz. 267, z późn. zm.).
+
+7. Zgłoszenie, o którym mowa w ust. 5, zawiera:
+
+- **1)** imię (imiona) i nazwisko;
+- **2)** datę urodzenia;
+- **3)** miejsce urodzenia;
+- **4)** numer PESEL, a w przypadku braku numeru PESEL – cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz kraj jego wydania;
+- **5)** obywatelstwo (obywatelstwa);
+- **6)** adres do korespondencji oraz numer telefonu i adres poczty elektronicznej, jeżeli zgłaszający je posiada;
+- **7)** nazwę i adres ukończonej uczelni, numer i datę wydania dyplomu, o którym mowa w ust. 2;
+- **8)** cechy dokumentu potwierdzającego wniesienie opłaty egzaminacyjnej, o której mowa w ust. 8, oraz datę dokonania przelewu i określenie PEF, za który ta opłata została wniesiona.
+
+8. Zgłaszający się wnosi opłatę egzaminacyjną, która stanowi dochód budżetu państwa. Opłata ta nie może być wyższa niż 10% przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku za ubiegły rok, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w drodze obwieszczenia, do dnia 15 stycznia każdego roku.
+
+9. Opłatę egzaminacyjną, o której mowa w ust. 8, pobiera dyrektor CEM.
+
+10. W przypadku niewniesienia opłaty egzaminacyjnej, o której mowa w ust. 8, albo wniesienia jej w wysokości niższej niż należna, dyrektor CEM wzywa zgłaszającego się do uzupełnienia braków formalnych. Przepisy art. 64 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się z zastrzeżeniem, że w przypadku bezskutecznego upływu terminu do uzupełnienia braków formalnych dotknięte nim zgłoszenie do PEF traktuje się jako niezłożone.
+
+11. Dyrektor CEM zawiadamia zgłaszającego się o miejscu i terminie PEF oraz nadanym numerze kodowym nie później niż w terminie 14 dni przed terminem danego PEF.
+
+**Art. 16.**
+
+1. PEF składa się przed Komisją Egzaminacyjną.
+
+2. Członków Komisji Egzaminacyjnej powołuje i odwołuje dyrektor CEM. Kandydatów do Komisji Egzaminacyjnej zgłaszają:
+
+- **1)** dyrektor CEM;
+- **2)** konsultant krajowy w dziedzinie fizjoterapii;
+- **3)** rektorzy uczelni prowadzących kształcenie w zakresie fizjoterapii;
+- **4)** wojewodowie.
+
+3. Członkiem Komisji Egzaminacyjnej nie może być osoba skazana prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe.
+
+4. Przewodniczącym Komisji Egzaminacyjnej oraz Przewodniczącym Zespołu Egzaminacyjnego jest osoba wskazana przez dyrektora CEM.
+
+5. Dyrektor CEM odwołuje członka Komisji Egzaminacyjnej w przypadku:
+
+- **1)** złożenia rezygnacji;
+- **2)** choroby uniemożliwiającej sprawowanie przez niego funkcji członka Komisji Egzaminacyjnej;
+- **3)** niewykonywania lub nienależytego wykonywania obowiązków członka Komisji Egzaminacyjnej;
+- **4)** skazania prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe;
+- **5)** złożenia niezgodnego z prawdą oświadczenia, o którym mowa w ust. 9.
+
+6. W celu przeprowadzenia PEF w ustalonych terminach i miejscach dyrektor CEM wyznacza spośród członków Komisji Egzaminacyjnej Zespoły Egzaminacyjne.
+
+7. Członkiem Zespołu Egzaminacyjnego nie może być osoba, w stosunku do której zdający PEF przed tym Zespołem Egzaminacyjnym jest:
+
+- **1)** małżonkiem;
+- **2)** osobą pozostającą w stosunku: pokrewieństwa albo powinowactwa do drugiego stopnia, przysposobienia;
+    - **a)**
+    - **b)**
+
+- **3)** osobą pozostającą we wspólnym pożyciu;
+- **4)** osobą pozostającą w stosunku zależności służbowej.
+
+8. Powody wyłączenia określone w ust. 7 pkt 1 i 2 lit. b trwają pomimo ustania małżeństwa albo przysposobienia.
+
+9. Członkowie Zespołu Egzaminacyjnego przed rozpoczęciem PEF składają dyrektorowi CEM pisemne oświadczenie, pod rygorem odpowiedzialności karnej, że nie pozostają z żadnym ze zgłaszających się do PEF w tym Zespole Egzaminacyjnym w stosunku, o którym mowa w ust. 7, oraz nie zostali skazani prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe.
+
+10. Oświadczenie, o którym mowa w ust. 9, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany zawrzeć w nim klauzulę następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
+
+11. Członkom Zespołów Egzaminacyjnych, o których mowa w ust. 2, przysługuje:
+
+- **1)** wynagrodzenie za udział w pracach tego Zespołu, w wysokości nie wyższej niż 500 zł dla Przewodniczącego oraz nie wyższej niż 300 zł dla członka;
+- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 775 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.);
+- **3)** zwolnienie od pracy w dniu wykonywania czynności Zespołu Egzaminacyjnego, bez zachowania prawa do wynagrodzenia w przypadku organizowania PEF w dniu roboczym.
+
+12. Szczegółowe warunki wypłaty wynagrodzenia, o którym mowa w ust. 11 pkt 1, oraz zwrotu kosztów, o których mowa w ust. 11 pkt 2, określa, w drodze zarządzenia, dyrektor CEM.
+
+**Art. 17.**
+
+1. CEM organizuje PEF przy współpracy z konsultantem krajowym w dziedzinie fizjoterapii.
+
+2. Pytania testowe obejmują problematykę z zakresu fizjoterapii, określoną w przepisach wydanych na podstawie art. 20 ust. 1 pkt 1.
+
+3. PEF przeprowadza się w formie egzaminu testowego, składającego się ze 100 pytań zawierających pięć odpowiedzi, z których tylko jedna jest prawidłowa. Za każdą prawidłową odpowiedź uzyskuje się 1 punkt. W przypadku braku odpowiedzi, zaznaczenia nieprawidłowej odpowiedzi albo zaznaczenia więcej niż jednej odpowiedzi punkty nie są przyznawane.
+
+4. Test opracowuje i ustala CEM w porozumieniu z konsultantem krajowym w dziedzinie fizjoterapii.
+
+5. Testy i pytania testowe są opracowywane, przetwarzane, dystrybuowane i przechowywane w sposób uniemożliwiający dostęp do nich przez osoby inne niż uczestniczące w ich opracowywaniu, przetwarzaniu, dystrybuowaniu, przechowywaniu, przeprowadzające PEF lub sprawujące nadzór nad jego prowadzeniem.
+
+6. Testy i pytania testowe nie podlegają udostępnianiu na zasadach określonych w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2014 r. poz. 782 i 1662 oraz z 2015 r. poz. 1240). Dyrektor CEM może udostępnić po egzaminie testy i pytania testowe osobie zdającej dany PEF. Udostępnienie oraz jego dokumentowanie następuje na zasadach określonych w zarządzeniu dyrektora CEM.
+
+7. PEF przeprowadza się zgodnie z regulaminem porządkowym.
+
+**Art. 18.**
+
+1. Zgłaszający się do PEF przedstawia bezpośrednio przed egzaminem Zespołowi Egzaminacyjnemu, o którym mowa w art. 16 ust. 6, dokument potwierdzający tożsamość. W przypadku braku dokumentu potwierdzającego tożsamość zgłaszającego się, nie może on przystąpić do egzaminu.
+
+2. Przebieg PEF może być dokumentowany za pomocą urządzeń rejestrujących obraz i dźwięk, o czym zgłaszającego się do PEF informuje się w zawiadomieniu o egzaminie lub bezpośrednio przed rozpoczęciem egzaminu.
+
+3. Test jest rozwiązywany przez osobę zdającą samodzielnie. Podczas zdawania PEF osoba zdająca nie może korzystać z pomocy naukowych i dydaktycznych, a także nie może korzystać z urządzeń służących do kopiowania oraz przekazywania i odbioru informacji. W celu weryfikacji, czy osoba zdająca posiada urządzenia służące do kopiowania oraz przekazywania i odbioru informacji możliwe jest użycie wykrywaczy takich urządzeń. Naruszenie tego zakazu stanowi podstawę zdyskwalifikowania osoby zdającej egzamin, co jest równoznaczne z uzyskaniem przez nią wyniku negatywnego.
+
+4. W przypadku stwierdzenia, w trakcie trwania egzaminu naruszenia zakazów, o których mowa w ust. 3, lub rozwiązywania testu niesamodzielnie Przewodniczący Zespołu Egzaminacyjnego odnotowuje ten fakt w protokole egzaminacyjnym. W przypadku dyskwalifikacji zdającego, w protokole wskazuje się przyczynę dyskwalifikacji i godzinę przerwania egzaminu testowego.
+
+5. W przypadku stwierdzenia po zakończeniu egzaminu na podstawie analizy obrazów zarejestrowanych za pomocą urządzeń rejestrujących obraz i dźwięk, o których mowa w ust. 2, że zdający naruszył zakazy, o których mowa w ust. 3, lub rozwiązał test niesamodzielnie, Przewodniczący Komisji Egzaminacyjnej dokonuje dyskwalifikacji zdającego. Fakt zdyskwalifikowania wraz ze wskazaniem przyczyny dyskwalifikacji odnotowuje się w protokole egzaminacyjnym.
+
+6. O dyskwalifikacji, o której mowa w ust. 5, dyrektor CEM zawiadamia na piśmie osobę zdyskwalifikowaną. Osoba zdyskwalifikowana może złożyć, w terminie 7 dni od dnia doręczenia zawiadomienia, wniosek o weryfikację rozstrzygnięcia o dyskwalifikacji.
+
+7. Dyrektor CEM rozstrzyga wniosek o weryfikację rozstrzygnięcia o dyskwalifikacji w terminie 14 dni. Rozstrzygnięcie dyrektora CEM jest ostateczne.
+
+8. W przypadku utrzymania w mocy przez dyrektora CEM rozstrzygnięcia o dyskwalifikacji, osoba zdyskwalifikowana nie może przystąpić do PEF w kolejnym najbliższym terminie egzaminu po dniu dyskwalifikacji.
+
+**Art. 19.**
+
+1. Zdający PEF w danym terminie może wnieść w trakcie egzaminu albo bezpośrednio po jego zakończeniu, przed opuszczeniem sali egzaminacyjnej, merytoryczne zastrzeżenia do pytania testowego wykorzystanego podczas tego PEF. Zastrzeżenia składa się do dyrektora CEM na formularzu, którego wzór opracowuje CEM.
+
+2. Zastrzeżenia, o których mowa w ust. 1, rozpatruje, w terminie nie dłuższym niż 3 dni od dnia, w którym odbywał się PEF, Komisja powołana przez dyrektora CEM spośród osób, których wiedza, doświadczenie i autorytet dają rękojmię prawidłowego rozpatrzenia wniesionych zastrzeżeń. W przypadku uznania zastrzeżenia, pytanie testowe objęte zastrzeżeniem zostaje unieważnione. Rozstrzygnięcie to powoduje obniżenie maksymalnej możliwej do uzyskania liczby punktów z testu. Za unieważnione pytanie nie przyznaje się punktów.
+
+3. Pozytywny wynik z PEF otrzymuje zdający, który uzyskał co najmniej 56% maksymalnej liczby punktów z testu. Wynik egzaminu nie stanowi decyzji w rozumieniu ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+
+4. Osoba, która nie przystąpiła do PEF w wyznaczonym terminie albo złożyła PEF z wynikiem negatywnym, może przystąpić ponownie do egzaminu w innym terminie.
+
+5. Osobie, która złożyła PEF, dyrektor CEM wydaje świadectwo złożenia PEF w terminie 21 dni od dnia złożenia egzaminu. Podpis dyrektora CEM zamieszczony na świadectwie może być odwzorowany mechanicznie. Na wniosek osoby zainteresowanej dyrektor CEM wydaje, odpłatnie, duplikat albo dokonuje korekty świadectwa złożenia PEF. Opłata za te czynności wynosi 50 zł. Opłaty nie wnosi się, w przypadku gdy korekta wynika z błędu CEM.
+
+6. CEM ewidencjonuje wydane świadectwa, o których mowa w ust. 5.
+
+7. W przypadku rażących uchybień dotyczących procedury przebiegu PEF lub nieprzewidzianych sytuacji mających wpływ na przeprowadzenie PEF dyrektor CEM, po uzyskaniu zgody ministra właściwego do spraw zdrowia, może wydać zarządzenie o unieważnieniu egzaminu dla poszczególnych albo wszystkich zdających.
+
+8. W przypadku unieważnienia PEF, nie pobiera się opłaty egzaminacyjnej od osób zgłaszających się do kolejnego PEF, które przystępowały do unieważnionego egzaminu.
+
+9. Dokumentacja dotycząca PEF jest przechowywana przez właściwe podmioty zgodnie z przepisami art. 5 i art. 6 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2015 r. poz. 1446).
+
+**Art. 20.**
+
+1. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Krajowej Rady Fizjoterapeutów, określi, w drodze rozporządzenia:
+
+- **1)** zakres problematyki uwzględnianej przy opracowywaniu pytań testowych PEF, mając na uwadze zakres wiedzy i umiejętności, które przystępujący do egzaminu powinien posiadać,
+- **2)** tryb powoływania członków Komisji Egzaminacyjnej, o której mowa w art. 16 ust. 1, z uwzględnieniem warunków określonych w art. 16 ust. 2 i 3,
+- **3)** wzór oświadczenia, o którym mowa w art. 16 ust. 9,
+- **4)** sposób i szczegółowy tryb zgłaszania do PEF oraz przeprowadzania PEF, w tym okres, w którym powinny być wyznaczone ich terminy,
+- **5)** wysokość opłaty, o której mowa w art. 15 ust. 8, oraz sposób jej uiszczania,
+- **6)** szczegółowy tryb unieważniania PEF,
+- **7)** szczegółowy sposób ustalania wyników PEF,
+- **8)** wzór świadectwa złożenia PEF,
+- **9)** sposób przekazywania przez CEM wyników PEF uprawnionym podmiotom uwzględniając prawidłowy przebieg PEF oraz zachowanie bezstronności pracy Zespołów Egzaminacyjnych.
+
+2. Dyrektor CEM wydaje regulamin porządkowy PEF, zatwierdzany przez ministra właściwego do spraw zdrowia.
 
 **Art. 21.**
 
 1. Prawo wykonywania zawodu stwierdza, na wniosek osoby zainteresowanej, Krajowa Rada Fizjoterapeutów.
 
-2. Krajowa Rada Fizjoterapeutów po przyjęciu wniosku niezwłocznie, jednak niepóźniej niż w terminie miesiąca od dnia jego złożenia, potwierdza otrzymanie wniosku oraz informuje wnioskodawcę o ewentualnych brakach, wzywając go do ich uzupełnienia.
+2. Krajowa Rada Fizjoterapeutów po przyjęciu wniosku niezwłocznie, jednak nie później niż w terminie miesiąca od dnia jego złożenia, potwierdza otrzymanie wniosku oraz informuje wnioskodawcę o ewentualnych brakach, wzywając go do ich uzupełnienia.
 
 3. Krajowa Rada Fizjoterapeutów stwierdza, w drodze uchwały, prawo wykonywania zawodu albo odmawia stwierdzenia tego prawa.
 
-4. Postępowanie w sprawie stwierdzenia prawa wykonywania zawodu powinno się zakończyć niezwłocznie, jednak niepóźniej niż w terminie 3 miesięcy od dnia złożenia wszystkich wymaganych dokumentów określonych ustawą.
+4. Postępowanie w sprawie stwierdzenia prawa wykonywania zawodu powinno się zakończyć niezwłocznie, jednak nie później niż w terminie 3 miesięcy od dnia złożenia wszystkich wymaganych dokumentów określonych ustawą.
 
 5. W przypadku uzasadnionych wątpliwości dotyczących autentyczności dyplomów, świadectw lub innych dokumentów wydanych przez odpowiednie władze lub organizacje państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, Krajowa Rada Fizjoterapeutów może zwrócić się do odpowiednich władz lub organizacji tego państwa o potwierdzenie autentyczności dyplomów, świadectw lub innych dokumentów wydanych przez to państwo oraz o poświadczenie, że fizjoterapeuta zamierzający wykonywać zawód na terytorium Rzeczypospolitej Polskiej uzyskał wykształcenie zgodne z przepisami obowiązującymi w tym państwie.
 
@@ -304,23 +439,23 @@ source: "isap-pdf"
 - **8)** adres do korespondencji oraz adres poczty elektronicznej, jeżeli posiada;
 - **9)** nazwę i adres ukończonej szkoły;
 - **10)** numer i datę wydania dyplomu;
-- **11)** (uchylony)
+- **11)** numer i datę wydania świadectwa złożenia PEF;
 - **12)** tytuł zawodowy;
 - **13)** oświadczenie o posiadaniu pełnej zdolności do czynności prawnych.
 
 2. Do wniosku dołącza się:
 
-- **1)** w przypadku osób, o których mowa w art. 13 ust. 3, dodatkowo:
-    - **a)** dokumenty potwierdzające spełnienie wymagań, o których mowa w art. 13 ust. 3 – ich oryginały lub notarialnie potwierdzone kopie,
-    - **b)** pisemne oświadczenie o posiadaniu pełnej zdolności do czynności prawnych,
-    - **c)** aktualną fotografię;
+- **1)** w przypadku osób, o których mowa w art. 13 ust. 3, dodatkowo: dokumenty potwierdzające spełnienie wymagań, o których mowa w art. 13 ust. 3 – ich oryginały lub notarialnie potwierdzone kopie, pisemne oświadczenie o posiadaniu pełnej zdolności do czynności prawnych, aktualną fotografię;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **2)** w przypadku osób, o których mowa w art. 13 ust. 1 pkt 5 lit. b i c, do wniosku dołącza się dodatkowo:
-    - **a)** dokumenty potwierdzające spełnienie wymagań, o których mowa w art. 13 ust. 1 pkt 5 lit. b i c, przetłumaczone na język polski przez tłumacza przysięgłego oraz ich oryginały lub notarialnie potwierdzone kopie,
-    - **b)** pisemne oświadczenie o posiadaniu pełnej zdolności do czynności prawnych,
-    - **c)** oświadczenie o znajomości języka polskiego w mowie i w piśmie w zakresie niezbędnym do wykonywania zawodu fizjoterapeuty, o którym mowa w art. 13 ust. 2 pkt 1, albo zaświadczenie potwierdzające złożenie egzaminu, o którym mowa w art. 13 ust. 2 pkt 2,
-    - **d)** aktualną fotografię,
-    - **e)** kopię dokumentu lub inny dowód wskazujący na posiadanie prawa pobytu na terytorium Rzeczypospolitej Polskiej, zgodnie z odrębnymi przepisami.
+- **2)** w przypadku osób, o których mowa w art. 13 ust. 1 pkt 5 lit. b i c, do wniosku dołącza się dodatkowo: dokumenty potwierdzające spełnienie wymagań, o których mowa w art. 13 ust. 1 pkt 5 lit. b i c, przetłumaczone na język polski przez tłumacza przysięgłego oraz ich oryginały lub notarialnie potwierdzone kopie, pisemne oświadczenie o posiadaniu pełnej zdolności do czynności prawnych, oświadczenie o znajomości języka polskiego w mowie i w piśmie w zakresie niezbędnym do wykonywania zawodu fizjoterapeuty, o którym mowa w art. 13 ust. 2 pkt 1, albo zaświadczenie potwierdzające złożenie egzaminu, o którym mowa w art. 13 ust. 2 pkt 2, aktualną fotografię, kopię dokumentu lub inny dowód wskazujący na posiadanie prawa pobytu na terytorium Rzeczypospolitej Polskiej, zgodnie z odrębnymi przepisami.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 3. Oświadczenie, o którym mowa w ust. 2 pkt 1 lit. b i pkt 2 lit. b, fizjoterapeuta składa pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany zawrzeć w nim klauzulę następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
 
@@ -328,7 +463,7 @@ source: "isap-pdf"
 
 **Art. 23.**
 
-1. Stwierdzenie prawa wykonywania zawodu podlega opłacie. Wysokość opłaty nie może być wyższa niż 10 % przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku za ubiegły rok, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w drodze obwieszczenia, do dnia 15 stycznia każdego roku.
+1. Stwierdzenie prawa wykonywania zawodu podlega opłacie. Wysokość opłaty nie może być wyższa niż 10% przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku za ubiegły rok, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w drodze obwieszczenia, do dnia 15 stycznia każdego roku.
 
 2. Opłata, o której mowa w ust. 1, stanowi przychód KIF.
 
@@ -338,28 +473,7 @@ source: "isap-pdf"
 
 1. Na podstawie uchwał o stwierdzeniu lub przyznaniu prawa wykonywania zawodu Krajowa Rada Fizjoterapeutów dokonuje wpisu do Krajowego Rejestru Fizjoterapeutów i wydaje dokument „Prawo wykonywania zawodu fizjoterapeuty”.
 
-1a. Minister właściwy do spraw zdrowia może upoważnić Krajową Radę Fizjoterapeutów do wykonania w jego imieniu zadań określonych w art. 14, art. 18, art. 34 ust. 2 i 3, art. 35, art. 36 ust. 1 i art. 37–39 ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2024 r. poz. 1669 i 1863 oraz z 2025 r. poz.
-
-- **1881)** .
-
-1b. Dokument „Prawo wykonywania zawodu fizjoterapeuty” potwierdzający przyznanie prawa, o którym mowa w art. 13 i art. 21, zawiera:
-
-- **1)** nazwę dokumentu – „Prawo wykonywania zawodu fizjoterapeuty”;
-- **2)** numer PESEL, a w przypadku jego braku – cechy dokumentu potwierdzającego tożsamość, nazwę, numer dokumentu i kraj wydania;
-- **3)** numer prawa wykonywania zawodu;
-- **4)** datę i numer uchwały Krajowej Rady Fizjoterapeutów;
-- **5)** podpis Prezesa Krajowej Rady Fizjoterapeutów;
-- **6)** imię (imiona) i nazwisko fizjoterapeuty;
-- **7)** wizerunek twarzy fizjoterapeuty, zgodny z zasadami określonymi w ustawie z dnia 6 sierpnia 2010 r. o dowodach osobistych (Dz. U. z 2025 r. poz. 1753);
-- **8)** numer i serię dokumentu;
-- **9)** adnotację o treści: „Prawo wykonywania zawodu jest jedynym dokumentem potwierdzającym prawo wykonywania zawodu fizjoterapeuty na obszarze Rzeczypospolitej Polskiej”;
-- **10)** adnotację o treści: „Fizjoterapeuta wykonuje zawód z należytą starannością, zgodnie z zasadami etyki zawodowej, poszanowaniem praw pacjenta, dbałością o jego bezpieczeństwo i wykorzystując wskazania aktualnej wiedzy medycznej.”;
-- **11)** wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej;
-- **12)** elementy zabezpieczające przed przerobieniem, podrobieniem i sfałszowaniem uwzględniające minimalne zabezpieczenia dla dokumentów publicznych kategorii drugiej określone w przepisach wydanych na podstawie art. 7 ust. 5 ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych. <1c. Dokument „Prawo wykonywania zawodu fizjoterapeuty” jest wydawany w formie spersonalizowanej dwustronnej karty identyfikacyjnej, a w przypadku osób posiadających obywatelstwo polskie może być udostępniany w postaci dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717 oraz z 2025 r. poz. 1019).
-
-1d. Dokument „Prawo wykonywania zawodu fizjoterapeuty” udostępniany w postaci dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel, zawiera dane, o których mowa w ust. 1b pkt 1, 3, 6, 7, 9 i 10.>
-
-2. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Krajowej Rady Fizjoterapeutów, określi, w drodze rozporządzenia, wzór dokumentu „Prawo wykonywania zawodu fizjoterapeuty” oraz szczegółowe rodzaje zabezpieczenia go przed przerobieniem, podrobieniem lub użyciem przez osobę nieuprawnioną, kierując się koniecznością zapewnienia ochrony danych osobowych oraz sposobem użytkowania dokumentu.
+2. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Krajowej Rady Fizjoterapeutów, określi, w drodze rozporządzenia, wzór dokumentu „Prawo wykonywania zawodu fizjoterapeuty”, mając na względzie treść informacji, jakie mają znajdować się w tym dokumencie.
 
 **Art. 25.**
 
@@ -367,9 +481,14 @@ source: "isap-pdf"
 
 2. Od ostatecznych uchwał podjętych w przedmiocie stwierdzenia i przyznania prawa wykonywania zawodu skargę do sądu administracyjnego może wnieść także minister właściwy do spraw zdrowia.
 
-3. W sprawach określonych w ust. 1, w których skargę do sądu administracyjnego wniósł inny uprawniony podmiot, minister właściwy do spraw zdrowia może wziąć udział w postępowaniu sądowym na prawach przysługujących prokuratorowi. Przepis art. 8 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2026 r. poz. 143) stosuje się odpowiednio.
+3. W sprawach określonych w ust. 1, w których skargę do sądu administracyjnego wniósł inny uprawniony podmiot, minister właściwy do spraw zdrowia może wziąć udział w postępowaniu sądowym na prawach przysługujących prokuratorowi. Przepis art. 8 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2012 r. poz. 270, z późn. zm.) stosuje się odpowiednio.
 
 **Art. 26.** Prawo wykonywania zawodu fizjoterapeuty wygasa w przypadku:
+
+- **1)** śmierci;
+- **2)** zrzeczenia się prawa wykonywania zawodu;
+- **3)** prawomocnego orzeczenia przez sąd dyscyplinarny zakazu wykonywania zawodu;
+- **4)** utraty pełnej zdolności do czynności prawnych.
 
 **Art. 27.**
 
@@ -387,7 +506,7 @@ source: "isap-pdf"
 
 4. Fizjoterapeuta, o którym mowa w ust. 1, z chwilą złożenia oświadczenia oraz dokumentów, o których mowa w ust. 1, zostaje wpisany do rejestru osób uprawnionych do wykonywania zawodu fizjoterapeuty tymczasowo i okazjonalnie na terytorium Rzeczypospolitej Polskiej.
 
-5. Rejestr, o którym mowa w ust. 4, prowadzi Krajowa Rada Fizjoterapeutów, w systemie teleinformatycznym, o którym mowa w art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703 oraz z 2026 r. poz. 160). Rejestr zawiera:
+5. Rejestr, o którym mowa w ust. 4, prowadzi Krajowa Rada Fizjoterapeutów, w systemie teleinformatycznym, o którym mowa w art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2014 r. poz. 1114). Rejestr zawiera:
 
 - **1)** imię (imiona) i nazwisko;
 - **2)** obywatelstwo;
@@ -402,15 +521,15 @@ source: "isap-pdf"
 
 7. Właścicielem i administratorem rejestru, o którym mowa w ust. 4, jest Krajowa Rada Fizjoterapeutów.
 
-8. Krajowa Rada Fizjoterapeutów udostępnia systemowi informacji w ochronie zdrowia, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2026 r. poz. 208 i 252), dane objęte rejestrem, o którym mowa w ust. 4.
+8. Krajowa Rada Fizjoterapeutów udostępnia systemowi informacji w ochronie zdrowia, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2015 r. poz. 636, z późn. zm.), dane objęte rejestrem, o którym mowa w ust. 4.
 
 9. W sprawach nieuregulowanych w ust. 1–8 do tymczasowego i okazjonalnego wykonywania zawodu fizjoterapeuty na terytorium Rzeczypospolitej Polskiej mają zastosowanie przepisy o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej dotyczące świadczenia usług transgranicznych.
 
 **Art. 28.**
 
-1. Fizjoterapeuta przed rozpoczęciem wykonywania zadań zawodowych na podstawie umowy o pracę, w ramach stosunku służbowego lub umowy cywilnoprawnej, jest obowiązany przedłożyć podmiotowi, na rzecz którego wykonuje te zadania, dokument potwierdzający prawo wykonywania zawodu.
+1. Fizjoterapeuta przed rozpoczęciem wykonywania zadań zawodowych na podstawie umowy o pracę lub umowy cywilnoprawnej jest obowiązany przedłożyć podmiotowi, na rzecz którego wykonuje te zadania, dokument potwierdzający prawo wykonywania zawodu.
 
-2. Podmiot, na rzecz którego fizjoterapeuta ma wykonywać zadania zawodowe, przed zatrudnieniem fizjoterapeuty na podstawie umowy o pracę, w ramach stosunku służbowego albo umowy cywilnoprawnej, jest obowiązany żądać przedłożenia dokumentu potwierdzającego prawo wykonywania zawodu.
+2. Podmiot, na rzecz którego fizjoterapeuta ma wykonywać zadania zawodowe, przed zatrudnieniem fizjoterapeuty na podstawie umowy o pracę albo umowy cywilnoprawnej, jest obowiązany żądać przedłożenia dokumentu potwierdzającego prawo wykonywania zawodu.
 
 #### Rozdział 4 Krajowy Rejestr Fizjoterapeutów oraz zaświadczenia
 
@@ -446,7 +565,6 @@ source: "isap-pdf"
 - **14)** stopień naukowy, datę jego uzyskania oraz nazwę organu nadającego stopień;
 - **15)** tytuł naukowy, datę jego uzyskania oraz nazwę organu nadającego tytuł;
 - **16)** nazwę pracodawcy oraz datę zatrudnienia i stanowisko, poczynając od daty rozpoczęcia wykonywania zawodu;
-- **16a)** informację o prowadzeniu indywidualnej praktyki fizjoterapeutycznej lub udzielaniu świadczeń zdrowotnych w ramach grupowej praktyki fizjoterapeutycznej i numer wpisu do rejestru podmiotów wykonujących działalność leczniczą;
 - **17)** informację o zaprzestaniu wykonywania zawodu;
 - **18)** informację o zawieszeniu prawa wykonywania zawodu;
 - **19)** informację o przyczynie wygaśnięcia prawa wykonywania zawodu;
@@ -467,7 +585,7 @@ source: "isap-pdf"
 
 4. Krajowa Rada Fizjoterapeutów udostępnia systemowi informacji w ochronie zdrowia, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, dane objęte Krajowym Rejestrem Fizjoterapeutów.
 
-**Art. 32.** Fizjoterapeuta wpisany do Krajowego Rejestru Fizjoterapeutów jest obowiązany niezwłocznie zawiadomić Krajową Radę Fizjoterapeutów o zmianach danych, o których mowa w art. 30 ust. 1, niepóźniej niż w terminie 14 dni od dnia zaistnienia okoliczności stanowiących podstawę zmiany wpisu.
+**Art. 32.** Fizjoterapeuta wpisany do Krajowego Rejestru Fizjoterapeutów jest obowiązany niezwłocznie zawiadomić Krajową Radę Fizjoterapeutów o zmianach danych, o których mowa w art. 30 ust. 1, nie później niż w terminie 14 dni od dnia zaistnienia okoliczności stanowiących podstawę zmiany wpisu.
 
 **Art. 33.**
 
@@ -540,7 +658,7 @@ source: "isap-pdf"
 
 2. Akredytacja może zostać udzielona podmiotom, które:
 
-- **1)** powołały zespół do spraw szkolenia specjalizacyjnego, w tym podpisały umowy na pełnienie obowiązków kierowników specjalizacji z osobami posiadającymi tytuł specjalisty w dziedzinie fizjoterapii albo z osobami, którym minister właściwy do spraw zdrowia powierzył obowiązki specjalisty w dziedzinie fizjoterapii zgodnie z przepisami wydanymi na podstawie art. 10 ust. 5 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. z 2007 r. poz. 89, z późn. zm. ) ;
+- **1)** powołały zespół do spraw szkolenia specjalizacyjnego, w tym podpisały umowy na pełnienie obowiązków kierowników specjalizacji z osobami posiadającymi tytuł specjalisty w dziedzinie fizjoterapii albo z osobami, którym minister właściwy do spraw zdrowia powierzył obowiązki specjalisty w dziedzinie fizjoterapii zgodnie z przepisami wydanymi na podstawie art. 10 ust. 5 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. z 2007 r. Nr 14, poz. 89, z późn. zm.);
 - **2)** spełniają standardy kształcenia określone w programie specjalizacji;
 - **3)** są podmiotami, których działalność obejmuje profil prowadzonego szkolenia specjalizacyjnego i które zawarły porozumienia z innymi podmiotami na realizację staży kierunkowych lub kursów specjalizacyjnych określonych programem specjalizacji, jeżeli ich odbywania jednostka szkoląca nie może zapewnić w ramach swojej struktury organizacyjnej;
 - **4)** opracowały regulamin organizacyjny szkolenia specjalizacyjnego.
@@ -577,14 +695,14 @@ source: "isap-pdf"
 - **2)** dwóch ekspertów w dziedzinie fizjoterapii, zgłoszonych przez konsultanta krajowego w dziedzinie fizjoterapii albo w dziedzinie pokrewnej, jeżeli w tej dziedzinie nie ma powołanego konsultanta krajowego;
 - **3)** przedstawiciel Krajowej Rady Fizjoterapeutów, zwany dalej „przedstawicielem KRF”.
 
-9. Zespół ekspertów, o którym mowa w ust. 8, opiniuje wnioski w miarę potrzeby, nierzadziej niż raz na kwartał i przekazuje swoją opinię dyrektorowi CMKP niezwłocznie po jej sporządzeniu, niepóźniej jednak niż w terminie 7 dni od dnia jej sporządzenia. Wnioski mogą być opiniowane w trybie obiegowym, z użyciem dostępnych systemów teleinformatycznych lub systemów łączności.
+9. Zespół ekspertów, o którym mowa w ust. 8, opiniuje wnioski w miarę potrzeby, nie rzadziej niż raz na kwartał i przekazuje swoją opinię dyrektorowi CMKP niezwłocznie po jej sporządzeniu, nie później jednak niż w terminie 7 dni od dnia jej sporządzenia. Wnioski mogą być opiniowane w trybie obiegowym, z użyciem dostępnych systemów teleinformatycznych lub systemów łączności.
 
 10. Dyrektor CMKP:
 
 - **1)** dokonuje wpisu jednostki szkolącej na prowadzoną przez siebie listę jednostek posiadających akredytację, wraz z określeniem maksymalnej liczby miejsc szkoleniowych w zakresie danego szkolenia specjalizacyjnego dla osób mogących odbywać szkolenie specjalizacyjne, na okres 5 lat, w przypadku gdy opinia zespołu ekspertów, o którym mowa w ust. 8, jest pozytywna, albo
 - **2)** odmawia wpisu podmiotu, o którym mowa w ust. 1, na prowadzoną przez siebie listę jednostek szkolących, w przypadku gdy opinia zespołu ekspertów, o którym mowa w ust. 8, jest negatywna i zawiadamia o tym niezwłocznie wnioskodawcę.
 
-11. Dyrektor CMKP występuje do jednostki szkolącej wpisanej na listę, o której mowa w ust. 10, na 6 miesięcy przed dniem upływu okresu, o którym mowa w ust. 10 pkt 1, o weryfikację akredytacji, mając na względzie konieczność zapewnienia fizjoterapeutom ciągłości szkolenia specjalizacyjnego w tej jednostce. Przepisy ust. 1– 10 stosuje się odpowiednio.
+11. Dyrektor CMKP występuje do jednostki szkolącej wpisanej na listę, o której mowa w ust. 10, na 6 miesięcy przed dniem upływu okresu, o którym mowa w ust. 10 pkt 1, o weryfikację akredytacji, mając na względzie konieczność zapewnienia fizjoterapeutom ciągłości szkolenia specjalizacyjnego w tej jednostce. Przepisy ust. 1–10 stosuje się odpowiednio.
 
 12. Dyrektor CMKP publikuje i aktualizuje na swojej stronie internetowej listę jednostek szkolących.
 
@@ -593,8 +711,6 @@ source: "isap-pdf"
 14. Dyrektor CMKP, w drodze decyzji, skreśla z listy, o której mowa w ust. 10, jednostkę szkolącą, która nie realizuje szczegółowego programu specjalizacji lub nie przestrzega standardów szkolenia specjalizacyjnego fizjoterapeutów, o których mowa w ust. 2 pkt 2, albo przestała spełniać warunki niezbędne do uzyskania akredytacji do szkolenia specjalizacyjnego. Od decyzji tej przysługuje wniosek o ponowne rozpatrzenie sprawy.
 
 15. Staże kierunkowe i kursy specjalizacyjne objęte programem specjalizacji prowadzą podmioty, o których mowa w ust. 1 albo w ust. 2 pkt 3. CMKP koordynuje organizację staży kierunkowych oraz kursów specjalizacyjnych objętych programem specjalizacji zgodnie z wymogami specjalizacji oraz liczbą i rozmieszczeniem regionalnym fizjoterapeutów odbywających szkolenie specjalizacyjne.
-
-15a. Kursy specjalizacyjne, o których mowa w ust. 15, mogą być realizowane z wykorzystaniem metod i technik kształcenia na odległość, jeżeli możliwość takiej formy przewiduje program specjalizacji lub została uzyskana zgoda dyrektora CMKP.
 
 16. Dyrektor CMKP publikuje na swojej stronie internetowej listę staży kierunkowych oraz listę kursów specjalizacyjnych, objętych programem specjalizacji, które zawierają:
 
@@ -657,31 +773,31 @@ source: "isap-pdf"
 
 12. Osobom wykonującym czynności kontrolne przysługuje:
 
-- **1)** wynagrodzenie za wykonanie czynności kontrolnych w wysokości niewyższej niż 300 zł;
-- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
+- **1)** wynagrodzenie za wykonanie czynności kontrolnych w wysokości nie wyższej niż 300 zł;
+- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 775 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
 - **3)** zwolnienie od pracy w dniach wykonywania czynności kontrolnych bez zachowania prawa do wynagrodzenia.
 
 **Art. 38.**
 
 1. Program specjalizacji zawiera:
 
-- **1)** założenia organizacyjno-programowe, określające:
-    - **a)** cele szkolenia,
-    - **b)** uzyskane kompetencje zawodowe,
-    - **c)** sposób organizacji szkolenia specjalizacyjnego;
+- **1)** założenia organizacyjno-programowe, określające: cele szkolenia, uzyskane kompetencje zawodowe, sposób organizacji szkolenia specjalizacyjnego;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **2)** okres szkolenia specjalizacyjnego, w tym liczbę godzin stażu podstawowego;
 - **3)** szczegółowy zakres wymaganej wiedzy teoretycznej i wykaz umiejętności praktycznych będących przedmiotem szkolenia specjalizacyjnego;
-- **4)** moduły szkolenia specjalizacyjnego oraz formy i metody kształcenia stosowane w ramach modułów, w tym:
-    - **a)** kursy obejmujące szczegółowy zakres wiedzy teoretycznej i umiejętności praktycznych będących przedmiotem kursu, zwane dalej „kursami”, oraz ich wymiar godzinowy, w tym kurs w zakresie prawa medycznego,
-    - **b)** staże kierunkowe obejmujące określony zakres wymaganych umiejętności praktycznych będących przedmiotem stażu kierunkowego oraz miejsce, liczbę godzin i sposób zaliczenia poszczególnych staży kierunkowych;
+- **4)** moduły szkolenia specjalizacyjnego oraz formy i metody kształcenia stosowane w ramach modułów, w tym: kursy obejmujące szczegółowy zakres wiedzy teoretycznej i umiejętności praktycznych będących przedmiotem kursu, zwane dalej „kursami”, oraz ich wymiar godzinowy, w tym kurs w zakresie prawa medycznego, staże kierunkowe obejmujące określony zakres wymaganych umiejętności praktycznych będących przedmiotem stażu kierunkowego oraz miejsce, liczbę godzin i sposób zaliczenia poszczególnych staży kierunkowych;
+    - **a)**
+    - **b)**
 
 - **5)** formy i metody samokształcenia, w tym przygotowanie opracowań teoretycznych, pracy poglądowej lub pracy oryginalnej, której temat odpowiada programowi specjalizacji;
-- **6)** metody oceny wiedzy teoretycznej i nabytych umiejętności praktycznych, w tym:
-    - **a)** kolokwium z zakresu wiedzy teoretycznej objętej programem danego modułu,
-    - **b)** sprawdzian z zakresu określonego programem kursu,
-    - **c)** kolokwium z zakresu wiedzy teoretycznej i sprawdzian umiejętności praktycznych objętych programem stażu kierunkowego,
-    - **d)** ocenę złożonych opracowań teoretycznych, pracy poglądowej lub pracy oryginalnej.
+- **6)** metody oceny wiedzy teoretycznej i nabytych umiejętności praktycznych, w tym: kolokwium z zakresu wiedzy teoretycznej objętej programem danego modułu, sprawdzian z zakresu określonego programem kursu, kolokwium z zakresu wiedzy teoretycznej i sprawdzian umiejętności praktycznych objętych programem stażu kierunkowego, ocenę złożonych opracowań teoretycznych, pracy poglądowej lub pracy oryginalnej.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 2. Program specjalizacji określa ponadto standardy kształcenia szkolenia specjalizacyjnego, uwzględniając dane dotyczące:
 
@@ -722,7 +838,7 @@ source: "isap-pdf"
 - **3)** posiada tytuł magistra wymieniony w art. 13 ust. 3 i spełnia wymagania określone w tym przepisie;
 - **4)** został zakwalifikowany do odbycia szkolenia specjalizacyjnego w postępowaniu kwalifikacyjnym.
 
-2. Fizjoterapeuta, o którym mowa w ust. 1, składa wniosek do wojewody właściwego ze względu na obszar województwa, na terenie którego zamierza odbywać szkolenie specjalizacyjne. Wniosek może zostać złożony również w postaci elektronicznej, opatrzony kwalifikowanym podpisem elektronicznym, podpisem osobistym albo podpisem zaufanym.
+2. Fizjoterapeuta, o którym mowa w ust. 1, składa wniosek do wojewody właściwego ze względu na obszar województwa, na terenie którego zamierza odbywać szkolenie specjalizacyjne.
 
 3. Wniosek, o którym mowa w ust. 1, zawiera:
 
@@ -746,15 +862,11 @@ source: "isap-pdf"
 - **3)** dokument potwierdzający okres zatrudnienia w zawodzie;
 - **4)** oświadczenie dotyczące rodzaju publikacji.
 
-4a. W przypadku gdy wniosek jest składany w sposób określony w ust. 2 zdanie drugie, wymagane załączniki mogą być przekazane w formie elektronicznych kopii.
-
 5. Oświadczenie, o którym mowa w ust. 4 pkt 4, fizjoterapeuta składa pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany zawrzeć w nim klauzulę następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
 
 6. Wniosek składa się każdego roku w terminie od dnia 15 listopada do dnia 15 grudnia na postępowanie kwalifikacyjne przeprowadzane w terminie od dnia 16 grudnia do dnia 15 stycznia albo od dnia 30 kwietnia do dnia 31 maja na postępowanie kwalifikacyjne przeprowadzane w terminie od dnia 1 czerwca do dnia 30 czerwca.
 
-6a. W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii minister właściwy do spraw zdrowia może zmienić terminy, o których mowa w ust. 6. W przypadku nieustania okoliczności będących przyczyną zmiany terminów minister właściwy do spraw zdrowia dokonuje ponownej zmiany tych terminów, jednak łączny okres przesunięcia danego terminu nie może być dłuższy niż 5 miesięcy. Informację o zmianie tych terminów minister właściwy do spraw zdrowia ogłasza na swojej stronie internetowej.
-
-7. Do terminów, o których mowa w ust. 6 albo wyznaczonych na podstawie ust. 6a, nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+7. Do terminów, o których mowa w ust. 6, nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 8. Fizjoterapeuta ubiegający się o odbywanie szkolenia specjalizacyjnego w dziedzinie fizjoterapii może być w danym terminie dopuszczony do postępowania kwalifikacyjnego tylko w jednym województwie.
 
@@ -764,22 +876,20 @@ source: "isap-pdf"
 
 2. Postępowanie kwalifikacyjne przeprowadza się dwa razy w roku w terminie od dnia 16 grudnia do dnia 15 stycznia oraz od dnia 1 czerwca do dnia 30 czerwca.
 
-2a. W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii minister właściwy do spraw zdrowia może zmienić terminy, o których mowa w ust. 2. W przypadku nieustania okoliczności będących przyczyną zmiany terminów minister właściwy do spraw zdrowia dokonuje ponownej zmiany tych terminów, jednak łączny okres przesunięcia danego terminu nie może być dłuższy niż 5 miesięcy. Informację o zmianie tych terminów minister właściwy do spraw zdrowia ogłasza na swojej stronie internetowej.
+3. Postępowanie konkursowe przeprowadza się, jeżeli liczba kandydatów do odbycia szkolenia specjalizacyjnego spełniających warunki określone w ust. 1 jest większa niż liczba miejsc szkoleniowych. W postępowaniu konkursowym przyznaje się punkty za:
 
-3. Postępowanie konkursowe przeprowadza się, jeżeli liczba kandydatów do odbycia szkolenia specjalizacyjnego spełniających warunki określone w ust. 1 jest większa niż liczba miejsc szkoleniowych, przy czym:
-
-- **1)** (uchylony)
-- **2)** w postępowaniu konkursowym przyznaje się punkty za:
-    - **a)** staż pracy w zawodzie fizjoterapeuty, w pełnym wymiarze czasu pracy – 2 punkty za każdy rok, niewięcej niż 6 punktów,
-    - **b)** posiadanie stopnia naukowego doktora – 18 punktów,
-    - **c)** opublikowanie jako autor lub współautor: – podręcznika naukowego z zakresu fizjoterapii – 2 punkty za każdy, niewięcej niż 6 punktów, – artykułu naukowego z zakresu fizjoterapii w czasopiśmie recenzowanym – 1 punkt za każdy, niewięcej niż 10 punktów,
-    - **d)** szkolenie podyplomowe z zakresu fizjoterapii, gdzie 100 godzin szkolenia jest równe 2 punktom, niewięcej niż 10 punktów;
+- **1)** w przypadku fizjoterapeuty, który rozpoczął kształcenie po dniu wejścia w życie niniejszej ustawy, wynik PEF – nie więcej niż 50 punktów;
+- **2)** w przypadku fizjoterapeutów, którzy nabyli kwalifikacje na podstawie dotychczasowych przepisów: staż pracy w zawodzie fizjoterapeuty, w pełnym wymiarze czasu pracy – 2 punkty za każdy rok, nie więcej niż 6 punktów, posiadanie stopnia naukowego doktora – 18 punktów, opublikowanie jako autor lub współautor: – podręcznika naukowego z zakresu fizjoterapii – 2 punkty za każdy, nie więcej niż 6 punktów, – artykułu naukowego z zakresu fizjoterapii w czasopiśmie recenzowanym – 1 punkt za każdy, nie więcej niż 10 punktów, szkolenie podyplomowe z zakresu fizjoterapii, gdzie 100 godzin szkolenia jest równe 2 punktom, nie więcej niż 10 punktów;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **3)** w przypadku gdy co najmniej dwóch kandydatów ubiegających się o miejsce szkoleniowe w dziedzinie fizjoterapii uzyskało identyczny wynik w postępowaniu konkursowym uwzględnia się wynik studiów na dyplomie ukończenia studiów wyższych;
 - **4)** w przypadku gdy co najmniej dwóch kandydatów ubiegających się o miejsce szkoleniowe w dziedzinie fizjoterapii ma identyczny wynik studiów na dyplomie ukończenia studiów wyższych, uwzględnia się średnią ocen uzyskaną w okresie studiów liczoną do dwóch znaków po przecinku, ze wskazaniem skali ocen jaka obowiązywała na uczelni;
 - **5)** w przypadku, o którym mowa w pkt 4, wojewoda wzywa niezwłocznie kandydatów do dostarczenia dokumentu poświadczającego średnią ocen uzyskaną w okresie studiów liczoną do dwóch znaków po przecinku.
 
-4. Wynik postępowania konkursowego stanowi procent maksymalnej liczby punktów, o których mowa w ust. 3 pkt 2.
+4. Wynik postępowania konkursowego stanowi procent maksymalnej liczby punktów uzyskanych za PEF albo punktów, o których mowa w ust. 3 pkt 2.
 
 5. Fizjoterapeuta może zwrócić się do organu prowadzącego postępowanie kwalifikacyjne o weryfikację postępowania kwalifikacyjnego, w terminie 20 dni od dnia ogłoszenia na stronie internetowej tego organu listy fizjoterapeutów zakwalifikowanych i niezakwalifikowanych do rozpoczęcia danego szkolenia specjalizacyjnego.
 
@@ -789,7 +899,7 @@ source: "isap-pdf"
 
 8. Wojewoda zawiadamia wnioskodawcę o wyniku postępowania kwalifikacyjnego.
 
-9. Wnioskodawca, który nie został zakwalifikowany do odbycia szkolenia specjalizacyjnego, może zwrócić się do wojewody o weryfikację postępowania kwalifikacyjnego, w terminie 7 dni od dnia przekazania zawiadomienia, o którym mowa w ust. 8. O rozstrzygnięciu sprawy wojewoda zawiadamia wnioskodawcę niezwłocznie, niepóźniej niż w terminie 7 dni od dnia otrzymania wniosku.
+9. Wnioskodawca, który nie został zakwalifikowany do odbycia szkolenia specjalizacyjnego, może zwrócić się do wojewody o weryfikację postępowania kwalifikacyjnego, w terminie 7 dni od dnia przekazania zawiadomienia, o którym mowa w ust. 8. O rozstrzygnięciu sprawy wojewoda zawiadamia wnioskodawcę niezwłocznie, nie później niż w terminie 7 dni od dnia otrzymania wniosku.
 
 10. Wojewoda, uwzględniając wynik przeprowadzonego postępowania kwalifikacyjnego, wydaje wnioskodawcy skierowanie do odbywania szkolenia specjalizacyjnego w jednostce szkolącej, posiadającej wolne miejsca szkoleniowe, ze wskazaniem okresu jego odbywania.
 
@@ -797,13 +907,9 @@ source: "isap-pdf"
 
 12. KS z wymaganymi wpisami stanowi dowód odbycia szkolenia specjalizacyjnego zgodnie z programem specjalizacji.
 
-13. W tym samym czasie można odbywać tylko jedno szkolenie specjalizacyjne. Szkolenie specjalizacyjne jest jedno-stopniowe.
+13. W tym samym czasie można odbywać tylko jedno szkolenie specjalizacyjne. Szkolenie specjalizacyjne jest jednostopniowe.
 
-**Art. 42.**
-
-1. Fizjoterapeuta zakwalifikowany do rozpoczęcia szkolenia specjalizacyjnego rozpoczyna je w terminie niedłuższym niż 3 miesiące od daty określonej w KS, jako planowana data rozpoczęcia szkolenia. Kierownik specjalizacji potwierdza faktyczną datę rozpoczęcia szkolenia specjalizacyjnego w KS.
-
-2. W przypadkach uzasadnionych nadzwyczajnymi okolicznościami, w szczególności zagrażającymi życiu lub zdrowiu osób zakwalifikowanych do rozpoczęcia szkolenia specjalizacyjnego, minister właściwy do spraw zdrowia może wydłużyć czas na rozpoczęcie szkolenia specjalizacyjnego o okres niedłuższy niż 6 miesięcy. W przypadku nieustania okoliczności będących podstawą przedłużenia czasu rozpoczęcia szkolenia specjalizacyjnego, minister właściwy do spraw zdrowia może powtórnie przedłużyć czas rozpoczęcia szkolenia o okres niedłuższy niż 3 miesiące.
+**Art. 42.** Fizjoterapeuta zakwalifikowany do rozpoczęcia szkolenia specjalizacyjnego rozpoczyna je w terminie nie dłuższym niż 3 miesiące od daty określonej w KS, jako planowana data rozpoczęcia szkolenia. Kierownik specjalizacji potwierdza faktyczną datę rozpoczęcia szkolenia specjalizacyjnego w KS.
 
 **Art. 43.**
 
@@ -834,7 +940,7 @@ source: "isap-pdf"
 - **1)** umowy o pracę zawartej na czas nieokreślony albo określony czasem specjalizacji z podmiotem, który uzyskał akredytację do prowadzenia szkolenia specjalizacyjnego i płatnego urlopu szkoleniowego udzielonego na podstawie odrębnych przepisów lub urlopu bezpłatnego udzielonego na czas realizacji kursów i staży kierunkowych w oparciu o zasady określone w umowie, o której mowa w ust. 2, albo
 - **2)** umowy o pracę zawartej na czas nieokreślony albo określony okresem specjalizacji z innym podmiotem niż określony w pkt 1 i płatnego urlopu szkoleniowego udzielonego na podstawie odrębnych przepisów na czas realizacji podstawowego stażu specjalizacyjnego, kursów i staży kierunkowych w oparciu o zasady określone w umowie, o której mowa w ust. 2, albo
 - **3)** umowy zawartej na okres specjalizacji z podmiotem, o którym mowa w pkt 1, albo
-- **4)** poszerzenia zajęć programowych studiów podyplomowych o program specjalizacji zgodny z zakresem tych studiów.
+- **4)** poszerzenia zajęć programowych stacjonarnych studiów doktoranckich o program specjalizacji zgodny z kierunkiem tych studiów.
 
 2. Fizjoterapeuta, o którym mowa w ust. 1 pkt 1 i 2, zawiera z pracodawcą umowę określającą wzajemne prawa i obowiązki stron wynikające z realizowania programu specjalizacji.
 
@@ -847,10 +953,10 @@ source: "isap-pdf"
 1. Okres szkolenia specjalizacyjnego określony w programie specjalizacji ulega przedłużeniu o czas nieobecności osoby odbywającej szkolenie specjalizacyjne w pracy:
 
 - **1)** przez okres pobierania świadczeń, o których mowa w art. 2 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa;
-- **2)** z powodu urlopu bezpłatnego udzielonego przez pracodawcę na czas niedłuższy niż 3 miesiące w okresie szkolenia specjalizacyjnego;
-- **3)** w przypadkach określonych w art. 92, art. 176–179, art. 182 , art. 185, art. 187 i art. 188 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
-- **4)** z powodu przerwy niedłuższej niż 14 dni wynikającej z procedur stosowanych przy zmianie jednostki szkolącej;
-- **5)** z powodu przerwy niedłuższej niż 12 miesięcy wynikającej z realizacji specjalizacji odbywanej w trybie poszerzenia zajęć programowych studiów podyplomowych o program specjalizacji zgodny z zakresem tych studiów.
+- **2)** z powodu urlopu bezpłatnego udzielonego przez pracodawcę na czas nie dłuższy niż 3 miesiące w okresie szkolenia specjalizacyjnego;
+- **3)** w przypadkach określonych w art. 92, art. 176–179, art. 1823, art. 185, art. 187 i art. 188 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
+- **4)** z powodu przerwy nie dłuższej niż 14 dni wynikającej z procedur stosowanych przy zmianie jednostki szkolącej;
+- **5)** z powodu przerwy nie dłuższej niż 12 miesięcy wynikającej z realizacji specjalizacji odbywanej w trybie poszerzenia zajęć programowych studiów doktoranckich o program specjalizacji zgodny z kierunkiem tych studiów.
 
 2. Okres szkolenia specjalizacyjnego zostaje dodatkowo przedłużony o okres udzielonego osobie odbywającej szkolenie przez pracodawcę urlopu wychowawczego na zasadach określonych w odrębnych przepisach.
 
@@ -868,7 +974,7 @@ source: "isap-pdf"
 
 **Art. 46.**
 
-1. Okres szkolenia specjalizacyjnego określony w programie specjalizacji może być skrócony na uzasadniony wniosek osoby odbywającej szkolenie specjalizacyjne, pod warunkiem pełnego zrealizowania programu specjalizacji, o okres niedłuższy niż 1/2 okresu szkolenia.
+1. Okres szkolenia specjalizacyjnego określony w programie specjalizacji może być skrócony na uzasadniony wniosek osoby odbywającej szkolenie specjalizacyjne, pod warunkiem pełnego zrealizowania programu specjalizacji, o okres nie dłuższy niż 1/2 okresu szkolenia.
 
 2. Dyrektor CMKP rozstrzyga o skróceniu okresu odbywania szkolenia specjalizacyjnego na podstawie opinii powołanego przez siebie zespołu. Rozstrzygnięcie następuje w drodze decyzji i zamieszcza się w nim:
 
@@ -897,9 +1003,9 @@ source: "isap-pdf"
 
 2. Kierownika specjalizacji powołuje i odwołuje, za jego zgodą, kierownik jednostki szkolącej.
 
-3. Kierownikiem specjalizacji może być osoba posiadająca tytuł specjalisty w dziedzinie fizjoterapii, a w uzasadnionych przypadkach w dziedzinie pokrewnej albo osoba, której minister właściwy do spraw zdrowia powierzył obowiązki specjalisty w dziedzinie fizjoterapii zgodnie z przepisami wydanymi na podstawie art. 10 ust. 5 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej .
+3. Kierownikiem specjalizacji może być osoba posiadająca tytuł specjalisty w dziedzinie fizjoterapii, a w uzasadnionych przypadkach w dziedzinie pokrewnej albo osoba, której minister właściwy do spraw zdrowia powierzył obowiązki specjalisty w dziedzinie fizjoterapii zgodnie z przepisami wydanymi na podstawie art. 10 ust. 5 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej.
 
-4. Kierownik specjalizacji może wykonywać swoje obowiązki związane ze szkoleniem specjalizacyjnym wobec niewięcej niż 3 osób, a w uzasadnionych przypadkach, za zgodą konsultanta krajowego w dziedzinie fizjoterapii albo pokrewnej, jeżeli w tej dziedzinie nie ma powołanego konsultanta, wobec niewięcej niż 4 osób.
+4. Kierownik specjalizacji może wykonywać swoje obowiązki związane ze szkoleniem specjalizacyjnym wobec nie więcej niż 3 osób, a w uzasadnionych przypadkach, za zgodą konsultanta krajowego w dziedzinie fizjoterapii albo pokrewnej, jeżeli w tej dziedzinie nie ma powołanego konsultanta, wobec nie więcej niż 4 osób.
 
 5. Odwołanie kierownika specjalizacji może nastąpić w przypadku:
 
@@ -929,7 +1035,7 @@ source: "isap-pdf"
 - **1)** udziału w egzaminie ustnym lub praktycznym wchodzącym w skład PESFZ w charakterze obserwatora;
 - **2)** upoważnienia osoby, o której mowa w ust. 10, za jej zgodą, do wykonywania czynności opiekuna stażu kierunkowego.
 
-10. Nadzór nad realizacją programu staży kierunkowych, wynikających z programu specjalizacji w dziedzinie fizjoterapii może sprawować osoba posiadająca tytuł specjalisty w dziedzinie fizjoterapii albo osoba, posiadająca decyzję ministra właściwego do spraw zdrowia o uznaniu dotychczasowego doświadczenia zawodowego i dorobku naukowego fizjoterapeuty za równoważny ze zrealizowaniem programu specjalizacji, uzyskanej na podstawie dotychczasowych przepisów, zwana dalej „opiekunem stażu kierunkowego”. Osoba, o której mowa w ust. 9 pkt 2, zapewnia bezpośredni nadzór nad realizacją programu staży kierunkowych, niewięcej niż 3 osób.
+10. Nadzór nad realizacją programu staży kierunkowych, wynikających z programu specjalizacji w dziedzinie fizjoterapii może sprawować osoba posiadająca tytuł specjalisty w dziedzinie fizjoterapii albo osoba, posiadająca decyzję ministra właściwego do spraw zdrowia o uznaniu dotychczasowego doświadczenia zawodowego i dorobku naukowego fizjoterapeuty za równoważny ze zrealizowaniem programu specjalizacji, uzyskanej na podstawie dotychczasowych przepisów, zwana dalej „opiekunem stażu kierunkowego”. Osoba, o której mowa w ust. 9 pkt 2, zapewnia bezpośredni nadzór nad realizacją programu staży kierunkowych, nie więcej niż 3 osób.
 
 **Art. 48.**
 
@@ -981,8 +1087,6 @@ source: "isap-pdf"
 
 8. Wniosek i dokumenty, o których mowa w ust. 5, składa się w terminie do dnia 15 lipca każdego roku dla sesji jesiennej albo do dnia 15 stycznia każdego roku dla sesji wiosennej. Do tych terminów nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
-8a. W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii minister właściwy do spraw zdrowia może zmienić terminy, o których mowa w ust. 8. W przypadku nieustania okoliczności będących przyczyną zmiany terminów minister właściwy do spraw zdrowia dokonuje ponownej zmiany tych terminów, jednak łączny okres przesunięcia danego terminu nie może być dłuższy niż 5 miesięcy. Do tych terminów nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. Informację o zmianie tych terminów minister właściwy do spraw zdrowia ogłasza na swojej stronie internetowej.
-
 9. Wojewoda weryfikuje wniosek i dokumenty wnioskodawcy pod względem formalnym. W przypadku gdy dokumenty te nie spełniają warunków formalnych, wnioskodawca wzywany jest do uzupełnienia braków formalnych w terminie 7 dni od dnia doręczenia wezwania. Przepisy art. 58–60 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się.
 
 10. Wojewoda, w terminie 14 dni od dnia otrzymania kompletnego wniosku i dokumentów, o których mowa w ust. 5, przekazuje je właściwemu konsultantowi krajowemu i zwraca się o weryfikację, w terminie 14 dni od dnia ich doręczenia, czy wnioskodawca odbył szkolenie specjalizacyjne zgodnie z programem specjalizacji. Konsultant krajowy przekazuje właściwemu wojewodzie rozstrzygnięcie i zwraca wniosek i dokumenty, które są następnie przechowywane przez wojewodę zgodnie z przepisami art. 5 i art. 6 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach.
@@ -1002,21 +1106,15 @@ source: "isap-pdf"
 
 16. Wojewoda opracowuję listę osób dopuszczonych do PESFZ, którą przekazuje za pomocą środków komunikacji elektronicznej do CEM.
 
-17. CEM ustala listy fizjoterapeutów zdających PESFZ w danym miejscu i terminie oraz zawiadamia te osoby o terminie i miejscu egzaminu i nadanym numerze kodowym, niepóźniej niż 21 dni przed dniem jego rozpoczęcia, pocztą elektroniczną na adres wskazany we wniosku, o którym mowa w ust. 5, a w przypadku jego braku, pocztą na wskazany w tym wniosku adres do korespondencji.
+17. CEM ustala listy fizjoterapeutów zdających PESFZ w danym miejscu i terminie oraz zawiadamia te osoby o terminie i miejscu egzaminu i nadanym numerze kodowym, nie później niż 21 dni przed dniem jego rozpoczęcia, pocztą elektroniczną na adres wskazany we wniosku, o którym mowa w ust. 5, a w przypadku jego braku, pocztą na wskazany w tym wniosku adres do korespondencji.
 
 **Art. 50.**
 
-1. Wnioskodawca wnosi opłatę egzaminacyjną w wysokości niewyższej niż 25 % przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku za ubiegły rok, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w drodze obwieszczenia, do dnia 15 stycznia każdego roku.
+1. Wnioskodawca wnosi opłatę egzaminacyjną w wysokości nie wyższej niż 25% przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku za ubiegły rok, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w drodze obwieszczenia, do dnia 15 stycznia każdego roku.
 
 2. Opłata, o której mowa w ust. 1, stanowi dochód budżetu państwa.
 
 3. W przypadku niewniesienia opłaty, o której mowa w ust. 1, albo wniesienia jej w wysokości niższej niż należna, dyrektor CEM wzywa wnioskodawcę do uzupełnienia braków formalnych pocztą elektroniczną na adres wskazany we wniosku, o którym mowa w art. 49 ust. 5, a w przypadku jego braku, pocztą na wskazany w tym wniosku adres do korespondencji. Przepisy art. 64 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się z zastrzeżeniem, że w przypadku bezskutecznego upływu terminu do uzupełnienia braków formalnych dotknięte nim zgłoszenie do PESFZ traktuje się jako niezłożone.
-
-4. Z opłaty, o której mowa w ust. 1, za kolejne zgłoszenie do PESFZ może zostać zwolniony fizjoterapeuta, który w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii mimo zgłoszenia się do PESFZ nie przystąpił do tego egzaminu.
-
-5. W celu uzyskania zwolnienia z opłaty, o którym mowa w ust. 4, fizjoterapeuta w terminie 30 dni od dnia, w którym odbył się PESFZ, do którego miał przystąpić, składa do dyrektora CEM wniosek o zwolnienie z opłaty za kolejne zgłoszenie do PESFZ.
-
-6. Do terminu, o którym mowa w ust. 5, nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 **Art. 51.**
 
@@ -1026,7 +1124,7 @@ source: "isap-pdf"
 
 3. Przewodniczącego PKE, Przewodniczącego Zespołu Egzaminacyjnego i jej członków powołuje i odwołuje dyrektor CEM.
 
-4. Przewodniczący PKE i jej członkowie powinni posiadać tytuł specjalisty w dziedzinie fizjoterapii albo w dziedzinach pokrewnych, albo decyzję ministra właściwego do spraw zdrowia o powierzeniu obowiązków specjalisty w dziedzinie fizjoterapii zgodnie z przepisami wydanymi na podstawie art. 10 ust. 5 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej .
+4. Przewodniczący PKE i jej członkowie powinni posiadać tytuł specjalisty w dziedzinie fizjoterapii albo w dziedzinach pokrewnych, albo decyzję ministra właściwego do spraw zdrowia o powierzeniu obowiązków specjalisty w dziedzinie fizjoterapii zgodnie z przepisami wydanymi na podstawie art. 10 ust. 5 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej.
 
 5. Członkiem PKE nie może być osoba skazana prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe.
 
@@ -1075,9 +1173,9 @@ source: "isap-pdf"
 2. Członkiem Zespołu Egzaminacyjnego nie może być osoba, w stosunku do której kandydat do złożenia PESFZ w tym Zespole Egzaminacyjnym jest:
 
 - **1)** małżonkiem;
-- **2)** osobą pozostającą w stosunku:
-    - **a)** pokrewieństwa albo powinowactwa do drugiego stopnia,
-    - **b)** przysposobienia;
+- **2)** osobą pozostającą w stosunku: pokrewieństwa albo powinowactwa do drugiego stopnia, przysposobienia;
+    - **a)**
+    - **b)**
 
 - **3)** osobą pozostającą we wspólnym pożyciu;
 - **4)** osobą pozostającą w stosunku zależności służbowej.
@@ -1088,25 +1186,23 @@ source: "isap-pdf"
 
 5. Członkom Zespołów Egzaminacyjnych przysługuje:
 
-- **1)** wynagrodzenie za udział w pracach tego Zespołu, w wysokości niewyższej niż 500 zł dla Przewodniczącego Zespołu oraz niewyższej niż 300 zł dla członka Zespołu;
-- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
+- **1)** wynagrodzenie za udział w pracach tego Zespołu, w wysokości nie wyższej niż 500 zł dla Przewodniczącego Zespołu oraz nie wyższej niż 300 zł dla członka Zespołu;
+- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 775 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
 - **3)** zwolnienie od pracy w dniu wykonywania czynności Zespołu Egzaminacyjnego bez zachowania prawa do wynagrodzenia.
 
 6. Dyrektor CEM określa, w drodze zarządzenia, szczegóły dotyczące warunków wypłaty wynagrodzenia, o którym mowa w ust. 5 pkt 1, oraz zwrotu kosztów, o których mowa w ust. 5 pkt 2.
 
 **Art. 53.** Do zadań Zespołu Egzaminacyjnego przeprowadzającego dany PESFZ należy:
 
+- **1)** przeprowadzenie PESFZ zgodnie z regulaminem porządkowym, o którym mowa w art. 54 ust. 8;
+- **2)** przekazanie do CEM kart odpowiedzi, niezwłocznie po zakończonym egzaminie testowym, w sposób uniemożliwiający dokonywanie zmian w ich treści;
+- **3)** przekazanie do CEM ocen z egzaminu ustnego i praktycznego oraz dokumentacji związanej z przeprowadzonym PESFZ, niezwłocznie po zakończonym PESFZ, nie później jednak niż w terminie 14 dni od dnia zakończenia PESFZ.
+
 **Art. 54.**
 
 1. Zakres PESFZ jest zgodny z programem specjalizacji.
 
 2. PESFZ jest przeprowadzany dwa razy w roku w sesji wiosennej od dnia 2 maja do dnia 15 czerwca oraz w sesji jesiennej od dnia 2 listopada do dnia 15 grudnia.
-
-2a. W przypadkach uzasadnionych nadzwyczajnymi okolicznościami, w szczególności zagrażającymi życiu lub zdrowiu osób biorących udział w PESFZ, minister właściwy do spraw zdrowia może odwołać w całości lub w części PESFZ. Odwołując PESFZ, minister właściwy do spraw zdrowia wydłuża czas trwania sesji egzaminacyjnej, w której miał się odbyć odwołany egzamin, jednorazowo o okres niedłuższy niż 6 miesięcy. W przypadku nieustania okoliczności będących podstawą przedłużenia sesji egzaminacyjnej w czasie, o który została przedłużona dana sesja, minister właściwy do spraw zdrowia może powtórnie przedłużyć czas trwania danej sesji egzaminacyjnej o okres niedłuższy niż 3 miesiące.
-
-2b. O odwołaniu całości lub części PESFZ i przedłużeniu sesji egzaminacyjnej minister właściwy do spraw zdrowia informuje na swojej stronie internetowej oraz na stronie internetowej CEM.
-
-2c. Dyrektor CEM w porozumieniu z ministrem właściwym do spraw zdrowia ustala nowe terminy PESFZ oraz informuje o nich osoby, które miały przystąpić do odwołanego PESFZ, co najmniej na dwa tygodnie przed datą egzaminu. Informacja o nowych terminach PESFZ jest zamieszczana na stronie internetowej CEM.
 
 3. PESFZ składa się z dwóch części w następującej kolejności: egzaminu teoretycznego i egzaminu praktycznego. Warunkiem dopuszczenia do części praktycznej PESFZ jest uzyskanie pozytywnego wyniku egzaminu teoretycznego.
 
@@ -1115,33 +1211,13 @@ source: "isap-pdf"
 - **1)** testu, gdy do PESFZ w sesji zostanie dopuszczonych co najmniej 30 osób;
 - **2)** egzaminu ustnego.
 
-5. Egzamin testowy odbywa się jednocześnie w całym kraju, w terminie ustalonym przez dyrektora CEM. Egzamin testowy polega na rozwiązaniu 120 pytań zawierających pięć wariantów odpowiedzi, z których tylko jeden jest prawidłowy. Osoba zdająca może wybrać tylko jedną odpowiedź. Za każdą prawidłową odpowiedź osoba zdająca uzyskuje 1 punkt. W przypadku braku odpowiedzi, udzielenia nieprawidłowej odpowiedzi albo zaznaczenia więcej niż jednej odpowiedzi punkty nie są przyznawane. Pozytywny wynik egzaminu testowego otrzymuje osoba egzaminowana, która uzyskała co najmniej 60 % maksymalnej liczby punktów z testu.
+5. Egzamin testowy odbywa się jednocześnie w całym kraju, w terminie ustalonym przez dyrektora CEM. Egzamin testowy polega na rozwiązaniu 120 pytań zawierających pięć wariantów odpowiedzi, z których tylko jeden jest prawidłowy. Osoba zdająca może wybrać tylko jedną odpowiedź. Za każdą prawidłową odpowiedź osoba zdająca uzyskuje 1 punkt. W przypadku braku odpowiedzi, udzielenia nieprawidłowej odpowiedzi albo zaznaczenia więcej niż jednej odpowiedzi punkty nie są przyznawane. Pozytywny wynik egzaminu testowego otrzymuje osoba egzaminowana, która uzyskała co najmniej 60% maksymalnej liczby punktów z testu.
 
 6. W przypadku uwag merytorycznych do pytań testowych, osoba zdająca ma prawo złożyć zastrzeżenie w trakcie trwania egzaminu testowego albo niezwłocznie po jego zakończeniu, przed opuszczeniem sali egzaminacyjnej. Zgłoszone zastrzeżenie zostanie zweryfikowane bezpośrednio po egzaminie testowym, przed obliczeniem jego wyników. W przypadku uznania zgłoszonego zastrzeżenia, zadanie testowe objęte zastrzeżeniem jest pomijane przy ustalaniu wyniku egzaminu testowego w stosunku do wszystkich zdających, co odpowiednio obniża liczbę możliwych do uzyskania punktów. Punkty za zadania unieważnione nie są przyznawane.
 
 7. Miejsca i terminy egzaminu praktycznego i ustnego ustala dyrektor CEM w porozumieniu z Przewodniczącym PKE.
 
 8. PESFZ przeprowadza się zgodnie z regulaminem porządkowym ustalonym przez dyrektora CEM i zatwierdzonym przez ministra właściwego do spraw zdrowia.
-
-9. W uzasadnionych przypadkach minister właściwy do spraw zdrowia może, na wniosek dyrektora CEM, wyrazić zgodę na odstąpienie od przeprowadzenia egzaminu testowego dla wszystkich fizjoterapeutów dopuszczonych do PESFZ, w określonej sesji egzaminacyjnej, z zachowaniem egzaminu ustnego, albo zdecydować o przeprowadzeniu PESFZ jeden raz w roku – z zachowaniem wszystkich jego części, w jednej z sesji egzaminacyjnych.
-
-10. W uzasadnionych przypadkach, związanych z wystąpieniem zwiększonego zagrożenia epidemicznego lub innych okoliczności zagrażających bezpieczeństwu osób uczestniczących w PESFZ, dyrektor CEM w porozumieniu z przewodniczącym właściwej PKE może zdecydować, że egzamin ustny PESFZ zostanie przeprowadzony za pośrednictwem środków komunikacji elektronicznej umożliwiających jednoczesny udział zdającego i wszystkich członków Zespołu Egzaminacyjnego, zwany dalej „zdalnym PESFZ”.
-
-11. Zdalny PESFZ może być przeprowadzony w siedzibie CEM albo w innym miejscu wskazanym przez dyrektora CEM w porozumieniu z przewodniczącym Zespołu Egzaminacyjnego.
-
-12. Wojewoda jest obowiązany do współpracy z dyrektorem CEM przy organizacji i przeprowadzaniu zdalnego PESFZ.
-
-13. W trakcie całego czasu trwania zdalnego PESFZ zdający znajduje się pod bezpośrednim nadzorem pracownika CEM, przewodniczącego Zespołu Egzaminacyjnego albo przedstawiciela właściwego wojewody. Do przedstawiciela wojewody stosuje się art. 16 ust. 11 pkt 1 i ust. 12 .
-
-14. Oprogramowanie służące do przeprowadzenia zdalnego PESFZ jest udostępniane i konfigurowane przez CEM. Przebieg zdalnego PESFZ jest rejestrowany.
-
-15. Zdający jest widziany i słyszany przez wszystkich członków Zespołu Egzaminacyjnego bezpośrednio lub za pomocą środków komunikacji, o których mowa w ust. 10.
-
-16. W przypadku zdalnego PESFZ członkowie Zespołu Egzaminacyjnego składają ustne oświadczenia dotyczące wystawionych przez nich ocen. Oświadczenia te są rejestrowane za pomocą środków komunikacji, o których mowa w ust. 10, lub, jeżeli nie ma takiej możliwości, za pomocą oprogramowania dostępnego na stacjach roboczych członków Zespołu Egzaminacyjnego.
-
-17. Jeżeli w czasie stanu zagrożenia epidemicznego lub stanu epidemii przeprowadzenie egzaminu testowego albo ustnego, albo praktycznego PESFZ nie będzie możliwe ze względu na bezpieczeństwo osób biorących udział w tym egzaminie, minister właściwy do spraw zdrowia może w trakcie sesji egzaminacyjnej podjąć decyzję o odstąpieniu od przeprowadzenia egzaminu testowego albo ustnego, albo praktycznego PESFZ w danej dziedzinie w tej sesji z zachowaniem wyłącznie jednej formy PESFZ.
-
-18. Komunikat o odstąpieniu od przeprowadzenia egzaminu testowego albo ustnego, albo praktycznego PESFZ, o których mowa w ust. 17, zamieszcza się na stronie internetowej urzędu obsługującego ministra właściwego do spraw zdrowia oraz na stronie internetowej CEM.
 
 **Art. 55.**
 
@@ -1167,7 +1243,7 @@ source: "isap-pdf"
 
 4. Test jest rozwiązywany przez zdającego samodzielnie. Podczas PESFZ osoba egzaminowana nie może korzystać z pomocy naukowych i dydaktycznych, a także nie może posiadać urządzeń służących do kopiowania, przekazywania i odbioru informacji. Naruszenie tego zakazu stanowi podstawę zdyskwalifikowania osoby egzaminowanej, co jest równoznaczne z uzyskaniem przez nią wyniku negatywnego.
 
-5. Przebieg PESFZ może być monitorowany za pomocą urządzeń rejestrujących obraz i dźwięk. W przypadku ujawnienia po egzaminie na zarejestrowanych materiałach korzystania przez osobę egzaminowaną z pomocy naukowych, dydaktycznych lub urządzeń służących do kopiowania, przekazywania i odbioru informacji, lub rozwiązywania testu nie-samodzielnie, osoba taka zostaje zdyskwalifikowana. Dyskwalifikacji dokonuje Przewodniczący Państwowej Komisji Egzaminacyjnej, na wniosek Zespołu Egzaminacyjnego. Fakt ten jest odnotowywany w protokole, o którym mowa w ust. 7.
+5. Przebieg PESFZ może być monitorowany za pomocą urządzeń rejestrujących obraz i dźwięk. W przypadku ujawnienia po egzaminie na zarejestrowanych materiałach korzystania przez osobę egzaminowaną z pomocy naukowych, dydaktycznych lub urządzeń służących do kopiowania, przekazywania i odbioru informacji, lub rozwiązywania testu niesamodzielnie, osoba taka zostaje zdyskwalifikowana. Dyskwalifikacji dokonuje Przewodniczący Państwowej Komisji Egzaminacyjnej, na wniosek Zespołu Egzaminacyjnego. Fakt ten jest odnotowywany w protokole, o którym mowa w ust. 7.
 
 6. Dyrektor CEM zawiadamia o dyskwalifikacji osoby egzaminowanej Prezesa Krajowej Rady Fizjoterapeutów, zwanego dalej „Prezesem”.
 
@@ -1225,7 +1301,7 @@ source: "isap-pdf"
 
 2. Postępowanie wszczyna się na wniosek członka Zespołu Egzaminacyjnego, przeprowadzającego PESFZ, osoby przystępującej do PESFZ albo z urzędu.
 
-3. Unieważnienie PESFZ albo jego części powoduje, że traktuje się odpowiednio PESFZ albo jego część jako niebyłą. Unieważniony egzamin jest powtarzany w terminie niedłuższym niż 3 miesiące od dnia, w którym decyzja o unieważnieniu stała się ostateczna.
+3. Unieważnienie PESFZ albo jego części powoduje, że traktuje się odpowiednio PESFZ albo jego część jako niebyłą. Unieważniony egzamin jest powtarzany w terminie nie dłuższym niż 3 miesiące od dnia, w którym decyzja o unieważnieniu stała się ostateczna.
 
 4. Decyzję o unieważnieniu dyrektor CEM podejmuje w terminie 14 dni od dnia powzięcia informacji o przyczynach uzasadniających unieważnienie PESFZ albo jego części.
 
@@ -1236,6 +1312,17 @@ source: "isap-pdf"
 7. Za powtórzony PESFZ albo jego część nie pobiera się opłaty egzaminacyjnej.
 
 **Art. 60.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** wzór KS,
+- **2)** kod specjalizacji w dziedzinie fizjoterapii uwzględniając konieczność zapewnienia pełnej informacji niezbędnej do prowadzenia specjalizacji;
+- **3)** wzór dyplomu specjalisty, uwzględniając konieczność zapewnienia przejrzystości dokumentu,
+- **4)** wysokość wynagrodzenia za wykonanie czynności kontrolnych, o których mowa w art. 37 ust. 12 pkt 1, uwzględniając nakład pracy związany z przeprowadzaniem czynności kontrolnych,
+- **5)** szczegółowy tryb działania PKE oraz wysokość wynagrodzenia przewodniczącego i członków PKE,
+- **6)** wzór oświadczenia, o którym mowa w art. 52 ust. 4,
+- **7)** szczegółowy sposób i tryb składania PESFZ oraz ustalania jego wyników uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia PESFZ oraz zapewnienia bezstronności pracy PKE, a także nakład pracy przewodniczącego i członków PKE;
+- **8)** tryb wydawania przez dyrektora CEM duplikatu lub odpisu dyplomu PESFZ oraz sposób uiszczania opłaty za wydanie duplikatu lub odpisu dyplomu PESFZ,
+- **9)** tryb dokonywania przez dyrektora CEM korekty dyplomu PESFZ oraz sposób uiszczania opłaty za dokonanie korekty dyplomu uwzględniając konieczność prawidłowego i sprawnego wydania dokumentu potwierdzającego uzyskanie tytułu specjalisty;
+- **10)** wysokość opłaty za PESFZ, uwzględniając koszty przeprowadzenia PESFZ oraz wydania dyplomu potwierdzającego tytuł specjalisty.
 
 #### Rozdział 6 Samorząd fizjoterapeutów
 
@@ -1303,7 +1390,7 @@ source: "isap-pdf"
 
 3. Kadencja organów samorządu trwa 4 lata, jednak organy są obowiązane działać do czasu ukonstytuowania się nowo wybranych organów.
 
-4. Tę samą funkcję w organach samorządu można pełnić niedłużej niż przez 2 następujące po sobie kadencje; pełnienie danej funkcji dłużej niż przez 24 miesiące w danej kadencji przyjmuje się za pełnienie jej przez pełną kadencję.
+4. Tę samą funkcję w organach samorządu można pełnić nie dłużej niż przez 2 następujące po sobie kadencje; pełnienie danej funkcji dłużej niż przez 24 miesiące w danej kadencji przyjmuje się za pełnienie jej przez pełną kadencję.
 
 **Art. 65.**
 
@@ -1333,7 +1420,7 @@ source: "isap-pdf"
 - **1)** zawieszonych w prawie wykonywania zawodu na podstawie art. 12 ust. 4 lub
 - **2)** wobec których sąd orzekł prawomocnie środek karny pozbawienia praw publicznych lub środek karny albo środek zabezpieczający polegający na zakazie wykonywania zawodu albo sąd lub prokurator wydał postanowienie o zastosowaniu środka zapobiegawczego w postaci zawieszenia w wykonywaniu zawodu, lub
 - **3)** skazanych prawomocnym wyrokiem sądu za popełnione umyślnie przestępstwo ścigane z oskarżenia publicznego, lub
-- **4)** ukaranych jedną z kar wymienionych w art. 108 ust. 1 pkt 2–8 – do czasu upływu terminu zatarcia kary lub upływu terminu, na który został orzeczony środek zabezpieczający.
+- **4)** ukaranych jedną z kar wymienionych w art. 108 ust. 1 pkt 2–8 do czasu upływu terminu zatarcia kary lub upływu terminu, na który został orzeczony środek zabezpieczający.
 
 3. Bierne prawo wyborcze nie przysługuje członkom KIF, którzy za okres co najmniej jednego roku w okresie ostatnich pięciu lat przed wyborami nie wykonali obowiązku opłacenia składki członkowskiej, do dnia opłacenia tej składki.
 
@@ -1361,7 +1448,7 @@ source: "isap-pdf"
 
 4. O zawieszeniu, o którym mowa w ust. 2 pkt 2, decyduje Krajowa Rada Fizjoterapeutów, wskazując okres zawieszenia.
 
-5. W przypadku zawieszenia, Krajowa Rada Fizjoterapeutów może wskazać osobę, która będzie pełniła obowiązki osoby, której mandat został zawieszony przez czas określony, niedłuższy niż 12 miesięcy.
+5. W przypadku zawieszenia, Krajowa Rada Fizjoterapeutów może wskazać osobę, która będzie pełniła obowiązki osoby, której mandat został zawieszony przez czas określony, nie dłuższy niż 12 miesięcy.
 
 **Art. 68.**
 
@@ -1373,7 +1460,7 @@ source: "isap-pdf"
 
 1. Na wniosek Krajowej Rady Fizjoterapeutów albo Prezesa pracodawca jest obowiązany zwolnić od pracy pracownika będącego członkiem organu KIF lub wykonującego czynności na rzecz KIF, bez zachowania prawa do wynagrodzenia.
 
-2. Krajowa Rada Fizjoterapeutów określa zasady i tryb kompensacji wynagrodzenia przez organy samorządu na czas zwolnień od pracy, o których mowa w ust. 1, oraz tryb zwrotu kosztów podróży i innych uzasadnionych wydatków poniesionych przez członka w związku z wykonywaniem czynności na rzecz KIF, biorąc pod uwagę przepisy wydane na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
+2. Krajowa Rada Fizjoterapeutów określa zasady i tryb kompensacji wynagrodzenia przez organy samorządu na czas zwolnień od pracy, o których mowa w ust. 1, oraz tryb zwrotu kosztów podróży i innych uzasadnionych wydatków poniesionych przez członka w związku z wykonywaniem czynności na rzecz KIF, biorąc pod uwagę przepisy wydane na podstawie art. 775 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 **Art. 70.**
 
@@ -1390,9 +1477,7 @@ source: "isap-pdf"
 - **3)** wyborów osób na funkcje w organach KIF;
 - **4)** reprezentowania KIF przez osoby pełniące funkcje w ich organach.
 
-2. Minister właściwy do spraw zdrowia może zaskarżyć do Sądu Najwyższego pod zarzutem niezgodności z prawem uchwałę organu KIF w terminie 3 miesięcy od dnia jej otrzymania. Do rozpoznania skargi stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2026 r. poz. 468 i
-
-- **473)** o postępowaniu nieprocesowym.
+2. Minister właściwy do spraw zdrowia może zaskarżyć do Sądu Najwyższego pod zarzutem niezgodności z prawem uchwałę organu KIF w terminie 3 miesięcy od dnia jej otrzymania. Do rozpoznania skargi stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.) o postępowaniu nieprocesowym.
 
 3. Sąd Najwyższy utrzymuje zaskarżoną uchwałę w mocy albo ją uchyla i przekazuje sprawę do ponownego rozpoznania właściwemu organowi KIF, ustalając wytyczne co do sposobu jej załatwienia.
 
@@ -1400,7 +1485,7 @@ source: "isap-pdf"
 
 5. Minister właściwy do spraw zdrowia może zwrócić się do Krajowego Zjazdu Fizjoterapeutów lub do Krajowej Rady Fizjoterapeutów o podjęcie uchwały w sprawie należącej do właściwości samorządu.
 
-6. Wniosek, o którym mowa w ust. 5, powinien rozpatrzyć najbliższy Krajowy Zjazd Fizjoterapeutów, a Krajowa Rada Fizjoterapeutów – na najbliższym posiedzeniu, jednak niepóźniej niż w terminie 3 miesięcy od dnia jego wpływu.
+6. Wniosek, o którym mowa w ust. 5, powinien rozpatrzyć najbliższy Krajowy Zjazd Fizjoterapeutów, a Krajowa Rada Fizjoterapeutów – na najbliższym posiedzeniu, jednak nie później niż w terminie 3 miesięcy od dnia jego wpływu.
 
 7. Przepisów ust. 1–6 nie stosuje się do uchwał:
 
@@ -1413,24 +1498,27 @@ source: "isap-pdf"
 
 **Art. 74.**
 
-1. W Krajowym Zjeździe Fizjoterapeutów biorą udział delegaci wybrani przez fizjoterapeutów zamieszkałych na terenie poszczególnych województw oraz z głosem doradczym, niebędący delegatami, członkowie ustępujących organów samorządu.
+1. W Krajowym Zjeździe Fizjoterapeutów biorą udział delegaci wybrani przez zgromadzenia wojewódzkie fizjoterapeutów, zwane dalej „zgromadzeniami wojewódzkimi”, oraz z głosem doradczym, niebędący delegatami, członkowie ustępujących organów samorządu.
 
-2. Wybór delegatów w województwie odbywa się w głosowaniu na listę kandydatów na delegatów z danego województwa sporządzoną dla całego województwa.
+2. W zgromadzeniu wojewódzkim uczestniczą fizjoterapeuci zamieszkali na obszarze danego województwa.
 
-3. Wybór delegatów następuje w głosowaniu przeprowadzonym za pomocą:
+3. Jeżeli liczba fizjoterapeutów w danym województwie przekracza 300 osób, wyboru delegatów na Krajowy Zjazd Fizjoterapeutów dokonują zebrania rejonowe zgromadzenia wojewódzkiego.
 
-- **1)** kart wyborczych lub urządzeń elektronicznych w rejonach wyznaczonych dla poszczególnych części województwa przez Krajową Radę Fizjoterapeutów albo
-- **2)** systemu teleinformatycznego.
+4. W przypadku, o którym mowa w ust. 3, Krajowa Rada Fizjoterapeutów dokonuje podziału na rejony w danym województwie.
 
-4. Liczba delegatów wybieranych przez fizjoterapeutów zamieszkałych na terenie poszczególnych województw jest ustalana w równej proporcji między liczbą fizjoterapeutów mających czynne prawo wyborcze, zgodnie z art. 66 ust. 1, oraz zamieszkujących na terenie danego województwa i liczbą delegatów wybieranych w danym województwie.
-
-5. Szczegółowy sposób i tryb przeprowadzania wyborów delegatów na Krajowy Zjazd Fizjoterapeutów oraz liczbę delegatów wybieranych z poszczególnych województw określa Krajowa Rada Fizjoterapeutów.
+5. Zasady przeprowadzania wyborów delegatów na Krajowy Zjazd Fizjoterapeutów oraz liczbę tych delegatów z poszczególnych województw, a także zasady wyborów członków Krajowej Rady Fizjoterapeutów przez zgromadzenia wojewódzkie określa Krajowa Rada Fizjoterapeutów.
 
 6. Krajowy Zjazd Fizjoterapeutów zwołuje Krajowa Rada Fizjoterapeutów co 4 lata.
 
-**Art. 74a.** Jeżeli w okresie ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii nie przeprowadzono wyborów na kolejną kadencję organów samorządu, dotychczasowe organy samorządu i osoby pełniące funkcje w tych organach działają do czasu wyboru oraz ukonstytuowania się nowych organów samorządu lub do czasu wyboru osób do pełnienia funkcji w tych organach, niedłużej jednak niż do 60 dni od dnia odwołania stanu zagrożenia epidemicznego lub stanu epidemii.
-
 **Art. 75.** Do zadań Krajowego Zjazdu Fizjoterapeutów należy:
+
+- **1)** wybór Prezesa;
+- **2)** wybór Krajowej Rady Fizjoterapeutów, Komisji Rewizyjnej, Sądu Dyscyplinarnego, Wyższego Sądu Dyscyplinarnego oraz Rzecznika i jego zastępców;
+- **3)** uchwalanie wytycznych działania samorządu i jego organów;
+- **4)** określenie zasad przeprowadzania wyborów do organów samorządu, liczby członków tych organów oraz trybu ich odwoływania, a także zasad podejmowania uchwał przez organy samorządu;
+- **5)** rozpatrywanie i zatwierdzanie sprawozdań Krajowej Rady Fizjoterapeutów, Komisji Rewizyjnej, Sądu Dyscyplinarnego, Wyższego Sądu Dyscyplinarnego i Rzecznika;
+- **6)** kodyfikowanie zasad etyki fizjoterapeutów;
+- **7)** ustalanie podstawowych zasad gospodarki finansowej samorządu.
 
 **Art. 76.**
 
@@ -1441,11 +1529,22 @@ source: "isap-pdf"
 - **3)** na wniosek Komisji Rewizyjnej;
 - **4)** na wniosek co najmniej 1/10 członków KIF.
 
-2. Nadzwyczajny Krajowy Zjazd Fizjoterapeutów powinien być zwołany niepóźniej niż w terminie 3 miesięcy od dnia wpływu wniosku o jego zwołanie i obraduje nad sprawami, dla których został zwołany.
+2. Nadzwyczajny Krajowy Zjazd Fizjoterapeutów powinien być zwołany nie później niż w terminie 3 miesięcy od dnia wpływu wniosku o jego zwołanie i obraduje nad sprawami, dla których został zwołany.
 
 3. W przypadku niezwołania Nadzwyczajnego Krajowego Zjazdu Fizjoterapeutów przez Krajową Radę Fizjoterapeutów w terminie, o którym mowa w ust. 2, Nadzwyczajny Krajowy Zjazd Fizjoterapeutów zwołuje minister właściwy do spraw zdrowia.
 
 **Art. 77.** Do zakresu działania Krajowej Rady Fizjoterapeutów należy:
+
+- **1)** reprezentowanie samorządu wobec organów państwowych i samorządowych, sądów, organów Narodowego Funduszu Zdrowia, instytucji i organizacji;
+- **2)** wykonywanie uchwał Krajowego Zjazdu Fizjoterapeutów;
+- **3)** udzielanie opinii o projektach aktów prawnych oraz przedstawianie wniosków dotyczących unormowań prawnych z zakresu ochrony zdrowia;
+- **4)** opiniowanie programu studiów wyższych oraz programów specjalizacji z zakresu fizjoterapii;
+- **5)** uchwalanie budżetu Krajowej Rady Fizjoterapeutów i zatwierdzanie sprawozdań z jego wykonania oraz rozpatrywanie wniosków Komisji Rewizyjnej;
+- **6)** wybór Prezesa oraz Rzecznika, jeżeli ich mandat wygasł w okresie pomiędzy Krajowymi Zjazdami Fizjoterapeutów;
+- **7)** koordynowanie doskonalenia zawodowego fizjoterapeutów;
+- **8)** ustalanie zasad gospodarki finansowej samorządu;
+- **9)** określanie wysokości składki członkowskiej i zasad jej podziału oraz wysokości opłat manipulacyjnych;
+- **10)** wykonywanie innych zadań określonych w ustawie oraz przepisach odrębnych.
 
 **Art. 78.** Do zakresu działania Komisji Rewizyjnej należy kontrola działalności finansowej i gospodarczej Krajowej Rady Fizjoterapeutów.
 
@@ -1453,13 +1552,23 @@ source: "isap-pdf"
 
 **Art. 80.** Wyższy Sąd Dyscyplinarny:
 
+- **1)** uchwala regulaminy wewnętrzne Sądu Dyscyplinarnego i Wyższego Sądu Dyscyplinarnego;
+- **2)** rozpatruje odwołania od orzeczeń Sądu Dyscyplinarnego.
+
 **Art. 81.** Rzecznik:
+
+- **1)** przygotowuje postępowanie dyscyplinarne i wykonuje czynności oskarżyciela przed Sądem Dyscyplinarnym i Wyższym Sądem Dyscyplinarnym;
+- **2)** prowadzi działalność prewencyjną w zakresie wykroczeń zawodowych i postępowania sprzecznego z zasadami etyki zawodowej.
 
 **Art. 82.** Samorząd może prowadzić działalność gospodarczą.
 
 **Art. 83.** Działalność samorządu jest finansowana:
 
-**Art. 84.** Nieopłacone w terminie składki członkowskie i koszty postępowania w przedmiocie odpowiedzialności dyscyplinarnej podlegają egzekucji w trybie ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2026 r. poz. 268 i 516).
+- **1)** ze składek członkowskich;
+- **2)** z innych źródeł, a w szczególności z dotacji, subwencji, darowizn i spadków;
+- **3)** z działalności gospodarczej.
+
+**Art. 84.** Nieopłacone w terminie składki członkowskie i koszty postępowania w przedmiocie odpowiedzialności dyscyplinarnej podlegają egzekucji w trybie ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2014 r. poz. 1619, z późn. zm.).
 
 #### Rozdział 7 Odpowiedzialność zawodowa
 
@@ -1502,7 +1611,7 @@ source: "isap-pdf"
 
 1. Pokrzywdzonym jest osoba fizyczna, osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, której dobro prawne zostało bezpośrednio naruszone lub zagrożone przez przewinienie zawodowe.
 
-2. Pokrzywdzony może ustanowić niewięcej niż dwóch pełnomocników.
+2. Pokrzywdzony może ustanowić nie więcej niż dwóch pełnomocników.
 
 3. W przypadku śmierci pokrzywdzonego jego prawa w postępowaniu w przedmiocie odpowiedzialności zawodowej, w tym prawo dostępu do informacji medycznej oraz dokumentacji medycznej, może wykonywać małżonek, wstępny, zstępny, rodzeństwo, powinowaty w tej samej linii lub stopniu, osoba pozostająca w stosunku przysposobienia oraz jej małżonek, a także osoba pozostająca we wspólnym pożyciu.
 
@@ -1510,7 +1619,7 @@ source: "isap-pdf"
 
 1. Za osobę obwinioną uważa się fizjoterapeutę, wobec którego w toku postępowania wyjaśniającego Rzecznik wydał postanowienie o przedstawieniu zarzutu lub przeciwko któremu skierował do sądu dyscyplinarnego wniosek o ukaranie.
 
-2. Osoba obwiniona może ustanowić niewięcej niż dwóch obrońców.
+2. Osoba obwiniona może ustanowić nie więcej niż dwóch obrońców.
 
 3. W czasie postępowania w przedmiocie odpowiedzialności zawodowej, na uzasadniony wniosek osoby obwinionej, sąd dyscyplinarny ustanawia jej obrońcę z urzędu spośród fizjoterapeutów, adwokatów lub radców prawnych.
 
@@ -1570,7 +1679,7 @@ source: "isap-pdf"
 
 3. Karalność przewinienia zawodowego ustaje, jeżeli od czasu jego popełnienia upłynęło 5 lat.
 
-4. Jeżeli czyn, o którym mowa w ust. 1, stanowi jednocześnie przestępstwo, ustanie karalności przewinienia zawodowego następuje niewcześniej niż ustanie karalności przestępstwa.
+4. Jeżeli czyn, o którym mowa w ust. 1, stanowi jednocześnie przestępstwo, ustanie karalności przewinienia zawodowego następuje nie wcześniej niż ustanie karalności przestępstwa.
 
 **Art. 96.**
 
@@ -1620,7 +1729,7 @@ source: "isap-pdf"
 
 1. Postępowanie wyjaśniające prowadzone przez Rzecznika powinno być zakończone w terminie 6 miesięcy od dnia uzyskania informacji, o której mowa w art. 96 ust. 1.
 
-2. W uzasadnionym przypadku Sąd Dyscyplinarny może przedłużyć okres postępowania wyjaśniającego na dalszy czas określony, niedłuższy niż 6 miesięcy.
+2. W uzasadnionym przypadku Sąd Dyscyplinarny może przedłużyć okres postępowania wyjaśniającego na dalszy czas określony, nie dłuższy niż 6 miesięcy.
 
 3. W przypadku niezakończenia postępowania wyjaśniającego w terminie 12 miesięcy akta sprawy przekazuje się Wyższemu Sądowi Dyscyplinarnemu, który może przedłużyć postępowanie wyjaśniające na dalszy czas określony. W przedmiocie przedłużenia postępowania Wyższy Sąd Dyscyplinarny orzeka w składzie trzyosobowym.
 
@@ -1694,7 +1803,7 @@ source: "isap-pdf"
 
 **Art. 109.**
 
-1. W przypadku orzeczenia kar przewidzianych w art. 108 ust. 1 pkt 4– 8 sąd dyscyplinarny może zarządzić opublikowanie orzeczenia.
+1. W przypadku orzeczenia kar przewidzianych w art. 108 ust. 1 pkt 4–8 sąd dyscyplinarny może zarządzić opublikowanie orzeczenia.
 
 2. W przypadku obywateli państw członkowskich Unii Europejskiej wykonujących tymczasowo i okazjonalnie zawód fizjoterapeuty na terytorium Rzeczypospolitej Polskiej sąd dyscyplinarny orzeka kary, o których mowa w art. 108 ust. 1 pkt 1–3.
 
@@ -1762,7 +1871,7 @@ source: "isap-pdf"
 
 2. Odwołanie, o którym mowa w ust. 1, wnosi się za pośrednictwem Sądu Dyscyplinarnego.
 
-3. Cofnięcie odwołania przez składającą je stronę przed rozpoczęciem rozprawy odwoławczej wiąże Wyższy Sąd Dyscyplinarny, który pozostawia odwołanie bez rozpoznania, o ile nie zachodzą przesłanki z art. 439 § 1 pkt 1, 2 i 5–10 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2026 r. poz. 490 i 421).
+3. Cofnięcie odwołania przez składającą je stronę przed rozpoczęciem rozprawy odwoławczej wiąże Wyższy Sąd Dyscyplinarny, który pozostawia odwołanie bez rozpoznania, o ile nie zachodzą przesłanki z art. 439 § 1 pkt 1, 2 i 5–10 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.).
 
 **Art. 117.**
 
@@ -1793,6 +1902,11 @@ source: "isap-pdf"
 6. Kasacja powinna być sporządzona i podpisana przez obrońcę będącego adwokatem albo radcą prawnym albo pełnomocnika będącego adwokatem albo radcą prawnym.
 
 **Art. 121.** Postępowanie w przedmiocie odpowiedzialności zawodowej zakończone prawomocnym orzeczeniem sądu dyscyplinarnego wznawia się, jeżeli:
+
+- **1)** w związku z postępowaniem dopuszczono się przestępstwa, a istnieje uzasadniona podstawa do przyjęcia, że mogło to mieć wpływ na treść orzeczenia;
+- **2)** po wydaniu orzeczenia ujawnią się nowe fakty lub dowody nieznane przedtem temu sądowi, wskazujące na to, że: osoba obwiniona nie popełniła czynu albo jej czyn nie stanowił przewinienia zawodowego lub nie podlegał karze, sąd ten umorzył postępowanie, błędnie przyjmując popełnienie przez osobę obwinioną zarzucanego jej czynu.
+    - **a)**
+    - **b)**
 
 **Art. 122.** Postępowanie w przedmiocie odpowiedzialności zawodowej zakończone prawomocnym orzeczeniem sądu dyscyplinarnego można wznowić w przypadku uchylenia lub istotnej zmiany treści prawomocnego orzeczenia, z powodu którego zostało ono umorzone w trybie art. 107 ust. 1.
 
@@ -1838,7 +1952,7 @@ source: "isap-pdf"
 
 **Art. 129.** Prawomocne orzeczenie wydane przez sąd dyscyplinarny sąd ten doręcza wraz z uzasadnieniem stronom, ministrowi właściwemu do spraw zdrowia i Prezesowi.
 
-**Art. 130.** Prawomocne ukaranie karami wymienionymi w art. 108 ust. 1 pkt 7 i 8 stanowi podstawę do rozwiązania umowy o pracę bez wypowiedzenia z winy pracownika, stosunku służbowego albo umowy cywilnoprawnej, na podstawie których fizjoterapeuta wykonuje zawód.
+**Art. 130.** Prawomocne ukaranie karami wymienionymi w art. 108 ust. 1 pkt 7 i 8 stanowi podstawę do rozwiązania umowy o pracę bez wypowiedzenia z winy pracownika albo umowy cywilnoprawnej, na podstawie której fizjoterapeuta wykonuje zawód.
 
 **Art. 131.** Na wniosek osoby obwinionej prawomocne orzeczenie uniewinniające ją w sprawie z zakresu odpowiedzialności zawodowej podlega opublikowaniu.
 
@@ -1873,13 +1987,19 @@ source: "isap-pdf"
 - **2)** 3 lat od dnia uprawomocnienia się orzeczenia o ukaraniu karą wymienioną w art. 108 ust. 1 pkt 2,
 - **3)** 3 lat od dnia wykonania orzeczenia o ukaraniu karami wymienionymi w art. 108 ust. 1 pkt 3–6,
 - **4)** 5 lat od dnia wykonania orzeczenia o ukaraniu karą wymienioną w art. 108 ust. 1 pkt 7,
-- **5)** 15 lat od dnia uprawomocnienia się orzeczenia o ukaraniu karą wymienioną w art. 108 ust. 1 pkt 8 – jeżeli fizjoterapeuta nie zostanie w tym czasie ponownie ukarany lub nie zostanie wszczęte przeciwko niemu postępowanie w przedmiocie odpowiedzialności zawodowej.
+- **5)** 15 lat od dnia uprawomocnienia się orzeczenia o ukaraniu karą wymienioną w art. 108 ust. 1 pkt 8 jeżeli fizjoterapeuta nie zostanie w tym czasie ponownie ukarany lub nie zostanie wszczęte przeciwko niemu postępowanie w przedmiocie odpowiedzialności zawodowej.
 
 2. Zatarcie ukarania następuje przez usunięcie z rejestru ukaranych fizjoterapeutów wpisu o ukaraniu.
 
 **Art. 134.** Minister właściwy do spraw zdrowia w porozumieniu z Ministrem Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Fizjoterapeutów, określi, w drodze rozporządzenia:
 
+- **1)** sposób i tryb prowadzenia rejestru ukaranych fizjoterapeutów,
+- **2)** sposób i tryb wykonania prawomocnych orzeczeń sądów dyscyplinarnych kierując się potrzebą respektowania praw uczestników postępowania oraz specyfiką i złożonością postępowań w przedmiocie odpowiedzialności zawodowej.
+
 **Art. 135.** W sprawach nieuregulowanych w ustawie do postępowania w przedmiocie odpowiedzialności zawodowej stosuje się odpowiednio przepisy:
+
+- **1)** ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego; nie stosuje się przepisów o oskarżycielu prywatnym, przedstawicielu społecznym, o postępowaniu przygotowawczym oraz środkach przymusu, z wyjątkiem przepisów o karze pieniężnej;
+- **2)** rozdziałów I-III i art. 53 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.
 
 #### Rozdział 8 Przepisy karne
 
@@ -1891,21 +2011,35 @@ source: "isap-pdf"
 
 **Art. 139.** Kto dopuszcza do udzielania świadczeń z zakresu fizjoterapii osobę nieposiadającą prawa wykonywania zawodu wymaganego do udzielania tych świadczeń, podlega karze ograniczenia wolności albo grzywny.
 
-**Art. 140.** Postępowanie w sprawach o czyny określone w art. 138 i art. 139 toczy się według przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, z późn. zm. ).
+**Art. 140.** Postępowanie w sprawach o czyny określone w art. 138 i art. 139 toczy się według przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm.).
 
 #### Rozdział 9 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
-**Art. 141.** (pominięty)
+**Art. 141.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2015 r. poz. 581, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 142.** (pominięty)
+- **1)** po art. 40 dodaje się art. 40a w brzmieniu: „ Zaopatrzenie w wyroby medyczne przysługuje świadczeniobiorcom na podstawie zlecenia wystawionego przez fizjoterapeutę, o którym mowa w przepisach o zawodzie fizjoterapeuty, na zasadach określonych w ustawie o refundacji. ” ;
+- **2)** w art. 100 ust. 9 otrzymuje brzmienie: „
+
+9. Przewodniczący Rady Funduszu zaprasza do udziału w posiedzeniach Rady, w charakterze obserwatorów, przedstawicieli: Naczelnej Rady Lekarskiej, Naczelnej Rady Pielęgniarek i Położnych, Naczelnej Rady Aptekarskiej, Krajowej Rady Diagnostów Laboratoryjnych oraz Krajowej Rady Fizjoterapeutów. ” ;
+
+- **3)** w art. 106 ust. 4 otrzymuje brzmienie: „
+
+4. Przewodniczący rady oddziału wojewódzkiego Funduszu zaprasza do udziału w posiedzeniach rady oddziału wojewódzkiego Funduszu, w charakterze obserwatorów, przedstawicieli właściwej okręgowej rady lekarskiej, okręgowej rady pielęgniarek i położnych i okręgowej rady aptekarskiej, Krajowej Rady Diagnostów Laboratoryjnych oraz Krajowej Rady Fizjoterapeutów. ” .
+
+**Art. 142.** W ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2015 r. poz. 636, z późn. zm.) w art. 3 w ust. 3:
+
+- **1)** po pkt 4 dodaje się pkt 4a w brzmieniu: „
+- **4a)** Krajowa Rada Fizjoterapeutów, na podstawie ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty (Dz. U. poz. 1994), w zakresie danych przetwarzanych w Krajowym Rejestrze Fizjoterapeutów oraz rejestrze osób uprawnionych do wykonywania zawodu fizjoterapeuty tymczasowo i okazjonalnie na terytorium Rzeczypospolitej Polskiej; ” ;
+- **2)** pkt 9 otrzymuje brzmienie: „
+- **9)** Centrum Medycznego Kształcenia Podyplomowego, na podstawie przepisów o: zawodach lekarza i lekarza dentysty, zawodzie fizjoterapeuty, zawodach pielęgniarki i położnej, diagnostyce laboratoryjnej, Państwowym Ratownictwie Medycznym oraz przepisów – Prawo farmaceutyczne, w odniesieniu do danych określonych tymi przepisami; ” .
 
 **Art. 143.**
 
 1. Osoby, które w dniu wejścia w życie niniejszej ustawy spełniają łącznie warunki określone w art. 13 ust. 1 pkt 1–5, stają się fizjoterapeutami w rozumieniu niniejszej ustawy i przysługuje im prawo wykonywania zawodu.
 
-2. Osoby, o których mowa w ust. 1, wpisuje się do Krajowego Rejestru Fizjoterapeutów, na wniosek złożony niepóźniej niż w okresie 2 lat od dnia wejścia w życie niniejszej ustawy.
+2. Osoby, o których mowa w ust. 1, wpisuje się do Krajowego Rejestru Fizjoterapeutów, na wniosek złożony nie później niż w okresie 2 lat od dnia wejścia w życie niniejszej ustawy.
 
-3. (uchylony)
+3. Osoby, o których mowa w ust. 1, złożą wniosek o wpis do rejestru podmiotów wykonujących działalność leczniczą nie później niż w terminie 30 miesięcy od dnia wejścia w życie niniejszej ustawy, pod rygorem utraty prawa wykonywania zawodu fizjoterapeuty.
 
 4. Osoby, o których mowa w ust. 1, mogą wykonywać zawód fizjoterapeuty w okresie 2 lat od dnia wejścia w życie niniejszej ustawy bez uzyskania wpisu do Krajowego Rejestru Fizjoterapeutów.
 
@@ -1933,6 +2067,12 @@ source: "isap-pdf"
 
 **Art. 147.** Osoba, której minister właściwy do spraw zdrowia, przed dniem wejścia w życie niniejszej ustawy, powierzył obowiązki specjalisty w dziedzinie fizjoterapii zgodnie z przepisami wydanymi na podstawie art. 10 ust. 5 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej, może:
 
+- **1)** wchodzić w skład zespołu ekspertów, o którym mowa w art. 36 ust. 8;
+- **2)** pełnić funkcję kierownika specjalizacji w danej dziedzinie ochrony zdrowia;
+- **3)** wchodzić w skład zespołu kontrolnego, o którym mowa w art. 37 ust. 4;
+- **4)** wchodzić w skład zespołu ekspertów, o którym mowa w art. 38 ust. 3;
+- **5)** przystąpić do PESFZ.
+
 **Art. 148.**
 
 1. Przewodniczący i członkowie PKE powołanej do przeprowadzania egzaminu, o którym mowa w przepisach wydanych na podstawie art. 10 ust. 5 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej, zwanego dalej „PESoz”, działającej w dniu wejścia w życie ustawy stają się odpowiednio przewodniczącym i członkami PKE, o których mowa w niniejszej ustawie.
@@ -1949,11 +2089,7 @@ source: "isap-pdf"
 
 **Art. 151.** Osoba, która na podstawie dotychczasowych przepisów rozpoczęła specjalizację w ochronie zdrowia w dziedzinie fizjoterapii i nie uzyskała potwierdzenia zakończenia szkolenia specjalizacyjnego przez wojewodę, o którym mowa w art. 49 ust. 12 pkt 1 niniejszej ustawy, albo ukończyła specjalizację i nie została dopuszczona do PESoz, może przystąpić do PESFZ, zgodnie z przepisami niniejszej ustawy.
 
-**Art. 152.**
-
-1. Do osoby, która została dopuszczona do PESoz przed dniem wejścia w życie ustawy, ale do niego nie przystąpiła albo, po przystąpieniu, nie uzyskała wyniku pozytywnego z części albo całości PESoz, stosuje się odpowiednio art. 49 ust. 5–9, 16 i 17 niniejszej ustawy.
-
-2. Osoba, o której mowa w ust. 1, która uzyskała wynik pozytywny z części praktycznej PESoz, przystępuje wyłącznie do części teoretycznej PESFZ, pod warunkiem że od dnia uzyskania tego wyniku nie upłynął okres dłuższy niż 3 lata.
+**Art. 152.** Do osoby, która została dopuszczona do PESoz przed dniem wejścia w życie ustawy, ale do niego nie przystąpiła albo, po przystąpieniu, nie uzyskała wyniku pozytywnego z części albo całości PESoz, stosuje się odpowiednio art. 49 ust. 5–9, 16 i 17 niniejszej ustawy.
 
 **Art. 153.**
 
@@ -1967,7 +2103,7 @@ source: "isap-pdf"
 - **2)** zorganizowanie i zwołanie pierwszych zgromadzeń wojewódzkich oraz w przypadku, o którym mowa w art. 74 ust. 3, dokonanie podziału na rejony i zorganizowanie oraz zwołanie pierwszych zebrań rejonowych zgromadzenia wojewódzkiego;
 - **3)** opracowanie projektu regulaminu wyboru delegatów na pierwszy Krajowy Zjazd Fizjoterapeutów oraz opracowanie projektu regulaminu pierwszego Krajowego Zjazdu Fizjoterapeutów.
 
-4. Zgromadzenia wojewódzkie i zebrania rejonowe zgromadzenia wojewódzkiego są zwoływane niepóźniej niż w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+4. Zgromadzenia wojewódzkie i zebrania rejonowe zgromadzenia wojewódzkiego są zwoływane nie później niż w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 5. W zgromadzeniach i zebraniach, o których mowa w ust. 4, uczestniczą fizjoterapeuci wpisani do Krajowego Rejestru Fizjoterapeutów najpóźniej na 7 dni przed rozpoczęciem zgromadzenia wojewódzkiego lub zebrania rejonowego zgromadzenia wojewódzkiego.
 
@@ -1983,7 +2119,7 @@ source: "isap-pdf"
 
 2. Z dniem ukonstytuowania się pierwszego Krajowego Zjazdu Fizjoterapeutów organy samorządu przejmują wszystkie swoje kompetencje, o których mowa w niniejszej ustawie.
 
-**Art. 155.** Przepisy wykonawcze wydane na podstawie art. 38 ust. 4 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na tej podstawie niedłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+**Art. 155.** Przepisy wykonawcze wydane na podstawie art. 38 ust. 4 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na tej podstawie nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 156.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia .
+**Art. 156.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
 

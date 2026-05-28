@@ -8,12 +8,10 @@ pos: 619
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego
-
-*USTAWA z dnia 3 kwietnia 2009 r.*
+# Ustawa z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,14 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2009-04-03 |
 | Data wydania | 2009-05-14 |
+| Wejście w życie | 2009-05-29 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090720619) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/619/text.pdf) |
 
 **Art. 1.** Ustawa określa:
+
+- **1)** zadania oraz właściwość organów w zakresie wspierania zrównoważonego rozwoju sektora rybackiego z udziałem środków finansowych pochodzących z Europejskiego Funduszu Rybackiego określonym w rozporządzeniu Rady (WE) nr 1198/2006 z dnia 27 lipca 2006 r. w sprawie Europejskiego Funduszu Rybackiego (Dz. Urz. UE L 223 z 15.08.2006, str. 1), zwanym dalej „rozporządzeniem nr 1198/2006”, oraz w rozporządzeniu Komisji (WE) nr 498/2007 z dnia 26 marca 2007 r. ustanawiającym szczegółowe zasady wykonania rozporządzenia Rady (WE) nr 1198/2006 w sprawie Europejskiego Funduszu Rybackiego (Dz. Urz. UE L 120 z 10.05.2007, str. 1), zwanym dalej „rozporządzeniem nr 498/2007”;
+- **2)** warunki i tryb przyznawania, wypłaty oraz zwracania pomocy finansowej na realizację środków objętych osiami priorytetowymi zawartymi w programie operacyjnym, w tym pomocy technicznej, zwanych dalej „pomocą”, w zakresie nieokreślonym w przepisach Unii Europejskiej, o których mowa w pkt 1, lub przewidzianym w tych przepisach do określenia przez państwo członkowskie Unii Europejskiej.
 
 **Art. 2.**
 
@@ -40,9 +42,9 @@ source: "isap-pdf"
 
 3. Minister właściwy do spraw rybołówstwa:
 
-- **1)** przekazuje Komisji Europejskiej:
-    - **a)** przyjęty przez Radę Ministrów krajowy plan strategiczny,
-    - **b)** zatwierdzony przez Radę Ministrów projekt programu operacyjnego;
+- **1)** przekazuje Komisji Europejskiej: przyjęty przez Radę Ministrów krajowy plan strategiczny, zatwierdzony przez Radę Ministrów projekt programu operacyjnego;
+    - **a)**
+    - **b)**
 
 - **2)** dokonuje z Komisją Europejską ustaleń w zakresie krajowego planu strategicznego;
 - **3)** współpracuje z Komisją Europejską w zakresie oceny przekazanego jej projektu programu operacyjnego oraz przeglądu tego programu, zgodnie z art. 17 ust. 5 rozporządzenia nr 1198/2006.
@@ -55,7 +57,42 @@ source: "isap-pdf"
 
 **Art. 3.** Program operacyjny zawiera następujące osie priorytetowe:
 
+- **1)** oś priorytetowa 1 – Środki na rzecz dostosowania floty rybackiej, która obejmuje następujące środki: pomoc publiczna z tytułu trwałego zaprzestania działalności połowowej, w ramach którego mogą być realizowane operacje w zakresie określonym w art. 23 ust. 1 rozporządzenia nr 1198/2006, pomoc publiczna z tytułu tymczasowego zaprzestania działalności połowowej, w ramach którego mogą być realizowane operacje w zakresie określonym w art. 24 ust. 1 rozporządzenia nr 1198/2006, inwestycje na statkach rybackich i selektywność, w ramach którego mogą być realizowane operacje w zakresie określonym w art. 25 ust. 2, 3 i 6–8 rozporządzenia nr 1198/2006, rybactwo przybrzeżne, w ramach którego mogą być realizowane operacje w zakresie określonym w art. 26 ust. 3 i 4 rozporządzenia nr 1198/2006, rekompensaty społeczno-gospodarcze w celu zarządzania krajową flotą rybacką, w ramach którego mogą być realizowane operacje w zakresie określonym w art. 27 ust. 1 i 2 rozporządzenia nr 1198/2006;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **2)** oś priorytetowa 2 – Akwakultura, rybołówstwo śródlądowe, przetwórstwo i obrót produktami rybołówstwa i akwakultury, która obejmuje następujące środki: inwestycje w chów i hodowlę ryb, w ramach którego mogą być realizowane operacje w zakresie określonym w art. 29 ust. 1 rozporządzenia nr 1198/2006, działania wodno-środowiskowe, w ramach którego mogą być realizowane operacje w zakresie określonym w art. 30 ust. 1 i 2 rozporządzenia nr 1198/2006, środki na rzecz zdrowia zwierząt, w ramach którego mogą być realizowane operacje w zakresie określonym w art. 32 rozporządzenia nr 1198/2006, rybołówstwo śródlądowe, w ramach którego mogą być realizowane operacje w zakresie określonym w art. 33 ust. 1–4 rozporządzenia nr 1198/2006, inwestycje w zakresie przetwórstwa i obrotu, w ramach którego mogą być realizowane operacje w zakresie określonym w art. 34 ust. 1, 3 i 4 oraz art. 35 ust. 1 i 2 rozporządzenia nr 1198/2006;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **3)** oś priorytetowa 3 – Środki służące wspólnemu interesowi, która obejmuje następujące środki: działania wspólne, w ramach którego mogą być realizowane operacje w zakresie określonym w art. 37 rozporządzenia nr 1198/2006, ochrona i rozwój fauny i flory wodnej, w ramach którego mogą być realizowane operacje w zakresie określonym w art. 38 ust. 1 i 2 rozporządzenia nr 1198/2006, inwestycje w portach rybackich, miejscach wyładunku i przystaniach, w ramach którego mogą być realizowane operacje w zakresie określonym w art. 39 rozporządzenia nr 1198/2006, rozwój nowych rynków i kampanie promocyjne, w ramach którego mogą być realizowane operacje w zakresie określonym w art. 40 ust. 1 i 3 rozporządzenia nr 1198/2006, projekty pilotażowe, w ramach którego mogą być realizowane operacje w zakresie określonym w art. 41 ust. 1 i 2 rozporządzenia nr 1198/2006, modyfikacja w celu zmiany przeznaczenia statków rybackich, w ramach którego mogą być realizowane operacje w zakresie określonym w art. 42 rozporządzenia nr 1198/2006;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+
+- **4)** oś priorytetowa 4 – Zrównoważony rozwój obszarów zależnych od rybactwa, która obejmuje następujące środki: rozwój obszarów zależnych od rybactwa, w ramach którego mogą być realizowane operacje w zakresie określonym w art. 44 ust. 1 lit. a-g, i oraz j rozporządzenia nr 1198/2006, wsparcie na rzecz współpracy międzyregionalnej i międzynarodowej, w ramach którego mogą być realizowane operacje w zakresie określonym w art. 44 ust. 1 lit. h rozporządzenia nr 1198/2006;
+    - **a)**
+    - **b)**
+
+- **5)** oś priorytetowa 5 – Pomoc techniczna, która obejmuje środek pomoc techniczna, w ramach którego mogą być realizowane operacje w zakresie określonym w art. 46 ust. 1–3 rozporządzenia nr 1198/2006.
+
 **Art. 4.** Minister właściwy do spraw rybołówstwa:
+
+- **1)** wykonuje zadania instytucji zarządzającej, o której mowa w art. 58 ust. 1 lit. a rozporządzenia nr 1198/2006;
+- **2)** powołuje, w drodze zarządzenia, komitet monitorujący, o którym mowa w art. 63 rozporządzenia nr 1198/2006;
+- **3)** przedkłada Komisji Europejskiej informacje, o których mowa w art. 43 ust. 5 rozporządzenia nr 1198/2006;
+- **4)** zapewnia wykonanie ocen programu operacyjnego, o których mowa w art. 47 rozporządzenia nr 1198/2006, oraz przedkłada wyniki tych ocen komitetowi monitorującemu i Komisji Europejskiej;
+- **5)** przedkłada Komisji Europejskiej opis systemów zarządzania i kontroli programu operacyjnego, zgodnie z art. 71 rozporządzenia nr 1198/2006;
+- **6)** może dokonać częściowego zamknięcia programu operacyjnego, w przypadkach i na zasadach określonych w art. 85 rozporządzenia nr 1198/2006.
 
 **Art. 5.**
 
@@ -69,7 +106,7 @@ source: "isap-pdf"
 
 3. W umowie, o której mowa w ust. 2, są określone w szczególności zakres powierzonych zadań, sposób ich wykonywania i warunki rozwiązania umowy.
 
-4. Do powierzenia zadań podmiotom, o których mowa w ust. 1 pkt 3, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. poz. 2019, z późn. zm. ).
+4. Do powierzenia zadań podmiotom, o których mowa w ust. 1 pkt 3, nie stosuje się przepisów ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2007 r. Nr 223, poz. 1655, z późn. zm.).
 
 5. Minister właściwy do spraw rybołówstwa określi, w drodze rozporządzenia, warunki i sposób wykonywania zadań instytucji zarządzającej przez samorząd województwa, mając na względzie zapewnienie prawidłowości, skuteczności i efektywności zarządzania programem oraz prawidłowego wykonywania zadań instytucji zarządzającej.
 
@@ -81,7 +118,7 @@ source: "isap-pdf"
 
 2. Szczegółowe warunki współpracy między instytucją certyfikującą a instytucją zarządzającą w zakresie zarządzania środkami finansowymi pochodzącymi z Europejskiego Funduszu Rybackiego są określone w porozumieniu zawartym między ministrem właściwym do spraw rybołówstwa a ministrem właściwym do spraw finansów publicznych.
 
-**Art. 7.** Szef Krajowej Administracji Skarbowej wykonuje zadania instytucji audytowej, o której mowa w art. 58 ust. 1 lit. c rozporządzenia nr 1198/2006.
+**Art. 7.** Generalny Inspektor Kontroli Skarbowej wykonuje zadania instytucji audytowej, o której mowa w art. 58 ust. 1 lit. c rozporządzenia nr 1198/2006.
 
 **Art. 8.**
 
@@ -99,6 +136,13 @@ source: "isap-pdf"
 
 **Art. 9.** W ramach programu operacyjnego pomoc jest przyznawana:
 
+- **1)** osobie fizycznej, osobie prawnej, jednostce organizacyjnej nieposiadającej osobowości prawnej, której ustawa przyznaje zdolność prawną albo podmiotowi organizacyjnie wyodrębnionemu na podstawie dokumentów statutowych lub założycielskich w strukturze osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, zwanej dalej „wnioskodawcą”;
+- **2)** na wniosek o dofinansowanie;
+- **3)** jeżeli wnioskodawca spełnia warunki przyznania pomocy określone w przepisach, o których mowa w art. 1 pkt 1, oraz w przepisach wydanych na podstawie art. 19;
+- **4)** na podstawie: decyzji – w przypadku środków, o których mowa w art. 3 pkt 1 lit. a i b oraz lit. e w zakresie określonym w art. 27 ust. 1 lit. d i e oraz w ust. 2 rozporządzenia nr 1198/2006, umowy o dofinansowanie – w przypadku środków, o których mowa w art. 3: – pkt 1 lit. c i d oraz lit. e w zakresie określonym w art. 27 ust. 1 lit. a-c rozporządzenia nr 1198/2006, – pkt 2–5.
+    - **a)**
+    - **b)**
+
 **Art. 10.**
 
 1. Wzór wniosku o dofinansowanie:
@@ -115,7 +159,7 @@ source: "isap-pdf"
 
 - **1)** poprawności sporządzenia i złożenia,
 - **2)** zgodności planowanej operacji z celami środka, w ramach którego ma być realizowana operacja,
-- **3)** celowości udzielenia pomocy na realizację planowanej operacji – w sposób określony w przepisach wydanych na podstawie art. 19 oraz zgodnie z kryteriami wyboru operacji przyjętymi przez komitet monitorujący.
+- **3)** celowości udzielenia pomocy na realizację planowanej operacji w sposób określony w przepisach wydanych na podstawie art. 19 oraz zgodnie z kryteriami wyboru operacji przyjętymi przez komitet monitorujący.
 
 4. Oceny wniosku o dofinansowanie dokonuje się w terminie niezbędnym do należytego wyjaśnienia sprawy.
 
@@ -133,7 +177,7 @@ source: "isap-pdf"
 - **4)** kryteriów oceny ofert;
 - **5)** warunków i sposobu przeprowadzenia konkursu.
 
-4. Instytucja zarządzająca niezwłocznie po rozstrzygnięciu konkursu ofert zawiera umowę o dofinansowanie operacji, o której mowa w ust. 3 pkt 1. Do konkursu ofert nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych.
+4. Instytucja zarządzająca niezwłocznie po rozstrzygnięciu konkursu ofert zawiera umowę o dofinansowanie operacji, o której mowa w ust. 3 pkt 1. Do konkursu ofert nie stosuje się przepisów ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych.
 
 **Art. 12.**
 
@@ -177,16 +221,16 @@ source: "isap-pdf"
 
 4. W przypadku gdy nie są spełnione warunki przyznania pomocy lub został wyczerpany limit środków, o którym mowa w art. 8 ust. 2 lub 3 – wnioskodawcę informuje się, w formie pisemnej, o odmowie przyznania pomocy, podając przyczyny tej odmowy.
 
-5. W przypadku odmowy przyznania pomocy, o której mowa w ust. 4, wnioskodawcy przysługuje prawo wniesienia do sądu administracyjnego skargi na zasadach i w trybie określonych dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2019 r. poz. 2325, z 2020 r. poz. 2299 i 2320 oraz z 2021 r. poz. 54 i 159).
+5. W przypadku odmowy przyznania pomocy, o której mowa w ust. 4, wnioskodawcy przysługuje prawo wniesienia do sądu administracyjnego skargi na zasadach i w trybie określonych dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. Nr 153, poz. 1270, z późn. zm.).
 
 **Art. 15.**
 
 1. Umowa o dofinansowanie:
 
 - **1)** jest zawierana, pod rygorem nieważności, w formie pisemnej;
-- **2)** zawiera w szczególności:
-    - **a)** oznaczenie przedmiotu i stron umowy,
-    - **b)** określenie: – warunków, terminu i miejsca realizacji operacji, – wysokości pomocy, – sposobu potwierdzenia poniesienia kosztów kwalifikowalnych, – warunków i terminów wypłaty środków finansowych z tytułu pomocy, – warunków rozwiązania umowy, – warunków i sposobu zwrotu środków finansowych z tytułu pomocy, w przypadku gdy pomoc jest nienależna lub została wykorzystana niezgodnie z przeznaczeniem.
+- **2)** zawiera w szczególności: oznaczenie przedmiotu i stron umowy, określenie: – warunków, terminu i miejsca realizacji operacji, – wysokości pomocy, – sposobu potwierdzenia poniesienia kosztów kwalifikowalnych, – warunków i terminów wypłaty środków finansowych z tytułu pomocy, – warunków rozwiązania umowy, – warunków i sposobu zwrotu środków finansowych z tytułu pomocy, w przypadku gdy pomoc jest nienależna lub została wykorzystana niezgodnie z przeznaczeniem.
+    - **a)**
+    - **b)**
 
 2. Wzór umowy o dofinansowanie:
 
@@ -197,7 +241,7 @@ source: "isap-pdf"
 
 **Art. 16.**
 
-1. Lokalną strategię rozwoju obszarów rybackich opracowuje stowarzyszenie, w rozumieniu ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261), z tym że:
+1. Lokalną strategię rozwoju obszarów rybackich opracowuje stowarzyszenie, w rozumieniu ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2001 r. Nr 79, poz. 855, z 2003 r. Nr 96, poz. 874, z 2004 r. Nr 102, poz. 1055 oraz z 2007 r. Nr 112, poz. 766), z tym że:
 
 - **1)** członkiem zwyczajnym stowarzyszenia mogą być osoby fizyczne i osoby prawne, w tym jednostki samorządu terytorialnego, z wyłączeniem samorządu województwa;
 - **2)** nadzór nad stowarzyszeniem sprawuje marszałek województwa;
@@ -221,7 +265,7 @@ source: "isap-pdf"
 
 - **1)** szczegółowe warunki, jakim powinna odpowiadać lokalna strategia rozwoju obszarów rybackich,
 - **2)** szczegółowe kryteria wyboru lokalnej grupy rybackiej do realizacji lokalnej strategii rozwoju obszarów rybackich, o których mowa w art. 16 ust. 2,
-- **3)** szczegółowe wymagania, jakim powinna odpowiadać umowa, o której mowa w ust. 1 – biorąc pod uwagę procedury i kryteria wyboru określone w art. 23 rozporządzenia nr 498/2007 oraz mając na względzie realizację celów określonych w art. 43 ust. 2 rozporządzenia nr 1198/2006.
+- **3)** szczegółowe wymagania, jakim powinna odpowiadać umowa, o której mowa w ust. 1 biorąc pod uwagę procedury i kryteria wyboru określone w art. 23 rozporządzenia nr 498/2007 oraz mając na względzie realizację celów określonych w art. 43 ust. 2 rozporządzenia nr 1198/2006.
 
 **Art. 18.**
 
@@ -236,6 +280,15 @@ source: "isap-pdf"
 
 **Art. 19.** Minister właściwy do spraw rybołówstwa określi, w drodze rozporządzenia, szczegółowe warunki i tryb przyznawania, wypłaty lub zwracania pomocy, w ramach poszczególnych osi priorytetowych, o których mowa w art. 3, uwzględniając koszty kwalifikowalne i mając na względzie:
 
+- **1)** określenie: szczegółowych wymagań, jakim powinny odpowiadać wnioski o dofinansowanie oraz tryb ich składania, szczegółowych wymagań, jakim powinna odpowiadać umowa o dofinansowanie – w przypadku środków, w ramach których pomoc jest przyznawana na podstawie umowy, trybu i warunków zawierania umowy o dofinansowanie- w przypadku pomocy udzielanej bez wniosku o dofinansowanie, środków i przypadków, w których następca prawny wnioskodawcy albo nabywca przedsiębiorstwa lub jego części albo gospodarstwa rolnego przeznaczonego do chowu i hodowli ryb lub innych organizmów wodnych lub jego części może, po złożeniu wniosku, wstąpić do toczącego się postępowania na miejsce wnioskodawcy oraz warunki i tryb wstąpienia do tego postępowania, środków i przypadków, w których następcy prawnemu beneficjenta albo nabywcy przedsiębiorstwa lub jego części albo gospodarstwa rolnego przeznaczonego do chowu i hodowli ryb lub innych organizmów wodnych lub jego części może być przyznana pomoc oraz warunki i tryb przyznania tej pomocy;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **2)** zapewnienie prawidłowej realizacji programu oraz istotę i cel poszczególnych środków, o których mowa w art. 3 pkt 1–4.
+
 **Art. 20.**
 
 1. Instytucje pośredniczące, o których mowa w art. 5 ust. 1, przekazują ministrowi właściwemu do spraw rybołówstwa dane niezbędne do sporządzenia wykazu beneficjentów, o którym mowa w art. 31 zdanie drugie lit. d i zdanie trzecie rozporządzenia nr 498/2007.
@@ -246,6 +299,10 @@ source: "isap-pdf"
 - **2)** jest umieszczany na stronie internetowej urzędu obsługującego ministra właściwego do spraw rybołówstwa, co roku, do dnia 30 czerwca i zawiera dane za poprzedni rok.
 
 **Art. 21.** Wypłaty pomocy przyznanej w ramach programu operacyjnego dokonuje Agencja na podstawie:
+
+- **1)** wniosku o płatność składanego do instytucji pośredniczącej, o której mowa w art. 5 ust. 1, lub
+- **2)** umowy o dofinansowanie – jednorazowo lub w częściach, w zależności od liczby etapów przewidzianych w ramach realizowanej operacji zgodnie z tą umową albo
+- **3)** decyzji, o której mowa w art. 9 pkt 4 lit. a – zgodnie z terminami wypłaty pomocy ustalonymi w tej decyzji.
 
 **Art. 22.**
 
@@ -276,9 +333,13 @@ source: "isap-pdf"
 6. Minister właściwy do spraw rybołówstwa określi, w drodze rozporządzenia:
 
 - **1)** szczegółowy zakres sprawozdań, o których mowa w ust. 1, oraz tryb i terminy ich przekazywania,
-- **2)** tryb i zakres rozliczeń w odniesieniu do operacji oraz programu operacyjnego – mając na względzie zapewnienie prawidłowości i skuteczności zarządzania programem operacyjnym oraz efektywności wykorzystania środków finansowych służących jego realizacji.
+- **2)** tryb i zakres rozliczeń w odniesieniu do operacji oraz programu operacyjnego mając na względzie zapewnienie prawidłowości i skuteczności zarządzania programem operacyjnym oraz efektywności wykorzystania środków finansowych służących jego realizacji.
 
 **Art. 23.** Instytucja zarządzająca w odniesieniu do instytucji pośredniczących, o których mowa w art. 5 ust. 1:
+
+- **1)** przeprowadza kontrole,
+- **2)** wydaje pisemne wytyczne lub polecenia,
+- **3)** żąda przedstawienia informacji i udostępniania dokumentów w zakresie zgodności wykonywania przez te instytucje powierzonych im zadań instytucji zarządzającej z przepisami prawa i programem operacyjnym oraz w celu zapewnienia efektywności wdrażania środków tego programu.
 
 **Art. 24.**
 
@@ -325,15 +386,34 @@ source: "isap-pdf"
 - **2)** wypłacona bez podstawy prawnej lub w wysokości wyższej niż określona na realizację operacji w umowie o dofinansowanie lub w decyzji, o której mowa w art. 9 pkt 4 lit. b;
 - **3)** wypłacona beneficjentowi, który nie wykonuje zobowiązań związanych z przyznaniem pomocy.
 
-3. Do pomocy pobranej nienależnie lub wykorzystanej niezgodnie z przeznaczeniem stosuje się przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305) dotyczące zwrotu środków pochodzących z budżetu Unii Europejskiej i innych środków pochodzących ze źródeł zagranicznych, które nie podlegają zwrotowi.
+3. Do pomocy pobranej nienależnie lub wykorzystanej niezgodnie z przeznaczeniem stosuje się przepisy ustawy z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm.) dotyczące zwrotu środków pochodzących z budżetu Unii Europejskiej i innych środków pochodzących ze źródeł zagranicznych, które nie podlegają zwrotowi.
 
 4. Dochodzenie zwrotu pomocy pobranej nienależnie lub wykorzystanej niezgodnie z przeznaczeniem, wraz z odsetkami, następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 
-5. W sprawach dotyczących dochodzenia zwrotu pomocy pobranej nienależnie lub wykorzystanej niezgodnie z przeznaczeniem, wraz z odsetkami dla środków finansowych wypłaconych w ramach programu operacyjnego, organem właściwym jest Prezes Agencji.
+**Art. 28.** W ustawie z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 28.** (pominięty)
+- **1)** w art. 208: ust. 2 otrzymuje brzmienie: „
+    - **a)**
 
-**Art. 29.** (pominięty)
+2. Minister właściwy do spraw rozwoju regionalnego może określić, w drodze rozporządzenia, szczegółowy sposób dokonywania wydatków związanych z realizacją programów operacyjnych, z wyłączeniem programu operacyjnego finansowanego z udziałem środków z Europejskiego Funduszu Rybackiego, w tym sposób i tryb udzielania zaliczek beneficjentom lub wykonawcom, mając na względzie:
+
+- **1)** rodzaje realizowanych projektów;
+- **2)** koszt projektu;
+- **3)** konieczność zagwarantowania prawidłowości dokonywania wydatków. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **b)**
+
+2a. Minister właściwy do spraw rybołówstwa określi, w drodze rozporządzenia, szczegółowy sposób dokonywania wydatków związanych z realizacją programu operacyjnego finansowanego z udziałem środków z Europejskiego Funduszu Rybackiego, w tym sposób i tryb udzielania zaliczek beneficjentom, mając na względzie:
+
+- **1)** rodzaje realizowanych operacji;
+- **2)** koszt operacji;
+- **3)** konieczność zagwarantowania prawidłowości dokonywania wydatków. ” ;
+- **2)** w art. 209 dodaje się ust. 4 w brzmieniu: „
+
+4. Minister właściwy do spraw rybołówstwa może powierzyć, w drodze umowy, Agencji Restrukturyzacji i Modernizacji Rolnictwa zawieranie umów, o których mowa w ust. 1. ” .
+
+**Art. 29.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. Nr 225, poz. 1635, z późn. zm.) w art. 2 w ust. 1 po pkt 3 dodaje się pkt 3a w brzmieniu: „
+
+- **3a)** wydanie decyzji na podstawie przepisów ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego (Dz. U. Nr 72, poz. 619); ” .
 
 **Art. 30.**
 
@@ -345,7 +425,7 @@ source: "isap-pdf"
 
 **Art. 32.**
 
-1. Przepisy wykonawcze wydane na podstawie art. 208 ust. 2 ustawy, o której mowa w art. 28 , zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 208 ust. 2 ustawy, o której mowa w art. 28, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 2 lata od dnia wejścia w życie niniejszej ustawy.
+1. Przepisy wykonawcze wydane na podstawie art. 208 ust. 2 ustawy, o której mowa w art. 28, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 208 ust. 2 ustawy, o której mowa w art. 28, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 2 lata od dnia wejścia w życie niniejszej ustawy.
 
 2. Przepisów, o których mowa w ust. 1, nie stosuje się do szczegółowego sposobu dokonywania wydatków związanych z realizacją programu operacyjnego finansowanego z udziałem środków z Europejskiego Funduszu Rybackiego.
 
@@ -353,5 +433,5 @@ source: "isap-pdf"
 
 **Art. 33.** Pomoc przyznaną przez Agencję w ramach środka, o którym mowa w art. 3 pkt 1 lit. b, oraz koszty poniesione w ramach środka, o którym mowa w art. 3 pkt 5, do dnia wejścia w życie niniejszej ustawy, uznaje się za pomoc przyznaną i koszty poniesione zgodnie z przepisami niniejszej ustawy.
 
-**Art. 34.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+**Art. 34.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

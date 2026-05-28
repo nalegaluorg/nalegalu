@@ -8,12 +8,10 @@ pos: 2064
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy 5 września 2008 o komercjalizacji państwowego przedsiębiorstwa użyteczności publicznej „Poczta Polska” (Dz. U. 2019 poz. 261), uwzględnieniem zmiany wprowadzonej ustawą 23 stycznia 2020 o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284) oraz zmian wynikających przepisów ogłoszonych przed dniem 12 listopada 2020
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ 13 listopada 2020 sprawie ogłoszenia jednolitego tekstu ustawy o komercjalizacji państwowego przedsiębiorstwa użyteczności publicznej „Poczta Polska”*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 13 listopada 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o komercjalizacji państwowego przedsiębiorstwa użyteczności publicznej „Poczta Polska”
 
 | Pole | Wartość |
 |---|---|
@@ -27,38 +25,46 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002064) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2064/text.pdf) |
 
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 114 ustawy 23 stycznia 2020 o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), który stanowi: „Art. 114. Ustawa wchodzi życie po upływie 7 dni od ogłoszenia, wyjątkiem art. 106 ust. 4, art. 107 ust. 2 i art. 108 ust. 2, które wchodzą życie dniem następującym po dniu ogłoszenia.”.
-Marszałek Sejmu: E. Witek
-USTAWA 5 września 2008 o komercjalizacji państwowego przedsiębiorstwa użyteczności publicznej „Poczta Polska”
-Art. 21–28. (pominięte)
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 5 września 2008 r. o komercjalizacji państwowego przedsiębiorstwa użyteczności publicznej „Poczta Polska” Rozdział 1 – Przepisy ogólne Rozdział 2 – Komercjalizacja Poczty Polskiej Rozdział 3 – Działalność Spółki Rozdział 4 – Gospodarowanie mieniem Spółki Rozdział 5 – Szczególne uprawnienia pracownicze Rozdział 6 – Zmiany w przepisach obowiązujących Rozdział 7 – Przepisy przejściowe i końcowe
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 5 września 2008 r. o komercjalizacji państwowego przedsiębiorstwa użyteczności publicznej „Poczta Polska” (Dz. U. z 2019 r. poz. 261), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 listopada 2020 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 114 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), który stanowi:
+„
+Art. 21–28.
+(pominięte)
+
+**Art. 114.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 106 ust. 4, art. 107 ust. 2 i art. 108 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 5 września 2008 r. o komercjalizacji państwowego przedsiębiorstwa użyteczności publicznej „Poczta Polska”
 
 #### Rozdział 1 Przepisy ogólne
 
-**Art. 1.** Ustawa reguluje zasady i tryb komercjalizacji państwowego przedsiębiorstwa użyteczności publicznej „Poczta Polska” działającego na podstawie ustawy 30 lipca 1997 o państwowym przedsiębiorstwie użyteczności publicznej „Poczta Polska” (Dz. U. poz. 675, późn. zm. ), zwanego dalej „Pocztą Polską”.
+**Art. 1.** Ustawa reguluje zasady i tryb komercjalizacji państwowego przedsiębiorstwa użyteczności publicznej „Poczta Polska” działającego na podstawie ustawy z dnia 30 lipca 1997 r. o państwowym przedsiębiorstwie użyteczności publicznej „Poczta Polska” (Dz. U. poz. 675, z późn. zm.), zwanego dalej „Pocztą Polską”.
 
 **Art. 2.**
 
-1. Komercjalizacja Poczty Polskiej, rozumieniu ustawy, polega na przekształceniu Poczty Polskiej spółkę akcyjną o nazwie „Poczta Polska Spółka Akcyjna”, zwaną dalej „Spółką”, której Skarb Państwa jest jedynym akcjonariuszem.
+1. Komercjalizacja Poczty Polskiej, w rozumieniu ustawy, polega na przekształceniu Poczty Polskiej w spółkę akcyjną o nazwie „Poczta Polska Spółka Akcyjna”, zwaną dalej „Spółką”, w której Skarb Państwa jest jedynym akcjonariuszem.
 
 2. Spółka wstępuje we wszystkie stosunki prawne, których podmiotem była Poczta Polska, bez względu na charakter prawny tych stosunków, jeżeli przepisy ustawy nie stanowią inaczej.
 
-3. Do Spółki stosuje się przepisy art. 12 ust. 5 i 6, art. 14, art. 15 i art. 16 ustawy 30 sierpnia 1996 o komercjalizacji i niektórych uprawnieniach pracowników (Dz. U. 2019 poz. 2181 oraz 2020 poz. 284, 875 i 1709).
+3. Do Spółki stosuje się przepisy art. 12 ust. 5 i 6, art. 14, art. 15 i art. 16 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników (Dz. U. z 2019 r. poz. 2181 oraz z 2020 r. poz. 284, 875 i 1709).
 
-**Art. 3.** Spółce przysługuje wyłączne prawo używania wyrazu „poczta” nazwie spółki, różnych przypadkach, oraz zastrzeżonego znaku towarowego.
+**Art. 3.** Spółce przysługuje wyłączne prawo używania wyrazu „poczta” w nazwie spółki, w różnych przypadkach, oraz zastrzeżonego znaku towarowego.
 
-**Art. 4.** Spółka ma prawo używania działalności związanej wykonywaniem obowiązku świadczenia powszechnych usług pocztowych oznak godłem Rzeczypospolitej Polskiej oraz pieczęci urzędowych wizerunkiem orła, ustalonym dla godła, i napisem otoku.
+**Art. 4.** Spółka ma prawo używania w działalności związanej z wykonywaniem obowiązku świadczenia powszechnych usług pocztowych oznak z godłem Rzeczypospolitej Polskiej oraz pieczęci urzędowych z wizerunkiem orła, ustalonym dla godła, i napisem w otoku.
 
-**Art. 5.** Do Spółki nie ma zastosowania art. 6 pkt 4 ustawy 28 lutego 2003 Prawo upadłościowe i naprawcze (Dz. U. 2020 poz. 1228).
+**Art. 5.** Do Spółki nie ma zastosowania art. 6 pkt 4 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. z 2020 r. poz. 1228).
 
 #### Rozdział 2 Komercjalizacja Poczty Polskiej
 
-**Art. 6.** Do komercjalizacji Poczty Polskiej stosuje się przepisy art. 5–8 ustawy 30 sierpnia 1996 o komercjalizacji i niektórych uprawnieniach pracowników.
+**Art. 6.** Do komercjalizacji Poczty Polskiej stosuje się przepisy art. 5–8 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników.
 
 **Art. 7.**
 
-1. Minister właściwy do spraw łączności imieniu Skarbu Państwa, nie później jednak niż terminie 12 miesięcy od wejścia życie ustawy, dokona komercjalizacji Poczty Polskiej.
+1. Minister właściwy do spraw łączności w imieniu Skarbu Państwa, nie później jednak niż w terminie 12 miesięcy od dnia wejścia w życie ustawy, dokona komercjalizacji Poczty Polskiej.
 
-2. Dyrektor Generalny Poczty Polskiej jest obowiązany do przedłożenia ministrowi właściwemu do spraw łączności, terminie 6 miesięcy od wejścia życie ustawy, kwestionariusza przedsiębiorstwa oraz innych dokumentów, niezbędnych do sporządzenia aktu komercjalizacji Poczty Polskiej, określonych przepisach wydanych na podstawie art. 4 ust. 6 ustawy 30 sierpnia 1996 o komercjalizacji i prywatyzacji.
+2. Dyrektor Generalny Poczty Polskiej jest obowiązany do przedłożenia ministrowi właściwemu do spraw łączności, w terminie 6 miesięcy od dnia wejścia w życie ustawy, kwestionariusza przedsiębiorstwa oraz innych dokumentów, niezbędnych do sporządzenia aktu komercjalizacji Poczty Polskiej, określonych w przepisach wydanych na podstawie art. 4 ust. 6 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji.
 
 **Art. 8.**
 
@@ -71,17 +77,21 @@ Art. 21–28. (pominięte)
 - **3)** imiona i nazwiska członków organów pierwszej kadencji;
 - **4)** osobę upoważnioną do zgłoszenia wniosku o wpisanie Spółki do rejestru przedsiębiorców, jeżeli jest to osoba inna niż zarząd.
 
-3. Akt komercjalizacji Poczty Polskiej zastępuje czynności określone przepisach ustawy 15 września 2000 Kodeks spółek handlowych (Dz. U. 2020 poz. 1526), poprzedzające złożenie wniosku o wpis spółki do rejestru przedsiębiorców.
+3. Akt komercjalizacji Poczty Polskiej zastępuje czynności określone w przepisach ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2020 r. poz. 1526), poprzedzające złożenie wniosku o wpis spółki do rejestru przedsiębiorców.
 
 4. (uchylony)
 
-2. Wykreślenie Poczty Polskiej rejestru przedsiębiorców następuje urzędu dniem wpisu Spółki do rejestru przedsiębiorców.
+**Art. 9.**
 
-3. Wpis Spółki do rejestru przedsiębiorców oraz związane tym wykreślenie Poczty Polskiej rejestru przedsiębiorców stają się skuteczne pierwszego miesiąca przypadającego po dniu wydania postanowienia o wpisie.
+1. Niezwłocznie po sporządzeniu aktu komercjalizacji zarząd Spółki lub osoba, o której mowa w art. 8 ust. 2 pkt 4, zgłasza do sądu rejestrowego właściwego dla siedziby Spółki wniosek o wpisanie Spółki do rejestru przedsiębiorców.
+
+2. Wykreślenie Poczty Polskiej z rejestru przedsiębiorców następuje z urzędu z dniem wpisu Spółki do rejestru przedsiębiorców.
+
+3. Wpis Spółki do rejestru przedsiębiorców oraz związane z tym wykreślenie Poczty Polskiej z rejestru przedsiębiorców stają się skuteczne pierwszego dnia miesiąca przypadającego po dniu wydania postanowienia o wpisie.
 
 **Art. 10.**
 
-1. W czasie, którym Skarb Państwa pozostaje jedynym akcjonariuszem Spółki, członków rady nadzorczej, o których mowa ust. 2, powołuje i odwołuje walne zgromadzenie.
+1. W czasie, w którym Skarb Państwa pozostaje jedynym akcjonariuszem Spółki, członków rady nadzorczej, o których mowa w ust. 2, powołuje i odwołuje walne zgromadzenie.
 
 2. W Spółce działa rada nadzorcza, która liczy 5–9 osób. W skład rady nadzorczej wchodzą:
 
@@ -90,32 +100,32 @@ Art. 21–28. (pominięte)
 - **3)** do dwóch przedstawicieli ministra właściwego do spraw aktywów państwowych;
 - **4)** dwóch przedstawicieli pracowników Spółki.
 
-3. Tryb wyboru przedstawicieli pracowników do rady nadzorczej określa statut Spółki, zastrzeżeniem ust. 4–8.
+3. Tryb wyboru przedstawicieli pracowników do rady nadzorczej określa statut Spółki, z zastrzeżeniem ust. 4–8.
 
-4. Przedstawiciele pracowników do pierwszej rady nadzorczej są wybierani wyborach pośrednich, przy zachowaniu zasady powszechności i tajności.
+4. Przedstawiciele pracowników do pierwszej rady nadzorczej są wybierani w wyborach pośrednich, przy zachowaniu zasady powszechności i tajności.
 
-5. Wybory, o których mowa ust. 4, zarządza Dyrektor Generalny Poczty Polskiej i ustala ich szczegółowe zasady.
+5. Wybory, o których mowa w ust. 4, zarządza Dyrektor Generalny Poczty Polskiej i ustala ich szczegółowe zasady.
 
-6. Za przedstawicieli wybranych przez pracowników uznaje się osoby, które wyborach uzyskały najwięcej ważnie oddanych głosów. Wynik głosowania jest wiążący pod warunkiem wzięcia nim udziału co najmniej 50% wszystkich pracowników zatrudnionych chwili wydania zarządzenia, o którym mowa ust. 5.
+6. Za przedstawicieli wybranych przez pracowników uznaje się osoby, które w wyborach uzyskały najwięcej ważnie oddanych głosów. Wynik głosowania jest wiążący pod warunkiem wzięcia w nim udziału co najmniej 50% wszystkich pracowników zatrudnionych w chwili wydania zarządzenia, o którym mowa w ust. 5.
 
-7. Dyrektor Generalny Poczty Polskiej jest obowiązany dostarczyć ministrowi właściwemu do spraw łączności listę przedstawicieli pracowników do pierwszej rady nadzorczej, wybranych sposób określony ust. 4–6, wraz dokumentami, o których mowa art. 7 ust. 2.
+7. Dyrektor Generalny Poczty Polskiej jest obowiązany dostarczyć ministrowi właściwemu do spraw łączności listę przedstawicieli pracowników do pierwszej rady nadzorczej, wybranych w sposób określony w ust. 4–6, wraz z dokumentami, o których mowa w art. 7 ust. 2.
 
-8. W przypadku niedokonania wyboru przedstawicieli pracowników do pierwszej rady nadzorczej zakładowe organizacje związkowe działające Poczcie Polskiej, posiadające reprezentatywność rozumieniu przepisów ustawy 26 czerwca 1974 Kodeks pracy (Dz. U. 2020 poz. 1320), wskażą przedstawicieli pracowników terminie 30 dni od otrzymania tej sprawie pisma ministra właściwego do spraw łączności.
+8. W przypadku niedokonania wyboru przedstawicieli pracowników do pierwszej rady nadzorczej zakładowe organizacje związkowe działające w Poczcie Polskiej, posiadające reprezentatywność w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320), wskażą przedstawicieli pracowników w terminie 30 dni od dnia otrzymania w tej sprawie pisma ministra właściwego do spraw łączności.
 
 9. W przypadku ogłoszenia upadłości Spółki walne zgromadzenie może podjąć uchwałę o zaprzestaniu działania rady nadzorczej i odwołaniu jej członków.
 
 **Art. 11.**
 
-1. Spółka dla realizacji wspólnych celów gospodarczych za zgodą walnego zgromadzenia może tworzyć spółki akcyjne lub spółki ograniczoną odpowiedzialnością.
+1. Spółka dla realizacji wspólnych celów gospodarczych za zgodą walnego zgromadzenia może tworzyć spółki akcyjne lub spółki z ograniczoną odpowiedzialnością.
 
-2. Zgody walnego zgromadzenia Spółce wymaga:
+2. Zgody walnego zgromadzenia w Spółce wymaga:
 
 - **1)** objęcie albo nabycie akcji lub udziałów innej spółki;
 - **2)** zbycie nabytych albo objętych akcji lub udziałów innej spółki.
 
-3. W przypadkach, o których mowa ust. 2 pkt 2, uchwała walnego zgromadzenia określa warunki i tryb zbycia akcji lub udziałów.
+3. W przypadkach, o których mowa w ust. 2 pkt 2, uchwała walnego zgromadzenia określa warunki i tryb zbycia akcji lub udziałów.
 
-4. Statut może określić warunki, jakich dokonywanie czynności, o których mowa ust. 2, nie wymaga zgody walnego zgromadzenia.
+4. Statut może określić warunki, w jakich dokonywanie czynności, o których mowa w ust. 2, nie wymaga zgody walnego zgromadzenia.
 
 #### Rozdział 3 Działalność Spółki
 
@@ -124,75 +134,78 @@ Art. 21–28. (pominięte)
 1. Przedmiotem działalności gospodarczej Spółki jest:
 
 - **1)** prowadzenie działalności polegającej na świadczeniu usług pocztowych;
-- **2)** emisja, wprowadzanie i wycofywanie obiegu znaczków pocztowych, kartek pocztowych oraz kopert nadrukowanym znakiem opłaty pocztowej;
-- **4)** świadczenie usług finansowych i wykonywanie czynności nimi związanych;
-- **5)** pośrednictwo wykonywaniu usług finansowych, tym czynności bankowych;
-- **6)** świadczenie usług logistycznych, a szczególności przewóz przesyłek towarowych oraz ich konfekcjonowanie i magazynowanie.
+- **2)** emisja, wprowadzanie i wycofywanie z obiegu znaczków pocztowych, kartek pocztowych oraz kopert z nadrukowanym znakiem opłaty pocztowej;
+- **3)** wykonywanie innych usług przy wykorzystaniu potencjału technicznego i kadrowego Spółki, w tym w zakresie prenumeraty prasy, kolportażu prasy i wydawnictw, filatelistyki;
+- **4)** świadczenie usług finansowych i wykonywanie czynności z nimi związanych;
+- **5)** pośrednictwo w wykonywaniu usług finansowych, w tym czynności bankowych;
+- **6)** świadczenie usług logistycznych, a w szczególności przewóz przesyłek towarowych oraz ich konfekcjonowanie i magazynowanie.
 
-2. Działalność wymieniona ust. 1 pkt 1 i 2 jest wykonywana zakresie i na warunkach określonych ustawie 23 listopada 2012 Prawo pocztowe (Dz. U. 2020 poz. 1041).
+2. Działalność wymieniona w ust. 1 pkt 1 i 2 jest wykonywana w zakresie i na warunkach określonych w ustawie z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2020 r. poz. 1041).
 
-3. Spółka może wykonywać inną działalność gospodarczą, jeżeli nie ogranicza ona działalności określonej ust. 1.
+3. Spółka może wykonywać inną działalność gospodarczą, jeżeli nie ogranicza ona działalności określonej w ust. 1.
 
-4. Szczegółowy zakres działalności gospodarczej Spółki, o której mowa ust. 1 i 3, określa statut Spółki.
+4. Szczegółowy zakres działalności gospodarczej Spółki, o której mowa w ust. 1 i 3, określa statut Spółki.
 
-5. Działalność, o której mowa ust. 1 pkt 1, Spółka prowadzi uwzględnieniem zadań na rzecz obronności i bezpieczeństwa państwa.
+5. Działalność, o której mowa w ust. 1 pkt 1, Spółka prowadzi z uwzględnieniem zadań na rzecz obronności i bezpieczeństwa państwa.
 
 **Art. 13.**
 
-1. W ramach świadczenia usług i wykonywania czynności, o których mowa art. 12 ust. 1 pkt 4, Spółka może szczególności:
+1. W ramach świadczenia usług i wykonywania czynności, o których mowa w art. 12 ust. 1 pkt 4, Spółka może w szczególności:
 
-- **1)** świadczyć usługi związane transferem środków pieniężnych obrocie krajowym i zagranicą;
+- **1)** świadczyć usługi związane z transferem środków pieniężnych w obrocie krajowym i z zagranicą;
 - **2)** wydawać karty płatnicze i wykonywać operacje przy ich użyciu;
-- **2a)** wydawać pieniądz elektroniczny i świadczyć usługi powiązane jego wydawaniem na terytorium Rzeczypospolitej Polskiej lub przez oddział na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej albo państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA);
+- **2a)** wydawać pieniądz elektroniczny i świadczyć usługi powiązane z jego wydawaniem na terytorium Rzeczypospolitej Polskiej lub przez oddział na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej albo państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA);
 - **3)** wykonywać operacje czekowe i wekslowe;
-- **4)** nabywać i zbywać wierzytelności oraz świadczyć usługi tym zakresie;
-- **5)** udzielać pożyczek ze środków własnych, tym kredytów konsumenckich;
-- **6)** udzielać poręczeń i gwarancji oraz zaciągać inne zobowiązania nieujmowane bilansie;
-- **7)** prowadzić sprzedaż skarbowych papierów wartościowych oraz obligacji jednostek samorządu terytorialnego i wykonywać inne zlecone czynności tym związane, zgodnie zasadami i na warunkach określonych odrębnych przepisach regulujących działalność tym zakresie;
-- **8)** wykonywać usługi zakresie przeliczania, sortowania i przechowywania znaków pieniężnych;
+- **4)** nabywać i zbywać wierzytelności oraz świadczyć usługi w tym zakresie;
+- **5)** udzielać pożyczek ze środków własnych, w tym kredytów konsumenckich;
+- **6)** udzielać poręczeń i gwarancji oraz zaciągać inne zobowiązania nieujmowane w bilansie;
+- **7)** prowadzić sprzedaż skarbowych papierów wartościowych oraz obligacji jednostek samorządu terytorialnego i wykonywać inne zlecone czynności z tym związane, zgodnie z zasadami i na warunkach określonych w odrębnych przepisach regulujących działalność w tym zakresie;
+- **8)** wykonywać usługi w zakresie przeliczania, sortowania i przechowywania znaków pieniężnych;
 - **9)** przechowywać przedmioty i papiery wartościowe oraz udostępniać skrytki sejfowe;
-- **10)** transportować wartości pieniężne, tym papiery wartościowe i dokumenty bankowe;
-- **11)** świadczyć usługi teleinformatyczne i przetwarzania danych, tym na rzecz instytucji finansowych i banków.
+- **10)** transportować wartości pieniężne, w tym papiery wartościowe i dokumenty bankowe;
+- **11)** świadczyć usługi teleinformatyczne i przetwarzania danych, w tym na rzecz instytucji finansowych i banków.
 
-2. Spółka może regulaminach podawanych do publicznej wiadomości określać warunki świadczenia usług, o których mowa ust. 1. Postanowienia tych regulaminów są wiążące dla stron, jeżeli umowie o świadczenie usług strony nie ustalą odmiennie swych praw i obowiązków.
+2. Spółka może w regulaminach podawanych do publicznej wiadomości określać warunki świadczenia usług, o których mowa w ust. 1. Postanowienia tych regulaminów są wiążące dla stron, jeżeli w umowie o świadczenie usług strony nie ustalą odmiennie swych praw i obowiązków.
 
 **Art. 14.**
 
-1. W ramach pośrednictwa wykonywaniu usług finansowych, o którym mowa art. 12 ust. 1 pkt 5, Spółka może:
+1. W ramach pośrednictwa w wykonywaniu usług finansowych, o którym mowa w art. 12 ust. 1 pkt 5, Spółka może:
 
 - **1)** świadczyć usługi pośrednictwa ubezpieczeniowego;
-- **2)** na podstawie umowy zawartej bankiem na piśmie, wykonywać czynności, o których mowa art. 6a ust. 1 ustawy 29 sierpnia 1997 Prawo bankowe (Dz. U. 2020 poz. 1896);
+- **2)** na podstawie umowy zawartej z bankiem na piśmie, wykonywać czynności, o których mowa w art. 6a ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2020 r. poz. 1896);
 - **3)** świadczyć inne usługi.
 
-2. Z zastrzeżeniem ust. 1 pkt 2, Spółka pod warunkiem posiadania prawa do wykonywania ponad 50% głosów na walnym zgromadzeniu banku może na podstawie pełnomocnictwa udzielonego przez ten bank, zakresie zgodnym przedmiotem działalności banku określonym jego statucie, wykonywać jego imieniu i na jego rzecz czynności bankowe określone art. 5 ust. 1 i 2 ustawy 29 sierpnia 1997 Prawo bankowe.
+2. Z zastrzeżeniem ust. 1 pkt 2, Spółka – pod warunkiem posiadania prawa do wykonywania ponad 50% głosów na walnym zgromadzeniu banku – może na podstawie pełnomocnictwa udzielonego przez ten bank, w zakresie zgodnym z przedmiotem działalności banku określonym w jego statucie, wykonywać w jego imieniu i na jego rzecz czynności bankowe określone w art. 5 ust. 1 i 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.
 
-3. Bank zawiadamia Komisję Nadzoru Finansowego o treści pełnomocnictwa do wykonywania czynności, o których mowa art. 5 ust. 1 pkt 1 i 2 ustawy 29 sierpnia 1997 Prawo bankowe, terminie 7 dni od jego udzielenia. Zezwolenie jest wydawane na wspólny wniosek banku i Spółki i określa czynności, które Spółka może wykonywać jego imieniu i na jego rzecz.
+3. Bank zawiadamia Komisję Nadzoru Finansowego o treści pełnomocnictwa do wykonywania czynności, o których mowa w art. 5 ust. 1 pkt 1 i 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, w terminie 7 dni od dnia jego udzielenia.
 
-5. Komisja Nadzoru Finansowego udziela zezwolenia, o którym mowa ust. 4, jeżeli:
+4. Udzielenie przez bank pełnomocnictwa do wykonywania czynności, o których mowa w art. 5 ust. 1 pkt 3–7 i ust. 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, może nastąpić po uzyskaniu zezwolenia Komisji Nadzoru Finansowego. Zezwolenie jest wydawane na wspólny wniosek banku i Spółki i określa czynności, które Spółka może wykonywać w jego imieniu i na jego rzecz.
+
+5. Komisja Nadzoru Finansowego udziela zezwolenia, o którym mowa w ust. 4, jeżeli:
 
 - **1)** nie zostanie zakłócone ostrożne i stabilne zarządzanie bankiem;
-- **2)** bank i Spółka będą posiadać wiarygodne plany działania zapewniające ciągłe i niezakłócone wykonywanie czynności, o których mowa ust. 2;
-- **3)** zostaną zapewnione:
-    - **a)** wykonywanie przez bank skutecznej kontroli wewnętrznej,
-    - **b)** możliwość wykonywania obowiązków biegłego rewidenta banku oraz
-    - **c)** ochrona tajemnicy prawnie chronionej zakresie czynności powierzonych przez bank Spółce;
+- **2)** bank i Spółka będą posiadać wiarygodne plany działania zapewniające ciągłe i niezakłócone wykonywanie czynności, o których mowa w ust. 2;
+- **3)** zostaną zapewnione: wykonywanie przez bank skutecznej kontroli wewnętrznej, możliwość wykonywania obowiązków biegłego rewidenta banku oraz ochrona tajemnicy prawnie chronionej w zakresie czynności powierzonych przez bank Spółce;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **4)** bank będzie mógł kierować do Spółki wiążące zalecenia dotyczące wykonywania umowy obejmującej pełnomocnictwo do działania imieniu banku.
+- **4)** bank będzie mógł kierować do Spółki wiążące zalecenia dotyczące wykonywania umowy obejmującej pełnomocnictwo do działania w imieniu banku.
 
-6. W zakresie nieuregulowanym ustawie do wykonywania przez Spółkę działalności określonej ust. 1 pkt 2 i ust. 2 stosuje się przepisy ustawy 29 sierpnia 1997 Prawo bankowe.
+6. W zakresie nieuregulowanym w ustawie do wykonywania przez Spółkę działalności określonej w ust. 1 pkt 2 i ust. 2 stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.
 
-7. Działalność Spółki określona ust. 2 podlega nadzorowi sprawowanemu przez Komisję Nadzoru Finansowego na zasadach określonych ustawie 29 sierpnia 1997 Prawo bankowe i ustawie 21 lipca 2006 o nadzorze nad rynkiem finansowym (Dz. U. 2020 poz. 180, 284, 568 i 695).
+7. Działalność Spółki określona w ust. 2 podlega nadzorowi sprawowanemu przez Komisję Nadzoru Finansowego na zasadach określonych w ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe i ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2020 r. poz. 180, 284, 568 i 695).
 
 **Art. 15.**
 
 1. Spółka może:
 
-- **1)** posiadać rachunek bankowy Narodowym Banku Polskim;
-- **2)** pobierać Narodowego Banku Polskiego oraz odprowadzać do tego Banku znaki pieniężne, stosując się do zasad obowiązujących banki tym zakresie.
+- **1)** posiadać rachunek bankowy w Narodowym Banku Polskim;
+- **2)** pobierać z Narodowego Banku Polskiego oraz odprowadzać do tego Banku znaki pieniężne, stosując się do zasad obowiązujących banki w tym zakresie.
 
-2. Spółka i osoby niej zatrudnione wykonujące lub uczestniczące wykonywaniu czynności bankowych są obowiązane zachować tajemnicę bankową, która obejmuje wszystkie wiadomości dotyczące tych czynności. Zakres tajemnicy bankowej oraz zasady udzielania informacji stanowiących tajemnicę bankową określają przepisy ustawy 29 sierpnia 1997 Prawo bankowe.
+2. Spółka i osoby w niej zatrudnione wykonujące lub uczestniczące w wykonywaniu czynności bankowych są obowiązane zachować tajemnicę bankową, która obejmuje wszystkie wiadomości dotyczące tych czynności. Zakres tajemnicy bankowej oraz zasady udzielania informacji stanowiących tajemnicę bankową określają przepisy ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.
 
-**Art. 16.** Potwierdzone przez Spółkę dowody przyjęcia wpłaty i dowody wypłaty, a zakresie czynności określonych art. 13 ust. 1 oraz art. 14 ust. 1 i 2 również wystawiane przez Spółkę oświadczenia zawierające zobowiązania, zwolnienie zobowiązań, zrzeczenie się praw lub pokwitowanie odbioru należności oraz stwierdzające udzielenie kredytu, pożyczki pieniężnej, wraz informacją o ich wysokości, zasadach oprocentowania, warunkach spłaty mają moc prawną dokumentów urzędowych.
+**Art. 16.** Potwierdzone przez Spółkę dowody przyjęcia wpłaty i dowody wypłaty, a w zakresie czynności określonych w art. 13 ust. 1 oraz w art. 14 ust. 1 i 2 również wystawiane przez Spółkę oświadczenia zawierające zobowiązania, zwolnienie z zobowiązań, zrzeczenie się praw lub pokwitowanie odbioru należności oraz stwierdzające udzielenie kredytu, pożyczki pieniężnej, wraz z informacją o ich wysokości, zasadach oprocentowania, warunkach spłaty – mają moc prawną dokumentów urzędowych.
 
 #### Rozdział 4 Gospodarowanie mieniem Spółki
 
@@ -200,27 +213,29 @@ Art. 21–28. (pominięte)
 
 1. Mienie Spółki, którego zagospodarowanie nie jest możliwe, a którego utrzymywania nie uzasadniają względy ekonomiczne, może zostać zlikwidowane lub przekazane nieodpłatnie Skarbowi Państwa, jednostkom samorządu terytorialnego lub państwowym jednostkom organizacyjnym.
 
-1a. Nieruchomości Spółki mogą być zbywane trybie bezprzetargowym według ceny rynkowej na rzecz Skarbu Państwa celu włączenia do Zasobu Nieruchomości, o którym mowa ustawie 20 lipca 2017 o Krajowym Zasobie Nieruchomości (Dz. U. 2020 poz. 1100) oraz celu włączenia do Zasobu Spółki Celowej, o której mowa ustawie 10 maja 2018 o Centralnym Porcie Komunikacyjnym (Dz. U. 2020 poz. 234 i 1378), tym zbywane na rzecz tej spółki, a także być przedmiotem zamiany nieruchomościami stanowiącymi własność tej spółki i nieruchomościami stosunku do których, na mocy ustawy 10 maja 2018 o Centralnym Porcie Komunikacyjnym, Spółka Celowa wykonuje prawo własności i inne prawa rzeczowe na rzecz Skarbu Państwa. mieszkań będących własnością Skarbu Państwa (Dz. U. 2016 poz. 52) bez względu na funkcję budynku, którym się znajdują.
+1a. Nieruchomości Spółki mogą być zbywane w trybie bezprzetargowym według ceny rynkowej na rzecz Skarbu Państwa w celu włączenia do Zasobu Nieruchomości, o którym mowa w ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2020 r. poz. 1100) oraz w celu włączenia do Zasobu Spółki Celowej, o której mowa w ustawie z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U. z 2020 r. poz. 234 i 1378), w tym zbywane na rzecz tej spółki, a także być przedmiotem zamiany z nieruchomościami stanowiącymi własność tej spółki i nieruchomościami w stosunku do których, na mocy ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, Spółka Celowa wykonuje prawo własności i inne prawa rzeczowe na rzecz Skarbu Państwa.
 
-2. Spółka może pomniejszyć kapitał zapasowy o wartość księgową netto mienia postaci środków trwałych, przekazywanego zgodnie ust. 1.
+1b. Do sprzedaży samodzielnych lokali mieszkalnych znajdujących się w budynkach stanowiących własność Spółki stosuje się przepisy ustawy z dnia 15 grudnia 2000 r. o zasadach zbywania mieszkań będących własnością przedsiębiorstw państwowych, niektórych spółek handlowych z udziałem Skarbu Państwa, państwowych osób prawnych oraz niektórych mieszkań będących własnością Skarbu Państwa (Dz. U. z 2016 r. poz. 52) bez względu na funkcję budynku, w którym się znajdują.
+
+2. Spółka może pomniejszyć kapitał zapasowy o wartość księgową netto mienia w postaci środków trwałych, przekazywanego zgodnie z ust. 1.
 
 #### Rozdział 5 Szczególne uprawnienia pracownicze
 
-**Art. 18.** Do pracowników spółki mają zastosowanie przepisy art. 2 pkt 5 oraz działu IV ustawy 30 sierpnia 1996 o komercjalizacji i niektórych uprawnieniach pracowników.
+**Art. 18.** Do pracowników spółki mają zastosowanie przepisy art. 2 pkt 5 oraz działu IV ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników.
 
-**Art. 19.** Listonoszom używającym własnych pojazdów do celów służbowych, jazdach lokalnych, może być przyznane prawo do zwrotu kosztów związanych używaniem tych pojazdów do wysokości miesięcznego ryczałtu pieniężnego lub do wysokości nieprzekraczającej stawek za 1 kilometr przebiegu pojazdu, określonych przepisach wydanych na podstawie art. 34a ust. 2 ustawy 6 września 2001 o transporcie drogowym (Dz. U. 2019 poz. 2140 oraz 2020 poz. 875 i 1087), jeżeli przebieg pojazdu, wyłączeniem ryczałtu pieniężnego, jest udokumentowany ewidencji przebiegu pojazdu prowadzonej przez pracownika.
+**Art. 19.** Listonoszom używającym własnych pojazdów do celów służbowych, w jazdach lokalnych, może być przyznane prawo do zwrotu kosztów związanych z używaniem tych pojazdów – do wysokości miesięcznego ryczałtu pieniężnego lub do wysokości nieprzekraczającej stawek za 1 kilometr przebiegu pojazdu, określonych w przepisach wydanych na podstawie art. 34a ust. 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2019 r. poz. 2140 oraz z 2020 r. poz. 875 i 1087), jeżeli przebieg pojazdu, z wyłączeniem ryczałtu pieniężnego, jest udokumentowany w ewidencji przebiegu pojazdu prowadzonej przez pracownika.
 
-**Art. 20.** Pracownikom Spółki związku wykonywaniem obowiązku świadczenia powszechnych usług pocztowych przysługuje ochrona prawna przewidziana przepisach prawa karnego dla funkcjonariuszy publicznych.
+**Art. 20.** Pracownikom Spółki w związku z wykonywaniem obowiązku świadczenia powszechnych usług pocztowych przysługuje ochrona prawna przewidziana w przepisach prawa karnego dla funkcjonariuszy publicznych.
 
-#### Rozdział 6 Zmiany przepisach obowiązujących
+#### Rozdział 6 Zmiany w przepisach obowiązujących
 
 #### Rozdział 7 Przepisy przejściowe i końcowe
 
 **Art. 29.**
 
-1. Traci moc ustawa 30 lipca 1997 o państwowym przedsiębiorstwie użyteczności publicznej „Poczta Polska” (Dz. U. poz. 675, późn. zm. ), wyjątkiem przepisów art. 15a–15c i art. 41, które zachowują moc okresie 36 miesięcy od wejścia życie niniejszej ustawy.
+1. Traci moc ustawa z dnia 30 lipca 1997 r. o państwowym przedsiębiorstwie użyteczności publicznej „Poczta Polska” (Dz. U. poz. 675, z późn. zm.), z wyjątkiem przepisów art. 15a-15c i art. 41, które zachowują moc w okresie 36 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-2. Do wykreślenia Poczty Polskiej rejestru przedsiębiorców Poczta Polska działa na podstawie ustawy, o której mowa ust. 1.
+2. Do dnia wykreślenia Poczty Polskiej z rejestru przedsiębiorców Poczta Polska działa na podstawie ustawy, o której mowa w ust. 1.
 
-**Art. 30.** Ustawa wchodzi życie po upływie 30 dni od ogłoszenia , wyjątkiem przepisów art. 21, 23 i 25–28, które wchodzą życie terminie, o którym mowa art. 9 ust. 3.
+**Art. 30.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem przepisów art. 21, 23 i 25–28, które wchodzą w życie w terminie, o którym mowa w art. 9 ust. 3.
 

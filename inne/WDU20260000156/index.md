@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o działalności leczniczej
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 lutego 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 lutego 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-02-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000156) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/156/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 lutego 2026 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o działalności leczniczej
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2025 r. poz. 450), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620),
 2) ustawą z dnia 24 kwietnia 2025 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 637),
@@ -41,6 +41,12 @@ Art. 123–189. (pominięte)
 
 **Art. 26.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
+- **1)** art. 9, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 25 marca 2025 r.;
+- **2)** art. 7, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 31 marca 2025 r.;
+- **3)** art. 1 pkt 3, 5 i 6, art. 12 i art. 13, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
+- **4)** art. 1 pkt 26 w zakresie dodawanego art. 26e, który wchodzi w życie z dniem 1 stycznia 2026 r.”;
+- **3)** art. 7–9 ustawy z dnia 5 sierpnia 2025 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy o działalności leczniczej (Dz. U. poz. 1211), które stanowią: „Art. 7. Programy naprawcze, o których mowa w art. 59 ust. 4 ustawy zmienianej w art. 2, w brzmieniu dotychczasowym, zatwierdzone przed dniem wejścia w życie niniejszej ustawy realizuje się na podstawie przepisów dotychczasowych.
+
 **Art. 8.** Przepisy art. 88a i art. 88b ustawy zmienianej w art. 2 stosuje się po raz pierwszy do sprawozdań finansowych spółek kapitałowych za 2025 r., a w przypadku gdy rok obrotowy nie pokrywa się z rokiem kalendarzowym do sprawozdań finansowych sporządzanych dla roku obrotowego upływającego w 2026 r.
 
 **Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 15 kwietnia 2011 r. o działalności leczniczej
@@ -48,6 +54,12 @@ Art. 123–189. (pominięte)
 ### DZIAŁ I Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
+
+- **1)** zasady wykonywania działalności leczniczej;
+- **2)** zasady funkcjonowania podmiotów wykonujących działalność leczniczą niebędących przedsiębiorcami;
+- **3)** zasady prowadzenia rejestru podmiotów wykonujących działalność leczniczą;
+- **4)** normy czasu pracy pracowników podmiotów leczniczych;
+- **5)** zasady sprawowania nadzoru nad wykonywaniem działalności leczniczej oraz podmiotami wykonującymi działalność leczniczą.
 
 **Art. 2.**
 
@@ -188,6 +200,12 @@ Art. 123–189. (pominięte)
 
 **Art. 8.** Rodzajami działalności leczniczej są:
 
+- **1)** stacjonarne i całodobowe świadczenia zdrowotne:
+    - **a)** szpitalne,
+    - **b)** inne niż szpitalne;
+
+- **2)** ambulatoryjne świadczenia zdrowotne.
+
 **Art. 9.**
 
 1. Stacjonarne i całodobowe świadczenia zdrowotne inne niż szpitalne mogą polegać w szczególności na:
@@ -229,6 +247,11 @@ Art. 123–189. (pominięte)
 3. Ambulatoryjnych świadczeń zdrowotnych udziela się w ambulatorium (przychodni, poradni, ośrodku zdrowia, lecznicy lub ambulatorium z izbą chorych), a także zakładzie badań diagnostycznych i medycznym laboratorium diagnostycznym oraz w pojeździe lub innym obiekcie będącym na wyposażeniu Sił Zbrojnych Rzeczypospolitej Polskiej, przeznaczonym do udzielania świadczeń zdrowotnych.
 
 **Art. 13.** W miejscu udzielania świadczeń zdrowotnych:
+
+- **1)** nie mogą być świadczone usługi pogrzebowe oraz prowadzona ich reklama;
+- **2)** może być wykonywana działalność inna niż działalność lecznicza, pod warunkiem, że nie jest uciążliwa:
+    - **a)** dla pacjenta lub przebiegu leczenia,
+    - **b)** dla przebiegu leczenia w przypadku jednostki wojskowej.
 
 **Art. 14.**
 
@@ -659,6 +682,11 @@ Art. 123–189. (pominięte)
 3. Przepisu ust. 2 nie stosuje się do osób osadzonych zmarłych w zakładach karnych i aresztach śledczych.
 
 **Art. 33.** W przypadku wykonywania działalności leczniczej przez:
+
+- **1)** lekarza w ramach indywidualnej praktyki lekarskiej wyłącznie w zakładzie leczniczym na podstawie umowy z podmiotem leczniczym prowadzącym ten zakład albo indywidualnej specjalistycznej praktyki lekarskiej wyłącznie w zakładzie leczniczym na podstawie umowy z podmiotem leczniczym prowadzącym ten zakład albo
+- **2)** pielęgniarkę w ramach indywidualnej praktyki pielęgniarki wyłącznie w zakładzie leczniczym na podstawie umowy z podmiotem leczniczym prowadzącym ten zakład albo indywidualnej specjalistycznej praktyki pielęgniarki wyłącznie w zakładzie leczniczym na podstawie umowy z podmiotem leczniczym prowadzącym ten zakład, albo
+- **3)** fizjoterapeutę w ramach indywidualnej praktyki fizjoterapeutycznej wyłącznie w zakładzie leczniczym na podstawie umowy z podmiotem leczniczym prowadzącym ten zakład, albo
+- **4)** diagnostę laboratoryjnego w ramach indywidualnej praktyki diagnosty laboratoryjnego wyłącznie w zakładzie leczniczym na podstawie umowy z podmiotem leczniczym prowadzącym ten zakład odpowiedzialność za szkody będące następstwem udzielania świadczeń zdrowotnych albo niezgodnego z prawem zaniechania udzielania świadczeń zdrowotnych ponoszą solidarnie odpowiednio lekarz i podmiot leczniczy albo pielęgniarka i podmiot leczniczy, albo fizjoterapeuta i podmiot leczniczy, albo diagnosta laboratoryjny i podmiot leczniczy.
 
 **Art. 34.**
 
@@ -1159,6 +1187,12 @@ Art. 123–189. (pominięte)
 
 **Art. 62.** Za długoletnią pracę pracownikowi samodzielnego publicznego zakładu opieki zdrowotnej przysługują nagrody jubileuszowe w wysokości:
 
+- **1)** 75 % miesięcznego wynagrodzenia po 20 latach pracy;
+- **2)** 100 % miesięcznego wynagrodzenia po 25 latach pracy;
+- **3)** 150 % miesięcznego wynagrodzenia po 30 latach pracy;
+- **4)** 200 % miesięcznego wynagrodzenia po 35 latach pracy;
+- **5)** 300 % miesięcznego wynagrodzenia po 40 latach pracy.
+
 **Art. 63.**
 
 1. Pracownikowi samodzielnego publicznego zakładu opieki zdrowotnej przechodzącemu na emeryturę lub rentę z tytułu niezdolności do pracy przysługuje jednorazowa odprawa w wysokości:
@@ -1322,6 +1356,12 @@ Art. 123–189. (pominięte)
 
 **Art. 75.** Organem dokonującym przekształcenia samodzielnego publicznego zakładu opieki zdrowotnej w spółkę kapitałową, zwanym dalej „organem dokonującym przekształcenia”, jest:
 
+- **1)** odpowiednio minister, centralny organ administracji rządowej albo wojewoda w przypadku samodzielnych publicznych zakładów opieki zdrowotnej, dla których jest podmiotem tworzącym;
+- **2)** organ wykonawczy jednostki samorządu terytorialnego w przypadku samodzielnych publicznych zakładów opieki zdrowotnej, dla których podmiotem tworzącym jest jednostka samorządu terytorialnego;
+- **2a)** organ wykonawczy związku jednostek samorządu terytorialnego w przypadku samodzielnych publicznych zakładów opieki zdrowotnej, dla których podmiotem tworzącym jest związek jednostek samorządu terytorialnego;
+- **3)** rektor w przypadku samodzielnych publicznych zakładów opieki zdrowotnej, dla których podmiotem tworzącym jest publiczna uczelnia medyczna albo publiczna uczelnia prowadząca działalność dydaktyczną i badawczą w dziedzinie nauk medycznych;
+- **4)** dyrektor Centrum Medycznego Kształcenia Podyplomowego w przypadku samodzielnych publicznych zakładów opieki zdrowotnej, dla których podmiotem tworzącym jest to centrum.
+
 **Art. 76.**
 
 1. Kierownik samodzielnego publicznego zakładu opieki zdrowotnej jest obowiązany niezwłocznie doręczyć organowi dokonującemu przekształcenia odpowiedzi na pytania zawarte w kwestionariuszu samodzielnego publicznego zakładu opieki zdrowotnej, zwanym dalej „kwestionariuszem”, wraz z wymaganymi dokumentami, a także udzielać wyjaśnień niezbędnych do przeprowadzenia przekształcenia.
@@ -1374,7 +1414,19 @@ Art. 123–189. (pominięte)
 
 **Art. 83.** Tworzenie, przekształcenie i likwidacja podmiotu leczniczego w formie jednostki budżetowej oraz jednostki wojskowej następuje w drodze:
 
+- **1)** zarządzenia:
+    - **a)** ministra,
+    - **b)** centralnego organu administracji rządowej,
+    - **c)** wojewody;
+
+- **2)** uchwały organu stanowiącego jednostki samorządu terytorialnego.
+
 **Art. 84.** Zarządzenie albo uchwała o utworzeniu podmiotu, o którym mowa w art. 83, określa w szczególności:
+
+- **1)** nazwę podmiotu;
+- **2)** miejsce udzielania świadczeń zdrowotnych;
+- **3)** formę organizacyjno-prawną;
+- **4)** rodzaj działalności leczniczej oraz zakres udzielanych świadczeń zdrowotnych.
 
 **Art. 85.** Przekształcenie podmiotu, o którym mowa w art. 83, polega na zmianie rodzaju działalności leczniczej lub istotnej zmianie zakresu udzielanych świadczeń zdrowotnych.
 
@@ -1434,6 +1486,9 @@ Art. 123–189. (pominięte)
 
 **Art. 88b.** Do programu naprawczego, o którym mowa w art. 88a, stosuje się odpowiednio przepisy art. 59 ust. 5–7 i art. 59a–59c, z tym że określone w tych przepisach prawa i obowiązki:
 
+- **1)** kierownika samodzielnego publicznego zakładu opieki zdrowotnej wykonuje zarząd spółki kapitałowej;
+- **2)** podmiotu tworzącego wykonuje odpowiednio zgromadzenie wspólników albo walne zgromadzenie wspólników spółki kapitałowej.
+
 #### Rozdział 4 Regulacje szczególne dotyczące działalności leczniczej obejmującej realizację zadań dydaktycznych i badawczych w powiązaniu z udzielaniem świadczeń zdrowotnych i promocją zdrowia
 
 **Art. 89.**
@@ -1474,6 +1529,9 @@ Art. 123–189. (pominięte)
 4. Kierownik bierze udział w postępowaniu mającym na celu powołanie kierownika kliniki.
 
 **Art. 92.** Nauczyciele akademiccy uczelni medycznych oraz doktoranci w uczelniach medycznych lub federacjach podmiotów systemu szkolnictwa wyższego i nauki prowadzących działalność naukową w zakresie nauk medycznych są zatrudnieni w podmiocie leczniczym, o którym mowa w art. 89 ust. 1, albo w jednostce organizacyjnej, o której mowa w art. 89 ust. 2 i 3:
+
+- **1)** w systemie zadaniowym czasu pracy na podstawie umowy o pracę określającej zadania dydaktyczne, badawcze i udzielanie świadczeń zdrowotnych, w tym świadczeń wysokospecjalistycznych;
+- **2)** na podstawie umowy cywilnoprawnej określającej w szczególności zadania dydaktyczne, badawcze i udzielanie świadczeń zdrowotnych, w tym świadczeń wysokospecjalistycznych.
 
 **Art. 92a.** Przepisy art. 89–92 stosuje się odpowiednio do innej uczelni prowadzącej kształcenie i działalność naukową w zakresie nauk medycznych lub nauk o zdrowiu.
 
@@ -2053,6 +2111,10 @@ Art. 123–189. (pominięte)
 
 **Art. 117a.** W przypadku wieloletnich inwestycji budowlanych finansowanych lub dofinansowanych z budżetu państwa z części pozostającej w dyspozycji:
 
+- **1)** ministra właściwego do spraw zdrowia,
+- **2)** ministra właściwego do spraw wewnętrznych,
+- **3)** Ministra Obrony Narodowej łączna kwota środków z budżetu państwa może być wyższa niż wartość kosztorysowa inwestycji określona przy rozpoczęciu jej realizacji, obejmująca koszty przygotowania do realizacji, koszty robót budowlanych, koszty nadzoru nad wykonywaniem robót budowlanych i koszty pierwszego wyposażenia.
+
 ### DZIAŁ VI Kontrola i nadzór
 
 **Art. 118.**
@@ -2157,6 +2219,18 @@ Art. 123–189. (pominięte)
 
 **Art. 191.** Umorzeniu podlegają znane na dzień 31 grudnia 2009 r. zobowiązania podmiotu tworzącego przejęte od samodzielnego publicznego zakładu opieki zdrowotnej wraz z odsetkami:
 
+- **1)** z tytułu podatków wobec budżetu państwa oraz należności celnych;
+- **2)** z tytułu składek na ubezpieczenia społeczne w części finansowanej przez płatnika oraz na Fundusz Pracy, z wyjątkiem składek na ubezpieczenie emerytalne;
+- **3)** wobec Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych;
+- **4)** z tytułu:
+    - **a)** opłat za gospodarcze korzystanie ze środowiska w rozumieniu przepisów o ochronie i kształtowaniu środowiska,
+    - **b)** opłat za korzystanie ze środowiska w rozumieniu przepisów Prawa ochrony środowiska,
+    - **c)** opłat za szczególne korzystanie z wód w rozumieniu przepisów Prawa wodnego stanowiących przychody Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, wojewódzkich funduszy ochrony środowiska i gospodarki wodnej oraz dochody budżetów powiatów i budżetów gmin, niezależnie od tego, na rachunek bankowy którego organu administracji publicznej opłaty te powinny być wpłacone przez zakład, z zastrzeżeniem art. 195;
+
+- **5)** z tytułu administracyjnych kar pieniężnych określonych w przepisach ustaw wymienionych w pkt 4;
+- **6)** z tytułu opłat za użytkowanie wieczyste gruntów Skarbu Państwa w części stanowiącej dochód budżetu państwa;
+- **7)** z tytułu odsetek za zwłokę, opłaty prolongacyjnej, opłaty dodatkowej, kosztów upomnienia, od zaległości wymienionych w pkt 1–6.
+
 **Art. 192.**
 
 1. Umorzeniu podlegają również:
@@ -2198,6 +2272,15 @@ Art. 123–189. (pominięte)
 2. Jeżeli podmiotem tworzącym jest podmiot, o którym mowa w art. 6 ust. 1, który spełnia warunki do uzyskania dotacji, podmiot ten otrzymuje środki finansowe na cele, o których mowa w art. 201, w drodze przeniesienia wydatków w budżecie państwa dokonanego przez ministra właściwego do spraw finansów publicznych na wniosek ministra właściwego do spraw zdrowia.
 
 **Art. 197.** Warunkami uzyskania dotacji są:
+
+- **1)** wpisanie spółki powstałej z przekształcenia samodzielnego publicznego zakładu opieki zdrowotnej do rejestru przedsiębiorców niepóźniej niż w dniu 31 grudnia 2013 r.;
+- **2)** spełnienie warunku polegającego na: o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej, lub
+    - **a)** zawarciu ugody z wierzycielami w zakresie zobowiązań cywilnoprawnych podmiotu tworzącego przejętych od samodzielnego publicznego zakładu opieki zdrowotnej, obejmującej co najmniej częściowe umorzenie tych zobowiązań lub odsetek od nich, lub
+    - **b)** istnieniu w dniu przekształcenia przejętych przez podmiot tworzący zobowiązań cywilnoprawnych wynikających z zaciągniętych kredytów bankowych, o których mowa w art. 34 ust. 1 pkt 3 ustawy z dnia 15 kwietnia 2005 r.
+    - **c)** uiszczeniu przez podmiot tworzący, który przekształcił samodzielny publiczny zakład opieki zdrowotnej w spółkę kapitałową, podatku od towarów i usług od wniesionego do tej spółki aportu, lub
+    - **d)** istnieniu w dniu przekształcenia zobowiązania wynikającego z pożyczki udzielonej przez podmiot tworzący samodzielnemu publicznemu zakładowi opieki zdrowotnej do dnia 31 grudnia 2009 r., lub
+    - **e)** poniesieniu kosztów określenia wartości rynkowej nieruchomości w sposób, o którym mowa w art. 82 ust. 1 i 2, lub
+    - **f)** spłacie przez podmiot tworzący, który przekształcił samodzielny publiczny zakład opieki zdrowotnej w spółkę kapitałową, kredytów bankowych zaciągniętych przez samodzielny publiczny zakład opieki zdrowotnej poręczonych przez ten podmiot, dokonanej do dnia 31 grudnia 2009 r.
 
 **Art. 198.**
 
@@ -2379,6 +2462,9 @@ Art. 123–189. (pominięte)
 3. Zachowany w mocy akt wykonawczy, o którym mowa w ust. 2, może być zmieniony przez ministra właściwego do spraw zdrowia, w drodze rozporządzenia, w granicach określonych w art. 10 ust. 5 ustawy, o której mowa w art. 220 pkt 1.
 
 **Art. 220.** Tracą moc:
+
+- **1)** ustawa z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. z 2007 r. poz. 89, z późn. zm. );
+- **2)** ustawa z dnia 24 sierpnia 2001 r. o dopłatach do oprocentowania kredytów udzielanych lekarzom, lekarzom stomatologom, pielęgniarkom, położnym oraz o umarzaniu tych kredytów (Dz. U. poz. 1406 oraz z 2002 r. poz. 1209).
 
 **Art. 221.** Ustawa wchodzi w życie z dniem 1 lipca 2011 r., z wyjątkiem art. 17 ust. 2 i 3, art. 25, art. 88 ust. 3, art. 106 ust. 2 zdanie trzecie, ust. 3 pkt 13, ust. 4 pkt 11 i ust. 5, art. 148 pkt 6 oraz art. 172 pkt 10, które wchodzą w życie z dniem 1 stycznia 2012 r.
 

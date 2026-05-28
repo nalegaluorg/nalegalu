@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o współpracy rozwojowej
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 października 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 października 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-10-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001460) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1460/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 października 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o współpracy rozwojowej
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 16 września 2011 r. o współpracy rozwojowej (Dz. U. z 2024 r. poz. 1384), z uwzględnieniem zmian wprowadzonych ustawą z dnia 20 marca 2025 r. o zmianie ustawy o współpracy rozwojowej oraz niektórych innych ustaw (Dz. U. poz. 525) oraz zmian wynikających z przepisów ogłoszonych przed dniem 7 października 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 4–6 ustawy z dnia 20 marca 2025 r. o zmianie ustawy o współpracy rozwojowej oraz niektórych innych ustaw (Dz. U. poz. 525), które stanowią: „Art. 4. 1. W Banku Gospodarstwa Krajowego tworzy się Finansowy Instrument Współpracy Rozwojowej.
 2. Pierwszy projekt planu rzeczowo-finansowego Finansowego Instrumentu Współpracy Rozwojowej, o którym mowa w art. 19e ust. 1 pkt 2 ustawy zmienianej w art. 1, jest opracowywany przez Bank Gospodarstwa Krajowego w uzgodnieniu z ministrem właściwym do spraw finansów publicznych działającym w uzgodnieniu z ministrem właściwym do spraw zagranicznych w terminie 60 dni od dnia wejścia w życie niniejszej ustawy i zatwierdzany w terminie 60 dni od dnia jego otrzymania przez ministra właściwego do spraw finansów publicznych.
@@ -81,9 +81,25 @@ Art. 20–22. (pominięte)
 
 **Art. 3.** W realizowaniu współpracy rozwojowej mogą uczestniczyć w szczególności:
 
+- **1)** jednostki sektora finansów publicznych w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530, z późn. zm. );
+- **2)** podmioty, które mogą prowadzić działalność pożytku publicznego w rozumieniu ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2025 r. poz. 1338);
+- **3)** przedsiębiorcy w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, z późn. zm. );
+- **4)** instytuty badawcze w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534 oraz z 2025 r. poz. 1017 i 1080);
+- **5)** BGK.
+
 #### Rozdział 2 Formy współpracy rozwojowej
 
 **Art. 4.** Współpraca rozwojowa może być realizowana w szczególności w formie:
+
+- **1)** finansowania zadań powierzonych podmiotom uczestniczącym w realizowaniu współpracy rozwojowej;
+- **2)** przekazywania środków finansowych do budżetu państwa rozwijającego się;
+- **3)** udzielania kredytów i pożyczek;
+- **4)** redukcji oraz konwersji zadłużenia państwa rozwijającego się;
+- **5)** współfinansowania lub udzielania wsparcia technicznego przy wdrażaniu działań finansowych w szczególności z budżetów innych państw, Unii Europejskiej lub innych organizacji międzynarodowych;
+- **6)** wpłaty do międzynarodowych organizacji, instytucji, programów i funduszy;
+- **7)** organizowania szkoleń i doradztwa dla podmiotów uczestniczących w realizowaniu współpracy rozwojowej;
+- **8)** opracowywania, wydawania i rozpowszechniania publikacji;
+- **9)** organizowania działań informacyjnych.
 
 #### Rozdział 3 Zasady realizacji współpracy rozwojowej
 
@@ -188,6 +204,11 @@ Art. 20–22. (pominięte)
 
 **Art. 16.** Do zadań Rady należy w szczególności:
 
+- **1)** przedstawianie propozycji dotyczących priorytetów geograficznych i tematycznych współpracy rozwojowej;
+- **2)** opiniowanie projektów Programu i Planu;
+- **3)** opiniowanie rocznych sprawozdań z realizacji przez organy administracji rządowej zadań z zakresu współpracy rozwojowej;
+- **4)** opiniowanie projektów dokumentów rządowych związanych ze współpracą rozwojową.
+
 **Art. 17.**
 
 1. Rada składa się z 25 członków.
@@ -231,6 +252,14 @@ Art. 20–22. (pominięte)
 #### Rozdział 5a Zasady funkcjonowania FIWR oraz realizacji współpracy rozwojowej BGK
 
 **Art. 19a.** Ilekroć w niniejszym rozdziale jest mowa o instrumentach, rozumie się przez to instrumenty, w tym finansowane lub współfinansowane ze środków FIWR, wykorzystywane do realizacji współpracy rozwojowej BGK:
+
+- **1)** instrumenty dłużne, w tym pożyczki lub kredyty;
+- **2)** instrumenty kapitałowe, w tym nabywanie lub obejmowanie akcji, udziałów, jednostek uczestnictwa lub certyfikatów inwestycyjnych, przystępowanie do spółki komandytowej w charakterze komandytariusza, do spółki komandytowo-akcyjnej w charakterze akcjonariusza lub powierzanie środków pieniężnych w zarządzanie;
+- **3)** gwarancje lub poręczenia, w tym gwarancje lub poręczenia portfela kredytów w rozumieniu art. 128b ust. 2 pkt 1 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2024 r. poz. 1646, z późn. zm. ) lub portfela innych zobowiązań w rozumieniu art. 128b ust. 2 pkt 2 tej ustawy, a także gwarancje lub reporęczenia, w tym rewerencje lub reporęczenia tych portfeli;
+- **4)** bezzwrotne instrumenty współpracy rozwojowej, w tym pomoc techniczną, dopłaty do kapitału, umorzenia kapitału lub dopłaty do odsetek;
+- **5)** mechanizmy kompensacji i podziału ryzyka inne niż wskazane w pkt 3;
+- **6)** mieszane instrumenty, składające się z instrumentów, o których mowa w pkt 1–5;
+- **7)** inne niż wymienione w pkt 1–6 instrumenty określone w aktach, na podstawie których zostały przekazane środki, o których mowa w art. 19b ust. 1 pkt 2.
 
 **Art. 19b.**
 

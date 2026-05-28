@@ -8,10 +8,10 @@ pos: 528
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 marca 2021 r.
+# Rozporządzenie Ministra Sprawiedliwościz dnia 16 marca 2021 r. w sprawie utworzenia Sądu Okręgowego w Sosnowcu
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,14 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2021-03-16 |
 | Data wydania | 2021-03-23 |
+| Wejście w życie | 2022-04-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000528) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/528/text.pdf) |
 
-Poz. 528 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 16 marca 2021 r.
-w sprawie utworzenia Sądu Okręgowego w Sosnowcu Na podstawie art. 20 pkt 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r.
-poz. 2072) zarządza się, co następuje: § 1. Tworzy się – w obszarze właściwości Sądu Apelacyjnego w Katowicach – Sąd Okręgowy w Sosnowcu.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 września 2021 r.
-Minister Sprawiedliwości: Z. Ziobro
+Treść rozporządzenia
+Na podstawie art. 20 pkt 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r. poz. 2072) zarządza się, co następuje:
+§ 1.
+Tworzy się – w obszarze właściwości Sądu Apelacyjnego w Katowicach – Sąd Okręgowy w Sosnowcu.
+§ 2.
+Rozporządzenie wchodzi w życie z dniem 1 września 2021 r.
 

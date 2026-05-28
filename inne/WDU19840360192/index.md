@@ -22,6 +22,7 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1984-07-21 |
 | Data wydania | 1984-07-23 |
+| Wejście w życie | 1984-07-23 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19840360192) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1984/192/text.pdf) |
 
@@ -32,6 +33,20 @@ Z okazji Jubileuszu 40-lecia Polskiej Rzeczypospolitej Ludowej
 Sejm Polskiej Rzeczypospolitej Ludowej stanowi, co następuje:
 
 **Art. 1.** Amnestię stosuje się do popełnionych przed dniem 21 lipca 1984 r.:
+
+- **1)** przestępstw przeciwko porządkowi prawnemu stanu wojennego, określonych w art. 46, 47 i 48 dekretu z dnia 12 grudnia 1981 r. o stanie wojennym (Dz. U. Nr 29, poz. 154 i z 1982 r. Nr 3, poz. 18),
+- **2)** przestępstw związanych z militaryzacją, określonych w art. 303 § 3 i 4, art. 304 § 1 i 2 oraz § 3, z wyjątkiem wypadku usiłowania lub dokonania ucieczki za granicę, art. 305, 306 i 309 kodeksu karnego,
+- **3)** przestępstw popełnionych z powodów politycznych albo w związku ze strajkiem lub akcją protestacyjną: przeciwko podstawowym interesom politycznym Polskiej Rzeczypospolitej Ludowej, określonych w art. 123, 128 w związku z art. 123, oraz w art. 132 i 133 kodeksu karnego, przeciwko bezpieczeństwu powszechnemu, określonych w art. 137 § 1, art. 138 § 1, art. 139 § 1 i art. 140 § 1 pkt 4 i 5 kodeksu karnego, przeciwko zdrowiu, określonych w art. 156 § 1 i 2, art. 158 § 1, art. 159 i art. 160 § 1 kodeksu karnego, przeciwko wolności, określonych w art. 165 § 1 kodeksu karnego, przeciwko czci, określonych w art. 178 § 2 kodeksu karnego, przeciwko wyborom, określonych w art. 189 § 1 kodeksu karnego, przeciwko mieniu, określonych w art. 212 § 1 i 2 i art. 214 § 1 kodeksu karnego, przeciwko działalności instytucji państwowych i społecznych, określonych w art. 233, 234 § 1 i art. 235 kodeksu karnego, przeciwko wymiarowi sprawiedliwości, określonych w art. 252 § 1 i art. 254 § 1 w związku z art. 123 i 128 kodeksu karnego, przeciwko porządkowi publicznemu, określonych w art. 270, § 1, art. 271, art. 273 § 1 i 2 w związku z art. 270 § 1 lub art. 271, art. 275 § 1, art. 276 § 1 i 3, art. 278 § 1–3 oraz art. 279, 280, 281 i 282a, 284 § 1, art. 287 i 288 § 1 kodeksu karnego.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
 
 **Art. 2.**
 

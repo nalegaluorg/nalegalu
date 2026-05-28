@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# o zmianie ustawy o podatku od towarów i usług
-
-*USTAWA z dnia 24 czerwca 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 lipca 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +22,13 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2025-06-24 |
 | Data wydania | 2025-07-07 |
+| Wejście w życie | 2026-01-01 |
 | Ostatnia zmiana | 2025-07-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000896) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/896/text.pdf) |
+
+Poz. 896
+USTAWA z dnia 24 czerwca 2025 r.
+o zmianie ustawy o podatku od towarów i usług
 
 **Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2025 r. poz. 775 i 894) w art. 113 w ust. 1 wyrazy „kwoty 200 000 zł” zastępuje się wyrazami „kwoty 240 000 zł”.
 

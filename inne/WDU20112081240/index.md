@@ -8,12 +8,10 @@ pos: 1240
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o bezpieczeństwie osób przebywających na obszarach wodnych
-
-*USTAWA z dnia 18 sierpnia 2011 r.*
+# Ustawa z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych
 
 | Pole | Wartość |
 |---|---|
@@ -24,20 +22,40 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2011-08-18 |
 | Data wydania | 2011-09-30 |
+| Wejście w życie | 2012-01-01 |
 | Ostatnia zmiana | 2025-08-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112081240) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1240/text.pdf) |
-
-Art. 37–39. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
 
+- **1)** warunki bezpieczeństwa osób pływających, kąpiących się lub uprawiających sport lub rekreację na obszarach wodnych;
+- **2)** podmioty uprawnione do wykonywania ratownictwa wodnego, zakres ich obowiązków i uprawnień, oraz zasady finansowania ich działalności;
+- **3)** podmioty odpowiedzialne za zapewnienie bezpieczeństwa osobom pływającym, kąpiącym się lub uprawiającym sport lub rekreację na obszarach wodnych;
+- **4)** nadzór i kontrolę nad ratownictwem wodnym;
+- **5)** zasady i tryb usuwania, przechowywania, wydawania oraz orzekania przepadku statku lub innego obiektu pływającego przeznaczonego lub używanego do uprawiania sportu lub rekreacji, zwanego dalej „innym obiektem pływającym”.
+
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** obszarze wodnym – rozumie się przez to wody śródlądowe oraz wody przybrzeżne w rozumieniu art. 5 ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2005 r. Nr 239, poz. 2019, z późn. zm.), a także kąpielisko, miejsce wykorzystywane do kąpieli, pływalnię oraz inne obiekty dysponujące nieckami basenowymi o łącznej powierzchni powyżej 100 m2 i głębokości ponad 0,4 m w najgłębszym miejscu lub głębokości powyżej 1,2 m;
+- **2)** wyznaczonym obszarze wodnym – rozumie się przez to kąpielisko, miejsce wykorzystywane do kąpieli, pływalnię oraz inne obiekty dysponujące nieckami basenowymi o łącznej powierzchni powyżej 100 m2 i głębokości ponad 0,4 m w najgłębszym miejscu lub głębokości powyżej 1,2 m;
+- **3)** wypadku – rozumie się przez to nagłe zdarzenie wywołane przyczyną zewnętrzną, które wystąpiło podczas pływania, kąpania lub uprawiania sportu lub rekreacji na obszarach wodnych, którego następstwem może być naruszenie czynności narządu ciała lub rozstrój zdrowia;
+- **4)** ratownictwie wodnym – rozumie się przez to prowadzenie działań ratowniczych, polegających w szczególności na organizowaniu i udzielaniu pomocy osobom, które uległy wypadkowi lub są narażone na niebezpieczeństwo utraty życia lub zdrowia na obszarze wodnym;
+- **5)** ratowniku wodnym – rozumie się przez to osobę posiadającą wiedzę i umiejętności z zakresu ratownictwa i technik pływackich oraz inne kwalifikacje przydatne w ratownictwie wodnym i spełniającą wymagania określone w art. 13 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. Nr 191, poz. 1410, z późn. zm.), zatrudnioną lub pełniącą służbę w podmiocie uprawnionym do wykonywania ratownictwa wodnego lub będącą członkiem tego podmiotu;
+- **6)** miejscu wykorzystywanym do kąpieli – rozumie się przez to miejsce, o którym mowa w art. 9 ust. 1 pkt 5c ustawy z dnia 18 lipca 2001 r. – Prawo wodne;
+- **7)** kąpielisku – rozumie się przez to kąpielisko w rozumieniu art. 9 ust. 1 pkt 5a ustawy z dnia 18 lipca 2001 r. – Prawo wodne;
+- **8)** pływalni – rozumie się przez to obiekt kryty lub odkryty, z wodą przepływową, przeznaczony do pływania lub kąpieli, posiadający co najmniej jedną nieckę basenową, z trwałym brzegiem i dnem, wyposażony w urządzenia sanitarne, szatnie i natryski.
 
 #### Rozdział 2 Bezpieczeństwo na obszarach wodnych
 
 **Art. 3.** Osoby przebywające na obszarach wodnych obowiązane są do zachowania należytej staranności w celu ochrony życia i zdrowia własnego oraz innych osób, a w szczególności:
+
+- **1)** zapoznania się z zasadami korzystania z danego terenu, obiektu lub urządzenia i ich przestrzegania;
+- **2)** stosowania się do znaków nakazu i zakazu umieszczanych przez podmioty, o których mowa w art. 12 ust. 1;
+- **3)** zapoznania się i dostosowania swoich planów aktywności do umiejętności oraz aktualnych warunków atmosferycznych;
+- **4)** użytkowania sprzętu odpowiedniego do rodzaju podejmowanej aktywności, sprawnego technicznie i zgodnie z jego przeznaczeniem i zasadami użycia;
+- **5)** bezzwłocznego informowania odpowiednich służb ratowniczych lub podmiotów, o których mowa w art. 12 ust. 1, o zaistniałym wypadku lub zaginięciu osoby oraz o innych zdarzeniach nadzwyczajnych mogących mieć wpływ na bezpieczeństwo osób.
 
 **Art. 4.**
 
@@ -45,10 +63,10 @@ Art. 37–39. (pominięte)
 
 - **1)** dokonaniu, we współpracy z policją i działającymi na danym terenie podmiotami, o których mowa w art. 12 ust. 1, analizy zagrożeń, w tym identyfikacji miejsc, w których występuje zagrożenie dla bezpieczeństwa osób wykorzystujących obszar wodny do pływania, kąpania się, uprawiania sportu lub rekreacji;
 - **2)** oznakowaniu i zabezpieczeniu terenów, obiektów i urządzeń przeznaczonych do pływania, kąpania się, uprawiania sportu lub rekreacji na obszarach wodnych;
-- **3)** prowadzeniu działań profilaktycznych i edukacyjnych dotyczących bezpieczeństwa na obszarach wodnych, polegających w szczególności na:
-    - **a)** oznakowaniu miejsc niebezpiecznych,
-    - **b)** objęciu nadzorem, we współpracy z policją i podmiotami, o których mowa w art. 12 ust. 1, miejsc niebezpiecznych, w tym miejsc zwyczajowo wykorzystywanych do kąpieli,
-    - **c)** uświadamianiu zagrożeń związanych z wykorzystywaniem obszarów wodnych, w szczególności prowadzeniu akcji edukacyjnych wśród dzieci i młodzieży szkolnej;
+- **3)** prowadzeniu działań profilaktycznych i edukacyjnych dotyczących bezpieczeństwa na obszarach wodnych, polegających w szczególności na: oznakowaniu miejsc niebezpiecznych, objęciu nadzorem, we współpracy z policją i podmiotami, o których mowa w art. 12 ust. 1, miejsc niebezpiecznych, w tym miejsc zwyczajowo wykorzystywanych do kąpieli, uświadamianiu zagrożeń związanych z wykorzystywaniem obszarów wodnych, w szczególności prowadzeniu akcji edukacyjnych wśród dzieci i młodzieży szkolnej;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **4)** informowaniu i ostrzeganiu o warunkach pogodowych oraz innych czynnikach mogących powodować utrudnienia lub zagrożenia dla zdrowia lub życia osób;
 - **5)** zapewnieniu warunków do organizowania pomocy oraz ratowania osób, które uległy wypadkowi lub są narażone na niebezpieczeństwo utraty życia lub zdrowia.
@@ -57,7 +75,7 @@ Art. 37–39. (pominięte)
 
 - **1)** na terenie parku narodowego lub krajobrazowego – dyrektor parku,
 - **2)** na terenie, na którym prowadzona jest działalność w zakresie sportu lub rekreacji – osoba fizyczna, osoba prawna i jednostka organizacyjna nieposiadająca osobowości prawnej, która prowadzi działalność w tym zakresie,
-- **3)** na pozostałym obszarze – właściwy miejscowo wójt (burmistrz, prezydent miasta) – zwani dalej „zarządzającym obszarem wodnym”.
+- **3)** na pozostałym obszarze – właściwy miejscowo wójt (burmistrz, prezydent miasta) zwani dalej „zarządzającym obszarem wodnym”.
 
 3. Zadania, o których mowa w ust. 1, wykonywane przez wójta (burmistrza, prezydenta miasta) na obszarze, o którym mowa w ust. 2 pkt 3, należą do zadań własnych gminy.
 
@@ -71,9 +89,9 @@ Art. 37–39. (pominięte)
 
 2. Do obowiązków zarządzającego wyznaczonym obszarem wodnym należy:
 
-- **1)** w przypadku kąpieliska, pływalni oraz innych obiektów dysponujących nieckami basenowymi o łącznej powierzchni powyżej 100 m i głębokości ponad 0,4 m w najgłębszym miejscu lub głębokości powyżej 1,2 m:
-    - **a)** wytyczanie strefy dla umiejących i nieumiejących pływać,
-    - **b)** wydzielanie brodzika dla dzieci;
+- **1)** w przypadku kąpieliska, pływalni oraz innych obiektów dysponujących nieckami basenowymi o łącznej powierzchni powyżej 100 m2 i głębokości ponad 0,4 m w najgłębszym miejscu lub głębokości powyżej 1,2 m: wytyczanie strefy dla umiejących i nieumiejących pływać, wydzielanie brodzika dla dzieci;
+    - **a)**
+    - **b)**
 
 - **2)** zapewnienie stałej kontroli wyznaczonego obszaru wodnego przez ratowników wodnych;
 - **3)** utworzenie stanowiska do obserwacji wyznaczonego obszaru wodnego;
@@ -86,9 +104,12 @@ Art. 37–39. (pominięte)
 
 **Art. 6.** Zarządzający wyznaczonym obszarem wodnym lub osoba przez niego upoważniona może nie wpuścić na ten obszar osoby lub żądać opuszczenia przez nią tego obszaru, jeśli zachowanie osoby wyraźnie wskazuje, że znajduje się ona w stanie nietrzeźwości lub jest pod wpływem środka odurzającego.
 
-**Art. 7.** Zabrania się prowadzenia w ruchu wodnym statku lub innego obiektu pływającego, niebędącego pojazdem mechanicznym, osobie znajdującej się w stanie po użyciu alkoholu lub podobnie działającego środka.
+**Art. 7.** Zabrania się prowadzenia w ruchu wodnym statku lub innego obiektu pływającego, niebędącego pojazdem mechanicznym, osobie znajdującej się w stanie po użyciu alkoholu, nietrzeźwości, po użyciu środka działającego podobnie do alkoholu lub pod wpływem środka odurzającego.
 
 **Art. 8.** Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw kultury fizycznej określi, w drodze rozporządzenia:
+
+- **1)** sposób oznakowania i zabezpieczania obszarów wodnych,
+- **2)** wzory znaków zakazu, nakazu oraz informacyjnych i flag mając na uwadze konieczność zapewnienia odpowiedniego poziomu bezpieczeństwa i udzielania pomocy osobom kąpiącym się, pływającym i uprawiającym sport lub rekreację na obszarach wodnych.
 
 **Art. 9.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, minimalne wymagania dotyczące liczby ratowników wodnych zapewniających stałą kontrolę wyznaczonego obszaru wodnego, biorąc pod uwagę wielkość tego obszaru oraz konieczność zapewnienia bezpieczeństwa osobom na nim przebywającym.
 
@@ -100,7 +121,7 @@ Art. 37–39. (pominięte)
 
 **Art. 12.**
 
-1. Ratownictwo wodne mogą wykonywać podmioty, które uzyskały zgodę ministra właściwego do spraw wewnętrznych na wykonywanie ratownictwa wodnego oraz wpis do rejestru jednostek współpracujących z systemem Państwowe Ratownictwo Medyczne, o którym mowa w art. 17 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2022 r. poz. 1720, 1733, 2705 i 2770), zwane dalej „podmiotami uprawnionymi do wykonywania ratownictwa wodnego”.
+1. Ratownictwo wodne może wykonywać Wodne Ochotnicze Pogotowie Ratunkowe oraz inne podmioty, jeżeli uzyskały zgodę ministra właściwego do spraw wewnętrznych, zwane dalej „podmiotami uprawnionymi do wykonywania ratownictwa wodnego”.
 
 2. Minister właściwy do spraw wewnętrznych udziela, w drodze decyzji administracyjnej, zgody, o której mowa w ust. 1, na wniosek podmiotu ubiegającego się o jej udzielenie, o ile podmiot ten spełnia następujące warunki:
 
@@ -113,23 +134,27 @@ Art. 37–39. (pominięte)
 
 - **1)** nazwę podmiotu, siedzibę i jego adres;
 - **2)** informację o obszarze działania, na którym ma być wykonywane ratownictwo wodne;
-- **3)** wykaz ratowników wodnych wraz z dokumentami potwierdzającymi spełnianie przez nich warunków określonych w art. 15a ust. 1;
+- **3)** informację o liczbie ratowników wodnych oraz posiadanych przez nich kwalifikacjach przydatnych w ratownictwie wodnym;
 - **4)** wykaz sprzętu specjalistycznego, środków transportu i łączności;
 - **5)** informację o źródłach finansowania planowanej działalności;
 - **6)** informację o zakresie planowanych szkoleń ratowników wodnych i instruktorów oraz wykaz kadry i sprzętu niezbędnego do szkolenia i egzaminowania.
 
 4. W przypadku prowadzenia działalności ratowniczej na obszarze parku narodowego lub krajobrazowego do wniosku, o którym mowa w ust. 2, dołącza się także opinię dyrektora parku.
 
-4a. Decyzja, o której mowa w ust. 2, wygasa, jeżeli podmiot uprawniony do wykonywania ratownictwa wodnego, który uzyskał zgodę, o której mowa w ust. 1, w terminie 6 miesięcy od dnia jej wydania nie został wpisany do rejestru jednostek współpracujących z systemem Państwowe Ratownictwo Medyczne, o którym mowa w art. 17 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym.
-
 5. Minister właściwy do spraw wewnętrznych, w drodze decyzji administracyjnej:
 
-- **1)** cofa zgodę, o której mowa w ust. 1, jeżeli podmiot uprawniony do wykonywania ratownictwa wodnego, któremu taka zgoda została udzielona, przestał spełniać warunki, o których mowa w ust. 2, lub został wykreślony z rejestru jednostek współpracujących z systemem Państwowe Ratownictwo Medyczne, o którym mowa w art. 17 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, lub
+- **1)** cofa zgodę, o której mowa w ust. 1, jeżeli podmiot, któremu taka zgoda została udzielona, przestał spełniać warunki, o których mowa w ust. 2, lub
 - **2)** może cofnąć zgodę, jeżeli podmiot, któremu taka zgoda została udzielona, nie usunął w wymaganym terminie nieprawidłowości mających istotny wpływ na wykonywanie ratownictwa wodnego stwierdzonych protokołem kontroli.
 
-6. Minister właściwy do spraw wewnętrznych zawiadamia wojewodę właściwego do dokonania wpisu do rejestru jednostek współpracujących z systemem Państwowe Ratownictwo Medyczne, o którym mowa w art. 17 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, o cofnięciu zgody, o której mowa w ust. 1.
-
 **Art. 13.** W ramach ratownictwa wodnego podejmowane są działania ratownicze, polegające w szczególności na:
+
+- **1)** przyjęciu zgłoszenia o wypadku lub zagrożeniu;
+- **2)** dotarciu na miejsce wypadku z odpowiednim sprzętem ratunkowym;
+- **3)** udzielaniu kwalifikowanej pierwszej pomocy;
+- **4)** zabezpieczeniu miejsca wypadku lub zagrożenia;
+- **5)** ewakuacji osób z miejsca stanowiącego zagrożenie dla życia lub zdrowia;
+- **6)** transporcie osób, które uległy wypadkowi lub są narażone na niebezpieczeństwo utraty życia lub zdrowia na obszarze wodnym do miejsca, gdzie jest możliwe podjęcie medycznych czynności ratunkowych przez jednostki systemu Państwowego Ratownictwa Medycznego, o których mowa w art. 32 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, po uprzednim uzgodnieniu miejsca przekazania z dysponentem jednostki systemu Państwowego Ratownictwa Medycznego;
+- **7)** poszukiwaniu osób zaginionych na obszarze wodnym.
 
 **Art. 14.**
 
@@ -141,7 +166,7 @@ Art. 37–39. (pominięte)
 - **4)** ujawniają zagrożenia w zakresie bezpieczeństwa osób przebywających na obszarach wodnych;
 - **5)** przekazują informację o zagrożeniach, o których mowa w pkt 4, właściwej radzie gminy.
 
-2. Podczas zdarzeń, w związku z którymi prowadzone są także działania z zakresu gaszenia pożarów, ratownictwa chemicznego, ekologicznego lub technicznego do kierowania tymi działaniami uprawniony jest kierujący działaniem ratowniczym, w rozumieniu przepisów ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2022 r. poz. 2057).
+2. Podczas zdarzeń, w związku z którymi prowadzone są także działania z zakresu gaszenia pożarów, ratownictwa chemicznego, ekologicznego lub technicznego do kierowania tymi działaniami uprawniony jest kierujący działaniem ratowniczym, w rozumieniu przepisów ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2009 r. Nr 178, poz. 1380 oraz z 2010 r. Nr 57, poz. 353).
 
 3. Rejestr, o którym mowa w ust. 1 pkt 3, obejmuje następujące dane:
 
@@ -160,11 +185,6 @@ Art. 37–39. (pominięte)
 - **1)** osobie, której udzielono pomocy w ramach działań ratowniczych, oraz
 - **2)** Policji, prokuraturze, sądom, dyrektorowi parku narodowego i zakładom ubezpieczeń, w związku z prowadzonym przez nie postępowaniem.
 
-6. Dane osobowe, o których mowa w ust. 3, podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazywaniu polegającym co najmniej na:
-
-- **1)** dopuszczeniu do przetwarzania danych osobowych wyłącznie osób posiadających pisemne upoważnienie wydane przez administratora danych;
-- **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w poufności.
-
 **Art. 15.**
 
 1. Podmioty uprawnione do wykonywania ratownictwa wodnego mogą organizować i prowadzić szkolenia ratowników wodnych i instruktorów w zakresie ratownictwa wodnego oraz psów ratowniczych wraz z ich przewodnikami.
@@ -179,25 +199,20 @@ Art. 37–39. (pominięte)
 - **2)** zakres wiedzy teoretycznej i umiejętności praktycznych niezbędnych do uzyskania uprawnień z zakresu ratownictwa wodnego,
 - **3)** wzory dokumentów potwierdzających posiadanie uprawnień, o których mowa w pkt 2,
 - **4)** kwalifikacje kadry dydaktycznej prowadzącej szkolenia,
-- **5)** sposób przeprowadzania egzaminu – mając na względzie bezpieczeństwo na obszarach wodnych, zapewnienie odpowiedniego poziomu wyszkolenia ratowników wodnych, zapewnienie odpowiedniego poziomu kadry dydaktycznej, konieczność zapewnienia jednolitego sposobu przeprowadzania egzaminu oraz zakres uprawnień uzyskiwanych po zdaniu egzaminu.
-
-**Art. 15a.**
-
-1. Ratownikiem wodnym może być osoba, która:
-
-- **1)** posiada wiedzę i umiejętności z zakresu ratownictwa wodnego i technik pływackich;
-- **2)** posiada co najmniej jedną z innych kwalifikacji przydatnych w ratownictwie wodnym, o którym mowa w art. 2 pkt 4, do prowadzenia działań ratowniczych wymienionych w art. 13;
-- **3)** spełnia wymagania określone w:
-    - **a)** ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym dla lekarza systemu Państwowe Ratownictwo Medyczne i pielęgniarki systemu Państwowe Ratownictwo Medyczne realizujących doskonalenie zawodowe lub ratownika,
-    - **b)** ustawie z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705) dla ratownika medycznego realizującego doskonalenie zawodowe;
-
-- **4)** jest zatrudniona lub pełni służbę w podmiocie uprawnionym do wykonywania ratownictwa wodnego lub jest członkiem tego podmiotu.
-
-2. Lekarz systemu Państwowe Ratownictwo Medyczne, pielęgniarka systemu Państwowe Ratownictwo Medyczne, ratownik medyczny, którzy realizują doskonalenie zawodowe, spełniają wymagania określone w ust. 1 pkt 2.
-
-3. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, kwalifikacje przydatne w ratownictwie wodnym, o których mowa w ust. 1 pkt 2, oraz wykaz dokumentów potwierdzających ich posiadanie, biorąc pod uwagę rodzaj działań ratowniczych podejmowanych w ramach ratownictwa wodnego.
+- **5)** sposób przeprowadzania egzaminu mając na względzie bezpieczeństwo na obszarach wodnych, zapewnienie odpowiedniego poziomu wyszkolenia ratowników wodnych, zapewnienie odpowiedniego poziomu kadry dydaktycznej, konieczność zapewnienia jednolitego sposobu przeprowadzania egzaminu oraz zakres uprawnień uzyskiwanych po zdaniu egzaminu.
 
 **Art. 16.** Do obowiązków ratowników wodnych należy w szczególności wykonywanie działań ratowniczych, o których mowa w art. 13, oraz:
+
+- **1)** obserwowanie wyznaczonego obszaru wodnego, niezwłoczne reagowanie na każdy sygnał wzywania pomocy oraz podejmowanie akcji ratowniczej, zapobieganie skutkom zagrożeń;
+- **2)** przegląd stanu urządzeń i sprzętu wykorzystywanego do ratownictwa wodnego;
+- **3)** określanie głębokości wyznaczonego obszaru wodnego;
+- **4)** kontrola stanu urządzeń oraz sprzętu, które zapewniają bezpieczeństwo osób pływających, kąpiących się lub uprawiających sport lub rekreację;
+- **5)** wywieszanie na maszcie odpowiednich flag informacyjnych;
+- **6)** sygnalizowanie, za pomocą urządzeń alarmowych, naruszeń zasad korzystania z wyznaczonego obszaru wodnego w szczególności granicy strefy dla umiejących pływać, a w kąpieliskach także nadchodzącej burzy;
+- **7)** reagowanie na przypadki naruszania zasad korzystania z wyznaczonego obszaru wodnego;
+- **8)** wpisywanie na tablicy informacyjnej temperatury wody, powietrza oraz innych aktualnych informacji w szczególności dotyczących nagłych zmian warunków atmosferycznych;
+- **9)** niezwłoczne informowanie zarządzającego, o którym mowa w art. 21 ust. 1, oraz swojego przełożonego o zagrożeniach bezpieczeństwa osób przebywających na obszarze wodnym;
+- **10)** bieżące dokumentowanie prowadzonych działań ratowniczych.
 
 **Art. 17.**
 
@@ -205,15 +220,15 @@ Art. 37–39. (pominięte)
 
 2. Zwolnienie pracownika ze świadczenia pracy w razie konieczności udziału w działaniach ratowniczych oraz na czas wypoczynku po zakończonej akcji ratowniczej następuje na podstawie pisemnego zaświadczenia wystawionego przez podmiot uprawniony do wykonywania ratownictwa wodnego określającego czas trwania akcji ratowniczej i czas wypoczynku, który nie może być dłuższy niż 12 godzin na dobę.
 
-3. Za czas zwolnienia ze świadczenia pracy pracownik zachowuje prawo do wynagrodzenia ustalonego w sposób określony w przepisach wydanych na podstawie art. 297 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2022 r. poz. 1510, 1700 i 2140 oraz z 2023 r. poz. 240).
+3. Za czas zwolnienia ze świadczenia pracy pracownik zachowuje prawo do wynagrodzenia ustalonego w sposób określony w przepisach wydanych na podstawie art. 297 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.).
 
 **Art. 18.**
 
-1. Ratownik wodny, prowadząc działania ratownicze, korzysta z ochrony przewidzianej w ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138, 1726, 1855, 2339 i 2600 oraz z 2023 r. poz. 289) dla funkcjonariuszy publicznych.
+1. Ratownik wodny, prowadząc działania ratownicze, korzysta z ochrony przewidzianej w ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.) dla funkcjonariuszy publicznych.
 
 2. W przypadku gdy prowadzone przez ratownika wodnego działania ratownicze polegają na udzieleniu pierwszej pomocy, kwalifikowanej pierwszej pomocy lub podjęciu medycznych czynności ratunkowych może on poświęcić dobra osobiste innej osoby, inne niż życie lub zdrowie, a także dobra majątkowe, w zakresie, w jakim jest to niezbędne dla ratowania życia lub zdrowia osoby znajdującej się w stanie nagłego zagrożenia zdrowotnego.
 
-**Art. 19.** (uchylony)
+**Art. 19.** Ratownik wodny, posiadający uprawnienia ratownika medycznego, o którym mowa w art. 10 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, przy wykonywaniu działań ratowniczych może wykonywać medyczne czynności ratunkowe w zakresie określonym na podstawie art. 11 ust. 2 tej ustawy.
 
 **Art. 20.** Ratownik wodny oraz ratownik wodny z psem ratowniczym w czasie działań ratowniczych mają prawo bezpłatnego wstępu na teren parku narodowego i rezerwatu udostępnionego dla ruchu turystycznego na podstawie ważnej legitymacji służbowej.
 
@@ -232,7 +247,7 @@ Art. 37–39. (pominięte)
 1. Podmioty uprawnione do wykonywania ratownictwa wodnego:
 
 - **1)** wykonują zadania z zakresu ratownictwa wodnego,
-- **2)** organizują i prowadzą szkolenia ratowników wodnych w zakresie ratownictwa wodnego – na podstawie zlecania realizacji zadań publicznych, o których mowa w art. 11 ust. 1 pkt 1 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2022 r. poz. 1327, 1265 i 1812).
+- **2)** organizują i prowadzą szkolenia ratowników wodnych w zakresie ratownictwa wodnego na podstawie zlecania realizacji zadań publicznych, o których mowa w art. 11 ust. 1 pkt 1 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2010 r. Nr 234, poz. 1536 oraz z 2011 r. Nr 112, poz. 654, Nr 149, poz. 887 i Nr 205, poz. 1211).
 
 2. Zadania, o których mowa w ust. 1, są dofinansowywane przez wojewodów w ramach dotacji celowych przyznawanych z części budżetu państwa, której są dysponentami.
 
@@ -297,8 +312,7 @@ Art. 37–39. (pominięte)
 - **3)** przeprowadzania oględzin majątku należącego do podmiotu uprawnionego do wykonywania ratownictwa wodnego objętego kontrolą;
 - **4)** sprawdzania przebiegu określonych czynności;
 - **5)** żądania od kierownika i pracowników podmiotu uprawnionego do wykonywania ratownictwa wodnego objętego kontrolą ustnych i pisemnych wyjaśnień;
-- **6)** zabezpieczania dowodów;
-- **7)** przetwarzania danych osobowych, w tym danych dotyczących stanu zdrowia, osób, którym udzielono pomocy w ramach działań ratowniczych.
+- **6)** zabezpieczania dowodów.
 
 3. Wszystkie czynności w imieniu podmiotu uprawnionego do wykonywania ratownictwa wodnego objętego kontrolą wykonuje jego kierownik lub osoba przez niego wyznaczona.
 
@@ -342,13 +356,13 @@ Art. 37–39. (pominięte)
 
 **Art. 30.**
 
-1. Statek lub inny obiekt pływający może być usunięty z obszaru wodnego, jeżeli nie ma możliwości zabezpieczenia go w inny sposób, w przypadku gdy prowadziła go osoba znajdująca się w stanie po użyciu alkoholu lub podobnie działającego środka.
+1. Statek lub inny obiekt pływający może być usunięty z obszaru wodnego, jeżeli nie ma możliwości zabezpieczenia go w inny sposób, w przypadku gdy prowadziła go osoba znajdująca się w stanie po użyciu alkoholu, środka działającego podobnie do alkoholu lub będąca pod wpływem środka odurzającego.
 
 2. Dyspozycję usunięcia statku lub innego obiektu pływającego wydaje policjant.
 
 3. W przypadku, o którym mowa w ust. 1, statek lub inny obiekt pływający wprowadza się do strzeżonego portu lub do przystani, a w przypadku braku dostatecznie blisko strzeżonego portu lub przystani pozostawia się go na wyznaczonym przez starostę parkingu strzeżonym do czasu uiszczenia opłat za jego usunięcie i przechowywanie.
 
-4. Usuwanie statków lub innych obiektów pływających oraz prowadzenie strzeżonego portu lub przystani należy do zadań własnych powiatu. Starosta realizuje te zadania przy pomocy powiatowych jednostek organizacyjnych lub powierza ich wykonanie zgodnie z przepisami ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2022 r. poz. 1710, 1812, 1933 i 2185 oraz z 2023 r. poz. 412).
+4. Usuwanie statków lub innych obiektów pływających oraz prowadzenie strzeżonego portu lub przystani należy do zadań własnych powiatu. Starosta realizuje te zadania przy pomocy powiatowych jednostek organizacyjnych lub powierza ich wykonanie zgodnie z przepisami ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2010 r. Nr 113, poz. 759, z późn. zm.).
 
 **Art. 31.**
 
@@ -356,11 +370,11 @@ Art. 37–39. (pominięte)
 
 2. Ustala się maksymalną wysokość opłat, o których mowa w ust. 1, w przypadku:
 
-- **1)** usunięcia roweru wodnego lub skutera wodnego – 50 zł oraz za każdą dobę jego przechowywania – 15 zł ;
-- **2)** usunięcia poduszkowca – 100 zł oraz za każdą dobę jego przechowywania – 30 zł ;
-- **3)** usunięcia statku o długości kadłuba do 10 m – 120 zł oraz za każdą dobę jego przechowywania – 50 zł ;
-- **4)** usunięcia statku o długości kadłuba do 20 m – 150 zł ; oraz za każdą dobę jego przechowywania – 100 zł ;
-- **5)** usunięcia statku o długości kadłuba powyżej 20 m – 200 zł ; oraz za każdą dobę jego przechowywania – 150 zł .
+- **1)** usunięcia roweru wodnego lub skutera wodnego – 50 zł oraz za każdą dobę jego przechowywania – 15 zł;
+- **2)** usunięcia poduszkowca – 100 zł oraz za każdą dobę jego przechowywania – 30 zł;
+- **3)** usunięcia statku o długości kadłuba do 10 m – 120 zł oraz za każdą dobę jego przechowywania – 50 zł;
+- **4)** usunięcia statku o długości kadłuba do 20 m – 150 zł; oraz za każdą dobę jego przechowywania – 100 zł;
+- **5)** usunięcia statku o długości kadłuba powyżej 20 m – 200 zł; oraz za każdą dobę jego przechowywania – 150 zł.
 
 3. Maksymalne opłaty określone w ust. 2, obowiązujące w danym roku kalendarzowym, podlegają corocznie zmianie na następny rok kalendarzowy w stopniu odpowiadającym wskaźnikowi cen towarów i usług konsumpcyjnych w okresie pierwszego półrocza roku, w którym stawki ulegają zmianie, w stosunku do analogicznego okresu roku poprzedniego.
 
@@ -376,7 +390,7 @@ Art. 37–39. (pominięte)
 
 2. Jeżeli w chwili usunięcia statek lub inny obiekt pływający znajdował się we władaniu osoby dysponującej nim na podstawie innego niż własność tytułu prawnego, osoba ta jest zobowiązana solidarnie do pokrycia kosztów, o których mowa w ust. 1.
 
-3. Termin płatności należności ustalonych decyzją, o której mowa w ust. 1, wynosi 30 dni licząc od dnia, w którym decyzja ta stała się ostateczna. Odsetki ustawowe za opóźnienie nalicza się od dnia następującego po upływie terminu płatności. Należności te wraz z odsetkami podlegają egzekucji w trybie i na zasadach określonych w ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm. ).
+3. Termin płatności należności ustalonych decyzją, o której mowa w ust. 1, wynosi 30 dni licząc od dnia, w którym decyzja ta stała się ostateczna. Odsetki ustawowe nalicza się od dnia następującego po upływie terminu płatności. Należności te wraz z odsetkami podlegają egzekucji w trybie i na zasadach określonych w ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2005 r. Nr 229, poz. 1954, z późn. zm.).
 
 4. Decyzji, o której mowa w ust. 1, nie wydaje się, jeżeli od dnia uprawomocnienia się orzeczenia sądu o przepadku upłynęło 5 lat.
 
@@ -400,21 +414,52 @@ Art. 37–39. (pominięte)
 
 8. W przypadku nieodebrania statku lub innego obiektu pływającego z portu, przystani lub parkingu w terminie określonym w ust. 2 jednostka prowadząca port strzeżony, przystań strzeżoną lub parking strzeżony, powiadamia o tym fakcie właściwego miejscowo starostę oraz podmiot, który wydał dyspozycję usunięcia tego statku lub innego obiektu pływającego nie później niż trzeciego dnia od dnia upływu tego terminu.
 
-9. Do badania w celu ustalenia w organizmie obecności środka działającego podobnie do alkoholu stosuje się odpowiednio art. 127 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2022 r. poz. 988, z późn. zm. ).
+9. Do badania w celu ustalenia w organizmie obecności środka działającego podobnie do alkoholu stosuje się odpowiednio art. 127 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.).
 
 10. Do współdziałania z Policją podmiotów, o których mowa w art. 30 ust. 4, oraz trybu i warunków wydawania statku lub innego obiektu pływającego stosuje się odpowiednio przepisy wydane na podstawie art. 130a ust. 11 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
 
-11. W sprawach o przepadek statku lub innego obiektu pływającego stosuje się odpowiednio art. 610 i art. 610 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ).
+11. W sprawach o przepadek statku lub innego obiektu pływającego stosuje się odpowiednio art. 6106 i art. 6107 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.).
 
 #### Rozdział 7 Przepisy karne
 
 **Art. 34.** Kto, w przypadku o którym mowa w art. 6, nie stosuje się do polecenia zarządzającego obszarem wodnym lub upoważnionej przez niego osoby i wchodzi na obszar wodny albo nie opuszcza tego obszaru, podlega karze grzywny.
 
-**Art. 35.** Kto, znajdując się w stanie po użyciu alkoholu lub podobnie działającego środka, prowadzi w ruchu wodnym statek lub inny obiekt pływający, niebędący pojazdem mechanicznym, podlega karze grzywny.
+**Art. 35.** Kto, znajdując się w stanie nietrzeźwości, po użyciu środka działającego podobnie do alkoholu lub pod wpływem środka odurzającego prowadzi w ruchu wodnym statek lub inny obiekt pływający, niebędący pojazdem mechanicznym, podlega karze grzywny.
 
-**Art. 36.** Postępowanie w sprawach określonych w art. 34 i art. 35 prowadzi się na podstawie ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
+**Art. 36.** Postępowanie w sprawach określonych w art. 34 i art. 35 prowadzi się na podstawie ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2008 r. Nr 133, poz. 848, z późn. zm.).
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących
+
+**Art. 37.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.) w art. 53 w ust. 1 po pkt 10e dodaje się pkt 10f w brzmieniu: „
+
+- **10f)** podmiotów uprawnionych do wykonywania zadań z zakresu ratownictwa wodnego; ” .
+
+**Art. 38.** W ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. Nr 191, poz. 1410, z późn. zm.) w art. 15 ust. 1 otrzymuje brzmienie: „ 1. Jednostkami współpracującymi z systemem są służby ustawowo powołane do niesienia pomocy osobom w stanie nagłego zagrożenia zdrowotnego, w szczególności: jednostki organizacyjne Państwowej Straży Pożarnej, jednostki ochrony przeciwpożarowej włączone do krajowego systemu ratowniczo-gaśniczego, podmioty, o których mowa w art. 40 ust. 1 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. Nr 127, poz. 857 i Nr 151, poz. 1014 oraz z 2011 r. Nr 171, poz. 1016 i Nr 185, poz. 1092), podmioty uprawnione do wykonywania ratownictwa wodnego na podstawie przepisów ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych (Dz. U. Nr 208, poz. 1240), inne jednostki podległe lub nadzorowane przez ministra właściwego do spraw wewnętrznych i Ministra Obrony Narodowej. ” .
+
+**Art. 39.** W ustawie z dnia 25 czerwca 2010 r. o sporcie (Dz. U. Nr 127, poz. 857 i Nr 151, poz. 1014 oraz z 2011 r. Nr 171, poz. 1016 i Nr 185, poz. 1092) wprowadza się następujące zmiany:
+
+- **1)** w art. 39: uchyla się ust. 3 i 4, ust. 5 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+5. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw turystyki określi, w drodze rozporządzenia, szczegółowy sposób realizacji obowiązków, o których mowa w ust. 1, sposób zagospodarowania, udostępniania, oznakowania, zabezpieczenia i korzystania z terenów służących do uprawiania sportu w górach, warunki do organizowania pomocy osobom, które uległy wypadkowi lub są narażone na niebezpieczeństwo utraty życia lub zdrowia w górach, a także wzory znaków nakazu, zakazu i informacyjnych, mając na uwadze konieczność zapewnienia odpowiedniego poziomu bezpieczeństwa i możliwość sprawnego udzielania pomocy osobom, które uległy wypadkom lub są narażone na niebezpieczeństwo utraty życia lub zdrowia w górach. ” ;
+
+- **2)** w art. 40: uchyla się ust. 2, ust. 3 i 4 otrzymują brzmienie: „
+    - **a)**
+    - **b)**
+
+3. Organizacje, o których mowa w ust. 1, współdziałają w realizacji swoich zadań z organami administracji rządowej i organami jednostek samorządu terytorialnego oraz osobami prawnymi, jednostkami organizacyjnymi nieposiadającymi osobowości prawnej i osobami fizycznymi, prowadzącymi działalność w zakresie kultury fizycznej lub turystyki.
+
+4. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, szczegółowy zakres obowiązków i uprawnień specjalistycznych organizacji ratowniczych, warunki ich wykonywania przez inne organizacje ratownicze, a także rodzaj i wysokość świadczeń przysługujących ratownikom górskim w związku z udziałem w akcji ratowniczej. Rozporządzenie powinno określać szczegółowe zadania w zakresie organizowania pomocy oraz ratowania osób podejmowane przez poszczególne organizacje ratownicze, a także przewidywać świadczenia finansowe i rzeczowe z uwzględnieniem czasu trwania i stopnia niebezpieczeństwa wyprawy ratunkowej. ” ;
+
+- **3)** w art. 91 w ust. 1 wprowadza się następujące zmiany: pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** art. 7a ust. 3, art. 12a ust. 2, art. 23a ust. 7, art. 23b ust. 1b i 2a, art. 28 ust. 2, art. 45 ust. 3 ustawy, o której mowa w art. 93 pkt 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 4 ust. 8, art. 29 ust. 6, art. 32 ust. 7, art. 34 ust. 4, art. 35 ust. 4, art. 36 ust. 11 niniejszej ustawy, ” , po pkt 1 dodaje się pkt 1a i 1b w brzmieniu: „
+    - **b)**
+
+- **1a)** art. 54 ust. 3 ustawy, o której mowa w art. 93 pkt 1, w zakresie dotyczącym bezpieczeństwa osób przebywających w górach zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 39 ust. 5 niniejszej ustawy,
+- **1b)** art. 55 ust. 3 ustawy, o której mowa w art. 93 pkt 1, w zakresie dotyczącym Górskiego Ochotniczego Pogotowia Ratunkowego i Tatrzańskiego Ochotniczego Pogotowia Ratunkowego oraz ratowników górskich zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 40 ust. 4 niniejszej ustawy, ” .
 
 #### Rozdział 9 Przepisy przejściowe i przepis końcowy
 

@@ -8,12 +8,10 @@ pos: 963
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o szczególnych zasadach przygotowania do realizacji inwestycji zakresie budowli przeciwpowodziowych
-
-*USTAWA z dnia 8 lipca 2010 r.*
+# Ustawa z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych
 
 | Pole | Wartość |
 |---|---|
@@ -24,26 +22,22 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2010-07-08 |
 | Data wydania | 2010-08-10 |
+| Wejście w życie | 2010-08-25 |
 | Ostatnia zmiana | 2026-05-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101430963) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/963/text.pdf) |
 
-Art. 32–35. (pominięte)
-
 #### Rozdział 1 Przepisy ogólne
 
-**Art. 1.** Ustawa określa:
+**Art. 1.** Ustawa określa szczególne zasady i warunki przygotowania inwestycji w zakresie budowli przeciwpowodziowych, zwanej dalej „inwestycją”, oraz organy właściwe w tych sprawach.
 
-**Art. 1a.**
+**Art. 2.** Ilekroć w ustawie jest mowa o:
 
-1. Przepisy ustawy stosuje się odpowiednio do przygotowywania przedsięwzięć polegających na remoncie lub przebudowie istniejących budowli przeciwpowodziowych.
+- **1)** budowlach przeciwpowodziowych – rozumie się przez to kanały ulgi, poldery przeciwpowodziowe, stopnie wodne i zbiorniki retencyjne posiadające retencję powodziową, suche zbiorniki przeciwpowodziowe, wały przeciwpowodziowe, wrota przeciwsztormowe, wrota przeciwpowodziowe, kierownice w ujściach rzek do morza oraz budowle ochrony przed powodzią morską – wraz z obiektami związanymi z nimi funkcjonalnie;
+- **2)** inwestorze – rozumie się przez to regionalny zarząd gospodarki wodnej, urząd morski, województwo, powiat, gminę lub partnera prywatnego w rozumieniu ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2009 r. Nr 19, poz. 100 oraz z 2010 r. Nr 106, poz. 675), realizujących inwestycję.
 
-2. Przepisów ustawy nie stosuje się do prac utrzymaniowych i konserwacyjnych budowli i obiektów, o których mowa ust. 1.
+**Art. 3.** Inwestycja jest celem publicznym w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2010 r. Nr 102, poz. 651 i Nr 106, poz. 675).
 
-3. Przepisy ustawy stosuje się odpowiednio do rowów, kanałów i pompowni o głównej funkcji przeciwpowodziowej, przy czym przez główną funkcję przeciwpowodziową rozumie się zapewnienie zarządzania wodami warunkach powodzi, podczas gdy inne ich funkcje są podporządkowane zachowaniu skuteczności ochrony przed powodzią.
-
-**Art. 2.** Ilekroć ustawie jest mowa o:
-
-**Art. 3.** Inwestycja jest celem publicznym rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2024 r. poz. 1145, 1222, 1717 i 1881 oraz z 2025 r. poz. 1077 i 1080). Przygotowanie do realizacji inwestycji
+#### Rozdział 2 Przygotowanie do realizacji inwestycji
 
 **Art. 4.**
 
@@ -53,9 +47,9 @@ Art. 32–35. (pominięte)
 
 **Art. 5.**
 
-1. Do postępowania sprawach o wydanie decyzji o pozwoleniu na realizację inwestycji stosuje się przepisy Kodeksu postępowania administracyjnego, z zastrzeżeniem przepisów niniejszej ustawy.
+1. Do postępowania w sprawach o wydanie decyzji o pozwoleniu na realizację inwestycji stosuje się przepisy Kodeksu postępowania administracyjnego, z zastrzeżeniem przepisów niniejszej ustawy.
 
-2. Organem wyższego stopnia rozumieniu przepisów Kodeksu postępowania administracyjnego stosunku do wojewody sprawach o wydanie decyzji o pozwoleniu na realizację inwestycji oraz decyzji, o których mowa art. 27a ust. 1, jest minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
+2. Organem wyższego stopnia w rozumieniu przepisów Kodeksu postępowania administracyjnego w stosunku do wojewody, w sprawach o wydanie decyzji o pozwoleniu na realizację inwestycji jest minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej.
 
 3. Wojewoda niezwłocznie zawiadamia organ wyższego stopnia o złożeniu wniosku o wydanie decyzji o pozwoleniu na realizację inwestycji oraz o wydaniu tej decyzji.
 
@@ -63,153 +57,156 @@ Art. 32–35. (pominięte)
 
 1. Wniosek o wydanie decyzji o pozwoleniu na realizację inwestycji zawiera:
 
-- **1)** charakterystykę inwestycji określającą rodzaj inwestycji, jej lokalizację oraz parametry techniczne;
-- **2)** mapę skali co najmniej 1:10 000, przedstawiającą: ryzyka powodziowego, z planami zarządzania ryzykiem powodziowym, o ile zostały opracowane;
-    - **a)** projektowany obszar inwestycji z zaznaczeniem podziału geodezyjnego nieruchomości oraz terenu niezbędnego dla obiektów budowlanych,
-    - **b)** istniejące uzbrojenie terenu,
-    - **c)** wskazanie części nieruchomości będących częścią inwestycji, na której nie będą prowadzone roboty budowlane,
-    - **d)** wskazanie nieruchomości przeznaczonych na potrzeby ochrony przed powodzią;
-
+- **1)** charakterystykę inwestycji określającą rodzaj budowli przeciwpowodziowej oraz jej lokalizację i parametry techniczne;
+- **2)** mapę w skali co najmniej 1:10 000, przedstawiającą projektowany obszar inwestycji z zaznaczeniem podziału geodezyjnego nieruchomości oraz terenu niezbędnego dla obiektów budowlanych, oraz istniejące uzbrojenie terenu, a także wskazanie części nieruchomości będących częścią inwestycji, na której nie będą prowadzone roboty budowlane;
+- **3)** analizę powiązania inwestycji z mapami zagrożenia powodziowego, mapami ryzyka powodziowego, z planami zarządzania ryzykiem powodziowym, o ile zostały opracowane;
 - **4)** mapy zawierające projekty podziału nieruchomości, sporządzone zgodnie z odrębnymi przepisami;
-- **5)** określenie zmian dotychczasowej infrastrukturze zagospodarowania terenu;
-- **6)** trzy egzemplarze projektu budowlanego wraz z zaświadczeniem, o którym mowa art. 12 ust. 7 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418, 1080, 1535, 1673 i 1847), aktualnym na dzień opracowania projektu;
-- **7)** opinie: poz. 1135), 1292 i 1907 oraz z 2025 r. poz. 1168 i 1673), z 2025 r. poz. 647, 1080, 1812 i 1863),
-    - **a)** ministra właściwego do spraw zdrowia – odniesieniu do inwestycji lokalizowanych na obszarach, którym został nadany status uzdrowiska albo status obszaru ochrony uzdrowiskowej, zgodnie z przepisami ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2025 r.
-    - **b)** dyrektora właściwego urzędu morskiego – odniesieniu do obszarów pasa technicznego, pasa ochronnego, portów i przystani morskich,
-    - **c)** właściwego organu nadzoru górniczego – odniesieniu do terenów górniczych, ca) ministra właściwego do spraw środowiska – odniesieniu do złóż strategicznych,
-    - **d)** dyrektora właściwej regionalnej dyrekcji Lasów Państwowych – odniesieniu do gruntów leśnych stanowiących własność Skarbu Państwa, będących zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe,
-    - **e)** właściwego wojewódzkiego konserwatora zabytków – odniesieniu do dóbr kultury chronionych na podstawie przepisów ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz.
-    - **f)** właściwego zarządcy infrastruktury kolejowej – odniesieniu do linii kolejowych,
-    - **h)** właściwego miejscowo zarządu województwa, zarządu powiatu oraz wójta (burmistrza, prezydenta miasta), o ile nie reprezentują inwestora,
-    - **i)** Państwowego Gospodarstwa Wodnego Wody Polskie, o ile nie jest ono inwestorem,
-    - **j)** właściwego komendanta wojewódzkiego Państwowej Straży Pożarnej – odniesieniu do inwestycji podlegającej przepisom ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2025 r. poz. 188) oraz ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U.
-    - **k)** ministra właściwego do spraw gospodarki morskiej – odniesieniu do nieruchomości, o których mowa art. 3 ust. 1 pkt 1 ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r. poz.
-
-- **1796)** ,
-    - **l)** dyrektora parku narodowego – odniesieniu do obszarów położonych granicach parku i jego otuliny, zgodnie z ustawą z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2026 r. poz. 13);
+- **5)** określenie zmian w dotychczasowej infrastrukturze zagospodarowania terenu;
+- **6)** cztery egzemplarze projektu budowlanego wraz z zaświadczeniem, o którym mowa w art. 12 ust. 7 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2006 r. Nr 156, poz. 1118, z późn. zm.), aktualnym na dzień opracowania projektu;
+- **7)** opinie: ministra właściwego do spraw zdrowia – w odniesieniu do inwestycji lokalizowanych na obszarach, którym został nadany status uzdrowiska albo status obszaru ochrony uzdrowiskowej, zgodnie z przepisami ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. Nr 167, poz. 1399, z 2007 r. Nr 133, poz. 921 oraz z 2009 r. Nr 62, poz. 504), dyrektora właściwego urzędu morskiego – w odniesieniu do obszarów pasa technicznego, pasa ochronnego, portów i przystani morskich, właściwego organu nadzoru górniczego – w odniesieniu do terenów górniczych, dyrektora właściwej regionalnej dyrekcji Lasów Państwowych – w odniesieniu do gruntów leśnych stanowiących własność Skarbu Państwa, będących w zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe, właściwego wojewódzkiego konserwatora zabytków – w odniesieniu do dóbr kultury chronionych na podstawie przepisów ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. Nr 162, poz. 1568, z późn. zm.), właściwego zarządcy infrastruktury kolejowej – w odniesieniu do linii kolejowych, właściwego zarządcy infrastruktury drogowej – w odniesieniu do dróg, właściwego miejscowo zarządu województwa, zarządu powiatu oraz wójta (burmistrza, prezydenta miasta), o ile nie reprezentują inwestora, dyrektora regionalnego zarządu gospodarki wodnej, o ile nie jest inwestorem, właściwego komendanta wojewódzkiego Państwowej Straży Pożarnej – w odniesieniu do inwestycji podlegającej przepisom ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2009 r. Nr 178, poz. 1380 oraz z 2010 r. Nr 57, poz. 353) oraz ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.), ministra właściwego do spraw Skarbu Państwa – w odniesieniu do nieruchomości, o których mowa w art. 3 ust. 1 pkt 1 ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2010 r. Nr 33, poz. 179), dyrektora parku narodowego – w odniesieniu do obszarów położonych w granicach parku i jego otuliny, zgodnie z ustawą z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.);
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
+    - **k)**
+    - **l)**
 
 - **8)** pozwolenie wodnoprawne, o ile jest ono wymagane;
-- **9)** decyzję o środowiskowych uwarunkowaniach, o ile jest ona wymagana, wydaną zgodnie z ustawą z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2024 r. poz. 1112, 1881 i 1940 oraz z 2025 r. poz. 1535), z zastrzeżeniem art. 17;
-- **9a)** przypadku przedsięwzięć, dla których wydano decyzję o środowiskowych uwarunkowaniach postępowaniu wymagającym udziału społeczeństwa – załącznik graficzny określający przewidywany teren, na którym będzie realizowane przedsięwzięcie, oraz przewidywany obszar, na który będzie oddziaływać przedsięwzięcie, o ile dołączenie tego załącznika było wymagane przez przepisy obowiązujące dniu złożenia wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, szczególności mapę, o której mowa art. 74 ust. 1 pkt 3a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko; realizację inwestycji ma wywołać skutek, o którym mowa art. 19 ust. 4;
-- **11)** wskazanie nieruchomości, o których mowa art. 9 pkt 5 lit. b;
+- **9)** decyzję o środowiskowych uwarunkowaniach wydaną zgodnie z ustawą z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. Nr 199, poz. 1227, z późn. zm.), z zastrzeżeniem art. 17;
+- **10)** wskazanie nieruchomości, w stosunku do których decyzja o pozwoleniu na realizację inwestycji ma wywołać skutek, o którym mowa w art. 19 ust. 4;
+- **11)** wskazanie nieruchomości, o których mowa w art. 9 pkt 5 lit. b;
 - **12)** wskazanie ograniczonych praw rzeczowych obciążających nieruchomości wskazanych zgodnie z pkt 10.
 
-1a. W przypadku przedsięwzięć polegających na remoncie lub przebudowie istniejących budowli przeciwpowodziowych inwestor dołącza do wniosku o wydanie decyzji o pozwoleniu na realizację inwestycji:
+2. Właściwy organ wydaje opinie, o których mowa w ust. 1 pkt 7, na wniosek inwestora, w terminie nie dłuższym niż 14 dni od dnia otrzymania wniosku o wydanie opinii; niewydanie opinii w tym terminie traktuje się jako brak zastrzeżeń do wniosku.
 
-- **1)** opis techniczny zakresu prac;
-- **2)** aktualną dokumentację techniczną lub inwentaryzację powykonawczą obiektu;
-- **3)** projekt budowlany, o ile jest on wymagany, sporządzany zgodnie z art. 33 i art. 34 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane;
-- **4)** decyzję o środowiskowych uwarunkowaniach, o ile jest ona wymagana, wydaną zgodnie z ustawą z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko, z zastrzeżeniem art. 17;
-- **5)** ekspertyzę hydrograficzną;
-- **6)** ekspertyzę geotechniczną – jeśli jest wymagana;
-- **7)** dokument potwierdzający tytuł prawny do nieruchomości lub zgodę właściciela na dysponowanie nieruchomością na cele budowlane;
-- **8)** opinie, o których mowa ust. 1 pkt 7, z uwzględnieniem przepisów ust. 2 i 3;
-- **9)** oświadczenia projektantów do celów projektowych.
-
-2. Właściwy organ wydaje opinie, o których mowa ust. 1 pkt 7, na wniosek inwestora, terminie niedłuższym niż 14 dni od dnia otrzymania wniosku o wydanie opinii; niewydanie opinii tym terminie traktuje się jako brak zastrzeżeń do wniosku.
-
-3. Opinie, o których mowa ust. 1 pkt 7, zastępują uzgodnienia, pozwolenia, zezwolenia, zwolnienia, opinie bądź stanowiska właściwych organów wymagane odrębnymi przepisami.
+3. Opinie, o których mowa w ust. 1 pkt 7, zastępują uzgodnienia, pozwolenia, zezwolenia, zwolnienia, opinie bądź stanowiska właściwych organów wymagane odrębnymi przepisami.
 
 **Art. 7.**
 
-1. Wojewoda zawiadamia o wszczęciu postępowania sprawie o wydanie decyzji o pozwoleniu na realizację inwestycji:
+1. Wojewoda zawiadamia o wszczęciu postępowania w sprawie o wydanie decyzji o pozwoleniu na realizację inwestycji:
 
-- **1)** wnioskodawcę; o wydanie decyzji o pozwoleniu na realizację inwestycji na adres wskazany katastrze nieruchomości;
-- **3)** przypadku, o którym mowa art. 4 ust. 2, wojewodów, na których obszarze właściwości znajduje się część nieruchomości objętej wnioskiem o wydanie decyzji o pozwoleniu na realizację inwestycji;
-- **4)** pozostałe strony drodze obwieszczeń, urzędzie wojewódzkim, a także urzędach gmin właściwych ze względu na lokalizację inwestycji;
-- **5)** właściwe miejscowo organy sprawach, o których mowa ust. 7 pkt 2 i 3, przy czym wójt (burmistrz, prezydent miasta) niezwłocznie ogłasza o wszczęciu postępowania na stronach internetowych gminy.
+- **1)** wnioskodawcę;
+- **2)** właścicieli oraz użytkowników wieczystych nieruchomości objętych wnioskiem o wydanie decyzji o pozwoleniu na realizację inwestycji na adres wskazany w katastrze nieruchomości;
+- **3)** w przypadku, o którym mowa w art. 4 ust. 2, wojewodów, na których obszarze właściwości znajduje się część nieruchomości objętej wnioskiem o wydanie decyzji o pozwoleniu na realizację inwestycji;
+- **4)** pozostałe strony w drodze obwieszczeń, w urzędzie wojewódzkim, a także w urzędach gmin właściwych ze względu na lokalizację inwestycji;
+- **5)** właściwe miejscowo organy w sprawach, o których mowa w ust. 7 pkt 2 i 3, przy czym wójt (burmistrz, prezydent miasta) niezwłocznie ogłasza o wszczęciu postępowania na stronach internetowych gminy.
 
-2. Doręczenie zawiadomienia, o którym mowa ust. 1, na adres wskazany katastrze nieruchomości jest skuteczne.
+2. Doręczenie zawiadomienia, o którym mowa w ust. 1, na adres wskazany w katastrze nieruchomości jest skuteczne.
 
-3. Zawiadomienie, o którym mowa ust. 1, zawiera:
+3. Zawiadomienie, o którym mowa w ust. 1, zawiera:
 
 - **1)** oznaczenie nieruchomości lub ich części, objętych wnioskiem o wydanie decyzji o pozwoleniu na realizację inwestycji, według katastru nieruchomości;
-- **2)** informację o terminie i miejscu, którym strony mogą zapoznać się z aktami sprawy.
+- **2)** informację o terminie i miejscu, w którym strony mogą zapoznać się z aktami sprawy.
 
-4. W przypadku nieruchomości o nieuregulowanym stanie prawnym wojewoda wysyła zawiadomienie, o którym mowa ust. 1, wyłącznie wnioskodawcy.
+4. W przypadku nieruchomości o nieuregulowanym stanie prawnym wojewoda wysyła zawiadomienie, o którym mowa w ust. 1, wyłącznie wnioskodawcy.
 
-5. W razie zwrotu przesyłki zawiadomienie pozostawia się aktach sprawy ze skutkiem doręczenia.
+5. W razie zwrotu przesyłki zawiadomienie pozostawia się w aktach sprawy ze skutkiem doręczenia.
 
 6. Przepis ust. 4 stosuje się odpowiednio, jeżeli właściciel lub użytkownik wieczysty nie żyją, a ich spadkobiercy nie wykazali prawa do spadku.
 
-7. Z dniem zawiadomienia, o którym mowa ust. 1:
+7. Z dniem zawiadomienia, o którym mowa w ust. 1:
 
-- **1)** nieruchomości stanowiące własność Skarbu Państwa, jednostek samorządu terytorialnego lub Instytutu Meteorologii i Gospodarki Wodnej – Państwowego Instytutu Badawczego, objęte wnioskiem o wydanie decyzji o pozwoleniu na realizację inwestycji, nie mogą być przedmiotem obrotu rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami;
-- **2)** odniesieniu do nieruchomości objętych wnioskiem o wydanie decyzji o pozwoleniu na realizację inwestycji do czasu wydania takiej decyzji, można zawiesić postępowanie o wydanie decyzji o pozwoleniu na budowę lub szczególności jeżeli istnieje wysokie prawdopodobieństwo sprzeczności planowanego przedsięwzięcia z inwestycją;
-- **3)** odniesieniu do nieruchomości objętych wnioskiem o wydanie decyzji o pozwoleniu na realizację inwestycji, do czasu wydania takiej decyzji, zawiesza się postępowania o wydanie decyzji o warunkach zabudowy lub decyzji o ustaleniu lokalizacji inwestycji celu publicznego rozumieniu ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz. 1130, z późn. zm. ).
+- **1)** nieruchomości stanowiące własność Skarbu Państwa lub jednostek samorządu terytorialnego, objęte wnioskiem o wydanie decyzji o pozwoleniu na realizację inwestycji, nie mogą być przedmiotem obrotu w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami;
+- **2)** w odniesieniu do nieruchomości objętych wnioskiem o wydanie decyzji o pozwoleniu na realizację inwestycji do czasu wydania takiej decyzji, można zawiesić postępowanie o wydanie decyzji o pozwoleniu na budowę lub postępowanie o wydanie decyzji o zezwoleniu na realizację inwestycji drogowej, w szczególności jeżeli istnieje wysokie prawdopodobieństwo sprzeczności planowanego przedsięwzięcia z inwestycją;
+- **3)** w odniesieniu do nieruchomości objętych wnioskiem o wydanie decyzji o pozwoleniu na realizację inwestycji, do czasu wydania takiej decyzji, zawiesza się postępowania o wydanie decyzji o warunkach zabudowy lub decyzji o ustaleniu lokalizacji inwestycji celu publicznego w rozumieniu ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. Nr 80, poz. 717, z późn. zm.).
 
-8. Czynność prawna dokonana z naruszeniem zakazu, o którym mowa ust. 7 pkt 1, jest nieważna.
+8. Czynność prawna dokonana z naruszeniem zakazu, o którym mowa w ust. 7 pkt 1, jest nieważna.
 
-9. W przypadku zbycia własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem o wydanie decyzji o pozwoleniu na realizację inwestycji, po doręczeniu zawiadomienia, o którym mowa ust. 1, nabywca i zbywca są zobowiązani do zgłoszenia właściwemu wojewodzie danych nowego właściciela albo użytkownika wieczystego. Brak dokonania powyższego zgłoszenia i prowadzenie postępowania bez udziału nowego właściciela albo użytkownika wieczystego nie stanowi podstawy do wznowienia postępowania.
+9. W przypadku zbycia własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem o wydanie decyzji o pozwoleniu na realizację inwestycji, po doręczeniu zawiadomienia, o którym mowa w ust. 1, nabywca i zbywca są zobowiązani do zgłoszenia właściwemu wojewodzie danych nowego właściciela albo użytkownika wieczystego. Brak dokonania powyższego zgłoszenia i prowadzenie postępowania bez udziału nowego właściciela albo użytkownika wieczystego nie stanowi podstawy do wznowienia postępowania.
 
-10. Wojewoda niezwłocznie składa wniosek do właściwego sądu o ujawnienie księdze wieczystej wszczęcia postępowania sprawie wydania decyzji o pozwoleniu na realizację inwestycji, a jeżeli nieruchomość nie ma założonej księgi wieczystej – o złożenie do istniejącego zbioru dokumentów zawiadomienia o wszczęciu tego postępowania.
+10. Wojewoda niezwłocznie składa wniosek do właściwego sądu o ujawnienie w księdze wieczystej wszczęcia postępowania w sprawie wydania decyzji o pozwoleniu na realizację inwestycji, a jeżeli nieruchomość nie ma założonej księgi wieczystej – o złożenie do istniejącego zbioru dokumentów zawiadomienia o wszczęciu tego postępowania.
 
-**Art. 8.** W postępowaniu sprawie wydania decyzji o pozwoleniu na realizację inwestycji przepisu art. 31 § 4 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się. W przypadkach określonych art. 97 § 1 pkt 1–3 Kodeksu postępowania administracyjnego nie zawiesza się postępowania. Przepisy art. 30 § 5 i art. 34 Kodeksu postępowania administracyjnego stosuje się, z zastrzeżeniem, że organ prowadzący postępowanie wyznacza z urzędu przedstawiciela lub kuratora przez sąd.
+**Art. 8.** W postępowaniu w sprawie wydania decyzji o pozwoleniu na realizację inwestycji przepisu art. 31 § 4 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się. W przypadkach określonych w art. 97 § 1 pkt 1–3 Kodeksu postępowania administracyjnego nie zawiesza się postępowania. Przepisy art. 30 § 5 i art. 34 Kodeksu postępowania administracyjnego stosuje się, z zastrzeżeniem, że organ prowadzący postępowanie wyznacza z urzędu przedstawiciela uprawnionego do działania w postępowaniu do czasu wyznaczenia przedstawiciela lub kuratora przez sąd.
 
 **Art. 9.** Decyzja o pozwoleniu na realizację inwestycji zawiera:
 
+- **1)** określenie linii rozgraniczających teren;
+- **2)** warunki wynikające z potrzeb ochrony środowiska, ochrony zabytków i dóbr kultury współczesnej oraz potrzeb obronności państwa;
+- **3)** wymagania dotyczące ochrony uzasadnionych interesów osób trzecich;
+- **4)** zatwierdzenie podziału nieruchomości;
+- **5)** oznaczenie według katastru nieruchomości: nieruchomości lub ich części, będących częścią inwestycji, niezbędnych do jej realizacji, które stają się własnością Skarbu Państwa albo jednostki samorządu terytorialnego, nieruchomości lub ich części będących częścią inwestycji, niezbędnych do jej funkcjonowania, które nie stają się własnością Skarbu Państwa albo jednostki samorządu terytorialnego, ale wobec których trwale ogranicza się sposób korzystania;
+    - **a)**
+    - **b)**
+
+- **6)** zatwierdzenie projektu budowlanego;
+- **7)** warunki określone w decyzji o środowiskowych uwarunkowaniach;
+- **8)** w razie potrzeby inne ustalenia dotyczące określenia: szczególnych warunków zabezpieczenia terenu budowy i prowadzenia robót budowlanych, czasu użytkowania tymczasowych obiektów budowlanych, terminów rozbiórki istniejących obiektów budowlanych nieprzewidzianych do dalszego użytkowania oraz tymczasowych obiektów budowlanych, szczegółowych wymagań dotyczących nadzoru na budowie, obowiązku dokonania przebudowy istniejącej sieci uzbrojenia terenu, ograniczeń w korzystaniu z nieruchomości, z uwzględnieniem obszarów bezpośredniego zagrożenia powodzią oraz obszarów potencjalnego zagrożenia powodzią, lub szczególnego zagrożenia powodzią, o ile zostały wyznaczone.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+
 **Art. 10.**
 
-1. Wojewoda doręcza decyzję o pozwoleniu na realizację inwestycji wnioskodawcy oraz zawiadamia o jej wydaniu pozostałe strony drodze obwieszczeń urzędzie wojewódzkim oraz urzędach gmin właściwych ze względu na lokalizację inwestycji, na stronach internetowych tych gmin, a także prasie lokalnej.
+1. Wojewoda doręcza decyzję o pozwoleniu na realizację inwestycji wnioskodawcy oraz zawiadamia o jej wydaniu pozostałe strony w drodze obwieszczeń w urzędzie wojewódzkim oraz w urzędach gmin właściwych ze względu na lokalizację inwestycji, na stronach internetowych tych gmin, a także w prasie lokalnej.
 
-2. Zawiadomienie, o którym mowa ust. 1, doręcza się dotychczasowemu właścicielowi oraz użytkownikowi wieczystemu na adres wskazany katastrze nieruchomości.
+2. Zawiadomienie, o którym mowa w ust. 1, doręcza się dotychczasowemu właścicielowi oraz użytkownikowi wieczystemu na adres wskazany w katastrze nieruchomości.
 
-3. W przypadku, o którym mowa art. 4 ust. 2, zawiadomienie, o którym mowa ust. 1, doręcza się wojewodom, na których obszarze właściwości znajduje się część nieruchomości objętej wnioskiem o wydanie decyzji o pozwoleniu na realizację inwestycji.
+3. W przypadku, o którym mowa w art. 4 ust. 2, zawiadomienie, o którym mowa w ust. 1, doręcza się wojewodom, na których obszarze właściwości znajduje się część nieruchomości objętej wnioskiem o wydanie decyzji o pozwoleniu na realizację inwestycji.
 
-4. Doręczenie zawiadomienia, o którym mowa ust. 1, na adres wskazany katastrze nieruchomości jest skuteczne.
+4. Doręczenie zawiadomienia, o którym mowa w ust. 1, na adres wskazany w katastrze nieruchomości jest skuteczne.
 
-5. W razie zwrotu przesyłki zawiadomienie pozostawia się aktach sprawy ze skutkiem doręczenia.
+5. W razie zwrotu przesyłki zawiadomienie pozostawia się w aktach sprawy ze skutkiem doręczenia.
 
-6. Zawiadomienie, o którym mowa ust. 1, zawiera informację o terminie i miejscu, którym strony mogą zapoznać się z treścią decyzji o pozwoleniu na realizację inwestycji.
+6. Zawiadomienie, o którym mowa w ust. 1, zawiera informację o terminie i miejscu, w którym strony mogą zapoznać się z treścią decyzji o pozwoleniu na realizację inwestycji.
 
-7. Przepisu ust. 2 nie stosuje się przypadku nieruchomości o nieuregulowanym stanie prawnym oraz sytuacji, gdy właściciel lub użytkownik wieczysty nieruchomości nie żyją, a ich spadkobiercy nie wykazali prawa do spadku.
+7. Przepisu ust. 2 nie stosuje się w przypadku nieruchomości o nieuregulowanym stanie prawnym oraz w sytuacji, gdy właściciel lub użytkownik wieczysty nieruchomości nie żyją, a ich spadkobiercy nie wykazali prawa do spadku.
 
 8. Przepisy ust. 2–7 stosuje się odpowiednio do doręczania i zawiadamiania stron o decyzji o pozwoleniu na realizację inwestycji wydanej przez organ II instancji.
 
-**Art. 10a.** Do decyzji o pozwoleniu na realizację inwestycji, poprzedzonej decyzją o środowiskowych uwarunkowaniach, stosuje się przepisy art. 72 ust. 6 i 6a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko. odwołanie do organu wyższego stopnia. 1a. Odwołanie strony od decyzji o pozwoleniu na realizację inwestycji zawiera zarzuty odnoszące się do tej decyzji, określa istotę i zakres żądania będącego przedmiotem odwołania oraz wskazuje dowody uzasadniające to żądanie. 2. Odwołanie strony od decyzji o pozwoleniu na realizację inwestycji rozpatruje się terminie 30 dni. 3. W postępowaniu przed organem odwoławczym oraz przed sądem administracyjnym nie można uchylić decyzji o pozwoleniu na realizację inwestycji całości ani stwierdzić jej nieważności, gdy wadą dotknięta jest tylko część tej decyzji.
+**Art. 11.**
+
+1. Od decyzji o pozwoleniu na realizację inwestycji stronie służy odwołanie do organu wyższego stopnia.
+
+2. Odwołanie strony od decyzji o pozwoleniu na realizację inwestycji rozpatruje się w terminie 30 dni.
+
+3. W postępowaniu przed organem odwoławczym oraz przed sądem administracyjnym nie można uchylić decyzji o pozwoleniu na realizację inwestycji w całości ani stwierdzić jej nieważności, gdy wadą dotknięta jest tylko część tej decyzji.
 
 **Art. 12.**
 
-1. Decyzję o pozwoleniu na realizację inwestycji wydaje się terminie 90 dni od dnia złożenia wniosku, o którym mowa art. 4 ust. 1.
+1. Decyzję o pozwoleniu na realizację inwestycji wydaje się w terminie 90 dni od dnia złożenia wniosku, o którym mowa w art. 4 ust. 1.
 
-2. Do terminu, o którym mowa ust. 1, nie wlicza się terminów przewidzianych przepisach prawa do dokonania określonych czynności, okresów zawieszenia postępowania oraz okresów opóźnień spowodowanych z winy strony albo z przyczyn niezależnych od organu.
+2. Do terminu, o którym mowa w ust. 1, nie wlicza się terminów przewidzianych w przepisach prawa do dokonania określonych czynności, okresów zawieszenia postępowania oraz okresów opóźnień spowodowanych z winy strony albo z przyczyn niezależnych od organu.
 
 **Art. 13.**
 
-1. W sprawach o wydanie decyzji o pozwoleniu na realizację inwestycji, zakresie nieuregulowanym ustawie, stosuje się odpowiednio przepisy ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, z wyłączeniem art. 28 ust. 2 tej ustawy.
+1. W sprawach o wydanie decyzji o pozwoleniu na realizację inwestycji, w zakresie nieuregulowanym w ustawie, stosuje się odpowiednio przepisy ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, z wyłączeniem art. 28 ust. 2 tej ustawy.
 
-2. W sprawach o wydanie decyzji o pozwoleniu na realizację inwestycji nie stosuje się przepisów o planowaniu i zagospodarowaniu przestrzennym oraz przepisów ustawy z dnia 9 października 2015 r. o rewitalizacji (Dz. U. z 2024 r. poz. 278).
+2. W sprawach o wydanie decyzji o pozwoleniu na realizację inwestycji nie stosuje się przepisów o planowaniu i zagospodarowaniu przestrzennym.
 
-3. Do postępowania sprawie wydania decyzji o pozwoleniu na realizację inwestycji, poprzedzonej decyzją o środowiskowych uwarunkowaniach, stosuje się przepisy art. 86f ust. 6, art. 86g oraz art. 86h ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko.
-
-**Art. 14.** Uzyskanie decyzji o pozwoleniu na realizację inwestycji jest równoznaczne z uzyskaniem decyzji o warunkach zabudowy albo decyzji o ustaleniu lokalizacji inwestycji celu publicznego, rozumieniu przepisów ustawy z dnia na budowę rozumieniu przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane.
+**Art. 14.** Uzyskanie decyzji o pozwoleniu na realizację inwestycji jest równoznaczne z uzyskaniem decyzji o warunkach zabudowy albo decyzji o ustaleniu lokalizacji inwestycji celu publicznego, w rozumieniu przepisów ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, oraz pozwolenia na budowę w rozumieniu przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane.
 
 **Art. 15.**
 
-1. Nie stwierdza się nieważności ostatecznej decyzji o pozwoleniu na realizację inwestycji, jeżeli wniosek o stwierdzenie nieważności tej decyzji został złożony po upływie 60 dni od dnia, którym decyzja stała się ostateczna, a inwestor rozpoczął realizację inwestycji. Przepis art. 158 § 2 Kodeksu postępowania administracyjnego stosuje się odpowiednio.
+1. Nie stwierdza się nieważności ostatecznej decyzji o pozwoleniu na realizację inwestycji, jeżeli wniosek o stwierdzenie nieważności tej decyzji został złożony po upływie 14 dni od dnia, w którym decyzja stała się ostateczna, a inwestor rozpoczął realizację inwestycji; przepis art. 158 § 2 Kodeksu postępowania administracyjnego stosuje się odpowiednio.
 
-2. W przypadku uwzględnienia skargi na decyzję o pozwoleniu na realizację inwestycji, której nadano rygor natychmiastowej wykonalności, sąd administracyjny po upływie 60 dni od dnia rozpoczęcia realizacji inwestycji może stwierdzić jedynie, że decyzja o pozwoleniu na realizację inwestycji narusza prawo z przyczyn wskazanych art. 145 § 1 lub art. 156 § 1 Kodeksu postępowania administracyjnego.
+2. W przypadku uwzględnienia skargi na decyzję o pozwoleniu na realizację inwestycji, której nadano rygor natychmiastowej wykonalności, sąd administracyjny po upływie 14 dni od dnia rozpoczęcia realizacji inwestycji może stwierdzić wyłącznie, że decyzja o pozwoleniu na realizację inwestycji narusza prawo z przyczyn wyszczególnionych w art. 145 lub art. 156 Kodeksu postępowania administracyjnego.
 
-3. Przepisów ust. 1 i 2 nie stosuje się przypadku niezgodności decyzji o pozwoleniu na realizację inwestycji z:
-
-- **1)** decyzją o środowiskowych uwarunkowaniach lub
-- **2)** postanowieniem, o którym mowa art. 90 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko.
-
-**Art. 16.** Wojewoda wydaje decyzję o pozwoleniu na użytkowanie inwestycji na zasadach i trybie przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane.
+**Art. 16.** Wojewoda wydaje decyzję o pozwoleniu na użytkowanie inwestycji na zasadach i w trybie przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane.
 
 **Art. 17.**
 
-1. Z zastrzeżeniem przepisów niniejszej ustawy, wydanie decyzji o środowiskowych uwarunkowaniach realizacji inwestycji następuje zgodnie z przepisami ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko.
+1. Z zastrzeżeniem przepisów niniejszej ustawy, wydanie decyzji o środowiskowych uwarunkowaniach realizacji inwestycji następuje zgodnie z przepisami ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
-2. Wniosek i załączniki decyzji o środowiskowych uwarunkowaniach składa się dwóch egzemplarzach.
+2. Wniosek i załączniki decyzji o środowiskowych uwarunkowaniach składa się w dwóch egzemplarzach.
 
-3. Organ właściwy do wydania decyzji, o której mowa ust. 1, niezwłocznie zawiadamia organ wyższego stopnia o złożeniu wniosku o wydanie decyzji o środowiskowych uwarunkowaniach oraz o wydaniu takiej decyzji. złożenia wniosku.
+3. Organ właściwy do wydania decyzji, o której mowa w ust. 1, niezwłocznie zawiadamia organ wyższego stopnia o złożeniu wniosku o wydanie decyzji o środowiskowych uwarunkowaniach oraz o wydaniu takiej decyzji.
 
-5. Do terminu, o którym mowa ust. 4, nie wlicza się terminów przewidzianych przepisach prawa do dokonania określonych czynności, szczególności ramach postępowania sprawie transgranicznego oddziaływania na środowisko, okresów zawieszenia postępowania oraz okresów opóźnień spowodowanych z winy strony albo z przyczyn niezależnych od organu.
+4. Termin wydania decyzji, o której mowa w ust. 1, wynosi 45 dni od dnia złożenia wniosku.
 
-**Art. 18.** Do nieruchomości stanowiących rodzinne ogrody działkowe objętych decyzją o pozwoleniu na realizację inwestycji nie stosuje się przepisów art. 18– 24 ustawy z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych (Dz. U. z 2021 r. poz. 1073).
+5. Do terminu, o którym mowa w ust. 4, nie wlicza się terminów przewidzianych w przepisach prawa do dokonania określonych czynności, w szczególności w ramach postępowania w sprawie transgranicznego oddziaływania na środowisko, okresów zawieszenia postępowania oraz okresów opóźnień spowodowanych z winy strony albo z przyczyn niezależnych od organu.
 
-#### Rozdział 3 Nabywanie nieruchomości związku z realizacją inwestycji
+**Art. 18.** Do nieruchomości stanowiących rodzinne ogrody działkowe objętych decyzją o pozwoleniu na realizację inwestycji nie stosuje się art. 17–22 ustawy z dnia 8 lipca 2005 r. o rodzinnych ogrodach działkowych (Dz. U. Nr 169, poz. 1419, z 2006 r. Nr 220, poz. 1600 oraz z 2008 r. Nr 201, poz. 1237 i Nr 223, poz. 1475).
+
+#### Rozdział 3 Nabywanie nieruchomości w związku z realizacją inwestycji
 
 **Art. 19.**
 
@@ -217,67 +214,73 @@ Art. 32–35. (pominięte)
 
 2. Linie rozgraniczające teren ustalone decyzją o pozwoleniu na realizację inwestycji stanowią linie podziału nieruchomości.
 
-3. Decyzja o pozwoleniu na realizację inwestycji stanowi podstawę do dokonania wpisów księdze wieczystej oraz katastrze nieruchomości.
+3. Decyzja o pozwoleniu na realizację inwestycji stanowi podstawę do dokonania wpisów w księdze wieczystej oraz w katastrze nieruchomości.
 
-4. Nieruchomości lub ich części, o których mowa art. 9 pkt 5 lit. a, z wyłączeniem nieruchomości objętych prawem własności lub prawem użytkowania wieczystego Instytutu Meteorologii i Gospodarki Wodnej – Państwowego Instytutu Badawczego, stają się z mocy prawa własnością Skarbu Państwa albo jednostki samorządu terytorialnego z dniem, którym decyzja o pozwoleniu na realizację inwestycji stała się ostateczna.
+4. Nieruchomości lub ich części, o których mowa w art. 9 pkt 5 lit. a, stają się z mocy prawa własnością Skarbu Państwa albo jednostki samorządu terytorialnego z dniem, w którym decyzja o pozwoleniu na realizację inwestycji stała się ostateczna.
 
 **Art. 20.**
 
-1. Z tytułu przeniesienia na rzecz Skarbu Państwa albo jednostki samorządu terytorialnego własności nieruchomości, o których mowa art. 9 pkt 5 lit. a, właścicielowi albo użytkownikowi wieczystemu tej nieruchomości przysługuje odszkodowanie, wysokości uzgodnionej między inwestorem, a dotychczasowym właścicielem, użytkownikiem wieczystym lub osobą, której przysługuje ograniczone prawo rzeczowe do nieruchomości, od odpowiednio Skarbu Państwa albo jednostki nieważności.
+1. Z tytułu przeniesienia na rzecz Skarbu Państwa albo jednostki samorządu terytorialnego własności nieruchomości, o których mowa w art. 9 pkt 5 lit. a, właścicielowi albo użytkownikowi wieczystemu tej nieruchomości przysługuje odszkodowanie, w wysokości uzgodnionej między inwestorem, a dotychczasowym właścicielem, użytkownikiem wieczystym lub osobą, której przysługuje ograniczone prawo rzeczowe do nieruchomości, od odpowiednio Skarbu Państwa albo jednostki samorządu terytorialnego. Uzgodnienia dokonuje się w formie pisemnej pod rygorem nieważności.
 
-2. Jeżeli terminie 2 miesięcy od dnia, którym decyzja o pozwoleniu na realizację inwestycji stała się ostateczna, nie dojdzie do uzgodnienia, o którym mowa ust. 1, wysokość odszkodowania ustala wojewoda drodze decyzji.
+2. Jeżeli w terminie 2 miesięcy od dnia, w którym decyzja o pozwoleniu na realizację inwestycji stała się ostateczna, nie dojdzie do uzgodnienia, o którym mowa w ust. 1, wysokość odszkodowania ustala wojewoda w drodze decyzji.
 
-3. Decyzję ustalającą wysokość odszkodowania wojewoda wydaje terminie 30 dni od dnia, którym upłynął termin, o którym mowa ust. 2.
+3. Decyzję ustalającą wysokość odszkodowania wojewoda wydaje w terminie 30 dni od dnia, w którym upłynął termin, o którym mowa w ust. 2.
 
-4. Jeżeli na nieruchomości lub prawie użytkowania wieczystego tej nieruchomości zostały ustanowione ograniczone prawa rzeczowe prawa te wygasają z dniem, którym decyzja o pozwoleniu na realizację inwestycji stała się ostateczna.
+4. Jeżeli na nieruchomości lub prawie użytkowania wieczystego tej nieruchomości zostały ustanowione ograniczone prawa rzeczowe prawa te wygasają z dniem, w którym decyzja o pozwoleniu na realizację inwestycji stała się ostateczna.
 
-5. Jeżeli nieruchomość gruntowa stanowiąca własność Skarbu Państwa albo jednostki samorządu terytorialnego została oddana użytkowanie wieczyste, użytkowanie to wygasa z dniem, którym decyzja o pozwoleniu na realizację inwestycji stała się ostateczna.
+5. Jeżeli nieruchomość gruntowa stanowiąca własność Skarbu Państwa albo jednostki samorządu terytorialnego została oddana w użytkowanie wieczyste, użytkowanie to wygasa z dniem, w którym decyzja o pozwoleniu na realizację inwestycji stała się ostateczna.
 
-6. Przepis ust. 4 stosuje się odpowiednio do użytkowania wieczystego nabytego sposób inny niż drodze umowy zawartej formie aktu notarialnego.
+6. Przepis ust. 4 stosuje się odpowiednio do użytkowania wieczystego nabytego w sposób inny niż w drodze umowy zawartej w formie aktu notarialnego.
 
-7. Odszkodowanie za przeniesienie na rzecz Skarbu Państwa albo jednostki samorządu terytorialnego własności nieruchomości, o których mowa art. 9 pkt 5 lit. a, przysługuje dotychczasowym właścicielom nieruchomości, użytkownikom wieczystym nieruchomości oraz osobom, którym przysługuje do nieruchomości ograniczone prawo rzeczowe.
+7. Odszkodowanie za przeniesienie na rzecz Skarbu Państwa albo jednostki samorządu terytorialnego własności nieruchomości, o których mowa w art. 9 pkt 5 lit. a, przysługuje dotychczasowym właścicielom nieruchomości, użytkownikom wieczystym nieruchomości oraz osobom, którym przysługuje do nieruchomości ograniczone prawo rzeczowe.
 
 8. Do ustalenia wysokości i wypłacenia odszkodowania stosuje się odpowiednio przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, z zastrzeżeniem art. 21.
 
 **Art. 21.**
 
-1. Wysokość odszkodowania, o którym mowa art. 20 ust. 1, ustala się według stanu nieruchomości dniu wydania decyzji o pozwoleniu na realizację inwestycji przez organ I instancji oraz według wartości tej nieruchomości z dnia, którym następuje ustalenie wysokości odszkodowania.
+1. Wysokość odszkodowania, o którym mowa w art. 20 ust. 1, ustala się według stanu nieruchomości w dniu wydania decyzji o pozwoleniu na realizację inwestycji przez organ I instancji oraz według wartości tej nieruchomości z dnia, w którym następuje ustalenie wysokości odszkodowania.
 
-2. Jeżeli na nieruchomościach, o których mowa art. 9 pkt 5, lub na prawie użytkowania wieczystego tych nieruchomości są ustanowione ograniczone prawa rzeczowe, wysokość odszkodowania przysługującego dotychczasowemu właścicielowi albo użytkownikowi wieczystemu zmniejsza się o kwotę równą wartości tych praw. właścicielowi albo użytkownikowi wieczystemu, z wyłączeniem kwot odszkodowań, o których mowa ust. 7 i 8, i wysokości odszkodowania z tytułu wygaśnięcia ograniczonych praw rzeczowych ustanowionych na tej nieruchomości lub na prawie użytkowania wieczystego nie może przekroczyć wartości nieruchomości lub wartości prawa użytkowania wieczystego.
+2. Jeżeli na nieruchomościach, o których mowa w art. 9 pkt 5, lub na prawie użytkowania wieczystego tych nieruchomości są ustanowione ograniczone prawa rzeczowe, wysokość odszkodowania przysługującego dotychczasowemu właścicielowi albo użytkownikowi wieczystemu zmniejsza się o kwotę równą wartości tych praw.
 
-4. Jeżeli na nieruchomościach, o których mowa art. 9 pkt 5 lit. a, lub na prawie użytkowania wieczystego tych nieruchomości jest ustanowiona hipoteka, wysokość odszkodowania z tytułu wygaśnięcia hipoteki ustala się wysokości świadczenia głównego wierzytelności zabezpieczonej hipoteką, wraz z odsetkami zabezpieczonymi tą hipoteką.
+3. Suma wysokości odszkodowania przysługującego dotychczasowemu właścicielowi albo użytkownikowi wieczystemu, z wyłączeniem kwot odszkodowań, o których mowa w ust. 7 i 8, i wysokości odszkodowania z tytułu wygaśnięcia ograniczonych praw rzeczowych ustanowionych na tej nieruchomości lub na prawie użytkowania wieczystego nie może przekroczyć wartości nieruchomości lub wartości prawa użytkowania wieczystego.
 
-5. Odszkodowanie, o którym mowa ust. 4, podlega zaliczeniu na spłatę świadczenia głównego wierzytelności zabezpieczonej hipoteką wraz z odsetkami.
+4. Jeżeli na nieruchomościach, o których mowa w art. 9 pkt 5 lit. a, lub na prawie użytkowania wieczystego tych nieruchomości jest ustanowiona hipoteka, wysokość odszkodowania z tytułu wygaśnięcia hipoteki ustała się w wysokości świadczenia głównego wierzytelności zabezpieczonej hipoteką, wraz z odsetkami zabezpieczonymi tą hipoteką.
 
-6. Odszkodowanie, o którym mowa ust. 4, wysokości ustalonej na dzień, o którym mowa ust. 1, wypłaca się osobom, którym te prawa przysługiwały.
+5. Odszkodowanie, o którym mowa w ust. 4, podlega zaliczeniu na spłatę świadczenia głównego wierzytelności zabezpieczonej hipoteką wraz z odsetkami.
 
-7. Jeżeli dotychczasowy właściciel albo użytkownik wieczysty nieruchomości objętej decyzją o pozwoleniu na realizację inwestycji, odpowiednio, wyda tę nieruchomość lub wyda nieruchomość i opróżni lokal oraz inne pomieszczenia niezwłocznie, lecz niepóźniej niż terminie 30 dni od dnia:
+6. Odszkodowanie, o którym mowa w ust. 4, w wysokości ustalonej na dzień, o którym mowa w ust. 1, wypłaca się osobom, którym te prawa przysługiwały.
 
-- **1)** doręczenia zawiadomienia o wydaniu decyzji o pozwoleniu na realizację inwestycji, o której mowa art. 25,
+7. Jeżeli dotychczasowy właściciel albo użytkownik wieczysty nieruchomości objętej decyzją o pozwoleniu na realizację inwestycji, odpowiednio, wyda tę nieruchomość lub wyda nieruchomość i opróżni lokal oraz inne pomieszczenia niezwłocznie, lecz nie później niż w terminie 30 dni od dnia:
+
+- **1)** doręczenia zawiadomienia o wydaniu decyzji o pozwoleniu na realizację inwestycji, o której mowa w art. 25,
 - **2)** doręczenia postanowienia o nadaniu decyzji o pozwoleniu na realizację inwestycji rygoru natychmiastowej wykonalności,
-- **3)** którym decyzja o pozwoleniu na realizację inwestycji stała się ostateczna – wysokość odszkodowania powiększa się o kwotę równą 5 % wartości nieruchomości lub wartości prawa użytkowania wieczystego.
+- **3)** w którym decyzja o pozwoleniu na realizację inwestycji stała się ostateczna wysokość odszkodowania powiększa się o kwotę równą 5% wartości nieruchomości lub wartości prawa użytkowania wieczystego.
 
-8. Jeżeli decyzja o pozwoleniu na realizację inwestycji dotyczy nieruchomości zabudowanej budynkiem mieszkalnym albo budynkiem, którym został wyodrębniony lokal mieszkalny, wysokość odszkodowania, o którym mowa art. 20 ust. 1, przysługującego dotychczasowemu właścicielowi albo użytkownikowi wieczystemu zamieszkałemu tym budynku albo lokalu, powiększa się o kwotę 10 000 zł odniesieniu do tej nieruchomości. zlokalizowane obiekty infrastruktury służące wykonywaniu przez jednostki samorządu terytorialnego zadań własnych, zrealizowane lub realizowane przy wykorzystaniu środków pochodzących z budżetu Unii Europejskiej lub innych źródeł zagranicznych, odszkodowanie powiększa się o kwotę podlegających zwrotowi środków pochodzących z dofinansowania wraz z odsetkami należnymi zgodnie z przepisami regulującymi zasady zwrotu dofinansowania. Odszkodowanie części przenoszącej odszkodowanie należne na zasadach wynikających z ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami przyznaje się pod warunkiem rozwiązującym dokonania przez jednostkę samorządu terytorialnego, trybie i terminie wynikającym z właściwych przepisów, zwrotu dofinansowania wraz z należnymi odsetkami.
+8. Jeżeli decyzja o pozwoleniu na realizację inwestycji dotyczy nieruchomości zabudowanej budynkiem mieszkalnym albo budynkiem, w którym został wyodrębniony lokal mieszkalny, wysokość odszkodowania, o którym mowa w art. 20 w ust. 1, przysługującego dotychczasowemu właścicielowi albo użytkownikowi wieczystemu zamieszkałemu w tym budynku albo lokalu, powiększa się o kwotę 10 000 zł w odniesieniu do tej nieruchomości.
 
-10. W przypadku, gdy decyzja o pozwoleniu na realizację inwestycji dotyczy rodzinnych ogrodów działkowych ustanowionych zgodnie z ustawą z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych, podmiot, którego interesie nastąpi likwidacja rodzinnego ogrodu działkowego lub jego części, zobowiązany jest:
+9. Jeżeli na nieruchomościach, o których mowa w art. 9 pkt 5 lit. a, są zlokalizowane obiekty infrastruktury służące wykonywaniu przez jednostki samorządu terytorialnego zadań własnych, zrealizowane lub realizowane przy wykorzystaniu środków pochodzących z budżetu Unii Europejskiej lub innych źródeł zagranicznych, odszkodowanie powiększa się o kwotę podlegających zwrotowi środków pochodzących z dofinansowania wraz z odsetkami należnymi zgodnie z przepisami regulującymi zasady zwrotu dofinansowania. Odszkodowanie w części przenoszącej odszkodowanie należne na zasadach wynikających z ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami przyznaje się pod warunkiem rozwiązującym dokonania przez jednostkę samorządu terytorialnego, w trybie i terminie wynikającym z właściwych przepisów, zwrotu dofinansowania wraz z należnymi odsetkami.
 
-- **1)** wypłacić działkowcom – odszkodowanie za stanowiące ich własność nasadzenia, urządzenia i obiekty znajdujące się na działkach;
-- **2)** wypłacić stowarzyszeniu ogrodowemu – odszkodowanie za stanowiące jego własność urządzenia, budynki i budowle rodzinnego ogrodu działkowego przeznaczone do wspólnego korzystania przez użytkujących działki i służące do zapewnienia funkcjonowania ogrodu;
+10. W przypadku, gdy decyzja o pozwoleniu na realizację inwestycji dotyczy rodzinnych ogrodów działkowych ustanowionych zgodnie z ustawą z dnia 8 lipca 2005 r. o rodzinnych ogrodach działkowych podmiot, w którego interesie nastąpi likwidacja rodzinnego ogrodu działkowego lub jego części, zobowiązany jest:
+
+- **1)** wypłacić członkom Polskiego Związku Działkowców – odszkodowanie za stanowiące ich własność nasadzenia, urządzenia i obiekty znajdujące się na działkach;
+- **2)** wypłacić Polskiemu Związkowi Działkowców – odszkodowanie za stanowiące jego własność urządzenia, budynki i budowle rodzinnego ogrodu działkowego przeznaczone do wspólnego korzystania przez użytkujących działki i służące do zapewnienia funkcjonowania ogrodu;
 - **3)** zapewnić nieruchomości zamienne na odtworzenie rodzinnego ogrodu działkowego.
 
-11. Stronie odwołującej się od decyzji ustalającej wysokość odszkodowania, wypłaca się, na jej wniosek, kwotę określoną tej decyzji. Wypłata tej kwoty nie ma wpływu na prowadzone postępowanie odwoławcze.
+11. Stronie odwołującej się od decyzji ustalającej wysokość odszkodowania, wypłaca się, na jej wniosek, kwotę określoną w tej decyzji. Wypłata tej kwoty nie ma wpływu na prowadzone postępowanie odwoławcze.
 
-12. Odszkodowanie, o którym mowa ust. 1, podlega waloryzacji na dzień wypłaty, według zasad obowiązujących przypadku zwrotu wywłaszczonych nieruchomości.
+12. Odszkodowanie, o którym mowa w ust. 1, podlega waloryzacji na dzień wypłaty, według zasad obowiązujących w przypadku zwrotu wywłaszczonych nieruchomości.
 
 **Art. 22.**
 
-1. Nieruchomości, o których mowa art. 9 pkt 5 lit. a, mogą być użytkowane nieodpłatnie przez dotychczasowych właścicieli albo użytkowników wieczystych do upływu terminu, o którym mowa art. 24. 9 pkt 5 lit. b, może domagać się wykupu nieruchomości przez Skarb Państwa, jednostkę samorządu terytorialnego albo Instytut Meteorologii i Gospodarki Wodnej – Państwowy Instytut Badawczy, składając wniosek terminie 90 dni od dnia otrzymania zawiadomienia, o którym mowa art. 7 ust. 1.
+1. Nieruchomości, o których mowa w art. 9 pkt 5 lit. a, mogą być użytkowane nieodpłatnie przez dotychczasowych właścicieli albo użytkowników wieczystych do upływu terminu, o którym mowa w art. 24.
+
+2. Właściciel albo użytkownik wieczysty nieruchomości, o których mowa w art. 9 pkt 5 lit. b, może domagać się wykupu nieruchomości przez Skarb Państwa albo jednostkę samorządu terytorialnego, składając wniosek w terminie 90 dni od dnia otrzymania zawiadomienia, o którym mowa w art. 7 ust. 1.
 
 **Art. 23.**
 
-1. Inwestor może nabywać imieniu i na rzecz Skarbu Państwa albo jednostki samorządu terytorialnego, nieruchomości, poza obszarem inwestycji, celu dokonania ich zamiany na nieruchomości położone obszarze inwestycji lub wydzielania tych nieruchomości postępowaniu scaleniowo-wymiennym.
+1. Inwestor może nabywać w imieniu i na rzecz Skarbu Państwa albo jednostki samorządu terytorialnego, nieruchomości, poza obszarem inwestycji, w celu dokonania ich zamiany na nieruchomości położone w obszarze inwestycji lub wydzielania tych nieruchomości w postępowaniu scaleniowo-wymiennym.
 
-2. W przypadku nieruchomości, o których mowa art. 9 pkt 5 lit. a, jeżeli przejęta jest część nieruchomości, a pozostała część nie nadaje się do prawidłowego wykorzystania na dotychczasowe cele, inwestor jest obowiązany do nabycia, na wniosek właściciela albo użytkownika wieczystego nieruchomości, imieniu i na rzecz Skarbu Państwa albo jednostki samorządu terytorialnego tej części nieruchomości.
+2. W przypadku nieruchomości, o których mowa w art. 9 pkt 5 lit. a, jeżeli przejęta jest część nieruchomości, a pozostała część nie nadaje się do prawidłowego wykorzystania na dotychczasowe cele, inwestor jest obowiązany do nabycia, na wniosek właściciela albo użytkownika wieczystego nieruchomości, w imieniu i na rzecz Skarbu Państwa albo jednostki samorządu terytorialnego tej części nieruchomości.
 
 **Art. 24.** Decyzja o pozwoleniu na realizację inwestycji określa termin odpowiednio wydania nieruchomości albo wydania nieruchomości i opróżnienia lokali oraz innych pomieszczeń.
 
@@ -285,86 +288,43 @@ Art. 32–35. (pominięte)
 
 1. Wojewoda nadaje decyzji o pozwoleniu na realizację inwestycji rygor natychmiastowej wykonalności na wniosek inwestora uzasadniony interesem społecznym lub gospodarczym.
 
-2. Decyzja o pozwoleniu na realizację inwestycji, której został nadany rygor natychmiastowej wykonalności, zobowiązuje do wydania nieruchomości, o których mowa art. 9 pkt 5 lit. a, opróżnienia lokalu i innych pomieszczeń terminie 90 dni od dnia wydania decyzji oraz uprawnia do faktycznego objęcia nieruchomości posiadanie i rozpoczęcia robót budowlanych rozumieniu przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane.
+2. Decyzja o pozwoleniu na realizację inwestycji, której został nadany rygor natychmiastowej wykonalności, zobowiązuje do wydania nieruchomości, o których mowa w art. 9 pkt 5 lit. a, opróżnienia lokalu i innych pomieszczeń w terminie 90 dni od dnia wydania decyzji oraz uprawnia do faktycznego objęcia nieruchomości w posiadanie i rozpoczęcia robót budowlanych w rozumieniu przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane.
 
-3. Jeżeli decyzja o pozwoleniu na realizację inwestycji dotyczy nieruchomości zabudowanej budynkiem mieszkalnym albo budynkiem, którym został wyodrębniony lokal mieszkalny, inwestor jest obowiązany, terminie faktycznego objęcia nieruchomości posiadanie, do wskazania lokalu zamiennego. terminu, o którym mowa art. 24, inwestor nie ma obowiązku do wskazania lokalu zamiennego.
+3. Jeżeli decyzja o pozwoleniu na realizację inwestycji dotyczy nieruchomości zabudowanej budynkiem mieszkalnym albo budynkiem, w którym został wyodrębniony lokal mieszkalny, inwestor jest obowiązany, w terminie faktycznego objęcia nieruchomości w posiadanie, do wskazania lokalu zamiennego.
 
-5. Osoba, której wskazano lokal zamienny, jest obowiązana do opróżnienia dotychczas zajmowanego lokalu najpóźniej dniu upływu terminu, o którym mowa art. 24.
+4. Jeżeli faktyczne objęcie nieruchomości w posiadanie następuje po upływie terminu, o którym mowa w art. 24, inwestor nie ma obowiązku do wskazania lokalu zamiennego.
 
-6. Do egzekucji obowiązków wynikających z decyzji o pozwoleniu na realizację inwestycji stosuje się przepisy o postępowaniu egzekucyjnym administracji.
+5. Osoba, której wskazano lokal zamienny, jest obowiązana do opróżnienia dotychczas zajmowanego lokalu najpóźniej w dniu upływu terminu, o którym mowa w art. 24.
 
-7. Egzekucję obowiązku wynikającego z decyzji o pozwoleniu na realizację inwestycji przeprowadza się terminie 30 dni od dnia otrzymania wniosku inwestora.
+6. Do egzekucji obowiązków wynikających z decyzji o pozwoleniu na realizację inwestycji stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
+
+7. Egzekucję obowiązku wynikającego z decyzji o pozwoleniu na realizację inwestycji przeprowadza się w terminie 30 dni od dnia otrzymania wniosku inwestora.
 
 **Art. 26.**
 
 1. Decyzja o pozwoleniu na realizację inwestycji stanowi podstawę do wydania przez wojewodę decyzji o wygaśnięciu trwałego zarządu ustanowionego na nieruchomości przeznaczonej na inwestycję, stanowiącej własność Skarbu Państwa albo jednostki samorządu terytorialnego.
 
-2. Najem, dzierżawa lub użyczenie nieruchomości przeznaczonej na inwestycję, stanowiącej własność Skarbu Państwa albo jednostki samorządu terytorialnego, wygasają z upływem 30 dni od dnia, którym decyzja o pozwoleniu na realizację inwestycji stała się ostateczna.
+2. Najem, dzierżawa lub użyczenie nieruchomości przeznaczonej na inwestycję, stanowiącej własność Skarbu Państwa albo jednostki samorządu terytorialnego, wygasają z upływem 30 dni od dnia, w którym decyzja o pozwoleniu na realizację inwestycji stała się ostateczna.
 
-3. Za straty poniesione na skutek wygaśnięcia umów, o których mowa ust. 2, przysługuje odszkodowanie.
+3. Za straty poniesione na skutek wygaśnięcia umów, o których mowa w ust. 2, przysługuje odszkodowanie.
 
 **Art. 27.**
 
-1. Jeżeli inwestorem jest jednostka organizacyjna nieposiadająca osobowości prawnej albo marszałek województwa działający imieniu i na rzecz Skarbu Państwa oraz wykonujący zadanie z zakresu administracji rządowej, otrzymują oni z mocy prawa, nieodpłatnie, trwały zarząd nieruchomości stanowiące własność Skarbu Państwa, z dniem, którym decyzja o pozwoleniu na realizację inwestycji, dotycząca tych nieruchomości, stała się ostateczna.
+1. Jeżeli inwestorem jest jednostka organizacyjna nieposiadającą osobowości prawnej, otrzymuje ona z mocy prawa, nieodpłatnie, w trwały zarząd nieruchomości stanowiące własność Skarbu Państwa, z dniem, w którym decyzja o pozwoleniu na realizację inwestycji, dotycząca tych nieruchomości, stała się ostateczna.
 
-2. Ustanowienie trwałego zarządu, o którym mowa ust. 1, stwierdza właściwy wojewoda drodze decyzji.
+2. Ustanowienie trwałego zarządu, o którym mowa w ust. 1, stwierdza właściwy wojewoda w drodze decyzji.
 
-3. Decyzja, o której mowa ust. 2, stanowi podstawę wpisu do księgi wieczystej oraz katastru nieruchomości.
+3. Decyzja, o której mowa w ust. 2, stanowi podstawę wpisu do księgi wieczystej oraz katastru nieruchomości.
 
-4. Jeżeli inwestorem jest partner prywatny, podmiot, który nabył albo otrzymał trwały zarząd nieruchomość, której dotyczy decyzja o pozwoleniu na realizację tej nieruchomości.
-
-**Art. 27a.**
-
-1. Jeżeli do przeprowadzenia:
-
-- **1)** pomiarów, badań lub innych prac niezbędnych do sporządzenia karty informacyjnej przedsięwzięcia lub raportu o oddziaływaniu przedsięwzięcia na środowisko dla inwestycji, dla których wydanie decyzji o pozwoleniu na realizację inwestycji jest poprzedzone decyzją o środowiskowych uwarunkowaniach, lub
-- **2)** prac niezbędnych do sporządzenia wniosku o wydanie decyzji o pozwoleniu na realizację inwestycji lub na potrzeby uzyskania decyzji o środowiskowych uwarunkowaniach dla inwestycji, polegających szczególności na wykonaniu badań archeologicznych, prac geologicznych rozumieniu art. 6 ust. 1 pkt 8 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2024 r. poz. 1290 oraz z 2025 r. poz. 769, 1023 i 1668) lub określeniu geotechnicznych warunków posadowienia obiektu – konieczne jest wejście na teren cudzej nieruchomości, inwestor może wystąpić do właściwego miejscowo wojewody z wnioskiem o wydanie decyzji o zezwoleniu na wejście na teren tej nieruchomości lub jej części.
-
-2. Przed wystąpieniem z wnioskiem o wydanie decyzji o zezwoleniu, o której mowa ust. 1, inwestor występuje do właściciela lub użytkownika wieczystego nieruchomości o zgodę na wejście na teren tej nieruchomości lub jej części oraz uzgadnia z nim przewidywany sposób, zakres i termin korzystania z nieruchomości lub jej części.
-
-3. W przypadku gruntów stanowiących teren zamknięty rozumieniu art. 2 pkt 9 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151 i 1824 oraz z 2025 r. poz. 1019, 1542 i 1792), pas drogowy albo gruntów objętych obszarem kolejowym lub lotniskiem użytku publicznego inwestor przed wystąpieniem z wnioskiem o wydanie decyzji o zezwoleniu, o której mowa ust. 1, występuje do właściwego podmiotu zarządzającego terenem zamkniętym, zarządcy drogi, zarządcy infrastruktury kolejowej lub innego podmiotu zarządzającego obszarem kolejowym lub zarządzającego lotniskiem użytku publicznego o zgodę na wejście na teren nieruchomości lub jej części oraz uzgadnia części.
-
-4. W przypadku nieuzyskania zgody, o której mowa ust. 2 lub 3, terminie 30 dni od dnia otrzymania wystąpienia inwestora o taką zgodę przez odpowiednio właściciela lub użytkownika wieczystego nieruchomości, podmiot zarządzający terenem zamkniętym, zarządcę drogi, zarządcę infrastruktury kolejowej lub inny podmiot zarządzający obszarem kolejowym lub zarządzającego lotniskiem użytku publicznego wojewoda wydaje decyzję o zezwoleniu, o której mowa ust. 1, terminie 21 dni od dnia złożenia wniosku przez inwestora.
-
-5. Wniosek o wydanie decyzji o zezwoleniu, o której mowa ust. 1, zawiera:
-
-- **1)** ogólną charakterystykę planowanej inwestycji;
-- **2)** określenie granic terenu objętego wnioskiem;
-- **3)** oznaczenie nieruchomości lub ich części, na które wejście jest konieczne celu przeprowadzenia pomiarów, badań lub innych prac, o których mowa ust. 1;
-- **4)** wskazanie prac, które mają być przeprowadzone przez inwestora, a także proponowany sposób, zakres i termin korzystania z nieruchomości lub jej części;
-- **5)** oświadczenie inwestora o braku zgody, o której mowa ust. 2 lub 3.
-
-6. Decyzja o zezwoleniu, o której mowa ust. 1, określa sposób, zakres i termin korzystania z nieruchomości lub jej części.
-
-7. W przypadku nieuregulowanego stanu prawnego nieruchomości, o której mowa ust. 1, lub braku katastrze nieruchomości danych pozwalających na ustalenie danych osobowych właściciela lub użytkownika wieczystego tej nieruchomości, szczególności ich adresów, przepisów ust. 2, 3 i ust. 5 pkt 5 nie stosuje się, a wojewoda wydaje decyzję o zezwoleniu, o której mowa ust. 1, terminie 14 dni od dnia złożenia wniosku przez inwestora.
-
-8. Sposób, zakres i termin korzystania z nieruchomości lub jej części uzgodnione na podstawie ust. 2 lub 3 albo określone decyzji o zezwoleniu, o której mowa ust. 1, nie mogą powodować:
-
-- **1)** zagrożenia bezpieczeństwa ruchu drogowego, kolejowego, lotniczego lub żeglugi;
-- **2)** wstrzymania ruchu kolejowego lub lotniczego;
-- **3)** zamknięcia dróg krajowych lub dróg o znaczeniu obronnym, chyba że istnieje możliwość zorganizowania objazdów; ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080 oraz z 2026 r. poz. 26).
-
-9. Odwołanie od decyzji o zezwoleniu, o której mowa ust. 1, zawiera zarzuty odnoszące się do tej decyzji, określa istotę i zakres żądania będącego przedmiotem odwołania oraz wskazuje dowody uzasadniające to żądanie.
-
-**Art. 27b.**
-
-1. Inwestor po zakończeniu pomiarów, badań lub innych prac, o których mowa art. 27a ust. 1, jest obowiązany przywrócić nieruchomość do stanu poprzedniego. Jeżeli przywrócenie nieruchomości do stanu poprzedniego nie jest możliwe, właścicielom lub użytkownikom wieczystym nieruchomości przysługuje odszkodowanie.
-
-2. Wysokość odszkodowania ustala wojewoda decyzji o odszkodowaniu na podstawie opinii o wartości nieruchomości sporządzonej przez rzeczoznawcę majątkowego. Obowiązek zapłaty odszkodowania obciąża inwestora. Inwestor, na podstawie odrębnego porozumienia zawartego z wojewodą, pokrywa koszty ustalenia wysokości odszkodowania.
-
-3. Odszkodowanie odpowiada wartości poniesionych szkód. Jeżeli wskutek poniesionych szkód zmniejszy się wartość nieruchomości, odszkodowaniu uwzględnia się kwotę odpowiadającą temu zmniejszeniu.
-
-4. Do ustalenia wysokości i wypłacenia odszkodowania stosuje się odpowiednio przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
+4. Jeżeli inwestorem jest partner prywatny, podmiot, który nabył albo otrzymał w trwały zarząd nieruchomość, której dotyczy decyzja o pozwoleniu na realizację inwestycji, zawiera z tym partnerem umowę dzierżawy, użyczenia albo użytkowania tej nieruchomości.
 
 **Art. 28.**
 
-1. Państwowe Gospodarstwo Leśne Lasy Państwowe zarządzające, na podstawie ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2025 r. poz. 567 i
+1. Państwowe Gospodarstwo Leśne Lasy Państwowe zarządzające, na podstawie ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2005 r. Nr 45, poz. 435, z późn. zm.), nieruchomościami objętymi decyzją o pozwoleniu na realizację inwestycji, są obowiązane do dokonania wycinki drzew i krzewów oraz ich uprzątnięcia w terminie oraz na warunkach ustalonych w odrębnym porozumieniu między Państwowym Gospodarstwem Leśnym Lasy Państwowe a inwestorem.
 
-- **1795)** , nieruchomościami objętymi decyzją o pozwoleniu na realizację inwestycji, są obowiązane do dokonania wycinki drzew i krzewów oraz ich uprzątnięcia terminie oraz na warunkach ustalonych odrębnym porozumieniu między Państwowym Gospodarstwem Leśnym Lasy Państwowe a inwestorem.
+2. Jeżeli w terminie miesiąca od dnia, w którym decyzja o pozwoleniu na realizację inwestycji stała się ostateczna, nie dojdzie do zawarcia porozumienia, o którym mowa w ust. 1, termin oraz warunki wycinki drzew i krzewów oraz ich uprzątnięcia ustala wojewoda w drodze decyzji. Organem wyższego stopnia w sprawie, o której mowa w zdaniu pierwszym, jest minister właściwy do spraw środowiska.
 
-2. Jeżeli terminie miesiąca od dnia, którym decyzja o pozwoleniu na realizację inwestycji stała się ostateczna, nie dojdzie do zawarcia porozumienia, o którym mowa ust. 1, termin oraz warunki wycinki drzew i krzewów oraz ich uprzątnięcia ustala wojewoda drodze decyzji. Organem wyższego stopnia środowiska.
-
-3. Drewno pozyskane z wycinki drzew i krzewów, o której mowa ust. 1, staje się, nieodpłatnie własnością Państwowego Gospodarstwa Leśnego Lasy Państwowe.
+3. Drewno pozyskane z wycinki drzew i krzewów, o której mowa w ust. 1, staje się, nieodpłatnie własnością Państwowego Gospodarstwa Leśnego Lasy Państwowe.
 
 4. Koszty wycinki drzew i krzewów oraz ich uprzątnięcia ponosi inwestor.
 
@@ -372,27 +332,144 @@ Art. 32–35. (pominięte)
 
 1. Do gruntów rolnych i leśnych objętych decyzją o pozwoleniu na realizację inwestycji nie stosuje się przepisów o ochronie gruntów rolnych i leśnych.
 
-2. Do usuwania drzew i krzewów znajdujących się na nieruchomościach objętych decyzją o pozwoleniu na realizację inwestycji, z wyłączeniem drzew i krzewów usuwanych z nieruchomości wpisanej do rejestru zabytków, nie stosuje się przepisów o ochronie przyrody zakresie obowiązku uzyskiwania zezwoleń na ich usunięcie oraz opłat z tym związanych.
+2. Do usuwania drzew i krzewów znajdujących się na nieruchomościach objętych decyzją o pozwoleniu na realizację inwestycji, z wyłączeniem drzew i krzewów usuwanych z nieruchomości wpisanej do rejestru zabytków, nie stosuje się przepisów o ochronie przyrody w zakresie obowiązku uzyskiwania zezwoleń na ich usunięcie oraz opłat z tym związanych.
 
-**Art. 30.** W zakresie nieuregulowanym ustawie stosuje się odpowiednio przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
+**Art. 30.** W zakresie nieuregulowanym w ustawie stosuje się odpowiednio przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
 **Art. 31.**
 
-1. Do skarg na decyzje administracyjne, o których mowa niniejszej ustawie, stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685 oraz z 2025 r. poz. 769, 1427 i 1882), z wyłączeniem art. 61 § 3 tej ustawy, oraz z zastrzeżeniem przepisów niniejszej ustawy, z tym że:
+1. Do skarg na decyzje administracyjne, o których mowa w niniejszej ustawie, stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. Nr 153, poz. 1270, z późn. zm.), z wyłączeniem art. 61 § 3 tej ustawy, oraz z zastrzeżeniem przepisów niniejszej ustawy, z tym że:
 
-- **1)** przekazanie akt i odpowiedzi na skargę następuje terminie 15 dni od dnia otrzymania skargi;
-- **2)** skargę rozpatruje się terminie 30 dni od dnia otrzymania akt wraz z odpowiedzią na skargę.
+- **1)** przekazanie akt i odpowiedzi na skargę następuje w terminie 15 dni od dnia otrzymania skargi;
+- **2)** skargę rozpatruje się w terminie 30 dni od dnia otrzymania akt wraz z odpowiedzią na skargę.
 
-1a. Wyłączenie, o którym mowa ust. 1, nie dotyczy skarg na decyzje o:
-
-- **1)** środowiskowych uwarunkowaniach;
-- **2)** pozwoleniu na realizację inwestycji zakresie budowli przeciwpowodziowych, ramach których wydano postanowienie, o którym mowa art. 90 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko.
-
-2. Termin rozpatrzenia skargi kasacyjnej wynikającej z realizacji inwestycji wynosi 2 miesiące od jej wniesienia. terminów, o których mowa art. 86f ust. 2–4 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko.
+2. Termin rozpatrzenia skargi kasacyjnej wynikającej z realizacji inwestycji wynosi 2 miesiące od jej wniesienia.
 
 #### Rozdział 4 Przepisy zmieniające, przepis przejściowy i końcowy
 
-**Art. 36.** W przypadku gdy lokalizacja inwestycji zakresie budowli przeciwpowodziowych przewidziana jest obowiązującym miejscowym planie zagospodarowania przestrzennego, albo wydano dla niej decyzję o ustaleniu lokalizacji inwestycji celu publicznego lub decyzję o warunkach zabudowy, stosuje się przepisy niniejszej ustawy.
+**Art. 32.** W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2005 r. Nr 45, poz. 435, z późn. zm.) w art. 38a ust. 4 otrzymuje brzmienie: „ 4. Przepisy ust. 1–3 stosuje się odpowiednio do nieruchomości objętej decyzją o:
 
-**Art. 37.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia .
+- **1)** zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego w rozumieniu przepisów ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego (Dz. U. Nr 42, poz. 340 i Nr 161, poz. 1281) wydaną na rzecz podmiotu, o którym mowa w art. 28 ust. 1 tej ustawy z tym, że ustanowienie trwałego zarządu stwierdza wojewoda w drodze decyzji;
+- **2)** pozwoleniu na realizację inwestycji w rozumieniu przepisów ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych (Dz. U. Nr 143, poz. 963) wydaną na rzecz podmiotu, o którym mowa w art. 2 pkt 2 tej ustawy z tym, że ustanowienie trwałego zarządu stwierdza wojewoda w drodze decyzji. ” .
+
+**Art. 33.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2007 r. Nr 231, poz. 1700, z późn. zm.) w art. 24:
+
+- **1)** w ust. 5 pkt 1 otrzymuje brzmienie: „
+- **1)** jednostce samorządu terytorialnego – na cele związane z inwestycjami infrastrukturalnymi służącymi wykonywaniu zadań własnych oraz na cele związane z realizacją inwestycji w rozumieniu przepisów ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych (Dz. U. Nr 143, poz. 963); ” ;
+- **2)** ust. 7c otrzymuje brzmienie: „
+
+7c. Przepisy ust. 7 stosuje się odpowiednio do nieruchomości objętej decyzją o:
+
+- **1)** zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego w rozumieniu przepisów ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego (Dz. U. Nr 42, poz. 340 i Nr 161, poz. 1281) wydanym na rzecz podmiotu, o którym mowa w art. 28 ust. 1 tej ustawy;
+- **2)** pozwoleniu na realizację inwestycji w rozumieniu przepisów ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych wydaną na rzecz regionalnego zarządu gospodarki wodnej lub urzędu morskiego. ” .
+
+**Art. 34.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2010 r. Nr 102, poz. 651 i Nr 106, poz. 675) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 w brzmieniu: „
+- **13)** ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych (Dz. U. Nr 143, poz. 963). ” ;
+- **2)** w art. 95 po pkt 6b dodaje się pkt 6c w brzmieniu: „
+- **6c)** wydzielenia części nieruchomości objętej decyzją o pozwoleniu na realizację inwestycji w rozumieniu przepisów ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych. ” ;
+- **3)** w art. 109 ust. 3 otrzymuje brzmienie: „
+
+3. Prawo pierwokupu nie przysługuje, jeżeli:
+
+- **1)** sprzedaż nieruchomości lub prawa użytkowania wieczystego następuje na rzecz osób bliskich dla sprzedawcy;
+- **2)** sprzedaż nieruchomości lub prawa użytkowania wieczystego następuje między osobami prawnymi tego samego kościoła lub związku wyznaniowego;
+- **3)** prawo własności lub prawo użytkowania wieczystego zostało ustanowione jako odszkodowanie lub rekompensata za utratę własności nieruchomości;
+- **4)** prawo własności lub prawo użytkowania wieczystego zostało ustanowione w wyniku zamiany własności nieruchomości;
+- **5)** w przypadkach, o których mowa w ust. 1 pkt 3 i 4, prawo pierwokupu nie zostało ujawnione w księdze wieczystej;
+- **6)** sprzedaż nieruchomości następuje na cele budowy dróg krajowych;
+- **7)** prawo pierwokupu przysługuje partnerowi prywatnemu lub ostatniemu partnerowi prywatnemu w przypadkach, o których mowa w ustawie z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym;
+- **8)** sprzedaż nieruchomości następuje na cele realizacji inwestycji w zakresie lotniska użytku publicznego w rozumieniu przepisów ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotniska użytku publicznego;
+- **9)** sprzedaż nieruchomości następuje na cele realizacji inwestycji w zakresie budowli przeciwpowodziowych w rozumieniu przepisów ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych. ” .
+
+**Art. 35.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. Nr 199, poz. 1227, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 61: w ust. 1 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** postępowania w sprawie wydania decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18, jeżeli konieczność przeprowadzenia oceny oddziaływania przedsięwzięcia na środowisko została stwierdzona przez organ właściwy do wydania decyzji o środowiskowych uwarunkowaniach oraz w przypadku, o którym mowa w art. 88 ust. 1. ” , ust. 3 otrzymuje brzmienie: „
+    - **b)**
+
+3. Ocenę oddziaływania przedsięwzięcia na środowisko, stanowiącą część postępowania w sprawie wydania decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18, przeprowadza regionalny dyrektor ochrony środowiska. ” ;
+
+- **2)** w art. 64 w ust. 2 pkt 3 otrzymuje brzmienie: „
+- **3)** wypis i wyrys z miejscowego planu zagospodarowania przestrzennego, jeżeli plan ten został uchwalony, albo informację o jego braku; nie dotyczy to opinii w sprawie obowiązku przeprowadzenia oceny oddziaływania przedsięwzięcia na środowisko dla drogi publicznej, dla linii kolejowej o znaczeniu państwowym, dla przedsięwzięć Euro 2012, dla przedsięwzięć wymagających koncesji na poszukiwanie i rozpoznawanie złóż kopalin, dla inwestycji realizowanej na podstawie ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu (Dz. U. Nr 84, poz. 700 oraz z 2010 r. Nr 57, poz. 358) w zakresie zadań inwestycyjnych, o których mowa w art. 2 ust. 2 oraz art. 38 tej ustawy, zwanej dalej „inwestycją w zakresie terminalu”, dla inwestycji związanych z regionalnymi sieciami szerokopasmowymi oraz dla budowli przeciwpowodziowych realizowanych na podstawie ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych (Dz. U. Nr 143, poz. 963). ” ;
+- **3)** art. 67 otrzymuje brzmienie: „
+
+**Art. 67.** Raport o oddziaływaniu przedsięwzięcia na środowisko, sporządzany w ramach oceny oddziaływania przedsięwzięcia na środowisko stanowiącej część postępowania w sprawie wydania decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10, 16 i 18, powinien:
+
+- **1)** zawierać informacje, o których mowa w art. 66, określone ze szczegółowością i dokładnością odpowiednio do posiadanych danych wynikających z projektu budowlanego i innych informacji uzyskanych po wydaniu decyzji o środowiskowych uwarunkowaniach i decyzji, o których mowa w art. 72 ust. 1 pkt 2–9, pkt 11–13 i pkt 15–18, jeżeli były już dla danego przedsięwzięcia wydane;
+- **2)** określać stopień i sposób uwzględnienia wymagań dotyczących ochrony środowiska, zawartych w decyzji o środowiskowych uwarunkowaniach i decyzjach, o których mowa w art. 72 ust. 1 pkt 2–9, pkt 11–13 i pkt 15–18, jeżeli były już dla danego przedsięwzięcia wydane. ” ;
+- **4)** w art. 72 w ust. 1 w pkt 17 kropkę zastępuje się średnikiem i dodaje się pkt 18 w brzmieniu: „
+- **18)** decyzji o pozwoleniu na realizację inwestycji w rozumieniu przepisów ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych. ” ;
+- **5)** w art. 74 w ust. 1 pkt 5 otrzymuje brzmienie: „
+- **5)** dla przedsięwzięć, dla których organem prowadzącym postępowanie jest regionalny dyrektor ochrony środowiska – wypis i wyrys z miejscowego planu zagospodarowania przestrzennego, jeżeli plan ten został uchwalony, albo informację o jego braku; nie dotyczy to wniosku o wydanie decyzji o środowiskowych uwarunkowaniach dla drogi publicznej, dla linii kolejowej o znaczeniu państwowym, dla przedsięwzięć Euro 2012, dla przedsięwzięć wymagających koncesji na poszukiwanie i rozpoznawanie złóż kopalin, dla inwestycji w zakresie terminalu, dla inwestycji związanych z regionalnymi sieciami szerokopasmowymi oraz dla budowli przeciwpowodziowych realizowanych na podstawie ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych; ” ;
+- **6)** w art. 75 w ust. 1 w pkt 1 w lit. h średnik zastępuje się przecinkiem i dodaje się lit. i w brzmieniu: „ przedsięwzięć polegających na realizacji inwestycji w rozumieniu przepisów ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych; ” ;
+    - **i)**
+
+- **7)** w art. 77: w ust. 1 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** zasięga opinii organu, o którym mowa w art. 78, w przypadku przedsięwzięć wymagających decyzji, o których mowa w art. 72 ust. 1 pkt 1–3 i pkt 10–18. ” , w ust. 2 pkt 3 otrzymuje brzmienie: „
+    - **b)**
+
+- **3)** wypis i wyrys z miejscowego planu zagospodarowania przestrzennego, jeżeli plan ten został uchwalony, albo informację o jego braku; nie dotyczy to uzgodnień i opinii dla drogi publicznej, dla linii kolejowej o znaczeniu państwowym, dla przedsięwzięć Euro 2012, dla przedsięwzięć wymagających koncesji na poszukiwanie i rozpoznawanie złóż kopalin, dla inwestycji w zakresie terminalu, dla inwestycji związanych z regionalnymi sieciami szerokopasmowymi oraz dla budowli przeciwpowodziowych realizowanych na podstawie ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych. ” , w ust. 4 pkt 2 otrzymuje brzmienie: „
+    - **c)**
+
+- **2)** przedstawia stanowisko w sprawie konieczności przeprowadzenia oceny oddziaływania przedsięwzięcia na środowisko oraz postępowania w sprawie transgranicznego oddziaływania na środowisko w ramach postępowania w sprawie wydania decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18. ” , w ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W stanowisku, o którym mowa w ust. 4 pkt 2, regionalny dyrektor ochrony środowiska stwierdza konieczność przeprowadzenia oceny oddziaływania przedsięwzięcia na środowisko w ramach postępowania w sprawie wydania decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18, biorąc pod uwagę w szczególności następujące okoliczności: ” ;
+    - **d)**
+
+- **8)** w art. 80 ust. 2 otrzymuje brzmienie: „
+
+2. Właściwy organ wydaje decyzję o środowiskowych uwarunkowaniach po stwierdzeniu zgodności lokalizacji przedsięwzięcia z ustaleniami miejscowego planu zagospodarowania przestrzennego, jeżeli plan ten został uchwalony. Nie dotyczy to decyzji o środowiskowych uwarunkowaniach wydawanej dla drogi publicznej, dla linii kolejowej o znaczeniu państwowym, dla przedsięwzięć Euro 2012, dla przedsięwzięć wymagających koncesji na poszukiwanie i rozpoznawanie złóż kopalin, dla inwestycji w zakresie terminalu, dla inwestycji związanych z regionalnymi sieciami szerokopasmowymi oraz dla budowli przeciwpowodziowych realizowanych na podstawie ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych. ” ;
+
+- **9)** w art. 82: w ust. 1: – w pkt 1 lit. c otrzymuje brzmienie: „ c) wymagania dotyczące ochrony środowiska konieczne do uwzględnienia w dokumentacji wymaganej do wydania decyzji, o których mowa w art. 72 ust. 1, w szczególności w projekcie budowlanym, w przypadku decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18 ” , – pkt 4 otrzymuje brzmienie: „ 4) przedstawia stanowisko w sprawie konieczności przeprowadzenia oceny oddziaływania przedsięwzięcia na środowisko oraz postępowania w sprawie transgranicznego oddziaływania na środowisko w ramach postępowania w sprawie wydania decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18 ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W stanowisku, o którym mowa w ust. 1 pkt 4, właściwy organ stwierdza konieczność przeprowadzenia oceny oddziaływania przedsięwzięcia na środowisko w ramach postępowania w sprawie wydania decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18, biorąc pod uwagę w szczególności następujące okoliczności: ” ;
+    - **a)**
+    - **b)**
+
+- **10)** w art. 88 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Ocenę oddziaływania przedsięwzięcia na środowisko w ramach postępowania w sprawie wydania decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18, przeprowadza się także: ” ;
+- **11)** w art. 89: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Po otrzymaniu raportu o oddziaływaniu przedsięwzięcia na środowisko organ właściwy do wydania decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18, występuje do regionalnego dyrektora ochrony środowiska z wnioskiem o uzgodnienie warunków realizacji przedsięwzięcia. ” , w ust. 2 pkt 1 otrzymuje brzmienie: „
+
+- **b)**
+- **1)** wniosek o wydanie decyzji, o której mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18; ” ;
+- **12)** w art. 90: w ust. 2 pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** do organu właściwego do wydania decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 lub 18, o zapewnienie możliwości udziału społeczeństwa w trybie art. 33–36 i art. 38; ” , ust. 3 otrzymuje brzmienie: „
+    - **b)**
+
+3. Organ właściwy do wydania decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18, przekazuje regionalnemu dyrektorowi ochrony środowiska zgłoszone przez społeczeństwo uwagi i wnioski oraz protokół z rozprawy administracyjnej otwartej dla społeczeństwa, jeżeli była przeprowadzona. ” ;
+
+- **13)** art. 92 otrzymuje brzmienie: „
+
+**Art. 92.** Postanowienie, o którym mowa w art. 90 ust. 1, wiąże organ właściwy do wydania decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18. ” ;
+
+- **14)** w art. 93: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Właściwy organ wydaje decyzje, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18, uwzględniając warunki realizacji przedsięwzięcia określone w: ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W decyzjach, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18, właściwy organ może: ” , w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W decyzjach, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18, właściwy organ, w przypadku gdy z oceny oddziaływania przedsięwzięcia na środowisko wynika potrzeba: ” , ust. 4 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+4. Jeżeli z oceny oddziaływania przedsięwzięcia na środowisko wynika, że przedsięwzięcie może znacząco negatywnie oddziaływać na obszar Natura 2000, organ właściwy do wydania decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18, odmawia zgody na realizację przedsięwzięcia, o ile nie zachodzą przesłanki, o których mowa w art. 34 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody. ” ;
+
+- **15)** w art. 94 ust. 1 otrzymuje brzmienie: „
+
+1. W analizie porealizacyjnej, o której mowa w art. 93 ust. 2 pkt 2, dokonuje się porównania ustaleń zawartych w raporcie o oddziaływaniu przedsięwzięcia na środowisko i w decyzjach, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18, w szczególności ustaleń dotyczących przewidywanego charakteru i zakresu oddziaływania przedsięwzięcia na środowisko oraz planowanych działań zapobiegawczych z rzeczywistym oddziaływaniem przedsięwzięcia na środowisko i działaniami podjętymi dla jego ograniczenia. ” ;
+
+- **16)** w art. 95 ust. 1 otrzymuje brzmienie: „
+
+1. Decyzje, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18, wymagają uzasadnienia. ” ;
+
+- **17)** w art. 96 w ust. 3 pkt 5 otrzymuje brzmienie: „
+- **5)** wypisu i wyrysu z miejscowego planu zagospodarowania przestrzennego, jeżeli plan ten został uchwalony, albo informacji o jego braku; nie dotyczyło drogi publicznej, linii kolejowej o znaczeniu państwowym, przedsięwzięć Euro 2012, przedsięwzięć wymagających koncesji na poszukiwanie i rozpoznawanie złóż kopalin oraz bezzbiornikowego magazynowania substancji w górotworze, inwestycji w zakresie terminalu, inwestycji związanych z regionalnymi sieciami szerokopasmowymi oraz budowli przeciwpowodziowych realizowanych na podstawie ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych. ” ;
+- **18)** w art. 104 w ust. 1 w pkt 1 lit. b otrzymuje brzmienie: „ decyzjami, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18, jeżeli w ramach postępowania w sprawie decyzji o środowiskowych uwarunkowaniach nie była przeprowadzona ocena oddziaływania przedsięwzięcia na środowisko, ” .
+    - **b)**
+
+**Art. 36.** W przypadku gdy lokalizacja inwestycji w zakresie budowli przeciwpowodziowych przewidziana jest w obowiązującym miejscowym planie zagospodarowania przestrzennego, albo wydano dla niej decyzję o ustaleniu lokalizacji inwestycji celu publicznego lub decyzję o warunkach zabudowy, stosuje się przepisy niniejszej ustawy.
+
+**Art. 37.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -8,10 +8,10 @@ pos: 169
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# 169 OBWIESZCZENIE PrEZESa rady MINIStróW 21 stycznia 2021 ogłoszenia jednolitego tekstu rozporządzenia Ministrów norm wyżywienia przypadków, których funkcjonariusz Agencji Wywiadu równoważnik
+# Obwieszczenie Prezesa Rady Ministrówz dnia 21 stycznia 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów w sprawie norm wyżywienia i przypadków, w których funkcjonariusz Agencji Wywiadu otrzymuje wyżywienie lub równoważnik pieniężny w zamian zawyżywienie
 
 | Pole | Wartość |
 |---|---|
@@ -25,44 +25,130 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000169) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/169/text.pdf) |
 
-1. Na podstawie art. 16 3 ustawy 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst rozporządzenia Ministrów 23 października 2003 norm wyżywienia przypadków, których funkcjonariusz Agencji Wywiadu równoważnik (Dz. U.
-poz. 1825), uwzględnieniem zmian wprowadzonych: rozporządzeniem Ministrów 10 kwietnia 2009 zmieniającym rozporządzenie norm wyżywienia przypadków, których funkcjonariusz Agencji Wywiadu równoważnik (Dz. U. poz. 506);
-2) rozporządzeniem Ministrów 2 stycznia 2020 zmieniającym rozporządzenie norm wyżywienia przypadków, których funkcjonariusz Agencji Wywiadu równoważnik (Dz. U. poz. 40).
-2. Podany załączniku niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje: § 2 rozporządzenia Ministrów 10 kwietnia 2009 zmieniającego rozporządzenie norm wyżywienia przypadków, których funkcjonariusz Agencji Wywiadu równoważnik (Dz. U. poz. 506), który stanowi: „§ 2. Rozporządzenie 14 ogłoszenia.”;
-2) § 2 rozporządzenia Ministrów 2 stycznia 2020 zmieniającego rozporządzenie norm wyżywienia przypadków, których funkcjonariusz Agencji Wywiadu równoważnik (Dz. U. poz. 40), który stanowi: „§ 2. Rozporządzenie 14 ogłoszenia.”.
-Prezes Ministrów: M. Morawiecki norm wyżywienia przypadków, których funkcjonariusz Agencji Wywiadu równoważnik Na podstawie art. 89 2 ustawy 24 maja 2002 Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. 2020 poz. 27 2320) zarządza się, co następuje: § 1. 1. Ustala się następujące normy wyżywienia przysługujące funkcjonariuszowi Agencji Wywiadu, zwanemu dalej „funkcjonariuszem”, czasie wykonywania zadań służbowych: podstawową;
-2) dodatkowe numer: I, II III;
-3) napojów 1,5 litra wody mineralnej.
-2. Ilość produktów żywnościowych zawartych normach wyżywienia, których mowa 1 pkt 1 2, określa załącznik rozporządzenia.
-§ 2. Wyżywienie według normy podstawowej funkcjonariusz: pełniący służbę systemie skoszarowanym;
-2) będący słuchaczem kursu Ośrodku Szkolenia Agencji Wywiadu, zwanym dalej „Ośrodkiem”, czasie pobytu Ośrodku;
-3) uczestniczący szkoleniu, naradzie odprawie, organizowanych Ośrodku przez Szefa Agencji Wywiadu jego zastępców oraz kierowników jednostek organizacyjnych Agencji Wywiadu ich zastępców;
-4) biorący udział szkoleniu ćwiczeniach systemie obronnym kraju, jeśli zajęcia trwają sposób ciągły powyżej 8 godzin;
-5) przeniesiony pełnienia służby Ośrodku;
-6) uczestniczący szkoleniu specjalistycznym wymagającym zwiększonego wysiłku fizycznego;
-7) wchodzący skład komisji egzaminacyjnych kursów szkoleniowych trakcie sesji egzaminacyjnej.
-§ 3. Wyżywienie według normy podstawowej, postaci posiłków wydawanych godzinach służby, funkcjonariusz: pełniący służbę związaną bezpośrednim kierowaniem sprawowaniem nadzoru nad gospodarką żywnościową;
-2) zajmujący stanowisko kierownika zespołu żywienia;
-3) zajmujący stanowisko lekarza kontrolującego jakość posiłków;
-4) pełniący nieetatową służbę dyżur trwający nieprzerwanie 24 godziny.
-§ 4. 1. Wyżywienie według normy podstawowej, niezależnie przysługujących tym czasie innych norm wyżywienia, funkcjonariusz biorący udział uroczystym albo promocyjnym posiłku.
-2. Uroczyste posiłki można organizować okazji: świąt państwowych religijnych ustawowo wolnych pracy oraz 24 31 grudnia;
-2) inauguracji kursów stacjonarnych trwających co najmniej 4 miesiące.
-§ 6. Wyżywienie według dodatkowej normy numer I funkcjonariusz: którym mowa § 2 pkt 6;
-2) będący słuchaczem kursu oficerskiego Ośrodku trakcie przebywania na specjalistycznym obozie kondycyjnym.
-§ 7. Wyżywienie według dodatkowej normy numer II, postaci posiłku profilaktycznego, funkcjonariusz pełniący służbę okresie 1 listopada 31 marca na wolnym powietrzu przez co najmniej 4 godziny dziennie.
-§ 8. Wyżywienie według dodatkowej normy numer III, postaci dodatku normy podstawowej, funkcjonariusz, którym mowa § 2 pkt 1–5.
-§ 9. 1. Napoje, według normy, której mowa § 1 1 pkt 3, funkcjonariusz wykonujący czynności służbowe: pomieszczeniach, których temperatura przekracza 28°C;
-2) na otwartej przestrzeni, przy temperaturze otoczenia powyżej 25°C poniżej 10°C;
-3) związane dużym wysiłkiem fizycznym.
-2. Napoje, według normy, której mowa § 1 1 pkt 3, wydaje się warunkach, których mowa 1, wyłącznie naturze tylko dniach wykonywania czynności służbowych.
-§ 10. Równoważnik wysokości 100% wypłaca się funkcjonariuszowi, jeżeli: rodzaj warunki pełnienia służby uniemożliwiają korzystanie przysługującego mu wyżywienia;
-2) nie ma możliwości żywienia ze względów techniczno-organizacyjnych.
-§ 11. Funkcjonariusz będący słuchaczem kursu stacjonarnego Ośrodku, skierowany ramach praktyk wykonywania zadań służbowych poza Ośrodek, równoważnik zwiększony 50%.
-§ 12. Wysokość równoważnika pieniężnego wynosi: podstawową normę wyżywienia 75% kwoty diety określonej przepisach wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu państwowej samorządowej jednostce sfery budżetowej tytułu podróży służbowej na obszarze kraju, wydanych na podstawie art. 77 § 2 ustawy 26 czerwca 1974 Kodeks pracy (Dz. U. 2020 poz. 1320), zwanej dalej „dietą”;
-2) dodatkową normę wyżywienia numer I 35% diety;
-3) dodatkową normę wyżywienia numer II 30% diety;
-4) dodatkową normę wyżywienia numer III 25% diety.
-§ 13. Rozporządzenie 14 ogłoszenia .
-Lp. Nazwa grupy artykułów żywnościowych jedn. podstawowa dodatkowa miary I II III 1 2 3 4 5 6 7 1 Pieczywo g 670 65 50 35 2 Przetwory zbożowe strączkowe g 100 3 Przetwory mięsne przeliczeniu na mięso elementach g 290 100 85 60 4 Przetwory rybne przeliczeniu na filety ryb g 40 5 Masło naturalne g 40 25 20 15 6 Tłuszcze zwierzęce roślinne przeliczeniu na smalec g 30 7 Napoje mleczne przeliczeniu na mleko pełnotłuste g 400 190 150 105 8 Sery przeliczeniu na ser pełnotłusty g 60 50 40 30 9 Jaja szt. 0,5 0,5 0,5 0,5 10 Ziemniaki g 700 11 Warzywa g 340 12 Owoce g 280 320 250 170 13 Soki owoców g 320 250 175 14 Przetwory owocowe przeliczeniu na dżem g 15 15 Cukier g 60 25 20 15 16 Herbata g 1 17 Kakao g 2 2 18 Kawa zbożowa g 6 19 Kawa naturalna g 8 8 4 20 Sól przyprawy g 41
+Treść obwieszczenia
+Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 23 października 2003 r. w sprawie norm wyżywienia i przypadków, w których funkcjonariusz Agencji Wywiadu otrzymuje wyżywienie lub równoważnik pieniężny w zamian zawyżywienie
+
+## Załącznik nr 1 — – Ilość produktów żywnościowych zawartych w podstawowej oraz dodatkowych normach wyżywienia
+
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 23 października 2003 r. w sprawie norm wyżywienia i przypadków, w których funkcjonariusz Agencji Wywiadu otrzymuje wyżywienie lub równoważnik pieniężny w zamian za wyżywienie (Dz. U. poz. 1825), z uwzględnieniem zmian wprowadzonych:
+1)
+rozporządzeniem Prezesa Rady Ministrów z dnia 10 kwietnia 2009 r. zmieniającym rozporządzenie w sprawie norm wyżywienia i przypadków, w których funkcjonariusz Agencji Wywiadu otrzymuje wyżywienie lub równoważnik pieniężny w zamian za wyżywienie (Dz. U. poz. 506);
+2)
+rozporządzeniem Prezesa Rady Ministrów z dnia 2 stycznia 2020 r. zmieniającym rozporządzenie w sprawie norm wyżywienia i przypadków, w których funkcjonariusz Agencji Wywiadu otrzymuje wyżywienie lub równoważnik pieniężny w zamian za wyżywienie (Dz. U. poz. 40).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
+1)
+§ 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 kwietnia 2009 r. zmieniającego rozporządzenie w sprawie norm wyżywienia i przypadków, w których funkcjonariusz Agencji Wywiadu otrzymuje wyżywienie lub równoważnik pieniężny w zamian za wyżywienie (Dz. U. poz. 506), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+” ;
+2)
+§ 2 rozporządzenia Prezesa Rady Ministrów z dnia 2 stycznia 2020 r. zmieniającego rozporządzenie w sprawie norm wyżywienia i przypadków, w których funkcjonariusz Agencji Wywiadu otrzymuje wyżywienie lub równoważnik pieniężny w zamian za wyżywienie (Dz. U. poz. 40), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+” .
+Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 23 października 2003 r. w sprawie norm wyżywienia i przypadków, w których funkcjonariusz Agencji Wywiadu otrzymuje wyżywienie lub równoważnik pieniężny w zamian zawyżywienie
+Na podstawie art. 89 ust. 2 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2020 r. poz. 27 i 2320) zarządza się, co następuje:
+§ 1.
+1.
+Ustala się następujące normy wyżywienia przysługujące funkcjonariuszowi Agencji Wywiadu, zwanemu dalej „funkcjonariuszem”, w czasie wykonywania zadań służbowych:
+1)
+podstawową;
+2)
+dodatkowe numer: I, II i III;
+3)
+napojów – 1,5 litra wody mineralnej.
+2.
+Ilość produktów żywnościowych zawartych w normach wyżywienia, o których mowa w ust. 1 pkt 1 i 2, określa załącznik do rozporządzenia.
+§ 2.
+Wyżywienie według normy podstawowej otrzymuje funkcjonariusz:
+1)
+pełniący służbę w systemie skoszarowanym;
+2)
+będący słuchaczem kursu w Ośrodku Szkolenia Agencji Wywiadu, zwanym dalej „Ośrodkiem”, w czasie pobytu w Ośrodku;
+3)
+uczestniczący w szkoleniu, naradzie lub odprawie, organizowanych w Ośrodku przez Szefa Agencji Wywiadu lub jego zastępców oraz kierowników jednostek organizacyjnych Agencji Wywiadu lub ich zastępców;
+4)
+biorący udział w szkoleniu lub ćwiczeniach w systemie obronnym kraju, jeśli zajęcia trwają w sposób ciągły powyżej 8 godzin;
+5)
+przeniesiony do pełnienia służby w Ośrodku;
+6)
+uczestniczący w szkoleniu specjalistycznym wymagającym zwiększonego wysiłku fizycznego;
+7)
+wchodzący w skład komisji egzaminacyjnych kursów szkoleniowych w trakcie sesji egzaminacyjnej.
+§ 3.
+Wyżywienie według normy podstawowej, w postaci posiłków wydawanych w godzinach służby, otrzymuje funkcjonariusz:
+1)
+pełniący służbę związaną z bezpośrednim kierowaniem lub sprawowaniem nadzoru nad gospodarką żywnościową;
+2)
+zajmujący stanowisko kierownika zespołu żywienia;
+3)
+zajmujący stanowisko lekarza kontrolującego jakość posiłków;
+4)
+pełniący nieetatową służbę lub dyżur trwający nieprzerwanie 24 godziny.
+§ 4.
+1.
+Wyżywienie według normy podstawowej, niezależnie od przysługujących w tym czasie innych norm wyżywienia, otrzymuje funkcjonariusz biorący udział w uroczystym albo promocyjnym posiłku.
+2.
+Uroczyste posiłki można organizować z okazji:
+1)
+świąt państwowych i religijnych ustawowo wolnych od pracy oraz 24 i 31 grudnia;
+2)
+inauguracji kursów stacjonarnych trwających co najmniej 4 miesiące.
+3.
+Promocyjne posiłki można organizować w związku z zakończeniem kursów trwających co najmniej 4 miesiące lub mianowaniem funkcjonariuszy na pierwszy stopień oficerski.
+§ 5.
+1.
+Funkcjonariuszowi, który otrzymuje wyżywienie według podstawowej normy wyżywienia z kilku tytułów, o których mowa w § 2 i 3, wydaje się wyżywienie tylko z jednego tytułu.
+2.
+Funkcjonariuszowi, który otrzymuje wyżywienie według kilku dodatkowych norm, wydaje się wyżywienie zgodnie z jedną, najkorzystniejszą dla niego normą.
+§ 6.
+Wyżywienie według dodatkowej normy numer I otrzymuje funkcjonariusz:
+1)
+o którym mowa w § 2 pkt 6;
+2)
+będący słuchaczem kursu oficerskiego w Ośrodku w trakcie przebywania na specjalistycznym obozie kondycyjnym.
+§ 7.
+Wyżywienie według dodatkowej normy numer II, w postaci posiłku profilaktycznego, otrzymuje funkcjonariusz pełniący służbę w okresie od 1 listopada do 31 marca na wolnym powietrzu przez co najmniej 4 godziny dziennie.
+§ 8.
+Wyżywienie według dodatkowej normy numer III, w postaci dodatku do normy podstawowej, otrzymuje funkcjonariusz, o którym mowa w § 2 pkt 1–5.
+1)
+w pomieszczeniach, w których temperatura przekracza 28°C;
+2)
+na otwartej przestrzeni, przy temperaturze otoczenia powyżej 25°C lub poniżej 10°C;
+3)
+związane z dużym wysiłkiem fizycznym.
+§ 9.
+1.
+Napoje, według normy, o której mowa w § 1 ust. 1 pkt 3, otrzymuje funkcjonariusz wykonujący czynności służbowe:
+2.
+Napoje, według normy, o której mowa w § 1 ust. 1 pkt 3, wydaje się w warunkach, o których mowa w ust. 1, wyłącznie w naturze i tylko w dniach wykonywania czynności służbowych.
+§ 10.
+Równoważnik pieniężny w zamian za wyżywienie w wysokości 100% wypłaca się funkcjonariuszowi, jeżeli:
+1)
+rodzaj i warunki pełnienia służby uniemożliwiają korzystanie z przysługującego mu wyżywienia;
+2)
+nie ma możliwości żywienia ze względów techniczno-organizacyjnych.
+§ 11.
+Funkcjonariusz będący słuchaczem kursu stacjonarnego w Ośrodku, skierowany w ramach praktyk do wykonywania zadań służbowych poza Ośrodek, otrzymuje równoważnik pieniężny w zamian za wyżywienie zwiększony o 50%.
+§ 12.
+Wysokość równoważnika pieniężnego w zamian za wyżywienie wynosi:
+1)
+za podstawową normę wyżywienia – 75% kwoty diety określonej w przepisach w sprawie wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju, wydanych na podstawie art. 775§ 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320), zwanej dalej „dietą”;
+2)
+za dodatkową normę wyżywienia numer I – 35% diety;
+3)
+za dodatkową normę wyżywienia numer II – 30% diety;
+4)
+za dodatkową normę wyżywienia numer III – 25% diety.
+§ 13.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+## Załącznik nr 1 — – Ilość produktów żywnościowych zawartych w podstawowej oraz dodatkowych normach wyżywienia
+
+patrz oryginał
 

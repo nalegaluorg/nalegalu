@@ -8,12 +8,10 @@ pos: 1783
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
-
-*USTAWA z dnia 5 sierpnia 2022 r.*
+# Ustawa z dnia 5 sierpnia 2022 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,20 +22,255 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2022-08-05 |
 | Data wydania | 2022-08-25 |
+| Wejście w życie | 2022-09-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001783) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1783/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2022 r. poz. 1693 i 1768) wprowadza się następujące zmiany:
 
+- **1)** w art. 4: pkt 10 i 11 otrzymują brzmienie: „
+    - **a)**
+
+- **10)** droga ekspresowa – drogę: której jezdnie główne lub jezdnia główna są przeznaczone wyłącznie do ruchu pojazdów samochodowych, łączącą lub krzyżującą się na różnych poziomach z innymi drogami transportu lądowego i wodnego, z dopuszczeniem wyjątkowo skrzyżowań z drogami publicznymi, oznaczoną odpowiednimi znakami drogowymi;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **11)** autostrada – drogę: której jezdnie główne są przeznaczone wyłącznie do ruchu pojazdów samochodowych, posiadającą, z wyjątkiem uzasadnionych przypadków, oddzielne jezdnie dla obu kierunków ruchu oddzielone od siebie środkowym pasem dzielącym nieprzeznaczonym do ruchu lub oddzielone wyjątkowo – w inny sposób, łączącą lub krzyżującą się na różnych poziomach z innymi drogami transportu lądowego i wodnego, oznaczoną odpowiednimi znakami drogowymi; ” , uchyla się pkt 30 i 31, pkt 38 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **b)**
+    - **c)**
+
+- **38)** szczególnie zagrożeni uczestnicy ruchu drogowego – niezmotoryzowanych uczestników ruchu drogowego, w szczególności pieszych i kierujących rowerem, hulajnogą elektryczną, urządzeniem transportu osobistego lub urządzeniem wspomagającym ruch, a także kierujących motocyklem, osoby niepełnosprawne lub osoby o widocznej ograniczonej sprawności ruchowej; ” ;
+- **2)** w art. 20: pkt 10 otrzymuje brzmienie: „
+    - **a)**
+
+- **10)** przeprowadzanie okresowych kontroli stanu dróg i drogowych obiektów inżynierskich oraz przepraw promowych, w tym weryfikacja cech i wskazanie usterek, które wymagają prac konserwacyjnych lub naprawczych, ze szczególnym uwzględnieniem ich wpływu na stan bezpieczeństwa ruchu drogowego, w tym stan bezpieczeństwa szczególnie zagrożonych uczestników ruchu drogowego; ” , pkt 20 otrzymuje brzmienie: „
+    - **b)**
+
+- **20)** zarządzanie bezpieczeństwem dróg, o których mowa w rozdziale 2b. ” ;
+- **3)** po art. 24c dodaje się art. 24ca w brzmieniu: „ Art. 24ca. Kontrole, o których mowa w art. 20 pkt 10, na odcinku drogi przed i za tunelem, o którym mowa w art. 24a ust. 1, o długości uwzględniającej faktyczne lub potencjalne oddziaływanie tego tunelu na warunki ruchu pojazdów, przeprowadzają wspólnie zarządca drogi i urzędnik zabezpieczenia, o którym mowa w art. 24c ust. 1, co najmniej raz na 6 lat. ” ;
+- **4)** w tytule rozdziału 2b skreśla się wyrazy „w transeuropejskiej sieci drogowej”;
+- **5)** po tytule rozdziału 2b dodaje się art. 24ga w brzmieniu: „
+
+1. Przepisy niniejszego rozdziału stosuje się do:
+
+- **1)** dróg lub ich odcinków w transeuropejskiej sieci drogowej;
+- **2)** autostrad i dróg ekspresowych lub ich odcinków poza transeuropejską siecią drogową;
+- **3)** dróg krajowych lub ich odcinków, które łącznie spełniają następujące przesłanki: przebiegają poza granicami administracyjnymi miast oraz są budowane lub przebudowywane albo zostały wybudowane lub przebudowane, z udziałem środków pochodzących z budżetu Unii Europejskiej;
+    - **a)**
+    - **b)**
+
+- **4)** dróg wojewódzkich lub ich odcinków, które łącznie spełniają przesłanki, o których mowa w pkt 3, oraz nie zapewniają dostępu do nieruchomości przylegających do nich za pośrednictwem zjazdu.
+
+2. Przepisy art. 24ma-24mc stosuje się ponadto do dróg krajowych lub ich odcinków zarządzanych przez Generalnego Dyrektora Dróg Krajowych i Autostrad, które:
+
+- **1)** przebiegają w granicach administracyjnych miast lub
+- **2)** zostały wybudowane lub przebudowane bez udziału środków pochodzących z budżetu Unii Europejskiej.
+
+3. Przepisy art. 24i, art. 24j oraz art. 24l Generalny Dyrektor Dróg Krajowych i Autostrad może także stosować do zarządzanych przez siebie dróg krajowych lub ich odcinków, które:
+
+- **1)** przebiegają w granicach administracyjnych miast lub
+- **2)** są budowane albo przebudowywane bez udziału środków pochodzących z budżetu Unii Europejskiej.
+
+4. W przypadku gdy dany odcinek drogi, o którym mowa w ust. 1 pkt 3 lub 4, przebiega w części w granicach administracyjnych miasta, przepisy niniejszego rozdziału stosuje się do całego odcinka budowanego lub przebudowywanego albo wybudowanego lub przebudowanego, z udziałem środków pochodzących z budżetu Unii Europejskiej.
+
+5. W przypadku dróg, o których mowa w ust. 3, Generalny Dyrektor Dróg Krajowych i Autostrad do:
+
+- **1)** zgłoszenia przebudowy drogi albo
+- **2)** wniosku o wydanie decyzji o pozwoleniu na budowę, albo
+- **3)** wniosku o wydanie decyzji o zezwoleniu na realizację inwestycji drogowej, albo
+- **4)** zawiadomienia o zakończeniu budowy albo wniosku o udzielenie pozwolenia na użytkowanie nie dołącza wyników audytu bezpieczeństwa ruchu drogowego, o którym mowa w art. 24j ust. 1, i uzasadnienia, o którym mowa w art. 24l ust. 4.
+
+6. Przepisy niniejszego rozdziału stosuje się do przebudowy dróg obejmującej wykonywanie robót budowlanych, które bezpośrednio wpływają na natężenie ruchu drogowego, w szczególności przebudowę skrzyżowania lub wykonywanie robót budowlanych, w wyniku których powstają nowe części drogi przeznaczone do ruchu lub postoju pojazdów lub ruchu pieszych. ” ;
+
+- **6)** art. 24h otrzymuje brzmienie: „ Zarządzanie bezpieczeństwem dróg, o których mowa w art. 24ga, polega na:
+- **1)** przeprowadzaniu: oceny wpływu planowanej drogi na bezpieczeństwo ruchu drogowego, audytu bezpieczeństwa ruchu drogowego, oceny ryzyka wystąpienia wypadków i dotkliwości ich skutków, zwanej dalej „oceną ryzyka”;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** sporządzaniu oceny bezpieczeństwa ruchu drogowego obejmującej całą sieć dróg, zwanej dalej „oceną bezpieczeństwa”;
+- **3)** przeprowadzaniu ukierunkowanych kontroli bezpieczeństwa ruchu drogowego. ” ;
+- **7)** w art. 24i w ust. 2: pkt 5 otrzymuje brzmienie: „
+    - **a)**
+
+- **5)** natężenie ruchu drogowego i jego rodzaj, w tym szacowany ruch pieszych i kierujących rowerem określony na podstawie sposobu użytkowania przyległych gruntów; ” , po pkt 6 dodaje się pkt 6a w brzmieniu: „
+    - **b)**
+
+- **6a)** potrzeby szczególnie zagrożonych uczestników ruchu drogowego; ” ;
+- **8)** w art. 24j: w ust. 1 pkt 3 otrzymuje brzmienie: „
+    - **a)**
+
+- **3)** przed wszczęciem postępowania w sprawie wydania decyzji o pozwoleniu na użytkowanie drogi lub przed zawiadomieniem o zakończeniu budowy drogi albo przed zakończeniem przebudowy drogi; ” , w ust. 2 po pkt 9 dodaje się pkt 9a w brzmieniu: „
+    - **b)**
+
+- **9a)** potrzeby szczególnie zagrożonych uczestników ruchu drogowego; ” , w ust. 3 pkt 5 i 6 otrzymują brzmienie: „
+    - **c)**
+
+- **5)** uczestników ruchu drogowego, w tym szczególnie zagrożonych uczestników ruchu drogowego, oraz ich potrzeby w zakresie bezpiecznych stref parkingowych;
+- **6)** sposób dostosowania urządzeń bezpieczeństwa ruchu drogowego do potrzeb uczestników ruchu drogowego, w tym potrzeb szczególnie zagrożonych uczestników ruchu drogowego. ” , w ust. 4 pkt 1 otrzymuje brzmienie: „
+    - **d)**
+
+- **1)** bezpieczeństwo uczestników ruchu drogowego, w tym szczególnie zagrożonych uczestników ruchu drogowego, i widoczność w różnych warunkach pogodowych oraz porach dnia; ” , ust. 5 otrzymuje brzmienie: „
+    - **e)**
+
+5. Przy przeprowadzaniu audytu bezpieczeństwa ruchu drogowego, o którym mowa w ust. 1 pkt 4, uwzględnia się ocenę zachowań uczestników ruchu drogowego, w tym szczególnie zagrożonych uczestników ruchu drogowego, i wpływ tych zachowań na bezpieczeństwo ruchu drogowego. ” ;
+
+- **9)** uchyla się art. 24m;
+- **10)** po art. 24m dodaje się art. 24ma-art. 24mc w brzmieniu: „
+
+1. Zarządca drogi na drogach lub ich odcinkach, o których mowa w art. 24ga ust. 1 i 2, będących w użytkowaniu od co najmniej 3 lat, przeprowadza ocenę ryzyka, w ramach której ocenia parametry użytkowe i techniczne oraz stan techniczny dróg lub ich odcinków, a także ich wpływ na bezpieczeństwo ruchu drogowego.
+
+2. Ocenę ryzyka przeprowadza się co 5 lat na podstawie wizji lokalnej w terenie lub na podstawie nagrania wizualnego.
+
+3. Z oceny ryzyka zarządca drogi sporządza sprawozdanie, na które składają się w szczególności wyniki oceny ryzyka oraz syntetyczny opis przyjętych założeń do dokonanej oceny ryzyka wraz z ich uzasadnieniem.
+
+4. Zarządca drogi przekazuje sprawozdanie z oceny ryzyka, o którym mowa w ust. 3, do ministra właściwego do spraw transportu co 5 lat, w terminie do dnia 31 lipca danego roku kalendarzowego.
+
+1. Na podstawie sprawozdań z ocen ryzyka, o których mowa w art. 24ma ust. 3, minister właściwy do spraw transportu sporządza ocenę bezpieczeństwa, stanowiącą ocenę dróg, o których mowa w art. 24ma ust. 1, pod względem poziomu bezpieczeństwa ruchu drogowego.
+
+2. Na podstawie oceny bezpieczeństwa minister właściwy do spraw transportu dokonuje klasyfikacji sieci dróg, o których mowa w art. 24ma ust. 1, zgodnie z poziomem bezpieczeństwa ruchu drogowego na tych drogach, przypisując poszczególne drogi lub ich odcinki do jednej z co najmniej trzech kategorii bezpieczeństwa ruchu drogowego.
+
+3. Ocenę bezpieczeństwa przeprowadza się co 5 lat do dnia 31 grudnia danego roku kalendarzowego.
+
+4. Minister właściwy do spraw transportu publikuje wyniki klasyfikacji, o której mowa w ust. 2, na swojej stronie podmiotowej Biuletynu Informacji Publicznej.
+
+5. Minister właściwy do spraw transportu sporządza sprawozdanie dotyczące klasyfikacji, o której mowa w ust. 2, oraz przekazuje je do Komisji Europejskiej co 5 lat, w terminie do dnia 31 października danego roku kalendarzowego.
+
+6. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
+
+- **1)** metodę i sposób przeprowadzania oceny ryzyka, o której mowa w art. 24ma ust. 1;
+- **2)** sposób przekazywania sprawozdania z oceny ryzyka, o którym mowa w art. 24ma ust. 3, do ministra właściwego do spraw transportu;
+- **3)** zawartość i sposób prezentacji wyników oceny ryzyka w sprawozdaniu z oceny ryzyka, o którym mowa w art. 24ma ust. 3;
+- **4)** kategorie bezpieczeństwa ruchu drogowego.
+
+7. Minister właściwy do spraw transportu, wydając rozporządzenie, o którym mowa w ust. 6:
+
+- **1)** uwzględnia: liczbę i rodzaj wypadków drogowych, natężenie i rodzaj ruchu drogowego, parametry użytkowe i techniczne oraz stan techniczny drogi lub jej odcinka, analizę organizacji ruchu obowiązującej na danej drodze lub jej odcinku lub orientacyjne elementy ocen bezpieczeństwa ruchu drogowego obejmujących całą sieć określone w załączniku III do dyrektywy Parlamentu Europejskiego i Rady 2008/96/WE z dnia 19 listopada 2008 r. w sprawie zarządzania bezpieczeństwem infrastruktury drogowej (Dz. Urz. UE L 319 z 29.11.2008, str. 59), zwanej dalej „dyrektywą 2008/96/WE”, potrzebę uspójnienia wyników oceny ryzyka;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** może uwzględnić wytyczne, o których mowa w art. 5 ust. 5 dyrektywy 2008/96/WE, w przypadku ich wydania przez Komisję Europejską.
+
+1. Na podstawie wyników klasyfikacji bezpieczeństwa opublikowanych zgodnie z art. 24mb ust. 4 zarządcy dróg, którzy zarządzają poszczególnymi drogami lub ich odcinkami przypisanymi do kategorii o najniższym poziomie bezpieczeństwa oraz kategorii drugiej w kolejności o najniższym poziomie bezpieczeństwa, przeprowadzają na tych drogach lub odcinkach ukierunkowane kontrole bezpieczeństwa ruchu drogowego, z uwzględnieniem potrzeb szczególnie zagrożonych uczestników ruchu drogowego.
+
+2. Ukierunkowana kontrola bezpieczeństwa ruchu drogowego ma na celu analizę:
+
+- **1)** parametrów użytkowych i technicznych oraz stanu technicznego drogi lub jej odcinka oraz
+- **2)** organizacji ruchu obowiązującej na danej drodze lub jej odcinku, przez którą rozumie się mające wpływ na ruch drogowy: geometrię drogi i zakres dostępu do drogi, sposób umieszczania znaków pionowych, poziomych, sygnalizatorów i urządzeń bezpieczeństwa ruchu drogowego, zasady i sposób działania sygnalizacji, znaków świetlnych, znaków o zmiennej treści i innych zmiennych elementów pod kątem ich wpływu na stan bezpieczeństwa ruchu drogowego oraz ryzyko wystąpienia wypadków drogowych i innych zdarzeń niebezpiecznych.
+    - **a)**
+    - **b)**
+    - **c)**
+
+3. Ukierunkowana kontrola bezpieczeństwa ruchu drogowego jest przeprowadzana na podstawie wizji lokalnej dokonywanej na danej drodze lub jej odcinku przez zespół ekspertów powołany przez zarządcę drogi. W skład zespołu wchodzi co najmniej jeden audytor bezpieczeństwa ruchu drogowego.
+
+4. Przy przeprowadzaniu ukierunkowanej kontroli bezpieczeństwa ruchu drogowego zarządca drogi może wziąć pod uwagę orientacyjne elementy tych kontroli określone w załączniku IIa do dyrektywy 2008/96/WE.
+
+5. Ukierunkowana kontrola bezpieczeństwa ruchu drogowego jest przeprowadzana niezwłocznie, jednak nie później niż w terminie:
+
+- **1)** 12 miesięcy od dnia publikacji wyników, o których mowa w art. 24mb ust. 4 – w przypadku dróg lub ich odcinków, które zostały przypisane do kategorii o najniższym poziomie bezpieczeństwa;
+- **2)** 24 miesięcy od dnia publikacji wyników, o których mowa w art. 24mb ust. 4 – w przypadku dróg lub ich odcinków, które zostały przypisane do kategorii drugiej w kolejności o najniższym poziomie bezpieczeństwa.
+
+6. Na podstawie wyników ukierunkowanej kontroli bezpieczeństwa ruchu drogowego zespół ekspertów sporządza raport, w którym wskazuje zalecenia dla zarządcy drogi mające na celu zwiększenie poziomu bezpieczeństwa ruchu drogowego na danej drodze lub jej odcinku.
+
+7. Zarządca drogi uwzględnia zalecenia w ramach planu finansowania, o którym mowa w art. 20 pkt 2, oraz realizuje je w miarę dostępnych środków finansowych.
+
+8. W uzasadnionych przypadkach zarządca drogi może nie uwzględnić zaleceń, o których mowa w ust. 6.
+
+9. W przypadku, o którym mowa w ust. 8, zarządca drogi jest obowiązany do opracowania uzasadnienia.
+
+10. Zarządca drogi realizuje zalecenia, które dają możliwość wdrożenia środków o wysokim potencjale poprawy bezpieczeństwa ruchu drogowego i zmniejszenia kosztów wypadków, w pierwszej kolejności na drodze lub jej odcinku przypisanym do kategorii o najniższym poziomie bezpieczeństwa, a w przypadku braku drogi lub odcinka przypisanego do tej kategorii – na drodze lub odcinku przypisanym do kategorii drugiej w kolejności o najniższym poziomie bezpieczeństwa.
+
+11. W przypadku gdy dany zarządca drogi zarządza więcej niż jedną drogą lub jej odcinkiem przypisanymi do kategorii o najniższym poziomie bezpieczeństwa lub kategorii drugiej w kolejności o najniższym poziomie bezpieczeństwa, ustala on kolejność realizacji zaleceń i uwzględnia je w planie finansowania, o którym mowa w art. 20 pkt 2, oraz wprowadza zmiany w ustalonej kolejności realizacji zaleceń, z uwzględnieniem ust. 10.
+
+12. Zarządca drogi przesyła do ministra właściwego do spraw transportu raport wraz z zaleceniami, oraz uzasadnienie w terminie 6 miesięcy od sporządzenia tego raportu. ” ;
+
+- **11)** w art. 24n: po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **a)**
+
+2a. Ukończenie szkolenia i zdanie egzaminu na audytora bezpieczeństwa ruchu drogowego nie może nastąpić później niż w terminie 5 lat przed dniem złożenia wniosku o wydanie certyfikatu audytora bezpieczeństwa ruchu drogowego. ” , w ust. 3 i ust. 7 wyrazy „trzy lata” zastępuje się wyrazami „5 lat”, ust. 6 otrzymuje brzmienie: „
+
+- **b)**
+- **c)**
+
+6. Certyfikat audytora bezpieczeństwa ruchu drogowego wydaje, na wniosek kandydata na audytora bezpieczeństwa ruchu drogowego, na okres 5 lat minister właściwy do spraw transportu, po dostarczeniu przez tego kandydata oświadczenia o spełnieniu wymogów, o których mowa w ust. 2 pkt 1 i 2, oraz dokumentów potwierdzających spełnienie wymogów, o których mowa w ust. 2 pkt 3–6. ” ;
+
+- **12)** w art. 39: ust. 6 otrzymuje brzmienie: „
+    - **a)**
+
+6. Zarządca drogi jest obowiązany zlokalizować kanał technologiczny w pasie drogowym w trakcie budowy lub przebudowy dróg publicznych. ” , po ust. 6b dodaje się ust. 6ba w brzmieniu: „ 6ba. Obowiązek, o którym mowa w ust. 6, nie dotyczy:
+
+- **b)**
+- **1)** przebudowy drogi, jeżeli w istniejących granicach pasa drogowego brak jest miejsca na zlokalizowanie kanału technologicznego zgodnie z przepisami techniczno-budowlanymi, o których mowa w art. 7 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, o ile zostało to potwierdzone oświadczeniem inwestora dołączonym do dokumentacji organowi administracji architektoniczno-budowlanej, lub
+- **2)** budowy lub przebudowy drogi, jeżeli w pasie drogowym została już zlokalizowana kanalizacja kablowa lub został już zlokalizowany kanał technologiczny, lub
+- **3)** budowy lub przebudowy drogi, jeżeli roboty budowlane obejmują wyłącznie obiekty lub urządzenia wyposażenia technicznego drogi, w szczególności: przejścia dla pieszych, przejazdy dla rowerzystów, zatoki przystankowe, perony przystankowe, stanowiska postojowe lub urządzenia do oświetlenia drogi, lub
+- **4)** budowy lub przebudowy drogi o długości do 1000 metrów, jeżeli są spełnione łącznie następujące warunki: projektowany kanał technologiczny nie miałby kontynuacji po żadnej ze stron, w ciągu 3 lat nie jest planowana budowa lub przebudowa drogi umożliwiająca kontynuację projektowanego kanału technologicznego zgodnie z uchwałą budżetową jednostki samorządu terytorialnego, wieloletnią prognozą finansową jednostki samorządu terytorialnego, programem wieloletnim wydanym na podstawie art. 136 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych lub planami, o których mowa w art. 20 pkt 1 lub 2, lub
+    - **a)**
+    - **b)**
+
+- **5)** budowy lub przebudowy istniejącego drogowego obiektu inżynierskiego, w którym usytuowanie kanału technologicznego nie jest możliwe ze względu na rodzaj lub bezpieczeństwo konstrukcji, o ile zostało to potwierdzone oświadczeniem inwestora dołączonym do dokumentacji organowi administracji architektoniczno-budowlanej. ” ; ust. 6c otrzymuje brzmienie: „
+    - **c)**
+
+6c. Minister właściwy do spraw informatyzacji, na wniosek zarządcy drogi w drodze decyzji, zwalnia zarządcę drogi z obowiązku budowy kanału technologicznego, jeżeli:
+
+- **1)** w pobliżu pasa drogowego istnieje już: kanalizacja kablowa posiadająca wolne zasoby umożliwiające zlokalizowanie kabli światłowodowych lub kanał technologiczny posiadający wolne zasoby umożliwiające zlokalizowanie kabli światłowodowych, lub linia światłowodowa posiadająca wolne zasoby wystarczające do zaspokojenia potrzeb społecznych w zakresie dostępu do usług szerokopasmowych lub
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** lokalizowanie kanału technologicznego jest ekonomicznie nieracjonalne, lub
+- **3)** lokalizowanie kanału technologicznego jest technicznie niemożliwe. ” .
+
 **Art. 2.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2021 r. poz. 2351 oraz z 2022 r. poz. 88, 1557 i 1768) wprowadza się następujące zmiany:
+
+- **1)** w art. 30: w ust. 4a wprowadzenie do wyliczenia otrzymuje brzmienie: „ W zgłoszeniu przebudowy, o której mowa w art. 24ga ust. 6 ustawy z dnia 21 marca 1985 r. o drogach publicznych, drogi lub jej odcinka, o których mowa w art. 24ga ust. 1 pkt 1 i 2 tej ustawy, należy ponadto przedstawić: ” , po ust. 4a dodaje się ust. 4aa w brzmieniu: „ 4aa. W zgłoszeniu przebudowy, o której mowa w art. 24ga ust. 6 ustawy z dnia 21 marca 1985 r. o drogach publicznych, drogi krajowej lub jej odcinka innych niż wymienione w art. 24ga ust. 1 pkt 1 i 2 tej ustawy albo drogi wojewódzkiej lub jej odcinka należy ponadto przedstawić:
+    - **a)**
+    - **b)**
+
+- **1)** wynik audytu bezpieczeństwa ruchu drogowego, o którym mowa w art. 24l ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych, albo jego kopię, a także uzasadnienie zarządcy drogi, o którym mowa w art. 24l ust. 4 tej ustawy, albo jego kopię albo
+- **2)** oświadczenie zarządcy drogi, że nie ubiega się i nie będzie się ubiegał o dofinansowanie zamierzenia budowlanego z budżetu Unii Europejskiej. ” ;
+- **2)** w art. 33 w ust. 2: w pkt 7 wprowadzenie do wyliczenia otrzymuje brzmienie: „ w przypadku drogi lub jej odcinka, o których mowa w art. 24ga ust. 1 pkt 1 i 2 ustawy z dnia 21 marca 1985 r. o drogach publicznych: ” , po pkt 7 dodaje się pkt 7a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **7a)** w przypadku drogi krajowej lub jej odcinka innych niż wymienione w art. 24ga ust. 1 pkt 1 i 2 ustawy z dnia 21 marca 1985 r. o drogach publicznych albo drogi wojewódzkiej lub jej odcinka należy ponadto przedstawić: wynik audytu bezpieczeństwa ruchu drogowego, o którym mowa w art. 24l ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych, a także uzasadnienie zarządcy drogi, o którym mowa w art. 24l ust. 4 tej ustawy, albo oświadczenie zarządcy drogi, że nie ubiega się i nie będzie się ubiegał o dofinansowanie zamierzenia budowlanego z budżetu Unii Europejskiej; ” ;
+    - **a)**
+    - **b)**
+
+- **3)** w art. 57 w ust. 1 w pkt 8: wprowadzenie do wyliczenia otrzymuje brzmienie: „ w przypadku drogi lub jej odcinka, o których mowa w art. 24ga ust. 1 pkt 1 i 2 ustawy z dnia 21 marca 1985 r. o drogach publicznych: ” , w lit. b kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **9)** w przypadku drogi krajowej lub jej odcinka innych niż wymienione w art. 24ga ust. 1 pkt 1 i 2 ustawy z dnia 21 marca 1985 r. o drogach publicznych albo drogi wojewódzkiej lub jej odcinka należy ponadto przedstawić: wynik audytu bezpieczeństwa ruchu drogowego, o którym mowa w art. 24l ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych, a także uzasadnienie zarządcy drogi, o którym mowa w art. 24l ust. 4 tej ustawy, albo oświadczenie zarządcy drogi, że nie ubiega się i nie będzie się ubiegał o dofinansowanie zamierzenia budowlanego z budżetu Unii Europejskiej. ” .
+    - **a)**
+    - **b)**
 
 **Art. 3.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2022 r. poz. 988, 1002 i 1768) wprowadza się następujące zmiany:
 
+- **1)** w art. 130b: w ust. 1 wyrazy „w transeuropejskiej sieci drogowej, o której mowa w art. 4 pkt 26” zastępuje się wyrazami „na drodze, o której mowa w art. 24ga ust. 1 pkt 1 i 2”, w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) możliwie dokładne określenie miejsca wypadku, w tym jego współrzędne geograficzne pozyskiwane za pośrednictwem Globalnego Systemu Nawigacji Satelitarnej (GNSS); ” , – pkt 5 otrzymuje brzmienie: „ 5) informację o skutkach wypadku, w szczególności liczbę zabitych i rannych; ” ;
+    - **a)**
+    - **b)**
+
+- **2)** w art. 140c w ust. 2 w pkt 10 wyrazy „w transeuropejskiej sieci drogowej” zastępuje się wyrazami „na drogach, o których mowa w art. 24ga ust. 1 pkt 1 i 2 ustawy z dnia 21 marca 1985 r. o drogach publicznych”.
+
 **Art. 4.** W ustawie z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. z 2022 r. poz. 176 i 1768) w art. 11d w ust. 1 wprowadza się następujące zmiany:
+
+- **1)** w pkt 7a wprowadzenie do wyliczenia otrzymuje brzmienie: „ w przypadku drogi lub jej odcinka, o których mowa w art. 24ga ust. 1 pkt 1 i 2 ustawy z dnia 21 marca 1985 r. o drogach publicznych: ” ;
+- **2)** po pkt 7a dodaje się pkt 7aa w brzmieniu: „ 7aa) w przypadku drogi krajowej lub jej odcinka innych niż wymienione w art. 24ga ust. 1 pkt 1 i 2 ustawy z dnia 21 marca 1985 r. o drogach publicznych albo drogi wojewódzkiej lub jej odcinka należy ponadto przedstawić: wynik audytu bezpieczeństwa ruchu drogowego, o którym mowa w art. 24l ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych, a także uzasadnienie zarządcy drogi, o którym mowa w art. 24l ust. 4 tej ustawy, albo oświadczenie zarządcy drogi, że nie ubiega się i nie będzie się ubiegał o dofinansowanie zamierzenia budowlanego z budżetu Unii Europejskiej; ” .
+    - **a)**
+    - **b)**
 
 **Art. 5.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2022 r. poz. 1029, 1260 i 1261) użyte w:
 
-**Art. 6.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2021 r. poz. 2095, z późn. zm. ) uchyla się art. 15zzzu.
+- **1)** art. 62a w ust. 1 w pkt 4 wyrazy „drogi w transeuropejskiej sieci drogowej” zastępuje się wyrazami „drogi, o której mowa w art. 24ga ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych,”;
+- **2)** art. 62a w ust. 1 w pkt 10 oraz w art. 66 w ust. 1 w pkt 6 i w ust. 1a wyrazy „drogi w transeuropejskiej sieci drogowej” zastępuje się wyrazami „drogi, o której mowa w art. 24ga ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych”.
+
+**Art. 6.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2021 r. poz. 2095, z późn. zm.) uchyla się art. 15zzzu.
 
 **Art. 7.** Pierwsze sprawozdanie, o którym mowa w art. 24ma ust. 4 ustawy zmienianej w art. 1, zarządca drogi przekazuje w terminie do dnia 31 lipca 2024 r.
 
@@ -66,14 +299,14 @@ source: "isap-pdf"
 - **1)** wszczęto postępowanie o udzielenie zamówienia publicznego na opracowanie karty informacyjnej przedsięwzięcia lub raportu o oddziaływaniu przedsięwzięcia na środowisko na potrzeby decyzji o środowiskowych uwarunkowaniach,
 - **2)** został złożony wniosek o wydanie decyzji o zezwoleniu na realizację inwestycji drogowej,
 - **3)** został złożony wniosek o wydanie decyzji o pozwoleniu na budowę,
-- **4)** został złożony wniosek o wydanie decyzji o pozwoleniu na użytkowanie do czasu wydania tej decyzji lub zgłoszono prowadzenie robót budowlanych lub zawiadomiono o zakończeniu budowy obiektu budowlanego – stosuje się przepisy art. 24i i art. 24j ustawy zmienianej w art. 1, art. 30, art. 33 oraz art. 57 ustawy zmienianej w art. 2, art. 11d ustawy zmienianej w art. 4, a także art. 62a oraz art. 66 ustawy zmienianej w art. 5, w brzmieniu dotychczasowym.
+- **4)** został złożony wniosek o wydanie decyzji o pozwoleniu na użytkowanie do czasu wydania tej decyzji lub zgłoszono prowadzenie robót budowlanych lub zawiadomiono o zakończeniu budowy obiektu budowlanego stosuje się przepisy art. 24i i art. 24j ustawy zmienianej w art. 1, art. 30, art. 33 oraz art. 57 ustawy zmienianej w art. 2, art. 11d ustawy zmienianej w art. 4, a także art. 62a oraz art. 66 ustawy zmienianej w art. 5, w brzmieniu dotychczasowym.
 
 2. Do dróg znajdujących się w transeuropejskiej sieci drogowej, dla których przed dniem wejścia w życie ustawy:
 
 - **1)** wszczęto postępowanie o udzielenie zamówienia publicznego na opracowanie karty informacyjnej przedsięwzięcia lub raportu o oddziaływaniu przedsięwzięcia na środowisko na potrzeby decyzji o środowiskowych uwarunkowaniach,
 - **2)** został złożony wniosek o wydanie decyzji o zezwoleniu na realizację inwestycji drogowej,
 - **3)** został złożony wniosek o wydanie decyzji o pozwoleniu na budowę,
-- **4)** został złożony wniosek o wydanie decyzji o pozwoleniu na użytkowanie do czasu wydania tej decyzji lub zgłoszono prowadzenie robót budowlanych lub zawiadomiono o zakończeniu budowy obiektu budowlanego – stosuje się przepisy art. 24i i art. 24j ustawy zmienianej w art. 1 w brzmieniu dotychczasowym.
+- **4)** został złożony wniosek o wydanie decyzji o pozwoleniu na użytkowanie do czasu wydania tej decyzji lub zgłoszono prowadzenie robót budowlanych lub zawiadomiono o zakończeniu budowy obiektu budowlanego stosuje się przepisy art. 24i i art. 24j ustawy zmienianej w art. 1 w brzmieniu dotychczasowym.
 
 **Art. 13.**
 

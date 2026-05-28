@@ -8,12 +8,10 @@ pos: 89
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej
-
-*USTAWA z dnia 16 grudnia 2010 r.*
+# Ustawa z dnia 16 grudnia 2010 r. o zmianie ustawy o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,11 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2010-12-16 |
 | Data wydania | 2011-01-27 |
+| Wejście w życie | 2011-02-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110180089) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/89/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz. U. Nr 29, poz. 154, z późn. zm. ) uchyla się art. 62, art. 63 ust. 4–8, art. 64, art. 65 i art. 67.
+**Art. 1.** W ustawie z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz. U. Nr 29, poz. 154, z późn. zm.) uchyla się art. 62, art. 63 ust. 4–8, art. 64, art. 65 i art. 67.
 
 **Art. 2.**
 

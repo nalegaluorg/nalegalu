@@ -8,10 +8,10 @@ pos: 2180
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 października 2023 r.
+# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 3 października 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie wzoru rocznego zestawienia zbiorczego przyczyn przebywania funkcjonariuszy Służby Ochrony Państwa na zwolnieniach lekarskich
 
 | Pole | Wartość |
 |---|---|
@@ -25,6 +25,32 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002180) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2180/text.pdf) |
 
-ROCZNE ZESTAWIENIE ZBIORCZE PRZYCZYN PRZEBYWANIA FUNKCJONARIUSZY SŁUŻBY OCHRONY PAŃSTWA NA ZWOLNIENIACH LEKARSKICH W ........................ ROKU Tabela nr 1 Przeciętny stan osobowy funkcjonariuszy Służby Ochrony Państwa w danym roku kalendarzowym Tabela nr 2 Lp. Przyczyny przebywania funkcjonariuszy Służby Ochrony Państwa na zwolnieniu lekarskim lub okoliczności ich przebywania na tym zwolnieniu Liczba dni udzielonych zwolnień lekarskich ogółem Średnia liczba dni przebywania funkcjonariuszy Służby Ochrony Państwa na zwolnieniu lekarskim Średnia roczna liczba godzin niewykonywania obowiązków przez funkcjonariuszy Służby Ochrony Państwa 1 2 3 4 5 1 choroba funkcjonariusza, w tym niemożność wykonywania zajęć służbowych z przyczyn określonych w art. 6 ust. 2 ustawy z dnia 25 czerwca 1999 r.
-o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2022 r. poz. 1732, 2140 i 2476 oraz z 2023 r. poz. 641) art. 194 ust. 2 pkt 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa, zwanej dalej „ustawą o Służbie Ochrony Państwa” 2 oddawanie krwi lub jej składników w jednostkach organizacyjnych publicznej służby krwi lub okresowe badanie lekarskie dawców krwi art. 194 ust. 2 pkt 2 ustawy o Służbie Ochrony Państwa 3 konieczność osobistego sprawowania opieki nad chorym dzieckiem własnym lub małżonka funkcjonariusza, dzieckiem przysposobionym, dzieckiem przyjętym na wychowanie i utrzymanie, do ukończenia przez nie 14. roku życia art. 194 ust. 2 pkt 3 ustawy o Służbie Ochrony Państwa 4 konieczność osobistego sprawowania opieki nad chorym członkiem rodziny art. 194 ust. 2 pkt 4 ustawy o Służbie Ochrony Państwa 5 konieczność osobistego sprawowania opieki nad dzieckiem własnym lub małżonka funkcjonariusza, dzieckiem przysposobionym, dzieckiem przyjętym na wychowanie i utrzymanie, do ukończenia przez nie 8. roku życia art. 194 ust. 2 pkt 5 ustawy o Służbie Ochrony Państwa 6 wypadek pozostający w związku z pełnieniem służby art. 194 ust. 5 pkt 1 ustawy o Służbie Ochrony Państwa 7 choroba powstała w związku ze szczególnymi właściwościami lub warunkami służby art. 194 ust. 5 pkt 2 ustawy o Służbie Ochrony Państwa 8 wypadek w drodze do miejsca pełnienia służby lub w drodze powrotnej ze służby art. 194 ust. 5 pkt 3 ustawy o Służbie Ochrony Państwa 9 choroba przypadająca w czasie ciąży art. 194 ust. 5 pkt 4 ustawy o Służbie Ochrony Państwa 10 poddanie się niezbędnym badaniom lekarskim przewidzianym dla kandydatów na dawców komórek, tkanek i narządów oraz poddanie się zabiegowi pobrania komórek, tkanek i narządów art. 194 ust. 5 pkt 5 ustawy o Służbie Ochrony Państwa 11 przebywanie na obserwacji w podmiocie leczniczym w wyniku skierowania przez komisję lekarską art. 194 ust. 5 pkt 7 ustawy o Służbie Ochrony Państwa 11a stwierdzenie zakażenia lub zachorowania na chorobę, o której mowa w przepisach o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, przy czym stwierdzone zakażenie lub zachorowanie powstało w związku z wykonywaniem zadań służbowych w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii z powodu tej choroby art. 194 ust. 5 pkt 8 ustawy o Służbie Ochrony Państwa RAZEM (lp. 1–11a) ______ ŚREDNIA (lp. 1–11a) ______ 12 zwolnienie od zajęć służbowych w wyniku popełnienia przez inną osobę umyślnego czynu zabronionego w związku z wykonywaniem przez funkcjonariusza czynności służbowych, stwierdzonego orzeczeniem wydanym przez uprawniony organ art. 194 ust. 6 pkt 1 ustawy o Służbie Ochrony Państwa 13 zwolnienie od zajęć służbowych na skutek czynów o charakterze bohaterskim dokonanych w szczególnie niebezpiecznych warunkach, z wykazaniem wyjątkowej odwagi, z narażeniem życia lub zdrowia, w obronie prawa, nienaruszalności granic państwowych, życia, mienia lub bezpieczeństwa obywateli art. 194 ust. 6 pkt 2 ustawy o Służbie Ochrony Państwa 14 podleganie obowiązkowej kwarantannie, izolacji lub izolacji w warunkach domowych, o których mowa w przepisach o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, jeżeli podleganie tej kwarantannie lub izolacji powstało w związku z wykonywaniem zadań służbowych w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii z powodu tej choroby art. 194 ust. 6 pkt 3 ustawy o Służbie Ochrony Państwa RAZEM (lp. 12–14) ______ ŚREDNIA (lp. 12–14) ______ –––––––––––––––––––––––
+Treść obwieszczenia
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 28 sierpnia 2018 r. w sprawie wzoru rocznego zestawienia zbiorczego przyczyn przebywania funkcjonariuszy Służby Ochrony Państwa na zwolnieniach lekarskich
+
+## Załącznik nr 1 — – Roczne zestawienie zbiorcze przyczyn przebywania funkcjonariuszy Służby Ochrony Państwa na zwolnieniach lekarskich (wzór)
+
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 28 sierpnia 2018 r. w sprawie wzoru rocznego zestawienia zbiorczego przyczyn przebywania funkcjonariuszy Służby Ochrony Państwa na zwolnieniach lekarskich (Dz. U. poz. 1744), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 10 marca 2021 r. zmieniającym rozporządzenie w sprawie wzoru rocznego zestawienia zbiorczego przyczyn przebywania funkcjonariuszy Służby Ochrony Państwa na zwolnieniach lekarskich (Dz. U. poz. 466).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 10 marca 2021 r. zmieniającego rozporządzenie w sprawie wzoru rocznego zestawienia zbiorczego przyczyn przebywania funkcjonariuszy Służby Ochrony Państwa na zwolnieniach lekarskich (Dz. U. poz. 466), które stanowią:
+„
+§ 2.
+Do rocznego zestawienia zbiorczego przyczyn przebywania funkcjonariuszy Służby Ochrony Państwa na zwolnieniach lekarskich w 2020 r. przepisy rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem stosuje się od dnia 5 września 2020 r.
+§ 3.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+” .
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 28 sierpnia 2018 r. w sprawie wzoru rocznego zestawienia zbiorczego przyczyn przebywania funkcjonariuszy Służby Ochrony Państwa na zwolnieniach lekarskich
+Na podstawie art. 201 ust. 3 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2023 r. poz. 66, z późn. zm.) zarządza się, co następuje:
+§ 1.
+Określa się wzór rocznego zestawienia zbiorczego przyczyn przebywania funkcjonariuszy Służby Ochrony Państwa na zwolnieniach lekarskich, który stanowi załącznik do rozporządzenia.
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2600 oraz z 2023 r. poz. 240, 347, 641, 1586 i 1860. 3) Rozporządzenie zostało ogłoszone w dniu 7 września 2018 r. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych z dnia 29 maja 2014 r. w sprawie wzoru rocznego zestawienia zbiorczego przyczyn przebywania funkcjonariuszy Biura Ochrony Rządu na zwolnieniach lekarskich (Dz. U. z 2016 r. poz. 1130), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 389 ust. 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650, 730, 1544, 1562 i 1669).
+
+## Załącznik nr 1 — – Roczne zestawienie zbiorcze przyczyn przebywania funkcjonariuszy Służby Ochrony Państwa na zwolnieniach lekarskich (wzór)
+
+patrz oryginał
+5) Ze zmianami wprowadzonymi przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 10 marca 2021 r. zmieniającego rozporządzenie w sprawie wzoru rocznego zestawienia zbiorczego przyczyn przebywania funkcjonariuszy Służby Ochrony Państwa na zwolnieniach lekarskich (Dz. U. poz. 466), które weszło w życie z dniem 23 marca 2021 r.
 

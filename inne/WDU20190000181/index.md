@@ -8,10 +8,10 @@ pos: 181
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 stycznia 2019 OBWIESZCZENIE MINISTRA INWESTYCJI I ROZWOJU dnia 10 stycznia 2019 ogłoszenia jednolitego tekstu rozporządzenia Ministra Gospodarki udzielania finansowej na inwestycje typu centra badawczo-rozwojowe przedsiębiorców ramach Programu Operacyjnego Inteligentny Rozwój, 2014–2020
+# Obwieszczenie Ministra Inwestycji i Rozwojuz dnia 10 stycznia 2019 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Gospodarki w sprawie udzielania pomocy finansowej na inwestycje typu centra badawczo-rozwojowe przedsiębiorców w ramach Programu Operacyjnego Inteligentny Rozwój, 2014–2020
 
 | Pole | Wartość |
 |---|---|
@@ -25,44 +25,101 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000181) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/181/text.pdf) |
 
-1. Na podstawie art. 16 ust. 3 ustawy dnia 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych 2017 1523 2018 2243) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Gospodarki dnia 3 czerwca 2015 udzielania finansowej na inwestycje typu centra badawczo-rozwojowe przedsiębiorców ramach Programu Operacyjnego Inteligentny Rozwój, 2014–2020 787), uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Finansów dnia 18 grudnia 2017 zmieniającym rozporządzenie udzielania finansowej na inwestycje typu centra badawczo-rozwojowe przedsiębiorców ramach Programu Operacyjnego Inteligentny Rozwój, 2014–2020
-2413).
-2. Podany załączniku niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje 2 3 rozporządzenia Ministra Finansów dnia 18 grudnia 2017 zmieniającego rozporządzenie udzielania finansowej na inwestycje typu centra badawczo-rozwojowe przedsiębiorców ramach Programu Operacyjnego Inteligentny Rozwój, 2014–2020 2413), które stanowią: „§ 2. 1. Z dniem wejścia życie niniejszego rozporządzenia minister właściwy spraw rozwoju regionalnego staje się, miejsce ministra właściwego spraw gospodarki, stroną umów dofinansowanie projektu zawartych na podstawie rozporządzenia zmienianego brzmieniu dotychczasowym.
-2. Organem właściwym prowadzenia postępowań zakresie wyboru projektów dofinansowania, udzielania dofinansowania rozpatrywania protestów, wszczętych niezakończonych przed dniem wejścia życie niniejszego rozporządzenia, minister właściwy spraw rozwoju regionalnego.
-3. Rozporządzenie wchodzi życie dniem następującym po dniu ogłoszenia.”.
-Minister Inwestycji Rozwoju: J. Kwieciński ROZPORZĄDZENIE MINISTRA GOSPODARKI dnia 3 czerwca 2015 udzielania finansowej na inwestycje typu centra badawczo-rozwojowe przedsiębiorców ramach Programu Operacyjnego Inteligentny Rozwój, 2014‒2020 Na podstawie art. 27 ust. 4 ustawy dnia 11 lipca 2014 zasadach realizacji programów zakresie polityki spójności finansowanych perspektywie finansowej 2014‒2020 2018 1431 1544 2019 60) zarządza się, co następuje:
-1. Rozporządzenie określa szczegółowe przeznaczenie, warunki tryb udzielania finansowej na inwestycje typu centra badawczo-rozwojowe ramach Programu Operacyjnego Inteligentny Rozwój, 2014‒2020.
-2. 1. Pomoc finansowa, której mowa 1, udzielana formie bezzwrotnego wsparcia finansowego, zwanego dalej „pomocą”.
-2. Pomoc przeznaczona na tworzenie lub rozwój inwestycji typu centra badawczo-rozwojowe przedsiębiorców.
-3. Przez inwestycję typu centrum badawczo-rozwojowe rozumie się jednostkę organizacyjną lub wyodrębnioną organizacyjnie jednostkę rozpoczynającą lub rozwijającą działalność, której głównym zadaniem prowadzenie przez wykwalifikowaną kadrę badań naukowych prac rozwojowych wydzielonych przystosowanych tego typu działalności pomieszczeniach wykorzystaniem infrastruktury badawczo-rozwojowej.
-3. 1. Pomoc udzielana przedsiębiorcy, rozumieniu art. załącznika I rozporządzenia Komisji (UE) nr 651/2014 dnia 17 czerwca 2014 uznającego niektóre rodzaje za zgodne rynkiem wewnętrznym zastosowaniu art. 107 108 Traktatu Urz. UE L 187 26.06.2014, str. 1), zwanego dalej „rozporządzeniem Komisji”.
-2. Przedsiębiorca ubiegający się udzielenie składa wniosek ministra właściwego spraw rozwoju regionalnego.
-3. Pomoc udzielana pod warunkiem złożenia wniosku przed rozpoczęciem prac nad projektem.
-4. 1. Pomoc stanowi regionalną pomoc inwestycyjną, udzielaną zgodnie warunkami określonymi art. 14 rozporządzenia Komisji, pomoc na projekty badawczo-rozwojowe, udzielaną zgodnie warunkami określonymi art. 25 tego rozporządzenia.
-2. Pomoc, której mowa ust. 1, może być udzielona, jeżeli są spełnione warunki określone rozdziale I rozporządzenia Komisji.
-3. Projekty badawczo-rozwojowe, których mowa ust. 1, stanowią eksperymentalne prace rozwojowe rozumieniu art. 2 pkt 86 rozporządzenia Komisji.
-5. 1. Kosztami kwalifikowanymi są koszty poniesione po dniu złożenia wniosku dofinansowanie projektu dnia wskazanego umowie dofinansowanie projektu.
-1) nabycia nieruchomości zabudowanych niezabudowanych (w tym prawa użytkowania wieczystego), jeżeli spełniają łącznie następujące warunki:
-a) nieruchomość niezbędna realizacji projektu,
-b) przedsiębiorca przedstawi opinię rzeczoznawcy majątkowego potwierdzającą, że cena nabycia nie przekracza wartości rynkowej nieruchomości określonej na dzień nabycia,
-c) nieruchomość będzie służyła wyłącznie realizacji projektu, zgodnie przeznaczeniem określonym umowie dofinansowanie projektu,
-d) przypadku nieruchomości zabudowanych przedsiębiorca dodatkowo przedstawi opinię rzeczoznawcy budowlanego potwierdzającą, że nieruchomość może być używana określonym celu, zgodnym celami projektu, lub określającą zakres niezbędnych zmian lub ulepszeń;
-2) nabycia albo wytworzenia środków trwałych innych niż określone pkt wraz kosztem instalacji uruchomienia;
-3) nabycia robót materiałów budowlanych;
-4) nabycia wartości niematerialnych prawnych formie patentów, licencji, know-how innych praw własności intelektualnej, jeżeli spełniają łącznie następujące warunki:
-a) będą wykorzystywane wyłącznie przedsiębiorstwie przedsiębiorcy, którym prowadzony projekt,
-b) będą podlegać amortyzacji zgodnie przepisami rachunkowości,
-c) będą nabyte na warunkach rynkowych od osób trzecich niepowiązanych przedsiębiorcą,
-d) będą stanowić aktywa przedsiębiorcy pozostaną jego przedsiębiorstwie przez co najmniej 5 lat od dnia zakończenia realizacji projektu, a przypadku mikroprzedsiębiorcy, małego lub średniego przedsiębiorcy ‒ przez co najmniej 3 lata;
-5) spłaty rat leasingu nieruchomości zabudowanych niezabudowanych poniesione przez korzystającego dnia zakończenia realizacji projektu, wysokości ich wartości początkowej dnia zawarcia umowy leasingu, pod warunkiem że umowa leasingu będzie obejmowała okres co najmniej 5 lat od przewidywanego terminu zakończenia realizacji projektu, a przypadku mikroprzedsiębiorcy, małego lub średniego przedsiębiorcy ‒ okres co najmniej 3 lat;
-6) spłaty rat wartości początkowej środków trwałych innych niż określone pkt 4 poniesione przez korzystającego tytułu umowy leasingu prowadzącej przeniesienia własności tych środków na korzystającego, wyłączeniem leasingu zwrotnego.
-3. Koszty sporządzenia opinii rzeczoznawcy, których mowa ust. 2 pkt 1, nie stanowią kosztu kwalifikowanego.
-4. Maksymalną intensywność inwestycyjnej na pokrycie kosztów kwalifikowanych, których mowa ust. 2, określa się zgodnie rozporządzeniem Rady Ministrów dnia 30 czerwca 2014 ustalenia mapy na lata 2014‒2020 878).
-5. Do kosztów kwalifikowanych ramach na projekty badawczo-rozwojowe zalicza się koszty odpowiedniej wiedzy technicznej koszty doradztwa równorzędnych usług wykorzystywanych na potrzeby projektu.
-6. Maksymalną intensywność na projekty badawczo-rozwojowe przeznaczonej na pokrycie kosztów kwalifikowanych, których mowa ust. 5, określa się zgodnie art. 25 ust. 5 lit. c ust. 6 rozporządzenia Komisji.
-7. Łączna wartość kosztów kwalifikowanych, których mowa ust. 2 pkt 5, nie może przekraczać 10% kosztów kwalifikowanych, których mowa ust. 2 5 6.
-6. 1. Przedsiębiorca może objąć wnioskiem koszty zakupu materiałów produktów związanych bezpośrednio realizacją projektu.
-2. Dofinansowanie kosztów, których mowa ust. 1, odbywa się zgodnie zasadami określonymi rozporządzeniu Komisji (UE) nr 1407/2013 dnia 18 grudnia 2013 stosowania art. 107 108 Traktatu funkcjonowaniu Unii Europejskiej de minimis Urz. UE L 352 24.12.2013, str. 1).
-2018 362).
-9. Rozporządzenie wchodzi życie dniem następującym po dniu ogłoszenia .
+Treść obwieszczenia
+Załącznik – Tekst jednolity rozporządzenia Ministra Gospodarki z dnia 3 czerwca 2015 r. w sprawie udzielania pomocy finansowej na inwestycje typu centra badawczo-rozwojowe przedsiębiorców w ramach Programu Operacyjnego Inteligentny Rozwój, 2014–2020
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Gospodarki z dnia 3 czerwca 2015 r. w sprawie udzielania pomocy finansowej na inwestycje typu centra badawczo-rozwojowe przedsiębiorców w ramach Programu Operacyjnego Inteligentny Rozwój, 2014–2020 (Dz. U. poz. 787), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Rozwoju i Finansów z dnia 18 grudnia 2017 r. zmieniającym rozporządzenie w sprawie udzielania pomocy finansowej na inwestycje typu centra badawczo-rozwojowe przedsiębiorców w ramach Programu Operacyjnego Inteligentny Rozwój, 2014–2020 (Dz. U. poz. 2413).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Rozwoju i Finansów z dnia 18 grudnia 2017 r. zmieniającego rozporządzenie w sprawie udzielania pomocy finansowej na inwestycje typu centra badawczo-rozwojowe przedsiębiorców w ramach Programu Operacyjnego Inteligentny Rozwój, 2014–2020 (Dz. U. poz. 2413), które stanowią:
+„
+§ 2.
+1.
+Z dniem wejścia w życie niniejszego rozporządzenia minister właściwy do spraw rozwoju regionalnego staje się, w miejsce ministra właściwego do spraw gospodarki, stroną umów o dofinansowanie projektu zawartych na podstawie rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
+2.
+Organem właściwym do prowadzenia postępowań w zakresie wyboru projektów do dofinansowania, udzielania dofinansowania oraz rozpatrywania protestów, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, jest minister właściwy do spraw rozwoju regionalnego.
+§ 3.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+” .
+1) Minister Inwestycji i Rozwoju kieruje działem administracji rządowej ‒ rozwój regionalny, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175).
+Załącznik – Tekst jednolity rozporządzenia Ministra Gospodarki z dnia 3 czerwca 2015 r. w sprawie udzielania pomocy finansowej na inwestycje typu centra badawczo-rozwojowe przedsiębiorców w ramach Programu Operacyjnego Inteligentny Rozwój, 2014–2020
+Na podstawie art. 27 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2018 r. poz. 1431 i 1544 oraz z 2019 r. poz. 60) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania pomocy finansowej na inwestycje typu centra badawczo-rozwojowe w ramach Programu Operacyjnego Inteligentny Rozwój, 2014–2020.
+§ 2.
+1.
+Pomoc finansowa, o której mowa w § 1, udzielana jest w formie bezzwrotnego wsparcia finansowego, zwanego dalej „pomocą”.
+2.
+Pomoc jest przeznaczona na tworzenie lub rozwój inwestycji typu centra badawczo-rozwojowe przedsiębiorców.
+3.
+Przez inwestycję typu centrum badawczo-rozwojowe rozumie się jednostkę organizacyjną lub wyodrębnioną organizacyjnie jednostkę rozpoczynającą lub rozwijającą działalność, której głównym zadaniem jest prowadzenie przez wykwalifikowaną kadrę badań naukowych i prac rozwojowych w wydzielonych i przystosowanych do tego typu działalności pomieszczeniach oraz z wykorzystaniem infrastruktury badawczo-rozwojowej.
+§ 3.
+1.
+Pomoc jest udzielana przedsiębiorcy, w rozumieniu art. 1 załącznika I rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1), zwanego dalej „rozporządzeniem Komisji”.
+2.
+Przedsiębiorca ubiegający się o udzielenie pomocy składa wniosek do ministra właściwego do spraw rozwoju regionalnego.
+3.
+Pomoc jest udzielana pod warunkiem złożenia wniosku przed rozpoczęciem prac nad projektem.
+§ 4.
+1.
+Pomoc stanowi regionalną pomoc inwestycyjną, udzielaną zgodnie z warunkami określonymi w art. 14 rozporządzenia Komisji, oraz pomoc na projekty badawczo-rozwojowe, udzielaną zgodnie z warunkami określonymi w art. 25 tego rozporządzenia.
+2.
+Pomoc, o której mowa w ust. 1, może być udzielona, jeżeli są spełnione warunki określone w rozdziale I rozporządzenia Komisji.
+3.
+Projekty badawczo-rozwojowe, o których mowa w ust. 1, stanowią eksperymentalne prace rozwojowe w rozumieniu art. 2 pkt 86 rozporządzenia Komisji.
+§ 5.
+1.
+Kosztami kwalifikowanymi są koszty poniesione po dniu złożenia wniosku o dofinansowanie projektu do dnia wskazanego w umowie o dofinansowanie projektu.
+2.
+Do kosztów kwalifikowanych w ramach regionalnej pomocy inwestycyjnej zalicza się koszty:
+1)
+nabycia nieruchomości zabudowanych i niezabudowanych (w tym prawa użytkowania wieczystego), jeżeli spełniają łącznie następujące warunki:
+a)
+nieruchomość jest niezbędna do realizacji projektu,
+b)
+przedsiębiorca przedstawi opinię rzeczoznawcy majątkowego potwierdzającą, że cena nabycia nie przekracza wartości rynkowej nieruchomości określonej na dzień nabycia,
+c)
+nieruchomość będzie służyła wyłącznie realizacji projektu, zgodnie z przeznaczeniem określonym w umowie o dofinansowanie projektu,
+d)
+w przypadku nieruchomości zabudowanych przedsiębiorca dodatkowo przedstawi opinię rzeczoznawcy budowlanego potwierdzającą, że nieruchomość może być używana w określonym celu, zgodnym z celami projektu, lub określającą zakres niezbędnych zmian lub ulepszeń;
+2)
+nabycia albo wytworzenia środków trwałych innych niż określone w pkt 1 wraz z kosztem instalacji i uruchomienia;
+3)
+nabycia robót i materiałów budowlanych;
+4)
+nabycia wartości niematerialnych i prawnych w formie patentów, licencji, know-how oraz innych praw własności intelektualnej, jeżeli spełniają łącznie następujące warunki:
+a)
+będą wykorzystywane wyłącznie w przedsiębiorstwie przedsiębiorcy, w którym prowadzony jest projekt,
+b)
+będą podlegać amortyzacji zgodnie z przepisami o rachunkowości,
+c)
+będą nabyte na warunkach rynkowych od osób trzecich niepowiązanych z przedsiębiorcą,
+d)
+będą stanowić aktywa przedsiębiorcy i pozostaną w jego przedsiębiorstwie przez co najmniej 5 lat od dnia zakończenia realizacji projektu, a w przypadku mikroprzedsiębiorcy, małego lub średniego przedsiębiorcy ‒ przez co najmniej 3 lata;
+5)
+spłaty rat leasingu nieruchomości zabudowanych i niezabudowanych poniesione przez korzystającego do dnia zakończenia realizacji projektu, do wysokości ich wartości początkowej z dnia zawarcia umowy leasingu, pod warunkiem że umowa leasingu będzie obejmowała okres co najmniej 5 lat od przewidywanego terminu zakończenia realizacji projektu, a w przypadku mikroprzedsiębiorcy, małego lub średniego przedsiębiorcy ‒ okres co najmniej 3 lat;
+6)
+spłaty rat wartości początkowej środków trwałych innych niż określone w pkt 4 poniesione przez korzystającego z tytułu umowy leasingu prowadzącej do przeniesienia własności tych środków na korzystającego, z wyłączeniem leasingu zwrotnego.
+3.
+Koszty sporządzenia opinii rzeczoznawcy, o których mowa w ust. 2 pkt 1, nie stanowią kosztu kwalifikowanego.
+4.
+Maksymalną intensywność regionalnej pomocy inwestycyjnej na pokrycie kosztów kwalifikowanych, o których mowa w ust. 2, określa się zgodnie z rozporządzeniem Rady Ministrów z dnia 30 czerwca 2014 r. w sprawie ustalenia mapy pomocy regionalnej na lata 2014–2020 (Dz. U. poz. 878).
+5.
+Do kosztów kwalifikowanych w ramach pomocy na projekty badawczo-rozwojowe zalicza się koszty odpowiedniej wiedzy technicznej oraz koszty doradztwa i równorzędnych usług wykorzystywanych na potrzeby projektu.
+6.
+Maksymalną intensywność pomocy na projekty badawczo-rozwojowe przeznaczonej na pokrycie kosztów kwalifikowanych, o których mowa w ust. 5, określa się zgodnie z art. 25 ust. 5 lit. c oraz ust. 6 rozporządzenia Komisji.
+7.
+Łączna wartość kosztów kwalifikowanych, o których mowa w ust. 2 pkt 1 i 5, nie może przekraczać 10% kosztów kwalifikowanych, o których mowa w ust. 2 i 5 oraz w § 6.
+§ 6.
+1.
+Przedsiębiorca może objąć wnioskiem koszty zakupu materiałów i produktów związanych bezpośrednio z realizacją projektu.
+2.
+Dofinansowanie kosztów, o których mowa w ust. 1, odbywa się zgodnie z zasadami określonymi w rozporządzeniu Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1).
+§ 7.
+Pomoc jest udzielana w trybie konkursowym, o którym mowa w art. 38 ust. 1 pkt 1 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020.
+§ 8.
+Pomoc jest udzielana do końca okresu obowiązywania mapy pomocy regionalnej na lata 2014–2020 określonej na podstawie art. 10 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2018 r. poz. 362).
+§ 9.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+1) Obecnie działem administracji rządowej – rozwój regionalny kieruje Minister Inwestycji i Rozwoju, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175). Zgodnie z art. 9 ust. 1 pkt 1 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2018 r. poz. 1431 i 1544 oraz z 2019 r. poz. 60) minister właściwy do spraw rozwoju regionalnego pełni funkcję Instytucji Zarządzającej Programem Operacyjnym Inteligentny Rozwój, 2014–2020. 2) Tekst Programu Operacyjnego Inteligentny Rozwój 2014–2020 został zaakceptowany decyzją wykonawczą Komisji Europejskiej z dnia 12 lutego 2015 r. przyjmującą niektóre elementy programu operacyjnego „Inteligentny Rozwój na lata 2014–2020” do wsparcia z Europejskiego Funduszu Rozwoju Regionalnego w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia w Polsce” oraz przyjęty uchwałą Rady Ministrów z dnia 8 stycznia 2014 r. 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Rozwoju i Finansów z dnia 18 grudnia 2017 r. zmieniającego rozporządzenie w sprawie udzielania pomocy finansowej na inwestycje typu centra badawczo-rozwojowe przedsiębiorców w ramach Programu Operacyjnego Inteligentny Rozwój, 2014–2020 (Dz. U. poz. 2413), które weszło w życie z dniem 23 grudnia 2017 r. 4) Rozporządzenie zostało ogłoszone w dniu 11 czerwca 2015 r.
 

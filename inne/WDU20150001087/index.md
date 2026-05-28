@@ -8,12 +8,10 @@ pos: 1087
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o leczeniu niepłodności
-
-*USTAWA z dnia 25 czerwca 2015 r.*
+# Ustawa z dnia 25 czerwca 2015 r. o leczeniu niepłodności
 
 | Pole | Wartość |
 |---|---|
@@ -24,14 +22,21 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2015-06-25 |
 | Data wydania | 2015-07-31 |
+| Wejście w życie | 2015-11-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001087) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1087/text.pdf) |
 
-Art. 91–93. (pominięte)
+komórek rozrodczych i zarodków
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
+
+- **1)** zasady ochrony zarodka i komórek rozrodczych w odniesieniu do ich zastosowania w biologii i medycynie w związku z leczeniem niepłodności;
+- **2)** sposoby leczenia niepłodności, w tym stosowania procedury medycznie wspomaganej prokreacji;
+- **3)** zadania władz publicznych w zakresie ochrony i promocji zdrowia rozrodczego;
+- **4)** warunki dawstwa, pobierania, przetwarzania, testowania, przechowywania i dystrybucji komórek rozrodczych oraz zarodków przeznaczonych do zastosowania w procedurze medycznie wspomaganej prokreacji;
+- **5)** zasady funkcjonowania ośrodków medycznie wspomaganej prokreacji oraz banków komórek rozrodczych i zarodków.
 
 **Art. 2.**
 
@@ -56,7 +61,7 @@ Art. 91–93. (pominięte)
 - **17)** kryteria akceptacji – limity ilościowe i jakościowe, zakresy wartości lub inne odpowiednie wartości pomiarów pozwalające na zaakceptowanie wyników badań;
 - **18)** ośrodek medycznie wspomaganej prokreacji – podmiot leczniczy wykonujący, na podstawie pozwolenia, o którym mowa w art. 48 ust. 1, działalność leczniczą w zakresie stosowania procedury medycznie wspomaganej prokreacji, w tym pobierania komórek rozrodczych, przetwarzania, testowania, konserwowania i dystrybucji komórek rozrodczych i zarodków;
 - **19)** pobieranie – czynności, w wyniku których są pozyskiwane komórki rozrodcze;
-- **20)** podmiot leczniczy – podmiot leczniczy w rozumieniu art. 4 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2018 r. poz. 2190, z późn. zm. );
+- **20)** podmiot leczniczy – podmiot leczniczy w rozumieniu art. 4 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2015 r. poz. 618, 788 i 905);
 - **21)** procedura medycznie wspomaganej prokreacji – czynności prowadzące do uzyskania oraz zastosowania komórek rozrodczych lub zarodków wewnątrz lub pozaustrojowo u biorczyni w celu prokreacji; obejmuje ona bezpośrednie i inne niż bezpośrednie użycie komórek rozrodczych i zarodków;
 - **22)** przechowywanie – utrzymywanie komórek rozrodczych lub zarodków we właściwie kontrolowanych warunkach do chwili ich dystrybucji i zastosowania u ludzi;
 - **23)** przetwarzanie – czynności związane z przygotowaniem, transportowaniem, konserwowaniem i pakowaniem komórek rozrodczych lub zarodków przeznaczonych do zastosowania u ludzi w procedurze medycznie wspomaganej prokreacji;
@@ -125,7 +130,16 @@ Art. 91–93. (pominięte)
 
 **Art. 12.** Centrum leczenia niepłodności:
 
+- **1)** rozwija i popularyzuje wiedzę na temat nowych technologii medycznych oraz metod diagnozowania i leczenia niepłodności;
+- **2)** współpracuje z jednostkami samorządu terytorialnego w zakresie ochrony i promocji zdrowia rozrodczego;
+- **3)** przygotowuje, na wniosek ministra właściwego do spraw zdrowia, analizę wpływu świadczenia opieki zdrowotnej z zakresu leczenia niepłodności na stan zdrowia pacjentów i jego kosztów w celu przygotowania raportu w sprawie oceny świadczenia opieki zdrowotnej zgodnie z przepisami o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **4)** przygotowuje, na wniosek ministra właściwego do spraw zdrowia, analizy wyników skuteczności leczenia niepłodności.
+
 **Art. 13.** Status centrum leczenia niepłodności może uzyskać podmiot leczniczy prowadzący łącznie:
+
+- **1)** bank komórek rozrodczych i zarodków;
+- **2)** działalność z zakresu leczenia niepłodności wszystkimi metodami, o których mowa w art. 5, w tym ośrodek medycznie wspomaganej prokreacji;
+- **3)** działalność dydaktyczną i badawczą w powiązaniu z udzielaniem świadczeń zdrowotnych i promocją zdrowia, w tym wdrażaniem nowych technologii medycznych oraz metod diagnozowania i leczenia niepłodności.
 
 **Art. 14.**
 
@@ -136,18 +150,27 @@ Art. 91–93. (pominięte)
 - **1)** nazwę (firmę) podmiotu leczniczego;
 - **2)** adres siedziby oraz miejsca udzielania świadczeń zdrowotnych;
 - **3)** określenie struktury organizacyjnej podmiotu leczniczego;
-- **4)** zakres działalności ze wskazaniem metod leczenia niepłodności wraz z określeniem jednostek lub komórek organizacyjnych zakładu leczniczego podmiotu leczniczego, w których to leczenie jest prowadzone;
+- **4)** zakres działalności ze wskazaniem metod leczenia niepłodności wraz z określeniem jednostek lub komórek organizacyjnych przedsiębiorstwa podmiotu leczniczego, w których to leczenie jest prowadzone;
 - **5)** zakres prowadzonej działalności dydaktycznej i badawczej w powiązaniu z udzielaniem świadczeń zdrowotnych i promocją zdrowia, w tym wdrażaniem nowych technologii medycznych oraz metod diagnozowania i leczenia niepłodności.
 
 3. Minister właściwy do spraw zdrowia może w każdym czasie żądać od centrum leczenia niepłodności informacji koniecznych do potwierdzenia spełniania warunków, o których mowa w art. 13.
 
 **Art. 15.** Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Rady do spraw Leczenia Niepłodności, cofa, w drodze decyzji administracyjnej, status centrum leczenia niepłodności w przypadku:
 
+- **1)** utraty pozwolenia, o którym mowa w art. 48 ust. 1;
+- **2)** zaprzestania działalności z zakresu leczenia niepłodności w zakresie którejkolwiek z metod, o których mowa w art. 5;
+- **3)** zaprzestania działalności dydaktycznej i badawczej w powiązaniu z udzielaniem świadczeń zdrowotnych i promocją zdrowia, w tym wdrażaniem nowych technologii medycznych oraz metod diagnozowania i leczenia niepłodności.
+
 **Art. 16.** Minister właściwy do spraw zdrowia prowadzi wykaz centrów leczenia niepłodności i aktualizuje go na bieżąco poprzez publikację na stronie internetowej urzędu obsługującego ministra właściwego do spraw zdrowia.
 
 #### Rozdział 3 Postępowanie z komórkami rozrodczymi i zarodkami w procedurze medycznie wspomaganej prokreacji
 
 **Art. 17.** Zastosowanie komórek rozrodczych i zarodków w procedurze medycznie wspomaganej prokreacji polega na:
+
+- **1)** przeniesieniu męskich komórek rozrodczych do organizmu biorczyni;
+- **2)** pozaustrojowym utworzeniu zarodków (zapłodnienie pozaustrojowe);
+- **3)** testowaniu komórek rozrodczych i zarodków;
+- **4)** przeniesieniu utworzonych zarodków do organizmu biorczyni.
 
 **Art. 18.**
 
@@ -170,7 +193,7 @@ Art. 91–93. (pominięte)
 1. Przeniesienie do organizmu biorczyni zarodków powstałych z komórek rozrodczych pobranych w celu dawstwa partnerskiego albo dawstwa innego niż partnerskie oraz zarodków przekazanych w celu dawstwa zarodka może nastąpić, jeżeli:
 
 - **1)** w przypadku dawstwa partnerskiego zgodę na przeniesienie wyrazili, w formie pisemnej, biorczyni oraz dawca komórek rozrodczych;
-- **2)** w przypadku dawstwa innego niż partnerskie zgodę na przeniesienie wyrazili, w formie pisemnej, biorczyni oraz jej mąż albo mężczyzna, z którym biorczyni pozostaje we wspólnym pożyciu, złożył oświadczenie zgodnie z art. 75 § 1 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2019 r. poz. 2086 i 2089);
+- **2)** w przypadku dawstwa innego niż partnerskie zgodę na przeniesienie wyrazili, w formie pisemnej, biorczyni oraz jej mąż albo mężczyzna, z którym biorczyni pozostaje we wspólnym pożyciu, złożył oświadczenie zgodnie z art. 751 § 1 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2015 r. poz. 583, 1062 i 1087);
 - **3)** dawcy zarodka wyrazili, w formie pisemnej, zgodę na jego przekazanie;
 - **4)** brak jest przeciwwskazań medycznych do przeniesienia zarodka do organizmu biorczyni.
 
@@ -184,7 +207,7 @@ Art. 91–93. (pominięte)
 
 - **1)** biorczyni, w formie pisemnej, wycofała zgodę;
 - **2)** w przypadku dawstwa partnerskiego dawca komórek rozrodczych nie wyraził zgody na przeniesienie zarodka;
-- **3)** w przypadku dawstwa innego niż partnerskie mąż biorczyni nie wyraził zgody na przeniesienie zarodka, a w przypadku gdy biorczyni pozostaje we wspólnym pożyciu, mężczyzna nie złożył oświadczenia zgodnie z art. 75 § 1 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy;
+- **3)** w przypadku dawstwa innego niż partnerskie mąż biorczyni nie wyraził zgody na przeniesienie zarodka, a w przypadku gdy biorczyni pozostaje we wspólnym pożyciu, mężczyzna nie złożył oświadczenia zgodnie z art. 751 § 1 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy;
 - **4)** istnieją przeciwwskazania medyczne do przeniesienia zarodka do organizmu biorczyni.
 
 2. W przypadku braku zgody męża lub dawcy komórek rozrodczych pobranych w celu dawstwa partnerskiego, z których utworzono zarodek, na przeniesienie zarodka, zezwolenie na przeniesienie wydaje sąd opiekuńczy.
@@ -192,9 +215,13 @@ Art. 91–93. (pominięte)
 3. Zarodki powstałe z komórek rozrodczych pobranych w celu dawstwa partnerskiego albo dawstwa innego niż partnerskie w przypadku:
 
 - **1)** upływu określonego w umowie terminu na przechowywanie zarodków, nie dłuższego jednak niż 20 lat, licząc od dnia, w którym zarodki zostały przekazane do banku komórek rozrodczych i zarodków w celu ich przechowywania, albo
-- **2)** śmierci obojga dawców zarodka albo, jeżeli zarodek został utworzony w wyniku dawstwa innego niż partnerskie – śmierci biorczyni i jej męża lub osoby pozostającej z nią we wspólnym pożyciu – są przekazywane do dawstwa zarodka.
+- **2)** śmierci obojga dawców zarodka albo, jeżeli zarodek został utworzony w wyniku dawstwa innego niż partnerskie – śmierci biorczyni i jej męża lub osoby pozostającej z nią we wspólnym pożyciu są przekazywane do dawstwa zarodka.
 
 **Art. 22.** Niedopuszczalne jest przeniesienie zarodków przekazanych w celu dawstwa zarodka do organizmu biorczyni, jeżeli:
+
+- **1)** dawcy zarodków, w formie pisemnej, wycofali zgodę na przekazanie zarodków;
+- **2)** biorczyni, w formie pisemnej, wycofała zgodę na przeniesienie zarodka; w przypadku gdy biorczyni pozostaje w związku małżeńskim, niedopuszczalne jest przeniesienie zarodka, jeżeli jej mąż nie wyraził zgody na przeniesienie zarodka;
+- **3)** istnieją przeciwwskazania medyczne do przeniesienia zarodków do organizmu biorczyni.
 
 **Art. 23.**
 
@@ -234,7 +261,7 @@ Art. 91–93. (pominięte)
 3. Zwrot kosztów:
 
 - **1)** pobrania, przechowywania, przetwarzania, dystrybucji i zastosowania komórek rozrodczych,
-- **2)** uzyskania, przechowywania, przetwarzania, dystrybucji i zastosowania zarodków  nie stanowi zapłaty ani korzyści majątkowej lub osobistej, o których mowa w ust. 2.
+- **2)** uzyskania, przechowywania, przetwarzania, dystrybucji i zastosowania zarodków nie stanowi zapłaty ani korzyści majątkowej lub osobistej, o których mowa w ust. 2.
 
 4. Do kosztów pobrania komórek rozrodczych zalicza się koszty:
 
@@ -248,7 +275,7 @@ Art. 91–93. (pominięte)
 
 - **1)** transportu dawcy lub kandydata na dawcę do i z ośrodka medycznie wspomaganej prokreacji, w którym ma być dokonane pobranie;
 - **2)** farmakologicznej stymulacji jajników w przypadku dawczyń komórek jajowych;
-- **3)** pobytu dawcy lub kandydata na dawcę w ośrodku medycznie wspomaganej prokreacji związanego z pobraniem;
+- **3)** pobytu dawcy lub kandydata na dawcę wośrodku medycznie wspomaganej prokreacji związanego z pobraniem;
 - **4)** przechowywania i przetworzenia pobranych komórek rozrodczych;
 - **5)** uzyskania zarodka;
 - **6)** transportu z podmiotu leczniczego pobranych komórek rozrodczych lub zarodków do banku komórek rozrodczych i zarodków;
@@ -265,13 +292,13 @@ Art. 91–93. (pominięte)
 1. Komórki rozrodcze mogą być pobierane od dawcy w celu dawstwa partnerskiego przy zachowaniu łącznie następujących warunków:
 
 - **1)** medyczną zasadność pobrania komórek rozrodczych od określonego dawcy i zastosowania ich w celu dawstwa partnerskiego ustala lekarz na podstawie aktualnego stanu wiedzy medycznej;
-- **2)** stwierdzono w drodze przeprowadzonego z kandydatem na dawcę wywiadu medycznego oraz niezbędnych badań lekarskich i laboratoryjnych, że:
-    - **a)** ryzyko związane z pobraniem komórek rozrodczych od określonego dawcy nie wykracza poza przewidywane granice dopuszczalne dla tego rodzaju zabiegów i nie upośledzi w istotny sposób stanu zdrowia dawcy,
-    - **b)** możliwe jest ograniczenie ryzyka zaistnienia istotnego zdarzenia niepożądanego lub istotnej niepożądanej reakcji u dawcy, biorczyni oraz u dzieci, które mogą się urodzić w wyniku zastosowania tych komórek rozrodczych w procedurze medycznie wspomaganej prokreacji;
+- **2)** stwierdzono w drodze przeprowadzonego z kandydatem na dawcę wywiadu medycznego oraz niezbędnych badań lekarskich i laboratoryjnych, że: ryzyko związane z pobraniem komórek rozrodczych od określonego dawcy nie wykracza poza przewidywane granice dopuszczalne dla tego rodzaju zabiegów i nie upośledzi w istotny sposób stanu zdrowia dawcy, możliwe jest ograniczenie ryzyka zaistnienia istotnego zdarzenia niepożądanego lub istotnej niepożądanej reakcji u dawcy, biorczyni oraz u dzieci, które mogą się urodzić w wyniku zastosowania tych komórek rozrodczych w procedurze medycznie wspomaganej prokreacji;
+    - **a)**
+    - **b)**
 
-- **3)** kandydat na dawcę przed wyrażeniem zgody:
-    - **a)** został w sposób zrozumiały i szczegółowy poinformowany przez przygotowaną do tego osobę o rodzaju zabiegu, jego celu i charakterze, przeprowadzanych dla jego wykonania badaniach laboratoryjnych oraz prawie do uzyskania wyników tych badań, sposobie gromadzenia i ochrony jego danych osobowych, tajemnicy lekarskiej, ryzyku związanym z zabiegiem pobrania komórek rozrodczych, dających się przewidzieć następstwach dla jego stanu zdrowia w przyszłości, środkach bezpieczeństwa prowadzących do ochrony danych dawcy oraz o zakresie i skutkach prawnych stosowania pobranych od niego komórek rozrodczych w celu dawstwa partnerskiego wynikających z przepisów ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy, w tym sytuacji prawnej dziecka urodzonego w wyniku zastosowania procedury medycznie wspomaganej prokreacji,
-    - **b)** miał możliwość zadawania pytań w zakresie spraw, o których mowa w lit. a, i uzyskania wyczerpujących odpowiedzi – co zostało przez kandydata potwierdzone przez złożenie oświadczenia w formie pisemnej;
+- **3)** kandydat na dawcę przed wyrażeniem zgody: został w sposób zrozumiały i szczegółowy poinformowany przez przygotowaną do tego osobę o rodzaju zabiegu, jego celu i charakterze, przeprowadzanych dla jego wykonania badaniach laboratoryjnych oraz prawie do uzyskania wyników tych badań, sposobie gromadzenia i ochrony jego danych osobowych, tajemnicy lekarskiej, ryzyku związanym z zabiegiem pobrania komórek rozrodczych, dających się przewidzieć następstwach dla jego stanu zdrowia w przyszłości, środkach bezpieczeństwa prowadzących do ochrony danych dawcy oraz o zakresie i skutkach prawnych stosowania pobranych od niego komórek rozrodczych w celu dawstwa partnerskiego wynikających z przepisów ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy, w tym sytuacji prawnej dziecka urodzonego w wyniku zastosowania procedury medycznie wspomaganej prokreacji, miał możliwość zadawania pytań w zakresie spraw, o których mowa w lit. a, i uzyskania wyczerpujących odpowiedzi co zostało przez kandydata potwierdzone przez złożenie oświadczenia w formie pisemnej;
+    - **a)**
+    - **b)**
 
 - **4)** kandydat na dawcę potwierdził przez złożenie oświadczenia, w formie pisemnej, że wszystkie informacje podane przez niego w trakcie wywiadu medycznego są prawdziwe zgodnie z jego najlepszą wiedzą;
 - **5)** kandydat na dawcę ma pełną zdolność do czynności prawnych i wyraził dobrowolnie przed lekarzem, w formie pisemnej, zgodę na pobranie komórek rozrodczych i ich zastosowanie w celu dawstwa partnerskiego;
@@ -290,19 +317,19 @@ Art. 91–93. (pominięte)
 
 - **1)** pobranie następuje na rzecz anonimowej biorczyni;
 - **2)** medyczną zasadność pobrania komórek rozrodczych od określonego dawcy i zastosowania ich w celu dawstwa innego niż partnerskie ustala lekarz na podstawie aktualnego stanu wiedzy medycznej;
-- **3)** stwierdzono w drodze przeprowadzonego z kandydatem na dawcę wywiadu medycznego oraz niezbędnych badań lekarskich i laboratoryjnych, że:
-    - **a)** ryzyko związane z pobraniem komórek rozrodczych od określonego dawcy nie wykracza poza przewidywane granice dopuszczalne dla tego rodzaju zabiegów i nie upośledzi w istotny sposób stanu zdrowia dawcy,
-    - **b)** ryzyko związane z zastosowaniem komórek rozrodczych pobranych od określonego dawcy nie wykracza poza przewidywane granice dopuszczalne dla tego rodzaju zabiegów i nie upośledzi w istotny sposób stanu zdrowia biorczyni oraz zdrowia dzieci, które mogą się urodzić w wyniku zastosowania tych komórek rozrodczych w procedurze medycznie wspomaganej prokreacji,
-    - **c)** możliwe jest ograniczenie ryzyka zaistnienia istotnego zdarzenia niepożądanego lub istotnej niepożądanej reakcji u dawcy, biorczyni oraz u dzieci, które mogą się urodzić w wyniku zastosowania tych komórek rozrodczych w procedurze medycznie wspomaganej prokreacji;
+- **3)** stwierdzono w drodze przeprowadzonego z kandydatem na dawcę wywiadu medycznego oraz niezbędnych badań lekarskich i laboratoryjnych, że: ryzyko związane z pobraniem komórek rozrodczych od określonego dawcy nie wykracza poza przewidywane granice dopuszczalne dla tego rodzaju zabiegów i nie upośledzi w istotny sposób stanu zdrowia dawcy, ryzyko związane z zastosowaniem komórek rozrodczych pobranych od określonego dawcy nie wykracza poza przewidywane granice dopuszczalne dla tego rodzaju zabiegów i nie upośledzi w istotny sposób stanu zdrowia biorczyni oraz zdrowia dzieci, które mogą się urodzić w wyniku zastosowania tych komórek rozrodczych w procedurze medycznie wspomaganej prokreacji, możliwe jest ograniczenie ryzyka zaistnienia istotnego zdarzenia niepożądanego lub istotnej niepożądanej reakcji u dawcy, biorczyni oraz u dzieci, które mogą się urodzić w wyniku zastosowania tych komórek rozrodczych w procedurze medycznie wspomaganej prokreacji;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **4)** kandydat na dawcę przed wyrażeniem zgody:
-    - **a)** został w sposób zrozumiały i szczegółowy poinformowany przez przygotowaną do tego osobę o rodzaju zabiegu, jego celu i charakterze, przeprowadzanych dla jego wykonania badaniach laboratoryjnych oraz prawie do uzyskania wyników tych badań, sposobie gromadzenia i ochrony jego danych osobowych, tajemnicy lekarskiej, ryzyku związanym z zabiegiem pobrania komórek rozrodczych, dających się przewidzieć następstwach dla jego stanu zdrowia w przyszłości oraz o środkach bezpieczeństwa prowadzących do ochrony danych dawcy,
-    - **b)** miał możliwość zadawania pytań w zakresie spraw, o których mowa w lit. a, i uzyskania wyczerpujących odpowiedzi – co zostało przez kandydata potwierdzone przez złożenie oświadczenia w formie pisemnej;
+- **4)** kandydat na dawcę przed wyrażeniem zgody: został w sposób zrozumiały i szczegółowy poinformowany przez przygotowaną do tego osobę o rodzaju zabiegu, jego celu i charakterze, przeprowadzanych dla jego wykonania badaniach laboratoryjnych oraz prawie do uzyskania wyników tych badań, sposobie gromadzenia i ochrony jego danych osobowych, tajemnicy lekarskiej, ryzyku związanym z zabiegiem pobrania komórek rozrodczych, dających się przewidzieć następstwach dla jego stanu zdrowia w przyszłości oraz o środkach bezpieczeństwa prowadzących do ochrony danych dawcy, miał możliwość zadawania pytań w zakresie spraw, o których mowa w lit. a, i uzyskania wyczerpujących odpowiedzi co zostało przez kandydata potwierdzone przez złożenie oświadczenia w formie pisemnej;
+    - **a)**
+    - **b)**
 
-- **5)** kandydat na dawcę został przed wyrażeniem zgody szczegółowo poinformowany o skutkach prawnych przekazania komórki rozrodczej, to jest o:
-    - **a)** braku dostępu do informacji na temat dalszego postępowania z przekazanymi komórkami rozrodczymi,
-    - **b)** braku jakichkolwiek praw wobec dziecka, które urodzi się w wyniku procedury medycznie wspomaganej prokreacji,
-    - **c)** zakresie informacji dotyczących osoby dawcy, z którymi ma prawo zapoznać się biorczyni komórek i osoba urodzona w wyniku procedury medycznie wspomaganej prokreacji w wyniku dawstwa komórek rozrodczych innego niż partnerskie, po osiągnięciu pełnoletności;
+- **5)** kandydat na dawcę został przed wyrażeniem zgody szczegółowo poinformowany o skutkach prawnych przekazania komórki rozrodczej, to jest o: braku dostępu do informacji na temat dalszego postępowania z przekazanymi komórkami rozrodczymi, braku jakichkolwiek praw wobec dziecka, które urodzi się w wyniku procedury medycznie wspomaganej prokreacji, zakresie informacji dotyczących osoby dawcy, z którymi ma prawo zapoznać się biorczyni komórek i osoba urodzona w wyniku procedury medycznie wspomaganej prokreacji w wyniku dawstwa komórek rozrodczych innego niż partnerskie, po osiągnięciu pełnoletności;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **6)** kandydat na dawcę potwierdził przez złożenie oświadczenia, w formie pisemnej, że wszystkie informacje podane przez niego w trakcie wywiadu medycznego są prawdziwe zgodnie z jego najlepszą wiedzą;
 - **7)** kandydat na dawcę ma pełną zdolność do czynności prawnych i wyraził dobrowolnie przed lekarzem, w formie pisemnej, zgodę na pobranie komórek rozrodczych i ich zastosowanie w celu dawstwa innego niż partnerskie, na pośmiertne zastosowanie pobranych od niego komórek rozrodczych oraz na dawstwo zarodka utworzonego z zastosowaniem tych komórek.
@@ -320,9 +347,9 @@ Art. 91–93. (pominięte)
 - **1)** medyczną zasadność pobrania komórek rozrodczych od określonego dawcy ustala lekarz na podstawie aktualnego stanu wiedzy medycznej;
 - **2)** pobranie nie spowoduje bezpośredniego zagrożenia zdrowia i życia dawcy;
 - **3)** pobranie zostało poprzedzone wywiadem medycznym oraz niezbędnymi badaniami lekarskimi i laboratoryjnymi, o których mowa w art. 29 ust. 1 pkt 2;
-- **4)** kandydat na dawcę przed wyrażeniem zgody:
-    - **a)** został w sposób zrozumiały i szczegółowy poinformowany przez przygotowaną do tego osobę o rodzaju zabiegu, jego celu i charakterze, przeprowadzanych dla jego wykonania badaniach laboratoryjnych oraz prawie do uzyskania wyników tych badań, sposobie gromadzenia i ochrony jego danych osobowych, tajemnicy lekarskiej, ryzyku związanym z zabiegiem pobrania komórek rozrodczych, dających się przewidzieć następstwach dla jego stanu zdrowia w przyszłości, środkach bezpieczeństwa prowadzących do ochrony danych dawcy oraz o możliwości zastosowania pobranych od niego komórek rozrodczych w przyszłości w procedurze medycznie wspomaganej prokreacji,
-    - **b)** miał możliwość zadawania pytań w zakresie spraw, o których mowa w lit. a, i uzyskania wyczerpujących odpowiedzi – co zostało przez kandydata potwierdzone przez złożenie oświadczenia w formie pisemnej;
+- **4)** kandydat na dawcę przed wyrażeniem zgody: został w sposób zrozumiały i szczegółowy poinformowany przez przygotowaną do tego osobę o rodzaju zabiegu, jego celu i charakterze, przeprowadzanych dla jego wykonania badaniach laboratoryjnych oraz prawie do uzyskania wyników tych badań, sposobie gromadzenia i ochrony jego danych osobowych, tajemnicy lekarskiej, ryzyku związanym z zabiegiem pobrania komórek rozrodczych, dających się przewidzieć następstwach dla jego stanu zdrowia w przyszłości, środkach bezpieczeństwa prowadzących do ochrony danych dawcy oraz o możliwości zastosowania pobranych od niego komórek rozrodczych w przyszłości w procedurze medycznie wspomaganej prokreacji, miał możliwość zadawania pytań w zakresie spraw, o których mowa w lit. a, i uzyskania wyczerpujących odpowiedzi co zostało przez kandydata potwierdzone przez złożenie oświadczenia w formie pisemnej;
+    - **a)**
+    - **b)**
 
 - **5)** kandydat na dawcę potwierdził przez złożenie oświadczenia, w formie pisemnej, że wszystkie informacje podane przez niego w trakcie wywiadu medycznego są prawdziwe zgodnie z jego najlepszą wiedzą;
 - **6)** kandydat na dawcę wyraził dobrowolnie przed lekarzem, w formie pisemnej, zgodę na pobranie komórek rozrodczych w celu zabezpieczenia płodności na przyszłość;
@@ -337,13 +364,13 @@ Art. 91–93. (pominięte)
 1. Komórki rozrodcze mogą być pobierane od biorczyni w celu zastosowania w procedurze medycznie wspomaganej prokreacji w dawstwie partnerskim albo dawstwie innym niż partnerskie przy zachowaniu łącznie następujących warunków:
 
 - **1)** medyczną zasadność pobrania komórek rozrodczych od biorczyni i zastosowania ich w procedurze medycznie wspomaganej prokreacji w dawstwie partnerskim albo dawstwie innym niż partnerskie ustala lekarz na podstawie aktualnego stanu wiedzy medycznej;
-- **2)** stwierdzono w drodze przeprowadzonego z biorczynią wywiadu medycznego oraz niezbędnych badań lekarskich i laboratoryjnych, że:
-    - **a)** ryzyko związane z pobraniem komórek rozrodczych od biorczyni nie wykracza poza przewidywane granice dopuszczalne dla tego rodzaju zabiegów i nie upośledzi w istotny sposób stanu zdrowia biorczyni,
-    - **b)** możliwe jest ograniczenie ryzyka zaistnienia istotnego zdarzenia niepożądanego lub istotnej niepożądanej reakcji u biorczyni oraz u dzieci, które mogą się urodzić w wyniku zastosowania tych komórek rozrodczych w procedurze medycznie wspomaganej prokreacji;
+- **2)** stwierdzono w drodze przeprowadzonego z biorczynią wywiadu medycznego oraz niezbędnych badań lekarskich i laboratoryjnych, że: ryzyko związane z pobraniem komórek rozrodczych od biorczyni nie wykracza poza przewidywane granice dopuszczalne dla tego rodzaju zabiegów i nie upośledzi w istotny sposób stanu zdrowia biorczyni, możliwe jest ograniczenie ryzyka zaistnienia istotnego zdarzenia niepożądanego lub istotnej niepożądanej reakcji u biorczyni oraz u dzieci, które mogą się urodzić w wyniku zastosowania tych komórek rozrodczych w procedurze medycznie wspomaganej prokreacji;
+    - **a)**
+    - **b)**
 
-- **3)** biorczyni przed wyrażeniem zgody:
-    - **a)** została w sposób zrozumiały i szczegółowy poinformowana przez przygotowaną do tego osobę o rodzaju zabiegu, jego celu i charakterze, przeprowadzanych dla jego wykonania badaniach laboratoryjnych oraz prawie do uzyskania wyników tych badań, sposobie gromadzenia i ochrony jej danych osobowych, tajemnicy lekarskiej, ryzyku związanym z zabiegiem pobrania komórek rozrodczych, dających się przewidzieć następstwach dla jej stanu zdrowia w przyszłości, środkach bezpieczeństwa prowadzących do ochrony danych biorczyni oraz o zakresie i skutkach prawnych stosowania pobranych od niej komórek rozrodczych w celu dawstwa partnerskiego albo dawstwa innego niż partnerskie, wynikających z przepisów ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy, w tym sytuacji prawnej dziecka urodzonego w wyniku zastosowania procedury medycznie wspomaganej prokreacji,
-    - **b)** miała możliwość zadawania pytań w zakresie spraw, o których mowa w lit. a, i uzyskania wyczerpujących odpowiedzi – co zostało przez nią potwierdzone przez złożenie oświadczenia w formie pisemnej;
+- **3)** biorczyni przed wyrażeniem zgody: została w sposób zrozumiały i szczegółowy poinformowana przez przygotowaną do tego osobę o rodzaju zabiegu, jego celu i charakterze, przeprowadzanych dla jego wykonania badaniach laboratoryjnych oraz prawie do uzyskania wyników tych badań, sposobie gromadzenia i ochrony jej danych osobowych, tajemnicy lekarskiej, ryzyku związanym z zabiegiem pobrania komórek rozrodczych, dających się przewidzieć następstwach dla jej stanu zdrowia w przyszłości, środkach bezpieczeństwa prowadzących do ochrony danych biorczyni oraz o zakresie i skutkach prawnych stosowania pobranych od niej komórek rozrodczych w celu dawstwa partnerskiego albo dawstwa innego niż partnerskie, wynikających z przepisów ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy, w tym sytuacji prawnej dziecka urodzonego w wyniku zastosowania procedury medycznie wspomaganej prokreacji, miała możliwość zadawania pytań w zakresie spraw, o których mowa w lit. a, i uzyskania wyczerpujących odpowiedzi co zostało przez nią potwierdzone przez złożenie oświadczenia w formie pisemnej;
+    - **a)**
+    - **b)**
 
 - **4)** biorczyni potwierdziła przez złożenie oświadczenia, w formie pisemnej, że wszystkie informacje podane przez nią w trakcie wywiadu medycznego są prawdziwe zgodnie z jej najlepszą wiedzą;
 - **5)** biorczyni ma pełną zdolność do czynności prawnych i wyraziła, w formie pisemnej, zgodę na pobranie od niej komórek rozrodczych w celu ich zastosowania w procedurze medycznie wspomaganej prokreacji oraz zgodę na utworzenie z tych komórek zarodka w ramach dawstwa partnerskiego lub dawstwa innego niż partnerskie.
@@ -352,26 +379,30 @@ Art. 91–93. (pominięte)
 
 - **1)** medyczną zasadność zastosowania u biorczyni komórek rozrodczych pobranych od dawcy w celu dawstwa partnerskiego albo dawstwa innego niż partnerskie albo zarodków utworzonych z tych komórek rozrodczych w procedurze medycznie wspomaganej prokreacji ustala lekarz na podstawie aktualnego stanu wiedzy medycznej;
 - **2)** lekarz ustalił na podstawie danych fenotypowych podobieństwo z dawcą komórek rozrodczych, w przypadku gdy utworzenie zarodka wymaga zastosowania komórek rozrodczych z dawstwa innego niż partnerskie;
-- **3)** stwierdzono w drodze przeprowadzonego z biorczynią wywiadu medycznego oraz niezbędnych badań lekarskich i laboratoryjnych, że:
-    - **a)** ryzyko związane z zastosowaniem komórek rozrodczych u biorczyni nie wykracza poza przewidywane granice dopuszczalne dla tego rodzaju zabiegów i nie upośledzi w istotny sposób stanu zdrowia biorczyni,
-    - **b)** możliwe jest ograniczenie ryzyka zaistnienia istotnego zdarzenia niepożądanego lub istotnej niepożądanej reakcji u biorczyni oraz u dzieci, które mogą się urodzić w wyniku zastosowania tych komórek rozrodczych w procedurze medycznie wspomaganej prokreacji;
+- **3)** stwierdzono w drodze przeprowadzonego z biorczynią wywiadu medycznego oraz niezbędnych badań lekarskich i laboratoryjnych, że: ryzyko związane z zastosowaniem komórek rozrodczych u biorczyni nie wykracza poza przewidywane granice dopuszczalne dla tego rodzaju zabiegów i nie upośledzi w istotny sposób stanu zdrowia biorczyni, możliwe jest ograniczenie ryzyka zaistnienia istotnego zdarzenia niepożądanego lub istotnej niepożądanej reakcji u biorczyni oraz u dzieci, które mogą się urodzić w wyniku zastosowania tych komórek rozrodczych w procedurze medycznie wspomaganej prokreacji;
+    - **a)**
+    - **b)**
 
-- **4)** biorczyni przed wyrażeniem zgody:
-    - **a)** została w sposób zrozumiały i szczegółowy poinformowana przez przygotowaną do tego osobę o rodzaju zabiegu, jego celu i charakterze, przeprowadzanych dla jego wykonania badaniach laboratoryjnych oraz prawie do uzyskania wyników tych badań, sposobie gromadzenia i ochrony jej danych osobowych, tajemnicy lekarskiej, ryzyku związanym z zabiegiem zastosowania komórek rozrodczych albo zarodka, dających się przewidzieć następstwach dla jej stanu zdrowia w przyszłości, środkach bezpieczeństwa prowadzących do ochrony danych biorczyni oraz o zakresie i skutkach prawnych stosowania pobranych od niej komórek rozrodczych w celu dawstwa partnerskiego albo dawstwa innego niż partnerskie albo zarodków utworzonych z tych komórek rozrodczych, wynikających z przepisów ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy, w tym sytuacji prawnej dziecka urodzonego w wyniku zastosowania procedury medycznie wspomaganej prokreacji,
-    - **b)** miała możliwość zadawania pytań w zakresie spraw, o których mowa w lit. a, i uzyskania wyczerpujących odpowiedzi – co zostało przez nią potwierdzone przez złożenie oświadczenia w formie pisemnej;
+- **4)** biorczyni przed wyrażeniem zgody: została w sposób zrozumiały i szczegółowy poinformowana przez przygotowaną do tego osobę o rodzaju zabiegu, jego celu i charakterze, przeprowadzanych dla jego wykonania badaniach laboratoryjnych oraz prawie do uzyskania wyników tych badań, sposobie gromadzenia i ochrony jej danych osobowych, tajemnicy lekarskiej, ryzyku związanym z zabiegiem zastosowania komórek rozrodczych albo zarodka, dających się przewidzieć następstwach dla jej stanu zdrowia w przyszłości, środkach bezpieczeństwa prowadzących do ochrony danych biorczyni oraz o zakresie i skutkach prawnych stosowania pobranych od niej komórek rozrodczych w celu dawstwa partnerskiego albo dawstwa innego niż partnerskie albo zarodków utworzonych z tych komórek rozrodczych, wynikających z przepisów ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy, w tym sytuacji prawnej dziecka urodzonego w wyniku zastosowania procedury medycznie wspomaganej prokreacji, miała możliwość zadawania pytań w zakresie spraw, o których mowa w lit. a, i uzyskania wyczerpujących odpowiedzi co zostało przez nią potwierdzone przez złożenie oświadczenia w formie pisemnej;
+    - **a)**
+    - **b)**
 
 - **5)** biorczyni potwierdziła przez złożenie oświadczenia, w formie pisemnej, że wszystkie informacje podane przez nią w trakcie wywiadu medycznego są prawdziwe zgodnie z jej najlepszą wiedzą;
-- **6)** biorczyni ma pełną zdolność do czynności prawnych i wyraziła, w formie pisemnej, zgodę na zastosowanie u niej komórek rozrodczych pobranych od dawcy w celu dawstwa partnerskiego albo dawstwa innego niż partnerskie w procedurze medycznie wspomaganej prokreacji albo zgodę na utworzenie z tych komórek rozrodczych zarodka i jego zastosowanie w procedurze medycznie wspomaganej prokreacji; w przypadku gdy biorczyni pozostaje:
-    - **a)** w związku małżeńskim, zastosowanie komórek rozrodczych albo zarodka następuje po wyrażeniu, w formie pisemnej, zgody przez męża, który został uprzednio szczegółowo, na piśmie, poinformowany o skutkach prawnych stosowania komórek rozrodczych albo zarodka w procedurze medycznie wspomaganej prokreacji u biorczyni, wynikających z przepisów ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy, w szczególności o ojcostwie dziecka, które urodzi się w wyniku procedury medycznie wspomaganej prokreacji,
-    - **b)** we wspólnym pożyciu, zastosowanie komórek rozrodczych pobranych w celu: – dawstwa partnerskiego albo zarodka utworzonego z tych komórek następuje po wyrażeniu, w formie pisemnej, zgody przez mężczyznę pozostającego z biorczynią we wspólnym pożyciu, który został uprzednio szczegółowo, na piśmie, poinformowany o skutkach prawnych stosowania komórek rozrodczych albo zarodka w procedurze medycznie wspomaganej prokreacji u biorczyni, wynikających z przepisów ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy, w szczególności o ojcostwie dziecka, które urodzi się w wyniku procedury medycznie wspomaganej prokreacji, – dawstwa innego niż partnerskie albo zarodka utworzonego z tych komórek rozrodczych następuje po złożeniu przez mężczyznę oświadczenia zgodnie z art. 75 § 1 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy;
+- **6)** biorczyni ma pełną zdolność do czynności prawnych i wyraziła, w formie pisemnej, zgodę na zastosowanie u niej komórek rozrodczych pobranych od dawcy w celu dawstwa partnerskiego albo dawstwa innego niż partnerskie w procedurze medycznie wspomaganej prokreacji albo zgodę na utworzenie z tych komórek rozrodczych zarodka i jego zastosowanie w procedurze medycznie wspomaganej prokreacji; w przypadku gdy biorczyni pozostaje: w związku małżeńskim, zastosowanie komórek rozrodczych albo zarodka następuje po wyrażeniu, w formie pisemnej, zgody przez męża, który został uprzednio szczegółowo, na piśmie, poinformowany o skutkach prawnych stosowania komórek rozrodczych albo zarodka w procedurze medycznie wspomaganej prokreacji u biorczyni, wynikających z przepisów ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy, w szczególności o ojcostwie dziecka, które urodzi się w wyniku procedury medycznie wspomaganej prokreacji, we wspólnym pożyciu, zastosowanie komórek rozrodczych pobranych w celu: – dawstwa partnerskiego albo zarodka utworzonego z tych komórek następuje po wyrażeniu, w formie pisemnej, zgody przez mężczyznę pozostającego z biorczynią we wspólnym pożyciu, który został uprzednio szczegółowo, na piśmie, poinformowany o skutkach prawnych stosowania komórek rozrodczych albo zarodka w procedurze medycznie wspomaganej prokreacji u biorczyni, wynikających z przepisów ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy, w szczególności o ojcostwie dziecka, które urodzi się w wyniku procedury medycznie wspomaganej prokreacji, – dawstwa innego niż partnerskie albo zarodka utworzonego z tych komórek rozrodczych następuje po złożeniu przez mężczyznę oświadczenia zgodnie z art. 751 § 1 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy;
+    - **a)**
+    - **b)**
 
 - **7)** zastosowanie komórek rozrodczych pobranych w celu dawstwa innego niż partnerskie albo zarodków utworzonych z tych komórek rozrodczych nastąpi w okresie 14 miesięcy od dnia złożenia oświadczenia, o którym mowa w pkt 6 lit. b.
 
 **Art. 33.** Zarodki powstałe w wyniku dawstwa partnerskiego mogą być przeniesione do organizmu biorczyni po śmierci dawcy komórek rozrodczych, z których utworzono zarodek. Warunków określonych w art. 5 ust. 2 nie stosuje się.
 
-**Art. 34.** Spełnienie warunków, o których mowa w art. 29 ust. 1–3, art. 30 ust. 1– 3, art. 31 i art. 32, oraz zaistnienie okoliczności, o których mowa w art. 29 ust. 4, art. 30 ust. 4 i art. 33, odnotowuje się w dokumentacji medycznej.
+**Art. 34.** Spełnienie warunków, o których mowa w art. 29 ust. 1–3, art. 30 ust. 1–3, art. 31 i art. 32, oraz zaistnienie okoliczności, o których mowa w art. 29 ust. 4, art. 30 ust. 4 i art. 33, odnotowuje się w dokumentacji medycznej.
 
 **Art. 35.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** sposób orzekania o stanie zdrowia kandydata na dawcę komórek rozrodczych w celu dawstwa partnerskiego i dawstwa innego niż partnerskie oraz o stanie zdrowia biorczyni komórek rozrodczych i zarodków,
+- **2)** wykaz badań lekarskich i laboratoryjnych, jakim powinni podlegać kandydat na dawcę komórek rozrodczych w celu dawstwa partnerskiego i dawstwa innego niż partnerskie, z uwzględnieniem również dawstwa do bezpośredniego użycia, oraz w celu zabezpieczenia płodności na przyszłość, oraz biorczyni komórek rozrodczych i zarodków,
+- **3)** szczegółowe warunki pobierania komórek rozrodczych w celu zastosowania w procedurze medycznie wspomaganej prokreacji mając na uwadze bezpieczeństwo zdrowotne dawców, biorczyń oraz dzieci urodzonych w wyniku procedury medycznie wspomaganej prokreacji.
 
 **Art. 36.**
 
@@ -379,25 +410,25 @@ Art. 91–93. (pominięte)
 
 - **1)** przekazanie następuje na rzecz anonimowej biorczyni;
 - **2)** medyczną zasadność przekazania i zastosowania zarodka u biorczyni ustala lekarz na podstawie aktualnego stanu wiedzy medycznej;
-- **3)** stwierdzono w drodze przeprowadzonego z kandydatką na biorczynię wywiadu medycznego oraz niezbędnych badań lekarskich i laboratoryjnych, że:
-    - **a)** ryzyko związane z zastosowaniem zarodka u biorczyni nie wykracza poza przewidywane granice dopuszczalne dla tego rodzaju zabiegów i nie upośledzi w istotny sposób stanu zdrowia biorczyni,
-    - **b)** możliwe jest ograniczenie ryzyka zaistnienia istotnego zdarzenia niepożądanego lub istotnej niepożądanej reakcji u biorczyni oraz u dzieci, które mogą się urodzić w wyniku zastosowania tego zarodka w procedurze medycznie wspomaganej prokreacji;
+- **3)** stwierdzono w drodze przeprowadzonego z kandydatką na biorczynię wywiadu medycznego oraz niezbędnych badań lekarskich i laboratoryjnych, że: ryzyko związane z zastosowaniem zarodka u biorczyni nie wykracza poza przewidywane granice dopuszczalne dla tego rodzaju zabiegów i nie upośledzi w istotny sposób stanu zdrowia biorczyni, możliwe jest ograniczenie ryzyka zaistnienia istotnego zdarzenia niepożądanego lub istotnej niepożądanej reakcji u biorczyni oraz u dzieci, które mogą się urodzić w wyniku zastosowania tego zarodka w procedurze medycznie wspomaganej prokreacji;
+    - **a)**
+    - **b)**
 
 - **4)** stwierdzono na podstawie danych fenotypowych podobieństwo osób, które wyraziły zgodę na przeniesienie zarodka, z dawcami zarodka;
-- **5)** biorczyni przed wyrażeniem zgody:
-    - **a)** została w sposób zrozumiały i szczegółowy poinformowana przez przygotowaną do tego osobę o rodzaju zabiegu, jego celu i charakterze, przeprowadzanych dla jego wykonania badaniach laboratoryjnych oraz prawie do uzyskania wyników tych badań, sposobie gromadzenia i ochrony jej danych osobowych, tajemnicy lekarskiej, ryzyku związanym z zastosowaniem zarodków, dających się przewidzieć następstwach dla jej stanu zdrowia w przyszłości, środkach bezpieczeństwa prowadzących do ochrony danych biorczyni oraz o zakresie i skutkach prawnych stosowania zarodków, w tym sytuacji prawnej dziecka, które urodzi się w wyniku zastosowania procedury medycznie wspomaganej prokreacji,
-    - **b)** miała możliwość zadawania pytań w zakresie spraw, o których mowa w lit. a, i uzyskania wyczerpujących odpowiedzi – co zostało przez nią potwierdzone przez złożenie oświadczenia w formie pisemnej;
+- **5)** biorczyni przed wyrażeniem zgody: została w sposób zrozumiały i szczegółowy poinformowana przez przygotowaną do tego osobę o rodzaju zabiegu, jego celu i charakterze, przeprowadzanych dla jego wykonania badaniach laboratoryjnych oraz prawie do uzyskania wyników tych badań, sposobie gromadzenia i ochrony jej danych osobowych, tajemnicy lekarskiej, ryzyku związanym z zastosowaniem zarodków, dających się przewidzieć następstwach dla jej stanu zdrowia w przyszłości, środkach bezpieczeństwa prowadzących do ochrony danych biorczyni oraz o zakresie i skutkach prawnych stosowania zarodków, w tym sytuacji prawnej dziecka, które urodzi się w wyniku zastosowania procedury medycznie wspomaganej prokreacji, miała możliwość zadawania pytań w zakresie spraw, o których mowa w lit. a, i uzyskania wyczerpujących odpowiedzi co zostało przez nią potwierdzone przez złożenie oświadczenia w formie pisemnej;
+    - **a)**
+    - **b)**
 
 - **6)** biorczyni potwierdziła przez złożenie oświadczenia, w formie pisemnej, że wszystkie informacje podane przez nią w trakcie wywiadu medycznego są prawdziwe zgodnie z jej najlepszą wiedzą;
-- **7)** biorczyni ma pełną zdolność do czynności prawnych i wyraziła, w formie pisemnej, zgodę na przyjęcie zarodków i na zastosowanie ich w procedurze medycznie wspomaganej prokreacji; w przypadku gdy biorczyni pozostaje:
-    - **a)** w związku małżeńskim, zastosowanie zarodka następuje po wyrażeniu, w formie pisemnej, zgody przez męża, który został uprzednio szczegółowo, na piśmie, poinformowany o skutkach prawnych przyjęcia i zastosowania zarodków w procedurze medycznie wspomaganej prokreacji u biorczyni, wynikających z przepisów ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy, w szczególności o ojcostwie dziecka, które urodzi się w wyniku procedury medycznie wspomaganej prokreacji,
-    - **b)** we wspólnym pożyciu, zastosowanie zarodka następuje po złożeniu przez mężczyznę oświadczenia zgodnie z art. 75 § 1 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy;
+- **7)** biorczyni ma pełną zdolność do czynności prawnych i wyraziła, w formie pisemnej, zgodę na przyjęcie zarodków i na zastosowanie ich w procedurze medycznie wspomaganej prokreacji; w przypadku gdy biorczyni pozostaje: w związku małżeńskim, zastosowanie zarodka następuje po wyrażeniu, w formie pisemnej, zgody przez męża, który został uprzednio szczegółowo, na piśmie, poinformowany o skutkach prawnych przyjęcia i zastosowania zarodków w procedurze medycznie wspomaganej prokreacji u biorczyni, wynikających z przepisów ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy, w szczególności o ojcostwie dziecka, które urodzi się w wyniku procedury medycznie wspomaganej prokreacji, we wspólnym pożyciu, zastosowanie zarodka następuje po złożeniu przez mężczyznę oświadczenia zgodnie z art. 751 § 1 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy;
+    - **a)**
+    - **b)**
 
 - **8)** zastosowanie zarodka nastąpi w okresie 14 miesięcy od dnia złożenia oświadczenia, o którym mowa w pkt 7 lit. b;
-- **9)** dawcy zarodka zostali przed wyrażeniem zgody szczegółowo poinformowani o skutkach prawnych przekazania zarodków, to jest o:
-    - **a)** braku dostępu do informacji na temat dalszego postępowania z przekazanymi zarodkami,
-    - **b)** braku jakichkolwiek praw i obowiązków wobec dziecka, które urodzi się w wyniku procedury medycznie wspomaganej prokreacji,
-    - **c)** zakresie informacji dotyczących dawców, z którymi ma prawo zapoznać się, po osiągnięciu pełnoletności, osoba urodzona w wyniku procedury medycznie wspomaganej prokreacji, w wyniku dawstwa zarodka lub jej przedstawiciel ustawowy;
+- **9)** dawcy zarodka zostali przed wyrażeniem zgody szczegółowo poinformowani o skutkach prawnych przekazania zarodków, to jest o: braku dostępu do informacji na temat dalszego postępowania z przekazanymi zarodkami, braku jakichkolwiek praw i obowiązków wobec dziecka, które urodzi się w wyniku procedury medycznie wspomaganej prokreacji, zakresie informacji dotyczących dawców, z którymi ma prawo zapoznać się, po osiągnięciu pełnoletności, osoba urodzona w wyniku procedury medycznie wspomaganej prokreacji, w wyniku dawstwa zarodka lub jej przedstawiciel ustawowy;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **10)** dawcy zarodka mają pełną zdolność do czynności prawnych, wyrazili dobrowolnie w obecności osoby zatrudnionej w banku komórek rozrodczych i zarodków, w formie pisemnej, zgodę na przekazanie zarodków do dawstwa i złożyli, w formie pisemnej, oświadczenie co do świadomości skutków prawnych dawstwa zarodka.
 
@@ -444,7 +475,7 @@ Art. 91–93. (pominięte)
 
 7. Administratorem danych gromadzonych w rejestrze jest minister właściwy do spraw zdrowia.
 
-8. (uchylony)
+8. Dane przetwarzane w rejestrze podlegają ochronie na poziomie wysokim, o którym mowa w przepisach wydanych na podstawie art. 39a ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2014 r. poz. 1182 i 1662), i są chronione przed dostępem do nich osób nieuprawnionych.
 
 9. Rejestr prowadzony jest w systemie teleinformatycznym. Podmiotem odpowiedzialnym za funkcjonowanie systemu teleinformatycznego rejestru jest jednostka podległa ministrowi właściwemu do spraw zdrowia właściwa w zakresie systemów informacyjnych w ochronie zdrowia.
 
@@ -467,7 +498,7 @@ Art. 91–93. (pominięte)
 - **3)** numer PESEL dziecka urodzonego w wyniku procedury medycznie wspomaganej prokreacji, a w przypadku dziecka, które nie ma nadanego numeru PESEL – imię, nazwisko, serię i numer dowodu osobistego, paszportu lub innego dokumentu stwierdzającego tożsamość;
 - **4)** opis stanu zdrowia dziecka urodzonego w wyniku procedury medycznie wspomaganej prokreacji oraz wskazania do zapoznania się z danymi dawcy, potwierdzone przez lekarza prowadzącego leczenie dziecka, jeżeli wniosek składa przedstawiciel ustawowy.
 
-#### Rozdział 6 Znakowanie, monitorowanie, przechowywanie, transport oraz kryteria bezpieczeństwa i jakości komórek rozrodczych i zarodków
+#### Rozdział 6 Znakowanie, monitorowanie, przechowywanie, transport oraz kryteria bezpieczeństwa i jakości
 
 **Art. 39.**
 
@@ -499,7 +530,15 @@ Art. 91–93. (pominięte)
 
 **Art. 41.** Ośrodek medycznie wspomaganej prokreacji oraz bank komórek rozrodczych i zarodków są obowiązane:
 
+- **1)** prowadzić walidację wszystkich procesów,
+- **2)** określać krytyczne momenty wszystkich procesów, które muszą być kontrolowane w oparciu o wyznaczone kryteria akceptacji,
+- **3)** prowadzić kwalifikację sprzętu, urządzeń technicznych i środowiska przebiegającego procesu rozumianą jako udokumentowane działanie mające na celu wykazanie, że sprzęt lub urządzenia są odpowiednio zainstalowane i pracują właściwie, również dla właściwego utrzymania środowiska przebiegającego procesu w celu zapewnienia jakości i bezpieczeństwa wymaganych dla komórek rozrodczych lub dla zarodka oraz uzyskania oczekiwanych wyników.
+
 **Art. 42.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** sposób tworzenia niepowtarzalnego oznakowania umożliwiającego identyfikację dawcy komórek rozrodczych i zarodków oraz sposób oznaczania za pomocą tego oznakowania komórek rozrodczych i zarodków, a także wyrobów medycznych i materiałów mających bezpośredni kontakt z komórkami rozrodczymi lub zarodkami,
+- **2)** szczegółowe wymagania w zakresie monitorowania, o którym mowa w art. 40 ust. 3,
+- **3)** tryb postępowania podejmowanego przez ośrodek medycznie wspomaganej prokreacji oraz bank komórek rozrodczych i zarodków w przypadku zaistnienia istotnego zdarzenia niepożądanego lub istotnej niepożądanej reakcji uwzględniając konieczność zapewnienia możliwości śledzenia i nadzorowania całości postępowania z komórkami rozrodczymi i zarodkami i identyfikowania zaangażowanych w nie podmiotów dla zapewnienia bezpieczeństwa zdrowotnego biorczyń i dziecka urodzonego w wyniku medycznie wspomaganej prokreacji.
 
 **Art. 43.**
 
@@ -543,7 +582,7 @@ Art. 91–93. (pominięte)
 
 2. Dokumentacja, o której mowa w ust. 1, może być gromadzona, przechowywana i udostępniana w postaci elektronicznej.
 
-3. (uchylony)
+3. Dane osobowe przetwarzane przez ośrodek medycznie wspomaganej prokreacji oraz bank komórek rozrodczych i zarodków podlegają ochronie na poziomie wysokim, o którym mowa w przepisach wydanych na podstawie art. 39a ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych, i są chronione przed dostępem do nich osób nieuprawnionych.
 
 4. W przypadku przekazywania komórek rozrodczych lub zarodków pomiędzy bankami komórek rozrodczych i zarodków dokumentacja dotycząca przechowywania komórek rozrodczych lub zarodków jest przekazywana wraz z komórkami rozrodczymi lub zarodkami.
 
@@ -680,15 +719,15 @@ Art. 91–93. (pominięte)
 
 3. Do zakresu zadań osoby odpowiedzialnej za jakość w ośrodku należy:
 
-- **1)** zapewnienie przestrzegania:
-    - **a)** wymogów dotyczących pobierania komórek rozrodczych,
-    - **b)** kryteriów doboru dotyczących dawcy komórek rozrodczych i dawców zarodków,
-    - **c)** wykonywania badań laboratoryjnych wymaganych w odniesieniu do dawcy komórek rozrodczych,
-    - **d)** procedur pobierania komórek rozrodczych,
-    - **e)** wymogów dotyczących przygotowania komórek rozrodczych i zarodków,
-    - **f)** procedur przetwarzania, testowania, znakowania i dystrybucji komórek rozrodczych i zarodków,
-    - **g)** wymogów dotyczących bezpośredniej dystrybucji komórek rozrodczych i zarodków,
-    - **h)** obowiązku odbycia przez pracowników ośrodka medycznie wspomaganej prokreacji szkoleń, o których mowa w art. 60 ust. 1;
+- **1)** zapewnienie przestrzegania: wymogów dotyczących pobierania komórek rozrodczych, kryteriów doboru dotyczących dawcy komórek rozrodczych i dawców zarodków, wykonywania badań laboratoryjnych wymaganych w odniesieniu do dawcy komórek rozrodczych, procedur pobierania komórek rozrodczych, wymogów dotyczących przygotowania komórek rozrodczych i zarodków, procedur przetwarzania, testowania, znakowania i dystrybucji komórek rozrodczych i zarodków, wymogów dotyczących bezpośredniej dystrybucji komórek rozrodczych i zarodków, obowiązku odbycia przez pracowników ośrodka medycznie wspomaganej prokreacji szkoleń, o których mowa w art. 60 ust. 1;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
 
 - **2)** prowadzenie stałego monitorowania i aktualizacji systemu zapewnienia jakości, o którym mowa w art. 52;
 - **3)** niezwłoczne, nie później jednak niż w terminie 14 dni, informowanie ministra właściwego do spraw zdrowia o każdym przypadku zaistnienia lub podejrzenia zaistnienia istotnego zdarzenia niepożądanego lub istotnej niepożądanej reakcji;
@@ -698,11 +737,11 @@ Art. 91–93. (pominięte)
 
 4. Do zakresu zadań osoby odpowiedzialnej za jakość w banku należy:
 
-- **1)** zapewnienie przestrzegania:
-    - **a)** procedur przyjmowania do banku komórek rozrodczych i zarodków,
-    - **b)** wymogów dotyczących przygotowania komórek rozrodczych i zarodków,
-    - **c)** procedur przetwarzania, przechowywania, znakowania i dystrybucji komórek rozrodczych i zarodków,
-    - **d)** obowiązku odbycia przez pracowników banku komórek rozrodczych i zarodków szkoleń, o których mowa w art. 60 ust. 1;
+- **1)** zapewnienie przestrzegania: procedur przyjmowania do banku komórek rozrodczych i zarodków, wymogów dotyczących przygotowania komórek rozrodczych i zarodków, procedur przetwarzania, przechowywania, znakowania i dystrybucji komórek rozrodczych i zarodków, obowiązku odbycia przez pracowników banku komórek rozrodczych i zarodków szkoleń, o których mowa w art. 60 ust. 1;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **2)** prowadzenie stałego monitorowania i aktualizacji systemu zapewniania jakości, o którym mowa w art. 52;
 - **3)** niezwłoczne, nie później jednak niż w terminie 14 dni, informowanie ministra właściwego do spraw zdrowia o każdym przypadku zaistnienia lub podejrzenia zaistnienia istotnego zdarzenia niepożądanego lub istotnej niepożądanej reakcji;
@@ -812,7 +851,7 @@ Art. 91–93. (pominięte)
 - **2)** numer PESEL osoby, która odbyła szkolenie, a w przypadku osoby, która nie ma nadanego numeru PESEL – serię i numer dowodu osobistego, paszportu lub innego dokumentu stwierdzającego tożsamość;
 - **3)** określenie formy szkolenia, o której mowa w art. 61 ust. 1;
 - **4)** wymiar godzinowy szkolenia i wynik szkolenia;
-- **5)** podpis i pieczątka lub imię i nazwisko kierownika jednostki szkolącej wraz z podaniem miejscowości i daty wydania zaświadczenia.
+- **5)** podpis i pieczęć kierownika jednostki szkolącej wraz z podaniem miejscowości i daty wydania zaświadczenia.
 
 3. Jednostki, w których odbywają się szkolenia, o których mowa w art. 60 ust. 1, przekazują ministrowi właściwemu do spraw zdrowia listy osób, które odbyły szkolenia.
 
@@ -824,13 +863,41 @@ Art. 91–93. (pominięte)
 
 **Art. 64.** Jednostki, w których odbywają się szkolenia, o których mowa w art. 60 ust. 1, powinny spełniać odpowiednie wymagania:
 
+- **1)** zapewnić bazę dydaktyczną dostosowaną do liczby osób uczestniczących w szkoleniach;
+- **2)** zapewnić odpowiednią kadrę dydaktyczną;
+- **3)** zapewnić sprawną organizację szkolenia;
+- **4)** uwzględniać przy opracowywaniu programu szkolenia aktualną wiedzę naukową, osiągnięcia teorii i praktyki oraz zweryfikowane wyniki badań naukowych.
+
 **Art. 65.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** ramowe programy szkoleń, o których mowa w art. 60 ust. 1,
+- **2)** sposób dokumentowania ich przebiegu,
+- **3)** wzór zaświadczenia o odbytym szkoleniu,
+- **4)** szczegółowe wymagania wobec jednostek, w których odbywają się szkolenia uwzględniając konieczność osiągnięcia celów, o których mowa w art. 60 ust. 2, dane, o których mowa w art. 63 ust. 2, i konieczność zapewnienia czytelności zaświadczenia o odbytym szkoleniu oraz dobrego przygotowania do zadań, które mają wpływ na jakość i bezpieczeństwo postępowania z komórkami rozrodczymi i zarodkami, osób zatrudnionych w ośrodkach medycznie wspomaganej prokreacji i bankach komórek rozrodczych i zarodków.
 
 #### Rozdział 10 Zadania ministra właściwego do spraw zdrowia, w tym w zakresie kontroli i nadzoru
 
 **Art. 66.** Do zadań ministra właściwego do spraw zdrowia należy:
 
+- **1)** sprawowanie nadzoru nad stosowaniem przepisów ustawy;
+- **2)** prowadzenie rejestru;
+- **3)** prowadzenie rejestru ośrodków medycznie wspomaganej prokreacji i banków komórek rozrodczych i zarodków;
+- **4)** sprawowanie nadzoru i kontroli nad ośrodkami medycznie wspomaganej prokreacji, bankami komórek rozrodczych i zarodków i centrami leczenia niepłodności pod względem merytorycznym;
+- **5)** wydawanie pozwoleń, o których mowa w art. 48 ust. 1 i art. 57 ust. 1;
+- **6)** upowszechnianie standardów medycznych oraz zasad deontologicznych w zakresie medycznie wspomaganej prokreacji;
+- **7)** prowadzenie analizy sytuacji epidemiologicznej w aspekcie niepłodności oraz analizy dostępności leczenia niepłodności, w tym skuteczności i bezpieczeństwa świadczonego leczenia;
+- **8)** współdziałanie z innymi podmiotami krajowymi i zagranicznymi, których celem działalności jest rozwój medycznie wspomaganej prokreacji;
+- **9)** akredytowanie jednostek, o których mowa w art. 60 ust. 1;
+- **10)** prowadzenie list osób, które odbyły szkolenia, o których mowa w art. 60 ust. 1.
+
 **Art. 67.** W ramach nadzoru, o którym mowa w art. 66 pkt 1, minister właściwy do spraw zdrowia w szczególności:
+
+- **1)** przedstawia Komisji Europejskiej corocznie, w terminie do dnia 30 czerwca, sprawozdanie roczne dotyczące powiadamiania o istotnych zdarzeniach niepożądanych i istotnych niepożądanych reakcjach w zakresie pobierania, testowania, przetwarzania, przechowywania, dystrybucji i stosowania komórek rozrodczych i zarodków u ludzi w procedurze medycznie wspomaganej prokreacji;
+- **2)** kontroluje dokumentowanie i przekazywanie ministrowi właściwemu do spraw zdrowia list osób, które odbyły szkolenia, o których mowa w art. 60 ust. 1;
+- **3)** kontroluje sposób przekazywania danych do rejestru oraz rejestru ośrodków medycznie wspomaganej prokreacji i banków komórek rozrodczych i zarodków;
+- **4)** udziela, odmawia udzielenia i cofa pozwolenia, o których mowa w art. 48 ust. 1 i art. 57 ust. 1;
+- **5)** przeprowadza kontrolę, o której mowa w art. 68, albo zleca jej przeprowadzenie;
+- **6)** udziela informacji pisemnej i przekazuje sprawozdania wynikające z przepisów dyrektywy 2004/23/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. w sprawie ustalenia norm jakości i bezpiecznego oddawania, pobierania, testowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. UE L 102 z 07.04.2004, str. 48), z przepisów dyrektywy Komisji 2006/17/WE z dnia 8 lutego 2006 r. wprowadzającej w życie dyrektywę 2004/23/WE Parlamentu Europejskiego i Rady w odniesieniu do niektórych wymagań technicznych dotyczących dawstwa, pobierania i badania tkanek i komórek ludzkich (Dz. Urz. UE L 38 z 09.02.2006, str. 40) oraz dyrektywy Komisji 2006/86/WE z dnia 24 października 2006 r. wykonującej dyrektywę 2004/23/WE Parlamentu Europejskiego i Rady w zakresie wymagań dotyczących możliwości śledzenia, powiadamiania o poważnych i niepożądanych reakcjach i zdarzeniach oraz niektórych wymagań technicznych dotyczących kodowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. UE L 294 z 25.10.2006, str. 32).
 
 **Art. 68.**
 
@@ -862,6 +929,12 @@ Art. 91–93. (pominięte)
 
 **Art. 71.** Minister właściwy do spraw zdrowia:
 
+- **1)** przedstawia Komisji Europejskiej, raz na 3 lata, sprawozdanie dotyczące sposobu realizacji przepisów dyrektyw, o których mowa w art. 67 pkt 6, na terytorium Rzeczypospolitej Polskiej w zakresie przepisów dotyczących medycznie wspomaganej prokreacji, w szczególności czynności kontrolnych i nadzorczych, w odniesieniu do wymagań określonych przepisami dyrektyw, o których mowa w art. 67 pkt 6;
+- **2)** przeprowadza na umotywowany pisemny wniosek właściwego organu innego państwa członkowskiego Unii Europejskiej kontrolę, o której mowa w art. 68 ust. 1, w przypadku wystąpienia istotnej niepożądanej reakcji lub istotnego zdarzenia niepożądanego w trakcie pobrania, stosowania lub po zastosowaniu komórek rozrodczych i zarodków u ludzi w celu medycznie wspomaganej prokreacji;
+- **3)** udziela na wniosek Komisji Europejskiej lub właściwego organu innego państwa członkowskiego Unii Europejskiej informacji pisemnej na temat wyników kontroli, o której mowa w art. 68 ust. 1;
+- **4)** zleca Agencji Oceny Technologii Medycznych i Taryfikacji, co 5 lat, przygotowanie raportu w sprawie oceny technologii medycznych stosowanych w procedurze zapłodnienia pozaustrojowego;
+- **5)** przedstawia Sejmowi Rzeczypospolitej Polskiej, co 5 lat, sprawozdanie z wykonywania ustawy oraz o skutkach jej stosowania.
+
 #### Rozdział 11 Rada do spraw Leczenia Niepłodności
 
 **Art. 72.**
@@ -873,10 +946,10 @@ Art. 91–93. (pominięte)
 3. Członek Rady ma obowiązek wyłączenia się od wykonania czynności, której wykonanie:
 
 - **1)** mogłoby mieć wpływ na jego prawa lub obowiązki lub
-- **2)** mogłoby mieć wpływ na prawa lub obowiązki:
-    - **a)** jego małżonka, zstępnego i wstępnego w linii prostej oraz osoby, z którymi członek Rady pozostaje we wspólnym pożyciu, lub
-    - **b)** spółek handlowych, spółdzielni, stowarzyszeń, fundacji i innych przedsiębiorców prowadzących ośrodki medycznie wspomaganej prokreacji lub banki komórek rozrodczych i zarodków, w których jest członkiem organów, przedstawicielem albo pełnomocnikiem lub członkiem organów, przedstawicielem albo pełnomocnikiem jest osoba wymieniona w lit. a, lub
-    - **c)** spółek handlowych lub spółdzielni prowadzących ośrodki medycznie wspomaganej prokreacji lub banki komórek rozrodczych i zarodków, w których członek Rady lub osoba wymieniona w lit. a posiada akcje lub udziały.
+- **2)** mogłoby mieć wpływ na prawa lub obowiązki: jego małżonka, zstępnego i wstępnego w linii prostej oraz osoby, z którymi członek Rady pozostaje we wspólnym pożyciu, lub spółek handlowych, spółdzielni, stowarzyszeń, fundacji i innych przedsiębiorców prowadzących ośrodki medycznie wspomaganej prokreacji lub banki komórek rozrodczych i zarodków, w których jest członkiem organów, przedstawicielem albo pełnomocnikiem lub członkiem organów, przedstawicielem albo pełnomocnikiem jest osoba wymieniona w lit. a, lub spółek handlowych lub spółdzielni prowadzących ośrodki medycznie wspomaganej prokreacji lub banki komórek rozrodczych i zarodków, w których członek Rady lub osoba wymieniona w lit. a posiada akcje lub udziały.
+    - **a)**
+    - **b)**
+    - **c)**
 
 4. Przynajmniej połowa członków Rady jest powoływana spośród kandydatów wskazanych na wniosek ministra właściwego do spraw zdrowia przez stowarzyszenia będące zgodnie z postanowieniami ich statutów towarzystwami naukowymi o zasięgu krajowym, zrzeszające specjalistów w zakresie medycyny rozrodu oraz przez Polską Akademię Nauk.
 
@@ -894,6 +967,15 @@ Art. 91–93. (pominięte)
 
 **Art. 73.** Do zadań Rady należy:
 
+- **1)** prowadzenie działalności informacyjnej na temat stylu życia chroniącego potencjał rozrodczy człowieka i zwiększającego szanse urodzenia zdrowego dziecka oraz celowości opieki prekoncepcyjnej;
+- **2)** prowadzenie działalności informacyjnej na temat czynników mających wpływ na potencjał rozrodczy człowieka;
+- **3)** prowadzenie działalności informacyjnej na temat możliwości leczenia niepłodności, w tym poprzez stosowanie procedur medycznie wspomaganej prokreacji;
+- **4)** upowszechnianie standardów postępowania oraz zasad deontologicznych w zakresie leczenia niepłodności, w tym stosowania procedur medycznie wspomaganej prokreacji;
+- **5)** opracowywanie dla ministra właściwego do spraw zdrowia i na jego wniosek projektów założeń aktów normatywnych oraz projektów innych dokumentów w zakresie procedury medycznie wspomaganej prokreacji;
+- **6)** opiniowanie projektów założeń aktów normatywnych, projektów aktów normatywnych oraz projektów innych dokumentów w zakresie leczenia niepłodności;
+- **7)** współdziałanie z organizacjami i stowarzyszeniami krajowymi i zagranicznymi, których celem jest promocja zdrowia prokreacyjnego i problematyka leczenia niepłodności, samorządem lekarskim, samorządem pielęgniarek i położnych, samorządem aptekarskim oraz samorządem diagnostów laboratoryjnych;
+- **8)** opiniowanie wniosków o nadanie statusu centrum leczenia niepłodności.
+
 **Art. 74.**
 
 1. Rada przedstawia ministrowi właściwemu do spraw zdrowia corocznie, w terminie do dnia 31 marca roku następującego po roku, którego dotyczy, sprawozdanie ze swojej działalności.
@@ -908,7 +990,7 @@ Art. 91–93. (pominięte)
 
 3. Członkom Rady nie przysługuje wynagrodzenie z tytułu zasiadania w Radzie.
 
-4. Członkom Rady przysługuje zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2019 r. poz. 1040, 1043 i 1495).
+4. Członkom Rady przysługuje zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 775 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502 i 1662 oraz z 2015 r. poz. 1066).
 
 #### Rozdział 12 Przepisy karne i administracyjne kary pieniężne
 
@@ -953,7 +1035,7 @@ Art. 91–93. (pominięte)
 1. Kto nie przekazuje ministrowi właściwemu do spraw zdrowia:
 
 - **1)** danych, o których mowa w art. 56 ust. 5, wprowadzanych do rejestru ośrodków medycznie wspomaganej prokreacji i banków komórek rozrodczych i zarodków lub
-- **2)** informacji o każdym przypadku zaistnienia lub podejrzenia zaistnienia istotnego zdarzenia niepożądanego lub istotnej niepożądanej reakcji – podlega karze pieniężnej w wysokości od 50 000 zł do 100 000 zł.
+- **2)** informacji o każdym przypadku zaistnienia lub podejrzenia zaistnienia istotnego zdarzenia niepożądanego lub istotnej niepożądanej reakcji podlega karze pieniężnej w wysokości od 50 000 zł do 100 000 zł.
 
 2. Kary pieniężne, o których mowa w ust. 1, nakłada minister właściwy do spraw zdrowia w drodze decyzji administracyjnej. Minister właściwy do spraw zdrowia jest wierzycielem w rozumieniu przepisów o postępowaniu egzekucyjnym w administracji.
 
@@ -968,6 +1050,61 @@ Art. 91–93. (pominięte)
 7. Wpływy z kar pieniężnych, o których mowa w ust. 1, stanowią dochód budżetu państwa.
 
 #### Rozdział 13 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 91.** W ustawie z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2015 r. poz. 583 i 1062) wprowadza się następujące zmiany:
+
+- **1)** w art. 62 § 2 otrzymuje brzmienie: „
+
+§ 2. Jeżeli dziecko urodziło się przed upływem trzystu dni od ustania lub unieważnienia małżeństwa, lecz po zawarciu przez matkę drugiego małżeństwa, domniemywa się, że pochodzi ono od drugiego męża. Domniemanie to nie dotyczy przypadku, gdy dziecko urodziło się w następstwie procedury medycznie wspomaganej prokreacji, na którą wyraził zgodę pierwszy mąż matki. ” ;
+
+- **2)** art. 68 otrzymuje brzmienie: „ Zaprzeczenie ojcostwa nie jest dopuszczalne, jeżeli dziecko urodziło się w następstwie procedury medycznie wspomaganej prokreacji, na którą mąż matki wyraził zgodę. ” ;
+- **3)** po art. 75 dodaje się art. 751 w brzmieniu: „
+
+**Art. 751.**
+
+§ 1. Uznanie ojcostwa następuje z dniem urodzenia się dziecka także wtedy, gdy przed przeniesieniem do organizmu kobiety komórek rozrodczych pochodzących od anonimowego dawcy albo zarodka powstałego z komórek rozrodczych pochodzących od anonimowego dawcy albo z dawstwa zarodka mężczyzna oświadczy przed kierownikiem urzędu stanu cywilnego, że będzie ojcem dziecka, które urodzi się w następstwie procedury medycznie wspomaganej prokreacji z zastosowaniem tych komórek albo tego zarodka, a kobieta ta potwierdzi jednocześnie albo w ciągu trzech miesięcy od dnia oświadczenia mężczyzny, że ojcem dziecka będzie ten mężczyzna.
+
+§ 2. Oświadczenia są skuteczne, jeżeli dziecko urodziło się w następstwie procedury medycznie wspomaganej prokreacji, o której mowa w § 1, w ciągu dwóch lat od dnia złożenia oświadczenia przez mężczyznę.
+
+§ 3. Jeżeli dziecko urodziło się po zawarciu przez matkę małżeństwa z innym mężczyzną niż ten, który uznał ojcostwo, przepisu art. 62 nie stosuje się.
+
+§ 4. Przepisów art. 73 § 1 i 4 oraz art. 74 nie stosuje się. ” ;
+
+- **4)** po art. 81 dodaje się art. 811 w brzmieniu: „
+
+**Art. 811.** W przypadku gdy uznanie ojcostwa nastąpiło na podstawie art. 751, ustalenie bezskuteczności uznania ojcostwa jest dopuszczalne jedynie wówczas, gdy dziecko nie urodziło się w następstwie procedury medycznie wspomaganej prokreacji, o której mowa w art. 751 § 1. ” ;
+
+- **5)** w art. 85 § 1 otrzymuje brzmienie: „
+
+§ 1. Domniemywa się, że ojcem dziecka jest ten, kto obcował z matką dziecka nie dawniej niż w trzechsetnym, a nie później niż w sto osiemdziesiątym pierwszym dniu przed urodzeniem się dziecka, albo ten, kto był dawcą komórki rozrodczej w przypadku dziecka urodzonego w wyniku dawstwa partnerskiego w procedurze medycznie wspomaganej prokreacji. ” .
+
+**Art. 92.** Wustawie z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej (Dz. U. z 2014 r. poz. 1384 i 1491) w art. 16 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „ 2. Za wykonywanie zawodu diagnosty laboratoryjnego uznaje się również postępowanie z komórkami rozrodczymi i zarodkami w ośrodku medycznie wspomaganej prokreacji, także poza laboratorium. ” .
+
+**Art. 93.** W ustawie z dnia 28 listopada 2014 r. – Prawo o aktach stanu cywilnego (Dz. U. poz. 1741 i 1888 oraz z 2015 r. poz. 262) wprowadza się następujące zmiany:
+
+- **1)** w art. 19: w ust. 2 po pkt 4 dodaje się pkt 4a w brzmieniu: „
+    - **a)**
+
+- **4a)** informację, że oświadczenie konieczne do uznania ojcostwa zostało złożone przed przeniesieniem do organizmu kobiety komórek rozrodczych pochodzących od anonimowego dawcy albo zarodka powstałego z komórek rozrodczych pochodzących od anonimowego dawcy albo z dawstwa zarodka; ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **b)**
+
+2a. Informacja, o której mowa w ust. 2 pkt 4a, podlega usunięciu z rejestru, jeżeli w ciągu dwóch lat od dnia przyjęcia oświadczenia złożonego przez mężczyznę koniecznego do uznania ojcostwa dziecko się nie urodziło. ” ;
+
+- **2)** w art. 63 dodaje się ust. 11 i 12 w brzmieniu: „
+
+11. Jeżeli oświadczenie konieczne do uznania ojcostwa zostało złożone przed przeniesieniem do organizmu kobiety komórek rozrodczych pochodzących od anonimowego dawcy albo zarodka powstałego z komórek rozrodczych pochodzących od anonimowego dawcy albo z dawstwa zarodka, kierownik urzędu stanu cywilnego sporządza protokół, który zawiera:
+
+- **1)** nazwiska, imiona oraz nazwiska rodowe, daty i miejsca urodzenia mężczyzny uznającego ojcostwo i kobiety, numery PESEL tych osób, jeżeli zostały nadane, wraz z oznaczeniem dokumentów tożsamości;
+- **2)** informację, że oświadczenie konieczne do uznania ojcostwa zostało złożone przed przeniesieniem do organizmu kobiety komórek rozrodczych pochodzących od anonimowego dawcy albo zarodka powstałego z komórek rozrodczych pochodzących od anonimowego dawcy albo z dawstwa zarodka;
+- **3)** informację o wyjaśnieniu osobom zamierzającym złożyć oświadczenia konieczne do uznania ojcostwa przepisów regulujących obowiązki i prawa wynikające z uznania ojcostwa, przepisów o nazwisku dziecka oraz różnicy między uznaniem ojcostwa a przysposobieniem dziecka;
+- **4)** informację o złożeniu przez mężczyznę uznającego ojcostwo i kobietę zgodnych oświadczeń o nazwisku dziecka lub informację o braku zgodnych oświadczeń;
+- **5)** informację o dacie złożenia przez mężczyznę uznającego ojcostwo oświadczenia;
+- **6)** informację o dacie złożenia przez kobietę oświadczenia, że mężczyzna, który złożył oświadczenie, będzie ojcem dziecka;
+- **7)** nazwisko i imię biegłego lub tłumacza, jeżeli brał udział w czynności;
+- **8)** adres do korespondencji;
+- **9)** nazwisko i imię kierownika urzędu stanu cywilnego przyjmującego oświadczenie.
+
+12. Protokół, o którym mowa w ust. 11, podlega brakowaniu, jeżeli w ciągu dwóch lat od dnia złożenia przez mężczyznę oświadczenia koniecznego do uznania ojcostwa dziecko się nie urodziło. Jeżeli dziecko się urodzi, protokół jest dołączany do akt zbiorowych aktu urodzenia i podlega udostępnieniu na wniosek osoby, której akt dotyczy, po osiągnięciu przez nią pełnoletności, lub na żądanie sądu. ” .
 
 **Art. 94.**
 
@@ -990,13 +1127,13 @@ Art. 91–93. (pominięte)
 
 - **1)** po pierwszym kwartale – co najmniej o 15%,
 - **2)** po dwóch kwartałach – co najmniej o 10%,
-- **3)** po trzech kwartałach – co najmniej o 5% – minister właściwy do spraw zdrowia stosuje mechanizm korygujący zgodnie z ust. 4.
+- **3)** po trzech kwartałach – co najmniej o 5% minister właściwy do spraw zdrowia stosuje mechanizm korygujący zgodnie z ust. 4.
 
 4. Mechanizm korygujący polega na ograniczeniu:
 
 - **1)** wydatków związanych z funkcjonowaniem Rady do spraw Leczenia Niepłodności,
 - **2)** wydatków związanych z prowadzeniem rejestru oraz rejestru ośrodków medycznie wspomaganej prokreacji i banków komórek rozrodczych i zarodków,
-- **3)** innych wydatków związanych z realizacją ustawy, w szczególności dotyczących wynagrodzeń osób zatrudnianych w urzędzie obsługującym ministra właściwego do spraw zdrowia w celu wykonywania zadań określonych ustawą – przy jednoczesnym zapewnieniu skutecznego wykonywania zadań ustawowych przez ministra właściwego do spraw zdrowia oraz zapewnienia bezpieczeństwa danych gromadzonych w tych rejestrach.
+- **3)** innych wydatków związanych z realizacją ustawy, w szczególności dotyczących wynagrodzeń osób zatrudnianych w urzędzie obsługującym ministra właściwego do spraw zdrowia w celu wykonywania zadań określonych ustawą przy jednoczesnym zapewnieniu skutecznego wykonywania zadań ustawowych przez ministra właściwego do spraw zdrowia oraz zapewnienia bezpieczeństwa danych gromadzonych w tych rejestrach.
 
 5. Organem właściwym do monitorowania wykorzystania limitu wydatków, o których mowa w ust. 1, oraz wdrożenia mechanizmu korygującego, o którym mowa w ust. 4, jest minister właściwy do spraw zdrowia.
 
@@ -1016,13 +1153,16 @@ Art. 91–93. (pominięte)
 
 **Art. 97.** Zarodki utworzone i przechowywane przed dniem wejścia w życie ustawy są przekazywane do dawstwa zarodka:
 
+- **1)** po upływie 20 lat od dnia wejścia w życie ustawy, chyba że wcześniej zostaną przekazane przez dawców zarodka do dawstwa zarodka;
+- **2)** w przypadku zaistnienia okoliczności, o których mowa w art. 21 ust. 3 pkt 2.
+
 **Art. 98.**
 
 1. Podmioty, które przed dniem wejścia w życie ustawy gromadziły, testowały, przetwarzały, przechowywały, dystrybuowały komórki rozrodcze lub zarodki, dokonywały wywozu komórek rozrodczych lub zarodków z terytorium Rzeczypospolitej Polskiej na terytorium państw innych niż państwa członkowskie Unii Europejskiej lub przywozu komórek rozrodczych lub zarodków na terytorium Rzeczypospolitej Polskiej z terytorium państw innych niż państwa członkowskie Unii Europejskiej, tworzą program postępowania z komórkami rozrodczymi i zarodkami zgromadzonymi do dnia uzyskania pozwolenia, o którym mowa w art. 48 ust. 1, zwany dalej „programem”, w celu ustalenia sposobu postępowania prowadzącego do zapewnienia:
 
 - **1)** jakości ich przechowywania,
 - **2)** zdrowia i bezpieczeństwa biorczyni oraz zdrowia dzieci, które mogą się urodzić w wyniku zastosowania tych komórek rozrodczych lub zarodków w procedurze medycznie wspomaganej prokreacji,
-- **3)** bezpieczeństwa komórek rozrodczych lub zarodków gromadzonych, przetwarzanych, przechowywanych lub dystrybuowanych – wynikających z przepisów ustawy.
+- **3)** bezpieczeństwa komórek rozrodczych lub zarodków gromadzonych, przetwarzanych, przechowywanych lub dystrybuowanych wynikających z przepisów ustawy.
 
 2. Program obejmuje:
 
@@ -1052,5 +1192,8 @@ Art. 91–93. (pominięte)
 
 **Art. 99.** Minister właściwy do spraw zdrowia po raz pierwszy:
 
-**Art. 100.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia .
+- **1)** zleci przygotowanie raportu, o którym mowa w art. 71 pkt 4,
+- **2)** przedstawi Sejmowi Rzeczypospolitej Polskiej sprawozdanie, o którym mowa w art. 71 pkt 5 nie później niż 6 miesięcy od upływu 5 lat od dnia wejścia w życie ustawy.
+
+**Art. 100.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
 

@@ -8,12 +8,10 @@ pos: 2290
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw
-
-*USTAWA z dnia 24 listopada 2017 r.*
+# Ustawa z dnia 24 listopada 2017 r. o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,60 +22,952 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2017-11-24 |
 | Data wydania | 2017-12-11 |
+| Wejście w życie | 2018-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002290) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2290/text.pdf) |
 
-1) zużyty olej kuchenny;
-2) tłuszcze zwierzęce.” Załącznik nr 2 „Załącznik nr 3 Część A. Tymczasowe szacowane emisje surowców dla biokomponentów i biopłynów, wynikające z pośredniej zmiany użytkowania gruntów (gCO /MJ) Grupa surowców Średnia Zakres między percentylami uzyskany z analizy wrażliwości Rośliny wysokoskrobiowe 12 8–16 Rośliny cukrowe 13 4–17 Rośliny oleiste 55 33–66 Przedstawione tu średnie wartości stanowią średnią ważoną indywidualnie modelowanych wartości dotyczących surowców.
-Przedstawiony tu zakres oddaje 90% wyników przy użyciu wartości 5. i 95. percentyla wynikających z analizy. Percentyl 5. oznacza wartość, poniżej której stwierdzono 5% obserwacji (tj. 5% łącznych danych wykazało wyniki poniżej 8, 4 i 33 gCO /MJ).
-Percentyl 95. oznacza wartość, poniżej której stwierdzono 95% obserwacji (tj. 5% łącznych danych wykazało wyniki powyżej 16, 17 i 66 gCO /MJ).
-W przypadku biokomponentów i biopłynów produkowanych z następujących kategorii surowców uznaje się, że ich szacowane emisje wynikające z pośredniej zmiany użytkowania gruntów wynoszą zero:
-1) surowce niewymienione w części A niniejszego załącznika;
-2) surowce, których produkcja prowadzi do bezpośredniej zmiany użytkowania gruntów, np. zmiany jednej z następujących klas pokrycia terenu stosowanych przez Międzyrządowy Zespół do spraw Zmian Klimatu (IPCC); grunty leśne, użytki zielone, tereny podmokłe, grunty zabudowane lub inne grunty, na klasę gruntów uprawnych lub upraw wieloletnich . W takim przypadku wartość emisji wynikającej z bezpośredniej zmiany użytkowania gruntów (e ) należy obliczać zgodnie z załącznikiem nr 1 pkt II.3. pkt 7.”.
+## Załącznik nr 1 — –
 
-**Art. 1.** W ustawie z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2017 r. poz. 285 i 624) wprowadza się następujące zmiany:
+## Załącznik nr 2 — –
 
-**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2017 r. poz. 519, z późn. zm. ) wprowadza się następujące zmiany:
+Art. 1.
+W ustawie z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2017 r. poz. 285 i 624) wprowadza się następujące zmiany:
+1)
+w art. 2 w ust. 1:
+a)
+po pkt 10 dodaje się pkt 10a w brzmieniu:
+„
+10a)
+paliwa – paliwa, o których mowa w art. 2 ust. 1 pkt 3 ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw;
+” ,
+b)
+w pkt 11 lit. a i b otrzymują brzmienie:
+„
+a)
+benzyny silnikowe zawierające powyżej 10,0% objętościowo biokomponentów lub powyżej 22,0% objętościowo eterów, o których mowa w pkt 4, z wyłączeniem benzyn silnikowych zawierających biowęglowodory ciekłe,
+b)
+olej napędowy zawierający powyżej 7% objętościowo biokomponentów, z wyłączeniem oleju napędowego zawierającego biowęglowodory ciekłe,
+” ,
+c)
+po pkt 11 dodaje się pkt 11a-11d w brzmieniu:
+„
+11a)
+rośliny wysokoskrobiowe – zboża, rośliny bulwiaste i korzeniowe, takie jak ziemniak, słodki ziemniak, topinambur, maniok, ignam oraz rośliny cebulowe, takie jak kolokazja jadalna i ksantosoma;
+11b)
+pozostałości z rolnictwa, akwakultury, rybołówstwa lub leśnictwa – pozostałości pochodzenia biologicznego wytworzone bezpośrednio w rolnictwie, akwakulturze, rybołówstwie lub leśnictwie, z wyłączeniem pozostałości pochodzących z działów przemysłu powiązanych z rolnictwem, akwakulturą, rybołówstwem lub leśnictwem oraz pozostałości z przetwarzania;
+11c)
+pozostałość z przetwarzania – substancje biodegradowalne, które pochodzą z procesu produkcyjnego i nie są produktem końcowym tego procesu oraz nie są podstawowym celem takiego procesu produkcyjnego, a proces produkcyjny nie został w sposób zamierzony zmodyfikowany w celu wytworzenia tych substancji;
+11d)
+współuwodornienie – proces polegający na jednoczesnej hydrorafinacji frakcji pochodzących z przerobu ropy naftowej i biomasy, w wyniku którego powstają biowęglowodory ciekłe oraz bio propan-butan w mieszaninie z węglowodorami z przerobu ropy naftowej;
+” ,
+d)
+pkt 12–14 otrzymują brzmienie:
+„
+12)
+import – przywóz na terytorium Rzeczypospolitej Polskiej paliw ciekłych, biopaliw ciekłych, biokomponentów lub surowców do ich wytworzenia, spoza obszaru celnego Unii Europejskiej;
+13)
+nabycie wewnątrzwspólnotowe – przemieszczenie paliw ciekłych, biopaliw ciekłych, biokomponentów lub surowców do ich wytworzenia z terytorium innego państwa członkowskiego Unii Europejskiej na terytorium Rzeczypospolitej Polskiej;
+14)
+wprowadzanie do obrotu – rozporządzenie biokomponentami, paliwami ciekłymi lub biopaliwami ciekłymi przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej na terytorium Rzeczypospolitej Polskiej, poza procedurą zawieszenia poboru akcyzy w rozumieniu przepisów o podatku akcyzowym;
+” ,
+e)
+pkt 20a otrzymuje brzmienie:
+„
+20a)
+podmiot sprowadzający – przedsiębiorcę w rozumieniu ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej, wykonującego działalność gospodarczą w zakresie importu lub nabycia wewnątrzwspólnotowego biokomponentów dokonanego samodzielnie lub za pośrednictwem innego podmiotu, a następnie rozporządzenia tymi biokomponentami przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej;
+” ,
+f)
+pkt 22–24 otrzymują brzmienie:
+„
+22)
+skład podatkowy – skład podatkowy w rozumieniu art. 2 ust. 1 pkt 10 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2017 r. poz. 43, 60, 937 i 2216);
+23)
+inne paliwa odnawialne – paliwa pochodzące z odnawialnych źródeł energii w rozumieniu ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2017 r. poz. 1148, 1213 i 1593), z wyłączeniem paliw pochodzących z biomasy, stosowane w transporcie;
+24)
+Narodowy Cel Wskaźnikowy – minimalny udział innych paliw odnawialnych i biokomponentów zawartych w paliwach ciekłych lub biopaliwach ciekłych stosowanych we wszystkich rodzajach transportu w ogólnej ilości paliw ciekłych i biopaliw ciekłych zużywanych w ciągu roku kalendarzowego w transporcie drogowym i kolejowym, liczony według wartości opałowej;
+” ,
+g)
+uchyla się pkt 32,
+h)
+po pkt 32 dodaje się pkt 32a-32d w brzmieniu:
+„
+32a)
+materiał lignocelulozowy – surowce składające się z ligniny, celulozy lub hemicelulozy, takie jak biomasa pozyskiwana z lasów lub upraw drzewiastych roślin energetycznych, w szczególności wierzby, brzozy i topoli czarnej, oraz pozostałości z przetwarzania i odpady z przemysłu związanego z leśnictwem;
+32b)
+niespożywczy materiał celulozowy – surowce składające się głównie z celulozy i hemicelulozy o niższej zawartości ligniny niż materiał lignocelulozowy obejmujące:
+a)
+pozostałości pożniwne roślin spożywczych i paszowych, takie jak:
+– słoma,
+– łodygi roślin zbożowych,
+– łuski nasion,
+– łupiny,
+b)
+trawiaste rośliny energetyczne o niskiej zawartości skrobi, takie jak:
+– życica,
+– proso rózgowate,
+– miskantus,
+– arundo trzcinowate,
+– uprawy okrywowe,
+c)
+pozostałości z przetwarzania, w tym rośliny spożywcze i paszowe, po wyekstrahowaniu olejów roślinnych, cukrów, skrobi i białek,
+d)
+bioodpady w rozumieniu ustawy z dnia 14 grudnia 2012 r. o odpadach;
+32c)
+zużyty olej kuchenny – odpad o kodzie 20 01 25, o którym mowa w przepisach wydanych na podstawie art. 4 ust. 3 ustawy z dnia 14 grudnia 2012 r. o odpadach, będący mieszaniną olejów oraz tłuszczów, powstały w wyniku czynności prowadzonych w związku z produkcją lub przetwarzaniem produktów spożywczych, w wyniku której nastąpiła zmiana ich właściwości fizycznych i chemicznych;
+32d)
+tłuszcze zwierzęce – tłuszcze otrzymane z materiałów kategorii 1 lub kategorii 2, o których mowa w art. 8 i 9 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1069/2009 z dnia 21 października 2009 r. określającego przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego, nieprzeznaczonych do spożycia przez ludzi, i uchylającego rozporządzenie (WE) nr 1774/2002 (rozporządzenie o produktach ubocznych pochodzenia zwierzęcego) (Dz. Urz. UE L 300 z 14.11.2009, str. 1, z późn. zm.);
+” ;
+2)
+w art. 6:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Wpisowi do rejestru wytwórców podlegają dane, o których mowa w art. 5 ust. 4 pkt 1–3, z wyłączeniem innych danych teleadresowych.
+” ,
+b)
+ust. 3 otrzymuje brzmienie:
+„
+3.
+Rejestr wytwórców jest jawny.
+” ;
+3)
+po art. 11 dodaje się art. 11a w brzmieniu:
+„
+Art. 11a.
+Zabrania się wytwórcom wykorzystywania biomasy będącej produktem działów przemysłu powiązanych z rolnictwem, przy dostawie której została zastosowana stawka podatku od towarów i usług wyższa niż 5%, do wytwarzania estrów.
+” ;
+4)
+w art. 12a ust. 1 i 2 otrzymują brzmienie:
+„
+1.
+Działalność gospodarcza w zakresie importu lub nabycia wewnątrzwspólnotowego biokomponentów dokonanego samodzielnie lub za pośrednictwem innego podmiotu oraz rozporządzania tymi biokomponentami przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej jest działalnością regulowaną w rozumieniu przepisów o swobodzie działalności gospodarczej i wymaga wpisu do rejestru podmiotów sprowadzających.
+2.
+Czasowe świadczenie usług w zakresie wykonywania działalności gospodarczej, o której mowa w ust. 1, przez przedsiębiorców z państw członkowskich w rozumieniu art. 2 ust. 1 pkt 4 ustawy z dnia 4 marca 2010 r. o świadczeniu usług na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2016 r. poz. 893 i 1948 oraz z 2017 r. poz. 60 i 1089) wymaga uzyskania wpisu do rejestru podmiotów sprowadzających. Przepisy niniejszego rozdziału oraz rozdziałów 1, 4a i 5–7 stosuje się.
+” ;
+5)
+w art. 12b pkt 2–4 otrzymują brzmienie:
+„
+2)
+prowadzić dokumentację dotyczącą importu lub nabycia wewnątrzwspólnotowego biokomponentów dokonanego samodzielnie lub za pośrednictwem innego podmiotu oraz rozporządzania tymi biokomponentami przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej;
+3)
+posiadać zezwolenie określone w przepisach o podatku akcyzowym, o ile taki obowiązek wynika z tych przepisów;
+4)
+zapewnić, aby biokomponenty, które poddawane są jakiejkolwiek czynności prawnej lub faktycznej, spełniały wymagania jakościowe określone w ustawie.
+” ;
+6)
+w art. 12c:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Działalność gospodarczą w zakresie określonym w art. 12a ust. 1 i 2 może wykonywać podmiot sprowadzający, który nie był karany za przestępstwo skarbowe, przestępstwo przeciwko mieniu, wiarygodności dokumentów, a także przeciwko obrotowi pieniędzmi i papierami wartościowymi oraz obrotowi gospodarczemu, a w przypadku podmiotu sprowadzającego będącego osobą prawną lub jednostką organizacyjną niebędącą osobą prawną, której odrębna ustawa przyznaje zdolność prawną – którego odpowiednio członkowie zarządu albo osoby uprawnione do reprezentowania nie były karane za te przestępstwa.
+” ,
+b)
+w ust. 4 pkt 1 otrzymuje brzmienie:
+„
+1)
+oświadczenie następującej treści:
+„
+Oświadczam, że:
+1)
+dane zawarte we wniosku o wpis do rejestru podmiotów sprowadzających są kompletne i zgodne z prawdą;
+2)
+znane mi są warunki wykonywania działalności gospodarczej w zakresie importu lub nabycia wewnątrzwspólnotowego biokomponentów dokonanego samodzielnie lub za pośrednictwem innego podmiotu oraz rozporządzania tymi biokomponentami przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej określone w ustawie z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych oraz spełniam warunki, o których mowa w art. 12b pkt 1 i 3 oraz w art. 12c ust. 1 tej ustawy.”;
+” ;
+” ;
+7)
+w art. 12d:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Wpisowi do rejestru podmiotów sprowadzających podlegają dane, o których mowa w art. 12c ust. 3 pkt 1–3, z wyłączeniem innych danych teleadresowych.
+” ,
+b)
+ust. 3 otrzymuje brzmienie:
+„
+3.
+Rejestr podmiotów sprowadzających jest jawny.
+” ;
+8)
+w art. 14:
+a)
+w ust. 1 pkt 2 otrzymuje brzmienie:
+„
+2)
+posiadać zezwolenie na prowadzenie składu podatkowego albo wytwarzać biopaliwa ciekłe na własny użytek poza składem podatkowym z zastosowaniem przedpłaty akcyzy, o której mowa w ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym.
+” ,
+b)
+w ust. 4 pkt 1 otrzymuje brzmienie:
+„
+1)
+oświadczenie następującej treści:
+„
+Oświadczam, że:
+1)
+dane zawarte we wniosku o wpis do rejestru rolników wytwarzających biopaliwa ciekłe na własny użytek są kompletne i zgodne z prawdą;
+2)
+znane mi są i spełniam warunki, o których mowa w art. 14 ust. 1 ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych;
+3)
+zobowiązuję się do:
+a)
+wytwarzania biopaliw ciekłych na własny użytek w składzie podatkowym albo poza składem podatkowym z zastosowaniem przedpłaty akcyzy, o której mowa w ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym,
+b)
+nierozporządzania przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej biopaliwami ciekłymi, przestrzegania wymagań jakościowych, nieprzekraczania dopuszczalnego limitu ilości wytworzonych biopaliw ciekłych, składania rocznych sprawozdań, a także przestrzegania innych wymagań wynikających z ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych.”;
+” ;
+” ;
+9)
+w art. 22 ust. 3 otrzymuje brzmienie:
+„
+3.
+Akredytowane jednostki certyfikujące informują organ rejestrowy o wydaniu lub cofnięciu certyfikatu jakości, o którym mowa w ust. 1, w terminie 14 dni od dnia jego wydania lub cofnięcia.
+” ;
+10)
+po art. 22 dodaje się art. 22a w brzmieniu:
+„
+Art. 22a.
+1.
+Podmiot, który w danym roku kalendarzowym dokonał po raz pierwszy czynności powodujących powstanie obowiązku, o którym mowa w art. 23 ust. 1, jest obowiązany poinformować o dokonaniu takiej czynności Prezesa Urzędu Regulacji Energetyki, w terminie 14 dni od dnia jej dokonania.
+2.
+Informacja, o której mowa w ust. 1, zawiera:
+1)
+oznaczenie firmy podmiotu, adresu jego siedziby lub imię i nazwisko i adres zamieszkania;
+2)
+numer PESEL lub numer identyfikacji podatkowej (NIP) podmiotu oraz numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), jeżeli został nadany, albo numer identyfikacji podmiotu w odpowiednim rejestrze państwa obcego;
+3)
+datę dokonania czynności powodującej powstanie obowiązku, o którym mowa w art. 23 ust. 1;
+4)
+określenie rodzaju czynności powodującej powstanie obowiązku, o którym mowa w art. 23 ust. 1;
+5)
+podpis osoby uprawnionej do reprezentowania podmiotu.
+3.
+Do informacji, o której mowa w ust. 1, podmiot dołącza oświadczenie zawierające oznaczenie miejsca i datę jego złożenia oraz podpis osoby uprawnionej do jego reprezentowania, o następującej treści: „ Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia, wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, oświadczam, że dane zawarte w informacji są kompletne i zgodne z prawdą. ” . Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+4.
+Prezes Urzędu Regulacji Energetyki prowadzi wykaz podmiotów, które są zobowiązane do realizacji Narodowego Celu Wskaźnikowego w danym roku kalendarzowym, w szczególności na podstawie informacji przekazanych na podstawie ust. 1 oraz sprawozdań, o których mowa w art. 30b ust. 3.
+5.
+Wykaz, o którym mowa w ust. 4, zawiera:
+1)
+oznaczenie firm podmiotów, adresów ich siedzib lub imię i nazwisko i adres zamieszkania;
+2)
+numery PESEL lub numery identyfikacji podatkowej (NIP) podmiotów oraz numery identyfikacyjne w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), jeżeli zostały nadane, albo numery identyfikacji podmiotów w odpowiednich rejestrach państw obcych.
+6.
+Wykaz, o którym mowa w ust. 4, jest jawny, z wyłączeniem numerów PESEL, i podlega publikacji w Biuletynie Informacji Publicznej Urzędu Regulacji Energetyki.
+” ;
+11)
+w art. 23:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Podmiot realizujący Narodowy Cel Wskaźnikowy jest obowiązany zapewnić w danym roku kalendarzowym co najmniej minimalny udział innych paliw odnawialnych lub biokomponentów zawartych w paliwach ciekłych lub biopaliwach ciekłych, stosowanych we wszystkich rodzajach transportu, rozporządzanych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej lub zużywanych przez niego na potrzeby własne w ogólnej ilości paliw ciekłych i biopaliw ciekłych stosowanych w transporcie drogowym i kolejowym, rozporządzanych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej lub zużywanych przez niego w ciągu roku kalendarzowego na potrzeby własne.
+” ,
+b)
+po ust. 1 dodaje się ust. 1a-1e w brzmieniu:
+„
+1a.
+Podmiot realizujący Narodowy Cel Wskaźnikowy może zrealizować obowiązek, o którym mowa w ust. 1, uiszczając opłatę zastępczą w wysokości określonej w ust. 6, jeżeli wykaże, że w roku kalendarzowym, którego dotyczył ten obowiązek, zrealizował Narodowy Cel Wskaźnikowy na minimalnym określonym poziomie.
+1b.
+Minimalny poziom realizacji Narodowego Celu Wskaźnikowego, o którym mowa w ust. 1a, wynosi co najmniej 85% poziomu obowiązku, o którym mowa w ust. 1.
+1c.
+Minister właściwy do spraw energii może określić, w drodze rozporządzenia, minimalny poziom realizacji Narodowego Celu Wskaźnikowego, o którym mowa w ust. 1a, uwzględniając minimalny poziom realizacji tego obowiązku określony w ust. 1b, a także biorąc pod uwagę sytuację na rynku biokomponentów, paliw ciekłych i biopaliw ciekłych.
+1d.
+Podmiot realizujący Narodowy Cel Wskaźnikowy może zrealizować obowiązek, o którym mowa w ust. 1, z wykorzystaniem biokomponentów zawartych w paliwach powstałych w wyniku współuwodornienia.
+1e.
+Minister właściwy do spraw energii określi, w drodze rozporządzenia, metodykę obliczania zawartości biokomponentów zawartych w paliwach powstałych w wyniku współuwodornienia, biorąc pod uwagę stan wiedzy technicznej w tym zakresie wynikający z badań tych paliw lub doświadczenia w ich stosowaniu.
+” ,
+c)
+ust. 4a i 4b otrzymują brzmienie:
+„
+4a.
+Udział biokomponentów wytworzonych z surowców określonych w załączniku nr 1 do ustawy, liczony według wartości opałowej, w ogólnej ilości paliw ciekłych i biopaliw ciekłych stosowanych w transporcie drogowym i kolejowym, rozporządzanych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej na terytorium Rzeczypospolitej Polskiej przez podmiot realizujący Narodowy Cel Wskaźnikowy lub zużywanych przez ten podmiot na potrzeby własne na tym terytorium, uznaje się za dwukrotnie wyższy w części, w jakiej zostały one wytworzone z surowców określonych w załączniku nr 1 do ustawy.
+4b.
+Do surowców, z których udział liczony według wartości opałowej uznaje się za dwukrotnie wyższy w rozumieniu ust. 4a, nie zalicza się odpadów będących naturalnymi surowcami spożywczymi, które na skutek niecelowego lub celowego działania lub w wyniku braku odpowiednich warunków produkcji, przechowywania, transportu lub przetwarzania nabyły cechy uniemożliwiające ich przeznaczenie do spożycia lub przestały spełniać wymogi dopuszczające te surowce do spożycia.
+” ,
+d)
+po ust. 4b dodaje się ust. 4ba w brzmieniu:
+„
+4ba.
+Udział biokomponentów, o którym mowa w ust. 4a, nie może być wyższy niż 1,5%.
+” ,
+e)
+ust. 4c otrzymuje brzmienie:
+„
+4c.
+Minister właściwy do spraw energii może określić, w drodze rozporządzenia, niższy niż wynikający z ust. 4ba, udział biokomponentów, o którym mowa w ust. 4a, biorąc pod uwagę stan wiedzy technicznej w zakresie możliwości wykorzystania tych surowców do wytwarzania biokomponentów oraz ich dostępność.
+” ,
+f)
+dodaje się ust. 6–9 w brzmieniu:
+„
+6.
+Opłatę zastępczą, o której mowa w ust. 1a, oblicza się według wzoru: Oz = Ozj × W × (N − P), gdzie poszczególne symbole oznaczają: Oz – wysokość opłaty zastępczej, wyrażoną w złotych, Ozj – jednostkową opłatę zastępczą wynoszącą 0,01, wyrażoną w złotych/MJ, W – wartość energetyczną paliw ciekłych i biopaliw ciekłych rozporządzonych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej przez podmiot uiszczający opłatę zastępczą, a także zużytych przez niego na potrzeby własne, liczoną za rok, w którym podmiot ten skorzystał z uprawnienia, o którym mowa w ust. 1a, wyrażoną w MJ; wartość opałową poszczególnych biokomponentów i paliw ciekłych określa się zgodnie z przepisami wydanymi na podstawie ust. 3, N – wysokość Narodowego Celu Wskaźnikowego, do którego realizacji był obowiązany podmiot uiszczający opłatę zastępczą, wyrażoną w procentach, P – wysokość zrealizowanego udziału innych paliw odnawialnych lub biokomponentów zawartych w paliwach ciekłych lub biopaliwach ciekłych, stosowanych we wszystkich rodzajach transportu, rozporządzanych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej lub zużywanych przez podmiot uiszczający opłatę zastępczą na potrzeby własne w ogólnej ilości paliw ciekłych i biopaliw ciekłych stosowanych w transporcie drogowym i kolejowym, rozporządzanych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej lub zużywanych przez niego w ciągu roku kalendarzowego na potrzeby własne w roku, w którym podmiot uiszczający opłatę zastępczą skorzystał z uprawnienia, o którym mowa w ust. 1a, wyrażoną w procentach.
+7.
+Wpływy z tytułu opłaty zastępczej stanowią przychód Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
+8.
+Opłatę zastępczą uiszcza się na rachunek bankowy Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, do dnia 31 stycznia roku następującego po roku, którego dotyczy obowiązek, o którym mowa w ust. 1.
+9.
+Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej przedstawia ministrowi właściwemu do spraw energii oraz Prezesowi Urzędu Regulacji Energetyki informację o wpłatach z tytułu opłat zastępczych dokonywanych za dany rok kalendarzowy na rachunek bankowy Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, do końca lutego roku następującego po roku, którego dotyczy obowiązek, o którym mowa w ust. 1.
+” ;
+12)
+uchyla się art. 23a;
+13)
+po art. 23a dodaje się art. 23b w brzmieniu:
+„
+Art. 23b.
+1.
+Podmiot realizujący Narodowy Cel Wskaźnikowy jest obowiązany zapewnić w danym kwartale minimalny udział biokomponentów, liczony według wartości opałowej, zawartych w paliwach ciekłych stosowanych we wszystkich rodzajach transportu, wykorzystanych przez niego do realizacji obowiązku, o którym mowa w art. 23 ust. 1, które zostały przez ten podmiot rozporządzone przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej na terytorium Rzeczypospolitej Polskiej lub zużyte przez niego na potrzeby własne na tym terytorium.
+2.
+Podmiot realizujący Narodowy Cel Wskaźnikowy, który wytwarza paliwa ciekłe wyłącznie w procesie mieszania komponentów lub dodatków z paliwami ciekłymi w ilości stanowiącej nie więcej niż 0,2% objętości wytworzonego w ten sposób paliwa ciekłego, jest zwolniony z obowiązku, o którym mowa w ust. 1, w zakresie dotyczącym dodawania tych komponentów lub dodatków.
+3.
+Minimalny udział biokomponentów, o którym mowa w ust. 1, wynosi:
+1)
+3,20% w każdym kwartale – w benzynach silnikowych;
+2)
+w oleju napędowym:
+a)
+3,22% w pierwszym kwartale,
+b)
+5,53% w drugim i trzecim kwartale,
+c)
+3,68% w czwartym kwartale.
+4.
+Minister właściwy do spraw energii może określić, w drodze rozporządzenia, niższy niż określony w ust. 3, minimalny udział biokomponentów, o którym mowa w ust. 1, biorąc pod uwagę techniczne możliwości branży paliwowej w zakresie dodawania biokomponentów do paliw ciekłych w poszczególnych kwartałach roku kalendarzowego.
+” ;
+14)
+w art. 26a:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Prezes Urzędu Regulacji Energetyki jest uprawniony do przeprowadzania kontroli podmiotów realizujących Narodowy Cel Wskaźnikowy, w zakresie wykonania obowiązków, o których mowa w art. 23 ust. 1 oraz w art. 23b.
+” ,
+b)
+w ust. 5:
+– po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) ustnych i pisemnych wyjaśnień, a także przedstawienia dokumentów dotyczących zapewnienia w danym kwartale minimalnego udziału biokomponentów, liczonego według wartości opałowej, zawartych w paliwach ciekłych, które zostały przez ten podmiot rozporządzone przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej na terytorium Rzeczypospolitej Polskiej lub zużyte przez niego na potrzeby własne na tym terytorium; ” ,
+– w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „ 3) przedstawienia dokumentów umożliwiających sprawdzenie zgodności stanu faktycznego z wielkością ustaloną zgodnie z zasadami określonymi w art. 23b. ” ;
+15)
+w art. 27 w ust. 1 pkt 1 otrzymuje brzmienie:
+„
+1)
+jakości biokomponentów wprowadzanych do obrotu lub wykorzystywanych przez producentów do wytwarzania paliw ciekłych lub biopaliw ciekłych,
+” ;
+16)
+uchyla się art. 281;
+17)
+w art. 28b:
+a)
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+„
+2a.
+Przepisu ust. 2 nie stosuje się, w przypadku gdy po dniu 31 grudnia 2016 r. nastąpiło zwiększenie zdolności produkcyjnych instalacji na skutek rozbudowy instalacji, w której wytwarzanie biokomponentów rozpoczęto przed dniem 5 października 2015 r.
+” ,
+b)
+ust. 3 i 4 otrzymują brzmienie:
+„
+3.
+Ograniczenie emisji gazów cieplarnianych oblicza się zgodnie z zasadami określonymi w załączniku nr 2 do ustawy.
+4.
+Do obliczenia emisji gazów cieplarnianych spowodowanych uprawą surowców rolniczych przeznaczanych do wytworzenia biokomponentów stosuje się wartości standardowe emisji gazów cieplarnianych określone w załączniku nr 2 do ustawy, wartości emisji gazów cieplarnianych umieszczone w wykazie, ogłoszonym na podstawie ust. 6, lub wartości rzeczywiste dla tych upraw, które oblicza się zgodnie z metodyką określoną w części II.3. załącznika nr 2 do ustawy.
+” ,
+c)
+uchyla się ust. 5,
+d)
+ust. 6 otrzymuje brzmienie:
+„
+6.
+Minister właściwy do spraw rolnictwa ogłosi, w drodze obwieszczenia, wykaz wartości emisji gazów cieplarnianych spowodowanych uprawą surowców rolniczych na obszarach województw, niższych od wartości standardowych emisji gazów cieplarnianych określonych w załączniku nr 2 do ustawy, biorąc pod uwagę wykaz tych wartości zatwierdzony przez Komisję Europejską, w drodze decyzji.
+” ;
+18)
+w art. 28bb w ust. 2 pkt 3 otrzymuje brzmienie:
+„
+3)
+obszarów obejmujących więcej niż 1 ha z drzewami o wysokości powyżej 5 metrów i z pokryciem powierzchni przez korony drzew pomiędzy 10% a 30% lub drzewami mogącymi osiągnąć te wartości w miejscu ich naturalnego występowania, z wyjątkiem sytuacji, gdy przedstawiono dowody, że obszar ten przed i po przekształceniu magazynuje taką ilość pierwiastka węgla, że stosując metodykę określoną w pkt II.3. załącznika nr 2 do ustawy, zostałoby spełnione kryterium określone w art. 28b.
+” ;
+19)
+po art. 28e dodaje się art. 28ea w brzmieniu:
+„
+Art. 28ea.
+Zabrania się podmiotowi realizującemu Narodowy Cel Wskaźnikowy wystawiania poświadczeń dla biokomponentów zawartych w paliwach ciekłych lub biopaliwach ciekłych, które zostały wykorzystane przez ten podmiot do realizacji obowiązku, o którym mowa w art. 23 ust. 1.
+” ;
+20)
+w art. 28m:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Wpisowi do rejestru administratorów systemów certyfikacji podlegają dane, o których mowa w art. 28l ust. 4 pkt 1–4, z wyłączeniem innych danych teleadresowych.
+” ,
+b)
+ust. 3 otrzymuje brzmienie:
+„
+3.
+Rejestr administratorów systemów certyfikacji jest jawny.
+” ;
+21)
+art. 28p otrzymuje brzmienie:
+„
+1.
+Administrator systemu certyfikacji, co najmniej raz w roku kalendarzowym, przeprowadza kontrolę jednostek certyfikujących, które posiadają zgodę na korzystanie z uznanego systemu certyfikacji udzieloną przez tego administratora. Kontrola jednostek certyfikujących jest przeprowadzana w celu weryfikacji, czy certyfikacja przeprowadzana przez jednostki certyfikujące nie narusza wymagań przewidzianych przez uznany system certyfikacji.
+2.
+Administrator systemu certyfikacji informuje organ rejestrowy o cofnięciu zgody na korzystanie z uznanego systemu certyfikacji jednostce certyfikującej, w terminie 14 dni od dnia jej cofnięcia.
+” ;
+22)
+w art. 28s:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Wpisowi do rejestru jednostek certyfikujących podlegają dane, o których mowa w art. 28r ust. 4 pkt 1–4, z wyłączeniem innych danych teleadresowych.
+” ,
+b)
+ust. 3 otrzymuje brzmienie:
+„
+3.
+Rejestr jednostek certyfikujących jest jawny.
+” ;
+23)
+art. 28y otrzymuje brzmienie:
+„
+Jednostka certyfikująca informuje organ rejestrowy o wydaniu lub o cofnięciu certyfikatu podmiotowi certyfikowanemu, w terminie 14 dni od dnia jego wydania lub cofnięcia.
+” ;
+24)
+w art. 29 dodaje się ust. 9 i 10 w brzmieniu:
+„
+9.
+Organ rejestrowy może przekazywać ministrowi właściwemu do spraw finansów publicznych informacje na temat dostaw biomasy wykorzystanej do wytwarzania estrów, dla której zastosowana została stawka podatku od towarów i usług wyższa niż 5%, oraz dane podmiotów, od których wytwórca zakupił tę biomasę.
+10.
+Dane podmiotów, o których mowa w ust. 9, zawierają oznaczenie firmy dostawcy, adresu jego siedziby oraz numer identyfikacji podatkowej (NIP).
+” ;
+25)
+w art. 30:
+a)
+w ust. 1:
+– w pkt 1 lit. b otrzymuje brzmienie: „ b) surowców rolniczych lub biomasy wykorzystanej do wytworzenia biokomponentów, ze wskazaniem: – surowców rolniczych pozyskanych na podstawie umów kontraktacji, o których mowa w art. 11 ust. 1 pkt 1, w podziale na surowce rolnicze pozyskane z gospodarstwa rolnego położonego na obszarze Rzeczypospolitej Polskiej, innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, w Republice Turcji albo w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym i surowce rolnicze pozyskane z gospodarstwa rolnego położonego w kraju trzecim, – biomasy pozyskanej na podstawie umów dostawy, o których mowa w art. 11 ust. 1 pkt 2, w podziale na biomasę wytworzoną z surowców rolniczych pozyskanych na obszarze Rzeczypospolitej Polskiej, innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, w Republice Turcji albo w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym i biomasę wytworzoną z surowców rolniczych pozyskanych w kraju trzecim, – surowców rolniczych pozyskanych z produkcji własnej, – biomasy spełniającej i niespełniającej kryteriów zrównoważonego rozwoju dotyczących uprawy surowców rolniczych, – biomasy uprawniającej do podwójnego zaliczenia do realizacji Narodowego Celu Wskaźnikowego, ze wskazaniem rodzajów surowców określonych w załączniku nr 1 do ustawy, – poziomu emisji gazów cieplarnianych wyrażonego w gCO2eq/t dla surowców rolniczych oraz w gCO2eq/MJ dla biomasy spełniającej kryteria zrównoważonego rozwoju dotyczące uprawy surowców rolniczych, – pośredników lub przetwórców dostarczających poszczególne rodzaje biomasy, a w przypadku zakupu surowców rolniczych, łącznej ilości poszczególnych rodzajów tych surowców dostarczanych przez producentów rolnych, – kraju pochodzenia – w przypadku surowców rolniczych i biomasy spełniających kryteria zrównoważonego rozwoju, ” ,
+– uchyla się pkt 2,
+b)
+ust. 1a otrzymuje brzmienie:
+„
+1a.
+Wytwórcy i podmioty realizujące lub planujące realizację projektów inwestycyjnych wykonują obowiązek określony w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 256/2014 z dnia 26 lutego 2014 r. w sprawie zgłaszania Komisji projektów inwestycyjnych dotyczących infrastruktury energetycznej w Unii Europejskiej, zastępującego rozporządzenie Rady (UE, Euratom) nr 617/2010 oraz uchylającego rozporządzenie (WE) nr 736/96 (Dz. Urz. UE L 84 z 20.03.2014, str. 61), przez przekazanie Dyrektorowi Generalnemu Krajowego Ośrodka Wsparcia Rolnictwa informacji dotyczących infrastruktury energetycznej służącej do wytwarzania biokomponentów, w zakresie instalacji, które mogą produkować lub rafinować biokomponenty (instalacje o zdolności co najmniej 50 000 ton/rok).
+” ,
+c)
+w ust. 1b:
+– pkt 1 otrzymuje brzmienie: „ 1) ilości i rodzajów importowanych lub nabytych wewnątrzwspólnotowo biokomponentów ze wskazaniem: a) biokomponentów spełniających i niespełniających kryteriów zrównoważonego rozwoju, b) biokomponentów, które mogą być podwójnie zaliczane do realizacji Narodowego Celu Wskaźnikowego, wraz ze wskazaniem rodzajów surowców określonych w załączniku nr 1 do ustawy, c) biokomponentów wytworzonych z roślin wysokoskrobiowych, roślin cukrowych i oleistych oraz roślin uprawianych do celów energetycznych na użytkach rolnych jako uprawy główne, d) poziomu emisji gazów cieplarnianych wyrażonego w gCO2eq/MJ dla biokomponentów spełniających kryteria zrównoważonego rozwoju; ” ,
+– pkt 4 otrzymuje brzmienie: „ 4) kraju pochodzenia surowców rolniczych lub biomasy wykorzystanej do wytworzenia importowanych lub nabytych wewnątrzwspólnotowo biokomponentów – w przypadku surowców rolniczych lub biomasy spełniającej kryteria zrównoważonego rozwoju. ” ,
+d)
+uchyla się ust. 2,
+e)
+ust. 2a i 2b otrzymują brzmienie:
+„
+2a.
+Producenci i podmioty realizujące lub planujące realizację projektów inwestycyjnych wykonują obowiązek określony w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 256/2014 z dnia 26 lutego 2014 r. w sprawie zgłaszania Komisji projektów inwestycyjnych dotyczących infrastruktury energetycznej w Unii Europejskiej, zastępującego rozporządzenie Rady (UE, Euratom) nr 617/2010 oraz uchylającego rozporządzenie (WE) nr 736/96, przez przekazanie Prezesowi Urzędu Regulacji Energetyki informacji dotyczących infrastruktury energetycznej służącej do wytwarzania biopaliw ciekłych, w zakresie instalacji, które mogą produkować lub rafinować biopaliwa ciekłe (instalacje o zdolności co najmniej 50 000 ton/rok).
+2b.
+Podmioty realizujące Narodowy Cel Wskaźnikowy, które w danym kwartale dokonały samodzielnie lub za pośrednictwem innego podmiotu importu lub nabycia wewnątrzwspólnotowego biokomponentów, w tym biokomponentów zawartych w paliwach ciekłych i biopaliwach ciekłych, lub dokonały rozporządzenia tymi biokomponentami lub zużycia ich na potrzeby własne, są obowiązane do przekazywania, w terminie do 45 dni po zakończeniu kwartału, Dyrektorowi Generalnemu Krajowego Ośrodka Wsparcia Rolnictwa sprawozdań kwartalnych, sporządzonych na podstawie faktur VAT lub innych dokumentów zawierających informacje dotyczące:
+1)
+ilości i rodzajów importowanych lub nabytych wewnątrzwspólnotowo biokomponentów, w tym biokomponentów zawartych w paliwach ciekłych i biopaliwach ciekłych, ze wskazaniem:
+a)
+biokomponentów spełniających i niespełniających kryteriów zrównoważonego rozwoju,
+b)
+biokomponentów, które mogą być podwójnie zaliczane do realizacji Narodowego Celu Wskaźnikowego, wraz ze wskazaniem rodzajów surowców określonych w załączniku nr 1 do ustawy,
+c)
+biokomponentów wytworzonych z roślin wysokoskrobiowych, roślin cukrowych i oleistych oraz roślin uprawianych do celów energetycznych na użytkach rolnych jako uprawy główne,
+d)
+poziomu emisji gazów cieplarnianych, wyrażonego w gCO2eq /MJ, dla biokomponentów spełniających kryteria zrównoważonego rozwoju;
+2)
+dostawców poszczególnych rodzajów biokomponentów, o których mowa w pkt 1, ze wskazaniem:
+a)
+ich nazwy, adresu oraz kraju wykonywania działalności, a w przypadku gdy dostawcą nie jest podmiot, który wytworzył biokomponent, również nazwy, adresu oraz kraju pochodzenia podmiotu, który wytworzył dany biokomponent,
+b)
+nazwy uznanego systemu certyfikacji, w ramach którego dostawca wystawił dokument potwierdzający spełnienie kryteriów zrównoważonego rozwoju dla biokomponentu, wraz z numerem tego dokumentu, a w przypadku gdy dokument został wystawiony w kraju trzecim, z którym Unia Europejska zawarła umowę, o której mowa w art. 28c ust. 2 pkt 2, daty zawarcia tej umowy;
+3)
+ilości i rodzajów importowanych lub nabytych wewnątrzwspólnotowo biokomponentów, o których mowa w pkt 1, które w danym kwartale zostały rozporządzone lub zużyte na potrzeby własne.
+” ,
+f)
+uchyla się ust. 2d,
+g)
+po ust. 2d dodaje się ust. 2e i 2f w brzmieniu:
+„
+2e.
+Podmioty realizujące Narodowy Cel Wskaźnikowy, które w danym kwartale nie dokonały czynności, o których mowa w ust. 2b, są obowiązane do przekazywania, w terminie do 45 dni po zakończeniu kwartału, Dyrektorowi Generalnemu Krajowego Ośrodka Wsparcia Rolnictwa oświadczeń o niewykonaniu tych czynności.
+2f.
+W sprawozdaniach, o których mowa w ust. 1, 1b i 2b, oraz w oświadczeniu, o którym mowa w ust. 2e, umieszcza się klauzulę następującej treści: „ Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny. ” . Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+” ,
+h)
+ust. 3 otrzymuje brzmienie:
+„
+3.
+Minister właściwy do spraw finansów publicznych przekazuje Prezesowi Urzędu Regulacji Energetyki, w terminie do 45 dni po zakończeniu kwartału, sprawozdanie kwartalne zawierające informacje dotyczące ilości i rodzajów paliw ciekłych i biopaliw ciekłych importowanych oraz sprowadzonych w ramach nabycia wewnątrzwspólnotowego, sporządzone według kodów CN, na podstawie danych z systemów Krajowej Administracji Skarbowej prowadzonych na podstawie odrębnych przepisów.
+” ,
+i)
+uchyla się ust. 4,
+j)
+ust. 4a otrzymuje brzmienie:
+„
+4a.
+Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa, na podstawie sprawozdań kwartalnych, o których mowa w ust. 1 i 1b oraz ust. 2b, sporządza zbiorczy raport kwartalny dotyczący wytworzonych oraz importowanych lub nabytych wewnątrzwspólnotowo biokomponentów i przekazuje go ministrom właściwym do spraw: finansów publicznych, energii, rynków rolnych oraz środowiska, w terminie do 75 dni po zakończeniu kwartału.
+” ,
+k)
+po ust. 4a dodaje się ust. 4b w brzmieniu:
+„
+4b.
+Zbiorczy raport kwartalny, o którym mowa w ust. 4a, zawiera informacje określone w:
+1)
+ust. 1, z wyłączeniem pkt 1 lit. b tiret siódme i lit. c tiret pierwsze i czwarte;
+2)
+ust. 1b, z wyłączeniem pkt 2 i pkt 3 lit. a i e;
+3)
+ust. 2b, z wyłączeniem pkt 2.
+” ;
+26)
+w art. 30b:
+a)
+w ust. 1:
+– wprowadzenie do wyliczenia otrzymuje brzmienie: „ Podmioty realizujące Narodowy Cel Wskaźnikowy są obowiązane do przekazywania Prezesowi Urzędu Regulacji Energetyki, w terminie do 60 dni po zakończeniu roku kalendarzowego, sprawozdań rocznych sporządzonych na podstawie faktur VAT, informacji, o których mowa w art. 30a ust. 1, lub innych dokumentów, zawierających informacje dotyczące: ” ,
+– pkt 3 otrzymuje brzmienie: „ 3) rozporządzonych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej lub zużytych przez nie na potrzeby własne innych paliw odnawialnych; ” ,
+– w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „ 5) ilości biokomponentów wykorzystanych w paliwach ciekłych i biopaliwach ciekłych, o których mowa w pkt 1 i 2, wytworzonych z surowców określonych w załączniku nr 1 do ustawy. ” ,
+b)
+w ust. 1a:
+– pkt 1 otrzymuje brzmienie: „ 1) ilości i rodzaje biokomponentów, które mogą być podwójnie zaliczane do realizacji Narodowego Celu Wskaźnikowego, wraz ze wskazaniem rodzajów surowców określonych w załączniku nr 1 do ustawy; ” ,
+– po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) biokomponenty wytworzone z roślin wysokoskrobiowych, roślin cukrowych i oleistych oraz roślin uprawianych do celów energetycznych na użytkach rolnych jako uprawy główne; ” ,
+– w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „ 4) kraj pochodzenia surowców rolniczych lub biomasy wykorzystanej do wytworzenia biokomponentów zawartych w paliwach ciekłych lub biopaliwach ciekłych rozporządzonych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej lub zużytych przez nie na potrzeby własne. ” ,
+c)
+ust. 1b otrzymuje brzmienie:
+„
+1b.
+Podmioty realizujące Narodowy Cel Wskaźnikowy wraz ze sprawozdaniami, o których mowa w ust. 1, przekazują Prezesowi Urzędu Regulacji Energetyki:
+1)
+świadectwa potwierdzające spełnienie kryteriów zrównoważonego rozwoju przez biokomponenty, które zostały zaliczone do realizacji obowiązku, o którym mowa w art. 23 ust. 1;
+2)
+kopie dowodów wpłaty z tytułu opłaty zastępczej, o której mowa w art. 23 ust. 1a.
+” ,
+d)
+dodaje się ust. 3–7 w brzmieniu:
+„
+3.
+Podmioty realizujące Narodowy Cel Wskaźnikowy są obowiązane do przekazywania Prezesowi Urzędu Regulacji Energetyki, w terminie do 30 dni po zakończeniu kwartału, sprawozdań kwartalnych sporządzonych zgodnie z wzorem określonym w przepisach wydanych na podstawie ust. 6, zawierających informacje dotyczące:
+1)
+paliw ciekłych rozporządzanych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej lub zużytych przez nie na potrzeby własne, z określeniem zawartości biokomponentów w tych paliwach w podziale na:
+a)
+paliwa ciekłe wykorzystane do realizacji obowiązku, o którym mowa w art. 23b,
+b)
+pozostałe paliwa ciekłe;
+2)
+biopaliw ciekłych rozporządzanych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej lub zużytych przez nie na potrzeby własne, z określeniem zawartości biokomponentów w tych biopaliwach;
+3)
+innych paliw odnawialnych rozporządzanych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej lub zużytych przez nie na potrzeby własne;
+4)
+rodzajów biokomponentów wykorzystanych w paliwach ciekłych i biopaliwach ciekłych, o których mowa w pkt 1 i 2, w podziale na:
+a)
+biokomponenty, w tym zawarte w paliwach i biopaliwach ciekłych, samodzielnie lub za pośrednictwem innego podmiotu importowane lub nabyte wewnątrzwspólnotowo,
+b)
+pozostałe biokomponenty;
+5)
+rodzajów innych paliw odnawialnych, o których mowa w pkt 3.
+4.
+W sprawozdaniu, o którym mowa w ust. 3, umieszcza się klauzulę następującej treści: „ Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny. ” . Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+5.
+Podmiot realizujący Narodowy Cel Wskaźnikowy sporządza sprawozdanie kwartalne, o którym mowa w ust. 3, na podstawie dokumentów potwierdzających informacje w nim zawarte, w szczególności:
+1)
+dokumentów potwierdzających parametry jakościowe paliw ciekłych, biopaliw ciekłych lub innych paliw odnawialnych, o których mowa w ust. 3 pkt 1–3, wraz z potwierdzeniem zawartości biokomponentów w tych paliwach ciekłych lub biopaliwach ciekłych;
+2)
+poświadczeń dla biokomponentów zawartych w paliwach ciekłych lub biopaliwach ciekłych, o których mowa w ust. 3 pkt 1 i 2;
+3)
+faktur VAT.
+6.
+Minister właściwy do spraw energii określi, w drodze rozporządzenia, wzór sprawozdania kwartalnego, o którym mowa w ust. 3, mając na względzie zakres danych określonych w ust. 3 oraz konieczność ujednolicenia formy przekazywania tych danych.
+7.
+Prezes Urzędu Regulacji Energetyki, na podstawie sprawozdań rocznych, o których mowa w ust. 1, oraz sprawozdań kwartalnych, o których mowa w ust. 3, sporządza zbiorczy raport roczny dotyczący rynku paliw ciekłych, biopaliw ciekłych i innych paliw odnawialnych i przekazuje go ministrom właściwym do spraw: finansów publicznych, energii, rynków rolnych i środowiska oraz Dyrektorowi Generalnemu Krajowego Ośrodka Wsparcia Rolnictwa, w terminie do 90 dni po zakończeniu roku kalendarzowego.
+” ;
+27)
+w art. 33:
+a)
+w ust. 1:
+– pkt 1a otrzymuje brzmienie: „ 1a) samodzielnie lub za pośrednictwem innego podmiotu importuje lub nabywa wewnątrzwspólnotowo biokomponenty, a następnie rozporządza nimi przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej bez wpisu do rejestru, o którym mowa w art. 12a ust. 1; ” ,
+– pkt 1d i 1e otrzymują brzmienie: „ 1d) będąc przedsiębiorcą wykonującym działalność, o której mowa w art. 28k ust. 1, nie przekazał w terminie organowi rejestrowemu informacji, o której mowa w art. 28p ust. 2, lub podał w tej informacji nieprawdziwe dane; 1e) będąc przedsiębiorcą wykonującym działalność, o której mowa w art. 28q ust. 1, nie przekazał w terminie organowi rejestrowemu informacji, o której mowa w art. 28y, lub podał w tej informacji nieprawdziwe dane; ” ,
+– po pkt 3a dodaje się pkt 3b w brzmieniu: „ 3b) będąc wytwórcą wytwarza estry z biomasy, o której mowa w art. 11a; ” ,
+– po pkt 4 dodaje się pkt 4a w brzmieniu: „ 4a) nie wykonał w terminie obowiązku, o którym mowa w art. 22a ust. 1; ” ,
+– uchyla się pkt 5a,
+– po pkt 5a dodaje się pkt 5b w brzmieniu: „ 5b) będąc podmiotem realizującym Narodowy Cel Wskaźnikowy, nie wykonuje obowiązku, o którym mowa w art. 23b; ” ,
+– po pkt 6 dodaje się pkt 6a w brzmieniu: „ 6a) będąc podmiotem realizującym Narodowy Cel Wskaźnikowy wystawił poświadczenie dla biokomponentów zawartych w paliwach ciekłych lub biopaliwach ciekłych, które zostały wykorzystane przez ten podmiot do realizacji obowiązku, o którym mowa w art. 23 ust. 1; ” ,
+– uchyla się pkt 7a,
+– pkt 8 otrzymuje brzmienie: „ 8) nie złożył w terminie Dyrektorowi Generalnemu Krajowego Ośrodka Wsparcia Rolnictwa sprawozdania kwartalnego, o którym mowa w art. 30 ust. 1, 1b lub 2b, lub oświadczenia, o którym mowa w art. 30 ust. 2e, lub podał w tym sprawozdaniu lub oświadczeniu nieprawdziwe dane; ” ,
+– po pkt 8a dodaje się pkt 8aa w brzmieniu: „ 8aa) nie złożył w terminie Prezesowi Urzędu Regulacji Energetyki sprawozdania kwartalnego, o którym mowa w art. 30b ust. 3, lub podał w tym sprawozdaniu nieprawdziwe dane; ” ,
+b)
+ust. 2 i 3 otrzymują brzmienie:
+„
+2.
+W przypadkach wymienionych w ust. 1 pkt 1–2b, 3a, 4a, 6, 7, 8–8f kara pieniężna, o której mowa w ust. 1, wynosi 5000 zł.
+3.
+W przypadku, o którym mowa w ust. 1 pkt 3, kara pieniężna wynosi 50% wartości netto biokomponentów wytworzonych z biomasy pozyskiwanej w inny sposób niż na podstawie umów kontraktacji lub dostawy, o których mowa w art. 11 ust. 1 pkt 1 i 2, lub z produkcji własnej, których udział przekracza w skali roku 25% całości biokomponentów wytworzonych przez tego wytwórcę.
+” ,
+c)
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+„
+3a.
+W przypadku, o którym mowa w ust. 1 pkt 3b, kara pieniężna wynosi 1000 zł za każdą tonę estrów wytworzonych z biomasy, o której mowa w art. 11a.
+” ,
+d)
+ust. 4 i 5 otrzymują brzmienie:
+„
+4.
+W przypadkach, o których mowa w ust. 1 pkt 4, kara pieniężna wynosi 50% wartości netto biokomponentów wprowadzonych do obrotu lub wykorzystanych przez producentów do wytwarzania paliw ciekłych lub biopaliw ciekłych w ciągu 30 dni poprzedzających kontrolę.
+5.
+W przypadku, o którym mowa w ust. 1 pkt 5, wysokość kary oblicza się według wzoru: K = A × W × (N − R)/100% gdzie poszczególne symbole oznaczają: K – wysokość kary, wyrażoną w złotych, A – współczynnik równy 0,20, wyrażony w złotych/MJ, W – wartość energetyczną paliw ciekłych i biopaliw ciekłych rozporządzonych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej przez podmiot podlegający karze, a także zużytych przez niego na potrzeby własne, liczoną za rok, w którym podmiot ten nie zrealizował obowiązku wynikającego z art. 23 ust. 1, wyrażoną w MJ; wartość opałową poszczególnych biokomponentów i paliw ciekłych określa się zgodnie z przepisami wydanymi na podstawie art. 23 ust. 3, N – wysokość Narodowego Celu Wskaźnikowego, do którego realizacji był obowiązany podmiot podlegający karze, wyrażoną w procentach, R – wysokość zrealizowanego udziału innych paliw odnawialnych lub biokomponentów zawartych w paliwach ciekłych lub biopaliwach ciekłych, stosowanych we wszystkich rodzajach transportu, rozporządzanych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej lub zużywanych przez podmiot podlegający karze na potrzeby własne w ogólnej ilości paliw ciekłych i biopaliw ciekłych stosowanych w transporcie drogowym i kolejowym, rozporządzanych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej lub zużywanych przez niego w ciągu roku kalendarzowego na potrzeby własne w roku, w którym podmiot podlegający karze nie zrealizował obowiązku, o którym mowa w art. 23 ust. 1, wyrażoną w procentach.
+” ,
+e)
+uchyla się ust. 5b,
+f)
+po ust. 5b dodaje się ust. 5c i 5d w brzmieniu:
+„
+5c.
+W przypadku, o którym mowa w ust. 1 pkt 5b, kara pieniężna wynosi 100 zł za każdy MJ biokomponentów, które podmiot realizujący Narodowy Cel Wskaźnikowy był obowiązany dodać do paliw ciekłych w celu zrealizowania obowiązku, o którym mowa w art. 23b, a których udziału nie udokumentował.
+5d.
+W przypadku, o którym mowa w ust. 1 pkt 6a, kara pieniężna wynosi 100 zł za każdy MJ biokomponentów zawartych w paliwach ciekłych lub biopaliwach ciekłych, dla których podmiot realizujący Narodowy Cel Wskaźnikowy wystawił poświadczenie.
+” ,
+g)
+w ust. 9:
+– pkt 1 otrzymuje brzmienie: „ 1) w zakresie pkt 1–2, 3–3b, 8, 8b, 8c, 8f i 9 – Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa; ” ,
+– pkt 3 otrzymuje brzmienie: „ 3) w zakresie pkt 2a, 2b, 4a, 5, 5b, 6a, 8a, 8aa, 8d i 8e – Prezes Urzędu Regulacji Energetyki. ” ;
+28)
+tytuł rozdziału 9 otrzymuje brzmienie: „ Przepisy epizodyczne, przejściowe i końcowe ” ;
+29)
+w rozdziale 9 dodaje się art. 35a w brzmieniu:
+„
+Art. 35a.
+1.
+Udział biokomponentów wytworzonych z roślin wysokoskrobiowych, roślin cukrowych i oleistych oraz roślin uprawianych do celów energetycznych na użytkach rolnych jako uprawy główne, liczony według wartości opałowej, nie może przekroczyć w 2020 r. 7,0% ogólnej ilości paliw ciekłych i biopaliw ciekłych stosowanych w transporcie drogowym i kolejowym, rozporządzanych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej na terytorium Rzeczypospolitej Polskiej przez podmiot realizujący Narodowy Cel Wskaźnikowy lub zużywanych przez ten podmiot na potrzeby własne na tym terytorium.
+2.
+Do biokomponentów, o których mowa w ust. 1, nie zalicza się biokomponentów wytworzonych z surowców określonych w załączniku nr 1 do ustawy.
+3.
+W 2020 r. udział biokomponentów wytworzonych z surowców określonych w części A załącznika nr 1 do ustawy, liczony według wartości opałowej, nie może być mniejszy niż 0,1% ogólnej ilości paliw ciekłych i biopaliw ciekłych stosowanych w transporcie drogowym i kolejowym, rozporządzanych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej na terytorium Rzeczypospolitej Polskiej przez podmiot realizujący Narodowy Cel Wskaźnikowy lub zużywanych przez ten podmiot na potrzeby własne na tym terytorium.
+” ;
+30)
+dodaje się załącznik nr 1 do ustawy w brzmieniu określonym w załączniku nr 1 do niniejszej ustawy;
+31)
+w załączniku do ustawy:
+a)
+załącznik do ustawy oznacza się jako załącznik nr 2,
+b)
+uchyla się pkt I.2.,
+c)
+w pkt II.3.:
+– pkt 6 i 7 otrzymują brzmienie: „ 6) Emisja spowodowana wydobyciem surowców lub uprawą biomasy – eec, obejmuje emisje spowodowane samym procesem wydobycia lub uprawy, gromadzeniem surowców, odpadami i wyciekami, produkcją chemikaliów i produktów stosowanych w procesie wydobycia lub uprawy. Wyklucza się wychwytywanie CO2wtrakcie uprawy surowców. Odejmuje się potwierdzoną redukcję emisji gazów cieplarnianych związaną ze spalaniem w pochodniach w miejscach wydobycia ropy naftowej. 7) Emisje gazów cieplarnianych w ujęciu rocznym spowodowane zmianami zasobów węgla wynikającymi ze zmiany użytkowania gruntów, oznaczone symbolem „ el”, oblicza się, równo rozdzielając całkowitą emisję tych gazów na 20 lat. Wielkość tych emisji oblicza się według wzoru: el = (CSR – CSA) × 3,664 × 1/20 × 1/P − eB, gdzie poszczególne symbole oznaczają: el – emisję gazów cieplarnianych w ujęciu rocznym, spowodowaną zmianami zasobów węgla wynikającymi ze zmiany użytkowania gruntów, mierzoną jako masa [g] równoważnika CO2wprzeliczeniu na jednostkę energii wytworzonej z biopaliwa [MJ]; grunty uprawne i uprawy wieloletnie uznaje się za jeden sposób użytkowania gruntów, CSR – zasoby węgla na jednostkę powierzchni związane z referencyjnym użytkowaniem gruntów, mierzone jako masa [t] zasobów węgla na jednostkę powierzchni, obejmujące zarówno glebę, jak i roślinność; referencyjne użytkowanie gruntów oznacza użytkowanie gruntów w styczniu 2008 r. lub w okresie 20 lat przed uzyskaniem surowca, w zależności od tego, która data jest późniejsza, CSA ‒ zasoby węgla na jednostkę powierzchni związane z referencyjnym użytkowaniem gruntów, mierzone jako masa [t] zasobów węgla na jednostkę powierzchni, obejmujące zarówno glebę, jak i roślinność; w przypadkach gdy zasoby węgla gromadzą się przez okres przekraczający jeden rok, wartość CSA jest obliczana jako szacowane zasoby węgla na jednostkę powierzchni po 20 latach lub kiedy uprawy osiągną dojrzałość, w zależności od tego, co nastąpi wcześniej, P ‒ wydajność upraw, mierzoną ilością energii wytwarzanej z biopaliwa na jednostkę powierzchni w jednym roku, eB‒ premię o wartości 29 gCO2eq/MJ za biopaliwo przyznawaną, jeśli biomasa jest otrzymywana z rekultywowanych terenów zdegradowanych i spełnia warunki określone w pkt 8. ” ,
+– w pkt 14 zdanie pierwsze otrzymuje brzmienie: „ Ograniczenie emisji dzięki zwiększonemu wytwarzaniu energii elektrycznej w kogeneracji – eee, uwzględnia się w odniesieniu do nadwyżki energii elektrycznej produkowanej w ramach systemów produkcji paliwa stosujących kogenerację, z wyjątkiem przypadków, gdy nośnik energii stosowany w kogeneracji jest pozostałością z przetwarzania lub pozostałością z rolnictwa, akwakultury, rybołówstwa lub leśnictwa inną niż pozostałości pożniwne. ” ,
+– pkt 16 otrzymuje brzmienie: „ 16) W obliczeniach, o których mowa w pkt 15, emisje do podziału to eec + el+ te części ep, etd i eee, mają miejsce przed fazą produkcji, w której powstaje pozostałość z przetwarzania lub pozostałość z rolnictwa, akwakultury, rybołówstwa lub leśnictwa, i w jej trakcie. Jeśli w odniesieniu do tych pozostałości jakiekolwiek emisje przypisano do wcześniejszych faz produkcji w cyklu życia, uwzględnia się jedynie tę część emisji, którą przypisano do pośredniego produktu paliwowego w ostatniej fazie produkcji, a nie całość emisji. W przypadku biokomponentów, w obliczeniach uwzględnia się wszystkie pozostałości z przetwarzania lub pozostałości z rolnictwa, akwakultury, rybołówstwa lub leśnictwa, z wyjątkiem pozostałości pożniwnych, w tym słomy, plew, kolb oraz wytłoków i łupin orzechów. W obliczeniach ww. pozostałości, mające negatywną wartość energetyczną, uznaje się za posiadające zerową wartość energetyczną. Odpady, pozostałości pożniwne, w tym słomę, plewy, kolby oraz wytłoki, łupiny orzechów i pozostałości z przetwarzania powstałe w innych procesach przetwórczych, w tym surową (nierafinowaną) glicerynę, uznaje się za materiały nieemitujące żadnych gazów cieplarnianych w całym cyklu życia, aż do momentu ich zebrania. W przypadku paliw wytwarzanych w rafineriach jednostką analityczną do celów obliczeniowych, o których mowa w pkt 15, jest rafineria. ” ,
+d)
+w pkt II.5. w tabeli „Szczegółowe wartości standardowe dla upraw „ eec” zgodnie z definicją w części II.3.”, w kolumnie Biokomponent:
+– wiersz ósmy otrzymuje brzmienie: „biometanol z odpadów drzewnych”,
+– wiersz dziewiąty otrzymuje brzmienie: „biometanol z drewna uprawianego”;
+32)
+dodaje się załącznik nr 3 do ustawy w brzmieniu określonym w załączniku nr 2 do niniejszej ustawy.
+Art. 2.
+W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2017 r. poz. 519, z późn. zm.) wprowadza się następujące zmiany:
+1)
+w art. 401 w ust. 7 po pkt 4b dodaje się pkt 4c w brzmieniu:
+„
+4c)
+wpływy z opłaty zastępczej, o której mowa w art. 23 ust. 1a ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2017 r. poz. 285, 624 i 2290);
+” ;
+2)
+w art. 401c po ust. 5 dodaje się ust. 5a w brzmieniu:
+„
+5a.
+Środki Narodowego Funduszu w wysokości nie mniejszej niż kwota przychodów, o których mowa w art. 401 ust. 7 pkt 4c, po pomniejszeniu o koszty obsługi tych przychodów, przeznacza się na wspieranie rozwoju wykorzystania energii elektrycznej w transporcie oraz biokomponentów stosowanych w paliwach ciekłych i biopaliwach ciekłych.
+” .
+Art. 3.
+W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2017 r. poz. 2168) w art. 79 w ust. 2 po pkt 3 dodaje się pkt 3a w brzmieniu:
+„
+3a)
+kontrola jest przeprowadzana na podstawie przepisów ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2017 r. poz. 285, 624 i 2290);
+” .
+Art. 4.
+W ustawie z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. z 2016 r. poz. 1928 i 1948 oraz z 2017 r. poz. 624) wprowadza się następujące zmiany:
+1)
+w art. 2 w ust. 1:
+a)
+pkt 4 otrzymuje brzmienie:
+„
+4)
+paliwa ciekłe:
+a)
+benzyny silnikowe, które mogą zawierać biowęglowodory ciekłe lub do 10,0% objętościowo innych biokomponentów lub do 22,0% objętościowo eteru etylo-tert-butylowego lub eteru etylo-tert-amylowego, o których mowa w ustawie z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2017 r. poz. 285, 624 i 2290), stosowane w szczególności w pojazdach oraz rekreacyjnych jednostkach pływających, wyposażonych w silniki z zapłonem iskrowym,
+b)
+olej napędowy, który może zawierać biowęglowodory ciekłe lub do 7,0% objętościowo innych biokomponentów, o których mowa w ustawie z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych, stosowany w szczególności w pojazdach, w tym ciągnikach rolniczych, maszynach nieporuszających się po drogach, a także rekreacyjnych jednostkach pływających, wyposażonych w silniki z zapłonem samoczynnym;
+” ,
+b)
+pkt 6 otrzymuje brzmienie:
+„
+6)
+gaz skroplony (LPG) – mieszaninę skroplonych gazów węglowodorowych, głównie propanu C3 i butanu C4, stosowaną w silnikach przystosowanych do spalania tego paliwa, lub klasyfikowanych do kodów CN 2711 12 97, 2711 13 97 oraz 2711 19 00;
+” ,
+c)
+pkt 9 otrzymuje brzmienie:
+„
+9)
+ciężki olej opałowy – olej stosowany do celów opałowych w instalacjach energetycznego spalania paliw, w tym w okresach eksploatacji instalacji odbiegających od normalnych, w szczególności w okresach rozruchu i wyłączania instalacji, klasyfikowany do kodów CN od 2710 19 51 do 2710 19 68 i od 2710 20 31 do 2710 20 39;
+” ,
+d)
+pkt 14 otrzymuje brzmienie:
+„
+14)
+wprowadzanie do obrotu – rozporządzenie przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej paliwami na terytorium Rzeczypospolitej Polskiej, poza procedurą zawieszenia poboru akcyzy w rozumieniu przepisów o podatku akcyzowym;
+” ,
+e)
+pkt 25 otrzymuje brzmienie:
+„
+25)
+inne paliwa odnawialne – inne paliwa odnawialne w rozumieniu art. 2 pkt 23 ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych;
+” ,
+f)
+pkt 29 otrzymuje brzmienie:
+„
+29)
+podmiot realizujący Narodowy Cel Redukcyjny:
+a)
+każdy podmiot, w tym mający siedzibę lub miejsce zamieszkania poza terytorium Rzeczypospolitej Polskiej, dokonujący, samodzielnie lub za pośrednictwem innego podmiotu, wytwarzania, importu lub nabycia wewnątrzwspólnotowego paliw ciekłych, biopaliw ciekłych, gazu skroplonego (LPG), sprężonego gazu ziemnego (CNG), skroplonego gazu ziemnego (LNG) lub oleju do silników statków żeglugi śródlądowej, który:
+– rozporządza nimi na terytorium Rzeczypospolitej Polskiej przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej lub
+– zużywa je na potrzeby własne na terytorium Rzeczypospolitej Polskiej, z wyłączeniem przywozu paliw ciekłych przeznaczonych do użycia podczas transportu i przywożonych w standardowych zbiornikach, o których mowa w art. 33 ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2017 r. poz. 43, 60, 937 i 2216),
+b)
+przedsiębiorstwo energetyczne, w rozumieniu przepisów ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2017 r. poz. 220, 791, 1089, 1387 i 1566), wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną stosowaną w pojazdach samochodowych w rozumieniu przepisów ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, po poinformowaniu Prezesa Urzędu Regulacji Energetyki o przyjęciu obowiązku, o którym mowa w art. 30b ust. 1,
+c)
+każdy podmiot, w tym mający siedzibę lub miejsce zamieszkania poza terytorium Rzeczypospolitej Polskiej, dokonujący, samodzielnie lub za pośrednictwem innego podmiotu, wytwarzania, importu lub nabycia wewnątrzwspólnotowego benzyn lotniczych oraz paliw typu benzyny lub nafty do silników odrzutowych stosowanych w statkach w powietrznym ruchu lotniczym, po poinformowaniu Prezesa Urzędu Regulacji Energetyki o przyjęciu obowiązku, o którym mowa w art. 30b ust. 1, który:
+– rozporządza nimi na terytorium Rzeczypospolitej Polskiej przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej lub
+– zużywa je na potrzeby własne na terytorium Rzeczypospolitej Polskiej, z wyłączeniem przywozu paliw ciekłych przeznaczonych do użycia podczas transportu i przywożonych w standardowych zbiornikach, o których mowa w art. 33 ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym;
+” ;
+2)
+w art. 29:
+a)
+ust. 3 otrzymuje brzmienie:
+„
+3.
+Zarządzający przedstawia Radzie Ministrów zbiorczy raport, o którym mowa w ust. 1, corocznie do dnia 31 lipca następnego roku.
+” ,
+b)
+ust. 5 otrzymuje brzmienie:
+„
+5.
+Na podstawie dokumentów, o których mowa w ust. 1, Zarządzający sporządza corocznie dla Komisji Europejskiej zbiorczy raport dotyczący jakości paliw ciekłych i biopaliw ciekłych na stacjach paliwowych oraz stacjach zakładowych i przekazuje go do dnia 31 sierpnia następnego roku.
+” ;
+3)
+w art. 30b:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Podmiot realizujący Narodowy Cel Redukcyjny jest obowiązany, z uwzględnieniem art. 30e, do dnia 31 grudnia 2020 r. włącznie, zapewnić minimalną wartość ograniczenia emisji gazów cieplarnianych w cyklu życia paliw ciekłych, biopaliw ciekłych, gazu skroplonego (LPG), sprężonego gazu ziemnego (CNG), skroplonego gazu ziemnego (LNG) lub oleju do silników statków żeglugi śródlądowej, stosowanych w transporcie, w przeliczeniu na jednostkę energii rozporządzanych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej, lub zużywanych przez ten podmiot na potrzeby własne, oraz energii elektrycznej stosowanej w pojazdach samochodowych, sprzedawanej odbiorcy końcowemu lub zużywanej przez ten podmiot na potrzeby własne, wynoszącą 6%.
+” ,
+b)
+dodaje się ust. 3 w brzmieniu:
+„
+3.
+W przypadku benzyn lotniczych oraz paliw typu benzyny lub nafty do silników odrzutowych stosowanych w statkach w powietrznym ruchu lotniczym do realizacji Narodowego Celu Redukcyjnego zalicza się wyłącznie biokomponenty zastosowane w tych paliwach.
+” ;
+4)
+w art. 30d w ust. 3 pkt 1 otrzymuje brzmienie:
+„
+1)
+nazwę i adresy siedzib podmiotów, o których mowa w ust. 1, oraz ich adresy do doręczeń, w przypadku gdy są inne niż adresy ich siedzib, z uwzględnieniem art. 30c;
+” ;
+5)
+art. 30e otrzymuje brzmienie:
+„
+Art. 30e.
+1.
+Podmioty, o których mowa w art. 2 ust. 1 pkt 29 lit. b i c, mogą przyjąć obowiązek, o którym mowa w art. 30b ust. 1.
+2.
+Podmioty, o których mowa w ust. 1, informują Prezesa Urzędu Regulacji Energetyki o przyjęciu obowiązku, o którym mowa w art. 30b ust. 1, w terminie do dnia 31 marca każdego roku.
+3.
+W informacji, o której mowa w ust. 2, należy wskazać:
+1)
+nazwę i adres siedziby podmiotu, o którym mowa w ust. 1, oraz jego adres do doręczeń, w przypadku gdy jest inny niż adres siedziby, z uwzględnieniem art. 30c;
+2)
+numer identyfikacji podatkowej (NIP) podmiotu, o którym mowa w ust. 1, oraz numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), jeżeli został nadany, albo numer identyfikacyjny podmiotu w odpowiednich rejestrach państwa obcego;
+3)
+rodzaj oraz zakres wykonywanej działalności gospodarczej przez podmiot, o którym mowa w ust. 1.
+4.
+Do informacji, o której mowa w ust. 2, podmioty, o których mowa w ust. 1, dołączają oświadczenie zawierające oznaczenie miejsca i datę złożenia oraz podpis osoby uprawnionej do ich reprezentowania o następującej treści:
+1)
+w przypadku podmiotu, o którym mowa w art. 2 ust. 1 pkt 29 lit. b:
+„
+Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia, wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, oświadczam, że:
+1)
+dane zawarte w informacji są kompletne i zgodne z prawdą;
+2)
+znane mi są i spełniam warunki wykonywania działalności gospodarczej w zakresie obrotu energią elektryczną określone w ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2017 r. poz. 220, z późn. zm.);
+3)
+decyduję się na przyjęcie obowiązku, o którym mowa w art. 30b ust. 1 ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. z 2016 r. poz. 1928, z późn. zm.).
+” .
+Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.;
+2)
+w przypadku podmiotu, o którym mowa w art. 2 ust. 1 pkt 29 lit. c:
+„
+Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia, wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, oświadczam, że:
+1)
+dane zawarte w informacji są kompletne i zgodne z prawdą;
+2)
+znane mi są i spełniam warunki wykonywania działalności gospodarczej w zakresie obrotu benzynami lotniczymi oraz paliwami typu benzyny lub nafty do silników odrzutowych określone w ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2017 r. poz. 220, z późn. zm.).
+” .
+Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+5.
+Informacja, o której mowa w ust. 2, może być sporządzona w postaci elektronicznej i przesłana za pośrednictwem środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną.
+” ;
+6)
+w art. 30g:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Minister właściwy do spraw finansów publicznych przekazuje Prezesowi Urzędu Regulacji Energetyki sprawozdanie roczne zawierające informacje dotyczące ilości gazu skroplonego (LPG), sprężonego gazu ziemnego (CNG), skroplonego gazu ziemnego (LNG), oleju do silników statków żeglugi śródlądowej, benzyn lotniczych oraz paliw typu benzyny lub nafty do silników odrzutowych importowanych oraz sprowadzonych w ramach nabycia wewnątrzwspólnotowego, sporządzone według kodów CN na podstawie danych z systemów Krajowej Administracji Skarbowej prowadzonych na podstawie odrębnych przepisów, w terminie do 45 dni po zakończeniu roku kalendarzowego.
+” ,
+b)
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+„
+1a.
+Sprawozdanie, o którym mowa w ust. 1, zawiera informacje dotyczące podmiotu, który dokonał importu lub nabycia wewnątrzwspólnotowego gazu skroplonego (LPG), sprężonego gazu ziemnego (CNG), skroplonego gazu ziemnego (LNG), oleju do silników statków żeglugi śródlądowej, benzyn lotniczych oraz paliw typu benzyny lub nafty do silników odrzutowych, oraz informacje dotyczące podmiotu będącego właścicielem tego gazu skroplonego (LPG), sprężonego gazu ziemnego (CNG), skroplonego gazu ziemnego (LNG), oleju do silników statków żeglugi śródlądowej, benzyn lotniczych oraz paliw typu benzyna lub nafta do silników odrzutowych.
+” ,
+c)
+ust. 2 i 3 otrzymują brzmienie:
+„
+2.
+Prezes Urzędu Regulacji Energetyki corocznie sporządza i przedstawia Radzie Ministrów, na podstawie sprawozdań rocznych złożonych zgodnie z art. 30i ust. 1 przez podmioty realizujące Narodowy Cel Redukcyjny, zbiorczy raport roczny dla Komisji Europejskiej, dotyczący ograniczenia emisji gazów cieplarnianych w cyklu życia paliw i energii elektrycznej, w terminie do dnia 15 lipca roku następującego po roku sprawozdawczym.
+3.
+Prezes Urzędu Regulacji Energetyki przekazuje Komisji Europejskiej, za pośrednictwem Europejskiej Agencji Środowiska, raport, o którym mowa w ust. 2, w terminie do dnia 31 sierpnia roku następującego po roku sprawozdawczym.
+” ;
+7)
+w art. 35c w ust. 3 objaśnienie symbolu „W” otrzymuje brzmienie: „ W – odpowiednio wartość opałową lub energetyczną rozporządzanych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej lub zużytych na potrzeby własne paliw ciekłych, biopaliw ciekłych, gazu skroplonego (LPG), sprężonego gazu ziemnego (CNG) lub skroplonego gazu ziemnego (LNG) oraz energii elektrycznej sprzedawanej odbiorcy końcowemu lub zużywanej na potrzeby własne, liczoną za rok, w którym podmiot ten nie zrealizował obowiązku wynikającego z art. 30b ust. 1, wyrażoną w jednostkach energii [MJ]. ” .
+Art. 5.
+W ustawie z dnia 11 lipca 2014 r. o zmianie ustawy o systemie monitorowania i kontrolowania jakości paliw oraz niektórych innych ustaw (Dz. U. poz. 1088) wprowadza się następujące zmiany:
+1)
+art. 5 otrzymuje brzmienie:
+„
+Sprawozdanie roczne, o którym mowa w art. 30i ust. 1 ustawy zmienianej w art. 1, przekazuje się po raz pierwszy Prezesowi Urzędu Regulacji Energetyki za rok kalendarzowy, w którym weszły w życie przepisy wydane na podstawie art. 30h tej ustawy.
+” ;
+2)
+art. 7 otrzymuje brzmienie:
+„
+Art. 7.
+Zbiorczy raport roczny, o którym mowa w art. 30g ust. 2 ustawy zmienianej w art. 1, Prezes Urzędu Regulacji Energetyki po raz pierwszy przekazuje za rok kalendarzowy, w którym weszły w życie przepisy wydane na podstawie art. 30h tej ustawy.
+” .
+Art. 6.
+Do oceny realizacji w 2017 r. obowiązku zapewnienia minimalnego udziału biokomponentów zawartych w paliwach ciekłych, wykorzystywanych przez podmiot obowiązany do realizacji Narodowego Celu Wskaźnikowego oraz do kar pieniężnych z tytułu niezrealizowania tego obowiązku stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
+Minimalny poziom realizacji Narodowego Celu Wskaźnikowego, o którym mowa w art. 23 ust. 1a ustawy zmienianej w art. 1, na lata 2018 i 2019 wynosi 85%.
+Art. 8.
+Minister właściwy do spraw energii może wydać po raz pierwszy rozporządzenie na podstawie art. 23 ust. 1c ustawy zmienianej w art. 1, na okres począwszy od 2020 r.
+Art. 9.
+Udział biowęglowodorów ciekłych wykorzystanych przez podmiot realizujący Narodowy Cel Wskaźnikowy do realizacji obowiązku, o którym mowa w art. 23 ust. 1 ustawy zmienianej w art. 1, liczony według wartości opałowej w ogólnej ilości paliw ciekłych i biopaliw ciekłych stosowanych w transporcie drogowym i kolejowym, rozporządzanych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej na terytorium Rzeczypospolitej Polskiej przez podmiot realizujący Narodowy Cel Wskaźnikowy lub zużywanych przez ten podmiot na potrzeby własne na tym terytorium, nie może przekroczyć:
+1)
+0,3% w 2018 r.;
+2)
+0,5% w 2019 r.
+Art. 10.
+Udział biokomponentów wytworzonych z surowców określonych w załączniku nr 1 do ustawy zmienianej w art. 1, liczony według wartości opałowej, w ogólnej ilości paliw ciekłych i biopaliw ciekłych stosowanych w transporcie drogowym i kolejowym, rozporządzanych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej na terytorium Rzeczypospolitej Polskiej przez podmiot realizujący Narodowy Cel Wskaźnikowy lub zużywanych przez ten podmiot na potrzeby własne na tym terytorium, nie może przekroczyć:
+1)
+0,3% w 2018 r.;
+2)
+0,5% w 2019 r.
+Minister właściwy do spraw energii może wydać po raz pierwszy rozporządzenie na podstawie art. 23 ust. 4c ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, na okres począwszy od 2020 r.
+Art. 12.
+Na lata 2018 i 2019 wysokość współczynników redukcyjnych, o których mowa w art. 23 ust. 4 ustawy zmienianej w art. 1, wynosi:
+1)
+0,86 – w 2018 r.;
+2)
+0,82 – w 2019 r.
+Art. 13.
+Minimalny udział biokomponentów, o którym mowa w art. 23b ust. 1 ustawy zmienianej w art. 1, wynosi w 2018 r.:
+1)
+3,20% w każdym kwartale – w benzynach silnikowych;
+2)
+w oleju napędowym:
+a)
+3,22% w pierwszym kwartale,
+b)
+5,03% w drugim i trzecim kwartale,
+c)
+3,68% w czwartym kwartale.
+Art. 14.
+Minister właściwy do spraw energii może wydać po raz pierwszy rozporządzenie na podstawie art. 23b ust. 4 ustawy zmienianej w art. 1, na okres począwszy od 2020 r.
+Art. 15.
+Podmioty, które przed dniem wejścia w życie niniejszej ustawy uzyskały wpis do rejestru podmiotów sprowadzających w zakresie wykonywania działalności gospodarczej w zakresie importu lub nabycia wewnątrzwspólnotowego biokomponentów, a następnie ich rozporządzenia przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej, stają się podmiotami sprowadzającymi w rozumieniu art. 2 ust. 1 pkt 20a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+Art. 16.
+Do sprawozdań, o których mowa w art. 30 ust. 1, 1b, 2, 2b i 3 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, zbiorczych raportów kwartalnych, o których mowa w art. 30 ust. 4 i 4a ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, składanych za okresy do ostatniego kwartału 2017 r. włącznie, oraz do kar pieniężnych za niezrealizowanie obowiązków, o których mowa w art. 30 ust. 1, 1b, 2 i 2b ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, za okresy do ostatniego kwartału 2017 r. włącznie, stosuje się przepisy dotychczasowe.
+Art. 17.
+Sprawozdania, o których mowa w art. 30 ust. 1, 1b, 2b i 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, po raz pierwszy składa się za pierwszy kwartał 2018 r.
+Art. 18.
+Oświadczenie, o którym mowa w art. 30 ust. 2e ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, po raz pierwszy składa się za pierwszy kwartał 2018 r.
+Art. 19.
+Do sprawozdań rocznych, o których mowa w art. 30b ust. 1 ustawy zmienianej w art. 1, składanych za lata do 2017 r. włącznie, stosuje się przepisy dotychczasowe.
+Art. 20.
+Sprawozdania, o których mowa w art. 30b ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, składa się po raz pierwszy za 2018 r.
+Art. 21.
+Ustawa wchodzi w życie z dniem 1 stycznia 2018 r., z wyjątkiem:
+1)
+art. 1 pkt 11 lit. b w zakresie dodawanego art. 23 ust. 1d i 1e, który wchodzi w życie z dniem 1 stycznia 2020 r.;
+2)
+art. 1 pkt 13 w zakresie dodawanego art. 23b ust. 3, który wchodzi w życie z dniem 1 stycznia 2019 r.
 
-**Art. 3.** W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2017 r. poz. 2168) w art. 79 w ust. 2 po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) kontrola jest przeprowadzana na podstawie przepisów ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2017 r. poz. 285, 624 i 2290);”.
+## Załącznik nr 1 — –
 
-**Art. 4.** W ustawie z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. z 2016 r. poz. 1928 i 1948 oraz z 2017 r. poz. 624) wprowadza się następujące zmiany:
+„
 
-**Art. 5.** W ustawie z dnia 11 lipca 2014 r. o zmianie ustawy o systemie monitorowania i kontrolowania jakości paliw oraz niektórych innych ustaw (Dz. U. poz. 1088) wprowadza się następujące zmiany:
+## Załącznik nr 1 — Część A. Surowce i paliwa, których wkład w realizację celu określonego w art. 23 ust. 1 jest uznawany za dwukrotność ich wartości energetycznej:
 
-**Art. 6.** Do oceny realizacji w 2017 r. obowiązku zapewnienia minimalnego udziału biokomponentów zawartych w paliwach ciekłych, wykorzystywanych przez podmiot obowiązany do realizacji Narodowego Celu Wskaźnikowego oraz do kar pieniężnych z tytułu niezrealizowania tego obowiązku stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
+1)
+algi, jeżeli są hodowane na lądzie, w stawach lub w fotobioreaktorach;
+2)
+frakcja ulegająca biodegradacji pochodząca z przetwarzania zmieszanych odpadów komunalnych, ale niepozyskiwana w ramach selektywnego zbierania odpadów z gospodarstw domowych mającego na celu osiągnięcie poziomów, o których mowa w art. 3b ust. 1 pkt 1 ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2017 r. poz. 1289 i 2056);
+3)
+bioodpady, o których mowa w art. 3 ust. 1 pkt 1 ustawy z dnia 14 grudnia 2012 r. o odpadach, pochodzące z gospodarstw domowych zbierane selektywnie zgodnie z art. 3 ust. 1 pkt 24 tej ustawy;
+4)
+frakcja biomasy pochodząca z odpadów przemysłowych, nienadająca się do wykorzystania w łańcuchu żywnościowym ludzi i zwierząt, w tym materiał z detalu i hurtu oraz z przemysłu rolno-spożywczego, rybołówstwa i akwakultury, z wyłączeniem surowców wymienionych w części B niniejszego załącznika;
+5)
+słoma;
+6)
+obornik i osad ściekowy;
+7)
+ścieki z zakładów wytłaczania oleju palmowego i puste wiązki owoców palmy;
+8)
+smoła oleju talowego;
+9)
+surowa gliceryna;
+10)
+wytłoczyny z trzciny cukrowej;
+11)
+wytłoki z winogron i osad winny z drożdży;
+12)
+łupiny orzechów;
+13)
+łuski nasion;
+14)
+kolby oczyszczone z ziaren kukurydzy;
+15)
+frakcja biomasy z gospodarki leśnej, taka jak kora, gałęzie, liście, igły, wierzchołki drzew, trociny, strużyny oraz frakcja biomasy z gałęzi przemysłu opartych na leśnictwie;
+16)
+inny niespożywczy materiał celulozowy, określony w art. 2 ust. 1 pkt 32b;
+17)
+inny materiał lignocelulozowy określony w art. 2 ust. 1 pkt 32a, z wyjątkiem kłód tartacznych i kłód skrawanych;
+18)
+inne paliwa odnawialne;
+19)
+wychwytywanie i wykorzystanie dwutlenku węgla na potrzeby transportu, jeżeli źródło energii jest odnawialne zgodnie z art. 2 pkt 22 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii;
+20)
+bakterie, jeżeli źródło energii jest odnawialne zgodnie z art. 2 pkt 22 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii.
+Część B. Surowce, których wkład w realizację celu określonego w art. 23 ust. 1 jest uznawany za dwukrotność ich wartości energetycznej:
+1)
+zużyty olej kuchenny;
+2)
+tłuszcze zwierzęce.
+”
 
-**Art. 7.** Minimalny poziom realizacji Narodowego Celu Wskaźnikowego, o którym mowa w art. 23 ust. 1a ustawy zmienianej w art. 1, na lata 2018 i 2019 wynosi 85%.
+## Załącznik nr 2 — –
 
-**Art. 8.** Minister właściwy do spraw energii może wydać po raz pierwszy rozporządzenie na podstawie art. 23 ust. 1c ustawy zmienianej w art. 1, na okres począwszy od 2020 r.
+„
 
-**Art. 9.** Udział biowęglowodorów ciekłych wykorzystanych przez podmiot realizujący Narodowy Cel Wskaźnikowy do realizacji obowiązku, o którym mowa w art. 23 ust. 1 ustawy zmienianej w art. 1, liczony według wartości opałowej w ogólnej ilości paliw ciekłych i biopaliw ciekłych stosowanych w transporcie drogowym i kolejowym, rozporządzanych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej na terytorium Rzeczypospolitej Polskiej przez podmiot realizujący Narodowy Cel Wskaźnikowy lub zużywanych przez ten podmiot na potrzeby własne na tym terytorium, nie może przekroczyć:
+## Załącznik nr 3 — Część A. Tymczasowe szacowane emisje surowców dla biokomponentów i biopłynów, wynikające z pośredniej zmiany użytkowania gruntów (gCO2eq/MJ)8) Grupa surowców Średnia (*) Zakres między percentylami uzyskany z analizy wrażliwości (**) Rośliny wysokoskrobiowe 12 8–16 Rośliny cukrowe 13 4–17 Rośliny oleiste 55 33–66 (*) Przedstawione tu średnie wartości stanowią średnią ważoną indywidualnie modelowanych wartości dotyczących surowców.(**)Przedstawiony tu zakres oddaje 90% wyników przy użyciu wartości 5. i 95. percentyla wynikających z analizy. Percentyl 5. oznacza wartość, poniżej której stwierdzono 5% obserwacji (tj. 5% łącznych danych wykazało wyniki poniżej 8, 4 i 33 gCO2eq/MJ). Percentyl 95. oznacza wartość, poniżej której stwierdzono 95% obserwacji (tj. 5% łącznych danych wykazało wyniki powyżej 16, 17 i 66 gCO2eq/MJ). Część B. Biokomponenty i biopłyny, w przypadku których szacowane emisje wynikające z pośredniej zmiany sposobu użytkowania gruntów są uznawane za zerowe. W przypadku biokomponentów i biopłynów produkowanych z następujących kategorii surowców uznaje się, że ich szacowane emisje wynikające z pośredniej zmiany użytkowania gruntów wynoszą zero:
 
-**Art. 10.** Udział biokomponentów wytworzonych z surowców określonych w załączniku nr 1 do ustawy zmienianej w art. 1, liczony według wartości opałowej, w ogólnej ilości paliw ciekłych i biopaliw ciekłych stosowanych w transporcie drogowym i kolejowym, rozporządzanych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej na terytorium Rzeczypospolitej Polskiej przez podmiot realizujący Narodowy Cel Wskaźnikowy lub zużywanych przez ten podmiot na potrzeby własne na tym terytorium, nie może przekroczyć:
-
-**Art. 11.** Minister właściwy do spraw energii może wydać po raz pierwszy rozporządzenie na podstawie art. 23 ust. 4c ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, na okres począwszy od 2020 r.
-
-**Art. 12.** Na lata 2018 i 2019 wysokość współczynników redukcyjnych, o których mowa w art. 23 ust. 4 ustawy zmienianej w art. 1, wynosi:
-
-**Art. 13.** Minimalny udział biokomponentów, o którym mowa w art. 23b ust. 1 ustawy zmienianej w art. 1, wynosi w 2018 r.:
-
-**Art. 14.** Minister właściwy do spraw energii może wydać po raz pierwszy rozporządzenie na podstawie art. 23b ust. 4 ustawy zmienianej w art. 1, na okres począwszy od 2020 r.
-
-**Art. 15.** Podmioty, które przed dniem wejścia w życie niniejszej ustawy uzyskały wpis do rejestru podmiotów sprowadzających w zakresie wykonywania działalności gospodarczej w zakresie importu lub nabycia wewnątrzwspólnotowego biokomponentów, a następnie ich rozporządzenia przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej, stają się podmiotami sprowadzającymi w rozumieniu art. 2 ust. 1 pkt 20a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
-
-**Art. 16.** Do sprawozdań, o których mowa w art. 30 ust. 1, 1b, 2, 2b i 3 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, zbiorczych raportów kwartalnych, o których mowa w art. 30 ust. 4 i 4a ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, składanych za okresy do ostatniego kwartału 2017 r. włącznie, oraz do kar pieniężnych za niezrealizowanie obowiązków, o których mowa w art. 30 ust. 1, 1b, 2 i 2b ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, za okresy do ostatniego kwartału 2017 r. włącznie, stosuje się przepisy dotychczasowe.
-
-**Art. 17.** Sprawozdania, o których mowa w art. 30 ust. 1, 1b, 2b i 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, po raz pierwszy składa się za pierwszy kwartał 2018 r.
-
-**Art. 18.** Oświadczenie, o którym mowa w art. 30 ust. 2e ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, po raz pierwszy składa się za pierwszy kwartał 2018 r.
-
-**Art. 19.** Do sprawozdań rocznych, o których mowa w art. 30b ust. 1 ustawy zmienianej w art. 1, składanych za lata do 2017 r. włącznie, stosuje się przepisy dotychczasowe.
-
-**Art. 20.** Sprawozdania, o których mowa w art. 30b ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, składa się po raz pierwszy za 2018 r.
-
-**Art. 21.** Ustawa wchodzi w życie z dniem 1 stycznia 2018 r., z wyjątkiem:
-
-## Część B. Surowce, których wkład w realizację celu określonego w art. 23 ust. 1 jest uznawany za dwukrotność ich wartości energetycznej:
-
-## Część B. Biokomponenty i biopłyny, w przypadku których szacowane emisje wynikające z pośredniej zmiany sposobu użytkowania gruntów są uznawane za zerowe.
+1)
+surowce niewymienione w części A niniejszego załącznika;
+2)
+surowce, których produkcja prowadzi do bezpośredniej zmiany użytkowania gruntów, np. zmiany jednej z następujących klas pokrycia terenu stosowanych przez Międzyrządowy Zespół do spraw Zmian Klimatu (IPCC); grunty leśne, użytki zielone, tereny podmokłe, grunty zabudowane lub inne grunty, na klasę gruntów uprawnych lub upraw wieloletnich9). W takim przypadku wartość emisji wynikającej z bezpośredniej zmiany użytkowania gruntów (e1) należy obliczać zgodnie z załącznikiem nr 1 pkt II.3. pkt 7.
+” .
+8) Przedstawione tu średnie wartości stanowią średnią ważoną indywidualnie modelowanych wartości dotyczących surowców. Wielkość wartości w załączniku podlega szeregowi założeń (odnoszących się np. do postępowania z pozostałościami, kształtowania się plonów, zasobów węgla i przemieszczania produkcji innych towarów) stosowanych w modelach ekonomicznych opracowanych w celu oszacowania tych emisji. Mimo że, w związku z powyższym, dokładne scharakteryzowanie zakresu niepewności wiążącego się z takimi szacowanymi wielkościami nie jest możliwe, przeprowadzono analizę metodą Monte Carlo, czyli analizę wrażliwości tych rezultatów w oparciu o przypadkową zmienność głównych parametrów. 9) Uprawy wieloletnie definiuje się jako uprawy wieloletnie z łodygami zwykle niepodlegającymi corocznym zbiorom, takie jak zagajnik o krótkiej rotacji i uprawy palmy olejowej.
 

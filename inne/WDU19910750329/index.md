@@ -22,10 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1991-07-19 |
 | Data wydania | 1991-08-27 |
+| Wejście w życie | 1991-09-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910750329) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/329/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 25 września 1981 r. o przedsiębiorstwach państwowych (Dz. U. z 1991 r. Nr 18, poz. 80) wprowadza się następujące zmiany:
+
+- **1)** po art. 18 dodaje się art. 18a w brzmieniu: „
 
 **Art. 18a.**
 
@@ -49,7 +52,31 @@ source: "eli-html"
 
 **Art. 20.** Od decyzji organu założycielskiego, o której mowa w art. 19 ust. 2, radzie pracowniczej i dyrektorowi przedsiębiorstwa przysługuje sprzeciw w trybie art. 63. ” ;
 
+- **4)** art. 21 otrzymuje brzmienie: „
+
 **Art. 21.** Z chwilą postawienia przedsiębiorstwa państwowego w stan likwidacji:
+
+- **1)** organ założycielski odwołuje dyrektora przedsiębiorstwa i wyznacza likwidatora,
+- **2)** ulegają rozwiązaniu, z mocy prawa, organy samorządu załogi przedsiębiorstwa. ” ;
+- **5)** w art. 23 w ust. 2 po wyrazach „przedstawić opinię” kropkę zastępuje się przecinkiem i dodaję wyrazy „a w przypadku likwidacji – jej program.”;
+- **6)** w art. 25: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Rada Ministrów, w drodze rozporządzenia, określi:
+
+- **1)** tryb łączenia i podziału przedsiębiorstw państwowych,
+- **2)** sposób likwidacji przedsiębiorstw państwowych, a w szczególności obowiązki i uprawnienia likwidatora, sposób zadysponowania składnikami materialnymi i niematerialnymi przedsiębiorstwa oraz przekazywania jego mienia, w toku likwidacji, gminie (związkowi międzygminnemu) lub państwowym osobom prawnym, a także sposób zaspokojenia albo zabezpieczenia wierzycieli. ” , w ust. 2 skreśla się wyrazy „w tym także likwidacji na podstawie ustawy o prywatyzacji przedsiębiorstw państwowych,” po ust. 2 dodaje się ust. 3 w brzmieniu: „
+    - **b)**
+    - **c)**
+
+3. Do likwidacji przedsiębiorstwa państwowego na podstawie art. 37 ustawy o prywatyzacji przedsiębiorstw państwowych i art. 16 ust. 7 ustawy z dnia 5 stycznia 1991 r. – Prawo budżetowe (Dz. U. Nr 4, poz. 18 i Nr 34, poz. 150) stosuje się ust. 1 i 2. ” ;
+
+- **7)** w art. 35 ust. 2 otrzymuje brzmienie: „
+
+2. W skład komisji konkursowej wchodzą trzy osoby wskazane przez organ założycielski i dwie wskazane przez radę pracowniczą. ” ;
+
+- **8)** w art. 37 w ust. 4 wyrazy „w przypadkach uzasadniających rozwiązanie stosunku pracy bez wypowiedzenia, a także” skreśla się;
+- **9)** po art. 37 dodaje się art. 37a w brzmieniu: „
 
 **Art. 37a.**
 
@@ -179,7 +206,40 @@ source: "eli-html"
 
 **Art. 70.** Koszty związane ze sprawowaniem zarządu komisarycznego obciążają przedsiębiorstwo państwowe. ” ;
 
+- **17)** art. 71, 72 i 73 skreśla się.
+
 **Art. 2.** W ustawie z dnia 31 stycznia 1989 r. o gospodarce finansowej przedsiębiorstw państwowych (Dz. U. z 1990 r. Nr 26, poz. 152 i Nr 89, poz. 517) wprowadza się następujące zmiany:
+
+- **1)** art. 1 otrzymuje brzmienie: „ Ustawa określa zasady gospodarki finansowej przedsiębiorstw państwowych działających na podstawie przepisów ustawy z dnia 25 września 1981 r. o przedsiębiorstwach państwowych (Dz. U. z 1991 r. Nr 18, poz. 80) oraz na podstawie innych ustaw, zwanych dalej „przedsiębiorstwami. ”” ;
+- **2)** w art. 4: ust. 2 i 3 otrzymują brzmienie: „
+    - **a)**
+
+2. Fundusz założycielski zwiększa się lub zmniejsza o kwotę zmian wartości majątku przedsiębiorstwa, będącą skutkiem aktualizacji wyceny środków trwałych przeprowadzonej na podstawie odrębnych przepisów. Kwotę tę ustala się zachowując wzajemne proporcje funduszu założycielskiego i funduszu przedsiębiorstwa, jakie ukształtowały się na dzień 31 grudnia roku poprzedzającego rok, w którym dokonano aktualizacji wyceny środków trwałych. Przy ustalaniu wzajemnych proporcji w funduszu przedsiębiorstwa uwzględnia się rozliczenie wyniku finansowego za ten rok.
+
+3. Jeżeli przedsiębiorstwo w wykonaniu prawomocnych decyzji i orzeczeń wydanych przez właściwe organy na podstawie odrębnych ustaw nieodpłatnie przekazało osobom prawnym lub osobom fizycznym część swego mienia w postaci środków trwałych, dokonuje zmniejszenia funduszu założycielskiego, z zastrzeżeniem ust. 6 i 7. ” , dodaje się ust. 4–7 w brzmieniu: „
+
+- **b)**
+
+4. Jeżeli nieodpłatne przekazanie, w wypadkach przewidzianych w ust. 3, następuje na rzecz przedsiębiorstwa państwowego, dokonuje ono zwiększenia swego funduszu założycielskiego o wartość równą kwocie zmniejszenia funduszu założycielskiego dokonanego przez przedsiębiorstwo przekazujące.
+
+5. Fundusz założycielski ulega zmniejszeniu o kwoty zapłacone z tytułu nabytych na podstawie ustawy z dnia 29 kwietnia 1985 r. o gospodarce gruntami i wywłaszczaniu nieruchomości (Dz. U. z 1991 r. Nr 30, poz. 127) budynków i lokali, z zastrzeżeniem ust. 6 i 7.
+
+6. Zmniejszenie funduszu założycielskiego w wypadkach przewidzianych w ust. 3 i 5 następuje wyłącznie w sytuacji, gdy przekazane mienie w postaci środków trwałych lub nabyte budynki i lokale stanowiły podstawę ustalenia tego funduszu.
+
+7. Kwotę zmniejszenia funduszu założycielskiego w wypadkach przewidzianych w ust. 3 i 5 ustala się mnożąc wartość przekazanych środków trwałych lub nabytych budynków i lokali przez współczynnik udziału funduszu założycielskiego w łącznej wartości funduszu założycielskiego i funduszu przedsiębiorstwa według stanu na dzień 1 stycznia roku, w którym mienie to zostało nieodpłatnie przekazane lub nabyte. ” , dotychczasowy ust. 4 oznacza się jako ust. 8;
+
+- **c)**
+- **3)** w art. 6: w ust. 1 w pkt 3 wyrazy „bezpośrednio przed dokonaniem aktualizacji” zastępuje się wyrazami „jakie ukształtowały się na dzień 31 grudnia roku poprzedzającego rok, w którym dokonano aktualizacji wyceny środków trwałych. Przy ustalaniu wzajemnych proporcji w funduszu przedsiębiorstwa uwzględnia się rozliczenie wyniku finansowego za ten rok.”, w ust. 2 w pkt 3 wyrazy „bezpośrednio przed dokonaniem aktualizacji” zastępuje się wyrazami „jakie ukształtowały się na dzień 31 grudnia roku poprzedzającego rok, w którym dokonano aktualizacji wyceny środków trwałych. Przy ustalaniu wzajemnych proporcji w funduszu przedsiębiorstwa uwzględnia się rozliczenie wyniku finansowego za ten rok.”, w ust. 2 dodaje się pkt 5 w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **5)** kwotę zmniejszenia wartości mienia w postaci środków trwałych nieodpłatnie przekazanego osobom prawnym lub fizycznym w wykonaniu prawomocnych decyzji i orzeczeń wydanych przez upoważnione organy na podstawie odrębnych ustaw oraz kwotę nabytych budynków i lokali, która nie została uwzględniona przy zmniejszaniu funduszu założycielskiego, o którym mowa w art. 4 ust. 3 i 5. ” ;
+- **4)** w art. 12 dodaje się ust. 4 w brzmieniu: „
+
+4. Przedsiębiorstwa, w stosunku do których podjęto decyzję o likwidacji na podstawie art. 19 ust. 1 pkt 1–3 ustawy, o której mowa w art. 1, naliczają i płacą dywidendę do czasu zakończenia statutowej działalności gospodarczej, określonego w zarządzeniu o otwarciu likwidacji. ” ;
+
+- **5)** art. 13 otrzymuje brzmienie: „
 
 **Art. 13.**
 
@@ -206,6 +266,10 @@ source: "eli-html"
 - **10)** art. 19 otrzymuje brzmienie: „
 
 **Art. 19.** Jeżeli osiągnięty zysk po jego opodatkowaniu jest niższy od należnej dywidendy, przedsiębiorstwo wpłacając dywidendę pomniejsza fundusz przedsiębiorstwa o różnicę między tymi wielkościami, zawiadamiając o tym Ministra Finansów oraz organ założycielski. ” ;
+
+- **11)** w art. 21 dodaje się ust. 5 w brzmieniu: „
+
+5. Podstawowe dane wynikające ze zweryfikowanego rocznego bilansu i rachunku wyników finansowych przedsiębiorstwa są jawne i dostępne. ”
 
 **Art. 3.** Przedsiębiorstwa, które do dnia wejścia w życie ustawy, w wykonaniu prawomocnych decyzji lub orzeczeń wydanych przez właściwe organy na podstawie odrębnych ustaw, przekazały mienie w postaci środków trwałych innym osobom fizycznym lub prawnym – dokonują zmniejszenia funduszu założycielskiego, z uwzględnieniem zasad określonych w art. 4 ust. 3, 6 i 7 ustawy o gospodarce finansowej przedsiębiorstw państwowych.
 

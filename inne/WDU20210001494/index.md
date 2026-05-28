@@ -8,12 +8,10 @@ pos: 1494
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o utworzeniu Akademii Zamojskiej
-
-*USTAWA z dnia 8 lipca 2021 r.*
+# Ustawa z dnia 8 lipca 2021 r. o utworzeniu Akademii Zamojskiej
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2021-08-08 |
 | Data wydania | 2021-08-17 |
+| Wejście w życie | 2021-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001494) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1494/text.pdf) |
 
@@ -55,7 +54,7 @@ source: "isap-pdf"
 
 1. Z dniem utworzenia Akademii:
 
-- **1)** pracownicy zatrudnieni w Uczelni stają się pracownikami Akademii; przepis art. 23 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320 oraz z 2021 r. poz. 1162) stosuje się odpowiednio;
+- **1)** pracownicy zatrudnieni w Uczelni stają się pracownikami Akademii; przepis art. 231 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320 oraz z 2021 r. poz. 1162) stosuje się odpowiednio;
 - **2)** studenci Uczelni stają się studentami Akademii;
 - **3)** uczestnicy studiów podyplomowych, kształcenia specjalistycznego oraz innych form kształcenia Uczelni stają się uczestnikami odpowiednio studiów podyplomowych, kształcenia specjalistycznego oraz innych form kształcenia Akademii.
 

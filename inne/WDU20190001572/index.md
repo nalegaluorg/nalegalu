@@ -24,7 +24,8 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-04 |
 | Data wydania | 2019-08-21 |
-| Ostatnia zmiana | 2026-05-12 |
+| Wejście w życie | 2019-09-05 |
+| Ostatnia zmiana | 2026-05-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001572) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1572/text.pdf) |
 
 Art. 22–32. (pominięte)
@@ -410,6 +411,23 @@ Art. 22–32. (pominięte)
 10. Maksymalna, nominalna dzienna wartość sprzedaży skarbowych papierów wartościowych, o których mowa w ust. 1, przez Agencję Rozwoju Przemysłu Spółkę Akcyjną wynosi 50 000 000 zł.
 
 11. Dokonanie przez Agencję Rozwoju Przemysłu Spółkę Akcyjną sprzedaży skarbowych papierów wartościowych, o których mowa w ust. 1, o wartości wyższej niż określona w ust. 10, wymaga zgody ministra właściwego do spraw budżetu.
+
+**Art. 19b.**
+
+1. Środki pochodzące ze sprzedaży skarbowych papierów wartościowych, o których mowa w art. 19a ust. 1, mogą być przeznaczone na udzielanie przez Agencję Rozwoju Przemysłu Spółkę Akcyjną pożyczek na rzecz:
+
+- **1)** przedsiębiorstwa górniczego w rozumieniu art. 2 pkt 1 ustawy z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego (Dz. U. z 2026 r. poz. 520),
+- **2)** przedsiębiorcy posiadającego koncesję na wydobywanie węgla kamiennego ze złoża, o której mowa w art. 22 ust. 1 pkt 2 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2026 r. poz. 69),
+- **3)** przedsiębiorcy prowadzącego likwidację podziemnego zakładu górniczego wydobywającego węgiel kamienny lub oznaczonej części takiego zakładu górniczego na podstawie zatwierdzonego planu ruchu likwidowanego podziemnego zakładu górniczego lub likwidowanej oznaczonej części zakładu górniczego, o którym mowa w art. 129 ust. 4 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze,
+- **4)** przedsiębiorstwa lub przedsiębiorcy innych niż wymienieni w pkt 1–3 o istotnym znaczeniu dla gospodarki narodowej lub jej sektora wskazanego w rządowych dokumentach strategicznych, w tym działających w sektorze górnictwa – zwanych dalej „pożyczkobiorcami”.
+
+2. Pożyczki, o których mowa w ust. 1, mogą być przeznaczone na reorganizację funkcjonowania pożyczkobiorców zmierzającą do zmniejszenia kosztów ich działalności lub ich optymalizację. Cel pożyczki nie może być tożsamy z celem mechanizmu wsparcia publicznego, o którym mowa w art. 2 pkt 6 ustawy z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego.
+
+3. Agencja Rozwoju Przemysłu Spółka Akcyjna udziela pożyczek, o których mowa w ust. 1, na podstawie umowy.
+
+4. Warunkiem udzielenia pożyczki, o której mowa w ust. 1, jest ustalenie przez Agencję Rozwoju Przemysłu Spółkę Akcyjną, na podstawie programu naprawczego przedstawionego przez pożyczkobiorcę, że posiada on perspektywiczną zdolność do spłaty zobowiązań wynikających z udzielanej pożyczki.
+
+5. Udzielenie pożyczki, o której mowa w ust. 1, wymaga uzyskania uprzedniej opinii rady nadzorczej i zgody walnego zgromadzenia Agencji Rozwoju Przemysłu Spółki Akcyjnej.
 
 **Art. 20.**
 

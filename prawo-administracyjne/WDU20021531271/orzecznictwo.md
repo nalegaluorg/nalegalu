@@ -2,8 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 30 sierpnia 2002 r. Przepisy wprowadzające ustawę - Prawo o ustroju sądów administracyjnych i ustawę - Prawo o postępowaniu przed sądami administracyjnymi.*
 
-Łącznie: **51** orzeczeń
-(pominięto 1 orzeczeń sądów rejonowych)
+Łącznie: **39** orzeczeń
 
 ## art. 2 (2)
 
@@ -16,9 +15,8 @@ Orzeczenia powołujące: *Ustawa z dnia 30 sierpnia 2002 r. Przepisy wprowadzaj�
 - 2004-09-08 | TK | [SK 55/03](https://www.saos.org.pl/judgments/106789) | Postanowienie ★
 - 2004-02-03 | TK | [SK 12/02](https://www.saos.org.pl/judgments/106755) | Postanowienie ★
 
-## art. 4 (2)
+## art. 4 (1)
 
-- 2010-02-10 | SN | [II PK 281/08](https://www.saos.org.pl/judgments/165206) | Wyrok ★
 - 2006-07-17 | SN | [I UK 28/06](https://www.saos.org.pl/judgments/84462) | Wyrok ★
 
 ## art. 5 (2)
@@ -117,20 +115,14 @@ Orzeczenia powołujące: *Ustawa z dnia 30 sierpnia 2002 r. Przepisy wprowadzaj�
 - 2005-11-07 | TK | [P 20/04](https://www.saos.org.pl/judgments/107231) | Wyrok ★
 - 2006-01-12 | SN | [III PO 1/04](https://www.saos.org.pl/judgments/84015) | Wyrok ★
 
-## art. 94 § 1 (12)
+## art. 94 § 1 (6)
 
 - 2005-11-07 | TK | [P 20/04](https://www.saos.org.pl/judgments/107231) | Wyrok ★
 - 2004-10-12 | SN | [III PZP 2/04](https://www.saos.org.pl/judgments/82923) | Uchwała ★
-- 2016-03-17 | SN | [III KRS 40/12](https://www.saos.org.pl/judgments/244892) | Wyrok ★
-- 2016-03-10 | SN | [III KRS 39/12](https://www.saos.org.pl/judgments/244839) | Wyrok ★
-- 2016-02-17 | SN | [III KRS 36/12](https://www.saos.org.pl/judgments/244636) | Wyrok ★
-- 2016-02-17 | SN | [III KRS 35/12](https://www.saos.org.pl/judgments/244635) | Wyrok ★
-- 2016-01-25 | SN | [III KRS 48/13](https://www.saos.org.pl/judgments/244466) | Wyrok ★
 - 2006-03-08 | SN | [III PO 41/04](https://www.saos.org.pl/judgments/84158) | Wyrok ★
 - 2006-02-16 | SN | [III PO 12/04](https://www.saos.org.pl/judgments/84101) | Wyrok ★
 - 2006-02-08 | SN | [III PO 11/04](https://www.saos.org.pl/judgments/84088) | Wyrok ★
 - 2006-01-12 | SN | [III PO 1/04](https://www.saos.org.pl/judgments/84015) | Wyrok ★
-- 2013-05-23 | SN | [III KRS 34/12](https://www.saos.org.pl/judgments/101863) | Postanowienie
 
 ## art. 94 § 2 (1)
 
@@ -165,16 +157,9 @@ Orzeczenia powołujące: *Ustawa z dnia 30 sierpnia 2002 r. Przepisy wprowadzaj�
 - 2005-11-07 | TK | [P 20/04](https://www.saos.org.pl/judgments/107231) | Wyrok ★
 - 2007-10-10 | TK | [SK 56/06](https://www.saos.org.pl/judgments/108180) | Postanowienie ★
 
-## art. 99 (4)
+## art. 99 (1)
 
-- 2015-01-21 | TK | [Ts 256/13](https://www.saos.org.pl/judgments/206997) | Postanowienie ★
-- 2014-07-08 | TK | [Ts 256/13](https://www.saos.org.pl/judgments/206604) | Postanowienie ★
-- 2009-03-10 | TK | [Ts 124/06](https://www.saos.org.pl/judgments/109262) | Postanowienie ★
 - 2007-05-21 | TK | [Ts 124/06](https://www.saos.org.pl/judgments/108317) | Postanowienie ★
-
-## art. 100 (1)
-
-- 2012-07-17 | TK | [P 30/11](https://www.saos.org.pl/judgments/110961) | Wyrok ★
 
 ## art. 101 (18)
 
@@ -231,10 +216,6 @@ Orzeczenia powołujące: *Ustawa z dnia 30 sierpnia 2002 r. Przepisy wprowadzaj�
 ## art. 106 (1)
 
 - 2007-10-31 | TK | [Ts 196/07](https://www.saos.org.pl/judgments/108375) | Postanowienie ★
-
-## art. 111 (1)
-
-- 2010-09-03 | SN | [I PK 68/10](https://www.saos.org.pl/judgments/92828) | Wyrok ★
 
 ## art. 154 (1)
 

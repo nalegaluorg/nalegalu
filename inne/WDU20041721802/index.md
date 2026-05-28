@@ -1,0 +1,389 @@
+---
+title: "Ustawa z dnia 17 czerwca 2004 r. o zmianie ustawy - Prawo łowieckie"
+address: WDU20041721802
+eli: DU/2004/1802
+publisher: DU
+year: 2004
+pos: 1802
+act_type: Ustawa
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Ustawa z dnia 17 czerwca 2004 r. o zmianie ustawy – Prawo łowieckie
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2004 nr 172 poz. 1802 |
+| ISAP | WDU20041721802 |
+| Typ aktu | Ustawa |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2004-06-17 |
+| Data wydania | 2004-08-04 |
+| Wejście w życie | 2004-08-19 |
+| Ostatnia zmiana | 2024-03-15 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041721802) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1802/text.pdf) |
+
+**Art. 1.** W ustawie z dnia 13 października 1995 r. – Prawo łowieckie (Dz. U. z 2002 r. Nr 42, poz. 372 i Nr 113, poz. 984 oraz z 2004 r. Nr 92, poz. 880) wprowadza się następujące zmiany:
+
+- **1)** w art. 4 w ust. 2 pkt 2 otrzymuje brzmienie: „
+- **2)** łowienie zwierzyny przy pomocy ptaków łowczych ” ;
+- **2)** art. 5 otrzymuje brzmienie: „
+
+**Art. 5.** Minister właściwy do spraw środowiska, po zasięgnięciu opinii ministra właściwego do spraw rolnictwa oraz Państwowej Rady Ochrony Przyrody i Polskiego Związku Łowieckiego, ustali, w drodze rozporządzenia, listę gatunków zwierząt łownych, uwzględniając podział na zwierzynę płową, grubą, drobną oraz drapieżniki. ” ;
+
+- **3)** w art. 8: ust. 3 otrzymuje brzmienie: „
+    - **a)**
+
+3. Gospodarka łowiecka prowadzona jest na zasadach określonych w ustawie, w oparciu o roczne plany łowieckie i wieloletnie łowieckie plany hodowlane. ” , po ust. 3 dodaje się ust. 3a-3e w brzmieniu: „
+
+- **b)**
+
+3a. Roczne plany łowieckie sporządzane są przez dzierżawców obwodów łowieckich, po zasięgnięciu opinii wójta (burmistrza, prezydenta miasta), i podlegają zatwierdzeniu przez właściwego nadleśniczego Państwowego Gospodarstwa Leśnego Lasy Państwowe w uzgodnieniu z Polskim Związkiem Łowieckim.
+
+3b. Roczne plany łowieckie w obwodach wyłączonych z wydzierżawienia sporządzane są przez ich zarządców i podlegają zatwierdzeniu przez dyrektora regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe.
+
+3c. Roczne plany łowieckie dla:
+
+- **1)** obwodów łowieckich graniczących z parkami narodowymi opiniowane są dodatkowo przez dyrektora parku narodowego,
+- **2)** obwodów łowieckich, na terenie których znajdują się obręby hodowlane, opiniowane są dodatkowo, w zakresie pozyskania piżmaka i łyski przez uprawnionych do rybactwa w rozumieniu ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 1999 r. Nr 66, poz. 750, z późn. zm.).
+
+3d. W przypadku odmowy zatwierdzenia lub uzgodnienia w całości lub części rocznego planu łowieckiego zainteresowanemu przysługuje odwołanie odpowiednio do dyrektora regionalnej dyrekcji lub Dyrektora Generalnego Państwowego Gospodarstwa Leśnego Lasy Państwowe.
+
+3e. Wieloletnie łowieckie plany hodowlane sporządzają dyrektorzy regionalnych dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe w uzgodnieniu z wojewodami i Polskim Związkiem Łowieckim. ” ;
+
+- **4)** w art. 9 w ust. 1 pkt 2 otrzymuje brzmienie: „
+- **2)** zakaz – poza polowaniami i odłowami, sprawdzianami pracy psów myśliwskich, a także szkoleniami ptaków łowczych, organizowanymi przez Polski Związek Łowiecki – płoszenia, chwytania, przetrzymywania, ranienia i zabijania zwierzyny, ” ;
+- **5)** art. 12 otrzymuje brzmienie: „
+
+**Art. 12.** Dzierżawcy i zarządcy obwodów łowieckich mogą, po uzyskaniu zgody właściciela, posiadacza lub zarządcy gruntu, wyznaczać i oznakowywać zakazem wstępu obszary stanowiące ostoje zwierzyny oraz wznosić urządzenia związane z prowadzeniem gospodarki łowieckiej. ” ;
+
+- **6)** w art. 15 ust. 4 otrzymuje brzmienie: „
+
+4. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, wysokość ekwiwalentu za zwierzynę bezprawnie pozyskaną, podmioty właściwe do zagospodarowania w imieniu Skarbu Państwa bezprawnie pozyskanej zwierzyny, pobrania środków pochodzących ze sprzedaży tusz oraz należnego ekwiwalentu, uwzględniając sposób pozyskania zwierzyny, jej gatunek, wielokrotność wartości rynkowej tuszy, a w przypadku samców zwierzyny płowej także jej wartość trofealną. ” ;
+
+- **7)** w art. 23 ust. 1 otrzymuje brzmienie: „
+
+1. Obwód łowiecki stanowi obszar gruntów o ciągłej powierzchni, zamkniętej jego granicami, nie mniejszy niż trzy tysiące hektarów, na którego obszarze istnieją warunki do prowadzenia łowiectwa. ” ;
+
+- **8)** w art. 26 pkt 1 otrzymuje brzmienie: „
+- **1)** parki narodowe i rezerwaty przyrody, z wyjątkiem rezerwatów lub ich części, w których na obszarach wyznaczonych w planie ochrony lub zadaniach ochronnych nie zabroniono wykonywania polowania, ” ;
+- **9)** w art. 28: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Obwody łowieckie wydzierżawią się kołom łowieckim Polskiego Związku Łowieckiego, z zastrzeżeniem ust. 1a. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+- **b)**
+
+1a. Obwody łowieckie podlegają wydzierżawieniu przez Polski Związek Łowiecki tylko wtedy, gdy żadne koło łowieckie nie jest zainteresowane ich dzierżawieniem i tylko do czasu złożenia oferty przez koło łowieckie. ” , ust. 2 otrzymuje brzmienie: „
+
+- **c)**
+
+2. Minister właściwy do spraw środowiska, po zasięgnięciu opinii Polskiego Związku Łowieckiego, może, w drodze decyzji, wyłączyć obwody łowieckie z wydzierżawiania i przekazać je na czas nie krótszy niż 10 lat w zarząd z przeznaczeniem na ośrodki hodowli zwierzyny, w których – oprócz polowania – realizowane są cele związane w szczególności z:
+
+- **1)** prowadzeniem wzorcowego zagospodarowania łowisk, wdrażaniem nowych osiągnięć z zakresu łowiectwa,
+- **2)** prowadzeniem badań naukowych,
+- **3)** odtwarzaniem populacji zanikających gatunków zwierząt dziko żyjących,
+- **4)** hodowlą rodzimych gatunków zwierząt łownych w celu zasiedlania łowisk,
+- **5)** hodowlą zwierząt łownych szczególnie pożytecznych w biocenozach leśnych,
+- **6)** prowadzeniem szkoleń z zakresu łowiectwa. ” ;
+- **10)** w art. 29: w ust. 1 po pkt 2 dodaje się pkt 3 w brzmieniu: „
+    - **a)**
+
+- **3)** obwody łowieckie znajdujące się na terenie więcej niż jednego powiatu – starosta powiatu, na terenie którego znajduje się największa część obwodu łowieckiego. ” , po ust. 4 dodaje się ust. 5 i 6 w brzmieniu: „
+    - **b)**
+
+5. Zasada określona w ust. 4 obowiązuje także w przypadku wyłączenia obwodu łowieckiego z wydzierżawienia w trakcie trwania umowy dzierżawy.
+
+6. W przypadku określonym w art. 28 ust. 1a i przekazaniu przez Polski Związek Łowiecki dzierżawionego obwodu łowieckiego kołu łowieckiemu, następuje rozliczenie między stronami obejmujące zwrot nadpłaconego czynszu dzierżawnego, nakładów poniesionych na zagospodarowanie obwodu za okres dzierżawy obwodu łowieckiego przez Polski Związek Łowiecki, nie dłuższy jednak niż 2 ostatnie lata. ” ;
+
+- **11)** po art. 29 dodaje się art. 29a w brzmieniu: „
+
+**Art. 29a.**
+
+1. Umowa dzierżawy obwodu łowieckiego w szczególności powinna zawierać:
+
+- **1)** numer i powierzchnię obwodu łowieckiego,
+- **2)** obszar gruntów leśnych i polnych wchodzących w skład obwodu łowieckiego,
+- **3)** kategorię obwodu łowieckiego,
+- **4)** wysokość czynszu za dzierżawę obwodu łowieckiego i termin jego płatności,
+- **5)** obowiązki stron umowy,
+- **6)** zasady zastosowania odstrzału zastępczego,
+- **7)** sposób i terminy rozliczeń między stronami umowy w przypadku jej rozwiązania.
+
+2. Umowa dzierżawy obwodu łowieckiego ulega rozwiązaniu w przypadku:
+
+- **1)** wyłączenia obwodu łowieckiego z wydzierżawienia,
+- **2)** rozwiązania koła łowieckiego,
+- **3)** zgodnego oświadczenia stron.
+
+3. W kwestiach nieuregulowanych w ustawie stosuje się przepisy Kodeksu cywilnego dotyczące dzierżawy. ” ;
+
+- **12)** w art. 30 ust. 2 otrzymuje brzmienie: „
+
+2. Udział w kosztach, o których mowa w ust. 1, uwzględnia się w wysokości czynszu za dzierżawę obwodu łowieckiego, przy czym udział ten przypada w całości właściwemu nadleśnictwu. ” ;
+
+- **13)** art. 32 otrzymuje brzmienie: „
+
+**Art. 32.**
+
+1. Polski Związek Łowiecki jest zrzeszeniem osób fizycznych i prawnych, które prowadzą gospodarkę łowiecką poprzez hodowlę i pozyskiwanie zwierzyny oraz działają na rzecz jej ochrony poprzez regulację liczebności populacji zwierząt łownych.
+
+2. Polski Związek Łowiecki posiada osobowość prawną.
+
+3. Polski Związek Łowiecki oraz koła łowieckie działają na podstawie ustawy oraz statutu uchwalonego przez Krajowy Zjazd Delegatów Polskiego Związku Łowieckiego.
+
+4. Statut Polskiego Związku Łowieckiego określa w szczególności:
+
+- **1)** teren działania i siedzibę Polskiego Związku Łowieckiego,
+- **2)** sposób nabywania i utraty członkostwa w Polskim Związku Łowieckim oraz kole łowieckim, zasady przynależności do kół łowieckich, przyczyny utraty członkostwa oraz prawa i obowiązki członków,
+- **3)** organy Polskiego Związku Łowieckiego oraz koła łowieckiego, ich kompetencje, tryb dokonywania ich wyboru, zmiany bądź uzupełnienia składu,
+- **4)** zadania koła łowieckiego i sposób ich realizacji oraz zasady reprezentowania koła łowieckiego,
+- **5)** fundusze i majątek Polskiego Związku Łowieckiego oraz koła łowieckiego, a także sposób ich tworzenia, nabywania i zbywania,
+- **6)** warunki ważności podejmowanych przez organy Polskiego Związku Łowieckiego bądź koła łowieckiego uchwał,
+- **7)** sposób ustanawiania składek członkowskich oraz wpisowego na rzecz Polskiego Związku Łowieckiego i koła łowieckiego,
+- **8)** zasady uchwalania i dokonywania zmian statutu,
+- **9)** zasady postępowania wewnątrzorganizacyjnego,
+- **10)** wzory deklaracji członkowskich w Polskim Związku Łowieckim oraz kole łowieckim,
+- **11)** sankcje dyscyplinarne za naruszenie obowiązków członkowskich,
+- **12)** warunki i sposób łączenia się, podziału, rozwiązywania oraz likwidacji koła łowieckiego.
+
+5. Osoba fizyczna może zostać członkiem Polskiego Związku Łowieckiego, jeżeli:
+
+- **1)** jest pełnoletnia,
+- **2)** korzysta z pełni praw publicznych,
+- **3)** nie była karana za przestępstwa wymienione w prawie łowieckim,
+- **4)** nabyła uprawnienia do wykonywania polowania,
+- **5)** złożyła deklarację i uiściła wpisowe.
+
+6. Członkowie Polskiego Związku Łowieckiego podlegają obowiązkowemu ubezpieczeniu od następstw nieszczęśliwych wypadków i od odpowiedzialności cywilnej w zakresie czynności związanych z gospodarką łowiecką i polowaniami. ” ;
+
+- **14)** art. 32a otrzymuje brzmienie: „
+
+1. Organami Polskiego Związku Łowieckiego są:
+
+- **1)** Krajowy Zjazd Delegatów Polskiego Związku Łowieckiego, jako najwyższa władza Polskiego Związku Łowieckiego, który tworzą, wyłonieni w wyborach pośrednich, przedstawiciele kół łowieckich i przedstawiciele członków niezrzeszonych w kołach łowieckich,
+- **2)** Naczelna Rada Łowiecka, do zadań której należy ustalanie kierunków i planów działalności Polskiego Związku Łowieckiego między Krajowymi Zjazdami Delegatów oraz realizacja innych zadań przewidzianych statutem, oraz Okręgowe Rady Łowieckie,
+- **3)** Zarząd Główny jako organ zarządzający.
+
+2. Zarząd Główny Polskiego Związku Łowieckiego reprezentuje Związek na zewnątrz.
+
+3. Polski Związek Łowiecki zobowiązany jest posiadać organy kontroli wewnętrznej.
+
+4. Statut Polskiego Związku Łowieckiego może przewidywać powoływanie innych organów krajowych i okręgowych, które realizują – na terenie swego działania – zadania określone w art. 34. ” ;
+
+- **15)** w art. 33: ust. 3 i 4 otrzymują brzmienie: „
+    - **a)**
+
+3. Osobowość prawną koła łowieckie nabywają i tracą z dniem nabycia lub utraty członkostwa w Polskim Związku Łowieckim.
+
+4. Wskazane statutem organy okręgowe, o których mowa w art. 32a ust. 4, koordynują i nadzorują działalność kół łowieckich oraz członków – osób fizycznych niezrzeszonych w kołach łowieckich. ” , po ust. 4 dodaje się ust. 5 i 6 w brzmieniu: „
+
+- **b)**
+
+5. Organy, o których mowa w ust. 4, uchylają, w ramach nadzoru, sprzeczne z prawem bądź statutem Polskiego Związku Łowieckiego uchwały kół łowieckich.
+
+6. W sprawach nabycia lub utraty członkostwa w Polskim Związku Łowieckim oraz utraty członkostwa w kole łowieckim zainteresowany może – po wyczerpaniu postępowania wewnątrzorganizacyjnego – dochodzić swoich praw na drodze sądowej. ” ;
+
+- **16)** po art. 33 dodaje się art. 33a w brzmieniu: „
+
+**Art. 33a.**
+
+1. Koło łowieckie powinno liczyć co najmniej 10 osób fizycznych będących członkami Polskiego Związku Łowieckiego.
+
+2. Założyciele koła podpisują i składają deklarację członkowską.
+
+3. Założyciele koła, którzy podpisali i złożyli deklarację, stają się członkami koła z chwilą przyjęcia go do Polskiego Związku Łowieckiego. ” ;
+
+- **17)** w art. 34: pkt 4 otrzymuje brzmienie: „
+    - **a)**
+
+- **4)** ustalanie kierunków i zasad rozwoju łowiectwa, zasad selekcji populacyjnej i osobniczej zwierząt łownych, ” , pkt 11 otrzymuje brzmienie: „
+    - **b)**
+
+- **11)** prowadzenie i popieranie hodowli użytkowych psów myśliwskich i ptaków łowczych, ” ;
+- **18)** w art. 35 ust. 1 i 2 otrzymują brzmienie: „
+
+1. Działalność Polskiego Związku Łowieckiego jest finansowana z funduszy własnych, wpisowego, składek członkowskich, zapisów i darowizn oraz dochodów z działalności gospodarczej.
+
+2. Dochód z działalności gospodarczej Polskiego Związku Łowieckiego oraz kół łowieckich służy wyłącznie realizacji ich celów statutowych i nie może być przeznaczony do podziału między członków. Mienie Polskiego Związku Łowieckiego i kół łowieckich nie podlega podziałowi między członków. ” ;
+
+- **19)** po art. 35 dodaje się art. 35a w brzmieniu: „
+
+**Art. 35a.**
+
+1. Nadzór nad działalnością Polskiego Związku Łowieckiego sprawuje minister właściwy do spraw środowiska.
+
+2. Przepisy ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2001 r. Nr 79, poz. 855, z 2003 r. Nr 96, poz. 874 oraz z 2004 r. Nr 102, poz. 1055) regulujące zasady nadzoru nad stowarzyszeniami stosuje się odpowiednio do nadzoru nad działalnością Polskiego Związku Łowieckiego. ” ;
+
+- **20)** w art. 36: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Tworzy się Państwową Straż Łowiecką jako umundurowaną, uzbrojoną i wyposażoną w terenowe, oznakowane środki transportu formację podległą wojewodzie. ” , dodaje się ust. 1a w brzmieniu: „
+
+- **b)**
+
+1a. Koordynację działań Państwowej Straży Łowieckiej na obszarze województwa w zakresie realizacji zadań, o których mowa w art. 37 ust. 1, prowadzi komendant wojewódzki Państwowej Straży Łowieckiej powoływany przez wojewodę. ” , ust. 2 i 3 otrzymują brzmienie: „
+
+- **c)**
+
+2. Dzierżawcy i zarządcy obwodów łowieckich mają obowiązek zatrudnić lub powołać co najmniej jednego strażnika, którego zadaniem jest ochrona zwierzyny i prowadzenie gospodarki łowieckiej.
+
+3. Straż łowiecką stanowią:
+
+- **1)** Państwowa Straż Łowiecka,
+- **2)** strażnicy łowieccy powoływani lub zatrudniani przez dzierżawców i zarządców obwodów łowieckich. ” ;
+- **21)** w art. 38 w ust. 1 pkt 5 otrzymuje brzmienie: „
+- **5)** cieszy się pozytywną opinią wydaną przez komendanta wojewódzkiego Policji właściwego ze względu na miejsce zamieszkania osoby zainteresowanej, ” ;
+- **22)** po art. 38 dodaje się art. 38a w brzmieniu: „
+
+**Art. 38a.** Strażnikowi Państwowej Straży Łowieckiej przysługuje bezpłatne umundurowanie wraz z oznakami służbowymi i odznakami służbowymi, które zobowiązany jest nosić przy wykonywaniu czynności służbowych. ” ;
+
+- **23)** w art. 39: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Na terenach obwodów łowieckich ochroną zwierzyny oraz ochroną mienia dzierżawców i zarządców, zwalczaniem przestępstw i wykroczeń w zakresie szkodnictwa łowieckiego i szkodnictwa przyrodniczego, popełnianych w obwodach łowieckich polnych i leśnych, zajmują się strażnicy Państwowej Straży Łowieckiej, na zasadach określonych w Kodeksie postępowania karnego i Kodeksie postępowania w sprawach o wykroczenia. ” , w ust. 2: – pkt 3 i 4 otrzymują brzmienie: „ 3) zatrzymywania i dokonywania kontroli środków transportu w obwodach łowieckich oraz w ich bezpośrednim sąsiedztwie, w celu sprawdzenia ich ładunku oraz przeglądania zawartości bagaży, w razie zaistnienia uzasadnionego podejrzenia popełnienia przestępstwa lub wykroczenia, 4) przeszukania osób, pomieszczeń i innych miejsc w przypadkach uzasadnionego podejrzenia o popełnienie przestępstwa lub wykroczenia na zasadach określonych w Kodeksie postępowania karnego, ” , – pkt 6 otrzymuje brzmienie: „ 6) odbierania za pokwitowaniem przedmiotów pochodzących z przestępstwa lub wykroczenia oraz narzędzi i środków służących do ich popełnienia oraz ich zabezpieczenia, ” , – pkt 9 otrzymuje brzmienie: „ 9) dokonywania kontroli podmiotów prowadzących skup, przerób i sprzedaż tusz zwierzyny lub ich części w zakresie sprawdzenia źródeł jej pochodzenia, ” , – po pkt 9 dodaje się pkt 9a i 9b w brzmieniu: „ 9a) dokonywania kontroli podmiotów prowadzących obrót zwierzyną żywą oraz podmiotów prowadzących chów i hodowlę zwierząt łownych w zakresie sprawdzenia źródeł ich pochodzenia, 9b) dokonywania kontroli podmiotów prowadzących sprzedaż usług obejmujących polowania wykonywane przez cudzoziemców na terytorium Rzeczypospolitej Polskiej, ” , – pkt 10 i 11 otrzymują brzmienie: „ 10) noszenia broni palnej bojowej, broni myśliwskiej śrutowej, pałki wielofunkcyjnej i kajdanek oraz pocisków, w tym pocisków niepenetracyjnych, 11) noszenia miotacza gazu obezwładniającego, ” , w ust. 3: – pkt 2 otrzymuje brzmienie: „ 2) chemicznych środków obezwładniających w postaci miotacza gazu obezwładniającego, ” , – po pkt 2 dodaje się pkt 3–5 w brzmieniu: „ 3) pałki wielofunkcyjnej, 4) kajdanek, 5) pocisków niepenetracyjnych. ” ;
+
+- **b)**
+- **c)**
+- **24)** w art. 40: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Strażnicy, o których mowa w art. 36 ust. 3 pkt 2:
+
+- **1)** wykonując zadania, współdziałają z Państwową Strażą Łowiecką. Przy wykonywaniu czynności służbowych przysługują im uprawnienia oraz obowiązują zasady, o których mowa w art. 39 ust. 2 pkt 1, 5, 6, 9 i 11, ust. 3 pkt 1 i 2, ust. 4 oraz ust. 9–11,
+- **2)** mają prawo do noszenia i używania broni myśliwskiej w celach ochrony zwierzyny przed drapieżnikami znajdującymi się na liście zwierząt łownych, zgodnie z rocznym planem łowieckim, o ile są członkami Polskiego Związku Łowieckiego. ” , po ust. 2 dodaje się ust. 3 w brzmieniu: „
+    - **b)**
+
+3. Broń myśliwska, o której mowa w ust. 1 pkt 2, może być nabywana przez dzierżawców bądź zarządców obwodów łowieckich oraz używana, ewidencjonowana i przechowywana na zasadach określonych w przepisach o broni i amunicji. ” ;
+
+- **25)** w art. 41: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Minister właściwy do spraw środowiska, w porozumieniu z ministrem właściwym do spraw wewnętrznych i Ministrem Sprawiedliwości, określi, w drodze rozporządzenia, szczegółowe wymogi kwalifikacji zawodowych, wzory legitymacji, umundurowania, oznak służbowych oraz odznak służbowych strażników Państwowej Straży Łowieckiej, a także szczegółowe kwalifikacje zawodowe, wzór oznaki i legitymacji strażnika łowieckiego. ” , w ust. 2 pkt 2 otrzymuje brzmienie: „
+
+- **b)**
+- **2)** posiadania, ewidencjonowania i przechowywania broni palnej bojowej, broni myśliwskiej śrutowej, amunicji oraz miotaczy gazu obezwładniającego w siedzibach straży. ” , ust. 3 otrzymuje brzmienie: „
+    - **c)**
+
+3. Minister właściwy do spraw środowiska, w porozumieniu z ministrem właściwym do spraw wewnętrznych, określi, w drodze rozporządzenia, szczegółowe sposoby używania, ewidencjonowania i przechowywania w siedzibach Państwowej Straży Łowieckiej broni palnej bojowej, broni myśliwskiej śrutowej, amunicji i miotaczy gazu obezwładniającego. Rozporządzenie powinno określać szczegółowe wymogi dotyczące przechowywania, używania, ewidencjonowania w siedzibach Państwowej Straży Łowieckiej broni palnej bojowej, broni myśliwskiej śrutowej, amunicji do tej broni oraz miotaczy gazu obezwładniającego, a także wzory dokumentów niezbędnych do ewidencjonowania broni i amunicji oraz miotaczy gazu obezwładniającego, jej wydawania i zdania, jak również warunki techniczne, jakim powinien odpowiadać magazyn broni. ” ;
+
+- **26)** art. 42 otrzymuje brzmienie: „
+
+**Art. 42.**
+
+1. Polowanie może być wykonywane przez członków Polskiego Związku Łowieckiego lub cudzoziemców, o których mowa w art. 42a ust. 1, za zgodą dzierżawcy lub zarządcy obwodu łowieckiego.
+
+2. Podczas polowania uprawniony do jego wykonywania zobowiązany jest posiadać:
+
+- **1)** legitymację członkowską Polskiego Związku Łowieckiego. Wymóg ten nie dotyczy cudzoziemców wymienionych w art. 42a ust. 1 i art. 43 ust. 1,
+- **2)** pozwolenie na posiadanie broni myśliwskiej lub inny dokument uprawniający do jej posiadania, jeżeli wykonuje polowanie za pomocą broni przeznaczonej do celów łowieckich,
+- **3)** zezwolenie na łowienie zwierzyny przy użyciu ptaka łowczego, jeżeli wykonuje polowanie przy pomocy ptaków łowczych.
+
+3. Wyróżnia się trzy rodzaje uprawnień do wykonywania polowania:
+
+- **1)** podstawowe – uprawniające do odstrzału zwierząt łownych, z wyjątkiem samców zwierzyny płowej,
+- **2)** selekcjonerskie – uprawniające do odstrzału wszystkich zwierząt łownych,
+- **3)** sokolnicze – uprawniające do łowienia zwierzyny przy pomocy ptaków łowczych.
+
+4. Warunkiem uzyskania uprawnień do wykonywania polowania, o których mowa w ust. 3 pkt 1, jest:
+
+- **1)** odbycie rocznego stażu w kole łowieckim lub ośrodku hodowli zwierzyny,
+- **2)** odbycie szkolenia przeprowadzonego przez Polski Związek Łowiecki,
+- **3)** złożenie, z wynikiem pozytywnym, egzaminu przed komisją egzaminacyjną powołaną przez Polski Związek Łowiecki.
+
+5. Z odbycia stażu, o którym mowa w ust. 4 pkt 1, zwolnieni są:
+
+- **1)** osoby posiadające wyższe lub średnie wykształcenie leśne,
+- **2)** osoby posiadające inne wyższe wykształcenie o specjalności łowieckiej,
+- **3)** strażnicy łowieccy pełniący swe funkcje przez okres nie krótszy niż 2 lata,
+- **4)** cudzoziemcy oraz obywatele polscy, którzy przebywają z zamiarem stałego pobytu za granicą, jeżeli posiadają aktualne uprawnienia do wykonywania polowania w innym państwie,
+- **5)** osoby, które uprzednio utraciły członkostwo w Polskim Związku Łowieckim.
+
+6. Warunkiem uzyskania uprawnień, o których mowa w ust. 3 pkt 2, jest:
+
+- **1)** posiadanie uprawnień podstawowych przez co najmniej 3 lata,
+- **2)** odbycie szkolenia przeprowadzonego przez Polski Związek Łowiecki,
+- **3)** złożenie egzaminu, z wynikiem pozytywnym, przed komisją egzaminacyjną powołaną przez Polski Związek Łowiecki.
+
+7. Warunkiem uzyskania uprawnień, o których mowa w ust. 3 pkt 3, jest:
+
+- **1)** posiadanie uprawnień podstawowych,
+- **2)** odbycie szkolenia przeprowadzonego przez Polski Związek Łowiecki,
+- **3)** złożenie egzaminu, z wynikiem pozytywnym, przed komisją egzaminacyjną powołaną przez Polski Związek Łowiecki.
+
+8. Do wykonywania polowania indywidualnego jest wymagane, poza dokumentami określonymi w ust. 2, pisemne upoważnienie wydane przez dzierżawcę lub zarządcę obwodu łowieckiego.
+
+9. Polski Związek Łowiecki ustala wysokość opłat za szkolenie i egzaminowanie, uwzględniając poniesione koszty.
+
+10. Uprawnienia do wykonywania polowania wygasają, o ile zainteresowany w okresie 5 lat od ich nabycia nie uzyskał członkostwa Polskiego Związku Łowieckiego lub też po upływie 5 lat od ustania członkostwa w Polskim Związku Łowieckim.
+
+11. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, warunki i tryb wydawania zezwoleń na łowienie zwierzyny przy użyciu ptaków łowczych, kierując się potrzebą podtrzymania polskich zwyczajów i tradycji sokolniczych. ” ;
+
+- **27)** po art. 42 dodaje się art. 42a-42e w brzmieniu: „
+
+1. Uprawnienia do wykonywania polowania posiadają także obywatele państw członkowskich Unii Europejskiej, jeżeli posiadają uprawnienia do wykonywania polowania w państwie członkowskim Unii Europejskiej i złożą egzamin uzupełniający w języku polskim przed komisją, o której mowa w art. 42 ust. 4 pkt 3, ust. 6 pkt 3 i ust. 7 pkt 3, z obowiązujących w Rzeczypospolitej Polskiej przepisów dotyczących zasad i warunków wykonywania polowania, a także listy gatunków zwierząt łownych oraz okresów polowań na te zwierzęta, a w przypadku uprawnień selekcjonerskich także zasad selekcji populacyjnej i osobniczej zwierzyny płowej.
+
+2. Uprawnienia, o których mowa w ust. 1, wygasają po upływie 5 lat od dnia egzaminu.
+
+1. Termin rozpoczęcia i zakończenia polowania indywidualnego oraz ilość i gatunek pozyskanej zwierzyny podlega wpisowi w książce ewidencji pobytu na polowaniu indywidualnym, którą zobowiązani są posiadać dla każdego obwodu dzierżawcy i zarządcy obwodów łowieckich.
+
+2. W przypadku pozyskania zwierzyny na polowaniu indywidualnym myśliwy jest zobowiązany odnotować ten fakt w posiadanym upoważnieniu do wykonywania polowania indywidualnego:
+
+- **1)** w odniesieniu do zwierzyny grubej – przed podjęciem czynności transportowych,
+- **2)** w odniesieniu do zwierzyny drobnej – niezwłocznie po zakończeniu polowania.
+
+3. Za dokonanie wpisu, o którym mowa w ust. 1, odpowiedzialny jest myśliwy wykonujący polowanie. Osoba prowadząca punkt skupu obowiązana jest oznakować tusze: łosi, jeleni, danieli, muflonów, saren i dzików bezpośrednio po dostarczeniu przez uprawnionego do wykonywania polowania pozyskanej zwierzyny. Odstrzał samców łosi, jeleni, danieli, saren i muflonów podlega ocenie co do jego zgodności z zasadami selekcji osobniczej. Oceny w obwodach podlegających wydzierżawieniu dokonują komisje powołane przez Polski Związek Łowiecki, w skład których wchodzą przedstawiciele: Polskiego Związku Łowieckiego oraz Państwowego Gospodarstwa Leśnego Lasy Państwowe, a w obwodach wyłączonych z wydzierżawienia ich zarządcy przy udziale odpowiednio przedstawiciela: Polskiego Związku Łowieckiego albo Państwowego Gospodarstwa Leśnego Lasy Państwowe bądź obu z nich. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, sposób wyceny oraz ewidencji trofeów łowieckich, uwzględniając kryteria wyceny Międzynarodowej Rady Łowiectwa i Ochrony Zwierzyny, a także sposób i formę ochrony trofeów rekordowych oraz wielkość trofeów, których wywóz za granicę jest zabroniony. ” ;
+
+- **28)** w art. 43: po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+
+1a. Cudzoziemiec, o którym mowa w ust. 1, może polować wyłącznie w obecności przedstawiciela dzierżawcy lub zarządcy obwodu łowieckiego będącego członkiem Polskiego Związku Łowieckiego, który wskazuje zwierzynę przeznaczoną do odstrzału i odpowiedzialny jest za dokonanie wpisu, o którym mowa w art. 42b ust. 1. ” , ust. 2 i 3 otrzymują brzmienie: „
+
+- **b)**
+
+2. Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw wewnętrznych, po zasięgnięciu opinii Polskiego Związku Łowieckiego, określi, w drodze rozporządzenia:
+
+- **1)** sposób powoływania komisji egzaminacyjnych oraz zakres i tryb przeprowadzania egzaminów, o których mowa w art. 42 ust. 4 pkt 3, art. 42 ust. 6 pkt 3, art. 42 ust. 7 pkt 3 i art. 42a ust. 1, uwzględniając: konieczność zapewnienia w składzie komisji egzaminacyjnej przedstawicieli Polskiego Związku Łowieckiego, wojewody, Państwowego Gospodarstwa Leśnego Lasy Państwowe i Policji, rodzaje uzyskiwanych uprawnień, dokumenty wymagane do złożenia przed egzaminem, sposób przeprowadzania i dokumentowania egzaminów,
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **2)** wzory dokumentów potwierdzających uzyskanie uprawnień, o których mowa w art. 42 ust. 3 i art. 42a ust. 1.
+
+3. Minister właściwy do spraw środowiska, po zasięgnięciu opinii Polskiego Związku Łowieckiego, określi, w drodze rozporządzenia, szczegółowe warunki wykonywania polowania oraz znakowania, o którym mowa w art. 42c, wzór upoważnienia do wykonywania polowania indywidualnego, wzór książki ewidencji pobytu na polowaniu indywidualnym, uwzględniając istniejące polskie zwyczaje łowieckie oraz kierując się troską o bezpieczeństwo osób i mienia. ” ;
+
+- **29)** w art. 44 uchyla się ust. 4;
+- **30)** w art. 45 ust. 1 otrzymuje brzmienie: „
+
+1. W przypadku nadmiernego zagęszczenia zwierzyny, zagrażającego trwałości lasów, nadleśniczy działający z upoważnienia dyrektora regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe po zasięgnięciu opinii Polskiego Związku Łowieckiego wydaje decyzję administracyjną, nakazującą dzierżawcy lub zarządcy obwodu łowieckiego wykonanie odłowu lub odstrzału redukcyjnego zwierzyny. ” ;
+
+- **31)** w art. 51 w ust. 1: pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** wybiera jaja, pisklęta, niszczy gniazda ptaków łownych lub niszczy ich lęgowiska, ” , pkt 4 i 5 otrzymują brzmienie: „
+    - **b)**
+
+- **4)** niszczy nory i legowiska zwierząt łownych,
+- **5)** niszczy urządzenia łowieckie, wybiera karmę lub sól z lizawek, ” , dodaje się pkt 6 i 7 w brzmieniu: „
+    - **c)**
+
+- **6)** poluje, nie posiadając przy sobie wymaganych dokumentów,
+- **7)** wbrew przepisom art. 42b ust. 2 nie dokonuje wymaganych wpisów w upoważnieniu do wykonywania polowania indywidualnego ” ;
+- **32)** w art. 52: pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** gromadzi, posiada, wytwarza, przechowuje lub wprowadza do obrotu narzędzia i urządzenia przeznaczone do kłusownictwa, ” , po pkt 5 stawia się przecinek i dodaje się pkt 6 w brzmieniu: „
+    - **b)**
+
+- **6)** pozyskuje zwierzynę innego gatunku, innej płci lub w większej liczbie, niż przewiduje upoważnienie wydane przez dzierżawcę lub zarządcę obwodu łowieckiego ” .
+
+**Art. 2.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 5, art. 15 ust. 4, art. 41 ust. 1, ust. 2 pkt 2 i ust. 3 oraz art. 43 ust. 2 i 3 ustawy z dnia 13 października 1995 r. – Prawo łowieckie zachowują moc do czasu wydania nowych przepisów wykonawczych na podstawie art. 5, art. 15 ust. 4, art. 41 ust. 1, ust. 2 pkt 2 i ust. 3 oraz art. 43 ust. 2 i 3 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż do dnia 30 czerwca 2005 r.
+
+**Art. 3.** Umowy dzierżawy obwodów łowieckich zawarte przed dniem wejścia w życie ustawy zachowują swą ważność przez okres, na jaki zostały zawarte.
+
+**Art. 4.** Statut Polskiego Związku Łowieckiego oraz statuty kół łowieckich zachowują swą moc do czasu ich zastąpienia przez statut uchwalony w myśl art. 32 ust. 3 ustawy, nie dłużej jednak niż do dnia 31 grudnia 2005 r. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 27 w zakresie art. 42b ust. 2 oraz pkt 31 w zakresie art. 51 ust. 1 pkt 7, które wchodzą w życie z dniem 30 czerwca 2005 r.
+

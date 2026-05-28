@@ -2,14 +2,9 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 24 maja 2000 r. o zmianie ustawy - Kodeks postępowania cywilnego, ustawy o zastawie rejestrowym i rejestrze zastawów, ustawy o kosztach sądowych w sprawach cywilnych oraz ustawy o komornikach sądowych i egzekucji.*
 
-Łącznie: **38** orzeczeń
-(pominięto 5 orzeczeń sądów rejonowych)
+Łącznie: **28** orzeczeń
 
-## art. 1 (1)
-
-- 2016-02-03 | SN | [V CSK 314/15](https://www.saos.org.pl/judgments/244506) | Wyrok ★
-
-## art. 5 (23)
+## art. 5 (22)
 
 - 2005-05-10 | TK | [SK 40/02](https://www.saos.org.pl/judgments/107268) | Wyrok ★
 - 2005-04-20 | TK | [SK 40/02](https://www.saos.org.pl/judgments/107269) | Postanowienie ★
@@ -33,7 +28,6 @@ Orzeczenia powołujące: *Ustawa z dnia 24 maja 2000 r. o zmianie ustawy - Kodek
 - 2000-10-11 | SN | [III CZ 87/00](https://www.saos.org.pl/judgments/80006) | Postanowienie
 - 2000-08-22 | SN | [IV CKN 1181/00](https://www.saos.org.pl/judgments/79884) | Postanowienie
 - 2000-08-10 | SN | [IV CKN 1026/00](https://www.saos.org.pl/judgments/79878) | Postanowienie
-- 2012-11-08 | SO | [VI ACa 808/12](https://www.saos.org.pl/judgments/4622) | Wyrok
 
 ## art. 6 (3)
 
@@ -45,17 +39,9 @@ Orzeczenia powołujące: *Ustawa z dnia 24 maja 2000 r. o zmianie ustawy - Kodek
 
 - 2002-05-13 | TK | [SK 32/01](https://www.saos.org.pl/judgments/106070) | Wyrok ★
 
-## art. 386 § 4 (1)
-
-- 2016-01-14 | SN | [IV CZ 86/15](https://www.saos.org.pl/judgments/244221) | Postanowienie
-
 ## art. 398(1) § 1 (1)
 
 - 2007-06-20 | SN | [V CZ 61/07](https://www.saos.org.pl/judgments/86178) | Postanowienie
-
-## art. 485 (1)
-
-- 2013-12-05 | SN | [V CSK 37/13](https://www.saos.org.pl/judgments/103785) | Wyrok ★
 
 ## art. 486 § 1 (1)
 
@@ -76,16 +62,4 @@ Orzeczenia powołujące: *Ustawa z dnia 24 maja 2000 r. o zmianie ustawy - Kodek
 ## art. 505(10) § 3 (1)
 
 - 2006-10-02 | TK | [SK 34/06](https://www.saos.org.pl/judgments/107686) | Wyrok ★
-
-## art. 519(1) § 1 (1)
-
-- 2009-03-04 | SN | [IV CZ 18/09](https://www.saos.org.pl/judgments/89820) | Postanowienie
-
-## (ogólnie) (5)
-
-- 2021-02-02 | SO | [VII AGa 443/19](https://www.saos.org.pl/judgments/446030) | Wyrok
-- 2015-05-07 | SO | [I ACa 535/14](https://www.saos.org.pl/judgments/176899) | Wyrok
-- 2014-09-30 | SO | [I ACa 538/14](https://www.saos.org.pl/judgments/67743) | Wyrok
-- 2022-12-20 | SO | [II Ca 1392/22](https://www.saos.org.pl/judgments/483724) | Wyrok
-- 2019-04-26 | SO | [III Ca 1577/18](https://www.saos.org.pl/judgments/389905) | Uzasadnienie
 

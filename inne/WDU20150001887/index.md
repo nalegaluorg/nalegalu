@@ -22,10 +22,20 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-25 |
 | Data wydania | 2015-11-17 |
+| Wejście w życie | 2015-12-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001887) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1887/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2013 r. poz. 757, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 3: po pkt 11 dodaje się pkt 11a w brzmieniu: „
+    - **a)**
+
+- **11a)** centrum urazowe dla dzieci – wydzieloną funkcjonalnie część szpitala, w rozumieniu przepisów o działalności leczniczej, w którym działa szpitalny oddział ratunkowy, w której to części specjalistyczne oddziały są powiązane ze sobą organizacyjnie oraz zakresem zadań, w sposób pozwalający na szybkie diagnozowanie i leczenie pacjenta urazowego dziecięcego, spełniającą wymagania określone w ustawie; ” , po pkt 12 dodaje się pkt 12a w brzmieniu: „
+    - **b)**
+
+- **12a)** pacjent urazowy dziecięcy – osobę do ukończenia 18. roku życia w stanie nagłego zagrożenia zdrowotnego spowodowanego działaniem czynnika zewnętrznego, którego następstwem są ciężkie, mnogie lub wielonarządowe obrażenia ciała; ” ;
+- **2)** art. 11 otrzymuje brzmienie: „
 
 **Art. 11.**
 
@@ -102,6 +112,30 @@ source: "eli-html"
 
 **Art. 39e.** W centrum urazowym dla dzieci świadczenia zdrowotne, o których mowa w art. 39g ust. 1, są udzielane pacjentowi urazowemu dziecięcemu przez zespół lekarzy posiadających tytuł specjalisty, zwany dalej „zespołem urazowym dziecięcym”, określony w przepisach wydanych na podstawie art. 39h. Centrum urazowe dla dzieci:
 
+- **1)** zabezpiecza, w zakresie świadczeń zdrowotnych, o których mowa w art. 39g ust. 1, populację nie mniejszą niż 1 mln mieszkańców, zamieszkującą obszar pozwalający na dotarcie z miejsca zdarzenia do centrum urazowego dla dzieci w ciągu 1,5 godziny;
+- **2)** współpracuje z publiczną uczelnią, o której mowa w art. 94 ust. 3 pkt 6 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym;
+- **3)** zapewnia działanie w swojej strukturze specjalistycznych oddziałów zabiegowych: oddziału anestezjologii i intensywnej terapii, zapewniającego gotowość co najmniej dwóch stanowisk intensywnej terapii do udzielania świadczeń zdrowotnych pacjentowi urazowemu dziecięcemu, bloku operacyjnego, zapewniającego stałą gotowość co najmniej jednej sali operacyjnej do udzielania świadczeń zdrowotnych pacjentowi urazowemu dziecięcemu, oddziału chirurgii dziecięcej oraz oddziałów lub specjalistów neurochirurgii lub neurotraumatologii, ortopedii i traumatologii narządu ruchu;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **4)** zapewnia dostęp do pracowni diagnostyki laboratoryjnej i obrazowej, endoskopii diagnostycznej i zabiegowej czynnej całą dobę;
+- **5)** zapewnia dostępność do świadczeń zdrowotnych udzielanych przez lekarza posiadającego specjalizację II stopnia lub tytuł specjalisty w dziedzinie kardiochirurgii lub chirurgii klatki piersiowej w czasie nie dłuższym niż 30 minut od chwili stwierdzenia okoliczności uzasadniających udzielanie takich świadczeń;
+- **6)** zapewnia dostępność do świadczeń zdrowotnych udzielanych przez lekarza posiadającego specjalizację II stopnia lub tytuł specjalisty w dziedzinie chirurgii szczękowo-twarzowej w czasie nie dłuższym niż 12 godzin od chwili stwierdzenia okoliczności uzasadniających udzielanie takich świadczeń;
+- **7)** dysponuje lądowiskiem lub lotniskiem dla śmigłowca ratunkowego, zlokalizowanym w takiej odległości, aby możliwe było przyjęcie pacjenta urazowego dziecięcego, bez pośrednictwa specjalistycznego środka transportu sanitarnego.
+
+1. Centrum urazowe dla dzieci przyjmuje, kompleksowo diagnozuje i wielospecjalistycznie leczy pacjenta urazowego dziecięcego, zgodnie z aktualną wiedzą medyczną w zakresie leczenia ciężkich, mnogich lub wielonarządowych obrażeń ciała.
+
+2. Centrum urazowe dla dzieci, po zakończeniu udzielania świadczeń zdrowotnych, o których mowa w ust. 1, kieruje pacjenta urazowego dziecięcego do innego oddziału szpitala, w którym znajduje się centrum urazowe dla dzieci, lub do przedsiębiorstwa innego podmiotu leczniczego w celu kontynuowania leczenia lub rehabilitacji.
+
+3. Zespół urazowy dziecięcy zaleca wskazania co do dalszego leczenia lub rehabilitacji pacjenta urazowego dziecięcego w oddziale szpitala lub w przedsiębiorstwie podmiotu leczniczego, o których mowa w ust. 2, właściwych ze względu na jego stan zdrowia. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** szczegółowe wymagania organizacyjne centrum urazowego dla dzieci, w zakresie minimalnego wyposażenia diagnostycznego oraz technicznego,
+- **2)** minimalne zasoby kadrowe zespołu urazowego dziecięcego,
+- **3)** kryteria kwalifikacji osoby do ukończenia 18. roku życia będącej w stanie nagłego zagrożenia zdrowotnego do leczenia w centrum urazowym dla dzieci,
+- **4)** sposób postępowania z pacjentem urazowym dziecięcym uwzględniając konieczność zapewnienia pacjentowi urazowemu dziecięcemu odpowiednich świadczeń opieki zdrowotnej. ” ;
+- **6)** art. 45 otrzymuje brzmienie: „
+
 **Art. 45.**
 
 1. W przypadku gdy u osoby w stanie nagłego zagrożenia zdrowotnego zostanie stwierdzony stan, który zgodnie ze standardami postępowania, o których mowa w art. 43, wymaga transportu z miejsca zdarzenia bezpośrednio do szpitala, w którym znajduje się centrum urazowe lub centrum urazowe dla dzieci, albo do jednostki organizacyjnej szpitala wyspecjalizowanej w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego, lub gdy tak zadecyduje kierownik zespołu ratownictwa medycznego, osobę w stanie nagłego zagrożenia zdrowotnego transportuje się bezpośrednio do szpitala, w którym znajduje się odpowiednie centrum albo jednostka organizacyjna szpitala wyspecjalizowana w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego, wskazanego przez dyspozytora medycznego lub lekarza koordynatora ratownictwa medycznego. W przypadku transportu poza obszar działania dyspozytorni medycznej, transport koordynuje lekarz koordynator ratownictwa medycznego.
@@ -117,4 +151,8 @@ source: "eli-html"
 **Art. 3.** W ustawie z dnia 14 czerwca 2012 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw (Dz. U. poz. 742 oraz z 2013 r. poz. 1290) w art. 11 ust. 1–3 otrzymują brzmienie: „ 1. Przepisy art. 17 ust. 1 pkt 4 lit. b, art. 25 ust. 1 pkt 2 i ust. 2 oraz art. 108 ust. 1 pkt 3 w zakresie dotyczącym art. 17 ust. 1 pkt 4 lit. b ustawy, o której mowa w art. 1, oraz art. 25 ust. 1a-1f ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się od dnia 1 stycznia 2017 r. 2. W okresie do dnia 31 grudnia 2016 r. podmiot leczniczy prowadzący szpital może zawrzeć umowę ubezpieczenia z tytułu zdarzeń medycznych określonych w przepisach o prawach pacjenta i Rzeczniku Praw Pacjenta. W takim przypadku przepis art. 25 ust. 3 ustawy, o której mowa w art. 1, stosuje się. 3. W przypadku określonym w ust. 1 obowiązek określony w art. 25 ust. 2 ustawy, o której mowa w art. 1, powstaje z dniem 1 stycznia 2017 r. ” .
 
 **Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1 pkt 2, który wchodzi w życie z dniem 1 stycznia 2016 r.;
+- **2)** art. 1 pkt 5 w zakresie dotyczącym art. 39f pkt 7, który wchodzi w życie z dniem 1 stycznia 2021 r.
+
 

@@ -8,12 +8,10 @@ pos: 933
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie niektórych ustaw celu ułatwienia dochodzenia wierzytelności
-
-*USTAWA z dnia 7 kwietnia 2017 r.*
+# Ustawa z dnia 7 kwietnia 2017 r. o zmianie niektórych ustaw w celu ułatwienia dochodzenia wierzytelności
 
 | Pole | Wartość |
 |---|---|
@@ -24,86 +22,144 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2017-04-07 |
 | Data wydania | 2017-05-12 |
+| Wejście w życie | 2017-06-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000933) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/933/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2017 r. poz. 459) art. 647 otrzymuje brzmienie: „Art. 647 . § 1. Inwestor odpowiada solidarnie z wykonawcą (generalnym wykonawcą) za zapłatę wynagrodzenia należnego podwykonawcy z tytułu wykonanych przez niego robót budowlanych, których szczegółowy przedmiot został zgłoszony inwestorowi przez wykonawcę lub podwykonawcę przed przystąpieniem do wykonywania tych robót, chyba że ciągu trzydziestu dni od dnia doręczenia inwestorowi zgłoszenia inwestor złożył podwykonawcy i wykonawcy sprzeciw wobec wykonywania tych robót przez podwykonawcę.
+**Art. 1.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2017 r. poz. 459) art. 6471otrzymuje brzmienie: „
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 6471.**
 
-**Art. 756⁴.**
+§ 1. Inwestor odpowiada solidarnie z wykonawcą (generalnym wykonawcą) za zapłatę wynagrodzenia należnego podwykonawcy z tytułu wykonanych przez niego robót budowlanych, których szczegółowy przedmiot został zgłoszony inwestorowi przez wykonawcę lub podwykonawcę przed przystąpieniem do wykonywania tych robót, chyba że w ciągu trzydziestu dni od dnia doręczenia inwestorowi zgłoszenia inwestor złożył podwykonawcy i wykonawcy sprzeciw wobec wykonywania tych robót przez podwykonawcę.
+
+§ 2. Zgłoszenie, o którym mowa w § 1, nie jest wymagane, jeżeli inwestor i wykonawca określili w umowie, zawartej w formie pisemnej pod rygorem nieważności, szczegółowy przedmiot robót budowlanych wykonywanych przez oznaczonego podwykonawcę.
+
+§ 3. Inwestor ponosi odpowiedzialność za zapłatę podwykonawcy wynagrodzenia w wysokości ustalonej w umowie między podwykonawcą a wykonawcą, chyba że ta wysokość przekracza wysokość wynagrodzenia należnego wykonawcy za roboty budowlane, których szczegółowy przedmiot wynika odpowiednio ze zgłoszenia albo z umowy, o których mowa w § 1 albo 2. W takim przypadku odpowiedzialność inwestora za zapłatę podwykonawcy wynagrodzenia jest ograniczona do wysokości wynagrodzenia należnego wykonawcy za roboty budowlane, których szczegółowy przedmiot wynika odpowiednio ze zgłoszenia albo z umowy, o których mowa w § 1 albo 2.
+
+§ 4. Zgłoszenie oraz sprzeciw, o których mowa w § 1, wymagają zachowania formy pisemnej pod rygorem nieważności.
+
+§ 5. Przepisy § 1–4 stosuje się odpowiednio do solidarnej odpowiedzialności inwestora, wykonawcy i podwykonawcy, który zawarł umowę z dalszym podwykonawcą, za zapłatę wynagrodzenia dalszemu podwykonawcy.
+
+§ 6. Postanowienia umowne sprzeczne z treścią § 1–5 są nieważne. ” .
+
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 5051pkt 1 otrzymuje brzmienie: „
+- **1)** o roszczenia wynikające z umów, jeżeli wartość przedmiotu sporu nie przekracza dwudziestu tysięcy złotych, a w sprawach o roszczenia wynikające z rękojmi, gwarancji jakości lub z niezgodności rzeczy sprzedanej konsumentowi z umową, jeżeli wartość przedmiotu umowy nie przekracza tej kwoty; ” ;
+- **2)** art. 7523otrzymuje brzmienie: „
+
+**Art. 7523.**
+
+§ 1. Postanowienie o udzieleniu zabezpieczenia ustanawiające zakaz zbywania spółdzielczego własnościowego prawa do lokalu stanowi podstawę wpisu w księdze wieczystej ostrzeżenia o zakazie zbywania tego prawa.
+
+§ 2. Sąd, który wydał postanowienie, o którym mowa w § 1, przekazuje to postanowienie sądowi dokonującemu wpisu ostrzeżenia w księdze wieczystej. Wpisu dokonuje się z urzędu.
+
+§ 3. Sąd, który dokonał wpisu ostrzeżenia w księdze wieczystej, doręcza postanowienie, o którym mowa w § 1, obowiązanemu i spółdzielni mieszkaniowej.
+
+§ 4. Spółdzielnia mieszkaniowa ponosi odpowiedzialność za szkodę spowodowaną czynnościami zmierzającymi do zbycia spółdzielczego własnościowego prawa do lokalu mimo ustanowionego zakazu. ” ;
+
+- **3)** po art. 7523dodaje się art. 7523a w brzmieniu: „
+
+§ 1. Czynność prawna obowiązanego dokonana wbrew zakazowi zbywania lub obciążania nieruchomości, która nie ma urządzonej księgi wieczystej lub której księga wieczysta zaginęła lub uległa zniszczeniu, jest nieważna.
+
+§ 2. Czynność prawna dokonana wbrew zakazowi zbywania spółdzielczego własnościowego prawa do lokalu jest nieważna, jeżeli dokonano wpisu w księdze wieczystej ostrzeżenia o zakazie zbywania tego prawa. ” ;
+
+- **4)** art. 7541otrzymuje brzmienie: „
+
+**Art. 7541.**
+
+§ 1. Jeżeli przepis szczególny nie stanowi inaczej albo jeżeli sąd inaczej nie postanowi, zabezpieczenie udzielone według przepisów niniejszego tytułu upada po upływie dwóch miesięcy od uprawomocnienia się orzeczenia uwzględniającego roszczenie, które podlegało zabezpieczeniu, albo od uprawomocnienia się postanowienia o odrzuceniu apelacji lub innego środka zaskarżenia wniesionego przez obowiązanego od orzeczenia uwzględniającego roszczenie, które podlegało zabezpieczeniu.
+
+§ 2. W sprawach, w których udzielono zabezpieczenia przy zastosowaniu art. 747 pkt 1 lub 6, zabezpieczenie upada, jeżeli uprawniony w terminie miesiąca od uprawomocnienia się orzeczenia uwzględniającego roszczenie albo od uprawomocnienia się postanowienia o odrzuceniu apelacji lub innego środka zaskarżenia wniesionego przez obowiązanego od orzeczenia uwzględniającego roszczenie, które podlegało zabezpieczeniu, nie wniósł o dokonanie dalszych czynności egzekucyjnych.
+
+§ 3. Na wniosek obowiązanego sąd wydaje postanowienie stwierdzające upadek zabezpieczenia w całości albo w części. ” ;
+
+- **5)** po art. 7562dodaje się art. 7563iart. 7564wbrzmieniu: „
+
+**Art. 7563.**
+
+§ 1. Postanowienie o udzieleniu zabezpieczenia ustanawiające zakaz zbywania lub obciążania nieruchomości albo spółdzielczego własnościowego prawa do lokalu stanowi podstawę wpisu w księdze wieczystej ostrzeżenia o zakazie zbywania lub obciążania tych praw.
+
+§ 2. Sąd, który wydał postanowienie, o którym mowa w § 1, przekazuje to postanowienie sądowi dokonującemu wpisu ostrzeżenia w księdze wieczystej. Wpisu dokonuje się z urzędu.
+
+§ 3. Sąd, który dokonał wpisu ostrzeżenia w księdze wieczystej, doręcza postanowienie, o którym mowa w § 1, obowiązanemu. Postanowienie, o którym mowa w § 1, dotyczące spółdzielczego własnościowego prawa do lokalu doręcza się także spółdzielni mieszkaniowej.
+
+§ 4. Spółdzielnia mieszkaniowa ponosi odpowiedzialność za szkodę spowodowaną czynnościami zmierzającymi do zbycia spółdzielczego własnościowego prawa do lokalu mimo ustanowionego zakazu.
+
+**Art. 7564.**
 
 § 1. Czynność prawna dokonana wbrew zakazowi zbywania lub obciążania nieruchomości, która nie ma urządzonej księgi wieczystej lub której księga wieczysta zaginęła lub uległa zniszczeniu, jest nieważna.
 
-§ 2. Czynność prawna dokonana wbrew zakazowi zbywania lub obciążania nieruchomości, która ma urządzoną księgę wieczystą, albo spółdzielczego własnościowego prawa do lokalu jest nieważna, jeżeli dokonano wpisu księdze wieczystej ostrzeżenia o zakazie zbywania lub obciążania tych praw.”;
+§ 2. Czynność prawna dokonana wbrew zakazowi zbywania lub obciążania nieruchomości, która ma urządzoną księgę wieczystą, albo spółdzielczego własnościowego prawa do lokalu jest nieważna, jeżeli dokonano wpisu w księdze wieczystej ostrzeżenia o zakazie zbywania lub obciążania tych praw. ” ;
 
-- **6)** art. 757 otrzymuje brzmienie: „Art. 757. Jeżeli przepis szczególny nie stanowi inaczej albo sąd inaczej nie postanowi, zabezpieczenie udzielone według przepisów niniejszego tytułu upada po upływie dwóch miesięcy od uprawomocnienia się orzeczenia uwzględniającego roszczenie, które podlegało zabezpieczeniu, albo od uprawomocnienia się postanowienia o odrzuceniu apelacji lub innego środka zaskarżenia wniesionego przez obowiązanego od orzeczenia uwzględniającego roszczenie, które podlegało zabezpieczeniu. Na wniosek obowiązanego sąd wydaje postanowienie stwierdzające upadek zabezpieczenia całości albo części.”;
-- **7)** art. 913 § 1 otrzymuje brzmienie: „§ 1. Jeżeli zajęty egzekucji majątek dłużnika nie rokuje zaspokojenia egzekwowanych należności lub jeżeli wierzyciel wykaże, że na skutek prowadzonej egzekucji nie uzyskał pełni zaspokojenia swej należności, może on żądać zobowiązania dłużnika do złożenia wykazu majątku z wymienieniem rzeczy i miejsca, gdzie się znajdują, przypadających mu wierzytelności i innych praw majątkowych lub informacji o odpłatnych i nieodpłatnych czynnościach prawnych, których przedmiotem jest rzecz lub prawo o wartości przekraczającej dniu dokonania tych czynności wysokość minimalnego wynagrodzenia za pracę ustalonego na podstawie przepisów ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2017 r. poz. 847), dokonanych na rzecz osób trzecich, pięcioletnim okresie poprzedzającym wszczęcie egzekucji, wyniku których stał się niewypłacalny albo stał się niewypłacalny wyższym stopniu niż był przed dokonaniem czynności, oraz do złożenia przyrzeczenia według roty: „Świadomy znaczenia mych słów i odpowiedzialności przed prawem zapewniam, że złożony przeze mnie wykaz majątku jest prawdziwy i zupełny.”.”.
+- **6)** art. 757 otrzymuje brzmienie: „
 
-**Art. 3.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym administracji (Dz. U. z 2016 r. poz. 599, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 757.** Jeżeli przepis szczególny nie stanowi inaczej albo sąd inaczej nie postanowi, zabezpieczenie udzielone według przepisów niniejszego tytułu upada po upływie dwóch miesięcy od uprawomocnienia się orzeczenia uwzględniającego roszczenie, które podlegało zabezpieczeniu, albo od uprawomocnienia się postanowienia o odrzuceniu apelacji lub innego środka zaskarżenia wniesionego przez obowiązanego od orzeczenia uwzględniającego roszczenie, które podlegało zabezpieczeniu. Na wniosek obowiązanego sąd wydaje postanowienie stwierdzające upadek zabezpieczenia w całości albo w części. ” ;
+
+- **7)** w art. 913 § 1 otrzymuje brzmienie: „
+
+§ 1. Jeżeli zajęty w egzekucji majątek dłużnika nie rokuje zaspokojenia egzekwowanych należności lub jeżeli wierzyciel wykaże, że na skutek prowadzonej egzekucji nie uzyskał w pełni zaspokojenia swej należności, może on żądać zobowiązania dłużnika do złożenia wykazu majątku z wymienieniem rzeczy i miejsca, gdzie się znajdują, przypadających mu wierzytelności i innych praw majątkowych lub informacji o odpłatnych i nieodpłatnych czynnościach prawnych, których przedmiotem jest rzecz lub prawo o wartości przekraczającej w dniu dokonania tych czynności wysokość minimalnego wynagrodzenia za pracę ustalonego na podstawie przepisów ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2017 r. poz. 847), dokonanych na rzecz osób trzecich, w pięcioletnim okresie poprzedzającym wszczęcie egzekucji, w wyniku których stał się niewypłacalny albo stał się niewypłacalny w wyższym stopniu niż był przed dokonaniem czynności, oraz do złożenia przyrzeczenia według roty: „Świadomy znaczenia mych słów i odpowiedzialności przed prawem zapewniam, że złożony przeze mnie wykaz majątku jest prawdziwy i zupełny.”. ” .
+
+**Art. 3.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2016 r. poz. 599, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 dodaje się pkt 4 w brzmieniu: „
+- **4)** zasady i sposób prowadzenia Rejestru Należności Publicznoprawnych oraz udostępniania danych z tego rejestru. ” ;
+- **2)** w dziale I po rozdziale 1 dodaje się rozdział 1a w brzmieniu: „
+
+#### Rozdział 1a Rejestr Należności Publicznoprawnych
 
 **Art. 18a.**
 
-§ 1. Rejestr Należności Publicznoprawnych, zwany dalej „rejestrem”, jest prowadzony systemie teleinformatycznym przez Szefa Krajowej Administracji Skarbowej.
+§ 1. Rejestr Należności Publicznoprawnych, zwany dalej „rejestrem”, jest prowadzony w systemie teleinformatycznym przez Szefa Krajowej Administracji Skarbowej.
 
-§ 2. Minister właściwy do spraw finansów publicznych może wyznaczyć, drodze rozporządzenia, inny organ Krajowej Administracji Skarbowej do prowadzenia rejestru, mając na względzie konieczność zapewnienia sprawnego funkcjonowania tego rejestru oraz sprawność procesów wymiany informacji.
+§ 2. Minister właściwy do spraw finansów publicznych może wyznaczyć, w drodze rozporządzenia, inny organ Krajowej Administracji Skarbowej do prowadzenia rejestru, mając na względzie konieczność zapewnienia sprawnego funkcjonowania tego rejestru oraz sprawność procesów wymiany informacji.
 
-§ 3. Administratorem danych zgromadzonych rejestrze jest organ prowadzący rejestr.
-
-**Art. 18b.**
+§ 3. Administratorem danych zgromadzonych w rejestrze jest organ prowadzący rejestr.
 
 § 1. W rejestrze gromadzi się informacje o należnościach pieniężnych, podlegających egzekucji administracyjnej, dla których wierzycielem jest naczelnik urzędu skarbowego albo jednostka samorządu terytorialnego, jeżeli należności te wynikają:
 
-- **1)** z dokumentu, o którym mowa art. 3a § 1;
+- **1)** z dokumentu, o którym mowa w art. 3a § 1;
 - **2)** z decyzji, postanowienia lub innego orzeczenia, które jest ostateczne;
 - **3)** z prawomocnego wyroku, postanowienia lub mandatu karnego wydanego na podstawie przepisów Kodeksu karnego skarbowego lub Kodeksu karnego;
-- **4)** z mandatu karnego wydanego postępowaniu sprawach o wykroczenia;
+- **4)** z mandatu karnego wydanego w postępowaniu w sprawach o wykroczenia;
 - **5)** bezpośrednio z przepisu prawa.
 
 § 2. Rejestr zawiera dane dotyczące:
 
-- **1)** zobowiązanego będącego:
-    - **a)** osobą fizyczną, obejmujące: – imię i nazwisko, – numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL), jeżeli został nadany, – datę urodzenia, jeżeli nie został nadany numer PESEL,
-    - **b)** osobą fizyczną prowadzącą działalność gospodarczą, obejmujące: – imię i nazwisko, – firmę, – numer PESEL, jeżeli został nadany, numer identyfikacji podatkowej (NIP) lub numer identyfikacji Krajowym Rejestrze Urzędowym Podmiotów Gospodarki Narodowej (REGON),
-    - **c)** osobą prawną lub jednostką organizacyjną niebędącą osobą prawną, obejmujące: – firmę lub nazwę, – NIP lub numer REGON,
-    - **d)** nierezydentem rozumieniu przepisów Prawa dewizowego będącym osobą fizyczną, obejmujące: – imię i nazwisko, – NIP albo kraj wydania i numer paszportu lub numer identyfikacyjny nadany innym kraju, szczególności numer podatkowy lub numer ubezpieczeniowy, jeżeli nierezydent nie posiada identyfikatora podatkowego, – datę urodzenia, jeżeli nierezydent nie posiada NIP, paszportu lub numeru identyfikacyjnego nadanego innym kraju,
-    - **e)** nierezydentem rozumieniu przepisów Prawa dewizowego będącym osobą fizyczną prowadzącą działalność gospodarczą, obejmujące: – imię i nazwisko, firmę lub nazwę, – NIP albo kraj wydania i numer paszportu lub numer identyfikacyjny nadany innym kraju, szczególności numer podatkowy lub numer ubezpieczeniowy, jeżeli nierezydent nie posiada numeru identyfikatora podatkowego, – datę urodzenia albo adres miejsca prowadzenia działalności gospodarczej, tym adres głównego miejsca prowadzenia działalności gospodarczej, jeżeli nierezydent nie posiada NIP, paszportu lub numeru identyfikacyjnego nadanego innym kraju,
-    - **f)** nierezydentem rozumieniu przepisów Prawa dewizowego będącym osobą prawną lub jednostką organizacyjną niebędącą osobą prawną, obejmujące: – firmę lub nazwę, – NIP albo numer identyfikacyjny nadany innym kraju, szczególności numer podatkowy, jeżeli nierezydent nie posiada numeru identyfikatora podatkowego, – adres siedziby, jeżeli nierezydent nie posiada NIP lub numeru identyfikacyjnego nadanego innym kraju;
+- **1)** zobowiązanego będącego: osobą fizyczną, obejmujące: – imię i nazwisko, – numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL), jeżeli został nadany, – datę urodzenia, jeżeli nie został nadany numer PESEL, osobą fizyczną prowadzącą działalność gospodarczą, obejmujące: – imię i nazwisko, – firmę, – numer PESEL, jeżeli został nadany, numer identyfikacji podatkowej (NIP) lub numer identyfikacji w Krajowym Rejestrze Urzędowym Podmiotów Gospodarki Narodowej (REGON), osobą prawną lub jednostką organizacyjną niebędącą osobą prawną, obejmujące: – firmę lub nazwę, – NIP lub numer REGON, nierezydentem w rozumieniu przepisów Prawa dewizowego będącym osobą fizyczną, obejmujące: – imię i nazwisko, – NIP albo kraj wydania i numer paszportu lub numer identyfikacyjny nadany w innym kraju, w szczególności numer podatkowy lub numer ubezpieczeniowy, jeżeli nierezydent nie posiada identyfikatora podatkowego, – datę urodzenia, jeżeli nierezydent nie posiada NIP, paszportu lub numeru identyfikacyjnego nadanego w innym kraju, nierezydentem w rozumieniu przepisów Prawa dewizowego będącym osobą fizyczną prowadzącą działalność gospodarczą, obejmujące: – imię i nazwisko, firmę lub nazwę, – NIP albo kraj wydania i numer paszportu lub numer identyfikacyjny nadany w innym kraju, w szczególności numer podatkowy lub numer ubezpieczeniowy, jeżeli nierezydent nie posiada numeru identyfikatora podatkowego, – datę urodzenia albo adres miejsca prowadzenia działalności gospodarczej, w tym adres głównego miejsca prowadzenia działalności gospodarczej, jeżeli nierezydent nie posiada NIP, paszportu lub numeru identyfikacyjnego nadanego w innym kraju, nierezydentem w rozumieniu przepisów Prawa dewizowego będącym osobą prawną lub jednostką organizacyjną niebędącą osobą prawną, obejmujące: – firmę lub nazwę, – NIP albo numer identyfikacyjny nadany w innym kraju, w szczególności numer podatkowy, jeżeli nierezydent nie posiada numeru identyfikatora podatkowego, – adres siedziby, jeżeli nierezydent nie posiada NIP lub numeru identyfikacyjnego nadanego w innym kraju;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
 
 - **2)** oznaczenia wierzyciela;
-- **3)** wysokości należności pieniężnej i odsetek z tytułu niezapłacenia jej terminie, jeżeli pobiera się odsetki, wraz z rodzajem i podstawą prawną tej należności;
-- **4)** informacji określonych art. 18f § 1 i 2.
+- **3)** wysokości należności pieniężnej i odsetek z tytułu niezapłacenia jej w terminie, jeżeli pobiera się odsetki, wraz z rodzajem i podstawą prawną tej należności;
+- **4)** informacji określonych w art. 18f § 1 i 2.
 
-**Art. 18c.**
+§ 1. Przed wprowadzeniem do rejestru danych, o których mowa w art. 18b § 2, wierzyciel doręcza zobowiązanemu zawiadomienie o zagrożeniu ujawnieniem w rejestrze.
 
-§ 1. Przed wprowadzeniem do rejestru danych, o których mowa art. 18b § 2, wierzyciel doręcza zobowiązanemu zawiadomienie o zagrożeniu ujawnieniem rejestrze.
+§ 2. Zawiadomienie, o którym mowa w § 1, może być doręczone wraz z upomnieniem, o którym mowa w art. 15 § 1.
 
-§ 2. Zawiadomienie, o którym mowa § 1, może być doręczone wraz z upomnieniem, o którym mowa art. 15 § 1.
+§ 3. Dane, o których mowa w art. 18b § 2, mogą być wprowadzone do rejestru nie wcześniej niż po upływie 30 dni od dnia doręczenia zobowiązanemu zawiadomienia, o którym mowa w § 1.
 
-§ 3. Dane, o których mowa art. 18b § 2, mogą być wprowadzone do rejestru nie wcześniej niż po upływie 30 dni od dnia doręczenia zobowiązanemu zawiadomienia, o którym mowa § 1.
+§ 4. Przepisy § 1–3 nie mają zastosowania, jeżeli wysokość należności pieniężnej, o której dane mają być wprowadzone do rejestru, wraz z odsetkami z tytułu niezapłacenia jej w terminie jest niższa niż czterokrotna wysokość kosztów upomnienia, o którym mowa w art. 15 § 1.
 
-§ 4. Przepisy § 1–3 nie mają zastosowania, jeżeli wysokość należności pieniężnej, o której dane mają być wprowadzone do rejestru, wraz z odsetkami z tytułu niezapłacenia jej terminie jest niższa niż czterokrotna wysokość kosztów upomnienia, o którym mowa art. 15 § 1.
+§ 1. Wierzyciel wprowadza do systemu teleinformatycznego, w którym jest prowadzony rejestr, dane, o których mowa w art. 18b § 2.
 
-**Art. 18d.**
+§ 2. Nie wprowadza się do rejestru danych, o których mowa w art. 18b § 2, w przypadku wniesienia skargi do sądu administracyjnego na ostateczną decyzję, postanowienie lub inne orzeczenie, o którym mowa w art. 18b § 1 pkt 2, do czasu zakończenia prawomocnym orzeczeniem postępowania sądowoadministracyjnego.
 
-§ 1. Wierzyciel wprowadza do systemu teleinformatycznego, którym jest prowadzony rejestr, dane, o których mowa art. 18b § 2.
+§ 3. Wszczęcie postępowania w trybie nadzwyczajnym w sprawie ostatecznej decyzji, postanowienia lub innego orzeczenia, o którym mowa w art. 18b § 1 pkt 2, nie stanowi przeszkody do wprowadzenia do rejestru danych, o których mowa w art. 18b § 2.
 
-§ 2. Nie wprowadza się do rejestru danych, o których mowa art. 18b § 2, przypadku wniesienia skargi do sądu administracyjnego na ostateczną decyzję, postanowienie lub inne orzeczenie, o którym mowa art. 18b § 1 pkt 2, do czasu zakończenia prawomocnym orzeczeniem postępowania sądowoadministracyjnego.
+§ 4. Jednostka samorządu terytorialnego, reprezentowana przez organ wykonawczy, wprowadza do rejestru dane, o których mowa w art. 18b § 2, jeżeli posiada na to zgodę wyrażoną w uchwale, odpowiednio rady gminy, rady powiatu albo sejmiku województwa. Uchwała określa rodzaj należności pieniężnej jednostki samorządu terytorialnego, o której dane są przekazywane do rejestru.
 
-§ 3. Wszczęcie postępowania trybie nadzwyczajnym sprawie ostatecznej decyzji, postanowienia lub innego orzeczenia, o którym mowa art. 18b § 1 pkt 2, nie stanowi przeszkody do wprowadzenia do rejestru danych, o których mowa art. 18b § 2.
+§ 5. Wierzyciel wprowadza do rejestru, zmienia w rejestrze lub wykreśla z rejestru dane, o których mowa w art. 18b § 2, za pośrednictwem funkcjonalności systemu teleinformatycznego, w którym prowadzony jest rejestr, dostępnej na stronie podmiotowej urzędu obsługującego organ prowadzący rejestr, z zastrzeżeniem art. 18l.
 
-§ 4. Jednostka samorządu terytorialnego, reprezentowana przez organ wykonawczy, wprowadza do rejestru dane, o których mowa art. 18b § 2, jeżeli posiada na to zgodę wyrażoną uchwale, odpowiednio rady gminy, rady powiatu albo sejmiku województwa. Uchwała określa rodzaj należności pieniężnej jednostki samorządu terytorialnego, o której dane są przekazywane do rejestru.
+§ 6. W przypadku stwierdzenia niezgodności danych, o których mowa w art. 18b § 2 pkt 1, wprowadzonych do rejestru z danymi zawartymi w rejestrze PESEL, Centralnej Ewidencji i Informacji o Działalności Gospodarczej lub rejestrze przedsiębiorców lub rejestrze stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz samodzielnych publicznych zakładów opieki zdrowotnej w Krajowym Rejestrze Sądowym, organ prowadzący rejestr:
 
-§ 5. Wierzyciel wprowadza do rejestru, zmienia rejestrze lub wykreśla z rejestru dane, o których mowa art. 18b § 2, za pośrednictwem funkcjonalności systemu teleinformatycznego, którym prowadzony jest rejestr, dostępnej na stronie podmiotowej urzędu obsługującego organ prowadzący rejestr, z zastrzeżeniem art. 18l.
-
-§ 6. W przypadku stwierdzenia niezgodności danych, o których mowa art. 18b § 2 pkt 1, wprowadzonych do rejestru z danymi zawartymi rejestrze PESEL, Centralnej Ewidencji i Informacji o Działalności Gospodarczej lub rejestrze przedsiębiorców lub rejestrze stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz samodzielnych publicznych zakładów opieki zdrowotnej Krajowym Rejestrze Sądowym, organ prowadzący rejestr:
-
-- **1)** nie ujawnia danych, o których mowa art. 18b § 2, oraz
-- **2)** powiadamia wierzyciela, który wprowadził dane do rejestru, o niezgodności tych danych.
-
-**Art. 18e.** Organ prowadzący rejestr ujawnia rejestrze dane, o których mowa art. 18b § 2, gdy łączna kwota należności pieniężnych wraz odsetkami z tytułu niezapłacenia ich terminie wynosi nie mniej niż 5000 zł.
-
-**Art. 18f.**
+- **1)** nie ujawnia danych, o których mowa w art. 18b § 2, oraz
+- **2)** powiadamia wierzyciela, który wprowadził dane do rejestru, o niezgodności tych danych. Organ prowadzący rejestr ujawnia w rejestrze dane, o których mowa w art. 18b § 2, gdy łączna kwota należności pieniężnych wraz odsetkami z tytułu niezapłacenia ich w terminie wynosi nie mniej niż 5000 zł.
 
 § 1. Wierzyciel wprowadza do rejestru znane mu informacje dotyczące:
 
@@ -111,171 +167,512 @@ source: "isap-pdf"
 - **2)** rozłożenia na raty spłaty należności pieniężnej;
 - **3)** wszczęcia postępowania upadłościowego;
 - **4)** wszczęcia postępowania restrukturyzacyjnego;
-- **5)** wstrzymania wykonania ostatecznej decyzji, postanowienia lub innego orzeczenia, o którym mowa art. 18b § 1 pkt 2;
-- **6)** wszczęcia postępowania administracyjnego, postępowania podatkowego albo postępowania sądowoadministracyjnego, jeżeli wszczęcie nastąpiło po ujawnieniu danych, o których mowa art. 18b § 2;
-- **7)** wszczęcia postępowania trybie nadzwyczajnym sprawie ostatecznej decyzji, postanowienia lub innego orzeczenia, o których mowa art. 18b § 1 pkt 2;
-- **8)** wniesienia sprzeciwu, o którym mowa art. 18i;
-- **9)** umorzenia postępowania egzekucyjnego na podstawie art. 59 § 2, przypadku gdy nie upłynęło 5 lat od dnia, którym postanowienie o umorzeniu tego postępowania stało się ostateczne;
+- **5)** wstrzymania wykonania ostatecznej decyzji, postanowienia lub innego orzeczenia, o którym mowa w art. 18b § 1 pkt 2;
+- **6)** wszczęcia postępowania administracyjnego, postępowania podatkowego albo postępowania sądowoadministracyjnego, jeżeli wszczęcie nastąpiło po ujawnieniu danych, o których mowa w art. 18b § 2;
+- **7)** wszczęcia postępowania w trybie nadzwyczajnym w sprawie ostatecznej decyzji, postanowienia lub innego orzeczenia, o których mowa w art. 18b § 1 pkt 2;
+- **8)** wniesienia sprzeciwu, o którym mowa w art. 18i;
+- **9)** umorzenia postępowania egzekucyjnego na podstawie art. 59 § 2, w przypadku gdy nie upłynęło 5 lat od dnia, w którym postanowienie o umorzeniu tego postępowania stało się ostateczne;
 - **10)** śmierci lub ustania bytu prawnego zobowiązanego.
 
-§ 2. Wierzyciel wprowadza do rejestru znane mu informacje dotyczące ustania okoliczności, o których mowa § 1 pkt 1–9.
+§ 2. Wierzyciel wprowadza do rejestru znane mu informacje dotyczące ustania okoliczności, o których mowa w § 1 pkt 1–9.
 
-§ 3. Informacje, o których mowa § 1 i 2, wprowadzone do rejestru, podlegają ujawnieniu rejestrze, przypadku, o którym mowa art. 18e.
+§ 3. Informacje, o których mowa w § 1 i 2, wprowadzone do rejestru, podlegają ujawnieniu w rejestrze, w przypadku, o którym mowa w art. 18e. Wierzyciel wprowadza do rejestru zmianę lub wykreśla z rejestru dane, o których mowa w art. 18b § 2, niezwłocznie, nie później niż w terminie 7 dni od dnia powzięcia przez niego wiadomości o okoliczności uzasadniającej zmianę lub wykreślenie tych danych. Wykreślenie z rejestru danych, o których mowa w art. 18b § 2, następuje w przypadku, gdy:
 
-**Art. 18g.** Wierzyciel wprowadza do rejestru zmianę lub wykreśla z rejestru dane, o których mowa art. 18b § 2, niezwłocznie, nie później niż terminie 7 dni od dnia powzięcia przez niego wiadomości o okoliczności uzasadniającej zmianę lub wykreślenie tych danych.
+- **1)** obowiązek zapłaty należności pieniężnej wygaśnie;
+- **2)** wierzycielem nie jest podmiot, o którym mowa we wprowadzeniu do wyliczenia w art. 18b § 1, lub nie są spełnione warunki określone w art. 18b § 1, art. 18c § 1 lub 3 lub art. 18d § 4;
+- **3)** utraci wykonalność wyrok, postanowienie albo mandat, z którego wynika należność pieniężna ujawniona w rejestrze;
+- **4)** zostanie ustalony następca prawny zobowiązanego, w przypadku, o którym mowa w art. 18f § 1 pkt 10;
+- **5)** sprzeciw, o którym mowa w art. 18i, zostanie uwzględniony w całości.
 
-**Art. 18h.** Wykreślenie z rejestru danych, o których mowa art. 18b § 2, następuje przypadku, gdy:
+§ 1. Zobowiązanemu przysługuje prawo wniesienia sprzeciwu w sprawie:
 
-**Art. 18i.**
-
-§ 1. Zobowiązanemu przysługuje prawo wniesienia sprzeciwu sprawie:
-
-- **1)** zagrożenia ujawnieniem rejestrze;
-- **2)** wprowadzenia danych, o których mowa art. 18b § 2, do systemu teleinformatycznego, którym jest prowadzony rejestr.
+- **1)** zagrożenia ujawnieniem w rejestrze;
+- **2)** wprowadzenia danych, o których mowa w art. 18b § 2, do systemu teleinformatycznego, w którym jest prowadzony rejestr.
 
 § 2. Sprzeciw wnosi się do wierzyciela.
 
-§ 3. Prawo wniesienia sprzeciwu przysługuje od dnia doręczenia zawiadomienia, o którym mowa art. 18c § 1, albo od dnia wprowadzenia do rejestru danych, o których mowa art. 18b § 2, bez tego zawiadomienia i trwa do dnia, do którego te dane znajdują się rejestrze.
+§ 3. Prawo wniesienia sprzeciwu przysługuje od dnia doręczenia zawiadomienia, o którym mowa w art. 18c § 1, albo od dnia wprowadzenia do rejestru danych, o których mowa w art. 18b § 2, bez tego zawiadomienia i trwa do dnia, do którego te dane znajdują się w rejestrze.
 
-§ 4. W sprzeciwie określa się żądanie oraz wskazuje się okoliczności i dowody uzasadniające sprzeciw.
+§ 4. W sprzeciwie określa się żądanie oraz wskazuje się okoliczności i dowody uzasadniające sprzeciw. § 5. Prawo wniesienia sprzeciwu, o którym mowa w § 1 pkt 1, przysługuje wyłącznie w przypadku, gdy zobowiązany kwestionuje istnienie lub wysokość należności pieniężnej lub odsetek z tytułu niezapłacenia jej w terminie.
 
-§ 5. Prawo wniesienia sprzeciwu, o którym mowa § 1 pkt 1, przysługuje wyłącznie przypadku, gdy zobowiązany kwestionuje istnienie lub wysokość należności pieniężnej lub odsetek z tytułu niezapłacenia jej terminie.
+§ 6. Postępowanie w sprawie sprzeciwu staje się bezprzedmiotowe w przypadku wykreślenia z rejestru danych, o których mowa w art. 18b § 2, których ten sprzeciw dotyczy.
 
-§ 6. Postępowanie sprawie sprzeciwu staje się bezprzedmiotowe przypadku wykreślenia z rejestru danych, o których mowa art. 18b § 2, których ten sprzeciw dotyczy.
+§ 7. Jeżeli okoliczność, na której oparto sprzeciw, jest lub była przedmiotem rozpatrzenia w odrębnym postępowaniu administracyjnym, podatkowym lub sądowym albo zobowiązany kwestionuje w całości lub w części wymagalność należności pieniężnej z uwagi na jej wysokość ustaloną lub określoną w decyzji, postanowieniu lub innym orzeczeniu, od którego przysługują środki zaskarżenia, wierzyciel wydaje postanowienie o niedopuszczalności zgłoszonego sprzeciwu.
 
-§ 7. Jeżeli okoliczność, na której oparto sprzeciw, jest lub była przedmiotem rozpatrzenia odrębnym postępowaniu administracyjnym, podatkowym lub sądowym albo zobowiązany kwestionuje całości lub części wymagalność należności pieniężnej z uwagi na jej wysokość ustaloną lub określoną decyzji, postanowieniu lub innym orzeczeniu, od którego przysługują środki zaskarżenia, wierzyciel wydaje postanowienie o niedopuszczalności zgłoszonego sprzeciwu.
+§ 8. Jeżeli sprzeciw wniesiony jednocześnie z zarzutami, o których mowa w art. 33 § 1, oparto na okoliczności będącej przedmiotem tych zarzutów, postępowanie wszczęte sprzeciwem staje się bezprzedmiotowe.
 
-§ 8. Jeżeli sprzeciw wniesiony jednocześnie z zarzutami, o których mowa art. 33 § 1, oparto na okoliczności będącej przedmiotem tych zarzutów, postępowanie wszczęte sprzeciwem staje się bezprzedmiotowe.
+§ 9. Wniesienie sprzeciwu nie stanowi podstawy do wykreślenia z rejestru danych, o których mowa w art. 18b § 2.
 
-§ 9. Wniesienie sprzeciwu nie stanowi podstawy do wykreślenia z rejestru danych, o których mowa art. 18b § 2.
-
-§ 10. W przypadku uwzględnienia sprzeciwu wierzyciel wprowadza do rejestru zmianę albo wykreśla z rejestru dane, o których mowa art. 18b § 2, odpowiednim zakresie.
+§ 10. W przypadku uwzględnienia sprzeciwu wierzyciel wprowadza do rejestru zmianę albo wykreśla z rejestru dane, o których mowa w art. 18b § 2, w odpowiednim zakresie.
 
 § 11. Wniesienie sprzeciwu nie stanowi przeszkody do wszczęcia lub prowadzenia egzekucji administracyjnej należności pieniężnej, o której dane są wprowadzone do rejestru.
 
-§ 12. Postępowanie sprawie sprzeciwu nie wyłącza odpowiedzialności za naruszenie obowiązków wynikających z przepisów ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2016 r. poz. 922).
+§ 12. Postępowanie w sprawie sprzeciwu nie wyłącza odpowiedzialności za naruszenie obowiązków wynikających z przepisów ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2016 r. poz. 922).
 
 § 13. Na postanowienie wierzyciela o odmowie uwzględnienia sprzeciwu przysługuje zażalenie. Zażalenie wnosi się do organu odwoławczego za pośrednictwem wierzyciela, który wydał zaskarżone postanowienie.
 
-§ 14. Od postanowienia przedmiocie rozpoznania zażalenia, o którym mowa § 13, przysługuje skarga do wojewódzkiego sądu administracyjnego.
+§ 14. Od postanowienia w przedmiocie rozpoznania zażalenia, o którym mowa w § 13, przysługuje skarga do wojewódzkiego sądu administracyjnego.
 
-**Art. 18j.**
+§ 1. Podmiotowi zainteresowanemu lub podmiotowi, o którym mowa w art. 18q § 2, udostępnia się z rejestru dane, o których mowa w art. 18b § 2, z zastrzeżeniem § 2 i 3.
 
-§ 1. Podmiotowi zainteresowanemu lub podmiotowi, o którym mowa art. 18q § 2, udostępnia się z rejestru dane, o których mowa art. 18b § 2, z zastrzeżeniem § 2 i 3.
+§ 2. Dane, o których mowa w art. 18b § 2 pkt 1 lit. a tiret drugie i trzecie, lit. b tiret trzecie, lit. d tiret drugie i trzecie, lit. e tiret drugie i trzecie oraz lit. f tiret drugie i trzecie, udostępnia się podmiotowi zainteresowanemu lub podmiotowi, o którym mowa w art. 18q § 2, wyłącznie w przypadku, w którym stanowią one przyjęte kryterium wyszukania zobowiązanego.
 
-§ 2. Dane, o których mowa art. 18b § 2 pkt 1 lit. a tiret drugie i trzecie, lit. b tiret trzecie, lit. d tiret drugie i trzecie, lit. e tiret drugie i trzecie oraz lit. f tiret drugie i trzecie, udostępnia się podmiotowi zainteresowanemu lub podmiotowi, o którym mowa art. 18q § 2, wyłącznie przypadku, którym stanowią one przyjęte kryterium wyszukania zobowiązanego.
+§ 3. Dane, o których mowa w art. 18b § 2 pkt 3, są udostępniane podmiotowi zainteresowanemu lub podmiotowi, o którym mowa w art. 18q § 2, w postaci łącznej kwoty należności pieniężnych wraz z odsetkami z tytułu niezapłacenia ich w terminie.
 
-§ 3. Dane, o których mowa art. 18b § 2 pkt 3, są udostępniane podmiotowi zainteresowanemu lub podmiotowi, o którym mowa art. 18q § 2, postaci łącznej kwoty należności pieniężnych wraz z odsetkami z tytułu niezapłacenia ich terminie.
+§ 1. Dane, o których mowa w art. 18b § 2, udostępnia się zobowiązanemu lub podmiotowi zainteresowanemu, po jego uwierzytelnieniu, w sposób, o którym mowa w art. 3f § I ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, za pośrednictwem portalu podatkowego, o którym mowa w art. 3 pkt 14 tej ustawy.
 
-**Art. 18k.**
+§ 2. Dane, o których mowa w art. 18b § 2, udostępniane zobowiązanemu obejmują również wysokość należności pieniężnej wraz z odsetkami z tytułu niezapłacenia jej w terminie, rodzaj i podstawę prawną należności pieniężnej oraz oznaczenie wierzyciela, który wprowadził do rejestru dane o tej należności.
 
-§ 1. Dane, o których mowa art. 18b § 2, udostępnia się zobowiązanemu lub podmiotowi zainteresowanemu, po jego uwierzytelnieniu, sposób, o którym mowa art. 3f § l ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, za pośrednictwem portalu podatkowego, o którym mowa art. 3 pkt 14 tej ustawy.
+§ 3. Dane, o których mowa w art. 18b § 2, udostępnia się podmiotowi, o którym mowa w art. 18q § 2, za pośrednictwem funkcjonalności systemu teleinformatycznego udostępnionej na stronie podmiotowej urzędu obsługującego organ prowadzący rejestr. Wierzycielowi lub podmiotowi, o którym mowa w art. 18q § 2, będącemu organem Krajowej Administracji Skarbowej, w zakresie niezbędnym do wykonywania zadań i uprawnień określonych w niniejszym rozdziale, zapewnia się dostęp do systemu teleinformatycznego, w którym prowadzony jest rejestr, za pośrednictwem systemu teleinformatycznego, o którym mowa w art. 35 ust. I ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.). Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, sposób i tryb korzystania z rejestru przez zobowiązanego, podmiot zainteresowany oraz podmiot, o którym mowa w art. 18q § 2, w tym uzyskania z rejestru danych, o których mowa w art. 18b § 2, oraz tryb i sposób wprowadzania danych do rejestru, a także formaty danych wymagane przy wprowadzaniu danych, mając na względzie potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w rejestrze, konieczność zapewnienia ochrony tych danych przed nieuprawnionym dostępem oraz umożliwienie sprawnego korzystania z rejestru.
 
-§ 2. Dane, o których mowa art. 18b § 2, udostępniane zobowiązanemu obejmują również wysokość należności pieniężnej wraz z odsetkami z tytułu niezapłacenia jej terminie, rodzaj i podstawę prawną należności pieniężnej oraz oznaczenie wierzyciela, który wprowadził do rejestru dane o tej należności.
-
-§ 3. Dane, o których mowa art. 18b § 2, udostępnia się podmiotowi, o którym mowa art. 18q § 2, za pośrednictwem funkcjonalności systemu teleinformatycznego udostępnionej na stronie podmiotowej urzędu obsługującego organ prowadzący rejestr.
-
-**Art. 18l.** Wierzycielowi lub podmiotowi, o którym mowa art. 18q § 2, będącemu organem Krajowej Administracji Skarbowej, zakresie niezbędnym do wykonywania zadań i uprawnień określonych niniejszym rozdziale, zapewnia się dostęp do systemu teleinformatycznego, którym prowadzony jest rejestr, za pośrednictwem systemu teleinformatycznego, o którym mowa art. 35 ust. l ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm. ).
-
-**Art. 18m.** Minister właściwy do spraw finansów publicznych porozumieniu z ministrem właściwym do spraw informatyzacji określi, drodze rozporządzenia, sposób i tryb korzystania z rejestru przez zobowiązanego, podmiot zainteresowany oraz podmiot, o którym mowa art. 18q § 2, tym uzyskania z rejestru danych, o których mowa art. 18b § 2, oraz tryb i sposób wprowadzania danych do rejestru, a także formaty danych wymagane przy wprowadzaniu danych, mając na względzie potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych rejestrze, konieczność zapewnienia ochrony tych danych przed nieuprawnionym dostępem oraz umożliwienie sprawnego korzystania z rejestru.
-
-**Art. 18n.**
-
-§ 1. Dane, o których mowa art. 18b § 2, dotyczące zobowiązanego, o którym mowa art. 18b § 2 pkt 1 lit. a lub d, udostępnia się z rejestru, jeżeli podmiot zainteresowany oświadczy za pośrednictwem systemu teleinformatycznego, którym prowadzony jest rejestr, że posiada ważne, pisemne upoważnienie tego zobowiązanego.
+§ 1. Dane, o których mowa w art. 18b § 2, dotyczące zobowiązanego, o którym mowa w art. 18b § 2 pkt 1 lit. a lub d, udostępnia się z rejestru, jeżeli podmiot zainteresowany oświadczy za pośrednictwem systemu teleinformatycznego, w którym prowadzony jest rejestr, że posiada ważne, pisemne upoważnienie tego zobowiązanego.
 
 § 2. Upoważnienie jest ważne nie dłużej niż przez 60 dni od dnia jego udzielenia.
 
-**Art. 18o.**
-
-§ 1. Udostępnienie z rejestru danych, o których mowa art. 18b § 2, jest bezpłatne.
+§ 1. Udostępnienie z rejestru danych, o których mowa w art. 18b § 2, jest bezpłatne.
 
 § 2. Wydruk treści danych udostępnionych z rejestru nie stanowi dokumentu urzędowego.
 
-**Art. 18p.**
+§ 1. Zobowiązanemu udostępnia się bezpłatnie, za pośrednictwem systemu teleinformatycznego, w którym jest prowadzony rejestr, informacje o:
 
-§ 1. Zobowiązanemu udostępnia się bezpłatnie, za pośrednictwem systemu teleinformatycznego, którym jest prowadzony rejestr, informacje o:
+- **1)** podmiocie zainteresowanym lub podmiocie, o którym mowa w art. 18q § 2 pkt 6 lub 7, który wystąpił o udostępnienie danych, o których mowa w art. 18b § 2,
+- **2)** dacie wystąpienia podmiotu zainteresowanego lub podmiotu, o którym mowa w art. 18q § 2 pkt 6 lub 7, o udostępnienie danych, o których mowa w art. 18b § 2 dotyczących tego zobowiązanego.
 
-- **1)** podmiocie zainteresowanym lub podmiocie, o którym mowa art. 18q § 2 pkt 6 lub 7, który wystąpił o udostępnienie danych, o których mowa art. 18b § 2,
-- **2)** dacie wystąpienia podmiotu zainteresowanego lub podmiotu, o którym mowa art. 18q § 2 pkt 6 lub 7, o udostępnienie danych, o których mowa art. 18b § 2 – dotyczących tego zobowiązanego.
+§ 2. Informacje, o których mowa w § 1, organ prowadzący rejestr przechowuje przez okres 5 lat od dnia następującego po dniu udostępnienia danych, o których mowa w art. 18b § 2.
 
-§ 2. Informacje, o których mowa § 1, organ prowadzący rejestr przechowuje przez okres 5 lat od dnia następującego po dniu udostępnienia danych, o których mowa art. 18b § 2.
+§ 3. Podmiot, o którym mowa w art. 18q § 2 pkt 6 lub 7, udziela zobowiązanemu bezpłatnie informacje o podmiocie, na rzecz którego wyszukał w rejestrze dane, o których mowa w art. 18b § 2.
 
-§ 3. Podmiot, o którym mowa art. 18q § 2 pkt 6 lub 7, udziela zobowiązanemu bezpłatnie informacje o podmiocie, na rzecz którego wyszukał rejestrze dane, o których mowa art. 18b § 2.
+§ 1. Organ prowadzący rejestr wyraża zgodę na ułatwiony sposób wyszukiwania zobowiązanych w rejestrze obejmujący więcej niż jednego zobowiązanego.
 
-**Art. 18q.**
-
-§ 1. Organ prowadzący rejestr wyraża zgodę na ułatwiony sposób wyszukiwania zobowiązanych rejestrze obejmujący więcej niż jednego zobowiązanego.
-
-§ 2. Zgoda, o której mowa § 1, może być udzielona na wniosek:
+§ 2. Zgoda, o której mowa w § 1, może być udzielona na wniosek:
 
 - **1)** wierzyciela,
 - **2)** sądowego lub administracyjnego organu egzekucyjnego,
 - **3)** sądu,
 - **4)** organu prokuratury,
 - **5)** Szefa Centralnego Biura Antykorupcyjnego,
-- **6)** instytucji utworzonej na podstawie art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2016 r. poz. 1988, z późn. zm. ),
-- **7)** biura informacji gospodarczej działającego na podstawie ustawy z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych (Dz. U. z 2014 r. poz. 1015 i 1188, z 2015 r. poz. 396, z 2016 r. poz. 1948 oraz z 2017 r. poz. 819 i 933) – zwanych dalej „podmiotami uprawnionymi”.
+- **6)** instytucji utworzonej na podstawie art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2016 r. poz. 1988, z późn. zm.),
+- **7)** biura informacji gospodarczej działającego na podstawie ustawy z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych (Dz. U. z 2014 r. poz. 1015 i 1188, z 2015 r. poz. 396, z 2016 r. poz. 1948 oraz z 2017 r. poz. 819 i 933) zwanych dalej „podmiotami uprawnionymi”.
 
-§ 3. Organ prowadzący rejestr wyraża zgodę, o której mowa § 1, drodze postanowienia, jeżeli ułatwiony sposób wyszukiwania zobowiązanych rejestrze jest niezbędny podmiotowi uprawnionemu do realizacji zadań ustawowych albo uzasadniony wykonywaniem ustawowo określonych uprawnień oraz podmiot uprawniony spełnia łącznie następujące wymagania:
+§ 3. Organ prowadzący rejestr wyraża zgodę, o której mowa w § 1, w drodze postanowienia, jeżeli ułatwiony sposób wyszukiwania zobowiązanych w rejestrze jest niezbędny podmiotowi uprawnionemu do realizacji zadań ustawowych albo uzasadniony wykonywaniem ustawowo określonych uprawnień oraz podmiot uprawniony spełnia łącznie następujące wymagania:
 
-- **1)** posiada urządzenia umożliwiające odnotowanie systemie, kto i kiedy uzyskał dane, o których mowa art. 18b § 2;
+- **1)** posiada urządzenia umożliwiające odnotowanie w systemie, kto i kiedy uzyskał dane, o których mowa w art. 18b § 2;
 - **2)** posiada zabezpieczenia techniczne i organizacyjne uniemożliwiające wykorzystanie danych niezgodnie z celem ich uzyskania.
 
-§ 4. Organ prowadzący rejestr odmawia, drodze postanowienia, wyrażenia zgody, o której mowa § 1, jeżeli podmiot uprawniony nie spełnia wymagań, o których mowa § 3.
+§ 4. Organ prowadzący rejestr odmawia, w drodze postanowienia, wyrażenia zgody, o której mowa w § 1, jeżeli podmiot uprawniony nie spełnia wymagań, o których mowa w § 3.
 
-§ 5. Organ prowadzący rejestr cofa, drodze postanowienia, zgodę, o której mowa § 1, jeżeli podmiot uprawniony przestał spełniać wymagania, o których mowa § 3.
+§ 5. Organ prowadzący rejestr cofa, w drodze postanowienia, zgodę, o której mowa w § 1, jeżeli podmiot uprawniony przestał spełniać wymagania, o których mowa w § 3.
 
-§ 6. Na postanowienie, o którym mowa § 4 albo 5, służy zażalenie. Zażalenie wnosi się do organu odwoławczego za pośrednictwem organu prowadzącego rejestr.
+§ 6. Na postanowienie, o którym mowa w § 4 albo 5, służy zażalenie. Zażalenie wnosi się do organu odwoławczego za pośrednictwem organu prowadzącego rejestr.
 
-§ 7. Od podmiotów uprawnionych, o których mowa § 2 pkt 1–5, nie wymaga się upoważnienia, o którym mowa art. 18n § 1.
+§ 7. Od podmiotów uprawnionych, o których mowa w § 2 pkt 1–5, nie wymaga się upoważnienia, o którym mowa w art. 18n § 1.
 
-§ 8. Podmiot uprawniony, o którym mowa § 2 pkt 6 lub 7, jest obowiązany uzyskać oświadczenie podmiotu, na rzecz którego wyszukuje dane rejestrze, o posiadaniu przez niego upoważnienia, o którym mowa art. 18n § 1.
+§ 8. Podmiot uprawniony, o którym mowa w § 2 pkt 6 lub 7, jest obowiązany uzyskać oświadczenie podmiotu, na rzecz którego wyszukuje dane w rejestrze, o posiadaniu przez niego upoważnienia, o którym mowa w art. 18n § 1.
 
-§ 9. Podmiot uprawniony, o którym mowa § 2 pkt 1–5, prowadzi rejestr zobowiązanych, o których uzyskał z rejestru dane, o których mowa art. 18b § 2. Podmiot uprawniony, o którym mowa § 2 pkt 6 lub 7, prowadzi rejestr zobowiązanych i podmiotów, na rzecz których wyszukał z rejestru dane, o których mowa art. 18b § 2.
+§ 9. Podmiot uprawniony, o którym mowa w § 2 pkt 1–5, prowadzi rejestr zobowiązanych, o których uzyskał z rejestru dane, o których mowa w art. 18b § 2. Podmiot uprawniony, o którym mowa w § 2 pkt 6 lub 7, prowadzi rejestr zobowiązanych i podmiotów, na rzecz których wyszukał z rejestru dane, o których mowa w art. 18b § 2. Dostęp do danych, o których mowa w art. 18b § 2, zawartych w rejestrze zapewnia się osobom upoważnionym przez wierzycieli oraz organ prowadzący rejestr w zakresie, w jakim jest to niezbędne do nadzoru, konserwacji i rozwijania systemów informatycznych wierzycieli i systemu teleinformatycznego, w ramach którego prowadzony jest rejestr.
 
-**Art. 18r.** Dostęp do danych, o których mowa art. 18b § 2, zawartych rejestrze zapewnia się osobom upoważnionym przez wierzycieli oraz organ prowadzący rejestr zakresie, jakim jest to niezbędne do nadzoru, konserwacji i rozwijania systemów informatycznych wierzycieli i systemu teleinformatycznego, ramach którego prowadzony jest rejestr.
+§ 1. Dane, o których mowa w art. 18b § 2, udostępnione z rejestru, mogą być przechowywane przez okres do 90 dni od dnia ich uzyskania.
 
-**Art. 18s.**
+§ 2. Podmiot, który uzyskał z rejestru dane, o których mowa w art. 18b § 2, nie może ich ujawnić innym podmiotom.
 
-§ 1. Dane, o których mowa art. 18b § 2, udostępnione z rejestru, mogą być przechowywane przez okres do 90 dni od dnia ich uzyskania.
+§ 3. Przepisów § 1 i 2 nie stosuje się do podmiotów uprawnionych, o których mowa w art. 18q § 2 pkt 1–5.
 
-§ 2. Podmiot, który uzyskał z rejestru dane, o których mowa art. 18b § 2, nie może ich ujawnić innym podmiotom.
+§ 4. Podmioty, o których mowa w art. 18q § 2 pkt 6 i 7, mogą ujawnić dane, o których mowa w art. 18b § 2, wyłącznie podmiotowi, na rzecz którego wyszukały dane w rejestrze.
 
-§ 3. Przepisów § 1 i 2 nie stosuje się do podmiotów uprawnionych, o których mowa art. 18q § 2 pkt 1–5.
+§ 5. Przepisu § 1 nie stosuje się do instytucji ustawowo obowiązanych do oceny zdolności kredytowej lub oceny ryzyka operacyjnego. W zakresie nieuregulowanym w niniejszym rozdziale stosuje się przepisy Kodeksu postępowania administracyjnego. Udostępnienie danych zawartych w rejestrze nie stanowi naruszenia przepisów o tajemnicy skarbowej, o których mowa w ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa. ” ;
 
-§ 4. Podmioty, o których mowa art. 18q § 2 pkt 6 i 7, mogą ujawnić dane, o których mowa art. 18b § 2, wyłącznie podmiotowi, na rzecz którego wyszukały dane rejestrze.
+- **3)** w art. 27 w § 1 pkt 2 otrzymuje brzmienie: „
+- **2)** wskazanie imienia i nazwiska lub firmy zobowiązanego i jego adresu, a także NIP lub numeru PESEL, jeżeli zobowiązany taki numer posiada; ” ;
+- **4)** w art. 67 w § 2a pkt 2 otrzymuje brzmienie: „
+- **2)** zawiadomienie o zajęciu zawiera numer PESEL lub NIP zobowiązanego, o ile są znane organowi egzekucyjnemu; ” ;
+- **5)** w art. 168b dodaje się § 3 w brzmieniu: „
 
-§ 5. Przepisu § 1 nie stosuje się do instytucji ustawowo obowiązanych do oceny zdolności kredytowej lub oceny ryzyka operacyjnego.
+§ 3. Zobowiązany może dochodzić odszkodowania od wierzyciela lub organu prowadzącego rejestr, na podstawie przepisów Kodeksu cywilnego, za szkodę wyrządzoną na skutek niezgodnego z prawem ujawnienia w rejestrze danych, o których mowa w art. 18b § 2. ” ;
 
-**Art. 18t.** W zakresie nieuregulowanym niniejszym rozdziale stosuje się przepisy Kodeksu postępowania administracyjnego.
+- **6)** w dziale IVa po rozdziale 2 dodaje się rozdział 3 w brzmieniu: „
 
-**Art. 18u.** Udostępnienie danych zawartych rejestrze nie stanowi naruszenia przepisów o tajemnicy skarbowej, o których mowa ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.”;
+#### Rozdział 3 Odpowiedzialność karna
 
-**Art. 168f.** Kto występuje o udostępnienie z rejestru danych, o których mowa art. 18b § 2, bez wymaganego upoważnienia zobowiązanego, o którym mowa art. 18b § 2 pkt 1 lit. a lub d, którego dane dotyczą albo oświadczenia podmiotu, na rzecz którego wyszukuje dane rejestrze, o posiadaniu takiego upoważnienia, podlega grzywnie do 30 000 zł.
+**Art. 168f.** Kto występuje o udostępnienie z rejestru danych, o których mowa w art. 18b § 2, bez wymaganego upoważnienia zobowiązanego, o którym mowa w art. 18b § 2 pkt 1 lit. a lub d, którego dane dotyczą albo oświadczenia podmiotu, na rzecz którego wyszukuje dane w rejestrze, o posiadaniu takiego upoważnienia, podlega grzywnie do 30 000 zł. Kto przechowuje uzyskane z rejestru dane, o których mowa w art. 18b § 2, z naruszeniem przepisu art. 18s § 1, podlega grzywnie do 30 000 zł. Kto ujawnił dane, o których mowa w art. 18b § 2, dotyczące zobowiązanego, o którym mowa w art. 18b § 2 pkt 1 lit. a lub d, z naruszeniem przepisu art. 18s § 2 lub 4, podlega grzywnie do 30 000 zł. ” .
 
-**Art. 168g.** Kto przechowuje uzyskane z rejestru dane, o których mowa art. 18b § 2, z naruszeniem przepisu art. 18s § 1, podlega grzywnie do 30 000 zł.
+**Art. 4.** W ustawie z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. poz. 1503, z późn. zm.) po art. 17e dodaje się art. 17f w brzmieniu: „
 
-**Art. 168h.** Kto ujawnił dane, o których mowa art. 18b § 2, dotyczące zobowiązanego, o którym mowa art. 18b § 2 pkt 1 lit. a lub d, z naruszeniem przepisu art. 18s § 2 lub 4, podlega grzywnie do 30 000 zł.”.
+**Art. 17f.**
 
-**Art. 4.** W ustawie z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. poz. 1503, z późn. zm. ) po art. 17e dodaje się art. 17f brzmieniu: „Art. 17f. 1. Czynem nieuczciwej konkurencji jest przekazanie przez wierzyciela informacji gospodarczej do biura informacji gospodarczej z naruszeniem ustawy z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych (Dz. U. z 2014 r. poz. 1015 i 1188, z 2015 r. poz. 396, z 2016 r. poz. 1948 oraz z 2017 r. poz. 819 i 933) albo niezażądanie przez wierzyciela aktualizacji albo usunięcia informacji gospodarczej mimo zaistnienia obowiązku jej aktualizacji albo usunięcia zgodnie z tą ustawą. 2. Czynem nieuczciwej konkurencji jest nieusunięcie albo niedokonanie przez biuro informacji gospodarczej aktualizacji informacji gospodarczej przypadkach, gdy ustawa, o której mowa ust. 1, nakłada na biuro obowiązek usunięcia albo aktualizacji tej informacji.”.
+1. Czynem nieuczciwej konkurencji jest przekazanie przez wierzyciela informacji gospodarczej do biura informacji gospodarczej z naruszeniem ustawy z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych (Dz. U. z 2014 r. poz. 1015 i 1188, z 2015 r. poz. 396, z 2016 r. poz. 1948 oraz z 2017 r. poz. 819 i 933) albo niezażądanie przez wierzyciela aktualizacji albo usunięcia informacji gospodarczej mimo zaistnienia obowiązku jej aktualizacji albo usunięcia zgodnie z tą ustawą.
 
-**Art. 5.** W ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2016 r. poz. 1764) art. 1 ust. 3 pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 brzmieniu: „5) Rejestru Należności Publicznoprawnych, o którym mowa przepisach ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym administracji (Dz. U. z 2016 r. poz. 599, z późn. zm. ).”.
+2. Czynem nieuczciwej konkurencji jest nieusunięcie albo niedokonanie przez biuro informacji gospodarczej aktualizacji informacji gospodarczej w przypadkach, gdy ustawa, o której mowa w ust. 1, nakłada na biuro obowiązek usunięcia albo aktualizacji tej informacji. ” .
 
-**Art. 6.** W ustawie z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. z 2016 r. poz. 1541 oraz z 2017 r. poz. 724) art. 16 ust. 1 pkt 18 kropkę zastępuje się średnikiem i dodaje się pkt 19 brzmieniu: „19) określone art. 168f–168h ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym administracji (Dz. U. z 2016 r. poz. 599, z późn. zm. ).”.
+**Art. 5.** W ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2016 r. poz. 1764) w art. 1 w ust. 3 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
 
-**Art. 7.** W ustawie z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2015 r. poz. 2164, z późn. zm. ) art. 143c ust. 8 otrzymuje brzmienie: „8. Do solidarnej odpowiedzialności zamawiającego, wykonawcy, podwykonawcy lub dalszego podwykonawcy z tytułu wykonanych robót budowlanych stosuje się przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, jeżeli przepisy ustawy nie stanowią inaczej.”.
+- **5)** Rejestru Należności Publicznoprawnych, o którym mowa w przepisach ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2016 r. poz. 599, z późn. zm.). ” .
+
+**Art. 6.** W ustawie z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. z 2016 r. poz. 1541 oraz z 2017 r. poz. 724) w art. 16 w ust. 1 w pkt 18 kropkę zastępuje się średnikiem i dodaje się pkt 19 w brzmieniu: „
+
+- **19)** określone w art. 168f-168h ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2016 r. poz. 599, z późn. zm.). ” .
+
+**Art. 7.** W ustawie z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2015 r. poz. 2164, z późn. zm.) w art. 143c ust. 8 otrzymuje brzmienie: „ 8. Do solidarnej odpowiedzialności zamawiającego, wykonawcy, podwykonawcy lub dalszego podwykonawcy z tytułu wykonanych robót budowlanych stosuje się przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, jeżeli przepisy ustawy nie stanowią inaczej. ” .
 
 **Art. 8.** W ustawie z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych (Dz. U. z 2013 r. poz. 168, z 2012 r. poz. 1529 oraz z 2016 r. poz. 1020, 1250, 1920 i 2260) wprowadza się następujące zmiany:
 
-**Art. 9.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm. ) po art. 54 dodaje się art. 54a brzmieniu: „Art. 54a. 1. Jednostka sektora finansów publicznych może zawrzeć ugodę sprawie spornej należności cywilnoprawnej przypadku dokonania oceny, że skutki ugody są dla tej jednostki lub odpowiednio Skarbu Państwa albo budżetu jednostki samorządu terytorialnego korzystniejsze niż prawdopodobny wynik postępowania sądowego albo arbitrażowego. 2. Ocena skutków ugody nastąpi, formie pisemnej, z uwzględnieniem okoliczności sprawy, szczególności zasadności spornych żądań, możliwości ich zaspokojenia i przewidywanego czasu trwania oraz kosztów postępowania sądowego albo arbitrażowego.”.
+- **1)** w art. 5 dodaje się ust. 4 w brzmieniu: „
 
-**Art. 10.** W ustawie z dnia 17 grudnia 2009 r. o dochodzeniu roszczeń postępowaniu grupowym (Dz. U. z 2010 r. poz. 44) wprowadza się następujące zmiany:
+4. Nie stanowi naruszenia dyscypliny finansów publicznych, o którym mowa w ust. 1, wykonanie ugody w sprawie spornej należności cywilnoprawnej zawartej zgodnie z przepisami prawa. ” ;
 
-**Art. 10b.** Sąd Najwyższy, uwzględniając skargę kasacyjną na postanowienie o odrzuceniu pozwu z uwagi na niedopuszczalność postępowania grupowego, może uchylić zaskarżone postanowienie i postanowić o rozpoznaniu sprawy postępowaniu grupowym.”;
+- **2)** w art. 11 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
 
-**Art. 11.** W ustawie z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych (Dz. U. z 2014 r. poz. 1015 i 1188, z 2015 r. poz. 396, z 2016 r. poz. 1948 oraz z 2017 r. poz. 819) wprowadza się następujące zmiany:
+2. Nie stanowi naruszenia dyscypliny finansów publicznych dokonanie wydatku ze środków publicznych na podstawie ugody w sprawie spornej należności cywilnoprawnej zawartej zgodnie z przepisami prawa. ” ;
 
-**Art. 15b.** Przepisów art. 14 ust. 1 pkt 3 i art. 15 ust. 1 pkt 3 oraz ust. 1a nie stosuje się:
+- **3)** art. 15 otrzymuje brzmienie: „
+
+**Art. 15.**
+
+1. Naruszeniem dyscypliny finansów publicznych jest zaciągnięcie lub zmiana zobowiązania bez upoważnienia określonego ustawą budżetową, uchwałą budżetową lub planem finansowym albo z przekroczeniem zakresu tego upoważnienia lub z naruszeniem przepisów dotyczących zaciągania lub zmiany zobowiązań przez jednostkę sektora finansów publicznych.
+
+2. Nie stanowi naruszenia dyscypliny finansów publicznych zaciągnięcie lub zmiana zobowiązania na podstawie ugody w sprawie spornej należności cywilnoprawnej zawartej zgodnie z przepisami prawa. ” .
+
+**Art. 9.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm.) po art. 54 dodaje się art. 54a w brzmieniu: „
+
+**Art. 54a.**
+
+1. Jednostka sektora finansów publicznych może zawrzeć ugodę w sprawie spornej należności cywilnoprawnej w przypadku dokonania oceny, że skutki ugody są dla tej jednostki lub odpowiednio Skarbu Państwa albo budżetu jednostki samorządu terytorialnego korzystniejsze niż prawdopodobny wynik postępowania sądowego albo arbitrażowego.
+
+2. Ocena skutków ugody nastąpi, w formie pisemnej, z uwzględnieniem okoliczności sprawy, w szczególności zasadności spornych żądań, możliwości ich zaspokojenia i przewidywanego czasu trwania oraz kosztów postępowania sądowego albo arbitrażowego. ” .
+
+**Art. 10.** W ustawie z dnia 17 grudnia 2009 r. o dochodzeniu roszczeń w postępowaniu grupowym (Dz. U. z 2010 r. poz. 44) wprowadza się następujące zmiany:
+
+- **1)** w art. 1: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. Ustawa ma zastosowanie w sprawach o roszczenia z tytułu odpowiedzialności za szkodę wyrządzoną przez produkt niebezpieczny, z tytułu czynów niedozwolonych, z tytułu odpowiedzialności za niewykonanie lub nienależyte wykonanie zobowiązania umownego lub z tytułu bezpodstawnego wzbogacenia, a w odniesieniu do roszczeń o ochronę konsumentów także w innych sprawach. ” , po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „
+
+- **b)**
+
+2a. W postępowaniu grupowym jest wyłączone dochodzenie roszczeń o ochronę dóbr osobistych, z wyjątkiem roszczeń wynikających z uszkodzenia ciała lub wywołania rozstroju zdrowia, w tym roszczeń przysługujących najbliższym członkom rodziny poszkodowanego, zmarłego wskutek uszkodzenia ciała lub wywołania rozstroju zdrowia.
+
+2b. Możliwość dochodzenia w postępowaniu grupowym roszczeń pieniężnych wynikających z uszkodzenia ciała lub wywołania rozstroju zdrowia, w tym roszczeń pieniężnych przysługujących najbliższym członkom rodziny poszkodowanego, zmarłego wskutek uszkodzenia ciała lub wywołania rozstroju zdrowia, jest ograniczona do żądania ustalenia odpowiedzialności pozwanego, na zasadach określonych w art. 2 ust. 3. ” ;
+
+- **2)** w art. 2: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Postępowanie grupowe w sprawach o roszczenia pieniężne jest dopuszczalne tylko wtedy, gdy wysokość roszczenia każdego członka grupy została ujednolicona poprzez zrównanie wysokości roszczenia dochodzonego przez członków grupy lub podgrupy. ” , ust. 3 otrzymuje brzmienie: „
+
+- **b)**
+
+3. W sprawach o roszczenia pieniężne powództwo może ograniczać się do żądania ustalenia odpowiedzialności pozwanego za określone zdarzenie lub zdarzenia. W takim przypadku powód nie jest obowiązany wykazywać interesu prawnego w ustaleniu. ” , dodaje się ust. 4 w brzmieniu: „
+
+- **c)**
+
+4. Uwzględniając żądanie ustalenia odpowiedzialności pozwanego za określone zdarzenie lub zdarzenia, sąd ustala okoliczności wspólne członkom grupy, stanowiące przesłanki dochodzonych przez nich roszczeń. ” ;
+
+- **3)** w art. 6: w ust. 1 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** wskazanie okoliczności, o których mowa w art. 1 ust. 1, a w przypadku roszczeń pieniężnych także dokonanie ujednolicenia wysokości roszczeń członków grupy lub podgrupy; ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **b)**
+
+1a. Żądanie pozwu w sprawach o ustalenie odpowiedzialności pozwanego na podstawie art. 2 ust. 3 powinno obejmować także wskazanie roszczeń pieniężnych, których dochodzeniu służyć ma żądany wyrok ustalający odpowiedzialność, przy czym nie jest konieczne wskazywanie wysokości tych roszczeń. ” ;
+
+- **4)** w art. 8: ust. 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+1. Na żądanie pozwanego sąd może postanowieniem zobowiązać powoda do złożenia kaucji na zabezpieczenie kosztów procesu, jeżeli pozwany uprawdopodobni, że powództwo jest bezzasadne oraz że brak kaucji uniemożliwi lub poważnie utrudni wykonanie orzeczenia w przedmiocie kosztów postępowania w razie oddalenia powództwa.
+
+2. Pozwany może zgłosić żądanie zabezpieczenia kosztów najpóźniej przy pierwszej czynności procesowej. Pozwany nie ma prawa domagać się złożenia kaucji, jeżeli uznana przez niego część roszczenia wystarcza na zabezpieczenie kosztów. O żądaniu pozwanego sąd rozstrzyga po uprawomocnieniu się postanowienia w przedmiocie składu grupy. ” , ust. 5 otrzymuje brzmienie: „
+
+- **b)**
+
+5. Po bezskutecznym upływie wyznaczonego przez sąd terminu do złożenia kaucji sąd zawiesza postępowanie, a w razie niewpłacenia kaucji w terminie dalszych 3 miesięcy sąd odrzuca pozew lub środek odwoławczy, orzekając o kosztach, jak w przypadku cofnięcia pozwu. ” , dodaje się ust. 7 w brzmieniu: „
+
+- **c)**
+
+7. Na postanowienie o zawieszeniu postępowania, o którym mowa w ust. 5, zażalenie nie przysługuje. ” ;
+
+- **5)** w art. 10: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Sąd rozstrzyga na posiedzeniu niejawnym o dopuszczalności postępowania grupowego i odrzuca pozew, jeżeli sprawa nie podlega rozpoznaniu w postępowaniu grupowym. W przeciwnym razie sąd wydaje postanowienie o rozpoznaniu sprawy w postępowaniu grupowym. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+- **b)**
+
+1a. Przed wyznaczeniem posiedzenia niejawnego w przedmiocie dopuszczalności postępowania grupowego, przewodniczący zarządza wniesienie odpowiedzi na pozew zgodnie z art. 207 § 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+
+- **c)**
+
+2a. Rozpoznając zażalenie, o którym mowa w ust. 2, sąd nie stosuje przepisów art. 381 i art. 386 § 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego. ” , ust. 3 otrzymuje brzmienie: „
+
+- **d)**
+
+3. W przypadku wytoczenia przez członka grupy, w terminie 12 miesięcy od dnia uprawomocnienia się postanowienia o odrzuceniu pozwu, powództwa o roszczenie, które było objęte powództwem w postępowaniu grupowym, w odniesieniu do tego roszczenia zostają zachowane skutki wytoczenia powództwa w postępowaniu grupowym. ” ;
+
+- **6)** po art. 10 dodaje się art. 10a i art. 10bwbrzmieniu: „ Po uprawomocnieniu się postanowienia o rozpoznaniu sprawy w postępowaniu grupowym, dopuszczalność prowadzenia postępowania grupowego nie podlega ponownemu badaniu w dalszym toku postępowania. Sąd Najwyższy, uwzględniając skargę kasacyjną na postanowienie o odrzuceniu pozwu z uwagi na niedopuszczalność postępowania grupowego, może uchylić zaskarżone postanowienie i postanowić o rozpoznaniu sprawy w postępowaniu grupowym. ” ;
+- **7)** w art. 11 ust. 3 otrzymuje brzmienie: „
+
+3. Publikacja ogłoszenia o wszczęciu postępowania grupowego następuje w sposób najbardziej odpowiedni dla danej sprawy, tak aby umożliwiało ono poinformowanie o postępowaniu wszystkich potencjalnie zainteresowanych przystąpieniem do grupy, w szczególności ogłoszenie może zostać zamieszczone na stronach Biuletynu Informacji Publicznej właściwego sądu, na stronach internetowych stron lub ich pełnomocników lub w prasie o zasięgu ogólnokrajowym albo lokalnym. ” ;
+
+- **8)** po art. 11 dodaje się art. 11a w brzmieniu: „
+
+**Art. 11a.**
+
+1. Minister Sprawiedliwości prowadzi wykaz postępowań grupowych będących w toku oraz prawomocnie zakończonych, w toku których zarządzono ogłoszenie o wszczęciu postępowania grupowego, zwany dalej „wykazem”. Wykaz udostępnia się w Biuletynie Informacji Publicznej Ministra Sprawiedliwości.
+
+2. Wykaz zawiera: informacje, o których mowa w art. 11 ust. 2 pkt 1–4, informacje o dacie i sposobie publikacji ogłoszenia, o którym mowa w art. 11 ust. 1, informacje o sposobie prawomocnego zakończenia postępowania grupowego albo wzmiankę o tym, że postępowanie grupowe jest w toku.
+
+- **a)**
+- **b)**
+- **c)**
+
+3. Niezwłocznie po zarządzeniu ogłoszenia o wszczęciu postępowania grupowego sąd przekazuje Ministrowi Sprawiedliwości informacje, o których mowa w ust. 2. Minister Sprawiedliwości aktualizuje wykaz o te informacje niezwłocznie po ich otrzymaniu.
+
+4. Przepis ust. 3 stosuje się także do orzeczeń prawomocnie kończących postępowanie w sprawie, wydanych po zarządzeniu ogłoszenia o wszczęciu postępowania grupowego. ” ;
+
+- **9)** w art. 17: po ust. 2 dodaje się ust. 2awbrzmieniu: „
+    - **a)**
+
+2a. Wniesienie zażalenia na postanowienie w przedmiocie składu grupy nie wstrzymuje merytorycznego rozpoznania sprawy. Niezwłocznie po wydaniu postanowienia w przedmiocie składu grupy sąd wyznacza rozprawę lub w inny sposób nadaje sprawie dalszy bieg. ” , ust. 3 otrzymuje brzmienie: „
+
+- **b)**
+
+3. Po uprawomocnieniu się postanowienia, o którym mowa w ust. 1, oświadczenie członka grupy o wystąpieniu z grupy jest bezskuteczne. ” ;
+
+- **10)** po art. 20 dodaje się art. 20a w brzmieniu: „
+
+**Art. 20a.**
+
+1. W sprawach, o których mowa w art. 1 ust. 2, w przypadku dochodzenia roszczeń pieniężnych, przepis art. 322 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego stosuje się.
+
+2. W przypadku gdy sąd stosuje przepis ust. 1, przed wydaniem wyroku wysłuchuje stanowisk stron co do wysokości kwot zasądzanych na rzecz członków grupy lub podgrupy. Sąd może wysłuchać stanowisk stron na posiedzeniu niejawnym.
+
+3. Sąd, uwzględniając powództwo, jest związany zgodnym wnioskiem stron w zakresie wysokości kwoty przypadającej członkom grupy lub podgrupy. ” ;
+
+- **11)** w art. 24 ust. 1 otrzymuje brzmienie: „
+
+1. W zakresie nieuregulowanym w ustawie stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, z wyłączeniem art. 7, art. 8, art. 117–124, art. 194–196, art. 204, art. 205, art. 207 § 6, art. 217 § 2 i art. 425–50514. ” . W ustawie z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych (Dz. U. z 2014 r. poz. 1015 i 1188, z 2015 r. poz. 396, z 2016 r. poz. 1948 oraz z 2017 r. poz. 819) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 ust. 3 otrzymuje brzmienie: „
+
+3. Przepisów ustawy nie stosuje się do udostępniania danych:
+
+- **1)** pochodzących z publicznie dostępnych rejestrów lub zbiorów, z zastrzeżeniem art. 28;
+- **2)** w celu sprzedaży wierzytelności przez ogłoszenie publiczne. ” ;
+- **2)** w art. 2: w ust. 1 w pkt 4 w lit. i średnik zastępuje się przecinkiem i dodaje się lit. j w brzmieniu: „ informacji o tym, że dłużnik uznaje roszczenie za przedawnione; ” , w ust. 2 w pkt 2 lit. a otrzymuje brzmienie: „ osobę fizyczną wykonującą działalność gospodarczą zobowiązaną względem wierzyciela w związku z wykonywaną działalnością gospodarczą, jak również osobę fizyczną, która zakończyła wykonywanie działalności gospodarczej, w zakresie zobowiązań względem wierzyciela związanych z zakończoną działalnością gospodarczą, ” ;
+    - **a)**
+    - **j)**
+    - **b)**
+    - **a)**
+
+- **3)** art. 4 otrzymuje brzmienie: „ Udostępnianie informacji gospodarczych osobom trzecim nieoznaczonym w chwili przeznaczania tych informacji do udostępniania następuje wyłącznie za pośrednictwem biura informacji gospodarczej, chyba że przepisy prawa przewidują inny tryb udostępniania danych. ” ;
+- **4)** w art. 7: w ust. 2 po pkt 1 dodaje się pkt 1a-1d w brzmieniu: „
+    - **a)**
+
+- **1a)** uzyskiwanie na zlecenie klienta biura danych z rejestru, o którym mowa w art. 28 ust. 1 pkt 1;
+- **1b)** uzyskiwanie i przetwarzanie w zakresie uzasadnionym wykonywaniem ustawowych uprawnień lub obowiązków danych z rejestrów, o których mowa w art. 28 ust. 1 pkt 2–4, oraz danych zawartych w Monitorze Sądowym i Gospodarczym;
+- **1c)** uzyskiwanie na zlecenie klienta biura i przetwarzanie w zakresie uzasadnionym wykonywaniem ustawowych uprawnień lub obowiązków danych z rejestrów, o których mowa w art. 28 ust. 1 pkt 5 lub 6;
+- **1d)** dokonywanie analizy wiarygodności płatniczej podmiotu niebędącego konsumentem; ” , ust. 3 otrzymuje brzmienie: „
+    - **b)**
+
+3. Przychody z działalności, o której mowa w ust. 2 pkt 1a-3, nie mogą przekraczać 10% ogólnych przychodów biura. ” ;
+
+- **5)** po art. 8 dodaje się art. 8a w brzmieniu: „
+
+1. Biuro jest obowiązane do przekazywania informacji gospodarczych w celu realizacji przez inne biuro wniosku, o którym mowa w art. 22a ust. 1.
+
+2. Biuro, w terminie 6 miesięcy od dnia zawiadomienia ministra właściwego do spraw gospodarki o podjęciu wykonywania działalności gospodarczej, zawiera z biurami, które wykonują działalność gospodarczą w dniu podjęcia wykonywania działalności przez to biuro, umowy o przekazywanie informacji gospodarczych w zakresie określonym w ust. 1. O zawarciu każdej umowy biuro zawiadamia ministra właściwego do spraw gospodarki. ” ;
+
+- **6)** w art. 11: w ust. 1 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8–10 w brzmieniu: „
+    - **a)**
+
+- **8)** dodatkowy tryb realizacji wniosku, o którym mowa w art. 22a ust. 1, jeżeli biuro przewiduje realizację takich wniosków również w innym trybie niż określony w art. 22a ust. 3;
+- **9)** katalog przykładowych rodzajów dokumentów potwierdzających nieistnienie lub wygaśnięcie zobowiązania albo stanowiących podstawę do aktualizacji informacji gospodarczych;
+- **10)** szczegółowy tryb wnoszenia i rozpatrywania sprzeciwu, o którym mowa w art. 21a, oraz postępowania biura w przypadku otrzymania sprzeciwu. ” , ust. 4 i 5 otrzymują brzmienie: „
+    - **b)**
+
+4. Zatwierdzony regulamin minister właściwy do spraw gospodarki publikuje na swojej stronie internetowej. Zarząd biura jest obowiązany do publikacji aktualnej treści regulaminu na stronie internetowej biura.
+
+5. Przepisy ust. 1–4 stosuje się odpowiednio do wprowadzania i zatwierdzania zmian w regulaminie. Zarząd biura, przekazując do zatwierdzenia zmiany regulaminu, przesyła również jego tekst ujednolicony. ” ;
+
+- **7)** w art. 14: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) łączna kwota wymagalnych zobowiązań dłużnika będącego konsumentem wobec wierzyciela wynosi co najmniej 200 złotych oraz są one wymagalne od co najmniej 30 dni; ” , – w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „ 4) nie upłynęło 10 lat od dnia wymagalności zobowiązania, a w przypadku roszczeń stwierdzonych prawomocnym orzeczeniem sądu lub innego organu powołanego do rozpoznawania spraw danego rodzaju albo orzeczeniem sądu polubownego, jak również roszczeń stwierdzonych ugodą zawartą przed sądem albo przed sądem polubownym albo ugodą zawartą przed mediatorem i zatwierdzoną przez sąd nie upłynęło 10 lat od dnia stwierdzenia roszczenia. ” , w ust. 3 pkt 3 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **3)** zobowiązania – nie zawierają co najmniej danych określonych w art. 2 ust. 1 pkt 4 lit. a, c, d, f, g oraz j ” , dodaje się ust. 5 w brzmieniu: „
+    - **c)**
+
+5. W przypadku zobowiązań wyrażonych w walucie obcej, spełnienie warunku, o którym mowa w ust. 1 pkt 2, ocenia się na podstawie średniego kursu walut obcych ogłaszanego przez Narodowy Bank Polski z dnia przekazania informacji gospodarczej do biura. ” ;
+
+- **8)** w art. 15: w ust. 1 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** łączna kwota wymagalnych zobowiązań dłużnika niebędącego konsumentem wobec wierzyciela wynosi co najmniej 500 złotych oraz są one wymagalne od co najmniej 30 dni; ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **b)**
+
+1a. Jeżeli umowa między wierzycielem a dłużnikiem niebędącym konsumentem, z której wynika zobowiązanie dłużnika, przewiduje możliwość wysłania dłużnikowi wezwania do zapłaty w formie elektronicznej na wskazany w umowie adres poczty elektronicznej dłużnika, warunek, o którym mowa w ust. 1 pkt 3, uważa się za spełniony, jeśli upłynął co najmniej miesiąc od wysłania wezwania do zapłaty zgodnie z postanowieniami umowy. ” , w ust. 3 pkt 3 otrzymuje brzmienie: „
+
+- **c)**
+- **3)** zobowiązania – nie zawierają co najmniej danych określonych w art. 2 ust. 1 pkt 4 lit. a, c, d, f, g oraz j ” , dodaje się ust. 5 w brzmieniu: „
+    - **d)**
+
+5. W przypadku zobowiązań wyrażonych w walucie obcej, spełnienie warunku, o którym mowa w ust. 1 pkt 2, ocenia się na podstawie średniego kursu walut obcych ogłaszanego przez Narodowy Bank Polski z dnia przekazania informacji gospodarczej do biura. ” ;
+
+- **9)** po art. 15 dodaje się art. 15a i art. 15b w brzmieniu: „
+
+1. Dłużnik, który otrzymał wezwanie do zapłaty, o którym mowa w art. 14 ust. 1 pkt 3 albo art. 15 ust. 1 pkt 3 albo ust. 1a, może zgłosić wierzycielowi sprzeciw wobec zamiaru przekazania danych do biura.
+
+2. Wezwanie, o którym mowa w art. 14 ust. 1 pkt 3 albo art. 15 ust. 1 pkt 3 albo ust. 1a, zawiera informację o możliwości zgłoszenia przez dłużnika sprzeciwu.
+
+3. Wierzyciel, który nie uwzględnia sprzeciwu dłużnika kwestionującego istnienie zobowiązania w całości lub w części lub uznającego wierzytelność za przedawnioną w całości lub w części i przekazuje informację gospodarczą do biura, jest obowiązany zawrzeć te dane w informacji gospodarczej przekazywanej do biura. Przepisów art. 14 ust. 1 pkt 3 i art. 15 ust. 1 pkt 3 oraz ust. 1a nie stosuje się:
+
+- **1)** w przypadku przekazania informacji gospodarczej o świadczeniach okresowych wynikających ze zobowiązania, o którym informacja została przekazana do biura, jeżeli wierzyciel w wezwaniu do zapłaty poinformował dłużnika o tym, że odrębne wezwanie do zapłaty nie jest wymagane w odniesieniu do kolejnych świadczeń okresowych, a przekazana informacja gospodarcza jest aktualna;
+- **2)** do należności skazanego lub ukaranego, o którym mowa w art. 2 ust. 2 pkt 3, których płatność została rozłożona skazanemu lub ukaranemu na raty – w odniesieniu do poszczególnych rat. ” ;
+- **10)** w art. 16 w ust. 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+- **4)** nie upłynęło 10 lat od dnia stwierdzenia zobowiązania prawomocnym orzeczeniem sądu lub innego organu powołanego do rozpoznawania spraw danego rodzaju albo orzeczeniem sądu polubownego, ugodą zawartą przed sądem albo przed sądem polubownym albo ugodą zawartą przed mediatorem i zatwierdzoną przez sąd. ” ;
+- **11)** w art. 18: w ust. 3 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** zobowiązania, o których mowa w art. 14 ust. 1 pkt 1 lub art. 15 ust. 1 pkt 1, zostały spełnione w terminie albo z opóźnieniem wynoszącym mniej niż 30 dni. ” , w ust. 4 pkt 3 i 4 otrzymują brzmienie: „
+    - **b)**
+
+- **3)** łącznej kwoty i waluty zobowiązań, o których mowa w art. 14 ust. 1 pkt 1 lub art. 15 ust. 1 pkt 1, wymagalnych w okresie ostatnich 12 miesięcy przed dniem przekazania ich do biura albo każdej kwoty spełnionego świadczenia okresowego albo spłaconej raty zobowiązania;
+- **4)** kwoty, waluty, daty wymagalności oraz daty spełnienia zobowiązań, o których mowa w art. 14 ust. 1 pkt 1 lub art. 15 ust. 1 pkt 1, które w okresie ostatnich 12 miesięcy przed dniem przekazania informacji gospodarczych zostały spełnione w terminie albo z opóźnieniem wynoszącym mniej niż 30 dni. ” , ust. 5 otrzymuje brzmienie: „
+    - **c)**
+
+5. W przypadku zobowiązań do spełniania świadczeń okresowych albo zobowiązań o charakterze ratalnym za wywiązywanie się ze zobowiązań w rozumieniu ust. 1 uważa się także spłatę w pełnej wysokości wszystkich dotychczas wymagalnych świadczeń lub rat zobowiązania. ” ;
+
+- **12)** w art. 21 ust. 2 otrzymuje brzmienie: „
+
+2. Biuro dokonuje aktualizacji informacji gospodarczych:
+
+- **1)** na wniosek wierzyciela – nie później niż w terminie 7 dni od dnia otrzymania wniosku;
+- **2)** w zakresie danych, o których mowa w art. 2 ust. 1 pkt 1–3 i pkt 4 lit. e, f lub j – w przypadku uzyskania uzasadnionej informacji o nieaktualności, nieprawdziwości lub niekompletności tych danych, nie później niż w terminie 30 dni od dnia uzyskania uzasadnionej informacji. ” ;
+- **13)** po art. 21 dodaje się art. 21a w brzmieniu: „
+
+**Art. 21a.**
+
+1. Dłużnik może wnieść do biura sprzeciw dotyczący nieaktualności, nieprawdziwości, niekompletności lub przekazania lub przechowywania niezgodnie z ustawą informacji gospodarczych mających status informacji aktualnych. Dłużnik powinien udokumentować okoliczności uzasadniające sprzeciw.
+
+2. W razie wniesienia przez dłużnika sprzeciwu biuro może zwrócić się do wierzyciela lub dłużnika o dodatkowe wyjaśnienia.
+
+3. Biuro wstrzymuje ujawnianie informacji gospodarczych objętych sprzeciwem na okres do 30 dni, w przypadku uzasadnionego przypuszczenia, że dotyczą one zobowiązania, które nie istnieje lub wygasło. W pozostałych przypadkach biuro może wstrzymać ujawnianie informacji gospodarczych objętych sprzeciwem na okres konieczny do rozpatrzenia sprzeciwu nie dłuższy niż 30 dni.
+
+4. Biuro może przedłużyć okres wstrzymania ujawniania informacji gospodarczych objętych sprzeciwem jedynie wówczas, gdy rozpatrzenie sprzeciwu wiąże się ze szczególnymi trudnościami i na okres, który łącznie nie przekracza 45 dni od dnia wstrzymania ujawniania informacji gospodarczej.
+
+5. Po rozpatrzeniu sprzeciwu biuro:
+
+- **1)** dokonuje aktualizacji informacji gospodarczej w razie uzyskania uzasadnionej informacji o okolicznościach, o których mowa w art. 2 ust. 1 pkt 4 lit. e, f lub j, albo o tym, że dane, o których mowa w art. 2 ust. 1 pkt 1–3, są nieprawidłowe lub nieaktualne;
+- **2)** usuwa informację gospodarczą w razie uzyskania uzasadnionej informacji o okolicznościach, o których mowa w art. 31 pkt 4–9, albo
+- **3)** uznaje sprzeciw za bezzasadny i informuje o tym dłużnika, pouczając go o treści ust. 8.
+
+6. W przypadku powzięcia przez biuro uzasadnionych wątpliwości dotyczących aktualności, prawdziwości lub kompletności informacji gospodarczej w zakresie nieobjętym ust. 3, biuro może zawiesić ujawnianie tej informacji do czasu wyjaśnienia sprawy między stronami lub przez właściwy organ albo usunąć tę informację.
+
+7. Wniesienie sprzeciwu oraz dokonanie przez biuro czynności, o których mowa w ust. 5, nie podlega opłatom na rzecz biura.
+
+8. W przypadku gdy sprzeciw został uznany przez biuro za bezzasadny, o czym dłużnik został zawiadomiony, a dłużnik wniósł sprzeciw ponownie w oparciu o te same okoliczności faktyczne i prawne, biuro może pozostawić sprzeciw bez rozpatrzenia, nie zawiadamiając o tym dłużnika.
+
+9. Szczegółowy tryb wnoszenia i rozpatrywania sprzeciwu, o którym mowa w ust. 1, oraz postępowania biura w przypadku otrzymania sprzeciwu określa regulamin. ” ;
+
+- **14)** po art. 22 dodaje się art. 22a w brzmieniu: „
+
+**Art. 22a.**
+
+1. Wniosek do biura o ujawnienie informacji gospodarczych o podmiocie niebędącym konsumentem może dotyczyć także informacji przechowywanych w innym biurze. We wniosku wskazuje się biuro, z którego ma zostać ujawniona informacja gospodarcza, oraz numer, o którym mowa w art. 2 ust. 1 pkt 1 lit. d albo pkt 3 lit. f, podmiotu, którego dotyczą informacje gospodarcze objęte wnioskiem.
+
+2. Wniosek, o którym mowa w ust. 1, może dotyczyć wyłącznie ujawnienia aktualnych danych, o których mowa w art. 2 ust. 1 pkt 1 i 3–5.
+
+3. Biuro, którego dotyczy wniosek, o którym mowa w ust. 1, jest obowiązane do przekazania informacji gospodarczych do biura, w którym został złożony ten wniosek, w drodze teletransmisji, w terminie 24 godzin od momentu otrzymania wniosku. Ujawnienie informacji gospodarczych podmiotowi wnioskującemu o te informacje, w przypadku złożenia wniosku osobiście w biurze albo w drodze teletransmisji, następuje w terminie 2 dni roboczych od momentu złożenia wniosku.
+
+4. Biuro może określić dodatkowy, inny niż określony w ust. 3, tryb uzyskania informacji gospodarczej na wniosek, o którym mowa w ust. 1. W takim przypadku składający wniosek dokonuje wyboru trybu uzyskania informacji.
+
+5. Biuro, w którym został złożony wniosek, o którym mowa w ust. 1, nie ujawnia danych składającego wniosek.
+
+6. Ujawnienie informacji gospodarczych na podstawie wniosku, o którym mowa w ust. 1, podlega opłacie zgodnie z obowiązującym w danym biurze cennikiem, nie wyższej niż 30 złotych od informacji uzyskanych z jednego biura. ” ;
+
+- **15)** w art. 23 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2–5 w brzmieniu: „
+
+2. Jeżeli podmiot, o którym mowa w art. 2 ust. 1 pkt 1 lub 3, występuje z wnioskiem o udostępnienie informacji gospodarczych w celu poświadczenia zakresu dostępnych w biurze informacji gospodarczych dotyczących tego podmiotu, biuro przekazuje informacje gospodarcze – stosownie do wyboru wnioskodawcy – w formie dokumentu elektronicznego albo wydruku.
+
+3. Dokument albo wydruk, o których mowa w ust. 2, mogą dotyczyć także informacji przechowywanych w innych biurach, jeżeli wystąpi o to wnioskodawca. Przepisy art. 22a ust. 1 zdanie drugie oraz ust. 3 i 4 stosuje się odpowiednio.
+
+4. Udostępnienie informacji gospodarczych na podstawie ust. 2 podlega opłacie zgodnie z obowiązującym w biurze cennikiem.
+
+5. Organ administracji publicznej nie może żądać okazywania, przekazywania lub załączania do wniosku dokumentu albo wydruku, o którym mowa w ust. 2. Przepis stosuje się odpowiednio do informacji udostępnionych na podstawie ust. 1. ” ;
+
+- **16)** w art. 24 w ust. 1 zdanie drugie otrzymuje brzmienie: „ Upoważnienie jest ważne nie dłużej niż 60 dni od dnia jego udzielenia. ” ;
+- **17)** w art. 25 w ust. 1: wprowadzenie do wyliczenia otrzymuje brzmienie: „ Do otrzymywania informacji gospodarczych oraz informacji z rejestru zapytań, o którym mowa w art. 27, są uprawnieni: ” , pkt 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **2)** Szef Agencji Bezpieczeństwa Wewnętrznego oraz Szef Agencji Wywiadu – na zasadach i w trybie określonym w art. 34 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2016 r. poz. 1897, 1948 i 1955 oraz z 2017 r. poz. 60 i 768); ” , w pkt 15 kropkę zastępuje się średnikiem i dodaje się pkt 16–18 w brzmieniu: „
+    - **c)**
+
+- **16)** organ prowadzący Rejestr Należności Publicznoprawnych, o którym mowa w ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2016 r. poz. 599, z późn. zm.);
+- **17)** organy administracji publicznej – w związku z prowadzonymi przez nie postępowaniami w sprawie udzielenia ulgi w spłacie należności pieniężnych;
+- **18)** administracyjne organy egzekucyjne – w związku z prowadzonymi przez nie postępowaniami, o których mowa w ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji. ” ;
+- **18)** w art. 27 dodaje się ust. 2a w brzmieniu: „
+
+2a. W przypadku ujawnienia informacji gospodarczych na podstawie art. 22a ust. 3, rejestr zapytań obejmuje oznaczenie biura, do którego złożono wniosek, o którym mowa w art. 22a ust. 1. ” ;
+
+- **19)** art. 28 otrzymuje brzmienie: „
+
+**Art. 28.**
+
+1. Biuro jest uprawnione do otrzymywania danych z:
+
+- **1)** rejestru PESEL na zasadach określonych w ustawie z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2017 r. poz. 657);
+- **2)** krajowego rejestru urzędowego podmiotów gospodarki narodowej na zasadach określonych w ustawie z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2016 r. poz. 1068 oraz z 2017 r. poz. 60);
+- **3)** Centralnej Ewidencji i Informacji o Działalności Gospodarczej na zasadach określonych w ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2016 r. poz. 1829, 1948, 1997 i 2255 oraz z 2017 r. poz. 460 i 819);
+- **4)** Krajowego Rejestru Sądowego na zasadach określonych w ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2017 r. poz. 700);
+- **5)** Centralnego Rejestru Restrukturyzacji i Upadłości na zasadach określonych w ustawie z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. z 2016 r. poz. 1574, 1579, 1948 i 2260);
+- **6)** Rejestru Należności Publicznoprawnych na zasadach określonych w ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji.
+
+2. W przypadku stwierdzenia niezgodności między informacją gospodarczą otrzymaną od wierzyciela a danymi otrzymanymi z rejestrów wymienionych w ust. 1 pkt 1–4, biuro niezwłocznie:
+
+- **1)** wstrzymuje ujawnianie tej informacji gospodarczej;
+- **2)** powiadamia o niezgodności wierzyciela, od którego otrzymało informację gospodarczą.
+
+3. Biuro może uzyskiwać oraz przetwarzać w zakresie uzasadnionym wykonywaniem ustawowych uprawnień lub obowiązków dane zawarte w rejestrach wymienionych w ust. 1 pkt 2–4 oraz Monitorze Sądowym i Gospodarczym. Dane te biuro ujawnia w formach określonych w regulaminie wraz z informacją o czasie uzyskania tych danych przez biuro.
+
+4. Biuro może na zlecenie klienta uzyskiwać oraz przetwarzać w zakresie uzasadnionym wykonywaniem ustawowych uprawnień lub obowiązków dane zawarte w rejestrach wymienionych w ust. 1 pkt 5 lub 6. Dane te biuro ujawnia klientowi, na zlecenie którego je uzyskało, w formach określonych w regulaminie wraz z informacją o czasie uzyskania tych danych przez biuro.
+
+5. W przypadku gdy biuro ujawnia dane z rejestrów wskazanych w ust. 1, które można uzyskać bezpłatnie, biuro jest obowiązane poinformować o tym podmiot występujący do biura o udostępnienie tych danych. ” ;
+
+- **20)** po art. 30 dodaje się art. 30a w brzmieniu: „
+
+**Art. 30a.** Obowiązek wierzyciela, o którym mowa w art. 30 ust. 1, oraz obowiązki biura, o których mowa w art. 21 ust. 2 pkt 2 i art. 31 pkt 6 i 7, dotyczące:
+
+- **1)** aktualizacji informacji gospodarczych wynikają w szczególności z uzasadnionej informacji o: zakwestionowaniu przez dłużnika istnienia zobowiązania w całości lub części, w tym o odmowie uznania długu, uznaniu długu przez dłużnika w całości, uznaniu zobowiązania przez dłużnika za przedawnione, wykonaniu zobowiązania, w tym dokonaniu zapłaty w części, oddaleniu prawomocnym wyrokiem powództwa obejmującego część zobowiązania, stwierdzeniu prawomocnym wyrokiem, że zobowiązanie w części nie istnieje lub wygasło, potrąceniu ze zobowiązania wierzytelności niższej niż objęta zobowiązaniem, zwolnieniu dłużnika z długu w części, odnowieniu zobowiązania w części, przelewie wierzytelności objętej zobowiązaniem w części na rzecz innej osoby, przejęciu części długu przez inną osobę, toczącym się postępowaniu sądowym dotyczącym zobowiązania;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
+    - **k)**
+    - **l)**
+
+- **2)** usunięcia informacji gospodarczych wynikają w szczególności z uzasadnionej informacji o: wykonaniu zobowiązania, w tym dokonaniu zapłaty, w całości, oddaleniu prawomocnym wyrokiem powództwa obejmującego całość zobowiązania, stwierdzeniu prawomocnym wyrokiem, że zobowiązanie w całości nie istnieje lub wygasło, potrąceniu ze zobowiązania wierzytelności wyższej niż objęta zobowiązaniem, zwolnieniu dłużnika z długu w całości, odnowieniu zobowiązania w całości, przelewie wierzytelności objętej zobowiązaniem w całości na rzecz innej osoby, przejęciu całości długu przez inną osobę. ” ;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+
+- **21)** w art. 31: pkt 7 otrzymuje brzmienie: „
+    - **a)**
+
+- **7)** na podstawie uzasadnionej informacji o wygaśnięciu zobowiązania; ” , w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „
+    - **b)**
+
+- **9)** nie później niż po upływie 10 lat od dnia, w którym roszczenie stało się wymagalne, jeżeli dłużnikiem jest konsument, przy czym w przypadku roszczeń stwierdzonych prawomocnym orzeczeniem sądu lub innego organu powołanego do rozpoznawania spraw danego rodzaju albo orzeczeniem sądu polubownego, jak również roszczeń stwierdzonych ugodą zawartą przed sądem albo przed sądem polubownym albo ugodą zawartą przed mediatorem i zatwierdzoną przez sąd nie później niż po upływie 10 lat od dnia stwierdzenia roszczenia. ” ;
+- **22)** po rozdziale 4 dodaje się rozdział 4a w brzmieniu: „
+
+#### Rozdział 4a Analiza wiarygodności płatniczej podmiotu niebędącego konsumentem
 
 **Art. 31a.**
 
@@ -285,76 +682,77 @@ source: "isap-pdf"
 
 3. W celu dokonywania analizy wiarygodności płatniczej biuro opracowuje sposób jej sporządzania.
 
-4. Do analizy wiarygodności płatniczej biuro może wykorzystać wyłącznie informacje gospodarcze przechowywane przez biuro oraz dane, o których mowa art. 9, art. 13 oraz art. 28.
+4. Do analizy wiarygodności płatniczej biuro może wykorzystać wyłącznie informacje gospodarcze przechowywane przez biuro oraz dane, o których mowa w art. 9, art. 13 oraz art. 28.
 
-5. Analiza wiarygodności płatniczej podmiotu niebędącego konsumentem zawiera również opis sposobu sporządzenia analizy oraz zestawienie informacji wykorzystanych do jej sporządzenia.”;
+5. Analiza wiarygodności płatniczej podmiotu niebędącego konsumentem zawiera również opis sposobu sporządzenia analizy oraz zestawienie informacji wykorzystanych do jej sporządzenia. ” ;
 
-- **23)** art. 32 dodaje się ust. 3 brzmieniu: „3. Nadzór ministra właściwego do spraw gospodarki zakresie dokonywania przez biuro analizy wiarygodności płatniczej obejmuje wyłącznie ocenę, czy zakres informacji wykorzystywanych do analizy jest prawidłowy.”;
+- **23)** w art. 32 dodaje się ust. 3 w brzmieniu: „
+
+3. Nadzór ministra właściwego do spraw gospodarki w zakresie dokonywania przez biuro analizy wiarygodności płatniczej obejmuje wyłącznie ocenę, czy zakres informacji wykorzystywanych do analizy jest prawidłowy. ” ;
+
 - **24)** uchyla się art. 37;
-- **25)** art. 41 otrzymuje brzmienie: „Art. 41. 1. Przed podpisaniem protokołu kontroli osoba upoważniona do reprezentowania biura ma prawo zgłoszenia kontrolującemu umotywowanych pisemnych zastrzeżeń do ustaleń zawartych protokole kontroli terminie 7 dni roboczych od dnia otrzymania tego protokołu.
+- **25)** art. 41 otrzymuje brzmienie: „
 
-2. W razie zgłoszenia zastrzeżeń, o których mowa ust. 1, kontrolujący obowiązany jest sporządzić wobec nich pisemne stanowisko wraz z uzasadnieniem, a przypadku stwierdzenia ich zasadności zmienić lub uzupełnić protokół kontroli.”;
+**Art. 41.**
 
-- **26)** po art. 42 dodaje się art. 42a brzmieniu: „Art. 42a. Postępowanie kontrolne kończy:
-- **1)** podpisanie protokołu kontroli, o którym mowa art. 39 ust. 3, albo
-- **2)** podpisanie protokołu kontroli przez kontrolującego, trybie art. 42 ust. 2.”;
-- **27)** po art. 43 dodaje się art. 43a brzmieniu: „Art. 43a. 1. W razie naruszenia przez biuro przepisów ustawy zakresie realizacji wniosków, o których mowa art. 22a ust. 1, minister właściwy do spraw gospodarki może nałożyć na biuro karę pieniężną wysokości nieprzekraczającej 200 000 złotych.
+1. Przed podpisaniem protokołu kontroli osoba upoważniona do reprezentowania biura ma prawo zgłoszenia kontrolującemu umotywowanych pisemnych zastrzeżeń do ustaleń zawartych w protokole kontroli w terminie 7 dni roboczych od dnia otrzymania tego protokołu.
 
-2. Jeżeli biuro, mimo dwukrotnego nałożenia kary pieniężnej, o której mowa ust. 1, narusza przepisy ustawy zakresie realizacji wniosków, o których mowa art. 22a ust. 1, minister właściwy do spraw gospodarki wydaje decyzję o zakazie wykonywania działalności gospodarczej przez biuro. Przepis art. 43 ust. 4 stosuje się odpowiednio.”;
+2. W razie zgłoszenia zastrzeżeń, o których mowa w ust. 1, kontrolujący obowiązany jest sporządzić wobec nich pisemne stanowisko wraz z uzasadnieniem, a w przypadku stwierdzenia ich zasadności zmienić lub uzupełnić protokół kontroli. ” ;
 
-- **28)** po rozdziale 5 dodaje się rozdział 5a brzmieniu: „Rozdział 5a Odpowiedzialność cywilna
+- **26)** po art. 42 dodaje się art. 42a w brzmieniu: „
+
+**Art. 42a.** Postępowanie kontrolne kończy:
+
+- **1)** podpisanie protokołu kontroli, o którym mowa w art. 39 ust. 3, albo
+- **2)** podpisanie protokołu kontroli przez kontrolującego, w trybie art. 42 ust. 2. ” ;
+- **27)** po art. 43 dodaje się art. 43a w brzmieniu: „
+
+**Art. 43a.**
+
+1. W razie naruszenia przez biuro przepisów ustawy w zakresie realizacji wniosków, o których mowa w art. 22a ust. 1, minister właściwy do spraw gospodarki może nałożyć na biuro karę pieniężną w wysokości nieprzekraczającej 200 000 złotych.
+
+2. Jeżeli biuro, mimo dwukrotnego nałożenia kary pieniężnej, o której mowa w ust. 1, narusza przepisy ustawy w zakresie realizacji wniosków, o których mowa w art. 22a ust. 1, minister właściwy do spraw gospodarki wydaje decyzję o zakazie wykonywania działalności gospodarczej przez biuro. Przepis art. 43 ust. 4 stosuje się odpowiednio. ” ;
+
+- **28)** po rozdziale 5 dodaje się rozdział 5a w brzmieniu: „
+
+#### Rozdział 5a Odpowiedzialność cywilna
 
 **Art. 44a.**
 
-1. W przypadku przekazania przez wierzyciela informacji gospodarczej do biura z naruszeniem przepisów ustawy albo niezażądania przez wierzyciela aktualizacji albo usunięcia informacji gospodarczej mimo zaistnienia obowiązku jej aktualizacji albo usunięcia ponosi on odpowiedzialność wobec dłużnika niebędącego konsumentem na zasadach określonych ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny lub ustawie z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. poz. 1503, z późn. zm. ).
+1. W przypadku przekazania przez wierzyciela informacji gospodarczej do biura z naruszeniem przepisów ustawy albo niezażądania przez wierzyciela aktualizacji albo usunięcia informacji gospodarczej mimo zaistnienia obowiązku jej aktualizacji albo usunięcia ponosi on odpowiedzialność wobec dłużnika niebędącego konsumentem na zasadach określonych w ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny lub ustawie z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. poz. 1503, z późn. zm.).
 
-2. W przypadku nieusunięcia informacji gospodarczej albo niedokonania jej aktualizacji przez biuro, jeżeli biuro ma obowiązek usunięcia albo aktualizacji tej informacji, ponosi ono odpowiedzialność wobec dłużnika niebędącego konsumentem na zasadach określonych ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny lub ustawie z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji.
+2. W przypadku nieusunięcia informacji gospodarczej albo niedokonania jej aktualizacji przez biuro, jeżeli biuro ma obowiązek usunięcia albo aktualizacji tej informacji, ponosi ono odpowiedzialność wobec dłużnika niebędącego konsumentem na zasadach określonych w ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny lub ustawie z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji.
 
-**Art. 44b.**
+1. W przypadku przekazania przez wierzyciela informacji gospodarczej do biura z naruszeniem przepisów ustawy albo niezażądania przez wierzyciela aktualizacji albo usunięcia informacji gospodarczej mimo zaistnienia obowiązku jej aktualizacji albo usunięcia ponosi on odpowiedzialność wobec dłużnika będącego konsumentem na zasadach określonych w ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
 
-1. W przypadku przekazania przez wierzyciela informacji gospodarczej do biura z naruszeniem przepisów ustawy albo niezażądania przez wierzyciela aktualizacji albo usunięcia informacji gospodarczej mimo zaistnienia obowiązku jej aktualizacji albo usunięcia ponosi on odpowiedzialność wobec dłużnika będącego konsumentem na zasadach określonych ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
+2. W przypadku nieusunięcia informacji gospodarczej albo niedokonania jej aktualizacji przez biuro, jeżeli biuro ma obowiązek usunięcia albo aktualizacji tej informacji, ponosi ono odpowiedzialność wobec dłużnika będącego konsumentem na zasadach określonych w ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny. ” .
 
-2. W przypadku nieusunięcia informacji gospodarczej albo niedokonania jej aktualizacji przez biuro, jeżeli biuro ma obowiązek usunięcia albo aktualizacji tej informacji, ponosi ono odpowiedzialność wobec dłużnika będącego konsumentem na zasadach określonych ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny.”.
+**Art. 12.** Do umów o roboty budowlane zawartych przed dniem wejścia w życie niniejszej ustawy oraz odpowiedzialności za zapłatę wynagrodzenia za roboty budowlane wykonane przez podwykonawcę na podstawie takich umów stosuje się art. 6471 ustawy, o której mowa w art. 1, w brzmieniu dotychczasowym.
 
-**Art. 12.** Do umów o roboty budowlane zawartych przed dniem wejścia życie niniejszej ustawy oraz odpowiedzialności za zapłatę wynagrodzenia za roboty budowlane wykonane przez podwykonawcę na podstawie takich umów stosuje się art. 647 ustawy, o której mowa art. 1, brzmieniu dotychczasowym.
+**Art. 13.** Przepisy ustaw zmienianych w art. 2 i art. 10, w brzmieniu nadanym niniejszą ustawą, stosuje się do postępowań wszczętych od dnia jej wejścia w życie.
 
-**Art. 13.** Przepisy ustaw zmienianych art. 2 i art. 10, brzmieniu nadanym niniejszą ustawą, stosuje się do postępowań wszczętych od dnia jej wejścia życie.
-
-**Art. 14.** Do zabezpieczeń udzielonych postępowaniach zabezpieczających wszczętych przed dniem wejścia życie niniejszej ustawy stosuje się art. 754 i art. 757 ustawy zmienianej art. 2, brzmieniu dotychczasowym.
-
-**Art. 15.** Żądanie zobowiązania dłużnika do złożenia wykazu informacji o odpłatnych i nieodpłatnych czynnościach prawnych dokonanych na rzecz osób trzecich, pięcioletnim okresie poprzedzającym wszczęcie egzekucji, wyniku których stał się niewypłacalny albo stał się niewypłacalny wyższym stopniu, niż był przed dokonaniem czynności prawnych, o którym mowa art. 913 § 1 ustawy zmienianej art. 2, brzmieniu nadanym niniejszą ustawą, stosuje się do czynności prawnych dokonanych od dnia wejścia życie niniejszej ustawy.
+**Art. 14.** Do zabezpieczeń udzielonych w postępowaniach zabezpieczających wszczętych przed dniem wejścia w życie niniejszej ustawy stosuje się art. 7541iart. 757 ustawy zmienianej w art. 2, w brzmieniu dotychczasowym. Żądanie zobowiązania dłużnika do złożenia wykazu informacji o odpłatnych i nieodpłatnych czynnościach prawnych dokonanych na rzecz osób trzecich, w pięcioletnim okresie poprzedzającym wszczęcie egzekucji, w wyniku których stał się niewypłacalny albo stał się niewypłacalny w wyższym stopniu, niż był przed dokonaniem czynności prawnych, o którym mowa w art. 913 § 1 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, stosuje się do czynności prawnych dokonanych od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 16.**
 
-1. W odniesieniu do należności pieniężnej, która stała się wymagalna przed dniem 1 stycznia 2018 r., wierzyciel, będący naczelnikiem urzędu skarbowego, o którym mowa art. 18b § 1 ustawy zmienianej art. 3, dokonuje, do dnia 31 grudnia 2021 r., wprowadzenia do Rejestru Należności Publicznoprawnych danych, o których mowa art. 18b § 2 ustawy zmienianej art. 3.
+1. W odniesieniu do należności pieniężnej, która stała się wymagalna przed dniem 1 stycznia 2018 r., wierzyciel, będący naczelnikiem urzędu skarbowego, o którym mowa w art. 18b § 1 ustawy zmienianej w art. 3, dokonuje, do dnia 31 grudnia 2020 r., wprowadzenia do Rejestru Należności Publicznoprawnych danych, o których mowa w art. 18b § 2 ustawy zmienianej w art. 3.
 
-2. W odniesieniu do należności pieniężnej jednostki samorządu terytorialnego, która stała się wymagalna przed dniem podjęcia uchwały, o której mowa art. 18d § 4 ustawy zmienianej art. 3, organ wykonawczy jednostki samorządu terytorialnego dokonuje, terminie 2 lat od dnia podjęcia tej uchwały, wprowadzenia do Rejestru Należności Publicznoprawnych danych, o których mowa art. 18b § 2 ustawy zmienianej art. 3.
+2. W odniesieniu do należności pieniężnej jednostki samorządu terytorialnego, która stała się wymagalna przed dniem podjęcia uchwały, o której mowa w art. 18d § 4 ustawy zmienianej w art. 3, organ wykonawczy jednostki samorządu terytorialnego dokonuje, w terminie 2 lat od dnia podjęcia tej uchwały, wprowadzenia do Rejestru Należności Publicznoprawnych danych, o których mowa w art. 18b § 2 ustawy zmienianej w art. 3.
 
-**Art. 17.**
+1. Biuro informacji gospodarczej prowadzące działalność w dniu wejścia w życie niniejszego przepisu jest obowiązane dostosować regulamin zarządzania danymi do przepisów ustawy zmienianej w art. 11, w brzmieniu nadanym niniejszą ustawą, w terminie 3 miesięcy od dnia wejścia w życie niniejszego przepisu i przekazać go nie później niż w terminie 14 dni od dnia jego uchwalenia ministrowi właściwemu do spraw gospodarki do zatwierdzenia.
 
-1. Biuro informacji gospodarczej prowadzące działalność dniu wejścia życie niniejszego przepisu jest obowiązane dostosować regulamin zarządzania danymi do przepisów ustawy zmienianej art. 11, brzmieniu nadanym niniejszą ustawą, terminie 3 miesięcy od dnia wejścia życie niniejszego przepisu i przekazać go nie później niż terminie 14 dni od dnia jego uchwalenia ministrowi właściwemu do spraw gospodarki do zatwierdzenia.
+2. W razie nieprzekazania przez biuro informacji gospodarczej ministrowi właściwemu do spraw gospodarki do zatwierdzenia regulaminu zarządzania danymi w terminie, o którym mowa w ust. 1, minister właściwy do spraw gospodarki wydaje decyzję o zakazie wykonywania działalności gospodarczej przez biuro.
 
-2. W razie nieprzekazania przez biuro informacji gospodarczej ministrowi właściwemu do spraw gospodarki do zatwierdzenia regulaminu zarządzania danymi terminie, o którym mowa ust. 1, minister właściwy do spraw gospodarki wydaje decyzję o zakazie wykonywania działalności gospodarczej przez biuro.
+3. Regulaminy zarządzania danymi lub zmiany w regulaminach przekazane ministrowi właściwemu do spraw gospodarki do zatwierdzenia przed dniem wejścia w życie niniejszego przepisu i niezatwierdzone do tego dnia podlegają zwrotowi celem dostosowania, o którym mowa w ust. 1.
 
-3. Regulaminy zarządzania danymi lub zmiany regulaminach przekazane ministrowi właściwemu do spraw gospodarki do zatwierdzenia przed dniem wejścia życie niniejszego przepisu i niezatwierdzone do tego dnia podlegają zwrotowi celem dostosowania, o którym mowa ust. 1.
+1. Biura informacji gospodarczej prowadzące działalność gospodarczą w dniu wejścia w życie niniejszego przepisu zawierają umowy, o których mowa w art. 8a ust. 2 ustawy zmienianej w art. 11, w terminie 3 miesięcy od dnia wejścia w życie niniejszego przepisu. O zawarciu każdej umowy biuro zawiadamia ministra właściwego do spraw gospodarki.
 
-**Art. 18.**
+2. W przypadku niezawarcia przez biuro informacji gospodarczej umów, o których mowa w art. 8a ust. 2 ustawy zmienianej w art. 11, w terminie, o którym mowa w ust. 1, minister właściwy do spraw gospodarki może wydać decyzję o zakazie wykonywania działalności gospodarczej przez biuro.
 
-1. Biura informacji gospodarczej prowadzące działalność gospodarczą dniu wejścia życie niniejszego przepisu zawierają umowy, o których mowa art. 8a ust. 2 ustawy zmienianej art. 11, terminie 3 miesięcy od dnia wejścia życie niniejszego przepisu. O zawarciu każdej umowy biuro zawiadamia ministra właściwego do spraw gospodarki.
+**Art. 19.** Wysłane przed dniem wejścia w życie niniejszego przepisu, a doręczone po tym dniu, wezwania do zapłaty, o których mowa w art. 14 ust. 1 pkt 3 i art. 15 ust. 1 pkt 3 ustawy zmienianej w art. 11, oraz pisma, o których mowa w art. 16 ust. 1 pkt 2 tej ustawy, uznaje się za skuteczne, jeżeli spełniały warunki dotychczasowe. Do informacji gospodarczych o dłużnikach będących konsumentami udostępnianych przez biura w dniu wejścia w życie niniejszego przepisu niespełniających warunku, o którym mowa w art. 14 ust. 1 pkt 4 ustawy zmienianej w art. 11, w brzmieniu nadanym niniejszą ustawą, nie stosuje się przepisu art. 31 pkt 9 ustawy zmienianej w art. 11 w brzmieniu nadanym niniejszą ustawą. 1. Przepisy art. 7 ust. 2 pkt 1c i ust. 3 oraz art. 28 ust. 4 ustawy zmienianej w art. 11, w zakresie odnoszącym się do uzyskiwania, przetwarzania i ujawniania danych z Rejestru Należności Publicznoprawnych, oraz art. 28 ust. 1 pkt 6 tej ustawy stosuje się od dnia 1 stycznia 2018 r. 2. Przepisy art. 7 ust. 2 pkt 1c i ust. 3 oraz art. 28 ust. 4 ustawy zmienianej w art. 11, w zakresie odnoszącym się do uzyskiwania, przetwarzania i ujawniania danych z Centralnego Rejestru Restrukturyzacji i Upadłości, oraz art. 28 ust. 1 pkt 5 tej ustawy stosuje się od dnia 1 lutego 2018 r. 3. Przepis art. 18b § 1 ustawy zmienianej w art. 3, w zakresie odnoszącym się do wierzyciela będącego jednostką samorządu terytorialnego, oraz art. 18d § 4 tej ustawy stosuje się od dnia 1 czerwca 2018 r. Ustawa wchodzi w życie z dniem 1 czerwca 2017 r., z wyjątkiem:
 
-2. W przypadku niezawarcia przez biuro informacji gospodarczej umów, o których mowa art. 8a ust. 2 ustawy zmienianej art. 11, terminie, o którym mowa ust. 1, minister właściwy do spraw gospodarki może wydać decyzję o zakazie wykonywania działalności gospodarczej przez biuro.
+- **1)** art. 4, art. 11, art. 17–20 oraz art. 21 ust. 1 i 2, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia;
+- **2)** art. 3, art. 5, art. 6, art. 16 ust. 1 i art. 21 ust. 3, które wchodzą w życie z dniem 1 stycznia 2018 r.;
+- **3)** art. 16 ust. 2, który wchodzi w życie z dniem 1 czerwca 2018 r.
 
-**Art. 19.** Wysłane przed dniem wejścia życie niniejszego przepisu, a doręczone po tym dniu, wezwania do zapłaty, o których mowa art. 14 ust. 1 pkt 3 i art. 15 ust. 1 pkt 3 ustawy zmienianej art. 11, oraz pisma, o których mowa art. 16 ust. 1 pkt 2 tej ustawy, uznaje się za skuteczne, jeżeli spełniały warunki dotychczasowe.
-
-**Art. 20.** Do informacji gospodarczych o dłużnikach będących konsumentami udostępnianych przez biura dniu wejścia życie niniejszego przepisu niespełniających warunku, o którym mowa art. 14 ust. 1 pkt 4 ustawy zmienianej art. 11, brzmieniu nadanym niniejszą ustawą, nie stosuje się przepisu art. 31 pkt 9 ustawy zmienianej art. 11 brzmieniu nadanym niniejszą ustawą.
-
-**Art. 21.**
-
-1. Przepisy art. 7 ust. 2 pkt 1c i ust. 3 oraz art. 28 ust. 4 ustawy zmienianej art. 11, zakresie odnoszącym się do uzyskiwania, przetwarzania i ujawniania danych z Rejestru Należności Publicznoprawnych, oraz art. 28 ust. 1 pkt 6 tej ustawy stosuje się od dnia 1 stycznia 2018 r.
-
-2. Przepisy art. 7 ust. 2 pkt 1c i ust. 3 oraz art. 28 ust. 4 ustawy zmienianej art. 11, zakresie odnoszącym się do uzyskiwania, przetwarzania i ujawniania danych z Centralnego Rejestru Restrukturyzacji i Upadłości, oraz art. 28 ust. 1 pkt 5 tej ustawy stosuje się od dnia 26 czerwca 2018 r.
-
-3. Przepis art. 18b § 1 ustawy zmienianej art. 3, zakresie odnoszącym się do wierzyciela będącego jednostką samorządu terytorialnego, oraz art. 18d § 4 tej ustawy stosuje się od dnia 1 czerwca 2018 r.
-
-**Art. 22.** Ustawa wchodzi życie z dniem 1 czerwca 2017 r., z wyjątkiem:
 

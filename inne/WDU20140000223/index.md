@@ -22,12 +22,21 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-01-24 |
 | Data wydania | 2014-02-19 |
+| Wejście w życie | 2014-03-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000223) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/223/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2010 r. Nr 234, poz. 1536, z późn. zm.) wprowadza się następujące zmiany:
 
+- **1)** po art. 11c dodaje się art. 11d w brzmieniu: „
+
 **Art. 11d.** Do realizacji zadań publicznych zlecanych na podstawie art. 11a-11c stosuje się odpowiednio przepisy art. 15 ust. 1 i art. 16–18 oraz przepisy wydane na podstawie art. 19. ” ;
+
+- **2)** w art. 19a ust. 8 otrzymuje brzmienie: „
+
+8. Do umów zawartych na podstawie ust. 5 stosuje się odpowiednio przepisy art. 16–18 oraz przepisy wydane na podstawie art. 19. ” ;
+
+- **3)** art. 27a otrzymuje brzmienie: „
 
 **Art. 27a.**
 
@@ -61,7 +70,45 @@ source: "eli-html"
 
 **Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.) w art. 45c:
 
+- **1)** ust. 4 otrzymuje brzmienie: „
+
+4. Kwotę, o której mowa w ust. 1, naczelnik urzędu skarbowego przekazuje w terminie od maja do lipca roku następującego po roku podatkowym, za który składane jest zeznanie podatkowe, na rachunek bankowy właściwy do przekazania 1% podatku podany przez organizację pożytku publicznego zgodnie z przepisami ustawy o działalności pożytku publicznego. Kwota ta jest pomniejszana o koszty przelewu bankowego. ” ;
+
+- **2)** ust. 6 otrzymuje brzmienie: „
+
+6. Naczelnik urzędu skarbowego odstępuje od przekazania 1% podatku na rzecz organizacji pożytku publicznego, jeżeli:
+
+- **1)** organizacja nie podała, zgodnie z ustawą o działalności pożytku publicznego, numeru rachunku bankowego właściwego do przekazania 1% podatku lub numer tego rachunku jest nieprawidłowy;
+- **2)** organizacja została usunięta z wykazu prowadzonego zgodnie z art. 27a ustawy o działalności pożytku publicznego;
+- **3)** podatnik we wniosku, o którym mowa w ust. 3, podał numer wpisu do Krajowego Rejestru Sądowego, którego nie zawiera wykaz prowadzony zgodnie z art. 27a ustawy o działalności pożytku publicznego. ” ;
+- **3)** po ust. 6 dodaje się ust. 6a w brzmieniu: „
+
+6a. W przypadku gdy kwota wskazana we wniosku, o którym mowa w ust. 3 przekracza wysokość, o której mowa w ust. 1, naczelnik urzędu skarbowego przekazuje kwotę w wysokości, o której mowa w ust. 1, z uwzględnieniem ust. 4. ” ;
+
+- **4)** dodaje się ust. 8 w brzmieniu: „
+
+8. Minister właściwy do spraw finansów publicznych, uwzględniając potrzebę sprawnego zorganizowania procesu przekazywania kwot z tytułu 1% podatku, może upoważnić, w drodze rozporządzenia, podległy organ, inny niż określony w ust. 1, do realizacji zadania, o którym mowa w ust. 1. ” .
+
 **Art. 3.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 144, poz. 930, z późn. zm.) w art. 21b:
+
+- **1)** ust. 4 otrzymuje brzmienie: „
+
+4. Kwotę, o której mowa w ust. 1, naczelnik urzędu skarbowego przekazuje w terminie od maja do lipca roku następującego po roku podatkowym, za który składane jest zeznanie podatkowe, na rachunek bankowy właściwy do przekazania 1% podatku podany przez organizację pożytku publicznego zgodnie z przepisami ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie. Kwota ta jest pomniejszana o koszty przelewu bankowego. ” ;
+
+- **2)** ust. 6 otrzymuje brzmienie: „
+
+6. Naczelnik urzędu skarbowego odstępuje od przekazania 1% podatku na rzecz organizacji pożytku publicznego, jeżeli:
+
+- **1)** organizacja nie podała, zgodnie z ustawą z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, numeru rachunku bankowego właściwego do przekazania 1% podatku lub numer tego rachunku jest nieprawidłowy,
+- **2)** organizacja została usunięta z wykazu prowadzonego zgodnie z art. 27a ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie,
+- **3)** podatnik we wniosku, o którym mowa w ust. 3, podał numer wpisu do Krajowego Rejestru Sądowego, którego nie zawiera wykaz prowadzony zgodnie z art. 27a ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie. ” ;
+- **3)** po ust. 6 dodaje się ust. 6a w brzmieniu: „
+
+6a. W przypadku gdy kwota wskazana we wniosku, o którym mowa w ust. 3 przekracza wysokość, o której mowa w ust. 1, naczelnik urzędu skarbowego przekazuje kwotę w wysokości, o której mowa w ust. 1, z uwzględnieniem ust. 4. ” ;
+
+- **4)** dodaje się ust. 8 w brzmieniu: „
+
+8. Minister właściwy do spraw finansów publicznych, uwzględniając potrzebę sprawnego zorganizowania procesu przekazywania kwot z tytułu 1% podatku, może upoważnić, w drodze rozporządzenia, podległy organ, inny niż określony w ust. 1, do realizacji zadania, o którym mowa w ust. 1. ” .
 
 **Art. 4.** Do wykazu organizacji mających status organizacji pożytku publicznego na dzień 30 listopada 2013 r., na które podatnik podatku dochodowego od osób fizycznych może przekazać 1% podatku z zeznań podatkowych składanych za rok podatkowy, oraz do czynności związanych z jego tworzeniem i prowadzeniem stosuje się przepisy dotychczasowe.
 

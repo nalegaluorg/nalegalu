@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu zasadach pozyskiwania informacji niekaralności osób ubiegających się zatrudnienie i osób zatrudnionych podmiotach sektora finansowego
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 23 kwietnia 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 kwietnia 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-04-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000566) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/566/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 23 kwietnia 2025 r.
+sprawie ogłoszenia jednolitego tekstu zasadach pozyskiwania informacji niekaralności osób ubiegających się zatrudnienie i osób zatrudnionych podmiotach sektora finansowego
 1. Na podstawie 16 ust. 1 zdanie pierwsze dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst dnia 12 kwietnia 2018 r. zasadach pozyskiwania informacji niekaralności osób ubiegających się zatrudnienie i osób zatrudnionych podmiotach sektora finansowego (Dz. U. 2024 r. poz. 580), uwzględnieniem zmiany wprowadzonej ustawą dnia 20 grudnia 2024 r. podmiotach obsługujących kredyty i nabywcach kredytów (Dz. U.
 2025 r. poz. 146) oraz zmian wynikających przepisów ogłoszonych przed dniem 15 kwietnia 2025 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity nie obejmuje 76 dnia 20 grudnia 2024 r. podmiotach obsługujących kredyty i nabywcach kredytów (Dz. U. 2025 r. poz. 146), który stanowi: „Art. 76. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, wyjątkiem:
@@ -67,7 +67,7 @@ zasadach pozyskiwania informacji niekaralności osób ubiegających się zatrudn
 - **5)** przedsiębiorstwo pomocniczych usług bankowych, którym mowa 4 ust. 1 12 dnia 29 sierpnia 1997 r. Prawo bankowe, mające siedzibę na terytorium państwa członkowskiego;
 - **6)** instytucja finansowa, której mowa 4 ust. 1 26 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 dnia 26 czerwca 2013 r. sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 27.06.2013, str. 1, późn. zm. ), zwanego dalej „rozporządzeniem 575/2013”, lub instytucja finansowa, której mowa 4 ust. 1 14 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2033 dnia 27 listopada 2019 r. sprawie wymogów ostrożnościowych dla firm inwestycyjnych oraz zmieniającego rozporządzenia (UE) nr 1093/2010, (UE) nr 575/2013, (UE) nr 600/2014 i (UE) nr 806/2014 (Dz. Urz. UE L 314
 
-05. 12.2019, str. 1, późn. zm. ), zwanego dalej „rozporządzeniem 2019/2033”, mające siedzibę na terytorium państwa członkowskiego; poz. 722 i 1863 oraz 2025 r. poz. 146), mające siedzibę na terytorium państwa członkowskiego;
+05. 12.2019, str. 1, późn. zm. ), zwanego dalej „rozporządzeniem 2019/2033”, mające siedzibę na terytorium państwa członkowskiego; mowa 110a ust. 1 6c dnia 29 lipca 2005 r. obrocie instrumentami finansowymi (Dz. U. 2024 r. poz. 722 i 1863 oraz 2025 r. poz. 146), mające siedzibę na terytorium państwa członkowskiego;
 
 - **7a)** finansowa spółka holdingowa, której mowa 4 ust. 1 20 rozporządzenia 575/2013, mająca siedzibę na terytorium państwa członkowskiego;
 - **7b)** finansowa spółka holdingowa działalności mieszanej, której mowa 4 ust. 1 21 rozporządzenia 575/2013, mająca siedzibę na terytorium państwa członkowskiego;
@@ -84,8 +84,7 @@ zasadach pozyskiwania informacji niekaralności osób ubiegających się zatrudn
 - **17)** instytucja pożyczkowa, której mowa 5 2a dnia 12 maja 2011 r. kredycie konsumenckim (Dz. U. 2024 r. poz. 1497 oraz 2025 r. poz. 146), mająca siedzibę na terytorium państwa członkowskiego lub Konfederacji Szwajcarskiej;
 - **18)** związek rewizyjny utworzony przez banki spółdzielcze, którym mowa 15 dnia 7 grudnia 2000 r. funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających (Dz. U. 2025 r. poz. 265);
 - **19)** jednostka zarządzająca systemem ochrony, której mowa 22d ust. 1 2 dnia 7 grudnia 2000 r. funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających;
-- **20)** agent rozliczeniowy, którym mowa 2 1a dnia 19 sierpnia 2011 r. usługach płatniczych (Dz. U. 2024 r. poz. 30, 731 i 1222 oraz 2025 r. poz. 146);
-- **21)** biuro usług płatniczych, którym mowa 2 2a dnia 19 sierpnia 2011 r. usługach płatniczych; niczych;
+- **20)** agent rozliczeniowy, którym mowa 2 1a dnia 19 sierpnia 2011 r. usługach płatniczych (Dz. U. 2024 r. poz. 30, 731 i 1222 oraz 2025 r. poz. 146); niczych;
 - **23)** organizacja płatnicza, której mowa 2 19c dnia 19 sierpnia 2011 r. usługach płatniczych, mająca siedzibę na terytorium państwa członkowskiego;
 - **24)** podmiot uczestniczący, którym mowa 2 22a dnia 19 sierpnia 2011 r. usługach płatniczych, mający siedzibę na terytorium państwa członkowskiego;
 - **25)** wydawca instrumentu płatniczego, którym mowa 2 35a dnia 19 sierpnia 2011 r. usługach płatniczych, mający siedzibę na terytorium państwa członkowskiego;
@@ -106,7 +105,7 @@ zasadach pozyskiwania informacji niekaralności osób ubiegających się zatrudn
 - **39)** oddział, którym mowa 3 ust. 1 22 dnia 11 września 2015 r. działalności ubezpieczeniowej i reasekuracyjnej;
 - **40)** zagraniczny zakład ubezpieczeń, którym mowa 3 ust. 1 55 dnia 11 września 2015 r. działalności ubezpieczeniowej i reasekuracyjnej, mający siedzibę na terytorium państwa członkowskiego;
 - **41)** zagraniczny zakład reasekuracji, którym mowa 3 ust. 1 56 dnia 11 września 2015 r. działalności ubezpieczeniowej i reasekuracyjnej, mający siedzibę na terytorium państwa członkowskiego;
-- **42)** zewnętrzna instytucja oceny wiarygodności kredytowej, której mowa 3 ust. 1 58 dnia 11 września 2015 r. działalności ubezpieczeniowej i reasekuracyjnej;
+- **42)** zewnętrzna instytucja oceny wiarygodności kredytowej, której mowa 3 ust. 1 58 dnia 11 września 2015 r. działalności ubezpieczeniowej i reasekuracyjnej; wej i reasekuracyjnej;
 - **44)** dominujący podmiot ubezpieczeniowy, którym mowa 3 ust. 1 5 dnia 11 września 2015 r. działalności ubezpieczeniowej i reasekuracyjnej;
 - **45)** mieszany dominujący podmiot ubezpieczeniowy, którym mowa 3 ust. 1 21 dnia 11 września 2015 r. działalności ubezpieczeniowej i reasekuracyjnej;
 - **46)** Krajowy Depozyt Papierów Wartościowych S.A., którym mowa 3 20 dnia 29 lipca 2005 r. obrocie instrumentami finansowymi;
@@ -127,7 +126,7 @@ zasadach pozyskiwania informacji niekaralności osób ubiegających się zatrudn
 - **61)** podmiot, którym mowa 9 ust. 3 4 dnia 26 października 2000 r. giełdach towarowych, prowadzący na podstawie zezwolenia Komisji Nadzoru Finansowego rachunki lub rejestry towarów giełdowych rozumieniu tej ustawy;
 - **62)** Polska Wytwórnia Papierów Wartościowych S.A.;
 - **63)** podmiot niebędący bankiem krajowym ani instytucją kredytową, których mowa 1 i 2, który prowadzi działalność gospodarczą zakresie udostępniania składników majątkowych na podstawie umowy leasingu;
-- **64)** dostawca usług finansowania społecznościowego, którym mowa 2 ust. 1 lit. e rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/1503 dnia 7 października 2020 r. sprawie europejskich dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych oraz zmieniającego rozporządzenie (UE) 2017/1129 i dyrektywę (UE) 2019/1937 (Dz. Urz. UE L 347 20.10.2020, str. 1);
+- **64)** dostawca usług finansowania społecznościowego, którym mowa 2 ust. 1 lit. e rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/1503 dnia 7 października 2020 r. sprawie europejskich dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych oraz zmieniającego rozporządzenie (UE) 2017/1129 i dyrektywę (UE) 2019/1937 (Dz. Urz. UE L 347 20.10.2020, str. 1); gujących kredyty i nabywcach kredytów (Dz. U. 2025 r. poz. 146).
 
 2. Podmiotami sektora finansowego rozumieniu są także:
 
@@ -272,9 +271,13 @@ zasadach pozyskiwania informacji niekaralności osób ubiegających się zatrudn
 
 1. Od dnia wejścia życie do dnia 30 września 2018 r. podmiotami sektora finansowego są także agent ubezpieczeniowy, którym mowa 7 dnia 22 maja 2003 r. pośrednictwie ubezpieczeniowym, oraz broker ubezpieczeniowy, którym mowa 20 tej ustawy.
 
-2. Od dnia wejścia życie do dnia 30 września 2018 r. uprawnienia i obowiązki podmiotu sektora finansowego przewidziane ustawie przysługują także podmiotowi, który świadczy usługi na rzecz podmiotów, których mowa ust. 1, tym że tym okresie przepisy stosuje się wyłącznie do osób ubiegających się zatrudnienie lub zatrudnionych tym podmiocie na stanowiskach związanych ze świadczeniem usług na rzecz podmiotów, których mowa ust. 1, jeżeli świadczenie tych usług jest związane wykonywaniem przez podmioty, których mowa ust. 1, odpowiednio działalności agencyjnej albo działalności brokerskiej. stały przez te podmioty przed dniem wejścia życie zakończone, stosuje się przepisy ustawy.
+2. Od dnia wejścia życie do dnia 30 września 2018 r. uprawnienia i obowiązki podmiotu sektora finansowego przewidziane ustawie przysługują także podmiotowi, który świadczy usługi na rzecz podmiotów, których mowa ust. 1, tym że tym okresie przepisy stosuje się wyłącznie do osób ubiegających się zatrudnienie lub zatrudnionych tym podmiocie na stanowiskach związanych ze świadczeniem usług na rzecz podmiotów, których mowa ust. 1, jeżeli świadczenie tych usług jest związane wykonywaniem przez podmioty, których mowa ust. 1, odpowiednio działalności agencyjnej albo działalności brokerskiej. poczęły wykonywanie czynności zmierzających do podjęcia decyzji sprawie ich zatrudnienia, jeżeli czynności te nie zostały przez te podmioty przed dniem wejścia życie zakończone, stosuje się przepisy ustawy.
 
 2. Przepisy stosuje się także do osób, które dniu wejścia życie są zatrudnione podmiotach sektora finansowego.
 
 **Art. 12.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia , wyjątkiem:
+
+- **1)** 2 ust. 2 21–25 i 3 ust. 1 47, które wchodzą życie dniem 1 października 2018 r.;
+- **2)** 3 ust. 1 48, który wchodzi życie dniem wejścia życie 156 i 157 dnia 1 marca 2018 r. przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.
+
 

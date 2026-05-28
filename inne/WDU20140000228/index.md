@@ -22,10 +22,22 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2013-12-12 |
 | Data wydania | 2014-02-20 |
+| Wejście w życie | 2014-04-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000228) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/228/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 13 października 1995 r. – Prawo łowieckie (Dz. U. z 2013 r. poz. 1226 i 1247) wprowadza się następujące zmiany:
+
+- **1)** w art. 32 w ust. 4 pkt 11 otrzymuje brzmienie: „
+- **11)** sankcje porządkowe za naruszenie obowiązków członkowskich; ” ;
+- **2)** w art. 32a w ust. 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 i 5 w brzmieniu: „
+- **4)** Główny Sąd Łowiecki i okręgowe sądy łowieckie jako organy orzekające w postępowaniu dyscyplinarnym;
+- **5)** Główny Rzecznik Dyscyplinarny i okręgowi rzecznicy dyscyplinarni jako organy prowadzące dochodzenia dyscyplinarne. ” ;
+- **3)** w art. 33 ust. 6 otrzymuje brzmienie: „
+
+6. W sprawach utraty członkostwa w kole łowieckim, nabycia lub utraty członkostwa w Polskim Związku Łowieckim po wyczerpaniu postępowania wewnątrzorganizacyjnego albo od orzeczeń i postanowień kończących postępowanie dyscyplinarne stronom postępowania przysługuje, w terminie 14 dni od otrzymania rozstrzygnięcia kończącego postępowanie, odwołanie do sądu okręgowego, z zastrzeżeniem art. 42da ust. 3. Od orzeczenia sądu okręgowego kasacja nie przysługuje. ” ;
+
+- **4)** po rozdziale 6 dodaje się rozdział 6a w brzmieniu: „
 
 #### Rozdział 6a Odpowiedzialność dyscyplinarna
 

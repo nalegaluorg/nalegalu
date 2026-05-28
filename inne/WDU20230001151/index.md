@@ -8,10 +8,10 @@ pos: 1151
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 czerwca 2023 r.
+# Wyrok Trybunału Konstytucyjnegoz dnia 13 czerwca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,10 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2023-06-13 |
 | Data wydania | 2023-06-20 |
+| Wejście w życie | 2023-06-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001151) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1151/text.pdf) |
 
-Poz. 11115511 WYROK TRYBUNAŁU KONSTYTUCYJNEGO z dnia 13 czerwca 2023 r.
-sygn. akt SK 83/19 Trybunał Konstytucyjny w składzie: Piotr Pszczółkowski – przewodniczący, Jarosław Wyrembak – sprawozdawca, Andrzej Zielonacki, po rozpoznaniu w trybie art. 92 ust. 1 pkt 1 ustawy z dnia 30 listopada 2016 r. o organizacji i trybie postępowania przed Trybunałem Konstytucyjnym (Dz. U. z 2019 r. poz. 2393), na posiedzeniu niejawnym w dniu 13 czerwca 2023 r., skargi konstytucyjnej Jakuba Szczepańskiego o zbadanie zgodności: § 16 ust. 1 pkt 2 rozporządzenia Ministra Sprawiedliwości z dnia 3 października 2016 r. w sprawie ponoszenia przez Skarb Państwa kosztów nieopłaconej pomocy prawnej udzielonej przez adwokata z urzędu (Dz. U. poz. 1714) z art. 7, art. 64 ust. 1 w związku z art. 31 ust. 3 i art. 92 ust. 1 Konstytucji, orzeka: § 16 ust. 1 pkt 2 rozporządzenia Ministra Sprawiedliwości z dnia 3 października 2016 r. w sprawie ponoszenia przez Skarb Państwa kosztów nieopłaconej pomocy prawnej udzielonej przez adwokata z urzędu (Dz. U. z 2019 r. poz. 18, ze zm.) jest niezgodny z art. 92 ust. 1 zdanie pierwsze w związku z art. 64 ust. 1 Konstytucji Rzeczypospolitej Polskiej.
-Ponadto postanawia: umorzyć postępowanie w pozostałym zakresie.
-Orzeczenie zapadło jednogłośnie.
-Piotr Pszczółkowski Jarosław Wyrembak Andrzej Zielonacki Poświadczono za zgodność z oryginałem.
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Piotr Pszczółkowski – przewodniczący, Jarosław Wyrembak – sprawozdawca, Andrzej Zielonacki, po rozpoznaniu w trybie art. 92 ust. 1 pkt 1 ustawy z dnia 30 listopada 2016 r. o organizacji i trybie postępowania przed Trybunałem Konstytucyjnym (Dz. U. z 2019 r. poz. 2393), na posiedzeniu niejawnym w dniu 13 czerwca 2023 r., skargi konstytucyjnej Jakuba Szczepańskiego o zbadanie zgodności: § 16 ust. 1 pkt 2 rozporządzenia Ministra Sprawiedliwości z dnia 3 października 2016 r. w sprawie ponoszenia przez Skarb Państwa kosztów nieopłaconej pomocy prawnej udzielonej przez adwokata z urzędu (Dz. U. poz. 1714) z art. 7, art. 64 ust. 1 w związku z art. 31 ust. 3 i art. 92 ust. 1 Konstytucji, orzeka: § 16 ust. 1 pkt 2 rozporządzenia Ministra Sprawiedliwości z dnia 3 października 2016 r. w sprawie ponoszenia przez Skarb Państwa kosztów nieopłaconej pomocy prawnej udzielonej przez adwokata z urzędu (Dz. U. z 2019 r. poz. 18, ze zm.) jest niezgodny z art. 92 ust. 1 zdanie pierwsze w związku z art. 64 ust. 1 Konstytucji Rzeczypospolitej Polskiej. Ponadto postanawia: umorzyć postępowanie w pozostałym zakresie. Orzeczenie zapadło jednogłośnie. Poświadczono za zgodność z oryginałem.
 

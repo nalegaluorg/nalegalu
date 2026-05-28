@@ -8,10 +8,10 @@ pos: 1686
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 listopada 2024 Poz. 1686 .........................., dnia ................
+# Rozporządzenie Ministra Zdrowiaz dnia 14 listopada 2024 r. zmieniające rozporządzenie w sprawie grzybów dopuszczonych do obrotu lub produkcji przetworów grzybowych, środków spożywczych zawierających grzyby oraz uprawnień klasyfikatora grzybów i grzyboznawcy
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,19 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-14 |
 | Data wydania | 2024-11-19 |
+| Wejście w życie | 2024-12-04 |
 | Ostatnia zmiana | 2026-03-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001686) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1686/text.pdf) |
 
-…........................................................
-............................................................
-............................................................
-(imię i nazwisko/nazwa (firma)/ i adres podmiotu prowadzącego działalność w zakresie przetwórstwa lub skupu grzybów) ATEST NA GRZYBY ŚWIEŻE Nr ...........
-Na podstawie § 5 ust. 1 rozporządzenia Ministra Zdrowia dnia 17 maja 2011 w sprawie dopuszczonych do obrotu lub produkcji przetworów grzybowych, środków spożywczych zawierających grzyby oraz uprawnień klasyfikatora i grzyboznawcy (Dz. U. 2023 poz. 2237 oraz 2024 poz. 1686) w wyniku oceny przeprowadzonej w dniu ................................................... o godz. ...............
-stwierdzam, że grzyby świeże gatunku ....................................................................................................
-....................................................................................................................................................................
-pochodzące okolic ...................................................................................................................................
-w ilości kg .............. (słownie: .................................................................................................................) pod względem zgodności gatunkowej i cech organoleptycznych nie budzą zastrzeżeń i nadają się do obrotu i przetwórstwa.
-Atest obejmuje partię badaną.
-........................................
-(pieczątka i podpis grzyboznawcy/klasyfikatora grzybów)
+Treść rozporządzenia
+Załącznik – Atest na grzyby świeże (wzór)
+Treść rozporządzenia
+Na podstawie art. 44 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2023 r. poz. 1448) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Ministra Zdrowia z dnia 17 maja 2011 r. w sprawie grzybów dopuszczonych do obrotu lub produkcji przetworów grzybowych, środków spożywczych zawierających grzyby oraz uprawnień klasyfikatora grzybów i grzyboznawcy (Dz. U. z 2023 r. poz. 2237) załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
+Załącznik – Atest na grzyby świeże (wzór)
+patrz oryginał
 

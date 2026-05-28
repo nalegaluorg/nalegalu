@@ -8,10 +8,10 @@ pos: 240
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, jest przyjęta, ratyfikowana i potwierdzona, będzie niezmiennie zachowywana.
+# Umowasporządzona w Brukseli dnia 6 października 2010 r. o wolnym handlu między Unią Europejską i jej państwami członkowskimi, z jednej strony, a Republiką Korei, z drugiej strony
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,14 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2012-04-24 |
 | Data wydania | 2016-02-26 |
+| Wejście w życie | 2015-12-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000240) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/240/text.pdf) |
 
-Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
-Dano w Warszawie dnia 24 kwietnia 2012 r.
-Prezydent Rzeczypospolitej Polskiej: B. Komorowski L.S.
+Treść umowy
+Dodatek – Tekst załącznika w języku angielskim
+Treść umowy
+W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: Dnia 6 października 2010 r. w Brukseli została sporządzona Umowa o wolnym handlu między Unią Europejską i jej państwami członkowskimi, z jednej strony, a Republiką Korei, z drugiej strony, w następującym brzmieniu: UMOWA O WOLNYM HANDLU MIĘDZY UNIĄ EUROPEJSKĄ I JEJ PAŃSTWAMI CZŁONKOWSKIMI, Z JEDNEJ STRONY, A REPUBLIKĄ KOREI, Z DRUGIEJ STRONY patrz oryginał
+Dodatek – Tekst załącznika w języku angielskim
+patrz oryginał
 

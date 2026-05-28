@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o zwalczaniu nieuczciwej konkurencji
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 stycznia 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 stycznia 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-01-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000085) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/85/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 stycznia 2026 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o zwalczaniu nieuczciwej konkurencji
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2022 r. poz. 1233), z uwzględnieniem zmian wprowadzonych ustawą z dnia 9 maja 2025 r. o zmianie niektórych ustaw celu zapewnienia stosowania przepisów prawa Unii Europejskiej poprawiających funkcjonowanie rynku wewnętrznego (Dz. U. poz. 794) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 stycznia 2026 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 5 i art. 6 ustawy z dnia 9 maja 2025 r. o zmianie niektórych ustaw celu zapewnienia stosowania przepisów prawa Unii Europejskiej poprawiających funkcjonowanie rynku wewnętrznego (Dz. U. poz. 794), które stanowią: „Art. 5. Minister właściwy do spraw gospodarki przekazuje Komisji Europejskiej listę, o której mowa art. 19a ustawy zmienianej art. 1, nie później niż terminie 7 dni od dnia dokonania pierwszego wpisu na tę listę.
 
@@ -174,6 +174,10 @@ source: "isap-pdf"
 
 **Art. 15a.** Czynem nieuczciwej konkurencji polegającym na przekupstwie osoby pełniącej funkcję publiczną jest określone art. 229 Kodeksu karnego zachowanie osoby fizycznej:
 
+- **1)** będącej przedsiębiorcą;
+- **2)** działającej na rzecz przedsiębiorcy ramach uprawnienia do jego reprezentowania albo podejmowania jego imieniu decyzji lub wykonywania nad nim kontroli;
+- **3)** działającej na rzecz przedsiębiorcy, za zgodą osoby, o której mowa pkt 2.
+
 **Art. 15b.**
 
 1. Czynem nieuczciwej konkurencji jest wytwarzanie, import, dystrybucja, sprzedaż, najem lub oddawanie do używania pod innym tytułem prawnym oraz posiadanie, celach zarobkowych, urządzeń niedozwolonych, rozumieniu przepisów o ochronie niektórych usług świadczonych drogą elektroniczną opartych lub polegających na dostępie warunkowym.
@@ -241,6 +245,11 @@ source: "isap-pdf"
 2. Czynem nieuczciwej konkurencji jest nieusunięcie albo niedokonanie przez biuro informacji gospodarczej aktualizacji informacji gospodarczej przypadkach, gdy ustawa, o której mowa ust. 1, nakłada na biuro obowiązek usunięcia albo aktualizacji tej informacji.
 
 **Art. 17g.** Czynem nieuczciwej konkurencji jest nieuzasadnione wydłużanie terminów zapłaty za dostarczone towary lub wykonane usługi, polegające szczególności na:
+
+- **1)** naruszeniu przepisów ustawy z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom transakcjach handlowych (Dz. U. z 2023 r. poz. 1790);
+- **2)** rażącym odstępstwie od dobrych praktyk handlowych, które narusza zasadę działania dobrej wierze i zasadę rzetelności;
+- **3)** niedostosowaniu do harmonogramu dostawy towarów lub harmonogramu wykonania usługi;
+- **4)** nieuwzględnieniu właściwości towaru lub usługi, które są przedmiotem umowy.
 
 **Art. 17h.**
 

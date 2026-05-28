@@ -2,11 +2,10 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 22 kwietnia 2005 r. o zmianie ustawy o Straży Granicznej oraz niektórych innych ustaw*
 
-Łącznie: **4** orzeczeń
+Łącznie: **3** orzeczeń
 
-## art. 1 (3)
+## art. 1 (2)
 
-- 2011-04-07 | TK | [K 4/09](https://www.saos.org.pl/judgments/110259) | Wyrok ★
 - 2007-03-19 | TK | [K 47/05](https://www.saos.org.pl/judgments/108090) | Wyrok ★
 - 2008-02-28 | TK | [Tw 41/07](https://www.saos.org.pl/judgments/108951) | Postanowienie ★
 

@@ -8,10 +8,10 @@ pos: 16
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ Warszawa, dnia 4 Poz.
+# Rozporządzenie Ministra Infrastrukturyz dnia 20 grudnia 2018 r. w sprawie określenia wzoru formularza do przekazywania danych dotyczących kontroli mas pojazdów lub zespołów pojazdów
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,19 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-20 |
 | Data wydania | 2019-01-04 |
+| Wejście w życie | 2019-01-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000016) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/16/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 20 grudnia w sprawie określenia wzoru formularza do przekazywania lub zespołów Na podstawie art. 90a ust. 5 ustawy z dnia 6 września 2001 z późn. zm. ) zarządza się, co następuje: § 1. Określa się wzór formularza do przekazywania przez 6 września 2001 r. o transporcie drogowym, danych dotyczących nego Inspektora Transportu Drogowego albo przez Głównego stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym Minister Infrastruktury kieruje działem administracji rządowej – Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone M W M W W W ………………………… ……… … ……… … … …… ……… m M M M ,wódzajop abzcil wódzajop ilortnok hcynozdaworpezrp abzcil hcyrótk w otyrkyw hcyrótk w ,wódzajop abzcil wódzajop ilortnok hcynozdaworpezrp abzcil aineżąicezrp otyrkyw hcyrótk w ,wódzajop abzcil wódzajop ilortnok hcynozdaworpezrp abzcil aineżąicezrp otyrkyw hcyrótk w ,wódzajop abzcil wódzajop ilortnok hcynozdaworpezrp abzcil aineżąicezrp otyrkyw aineżąicezrp aineżąicezrp otyrkyw hcyrótk w ,wódzajop wółopsez i wódzajop abzcil wódzajop wółopsez i wódzajop ilortnok hcynozdaworpezrp abzcil aineżąicezrp otyrkyw hcyrótk w ,wódzajop wółopsez abzcil wódzajop wółopsez ilortnok hcynozdaworpezrp abzcil
+Treść rozporządzenia
+Załącznik – Formularz do przekazywania danych dotyczących kontroli mas pojazdów lub zespołów pojazdów (wzór)
+Treść rozporządzenia
+Na podstawie art. 90a ust. 5 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2017 r. poz. 2200, z późn. zm.) zarządza się, co następuje:
+§ 1.
+Określa się wzór formularza do przekazywania przez organy, o których mowa w art. 90a ust. 2b ustawy z dnia 6 września 2001 r. o transporcie drogowym, danych dotyczących kontroli mas pojazdów lub zespołów pojazdów do Głównego Inspektora Transportu Drogowego albo przez Głównego Inspektora Transportu Drogowego do Komisji Europejskiej, stanowiący załącznik do rozporządzenia.
+§ 2.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 11 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 101 i 176). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 12, 79, 138, 650, 1039, 1480, 1481, 1544, 1592, 1629 i 2245.
+Załącznik – Formularz do przekazywania danych dotyczących kontroli mas pojazdów lub zespołów pojazdów (wzór)
+patrz oryginał
 

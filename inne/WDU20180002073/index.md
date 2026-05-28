@@ -8,12 +8,10 @@ pos: 2073
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o spółdzielniach rolników
-
-*USTAWA z dnia 4 października 2018 r.*
+# Ustawa z dnia 4 października 2018 r. o spółdzielniach rolników
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,14 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-10-04 |
 | Data wydania | 2018-10-31 |
+| Wejście w życie | 2018-12-01 |
 | Ostatnia zmiana | 2025-04-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002073) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2073/text.pdf) |
 
-Art. 19–24. (pominięte)
+9.
+Straty bilansowe spółdzielni rolników pokrywa się z funduszu zasobowego, a w części przekraczającej fundusz zasobowy – z innych funduszy własnych spółdzielni rolników, z wyłączeniem funduszu wzajemnościowego, w sposób i na warunkach określonych w statucie.
+10.
+Jeżeli straty poniesione w roku obrotowym nie mogły zostać pokryte w sposób określony w ust. 9, mogą zostać pokryte w kolejno po sobie następujących pięciu latach obrotowych.
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -35,20 +37,31 @@ Art. 19–24. (pominięte)
 
 **Art. 2.** Spółdzielnia rolników prowadzi działalność na podstawie niniejszej ustawy oraz zarejestrowanego statutu.
 
-**Art. 3.** W sprawach nieuregulowanych przepisami niniejszej ustawy do spółdzielni rolników stosuje się przepisy ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2024 r. poz. 593), zwanej dalej „ustawą – Prawo spółdzielcze”.
+**Art. 3.** W sprawach nieuregulowanych przepisami niniejszej ustawy do spółdzielni rolników stosuje się przepisy ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2018 r. poz. 1285), zwanej dalej „ustawą – Prawo spółdzielcze”.
 
 **Art. 4.**
 
 1. Spółdzielnia rolników jest dobrowolnym zrzeszeniem osób fizycznych lub prawnych:
 
 - **1)** prowadzących gospodarstwo rolne w rozumieniu przepisów o podatku rolnym lub prowadzących działalność rolniczą w zakresie działów specjalnych produkcji rolnej, będących producentami produktów rolnych lub grup tych produktów lub prowadzących chów lub hodowlę ryb, zwanych dalej „rolnikami”,
-- **2)** niebędących rolnikami, prowadzących działalność w zakresie przechowywania, magazynowania, sortowania, pakowania lub przetwarzania produktów rolnych lub grup tych produktów, lub ryb, wytworzonych przez rolników, o których mowa w pkt 1, lub działalność usługową wspomagającą rolnictwo obejmującą świadczenie na rzecz rolników, o których mowa w pkt 1, usług z wykorzystaniem maszyn, narzędzi lub urządzeń służących do wytwarzania przez tych rolników produktów rolnych lub grup tych produktów, lub ryb, zwanych dalej „podmiotami niebędącymi rolnikami” – o zmiennym składzie osobowym i zmiennym funduszu udziałowym, które w interesie swoich członków prowadzi wspólną działalność gospodarczą.
+- **2)** niebędących rolnikami, prowadzących działalność w zakresie przechowywania, magazynowania, sortowania, pakowania lub przetwarzania produktów rolnych lub grup tych produktów, lub ryb, wytworzonych przez rolników, o których mowa w pkt 1, lub działalność usługową wspomagającą rolnictwo obejmującą świadczenie na rzecz rolników, o których mowa w pkt 1, usług z wykorzystaniem maszyn, narzędzi lub urządzeń służących do wytwarzania przez tych rolników produktów rolnych lub grup tych produktów, lub ryb, zwanych dalej „podmiotami niebędącymi rolnikami” o zmiennym składzie osobowym i zmiennym funduszu udziałowym, które w interesie swoich członków prowadzi wspólną działalność gospodarczą.
 
 2. Spółdzielnia rolników jest zakładana ze względu na produkty rolne lub grupy tych produktów, lub ryby, zwane dalej „produktami lub grupami produktów”, których wykaz określają przepisy wydane na podstawie art. 6 ust. 6.
 
 3. Nazwa spółdzielni rolników zawiera oznaczenie „Spółdzielnia Rolników”.
 
 **Art. 5.** Poza postanowieniami określonymi w art. 5 § 1 ustawy – Prawo spółdzielcze, statut spółdzielni rolników, zwany dalej „statutem”, zawiera co najmniej:
+
+- **1)** warunki przyjmowania do spółdzielni rolników członków będących rolnikami oraz podmiotów niebędących rolnikami;
+- **2)** wskazanie minimalnego okresu członkostwa w spółdzielni rolników, który nie może być krótszy niż rok obrotowy;
+- **3)** wskazanie terminu składania przez członka spółdzielni rolników informacji o zamiarze wystąpienia ze spółdzielni rolników, który nie może upływać później niż 3 miesiące przed końcem roku obrotowego;
+- **4)** zasady i zakres dostarczania przez członków spółdzielni rolników, w zakresie prowadzonej przez nich działalności, informacji dotyczących w szczególności: powierzchni uprawy, plonów oraz wielkości produkcji produktów lub grup produktów;
+- **5)** obowiązujące członków spółdzielni rolników będących rolnikami zasady produkcji produktów lub grup produktów, w tym dotyczące ich jakości i ilości, oraz sposoby ich przygotowywania do zbycia;
+- **6)** zasady użytkowania, dzierżawy lub najmu przez spółdzielnię rolników wkładów niepieniężnych oraz sposób ustalania odpłatności za ich użytkowanie, dzierżawę lub najem;
+- **7)** rodzaj i zakres odpowiedzialności członków spółdzielni rolników;
+- **8)** sankcje wobec członka spółdzielni rolników, który nie wypełnia nałożonych na niego obowiązków statutowych lub nie spełnia wymogów określonych w ustawie, w tym przyczyny wykluczenia i wykreślenia członka spółdzielni rolników z tej spółdzielni;
+- **9)** szczegółowy sposób i warunki podziału nadwyżki bilansowej i pokrywania strat;
+- **10)** zasady ustalania liczby głosów przysługujących członkom spółdzielni rolników będącym osobami prawnymi – w przypadku niestosowania zasady, o której mowa w art. 36 § 2 zdanie pierwsze ustawy – Prawo spółdzielcze.
 
 #### Rozdział 2 Tworzenie, organizacja, przedmiot działalności i członkowie spółdzielni rolników
 
@@ -69,13 +82,9 @@ Art. 19–24. (pominięte)
 - **5)** upowszechniania wśród swoich członków korzystnych dla środowiska metod uprawy, technologii produkcji lub metod gospodarki odpadami;
 - **6)** prowadzenia działalności usługowej na rzecz swoich członków innej niż świadczenie usług, o których mowa w pkt 3.
 
-3. Spółdzielnia rolników może prowadzić również działalność:
+3. Spółdzielnia rolników może prowadzić również działalność społeczną i oświatowo-kulturalną na rzecz swoich członków i ich środowiska.
 
-- **1)** społeczną i oświatowo-kulturalną na rzecz swoich członków i ich środowiska;
-- **2)** jako obywatelska społeczność energetyczna, o której mowa w przepisach ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, 834, 859, 1847 i 1881 oraz z 2025 r. poz. 303);
-- **3)** w zakresie wytwarzania energii elektrycznej lub biogazu, lub biogazu rolniczego, lub biometanu, lub ciepła ze źródeł odnawialnych w instalacjach odnawialnego źródła energii, obrotu nimi lub ich magazynowania, dokonywanego w ramach działalności prowadzonej wyłącznie na rzecz tej spółdzielni oraz jej członków.
-
-4. Przychody z prowadzenia działalności, o których mowa w ust. 2 pkt 6 oraz ust. 3 pkt 1, nie mogą łącznie przekroczyć 25 % przychodów spółdzielni rolników uzyskanych w danym roku obrotowym.
+4. Przychody z prowadzenia działalności, o których mowa w ust. 2 pkt 6 oraz ust. 3, nie mogą łącznie przekroczyć 25% przychodów spółdzielni rolników uzyskanych w danym roku obrotowym.
 
 5. Każdy z członków spółdzielni rolników może przynależeć do jednej spółdzielni rolników w zakresie określonych produktów lub grup produktów.
 
@@ -89,7 +98,7 @@ Art. 19–24. (pominięte)
 
 3. Spółdzielnia rolników nie może odmówić przyjęcia w poczet członków rolnika albo podmiotu niebędącego rolnikiem, jeżeli spełnia on wymagania określone w ustawie oraz w statucie.
 
-4. Jeżeli członkami spółdzielni rolników są wyłącznie osoby prawne, a statut określa inną zasadę ustalania liczby głosów niż określona w art. 36 § 2 zdanie pierwsze ustawy – Prawo spółdzielcze, żaden z członków nie może mieć więcej niż 20 % ogólnej liczby głosów na walnym zgromadzeniu, także pośrednio:
+4. Jeżeli członkami spółdzielni rolników są wyłącznie osoby prawne, a statut określa inną zasadę ustalania liczby głosów niż określona w art. 36 § 2 zdanie pierwsze ustawy – Prawo spółdzielcze, żaden z członków nie może mieć więcej niż 20% ogólnej liczby głosów na walnym zgromadzeniu, także pośrednio:
 
 - **1)** przez dysponowanie bezpośrednio lub pośrednio większością głosów na walnym zgromadzeniu, zgromadzeniu wspólników albo walnym zebraniu członków, także jako zastawnik albo użytkownik, bądź w zarządzie innej osoby prawnej będącej członkiem spółdzielni rolników, także na podstawie porozumień z innymi osobami;
 - **2)** jeżeli członkowie zarządu osoby prawnej będącej członkiem spółdzielni rolników stanowią więcej niż połowę członków zarządu innej osoby prawnej będącej członkiem spółdzielni rolników.
@@ -109,6 +118,9 @@ Art. 19–24. (pominięte)
 #### Rozdział 3 Zasady działania i gospodarka spółdzielni rolników
 
 **Art. 10.** Statut może stanowić, że wysokość wpisowego wynosi:
+
+- **1)** określoną kwotę albo
+- **2)** iloraz określonej w statucie części ułamkowej funduszu zasobowego spółdzielni rolników i liczby członków spółdzielni rolników – według stanu na koniec roku kalendarzowego bezpośrednio poprzedzającego rok przystąpienia członka do spółdzielni rolników.
 
 **Art. 11.**
 
@@ -142,8 +154,8 @@ Art. 19–24. (pominięte)
 2. Spółdzielnia rolników tworzy zasadnicze fundusze własne:
 
 - **1)** fundusz udziałowy, na który składają się wpłaty udziałów członkowskich;
-- **2)** fundusz zasobowy, na który składają się wpłaty wpisowego dokonane przez członków oraz nie mniej niż 10 % nadwyżki bilansowej;
-- **3)** fundusz wzajemnościowy, na który składają się wpłaty w wysokości nie mniejszej niż 3 % nadwyżki bilansowej.
+- **2)** fundusz zasobowy, na który składają się wpłaty wpisowego dokonane przez członków oraz nie mniej niż 10% nadwyżki bilansowej;
+- **3)** fundusz wzajemnościowy, na który składają się wpłaty w wysokości nie mniejszej niż 3% nadwyżki bilansowej.
 
 3. Spółdzielnia rolników może tworzyć inne fundusze własne przewidziane w odrębnych przepisach lub w jej statucie.
 
@@ -155,11 +167,9 @@ Art. 19–24. (pominięte)
 
 7. Środki pieniężne zgromadzone na rachunku funduszu wzajemnościowego przeznacza się na rozwój i promocję spółdzielni rolników.
 
-8. Część nadwyżki bilansowej pozostałej po dokonaniu odpisów na fundusze, o których mowa w ust. 2, przeznacza się na cele wskazane w uchwale walnego zgromadzenia.
+8.
 
-9. Straty bilansowe spółdzielni rolników pokrywa się z funduszu zasobowego, a w części przekraczającej fundusz zasobowy – z innych funduszy własnych spółdzielni rolników, z wyłączeniem funduszu wzajemnościowego, w sposób i na warunkach określonych w statucie.
-
-10. Jeżeli straty poniesione w roku obrotowym nie mogły zostać pokryte w sposób określony w ust. 9, mogą zostać pokryte w kolejno po sobie następujących pięciu latach obrotowych.
+## Część nadwyżki bilansowej pozostałej po dokonaniu odpisów na fundusze, o których mowa w ust. 2, przeznacza się na cele wskazane w uchwale walnego zgromadzenia.
 
 **Art. 14.** Walne zgromadzenie spółdzielni rolników może przeznaczyć część nadwyżki bilansowej spółdzielni rolników na oprocentowanie wniesionych udziałów. Wysokość oprocentowania nie może przekroczyć najwyższej w danym roku kalendarzowym wysokości stopy redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski powiększonej o maksymalnie trzy punkty procentowe. Zasady ustalania wysokości oprocentowania i sposób jego wypłaty określa statut.
 
@@ -199,7 +209,68 @@ Art. 19–24. (pominięte)
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących i przepisy końcowe
 
-**Art. 25.** Zwolnienia, o których mowa w art. 20 , art. 21 i art. 23 pkt 2, stanowią pomoc:
+**Art. 19.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2018 r. poz. 1025, 1104 i 1629) w art. 613 § 4 otrzymuje brzmienie: „§ 4. Przez producenta rolnego rozumie się również grupę producentów rolnych lub ich związek oraz spółdzielnię rolników w rozumieniu ustawy z dnia 4 października 2018 r. o spółdzielniach rolników (Dz. U. poz. 2073) lub ich związek.”.
 
-**Art. 26.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia , z wyjątkiem art. 21, który wchodzi w życie z dniem 1 stycznia 2019 r.
+**Art. 20.** W ustawie z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2018 r. poz. 644 i 1629) w art. 4 w ust. 1 pkt 3 otrzymuje brzmienie: „3) nabycie praw do wkładów w spółdzielni rolników, rolniczej spółdzielni produkcyjnej lub w spółdzielni kółek rolniczych;”.
+
+**Art. 21.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2018 r. poz. 1445, 1588, 1669, 1693 i 1722) w art. 7 w ust. 1 w pkt 15 kropkę zastępuje się średnikiem i dodaje się pkt 16 w brzmieniu: „16) budynki i budowle lub ich części oraz zajęte pod nie grunty, wykorzystywane przez spółdzielnię rolników lub związek spółdzielni rolników na działalność określoną w art. 6 ust. 1 i 2 ustawy z dnia 4 października 2018 r. o spółdzielniach rolników (Dz. U. poz. 2073), stanowiące własność albo będące w wieczystym użytkowaniu spółdzielni rolników lub związku spółdzielni rolników, które prowadzą działalność jako mikroprzedsiębiorstwo w rozumieniu załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.).”.
+
+**Art. 22.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, 1540, 1552, 1629, 1669 i 1693) wprowadza się następujące zmiany:
+
+- **1)** w art. 9 ust. 6 otrzymuje brzmienie: „
+
+6. Przepis ust. 3 ma zastosowanie do strat z odpłatnego zbycia udziałów (akcji) w spółce, udziałów w spółdzielni, papierów wartościowych, w tym z odpłatnego zbycia papierów wartościowych na rynku regulowanym w ramach krótkiej sprzedaży i odpłatnego zbycia pochodnych instrumentów finansowych oraz z realizacji praw z nich wynikających, a także z tytułu objęcia udziałów (akcji) w spółce albo wkładów w spółdzielni, w zamian za wkład niepieniężny w postaci innej niż przedsiębiorstwo lub jego zorganizowana część. ” ;
+
+- **2)** w art. 17: w ust. 1 w pkt 6 lit. a otrzymuje brzmienie: „ odpłatnego zbycia udziałów (akcji), udziałów w spółdzielni oraz papierów wartościowych, ” , w ust. 1ab pkt 1 otrzymuje brzmienie: „
+    - **a)**
+    - **a)**
+    - **b)**
+
+- **1)** z odpłatnego zbycia udziałów (akcji), udziałów w spółdzielni oraz papierów wartościowych powstaje w momencie przeniesienia na nabywcę własności udziałów (akcji), udziałów w spółdzielni oraz papierów wartościowych; ” ;
+- **3)** w art. 21 w ust. 1 pkt 105 otrzymuje brzmienie: „
+- **105)** dochód uzyskany ze zbycia udziałów w spółce kapitałowej, udziałów w spółdzielni, papierów wartościowych oraz tytułów uczestnictwa w funduszach kapitałowych, otrzymanych w drodze darowizny – w części odpowiadającej kwocie zapłaconego podatku od spadków i darowizn; ” ;
+- **4)** w art. 22 ust. 1m otrzymuje brzmienie: „
+
+1m. W przypadku odpłatnego zbycia udziałów w spółce kapitałowej, udziałów w spółdzielni oraz papierów wartościowych, wykupu przez emitenta papierów wartościowych albo odkupienia (umorzenia) tytułów uczestnictwa w funduszach kapitałowych, a także zwrotu wkładów albo udziałów w spółdzielni, nabytych przez podatnika w drodze spadku, kosztami uzyskania przychodu są wydatki poniesione przez spadkodawcę w celu objęcia lub nabycia tych udziałów w spółce kapitałowej oraz papierów wartościowych, udziałów albo wkładów w spółdzielni, a także na nabycie tych tytułów uczestnictwa w funduszach kapitałowych. ” ;
+
+- **5)** w art. 23 w ust. 1: pkt 38 otrzymuje brzmienie: „
+    - **a)**
+
+- **38)** wydatków na objęcie lub nabycie udziałów albo wkładów w spółdzielni, udziałów (akcji) oraz papierów wartościowych, a także wydatków na nabycie tytułów uczestnictwa w funduszach kapitałowych; wydatki takie są jednak kosztem uzyskania przychodu z odpłatnego zbycia tych udziałów w spółdzielni, udziałów (akcji) oraz papierów wartościowych, w tym z tytułu wykupu przez emitenta papierów wartościowych, a także z odkupienia albo umorzenia tytułów uczestnictwa w funduszach kapitałowych, z zastrzeżeniem ust. 3e; ” , pkt 38b otrzymuje brzmienie: „
+    - **b)**
+
+- **38b)** zapłaconych odsetek i prowizji od kredytu, za który nabyto papiery wartościowe, udziały (akcje), udziały w spółdzielni lub pochodne instrumenty finansowe, przypadających proporcjonalnie na tę część kredytu, która nie została wydatkowana na nabycie tych papierów wartościowych, udziałów (akcji), udziałów w spółdzielni lub pochodnych instrumentów finansowych; ” ;
+- **6)** w art. 30b: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Od dochodów uzyskanych z odpłatnego zbycia papierów wartościowych lub pochodnych instrumentów finansowych, w tym z realizacji praw wynikających z tych instrumentów, z odpłatnego zbycia udziałów (akcji), z odpłatnego zbycia udziałów w spółdzielni oraz z tytułu objęcia udziałów (akcji) albo wkładów w spółdzielni w zamian za wkład niepieniężny w postaci innej niż przedsiębiorstwo lub jego zorganizowana część, podatek dochodowy wynosi 19% uzyskanego dochodu. ” , w ust. 2 pkt 4 otrzymuje brzmienie: „
+
+- **b)**
+- **4)** różnica między sumą przychodów uzyskanych z odpłatnego zbycia udziałów (akcji) albo udziałów w spółdzielni a kosztami uzyskania przychodów określonymi na podstawie art. 22 ust. 1f oraz art. 23 ust. 1 pkt 38 i 38c, ” , ust. 4 otrzymuje brzmienie: „
+    - **c)**
+
+4. Przepisu ust. 1 nie stosuje się, jeżeli odpłatne zbycie udziałów (akcji), udziałów w spółdzielni, papierów wartościowych i pochodnych instrumentów finansowych oraz realizacja praw z nich wynikających następuje w wykonywaniu działalności gospodarczej. ” , ust. 6 otrzymuje brzmienie: „
+
+- **d)**
+
+6. Po zakończeniu roku podatkowego podatnik jest obowiązany w zeznaniu podatkowym, o którym mowa w art. 45 ust. 1a pkt 1, wykazać dochody uzyskane w roku podatkowym z odpłatnego zbycia papierów wartościowych, w tym również dochody, o których mowa w art. 24 ust. 14, dochody z odpłatnego zbycia pochodnych instrumentów finansowych, a także dochody z realizacji praw z nich wynikających, z odpłatnego zbycia udziałów (akcji), odpłatnego zbycia udziałów w spółdzielni, oraz z tytułu objęcia udziałów (akcji) w spółce albo wkładów w spółdzielniach, w zamian za wkład niepieniężny w postaci innej niż przedsiębiorstwo lub jego zorganizowana część, i obliczyć należny podatek dochodowy. ” .
+
+**Art. 23.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2018 r. poz. 1036, 1162, 1291, 1629, 1669 i 1693) wprowadza się następujące zmiany:
+
+- **1)** w art. 16 w ust. 1 pkt 8 otrzymuje brzmienie: „
+- **8)** wydatków na objęcie lub nabycie udziałów albo wkładów w spółdzielni, udziałów (akcji) oraz papierów wartościowych, a także wydatków na nabycie tytułów uczestnictwa w funduszach kapitałowych; wydatki takie są jednak kosztem uzyskania przychodu z odpłatnego zbycia tych udziałów w spółdzielni, udziałów (akcji) oraz papierów wartościowych, w tym z tytułu wykupu przez emitenta papierów wartościowych, a także z odkupienia albo umorzenia tytułów uczestnictwa w funduszach kapitałowych, z zastrzeżeniem ust. 7e; ” ;
+- **2)** w art. 17 w ust. 1 po pkt 49 dodaje się pkt 49a w brzmieniu: „
+- **49a)** dochody spółdzielni rolników w rozumieniu ustawy z dnia 4 października 2018 r. o spółdzielniach rolników (Dz. U. poz. 2073) prowadzącej działalność jako mikroprzedsiębiorstwo w rozumieniu załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), pochodzące ze zbycia produktów rolnych lub grup tych produktów, lub ryb, ze względu na które spółdzielnia rolników została założona, wyprodukowanych w gospodarstwach lub działach specjalnych produkcji rolnej jej członków; ” .
+
+**Art. 24.** W ustawie z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2017 r. poz. 2137 oraz z 2018 r. poz. 1669) w art. 4 w ust. 1 pkt 4 otrzymuje brzmienie: „
+
+- **4)** powstawania i rozwoju grup producentów rolnych lub ich związków oraz spółdzielni rolników w rozumieniu ustawy z dnia 4 października 2018 r. o spółdzielniach rolników (Dz. U. poz. 2073) lub ich związków; ” .
+
+**Art. 25.** Zwolnienia, o których mowa w art. 20, art. 21 i art. 23 pkt 2, stanowią pomoc:
+
+- **1)** de minimis , o której mowa w rozporządzeniu Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1) – w przypadku gdy pomoc jest udzielana podmiotom prowadzącym działalność gospodarczą inną niż produkcja rolna;
+- **2)** de minimis w rolnictwie, o której mowa w rozporządzeniu Komisji (UE) nr 1408/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis w sektorze rolnym (Dz. Urz. UE L 352 z 24.12.2013, str. 9) – w przypadku gdy pomoc jest udzielana podmiotom prowadzącym produkcję rolną;
+- **3)** de minimis , o której mowa w rozporządzeniu Komisji (UE) nr 717/2014 z dnia 27 czerwca 2014 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis w sektorze rybołówstwa i akwakultury (Dz. Urz. UE L 190 z 28.06.2014, str. 45) – w przypadku gdy pomoc jest udzielana podmiotom prowadzącym działalność w zakresie przetwórstwa i wprowadzania do obrotu ryb, wytworzonych przez rolników.
+
+**Art. 26.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 21, który wchodzi w życie z dniem 1 stycznia 2019 r.
 

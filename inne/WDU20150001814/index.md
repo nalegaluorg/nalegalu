@@ -22,10 +22,17 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-25 |
 | Data wydania | 2015-11-06 |
+| Wejście w życie | 2015-11-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001814) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1814/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2015 r. poz. 149, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 108 po ust. 1i dodaje się ust. 1j w brzmieniu: „
+
+1j. Ze środków Funduszu Pracy w latach 2016–2017 są finansowane koszty, o których mowa w art. 150f i art. 150g. ” ;
+
+- **2)** po art. 150e dodaje się art. 150f i art. 150g w brzmieniu: „
 
 **Art. 150f.**
 

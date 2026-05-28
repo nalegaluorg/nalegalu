@@ -8,12 +8,10 @@ pos: 334
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Prawo o ustroju sądów powszechnych
-
-*USTAWA z dnia 27 lipca 2001 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 9 lutego 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy – Prawo o ustroju sądów powszechnych
 
 | Pole | Wartość |
 |---|---|
@@ -27,9 +25,494 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-04-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000334) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/334/text.pdf) |
 
-Art. 180–195. (pominięte)
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych Dział I – Sądy powszechne Rozdział 1 – Przepisy ogólne Rozdział 2 – Organizacja sądów Rozdział 3 – Organy sądów Rozdział 4 – Samorząd sędziowski Rozdział 5 – Wewnętrzny i zewnętrzny nadzór administracyjny nad działalnością administracyjną sądów w zakresie zapewnienia właściwego toku wewnętrznego urzędowania sądu związanego bezpośrednio ze sprawowaniem wymiaru sprawiedliwości oraz wykonywaniem innych zadań z zakresu ochrony prawnej Rozdział 5a – Tryb rozpatrywania skarg i wniosków Rozdział 6 – Ogólne przepisy o czynnościach sądów Dział II – Sędziowie i asesorzy sądowi Rozdział 1 – Powołanie do pełnienia urzędu na stanowisku sędziowskim Rozdział 1a – Status sędziego Rozdział 2 – Prawa i obowiązki sędziów Rozdział 2a Rozdział 2b – Asesorzy sądowi Rozdział 3 – Odpowiedzialność dyscyplinarna sędziów i asesorów sądowych Dział III Dział IV – Referendarze sądowi, kuratorzy sądowi, pracownicy sądów, stali mediatorzy, ławnicy oraz organy pomocnicze sądów Rozdział 1 – Przepisy ogólne Rozdział 2 – Referendarze sądowi Rozdział 3 – Kuratorzy sądowi Rozdział 4 – Asystenci sędziów Rozdział 5 – Urzędnicy i inni pracownicy sądowi Rozdział 6 – Biegli Rozdział 6a – Stali mediatorzy Rozdział 7 – Ławnicy Dział IVa – Przetwarzanie danych osobowych, telekomunikacyjnych, pocztowych i internetowych oraz informatyzacja sądownictwa powszechnego Dział V – Finansowanie działalności sądów powszechnych Rozdział 1 – Budżet sądownictwa Rozdział 2 – Gospodarka finansowa sądów Dział VI – Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe Rozdział 1 – Zmiany w przepisach obowiązujących Rozdział 2 – Przepisy przejściowe i końcowe
+Załącznik – Stawki wynagrodzenia zasadniczego na poszczególnych stanowiskach sędziowskich oraz mnożniki, służące do ustalenia wysokości wynagrodzenia zasadniczego sędziów
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r. poz. 217), z uwzględnieniem zmian wprowadzonych:
+1)
+ustawą z dnia 1 grudnia 2022 r. o zmianie ustawy o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym oraz niektórych innych ustaw (Dz. U. poz. 2642),
+2)
+ustawą z dnia 13 stycznia 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U. poz. 289),
+3)
+ustawą z dnia 9 marca 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U. poz. 614),
+4)
+ustawą z dnia 14 kwietnia 2023 r. o Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007–2022 (Dz. U. poz. 1030),
+5)
+ustawą z dnia 7 lipca 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Prawo o ustroju sądów powszechnych, ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1860),
+6)
+ustawą z dnia 28 lipca 2023 r. o zmianie ustawy – Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw (Dz. U. poz. 1606),
+7)
+ustawą z dnia 28 lipca 2023 r. o zmianie ustawy – Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1615)
+oraz zmian wynikających z przepisów ogłoszonych przed dniem 6 lutego 2024 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+1)
+art. 9 ustawy z dnia 1 grudnia 2022 r. o zmianie ustawy o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym oraz niektórych innych ustaw (Dz. U. poz. 2642), który stanowi:
+„
+§ 1.
+Skargi i wnioski rozpatruje się bez zbędnej zwłoki, nie później jednak niż w terminie miesiąca od daty ich wpływu.
+§ 2.
+Skargi, w zakresie dotyczącym działalności sądów, w dziedzinie, w której sędziowie i asesorzy sądowi są niezawiśli, nie podlegają rozpatrzeniu. Organ sądu, do którego taka skarga lub wniosek zostały skierowane, zawiadamia skarżącego o przyczynach odmowy rozpatrzenia skargi. Jeżeli jednak skarga dotyczy czynności sądu podlegającej zaskarżeniu w toku instancji, organ ten jest obowiązany niezwłocznie przekazać skargę do akt sprawy, której skarga dotyczy, zawiadamiając o tym skarżącego.
+§ 3.
+Skargi lub wnioski dotyczące treści czynności sądu jeszcze niedokonanych, należących do dziedziny, o której mowa w § 2, podlegają niezwłocznemu przekazaniu do akt postępowania, którego dotyczą.
+§ 4.
+Skargi lub wnioski zawierające treści znieważające lub słowa powszechnie uznawane za obelżywe pozostawia się bez rozpatrzenia, zawiadamiając o tym skarżącego lub wnioskodawcę, z podaniem przyczyny pozostawienia skargi lub wniosku bez rozpatrzenia.
+§ 1.
+Organem właściwym do rozpatrzenia skargi lub wniosku, dotyczących działalności sądu, jest prezes sądu.
+§ 2.
+Jeżeli skarga lub wniosek dotyczą działalności sądu okręgowego i sądu rejonowego, organem właściwym do rozpatrzenia jest prezes sądu okręgowego. Jeżeli skarga lub wniosek dotyczą działalności sądu apelacyjnego i sądu okręgowego, organem właściwym do rozpatrzenia jest prezes sądu apelacyjnego.
+§ 3.
+Organem właściwym do rozpatrzenia skargi dotyczącej działalności prezesa sądu rejonowego jest prezes sądu okręgowego, działalności prezesa sądu okręgowego – prezes sądu apelacyjnego, a działalności prezesa sądu apelacyjnego – Krajowa Rada Sądownictwa.
+§ 3a.
+Organem właściwym do rozpatrzenia skargi dotyczącej działalności zastępcy rzecznika dyscyplinarnego sądu apelacyjnego lub zastępcy rzecznika dyscyplinarnego sądu okręgowego jest Rzecznik Dyscyplinarny Sędziów Sądów Powszechnych, a skargi dotyczącej działalności Rzecznika Dyscyplinarnego Sędziów Sądów Powszechnych – Krajowa Rada Sądownictwa.
+§ 3b.
+Organem właściwym do rozpatrzenia skargi dotyczącej działalności Rzecznika Dyscyplinarnego Ministra Sprawiedliwości jest Minister Sprawiedliwości.
+§ 4.
+Prezes sądu apelacyjnego, w terminie do końca kwietnia każdego roku, informuje Ministra Sprawiedliwości o nieprawidłowościach stwierdzonych w wyniku rozpatrzenia skarg przez prezesów sądów działających na obszarze apelacji.
+§ 1.
+Skarga dotycząca działalności sądów, skierowana do innych organów władzy publicznej, podlega przekazaniu do rozpatrzenia organom, o których mowa w art. 41b § 1–3.
+§ 2.
+Jeżeli skarga lub wniosek dotyczy działalności administracyjnej sądu, organ właściwy do ich rozpatrzenia, uznając skargę lub wniosek za uzasadniony, podejmuje lub zleca czynności z zakresu nadzoru nad działalnością administracyjną sądów.
+Skarga, w zakresie w jakim zawiera wniosek o pociągnięcie sędziego lub asesora sądowego do odpowiedzialności dyscyplinarnej, podlega niezwłocznie przekazaniu właściwemu rzecznikowi dyscyplinarnemu. Rzecznik, po wstępnym ustaleniu okoliczności podniesionych w skardze, może podjąć czynności wyjaśniające z własnej inicjatywy. O sposobie załatwienia skargi rzecznik dyscyplinarny zawiadamia skarżącego oraz organ, który przekazał mu skargę. W przypadku wszczęcia postępowania dyscyplinarnego i złożenia wniosku o rozpoznanie sprawy dyscyplinarnej do sądu dyscyplinarnego, rzecznik dyscyplinarny zawiadamia o tych czynnościach skarżącego. Przepisów art. 114 § 9, 11 i 13 nie stosuje się.
+Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Sądownictwa, określi, w drodze rozporządzenia, szczegółowy tryb i organizację przyjmowania i rozpatrywania skarg i wniosków, dotyczących działalności sądów, mając na względzie konieczność zapewnienia realizacji prawa do składania skarg i wniosków oraz rzetelności i wszechstronności ich rozpatrywania.
+(uchylony)
+Na stanowisko asesora sądowego może być mianowany ten, kto:
+1)
+spełnia warunki określone w art. 61 § 1 pkt 1–4;
+2)
+ukończył aplikację w Krajowej Szkole Sądownictwa i Prokuratury;
+3)
+złożył egzamin sędziowski lub prokuratorski.
+§ 1.
+Asesorów sądowych mianuje Prezydent Rzeczypospolitej Polskiej na czas nieokreślony, na wniosek Krajowej Rady Sądownictwa.
+§ 2.
+W akcie mianowania Prezydent Rzeczypospolitej Polskiej wyznacza miejsce służbowe (siedzibę) asesora sądowego, zgodnie z jego wyborem dokonanym w trybie art. 33a ust. 5 albo art. 33b ust. 6 ustawy z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury.
+§ 3.
+Asesor sądowy składa ślubowanie wobec Prezydenta Rzeczypospolitej Polskiej według następującej roty: „ Ślubuję uroczyście jako asesor sądowy służyć wiernie Rzeczypospolitej Polskiej, stać na straży prawa, obowiązki asesora sądowego wypełniać sumiennie, sprawiedliwość wymierzać zgodnie z przepisami prawa, bezstronnie według mego sumienia, dochować tajemnicy prawnie chronionej, a w postępowaniu kierować się zasadami godności i uczciwości. ” ; składający ślubowanie może dodać na końcu zwrot: „Tak mi dopomóż Bóg”.
+§ 4.
+Stosunek służbowy asesora sądowego nawiązuje się po doręczeniu mu aktu mianowania.
+§ 5.
+Asesor sądowy zgłasza się w celu objęcia stanowiska w ciągu czternastu dni od dnia otrzymania aktu mianowania.
+§ 6.
+W razie nieusprawiedliwionego nieobjęcia stanowiska asesorskiego w terminie określonym w § 5 mianowanie traci moc. Okoliczność tę stwierdza Minister Sprawiedliwości.
+§ 7.
+(uchylony)
+§ 8.
+Asesor sądowy pełni obowiązki sędziego przez okres 4 lat od dnia objęcia stanowiska asesorskiego.
+§ 9.
+(uchylony)
+§ 10.
+(uchylony)
+§ 1.
+Asesor sądowy w sprawowaniu swojego urzędu jest niezawisły i podlega tylko Konstytucji oraz ustawom.
+§ 2.
+Asesor sądowy nie może należeć do partii politycznej, związku zawodowego, ani prowadzić działalności publicznej niedającej się pogodzić z zasadami niezależności sądów i niezawisłości asesorów sądowych.
+§ 3.
+Asesorowi sądowemu ubiegającemu się o mandat posła, senatora albo radnego udziela się urlopu bezpłatnego na czas kampanii wyborczej. Okresu udzielonego urlopu nie wlicza się do okresu, o którym mowa w art. 61 § 1 pkt 7.
+§ 4.
+Asesor sądowy, który został mianowany, powołany lub wybrany do pełnienia funkcji w organach państwowych, samorządu terytorialnego, w służbie dyplomatycznej, konsularnej lub w organach organizacji międzynarodowych oraz ponadnarodowych działających na podstawie umów międzynarodowych ratyfikowanych przez Rzeczpospolitą Polską, jest obowiązany zrzec się niezwłocznie swojego urzędu.
+§ 1.
+Asesor sądowy jest nieusuwalny.
+§ 2.
+Stosunek służbowy asesora sądowego wygasa w przypadku:
+1)
+(uchylony)
+2)
+niezłożenia przez asesora sądowego wniosku o powołanie do pełnienia urzędu na stanowisku sędziowskim – z upływem okresu, o którym mowa w art. 106i § 8;
+3)
+powołania do pełnienia urzędu na stanowisku sędziowskim – z dniem poprzedzającym powołanie na stanowisko sędziowskie;
+4)
+nieprzedstawienia przez Krajową Radę Sądownictwa wniosku o powołanie asesora sądowego do pełnienia urzędu na stanowisku sędziowskim – z dniem uprawomocnienia się uchwały Krajowej Rady Sądownictwa.
+§ 3.
+Stosunek służbowy asesora sądowego rozwiązuje się z mocy prawa, jeżeli zrzekł się on urzędu. Zrzeczenie się urzędu jest skuteczne po upływie trzech miesięcy od dnia złożenia Ministrowi Sprawiedliwości oświadczenia, chyba że na wniosek asesora sądowego Minister Sprawiedliwości określi inny termin. O zrzeczeniu się urzędu przez asesora sądowego Minister Sprawiedliwości zawiadamia Krajową Radę Sądownictwa.
+§ 3a.
+Cofnięcie przez asesora sądowego wniosku o powołanie do pełnienia urzędu na stanowisku sędziowskim jest równoznaczne ze złożeniem oświadczenia o zrzeczeniu się urzędu.
+§ 4.
+Prawomocne orzeczenie sądu dyscyplinarnego o złożeniu asesora sądowego z urzędu oraz prawomocne orzeczenie sądu skazujące na środek karny pozbawienia praw publicznych lub zakazu zajmowania stanowiska asesora sądowego powoduje, z mocy prawa, utratę urzędu i stanowiska asesora sądowego; stosunek służbowy asesora sądowego wygasa z chwilą uprawomocnienia się orzeczenia.
+§ 5.
+Stosunek służbowy asesora sądowego wygasa z dniem utraty przez niego obywatelstwa polskiego.
+§ 6.
+Stosunek służbowy asesora sądowego wygasa, jeżeli z powodu choroby lub utraty sił został uznany za trwale niezdolnego do pełnienia obowiązków asesora sądowego.
+§ 7.
+Minister Sprawiedliwości zawiadamia asesora sądowego o wygaśnięciu lub rozwiązaniu stosunku służbowego.
+§ 1.
+(uchylony)
+§ 1a.
+Przeniesienie asesora sądowego na inne miejsce służbowe może nastąpić na jego wniosek, w szczególnie uzasadnionych przypadkach i nie wcześniej niż po dwóch latach od dnia mianowania.
+§ 2.
+Przeniesienie asesora sądowego na inne miejsce służbowe może nastąpić, także bez jego zgody, w przypadkach:
+1)
+zniesienia stanowiska wywołanego zmianą w organizacji sądownictwa lub zniesienia danego sądu lub wydziału zamiejscowego albo przeniesienia siedziby sądu;
+2)
+niedopuszczalności zajmowania stanowiska asesora sądowego w danym sądzie wskutek wystąpienia okoliczności, o których mowa w art. 6;
+3)
+gdy wymaga tego wzgląd na powagę stanowiska, na podstawie orzeczenia sądu dyscyplinarnego, wydanego na wniosek kolegium właściwego sądu lub Krajowej Rady Sądownictwa;
+4)
+przeniesienia w wyniku kary dyscyplinarnej.
+§ 3.
+Decyzję o przeniesieniu asesora sądowego wydaje Minister Sprawiedliwości, z tym że przeniesienie z przyczyn, o których mowa w § 2 pkt 1, może nastąpić, jeżeli uwzględnienie wniosku asesora sądowego co do nowego miejsca służbowego nie jest możliwe.
+§ 4.
+W przypadkach, o których mowa w § 2 pkt 1 i 2, od decyzji Ministra Sprawiedliwości asesorowi sądowemu przysługuje odwołanie do Sądu Najwyższego.
+§ 1.
+W przypadku przeniesienia asesora sądowego na inne miejsce służbowe nie przysługuje mu ekwiwalent pieniężny za dni niewykorzystanego urlopu wypoczynkowego. Asesor sądowy zachowuje prawo do wykorzystania tego urlopu w czasie pełnienia służby w miejscu, do którego przeniesienie nastąpiło.
+§ 2.
+Przepis § 1 stosuje się odpowiednio w przypadku powołania asesora sądowego na stanowisko sędziowskie.
+§ 3.
+W przypadku przeniesienia asesora sądowego do innej miejscowości, przysługuje mu zwrot kosztów przeniesienia, z wyjątkiem przypadku, gdy przeniesienie nastąpiło w drodze dyscyplinarnej lub na jego wniosek. Asesorowi sądowemu przenoszonemu na jego wniosek Minister Sprawiedliwości, w szczególnie uzasadnionych przypadkach, może przyznać zwrot kosztów przeniesienia.
+(uchylony)
+(uchylony)
+(uchylony)
+(uchylony)
+(uchylony)
+(uchylony)
+(uchylony)
+(uchylony)
+(uchylony)
+(uchylony)
+(uchylony)
+§ 1.
+Przed upływem 36 miesięcy pełnienia obowiązków sędziego asesor sądowy może złożyć prezesowi właściwego sądu okręgowego wniosek o powołanie na stanowisko sędziego sądu rejonowego. Przepisy art. 57 § 2–6 i 8, art. 57a § 1, art. 57ab § 2, art. 57ac-57af oraz art. 58 § 4 stosuje się odpowiednio.
+§ 2.
+W razie złożenia wniosku, o którym mowa w § 1, prezes sądu okręgowego, w terminie nie dłuższym niż siedem dni od dnia upływu 36 miesięcy pełnienia przez asesora sądowego obowiązków sędziego, zarządza dokonanie oceny kwalifikacji asesora sądowego. Przepisy art. 57ah § 3, art. 57b, art. 57i § 1 i 3 oraz przepisy wykonawcze wydane na podstawie art. 57i § 4 stosuje się odpowiednio.
+§ 3.
+Oceny kwalifikacji asesora sądowego dokonuje sędzia wizytator wyznaczony przez prezesa właściwego sądu apelacyjnego w drodze losowania spośród sędziów z obszaru danej apelacji, o których mowa w art. 37c § 3, z wyłączeniem sędziów z okręgu sądowego, w którym ma siedzibę sąd, w którym asesor sądowy pełni służbę. Jeżeli asesor sądowy pełnił obowiązki sędziego w wydziałach cywilnym i karnym, wyznacza się więcej niż jednego sędziego wizytatora.
+§ 4.
+Prezes właściwego sądu okręgowego zapoznaje asesora sądowego z oceną kwalifikacji, zamieszczając ją w systemie teleinformatycznym. Asesor sądowy ma prawo do złożenia temu prezesowi uwag do oceny kwalifikacji, w terminie 21 dni od daty zamieszczenia oceny kwalifikacji w systemie teleinformatycznym.
+§ 5.
+Po upływie terminu, o którym mowa w § 4, lub złożeniu przez asesora sądowego uwag do oceny kwalifikacji prezes sądu okręgowego przedstawia do zaopiniowania kolegium sądu okręgowego kandydaturę asesora sądowego na wolne stanowisko sędziego sądu rejonowego wraz z oceną kwalifikacji i ewentualnymi uwagami asesora sądowego.
+§ 1.
+Wynagrodzenie zasadnicze asesora sądowego wynosi 80 % wynagrodzenia zasadniczego w stawce pierwszej sędziego sądu rejonowego, powiększonego o należną składkę z tytułu ubezpieczenia społecznego.
+§ 2.
+(uchylony)
+§ 3.
+W przypadku powierzenia asesorowi sądowemu funkcji przewodniczącego wydziału, przysługuje mu z tego tytułu dodatek funkcyjny ustalany w sposób określony w przepisach wykonawczych wydanych na podstawie art. 91 § 8.
+§ 4.
+Wynagrodzenie asesorów sądowych różnicuje ponadto dodatek za długoletnią pracę wynoszący, począwszy od szóstego roku pracy, 5 % wynagrodzenia zasadniczego i wzrastający po każdym roku o 1 %, aż do osiągnięcia 20 % wynagrodzenia zasadniczego.
+§ 5.
+Czas pracy asesora sądowego jest określony wymiarem jego zadań.
+§ 6.
+(uchylony)
+§ 1.
+Asesorowi sądowemu można udzielić płatnego urlopu dla poratowania zdrowia w celu przeprowadzenia zaleconego leczenia, jeżeli leczenie to wymaga powstrzymania się od pełnienia służby.
+§ 2.
+Urlop dla poratowania zdrowia nie może przekraczać sześciu miesięcy.
+§ 3.
+Urlopu dla poratowania zdrowia udziela Minister Sprawiedliwości.
+§ 4.
+W przypadku odmowy udzielenia urlopu dla poratowania zdrowia asesorowi sądowemu przysługuje w terminie 14 dni od dnia otrzymania odmowy odwołanie do Sądu Najwyższego.
+§ 1.
+Strojem urzędowym asesora sądowego jest strój urzędowy sędziego. Przepis art. 84 § 1 stosuje się.
+§ 2.
+Asesor sądowy otrzymuje legitymację służbową, wymieniającą zajmowane przez niego stanowisko i miejsce służbowe. Minister Sprawiedliwości określi, w drodze zarządzenia, wzór legitymacji służbowej asesora sądowego.
+(uchylony)
+Asesor sądowy nie może, powołując się na zasadę niezawisłości, uchylić się od wykonania poleceń w zakresie czynności administracyjnych, jeżeli z mocy przepisów ustawy należą do obowiązków asesorskich, a także poleceń dotyczących sprawności postępowania sądowego; może domagać się wydania polecenia na piśmie.
+§ 1.
+Asesor sądowy nie może być zatrzymany ani pociągnięty do odpowiedzialności karnej bez zezwolenia właściwego sądu dyscyplinarnego. Nie dotyczy to zatrzymania w razie ujęcia asesora sądowego na gorącym uczynku przestępstwa, jeżeli zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania. Do czasu wydania uchwały zezwalającej na pociągnięcie asesora sądowego do odpowiedzialności karnej wolno podejmować tylko czynności niecierpiące zwłoki.
+§ 2.
+O zatrzymaniu asesora sądowego niezwłocznie powiadamia się prezesa sądu apelacyjnego właściwego ze względu na miejsce zatrzymania. Może on nakazać natychmiastowe zwolnienie zatrzymanego. O fakcie zatrzymania asesora sądowego prezes sądu apelacyjnego niezwłocznie zawiadamia Krajową Radę Sądownictwa, Ministra Sprawiedliwości i Pierwszego Prezesa Sądu Najwyższego.
+§ 3.
+Wniosek o zezwolenie na pociągnięcie asesora sądowego do odpowiedzialności karnej, jeżeli nie pochodzi od prokuratora, powinien być sporządzony i podpisany przez adwokata albo radcę prawnego będącego pełnomocnikiem.
+§ 4.
+Na zarządzenie o odmowie przyjęcia wniosku przysługuje zażalenie do sądu dyscyplinarnego właściwego do rozpoznania wniosku.
+§ 5.
+Sąd dyscyplinarny wydaje uchwałę zezwalającą na pociągnięcie asesora sądowego do odpowiedzialności karnej, jeżeli zachodzi dostatecznie uzasadnione podejrzenie popełnienia przez niego przestępstwa. Uchwała zawiera rozstrzygnięcie w przedmiocie zezwolenia na pociągnięcie asesora sądowego do odpowiedzialności karnej wraz z uzasadnieniem.
+§ 6.
+Sąd dyscyplinarny rozpoznaje wniosek o zezwolenie na pociągnięcie asesora sądowego do odpowiedzialności karnej w terminie czternastu dni od dnia jego wpłynięcia do sądu dyscyplinarnego.
+§ 6a.
+Jeżeli wniosek o zezwolenie na pociągnięcie do odpowiedzialności karnej lub tymczasowe aresztowanie dotyczy asesora sądowego ujętego na gorącym uczynku zbrodni lub występku zagrożonego karą pozbawienia wolności, której górna granica wynosi co najmniej 8 lat, występku, o którym mowa w art. 177 § 1 Kodeksu karnego w związku z art. 178 § 1 Kodeksu karnego, a także w art. 178a § 1 lub 4 Kodeksu karnego, i pozostającego nadal zatrzymanym, sąd dyscyplinarny podejmuje uchwałę w przedmiocie wniosku niezwłocznie, nie później niż przed upływem 24 godzin od jego wpłynięcia do sądu dyscyplinarnego. Uchwała zezwalająca na pociągnięcie do odpowiedzialności karnej lub tymczasowe aresztowanie asesora sądowego jest natychmiast wykonalna.
+§ 7.
+Przed wydaniem uchwały sąd dyscyplinarny wysłuchuje rzecznika dyscyplinarnego, asesora sądowego, przedstawiciela organu lub osobę, którzy wnieśli o zezwolenie, jeżeli się stawią. Ich niestawiennictwo, jak również niestawiennictwo obrońcy, nie wstrzymuje rozpoznania wniosku.
+§ 8.
+Asesor sądowy, którego dotyczy postępowanie, ma prawo wglądu do dokumentów, które zostały załączone do wniosku. Jednak prokurator, kierując wniosek do sądu dyscyplinarnego, może zastrzec, że dokumenty te lub ich część nie mogą być asesorowi sądowemu udostępnione z uwagi na dobro postępowania przygotowawczego.
+§ 9.
+Jeżeli prokurator złożył zastrzeżenie prezes sądu dyscyplinarnego niezwłocznie kieruje sprawę na posiedzenie. Sąd dyscyplinarny może odmówić asesorowi sądowemu wglądu do dokumentów dołączonych do wniosku.
+§ 10.
+Orzekając w sprawie, o której mowa w § 1, sąd dyscyplinarny może poprzestać na oświadczeniu asesora sądowego, że wnosi o wydanie uchwały o zezwoleniu na pociągnięcie go do odpowiedzialności karnej.
+§ 1.
+Za wykroczenie asesor sądowy odpowiada tylko dyscyplinarnie, z zastrzeżeniem § 2.
+§ 2.
+Asesor sądowy może wyrazić zgodę na pociągnięcie go do odpowiedzialności karnej za wykroczenia, o których mowa w § 3, w trybie określonym w tym przepisie.
+§ 3.
+W przypadku popełnienia przez asesora sądowego wykroczenia, o którym mowa w rozdziale XI ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń, przyjęcie przez asesora sądowego mandatu karnego albo uiszczenie grzywny, w przypadku ukarania mandatem karnym zaocznym, o którym mowa w art. 98 § 1 pkt 3 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia, stanowi oświadczenie o wyrażeniu przez niego zgody na pociągnięcie go do odpowiedzialności w tej formie.
+§ 4.
+Wyrażenie przez asesora sądowego zgody na pociągnięcie go do odpowiedzialności w trybie określonym w § 3 wyłącza odpowiedzialność dyscyplinarną.
+§ 1.
+Asesor sądowy jest obowiązany stale podnosić kwalifikacje zawodowe.
+§ 2.
+(uchylony)
+§ 3.
+Asesor sądowy jest obowiązany uczestniczyć, w miarę możliwości corocznie, w szkoleniu i doskonaleniu zawodowym organizowanym przez Krajową Szkołę Sądownictwa i Prokuratury lub innych formach doskonalenia zawodowego, w celu uzupełnienia specjalistycznej wiedzy i umiejętności zawodowych.
+§ 4.
+(uchylony)
+§ 1.
+Do asesorów sądowych stosuje się odpowiednio przepisy art. 47b § 4–6, art. 67, art. 75b, art. 82, art. 83a, art. 85–90, art. 92 § 3–6, art. 95 i art. 97.
+§ 2.
+Ilekroć inne ustawy przewidują podejmowanie czynności urzędowych przez sędziego należy przez sędziego rozumieć także asesora sądowego.
+(uchylony)
+Stałym mediatorem może być osoba fizyczna, która:
+1)
+spełnia warunki określone w art. 1832 § 1 i 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego;
+2)
+ma wiedzę i umiejętności w zakresie prowadzenia mediacji;
+3)
+ukończyła 26 lat;
+4)
+zna język polski;
+5)
+nie była prawomocnie skazana za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+6)
+została wpisana na listę stałych mediatorów prowadzoną przez prezesa sądu okręgowego.
+§ 1.
+Wpisu na listę stałych mediatorów dokonuje prezes sądu okręgowego w drodze decyzji wydawanej na wniosek osoby ubiegającej się o wpis.
+§ 1a.
+Do wpisu na listę stałych mediatorów stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
+§ 1b.
+Sprawę wpisu na listę stałych mediatorów uznaje się za załatwioną milcząco w sposób w całości uwzględniający żądanie strony występującej z wnioskiem o wpis na listę stałych mediatorów, jeżeli w terminie 14 dni od dnia doręczenia wniosku prezes sądu okręgowego nie wyda decyzji albo postanowienia, o których mowa w art. 122a § 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+§ 2.
+Do wniosku o wpis na listę stałych mediatorów dołącza się oświadczenia lub dokumenty potwierdzające spełnianie warunków, o których mowa w art. 157a pkt 1–5.
+§ 3.
+Oświadczenie potwierdzające spełnianie warunku, o którym mowa w art. 157a pkt 5, osoba ubiegająca się o wpis składa pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Osoba ubiegająca się o wpis jest obowiązana do zawarcia w nich klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
+§ 1.
+Prezes sądu okręgowego, w drodze decyzji, skreśla stałego mediatora z listy w przypadku:
+1)
+śmierci stałego mediatora;
+2)
+złożenia przez stałego mediatora wniosku o skreślenie z listy;
+3)
+zaprzestania przez stałego mediatora spełniania któregokolwiek z warunków określonych w art. 1832§ 1 i 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego;
+4)
+prawomocnego skazania stałego mediatora za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+5)
+stwierdzenia nienależytego wykonywania obowiązków przez stałego mediatora.
+§ 2.
+Sąd zawiadamia prezesa sądu okręgowego, który wydał decyzję o wpisie na listę stałych mediatorów, o każdym przypadku uzasadniającym skreślenie z tej listy na podstawie § 1 pkt 5.
+§ 3.
+Od decyzji prezesa sądu okręgowego w przedmiocie wpisu lub skreślenia z listy stałych mediatorów przysługuje odwołanie do prezesa sądu apelacyjnego.
+§ 1.
+Prezes sądu okręgowego prowadzi listę stałych mediatorów dla obszaru właściwości danego okręgu sądowego.
+§ 2.
+Na liście stałych mediatorów zamieszcza się następujące dane dotyczące stałego mediatora:
+1)
+imię i nazwisko oraz rok urodzenia;
+2)
+adres do korespondencji;
+3)
+informację dotyczącą wykształcenia i odbytych szkoleń;
+4)
+informacje dotyczące specjalizacji.
+§ 3.
+Na liście, o której mowa w § 2, na wniosek stałego mediatora, zamieszcza się:
+1)
+numer telefonu stałego mediatora;
+2)
+adres poczty elektronicznej stałego mediatora;
+3)
+informację o wpisie na listę mediatorów, o której mowa w art. 1832§ 3 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
+§ 4.
+Prawomocna decyzja o wpisie na listę stałych mediatorów stanowi podstawę do wpisania mediatora na listę stałych mediatorów prowadzoną w innym sądzie okręgowym, na wniosek mediatora złożony do prezesa tego sądu.
+§ 5.
+Stały mediator zawiadamia prezesa sądu okręgowego o:
+1)
+każdej zmianie imienia lub nazwiska oraz danych lub informacji, o których mowa w § 2 pkt 2–4 oraz § 3,
+2)
+okolicznościach, o których mowa w art. 157c § 1 pkt 3 i 4,
+3)
+umieszczeniu na liście, o której mowa w § 4
+w terminie 14 dni od dnia zaistnienia zdarzenia powodującego obowiązek zawiadomienia.
+Prezes sądu okręgowego udostępnia sądom oraz innym podmiotom w siedzibie sądu oraz zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej sądu aktualną listę stałych mediatorów.
+Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób prowadzenia listy stałych mediatorów, tryb wpisywania i skreślania z listy, zamieszczania na liście i aktualizacji danych i informacji, sposób potwierdzania spełnienia warunków wpisywania na listę, wzór formularza wniosku o wpis na listę stałych mediatorów, a także rodzaje dokumentów załączanych do wniosku, uwzględniając potrzebę zapewnienia wiarygodnej i aktualnej informacji o stałych mediatorach, jednolitości wniosków i sprawnego przebiegu procedury wpisu na listę stałych mediatorów.
+§ 1.
+Administratorami danych osobowych:
+1)
+sędziów i sędziów w stanie spoczynku oraz asesorów sądowych,
+2)
+referendarzy sądowych, asystentów sędziów, dyrektorów sądów oraz ich zastępców, kuratorów sądowych, aplikantów aplikacji sądowej, aplikantów kuratorskich, urzędników oraz innych pracowników sądów,
+3)
+biegłych sądowych, lekarzy sądowych, mediatorów oraz ławników,
+4)
+kandydatów na stanowiska wymienione w pkt 1 i 2
+są prezesi i dyrektorzy właściwych sądów oraz Minister Sprawiedliwości, w ramach realizowanych zadań.
+§ 2.
+Minister Sprawiedliwości wymienia dane dotyczące sędziów w stanie spoczynku, w zakresie określonym w art. 68a ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w ramach Systemu Elektronicznej Wymiany Informacji dotyczących Zabezpieczenia Społecznego, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczącym wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. UE L 284 z 30.10.2009, str. 1, z późn. zm.), za pośrednictwem punktu kontaktowego prowadzonego przez Zakład Ubezpieczeń Społecznych.
+§ 3.
+Instytucją łącznikową, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczącego wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego, w odniesieniu do uposażeń sędziów w stanie spoczynku oraz uposażeń rodzinnych członków rodzin sędziów i sędziów w stanie spoczynku, podlegających przepisom o koordynacji systemów zabezpieczenia społecznego, przysługujących z budżetu państwa na podstawie przepisów niniejszej ustawy, jest organ emerytalny określony przez ministra właściwego do spraw wewnętrznych w przepisach wykonawczych wydanych na podstawie art. 32 ust. 2a ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2023 r. poz. 1280, 1429 i 1834).
+§ 4.
+Administratorami danych osobowych przetwarzanych w związku z działalnością administracyjną sądów są prezesi właściwych sądów, dyrektorzy właściwych sądów oraz Minister Sprawiedliwości w ramach realizowanych zadań.
+§ 1.
+Prezesi sądów okręgowych właściwych dla siedziby organu wnioskującego o udostępnienie danych przekazują corocznie Ministrowi Sprawiedliwości informację na temat przetwarzania danych telekomunikacyjnych, pocztowych i internetowych, z podziałem na liczbę przypadków udostępnienia danych dla danego rodzaju danych, oraz wyników przeprowadzonych kontroli, w terminie do dnia 31 marca roku następującego po roku nią objętym.
+§ 2.
+Minister Sprawiedliwości przedstawia corocznie Sejmowi i Senatowi zagregowaną informację na temat przetwarzania danych telekomunikacyjnych, pocztowych i internetowych oraz wyników przeprowadzonych kontroli, w terminie do dnia 30 czerwca roku następującego po roku nią objętym.
+§ 1.
+Minister Sprawiedliwości jest administratorem systemu służącego do przetwarzania danych osobowych uzyskanych z systemu teleinformatycznego, o którym mowa w art. 213 § 1a Kodeksu postępowania karnego.
+§ 2.
+Minister Sprawiedliwości przetwarza dane osób uzyskane z systemu teleinformatycznego, o którym mowa w art. 213 § 1a Kodeksu postępowania karnego, wyłącznie w zakresie niezbędnym do realizacji zadania, o którym mowa w § 1.
+Minister Sprawiedliwości w celu wykonania zadań określonych w ustawie pełni funkcję koordynującą, o której mowa w art. 44 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1862 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie współpracy policyjnej i współpracy wymiarów sprawiedliwości w sprawach karnych, zmiany i uchylenia decyzji Rady 2007/533/WSiSW oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1986/2006 i decyzji Komisji 2010/261/UE (Dz. Urz. UE L 312 z 07.12.2018, str. 56, z późn. zm.), i zapewnia sądom dostęp do danych, w tym do przetwarzania danych osobowych w tym systemie.
+Administratorami danych osobowych przetwarzanych w systemach teleinformatycznych obsługujących postępowania sądowe, w systemach teleinformatycznych, w których są prowadzone rejestry sądowe, oraz w systemach teleinformatycznych, w których są prowadzone urządzenia ewidencyjne (sądowe systemy teleinformatyczne), są sądy w ramach sprawowania wymiaru sprawiedliwości albo realizacji zadań z zakresu ochrony prawnej, prezesi właściwych sądów oraz Minister Sprawiedliwości w ramach realizowanych zadań.
+§ 1.
+Minister Sprawiedliwości wykonuje zadania z zakresu informatyzacji sądownictwa polegające w szczególności na projektowaniu, wdrażaniu, eksploatacji, integracji, utrzymaniu, rozwoju, administrowaniu i udostępnianiu sądowych systemów teleinformatycznych, zabezpieczaniu danych osobowych przetwarzanych w tych systemach, koordynowaniu tych działań oraz zapewnianiu możliwości wymiany informacji pomiędzy tymi systemami.
+§ 2.
+O ile przepisy szczególne nie stanowią inaczej, Minister Sprawiedliwości może tworzyć i utrzymywać systemy teleinformatyczne wspierające działalność administracyjną sądów, systemy teleinformatyczne obsługujące postępowania sądowe lub ich części, w tym systemy, w których tworzy się lub przetwarza akta sprawy, systemy teleinformatyczne, w których są prowadzone rejestry sądowe, systemy teleinformatyczne, w których są prowadzone urządzenia ewidencyjne, lub inne systemy teleinformatyczne wykorzystywane w działalności sądów, w tym portal informacyjny (sądowe systemy teleinformatyczne).
+§ 3.
+Minister Sprawiedliwości jest administratorem sądowych systemów teleinformatycznych.
+§ 4.
+Minister Sprawiedliwości jako administrator sądowych systemów teleinformatycznych nie ma dostępu do akt postępowania.
+§ 5.
+Współadministratorami danych osobowych przetwarzanych w sądowych systemach teleinformatycznych są sądy w ramach sprawowania wymiaru sprawiedliwości albo realizacji zadań z zakresu ochrony prawnej, prezesi właściwych sądów, dyrektorzy właściwych sądów oraz Minister Sprawiedliwości w ramach realizowanych zadań.
+§ 6.
+Minister Sprawiedliwości przetwarza dane, w tym dane osobowe znajdujące się w sądowych systemach teleinformatycznych, wyłącznie w zakresie niezbędnym dla realizacji ustawowych zadań Ministra Sprawiedliwości, w szczególności związanych z informatyzacją sądownictwa.
+§ 7.
+Minister Sprawiedliwości może powierzyć, w drodze zarządzenia, dyrektorom sądów apelacyjnych wykonywanie niektórych zadań związanych z informatyzacją sądownictwa, mając na uwadze efektywność wymiaru sprawiedliwości oraz możliwości techniczne i organizacyjne sądów, a także potrzebę sprawnego działania sądowego systemu teleinformatycznego przy jednoczesnym zapewnieniu odpowiedniego poziomu bezpieczeństwa.
+§ 8.
+Minister Sprawiedliwości może powierzyć, w drodze porozumienia, innym niż dyrektorzy sądów apelacyjnych podmiotom realizującym zadania publiczne, o których mowa w art. 2 ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz. 57, 1123, 1234 i 1703), wykonywanie niektórych zadań związanych z informatyzacją sądownictwa.
+§ 9.
+Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia:
+1)
+opis sądowych systemów teleinformatycznych stosowanych w sądach powszechnych, zawierający strukturę systemu, wymaganą minimalną funkcjonalność systemu oraz zakres komunikacji między elementami struktury systemu,
+2)
+wymagania standaryzujące w zakresie bezpieczeństwa, wydajności i rozwoju systemu,
+3)
+sposób postępowania w zakresie stwierdzania zgodności oprogramowania z opisem systemu
+mając na uwadze zapewnienie spójności sądowych systemów teleinformatycznych stosowanych w sądach powszechnych, w szczególności w zakresie jednorodności zakresu i rodzaju danych, a także zachowanie zgodności z minimalnymi wymogami i sposobem stwierdzania zgodności oprogramowania, określonymi na podstawie ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+Administratorami danych osobowych przetwarzanych w postępowaniach sądowych w ramach sprawowania wymiaru sprawiedliwości albo realizacji zadań z zakresu ochrony prawnej są sądy.
+§ 1.
+Do przetwarzania danych osobowych w postępowaniach sądowych, w rejestrach sądowych albo w sądowych systemach teleinformatycznych nie stosuje się przepisów art. 15, art. 16 – w zakresie, w jakim przepisy szczególne przewidują odrębny tryb sprostowania, oraz art. 18 i art. 19 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2016/679”.
+§ 2.
+W związku z przetwarzaniem danych osobowych w postępowaniach sądowych wykonanie obowiązków, o których mowa w art. 13 rozporządzenia 2016/679, następuje przez umieszczenie informacji określonych w art. 13 ust. 2 rozporządzenia 2016/679 w Biuletynie Informacji Publicznej na stronie podmiotowej oraz w widocznym miejscu w budynku sądu.
+§ 1.
+Nadzór nad przetwarzaniem danych osobowych, których administratorami są sądy, zgodnie z art. 175da i art. 175db, wykonują w zakresie działalności sądu:
+1)
+rejonowego – prezes sądu okręgowego;
+2)
+okręgowego – prezes sądu apelacyjnego;
+3)
+apelacyjnego – Krajowa Rada Sądownictwa.
+§ 2.
+W ramach nadzoru, o którym mowa w § 1, właściwe organy:
+1)
+rozpatrują skargi osób, których dane osobowe są przetwarzane niezgodnie z prawem;
+2)
+podejmują działania mające na celu upowszechnianie wśród nadzorowanych administratorów i podmiotów przetwarzających wiedzy o obowiązkach wynikających z rozporządzenia 2016/679 oraz ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2023 r. poz. 1206);
+3)
+współpracują z innymi organami sprawującymi nadzór nad przetwarzaniem danych osobowych w ramach postępowań prowadzonych przez sądy i trybunały oraz z organami nadzorczymi w rozumieniu art. 51 rozporządzenia 2016/679, w tym dzielą się informacjami oraz świadczą wzajemną pomoc, w celu zapewnienia spójnego stosowania rozporządzenia 2016/679 oraz ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości.
+§ 3.
+Organy, o których mowa w § 1, są uprawnione do:
+1)
+nakazywania administratorowi lub podmiotowi przetwarzającemu albo ich przedstawicielom dostarczenia wszelkich informacji potrzebnych do realizacji zadań tego organu;
+2)
+zawiadamiania administratora lub podmiotu przetwarzającego o podejrzeniu naruszenia rozporządzenia 2016/679 lub ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości;
+3)
+uzyskiwania od administratora i podmiotu przetwarzającego dostępu do danych osobowych i informacji niezbędnych organowi nadzorczemu do realizacji swoich zadań;
+4)
+uzyskiwania dostępu do pomieszczeń administratora i podmiotu przetwarzającego, w tym do sprzętu i środków służących do przetwarzania danych;
+5)
+wydawania ostrzeżeń administratorowi lub podmiotowi przetwarzającemu dotyczących możliwości naruszenia przepisów rozporządzenia 2016/679 lub ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości;
+6)
+udzielania upomnień administratorowi lub podmiotowi przetwarzającemu w przypadku naruszenia przepisów rozporządzenia 2016/679 lub ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości;
+7)
+wzywania administratora lub podmiotu przetwarzającego do dostosowania przetwarzania danych do przepisów rozporządzenia 2016/679 lub ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości.
+§ 4.
+Do przyjmowania i rozpatrywania skarg związanych z przetwarzaniem danych osobowych przez sądy w ramach sprawowania wymiaru sprawiedliwości albo realizacji zadań z zakresu ochrony prawnej stosuje się odpowiednio przepisy działu I rozdziału 5a.
+§ 1.
+Minister Sprawiedliwości może powołać koordynatora do spraw informatyzacji sądownictwa powszechnego.
+§ 2.
+Sędziemu powołanemu do pełnienia funkcji koordynatora do spraw informatyzacji sądownictwa powszechnego przysługuje dodatek funkcyjny.
+§ 1.
+Minister Sprawiedliwości może, w drodze decyzji, przyznać Skarbowi Państwa uprawnienia wynikające z autorskich praw majątkowych do programu komputerowego obsługującego sądowe systemy informatyczne, zwanego dalej „programem komputerowym”, w zakresie niezbędnym do wykonywania zadań sądów.
+§ 2.
+Decyzja, o której mowa w § 1, może zostać wydana, jeżeli zagrożona jest sprawność działania lub ciągłość funkcjonowania programu komputerowego lub systemu teleinformatycznego wykorzystującego program komputerowy, lub jeżeli zapewnienia ich sprawności działania lub ciągłości funkcjonowania wymaga ważny interes państwa lub dobro wymiaru sprawiedliwości, a porozumienie w tym zakresie z osobą, której przysługują autorskie prawa majątkowe do programu komputerowego, napotyka przeszkody.
+§ 3.
+W decyzji, o której mowa w § 1, określa się:
+1)
+zakres uprawnień, które mogą obejmować:
+a)
+korzystanie z programu komputerowego,
+b)
+trwałe lub czasowe zwielokrotnienie programu komputerowego w całości lub części jakimikolwiek środkami i w jakiejkolwiek formie,
+c)
+tłumaczenie, przystosowywanie, zmiany układu programu komputerowego lub wprowadzanie w nim jakichkolwiek innych zmian,
+d)
+rozpowszechnianie, w tym użyczenie lub najem, programu komputerowego lub jego kopii,
+e)
+zwielokrotnianie kodu lub tłumaczenie jego formy;
+2)
+czas korzystania z uprawnień nie dłuższy niż dwadzieścia lat.
+§ 4.
+W decyzji, o której mowa w § 1, Minister Sprawiedliwości może nałożyć na osobę, której przysługują autorskie prawa majątkowe do programu komputerowego, obowiązek wydania dokumentacji i kodów źródłowych tego programu, w tym bibliotek i instrukcji niezbędnych do osiągnięcia kodu wynikowego. W takim przypadku decyzja może określać format i formę przekazania dokumentacji i kodów źródłowych.
+§ 5.
+Decyzji, o której mowa w § 1, może zostać nadany rygor natychmiastowej wykonalności.
+§ 1.
+Minister Sprawiedliwości określa, w drodze decyzji, po zasięgnięciu opinii biegłego, wysokość wynagrodzenia należnego osobie, której przysługują autorskie prawa majątkowe do programu komputerowego, stanowiącego ekwiwalent nabytych przez Skarb Państwa, na podstawie decyzji, o której mowa w art. 175f § 1, uprawnień wynikających z autorskich praw majątkowych do tego programu.
+§ 2.
+Od decyzji, o której mowa w § 1, przysługuje odwołanie do sądu powszechnego.
+§ 3.
+Wynagrodzenie, o którym mowa w § 1, wyczerpuje wszelkie roszczenia osoby, której przysługują autorskie prawa majątkowe do programu komputerowego, względem Skarbu Państwa wynikające z przeniesienia na rzecz Skarbu Państwa uprawnień określonych w decyzji, o której mowa w art. 175f § 1.
+Art. 180–195.
+(pominięte)
 
-### DZIAŁ I Sądy powszechne
+**Art. 9.** Ustawa wchodzi w życie z dniem określonym w decyzji Komisji Europejskiej, zgodnie z art. 66 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1861 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie odpraw granicznych, zmiany konwencji wykonawczej do układu z Schengen oraz zmiany i uchylenia rozporządzenia (WE) nr 1987/2006 oraz art. 79 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1862 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie współpracy policyjnej i współpracy wymiarów sprawiedliwości w sprawach karnych, zmiany i uchylenia decyzji Rady 2007/533/WSiSW oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1986/2006 i decyzji Komisji 2010/261/UE, z wyjątkiem art. 1 pkt 1, 12, 14 i 15 oraz art. 8 ust. 2, które wchodzą w życie po upływie 7 dni od dnia ogłoszenia. ” ;
+
+- **2)** art. 12 i art. 14 ustawy z dnia 13 stycznia 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U. poz. 289), które stanowią: „
+
+**Art. 12.**
+
+1. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy w brzmieniu nadanym niniejszą ustawą.
+
+2. W sprawach wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy zachowują moc czynności dokonane zgodnie z przepisami dotychczasowymi. ” „
+
+**Art. 14.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 3 pkt 16, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;
+- **2)** art. 6 pkt 2, 3, pkt 4 lit. d, pkt 8, 9 i 11, art. 11 pkt 3 oraz art. 13, które wchodzą w życie po upływie roku od dnia ogłoszenia. ” ;
+- **3)** art. 23 i art. 31 ustawy z dnia 9 marca 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U. poz. 614), które stanowią: „
+
+**Art. 23.**
+
+1. W postępowaniach w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim w sądzie powszechnym wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy do ocen kwalifikacji kandydatów na wolne stanowisko sędziowskie sporządzanych po dniu wejścia w życie niniejszej ustawy stosuje się przepis art. 57b § 1 ustawy zmienianej w art. 7, w brzmieniu nadanym niniejszą ustawą.
+
+2. Delegowanie sędziego na czas pełnienia funkcji lub zajmowania stanowiska dokonane przed dniem wejścia w życie niniejszego przepisu uznaje się za delegowanie na czas określony. Udział sędziego delegowanego na czas pełnienia funkcji lub zajmowania stanowiska przed dniem wejścia w życie niniejszego przepisu w składzie sądu nie wpływa na prawidłowość obsady sądu, w tym nie może być podstawą do stwierdzenia, że:
+
+- **1)** skład sądu był sprzeczny z przepisami prawa w rozumieniu ustawy zmienianej w art. 1 lub
+- **2)** sąd był nienależycie obsadzony w rozumieniu ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375, 1855, 2582 i 2600 oraz z 2023 r. poz. 289), lub
+- **3)** w składzie sądu uczestniczyła osoba nieuprawniona. ” „
+
+**Art. 31.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 7 pkt 1, który wchodzi w życie po upływie 9 miesięcy od dnia ogłoszenia;
+- **2)** art. 1 pkt 138 lit. a tiret trzecie, który wchodzi w życie z dniem 1 października 2023 r.;
+- **3)** art. 1 pkt 144 i 145, art. 7 pkt 2, 3, 5 i 6, art. 14, art. 15, art. 17, art. 18, art. 19 ust. 5–7, art. 23 ust. 2, art. 26 ust. 2, art. 28 oraz art. 29, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia. ” ;
+- **4)** art. 52 ustawy z dnia 14 kwietnia 2023 r. o Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007–2022 (Dz. U. poz. 1030), który stanowi: „
+
+**Art. 52.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. ” ;
+
+- **5)** art. 34 i art. 40 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Prawo o ustroju sądów powszechnych, ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1860), które stanowią: „
+
+**Art. 34.** Do postępowań dotyczących mianowania referendarza sądowego na stanowisko starszego referendarza sądowego wszczętych i niezakończonych przed dniem wejścia w życie art. 150 § 1 ustawy zmienianej w art. 2 stosuje się przepisy ustawy zmienianej w art. 2 w brzmieniu dotychczasowym. ” „
+
+**Art. 40.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 28 pkt 1, art. 30 pkt 2–6, art. 31 pkt 1 lit. a, c-e, f w zakresie pkt 67 lit. b, oraz lit. g i h, pkt 2–4 oraz art. 39 ust. 1 i 2, które wchodzą w życie z dniem 1 października 2023 r.;
+- **2)** art. 2 pkt 1, pkt 6 lit. b, pkt 14, 16 i 17 oraz art. 33, które wchodzą w życie z dniem 1 stycznia 2024 r.;
+- **3)** art. 6, art. 7, art. 9, art. 12, art. 13, art. 17–19 i art. 21 pkt 2 w zakresie art. 13 § 3a pkt 1 oraz art. 22, art. 23, art. 25 i art. 38, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
+- **4)** art. 1 pkt 1–14, 21 i 33, art. 2 pkt 6 lit. a, pkt 8, 12 i 15, art. 3 pkt 1, 6, 10 i 16–20, art. 4, art. 5, art. 10, art. 11, art. 24 pkt 1, art. 28 pkt 2 – w zakresie uchylenia art. 15zzs1 ust. 1 pkt 1 i 2, ust. 2 i 3, art. 28 pkt 3 oraz art. 39 ust. 3, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia;
+- **5)** art. 30 pkt 1, art. 31 pkt 1 lit. b oraz f w zakresie pkt 67 lit. c, które wchodzą w życie z dniem 14 marca 2024 r.;
+- **6)** art. 14, który wchodzi w życie z dniem 1 października 2029 r. ” ;
+- **6)** art. 12 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy – Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw (Dz. U. poz. 1606), który stanowi: „ Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 1–3, art. 5, art. 7 pkt 6 w zakresie rozdziałów 4c i 4d, art. 8 oraz art. 9, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia. ” ;
+- **7)** art. 12 i art. 14 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy – Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1615), które stanowią: „
+
+1. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustaw zmienianych w art. 2, art. 3 i art. 6 pkt 9 i 11, w brzmieniu nadanym niniejszą ustawą.
+
+2. Do spadków otwartych przed dniem wejścia w życie niniejszej ustawy stosuje się przepis art. 101 § 4 ustawy zmienianej w art. 2, jeżeli termin do złożenia oświadczenia o przyjęciu lub o odrzuceniu spadku nie upłynął przed dniem wejścia w życie niniejszej ustawy.
+
+3. Do oświadczeń, o których mowa w art. 640 § 1 ustawy zmienianej w art. 3, składanych przed dniem wejścia w życie niniejszej ustawy, oraz do zawiadomień, o których mowa w art. 652 ustawy zmienianej w art. 3, dokonywanych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 3 w brzmieniu dotychczasowym.
+
+4. Przepisy art. 57 § 1 i art. 58 § 1 ustawy zmienianej w art. 6 w brzmieniu nadanym niniejszą ustawą stosuje się do obwieszczeń o wolnych stanowiskach sędziowskich opublikowanych po dniu wejścia w życie niniejszej ustawy oraz do postępowań w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim wszczętych po dniu wejścia w życie niniejszej ustawy. ” „ Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1 pkt 1–3 i art. 3 pkt 10, które wchodzą w życie po upływie miesiąca od dnia ogłoszenia;
+- **2)** art. 4 i art. 9, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych
+
+### Dział I Sądy powszechne
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -51,7 +534,9 @@ Art. 180–195. (pominięte)
 
 - **1)** stosowania tymczasowego aresztowania w postępowaniu przygotowawczym wobec zatrzymanego przekazanego do dyspozycji sądu wraz z wnioskiem o zastosowanie tymczasowego aresztowania;
 - **2)** rozpoznawania zażaleń na postanowienia o odmowie wszczęcia śledztwa lub dochodzenia, na postanowienia o umorzeniu śledztwa lub dochodzenia i na postanowienia o umorzeniu dochodzenia i wpisaniu sprawy do rejestru przestępstw;
-- **3)** (uchylony) § 2. Zadania z zakresu ochrony prawnej, inne niż wymiar sprawiedliwości, wykonują w sądach referendarze sądowi i starsi referendarze sądowi. Ilekroć w przepisach jest mowa o referendarzach sądowych, rozumie się przez to także starszych referendarzy sądowych.
+- **3)** rozstrzygania spraw, o których mowa w art. 12 § 1 pkt 3, z wyjątkiem spraw o zezwolenie na dokonanie czynności przekraczającej zakres zwykłego zarządu majątkiem dziecka lub osoby pozostającej pod opieką w postaci prostego przyjęcia lub odrzucenia spadku, rozstrzyganych w toku postępowania o stwierdzenie nabycia spadku.
+
+§ 2. Zadania z zakresu ochrony prawnej, inne niż wymiar sprawiedliwości, wykonują w sądach referendarze sądowi i starsi referendarze sądowi. Ilekroć w przepisach jest mowa o referendarzach sądowych, rozumie się przez to także starszych referendarzy sądowych.
 
 § 2a. Zadania, o których mowa w § 2, mogą wykonywać asesorzy sądowi. Zadania te mogą wykonywać również sędziowie, jeżeli ich wykonywanie przez referendarzy sądowych lub asesorów sądowych nie jest możliwe.
 
@@ -87,19 +572,12 @@ Art. 180–195. (pominięte)
 
 **Art. 8.** Działalność administracyjna sądów polega na:
 
-**Art. 9.** Nadzór administracyjny nad działalnością sądów, o której mowa w art. 8 pkt 1, sprawuje Minister Sprawiedliwości, na zasadach określonych w dziale I rozdziale 6 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ).
-
-**Art. 9a.**
+- **1)** zapewnieniu odpowiednich warunków techniczno-organizacyjnych oraz majątkowych funkcjonowania sądu i wykonywania przez sąd zadań, o których mowa w art. 1 § 2 i 3;
+- **2)** zapewnieniu właściwego toku wewnętrznego urzędowania sądu, bezpośrednio związanego z wykonywaniem przez sąd zadań, o których mowa w art. 1 § 2 i 3. Nadzór administracyjny nad działalnością sądów, o której mowa w art. 8 pkt 1, sprawuje Minister Sprawiedliwości, na zasadach określonych w dziale I rozdziale 6 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.).
 
 § 1. Wewnętrzny nadzór administracyjny nad działalnością sądów, o której mowa w art. 8 pkt 2, sprawują prezesi sądów.
 
-§ 2. Zewnętrzny nadzór administracyjny nad działalnością sądów, o której mowa w art. 8 pkt 2, sprawuje Minister Sprawiedliwości przez służbę nadzoru, którą stanowią sędziowie delegowani do Ministerstwa Sprawiedliwości w trybie art. 77 oraz, w zakresie nadzoru nad prowadzeniem ksiąg wieczystych, rejestru zastawów i Krajowego Rejestru Sądowego, referendarze sądowi delegowani do Ministerstwa Sprawiedliwości na podstawie art. 151a § 5. Art. 9aa. Uprawnienia Ministra Sprawiedliwości przewidziane niniejszą ustawą mogą zostać powierzone sekretarzowi stanu lub podsekretarzowi stanu w Ministerstwie Sprawiedliwości, z wyjątkiem uprawnienia do wydania decyzji o przeniesieniu sędziego w przypadkach określonych w art. 75 § 2.
-
-**Art. 9b.** Czynności z zakresu nadzoru administracyjnego nie mogą wkraczać w dziedzinę, w której sędziowie i asesorzy sądowi są niezawiśli.
-
-**Art. 9c.** Ilekroć przepis ustawy przewiduje zasięgnięcie opinii kolegium albo zgromadzenia ogólnego bez wskazania terminu, w razie niewyrażenia opinii w dniu, na który zostało zwołane posiedzenie w celu jej wydania, uważa się, że opinia jest pozytywna.
-
-**Art. 9d.** Przedmiotem obrad kolegium i samorządu sędziowskiego nie mogą być sprawy polityczne, w szczególności zabronione jest podejmowanie uchwał podważających zasady funkcjonowania władz Rzeczypospolitej Polskiej i jej konstytucyjnych organów.
+§ 2. Zewnętrzny nadzór administracyjny nad działalnością sądów, o której mowa w art. 8 pkt 2, sprawuje Minister Sprawiedliwości przez służbę nadzoru, którą stanowią sędziowie delegowani do Ministerstwa Sprawiedliwości w trybie art. 77 oraz, w zakresie nadzoru nad prowadzeniem ksiąg wieczystych, rejestru zastawów i Krajowego Rejestru Sądowego, referendarze sądowi delegowani do Ministerstwa Sprawiedliwości na podstawie art. 151a § 5. Uprawnienia Ministra Sprawiedliwości przewidziane niniejszą ustawą mogą zostać powierzone sekretarzowi stanu lub podsekretarzowi stanu w Ministerstwie Sprawiedliwości, z wyjątkiem uprawnienia do wydania decyzji o przeniesieniu sędziego w przypadkach określonych w art. 75 § 2. Czynności z zakresu nadzoru administracyjnego nie mogą wkraczać w dziedzinę, w której sędziowie i asesorzy sądowi są niezawiśli. Ilekroć przepis ustawy przewiduje zasięgnięcie opinii kolegium albo zgromadzenia ogólnego bez wskazania terminu, w razie niewyrażenia opinii w dniu, na który zostało zwołane posiedzenie w celu jej wydania, uważa się, że opinia jest pozytywna. Przedmiotem obrad kolegium i samorządu sędziowskiego nie mogą być sprawy polityczne, w szczególności zabronione jest podejmowanie uchwał podważających zasady funkcjonowania władz Rzeczypospolitej Polskiej i jej konstytucyjnych organów.
 
 #### Rozdział 2 Organizacja sądów
 
@@ -107,7 +585,7 @@ Art. 180–195. (pominięte)
 
 § 1. Sąd rejonowy tworzy się dla jednej lub większej liczby gmin; w uzasadnionych przypadkach może być utworzony więcej niż jeden sąd rejonowy w obrębie tej samej gminy.
 
-§ 1a. Sąd rejonowy tworzy się dla obszaru jednej lub większej liczby gmin zamieszkałych przez co najmniej 50 000 mieszkańców, jeżeli łączna liczba spraw cywilnych, karnych oraz rodzinnych i nieletnich wpływających do istniejącego sądu rejonowego z obszaru tej gminy lub kilku gmin wynosi co najmniej 5000 w ciągu roku kalendarzowego, z zastrzeżeniem § 1b–1d.
+§ 1a. Sąd rejonowy tworzy się dla obszaru jednej lub większej liczby gmin zamieszkałych przez co najmniej 50 000 mieszkańców, jeżeli łączna liczba spraw cywilnych, karnych oraz rodzinnych i nieletnich wpływających do istniejącego sądu rejonowego z obszaru tej gminy lub kilku gmin wynosi co najmniej 5000 w ciągu roku kalendarzowego, z zastrzeżeniem § 1b-1d.
 
 § 1b. Sąd rejonowy może być utworzony dla jednej lub większej liczby gmin zamieszkałych przez mniejszą niż 50 000 liczbę mieszkańców, jeżeli łączna liczba spraw cywilnych, karnych oraz rodzinnych i nieletnich wpływających do istniejącego sądu rejonowego z obszaru tej gminy lub kilku gmin wynosi co najmniej 5000 w ciągu roku kalendarzowego.
 
@@ -117,9 +595,7 @@ Art. 180–195. (pominięte)
 
 § 2. Sąd okręgowy tworzy się dla obszaru właściwości co najmniej dwóch sądów rejonowych, zwanego dalej „okręgiem sądowym”.
 
-§ 3. Sąd apelacyjny tworzy się dla obszaru właściwości co najmniej dwóch okręgów sądowych, zwanego dalej „obszarem apelacji”.
-
-**Art. 10a.** Sądy gospodarcze rozpoznają sprawy gospodarcze oraz inne sprawy z zakresu prawa gospodarczego i cywilnego należące do ich właściwości z mocy przepisów odrębnych. Sądami gospodarczymi są powołane do tego wydziały sądów powszechnych.
+§ 3. Sąd apelacyjny tworzy się dla obszaru właściwości co najmniej dwóch okręgów sądowych, zwanego dalej „obszarem apelacji”. Sądy gospodarcze rozpoznają sprawy gospodarcze oraz inne sprawy z zakresu prawa gospodarczego i cywilnego należące do ich właściwości z mocy przepisów odrębnych. Sądami gospodarczymi są powołane do tego wydziały sądów powszechnych.
 
 **Art. 11.**
 
@@ -135,9 +611,9 @@ Art. 180–195. (pominięte)
 
 § 3b. W przypadku łączenia funkcji przewodniczącego wydziału z funkcją prezesa albo wiceprezesa sądu, funkcję przewodniczącego wydziału powierza się na okres odpowiadający kadencji prezesa albo wiceprezesa sądu.
 
-§ 4. (uchylony) § 5. Prezes sądu może powierzyć sędziemu funkcję zastępcy przewodniczącego wydziału, jeżeli przemawiają za tym wielkość lub zakres zadań wydziału. W wydziale ksiąg wieczystych oraz wydziale gospodarczym do spraw rejestrowych funkcję zastępcy przewodniczącego wydziału powierza się referendarzowi sądowemu. Przepisy § 3 i 3a stosuje się odpowiednio.
+§ 4. (uchylony)
 
-**Art. 12.**
+§ 5. Prezes sądu może powierzyć sędziemu funkcję zastępcy przewodniczącego wydziału, jeżeli przemawiają za tym wielkość lub zakres zadań wydziału. W wydziale ksiąg wieczystych oraz wydziale gospodarczym do spraw rejestrowych funkcję zastępcy przewodniczącego wydziału powierza się referendarzowi sądowemu. Przepisy § 3 i 3a stosuje się odpowiednio.
 
 § 1. W sądzie rejonowym można tworzyć wydziały:
 
@@ -147,24 +623,22 @@ Art. 180–195. (pominięte)
 - **4)** pracy, ubezpieczeń społecznych albo pracy i ubezpieczeń społecznych – do spraw odpowiednio z zakresu prawa pracy lub z zakresu ubezpieczeń społecznych;
 - **5)** gospodarczy – do spraw gospodarczych oraz innych spraw z zakresu prawa gospodarczego i cywilnego należących do sądu gospodarczego na podstawie odrębnych ustaw;
 - **6)** ksiąg wieczystych – do prowadzenia ksiąg wieczystych;
-- **7)** egzekucyjny – do rozpoznawania spraw:
-    - **a)** o nadanie klauzuli wykonalności tytułom egzekucyjnym, o których mowa w art. 777 § 1 pkt 3–6 oraz art. 781 § 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ), w tym również w przypadkach, o których mowa w art. 778 , art. 787, art. 787 , art. 788 i art. 789 tej ustawy, o ile nadanie klauzuli wykonalności nie należy do właściwości sądów gospodarczych,
-    - **b)** o nadanie klauzuli wykonalności tytułowi egzekucyjnemu, którym jest wydane w wydziale egzekucyjnym orzeczenie sądu albo referendarza sądowego prawomocne lub podlegające natychmiastowemu wykonaniu,
-    - **c)** ze skarg na czynności komornika sądowego wnoszonych na podstawie przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego oraz spraw, w których przepisy te stosuje się odpowiednio,
-    - **d)** w trybie art. 759 § 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego,
-    - **e)** o wyłączenie komornika sądowego,
-    - **f)** o ustanowienie kuratora w postępowaniu egzekucyjnym,
-    - **g)** o wydanie zaświadczenia dla tytułów egzekucyjnych, o których mowa w art. 795 § 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego,
-    - **h)** w trybie art. 801 § 2, art. 807 § 1, art. 813, art. 820 i art. 821 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego,
-    - **i)** w trybie art. 1153 i art. 1153 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego,
-    - **j)** o których mowa w tytułach II i III części trzeciej ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, w zakresie zastrzeżonym dla kompetencji sądu, z wyłączeniem spraw z zakresu prawa rodzinnego i opiekuńczego oraz spraw o wyjawienie majątku,
-    - **k)** o zwolnienie od kosztów sądowych przed wszczęciem postępowania w sprawach, o których mowa w przepisach poprzedzających, oraz zwolnienie od kosztów komorniczych.
+- **7)** egzekucyjny – do rozpoznawania spraw: o nadanie klauzuli wykonalności tytułom egzekucyjnym, o których mowa w art. 777 § 1 pkt 3–6 oraz art. 781 § 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm.), w tym również w przypadkach, o których mowa w art. 7781, art. 787, art. 7871, art. 788 i art. 789 tej ustawy, o ile nadanie klauzuli wykonalności nie należy do właściwości sądów gospodarczych, o nadanie klauzuli wykonalności tytułowi egzekucyjnemu, którym jest wydane w wydziale egzekucyjnym orzeczenie sądu albo referendarza sądowego prawomocne lub podlegające natychmiastowemu wykonaniu, ze skarg na czynności komornika sądowego wnoszonych na podstawie przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego oraz spraw, w których przepisy te stosuje się odpowiednio, w trybie art. 759 § 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, o wyłączenie komornika sądowego, o ustanowienie kuratora w postępowaniu egzekucyjnym, o wydanie zaświadczenia dla tytułów egzekucyjnych, o których mowa w art. 7951§ 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, w trybie art. 8011§ 2, art. 807 § 1, art. 813, art. 8202 i art. 8211 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, w trybie art. 115316iart. 115318 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, o których mowa w tytułach II i III części trzeciej ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, w zakresie zastrzeżonym dla kompetencji sądu, z wyłączeniem spraw z zakresu prawa rodzinnego i opiekuńczego oraz spraw o wyjawienie majątku, o zwolnienie od kosztów sądowych przed wszczęciem postępowania w sprawach, o których mowa w przepisach poprzedzających, oraz zwolnienie od kosztów komorniczych.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
+    - **k)**
 
 § 2. (uchylony)
 
-**Art. 13.** (uchylony)
-
-**Art. 14.** (uchylony)
+**Art. 13.** (uchylony) (uchylony)
 
 **Art. 15.** (uchylony)
 
@@ -176,11 +650,9 @@ Art. 180–195. (pominięte)
 - **2)** karny – do spraw z zakresu prawa karnego oraz spraw zgodności z prawdą oświadczeń lustracyjnych;
 - **3)** pracy, ubezpieczeń społecznych albo pracy i ubezpieczeń społecznych – do spraw odpowiednio z zakresu prawa pracy lub z zakresu ubezpieczeń społecznych;
 - **4)** gospodarczy – do spraw gospodarczych oraz innych spraw z zakresu prawa gospodarczego i cywilnego należących do sądu gospodarczego na podstawie odrębnych ustaw;
-- **5)** kontroli danych telekomunikacyjnych, pocztowych i internetowych – do spraw związanych z kontrolą pozyskiwania danych telekomunikacyjnych, pocztowych i internetowych przez Policję, Agencję Bezpieczeństwa Wewnętrznego, Straż Graniczną, Centralne Biuro Antykorupcyjne, Służbę Ochrony Państwa, Służbę Celno-Skarbową i Biuro Nadzoru Wewnętrznego.
+- **5)** kontroli danych telekomunikacyjnych, pocztowych i internetowych – do spraw związanych z kontrolą pozyskiwania danych telekomunikacyjnych, pocztowych i internetowych przez Policję, Agencję Bezpieczeństwa Wewnętrznego, Straż Graniczną, Centralne Biuro Antykorupcyjne, Służbę Ochrony Państwa, Służbę Celno-Skarbową, Inspektorat Wewnętrzny Służby Więziennej i Biuro Nadzoru Wewnętrznego.
 
 § 2. Minister Sprawiedliwości, w drodze zarządzenia, wskazuje wydział sądu okręgowego rozpoznający środki odwoławcze w elektronicznym postępowaniu upominawczym.
-
-**Art. 16a.**
 
 § 1. W sądzie okręgowym działa koordynator do spraw mediacji, który wykonuje działania na rzecz rozwoju mediacji, zapewnia sprawną komunikację pomiędzy sędziami i mediatorami oraz stałymi mediatorami, a także współpracuje przy organizowaniu spotkań informacyjnych.
 
@@ -188,18 +660,16 @@ Art. 180–195. (pominięte)
 
 § 3. Koordynatora do spraw mediacji powołuje prezes sądu okręgowego, w drodze zarządzenia, spośród sędziów sądu okręgowego.
 
-**Art. 16b.**
-
 § 1. W okręgu sądowym działa koordynator do spraw współpracy międzynarodowej i praw człowieka w sprawach cywilnych.
 
 § 2. W zakresie dotyczącym współpracy międzynarodowej, prawa europejskiego i praw człowieka w sprawach cywilnych, w szczególności praw dziecka i praw rodziny koordynator do spraw współpracy międzynarodowej i praw człowieka w sprawach cywilnych:
 
-- **1)** udziela sędziom, asesorom sądowym, referendarzom sądowym i asystentom sędziów, na ich wniosek, informacji:
-    - **a)** o zasadach i trybie uzyskania informacji o prawie i praktyce państwa obcego,
-    - **b)** z zakresu techniki pracy oraz wykonywania czynności administracji sądowej istotnych dla prawidłowego przygotowania wniosku o pomoc prawną oraz orzeczeń podlegających wzajemnemu uznawaniu,
-    - **c)** o zasadach i trybie współpracy w ramach Europejskiej Sieci Sądowej w sprawach cywilnych i handlowych,
-    - **d)** o zasadach i trybie ustalenia organu właściwego w państwie obcym do wykonania wniosku o pomoc prawną lub udzielenie informacji dotyczącej stanu realizacji tego wniosku,
-    - **e)** o sposobie uzyskania informacji o treści standardów wynikających z Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r. (Dz. U. z 1993 r. poz. 284, z późn. zm. );
+- **1)** udziela sędziom, asesorom sądowym, referendarzom sądowym i asystentom sędziów, na ich wniosek, informacji: o zasadach i trybie uzyskania informacji o prawie i praktyce państwa obcego, z zakresu techniki pracy oraz wykonywania czynności administracji sądowej istotnych dla prawidłowego przygotowania wniosku o pomoc prawną oraz orzeczeń podlegających wzajemnemu uznawaniu, o zasadach i trybie współpracy w ramach Europejskiej Sieci Sądowej w sprawach cywilnych i handlowych, o zasadach i trybie ustalenia organu właściwego w państwie obcym do wykonania wniosku o pomoc prawną lub udzielenie informacji dotyczącej stanu realizacji tego wniosku, o sposobie uzyskania informacji o treści standardów wynikających z Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r. (Dz. U. z 1993 r. poz. 284, z późn. zm.);
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 - **2)** wspomaga osoby pełniące funkcję punktów kontaktowych Europejskiej Sieci Sądowej w sprawach cywilnych i handlowych w realizacji ich zadań;
 - **3)** informuje prezesa właściwego sądu lub przewodniczącego właściwego wydziału o celowości zorganizowania narady sędziów, asesorów sądowych i referendarzy sądowych, w szczególności w celu przedstawienia zagadnień prawnych budzących wątpliwości oraz zagadnień, w których orzecznictwo jest niejednolite, a także w celu zapewnienia przestrzegania standardów wynikających z Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r., oraz może brać w niej udział;
@@ -213,23 +683,19 @@ Art. 180–195. (pominięte)
 
 § 5. Koordynator do spraw współpracy międzynarodowej i praw człowieka w sprawach cywilnych wchodzi w skład Europejskiej Sieci Sądowej w sprawach cywilnych i handlowych.
 
-§ 6. Koordynatora do spraw współpracy międzynarodowej i praw człowieka w sprawach cywilnych powołuje prezes sądu okręgowego, w drodze zarządzenia, spośród sędziów, asesorów sądowych lub referendarzy sądowych tego sądu okręgowego lub sądów rejonowych na obszarze jego właściwości wyróżniających się wiedzą z zakresu współpracy międzynarodowej, prawa europejskiego i praw człowieka w sprawach cywilnych, w szczególności praw dziecka i praw rodziny oraz wykazujących odpowiednią znajomość języków obcych.
-
-**Art. 16c.** Minister Sprawiedliwości, w drodze zarządzenia, tworzy i znosi punkty kontaktowe Europejskiej Sieci Sądowej w sprawach cywilnych i handlowych.
-
-**Art. 16d.**
+§ 6. Koordynatora do spraw współpracy międzynarodowej i praw człowieka w sprawach cywilnych powołuje prezes sądu okręgowego, w drodze zarządzenia, spośród sędziów, asesorów sądowych lub referendarzy sądowych tego sądu okręgowego lub sądów rejonowych na obszarze jego właściwości wyróżniających się wiedzą z zakresu współpracy międzynarodowej, prawa europejskiego i praw człowieka w sprawach cywilnych, w szczególności praw dziecka i praw rodziny oraz wykazujących odpowiednią znajomość języków obcych. Minister Sprawiedliwości, w drodze zarządzenia, tworzy i znosi punkty kontaktowe Europejskiej Sieci Sądowej w sprawach cywilnych i handlowych.
 
 § 1. W okręgu sądowym działa koordynator do spraw współpracy międzynarodowej i praw człowieka w sprawach karnych.
 
 § 2. W zakresie dotyczącym współpracy międzynarodowej, prawa europejskiego i praw człowieka w sprawach karnych koordynator do spraw współpracy międzynarodowej i praw człowieka w sprawach karnych:
 
-- **1)** udziela sędziom, asesorom sądowym, referendarzom sądowym i asystentom sędziów na ich wniosek informacji:
-    - **a)** o zasadach i trybie uzyskania informacji o prawie i praktyce państwa obcego,
-    - **b)** z zakresu techniki pracy oraz wykonywania czynności administracji sądowej istotnych dla prawidłowego przygotowania wniosku o pomoc prawną, europejskiego nakazu aresztowania oraz innych orzeczeń podlegających wzajemnemu uznawaniu,
-    - **c)** o zasadach i trybie współpracy w ramach Europejskiej Sieci Sądowej,
-    - **d)** o zasadach i trybie ustalenia organu właściwego w państwie obcym do wykonania wniosku o pomoc prawną lub udzielenia informacji dotyczącej stanu realizacji tego wniosku,
-    - **e)** o zasadach i trybie ustalenia organu właściwego w państwie obcym do wykonania europejskiego nakazu aresztowania lub innego orzeczenia podlegającego wzajemnemu uznawaniu lub udzielenia informacji dotyczącej stanu realizacji tego nakazu lub orzeczenia,
-    - **f)** o sposobie uzyskania informacji o treści standardów wynikających z Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r.;
+- **1)** udziela sędziom, asesorom sądowym, referendarzom sądowym i asystentom sędziów na ich wniosek informacji: o zasadach i trybie uzyskania informacji o prawie i praktyce państwa obcego, z zakresu techniki pracy oraz wykonywania czynności administracji sądowej istotnych dla prawidłowego przygotowania wniosku o pomoc prawną, europejskiego nakazu aresztowania oraz innych orzeczeń podlegających wzajemnemu uznawaniu, o zasadach i trybie współpracy w ramach Europejskiej Sieci Sądowej, o zasadach i trybie ustalenia organu właściwego w państwie obcym do wykonania wniosku o pomoc prawną lub udzielenia informacji dotyczącej stanu realizacji tego wniosku, o zasadach i trybie ustalenia organu właściwego w państwie obcym do wykonania europejskiego nakazu aresztowania lub innego orzeczenia podlegającego wzajemnemu uznawaniu lub udzielenia informacji dotyczącej stanu realizacji tego nakazu lub orzeczenia, o sposobie uzyskania informacji o treści standardów wynikających z Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r.;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
 
 - **2)** informuje prezesa właściwego sądu lub przewodniczącego właściwego wydziału o celowości zorganizowania narady sędziów, asesorów sądowych i referendarzy sądowych, w szczególności w celu przedstawienia zagadnień prawnych budzących wątpliwości oraz zagadnień, w których orzecznictwo jest niejednolite, a także w celu zapewnienia przestrzegania standardów wynikających z Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r., oraz może brać w niej udział;
 - **3)** informuje prezesa właściwego sądu o potrzebie analizy orzecznictwa i ewentualnego wystąpienia z informacją, o której mowa w art. 22 § 1 pkt 2;
@@ -252,11 +718,7 @@ Art. 180–195. (pominięte)
 - **2)** karny – do spraw z zakresu prawa karnego oraz spraw zgodności z prawdą oświadczeń lustracyjnych;
 - **3)** pracy i ubezpieczeń społecznych – do spraw z zakresu prawa pracy i ubezpieczeń społecznych.
 
-§ 2. (uchylony)
-
-**Art. 18a.** W sądach mogą być tworzone wydziały inne niż wymienione w art. 12, 16 lub art. 18.
-
-**Art. 18b.** Poza siedzibą sądu mogą być tworzone wydziały zamiejscowe, a poza siedzibą sądu okręgowego także ośrodki zamiejscowe.
+§ 2. (uchylony) W sądach mogą być tworzone wydziały inne niż wymienione w art. 12, 16 lub art. 18. Poza siedzibą sądu mogą być tworzone wydziały zamiejscowe, a poza siedzibą sądu okręgowego także ośrodki zamiejscowe.
 
 **Art. 19.**
 
@@ -272,7 +734,19 @@ Art. 180–195. (pominięte)
 
 **Art. 20.** Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Sądownictwa, w drodze rozporządzeń:
 
-**Art. 20a.**
+- **1)** tworzy i znosi sądy oraz ustala ich siedziby, obszary właściwości i zakres rozpoznawanych przez nie spraw,
+- **1a)** może przekazać jednemu sądowi apelacyjnemu rozpoznawanie spraw własności intelektualnej z właściwości lub części obszarów właściwości innych sądów apelacyjnych,
+- **2)** może przekazać jednemu sądowi okręgowemu rozpoznawanie spraw z zakresu prawa pracy lub ubezpieczeń społecznych z właściwości lub części obszarów właściwości innych sądów okręgowych, działających na obszarze tej samej apelacji, a jednemu sądowi rejonowemu – rozpoznawanie spraw z zakresu prawa pracy lub ubezpieczeń społecznych z właściwości lub części obszarów właściwości innych sądów rejonowych, działających w tym samym okręgu sądowym,
+- **3)** może przekazać jednemu sądowi okręgowemu rozpoznawanie spraw gospodarczych oraz innych spraw z zakresu prawa gospodarczego i cywilnego, należących do sądu gospodarczego na podstawie odrębnych ustaw, z właściwości lub części obszarów właściwości innych sądów okręgowych, działających na obszarze tej samej apelacji, a jednemu sądowi rejonowemu – rozpoznawanie spraw gospodarczych oraz innych spraw z zakresu prawa gospodarczego i cywilnego, należących do sądu gospodarczego na podstawie odrębnych ustaw, z właściwości lub części obszarów właściwości innych sądów rejonowych,
+- **3a)** może przekazać jednemu sądowi okręgowemu rozpoznawanie spraw własności intelektualnej z właściwości lub części obszarów właściwości innych sądów okręgowych,
+- **4)** może przekazać jednemu sądowi okręgowemu rozpoznawanie spraw zgodności z prawdą oświadczeń lustracyjnych z właściwości innych sądów okręgowych, działających na obszarze tej samej apelacji,
+- **5)** może przekazać jednemu sądowi rejonowemu rozpoznawanie spraw z zakresu prawa rodzinnego i opiekuńczego, spraw dotyczących demoralizacji i czynów karalnych nieletnich, leczenia osób uzależnionych od alkoholu oraz od środków odurzających i psychotropowych oraz spraw należących do sądu opiekuńczego na podstawie odrębnych ustaw, z właściwości lub części obszarów właściwości innych sądów rejonowych, działających w tym samym okręgu sądowym,
+- **6)** może przekazać jednemu sądowi rejonowemu prowadzenie ksiąg wieczystych z właściwości lub części obszarów właściwości innych sądów rejonowych, działających w tym samym okręgu sądowym,
+- **7)** może przekazać jednemu sądowi rejonowemu rozpoznawanie spraw w elektronicznym postępowaniu upominawczym z właściwości innych sądów rejonowych,
+- **8)** może przekazać jednemu sądowi rejonowemu rozpoznawanie wniosków o nadanie klauzuli wykonalności decyzjom wydanym przez Radę, Komisję Europejską, Europejski Bank Centralny, Urząd Harmonizacji w ramach Rynku Wewnętrznego oraz wyrokom Trybunału Sprawiedliwości Unii Europejskiej z właściwości innych sądów rejonowych,
+- **9)** wyznacza sądy okręgowe właściwe do rozpoznawania spraw z zakresu ochrony unijnych znaków towarowych i wzorów wspólnotowych (sądy unijnych znaków towarowych i wzorów wspólnotowych) oraz ustala ich obszary właściwości w tych sprawach,
+- **9a)** wyznacza jeden sąd rejonowy i jeden sąd okręgowy właściwe do rozpoznawania spraw w europejskim postępowaniu nakazowym oraz w europejskim postępowaniu w sprawie drobnych roszczeń wszczętych za pośrednictwem systemu teleinformatycznego obsługującego te postępowania,
+- **10)** może przekazać jednemu sądowi rejonowemu rozpoznanie spraw, o których mowa w art. 12 § 1 pkt 7, z właściwości lub części obszarów właściwości innych sądów rejonowych kierując się potrzebą zapewnienia racjonalnej organizacji sądownictwa, przez dostosowanie liczby sądów, ich wielkości i obszarów właściwości do zakresu obciążenia wpływem spraw, a także uwzględniając ekonomię postępowania sądowego, w celu zagwarantowania realizacji prawa obywatela do rozpoznania jego sprawy w rozsądnym terminie.
 
 § 1. Minister Sprawiedliwości, mając na względzie racjonalne wykorzystanie kadr sądownictwa powszechnego, potrzeby wynikające z obciążenia zadaniami poszczególnych sądów, przydziela nowe stanowiska sędziowskie oraz asesorskie poszczególnym sądom.
 
@@ -301,9 +775,13 @@ Art. 180–195. (pominięte)
 - **2)** w sądzie okręgowym – prezes sądu, kolegium sądu i dyrektor sądu;
 - **3)** w sądzie apelacyjnym – prezes sądu, kolegium sądu i dyrektor sądu.
 
-§ 1a. (uchylony) § 1b. (uchylony) § 2. (uchylony) § 3. (uchylony)
+§ 1a. (uchylony)
 
-**Art. 21a.**
+§ 1b. (uchylony)
+
+§ 2. (uchylony)
+
+§ 3. (uchylony)
 
 § 1. W sądzie rejonowym można powołać dyrektora sądu, jeżeli uzasadniają to względy organizacyjne, a w szczególności wielkość sądu mierzona liczbą stanowisk sędziowskich, asesorskich i referendarskich oraz zatrudnionych w nim pracowników lub odległość od sądu okręgowego. W sądzie rejonowym, w którym nie powołuje się dyrektora sądu, zadania dyrektora sądu wykonuje dyrektor przełożonego sądu okręgowego, który przejmuje także prowadzenie gospodarki finansowej tego sądu.
 
@@ -315,25 +793,33 @@ Art. 180–195. (pominięte)
 
 § 1. Prezes sądu:
 
-- **1)** kieruje sądem i reprezentuje sąd na zewnątrz, z wyjątkiem spraw należących do kompetencji dyrektora sądu, a w szczególności:
-    - **a)** kieruje działalnością administracyjną sądu, w zakresie wskazanym w art. 8 pkt 2, aa) co najmniej raz w roku określa potrzeby sądu konieczne dla zapewnienia warunków prawidłowego funkcjonowania i sprawnego wykonywania przez sąd zadań, o których mowa w art. 1 § 2 i 3, biorąc pod uwagę przewidywany ich zakres,
-    - **b)** jest zwierzchnikiem służbowym sędziów, asesorów sądowych, referendarzy sądowych, asystentów sędziów danego sądu oraz kierownika i specjalistów opiniodawczego zespołu sądowych specjalistów,
-    - **c)** powierza sędziom, asesorom sądowym i referendarzom sądowym pełnienie funkcji i zwalnia z ich pełnienia, chyba że ustawa stanowi inaczej;
+- **1)** kieruje sądem i reprezentuje sąd na zewnątrz, z wyjątkiem spraw należących do kompetencji dyrektora sądu, a w szczególności: kieruje działalnością administracyjną sądu, w zakresie wskazanym w art. 8 pkt 2, aa) co najmniej raz w roku określa potrzeby sądu konieczne dla zapewnienia warunków prawidłowego funkcjonowania i sprawnego wykonywania przez sąd zadań, o których mowa w art. 1 § 2 i 3, biorąc pod uwagę przewidywany ich zakres, jest zwierzchnikiem służbowym sędziów, asesorów sądowych, referendarzy sądowych, asystentów sędziów danego sądu oraz kierownika i specjalistów opiniodawczego zespołu sądowych specjalistów, powierza sędziom, asesorom sądowym i referendarzom sądowym pełnienie funkcji i zwalnia z ich pełnienia, chyba że ustawa stanowi inaczej;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **2)** dokonuje analizy orzecznictwa w kierowanym sądzie pod względem poziomu jego jednolitości oraz informuje sędziów i asesorów sądowych o wynikach tej analizy, a w razie stwierdzenia istotnych rozbieżności w orzecznictwie informuje o nich Pierwszego Prezesa Sądu Najwyższego;
 - **3)** pełni inne czynności przewidziane w ustawie oraz przepisach odrębnych.
 
-§ 1a. (uchylony) § 1b. (uchylony) § 2. W zakresie kierowania działalnością administracyjną sądu, prezes sądu podlega prezesowi sądu przełożonego oraz Ministrowi Sprawiedliwości.
+§ 1a. (uchylony)
 
-§ 3. (uchylony) § 4. (uchylony) § 5. (uchylony) § 6. (uchylony)
+§ 1b. (uchylony)
 
-**Art. 22a.**
+§ 2. W zakresie kierowania działalnością administracyjną sądu, prezes sądu podlega prezesowi sądu przełożonego oraz Ministrowi Sprawiedliwości.
+
+§ 3. (uchylony)
+
+§ 4. (uchylony)
+
+§ 5. (uchylony)
+
+§ 6. (uchylony)
 
 § 1. Prezes sądu apelacyjnego w sądzie apelacyjnym po zasięgnięciu opinii kolegium sądu apelacyjnego, prezes sądu okręgowego w sądzie okręgowym po zasięgnięciu opinii kolegium sądu okręgowego a prezes sądu rejonowego w sądzie rejonowym po zasięgnięciu opinii kolegium właściwego sądu okręgowego ustalają podział czynności, który określa:
 
 - **1)** przydział sędziów, asesorów sądowych i referendarzy sądowych do wydziałów sądu,
 - **2)** zakres obowiązków sędziów, asesorów sądowych i referendarzy sądowych i sposób ich uczestniczenia w przydziale spraw,
-- **3)** plan dyżurów oraz zastępstw sędziów, asesorów sądowych i referendarzy sądowych – przy uwzględnieniu specjalizacji sędziów, asesorów sądowych i referendarzy sądowych w rozpoznawaniu poszczególnych rodzajów spraw, konieczności zapewnienia właściwego rozmieszczenia sędziów, asesorów sądowych i referendarzy sądowych w wydziałach sądu i równomiernego rozłożenia ich obowiązków oraz potrzeby zagwarantowania sprawnego postępowania sądowego.
+- **3)** plan dyżurów oraz zastępstw sędziów, asesorów sądowych i referendarzy sądowych przy uwzględnieniu specjalizacji sędziów, asesorów sądowych i referendarzy sądowych w rozpoznawaniu poszczególnych rodzajów spraw, konieczności zapewnienia właściwego rozmieszczenia sędziów, asesorów sądowych i referendarzy sądowych w wydziałach sądu i równomiernego rozłożenia ich obowiązków oraz potrzeby zagwarantowania sprawnego postępowania sądowego.
 
 § 1a. Asesorów sądowych przydziela się do wydziałów, zgodnie z wyborem dokonanym w trybie art. 33a ust. 5 ustawy z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury (Dz. U. z 2022 r. poz. 217 i 2695).
 
@@ -360,8 +846,6 @@ Art. 180–195. (pominięte)
 
 § 6. Odwołanie, o którym mowa w § 5, wnosi się za pośrednictwem prezesa sądu, który dokonał podziału czynności objętego odwołaniem. Prezes sądu przekazuje odwołanie Krajowej Radzie Sądownictwa w terminie 14 dni od dnia jego otrzymania wraz ze stanowiskiem w sprawie. Krajowa Rada Sądownictwa podejmuje uchwałę uwzględniającą albo oddalającą odwołanie sędziego, mając na uwadze względy, o których mowa w § 1. Uchwała Krajowej Rady Sądownictwa w sprawie odwołania, o którym mowa w § 5, nie wymaga uzasadnienia. Od uchwały Krajowej Rady Sądownictwa odwołanie nie przysługuje. Do czasu podjęcia uchwały sędzia lub asesor sądowy wykonuje obowiązki dotychczasowe.
 
-**Art. 22b.**
-
 § 1. Prezesa sądu zastępuje wiceprezes sądu, a w razie jego nieobecności – wyznaczony sędzia.
 
 § 2. Jeżeli prezes sądu nie został powołany, funkcję prezesa sądu wykonuje, przez okres nie dłuższy niż sześć miesięcy, wiceprezes sądu. W sądzie, w którym powołano więcej niż jednego wiceprezesa sądu, funkcję prezesa sądu wykonuje wiceprezes sądu najstarszy służbą. Jeżeli w sądzie nie został powołany wiceprezes sądu, funkcję prezesa sądu, przez okres nie dłuższy niż sześć miesięcy, wykonuje najstarszy służbą sędzia pełniący funkcję przewodniczącego wydziału w tym sądzie.
@@ -373,8 +857,6 @@ Art. 180–195. (pominięte)
 § 5. Liczbę wiceprezesów sądu rejonowego ustala prezes sądu apelacyjnego, po zasięgnięciu opinii prezesa sądu rejonowego oraz opinii prezesa przełożonego sądu okręgowego, biorąc pod uwagę liczbę stanowisk sędziowskich, asesorskich i referendarskich w sądzie rejonowym.
 
 § 6. W przypadku zmiany liczby stanowisk sędziowskich, asesorskich lub referendarskich w danym sądzie lub liczby i wielkości nadzorowanych sądów okręgowych lub rejonowych, liczba wiceprezesów danego sądu może być ustalona ponownie.
-
-**Art. 23.**
 
 § 1. Prezesa sądu apelacyjnego powołuje Minister Sprawiedliwości spośród sędziów sądu apelacyjnego albo sądu okręgowego. Po powołaniu prezesa sądu apelacyjnego Minister Sprawiedliwości przedstawia go właściwemu zgromadzeniu ogólnemu sędziów sądu apelacyjnego.
 
@@ -390,9 +872,7 @@ Art. 180–195. (pominięte)
 
 § 1. Prezesa sądu rejonowego powołuje Minister Sprawiedliwości spośród sędziów sądu okręgowego albo sądu rejonowego. Po powołaniu prezesa sądu rejonowego Minister Sprawiedliwości albo prezes przełożonego sądu apelacyjnego albo sądu okręgowego przedstawia go zgromadzeniu sędziów sądu rejonowego.
 
-§ 2. Wiceprezesa sądu rejonowego powołuje Minister Sprawiedliwości spośród sędziów sądu okręgowego albo sądu rejonowego, na wniosek prezesa tego sądu.
-
-**Art. 25a.** (utracił moc)
+§ 2. Wiceprezesa sądu rejonowego powołuje Minister Sprawiedliwości spośród sędziów sądu okręgowego albo sądu rejonowego, na wniosek prezesa tego sądu. (utracił moc)
 
 **Art. 26.**
 
@@ -479,8 +959,6 @@ Art. 180–195. (pominięte)
 
 § 4. W posiedzeniach kolegium zwoływanych w celu zaopiniowania kandydatów na stanowiska sędziów sądu rejonowego mogą uczestniczyć, z prawem udziału w głosowaniu wyłącznie w tych sprawach, delegaci zgromadzeń ogólnych sądów rejonowych z okręgu sądowego.
 
-**Art. 31.**
-
 § 1. Kolegium sądu okręgowego realizuje zadania określone w ustawie, a ponadto:
 
 - **1)** wyraża opinię w sprawie powołania do pełnienia funkcji rzecznika prasowego albo powierzenia obowiązków rzecznika prasowego w sądzie okręgowym oraz wyraża opinię w sprawie zwolnienia z pełnienia tej funkcji albo wykonywania tych obowiązków;
@@ -495,8 +973,6 @@ Art. 180–195. (pominięte)
 § 2. W sprawach istotnych dla danego sądu rejonowego kolegium sądu okręgowego może zasięgnąć opinii sędziów tego sądu, wyrażonej na zgromadzeniu ogólnym sędziów tego sądu.
 
 § 3. (uchylony)
-
-**Art. 31a.**
 
 § 1. Dyrektor sądu:
 
@@ -519,33 +995,61 @@ Art. 180–195. (pominięte)
 
 § 1. Dyrektora sądu zatrudnia się na podstawie powołania. Dyrektora sądu powołuje i odwołuje Minister Sprawiedliwości.
 
-§ 2. (uchylony) § 3. Przed powołaniem dyrektora sądu Minister Sprawiedliwości zasięga informacji o kandydacie z Krajowego Rejestru Karnego.
+§ 2. (uchylony)
 
-§ 4. (uchylony) § 5. (uchylony) § 6. (uchylony) § 7. (uchylony) § 7a. W razie potrzeby Minister Sprawiedliwości wyznacza, spośród pracowników sądu, osobę pełniącą obowiązki dyrektora sądu do czasu jego powołania.
+§ 3. Przed powołaniem dyrektora sądu Minister Sprawiedliwości zasięga informacji o kandydacie z Krajowego Rejestru Karnego.
 
-§ 8. (uchylony) § 9. Minister Sprawiedliwości może powołać zastępcę dyrektora sądu, jeżeli przemawiają za tym szczególne względy, w tym wielkość sądu i zakres jego zadań. Przepisy § 1 i 3 stosuje się odpowiednio.
+§ 4. (uchylony)
+
+§ 5. (uchylony)
+
+§ 6. (uchylony)
+
+§ 7. (uchylony)
+
+§ 7a. W razie potrzeby Minister Sprawiedliwości wyznacza, spośród pracowników sądu, osobę pełniącą obowiązki dyrektora sądu do czasu jego powołania.
+
+§ 8. (uchylony)
+
+§ 9. Minister Sprawiedliwości może powołać zastępcę dyrektora sądu, jeżeli przemawiają za tym szczególne względy, w tym wielkość sądu i zakres jego zadań. Przepisy § 1 i 3 stosuje się odpowiednio.
 
 § 10. Jeżeli nie powołano zastępcy dyrektora sądu, dyrektor sądu, po uzyskaniu zgody Ministra Sprawiedliwości, wyznacza spośród pracowników sądu osobę upoważnioną do wykonywania zadań dyrektora sądu w określonym czasie i zakresie.
 
 § 11. (uchylony)
 
-**Art. 32a.**
-
 § 1. Na stanowisko dyrektora sądu lub zastępcy dyrektora sądu może być powołana osoba, która spełnia następujące warunki:
 
 - **1)** korzysta z pełni praw cywilnych i obywatelskich;
-- **2)** posiada tytuł zawodowy magistra albo równorzędny, o których mowa w ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm. );
+- **2)** posiada tytuł zawodowy magistra albo równorzędny, o których mowa w ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.);
 - **3)** posiada wiedzę w zakresie zarządzania instytucjami publicznymi, finansów publicznych, prowadzenia inwestycji i gospodarowania mieniem Skarbu Państwa;
 - **4)** posiada co najmniej pięcioletni staż pracy, w tym co najmniej dwuletni na stanowisku kierowniczym;
 - **5)** nie została skazana prawomocnym wyrokiem za przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe;
 - **6)** nie była karana zakazem pełnienia funkcji związanych z dysponowaniem środkami publicznymi, o którym mowa w art. 31 ust. 1 pkt 4 ustawy z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych (Dz. U. z 2024 r. poz. 104);
 - **7)** nie jest przeciwko niej prowadzone postępowanie o przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe.
 
-§ 2. (uchylony) § 3. (uchylony) § 4. (uchylony) § 5. (uchylony) § 6. (uchylony) § 7. (uchylony) § 8. (uchylony) § 9. (uchylony) § 10. (uchylony) § 11. (uchylony) § 12. (uchylony) § 13. (uchylony)
+§ 2. (uchylony)
 
-**Art. 32b.** (uchylony)
+§ 3. (uchylony)
 
-**Art. 32c.**
+§ 4. (uchylony)
+
+§ 5. (uchylony)
+
+§ 6. (uchylony)
+
+§ 7. (uchylony)
+
+§ 8. (uchylony)
+
+§ 9. (uchylony)
+
+§ 10. (uchylony)
+
+§ 11. (uchylony)
+
+§ 12. (uchylony)
+
+§ 13. (uchylony) (uchylony)
 
 § 1. Dyrektorowi sądu i zastępcy dyrektora sądu przysługuje wynagrodzenie zasadnicze, którego wysokość ustala Minister Sprawiedliwości.
 
@@ -554,13 +1058,11 @@ Art. 180–195. (pominięte)
 § 3. Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Sądownictwa, określi, w drodze rozporządzenia:
 
 - **1)** wysokość wynagrodzenia zasadniczego dyrektora sądu oraz zastępcy dyrektora sądu,
-- **2)** sposób ustalania wysokości dodatku specjalnego oraz nagrody za szczególne osiągnięcia w pracy, które mogą być przyznane dyrektorowi sądu lub zastępcy dyrektora sądu – uwzględniając rodzaj i zakres powierzanych im zadań, w szczególności wielkość jednostki organizacyjnej, w której zadania są wykonywane.
-
-**Art. 32d.**
+- **2)** sposób ustalania wysokości dodatku specjalnego oraz nagrody za szczególne osiągnięcia w pracy, które mogą być przyznane dyrektorowi sądu lub zastępcy dyrektora sądu uwzględniając rodzaj i zakres powierzanych im zadań, w szczególności wielkość jednostki organizacyjnej, w której zadania są wykonywane.
 
 § 1. Ze stanowiskiem dyrektora sądu oraz zastępcy dyrektora sądu nie można łączyć przynależności do partii politycznych ani pełnienia funkcji publicznych.
 
-§ 2. Do dyrektora sądu oraz zastępcy dyrektora sądu stosuje się odpowiednio przepisy art. 6–7, art. 9–11 oraz art. 14a–18 ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. z 2018 r. poz. 577). Do ustalania uprawnień do dodatku za wieloletnią pracę i nagrody jubileuszowej stosuje się zasady określone w przepisach wydanych na podstawie art. 14 ust. 1 ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury.
+§ 2. Do dyrektora sądu oraz zastępcy dyrektora sądu stosuje się odpowiednio przepisy art. 6–7, art. 9–11 oraz art. 14a-18 ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. z 2018 r. poz. 577). Do ustalania uprawnień do dodatku za wieloletnią pracę i nagrody jubileuszowej stosuje się zasady określone w przepisach wydanych na podstawie art. 14 ust. 1 ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury.
 
 #### Rozdział 4 Samorząd sędziowski
 
@@ -577,8 +1079,6 @@ Art. 180–195. (pominięte)
 § 5. Uchwały zgromadzenia ogólnego sędziów sądu apelacyjnego zapadają zwykłą większością głosów obecnych członków zgromadzenia. Głosowanie jest imienne. Lista oddanych głosów jest jawna i stanowi załącznik do uchwały.
 
 § 6. Zgromadzenie ogólne sędziów sądu apelacyjnego zbiera się co najmniej raz w roku; posiedzenia zgromadzenia zwołuje prezes sądu apelacyjnego z własnej inicjatywy lub na wniosek kolegium sądu apelacyjnego, kolegium sądu okręgowego, jednej piątej liczby członków zgromadzenia albo na wniosek Ministra Sprawiedliwości. O terminie zgromadzenia prezes sądu apelacyjnego zawiadamia z co najmniej dwutygodniowym wyprzedzeniem, przedstawiając planowany porządek obrad.
-
-**Art. 34.**
 
 § 1. Zgromadzenie ogólne sędziów sądu apelacyjnego realizuje zadania określone w ustawach, a w szczególności:
 
@@ -618,8 +1118,6 @@ Art. 180–195. (pominięte)
 § 3. Wybór delegatów następuje na okres roku.
 
 § 4. W przypadku wygaśnięcia kadencji delegata w wyniku złożenia rezygnacji, rozwiązania albo wygaśnięcia jego stosunku służbowego, przejścia lub przeniesienia go w stan spoczynku lub przeniesienia na inne miejsce służbowe albo powołania na inne stanowisko, delegatem zostaje sędzia, który uzyskał kolejno największą liczbę głosów, o których mowa w § 2.
-
-**Art. 36a.**
 
 § 1. Zgromadzenie ogólne sędziów sądu rejonowego składa się z wszystkich sędziów tego sądu. Mogą w nim uczestniczyć sędziowie delegowani do pełnienia obowiązków sędziego w tym sądzie oraz asesorzy sądowi tego sądu, bez prawa udziału w głosowaniu.
 
@@ -662,15 +1160,11 @@ Art. 180–195. (pominięte)
 
 § 8. Prezes sądu przełożonego niezwłocznie zawiadamia prezesa sądu podlegającego jego nadzorowi o stwierdzonych uchybieniach w działaniu tego sądu. W razie stwierdzenia istotnych uchybień w działaniu sądu, prezes tego sądu niezwłocznie zawiadamia o stwierdzonych uchybieniach prezesa sądu przełożonego, a prezes sądu apelacyjnego – Ministra Sprawiedliwości; równocześnie prezes sądu informuje o działaniach podjętych w celu usunięcia uchybień.
 
-**Art. 37a.**
-
 § 1. Prezes sądu apelacyjnego sprawuje wewnętrzny nadzór administracyjny nad działalnością administracyjną sądu apelacyjnego oraz sądów okręgowych i rejonowych, działających na obszarze apelacji.
 
 § 2. Prezes sądu okręgowego sprawuje wewnętrzny nadzór administracyjny nad działalnością administracyjną sądu okręgowego oraz sądów rejonowych, działających w okręgu sądowym.
 
 § 3. Prezes sądu rejonowego sprawuje wewnętrzny nadzór administracyjny nad działalnością administracyjną sądu rejonowego.
-
-**Art. 37b.**
 
 § 1. Prezes sądu, w ramach wewnętrznego nadzoru administracyjnego, w szczególności:
 
@@ -689,8 +1183,6 @@ Art. 180–195. (pominięte)
 - **2)** koordynuje czynności z zakresu wewnętrznego nadzoru administracyjnego wykonywanego przez prezesów sądów działających na obszarze apelacji;
 - **3)** kontroluje wykonywanie obowiązków nadzorczych przez prezesów sądów działających na obszarze apelacji oraz wydaje stosowne zarządzenia.
 
-**Art. 37c.**
-
 § 1. Wizytacje poszczególnych wydziałów sądu zarządza prezes sądu, o którym mowa w art. 37a § 1 i 2, stosownie do potrzeb, w szczególności przy uwzględnieniu wyników sprawowanego nadzoru administracyjnego.
 
 § 2. Wizytacje wydziałów sądu apelacyjnego przeprowadzają sędziowie wizytatorzy zajmujący stanowisko sędziego sądu apelacyjnego.
@@ -701,9 +1193,9 @@ Art. 180–195. (pominięte)
 
 § 4. Wizytacji wydziału sądu nie może przeprowadzać sędzia wizytator, będący małżonkiem, krewnym albo powinowatym jednego z sędziów lub asesorów sądowych przydzielonych do wydziału lub pozostający z jednym z sędziów lub asesorów sądowych w takim stosunku prawnym lub faktycznym, że może to budzić uzasadnione wątpliwości co do bezstronności sędziego wizytatora.
 
-§ 5. (uchylony) § 6. O planowanej wizytacji zawiadamia się prezesa sądu i przewodniczącego wydziału co najmniej na trzydzieści dni przed przystąpieniem do jej przeprowadzenia.
+§ 5. (uchylony)
 
-**Art. 37d.**
+§ 6. O planowanej wizytacji zawiadamia się prezesa sądu i przewodniczącego wydziału co najmniej na trzydzieści dni przed przystąpieniem do jej przeprowadzenia.
 
 § 1. Sędziego wizytatora w sądzie apelacyjnym powołuje prezes sądu apelacyjnego, a w sądzie okręgowym – prezes sądu okręgowego, na okres czterech lat, spośród sędziów posiadających co najmniej siedmioletni staż pracy na stanowisku sędziego. Przed powołaniem sędziego wizytatora prezes właściwego sądu zasięga opinii Ministra Sprawiedliwości.
 
@@ -712,8 +1204,6 @@ Art. 180–195. (pominięte)
 § 3. Jeżeli Minister Sprawiedliwości w terminie trzydziestu dni od dnia przedstawienia przez prezesa właściwego sądu zamiaru powołania sędziego wizytatora nie wyda opinii, uważa się, że opinia jest pozytywna.
 
 § 4. (uchylony)
-
-**Art. 37e.**
 
 § 1. Prezes sądu apelacyjnego może zwrócić prezesowi lub wiceprezesowi sądu, działającego na obszarze apelacji, uwagę na piśmie, jeżeli stwierdzi uchybienia w zakresie kierowania sądem, sprawowania wewnętrznego nadzoru administracyjnego albo wykonywania innych czynności administracyjnych.
 
@@ -733,13 +1223,9 @@ Art. 180–195. (pominięte)
 
 § 9. Zwrócenie uwagi może być połączone z obniżeniem dodatku funkcyjnego w stopniu odpowiadającym wadze uchybienia, w granicach od 15 % do 50 % wysokości dodatku, na okres od miesiąca do sześciu miesięcy. W razie uchylenia uwagi dokonuje się wyrównania dodatku do poprzedniej wysokości.
 
-**Art. 37f.**
-
 § 1. Zewnętrzny nadzór administracyjny nad działalnością administracyjną sądów obejmuje analizę i ocenę prawidłowości oraz skuteczności wykonywania przez prezesów sądów wewnętrznego nadzoru administracyjnego.
 
 § 2. Zewnętrzny nadzór administracyjny nad działalnością administracyjną sądów obejmuje ponadto wykonywanie czynności niezbędnych ze względu na wystąpienie uchybień w działalności administracyjnej sądów, a także czynności koniecznych do wykonywania zadań związanych z reprezentowaniem Rzeczypospolitej Polskiej przed Europejskim Trybunałem Praw Człowieka, w zakresie spraw dotyczących działalności sądów.
-
-**Art. 37g.**
 
 § 1. Minister Sprawiedliwości, w ramach zewnętrznego nadzoru administracyjnego:
 
@@ -756,7 +1242,9 @@ Art. 180–195. (pominięte)
 
 § 4. W czynnościach, o których mowa w § 2, jako przedstawiciel Ministra Sprawiedliwości, może brać udział sędzia delegowany do pełnienia czynności administracyjnych w Ministerstwie Sprawiedliwości.
 
-§ 5. (utracił moc) Art. 37ga. § 1. Minister Sprawiedliwości może zwrócić prezesowi lub wiceprezesowi sądu apelacyjnego uwagę na piśmie, jeżeli stwierdzi uchybienia w zakresie kierowania sądem, sprawowania wewnętrznego nadzoru administracyjnego albo wykonywania innych czynności administracyjnych i żądać usunięcia jego skutków.
+§ 5. (utracił moc)
+
+§ 1. Minister Sprawiedliwości może zwrócić prezesowi lub wiceprezesowi sądu apelacyjnego uwagę na piśmie, jeżeli stwierdzi uchybienia w zakresie kierowania sądem, sprawowania wewnętrznego nadzoru administracyjnego albo wykonywania innych czynności administracyjnych i żądać usunięcia jego skutków.
 
 § 2. Prezes lub wiceprezes sądu apelacyjnego, którego dotyczy zwrócona uwaga, może w terminie czternastu dni od dnia zwrócenia uwagi złożyć Ministrowi Sprawiedliwości pisemne zastrzeżenie.
 
@@ -765,8 +1253,6 @@ Art. 180–195. (pominięte)
 § 4. Przepisy art. 37 § 6 i 7 stosuje się odpowiednio.
 
 § 5. Zwrócenie uwagi może być połączone z obniżeniem dodatku funkcyjnego w stopniu odpowiadającym wadze uchybienia, w granicach od 15 % do 50 % wysokości dodatku, na okres od miesiąca do sześciu miesięcy. W razie uchylenia uwagi dokonuje się wyrównania dodatku do poprzedniej wysokości.
-
-**Art. 37h.**
 
 § 1. Prezes sądu apelacyjnego sporządza informację roczną o działalności sądów, działających na obszarze apelacji, w zakresie powierzonych mu zadań, którą przedkłada Ministrowi Sprawiedliwości, nie później niż do końca kwietnia każdego roku.
 
@@ -778,15 +1264,11 @@ Art. 180–195. (pominięte)
 
 § 5. W przypadku złożenia zastrzeżenia, Minister Sprawiedliwości w terminie miesiąca od dnia złożenia zastrzeżenia przyjmuje informację roczną albo przekazuje sprawę do rozpoznania Krajowej Radzie Sądownictwa, zawiadamiając prezesa sądu o sposobie rozpatrzenia zastrzeżenia. W przypadku uwzględnienia zastrzeżenia przez Krajową Radę Sądownictwa w całości Minister Sprawiedliwości przyjmuje informację roczną.
 
-§ 6. Odmowa przyjęcia informacji rocznej przez Ministra Sprawiedliwości oznacza rażące niewywiązywanie się przez prezesa sądu apelacyjnego z obowiązków służbowych w rozumieniu art. 27 § 1 pkt 1.
-
-**Art. 37i.** Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Sądownictwa, określi, w drodze rozporządzenia, szczegółowy tryb sprawowania nadzoru administracyjnego nad działalnością sądów, o której mowa w art. 8 pkt 2, a także sposób dokumentowania czynności nadzorczych i sporządzania informacji rocznych o działalności sądów, mając na uwadze zapewnienie sprawności i skuteczności nadzoru oraz zapewnienie prawidłowego wykonywania czynności nadzorczych.
+§ 6. Odmowa przyjęcia informacji rocznej przez Ministra Sprawiedliwości oznacza rażące niewywiązywanie się przez prezesa sądu apelacyjnego z obowiązków służbowych w rozumieniu art. 27 § 1 pkt 1. Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Sądownictwa, określi, w drodze rozporządzenia, szczegółowy tryb sprawowania nadzoru administracyjnego nad działalnością sądów, o której mowa w art. 8 pkt 2, a także sposób dokumentowania czynności nadzorczych i sporządzania informacji rocznych o działalności sądów, mając na uwadze zapewnienie sprawności i skuteczności nadzoru oraz zapewnienie prawidłowego wykonywania czynności nadzorczych.
 
 **Art. 38.** (uchylony)
 
 **Art. 39.** (uchylony)
-
-**Art. 40.**
 
 § 1. Sąd apelacyjny lub sąd okręgowy jako sąd odwoławczy, w razie stwierdzenia przy rozpoznawaniu sprawy oczywistej obrazy przepisów, niezależnie od innych uprawnień, wytyka uchybienie właściwemu sądowi. Przed wytknięciem uchybienia poucza się sędziego, asesora sądowego wchodzących w skład sądu orzekającego w pierwszej instancji o możliwości złożenia na piśmie wyjaśnień w terminie siedmiu dni. Stwierdzenie i wytknięcie uchybienia nie wpływa na rozstrzygnięcie sprawy.
 
@@ -805,61 +1287,25 @@ Art. 180–195. (pominięte)
 § 1. Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Sądownictwa, określi, w drodze rozporządzenia, regulamin wewnętrznego urzędowania sądów powszechnych określający:
 
 - **1)** wewnętrzną organizację i porządek funkcjonowania sądów,
-- **2)** szczegółowe zasady przydziału spraw, w tym:
-    - **a)** sposób dokonywania losowania spraw,
-    - **b)** zasady ustalania składów wieloosobowych,
-    - **c)** (uchylona)
-    - **d)** zasady zmniejszenia przydziału spraw ze względu na pełnione funkcje i usprawiedliwione nieobecności oraz podstawy czasowego wstrzymania przydziału spraw,
-    - **e)** warunki uczestniczenia w przydziale tylko niektórych kategorii spraw rozpoznawanych w wydziale,
-    - **f)** zasady pełnienia dyżurów oraz rodzaje spraw podlegających przydzieleniu zgodnie z planem dyżurów,
-    - **g)** zasady sporządzania planu zastępstw oraz rodzaje czynności podejmowanych zgodnie z planem zastępstw,
-    - **h)** zasady podziału terytorialnego obszarów właściwości sądów opiekuńczych i nieletnich oraz przydziału tych obszarów sędziom,
-    - **i)** (uchylona)
+- **2)** szczegółowe zasady przydziału spraw, w tym: sposób dokonywania losowania spraw, zasady ustalania składów wieloosobowych, (uchylona) zasady zmniejszenia przydziału spraw ze względu na pełnione funkcje i usprawiedliwione nieobecności oraz podstawy czasowego wstrzymania przydziału spraw, warunki uczestniczenia w przydziale tylko niektórych kategorii spraw rozpoznawanych w wydziale, zasady pełnienia dyżurów oraz rodzaje spraw podlegających przydzieleniu zgodnie z planem dyżurów, zasady sporządzania planu zastępstw oraz rodzaje czynności podejmowanych zgodnie z planem zastępstw, zasady podziału terytorialnego obszarów właściwości sądów opiekuńczych i nieletnich oraz przydziału tych obszarów sędziom, (uchylona)
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
 
 - **3)** sposób realizacji zadań związanych z funkcjonowaniem Europejskiej Sieci Sądowej w sprawach cywilnych i handlowych,
-- **4)** porządek czynności w sądach, porządek urzędowania organów sądów i wykonywania zadań sędziów, asesorów sądowych i referendarzy sądowych pełniących funkcje kierownicze, tok czynności administracyjnych w sprawach należących do właściwości sądów, dopuszczalne systemy i rozkład czasu urzędowania, warunki i tryb udostępniania i przesyłania akt i dokumentów z akt oraz warunki udostępniania pomieszczeń dla uczestników postępowania, świadków i innych osób przebywających w sądach – uwzględniając zasady sprawności, racjonalności, ekonomicznego i szybkiego działania oraz potrzebę zapewnienia rzetelnego wykonywania zadań powierzonych sądom, a także potrzebę zapewnienia równomiernego i obiektywnego obciążenia sędziów, asesorów sądowych i referendarzy sądowych obowiązkami, zapewnienia zbliżonego prawdopodobieństwa udziału w składzie wieloosobowym, wykorzystania rozwiązań informatycznych do losowego przydziału spraw oraz zastosowania innych sposobów losowego przydziału spraw w przypadku braku możliwości korzystania z tych rozwiązań.
+- **4)** porządek czynności w sądach, porządek urzędowania organów sądów i wykonywania zadań sędziów, asesorów sądowych i referendarzy sądowych pełniących funkcje kierownicze, tok czynności administracyjnych w sprawach należących do właściwości sądów, dopuszczalne systemy i rozkład czasu urzędowania, warunki i tryb udostępniania i przesyłania akt i dokumentów z akt oraz warunki udostępniania pomieszczeń dla uczestników postępowania, świadków i innych osób przebywających w sądach uwzględniając zasady sprawności, racjonalności, ekonomicznego i szybkiego działania oraz potrzebę zapewnienia rzetelnego wykonywania zadań powierzonych sądom, a także potrzebę zapewnienia równomiernego i obiektywnego obciążenia sędziów, asesorów sądowych i referendarzy sądowych obowiązkami, zapewnienia zbliżonego prawdopodobieństwa udziału w składzie wieloosobowym, wykorzystania rozwiązań informatycznych do losowego przydziału spraw oraz zastosowania innych sposobów losowego przydziału spraw w przypadku braku możliwości korzystania z tych rozwiązań.
 
 § 1a. Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Sądownictwa oraz właściwego zgromadzenia ogólnego sędziów sądu apelacyjnego, zgromadzenia ogólnego sędziów sądu okręgowego albo zgromadzenia ogólnego sędziów sądu rejonowego, może określić, w drodze rozporządzenia, w zakresie, o którym mowa w § 1, regulamin wewnętrznego urzędowania sądów powszechnych zawierający regulacje odmienne od zawartych w przepisach wykonawczych wydanych na podstawie § 1, stosowany przez czas określony nie dłuższy niż dwa lata, w nie więcej niż dwóch sądach rejonowych lub dwóch okręgach sądowych, lub na obszarze nie więcej niż dwóch apelacji, uwzględniając konieczność zweryfikowania działania w praktyce tych regulacji.
 
 § 2. Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowe czynności sądów w sprawach z zakresu międzynarodowego postępowania cywilnego oraz karnego w stosunkach międzynarodowych, w tym: uwierzytelnianie dokumentów przeznaczonych do użytku za granicą, sposób wykonywania czynności dotyczących osób korzystających z immunitetów i przywilejów dyplomatycznych i konsularnych oraz czynności z udziałem tych osób, czynności związane ze stawiennictwem przed sądami, tryb ustalania obywatelstwa, szczegółowy tryb występowania o pomoc prawną i udzielania takiej pomocy sądom i innym organom państw obcych oraz szczegółowy tryb występowania o wydanie osób ściganych lub skazanych oraz inne formy współpracy w sprawach karnych.
 
-§ 3. Minister Sprawiedliwości może określić, w drodze rozporządzenia, państwa obce, w stosunkach z którymi wnioski z zakresu międzynarodowego postępowania cywilnego oraz karnego w stosunkach międzynarodowych są przekazywane za pomocą środków komunikacji elektronicznej, rodzaje tych wniosków oraz sposób ich przekazywania, mając na uwadze dobro postępowania oraz konieczność zapewnienia jego sprawnego toku i dopuszczalność stosowania środków komunikacji elektronicznej w państwie obcym.
-
 #### Rozdział 5a Tryb rozpatrywania skarg i wniosków
-
-**Art. 41a.**
-
-§ 1. Skargi i wnioski rozpatruje się bez zbędnej zwłoki, nie później jednak niż w terminie miesiąca od daty ich wpływu.
-
-§ 2. Skargi, w zakresie dotyczącym działalności sądów, w dziedzinie, w której sędziowie i asesorzy sądowi są niezawiśli, nie podlegają rozpatrzeniu. Organ sądu, do którego taka skarga lub wniosek zostały skierowane, zawiadamia skarżącego o przyczynach odmowy rozpatrzenia skargi. Jeżeli jednak skarga dotyczy czynności sądu podlegającej zaskarżeniu w toku instancji, organ ten jest obowiązany niezwłocznie przekazać skargę do akt sprawy, której skarga dotyczy, zawiadamiając o tym skarżącego.
-
-§ 3. Skargi lub wnioski dotyczące treści czynności sądu jeszcze niedokonanych, należących do dziedziny, o której mowa w § 2, podlegają niezwłocznemu przekazaniu do akt postępowania, którego dotyczą.
-
-§ 4. Skargi lub wnioski zawierające treści znieważające lub słowa powszechnie uznawane za obelżywe pozostawia się bez rozpatrzenia, zawiadamiając o tym skarżącego lub wnioskodawcę, z podaniem przyczyny pozostawienia skargi lub wniosku bez rozpatrzenia.
-
-**Art. 41b.**
-
-§ 1. Organem właściwym do rozpatrzenia skargi lub wniosku, dotyczących działalności sądu, jest prezes sądu.
-
-§ 2. Jeżeli skarga lub wniosek dotyczą działalności sądu okręgowego i sądu rejonowego, organem właściwym do rozpatrzenia jest prezes sądu okręgowego. Jeżeli skarga lub wniosek dotyczą działalności sądu apelacyjnego i sądu okręgowego, organem właściwym do rozpatrzenia jest prezes sądu apelacyjnego.
-
-§ 3. Organem właściwym do rozpatrzenia skargi dotyczącej działalności prezesa sądu rejonowego jest prezes sądu okręgowego, działalności prezesa sądu okręgowego – prezes sądu apelacyjnego, a działalności prezesa sądu apelacyjnego – Krajowa Rada Sądownictwa.
-
-§ 3a. Organem właściwym do rozpatrzenia skargi dotyczącej działalności zastępcy rzecznika dyscyplinarnego sądu apelacyjnego lub zastępcy rzecznika dyscyplinarnego sądu okręgowego jest Rzecznik Dyscyplinarny Sędziów Sądów Powszechnych, a skargi dotyczącej działalności Rzecznika Dyscyplinarnego Sędziów Sądów Powszechnych – Krajowa Rada Sądownictwa.
-
-§ 3b. Organem właściwym do rozpatrzenia skargi dotyczącej działalności Rzecznika Dyscyplinarnego Ministra Sprawiedliwości jest Minister Sprawiedliwości.
-
-§ 4. Prezes sądu apelacyjnego, w terminie do końca kwietnia każdego roku, informuje Ministra Sprawiedliwości o nieprawidłowościach stwierdzonych w wyniku rozpatrzenia skarg przez prezesów sądów działających na obszarze apelacji.
-
-**Art. 41c.**
-
-§ 1. Skarga dotycząca działalności sądów, skierowana do innych organów władzy publicznej, podlega przekazaniu do rozpatrzenia organom, o których mowa w art. 41b § 1–3.
-
-§ 2. Jeżeli skarga lub wniosek dotyczy działalności administracyjnej sądu, organ właściwy do ich rozpatrzenia, uznając skargę lub wniosek za uzasadniony, podejmuje lub zleca czynności z zakresu nadzoru nad działalnością administracyjną sądów.
-
-**Art. 41d.** Skarga, w zakresie w jakim zawiera wniosek o pociągnięcie sędziego lub asesora sądowego do odpowiedzialności dyscyplinarnej, podlega niezwłocznie przekazaniu właściwemu rzecznikowi dyscyplinarnemu. Rzecznik, po wstępnym ustaleniu okoliczności podniesionych w skardze, może podjąć czynności wyjaśniające z własnej inicjatywy. O sposobie załatwienia skargi rzecznik dyscyplinarny zawiadamia skarżącego oraz organ, który przekazał mu skargę. W przypadku wszczęcia postępowania dyscyplinarnego i złożenia wniosku o rozpoznanie sprawy dyscyplinarnej do sądu dyscyplinarnego, rzecznik dyscyplinarny zawiadamia o tych czynnościach skarżącego. Przepisów art. 114 § 9, 11 i 13 nie stosuje się.
-
-**Art. 41e.** Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Sądownictwa, określi, w drodze rozporządzenia, szczegółowy tryb i organizację przyjmowania i rozpatrywania skarg i wniosków, dotyczących działalności sądów, mając na względzie konieczność zapewnienia realizacji prawa do składania skarg i wniosków oraz rzetelności i wszechstronności ich rozpatrywania.
 
 #### Rozdział 6 Ogólne przepisy o czynnościach sądów
 
@@ -870,8 +1316,6 @@ Art. 180–195. (pominięte)
 § 2. Sądy rozpoznają i rozstrzygają sprawy w postępowaniu jawnym.
 
 § 3. Rozpoznanie sprawy w postępowaniu niejawnym lub wyłączenie jawności postępowania jest dopuszczalne jedynie na podstawie przepisów ustaw.
-
-**Art. 42a.**
 
 § 1. W ramach działalności sądów lub organów sądów niedopuszczalne jest kwestionowanie umocowania sądów i trybunałów, konstytucyjnych organów państwowych oraz organów kontroli i ochrony prawa.
 
@@ -951,8 +1395,6 @@ Art. 180–195. (pominięte)
 
 § 2. Dodatkowy sędzia lub asesor sądowy bierze udział w naradzie i głosowaniu, jeżeli jeden z sędziów lub asesorów sądowych nie może uczestniczyć w składzie sądu.
 
-**Art. 47a.**
-
 § 1. Sprawy są przydzielane sędziom i asesorom sądowym losowo, w ramach poszczególnych kategorii spraw, chyba że sprawa podlega przydziałowi sędziemu pełniącemu dyżur.
 
 § 2. Przydział spraw w ramach poszczególnych kategorii jest równy, chyba że został zmniejszony z uwagi na pełnioną funkcję, uczestniczenie w przydziale spraw innej kategorii lub z innych przyczyn przewidzianych ustawą.
@@ -962,8 +1404,6 @@ Art. 180–195. (pominięte)
 § 4. Sprawy z zakresu prawa opiekuńczego i nieletnich oraz inne sprawy należące do sądu opiekuńczego mogą być przydzielane według kryterium terytorialnego. Szczególne zasady przydziału mogą zostać ustanowione także w sprawach rejestrowych, wieczystoksięgowych oraz związanych z wykonaniem orzeczeń.
 
 § 5. W razie przydzielenia sprawy wymagającej nadzwyczajnego nakładu pracy, sędzia sprawozdawca może zwrócić się do prezesa sądu z wnioskiem o wstrzymanie przydziału kolejnych spraw na czas określony. Prezes sądu rozpoznaje wniosek niezwłocznie. Decyzję prezesa sądu wraz z uzasadnieniem doręcza się sędziemu, którego dotyczy, oraz podaje do wiadomości sędziów danego sądu. Od decyzji prezesa sądu sędziemu, którego decyzja dotyczy, oraz grupie co najmniej 10 % sędziów danego sądu przysługuje odwołanie do kolegium sądu w terminie siedmiu dni od dnia jej doręczenia albo podania do wiadomości. Uchwałę kolegium sądu wraz z uzasadnieniem doręcza się sędziemu, którego decyzja dotyczy, oraz podaje do wiadomości wszystkich sędziów danego sądu.
-
-**Art. 47b.**
 
 § 1. Zmiana składu sądu może nastąpić tylko w przypadku niemożności rozpoznania sprawy w dotychczasowym składzie albo długotrwałej przeszkody w rozpoznaniu sprawy w dotychczasowym składzie. Przepis art. 47a stosuje się odpowiednio.
 
@@ -975,9 +1415,7 @@ Art. 180–195. (pominięte)
 
 § 5. Na wniosek sędziego lub z urzędu kolegium sądu właściwe dla nowego miejsca służbowego sędziego lub miejsca jego delegowania może zwolnić sędziego z obowiązku rozpoznania części lub wszystkich spraw, w szczególności w razie znacznej odległości od tego sądu do nowego miejsca służbowego sędziego lub miejsca jego delegowania, a także przy uwzględnieniu stopnia zaawansowania rozpoznawanych spraw. Przed podjęciem uchwały kolegium sądu zasięga opinii prezesów właściwych sądów.
 
-§ 6. Przepisy § 4 i 5 stosuje się odpowiednio w przypadku przeniesienia do innego wydziału tego samego sądu oraz w przypadku powołania na stanowisko sędziego w sądzie wyższej instancji.
-
-**Art. 47c.** Przewodniczący składu sądu może sprawdzić dane osobowe osób obecnych w miejscu dokonywania czynności sądowej na podstawie dowodu osobistego lub innego dokumentu stwierdzającego tożsamość. W przypadku odmowy poddania się sprawdzeniu tożsamości lub braku możliwości jej sprawdzenia przewodniczący składu sądu może zobowiązać taką osobę do opuszczenia miejsca dokonywania czynności sądowej.
+§ 6. Przepisy § 4 i 5 stosuje się odpowiednio w przypadku przeniesienia do innego wydziału tego samego sądu oraz w przypadku powołania na stanowisko sędziego w sądzie wyższej instancji. Przewodniczący składu sądu może sprawdzić dane osobowe osób obecnych w miejscu dokonywania czynności sądowej na podstawie dowodu osobistego lub innego dokumentu stwierdzającego tożsamość. W przypadku odmowy poddania się sprawdzeniu tożsamości lub braku możliwości jej sprawdzenia przewodniczący składu sądu może zobowiązać taką osobę do opuszczenia miejsca dokonywania czynności sądowej.
 
 **Art. 48.**
 
@@ -991,7 +1429,7 @@ Art. 180–195. (pominięte)
 
 § 1. W razie naruszenia powagi, spokoju lub porządku czynności sądowych albo ubliżenia sądowi, innemu organowi państwowemu lub osobom biorącym udział w sprawie, sąd może ukarać osobę, która dopuściła się tego czynu karą porządkową: grzywny w wysokości do 3000 złotych lub karą pozbawienia wolności do czternastu dni; osobie pozbawionej wolności, w tym także tymczasowo aresztowanej, jako karę porządkową można wymierzyć karę przewidzianą w przepisach o wykonywaniu kary pozbawienia wolności albo w przepisach o wykonywaniu tymczasowego aresztowania.
 
-§ 2. Jeżeli czynu określonego w § 1 dopuścił się żołnierz w czynnej służbie wojskowej, z wyjątkiem terytorialnej służby wojskowej pełnionej dyspozycyjnie, sąd – zamiast wymierzenia kary – zwraca się do właściwego dowódcy jednostki wojskowej, który stosuje środki przewidziane w przepisach dotyczących żołnierzy.
+§ 2. Jeżeli czynu określonego w § 1 dopuścił się żołnierz w czynnej służbie wojskowej, z wyjątkiem terytorialnej służby wojskowej pełnionej dyspozycyjnie, sąd – zamiast wymierzenia kary – zwraca się do właściwego dowódcy jednostki wojskowej, który stosuje środki przewidziane w przepisach dotyczących żołnierzy; przepis ten stosuje się odpowiednio do osoby odbywającej zasadniczą służbę w obronie cywilnej.
 
 § 3. Przepisy § 1 i 2 stosuje się także, gdy czynu określonego w § 1 dopuszczono się w piśmie złożonym w sądzie lub za pośrednictwem środków porozumiewania się na odległość, o ile istnieje pewność co do osoby, która dopuściła się tego czynu.
 
@@ -1017,23 +1455,13 @@ Art. 180–195. (pominięte)
 
 § 1. Zarządzenia porządkowe przewodniczącego składu sądu oraz kary porządkowe wymierzane przez sąd nie mają zastosowania do sędziów, asesorów sądowych i ławników należących do składu orzekającego oraz do prokuratora, Prezesa, wiceprezesów, radców i referendarzy Prokuratorii Generalnej Rzeczypospolitej Polskiej biorących udział w sprawie, a także osób, do udziału których w sprawie stosuje się przepisy o prokuratorze.
 
-§ 2. Do obrońcy i pełnomocnika, będącego adwokatem lub aplikantem adwokackim, uprawnionym do występowania przed sądem na podstawie przepisów ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2022 r. poz. 1184 i 1268 oraz z 2023 r. poz. 1860), albo radcą prawnym lub aplikantem radcowskim, uprawnionym do występowania przed sądem na podstawie przepisów ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2022 r. poz. 1166 oraz z 2023 r. poz.
-
-- **1860)** , biorącego udział w sprawie nie stosuje się kary pozbawienia wolności, o której mowa w art. 49 § 1 i w art. 50 § 3.
-
-**Art. 51a.**
+§ 2. Do obrońcy i pełnomocnika, będącego adwokatem lub aplikantem adwokackim, uprawnionym do występowania przed sądem na podstawie przepisów ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2022 r. poz. 1184 i 1268 oraz z 2023 r. poz. 1860), albo radcą prawnym lub aplikantem radcowskim, uprawnionym do występowania przed sądem na podstawie przepisów ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2022 r. poz. 1166 oraz z 2023 r. poz. 1860), biorącego udział w sprawie nie stosuje się kary pozbawienia wolności, o której mowa w art. 49 § 1 i w art. 50 § 3.
 
 § 1. Sąd z urzędu ustala i stosuje właściwe prawo obce. Sąd może zwrócić się do Ministra Sprawiedliwości o udzielenie tekstu tego prawa oraz wyjaśnienie obcej praktyki sądowej.
 
 § 2. Sąd może zwrócić się do Ministra Sprawiedliwości również o udzielenie informacji co do istnienia wzajemności w stosunkach z państwem obcym.
 
-§ 3. Celem ustalenia treści prawa obcego lub obcej praktyki sądowej albo istnienia wzajemności sąd może zastosować także inne środki, w tym zasięgnąć opinii biegłych.
-
-**Art. 51b.** W razie wątpliwości co do istnienia przywileju lub immunitetu wynikającego z prawa międzynarodowego sąd może zwrócić się do ministra właściwego do spraw zagranicznych o informację.
-
-**Art. 52.** Sędziemu lub asesorowi sądowemu dokonującemu czynności sądowej jednoosobowo przysługują prawa przewodniczącego oraz prawa sądu przewidziane w art. 48–50.
-
-**Art. 52a.**
+§ 3. Celem ustalenia treści prawa obcego lub obcej praktyki sądowej albo istnienia wzajemności sąd może zastosować także inne środki, w tym zasięgnąć opinii biegłych. W razie wątpliwości co do istnienia przywileju lub immunitetu wynikającego z prawa międzynarodowego sąd może zwrócić się do ministra właściwego do spraw zagranicznych o informację. Sędziemu lub asesorowi sądowemu dokonującemu czynności sądowej jednoosobowo przysługują prawa przewodniczącego oraz prawa sądu przewidziane w art. 48–50.
 
 § 1. Przepisy art. 47c i art. 48 § 1 i 2 stosuje się odpowiednio do osób uczestniczących w posiedzeniu przeprowadzanym przy użyciu urządzeń technicznych umożliwiających jego przeprowadzenie za pośrednictwem środków porozumiewania się na odległość przebywających poza budynkiem sądu.
 
@@ -1043,7 +1471,19 @@ Art. 180–195. (pominięte)
 
 § 1. Dla każdej sprawy z zakresu, o którym mowa w art. 1 § 2 i 3 tworzy się akta. Akta mogą być tworzone i przetwarzane także z wykorzystaniem technik informatycznych.
 
-§ 1a. (uchylony) § 1b. (uchylony) § 1c. (uchylony) § 2. Akta sprawy przechowuje się w sądzie lub systemie teleinformatycznym obsługującym postępowanie sądowe przez okres niezbędny ze względu na rodzaj i charakter sprawy, terminy przedawnienia, interesy osób biorących udział w postępowaniu oraz znaczenie materiałów zawartych w aktach jako źródła informacji.
+§ 1a. System teleinformatyczny obsługujący postępowanie sądowe, w którym tworzy się i przetwarza akta sprawy, utrzymuje Minister Sprawiedliwości.
+
+§ 1a. (uchylony)
+
+§ 1b. Minister Sprawiedliwości jest administratorem systemu teleinformatycznego obsługującego postępowanie sądowe.
+
+§ 1b. (uchylony)
+
+§ 1c. Minister Sprawiedliwości, jako administrator systemu teleinformatycznego obsługującego postępowanie sądowe nie ma dostępu do akt postępowania.
+
+§ 1c. (uchylony)
+
+§ 2. Akta sprawy przechowuje się w sądzie lub systemie teleinformatycznym obsługującym postępowanie sądowe przez okres niezbędny ze względu na rodzaj i charakter sprawy, terminy przedawnienia, interesy osób biorących udział w postępowaniu oraz znaczenie materiałów zawartych w aktach jako źródła informacji.
 
 § 3. Po okresie przechowywania w sądzie akta sprawy podlegają przekazaniu do właściwych archiwów państwowych.
 
@@ -1051,15 +1491,9 @@ Art. 180–195. (pominięte)
 
 § 5. (uchylony)
 
-**Art. 53a.**
-
 § 1. Pochodzący od sądu dokument uzyskany z systemu teleinformatycznego obsługującego postępowanie sądowe ma moc dokumentu wydanego przez sąd, o ile ma cechy umożliwiające jego weryfikację w tym systemie.
 
-§ 2. Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób i cechy umożliwiające weryfikację istnienia i treści pisma w systemie teleinformatycznym obsługującym postępowanie sądowe, mając na względzie minimalne wymagania dla systemów teleinformatycznych oraz potrzebę ochrony praw osób uczestniczących w postępowaniach sądowych.
-
-**Art. 53b.** Sąd może weryfikować także za pośrednictwem systemu teleinformatycznego status prokuratora, asesora prokuratorskiego, adwokata, aplikanta adwokackiego, radcy prawnego, aplikanta radcowskiego, prawnika zagranicznego, rzecznika patentowego, aplikanta rzecznikowskiego lub radcy Prokuratorii Generalnej Rzeczypospolitej Polskiej dokonujących czynności procesowej.
-
-**Art. 53c.**
+§ 2. Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób i cechy umożliwiające weryfikację istnienia i treści pisma w systemie teleinformatycznym obsługującym postępowanie sądowe, mając na względzie minimalne wymagania dla systemów teleinformatycznych oraz potrzebę ochrony praw osób uczestniczących w postępowaniach sądowych. Sąd może weryfikować także za pośrednictwem systemu teleinformatycznego status prokuratora, asesora prokuratorskiego, adwokata, aplikanta adwokackiego, radcy prawnego, aplikanta radcowskiego, prawnika zagranicznego, rzecznika patentowego, aplikanta rzecznikowskiego lub radcy Prokuratorii Generalnej Rzeczypospolitej Polskiej dokonujących czynności procesowej.
 
 § 1. Minister Sprawiedliwości może zażądać przedstawienia mu akt sprawy, w której sąd zwrócił się o udzielenie tekstu prawa obcego, wyjaśnienie obcej praktyki sądowej lub informację co do istnienia wzajemności w stosunkach z państwem obcym.
 
@@ -1067,15 +1501,11 @@ Art. 180–195. (pominięte)
 
 § 2a. Minister Sprawiedliwości może żądać udostępnienia akt sprawy, o których mowa w § 2, ministrowi właściwemu do spraw zagranicznych na jego wniosek, w celu wykonywania zadań związanych z reprezentowaniem Rzeczypospolitej Polskiej przed Europejskim Trybunałem Praw Człowieka lub innym organem międzynarodowym.
 
-§ 3. Akta spraw zakończonych mogą być udostępniane jednostkom organizacyjnym prowadzącym działalność naukową lub badawczo-rozwojową dla celów naukowych i badawczych, a także Krajowej Szkole Sądownictwa i Prokuratury dla celów dydaktycznych.
+§ 3. Akta spraw zakończonych mogą być udostępniane jednostkom organizacyjnym prowadzącym działalność naukową lub badawczo-rozwojową dla celów naukowych i badawczych, a także Krajowej Szkole Sądownictwa i Prokuratury dla celów dydaktycznych. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, tryb zakładania i udostępniania konta oraz sposób korzystania z konta w systemie teleinformatycznym obsługującym postępowanie sądowe, za pomocą którego można wnosić pisma procesowe, i zamykania go, z uwzględnieniem sprawności postępowania, ochrony praw stron postępowania oraz możliwości składania jednorazowo wielu pism.
 
-**Art. 53d.** Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, tryb zakładania i udostępniania konta oraz sposób korzystania z konta w systemie teleinformatycznym obsługującym postępowanie sądowe, za pomocą którego można wnosić pisma procesowe, i zamykania go, z uwzględnieniem sprawności postępowania, ochrony praw stron postępowania oraz możliwości składania jednorazowo wielu pism.
+§ 1. O ile przepis szczególny tak stanowi, pisma sądowe doręcza się adwokatom, radcom prawnym, rzecznikom patentowym, prokuratorowi, Prokuratorii Generalnej Rzeczypospolitej Polskiej i organowi emerytalnemu określonemu przez ministra właściwego do spraw wewnętrznych drogą elektroniczną za pośrednictwem kont w systemie teleinformatycznym (portal informacyjny). Za pośrednictwem portalu informacyjnego można też informować strony i ich pełnomocników o czynnościach podejmowanych w sprawie.
 
-**Art. 53e.**
-
-§ 1. W zakresie określonym w przepisach szczególnych doręcza się pisma sądowe i wnosi pisma do sądu za pośrednictwem kont w systemie teleinformatycznym (portal informacyjny). Za pośrednictwem portalu informacyjnego można też informować strony i ich pełnomocników o czynnościach podejmowanych w sprawie.
-
-§ 2. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, warunki techniczne korzystania z portalu informacyjnego i jego funkcjonowania, tryb zakładania konta, sposób uzyskiwania dostępu do konta, sposób udostępniania w nim spraw oraz tryb likwidacji konta, z uwzględnieniem sprawności postępowania, ochrony praw stron postępowania oraz zasad wykonywania zawodu przez adwokatów, radców prawnych, rzeczników patentowych, komorników sądowych oraz stałych mediatorów.
+§ 2. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, warunki techniczne korzystania z portalu informacyjnego i jego funkcjonowania oraz tryb zakładania, udostępniania i likwidacji konta w portalu informacyjnym, z uwzględnieniem sprawności postępowania, ochrony praw stron postępowania oraz zasad wykonywania zawodu przez adwokatów, radców prawnych i rzeczników patentowych.
 
 § 3. Do posiadania konta instytucjonalnego w portalu informacyjnym obowiązany jest organ emerytalny określony przez ministra właściwego do spraw wewnętrznych.
 
@@ -1144,11 +1574,11 @@ Art. 180–195. (pominięte)
 - **10)** adwokatów, radców prawnych, notariuszy, komorników sądowych, Prezesa, wiceprezesów, radców i referendarzy Prokuratorii Generalnej Rzeczypospolitej Polskiej,
 - **11)** kuratorów sądowych, rzeczników patentowych, biegłych sądowych, doradców restrukturyzacyjnych – w trakcie pełnienia czynności służbowych,
 - **12)** funkcjonariuszy Policji, Straży Granicznej, Służby Ochrony Państwa, w tym inspektorów Biura Nadzoru Wewnętrznego oraz funkcjonariuszy Służby Więziennej, Centralnego Biura Antykorupcyjnego, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego, Służby Celno-Skarbowej, Straży Ochrony Kolei, żołnierzy Żandarmerii Wojskowej i pracowników Krajowej Administracji Skarbowej – w trakcie pełnienia czynności służbowych,
-- **13)** innych osób, w stosunku do których dyrektor sądu albo prezes sądu wyraził zgodę na ich wejście – po uprzednim okazaniu legitymacji służbowej lub dokumentu umożliwiającego ustalenie tożsamości i zajmowanego stanowiska lub pełnionej funkcji.
+- **13)** innych osób, w stosunku do których dyrektor sądu albo prezes sądu wyraził zgodę na ich wejście po uprzednim okazaniu legitymacji służbowej lub dokumentu umożliwiającego ustalenie tożsamości i zajmowanego stanowiska lub pełnionej funkcji.
 
 § 17. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór protokołu oraz sposób, miejsce i okresy przechowywania protokołu, o którym mowa w § 11, i notatki służbowej, o której mowa w § 13, biorąc pod uwagę konieczność zapewnienia przejrzystości, skrótowości i kompletności protokołu, z uwzględnieniem informacji niezbędnych do udokumentowania zakresu, przebiegu oraz wyniku czynności przeglądania zawartości bagażu lub odzieży osoby wchodzącej do budynku sądu, o których mowa w § 5 i 8, a także uwzględniając potrzebę zapewnienia bezpiecznego przechowywania protokołu i notatki służbowej oraz niezbędność zapewnienia dostępu do nich w związku z prowadzonymi postępowaniami.
 
-### DZIAŁ II Sędziowie i asesorzy sądowi
+### Dział II Sędziowie i asesorzy sądowi
 
 #### Rozdział 1 Powołanie do pełnienia urzędu na stanowisku sędziowskim
 
@@ -1162,7 +1592,9 @@ Art. 180–195. (pominięte)
 - **2)** sędziego sądu okręgowego;
 - **3)** sędziego sądu apelacyjnego.
 
-§ 2a. (uchylony) § 3. Powołując do pełnienia urzędu na stanowisku sędziowskim, Prezydent Rzeczypospolitej Polskiej wyznacza miejsce służbowe (siedzibę) sędziego. Zmiana miejsca służbowego sędziego może być dokonana bez zmiany stanowiska w przypadkach i w trybie określonych w art. 75.
+§ 2a. (uchylony)
+
+§ 3. Powołując do pełnienia urzędu na stanowisku sędziowskim, Prezydent Rzeczypospolitej Polskiej wyznacza miejsce służbowe (siedzibę) sędziego. Zmiana miejsca służbowego sędziego może być dokonana bez zmiany stanowiska w przypadkach i w trybie określonych w art. 75.
 
 § 4. Sędzia może orzekać we wszystkich sprawach w swoim miejscu służbowym, a w innych sądach w przypadkach określonych w ustawie (jurysdykcja sędziego). Przepisy o przydziale spraw, wyznaczaniu i zmianie składu sądu oraz delegowaniu sędziego na czas pełnienia funkcji lub zajmowania stanowiska nie ograniczają jurysdykcji sędziego i nie mogą być podstawą stwierdzenia sprzeczności składu sądu z przepisami prawa, nienależytego obsadzenia sądu lub udziału osoby nieuprawnionej lub niezdolnej do orzekania w wydaniu orzeczenia.
 
@@ -1190,13 +1622,11 @@ Art. 180–195. (pominięte)
 
 § 7. Zgłaszający swoją kandydaturę dołącza do karty zgłoszenia informację z Krajowego Rejestru Karnego dotyczącą jego osoby i zaświadczenie stwierdzające, że jest zdolny, ze względu na stan zdrowia, do pełnienia obowiązków sędziego, z zastrzeżeniem art. 58 § 4a. Zgłaszający urodzony przed dniem 1 sierpnia 1972 r. składa w postaci papierowej oświadczenie, o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2023 r. poz. 342, 497, 1195 i 1872), albo informację, o której mowa w art. 7 ust. 3a tej ustawy. Do karty zgłoszenia dołącza się również oświadczenie w przedmiocie zgody albo niewyrażenia zgody na wykorzystanie dokumentów dotyczących zgłaszającego w innych postępowaniach w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim.
 
-§ 8. Zawarte w karcie zgłoszenia oświadczenia: o korzystaniu z pełni praw cywilnych i obywatelskich, o toczącym się postępowaniu o przestępstwo lub przestępstwo skarbowe, o ukaraniu w postępowaniu dyscyplinarnym, o toczącym się postępowaniu dyscyplinarnym oraz o uprawomocnieniu się orzeczenia, o którym mowa w art. 30 ust. 1 ustawy z dnia 11 kwietnia 1997 r. o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944–1990 osób pełniących funkcje publiczne (Dz. U. z 1999 r. poz. 428, z późn. zm. ) , jak również oświadczenie, że nie toczy się wobec kandydata inne postępowanie w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim, kandydat składa pod rygorem odpowiedzialności karnej za fałszywe zeznania.
+§ 8. Zawarte w karcie zgłoszenia oświadczenia: o korzystaniu z pełni praw cywilnych i obywatelskich, o toczącym się postępowaniu o przestępstwo lub przestępstwo skarbowe, o ukaraniu w postępowaniu dyscyplinarnym, o toczącym się postępowaniu dyscyplinarnym oraz o uprawomocnieniu się orzeczenia, o którym mowa w art. 30 ust. 1 ustawy z dnia 11 kwietnia 1997 r. o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944–1990 osób pełniących funkcje publiczne (Dz. U. z 1999 r. poz. 428, z późn. zm.), jak również oświadczenie, że nie toczy się wobec kandydata inne postępowanie w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim, kandydat składa pod rygorem odpowiedzialności karnej za fałszywe zeznania.
 
 § 9. Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Sądownictwa, określi, w drodze rozporządzenia, zakres danych zawartych w karcie zgłoszenia na wolne stanowisko sędziowskie, mając na względzie, aby dane te umożliwiały weryfikację w niezbędnym zakresie spełnienia warunków wymaganych przez ustawę od kandydatów na stanowisko sędziowskie.
 
 § 10. Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw zdrowia, po zasięgnięciu opinii Krajowej Rady Sądownictwa, określi, w drodze rozporządzenia, szczegółowy zakres i sposób przeprowadzania badań lekarskich i psychologicznych kandydatów do objęcia urzędu sędziego oraz kwalifikacje wymagane od lekarzy i psychologów uprawnionych do przeprowadzania tych badań i wydawania zaświadczeń o zdolności do pełnienia obowiązków sędziego, jak również terminy wykorzystania wydawanych zaświadczeń w postępowaniu w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim, mając na względzie zapewnienie należytej oceny zdolności kandydatów do objęcia urzędu sędziego, uwzględniającej charakter tego urzędu.
-
-**Art. 57a.**
 
 § 1. Kandydat na wolne stanowisko sędziowskie, który zajmuje stanowisko sędziego sądu powszechnego, sędziego sądu administracyjnego albo sędziego sądu wojskowego, do karty zgłoszenia dołącza wykaz sygnatur akt pięćdziesięciu spraw sądowych różnych kategorii, w których rozpoznawaniu brał udział, a w przypadku mniejszej liczby spraw – wykaz sygnatur akt wszystkich spraw.
 
@@ -1208,7 +1638,9 @@ Art. 180–195. (pominięte)
 
 § 5. Kandydat na wolne stanowisko sędziowskie, który ma tytuł naukowy profesora lub stopień naukowy doktora habilitowanego nauk prawnych, do karty zgłoszenia dołącza wykaz publikacji wraz z opiniami recenzentów, jeżeli były sporządzone, odpisy sporządzonych opinii prawnych oraz charakterystykę osiągnięć w zakresie kształcenia kadr lub dorobku naukowego.
 
-§ 6. (uchylony) § 7. Kandydat na wolne stanowisko sędziowskie zajmujący stanowisko sędziego albo prokuratora, który w okresie poprzedzającym obwieszczenie był delegowany do pełnienia czynności administracyjnych w Ministerstwie Sprawiedliwości lub innej jednostce organizacyjnej podległej Ministrowi Sprawiedliwości lub przez niego nadzorowanej, Kancelarii Prezydenta Rzeczypospolitej Polskiej albo urzędzie obsługującym ministra właściwego do spraw zagranicznych, do karty zgłoszenia dołącza wykaz sygnatur akt pięćdziesięciu spraw określonych w § 1 lub 2 lub spraw zarejestrowanych w referacie kandydata lub przez niego nadzorowanych w okresie delegowania, a także opis wykonywanych w okresie delegowania czynności wraz z opinią przełożonego.
+§ 6. (uchylony)
+
+§ 7. Kandydat na wolne stanowisko sędziowskie zajmujący stanowisko sędziego albo prokuratora, który w okresie poprzedzającym obwieszczenie był delegowany do pełnienia czynności administracyjnych w Ministerstwie Sprawiedliwości lub innej jednostce organizacyjnej podległej Ministrowi Sprawiedliwości lub przez niego nadzorowanej, Kancelarii Prezydenta Rzeczypospolitej Polskiej albo urzędzie obsługującym ministra właściwego do spraw zagranicznych, do karty zgłoszenia dołącza wykaz sygnatur akt pięćdziesięciu spraw określonych w § 1 lub 2 lub spraw zarejestrowanych w referacie kandydata lub przez niego nadzorowanych w okresie delegowania, a także opis wykonywanych w okresie delegowania czynności wraz z opinią przełożonego.
 
 § 8. Przepis § 7 stosuje się odpowiednio w przypadku delegowania do pełnienia:
 
@@ -1223,9 +1655,11 @@ Art. 180–195. (pominięte)
 
 § 11. Do kandydata na wolne stanowisko sędziowskie, który wykonywał więcej niż jeden z zawodów wskazanych w przepisach § 1–5 i 10, stosuje się przepisy § 1–5 i 7, z tym że łączna liczba zamieszczonych w wykazie sygnatur akt spraw lub odpisów opinii prawnych i innych dokumentów, o których mowa w tych przepisach, nie może przekraczać stu.
 
-§ 12. Do karty zgłoszenia kandydat może dołączyć także inne dokumenty popierające jego kandydaturę, w szczególności opinie i rekomendacje. Art. 57aa. § 1. Dokumenty dołączane do karty zgłoszenia kandydat tworzy w systemie teleinformatycznym i wnosi za pośrednictwem tego systemu, opatrując je podpisem elektronicznym nadanym przez ten system, podpisem zaufanym, podpisem osobistym albo kwalifikowanym podpisem elektronicznym.
+§ 12. Do karty zgłoszenia kandydat może dołączyć także inne dokumenty popierające jego kandydaturę, w szczególności opinie i rekomendacje.
 
-§ 2. Dokumenty mające w oryginale postać papierową kandydat zamieszcza w systemie teleinformatycznym w postaci elektronicznych kopii, opatrując je podpisem elektronicznym nadanym przez ten system, podpisem zaufanym, podpisem osobistym albo kwalifikowanym podpisem elektronicznym, co jednocześnie stanowi oświadczenie o zgodności elektronicznej kopii dokumentu z oryginałem w postaci papierowej. Oświadczenie to jest składane pod rygorem odpowiedzialności karnej za fałszywe zeznania. Prezes właściwego sądu, któremu zgłoszono kandydaturę na wolne stanowisko sędziowskie, w uzasadnionych przypadkach może wezwać kandydata do doręczenia w terminie trzech dni oryginałów dokumentów. Obowiązek zamieszczenia w systemie teleinformatycznym elektronicznej kopii dokumentu nie dotyczy oświadczenia, o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944– 1990 oraz treści tych dokumentów, a także informacji, o której mowa w art. 7 ust. 3a tej ustawy.
+§ 1. Dokumenty dołączane do karty zgłoszenia kandydat tworzy w systemie teleinformatycznym i wnosi za pośrednictwem tego systemu, opatrując je podpisem elektronicznym nadanym przez ten system, podpisem zaufanym, podpisem osobistym albo kwalifikowanym podpisem elektronicznym.
+
+§ 2. Dokumenty mające w oryginale postać papierową kandydat zamieszcza w systemie teleinformatycznym w postaci elektronicznych kopii, opatrując je podpisem elektronicznym nadanym przez ten system, podpisem zaufanym, podpisem osobistym albo kwalifikowanym podpisem elektronicznym, co jednocześnie stanowi oświadczenie o zgodności elektronicznej kopii dokumentu z oryginałem w postaci papierowej. Oświadczenie to jest składane pod rygorem odpowiedzialności karnej za fałszywe zeznania. Prezes właściwego sądu, któremu zgłoszono kandydaturę na wolne stanowisko sędziowskie, w uzasadnionych przypadkach może wezwać kandydata do doręczenia w terminie trzech dni oryginałów dokumentów. Obowiązek zamieszczenia w systemie teleinformatycznym elektronicznej kopii dokumentu nie dotyczy oświadczenia, o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów, a także informacji, o której mowa w art. 7 ust. 3a tej ustawy.
 
 § 3. Prezes właściwego sądu, któremu zgłoszono kandydaturę na wolne stanowisko sędziowskie, zamieszcza w systemie teleinformatycznym w terminie 3 dni roboczych elektroniczne kopie dokumentów innych niż zamieszczone przez kandydata, mających w oryginale postać papierową, wymaganych w tym postępowaniu, opatrując je podpisem elektronicznym nadanym przez ten system. Obowiązek zamieszczenia w systemie teleinformatycznym elektronicznej kopii dokumentu nie dotyczy oświadczenia, o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów, a także informacji, o której mowa w art. 7 ust. 3a tej ustawy.
 
@@ -1234,17 +1668,27 @@ Art. 180–195. (pominięte)
 - **1)** nieuwzględnienia zastrzeżenia od pozostawienia zgłoszenia bez rozpatrzenia albo
 - **2)** umorzenia postępowania, albo
 - **3)** nieprzedstawienia wniosku o powołanie do pełnienia urzędu na stanowisku sędziowskim Prezydentowi Rzeczypospolitej Polskiej, albo
-- **4)** przedstawienia wniosku o powołanie do pełnienia urzędu na stanowisku sędziowskim Prezydentowi Rzeczypospolitej Polskiej. Art. 57ab. § 1. Kandydaturę na wolne stanowisko sędziego sądu rejonowego oraz na wolne stanowisko sędziego sądu okręgowego zgłasza się prezesowi właściwego sądu okręgowego, zaś kandydaturę na wolne stanowisko sędziego sądu apelacyjnego – prezesowi sądu apelacyjnego.
+- **4)** przedstawienia wniosku o powołanie do pełnienia urzędu na stanowisku sędziowskim Prezydentowi Rzeczypospolitej Polskiej.
 
-§ 2. Czynności w stosunku do kandydata w toku postępowania w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim prezes właściwego sądu dokonuje za pośrednictwem systemu teleinformatycznego. Art. 57ac. § 1. Jeżeli zgłoszenie na wolne stanowisko sędziowskie nie spełnia wymogów formalnych, o których mowa w art. 57 § 6 i 7 oraz art. 57a § 1–5 i 7, prezes właściwego sądu wzywa kandydata do jego uzupełnienia w terminie siedmiu dni.
+§ 1. Kandydaturę na wolne stanowisko sędziego sądu rejonowego oraz na wolne stanowisko sędziego sądu okręgowego zgłasza się prezesowi właściwego sądu okręgowego, zaś kandydaturę na wolne stanowisko sędziego sądu apelacyjnego – prezesowi sądu apelacyjnego.
+
+§ 2. Czynności w stosunku do kandydata w toku postępowania w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim prezes właściwego sądu dokonuje za pośrednictwem systemu teleinformatycznego.
+
+§ 1. Jeżeli zgłoszenie na wolne stanowisko sędziowskie nie spełnia wymogów formalnych, o których mowa w art. 57 § 6 i 7 oraz art. 57a § 1–5 i 7, prezes właściwego sądu wzywa kandydata do jego uzupełnienia w terminie siedmiu dni.
 
 § 2. Jeżeli swoją kandydaturę zgłosiła osoba, która nie spełnia warunków do objęcia stanowiska sędziego sądu powszechnego, o których mowa w art. 61 § 1 pkt 1 oraz 3–7 lub § 2 i 5 albo w art. 63 i art. 64, albo zgłoszenie nastąpiło po upływie terminu, o którym mowa w art. 57 § 1, lub zgłoszenie nie zostało uzupełnione w wyznaczonym terminie albo wobec zgłaszającego kandydaturę toczy się inne postępowanie w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim, prezes właściwego sądu zawiadamia zgłaszającego o pozostawieniu zgłoszenia bez rozpatrzenia, za pośrednictwem systemu teleinformatycznego, podając przyczynę pozostawienia zgłoszenia bez rozpatrzenia.
 
-§ 3. Osoba, której zgłoszenie pozostawiono bez rozpatrzenia może w terminie siedmiu dni od zawiadomienia, o którym mowa w § 2, złożyć zastrzeżenie za pośrednictwem systemu teleinformatycznego. W razie nieuwzględnienia zastrzeżenia prezes właściwego sądu niezwłocznie przekazuje je za pośrednictwem systemu teleinformatycznego wraz ze zgłoszeniem Krajowej Radzie Sądownictwa. W przedmiocie pozostawienia zgłoszenia bez rozpatrzenia rozstrzyga Krajowa Rada Sądownictwa. Art. 57ad. § 1. W razie cofnięcia zgłoszenia na wolne stanowisko sędziowskie prezes właściwego sądu niezwłocznie przekazuje oświadczenie o cofnięciu zgłoszenia za pośrednictwem systemu teleinformatycznego do Krajowej Rady Sądownictwa. Nie wstrzymuje to podejmowania dalszych czynności w stosunku do kandydatów, którzy zgłosili się na to samo wolne stanowisko sędziowskie.
+§ 3. Osoba, której zgłoszenie pozostawiono bez rozpatrzenia może w terminie siedmiu dni od zawiadomienia, o którym mowa w § 2, złożyć zastrzeżenie za pośrednictwem systemu teleinformatycznego. W razie nieuwzględnienia zastrzeżenia prezes właściwego sądu niezwłocznie przekazuje je za pośrednictwem systemu teleinformatycznego wraz ze zgłoszeniem Krajowej Radzie Sądownictwa. W przedmiocie pozostawienia zgłoszenia bez rozpatrzenia rozstrzyga Krajowa Rada Sądownictwa.
 
-§ 2. Doręczenia uznaje się za skuteczne z chwilą zalogowania się kandydata do systemu teleinformatycznego lub po upływie czternastu dni od dnia umieszczenia pisma w systemie teleinformatycznym. Art. 57ae. § 1. O zgłoszeniu każdego kandydata na wolne stanowisko sędziowskie prezes właściwego sądu zawiadamia Ministra Sprawiedliwości przez udostępnienie karty zgłoszenia kandydata w systemie teleinformatycznym.
+§ 1. W razie cofnięcia zgłoszenia na wolne stanowisko sędziowskie prezes właściwego sądu niezwłocznie przekazuje oświadczenie o cofnięciu zgłoszenia za pośrednictwem systemu teleinformatycznego do Krajowej Rady Sądownictwa. Nie wstrzymuje to podejmowania dalszych czynności w stosunku do kandydatów, którzy zgłosili się na to samo wolne stanowisko sędziowskie.
 
-§ 2. Prezes sądu okręgowego ma dostęp do zgromadzonych w systemie teleinformatycznym dokumentów dotyczących wszystkich postępowań w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim w sądzie okręgowym i w sądach rejonowych danego okręgu. Prezes sądu apelacyjnego ma dostęp do zgromadzonych w systemie teleinformatycznym dokumentów dotyczących wszystkich postępowań w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim w sądzie apelacyjnym. Art. 57af. Dokumenty dotyczące postępowania w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim, zgromadzone w systemie teleinformatycznym są przechowywane przez okres dwunastu miesięcy. Okres przechowywania dokumentów, które mogą być wykorzystane w innych postępowaniach w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim dotyczących danego kandydata, wynosi siedem lat. Po upływie okresu przechowywania dokumenty podlegają brakowaniu w sposób określony w przepisach ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164). Art. 57ag. Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Sądownictwa, w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, tryb zakładania konta w systemie teleinformatycznym, sposób dostępu do konta, sposób korzystania z systemu teleinformatycznego oraz podejmowania w nim czynności związanych z wnoszeniem karty zgłoszenia i dołączonych dokumentów, szczegółowy tryb doręczeń i zawiadomień elektronicznych, jak również sposób przechowywania, udostępniania i usuwania – po zakończeniu postępowania w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim – zamieszczonych w systemie dokumentów, mając na względzie potrzebę zapewnienia sprawności postępowania dotyczącego objęcia stanowiska sędziowskiego, dostępność drogi elektronicznej dla uczestników postępowania oraz potrzebę zabezpieczenia danych zgromadzonych w systemie, w tym danych osobowych kandydatów. Art. 57ah. § 1. Prezes sądu, któremu złożono kartę zgłoszenia, po stwierdzeniu spełniania przez kandydata warunków oraz wymogów formalnych zgłoszenia, zarządza, w terminie nie dłuższym niż siedem dni od dnia zgłoszenia, dokonanie oceny kwalifikacji kandydata przez wyznaczonego sędziego.
+§ 2. Doręczenia uznaje się za skuteczne z chwilą zalogowania się kandydata do systemu teleinformatycznego lub po upływie czternastu dni od dnia umieszczenia pisma w systemie teleinformatycznym.
+
+§ 1. O zgłoszeniu każdego kandydata na wolne stanowisko sędziowskie prezes właściwego sądu zawiadamia Ministra Sprawiedliwości przez udostępnienie karty zgłoszenia kandydata w systemie teleinformatycznym.
+
+§ 2. Prezes sądu okręgowego ma dostęp do zgromadzonych w systemie teleinformatycznym dokumentów dotyczących wszystkich postępowań w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim w sądzie okręgowym i w sądach rejonowych danego okręgu. Prezes sądu apelacyjnego ma dostęp do zgromadzonych w systemie teleinformatycznym dokumentów dotyczących wszystkich postępowań w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim w sądzie apelacyjnym. Dokumenty dotyczące postępowania w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim, zgromadzone w systemie teleinformatycznym są przechowywane przez okres dwunastu miesięcy. Okres przechowywania dokumentów, które mogą być wykorzystane w innych postępowaniach w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim dotyczących danego kandydata, wynosi siedem lat. Po upływie okresu przechowywania dokumenty podlegają brakowaniu w sposób określony w przepisach ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164). Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Sądownictwa, w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, tryb zakładania konta w systemie teleinformatycznym, sposób dostępu do konta, sposób korzystania z systemu teleinformatycznego oraz podejmowania w nim czynności związanych z wnoszeniem karty zgłoszenia i dołączonych dokumentów, szczegółowy tryb doręczeń i zawiadomień elektronicznych, jak również sposób przechowywania, udostępniania i usuwania – po zakończeniu postępowania w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim – zamieszczonych w systemie dokumentów, mając na względzie potrzebę zapewnienia sprawności postępowania dotyczącego objęcia stanowiska sędziowskiego, dostępność drogi elektronicznej dla uczestników postępowania oraz potrzebę zabezpieczenia danych zgromadzonych w systemie, w tym danych osobowych kandydatów.
+
+§ 1. Prezes sądu, któremu złożono kartę zgłoszenia, po stwierdzeniu spełniania przez kandydata warunków oraz wymogów formalnych zgłoszenia, zarządza, w terminie nie dłuższym niż siedem dni od dnia zgłoszenia, dokonanie oceny kwalifikacji kandydata przez wyznaczonego sędziego.
 
 § 2. W razie potrzeby prezes sądu może zlecić dokonanie oceny kwalifikacji więcej niż jednemu sędziemu.
 
@@ -1253,8 +1697,6 @@ Art. 180–195. (pominięte)
 § 4. Prezes właściwego sądu zapoznaje kandydata z oceną kwalifikacji, zamieszczając ją w systemie teleinformatycznym. Kandydat ma prawo do złożenia prezesowi sądu uwag do oceny kwalifikacji w terminie siedmiu dni od daty zamieszczenia oceny kwalifikacji w systemie teleinformatycznym.
 
 § 5. Prezes sądu apelacyjnego przedstawia kandydaturę na wolne stanowisko sędziego sądu apelacyjnego wraz z oceną kwalifikacji oraz ewentualnymi uwagami kandydata do zaopiniowania kolegium sądu apelacyjnego. Prezes sądu okręgowego przedstawia kandydaturę na wolne stanowisko sędziego sądu okręgowego i sędziego sądu rejonowego wraz z oceną kwalifikacji oraz ewentualnymi uwagami kandydata do zaopiniowania kolegium sądu okręgowego.
-
-**Art. 57b.**
 
 § 1. Ocena kwalifikacji kandydata zajmującego stanowisko sędziego sądu powszechnego, sędziego sądu administracyjnego oraz sędziego sądu wojskowego obejmuje badanie poziomu merytorycznego orzecznictwa oraz sprawności i efektywności podejmowanych czynności i organizowania pracy przy rozpoznawaniu spraw lub wykonywaniu innych powierzonych zadań lub funkcji, z uwzględnieniem stopnia obciążenia wykonywanymi zadaniami i ich złożoności, realizacji procesu doskonalenia zawodowego, a także kultury urzędowania, obejmującej kulturę osobistą i kulturę organizacji pracy oraz poszanowania praw stron lub uczestników postępowania przy rozpoznawaniu spraw lub wykonywaniu innych powierzonych zadań lub funkcji. Przez badanie poziomu merytorycznego orzecznictwa rozumie się przede wszystkim badanie sposobu formułowania orzeczeń, a także ich uzasadnień, zwięzłość tych uzasadnień, prawidłowość formułowania sądów z uwzględnieniem zasad logiki i doświadczenia życiowego, a także adekwatność przytaczanego orzecznictwa i poglądów doktryny do problemu będącego przedmiotem rozpoznania w sprawie.
 
@@ -1266,21 +1708,11 @@ Art. 180–195. (pominięte)
 
 § 5. Jeżeli w okresie ostatnich dwóch lat poprzedzających zgłoszenie kandydat, o którym mowa w § 1, nie wykonywał zadań określonych w art. 1 § 2 i 3, przepis § 3 stosuje się odpowiednio, z tym że badaniem obejmuje się okres dwóch lat, w których zadania te ostatnio były wykonywane.
 
-§ 6. Do oceny kwalifikacji kandydata, o którym mowa w § 1, dołącza się odpisy znajdujących się w aktach osobowych prawomocnych wyroków orzekających karę dyscyplinarną oraz dokumentów dotyczących zwrócenia uwagi lub wytknięcia uchybienia, o których mowa w art. 37 § 4 i art. 40 § 1 ustawy, a także art. 97 § 1 ustawy z dnia 8 grudnia 2017 r. o Sądzie Najwyższym (Dz. U. z 2023 r. poz. 1093, 1532 i
-
-- **1672)** .
-
-**Art. 57c.** (uchylony)
-
-**Art. 57d.** (uchylony)
-
-**Art. 57e.**
+§ 6. Do oceny kwalifikacji kandydata, o którym mowa w § 1, dołącza się odpisy znajdujących się w aktach osobowych prawomocnych wyroków orzekających karę dyscyplinarną oraz dokumentów dotyczących zwrócenia uwagi lub wytknięcia uchybienia, o których mowa w art. 37 § 4 i art. 40 § 1 ustawy, a także art. 97 § 1 ustawy z dnia 8 grudnia 2017 r. o Sądzie Najwyższym (Dz. U. z 2023 r. poz. 1093, 1532 i 1672). (uchylony) (uchylony)
 
 § 1. Ocena kwalifikacji kandydata zajmującego stanowisko prokuratora jest dokonywana pod względem prawidłowości i poziomu merytorycznego, jak również efektywności wykonywania powierzonych obowiązków służbowych, z uwzględnieniem stopnia obciążenia wykonywanymi zadaniami i ich złożoności, a także podnoszenia kwalifikacji zawodowych i kultury urzędowania obejmującej kulturę osobistą oraz sposób zachowania wobec uczestników postępowania i współpracowników. Przepisy art. 57b § 2 i 4 stosuje się odpowiednio. Sędzia dokonujący oceny kwalifikacji może objąć badaniem także akta spraw nieujęte w wykazie oraz zwracać się do prezesów sądów lub jednostek organizacyjnych prokuratury o wskazanie sygnatur i przedstawienie akt takich spraw.
 
 § 2. Do oceny kwalifikacji kandydata, o którym mowa w § 1, dołącza się opinie przełożonych, a także odpisy znajdujących się w aktach osobowych prokuratora prawomocnych wyroków orzekających karę dyscyplinarną lub prawomocnych decyzji o wymierzeniu kary porządkowej upomnienia, jak również odpisy prawomocnych decyzji prokuratora przełożonego, zawierających wytknięcie uchybienia w razie oczywistej obrazy prawa, chyba że uprawniony organ zarządził usunięcie tych wyroków lub decyzji z akt osobowych.
-
-**Art. 57f.**
 
 § 1. Ocena kwalifikacji kandydata wykonującego zawód adwokata, radcy prawnego, notariusza albo zajmującego stanowisko radcy Prokuratorii Generalnej Rzeczypospolitej Polskiej jest dokonywana w oparciu o badanie jakości, sprawności, rzetelności i terminowości dokonywanych czynności bądź jakości i rzetelności sporządzonych opinii prawnych lub innych dokumentów sporządzonych w związku ze stosowaniem lub tworzeniem prawa, a także podnoszenia kwalifikacji zawodowych i kultury urzędowania obejmującej kulturę osobistą oraz sposób zachowania wobec uczestników postępowania i współpracowników.
 
@@ -1294,17 +1726,9 @@ Art. 180–195. (pominięte)
 
 § 6. Do oceny kwalifikacji kandydata zajmującego stanowisko radcy Prokuratorii Generalnej Rzeczypospolitej Polskiej dołącza się protokoły okresowych ocen kwalifikacyjnych oraz odpisy prawomocnych orzeczeń o ukaraniu karą dyscyplinarną, chyba że kara została uznana za niebyłą.
 
-§ 7. Do oceny kwalifikacji kandydata wykonującego zawód adwokata, radcy prawnego albo notariusza dołącza się protokoły wizytacji, kontroli lub ocen przeprowadzonych w trybie art. 36 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze, art. 22 ustawy z dnia 6 lipca 1982 r. o radcach prawnych albo art. 44 § 2 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2022 r. poz. 1799 oraz z 2023 r. poz. 1394 i 1615).
+§ 7. Do oceny kwalifikacji kandydata wykonującego zawód adwokata, radcy prawnego albo notariusza dołącza się protokoły wizytacji, kontroli lub ocen przeprowadzonych w trybie art. 36 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze, art. 221 ustawy z dnia 6 lipca 1982 r. o radcach prawnych albo art. 44 § 2 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2022 r. poz. 1799 oraz z 2023 r. poz. 1394 i 1615).
 
-**Art. 57g.**
-
-§ 1. Ocena kwalifikacji kandydata, mającego tytuł naukowy profesora lub stopień naukowy doktora habilitowanego nauk prawnych jest dokonywana z uwzględnieniem osiągnięć naukowych, rodzaju i jakości publikacji, opinii recenzentów, jakości i rzetelności opinii prawnych bądź innych dokumentów sporządzonych w związku ze stosowaniem lub tworzeniem prawa.
-
-§ 2. Do oceny kwalifikacji kandydata, o którym mowa w § 1, dołącza się odpisy prawomocnych orzeczeń o udzieleniu kary dyscyplinarnej, chyba że kara uległa zatarciu.
-
-**Art. 57h.** Do oceny kwalifikacji kandydata, który zajmuje stanowisko prezesa lub wiceprezesa Prokuratorii Generalnej, stosuje się odpowiednio, stosownie do zawodu wykonywanego przed powołaniem na to stanowisko, przepisy art. 57b lub 57e–57g.
-
-**Art. 57i.**
+§ 1. Ocena kwalifikacji kandydata, mającego tytuł naukowy profesora lub stopień naukowy doktora habilitowanego nauk prawnych jest dokonywana z uwzględnieniem osiągnięć naukowych, rodzaju i jakości publikacji, opinii recenzentów, jakości i rzetelności opinii prawnych bądź innych dokumentów sporządzonych w związku ze stosowaniem lub tworzeniem prawa. § 2. Do oceny kwalifikacji kandydata, o którym mowa w § 1, dołącza się odpisy prawomocnych orzeczeń o udzieleniu kary dyscyplinarnej, chyba że kara uległa zatarciu. Do oceny kwalifikacji kandydata, który zajmuje stanowisko prezesa lub wiceprezesa Prokuratorii Generalnej, stosuje się odpowiednio, stosownie do zawodu wykonywanego przed powołaniem na to stanowisko, przepisy art. 57b lub 57e-57g.
 
 § 1. Przy ocenie kwalifikacji kandydata na wolne stanowisko sędziowskie uwzględnia się predyspozycje osobowościowe kandydata do zawodu sędziego oraz przestrzeganie zasad etyki wykonywanego zawodu.
 
@@ -1318,7 +1742,9 @@ Art. 180–195. (pominięte)
 
 § 1. Rozpatrzenie kandydatur odbywa się na tym samym posiedzeniu kolegium zwołanym przez prezesa właściwego sądu, na dzień przypadający nie później niż w terminie czternastu dni od dnia zamieszczenia w systemie teleinformatycznym oceny kwalifikacji ostatniego kandydata.
 
-§ 2. (uchylony) § 2a. W opiniowaniu kandydatów nie może brać udziału osoba będąca małżonkiem, krewnym albo powinowatym chociażby jednego z kandydatów lub pozostająca chociażby z jednym z kandydatów w takim stosunku prawnym lub faktycznym, że może to budzić uzasadnione wątpliwości co do bezstronności członka kolegium.
+§ 2. (uchylony)
+
+§ 2a. W opiniowaniu kandydatów nie może brać udziału osoba będąca małżonkiem, krewnym albo powinowatym chociażby jednego z kandydatów lub pozostająca chociażby z jednym z kandydatów w takim stosunku prawnym lub faktycznym, że może to budzić uzasadnione wątpliwości co do bezstronności członka kolegium.
 
 § 3. W przypadku kandydatów do objęcia pierwszego stanowiska sędziowskiego właściwy prezes sądu zasięga od właściwego ze względu na siedzibę sądu komendanta wojewódzkiego Policji albo Komendanta Stołecznego Policji informacji o każdym z kandydatów. Informacje o kandydacie do objęcia stanowiska sędziowskiego uzyskuje się i sporządza w oparciu o dane zawarte w policyjnych systemach teleinformatycznych. Komendant Policji przedstawia pisemną informację o kandydacie prezesowi sądu w terminie 14 dni od dnia wpływu wniosku. Informacji nie zasięga się, jeżeli kandydat zajmuje stanowisko asesora sądowego lub prokuratora.
 
@@ -1358,9 +1784,15 @@ Art. 180–195. (pominięte)
 - **4)** wykonywał zawód adwokata, radcy prawnego lub notariusza – co najmniej przez trzy lata;
 - **5)** zajmował stanowisko prezesa, wiceprezesa, radcy Prokuratorii Generalnej Rzeczypospolitej Polskiej – co najmniej przez trzy lata.
 
-§ 3. (uchylony) § 4. (uchylony) § 5. Na stanowisko sędziego sądu rejonowego może być powołany ten, kto zajmował jedno ze stanowisk określonych w § 2 pkt 2–4 w okresie pięciu lat przed zgłoszeniem na wolne stanowisko sędziowskie.
+§ 3. (uchylony)
 
-§ 6. (uchylony) § 7. (uchylony)
+§ 4. (uchylony)
+
+§ 5. Na stanowisko sędziego sądu rejonowego może być powołany ten, kto zajmował jedno ze stanowisk określonych w § 2 pkt 2–4 w okresie pięciu lat przed zgłoszeniem na wolne stanowisko sędziowskie.
+
+§ 6. (uchylony)
+
+§ 7. (uchylony)
 
 **Art. 62.** Profesor lub doktor habilitowany nauk prawnych w polskich szkołach wyższych, w Polskiej Akademii Nauk oraz w instytutach naukowo-badawczych i innych placówkach naukowych może być powołany na stanowisko sędziego sądu powszechnego, w niepełnym, nie mniejszym niż połowa, wymiarze czasu pracy.
 
@@ -1377,9 +1809,7 @@ Art. 180–195. (pominięte)
 - **2)** pracował w polskiej szkole wyższej, w Polskiej Akademii Nauk, w instytucie badawczym lub innej placówce naukowej i ma tytuł naukowy profesora albo stopień naukowy doktora habilitowanego nauk prawnych;
 - **3)** zajmował stanowisko sędziego sądu administracyjnego lub sędziego wojskowego sądu okręgowego.
 
-§ 3. Na stanowisko sędziego sądu okręgowego może być powołany ten, kto wykonywał zawód lub zajmował stanowisko określone w § 2 w okresie 3 lat przed powołaniem.
-
-**Art. 63a.** (uchylony)
+§ 3. Na stanowisko sędziego sądu okręgowego może być powołany ten, kto wykonywał zawód lub zajmował stanowisko określone w § 2 w okresie 3 lat przed powołaniem. (uchylony)
 
 **Art. 64.**
 
@@ -1394,9 +1824,7 @@ Art. 180–195. (pominięte)
 - **2)** pracował w polskiej szkole wyższej, w Polskiej Akademii Nauk, w instytucie badawczym lub innej placówce naukowej i ma tytuł naukowy profesora albo stopień naukowy doktora habilitowanego nauk prawnych;
 - **3)** zajmował stanowisko sędziego sądu administracyjnego.
 
-§ 3. Na stanowisko sędziego sądu apelacyjnego może być powołany ten, kto wykonywał zawód lub zajmował stanowisko określone w § 2 w okresie 3 lat przed powołaniem.
-
-**Art. 64a.** (uchylony)
+§ 3. Na stanowisko sędziego sądu apelacyjnego może być powołany ten, kto wykonywał zawód lub zajmował stanowisko określone w § 2 w okresie 3 lat przed powołaniem. (uchylony)
 
 #### Rozdział 1a Status sędziego
 
@@ -1406,15 +1834,11 @@ Art. 180–195. (pominięte)
 
 § 2. Sędzia powinien zgłosić się w celu objęcia pierwszego stanowiska w ciągu czternastu dni od dnia otrzymania aktu powołania.
 
-§ 3. W razie nieusprawiedliwionego nieobjęcia pierwszego stanowiska sędziowskiego w terminie określonym w § 2, powołanie traci moc; okoliczność tę stwierdza Minister Sprawiedliwości.
-
-**Art. 65a.** (uchylony)
-
-**Art. 65b.** (uchylony)
+§ 3. W razie nieusprawiedliwionego nieobjęcia pierwszego stanowiska sędziowskiego w terminie określonym w § 2, powołanie traci moc; okoliczność tę stwierdza Minister Sprawiedliwości. (uchylony) (uchylony)
 
 **Art. 66.**
 
-§ 1. Przy powołaniu sędzia składa ślubowanie wobec Prezydenta Rzeczypospolitej Polskiej według następującej roty: „Ślubuję uroczyście jako sędzia sądu powszechnego służyć wiernie Rzeczypospolitej Polskiej, stać na straży prawa, obowiązki sędziego wypełniać sumiennie, sprawiedliwość wymierzać zgodnie z przepisami prawa, bezstronnie według mego sumienia, dochować tajemnicy prawnie chronionej, a w postępowaniu kierować się zasadami godności i uczciwości.”; składający ślubowanie może dodać na końcu zwrot: „Tak mi dopomóż Bóg.”.
+§ 1. Przy powołaniu sędzia składa ślubowanie wobec Prezydenta Rzeczypospolitej Polskiej według następującej roty: „ Ślubuję uroczyście jako sędzia sądu powszechnego służyć wiernie Rzeczypospolitej Polskiej, stać na straży prawa, obowiązki sędziego wypełniać sumiennie, sprawiedliwość wymierzać zgodnie z przepisami prawa, bezstronnie według mego sumienia, dochować tajemnicy prawnie chronionej, a w postępowaniu kierować się zasadami godności i uczciwości. ” ; składający ślubowanie może dodać na końcu zwrot: „Tak mi dopomóż Bóg.”.
 
 § 2. Odmowa złożenia ślubowania jest równoznaczna ze zrzeczeniem się stanowiska sędziowskiego.
 
@@ -1436,7 +1860,9 @@ Art. 180–195. (pominięte)
 
 § 1. Sędzia przechodzi w stan spoczynku z dniem ukończenia 65 roku życia, chyba że nie później niż na sześć miesięcy i nie wcześniej niż na dwanaście miesięcy przed ukończeniem tego wieku oświadczy Krajowej Radzie Sądownictwa wolę dalszego zajmowania stanowiska i przedstawi zaświadczenie stwierdzające, że jest zdolny, ze względu na stan zdrowia, do pełnienia obowiązków sędziego, wydane na zasadach określonych dla kandydata na stanowisko sędziowskie.
 
-§ 1a. (uchylony) § 1b. Krajowa Rada Sądownictwa może wyrazić zgodę na dalsze zajmowanie stanowiska sędziego, jeżeli jest to uzasadnione interesem wymiaru sprawiedliwości lub ważnym interesem społecznym, w szczególności jeśli przemawia za tym racjonalne wykorzystanie kadr sądownictwa powszechnego lub potrzeby wynikające z obciążenia zadaniami poszczególnych sądów. Uchwała Krajowej Rady Sądownictwa jest ostateczna. W przypadku niezakończenia postępowania związanego z dalszym zajmowaniem stanowiska sędziego po ukończeniu przez niego wieku, o którym mowa w § 1, sędzia pozostaje na stanowisku do czasu zakończenia tego postępowania.
+§ 1a. (uchylony)
+
+§ 1b. Krajowa Rada Sądownictwa może wyrazić zgodę na dalsze zajmowanie stanowiska sędziego, jeżeli jest to uzasadnione interesem wymiaru sprawiedliwości lub ważnym interesem społecznym, w szczególności jeśli przemawia za tym racjonalne wykorzystanie kadr sądownictwa powszechnego lub potrzeby wynikające z obciążenia zadaniami poszczególnych sądów. Uchwała Krajowej Rady Sądownictwa jest ostateczna. W przypadku niezakończenia postępowania związanego z dalszym zajmowaniem stanowiska sędziego po ukończeniu przez niego wieku, o którym mowa w § 1, sędzia pozostaje na stanowisku do czasu zakończenia tego postępowania.
 
 § 2. Sędzia przechodzi na swój wniosek w stan spoczynku, z zachowaniem prawa do uposażenia określonego w art. 100 § 2, po ukończeniu 55 lat przez kobietę, jeżeli przepracowała na stanowisku sędziego lub prokuratora nie mniej niż 25 lat, a 60 lat przez mężczyznę, jeżeli przepracował na stanowisku sędziego lub prokuratora nie mniej niż 30 lat.
 
@@ -1452,11 +1878,17 @@ Art. 180–195. (pominięte)
 
 § 2. Z żądaniem przeniesienia w stan spoczynku oraz zbadania niezdolności do pełnienia obowiązków przez sędziego i wydania orzeczenia, może wystąpić zainteresowany sędzia lub właściwe kolegium sądu. W przypadku sędziego pełniącego funkcję prezesa sądu okręgowego i apelacyjnego z wnioskiem może wystąpić także Minister Sprawiedliwości.
 
-§ 3. Orzeczenie w sprawie trwałej niezdolności do pełnienia obowiązków sędziego, o którym mowa w § 1 i 2, lekarz orzecznik Zakładu Ubezpieczeń Społecznych doręcza zainteresowanemu sędziemu oraz odpowiednio prezesowi sądu okręgowego albo apelacyjnego, a w przypadku sędziego pełniącego funkcję prezesa sądu okręgowego albo apelacyjnego orzeczenie doręcza się także Ministrowi Sprawiedliwości. [§ 3a. Od orzeczenia lekarza orzecznika, o którym mowa w § 1 i 2, zainteresowanemu sędziemu lub kolegium właściwego sądu przysługuje sprzeciw do komisji lekarskiej Zakładu Ubezpieczeń Społecznych, w ciągu 14 dni od dnia doręczenia tego orzeczenia.] <§ 3a. Orzeczenie lekarza orzecznika, o którym mowa w § 1 i 2, jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ). Sprzeciw od orzeczenia lekarza orzecznika przysługuje zainteresowanemu sędziemu lub kolegium właściwego sądu.> § 4. Koszty badania i wydania orzeczenia pokrywa Skarb Państwa.
+§ 3. Orzeczenie w sprawie trwałej niezdolności do pełnienia obowiązków sędziego, o którym mowa w § 1 i 2, lekarz orzecznik Zakładu Ubezpieczeń Społecznych doręcza zainteresowanemu sędziemu oraz odpowiednio prezesowi sądu okręgowego albo apelacyjnego, a w przypadku sędziego pełniącego funkcję prezesa sądu okręgowego albo apelacyjnego orzeczenie doręcza się także Ministrowi Sprawiedliwości.
+
+§ 3a. Od orzeczenia lekarza orzecznika, o którym mowa w § 1 i 2, zainteresowanemu sędziemu lub kolegium właściwego sądu przysługuje sprzeciw do komisji lekarskiej Zakładu Ubezpieczeń Społecznych, w ciągu 14 dni od dnia doręczenia tego orzeczenia.
+
+§ 4. Koszty badania i wydania orzeczenia pokrywa Skarb Państwa.
 
 **Art. 71.**
 
-§ 1. (uchylony) § 2. Sędzia może być przeniesiony w stan spoczynku, jeżeli bez uzasadnionej przyczyny nie poddał się badaniu, o którym mowa w art. 70 § 2, jeżeli z żądaniem badania wystąpiło kolegium sądu albo Minister Sprawiedliwości.
+§ 1. (uchylony)
+
+§ 2. Sędzia może być przeniesiony w stan spoczynku, jeżeli bez uzasadnionej przyczyny nie poddał się badaniu, o którym mowa w art. 70 § 2, jeżeli z żądaniem badania wystąpiło kolegium sądu albo Minister Sprawiedliwości.
 
 § 3. Sędzia może być również przeniesiony w stan spoczynku, na wniosek Ministra Sprawiedliwości, w razie zmiany ustroju sądów lub zmiany granic okręgów sądowych, jeżeli nie został przeniesiony do innego sądu.
 
@@ -1493,13 +1925,9 @@ Art. 180–195. (pominięte)
 
 § 4. W przypadkach, o których mowa w § 2 pkt 1 i 2, od decyzji Ministra Sprawiedliwości sędziemu przysługuje odwołanie do Sądu Najwyższego.
 
-**Art. 75a.**
-
 § 1. W razie przeniesienia sędziego na inne miejsce służbowe sędziemu nie przysługuje ekwiwalent pieniężny za dni niewykorzystanego urlopu wypoczynkowego. Sędzia zachowuje prawo do wykorzystania tego urlopu w czasie pełnienia służby w miejscu, do którego przeniesienie nastąpiło.
 
 § 2. Przepis § 1 stosuje się odpowiednio w przypadku awansowania sędziego na wyższe stanowisko sędziowskie.
-
-**Art. 75b.**
 
 § 1. O zamiarze obwieszczenia o wolnym stanowisku sędziowskim Minister Sprawiedliwości ogłasza w Biuletynie Informacji Publicznej.
 
@@ -1519,10 +1947,13 @@ Art. 180–195. (pominięte)
 
 § 1. Minister Sprawiedliwości może delegować sędziego, za jego zgodą, do pełnienia obowiązków sędziego lub czynności administracyjnych:
 
-- **1)** w innym sądzie równorzędnym lub niższym, a w szczególnie uzasadnionych wypadkach – także w sądzie wyższym,
-- **2)** w Ministerstwie Sprawiedliwości lub innej jednostce organizacyjnej podległej Ministrowi Sprawiedliwości albo przez niego nadzorowanej, 2a) w Kancelarii Prezydenta Rzeczypospolitej Polskiej – na wniosek Prezydenta Rzeczypospolitej Polskiej, 2b) w urzędzie obsługującym ministra właściwego do spraw zagranicznych – na wniosek ministra właściwego do spraw zagranicznych, 2c) w Kancelarii Prezesa Rady Ministrów do obsługi Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007–2022 – na wniosek Prezesa Rady Ministrów,
+- **1)** w innym sądzie równorzędnym lub niższym, a w szczególnie uzasadnionych wypadkach także w sądzie wyższym, mając na względzie racjonalne wykorzystanie kadr sądownictwa powszechnego oraz potrzeby wynikające z obciążenia zadaniami poszczególnych sądów,
+- **2)** w Ministerstwie Sprawiedliwości lub innej jednostce organizacyjnej podległej Ministrowi Sprawiedliwości albo przez niego nadzorowanej,
+- **2a)** w Kancelarii Prezydenta Rzeczypospolitej Polskiej – na wniosek Prezydenta Rzeczypospolitej Polskiej,
+- **2b)** w urzędzie obsługującym ministra właściwego do spraw zagranicznych – na wniosek ministra właściwego do spraw zagranicznych,
+- **2c)** w Kancelarii Prezesa Rady Ministrów do obsługi Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007–2022 – na wniosek Prezesa Rady Ministrów,
 - **3)** w Sądzie Najwyższym – na wniosek Pierwszego Prezesa Sądu Najwyższego,
-- **4)** w sądzie administracyjnym – na wniosek Prezesa Naczelnego Sądu Administracyjnego – na czas określony, nie dłuższy niż 2 lata, albo na czas nieokreślony.
+- **4)** w sądzie administracyjnym – na wniosek Prezesa Naczelnego Sądu Administracyjnego na czas określony, nie dłuższy niż 2 lata, albo na czas nieokreślony.
 
 § 1a. Przez delegowanie sędziego na czas określony rozumie się również delegowanie na czas pełnienia funkcji lub zajmowania stanowiska, jeżeli ustawa określa okres, na jaki obejmuje się funkcję lub stanowisko.
 
@@ -1538,21 +1969,17 @@ Art. 180–195. (pominięte)
 
 § 3b. Minister Sprawiedliwości, na wniosek Dyrektora Krajowej Szkoły Sądownictwa i Prokuratury, może delegować sędziego, za jego zgodą, do pełnienia obowiązków lub określonej funkcji, lub odbycia stażu trwającego dłużej niż miesiąc, poza granicami państwa w ramach współpracy międzynarodowej Krajowej Szkoły Sądownictwa i Prokuratury, zgodnie z kwalifikacjami sędziego, na czas określony, nie dłuższy niż cztery lata, z możliwością ponownego delegowania na kolejny okres nieprzekraczający czterech lat.
 
-§ 3c. Delegowania sędziego do pełnienia obowiązków sędziego w innym sądzie dokonuje się w wypadku uzasadnionych potrzeb tego sądu, w szczególności gdy przemawiają za tym liczba i rodzaj spraw wpływających do sądu, stopień opanowania wpływu spraw oraz średnia wielkość referatu sędziego lub asesora sądowego w relacji do wartości tych parametrów w innych sądach, w tym przy uwzględnieniu liczby obsadzonych stanowisk sędziowskich i asesorskich, długotrwałych nieobecności sędziów i asesorów sądowych oraz planowanych zwolnień stanowisk sędziowskich w sądzie, do którego ma nastąpić delegowanie.
+§ 4. Sędzia delegowany na podstawie § 1 pkt 2–2c oraz § 2a, na czas nieokreślony, może być odwołany z delegowania lub z niego ustąpić za trzymiesięcznym uprzedzeniem. W pozostałych przypadkach delegowania sędziego, odwołanie lub ustąpienie sędziego następuje bez zachowania okresu uprzedzenia.
 
-§ 3d. Przy delegowaniu sędziego do pełnienia obowiązków sędziego w innym sądzie uwzględnia się w szczególności okres pełnienia służby sędziowskiej, w tym na zajmowanym stanowisku sędziowskim, doświadczenie w rozpoznawaniu spraw z określonego zakresu, sprawność postępowania w prowadzonych sprawach oraz ocenę wpływu delegowania na pracę sądu, w którym sędzia ma miejsce służbowe.
+§ 5. (uchylony)
 
-§ 4. Sędzia delegowany na podstawie § 1 pkt 2–2c oraz § 2a, na czas nieokreślony, może być odwołany z delegowania lub z niego ustąpić za trzymiesięcznym uprzedzeniem. W pozostałych przypadkach delegowania sędziego, odwołanie lub ustąpienie sędziego następuje bez zachowania okresu uprzedzenia. Odwołanie z delegowania sędziego do pełnienia obowiązków sędziego w innym sądzie wymaga uzasadnienia.
+§ 6. Jeżeli delegowanie sędziego następuje do innej miejscowości, niż miejscowość w której znajduje się miejsce służbowe sędziego, niebędącej miejscem jego stałego zamieszkania, sędziemu delegowanemu w okresie delegowania, jako pracownikowi w podróży służbowej, przysługują następujące należności, rekompensujące niedogodności wynikające z delegowania poza stałe miejsce pełnienia służby:
 
-§ 4a. Minister Sprawiedliwości ogłasza w Biuletynie Informacji Publicznej o każdym dokonanym przez niego delegowaniu sędziego oraz o każdym odwołaniu albo ustąpieniu z delegowania. W ogłoszeniu wskazuje się przyczyny delegowania albo odwołania.
+- **1)** prawo do nieodpłatnego zakwaterowania, w warunkach odpowiadających godności urzędu albo zwrot kosztów zamieszkania w miejscu delegowania, w jednej z następujących form: zwrotu kosztów faktycznie poniesionych – w wysokości określonej w fakturze, miesięcznego ryczałtu – w kwocie nie wyższej niż 78 % podstawy ustalenia wynagrodzenia zasadniczego sędziego, o której mowa w art. 91 § 1c;
+    - **a)**
+    - **b)**
 
-§ 5. (uchylony) § 6. Jeżeli delegowanie sędziego następuje do innej miejscowości, niż miejscowość w której znajduje się miejsce służbowe sędziego, niebędącej miejscem jego stałego zamieszkania, sędziemu delegowanemu w okresie delegowania, jako pracownikowi w podróży służbowej, przysługują następujące należności, rekompensujące niedogodności wynikające z delegowania poza stałe miejsce pełnienia służby:
-
-- **1)** prawo do nieodpłatnego zakwaterowania, w warunkach odpowiadających godności urzędu albo zwrot kosztów zamieszkania w miejscu delegowania, w jednej z następujących form:
-    - **a)** zwrotu kosztów faktycznie poniesionych – w wysokości określonej w fakturze,
-    - **b)** miesięcznego ryczałtu – w kwocie nie wyższej niż 78 % podstawy ustalenia wynagrodzenia zasadniczego sędziego, o której mowa w art. 91 § 1c;
-
-- **2)** zwrot kosztów pierwszego przejazdu z miejsca stałego zamieszkania do miejsca delegowania, zwrot kosztów ostatniego przejazdu z miejsca delegowania do miejsca stałego zamieszkania oraz zwrot kosztów przejazdów odbywanych nie częściej niż raz w tygodniu do miejsca stałego zamieszkania i z powrotem na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465) według zasad obowiązujących przy podróżach służbowych na obszarze kraju;
+- **2)** zwrot kosztów pierwszego przejazdu z miejsca stałego zamieszkania do miejsca delegowania, zwrot kosztów ostatniego przejazdu z miejsca delegowania do miejsca stałego zamieszkania oraz zwrot kosztów przejazdów odbywanych nie częściej niż raz w tygodniu do miejsca stałego zamieszkania i z powrotem na warunkach określonych w przepisach wydanych na podstawie art. 775§ 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465) według zasad obowiązujących przy podróżach służbowych na obszarze kraju;
 - **3)** ryczałt na pokrycie kosztów dojazdów środkami komunikacji miejscowej, o którym mowa w przepisach w sprawie wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju;
 - **4)** diety, o których mowa w przepisach w sprawie wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju;
 - **5)** zwrot kosztów poniesionych z tytułu używania pojazdów, stanowiących własność pracownika, do celów służbowych, o którym mowa w przepisach w sprawie warunków ustalania oraz sposobu dokonywania zwrotu kosztów używania do celów służbowych samochodów osobowych, motocykli i motorowerów niebędących własnością pracodawcy;
@@ -1562,15 +1989,19 @@ Art. 180–195. (pominięte)
 
 § 6b. Sędzia delegowany, o którym mowa w § 6a, któremu nie przysługują świadczenia i należności, o których mowa w § 6 pkt 1 i 2, ma prawo do zwrotu kosztów codziennych dojazdów do miejscowości delegowania w wysokości nie wyższej niż równowartość przejazdu środkami komunikacji kolejowej lub innym środkiem komunikacji publicznej, z uwzględnieniem przysługującej sędziemu delegowanemu ulgi na dany środek transportu, bez względu na to, z jakiego tytułu ulga ta przysługuje.
 
-§ 7. (uchylony) § 7a. (utracił moc) § 7b. (utracił moc) § 8. Prezes sądu apelacyjnego może delegować sędziego sądu rejonowego, sędziego sądu okręgowego albo sędziego sądu apelacyjnego do pełnienia obowiązków sędziego w sądzie równorzędnym lub niższym na obszarze apelacji, po uzyskaniu zgody sędziego i kolegium sądu okręgowego właściwego ze względu na siedzibę sądu, do którego ma nastąpić delegowanie, na nieprzerwany okres, nie dłuższy jednak niż sześć miesięcy w ciągu roku.
+§ 7. W razie delegowania sędziego do sądu równorzędnego, sędziemu przysługuje dodatek funkcyjny wizytatora sądu okręgowego.
+
+§ 7a. (utracił moc)
+
+§ 7b. (utracił moc)
+
+§ 8. Prezes sądu apelacyjnego może delegować sędziego sądu rejonowego, sędziego sądu okręgowego albo sędziego sądu apelacyjnego do pełnienia obowiązków sędziego w sądzie równorzędnym lub niższym na obszarze apelacji, po uzyskaniu zgody sędziego i kolegium sądu okręgowego właściwego ze względu na siedzibę sądu, do którego ma nastąpić delegowanie, na nieprzerwany okres, nie dłuższy jednak niż sześć miesięcy w ciągu roku.
 
 § 9. W szczególnie uzasadnionych wypadkach prezes sądu apelacyjnego może delegować sędziego sądu rejonowego albo sędziego sądu okręgowego do pełnienia obowiązków sędziego w sądzie wyższym, po uzyskaniu zgody sędziego i kolegium sądu, do którego ma nastąpić delegowanie, mając na względzie racjonalne wykorzystanie kadr oraz potrzeby wynikające z obciążenia zadaniami poszczególnych sądów działających na obszarze apelacji; przydział spraw delegowanemu sędziemu, jako sędziemu sprawozdawcy, nie może przekroczyć 30 spraw w ciągu roku.
 
 § 9a. Prezes sądu okręgowego może delegować sędziego sądu rejonowego, za jego zgodą, do pełnienia dyżurów w innym sądzie rejonowym równocześnie z pełnieniem dyżuru w miejscu służbowym. Sędzia może cofnąć zgodę za trzymiesięcznym uprzedzeniem.
 
-§ 10. Aktu delegowania nie dołącza się do akt spraw sądowych.
-
-**Art. 77a.** Sędziemu delegowanemu do wykonania czynności służbowych w innej miejscowości niż miejscowość, w której znajduje się jego miejsce służbowe lub miejsce delegowania, o którym mowa w art. 77 § 1–3b, przysługują należności określone w przepisach w sprawie wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju.
+§ 10. Aktu delegowania nie dołącza się do akt spraw sądowych. Sędziemu delegowanemu do wykonania czynności służbowych w innej miejscowości niż miejscowość, w której znajduje się jego miejsce służbowe lub miejsce delegowania, o którym mowa w art. 77 § 1–3b, przysługują należności określone w przepisach w sprawie wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju.
 
 **Art. 78.**
 
@@ -1592,17 +2023,15 @@ Art. 180–195. (pominięte)
 
 § 5. Minister Sprawiedliwości po zasięgnięciu opinii Krajowej Rady Sądownictwa określi, w drodze rozporządzenia, tryb i szczegółowe warunki delegowania sędziów do pełnienia obowiązków w Ministerstwie Sprawiedliwości, Kancelarii Prezydenta Rzeczypospolitej Polskiej oraz urzędzie obsługującym ministra właściwego do spraw zagranicznych, a także pełnienia czynności administracyjnych lub prowadzenia zajęć szkoleniowych w Krajowej Szkole Sądownictwa i Prokuratury oraz tryb i szczegółowe warunki realizacji prawa do nieodpłatnego zakwaterowania i zwrotu kosztów zamieszkania w miejscu delegowania, w tym maksymalną wysokość zwrotu kosztów faktycznie poniesionych oraz wysokość miesięcznego ryczałtu, z uwzględnieniem możliwości zróżnicowania jego wysokości w zależności od miejscowości delegowania, a także tryb, szczegółowe warunki przyznawania i zakres innych świadczeń, mając na względzie zakres świadczeń przysługujących pracownikom odbywającym podróże służbowe oraz czasowo przenoszonym.
 
-**Art. 78a.**
-
 § 1. Sędzia delegowany na podstawie art. 77 § 3a i 3b ma prawo do wynagrodzenia zasadniczego przysługującego mu na zajmowanym stanowisku sędziowskim oraz dodatku za długoletnią pracę, a także do świadczeń odszkodowawczych z tytułu wypadków przy pracy i chorób zawodowych, jeżeli zdarzenie powodujące powstanie prawa do tych świadczeń zaistniało w czasie pełnienia obowiązków lub funkcji poza granicami państwa. W okresie delegowania do pełnienia funkcji sędzia otrzymuje dodatek funkcyjny określony w przepisach wykonawczych wydanych na podstawie art. 91 § 8.
 
 § 2. Sędziemu delegowanemu w czasie pełnienia obowiązków lub funkcji poza granicami państwa przysługują, wypłacane w walucie polskiej lub obcej:
 
 - **1)** dodatek zagraniczny na pokrycie zwiększonych kosztów związanych z pełnieniem obowiązków lub funkcji poza granicami państwa, ustalany odpowiednio do warunków i zakresu ich pełnienia;
-- **2)** w przypadku powierzenia pełnienia obowiązków lub funkcji pociągających za sobą zmianę miejsca pobytu trwającą co najmniej rok:
-    - **a)** jednorazowy dodatek adaptacyjny,
-    - **b)** pokrycie kosztów podróży przesiedleniowej sędziego delegowanego i każdego przenoszącego się z nim członka rodziny, w tym przewozu ich mienia, niezależnie od terminów ich faktycznego przesiedlenia,
-    - **c)** pokrycie, raz na dwa lata, kosztów przejazdu sędziego delegowanego oraz członków jego rodziny przebywających z nim na stałe poza granicami państwa, z miejsca delegacji do miejsca stałego zamieszkania na urlop wypoczynkowy i z powrotem;
+- **2)** w przypadku powierzenia pełnienia obowiązków lub funkcji pociągających za sobą zmianę miejsca pobytu trwającą co najmniej rok: jednorazowy dodatek adaptacyjny, pokrycie kosztów podróży przesiedleniowej sędziego delegowanego i każdego przenoszącego się z nim członka rodziny, w tym przewozu ich mienia, niezależnie od terminów ich faktycznego przesiedlenia, pokrycie, raz na dwa lata, kosztów przejazdu sędziego delegowanego oraz członków jego rodziny przebywających z nim na stałe poza granicami państwa, z miejsca delegacji do miejsca stałego zamieszkania na urlop wypoczynkowy i z powrotem;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **3)** zwrot kosztów podróży w związku z rozpoczęciem i zakończeniem pełnienia obowiązków lub funkcji poza granicami państwa, podróży służbowej na terytorium obcego państwa poza miejscem delegowania, przejazdu z miejsca delegowania do kraju i z powrotem w uzasadnionych przypadkach służbowych lub losowych;
 - **4)** zwrot kosztów leczenia, gdy delegacja następuje do państwa niebędącego członkiem Unii Europejskiej;
@@ -1642,15 +2071,9 @@ Art. 180–195. (pominięte)
 
 § 2h. Jeżeli prokurator składając wniosek o zezwolenie na pociągnięcie sędziego do odpowiedzialności karnej wnosi jednocześnie o zezwolenie na tymczasowe aresztowanie sędziego, uchwała zezwalająca na pociągnięcie sędziego do odpowiedzialności karnej obejmuje również zezwolenie na zatrzymanie sędziego i zastosowanie tymczasowego aresztowania, chyba że sąd dyscyplinarny postanowi inaczej.
 
-§ 3. (uchylony) § 4. Orzekając w sprawie, o której mowa w § 1, sąd dyscyplinarny może poprzestać na oświadczeniu sędziego, że wnosi o wydanie uchwały o zezwoleniu na pociągnięcie go do odpowiedzialności karnej.
+§ 3. (uchylony)
 
-**Art. 80a.** (utracił moc)
-
-**Art. 80b.** (utracił moc)
-
-**Art. 80c.** (utracił moc)
-
-**Art. 80d.** (utracił moc)
+§ 4. Orzekając w sprawie, o której mowa w § 1, sąd dyscyplinarny może poprzestać na oświadczeniu sędziego, że wnosi o wydanie uchwały o zezwoleniu na pociągnięcie go do odpowiedzialności karnej. (utracił moc) (utracił moc) (utracił moc) (utracił moc)
 
 **Art. 81.**
 
@@ -1672,8 +2095,6 @@ Art. 180–195. (pominięte)
 
 § 3. (uchylony)
 
-**Art. 82a.**
-
 § 1. Sędzia jest obowiązany stale podnosić kwalifikacje zawodowe.
 
 § 2. Po objęciu pierwszego stanowiska sędziowskiego sędzia, który nie zajmował stanowiska asesora sądowego, odbywa szkolenie z zakresu metodyki pracy sędziego organizowane przez Krajową Szkołę Sądownictwa i Prokuratury. Prezes sądu kieruje sędziego na szkolenie w najbliższym terminie przewidzianym w harmonogramie działalności szkoleniowej Krajowej Szkoły Sądownictwa i Prokuratury na dany rok.
@@ -1684,15 +2105,11 @@ Art. 180–195. (pominięte)
 
 § 3b. Sędzia orzekający w sprawach z zakresu prawa rodzinnego i opiekuńczego oraz dotyczących demoralizacji i czynów karalnych nieletnich powinien uczestniczyć, co cztery lata, w szkoleniu i doskonaleniu zawodowym, w wymiarze co najmniej 10 godzin, organizowanym przez Krajową Szkołę Sądownictwa i Prokuratury lub jednostkę podległą Ministrowi Sprawiedliwości albo przez niego nadzorowaną, w celu uzupełnienia specjalistycznej wiedzy i umiejętności zawodowych z zakresu prowadzenia czynności z osobami, które nie ukończyły 18 lat, rozpoznawania symptomów krzywdzenia dziecka i zabezpieczenia interesu dziecka w sytuacji sporu między rodzicami albo opiekunami.
 
-§ 4. (uchylony) § 5. Sędzia, o ile jest to możliwe, najpóźniej na trzy dni przed rozpoczęciem szkolenia lub korzystania z innej formy doskonalenia zawodowego, zawiadamia o tym prezesa właściwego sądu, jeżeli w związku z korzystaniem z doskonalenia zawodowego będzie przebywał więcej niż dzień poza miejscowością będącą siedzibą sądu, w którym pełni służbę. Prezes sądu rejonowego zawiadamia o tym prezesa przełożonego sądu okręgowego, prezes sądu okręgowego prezesa przełożonego sądu apelacyjnego, zaś prezes sądu apelacyjnego Ministra Sprawiedliwości.
+§ 4. (uchylony)
 
-**Art. 82b.** Sędziemu, za jego zgodą, może zostać powierzony obowiązek sprawowania patronatu nad przebiegiem praktyk aplikantów Krajowej Szkoły Sądownictwa i Prokuratury.
+§ 5. Sędzia, o ile jest to możliwe, najpóźniej na trzy dni przed rozpoczęciem szkolenia lub korzystania z innej formy doskonalenia zawodowego, zawiadamia o tym prezesa właściwego sądu, jeżeli w związku z korzystaniem z doskonalenia zawodowego będzie przebywał więcej niż dzień poza miejscowością będącą siedzibą sądu, w którym pełni służbę. Prezes sądu rejonowego zawiadamia o tym prezesa przełożonego sądu okręgowego, prezes sądu okręgowego prezesa przełożonego sądu apelacyjnego, zaś prezes sądu apelacyjnego Ministra Sprawiedliwości. Sędziemu, za jego zgodą, może zostać powierzony obowiązek sprawowania patronatu nad przebiegiem praktyk aplikantów Krajowej Szkoły Sądownictwa i Prokuratury. Sędzia jest obowiązany wykonywać czynności związane z powierzonymi mu obowiązkami sędziego sądu dyscyplinarnego przy sądzie apelacyjnym.
 
-**Art. 82c.** Sędzia jest obowiązany wykonywać czynności związane z powierzonymi mu obowiązkami sędziego sądu dyscyplinarnego przy sądzie apelacyjnym.
-
-**Art. 83.** Czas pracy sędziego jest określony wymiarem jego zadań.
-
-**Art. 83a.** Prawo do urlopu wychowawczego sędzia, który nie pełni funkcji, może wykonywać także przez zmniejszenie przydziału spraw co najwyżej o 50 % z jednoczesnym obniżeniem wynagrodzenia zasadniczego w tym samym stopniu. Do wykonywania prawa do zmniejszenia przydziału spraw stosuje się odpowiednio przepisy o urlopach wychowawczych, z tym że żądanie zmniejszenia przydziału spraw lub zmiany zakresu zmniejszenia należy złożyć za co najmniej dwumiesięcznym uprzedzeniem.
+**Art. 83.** Czas pracy sędziego jest określony wymiarem jego zadań. Prawo do urlopu wychowawczego sędzia, który nie pełni funkcji, może wykonywać także przez zmniejszenie przydziału spraw co najwyżej o 50 % z jednoczesnym obniżeniem wynagrodzenia zasadniczego w tym samym stopniu. Do wykonywania prawa do zmniejszenia przydziału spraw stosuje się odpowiednio przepisy o urlopach wychowawczych, z tym że żądanie zmniejszenia przydziału spraw lub zmiany zakresu zmniejszenia należy złożyć za co najmniej dwumiesięcznym uprzedzeniem.
 
 **Art. 84.**
 
@@ -1728,7 +2145,11 @@ Art. 180–195. (pominięte)
 
 § 3a. Przez spółkę prawa handlowego rozumie się spółkę handlową, a także inną spółkę, do której stosuje się przepisy prawa handlowego, w tym spółkę według prawa obcego.
 
-§ 3b. (uchylony) § 3c. (uchylony) § 3d. Wybór lub powołanie do władz spółki, spółdzielni lub fundacji z naruszeniem zakazów określonych w § 3 pkt 1–3 są z mocy prawa nieważne i nie podlegają wpisowi do właściwego rejestru.
+§ 3b. (uchylony)
+
+§ 3c. (uchylony)
+
+§ 3d. Wybór lub powołanie do władz spółki, spółdzielni lub fundacji z naruszeniem zakazów określonych w § 3 pkt 1–3 są z mocy prawa nieważne i nie podlegają wpisowi do właściwego rejestru.
 
 § 4. O zamiarze podjęcia dodatkowego zatrudnienia, o którym mowa w § 1, a także o podjęciu innego zajęcia lub sposobu zarobkowania, sędzia sądu apelacyjnego oraz sędzia sądu okręgowego zawiadamia prezesa właściwego sądu, a prezesi tych sądów – Ministra Sprawiedliwości. Sędzia sądu rejonowego kieruje zawiadomienie, o którym mowa w zdaniu pierwszym, do prezesa właściwego sądu okręgowego.
 
@@ -1773,8 +2194,6 @@ Art. 180–195. (pominięte)
 
 **Art. 88.** Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór formularza oświadczenia, o którym mowa w art. 87 § 1, zawierający szczegółowy zakres informacji zawieranych w oświadczeniu oraz klauzulę, o której mowa w art. 87 § 9, mając na uwadze konieczność rzetelnego wykazania stanu majątkowego osób obowiązanych do składania oświadczeń.
 
-**Art. 88a.**
-
 § 1. Sędzia jest obowiązany do złożenia pisemnego oświadczenia o:
 
 - **1)** członkostwie w zrzeszeniu, w tym w stowarzyszeniu – ze wskazaniem nazwy i siedziby zrzeszenia, pełnionych funkcji oraz okresu członkostwa;
@@ -1786,8 +2205,6 @@ Art. 180–195. (pominięte)
 § 3. Oświadczenia, o których mowa w § 1, składa się w terminie 30 dni od dnia objęcia urzędu sędziego, a także w terminie 30 dni od powstania lub ustania okoliczności, o których mowa w § 1.
 
 § 4. Informacje zawarte w oświadczeniach, o których mowa w § 1, są jawne i podlegają udostępnieniu w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej, nie później niż 30 dni od dnia złożenia oświadczenia uprawnionemu podmiotowi.
-
-**Art. 88b.**
 
 § 1. Właściwy prezes sądu ogłasza w Biuletynie Informacji Publicznej informację o pierwszym i kolejnych powołaniach sędziów sądu, którym kieruje.
 
@@ -1811,13 +2228,27 @@ Art. 180–195. (pominięte)
 
 § 1. Wysokość wynagrodzenia sędziów, zajmujących równorzędne stanowiska sędziowskie, różnicuje staż pracy lub pełnione funkcje.
 
-§ 1a. (uchylony) § 1b. (uchylony) § 1c. Podstawę ustalenia wynagrodzenia zasadniczego sędziego w danym roku stanowi przeciętne wynagrodzenie w drugim kwartale roku poprzedniego, ogłaszane w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251, 1429 i 1672), z zastrzeżeniem § 1d.
+§ 1a. (uchylony)
+
+§ 1b. (uchylony)
+
+§ 1c. Podstawę ustalenia wynagrodzenia zasadniczego sędziego w danym roku stanowi przeciętne wynagrodzenie w drugim kwartale roku poprzedniego, ogłaszane w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251, 1429 i 1672), z zastrzeżeniem § 1d.
 
 § 1d. Jeżeli przeciętne wynagrodzenie, o którym mowa w § 1c, jest niższe od przeciętnego wynagrodzenia ogłoszonego za drugi kwartał roku poprzedzającego – przyjmuje się podstawę ustalenia wynagrodzenia zasadniczego sędziego w dotychczasowej wysokości.
 
 § 2. Wynagrodzenie zasadnicze sędziego określa się w stawkach, których wysokość ustala się z zastosowaniem mnożników podstawy ustalenia wynagrodzenia zasadniczego, o której mowa w § 1c. Stawki wynagrodzenia zasadniczego na poszczególnych stanowiskach sędziowskich oraz mnożniki, służące do ustalenia wysokości wynagrodzenia zasadniczego sędziów w poszczególnych stawkach, określa załącznik do ustawy.
 
-§ 2a. (uchylony) § 3. (uchylony) § 4. (uchylony) § 4a. (uchylony) § 5. (uchylony) § 6. W związku z pełnioną funkcją sędziemu przysługuje dodatek funkcyjny.
+§ 2a. (uchylony)
+
+§ 3. (uchylony)
+
+§ 4. (uchylony)
+
+§ 4a. (uchylony)
+
+§ 5. (uchylony)
+
+§ 6. W związku z pełnioną funkcją sędziemu przysługuje dodatek funkcyjny.
 
 § 7. Wynagrodzenie sędziów różnicuje ponadto dodatek za długoletnią pracę, wynoszący, począwszy od szóstego roku pracy, 5 % wynagrodzenia zasadniczego i wzrastający po każdym roku o 1 %, aż do osiągnięcia 20 % wynagrodzenia zasadniczego.
 
@@ -1835,8 +2266,6 @@ Art. 180–195. (pominięte)
 § 12. Przy obliczaniu kwoty należnych składek, waloryzowanych na podstawie § 11 pkt 2, stosuje się odpowiednio art. 19 ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2023 r. poz. 1230, 1429, 1672 i 1941).
 
 § 13. Składki, o której mowa w § 10, nie przekazuje się, jeżeli sędzia zrzekł się urzędu w związku z powołaniem na stanowisko prokuratorskie. Jeżeli stosunek służbowy prokuratora ulega następnie rozwiązaniu lub wygaśnięciu w sposób, o którym mowa w art. 93 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2023 r. poz. 1360, 1429 i 1860), składkę należną za okres pełnienia służby na stanowisku sędziowskim przekazuje się na zasadach określonych w § 10–12.
-
-**Art. 91a.**
 
 § 1. Sędziemu obejmującemu stanowisko w sądzie rejonowym przysługuje wynagrodzenie zasadnicze w stawce pierwszej. Sędziemu obejmującemu stanowisko w sądzie okręgowym przysługuje wynagrodzenie zasadnicze w stawce czwartej, a jeżeli na niższym stanowisku otrzymywał już wynagrodzenie w stawce czwartej albo piątej – przysługuje mu wynagrodzenie zasadnicze w stawce, odpowiednio, piątej albo szóstej. Sędziemu obejmującemu stanowisko w sądzie apelacyjnym przysługuje wynagrodzenie zasadnicze w stawce siódmej, a jeżeli na niższym stanowisku otrzymywał już wynagrodzenie w stawce siódmej albo ósmej – przysługuje mu wynagrodzenie zasadnicze w stawce, odpowiednio, ósmej albo dziewiątej.
 
@@ -1894,17 +2323,25 @@ Art. 180–195. (pominięte)
 - **2)** choroby przypadającej w okresie ciąży,
 - **3)** choroby powstałej w związku ze szczególnymi właściwościami lub warunkami wykonywania czynności sędziego,
 - **4)** choroby spowodowanej przez inną osobę w wyniku popełnienia przez nią umyślnego czynu zabronionego, w związku z wykonywaniem czynności sędziego, stwierdzonego orzeczeniem wydanym przez uprawniony organ,
-- **5)** poddania się niezbędnym badaniom lekarskim przewidzianym dla kandydatów na dawców komórek, tkanek i narządów oraz poddania się zabiegowi pobrania komórek, tkanek i narządów – sędzia zachowuje prawo do 100 % wynagrodzenia, nie dłużej jednak niż przez okres roku; przepis § 1 zdanie drugie i trzecie stosuje się. [§ 1b. W razie ujawnienia u sędziego choroby, co do której zachodzi podejrzenie, że powstała w związku ze szczególnymi właściwościami lub warunkami wykonywania czynności sędziego, prezes danego sądu kieruje sędziego do lekarza orzecznika Zakładu Ubezpieczeń Społecznych z urzędu lub na wniosek sędziego. Od orzeczenia lekarza orzecznika sędziemu przysługuje sprzeciw do komisji lekarskiej Zakładu Ubezpieczeń Społecznych, w ciągu 14 dni od dnia doręczenia tego orzeczenia.] <§ 1b. W razie ujawnienia u sędziego choroby, co do której zachodzi podejrzenie, że powstała w związku ze szczególnymi właściwościami lub warunkami wykonywania czynności sędziego, prezes danego sądu kieruje sędziego do lekarza orzecznika Zakładu Ubezpieczeń Społecznych z urzędu lub na wniosek sędziego. Orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.> § 1c. Za chorobę powstałą w związku ze szczególnymi właściwościami lub warunkami wykonywania czynności sędziego uznaje się chorobę spowodowaną działaniem czynników szkodliwych występujących w miejscu wykonywania czynności sędziego. [§ 1d. Koszty badania i wydania orzeczenia przez lekarza orzecznika oraz komisję lekarską Zakładu Ubezpieczeń Społecznych pokrywa Skarb Państwa ze środków pozostających w dyspozycji Ministra Sprawiedliwości.] <§ 1d. Koszty badania i wydania orzeczenia lekarza orzecznika Zakładu Ubezpieczeń Społecznych pokrywa Skarb Państwa ze środków pozostających w dyspozycji Ministra Sprawiedliwości.> § 2. W razie niemożności wykonywania pracy z innych przyczyn, uprawniających do uzyskania świadczeń, określonych w przepisach o świadczeniach pieniężnych z ubezpieczenia społecznego, sędziemu przysługuje wynagrodzenie w wysokości świadczeń pieniężnych z ubezpieczenia społecznego, przez okres przewidziany w tych przepisach.
+- **5)** poddania się niezbędnym badaniom lekarskim przewidzianym dla kandydatów na dawców komórek, tkanek i narządów oraz poddania się zabiegowi pobrania komórek, tkanek i narządów sędzia zachowuje prawo do 100 % wynagrodzenia, nie dłużej jednak niż przez okres roku; przepis § 1 zdanie drugie i trzecie stosuje się.
+
+§ 1b. W razie ujawnienia u sędziego choroby, co do której zachodzi podejrzenie, że powstała w związku ze szczególnymi właściwościami lub warunkami wykonywania czynności sędziego, prezes danego sądu kieruje sędziego do lekarza orzecznika Zakładu Ubezpieczeń Społecznych z urzędu lub na wniosek sędziego. Od orzeczenia lekarza orzecznika sędziemu przysługuje sprzeciw do komisji lekarskiej Zakładu Ubezpieczeń Społecznych, w ciągu 14 dni od dnia doręczenia tego orzeczenia.
+
+§ 1c. Za chorobę powstałą w związku ze szczególnymi właściwościami lub warunkami wykonywania czynności sędziego uznaje się chorobę spowodowaną działaniem czynników szkodliwych występujących w miejscu wykonywania czynności sędziego.
+
+§ 1d. Koszty badania i wydania orzeczenia przez lekarza orzecznika oraz komisję lekarską Zakładu Ubezpieczeń Społecznych pokrywa Skarb Państwa ze środków pozostających w dyspozycji Ministra Sprawiedliwości.
+
+§ 2. W razie niemożności wykonywania pracy z innych przyczyn, uprawniających do uzyskania świadczeń, określonych w przepisach o świadczeniach pieniężnych z ubezpieczenia społecznego, sędziemu przysługuje wynagrodzenie w wysokości świadczeń pieniężnych z ubezpieczenia społecznego, przez okres przewidziany w tych przepisach.
 
 § 2a. Okres nieobecności w pracy z powodu choroby oraz niemożności wykonywania pracy, o której mowa w § 2, stwierdza zaświadczenie lekarskie wystawione zgodnie z art. 55 ust. 1 i art. 55a ust. 7 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2023 r. poz. 2780) albo wydruk zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 6 tej ustawy, z tym że w przypadku:
 
 - **1)** poddania się niezbędnym badaniom lekarskim przewidzianym dla kandydatów na dawców komórek, tkanek i narządów oraz niezdolności do pracy wskutek poddania się zabiegowi pobrania komórek, tkanek i narządów – zaświadczenie wystawione przez lekarza na zwykłym druku, zgodnie z art. 53 ust. 3 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa;
 - **2)** o którym mowa w art. 6 ust. 2 pkt 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa – decyzja wydana przez właściwy organ albo uprawniony podmiot na podstawie przepisów o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi;
 - **3)** urlopu macierzyńskiego – zaświadczenie lekarskie wystawione na zwykłym druku, określające przewidywaną datę porodu – za okres przed porodem, odpis skrócony aktu urodzenia dziecka lub jego kopia – za okres po porodzie;
-- **4)** konieczności osobistego sprawowania opieki nad dzieckiem własnym lub małżonka sędziego, dzieckiem przysposobionym, dzieckiem przyjętym na wychowanie i utrzymanie, do ukończenia przez nie 8. roku życia, w przypadku: § 2aa. Doręczenie zaświadczenia lekarskiego odbywa się przy wykorzystaniu profilu informacyjnego, o którym mowa w art. 58 ust. 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, na zasadach określonych w tej ustawie. Prezesi sądów wykorzystują lub tworzą profil informacyjny płatnika składek, o którym mowa w art. 58 ust. 1 tej ustawy.
-    - **a)** nieprzewidzianego zamknięcia żłobka, klubu dziecięcego, przedszkola lub szkoły, do których dziecko uczęszcza, a także w przypadku choroby niani, z którą rodzice mają zawartą umowę uaktywniającą, o której mowa w art. 50 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2023 r. poz. 204 i 1429), lub dziennego opiekuna, sprawujących opiekę nad dzieckiem,
-    - **b)** porodu lub choroby małżonka sędziego lub rodzica dziecka sędziego, stale opiekujących się dzieckiem, jeżeli poród lub choroba uniemożliwia temu małżonkowi lub rodzicowi sprawowanie opieki nad dzieckiem,
-    - **c)** pobytu małżonka sędziego lub rodzica dziecka sędziego, stale opiekujących się dzieckiem, w szpitalu lub innym zakładzie leczniczym podmiotu leczniczego wykonującego działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne – oświadczenie sędziego.
+- **4)** konieczności osobistego sprawowania opieki nad dzieckiem własnym lub małżonka sędziego, dzieckiem przysposobionym, dzieckiem przyjętym na wychowanie i utrzymanie, do ukończenia przez nie 8. roku życia, w przypadku: nieprzewidzianego zamknięcia żłobka, klubu dziecięcego, przedszkola lub szkoły, do których dziecko uczęszcza, a także w przypadku choroby niani, z którą rodzice mają zawartą umowę uaktywniającą, o której mowa w art. 50 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2023 r. poz. 204 i 1429), lub dziennego opiekuna, sprawujących opiekę nad dzieckiem, porodu lub choroby małżonka sędziego lub rodzica dziecka sędziego, stale opiekujących się dzieckiem, jeżeli poród lub choroba uniemożliwia temu małżonkowi lub rodzicowi sprawowanie opieki nad dzieckiem, pobytu małżonka sędziego lub rodzica dziecka sędziego, stale opiekujących się dzieckiem, w szpitalu lub innym zakładzie leczniczym podmiotu leczniczego wykonującego działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne oświadczenie sędziego. § 2aa. Doręczenie zaświadczenia lekarskiego odbywa się przy wykorzystaniu profilu informacyjnego, o którym mowa w art. 58 ust. 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, na zasadach określonych w tej ustawie. Prezesi sądów wykorzystują lub tworzą profil informacyjny płatnika składek, o którym mowa w art. 58 ust. 1 tej ustawy.
+    - **a)**
+    - **b)**
+    - **c)**
 
 § 2b. Wydruk zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 6 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, zaświadczenie lekarskie, o którym mowa w art. 55a ust. 7 tej ustawy, zaświadczenie wystawione przez lekarza na zwykłym druku w przypadkach, o których mowa w § 2a pkt 1 i 3, decyzję, odpis skrócony aktu urodzenia dziecka lub jego kopię, sędzia jest obowiązany dostarczyć prezesowi sądu w terminie siedmiu dni od dnia ich otrzymania.
 
@@ -1916,8 +2353,6 @@ Art. 180–195. (pominięte)
 
 § 4. W przypadkach, w których pracownikom podlegającym ubezpieczeniu społecznemu przysługują zasiłki niezależnie od prawa do wynagrodzenia, sędziemu przysługuje świadczenie pieniężne w wysokości zasiłku z ubezpieczenia społecznego.
 
-**Art. 94a.**
-
 § 1. Sędziemu, który wskutek wypadku przy pracy lub choroby zawodowej, doznał stałego lub długotrwałego uszczerbku na zdrowiu, przysługuje jednorazowe odszkodowanie.
 
 § 2. Członkom rodziny sędziego, który zmarł wskutek wypadku przy pracy lub choroby zawodowej, przysługuje jednorazowe odszkodowanie. Odszkodowanie to przysługuje również w razie śmierci w następstwie wypadku przy pracy lub choroby zawodowej sędziego w stanie spoczynku, który zmarł uznany za trwale niezdolnego do pełnienia obowiązków sędziego wskutek wypadku przy pracy lub choroby zawodowej.
@@ -1928,9 +2363,27 @@ Art. 180–195. (pominięte)
 
 § 5. Skarb Państwa pokrywa koszty skutków wypadków przy pracy lub chorób zawodowych, związane ze świadczeniami zdrowotnymi z zakresu stomatologii i szczepień ochronnych, na które sędzia został skierowany przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych na wniosek lekarza prowadzącego, a nierefundowane przez Narodowy Fundusz Zdrowia na podstawie odrębnych przepisów. Skarb Państwa pokrywa także koszty przedmiotów ortopedycznych w wysokości udziału własnego ubezpieczonego, określonego w przepisach o ubezpieczeniu zdrowotnym.
 
-**Art. 94b.** [§ 1. Oceny uszczerbku na zdrowiu oraz jego związku z wypadkiem przy pracy lub chorobą zawodową, a także ustalenia związku śmierci sędziego lub sędziego w stanie spoczynku z takim wypadkiem lub chorobą dokonuje, w formie orzeczenia, lekarz orzecznik Zakładu Ubezpieczeń Społecznych. Koszty badania i wydania orzeczenia pokrywa Skarb Państwa ze środków pozostających w dyspozycji Ministra Sprawiedliwości.] <§ 1. Oceny uszczerbku na zdrowiu oraz jego związku z wypadkiem przy pracy lub chorobą zawodową, a także ustalenia związku śmierci sędziego lub sędziego w stanie spoczynku z takim wypadkiem lub chorobą dokonuje, w formie orzeczenia, lekarz orzecznik Zakładu Ubezpieczeń Społecznych. Orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych. Koszty badania i wydania orzeczenia pokrywa Skarb Państwa ze środków pozostających w dyspozycji Ministra Sprawiedliwości.> § 2. Orzeczenie, o którym mowa w § 1, lekarz orzecznik Zakładu Ubezpieczeń Społecznych doręcza zainteresowanemu sędziemu albo członkom rodziny zmarłego sędziego, albo zmarłego sędziego w stanie spoczynku oraz prezesowi sądu apelacyjnego właściwemu do wydania decyzji, o której mowa w § 4, lub Ministrowi Sprawiedliwości.
+§ 1. Oceny uszczerbku na zdrowiu oraz jego związku z wypadkiem przy pracy lub chorobą zawodową, a także ustalenia związku śmierci sędziego lub sędziego w stanie spoczynku z takim wypadkiem lub chorobą dokonuje, w formie orzeczenia, lekarz orzecznik Zakładu Ubezpieczeń Społecznych. Koszty badania i wydania orzeczenia pokrywa Skarb Państwa ze środków pozostających w dyspozycji Ministra Sprawiedliwości.
 
-**Art. 94c.**
+§ 2. Orzeczenie, o którym mowa w § 1, lekarz orzecznik Zakładu Ubezpieczeń Społecznych doręcza zainteresowanemu sędziemu albo członkom rodziny zmarłego sędziego, albo zmarłego sędziego w stanie spoczynku oraz prezesowi sądu apelacyjnego właściwemu do wydania decyzji, o której mowa w § 4, lub Ministrowi Sprawiedliwości.
+
+§ 3. Jednorazowe odszkodowanie przyznaje się na wniosek sędziego, a w razie śmierci sędziego lub sędziego w stanie spoczynku – na wniosek uprawnionych członków jego rodziny. Z wnioskiem o przyznanie świadczenia może również wystąpić kolegium właściwego sądu.
+
+§ 4. Jednorazowe odszkodowanie przyznaje lub odmawia przyznania oraz ustala jego wysokość, w drodze decyzji, a także świadczenie to wypłaca:
+
+- **1)** prezes właściwego sądu apelacyjnego – z tytułu wypadku przy pracy lub choroby zawodowej sędziego sądu rejonowego, okręgowego i apelacyjnego;
+- **2)** Minister Sprawiedliwości – z tytułu wypadku przy pracy lub choroby zawodowej prezesa sądu apelacyjnego oraz sędziego delegowanego do wykonywania czynności w Ministerstwie Sprawiedliwości, Kancelarii Prezydenta Rzeczypospolitej Polskiej oraz urzędzie obsługującym ministra właściwego do spraw zagranicznych.
+
+§ 5. Decyzję, o której mowa w § 4, prezes sądu apelacyjnego lub Minister Sprawiedliwości wydaje w ciągu 14 dni od dnia:
+
+- **1)** otrzymania orzeczenia lekarza orzecznika;
+- **2)** wyjaśnienia ostatniej okoliczności niezbędnej do wydania decyzji.
+
+§ 6. Jednorazowe odszkodowanie wypłaca się z urzędu w terminie 30 dni od dnia wydania decyzji, o której mowa w § 4.
+
+§ 7. Od decyzji, o której mowa w § 4, sędziemu lub uprawnionym członkom rodziny sędziego lub sędziego w stanie spoczynku, przysługuje odwołanie do sądu okręgowego – sądu pracy i ubezpieczeń społecznych. Do postępowania w tych sprawach stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o postępowaniu w sprawach z zakresu ubezpieczeń społecznych.
+
+§ 8. W zakresie nieuregulowanym ustawą, do wypadków przy pracy i chorób zawodowych sędziego stosuje się odpowiednio przepisy dotyczące pracowników określone w ustawie, o której mowa w art. 94a § 3.
 
 § 1. Prezes sądu, oraz na jego wniosek Zakład Ubezpieczeń Społecznych, są uprawnieni do kontrolowania prawidłowości wykorzystywania przez sędziego zwolnienia lekarskiego od pracy z powodu choroby zgodnie z jego celem.
 
@@ -1944,8 +2397,6 @@ Art. 180–195. (pominięte)
 
 § 6. W zakresie dotyczącym kontrolowania prawidłowości wykorzystania zwolnienia lekarskiego, kontrolowania prawidłowości zwolnienia lekarskiego, zasad utraty prawa do wynagrodzenia, o których mowa w § 1, 2 i 4 stosuje się odpowiednio przepisy o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa.
 
-**Art. 94d.**
-
 § 1. Sędziego, który nie pełnił służby z powodu choroby lub płatnego urlopu dla poratowania zdrowia przez okres roku, ustalony zgodnie z art. 94 § 1 zdanie drugie i złożył wniosek o skierowanie na badanie lekarza orzecznika Zakładu Ubezpieczeń Społecznych, Minister Sprawiedliwości kieruje na to badanie.
 
 § 2. Minister Sprawiedliwości może także z urzędu skierować sędziego, o którym mowa w § 1, na badanie lekarza orzecznika Zakładu Ubezpieczeń Społecznych.
@@ -1954,17 +2405,15 @@ Art. 180–195. (pominięte)
 
 § 4. W okresie urlopu rehabilitacyjnego, co miesiąc od daty wydania orzeczenia, o którym mowa w § 3, sędzia jest obowiązany poddać się badaniu kontrolnemu lekarza orzecznika Zakładu Ubezpieczeń Społecznych, który wydaje orzeczenie o dalszej niezdolności do pełnienia obowiązków sędziego albo o zdolności do pełnienia obowiązków sędziego, chyba że Minister Sprawiedliwości, udzielając urlopu rehabilitacyjnego, zwolni sędziego z tego obowiązku.
 
-§ 5. Orzeczenia, o których mowa w § 3 i 4, lekarz orzecznik Zakładu Ubezpieczeń Społecznych doręcza zainteresowanemu sędziemu oraz prezesowi sądu okręgowego albo sądu apelacyjnego, a także Ministrowi Sprawiedliwości. [§ 6. Od orzeczenia lekarza orzecznika Zakładu Ubezpieczeń Społecznych, o którym mowa w § 3 i 4, sędziemu przysługuje sprzeciw do komisji lekarskiej Zakładu Ubezpieczeń Społecznych, w ciągu 7 dni od dnia doręczenia tego orzeczenia.] <§ 6. Orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych, o którym mowa w § 3 i 4, jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.> [§ 7. Koszty badania i wydania orzeczenia przez lekarza orzecznika oraz komisję lekarską Zakładu Ubezpieczeń Społecznych pokrywa Skarb Państwa ze środków pozostających w dyspozycji Ministra Sprawiedliwości.] <§ 7. Koszty badania i wydania orzeczenia lekarza orzecznika Zakładu Ubezpieczeń Społecznych, o którym mowa w § 3 i 4, pokrywa Skarb Państwa ze środków pozostających w dyspozycji Ministra Sprawiedliwości.>
+§ 5. Orzeczenia, o których mowa w § 3 i 4, lekarz orzecznik Zakładu Ubezpieczeń Społecznych doręcza zainteresowanemu sędziemu oraz prezesowi sądu okręgowego albo sądu apelacyjnego, a także Ministrowi Sprawiedliwości.
 
-**Art. 94e.**
+§ 6. Od orzeczenia lekarza orzecznika Zakładu Ubezpieczeń Społecznych, o którym mowa w § 3 i 4, sędziemu przysługuje sprzeciw do komisji lekarskiej Zakładu Ubezpieczeń Społecznych, w ciągu 7 dni od dnia doręczenia tego orzeczenia.
+
+§ 7. Koszty badania i wydania orzeczenia przez lekarza orzecznika oraz komisję lekarską Zakładu Ubezpieczeń Społecznych pokrywa Skarb Państwa ze środków pozostających w dyspozycji Ministra Sprawiedliwości.
 
 § 1. Listę lekarzy orzeczników Zakładu Ubezpieczeń Społecznych, uprawnionych do przeprowadzania badań, o których mowa w art. 94d § 1, 2 i 4, wraz ze wskazaniem ich specjalizacji, ustala Minister Sprawiedliwości w porozumieniu z Prezesem Zakładu Ubezpieczeń Społecznych.
 
-§ 2. W przypadkach, o których mowa w art. 94d § 1, 2 i 4, lekarza orzecznika wskazuje Minister Sprawiedliwości z listy, o której mowa w § 1, biorąc pod uwagę jego specjalizację oraz mając na względzie potrzebę zapewnienia niezwłocznego przeprowadzenia badania.
-
-**Art. 94f.** W okresie urlopu rehabilitacyjnego sędziemu przysługuje 80 % wynagrodzenia.
-
-**Art. 94g.**
+§ 2. W przypadkach, o których mowa w art. 94d § 1, 2 i 4, lekarza orzecznika wskazuje Minister Sprawiedliwości z listy, o której mowa w § 1, biorąc pod uwagę jego specjalizację oraz mając na względzie potrzebę zapewnienia niezwłocznego przeprowadzenia badania. W okresie urlopu rehabilitacyjnego sędziemu przysługuje 80 % wynagrodzenia.
 
 § 1. Niepoddanie się przez sędziego badaniu lekarza orzecznika Zakładu Ubezpieczeń Społecznych, o którym mowa w art. 94d § 4, powoduje obniżenie wynagrodzenia do wysokości 50 %.
 
@@ -2056,7 +2505,7 @@ Art. 180–195. (pominięte)
 
 - **1)** dla jednej osoby uprawnionej – 85 %,
 - **2)** dla dwóch osób uprawnionych – 90 %,
-- **3)** dla trzech lub więcej osób uprawnionych – 95 % – podstawy wymiaru.
+- **3)** dla trzech lub więcej osób uprawnionych – 95 % podstawy wymiaru.
 
 § 2. Podstawę wymiaru uposażenia rodzinnego przysługującego rodzinie stanowi:
 
@@ -2081,7 +2530,7 @@ Art. 180–195. (pominięte)
 
 - **1)** upomnienia;
 - **2)** nagany;
-- **2a)** obniżenia uposażenia o 5 %–50 % na okres od sześciu miesięcy do dwóch lat;
+- **2a)** obniżenia uposażenia o 5 %-50 % na okres od sześciu miesięcy do dwóch lat;
 - **3)** zawieszenia podwyższenia uposażenia, o którym mowa w art. 100 § 3, na okres od roku do trzech lat;
 - **4)** pozbawienia prawa do stanu spoczynku wraz z prawem do uposażenia.
 
@@ -2107,160 +2556,6 @@ Art. 180–195. (pominięte)
 
 #### Rozdział 2b Asesorzy sądowi
 
-**Art. 106h.** Na stanowisko asesora sądowego może być mianowany ten, kto:
-
-**Art. 106i.**
-
-§ 1. Asesorów sądowych mianuje Prezydent Rzeczypospolitej Polskiej na czas nieokreślony, na wniosek Krajowej Rady Sądownictwa.
-
-§ 2. W akcie mianowania Prezydent Rzeczypospolitej Polskiej wyznacza miejsce służbowe (siedzibę) asesora sądowego, zgodnie z jego wyborem dokonanym w trybie art. 33a ust. 5 albo art. 33b ust. 6 ustawy z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury.
-
-§ 3. Asesor sądowy składa ślubowanie wobec Prezydenta Rzeczypospolitej Polskiej według następującej roty: „Ślubuję uroczyście jako asesor sądowy służyć wiernie Rzeczypospolitej Polskiej, stać na straży prawa, obowiązki asesora sądowego wypełniać sumiennie, sprawiedliwość wymierzać zgodnie z przepisami prawa, bezstronnie według mego sumienia, dochować tajemnicy prawnie chronionej, a w postępowaniu kierować się zasadami godności i uczciwości.”; składający ślubowanie może dodać na końcu zwrot: „Tak mi dopomóż Bóg”.
-
-§ 4. Stosunek służbowy asesora sądowego nawiązuje się po doręczeniu mu aktu mianowania.
-
-§ 5. Asesor sądowy zgłasza się w celu objęcia stanowiska w ciągu czternastu dni od dnia otrzymania aktu mianowania.
-
-§ 6. W razie nieusprawiedliwionego nieobjęcia stanowiska asesorskiego w terminie określonym w § 5 mianowanie traci moc. Okoliczność tę stwierdza Minister Sprawiedliwości.
-
-§ 7. (uchylony) § 8. Asesor sądowy pełni obowiązki sędziego przez okres 4 lat od dnia objęcia stanowiska asesorskiego.
-
-§ 9. (uchylony) § 10. (uchylony)
-
-**Art. 106j.**
-
-§ 1. Asesor sądowy w sprawowaniu swojego urzędu jest niezawisły i podlega tylko Konstytucji oraz ustawom.
-
-§ 2. Asesor sądowy nie może należeć do partii politycznej, związku zawodowego, ani prowadzić działalności publicznej niedającej się pogodzić z zasadami niezależności sądów i niezawisłości asesorów sądowych.
-
-§ 3. Asesorowi sądowemu ubiegającemu się o mandat posła, senatora albo radnego udziela się urlopu bezpłatnego na czas kampanii wyborczej. Okresu udzielonego urlopu nie wlicza się do okresu, o którym mowa w art. 61 § 1 pkt 7.
-
-§ 4. Asesor sądowy, który został mianowany, powołany lub wybrany do pełnienia funkcji w organach państwowych, samorządu terytorialnego, w służbie dyplomatycznej, konsularnej lub w organach organizacji międzynarodowych oraz ponadnarodowych działających na podstawie umów międzynarodowych ratyfikowanych przez Rzeczpospolitą Polską, jest obowiązany zrzec się niezwłocznie swojego urzędu.
-
-**Art. 106k.**
-
-§ 1. Asesor sądowy jest nieusuwalny.
-
-§ 2. Stosunek służbowy asesora sądowego wygasa w przypadku:
-
-- **1)** (uchylony)
-- **2)** niezłożenia przez asesora sądowego wniosku o powołanie do pełnienia urzędu na stanowisku sędziowskim – z upływem okresu, o którym mowa w art. 106i § 8;
-- **3)** powołania do pełnienia urzędu na stanowisku sędziowskim – z dniem poprzedzającym powołanie na stanowisko sędziowskie;
-- **4)** nieprzedstawienia przez Krajową Radę Sądownictwa wniosku o powołanie asesora sądowego do pełnienia urzędu na stanowisku sędziowskim – z dniem uprawomocnienia się uchwały Krajowej Rady Sądownictwa.
-
-§ 3. Stosunek służbowy asesora sądowego rozwiązuje się z mocy prawa, jeżeli zrzekł się on urzędu. Zrzeczenie się urzędu jest skuteczne po upływie trzech miesięcy od dnia złożenia Ministrowi Sprawiedliwości oświadczenia, chyba że na wniosek asesora sądowego Minister Sprawiedliwości określi inny termin. O zrzeczeniu się urzędu przez asesora sądowego Minister Sprawiedliwości zawiadamia Krajową Radę Sądownictwa.
-
-§ 3a. Cofnięcie przez asesora sądowego wniosku o powołanie do pełnienia urzędu na stanowisku sędziowskim jest równoznaczne ze złożeniem oświadczenia o zrzeczeniu się urzędu.
-
-§ 4. Prawomocne orzeczenie sądu dyscyplinarnego o złożeniu asesora sądowego z urzędu oraz prawomocne orzeczenie sądu skazujące na środek karny pozbawienia praw publicznych lub zakazu zajmowania stanowiska asesora sądowego powoduje, z mocy prawa, utratę urzędu i stanowiska asesora sądowego; stosunek służbowy asesora sądowego wygasa z chwilą uprawomocnienia się orzeczenia.
-
-§ 5. Stosunek służbowy asesora sądowego wygasa z dniem utraty przez niego obywatelstwa polskiego.
-
-§ 6. Stosunek służbowy asesora sądowego wygasa, jeżeli z powodu choroby lub utraty sił został uznany za trwale niezdolnego do pełnienia obowiązków asesora sądowego.
-
-§ 7. Minister Sprawiedliwości zawiadamia asesora sądowego o wygaśnięciu lub rozwiązaniu stosunku służbowego.
-
-**Art. 106l.**
-
-§ 1. (uchylony) § 1a. Przeniesienie asesora sądowego na inne miejsce służbowe może nastąpić na jego wniosek, w szczególnie uzasadnionych przypadkach i nie wcześniej niż po dwóch latach od dnia mianowania.
-
-§ 2. Przeniesienie asesora sądowego na inne miejsce służbowe może nastąpić, także bez jego zgody, w przypadkach:
-
-- **1)** zniesienia stanowiska wywołanego zmianą w organizacji sądownictwa lub zniesienia danego sądu lub wydziału zamiejscowego albo przeniesienia siedziby sądu;
-- **2)** niedopuszczalności zajmowania stanowiska asesora sądowego w danym sądzie wskutek wystąpienia okoliczności, o których mowa w art. 6;
-- **3)** gdy wymaga tego wzgląd na powagę stanowiska, na podstawie orzeczenia sądu dyscyplinarnego, wydanego na wniosek kolegium właściwego sądu lub Krajowej Rady Sądownictwa;
-- **4)** przeniesienia w wyniku kary dyscyplinarnej.
-
-§ 3. Decyzję o przeniesieniu asesora sądowego wydaje Minister Sprawiedliwości, z tym że przeniesienie z przyczyn, o których mowa w § 2 pkt 1, może nastąpić, jeżeli uwzględnienie wniosku asesora sądowego co do nowego miejsca służbowego nie jest możliwe.
-
-§ 4. W przypadkach, o których mowa w § 2 pkt 1 i 2, od decyzji Ministra Sprawiedliwości asesorowi sądowemu przysługuje odwołanie do Sądu Najwyższego.
-
-**Art. 106m.**
-
-§ 1. W przypadku przeniesienia asesora sądowego na inne miejsce służbowe nie przysługuje mu ekwiwalent pieniężny za dni niewykorzystanego urlopu wypoczynkowego. Asesor sądowy zachowuje prawo do wykorzystania tego urlopu w czasie pełnienia służby w miejscu, do którego przeniesienie nastąpiło.
-
-§ 2. Przepis § 1 stosuje się odpowiednio w przypadku powołania asesora sądowego na stanowisko sędziowskie.
-
-§ 3. W przypadku przeniesienia asesora sądowego do innej miejscowości, przysługuje mu zwrot kosztów przeniesienia, z wyjątkiem przypadku, gdy przeniesienie nastąpiło w drodze dyscyplinarnej lub na jego wniosek. Asesorowi sądowemu przenoszonemu na jego wniosek Minister Sprawiedliwości, w szczególnie uzasadnionych przypadkach, może przyznać zwrot kosztów przeniesienia.
-
-**Art. 106n.** (uchylony)
-
-**Art. 106o.** (uchylony)
-
-**Art. 106p.** (uchylony)
-
-**Art. 106q.** (uchylony)
-
-**Art. 106r.** (uchylony)
-
-**Art. 106s.** (uchylony)
-
-**Art. 106t.** (uchylony)
-
-**Art. 106u.** (uchylony)
-
-**Art. 106v.** (uchylony)
-
-**Art. 106w.** (uchylony)
-
-**Art. 106x.** (uchylony) Art. 106xa. § 1. Przed upływem 36 miesięcy pełnienia obowiązków sędziego asesor sądowy może złożyć prezesowi właściwego sądu okręgowego wniosek o powołanie na stanowisko sędziego sądu rejonowego. Przepisy art. 57 § 2–6 i 8, art. 57a § 1, art. 57ab § 2, art. 57ac–57af oraz art. 58 § 4 stosuje się odpowiednio.
-
-**Art. 106y.**
-
-§ 1. Wynagrodzenie zasadnicze asesora sądowego wynosi 80 % wynagrodzenia zasadniczego w stawce pierwszej sędziego sądu rejonowego, powiększonego o należną składkę z tytułu ubezpieczenia społecznego.
-
-§ 2. (uchylony) § 3. W przypadku powierzenia asesorowi sądowemu funkcji przewodniczącego wydziału, przysługuje mu z tego tytułu dodatek funkcyjny ustalany w sposób określony w przepisach wykonawczych wydanych na podstawie art. 91 § 8.
-
-§ 4. Wynagrodzenie asesorów sądowych różnicuje ponadto dodatek za długoletnią pracę wynoszący, począwszy od szóstego roku pracy, 5 % wynagrodzenia zasadniczego i wzrastający po każdym roku o 1 %, aż do osiągnięcia 20 % wynagrodzenia zasadniczego.
-
-§ 5. Czas pracy asesora sądowego jest określony wymiarem jego zadań.
-
-§ 6. (uchylony)
-
-**Art. 106z.**
-
-§ 1. Asesorowi sądowemu można udzielić płatnego urlopu dla poratowania zdrowia w celu przeprowadzenia zaleconego leczenia, jeżeli leczenie to wymaga powstrzymania się od pełnienia służby.
-
-§ 2. Urlop dla poratowania zdrowia nie może przekraczać sześciu miesięcy.
-
-§ 3. Urlopu dla poratowania zdrowia udziela Minister Sprawiedliwości.
-
-§ 4. W przypadku odmowy udzielenia urlopu dla poratowania zdrowia asesorowi sądowemu przysługuje w terminie 14 dni od dnia otrzymania odmowy odwołanie do Sądu Najwyższego. Art. 106za. § 1. Strojem urzędowym asesora sądowego jest strój urzędowy sędziego. Przepis art. 84 § 1 stosuje się.
-
-§ 2. Asesor sądowy otrzymuje legitymację służbową, wymieniającą zajmowane przez niego stanowisko i miejsce służbowe. Minister Sprawiedliwości określi, w drodze zarządzenia, wzór legitymacji służbowej asesora sądowego. Art. 106zb. (uchylony) Art. 106zc. Asesor sądowy nie może, powołując się na zasadę niezawisłości, uchylić się od wykonania poleceń w zakresie czynności administracyjnych, jeżeli z mocy przepisów ustawy należą do obowiązków asesorskich, a także poleceń dotyczących sprawności postępowania sądowego; może domagać się wydania polecenia na piśmie. Art. 106zd. § 1. Asesor sądowy nie może być zatrzymany ani pociągnięty do odpowiedzialności karnej bez zezwolenia właściwego sądu dyscyplinarnego. Nie dotyczy to zatrzymania w razie ujęcia asesora sądowego na gorącym uczynku przestępstwa, jeżeli zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania. Do czasu wydania uchwały zezwalającej na pociągnięcie asesora sądowego do odpowiedzialności karnej wolno podejmować tylko czynności niecierpiące zwłoki.
-
-§ 2. O zatrzymaniu asesora sądowego niezwłocznie powiadamia się prezesa sądu apelacyjnego właściwego ze względu na miejsce zatrzymania. Może on nakazać natychmiastowe zwolnienie zatrzymanego. O fakcie zatrzymania asesora sądowego prezes sądu apelacyjnego niezwłocznie zawiadamia Krajową Radę Sądownictwa, Ministra Sprawiedliwości i Pierwszego Prezesa Sądu Najwyższego.
-
-§ 3. Wniosek o zezwolenie na pociągnięcie asesora sądowego do odpowiedzialności karnej, jeżeli nie pochodzi od prokuratora, powinien być sporządzony i podpisany przez adwokata albo radcę prawnego będącego pełnomocnikiem.
-
-§ 4. Na zarządzenie o odmowie przyjęcia wniosku przysługuje zażalenie do sądu dyscyplinarnego właściwego do rozpoznania wniosku.
-
-§ 5. Sąd dyscyplinarny wydaje uchwałę zezwalającą na pociągnięcie asesora sądowego do odpowiedzialności karnej, jeżeli zachodzi dostatecznie uzasadnione podejrzenie popełnienia przez niego przestępstwa. Uchwała zawiera rozstrzygnięcie w przedmiocie zezwolenia na pociągnięcie asesora sądowego do odpowiedzialności karnej wraz z uzasadnieniem.
-
-§ 6. Sąd dyscyplinarny rozpoznaje wniosek o zezwolenie na pociągnięcie asesora sądowego do odpowiedzialności karnej w terminie czternastu dni od dnia jego wpłynięcia do sądu dyscyplinarnego.
-
-§ 6a. Jeżeli wniosek o zezwolenie na pociągnięcie do odpowiedzialności karnej lub tymczasowe aresztowanie dotyczy asesora sądowego ujętego na gorącym uczynku zbrodni lub występku zagrożonego karą pozbawienia wolności, której górna granica wynosi co najmniej 8 lat, występku, o którym mowa w art. 177 § 1 Kodeksu karnego w związku z art. 178 § 1 Kodeksu karnego, a także w art. 178a § 1 lub 4 Kodeksu karnego, i pozostającego nadal zatrzymanym, sąd dyscyplinarny podejmuje uchwałę w przedmiocie wniosku niezwłocznie, nie później niż przed upływem 24 godzin od jego wpłynięcia do sądu dyscyplinarnego. Uchwała zezwalająca na pociągnięcie do odpowiedzialności karnej lub tymczasowe aresztowanie asesora sądowego jest natychmiast wykonalna.
-
-§ 7. Przed wydaniem uchwały sąd dyscyplinarny wysłuchuje rzecznika dyscyplinarnego, asesora sądowego, przedstawiciela organu lub osobę, którzy wnieśli o zezwolenie, jeżeli się stawią. Ich niestawiennictwo, jak również niestawiennictwo obrońcy, nie wstrzymuje rozpoznania wniosku.
-
-§ 8. Asesor sądowy, którego dotyczy postępowanie, ma prawo wglądu do dokumentów, które zostały załączone do wniosku. Jednak prokurator, kierując wniosek do sądu dyscyplinarnego, może zastrzec, że dokumenty te lub ich część nie mogą być asesorowi sądowemu udostępnione z uwagi na dobro postępowania przygotowawczego.
-
-§ 9. Jeżeli prokurator złożył zastrzeżenie prezes sądu dyscyplinarnego niezwłocznie kieruje sprawę na posiedzenie. Sąd dyscyplinarny może odmówić asesorowi sądowemu wglądu do dokumentów dołączonych do wniosku.
-
-§ 10. Orzekając w sprawie, o której mowa w § 1, sąd dyscyplinarny może poprzestać na oświadczeniu asesora sądowego, że wnosi o wydanie uchwały o zezwoleniu na pociągnięcie go do odpowiedzialności karnej. Art. 106ze. § 1. Za wykroczenie asesor sądowy odpowiada tylko dyscyplinarnie, z zastrzeżeniem § 2.
-
-§ 2. Asesor sądowy może wyrazić zgodę na pociągnięcie go do odpowiedzialności karnej za wykroczenia, o których mowa w § 3, w trybie określonym w tym przepisie.
-
-§ 3. W przypadku popełnienia przez asesora sądowego wykroczenia, o którym mowa w rozdziale XI ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń, przyjęcie przez asesora sądowego mandatu karnego albo uiszczenie grzywny, w przypadku ukarania mandatem karnym zaocznym, o którym mowa w art. 98 § 1 pkt 3 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia, stanowi oświadczenie o wyrażeniu przez niego zgody na pociągnięcie go do odpowiedzialności w tej formie.
-
-§ 4. Wyrażenie przez asesora sądowego zgody na pociągnięcie go do odpowiedzialności w trybie określonym w § 3 wyłącza odpowiedzialność dyscyplinarną. Art. 106zf. § 1. Asesor sądowy jest obowiązany stale podnosić kwalifikacje zawodowe.
-
-§ 2. (uchylony) § 3. Asesor sądowy jest obowiązany uczestniczyć, w miarę możliwości corocznie, w szkoleniu i doskonaleniu zawodowym organizowanym przez Krajową Szkołę Sądownictwa i Prokuratury lub innych formach doskonalenia zawodowego, w celu uzupełnienia specjalistycznej wiedzy i umiejętności zawodowych.
-
-§ 4. (uchylony) Art. 106zg. § 1. Do asesorów sądowych stosuje się odpowiednio przepisy art. 47b § 4–6, art. 67, art. 75b, art. 82, art. 83a, art. 85–90, art. 92 § 3–6, art. 95 i art. 97.
-
-§ 2. Ilekroć inne ustawy przewidują podejmowanie czynności urzędowych przez sędziego należy przez sędziego rozumieć także asesora sądowego.
-
 #### Rozdział 3 Odpowiedzialność dyscyplinarna sędziów i asesorów sądowych
 
 **Art. 107.**
@@ -2280,9 +2575,7 @@ Art. 180–195. (pominięte)
 
 - **1)** okoliczność, że orzeczenie sądowe wydane z udziałem danego sędziego obarczone jest błędem w zakresie wykładni i stosowania przepisów prawa krajowego lub prawa Unii Europejskiej lub w zakresie ustalenia stanu faktycznego lub oceny dowodów;
 - **2)** wystąpienie do Trybunału Sprawiedliwości Unii Europejskiej z wnioskiem o rozpatrzenie pytania prejudycjalnego, o którym mowa w art. 267 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. U. z 2004 r. poz. 864, z późn. zm.);
-- **3)** badanie spełniania wymogów niezawisłości i bezstronności w przypadku, o którym mowa w art. 42a § 3 lub art. 23a § 4 ustawy z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. z 2022 r. poz. 2250), lub art. 5a § 1 ustawy z dnia 25 lipca 2002 r. – Prawo o ustroju sądów administracyjnych (Dz. U. z 2022 r. poz. 2492 oraz z 2023 r. poz. 1615), lub badanie spełniania wymogów niezależności lub niezawisłości w przypadku, o którym mowa w art. 26 § 2 ustawy z dnia 8 grudnia 2017 r. o Sądzie Najwyższym, lub badanie spełniania wymogów niezawisłości i bezstronności w przypadku, o którym mowa w art. 29 § 5 tej ustawy.
-
-**Art. 107a.** Asesor sądowy odpowiada dyscyplinarnie za przewinienia służbowe (dyscyplinarne) oraz za swoje postępowanie przed objęciem stanowiska, jeżeli przez nie okazał się niegodny urzędu asesora sądowego, tak jak sędzia. Przepisy art. 108– 133a stosuje się odpowiednio.
+- **3)** badanie spełniania wymogów niezawisłości i bezstronności w przypadku, o którym mowa w art. 42a § 3 lub art. 23a § 4 ustawy z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. z 2022 r. poz. 2250), lub art. 5a § 1 ustawy z dnia 25 lipca 2002 r. – Prawo o ustroju sądów administracyjnych (Dz. U. z 2022 r. poz. 2492 oraz z 2023 r. poz. 1615), lub badanie spełniania wymogów niezależności lub niezawisłości w przypadku, o którym mowa w art. 26 § 2 ustawy z dnia 8 grudnia 2017 r. o Sądzie Najwyższym, lub badanie spełniania wymogów niezawisłości i bezstronności w przypadku, o którym mowa w art. 29 § 5 tej ustawy. Asesor sądowy odpowiada dyscyplinarnie za przewinienia służbowe (dyscyplinarne) oraz za swoje postępowanie przed objęciem stanowiska, jeżeli przez nie okazał się niegodny urzędu asesora sądowego, tak jak sędzia. Przepisy art. 108–133a stosuje się odpowiednio.
 
 **Art. 108.**
 
@@ -2290,7 +2583,9 @@ Art. 180–195. (pominięte)
 
 § 2. W razie wszczęcia postępowania dyscyplinarnego przed upływem terminu, o którym mowa w § 1, przedawnienie dyscyplinarne następuje z upływem ośmiu lat od chwili popełnienia czynu.
 
-§ 3. (uchylony) § 4. Jeżeli jednak przewinienie dyscyplinarne zawiera znamiona przestępstwa, przedawnienie dyscyplinarne nie może nastąpić wcześniej niż przedawnienie przewidziane w przepisach Kodeksu karnego.
+§ 3. (uchylony)
+
+§ 4. Jeżeli jednak przewinienie dyscyplinarne zawiera znamiona przestępstwa, przedawnienie dyscyplinarne nie może nastąpić wcześniej niż przedawnienie przewidziane w przepisach Kodeksu karnego.
 
 § 5. Przedawnienie dyscyplinarne nie biegnie w czasie postępowania dyscyplinarnego, począwszy od dnia złożenia wniosku do sądu dyscyplinarnego do dnia prawomocnego zakończenia postępowania dyscyplinarnego. Nie dotyczy to przypadku, gdy przedmiotem wniosku jest pociągnięcie sędziego do odpowiedzialności dyscyplinarnej za wykroczenie lub wykroczenie skarbowe.
 
@@ -2300,7 +2595,7 @@ Art. 180–195. (pominięte)
 
 - **1)** upomnienie;
 - **2)** nagana;
-- **2a)** obniżenie wynagrodzenia zasadniczego o 5 %–50 % na okres od sześciu miesięcy do dwóch lat;
+- **2a)** obniżenie wynagrodzenia zasadniczego o 5 %-50 % na okres od sześciu miesięcy do dwóch lat;
 - **2b)** kara pieniężna w wysokości podlegającego wypłacie za miesiąc poprzedzający wydanie prawomocnego wyroku skazującego jednomiesięcznego wynagrodzenia zasadniczego powiększonego o przysługujący sędziemu dodatek za długoletnią pracę, dodatek funkcyjny i dodatek specjalny;
 - **3)** usunięcie z zajmowanej funkcji;
 - **4)** przeniesienie na inne miejsce służbowe;
@@ -2308,7 +2603,9 @@ Art. 180–195. (pominięte)
 
 § 1a. Za przewinienie dyscyplinarne określone w art. 107 § 1 pkt 2–4, wymierza się karę, o której mowa w § 1 pkt 4 lub 5, a w przypadku mniejszej wagi – karę, o której mowa w § 1 pkt 2a, 2b lub 3.
 
-§ 2. (uchylony) § 3. Wymierzenie kary określonej w § 1 pkt 2–4 pociąga za sobą pozbawienie możliwości awansowania na wyższe stanowisko sędziowskie przez okres pięciu lat, niemożność udziału w tym okresie w kolegium sądu, orzekania w sądzie dyscyplinarnym oraz objęcia w sądzie funkcji prezesa sądu, wiceprezesa sądu lub kierownika ośrodka zamiejscowego sądu.
+§ 2. (uchylony)
+
+§ 3. Wymierzenie kary określonej w § 1 pkt 2–4 pociąga za sobą pozbawienie możliwości awansowania na wyższe stanowisko sędziowskie przez okres pięciu lat, niemożność udziału w tym okresie w kolegium sądu, orzekania w sądzie dyscyplinarnym oraz objęcia w sądzie funkcji prezesa sądu, wiceprezesa sądu lub kierownika ośrodka zamiejscowego sądu.
 
 § 3a. Kara określona w § 1 pkt 4 polega na zmianie miejsca służbowego sędziego na znajdujące się w:
 
@@ -2324,25 +2621,21 @@ Art. 180–195. (pominięte)
 
 § 5. W przypadku przewinienia dyscyplinarnego lub wykroczenia mniejszej wagi, sąd dyscyplinarny może odstąpić od wymierzenia kary.
 
-**Art. 109a.**
-
 § 1. Prawomocny wyrok skazujący sądu dyscyplinarnego podaje się do wiadomości publicznej.
 
 § 2. Sąd dyscyplinarny może odstąpić od podania wyroku do wiadomości publicznej, jeżeli jest to zbędne dla realizacji celów postępowania dyscyplinarnego lub konieczne dla ochrony słusznego interesu prywatnego.
 
 § 3. Prawomocny wyrok uniewinniający sądu dyscyplinarnego podaje się do wiadomości publicznej na wniosek obwinionego sędziego złożony do sądu dyscyplinarnego pierwszej instancji, nie później niż przed upływem czternastu dni od dnia uprawomocnienia się wyroku.
 
-§ 4. Wyrok sądu dyscyplinarnego podaje się do wiadomości publicznej poprzez zamieszczenie go na stronie internetowej Sądu Najwyższego. Zamieszczeniu podlega sentencja wyroku, z wyłączeniem danych dotyczących tożsamości osoby fizycznej lub innej osoby, jeżeli jest to konieczne dla ochrony słusznych interesów tych osób.
-
-**Art. 109b.** O prawomocnym przeniesieniu sędziego na inne miejsce służbowe i złożeniu sędziego z urzędu Minister Sprawiedliwości obwieszcza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+§ 4. Wyrok sądu dyscyplinarnego podaje się do wiadomości publicznej poprzez zamieszczenie go na stronie internetowej Sądu Najwyższego. Zamieszczeniu podlega sentencja wyroku, z wyłączeniem danych dotyczących tożsamości osoby fizycznej lub innej osoby, jeżeli jest to konieczne dla ochrony słusznych interesów tych osób. O prawomocnym przeniesieniu sędziego na inne miejsce służbowe i złożeniu sędziego z urzędu Minister Sprawiedliwości obwieszcza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
 **Art. 110.**
 
 § 1. W sprawach dyscyplinarnych sędziów orzekają:
 
-- **1)** w pierwszej instancji:
-    - **a)** sądy dyscyplinarne przy sądach apelacyjnych w składzie trzech sędziów,
-    - **b)** Sąd Najwyższy w składzie dwóch sędziów orzekających w Izbie Odpowiedzialności Zawodowej i jednego ławnika Sądu Najwyższego w sprawach przewinień dyscyplinarnych wyczerpujących znamiona umyślnych przestępstw ściganych z oskarżenia publicznego lub umyślnych przestępstw skarbowych, lub sprawach, w których Sąd Najwyższy zwrócił się z wnioskiem o rozpoznanie sprawy dyscyplinarnej wraz z wytknięciem uchybienia, oraz sprawach, o których mowa w art. 107 § 1 pkt 3;
+- **1)** w pierwszej instancji: sądy dyscyplinarne przy sądach apelacyjnych w składzie trzech sędziów, Sąd Najwyższy w składzie dwóch sędziów orzekających w Izbie Odpowiedzialności Zawodowej i jednego ławnika Sądu Najwyższego w sprawach przewinień dyscyplinarnych wyczerpujących znamiona umyślnych przestępstw ściganych z oskarżenia publicznego lub umyślnych przestępstw skarbowych, lub sprawach, w których Sąd Najwyższy zwrócił się z wnioskiem o rozpoznanie sprawy dyscyplinarnej wraz z wytknięciem uchybienia, oraz sprawach, o których mowa w art. 107 § 1 pkt 3;
+    - **a)**
+    - **b)**
 
 - **2)** w drugiej instancji – Sąd Najwyższy w składzie dwóch sędziów orzekających w Izbie Odpowiedzialności Zawodowej i jednego ławnika Sądu Najwyższego.
 
@@ -2354,9 +2647,9 @@ Art. 180–195. (pominięte)
 
 § 3. Do rozpoznania spraw wymienionych w § 1 pkt 1 lit. a właściwy miejscowo jest sąd dyscyplinarny, w okręgu którego pełni służbę sędzia objęty postępowaniem. Jeżeli jednak sprawa dotyczy sędziego sądu apelacyjnego albo sędziego sądu okręgowego, właściwy jest inny sąd dyscyplinarny wyznaczony, na wniosek rzecznika dyscyplinarnego, przez Sąd Najwyższy – Izbę Odpowiedzialności Zawodowej spośród sądów dyscyplinarnych właściwych dla obszarów apelacji sąsiadujących z obszarem apelacji, w którym znajduje się sąd, w którym pełni służbę sędzia objęty postępowaniem.
 
-§ 4. (uchylony) § 5. Sąd dyscyplinarny pierwszej instancji może orzekać na sesjach wyjazdowych w sądzie okręgowym, na obszarze właściwości którego obwiniony zajmuje stanowisko sędziego, chyba że sprzeciwia się temu dobro wymiaru sprawiedliwości.
+§ 4. (uchylony)
 
-**Art. 110a.**
+§ 5. Sąd dyscyplinarny pierwszej instancji może orzekać na sesjach wyjazdowych w sądzie okręgowym, na obszarze właściwości którego obwiniony zajmuje stanowisko sędziego, chyba że sprzeciwia się temu dobro wymiaru sprawiedliwości.
 
 § 1. Minister Sprawiedliwości powierza obowiązki sędziego sądu dyscyplinarnego przy sądzie apelacyjnym sędziemu sądu powszechnego posiadającemu co najmniej dziesięcioletni staż pracy na stanowisku sędziego, po zasięgnięciu opinii Krajowej Rady Sądownictwa.
 
@@ -2372,8 +2665,6 @@ Art. 180–195. (pominięte)
 - **2)** przejścia albo przeniesienia sędziego w stan spoczynku;
 - **3)** ukarania sędziego karą dyscyplinarną określoną w art. 109 § 1 pkt 2–4.
 
-**Art. 110b.**
-
 § 1. Prezesa sądu dyscyplinarnego przy sądzie apelacyjnym powołuje spośród sędziów tego sądu dyscyplinarnego Pierwszy Prezes Sądu Najwyższego. Kadencja prezesa sądu dyscyplinarnego przy sądzie apelacyjnym trwa trzy lata.
 
 § 2. Prezes sądu dyscyplinarnego przy sądzie apelacyjnym może być odwołany przez Pierwszego Prezesa Sądu Najwyższego:
@@ -2384,9 +2675,7 @@ Art. 180–195. (pominięte)
 
 § 3. W razie nieobecności prezesa sądu dyscyplinarnego przy sądzie apelacyjnym jego obowiązki pełni najstarszy służbą sędzia tego sądu.
 
-§ 4. Prezes sądu apelacyjnego zapewnia odpowiednie warunki lokalowe i techniczne oraz obsługę administracyjno-finansową sądu dyscyplinarnego.
-
-**Art. 110c.** Minister Sprawiedliwości określi, w drodze rozporządzenia, liczbę sędziów w sądach dyscyplinarnych przy sądach apelacyjnych, kierując się względami organizacyjnymi oraz potrzebą zapewnienia sprawnego postępowania w sprawach dyscyplinarnych.
+§ 4. Prezes sądu apelacyjnego zapewnia odpowiednie warunki lokalowe i techniczne oraz obsługę administracyjno-finansową sądu dyscyplinarnego. Minister Sprawiedliwości określi, w drodze rozporządzenia, liczbę sędziów w sądach dyscyplinarnych przy sądach apelacyjnych, kierując się względami organizacyjnymi oraz potrzebą zapewnienia sprawnego postępowania w sprawach dyscyplinarnych.
 
 **Art. 111.** Skład sądu dyscyplinarnego wyznacza się w drodze losowania, z listy wszystkich sędziów danego sądu, z tym że w składzie sądu zasiada przynajmniej jeden sędzia stale orzekający w sprawach karnych. Składowi sądu dyscyplinarnego przewodniczy sędzia stale orzekający w sprawach karnych, najstarszy służbą.
 
@@ -2419,9 +2708,13 @@ Art. 180–195. (pominięte)
 
 § 9. Zastępca rzecznika pełni obowiązki po upływie kadencji do czasu powołania zastępcy rzecznika na następną kadencję.
 
-§ 10. (uchylony) § 11. (uchylony) § 12. (uchylony) § 13. (uchylony)
+§ 10. (uchylony)
 
-**Art. 112a.**
+§ 11. (uchylony)
+
+§ 12. (uchylony)
+
+§ 13. (uchylony)
 
 § 1. Rzecznika dyscyplinarnego do prowadzenia sprawy dyscyplinarnej wyznacza się w kolejności wpływu spraw, wedle alfabetycznej listy rzeczników dyscyplinarnych. Odstępstwo od tej zasady może nastąpić wyłącznie z powodu choroby rzecznika dyscyplinarnego lub z innej ważnej przyczyny, co należy zaznaczyć w zarządzeniu o wyznaczeniu rzecznika dyscyplinarnego w sprawie.
 
@@ -2431,8 +2724,6 @@ Art. 180–195. (pominięte)
 
 § 3. Przepisy § 1a i 2 stosuje się odpowiednio do zastępcy rzecznika dyscyplinarnego działającego przy sądzie apelacyjnym, z tym że przekazać sprawę zastępcy lub wyznaczyć do jej prowadzenia innego zastępcę można tylko spośród zastępców rzecznika dyscyplinarnego działających przy sądzie apelacyjnym.
 
-**Art. 112b.**
-
 § 1. Minister Sprawiedliwości może powołać Rzecznika Dyscyplinarnego Ministra Sprawiedliwości do prowadzenia określonej sprawy dotyczącej sędziego. Powołanie Rzecznika Dyscyplinarnego Ministra Sprawiedliwości wyłącza innego rzecznika od podejmowania czynności w sprawie.
 
 § 2. Rzecznik Dyscyplinarny Ministra Sprawiedliwości jest powoływany spośród sędziów sądów powszechnych lub Sądu Najwyższego. W sprawie przewinień dyscyplinarnych wyczerpujących znamiona umyślnych przestępstw ściganych z oskarżenia publicznego, Rzecznik Dyscyplinarny Ministra Sprawiedliwości może zostać powołany także spośród prokuratorów wskazanych przez Prokuratora Krajowego. W uzasadnionych przypadkach, w szczególności śmierci lub przedłużającej się przeszkody w pełnieniu funkcji Rzecznika Dyscyplinarnego Ministra Sprawiedliwości, Minister Sprawiedliwości wyznacza w miejsce tej osoby innego sędziego, albo, w sprawie przewinienia dyscyplinarnego wyczerpującego znamiona umyślnego przestępstwa ściganego z oskarżenia publicznego, sędziego lub prokuratora.
@@ -2441,11 +2732,7 @@ Art. 180–195. (pominięte)
 
 § 4. Powołanie Rzecznika Dyscyplinarnego Ministra Sprawiedliwości jest równoznaczne z żądaniem podjęcia postępowania wyjaśniającego albo postępowania dyscyplinarnego.
 
-§ 5. Funkcja Rzecznika Dyscyplinarnego Ministra Sprawiedliwości wygasa z chwilą uprawomocnienia się orzeczenia o odmowie wszczęcia postępowania dyscyplinarnego, umorzeniu postępowania dyscyplinarnego albo uprawomocnienia się orzeczenia kończącego postępowanie dyscyplinarne.
-
-**Art. 112c.** Prezes Sądu Najwyższego kierujący pracą Izby Odpowiedzialności Zawodowej ma wgląd w czynności sądu dyscyplinarnego pierwszej instancji.
-
-**Art. 112d.** Ilekroć w przepisach niniejszej ustawy jest mowa o rzeczniku dyscyplinarnym należy przez to rozumieć Rzecznika Dyscyplinarnego Sędziów Sądów Powszechnych, Zastępcę Rzecznika Dyscyplinarnego Sędziów Sądów Powszechnych, Rzecznika Dyscyplinarnego Ministra Sprawiedliwości, zastępcę rzecznika dyscyplinarnego działającego przy sądzie apelacyjnym albo zastępcę rzecznika dyscyplinarnego działającego przy sądzie okręgowym.
+§ 5. Funkcja Rzecznika Dyscyplinarnego Ministra Sprawiedliwości wygasa z chwilą uprawomocnienia się orzeczenia o odmowie wszczęcia postępowania dyscyplinarnego, umorzeniu postępowania dyscyplinarnego albo uprawomocnienia się orzeczenia kończącego postępowanie dyscyplinarne. Prezes Sądu Najwyższego kierujący pracą Izby Odpowiedzialności Zawodowej ma wgląd w czynności sądu dyscyplinarnego pierwszej instancji. Ilekroć w przepisach niniejszej ustawy jest mowa o rzeczniku dyscyplinarnym należy przez to rozumieć Rzecznika Dyscyplinarnego Sędziów Sądów Powszechnych, Zastępcę Rzecznika Dyscyplinarnego Sędziów Sądów Powszechnych, Rzecznika Dyscyplinarnego Ministra Sprawiedliwości, zastępcę rzecznika dyscyplinarnego działającego przy sądzie apelacyjnym albo zastępcę rzecznika dyscyplinarnego działającego przy sądzie okręgowym.
 
 **Art. 113.**
 
@@ -2455,11 +2742,7 @@ Art. 180–195. (pominięte)
 
 § 3. W wyjątkowych przypadkach, gdy z okoliczności wynika, że niezłożenie wniosku nastąpiło z przyczyn niezależnych od obwinionego, obrońcę z urzędu można wyznaczyć bez wniosku, o którym mowa w § 2.
 
-§ 4. Po ustaniu niemożności wzięcia udziału w postępowaniu dyscyplinarnym przez obwinionego, prezes sądu dyscyplinarnego albo sąd dyscyplinarny zwalnia obrońcę z jego obowiązków, chyba że ujawniły się inne okoliczności uzasadniające udział obrońcy w postępowaniu.
-
-**Art. 113a.** (uchylony)
-
-**Art. 113b.** W sprawach uregulowanych w niniejszym rozdziale nie stosuje się przepisu art. 117 § 2 Kodeksu postępowania karnego, chyba że ustawa nakazuje zawiadomienie uczestnika o terminie czynności procesowej, a brak jest dowodu, że został on o nim powiadomiony.
+§ 4. Po ustaniu niemożności wzięcia udziału w postępowaniu dyscyplinarnym przez obwinionego, prezes sądu dyscyplinarnego albo sąd dyscyplinarny zwalnia obrońcę z jego obowiązków, chyba że ujawniły się inne okoliczności uzasadniające udział obrońcy w postępowaniu. (uchylony) W sprawach uregulowanych w niniejszym rozdziale nie stosuje się przepisu art. 117 § 2 Kodeksu postępowania karnego, chyba że ustawa nakazuje zawiadomienie uczestnika o terminie czynności procesowej, a brak jest dowodu, że został on o nim powiadomiony.
 
 **Art. 114.**
 
@@ -2489,8 +2772,6 @@ Art. 180–195. (pominięte)
 
 § 13. Zażalenie powinno być rozpoznane w terminie czternastu dni od dnia wniesienia zażalenia do sądu.
 
-**Art. 114a.**
-
 § 1. Na świadka, który bez należytego usprawiedliwienia nie stawił się na wezwanie rzecznika dyscyplinarnego albo bez jego zezwolenia wydalił się z miejsca czynności przed jej zakończeniem można nałożyć karę pieniężną w wysokości do 3000 zł. Nałożenie kary pieniężnej nie wyłącza odpowiedzialności dyscyplinarnej.
 
 § 2. O nałożeniu kary pieniężnej, o której mowa w § 1, rozstrzyga na wniosek rzecznika dyscyplinarnego sąd dyscyplinarny przy sądzie apelacyjnym, w którego okręgu prowadzi się czynności.
@@ -2507,15 +2788,11 @@ Art. 180–195. (pominięte)
 
 § 4. Sąd dyscyplinarny wzywa obwinionego ponadto do przedstawienia w terminie, o którym mowa w § 2, wyjaśnień na piśmie oraz wskazania obrońcy, jeżeli go ustanowił. Niezłożenie wyjaśnień w tym terminie nie wstrzymuje dalszego postępowania.
 
-**Art. 115a.**
-
 § 1. Nieusprawiedliwione niestawiennictwo na rozprawie lub posiedzeniu zawiadomionego obwinionego lub jego obrońcy nie wstrzymuje rozpoznania sprawy.
 
 § 2. Jeżeli nie można rozpoznać sprawy z powodu usprawiedliwionej nieobecności obwinionego, a nie ma on obrońcy, sąd dyscyplinarny wyznacza mu obrońcę z urzędu, określając termin dla obrońcy do zapoznania się z materiałami sprawy.
 
 § 3. (uchylony)
-
-**Art. 115b.**
 
 § 1. Sąd dyscyplinarny, uznając na podstawie materiału zebranego przez rzecznika dyscyplinarnego, że okoliczności czynu i wina obwinionego nie budzą wątpliwości, a wystarczające będzie wymierzenie kar określonych w art. 109 § 1 pkt 1–3, może wydać wyrok nakazowy.
 
@@ -2525,9 +2802,7 @@ Art. 180–195. (pominięte)
 
 § 4. Od wyroku nakazowego obwinionemu, rzecznikowi dyscyplinarnemu, Krajowej Radzie Sądownictwa i Ministrowi Sprawiedliwości służy sprzeciw.
 
-§ 5. Sprzeciw wnosi się do sądu dyscyplinarnego, który wydał wyrok nakazowy, w terminie zawitym siedmiu dni od dnia jego doręczenia.
-
-**Art. 115c.** Dowody uzyskane do celów postępowania karnego w trybie określonym w art. 168b, art. 237 lub art. 237a Kodeksu postępowania karnego lub uzyskane w wyniku stosowania kontroli operacyjnej mogą zostać wykorzystane w postępowaniu dyscyplinarnym.
+§ 5. Sprzeciw wnosi się do sądu dyscyplinarnego, który wydał wyrok nakazowy, w terminie zawitym siedmiu dni od dnia jego doręczenia. Dowody uzyskane do celów postępowania karnego w trybie określonym w art. 168b, art. 237 lub art. 237a Kodeksu postępowania karnego lub uzyskane w wyniku stosowania kontroli operacyjnej mogą zostać wykorzystane w postępowaniu dyscyplinarnym.
 
 **Art. 116.**
 
@@ -2637,15 +2912,11 @@ Art. 180–195. (pominięte)
 
 **Art. 132.** Zawieszenie w czynnościach służbowych ustaje z chwilą prawomocnego zakończenia postępowania dyscyplinarnego, chyba że sąd dyscyplinarny uchylił je wcześniej.
 
-**Art. 132a.**
-
 § 1. Okres zawieszenia w czynnościach służbowych stanowi okres zatrudnienia, od którego zależą uprawnienia pracownicze.
 
-§ 2. W okresie zawieszenia w czynnościach służbowych sędzia nie nabywa prawa do urlopu wypoczynkowego. Przepisy art. 155 § 1 pkt 2 i art. 155 § 2 Kodeksu pracy stosuje się odpowiednio.
+§ 2. W okresie zawieszenia w czynnościach służbowych sędzia nie nabywa prawa do urlopu wypoczynkowego. Przepisy art. 1551 § 1 pkt 2 i art. 1552 § 2 Kodeksu pracy stosuje się odpowiednio.
 
 **Art. 133.** Koszty postępowania dyscyplinarnego ponosi Skarb Państwa.
-
-**Art. 133a.**
 
 § 1. W razie jednoczesnego ukarania za kilka przewinień dyscyplinarnych sąd dyscyplinarny wymierza karę za poszczególne przewinienia dyscyplinarne, a następnie karę łączną.
 
@@ -2657,9 +2928,9 @@ Art. 180–195. (pominięte)
 
 § 3. W przypadku gdy obwiniony popełnił dwa lub więcej przewinienia dyscyplinarne, zanim zapadło pierwsze, choćby nieprawomocne, orzeczenie co do któregokolwiek z nich, na wniosek ukaranego wydaje się orzeczenie łączne, o ile orzeczone kary podlegają łączeniu według zasad przewidzianych w § 2.
 
-### DZIAŁ III (uchylony)
+### Dział III
 
-### DZIAŁ IV Referendarze sądowi, kuratorzy sądowi, pracownicy sądów, stali mediatorzy, ławnicy oraz organy pomocnicze sądów
+### Dział IV Referendarze sądowi, kuratorzy sądowi, pracownicy sądów, stali mediatorzy, ławnicy oraz organy pomocnicze sądów
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -2671,7 +2942,7 @@ Art. 180–195. (pominięte)
 
 § 3. W sądach są zatrudniani urzędnicy i inni pracownicy sądowi.
 
-§ 4. W sądach mogą być zatrudniani asystenci sędziów na stanowiskach młodszego asystenta sędziego, asystenta sędziego i starszego asystenta sędziego (stanowiska asystenckie). Ilekroć w przepisach jest mowa o asystentach sędziów, rozumie się przez to osoby zatrudnione na stanowiskach młodszego asystenta sędziego, asystenta sędziego i starszego asystenta sędziego.
+§ 4. W sądach mogą być zatrudniani asystenci sędziów i starsi asystenci sędziów. Ilekroć w przepisach jest mowa o asystentach sędziów, rozumie się przez to także starszych asystentów sędziów.
 
 **Art. 148.**
 
@@ -2697,11 +2968,11 @@ Art. 180–195. (pominięte)
 - **4)** (uchylony)
 - **5)** zdał egzamin referendarski, sędziowski, prokuratorski, notarialny, adwokacki albo radcowski lub ukończył aplikację sędziowską albo aplikację prokuratorską, lub uzyskał wpis na listę adwokatów albo wpis na listę radców prawnych albo został powołany przez Ministra Sprawiedliwości na notariusza.
 
-§ 1a. Wymagania określone w § 1 pkt 5 nie dotyczą tego, kto przed mianowaniem przez okres co najmniej 5 lat był zatrudniony na stanowisku asystenta sędziego lub starszego asystenta sędziego w pełnym wymiarze czasu pracy. W przypadku zatrudnienia w niepełnym wymiarze czasu pracy okres ten podlega proporcjonalnemu wydłużeniu.
+§ 1a. Wymagania określone w § 1 pkt 5 nie dotyczą tego, kto przed mianowaniem przez okres co najmniej 5 lat był zatrudniony na stanowisku asystenta sędziego w pełnym wymiarze czasu pracy. W przypadku zatrudnienia w niepełnym wymiarze czasu pracy okres ten podlega proporcjonalnemu wydłużeniu.
 
-§ 2. (uchylony) § 3. (uchylony)
+§ 2. (uchylony)
 
-**Art. 149a.**
+§ 3. (uchylony)
 
 § 1. Nabór kandydatów organizuje się w drodze konkursu, który ma na celu wyłonienie kandydata o największej wiedzy i najwyższych umiejętnościach, predyspozycjach i zdolnościach ogólnych, niezbędnych do wykonywania obowiązków referendarza. Przepisy art. 155a § 2, 3 i 5 stosuje się odpowiednio.
 
@@ -2717,7 +2988,7 @@ Art. 180–195. (pominięte)
 
 § 3. Referendarza mianuje i rozwiązuje z nim stosunek pracy prezes sądu apelacyjnego. Przed mianowaniem prezes sądu apelacyjnego zasięga informacji z Krajowego Rejestru Karnego oraz zwraca się do właściwego komendanta wojewódzkiego Policji albo Komendanta Stołecznego Policji o nadesłanie informacji o kandydacie. Informacje o kandydacie do objęcia stanowiska referendarza sądowego uzyskuje się i sporządza na zasadach określonych dla informacji o kandydacie do objęcia pierwszego stanowiska sędziowskiego.
 
-§ 4. Przed podjęciem po raz pierwszy pracy na stanowisku referendarza referendarz sądowy wobec prezesa sądu okręgowego, a referendarz zatrudniony w sądzie apelacyjnym – wobec prezesa tego sądu, składa ślubowanie według następującej roty: „Ślubuję uroczyście na powierzonym mi stanowisku referendarza służyć wiernie Rzeczypospolitej Polskiej, sumiennie i starannie wykonywać obowiązki urzędowe, przestrzegać prawa, kierować się zasadami godności i uczciwości oraz dochować tajemnicy prawnie chronionej.”; składający ślubowanie może dodać zwrot: „Tak mi dopomóż Bóg.”.
+§ 4. Przed podjęciem po raz pierwszy pracy na stanowisku referendarza referendarz sądowy wobec prezesa sądu okręgowego, a referendarz zatrudniony w sądzie apelacyjnym – wobec prezesa tego sądu, składa ślubowanie według następującej roty: „ Ślubuję uroczyście na powierzonym mi stanowisku referendarza służyć wiernie Rzeczypospolitej Polskiej, sumiennie i starannie wykonywać obowiązki urzędowe, przestrzegać prawa, kierować się zasadami godności i uczciwości oraz dochować tajemnicy prawnie chronionej. ” ; składający ślubowanie może dodać zwrot: „Tak mi dopomóż Bóg.”.
 
 **Art. 151.**
 
@@ -2726,8 +2997,6 @@ Art. 180–195. (pominięte)
 § 2. Referendarze zatrudnieni w sądach mających siedziby na obszarze właściwości tego samego sądu okręgowego co najmniej raz w roku odbywają zebranie referendarzy okręgu. Zebranie zwołuje prezes sądu okręgowego.
 
 § 3. Zebranie referendarzy okręgu zajmuje stanowisko we wszystkich sprawach istotnych dla wykonywania zadań przez referendarzy, wybiera na okres kadencji przedstawiciela i reprezentuje referendarzy okręgu wobec organów sądów. Przewodniczącym zebrania referendarzy okręgu jest referendarz najstarszy wiekiem, chyba że zebranie wybierze innego przewodniczącego.
-
-**Art. 151a.**
 
 § 1. Referendarz może zostać przeniesiony na inne miejsce służbowe tylko za jego zgodą. Przeniesienia na inne miejsce służbowe na obszarze danej apelacji dokonuje prezes sądu apelacyjnego, a poza obszar apelacji – Minister Sprawiedliwości.
 
@@ -2753,7 +3022,7 @@ Art. 180–195. (pominięte)
 § 5. Minister Sprawiedliwości może delegować referendarza, za jego zgodą:
 
 - **1)** do pełnienia czynności referendarza w innym sądzie na obszarze innej apelacji,
-- **2)** do pełnienia czynności administracyjnych w Ministerstwie Sprawiedliwości lub innej jednostce organizacyjnej podległej Ministrowi Sprawiedliwości albo przez niego nadzorowanej – na czas określony, nie dłuższy niż dwa lata, albo na czas nieokreślony. Przepisy art. 78 § 1b, 4a i 4b stosuje się odpowiednio.
+- **2)** do pełnienia czynności administracyjnych w Ministerstwie Sprawiedliwości lub innej jednostce organizacyjnej podległej Ministrowi Sprawiedliwości albo przez niego nadzorowanej na czas określony, nie dłuższy niż dwa lata, albo na czas nieokreślony. Przepisy art. 78 § 1b, 4a i 4b stosuje się odpowiednio.
 
 § 5a. Minister Sprawiedliwości może delegować referendarza sądowego, za jego zgodą, na wniosek Przewodniczącego Krajowej Rady Sądownictwa do pełnienia czynności w Biurze tej Rady, na czas określony, nie dłuższy niż dwa lata, albo na czas nieokreślony.
 
@@ -2785,8 +3054,6 @@ Art. 180–195. (pominięte)
 
 § 16. W przypadku utraty obywatelstwa polskiego lub skazania za umyślnie popełnione przestępstwo ścigane z urzędu lub przestępstwo skarbowe, stosunek pracy z referendarzem rozwiązuje się bez wypowiedzenia. Stosunek pracy z referendarzem może być rozwiązany bez wypowiedzenia z przyczyn określonych w art. 53 Kodeksu pracy.
 
-**Art. 151b.**
-
 § 1. Wynagrodzenie zasadnicze referendarza sądowego wynosi 75 % wynagrodzenia zasadniczego w stawce pierwszej sędziego sądu rejonowego, powiększonego o należną składkę z tytułu ubezpieczenia społecznego. Po siedmiu latach pracy na stanowisku referendarza sądowego wynagrodzenie zasadnicze podwyższa się do wysokości 75 % wynagrodzenia zasadniczego sędziego sądu rejonowego w stawce drugiej, powiększonego o należną składkę z tytułu ubezpieczenia społecznego, a po dalszych siedmiu latach pracy – do wysokości 75 % wynagrodzenia zasadniczego sędziego sądu rejonowego w stawce trzeciej, powiększonego o należną składkę z tytułu ubezpieczenia społecznego.
 
 § 2. Wynagrodzenie zasadnicze starszego referendarza sądowego wynosi 85 % wynagrodzenia zasadniczego sędziego sądu rejonowego w stawce drugiej, powiększonego o należną składkę z tytułu ubezpieczenia społecznego. Po siedmiu latach pracy na stanowisku starszego referendarza sądowego wynagrodzenie zasadnicze podwyższa się do wysokości 85 % wynagrodzenia zasadniczego sędziego sądu rejonowego w stawce trzeciej, powiększonego o należną składkę z tytułu ubezpieczenia społecznego.
@@ -2813,13 +3080,11 @@ Art. 180–195. (pominięte)
 
 § 2k. Jeżeli wymagają tego szczególne potrzeby sądu, prezes sądu lub przewodniczący wydziału może polecić referendarzowi wykonywanie pracy poza obowiązującym go czasem pracy, a w wyjątkowych wypadkach także w niedzielę i święta.
 
-§ 2l. Referendarzowi sądowemu za pracę wykonywaną poza obowiązującym go czasem pracy przysługuje według jego wyboru czas wolny w tym samym wymiarze albo wynagrodzenie, bez dodatków, o których mowa w art. 151 § 1 Kodeksu pracy. Za pracę wykonaną ponad obowiązujący referendarza sądowego czas pracy w niedzielę lub święto przysługuje inny dzień wolny. Przepis art. 151 Kodeksu pracy stosuje się odpowiednio.
+§ 2l. Referendarzowi sądowemu za pracę wykonywaną poza obowiązującym go czasem pracy przysługuje według jego wyboru czas wolny w tym samym wymiarze albo wynagrodzenie, bez dodatków, o których mowa w art. 1511§ 1 Kodeksu pracy. Za pracę wykonaną ponad obowiązujący referendarza sądowego czas pracy w niedzielę lub święto przysługuje inny dzień wolny. Przepis art. 15111Kodeksu pracy stosuje się odpowiednio.
 
 § 3. Przepisy art. 45 § 1, art. 82a § 1 i 3, art. 83a, art. 87–89, art. 92 § 1 i 2, art. 93 oraz art. 97 § 1 i 2 stosuje się odpowiednio do referendarzy, z tym że urlopu, o którym mowa w art. 93, udziela prezes właściwego sądu apelacyjnego.
 
-§ 4. W sprawach nieuregulowanych w ustawie do referendarzy stosuje się odpowiednio przepisy o pracownikach sądów i prokuratury.
-
-**Art. 151c.** (uchylony)
+§ 4. W sprawach nieuregulowanych w ustawie do referendarzy stosuje się odpowiednio przepisy o pracownikach sądów i prokuratury. (uchylony)
 
 **Art. 152.**
 
@@ -2844,11 +3109,7 @@ Art. 180–195. (pominięte)
 
 § 8. W zakresie nieuregulowanym w ustawie do odpowiedzialności dyscyplinarnej i porządkowej referendarzy stosuje się odpowiednio przepisy o odpowiedzialności dyscyplinarnej i porządkowej urzędników państwowych mianowanych.
 
-**Art. 153.** (uchylony)
-
-**Art. 153a.** (uchylony)
-
-**Art. 153b.**
+**Art. 153.** (uchylony) (uchylony)
 
 § 1. Minister Sprawiedliwości przydziela nowe stanowiska referendarza sądowego poszczególnym sądom, mając na względzie racjonalne wykorzystanie kadr sądownictwa powszechnego i potrzeby wynikające z obciążenia zadaniami poszczególnych sądów.
 
@@ -2868,34 +3129,24 @@ Art. 180–195. (pominięte)
 
 § 1. Asystent sędziego wykonuje czynności zmierzające do przygotowania spraw sądowych do rozpoznania oraz czynności z zakresu działalności administracyjnej sądów, o której mowa w art. 8 pkt 2.
 
-§ 1a. Na stanowisku młodszego asystenta sędziego może być zatrudniony ten, kto:
+§ 2. Na stanowisku asystenta sędziego może byś zatrudniony ten, kto:
 
 - **1)** jest obywatelem Rzeczypospolitej Polskiej i korzysta z pełni praw cywilnych i obywatelskich;
 - **2)** jest nieskazitelnego charakteru;
-- **3)** jest studentem jednolitych studiów magisterskich na kierunku prawo i ukończył trzeci rok tych studiów;
-- **4)** ukończył 20 lat.
+- **3)** ukończył wyższe studia prawnicze w Polsce i uzyskał tytuł magistra lub zagraniczne uznane w Polsce;
+- **4)** ukończył 23 lata.
+- **5)** (uchylony)
 
-§ 1b. Na stanowisku asystenta sędziego może być zatrudniony ten, kto spełnia wymagania określone w § 1a pkt 1, 2 i 4 oraz ukończył wyższe studia prawnicze w Polsce i uzyskał tytuł magistra lub zagraniczne uznane w Polsce.
-
-§ 1c. Na stanowisku starszego asystenta sędziego może być zatrudniony ten, kto spełnia wymagania określone w § 1a pkt 1, 2 i 4, ukończył wyższe studia prawnicze w Polsce i uzyskał tytuł magistra lub zagraniczne uznane w Polsce oraz:
-
-- **1)** zajmował stanowisko młodszego asystenta sędziego lub asystenta sędziego przez co najmniej siedem lat, albo
-- **2)** zdał egzamin sędziowski, prokuratorski, adwokacki, radcowski, notarialny albo komorniczy lub uzyskał wpis na listę adwokatów albo wpis na listę radców prawnych albo został powołany przez Ministra Sprawiedliwości na stanowisko notariusza albo na stanowisko komornika sądowego.
-
-§ 2. (uchylony) § 2a. Nabór kandydatów następuje w drodze konkursu, który ma na celu wyłonienie kandydata o największej wiedzy i najwyższych kwalifikacjach, predyspozycjach i zdolnościach ogólnych, niezbędnych do wykonywania obowiązków asystenta sędziego.
+§ 2a. Nabór kandydatów następuje w drodze konkursu, który ma na celu wyłonienie kandydata o największej wiedzy i najwyższych kwalifikacjach, predyspozycjach i zdolnościach ogólnych, niezbędnych do wykonywania obowiązków asystenta sędziego.
 
 § 3. Prezes sądu przed zatrudnieniem asystenta sędziego zasięga informacji o kandydacie z Krajowego Rejestru Karnego.
 
-§ 3a. (uchylony) § 3b. (uchylony) § 3c. Asystenta sędziego zatrudnia się na stanowisku:
+§ 3a. (uchylony)
 
-- **1)** młodszego asystenta sędziego – na podstawie umowy o pracę na czas określony niedłuższy niż 33 miesiące;
-- **2)** asystenta sędziego – na podstawie umowy o pracę na czas określony.
+§ 3b. Na stanowisku starszego asystenta sędziego może być zatrudniony:
 
-§ 3d. Asystenta sędziego zatrudnionego na stanowisku młodszego asystenta sędziego, który ukończył wyższe studia prawnicze w Polsce i uzyskał tytuł magistra lub zagraniczne uznane w Polsce, przenosi się na stanowisko asystenta sędziego.
-
-§ 3e. Z asystentem sędziego zatrudnionym na stanowisku asystenta sędziego, który ukończył staż asystencki albo jest zwolniony z obowiązku jego odbycia, zawiera się umowę o pracę na czas nieokreślony.
-
-§ 3f. Asystent sędziego zatrudniony na stanowisku młodszego asystenta jest obowiązany niezwłocznie powiadomić prezesa sądu o skreśleniu z listy studentów.
+- **1)** asystent, który zajmował stanowisko asystenta sędziego przez co najmniej dziesięć lat i uzyskiwał pozytywne okresowe oceny, albo
+- **2)** osoba, która złożyła egzamin sędziowski lub egzamin prokuratorski.
 
 § 4. Asystentowi sędziego przysługuje wynagrodzenie zasadnicze. Poza wynagrodzeniem zasadniczym asystentowi sędziego przysługuje dodatek za wieloletnią pracę, nagrody jubileuszowe oraz jednorazowa odprawa w razie ustania stosunku pracy w związku z przejściem na rentę z tytułu niezdolności do pracy lub emeryturę, na zasadach określonych w przepisach o pracownikach sądów i prokuratury. Na zasadach określonych w przepisach o pracownikach sądów i prokuratury asystentowi sędziego mogą być przyznane:
 
@@ -2904,13 +3155,15 @@ Art. 180–195. (pominięte)
 
 § 5. Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowy zakres i sposób wykonywania czynności przez asystentów sędziów, mając na uwadze zasady sprawności, racjonalności, ekonomicznego i szybkiego działania, zapewniając rzetelne wykonywanie powierzonych zadań.
 
-§ 6. Minister Sprawiedliwości określi, w drodze rozporządzenia, minimalną i maksymalną wysokość wynagrodzenia zasadniczego asystentów sędziów zatrudnionych na stanowiskach młodszego asystenta sędziego, asystenta sędziego i starszego asystenta sędziego, biorąc pod uwagę kwalifikacje i doświadczenie zawodowe oraz rodzaj i charakter czynności wykonywanych przez asystentów sędziów.
+§ 6. Minister Sprawiedliwości określi, w drodze rozporządzenia, wysokość wynagrodzenia zasadniczego asystentów sędziów, biorąc pod uwagę rodzaj i charakter czynności wykonywanych przez asystentów sędziów oraz poziom wynagrodzeń urzędników sądów.
 
-§ 7. (uchylony) § 7a. (uchylony) § 8. Do asystentów sędziów stosuje się odpowiednio przepis art. 82a § 1.
+§ 7. (uchylony)
+
+§ 7a. (uchylony)
+
+§ 8. Do asystentów sędziów stosuje się odpowiednio przepis art. 82a § 1.
 
 § 9. W sprawach nieuregulowanych w ustawie do asystentów sędziów stosuje się odpowiednio przepisy o pracownikach sądów i prokuratury.
-
-**Art. 155a.**
 
 § 1. Konkurs, o którym mowa w art. 155 § 2a, organizuje właściwy prezes sądu, określony w art. 5 ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury, zwany dalej „prezesem”.
 
@@ -2918,34 +3171,40 @@ Art. 180–195. (pominięte)
 
 § 3. Konkurs przeprowadza komisja konkursowa powołana przez prezesa.
 
-§ 4. (uchylony) § 5. Komisja konkursowa po przeprowadzeniu konkursu, w oparciu o jego wyniki, może wyłonić rezerwową listę kandydatów na wypadek zaistnienia możliwości zatrudnienia większej liczby osób lub rezygnacji kandydata.
+§ 4. (uchylony)
 
-§ 6. Warunkiem ubiegania się o zatrudnienie w sądzie jest złożenie przez osobę ubiegającą się o przyjęcie na stanowisko młodszego asystenta sędziego, asystenta sędziego lub starszego asystenta sędziego oświadczenia, że nie jest prowadzone przeciwko niej postępowanie o przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe.
+§ 5. Komisja konkursowa po przeprowadzeniu konkursu, w oparciu o jego wyniki, może wyłonić rezerwową listę kandydatów na wypadek zaistnienia możliwości zatrudnienia większej liczby osób lub rezygnacji kandydata.
 
-§ 7. Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Sądownictwa, określi, w drodze rozporządzenia, szczegółowy sposób i tryb przeprowadzania konkursu, o którym mowa w art. 155 § 2a, w szczególności skład komisji konkursowych oraz sposób i tryb ich działania, etapy i przebieg konkursu, a także zakres i sposób udostępniania informacji kandydatowi, mając na uwadze właściwy dobór kadry asystentów w sądach.
+§ 6. Warunkiem ubiegania się o zatrudnienie w sądzie jest złożenie przez osobę ubiegającą się o przyjęcie na stanowisko asystenta sędziego oświadczenia, że nie jest prowadzone przeciwko niej postępowanie o przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe.
 
-**Art. 155b.** (uchylony)
+§ 7. Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Sądownictwa, określi, w drodze rozporządzenia, szczegółowy sposób i tryb przeprowadzania konkursu, o którym mowa w art. 155 § 2a, w szczególności skład komisji konkursowych oraz sposób i tryb ich działania, etapy i przebieg konkursu, a także zakres i sposób udostępniania informacji kandydatowi, mając na uwadze właściwy dobór kadry asystentów w sądach. (uchylony) (uchylony)
 
-**Art. 155c.** (uchylony) Art. 155ca. § 1. W okresie pierwszych dwóch lat pracy asystent sędziego odbywa staż asystencki organizowany przez prezesa sądu apelacyjnego.
+§ 1. W okresie pierwszych dwóch lat pracy asystent sędziego odbywa staż asystencki organizowany przez prezesa sądu apelacyjnego.
 
-**Art. 155d.**
+§ 2. Do czasu ukończenia stażu asystenckiego asystenta sędziego zatrudnia się na podstawie umowy o pracę na czas określony, z możliwością jej wcześniejszego rozwiązania za dwutygodniowym wypowiedzeniem.
 
-§ 1. Minister Sprawiedliwości przydziela nowe stanowiska asystenckie poszczególnym sądom, mając na względzie racjonalne wykorzystanie kadr sądownictwa powszechnego i potrzeby wynikające z obciążenia zadaniami poszczególnych sądów.
+§ 3. Z obowiązku odbycia stażu asystenckiego są zwolnione osoby, które zdały egzamin sędziowski, prokuratorski, notarialny, adwokacki lub radcowski.
 
-§ 2. W razie zwolnienia stanowiska asystenckiego w sądach działających na obszarze danej apelacji, prezes sądu apelacyjnego niezwłocznie zawiadamia o tym Ministra Sprawiedliwości, który, w oparciu o kryteria wymienione w § 1, przydziela stanowisko do danego albo innego sądu albo je znosi.
+§ 4. Asystent sędziego w pierwszym roku pracy, w ramach stażu asystenckiego, odbywa szkolenie z zakresu metodyki pracy organizowane przez Krajową Szkołę Sądownictwa i Prokuratury. Prezes sądu kieruje asystenta na szkolenie w najbliższym terminie przewidzianym w harmonogramie działalności szkoleniowej Krajowej Szkoły Sądownictwa i Prokuratury na dany rok.
 
-**Art. 155e.**
+§ 1. Staż asystencki trwa 12 miesięcy i ma na celu teoretyczne i praktyczne przygotowanie do wykonywania czynności asystenta sędziego.
+
+§ 2. Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Sądownictwa, określi, w drodze rozporządzenia, szczegółowe warunki organizacji i trybu odbywania stażu asystenckiego, harmonogram zajęć praktycznych i teoretycznych, zakres programowy stażu asystenckiego oraz wzór dokumentu potwierdzającego odbycie stażu asystenckiego, mając na względzie konieczność zapewnienia odpowiednio wysokiego poziomu przygotowania do wykonywania czynności na stanowisku asystenta sędziego.
+
+§ 1. Minister Sprawiedliwości przydziela nowe stanowiska asystenta sędziego poszczególnym sądom, mając na względzie racjonalne wykorzystanie kadr sądownictwa powszechnego i potrzeby wynikające z obciążenia zadaniami poszczególnych sądów.
+
+§ 2. W razie zwolnienia stanowiska asystenta sędziego w sądach działających na obszarze danej apelacji, prezes sądu apelacyjnego niezwłocznie zawiadamia o tym Ministra Sprawiedliwości, który, w oparciu o kryteria wymienione w § 1, przydziela stanowisko do danego albo innego sądu albo je znosi.
 
 § 1. Prezes sądu apelacyjnego może delegować asystenta sędziego, za jego zgodą, do pełnienia czynności asystenta sędziego w innym sądzie na obszarze danej apelacji, na czas określony, nie dłuższy niż dwa lata, albo na czas nieokreślony.
 
 § 2. Minister Sprawiedliwości może delegować asystenta sędziego, za jego zgodą:
 
 - **1)** do pełnienia czynności asystenta sędziego w innym sądzie na obszarze innej apelacji,
-- **2)** do pełnienia czynności administracyjnych w Ministerstwie Sprawiedliwości lub innej jednostce organizacyjnej podległej Ministrowi Sprawiedliwości albo przez niego nadzorowanej – na czas określony, nie dłuższy niż dwa lata, albo na czas nieokreślony. Przepisy art. 78 § 1b, 4a i 4b stosuje się odpowiednio.
+- **2)** do pełnienia czynności administracyjnych w Ministerstwie Sprawiedliwości lub innej jednostce organizacyjnej podległej Ministrowi Sprawiedliwości albo przez niego nadzorowanej na czas określony, nie dłuższy niż dwa lata, albo na czas nieokreślony. Przepisy art. 78 § 1b, 4a i 4b stosuje się odpowiednio.
 
 § 2a. Minister Sprawiedliwości może delegować asystenta sędziego, za jego zgodą, na wniosek Przewodniczącego Krajowej Rady Sądownictwa do pełnienia czynności w Biurze tej Rady, na czas określony, nie dłuższy niż dwa lata, albo na czas nieokreślony.
 
-§ 3. Jeżeli wymaga tego interes wymiaru sprawiedliwości, delegowanie asystenta sędziego zatrudnionego na stanowisku asystenta sędziego albo starszego asystenta sędziego do pełnienia czynności w innym sądzie może nastąpić nawet bez jego zgody, na okres nie dłuższy niż sześć miesięcy. Delegowanie asystenta sędziego bez jego zgody może być powtórzone nie wcześniej niż po upływie trzech lat.
+§ 3. Jeżeli wymaga tego interes wymiaru sprawiedliwości, delegowanie asystenta sędziego do pełnienia czynności w innym sądzie może nastąpić nawet bez jego zgody, na okres nie dłuższy niż sześć miesięcy. Delegowanie asystenta sędziego bez jego zgody może być powtórzone nie wcześniej niż po upływie trzech lat.
 
 § 4. W okresie delegowania, w przypadkach wskazanych w § 1–3, asystent sędziego ma prawo do wynagrodzenia zasadniczego, przysługującego na jego stanowisku, oraz dodatku za wieloletnią pracę; przepisy art. 77 § 4 i 6 oraz art. 78 § 1 i 3 stosuje się odpowiednio. W razie delegowania asystenta sędziego do innego sądu bez jego zgody lub na okres dłuższy niż sześć miesięcy, asystentowi sędziego przysługuje dodatek w wysokości 10 % wynagrodzenia zasadniczego. W razie delegowania do Ministerstwa Sprawiedliwości lub innej jednostki organizacyjnej podległej Ministrowi Sprawiedliwości albo przez niego nadzorowanej asystentowi sędziego przysługuje dodatek funkcyjny. Do ustalania wysokości dodatku funkcyjnego stosuje się przepisy o dodatkach funkcyjnych przysługujących pracownikom sądów i prokuratury.
 
@@ -2969,65 +3228,6 @@ Art. 180–195. (pominięte)
 
 #### Rozdział 6a Stali mediatorzy
 
-**Art. 157a.** Stałym mediatorem może być osoba fizyczna, która:
-
-**Art. 157b.**
-
-§ 1. Wpisu na listę stałych mediatorów dokonuje prezes sądu okręgowego w drodze decyzji wydawanej na wniosek osoby ubiegającej się o wpis.
-
-§ 1a. Do wpisu na listę stałych mediatorów stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
-
-§ 1b. Sprawę wpisu na listę stałych mediatorów uznaje się za załatwioną milcząco w sposób w całości uwzględniający żądanie strony występującej z wnioskiem o wpis na listę stałych mediatorów, jeżeli w terminie 14 dni od dnia doręczenia wniosku prezes sądu okręgowego nie wyda decyzji albo postanowienia, o których mowa w art. 122a § 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
-
-§ 2. Do wniosku o wpis na listę stałych mediatorów dołącza się oświadczenia lub dokumenty potwierdzające spełnianie warunków, o których mowa w art. 157a pkt 1– 5.
-
-§ 3. Oświadczenie potwierdzające spełnianie warunku, o którym mowa w art. 157a pkt 5, osoba ubiegająca się o wpis składa pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Osoba ubiegająca się o wpis jest obowiązana do zawarcia w nich klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
-
-§ 4. Stały mediator jest obowiązany posiadać konto w portalu informacyjnym.
-
-**Art. 157c.**
-
-§ 1. Prezes sądu okręgowego, w drodze decyzji, skreśla stałego mediatora z listy w przypadku:
-
-- **1)** śmierci stałego mediatora;
-- **2)** złożenia przez stałego mediatora wniosku o skreślenie z listy;
-- **3)** zaprzestania przez stałego mediatora spełniania któregokolwiek z warunków określonych w art. 183 § 1 i 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego;
-- **4)** prawomocnego skazania stałego mediatora za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
-- **5)** stwierdzenia nienależytego wykonywania obowiązków przez stałego mediatora.
-
-§ 2. Sąd zawiadamia prezesa sądu okręgowego, który wydał decyzję o wpisie na listę stałych mediatorów, o każdym przypadku uzasadniającym skreślenie z tej listy na podstawie § 1 pkt 5.
-
-§ 3. Od decyzji prezesa sądu okręgowego w przedmiocie wpisu lub skreślenia z listy stałych mediatorów przysługuje odwołanie do prezesa sądu apelacyjnego.
-
-**Art. 157d.**
-
-§ 1. Prezes sądu okręgowego prowadzi listę stałych mediatorów dla obszaru właściwości danego okręgu sądowego.
-
-§ 2. Na liście stałych mediatorów zamieszcza się następujące dane dotyczące stałego mediatora:
-
-- **1)** imię i nazwisko oraz rok urodzenia;
-- **2)** adres do korespondencji;
-- **3)** informację dotyczącą wykształcenia i odbytych szkoleń;
-- **4)** informacje dotyczące specjalizacji.
-
-§ 3. Na liście, o której mowa w § 2, na wniosek stałego mediatora, zamieszcza się:
-
-- **1)** numer telefonu stałego mediatora;
-- **2)** adres poczty elektronicznej stałego mediatora;
-- **3)** informację o wpisie na listę mediatorów, o której mowa w art. 183 § 3 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
-
-§ 4. Prawomocna decyzja o wpisie na listę stałych mediatorów stanowi podstawę do wpisania mediatora na listę stałych mediatorów prowadzoną w innym sądzie okręgowym, na wniosek mediatora złożony do prezesa tego sądu.
-
-§ 5. Stały mediator zawiadamia prezesa sądu okręgowego o:
-
-- **1)** każdej zmianie imienia lub nazwiska oraz danych lub informacji, o których mowa w § 2 pkt 2–4 oraz § 3,
-- **2)** okolicznościach, o których mowa w art. 157c § 1 pkt 3 i 4,
-- **3)** umieszczeniu na liście, o której mowa w § 4 – w terminie 14 dni od dnia zaistnienia zdarzenia powodującego obowiązek zawiadomienia.
-
-**Art. 157e.** Prezes sądu okręgowego udostępnia sądom oraz innym podmiotom w siedzibie sądu oraz zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej sądu aktualną listę stałych mediatorów.
-
-**Art. 157f.** Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób prowadzenia listy stałych mediatorów, tryb wpisywania i skreślania z listy, zamieszczania na liście i aktualizacji danych i informacji, sposób potwierdzania spełnienia warunków wpisywania na listę, wzór formularza wniosku o wpis na listę stałych mediatorów, a także rodzaje dokumentów załączanych do wniosku, uwzględniając potrzebę zapewnienia wiarygodnej i aktualnej informacji o stałych mediatorach, jednolitości wniosków i sprawnego przebiegu procedury wpisu na listę stałych mediatorów.
-
 #### Rozdział 7 Ławnicy
 
 **Art. 158.**
@@ -3042,7 +3242,9 @@ Art. 180–195. (pominięte)
 - **6)** jest zdolny, ze względu na stan zdrowia, do pełnienia obowiązków ławnika;
 - **7)** posiada co najmniej wykształcenie średnie lub średnie branżowe.
 
-§ 2. (uchylony) § 3. Do orzekania w sprawach z zakresu prawa pracy ławnikiem powinna być wybrana osoba wykazująca szczególną znajomość spraw pracowniczych.
+§ 2. (uchylony)
+
+§ 3. Do orzekania w sprawach z zakresu prawa pracy ławnikiem powinna być wybrana osoba wykazująca szczególną znajomość spraw pracowniczych.
 
 **Art. 159.**
 
@@ -3081,8 +3283,7 @@ Art. 180–195. (pominięte)
 - **1)** informację z Krajowego Rejestru Karnego dotyczącą zgłaszanej osoby;
 - **2)** oświadczenie kandydata, że nie jest prowadzone przeciwko niemu postępowanie o przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe;
 - **3)** oświadczenie kandydata, że nie jest lub nie był pozbawiony władzy rodzicielskiej, a także, że władza rodzicielska nie została mu ograniczona ani zawieszona;
-- **4)** zaświadczenie lekarskie o stanie zdrowia, wystawione przez lekarza podstawowej opieki zdrowotnej, w rozumieniu przepisów ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2022 r. poz.
-- **2527)** , stwierdzające brak przeciwwskazań do wykonywania funkcji ławnika;
+- **4)** zaświadczenie lekarskie o stanie zdrowia, wystawione przez lekarza podstawowej opieki zdrowotnej, w rozumieniu przepisów ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2022 r. poz. 2527), stwierdzające brak przeciwwskazań do wykonywania funkcji ławnika;
 - **5)** dwa zdjęcia zgodne z wymogami stosowanymi przy składaniu wniosku o wydanie dowodu osobistego.
 
 § 3. Do zgłoszenia kandydata na ławnika dokonanego na karcie zgłoszenia przez stowarzyszenie, inną organizację społeczną lub zawodową, zarejestrowaną na podstawie przepisów prawa, dołącza się również aktualny odpis z Krajowego Rejestru Sądowego albo odpis lub zaświadczenie potwierdzające wpis do innego właściwego rejestru lub ewidencji dotyczące tej organizacji.
@@ -3168,7 +3369,9 @@ Art. 180–195. (pominięte)
 
 § 1. Ławnik może zostać wyznaczony do udziału w rozprawach do dwunastu dni w ciągu roku. Liczba tych dni może być zwiększona przez prezesa sądu tylko z ważnych przyczyn, a zwłaszcza w przypadku konieczności zakończenia rozprawy z udziałem tego ławnika.
 
-§ 2. (uchylony) § 3. Wyznaczając ławnika do udziału w rozprawie, zawiadamia się o tym jednocześnie pracodawcę zatrudniającego ławnika.
+§ 2. (uchylony)
+
+§ 3. Wyznaczając ławnika do udziału w rozprawie, zawiadamia się o tym jednocześnie pracodawcę zatrudniającego ławnika.
 
 **Art. 171.**
 
@@ -3188,7 +3391,9 @@ Art. 180–195. (pominięte)
 
 § 4a. Ławnikowi przysługuje ryczałt na pokrycie kosztów dojazdu do sądu w celu wykonywania czynności w sądzie środkami komunikacji miejscowej w wysokości 0,25 % podstawy ustalenia wynagrodzenia zasadniczego sędziego, o której mowa w art. 91 § 1c.
 
-§ 5. (uchylony) § 6. Koszty wypłaty świadczeń, o których mowa w § 4 i 4a, ponosi Skarb Państwa.
+§ 5. (uchylony)
+
+§ 6. Koszty wypłaty świadczeń, o których mowa w § 4 i 4a, ponosi Skarb Państwa.
 
 **Art. 173.** Ławnicy zamieszkali poza siedzibą sądu otrzymują diety oraz zwrot kosztów przejazdu i noclegu według zasad ustalonych w tym zakresie dla sędziów.
 
@@ -3206,73 +3411,9 @@ Art. 180–195. (pominięte)
 
 § 3. Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób wyboru, skład i strukturę organizacyjną, tryb działania oraz szczegółowe zadania rady ławniczej, uwzględniając obligatoryjny charakter rady ławniczej jako samorządu ławniczego, reprezentującego ławników w danym sądzie, zakres współpracy z prezesem sądu, potrzebę uwzględnienia w jej strukturze przewodniczącego i zastępców oraz określenia ich zadań.
 
-### DZIAŁ IVa Przetwarzanie danych osobowych, telekomunikacyjnych, pocztowych i internetowych oraz informatyzacja sądownictwa powszechnego
+### Dział IVa Przetwarzanie danych osobowych, telekomunikacyjnych, pocztowych i internetowych oraz informatyzacja sądownictwa powszechnego
 
-**Art. 175a.**
-
-§ 1. Administratorami danych osobowych:
-
-- **1)** sędziów i sędziów w stanie spoczynku oraz asesorów sądowych,
-- **2)** referendarzy sądowych, asystentów sędziów, dyrektorów sądów oraz ich zastępców, kuratorów sądowych, aplikantów aplikacji sądowej, aplikantów kuratorskich, urzędników oraz innych pracowników sądów,
-- **3)** biegłych sądowych, lekarzy sądowych, mediatorów oraz ławników,
-- **4)** kandydatów na stanowiska wymienione w pkt 1 i 2 – są prezesi i dyrektorzy właściwych sądów oraz Minister Sprawiedliwości, w ramach realizowanych zadań.
-
-§ 2. Minister Sprawiedliwości wymienia dane dotyczące sędziów w stanie spoczynku, w zakresie określonym w art. 68a ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w ramach Systemu Elektronicznej Wymiany Informacji dotyczących Zabezpieczenia Społecznego, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczącym wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. UE L 284 z 30.10.2009, str. 1, z późn. zm.), za pośrednictwem punktu kontaktowego prowadzonego przez Zakład Ubezpieczeń Społecznych.
-
-§ 3. Instytucją łącznikową, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczącego wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego, w odniesieniu do uposażeń sędziów w stanie spoczynku oraz uposażeń rodzinnych członków rodzin sędziów i sędziów w stanie spoczynku, podlegających przepisom o koordynacji systemów zabezpieczenia społecznego, przysługujących z budżetu państwa na podstawie przepisów niniejszej ustawy, jest organ emerytalny określony przez ministra właściwego do spraw wewnętrznych w przepisach wykonawczych wydanych na podstawie art. 32 ust. 2a ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2023 r. poz. 1280, 1429 i 1834).
-
-§ 4. Administratorami danych osobowych przetwarzanych w związku z działalnością administracyjną sądów są prezesi właściwych sądów, dyrektorzy właściwych sądów oraz Minister Sprawiedliwości w ramach realizowanych zadań.
-
-**Art. 175b.**
-
-§ 1. Prezesi sądów okręgowych właściwych dla siedziby organu wnioskującego o udostępnienie danych przekazują corocznie Ministrowi Sprawiedliwości informację na temat przetwarzania danych telekomunikacyjnych, pocztowych i internetowych, z podziałem na liczbę przypadków udostępnienia danych dla danego rodzaju danych, oraz wyników przeprowadzonych kontroli, w terminie do dnia 31 marca roku następującego po roku nią objętym.
-
-§ 2. Minister Sprawiedliwości przedstawia corocznie Sejmowi i Senatowi zagregowaną informację na temat przetwarzania danych telekomunikacyjnych, pocztowych i internetowych oraz wyników przeprowadzonych kontroli, w terminie do dnia 30 czerwca roku następującego po roku nią objętym.
-
-**Art. 175c.**
-
-§ 1. Minister Sprawiedliwości jest administratorem systemu służącego do przetwarzania danych osobowych uzyskanych z systemu teleinformatycznego, o którym mowa w art. 213 § 1a Kodeksu postępowania karnego.
-
-§ 2. Minister Sprawiedliwości przetwarza dane osób uzyskane z systemu teleinformatycznego, o którym mowa w art. 213 § 1a Kodeksu postępowania karnego, wyłącznie w zakresie niezbędnym do realizacji zadania, o którym mowa w § 1.
-
-**Art. 175d.** Minister Sprawiedliwości w celu wykonania zadań określonych w ustawie pełni funkcję koordynującą, o której mowa w art. 44 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1862 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie współpracy policyjnej i współpracy wymiarów sprawiedliwości w sprawach karnych, zmiany i uchylenia decyzji Rady 2007/533/WSiSW oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1986/2006 i decyzji Komisji 2010/261/UE (Dz. Urz. UE L 312 z 07.12.2018, str. 56, z późn. zm. ), i zapewnia sądom dostęp do danych, w tym do przetwarzania danych osobowych w tym systemie. Art. 175da. § 1. Minister Sprawiedliwości wykonuje zadania z zakresu informatyzacji sądownictwa polegające w szczególności na projektowaniu, wdrażaniu, eksploatacji, integracji, utrzymaniu, rozwoju, administrowaniu i udostępnianiu sądowych systemów teleinformatycznych, zabezpieczaniu danych osobowych przetwarzanych w tych systemach, koordynowaniu tych działań oraz zapewnianiu możliwości wymiany informacji pomiędzy tymi systemami.
-
-**Art. 175e.**
-
-§ 1. Minister Sprawiedliwości może powołać koordynatora do spraw informatyzacji sądownictwa powszechnego.
-
-§ 2. Sędziemu powołanemu do pełnienia funkcji koordynatora do spraw informatyzacji sądownictwa powszechnego przysługuje dodatek funkcyjny.
-
-**Art. 175f.**
-
-§ 1. Minister Sprawiedliwości może, w drodze decyzji, przyznać Skarbowi Państwa uprawnienia wynikające z autorskich praw majątkowych do programu komputerowego obsługującego sądowe systemy informatyczne, zwanego dalej „programem komputerowym”, w zakresie niezbędnym do wykonywania zadań sądów.
-
-§ 2. Decyzja, o której mowa w § 1, może zostać wydana, jeżeli zagrożona jest sprawność działania lub ciągłość funkcjonowania programu komputerowego lub systemu teleinformatycznego wykorzystującego program komputerowy, lub jeżeli zapewnienia ich sprawności działania lub ciągłości funkcjonowania wymaga ważny interes państwa lub dobro wymiaru sprawiedliwości, a porozumienie w tym zakresie z osobą, której przysługują autorskie prawa majątkowe do programu komputerowego, napotyka przeszkody.
-
-§ 3. W decyzji, o której mowa w § 1, określa się:
-
-- **1)** zakres uprawnień, które mogą obejmować:
-    - **a)** korzystanie z programu komputerowego,
-    - **b)** trwałe lub czasowe zwielokrotnienie programu komputerowego w całości lub części jakimikolwiek środkami i w jakiejkolwiek formie,
-    - **c)** tłumaczenie, przystosowywanie, zmiany układu programu komputerowego lub wprowadzanie w nim jakichkolwiek innych zmian,
-    - **d)** rozpowszechnianie, w tym użyczenie lub najem, programu komputerowego lub jego kopii,
-    - **e)** zwielokrotnianie kodu lub tłumaczenie jego formy;
-
-- **2)** czas korzystania z uprawnień nie dłuższy niż dwadzieścia lat.
-
-§ 4. W decyzji, o której mowa w § 1, Minister Sprawiedliwości może nałożyć na osobę, której przysługują autorskie prawa majątkowe do programu komputerowego, obowiązek wydania dokumentacji i kodów źródłowych tego programu, w tym bibliotek i instrukcji niezbędnych do osiągnięcia kodu wynikowego. W takim przypadku decyzja może określać format i formę przekazania dokumentacji i kodów źródłowych.
-
-§ 5. Decyzji, o której mowa w § 1, może zostać nadany rygor natychmiastowej wykonalności.
-
-**Art. 175g.**
-
-§ 1. Minister Sprawiedliwości określa, w drodze decyzji, po zasięgnięciu opinii biegłego, wysokość wynagrodzenia należnego osobie, której przysługują autorskie prawa majątkowe do programu komputerowego, stanowiącego ekwiwalent nabytych przez Skarb Państwa, na podstawie decyzji, o której mowa w art. 175f § 1, uprawnień wynikających z autorskich praw majątkowych do tego programu.
-
-§ 2. Od decyzji, o której mowa w § 1, przysługuje odwołanie do sądu powszechnego.
-
-§ 3. Wynagrodzenie, o którym mowa w § 1, wyczerpuje wszelkie roszczenia osoby, której przysługują autorskie prawa majątkowe do programu komputerowego, względem Skarbu Państwa wynikające z przeniesienia na rzecz Skarbu Państwa uprawnień określonych w decyzji, o której mowa w art. 175f § 1.
-
-### DZIAŁ V Finansowanie działalności sądów powszechnych
+### Dział V Finansowanie działalności sądów powszechnych
 
 #### Rozdział 1 Budżet sądownictwa
 
@@ -3288,9 +3429,9 @@ Art. 180–195. (pominięte)
 
 § 2. Dyrektor sądu apelacyjnego wykonuje zadania i kompetencje dysponowania budżetem sądów na obszarze apelacji oraz sprawuje kontrolę gospodarki finansowej i gospodarowania mieniem Skarbu Państwa przez te sądy.
 
-§ 3. (uchylony) § 4. W zakresie, o którym mowa w § 2, dyrektor sądu apelacyjnego podlega bezpośrednio Ministrowi Sprawiedliwości, a dyrektorzy sądów okręgowych i rejonowych – dyrektorowi przełożonego sądu apelacyjnego.
+§ 3. (uchylony)
 
-**Art. 177a.** (uchylony)
+§ 4. W zakresie, o którym mowa w § 2, dyrektor sądu apelacyjnego podlega bezpośrednio Ministrowi Sprawiedliwości, a dyrektorzy sądów okręgowych i rejonowych – dyrektorowi przełożonego sądu apelacyjnego. (uchylony)
 
 **Art. 178.**
 
@@ -3312,7 +3453,9 @@ Art. 180–195. (pominięte)
 
 § 1a. Czynności prezesa sądu wywołujące skutki finansowe nieujęte w planie finansowym sądu wymagają, dla ich ważności, uprzedniej akceptacji właściwego dyrektora sądu, z wyjątkiem zarządzeń dotyczących kosztów sądowych orzeczonych przez sąd.
 
-§ 2. (uchylony) § 3. Działalność inwestycyjną sądu prowadzą:
+§ 2. (uchylony)
+
+§ 3. Działalność inwestycyjną sądu prowadzą:
 
 - **1)** dla sądu apelacyjnego i sądów rejonowych działających na obszarze apelacji, w których powołano dyrektora sądu – dyrektor sądu apelacyjnego;
 - **2)** dla sądu okręgowego oraz sądów rejonowych działających w okręgu sądowym, w których nie powołano dyrektora sądu – dyrektor sądu okręgowego.
@@ -3329,9 +3472,7 @@ Art. 180–195. (pominięte)
 - **6)** rozliczenia w okresie przejściowym po zakończeniu roku budżetowego,
 - **7)** tryb pobierania dochodów i dokonywania wydatków sądów,
 - **8)** sprawozdawczość budżetową i finansową,
-- **9)** prowadzenie działalności inwestycyjnej sądów – z uwzględnieniem konieczności prawidłowego gospodarowania środkami publicznymi i wymogów wynikających z przepisów o finansach publicznych.
-
-**Art. 179a.**
+- **9)** prowadzenie działalności inwestycyjnej sądów z uwzględnieniem konieczności prawidłowego gospodarowania środkami publicznymi i wymogów wynikających z przepisów o finansach publicznych.
 
 § 1. Minister Sprawiedliwości może powierzyć jednostce utworzonej na podstawie art. 23 ust. 2 pkt 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych określone zadania z zakresu działalności administracyjnej sądów, dotyczące:
 
@@ -3340,13 +3481,11 @@ Art. 180–195. (pominięte)
 
 § 2. Jednostka, o której mowa w § 1, może otrzymywać dotacje z budżetu państwa z części budżetowej odpowiadającej sądom powszechnym na realizację zadań wymienionych w § 1.
 
-**Art. 179b.**
-
 § 1. Zadania sądów związane z pobieraniem opłat oraz innych kosztów i należności sądowych wnoszonych za pomocą sądowych systemów teleinformatycznych mogą być wykonywane przez inne sądy przy użyciu wspólnego rachunku bankowego.
 
 § 2. Minister Sprawiedliwości może wyznaczyć, w drodze rozporządzenia, sąd apelacyjny właściwy do dysponowania środkami pieniężnymi zgromadzonymi na rachunku, o którym mowa w § 1, oraz określić rodzaj należności pieniężnych, które będą obsługiwane przy użyciu tego rachunku, mając na względzie przygotowanie techniczne i organizacyjne sądu apelacyjnego.
 
-### DZIAŁ VI Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+### Dział VI Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
 #### Rozdział 1 Zmiany w przepisach obowiązujących
 
@@ -3396,7 +3535,7 @@ Art. 180–195. (pominięte)
 
 § 1. W okresie do dnia 31 grudnia 2003 r. na stanowisko sędziego sądu rejonowego może być powołany ten, kto spełnia wymagania określone w art. 61, z tym że wymagany wiek wynosi ukończone 28 lat, a wymagany okres pracy w charakterze asesora sądowego i prokuratorskiego wynosi dwa lata.
 
-§ 2. W okresie, o którym mowa w § 1, na stanowisko sędziego sądu wojskowego może być powołany ten, kto spełnia warunki określone w art. 22 ustawy wymienionej w art. 190 , z tym że wymagany wiek wynosi ukończone 28 lat, a wymagany staż na stanowisku asesora wynosi dwa lata.
+§ 2. W okresie, o którym mowa w § 1, na stanowisko sędziego sądu wojskowego może być powołany ten, kto spełnia warunki określone w art. 22 ustawy wymienionej w art. 190, z tym że wymagany wiek wynosi ukończone 28 lat, a wymagany staż na stanowisku asesora wynosi dwa lata.
 
 **Art. 203.**
 
@@ -3420,9 +3559,7 @@ Art. 180–195. (pominięte)
 
 § 7. Przepisy § 1–6 stosuje się również w sprawach przewinień dyscyplinarnych sędziów sądów wojskowych.
 
-**Art. 205.** Referendarze sądowi do dnia 31 grudnia 2002 r. zachowują wynagrodzenie ustalone na podstawie przepisów dotychczasowych.
-
-**Art. 205a.** W okresie do 31 grudnia 2004 r. na stanowisko referendarza sądowego może być mianowany także ten, kto spełnia wymagania określone w art. 149 § 1 pkt 1, 2, 4 i 5, i ukończył wyższe studia administracyjne.
+**Art. 205.** Referendarze sądowi do dnia 31 grudnia 2002 r. zachowują wynagrodzenie ustalone na podstawie przepisów dotychczasowych. W okresie do 31 grudnia 2004 r. na stanowisko referendarza sądowego może być mianowany także ten, kto spełnia wymagania określone w art. 149 § 1 pkt 1, 2, 4 i 5, i ukończył wyższe studia administracyjne.
 
 **Art. 206.**
 
@@ -3450,9 +3587,13 @@ Art. 180–195. (pominięte)
 
 **Art. 211.**
 
-§ 1. Traci moc ustawa z dnia 20 czerwca 1985 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 1994 r. poz. 25, z późn. zm. ).
+§ 1. Traci moc ustawa z dnia 20 czerwca 1985 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 1994 r. poz. 25, z późn. zm.).
 
 § 2. Zachowują moc akty prawne wydane w celu wykonania ustawy, o której mowa w § 1, o ile nie są sprzeczne z ustawą.
 
 **Art. 212.** Ustawa wchodzi w życie z dniem 1 października 2001 r., z wyjątkiem:
+
+- **1)** art. 91 § 2a, art. 151 § 1, art. 178, art. 193 i art. 195 pkt 2, które wchodzą w życie z dniem 1 stycznia 2002 r.;
+- **2)** art. 13 § 2 pkt 4, art. 91 § 2, 3 i 4, art. 176, art. 177 i art. 179 § 1–4, które wchodzą w życie z dniem 1 stycznia 2003 r. Załącznik – Stawki wynagrodzenia zasadniczego na poszczególnych stanowiskach sędziowskich oraz mnożniki, służące do ustalenia wysokości wynagrodzenia zasadniczego sędziów Stanowisko Stawka wynagrodzenia zasadniczego Mnożnik sędzia sądu rejonowego pierwsza 2,05 druga 2,17 trzecia 2,28 czwarta 2,36 piąta 2,50 sędzia sądu okręgowego czwarta 2,36 piąta 2,50 szósta 2,65 siódma 2,75 ósma 2,92 sędzia sądu apelacyjnego siódma 2,75 ósma 2,92 dziewiąta 3,12 dziesiąta 3,23
+
 

@@ -8,12 +8,10 @@ pos: 1955
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o wyrównywaniu strat majątkowych wynikających z ograniczenia w czasie stanu nadzwyczajnego wolności i praw człowieka i obywatela
-
-*USTAWA z dnia 22 listopada 2002 r.*
+# Ustawa z dnia 22 listopada 2002 r. o wyrównywaniu strat majątkowych wynikających z ograniczenia w czasie stanu nadzwyczajnego wolności i praw człowieka i obywatela
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2002-11-22 |
 | Data wydania | 2002-12-28 |
+| Wejście w życie | 2003-01-28 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022331955) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1955/text.pdf) |
 
@@ -35,7 +34,7 @@ source: "isap-pdf"
 
 2. Odszkodowanie, o którym mowa w ust. 1, obejmuje wyrównanie straty majątkowej, bez korzyści, które poszkodowany mógłby osiągnąć, gdyby strata nie powstała.
 
-3. Do odszkodowania stosuje się przepisy Kodeksu cywilnego, z wyłączeniem art. 415-420 .
+3. Do odszkodowania stosuje się przepisy Kodeksu cywilnego, z wyłączeniem art. 415–4202.
 
 **Art. 3.**
 
@@ -49,7 +48,7 @@ source: "isap-pdf"
 
 2. Wniosek, o którym mowa w ust. 1, powinien zawierać:
 
-- **1)** oznaczenie organu, do którego jest skierowany oraz sprawy, której dotyczy;
+- **1)** oznaczenie organu, do którego jest skierowany, oraz sprawy, której dotyczy;
 - **2)** imię, nazwisko oraz adres wnioskodawcy;
 - **3)** wysokość poniesionej straty majątkowej oraz czas, miejsce i okoliczności jej powstania;
 - **4)** rodzaj ograniczenia, z którego wynikła strata majątkowa;
@@ -81,7 +80,9 @@ source: "isap-pdf"
 
 **Art. 9.** Roszczenie o odszkodowanie przechodzi na następców prawnych poszkodowanego.
 
-**Art. 10.** W ustawie z dnia 13 czerwca 1967 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2002 r. Nr 9, poz. 88) w art. 10 w pkt 6 na końcu kropkę zastępuje się przecinkiem i dodaje się pkt 7 w brzmieniu: „7) powództwa o odszkodowanie, o którym mowa w art. 6 ustawy z dnia 22 listopada 2002 r. o wyrównywaniu strat majątkowych wynikających z ograniczenia w czasie stanu nadzwyczajnego wolności i praw człowieka i obywatela (Dz. U. Nr 233, poz. 1955).”.
+**Art. 10.** W ustawie z dnia 13 czerwca 1967 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2002 r. Nr 9, poz. 88) w art. 10 w pkt 6 na końcu kropkę zastępuje się przecinkiem i dodaje się pkt 7 w brzmieniu: „
+
+- **7)** powództwa o odszkodowanie, o którym mowa w art. 6 ustawy z dnia 22 listopada 2002 r. o wyrównywaniu strat majątkowych wynikających z ograniczenia w czasie stanu nadzwyczajnego wolności i praw człowieka i obywatela (Dz. U. Nr 233, poz. 1955). ” .
 
 **Art. 11.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

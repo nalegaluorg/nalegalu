@@ -8,10 +8,10 @@ pos: 1612
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, sierpnia OBWIESZCZENIE MINISTRA EDUKACJI I NAUKI 12 sprawie ogłoszenia jednolitego tekstu rozporządzenia Nauki Szkolnictwa Wyższego sprawie wykazu jednostek organizacji uprawnionych do korzystania ze zwolnienia od należności przywozowych materiałów dydaktycznych, naukowych kulturalnych
+# Obwieszczenie Ministra Edukacji i Naukiz dnia 12 lipca 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Nauki i Szkolnictwa Wyższego w sprawie wykazu jednostek i organizacji uprawnionych do korzystania ze zwolnienia od należności przywozowych materiałów dydaktycznych, naukowych i kulturalnych
 
 | Pole | Wartość |
 |---|---|
@@ -25,37 +25,82 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001612) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1612/text.pdf) |
 
-1. Na podstawie art. 16 ust. 3 ustawy 20 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych 2019 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Nauki Szkolnictwa Wyższego 27 grudnia 2010 sprawie wykazu jednostek organizacji uprawnionych do korzystania ze zwolnienia od należności przywozowych materiałów dydaktycznych, naukowych kulturalnych 1758), uwzględnieniem zmian wprowadzonych rozporządzeniem Edukacji Nauki 25 maja 2021 zmieniającym rozporządzenie sprawie wykazu jednostek organizacji uprawnionych do korzystania ze zwolnienia od należności przywozowych materiałów dydaktycznych, naukowych kulturalnych
-1055).
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje rozporządzenia Edukacji Nauki 25 maja 2021 zmieniającego rozporządzenie sprawie wykazu jednostek organizacji uprawnionych do korzystania ze zwolnienia od należności przywozowych materiałów dydaktycznych, naukowych kulturalnych 1055), który stanowi: „§ 2. Rozporządzenie wchodzi życie po upływie 14 dni od ogłoszenia.”.
-Minister Edukacji Nauki: P. Czarnek ROZPORZĄDZENIE MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO 27 grudnia 2010 sprawie wykazu jednostek organizacji uprawnionych do korzystania ze zwolnienia od należności przywozowych materiałów dydaktycznych, naukowych kulturalnych Na podstawie art. 43 ustawy 19 marca 2004 Prawo celne 2021 1856 oraz 1301) zarządza się, co następuje:
-1. Ustala się wykaz:
-1) niepublicznych jednostek organizacji edukacyjnych, naukowych lub kulturalnych, uprawnionych do korzystania ze zwolnienia od należności przywozowych, których mowa art. 43 lit. b rozporządzenia Rady (WE) nr 1186/2009 16 listopada 2009 ustanawiającego wspólnotowy system zwolnień celnych Urz. UE L 324 10.12.2009, str. 23), stanowiący załącznik nr do rozporządzenia;
-2) publicznych niepublicznych jednostek organizacji, innych niż wymienione 1, uprawnionych do korzystania ze zwolnienia od należności przywozowych, których mowa art. 43 lit. b rozporządzenia Rady (WE) nr 1186/2009 16 listopada 2009 ustanawiającego wspólnotowy system zwolnień celnych, stanowiący załącznik nr do rozporządzenia.
-2. Rozporządzenie wchodzi życie dniem stycznia 2011 WYKAZ NIEPUBLICZNYCH JEDNOSTEK I ORGANIZACJI EDUKACYJNYCH, NAUKOWYCH LUB KULTURALNYCH, UPRAWNIONYCH DO KORZYSTANIA ZE ZWOLNIENIA OD NALEŻNOŚCI PRZYWOZOWYCH
-1. Jednostki organizacyjne działające na podstawie ustawy 7 września 1991 systemie oświaty 2021 1915 oraz 583 1116).
-2. Jednostki organizacyjne działające na podstawie ustawy 25 października 1991 organizowaniu prowadzeniu działalności kulturalnej 2020 194).
-3. Jednostki organizacyjne prowadzące prace konserwatorskie, prace restauratorskie, roboty budowlane, badania konserwatorskie badania architektoniczne przy zabytkach oraz badania archeologiczne rozumieniu ustawy 23 2003 ochronie zabytków opiece nad zabytkami 840).
-4. Uczelnie działające na podstawie ustawy 20 2018 Prawo szkolnictwie wyższym nauce 574, późn. zm. ).
-5. Uczelnie wyższe seminaria duchowne prowadzone przez kościoły inne związki wyznaniowe.
-6. Instytuty badawcze działające na podstawie ustawy 30 kwietnia 2010 instytutach badawczych
-498).
-6a. Instytuty działające ramach Sieci Badawczej Łukasiewicz na podstawie ustawy 21 lutego 2019 Sieci Badawczej Łukasiewicz 2020 2098).
-7. Przedsiębiorca posiadający status centrum badawczo-rozwojowego nadany na podstawie ustawy 30 maja 2008 niektórych formach wspierania działalności innowacyjnej 2021 706 oraz 1079).
-8. Polska Akademia Umiejętności będąca podmiotem systemu szkolnictwa wyższego nauki, którym mowa ustawie 20 2018 Prawo szkolnictwie wyższym nauce.
-9. Biblioteki działające na podstawie ustawy 27 czerwca 1997 bibliotekach 2019 1479).
-10. Muzea działające na podstawie ustawy 21 listopada 1996 muzeach 385).
-11. Archiwa działające na podstawie ustawy 14 1983 narodowym zasobie archiwalnym archiwach 2020 164).
-12. (uchylona).
-13. Podmioty będące organizacjami pożytku publicznego rozumieniu ustawy 24 kwietnia 2003 działalności pożytku publicznego wolontariacie 1327 1265).
-14. Zagraniczne ośrodki instytuty kultury działające na podstawie dwustronnych umów międzynarodowych.
-15. Zakład Narodowy imienia Ossolińskich działający na podstawie ustawy 5 stycznia 1995 fundacji Zakład Narodowy imienia Ossolińskich 2017 1881).
-16. Zakłady Kórnickie działające na podstawie ustawy 18 września 2001 fundacji Zakłady Kórnickie 2020 1705).
-WYKAZ PUBLICZNYCH I NIEPUBLICZNYCH JEDNOSTEK I ORGANIZACJI, INNYCH NIŻ NIEPUBLICZNE JEDNOSTKI I ORGANIZACJE EDUKACYJNE, NAUKOWE LUB KULTURALNE, UPRAWNIONYCH DO KORZYSTANIA ZE ZWOLNIENIA OD NALEŻNOŚCI PRZYWOZOWYCH
-1. Jednostki organizacyjne charakterze opiekuńczym wychowawczym działające na podstawie ustawy 12 marca 2004 pomocy społecznej 2021 2268 2270 oraz 1, 66 1079).
-2. Jednostki radiofonii telewizji działające na podstawie ustawy 29 grudnia 1992 radiofonii telewizji 2020 805, 2021 1676 oraz 857).
-3. Kościół Katolicki, inne kościoły związki wyznaniowe prowadzące działalność edukacyjną, opiekuńczą, naukową lub kulturową.
-4. Samorząd gospodarczy rzemiosła działający na podstawie ustawy 22 marca 1989 rzemiośle 2020
-2159).
-5. Naczelna Dyrekcja Archiwów Państwowych działająca na podstawie ustawy 14 1983 narodowym zasobie archiwalnym archiwach 2020 164).
+Treść obwieszczenia
+Załącznik – Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 27 grudnia 2010 r. w sprawie wykazu jednostek i organizacji uprawnionych do korzystania ze zwolnienia od należności przywozowych materiałów dydaktycznych, naukowych i kulturalnych
+
+## Załącznik nr 1 — – Wykaz niepublicznych jednostek i organizacji edukacyjnych, naukowych lub kulturalnych, uprawnionych do korzystania ze zwolnienia od należności przywozowych
+
+## Załącznik nr 2 — – Wykaz publicznych i niepublicznych jednostek i organizacji, innych niż niepubliczne jednostki i organizacje edukacyjne, naukowe lub kulturalne, uprawnionych do korzystania ze zwolnienia od należności przywozowych
+
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 27 grudnia 2010 r. w sprawie wykazu jednostek i organizacji uprawnionych do korzystania ze zwolnienia od należności przywozowych materiałów dydaktycznych, naukowych i kulturalnych (Dz. U. poz. 1758), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Edukacji i Nauki z dnia 25 maja 2021 r. zmieniającym rozporządzenie w sprawie wykazu jednostek i organizacji uprawnionych do korzystania ze zwolnienia od należności przywozowych materiałów dydaktycznych, naukowych i kulturalnych (Dz. U. poz. 1055).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Edukacji i Nauki z dnia 25 maja 2021 r. zmieniającego rozporządzenie w sprawie wykazu jednostek i organizacji uprawnionych do korzystania ze zwolnienia od należności przywozowych materiałów dydaktycznych, naukowych i kulturalnych (Dz. U. poz. 1055), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+” .
+1) Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18).
+Załącznik – Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 27 grudnia 2010 r. w sprawie wykazu jednostek i organizacji uprawnionych do korzystania ze zwolnienia od należności przywozowych materiałów dydaktycznych, naukowych i kulturalnych
+Na podstawie art. 43 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2021 r. poz. 1856 oraz z 2022 r. poz. 1301) zarządza się, co następuje:
+§ 1.
+Ustala się wykaz:
+1)
+niepublicznych jednostek i organizacji edukacyjnych, naukowych lub kulturalnych, uprawnionych do korzystania ze zwolnienia od należności przywozowych, o których mowa w art. 43 lit. b rozporządzenia Rady (WE) nr 1186/2009 z dnia 16 listopada 2009 r. ustanawiającego wspólnotowy system zwolnień celnych (Dz. Urz. UE L 324 z 10.12.2009, str. 23), stanowiący załącznik nr 1 do rozporządzenia;
+2)
+publicznych i niepublicznych jednostek i organizacji, innych niż wymienione w pkt 1, uprawnionych do korzystania ze zwolnienia od należności przywozowych, o których mowa w art. 43 lit. b rozporządzenia Rady (WE) nr 1186/2009 z dnia 16 listopada 2009 r. ustanawiającego wspólnotowy system zwolnień celnych, stanowiący załącznik nr 2 do rozporządzenia.
+§ 2.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2011 r.
+1) Minister Edukacji i Nauki kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Edukacji i Nauki (Dz. U. z 2022 r. poz. 18). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej i Sportu z dnia 30 listopada 2004 r. w sprawie wykazu jednostek i organizacji uprawnionych do korzystania ze zwolnienia od należności przywozowych (Dz. U. poz. 2633), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 15 ustawy z dnia 29 kwietnia 2010 r. o zmianie ustawy – Prawo celne oraz niektórych innych ustaw (Dz. U. poz. 673).
+
+## Załącznik nr 1 — – Wykaz niepublicznych jednostek i organizacji edukacyjnych, naukowych lub kulturalnych, uprawnionych do korzystania ze zwolnienia od należności przywozowych
+
+1.
+Jednostki organizacyjne działające na podstawie ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2021 r. poz. 1915 oraz z 2022 r. poz. 583 i 1116).
+2.
+Jednostki organizacyjne działające na podstawie ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2020 r. poz. 194).
+3.
+Jednostki organizacyjne prowadzące prace konserwatorskie, prace restauratorskie, roboty budowlane, badania konserwatorskie i badania architektoniczne przy zabytkach oraz badania archeologiczne w rozumieniu ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2022 r. poz. 840).
+4.
+Uczelnie działające na podstawie ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm.).
+5.
+Uczelnie i wyższe seminaria duchowne prowadzone przez kościoły i inne związki wyznaniowe.
+6.
+Instytuty badawcze działające na podstawie ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2022 r. poz. 498).
+6a.
+Instytuty działające w ramach Sieci Badawczej Łukasiewicz na podstawie ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz (Dz. U. z 2020 r. poz. 2098).
+7.
+Przedsiębiorca posiadający status centrum badawczo-rozwojowego nadany na podstawie ustawy z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej (Dz. U. z 2021 r. poz. 706 oraz z 2022 r. poz. 1079).
+8.
+Polska Akademia Umiejętności będąca podmiotem systemu szkolnictwa wyższego i nauki, o którym mowa w ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
+9.
+Biblioteki działające na podstawie ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. z 2019 r. poz. 1479).
+10.
+Muzea działające na podstawie ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2022 r. poz. 385).
+11.
+Archiwa działające na podstawie ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164).
+12.
+(uchylona).
+13.
+Podmioty będące organizacjami pożytku publicznego w rozumieniu ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2022 r. poz. 1327 i 1265).
+14.
+Zagraniczne ośrodki i instytuty kultury działające na podstawie dwustronnych umów międzynarodowych.
+15.
+Zakład Narodowy imienia Ossolińskich działający na podstawie ustawy z dnia 5 stycznia 1995 r. o fundacji – Zakład Narodowy imienia Ossolińskich (Dz. U. z 2017 r. poz. 1881).
+16.
+Zakłady Kórnickie działające na podstawie ustawy z dnia 18 września 2001 r. o fundacji – Zakłady Kórnickie (Dz. U. z 2020 r. poz. 1705).
+
+## Załącznik nr 2 — – Wykaz publicznych i niepublicznych jednostek i organizacji, innych niż niepubliczne jednostki i organizacje edukacyjne, naukowe lub kulturalne, uprawnionych do korzystania ze zwolnienia od należności przywozowych
+
+1.
+Jednostki organizacyjne o charakterze opiekuńczym i wychowawczym działające na podstawie ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2021 r. poz. 2268 i 2270 oraz z 2022 r. poz. 1, 66 i 1079).
+2.
+Jednostki radiofonii i telewizji działające na podstawie ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2020 r. poz. 805, z 2021 r. poz. 1676 oraz z 2022 r. poz. 857).
+3.
+Kościół Katolicki, inne kościoły i związki wyznaniowe prowadzące działalność edukacyjną, opiekuńczą, naukową lub kulturową.
+4.
+Samorząd gospodarczy rzemiosła działający na podstawie ustawy z dnia 22 marca 1989 r. o rzemiośle (Dz. U. z 2020 r. poz. 2159).
+5.
+Naczelna Dyrekcja Archiwów Państwowych działająca na podstawie ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164).
 

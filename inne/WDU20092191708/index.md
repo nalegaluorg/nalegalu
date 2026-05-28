@@ -8,12 +8,10 @@ pos: 1708
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o izbach lekarskich
-
-*USTAWA z dnia 2 grudnia 2009 r.*
+# Ustawa z dnia 2 grudnia 2009 r. o izbach lekarskich
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2009-12-02 |
 | Data wydania | 2009-12-22 |
+| Wejście w życie | 2010-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092191708) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1708/text.pdf) |
 
@@ -60,7 +59,7 @@ source: "isap-pdf"
 - **1)** izba lekarska – okręgową izbę lekarską, Wojskową Izbę Lekarską i Naczelną Izbę Lekarską;
 - **2)** komisja rewizyjna – okręgową komisję rewizyjną i Naczelną Komisję Rewizyjną;
 - **3)** lekarz – lekarza i lekarza dentystę;
-- **4)** prawo wykonywania zawodu – prawo wykonywania zawodu lekarza i prawo wykonywania zawodu lekarza dentysty;
+- **4)** prawo wykonywania zawodu – prawo wykonywania zawodu lekarza, prawo wykonywania zawodu lekarza dentysty, ograniczone prawo wykonywania zawodu lekarza, ograniczone prawo wykonywania zawodu lekarza dentysty;
 - **5)** prezes rady lekarskiej – prezesa okręgowej rady lekarskiej i Prezesa Naczelnej Rady Lekarskiej;
 - **6)** rada lekarska – okręgową radę lekarską i Naczelną Radę Lekarską;
 - **7)** rzecznik odpowiedzialności zawodowej – okręgowego rzecznika odpowiedzialności zawodowej i Naczelnego Rzecznika Odpowiedzialności Zawodowej;
@@ -74,9 +73,34 @@ source: "isap-pdf"
 
 **Art. 5.** Zadaniem samorządu lekarzy jest w szczególności:
 
+- **1)** ustanawianie zasad etyki lekarskiej oraz dbanie o ich przestrzeganie;
+- **2)** sprawowanie pieczy nad należytym i sumiennym wykonywaniem zawodu lekarza;
+- **3)** przyznawanie prawa wykonywania zawodu oraz uznawanie kwalifikacji lekarzy, będących obywatelami państw członkowskich Unii Europejskiej, zamierzających wykonywać zawód lekarza na terytorium Rzeczypospolitej Polskiej;
+- **4)** zawieszanie i pozbawianie prawa wykonywania zawodu oraz ograniczanie w wykonywaniu zawodu;
+- **5)** prowadzenie postępowania w przedmiocie odpowiedzialności zawodowej lekarzy;
+- **6)** prowadzenie postępowania w przedmiocie niezdolności do wykonywania zawodu lekarza lub w przedmiocie niedostatecznego przygotowania do wykonywania zawodu;
+- **7)** prowadzenie lub udział w organizowaniu doskonalenia zawodowego lekarzy;
+- **8)** opiniowanie i wnioskowanie w sprawach kształcenia przed- i podyplomowego lekarzy i w innych zawodach medycznych;
+- **9)** przewodniczenie komisjom przeprowadzającym konkursy na stanowisko ordynatora i uczestnictwo w konkursach na inne stanowiska w ochronie zdrowia, jeżeli odrębne przepisy tak stanowią;
+- **10)** opiniowanie kandydatur lekarzy na stanowiska lub funkcje, jeżeli odrębne przepisy tak stanowią;
+- **11)** prowadzenie rejestrów lekarzy, rejestrów praktyk lekarskich i rejestrów podmiotów prowadzących kształcenie podyplomowe lekarzy oraz rejestrów lekarzy tymczasowo i okazjonalnie wykonujących zawód lekarza;
+- **12)** opiniowanie warunków pracy i płac lekarzy;
+- **13)** integrowanie środowiska lekarskiego;
+- **14)** działania na rzecz ochrony zawodu lekarza, w tym występowanie w obronie godności zawodu lekarza oraz interesów indywidualnych i zbiorowych członków samorządu lekarzy;
+- **15)** zajmowanie stanowiska w sprawach stanu zdrowotności społeczeństwa, polityki zdrowotnej państwa oraz organizacji ochrony zdrowia;
+- **16)** opiniowanie projektów aktów prawnych dotyczących ochrony zdrowia i wykonywania zawodu lekarza bądź występowanie o ich wydanie;
+- **17)** prowadzenie badań dotyczących ochrony zdrowia i wykonywania zawodu lekarza;
+- **18)** udzielanie zainteresowanym lekarzom informacji dotyczących ogólnych zasad wykonywania zawodu, zasad etyki lekarskiej, a także o przepisach dotyczących ochrony zdrowia;
+- **19)** prowadzenie instytucji samopomocowych i innych form pomocy materialnej dla lekarzy i ich rodzin;
+- **20)** współdziałanie z organami administracji publicznej, związkami zawodowymi oraz innymi organizacjami w kraju i za granicą w sprawach dotyczących ochrony zdrowia i warunków wykonywania zawodu lekarza;
+- **21)** współdziałanie z samorządami zawodów medycznych i innymi organizacjami reprezentującymi zawody medyczne w kraju i za granicą oraz organami państw członkowskich Unii Europejskiej, na zasadach określonych w art. 6a ust. 2 i 2a ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2008 r. Nr 136, poz. 857, z późn. zm.);
+- **22)** współpraca z towarzystwami naukowymi, uczelniami, instytutami i jednostkami badawczo-rozwojowymi w kraju i za granicą;
+- **23)** zarządzanie majątkiem i działalnością gospodarczą izb lekarskich;
+- **24)** wykonywanie innych zadań określonych w odrębnych przepisach.
+
 **Art. 6.**
 
-1. Lekarz zamierzający wykonywać zawód, któremu okręgowa rada lekarska przyznała prawo wykonywania zawodu, o którym mowa w art. 5 pkt 3–3c, zostaje równocześnie wpisany na listę członków tej izby lekarskiej.
+1. Lekarz zamierzający wykonywać zawód, któremu okręgowa rada lekarska przyznała prawo wykonywania zawodu, zostaje równocześnie wpisany na listę członków tej izby lekarskiej.
 
 2. W razie wykonywania zawodu na obszarze dwóch lub więcej okręgowych izb lekarskich, lekarz uzyskuje wpis na listę członków w wybranej przez siebie okręgowej izbie lekarskiej.
 
@@ -85,7 +109,7 @@ source: "isap-pdf"
 4. Lekarz wpisany na listę członków okręgowej izby lekarskiej, który:
 
 - **1)** przez okres dłuższy niż 5 lat nie wykonywał zawodu,
-- **2)** miał zawieszone prawo wykonywania zawodu – jest obowiązany powiadomić o zamiarze podjęcia wykonywania zawodu właściwą okręgową radę lekarską.
+- **2)** miał zawieszone prawo wykonywania zawodu jest obowiązany powiadomić o zamiarze podjęcia wykonywania zawodu właściwą okręgową radę lekarską.
 
 5. Lekarz posiadający prawo wykonywania zawodu, ale niewykonujący zawodu, może na swój wniosek zostać wpisany na listę członków okręgowej izby lekarskiej właściwej ze względu na miejsce zamieszkania.
 
@@ -109,19 +133,19 @@ source: "isap-pdf"
 
 **Art. 8.** Członkowie izby lekarskiej są obowiązani:
 
-**Art. 9.**
+- **1)** przestrzegać zasad etyki lekarskiej;
+- **2)** przestrzegać przepisów związanych z wykonywaniem zawodu lekarza;
+- **3)** stosować się do uchwał organów izb lekarskich.
 
-1. Członkowie izb lekarskich mają prawo:
+**Art. 9.** Członkowie izb lekarskich mają prawo:
 
 - **1)** wybierać i być wybieranymi do organów izb lekarskich;
 - **2)** być informowanymi o działalności izb lekarskich;
-- **3)** korzystać:
-    - **a)** z pomocy izb lekarskich w zakresie doskonalenia zawodowego,
-    - **b)** z pomocy izb lekarskich w zakresie ochrony właściwych warunków wykonywania zawodu lekarza,
-    - **c)** z ochrony i pomocy prawnej organów izb lekarskich w sprawach związanych z wykonywaniem zawodu lekarza,
-    - **d)** ze świadczeń socjalnych izb lekarskich oraz działalności samopomocowej.
-
-2. Przepisu ust. 1 pkt 1 nie stosuje się do lekarza, któremu okręgowa rada lekarska przyznała prawo wykonywania zawodu lekarza, o którym mowa w art. 5 pkt 3a–3c.
+- **3)** korzystać: z pomocy izb lekarskich w zakresie doskonalenia zawodowego, z pomocy izb lekarskich w zakresie ochrony właściwych warunków wykonywania zawodu lekarza, z ochrony i pomocy prawnej organów izb lekarskich w sprawach związanych z wykonywaniem zawodu lekarza, ze świadczeń socjalnych izb lekarskich oraz działalności samopomocowej.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 **Art. 10.**
 
@@ -135,7 +159,7 @@ source: "isap-pdf"
 
 2. Przepisu ust. 1 nie stosuje się w razie uzyskania przez pracownika prawa do renty z tytułu całkowitej niezdolności do pracy.
 
-3. Pracodawca nie może wypowiedzieć lekarzowi, o którym mowa w ust. 1, warunków pracy i płacy na jego niekorzyść, chyba że zachodzą przyczyny określone w art. 43 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320).
+3. Pracodawca nie może wypowiedzieć lekarzowi, o którym mowa w ust. 1, warunków pracy i płacy na jego niekorzyść, chyba że zachodzą przyczyny określone w art. 43 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.).
 
 #### Rozdział 3 Organy izb lekarskich
 
@@ -177,9 +201,9 @@ source: "isap-pdf"
 5. Bierne prawo wyborcze przysługuje, z zastrzeżeniem art. 24 pkt 7 i 8 oraz art. 38 pkt 7 i 8, wszystkim członkom izb lekarskich, z wyjątkiem lekarzy:
 
 - **1)** którym uchwałą okręgowej rady lekarskiej zawieszono prawo wykonywania zawodu,
-- **2)** wobec których sąd wydał prawomocne orzeczenie o zastosowaniu środka karnego określonego w art. 39 pkt 1–2a ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2020 r. poz. 1444 i 1517 oraz z 2021 r. poz. 1023) albo postanowienie o zastosowaniu środka zapobiegawczego zawieszenia w wykonywaniu zawodu,
+- **2)** wobec których sąd wydał prawomocne orzeczenie o zastosowaniu środka karnego określonego w art. 39 pkt 1–2a ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.) albo postanowienie o zastosowaniu środka zapobiegawczego zawieszenia w wykonywaniu zawodu,
 - **3)** skazanych prawomocnym wyrokiem sądu za umyślne przestępstwo lub przestępstwo skarbowe,
-- **4)** ukaranych jedną z kar wymienionych w art. 83 ust. 1 pkt 1–6 – do czasu upływu terminów zawieszenia prawa wykonywania zawodu, o którym mowa w pkt 1, zatarcia kary lub terminu, na który został orzeczony środek zapobiegawczy.
+- **4)** ukaranych jedną z kar wymienionych w art. 83 ust. 1 pkt 1–6 do czasu upływu terminów zawieszenia prawa wykonywania zawodu, o którym mowa w pkt 1, zatarcia kary lub terminu, na który został orzeczony środek zapobiegawczy.
 
 6. Do pełnienia funkcji rzecznika odpowiedzialności zawodowej, jego zastępcy oraz członka sądu lekarskiego mogą kandydować lekarze wykonujący zawód przez co najmniej 10 lat.
 
@@ -268,11 +292,17 @@ source: "isap-pdf"
 6. Przepisów ust. 1–5 nie stosuje się do uchwał:
 
 - **1)** podejmowanych w postępowaniu w zakresie odpowiedzialności zawodowej lekarzy;
-- **2)** do których na podstawie odrębnych przepisów stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735) odnoszące się do decyzji administracyjnych.
+- **2)** do których na podstawie odrębnych przepisów stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.) odnoszące się do decyzji administracyjnych.
 
-**Art. 20.** Naczelna Izba Lekarska i okręgowe izby lekarskie mają prawo używania urzędowej pieczęci, o której mowa w art. 16c ust. 1 ustawy z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2019 r. poz. 1509).
+**Art. 20.** Naczelna Izba Lekarska i okręgowe izby lekarskie mają prawo używania urzędowej pieczęci, o której mowa w art. 16c ust. 1 ustawy z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2005 r. Nr 235, poz. 2000, z 2006 r. Nr 220, poz. 1600 oraz z 2009 r. Nr 168, poz. 1323).
 
 **Art. 21.** Organami okręgowej izby lekarskiej są:
+
+- **1)** okręgowy zjazd lekarzy;
+- **2)** okręgowa rada lekarska;
+- **3)** okręgowa komisja rewizyjna;
+- **4)** okręgowy sąd lekarski;
+- **5)** okręgowy rzecznik odpowiedzialności zawodowej.
 
 **Art. 22.**
 
@@ -301,7 +331,38 @@ source: "isap-pdf"
 
 **Art. 24.** Okręgowy zjazd lekarzy w szczególności:
 
+- **1)** podejmuje uchwały w sprawach objętych zakresem działania izby;
+- **2)** ustala zasady gospodarki finansowej izby oraz uchwala budżet izby;
+- **3)** rozpatruje i zatwierdza roczne i kadencyjne sprawozdania okręgowej rady lekarskiej, okręgowej komisji rewizyjnej, okręgowego sądu lekarskiego, okręgowego rzecznika odpowiedzialności zawodowej oraz sprawozdania okręgowej komisji wyborczej;
+- **4)** rozpatruje wniosek w sprawie udzielenia absolutorium okręgowej radzie lekarskiej;
+- **5)** uchwala regulaminy: okręgowej rady lekarskiej, okręgowej komisji rewizyjnej;
+    - **a)**
+    - **b)**
+
+- **6)** ustala liczbę członków organów izby i okręgowej komisji wyborczej;
+- **7)** dokonuje spośród delegatów na zjazd wyboru prezesa i członków okręgowej rady lekarskiej, okręgowego rzecznika odpowiedzialności zawodowej, członków okręgowej komisji rewizyjnej, członków okręgowej komisji wyborczej oraz delegatów na Krajowy Zjazd Lekarzy;
+- **8)** dokonuje spośród delegatów lub spośród lekarzy wskazanych przez ustępujący okręgowy sąd lekarski wyboru członków okręgowego sądu lekarskiego oraz spośród delegatów lub spośród lekarzy wskazanych przez ustępującego okręgowego rzecznika odpowiedzialności zawodowej wyboru zastępców okręgowego rzecznika odpowiedzialności zawodowej;
+- **9)** określa wykaz funkcji w okręgowej izbie lekarskiej, których pełnienie może być wynagradzane.
+
 **Art. 25.** Okręgowa rada lekarska kieruje działalnością okręgowej izby lekarskiej w okresie między okręgowymi zjazdami lekarzy, w szczególności:
+
+- **1)** sprawuje pieczę nad należytym i sumiennym wykonywaniem zawodu lekarza przez członków okręgowej izby lekarskiej;
+- **2)** upowszechnia zasady etyki lekarskiej oraz dba o ich przestrzeganie;
+- **3)** reprezentuje i chroni indywidualne i zbiorowe interesy członków izby;
+- **4)** wykonuje zadania określone w art. 5 pkt 3, 4, 6–14 i 17–24;
+- **5)** udziela pomocy w realizacji praw członków okręgowej izby lekarskiej, o których mowa w art. 9 pkt 3;
+- **6)** składa okręgowemu zjazdowi lekarzy roczne i kadencyjne sprawozdania z działalności i wykonania budżetu;
+- **7)** zbiera składki członkowskie i prowadzi ich ewidencję;
+- **8)** wykonuje uchwały okręgowego zjazdu lekarzy;
+- **9)** ustala liczbę członków prezydium;
+- **10)** prowadzi bieżące sprawy izby;
+- **11)** wykonuje zadania zlecone przez Naczelną Radę Lekarską;
+- **12)** prowadzi okręgowy rejestr lekarzy i lekarzy dentystów;
+- **13)** prowadzi rejestr, o którym mowa w art. 9 ust. 5 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty;
+- **14)** prowadzi okręgowy rejestr indywidualnych praktyk lekarskich, indywidualnych specjalistycznych praktyk lekarskich oraz grupowych praktyk lekarskich;
+- **15)** prowadzi rejestr podmiotów uprawnionych do prowadzenia kształcenia podyplomowego lekarzy i lekarzy dentystów;
+- **16)** wydaje biuletyn okręgowej izby lekarskiej;
+- **17)** prowadzi archiwum dokumentacji okręgowej izby lekarskiej.
 
 **Art. 26.**
 
@@ -314,6 +375,9 @@ source: "isap-pdf"
 4. Okręgowa rada lekarska może, w drodze uchwały, upoważnić prezydium do podejmowania uchwał w sprawach lekarzy, do których na podstawie ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego odnoszące się do decyzji administracyjnych.
 
 **Art. 27.** Prezes okręgowej rady lekarskiej w szczególności:
+
+- **1)** kieruje pracą rady i prezydium rady;
+- **2)** przewodniczy obradom rady i prezydium rady.
 
 **Art. 28.**
 
@@ -353,6 +417,12 @@ source: "isap-pdf"
 
 **Art. 32.** Wyboru:
 
+- **1)** prezesa okręgowej rady lekarskiej,
+- **2)** okręgowego rzecznika odpowiedzialności zawodowej i jego zastępcy,
+- **3)** wiceprezesów, sekretarza, skarbnika i członków prezydium okręgowej rady lekarskiej,
+- **4)** przewodniczącego okręgowego sądu lekarskiego,
+- **5)** przewodniczącego okręgowej komisji rewizyjnej dokonuje się bezwzględną większością głosów.
+
 **Art. 33.**
 
 1. Okręgowa komisja wyborcza ogłasza wyniki wyborów oraz informację o uzyskaniu, zawieszeniu albo wygaśnięciu mandatu w formie obwieszczenia, które przekazuje do publikacji w biuletynie okręgowej izby lekarskiej oraz w Biuletynie Informacji Publicznej okręgowej izby lekarskiej.
@@ -362,6 +432,12 @@ source: "isap-pdf"
 **Art. 34.** Obsługę organizacyjno-administracyjną, finansową i prawną organów okręgowej izby lekarskiej zapewnia biuro okręgowej izby lekarskiej.
 
 **Art. 35.** Organami Naczelnej Izby Lekarskiej są:
+
+- **1)** Krajowy Zjazd Lekarzy;
+- **2)** Naczelna Rada Lekarska;
+- **3)** Naczelna Komisja Rewizyjna;
+- **4)** Naczelny Sąd Lekarski;
+- **5)** Naczelny Rzecznik Odpowiedzialności Zawodowej.
 
 **Art. 36.** Członek Naczelnej Izby Lekarskiej zachowuje prawa i obowiązki członka okręgowej izby lekarskiej, do której należy.
 
@@ -382,6 +458,25 @@ source: "isap-pdf"
 5. Nadzwyczajny Zjazd Lekarzy powinien być zwołany w najbliższym możliwym terminie, nie później jednak niż w ciągu 3 miesięcy od dnia wpływu wniosku o zwołanie Zjazdu, i obraduje wyłącznie nad sprawami, dla których został zwołany.
 
 **Art. 38.** Krajowy Zjazd Lekarzy w szczególności:
+
+- **1)** ustanawia zasady etyki lekarskiej;
+- **2)** uchwala program działalności samorządu lekarzy;
+- **3)** rozpatruje i zatwierdza sprawozdania Naczelnej Rady Lekarskiej, Naczelnej Komisji Rewizyjnej, Naczelnego Sądu Lekarskiego, Naczelnego Rzecznika Odpowiedzialności Zawodowej i Krajowej Komisji Wyborczej;
+- **4)** rozpatruje wniosek w sprawie udzielenia absolutorium Naczelnej Radzie Lekarskiej;
+- **5)** uchwala regulaminy: wyborów do organów i w organach izb lekarskich oraz tryb odwołania członków tych organów, Naczelnej Rady Lekarskiej, Naczelnej Komisji Rewizyjnej, okręgowej komisji wyborczej, Krajowej Komisji Wyborczej, wewnętrznego urzędowania rzeczników odpowiedzialności zawodowej, wewnętrznego urzędowania sądów lekarskich;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+
+- **6)** ustala liczbę członków organów Naczelnej Izby Lekarskiej i Krajowej Komisji Wyborczej;
+- **7)** dokonuje spośród delegatów na zjazd wyboru Prezesa i członków Naczelnej Rady Lekarskiej, Naczelnego Rzecznika Odpowiedzialności Zawodowej, członków Naczelnej Komisji Rewizyjnej, członków Krajowej Komisji Wyborczej;
+- **8)** dokonuje spośród delegatów lub spośród lekarzy wskazanych przez ustępujący Naczelny Sąd Lekarski wyboru członków Naczelnego Sądu Lekarskiego oraz spośród delegatów lub spośród lekarzy wskazanych przez ustępującego Naczelnego Rzecznika Odpowiedzialności Zawodowej wyboru zastępców Naczelnego Rzecznika Odpowiedzialności Zawodowej;
+- **9)** ustala zasady podziału składki członkowskiej;
+- **10)** określa wykaz funkcji w Naczelnej Izbie Lekarskiej, których pełnienie może być wynagradzane.
 
 **Art. 39.**
 
@@ -413,21 +508,6 @@ source: "isap-pdf"
 
 4. Naczelna Rada Lekarska może zwrócić się do okręgowej rady lekarskiej o podjęcie uchwały w określonej sprawie należącej do zakresu działania rady. Uchwała rady powinna być podjęta w ciągu miesiąca od dnia doręczenia uchwały Naczelnej Rady Lekarskiej.
 
-5. Naczelna Rada Lekarska udostępnia informacje zawarte w Centralnym Rejestrze Lekarzy i Lekarzy Dentystów Rzeczypospolitej Polskiej, systemowi informacji w ochronie zdrowia, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2021 r. poz. 666).
-
-6. Naczelna Rada Lekarska jest obowiązana na żądanie ministra właściwego do spraw zdrowia przekazywać nieodpłatnie dane zawarte w Centralnym Rejestrze Lekarzy Rzeczypospolitej Polskiej.
-
-7. Dane zawarte w Centralnym Rejestrze Lekarzy Rzeczypospolitej Polskiej mogą zostać udostępnione podmiotom biorącym udział w procesie kształcenia przeddyplomowego i podyplomowego lekarza i lekarza dentysty:
-
-- **1)** uczelniom,
-- **2)** Centrum Medycznego Kształcenia Podyplomowego,
-- **3)** Centrum Egzaminów Medycznych,
-- **4)** jednostkom akredytowanym w rozumieniu art. 19f ust. 1 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty,
-- **5)** wojewodom,
-- **6)** Ministrowi Obrony Narodowej,
-- **7)** ministrowi właściwemu do spraw wewnętrznych,
-- **8)** konsultantom krajowym w ochronie zdrowia – w związku z wykonywanymi przez nich zadaniami.
-
 **Art. 40.**
 
 1. W skład Naczelnej Rady Lekarskiej wchodzą: Prezes Naczelnej Rady Lekarskiej i jej członkowie wybrani przez Krajowy Zjazd Lekarzy oraz prezesi okręgowych rad lekarskich.
@@ -436,9 +516,12 @@ source: "isap-pdf"
 
 3. Do Prezydium Naczelnej Rady Lekarskiej może być wybrany wyłącznie członek Naczelnej Rady Lekarskiej niebędący prezesem okręgowej rady lekarskiej.
 
-4. Prezydium Naczelnej Rady Lekarskiej działa w imieniu Rady w sprawach określonych uchwałą Rady, z wyłączeniem zadań określonych w art. 39 ust. 1 pkt 9– 11, 14 i 19. Naczelna Rada Lekarska może, w drodze uchwały, upoważnić Prezydium do podejmowania uchwał w sprawach lekarzy, do których na podstawie ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, odnoszące się do decyzji administracyjnych.
+4. Prezydium Naczelnej Rady Lekarskiej działa w imieniu Rady w sprawach określonych uchwałą Rady, z wyłączeniem zadań określonych w art. 39 ust. 1 pkt 9–11, 14 i 19. Naczelna Rada Lekarska może, w drodze uchwały, upoważnić Prezydium do podejmowania uchwał w sprawach lekarzy, do których na podstawie ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, odnoszące się do decyzji administracyjnych.
 
 **Art. 41.** Prezes Naczelnej Rady Lekarskiej w szczególności:
+
+- **1)** kieruje pracą Rady i Prezydium Rady;
+- **2)** przewodniczy obradom Rady i Prezydium Rady.
 
 **Art. 42.**
 
@@ -486,6 +569,12 @@ source: "isap-pdf"
 
 **Art. 46.** Wyboru:
 
+- **1)** Prezesa Naczelnej Rady Lekarskiej,
+- **2)** Naczelnego Rzecznika Odpowiedzialności Zawodowej i jego zastępcy,
+- **3)** wiceprezesów, sekretarza, skarbnika i członków Prezydium Naczelnej Rady Lekarskiej,
+- **4)** Przewodniczącego Naczelnego Sądu Lekarskiego,
+- **5)** Przewodniczącego Naczelnej Komisji Rewizyjnej – dokonuje się bezwzględną większością głosów.
+
 **Art. 47.**
 
 1. Krajowa Komisja Wyborcza ogłasza wyniki wyborów oraz informację o uzyskaniu, zawieszeniu albo wygaśnięciu mandatu w formie obwieszczenia, które przekazuje do publikacji w Biuletynie Naczelnej Izby Lekarskiej oraz w Biuletynie Informacji Publicznej Naczelnej Izby Lekarskiej.
@@ -500,9 +589,9 @@ source: "isap-pdf"
 
 1. Okręgowy rejestr lekarzy i lekarzy dentystów, zwany dalej „rejestrem”, stanowi zbiór dokumentów i danych lekarzy:
 
-- **1)** posiadających prawo wykonywania zawodu:
-    - **a)** wykonujących zawód na obszarze działania okręgowej izby lekarskiej,
-    - **b)** niewykonujących zawodu i zamieszkałych na obszarze działania okręgowej izby lekarskiej;
+- **1)** posiadających prawo wykonywania zawodu: wykonujących zawód na obszarze działania okręgowej izby lekarskiej, niewykonujących zawodu i zamieszkałych na obszarze działania okręgowej izby lekarskiej;
+    - **a)**
+    - **b)**
 
 - **2)** którzy zostali skreśleni z listy członków z powodu śmierci lub utraty prawa wykonywania zawodu;
 - **3)** którzy nie stali się członkami izby z mocy ustawy i których dokumenty przekazane zostały okręgowym izbom lekarskim przez administrację szczebla wojewódzkiego.
@@ -511,7 +600,7 @@ source: "isap-pdf"
 
 3. Listę członków okręgowej izby lekarskiej, o której mowa w art. 6 ust. 1, stanowią dane lekarzy, o których mowa w ust. 1 pkt 1.
 
-4. Dane rejestru gromadzone są w systemie teleinformatycznym, o którym mowa w art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 670, 952 i 1005).
+4. Dane rejestru gromadzone są w systemie teleinformatycznym, o którym mowa w art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565, z późn. zm.).
 
 5. W rejestrze umieszcza się następujące dane:
 
@@ -521,25 +610,24 @@ source: "isap-pdf"
 - **4)** nazwisko rodowe lub poprzednie;
 - **5)** imiona rodziców;
 - **6)** datę i miejsce urodzenia;
-- **7)** numer PESEL;
-- **8)** numer paszportu w odniesieniu do lekarza z innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej i lekarza cudzoziemca, który nie posiada numeru PESEL, albo w przypadku nieposiadania paszportu – numer innego dokumentu potwierdzającego tożsamość;
+- **7)** numer ewidencyjny PESEL;
+- **8)** numer paszportu w odniesieniu do lekarza z innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej i lekarza cudzoziemca, który nie posiada numeru ewidencyjnego PESEL, albo w przypadku nieposiadania paszportu – numer innego dokumentu potwierdzającego tożsamość;
 - **9)** numer NIP;
 - **10)** obywatelstwo (obywatelstwa);
 - **11)** numer ograniczonego prawa wykonywania zawodu i numer odpowiedniej uchwały okręgowej rady lekarskiej lub Naczelnej Rady Lekarskiej w sprawie przyznania ograniczonego prawa wykonywania zawodu i datę jej podjęcia;
-- **12)** numer prawa wykonywania zawodu i numer odpowiedniej uchwały okręgowej rady lekarskiej lub Naczelnej Rady Lekarskiej w sprawie przyznania prawa wykonywania zawodu i datę jej podjęcia, a w przypadku przyznania prawa wykonywania zawodu lekarza albo prawa wykonywania zawodu lekarza dentysty, o którym mowa w art. 5 ust. 7 lub art. 5f ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, informację o przyznaniu tego prawa w celu odbycia stażu podyplomowego na czas odbycia tego stażu albo odbycia stażu adaptacyjnego albo przystąpienia do testu umiejętności;
-- **12a)** numer odpowiedniej uchwały okręgowej rady lekarskiej lub Naczelnej Rady Lekarskiej w sprawie przyznania prawa wykonywania zawodu, o którym mowa w art. 5 ust. 1 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, datę jej podjęcia oraz informację o uzyskaniu prawa wykonywania zawodu na czas nieokreślony;
+- **12)** numer prawa wykonywania zawodu i numer odpowiedniej uchwały okręgowej rady lekarskiej lub Naczelnej Rady Lekarskiej w sprawie przyznania prawa wykonywania zawodu i datę jej podjęcia;
 - **13)** numer rejestracyjny w okręgowym rejestrze lekarzy oraz poprzednie numery rejestracyjne;
 - **14)** numer uchwały okręgowej rady lekarskiej w sprawie wpisania na listę członków lekarza będącego dotychczas członkiem innej izby lekarskiej i datę jej podjęcia;
 - **15)** numery dotychczasowych zaświadczeń o prawie wykonywania zawodu wraz z określeniem organu wydającego zaświadczenie i datę jego wydania;
 - **16)** informację o posiadaniu prawa wykonywania zawodu w innym państwie;
-- **17)** nazwę ukończonej uczelni i jej siedzibę;
+- **17)** nazwę ukończonej uczelni medycznej, jej siedzibę i wydział;
 - **18)** numer dyplomu uczelni medycznej i datę wydania oraz rok ukończenia studiów;
-- **19)** datę i miejsce ukończenia stażu podyplomowego lub praktyki przygotowawczej lekarsko-dentystycznej albo datę i miejsce ukończenia stażu adaptacyjnego albo przystąpienia do testu umiejętności;
-- **20)** informację o złożeniu Lekarskiego Egzaminu Państwowego lub Lekarskiego Egzaminu Końcowego albo Lekarsko-Dentystycznego Egzaminu Państwowego lub Lekarsko-Dentystycznego Egzaminu Końcowego i datę jego złożenia;
+- **19)** datę i miejsce ukończenia stażu podyplomowego lub praktyki przygotowawczej lekarsko-dentystycznej;
+- **20)** informację o złożeniu Lekarskiego Egzaminu Państwowego lub Lekarsko-Dentystycznego Egzaminu Państwowego i datę jego złożenia;
 - **21)** datę rozpoczęcia wykonywania zawodu po ukończeniu stażu podyplomowego;
 - **22)** rodzaj i stopień posiadanej specjalizacji, tytuł specjalisty, datę ich uzyskania oraz nazwę jednostki organizacyjnej prowadzącej specjalizację;
-- **23)** rodzaj umiejętności zawodowej i datę uzyskania świadectwa potwierdzającego tę umiejętność;
-- **24)** rodzaj i datę uzyskania stopnia naukowego i nazwę podmiotu nadającego stopień;
+- **23)** rodzaj umiejętności z zakresu węższych dziedzin medycyny lub udzielania określonych świadczeń zdrowotnych i datę uzyskania świadectwa potwierdzającego tę umiejętność;
+- **24)** rodzaj i datę uzyskania stopnia naukowego i nazwę jednostki nadającej stopień;
 - **25)** rodzaj i datę uzyskania tytułu naukowego i nazwę organu nadającego tytuł;
 - **26)** potwierdzenie dopełnienia obowiązku doskonalenia zawodowego oraz liczbę uzyskanych punktów edukacyjnych;
 - **27)** nazwę, adres miejsca pracy, numer telefonu i faksu, adres poczty elektronicznej, numer statystyczny REGON oraz datę zatrudnienia, stanowisko (u każdego kolejnego pracodawcy, poczynając od daty rozpoczęcia wykonywania zawodu lekarza);
@@ -556,19 +644,18 @@ source: "isap-pdf"
 - **38)** kod jednostki terytorialnej dla celów statystycznych (NTS) – miejsca stałego zamieszkania;
 - **39)** funkcje pełnione w samorządzie lekarskim, datę wyboru i zakończenia pełnienia funkcji;
 - **40)** informację o ukończonych wyższych studiach innych niż medyczne, o ile lekarz wyrazi zgodę na przekazanie tych danych;
-- **41)** datę ważności zezwolenia Ministra Zdrowia i Opieki Społecznej na wykonywanie zawodu lekarza cudzoziemca, wydanego na podstawie art. 3 ustawy z dnia 28 października 1950 r. o zawodzie lekarza (Dz. U. poz. 458 i 489, z 1956 r. poz. 61, z 1989 r. poz. 158 oraz z 1993 r. poz. 78) albo na podstawie rozporządzenia Prezydenta Rzeczypospolitej z dnia 10 czerwca 1927 r. o wykonywaniu praktyki dentystycznej (Dz. U. z 1934 r. poz. 32 i 976, z 1938 r. poz. 628, z 1947 r. poz. 104 oraz z 1989 r. poz. 158) ;
+- **41)** datę ważności zezwolenia Ministra Zdrowia i Opieki Społecznej na wykonywanie zawodu lekarza cudzoziemca, wydanego na podstawie art. 3 ustawy z dnia 28 października 1950 r. o zawodzie lekarza (Dz. U. Nr 50, poz. 458, z późn. zm.) albo na podstawie rozporządzenia Prezydenta Rzeczypospolitej z dnia 10 czerwca 1927 r. o wykonywaniu praktyki dentystycznej (Dz. U. z 1934 r. Nr 4, poz. 32, z późn. zm.);
 - **42)** numer seryjny i datę wystawienia dokumentu uprawniającego do wykonywania zawodu;
 - **43)** numer seryjny i datę wydania duplikatu dokumentu uprawniającego do wykonywania zawodu;
 - **44)** informację o skreśleniu z rejestru;
-- **44a)** datę zgonu – w przypadku śmierci lekarza;
-- **45)** identyfikator operatora rejestru i datę pierwszego wprowadzenia danych; <46) numer identyfikujący dokument udostępniany w postaci dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. poz. 1234).>
+- **45)** identyfikator operatora rejestru i datę pierwszego wprowadzenia danych.
 
 6. Lekarz jest obowiązany przekazać do okręgowej izby lekarskiej dokumenty lub informacje potwierdzające dane wymienione w ust. 5 pkt 1–10, 15–32, 34–37 i 39–41.
 
-7. Lekarz jest obowiązany do zawiadomienia okręgowej rady lekarskiej izby, której jest członkiem, w terminie 30 dni o:
+7. Lekarz jest obowiązany do zawiadomienia okręgowej rady lekarskiej izby, której jest członkiem, w terminie 30 dni, o:
 
-- **1)** zmianie danych, o których mowa w ust. 5 pkt 2, 10, 12, 16, 22–31 i 34–37;
-- **2)** utracie dokumentu „Prawo wykonywania zawodu lekarza” albo „Prawo wykonywania zawodu lekarza dentysty”.
+- **1)** zmianie danych wymienionych w ust. 5 pkt 2, 10, 16, 22–31 i 34–37;
+- **2)** utracie dokumentu „Ograniczone prawo wykonywania zawodu lekarza” lub „Prawo wykonywania zawodu lekarza”.
 
 8. Okręgowa rada lekarska prowadzi akta osobowe lekarza zawierające dokumenty, które potwierdzają informacje, o których mowa w ust. 5.
 
@@ -583,12 +670,15 @@ source: "isap-pdf"
 1. Centralny Rejestr Lekarzy i Lekarzy Dentystów Rzeczypospolitej Polskiej, zwany dalej „Centralnym Rejestrem Lekarzy”, jest prowadzony w systemie teleinformatycznym i tworzony na podstawie danych uzyskanych z:
 
 - **1)** rejestrów obejmujących dane wymienione w art. 49 ust. 5;
-- **2)** rejestru PESEL;
-- **3)** rejestru prowadzonego przez Zakład Ubezpieczeń Społecznych, w zakresie, o którym mowa w art. 56 ust. 2 pkt 1–6 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2020 r. poz. 870, 2112 i 2320).
+- **2)** systemu PESEL prowadzonego przez Rządowe Centrum Informatyczne;
+- **3)** rejestru prowadzonego przez Zakład Ubezpieczeń Społecznych, w zakresie, o którym mowa w art. 56 ust. 2 pkt 1–8 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2005 r. Nr 31, poz. 267, z późn. zm.).
 
 2. Centralny Rejestr Lekarzy obejmuje również dane oznaczone jako archiwalne przekazane z rejestrów oraz archiwum danych osobowych lekarzy wykonujących zawód na terytorium Rzeczypospolitej Polskiej, pochodzące ze źródeł o charakterze historycznym.
 
 **Art. 51.** Dane do Centralnego Rejestru Lekarzy są przekazywane z:
+
+- **1)** rejestrów – co miesiąc, w ostatnim dniu roboczym każdego miesiąca;
+- **2)** systemu PESEL oraz z rejestru, o którym mowa w art. 50 ust. 1 pkt 3, na wniosek Naczelnej Izby Lekarskiej, nieodpłatnie.
 
 **Art. 52.**
 
@@ -596,13 +686,9 @@ source: "isap-pdf"
 
 2. Okręgowe rady lekarskie i Naczelna Rada Lekarska udostępniają informacje zawarte w rejestrach i Centralnym Rejestrze Lekarzy, o których mowa odpowiednio w art. 49 i 50, na wniosek uprawnionych podmiotów na podstawie odrębnych przepisów.
 
-2a. Okręgowe rady lekarskie i Naczelna Rada Lekarska udzielają organowi innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, na jego wniosek, informacji na temat prawa wykonywania zawodu lekarza osoby wskazanej we wniosku, do celów świadczenia transgranicznej opieki zdrowotnej. Informacji udziela się za pośrednictwem systemu IMI.
-
-2b. Naczelna Rada Lekarska udostępnia Zakładowi Ubezpieczeń Społecznych informacje zawarte w Centralnym Rejestrze Lekarzy.
-
 3. Okręgowe rady lekarskie na wniosek osoby wpisanej do rejestru dokonują wypisów z rejestru w zakresie dotyczącym tej osoby.
 
-4. Naczelna Rada Lekarska udostępnia informacje zawarte w Centralnym Rejestrze Lekarzy, o których mowa w art. 49 ust. 5 pkt 1, 2, 11–13, 22–25, 31–34 i 42–44, w ramach informacji publicznej, w rozumieniu ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2020 r. poz. 2176).
+4. Naczelna Rada Lekarska udostępnia informacje zawarte w Centralnym Rejestrze Lekarzy, o których mowa w art. 49 ust. 5 pkt 1, 2, 11–13, 22–25, 31–34 i 42–44, w ramach informacji publicznej, w rozumieniu ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. Nr 112, poz. 1198, z późn. zm.).
 
 5. Właścicielem i administratorem rejestru jest okręgowa rada lekarska.
 
@@ -698,6 +784,12 @@ source: "isap-pdf"
 
 **Art. 63.** Postępowania w przedmiocie odpowiedzialności zawodowej lekarzy nie wszczyna się, a wszczęte umarza, jeżeli:
 
+- **1)** czynu nie popełniono albo brak jest danych dostatecznie uzasadniających podejrzenie jego popełnienia;
+- **2)** czyn nie stanowi przewinienia zawodowego albo ustawy stanowią, że sprawca nie popełnia przewinienia zawodowego;
+- **3)** obwiniony zmarł;
+- **4)** nastąpiło ustanie karalności;
+- **5)** postępowanie w przedmiocie odpowiedzialności zawodowej lekarzy co do tego samego czynu tej samej osoby zostało prawomocnie zakończone albo wcześniej wszczęte toczy się.
+
 **Art. 64.**
 
 1. Nie można wszcząć postępowania w przedmiocie odpowiedzialności zawodowej lekarzy, jeżeli od chwili popełnienia czynu upłynęły 3 lata.
@@ -785,7 +877,7 @@ source: "isap-pdf"
 
 1. Wniosek o ukaranie powinien zawierać:
 
-- **1)** imię i nazwisko oraz numer prawa wykonywania zawodu;
+- **1)** imię i nazwisko oraz numer prawa wykonywania zawodu albo numer ograniczonego prawa wykonywania zawodu;
 - **2)** dokładne określenie zarzucanego przewinienia zawodowego, ze wskazaniem czasu, miejsca, sposobu i okoliczności jego popełnienia oraz skutków z niego wynikających;
 - **3)** imiona i nazwiska oraz adresy świadków, którzy mają być wezwani na rozprawę, jak również inne dowody;
 - **4)** uzasadnienie wniosku.
@@ -873,7 +965,7 @@ source: "isap-pdf"
 - **4)** zakaz pełnienia funkcji kierowniczych w jednostkach organizacyjnych ochrony zdrowia na okres od roku do pięciu lat;
 - **5)** ograniczenie zakresu czynności w wykonywaniu zawodu lekarza na okres od sześciu miesięcy do dwóch lat;
 - **6)** zawieszenie prawa wykonywania zawodu na okres od roku do pięciu lat;
-- **7)** pozbawienie prawa wykonywania zawodu, o którym mowa w art. 5 pkt 3–3c.
+- **7)** pozbawienie prawa wykonywania zawodu.
 
 2. Sąd lekarski, orzekając karę przewidzianą w ust. 1 pkt 5 lub 6, może dodatkowo orzec karę wymienioną w ust. 1 pkt 4.
 
@@ -937,9 +1029,7 @@ source: "isap-pdf"
 
 2. Odwołanie wnosi się za pośrednictwem sądu lekarskiego, który wydał zaskarżone orzeczenie.
 
-3. Cofnięcie odwołania przez składającą je stronę przed rozpoczęciem rozprawy odwoławczej wiąże Naczelny Sąd Lekarski, który pozostawia odwołanie bez rozpoznania, o ile nie zachodzą przesłanki z art. 439 § 1 pkt 1 i 2 oraz 5–10 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2021 r. poz. 534 i
-
-- **1023)** .
+3. Cofnięcie odwołania przez składającą je stronę przed rozpoczęciem rozprawy odwoławczej wiąże Naczelny Sąd Lekarski, który pozostawia odwołanie bez rozpoznania, o ile nie zachodzą przesłanki z art. 439 § 1 pkt 1 i 2 oraz 5–10 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.).
 
 **Art. 91.**
 
@@ -963,11 +1053,11 @@ source: "isap-pdf"
 
 **Art. 95.**
 
-1. Od prawomocnego orzeczenia Naczelnego Sądu Lekarskiego, kończącego postępowanie w przedmiocie odpowiedzialności zawodowej lekarzy, stronom, ministrowi właściwemu do spraw zdrowia i Prezesowi Naczelnej Rady Lekarskiej przysługuje kasacja do Sądu Najwyższego w terminie 2 miesięcy od dnia doręczenia orzeczenia.
+1. Od prawomocnego orzeczenia sądu lekarskiego kończącego postępowanie w przedmiocie odpowiedzialności zawodowej lekarzy, stronom, ministrowi właściwemu do spraw zdrowia i Prezesowi Naczelnej Rady Lekarskiej przysługuje kasacja do Sądu Najwyższego w terminie 2 miesięcy od dnia doręczenia orzeczenia.
 
-2. (uchylony)
+2. Strona, która nie zaskarżyła orzeczenia sądu lekarskiego pierwszej instancji, nie może wnieść kasacji od orzeczenia sądu odwoławczego, jeżeli orzeczenie sądu pierwszej instancji utrzymano w mocy lub zmieniono na jej korzyść.
 
-3. (uchylony)
+3. Ograniczenie, o którym mowa w ust. 2, nie dotyczy uchybień wymienionych w art. 439 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
 
 4. Kasację w stosunku do tego samego obwinionego i od tego samego orzeczenia każdy uprawniony może wnieść tylko raz.
 
@@ -986,6 +1076,11 @@ source: "isap-pdf"
 2. Kasacja wnoszona przez stronę powinna być sporządzona i podpisana przez obrońcę będącego adwokatem albo radcą prawnym albo pełnomocnika będącego adwokatem albo radcą prawnym.
 
 **Art. 99.** Postępowanie w przedmiocie odpowiedzialności zawodowej lekarzy zakończone prawomocnym orzeczeniem sądu lekarskiego wznawia się, jeżeli:
+
+- **1)** w związku z postępowaniem dopuszczono się przestępstwa, a istnieje uzasadniona podstawa do przyjęcia, że mogło to mieć wpływ na treść orzeczenia;
+- **2)** po wydaniu orzeczenia ujawnią się nowe fakty lub dowody nieznane przedtem sądowi lekarskiemu, wskazujące na to, że: obwiniony nie popełnił czynu albo czyn jego nie stanowił przewinienia zawodowego lub nie podlegał karze, sąd lekarski umorzył postępowanie błędnie przyjmując popełnienie przez obwinionego zarzucanego mu czynu.
+    - **a)**
+    - **b)**
 
 **Art. 100.** Postępowanie przed sądem lekarskim zakończone prawomocnym orzeczeniem można wznowić w wypadku uchylenia lub istotnej zmiany treści prawomocnego wyroku lub orzeczenia, z powodu którego zostało ono umorzone w trybie art. 82 ust. 2.
 
@@ -1029,13 +1124,16 @@ source: "isap-pdf"
 
 **Art. 107.** Prawomocne orzeczenie sądu lekarskiego przewodniczący tego sądu doręcza:
 
+- **1)** prezesowi właściwej okręgowej rady lekarskiej do wykonania;
+- **2)** stronom, ministrowi właściwemu do spraw zdrowia i Prezesowi Naczelnej Rady Lekarskiej.
+
 **Art. 108.**
 
 1. Lekarz zawieszony w prawie wykonywania zawodu nie może wykonywać zawodu w żadnej formie.
 
 2. Prawomocne orzeczenie kary wymienionej w art. 83 ust. 1 pkt 6 i 7 stanowi podstawę do rozwiązania bez wypowiedzenia umowy o pracę albo umowy cywilnoprawnej, na podstawie której lekarz wykonuje zawód.
 
-3. Po otrzymaniu prawomocnego orzeczenia sądu lekarskiego, o którym mowa w ust. 2, prezes właściwej okręgowej rady lekarskiej zawiadamia ukaranego lekarza o skreśleniu z rejestru podmiotów wykonujących działalność leczniczą w wykonaniu orzeczenia sądu lekarskiego.
+3. Po otrzymaniu prawomocnego orzeczenia sądu lekarskiego, o którym mowa w ust. 2, prezes właściwej okręgowej rady lekarskiej zawiadamia ukaranego lekarza o skreśleniu z rejestru indywidualnych praktyk lekarskich lub indywidualnych specjalistycznych praktyk lekarskich w wykonaniu orzeczenia sądu lekarskiego.
 
 **Art. 109.** Na wniosek obwinionego lekarza prawomocne orzeczenie uniewinniające go w sprawach z zakresu odpowiedzialności zawodowej lekarzy podlega opublikowaniu w biuletynie okręgowej izby lekarskiej, której lekarz jest członkiem, na jej koszt.
 
@@ -1079,7 +1177,13 @@ source: "isap-pdf"
 
 **Art. 111.** Minister właściwy do spraw zdrowia w porozumieniu z Ministrem Sprawiedliwości, po zasięgnięciu opinii Naczelnej Rady Lekarskiej, określi, w drodze rozporządzenia:
 
+- **1)** sposób i tryb prowadzenia Rejestru Ukaranych Lekarzy,
+- **2)** sposób i tryb wykonania prawomocnych orzeczeń sądów lekarskich kierując się potrzebą respektowania praw uczestników postępowania, specyfiką, złożonością i czasochłonnością postępowań w przedmiocie odpowiedzialności zawodowej.
+
 **Art. 112.** W sprawach nieuregulowanych w ustawie do postępowania w przedmiocie odpowiedzialności zawodowej stosuje się odpowiednio przepisy:
+
+- **1)** ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego dotyczące postępowania uproszczonego; nie stosuje się przepisów o oskarżycielu prywatnym, powodzie cywilnym, przedstawicielu społecznym, o postępowaniu przygotowawczym oraz środkach przymusu, z wyjątkiem przepisów o karze pieniężnej;
+- **2)** rozdziałów I-III i art. 53 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.
 
 #### Rozdział 6 Postępowanie mediacyjne
 
@@ -1096,45 +1200,6 @@ source: "isap-pdf"
 5. Mediator sporządza, po przeprowadzeniu postępowania mediacyjnego, sprawozdanie z jego przebiegu i wyników, które dołącza się do akt sprawy.
 
 6. Do postępowania mediacyjnego stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego dotyczące postępowania mediacyjnego.
-
-**Art. 113a.**
-
-1. Okręgowe rady lekarskie informują, w trybie ostrzeżenia w systemie IMI, właściwe organy pozostałych państw członkowskich Unii Europejskiej o lekarzu lub lekarzu dentyście, wobec których:
-
-- **1)** rada lekarska podjęła uchwałę o:
-    - **a)** zawieszeniu prawa wykonywania zawodu,
-    - **b)** ograniczeniu w wykonywaniu zawodu,
-
-- **2)** sąd lekarski wydał orzeczenie o:
-    - **a)** ograniczeniu zakresu czynności w wykonywaniu zawodu,
-    - **b)** zawieszeniu prawa wykonywania zawodu,
-    - **c)** pozbawieniu prawa wykonywania zawodu,
-
-- **3)** sąd powszechny orzekł zakaz wykonywania zawodu,
-- **4)** sąd powszechny albo prokurator tytułem środka zapobiegawczego zastosował zawieszenie w wykonywaniu zawodu – w terminie 3 dni od dnia uprawomocnienia się albo wykonalności uchwały, orzeczenia albo postanowienia o zastosowaniu środka zapobiegawczego.
-
-2. Ostrzeżenie, o którym mowa w ust. 1, obejmuje:
-
-- **1)** imię (imiona) i nazwisko lekarza lub lekarza dentysty oraz datę jego urodzenia;
-- **2)** tytuł zawodowy;
-- **3)** informacje o organie, który nałożył sankcję, o której mowa w ust. 1;
-- **4)** zakres i okres obowiązywania ograniczeń, o których mowa w ust. 1;
-- **5)** okres obowiązywania zawieszenia albo zakazu, o których mowa w ust. 1;
-- **6)** informację o pozbawieniu prawa wykonywania zawodu.
-
-3. Okręgowe rady lekarskie niezwłocznie informują właściwe organy pozostałych państw członkowskich Unii Europejskiej, w trybie ostrzeżenia w systemie IMI, o tożsamości lekarza lub lekarza dentysty, którzy w postępowaniu o uznanie kwalifikacji posłużyli się podrobionymi lub przerobionymi dokumentami potwierdzającymi posiadanie kwalifikacji zawodowych, w terminie 3 dni od dnia uprawomocnienia się orzeczenia sądowego w tej sprawie.
-
-4. Okręgowe rady lekarskie niezwłocznie informują właściwe organy pozostałych państw członkowskich Unii Europejskiej, za pośrednictwem systemu IMI, o wygaśnięciu sankcji, o których mowa w ust. 1, oraz o wszelkich decyzjach wpływających na zmianę terminu ich wygaśnięcia.
-
-5. Okręgowe rady lekarskie niezwłocznie zawiadamiają na piśmie lekarza lub lekarza dentystę, których dotyczą ostrzeżenia, o których mowa w ust. 1 lub 3, o ich przekazaniu za pośrednictwem systemu IMI właściwym organom pozostałych państw członkowskich Unii Europejskiej oraz o możliwości złożenia wniosku o ich sprostowanie albo usunięcie.
-
-6. W wyniku rozpatrzenia wniosku, o którym mowa w ust. 5, okręgowa rada lekarska niezwłocznie:
-
-- **1)** dokonuje sprostowania w systemie IMI informacji objętej wnioskiem i zawiadamia lekarza lub lekarza dentystę o sposobie jej sprostowania albo
-- **2)** usuwa informację objętą wnioskiem z systemu IMI i zawiadamia o tym lekarza lub lekarza dentystę, albo
-- **3)** odmawia sprostowania albo usunięcia z systemu IMI informacji objętej wnioskiem i zawiadamia o tym lekarza lub lekarza dentystę.
-
-7. Informacje przekazane w trybie ostrzeżenia, o którym mowa w ust. 1, mogą być przetwarzane w systemie IMI wyłącznie przez okres obowiązywania sankcji, o których mowa w ust. 1. Ostrzeżenia usuwa się z systemu IMI w terminie 3 dni od dnia wykonania albo uchylenia uchwały, orzeczenia albo postanowienia o zastosowaniu środka zapobiegawczego, o których mowa w ust. 1.
 
 #### Rozdział 7 Majątek i gospodarka finansowa
 
@@ -1153,11 +1218,9 @@ source: "isap-pdf"
 
 **Art. 115.**
 
-1. Izby lekarskie otrzymują z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw zdrowia, środki finansowe, na pokrycie kosztów czynności administracyjnych związanych z realizacją zadań, o których mowa w art. 5 pkt 3–6, 11 i 11a, oraz czynności, których wykonywanie na podstawie odrębnych przepisów zostało przekazane izbom lekarskim.
+1. Izby lekarskie otrzymują z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw zdrowia, środki finansowe, na pokrycie kosztów czynności administracyjnych związanych z realizacją zadań, o których mowa w art. 5 pkt 3–6 i 11, oraz czynności, których wykonywanie na podstawie odrębnych przepisów zostało przekazane izbom lekarskim.
 
 2. Koszty, o których mowa w ust. 1, w przypadku Wojskowej Izby Lekarskiej, są pokrywane z budżetu państwa, z części, której dysponentem jest Minister Obrony Narodowej.
-
-2a. Czynności przewidziane w ustawie dla ministra właściwego do spraw zdrowia wobec Naczelnej Izby Lekarskiej oraz okręgowych izb lekarskich w odniesieniu do Wojskowej Izby Lekarskiej wykonuje Minister Obrony Narodowej.
 
 3. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Naczelnej Rady Lekarskiej, określi, w drodze rozporządzenia, sposób ustalania kosztów i tryb przekazywania izbom lekarskim środków finansowych, o których mowa w ust. 1, kierując się ponoszonymi przez izby lekarskie kosztami oraz potrzebą sprawnego wykonywania zadań przekazanych izbom lekarskim.
 
@@ -1165,7 +1228,24 @@ source: "isap-pdf"
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
-**Art. 117.** (pominięty)
+**Art. 117.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2008 r. Nr 136, poz. 857, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 9 ust. 14 otrzymuje brzmienie: „
+
+14. Do lekarza, o którym mowa w ust. 2, stosuje się odpowiednio przepisy art. 31 i 45 ustawy z dnia 2 grudnia 2009 r. o izbach lekarskich (Dz. U. Nr 219, poz. 1708). ” ;
+
+- **2)** po art. 48 dodaje się art. 48a i 48b w brzmieniu: „
+
+1. Lekarz wykonujący zawód na terytorium Rzeczypospolitej Polskiej:
+
+- **1)** w zakładzie opieki zdrowotnej,
+- **2)** w ramach indywidualnej praktyki lekarskiej, indywidualnej specjalistycznej praktyki lekarskiej lub grupowej praktyki lekarskiej podlega obowiązkowi ubezpieczenia od odpowiedzialności cywilnej za szkody wyrządzone przy wykonywaniu czynności zawodowych.
+
+2. Przepis ust. 1 nie narusza przepisów art. 120 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
+
+3. Spełnienie obowiązku, o którym mowa w ust. 1, ustala się na podstawie polisy lub innego dokumentu ubezpieczenia, potwierdzającego zawarcie umowy tego ubezpieczenia, wystawionego przez zakład ubezpieczeń.
+
+4. Obowiązek, o którym mowa w ust. 1, nie dotyczy czynności zawodowych, których obowiązek ubezpieczenia wynika z przepisów o zakładach opieki zdrowotnej oraz przepisów o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych. Minister właściwy do spraw instytucji finansowych w porozumieniu z ministrem właściwym do spraw zdrowia, po zasięgnięciu opinii Naczelnej Rady Lekarskiej, określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia obowiązkowego, o którym mowa w art. 48a, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc pod uwagę specyfikę wykonywanego zawodu oraz zakres wykonywanych czynności. ” .
 
 **Art. 118.**
 
@@ -1207,7 +1287,7 @@ source: "isap-pdf"
 
 5. Wnioski o wszczęcie postępowania zgłasza się do dnia 31 grudnia 2012 r.
 
-**Art. 122.** Traci moc ustawa z dnia 17 maja 1989 r. o izbach lekarskich (Dz. U. poz. 158, z późn. zm. ).
+**Art. 122.** Traci moc ustawa z dnia 17 maja 1989 r. o izbach lekarskich (Dz. U. Nr 30, poz. 158, z późn. zm.).
 
 **Art. 123.** Ustawa wchodzi w życie z dniem 1 stycznia 2010 r.
 

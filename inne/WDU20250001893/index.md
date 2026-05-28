@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o wyrobie alkoholu etylowego oraz wytwarzaniu wyrobów tytoniowych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 19 grudnia 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 grudnia 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,15 +25,26 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-01-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001893) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1893/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 19 grudnia 2025 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o wyrobie alkoholu etylowego oraz wytwarzaniu wyrobów tytoniowych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 2 marca 2001 r. o wyrobie alkoholu etylowego oraz wytwarzaniu wyrobów tytoniowych (Dz. U.
 z 2024 r. poz. 262), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 21 maja 2025 r. o zmianie niektórych ustaw celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (Dz. U. poz. 769) oraz zmian wynikających z przepisów ogłoszonych przed dniem 10 grudnia 2025 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 31 ust. 2 pkt 5 i art. 48 ustawy z dnia 21 maja 2025 r. o zmianie niektórych ustaw celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (Dz. U. poz. 769), które stanowią:
 
 **Art. 31.** „2. Do wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy postępowań, o których mowa w:” „5) ustawie zmienianej art. 13 stosuje się przepisy tej ustawy brzmieniu dotychczasowym;” „Art. 48. Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
 
+- **1)** art. 6, art. 11, art. 18, art. 22, art. 24 pkt 4, 7 i 9, art. 38 oraz art. 40 ust. 1 i 2, które wchodzą życie z dniem 1 stycznia 2026 r.;
+- **2)** art. 28 oraz art. 44, które wchodzą życie po upływie 9 miesięcy od dnia ogłoszenia.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 2 marca 2001 r. o wyrobie alkoholu etylowego oraz wytwarzaniu wyrobów tytoniowych
+
 **Art. 1.** Ustawa określa zasady i warunki podejmowania i wykonywania działalności gospodarczej zakresie wyrobu alkoholu etylowego i jego skażania oraz wytwarzania wyrobów tytoniowych.
 
 **Art. 2.** Użyte ustawie określenia oznaczają:
+
+- **1)** alkohol etylowy płyn alkoholowy uzyskany wyniku destylacji po fermentacji alkoholowej albo płyn alkoholowy uzyskany sposób syntetyczny;
+- **2)** wyrób tytoniowy:
+    - **a)** nowatorski wyrób tytoniowy rozumieniu art. 2 pkt 11,
+    - **b)** tytoń do nosa rozumieniu art. 2 pkt 38,
+    - **c)** wyrób tytoniowy do palenia rozumieniu art. 2 pkt 47 ustawy z dnia 9 listopada 1995 r. o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (Dz. U. z 2024 r. poz. 1162 oraz z 2025 r. poz. 427 i 799).
 
 **Art. 2a.**
 
@@ -244,6 +253,23 @@ z 2024 r. poz. 262), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 21 maj
 5. Pomieszczenia lub wydzielone miejsca, gdzie przechowywane są próbki skażonego alkoholu etylowego, muszą być zabezpieczone sposób uniemożliwiający dostęp do nich osób nieuprawnionych.
 
 **Art. 11.** Z czynności skażania alkoholu etylowego przedsiębiorca sporządza protokół, który zawiera:
+
+- **1)** firmę przedsiębiorcy skażającego oraz jego siedzibę;
+- **2)** nazwę przedsiębiorcy, dla którego dokonano skażenia alkoholu etylowego;
+- **3)** datę i miejsce skażenia alkoholu etylowego;
+- **4)** ilość alkoholu etylowego przeznaczonego do skażenia;
+- **5)** ilość alkoholu etylowego skażonego oraz jego moc pozorną (pogrążenie alkoholomierza) przy określonej temperaturze;
+- **6)** nazwę środka skażającego i jego ilość użytą do skażenia przeliczeniu na 100 litrów alkoholu etylowego 100 %;
+- **7)** imiona i nazwiska oraz podpisy osób uczestniczących czynności skażenia alkoholu etylowego.
+- **1)** art. 3 ust. 3:
+    - **a)** pkt 1, nie wdrożył systemu wewnętrznej kontroli,
+    - **b)** pkt 2, nie dysponuje planem zakładu,
+    - **c)** pkt 3, nie wyznaczył osoby odpowiedzialnej za kontrolę jakości,
+
+- **2)** art. 6 ust. 6, nie złożył wniosku o zmianę wpisu danym rejestrze albo nie złożył tego wniosku terminie określonym tym przepisie,
+- **3)** art. 8 ust. 2, nie zawiadomił Dyrektora Generalnego KOWR o zakończeniu lub zawieszeniu wykonywania działalności gospodarczej określonej we wpisie do danego rejestru terminie 14 dni od dnia zakończenia lub zawieszenia wykonywania tej działalności podlega karze grzywny.
+
+2. Postępowanie sprawach, o których mowa ust. 1, toczy się według przepisów o postępowaniu sprawach o wykroczenia.
 
 **Art. 12a.**
 

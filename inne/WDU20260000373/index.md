@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o zasadach zarządzania mieniem państwowym
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 12 marca 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 marca 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000373) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/373/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 12 marca 2026 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o zasadach zarządzania mieniem państwowym
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2024 r. poz. 125), z uwzględnieniem stanu prawnego na dzień 9 marca 2026 r. oraz zmian wprowadzonych:
 1) ustawą z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834);
 2) ustawą z dnia 19 listopada 2024 r. o likwidacji Fundacji Platforma Przemysłu Przyszłości (Dz. U. poz. 1823);
@@ -42,11 +42,54 @@ poz. 1940);
 
 **Art. 84.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia, z wyjątkiem:
 
+- **1)** art. 65 ust. 2 i art. 73 ust. 2, które wchodzą w życie z dniem ogłoszenia;
+- **2)** art. 47 i art. 82, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”;
+- **2)** art. 9 ustawy z dnia 19 listopada 2024 r. o likwidacji Fundacji Platforma Przemysłu Przyszłości (Dz. U. poz. 1823), który stanowi: „Art. 9. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 6 i art. 8, które wchodzą w życie z dniem 1 stycznia 2025 r.”;
+- **3)** art. 41 ustawy z dnia 27 listopada 2024 r. o zmianie ustawy o Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (Dz. U. poz. 1897), który stanowi: „Art. 41. Ustawa wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem:
+- **1)** art. 12, art. 15, art. 19 i art. 40, które wchodzą w życie z dniem 30 grudnia 2024 r.;
+- **2)** art. 9 pkt 14 i 15 oraz art. 28 ust. 5 i 6, które wchodzą w życie z dniem 16 stycznia 2025 r.;
+- **3)** art. 2 pkt 3 i 4 oraz art. 35, które wchodzą w życie z dniem 1 września 2025 r.;
+- **4)** art. 9 pkt 7 lit. b–e i pkt 9, które wchodzą w życie z dniem 1 stycznia 2027 r.”;
+- **4)** art. 34 ustawy z dnia 27 listopada 2024 r. o zmianie ustawy Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. poz. 1940), który stanowi: „Art. 34. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 4 w zakresie art. 18b ust. 2, który wchodzi w życie z dniem 1 lipca 2025 r.”;
+- **5)** art. 32 i art. 35 ustawy z dnia 9 stycznia 2026 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 160), które stanowią: „Art. 32. 1. Z dniem wejścia w życie niniejszej ustawy minister właściwy do spraw aktywów państwowych wstępuje we wszystkie prawa i obowiązki Szefa Kancelarii Prezesa Rady Ministrów wynikające z art. 114 ust. 3 i 4 ustawy z dnia 16 grudnia 2016 r. Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym (Dz. U. poz. 2260, z 2018 r. poz. 1669 i 2159 oraz z 2019 r. poz. 730) dotyczące Zintegrowanego Systemu Informatycznego.
+
+2. W terminie niedłuższym niż 5 miesięcy od dnia wejścia w życie niniejszej ustawy Szef Kancelarii Prezesa Rady Ministrów przekaże ministrowi właściwemu do spraw aktywów państwowych składniki majątkowe oraz dokumenty dotyczące Zintegrowanego Systemu Informatycznego na podstawie protokołu zdawczo-odbiorczego.
+
+3. Minister właściwy do spraw aktywów państwowych zapewni dostęp do danych zgromadzonych w Zintegrowanym Systemie Informatycznym, w tym danych osobowych:
+
+- **1)** Prezesowi Rady Ministrów w zakresie niezbędnym do wykonywania przez Prezesa Rady Ministrów zadań, o których mowa w art. 7 ust. 1 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2024 r. poz. 125, 834, 1823, 1897 i 1940);
+- **2)** podmiotom, o których mowa w art. 8 ust. 1 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym, w zakresie niezbędnym do wykonywania przez te podmioty uprawnień przekazanych przez Radę Ministrów, oraz
+- **3)** podmiotom i organom, które wykonują prawa z akcji lub udziałów należących do Skarbu Państwa, w zakresie niezbędnym do wykonywania przez te podmioty i organy praw z akcji lub udziałów należących do Skarbu Państwa.
+
+4. Do czasu określenia przez ministra właściwego do spraw aktywów państwowych sposobu udostępniania danych, o których mowa w ust. 3, udostępnianie tych danych odbywa się na podstawie dotychczasowych zasad.
+
+5. Z dniem wejścia w życie niniejszej ustawy urzędem, któremu minister właściwy do spraw gospodarki może powierzyć, w drodze porozumienia, wykonywanie zadań, o których mowa w art. 109a ustawy z dnia 16 grudnia 2016 r. Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym, staje się urząd obsługujący ministra właściwego do spraw aktywów państwowych.” „Art. 35. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 33 ust. 2 i 3, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym
+
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa zasady zarządzania mieniem państwowym, w zakresie nieuregulowanym w przepisach szczególnych.
 
 **Art. 2.** Ilekroć w niniejszej ustawie jest mowa o:
+
+- **1)** spółce należy przez to rozumieć spółkę handlową w rozumieniu ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96 oraz z 2026 r. poz. 176 i 187), spółkę europejską w rozumieniu ustawy z dnia 4 marca 2005 r. o europejskim zgrupowaniu interesów gospodarczych i spółce europejskiej (Dz. U. z 2022 r. poz. 259 oraz z 2025 r. poz. 1556) oraz spółkę działającą zgodnie z przepisami prawa obcego;
+- **1a)** akcjonariuszu należy przez to rozumieć akcjonariusza w spółce akcyjnej, akcjonariusza w prostej spółce akcyjnej, akcjonariusza w spółce komandytowo-akcyjnej, akcjonariusza w spółce europejskiej, wspólnika w spółce z ograniczoną odpowiedzialnością oraz wspólnika w spółce działającej zgodnie z przepisami prawa obcego, który nie odpowiada za zobowiązania tej spółki;
+- **2)** akcjach należy przez to rozumieć akcje w spółce akcyjnej, akcje w prostej spółce akcyjnej, akcje w spółce komandytowo-akcyjnej, akcje w spółce europejskiej lub udziały w spółce z ograniczoną odpowiedzialnością;
+- **3)** statucie należy przez to rozumieć statut, umowę spółki lub akt założycielski;
+- **4)** walnym zgromadzeniu należy przez to rozumieć walne zgromadzenie lub zgromadzenie wspólników;
+- **4a)** podmiocie uprawnionym do wykonywania praw z akcji należących do Skarbu Państwa należy przez to rozumieć pełnomocnika Rządu, państwową osobę prawną, w tym jednoosobową spółkę Skarbu Państwa, organ administracji rządowej lub inną jednostkę uprawnioną do wykonywania praw z akcji należących do Skarbu Państwa;
+- **5)** członku organu zarządzającego należy przez to rozumieć członka zarządu spółki kapitałowej, dyrektora w prostej spółce akcyjnej, członka rady administrującej w spółce europejskiej uprawnionego do prowadzenia spraw spółki europejskiej, członka wykonawczego rady dyrektorów lub członka organu zarządzającego spółki działającej zgodnie z przepisami prawa obcego, a także likwidatora w spółce lub członka organu zarządzającego państwowej osoby prawnej;
+- **6)** członku organu nadzorczego należy przez to rozumieć członka rady nadzorczej spółki, członka komisji rewizyjnej spółki, członka rady administrującej nieuprawnionego do prowadzenia spraw spółki europejskiej, członka niewykonawczego rady dyrektorów lub członka organu nadzorczego spółki działającej zgodnie z przepisami prawa obcego, a także członka organu nadzorczego państwowej osoby prawnej;
+- **6a)** pełnomocniku wspólnika należy przez to rozumieć pełnomocnika wspólnika, o którym mowa w art. 11 ust. 2 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników (Dz. U. z 2025 r. poz. 1478 i 1840);
+- **7)** kierowniku jednostki należy przez to rozumieć dyrektora generalnego urzędu, kierownika urzędu w urzędach, w których nie tworzy się stanowiska dyrektora generalnego urzędu, lub osobę, która na podstawie przepisów odrębnych jest odpowiedzialna za gospodarowanie mieniem Skarbu Państwa powierzonym jednostce budżetowej;
+- **8)** spółce realizującej misję publiczną należy przez to rozumieć: Prawo lotnicze (Dz. U. z 2025 r. poz. 1431 i 1668 oraz z 2026 r. poz. 176), operatora systemu przesyłowego, operatora systemu dystrybucyjnego, operatora systemu magazynowania, operatora systemu skraplania gazu ziemnego, operatora systemu połączonego oraz operatora sieci transportowej dwutlenku węgla w rozumieniu art. 3 pkt 24–28a ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne (Dz. U. z 2026 r. poz. 43), spółkę, o której mowa w art. 5 ust. 2 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2025 r. poz. 595 oraz z 2026 r. poz. 176), spółkę będącą zarządzającym specjalną strefą ekonomiczną, o której mowa w ustawie z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2023 r. poz. 1604 oraz z 2025 r. poz. 1173), zarządcę infrastruktury w rozumieniu art. 4 pkt 7 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2025 r. poz. 1234 oraz z 2026 r. poz. 41), Zarządcę Rozliczeń Spółka Akcyjna, o której mowa w ustawie z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej (Dz. U. z 2022 r. poz. 311 oraz z 2026 r. poz. 176), Korporację Ubezpieczeń Kredytów Eksportowych Spółka Akcyjna, o której mowa w ustawie z dnia 7 lipca 1994 r. o ubezpieczeniach gwarantowanych przez Skarb Państwa (Dz. U. z 2026 r. poz. 146), podmiot zarządzający portem morskim w rozumieniu ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r. poz. 1796 oraz z 2026 r. poz. 176), drogową spółkę specjalnego przeznaczenia, utworzoną na podstawie ustawy z dnia 12 stycznia 2007 r. o drogowych spółkach specjalnego przeznaczenia (Dz. U. z 2021 r. poz. 1469 oraz z 2026 r. poz. 176),
+    - **a)** spółkę, której przedmiot działalności albo cel działania został określony ustawą, w szczególności: jednostkę publicznej radiofonii i telewizji, spółkę zarządzającą lotniskiem użytku publicznego w rozumieniu art. 54 ust. 2 ustawy z dnia 3 lipca 2002 r.
+    - **b)** Polski Fundusz Rozwoju Spółka Akcyjna z siedzibą w Warszawie,
+    - **c)** Agencję Rozwoju Przemysłu Spółka Akcyjna z siedzibą w Warszawie,
+    - **d)** Polską Agencję Inwestycji i Handlu Spółka Akcyjna;
+    - **e)** (uchylona)
+    - **f)** Fundusz Transformacji Województwa Śląskiego Spółkę Akcyjną z siedzibą w Katowicach;
+
+- **9)** pełnomocniku Rządu należy przez to rozumieć pełnomocnika Rządu ustanowionego na podstawie art. 10 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2025 r. poz. 780 oraz z 2026 r. poz. 160), Pełnomocnika Rządu do spraw Strategicznej Infrastruktury Energetycznej, o którym mowa w art. 12a ust. 1 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne, oraz Pełnomocnika Rządu do spraw Centralnego Portu Komunikacyjnego, o którym mowa w art. 4 ust. 1 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U. z 2024 r. poz. 1747 oraz z 2025 r. poz. 1531).
 
 **Art. 3.**
 
@@ -545,6 +588,19 @@ poz. 1940);
 
 **Art. 22.** Podmiot uprawniony do wykonywania praw z akcji należących do Skarbu Państwa lub państwowa osoba prawna, w zakresie wykonywania praw z akcji w spółce, z wyłączeniem spółki w upadłości, są obowiązane podejmować działania mające na celu określenie, w drodze uchwały walnego zgromadzenia lub w statucie tej spółki, wymogów, jakie musi spełniać kandydat na członka organu zarządzającego, uwzględniając w szczególności, że członkiem organu zarządzającego spółki:
 
+- **1)** może być osoba, która spełnia łącznie następujące warunki:
+    - **a)** posiada wykształcenie wyższe lub wykształcenie wyższe uzyskane za granicą uznane w Rzeczypospolitej Polskiej, na podstawie przepisów odrębnych,
+    - **b)** posiada co najmniej 5-letni okres zatrudnienia na podstawie umowy o pracę, powołania, wyboru, mianowania, spółdzielczej umowy o pracę, lub świadczenia usług na podstawie innej umowy lub wykonywania działalności gospodarczej na własny rachunek,
+    - **c)** posiada co najmniej 3-letnie doświadczenie na stanowiskach kierowniczych lub samodzielnych albo wynikające z prowadzenia działalności gospodarczej na własny rachunek,
+    - **d)** spełnia inne niż wymienione w lit. a–c wymogi określone w przepisach odrębnych, a w szczególności nie narusza ograniczeń lub zakazów zajmowania stanowiska członka organu zarządzającego w spółkach handlowych;
+
+- **2)** nie może być osoba, która spełnia przynajmniej jeden z poniższych warunków:
+    - **a)** pełni funkcję społecznego współpracownika albo jest zatrudniona w biurze poselskim, senatorskim, poselsko-senatorskim lub biurze posła do Parlamentu Europejskiego na podstawie umowy o pracę lub świadczy pracę na podstawie umowy zlecenia lub innej umowy o podobnym charakterze,
+    - **b)** wchodzi w skład organu partii politycznej reprezentującego partię polityczną na zewnątrz oraz uprawnionego do zaciągania zobowiązań,
+    - **c)** jest zatrudniona przez partię polityczną na podstawie umowy o pracę lub świadczy pracę na podstawie umowy zlecenia lub innej umowy o podobnym charakterze,
+    - **d)** pełni funkcję z wyboru w zakładowej organizacji związkowej lub zakładowej organizacji związkowej spółki z grupy kapitałowej,
+    - **e)** jej aktywność społeczna lub zarobkowa rodzi konflikt interesów wobec działalności spółki.
+
 **Art. 23.** Podmiot uprawniony do wykonywania praw z akcji należących do Skarbu Państwa lub państwowa osoba prawna, w zakresie wykonywania praw z akcji w spółce, z wyłączeniem spółki w upadłości, są obowiązane podejmować działania mające na celu wprowadzenie do statutów spółek, wobec których spółka z udziałem Skarbu Państwa lub państwowej osoby prawnej jest przedsiębiorcą dominującym w rozumieniu art. 4 pkt 3 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, wymogów, o których mowa w art. 22.
 
 **Art. 23a.** Obowiązki w zakresie podejmowania działań, o których mowa w art. 20 oraz art. 23, w spółkach, wobec których spółka z udziałem Skarbu Państwa lub państwowej osoby prawnej jest przedsiębiorcą dominującym w rozumieniu art. 4 pkt 3 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, działających zgodnie z przepisami prawa obcego, są wykonywane z uwzględnieniem przepisów prawa właściwego dla siedziby tych spółek.
@@ -552,6 +608,20 @@ poz. 1940);
 #### Rozdział 4 Rada do spraw spółek z udziałem Skarbu Państwa i państwowych osób prawnych
 
 **Art. 24.** Do zadań Rady do spraw spółek z udziałem Skarbu Państwa i państwowych osób prawnych, zwanej dalej „Radą”, należy wydawanie opinii dotyczących:
+
+- **1)** kandydatów na członków organów nadzorczych spółek wskazanych przez:
+    - **a)** Skarb Państwa,
+    - **b)** państwową osobę prawną,
+    - **c)** spółkę z udziałem Skarbu Państwa lub państwowej osoby prawnej,
+    - **d)** podmiot, wobec którego spółka z udziałem Skarbu Państwa lub państwowej osoby prawnej jest przedsiębiorcą dominującym w rozumieniu art. 4 pkt 3 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów;
+
+- **1a)** kandydatów na pełnomocników wspólnika;
+- **1b)** kandydatów na członków organów nadzorczych spółek, o których mowa w art. 19a ust. 1;
+- **1c)** kandydatów na członków organów nadzorczych państwowych osób prawnych;
+- **2)** (uchylony)
+- **3)** (uchylony)
+- **4)** kandydatów na członków organów zarządzających, w przypadku określonym w art. 26;
+- **5)** spraw związanych z zarządzaniem mieniem państwowym, na wniosek Prezesa Rady Ministrów.
 
 **Art. 25.**
 
@@ -721,6 +791,9 @@ poz. 1940);
 **Art. 32.** (uchylony)
 
 **Art. 33.** Podmiot uprawniony do wykonywania praw z akcji należących do Skarbu Państwa lub państwowa osoba prawna, w zakresie wykonywania praw z akcji spółek uznanych zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 31 ust. 2 za spółki o istotnym znaczeniu dla gospodarki państwa przysługujących tym podmiotom, jako kandydata na członka organu nadzorczego spółki uznanej zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 31 ust. 2 za spółkę o istotnym znaczeniu dla gospodarki państwa wskazuje osobę, która:
+
+- **1)** spełnia wymogi, o których mowa w art. 19 ust. 1–3 i 5;
+- **2)** posiada wiedzę lub doświadczenie zawodowe w zakresie zarządzania działalnością przedsiębiorstw, nadzoru nad działalnością organów zarządzających przedsiębiorców, doradztwa gospodarczego lub specyfiki funkcjonowania rynku objętego przedmiotem działalności spółek uznanych zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 31 ust. 2 za spółki o istotnym znaczeniu dla gospodarki państwa.
 
 #### Rozdział 5a Fundusz Inwestycji Kapitałowych
 
@@ -937,6 +1010,10 @@ poz. 1940);
 4. Przepisy ust. 2 i 3 nie naruszają obowiązków jednostek organizacyjnych w zakresie prowadzenia ewidencji mienia Skarbu Państwa, wynikających z przepisów odrębnych.
 
 **Art. 43.** Prezes Prokuratorii Generalnej Rzeczypospolitej Polskiej:
+
+- **1)** przygotowuje i przedkłada Sejmowi coroczne sprawozdania o stanie mienia Skarbu Państwa;
+- **2)** prowadzi ewidencję podmiotów, w szczególności państwowych jednostek organizacyjnych, którym przysługuje prawo wykonywania uprawnień wynikających z praw majątkowych Skarbu Państwa lub do działania w imieniu Skarbu Państwa;
+- **3)** prowadzi zbiorczą ewidencję mienia Skarbu Państwa.
 
 **Art. 44.** Rada Ministrów określi, w drodze rozporządzenia, sposób ewidencjonowania mienia Skarbu Państwa, w tym sposób prowadzenia zbiorczej ewidencji, o której mowa w art. 43 pkt 3, oraz związane z tym obowiązki jednostek organizacyjnych, którym powierzono to mienie, z uwzględnieniem konieczności zapewnienia dostępu do informacji umożliwiających zarządzanie mieniem Skarbu Państwa.
 

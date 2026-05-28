@@ -8,12 +8,10 @@ pos: 42
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o promowaniu energii elektrycznej z wysokosprawnej kogeneracji
-
-*USTAWA z dnia 14 grudnia 2018 r.*
+# Ustawa z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,9 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-14 |
 | Data wydania | 2019-01-10 |
+| Wejście w życie | 2019-01-25 |
 | Ostatnia zmiana | 2026-05-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000042) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/42/text.pdf) |
-
-Art. 95–98. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -35,9 +32,87 @@ Art. 95–98. (pominięte)
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
+- **1)** biomasa – biomasę w rozumieniu art. 2 pkt 3 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2018 r. poz. 2389 i 2245);
+- **2)** ciepło – ciepło w rozumieniu art. 3 pkt 2 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2018 r. poz. 755, z późn. zm.);
+- **3)** ciepło użytkowe w kogeneracji – ciepło użytkowe w kogeneracji w rozumieniu art. 3 pkt 34 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **4)** dystrybucja – dystrybucję w rozumieniu art. 3 pkt 5 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **5)** energia elektryczna z kogeneracji – energię elektryczną z kogeneracji w rozumieniu art. 3 pkt 36 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **6)** energia elektryczna z wysokosprawnej kogeneracji – energię elektryczną z kogeneracji wytworzoną w wysokosprawnej kogeneracji w rozumieniu art. 3 pkt 38 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **7)** instalacja odnawialnego źródła energii – instalację odnawialnego źródła energii w rozumieniu art. 2 pkt 13 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii;
+- **8)** istniejąca jednostka kogeneracji – jednostkę kogeneracji, w której wytworzenie energii elektrycznej po raz pierwszy nastąpiło przed dniem 1 stycznia 2019 r. i zostało potwierdzone wydanym świadectwem pochodzenia z kogeneracji;
+- **9)** istniejąca mała jednostka kogeneracji – małą jednostkę kogeneracji, w której wytworzenie energii elektrycznej po raz pierwszy nastąpiło przed dniem 1 stycznia 2019 r. i zostało potwierdzone wydanym świadectwem pochodzenia z kogeneracji;
+- **10)** jednostka kogeneracji – jednostkę kogeneracji w rozumieniu art. 3 pkt 35 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **11)** mała jednostka kogeneracji – jednostkę kogeneracji o mocy zainstalowanej elektrycznej mniejszej niż 1 MW;
+- **12)** moc zainstalowana elektryczna – moc znamionową czynną: generatora, ogniwa paliwowego wyrażoną w [W] lub wielokrotnościach tej jednostki miary, osiąganą przy znamionowym współczynniku mocy cos φn;
+    - **a)**
+    - **b)**
+
+- **13)** modernizacja – proces inwestycyjny, którego celem jest odtworzenie stanu pierwotnego lub zmiana parametrów użytkowych lub technicznych jednostki kogeneracji, w czasie którego zainstalowano urządzenia wyprodukowane w okresie 60 miesięcy przed dniem wytworzenia po raz pierwszy energii elektrycznej w zmodernizowanej jednostce kogeneracji, wiążący się z poniesieniem kosztów inwestycyjnych nie mniejszych niż 25%, ale nie większych niż 50% jak na nową porównywalną jednostkę kogeneracji;
+- **14)** nowa jednostka kogeneracji – jednostkę kogeneracji, w czasie budowy której zainstalowano wyłącznie urządzenia wyprodukowane w okresie 60 miesięcy przed dniem wytworzenia po raz pierwszy energii elektrycznej w tej jednostce, przy czym: wytworzenie po raz pierwszy energii elektrycznej w jednostce o mocy zainstalowanej nie mniejszej niż 1 MW i mniejszej niż 50 MW nastąpiło nie wcześniej niż po dniu rozstrzygnięcia aukcji, wytworzenie po raz pierwszy energii elektrycznej w jednostce o mocy zainstalowanej nie mniejszej niż 50 MW nastąpiło nie wcześniej niż po dniu rozstrzygnięcia naboru;
+    - **a)**
+    - **b)**
+
+- **15)** nowa mała jednostka kogeneracji – małą jednostkę kogeneracji, w czasie budowy której zainstalowano wyłącznie urządzenia wyprodukowane w okresie 60 miesięcy przed dniem wytworzenia po raz pierwszy energii elektrycznej w tej jednostce, przy czym wytworzenie po raz pierwszy energii elektrycznej nastąpiło nie wcześniej niż w dniu 1 stycznia 2019 r.;
+- **16)** odbiorca – odbiorcę w rozumieniu art. 3 pkt 13 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **17)** odbiorca końcowy – odbiorcę końcowego w rozumieniu art. 3 pkt 13a ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **18)** odnawialne źródło energii – odnawialne źródło energii w rozumieniu art. 2 pkt 22 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii;
+- **19)** operator rozliczeń – podmiot, o którym mowa w art. 47 ustawy z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej (Dz. U. z 2018 r. poz. 1571 i 2538);
+- **20)** operator systemu dystrybucyjnego – operatora systemu dystrybucyjnego w rozumieniu art. 3 pkt 25 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **21)** operator systemu przesyłowego – operatora systemu przesyłowego w rozumieniu art. 3 pkt 24 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **22)** paliwa – paliwa w rozumieniu art. 3 pkt 3 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **23)** paliwa gazowe – paliwa gazowe w rozumieniu art. 3 pkt 3a ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, z wyłączeniem gazów: powstałych w wyniku procesów zgazowania paliw stałych, pozyskanych z odmetanowania kopalń, koksowniczych, innych odpadowych z procesów technologicznych;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **24)** paliwa stałe – stałe nośniki energii chemicznej;
+- **25)** płatnik opłaty kogeneracyjnej – operatora systemu dystrybucyjnego elektroenergetycznego obliczającego opłatę kogeneracyjną;
+- **26)** premia gwarantowana – dopłatę do: wytworzonej, wprowadzonej do sieci i sprzedanej energii elektrycznej z wysokosprawnej kogeneracji przez wytwórcę w: – zmodernizowanej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 1 MW i mniejszej niż 50 MW, – istniejącej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 1 MW i mniejszej niż 50 MW, wytworzonej energii elektrycznej z wysokosprawnej kogeneracji przez wytwórcę w: – nowej małej jednostce kogeneracji, – znacznie zmodernizowanej małej jednostce kogeneracji, – istniejącej małej jednostce kogeneracji, – zmodernizowanej małej jednostce kogeneracji, – istniejącej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 1 MW i mniejszej niż 50 MW opalanej metanem uwalnianym i ujmowanym przy dołowych robotach górniczych w czynnych, likwidowanych lub zlikwidowanych kopalniach węgla kamiennego, – zmodernizowanej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 1 MW i mniejszej niż 50 MW opalanej metanem uwalnianym i ujmowanym przy dołowych robotach górniczych w czynnych, likwidowanych lub zlikwidowanych kopalniach węgla kamiennego;
+    - **a)**
+    - **b)**
+
+- **27)** premia gwarantowana indywidualna – dopłatę do wytworzonej, wprowadzonej do sieci i sprzedanej energii elektrycznej z wysokosprawnej kogeneracji przez wytwórcę w: istniejącej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 50 MW, zmodernizowanej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 50 MW;
+    - **a)**
+    - **b)**
+
+- **28)** premia kogeneracyjna – dopłatę do wytworzonej, wprowadzonej do sieci i sprzedanej energii elektrycznej z wysokosprawnej kogeneracji przez wytwórcę w: nowej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 1 MW i mniejszej niż 50 MW, znacznie zmodernizowanej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 1 MW i mniejszej niż 50 MW który wygrał aukcję;
+    - **a)**
+    - **b)**
+
+- **29)** premia kogeneracyjna indywidualna – dopłatę do wytworzonej, wprowadzonej do sieci i sprzedanej energii elektrycznej z wysokosprawnej kogeneracji przez wytwórcę w: nowej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 50 MW, znacznie zmodernizowanej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 50 MW który wygrał nabór;
+    - **a)**
+    - **b)**
+
+- **30)** przedsiębiorstwo energetyczne – przedsiębiorstwo energetyczne w rozumieniu art. 3 pkt 12 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **31)** przesyłanie – przesyłanie w rozumieniu art. 3 pkt 4 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **32)** publiczna sieć ciepłownicza – sieć ciepłowniczą służącą do przesyłania i dystrybucji ciepła, które w ciągu roku kalendarzowego w co najmniej 50% wykorzystywane jest do ogrzewania lub chłodzenia budynków i przygotowania ciepłej wody użytkowej, do której przyłączona może zostać nieokreślona liczba odbiorców końcowych i do której jest już przyłączony co najmniej jeden odbiorca końcowy niebędący właścicielem, współwłaścicielem lub eksploatującym jednostkę kogeneracji przyłączonej i wprowadzającej ciepło do tej sieci ciepłowniczej;
+- **33)** referencyjna wartość sprawności dla wytwarzania rozdzielonego – referencyjną wartość sprawności dla wytwarzania rozdzielonego w rozumieniu art. 3 pkt 37 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **34)** sieci – sieci w rozumieniu art. 3 pkt 11 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **35)** sieć ciepłownicza – należące do przedsiębiorstwa energetycznego instalacje połączone i współpracujące ze sobą, służące do przesyłania lub dystrybucji ciepła;
+- **36)** sieć dystrybucyjna – sieć dystrybucyjną w rozumieniu art. 3 pkt 11b ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **37)** sieć przesyłowa – sieć przesyłową w rozumieniu art. 3 pkt 11a ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **38)** świadectwo efektywności energetycznej – świadectwo efektywności energetycznej w rozumieniu art. 20 ust. 1 i art. 57 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. poz. 831 oraz z 2018 r. poz. 650) oraz art. 20 ustawy z dnia 15 kwietnia 2011 r. o efektywności energetycznej (Dz. U. z 2015 r. poz. 2167 i 2359 oraz z 2016 r. poz. 266);
+- **39)** świadectwo pochodzenia – świadectwo pochodzenia w rozumieniu art. 44 ust. 1 oraz art. 186 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii;
+- **40)** świadectwo pochodzenia biogazu rolniczego – świadectwo pochodzenia w rozumieniu art. 48 ust. 1 oraz art. 186 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii;
+- **41)** świadectwo pochodzenia z kogeneracji – potwierdzenie przez Prezesa Urzędu Regulacji Energetyki, zwanego dalej „Prezesem URE”, na podstawie przepisów ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne wytworzenia do dnia 31 grudnia 2018 r. energii elektrycznej w wysokosprawnej kogeneracji w jednostce kogeneracji: opalanej paliwami gazowymi lub o łącznej mocy zainstalowanej elektrycznej źródła poniżej 1 MW, opalanej metanem uwalnianym i ujmowanym przy dołowych robotach górniczych w czynnych, likwidowanych lub zlikwidowanych kopalniach węgla kamiennego lub gazem uzyskiwanym z przetwarzania biomasy w rozumieniu art. 2 ust. 1 pkt 2 ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2018 r. poz. 1344, 1356 i 1629), innej niż wymieniona w lit. a i b;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **42)** wytwórca – podmiot, który ma siedzibę lub miejsce zamieszkania na terytorium państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, wytwarzający energię elektryczną w jednostce kogeneracji;
+- **43)** zmodernizowana jednostka kogeneracji – jednostkę kogeneracji, która została poddana modernizacji i w której wytworzenie po raz pierwszy energii elektrycznej w zmodernizowanej jednostce nastąpiło nie wcześniej niż w dniu 1 stycznia 2019 r.;
+- **44)** zmodernizowana mała jednostka kogeneracji – małą jednostkę kogeneracji, która została poddana modernizacji i w której wytworzenie po raz pierwszy energii elektrycznej w zmodernizowanej jednostce nastąpiło nie wcześniej niż w dniu 1 stycznia 2019 r.;
+- **45)** znaczna modernizacja – proces inwestycyjny, którego celem jest odtworzenie stanu pierwotnego lub zmiana parametrów użytkowych lub technicznych jednostki kogeneracji, w czasie którego zainstalowano urządzenia wyprodukowane w okresie 60 miesięcy przed dniem wytworzenia po raz pierwszy energii elektrycznej w znacznie zmodernizowanej jednostce kogeneracji, wiążące się z poniesieniem kosztów inwestycyjnych powyżej 50% jak na nową porównywalną jednostkę kogeneracji;
+- **46)** znacznie zmodernizowana jednostka kogeneracji – jednostkę kogeneracji, która została poddana znacznej modernizacji i w której wytworzenie po raz pierwszy energii elektrycznej w znacznie zmodernizowanej jednostce kogeneracji o mocy zainstalowanej: nie mniejszej niż 1 MW i mniejszej niż 50 MW – nastąpiło nie wcześniej niż po dniu rozstrzygnięcia aukcji, nie mniejszej niż 50 MW – nastąpiło nie wcześniej niż po dniu rozstrzygnięcia naboru;
+    - **a)**
+    - **b)**
+
+- **47)** znacznie zmodernizowana mała jednostka kogeneracji – małą jednostkę kogeneracji, która została poddana znacznej modernizacji i w której wytworzenie po raz pierwszy energii elektrycznej w znacznie zmodernizowanej małej jednostce kogeneracji nastąpiło nie wcześniej niż w dniu 1 stycznia 2019 r.
+
 **Art. 3.**
 
-1. Do postępowania przed Prezesem URE stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
+1. Do postępowania przed Prezesem URE stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096).
 
 2. Na decyzje oraz na postanowienia, od których przysługuje zażalenie, przysługuje odpowiednio odwołanie lub zażalenie do Sądu Okręgowego w Warszawie – sądu ochrony konkurencji i konsumentów.
 
@@ -56,9 +131,9 @@ Art. 95–98. (pominięte)
 2. Maksymalny okres wsparcia dla energii elektrycznej z wysokosprawnej kogeneracji dla jednostki, o której mowa w ust. 1, wynosi 15 lat, przy czym okres ten liczy się od dnia pierwszego, po dniu rozstrzygnięcia aukcji:
 
 - **1)** wytworzenia, wprowadzenia do sieci i sprzedaży energii elektrycznej z tej jednostki po uzyskaniu lub zmianie koncesji na wytwarzanie energii elektrycznej albo po uzyskaniu lub zmianie wpisu do rejestru wytwórców biogazu rolniczego, o którym mowa w art. 23 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, zwanego dalej „rejestrem wytwórców biogazu rolniczego” – w przypadku nowej jednostki kogeneracji,
-- **2)** wytworzenia, wprowadzenia do sieci i sprzedaży energii elektrycznej z tej jednostki po uzyskaniu lub zmianie koncesji na wytwarzanie energii elektrycznej albo po uzyskaniu lub zmianie wpisu do rejestru wytwórców biogazu rolniczego po zakończeniu znacznej modernizacji, o którym mowa w ust. 3 – w przypadku znacznie zmodernizowanej jednostki kogeneracji – nie dłużej jednak niż do dnia 31 grudnia 2048 r.
+- **2)** wytworzenia, wprowadzenia do sieci i sprzedaży energii elektrycznej z tej jednostki po uzyskaniu lub zmianie koncesji na wytwarzanie energii elektrycznej albo po uzyskaniu lub zmianie wpisu do rejestru wytwórców biogazu rolniczego po zakończeniu znacznej modernizacji, o którym mowa w ust. 3 – w przypadku znacznie zmodernizowanej jednostki kogeneracji nie dłużej jednak niż do dnia 31 grudnia 2048 r.
 
-3. Przez zakończenie znacznej modernizacji rozumie się dzień uzyskania pozwolenia na użytkowanie znacznie zmodernizowanej jednostki kogeneracji, jeżeli jego uzyskanie jest wymagane przepisami ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418), zwanej dalej „ustawą – Prawo budowlane”, lub pozwolenia na eksploatację urządzenia technicznego, jeżeli jego uzyskanie jest wymagane przepisami ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2024 r. poz. 1194), zależnie od tego, które z tych zdarzeń nastąpi później.
+3. Przez zakończenie znacznej modernizacji rozumie się dzień uzyskania pozwolenia na użytkowanie znacznie zmodernizowanej jednostki kogeneracji, jeżeli jego uzyskanie jest wymagane przepisami ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2018 r. poz. 1202, 1276, 1496, 1669 i 2245), zwanej dalej „ustawą – Prawo budowlane”, lub pozwolenia na eksploatację urządzenia technicznego, jeżeli jego uzyskanie jest wymagane przepisami ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2018 r. poz. 1351, 1356 i 2518), zależnie od tego, które z tych zdarzeń nastąpi później.
 
 **Art. 5.**
 
@@ -66,13 +141,13 @@ Art. 95–98. (pominięte)
 
 - **1)** zmodernizowanej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 1 MW i mniejszej niż 50 MW,
 - **2)** istniejącej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 1 MW i mniejszej niż 50 MW,
-- **3)** nowej małej jednostce kogeneracji, znacznie zmodernizowanej małej jednostce kogeneracji, istniejącej małej jednostce kogeneracji lub zmodernizowanej małej jednostce kogeneracji, wchodzącej w skład źródła o łącznej mocy zainstalowanej elektrycznej mniejszej niż 1 MW – może uzyskać wsparcie na zasadach określonych w rozdziale 4.
+- **3)** nowej małej jednostce kogeneracji, znacznie zmodernizowanej małej jednostce kogeneracji, istniejącej małej jednostce kogeneracji lub zmodernizowanej małej jednostce kogeneracji, wchodzącej w skład źródła o łącznej mocy zainstalowanej elektrycznej mniejszej niż 1 MW może uzyskać wsparcie na zasadach określonych w rozdziale 4.
 
 2. Maksymalny okres wsparcia dla energii elektrycznej z wysokosprawnej kogeneracji dla jednostki, o której mowa w ust. 1 pkt 1, wynosi:
 
-- **1)** 5 lat, przy czym okres ten liczy się od dnia pierwszego, po dniu dopuszczenia do systemu premii gwarantowanej, wytworzenia, wprowadzenia do sieci i sprzedaży energii elektrycznej z tej jednostki po zakończeniu modernizacji, o którym mowa w ust. 3 – w przypadku poniesienia kosztów inwestycyjnych modernizacji nie mniejszych niż 25 %, ale nie większych niż 33 % jak na porównywalną nową jednostkę kogeneracji,
-- **2)** 6 lat, przy czym okres ten liczy się od dnia pierwszego, po dniu dopuszczenia do systemu premii gwarantowanej, wytworzenia, wprowadzenia do sieci i sprzedaży energii elektrycznej z tej jednostki po zakończeniu modernizacji, o którym mowa w ust. 3 – w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 33 %, ale nie większych niż 40 % jak na porównywalną nową jednostkę kogeneracji,
-- **3)** 7 lat, przy czym okres ten liczy się od dnia pierwszego, po dniu dopuszczenia do systemu premii gwarantowanej, wytworzenia, wprowadzenia do sieci i sprzedaży energii elektrycznej z tej jednostki po zakończeniu modernizacji, o którym mowa w ust. 3 – w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 40 %, ale nie większych niż 50 % jak na porównywalną nową jednostkę kogeneracji – nie dłużej jednak niż do dnia 31 grudnia 2036 r.
+- **1)** 5 lat, przy czym okres ten liczy się od dnia pierwszego, po dniu dopuszczenia do systemu premii gwarantowanej, wytworzenia, wprowadzenia do sieci i sprzedaży energii elektrycznej z tej jednostki po zakończeniu modernizacji, o którym mowa w ust. 3 – w przypadku poniesienia kosztów inwestycyjnych modernizacji nie mniejszych niż 25%, ale nie większych niż 33% jak na porównywalną nową jednostkę kogeneracji,
+- **2)** 6 lat, przy czym okres ten liczy się od dnia pierwszego, po dniu dopuszczenia do systemu premii gwarantowanej, wytworzenia, wprowadzenia do sieci i sprzedaży energii elektrycznej z tej jednostki po zakończeniu modernizacji, o którym mowa w ust. 3 – w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 33%, ale nie większych niż 40% jak na porównywalną nową jednostkę kogeneracji,
+- **3)** 7 lat, przy czym okres ten liczy się od dnia pierwszego, po dniu dopuszczenia do systemu premii gwarantowanej, wytworzenia, wprowadzenia do sieci i sprzedaży energii elektrycznej z tej jednostki po zakończeniu modernizacji, o którym mowa w ust. 3 – w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 40%, ale nie większych niż 50% jak na porównywalną nową jednostkę kogeneracji nie dłużej jednak niż do dnia 31 grudnia 2036 r.
 
 3. Przez zakończenie modernizacji rozumie się dzień uzyskania pozwolenia na użytkowanie zmodernizowanej jednostki kogeneracji, jeżeli jego uzyskanie jest wymagane przepisami ustawy – Prawo budowlane, lub pozwolenia na eksploatację urządzenia technicznego, jeżeli jego uzyskanie jest wymagane przepisami ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym, zależnie od tego, które z tych zdarzeń nastąpi później.
 
@@ -86,15 +161,15 @@ Art. 95–98. (pominięte)
 
 6. Maksymalny okres wsparcia dla energii elektrycznej z wysokosprawnej kogeneracji dla zmodernizowanej małej jednostki kogeneracji, o której mowa w ust. 1 pkt 3, wynosi:
 
-- **1)** 5 lat, przy czym okres ten liczy się od dnia pierwszego, po dniu dopuszczenia do systemu premii gwarantowanej, wytworzenia energii elektrycznej z tej jednostki po zakończeniu modernizacji, o którym mowa w ust. 3 – w przypadku poniesienia kosztów inwestycyjnych modernizacji nie mniejszych niż 25 %, ale nie większych niż 33 % jak na porównywalną nową jednostkę kogeneracji,
-- **2)** 6 lat, przy czym okres ten liczy się od dnia pierwszego, po dniu dopuszczenia do systemu premii gwarantowanej, wytworzenia energii elektrycznej z tej jednostki po zakończeniu modernizacji, o którym mowa w ust. 3 – w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 33 %, ale nie większych niż 40 % jak na porównywalną nową jednostkę kogeneracji,
-- **3)** 7 lat, przy czym okres ten liczy się od dnia pierwszego, po dniu dopuszczenia do systemu premii gwarantowanej, wytworzenia energii elektrycznej z tej jednostki po zakończeniu modernizacji, o którym mowa w ust. 3 – w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 40 %, ale nie większych niż 50 % jak na porównywalną nową jednostkę kogeneracji – nie dłużej jednak niż do dnia 31 grudnia 2036 r.
+- **1)** 5 lat, przy czym okres ten liczy się od dnia pierwszego, po dniu dopuszczenia do systemu premii gwarantowanej, wytworzenia energii elektrycznej z tej jednostki po zakończeniu modernizacji, o którym mowa w ust. 3 – w przypadku poniesienia kosztów inwestycyjnych modernizacji nie mniejszych niż 25%, ale nie większych niż 33% jak na porównywalną nową jednostkę kogeneracji,
+- **2)** 6 lat, przy czym okres ten liczy się od dnia pierwszego, po dniu dopuszczenia do systemu premii gwarantowanej, wytworzenia energii elektrycznej z tej jednostki po zakończeniu modernizacji, o którym mowa w ust. 3 – w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 33%, ale nie większych niż 40% jak na porównywalną nową jednostkę kogeneracji,
+- **3)** 7 lat, przy czym okres ten liczy się od dnia pierwszego, po dniu dopuszczenia do systemu premii gwarantowanej, wytworzenia energii elektrycznej z tej jednostki po zakończeniu modernizacji, o którym mowa w ust. 3 – w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 40%, ale nie większych niż 50% jak na porównywalną nową jednostkę kogeneracji nie dłużej jednak niż do dnia 31 grudnia 2036 r.
 
 7. Maksymalny okres wsparcia dla energii elektrycznej z wysokosprawnej kogeneracji dla jednostki, o której mowa w ust. 1 pkt 1, opalanej metanem uwalnianym i ujmowanym przy dołowych robotach górniczych w czynnych, likwidowanych lub zlikwidowanych kopalniach węgla kamiennego, wynosi:
 
-- **1)** 5 lat, przy czym okres ten liczy się od dnia pierwszego, po dniu dopuszczenia do systemu premii gwarantowanej, wytworzenia energii elektrycznej z tej jednostki po zakończeniu modernizacji, o którym mowa w ust. 3 – w przypadku poniesienia kosztów inwestycyjnych modernizacji nie mniejszych niż 25 %, ale nie większych niż 33 % jak na porównywalną nową jednostkę kogeneracji,
-- **2)** 6 lat, przy czym okres ten liczy się od dnia pierwszego, po dniu dopuszczenia do systemu premii gwarantowanej, wytworzenia energii elektrycznej z tej jednostki po zakończeniu modernizacji, o którym mowa w ust. 3 – w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 33 %, ale nie większych niż 40 % jak na porównywalną nową jednostkę kogeneracji,
-- **3)** 7 lat, przy czym okres ten liczy się od dnia pierwszego, po dniu dopuszczenia do systemu premii gwarantowanej, wytworzenia energii elektrycznej z tej jednostki po zakończeniu modernizacji, o którym mowa w ust. 3 – w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 40 %, ale nie większych niż 50 % jak na porównywalną nową jednostkę kogeneracji – nie dłużej jednak niż do dnia 31 grudnia 2036 r.
+- **1)** 5 lat, przy czym okres ten liczy się od dnia pierwszego, po dniu dopuszczenia do systemu premii gwarantowanej, wytworzenia energii elektrycznej z tej jednostki po zakończeniu modernizacji, o którym mowa w ust. 3 – w przypadku poniesienia kosztów inwestycyjnych modernizacji nie mniejszych niż 25%, ale nie większych niż 33% jak na porównywalną nową jednostkę kogeneracji,
+- **2)** 6 lat, przy czym okres ten liczy się od dnia pierwszego, po dniu dopuszczenia do systemu premii gwarantowanej, wytworzenia energii elektrycznej z tej jednostki po zakończeniu modernizacji, o którym mowa w ust. 3 – w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 33%, ale nie większych niż 40% jak na porównywalną nową jednostkę kogeneracji,
+- **3)** 7 lat, przy czym okres ten liczy się od dnia pierwszego, po dniu dopuszczenia do systemu premii gwarantowanej, wytworzenia energii elektrycznej z tej jednostki po zakończeniu modernizacji, o którym mowa w ust. 3 – w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 40%, ale nie większych niż 50% jak na porównywalną nową jednostkę kogeneracji nie dłużej jednak niż do dnia 31 grudnia 2036 r.
 
 8. Maksymalny okres wsparcia dla energii elektrycznej z wysokosprawnej kogeneracji dla jednostki, o której mowa w ust. 1 pkt 2, opalanej metanem uwalnianym i ujmowanym przy dołowych robotach górniczych w czynnych, likwidowanych lub zlikwidowanych kopalniach węgla kamiennego wynosi 15 lat, przy czym okres ten liczy się od dnia pierwszego wytworzenia energii elektrycznej z wysokosprawnej kogeneracji potwierdzonego wydanym świadectwem pochodzenia z kogeneracji, nie dłużej jednak niż do dnia 31 grudnia 2035 r.
 
@@ -106,18 +181,18 @@ Art. 95–98. (pominięte)
 
 - **1)** nowej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 50 MW lub znacznie zmodernizowanej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 50 MW,
 - **2)** zmodernizowanej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 50 MW,
-- **3)** istniejącej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 50 MW – może uzyskać wsparcie na zasadach określonych w rozdziale 5.
+- **3)** istniejącej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 50 MW może uzyskać wsparcie na zasadach określonych w rozdziale 5.
 
 2. Maksymalny okres wsparcia dla energii elektrycznej z wysokosprawnej kogeneracji dla jednostki, o której mowa w ust. 1 pkt 1, wynosi 15 lat, przy czym okres ten liczy się od dnia pierwszego, po dniu rozstrzygnięcia naboru:
 
 - **1)** wytworzenia, wprowadzenia do sieci i sprzedaży energii elektrycznej z tej jednostki po uzyskaniu lub zmianie koncesji na wytwarzanie energii elektrycznej albo po uzyskaniu lub zmianie wpisu do rejestru wytwórców biogazu rolniczego – w przypadku nowej jednostki kogeneracji,
-- **2)** wytworzenia, wprowadzenia do sieci i sprzedaży energii elektrycznej po uzyskaniu lub zmianie koncesji na wytwarzanie energii elektrycznej albo po uzyskaniu lub zmianie wpisu do rejestru wytwórców biogazu rolniczego, po zakończeniu znacznej modernizacji, o którym mowa w art. 4 ust. 3 – w przypadku znacznie zmodernizowanej jednostki kogeneracji – nie dłużej jednak niż do dnia 31 grudnia 2048 r.
+- **2)** wytworzenia, wprowadzenia do sieci i sprzedaży energii elektrycznej po uzyskaniu lub zmianie koncesji na wytwarzanie energii elektrycznej albo po uzyskaniu lub zmianie wpisu do rejestru wytwórców biogazu rolniczego, po zakończeniu znacznej modernizacji, o którym mowa w art. 4 ust. 3 – w przypadku znacznie zmodernizowanej jednostki kogeneracji nie dłużej jednak niż do dnia 31 grudnia 2048 r.
 
 3. Maksymalny okres wsparcia dla energii elektrycznej z wysokosprawnej kogeneracji dla jednostki, o której mowa w ust. 1 pkt 2, wynosi:
 
-- **1)** 5 lat, przy czym okres ten liczy się od dnia pierwszego, po dniu dopuszczenia do systemu premii gwarantowanej indywidualnej, wytworzenia, wprowadzenia do sieci i sprzedaży energii elektrycznej z tej jednostki po zakończeniu modernizacji, o którym mowa w art. 5 ust. 3 – w przypadku poniesienia kosztów inwestycyjnych modernizacji nie mniejszych niż 25 %, ale nie większych niż 33 % jak na porównywalną nową jednostkę kogeneracji,
-- **2)** 6 lat, przy czym okres ten liczy się od dnia pierwszego, po dniu dopuszczenia do systemu premii gwarantowanej indywidualnej, wytworzenia, wprowadzenia do sieci i sprzedaży energii elektrycznej z tej jednostki po zakończeniu modernizacji, o którym mowa w art. 5 ust. 3 – w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 33 %, ale nie większych niż 40 % jak na porównywalną nową jednostkę kogeneracji,
-- **3)** 7 lat, przy czym okres ten liczy się od dnia pierwszego, po dniu dopuszczenia do systemu premii gwarantowanej indywidualnej, wytworzenia, wprowadzenia do sieci i sprzedaży energii elektrycznej z tej jednostki po zakończeniu modernizacji, o którym mowa w art. 5 ust. 3 – w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 40 %, ale nie większych niż 50 % jak na porównywalną nową jednostkę kogeneracji – nie dłużej jednak niż do dnia 31 grudnia 2036 r.
+- **1)** 5 lat, przy czym okres ten liczy się od dnia pierwszego, po dniu dopuszczenia do systemu premii gwarantowanej indywidualnej, wytworzenia, wprowadzenia do sieci i sprzedaży energii elektrycznej z tej jednostki po zakończeniu modernizacji, o którym mowa w art. 5 ust. 3 – w przypadku poniesienia kosztów inwestycyjnych modernizacji nie mniejszych niż 25%, ale nie większych niż 33% jak na porównywalną nową jednostkę kogeneracji,
+- **2)** 6 lat, przy czym okres ten liczy się od dnia pierwszego, po dniu dopuszczenia do systemu premii gwarantowanej indywidualnej, wytworzenia, wprowadzenia do sieci i sprzedaży energii elektrycznej z tej jednostki po zakończeniu modernizacji, o którym mowa w art. 5 ust. 3 – w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 33%, ale nie większych niż 40% jak na porównywalną nową jednostkę kogeneracji,
+- **3)** 7 lat, przy czym okres ten liczy się od dnia pierwszego, po dniu dopuszczenia do systemu premii gwarantowanej indywidualnej, wytworzenia, wprowadzenia do sieci i sprzedaży energii elektrycznej z tej jednostki po zakończeniu modernizacji, o którym mowa w art. 5 ust. 3 – w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 40%, ale nie większych niż 50% jak na porównywalną nową jednostkę kogeneracji nie dłużej jednak niż do dnia 31 grudnia 2036 r.
 
 4. Maksymalny okres wsparcia dla energii elektrycznej z wysokosprawnej kogeneracji dla jednostki, o której mowa w ust. 1 pkt 3, wynosi 15 lat, przy czym okres ten liczy się od dnia pierwszego wytworzenia energii elektrycznej z wysokosprawnej kogeneracji potwierdzonego wydanym świadectwem pochodzenia z kogeneracji, nie dłużej jednak niż do dnia 31 grudnia 2035 r.
 
@@ -125,13 +200,18 @@ Art. 95–98. (pominięte)
 
 **Art. 7.** Wytwórca energii elektrycznej wytworzonej w wysokosprawnej kogeneracji w:
 
+- **1)** nowej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 300 MW,
+- **2)** znacznie zmodernizowanej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 300 MW,
+- **3)** istniejącej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 300 MW,
+- **4)** zmodernizowanej jednostce kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 300 MW może uzyskać wsparcie na zasadach określonych w rozdziale 5, na podstawie art. 108 ust. 3 Traktatu o funkcjonowaniu Unii Europejskiej, po ogłoszeniu przez Komisję Europejską decyzji o zgodności pomocy indywidualnej dla wytwórcy energii elektrycznej w tej jednostce kogeneracji z rynkiem wewnętrznym.
+
 **Art. 8.** Wytwórca energii elektrycznej wytworzonej w jednostce kogeneracji, w której do wytworzenia energii elektrycznej i ciepła zużywa się więcej niż jeden rodzaj paliwa, o którym mowa w art. 15 ust. 5, wsparcie, o którym mowa w rozdziałach 4 i 5, przysługuje w wysokości obliczonej proporcjonalnie do procentowego udziału energii chemicznej danego paliwa w łącznej ilości energii chemicznej paliw zużywanych do wytwarzania energii elektrycznej i ciepła w tej jednostce.
 
 **Art. 9.** Wsparcie, o którym mowa w rozdziałach 3 i 5, nie przysługuje dla nowej jednostki kogeneracji, jeżeli ciepło wytworzone w tej jednostce będzie wprowadzane do publicznej sieci ciepłowniczej zasilanej przez istniejącą jednostkę kogeneracji, z wyłączeniem przypadku, gdy nowa jednostka kogeneracji zastępuje jedną lub więcej jednostek wytwórczych lub stanowi niezbędną rozbudowę jednostek wytwórczych, w celu zapewnienia dostarczania ciepła do tej sieci ciepłowniczej.
 
 **Art. 10.**
 
-1. Wsparcie, o którym mowa w rozdziałach 3–5, nie przysługuje wytwórcy energii elektrycznej z wysokosprawnej kogeneracji w jednostce kogeneracji w godzinach dostawy, dla których średnie ważone wolumenem transakcji sesyjnych giełdowych ceny energii elektrycznej publikowane przez podmiot prowadzący giełdę towarową w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2024 r. poz. 910 i 1881) lub przez podmiot prowadzący wielostronną platformę obrotu w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722 i 1863 oraz z 2025 r. poz. 146) były niższe niż 0 złotych za 1 MWh przez co najmniej sześć kolejnych godzin dostawy energii elektrycznej w trakcie których zawierane są transakcje sesyjne giełdowe wykonywane z dostawą energii elektrycznej następującą w pierwszym i drugim dniu po zawarciu transakcji sesyjnej.
+1. Wsparcie, o którym mowa w rozdziałach 3–5, nie przysługuje wytwórcy energii elektrycznej z wysokosprawnej kogeneracji w jednostce kogeneracji w godzinach dostawy, dla których średnie ważone wolumenem transakcji sesyjnych giełdowych ceny energii elektrycznej publikowane przez podmiot prowadzący giełdę towarową w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2018 r. poz. 622, 685 i 771) lub przez podmiot prowadzący wielostronną platformę obrotu w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2018 r. poz. 2286, 2243 i 2244) były niższe niż 0 złotych za 1 MWh przez co najmniej sześć kolejnych godzin dostawy energii elektrycznej w trakcie których zawierane są transakcje sesyjne giełdowe wykonywane z dostawą energii elektrycznej następującą w pierwszym i drugim dniu po zawarciu transakcji sesyjnej.
 
 2. Wsparcie, o którym mowa w rozdziałach 3–5, przysługuje wytwórcy energii elektrycznej wytworzonej w wysokosprawnej kogeneracji w jednostce kogeneracji, jeżeli wytworzona energia jest opomiarowana w sposób:
 
@@ -139,6 +219,15 @@ Art. 95–98. (pominięte)
 - **2)** uniemożliwiający ustalenie ilości wytworzonej energii elektrycznej w przedziałach godzinowych – w takim przypadku do ustalenia wielkości przysługującego wsparcia przyjmuje się ilość energii elektrycznej, jaka mogłaby zostać wytworzona w tej jednostce w godzinach, o których mowa w ust. 1, przy założeniu, że jednostka ta pracowała w tym czasie z mocą równą mocy zainstalowanej elektrycznej.
 
 **Art. 11.** Wsparcie, o którym mowa w rozdziałach 3–5, nie przysługuje:
+
+- **1)** wytwórcy energii elektrycznej wytworzonej w wysokosprawnej kogeneracji dla ilości energii elektrycznej, w odniesieniu do której korzysta on z prawa do wynagrodzenia z tytułu świadczenia na rzecz operatora systemu przesyłowego elektroenergetycznego usługi, o której mowa w art. 16 ust. 2 pkt 3 ustawy z dnia 8 grudnia 2017 r. o rynku mocy (Dz. U. z 2018 r. poz. 9);
+- **2)** instalacji odnawialnego źródła energii, w odniesieniu do której wytwórca energii elektrycznej z odnawialnych źródeł energii w tej instalacji korzysta z: systemu wsparcia świadectw pochodzenia, o którym mowa w ustawie z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, albo systemu wsparcia świadectw pochodzenia biogazu rolniczego, o którym mowa w ustawie z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, albo systemu wsparcia, o którym mowa w art. 70a-70f ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, albo aukcyjnego systemu wsparcia, o którym mowa w ustawie z dnia 20 lutego 2015 r. o odnawialnych źródłach energii;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **3)** wytwórcy energii elektrycznej wytworzonej w wysokosprawnej kogeneracji w nowej małej jednostce kogeneracji, znacznie zmodernizowanej małej jednostce kogeneracji, istniejącej małej jednostce kogeneracji lub zmodernizowanej małej jednostce kogeneracji, opalanej wyłącznie paliwem, o którym mowa w art. 3 pkt 3b lit. j lub k ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.
 
 **Art. 12.** Na nabywcę jednostki kogeneracji uczestniczącej w systemie wsparcia, o którym mowa w rozdziałach 3–5, z dniem nabycia tej jednostki, przechodzą wszystkie prawa i obowiązki zbywcy jednostki kogeneracji, wynikające z przepisów ustawy dotyczących wsparcia udzielonego tej jednostce.
 
@@ -154,23 +243,21 @@ Art. 95–98. (pominięte)
 
 2. Do pomocy inwestycyjnej, o której mowa w ust. 1, nie zalicza się:
 
-- **1)** wartości praw majątkowych wynikających ze:
-    - **a)** świadectw pochodzenia z kogeneracji,
-    - **b)** świadectw pochodzenia,
-    - **c)** świadectw pochodzenia biogazu rolniczego,
-    - **d)** świadectw efektywności energetycznej,
-    - **e)** przyznanych bezpłatnych pozwoleń na emisję gazów cieplarnianych przydzielonych jednostce kogeneracji na podstawie art. 10c dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady z dnia 13 października 2003 r. ustanawiającej system handlu przydziałami emisji gazów cieplarnianych w Unii oraz zmieniającej dyrektywę Rady 96/61/WE (Dz. Urz. UE L 275 z
-
-25. 10.2003, str. 32, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rodz. 15, t. 7, str. 631) w odniesieniu do jednostek, które w danym roku korzystają z prawa do wynagrodzenia wolumenu mocy objętego w wyniku aukcji mocy obowiązkiem mocowym, o którym mowa w art. 57 ust. 1 ustawy z dnia 8 grudnia 2017 r. o rynku mocy;
+- **1)** wartości praw majątkowych wynikających ze: świadectw pochodzenia z kogeneracji, świadectw pochodzenia, świadectw pochodzenia biogazu rolniczego, świadectw efektywności energetycznej, przyznanych bezpłatnych pozwoleń na emisję gazów cieplarnianych przydzielonych jednostce kogeneracji na podstawie art. 10c dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady z dnia 13 października 2003 r. ustanawiającej system handlu przydziałami emisji gazów cieplarnianych w Unii oraz zmieniającej dyrektywę Rady 96/61/WE (Dz. Urz. UE L 275 z 25.10.2003, str. 32, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rodz. 15, t. 7, str. 631) w odniesieniu do jednostek, które w danym roku korzystają z prawa do wynagrodzenia wolumenu mocy objętego w wyniku aukcji mocy obowiązkiem mocowym, o którym mowa w art. 57 ust. 1 ustawy z dnia 8 grudnia 2017 r. o rynku mocy;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 - **2)** środków na pokrycie kosztów osieroconych otrzymanych na podstawie przepisów ustawy z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej;
 - **3)** pomocy przeznaczonej na budowę lub eksploatację tej jednostki kogeneracji, mających miejsce przed rozpoczęciem robót związanych z modernizacją lub znaczną modernizacją tych jednostek, w przypadku modernizacji lub znacznej modernizacji jednostki kogeneracji lub małej jednostki kogeneracji.
 
-3. Wartość pomocy inwestycyjnej, o której mowa w ust. 1, jest wyrażana w kwocie pieniężnej, po przeliczeniu jej w sposób pozwalający na ustalenie kwoty, jaką otrzymałby beneficjent pomocy, gdyby została ona udzielona w formie dotacji, zgodnie z przepisami wydanymi na podstawie art. 11 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2023 r. poz. 702 oraz z 2024 r. poz. 1635).
+3. Wartość pomocy inwestycyjnej, o której mowa w ust. 1, jest wyrażana w kwocie pieniężnej, po przeliczeniu jej w sposób pozwalający na ustalenie kwoty, jaką otrzymałby beneficjent pomocy, gdyby została ona udzielona w formie dotacji, zgodnie z przepisami wydanymi na podstawie art. 11 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2018 r. poz. 362).
 
-4. Wartość pomocy inwestycyjnej, o której mowa w ust. 1, oblicza się na dzień złożenia oferty, o której mowa w art. 21 ust. 1, albo wniosku, o którym mowa w art. 30 ust. 1, według następującego wzoru: PI = ∑(PI ∗∏(1+r )) gdzie poszczególne symbole oznaczają: PI – sumę zwaloryzowanej wartości pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, PI – wartość w roku „i” pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, udzieloną w danym roku „i”, j – rok kalendarzowy, w którym wytwórca złożył ofertę, o której mowa w art. 21 ust. 1, albo wniosek, o którym mowa w art. 30 ust. 1, i – kolejne lata kalendarzowe liczone od roku kalendarzowego „u” do roku kalendarzowego „j”, u – rok kalendarzowy, w którym wytwórcy po raz pierwszy udzielono pomocy inwestycyjnej dla danej jednostki kogeneracji, oznaczonej symbolem PI , r – stopę referencyjną, wyrażoną w ułamku dziesiętnym, będącą spadkiem lub wzrostem średniorocznego wskaźnika cen towarów i usług konsumpcyjnych ogółem w roku „i” określonym w komunikacie Prezesa Głównego Urzędu Statystycznego, zwanego dalej „Prezesem GUS”, ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przy czym wartość r dla roku kalendarzowego „j” wynosi 0; w przypadku gdy do dnia złożenia oferty, o której mowa w art. 21 ust. 1, albo wniosku, o którym mowa w art. 30 ust. 1, stopa referencyjna w roku „i” nie została ogłoszona, należy przyjąć spadek lub wzrost wskaźnika cen towarów i usług konsumpcyjnych z listopada roku „i”, w ujęciu rok do roku.
+4. Wartość pomocy inwestycyjnej, o której mowa w ust. 1, oblicza się na dzień złożenia oferty, o której mowa w art. 21 ust. 1, albo wniosku, o którym mowa w art. 30 ust. 1, według następującego wzoru: \( PI_c = \sum\limits_{i = u}^j {\left( {PI_i * \prod\limits_i^j {\left( {1 + r_i } \right)} } \right)} \) ogólne symbole oznaczają: PIc – sumę zwaloryzowanej wartości pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, PIi – wartość w roku „i” pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, udzieloną w danym roku „i”, j – rok kalendarzowy, w którym wytwórca złożył ofertę, o której mowa w art. 21 ust. 1, albo wniosek, o którym mowa w art. 30 ust. 1, i – kolejne lata kalendarzowe liczone od roku kalendarzowego „u” do roku kalendarzowego „j”, u – rok kalendarzowy, w którym wytwórcy po raz pierwszy udzielono pomocy inwestycyjnej dla danej jednostki kogeneracji, oznaczonej symbolem PIi, ri – stopę referencyjną, wyrażoną w ułamku dziesiętnym, będącą spadkiem lub wzrostem średniorocznego wskaźnika cen towarów i usług konsumpcyjnych ogółem w roku „i” określonym w komunikacie Prezesa Głównego Urzędu Statystycznego, zwanego dalej „Prezesem GUS”, ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przy czym wartość ri dla roku kalendarzowego „j” wynosi 0; w przypadku gdy do dnia złożenia oferty, o której mowa w art. 21 ust. 1, albo wniosku, o którym mowa w art. 30 ust. 1, stopa referencyjna w roku „i” nie została ogłoszona, należy przyjąć spadek lub wzrost wskaźnika cen towarów i usług konsumpcyjnych z listopada roku „i”, w ujęciu rok do roku.
 
-5. Wytwórcy, o których mowa w ust. 1, dokonują obliczenia premii kogeneracyjnej skorygowanej albo premii gwarantowanej skorygowanej według następującego wzoru: C = C PI − I gdzie poszczególne symbole oznaczają: C – premię kogeneracyjną skorygowaną albo premię gwarantowaną skorygowaną, wyrażoną w zł/MWh; w przypadku wytwórcy, który nie otrzymał pomocy inwestycyjnej, o której mowa w ust. 1, wartość C jest równa wartości C , C – premię kogeneracyjną wynikającą z oferty złożonej przez wytwórcę albo premię gwarantowaną przed skorygowaniem, wyrażoną w zł/MWh, PI – sumę zwaloryzowanej wartości pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, obliczoną zgodnie z ust. 4, I – ilość energii elektrycznej, wyrażoną w MWh, zaoferowanej przez wytwórcę w ofercie, o której mowa w art. 21 ust. 1, albo co do której wytwórca zobowiązał się, we wniosku, o którym mowa w art. 30 ust. 1, do sprzedaży albo wytworzenia.
+5. Wytwórcy, o których mowa w ust. 1, dokonują obliczenia premii kogeneracyjnej skorygowanej albo premii gwarantowanej skorygowanej według następującego wzoru: \( C_s = C_O – {{PI_c } \over I} \) gdzie poszczególne symbole oznaczają: Cs – premię kogeneracyjną skorygowaną albo premię gwarantowaną skorygowaną, wyrażoną w zł/MWh; w przypadku wytwórcy, który nie otrzymał pomocy inwestycyjnej, o której mowa w ust. 1, wartość Cs jest równa wartości Co, Co – premię kogeneracyjną wynikającą z oferty złożonej przez wytwórcę albo premię gwarantowaną przed skorygowaniem, wyrażoną w zł/MWh, PIc- sumę zwaloryzowanej wartości pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, obliczoną zgodnie z ust. 4, I – ilość energii elektrycznej, wyrażoną w MWh, zaoferowanej przez wytwórcę w ofercie, o której mowa w art. 21 ust. 1, albo co do której wytwórca zobowiązał się, we wniosku, o którym mowa w art. 30 ust. 1, do sprzedaży albo wytworzenia.
 
 6. Oświadczenie zawarte w ofercie, o której mowa w art. 21 ust. 1, albo wniosku, o którym mowa w art. 30 ust. 1, zawiera informację o wartości udzielonej pomocy inwestycyjnej, o której mowa w ust. 1, oraz o wysokości premii kogeneracyjnej skorygowanej albo premii gwarantowanej skorygowanej, obliczonej zgodnie z ust. 5.
 
@@ -179,9 +266,9 @@ Art. 95–98. (pominięte)
 - **1)** wartość tej pomocy inwestycyjnej przeliczoną zgodnie z ust. 3;
 - **2)** datę udzielenia tej pomocy inwestycyjnej;
 - **3)** wskazanie podmiotu udzielającego tej pomocy inwestycyjnej;
-- **4)** wartość nowej premii kogeneracyjnej skorygowanej albo nowej premii gwarantowanej skorygowanej, obliczonej według następującego wzoru: C = C PI − I gdzie poszczególne symbole oznaczają: C – nową premię kogeneracyjną skorygowaną albo nową premię gwarantowaną skorygowaną, wyrażoną w zł/MWh, która staje się premią kogeneracyjną skorygowaną albo premią gwarantowaną skorygowaną (C ) obowiązującą od miesiąca następującego po miesiącu złożenia oświadczenia, o którym mowa w ust. 6, C – premię kogeneracyjną skorygowaną albo premię gwarantowaną skorygowaną, wyrażoną w zł/MWh, obowiązującą do końca miesiąca, w którym złożono oświadczenie, PI – wartość udzielonej pomocy inwestycyjnej lub wzrost wartości tej pomocy, wyrażoną w złotych, o której mowa w ust. 1, udzielonej po dniu złożenia oświadczenia, o którym mowa w art. 21 ust. 3 pkt 10 albo w art. 30 ust. 3 pkt 14, przeliczoną zgodnie z ust. 3, I – ilość energii elektrycznej, wyrażoną w MWh, zawartą w ofercie, o której mowa w art. 21 ust. 1, albo co do której wytwórca zobowiązał się we wniosku, o którym mowa w art. 30 ust. 1, do sprzedaży albo wytworzenia, pomniejszoną o ilość energii elektrycznej wytworzonej, wprowadzonej do sieci i sprzedanej w ramach aukcji albo w związku z przyznaną premią gwarantowaną do końca miesiąca poprzedzającego miesiąc, w którym udzielono pomocy inwestycyjnej PI; w przypadku nowej małej jednostki kogeneracji, znacznie zmodernizowanej małej jednostki kogeneracji, zmodernizowanej małej jednostki kogeneracji oraz jednostki kogeneracji, o której mowa w art. 5 ust. 1 pkt 1, opalanej metanem uwalnianym i ujmowanym przy dołowych robotach górniczych w czynnych, likwidowanych lub zlikwidowanych kopalniach węgla kamiennego, przyjmuje się ilość energii elektrycznej wytworzonej w danej jednostce.
+- **4)** wartość nowej premii kogeneracyjnej skorygowanej albo nowej premii gwarantowanej skorygowanej, obliczonej według następującego wzoru: \( C_{sn} = C_s – {{PI_{} } \over {I_p }} \) gdzie poszczególne symbole oznaczają: Csn – nową premię kogeneracyjną skorygowaną albo nową premię gwarantowaną skorygowaną, wyrażoną w zł/MWh, która staje się premią kogeneracyjną skorygowaną albo premią gwarantowaną skorygowaną (Cs) obowiązującą od miesiąca następującego po miesiącu złożenia oświadczenia, o którym mowa w ust. 6, Cs – premię kogeneracyjną skorygowaną albo premię gwarantowaną skorygowaną, wyrażoną w zł/MWh, obowiązującą do końca miesiąca, w którym złożono oświadczenie, PI – wartość udzielonej pomocy inwestycyjnej lub wzrost wartości tej pomocy, wyrażoną w złotych, o której mowa w ust. 1, udzielonej po dniu złożenia oświadczenia, o którym mowa w art. 21 ust. 3 pkt 10 albo w art. 30 ust. 3 pkt 14, przeliczoną zgodnie z ust. 3, Ip – ilość energii elektrycznej, wyrażoną w MWh, zawartą w ofercie, o której mowa w art. 21 ust. 1, albo co do której wytwórca zobowiązał się we wniosku, o którym mowa w art. 30 ust. 1, do sprzedaży albo wytworzenia, pomniejszoną o ilość energii elektrycznej wytworzonej, wprowadzonej do sieci i sprzedanej w ramach aukcji albo w związku z przyznaną premią gwarantowaną do końca miesiąca poprzedzającego miesiąc, w którym udzielono pomocy inwestycyjnej PI; w przypadku nowej małej jednostki kogeneracji, znacznie zmodernizowanej małej jednostki kogeneracji, zmodernizowanej małej jednostki kogeneracji oraz jednostki kogeneracji, o której mowa w art. 5 ust. 1 pkt 1, opalanej metanem uwalnianym i ujmowanym przy dołowych robotach górniczych w czynnych, likwidowanych lub zlikwidowanych kopalniach węgla kamiennego, przyjmuje się ilość energii elektrycznej wytworzonej w danej jednostce.
 
-8. O wysokości nowej premii kogeneracyjnej skorygowanej albo nowej premii gwarantowanej skorygowanej (C ), o której mowa w ust. 7, wytwórca powiadamia operatora rozliczeń, w terminie wskazanym w ust. 7.
+8. O wysokości nowej premii kogeneracyjnej skorygowanej albo nowej premii gwarantowanej skorygowanej (Csn), o której mowa w ust. 7, wytwórca powiadamia operatora rozliczeń, w terminie wskazanym w ust. 7.
 
 9. Wytwórca, o którym mowa w ust. 1, którego oferta wygrała aukcję albo któremu przyznano premię gwarantowaną, przekazuje Prezesowi URE, w całym okresie wsparcia, w terminie 30 dni od zakończenia roku kalendarzowego, oświadczenie o nieuzyskaniu pomocy inwestycyjnej, o której mowa w ust. 1, w poprzednim roku kalendarzowym, albo oświadczenie o wartości tej pomocy, przeliczonej zgodnie z ust. 3, zawierające datę jej udzielenia oraz wskazanie podmiotu udzielającego tej pomocy inwestycyjnej.
 
@@ -206,54 +293,52 @@ Art. 95–98. (pominięte)
 5. W celu wskazania największego udziału rodzaju paliwa, wytwórca ustala w jednostce kogeneracji część energii elektrycznej odpowiadającej udziałowi energii chemicznej dla:
 
 - **1)** paliwa gazowego,
-- **2)** (uchylony)
+- **2)** paliwa stałego,
 - **3)** biomasy,
-- **4)** paliw innych niż wymienione w pkt 1 i 3, z wyłączeniem paliw węglowych – w energii chemicznej paliw zużywanych do wytwarzania energii ogółem, obliczoną na podstawie rzeczywistych wartości opałowych tych paliw.
+- **4)** paliw innych niż wymienione w pkt 1–3 w energii chemicznej paliw zużywanych do wytwarzania energii ogółem, obliczoną na podstawie rzeczywistych wartości opałowych tych paliw.
 
 6. Wartości referencyjne dla znacznie zmodernizowanych jednostek kogeneracji wynikają z korekty odpowiednich wartości referencyjnych nowych jednostek kogeneracji o następujące współczynniki:
 
-- **1)** 0,68 dla znacznie zmodernizowanych jednostek kogeneracji, o których mowa w ust. 7 pkt 1, w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 50 %, ale nie większych niż 60 % jak na porównywalną nową jednostkę kogeneracji;
-- **2)** 0,76 dla znacznie zmodernizowanych jednostek kogeneracji, o których mowa w ust. 7 pkt 1, w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 60 %, ale nie większych niż 70 % jak na porównywalną nową jednostkę kogeneracji;
-- **3)** 0,84 dla znacznie zmodernizowanych jednostek kogeneracji, o których mowa w ust. 7 pkt 1, w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 70 %, ale nie większych niż 80 % jak na porównywalną nową jednostkę kogeneracji;
-- **4)** 0,92 dla znacznie zmodernizowanych jednostek kogeneracji, o których mowa w ust. 7 pkt 1, w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 80 %, ale nie większych niż 90 % jak na porównywalną nową jednostkę kogeneracji;
-- **5)** 1,00 dla znacznie zmodernizowanych jednostek kogeneracji, o których mowa w ust. 7 pkt 1, w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 90 %, ale nie większych niż 100 % jak na porównywalną nową jednostkę kogeneracji;
-- **6)** 0,40 dla znacznie zmodernizowanych jednostek kogeneracji, o których mowa w ust. 7 pkt 2 i 3, w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 50 %, ale nie większych niż 60 % jak na porównywalną nową jednostkę kogeneracji;
-- **7)** 0,55 dla znacznie zmodernizowanych jednostek kogeneracji, o których mowa w ust. 7 pkt 2 i 3, w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 60 %, ale nie większych niż 70 % jak na porównywalną nową jednostkę kogeneracji;
-- **8)** 0,70 dla znacznie zmodernizowanych jednostek kogeneracji, o których mowa w ust. 7 pkt 2 i 3, w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 70 %, ale nie większych niż 80 % jak na porównywalną nową jednostkę kogeneracji;
-- **9)** 0,85 dla znacznie zmodernizowanych jednostek kogeneracji, o których mowa w ust. 7 pkt 2 i 3, w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 80 %, ale nie większych niż 90 % jak na porównywalną nową jednostkę kogeneracji;
-- **10)** 1,00 dla znacznie zmodernizowanych jednostek kogeneracji, o których mowa w ust. 7 pkt 2 i 3, w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 90 %, ale nie większych niż 100 % jak na porównywalną nową jednostkę kogeneracji;
-- **11)** 0,60 dla znacznie zmodernizowanych jednostek kogeneracji, o których mowa w ust. 7 pkt 4, w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 50 %, ale nie większych niż 60 % jak na porównywalną nową jednostkę kogeneracji;
-- **12)** 0,68 dla znacznie zmodernizowanych jednostek kogeneracji, o których mowa w ust. 7 pkt 4, w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 60 %, ale nie większych niż 70 % jak na porównywalną nową jednostkę kogeneracji;
-- **13)** 0,76 dla znacznie zmodernizowanych jednostek kogeneracji, o których mowa w ust. 7 pkt 4, w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 70 %, ale nie większych niż 80 % jak na porównywalną nową jednostkę kogeneracji;
-- **14)** 0,88 dla znacznie zmodernizowanych jednostek kogeneracji, o których mowa w ust. 7 pkt 4, w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 80 %, ale nie większych niż 90 % jak na porównywalną nową jednostkę kogeneracji;
-- **15)** 1,00 dla znacznie zmodernizowanych jednostek kogeneracji, o których mowa w ust. 7 pkt 4, w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 90 %, ale nie większych niż 100 % jak na porównywalną nową jednostkę kogeneracji.
+- **1)** 0,68 dla znacznie zmodernizowanych jednostek kogeneracji, o których mowa w ust. 7 pkt 1, w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 50%, ale nie większych niż 60% jak na porównywalną nową jednostkę kogeneracji;
+- **2)** 0,76 dla znacznie zmodernizowanych jednostek kogeneracji, o których mowa w ust. 7 pkt 1, w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 60%, ale nie większych niż 70% jak na porównywalną nową jednostkę kogeneracji;
+- **3)** 0,84 dla znacznie zmodernizowanych jednostek kogeneracji, o których mowa w ust. 7 pkt 1, w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 70%, ale nie większych niż 80% jak na porównywalną nową jednostkę kogeneracji;
+- **4)** 0,92 dla znacznie zmodernizowanych jednostek kogeneracji, o których mowa w ust. 7 pkt 1, w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 80%, ale nie większych niż 90% jak na porównywalną nową jednostkę kogeneracji;
+- **5)** 1,00 dla znacznie zmodernizowanych jednostek kogeneracji, o których mowa w ust. 7 pkt 1, w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 90%, ale nie większych niż 100% jak na porównywalną nową jednostkę kogeneracji;
+- **6)** 0,40 dla znacznie zmodernizowanych jednostek kogeneracji, o których mowa w ust. 7 pkt 2 i 3, w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 50%, ale nie większych niż 60% jak na porównywalną nową jednostkę kogeneracji;
+- **7)** 0,55 dla znacznie zmodernizowanych jednostek kogeneracji, o których mowa w ust. 7 pkt 2 i 3, w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 60%, ale nie większych niż 70% jak na porównywalną nową jednostkę kogeneracji;
+- **8)** 0,70 dla znacznie zmodernizowanych jednostek kogeneracji, o których mowa w ust. 7 pkt 2 i 3, w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 70%, ale nie większych niż 80% jak na porównywalną nową jednostkę kogeneracji;
+- **9)** 0,85 dla znacznie zmodernizowanych jednostek kogeneracji, o których mowa w ust. 7 pkt 2 i 3, w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 80%, ale nie większych niż 90% jak na porównywalną nową jednostkę kogeneracji;
+- **10)** 1,00 dla znacznie zmodernizowanych jednostek kogeneracji, o których mowa w ust. 7 pkt 2 i 3, w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 90%, ale nie większych niż 100% jak na porównywalną nową jednostkę kogeneracji;
+- **11)** 0,60 dla znacznie zmodernizowanych jednostek kogeneracji, o których mowa w ust. 7 pkt 4, w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 50%, ale nie większych niż 60% jak na porównywalną nową jednostkę kogeneracji;
+- **12)** 0,68 dla znacznie zmodernizowanych jednostek kogeneracji, o których mowa w ust. 7 pkt 4, w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 60%, ale nie większych niż 70% jak na porównywalną nową jednostkę kogeneracji;
+- **13)** 0,76 dla znacznie zmodernizowanych jednostek kogeneracji, o których mowa w ust. 7 pkt 4, w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 70%, ale nie większych niż 80% jak na porównywalną nową jednostkę kogeneracji;
+- **14)** 0,88 dla znacznie zmodernizowanych jednostek kogeneracji, o których mowa w ust. 7 pkt 4, w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 80%, ale nie większych niż 90% jak na porównywalną nową jednostkę kogeneracji;
+- **15)** 1,00 dla znacznie zmodernizowanych jednostek kogeneracji, o których mowa w ust. 7 pkt 4, w przypadku poniesienia kosztów inwestycyjnych modernizacji większych niż 90%, ale nie większych niż 100% jak na porównywalną nową jednostkę kogeneracji.
 
 7. Minister właściwy do spraw energii określi, w drodze rozporządzenia, w terminie do dnia 31 października każdego roku, wartości referencyjne z podziałem dla nowych jednostek kogeneracji oraz znacznie zmodernizowanych jednostek kogeneracji, obowiązujące w kolejnym roku kalendarzowym, wyrażone w złotych za 1 MWh, z dokładnością do jednego grosza, odrębnie dla jednostek kogeneracji:
 
 - **1)** opalanych paliwami gazowymi,
-- **2)** (uchylony)
+- **2)** opalanych paliwami stałymi,
 - **3)** opalanych biomasą,
-- **4)** innych niż wymienione w pkt 1 i 3, z wyłączeniem paliw węglowych – biorąc pod uwagę istotne parametry techniczne i ekonomiczne funkcjonowania jednostek kogeneracji, koszty operacyjne oraz dodatkowe koszty inwestycyjne ponoszone w okresie eksploatacji, w którym jednostka kogeneracji korzysta ze wsparcia.
+- **4)** innych niż wymienione w pkt 1–3 biorąc pod uwagę istotne parametry techniczne i ekonomiczne funkcjonowania jednostek kogeneracji, koszty operacyjne oraz dodatkowe koszty inwestycyjne ponoszone w okresie eksploatacji, w którym jednostka kogeneracji korzysta ze wsparcia.
 
 **Art. 16.**
 
-1. Prezes URE ogłasza, organizuje i przeprowadza aukcje nie rzadziej niż raz na kwartał.
-
-1a. Prezes URE ogłasza w Biuletynie Informacji Publicznej Urzędu Regulacji Energetyki, do końca grudnia każdego roku, harmonogram aukcji na kolejny rok.
+1. Prezes URE ogłasza, organizuje i przeprowadza aukcje nie rzadziej niż raz w roku.
 
 2. Aukcję przeprowadza się z wykorzystaniem internetowej platformy aukcyjnej albo w formie pisemnej. Sesja aukcji trwa nie krócej niż 3 dni i nie dłużej niż 10 dni.
 
 3. Przedmiotem aukcji jest premia kogeneracyjna za sprzedaż energii elektrycznej z wysokosprawnej kogeneracji wytworzonej w nowej jednostce kogeneracji lub znacznie zmodernizowanej jednostce kogeneracji, o których mowa w art. 4 ust. 1, w terminie:
 
 - **1)** 48 miesięcy od dnia rozstrzygnięcia aukcji – w przypadku jednostki opalanej paliwem, o którym mowa w art. 15 ust. 7 pkt 1,
-- **2)** 60 miesięcy od dnia rozstrzygnięcia aukcji – w przypadku jednostki opalanej paliwem, o którym mowa w art. 15 ust. 7 pkt 3 i 4 – która osiągnie jednostkowy wskaźnik emisji dwutlenku węgla na poziomie nie wyższym niż 450 kg na 1 MWh wytwarzanej energii.
+- **2)** 60 miesięcy od dnia rozstrzygnięcia aukcji – w przypadku jednostki opalanej paliwem, o którym mowa w art. 15 ust. 7 pkt 2–4 która osiągnie jednostkowy wskaźnik emisji dwutlenku węgla na poziomie nie wyższym niż 450 kg na 1 MWh wytwarzanej energii.
 
 4. W przypadku gdy w okresie rozliczeniowym, o którym mowa w art. 24 ust. 4 lub 5:
 
-- **1)** nie mniej niż 70 % ciepła użytkowego wytworzonego w jednostce kogeneracji zostanie wprowadzone do publicznej sieci ciepłowniczej – premia kogeneracyjna dotyczy całej wytworzonej, wprowadzonej do sieci i sprzedanej energii elektrycznej z wysokosprawnej kogeneracji przez wytwórcę, który wygrał aukcję, lecz nieprzewyższającą ilości energii elektrycznej, jaka mogłaby zostać wytworzona w tej jednostce przy założeniu, że jednostka ta pracowała w tym czasie z mocą przewyższającą maksymalną moc zainstalowaną czynną przy współczynniku mocy cos φ = 0,9;
-- **2)** mniej niż 70 % ciepła użytkowego wytworzonego w jednostce kogeneracji zostanie wprowadzone do publicznej sieci ciepłowniczej – premia kogeneracyjna dotyczy wytworzonej, wprowadzonej do sieci i sprzedanej energii elektrycznej z wysokosprawnej kogeneracji przez wytwórcę, który wygrał aukcję, w ilości odpowiadającej procentowemu udziałowi ciepła użytkowego wytworzonego w jednostce kogeneracji wprowadzonego do publicznej sieci ciepłowniczej.
+- **1)** nie mniej niż 70% ciepła użytkowego wytworzonego w jednostce kogeneracji zostanie wprowadzone do publicznej sieci ciepłowniczej – premia kogeneracyjna dotyczy całej wytworzonej, wprowadzonej do sieci i sprzedanej energii elektrycznej z wysokosprawnej kogeneracji przez wytwórcę, który wygrał aukcję, lecz nieprzewyższającą ilości energii elektrycznej, jaka mogłaby zostać wytworzona w tej jednostce przy założeniu, że jednostka ta pracowała w tym czasie z mocą przewyższającą maksymalną moc zainstalowaną czynną przy współczynniku mocy cos φ = 0,9;
+- **2)** mniej niż 70% ciepła użytkowego wytworzonego w jednostce kogeneracji zostanie wprowadzone do publicznej sieci ciepłowniczej – premia kogeneracyjna dotyczy wytworzonej, wprowadzonej do sieci i sprzedanej energii elektrycznej z wysokosprawnej kogeneracji przez wytwórcę, który wygrał aukcję, w ilości odpowiadającej procentowemu udziałowi ciepła użytkowego wytworzonego w jednostce kogeneracji wprowadzonego do publicznej sieci ciepłowniczej.
 
-5. W przypadku gdy określona w przepisach wydanych na podstawie art. 56 ust. 1 pkt 1 i 2 maksymalna ilość energii elektrycznej z wysokosprawnej kogeneracji, której sprzedaż mogła zostać objęta premią kogeneracyjną w roku kalendarzowym poprzedzającym rok przeprowadzenia aukcji, i maksymalna wartość premii kogeneracyjnej wynikająca z tej energii nie została wykorzystana, Prezes URE uwzględnia je w wielkościach, o których mowa w art. 20 ust. 2 pkt 5, w odniesieniu do aukcji w danym roku kalendarzowym.
+5. W przypadku gdy określona w przepisach wydanych na podstawie art. 56 ust. 1 pkt 1 i 2, maksymalna ilość energii elektrycznej z wysokosprawnej kogeneracji, której sprzedaż może zostać objęta premią kogeneracyjną w danym roku kalendarzowym i maksymalna wartość premii kogeneracyjnej wynikająca z tej energii, nie zostanie wykorzystana, Prezes URE może przeprowadzić w danym roku kolejną aukcję.
 
 6. W aukcji przeprowadzanej przez Prezesa URE może wziąć udział wytwórca, o którym mowa w art. 4 ust. 1, którego jednostka kogeneracji jest lub będzie zlokalizowana poza terytorium Rzeczypospolitej Polskiej, z uwzględnieniem art. 17.
 
@@ -263,7 +348,7 @@ Art. 95–98. (pominięte)
 
 2. Wytwórca, o którym mowa w art. 4 ust. 1, którego jednostka kogeneracji jest lub będzie zlokalizowana poza terytorium Rzeczypospolitej Polskiej, może przystąpić do aukcji, jeśli spełnia następujące warunki:
 
-- **1)** energia elektryczna z wysokosprawnej kogeneracji wytwarzana w jednostce kogeneracji zlokalizowanej poza terytorium Rzeczypospolitej Polskiej będzie spełniać warunki uznania jej za energię elektryczną wytworzoną w wysokosprawnej kogeneracji w rozumieniu dyrektywy Parlamentu Europejskiego i Rady 2012/27/UE z dnia 25 października 2012 r. w sprawie efektywności energetycznej, zmiany dyrektyw 2009/125/WE i 2010/30/UE oraz uchylenia dyrektyw 2004/8/WE i 2006/32/WE (Dz. Urz. UE L 315 z 14.11.2012, str. 1, z późn. zm. );
+- **1)** energia elektryczna z wysokosprawnej kogeneracji wytwarzana w jednostce kogeneracji zlokalizowanej poza terytorium Rzeczypospolitej Polskiej będzie spełniać warunki uznania jej za energię elektryczną wytworzoną w wysokosprawnej kogeneracji w rozumieniu dyrektywy Parlamentu Europejskiego i Rady 2012/27/UE z dnia 25 października 2012 r. w sprawie efektywności energetycznej, zmiany dyrektyw 2009/125/WE i 2010/30/UE oraz uchylenia dyrektyw 2004/8/WE i 2006/32/WE (Dz. Urz. UE L 315 z 14.11.2012, str. 1, z późn. zm.);
 - **2)** wytworzenie energii elektrycznej w wysokosprawnej kogeneracji w jednostce kogeneracji zlokalizowanej poza terytorium Rzeczypospolitej Polskiej zostanie potwierdzone przez uprawniony do tego podmiot zgodnie z prawem państwa, w którym znajduje się ta jednostka, z możliwością weryfikacji przez Prezesa URE danych zawartych w tym potwierdzeniu;
 - **3)** w przypadku, w którym jednostce kogeneracji została udzielona pomoc inwestycyjna w państwie, na terytorium którego została zlokalizowana, rozlicza tę pomoc na zasadach określonych w art. 14;
 - **4)** nie otrzymuje wsparcia dla tej samej jednostki energii elektrycznej w ramach systemu wsparcia funkcjonującego poza terytorium Rzeczypospolitej Polskiej;
@@ -274,8 +359,6 @@ Art. 95–98. (pominięte)
 1. Wytwórca, o którym mowa w art. 4 ust. 1, który zamierza przystąpić do aukcji, podlega procedurze oceny formalnej przygotowania do wytwarzania energii elektrycznej w danej jednostce kogeneracji.
 
 2. Procedurę oceny formalnej przeprowadza Prezes URE na wniosek wytwórcy o dopuszczenie do udziału w aukcji.
-
-2a. Wytwórca składa do Prezesa URE wniosek o dopuszczenie do udziału w aukcji nie później niż w terminie 14 dni przed dniem rozpoczęcia aukcji. Wniosek złożony po upływie terminu, o którym mowa w zdaniu pierwszym, pozostawia się bez rozpatrzenia.
 
 3. Wniosek o dopuszczenie do udziału w aukcji zawiera:
 
@@ -288,21 +371,23 @@ Art. 95–98. (pominięte)
 
 4. Do wniosku o dopuszczenie do udziału w aukcji wytwórca dołącza oryginały lub poświadczone za zgodność z oryginałem kopie:
 
-- **1)** dokumentu potwierdzającego:
-    - **a)** wydanie warunków przyłączenia jednostki kogeneracji do sieci przesyłowej elektroenergetycznej lub sieci dystrybucyjnej elektroenergetycznej albo
-    - **b)** zawarcie umowy o przyłączenie jednostki kogeneracji do sieci przesyłowej elektroenergetycznej lub sieci dystrybucyjnej elektroenergetycznej,
-    - **c)** wydanie warunków przyłączenia jednostki kogeneracji do sieci ciepłowniczej albo
-    - **d)** zawarcie umowy o przyłączenie jednostki kogeneracji do sieci ciepłowniczej,
-    - **e)** w przypadku jednostki kogeneracji opalanej paliwem, o którym mowa w art. 15 ust. 7 pkt 1 – wydanie warunków przyłączenia jednostki kogeneracji do sieci przesyłowej gazowej lub sieci dystrybucyjnej gazowej – jeżeli zostały wydane albo
-    - **f)** w przypadku jednostki kogeneracji opalanej paliwem, o którym mowa w art. 15 ust. 7 pkt 1 – zawarcie umowy o przyłączenie jednostki kogeneracji do sieci przesyłowej gazowej lub sieci dystrybucyjnej gazowej – jeżeli została zawarta;
+- **1)** dokumentu potwierdzającego: wydanie warunków przyłączenia jednostki kogeneracji do sieci przesyłowej elektroenergetycznej lub sieci dystrybucyjnej elektroenergetycznej albo zawarcie umowy o przyłączenie jednostki kogeneracji do sieci przesyłowej elektroenergetycznej lub sieci dystrybucyjnej elektroenergetycznej, wydanie warunków przyłączenia jednostki kogeneracji do sieci ciepłowniczej albo zawarcie umowy o przyłączenie jednostki kogeneracji do sieci ciepłowniczej;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **2)** schematu jednostki kogeneracji wraz z określeniem granicy bilansowej;
-- **3)** (uchylony)
+- **3)** ostatecznego pozwolenia na budowę wydanego dla projektowanej jednostki kogeneracji lub planowanej znacznej modernizacji jednostki kogeneracji, jeżeli jest ono wymagane zgodnie z przepisami ustawy – Prawo budowlane;
 - **4)** harmonogramu rzeczowego i finansowego realizacji budowy nowej jednostki kogeneracji lub znacznie zmodernizowanej jednostki kogeneracji;
-- **5)** (uchylony)
+- **5)** opinii sporządzonej przez akredytowaną jednostkę, o której mowa w art. 77 ust. 4, w okresie 6 miesięcy przed dniem jej złożenia do Prezesa URE, potwierdzającej w planowanej lokalizacji, w odniesieniu do nowej jednostki kogeneracji lub znacznie zmodernizowanej jednostki kogeneracji, o których mowa w art. 4 ust. 1, i opalanych paliwem stałym, spełnienie następujących warunków: brak możliwości zasilania tej jednostki paliwami gazowymi ze względu na techniczne lub ekonomiczne warunki przyłączenia do sieci gazowej, na podstawie przedstawionej odmowy przez operatora sieci dystrybucyjnej gazowej lub operatora sieci przesyłowej gazowej wydania warunków przyłączenia do sieci oraz brak technicznego lub ekonomicznego uzasadnienia do zasilania tej jednostki wyłącznie biomasą, na podstawie analizy, o której mowa w art. 10a ust. 1 lub art. 10b ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, oraz prognozę wskazującą, że poziom cen ciepła w publicznej sieci ciepłowniczej zasilanej bądź planowanej do zasilenia przez tę jednostkę kogeneracji w danym roku kalendarzowym nie będzie wyższy od średniej ceny ciepła z innych źródeł zasilających tę sieć ciepłowniczą, albo w przypadku nowych systemów ciepłowniczych – możliwość oferowania w planowanej lokalizacji przez tę jednostkę kogeneracji w danym roku kalendarzowym ciepła po cenie nie wyższej od iloczynu średniej ceny sprzedaży ciepła, o której mowa w art. 23 ust. 2 pkt 18 lit. c tiret pierwsze ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, oraz wskaźnika referencyjnego, o którym mowa w art. 47 ust. 2f tej ustawy;
+    - **a)**
+    - **b)**
+    - **c)**
+
 - **6)** dokumentu potwierdzającego przewidywaną wielkość jednostkowego wskaźnika emisji dwutlenku węgla, w kilogramach na 1 MWh wytwarzanej energii w jednostce kogeneracji.
 
-5. Okres ważności dokumentów, o których mowa w ust. 4 pkt 1 lit. a i c, w dniu ich złożenia, nie może być krótszy niż 6 miesięcy.
+5. Okres ważności dokumentów, o których mowa w ust. 4 pkt 1 lit. a i c oraz pkt 3, w dniu ich złożenia nie może być krótszy niż 6 miesięcy.
 
 6. Do wytwórcy energii elektrycznej z wysokosprawnej kogeneracji, którego jednostka kogeneracji jest lub będzie zlokalizowana poza terytorium Rzeczypospolitej Polskiej, przepisów ust. 4 i 5 nie stosuje się.
 
@@ -312,11 +397,11 @@ Art. 95–98. (pominięte)
 
 1. Prezes URE, w drodze decyzji, dopuszcza wytwórcę do udziału w aukcji albo odmawia dopuszczenia, w terminie 30 dni od dnia złożenia kompletnego wniosku o dopuszczenie.
 
-2. Decyzja, o której mowa w ust. 1, jest ważna 18 miesięcy od dnia jej wydania, nie dłużej jednak niż najkrótszy termin ważności dokumentu, o którym mowa w art. 18 ust. 4 pkt 1 lit. a i c.
+2. Decyzja, o której mowa w ust. 1, jest ważna 18 miesięcy od dnia jej wydania, nie dłużej jednak niż najkrótszy okres ważności dokumentu, o którym mowa w art. 18 ust. 4 pkt 1 lit. a i c oraz pkt 3.
 
 **Art. 20.**
 
-1. Prezes URE zamieszcza ogłoszenie o aukcji w Biuletynie Informacji Publicznej Urzędu Regulacji Energetyki nie później niż 45 dni przed dniem jej rozpoczęcia.
+1. Prezes URE zamieszcza ogłoszenie o aukcji w Biuletynie Informacji Publicznej Urzędu Regulacji Energetyki nie później niż 30 dni przed dniem jej rozpoczęcia.
 
 2. Ogłoszenie o aukcji zawiera:
 
@@ -340,9 +425,9 @@ Art. 95–98. (pominięte)
 - **1)** przebieg i sposób rozstrzygnięcia aukcji;
 - **2)** warunki przetwarzania danych dotyczących uczestników aukcji;
 - **3)** sposób zapewnienia prawidłowości przebiegu aukcji;
-- **4)** w przypadku przeprowadzenia aukcji z wykorzystaniem internetowej platformy aukcyjnej:
-    - **a)** wymagania techniczne dotyczące dostępu i zawieszenia dostępu do tej platformy,
-    - **b)** sposób złożenia oferty;
+- **4)** w przypadku przeprowadzenia aukcji z wykorzystaniem internetowej platformy aukcyjnej: wymagania techniczne dotyczące dostępu i zawieszenia dostępu do tej platformy, sposób złożenia oferty;
+    - **a)**
+    - **b)**
 
 - **5)** w przypadku przeprowadzenia aukcji w formie pisemnej – sposób złożenia oferty;
 - **6)** sposób wycofania oferty.
@@ -368,14 +453,14 @@ Art. 95–98. (pominięte)
 - **4)** miejsce przyłączenia jednostki kogeneracji do sieci dystrybucyjnej elektroenergetycznej lub sieci przesyłowej elektroenergetycznej, określone w warunkach przyłączenia albo w umowie o przyłączenie;
 - **5)** miejsce przyłączenia jednostki kogeneracji do publicznej sieci ciepłowniczej, określone w warunkach przyłączenia albo w umowie o przyłączenie;
 - **6)** wskazanie procentowego udziału ciepła użytkowego wytworzonego w jednostce kogeneracji, które zostanie wprowadzone do publicznej sieci ciepłowniczej zgodnie z art. 16 ust. 4;
-- **7)** zobowiązanie uczestnika aukcji:
-    - **a)** że do budowy nowej jednostki kogeneracji albo znacznej modernizacji jednostki kogeneracji zostaną wykorzystane wyłącznie urządzenia wyprodukowane w okresie 60 miesięcy przed dniem wytworzenia po raz pierwszy energii elektrycznej w tej jednostce po jej wybudowaniu lub znacznej modernizacji,
-    - **b)** do wytworzenia po raz pierwszy energii elektrycznej z wysokosprawnej kogeneracji w nowej jednostce kogeneracji lub znacznie zmodernizowanej jednostce kogeneracji w terminie: – 48 miesięcy od dnia rozstrzygnięcia aukcji – w przypadku jednostek opalanych paliwem, o którym mowa w art. 15 ust. 7 pkt 1, – 60 miesięcy od dnia rozstrzygnięcia aukcji – w przypadku jednostek opalanych paliwem, o którym mowa w art. 15 ust. 7 pkt 3 i 4,
-    - **c)** do wytwarzania energii elektrycznej przy wykorzystaniu największego udziału rodzaju paliwa, o którym mowa w art. 15 ust. 5, który stanowił podstawę do przyjęcia wartości referencyjnej dla danej jednostki, na poziomie nie mniejszym niż wskazanym w ofercie;
+- **7)** zobowiązanie uczestnika aukcji: że do budowy nowej jednostki kogeneracji albo znacznej modernizacji jednostki kogeneracji zostaną wykorzystane wyłącznie urządzenia wyprodukowane w okresie 60 miesięcy przed dniem wytworzenia po raz pierwszy energii elektrycznej w tej jednostce po jej wybudowaniu lub znacznej modernizacji, do wytworzenia po raz pierwszy energii elektrycznej z wysokosprawnej kogeneracji w nowej jednostce kogeneracji lub znacznie zmodernizowanej jednostce kogeneracji w terminie: – 48 miesięcy od dnia rozstrzygnięcia aukcji – w przypadku jednostek opalanych paliwem, o którym mowa w art. 15 ust. 7 pkt 1, – 60 miesięcy od dnia rozstrzygnięcia aukcji – w przypadku jednostek opalanych paliwem, o którym mowa w art. 15 ust. 7 pkt 2–4, do wytwarzania energii elektrycznej przy wykorzystaniu największego udziału rodzaju paliwa, o którym mowa w art. 15 ust. 5, który stanowił podstawę do przyjęcia wartości referencyjnej dla danej jednostki, na poziomie nie mniejszym niż wskazanym w ofercie;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **8)** określenie przewidywanej wielkości jednostkowego wskaźnika emisji dwutlenku węgla, w kilogramach na 1 MWh wytwarzanej energii w jednostce kogeneracji;
 - **9)** określenie wielkości planowanych kosztów inwestycyjnych znacznej modernizacji w stosunku do wielkości kosztów inwestycyjnych nowej porównywalnej jednostki kogeneracji, określonych w przepisach wydanych na podstawie art. 59 ust. 3;
-- **10)** oświadczenie o następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oświadczam, że wartość pomocy inwestycyjnej, o której mowa w art. 14 ust. 1 ustawy z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji, obliczona zgodnie z art. 14 tej ustawy, wynosi (…) złotych. Premia kogeneracyjna skorygowana obliczona zgodnie z art. 14 ust. 4 i 5 tej ustawy, wynosi (…) złotych za 1 MWh.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
+- **10)** oświadczenie o następującej treści: „ Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oświadczam, że wartość pomocy inwestycyjnej, o której mowa w art. 14 ust. 1 ustawy z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji, obliczona zgodnie z art. 14 tej ustawy, wynosi (…) złotych. Premia kogeneracyjna skorygowana obliczona zgodnie z art. 14 ust. 4 i 5 tej ustawy, wynosi (…) złotych za 1 MWh. ” ; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
 
 4. Oferty opatruje się podpisem albo kwalifikowanym podpisem elektronicznym albo podpisem zaufanym.
 
@@ -400,7 +485,7 @@ Art. 95–98. (pominięte)
 
 1. Aukcję wygrywają uczestnicy aukcji, którzy zaoferowali najniższą wysokość premii kogeneracyjnej, aż do wyczerpania maksymalnej ilości lub wartości, o których mowa w art. 20 ust. 2 pkt 5.
 
-2. W przypadku gdy ilość energii elektrycznej z wysokosprawnej kogeneracji lub wartość premii kogeneracyjnej wynikająca z tej ilości, objęta ofertami złożonymi przez uczestników danej aukcji, jest nie większa niż maksymalna ilość lub wartość, o których mowa w art. 20 ust. 2 pkt 5, aukcję wygrywają uczestnicy aukcji, którzy zaoferowali najniższą wysokość premii kogeneracyjnej, aż do wyczerpania 80 % ilości energii elektrycznej objętej ofertami złożonymi przez uczestników danej aukcji.
+2. W przypadku gdy ilość energii elektrycznej z wysokosprawnej kogeneracji lub wartość premii kogeneracyjnej wynikająca z tej ilości, objęta ofertami złożonymi przez uczestników danej aukcji, jest nie większa niż maksymalna ilość lub wartość, o których mowa w art. 20 ust. 2 pkt 5, aukcję wygrywają uczestnicy aukcji, którzy zaoferowali najniższą wysokość premii kogeneracyjnej, aż do wyczerpania 80% ilości energii elektrycznej objętej ofertami złożonymi przez uczestników danej aukcji.
 
 3. W przypadku gdy kilku uczestników aukcji zaoferuje taką samą wysokość premii kogeneracyjnej, a łączna ilość energii elektrycznej z wysokosprawnej kogeneracji, której sprzedaż zadeklarowali ci uczestnicy aukcji lub wartość premii kogeneracyjnej wynikająca z tej ilości, przekracza maksymalną ilość lub wartość, o której mowa w art. 20 ust. 2 pkt 5, o wygranej aukcji rozstrzyga kolejność złożonych ofert.
 
@@ -412,10 +497,10 @@ Art. 95–98. (pominięte)
 
 2. Prezes URE niezwłocznie po zamknięciu aukcji:
 
-- **1)** rozstrzyga ją i podaje do publicznej wiadomości na swojej stronie internetowej informacje o wynikach aukcji, w tym o:
-    - **a)** wytwórcach, których oferty wygrały aukcję,
-    - **b)** minimalnej i maksymalnej wysokości premii kogeneracyjnej, w złotych za 1 MWh, z dokładnością do jednego grosza, jaka zostanie wypłacona uczestnikom, którzy wygrali aukcję, za wytworzenie, wprowadzenie do sieci i sprzedaż energii elektrycznej z wysokosprawnej kogeneracji,
-    - **c)** łącznej ilości energii elektrycznej z wysokosprawnej kogeneracji, w MWh, i wynikającej z tej ilości wartości premii kogeneracyjnej, w złotych, z dokładnością do jednego grosza, jaka zostanie wypłacona uczestnikom, którzy wygrali aukcję, z uwzględnieniem podziału na kolejne następujące po sobie lata kalendarzowe, albo
+- **1)** rozstrzyga ją i podaje do publicznej wiadomości na swojej stronie internetowej informacje o wynikach aukcji, w tym o: wytwórcach, których oferty wygrały aukcję, minimalnej i maksymalnej wysokości premii kogeneracyjnej, w złotych za 1 MWh, z dokładnością do jednego grosza, jaka zostanie wypłacona uczestnikom, którzy wygrali aukcję, za wytworzenie, wprowadzenie do sieci i sprzedaż energii elektrycznej z wysokosprawnej kogeneracji, łącznej ilości energii elektrycznej z wysokosprawnej kogeneracji, w MWh, i wynikającej z tej ilości wartości premii kogeneracyjnej, w złotych, z dokładnością do jednego grosza, jaka zostanie wypłacona uczestnikom, którzy wygrali aukcję, z uwzględnieniem podziału na kolejne następujące po sobie lata kalendarzowe, albo
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **2)** podaje do publicznej wiadomości na swojej stronie internetowej informację o braku rozstrzygnięcia aukcji w związku ze złożeniem mniej niż trzech ofert spełniających wymagania określone w ustawie, albo
 - **3)** unieważnia aukcję.
@@ -427,9 +512,9 @@ Art. 95–98. (pominięte)
 
 4. Kaucja, o której mowa w art. 20 ust. 3 pkt 1, podlega zwrotowi w terminie:
 
-- **1)** 60 dni od dnia:
-    - **a)** wytworzenia po raz pierwszy energii elektrycznej w nowej jednostce kogeneracji,
-    - **b)** wytworzenia po raz pierwszy energii elektrycznej po zakończeniu znacznej modernizacji jednostki kogeneracji – w przypadku wytwórcy, którego oferta wygrała aukcję;
+- **1)** 60 dni od dnia: wytworzenia po raz pierwszy energii elektrycznej w nowej jednostce kogeneracji, wytworzenia po raz pierwszy energii elektrycznej po zakończeniu znacznej modernizacji jednostki kogeneracji w przypadku wytwórcy, którego oferta wygrała aukcję;
+    - **a)**
+    - **b)**
 
 - **2)** 14 dni od dnia rozstrzygnięcia aukcji – w przypadku wytwórcy, którego oferta nie wygrała aukcji.
 
@@ -443,13 +528,13 @@ Art. 95–98. (pominięte)
 
 9. Informacja, o której mowa w ust. 8, zawiera:
 
-- **1)** wykaz ofert, które wygrały aukcję, w tym:
-    - **a)** wskazanie wytwórców, których oferty wygrały aukcję,
-    - **b)** informację o: – wysokości premii kogeneracyjnej jaka zostanie wypłacona, w złotych za 1 MWh, z dokładnością do jednego grosza, za jaką poszczególni uczestnicy aukcji, których oferty wygrały aukcję, zobowiązali się wytworzyć energię elektryczną z wysokosprawnej kogeneracji, wprowadzić ją do sieci i sprzedać, – ilości energii elektrycznej z wysokosprawnej kogeneracji, w MWh, jaką poszczególni uczestnicy aukcji, których oferty wygrały aukcję, zobowiązali się wytworzyć, wprowadzić do sieci i sprzedać oraz wartości premii kogeneracyjnej jaka zostanie wypłacona, w złotych, z dokładnością do jednego grosza, wynikającą z tych ilości energii elektrycznej, z uwzględnieniem podziału na kolejne następujące po sobie lata kalendarzowe;
+- **1)** wykaz ofert, które wygrały aukcję, w tym: wskazanie wytwórców, których oferty wygrały aukcję, informację o: – wysokości premii kogeneracyjnej jaka zostanie wypłacona, w złotych za 1 MWh, z dokładnością do jednego grosza, za jaką poszczególni uczestnicy aukcji, których oferty wygrały aukcję, zobowiązali się wytworzyć energię elektryczną z wysokosprawnej kogeneracji, wprowadzić ją do sieci i sprzedać, – ilości energii elektrycznej z wysokosprawnej kogeneracji, w MWh, jaką poszczególni uczestnicy aukcji, których oferty wygrały aukcję, zobowiązali się wytworzyć, wprowadzić do sieci i sprzedać oraz wartości premii kogeneracyjnej jaka zostanie wypłacona, w złotych, z dokładnością do jednego grosza, wynikającą z tych ilości energii elektrycznej, z uwzględnieniem podziału na kolejne następujące po sobie lata kalendarzowe;
+    - **a)**
+    - **b)**
 
-- **2)** wykaz ofert, które nie wygrały aukcji, w tym:
-    - **a)** wskazanie wytwórców, których oferty nie wygrały aukcji,
-    - **b)** informację o: – wysokości premii kogeneracyjnej skorygowanej po uwzględnieniu pomocy inwestycyjnej, w złotych za 1 MWh, z dokładnością do jednego grosza, za jaką poszczególni uczestnicy aukcji, których oferty nie wygrały aukcji, zobowiązali się wytworzyć energię elektryczną z wysokosprawnej kogeneracji, wprowadzić ją do sieci i sprzedać, – ilości energii elektrycznej z wysokosprawnej kogeneracji, w MWh, jaką poszczególni uczestnicy aukcji, których oferty nie wygrały aukcji, zobowiązali się wytworzyć, wprowadzić do sieci i sprzedać oraz wartości premii kogeneracyjnej skorygowanej po uwzględnieniu pomocy inwestycyjnej, w złotych, z dokładnością do jednego grosza, wynikającą z tych ilości energii elektrycznej, z uwzględnieniem podziału na kolejne następujące po sobie lata kalendarzowe, albo
+- **2)** wykaz ofert, które nie wygrały aukcji, w tym: wskazanie wytwórców, których oferty nie wygrały aukcji, informację o: – wysokości premii kogeneracyjnej skorygowanej po uwzględnieniu pomocy inwestycyjnej, w złotych za 1 MWh, z dokładnością do jednego grosza, za jaką poszczególni uczestnicy aukcji, których oferty nie wygrały aukcji, zobowiązali się wytworzyć energię elektryczną z wysokosprawnej kogeneracji, wprowadzić ją do sieci i sprzedać, – ilości energii elektrycznej z wysokosprawnej kogeneracji, w MWh, jaką poszczególni uczestnicy aukcji, których oferty nie wygrały aukcji, zobowiązali się wytworzyć, wprowadzić do sieci i sprzedać oraz wartości premii kogeneracyjnej skorygowanej po uwzględnieniu pomocy inwestycyjnej, w złotych, z dokładnością do jednego grosza, wynikającą z tych ilości energii elektrycznej, z uwzględnieniem podziału na kolejne następujące po sobie lata kalendarzowe, albo
+    - **a)**
+    - **b)**
 
 - **3)** wskazanie przyczyn unieważnienia aukcji.
 
@@ -461,10 +546,10 @@ Art. 95–98. (pominięte)
 
 - **1)** jednorazowo przekazuje do operatora rozliczeń, w terminie 30 dni od daty wytworzenia po raz pierwszy energii elektrycznej w nowej jednostce kogeneracji lub wytworzenia po raz pierwszy energii elektrycznej po zakończeniu znacznej modernizacji, informację o dacie wytworzenia po raz pierwszy tej energii, potwierdzoną przez operatora sieci przesyłowej elektroenergetycznej lub operatora sieci dystrybucyjnej elektroenergetycznej;
 - **2)** każdorazowo składa wniosek do operatora rozliczeń o wypłatę premii kogeneracyjnej za energię elektryczną wytworzoną w wysokosprawnej kogeneracji, wprowadzoną do sieci i sprzedaną;
-- **3)** wraz ze złożeniem pierwszego wniosku, o którym mowa w pkt 2, informuje operatora rozliczeń, w formie pisemnej, w postaci papierowej lub elektronicznej, o:
-    - **a)** lokalizacji i mocy zainstalowanej elektrycznej jednostki kogeneracji oraz miejscu przyłączenia tej jednostki do sieci dystrybucyjnej elektroenergetycznej lub sieci przesyłowej elektroenergetycznej, określonych w warunkach przyłączenia albo umowie o przyłączenie,
-    - **b)** numerze rachunku bankowego, na który ma być wpłacana premia kogeneracyjna,
-    - **c)** potwierdzeniu, o którym mowa w art. 27 ust. 2 pkt 1.
+- **3)** wraz ze złożeniem pierwszego wniosku, o którym mowa w pkt 2, informuje operatora rozliczeń, w formie pisemnej, w postaci papierowej lub elektronicznej, o: lokalizacji i mocy zainstalowanej elektrycznej jednostki kogeneracji oraz miejscu przyłączenia tej jednostki do sieci dystrybucyjnej elektroenergetycznej lub sieci przesyłowej elektroenergetycznej, określonych w warunkach przyłączenia albo umowie o przyłączenie, numerze rachunku bankowego, na który ma być wpłacana premia kogeneracyjna, potwierdzeniu, o którym mowa w art. 27 ust. 2 pkt 1.
+    - **a)**
+    - **b)**
+    - **c)**
 
 3. Wniosek, o którym mowa w ust. 2 pkt 2, zawiera:
 
@@ -503,18 +588,16 @@ Art. 95–98. (pominięte)
 
 1. Przed dniem złożenia pierwszego wniosku o wypłatę premii kogeneracyjnej, o którym mowa w art. 24 ust. 2 pkt 2, wytwórca przedkłada Prezesowi URE:
 
-- **1)** dokumenty potwierdzające, że decyzja inwestycyjna dotycząca budowy nowej jednostki kogeneracji albo znacznej modernizacji jednostki kogeneracji została podjęta po dniu wygrania aukcji oraz, że urządzenia zamontowane w czasie budowy nowej jednostki kogeneracji albo znacznej modernizacji jednostki kogeneracji zostały wyprodukowane w okresie 60 miesięcy przed dniem wytworzenia po raz pierwszy energii elektrycznej w nowej albo znacznie zmodernizowanej jednostce kogeneracji;
-- **2)** opinię akredytowanej jednostki, o której mowa w art. 77 ust. 3, potwierdzającą:
-    - **a)** dane dotyczące możliwej do wytworzenia ilości energii elektrycznej z wysokosprawnej kogeneracji, wprowadzenia do sieci i sprzedaży w pierwszym roku kalendarzowym po uzyskaniu lub zmianie koncesji na wytwarzanie energii elektrycznej albo po uzyskaniu lub zmianie wpisu do rejestru wytwórców biogazu rolniczego,
-    - **b)** udział procentowy wartości poniesionych kosztów inwestycyjnych znacznej modernizacji w odniesieniu do wartości kosztów inwestycyjnych nowej porównywalnej jednostki kogeneracji określonych w przepisach wydanych na podstawie art. 59 ust. 3,
-    - **c)** możliwość spełnienia jednostkowego wskaźnika emisji dwutlenku węgla na poziomie nie wyższym niż 450 kg na 1 MWh wytworzonej energii w jednostce kogeneracji;
-
-- **3)** ostateczne pozwolenie na budowę wydane dla nowej jednostki kogeneracji lub znacznie zmodernizowanej jednostki kogeneracji w terminie nie później niż 12 miesięcy od dnia rozstrzygnięcia aukcji, jeżeli jest ono wymagane na podstawie przepisów ustawy – Prawo budowlane.
+- **1)** dokumenty potwierdzające, że urządzenia zamontowane w czasie budowy nowej jednostki kogeneracji albo znacznej modernizacji jednostki kogeneracji zostały wyprodukowane w okresie 60 miesięcy przed dniem wytworzenia po raz pierwszy energii elektrycznej w nowej albo znacznie zmodernizowanej jednostce kogeneracji;
+- **2)** opinię akredytowanej jednostki, o której mowa w art. 77 ust. 3, potwierdzającą: dane dotyczące możliwej do wytworzenia ilości energii elektrycznej z wysokosprawnej kogeneracji, wprowadzenia do sieci i sprzedaży w pierwszym roku kalendarzowym po uzyskaniu lub zmianie koncesji na wytwarzanie energii elektrycznej albo po uzyskaniu lub zmianie wpisu do rejestru wytwórców biogazu rolniczego, udział procentowy wartości poniesionych kosztów inwestycyjnych znacznej modernizacji w odniesieniu do wartości kosztów inwestycyjnych nowej porównywalnej jednostki kogeneracji określonych w przepisach wydanych na podstawie art. 59 ust. 3, możliwość spełnienia jednostkowego wskaźnika emisji dwutlenku węgla na poziomie nie wyższym niż 450 kg na 1 MWh wytworzonej energii w jednostce kogeneracji.
+    - **a)**
+    - **b)**
+    - **c)**
 
 2. W przypadku:
 
 - **1)** pozytywnej weryfikacji dokumentów, o których mowa w ust. 1 – Prezes URE, w drodze decyzji, potwierdza uprawnienia wytwórcy do wypłaty premii kogeneracyjnej;
-- **2)** braku przedstawienia dokumentów, o których mowa w ust. 1, lub w przypadku gdy z przedstawionych dokumentów wynika, że jednostka kogeneracji nie spełnia wymagań umożliwiających zakwalifikowanie wytwarzanej energii elektrycznej, wprowadzonej do sieci i sprzedanej jako wytworzonej z wysokosprawnej kogeneracji lub nie spełnia warunków znacznej modernizacji, lub wysokość premii kogeneracyjnej wynikająca z oferty jest wyższa niż wysokość premii kogeneracyjnej wynikająca z przyjętej, w odniesieniu do jednostki kogeneracji, wartości referencyjnej określonej w przepisach wydanych na podstawie art. 15 ust. 7, po uwzględnieniu faktycznie poniesionych kosztów inwestycyjnych znacznej modernizacji, lub decyzja inwestycyjna dotycząca budowy nowej jednostki kogeneracji lub znacznej modernizacji jednostki kogeneracji została podjęta wcześniej niż w dniu następującym po dniu wygrania aukcji, lub zainstalowane w trakcie budowy lub znacznej modernizacji urządzenia nie zostały wyprodukowane w okresie 60 miesięcy przed dniem wytworzenia po raz pierwszy energii elektrycznej w nowej albo znacznie zmodernizowanej jednostce kogeneracji, lub ostateczne pozwolenie na budowę, jeżeli jest ono wymagane na podstawie przepisów ustawy – Prawo budowlane, zostało wydane dla nowej jednostki kogeneracji lub znacznie zmodernizowanej jednostki kogeneracji po upływie 12 miesięcy od dnia rozstrzygnięcia aukcji – Prezes URE, w drodze decyzji, stwierdza utratę przez wytwórcę uprawnienia do wypłaty premii kogeneracyjnej.
+- **2)** braku przedstawienia dokumentów, o których mowa w ust. 1, lub w przypadku gdy z przedstawionych dokumentów wynika, że jednostka kogeneracji nie spełnia wymagań umożliwiających zakwalifikowanie wytwarzanej energii elektrycznej, wprowadzonej do sieci i sprzedanej jako wytworzonej z wysokosprawnej kogeneracji lub nie spełnia warunków znacznej modernizacji, lub wysokość premii kogeneracyjnej wynikająca z oferty jest wyższa niż wysokość premii kogeneracyjnej wynikająca z przyjętej, w odniesieniu do jednostki kogeneracji, wartości referencyjnej określonej w przepisach wydanych na podstawie art. 15 ust. 7, po uwzględnieniu faktycznie poniesionych kosztów inwestycyjnych znacznej modernizacji, lub zainstalowane w trakcie budowy lub znacznej modernizacji urządzenia nie zostały wyprodukowane w okresie 60 miesięcy przed dniem wytworzenia po raz pierwszy energii elektrycznej w nowej albo znacznie zmodernizowanej jednostce kogeneracji – Prezes URE, w drodze decyzji, stwierdza utratę przez wytwórcę uprawnienia do wypłaty premii kogeneracyjnej.
 
 3. Decyzja, o której mowa w ust. 2 pkt 2, jest natychmiast wykonalna.
 
@@ -538,8 +621,8 @@ Art. 95–98. (pominięte)
 
 2. W przypadku gdy w okresie rozliczeniowym, o którym mowa w art. 31 ust. 4 i 5:
 
-- **1)** nie mniej niż 70 % ciepła użytkowego wytworzonego w jednostce kogeneracji zostanie wprowadzone do publicznej sieci ciepłowniczej – premia gwarantowana dotyczy całej wytworzonej, wprowadzonej do sieci i sprzedanej energii elektrycznej z wysokosprawnej kogeneracji przez wytwórcę, który otrzymał decyzję o dopuszczeniu, o której mowa w art. 30 ust. 4, lecz nieprzewyższającą ilości energii elektrycznej, jaka mogłaby zostać wytworzona w tej jednostce przy założeniu, że jednostka ta pracowała w tym czasie z mocą przewyższającą maksymalną moc zainstalowaną czynną przy współczynniku mocy cos φ = 0,9;
-- **2)** mniej niż 70 % ciepła użytkowego wytworzonego w jednostce kogeneracji zostanie wprowadzone do publicznej sieci ciepłowniczej – premia gwarantowana dotyczy wytworzonej, wprowadzonej do sieci i sprzedanej energii elektrycznej z wysokosprawnej kogeneracji w ilości odpowiadającej procentowemu udziałowi ciepła użytkowego wytworzonego w jednostce kogeneracji wprowadzonego do publicznej sieci ciepłowniczej przez wytwórcę, który otrzymał decyzję o dopuszczeniu, o której mowa w art. 30 ust. 4.
+- **1)** nie mniej niż 70% ciepła użytkowego wytworzonego w jednostce kogeneracji zostanie wprowadzone do publicznej sieci ciepłowniczej – premia gwarantowana dotyczy całej wytworzonej, wprowadzonej do sieci i sprzedanej energii elektrycznej z wysokosprawnej kogeneracji przez wytwórcę, który otrzymał decyzję o dopuszczeniu, o której mowa w art. 30 ust. 4, lecz nieprzewyższającą ilości energii elektrycznej, jaka mogłaby zostać wytworzona w tej jednostce przy założeniu, że jednostka ta pracowała w tym czasie z mocą przewyższającą maksymalną moc zainstalowaną czynną przy współczynniku mocy cos φ = 0,9;
+- **2)** mniej niż 70% ciepła użytkowego wytworzonego w jednostce kogeneracji zostanie wprowadzone do publicznej sieci ciepłowniczej – premia gwarantowana dotyczy wytworzonej, wprowadzonej do sieci i sprzedanej energii elektrycznej z wysokosprawnej kogeneracji w ilości odpowiadającej procentowemu udziałowi ciepła użytkowego wytworzonego w jednostce kogeneracji wprowadzonego do publicznej sieci ciepłowniczej przez wytwórcę, który otrzymał decyzję o dopuszczeniu, o której mowa w art. 30 ust. 4.
 
 3. Przepisów ust. 2 nie stosuje się do jednostek kogeneracji, o których mowa w art. 5 ust. 1 pkt 3 oraz ust. 7 i 8.
 
@@ -567,18 +650,18 @@ Art. 95–98. (pominięte)
 - **8)** miejsce przyłączenia jednostki kogeneracji do publicznej sieci ciepłowniczej, określone w warunkach przyłączenia albo w umowie o przyłączenie; przepisu nie stosuje się do wytwórców energii elektrycznej z wysokosprawnej kogeneracji w jednostkach kogeneracji, o których mowa w art. 5 ust. 1 pkt 3 oraz ust. 7 i 8, chyba że ciepło z tych jednostek dostarczane jest do publicznej sieci ciepłowniczej;
 - **9)** wskazanie procentowego udziału ciepła użytkowego wytworzonego w jednostce kogeneracji, które zostanie wprowadzone do publicznej sieci ciepłowniczej zgodnie z art. 29 ust. 2; przepisu nie stosuje się do wytwórców energii elektrycznej z wysokosprawnej kogeneracji w jednostkach kogeneracji, o których mowa w art. 5 ust. 1 pkt 3 oraz ust. 7 i 8, chyba że ciepło z tych jednostek dostarczane jest do publicznej sieci ciepłowniczej;
 - **10)** określenie wszystkich rodzajów paliw zużywanych w jednostce kogeneracji;
-- **11)** informację o dacie wytworzenia po raz pierwszy energii elektrycznej w jednostce kogeneracji:
-    - **a)** potwierdzonej wydanym świadectwem pochodzenia z kogeneracji – w przypadku istniejącej jednostki kogeneracji lub istniejącej małej jednostki kogeneracji albo
-    - **b)** po dokonaniu modernizacji lub znacznej modernizacji, potwierdzoną przez operatora sieci przesyłowej elektroenergetycznej lub operatora sieci dystrybucyjnej elektroenergetycznej – w przypadku zmodernizowanej jednostki kogeneracji, zmodernizowanej małej jednostki kogeneracji, lub znacznie zmodernizowanej małej jednostki kogeneracji,
-    - **c)** potwierdzoną przez operatora sieci przesyłowej elektroenergetycznej lub operatora sieci dystrybucyjnej elektroenergetycznej – w przypadku nowej małej jednostki kogeneracji;
+- **11)** informację o dacie wytworzenia po raz pierwszy energii elektrycznej w jednostce kogeneracji: potwierdzonej wydanym świadectwem pochodzenia z kogeneracji – w przypadku istniejącej jednostki kogeneracji lub istniejącej małej jednostki kogeneracji albo po dokonaniu modernizacji lub znacznej modernizacji, potwierdzoną przez operatora sieci przesyłowej elektroenergetycznej lub operatora sieci dystrybucyjnej elektroenergetycznej – w przypadku zmodernizowanej jednostki kogeneracji, zmodernizowanej małej jednostki kogeneracji, lub znacznie zmodernizowanej małej jednostki kogeneracji, potwierdzoną przez operatora sieci przesyłowej elektroenergetycznej lub operatora sieci dystrybucyjnej elektroenergetycznej – w przypadku nowej małej jednostki kogeneracji;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **12)** wskazanie odbiorcy lub odbiorców, z którymi wytwórca ma zawartą umowę sprzedaży energii elektrycznej; przepisu nie stosuje się do wytwórców energii elektrycznej w jednostkach kogeneracji, o których mowa w art. 5 ust. 1 pkt 3 oraz ust. 7 i 8;
-- **13)** opinię akredytowanej jednostki, o której mowa w art. 77 ust. 3, potwierdzającej:
-    - **a)** dane dotyczące możliwej do uzyskania ilości wytworzonej energii elektrycznej z wysokosprawnej kogeneracji w pierwszym roku kalendarzowym po uzyskaniu lub zmianie koncesji na wytwarzanie energii elektrycznej albo po uzyskaniu lub zmianie wpisu do rejestru wytwórców energii w małej instalacji albo po uzyskaniu lub zmianie wpisu do rejestru wytwórców biogazu rolniczego – w przypadku nowej albo znacznie zmodernizowanej małej jednostce kogeneracji albo po zakończeniu modernizacji, o którym mowa w art. 5 ust. 3 – w przypadku zmodernizowanej jednostki kogeneracji albo zmodernizowanej małej jednostki kogeneracji,
-    - **b)** udział procentowy wartości poniesionych kosztów inwestycyjnych modernizacji albo znacznej modernizacji w odniesieniu do wartości kosztów inwestycyjnych nowej porównywalnej jednostki kogeneracji określonych w przepisach wydanych na podstawie art. 59 ust. 3,
-    - **c)** możliwość spełnienia jednostkowego wskaźnika emisji dwutlenku węgla na poziomie nie wyższym niż 450 kg na 1 MWh wytworzonej energii w jednostce kogeneracji;
+- **13)** opinię akredytowanej jednostki, o której mowa w art. 77 ust. 3, potwierdzającej: dane dotyczące możliwej do uzyskania ilości wytworzonej energii elektrycznej z wysokosprawnej kogeneracji w pierwszym roku kalendarzowym po uzyskaniu lub zmianie koncesji na wytwarzanie energii elektrycznej albo po uzyskaniu lub zmianie wpisu do rejestru wytwórców energii w małej instalacji albo po uzyskaniu lub zmianie wpisu do rejestru wytwórców biogazu rolniczego – w przypadku nowej albo znacznie zmodernizowanej małej jednostce kogeneracji albo po zakończeniu modernizacji, o którym mowa w art. 5 ust. 3 – w przypadku zmodernizowanej jednostki kogeneracji albo zmodernizowanej małej jednostki kogeneracji, udział procentowy wartości poniesionych kosztów inwestycyjnych modernizacji albo znacznej modernizacji w odniesieniu do wartości kosztów inwestycyjnych nowej porównywalnej jednostki kogeneracji określonych w przepisach wydanych na podstawie art. 59 ust. 3, możliwość spełnienia jednostkowego wskaźnika emisji dwutlenku węgla na poziomie nie wyższym niż 450 kg na 1 MWh wytworzonej energii w jednostce kogeneracji;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **14)** oświadczenie, o następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oświadczam, że wartość pomocy inwestycyjnej, o której mowa w art. 14 ust. 1 ustawy z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji, obliczona zgodnie z art. 14 tej ustawy, wynosi (…) złotych. Premia gwarantowana skorygowana obliczona zgodnie z art. 14 ust. 4 i 5 tej ustawy, wynosi (…) złotych za 1 MWh.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań; obowiązek składania oświadczenia nie dotyczy istniejących jednostek kogeneracji, o których mowa w art. 5 ust. 1 pkt 2, oraz istniejących małych jednostek kogeneracji, o których mowa w art. 5 ust. 1 pkt 3;
+- **14)** oświadczenie, o następującej treści: „ Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oświadczam, że wartość pomocy inwestycyjnej, o której mowa w art. 14 ust. 1 ustawy z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji, obliczona zgodnie z art. 14 tej ustawy, wynosi (…) złotych. Premia gwarantowana skorygowana obliczona zgodnie z art. 14 ust. 4 i 5 tej ustawy, wynosi (…) złotych za 1 MWh. ” ; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań; obowiązek składania oświadczenia nie dotyczy istniejących jednostek kogeneracji, o których mowa w art. 5 ust. 1 pkt 2, oraz istniejących małych jednostek kogeneracji, o których mowa w art. 5 ust. 1 pkt 3;
 - **15)** dokumenty potwierdzające, że urządzenia zamontowane w czasie budowy nowej małej jednostki kogeneracji albo modernizacji jednostki kogeneracji, albo modernizacji małej jednostki kogeneracji, albo znacznej modernizacji małej jednostki kogeneracji zostały wyprodukowane w okresie 60 miesięcy przed dniem wytworzenia po raz pierwszy energii elektrycznej w nowej albo znacznie zmodernizowanej małej jednostce kogeneracji, albo zmodernizowanej jednostce kogeneracji, albo zmodernizowanej małej jednostce kogeneracji;
 - **16)** podpis wytwórcy.
 
@@ -608,15 +691,15 @@ Art. 95–98. (pominięte)
 
 2. W celu uzyskania wypłaty premii gwarantowanej uprawniony wytwórca:
 
-- **1)** jednorazowo przekazuje do operatora rozliczeń informację o dacie wytworzenia po raz pierwszy energii elektrycznej w jednostce kogeneracji:
-    - **a)** potwierdzoną wydanym świadectwem pochodzenia z kogeneracji – w przypadku istniejącej jednostki kogeneracji lub istniejącej małej jednostki kogeneracji, albo
-    - **b)** po dokonaniu modernizacji lub znacznej modernizacji, potwierdzoną przez operatora sieci przesyłowej elektroenergetycznej lub operatora sieci dystrybucyjnej elektroenergetycznej – w przypadku zmodernizowanej jednostki kogeneracji, zmodernizowanej małej jednostki kogeneracji, lub znacznie zmodernizowanej małej jednostki kogeneracji, albo
-    - **c)** potwierdzoną przez operatora sieci przesyłowej elektroenergetycznej lub operatora sieci dystrybucyjnej elektroenergetycznej – w przypadku nowej małej jednostki kogeneracji;
+- **1)** jednorazowo przekazuje do operatora rozliczeń informację o dacie wytworzenia po raz pierwszy energii elektrycznej w jednostce kogeneracji: potwierdzoną wydanym świadectwem pochodzenia z kogeneracji – w przypadku istniejącej jednostki kogeneracji lub istniejącej małej jednostki kogeneracji, albo po dokonaniu modernizacji lub znacznej modernizacji, potwierdzoną przez operatora sieci przesyłowej elektroenergetycznej lub operatora sieci dystrybucyjnej elektroenergetycznej – w przypadku zmodernizowanej jednostki kogeneracji, zmodernizowanej małej jednostki kogeneracji, lub znacznie zmodernizowanej małej jednostki kogeneracji, albo potwierdzoną przez operatora sieci przesyłowej elektroenergetycznej lub operatora sieci dystrybucyjnej elektroenergetycznej – w przypadku nowej małej jednostki kogeneracji;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **2)** każdorazowo składa do operatora rozliczeń wniosek o wypłatę premii gwarantowanej;
-- **3)** wraz ze złożeniem pierwszego wniosku informuje operatora rozliczeń, w formie pisemnej, w postaci papierowej lub elektronicznej, o:
-    - **a)** lokalizacji jednostki kogeneracji oraz jej mocy zainstalowanej elektrycznej i miejscu przyłączenia tej jednostki do sieci dystrybucyjnej elektroenergetycznej lub sieci przesyłowej elektroenergetycznej, określonego w warunkach przyłączenia albo umowie o przyłączenie,
-    - **b)** numerze rachunku bankowego, na który ma być wypłacana premia gwarantowana.
+- **3)** wraz ze złożeniem pierwszego wniosku informuje operatora rozliczeń, w formie pisemnej, w postaci papierowej lub elektronicznej, o: lokalizacji jednostki kogeneracji oraz jej mocy zainstalowanej elektrycznej i miejscu przyłączenia tej jednostki do sieci dystrybucyjnej elektroenergetycznej lub sieci przesyłowej elektroenergetycznej, określonego w warunkach przyłączenia albo umowie o przyłączenie, numerze rachunku bankowego, na który ma być wypłacana premia gwarantowana.
+    - **a)**
+    - **b)**
 
 3. Wniosek, o którym mowa w ust. 2 pkt 2, zawiera:
 
@@ -628,7 +711,7 @@ Art. 95–98. (pominięte)
 - **6)** wartość premii gwarantowanej, stanowiącej iloczyn ilości energii elektrycznej, o której mowa w pkt 3, i jednostkowej wysokości premii gwarantowanej określonej w przepisach wydanych na podstawie art. 56 ust. 1 pkt 9 – w przypadku jednostek kogeneracji, o których mowa w art. 5 ust. 1 pkt 2;
 - **7)** wartość premii gwarantowanej, stanowiącej iloczyn ilości energii elektrycznej, o której mowa w pkt 4, i jednostkowej wysokości premii gwarantowanej określonej w przepisach wydanych na podstawie art. 56 ust. 1 pkt 10 – w przypadku istniejącej małej jednostki kogeneracji;
 - **8)** wartość premii gwarantowanej skorygowanej o wartość uzyskanej pomocy inwestycyjnej, stanowiącej iloczyn ilości energii elektrycznej, o której mowa w pkt 4, i jednostkowej wysokości premii gwarantowanej określonej w przepisach wydanych na podstawie art. 56 ust. 1 pkt 4 – w przypadku nowej małej jednostki kogeneracji, zmodernizowanej małej jednostki kogeneracji oraz znacznie zmodernizowanej małej jednostki kogeneracji;
-- **9)** wyrażoną w procentach ilość ciepła użytkowego wytworzonego w jednostce kogeneracji wprowadzonego do publicznej sieci ciepłowniczej, dla okresu rozliczeniowego, zgodnie z art. 29 ust. 2; przepisu nie stosuje się do wytwórców energii elektrycznej w wysokosprawnej kogeneracji w jednostkach kogeneracji, o których mowa w art. 5 ust. 1 pkt 3 oraz ust. 7 i 8;
+- **9)** wyrażoną w procentach ilość ciepła użytkowego wytworzonego w jednostce kogeneracji wprowadzonego do publicznej sieci ciepłowniczej, dla okresu rozliczeniowego, zgodnie z art. 29 ust. 2; przepisu nie stosuje się do wytwórców energii elektrycznej w wysokosprawnej kogeneracji w jednostkach kogeneracji, o których mowa w art. 5 ust. 1 pkt 1 oraz ust. 7 i 8;
 - **10)** określenie ilości energii pierwotnej, wyrażonej w procentach, która została zaoszczędzona, w okresie rozliczeniowym, kwalifikującej do uznania energii elektrycznej za wytworzoną w wysokosprawnej kogeneracji, obliczonej na podstawie referencyjnych wartości sprawności dla wytwarzania rozdzielonego.
 
 4. Wniosek, o którym mowa w ust. 2 pkt 2, wytwórca składa w terminie 45 dni po zakończeniu każdego kolejnego miesiąca kalendarzowego.
@@ -676,8 +759,8 @@ Art. 95–98. (pominięte)
 
 2. W przypadku gdy w okresie rozliczeniowym, o którym mowa w art. 39 ust. 4 lub 5:
 
-- **1)** nie mniej niż 70 % ciepła użytkowego wytworzonego w jednostce kogeneracji zostanie wprowadzone do publicznej sieci ciepłowniczej – premia gwarantowana indywidualna albo premia kogeneracyjna indywidualna dotyczy całej wytworzonej, wprowadzonej do sieci i sprzedanej energii elektrycznej z wysokosprawnej kogeneracji przez wytwórcę, który uzyskał decyzję o dopuszczeniu, o której mowa w art. 37 ust. 3, lub który wygrał nabór, o którym mowa w art. 43 ust. 1, lecz nieprzewyższającą ilości energii elektrycznej, jaka mogłaby zostać wytworzona w tej jednostce przy założeniu, że jednostka ta pracowała w tym czasie z mocą przewyższającą maksymalną moc zainstalowaną czynną przy współczynniku mocy cos φ = 0,9;
-- **2)** mniej niż 70 % ciepła użytkowego wytworzonego w jednostce kogeneracji zostanie wprowadzone do publicznej sieci ciepłowniczej – premia gwarantowana indywidualna albo premia kogeneracyjna indywidualna dotyczy wytworzonej, wprowadzonej do sieci i sprzedanej energii elektrycznej z wysokosprawnej kogeneracji, w ilości odpowiadającej procentowemu udziałowi ciepła użytkowego wytworzonego w jednostce kogeneracji wprowadzonego do publicznej sieci ciepłowniczej przez wytwórcę, który uzyskał decyzję o dopuszczeniu, o której mowa w art. 37 ust. 3, lub który wygrał nabór, o którym mowa w art. 43 ust. 1.
+- **1)** nie mniej niż 70% ciepła użytkowego wytworzonego w jednostce kogeneracji zostanie wprowadzone do publicznej sieci ciepłowniczej – premia gwarantowana indywidualna albo premia kogeneracyjna indywidualna dotyczy całej wytworzonej, wprowadzonej do sieci i sprzedanej energii elektrycznej z wysokosprawnej kogeneracji przez wytwórcę, który uzyskał decyzję o dopuszczeniu, o której mowa w art. 37 ust. 3, lub który wygrał nabór, o którym mowa w art. 43 ust. 1, lecz nieprzewyższającą ilości energii elektrycznej, jaka mogłaby zostać wytworzona w tej jednostce przy założeniu, że jednostka ta pracowała w tym czasie z mocą przewyższającą maksymalną moc zainstalowaną czynną przy współczynniku mocy cos φ = 0,9;
+- **2)** mniej niż 70% ciepła użytkowego wytworzonego w jednostce kogeneracji zostanie wprowadzone do publicznej sieci ciepłowniczej – premia gwarantowana indywidualna albo premia kogeneracyjna indywidualna dotyczy wytworzonej, wprowadzonej do sieci i sprzedanej energii elektrycznej z wysokosprawnej kogeneracji, w ilości odpowiadającej procentowemu udziałowi ciepła użytkowego wytworzonego w jednostce kogeneracji wprowadzonego do publicznej sieci ciepłowniczej przez wytwórcę, który uzyskał decyzję o dopuszczeniu, o której mowa w art. 37 ust. 3, lub który wygrał nabór, o którym mowa w art. 43 ust. 1.
 
 3. Premię gwarantowaną indywidualną albo premię kogeneracyjną indywidualną wypłaca operator rozliczeń.
 
@@ -693,19 +776,19 @@ Art. 95–98. (pominięte)
 - **4)** schemat jednostki kogeneracji wraz z określeniem granicy bilansowej;
 - **5)** ilość energii elektrycznej z wysokosprawnej kogeneracji, wyrażoną w MWh, do której wytworzenia, wprowadzenia do sieci i sprzedaży zobowiązuje się wytwórca w kolejnym roku kalendarzowym;
 - **6)** miejsce przyłączenia jednostki kogeneracji do publicznej sieci ciepłowniczej;
-- **7)** dokumenty potwierdzające możliwość wprowadzenia do publicznej sieci ciepłowniczej co najmniej 70 % ciepła użytkowego wytworzonego w jednostce kogeneracji lub wskazanie, że do publicznej sieci ciepłowniczej, wprowadzane będzie mniej niż 70 % ciepła użytkowego wytworzonego w tej jednostce kogeneracji;
+- **7)** dokumenty potwierdzające możliwość wprowadzenia do publicznej sieci ciepłowniczej co najmniej 70% ciepła użytkowego wytworzonego w jednostce kogeneracji lub wskazanie, że do publicznej sieci ciepłowniczej, wprowadzane będzie mniej niż 70% ciepła użytkowego wytworzonego w tej jednostce kogeneracji;
 - **8)** określenie wszystkich rodzajów paliwa zużywanych w jednostce kogeneracji;
-- **9)** informację o dacie wytworzenia po raz pierwszy energii elektrycznej w jednostce kogeneracji:
-    - **a)** potwierdzoną wydanym świadectwem pochodzenia z kogeneracji – w przypadku istniejącej jednostki kogeneracji, albo
-    - **b)** po dokonaniu modernizacji, potwierdzoną przez operatora sieci przesyłowej elektroenergetycznej lub operatora sieci dystrybucyjnej elektroenergetycznej – w przypadku zmodernizowanej jednostki kogeneracji;
+- **9)** informację o dacie wytworzenia po raz pierwszy energii elektrycznej w jednostce kogeneracji: potwierdzoną wydanym świadectwem pochodzenia z kogeneracji – w przypadku istniejącej jednostki kogeneracji, albo po dokonaniu modernizacji, potwierdzoną przez operatora sieci przesyłowej elektroenergetycznej lub operatora sieci dystrybucyjnej elektroenergetycznej – w przypadku zmodernizowanej jednostki kogeneracji;
+    - **a)**
+    - **b)**
 
 - **10)** wskazanie odbiorcy lub odbiorców, z którymi wytwórca ma zawartą umowę sprzedaży energii elektrycznej;
-- **11)** oświadczenie, o następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oświadczam, że wartość pomocy inwestycyjnej, o której mowa w art. 14 ust. 1 ustawy z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji, obliczona zgodnie z art. 14 tej ustawy, wynosi (…) złotych.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań; obowiązek składania oświadczenia nie dotyczy jednostek kogeneracji, o których mowa w art. 6 ust. 1 pkt 3;
+- **11)** oświadczenie, o następującej treści: „ Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oświadczam, że wartość pomocy inwestycyjnej, o której mowa w art. 14 ust. 1 ustawy z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji, obliczona zgodnie z art. 14 tej ustawy, wynosi (…) złotych. ” ; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań; obowiązek składania oświadczenia nie dotyczy jednostek kogeneracji, o których mowa w art. 6 ust. 1 pkt 3;
 - **12)** dane techniczne i ekonomiczne, w szczególności bilans oraz rachunek zysków i strat za ostatnie dwa zamknięte lata obrotowe oraz prognozowane przychody i koszty, związane z wytwarzaniem energii elektrycznej w wysokosprawnej kogeneracji, umożliwiające wyznaczenie wysokości premii gwarantowanej indywidualnej;
-- **13)** opinię akredytowanej jednostki, o której mowa w art. 77 ust. 3, potwierdzającą: 3 – w przypadku zmodernizowanej jednostki kogeneracji,
-    - **a)** dane dotyczące możliwej do uzyskania ilości wytworzonej energii elektrycznej z wysokosprawnej kogeneracji w pierwszym roku kalendarzowym po zakończeniu modernizacji, o którym mowa w art. 5 ust.
-    - **b)** udział procentowy wartości poniesionych kosztów inwestycyjnych modernizacji w odniesieniu do wartości kosztów inwestycyjnych nowej porównywalnej jednostki kogeneracji określonych w przepisach wydanych na podstawie art. 59 ust. 3,
-    - **c)** możliwość spełnienia jednostkowego wskaźnika emisji dwutlenku węgla na poziomie nie wyższym niż 450 kg na 1 MWh wytworzonej energii w jednostce kogeneracji;
+- **13)** opinię akredytowanej jednostki, o której mowa w art. 77 ust. 3, potwierdzającą: dane dotyczące możliwej do uzyskania ilości wytworzonej energii elektrycznej z wysokosprawnej kogeneracji w pierwszym roku kalendarzowym po zakończeniu modernizacji, o którym mowa w art. 5 ust. 3 – w przypadku zmodernizowanej jednostki kogeneracji, udział procentowy wartości poniesionych kosztów inwestycyjnych modernizacji w odniesieniu do wartości kosztów inwestycyjnych nowej porównywalnej jednostki kogeneracji określonych w przepisach wydanych na podstawie art. 59 ust. 3, możliwość spełnienia jednostkowego wskaźnika emisji dwutlenku węgla na poziomie nie wyższym niż 450 kg na 1 MWh wytworzonej energii w jednostce kogeneracji;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **14)** dokumenty potwierdzające, że urządzenia zamontowane w czasie modernizacji jednostki kogeneracji zostały wyprodukowane w okresie 60 miesięcy przed dniem wytworzenia po raz pierwszy energii elektrycznej w zmodernizowanej jednostce kogeneracji;
 - **15)** podpis wytwórcy.
@@ -741,14 +824,14 @@ Art. 95–98. (pominięte)
 
 2. W celu uzyskania wypłaty premii gwarantowanej indywidualnej uprawniony wytwórca:
 
-- **1)** jednorazowo przekazuje do operatora rozliczeń informację o dacie wytworzenia po raz pierwszy energii elektrycznej w jednostce kogeneracji:
-    - **a)** potwierdzoną wydanym świadectwem pochodzenia z kogeneracji – w przypadku istniejącej jednostki kogeneracji, albo
-    - **b)** po dokonaniu modernizacji, potwierdzoną przez operatora sieci przesyłowej elektroenergetycznej lub operatora sieci dystrybucyjnej elektroenergetycznej – w przypadku zmodernizowanej jednostki kogeneracji;
+- **1)** jednorazowo przekazuje do operatora rozliczeń informację o dacie wytworzenia po raz pierwszy energii elektrycznej w jednostce kogeneracji: potwierdzoną wydanym świadectwem pochodzenia z kogeneracji – w przypadku istniejącej jednostki kogeneracji, albo po dokonaniu modernizacji, potwierdzoną przez operatora sieci przesyłowej elektroenergetycznej lub operatora sieci dystrybucyjnej elektroenergetycznej – w przypadku zmodernizowanej jednostki kogeneracji;
+    - **a)**
+    - **b)**
 
 - **2)** każdorazowo składa do operatora rozliczeń wniosek o wypłatę premii gwarantowanej indywidualnej;
-- **3)** wraz ze złożeniem pierwszego wniosku, o którym mowa w pkt 2, informuje operatora rozliczeń, w formie pisemnej, w postaci papierowej lub elektronicznej, o:
-    - **a)** lokalizacji jednostki kogeneracji, mocy zainstalowanej elektrycznej tej jednostki oraz miejscu jej przyłączenia do sieci dystrybucyjnej elektroenergetycznej lub sieci przesyłowej elektroenergetycznej, określonym w warunkach przyłączenia albo umowie o przyłączenie,
-    - **b)** numerze rachunku bankowego, na który ma być wypłacana premia gwarantowana indywidualna.
+- **3)** wraz ze złożeniem pierwszego wniosku, o którym mowa w pkt 2, informuje operatora rozliczeń, w formie pisemnej, w postaci papierowej lub elektronicznej, o: lokalizacji jednostki kogeneracji, mocy zainstalowanej elektrycznej tej jednostki oraz miejscu jej przyłączenia do sieci dystrybucyjnej elektroenergetycznej lub sieci przesyłowej elektroenergetycznej, określonym w warunkach przyłączenia albo umowie o przyłączenie, numerze rachunku bankowego, na który ma być wypłacana premia gwarantowana indywidualna.
+    - **a)**
+    - **b)**
 
 3. Wniosek, o którym mowa w ust. 2 pkt 2, zawiera:
 
@@ -794,14 +877,14 @@ Art. 95–98. (pominięte)
 
 **Art. 43.**
 
-1. Prezes URE ogłasza, organizuje i przeprowadza nabór na premię kogeneracyjną indywidualną nie rzadziej niż w czerwcu i w grudniu w roku, dla którego wartość określona w przepisach wydanych na podstawie art. 56 ust. 1 pkt 5 wynosi więcej niż 0.
+1. Prezes URE ogłasza, organizuje i przeprowadza nabór na premię kogeneracyjną indywidualną, nie rzadziej niż raz w roku, dla którego wartość określona w przepisach wydanych na podstawie art. 56 ust. 1 pkt 5 wynosi więcej niż 0.
 
 2. Przedmiotem naboru jest premia kogeneracyjna indywidualna za sprzedaż energii elektrycznej z wysokosprawnej kogeneracji wytworzonej w jednostce kogeneracji, o której mowa w art. 6 ust. 1 pkt 1:
 
 - **1)** opalanej paliwem, o którym mowa w art. 15 ust. 7 pkt 1 – wybudowanej lub znacznie zmodernizowanej w terminie 48 miesięcy od dnia rozstrzygnięcia naboru,
-- **2)** opalanej paliwem, o którym mowa w art. 15 ust. 7 pkt 3 i 4 – wybudowanej lub znacznie zmodernizowanej w terminie 60 miesięcy od dnia rozstrzygnięcia naboru – która osiągnie jednostkowy wskaźnik emisji dwutlenku węgla na poziomie nie wyższym niż 450 kg na 1 MWh wytwarzanej energii.
+- **2)** opalanej paliwem, o którym mowa w art. 15 ust. 7 pkt 2–4 – wybudowanej lub znacznie zmodernizowanej w terminie 60 miesięcy od dnia rozstrzygnięcia naboru która osiągnie jednostkowy wskaźnik emisji dwutlenku węgla na poziomie nie wyższym niż 450 kg na 1 MWh wytwarzanej energii.
 
-3. W przypadku gdy określona w przepisach wydanych na podstawie art. 56 ust. 1 pkt 5 i 6 maksymalna ilość energii elektrycznej z wysokosprawnej kogeneracji, której sprzedaż mogła zostać objęta premią kogeneracyjną indywidualną w roku kalendarzowym poprzedzającym rok przeprowadzenia naboru, i maksymalna wartość premii kogeneracyjnej indywidualnej wynikająca z tej energii nie została wykorzystana, Prezes URE uwzględnia je w wielkościach, o których mowa w art. 46 ust. 2 pkt 3, w odniesieniu do naborów w danym roku kalendarzowym.
+3. W przypadku gdy maksymalna ilość energii elektrycznej z wysokosprawnej kogeneracji, określona w przepisach wydanych na podstawie art. 56 ust. 1 pkt 5, której sprzedaż może zostać objęta premią kogeneracyjną indywidualną w danym roku kalendarzowym, i maksymalna wartość premii kogeneracyjnej indywidualnej, określona w przepisach wydanych na podstawie art. 56 ust. 1 pkt 6, wynikająca z tej energii nie zostanie wykorzystana, Prezes URE może przeprowadzić w danym roku kolejny nabór.
 
 4. W naborze przeprowadzanym przez Prezesa URE może wziąć udział wytwórca, o którym mowa w art. 6 ust. 1 pkt 1, którego jednostka kogeneracji, spełniająca warunki, o których mowa w art. 17, zlokalizowana jest poza terytorium Rzeczypospolitej Polskiej.
 
@@ -820,26 +903,27 @@ Art. 95–98. (pominięte)
 - **3)** wskazanie procentowego udziału ciepła użytkowego wytworzonego w jednostce kogeneracji, które zostanie wprowadzone do publicznej sieci ciepłowniczej, zgodnie z art. 36 ust. 2;
 - **4)** określenie wszystkich rodzajów paliw zużywanych w jednostce kogeneracji;
 - **5)** określenie przewidywanej wielkości jednostkowego wskaźnika emisji dwutlenku węgla, jednak na poziomie nie wyższym niż 450 kg na 1 MWh wytwarzanej energii w jednostce kogeneracji;
-- **6)** oświadczenie o następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oświadczam, że wartość pomocy inwestycyjnej, o której mowa w art. 14 ust. 1 ustawy z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji, obliczona zgodnie z art. 14 tej ustawy, wynosi (…) złotych.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań;
+- **6)** oświadczenie o następującej treści: „ Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oświadczam, że wartość pomocy inwestycyjnej, o której mowa w art. 14 ust. 1 ustawy z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji, obliczona zgodnie z art. 14 tej ustawy, wynosi (…) złotych. ” ; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań;
 - **7)** określenie wielkości planowanych kosztów inwestycyjnych w stosunku do wielkości kosztów inwestycyjnych nowej porównywalnej jednostki kogeneracji, określonych w przepisach wydanych na podstawie art. 59 ust. 3;
 - **8)** podpis wytwórcy.
 
 4. Do wniosku o dopuszczenie do udziału w naborze wytwórca dołącza oryginały lub poświadczone za zgodność z oryginałem kopie:
 
-- **1)** dokumentu potwierdzającego:
-    - **a)** wydanie warunków przyłączenia jednostki kogeneracji do sieci przesyłowej elektroenergetycznej lub sieci dystrybucyjnej elektroenergetycznej, albo
-    - **b)** zawarcie umowy o przyłączenie jednostki kogeneracji do sieci przesyłowej elektroenergetycznej lub sieci dystrybucyjnej elektroenergetycznej,
-    - **c)** wydanie warunków przyłączenia jednostki kogeneracji do sieci ciepłowniczej, albo
-    - **d)** zawarcie umowy o przyłączenie jednostki kogeneracji do sieci ciepłowniczej,
-    - **e)** w przypadku jednostki kogeneracji opalanej paliwem, o którym mowa w art. 15 ust. 7 pkt 1 – wydanie warunków przyłączenia jednostki kogeneracji do sieci przesyłowej gazowej lub sieci dystrybucyjnej gazowej – jeżeli zostały wydane albo
-    - **f)** w przypadku jednostki kogeneracji opalanej paliwem, o którym mowa w art. 15 ust. 7 pkt 1 – zawarcie umowy o przyłączenie jednostki kogeneracji do sieci przesyłowej gazowej lub sieci dystrybucyjnej gazowej – jeżeli została zawarta;
+- **1)** dokumentu potwierdzającego: wydanie warunków przyłączenia jednostki kogeneracji do sieci przesyłowej elektroenergetycznej lub sieci dystrybucyjnej elektroenergetycznej, albo zawarcie umowy o przyłączenie jednostki kogeneracji do sieci przesyłowej elektroenergetycznej lub sieci dystrybucyjnej elektroenergetycznej, wydanie warunków przyłączenia jednostki kogeneracji do sieci ciepłowniczej, albo zawarcie umowy o przyłączenie jednostki kogeneracji do sieci ciepłowniczej;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **2)** schematu jednostki kogeneracji wraz z określeniem granicy bilansowej;
-- **3)** (uchylony)
-- **4)** harmonogramu rzeczowego i finansowego realizacji budowy nowej jednostki kogeneracji lub znacznej modernizacji jednostki kogeneracji.
-- **5)** (uchylony)
+- **3)** ostatecznego pozwolenia na budowę wydanego dla projektowanej jednostki kogeneracji lub planowanej znacznej modernizacji jednostki kogeneracji, jeżeli jest ono wymagane na podstawie przepisów ustawy – Prawo budowlane;
+- **4)** harmonogramu rzeczowego i finansowego realizacji budowy nowej jednostki kogeneracji lub znacznej modernizacji jednostki kogeneracji;
+- **5)** opinii sporządzonej przez akredytowaną jednostkę, o której mowa w art. 77 ust. 4, w okresie 6 miesięcy przed dniem jego złożenia do Prezesa URE, potwierdzającej, w planowanej lokalizacji w odniesieniu do jednostki kogeneracji, o której mowa w art. 6 ust. 1 pkt 1, i opalanej paliwem stałym, spełnienie następujących warunków: brak możliwości zasilania tej jednostki paliwami gazowymi ze względu na techniczne lub ekonomiczne warunki przyłączenia do sieci gazowej, udokumentowany przedstawioną odmową wydania warunków przyłączenia do sieci przez operatora sieci dystrybucyjnej gazowej lub operatora przesyłowej gazowej oraz brak technicznego lub ekonomicznego uzasadnienia do zasilania tej jednostki wyłącznie biomasą stwierdzony na podstawie analizy, o której mowa w art. 10a ust. 1 lub art. 10b ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, oraz prognozę wskazującą, że poziom cen ciepła w publicznej sieci ciepłowniczej zasilanej bądź planowanej do zasilenia przez tę jednostkę kogeneracji w danym roku kalendarzowym nie będzie wyższy od średniej ceny ciepła z innych źródeł zasilających tę sieć ciepłowniczą, albo w przypadku nowych systemów ciepłowniczych, możliwość oferowania w planowanej lokalizacji przez tę jednostkę kogeneracji w danym roku kalendarzowym ciepła po cenie nie wyższej od iloczynu średniej ceny sprzedaży ciepła, o której mowa w art. 23 ust. 2 pkt 18 lit. c tiret pierwsze ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, oraz wskaźnika referencyjnego, o którym mowa w art. 47 ust. 2f tej ustawy.
+    - **a)**
+    - **b)**
+    - **c)**
 
-5. Okres ważności dokumentów, o których mowa w ust. 4 pkt 1 lit. a i c, w dniu ich złożenia, nie może być krótszy niż 6 miesięcy.
+5. Okres ważności dokumentów, o których mowa w ust. 4 pkt 1 lit. a i c oraz pkt 3, w dniu ich złożenia, nie może być krótszy niż 6 miesięcy.
 
 6. Do wytwórcy energii elektrycznej wytworzonej w wysokosprawnej kogeneracji, którego jednostka kogeneracji jest lub będzie zlokalizowana poza terytorium Rzeczypospolitej Polskiej, przepisów ust. 4 i 5 nie stosuje się.
 
@@ -849,7 +933,7 @@ Art. 95–98. (pominięte)
 
 1. Prezes URE wydaje decyzję o dopuszczeniu do udziału w naborze albo o odmowie dopuszczenia do naboru, w terminie 30 dni od dnia złożenia kompletnego wniosku o to dopuszczenie.
 
-2. Decyzja, o której mowa w ust. 1, jest ważna 18 miesięcy od dnia jej wydania, nie dłużej jednak niż najkrótszy termin ważności dokumentu, o którym mowa w art. 44 ust. 4 pkt 1 lit. a i c.
+2. Decyzja, o której mowa w ust. 1, jest ważna 18 miesięcy od dnia jej wydania, nie dłużej jednak niż najkrótszy termin ważności dokumentu, o którym mowa w art. 44 ust. 4 pkt 1 lit. a i c i pkt 3.
 
 **Art. 46.**
 
@@ -895,18 +979,18 @@ Art. 95–98. (pominięte)
 - **4)** ilość energii elektrycznej z wysokosprawnej kogeneracji z podziałem na kolejno następujące po sobie lata kalendarzowe, wyrażoną w MWh, z podziałem odpowiadającym udziałowi energii chemicznej danego paliwa, o którym mowa w art. 15 ust. 7, z uwzględnieniem art. 36 ust. 2, jaką uczestnik naboru zobowiązuje się wytworzyć, wprowadzić do sieci i sprzedać;
 - **5)** miejsce przyłączenia jednostki kogeneracji do sieci dystrybucyjnej elektroenergetycznej lub sieci przesyłowej elektroenergetycznej, określone w warunkach przyłączenia albo w umowie o przyłączenie;
 - **6)** miejsce przyłączenia jednostki kogeneracji do publicznej sieci ciepłowniczej;
-- **7)** zobowiązanie uczestnika naboru:
-    - **a)** że do budowy nowej jednostki kogeneracji albo znacznej modernizacji jednostki kogeneracji zostaną wykorzystane wyłącznie urządzenia wyprodukowane w okresie 60 miesięcy, przed dniem wytworzenia po raz pierwszy energii elektrycznej w nowej jednostce kogeneracji lub przed dniem wytworzenia po raz pierwszy energii elektrycznej po zakończeniu znacznej modernizacji,
-    - **b)** w przypadku jednostki kogeneracji, o której mowa w art. 8, do wytwarzania energii elektrycznej przy wykorzystaniu droższego spośród paliw, o których mowa w art. 15 ust. 5, na poziomie nie mniejszym niż wskazanym w ofercie;
+- **7)** zobowiązanie uczestnika naboru: że do budowy nowej jednostki kogeneracji albo znacznej modernizacji jednostki kogeneracji zostaną wykorzystane wyłącznie urządzenia wyprodukowane w okresie 60 miesięcy, przed dniem wytworzenia po raz pierwszy energii elektrycznej w nowej jednostce kogeneracji lub przed dniem wytworzenia po raz pierwszy energii elektrycznej po zakończeniu znacznej modernizacji, w przypadku jednostki kogeneracji, o której mowa w art. 8, do wytwarzania energii elektrycznej przy wykorzystaniu droższego spośród paliw, o których mowa w art. 15 ust. 5, na poziomie nie mniejszym niż wskazanym w ofercie;
+    - **a)**
+    - **b)**
 
 - **8)** wskazanie procentowego udziału ciepła użytkowego wytworzonego w jednostce kogeneracji, które zostanie wprowadzone do publicznej sieci ciepłowniczej, zgodnie z art. 36 ust. 2;
-- **9)** zobowiązanie uczestnika naboru do wytworzenia po raz pierwszy energii elektrycznej w nowej jednostce kogeneracji lub znacznie zmodernizowanej jednostce kogeneracji: 7 pkt 1, 7 pkt 3 i 4;
-    - **a)** w terminie 48 miesięcy od dnia rozstrzygnięcia naboru – w przypadku wytwórców energii elektrycznej w wysokosprawnej kogeneracji w jednostkach kogeneracji opalanych paliwem, o którym mowa w art. 15 ust.
-    - **b)** w terminie 60 miesięcy od dnia rozstrzygnięcia naboru – w przypadku wytwórców energii elektrycznej w wysokosprawnej kogeneracji w jednostkach kogeneracji opalanych paliwem, o którym mowa w art. 15 ust.
+- **9)** zobowiązanie uczestnika naboru do wytworzenia po raz pierwszy energii elektrycznej w nowej jednostce kogeneracji lub znacznie zmodernizowanej jednostce kogeneracji: w terminie 48 miesięcy od dnia rozstrzygnięcia naboru – w przypadku wytwórców energii elektrycznej w wysokosprawnej kogeneracji w jednostkach kogeneracji opalanych paliwem, o którym mowa w art. 15 ust. 7 pkt 1, w terminie 60 miesięcy od dnia rozstrzygnięcia naboru – w przypadku wytwórców energii elektrycznej w wysokosprawnej kogeneracji w jednostkach kogeneracji opalanych paliwem, o którym mowa w art. 15 ust. 7 pkt 2–4;
+    - **a)**
+    - **b)**
 
 - **10)** dane techniczne i ekonomiczne, w szczególności bilans oraz rachunek zysków i strat za ostatnie dwa zamknięte lata obrotowe oraz prognozowane przychody i koszty prowadzonej działalności, umożliwiające wyznaczenie wysokości premii kogeneracyjnej indywidualnej;
-- **11)** (uchylony)
-- **12)** oświadczenie, o następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oświadczam, że wartość pomocy inwestycyjnej, o której mowa w art. 14 ust. 1 ustawy z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji, obliczona zgodnie z art. 14 tej ustawy, wynosi (…) złotych.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań;
+- **11)** określenie przewidywanej wielkości jednostkowego wskaźnika emisji dwutlenku węgla, jednak na poziomie nie wyższym niż 450 kg na 1 MWh wytwarzanej energii w jednostce kogeneracji;
+- **12)** oświadczenie, o następującej treści: „ Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oświadczam, że wartość pomocy inwestycyjnej, o której mowa w art. 14 ust. 1 ustawy z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji, obliczona zgodnie z art. 14 tej ustawy, wynosi (…) złotych. ” ; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań;
 - **13)** określenie wielkości planowanych kosztów inwestycyjnych w stosunku do wielkości kosztów inwestycyjnych nowej porównywalnej jednostki kogeneracji, określonych w przepisach wydanych na podstawie art. 59 ust. 3;
 - **14)** podpis wytwórcy.
 
@@ -916,7 +1000,7 @@ Art. 95–98. (pominięte)
 
 **Art. 48.**
 
-1. Prezes URE wylicza dla każdego wytwórcy, który złożył ofertę w naborze, wysokość premii kogeneracyjnej indywidualnej, na podstawie danych, o których mowa w art. 47 ust. 3 pkt 8 i 10, uwzględniając wartość otrzymanej pomocy inwestycyjnej, w sposób określony w art. 14.
+1. Prezes URE wylicza dla każdego wytwórcy, który złożył ofertę w naborze, wysokość premii kogeneracyjnej indywidualnej, na podstawie danych, o których mowa w art. 47 ust. 3 pkt 8, 10 i 11, uwzględniając wartość otrzymanej pomocy inwestycyjnej, w sposób określony w art. 14.
 
 2. Wysokość premii kogeneracyjnej indywidualnej obliczona zgodnie z ust. 1 nie może być wyższa niż maksymalna wysokość premii kogeneracyjnej indywidualnej określona w przepisach wydanych na podstawie art. 56 ust. 1 pkt 7.
 
@@ -962,10 +1046,10 @@ Art. 95–98. (pominięte)
 
 5. Prezes URE, w terminie 90 dni od dnia zamknięcia naboru, rozstrzyga nabór i podaje do publicznej wiadomości na swojej stronie internetowej informacje o:
 
-- **1)** wynikach naboru, w tym o:
-    - **a)** wytwórcach, których oferty wygrały nabór,
-    - **b)** minimalnej i maksymalnej wysokości premii kogeneracyjnej indywidualnej, w złotych za 1 MWh, z dokładnością do jednego grosza, jaka zostanie wypłacona uczestnikom, którzy wygrali nabór, za wytworzenie, wprowadzenie do sieci i sprzedaż energii elektrycznej z wysokosprawnej kogeneracji,
-    - **c)** łącznej ilości energii elektrycznej z wysokosprawnej kogeneracji, w MWh, i wartości premii kogeneracyjnej indywidualnej wynikająca z tej ilości, w złotych, z dokładnością do jednego grosza, jaka zostanie wypłacona uczestnikom, którzy wygrali nabór, z uwzględnieniem podziału na kolejne następujące po sobie lata kalendarzowe, albo
+- **1)** wynikach naboru, w tym o: wytwórcach, których oferty wygrały nabór, minimalnej i maksymalnej wysokości premii kogeneracyjnej indywidualnej, w złotych za 1 MWh, z dokładnością do jednego grosza, jaka zostanie wypłacona uczestnikom, którzy wygrali nabór, za wytworzenie, wprowadzenie do sieci i sprzedaż energii elektrycznej z wysokosprawnej kogeneracji, łącznej ilości energii elektrycznej z wysokosprawnej kogeneracji, w MWh, i wartości premii kogeneracyjnej indywidualnej wynikająca z tej ilości, w złotych, z dokładnością do jednego grosza, jaka zostanie wypłacona uczestnikom, którzy wygrali nabór, z uwzględnieniem podziału na kolejne następujące po sobie lata kalendarzowe, albo
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **2)** unieważnieniu naboru.
 
@@ -986,13 +1070,13 @@ Art. 95–98. (pominięte)
 
 12. Informacja, o której mowa w ust. 11, zawiera:
 
-- **1)** wykaz ofert, które wygrały nabór, w tym:
-    - **a)** wskazanie wytwórców, których oferty wygrały nabór,
-    - **b)** informację o: – wysokości premii kogeneracyjnej indywidualnej, w złotych za 1 MWh, z dokładnością do jednego grosza, jaka zostanie wypłacona uczestnikom naboru, których oferty wygrały nabór, – ilości energii elektrycznej z wysokosprawnej kogeneracji, w MWh, jaką poszczególni uczestnicy naboru, których oferty wygrały nabór, zobowiązali się sprzedać oraz wartości premii kogeneracyjnej indywidualnej, wynikającej z tej ilości energii, jaka zostanie wypłacona, w złotych, z dokładnością do jednego grosza, z uwzględnieniem podziału na kolejne następujące po sobie lata kalendarzowe;
+- **1)** wykaz ofert, które wygrały nabór, w tym: wskazanie wytwórców, których oferty wygrały nabór, informację o: – wysokości premii kogeneracyjnej indywidualnej, w złotych za 1 MWh, z dokładnością do jednego grosza, jaka zostanie wypłacona uczestnikom naboru, których oferty wygrały nabór, – ilości energii elektrycznej z wysokosprawnej kogeneracji, w MWh, jaką poszczególni uczestnicy naboru, których oferty wygrały nabór, zobowiązali się sprzedać oraz wartości premii kogeneracyjnej indywidualnej, wynikającej z tej ilości energii, jaka zostanie wypłacona, w złotych, z dokładnością do jednego grosza, z uwzględnieniem podziału na kolejne następujące po sobie lata kalendarzowe;
+    - **a)**
+    - **b)**
 
-- **2)** wykaz ofert, które nie wygrały naboru, w tym:
-    - **a)** wskazanie wytwórców, których oferty nie wygrały naboru,
-    - **b)** informację o: – wysokości skorygowanej premii kogeneracyjnej indywidualnej, w złotych za 1 MWh, z dokładnością do jednego grosza, za jaką poszczególni uczestnicy naboru, których oferty nie wygrały naboru, zobowiązali się sprzedać energię elektryczną z wysokosprawnej kogeneracji, – ilości energii elektrycznej z wysokosprawnej kogeneracji, w MWh, jaką poszczególni uczestnicy naboru, których oferty nie wygrały naboru, zobowiązali się sprzedać i wartości skorygowanej premii kogeneracyjnej indywidualnej wynikającej z tej ilości energii, w złotych, z dokładnością do jednego grosza, z uwzględnieniem podziału na kolejne następujące po sobie lata kalendarzowe, albo
+- **2)** wykaz ofert, które nie wygrały naboru, w tym: wskazanie wytwórców, których oferty nie wygrały naboru, informację o: – wysokości skorygowanej premii kogeneracyjnej indywidualnej, w złotych za 1 MWh, z dokładnością do jednego grosza, za jaką poszczególni uczestnicy naboru, których oferty nie wygrały naboru, zobowiązali się sprzedać energię elektryczną z wysokosprawnej kogeneracji, – ilości energii elektrycznej z wysokosprawnej kogeneracji, w MWh, jaką poszczególni uczestnicy naboru, których oferty nie wygrały naboru, zobowiązali się sprzedać i wartości skorygowanej premii kogeneracyjnej indywidualnej wynikającej z tej ilości energii, w złotych, z dokładnością do jednego grosza, z uwzględnieniem podziału na kolejne następujące po sobie lata kalendarzowe, albo
+    - **a)**
+    - **b)**
 
 - **3)** wskazanie przyczyn unieważnienia naboru.
 
@@ -1000,18 +1084,16 @@ Art. 95–98. (pominięte)
 
 1. Przed dniem złożenia wniosku o wypłatę premii kogeneracyjnej indywidualnej, o którym mowa w art. 52 ust. 2 pkt 2, wytwórca przedkłada Prezesowi URE:
 
-- **1)** dokumenty potwierdzające, że decyzja inwestycyjna dotycząca budowy nowej jednostki kogeneracji albo znacznej modernizacji jednostki kogeneracji została podjęta po dniu wygrania naboru oraz, że urządzenia zamontowane w czasie budowy nowej jednostki kogeneracji albo znacznej modernizacji jednostki kogeneracji zostały wyprodukowane w okresie 60 miesięcy przed dniem wytworzenia po raz pierwszy energii elektrycznej w nowej albo znacznie zmodernizowanej jednostce kogeneracji;
-- **2)** opinię akredytowanej jednostki, o której mowa w art. 77 ust. 3, potwierdzającą:
-    - **a)** dane dotyczące możliwej do wytworzenia ilości energii elektrycznej z wysokosprawnej kogeneracji, wprowadzenia do sieci i sprzedaży w pierwszym roku kalendarzowym po uzyskaniu lub zmianie koncesji na wytwarzanie energii elektrycznej albo po uzyskaniu lub zmianie wpisu do rejestru wytwórców biogazu rolniczego,
-    - **b)** udział procentowy wartości poniesionych kosztów inwestycyjnych znacznej modernizacji w odniesieniu do wartości kosztów inwestycyjnych nowej porównywalnej jednostki kogeneracji określonych w przepisach wydanych na podstawie art. 59 ust. 3,
-    - **c)** możliwość spełnienia jednostkowego wskaźnika emisji dwutlenku węgla na poziomie nie wyższym niż 450 kg na 1 MWh wytworzonej energii w jednostce kogeneracji;
-
-- **3)** ostateczne pozwolenie na budowę wydane dla nowej jednostki kogeneracji lub znacznie zmodernizowanej jednostki kogeneracji w terminie nie później niż 12 miesięcy od dnia rozstrzygnięcia naboru, jeżeli jest ono wymagane na podstawie przepisów ustawy – Prawo budowlane.
+- **1)** dokumenty potwierdzające, że urządzenia zamontowane w czasie budowy nowej jednostki kogeneracji albo znacznej modernizacji jednostki kogeneracji zostały wyprodukowane w okresie 60 miesięcy przed dniem wytworzenia po raz pierwszy energii elektrycznej w nowej albo znacznie zmodernizowanej jednostce kogeneracji;
+- **2)** opinię akredytowanej jednostki, o której mowa w art. 77 ust. 3, potwierdzającą: dane dotyczące możliwej do wytworzenia ilości energii elektrycznej z wysokosprawnej kogeneracji, wprowadzenia do sieci i sprzedaży w pierwszym roku kalendarzowym po uzyskaniu lub zmianie koncesji na wytwarzanie energii elektrycznej albo po uzyskaniu lub zmianie wpisu do rejestru wytwórców biogazu rolniczego, udział procentowy wartości poniesionych kosztów inwestycyjnych znacznej modernizacji w odniesieniu do wartości kosztów inwestycyjnych nowej porównywalnej jednostki kogeneracji określonych w przepisach wydanych na podstawie art. 59 ust. 3, możliwość spełnienia jednostkowego wskaźnika emisji dwutlenku węgla na poziomie nie wyższym niż 450 kg na 1 MWh wytworzonej energii w jednostce kogeneracji.
+    - **a)**
+    - **b)**
+    - **c)**
 
 2. W przypadku:
 
 - **1)** pozytywnej weryfikacji dokumentów, o których mowa w ust. 1 – Prezes URE, w drodze decyzji, potwierdza prawo wytwórcy do wypłaty premii kogeneracyjnej indywidualnej;
-- **2)** braku przedstawienia dokumentów, o których mowa w ust. 1, lub w przypadku gdy z przedstawionych dokumentów wynika, że jednostka kogeneracji nie spełnia wymagań umożliwiających zakwalifikowanie wytwarzanej energii elektrycznej, wprowadzonej do sieci i sprzedanej jako wytworzonej z wysokosprawnej kogeneracji lub nie spełnia warunków znacznej modernizacji, lub decyzja inwestycyjna dotycząca budowy nowej jednostki kogeneracji lub znacznej modernizacji jednostki kogeneracji została podjęta wcześniej niż w dniu następującym po dniu wygrania naboru, lub zainstalowane w trakcie budowy lub znacznej modernizacji urządzenia nie zostały wyprodukowane w okresie 60 miesięcy przed dniem wytworzenia po raz pierwszy energii elektrycznej w nowej albo znacznie zmodernizowanej jednostce kogeneracji, lub ostateczne pozwolenie na budowę, jeżeli jest ono wymagane na podstawie przepisów ustawy – Prawo budowlane, zostało wydane dla nowej jednostki kogeneracji lub znacznie zmodernizowanej jednostki kogeneracji po upływie 12 miesięcy od dnia rozstrzygnięcia naboru – Prezes URE, w drodze decyzji, stwierdza utratę przez wytwórcę uprawnienia do wypłaty premii kogeneracyjnej indywidualnej.
+- **2)** braku przedstawienia dokumentów, o których mowa w ust. 1, lub w przypadku gdy z przedstawionych dokumentów wynika, że jednostka kogeneracji nie spełnia wymagań umożliwiających zakwalifikowanie wytwarzanej energii elektrycznej, wprowadzonej do sieci i sprzedanej jako wytworzonej z wysokosprawnej kogeneracji lub nie spełnia warunków znacznej modernizacji, lub zainstalowane w trakcie budowy lub znacznej modernizacji urządzenia nie zostały wyprodukowane w okresie 60 miesięcy przed dniem wytworzenia po raz pierwszy energii elektrycznej w nowej albo znacznie zmodernizowanej jednostce kogeneracji – Prezes URE, w drodze decyzji, stwierdza utratę przez wytwórcę prawa do wypłaty premii kogeneracyjnej indywidualnej.
 
 3. Decyzja, o której mowa w ust. 2 pkt 2, jest natychmiast wykonalna.
 
@@ -1023,10 +1105,10 @@ Art. 95–98. (pominięte)
 
 - **1)** jednorazowo przekazuje do operatora rozliczeń, w terminie 30 dni od daty wytworzenia po raz pierwszy energii elektrycznej w nowej jednostce kogeneracji lub wytworzenia po raz pierwszy energii elektrycznej po zakończeniu znacznej modernizacji, informację o dacie wytworzenia po raz pierwszy tej energii, potwierdzoną przez operatora sieci przesyłowej elektroenergetycznej lub operatora sieci dystrybucyjnej elektroenergetycznej;
 - **2)** każdorazowo składa wniosek do operatora rozliczeń o wypłatę premii kogeneracyjnej indywidualnej;
-- **3)** wraz ze złożeniem pierwszego wniosku, o którym mowa w pkt 2, informuje operatora rozliczeń, w formie pisemnej, w postaci papierowej lub elektronicznej, o:
-    - **a)** lokalizacji jednostki kogeneracji oraz jej mocy zainstalowanej elektrycznej i miejscu przyłączenia tej jednostki do sieci dystrybucyjnej elektroenergetycznej lub sieci przesyłowej elektroenergetycznej, określonym w warunkach przyłączenia albo umowie o przyłączenie,
-    - **b)** numerze rachunku bankowego, na który ma być wypłacana premia kogeneracyjna indywidualna,
-    - **c)** potwierdzeniu, o którym mowa w art. 51 ust. 2 pkt 1.
+- **3)** wraz ze złożeniem pierwszego wniosku, o którym mowa w pkt 2, informuje operatora rozliczeń, w formie pisemnej, w postaci papierowej lub elektronicznej, o: lokalizacji jednostki kogeneracji oraz jej mocy zainstalowanej elektrycznej i miejscu przyłączenia tej jednostki do sieci dystrybucyjnej elektroenergetycznej lub sieci przesyłowej elektroenergetycznej, określonym w warunkach przyłączenia albo umowie o przyłączenie, numerze rachunku bankowego, na który ma być wypłacana premia kogeneracyjna indywidualna, potwierdzeniu, o którym mowa w art. 51 ust. 2 pkt 1.
+    - **a)**
+    - **b)**
+    - **c)**
 
 3. Wniosek, o którym mowa w ust. 2 pkt 2, zawiera:
 
@@ -1081,7 +1163,7 @@ Art. 95–98. (pominięte)
 1. Minister właściwy do spraw energii określi, w drodze rozporządzenia, w terminie do dnia 31 października każdego roku:
 
 - **1)** maksymalną ilość energii elektrycznej z wysokosprawnej kogeneracji, której sprzedaż może zostać objęta premią kogeneracyjną w kolejnym roku kalendarzowym;
-- **2)** maksymalną wartość premii kogeneracyjnej wynikającej z ilości energii, o której mowa w pkt 1, w kolejnym roku kalendarzowym w tym w odniesieniu do wytwórców energii elektrycznej z wysokosprawnej kogeneracji w jednostkach kogeneracji zlokalizowanych poza terytorium Rzeczypospolitej Polskiej;
+- **2)** maksymalną wartość premii kogeneracyjnej wynikającej z ilości energii, o której mowa w pkt 1, w kolejnym roku kalendarzowym, w tym w odniesieniu do wytwórców energii elektrycznej z wysokosprawnej kogeneracji w jednostkach kogeneracji zlokalizowanych poza terytorium Rzeczypospolitej Polskiej;
 - **3)** maksymalną moc zainstalowaną elektryczną nowych małych jednostek kogeneracji lub znacznie zmodernizowanych małych jednostek kogeneracji, dla których wytwórca, o którym mowa w art. 5 ust. 1 pkt 3, może uzyskać premię gwarantowaną w danym roku kalendarzowym;
 - **4)** jednostkową wysokość premii gwarantowanej, w złotych za 1 MWh, dla nowej małej jednostki kogeneracji, zmodernizowanej małej jednostki kogeneracji oraz znacznie zmodernizowanej małej jednostki kogeneracji, odrębnie dla jednostek kogeneracji opalanych paliwem, o którym mowa w art. 15 ust. 7, w kolejnym roku kalendarzowym;
 - **5)** maksymalną ilość energii elektrycznej z wysokosprawnej kogeneracji, której sprzedaż może zostać objęta premią kogeneracyjną indywidualną w kolejnym roku kalendarzowym;
@@ -1111,7 +1193,7 @@ Art. 95–98. (pominięte)
 - **5)** przewidywane kształtowanie się cen paliw oraz jednostkowe ceny uprawnień do emisji dwutlenku węgla;
 - **6)** koszty kapitału własnego wytwórcy energii elektrycznej z wysokosprawnej kogeneracji.
 
-4. Maksymalna ilość i wartość, o których mowa w ust. 1 pkt 1, 2, 5 i 6, w odniesieniu do wytwórców energii elektrycznej z wysokosprawnej kogeneracji w jednostkach kogeneracji zlokalizowanych poza terytorium Rzeczypospolitej Polskiej stanowi nie więcej niż 5 % maksymalnej tych ilości i wartości.
+4. Maksymalna ilość i wartość, o których mowa w ust. 1 pkt 1, 2, 5 i 6, w odniesieniu do wytwórców energii elektrycznej z wysokosprawnej kogeneracji w jednostkach kogeneracji zlokalizowanych poza terytorium Rzeczypospolitej Polskiej stanowi nie więcej niż 5% maksymalnej tych ilości i wartości.
 
 5. Minister właściwy do spraw energii ogłasza, w terminie do dnia 31 grudnia każdego roku, na stronie internetowej urzędu obsługującego ministra właściwego do spraw energii informację o prognozie w zakresie danych, o których mowa w art. 56 ust. 1 pkt 1–4, na okres dwóch następujących po sobie lat kalendarzowych, licząc od drugiego roku następującego po roku, w którym informacja o tej prognozie miała zostać ogłoszona.
 
@@ -1119,23 +1201,34 @@ Art. 95–98. (pominięte)
 
 **Art. 58.** Minister właściwy do spraw energii określi, w drodze rozporządzenia:
 
+- **1)** sposób obliczania: średniorocznej sprawności przemiany energii chemicznej paliwa w energię elektryczną lub mechaniczną i ciepło użytkowe w kogeneracji, ilości energii elektrycznej z wysokosprawnej kogeneracji, ilości ciepła użytkowego w kogeneracji, oszczędności energii pierwotnej uzyskanej w wyniku zastosowania kogeneracji w porównaniu z wytwarzaniem energii elektrycznej i ciepła w układach rozdzielonych o referencyjnych wartościach sprawności dla wytwarzania rozdzielonego,
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **2)** referencyjne wartości sprawności dla wytwarzania rozdzielonego, oddzielnie dla energii elektrycznej i ciepła, służące do obliczania oszczędności energii pierwotnej uzyskanej w wyniku zastosowania kogeneracji,
+- **3)** metodę proporcjonalną określania ilości energii elektrycznej wprowadzonej do sieci, o której mowa w art. 26 ust. 2, art. 33 ust. 2, art. 41 ust. 2 i art. 54 ust. 2,
+- **4)** wymagania dotyczące pomiarów, rejestracji i sposobu obliczania ilości energii elektrycznej i ciepła użytkowego w jednostkach kogeneracji oraz ilości paliw zużywanych do ich wytwarzania,
+- **5)** sposób obliczania jednostkowego wskaźnika emisji dwutlenku węgla biorąc pod uwagę politykę energetyczną państwa, ocenę potencjału wytwarzania energii elektrycznej z wysokosprawnej kogeneracji oraz efektywnych energetycznie systemów ciepłowniczych, istotne parametry techniczne funkcjonowania jednostek kogeneracji oraz uzasadnione technicznie i ekonomicznie możliwości wykorzystania krajowego potencjału wysokosprawnej kogeneracji.
+
 **Art. 59.**
 
 1. Do katalogu kwalifikowanych kosztów inwestycyjnych nowej porównywalnej jednostki kogeneracji zalicza się w szczególności koszty poniesione na:
 
 - **1)** zakup lub wytworzenie nowej jednostki kogeneracji w całości, jak i poszczególnych urządzeń i elementów wchodzących w jej skład;
 - **2)** zakup narzędzi i wyposażenia niezbędnego do prawidłowego funkcjonowania nowej jednostki kogeneracji;
-- **3)** opracowanie dokumentacji przygotowawczej nowej jednostki kogeneracji celem uzyskania niezbędnych pozwoleń i decyzji, w tym koszty:
-    - **a)** przygotowania studium wykonalności,
-    - **b)** przygotowania projektu inwestycyjnego,
-    - **c)** przygotowanie raportu oddziaływania na środowisko;
+- **3)** opracowanie dokumentacji przygotowawczej nowej jednostki kogeneracji celem uzyskania niezbędnych pozwoleń i decyzji, w tym koszty: przygotowania studium wykonalności, przygotowania projektu inwestycyjnego, przygotowanie raportu oddziaływania na środowisko;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **4)** dostawę urządzeń i instalacji, obsługę projektu oraz przeprowadzenie robót budowlano-montażowych bezpośrednio związanych z przedsięwzięciem i niezbędnych do jego realizacji, w tym koszty:
-    - **a)** transportu, załadunku i wyładunku urządzeń i instalacji,
-    - **b)** prac rozbiórkowych lub demontażowych niezbędnych do przeprowadzenia robót budowlanych,
-    - **c)** robót budowlanych oraz zakupu materiałów niezbędnych do ich przeprowadzenia, montażu urządzeń i instalacji,
-    - **d)** opłat przyłączeniowych,
-    - **e)** nadzoru inwestorskiego;
+- **4)** dostawę urządzeń i instalacji, obsługę projektu oraz przeprowadzenie robót budowlano-montażowych bezpośrednio związanych z przedsięwzięciem i niezbędnych do jego realizacji, w tym koszty: transportu, załadunku i wyładunku urządzeń i instalacji, prac rozbiórkowych lub demontażowych niezbędnych do przeprowadzenia robót budowlanych, robót budowlanych oraz zakupu materiałów niezbędnych do ich przeprowadzenia, montażu urządzeń i instalacji, opłat przyłączeniowych, nadzoru inwestorskiego;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 - **5)** rozruch urządzeń i instalacji.
 
@@ -1185,17 +1278,17 @@ Art. 95–98. (pominięte)
 - **2)** do sieci przedsiębiorstwa energetycznego wykonującego działalność gospodarczą w zakresie przesyłania lub dystrybucji energii elektrycznej, niebędącego płatnikiem opłaty kogeneracyjnej, przyłączonego do sieci płatnika opłaty kogeneracyjnej;
 - **3)** do sieci przedsiębiorstwa energetycznego wytwarzającego energię elektryczną przyłączonego do sieci płatnika opłaty kogeneracyjnej bezpośrednio lub poprzez sieć przedsiębiorstwa energetycznego świadczącego na ich rzecz usługę przesyłania lub dystrybucji energii elektrycznej.
 
-2. Podstawą do obliczenia opłaty kogeneracyjnej pobieranej od odbiorcy przemysłowego, który został umieszczony w wykazie Prezesa URE, o którym mowa w art. 52 ust. 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, którego przeważającą działalnością gospodarczą jest działalność oznaczona kodem Polskiej Klasyfikacji Działalności (PKD), o którym mowa w art. 52 ust. 6 pkt 1:
+2. Podstawą do obliczenia opłaty kogeneracyjnej pobieranej od odbiorcy przemysłowego, który został umieszczony w wykazie Prezesa URE, o którym mowa w art. 52 ust. 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, i dla którego wartość współczynnika intensywności zużycia energii elektrycznej, o którym mowa w art. 53 ust. 2 tej ustawy, wyniosła:
 
-- **a)** lit. a ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii – jest 15 %,
-- **b)** lit. b ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii – jest 25 % – ilości energii elektrycznej zakupionej na własny użytek, pobranej z sieci i zużytej przez tego odbiorcę w danym okresie rozliczeniowym.
+- **1)** nie mniej niż 3% i nie więcej niż 20% – jest 80%,
+- **2)** więcej niż 20% i nie więcej niż 40% – jest 60%,
+- **3)** więcej niż 40% – jest 15% ilości energii elektrycznej zakupionej na własny użytek, pobranej z sieci i zużytej przez tego odbiorcę w danym okresie rozliczeniowym.
 
 3. Energię elektryczną zużywaną przez:
 
 - **1)** płatników opłaty kogeneracyjnej,
 - **2)** przedsiębiorstwa energetyczne wykonujące działalność gospodarczą w zakresie przesyłania lub dystrybucji energii elektrycznej, niebędące płatnikami opłaty kogeneracyjnej,
-- **3)** przedsiębiorstwa energetyczne wykonujące działalność gospodarczą w zakresie wytwarzania energii elektrycznej,
-- **4)** przedsiębiorstwa energetyczne wykonujące działalność gospodarczą w zakresie magazynowania energii elektrycznej – w części, w jakiej nie jest zużywana do jej wytwarzania, magazynowania, przesyłania lub dystrybucji, uwzględnia się w ilościach energii elektrycznej, w odniesieniu do której pobiera się opłatę kogeneracyjną.
+- **3)** przedsiębiorstwa energetyczne wykonujące działalność gospodarczą w zakresie wytwarzania energii elektrycznej w części, w jakiej nie jest zużywana do jej wytwarzania, przesyłania lub dystrybucji, uwzględnia się w ilościach energii elektrycznej, w odniesieniu do której pobiera się opłatę kogeneracyjną.
 
 **Art. 63.**
 
@@ -1208,45 +1301,52 @@ Art. 95–98. (pominięte)
 4. W przypadku gdy przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie przesyłania lub dystrybucji energii elektrycznej, niebędące płatnikiem opłaty kogeneracyjnej, jest przyłączone jednocześnie do sieci:
 
 - **1)** więcej niż jednego płatnika opłaty kogeneracyjnej lub
-- **2)** operatora systemu przesyłowego elektroenergetycznego i sieci co najmniej jednego płatnika opłaty kogeneracyjnej – wnosi opłatę kogeneracyjną do operatora systemu przesyłowego elektroenergetycznego i każdego z tych płatników, proporcjonalnie do ilości energii elektrycznej pobranej z sieci operatora systemu przesyłowego elektroenergetycznego lub płatników opłaty kogeneracyjnej, w okresie rozliczeniowym.
+- **2)** operatora systemu przesyłowego elektroenergetycznego i sieci co najmniej jednego płatnika opłaty kogeneracyjnej wnosi opłatę kogeneracyjną do operatora systemu przesyłowego elektroenergetycznego i każdego z tych płatników, proporcjonalnie do ilości energii elektrycznej pobranej z sieci operatora systemu przesyłowego elektroenergetycznego lub płatników opłaty kogeneracyjnej, w okresie rozliczeniowym.
 
 5. Przedsiębiorstwo energetyczne wytwarzające energię elektryczną przyłączone jednocześnie do sieci więcej niż jednego płatnika opłaty kogeneracyjnej lub operatora systemu przesyłowego elektroenergetycznego, wnosi opłatę kogeneracyjną do operatora systemu przesyłowego elektroenergetycznego lub tych płatników, proporcjonalnie do ilości energii elektrycznej wprowadzonej do sieci płatników opłaty kogeneracyjnej w okresie rozliczeniowym.
 
 **Art. 64.**
 
-1. Stawkę opłaty kogeneracyjnej na rok „i” kalkuluje się według wzoru: S = G /Q , gdzie poszczególne symbole oznaczają: „i” – rok kalendarzowy, w którym będzie obowiązywać stawka opłaty kogeneracyjnej, S – stawkę opłaty kogeneracyjnej na rok „i”, wyrażoną w złotych za 1 MWh, G – wysokość kwoty planowanej do pobrania w roku „i”, Q – ilość energii elektrycznej pobranej z sieci i zużytej przez odbiorców końcowych w krajowym systemie elektroenergetycznym, która stanowiła podstawę do obliczenia opłaty kogeneracyjnej w okresie 12 miesięcy kalendarzowych poprzedzających dzień 1 lipca roku, w którym jest kalkulowana stawka opłaty kogeneracyjnej na rok „i”.
+1. Stawkę opłaty kogeneracyjnej na rok „i” kalkuluje się według wzoru: \( S_{Ri} = G_i /Q_{i – 1} , \) gdzie poszczególne symbole oznaczają: „i” – rok kalendarzowy, w którym będzie obowiązywać stawka opłaty kogeneracyjnej, SRi – stawkę opłaty kogeneracyjnej na rok „i”, wyrażoną w złotych za 1 MWh, Gi – wysokość kwoty planowanej do pobrania w roku „i”, Qi-1- ilość energii elektrycznej pobranej z sieci i zużytej przez odbiorców końcowych w krajowym systemie elektroenergetycznym, która stanowiła podstawę do obliczenia opłaty kogeneracyjnej w okresie 12 miesięcy kalendarzowych poprzedzających dzień 1 lipca roku, w którym jest kalkulowana stawka opłaty kogeneracyjnej na rok „i”.
 
-2. Maksymalna wysokość stawki opłaty kogeneracyjnej na rok „i” nie może przekroczyć równowartości 10 % średniej ceny sprzedaży energii elektrycznej na rynku konkurencyjnym, o której mowa w art. 23 ust. 2 pkt 18 lit. b ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ogłoszonej w roku „i-1”.
+2. Maksymalna wysokość stawki opłaty kogeneracyjnej na rok „i” nie może przekroczyć równowartości 10% średniej ceny sprzedaży energii elektrycznej na rynku konkurencyjnym, o której mowa w art. 23 ust. 2 pkt 18 lit. b ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ogłoszonej w roku „i-1”.
 
 3. Stawkę opłaty kogeneracyjnej ustala się w złotych za 1 MWh, z dokładnością do jednego grosza.
 
 4. Minister właściwy do spraw energii, po zasięgnięciu opinii Prezesa URE, określi, w drodze rozporządzenia, w terminie do dnia 30 listopada roku „i-1”, wysokość stawki opłaty kogeneracyjnej na rok „i”, biorąc pod uwagę planowany koszt systemu wsparcia dla jednostek kogeneracji, będący wynikiem planowanej maksymalnej ilości wytworzonej energii elektrycznej z wysokosprawnej kogeneracji w tych jednostkach objętej systemem wsparcia w stosunku do ilości energii elektrycznej pobranej z sieci i zużytej przez odbiorców końcowych w danym roku kalendarzowym.
 
-**Art. 65.** Wysokość kwoty oznaczonej symbolem „G ”, o którym mowa w art. 64 ust. 1, stanowiącej podstawę do kalkulowania na rok „i” stawki opłaty kogeneracyjnej, oblicza się według wzoru: G = ΣK + L – E , gdzie poszczególne symbole oznaczają: „i” – rok kalendarzowy, w którym będzie obowiązywać stawka opłaty kogeneracyjnej, ΣK – prognozowaną wysokość środków przeznaczonych na wypłatę premii kogeneracyjnej, premii gwarantowanej, premii gwarantowanej indywidualnej oraz premii kogeneracyjnej indywidualnej w roku „i”, L – planowane koszty działalności operatora rozliczeń w roku „i”, związane bezpośrednio z obsługą systemu wsparcia wytwarzania energii elektrycznej w wysokosprawnej kogeneracji, o których mowa w art. 69 ust. 2, E – prognozowany na dzień 31 grudnia roku „i-1” stan środków na rachunku opłaty kogeneracyjnej zgodnie z informacją, o której mowa w art. 69 ust. 3 pkt 3.
+**Art. 65.** Wysokość kwoty oznaczonej symbolem „Gi”, o którym mowa w art. 64 ust. 1, stanowiącej podstawę do kalkulowania na rok „i” stawki opłaty kogeneracyjnej, oblicza się według wzoru: \( G_i = \sum {K_{OKfi} + L_{OKi} – E_{OKi} ,} \) gdzie poszczególne symbole oznaczają: „i” – rok kalendarzowy, w którym będzie obowiązywać stawka opłaty kogeneracyjnej, ΣKOKfi – prognozowaną wysokość środków przeznaczonych na wypłatę premii kogeneracyjnej, premii gwarantowanej, premii gwarantowanej indywidualnej oraz premii kogeneracyjnej indywidualnej w roku „i”, LOKi – planowane koszty działalności operatora rozliczeń w roku „i”, związane bezpośrednio z obsługą systemu wsparcia wytwarzania energii elektrycznej w wysokosprawnej kogeneracji, o których mowa w art. 69 ust. 2, EOKi – prognozowany na dzień 31 grudnia roku „i-1” stan środków na rachunku opłaty kogeneracyjnej zgodnie z informacją, o której mowa w art. 69 ust. 3 pkt 3.
 
 **Art. 66.**
 
 1. Przedsiębiorstwo energetyczne:
 
 - **1)** wykonujące działalność gospodarczą w zakresie przesyłania lub dystrybucji energii elektrycznej niebędące płatnikiem opłaty kogeneracyjnej,
-- **2)** wytwarzające energię elektryczną – przekazuje odpowiednio operatorowi systemu przesyłowego elektroenergetycznego lub płatnikowi opłaty kogeneracyjnej informację o ilości energii elektrycznej, która stanowi podstawę do obliczenia opłaty kogeneracyjnej, w terminie do piątego dnia miesiąca następującego po okresie rozliczeniowym, o którym mowa w art. 67.
+- **2)** wytwarzające energię elektryczną przekazuje odpowiednio operatorowi systemu przesyłowego elektroenergetycznego lub płatnikowi opłaty kogeneracyjnej informację o ilości energii elektrycznej, która stanowi podstawę do obliczenia opłaty kogeneracyjnej, w terminie do piątego dnia miesiąca następującego po okresie rozliczeniowym, o którym mowa w art. 67.
 
-2. Płatnik opłaty kogeneracyjnej przekazuje operatorowi systemu przesyłowego elektroenergetycznego informacje o:
+2. Płatnik opłaty kogeneracyjnej przekazuje operatorowi systemu przesyłowego elektroenergetycznego oraz Prezesowi URE informacje o:
 
 - **1)** ilości energii elektrycznej, która stanowi podstawę do naliczenia opłaty kogeneracyjnej,
-- **2)** wielkości należnych i pobranych środków z tytułu opłaty kogeneracyjnej – w terminie do 6. dnia miesiąca następującego po okresie rozliczeniowym, o którym mowa w art. 67.
+- **2)** wielkości należnych i pobranych środków z tytułu opłaty kogeneracyjnej w terminie do 6. dnia miesiąca następującego po okresie rozliczeniowym, o którym mowa w art. 67.
 
-3. (uchylony)
+3. Operator systemu przesyłowego elektroenergetycznego przekazuje Prezesowi URE informacje, o których mowa w ust. 2, dotyczące podmiotów, od których pobiera opłatę kogeneracyjną, w terminie do 6. dnia miesiąca następującego po okresie rozliczeniowym, o którym mowa w art. 67.
 
-4. Płatnik opłaty kogeneracyjnej przekazuje operatorowi systemu przesyłowego środki z tytułu opłaty kogeneracyjnej należne za dany okres rozliczeniowy, w terminie do 21. dnia miesiąca następującego po okresie rozliczeniowym, o którym mowa w art.
-
-67. Środki należne są pomniejszane na fakturze wystawionej płatnikowi opłaty kogeneracyjnej przez operatora systemu przesyłowego o wierzytelności z tytułu opłaty kogeneracyjnej z poprzednich okresów rozliczeniowych odpisane w tym okresie rozliczeniowym jako wierzytelności nieściągalne w rozumieniu art. 16 ust. 2 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2025 r. poz. 278 i 340), zwanej dalej „ustawą o podatku dochodowym od osób prawnych”. Szczegółowe zasady rozliczeń między płatnikiem opłaty kogeneracyjnej a operatorem systemu przesyłowego elektroenergetycznego określa umowa lub instrukcja, o której mowa w art. 9g ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.
+4. Płatnik opłaty kogeneracyjnej przekazuje operatorowi systemu przesyłowego środki z tytułu opłaty kogeneracyjnej należne za dany okres rozliczeniowy, w terminie do 21. dnia miesiąca następującego po okresie rozliczeniowym, o którym mowa w art. 67. Środki należne są pomniejszane na fakturze wystawionej płatnikowi opłaty kogeneracyjnej przez operatora systemu przesyłowego o wierzytelności z tytułu opłaty kogeneracyjnej z poprzednich okresów rozliczeniowych odpisane w tym okresie rozliczeniowym jako wierzytelności nieściągalne w rozumieniu art. 16 ust. 2 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2018 r. poz. 1036, z późn. zm.), zwanej dalej „ustawą o podatku dochodowym od osób prawnych”. Szczegółowe zasady rozliczeń między płatnikiem opłaty kogeneracyjnej a operatorem systemu przesyłowego elektroenergetycznego określa umowa lub instrukcja, o której mowa w art. 9g ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.
 
 5. W przypadku gdy środki należne z tytułu opłaty kogeneracyjnej w danym okresie rozliczeniowym są mniejsze od wierzytelności z tytułu opłat kogeneracyjnych z poprzednich okresów rozliczeniowych odpisanych w danym okresie rozliczeniowym jako wierzytelności nieściągalne, o których mowa w ust. 4, operator systemu przesyłowego elektroenergetycznego pomniejsza należności o te wierzytelności nieściągalne w kolejnych okresach rozliczeniowych, w których środki należne z tytułu opłaty kogeneracyjnej będą większe od zera, tak aby pomniejszenie dotyczyło całej kwoty wierzytelności nieściągalnych.
 
 6. Operator systemu przesyłowego elektroenergetycznego gromadzi środki z tytułu opłaty kogeneracyjnej, pomniejszone o należny podatek od towarów i usług, na wyodrębnionym rachunku bankowym.
 
 **Art. 67.** Okresem rozliczeniowym dla rozliczeń dokonywanych między:
+
+- **1)** operatorem systemu przesyłowego elektroenergetycznego a: płatnikiem opłaty kogeneracyjnej, odbiorcą końcowym przyłączonym bezpośrednio do sieci przesyłowej elektroenergetycznej, wytwórcą i przedsiębiorstwem energetycznym, wykonującym działalność gospodarczą w zakresie przesyłania lub dystrybucji energii elektrycznej, niebędącym płatnikiem opłaty kogeneracyjnej, przyłączonym bezpośrednio do sieci przesyłowej elektroenergetycznej jest miesiąc kalendarzowy;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** płatnikiem opłaty kogeneracyjnej a: odbiorcą końcowym, wytwórcą i przedsiębiorstwem energetycznym, wykonującym działalność gospodarczą w zakresie przesyłania lub dystrybucji energii elektrycznej, niebędącym płatnikiem opłaty kogeneracyjnej przyłączonym do sieci dystrybucyjnej elektroenergetycznej płatnika opłaty kogeneracyjnej jest okres, w którym są dokonywane rozliczenia za energię elektryczną i są świadczone usługi przesyłania lub dystrybucji tej energii.
+    - **a)**
+    - **b)**
 
 **Art. 68.**
 
@@ -1265,7 +1365,7 @@ Art. 95–98. (pominięte)
 - **1)** może pokryć niedobór środków zgromadzonych na rachunku opłaty kogeneracyjnej ze środków zgromadzonych na rachunku opłaty przejściowej, o którym mowa w ustawie z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej, jeżeli nie spowoduje to niewykonania zobowiązań wynikających z ustawy; wykorzystane środki z rachunku opłaty przejściowej podlegają zwrotowi w pełnej wysokości na ten rachunek;
 - **2)** zaciąga zadłużenie na pokrycie niedoboru środków zgromadzonych na rachunku opłaty kogeneracyjnej.
 
-2. Wydatki związane z zaciągniętym zadłużeniem, o którym mowa w ust. 1, oraz koszty działalności operatora rozliczeń związane bezpośrednio z obsługą systemu wsparcia wytwarzania energii elektrycznej z wysokosprawnej kogeneracji, związane z prowadzeniem rachunku opłaty kogeneracyjnej w roku „i”, oznaczone symbolem „L ”, oblicza się według wzoru: L = C + I + F , gdzie poszczególne symbole oznaczają: „i” – rok kalendarzowy, w którym będzie obowiązywać stawka opłaty kogeneracyjnej, C – planowaną kwotę należności głównych z tytułu zadłużenia zaciągniętego przez operatora rozliczeń, w przypadku, o którym mowa w ust. 1, wymagalnych w danym roku kalendarzowym „i”, I – planowaną kwotę odsetek z tytułu zadłużenia zaciągniętego przez operatora rozliczeń w przypadku, o którym mowa w ust. 1, F – planowane w roku kalendarzowym „i” koszty bieżącej działalności operatora rozliczeń związane z prowadzeniem rachunku opłaty kogeneracyjnej.
+2. Wydatki związane z zaciągniętym zadłużeniem, o którym mowa w ust. 1, oraz koszty działalności operatora rozliczeń związane bezpośrednio z obsługą systemu wsparcia wytwarzania energii elektrycznej z wysokosprawnej kogeneracji, związane z prowadzeniem rachunku opłaty kogeneracyjnej w roku „i”, oznaczone symbolem „LOKi”, oblicza się według wzoru: LOKi = COKi + IOKi + FOKi, gdzie poszczególne symbole oznaczają: „i” – rok kalendarzowy, w którym będzie obowiązywać stawka opłaty kogeneracyjnej, COKi – planowaną kwotę należności głównych z tytułu zadłużenia zaciągniętego przez operatora rozliczeń, w przypadku, o którym mowa w ust. 1, wymagalnych w danym roku kalendarzowym „i”, IOKi – planowaną kwotę odsetek z tytułu zadłużenia zaciągniętego przez operatora rozliczeń w przypadku, o którym mowa w ust. 1, FOKi – planowane w roku kalendarzowym „i” koszty bieżącej działalności operatora rozliczeń związane z prowadzeniem rachunku opłaty kogeneracyjnej.
 
 3. Operator rozliczeń, w terminie do dnia 30 września każdego roku, przekazuje Prezesowi URE informacje o:
 
@@ -1279,7 +1379,7 @@ Art. 95–98. (pominięte)
 
 - **1)** odsetek od środków zgromadzonych na rachunku opłaty kogeneracyjnej,
 - **2)** lokat, o których mowa w art. 72,
-- **3)** kaucji przekazanych zgodnie z art. 23 ust. 5 i art. 50 ust. 8 – przeznacza się na wypłatę premii kogeneracyjnej, premii gwarantowanej, premii gwarantowanej indywidualnej oraz premii kogeneracyjnej indywidualnej oraz na pokrycie kosztów działalności operatora rozliczeń związanych bezpośrednio z obsługą systemu wsparcia wytwarzania energii elektrycznej z wysokosprawnej kogeneracji na podstawie ustawy.
+- **3)** kaucji przekazanych zgodnie z art. 23 ust. 5 i art. 50 ust. 8 przeznacza się na wypłatę premii kogeneracyjnej, premii gwarantowanej, premii gwarantowanej indywidualnej oraz premii kogeneracyjnej indywidualnej oraz na pokrycie kosztów działalności operatora rozliczeń związanych bezpośrednio z obsługą systemu wsparcia wytwarzania energii elektrycznej z wysokosprawnej kogeneracji na podstawie ustawy.
 
 2. Operator rozliczeń przekazuje Prezesowi URE informację o stanie środków zgromadzonych na rachunku opłaty kogeneracyjnej na ostatni dzień roku poprzedniego, w terminie do dnia 31 stycznia.
 
@@ -1308,6 +1408,15 @@ Art. 95–98. (pominięte)
 2. Termin wymagalności lokat, o których mowa w ust. 1, operator rozliczeń dostosowuje do terminu wypłat premii kogeneracyjnej, premii gwarantowanej, premii gwarantowanej indywidualnej oraz premii kogeneracyjnej indywidualnej.
 
 **Art. 73.** Do zadań operatora rozliczeń wynikających z ustawy należy wyłącznie:
+
+- **1)** gromadzenie środków pieniężnych na potrzeby wypłaty: premii kogeneracyjnej, premii gwarantowanej, premii gwarantowanej indywidualnej, premii kogeneracyjnej indywidualnej;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **2)** dokonywanie rozliczeń premii, o których mowa w pkt 1;
+- **3)** zarządzanie środkami pieniężnymi zgromadzonymi na rachunku opłaty kogeneracyjnej, na zasadach określonych w ustawie.
 
 **Art. 74.**
 
@@ -1346,7 +1455,7 @@ Art. 95–98. (pominięte)
 - **9)** określenie wielkości jednostkowego wskaźnika emisji dwutlenku węgla w kilogramach na 1 MWh wytwarzanej energii,
 - **10)** określenie ilości ciepła użytkowego w kogeneracji, z podziałem na sposoby jego wykorzystania,
 - **11)** określenie ilości wytworzonej energii elektrycznej w wysokosprawnej kogeneracji w danej jednostce kogeneracji,
-- **12)** określenie procentowego udziału ciepła użytkowego wytworzonego w jednostce kogeneracji, które zostało wprowadzone do publicznej sieci ciepłowniczej – dotyczące jednostki kogeneracji za okres poprzedniego roku kalendarzowego, określone na podstawie rzeczywistej średniorocznej sprawności przemiany energii chemicznej paliwa w energię elektryczną lub mechaniczną i ciepło użytkowe w kogeneracji, wyznaczone zgodnie z przepisami wydanymi na podstawie art. 58; do sprawozdania należy dołączyć schemat zespołu urządzeń wchodzących w skład jednostki kogeneracji.
+- **12)** określenie procentowego udziału ciepła użytkowego wytworzonego w jednostce kogeneracji, które zostało wprowadzone do publicznej sieci ciepłowniczej dotyczące jednostki kogeneracji za okres poprzedniego roku kalendarzowego, określone na podstawie rzeczywistej średniorocznej sprawności przemiany energii chemicznej paliwa w energię elektryczną lub mechaniczną i ciepło użytkowe w kogeneracji, wyznaczone zgodnie z przepisami wydanymi na podstawie art. 58; do sprawozdania należy dołączyć schemat zespołu urządzeń wchodzących w skład jednostki kogeneracji.
 
 2. W przypadku jednostek kogeneracji, o których mowa w art. 5 ust. 1 pkt 3 oraz ust. 7 i 8, potwierdzenie, o którym mowa w ust. 1, dotyczy ilości energii elektrycznej wytworzonej w danej jednostce kogeneracji.
 
@@ -1361,11 +1470,11 @@ Art. 95–98. (pominięte)
 1. Po weryfikacji dokumentów, o których mowa w art. 77 ust. 1 i 2, Prezes URE wydaje decyzję o rzeczywistej ilości:
 
 - **1)** energii elektrycznej wytworzonej w wysokosprawnej kogeneracji w jednostce kogeneracji, o której mowa w art. 5 ust. 1 pkt 3 oraz ust. 7 i 8,
-- **2)** wytworzonej, wprowadzonej do sieci i sprzedanej energii elektrycznej z wysokosprawnej kogeneracji z pozostałych jednostek kogeneracji – co do której wytwórca uprawniony był do otrzymywania premii kogeneracyjnej albo premii gwarantowanej, albo premii gwarantowanej indywidualnej, albo premii kogeneracyjnej indywidualnej, w danym roku kalendarzowym, ale nie większej niż ilości energii elektrycznej z wysokosprawnej kogeneracji wskazanych w ofercie złożonej w aukcji albo naborze, albo we wniosku o dopuszczenie do systemu premii gwarantowanej, albo we wniosku o dopuszczenie do systemu premii gwarantowanej indywidualnej, dla danego roku kalendarzowego.
+- **2)** wytworzonej, wprowadzonej do sieci i sprzedanej energii elektrycznej z wysokosprawnej kogeneracji z pozostałych jednostek kogeneracji co do której wytwórca uprawniony był do otrzymywania premii kogeneracyjnej albo premii gwarantowanej, albo premii gwarantowanej indywidualnej, albo premii kogeneracyjnej indywidualnej, w danym roku kalendarzowym, ale nie większej niż ilości energii elektrycznej z wysokosprawnej kogeneracji wskazanych w ofercie złożonej w aukcji albo naborze, albo we wniosku o dopuszczenie do systemu premii gwarantowanej, albo we wniosku o dopuszczenie do systemu premii gwarantowanej indywidualnej, dla danego roku kalendarzowego.
 
 2. Decyzja, o której mowa w ust. 1, jest natychmiast wykonalna.
 
-**Art. 79.** Prezes URE może żądać przedstawienia dokumentów lub informacji mających znaczenie dla oceny zgodności ze stanem faktycznym informacji i oświadczeń składanych na podstawie przepisów, o których mowa w art. 18 ust. 3 i 4, art. 21 ust. 3, art. 24 ust. 3 pkt 3–6, art. 30 ust. 3, art. 31 ust. 3 pkt 3–10, art. 37 ust. 2 pkt 5–14, art. 39 ust. 3 pkt 3–6, art. 44 ust. 3 pkt 4–7 oraz ust. 4, art. 47 ust. 3 pkt 7– 10, 12 i 13 i art. 52 ust. 3 pkt 3–7, oraz spełnienia warunków określonych w art. 27 ust. 1 i art. 51 ust. 1, odpowiednio w przypadku wytwórcy uprawnionego do otrzymywania premii kogeneracyjnej lub premii gwarantowanej, lub premii gwarantowanej indywidualnej, lub premii kogeneracyjnej indywidualnej.
+**Art. 79.** Prezes URE może żądać przedstawienia dokumentów lub informacji mających znaczenie dla oceny zgodności ze stanem faktycznym informacji i oświadczeń składanych na podstawie przepisów, o których mowa w art. 18 ust. 3 i 4, art. 21 ust. 3, art. 24 ust. 3 pkt 3–6, art. 30 ust. 3, art. 31 ust. 3 pkt 3–10, art. 37 ust. 2 pkt 5–14, art. 39 ust. 3 pkt 3–6, art. 44 ust. 3 pkt 4–7 oraz ust. 4, art. 47 ust. 3 pkt 7–13 i art. 52 ust. 3 pkt 3–7, oraz spełnienia warunków określonych w art. 27 ust. 1 i art. 51 ust. 1, odpowiednio w przypadku wytwórcy uprawnionego do otrzymywania premii kogeneracyjnej lub premii gwarantowanej, lub premii gwarantowanej indywidualnej, lub premii kogeneracyjnej indywidualnej.
 
 **Art. 80.**
 
@@ -1379,8 +1488,6 @@ Art. 95–98. (pominięte)
 3. Prezes URE przekazuje operatorowi rozliczeń informację o decyzjach, o których mowa w ust. 1 oraz w art. 78 ust. 1, w terminie 7 dni od dnia ich wydania.
 
 #### Rozdział 9 Gwarancje pochodzenia energii elektrycznej z wysokosprawnej kogeneracji
-
-**Art. 80a.** Na potrzeby niniejszego rozdziału przez ciepło użytkowe w kogeneracji, energię elektryczną z kogeneracji, energię elektryczną z wysokosprawnej kogeneracji oraz jednostkę kogeneracji rozumie się ciepło użytkowe w kogeneracji, jednostkę kogeneracji, energię elektryczną z kogeneracji oraz energię elektryczną z wysokosprawnej kogeneracji, w rozumieniu odpowiednio art. 3 pkt 34, 35, 36 i 38 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.
 
 **Art. 81.**
 
@@ -1401,11 +1508,11 @@ Art. 95–98. (pominięte)
 - **1)** oznaczenie przedsiębiorstwa energetycznego zajmującego się wytwarzaniem energii elektrycznej z wysokosprawnej kogeneracji;
 - **2)** określenie lokalizacji, rodzaju, łącznej mocy zainstalowanej elektrycznej i cieplnej jednostki kogeneracji, w której została wytworzona energia;
 - **3)** dane dotyczące ilości wprowadzonej do sieci energii elektrycznej wytworzonej w wysokosprawnej kogeneracji w jednostce kogeneracji;
-- **4)** wskazanie:
-    - **a)** okresu, obejmującego jeden lub więcej następujących po sobie miesięcy kalendarzowych danego roku kalendarzowego, w którym energia elektryczna została wytworzona w jednostce kogeneracji, ze wskazaniem daty rozpoczęcia i zakończenia wytwarzania tej energii,
-    - **b)** rodzaju i średniej wartości opałowej paliw, z których została wytworzona energia elektryczna i ciepło w jednostce kogeneracji, oraz ilości tych paliw ustalone na podstawie pomiarów dokonanych za pomocą oznaczonych urządzeń pomiarowo-rozliczeniowych,
-    - **c)** ilości ciepła użytkowego w kogeneracji określonej na podstawie pomiarów dokonanych za pomocą oznaczonych urządzeń pomiarowo-rozliczeniowych, z podziałem na sposoby jego wykorzystania, oraz ilości energii elektrycznej z wysokosprawnej kogeneracji w danej jednostce kogeneracji,
-    - **d)** ilości energii pierwotnej, wyrażonej w procentach, która została zaoszczędzona, kwalifikująca do uznania energii elektrycznej za wytworzoną w wysokosprawnej kogeneracji, obliczonej na podstawie referencyjnych wartości dla wytwarzania rozdzielonego;
+- **4)** wskazanie: okresu, obejmującego jeden lub więcej następujących po sobie miesięcy kalendarzowych danego roku kalendarzowego, w którym energia elektryczna została wytworzona w jednostce kogeneracji, ze wskazaniem daty rozpoczęcia i zakończenia wytwarzania tej energii, rodzaju i średniej wartości opałowej paliw, z których została wytworzona energia elektryczna i ciepło w jednostce kogeneracji, oraz ilości tych paliw ustalone na podstawie pomiarów dokonanych za pomocą oznaczonych urządzeń pomiarowo-rozliczeniowych, ilości ciepła użytkowego w kogeneracji określonej na podstawie pomiarów dokonanych za pomocą oznaczonych urządzeń pomiarowo-rozliczeniowych, z podziałem na sposoby jego wykorzystania, oraz ilości energii elektrycznej z wysokosprawnej kogeneracji w danej jednostce kogeneracji, ilości energii pierwotnej, wyrażonej w procentach, która została zaoszczędzona, kwalifikująca do uznania energii elektrycznej za wytworzoną w wysokosprawnej kogeneracji, obliczonej na podstawie referencyjnych wartości dla wytwarzania rozdzielonego;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **5)** wskazanie, czy jednostka kogeneracji określona we wniosku korzystała z mechanizmów i instrumentów wspierających wytwarzanie energii elektrycznej w tej jednostce;
 - **6)** oznaczenie daty oddania jednostki kogeneracji do eksploatacji lub oznaczenie daty zakończenia modernizacji lub znacznej modernizacji jednostki kogeneracji lub małej jednostki kogeneracji.
@@ -1489,11 +1596,14 @@ Art. 95–98. (pominięte)
 - **2)** wpisu do rejestru gwarancji pochodzenia uznanej przez Prezesa URE,
 - **3)** zgłoszenia przekazania gwarancji pochodzenia odbiorcy końcowemu,
 - **4)** każdego przyjęcia oferty sprzedaży gwarancji pochodzenia dla strony, która zwiększyła ilość gwarancji pochodzenia na swoim koncie,
-- **5)** rozpatrzenia wniosku o przeksięgowanie gwarancji pochodzenia – w danym roku kalendarzowym, nie może przekroczyć równowartości 0,25 % średniej ceny sprzedaży energii elektrycznej na rynku konkurencyjnym, o której mowa w art. 23 ust. 2 pkt 18 lit. b ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ogłoszonej w poprzednim roku kalendarzowym.
+- **5)** rozpatrzenia wniosku o przeksięgowanie gwarancji pochodzenia w danym roku kalendarzowym, nie może przekroczyć równowartości 0,25% średniej ceny sprzedaży energii elektrycznej na rynku konkurencyjnym, o której mowa w art. 23 ust. 2 pkt 18 lit. b ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ogłoszonej w poprzednim roku kalendarzowym.
 
 10. Podmiot, o którym mowa w ust. 1, może organizować obrót gwarancjami pochodzenia.
 
 **Art. 86.** Prezes URE, w drodze postanowienia, odmawia:
+
+- **1)** wydania gwarancji pochodzenia – w przypadku gdy wniosek o wydanie gwarancji pochodzenia został złożony operatorowi systemu dystrybucyjnego lub operatorowi systemu przesyłowego po upływie terminu, o którym mowa w art. 82 ust. 2;
+- **2)** uznania gwarancji pochodzenia, o której mowa w art. 84 ust. 1, w przypadku, o którym mowa w art. 84 ust. 2.
 
 #### Rozdział 10 Kary pieniężne
 
@@ -1502,7 +1612,7 @@ Art. 95–98. (pominięte)
 1. Karze pieniężnej podlega ten, kto:
 
 - **1)** nie przekazuje w terminie oświadczenia, o którym mowa w art. 14 ust. 7 lub 9, lub przekazuje w oświadczeniu informację nieprawdziwą lub niepełną;
-- **2)** nie przekazuje w terminie informacji, o których mowa w art. 66 ust. 2, lub przekazuje informację nieprawdziwą lub niepełną;
+- **2)** nie przekazuje w terminie informacji, o których mowa w art. 66 ust. 2 lub 3, lub przekazuje informację nieprawdziwą lub niepełną;
 - **3)** nie przekazuje w terminie informacji, o której mowa w art. 76 ust. 1, lub przekazuje informację nieprawdziwą lub niepełną;
 - **4)** nie informuje pisemnie w terminie, o którym mowa w art. 85 ust. 5;
 - **5)** nie przedstawia na żądanie Prezesa URE informacji lub danych, o których mowa w art. 75 ust. 1, albo przedstawia informacje lub dane nieprawdziwe lub niepełne;
@@ -1513,7 +1623,7 @@ Art. 95–98. (pominięte)
 - **10)** wbrew zobowiązaniu złożonemu zgodnie z art. 21 ust. 3 pkt 7 lit. c, wytworzył energię elektryczną przy wykorzystaniu mniejszego udziału procentowego paliwa, o którym mowa w art. 15 ust. 5, stanowiącego podstawę do przyjęcia wartości referencyjnej dla danej jednostki;
 - **11)** wbrew zobowiązaniu złożonemu zgodnie z art. 47 ust. 3 pkt 7 lit. b, wytworzył energię elektryczną przy wykorzystaniu większego udziału procentowego tańszego paliwa, o którym mowa w art. 15 ust. 5.
 
-2. Niezależnie od kary pieniężnej określonej w ust. 1 można nałożyć karę pieniężną na kierownika przedsiębiorstwa energetycznego, z tym że kara ta może być wymierzona w kwocie nie większej niż 300 % jego miesięcznego wynagrodzenia.
+2. Niezależnie od kary pieniężnej określonej w ust. 1 można nałożyć karę pieniężną na kierownika przedsiębiorstwa energetycznego, z tym że kara ta może być wymierzona w kwocie nie większej niż 300% jego miesięcznego wynagrodzenia.
 
 **Art. 88.** Karę pieniężną, o której mowa w art. 87, wymierza Prezes URE w drodze decyzji.
 
@@ -1524,7 +1634,7 @@ Art. 95–98. (pominięte)
 - **1)** pkt 2 i 4 – wynosi 1000 zł;
 - **2)** pkt 3 – wynosi 2000 zł.
 
-2. Wysokość kary pieniężnej w przypadkach, o których mowa w art. 87 ust. 1 pkt 1 i 5–11, nie może przekroczyć 15 % przychodu ukaranego podmiotu, osiągniętego w poprzednim roku kalendarzowym.
+2. Wysokość kary pieniężnej w przypadkach, o których mowa w art. 87 ust. 1 pkt 1 i 5–11, nie może przekroczyć 15% przychodu ukaranego podmiotu, osiągniętego w poprzednim roku kalendarzowym.
 
 **Art. 90.**
 
@@ -1536,7 +1646,7 @@ Art. 95–98. (pominięte)
 
 1. Kary pieniężne, o których mowa w art. 87, uiszcza się na rachunek bankowy wskazany w decyzji o wymierzeniu kary w terminie 14 dni od dnia, w którym decyzja Prezesa URE o wymierzeniu kary pieniężnej stała się prawomocna.
 
-2. Wpływy z tytułu kar pieniężnych, o których mowa w art. 87, stanowią dochód budżetu państwa i są wnoszone na rachunek Urzędu Regulacji Energetyki.
+2. Wpływy z tytułu kar pieniężnych, o których mowa w art. 87, stanowią dochód budżetu państwa i są wnoszone na rachunek właściwego urzędu skarbowego ze względu na miejsce prowadzenia działalności gospodarczej ukaranego.
 
 **Art. 92.** Kary pieniężne, o których mowa w art. 87, podlegają ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 
@@ -1549,17 +1659,180 @@ Art. 95–98. (pominięte)
 1. Kto, działając w imieniu wytwórcy, o którym mowa w art. 4 ust. 1, art. 5 ust. 1 i art. 6 ust. 1 oraz art. 101, korzystającego z systemu wsparcia, o którym mowa w rozdziałach 3–5, wbrew zakazowi, o którym mowa w art. 11, skorzystał:
 
 - **1)** dla ilości energii elektrycznej wytworzonej w wysokosprawnej kogeneracji, objętej wsparciem, o którym mowa w rozdziałach 3–5, z prawa do wynagrodzenia z tytułu świadczenia na rzecz operatora systemu przesyłowego usługi, o której mowa w art. 16 ust. 2 pkt 3 ustawy z dnia 8 grudnia 2017 r. o rynku mocy,
-- **2)** dla instalacji odnawialnego źródła energii:
-    - **a)** z systemu wsparcia świadectw pochodzenia, o którym mowa w ustawie z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, albo
-    - **b)** z systemu wsparcia świadectw pochodzenia biogazu rolniczego, o którym mowa w ustawie z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, albo
-    - **c)** z systemu wsparcia, o którym mowa w art. 70a–70f ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, albo
-    - **d)** z aukcyjnego systemu wsparcia, o którym mowa w ustawie z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, podlega grzywnie albo karze pozbawienia wolności do lat 3.
+- **2)** dla instalacji odnawialnego źródła energii: z systemu wsparcia świadectw pochodzenia, o którym mowa w ustawie z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, albo z systemu wsparcia świadectw pochodzenia biogazu rolniczego, o którym mowa w ustawie z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, albo z systemu wsparcia, o którym mowa w art. 70a-70f ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, albo z aukcyjnego systemu wsparcia, o którym mowa w ustawie z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, podlega grzywnie albo karze pozbawienia wolności do lat 3.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 2. Jeżeli przychody otrzymane z systemów wsparcia, o których mowa w ust. 1, dla tej samej ilości energii elektrycznej, stanowią mienie znacznej wartości, sprawca podlega karze pozbawienia wolności od 3 miesięcy do 5 lat.
 
 3. W przypadku mniejszej wagi sprawca podlega grzywnie albo karze ograniczenia wolności.
 
 #### Rozdział 12 Zmiany w przepisach obowiązujących
+
+**Art. 95.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2018 r. poz. 755, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** uchyla się art. 9a;
+- **2)** w art. 9c uchyla się ust. 6a;
+- **3)** uchyla się art. 9l i art. 9m;
+- **4)** uchyla się art. 9y-9zb;
+- **5)** w art. 23 w ust. 2: w pkt 3 uchyla się lit. e, uchyla się pkt 4, w pkt 18 uchyla się lit. a, uchyla się pkt 21;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **6)** w art. 28 ust. 2 otrzymuje brzmienie: „
+
+2. Prezes URE ma prawo wglądu do dokumentów, żądania przedstawienia dokumentów lub informacji mających znaczenie dla oceny wykonania obowiązków, o których mowa w art. 49a ust. 1 i 2, z zachowaniem przepisów o ochronie informacji niejawnych i innych informacji prawnie chronionych. ” ;
+
+- **7)** w art. 31: w ust. 3 pkt 5–8 otrzymują brzmienie: „
+    - **a)**
+
+- **5)** stawkach opłaty przejściowej, o której mowa w ustawie wymienionej w art. 44 ust. 2a;
+- **6)** zaktualizowanych kwotach kosztów osieroconych, o których mowa w ustawie wymienionej w art. 44 ust. 2a;
+- **7)** średnioważonym koszcie węgla, zużywanego przez jednostki wytwórcze centralnie dysponowane na wytworzenie jednej megawatogodziny energii elektrycznej w poprzedzającym roku kalendarzowym, z uwzględnieniem kosztów jego transportu wyrażonym w złotych na megawatogodzinę, o którym mowa w ustawie wymienionej w art. 44 ust. 2a;
+- **8)** średniej cenie wytwarzanej energii elektrycznej przez wytwórców eksploatujących jednostki centralnie dysponowane opalane węglem, o której mowa w ustawie wymienionej w art. 44 ust. 2a. ” , uchyla się ust. 4;
+    - **b)**
+
+- **8)** w art. 43 ust. 7–10 otrzymują brzmienie: „
+
+7. Do wniosku o wydanie promesy koncesji albo promesy zmiany koncesji na wykonywanie działalności gospodarczej polegającej na wytwarzaniu energii elektrycznej w jednostce kogeneracji należy dołączyć opis techniczno-ekonomiczny projektowanej inwestycji, dla której rozpoczęcie prac nastąpi po dniu wejścia w życie ustawy z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji (Dz. U. z 2019 r. poz. 42).
+
+8. Prezes URE sporządza i umieszcza na stronie internetowej URE formularze opisu, o którym mowa w ust. 7, dla inwestycji w zakresie wytwarzania energii elektrycznej w jednostce kogeneracji, dla których rozpoczęcie prac nastąpi po dniu wejścia w życie ustawy, o której mowa w ust. 7.
+
+9. Prezes URE, na podstawie opisu techniczno-ekonomicznego projektowanej inwestycji, stwierdza w decyzji o udzieleniu promesy koncesji na prowadzenie działalności w zakresie wytwarzania energii elektrycznej albo promesy zmiany takiej koncesji, czy inwestycja, o której mowa w ust. 7, zostałaby zrealizowana w przypadku gdyby dla energii elektrycznej wytworzonej w tej jednostce nie przysługiwało prawo do wypłaty:
+
+- **1)** premii gwarantowanej – w odniesieniu do nowej małej jednostki kogeneracji i znacznie zmodernizowanej małej jednostki kogeneracji, o których mowa w art. 5 ust. 1 pkt 3 ustawy wymienionej w ust. 7;
+- **2)** premii kogeneracyjnej indywidualnej – w odniesieniu do jednostek, o których mowa w art. 6 ust. 1 pkt 1 ustawy wymienionej w ust. 7.
+
+10. Wytwórca energii elektrycznej, który nie uzyska stwierdzenia, o którym mowa w ust. 9, dla inwestycji, o której mowa w ust. 7, nie może złożyć wniosku do Prezesa URE o dopuszczenie do:
+
+- **1)** systemu premii gwarantowanej, o którym mowa w art. 30 ust. 1 ustawy wymienionej w ust. 7 – w przypadku nowej małej jednostki kogeneracji i znacznie zmodernizowanej małej jednostki kogeneracji, o której mowa w art. 5 ust. 1 pkt 3 ustawy wymienionej w ust. 7, dla energii elektrycznej wytworzonej w tej jednostce;
+- **2)** udziału w naborze – w przypadku jednostki, o której mowa w art. 6 ust. 1 pkt 1 ustawy wymienionej w ust. 7, dla energii elektrycznej wytworzonej, wprowadzonej do sieci i sprzedanej z tej jednostki. ” ;
+- **9)** w art. 45: po ust. 1d dodaje się ust. 1da w brzmieniu: „ 1da. W kosztach działalności przedsiębiorstw energetycznych zajmujących się przesyłaniem lub dystrybucją energii elektrycznej, o których mowa w ust. 1 pkt 1, uwzględnia się koszty wprowadzenia i pobierania opłaty, o której mowa w art. 60 ust. 1 ustawy z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji. ” , dodaje się ust. 8 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+8. Płatnik, o którym mowa w art. 61 ust. 1 ustawy wymienionej w ust. 1da, uwzględnia w taryfie za usługi przesyłania lub dystrybucji energii elektrycznej w rozumieniu przepisów prawa energetycznego opłatę, o której mowa w art. 60 ust. 1 ustawy wymienionej w ust. 1da, ustalaną na podstawie stawki, o której mowa w art. 64 ust. 1 ustawy wymienionej w ust. 1da, obowiązującej w danym roku. Opłata, o której mowa w art. 60 ust. 1 ustawy wymienionej w ust. 1da, pomniejszona o kwotę podatku od towarów i usług stanowi u płatnika, o którym mowa w art. 61 ust. 1 ustawy wymienionej w ust. 1da, podstawę opodatkowania świadczonych przez niego usług w rozumieniu art. 29a ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. ” ;
+
+- **10)** w art. 46: w ust. 4 w pkt 5 uchyla się lit. b, w ust. 6 uchyla się pkt 6;
+    - **a)**
+    - **b)**
+
+- **11)** w art. 56: w ust. 1: – uchyla się pkt 1a, – uchyla się pkt 1f, – uchyla się pkt 34, uchyla się ust. 2a, uchyla się ust. 2c i 2d.
+    - **a)**
+    - **b)**
+    - **c)**
+
+**Art. 96.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2018 r. poz. 799, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 401 w ust. 7 uchyla się pkt 4;
+- **2)** w art. 401c w ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Środki Narodowego Funduszu w wysokości nie mniejszej niż kwota przychodów, o których mowa w art. 401 ust. 7 pkt 4a i 4b, po pomniejszeniu o koszty obsługi tych przychodów, przeznacza się na wspieranie: ” .
+
+**Art. 97.** W ustawie z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2018 r. poz. 2389 i 2245) wprowadza się następujące zmiany:
+
+- **1)** w art. 44 uchyla się ust. 2;
+- **2)** w art. 52: w ust. 3 pkt 4 otrzymuje brzmienie: „
+    - **a)**
+
+- **4)** ilość energii elektrycznej objętej obowiązkiem, o którym mowa w ust. 1, oraz stanowiącej podstawę do obliczenia opłaty OZE, o której mowa w art. 96 ust. 1, oraz opłaty kogeneracyjnej, o której mowa w art. 60 ust. 1 ustawy z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji (Dz. U. z 2019 r. poz. 42), wyrażoną w procentach ” , w ust. 5 pkt 4 otrzymuje brzmienie: „
+    - **b)**
+
+- **4)** dane dotyczące ilości energii elektrycznej objętej obowiązkiem, o którym mowa w ust. 1, oraz stanowiącej podstawę do obliczenia opłaty OZE, o której mowa w art. 96 ust. 1, oraz opłaty kogeneracyjnej, o której mowa w art. 60 ust. 1 ustawy z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji, wyrażonej w procentach. ” ;
+- **3)** w art. 54: w pkt 1 lit. b otrzymuje brzmienie: „ spełnianiu warunków, o których mowa w art. 53 ust. 1 oraz art. 62 ust. 2 ustawy z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji, ” , w pkt 2 w oświadczeniu pkt 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **b)**
+
+- **2)** znane mi są i spełniam warunki określone w art. 53 ust. 1 ustawy, o której mowa w pkt 1, oraz w art. 62 ust. 2 ustawy z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji. ” ;
+- **4)** w art. 55 ust. 1 otrzymuje brzmienie: „
+
+1. Odbiorca przemysłowy, który nie przekazał Prezesowi URE w terminie informacji oraz oświadczenia, o których mowa w art. 54, podał w tej informacji nieprawdziwe lub wprowadzające w błąd dane lub skorzystał z uprawnienia, o którym mowa w art. 53 ust. 1 i art. 96 ust. 2, a także z uprawnienia, o którym mowa w art. 62 ust. 2 ustawy z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji, nie spełniając określonych w tych przepisach warunków lub został wpisany do wykazu, o którym mowa w art. 52 ust. 4, nie spełniając wymagań, o których mowa w art. 52 ust. 6, nie może skorzystać z uprawnień, o których mowa w art. 53 ust. 1 i art. 96 ust. 2, oraz z uprawnienia, o którym mowa w art. 62 ust. 2 ustawy z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji, przez okres 5 lat od zakończenia roku, którego dotyczył obowiązek, o którym mowa w art. 52 ust. 1. ” ;
+
+- **5)** w art. 73 w ust. 3a: pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** pkt 2–4a i 8–14; ” , pkt 3 otrzymuje brzmienie: „
+    - **b)**
+
+- **3)** pkt 1, 1a, 6, 6a, 7 i 7a; ” ;
+- **6)** w art. 77: w ust. 5: – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) o łącznej mocy zainstalowanej elektrycznej mniejszej niż 500 kW, wykorzystujących wyłącznie biogaz rolniczy do wytwarzania energii elektrycznej z wysokosprawnej kogeneracji; ” , – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) o łącznej mocy zainstalowanej elektrycznej mniejszej niż 500 kW, wykorzystujących wyłącznie biogaz pozyskany ze składowisk odpadów do wytwarzania energii elektrycznej z wysokosprawnej kogeneracji; ” , – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) o łącznej mocy zainstalowanej elektrycznej mniejszej niż 500 kW, wykorzystujących wyłącznie biogaz pozyskany z oczyszczalni ścieków do wytwarzania energii elektrycznej z wysokosprawnej kogeneracji; ” , – pkt 4 otrzymuje brzmienie: „ 4) o łącznej mocy zainstalowanej elektrycznej mniejszej niż 500 kW, wykorzystujących wyłącznie biogaz inny niż określony w pkt 1, 2 i 3 do wytwarzania energii elektrycznej; ” , – po pkt 4 dodaje się pkt 4a w brzmieniu: „ 4a) o łącznej mocy zainstalowanej elektrycznej mniejszej niż 500 kW, wykorzystujących wyłącznie biogaz inny niż określony w pkt 2a i 3a do wytwarzania energii elektrycznej z wysokosprawnej kogeneracji; ” , – po pkt 6 dodaje się pkt 6a w brzmieniu: „ 6a) o łącznej mocy zainstalowanej elektrycznej nie mniejszej niż 500 kW i nie większej niż 1 MW, wykorzystujących wyłącznie biogaz rolniczy do wytwarzania energii elektrycznej z wysokosprawnej kogeneracji; ” , – po pkt 7 dodaje się pkt 7a w brzmieniu: „ 7a) o łącznej mocy zainstalowanej elektrycznej większej niż 1 MW, wykorzystujących wyłącznie biogaz rolniczy do wytwarzania energii elektrycznej z wysokosprawnej kogeneracji; ” , – po pkt 8 dodaje się pkt 8a w brzmieniu: „ 8a) o łącznej mocy zainstalowanej elektrycznej nie mniejszej niż 500 kW, wykorzystujących wyłącznie biogaz pozyskany ze składowisk odpadów do wytwarzania energii elektrycznej z wysokosprawnej kogeneracji; ” , – po pkt 9 dodaje się pkt 9a w brzmieniu: „ 9a) o łącznej mocy zainstalowanej elektrycznej nie mniejszej niż 500 kW, wykorzystujących wyłącznie biogaz pozyskany z oczyszczalni ścieków do wytwarzania energii elektrycznej z wysokosprawnej kogeneracji; ” , – pkt 10 otrzymuje brzmienie: „ 10) o łącznej mocy zainstalowanej elektrycznej nie mniejszej niż 500 kW, wykorzystujących wyłącznie biogaz inny niż określony w pkt 7, 8 i 9 do wytwarzania energii elektrycznej; ” , – po pkt 10 dodaje się pkt 10a w brzmieniu: „ 10a) o łącznej mocy zainstalowanej elektrycznej nie mniejszej niż 500 kW, wykorzystujących wyłącznie biogaz inny niż określony w pkt 7a, 8a i 9a do wytwarzania energii elektrycznej z wysokosprawnej kogeneracji; ” , dodaje się ust. 7 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+7. Ilość wytwarzanego oraz wprowadzanego do sieci dystrybucyjnej gazowej biogazu rolniczego oblicza się na podstawie wskazań urządzeń pomiarowo-rozliczeniowych dla danej instalacji odnawialnego źródła energii. ” ;
+
+- **7)** po art. 93 dodaje się art. 93a w brzmieniu: „
+
+1. Wytwórca w instalacji, o której mowa w art. 77 ust. 5 pkt 1a, 2a, 3a, 4a, 6a, 7a, 8a, 9a lub 10a, przedkłada Prezesowi URE do dnia 15 marca każdego roku następującego po roku, w którym wytworzono energię elektryczną w wysokosprawnej kogeneracji, opinię akredytowanej jednostki, o której mowa w art. 77 ust. 3 ustawy z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji, potwierdzającą zasadność uznania tej instalacji za instalację, o której mowa w art. 77 ust. 5 pkt 1a, 2a, 3a, 4a, 6a, 7a, 8a, 9a lub 10a, która zawiera informację na temat ilości energii elektrycznej wytworzonej w wysokosprawnej kogeneracji.
+
+2. W przypadku gdy z opinii, o której mowa w ust. 1, wynika, że instalacja wytwórcy nie stanowiła w roku objętym opinią instalacji, o której mowa w art. 77 ust. 5 pkt 1a, 2a, 3a, 4a, 6a, 7a, 8a, 9a lub 10a, Prezes URE informuje o tym fakcie wytwórcę, właściwego sprzedawcę zobowiązanego oraz operatora rozliczeń energii odnawialnej, o którym mowa w art. 106.
+
+3. W przypadku, o którym mowa w ust. 2, wytwórca albo właściwy sprzedawca zobowiązany, jest obowiązany do rozliczenia nienależnie wypłaconej pomocy publicznej z przyszłym ujemnym saldem, w kolejnych okresach rozliczeniowych, w wysokości stanowiącej różnicę pomiędzy uzyskaną pomocą, a pomocą, którą uzyskałby wytwórca, w przypadku gdyby instalacja tego wytwórcy stanowiła instalację, o której mowa w art. 77 ust. 5 pkt 1, 2, 3, 4, 6, 7, 8, 9 lub 10. ” ;
+
+- **8)** po rozdziale 10 dodaje się rozdział 10a w brzmieniu: „
+
+#### Rozdział 10a Przepisy epizodyczne
+
+**Art. 184a.**
+
+1. Wytwórca energii elektrycznej w instalacjach odnawialnego źródła energii o łącznej mocy zainstalowanej elektrycznej nie większej niż 1 MW, wykorzystujący wyłącznie biogaz rolniczy do wytwarzania energii elektrycznej, którego oferta wygrała aukcję, o której mowa w art. 72, rozstrzygniętą przed dniem 1 stycznia 2019 r. może w terminie do dnia 31 grudnia 2019 r. złożyć deklarację, o której mowa w art. 70b ust. 1, w przypadku gdy jego instalacja stanowi instalację, o której mowa w art. 77 ust. 5 pkt 1a, 2a, 3a, 4a, 6a, 8a, 9a lub 10a.
+
+2. W przypadku uzyskania przez wytwórcę, o którym mowa w ust. 1, zaświadczenia, o którym mowa w art. 70b ust. 8, prawa i obowiązki tego wytwórcy wynikające ze złożenia oferty, która wygrała aukcję, wygasają z końcem kwartału następującego po kwartale, w którym wytwórca uzyskał to zaświadczenie.
+
+3. W przypadku, o którym mowa w ust. 2, wytwórca rozpoczyna sprzedaż niewykorzystanej energii elektrycznej na zasadach określonych w art. 70a ust. 1 lub 2, z początkiem drugiego kwartału następującego po kwartale, w którym wytwórca uzyskał zaświadczenie, o którym mowa w art. 70b ust. 8, a w przypadku instalacji planowanej do uruchomienia, nie później niż w terminie 36 miesięcy od dnia zamknięcia sesji aukcji, o której mowa w ust. 1.
+
+1. Wytwórca, o którym mowa w art. 70a ust. 1 lub 2, który do dnia 1 stycznia 2019 r. uzyskał zaświadczenie, o którym mowa w art. 70b ust. 8, może, w terminie do dnia 31 grudnia 2019 r. zmienić deklarację, o której mowa w art. 70b ust. 1, przez:
+
+- **1)** zmianę rodzaju instalacji, o której mowa w art. 77 ust. 5 pkt 1, na instalację, o której mowa w art. 77 ust. 5 pkt 1a;
+- **2)** zmianę rodzaju instalacji, o której mowa w art. 77 ust. 5 pkt 2, na instalację, o której mowa w art. 77 ust. 5 pkt 2a;
+- **3)** zmianę rodzaju instalacji, o której mowa w art. 77 ust. 5 pkt 3, na instalację, o której mowa w art. 77 ust. 5 pkt 3a;
+- **4)** zmianę rodzaju instalacji, o której mowa w art. 77 ust. 5 pkt 4, na instalację, o której mowa w art. 77 ust. 5 pkt 4a;
+- **5)** zmianę rodzaju instalacji, o której mowa w art. 77 ust. 5 pkt 6, na instalację, o której mowa w art. 77 ust. 5 pkt 6a;
+- **6)** zmianę rodzaju instalacji, o której mowa w art. 77 ust. 5 pkt 8, na instalację, o której mowa w art. 77 ust. 5 pkt 8a;
+- **7)** zmianę rodzaju instalacji, o której mowa w art. 77 ust. 5 pkt 9, na instalację, o której mowa w art. 77 ust. 5 pkt 9a;
+- **8)** zmianę rodzaju instalacji, o której mowa w art. 77 ust. 5 pkt 10, na instalację, o której mowa w art. 77 ust. 5 pkt 10a.
+
+2. W przypadku, o którym mowa w ust. 1, Prezes URE wydaje zaświadczenie o uznaniu instalacji, za instalację, o której mowa w art. 77 ust. 5 pkt 1a, 2a, 3a, 4a, 6a, 8a, 9a lub 10a, w terminie 45 dni od dnia złożenia wniosku.
+
+3. Wytwórca rozpoczyna sprzedaż niewykorzystanej energii elektrycznej na zasadach przewidzianych dla instalacji, o której mowa w art. 77 ust. 5 pkt 1a, 2a, 3a, 4a, 6a, 8a, 9a lub 10a, z początkiem drugiego kwartału następującego po kwartale, w którym uzyskał zaświadczenie, o którym mowa w ust. 2, a w przypadku instalacji planowanej do uruchomienia, nie później niż w terminie 36 miesięcy od dnia wydania zaświadczenia, o którym mowa w ust. 1.
+
+4. W przypadku, o którym mowa w ust. 1, przepis art. 70b ust. 3 pkt 6 stosuje się odpowiednio. Przepisu art. 70a ust. 4 nie stosuje się.
+
+1. Wytwórca wykorzystujący wyłącznie biogaz lub biogaz rolniczy do wytwarzania energii elektrycznej, którego oferta wygrała aukcję, o której mowa w art. 72, rozstrzygniętą przed dniem 1 stycznia 2019 r. może, w terminie do dnia 31 grudnia 2019 r., złożyć wniosek o uznanie, że instalacja tego wytwórcy stanowi instalację, o której mowa w art. 77 ust. 5 pkt 1a, 2a, 3a, 4a, 6a, 7a, 8a, 9a lub 10a.
+
+2. Do wniosku, o którym mowa w ust. 1, wytwórca załącza:
+
+- **1)** oświadczenie, że instalacja stanowi instalację, o której mowa w art. 77 ust. 5 pkt 1a, 2a, 3a, 4a, 6a, 7a, 8a, 9a lub 10a;
+- **2)** w przypadku wytwórcy, który spełnił warunek, o którym mowa w art. 79 ust. 3 pkt 8 – opinię akredytowanej jednostki, o której mowa w art. 77 ust. 3 ustawy z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji, sporządzaną na podstawie badania przeprowadzonego dla danej instalacji, stwierdzającą zasadność uznania tej instalacji, za instalację, o której mowa w art. 77 ust. 5 pkt 1a, 2a, 3a, 4a, 6a, 7a, 8a, 9a lub 10a, w tym datę pierwszego wytworzenia energii elektrycznej w wysokosprawnej kogeneracji.
+
+3. Prezes URE wydaje wytwórcy, o którym mowa w ust. 1, zaświadczenie o uznaniu instalacji za instalację, o której mowa w art. 77 ust. 5 pkt 1a, 2a, 3a, 4a, 6a, 7a, 8a, 9a lub 10a, w terminie 45 dni od dnia złożenia kompletnego wniosku, o którym mowa w ust. 1.
+
+4. O wydaniu zaświadczenia, o którym mowa w ust. 3, Prezes URE powiadamia Dyrektora Generalnego KOWR, właściwego sprzedawcę zobowiązanego oraz operatora rozliczeń energii odnawialnej, o którym mowa w art. 106.
+
+5. W przypadku instalacji planowanej do uruchomienia opinię, o której mowa w ust. 2 pkt 2, wytwórca przedkłada Prezesowi URE w terminie 3 miesięcy od dnia rozpoczęcia sprzedaży energii elektrycznej w ramach systemu aukcyjnego, pod rygorem utraty prawa, o którym mowa w ust. 6.
+
+6. Wytwórcy, który uzyskał zaświadczenie, o którym mowa w ust. 3, przysługuje prawo do powiększenia ceny zakupu energii elektrycznej, o której mowa w art. 92 ust. 1, lub podstawy wypłaty ujemnego salda, o kwotę obliczaną według następującego wzoru: \( P{}_{koge} = \left( {C_{sk} – C_{bk} } \right) \) – gdzie poszczególne symbole oznaczają: Pkoge- kwota powiększająca cenę zakupu energii elektrycznej, o której mowa w art. 92 ust. 1, lub podstawę wypłaty ujemnego salda przysługująca za energię elektryczną z odnawialnych źródeł energii wytworzoną wyłącznie z biogazu lub biogazu rolniczego w wysokosprawnej kogeneracji, sprzedaną w systemie aukcyjnym, Csk- cena referencyjna obowiązująca na dzień złożenia wniosku, o którym mowa w ust. 1, dla instalacji wykorzystujących wyłącznie biogaz lub biogaz rolniczy do wytwarzania energii elektrycznej w wysokosprawnej kogeneracji, o których mowa odpowiednio w art. 77 ust. 5 pkt 1a, 2a, 3a, 4a, 6a, 7a, 8a, 9a lub 10a, Cbk – cena referencyjna obowiązująca na dzień złożenia wniosku, o którym mowa w ust. 1, dla instalacji wykorzystujących wyłącznie biogaz lub biogaz rolniczy do wytwarzania energii elektrycznej, o których mowa w art. 77 ust. 5 pkt 1, 2, 3, 4, 6, 7, 8, 9 lub 10.
+
+7. Prawo, o którym mowa w ust. 6, przysługuje wytwórcy za okres:
+
+- **1)** od dnia 1 stycznia 2019 r. – w przypadku instalacji wykorzystujących wyłącznie biogaz lub biogaz rolniczy, w których energia elektryczna została wytworzona w wysokosprawnej kogeneracji po raz pierwszy przed dniem 1 stycznia 2019 r.;
+- **2)** od dnia pierwszego wytworzenia energii elektrycznej w wysokosprawnej kogeneracji – w przypadku instalacji wykorzystujących wyłącznie biogaz lub biogaz rolniczy, w których energia elektryczna została wytworzona po raz pierwszy od dnia 1 stycznia 2019 r. ” .
+
+**Art. 98.** W ustawie z dnia 8 grudnia 2017 r. o rynku mocy (Dz. U. z 2018 r. poz. 9) w art. 63:
+
+- **1)** po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+1a. Wynagrodzenie za wykonywanie obowiązku mocowego dla jednostki rynku mocy wytwórczej, w skład której wchodzi jednostka fizyczna będąca jednostką kogeneracji w rozumieniu ustawy z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji (Dz. U. z 2019 r. poz. 42), koryguje się w związku z otrzymywaniem:
+
+- **1)** premii gwarantowanej albo 2) premii gwarantowanej indywidualnej, albo 3) premii kogeneracyjnej, albo 4) premii kogeneracyjnej indywidualnej – w rozumieniu tej ustawy. ” ;
+- **2)** ust. 2 otrzymuje brzmienie: „2. Korekty, o której mowa w ust. 1 i 1a, za dany okres dokonuje się, pomniejszając obowiązek mocowy, za który przysługuje wynagrodzenie, o wolumen mocy wynikający z:
+- **1)** przyznanych za ten okres świadectw pochodzenia w rozumieniu ustawy wymienionej w ust. 1 lub
+- **2)** ilości energii elektrycznej wytworzonej w tej jednostce, objętej obowiązkiem mocowym, w odniesieniu do której uzyskano premię w rozumieniu ustawy wymienionej w ust. 1a.”;
+- **3)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Korekta, o której mowa w ust. 1 i 1a, nie może być wyższa niż wynagrodzenie wynikające z wielkości obowiązku mocowego i ceny obowiązku mocowego.”;
+- **4)** ust. 3 otrzymuje brzmienie: „3. Wynagrodzenie za wykonanie obowiązku mocowego dla jednostki rynku mocy, o której mowa w ust. 1 i 1a, wypłaca się po przedstawieniu informacji o: 1) przyznanych za ten okres świadectw pochodzenia, o których mowa w ustawie wymienionej w ust. 1, 2) otrzymanej za ten okres premii, o której mowa w ustawie wymienionej w ust. 1a niezbędnych do wyliczenia korekty.”.
 
 #### Rozdział 13 Przepisy epizodyczne, przejściowe i końcowe
 
@@ -1573,8 +1846,7 @@ Art. 95–98. (pominięte)
 
 2. W okresie od dnia wydania pozytywnej decyzji Komisji Europejskiej o zgodności pomocy publicznej przewidzianej w rozdziałach 3–5 ze wspólnym rynkiem albo decyzji stwierdzającej, że mechanizm przewidziany w rozdziałach 3–5 nie stanowi pomocy publicznej, w terminie do 24 miesięcy od dnia ogłoszenia tych decyzji wytwórca, który uzyskał decyzje o dopuszczeniu:
 
-- **1)** o której mowa w art. 30 ust. 4, może wystąpić o wypłatę premii gwarantowanej,
-- **2)** o którym mowa w art. 37 ust. 3, może wystąpić o wypłatę premii gwarantowanej indywidualnej – za energię elektryczną wytworzoną, wprowadzoną do sieci i sprzedaną z wysokosprawnej kogeneracji w jednostce kogeneracji określonej w tej decyzji o dopuszczeniu za okres od dnia 1 stycznia 2019 r. do dnia poprzedzającego dzień wydania decyzji o dopuszczeniu, o której mowa w art. 30 ust. 4 lub art. 37 ust. 3.
+- **1)** o której mowa w art. 30 ust. 4, może wystąpić o wypłatę premii gwarantowanej, 2) o którym mowa w art. 37 ust. 3, może wystąpić o wypłatę premii gwarantowanej indywidualnej – za energię elektryczną wytworzoną, wprowadzoną do sieci i sprzedaną z wysokosprawnej kogeneracji w jednostce kogeneracji określonej w tej decyzji o dopuszczeniu za okres od dnia 1 stycznia 2019 r. do dnia poprzedzającego dzień wydania decyzji o dopuszczeniu, o której mowa w art. 30 ust. 4 lub art. 37 ust. 3.
 
 3. W okresie od dnia wydania pozytywnej decyzji Komisji Europejskiej o zgodności pomocy publicznej przewidzianej w niniejszej ustawie ze wspólnym rynkiem albo decyzji stwierdzającej, że mechanizm przewidziany w niniejszej ustawie nie stanowi pomocy publicznej, w terminie do 24 miesięcy od dnia wydania decyzji, wytwórca, który uzyskał decyzję o dopuszczeniu, o której mowa w art. 30 ust. 4, może wystąpić, o wypłatę premii gwarantowanej za energię elektryczną wytworzoną w jednostce kogeneracji, o której mowa w art. 5 ust. 1 pkt 3 lub ust. 8, określonej w tej decyzji o dopuszczeniu za okres od dnia 1 stycznia 2019 r. do dnia poprzedzającego dzień wydania decyzji o dopuszczeniu, o której mowa w art. 30 ust. 4.
 
@@ -1584,23 +1856,23 @@ Art. 95–98. (pominięte)
 
 **Art. 100.**
 
-1. Świadectwa pochodzenia z kogeneracji, o których mowa w art. 9l ustawy zmienianej w art. 95 , wydane dla energii elektrycznej wytworzonej przed dniem wejścia w życie ustawy zachowują ważność.
+1. Świadectwa pochodzenia z kogeneracji, o których mowa w art. 9l ustawy zmienianej w art. 95, wydane dla energii elektrycznej wytworzonej przed dniem wejścia w życie ustawy zachowują ważność.
 
-2. Do wykonania i rozliczenia obowiązku, o którym mowa w art. 9a ust. 1 ustawy zmienianej w art. 95 , w brzmieniu dotychczasowym, za okres przed dniem wejścia w życie ustawy, oraz w zakresie kar pieniężnych za nieprzestrzeganie tego obowiązku w tym okresie, stosuje się przepisy dotychczasowe.
+2. Do wykonania i rozliczenia obowiązku, o którym mowa w art. 9a ust. 1 ustawy zmienianej w art. 95, w brzmieniu dotychczasowym, za okres przed dniem wejścia w życie ustawy, oraz w zakresie kar pieniężnych za nieprzestrzeganie tego obowiązku w tym okresie, stosuje się przepisy dotychczasowe.
 
-3. W sprawach związanych z wydaniem świadectw pochodzenia z kogeneracji, o których mowa w art. 9l ust. 1 ustawy zmienianej w art. 95 , dla energii elektrycznej wytworzonej przed dniem 1 stycznia 2019 r., stosuje się przepisy dotychczasowe.
+3. W sprawach związanych z wydaniem świadectw pochodzenia z kogeneracji, o których mowa w art. 9l ust. 1 ustawy zmienianej w art. 95, dla energii elektrycznej wytworzonej przed dniem 1 stycznia 2019 r., stosuje się przepisy dotychczasowe.
 
-4. Opłata zastępcza, o której mowa w art. 9a ust. 1 pkt 2 ustawy zmienianej w art. 95 , w brzmieniu dotychczasowym, uiszczona na rachunek bankowy Narodowego Funduszu Środowiska i Gospodarki Wodnej po dniu wejścia w życie niniejszej ustawy, stanowi jego przychód i jest uwzględniana przy ustalaniu wysokości zobowiązania określonego w art. 401c ust. 5 ustawy zmienianej w art. 96 .
+4. Opłata zastępcza, o której mowa w art. 9a ust. 1 pkt 2 ustawy zmienianej w art. 95, w brzmieniu dotychczasowym, uiszczona na rachunek bankowy Narodowego Funduszu Środowiska i Gospodarki Wodnej po dniu wejścia w życie niniejszej ustawy, stanowi jego przychód i jest uwzględniana przy ustalaniu wysokości zobowiązania określonego w art. 401c ust. 5 ustawy zmienianej w art. 96.
 
-5. W przypadku prawomocnego orzeczenia sądu w zakresie uchylenia decyzji w sprawie odmowy wydania świadectwa pochodzenia z kogeneracji, o których mowa w art. 9l ust. 1 ustawy zmienianej w art. 95 , wytwórca, który nabył uprawnienia do uzyskania tych świadectw, może uzyskać wsparcie, w odniesieniu do którego zastosowanie mają przepisy rozdziału 5 w zakresie dotyczącym premii gwarantowanej indywidualnej, odpowiednio do ilości energii elektrycznej wytworzonej w wysokosprawnej kogeneracji, dla której powinny zostać wydane te świadectwa.
+5. W przypadku prawomocnego orzeczenia sądu w zakresie uchylenia decyzji w sprawie odmowy wydania świadectwa pochodzenia z kogeneracji, o których mowa w art. 9l ust. 1 ustawy zmienianej w art. 95, wytwórca, który nabył uprawnienia do uzyskania tych świadectw, może uzyskać wsparcie, w odniesieniu do którego zastosowanie mają przepisy rozdziału 5 w zakresie dotyczącym premii gwarantowanej indywidualnej, odpowiednio do ilości energii elektrycznej wytworzonej w wysokosprawnej kogeneracji, dla której powinny zostać wydane te świadectwa.
 
-6. Do obliczenia wysokości premii, o której mowa w ust. 5, przyjmuje się wartość świadectw pochodzenia z kogeneracji, o których mowa w art. 9l ust. 1 ustawy zmienianej w art. 95 , które powinny być wydane, ustaloną na podstawie opublikowanej przez podmiot, o którym mowa w art. 64 ust. 1 ustawy zmienianej w art. 97 , średniej ważonej ceny praw majątkowych wynikających z tych świadectw za 2018 r., która podlega corocznej waloryzacji średniorocznym wskaźnikiem cen towarów i usług konsumpcyjnych ogółem z poprzedniego roku kalendarzowego, określonym w komunikacie Prezesa GUS ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+6. Do obliczenia wysokości premii, o której mowa w ust. 5, przyjmuje się wartość świadectw pochodzenia z kogeneracji, o których mowa w art. 9l ust. 1 ustawy zmienianej w art. 95, które powinny być wydane, ustaloną na podstawie opublikowanej przez podmiot, o którym mowa w art. 64 ust. 1 ustawy zmienianej w art. 97, średniej ważonej ceny praw majątkowych wynikających z tych świadectw za 2018 r., która podlega corocznej waloryzacji średniorocznym wskaźnikiem cen towarów i usług konsumpcyjnych ogółem z poprzedniego roku kalendarzowego, określonym w komunikacie Prezesa GUS ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
-7. Średnią ważoną, o której mowa w ust. 6, oblicza się na podstawie wszystkich transakcji giełdowych sesyjnych zawartych na giełdzie towarowej, w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych, w danym instrumencie, w którym zostały zapisane świadectwa pochodzenia z kogeneracji, o których mowa w art. 9l ust. 1 ustawy zmienianej w art. 95 .
+7. Średnią ważoną, o której mowa w ust. 6, oblicza się na podstawie wszystkich transakcji giełdowych sesyjnych zawartych na giełdzie towarowej, w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych, w danym instrumencie, w którym zostały zapisane świadectwa pochodzenia z kogeneracji, o których mowa w art. 9l ust. 1 ustawy zmienianej w art. 95.
 
 **Art. 101.**
 
-1. Wytwórca, który przed dniem 1 stycznia 2019 r. uzyskał stwierdzenie, o którym mowa w art. 43 ust. 9 ustawy zmienianej w art. 95 , w brzmieniu dotychczasowym, dla jednostki kogeneracji, w której została wytworzona energia elektryczna niepotwierdzona wydanym świadectwem pochodzenia z kogeneracji lub wytworzenie energii elektrycznej w tej jednostce po raz pierwszy nastąpiło po dniu 31 grudnia 2018 r., może uzyskać wsparcie wyłącznie odpowiednio w postaci premii gwarantowanej albo premii gwarantowanej indywidualnej, z uwzględnieniem art. 99 ust. 1 pkt 2.
+1. Wytwórca, który przed dniem 1 stycznia 2019 r. uzyskał stwierdzenie, o którym mowa w art. 43 ust. 9 ustawy zmienianej w art. 95, w brzmieniu dotychczasowym, dla jednostki kogeneracji, w której została wytworzona energia elektryczna niepotwierdzona wydanym świadectwem pochodzenia z kogeneracji lub wytworzenie energii elektrycznej w tej jednostce po raz pierwszy nastąpiło po dniu 31 grudnia 2018 r., może uzyskać wsparcie wyłącznie odpowiednio w postaci premii gwarantowanej albo premii gwarantowanej indywidualnej, z uwzględnieniem art. 99 ust. 1 pkt 2.
 
 2. W przypadku, o którym mowa w ust. 1, wytwórca może złożyć wniosek, o którym mowa w art. 30 ust. 1, lub pierwszy wniosek, o którym mowa w art. 37 ust. 1, dla tej jednostki kogeneracji, w terminie 60 dni po uzyskaniu lub zmianie koncesji na wytwarzanie energii elektrycznej albo uzyskaniu lub zmianie wpisu do rejestru wytwórców energii w małej instalacji albo po uzyskaniu lub zmianie wpisu do rejestru wytwórców biogazu rolniczego.
 
@@ -1608,7 +1880,7 @@ Art. 95–98. (pominięte)
 
 4. W przypadku wytwórcy, o którym mowa w ust. 1, okres wsparcia dla energii elektrycznej z wysokosprawnej kogeneracji dla jednostki, o której mowa w ust. 1, wchodzącej w skład źródła o łącznej mocy zainstalowanej elektrycznej mniejszej niż 1 MW oraz dla jednostki kogeneracji o mocy zainstalowanej elektrycznej nie mniejszej niż 1 MW i mniejszej niż 50 MW, opalanej metanem uwalnianym i ujmowanym przy dołowych robotach górniczych w czynnych, likwidowanych lub zlikwidowanych kopalniach węgla kamiennego, wynosi 15 lat, przy czym okres ten liczy się od dnia pierwszego, po dniu uzyskania decyzji o dopuszczeniu, o której mowa w art. 30 ust. 4, wytworzenia energii elektrycznej z tej jednostki po uzyskaniu lub zmianie koncesji na wytwarzanie energii elektrycznej albo uzyskaniu lub zmianie wpisu do rejestru wytwórców energii w małej instalacji albo po uzyskaniu lub zmianie wpisu do rejestru wytwórców biogazu rolniczego, nie dłużej jednak niż do dnia 31 grudnia 2037 r.
 
-5. Wytwórca, który wytworzył po raz pierwszy energię elektryczną po dniu 31 grudnia 2018 r., w jednostce kogeneracji, dla której przed dniem 1 stycznia 2019 r. nie uzyskał stwierdzenia, o którym mowa w art. 43 ust. 9 ustawy zmienianej w art. 95 , w brzmieniu dotychczasowym, w odniesieniu do tej jednostki kogeneracji, dla której rozpoczęcie prac nastąpiło przed dniem 1 stycznia 2019 r., nie może uzyskać wsparcia na zasadach określonych w rozdziałach 3–5.
+5. Wytwórca, który wytworzył po raz pierwszy energię elektryczną po dniu 31 grudnia 2018 r., w jednostce kogeneracji, dla której przed dniem 1 stycznia 2019 r. nie uzyskał stwierdzenia, o którym mowa w art. 43 ust. 9 ustawy zmienianej w art. 95, w brzmieniu dotychczasowym, w odniesieniu do tej jednostki kogeneracji, dla której rozpoczęcie prac nastąpiło przed dniem 1 stycznia 2019 r., nie może uzyskać wsparcia na zasadach określonych w rozdziałach 3–5.
 
 6. W przypadku gdy wytwórcy, o którym mowa w ust. 5, została wydana decyzja o dopuszczeniu, o której mowa w art. 19 ust. 1, albo decyzja o dopuszczeniu, o której mowa w art. 45 ust. 1, na skutek złożenia przez wytwórcę nieprawdziwych lub niepełnych informacji dotyczących daty rozpoczęcia prac w odniesieniu do jednostki kogeneracji, dla której wydano decyzję o dopuszczeniu, Prezes URE w drodze decyzji stwierdza utratę przez wytwórcę uprawnienia do wypłaty premii kogeneracyjnej albo premii kogeneracyjnej indywidualnej. Decyzja jest natychmiast wykonalna.
 
@@ -1620,15 +1892,15 @@ Art. 95–98. (pominięte)
 
 **Art. 105.**
 
-1. Gwarancje pochodzenia wydane na podstawie art. 9y–9zb ustawy zmienianej w art. 95 , w brzmieniu dotychczasowym, tracą ważność z dniem 31 grudnia 2019 r.
+1. Gwarancje pochodzenia wydane na podstawie art. 9y-9zb ustawy zmienianej w art. 95, w brzmieniu dotychczasowym, tracą ważność z dniem 31 grudnia 2019 r.
 
-2. Do gwarancji pochodzenia wydanych lub uznanych przez Prezesa URE na podstawie art. 9y–9zb ustawy zmienianej w art. 95 , w brzmieniu dotychczasowym, przed dniem wejścia w życie ustawy, przepisy dotyczące rozdzielania gwarancji pochodzenia, o których mowa w art. 83 ust. 9–14, stosuje się odpowiednio.
+2. Do gwarancji pochodzenia wydanych lub uznanych przez Prezesa URE na podstawie art. 9y-9zb ustawy zmienianej w art. 95, w brzmieniu dotychczasowym, przed dniem wejścia w życie ustawy, przepisy dotyczące rozdzielania gwarancji pochodzenia, o których mowa w art. 83 ust. 9–14, stosuje się odpowiednio.
 
-3. W przypadku gwarancji pochodzenia wydanych lub uznanych przez Prezesa URE na podstawie art. 9y–9zb ustawy zmienianej w art. 95 , w brzmieniu dotychczasowym, podmiot, o którym mowa w art. 9zb ust. 1, ustawy zmienianej w art. 95 , w brzmieniu dotychczasowym, wydaje podmiotowi posiadającemu konto w rejestrze gwarancji pochodzenia, o którym mowa w art. 85 ust. 4, dokument potwierdzający przysługujące gwarancje pochodzenia, w celu poświadczenia odbiorcy końcowemu, że określona w tym dokumencie ilość energii elektrycznej wprowadzonej do sieci przesyłowej lub do sieci dystrybucyjnej została wytworzona w wysokosprawnej kogeneracji. Gwarancja pochodzenia traci ważność z chwilą wystawienia dokumentu potwierdzającego.
+3. W przypadku gwarancji pochodzenia wydanych lub uznanych przez Prezesa URE na podstawie art. 9y-9zb ustawy zmienianej w art. 95, w brzmieniu dotychczasowym, podmiot, o którym mowa w art. 9zb ust. 1, ustawy zmienianej w art. 95, w brzmieniu dotychczasowym, wydaje podmiotowi posiadającemu konto w rejestrze gwarancji pochodzenia, o którym mowa w art. 85 ust. 4, dokument potwierdzający przysługujące gwarancje pochodzenia, w celu poświadczenia odbiorcy końcowemu, że określona w tym dokumencie ilość energii elektrycznej wprowadzonej do sieci przesyłowej lub do sieci dystrybucyjnej została wytworzona w wysokosprawnej kogeneracji. Gwarancja pochodzenia traci ważność z chwilą wystawienia dokumentu potwierdzającego.
 
 **Art. 106.** Od dnia wejścia w życie niniejszej ustawy stawka opłaty kogeneracyjnej wynosi 1,58 zł za 1 MWh i obowiązuje do końca 2019 r.
 
-**Art. 107.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 46 ust. 3 i 5 ustawy zmienianej w art. 95 , zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 46 ust. 3 i 5 ustawy zmienianej w art. 95 , jednak nie dłużej niż 24 miesiące od dnia wejścia w życie niniejszej ustawy.
+**Art. 107.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 46 ust. 3 i 5 ustawy zmienianej w art. 95, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 46 ust. 3 i 5 ustawy zmienianej w art. 95, jednak nie dłużej niż 24 miesiące od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 108.**
 
@@ -1649,9 +1921,9 @@ Art. 95–98. (pominięte)
 
 3. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków określonego w ust. 1 oraz w przypadku gdy część planowanych wydatków, o których mowa w ust. 1, przypadająca proporcjonalnie na okres od początku roku kalendarzowego do końca danego kwartału została przekroczona:
 
-- **1)** po pierwszym kwartale – co najmniej o 20 %,
-- **2)** po dwóch kwartałach – co najmniej o 15 %,
-- **3)** po trzech kwartałach – co najmniej o 10 % – Prezes URE stosuje mechanizm korygujący polegający na obniżeniu kosztów realizacji zadań, o których mowa w ust. 1.
+- **1)** po pierwszym kwartale – co najmniej o 20%,
+- **2)** po dwóch kwartałach – co najmniej o 15%,
+- **3)** po trzech kwartałach – co najmniej o 10% Prezes URE stosuje mechanizm korygujący polegający na obniżeniu kosztów realizacji zadań, o których mowa w ust. 1.
 
 4. W przypadku gdy wielkość wydatków w poszczególnych miesiącach jest zgodna z planem finansowym, przepisu ust. 3 nie stosuje się.
 
@@ -1674,9 +1946,9 @@ Art. 95–98. (pominięte)
 
 3. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków określonego w ust. 1 oraz w przypadku gdy część planowanych wydatków, o których mowa w ust. 1, przypadająca proporcjonalnie na okres od początku roku kalendarzowego do końca danego kwartału została przekroczona:
 
-- **1)** po pierwszym kwartale – co najmniej o 20 %,
-- **2)** po dwóch kwartałach – co najmniej o 15 %,
-- **3)** po trzech kwartałach – co najmniej o 10 % – minister właściwy do spraw energii stosuje mechanizm korygujący polegający na obniżeniu kosztów realizacji zadań, o których mowa w ust. 1.
+- **1)** po pierwszym kwartale – co najmniej o 20%,
+- **2)** po dwóch kwartałach – co najmniej o 15%,
+- **3)** po trzech kwartałach – co najmniej o 10% minister właściwy do spraw energii stosuje mechanizm korygujący polegający na obniżeniu kosztów realizacji zadań, o których mowa w ust. 1.
 
 4. W przypadku gdy wielkość wydatków w poszczególnych miesiącach jest zgodna z planem finansowym, przepisu ust. 3 nie stosuje się.
 
@@ -1695,17 +1967,15 @@ Art. 95–98. (pominięte)
 - **9)** 2027 – 759 087 zł;
 - **10)** 2028 – 794 425 zł.
 
-2. Minister Sprawiedliwości monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, oraz wdraża mechanizmy korygujące, o których mowa w ust.
-
-3.
+2. Minister Sprawiedliwości monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, oraz wdraża mechanizmy korygujące, o których mowa w ust. 3.
 
 3. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków określonego w ust. 1 oraz w przypadku gdy część planowanych wydatków, o których mowa w ust. 1, przypadająca proporcjonalnie na okres od początku roku kalendarzowego do końca danego kwartału została przekroczona:
 
-- **1)** po pierwszym kwartale – co najmniej o 20 %,
-- **2)** po dwóch kwartałach – co najmniej o 15 %,
-- **3)** po trzech kwartałach – co najmniej o 10 % – Minister Sprawiedliwości stosuje mechanizm korygujący polegający na obniżeniu kosztów realizacji zadań, o których mowa w ust. 1.
+- **1)** po pierwszym kwartale – co najmniej o 20%,
+- **2)** po dwóch kwartałach – co najmniej o 15%,
+- **3)** po trzech kwartałach – co najmniej o 10% Minister Sprawiedliwości stosuje mechanizm korygujący polegający na obniżeniu kosztów realizacji zadań, o których mowa w ust. 1.
 
 4. W przypadku gdy wielkość wydatków w poszczególnych miesiącach jest zgodna z planem finansowym, przepisu ust. 3 nie stosuje się.
 
-**Art. 111.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+**Art. 111.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

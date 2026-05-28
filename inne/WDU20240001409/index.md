@@ -8,12 +8,10 @@ pos: 1409
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o Instytucie Rozwoju Języka Polskiego im. świętego Maksymiliana Marii Kolbego
-
-*USTAWA z dnia 7 października 2022 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 18 września 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Instytucie Rozwoju Języka Polskiego im. świętego Maksymiliana Marii Kolbego
 
 | Pole | Wartość |
 |---|---|
@@ -26,6 +24,29 @@ source: "isap-pdf"
 | Data wydania | 2024-09-25 |
 | Ostatnia zmiana | 2024-10-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001409) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1409/text.pdf) |
+
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 7 października 2022 r. o Instytucie Rozwoju Języka Polskiego im. świętego Maksymiliana Marii Kolbego
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 października 2022 r. o Instytucie Rozwoju Języka Polskiego im. świętego Maksymiliana Marii Kolbego (Dz. U. z 2024 r. poz. 264), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1089) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 września 2024 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 31, art. 32 i art. 44 ustawy z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1089), które stanowią:
+„
+
+**Art. 31.** Do planów finansowych agencji wykonawczych, instytucji gospodarki budżetowej, państwowych funduszy celowych oraz państwowych i samorządowych osób prawnych na rok 2024 oraz do zmian tych planów stosuje się przepisy dotychczasowe.
+
+**Art. 32.**
+
+1. Przepisy art. 21, art. 24, art. 29 oraz art. 30 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się po raz pierwszy do projektów planów finansowych i planów finansowych agencji wykonawczych, instytucji gospodarki budżetowej, państwowych funduszy celowych oraz państwowych i samorządowych osób prawnych na rok 2025.
+
+2. Przepis art. 43 ust. 1 ustawy zmienianej w art. 18, w brzmieniu nadanym niniejszą ustawą, stosuje się po raz pierwszy do projektu planu finansowego i planu finansowego Krajowego Zasobu Nieruchomości na rok 2025.
+
+3. Przepis art. 57 ustawy zmienianej w art. 22, w brzmieniu nadanym niniejszą ustawą, stosuje się po raz pierwszy do projektu planu finansowego i planu finansowego Centrum Łukasiewicz na rok 2025.
+
+4. Przepis art. 18 ustawy zmienianej w art. 29, w brzmieniu nadanym niniejszą ustawą, stosuje się po raz pierwszy do projektu planu finansowego i planu finansowego Instytutu Rozwoju Języka Polskiego im. świętego Maksymiliana Marii Kolbego na rok 2025. ” „
+
+**Art. 44.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 8 pkt 3 i 4 oraz art. 16 pkt 2, które wchodzą w życie z dniem 1 stycznia 2025 r. ” . Załącznik – Tekst jednolity ustawy z dnia 7 października 2022 r. o Instytucie Rozwoju Języka Polskiego im. świętego Maksymiliana Marii Kolbego
 
 **Art. 1.** Ustawa określa organizację i zadania Instytutu Rozwoju Języka Polskiego im. świętego Maksymiliana Marii Kolbego, zwanego dalej „Instytutem”.
 
@@ -68,14 +89,6 @@ source: "isap-pdf"
 
 4. Dyrektor Instytutu i Rada Instytutu są obowiązani do realizacji zaleceń pokontrolnych wydanych w ramach realizacji nadzoru, o którym mowa w ust. 1.
 
-**Art. 4a.**
-
-1. W przypadku wprowadzenia na obszarze kraju albo jego części stanu nadzwyczajnego minister właściwy do spraw oświaty i wychowania może zlecić Instytutowi realizację zadań z zakresu oświaty i wychowania związanych z zapewnieniem dzieciom i młodzieży kształcenia i opieki na obszarze Rzeczypospolitej Polskiej w okresie obowiązywania tego stanu oraz do 6 miesięcy po jego zakończeniu, w szczególności zadań w ramach programów i przedsięwzięć, o których mowa w art. 90u ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2024 r. poz. 750, 854 i 1473). Na realizację tych zadań Instytut otrzymuje dotację celową z części budżetu państwa, której dysponentem jest minister właściwy do spraw oświaty i wychowania.
-
-2. Przy realizacji zadań, o których mowa w ust. 1, Instytut może, na podstawie umów, współpracować z organizacjami pozarządowymi oraz podmiotami, o których mowa w art. 3 ust. 2 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2023 r. poz. 571 oraz z 2024 r. poz. 834).
-
-3. Instytut realizuje zadania, o których mowa w ust. 1, samodzielnie lub zleca ich realizację podmiotom wyłonionym w drodze otwartego konkursu ofert lub w drodze naboru wniosków w trybie ciągłym.
-
 **Art. 5.**
 
 1. W celu realizacji zadań, o których mowa w art. 3 ust. 2, Instytut może tworzyć, za zgodą ministra właściwego do spraw oświaty i wychowania udzieloną na wniosek Dyrektora Instytutu, oddziały zamiejscowe będące wyodrębnionymi jednostkami organizacyjnymi lub komórkami organizacyjnymi Instytutu, w tym mające siedzibę poza terytorium Rzeczypospolitej Polskiej. W przypadku tworzenia oddziału zamiejscowego mającego siedzibę poza terytorium Rzeczypospolitej Polskiej Dyrektor Instytutu dodatkowo uzyskuje zgodę ministra właściwego do spraw zagranicznych.
@@ -99,17 +112,13 @@ source: "isap-pdf"
 - **1)** ambasadorem Rzeczypospolitej Polskiej w państwie, na terenie którego funkcjonuje oddział zamiejscowy;
 - **2)** dyrektorem właściwego miejscowo instytutu polskiego będącego placówką podległą ministrowi właściwemu do spraw zagranicznych – jeżeli instytut polski funkcjonuje na terenie państwa, w którym funkcjonuje oddział zamiejscowy.
 
-7. Zamówienia publicznego na potrzeby własne oddziałów zamiejscowych Instytut może udzielić z wolnej ręki zgodnie z przepisami art. 213 i art. 217 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz.
-
-- **1320)** , jeżeli wartość tego zamówienia jest mniejsza niż progi unijne, o których mowa w art. 3 ust. 1 tej ustawy.
+7. Zamówienia publicznego na potrzeby własne oddziałów zamiejscowych Instytut może udzielić z wolnej ręki zgodnie z przepisami art. 213 i art. 217 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320), jeżeli wartość tego zamówienia jest mniejsza niż progi unijne, o których mowa w art. 3 ust. 1 tej ustawy.
 
 8. Finansowanie lub dofinansowanie realizacji zadań Instytutu w części realizowanej przez oddziały zamiejscowe następuje ze środków, o których mowa w art. 17 ust. 2.
 
 9. Instytut może przekształcać i likwidować oddziały zamiejscowe za zgodą ministra właściwego do spraw oświaty i wychowania udzieloną na wniosek Dyrektora Instytutu. W przypadku oddziału zamiejscowego mającego siedzibę poza terytorium Rzeczypospolitej Polskiej Dyrektor Instytutu dodatkowo uzyskuje opinię ministra właściwego do spraw zagranicznych dotyczącą zasadności jego przekształcenia lub likwidacji.
 
-**Art. 5a.**
-
-1. W celu realizacji zadań, o których mowa w art. 3 ust. 2, Instytut może tworzyć, za zgodą ministra właściwego do spraw oświaty i wychowania udzieloną na wniosek Dyrektora Instytutu, po uprzednim poinformowaniu ministra właściwego do spraw zagranicznych, podmioty zależne będące jednostkami organizacyjnymi mającymi siedzibę poza terytorium Rzeczypospolitej Polskiej, w formie prawnej i organizacyjnej zależnej od miejsca ich utworzenia, w tym w formie spółki kapitałowej, zwane dalej „podmiotami zależnymi”. Przepisów art. 45 i art. 49 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ) nie stosuje się.
+1. W celu realizacji zadań, o których mowa w art. 3 ust. 2, Instytut może tworzyć, za zgodą ministra właściwego do spraw oświaty i wychowania udzieloną na wniosek Dyrektora Instytutu, po uprzednim poinformowaniu ministra właściwego do spraw zagranicznych, podmioty zależne będące jednostkami organizacyjnymi mającymi siedzibę poza terytorium Rzeczypospolitej Polskiej, w formie prawnej i organizacyjnej zależnej od miejsca ich utworzenia, w tym w formie spółki kapitałowej, zwane dalej „podmiotami zależnymi”. Przepisów art. 45 i art. 49 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.) nie stosuje się.
 
 2. Wniosek o wyrażenie zgody, o której mowa w ust. 1, określa zamierzony termin utworzenia i proponowaną siedzibę podmiotu zależnego, a także zawiera informacje o zamierzonej formie prawnej i organizacyjnej podmiotu zależnego oraz uzasadnienie utworzenia podmiotu zależnego.
 
@@ -124,6 +133,9 @@ source: "isap-pdf"
 7. Instytut może przekształcać i likwidować, za zgodą ministra właściwego do spraw oświaty i wychowania, podmioty zależne.
 
 **Art. 6.** Organami Instytutu są:
+
+- **1)** Dyrektor Instytutu;
+- **2)** Rada Instytutu.
 
 **Art. 7.**
 
@@ -264,7 +276,7 @@ source: "isap-pdf"
 
 3. W posiedzeniach Rady Instytutu mogą uczestniczyć, bez prawa głosu, Dyrektor Instytutu, zastępca Dyrektora Instytutu oraz osoby zaproszone przez przewodniczącego Rady Instytutu.
 
-4. Członkowi Rady Instytutu przysługuje zwrot kosztów zakwaterowania i podróży, w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, w związku z udziałem w posiedzeniach Rady Instytutu.
+4. Członkowi Rady Instytutu przysługuje zwrot kosztów zakwaterowania i podróży, w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 775 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, w związku z udziałem w posiedzeniach Rady Instytutu.
 
 **Art. 16.** Uchwały Rady Instytutu zapadają zwykłą większością głosów w obecności co najmniej połowy liczby członków Rady Instytutu. W przypadku równej liczby głosów rozstrzyga głos przewodniczącego Rady Instytutu.
 
@@ -358,9 +370,7 @@ source: "isap-pdf"
 - **3)** ma pełną zdolność do czynności prawnych;
 - **4)** nie została skazana prawomocnym wyrokiem za przestępstwo umyślne lub umyślne przestępstwo skarbowe.
 
-10. W skład komisji ekspertów, o której mowa w ust. 8, nie może zostać powołana osoba, wobec której zachodzą przesłanki określone w art. 24 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz.
-
-- **572)** dotyczące wyłączenia pracownika.
+10. W skład komisji ekspertów, o której mowa w ust. 8, nie może zostać powołana osoba, wobec której zachodzą przesłanki określone w art. 24 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) dotyczące wyłączenia pracownika.
 
 11. Osoba wchodząca w skład komisji ekspertów, o której mowa w ust. 8, przed przystąpieniem do oceny wniosku, o którym mowa w ust. 4, składa Dyrektorowi Instytutu oświadczenie, że nie zachodzi żadna z okoliczności powodujących wyłączenie jej z udziału w ocenie wniosku oraz że nie zachodzą żadne okoliczności mogące budzić uzasadnione wątpliwości co do jej bezstronności względem osoby ubiegającej się o stypendium, o którym mowa w ust. 1.
 
@@ -377,7 +387,7 @@ source: "isap-pdf"
 1. Instytut może wspierać przedsięwzięcia na rzecz wspierania rozwoju języka polskiego za granicą w formie:
 
 - **1)** dotacji celowej na finansowanie lub dofinansowanie realizacji określonych zadań, które podlegają szczególnym zasadom rozliczania,
-- **2)** nieodpłatnego użyczenia nieruchomości Instytutu przeznaczonych na realizację zadań Instytutu, o których mowa w art. 3 ust. 2 – zwanych dalej „wsparciem”.
+- **2)** nieodpłatnego użyczenia nieruchomości Instytutu przeznaczonych na realizację zadań Instytutu, o których mowa w art. 3 ust. 2 zwanych dalej „wsparciem”.
 
 2. Wsparcie może być udzielone:
 
@@ -401,10 +411,10 @@ source: "isap-pdf"
 
 - **1)** (uchylony)
 - **2)** osobie prawnej lub jednostce organizacyjnej niebędącej osobą prawną, w której osoba będąca członkiem jej organów zarządzających lub wspólnikiem została skazana prawomocnym wyrokiem sądu za przestępstwo umyślne lub umyślne przestępstwo skarbowe;
-- **3)** podmiotowi, który:
-    - **a)** posiada zaległości z tytułu należności publicznoprawnych lub
-    - **b)** pozostaje pod zarządem komisarycznym, znajduje się w toku likwidacji, postępowania upadłościowego lub postępowania restrukturyzacyjnego, lub
-    - **c)** w okresie trzech lat przed dniem złożenia wniosku o udzielenie wsparcia naruszył w sposób istotny umowę zawartą z Instytutem.
+- **3)** podmiotowi, który: posiada zaległości z tytułu należności publicznoprawnych lub pozostaje pod zarządem komisarycznym, znajduje się w toku likwidacji, postępowania upadłościowego lub postępowania restrukturyzacyjnego, lub w okresie trzech lat przed dniem złożenia wniosku o udzielenie wsparcia naruszył w sposób istotny umowę zawartą z Instytutem.
+    - **a)**
+    - **b)**
+    - **c)**
 
 3. Dla każdego ogłoszonego otwartego konkursu ofert, o którym mowa w art. 23 ust. 2 pkt 1, Dyrektor Instytutu powołuje komisję konkursową, która opiniuje złożone oferty, o których mowa w ust. 1.
 
@@ -427,19 +437,7 @@ source: "isap-pdf"
 
 10. Osobom wchodzącym w skład komisji, o których mowa w ust. 3–5, będącym jednocześnie pracownikami Instytutu nie przysługuje dodatkowe wynagrodzenie.
 
-**Art. 25.** Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, kryteria, szczegółowe warunki i tryb udzielania wsparcia oraz zakres informacji, jakie powinna zawierać oferta w otwartym konkursie ofert i wnioski, o których mowa w art. 24 ust. 1, skład, zadania oraz tryb pracy komisji, o których mowa w art. 24 ust. 3–5, uwzględniając efektywne i skuteczne wykorzystanie wsparcia oraz zapewnienie sprawności i przejrzystości jego udzielania.
-
-**Art. 25a.** Do przyznawania stypendiów, o których mowa w art. 22 ust. 1, i wsparcia, o którym mowa w art. 23 ust. 1, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
-
-**Art. 25b.**
-
-1. Składanie wniosków o przyznanie stypendiów, o których mowa w art. 22 ust. 4, oraz ofert w otwartym konkursie ofert i wniosków, o których mowa w art. 23 ust. 1, jest dokonywane za pośrednictwem systemu teleinformatycznego w rozumieniu art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 307 i
-
-- **1222)** , w którym są przetwarzane niezbędne dane do prawidłowego przebiegu procesu przyznawania stypendiów, o których mowa w art. 22 ust. 1, lub udzielenia wsparcia, o którym mowa w art. 23 ust. 1.
-
-2. Złożenie wniosków, o których mowa w art. 22 ust. 1, oraz ofert w otwartym konkursie ofert i wniosków, o których mowa w art. 23 ust. 1, za pośrednictwem systemu teleinformatycznego odbywa się za pomocą konta w systemie założonego dla wnioskodawcy lub oferenta.
-
-3. Dyrektor Instytutu jest administratorem danych przetwarzanych w systemie teleinformatycznym, za pośrednictwem którego składane są wnioski o przyznanie stypendiów, o których mowa w art. 22 ust. 4, oraz oferty w otwartym konkursie ofert i wnioski, o których mowa w art. 23 ust. 1.
+**Art. 25.** Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, kryteria, szczegółowe warunki i tryb udzielania wsparcia oraz zakres informacji, jakie powinna zawierać oferta w otwartym konkursie ofert i wnioski, o których mowa w art. 24 ust. 1, skład, zadania oraz tryb pracy komisji, o których mowa w art. 24 ust. 3–5, uwzględniając efektywne i skuteczne wykorzystanie wsparcia oraz zapewnienie sprawności i przejrzystości jego udzielania. Do przyznawania stypendiów, o których mowa w art. 22 ust. 1, i wsparcia, o którym mowa w art. 23 ust. 1, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. 1. Składanie wniosków o przyznanie stypendiów, o których mowa w art. 22 ust. 4, oraz ofert w otwartym konkursie ofert i wniosków, o których mowa w art. 23 ust. 1, jest dokonywane za pośrednictwem systemu teleinformatycznego w rozumieniu art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 307 i 1222), w którym są przetwarzane niezbędne dane do prawidłowego przebiegu procesu przyznawania stypendiów, o których mowa w art. 22 ust. 1, lub udzielenia wsparcia, o którym mowa w art. 23 ust. 1. 2. Złożenie wniosków, o których mowa w art. 22 ust. 1, oraz ofert w otwartym konkursie ofert i wniosków, o których mowa w art. 23 ust. 1, za pośrednictwem systemu teleinformatycznego odbywa się za pomocą konta w systemie założonego dla wnioskodawcy lub oferenta. 3. Dyrektor Instytutu jest administratorem danych przetwarzanych w systemie teleinformatycznym, za pośrednictwem którego składane są wnioski o przyznanie stypendiów, o których mowa w art. 22 ust. 4, oraz oferty w otwartym konkursie ofert i wnioski, o których mowa w art. 23 ust. 1.
 
 **Art. 26.**
 
@@ -451,11 +449,7 @@ source: "isap-pdf"
 
 4. Instytut może odstąpić od umowy o wsparcie w przypadku wykorzystania wsparcia niezgodnie z przeznaczeniem lub nieterminowego bądź nienależytego wykonywania umowy o wsparcie, w tym zmniejszenia zakresu przedsięwzięcia objętego wsparciem stwierdzonego na podstawie wyników kontroli oraz oceny realizacji wniosków i zaleceń pokontrolnych. Art. 27–29. (pominięte)
 
-**Art. 30.** Tworzy się Instytut.
-
-**Art. 31.**
-
-1. W latach 2022–2031 maksymalny limit wydatków budżetu państwa będących skutkiem finansowym realizacji zadań wynikających z ustawy wyniesie w:
+**Art. 30.** Tworzy się Instytut. 1. W latach 2022–2031 maksymalny limit wydatków budżetu państwa będących skutkiem finansowym realizacji zadań wynikających z ustawy wyniesie w:
 
 - **1)** 2022 r. – 14 925 000 zł;
 - **2)** 2023 r. – 92 400 000 zł;
@@ -472,15 +466,11 @@ source: "isap-pdf"
 
 3. W przypadku zagrożenia przekroczenia limitu wydatków, o których mowa w ust. 1, zostanie zastosowany mechanizm korygujący polegający na ograniczeniu wydatków związanych z kosztami funkcjonowania Instytutu, w szczególności w zakresie związanym z liczbą ustanawianych i finansowanych stypendiów, o których mowa w art. 22 ust. 1, oraz wysokości wsparcia udzielanego przez Instytut w danym roku.
 
-4. Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 3, jest minister właściwy do spraw oświaty i wychowania.
-
-**Art. 31a.** Wydatków związanych z utworzeniem i funkcjonowaniem podmiotu zależnego oraz nabywania przez Instytut nieruchomości nie wlicza się do maksymalnego limitu wydatków, o którym mowa w art. 31 ust. 1.
-
-**Art. 32.** Organy, o których mowa w art. 11 ust. 1, powołują członków Rady Instytutu pierwszej kadencji w terminie miesiąca od dnia wejścia w życie ustawy.
+4. Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 3, jest minister właściwy do spraw oświaty i wychowania. Wydatków związanych z utworzeniem i funkcjonowaniem podmiotu zależnego oraz nabywania przez Instytut nieruchomości nie wlicza się do maksymalnego limitu wydatków, o którym mowa w art. 31 ust. 1. Organy, o których mowa w art. 11 ust. 1, powołują członków Rady Instytutu pierwszej kadencji w terminie miesiąca od dnia wejścia w życie ustawy.
 
 **Art. 33.** Dyrektor Instytutu, w terminie 14 dni od dnia powołania, przygotuje i przedstawi ministrowi właściwemu do spraw oświaty i wychowania do zatwierdzenia projekt planu finansowego Instytutu na rok 2022. Do planu finansowego Instytutu na rok 2022 nie stosuje się przepisu art. 13 ust. 1 pkt 3 w zakresie zasięgnięcia opinii Rady Instytutu.
 
 **Art. 34.** Dyrektor Instytutu, w terminie do dnia 30 stycznia 2023 r., przygotuje i przedstawi ministrowi właściwemu do spraw oświaty i wychowania do zatwierdzenia projekt planu finansowego Instytutu na rok 2023. Do planu finansowego Instytutu na rok 2023 nie stosuje się przepisu art. 13 ust. 1 pkt 3 w zakresie zasięgnięcia opinii Rady Instytutu.
 
-**Art. 35.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+**Art. 35.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

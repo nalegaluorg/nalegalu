@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1999-01-21 |
 | Data wydania | 1999-04-22 |
+| Wejście w życie | 1999-05-07 |
 | Ostatnia zmiana | 2025-07-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990350321) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/321/text.pdf) |
 

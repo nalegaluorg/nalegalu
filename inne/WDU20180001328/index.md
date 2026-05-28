@@ -8,10 +8,10 @@ pos: 1328
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 lipca 2018 r.
+# Poprawkaprzyjęta w Strasburgu dnia 22 października 2014 r. do konwencji Rady Europy o praniu, ujawnianiu, zajmowaniu i konfiskacie dochodów pochodzących z przestępstwa oraz o finansowaniu terroryzmu, sporządzonej w Warszawie dnia 16 maja 2005 r.
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,61 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2016-06-16 |
 | Data wydania | 2018-07-10 |
+| Wejście w życie | 2015-10-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001328) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1328/text.pdf) |
 
-PoPrawka do konwencji Rady Europy o praniu, ujawnianiu, zajmowaniu i konfiskacie dochodów pochodzących z przestępstwa oraz o finansowaniu terroryzmu, sporządzonej w Warszawie dnia 16 maja 2005 r., przyjęta w Strasburgu dnia 22 października 2014 r.
-W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPoSPolitej PolSkiej podaje do powszechnej wiadomości: dnia 22 października 2014 r. w Strasburgu została przyjęta Poprawka do konwencji Rady europy o praniu, ujawnianiu, zajmowaniu i konfiskacie dochodów pochodzących z przestępstwa oraz o finansowaniu terroryzmu, sporządzonej w Warszawie dnia 16 maja 2005 r., w następującym brzmieniu: Przekład Po zaznajomieniu się z powyższą poprawką, w imieniu Rzeczypospolitej Polskiej oświadczam, że: została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, jest przyjęta, ratyfikowana i potwierdzona, będzie niezmiennie zachowywana.
-na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
-dano w Warszawie dnia 13 czerwca 2016 r.
-Prezydent Rzeczypospolitej Polskiej: A. Duda l.S.
-Prezes Rady Ministrów: B. Szydło
+Treść poprawki
+Dodatek – Tekst poprawki w języku angielskim
+Treść poprawki
+W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: Dnia 22 października 2014 r. w Strasburgu została przyjęta Poprawka do Konwencji Rady Europy o praniu, ujawnianiu, zajmowaniu i konfiskacie dochodów pochodzących z przestępstwa oraz o finansowaniu terroryzmu, sporządzonej w Warszawie dnia 16 maja 2005 r., w następującym brzmieniu: Przekład Konwencja Rady Europy o praniu, ujawnianiu, zajmowaniu i konfiskacie dochodów pochodzących z przestępstwa oraz o finansowaniu terroryzmu sporządzona w Warszawie dnia 16 maja 2005 r. ZAŁĄCZNIK
+a.
+udział w zorganizowanych grupach przestępczych i wymuszanie haraczu/okupu;
+b.
+terroryzm, włącznie z finansowaniem terroryzmu;
+c.
+handel ludźmi i przemyt imigrantów;
+d.
+wykorzystywanie seksualne, włącznie z wykorzystywaniem dzieci;
+e.
+nielegalny handel narkotykami i substancjami psychotropowymi;
+f.
+nielegalny handel bronią;
+g.
+nielegalny handel towarami pochodzącymi z kradzieży i innymi;
+h.
+korupcja i przekupstwo;
+i.
+oszustwo;
+j.
+fałszowanie pieniędzy;
+k.
+podrabianie produktów i piractwo;
+l.
+przestępstwo przeciwko środowisku naturalnemu;
+m.
+morderstwo, poważne uszkodzenie ciała;
+n.
+porwanie, nielegalne ograniczenie swobody i przetrzymywanie zakładników;
+o.
+rozbój lub kradzież;
+p.
+przemyt (także w odniesieniu do zobowiązań celnych i akcyzowych oraz podatków);
+q.
+przestępstwa podatkowe (odnoszące się do podatków bezpośrednich i pośrednich);
+r.
+wymuszenie;
+s.
+fałszerstwo;
+t.
+piractwo; oraz
+u.
+wykorzystywanie poufnych informacji (insider trading) i manipulacje na rynku
+Po zaznajomieniu się z powyższą poprawką, w imieniu Rzeczypospolitej Polskiej oświadczam, że:
+– została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych,
+– jest przyjęta, ratyfikowana i potwierdzona,
+– będzie niezmiennie zachowywana.
+Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej. Dano w Warszawie dnia 13 czerwca 2016 r.
+Dodatek – Tekst poprawki w języku angielskim
+patrz oryginał
 

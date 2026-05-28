@@ -8,12 +8,10 @@ pos: 1355
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym
-
-*USTAWA z dnia 24 sierpnia 2007 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 25 maja 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym
 
 | Pole | Wartość |
 |---|---|
@@ -27,13 +25,67 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-11-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001355) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1355/text.pdf) |
 
-Art. 38–42. (pominięte)
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym Rozdział 1 – Przepisy ogólne Rozdział 2 – Organy i służby uprawnione do przetwarzania danych Rozdział 3 – Ochrona danych osobowych oraz odpowiedzialność za niezgodne z prawem działanie lub zaniechanie związane z przetwarzaniem danych Rozdział 4 – Bezpieczeństwo Krajowego Systemu Informatycznego (KSI) Rozdział 5 – Centralny organ techniczny KSI Rozdział 6 – Biuro SIRENE Rozdział 7 – Zmiany w przepisach obowiązujących Rozdział 8 – Przepisy przejściowe i końcowe
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym (Dz. U. z 2021 r. poz. 1041), z uwzględnieniem zmian wprowadzonych ustawą z dnia 1 grudnia 2022 r. o zmianie ustawy o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym oraz niektórych innych ustaw (Dz. U. poz. 2642) oraz zmian wynikających z przepisów ogłoszonych przed dniem 25 maja 2023 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 8 i art. 9 ustawy z dnia 1 grudnia 2022 r. o zmianie ustawy o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym oraz niektórych innych ustaw (Dz. U. poz. 2642), które stanowią:
+„
+Prezes Urzędu Ochrony Danych Osobowych jest uprawniony do bezpośredniego dostępu do Krajowego Systemu Informatycznego (KSI) w celu sprawowania kontroli.
+Prezes Urzędu Ochrony Danych Osobowych w przypadkach, o których mowa w art. 44 ust. 6 rozporządzenia 2018/1861 oraz art. 59 ust. 6 rozporządzenia 2018/1862, jest organem uprawnionym do przekazania sprawy Europejskiemu Inspektorowi Ochrony Danych w celu podjęcia działań mediacyjnych.
+Art. 38–42.
+(pominięte)
+
+**Art. 8.**
+
+1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 4 ust. 5, art. 21 ust. 1 oraz art. 22 ust. 3 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 4 ust. 9, art. 21 ust. 1 oraz art. 22 ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 3 miesiące od dnia określonego w decyzji Komisji Europejskiej zgodnie z art. 66 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1861 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie odpraw granicznych, zmiany konwencji wykonawczej do układu z Schengen oraz zmiany i uchylenia rozporządzenia (WE) nr 1987/2006 (Dz. Urz. UE L 312 z 07.12.2018, str. 14, z późn. zm.a) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 135 z 22.05.2019, str. 27, Dz. Urz. UE L 248 z 13.07.2021, str. 11 oraz Dz. Urz. UE L 249 z 14.07.2021, str. 15.) oraz art. 79 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1862 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie współpracy policyjnej i współpracy wymiarów sprawiedliwości w sprawach karnych, zmiany i uchylenia decyzji Rady 2007/533/WSiSW oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1986/2006 i decyzji Komisji 2010/261/UE (Dz. Urz. UE L 312 z 07.12.2018, str. 56, z późn. zm.b) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 135 z 22.05.2019, str. 85, Dz. Urz. UE L 316 z 06.12.2019, str. 4, Dz. Urz. UE L 248 z 13.07.2021, str. 1, Dz. Urz. UE L 249 z 14.07.2021, str. 1 oraz Dz. Urz. UE L 185 z 12.07.2022, str. 1.).
+
+2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 25 ust. 3 i 4 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 25 ust. 11 i 12 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 3 miesiące od dnia wejścia w życie niniejszego przepisu.
+
+**Art. 9.** Ustawa wchodzi w życie z dniem określonym w decyzji Komisji Europejskiej, zgodnie z art. 66 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1861 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie odpraw granicznych, zmiany konwencji wykonawczej do układu z Schengen oraz zmiany i uchylenia rozporządzenia (WE) nr 1987/2006 oraz art. 79 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1862 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie współpracy policyjnej i współpracy wymiarów sprawiedliwości w sprawach karnych, zmiany i uchylenia decyzji Rady 2007/533/WSiSW oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1986/2006 i decyzji Komisji 2010/261/UE, z wyjątkiem art. 1 pkt 1, 12, 14 i 15 oraz art. 8 ust. 2, które wchodzą w życie po upływie 7 dni od dnia ogłoszenia. ” .
+
+Załącznik – Tekst jednolity ustawy z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym
+
+- **a)** Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 135 z 22.05.2019, str. 27, Dz. Urz. UE L 248 z 13.07.2021, str. 11 oraz Dz. Urz. UE L 249 z 14.07.2021, str. 15. b) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 135 z 22.05.2019, str. 85, Dz. Urz. UE L 316 z 06.12.2019, str. 4, Dz. Urz. UE L 248 z 13.07.2021, str. 1, Dz. Urz. UE L 249 z 14.07.2021, str. 1 oraz Dz. Urz. UE L 185 z 12.07.2022, str. 1.
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa zasady i sposób realizacji udziału Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym, w tym obowiązki i uprawnienia organów dotyczące dokonywania wpisów oraz wglądu do danych zawartych w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym poprzez Krajowy System Informatyczny (KSI).
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** bezpośrednim dostępie – rozumie się przez to dokonywanie wpisów oraz wgląd do danych przetwarzanych poprzez Krajowy System Informatyczny (KSI), realizowany w sposób bezpośredni przez organ wskazany w ustawie;
+- **2)** Centralnym Wizowym Systemie Informacyjnym – rozumie się przez to system centralny, o którym mowa w art. 1 ust. 2 decyzji Rady 2004/512/WE z dnia 8 czerwca 2004 r. w sprawie ustanowienia Wizowego Systemu Informacyjnego (VIS) (Dz. Urz. UE L 213 z 15.06.2004, str. 5–7);
+- **3)** centralnym organie technicznym KSI – rozumie się przez to Komendanta Głównego Policji;
+- **4)** danych – rozumie się przez to dane SIS lub dane VIS;
+- **5)** danych SIS – rozumie się przez to dane określone w art. 4 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1860 z dnia 28 listopada 2018 r. w sprawie użytkowania Systemu Informacyjnego Schengen do celów powrotu nielegalnie przebywających obywateli państw trzecich (Dz. Urz. UE L 312 z 07.12.2018, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2018/1860”, art. 20 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1861 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie odpraw granicznych, zmiany konwencji wykonawczej do układu z Schengen oraz zmiany i uchylenia rozporządzenia (WE) nr 1987/2006 (Dz. Urz. UE L 312 z 07.12.2018, str. 14, z późn. zm.), zwanego dalej „rozporządzeniem 2018/1861”, oraz art. 20 ust. 1–3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1862 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie współpracy policyjnej i współpracy wymiarów sprawiedliwości w sprawach karnych, zmiany i uchylenia decyzji Rady 2007/533/WSiSW oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1986/2006 i decyzji Komisji 2010/261/UE (Dz. Urz. UE L 312 z 07.12.2018, str. 56, z późn. zm.), zwanego dalej „rozporządzeniem 2018/1862”;
+- **6)** danych VIS – rozumie się przez to dane określone w art. 5 ust. 1 rozporządzenia (WE) nr 767/2008 Parlamentu Europejskiego i Rady z dnia 9 lipca 2008 r. w sprawie Wizowego Systemu Informacyjnego (VIS) oraz wymiany danych pomiędzy państwami członkowskimi na temat wiz krótkoterminowych (rozporządzenie w sprawie VIS) (Dz. Urz. UE L 218 z 13.08.2008, str. 60–81);
+- **7)** informacjach uzupełniających – rozumie się przez to informacje uzupełniające, o których mowa w art. 3 pkt 2 rozporządzenia 2018/1861 oraz art. 3 pkt 2 rozporządzenia 2018/1862;
+- **8)** interfejsie krajowym – rozumie się przez to interfejs krajowy, o którym mowa w art. 1 ust. 2 decyzji Rady 2004/512/WE z dnia 8 czerwca 2004 r. w sprawie ustanowienia Wizowego Systemu Informacyjnego;
+- **9)** (uchylony)
+- **10)** kopii krajowej – rozumie się przez to kopię bazy danych SIS, o której mowa w art. 4 ust. 1 lit. b rozporządzenia 2018/1861 oraz art. 4 ust. 1 lit. b rozporządzenia 2018/1862;
+- **11)** Krajowym Systemie Informatycznym (KSI) – rozumie się przez to zespół współpracujących ze sobą urządzeń, procedur przetwarzania informacji i narzędzi programowych (oprogramowania) zastosowanych w celu przetwarzania danych oraz infrastrukturę telekomunikacyjną, umożliwiające organom administracji publicznej i organom wymiaru sprawiedliwości przetwarzanie danych gromadzonych w Systemie Informacyjnym Schengen oraz w Wizowym Systemie Informacyjnym;
+- **12)** (uchylony)
+- **13)** państwie członkowskim – rozumie się przez to państwo członkowskie Unii Europejskiej, państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym nienależące do Unii Europejskiej lub państwo niebędące stroną umowy o Europejskim Obszarze Gospodarczym, którego obywatele mogą korzystać ze swobody przepływu osób na podstawie umów zawartych przez to państwo ze Wspólnotą Europejską i jej państwami członkowskimi, z wyjątkiem państwa, wobec którego Rada podjęła decyzję o niestosowaniu przepisów dorobku Schengen;
+- **14)** pośrednim dostępie – rozumie się przez to dokonywanie wpisów oraz wgląd do danych przetwarzanych poprzez Krajowy System Informatyczny (KSI), realizowany w sytuacjach wskazanych w ustawie za pośrednictwem centralnego organu technicznego KSI albo organu wskazanego w art. 7 ust. 2;
+- **14a)** systemie centralnym SIS – rozumie się przez to system centralny, o którym mowa w art. 4 ust. 1 lit. a rozporządzenia 2018/1861 oraz art. 4 ust. 1 lit. a rozporządzenia 2018/1862;
+- **15)** Systemie Informacyjnym Schengen – rozumie się przez to system informacyjny, o którym mowa w art. 4 rozporządzenia 2018/1861 oraz art. 4 rozporządzenia 2018/1862;
+- **15a)** systemie krajowym N.SIS – rozumie się przez to polski system krajowy zawierający kopię krajową, który łączy się z systemem centralnym SIS, spełniający wymagania, o których mowa w art. 4 ust. 1 lit. b rozporządzenia 2018/1861 oraz art. 4 ust. 1 lit. b rozporządzenia 2018/1862;
+- **16)** Wizowym Systemie Informacyjnym – rozumie się przez to system, o którym mowa w art. 1 decyzji Rady 2004/512/WE z dnia 8 czerwca 2004 r. w sprawie ustanowienia Wizowego Systemu Informacyjnego (VIS);
+- **17)** wpisie – rozumie się przez to czynności faktyczne polegające na wprowadzeniu do Systemu Informacyjnego Schengen lub Wizowego Systemu Informacyjnego, zmianie lub usunięciu z Systemu Informacyjnego Schengen lub Wizowego Systemu Informacyjnego danych umożliwiających właściwym organom identyfikację osoby lub przedmiotu oraz podjęcie wnioskowanego działania w związku ze zidentyfikowaniem osoby lub przedmiotu;
+- **18)** przetwarzaniu danych – rozumie się przez to przetwarzanie danych osobowych, o którym mowa w art. 3 pkt 6 rozporządzenia 2018/1861 oraz art. 3 pkt 5 rozporządzenia 2018/1862, a także jakiekolwiek operacje wykonywane na danych niebędących danymi osobowymi, takie jak zbieranie, wpisywanie, utrwalanie, przechowywanie, opracowywanie, zmienianie, udostępnianie i usuwanie;
+- **19)** rozporządzeniu 2016/679 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.);
+- **20)** tożsamości przywłaszczonej – rozumie się przez to dane wprowadzone do Systemu Informacyjnego Schengen zgodnie z art. 47 rozporządzenia 2018/1861 oraz art. 62 rozporządzenia 2018/1862 dotyczące osoby pokrzywdzonej, której tożsamością posługuje się osoba poszukiwana na podstawie wpisu do Systemu Informacyjnego Schengen;
+- **21)** odsyłaczu – rozumie się przez to odsyłacz, o którym mowa w art. 48 rozporządzenia 2018/1861 oraz art. 63 rozporządzenia 2018/1862, utworzony w Systemie Informacyjnym Schengen pomiędzy co najmniej dwoma wpisami;
+- **22)** danych biometrycznych – rozumie się przez to dane, o których mowa w art. 3 pkt 13 rozporządzenia 2018/1861 oraz art. 3 pkt 12 rozporządzenia 2018/1862;
+- **23)** danych daktyloskopijnych – rozumie się przez to dane, o których mowa w art. 3 pkt 14 rozporządzenia 2018/1861 oraz art. 3 pkt 13 rozporządzenia 2018/1862;
+- **24)** użytkowniku indywidualnym – rozumie się przez to osobę fizyczną upoważnioną w ramach organu do dostępu do Krajowego Systemu Informatycznego (KSI) oraz do przetwarzania danych poprzez Krajowy System Informatyczny (KSI), która w celu dostępu do danych SIS korzysta bezpośrednio z aplikacji WWW SIS, a w celu dostępu do danych VIS korzysta bezpośrednio z aplikacji WWW VIS;
+- **25)** użytkowniku instytucjonalnym – rozumie się przez to organ uprawniony do dostępu i współpracy z Krajowym Systemem Informatycznym (KSI) za pośrednictwem własnego systemu teleinformatycznego;
+- **26)** użytkowniku końcowym – rozumie się przez to osobę fizyczną upoważnioną do dostępu do Krajowego Systemu Informatycznego (KSI) oraz przetwarzania danych poprzez Krajowy System Informatyczny (KSI) za pośrednictwem systemu teleinformatycznego użytkownika instytucjonalnego;
+- **27)** aplikacji WWW SIS – rozumie się przez to graficzny interfejs użytkownika Krajowego Systemu Informatycznego (KSI), stanowiący informatyczne narzędzie dostępowe do danych SIS udostępnione użytkownikowi indywidualnemu przez centralny organ techniczny KSI;
+- **28)** aplikacji WWW VIS – rozumie się przez to graficzny interfejs użytkownika Krajowego Systemu Informatycznego (KSI), stanowiący informatyczne narzędzie dostępowe do danych VIS udostępnione użytkownikowi indywidualnemu przez centralny organ techniczny KSI.
 
 #### Rozdział 2 Organy i służby uprawnione do przetwarzania danych
 
@@ -51,33 +103,33 @@ Art. 38–42. (pominięte)
 - **8)** małoletnich, którym należy uniemożliwić podróżowanie ze względu na realne zagrożenie, że zostaną wywiezieni z terytorium państwa członkowskiego lub opuszczą to terytorium oraz że staną się ofiarami handlu ludźmi lub ofiarami przymusowego małżeństwa, okaleczenia żeńskich narządów płciowych lub innych form przemocy warunkowanej płcią – przysługuje Policji, Straży Granicznej, sądowi lub prokuraturze;
 - **9)** małoletnich, którym należy uniemożliwić podróżowanie ze względu na realne zagrożenie, że zostaną wywiezieni z terytorium państwa członkowskiego lub opuszczą to terytorium oraz że staną się ofiarami przestępstw o charakterze terrorystycznym lub wezmą udział w popełnianiu takich przestępstw lub zostaną zwerbowani lub zaciągnięci do ugrupowań zbrojnych, lub zmuszeni do aktywnego udziału w działaniach wojennych – przysługuje Policji, Agencji Bezpieczeństwa Wewnętrznego, sądowi lub prokuraturze;
 - **10)** osób pełnoletnich narażonych na niebezpieczeństwo, którym dla ich własnej ochrony należy uniemożliwić podróżowanie ze względu na realne zagrożenie, że zostaną wywiezione z terytorium państwa członkowskiego lub opuszczą to terytorium oraz że staną się ofiarami handlu ludźmi lub przemocy warunkowanej płcią – przysługuje Policji, Straży Granicznej, sądowi lub prokuraturze;
-- **11)** osób lub przedmiotów należących do jednej z kategorii, o których mowa w pkt 12 lit. a–c, e, g, h oraz j–l, a także bezgotówkowych środków płatniczych wprowadzonych w celu:
-    - **a)** przeprowadzania kontroli niejawnych, rozpytań kontrolnych lub kontroli szczególnych, których celem jest zapobieganie przestępstwom, ich wykrywanie, prowadzenie w ich sprawie postępowań przygotowawczych lub ich ściganie, wykonanie wyroku w sprawach karnych lub w sprawach o przestępstwa skarbowe lub zapobieganie zagrożeniom dla bezpieczeństwa publicznego, jeżeli zachodzi co najmniej jedna z następujących okoliczności: – istnieje uzasadnione podejrzenie, że dana osoba ma zamiar popełnić lub popełnia którekolwiek z przestępstw, o których mowa w art. 607w ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375, z późn. zm. ), – informacje, o których mowa w art. 37 ust. 1 rozporządzenia 2018/1862, są niezbędne do wykonania kary pozbawienia wolności lub środka zabezpieczającego polegającego na pozbawieniu wolności w odniesieniu do osoby skazanej za popełnienie któregokolwiek z przestępstw, o których mowa w art. 607w ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, – ogólna ocena danej osoby, w szczególności w świetle wcześniej popełnionych przestępstw, pozwala przypuszczać, że osoba ta może w przyszłości popełnić przestępstwo, o którym mowa w art. 607w ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego – przysługuje Policji, Służbie Celno-Skarbowej, Straży Granicznej, Agencji Bezpieczeństwa Wewnętrznego, Żandarmerii Wojskowej lub Centralnemu Biuru Antykorupcyjnemu,
-    - **b)** przeprowadzania kontroli niejawnych, rozpytań kontrolnych lub kontroli szczególnych, których celem jest zapobieganie poważnym zagrożeniom wewnętrznego i zewnętrznego bezpieczeństwa państwa – przysługuje Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnemu Biuru Antykorupcyjnemu, Służbie Ochrony Państwa, Służbie Kontrwywiadu Wojskowego lub Służbie Wywiadu Wojskowego;
+- **11)** osób lub przedmiotów należących do jednej z kategorii, o których mowa w pkt 12 lit. a-c, e, g, h oraz j-l, a także bezgotówkowych środków płatniczych wprowadzonych w celu: przeprowadzania kontroli niejawnych, rozpytań kontrolnych lub kontroli szczególnych, których celem jest zapobieganie przestępstwom, ich wykrywanie, prowadzenie w ich sprawie postępowań przygotowawczych lub ich ściganie, wykonanie wyroku w sprawach karnych lub w sprawach o przestępstwa skarbowe lub zapobieganie zagrożeniom dla bezpieczeństwa publicznego, jeżeli zachodzi co najmniej jedna z następujących okoliczności: – istnieje uzasadnione podejrzenie, że dana osoba ma zamiar popełnić lub popełnia którekolwiek z przestępstw, o których mowa w art. 607w ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375, z późn. zm.), – informacje, o których mowa w art. 37 ust. 1 rozporządzenia 2018/1862, są niezbędne do wykonania kary pozbawienia wolności lub środka zabezpieczającego polegającego na pozbawieniu wolności w odniesieniu do osoby skazanej za popełnienie któregokolwiek z przestępstw, o których mowa w art. 607w ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, – ogólna ocena danej osoby, w szczególności w świetle wcześniej popełnionych przestępstw, pozwala przypuszczać, że osoba ta może w przyszłości popełnić przestępstwo, o którym mowa w art. 607w ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego – przysługuje Policji, Służbie Celno-Skarbowej, Straży Granicznej, Agencji Bezpieczeństwa Wewnętrznego, Żandarmerii Wojskowej lub Centralnemu Biuru Antykorupcyjnemu, przeprowadzania kontroli niejawnych, rozpytań kontrolnych lub kontroli szczególnych, których celem jest zapobieganie poważnym zagrożeniom wewnętrznego i zewnętrznego bezpieczeństwa państwa – przysługuje Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnemu Biuru Antykorupcyjnemu, Służbie Ochrony Państwa, Służbie Kontrwywiadu Wojskowego lub Służbie Wywiadu Wojskowego;
+    - **a)**
+    - **b)**
 
-- **12)** przedmiotów podlegających zatrzymaniu albo mogących stanowić dowód w sprawie lub podlegających zajęciu w celu zabezpieczenia w postępowaniu karnym lub postępowaniu karnym skarbowym, należących do jednej z poniższych kategorii:
-    - **a)** pojazdy silnikowe niezależnie od układu napędowego,
-    - **b)** przyczepy o masie własnej przekraczającej 750 kg,
-    - **c)** przyczepy turystyczne,
-    - **d)** urządzenia przemysłowe,
-    - **e)** jednostki pływające,
-    - **f)** silniki jednostek pływających,
-    - **g)** kontenery,
-    - **h)** statki powietrzne,
-    - **i)** silniki statków powietrznych,
-    - **j)** broń palna,
-    - **k)** blankiety dokumentów urzędowych, które zostały skradzione, przywłaszczone, utracone lub które mają charakter takich dokumentów, ale są fałszywe,
-    - **l)** wydane dokumenty tożsamości, takie jak paszporty, dowody tożsamości, dokumenty pobytowe, dokumenty podróży oraz prawa jazdy, które zostały skradzione, przywłaszczone, utracone lub unieważnione lub które mają charakter takich dokumentów, ale są fałszywe,
-    - **m)** dowody rejestracyjne pojazdów i tablice rejestracyjne pojazdów, które zostały skradzione, przywłaszczone, utracone lub unieważnione lub które mają charakter takich dokumentów lub tablic rejestracyjnych, ale są fałszywe,
-    - **n)** banknoty o spisanych numerach i banknoty fałszywe,
-    - **o)** sprzęt informatyczny,
-    - **p)** możliwe do zidentyfikowania części pojazdów silnikowych,
-    - **q)** możliwe do zidentyfikowania części urządzeń przemysłowych,
-    - **r)** inne możliwe do zidentyfikowania przedmioty o znacznej wartości, zdefiniowane zgodnie z art. 38 ust. 3 rozporządzenia 2018/1862 – przysługuje Policji, Straży Granicznej, Agencji Bezpieczeństwa Wewnętrznego, Żandarmerii Wojskowej, Centralnemu Biuru Antykorupcyjnemu, Służbie Celno-Skarbowej, sądowi lub prokuraturze;
+- **12)** przedmiotów podlegających zatrzymaniu albo mogących stanowić dowód w sprawie lub podlegających zajęciu w celu zabezpieczenia w postępowaniu karnym lub postępowaniu karnym skarbowym, należących do jednej z poniższych kategorii: pojazdy silnikowe niezależnie od układu napędowego, przyczepy o masie własnej przekraczającej 750 kg, przyczepy turystyczne, urządzenia przemysłowe, jednostki pływające, silniki jednostek pływających, kontenery, statki powietrzne, silniki statków powietrznych, broń palna, blankiety dokumentów urzędowych, które zostały skradzione, przywłaszczone, utracone lub które mają charakter takich dokumentów, ale są fałszywe, wydane dokumenty tożsamości, takie jak paszporty, dowody tożsamości, dokumenty pobytowe, dokumenty podróży oraz prawa jazdy, które zostały skradzione, przywłaszczone, utracone lub unieważnione lub które mają charakter takich dokumentów, ale są fałszywe, dowody rejestracyjne pojazdów i tablice rejestracyjne pojazdów, które zostały skradzione, przywłaszczone, utracone lub unieważnione lub które mają charakter takich dokumentów lub tablic rejestracyjnych, ale są fałszywe, banknoty o spisanych numerach i banknoty fałszywe, sprzęt informatyczny, możliwe do zidentyfikowania części pojazdów silnikowych, możliwe do zidentyfikowania części urządzeń przemysłowych, inne możliwe do zidentyfikowania przedmioty o znacznej wartości, zdefiniowane zgodnie z art. 38 ust. 3 rozporządzenia 2018/1862 przysługuje Policji, Straży Granicznej, Agencji Bezpieczeństwa Wewnętrznego, Żandarmerii Wojskowej, Centralnemu Biuru Antykorupcyjnemu, Służbie Celno-Skarbowej, sądowi lub prokuraturze;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
+    - **k)**
+    - **l)**
+    - **m)**
+    - **n)**
+    - **o)**
+    - **p)**
+    - **q)**
+    - **r)**
 
-- **13)** przedmiotów podlegających zatrzymaniu, należących do jednej z kategorii:
-    - **a)** blankiety dokumentów urzędowych, które zostały skradzione, przywłaszczone lub utracone,
-    - **b)** wydane dokumenty tożsamości, takie jak paszporty, dowody tożsamości, dokumenty pobytowe, dokumenty podróży oraz prawa jazdy, które zostały skradzione, przywłaszczone, utracone lub unieważnione – przysługuje ministrowi właściwemu do spraw wewnętrznych, ministrowi właściwemu do spraw zagranicznych, Szefowi Urzędu do Spraw Cudzoziemców lub wojewodzie;
+- **13)** przedmiotów podlegających zatrzymaniu, należących do jednej z kategorii: blankiety dokumentów urzędowych, które zostały skradzione, przywłaszczone lub utracone, wydane dokumenty tożsamości, takie jak paszporty, dowody tożsamości, dokumenty pobytowe, dokumenty podróży oraz prawa jazdy, które zostały skradzione, przywłaszczone, utracone lub unieważnione przysługuje ministrowi właściwemu do spraw wewnętrznych, ministrowi właściwemu do spraw zagranicznych, Szefowi Urzędu do Spraw Cudzoziemców lub wojewodzie;
+    - **a)**
+    - **b)**
 
 - **14)** podlegających zatrzymaniu dowodów rejestracyjnych pojazdów i tablic rejestracyjnych pojazdów, które zostały skradzione, przywłaszczone, utracone lub unieważnione – przysługuje ministrowi właściwemu do spraw wewnętrznych;
 - **15)** danych daktyloskopijnych znalezionych na miejscu popełnienia przestępstw o charakterze terrorystycznym lub innych poważnych przestępstw będących przedmiotem postępowania przygotowawczego, jeżeli zachodzi bardzo wysokie prawdopodobieństwo, że należą do sprawcy – przysługuje Agencji Bezpieczeństwa Wewnętrznego, Centralnemu Biuru Antykorupcyjnemu, Policji, Służbie Celno-Skarbowej, Żandarmerii Wojskowej lub Straży Granicznej.
@@ -90,11 +142,7 @@ Art. 38–42. (pominięte)
 
 5. W przypadku gdy decyzja, o której mowa w ust. 1 pkt 5, została zrealizowana zgodnie z art. 6 rozporządzenia 2018/1860 i towarzyszy jej zakaz wjazdu, o którym mowa w art. 24 ust. 1 lit. b rozporządzenia 2018/1861, Szefowi Urzędu do Spraw Cudzoziemców przysługuje możliwość dokonania wpisu określonego w ust. 1 pkt 4 w miejsce wpisu określonego w ust. 1 pkt 5 zgodnie z art. 24 rozporządzenia 2018/1861.
 
-6. W celu dokonania wpisu do Systemu Informacyjnego Schengen określonego w ust. 1 pkt 5, pozwalającego na skuteczną identyfikację osoby nim objętej, organ uprawniony przetwarza dane SIS zgodnie z zakresem wskazanym w art. 4 rozporządzenia 2018/1860. W celu dokonania wpisu do Systemu Informacyjnego Schengen określonego w ust. 1 pkt 1–4 i 6–15, pozwalającego na skuteczną identyfikację osoby nim objętej, organy uprawnione przetwarzają dane SIS zgodnie z zakresem wskazanym w art. 20 rozporządzenia 2018/1861 oraz art. 20 rozporządzenia 2018/1862.
-
-**Art. 3a.** (uchylony)
-
-**Art. 3b.** Dostęp do Krajowego Systemu Informatycznego (KSI) w celu dokonywania wpisów danych SIS, o których mowa w art. 3 ust. 1 pkt 1–3, 7–10 i 12, sądy realizują za pośrednictwem systemu teleinformatycznego prowadzonego przez Ministra Sprawiedliwości.
+6. W celu dokonania wpisu do Systemu Informacyjnego Schengen określonego w ust. 1 pkt 5, pozwalającego na skuteczną identyfikację osoby nim objętej, organ uprawniony przetwarza dane SIS zgodnie z zakresem wskazanym w art. 4 rozporządzenia 2018/1860. W celu dokonania wpisu do Systemu Informacyjnego Schengen określonego w ust. 1 pkt 1–4 i 6–15, pozwalającego na skuteczną identyfikację osoby nim objętej, organy uprawnione przetwarzają dane SIS zgodnie z zakresem wskazanym w art. 20 rozporządzenia 2018/1861 oraz art. 20 rozporządzenia 2018/1862. (uchylony) Dostęp do Krajowego Systemu Informatycznego (KSI) w celu dokonywania wpisów danych SIS, o których mowa w art. 3 ust. 1 pkt 1–3, 7–10 i 12, sądy realizują za pośrednictwem systemu teleinformatycznego prowadzonego przez Ministra Sprawiedliwości.
 
 **Art. 4.**
 
@@ -112,19 +160,19 @@ Art. 38–42. (pominięte)
 - **10)** osób pełnoletnich narażonych na niebezpieczeństwo, o których mowa w art. 3 ust. 1 pkt 10 – przysługuje Straży Granicznej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Żandarmerii Wojskowej, Centralnemu Biuru Antykorupcyjnemu, Służbie Celno-Skarbowej, sądowi lub prokuraturze;
 - **11)** osób lub przedmiotów wprowadzonych w celu przeprowadzania kontroli niejawnych, rozpytań kontrolnych lub kontroli szczególnych, o których mowa w art. 3 ust. 1 pkt 11 – przysługuje Straży Granicznej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Żandarmerii Wojskowej, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnemu Biuru Antykorupcyjnemu, Służbie Celno-Skarbowej, Służbie Ochrony Państwa, ministrowi właściwemu do spraw wewnętrznych, wojewodzie, sądowi lub prokuraturze;
 - **12)** przedmiotów, o których mowa w art. 3 ust. 1 pkt 12 – przysługuje Straży Granicznej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Żandarmerii Wojskowej, Centralnemu Biuru Antykorupcyjnemu, Służbie Celno-Skarbowej, sądowi lub prokuraturze;
-- **13)** przedmiotów podlegających zatrzymaniu albo mogących stanowić dowód w sprawie lub podlegających zajęciu w celu zabezpieczenia w postępowaniu karnym lub postępowaniu karnym skarbowym, należących do jednej z kategorii, o których mowa w art. 3 ust. 1 pkt 12 lit. k oraz l – przysługuje ministrowi właściwemu do spraw wewnętrznych, ministrowi właściwemu do spraw zagranicznych, Szefowi Urzędu do Spraw Cudzoziemców, wojewodzie lub konsulowi;
-- **14)** przedmiotów podlegających zatrzymaniu albo mogących stanowić dowód w sprawie lub podlegających zajęciu w celu zabezpieczenia w postępowaniu karnym lub postępowaniu karnym skarbowym, należących do jednej z kategorii, o których mowa w art. 3 ust. 1 pkt 12 lit. a–i, m, p oraz q – przysługuje ministrowi właściwemu do spraw wewnętrznych, Służbie Ochrony Państwa, Agencji Wywiadu, Służbie Wywiadu Wojskowego, Służbie Kontrwywiadu Wojskowego lub wojewodzie mazowieckiemu;
+- **13)** przedmiotów podlegających zatrzymaniu albo mogących stanowić dowód w sprawie lub podlegających zajęciu w celu zabezpieczenia w postępowaniu karnym lub postępowaniu karnym skarbowym, należących do jednej z kategorii, o których mowa w art. 3 ust. 1 pkt 12 lit. k oraz I – przysługuje ministrowi właściwemu do spraw wewnętrznych, ministrowi właściwemu do spraw zagranicznych, Szefowi Urzędu do Spraw Cudzoziemców, wojewodzie lub konsulowi;
+- **14)** przedmiotów podlegających zatrzymaniu albo mogących stanowić dowód w sprawie lub podlegających zajęciu w celu zabezpieczenia w postępowaniu karnym lub postępowaniu karnym skarbowym, należących do jednej z kategorii, o których mowa w art. 3 ust. 1 pkt 12 lit. a-i, m, p oraz q – przysługuje ministrowi właściwemu do spraw wewnętrznych, Służbie Ochrony Państwa, Agencji Wywiadu, Służbie Wywiadu Wojskowego, Służbie Kontrwywiadu Wojskowego lub wojewodzie mazowieckiemu;
 - **15)** przedmiotów podlegających zatrzymaniu albo mogących stanowić dowód w sprawie lub podlegających zajęciu w celu zabezpieczenia w postępowaniu karnym lub postępowaniu karnym skarbowym, należących do jednej z kategorii, o których mowa w art. 3 ust. 1 pkt 12 lit. a, e oraz h – przysługuje naczelnikowi urzędu skarbowego;
 - **16)** przedmiotów, o których mowa w art. 3 ust. 1 pkt 12 lit. h oraz i – przysługuje Prezesowi Urzędu Lotnictwa Cywilnego;
 - **17)** danych daktyloskopijnych, o których mowa w art. 3 ust. 1 pkt 15, jeżeli zachodzi wysokie prawdopodobieństwo, że należą do sprawcy – przysługuje Agencji Bezpieczeństwa Wewnętrznego, Policji, Żandarmerii Wojskowej, Służbie Celno-Skarbowej, Centralnemu Biuru Antykorupcyjnemu lub Straży Granicznej.
 
-2. Uprawnienie do pośredniego dostępu do Krajowego Systemu Informatycznego (KSI) w celu wglądu do danych SIS dotyczących przedmiotów, o których mowa w art. 3 ust. 1 pkt 12 lit. a–c, m oraz p – przysługuje organom jednostek samorządu terytorialnego właściwym w sprawach rejestracji pojazdów.
+2. Uprawnienie do pośredniego dostępu do Krajowego Systemu Informatycznego (KSI) w celu wglądu do danych SIS dotyczących przedmiotów, o których mowa w art. 3 ust. 1 pkt 12 lit. a-c, m oraz p – przysługuje organom jednostek samorządu terytorialnego właściwym w sprawach rejestracji pojazdów.
 
 3. Uprawnienie do pośredniego dostępu do Krajowego Systemu Informatycznego (KSI) w celu wglądu do danych SIS dotyczących przedmiotów, o których mowa w art. 3 ust. 1 pkt 12 lit. e oraz f – przysługuje dyrektorowi urzędu morskiego, izbie morskiej, dyrektorowi urzędu żeglugi śródlądowej oraz organom rejestrującym w rozumieniu art. 2 pkt 8 ustawy z dnia 12 kwietnia 2018 r. o rejestracji jachtów i innych jednostek pływających o długości do 24 m (Dz. U. z 2020 r. poz. 1500, z 2022 r. poz. 2642 oraz z 2023 r. poz. 261).
 
 4. Uprawnienie do wglądu do danych SIS przysługuje organom określonym w:
 
-- **1)** ust. 1 pkt 14 i ust. 2 wyłącznie w związku z wykonywaniem obowiązku rejestracji pojazdów określonego w art. 73 i art. 74 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2022 r. poz. 988, z późn. zm. ) w celu sprawdzenia, czy zgłoszone do rejestracji pojazdy oraz towarzyszące im dowody rejestracyjne i tablice rejestracyjne nie zostały skradzione, przywłaszczone, utracone lub nie są poszukiwane jako dowód w postępowaniu karnym lub postępowaniu karnym skarbowym;
+- **1)** ust. 1 pkt 14 i ust. 2 wyłącznie w związku z wykonywaniem obowiązku rejestracji pojazdów określonego w art. 73 i art. 74 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2022 r. poz. 988, z późn. zm.) w celu sprawdzenia, czy zgłoszone do rejestracji pojazdy oraz towarzyszące im dowody rejestracyjne i tablice rejestracyjne nie zostały skradzione, przywłaszczone, utracone lub nie są poszukiwane jako dowód w postępowaniu karnym lub postępowaniu karnym skarbowym;
 - **2)** ust. 1 pkt 16 wyłącznie w związku z wykonywaniem obowiązku rejestracji statków powietrznych określonego w art. 34, art. 35 i art. 37 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2022 r. poz. 1235, 1715, 1846, 2185 i 2642) albo obowiązku ich wpisu do ewidencji określonego w przepisach wydanych na podstawie art. 33 ust. 2 i 4 tej ustawy w celu sprawdzenia, czy statki powietrzne zgłoszone do rejestracji albo ewidencji lub ich silniki nie zostały skradzione, przywłaszczone, utracone lub nie są poszukiwane jako dowód w postępowaniu karnym lub postępowaniu karnym skarbowym;
 - **3)** ust. 3 wyłącznie w związku z wykonywaniem obowiązku rejestracji jednostek pływających określonego w art. 23 i art. 39 ustawy z dnia 18 września 2001 r. – Kodeks morski (Dz. U. z 2018 r. poz. 2175, z 2022 r. poz. 2642 oraz z 2023 r. poz. 261), art. 18 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2022 r. poz. 1097 i 2642) oraz art. 4 ustawy z dnia 12 kwietnia 2018 r. o rejestracji jachtów i innych jednostek pływających o długości do 24 m w celu sprawdzenia, czy zgłoszone do rejestracji jednostki pływające, w tym silniki jednostek pływających, nie zostały skradzione, przywłaszczone, utracone lub nie są poszukiwane jako dowód w postępowaniu karnym lub postępowaniu karnym skarbowym.
 
@@ -132,66 +180,62 @@ Art. 38–42. (pominięte)
 
 6. Organy, o których mowa w ust. 2 i 3, w przypadku odnalezienia na skutek wglądu do danych SIS przedmiotu, którego dotyczy wpis, są obowiązane podjąć wnioskowane we wpisie działania, bezzwłocznie informując odpowiednio organ wymieniony w art. 3, który dokonał wpisu, albo biuro SIRENE, albo bezzwłocznie przekazać przedmiot Policji, a w razie braku takiej możliwości bezzwłocznie przekazać Policji informację o odnalezieniu przedmiotu.
 
-7. W przypadku przekazania osoby lub przedmiotu albo informacji, o której mowa w ust. 6, Policja podejmuje wnioskowane we wpisie działania na podstawie ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z późn. zm. ), bezzwłocznie informując odpowiednio organ wymieniony w art. 3, który dokonał wpisu, albo biuro SIRENE oraz stosuje inne przewidziane prawem środki w oparciu o przekazane wraz z osobą lub przedmiotem materiały, w szczególności treść zgromadzonej w związku z zatrzymaniem dokumentacji.
+7. W przypadku przekazania osoby lub przedmiotu albo informacji, o której mowa w ust. 6, Policja podejmuje wnioskowane we wpisie działania na podstawie ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z późn. zm.), bezzwłocznie informując odpowiednio organ wymieniony w art. 3, który dokonał wpisu, albo biuro SIRENE oraz stosuje inne przewidziane prawem środki w oparciu o przekazane wraz z osobą lub przedmiotem materiały, w szczególności treść zgromadzonej w związku z zatrzymaniem dokumentacji.
 
 8. Dokumenty, o których mowa w ust. 5, zawierają:
 
-- **1)** formularz odnalezienia osoby:
-    - **a)** nazwisko,
-    - **b)** imiona,
-    - **c)** nazwisko rodowe,
-    - **d)** wcześniej używane nazwiska,
-    - **e)** datę, miejsce i kraj urodzenia,
-    - **f)** obywatelstwo,
-    - **g)** płeć,
-    - **h)** informacje o innej tożsamości,
-    - **i)** dane posiadanego dokumentu tożsamości: – rodzaj dokumentu, – seria i numer dokumentu, – kraj wydania, – data wydania i ważności,
-    - **j)** dane dotyczące zezwolenia na pobyt lub wizy długoterminowej: – rodzaj i numer dokumentu, – kraj wydania, – okres ważności,
-    - **k)** dane osób towarzyszących osobie odnalezionej: – imiona i nazwisko, – data urodzenia,
-    - **l)** inne dane określone w aktach wykonawczych przyjętych przez Komisję Europejską na podstawie art. 8 ust. 4, art. 9 ust. 5, art. 20 ust. 3 i art. 32 ust. 4 rozporządzenia 2018/1861 oraz art. 8 ust. 4, art. 9 ust. 5, art. 12 ust. 8, art. 20 ust. 4, art. 26 ust. 6, art. 32 ust. 9, art. 34 ust. 3, art. 36 ust. 6, art. 38 ust. 4, art. 42 ust. 5 i art. 62 ust. 4 rozporządzenia 2018/1862, służące realizacji procedury wymiany informacji uzupełniających;
+- **1)** formularz odnalezienia osoby: nazwisko, imiona, nazwisko rodowe, wcześniej używane nazwiska, datę, miejsce i kraj urodzenia, obywatelstwo, płeć, informacje o innej tożsamości, dane posiadanego dokumentu tożsamości: – rodzaj dokumentu, – seria i numer dokumentu, – kraj wydania, – data wydania i ważności, dane dotyczące zezwolenia na pobyt lub wizy długoterminowej: – rodzaj i numer dokumentu, – kraj wydania, – okres ważności, dane osób towarzyszących osobie odnalezionej: – imiona i nazwisko, – data urodzenia, inne dane określone w aktach wykonawczych przyjętych przez Komisję Europejską na podstawie art. 8 ust. 4, art. 9 ust. 5, art. 20 ust. 3 i art. 32 ust. 4 rozporządzenia 2018/1861 oraz art. 8 ust. 4, art. 9 ust. 5, art. 12 ust. 8, art. 20 ust. 4, art. 26 ust. 6, art. 32 ust. 9, art. 34 ust. 3, art. 36 ust. 6, art. 38 ust. 4, art. 42 ust. 5 i art. 62 ust. 4 rozporządzenia 2018/1862, służące realizacji procedury wymiany informacji uzupełniających;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
+    - **k)**
+    - **l)**
 
-- **2)** formularz odnalezienia przedmiotu:
-    - **a)** dane osoby posiadającej lub osób posiadających odnaleziony przedmiot: – imiona, – nazwisko, – data urodzenia, – opis osoby posiadającej lub osób posiadających odnaleziony przedmiot,
-    - **b)** dane osób towarzyszących osobie posiadającej odnaleziony przedmiot: – imiona i nazwisko, – data urodzenia,
-    - **c)** dane osoby upoważnionej, która sporządziła i nadała formularz: – imię i nazwisko, – jednostka organizacyjna i organ, – telefon służbowy lub faks i adres poczty elektronicznej, – podpis lub odpowiednio dla wersji elektronicznej numer identyfikacyjny w systemie,
-    - **d)** dane dotyczące osoby powiązanej z zabezpieczonym przedmiotem: – nazwisko, – imiona, – nazwisko rodowe, – data urodzenia, – miejsce urodzenia, – płeć, – obywatelstwo, – inne posiadane tożsamości, – dane dotyczące posiadanego dokumentu tożsamości (seria, numer, data wydania, kraj wydania dokumentu tożsamości),
-    - **e)** dane dotyczące dokumentu (blankietu dokumentu, wydanego dokumentu tożsamości, dokumentu pobytowego, dokumentu podróży, prawa jazdy oraz dowodu rejestracyjnego pojazdu): – nazwisko, – imiona, – nazwisko rodowe, – data urodzenia, – miejsce urodzenia, – płeć, – obywatelstwo, – inne posiadane tożsamości,
-    - **f)** dane dotyczące prawowitego właściciela: – nazwisko, – imiona, – nazwisko rodowe, – data urodzenia, – miejsce urodzenia, – płeć, – obywatelstwo, – inne posiadane tożsamości, – posiadany dokument tożsamości (seria, numer, nazwa organu, który wydał dokument oraz data jego wydania),
-    - **g)** inne dane określone w aktach wykonawczych przyjętych przez Komisję Europejską na podstawie art. 8 ust. 4, art. 9 ust. 5, art. 20 ust. 3 i art. 32 ust. 4 rozporządzenia 2018/1861 oraz art. 8 ust. 4, art. 9 ust. 5, art. 12 ust. 8, art. 20 ust. 4, art. 26 ust. 6, art. 32 ust. 9, art. 34 ust. 3, art. 36 ust. 6, art. 38 ust. 4, art. 42 ust. 5 i art. 62 ust. 4 rozporządzenia 2018/1862, służące realizacji procedury wymiany informacji uzupełniających;
+- **2)** formularz odnalezienia przedmiotu: dane osoby posiadającej lub osób posiadających odnaleziony przedmiot: – imiona, – nazwisko, – data urodzenia, – opis osoby posiadającej lub osób posiadających odnaleziony przedmiot, dane osób towarzyszących osobie posiadającej odnaleziony przedmiot: – imiona i nazwisko, – data urodzenia, dane osoby upoważnionej, która sporządziła i nadała formularz: – imię i nazwisko, – jednostka organizacyjna i organ, – telefon służbowy lub faks i adres poczty elektronicznej, – podpis lub odpowiednio dla wersji elektronicznej numer identyfikacyjny w systemie, dane dotyczące osoby powiązanej z zabezpieczonym przedmiotem: – nazwisko, – imiona, – nazwisko rodowe, – data urodzenia, – miejsce urodzenia, – płeć, – obywatelstwo, – inne posiadane tożsamości, – dane dotyczące posiadanego dokumentu tożsamości (seria, numer, data wydania, kraj wydania dokumentu tożsamości), dane dotyczące dokumentu (blankietu dokumentu, wydanego dokumentu tożsamości, dokumentu pobytowego, dokumentu podróży, prawa jazdy oraz dowodu rejestracyjnego pojazdu): – nazwisko, – imiona, – nazwisko rodowe, – data urodzenia, – miejsce urodzenia, – płeć, – obywatelstwo, – inne posiadane tożsamości, dane dotyczące prawowitego właściciela: – nazwisko, – imiona, – nazwisko rodowe, – data urodzenia, – miejsce urodzenia, – płeć, – obywatelstwo, – inne posiadane tożsamości, – posiadany dokument tożsamości (seria, numer, nazwa organu, który wydał dokument oraz data jego wydania), inne dane określone w aktach wykonawczych przyjętych przez Komisję Europejską na podstawie art. 8 ust. 4, art. 9 ust. 5, art. 20 ust. 3 i art. 32 ust. 4 rozporządzenia 2018/1861 oraz art. 8 ust. 4, art. 9 ust. 5, art. 12 ust. 8, art. 20 ust. 4, art. 26 ust. 6, art. 32 ust. 9, art. 34 ust. 3, art. 36 ust. 6, art. 38 ust. 4, art. 42 ust. 5 i art. 62 ust. 4 rozporządzenia 2018/1862, służące realizacji procedury wymiany informacji uzupełniających;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
 
-- **3)** formularz tożsamości przywłaszczonej:
-    - **a)** dane tożsamości przywłaszczonej: – nazwisko, – imiona, – nazwisko rodowe, – wcześniej używane nazwiska, – data, miejsce i kraj urodzenia, – obywatelstwa, – płeć,
-    - **b)** informacje o innej tożsamości: – nazwisko, – imiona, – nazwisko rodowe, – wcześniej używane nazwiska, – data, miejsce i kraj urodzenia, – obywatelstwa, – płeć,
-    - **c)** dane dotyczące dokumentu: – rodzaj dokumentu, – kraj wydania, – numer dokumentu, – data i miejsce wydania, – organ wydający, – data ważności, – imię i nazwisko ojca oraz imię i nazwisko matki,
-    - **d)** aktualny adres zamieszkania: – kraj zamieszkania lub pobytu, – województwo lub region, – miejscowość zamieszkania, – ulica, kod pocztowy, – miejscowość poczty, – numer telefonu lub inne dane kontaktowe, – inne dane dotyczące miejsca zamieszkania,
-    - **e)** inne dane określone w aktach wykonawczych przyjętych przez Komisję Europejską na podstawie art. 8 ust. 4, art. 9 ust. 5, art. 20 ust. 3 i art. 32 ust. 4 rozporządzenia 2018/1861 oraz art. 8 ust. 4, art. 9 ust. 5, art. 12 ust. 8, art. 20 ust. 4, art. 26 ust. 6, art. 32 ust. 9, art. 34 ust. 3, art. 36 ust. 6, art. 38 ust. 4, art. 42 ust. 5 i art. 62 ust. 4 rozporządzenia 2018/1862, służące realizacji procedury wymiany informacji uzupełniających;
+- **3)** formularz tożsamości przywłaszczonej: dane tożsamości przywłaszczonej: – nazwisko, – imiona, – nazwisko rodowe, – wcześniej używane nazwiska, – data, miejsce i kraj urodzenia, – obywatelstwa, – płeć, informacje o innej tożsamości: – nazwisko, – imiona, – nazwisko rodowe, – wcześniej używane nazwiska, – data, miejsce i kraj urodzenia, – obywatelstwa, – płeć, dane dotyczące dokumentu: – rodzaj dokumentu, – kraj wydania, – numer dokumentu, – data i miejsce wydania, – organ wydający, – data ważności, – imię i nazwisko ojca oraz imię i nazwisko matki, aktualny adres zamieszkania: – kraj zamieszkania lub pobytu, – województwo lub region, – miejscowość zamieszkania, – ulica, kod pocztowy, – miejscowość poczty, – numer telefonu lub inne dane kontaktowe, – inne dane dotyczące miejsca zamieszkania, inne dane określone w aktach wykonawczych przyjętych przez Komisję Europejską na podstawie art. 8 ust. 4, art. 9 ust. 5, art. 20 ust. 3 i art. 32 ust. 4 rozporządzenia 2018/1861 oraz art. 8 ust. 4, art. 9 ust. 5, art. 12 ust. 8, art. 20 ust. 4, art. 26 ust. 6, art. 32 ust. 9, art. 34 ust. 3, art. 36 ust. 6, art. 38 ust. 4, art. 42 ust. 5 i art. 62 ust. 4 rozporządzenia 2018/1862, służące realizacji procedury wymiany informacji uzupełniających;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
-- **4)** oświadczenie o wyrażeniu zgody na uzupełnienie danych SIS:
-    - **a)** zgodę na uzupełnienie danych SIS w celu rozwiązywania problemów związanych z przywłaszczaniem tożsamości o imiona i nazwisko, nazwisko rodowe, miejsce i datę urodzenia, płeć danej osoby oraz jej fotografie, odbitki linii papilarnych, posiadany przez nią dokument lub dokumenty tożsamości wraz z danymi identyfikacyjnymi każdego z tych dokumentów, a także o poprzednio używane imiona i nazwiska, inne posiadane tożsamości, szczególne obiektywne cechy fizyczne niepodlegające zmianom, posiadane obywatelstwa, adres zamieszkania danej osoby oraz imiona i nazwiska jej rodziców,
-    - **b)** potwierdzenie okoliczności przekazania informacji o celu dostępności i wykorzystania objętych zgodą danych,
-    - **c)** potwierdzenie świadomości osoby udzielającej zgody co do istnienia możliwości cofnięcia zgody w każdym czasie,
-    - **d)** datę i podpis osoby udzielającej zgody;
+- **4)** oświadczenie o wyrażeniu zgody na uzupełnienie danych SIS: zgodę na uzupełnienie danych SIS w celu rozwiązywania problemów związanych z przywłaszczaniem tożsamości o imiona i nazwisko, nazwisko rodowe, miejsce i datę urodzenia, płeć danej osoby oraz jej fotografie, odbitki linii papilarnych, posiadany przez nią dokument lub dokumenty tożsamości wraz z danymi identyfikacyjnymi każdego z tych dokumentów, a także o poprzednio używane imiona i nazwiska, inne posiadane tożsamości, szczególne obiektywne cechy fizyczne niepodlegające zmianom, posiadane obywatelstwa, adres zamieszkania danej osoby oraz imiona i nazwiska jej rodziców, potwierdzenie okoliczności przekazania informacji o celu dostępności i wykorzystania objętych zgodą danych, potwierdzenie świadomości osoby udzielającej zgody co do istnienia możliwości cofnięcia zgody w każdym czasie, datę i podpis osoby udzielającej zgody;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
-- **5)** protokół przekazania osoby:
-    - **a)** nazwę i numer rejestru albo znak sprawy,
-    - **b)** nazwę jednostki organizacyjnej przekazującej osobę i miejsce przekazania,
-    - **c)** datę, godzinę i miejsce sporządzenia protokołu oraz datę i godzinę przekazania protokołu,
-    - **d)** stopień, imię i nazwisko osoby przekazującej i osoby przejmującej, a także ich stanowiska, nazwy jednostek i komórek organizacyjnych oraz inne informacje niezbędne do określenia przynależności służbowej tych osób,
-    - **e)** nazwisko, imiona, nazwisko rodowe, datę i miejsce urodzenia, numer tożsamości, płeć, obywatelstwo, rysopis osoby przekazywanej oraz jej numer ID Schengen, a także posiadany przez nią dokument tożsamości wraz z danymi identyfikacyjnymi tego dokumentu,
-    - **f)** nazwiska, imiona, stopień, stanowiska lub pełnione funkcje innych osób uczestniczących w przekazaniu oraz nazwy jednostek i komórek organizacyjnych lub reprezentowanego przez nie podmiotu oraz inne informacje niezbędne do określenia przynależności służbowej tych osób,
-    - **g)** uwagi dotyczące przekazania oraz uwagi dotyczące skreśleń i poprawek,
-    - **h)** wykaz rzeczy oraz dokumentów przekazanych wraz z osobą,
-    - **i)** podpisy osób biorących udział w czynności.
+- **5)** protokół przekazania osoby: nazwę i numer rejestru albo znak sprawy, nazwę jednostki organizacyjnej przekazującej osobę i miejsce przekazania, datę, godzinę i miejsce sporządzenia protokołu oraz datę i godzinę przekazania protokołu, stopień, imię i nazwisko osoby przekazującej i osoby przejmującej, a także ich stanowiska, nazwy jednostek i komórek organizacyjnych oraz inne informacje niezbędne do określenia przynależności służbowej tych osób, nazwisko, imiona, nazwisko rodowe, datę i miejsce urodzenia, numer tożsamości, płeć, obywatelstwo, rysopis osoby przekazywanej oraz jej numer ID Schengen, a także posiadany przez nią dokument tożsamości wraz z danymi identyfikacyjnymi tego dokumentu, nazwiska, imiona, stopień, stanowiska lub pełnione funkcje innych osób uczestniczących w przekazaniu oraz nazwy jednostek i komórek organizacyjnych lub reprezentowanego przez nie podmiotu oraz inne informacje niezbędne do określenia przynależności służbowej tych osób, uwagi dotyczące przekazania oraz uwagi dotyczące skreśleń i poprawek, wykaz rzeczy oraz dokumentów przekazanych wraz z osobą, podpisy osób biorących udział w czynności.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
 
 9. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb przekazywania Policji osób lub przedmiotów odnalezionych na skutek wglądu do danych SIS, procedurę postępowania w przypadkach ujawnienia tożsamości przywłaszczonej oraz sposób i tryb współpracy organów z biurem SIRENE, w tym procedurę wymiany informacji uzupełniających określonych w art. 37 ust. 2 niezbędnych do wykonania wnioskowanych we wpisie działań, a także wzory dokumentów, o których mowa w ust. 5, uwzględniając sprawną i skuteczną realizację wnioskowanych we wpisie działań wobec odnalezionych osób lub przedmiotów.
 
 10. Uprawnienie do weryfikacji dopasowań uzyskanych przez uprawniony organ, opierających się na porównaniu danych biometrycznych, przysługuje Centralnemu Laboratorium Kryminalistycznemu Policji.
 
-11. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, sposób i tryb przetwarzania danych biometrycznych oraz sposób i tryb weryfikacji dopasowań opartych na porównaniu danych daktyloskopijnych, uwzględniając procedurę postępowania i warunki techniczne przy pobieraniu, rejestrowaniu i przekazywaniu tych danych.
-
-**Art. 4a.** (uchylony)
-
-**Art. 4b.** Dostęp do Krajowego Systemu Informatycznego (KSI) w celu wglądu do danych SIS, o których mowa w art. 4 ust. 1 pkt 1–12, sądy realizują za pośrednictwem systemu teleinformatycznego prowadzonego przez Ministra Sprawiedliwości.
+11. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, sposób i tryb przetwarzania danych biometrycznych oraz sposób i tryb weryfikacji dopasowań opartych na porównaniu danych daktyloskopijnych, uwzględniając procedurę postępowania i warunki techniczne przy pobieraniu, rejestrowaniu i przekazywaniu tych danych. (uchylony) Dostęp do Krajowego Systemu Informatycznego (KSI) w celu wglądu do danych SIS, o których mowa w art. 4 ust. 1 pkt 1–12, sądy realizują za pośrednictwem systemu teleinformatycznego prowadzonego przez Ministra Sprawiedliwości.
 
 **Art. 5.**
 
@@ -208,6 +252,16 @@ Art. 38–42. (pominięte)
 3. Konsul lub wojewoda niezwłocznie powiadamiają państwo członkowskie lub państwa członkowskie o nabyciu obywatelstwa polskiego przez osobę ubiegającą się o wizę w tym państwie członkowskim lub państwach członkowskich.
 
 **Art. 6.** Bezpośredni dostęp do Wizowego Systemu Informacyjnego realizowany poprzez Krajowy System Informatyczny (KSI) umożliwiający wgląd do danych VIS w celu:
+
+- **1)** rozpatrzenia złożonych wniosków wizowych oraz podjęcia decyzji dotyczących tych wniosków, jak również decyzji o unieważnieniu, przedłużeniu, cofnięciu wizy, przysługuje Straży Granicznej, konsulowi, wojewodzie, ministrowi właściwemu do spraw zagranicznych lub Szefowi Urzędu do Spraw Cudzoziemców;
+- **2)** przeprowadzania konsultacji między centralnymi organami wizowymi w sprawie wniosków wizowych zgodnie z art. 22 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 810/2009 z dnia 13 lipca 2009 r. ustanawiającego Wspólnotowy Kodeks Wizowy (kodeks wizowy) (Dz. Urz. UE L 243 z 15.09.2009, str. 1) przysługuje Szefowi Urzędu do Spraw Cudzoziemców;
+- **3)** sporządzania sprawozdań i statystyk, przysługuje Straży Granicznej, konsulowi, wojewodzie, ministrowi właściwemu do spraw zagranicznych lub Szefowi Urzędu do Spraw Cudzoziemców;
+- **4)** sprawdzenia na przejściach granicznych tożsamości posiadacza wizy, autentyczności wizy lub spełnienia warunków wjazdu na terytorium państw członkowskich zgodnie z art. 6 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/399 z dnia 9 marca 2016 r. w sprawie unijnego kodeksu zasad regulujących przepływ osób przez granice (kodeks graniczny Schengen) (Dz. Urz. UE L 77/1 z 23.03.2016) przysługuje Straży Granicznej i Służbie Celno-Skarbowej;
+- **5)** sprawdzania na terytorium Rzeczypospolitej Polskiej tożsamości posiadacza wizy, autentyczności wizy lub spełniania warunków wjazdu lub pobytu na terytorium państw członkowskich przysługuje komendantowi wojewódzkiemu Policji, komendantowi powiatowemu (miejskiemu) Policji, komendantowi oddziału Straży Granicznej lub komendantowi placówki Straży Granicznej, Służbie Celno-Skarbowej, wojewodzie lub Szefowi Urzędu do Spraw Cudzoziemców;
+- **6)** zidentyfikowania osoby, która nie spełnia lub przestała spełniać warunki wjazdu lub pobytu na terytorium państw członkowskich, przysługuje Straży Granicznej, Policji, Służbie Celno-Skarbowej, wojewodzie lub Szefowi Urzędu do Spraw Cudzoziemców;
+- **7)** określania państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej zgodnie z art. 12 i art. 34 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 604/2013 z dnia 26 czerwca 2013 r. w sprawie ustanowienia kryteriów i mechanizmów ustalania państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej złożonego w jednym z państw członkowskich przez obywatela państwa trzeciego lub bezpaństwowca (wersja przekształcona) (Dz. Urz. UE L 180 z 29.06.2013) przysługuje Szefowi Urzędu do Spraw Cudzoziemców;
+- **8)** rozpatrzenia wniosku o udzielenie ochrony międzynarodowej przysługuje Szefowi Urzędu do Spraw Cudzoziemców lub Radzie do Spraw Uchodźców;
+- **9)** realizacji obowiązku, o którym mowa w art. 25 ust. 2 rozporządzenia (WE) nr 767/2008 Parlamentu Europejskiego i Rady z dnia 9 lipca 2008 r. w sprawie Wizowego Systemu Informacyjnego (VIS) oraz wymiany danych pomiędzy państwami członkowskimi na temat wiz krótkoterminowych (rozporządzenie w sprawie VIS), przysługuje konsulowi lub wojewodzie.
 
 **Art. 7.**
 
@@ -229,13 +283,9 @@ Art. 38–42. (pominięte)
 - **8)** Służby Ochrony Państwa – Komendant Służby Ochrony Państwa;
 - **9)** Służby Kontrwywiadu Wojskowego – Szef Służby Kontrwywiadu Wojskowego;
 - **10)** Służby Wywiadu Wojskowego – Szef Służby Wywiadu Wojskowego;
-- **11)** Żandarmerii Wojskowej – Komendant Główny Żandarmerii Wojskowej. <3. Pośredni dostęp do danych VIS dla podmiotów wymienionych w ust. 1 w przypadku realizowania wniosku o dostęp do danych EES, o którym mowa w art. 4 ust. 5 ustawy z dnia 18 października 2024 r. o udziale Rzeczypospolitej Polskiej w Systemie Wjazdu/Wyjazdu (Dz. U. poz. 1688), jest realizowany przez centralny punkt dostępu, którym jest Komendant Główny Straży Granicznej.>
+- **11)** Żandarmerii Wojskowej – Komendant Główny Żandarmerii Wojskowej.
 
 #### Rozdział 3 Ochrona danych osobowych oraz odpowiedzialność za niezgodne z prawem działanie lub zaniechanie związane z przetwarzaniem danych
-
-**Art. 8.** Prezes Urzędu Ochrony Danych Osobowych jest uprawniony do bezpośredniego dostępu do Krajowego Systemu Informatycznego (KSI) w celu sprawowania kontroli.
-
-**Art. 9.** Prezes Urzędu Ochrony Danych Osobowych w przypadkach, o których mowa w art. 44 ust. 6 rozporządzenia 2018/1861 oraz art. 59 ust. 6 rozporządzenia 2018/1862, jest organem uprawnionym do przekazania sprawy Europejskiemu Inspektorowi Ochrony Danych w celu podjęcia działań mediacyjnych.
 
 **Art. 10.** Administratorem danych osobowych przetwarzanych poprzez Krajowy System Informatyczny (KSI) jest Centralny organ techniczny KSI.
 
@@ -276,6 +326,11 @@ Art. 38–42. (pominięte)
 **Art. 18.** W przypadku stwierdzenia nieprawidłowości działania Krajowego Systemu Informatycznego (KSI) lub jego zabezpieczenia w poszczególnych organach mających do niego bezpośredni dostęp minister właściwy do spraw wewnętrznych jest uprawniony do zablokowania bezpośredniego dostępu do Krajowego Systemu Informatycznego (KSI) dla organu, w przypadku którego stwierdzone zostały te nieprawidłowości, do czasu ich usunięcia.
 
 **Art. 19.** W celu wykonania zadań, o których mowa w art. 16–18, minister właściwy do spraw wewnętrznych może:
+
+- **1)** żądać przedłożenia informacji w zakresie niezbędnym do ustalenia stanu faktycznego;
+- **2)** przeprowadzać, w godzinach urzędowania danego organu, oględziny urządzeń, nośników oraz systemów informatycznych włączonych do Krajowego Systemu Informatycznego (KSI) w ramach danego organu;
+- **3)** zlecać sporządzanie ekspertyz i opinii;
+- **4)** żądać zablokowania bezpośredniego dostępu do Krajowego Systemu Informatycznego (KSI) do czasu usunięcia stwierdzonych nieprawidłowości.
 
 **Art. 20.** W przypadku stwierdzenia nieprawidłowości działania Krajowego Systemu Informatycznego (KSI) minister właściwy do spraw wewnętrznych może żądać wszczęcia postępowania dyscyplinarnego lub innego przewidzianego prawem postępowania przeciwko osobom winnym dopuszczenia do uchybień i poinformowania tych osób, w określonym terminie, o wynikach tego postępowania i podjętych działaniach.
 
@@ -449,5 +504,11 @@ Art. 38–42. (pominięte)
 
 **Art. 45.** (pominięty)
 
-**Art. 46.** Ustawa wchodzi w życie z dniem ogłoszenia , z tym że:
+**Art. 46.** Ustawa wchodzi w życie z dniem ogłoszenia, z tym że:
+
+- **1)** art. 5–7, art. 13 oraz art. 27 ust. 1 pkt 5–7 stosuje się zgodnie z określoną przez Komisję Europejską datą rozpoczęcia funkcjonowania Wizowego Systemu Informacyjnego w Rzeczypospolitej Polskiej;
+- **2)** (uchylony)
+- **3)** art. 41 wchodzi w życie z dniem określonym w decyzji Rady, zgodnie z art. 3 ust. 2 Aktu dotyczącego warunków przystąpienia Republiki Czeskiej, Republiki Estońskiej, Republiki Cypryjskiej, Republiki Łotewskiej, Republiki Litewskiej, Republiki Węgierskiej, Republiki Malty, Rzeczypospolitej Polskiej, Republiki Słowenii i Republiki Słowackiej oraz dostosowań w Traktatach stanowiących podstawę Unii Europejskiej z dnia 16 kwietnia 2003 r. (Dz. U. z 2004 r. poz. 864).
+- **1)** I) Niniejsza ustawa służy stosowaniu:1) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1860 z dnia 28 listopada 2018 r. w sprawie użytkowania Systemu Informacyjnego Schengen do celów powrotu nielegalnie przebywających obywateli państw trzecich (Dz. Urz. UE L 312 z 07.12.2018, str. 1, Dz. Urz. UE L 248 z 13.07.2021, str. 11 oraz Dz. Urz. UE L 249 z 14.07.2021, str. 15);2) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1861 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie odpraw granicznych, zmiany konwencji wykonawczej do układu z Schengen oraz zmiany i uchylenia rozporządzenia (WE) nr 1987/2006 (Dz. Urz. UE L 312 z 07.12.2018, str. 14, Dz. Urz. UE L 135 z 22.05.2019, str. 27, Dz. Urz. UE L 248 z 13.07.2021, str. 11 oraz Dz. Urz. UE L 249 z 14.07.2021, str. 15);3) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1862 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie współpracy policyjnej i współpracy wymiarów sprawiedliwości w sprawach karnych, zmiany i uchylenia decyzji Rady 2007/533/WSiSW oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1986/2006 i decyzji Komisji 2010/261/UE (Dz. Urz. UE L 312 z 07.12.2018, str. 56, Dz. Urz. UE L 135 z 22.05.2019, str. 85, Dz. Urz. UE L 316 z 06.12.2019, str. 4, Dz. Urz. UE L 248 z 13.07.2021, str. 1, Dz. Urz. UE L 249 z 14.07.2021, str. 1 oraz Dz. Urz. UE L 185 z 12.07.2022, str. 1).I) Odnośnik dodany przez art. 1 pkt 1 ustawy z dnia 1 grudnia 2022 r. o zmianie ustawy o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym oraz niektórych innych ustaw (Dz. U. poz. 2642), która weszła w życie z dniem 7 marca 2023 r. na podstawie decyzji wykonawczej Komisji (UE) 2023/201 z dnia 30 stycznia 2023 r. określającej datę rozpoczęcia eksploatacji Systemu Informacyjnego Schengen zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2018/1861 i rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2018/1862 (Dz. Urz. UE L 27 z 31.01.2023, str. 29), zgodnie z art. 66 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1861 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie odpraw granicznych, zmiany konwencji wykonawczej do układu z Schengen oraz zmiany i uchylenia rozporządzenia (WE) nr 1987/2006 oraz art. 79 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1862 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie współpracy policyjnej i współpracy wymiarów sprawiedliwości w sprawach karnych, zmiany i uchylenia decyzji Rady 2007/533/WSiSW oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1986/2006 i decyzji Komisji 2010/261/UE oraz na podstawie art. 9 tej ustawy. 2) W brzmieniu ustalonym przez art. 1 pkt 2 lit. a ustawy z dnia 1 grudnia 2022 r. o zmianie ustawy o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym oraz niektórych innych ustaw (Dz. U. poz. 2642), która weszła w życie z dniem 7 marca 2023 r. na podstawie decyzji wykonawczej Komisji (UE) 2023/201 z dnia 30 stycznia 2023 r. określającej datę rozpoczęcia eksploatacji Systemu Informacyjnego Schengen zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2018/1861 i rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2018/1862 (Dz. Urz. UE L 27 z 31.01.2023, str. 29), zgodnie z art. 66 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1861 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie odpraw granicznych, zmiany konwencji wykonawczej do układu z Schengen oraz zmiany i uchylenia rozporządzenia (WE) nr 1987/2006 oraz art. 79 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1862 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie współpracy policyjnej i współpracy wymiarów sprawiedliwości w sprawach karnych, zmiany i uchylenia decyzji Rady 2007/533/WSiSW oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1986/2006 i decyzji Komisji 2010/261/UE oraz na podstawie art. 9 tej ustawy. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 248 z 13.07.2021, str. 11 oraz Dz. Urz. UE L 249 z 14.07.2021, str. 15. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 135 z 22.05.2019, str. 27, Dz. Urz. UE L 248 z 13.07.2021, str. 11 oraz Dz. Urz. UE L 249 z 14.07.2021, str. 15. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 135 z 22.05.2019, str. 85, Dz. Urz. UE L 316 z 06.12.2019, str. 4, Dz. Urz. UE L 248 z 13.07.2021, str. 1, Dz. Urz. UE L 249 z 14.07.2021, str. 1 oraz Dz. Urz. UE L 185 z 12.07.2022, str. 1. 6) W brzmieniu ustalonym przez art. 1 pkt 2 lit. b ustawy, o której mowa w odnośniku 2. 7) W brzmieniu ustalonym przez art. 1 pkt 2 lit. c ustawy, o której mowa w odnośniku 2. 8) Ze zmianą wprowadzoną przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 2. 9) W brzmieniu ustalonym przez art. 1 pkt 2 lit. d ustawy, o której mowa w odnośniku 2. 10) W brzmieniu ustalonym przez art. 1 pkt 2 lit. e ustawy, o której mowa w odnośniku 2. 11) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2. 12) Dodany przez art. 1 pkt 2 lit. f ustawy, o której mowa w odnośniku 2. 13) W brzmieniu ustalonym przez art. 1 pkt 4 ustawy, o której mowa w odnośniku 2. 14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1855, 2582 i 2600 oraz z 2023 r. poz. 289, 535 i 818. 15) Dodany przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 2. 16) W brzmieniu ustalonym przez art. 1 pkt 6 ustawy, o której mowa w odnośniku 2. 17) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1002, 1768, 1783, 2589, 2600 i 2642 oraz z 2023 r. poz. 760 i 919. 18) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2600 oraz z 2023 r. poz. 185, 240, 289, 347, 535 i 641. 19) Dodany przez art. 1 pkt 7 ustawy, o której mowa w odnośniku 2. 20) W brzmieniu ustalonym przez art. 1 pkt 8 ustawy, o której mowa w odnośniku 2. 21) W brzmieniu ustalonym przez art. 1 pkt 9 ustawy, o której mowa w odnośniku 2. 22) Ze zmianą wprowadzoną przez art. 1 pkt 10 ustawy, o której mowa w odnośniku 2. 23) W brzmieniu ustalonym przez art. 1 pkt 11 ustawy, o której mowa w odnośniku 2. 24) W brzmieniu ustalonym przez art. 1 pkt 12 ustawy, o której mowa w odnośniku 2. 25) W brzmieniu ustalonym przez art. 1 pkt 13 ustawy, o której mowa w odnośniku 2. 26) W brzmieniu ustalonym przez art. 1 pkt 14 ustawy, o której mowa w odnośniku 2. 27) W brzmieniu ustalonym przez art. 1 pkt 15 ustawy, o której mowa w odnośniku 2. 28) W brzmieniu ustalonym przez art. 1 pkt 16 lit. a ustawy, o której mowa w odnośniku 2. 29) Dodany przez art. 1 pkt 16 lit. b ustawy, o której mowa w odnośniku 2. 30) W brzmieniu ustalonym przez art. 1 pkt 17 ustawy, o której mowa w odnośniku 2. 31) Ustawa została ogłoszona w dniu 14 września 2007 r.
+
 

@@ -22,12 +22,31 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-25 |
 | Data wydania | 2015-11-19 |
+| Wejście w życie | 2016-05-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001923) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1923/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2015 r. poz. 1393) wprowadza się następujące zmiany:
 
+- **1)** w art. 1 ust. 2 otrzymuje brzmienie: „
+
+2. W zakresie swoich celów statutowych stowarzyszenia mogą reprezentować interesy zbiorowe swoich członków wobec organów władzy publicznej. ” ;
+
+- **2)** w art. 2 ust. 3 otrzymuje brzmienie: „
+
+3. Stowarzyszenie opiera działalność na pracy społecznej swoich członków. Do prowadzenia swych spraw stowarzyszenie może zatrudniać pracowników, w tym swoich członków. ” ;
+
+- **3)** art. 9 otrzymuje brzmienie: „
+
 **Art. 9.** Osoby w liczbie co najmniej siedmiu, zamierzające założyć stowarzyszenie, uchwalają statut stowarzyszenia oraz wybierają komitet założycielski albo władze stowarzyszenia. ” ;
+
+- **4)** w art. 10: w ust. 1: – po pkt 5 dodaje się pkt 5a w brzmieniu: „ 5a) możliwość otrzymywania przez członków zarządu wynagrodzenia za czynności wykonywane w związku z pełnioną funkcją; ” , – pkt 6 otrzymuje brzmienie: „ 6) sposób reprezentowania stowarzyszenia, w szczególności sposób zaciągania zobowiązań majątkowych, a także warunki ważności uchwał władz stowarzyszenia; ” , ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2. Ogólnokrajowe stowarzyszenia zrzeszające osoby wykonujące określony zawód lub zawody pokrewne, podejmujące zadania w zakresie rozpowszechniania wiedzy specjalistycznej i podnoszenia poziomu zawodowego w ramach wewnętrznego systemu potwierdzania kwalifikacji i umiejętności – określają w statucie te zadania oraz zakres i sposób ich realizacji. ” ;
+
+- **5)** po art. 10 dodaje się art. 10a i art. 10b w brzmieniu: „
 
 **Art. 10a.**
 
@@ -125,7 +144,15 @@ source: "eli-html"
 
 **Art. 26.** W przypadku niezastosowania się stowarzyszenia do żądań określonych w art. 25 ust. 2 sąd, na wniosek organu nadzorującego, może nałożyć grzywnę w wysokości jednorazowo nieprzekraczającej 5000 zł. Od grzywny można zwolnić, jeżeli po jej wymierzeniu stowarzyszenie niezwłocznie zastosuje się do żądań organu nadzorującego. Stowarzyszenie, w terminie 7 dni, może wystąpić do sądu o zwolnienie od grzywny. ” ;
 
+- **13)** art. 28 otrzymuje brzmienie: „
+
 **Art. 28.** W razie stwierdzenia, że działalność stowarzyszenia jest niezgodna z prawem lub narusza postanowienia statutu w sprawach, o których mowa w art. 10 ust. 1, art. 10a ust. 1 i 3 i art. 10b, organ nadzorujący, w zależności od rodzaju i stopnia stwierdzonych nieprawidłowości, może wystąpić o ich usunięcie w określonym terminie, udzielić ostrzeżenia władzom stowarzyszenia lub wystąpić do sądu na podstawie art. 29. ” ;
+
+- **14)** w art. 30 po ust. 2 dodaje się ust. 2a w brzmieniu: „
+
+2a. W szczególnie uzasadnionych przypadkach, na wniosek organu nadzorującego lub z własnej inicjatywy, sąd może przedłużyć okres, na jaki został ustanowiony kurator, nie dłużej niż o 6 miesięcy, jeżeli jego czynności nie mogły zostać zakończone przed upływem okresu, o którym mowa w ust. 2. ” ;
+
+- **15)** art. 31 otrzymuje brzmienie: „
 
 **Art. 31.**
 
@@ -222,6 +249,21 @@ source: "eli-html"
 
 **Art. 41.** Sąd rejestrowy, na wniosek organu nadzorującego lub prokuratora, może zakazać założenia stowarzyszenia zwykłego, jeżeli nie spełnia ono warunków określonych w przepisach prawa. ” ;
 
+- **20)** po art. 41 dodaje się art. 41a w brzmieniu: „
+
+1. Stowarzyszenie zwykłe reprezentuje przedstawiciel reprezentujący stowarzyszenie zwykłe albo zarząd.
+
+2. Podejmowanie przez przedstawiciela reprezentującego stowarzyszenie zwykłe albo zarząd czynności przekraczających zakres zwykłego zarządu wymaga uprzedniej zgody wszystkich członków stowarzyszenia zwykłego oraz udzielenia przez nich pełnomocnictwa do dokonania tych czynności.
+
+3. Czynnościami przekraczającymi zakres zwykłego zarządu są w szczególności:
+
+- **1)** nabycie oraz zbycie nieruchomości lub prawa użytkowania wieczystego;
+- **2)** ustanowienie ograniczonego prawa rzeczowego;
+- **3)** zawarcie umowy kredytu albo pożyczki;
+- **4)** przejęcie długu, uznanie długu, zwolnienie z długu, przystąpienie do długu, zawarcie umowy poręczenia lub zawarcie innej podobnej umowy;
+- **5)** zaciągnięcie innych zobowiązań przekraczających wartość 10 000 zł. ” ;
+- **21)** art. 42 otrzymuje brzmienie: „
+
 **Art. 42.**
 
 1. Stowarzyszenie zwykłe nie może:
@@ -283,11 +325,36 @@ source: "eli-html"
 
 **Art. 2.** W ustawie z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2006 r. Nr 90, poz. 631, z późn. zm.) w art. 104:
 
+- **1)** w ust. 2 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 i 5 w brzmieniu: „
+- **4)** z wnioskiem o wpis zmian statutu w Krajowym Rejestrze Sądowym organizacja zbiorowego zarządzania składa odpis decyzji, o której mowa w ust. 6;
+- **5)** sąd rejestrowy doręcza ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego odpis wniosku o rejestrację zmian statutu organizacji. ” ;
+- **2)** po ust. 2 dodaje się ust. 21 w brzmieniu: „
+
+21. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego ma prawo wypowiedzieć się w sprawie wniosku, o którym mowa w ust. 2 pkt 5, w terminie 14 dni od dnia jego doręczenia, a także przystąpić, za zgodą sądu, do postępowania jako zainteresowany. ” .
+
 **Art. 3.** W ustawie z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2012 r. poz. 1314, z późn. zm.) w art. 12 w ust. 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+
+- **3)** przekształcenia stowarzyszenia zwykłego w stowarzyszenie. ” .
 
 **Art. 4.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2015 r. poz. 1142 i 1893) wprowadza się następujące zmiany:
 
+- **1)** w art. 25b dodaje się ust. 5 w brzmieniu: „
+
+5. Ogłoszenie o wszczęciu postępowania o rozwiązanie podmiotu wpisanego do Rejestru bez przeprowadzania postępowania likwidacyjnego, zamieszczane w Monitorze Sądowym i Gospodarczym, nie podlega opłacie. ” ;
+
+- **2)** w art. 25d dodaje się ust. 5 w brzmieniu: „
+
+5. Ogłoszenie w Monitorze Sądowym i Gospodarczym o rozwiązaniu podmiotu wpisanego do Krajowego Rejestru Sądowego bez przeprowadzania postępowania likwidacyjnego i jego wykreśleniu z Rejestru, nie podlega opłacie. ” ;
+
+- **3)** w art. 52 po ust. 4 dodaje się ust. 4a w brzmieniu: „
+
+4a. Przy rejestracji stowarzyszenia utworzonego w wyniku przekształcenia stowarzyszenia zwykłego, w dziale 1 rejestru wpisuje się informację o sposobie powstania podmiotu, poprzedniej nazwie, nazwie ewidencji oraz organie ją prowadzącym, a także numerze w ewidencji, jeżeli został nadany. ” .
+
 **Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 93a w § 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+- **3)** stowarzyszenia utworzonego w wyniku przekształcenia stowarzyszenia zwykłego. ” ;
+- **2)** art. 116a otrzymuje brzmienie: „
 
 **Art. 116a.**
 
@@ -305,7 +372,16 @@ source: "eli-html"
 
 **Art. 7.** W ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.) wprowadza się następujące zmiany:
 
+- **1)** w art. 130 w § 3 pkt 1 otrzymuje brzmienie: „
+- **1)** komitetu wyborczego partii politycznej albo organizacji ponosi partia polityczna albo organizacja, która utworzyła komitet wyborczy; ” ;
+- **2)** w art. 402 w § 3 pkt 2 otrzymuje brzmienie: „
+- **2)** uwierzytelniony odpis z Krajowego Rejestru Sądowego albo zaświadczenie o wpisie stowarzyszenia zwykłego do ewidencji, o której mowa w ustawie z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2015 r. poz. 1393 i 1923); ” .
+
 **Art. 8.** W terminie 24 miesięcy od dnia wejścia w życie niniejszej ustawy, stowarzyszenia działające na podstawie przepisów dotychczasowych dostosują swoje statuty do wymagań ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą. 1. Do postępowań w sprawach o wpis stowarzyszenia lub terenowej jednostki organizacyjnej posiadającej osobowość prawną do Krajowego Rejestru Sądowego, wszczętych i niezakończonych prawomocnie przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe. 2. Do postępowań wszczętych na podstawie art. 41 ust. 1 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym i niezakończonych prawomocnie przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe. 1. W terminie 24 miesięcy od dnia wejścia w życie niniejszej ustawy, stowarzyszenia zwykłe działające na podstawie przepisów dotychczasowych są obowiązane dokonać wpisu do ewidencji, o której mowa w art. 40 ust. 5 ustawy zmienianej w art. 1. Brak wpisu skutkuje rozwiązaniem stowarzyszenia zwykłego z mocy prawa. 2. Do dnia dokonania wpisu do ewidencji, o którym mowa w ust. 1, stowarzyszenia zwykłe działają na podstawie przepisów dotychczasowych.
 
 **Art. 11.** Do dnia dokonania wpisu stowarzyszenia zwykłego do ewidencji, o której mowa w art. 40 ust. 5 ustawy zmienianej w art. 1, do stowarzyszeń zwykłych, które nie dokonały wpisu do ewidencji stosuje się przepisy art. 130 § 3 pkt 1 oraz art. 402 § 3 pkt 2 ustawy zmienianej w art. 7 w brzmieniu dotychczasowym. Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1 pkt 22, art. 3, art. 4 pkt 3 oraz art. 5 pkt 1, które wchodzą w życie z dniem 1 stycznia 2017 r.;
+- **2)** art. 4 pkt 1 i 2, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+
 

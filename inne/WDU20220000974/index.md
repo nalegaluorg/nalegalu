@@ -8,12 +8,10 @@ pos: 974
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o wyrobach medycznych
-
-*USTAWA z dnia 7 kwietnia 2022 r.*
+# Ustawa z dnia 7 kwietnia 2022 r. o wyrobach medycznych
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,9 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2022-04-07 |
 | Data wydania | 2022-05-09 |
+| Wejście w życie | 2022-05-26 |
 | Ostatnia zmiana | 2024-11-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000974) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/974/text.pdf) |
-
-Art. 105–136. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -39,7 +36,7 @@ Art. 105–136. (pominięte)
 - **2)** właściwość, uprawnienia, obowiązki i zadania organów,
 - **3)** kary administracyjne,
 - **4)** zasady i tryb prowadzenia badania klinicznego wyrobu medycznego i badania działania wyrobu medycznego do diagnostyki in vitro,
-- **5)** wysokość i tryb uiszczania opłat – służące stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2017/745”, oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. ), zwanego dalej „rozporządzeniem 2017/746”.
+- **5)** wysokość i tryb uiszczania opłat służące stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2017/745”, oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.) , zwanego dalej „rozporządzeniem 2017/746”.
 
 2. Ustawa określa także:
 
@@ -49,13 +46,51 @@ Art. 105–136. (pominięte)
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
 
+- **1)** badaczu – rozumie się przez to badacza w rozumieniu art. 2 pkt 54 rozporządzenia 2017/745 lub art. 2 pkt 48 rozporządzenia 2017/746;
+- **2)** badanym wyrobie – rozumie się przez to badany wyrób w rozumieniu art. 2 pkt 46 rozporządzenia 2017/745;
+- **3)** defekcie wyrobu – rozumie się przez to defekt wyrobu w rozumieniu art. 2 pkt 59 rozporządzenia 2017/745 lub art. 2 pkt 62 rozporządzenia 2017/746;
+- **4)** dystrybutorze – rozumie się przez to dystrybutora w rozumieniu art. 2 pkt 34 rozporządzenia 2017/745 lub art. 2 pkt 27 rozporządzenia 2017/746;
+- **5)** działaniu – rozumie się przez to działanie w rozumieniu art. 2 pkt 22 rozporządzenia 2017/745;
+- **6)** działaniu korygującym – rozumie się przez to działanie korygujące w rozumieniu art. 2 pkt 67 rozporządzenia 2017/745 lub art. 2 pkt 70 rozporządzenia 2017/746;
+- **7)** grupie rodzajowej wyrobów – rozumie się przez to grupę rodzajową wyrobów w rozumieniu art. 2 pkt 7 rozporządzenia 2017/745 lub art. 2 pkt 8 rozporządzenia 2017/746;
+- **8)** importerze – rozumie się przez to importera w rozumieniu art. 2 pkt 33 rozporządzenia 2017/745 lub art. 2 pkt 26 rozporządzenia 2017/746;
+- **9)** incydencie – rozumie się przez to incydent w rozumieniu art. 2 pkt 64 rozporządzenia 2017/745 lub art. 2 pkt 67 rozporządzenia 2017/746;
+- **10)** instrukcji używania – rozumie się przez to instrukcję używania w rozumieniu art. 2 pkt 14 rozporządzenia 2017/745 lub art. 2 pkt 14 rozporządzenia 2017/746;
+- **11)** instytucji zdrowia publicznego – rozumie się przez to instytucję zdrowia publicznego w rozumieniu art. 2 pkt 36 rozporządzenia 2017/745 lub art. 2 pkt 29 rozporządzenia 2017/746;
+- **12)** jednostce notyfikowanej – rozumie się przez to jednostkę notyfikowaną w rozumieniu art. 2 pkt 42 rozporządzenia 2017/745 lub art. 2 pkt 34 rozporządzenia 2017/746;
+- **13)** jednostce oceniającej zgodność – rozumie się przez to jednostkę oceniającą zgodność w rozumieniu art. 2 pkt 41 rozporządzenia 2017/745 lub art. 2 pkt 33 rozporządzenia 2017/746;
+- **14)** kodzie UDI – rozumie się przez to niepowtarzalny kod identyfikacyjny wyrobu („kod UDI”) w rozumieniu art. 2 pkt 15 rozporządzenia 2017/745 lub art. 2 pkt 15 rozporządzenia 2017/746;
+- **15)** komisji bioetycznej – rozumie się przez to komisję etyczną w rozumieniu art. 2 pkt 56 rozporządzenia 2017/745 lub art. 2 pkt 59 rozporządzenia 2017/746, której zadania na terytorium Rzeczypospolitej Polskiej wykonuje komisja bioetyczna i Odwoławcza Komisja Bioetyczna, o których mowa w art. 29 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2021 r. poz. 790, 1559 i 2232 oraz z 2022 r. poz. 583, 655 i 830);
+- **16)** laiku – rozumie się przez to laika w rozumieniu art. 2 pkt 38 rozporządzenia 2017/745 lub art. 2 pkt 31 rozporządzenia 2017/746;
+- **17)** notatce bezpieczeństwa – rozumie się przez to notatkę bezpieczeństwa w rozumieniu art. 2 pkt 69 rozporządzenia 2017/745 lub art. 2 pkt 72 rozporządzenia 2017/746;
+- **18)** ocenie klinicznej – rozumie się przez to ocenę kliniczną w rozumieniu art. 2 pkt 44 rozporządzenia 2017/745;
+- **19)** ocenie zgodności – rozumie się przez to ocenę zgodności w rozumieniu art. 2 pkt 40 rozporządzenia 2017/745 lub art. 2 pkt 32 rozporządzenia 2017/746;
+- **20)** osobie wykonującej zawód medyczny – rozumie się przez to osobę wykonującą zawód medyczny w rozumieniu art. 2 ust. 1 pkt 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2022 r. poz. 633 i 655);
+- **21)** państwie członkowskim – rozumie się przez to państwo członkowskie Unii Europejskiej, państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym oraz Republikę Turcji;
+- **22)** podmiocie gospodarczym – rozumie się przez to podmiot gospodarczy w rozumieniu art. 2 pkt 35 rozporządzenia 2017/745 lub art. 2 pkt 28 rozporządzenia 2017/746;
+- **23)** podmiocie wykonującym działalność leczniczą – rozumie się przez to podmiot wykonujący działalność leczniczą w rozumieniu art. 2 ust. 1 pkt 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
+- **24)** poważnym incydencie – rozumie się przez to poważny incydent w rozumieniu art. 2 pkt 65 rozporządzenia 2017/745 lub art. 2 pkt 68 rozporządzenia 2017/746;
+- **25)** poważnym zdarzeniu niepożądanym – rozumie się przez to poważne zdarzenie niepożądane w rozumieniu art. 2 pkt 58 rozporządzenia 2017/745 lub art. 2 pkt 61 rozporządzenia 2017/746;
+- **26)** Prezesie Urzędu – rozumie się przez to Prezesa Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych;
+- **27)** producencie – rozumie się przez to producenta w rozumieniu art. 2 pkt 30 rozporządzenia 2017/745 lub art. 2 pkt 23 rozporządzenia 2017/746;
+- **28)** przewidzianym zastosowaniu – rozumie się przez to przewidziane zastosowanie w rozumieniu art. 2 pkt 12 rozporządzenia 2017/745 lub art. 2 pkt 12 rozporządzenia 2017/746;
+- **29)** regeneracji – rozumie się przez to regenerację w rozumieniu art. 2 pkt 39 rozporządzenia 2017/745;
+- **30)** ryzyku – rozumie się przez to ryzyko w rozumieniu art. 2 pkt 23 rozporządzenia 2017/745 lub art. 2 pkt 16 rozporządzenia 2017/746;
+- **31)** skuteczności klinicznej – rozumie się przez to skuteczność kliniczną w rozumieniu art. 2 pkt 52 rozporządzenia 2017/745 lub art. 2 pkt 41 rozporządzenia 2017/746;
+- **32)** sponsorze – rozumie się przez to sponsora w rozumieniu art. 2 pkt 49 rozporządzenia 2017/745 lub art. 2 pkt 57 rozporządzenia 2017/746;
+- **33)** systemie – rozumie się przez to system w rozumieniu art. 2 pkt 11 rozporządzenia 2017/745;
+- **34)** świadomej zgodzie – rozumie się przez to świadomą zgodę w rozumieniu art. 2 pkt 55 rozporządzenia 2017/745 lub art. 2 pkt 58 rozporządzenia 2017/746;
+- **35)** użytkowniku – rozumie się przez to użytkownika w rozumieniu art. 2 pkt 37 rozporządzenia 2017/745 lub art. 2 pkt 30 rozporządzenia 2017/746;
+- **36)** wyrobie wykonanym na zamówienie – rozumie się przez to wyrób wykonany na zamówienie w rozumieniu art. 2 pkt 3 rozporządzenia 2017/745;
+- **37)** zestawie zabiegowym – rozumie się przez to zestaw zabiegowy w rozumieniu art. 2 pkt 10 rozporządzenia 2017/745.
+
 **Art. 3.**
 
 1. Prezes Urzędu jest:
 
 - **1)** organem właściwym w rozumieniu art. 101 rozporządzenia 2017/745 oraz art. 96 rozporządzenia 2017/746;
 - **2)** organem odpowiedzialnym za jednostki notyfikowane, o którym mowa w art. 35 ust. 1 rozporządzenia 2017/745 oraz art. 31 ust. 1 rozporządzenia 2017/746;
-- **3)** organem właściwym, o którym mowa w sekcji 5.2 lit. b i sekcji 5.4 lit. b załącznika IX do rozporządzenia 2017/745 oraz sekcji 5.2 lit. c załącznika IX do rozporządzenia 2017/746, właściwym do wydania opinii naukowej na temat jakości i bezpieczeństwa substancji leczniczej stanowiącej integralną część wyrobu medycznego, w tym stosunku korzyści do ryzyka wynikających z włączenia substancji do wyrobu medycznego, opinii naukowej na temat zgodności wyrobu medycznego lub produktów jego metabolizmu z odpowiednimi wymogami określonymi w ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2024 r. poz. 686) oraz opinii naukowej w sprawie odpowiedniości wyrobu do diagnostyki w terapii celowanej w odniesieniu do danego produktu leczniczego;
+- **3)** organem właściwym, o którym mowa w sekcji 5.2 lit. b i sekcji 5.4 lit. b załącznika IX do rozporządzenia 2017/745 oraz sekcji 5.2 lit. c załącznika IX do rozporządzenia 2017/746, właściwym do wydania opinii naukowej na temat jakości i bezpieczeństwa substancji leczniczej stanowiącej integralną część wyrobu medycznego, w tym stosunku korzyści do ryzyka wynikających z włączenia substancji do wyrobu medycznego, opinii naukowej na temat zgodności wyrobu medycznego lub produktów jego metabolizmu z odpowiednimi wymogami określonymi w ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2021 r. poz. 1977 i 2120 oraz z 2022 r. poz. 830) oraz opinii naukowej w sprawie odpowiedniości wyrobu do diagnostyki w terapii celowanej w odniesieniu do danego produktu leczniczego;
 - **4)** organem właściwym, o którym mowa w art. 5 ust. 4 i 5 rozporządzenia Komisji (UE) nr 722/2012 z dnia 8 sierpnia 2012 r. dotyczącego szczególnych wymagań odnoszących się do wymagań ustanowionych w dyrektywach Rady 90/385/EWG i 93/42/EWG dla aktywnych wyrobów medycznych do implantacji oraz wyrobów medycznych produkowanych z wykorzystaniem tkanek pochodzenia zwierzęcego (Dz. Urz. UE L 212 z 09.08.2012, str. 3);
 - **5)** organem nadzoru rynku, o którym mowa w art. 3 pkt 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1020 z dnia 20 czerwca 2019 r. w sprawie nadzoru rynku i zgodności produktów oraz zmieniającego dyrektywę 2004/42/WE oraz rozporządzenia (WE) nr 765/2008 i (UE) nr 305/2011 (Dz. Urz. UE L 169 z 25.06.2019, str. 1).
 
@@ -92,7 +127,7 @@ Art. 105–136. (pominięte)
 - **19)** Krajowym Centrum Bankowania Tkanek i Komórek,
 - **20)** Prezesem Rządowej Agencji Rezerw Strategicznych,
 - **21)** Komendantem Głównym Państwowej Straży Pożarnej,
-- **22)** instytutami badawczymi i uczelniami – w zakresie ich właściwości.
+- **22)** instytutami badawczymi i uczelniami w zakresie ich właściwości.
 
 2. Podmioty, o których mowa w ust. 1 pkt 1–21, powiadamiają Prezesa Urzędu o stwierdzonych nieprawidłowościach dotyczących wyrobów, systemów lub zestawów zabiegowych.
 
@@ -108,16 +143,16 @@ Art. 105–136. (pominięte)
 
 **Art. 7.**
 
-1. W celu umożliwienia Prezesowi Urzędu wykonywania zadań wynikających z rozporządzenia 2017/745 i rozporządzenia 2017/746 usługodawcy, w rozumieniu art. 2 pkt 6 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344 oraz z 2024 r. poz. 1222), są obowiązani, na żądanie Prezesa Urzędu, niezwłocznie udostępnić mu posiadane dane dotyczące wyrobów, systemów lub zestawów zabiegowych, a także usług świadczonych za ich pomocą, oferowanych lub świadczonych drogą elektroniczną w rozumieniu tej ustawy oraz podmiotów i osób oferujących takie wyroby, systemy, zestawy zabiegowe lub usługi.
+1. W celu umożliwienia Prezesowi Urzędu wykonywania zadań wynikających z rozporządzenia 2017/745 i rozporządzenia 2017/746 usługodawcy, w rozumieniu art. 2 pkt 6 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344), są obowiązani, na żądanie Prezesa Urzędu, niezwłocznie udostępnić mu posiadane dane dotyczące wyrobów, systemów lub zestawów zabiegowych, a także usług świadczonych za ich pomocą, oferowanych lub świadczonych drogą elektroniczną w rozumieniu tej ustawy oraz podmiotów i osób oferujących takie wyroby, systemy, zestawy zabiegowe lub usługi.
 
 2. Dane, o których mowa w ust. 1, obejmują:
 
 - **1)** nazwę lub imię i nazwisko, adres prowadzenia działalności gospodarczej lub adres zamieszkania, oraz numer telefonu i adres poczty elektronicznej,
 - **2)** nazwę i rodzaj wyrobów, systemów lub zestawów zabiegowych,
 - **3)** rodzaj świadczonych usług,
-- **4)** liczbę sprzedanych wyrobów, systemów lub zestawów zabiegowych, lub wykonanych usług – o ile dany podmiot lub osoba takie dane posiada.
+- **4)** liczbę sprzedanych wyrobów, systemów lub zestawów zabiegowych, lub wykonanych usług o ile dany podmiot lub osoba takie dane posiada.
 
-3. Przepisy ust. 1 i 2 stosuje się odpowiednio do przedsiębiorców komunikacji elektronicznej w rozumieniu art. 2 pkt 39 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221).
+3. Przepisy ust. 1 i 2 stosuje się odpowiednio do przedsiębiorców telekomunikacyjnych w rozumieniu art. 2 pkt 27 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2021 r. poz. 576 oraz z 2022 r. poz. 501).
 
 **Art. 8.**
 
@@ -125,7 +160,7 @@ Art. 105–136. (pominięte)
 
 2. Prezes Urzędu może również wydać opinię w sprawie spełnienia przez produkt znajdujący się w obrocie definicji wyrobu.
 
-3. W razie stwierdzenia w opinii, o której mowa w ust. 1, że wyrób, system lub zestaw zabiegowy stwarza poważne zagrożenie lub jeżeli jest to konieczne w interesie ochrony zdrowia publicznego, Prezes Urzędu może wszcząć postępowanie w sprawie jego zniszczenia w przypadkach określonych w art. 29 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawiającego wymagania w zakresie akredytacji i nadzoru rynku odnoszące się do warunków wprowadzania produktów do obrotu i uchylającego rozporządzenie (EWG) nr 339/93 (Dz. Urz. UE L 218 z 13.08.2008, str. 30, z późn. zm. ), art. 93 ust. 5 rozporządzenia 2017/745 lub art. 88 ust. 5 rozporządzenia 2017/746.
+3. W razie stwierdzenia w opinii, o której mowa w ust. 1, że wyrób, system lub zestaw zabiegowy stwarza poważne zagrożenie lub jeżeli jest to konieczne w interesie ochrony zdrowia publicznego, Prezes Urzędu może wszcząć postępowanie w sprawie jego zniszczenia w przypadkach określonych w art. 29 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawiającego wymagania w zakresie akredytacji i nadzoru rynku odnoszące się do warunków wprowadzania produktów do obrotu i uchylającego rozporządzenie (EWG) nr 339/93 (Dz. Urz. UE L 218 z 13.08.2008, str. 30, z późn. zm.), art. 93 ust. 5 rozporządzenia 2017/745 lub art. 88 ust. 5 rozporządzenia 2017/746.
 
 4. Stroną postępowania w sprawie zniszczenia wyrobu, systemu lub zestawu zabiegowego jest importer.
 
@@ -133,7 +168,7 @@ Art. 105–136. (pominięte)
 
 6. Naczelnik urzędu celno-skarbowego informuje Prezesa Urzędu o działaniach podjętych w odniesieniu do zatrzymanych wyrobów, systemów lub zestawów zabiegowych.
 
-7. Do zgłoszenia o objęcie wyrobu procedurą dopuszczenia do obrotu w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm. ), zwanego dalej „unijnym kodeksem celnym”, importer mający miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej jest obowiązany przedłożyć kopię deklaracji zgodności UE, a jeżeli w procedurze oceny zgodności wyrobu powinna brać udział jednostka notyfikowana – także kopie odpowiednich certyfikatów zgodności.
+7. Do zgłoszenia o objęcie wyrobu procedurą dopuszczenia do obrotu w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny akodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm.) , zwanego dalej „unijnym kodeksem celnym”, importer mający miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej jest obowiązany przedłożyć kopię deklaracji zgodności UE, a jeżeli w procedurze oceny zgodności wyrobu powinna brać udział jednostka notyfikowana – także kopie odpowiednich certyfikatów zgodności.
 
 8. Do zgłoszenia o objęcie systemu lub zestawu zabiegowego procedurą dopuszczenia do obrotu w rozumieniu przepisów unijnego kodeksu celnego importer mający miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej jest obowiązany przedłożyć kopię oświadczenia, o którym mowa w art. 22 ust. 2 rozporządzenia 2017/745, a w przypadku sterylnego systemu lub sterylnego zestawu zabiegowego – także kopię oświadczenia, o którym mowa w art. 22 ust. 3 rozporządzenia 2017/745, i kopię odpowiedniego certyfikatu zgodności.
 
@@ -188,7 +223,7 @@ Art. 105–136. (pominięte)
 
 **Art. 13.** Wyroby, systemy i zestawy zabiegowe, sprowadzane spoza terytorium państw członkowskich przez podmioty i osoby wykorzystujące wyroby do wykonywania działalności gospodarczej lub zawodowej, muszą być zgodne z przepisami rozporządzenia 2017/745 albo rozporządzenia 2017/746.
 
-**Art. 14.** Obowiązki importera lub dystrybutora, mającego siedzibę na terytorium Rzeczypospolitej Polskiej, stosuje się do przedsiębiorcy zagranicznego będącego importerem lub dystrybutorem wykonującym działalność gospodarczą na terytorium Rzeczypospolitej Polskiej w formie oddziału w rozumieniu art. 3 pkt 4 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 470 oraz z 2024 r. poz. 1222).
+**Art. 14.** Obowiązki importera lub dystrybutora, mającego siedzibę na terytorium Rzeczypospolitej Polskiej, stosuje się do przedsiębiorcy zagranicznego będącego importerem lub dystrybutorem wykonującym działalność gospodarczą na terytorium Rzeczypospolitej Polskiej w formie oddziału w rozumieniu art. 3 pkt 4 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 470).
 
 **Art. 15.**
 
@@ -219,7 +254,7 @@ Art. 105–136. (pominięte)
 
 3. Decyzję, o której mowa w ust. 2, Prezes Urzędu publikuje w Biuletynie Informacji Publicznej na stronie podmiotowej Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych.
 
-4. Umowa sprzedaży wyrobu nie może zostać zawarta poza lokalem przedsiębiorstwa w rozumieniu ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2023 r. poz. 2759 oraz z 2024 r. poz. 1222). Umowa zawarta poza lokalem przedsiębiorstwa jest nieważna.
+4. Umowa sprzedaży wyrobu nie może zostać zawarta poza lokalem przedsiębiorstwa w rozumieniu ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2020 r. poz. 287 oraz z 2021 r. poz. 2105). Umowa zawarta poza lokalem przedsiębiorstwa jest nieważna.
 
 5. Przepisu ust. 4 nie stosuje się do umowy zawartej podczas wizyty w domu konsumenta lub miejscu jego pobytu na jego wyraźne zaproszenie.
 
@@ -257,7 +292,7 @@ Art. 105–136. (pominięte)
 
 3. Upoważniony przedstawiciel, mający miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej, który zgodnie z art. 31 ust. 1 rozporządzenia 2017/745 albo art. 28 ust. 1 rozporządzenia 2017/746 przedłożył do systemu elektronicznego, o którym mowa w art. 33 rozporządzenia 2017/745 lub art. 30 rozporządzenia 2017/746, informacje wymagane w celu rejestracji, składa do Prezesa Urzędu wniosek o wydanie niepowtarzalnego numeru rejestracyjnego, o którym mowa w art. 31 ust. 2 rozporządzenia 2017/745 albo art. 28 ust. 2 rozporządzenia 2017/746.
 
-4. Wniosek, o którym mowa w ust. 1–3, osoba reprezentująca podmiot składający wniosek składa osobiście w Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, legitymując się dokumentem stwierdzającym tożsamość, albo w postaci elektronicznej przez elektroniczną Platformę Usług Administracji Publicznej z profilu zaufanego tej osoby, albo w postaci elektronicznej opatrzony kwalifikowanym podpisem elektronicznym tej osoby na adres poczty elektronicznej podany w Biuletynie Informacji Publicznej na stronie podmiotowej Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, albo podpisany przy pomocy podpisu osobistego w rozumieniu art. 2 ust. 1 pkt 9 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych (Dz. U. z 2022 r. poz. 671 oraz z 2023 r. poz. 1234 i 1941), albo podpisany przez tę osobę i poświadczony przez notariusza.
+4. Wniosek, o którym mowa w ust. 1–3, osoba reprezentująca podmiot składający wniosek składa osobiście w Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, legitymując się dokumentem stwierdzającym tożsamość, albo w postaci elektronicznej przez elektroniczną Platformę Usług Administracji Publicznej z profilu zaufanego tej osoby, albo w postaci elektronicznej opatrzony kwalifikowanym podpisem elektronicznym tej osoby na adres poczty elektronicznej podany w Biuletynie Informacji Publicznej na stronie podmiotowej Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, albo podpisany przy pomocy podpisu osobistego w rozumieniu art. 2 ust. 1 pkt 9 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych (Dz. U. z 2022 r. poz. 671), albo podpisany przez tę osobę i poświadczony przez notariusza.
 
 5. Wniosek, o którym mowa w ust. 1, zawiera nazwę podmiotu składającego wniosek zgodną z danymi zawartymi w Krajowym Rejestrze Sądowym lub Centralnej Ewidencji i Informacji o Działalności Gospodarczej oraz jego numer identyfikacji podatkowej (NIP).
 
@@ -277,7 +312,7 @@ Art. 105–136. (pominięte)
 
 11. Wnioskodawca może dołączyć do wniosku, o którym mowa w ust. 3, zamiast oryginału dokumentu odpis tego dokumentu, jeżeli jego zgodność z oryginałem została poświadczona przez notariusza albo przez pełnomocnika wnioskodawcy będącego adwokatem, radcą prawnym, rzecznikiem patentowym lub doradcą podatkowym.
 
-12. Jeżeli odpis dokumentu został sporządzony w postaci dokumentu elektronicznego, poświadczenia jego zgodności z oryginałem, o którym mowa w ust. 11, dokonuje się przy użyciu kwalifikowanego podpisu elektronicznego albo podpisu zaufanego, albo podpisu osobistego w rozumieniu art. 2 ust. 1 pkt 9 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych. Odpis dokumentu poświadczany elektronicznie jest sporządzany w formacie danych określonym w przepisach wydanych na podstawie art. 18 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 307 i 1222).
+12. Jeżeli odpis dokumentu został sporządzony w postaci dokumentu elektronicznego, poświadczenia jego zgodności z oryginałem, o którym mowa w ust. 11, dokonuje się przy użyciu kwalifikowanego podpisu elektronicznego albo podpisu zaufanego, albo podpisu osobistego w rozumieniu art. 2 ust. 1 pkt 9 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych. Odpis dokumentu poświadczany elektronicznie jest sporządzany w formacie danych określonym w przepisach wydanych na podstawie art. 18 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070).
 
 **Art. 20.**
 
@@ -317,7 +352,7 @@ Art. 105–136. (pominięte)
 4. Po uzyskaniu kodu dostępu i hasła dostępu do systemu informatycznego, o którym mowa w ust. 1, podmiot i osoba, o których mowa w ust. 2, wpisują do tego systemu informacje, o których mowa w ust. 3, oraz dla każdego wyrobu, systemu lub zestawu zabiegowego wpisują lub dołączają:
 
 - **1)** kod Basic UDI-DI wyrobu, systemu lub zestawu zabiegowego, według bazy danych Eudamed,
-- **2)** nazwę i adres producenta, rodzaj i nazwę handlową wyrobu, systemu lub zestawu zabiegowego, według etykiety – w przypadku wyrobów, systemów i zestawów zabiegowych sprowadzonych na terytorium Rzeczypospolitej Polskiej z państwa członkowskiego;
+- **2)** nazwę i adres producenta, rodzaj i nazwę handlową wyrobu, systemu lub zestawu zabiegowego, według etykiety w przypadku wyrobów, systemów i zestawów zabiegowych sprowadzonych na terytorium Rzeczypospolitej Polskiej z państwa członkowskiego;
 - **3)** kod Basic UDI-DI wyrobu, systemu lub zestawu zabiegowego według bazy danych Eudamed,
 - **4)** rodzaj i nazwę handlową według etykiety,
 - **5)** kod w nomenklaturze wyrobów i nazwę rodzajową zgodną z tym kodem, jeżeli dotyczy,
@@ -327,7 +362,7 @@ Art. 105–136. (pominięte)
 - **9)** nazwę i adres importera, jeżeli dotyczy,
 - **10)** numer identyfikacyjny jednostki notyfikowanej, jeżeli dotyczy,
 - **11)** wzór etykiety,
-- **12)** instrukcje używania, jeżeli dotyczy – w pozostałych przypadkach.
+- **12)** instrukcje używania, jeżeli dotyczy w pozostałych przypadkach.
 
 **Art. 23.**
 
@@ -385,7 +420,7 @@ Art. 105–136. (pominięte)
 
 8. Spory dotyczące klasyfikacji wyrobów zaistniałe między producentem a jednostką notyfikowaną, o których mowa w art. 51 ust. 2 rozporządzenia 2017/745 albo art. 47 ust. 2 rozporządzenia 2017/746, Prezes Urzędu rozstrzyga w drodze decyzji administracyjnej.
 
-9. Dokumenty, w tym dokumentacja techniczna, sprawozdania z audytu, oceny i inspekcji, związane z procedurami, o których mowa w art. 52 ust. 1– 11 rozporządzenia 2017/745 albo art. 48 ust. 1–10 rozporządzenia 2017/746, w których brała udział jednostka notyfikowana wyznaczona przez Prezesa Urzędu, są sporządzane w języku polskim lub języku angielskim.
+9. Dokumenty, w tym dokumentacja techniczna, sprawozdania z audytu, oceny i inspekcji, związane z procedurami, o których mowa w art. 52 ust. 1–11 rozporządzenia 2017/745 albo art. 48 ust. 1–10 rozporządzenia 2017/746, w których brała udział jednostka notyfikowana wyznaczona przez Prezesa Urzędu, są sporządzane w języku polskim lub języku angielskim.
 
 10. Certyfikaty zgodności wydawane przez jednostki notyfikowane wyznaczone przez Prezesa Urzędu są sporządzane w języku polskim i języku angielskim.
 
@@ -393,7 +428,7 @@ Art. 105–136. (pominięte)
 
 **Art. 29.**
 
-1. Prezes Urzędu może wydać, w drodze decyzji administracyjnej, na wniosek podmiotu wykonującego działalność leczniczą, konsultanta w ochronie zdrowia, o którym mowa w art. 2 ustawy z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia (Dz. U. z 2024 r. poz. 69), Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji, Prezesa Narodowego Funduszu Zdrowia lub Prezesa Rządowej Agencji Rezerw Strategicznych pozwolenie, o którym mowa w art. 59 ust. 1 rozporządzenia 2017/745 albo art. 54 ust. 1 rozporządzenia 2017/746, na wprowadzenie do obrotu lub do używania na terytorium Rzeczypospolitej Polskiej określonego wyrobu, w przypadku którego nie przeprowadzono procedur oceny zgodności, a którego używanie leży w interesie zdrowia publicznego lub bezpieczeństwa lub zdrowia pacjentów.
+1. Prezes Urzędu może wydać, w drodze decyzji administracyjnej, na wniosek podmiotu wykonującego działalność leczniczą, konsultanta w ochronie zdrowia, o którym mowa w art. 2 ustawy z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia (Dz. U. z 2019 r. poz. 886), Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji, Prezesa Narodowego Funduszu Zdrowia lub Prezesa Rządowej Agencji Rezerw Strategicznych pozwolenie, o którym mowa w art. 59 ust. 1 rozporządzenia 2017/745 albo art. 54 ust. 1 rozporządzenia 2017/746, na wprowadzenie do obrotu lub do używania na terytorium Rzeczypospolitej Polskiej określonego wyrobu, w przypadku którego nie przeprowadzono procedur oceny zgodności, a którego używanie leży w interesie zdrowia publicznego lub bezpieczeństwa lub zdrowia pacjentów.
 
 2. We wniosku, o którym mowa w ust. 1, należy wskazać, czy wyrób będzie miał zastosowanie do jednego pacjenta czy większej liczby pacjentów.
 
@@ -422,7 +457,7 @@ Art. 105–136. (pominięte)
 6. Jeżeli w skład komisji bioetycznej wydającej opinię, o której mowa w ust. 2, dotyczącą badania klinicznego z udziałem:
 
 - **1)** małoletniego – nie wchodzi lekarz specjalista w dziedzinie pediatrii,
-- **2)** osoby niezdolnej do samodzielnego wyrażenia świadomej zgody – nie wchodzi lekarz specjalista w dziedzinie medycyny, której dotyczy prowadzone badanie kliniczne – komisja bioetyczna zasięga opinii takiego lekarza.
+- **2)** osoby niezdolnej do samodzielnego wyrażenia świadomej zgody – nie wchodzi lekarz specjalista w dziedzinie medycyny, której dotyczy prowadzone badanie kliniczne komisja bioetyczna zasięga opinii takiego lekarza.
 
 7. Od opinii komisji bioetycznej przysługuje odwołanie do Odwoławczej Komisji Bioetycznej. W przypadku odwołania stosuje się przepisy wydane na podstawie art. 29 ust. 26 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty.
 
@@ -436,9 +471,7 @@ Art. 105–136. (pominięte)
 
 12. W przypadkach, o których mowa w ust. 10 lub 11, gdy dołączenie niektórych informacji lub dokumentów do wniosku, o którym mowa w ust. 2, jest nieuzasadnione lub niemożliwe, sponsor uzasadnia to we wniosku.
 
-13. Wniosek, o którym mowa w ust. 2, oraz dołączone do niego informacje i dokumenty są sporządzane w języku polskim lub języku angielskim, z wyjątkiem informacji i dokumentów przeznaczonych do wiadomości uczestników oraz ogólnego streszczenia badania klinicznego, o którym mowa w sekcji
-
-3. 1.5 załącznika XV do rozporządzenia 2017/745, które sporządza się w języku polskim.
+13. Wniosek, o którym mowa w ust. 2, oraz dołączone do niego informacje i dokumenty są sporządzane w języku polskim lub języku angielskim, z wyjątkiem informacji i dokumentów przeznaczonych do wiadomości uczestników oraz ogólnego streszczenia badania klinicznego, o którym mowa w sekcji 3.1.5 załącznika XV do rozporządzenia 2017/745, które sporządza się w języku polskim.
 
 14. Jeżeli wniosek, o którym mowa w ust. 2, lub dołączone do niego informacje i dokumenty wymagają uzupełnienia lub poprawienia, komisja bioetyczna wyznacza sponsorowi odpowiedni termin, nie krótszy niż 7 dni od dnia doręczenia wezwania, na ich uzupełnienie lub poprawienie, z pouczeniem, że brak uzupełnienia lub poprawienia w terminie spowoduje pozostawienie wniosku bez rozpatrzenia.
 
@@ -454,9 +487,7 @@ Art. 105–136. (pominięte)
 
 **Art. 33.**
 
-1. Wniosek o pozwolenie na prowadzenie badania klinicznego na terytorium Rzeczypospolitej Polskiej, o którym mowa w art. 70 ust. 1 rozporządzenia 2017/745, oraz dołączone do niego informacje i dokumenty są sporządzane w języku polskim lub języku angielskim, z wyjątkiem informacji i dokumentów przeznaczonych do wiadomości uczestników oraz ogólnego streszczenia badania klinicznego, o którym mowa w sekcji
-
-3. 1.5 załącznika XV do rozporządzenia 2017/745, które sporządza się w języku polskim.
+1. Wniosek o pozwolenie na prowadzenie badania klinicznego na terytorium Rzeczypospolitej Polskiej, o którym mowa w art. 70 ust. 1 rozporządzenia 2017/745, oraz dołączone do niego informacje i dokumenty są sporządzane w języku polskim lub języku angielskim, z wyjątkiem informacji i dokumentów przeznaczonych do wiadomości uczestników oraz ogólnego streszczenia badania klinicznego, o którym mowa w sekcji 3.1.5 załącznika XV do rozporządzenia 2017/745, które sporządza się w języku polskim.
 
 2. Powiadomienie, o którym mowa w art. 74 ust. 1 rozporządzenia 2017/745, dotyczące badania klinicznego na terytorium Rzeczypospolitej Polskiej oraz dołączone do powiadomienia informacje i dokumenty są sporządzane w języku polskim lub języku angielskim, z wyjątkiem informacji i dokumentów przeznaczonych do wiadomości uczestników oraz ogólnego streszczenia badania klinicznego, o którym mowa w sekcji 3.1.5 załącznika XV do rozporządzenia 2017/745, które sporządza się w języku polskim.
 
@@ -482,13 +513,11 @@ Art. 105–136. (pominięte)
 
 4. Prezes Urzędu może przedłużyć termin, o którym mowa w ust. 2, o kolejnych 7 dni w celu skonsultowania się z ekspertami.
 
-5. Prezes Urzędu może żądać od sponsora dostarczenia informacji i dokumentów uzupełniających niezbędnych do wydania decyzji, o której mowa w ust. 1 i 2, w tym informacji i dokumentów, o których mowa w sekcji
-
-4. 6 załącznika XV do rozporządzenia 2017/745.
+5. Prezes Urzędu może żądać od sponsora dostarczenia informacji i dokumentów uzupełniających niezbędnych do wydania decyzji, o której mowa w ust. 1 i 2, w tym informacji i dokumentów, o których mowa w sekcji 4.6 załącznika XV do rozporządzenia 2017/745.
 
 6. Terminy, o których mowa w ust. 1 i 2, ulegają zawieszeniu od dnia zwrócenia się o informacje i dokumenty do dnia ich otrzymania.
 
-7. W postępowaniach prowadzonych w sprawie wydania pozwolenia na prowadzenie badania klinicznego oraz w sprawie wprowadzenia istotnych zmian w badaniu klinicznym nie stosuje się przepisów art. 10 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
+7. W postępowaniach prowadzonych w sprawie wydania pozwolenia na prowadzenie badania klinicznego oraz w sprawie wprowadzenia istotnych zmian w badaniu klinicznym nie stosuje się przepisów art. 10 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735, 1491 i 2052).
 
 8. Prezes Urzędu może wydać, w drodze decyzji administracyjnej, pozwolenie na prowadzenie badania klinicznego lub wprowadzenie istotnych zmian w badaniu klinicznym wyłącznie po uprzednim wydaniu pozytywnej opinii przez komisję bioetyczną albo Odwoławczą Komisję Bioetyczną.
 
@@ -537,7 +566,7 @@ Art. 105–136. (pominięte)
 6. Jeżeli w skład komisji bioetycznej wydającej opinię, o której mowa w ust. 2, dotyczącą badania działania z udziałem:
 
 - **1)** małoletniego – nie wchodzi lekarz specjalista w dziedzinie pediatrii,
-- **2)** osoby niezdolnej do samodzielnego wyrażenia świadomej zgody – nie wchodzi lekarz specjalista w dziedzinie medycyny, której dotyczy prowadzone badanie działania – komisja bioetyczna zasięga opinii takiego lekarza.
+- **2)** osoby niezdolnej do samodzielnego wyrażenia świadomej zgody – nie wchodzi lekarz specjalista w dziedzinie medycyny, której dotyczy prowadzone badanie działania komisja bioetyczna zasięga opinii takiego lekarza.
 
 7. Od opinii komisji bioetycznej przysługuje odwołanie do Odwoławczej Komisji Bioetycznej. W przypadku odwołania stosuje się przepisy wydane na podstawie art. 29 ust. 26 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty.
 
@@ -638,14 +667,14 @@ Art. 105–136. (pominięte)
 7. Zgłoszenia poważnego incydentu dokonuje się na formularzu zgłoszenia poważnego incydentu, w którym podaje się, jeżeli jest to możliwe:
 
 - **1)** adresata zgłoszenia, w tym nazwę, adres i adres poczty elektronicznej;
-- **2)** informacje o poważnym incydencie i jego skutkach, w tym:
-    - **a)** numer referencyjny zgłoszenia nadany przez świadczeniodawcę,
-    - **b)** datę przesłania zgłoszenia poważnego incydentu do producenta, upoważnionego przedstawiciela lub dostawcy,
-    - **c)** datę i miejsce poważnego incydentu,
-    - **d)** opis poważnego incydentu, w tym: – liczbę pacjentów, których dotknął poważny incydent, – liczbę wyrobów, których dotyczył poważny incydent, – miejsce znajdowania się wyrobu na dzień zgłoszenia, – informację, czy osobą posługującą się wyrobem w chwili wystąpienia poważnego incydentu był profesjonalny użytkownik, pacjent albo inna osoba, – informację, czy poważny incydent wystąpił przy pierwszym użyciu wyrobu, ponownym użyciu albo przed użyciem,
-    - **e)** opis skutków dla pacjenta,
-    - **f)** opis działań zaradczych lub leczniczych związanych z opieką nad pacjentem podjętych przez instytucję zdrowia publicznego,
-    - **g)** wskazanie wieku pacjenta, jego masy ciała oraz płci;
+- **2)** informacje o poważnym incydencie i jego skutkach, w tym: numer referencyjny zgłoszenia nadany przez świadczeniodawcę, datę przesłania zgłoszenia poważnego incydentu do producenta, upoważnionego przedstawiciela lub dostawcy, datę i miejsce poważnego incydentu, opis poważnego incydentu, w tym: – liczbę pacjentów, których dotknął poważny incydent, – liczbę wyrobów, których dotyczył poważny incydent, – miejsce znajdowania się wyrobu na dzień zgłoszenia, – informację, czy osobą posługującą się wyrobem w chwili wystąpienia poważnego incydentu był profesjonalny użytkownik, pacjent albo inna osoba, – informację, czy poważny incydent wystąpił przy pierwszym użyciu wyrobu, ponownym użyciu albo przed użyciem, opis skutków dla pacjenta, opis działań zaradczych lub leczniczych związanych z opieką nad pacjentem podjętych przez instytucję zdrowia publicznego, wskazanie wieku pacjenta, jego masy ciała oraz płci;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
 
 - **3)** nazwę producenta;
 - **4)** nazwę upoważnionego przedstawiciela;
@@ -719,19 +748,15 @@ Art. 105–136. (pominięte)
 
 1. Wniosek jednostki notyfikowanej o wydanie opinii naukowej, o której mowa w sekcji 5.2 lit. b załącznika IX do rozporządzenia 2017/745, na temat jakości i bezpieczeństwa substancji leczniczej stanowiącej integralną część wyrobu, w tym stosunku korzyści do ryzyka wynikających z włączenia tej substancji do wyrobu, oraz dołączona do wniosku dokumentacja są składane Prezesowi Urzędu w języku polskim lub języku angielskim.
 
-2. Wniosek jednostki notyfikowanej o wydanie opinii, o której mowa w sekcji
-
-5. 2 lit. f załącznika IX do rozporządzenia 2017/745, czy jakość i bezpieczeństwo substancji leczniczej stanowiącej integralną część wyrobu zostaną zachowane po wprowadzeniu zmian dotyczących tej substancji, w szczególności związanych z procesem jej produkcji, oraz dołączona do wniosku dokumentacja są składane Prezesowi Urzędu w języku polskim lub języku angielskim.
+2. Wniosek jednostki notyfikowanej o wydanie opinii, o której mowa w sekcji 5.2 lit. f załącznika IX do rozporządzenia 2017/745, czy jakość i bezpieczeństwo substancji leczniczej stanowiącej integralną część wyrobu zostaną zachowane po wprowadzeniu zmian dotyczących tej substancji, w szczególności związanych z procesem jej produkcji, oraz dołączona do wniosku dokumentacja są składane Prezesowi Urzędu w języku polskim lub języku angielskim.
 
 3. Do wniosków, o których mowa w ust. 1 i 2, dołącza się dokumentację umożliwiającą ocenę użyteczności, jakości i bezpieczeństwa substancji leczniczej, w tym stosunku korzyści do ryzyka wynikających z włączenia tej substancji do wyrobu.
 
-4. Wniosek jednostki notyfikowanej o wydanie opinii naukowej, o której mowa w sekcji 5.3.1 lit. a załącznika IX do rozporządzenia 2017/745, w sprawie aspektów oddawania, pobierania i testowania tkanek lub komórek pochodzenia ludzkiego lub ich pochodnych w przypadku wyrobu, o którym mowa w art. 1 ust. 6 lit. g rozporządzenia 2017/745, wyprodukowanego z wykorzystaniem pochodnych tkanek lub komórek pochodzenia ludzkiego albo w przypadku wyrobu, o którym mowa w art. 1 ust. 10 rozporządzenia 2017/745, zawierającego jako swoją integralną część tkanki lub komórki pochodzenia ludzkiego lub ich pochodne, objęte zakresem ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2023 r. poz. 1185), których działanie ma charakter pomocniczy w stosunku do działania tego wyrobu, oraz dołączona do wniosku dokumentacja są składane Krajowemu Centrum Bankowania Tkanek i Komórek w języku polskim lub języku angielskim.
+4. Wniosek jednostki notyfikowanej o wydanie opinii naukowej, o której mowa w sekcji 5.3.1 lit. a załącznika IX do rozporządzenia 2017/745, w sprawie aspektów oddawania, pobierania i testowania tkanek lub komórek pochodzenia ludzkiego lub ich pochodnych w przypadku wyrobu, o którym mowa w art. 1 ust. 6 lit. g rozporządzenia 2017/745, wyprodukowanego z wykorzystaniem pochodnych tkanek lub komórek pochodzenia ludzkiego albo w przypadku wyrobu, o którym mowa w art. 1 ust. 10 rozporządzenia 2017/745, zawierającego jako swoją integralną część tkanki lub komórki pochodzenia ludzkiego lub ich pochodne, objęte zakresem ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2020 r. poz. 2134), których działanie ma charakter pomocniczy w stosunku do działania tego wyrobu, oraz dołączona do wniosku dokumentacja są składane Krajowemu Centrum Bankowania Tkanek i Komórek w języku polskim lub języku angielskim.
 
 5. Wniosek jednostki notyfikowanej o wydanie opinii naukowej, o której mowa w sekcji 5.3.1 lit. d załącznika IX do rozporządzenia 2017/745, czy jakość i bezpieczeństwo tkanek lub komórek pochodzenia ludzkiego lub ich pochodnych zawartych w wyrobie zostaną zachowane po wprowadzeniu zmian dotyczących zawartych w wyrobie niezdolnych do życia tkanek lub komórek pochodzenia ludzkiego lub ich pochodnych, w szczególności zmian związanych z procesem ich oddawania, testowania lub pobierania, oraz dołączona do wniosku dokumentacja są składane Krajowemu Centrum Bankowania Tkanek i Komórek w języku polskim lub języku angielskim.
 
-6. Do wniosków, o których mowa w ust. 4 i 5, dołącza się dokumentację umożliwiającą ocenę aspektów oddawania, pobierania i testowania tkanek lub komórek pochodzenia ludzkiego lub ich pochodnych, o których mowa w sekcji
-
-5. 3.1 lit. a załącznika IX do rozporządzenia 2017/745.
+6. Do wniosków, o których mowa w ust. 4 i 5, dołącza się dokumentację umożliwiającą ocenę aspektów oddawania, pobierania i testowania tkanek lub komórek pochodzenia ludzkiego lub ich pochodnych, o których mowa w sekcji 5.3.1 lit. a załącznika IX do rozporządzenia 2017/745.
 
 7. Wniosek jednostki notyfikowanej o wydanie opinii naukowej, o której mowa w sekcji 5.4 lit. b załącznika IX do rozporządzenia 2017/745, na temat zgodności z odpowiednimi wymaganiami określonymi w ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne składającego się z substancji lub mieszaniny substancji wyrobu, który jest ogólnoustrojowo wchłaniany lub którego produkty metabolizmu są ogólnoustrojowo wchłaniane przez organizm ludzki, w celu osiągnięcia przewidzianego zastosowania, oraz dołączona do wniosku dokumentacja są składane Prezesowi Urzędu w języku polskim lub języku angielskim.
 
@@ -739,7 +764,7 @@ Art. 105–136. (pominięte)
 
 9. Wniosek jednostki notyfikowanej o wydanie opinii naukowej, o której mowa w sekcji 5.2 lit. f załącznika IX do rozporządzenia 2017/746, na temat planowanych zmian mających wpływ na działanie lub przewidziane używanie lub odpowiedniość wyrobu do diagnostyki w terapii celowanej w odniesieniu do danego produktu leczniczego oraz dołączona do wniosku dokumentacja są składane Prezesowi Urzędu w języku polskim lub języku angielskim.
 
-10. Korespondencja w sprawach opinii, o których mowa w ust. 1, 2, 4, 5 i 7– 9, może być prowadzona w języku angielskim bez konieczności tłumaczenia korespondencji i dokumentów na język polski i może być przekazywana drogą elektroniczną bez konieczności stosowania kwalifikowanego podpisu elektronicznego.
+10. Korespondencja w sprawach opinii, o których mowa w ust. 1, 2, 4, 5 i 7–9, może być prowadzona w języku angielskim bez konieczności tłumaczenia korespondencji i dokumentów na język polski i może być przekazywana drogą elektroniczną bez konieczności stosowania kwalifikowanego podpisu elektronicznego.
 
 11. Przed wydaniem opinii, o których mowa w ust. 1, 2, 4, 5 i 7–9, Prezes Urzędu może zwrócić się o przygotowanie opinii do właściwych jednostek naukowych, w tym instytutów badawczych i uczelni posiadających odpowiednie zaplecze naukowo-badawcze oraz wykwalifikowany personel.
 
@@ -799,15 +824,18 @@ Art. 105–136. (pominięte)
 - **6)** prezentowania wyrobów w czasie wydarzeń, o których mowa w pkt 5;
 - **7)** przekazywania próbek w celu promocji wyrobów.
 
-2. (uchylony)
+2. Nadzór nad reklamą, o której mowa w ust. 1 pkt 1, jest sprawowany przez ministra właściwego do spraw zdrowia w zakresie podmiotów wykonujących działalność leczniczą oraz przez Głównego Inspektora Sanitarnego w pozostałym zakresie.
 
-3. Nadzór nad reklamą wyrobów medycznych jest sprawowany przez Prezesa Urzędu.
+3. Nadzór nad reklamą, o której mowa w ust. 1 pkt 2–7, jest sprawowany przez Prezesa Urzędu.
 
 4. Odwiedzanie osób wykonujących zawód medyczny będących świadczeniodawcą lub zatrudnionych u świadczeniodawcy w miejscu udzielania świadczeń zdrowotnych w celu reklamy wyrobu odbywa się, po uprzednim uzgodnieniu terminu spotkania, poza godzinami pracy tych osób oraz wymaga uzyskania zgody kierownika danego podmiotu leczniczego, a w przypadku praktyki zawodowej – zgody osoby wykonującej zawód medyczny w ramach tej praktyki.
 
 5. Osoby upoważnione przez Prezesa Urzędu są uprawnione do bezpłatnego wstępu na wydarzenia, o których mowa w ust. 1 pkt 5 i 6.
 
 **Art. 59.** Za reklamę wyrobu nie uważa się:
+
+- **1)** katalogów handlowych lub list cenowych, zawierających wyłącznie nazwę handlową, cenę wyrobu lub specyfikację techniczną;
+- **2)** informacji umieszczonych na opakowaniach oraz załączonych do opakowań wyrobów, wymaganych przepisami ustawy i rozporządzenia 2017/745 lub rozporządzenia 2017/746.
 
 **Art. 60.**
 
@@ -820,7 +848,7 @@ Art. 105–136. (pominięte)
 4. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
 - **1)** niezbędne dane, jakie ma zawierać reklama, inne niż określone w ust. 3,
-- **2)** sposób prezentowania reklamy – uwzględniając konieczność obiektywnej prezentacji wyrobu, bezpieczeństwo jego stosowania, stan wiedzy użytkowników wyrobów oraz konieczność zapewnienia niezakłóconego korzystania z usług zdrowotnych i usług farmaceutycznych.
+- **2)** sposób prezentowania reklamy uwzględniając konieczność obiektywnej prezentacji wyrobu, bezpieczeństwo jego stosowania, stan wiedzy użytkowników wyrobów oraz konieczność zapewnienia niezakłóconego korzystania z usług zdrowotnych i usług farmaceutycznych.
 
 **Art. 61.**
 
@@ -844,13 +872,13 @@ Art. 105–136. (pominięte)
 
 - **1)** wprowadził do obrotu lub
 - **2)** wprowadził do używania, lub
-- **3)** sprowadził – dany wyrób na terytorium Rzeczypospolitej Polskiej, jest obowiązany powiadamiać o zagrożeniach związanych z wyrobami, systemami lub zestawami zabiegowymi w sposób adekwatny do zagrożenia, w tym za pomocą środków masowego przekazu.
+- **3)** sprowadził dany wyrób na terytorium Rzeczypospolitej Polskiej, jest obowiązany powiadamiać o zagrożeniach związanych z wyrobami, systemami lub zestawami zabiegowymi w sposób adekwatny do zagrożenia, w tym za pomocą środków masowego przekazu.
 
 3. Jeżeli podmiot, o którym mowa w ust. 2, nie podejmuje działań, o których mowa w ust. 2, lub podejmuje je w sposób nieadekwatny do stwarzanego zagrożenia przez wyrób, system lub zestaw zabiegowy, w jego zastępstwie działania te mogą zostać podjęte przez Prezesa Urzędu.
 
 4. Koszty działań Prezesa Urzędu, o których mowa w ust. 3, ponosi podmiot gospodarczy.
 
-5. Jeżeli koszty działań, o których mowa w ust. 3, nie zostały pokryte przez podmiot gospodarczy w terminie określonym w wezwaniu do zapłaty doręczonym temu podmiotowi, Prezes Urzędu określa wysokość tych kosztów w formie postanowienia. Do kosztów wynikających z postanowienia Prezesa Urzędu stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879).
+5. Jeżeli koszty działań, o których mowa w ust. 3, nie zostały pokryte przez podmiot gospodarczy w terminie określonym w wezwaniu do zapłaty doręczonym temu podmiotowi, Prezes Urzędu określa wysokość tych kosztów w formie postanowienia. Do kosztów wynikających z postanowienia Prezesa Urzędu stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, z późn. zm.).
 
 **Art. 63.**
 
@@ -884,6 +912,12 @@ Art. 105–136. (pominięte)
 
 **Art. 65.** Osoby upoważnione przez Prezesa Urzędu do dokonywania kontroli są uprawnione do:
 
+- **1)** wizytowania wszelkich obiektów, lokali, terenów lub środków transportu, które dany kontrolowany wykorzystuje do swojej działalności handlowej, gospodarczej lub zawodowej, w celu wykrycia niezgodności i uzyskania dowodów; uprawnienie to obejmuje również wizytowanie obiektów, lokali, terenów lub środków transportu dostawców i podwykonawców kontrolowanego;
+- **2)** żądania ustnych lub pisemnych wyjaśnień, okazania dokumentów lub innych nośników informacji oraz udostępnienia danych mających związek z przedmiotem kontroli;
+- **3)** badania dokumentów oraz wyrobów i sprzętów odnoszących się do przedmiotu kontroli;
+- **4)** pobierania, w ramach kontroli, próbek wyrobów w celu ich przebadania;
+- **5)** sprawdzania wykonania zaleceń pokontrolnych.
+
 **Art. 66.**
 
 1. Kontrola jest przeprowadzana przez osoby pisemnie upoważnione przez Prezesa Urzędu. Kontrola rozpoczyna się po okazaniu upoważnienia przez osoby przeprowadzające kontrolę.
@@ -892,11 +926,11 @@ Art. 105–136. (pominięte)
 
 3. Do pracowników Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych oraz do osób, o których mowa w ust. 2, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego dotyczące wyłączenia pracownika, chyba że odrębne przepisy stanowią inaczej.
 
-4. Kontrola jest przeprowadzana bez zawiadomienia w przypadkach wymienionych w art. 48 ust. 11 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236 i 1222) oraz jeżeli Prezes Urzędu stwierdzi, że istnieje uzasadnione podejrzenie, że:
+4. Kontrola jest przeprowadzana bez zawiadomienia w przypadkach wymienionych w art. 48 ust. 11 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2021 r. poz. 162 i 2105 oraz z 2022 r. poz. 24) oraz jeżeli Prezes Urzędu stwierdzi, że istnieje uzasadnione podejrzenie, że:
 
-- **1)** wyroby wprowadzane do obrotu, do używania lub używane w instytucjach zdrowia publicznego:
-    - **a)** są niezgodne z rozporządzeniem 2017/745 lub rozporządzeniem 2017/746 lub
-    - **b)** stwarzają nieakceptowalne ryzyko;
+- **1)** wyroby wprowadzane do obrotu, do używania lub używane w instytucjach zdrowia publicznego: są niezgodne z rozporządzeniem 2017/745 lub rozporządzeniem 2017/746 lub stwarzają nieakceptowalne ryzyko;
+    - **a)**
+    - **b)**
 
 - **2)** badanie kliniczne jest prowadzone niezgodnie z rozporządzeniem 2017/745;
 - **3)** badanie działania jest prowadzone niezgodnie z rozporządzeniem 2017/746.
@@ -967,7 +1001,7 @@ Art. 105–136. (pominięte)
 
 1. Kto wprowadza do obrotu lub wprowadza do używania wyrób, który nie spełnia wymogów określonych w załączniku I do rozporządzenia 2017/745 lub załączniku I do rozporządzenia 2017/746, podlega karze pieniężnej w wysokości od 20 000 zł do 5 000 000 zł.
 
-2. Producent, który, wbrew obowiązkowi określonemu w art. 52 rozporządzenia 2017/745 lub art. 48 rozporządzenia 2017/746, nie przeprowadził oceny zgodności wyrobu lub przeprowadził ją w sposób sprzeczny z procedurami oceny zgodności określonymi odpowiednio w załącznikach IX–XI lub XIII do rozporządzenia 2017/745 lub załącznikach IX–XI do rozporządzenia 2017/746, podlega karze pieniężnej w wysokości do 500 000 zł.
+2. Producent, który, wbrew obowiązkowi określonemu w art. 52 rozporządzenia 2017/745 lub art. 48 rozporządzenia 2017/746, nie przeprowadził oceny zgodności wyrobu lub przeprowadził ją w sposób sprzeczny z procedurami oceny zgodności określonymi odpowiednio w załącznikach IX-XI lub XIII do rozporządzenia 2017/745 lub załącznikach IX-XI do rozporządzenia 2017/746, podlega karze pieniężnej w wysokości do 500 000 zł.
 
 3. Instytucja zdrowia publicznego, która produkuje wyroby lub używa wyrobów, które nie spełniają warunków, o których mowa w art. 5 ust. 5 rozporządzenia 2017/745 lub art. 5 ust. 5 rozporządzenia 2017/746, podlega karze pieniężnej w wysokości do 1 000 000 zł.
 
@@ -983,7 +1017,7 @@ Art. 105–136. (pominięte)
 - **4)** wbrew obowiązkowi określonemu w art. 10 ust. 8 rozporządzenia 2017/745 lub art. 10 ust. 7 rozporządzenia 2017/746, nie przechowuje do dyspozycji Prezesa Urzędu dokumentów, o których mowa w tych przepisach,
 - **5)** wbrew obowiązkowi określonemu w art. 10 ust. 9 rozporządzenia 2017/745 lub art. 10 ust. 8 rozporządzenia 2017/746, nie ustanawia, nie dokumentuje, nie wdraża, nie utrzymuje, nie aktualizuje na bieżąco lub nie ulepsza systematycznie systemu zarządzania jakością w najskuteczniejszy sposób zapewniający zgodność z rozporządzeniem 2017/745 lub rozporządzeniem 2017/746 oraz proporcjonalnie do klasy ryzyka i rodzaju wyrobu,
 - **6)** wbrew obowiązkowi określonemu w art. 10 ust. 10 rozporządzenia 2017/745 lub art. 10 ust. 9 rozporządzenia 2017/746, nie wdraża lub nie aktualizuje na bieżąco systemu nadzoru po wprowadzeniu do obrotu,
-- **7)** wbrew obowiązkom określonym w art. 10 ust. 12 rozporządzenia 2017/745 lub art. 10 ust. 11 rozporządzenia 2017/746, nie podejmuje działań korygujących lub nie informuje właściwych organów państw członkowskich, jednostki notyfikowanej, upoważnionych przedstawicieli, importerów lub dystrybutorów o tych działaniach – podlega karze pieniężnej w wysokości do 500 000 zł.
+- **7)** wbrew obowiązkom określonym w art. 10 ust. 12 rozporządzenia 2017/745 lub art. 10 ust. 11 rozporządzenia 2017/746, nie podejmuje działań korygujących lub nie informuje właściwych organów państw członkowskich, jednostki notyfikowanej, upoważnionych przedstawicieli, importerów lub dystrybutorów o tych działaniach podlega karze pieniężnej w wysokości do 500 000 zł.
 
 2. Producent wyrobu wykonanego na zamówienie, który, wbrew obowiązkowi określonemu w art. 10 ust. 5 rozporządzenia 2017/745, nie aktualizuje dokumentacji lub nie przechowuje jej do dyspozycji właściwych organów, podlega karze pieniężnej w wysokości do 100 000 zł.
 
@@ -996,20 +1030,20 @@ Art. 105–136. (pominięte)
 1. Importer, który:
 
 - **1)** nie dopełnił obowiązków informacyjnych, o których mowa w art. 13 ust. 2 akapit drugi rozporządzenia 2017/745 lub art. 13 ust. 2 akapit drugi rozporządzenia 2017/746,
-- **2)** wbrew obowiązkowi określonemu w art. 13 ust. 3 rozporządzenia 2017/745 lub art. 13 ust. 3 rozporządzenia 2017/746:
-    - **a)** nie podaje na wyrobie lub jego opakowaniu lub dokumencie towarzyszącym wyrobowi: – imienia i nazwiska lub nazwy, – zarejestrowanej nazwy handlowej lub zarejestrowanego znaku towarowego, – zarejestrowanego miejsca prowadzenia działalności lub adresu, pod którym można się z nim skontaktować, tak aby można było ustalić miejsce jego przebywania lub
-    - **b)** zamieszcza etykiety w sposób utrudniający odczytanie informacji umieszczonej na etykiecie przez producenta,
+- **2)** wbrew obowiązkowi określonemu w art. 13 ust. 3 rozporządzenia 2017/745 lub art. 13 ust. 3 rozporządzenia 2017/746: nie podaje na wyrobie lub jego opakowaniu lub dokumencie towarzyszącym wyrobowi: – imienia i nazwiska lub nazwy, – zarejestrowanej nazwy handlowej lub zarejestrowanego znaku towarowego, – zarejestrowanego miejsca prowadzenia działalności lub adresu, pod którym można się z nim skontaktować, tak aby można było ustalić miejsce jego przebywania lub zamieszcza etykiety w sposób utrudniający odczytanie informacji umieszczonej na etykiecie przez producenta,
+    - **a)**
+    - **b)**
 
 - **3)** nie dodał swoich danych do rejestracji, wbrew obowiązkowi określonemu w art. 13 ust. 4 rozporządzenia 2017/745 lub art. 13 ust. 4 rozporządzenia 2017/746,
 - **4)** nie zapewnia, aby w czasie gdy jest odpowiedzialny za wyrób, warunki przechowywania lub transportu nie zagrażały zgodności wyrobu z ogólnymi wymogami dotyczącymi bezpieczeństwa i działania określonymi w załączniku I do rozporządzenia 2017/745 lub załączniku I do rozporządzenia 2017/746 i spełniały warunki ustanowione przez producenta, wbrew obowiązkowi określonemu w art. 13 ust. 5 rozporządzenia 2017/745 lub art. 13 ust. 5 rozporządzenia 2017/746,
 - **5)** nie powiadamia niezwłocznie producenta oraz jego upoważnionego przedstawiciela o niezgodności wyrobu z rozporządzeniem 2017/745 lub rozporządzeniem 2017/746 lub nie współpracuje z producentem, jego upoważnionym przedstawicielem oraz właściwymi organami w celu zapewnienia, aby zostało podjęte niezbędne działanie korygujące, wbrew obowiązkom określonym w art. 13 ust. 7 zdanie pierwsze lub zdanie drugie rozporządzenia 2017/745 lub art. 13 ust. 7 zdanie pierwsze lub zdanie drugie rozporządzenia 2017/746,
-- **6)** wbrew obowiązkom określonym w art. 13 ust. 7 zdanie trzecie rozporządzenia 2017/745 lub art. 13 ust. 7 zdanie trzecie rozporządzenia 2017/746, nie powiadomił niezwłocznie, w przypadku stanowienia przez wyrób poważnego zagrożenia, właściwego organu państwa członkowskiego, w którym udostępnił ten wyrób oraz jednostki notyfikowanej, która wydała dla danego wyrobu certyfikat zgodności, jeżeli taki certyfikat został wydany – podlega karze pieniężnej w wysokości do 250 000 zł.
+- **6)** wbrew obowiązkom określonym w art. 13 ust. 7 zdanie trzecie rozporządzenia 2017/745 lub art. 13 ust. 7 zdanie trzecie rozporządzenia 2017/746, nie powiadomił niezwłocznie, w przypadku stanowienia przez wyrób poważnego zagrożenia, właściwego organu państwa członkowskiego, w którym udostępnił ten wyrób oraz jednostki notyfikowanej, która wydała dla danego wyrobu certyfikat zgodności, jeżeli taki certyfikat został wydany podlega karze pieniężnej w wysokości do 250 000 zł.
 
 2. Importer, który:
 
 - **1)** otrzymał skargę lub zgłoszenie pochodzące od osób wykonujących zawody medyczne, pacjentów lub użytkowników, dotyczące podejrzewanych incydentów związanych z wyrobem, który wprowadził do obrotu, i wbrew obowiązkom określonym w art. 13 ust. 8 rozporządzenia 2017/745 lub art. 13 ust. 8 rozporządzenia 2017/746 nie przekazał niezwłocznie tych informacji producentowi oraz jego upoważnionemu przedstawicielowi,
 - **2)** nie przechowuje dokumentów, o których mowa w art. 13 ust. 9 rozporządzenia 2017/745 lub art. 13 ust. 9 rozporządzenia 2017/746,
-- **3)** nie współpracuje z Prezesem Urzędu lub nie wykonuje obowiązków wynikających z art. 13 ust. 10 rozporządzenia 2017/745 lub art. 13 ust. 10 rozporządzenia 2017/746 – podlega karze pieniężnej w wysokości do 50 000 zł.
+- **3)** nie współpracuje z Prezesem Urzędu lub nie wykonuje obowiązków wynikających z art. 13 ust. 10 rozporządzenia 2017/745 lub art. 13 ust. 10 rozporządzenia 2017/746 podlega karze pieniężnej w wysokości do 50 000 zł.
 
 **Art. 78.**
 
@@ -1018,12 +1052,12 @@ Art. 105–136. (pominięte)
 - **1)** udostępnia na rynku wyrób, który nie spełnia wymogów, o których mowa w art. 14 ust. 2 rozporządzenia 2017/745 lub art. 14 ust. 2 rozporządzenia 2017/746,
 - **2)** nie dopełnił obowiązków informacyjnych wynikających z art. 14 ust. 2 akapit trzeci rozporządzenia 2017/745 lub art. 14 ust. 2 akapit trzeci rozporządzenia 2017/746,
 - **3)** nie zapewnia warunków przechowywania lub transportu, o których mowa w art. 14 ust. 3 rozporządzenia 2017/745 lub art. 14 ust. 3 rozporządzenia 2017/746,
-- **4)** wbrew obowiązkom określonym w art. 14 ust. 4 rozporządzenia 2017/745 lub art. 14 ust. 4 rozporządzenia 2017/746, nie powiadomił niezwłocznie producenta, jego upoważnionego przedstawiciela, jeżeli został wyznaczony, importera oraz właściwych organów państw członkowskich, w których udostępnił wyrób, że wyrób stwarza poważne ryzyko lub nie współpracuje z producentem, jego upoważnionym przedstawicielem, jeżeli został wyznaczony, importerem lub z właściwymi organami – podlega karze pieniężnej w wysokości do 250 000 zł.
+- **4)** wbrew obowiązkom określonym w art. 14 ust. 4 rozporządzenia 2017/745 lub art. 14 ust. 4 rozporządzenia 2017/746, nie powiadomił niezwłocznie producenta, jego upoważnionego przedstawiciela, jeżeli został wyznaczony, importera oraz właściwych organów państw członkowskich, w których udostępnił wyrób, że wyrób stwarza poważne ryzyko lub nie współpracuje z producentem, jego upoważnionym przedstawicielem, jeżeli został wyznaczony, importerem lub z właściwymi organami podlega karze pieniężnej w wysokości do 250 000 zł.
 
 2. Dystrybutor, który:
 
 - **1)** otrzymał skargę lub zgłoszenie pochodzące od osób wykonujących zawody medyczne, pacjentów lub użytkowników, dotyczące podejrzewanych incydentów związanych z wyrobem, który wprowadził do obrotu, i wbrew obowiązkom określonym w art. 14 ust. 5 rozporządzenia 2017/745 lub art. 14 ust. 5 rozporządzenia 2017/746 nie przekazał niezwłocznie tych informacji producentowi, jego upoważnionemu przedstawicielowi oraz importerowi,
-- **2)** nie udziela informacji na żądanie Prezesa Urzędu lub nie współpracuje z Prezesem Urzędu, wbrew obowiązkowi określonemu w art. 14 ust. 6 rozporządzenia 2017/745 lub art. 14 ust. 6 rozporządzenia 2017/746 – podlega karze pieniężnej w wysokości do 50 000 zł.
+- **2)** nie udziela informacji na żądanie Prezesa Urzędu lub nie współpracuje z Prezesem Urzędu, wbrew obowiązkowi określonemu w art. 14 ust. 6 rozporządzenia 2017/745 lub art. 14 ust. 6 rozporządzenia 2017/746 podlega karze pieniężnej w wysokości do 50 000 zł.
 
 **Art. 79.**
 
@@ -1031,7 +1065,7 @@ Art. 105–136. (pominięte)
 
 - **1)** nie wypełnia obowiązków w zakresie zamieszczania informacji zgodnie z art. 16 ust. 3 akapit pierwszy rozporządzenia 2017/745 lub art. 16 ust. 3 akapit pierwszy rozporządzenia 2017/746 lub
 - **2)** nie wprowadza systemu zarządzania jakością obejmującego procedury określone w art. 16 ust. 3 akapit drugi rozporządzenia 2017/745 lub art. 16 ust. 3 akapit drugi rozporządzenia 2017/746, lub
-- **3)** nie powiadamia producenta lub właściwego organu państwa członkowskiego, w którym planuje udostępnić wyrób, o swoim zamiarze udostępnienia ponownie oznakowanego lub przepakowanego wyrobu lub na żądanie producenta lub właściwego organu nie przekazuje próbki lub modelu ponownie oznakowanego lub przepakowanego wyrobu, w tym wszelkich przetłumaczonych etykiet i instrukcji, lub nie składa właściwemu organowi certyfikatu wydanego przez jednostkę notyfikowaną, wbrew obowiązkom określonym w art. 16 ust. 4 rozporządzenia 2017/745 lub art. 16 ust. 4 rozporządzenia 2017/746 – podlega karze pieniężnej w wysokości do 30 000 zł.
+- **3)** nie powiadamia producenta lub właściwego organu państwa członkowskiego, w którym planuje udostępnić wyrób, o swoim zamiarze udostępnienia ponownie oznakowanego lub przepakowanego wyrobu lub na żądanie producenta lub właściwego organu nie przekazuje próbki lub modelu ponownie oznakowanego lub przepakowanego wyrobu, w tym wszelkich przetłumaczonych etykiet i instrukcji, lub nie składa właściwemu organowi certyfikatu wydanego przez jednostkę notyfikowaną, wbrew obowiązkom określonym w art. 16 ust. 4 rozporządzenia 2017/745 lub art. 16 ust. 4 rozporządzenia 2017/746 podlega karze pieniężnej w wysokości do 30 000 zł.
 
 2. W przypadku gdy mimo wcześniejszego ukarania importer lub dystrybutor nie wypełnia obowiązków określonych w art. 16 ust. 3 lub 4 rozporządzenia 2017/745 lub art. 16 ust. 3 lub 4 rozporządzenia 2017/746, karę pieniężną wymierza się w wysokości do 250 000 zł.
 
@@ -1040,7 +1074,7 @@ Art. 105–136. (pominięte)
 1. Kto:
 
 - **1)** wprowadza do obrotu regenerowany wyrób w sposób sprzeczny z art. 17 ust. 6 lub 7 rozporządzenia 2017/745 lub
-- **2)** nie podaje na etykiecie oraz w instrukcji używania, jeżeli jest dołączana, wyrobu poddanego regeneracji, informacji, o których mowa w art. 17 ust. 8 rozporządzenia 2017/745 – podlega karze pieniężnej w wysokości do 500 000 zł.
+- **2)** nie podaje na etykiecie oraz w instrukcji używania, jeżeli jest dołączana, wyrobu poddanego regeneracji, informacji, o których mowa w art. 17 ust. 8 rozporządzenia 2017/745 podlega karze pieniężnej w wysokości do 500 000 zł.
 
 2. Tej samej karze podlega, kto, wbrew zakazowi określonemu w art. 17 ust. 2, udostępnia wyrób jednorazowego użytku poddany regeneracji lub dalej go używa.
 
@@ -1052,7 +1086,7 @@ Art. 105–136. (pominięte)
 
 2. Kto, wbrew obowiązkom określonym w art. 23 ust. 1 zdanie pierwsze rozporządzenia 2017/745 lub art. 20 ust. 1 zdanie pierwsze rozporządzenia 2017/746, nie zapewnia, aby udostępniony przez niego artykuł przeznaczony specjalnie do zastąpienia identycznej lub podobnej integralnej części lub identycznego lub podobnego integralnego elementu wyrobu wadliwego lub zużytego w celu zachowania lub przywrócenia funkcjonowania tego wyrobu nie wywierał niepożądanego oddziaływania na bezpieczeństwo i działanie wyrobu, lub nie przechowuje dowodów, o których mowa w art. 23 ust. 1 zdanie drugie rozporządzenia 2017/745 lub art. 20 ust. 1 zdanie drugie rozporządzenia 2017/746, do dyspozycji właściwych organów państw członkowskich, podlega karze pieniężnej w wysokości do 50 000 zł.
 
-3. Kto, wbrew obowiązkom określonym w art. 25 ust. 2 rozporządzenia 2017/745 lub art. 22 ust. 2 rozporządzenia 2017/746, nie wskazuje Prezesowi Urzędu podmiotów i osób, o których mowa w art. 25 ust. 2 lit. a–c rozporządzenia 2017/745 lub art. 22 ust. 2 lit. a–c rozporządzenia 2017/746, podlega karze pieniężnej w wysokości do 50 000 zł.
+3. Kto, wbrew obowiązkom określonym w art. 25 ust. 2 rozporządzenia 2017/745 lub art. 22 ust. 2 rozporządzenia 2017/746, nie wskazuje Prezesowi Urzędu podmiotów i osób, o których mowa w art. 25 ust. 2 lit. a-c rozporządzenia 2017/745 lub art. 22 ust. 2 lit. a-c rozporządzenia 2017/746, podlega karze pieniężnej w wysokości do 50 000 zł.
 
 **Art. 83.**
 
@@ -1085,7 +1119,7 @@ Art. 105–136. (pominięte)
 1. Kto prowadzi:
 
 - **1)** badanie kliniczne niezgodnie z wymogami określonymi w art. 62 lub załączniku XV do rozporządzenia 2017/745 lub
-- **2)** badanie działania niezgodnie z wymogami określonymi w art. 57 lub art. 58 lub załącznikach XIII lub XIV do rozporządzenia 2017/746 – podlega karze pieniężnej w wysokości do 500 000 zł.
+- **2)** badanie działania niezgodnie z wymogami określonymi w art. 57 lub art. 58 lub załącznikach XIII lub XIV do rozporządzenia 2017/746 podlega karze pieniężnej w wysokości do 500 000 zł.
 
 2. Kto, wbrew obowiązkowi określonemu w art. 75 ust. 1 rozporządzenia 2017/745 lub art. 71 ust. 1 rozporządzenia 2017/746, nie powiadamia Prezesa Urzędu o zmianach w badaniu klinicznym lub badaniu działania, podlega karze pieniężnej w wysokości do 250 000 zł.
 
@@ -1094,7 +1128,7 @@ Art. 105–136. (pominięte)
 1. Kto, wbrew obowiązkowi określonemu w art. 77 ust. 1 zdanie pierwsze rozporządzenia 2017/745 lub art. 73 ust. 1 zdanie pierwsze rozporządzenia 2017/746, w terminie 15 dni od dnia wstrzymania badania klinicznego lub wcześniejszego zakończenia badania klinicznego lub wstrzymania badania działania lub wcześniejszego zakończenia badania działania, prowadzonego na terytorium Rzeczypospolitej Polskiej, nie powiadomił Prezesa Urzędu o:
 
 - **1)** wstrzymaniu badania klinicznego lub wcześniejszym zakończeniu badania klinicznego lub nie przedstawił uzasadnienia, lub
-- **2)** wstrzymaniu badania działania lub wcześniejszym zakończeniu badania działania – podlega karze pieniężnej w wysokości do 50 000 zł.
+- **2)** wstrzymaniu badania działania lub wcześniejszym zakończeniu badania działania podlega karze pieniężnej w wysokości do 50 000 zł.
 
 2. Kto, wbrew obowiązkowi określonemu w art. 77 ust. 1 zdanie drugie rozporządzenia 2017/745 lub art. 73 ust. 1 zdanie drugie rozporządzenia 2017/746, nie powiadomił Prezesa Urzędu o wstrzymaniu badania klinicznego lub wcześniejszym zakończeniu badania klinicznego lub o wstrzymaniu badania działania lub wcześniejszym zakończeniu badania działania, prowadzonego na terytorium Rzeczypospolitej Polskiej, ze względów bezpieczeństwa, w ciągu 24 godzin od momentu wstrzymania badania klinicznego lub wcześniejszego zakończenia badania klinicznego lub wstrzymania badania działania lub wcześniejszego zakończenia badania działania, podlega karze pieniężnej w wysokości do 100 000 zł.
 
@@ -1116,9 +1150,9 @@ Art. 105–136. (pominięte)
 
 2. W przypadku gdy pomimo wcześniejszego ukarania usługodawca, o którym mowa w ust. 1, nie udostępnia danych, o których mowa w art. 7, dotyczących wyrobów, systemów lub zestawów zabiegowych, a także usług świadczonych za ich pomocą, oferowanych lub świadczonych drogą elektroniczną w rozumieniu art. 2 pkt 4 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną oraz podmiotów i osób oferujących takie wyroby, systemy, zestawy zabiegowe lub usługi, karę pieniężną wymierza się w wysokości do 250 000 zł.
 
-3. Kto oferuje do używania wyrób, który nie spełnia wymogów dotyczących bezpieczeństwa i działania określonych odpowiednio w załączniku I do rozporządzenia 2017/745 lub załączniku I do rozporządzenia 2017/746 lub co do którego nie przeprowadzono oceny zgodności wyrobu zgodnie z mającymi zastosowanie procedurami oceny zgodności określonymi odpowiednio w załącznikach IX–XI do rozporządzenia 2017/745 lub załącznikach IX–XI do rozporządzenia 2017/746, za pomocą usług społeczeństwa informacyjnego, osobie fizycznej lub prawnej mającej miejsce zamieszkania lub siedzibę w państwie członkowskim, podlega karze pieniężnej w wysokości do 250 000 zł.
+3. Kto oferuje do używania wyrób, który nie spełnia wymogów dotyczących bezpieczeństwa i działania określonych odpowiednio w załączniku I do rozporządzenia 2017/745 lub załączniku I do rozporządzenia 2017/746 lub co do którego nie przeprowadzono oceny zgodności wyrobu zgodnie z mającymi zastosowanie procedurami oceny zgodności określonymi odpowiednio w załącznikach IX-XI do rozporządzenia 2017/745 lub załącznikach IX-XI do rozporządzenia 2017/746, za pomocą usług społeczeństwa informacyjnego, osobie fizycznej lub prawnej mającej miejsce zamieszkania lub siedzibę w państwie członkowskim, podlega karze pieniężnej w wysokości do 250 000 zł.
 
-4. Kto w ramach działalności gospodarczej lub zawodowej używa wyrobu, który nie spełnia wymogów dotyczących bezpieczeństwa i działania określonych odpowiednio w załączniku I do rozporządzenia 2017/745 lub załączniku I do rozporządzenia 2017/746 lub co do którego nie przeprowadzono oceny zgodności wyrobu zgodnie z mającymi zastosowanie procedurami oceny zgodności określonymi odpowiednio w załącznikach IX–XI do rozporządzenia 2017/745 lub załącznikach IX–XI do rozporządzenia 2017/746, i którego nie wprowadzono do obrotu, w celu świadczenia usług oferowanych za pomocą usług społeczeństwa informacyjnego lub za pomocą innych środków komunikacji – bezpośrednio lub przy udziale pośredników – osobie fizycznej lub prawnej mającej miejsce zamieszkania lub siedzibę w państwie członkowskim, podlega karze pieniężnej w wysokości do 250 000 zł.
+4. Kto w ramach działalności gospodarczej lub zawodowej używa wyrobu, który nie spełnia wymogów dotyczących bezpieczeństwa i działania określonych odpowiednio w załączniku I do rozporządzenia 2017/745 lub załączniku I do rozporządzenia 2017/746 lub co do którego nie przeprowadzono oceny zgodności wyrobu zgodnie z mającymi zastosowanie procedurami oceny zgodności określonymi odpowiednio w załącznikach IX-XI do rozporządzenia 2017/745 lub załącznikach IX-XI do rozporządzenia 2017/746, i którego nie wprowadzono do obrotu, w celu świadczenia usług oferowanych za pomocą usług społeczeństwa informacyjnego lub za pomocą innych środków komunikacji – bezpośrednio lub przy udziale pośredników – osobie fizycznej lub prawnej mającej miejsce zamieszkania lub siedzibę w państwie członkowskim, podlega karze pieniężnej w wysokości do 250 000 zł.
 
 5. Kto, wbrew obowiązkowi określonemu w art. 6 ust. 3 rozporządzenia 2017/745 lub art. 6 ust. 3 rozporządzenia 2017/746, nie udostępnia na żądanie Prezesa Urzędu kopii deklaracji zgodności UE dla danego wyrobu, podlega karze pieniężnej w wysokości do 30 000 zł.
 
@@ -1166,18 +1200,274 @@ Art. 105–136. (pominięte)
 
 1. Wysokość kary pieniężnej, o której mowa w art. 74, art. 75 ust. 1 pkt 1–3 i 5–7, art. 77 ust. 1 pkt 4–6 i ust. 2 pkt 1 i 3, art. 78, art. 81, art. 82 ust. 1 i 2, art. 86, art. 88 ust. 1, art. 92–94, art. 96–98 lub art. 103, nie może przekroczyć:
 
-- **1)** 10 % maksymalnego wymiaru kary za dany czyn, jeżeli naruszenie będące podstawą nałożenia kary nie mogło powodować zagrożenia życia lub zdrowia użytkowników lub pacjentów;
-- **2)** 50 % maksymalnego wymiaru kary za dany czyn, jeżeli kara pieniężna ma zostać nałożona na tej samej podstawie, w związku z ponownym niewypełnieniem obowiązków, a naruszenie będące podstawą nałożenia kary nie mogło powodować zagrożenia życia lub zdrowia użytkowników lub pacjentów.
+- **1)** 10% maksymalnego wymiaru kary za dany czyn, jeżeli naruszenie będące podstawą nałożenia kary nie mogło powodować zagrożenia życia lub zdrowia użytkowników lub pacjentów;
+- **2)** 50% maksymalnego wymiaru kary za dany czyn, jeżeli kara pieniężna ma zostać nałożona na tej samej podstawie, w związku z ponownym niewypełnieniem obowiązków, a naruszenie będące podstawą nałożenia kary nie mogło powodować zagrożenia życia lub zdrowia użytkowników lub pacjentów.
 
-2. Organ może odstąpić od wymierzenia kar pieniężnych, o których mowa w niniejszym rozdziale, jeżeli zdarzenie miało charakter incydentalny, nie stwarzało ryzyka, a podmiot, najpóźniej w terminie wskazanym przez Prezesa Urzędu, przy prowadzeniu czynności, w trakcie których stwierdzono uchybienie prawa, podjął działania w celu jego usunięcia i poinformował Prezesa Urzędu o podjęciu tych działań.
+2. Organ może odstąpić od wymierzenia kar pieniężnych, o których mowa w niniejszym rozdziale, jeżeli zdarzenie miało charakter incydentalny, nie stwarzało ryzyka, a podmiot, najpóźniej w terminie wskazanym odpowiednio przez Prezesa Urzędu, ministra właściwego do spraw zdrowia albo Głównego Inspektora Sanitarnego, przy prowadzeniu czynności, w trakcie których stwierdzono uchybienie prawa, podjął działania w celu jego usunięcia i poinformował właściwy organ o podjęciu tych działań.
 
-3. Kary pieniężne, o których mowa w art. 74–103, nakłada, w drodze decyzji administracyjnej, Prezes Urzędu.
+3. Kary pieniężne, o których mowa w art. 74–103, nakłada, w drodze decyzji administracyjnej, Prezes Urzędu, z wyjątkiem kary pieniężnej, o której mowa w art. 103 ust. 2 w zakresie art. 58 ust. 2, którą nakłada, w drodze decyzji administracyjnej, odpowiednio minister właściwy do spraw zdrowia lub Główny Inspektor Sanitarny.
 
-4. Kary pieniężne są uiszczane na rachunek bankowy Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych.
+4. Kary pieniężne są uiszczane odpowiednio na rachunek bankowy Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, rachunek bankowy urzędu obsługującego ministra właściwego do spraw zdrowia albo Głównego Inspektoratu Sanitarnego.
 
 5. Karę pieniężną uiszcza się w terminie 14 dni od dnia, w którym decyzja stała się ostateczna.
 
 #### Rozdział 17 Zmiany w przepisach
+
+**Art. 105.** W ustawie z dnia 20 lipca 1950 r. o zawodzie felczera (Dz. U. z 2021 r. poz. 742) w art. 4 w ust. 1 wyrazy „wyroby medyczne, wyroby medyczne do diagnostyki in vitro, wyposażenie wyrobów medycznych, wyposażenie wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2020 r. poz. 186 i 1493 oraz z 2021 r. poz. 255)” zastępuje się wyrazami „wyroby medyczne, wyposażenie wyrobów medycznych, systemy i zestawy zabiegowe, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.) , oraz wyroby do samokontroli i pojemniki na próbki, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.) ”.
+
+**Art. 106.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.) w art. 829:
+
+- **1)** w pkt 8 skreśla się wyrazy „oraz niezbędne do jego funkcjonowania wyroby medyczne w rozumieniu przepisów ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2021 r. poz. 1565)”;
+- **2)** po pkt 8 dodaje się pkt 81 w brzmieniu: „
+- **81)** niezbędne do funkcjonowania podmiotu leczniczego w rozumieniu przepisów o działalności leczniczej wyroby medyczne, wyposażenie wyrobów medycznych, systemy i zestawy zabiegowe, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.), oraz wyroby medyczne do diagnostyki in vitro i wyposażenie wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.); ” .
+
+**Art. 107.** W ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2020 r. poz. 685) wprowadza się następujące zmiany:
+
+- **1)** w art. 10 w ust. 2 wyrazy „wyroby, o których mowa w ustawie z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2020 r. poz. 186)” zastępuje się wyrazami „wyroby medyczne, wyposażenie wyrobów medycznych, systemy i zestawy zabiegowe, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.) , zwanego dalej „rozporządzeniem 2017/745”, oraz wyroby medyczne do diagnostyki in vitro i wyposażenie wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.), zwanego dalej „rozporządzeniem 2017/746” ”;
+- **2)** w art. 10c w ust. 2: pkt 3 otrzymuje brzmienie: „
+    - **a)**
+
+- **3)** właścicielem lub pracownikiem apteki, hurtowni farmaceutycznej lub wytwórcą produktu leczniczego lub producentem wyrobu medycznego lub wyposażenia wyrobu medycznego, w rozumieniu przepisów rozporządzenia 2017/745, lub podmiotem zestawiającym system lub zestaw zabiegowy lub sterylizującym zestaw lub system zabiegowy, w rozumieniu przepisów rozporządzenia 2017/745, lub producentem wyrobu medycznego do diagnostyki in vitro lub wyposażenia wyrobu medycznego do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia 2017/746; ” , w pkt 4 wyrazy „wyroby medyczne” zastępuje się wyrazami „wyroby medyczne lub wyposażenie wyrobu medycznego, w rozumieniu przepisów rozporządzenia 2017/745, lub wyroby medyczne do diagnostyki in vitro lub wyposażenie wyrobu medycznego do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia 2017/746”.
+    - **b)**
+
+**Art. 108.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2021 r. poz. 790, 1559 i 2232 oraz z 2022 r. poz. 583, 655 i 830) wprowadza się następujące zmiany:
+
+- **1)** w art. 45 w ust. 1 wyrazy „wyroby medyczne, wyposażenie wyrobów medycznych, wyroby medyczne do diagnostyki in vitro, wyposażenie wyrobów medycznych do diagnostyki in vitro oraz aktywne wyroby medyczne do implantacji, w rozumieniu przepisów ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2020 r. poz. 186 i 1493 oraz z 2021 r. poz. 255)” zastępuje się wyrazami „wyroby medyczne, wyposażenie wyrobów medycznych, systemy i zestawy zabiegowe, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.) , zwanego dalej „rozporządzeniem 2017/745”, oraz wyroby do samokontroli i pojemniki na próbki, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.), zwanego dalej „rozporządzeniem 2017/746” „;
+- **2)** w art. 46: w ust. 1 wyrazy „wyrobów medycznych, wyposażenia wyrobów medycznych, wyrobów medycznych do diagnostyki in vitro, wyposażenia wyrobów medycznych do diagnostyki in vitro, aktywnych wyrobów medycznych do implantacji, w rozumieniu przepisów ustawy z dnia 20 maja 2010 r. o wyrobach medycznych” zastępuje się wyrazami „wyrobów medycznych, wyposażenia wyrobów medycznych, systemów i zestawów zabiegowych, w rozumieniu przepisów rozporządzenia 2017/745, oraz wyrobów medycznych do diagnostyki in vitro i wyposażenia wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia 2017/746”, w ust. 2 wyrazy „wyrób medyczny, wyposażenie wyrobu medycznego, wyrób medyczny do diagnostyki in vitro, wyposażenie wyrobu medycznego do diagnostyki in vitro lub aktywny wyrób medyczny do implantacji, w rozumieniu przepisów ustawy z dnia 20 maja 2010 r. o wyrobach medycznych” zastępuje się wyrazami „wyrób medyczny, wyposażenie wyrobu medycznego, system lub zestaw zabiegowy, w rozumieniu przepisów rozporządzenia 2017/745, lub wyrób medyczny do diagnostyki in vitro lub wyposażenie wyrobu medycznego do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia 2017/746”, ust. 3 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+3. Przepisu ust. 1 nie stosuje się do wyrobów wykonanych na zamówienie w rozumieniu art. 2 pkt 3 rozporządzenia 2017/745. ” .
+
+**Art. 109.** W ustawie z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. z 2021 r. poz. 1749) wprowadza się następujące zmiany:
+
+- **1)** art. 2 otrzymuje brzmienie: „ Krew i jej składniki są pobierane, na zasadach określonych w ustawie, w celach leczniczych do przetoczenia biorcy krwi, przetworzenia w produkty krwiopochodne, o których mowa w ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2021 r. poz. 1977 i 2120 oraz z 2022 r. poz. 830), lub jako materiał wyjściowy do produkcji wyrobów medycznych, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.), oraz rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.), zwanych dalej „wyrobami medycznymi”. ” ;
+- **2)** w art. 5 pkt 13 otrzymuje brzmienie: „
+- **13)** pobranie allogeniczne – pobranie krwi lub jej składników od jednej osoby z przeznaczeniem do przetoczenia wyłącznie innej osobie, wykorzystania w wyrobach medycznych albo jako materiał wyjściowy do wytwarzania produktów krwiopochodnych; ” .
+
+**Art. 110.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, z późn. zm.) w art. 299 w § 3 po pkt 16 dodaje się pkt 16a w brzmieniu: „
+
+- **16a)** Prezesowi Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych – w zakresie realizacji zadań, o których mowa w art. 50 oraz art. 64 ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974); ” .
+
+**Art. 111.** W ustawie z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2021 r. poz. 1941) wprowadza się następujące zmiany:
+
+- **1)** w art. 4 w ust. 1 w pkt 12 lit. b otrzymuje brzmienie: „ wyrobów medycznych i wyposażenia wyrobów medycznych, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.), a także produktów wymienionych w załączniku XVI do tego rozporządzenia, oraz wyrobów medycznych do diagnostyki in vitro i wyposażenia wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.), ” ;
+    - **b)**
+
+- **2)** w art. 33z: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Eksperyment medyczny, badanie kliniczne produktu leczniczego i badanie kliniczne lub badanie działania wyrobu, o którym mowa w art. 4 ust. 1 pkt 12 lit. b, związane z ekspozycją medyczną, poza wymaganiami określonymi w przepisach ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2021 r. poz. 790, z późn. zm.) lub ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne albo ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974), mogą być przeprowadzone, jeżeli: ” , w ust. 2 we wprowadzeniu do wyliczenia oraz w pkt 2, w ust. 3 i w ust. 4 we wprowadzeniu do wyliczenia wyrazy „badaniu klinicznym wyrobu medycznego” zastępuje się wyrazami „badaniu klinicznym lub badaniu działania wyrobu, o którym mowa w art. 4 ust. 1 pkt 12 lit. b”, w ust. 4 w pkt 2 i 4 wyrazy „badania klinicznego” zastępuje się wyrazami „badania klinicznego lub badania działania”;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **3)** w art. 33zd w ust. 1: w pkt 2 wyrazy „badaniach klinicznych wyrobów medycznych” zastępuje się wyrazami „badaniach klinicznych lub badaniach działania wyrobów, o których mowa w art. 4 ust. 1 pkt 12 lit. b”, w pkt 3 wyrazy „badań klinicznych wyrobów medycznych” zastępuje się wyrazami „badań klinicznych lub badań działania wyrobów, o których mowa w art. 4 ust. 1 pkt 12 lit. b”;
+    - **a)**
+    - **b)**
+
+- **4)** w załączniku nr 5 do ustawy: w ust. 3 pkt 5 otrzymuje brzmienie: „
+    - **a)**
+
+- **5)** zamierzone podawanie substancji promieniotwórczych ludziom i zwierzętom w celu medycznej lub weterynaryjnej diagnostyki, leczenia lub badań naukowych oraz zamierzone dodawanie substancji promieniotwórczych w procesie produkcyjnym wyrobów powszechnego użytku, wyrobów medycznych i wyposażenia wyrobów medycznych, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG, a także produktów wymienionych w załączniku XVI do tego rozporządzenia, oraz wyrobów medycznych do diagnostyki in vitro i wyposażenia wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE; ” , w ust. 4 pkt 5 otrzymuje brzmienie: „
+    - **b)**
+
+- **5)** obrót materiałami jądrowymi, materiałami promieniotwórczymi, źródłami promieniotwórczymi lub wypalonym paliwem jądrowym oraz obrót wyrobami powszechnego użytku, wyrobami medycznymi i wyposażeniem wyrobów medycznych, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG, a także produktami wymienionymi w załączniku XVI do tego rozporządzenia, oraz wyrobami medycznymi do diagnostyki in vitro i wyposażeniem wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE, do których w procesie produkcyjnym dodano substancje promieniotwórcze, oraz przywóz na terytorium Rzeczypospolitej Polskiej i wywóz z tego terytorium tych wyrobów; ” .
+
+**Art. 112.** W ustawie z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej (Dz. U. z 2022 r. poz. 134) po art. 1a dodaje się art. 1b w brzmieniu: „ 1. Laboratorium, które wykonuje badanie genetyczne, jest obowiązane zapewnić, aby pacjent poddawany badaniu genetycznemu albo jego przedstawiciel ustawowy otrzymał informacje dotyczące charakteru, znaczenia oraz konsekwencji badania genetycznego. 2. Laboratorium, o którym mowa w ust. 1, jest obowiązane zapewnić doradztwo w przypadku wykonywania badań genetycznych dostarczających informacji o genetycznych predyspozycjach do schorzeń lub chorób, które zgodnie z aktualnym stanem wiedzy naukowej i technologii są powszechnie uznawane za nieuleczalne. 3. Jeżeli badanie, o którym mowa w ust. 1, jest wykonywane na podstawie zlecenia wystawionego przez lekarza, obowiązki, o których mowa w ust. 1 i 2, wykonuje ten lekarz albo upoważniony pracownik podmiotu wykonującego działalność leczniczą, w którym ten lekarz wykonuje zawód. ” .
+
+**Art. 113.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2021 r. poz. 1977 i 2120 oraz z 2022 r. poz. 830) wprowadza się następujące zmiany:
+
+- **1)** w art. 2a w ust. 1 wyrazy „wyrób medyczny, wyrób medyczny do diagnostyki in vitro, wyposażenie wyrobu medycznego, wyposażenie wyrobu medycznego do diagnostyki in vitro oraz aktywny wyrób medyczny do implantacji, w rozumieniu przepisów ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2021 r. poz. 1565)” zastępuje się wyrazami „wyrób medyczny, wyposażenie wyrobu medycznego, system i zestaw zabiegowy, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.) , zwanego dalej „rozporządzeniem 2017/745”, oraz wyrób do diagnostyki in vitro i wyposażenie wyrobu do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.)”;
+- **2)** w art. 72 w ust. 7 pkt 7 otrzymuje brzmienie: „
+- **7)** wyrobami medycznymi, wyposażeniem wyrobów medycznych, systemami i zestawami zabiegowymi, w rozumieniu przepisów rozporządzenia 2017/745, które mają zastosowanie w medycynie weterynaryjnej. ” .
+
+**Art. 114.** W ustawie z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2021 r. poz. 1344) w art. 1 ust. 2 otrzymuje brzmienie: „ 2. Przepisy ustawy stosuje się do wyrobów medycznych, o których mowa w art. 2 ust. 1 pkt 38 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2021 r. poz. 1565), wyrobów w rozumieniu art. 1 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2017/745”, oraz do wyrobów rozumieniu w art. 1 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.), zwanego dalej „rozporządzeniem 2017/746”, w zakresie, w jakim należą do rodzajów wyrobów wskazanych w art. 1 ust. 1a pkt 2, 3, 6–9 i 11, z uwzględnieniem stosowania wymagań bardziej szczegółowych w przypadkach wskazanych w art. 25 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych, art. 1 ust. 12 rozporządzenia 2017/745 oraz art. 1 ust. 6 rozporządzenia 2017/746. ” .
+
+**Art. 115.** W ustawie z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2022 r. poz. 536) wprowadza się następujące zmiany:
+
+- **1)** w art. 24 w ust. 7 w pkt 2 wyrazy „wyroby medyczne, oraz wyposażenie wyrobów medycznych, w rozumieniu przepisów ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2020 r. poz. 186 i 1493 oraz z 2021 r. poz. 255)” zastępuje się wyrazami „wyroby medyczne, wyposażenie wyrobów medycznych, systemy i zestawy zabiegowe, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.) , zwanego dalej „rozporządzeniem 2017/745”, oraz wyroby do samokontroli i pojemniki na próbki, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.), zwanego dalej „rozporządzeniem 2017/746” „;
+- **2)** w art. 67: w ust. 3 wyrazy „wyroby medyczne, oraz wyposażenie wyrobów medycznych, w rozumieniu przepisów ustawy z dnia 20 maja 2010 r. o wyrobach medycznych” zastępuje się wyrazami „wyroby medyczne, wyposażenie wyrobów medycznych, systemy i zestawy zabiegowe, w rozumieniu przepisów rozporządzenia 2017/745, oraz wyroby do samokontroli i pojemniki na próbki, w rozumieniu przepisów rozporządzenia 2017/746”, w ust. 7 w pkt 2 wyrazy „wyroby medyczne, o których mowa w ust. 3” zastępuje się wyrazami „wyroby medyczne, wyposażenie wyrobów medycznych, systemy i zestawy zabiegowe, w rozumieniu przepisów rozporządzenia 2017/745, oraz wyroby do samokontroli i pojemniki na próbki, w rozumieniu przepisów rozporządzenia 2017/746”.
+    - **a)**
+    - **b)**
+
+**Art. 116.** W ustawie z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2021 r. poz. 306) w art. 30 w ust. 2 w pkt 2 wyrazy „wyrobów medycznych w rozumieniu art. 2 pkt 38 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2020 r. poz. 186 i 1493)” zastępuje się wyrazami „wyrobów medycznych i wyposażenia wyrobów medycznych w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.) ”.
+
+**Art. 117.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931) wprowadza się następujące zmiany:
+
+- **1)** w dziale XIII po rozdziale 1a dodaje się rozdział 1b w brzmieniu: „
+
+#### Rozdział 1b Przepisy szczególne dotyczące stawki podatku dla wyrobów medycznych
+
+**Art. 145c.** Do wyrobów medycznych, o których mowa w poz. 13 załącznika nr 3 do ustawy w brzmieniu obowiązującym przed dniem wejścia w życie ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974), stawkę podatku, o której mowa w art. 41 ust. 2, stosuje się do dnia 27 maja 2025 r. Do usług napraw i konserwacji wyrobów medycznych w rozumieniu ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2021 r. poz. 1565) dopuszczonych do obrotu na terytorium Rzeczypospolitej Polskiej zgodnie z tą ustawą stosuje się stawkę podatku, o której mowa w art. 41 ust. 2. ” ;
+
+- **2)** w załączniku nr 3 do ustawy poz. 13 otrzymuje brzmienie: „ 13 bez względu na CN Wyroby medyczne, wyposażenie wyrobów medycznych, systemy i zestawy zabiegowe, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.), oraz wyroby medyczne do diagnostyki in vitro i wyposażenie wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.), dopuszczone do obrotu na terytorium Rzeczypospolitej Polskiej ”
+
+**Art. 118.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm.) w art. 5 pkt 46 otrzymuje brzmienie: „
+
+- **46)** wyroby medyczne – wyroby medyczne, wyposażenie wyrobów medycznych, systemy i zestawy zabiegowe, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.), oraz wyroby medyczne do diagnostyki in vitro i wyposażenie wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.); ” .
+
+**Art. 119.** W ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2021 r. poz. 2053 i 2459) w art. 3 w pkt 7 wyrazy „wyrobów medycznych i wyposażenia wyrobów medycznych, w rozumieniu przepisów ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2021 r. poz. 1565)” zastępuje się wyrazami „wyrobów medycznych, wyposażenia wyrobów medycznych, systemów i zestawów zabiegowych, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.) ”.
+
+**Art. 120.** W ustawie z dnia 13 kwietnia 2007 r. o kompatybilności elektromagnetycznej (Dz. U. z 2019 r. poz. 2388) w art. 5 pkt 5 otrzymuje brzmienie: „
+
+- **5)** wyrobów medycznych i wyposażenia wyrobów medycznych, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.), a także produktów wymienionych w załączniku XVI do tego rozporządzenia, oraz wyrobów medycznych do diagnostyki in vitro i wyposażenia wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.); ” .
+
+**Art. 121.** W ustawie z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia (Dz. U. z 2019 r. poz. 886) wprowadza się następujące zmiany:
+
+- **1)** w art. 8c w ust. 1 w pkt 1 w lit. b wyrazy „wyrobem medycznym” zastępuje się wyrazami „wyrobem medycznym, wyposażeniem wyrobów medycznych, systemami i zestawami zabiegowymi, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.) , lub wyrobem medycznym do diagnostyki in vitro i wyposażeniem wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.) , zwanymi dalej „wyrobami medycznymi” ”;
+- **2)** w art. 10 w ust. 1: w pkt 4a wyrazy „incydentach medycznych lub nieprawidłowościach w zakresie wyrobów medycznych, wyposażenia wyrobów medycznych, wyrobów medycznych do diagnostyki in vitro, wyposażenia wyrobów medycznych do diagnostyki in vitro, aktywnych wyrobów medycznych do implantacji oraz systemów i zestawów zabiegowych, w rozumieniu przepisów ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2019 r. poz. 175, 447 i 534)” zastępuje się wyrazami „incydentach lub nieprawidłowościach w zakresie wyrobów medycznych”, w pkt 6a wyrazy „wyrobów medycznych, wyposażenia wyrobów medycznych, wyrobów medycznych do diagnostyki in vitro, wyposażenia wyrobów medycznych do diagnostyki in vitro oraz aktywnych wyrobów medycznych do implantacji, w rozumieniu przepisów ustawy z dnia 20 maja 2010 r. o wyrobach medycznych” zastępuje się wyrazami „wyrobów medycznych”.
+    - **a)**
+    - **b)**
+
+**Art. 122.** W ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2020 r. poz. 849 oraz z 2022 r. poz. 64) wprowadza się następujące zmiany:
+
+- **1)** w art. 12 dodaje się ust. 3 w brzmieniu: „
+
+3. Pacjentowi, któremu wszczepiono wyrób medyczny, podmiot wykonujący działalność leczniczą, który wykonał implantację, jest obowiązany dostarczyć, wraz z kartą implantu, informacje, o których mowa w art. 18 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.), sporządzone w języku polskim i w postaci zapewniającej szybki dostęp do tych informacji. ” ;
+
+- **2)** w art. 67a w ust. 1 w pkt 3 wyrazy „wyrobu medycznego” zastępuje się wyrazami „wyrobu medycznego, wyposażenia wyrobu medycznego, systemu i zestawu zabiegowego, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG, lub wyrobu medycznego do diagnostyki in vitro, wyposażenia wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.) ”.
+
+**Art. 123.** W ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2021 r. poz. 2069 i 2120 oraz z 2022 r. poz. 64 i 655) wprowadza się następujące zmiany:
+
+- **1)** w art. 11 w ust. 2 w pkt 3 w lit. b wyrazy „wyrobów medycznych, wyrobów medycznych do diagnostyki in vitro, wyposażenia wyrobów medycznych, wyposażenia wyrobów medycznych do diagnostyki in vitro i aktywnych wyrobów medycznych do implantacji, w rozumieniu przepisów ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2021 r. poz. 1565)” zastępuje się wyrazami „wyrobów medycznych, wyposażenia wyrobów medycznych, systemów i zestawów zabiegowych, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.) , oraz wyrobów medycznych do diagnostyki in vitro i wyposażenia wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.) , zwanych dalej „wyrobami medycznymi” „;
+- **2)** w art. 42 w ust. 2 w pkt 3 wyrazy „wyrobów medycznych, wyrobów medycznych do diagnostyki in vitro, wyposażenia wyrobów medycznych, wyposażenia wyrobów medycznych do diagnostyki in vitro i aktywnych wyrobów medycznych do implantacji, w rozumieniu przepisów ustawy z dnia 20 maja 2010 r. o wyrobach medycznych,” zastępuje się wyrazami „wyrobów medycznych”.
+
+**Art. 124.** W ustawie z dnia 7 maja 2009 r. o towarach paczkowanych (Dz. U. z 2020 r. poz. 1442) w art. 1 w ust. 2 wyrazy „wyrobów medycznych, wyposażenia wyrobów medycznych, wyrobów medycznych do diagnostyki in vitro, wyposażenia wyrobów medycznych do diagnostyki in vitro i aktywnych wyrobów medycznych do implantacji, w rozumieniu przepisów ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2020 r. poz. 186)” zastępuje się wyrazami „wyrobów medycznych i wyposażenia wyrobów medycznych, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.) , a także produktów wymienionych w załączniku XVI do tego rozporządzenia, oraz wyrobów medycznych do diagnostyki in vitro i wyposażenia wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.) ”.
+
+**Art. 125.** W ustawie z dnia 18 marca 2011 r. o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych (Dz. U. z 2020 r. poz. 836) wprowadza się następujące zmiany:
+
+- **1)** w odnośniku nr 1 do tytułu ustawy w pkt 6 średnik zastępuje się kropką i uchyla się pkt 7 i 8;
+- **2)** do tytułu ustawy dodaje się odnośnik nr 2 w brzmieniu: „
+- **1)** rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, Dz. Urz. UE L 117 z 03.05.2019, str. 9, Dz. Urz. UE L 334 z 27.12.2019, str. 165, Dz. Urz. UE L 130 z 24.04.2020, str. 18 i Dz. Urz. UE L 241 z 08.07.2021, str. 7);
+- **2)** rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, Dz. Urz. UE L 117 z 03.05.2019, str. 11, Dz. Urz. UE L 334 z 27.12.2019, str. 167 i Dz. Urz. UE L 233 z 01.07.2021, str. 9). ” ;
+- **3)** w art. 2 w ust. 1: uchyla się pkt 3, pkt 4 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **4)** badaniami klinicznymi, w tym badaniami klinicznymi weterynaryjnymi, oraz badaniami działania – w zakresie określonym ustawą z dnia 6 września 2001 r. – Prawo farmaceutyczne, rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.) , zwanym dalej „rozporządzeniem 2017/745”, oraz rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.), zwanym dalej „rozporządzeniem 2017/746”; ” , pkt 5 i 6 otrzymują brzmienie: „
+    - **c)**
+
+- **5)** wyrobami medycznymi, wyposażeniem wyrobów medycznych, systemami i zestawami zabiegowymi, produktami niemającymi przewidzianego zastosowania medycznego, w tym ich badaniami klinicznymi, bezpieczeństwem i wprowadzaniem do obrotu i do używania oraz nadzorem nad nimi w zakresie rozporządzenia 2017/745;
+- **6)** wyrobami medycznymi do diagnostyki in vitro i wyposażeniem wyrobów medycznych do diagnostyki in vitro, w tym ich badaniami działania, bezpieczeństwem i wprowadzaniem do obrotu i do używania oraz nadzorem nad nimi, w zakresie rozporządzenia 2017/746; ” ;
+- **4)** w art. 3 w ust. 2 pkt 2 otrzymuje brzmienie: „
+- **2)** posiada wiedzę w zakresie prawa polskiego i prawa Unii Europejskiej dotyczącą produktów leczniczych, produktów biobójczych, wyrobów, o których mowa w art. 2 ust. 1 pkt 5 i 6, zwanych dalej „wyrobami”, oraz z zakresu finansów publicznych; ” ;
+- **5)** w art. 4 w ust. 1 pkt 3 otrzymuje brzmienie: „
+- **3)** prowadzenie postępowań i wykonywanie czynności w zakresie nadzoru nad wyrobami, bezpieczeństwa wyrobów oraz wprowadzania do obrotu i używania wyrobów, w szczególności: wydawanie decyzji w zakresie wyrobów, gromadzenie danych pochodzących ze zgłoszeń i powiadomień dotyczących wyrobów, weryfikacja wniosków zgodnie z art. 31 ust. 2 rozporządzenia 2017/745 oraz art. 28 ust. 2 rozporządzenia 2017/746 oraz wydawanie niepowtarzalnych numerów rejestracyjnych, prowadzenie wykazu dystrybutorów, o którym mowa w art. 21 ust. 1 ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974), gromadzenie informacji o wyrobach, systemach i zestawach zabiegowych, o których mowa w art. 22 ust. 1 tej ustawy, oraz rejestracja producentów wyrobów na zamówienie, ich upoważnionych przedstawicieli oraz importerów, o których mowa w art. 23 ust. 1 tej ustawy, sprawowanie nadzoru nad wyrobami wytwarzanymi, wprowadzanymi i wprowadzonymi do obrotu, wprowadzonymi do używania lub przekazanymi do oceny działania na terytorium Rzeczypospolitej Polskiej, wydawanie, w drodze decyzji, pozwolenia na wprowadzenie do obrotu lub do używania na terytorium Rzeczypospolitej Polskiej pojedynczych wyrobów, które są niezbędne do osiągnięcia koniecznych celów profilaktycznych, diagnostycznych lub terapeutycznych, a dla których nie zostały wykonane procedury oceny zgodności potwierdzające, że te wyroby spełniają odnoszące się do nich wymagania, sprawowanie nadzoru nad poważnymi incydentami, w rozumieniu rozporządzenia 2017/745 albo rozporządzenia 2017/746, oraz działaniami z zakresu bezpieczeństwa wyrobów, publikowanie notatek bezpieczeństwa i decyzji administracyjnych dotyczących bezpieczeństwa wyrobów, wydawanie świadectw wolnej sprzedaży, o których mowa w art. 60 rozporządzenia 2017/745 oraz art. 55 rozporządzenia 2017/746, wydawanie na wniosek organów celnych opinii w sprawie spełniania przez wyrób określonych dla niego wymagań, wydawanie pozwoleń na prowadzenie badania klinicznego lub badania działania wyrobu, oraz pozwoleń na wprowadzenie zmian w takim badaniu, dokonywanie wpisów dotyczących badań klinicznych do Centralnej Ewidencji Badań Klinicznych, gromadzenie i analizowanie informacji o poważnych zdarzeniach niepożądanych, które wystąpiły w związku z prowadzeniem badania klinicznego wyrobu medycznego lub aktywnego wyrobu medycznego do implantacji, oraz sprawozdań końcowych z wykonania takiego badania klinicznego, prowadzenie inspekcji badań klinicznych i badań działania, wydawanie na wniosek jednostek notyfikowanych opinii na temat jakości i bezpieczeństwa substancji stanowiącej integralną część wyrobu, która stosowana oddzielnie byłaby produktem leczniczym, wydawanie na wniosek jednostek notyfikowanych opinii, o których mowa w sekcji 5.4 załącznika IX do rozporządzenia 2017/745, wydawanie na wniosek jednostek notyfikowanych opinii w sprawie odpowiedniości wyrobu do diagnostyki w terapii celowanej w odniesieniu do danego produktu leczniczego, wykonywanie czynności z zakresu nadzoru, wyznaczenia, notyfikacji oraz kontroli jednostek notyfikowanych; ” ;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
+    - **k)**
+    - **l)**
+    - **m)**
+    - **n)**
+    - **o)**
+    - **p)**
+    - **q)**
+    - **r)**
+
+- **6)** w art. 7: w ust. 2 po pkt 2 dodaje się pkt 2a w brzmieniu: „
+    - **a)**
+
+- **2a)** dokonywanie oceny merytorycznej dokumentacji dotyczącej zgodności z odpowiednimi wymogami określonymi w ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne wyrobów, które są ogólnoustrojowo wchłaniane lub których produkty metabolizmu są ogólnoustrojowo wchłaniane przez organizm ludzki, w celu osiągnięcia przewidzianego zastosowania; ” , ust. 4 otrzymuje brzmienie: „
+    - **b)**
+
+4. Do zadań Komisji do Spraw Wyrobów Medycznych należy wydawanie opinii:
+
+- **1)** dotyczących jakości, skuteczności i bezpieczeństwa wyrobów;
+- **2)** dotyczących oceny zgodności, oceny klinicznej oraz oceny działania wyrobów;
+- **3)** dotyczących konieczności wykonania niezbędnych badań i ocen wyrobów;
+- **4)** na temat oznakowania, instrukcji używania, reklamy i materiałów promocyjnych dotyczących wyrobów;
+- **5)** na temat zasadności pozwolenia na wprowadzenie do obrotu lub wprowadzenie do używania na terytorium Rzeczypospolitej Polskiej wyrobów, dla których nie zostały wykonane procedury oceny zgodności potwierdzające, że te wyroby spełniają odnoszące się do nich wymagania;
+- **6)** czy produkt jest wyrobem, systemem lub zestawem zabiegowym;
+- **7)** na temat klasyfikacji wyrobów;
+- **8)** czy wyrób jest wyrobem z funkcją pomiarową;
+- **9)** na temat podjętych lub koniecznych działań dotyczących bezpieczeństwa wyrobów, w tym zewnętrznych działań korygujących dotyczących bezpieczeństwa;
+- **10)** na temat poważnych incydentów w rozumieniu art. 2 pkt 65 rozporządzenia 2017/745 i art. 2 pkt 68 rozporządzenia 2017/746;
+- **11)** na temat poważnych zdarzeń niepożądanych w rozumieniu art. 2 pkt 58 rozporządzenia 2017/745 i art. 2 pkt 61 rozporządzenia 2017/746;
+- **12)** na temat jakości i bezpieczeństwa substancji, w tym dotyczącej stosunku korzyści klinicznych do ryzyka, w przypadku wyrobu zawierającego, jako integralną część, substancję, która stosowana oddzielnie byłaby produktem leczniczym;
+- **13)** na temat badania klinicznego lub badania działania wyrobu;
+- **14)** na temat odpowiedniości wyrobu do diagnostyki w terapii celowanej w odniesieniu do danego produktu leczniczego. ” ;
+- **7)** w art. 9 w ust. 1 w pkt 1 lit. c otrzymuje brzmienie: „ są producentami lub upoważnionymi przedstawicielami w rozumieniu rozporządzenia 2017/745 albo rozporządzenia 2017/746; ” ;
+    - **c)**
+
+- **8)** po art. 9 dodaje się art. 9a w brzmieniu: „
+
+1. Osoby, o których mowa w art. 9 ust. 1, biorące udział w formalnej i merytorycznej ocenie wniosku o wydanie pozwolenia na badanie kliniczne wyrobu, o którym mowa w rozporządzeniu 2017/745, lub pozwolenia na badanie działania, o którym mowa w art. 58 ust. 1 lub art. 70 ust. 1 lub 2 rozporządzenia 2017/746, lub badanie działania wyrobu do diagnostyki w terapii celowanej, które nie jest prowadzone z wykorzystaniem wyłącznie pozostałości próbek i o którym mowa w art. 58 ust. 2 rozporządzenia 2017/746, składają oświadczenie zawierające informację o niepodleganiu niepożądanym wpływom oraz niezależności od sponsora i badaczy biorących udział w badaniu oraz osób fizycznych lub prawnych finansujących dane badanie kliniczne lub badanie działania.
+
+2. Oświadczenie, o którym mowa w ust. 1, składa się Prezesowi Urzędu, a w przypadku Prezesa Urzędu oraz Wiceprezesów Urzędu – ministrowi właściwemu do spraw zdrowia: 1) przed zawarciem umowy o pracę, umowy zlecenia, umowy o dzieło lub innej umowy o podobnym charakterze; 2) w terminie 14 dni od dnia powzięcia informacji o okolicznościach, o których mowa w ust. 1. 3. W przypadku stwierdzenia zaistnienia okoliczności, o których mowa w ust. 1, osoba składająca oświadczenie podlega wyłączeniu z postępowania albo nie uczestniczy w ocenie wniosku. 4. W przypadku naruszenia obowiązków, o których mowa w ust. 1–3, przepis art. 9 ust. 4 stosuje się odpowiednio. ” .
+
+**Art. 126.** W ustawie z dnia 1 kwietnia 2011 r. – Prawo probiercze (Dz. U. z 2020 r. poz. 1365) w art. 6 w ust. 1 pkt 4 otrzymuje brzmienie: „4) wyrobów medycznych i wyposażenia wyrobów medycznych, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.), a także produktów wymienionych w załączniku XVI do tego rozporządzenia, oraz wyrobów medycznych do diagnostyki in vitro i wyposażenia wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.);”.
+
+**Art. 127.** W ustawie z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2022 r. poz. 633 i 655) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 w ust. 1 po pkt 13 dodaje się pkt 13a w brzmieniu: „13a) wyroby medyczne – wyroby medyczne, wyposażenie wyrobów medycznych, systemy i zestawy zabiegowe, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.), oraz wyroby medyczne do diagnostyki in vitro i wyposażenie wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.);”;
+- **2)** w art. 17: w ust. 1 w pkt 2 wyrazy „złożone z wyrobów medycznych zgodnie z wymaganiami ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2020 r. poz. 186 i 1493 oraz z 2021 r. poz. 255)” zastępuje się wyrazami „zgodnie z wymaganiami ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974)”, w ust. 2 skreśla się wyrazy „w rozumieniu ustawy z dnia 20 maja 2010 r. o wyrobach medycznych”.
+    - **a)**
+    - **b)**
+
+**Art. 128.** W ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2021 r. poz. 666 i 1292 oraz z 2022 r. poz. 655 i 830) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 pkt 17 otrzymuje brzmienie: „17) wyrób medyczny – wyrób medyczny, wyposażenie wyrobu medycznego, system lub zestaw zabiegowy, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.), albo wyrób medyczny do diagnostyki in vitro lub wyposażenie wyrobu medycznego do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.);”;
+- **2)** w art. 32 w ust. 1 skreśla się wyrazy „i ustawy z dnia 20 maja 2010 r. o wyrobach medycznych”;
+- **3)** w art. 33 wyrazy „ustawy z dnia 20 maja 2010 r. o wyrobach medycznych” zastępuje się wyrazami „ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974)”.
+
+**Art. 129.** W ustawie z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2022 r. poz. 463 i 583) wprowadza się następujące zmiany:
+
+- **1)** w art. 2: pkt 27 i 28 otrzymują brzmienie: „
+    - **a)**
+
+- **27)** wnioskodawca – podmiot odpowiedzialny, przedstawiciela podmiotu odpowiedzialnego, podmiot uprawniony do importu równoległego w rozumieniu ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, podmiot gospodarczy w rozumieniu art. 2 pkt 35 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2017/745”, lub art. 2 pkt 28 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.), zwanego dalej „rozporządzeniem 2017/746”, a także podmiot działający na rynku spożywczym;
+- **28)** wyrób medyczny – wyrób medyczny, wyposażenie wyrobu medycznego, system lub zestaw zabiegowy, w rozumieniu rozporządzenia 2017/745, albo wyrób medyczny do diagnostyki in vitro lub wyposażenie wyrobu medycznego do diagnostyki in vitro, w rozumieniu rozporządzenia 2017/746. ” , uchyla się pkt 29;
+    - **b)**
+
+- **2)** w art. 10 w ust. 1 w pkt 1 wyrazy „ustawy z dnia 20 maja 2010 r. o wyrobach medycznych” zastępuje się wyrazami „rozporządzenia 2017/745 lub rozporządzenia 2017/746”;
+- **3)** w art. 12 w pkt 13 wyrazy „art. 6 ust. 1” zastępuje się wyrazami „art. 6”;
+- **4)** w art. 19 w ust. 2 w pkt 7 wyrazy „art. 6 ust. 1” zastępuje się wyrazami „art. 6”.
+
+**Art. 130.** W ustawie z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób (Dz. U. z 2021 r. poz. 1638) w art. 27 w ust. 2 wyrazy „wyroby, o których mowa w ustawie z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2020 r. poz. 186 i 1493 oraz z 2021 r. poz. 255)” zastępuje się wyrazami „wyroby medyczne, wyposażenie wyrobów medycznych, systemy i zestawy zabiegowe, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.) , oraz wyroby medyczne do diagnostyki in vitro i wyposażenie wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.) ”.
+
+**Art. 131.** W ustawie z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. z 2020 r. poz. 1893 oraz z 2021 r. poz. 2151) w art. 2 w ust. 2 pkt 10 otrzymuje brzmienie: „
+
+- **10)** wyrobów medycznych, wyposażenia wyrobów medycznych, systemów i zestawów zabiegowych, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.), a także produktów wymienionych w załączniku XVI do tego rozporządzenia, oraz wyrobów medycznych do diagnostyki in vitro i wyposażenia wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.), zwanych dalej „wyrobami medycznymi”, w przypadku gdy mogą być źródłem zakażeń przed zakończeniem okresu ich eksploatacji; ” .
+
+**Art. 132.** W ustawie z dnia 11 września 2015 r. o zdrowiu publicznym (Dz. U. z 2021 r. poz. 1956 i 2469) w art. 12b w ust. 2 pkt 1 otrzymuje brzmienie: „
+
+- **1)** będących wyrobami medycznymi w rozumieniu art. 2 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.); ” .
+
+**Art. 133.** W ustawie z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2022 r. poz. 5) w art. 1 ust. 5 otrzymuje brzmienie: „ 5. Ustawy nie stosuje się do wyrobów w rozumieniu art. 1 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.), a także wyrobów w rozumieniu art. 1 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.), z wyłączeniem:
+
+- **1)** urządzeń ciśnieniowych i zespołów urządzeń ciśnieniowych, w stosunku do których mają zastosowanie wymagania dla urządzeń ciśnieniowych i zespołów urządzeń ciśnieniowych;
+- **2)** wag nieautomatycznych, w stosunku do których mają zastosowanie wymagania dla wag nieautomatycznych;
+- **3)** urządzeń radiowych, w stosunku do których mają zastosowanie wymagania dla urządzeń radiowych. ” .
+
+**Art. 134.** W ustawie z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2021 r. poz. 162 i 2105 oraz z 2022 r. poz. 24) wprowadza się następujące zmiany:
+
+- **1)** w art. 21 uchyla się ust. 3;
+- **2)** w art. 61 w pkt 1 w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ nadzorem nad wyrobami na podstawie ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974); ” .
+    - **c)**
+
+**Art. 135.** W ustawie z dnia 10 grudnia 2020 r. o zawodzie farmaceuty (Dz. U. z 2022 r. poz. 184 i 655) wprowadza się następujące zmiany:
+
+- **1)** w art. 4: w ust. 2 w pkt 1 wyrazy „wyrobów medycznych” zastępuje się wyrazami „wyrobów medycznych, wyposażenia wyrobów medycznych, systemów i zestawów zabiegowych, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.) , oraz wyrobów medycznych do diagnostyki in vitro i wyposażenia wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm.) , zwanych dalej „wyrobami medycznymi” „, w ust. 3 pkt 1 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **1)** wydawanie z apteki lub punktu aptecznego produktów leczniczych w rozumieniu art. 2 pkt 32 ustawy – Prawo farmaceutyczne i wyrobów medycznych oraz środków spożywczych specjalnego przeznaczenia żywieniowego w rozumieniu art. 3 ust. 3 pkt 43 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2020 r. poz. 2021 oraz z 2022 r. poz. 24 i 138), połączone z udzielaniem informacji i porad dotyczących działania i stosowania oraz przechowywania tych produktów, środków lub wyrobów medycznych; ” ;
+- **2)** art. 33 otrzymuje brzmienie: „ Farmaceuta jest obowiązany zgłosić działanie niepożądane produktu leczniczego zgodnie z art. 36d ustawy – Prawo farmaceutyczne, incydent w rozumieniu art. 2 pkt 64 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG lub art. 2 pkt 67 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE, lub niepożądany odczyn poszczepienny zgodnie z art. 21 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2021 r. poz. 2069 i 2120 oraz z 2022 r. poz. 64, 655 i 974). ” .
+
+**Art. 136.** W ustawie z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655) wprowadza się następujące zmiany:
+
+- **1)** w art. 203 w ust. 7 w pkt 2 wyrazy „i wyroby medyczne, oraz wyposażenie wyrobów medycznych, w rozumieniu przepisów ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2021 r. poz. 1565)” zastępuje się wyrazami „, wyroby medyczne, wyposażenie wyrobów medycznych, systemy i zestawy zabiegowe w rozumieniu przepisów o wyrobach medycznych”;
+- **2)** w art. 288 w ust. 2 wyrazy „i wyroby medyczne, oraz wyposażenie wyrobów medycznych, w rozumieniu przepisów ustawy z dnia 20 maja 2010 r. o wyrobach medycznych” zastępuje się wyrazami „, wyroby medyczne, wyposażenie wyrobów medycznych, systemy i zestawy zabiegowe w rozumieniu przepisów o wyrobach medycznych”;
+- **3)** w art. 326: w ust. 1 wyrazy „wyroby medyczne i wyposażenie wyrobów medycznych, w rozumieniu przepisów ustawy z dnia 20 maja 2010 r. o wyrobach medycznych” zastępuje się wyrazami „wyroby medyczne, wyposażenie wyrobów medycznych, systemy i zestawy zabiegowe w rozumieniu przepisów o wyrobach medycznych”, w ust. 2 wyrazy „i wyrobów” zastępuje się wyrazami „oraz wyrobów medycznych, wyposażenia wyrobów medycznych, systemów i zestawów zabiegowych”.
+    - **a)**
+    - **b)**
 
 #### Rozdział 18 Przepisy przejściowe i końcowe
 
@@ -1211,13 +1501,13 @@ Art. 105–136. (pominięte)
 
 5. Opłaty za zgłoszenia, o których mowa w ust. 1 i 2, i zmianę tych zgłoszeń wynoszą odpowiednio za:
 
-- **1)** zgłoszenie wyrobu medycznego lub wyposażenia wyrobu medycznego:
-    - **a)** będącego wyrobem wykonanym na zamówienie – 30 zł za jeden zgłaszany wyrób,
-    - **b)** niebędącego wyrobem wykonanym na zamówienie – 300 zł za jeden zgłaszany wyrób;
+- **1)** zgłoszenie wyrobu medycznego lub wyposażenia wyrobu medycznego: będącego wyrobem wykonanym na zamówienie – 30 zł za jeden zgłaszany wyrób, niebędącego wyrobem wykonanym na zamówienie – 300 zł za jeden zgłaszany wyrób;
+    - **a)**
+    - **b)**
 
-- **2)** zgłoszenie wyrobu medycznego do diagnostyki in vitro lub wyposażenia wyrobu medycznego do diagnostyki in vitro, będącego:
-    - **a)** wyrobem, o którym mowa w art. 58 ust. 2a ustawy uchylanej w art. 147 – 30 zł za jeden zgłaszany wyrób,
-    - **b)** wyrobem innym niż wyrób, o którym mowa w art. 58 ust. 2a ustawy uchylanej w art. 147 – 300 zł za jeden zgłaszany wyrób;
+- **2)** zgłoszenie wyrobu medycznego do diagnostyki in vitro lub wyposażenia wyrobu medycznego do diagnostyki in vitro, będącego: wyrobem, o którym mowa w art. 58 ust. 2a ustawy uchylanej w art. 147 – 30 zł za jeden zgłaszany wyrób, wyrobem innym niż wyrób, o którym mowa w art. 58 ust. 2a ustawy uchylanej w art. 147 – 300 zł za jeden zgłaszany wyrób;
+    - **a)**
+    - **b)**
 
 - **3)** zgłoszenie systemu lub zestawu zabiegowego – 150 zł za jeden zgłaszany system lub zestaw zabiegowy;
 - **4)** zgłoszenie działalności polegającej na sterylizacji systemów lub zestawów zabiegowych lub wyrobów medycznych oznakowanych znakiem CE przeznaczonych przez ich wytwórcę do sterylizacji przed użyciem – 150 zł za jeden system lub zestaw zabiegowy lub wyrób medyczny oznakowany znakiem CE;
@@ -1261,7 +1551,7 @@ Art. 105–136. (pominięte)
 10. W przypadkach, o których mowa w ust. 9:
 
 - **1)** dokumentacja oceny zgodności,
-- **2)** wykaz odbiorców – stają się państwowym zasobem archiwalnym zgodnie z art. 44 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164) i przechowuje się je z zachowaniem terminów określonych w art. 13 ust. 3, art. 18 ust. 3 i art. 32 ust. 1 i 2 ustawy uchylanej w art. 147. Dokumentacja podlega udostępnieniu bezpłatnie na żądanie Prezesa Urzędu.
+- **2)** wykaz odbiorców stają się państwowym zasobem archiwalnym zgodnie z art. 44 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164) i przechowuje się je z zachowaniem terminów określonych w art. 13 ust. 3, art. 18 ust. 3 i art. 32 ust. 1 i 2 ustawy uchylanej w art. 147. Dokumentacja podlega udostępnieniu bezpłatnie na żądanie Prezesa Urzędu.
 
 11. Do dnia 1 stycznia 2031 r. Prezes Urzędu wzywa podmioty do uzupełnienia lub poprawienia zgłoszenia w terminie 14 dni, a w przypadku powiadomienia – w terminie 30 dni, od dnia otrzymania wezwania, jeżeli:
 
@@ -1296,13 +1586,20 @@ Art. 105–136. (pominięte)
 
 **Art. 143.** Reklama wyrobów, której rozpowszechnianie rozpoczęto przed dniem wejścia w życie art. 54–61 ustawy, niespełniająca wymogów określonych w rozdziale 12 może być rozpowszechniana nie dłużej niż do dnia 30 czerwca 2023 r.
 
-**Art. 144.** Deklaracje zgodności, o których mowa w art. 2 ust. 1 pkt 11 ustawy uchylanej w art. 147, uznaje się za równoważne z deklaracjami zgodności UE, o których mowa w ustawie.
-
-**Art. 145.** Do udzielania informacji publicznej w zakresie gromadzonych zgłoszeń na podstawie art. 58 ust. 1–2a ustawy uchylanej w art. 147 oraz art. 138 stosuje się art. 91 ustawy uchylanej w art. 147.
+**Art. 144.** Deklaracje zgodności, o których mowa w art. 2 ust. 1 pkt 11 ustawy uchylanej w art. 147, uznaje się za równoważne z deklaracjami zgodności UE, o których mowa w ustawie. Do udzielania informacji publicznej w zakresie gromadzonych zgłoszeń na podstawie art. 58 ust. 1–2a ustawy uchylanej w art. 147 oraz art. 138 stosuje się art. 91 ustawy uchylanej w art. 147.
 
 **Art. 146.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
+
+- **1)** art. 20 ust. 2 i art. 23 ust. 2–4 ustawy uchylanej w art. 147 zachowują moc do dnia 26 maja 2040 r. i mogą być zmieniane na podstawie tych przepisów;
+- **2)** art. 40 ust. 5 ustawy uchylanej w art. 147 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 32 ust. 3, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie ustawy;
+- **3)** art. 41 ust. 4 ustawy uchylanej w art. 147 zachowują moc do dnia 26 maja 2030 r. i mogą być zmieniane na podstawie tych przepisów;
+- **4)** art. 67 ust. 7 ustawy uchylanej w art. 147 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 73, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie ustawy.
 
 **Art. 147.** Traci moc ustawa z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2021 r. poz. 1565).
 
 **Art. 148.** Ustawa wchodzi w życie z dniem 26 maja 2022 r., z wyjątkiem:
+
+- **1)** art. 54–61, które wchodzą w życie z dniem 1 stycznia 2023 r.;
+- **2)** art. 21–25, które wchodzą w życie z dniem 1 lipca 2023 r.
+
 

@@ -8,12 +8,10 @@ pos: 289
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw
-
-*USTAWA z dnia 13 stycznia 2023 r.*
+# Ustawa z dnia 13 stycznia 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,61 +22,625 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2023-01-13 |
 | Data wydania | 2023-02-14 |
+| Wejście w życie | 2023-08-15 |
 | Ostatnia zmiana | 2025-03-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000289) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/289/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 560⁸.** Sąd w postanowieniu w przedmiocie zobowiązania osoby stosującej przemoc domową do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia lub wydania zakazu zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, lub zakazu zbliżania się do osoby doznającej przemocy domowej, lub zakazu kontaktowania się z osobą doznającą przemocy domowej, lub zakazu wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, lub obiektu sportowego, do których uczęszcza osoba doznająca przemocy domowej, miejsca pracy lub innego miejsca, w którym zwykle lub regularnie przebywa osoba doznająca przemocy domowej, i przebywania na tym terenie, rozstrzyga również o zabezpieczeniu, jeżeli było udzielone.”;
+- **1)** w części pierwszej w księdze drugiej w tytule II tytuł działu Ia otrzymuje brzmienie: „ Sprawy z zakresu przeciwdziałania przemocy w rodzinie ” ;
+- **2)** art. 5602 otrzymuje brzmienie: „
 
-**Art. 755⁴.** Sąd opiekuńczy po otrzymaniu zawiadomienia, o którym mowa w art. 15a ust. 4 lub art. 15ad ust. 4 ustawy z dnia 6 kwietnia 1990 r. o Policji albo art. 18 ust. 6 lub art. 18d ust. 4 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych, albo art. 755 § 5, bezzwłocznie podejmuje czynności w celu ustalenia sytuacji małoletniego i orzeka w przedmiocie zabezpieczenia. Po ustaleniu sytuacji małoletniego sąd opiekuńczy wszczyna z urzędu postępowanie dotyczące władzy rodzicielskiej, chyba że nie zachodzi konieczność jego wszczęcia, w szczególności gdy takie postępowanie się toczy.”;
+**Art. 5602.** Przepisy zawarte w niniejszym dziale stosuje się w sprawach, o których mowa w art. 11a-11ab ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy w rodzinie (Dz. U. z 2021 r. poz. 1249 oraz z 2023 r. poz. 289). ” ;
 
-**Art. 2.** W ustawie z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2022 r. poz. 2151, 2311, 2581 i 2600 oraz z 2023 r. poz. 289 i 535) art. 66b otrzymuje brzmienie: „Art. 66b. § 1. Kto nie stosuje się do wydanego przez:
+- **3)** w art. 5603: § 1 otrzymuje brzmienie: „
+    - **a)**
+
+§ 1. Wniosek o zobowiązanie osoby stosującej przemoc w rodzinie do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia lub o wydanie zakazu zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, lub zakazu zbliżania się do osoby dotkniętej przemocą w rodzinie, lub zakazu kontaktowania się z osobą dotkniętą przemocą w rodzinie, lub zakazu wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, lub obiektu sportowego, do których uczęszcza osoba dotknięta przemocą w rodzinie, miejsca pracy lub innego miejsca, w którym zwykle lub regularnie przebywa osoba dotknięta przemocą w rodzinie, i przebywania na tym terenie, może być złożony na urzędowym formularzu. ” , po § 1 dodaje się § 11 w brzmieniu: „
+
+- **b)**
+
+§ 11. Wniosek, o którym mowa w § 1, może zawierać wskazanie numeru telefonu lub adresu poczty elektronicznej wnioskodawcy. ” ;
+
+- **4)** po art. 5603 dodaje się art. 5603a w brzmieniu: „
+
+**Art. 5603a.**
+
+§ 1. W trakcie postępowania uczestnik, który został zobowiązany do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia lub któremu zakazano zbliżania się do wspólnie zajmowanego mieszkania i z jego bezpośredniego otoczenia, może złożyć wniosek o zezwolenie na zabranie ze wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia przedmiotów osobistego użytku i przedmiotów niezbędnych do wykonywania osobistej pracy zarobkowej lub zwierząt domowych będących jego własnością niezbędnych do codziennego funkcjonowania lub pracy zarobkowej, na których wydanie nie wyraża zgody wnioskodawca.
+
+§ 2. We wniosku, o którym mowa w § 1, uczestnik określa przedmiot lub zwierzę domowe, które mają być zabrane, uprawdopodobnia korzystanie ze wskazanego przedmiotu lub uprawdopodobnia własność zwierzęcia domowego i jego niezbędność do codziennego funkcjonowania lub pracy zarobkowej.
+
+§ 3. Sąd rozpoznaje wniosek, o którym mowa w § 1, niezwłocznie po jego wpływie, na posiedzeniu niejawnym lub rozprawie, po odebraniu wyjaśnień od wnioskodawcy. Sąd może telefonicznie lub za pośrednictwem poczty elektronicznej zawiadomić wnioskodawcę o złożeniu wniosku, o którym mowa w § 1, oraz dopuszczalnych sposobach złożenia wyjaśnień, o ile numer telefonu lub adres poczty elektronicznej został wskazany przez wnioskodawcę.
+
+§ 4. Jeżeli wnioskodawca w wyznaczonym terminie nie złoży wyjaśnień na piśmie lub nie stawi się na rozprawę, sąd rozstrzyga na podstawie twierdzeń zawartych we wniosku, o którym mowa w § 1, o czym należy wnioskodawcę pouczyć, zawiadamiając go o dopuszczalnych sposobach złożenia wyjaśnień.
+
+§ 5. Do wniosku, o którym mowa w § 1, stosuje się przepis art. 5604 § 2.
+
+§ 6. Postanowienie jest skuteczne i wykonalne z chwilą ogłoszenia. Prawomocne postanowienie i ustalenia faktyczne sądu stanowiące podstawę rozstrzygnięcia nie wiążą sądu w postępowaniach, których przedmiotem jest żądanie co do własności rzeczy.
+
+§ 7. Na postanowienie przysługuje zażalenie do innego składu sądu pierwszej instancji.
+
+§ 8. Przedmioty lub zwierzęta domowe wskazane w postanowieniu uczestnik może zabrać ze wspólnie zajmowanego mieszkania i z jego bezpośredniego otoczenia, w obecności policjanta lub żołnierza Żandarmerii Wojskowej, po wcześniejszym uzgodnieniu terminu z osobą dotkniętą przemocą w rodzinie. Przepisy art. 15ae ust. 1–3 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z 2022 r. poz. 2600 oraz z 2023 r. poz. 185, 240 i 289) albo art. 18e ust. 1–3 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2021 r. poz. 1214, z 2022 r. poz. 655, 1488 i 2600 oraz z 2023 r. poz. 289) stosuje się odpowiednio.
+
+§ 9. Jeżeli postanowienie nie może być wykonane zgodnie z § 8, podlega wykonaniu w drodze egzekucji świadczeń niepieniężnych o wydaniu rzeczy ruchomej. ” ;
+
+- **5)** art. 5607 i art. 5608 otrzymują brzmienie: „
+
+**Art. 5607.**
+
+§ 1. Sąd uwzględniając wniosek o zobowiązanie osoby stosującej przemoc w rodzinie do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia lub o wydanie zakazu zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, wskazuje w postanowieniu obszar, który osoba stosująca przemoc w rodzinie ma opuścić i na którym nie może przebywać, lub odległość od wspólnie zajmowanego mieszkania, którą osoba stosująca przemoc w rodzinie jest obowiązana zachować.
+
+§ 2. W postanowieniu, o którym mowa w § 1, sąd na wniosek wnioskodawcy lub uczestnika postępowania może im tymczasowo przyznać prawo do korzystania z rzeczy znajdujących się we wspólnie zajmowanym mieszkaniu lub w jego bezpośrednim otoczeniu oraz określić sposób korzystania z nich, jeżeli nie spowoduje to nadmiernej zwłoki w postępowaniu. W postanowieniu sąd określa termin i sposób wydania rzeczy przyznanych do korzystania, a w uzasadnionych przypadkach okres korzystania z tych rzeczy. Do wykonania postanowienia o przyznaniu prawa do korzystania z rzeczy stosuje się odpowiednio przepisy art. 5603a § 8 i 9. Prawomocne postanowienie i ustalenia faktyczne sądu stanowiące podstawę rozstrzygnięcia nie wiążą sądu w postępowaniach, których przedmiotem jest żądanie co do własności rzeczy.
+
+§ 3. Sąd uwzględniając wniosek o wydanie zakazu zbliżania się do osoby dotkniętej przemocą w rodzinie, wskazuje w postanowieniu wyrażoną w metrach odległość, na którą osoba stosująca przemoc w rodzinie nie może zbliżyć się do osoby dotkniętej tą przemocą.
+
+§ 4. Sąd uwzględniając wniosek o wydanie zakazu kontaktowania się z pełnoletnią osobą dotkniętą przemocą w rodzinie, na wniosek wnioskodawcy lub uczestnika postępowania, gdy przemawiają za tym szczególne okoliczności, może w postanowieniu określić dopuszczalne sposoby kontaktowania się oraz ich zakres, mając na uwadze bezpieczeństwo osoby dotkniętej przemocą w rodzinie.
+
+§ 5. Postanowienia, o których mowa w § 1, 3 i 4, oraz postanowienie uwzględniające wniosek o wydanie zakazu wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, lub obiektu sportowego, do których uczęszcza osoba dotknięta przemocą w rodzinie, miejsca pracy lub innego miejsca, w którym zwykle lub regularnie przebywa osoba dotknięta przemocą w rodzinie, i przebywania na tym terenie, są skuteczne i wykonalne z chwilą ogłoszenia. Postanowienia te mogą być uchylane lub zmieniane wskutek zmiany okoliczności sprawy, chociażby były zaskarżone, a nawet prawomocne.
+
+**Art. 5608.** Sąd w postanowieniu w przedmiocie zobowiązania osoby stosującej przemoc w rodzinie do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia lub wydania zakazu zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, lub zakazu zbliżania się do osoby dotkniętej przemocą w rodzinie, lub zakazu kontaktowania się z osobą dotkniętą przemocą w rodzinie, lub zakazu wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, lub obiektu sportowego, do których uczęszcza osoba dotknięta przemocą w rodzinie, miejsca pracy lub innego miejsca, w którym zwykle lub regularnie przebywa osoba dotknięta przemocą w rodzinie, i przebywania na tym terenie, rozstrzyga również o zabezpieczeniu, jeżeli było udzielone. ” ;
+
+- **6)** w art. 5609: w § 1 dodaje się zdanie drugie i trzecie w brzmieniu: „ Sąd uwzględniając wniosek o wydanie zakazu wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, lub obiektu sportowego, do których uczęszcza osoba dotknięta przemocą w rodzinie, miejsca pracy lub innego miejsca, w którym zwykle lub regularnie przebywa osoba dotknięta przemocą w rodzinie, i przebywania na tym terenie, zawiadamia o treści postanowienia dyrektora szkoły, placówki oświatowej, opiekuńczej lub artystycznej, do której uczęszcza osoba dotknięta przemocą w rodzinie, osobę zarządzającą obiektem sportowym, do którego uczęszcza osoba dotknięta przemocą w rodzinie, lub pracodawcę osoby dotkniętej przemocą w rodzinie. Sąd może także zawiadomić inne osoby odpowiedzialne za miejsce, w którym zwykle lub regularnie przebywa osoba dotknięta przemocą w rodzinie, jeżeli jest to niezbędne do prawidłowego wykonania postanowienia. ” , po § 1 dodaje się § 11 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+§ 11. Sąd opiekuńczy po otrzymaniu zawiadomienia, o którym mowa w § 1, bezzwłocznie podejmuje czynności w celu ustalenia sytuacji małoletniego. Po ustaleniu sytuacji małoletniego sąd opiekuńczy wszczyna z urzędu postępowanie dotyczące władzy rodzicielskiej, chyba że nie zachodzi konieczność jego wszczęcia, w szczególności gdy takie postępowanie się toczy. ” ;
+
+- **7)** w art. 7552: § 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+§ 1. W sprawach z zakresu przeciwdziałania przemocy w rodzinie sąd może udzielić zabezpieczenia również przez przedłużenie obowiązywania nakazu i zakazu, o którym mowa w art. 15aa ust. 1 ustawy z dnia 6 kwietnia 1990 r. o Policji albo art. 18a ust. 1 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych, lub zakazów, o których mowa w art. 15 ustawy z dnia 6 kwietnia 1990 r. o Policji albo art. 18aa ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych. Sąd może zmienić wskazane w nakazie i zakazie obszar lub odległość od wspólnie zajmowanego mieszkania lub wskazaną w zakazie zbliżania się do osoby dotkniętej przemocą w rodzinie odległość określoną w metrach, na którą osoba stosująca przemoc w rodzinie nie może zbliżyć się do osoby dotkniętej tą przemocą.
+
+§ 2. Sąd, udzielając zabezpieczenia, określa częstotliwość sprawdzania przez Policję albo Żandarmerię Wojskową, czy orzeczone nakaz i zakaz, o którym mowa w art. 15aa ust. 1 ustawy z dnia 6 kwietnia 1990 r. o Policji albo art. 18a ust. 1 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych, lub zakazy, o których mowa w art. 15 ustawy z dnia 6 kwietnia 1990 r. o Policji albo art. 18aa ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych, nie są naruszane, z uwzględnieniem art. 15ai ust. 1 ustawy z dnia 6 kwietnia 1990 r. o Policji albo art. 18i ust. 1 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych. ” , § 5 otrzymuje brzmienie: „
+
+- **b)**
+
+§ 5. Sąd doręcza niezwłocznie odpis postanowienia o udzieleniu zabezpieczenia uczestnikom postępowania, wraz z pouczeniem o zażaleniu, i prokuratorowi oraz Policji albo Żandarmerii Wojskowej, a ponadto zawiadamia właściwy miejscowo zespół interdyscyplinarny, o którym mowa w przepisach ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy w rodzinie, a gdy w mieszkaniu zamieszkują osoby małoletnie lub osobą dotkniętą przemocą w rodzinie jest osoba małoletnia – także właściwy miejscowo sąd opiekuńczy, chyba że zabezpieczenie następuje przez przedłużenie obowiązywania nakazu i zakazu lub zakazów, a właściwy miejscowo zespół interdyscyplinarny oraz sąd opiekuńczy zostały powiadomione o ich wydaniu przez Policję lub Żandarmerię Wojskową. ” , dodaje się § 6 w brzmieniu: „
+
+- **c)**
+
+§ 6. Sąd udzielając zabezpieczenia przez wydanie zakazu wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, lub obiektu sportowego, do których uczęszcza osoba dotknięta przemocą w rodzinie, miejsca pracy lub innego miejsca, w którym zwykle lub regularnie przebywa osoba dotknięta przemocą w rodzinie, i przebywania na tym terenie, zawiadamia o treści postanowienia dyrektora szkoły, placówki oświatowej, opiekuńczej lub artystycznej, do której uczęszcza osoba dotknięta przemocą w rodzinie, osobę zarządzającą obiektem sportowym, do którego uczęszcza osoba dotknięta przemocą w rodzinie, lub pracodawcę osoby dotkniętej przemocą w rodzinie. Sąd może także zawiadomić inne osoby odpowiedzialne za miejsce, w którym zwykle lub regularnie przebywa osoba dotknięta przemocą w rodzinie, jeżeli jest to niezbędne do prawidłowego wykonania postanowienia. ” ;
+
+- **8)** art. 7553 i art. 7554 otrzymują brzmienie: „
+
+**Art. 7553.**
+
+§ 1. W sprawach z zakresu przeciwdziałania przemocy w rodzinie sąd, udzielając zabezpieczenia, wskazuje w postanowieniu czas jego trwania.
+
+§ 2. Sąd udzielając zabezpieczenia przez wydanie zakazu kontaktowania się z osobą dotkniętą przemocą w rodzinie, na wniosek wnioskodawcy, gdy przemawiają za tym szczególne okoliczności, może w postanowieniu określić dopuszczalne sposoby kontaktowania się oraz ich zakres, mając na względzie bezpieczeństwo osoby dotkniętej przemocą w rodzinie.
+
+**Art. 7554.** Sąd opiekuńczy po otrzymaniu zawiadomienia, o którym mowa w art. 15a ust. 4 lub art. 15ad ust. 4 ustawy z dnia 6 kwietnia 1990 r. o Policji albo art. 18 ust. 6 lub art. 18d ust. 4 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych, albo art. 7552 § 5, bezzwłocznie podejmuje czynności w celu ustalenia sytuacji małoletniego i orzeka w przedmiocie zabezpieczenia. Po ustaleniu sytuacji małoletniego sąd opiekuńczy wszczyna z urzędu postępowanie dotyczące władzy rodzicielskiej, chyba że nie zachodzi konieczność jego wszczęcia, w szczególności gdy takie postępowanie się toczy. ” ;
+
+- **9)** w art. 782 po § 1 dodaje się § 11 w brzmieniu: „
+
+§ 11. Tytułowi egzekucyjnemu nakazującemu osobie stosującej przemoc w rodzinie opuszczenie wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia sąd nadaje klauzulę wykonalności z urzędu. Tytuł wykonawczy doręcza się wierzycielowi z urzędu. ” ;
+
+- **10)** w art. 1046 dodaje się § 12 w brzmieniu: „
+
+§ 12. Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowy tryb postępowania w sprawach o wykonanie postanowienia zobowiązującego osobę stosującą przemoc w rodzinie do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, mając na względzie sprawne, szybkie i skuteczne prowadzenie egzekucji. ” .
+
+**Art. 2.** W ustawie z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2022 r. poz. 2151, 2311, 2581 i 2600) art. 66b otrzymuje brzmienie: „
+
+**Art. 66b.**
+
+§ 1. Kto nie stosuje się do wydanego przez:
+
+- **1)** Policję, na podstawie art. 15aa ust. 1 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z 2022 r. poz. 2600 oraz z 2023 r. poz. 185, 240 i 289), albo Żandarmerię Wojskową, na podstawie art. 18a ust. 1 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2021 r. poz. 1214, z 2022 r. poz. 655, 1488 i 2600 oraz z 2023 r. poz. 289), nakazu natychmiastowego opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia i zakazu zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia,
+- **2)** Policję, na podstawie art. 15 ust. 2 ustawy z dnia 6 kwietnia 1990 r. o Policji, albo Żandarmerię Wojskową, na podstawie art. 18aa ust. 2 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych, zakazu wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, obiektu sportowego lub miejsca pracy, i przebywania na tym terenie, gdy osoba dotknięta przemocą w rodzinie przebywa na ich terenie,
+- **3)** sąd postanowienia o udzieleniu zabezpieczenia przez: przedłużenie obowiązywania nakazu i zakazu lub zakazów, o których mowa w pkt 1 i 2, zobowiązanie osoby stosującej przemoc w rodzinie do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia lub wydanie zakazu zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, lub zakazu wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, lub obiektu sportowego, do których uczęszcza osoba dotknięta przemocą w rodzinie, miejsca pracy lub innego miejsca, w którym zwykle lub regularnie przebywa osoba dotknięta przemocą w rodzinie, i przebywania na tym terenie, o których mowa w art. 11a ust. 1 i art. 11aa ust. 4 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy w rodzinie (Dz. U. z 2021 r. poz. 1249 oraz z 2023 r. poz. 289),
+    - **a)**
+    - **b)**
+
+- **4)** sąd postanowienia o zobowiązaniu osoby stosującej przemoc w rodzinie do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia lub o zakazie zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, lub o zakazie wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, lub obiektu sportowego, do których uczęszcza osoba dotknięta przemocą w rodzinie, miejsca pracy lub innego miejsca, w którym zwykle lub regularnie przebywa osoba dotknięta przemocą w rodzinie, i przebywania na tym terenie, o których mowa w art. 11a ust. 1 i art. 11aa ust. 4 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy w rodzinie podlega karze aresztu, ograniczenia wolności albo grzywny.
+
+§ 2. Tej samej karze podlega, kto umyślnie nie stosuje się do wydanego przez:
+
+- **1)** Policję, na podstawie art. 15 ust. 1 ustawy z dnia 6 kwietnia 1990 r. o Policji, albo Żandarmerię Wojskową, na podstawie art. 18aa ust. 1 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych, zakazu zbliżania się do osoby dotkniętej przemocą w rodzinie na wyrażoną w metrach odległość lub zakazu kontaktowania się z osobą dotkniętą przemocą w rodzinie;
+- **2)** sąd postanowienia o udzieleniu zabezpieczenia przez: przedłużenie obowiązywania zakazów, o których mowa w pkt 1, wydanie zakazu zbliżania się do osoby dotkniętej przemocą w rodzinie na wyrażoną w metrach odległość lub zakazu kontaktowania się z osobą dotkniętą przemocą w rodzinie, o których mowa w art. 11aa ust. 1 i 2 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy w rodzinie;
+    - **a)**
+    - **b)**
+
+- **3)** sąd postanowienia o zakazie zbliżania się do osoby dotkniętej przemocą w rodzinie na wyrażoną w metrach odległość lub o zakazie kontaktowania się z osobą dotkniętą przemocą w rodzinie, o których mowa w art. 11aa ust. 1 i 2 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy w rodzinie. ” .
 
 **Art. 3.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z 2022 r. poz. 2600 oraz z 2023 r. poz. 185 i 240) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2022 r. poz. 1061, z późn. zm. ) wprowadza się następujące zmiany:
+- **1)** w art. 15a dodaje się ust. 4 i 5 w brzmieniu: „
+
+4. Policja niezwłocznie zawiadamia o dokonaniu zatrzymania prokuratora i właściwy miejscowo zespół interdyscyplinarny, o którym mowa w ustawie o przeciwdziałaniu przemocy w rodzinie, a gdy w mieszkaniu zamieszkują osoby małoletnie – także właściwy miejscowo sąd opiekuńczy.
+
+5. W przypadkach, o których mowa w art. 18 ust. 5 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2021 r. poz. 1214, z 2022 r. poz. 655, 1488 i 2600 oraz z 2023 r. poz. 289), o dokonaniu zatrzymania żołnierza pełniącego czynną służbę wojskową Policja niezwłocznie zawiadamia właściwą miejscowo jednostkę organizacyjną Żandarmerii Wojskowej. ” ;
+
+- **2)** w art. 15aa: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Policjant ma prawo wydać wobec osoby stosującej przemoc w rodzinie w rozumieniu przepisów ustawy o przeciwdziałaniu przemocy w rodzinie, stwarzającej zagrożenie dla życia lub zdrowia osoby dotkniętej tą przemocą, nakaz natychmiastowego opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia i zakaz zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, zwany dalej „nakazem i zakazem”. ” , uchyla się ust. 2–4, w ust. 5 wyrazy „nakazie lub zakazie” zastępuje się wyrazami „nakazie i zakazie”;
+
+- **b)**
+- **c)**
+- **3)** po art. 15aa dodaje się art. 15 i art. 15aab w brzmieniu: „
+
+**Art. 15.**
+
+1. Policjant ma prawo wydać wobec osoby stosującej przemoc w rodzinie w rozumieniu przepisów ustawy o przeciwdziałaniu przemocy w rodzinie, stwarzającej zagrożenie dla życia lub zdrowia osoby dotkniętej tą przemocą, zakaz zbliżania się do tej osoby na wyrażoną w metrach odległość, zwany dalej „zakazem zbliżania”, lub zakaz kontaktowania się z osobą dotkniętą przemocą w rodzinie, zwany dalej „zakazem kontaktowania”.
+
+2. Jeżeli osoba dotknięta przemocą w rodzinie uczęszcza do szkoły, placówki oświatowej, opiekuńczej lub artystycznej, uprawia sport lub pracuje, policjant ma prawo wydać wobec osoby stosującej przemoc w rodzinie, stwarzającej zagrożenie dla życia lub zdrowia osoby dotkniętej tą przemocą, zakaz wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, obiektu sportowego lub miejsca pracy, i przebywania na tym terenie, zwany dalej „zakazem wstępu”, chyba że osoba stosująca przemoc jest tam zatrudniona lub pobiera naukę.
+
+1. Nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu mogą być stosowane łącznie.
+
+2. Nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania oraz zakaz wstępu są natychmiast wykonalne.
+
+3. Jeżeli po wydaniu nakazu i zakazu wystąpią okoliczności uzasadniające wydanie zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, dzień zakończenia ich obowiązywania musi odpowiadać dniowi, w którym upływa termin stosowania nakazu i zakazu.
+
+4. Policjant w celu stwierdzenia zasadności wydania nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu stosuje odpowiednio przepisy art. 15a ust. 2 i 3. ” ;
+
+- **4)** użyte w art. 15ab w ust. 1 we wprowadzeniu do wyliczenia, w ust. 2 i 10, w art. 15ac w ust. 1 w pkt 3, w art. 15ad w ust. 2, w art. 15af w ust. 1 i 2, w art. 15ag w ust. 1 pkt 2 i ust. 3, w art. 15ai ust. 1 oraz w art. 15aj ust. 4, w różnym przypadku, wyrazy „nakaz lub zakaz” zastępuje się użytymi w odpowiednim przypadku wyrazami „nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu”;
+- **5)** w art. 15ab: ust. 4 otrzymuje brzmienie: „
+    - **a)**
+
+4. Osobę zgłaszającą przemoc w rodzinie przesłuchuje się w charakterze świadka, po pouczeniu o treści art. 233 Kodeksu karnego, na okoliczności wskazane w zgłoszeniu, o ile to możliwe, na miejscu zdarzenia. Policja w celu ustalenia, czy zachodzą przesłanki, o których mowa w art. 15aa ust. 1 lub art. 15, oraz w celu wskazania obszaru, który osoba stosująca przemoc w rodzinie ma opuścić i na którym nie może przebywać, odległości od wspólnie zajmowanego mieszkania, którą osoba stosująca przemoc w rodzinie jest obowiązana zachować, lub ustalenia w metrach odległości, którą osoba stosująca przemoc w rodzinie jest obowiązana zachować od osoby dotkniętej tą przemocą, może przesłuchać w charakterze świadków również inne osoby, w szczególności wszystkie dotknięte tą przemocą osoby pełnoletnie wspólnie zajmujące mieszkanie. Policja, dokonując wskazanych ustaleń, uwzględnia w protokole przesłuchania zaistnienie okoliczności zagrożenia życia lub zdrowia ludzkiego. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
+
+- **b)**
+
+5a. W przypadku gdy zachodzi obawa, że obecność osoby stosującej przemoc w rodzinie będzie oddziaływać krępująco na świadka lub wywierać negatywny wpływ na jego stan psychiczny, policjant może nakazać tej osobie, aby na czas przesłuchania świadka opuściła miejsce przesłuchania. ” , ust. 6 otrzymuje brzmienie: „
+
+- **c)**
+
+6. Osobę małoletnią można przesłuchać tylko wówczas, gdy jej zeznania mogą mieć istotne znaczenie dla sprawy, w szczególności gdy jest jedynym świadkiem zdarzenia, a brak jest innych dowodów, i wyłącznie w odpowiednio przystosowanych pomieszczeniach, o których mowa w przepisach Kodeksu postępowania karnego. ” , ust. 9 otrzymuje brzmienie: „
+
+- **d)**
+
+9. Policjant, przed wydaniem nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, wysłuchuje osobę stosującą przemoc w rodzinie, o ile nie utrudni to ich natychmiastowego wydania. Policja może również dokonywać innych czynności w celu ustalenia, czy zachodzą okoliczności wskazane w art. 15aa ust. 1 lub art. 15. ” , ust. 11 otrzymuje brzmienie: „
+
+- **e)**
+
+11. Policja, przed wydaniem nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, ma prawo zażądać dodatkowych informacji od innych instytucji lub organów, w celu ustalenia, czy zachodzą okoliczności wskazane w art. 15aa ust. 1 lub art. 15. ” , dodaje się ust. 12 w brzmieniu: „
+
+- **f)**
+
+12. Jeżeli zachodzą przesłanki zatrzymania, o którym mowa w art. 15a ust. 1, lub wydania nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, a wobec osoby stosującej przemoc w rodzinie wykonywana jest kara pozbawienia wolności w systemie dozoru elektronicznego, policjant dokonuje zatrzymania takiej osoby i bezzwłocznie przekazuje ją do dyspozycji sądu właściwego do orzekania w przedmiocie uchylenia zezwolenia na odbywanie kary w systemie dozoru elektronicznego. Sąd orzeka w ciągu 48 godzin od chwili zatrzymania. ” ;
+
+- **6)** w art. 15ac: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania oraz zakaz wstępu zawierają w szczególności: ” , ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania oraz zakazu wstępu, sposób wykonywania i dokumentowania czynności związanych z wydaniem nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania oraz zakazu wstępu i wzór kwestionariusza szacowania ryzyka zagrożenia życia lub zdrowia ludzkiego służący stwierdzeniu zasadności zatrzymania, o którym mowa w art. 15a ust. 1, lub wydania nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, mając na względzie potrzebę zawarcia niezbędnych pouczeń w nakazie i zakazie, zakazie zbliżania, zakazie kontaktowania oraz zakazie wstępu, a także sprawnego sporządzania dokumentacji oraz konieczność natychmiastowej i skutecznej ochrony osób doznających przemocy w rodzinie. ” ;
+
+- **7)** w art. 15ad: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Policjant doręcza odpis nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu niezwłocznie po ich wydaniu osobie stosującej przemoc w rodzinie oraz osobie dotkniętej tą przemocą. ” , po ust. 1 dodaje się ust. 1a-1e w brzmieniu: „
+
+- **b)**
+
+1a. W razie niemożności doręczenia osobie stosującej przemoc w rodzinie, zamieszkującej wspólnie z osobą dotkniętą tą przemocą, odpisu nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, w sposób określony w ust. 1, odpis należy złożyć we właściwej jednostce organizacyjnej Policji, umieszczając zawiadomienie o ich wydaniu na drzwiach wspólnie zajmowanego mieszkania, ze wskazaniem przyczyny umieszczenia zawiadomienia oraz wskazaniem, gdzie i kiedy pismo pozostawiono. Doręczenie uważa się za dokonane z chwilą umieszczenia zawiadomienia na drzwiach wspólnie zajmowanego mieszkania.
+
+1b. W przypadku wydania zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, gdy osoba stosująca przemoc w rodzinie nie zamieszkuje wspólnie z osobą dotkniętą tą przemocą, zawiadomienie o ich wydaniu umieszcza się niezwłocznie na drzwiach mieszkania osoby dotkniętej przemocą w rodzinie. Policja w terminie 24 godzin od chwili wydania zakazów, o których mowa w zdaniu pierwszym, doręcza osobie stosującej przemoc w rodzinie ich odpisy w miejscu jej zamieszkania lub innym miejscu, w którym osoba ta przebywa lub ją zastano. Doręczenie uważa się za dokonane z chwilą doręczenia osobie stosującej przemoc w rodzinie odpisu zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu. Przepis art. 138 Kodeksu postępowania cywilnego stosuje się odpowiednio.
+
+1c. W razie ustalenia miejsca zamieszkania lub pobytu osoby stosującej przemoc w rodzinie niezamieszkującej wspólnie z osobą dotkniętą tą przemocą i niemożności doręczenia jej odpisu zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, przepis ust. 1a stosuje się odpowiednio, z zastrzeżeniem, że zawiadomienie o ich wydaniu umieszcza się na drzwiach mieszkania osoby stosującej przemoc w rodzinie. Doręczenie uważa się za dokonane z chwilą umieszczenia zawiadomienia na drzwiach mieszkania osoby stosującej przemoc w rodzinie.
+
+1d. W razie niemożności doręczenia osobie stosującej przemoc w rodzinie niezamieszkującej wspólnie z osobą dotkniętą tą przemocą odpisu zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, w sposób określony w ust. 1b i 1c, doręczenie uważa się za dokonane z chwilą umieszczenia zawiadomienia o ich wydaniu na drzwiach mieszkania osoby dotkniętej przemocą w rodzinie.
+
+1e. W nakazie i zakazie, zakazie zbliżania, zakazie kontaktowania i zakazie wstępu dokonuje się wzmianki o niemożności doręczenia ich odpisów, wskazując jej przyczynę oraz datę i godzinę pozostawienia zawiadomienia, o którym mowa w ust. 1a-1c. ” , ust. 3 i 4 otrzymują brzmienie: „
+
+- **c)**
+
+3. Zawiadomienie, o którym mowa w ust. 1a-1c, zawiera imię i nazwisko osoby stosującej przemoc w rodzinie oraz wezwanie do niezwłocznego kontaktu z właściwą jednostką organizacyjną Policji, a ponadto dostępne po otwarciu zawiadomienia informacje o wydaniu nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, podstawie prawnej, miejscu i terminie ich odebrania, a także zasadach zabrania ze wspólnie zajmowanego mieszkania i z jego bezpośredniego otoczenia przedmiotów osobistego użytku i przedmiotów niezbędnych do wykonywania osobistej pracy zarobkowej lub zwierząt domowych będących własnością osoby stosującej przemoc w rodzinie niezbędnych do codziennego funkcjonowania lub pracy zarobkowej.
+
+4. Policja niezwłocznie doręcza prokuratorowi odpis nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu oraz zawiadamia właściwy miejscowo zespół interdyscyplinarny, o którym mowa w ustawie o przeciwdziałaniu przemocy w rodzinie, a gdy w mieszkaniu zamieszkują osoby małoletnie lub osobą dotkniętą przemocą w rodzinie jest osoba małoletnia – także właściwy miejscowo sąd opiekuńczy. W przypadku wydania zakazu wstępu Policja niezwłocznie zawiadamia o tym fakcie dyrektora szkoły, placówki oświatowej, opiekuńczej lub artystycznej, do której uczęszcza osoba dotknięta przemocą w rodzinie, osobę zarządzającą obiektem sportowym, do którego uczęszcza osoba dotknięta przemocą w rodzinie, lub pracodawcę osoby dotkniętej przemocą w rodzinie. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
+
+- **d)**
+
+4a. W przypadkach, o których mowa w art. 18ab ust. 1 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych, o wydaniu wobec żołnierza pełniącego czynną służbę wojskową nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, Policja niezwłocznie zawiadamia właściwą jednostkę organizacyjną Żandarmerii Wojskowej. ” , ust. 5 otrzymuje brzmienie: „
+
+- **e)**
+
+5. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór zawiadomienia, o którym mowa w ust. 1a-1c, umieszczanego na drzwiach mieszkania w razie niemożności doręczenia odpisu nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, mając na uwadze konieczność zrozumienia zawiadomienia również przez osoby niekorzystające z profesjonalnej pomocy prawnej. ” ;
+
+- **8)** w art. 15ae: użyte w ust. 1, w ust. 2 w pkt 4 oraz w ust. 6–8, w różnych przypadkach, wyrazy „nakaz lub zakaz” zastępuje się użytymi w odpowiednim przypadku wyrazami „nakaz i zakaz”, w ust. 2 pkt 7 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **7)** w miarę potrzeby stwierdzenie innych okoliczności dotyczących przebiegu czynności, w szczególności wskazanie zabranych ze wspólnie zajmowanego mieszkania i z jego bezpośredniego otoczenia przedmiotów osobistego użytku i przedmiotów niezbędnych do wykonywania osobistej pracy zarobkowej lub zwierząt domowych będących własnością osoby stosującej przemoc w rodzinie niezbędnych do codziennego funkcjonowania lub pracy zarobkowej oraz opis pozostawionego mienia, które według twierdzeń osoby stosującej przemoc w rodzinie, wobec której wydano nakaz i zakaz, stanowi jej własność. ” , w ust. 4 zdania pierwsze i drugie otrzymują brzmienie: „ Osoba stosująca przemoc w rodzinie, wobec której wydano nakaz i zakaz, ma prawo zabrać ze wspólnie zajmowanego mieszkania i z jego bezpośredniego otoczenia przedmioty osobistego użytku i przedmioty niezbędne do wykonywania osobistej pracy zarobkowej lub zwierzęta domowe będące jej własnością niezbędne do codziennego funkcjonowania lub pracy zarobkowej. W przypadku sprzeciwu osoby dotkniętej przemocą w rodzinie te przedmioty lub zwierzęta domowe pozostawia się we wspólnie zajmowanym mieszkaniu lub w jego bezpośrednim otoczeniu. ” , w ust. 5 zdanie pierwsze otrzymuje brzmienie: „ Jeżeli w okresie obowiązywania nakazu i zakazu zajdzie potrzeba zabrania przez osobę stosującą przemoc w rodzinie ze wspólnie zajmowanego mieszkania i z jego bezpośredniego otoczenia mienia stanowiącego jej własność, w szczególności niezabranych uprzednio przedmiotów osobistego użytku i przedmiotów niezbędnych do wykonywania osobistej pracy zarobkowej lub zwierząt domowych będących jej własnością niezbędnych do codziennego funkcjonowania lub pracy zarobkowej, może się to odbyć jeden raz, wyłącznie w obecności policjanta, po wcześniejszym uzgodnieniu terminu z osobą dotkniętą przemocą w rodzinie. ” ;
+    - **c)**
+    - **d)**
+
+- **9)** w art. 15af ust. 4 otrzymuje brzmienie: „
+
+4. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór zawiadomienia osoby stosującej przemoc w rodzinie, wobec której został wydany nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu, pozostawianego w razie niemożności doręczenia jej korespondencji, mając na uwadze konieczność zrozumienia zawiadomienia również przez osoby niekorzystające z profesjonalnej pomocy prawnej. ” ;
+
+- **10)** w art. 15ag: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Policjant, w przypadku wydania nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, informuje osobę dotkniętą przemocą w rodzinie o: ” , – pkt 1 otrzymuje brzmienie: „ 1) możliwości i sposobie złożenia żądania, aby sąd zobowiązał osobę stosującą przemoc w rodzinie do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, wydał zakaz zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, zakaz zbliżania się do osoby dotkniętej przemocą w rodzinie, zakaz kontaktowania się z osobą dotkniętą przemocą w rodzinie lub zakaz wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, lub obiektu sportowego, do których uczęszcza osoba dotknięta przemocą w rodzinie, miejsca pracy lub innego miejsca, w którym zwykle lub regularnie przebywa osoba dotknięta przemocą w rodzinie, i przebywania na tym terenie, o których mowa w przepisach ustawy o przeciwdziałaniu przemocy w rodzinie; ” , – pkt 5 otrzymuje brzmienie: „ 5) możliwości uzyskania pomocy udzielanej przez podmioty, które otrzymały dotacje z Funduszu Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej, o którym mowa w przepisach Kodeksu karnego wykonawczego, oraz danych teleadresowych, najbliższych miejscowo dla osoby dotkniętej przemocą w rodzinie, siedzib tych podmiotów i innych niezbędnych danych kontaktowych tych podmiotów. ” , ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2. Policjant, w przypadku wydania nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, informuje osobę dotkniętą przemocą w rodzinie o możliwości przekazania jej danych osobowych najbliższemu miejscowo podmiotowi, o którym mowa w ust. 1 pkt 5, w celu udzielenia pomocy, chyba że osoba ta nie wyrazi na to zgody. ” ;
+
+- **11)** art. 15ah otrzymuje brzmienie: „ Policjant, w przypadku wydania nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, poucza osobę stosującą przemoc w rodzinie o przyczynach ich wydania, o możliwości i sposobie złożenia zażalenia, a także, w przypadku wydania nakazu i zakazu – informuje o danych teleadresowych właściwych miejscowo placówek zapewniających miejsca noclegowe oraz placówek prowadzących programy oddziaływań korekcyjno-edukacyjnych dla osób stosujących przemoc w rodzinie lub programy psychologiczno-terapeutyczne dla osób stosujących przemoc w rodzinie. ” ;
+- **12)** w art. 15ai ust. 2 otrzymuje brzmienie: „
+
+2. Czynności sprawdzenia Policja podejmuje również na podstawie postanowienia sądu o udzieleniu zabezpieczenia w sprawach z zakresu przeciwdziałania przemocy w rodzinie, w tym postanowienia, którym nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu zostały przedłużone. ” ;
+
+- **13)** w art. 15aj: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Osobie, wobec której wydano nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu, oraz prokuratorowi przysługuje zażalenie do sądu rejonowego, do którego należy rozpoznawanie spraw z zakresu przeciwdziałania przemocy w rodzinie. Zażalenie wnosi się w terminie 3 dni od dnia doręczenia nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, o czym należy osobę stosującą przemoc w rodzinie pouczyć przy doręczeniu. W zażaleniu można domagać się zbadania prawidłowości prowadzenia czynności, zasadności oraz legalności wydanego nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu. W zakresie nieuregulowanym do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o postępowaniu nieprocesowym, z tym że nie stosuje się przepisu art. 3731 tego Kodeksu. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+- **b)**
+
+1a. Zażalenie wnosi się do sądu rejonowego właściwego ze względu na miejsce położenia wspólnie zajmowanego mieszkania. W przypadku gdy osoba stosująca przemoc w rodzinie, wobec której wydano zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu, nie mieszka wspólnie z osobą dotkniętą tą przemocą, zażalenie wnosi się do sądu rejonowego właściwego ze względu na miejsce zamieszkania osoby dotkniętej przemocą w rodzinie. ” , ust. 2 i 3 otrzymują brzmienie: „
+
+- **c)**
+
+2. Sąd rozpoznaje zażalenie w składzie jednego sędziego niezwłocznie, nie później jednak niż w terminie 3 dni od dnia jego wpływu do sądu. Uczestnikami postępowania są organ, który wydał nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu, osoba, wobec której zostały one wydane, oraz prokurator, jeżeli złożył zażalenie.
+
+3. Sąd uchyla zaskarżony nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu w przypadku stwierdzenia jego bezzasadności lub nielegalności, o czym niezwłocznie zawiadamia osobę, wobec której zostały one wydane, osobę dotkniętą przemocą w rodzinie, prokuratora, właściwą jednostkę organizacyjną Policji oraz zespół interdyscyplinarny, o którym mowa w ustawie o przeciwdziałaniu przemocy w rodzinie, a gdy czynności podejmował sąd opiekuńczy – także ten sąd. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+
+- **d)**
+
+3a. Jeżeli jest to niezbędne dla zapewnienia szybkości postępowania, sąd może dokonywać doręczeń przez Policję. Do doręczeń stosuje się odpowiednio przepis art. 5606 Kodeksu postępowania cywilnego. ” ;
+
+- **14)** art. 15ak otrzymuje brzmienie: „
+
+1. Nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania i zakaz wstępu tracą moc po upływie 14 dni od dnia ich wydania, chyba że sąd udzielił zabezpieczenia, którym zostały one przedłużone. Przy obliczaniu terminu nie uwzględnia się dnia, w którym nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu zostały wydane.
+
+2. Nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania i zakaz wstępu tracą także moc, w przypadku gdy po ich wydaniu wobec osoby stosującej przemoc w rodzinie zastosowano środek zapobiegawczy w postaci tymczasowego aresztowania.
+
+3. W przypadku, o którym mowa w ust. 2, prokurator niezwłocznie zawiadamia osobę dotkniętą przemocą w rodzinie oraz właściwą jednostkę organizacyjną Policji. ” ;
+
+- **15)** w art. 19 w ust. 1 w pkt 2 po wyrazach „art. 156 § 1 i 3,” dodaje się wyrazy „art. 156a,” oraz po wyrazach „art. 189a,” dodaje się wyrazy „art. 191b,”;
+- **16)** w art. 55 w ust. 1 pkt 1 i 2 otrzymują brzmienie: „
+- **1)** orzeczenia prawomocnym wyrokiem sądu środka karnego pozbawienia praw publicznych lub
+- **2)** prawomocnego skazania na karę pozbawienia wolności za przestępstwo popełnione w wyniku motywacji zasługującej na szczególne potępienie albo ” .
+
+**Art. 4.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2022 r. poz. 1061, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 w ust. 2 w pkt 4 w lit. j po wyrazach „art. 189a” dodaje się wyrazy „i art. 191b”;
+- **2)** w art. 9e w ust. 1 w pkt 6c po wyrazach „art. 189a” dodaje się wyrazy „i art. 191b”;
+- **3)** w art. 9f w ust. 1 w pkt 2b po wyrazach „art. 189a” dodaje się wyrazy „i art. 191b”.
 
 **Art. 5.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138, 1726, 1855, 2339 i 2600) wprowadza się następujące zmiany:
 
+- **1)** w art. 101 w § 4 po pkt 1 dodaje się pkt 1a w brzmieniu: „
+- **1a)** określonych w art. 156a i art. 191b, popełnionych na szkodę małoletniego, ” ;
+- **2)** w art. 156 w § 1 dodaje się pkt 3 w brzmieniu: „
+- **3)** wycięcia, infibulacji lub innego trwałego i istotnego okaleczenia żeńskiego narządu płciowego, ” ;
+- **3)** po art. 156 dodaje się art. 156a w brzmieniu: „
+
+**Art. 156a.**
+
+§ 1. Kto nakłania inną osobę do spowodowania u niej ciężkiego uszczerbku na zdrowiu, o którym mowa w art. 156 § 1 pkt 3, podlega karze pozbawienia wolności do lat 3.
+
+§ 2. Kto przemocą lub groźbą bezprawną zmusza inną osobę do spowodowania u niej ciężkiego uszczerbku na zdrowiu, o którym mowa w art. 156 § 1 pkt 3, podlega karze pozbawienia wolności od 3 miesięcy do 5 lat. ” ;
+
+- **4)** po art. 191a dodaje się art. 191b w brzmieniu: „
+
+**Art. 191b.**
+
+§ 1. Kto przemocą, groźbą bezprawną lub przez nadużycie stosunku zależności lub wykorzystanie krytycznego położenia doprowadza inną osobę do zawarcia małżeństwa lub związku, który odpowiada małżeństwu w kręgu wyznaniowym lub kulturowym sprawcy, podlega karze pozbawienia wolności od 3 miesięcy do 5 lat.
+
+§ 2. Tej samej karze podlega kto w celu popełnienia przestępstwa określonego w § 1, używając podstępu lub nadużywając stosunku zależności lub wykorzystując krytyczne położenie, nakłania inną osobę do opuszczenia terytorium Rzeczypospolitej Polskiej. ” .
+
 **Art. 6.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375, 1855, 2582 i 2600) wprowadza się następujące zmiany:
 
-**Art. 185f.**
+- **1)** w art. 16 dodaje się § 3 w brzmieniu: „
 
-§ 1. Przesłuchania w trybie określonym w art. 185a–185c oraz art. 185e przeprowadza się w odpowiednio przystosowanych pomieszczeniach w siedzibie sądu lub poza jego siedzibą. Przesłuchanie w trybie określonym w art. 185e może być przeprowadzone także w innym miejscu, jeżeli uzasadniają to indywidualne potrzeby świadka i istnieje możliwość utrwalenia czynności za pomocą urządzenia rejestrującego obraz i dźwięk.
+§ 3. Jeżeli uczestnikiem postępowania jest osoba, która nie ukończyła 18 lat, lub osoba nieporadna, w szczególności ze względu na wiek lub stan zdrowia, sposób pouczenia powinien być dostosowany do jej wieku, stanu zdrowia i stanu rozwoju umysłowego. ” ;
 
-§ 2. Przed pierwszym przesłuchaniem osoba przesłuchiwana w trybie określonym w art. 185a–185c oraz art. 185e otrzymuje informacje o przebiegu, sposobie i warunkach przesłuchania. Informacje zawierają opisowe lub graficzne przedstawienie przebiegu, sposobu i warunków przesłuchania. Pomiędzy doręczeniem informacji a terminem przesłuchania powinno upłynąć co najmniej 3 dni, chyba że dobro postępowania stoi temu na przeszkodzie. Przepisu art. 171 § 8 nie stosuje się.
+- **2)** art. 52a otrzymuje brzmienie: „
 
-§ 3. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór informacji o przebiegu, sposobie i warunkach przesłuchania dla osób, o których mowa w § 2, odrębnie dla osób przesłuchiwanych, o których mowa w art. 185a– 185c oraz art. 185e, uwzględniając potrzebę zrozumienia tych informacji przez osoby przesłuchiwane.
+**Art. 52a.**
 
-§ 4. Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób przygotowania i przeprowadzenia przesłuchań, o których mowa w § 1, oraz warunki, jakim powinny odpowiadać pomieszczenia przeznaczone do przeprowadzania przesłuchań, o których mowa w § 1 zdanie pierwsze, w tym ich wyposażenie techniczne, mając na względzie konieczność zapewnienia swobody wypowiedzi i poczucia bezpieczeństwa osób przesłuchiwanych przy uwzględnieniu indywidualnych potrzeb tych osób.”;
+§ 1. Mając na względzie potrzebę zastosowania wobec pokrzywdzonego art. 147 § 1, w odniesieniu do czynności, o której mowa w art. 143 § 1 pkt 2, lub potrzebę zastosowania wobec pokrzywdzonego art. 177 § 1a, art. 184–185c, art. 185e, art. 299a § 1, art. 360 § 1 pkt 1 lit. d oraz pkt 3, art. 390 § 2 i 3 oraz art. 10 ust. 2 ustawy z dnia 28 listopada 2014 r. o ochronie i pomocy dla pokrzywdzonego i świadka (Dz. U. z 2015 r. poz. 21), organ prowadzący postępowanie karne ustala właściwości i warunki osobiste pokrzywdzonego oraz rodzaj i rozmiar ujemnych następstw popełnionego na jego szkodę przestępstwa, mając na uwadze charakter tego przestępstwa oraz okoliczności jego popełnienia.
 
-- **10)** w art. 275a § 1 otrzymuje brzmienie: „§ 1. Tytułem środka zapobiegawczego można nakazać oskarżonemu o przestępstwo popełnione z użyciem przemocy na szkodę osoby wspólnie zamieszkującej okresowe opuszczenie lokalu zajmowanego wspólnie z pokrzywdzonym i jego najbliższego otoczenia lub zakazać mu zbliżania się do pokrzywdzonego na wskazaną odległość, jeżeli zachodzi uzasadniona obawa, że oskarżony ponownie popełni przestępstwo z użyciem przemocy wobec tej osoby, zwłaszcza gdy popełnieniem takiego przestępstwa groził.”;
-- **11)** w art. 300:
-    - **a)** po § 3 dodaje się § 3a i 3b w brzmieniu: „§ 3a. Osoby, o których mowa w § 1–3, nieporadne ze względu na wiek lub stan zdrowia, oraz które nie ukończyły 18 lat, mogą otrzymać dostęp do wyjaśnień co do zakresu ich uprawnień i obowiązków oraz sposobu i warunków przesłuchania. Wzory wyjaśnień umieszcza się także na stronie internetowej Ministerstwa Sprawiedliwości.
+§ 2. Przed rozpoczęciem czynności, o której mowa w art. 143 § 1 pkt 2 z zastosowaniem art. 147 § 1, lub czynności wskazanych w art. 177 § 1a, art. 184–185c, art. 185e, art. 299a § 1, art. 360 § 1 pkt 1 lit. d oraz pkt 3, art. 390 § 2 i 3 oraz art. 10 ust. 2 ustawy z dnia 28 listopada 2014 r. o ochronie i pomocy dla pokrzywdzonego i świadka, organ prowadzący postępowanie karne odbiera od pokrzywdzonego oświadczenie, czy chce zastosowania przewidzianych w nich środków, chyba że odebranie oświadczenia jest niemożliwe, zastosowanie określonego środka jest obowiązkowe lub organ prowadzący postępowanie działa na wniosek pokrzywdzonego. Oświadczenie składa się na piśmie albo do protokołu organu prowadzącego postępowanie karne. Organ prowadzący postępowanie karne bierze pod uwagę oświadczenie pokrzywdzonego przy podejmowaniu decyzji dotyczących czynności wskazanych w przepisach wymienionych w zdaniu pierwszym.
 
-§ 3b. Pouczenia, o których mowa w § 1–3, i wyjaśnienia, o których mowa w § 3a, mogą być opisowe lub graficzne.”,
+§ 3. Ustaleń, o których mowa w § 1, dokonuje organ prowadzący postępowanie karne przy użyciu kwestionariusza indywidualnej oceny pokrzywdzonego najpóźniej przed rozpoczęciem czynności, o której mowa w art. 143 § 1 pkt 2 z zastosowaniem art. 147 § 1, lub czynności wskazanych w art. 177 § 1a, art. 184–185c, art. 185e, art. 299a § 1, art. 360 § 1 pkt 1 lit. d oraz pkt 3, art. 390 § 2 i 3 oraz art. 10 ust. 2 ustawy z dnia 28 listopada 2014 r. o ochronie i pomocy dla pokrzywdzonego i świadka. Organ prowadzący postępowanie karne może odstąpić od użycia kwestionariusza indywidualnej oceny pokrzywdzonego, gdy zachodzi niebezpieczeństwo utraty lub zniekształcenia dowodu w razie zwłoki lub gdy utrudni to postępowanie. W takim wypadku informacje dotyczące ustaleń, o których mowa w § 1, i oświadczenia, o którym mowa w § 2, należy zamieścić w protokole czynności.
 
-- **b)** § 4 otrzymuje brzmienie: „§ 4. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzory pisemnych:
+§ 4. Kwestionariusz indywidualnej oceny pokrzywdzonego nie stanowi dowodu okoliczności, o których mowa w § 1.
+
+§ 5. Przepisy § 1–4 stosuje się odpowiednio do świadka, jeżeli występują u niego zaburzenia psychiczne, rozwojowe, zakłócenia zdolności postrzegania lub odtwarzania przez niego postrzeżeń uzasadniające przekonanie, że przesłuchanie powinno się odbyć w trybie określonym w art. 185e, w zakresie niezbędnym do dokonania ustaleń co do przeprowadzenia przesłuchania zgodnie z tym przepisem.
+
+§ 6. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór kwestionariusza indywidualnej oceny, odrębnie dla pokrzywdzonego i świadka wskazanego w § 5, oraz sposób i miejsce przechowywania tego kwestionariusza, mając na uwadze konieczność zebrania w sposób wyczerpujący danych o pokrzywdzonym lub świadku, niezbędnych do ustalenia, czy zachodzą podstawy do przeprowadzenia czynności przewidzianych w przepisach wymienionych w § 1 oraz konieczność zachowania ustawowych wymogów ochrony danych pokrzywdzonego lub świadka. ” ;
+
+- **3)** w art. 147 § 2a otrzymuje brzmienie: „
+
+§ 2a. Przesłuchanie w trybie określonym w art. 185a-185c oraz art. 185e utrwala się za pomocą urządzenia rejestrującego obraz i dźwięk. ” ;
+
+- **4)** w art. 171: § 3 otrzymuje brzmienie: „
+    - **a)**
+
+§ 3. Jeżeli osoba przesłuchiwana nie ukończyła 18 lat, czynności z jej udziałem powinny być, w miarę możliwości, przeprowadzone w obecności przedstawiciela ustawowego, faktycznego opiekuna lub osoby pełnoletniej wskazanej przez osobę przesłuchiwaną, chyba że dobro postępowania stoi temu na przeszkodzie lub sprzeciwia się temu osoba przesłuchiwana. ” , po § 4 dodaje się § 4a w brzmieniu: „
+
+- **b)**
+
+§ 4a. Pytania zadawane świadkowi nie mogą dotyczyć jego życia seksualnego, chyba że jest to niezbędne dla rozstrzygnięcia sprawy. ” , § 6 otrzymuje brzmienie: „
+
+- **c)**
+
+§ 6. Organ przesłuchujący uchyla pytania określone w § 4 lub 4a, jak również pytania nieistotne. ” , dodaje się § 8 i 9 w brzmieniu: „
+
+- **d)**
+
+§ 8. Przed pierwszym przesłuchaniem osoba, o której mowa w § 3, otrzymuje informacje o przebiegu, sposobie i warunkach przesłuchania. Informacje zawierają opisowe lub graficzne przedstawienie przebiegu, sposobu i warunków przesłuchania. Pomiędzy doręczeniem informacji a terminem przesłuchania powinno upłynąć co najmniej 3 dni, chyba że dobro postępowania stoi temu na przeszkodzie.
+
+§ 9. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór informacji o przebiegu, sposobie i warunkach przesłuchania dla osób, o których mowa w § 3, odrębnie dla podejrzanego i świadka, uwzględniając potrzebę zrozumienia tych informacji przez osoby przesłuchiwane. ” ;
+
+- **5)** w art. 185a: § 1 otrzymuje brzmienie: „
+    - **a)**
+
+§ 1. W sprawach o przestępstwa popełnione z użyciem przemocy lub groźby bezprawnej lub określone w rozdziałach XXIII, XXV i XXVI Kodeksu karnego pokrzywdzonego, który w chwili przesłuchania nie ukończył 15 lat, przesłuchuje się w charakterze świadka tylko wówczas, gdy jego zeznania mogą mieć istotne znaczenie dla rozstrzygnięcia sprawy, i tylko raz, chyba że wyjdą na jaw istotne okoliczności, których wyjaśnienie wymaga ponownego przesłuchania, lub w razie uwzględnienia wniosku dowodowego oskarżonego, który nie miał obrońcy w czasie pierwszego przesłuchania pokrzywdzonego. ” , dodaje się § 5 w brzmieniu: „
+
+- **b)**
+
+§ 5. W sprawach o przestępstwa określone w § 1 biegły psycholog biorący udział w przesłuchaniu powinien być osobą płci wskazanej przez pokrzywdzonego, chyba że będzie to utrudniać postępowanie. ” ;
+
+- **6)** w art. 185b w § 1 wyrazy „art. 185a § 1–3” zastępuje się wyrazami „art. 185a § 1–3 i 5”;
+- **7)** w art. 185c: § 1a otrzymuje brzmienie: „
+    - **a)**
+
+§ 1a. W sprawach o przestępstwa określone w § 1 pokrzywdzonego, który w chwili przesłuchania ukończył 15 lat, przesłuchuje się w charakterze świadka tylko wówczas, gdy jego zeznania mogą mieć istotne znaczenie dla rozstrzygnięcia sprawy, i tylko raz, chyba że wyjdą na jaw istotne okoliczności, których wyjaśnienie wymaga ponownego przesłuchania, lub w razie uwzględnienia wniosku dowodowego oskarżonego, który nie miał obrońcy w czasie pierwszego przesłuchania pokrzywdzonego. ” , uchyla się § 3, § 4 otrzymuje brzmienie: „
+
+- **b)**
+- **c)**
+
+§ 4. Na wniosek pokrzywdzonego należy zapewnić, aby biegły psycholog biorący udział w przesłuchaniu był osobą o wskazanej przez niego płci, chyba że będzie to utrudniać postępowanie. ” ;
+
+- **8)** uchyla się art. 185d;
+- **9)** po art. 185d dodaje się art. 185e i art. 185f w brzmieniu: „
+
+**Art. 185e.**
+
+§ 1. Jeżeli u świadka występują zaburzenia psychiczne, rozwojowe, zakłócenia zdolności postrzegania lub odtwarzania przez niego postrzeżeń i zachodzi uzasadniona obawa, że przesłuchanie w innych warunkach niż wskazane w tym przepisie mogłoby wpłynąć negatywnie na jego stan psychiczny lub byłoby znacznie utrudnione, świadka przesłuchuje się tylko wówczas, gdy jego zeznania mogą mieć istotne znaczenie dla rozstrzygnięcia sprawy, i tylko raz, chyba że wyjdą na jaw istotne okoliczności, których wyjaśnienie wymaga ponownego przesłuchania, lub w razie uwzględnienia wniosku dowodowego oskarżonego, który nie miał obrońcy w czasie pierwszego przesłuchania świadka.
+
+§ 2. Przesłuchanie przeprowadza sąd na posiedzeniu z udziałem biegłego psychologa, nie później niż w terminie 14 dni od dnia wpływu wniosku. Prokurator, obrońca oraz pełnomocnik mają prawo wziąć udział w przesłuchaniu. Osoba wymieniona w art. 51 § 2 lub 3 lub osoba pełnoletnia wskazana przez świadka ma prawo również być obecna przy przesłuchaniu, jeżeli nie ogranicza to swobody wypowiedzi przesłuchiwanego. Na rozprawie głównej odtwarza się sporządzony zapis obrazu i dźwięku przesłuchania oraz odczytuje się protokół przesłuchania.
+
+§ 3. Biegły psycholog biorący udział w przesłuchaniu powinien być osobą płci wskazanej przez świadka, chyba że będzie to utrudniać postępowanie.
+
+§ 4. Jeżeli świadek ma problemy z komunikacją werbalną, przesłuchanie przeprowadza się przy wykorzystaniu komunikacji wspomagającej i alternatywnej, którymi posługuje się świadek. W przesłuchaniu bierze udział biegły mający odpowiednią wiedzę w zakresie komunikacji wspomagającej i alternatywnej.
+
+§ 5. W odniesieniu do świadków, o których mowa w § 1, przepisów art. 185a-185c nie stosuje się.
+
+§ 1. Przesłuchania w trybie określonym w art. 185a-185c oraz art. 185e przeprowadza się w odpowiednio przystosowanych pomieszczeniach w siedzibie sądu lub poza jego siedzibą. Przesłuchanie w trybie określonym w art. 185e może być przeprowadzone także w innym miejscu, jeżeli uzasadniają to indywidualne potrzeby świadka i istnieje możliwość utrwalenia czynności za pomocą urządzenia rejestrującego obraz i dźwięk.
+
+§ 2. Przed pierwszym przesłuchaniem osoba przesłuchiwana w trybie określonym w art. 185a-185c oraz art. 185e otrzymuje informacje o przebiegu, sposobie i warunkach przesłuchania. Informacje zawierają opisowe lub graficzne przedstawienie przebiegu, sposobu i warunków przesłuchania. Pomiędzy doręczeniem informacji a terminem przesłuchania powinno upłynąć co najmniej 3 dni, chyba że dobro postępowania stoi temu na przeszkodzie. Przepisu art. 171 § 8 nie stosuje się.
+
+§ 3. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór informacji o przebiegu, sposobie i warunkach przesłuchania dla osób, o których mowa w § 2, odrębnie dla osób przesłuchiwanych, o których mowa w art. 185a-185c oraz art. 185e, uwzględniając potrzebę zrozumienia tych informacji przez osoby przesłuchiwane.
+
+§ 4. Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób przygotowania i przeprowadzenia przesłuchań, o których mowa w § 1, oraz warunki, jakim powinny odpowiadać pomieszczenia przeznaczone do przeprowadzania przesłuchań, o których mowa w § 1 zdanie pierwsze, w tym ich wyposażenie techniczne, mając na względzie konieczność zapewnienia swobody wypowiedzi i poczucia bezpieczeństwa osób przesłuchiwanych przy uwzględnieniu indywidualnych potrzeb tych osób. ” ;
+
+- **10)** w art. 275a § 1 otrzymuje brzmienie: „
+
+§ 1. Tytułem środka zapobiegawczego można nakazać oskarżonemu o przestępstwo popełnione z użyciem przemocy na szkodę osoby wspólnie zamieszkującej okresowe opuszczenie lokalu zajmowanego wspólnie z pokrzywdzonym i jego najbliższego otoczenia lub zakazać mu zbliżania się do pokrzywdzonego na wskazaną odległość, jeżeli zachodzi uzasadniona obawa, że oskarżony ponownie popełni przestępstwo z użyciem przemocy wobec tej osoby, zwłaszcza gdy popełnieniem takiego przestępstwa groził. ” ;
+
+- **11)** w art. 300: po § 3 dodaje się § 3a i 3b w brzmieniu: „
+    - **a)**
+
+§ 3a. Osoby, o których mowa w § 1–3, nieporadne ze względu na wiek lub stan zdrowia, oraz które nie ukończyły 18 lat, mogą otrzymać dostęp do wyjaśnień co do zakresu ich uprawnień i obowiązków oraz sposobu i warunków przesłuchania. Wzory wyjaśnień umieszcza się także na stronie internetowej Ministerstwa Sprawiedliwości.
+
+§ 3b. Pouczenia, o których mowa w § 1–3, i wyjaśnienia, o których mowa w § 3a, mogą być opisowe lub graficzne. ” , § 4 otrzymuje brzmienie: „
+
+- **b)**
+
+§ 4. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzory pisemnych:
+
 - **1)** pouczeń, o których mowa w § 1–3, w tym odrębne dla osób, które nie ukończyły 18 lat, mając na względzie konieczność zrozumienia pouczenia przez osoby niekorzystające z pomocy obrońcy lub pełnomocnika, osoby nieporadne ze względu na wiek lub stan zdrowia lub osoby, które nie ukończyły 18 lat;
-- **2)** wyjaśnień, o których mowa w § 3a, odrębne dla osób nieporadnych ze względu na wiek lub stan zdrowia oraz osób, które nie ukończyły 18 lat, mając na względzie konieczność zrozumienia wyjaśnień przez te osoby.”;
-- **12)** w art. 361:
-    - **a)** po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Podczas czynności z udziałem pokrzywdzonego przeprowadzanych na rozprawie z wyłączeniem jawności może być obecna osoba przez niego wskazana.”,
-    - **b)** § 2 otrzymuje brzmienie: „§ 2. Przepisów § 1 i 1a nie stosuje się, jeżeli zachodzi obawa ujawnienia informacji niejawnych o klauzuli „tajne” lub „ściśle tajne”.”;
+- **2)** wyjaśnień, o których mowa w § 3a, odrębne dla osób nieporadnych ze względu na wiek lub stan zdrowia oraz osób, które nie ukończyły 18 lat, mając na względzie konieczność zrozumienia wyjaśnień przez te osoby. ” ;
+- **12)** w art. 361: po § 1 dodaje się § 1a w brzmieniu: „
+    - **a)**
 
-- **13)** w art. 393 w § 4 zdanie drugie otrzymuje brzmienie: „Rozprawa jest wówczas niejawna; przepisów art. 361 § 1 i 1a nie stosuje się.”.
+§ 1a. Podczas czynności z udziałem pokrzywdzonego przeprowadzanych na rozprawie z wyłączeniem jawności może być obecna osoba przez niego wskazana. ” , § 2 otrzymuje brzmienie: „
 
-**Art. 6a.** W ustawie z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2022 r. poz. 2516 oraz z 2023 r. poz. 535) w art. 19a w ust. 1 pkt 3–5 otrzymują brzmienie: „3) wydania wobec tej osoby nakazu natychmiastowego opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia i zakazu zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, zakazu zbliżania się do osoby doznającej tej przemocy na wyrażoną w metrach odległość, zakazu kontaktowania się z osobą doznającą przemocy domowej lub zakazu wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, obiektu sportowego lub miejsca pracy, i przebywania na tym terenie, o których mowa w art. 15aa ust. 1 i art. 15aaa ust. 1 i 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z późn. zm. );
+- **b)**
 
-**Art. 7.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r. poz. 217 oraz z 2022 r. poz. 2642) w art. 82a po § 3 dodaje się § 3a w brzmieniu: „§ 3a. Sędzia orzekający w sprawach karnych powinien uczestniczyć, co cztery lata, w szkoleniu i doskonaleniu zawodowym organizowanym przez Krajową Szkołę Sądownictwa i Prokuratury, w celu uzupełnienia specjalistycznej wiedzy i umiejętności zawodowych z zakresu przesłuchiwania osób, które nie ukończyły 18 lat, oraz osób, o których mowa w art. 185c i art. 185e ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.”.
+§ 2. Przepisów § 1 i 1a nie stosuje się, jeżeli zachodzi obawa ujawnienia informacji niejawnych o klauzuli „tajne” lub „ściśle tajne”. ” ;
 
-**Art. 8.** W ustawie z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2021 r. poz. 1214, z 2022 r. poz. 655, 1488 i 2600 oraz z 2023 r. poz. 289 i 535) wprowadza się następujące zmiany:
+- **13)** w art. 393 w § 4 zdanie drugie otrzymuje brzmienie: „ Rozprawa jest wówczas niejawna; przepisów art. 361 § 1 i 1a nie stosuje się. ” .
 
-**Art. 9.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2022 r. poz. 1125 oraz 2023 r. poz. 181, 289, 326 i 403) wprowadza się następujące zmiany:
+**Art. 7.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r. poz. 217 oraz z 2022 r. poz. 2642) w art. 82a po § 3 dodaje się § 3a w brzmieniu: „
 
-**Art. 10.** W ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy w rodzinie (Dz. U. z 2021 r. poz. 1249 oraz z 2023 r. poz. 289 i 535) wprowadza się następujące zmiany:
+§ 3a. Sędzia orzekający w sprawach karnych powinien uczestniczyć, co cztery lata, w szkoleniu i doskonaleniu zawodowym organizowanym przez Krajową Szkołę Sądownictwa i Prokuratury, w celu uzupełnienia specjalistycznej wiedzy i umiejętności zawodowych z zakresu przesłuchiwania osób, które nie ukończyły 18 lat, oraz osób, o których mowa w art. 185c i art. 185e ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego. ” .
 
-**Art. 11.** W ustawie z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700) w art. 28:
+**Art. 8.** W ustawie z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2021 r. poz. 1214 oraz z 2022 r. poz. 655, 1488 i 2600) wprowadza się następujące zmiany:
+
+- **1)** w art. 17 w ust. 1 pkt 4 otrzymuje brzmienie: „
+- **4)** zatrzymywania w przypadkach określonych w art. 18 ust. 1 i 2 oraz w przepisach innych ustaw; ” ;
+- **2)** w art. 18: w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Żołnierz Żandarmerii Wojskowej w celu stwierdzenia zasadności zatrzymania, o którym mowa w ust. 2, ocenia ryzyko bezpośredniego zagrożenia dla życia lub zdrowia ludzkiego, odrębnie dla osoby dorosłej i dziecka, biorąc pod uwagę w szczególności: ” , dodaje się ust. 4–6 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+4. Oceny ryzyka, o której mowa w ust. 3, dokonuje się w kwestionariuszu szacowania ryzyka zagrożenia życia lub zdrowia ludzkiego dołączanym do protokołu zatrzymania.
+
+5. W uzasadnionych przypadkach, w szczególności gdy przybycie Żandarmerii Wojskowej na miejsce interwencji jest niemożliwe lub znacznie utrudnione, a na podstawie ustalonych okoliczności policjant stwierdził, że osoba stosująca przemoc w rodzinie stwarza bezpośrednie zagrożenie dla życia lub zdrowia osoby dotkniętej tą przemocą, policjant ma prawo zatrzymać żołnierza pełniącego czynną służbę wojskową. Przepis art. 15a ust. 1 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z 2022 r. poz. 2600 oraz z 2023 r. poz. 185, 240 i 289) stosuje się odpowiednio.
+
+6. Żandarmeria Wojskowa, także w przypadku, o którym mowa w ust. 5, niezwłocznie zawiadamia o dokonaniu zatrzymania prokuratora i właściwy miejscowo zespół interdyscyplinarny, o którym mowa w ustawie o przeciwdziałaniu przemocy w rodzinie, a gdy w mieszkaniu zamieszkują osoby małoletnie – także właściwy miejscowo sąd opiekuńczy. ” ;
+
+- **3)** w art. 18a: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Żołnierz Żandarmerii Wojskowej ma prawo wydać wobec żołnierza pełniącego czynną służbę wojskową, stosującego przemoc w rodzinie w rozumieniu przepisów ustawy o przeciwdziałaniu przemocy w rodzinie, stwarzającego zagrożenie dla życia lub zdrowia osoby dotkniętej tą przemocą, zwanego dalej „osobą stosującą przemoc w rodzinie”, nakaz natychmiastowego opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia i zakaz zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, zwany dalej „nakazem i zakazem”. ” , uchyla się ust. 2–4, w ust. 5 wyrazy „nakazie lub zakazie” zastępuje się wyrazami „nakazie i zakazie”;
+
+- **b)**
+- **c)**
+- **4)** po art. 18a dodaje się art. 18aa-18ac w brzmieniu: „ Art. 18aa.
+
+1. Żołnierz Żandarmerii Wojskowej ma prawo wydać wobec osoby stosującej przemoc w rodzinie w rozumieniu przepisów ustawy o przeciwdziałaniu przemocy w rodzinie, stwarzającej zagrożenie dla życia lub zdrowia osoby dotkniętej tą przemocą, zakaz zbliżania się do tej osoby na wyrażoną w metrach odległość, zwany dalej „zakazem zbliżania”, lub zakaz kontaktowania się z osobą dotkniętą przemocą w rodzinie, zwany dalej „zakazem kontaktowania”.
+
+2. Jeżeli osoba dotknięta przemocą w rodzinie uczęszcza do szkoły, placówki oświatowej, opiekuńczej lub artystycznej, uprawia sport lub pracuje, żołnierz Żandarmerii Wojskowej ma prawo wydać wobec osoby stosującej przemoc w rodzinie, stwarzającej zagrożenie dla życia lub zdrowia osoby dotkniętej tą przemocą, zakaz wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, obiektu sportowego lub miejsca pracy, i przebywania na tym terenie, zwany dalej „zakazem wstępu”, chyba że osoba stosująca przemoc jest tam zatrudniona lub pobiera naukę.
+
+1. W uzasadnionych przypadkach, w szczególności gdy przybycie Żandarmerii Wojskowej na miejsce interwencji jest niemożliwe lub znacznie utrudnione, a na podstawie ustalonych okoliczności policjant stwierdził, że osoba stosująca przemoc w rodzinie stwarza zagrożenie dla życia lub zdrowia osoby dotkniętej tą przemocą, policjant ma prawo wydać nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu wobec żołnierza pełniącego czynną służbę wojskową. Przepisy art. 15aa ust. 1 i art. 15 ustawy z dnia 6 kwietnia 1990 r. o Policji stosuje się odpowiednio.
+
+2. W przypadku, o którym mowa w ust. 1, Policja wykonuje czynności wskazane w art. 15ab ust. 4, 9 i 11, art. 15ad ust. 1 i 1a, art. 15ae ust. 1 i 7 oraz art. 15ag ustawy z dnia 6 kwietnia 1990 r. o Policji.
+
+1. Nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu mogą być stosowane łącznie.
+
+2. Nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania oraz zakaz wstępu są natychmiast wykonalne.
+
+3. Jeżeli po wydaniu nakazu i zakazu wystąpią okoliczności uzasadniające wydanie zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, dzień zakończenia ich obowiązywania musi odpowiadać dniowi, w którym upływa termin stosowania nakazu i zakazu.
+
+4. Żołnierz Żandarmerii Wojskowej w celu stwierdzenia zasadności wydania nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu stosuje odpowiednio przepisy art. 18 ust. 3 i 4. ” ;
+
+- **5)** użyte w art. 18b w ust. 1 we wprowadzeniu do wyliczenia i w ust. 10, w art. 18c w ust. 1 w pkt 3, w art. 18d w ust. 2, w art. 18f w ust. 1 i 2, w art. 18g w ust. 1 w pkt 2 i w ust. 3, w art. 18i w ust. 1 oraz w art. 18j w ust. 4, w różnym przypadku, wyrazy „nakaz lub zakaz” zastępuje się użytymi w odpowiednim przypadku wyrazami „nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu”;
+- **6)** w art. 18b: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. W przypadku zatrzymania osoby stosującej przemoc w rodzinie nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu mogą być wydane bezpośrednio po jej zwolnieniu. Jeżeli zatrzymania dokonał policjant, nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu wydaje żołnierz Żandarmerii Wojskowej. W przypadku sporządzenia kwestionariusza szacowania ryzyka zagrożenia życia lub zdrowia ludzkiego na podstawie art. 18 ust. 4 kolejnego kwestionariusza nie sporządza się. ” , ust. 4 otrzymuje brzmienie: „
+
+- **b)**
+
+4. Osobę zgłaszającą przemoc w rodzinie przesłuchuje się w charakterze świadka, po pouczeniu o treści art. 233 Kodeksu karnego, na okoliczności wskazane w zgłoszeniu, o ile to możliwe, na miejscu zdarzenia. Żandarmeria Wojskowa w celu ustalenia, czy zachodzą przesłanki, o których mowa w art. 18a ust. 1 lub art. 18aa, oraz w celu wskazania obszaru, który osoba stosująca przemoc w rodzinie ma opuścić i na którym nie może przebywać, odległości od wspólnie zajmowanego mieszkania, którą osoba stosująca przemoc w rodzinie jest obowiązana zachować, lub ustalenia w metrach odległości, którą osoba stosująca przemoc w rodzinie jest obowiązana zachować od osoby dotkniętej tą przemocą, może przesłuchać w charakterze świadków również inne osoby, w szczególności wszystkie dotknięte tą przemocą osoby pełnoletnie wspólnie zajmujące mieszkanie. Żandarmeria Wojskowa, dokonując wskazanych ustaleń, uwzględnia w protokole przesłuchania zaistnienie okoliczności zagrożenia życia lub zdrowia ludzkiego. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
+
+- **c)**
+
+5a. W przypadku gdy zachodzi obawa, że obecność osoby stosującej przemoc w rodzinie będzie oddziaływać krępująco na świadka lub wywierać negatywny wpływ na jego stan psychiczny, żołnierz Żandarmerii Wojskowej może nakazać tej osobie, aby na czas przesłuchania świadka opuściła miejsce przesłuchania. ” , ust. 6 otrzymuje brzmienie: „
+
+- **d)**
+
+6. Osobę małoletnią można przesłuchać tylko wówczas, gdy jej zeznania mogą mieć istotne znaczenie dla sprawy, w szczególności gdy jest jedynym świadkiem zdarzenia, a brak jest innych dowodów, i wyłącznie w odpowiednio przystosowanych pomieszczeniach, o których mowa w przepisach Kodeksu postępowania karnego. ” , ust. 9 otrzymuje brzmienie: „
+
+- **e)**
+
+9. Żołnierz Żandarmerii Wojskowej, przed wydaniem nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, wysłuchuje osobę stosującą przemoc w rodzinie, o ile nie utrudni to ich natychmiastowego wydania. Żandarmeria Wojskowa może również dokonywać innych czynności w celu ustalenia, czy zachodzą okoliczności wskazane w art. 18a ust. 1 lub art. 18aa. ” , ust. 11 otrzymuje brzmienie: „
+
+- **f)**
+
+11. Żandarmeria Wojskowa, przed wydaniem nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, ma prawo zażądać dodatkowych informacji od innych instytucji lub organów, w celu ustalenia, czy zachodzą okoliczności wskazane w art. 18a ust. 1 lub art. 18aa. ” , dodaje się ust. 12 w brzmieniu: „
+
+- **g)**
+
+12. Jeżeli zachodzą przesłanki zatrzymania, o którym mowa w art. 18 ust. 2, lub wydania nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, a wobec osoby stosującej przemoc w rodzinie wykonywana jest kara pozbawienia wolności w systemie dozoru elektronicznego, żołnierz Żandarmerii Wojskowej dokonuje zatrzymania takiej osoby i bezzwłocznie przekazuje ją do dyspozycji sądu właściwego do orzekania w przedmiocie uchylenia zezwolenia na odbywanie kary w systemie dozoru elektronicznego. Sąd orzeka w ciągu 48 godzin od chwili zatrzymania. ” ;
+
+- **7)** w art. 18c: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania oraz zakaz wstępu zawierają w szczególności: ” , ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2. Minister Obrony Narodowej określi, w drodze rozporządzenia, wzór nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania oraz zakazu wstępu, sposób wykonywania i dokumentowania czynności związanych z wydaniem nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania oraz zakazu wstępu i wzór kwestionariusza szacowania ryzyka zagrożenia życia lub zdrowia ludzkiego służący stwierdzeniu zasadności zatrzymania, o którym mowa w art. 18 ust. 2, lub wydania nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, mając na względzie potrzebę zawarcia niezbędnych pouczeń w nakazie i zakazie, zakazie zbliżania, zakazie kontaktowania oraz zakazie wstępu, a także sprawnego sporządzania dokumentacji oraz konieczność natychmiastowej i skutecznej ochrony osób doznających przemocy w rodzinie. ” ;
+
+- **8)** w art. 18d: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Żołnierz Żandarmerii Wojskowej doręcza odpis nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu niezwłocznie po ich wydaniu osobie stosującej przemoc w rodzinie oraz osobie dotkniętej tą przemocą. ” , po ust. 1 dodaje się ust. 1a-1e w brzmieniu: „
+
+- **b)**
+
+1a. W razie niemożności doręczenia osobie stosującej przemoc w rodzinie, zamieszkującej wspólnie z osobą dotkniętą tą przemocą odpisu nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, w sposób określony w ust. 1, odpis należy złożyć we właściwej jednostce organizacyjnej Żandarmerii Wojskowej, umieszczając zawiadomienie o ich wydaniu na drzwiach wspólnie zajmowanego mieszkania, ze wskazaniem przyczyny umieszczenia zawiadomienia oraz wskazaniem, gdzie i kiedy pismo pozostawiono. Doręczenie uważa się za dokonane z chwilą umieszczenia zawiadomienia na drzwiach wspólnie zajmowanego mieszkania.
+
+1b. W przypadku wydania zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, gdy osoba stosująca przemoc w rodzinie nie zamieszkuje wspólnie z osobą dotkniętą tą przemocą, zawiadomienie o ich wydaniu umieszcza się niezwłocznie na drzwiach mieszkania osoby dotkniętej przemocą w rodzinie. Żandarmeria Wojskowa w terminie 24 godzin od chwili wydania zakazów, o których mowa w zdaniu pierwszym, doręcza osobie stosującej przemoc w rodzinie ich odpisy w miejscu jej zamieszkania lub innym miejscu, w którym osoba ta przebywa lub ją zastano. Doręczenie uważa się za dokonane z chwilą doręczenia osobie stosującej przemoc w rodzinie odpisu zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu. Przepis art. 138 Kodeksu postępowania cywilnego stosuje się odpowiednio.
+
+1c. W razie ustalenia miejsca zamieszkania lub pobytu osoby stosującej przemoc w rodzinie niezamieszkującej wspólnie z osobą dotkniętą tą przemocą i niemożności doręczenia jej odpisu zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, przepis ust. 1a stosuje się odpowiednio, z zastrzeżeniem, że zawiadomienie o ich wydaniu umieszcza się na drzwiach mieszkania osoby stosującej przemoc w rodzinie. Doręczenie uważa się za dokonane z chwilą umieszczenia zawiadomienia na drzwiach mieszkania osoby stosującej przemoc w rodzinie.
+
+1d. W razie niemożności doręczenia osobie stosującej przemoc w rodzinie niezamieszkującej wspólnie z osobą dotkniętą tą przemocą odpisu zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, w sposób wskazany w ust. 1b i 1c, doręczenie uważa się za dokonane z chwilą umieszczenia zawiadomienia na drzwiach mieszkania osoby dotkniętej przemocą w rodzinie.
+
+1e. W nakazie i zakazie, zakazie zbliżania, zakazie kontaktowania i zakazie wstępu dokonuje się wzmianki o niemożności doręczenia ich odpisów, wskazując jej przyczynę oraz datę i godzinę pozostawienia zawiadomienia, o którym mowa w ust. 1a-1c. ” , ust. 3–5 otrzymują brzmienie: „
+
+- **c)**
+
+3. Zawiadomienie, o którym mowa w ust. 1a-1c, zawiera imię i nazwisko osoby stosującej przemoc w rodzinie oraz wezwanie do niezwłocznego kontaktu z właściwą jednostką organizacyjną Żandarmerii Wojskowej, a ponadto dostępne po otwarciu zawiadomienia informacje o wydaniu nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, podstawie prawnej, miejscu i terminie ich odebrania, a także zasadach zabrania ze wspólnie zajmowanego mieszkania i z jego bezpośredniego otoczenia przedmiotów osobistego użytku i przedmiotów niezbędnych do wykonywania osobistej pracy zarobkowej lub zwierząt domowych będących własnością osoby stosującej przemoc w rodzinie niezbędnych do codziennego funkcjonowania lub pracy zarobkowej.
+
+4. Żandarmeria Wojskowa niezwłocznie doręcza prokuratorowi odpis nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu oraz zawiadamia właściwy miejscowo zespół interdyscyplinarny, o którym mowa w ustawie o przeciwdziałaniu przemocy w rodzinie, a gdy w mieszkaniu zamieszkują osoby małoletnie lub osobą dotkniętą przemocą w rodzinie jest osoba małoletnia – także właściwy miejscowo sąd opiekuńczy. W przypadku wydania zakazu wstępu Żandarmeria Wojskowa niezwłocznie zawiadamia o tym fakcie dyrektora szkoły, placówki oświatowej, opiekuńczej lub artystycznej, do której uczęszcza osoba dotknięta przemocą w rodzinie, osobę zarządzającą obiektem sportowym, do którego uczęszcza osoba dotknięta przemocą w rodzinie, lub pracodawcę osoby dotkniętej przemocą w rodzinie.
+
+5. Minister Obrony Narodowej określi, w drodze rozporządzenia, wzór zawiadomienia, o którym mowa w ust. 1a-1c, umieszczanego na drzwiach mieszkania w razie niemożności doręczenia odpisu nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, mając na uwadze konieczność zrozumienia zawiadomienia również przez osoby niekorzystające z profesjonalnej pomocy prawnej. ” ;
+
+- **9)** w art. 18e: użyte w ust. 1, w ust. 2 w pkt 4 oraz w ust. 6–8, w różnych przypadkach, wyrazy „nakaz lub zakaz” zastępuje się użytymi w odpowiednim przypadku wyrazami „nakaz i zakaz”, w ust. 2 pkt 7 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **7)** w miarę potrzeby stwierdzenie innych okoliczności dotyczących przebiegu czynności, w szczególności wskazanie zabranych ze wspólnie zajmowanego mieszkania i z jego bezpośredniego otoczenia przedmiotów osobistego użytku i przedmiotów niezbędnych do wykonywania osobistej pracy zarobkowej lub zwierząt domowych będących własnością osoby stosującej przemoc w rodzinie niezbędnych do codziennego funkcjonowania lub pracy zarobkowej oraz opis pozostawionego mienia, które według twierdzeń osoby stosującej przemoc w rodzinie, wobec której wydano nakaz i zakaz, stanowi jej własność. ” , w ust. 4 zdania pierwsze i drugie otrzymują brzmienie: „ Osoba stosująca przemoc w rodzinie, wobec której wydano nakaz i zakaz, ma prawo zabrać ze wspólnie zajmowanego mieszkania i z jego bezpośredniego otoczenia przedmioty osobistego użytku i przedmioty niezbędne do wykonywania osobistej pracy zarobkowej lub zwierzęta domowe będące jej własnością niezbędne do codziennego funkcjonowania lub pracy zarobkowej. W przypadku sprzeciwu osoby dotkniętej przemocą w rodzinie te przedmioty lub zwierzęta domowe pozostawia się we wspólnie zajmowanym mieszkaniu lub w jego bezpośrednim otoczeniu. ” , w ust. 5 zdanie pierwsze otrzymuje brzmienie: „ Jeżeli w okresie obowiązywania nakazu i zakazu zajdzie potrzeba zabrania przez osobę stosującą przemoc w rodzinie ze wspólnie zajmowanego mieszkania i z jego bezpośredniego otoczenia mienia stanowiącego jej własność, w szczególności niezabranych uprzednio przedmiotów osobistego użytku i przedmiotów niezbędnych do wykonywania osobistej pracy zarobkowej lub zwierząt domowych będących jej własnością niezbędnych do codziennego funkcjonowania lub pracy zarobkowej, może się to odbyć jeden raz, wyłącznie w obecności żołnierza Żandarmerii Wojskowej, po wcześniejszym uzgodnieniu terminu z osobą dotkniętą przemocą w rodzinie. ” ;
+    - **c)**
+    - **d)**
+
+- **10)** w art. 18f ust. 4 otrzymuje brzmienie: „
+
+4. Minister Obrony Narodowej określi, w drodze rozporządzenia, wzór zawiadomienia osoby stosującej przemoc w rodzinie, wobec której został wydany nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu, pozostawianego w razie niemożności doręczenia jej korespondencji, mając na uwadze konieczność zrozumienia zawiadomienia również przez osoby niekorzystające z profesjonalnej pomocy prawnej. ” ;
+
+- **11)** w art. 18g: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Żołnierz Żandarmerii Wojskowej, w przypadku wydania nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, informuje osobę dotkniętą przemocą w rodzinie o: ” , – pkt 1 otrzymuje brzmienie: „ 1) możliwości i sposobie złożenia żądania, aby sąd zobowiązał osobę stosującą przemoc w rodzinie do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, wydał zakaz zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, zakaz zbliżania się do osoby dotkniętej przemocą w rodzinie, zakaz kontaktowania się z osobą dotkniętą przemocą w rodzinie lub zakaz wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, lub obiektu sportowego, do których uczęszcza osoba dotknięta przemocą w rodzinie, miejsca pracy lub innego miejsca, w którym zwykle lub regularnie przebywa osoba dotknięta przemocą w rodzinie, i przebywania na tym terenie, o których mowa w przepisach ustawy o przeciwdziałaniu przemocy w rodzinie; ” , – pkt 5 otrzymuje brzmienie: „ 5) możliwości uzyskania pomocy udzielanej przez podmioty, które otrzymały dotacje z Funduszu Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej, o którym mowa w przepisach Kodeksu karnego wykonawczego, oraz danych teleadresowych, najbliższych miejscowo dla osoby dotkniętej przemocą w rodzinie, siedzib tych podmiotów i innych niezbędnych danych kontaktowych tych podmiotów. ” , ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2. Żołnierz Żandarmerii Wojskowej, w przypadku wydania nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, informuje osobę dotkniętą przemocą w rodzinie o możliwości przekazania jej danych osobowych najbliższemu miejscowo podmiotowi, o którym mowa w ust. 1 pkt 5, w celu udzielenia pomocy, chyba że osoba ta nie wyrazi na to zgody. ” ;
+
+- **12)** art. 18h otrzymuje brzmienie: „ Żołnierz Żandarmerii Wojskowej, w przypadku wydania nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, poucza osobę stosującą przemoc w rodzinie o przyczynach ich wydania, o możliwości i sposobie złożenia zażalenia, a także, w przypadku wydania nakazu i zakazu – informuje o danych teleadresowych właściwych miejscowo placówek zapewniających miejsca noclegowe oraz placówek prowadzących programy oddziaływań korekcyjno-edukacyjnych dla osób stosujących przemoc w rodzinie lub programy psychologiczno-terapeutyczne dla osób stosujących przemoc w rodzinie. ” ;
+- **13)** w art. 18i ust. 2 otrzymuje brzmienie: „
+
+2. Czynności sprawdzenia Żandarmeria Wojskowa podejmuje również na podstawie postanowienia sądu o udzieleniu zabezpieczenia w sprawach z zakresu przeciwdziałania przemocy w rodzinie, w tym postanowienia, którym nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu zostały przedłużone. ” ;
+
+- **14)** w art. 18j: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Osobie, wobec której wydano nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu, oraz prokuratorowi przysługuje zażalenie do sądu rejonowego, do którego należy rozpoznawanie spraw z zakresu przeciwdziałania przemocy w rodzinie. Zażalenie wnosi się w terminie 3 dni od dnia doręczenia nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, o czym należy osobę stosującą przemoc w rodzinie pouczyć przy doręczeniu. W zażaleniu można domagać się zbadania prawidłowości prowadzenia czynności, zasadności oraz legalności wydanego nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu. W zakresie nieuregulowanym do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o postępowaniu nieprocesowym, z tym że nie stosuje się przepisu art. 3731 tego Kodeksu. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+- **b)**
+
+1a. Zażalenie wnosi się do sądu rejonowego właściwego ze względu na miejsce położenia wspólnie zajmowanego mieszkania. W przypadku gdy osoba stosująca przemoc w rodzinie, wobec której wydano zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu, nie mieszka wspólnie z osobą dotkniętą tą przemocą, zażalenie wnosi się do sądu rejonowego właściwego ze względu na miejsce zamieszkania osoby dotkniętej przemocą w rodzinie. ” , ust. 2 i 3 otrzymują brzmienie: „
+
+- **c)**
+
+2. Sąd rozpoznaje zażalenie w składzie jednego sędziego niezwłocznie, nie później jednak niż w terminie 3 dni od dnia jego wpływu do sądu. Uczestnikami postępowania są organ, który wydał nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu, osoba, wobec której zostały one wydane, oraz prokurator, jeżeli złożył zażalenie.
+
+3. Sąd uchyla zaskarżony nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu w przypadku stwierdzenia jego bezzasadności lub nielegalności, o czym niezwłocznie zawiadamia osobę, wobec której zostały one wydane, osobę dotkniętą przemocą w rodzinie, prokuratora, właściwą jednostkę organizacyjną Żandarmerii Wojskowej oraz zespół interdyscyplinarny, o którym mowa w ustawie o przeciwdziałaniu przemocy w rodzinie, a gdy czynności podejmował sąd opiekuńczy – także ten sąd. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+
+- **d)**
+
+3a. Jeżeli jest to niezbędne dla zapewnienia szybkości postępowania, sąd może dokonywać doręczeń przez Żandarmerię Wojskową. Do doręczeń stosuje się odpowiednio przepis art. 5606 Kodeksu postępowania cywilnego. ” ;
+
+- **15)** art. 18k otrzymuje brzmienie: „
+
+1. Nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania i zakaz wstępu tracą moc po upływie 14 dni od dnia ich wydania, chyba że sąd udzielił zabezpieczenia, którym zostały one przedłużone. Przy obliczaniu terminu nie uwzględnia się dnia, w którym nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu zostały wydane.
+
+2. Nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania i zakaz wstępu tracą także moc, w przypadku gdy po ich wydaniu wobec osoby stosującej przemoc w rodzinie zastosowano środek zapobiegawczy w postaci tymczasowego aresztowania.
+
+3. W przypadku, o którym mowa w ust. 2, prokurator niezwłocznie zawiadamia osobę dotkniętą przemocą w rodzinie oraz właściwą jednostkę organizacyjną Żandarmerii Wojskowej. ” ;
+
+- **16)** w art. 30d w ust. 1: wprowadzenie do wyliczenia otrzymuje brzmienie: „ Żandarmeria Wojskowa, w celu realizacji zadań ustawowych związanych z przeciwdziałaniem przemocy w rodzinie, może przetwarzać informacje, w tym dane osobowe, o osobach dotkniętych przemocą w rodzinie oraz osobach stosujących tę przemoc, wobec których: ” , pkt 1 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **1)** wydano nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu; ” , pkt 4 otrzymuje brzmienie: „
+    - **c)**
+
+- **4)** orzeczono o zobowiązaniu osoby stosującej przemoc w rodzinie do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia lub wydano zakaz zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia na podstawie art. 11a ust. 1 ustawy o przeciwdziałaniu przemocy w rodzinie, zakaz zbliżania się do osoby dotkniętej przemocą w rodzinie, zakaz kontaktowania się z osobą dotkniętą przemocą w rodzinie lub zakaz wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, lub obiektu sportowego, do których uczęszcza osoba dotknięta przemocą w rodzinie, miejsca pracy lub innego miejsca, w którym zwykle lub regularnie przebywa osoba dotknięta przemocą w rodzinie, i przebywania na tym terenie, na podstawie art. 11aa ust. 1 i 4 ustawy o przeciwdziałaniu przemocy w rodzinie, w tym przez udzielenie zabezpieczenia w tym przedmiocie. ” .
+
+**Art. 9.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2022 r. poz. 1125 oraz 2023 r. poz. 181) wprowadza się następujące zmiany:
+
+- **1)** w art. 95 po ust. 3 dodaje się ust. 3a w brzmieniu: „
+
+3a. Nie pobiera się opłat od wniosku, o którym mowa w art. 5603a § 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, oraz zażalenia na wydane przez Policję albo Żandarmerię Wojskową nakaz opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia i zakaz zbliżania się do mieszkania i jego bezpośredniego otoczenia, zakaz zbliżania się do osoby dotkniętej przemocą w rodzinie na wyrażoną w metrach odległość, zakaz kontaktowania się z osobą dotkniętą przemocą w rodzinie lub zakaz wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, obiektu sportowego lub miejsca pracy, i przebywania na tym terenie. ” ;
+
+- **2)** w art. 96 w ust. 1 pkt 15 otrzymuje brzmienie: „
+- **15)** osoba dotknięta przemocą w rodzinie w sprawach z zakresu przeciwdziałania przemocy w rodzinie; ” .
+
+**Art. 10.** W ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy w rodzinie (Dz. U. z 2021 r. poz. 1249) wprowadza się następujące zmiany:
+
+- **1)** w art. 11a dodaje się ust. 5–8 w brzmieniu: „
+
+5. Do wykonania obowiązku orzeczonego na podstawie ust. 1 stosuje się odpowiednio przepisy o egzekucji obowiązku opróżnienia lokalu służącego zaspokojeniu potrzeb mieszkaniowych dłużnika.
+
+6. Jeżeli osoba stosująca przemoc, po wydaniu przez sąd postanowienia uwzględniającego wniosek o zobowiązanie osoby stosującej przemoc w rodzinie do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia lub o wydanie zakazu zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, chce zabrać ze wspólnie zajmowanego mieszkania i z jego bezpośredniego otoczenia rzeczy lub zwierzęta domowe, a osoba dotknięta tą przemocą wyraża na to zgodę, może się to odbyć wyłącznie w obecności policjanta lub żołnierza Żandarmerii Wojskowej. Zabranie rzeczy i zwierząt domowych może odbyć się nie więcej niż dwa razy.
+
+7. W celu zabrania rzeczy i zwierząt domowych, o których mowa w ust. 6, osoba stosująca przemoc w rodzinie występuje pisemnie do kierownika jednostki organizacyjnej Policji lub komendanta jednostki organizacyjnej Żandarmerii Wojskowej, właściwego ze względu na miejsce położenia wspólnie zajmowanego mieszkania, o wyznaczenie nie później niż w terminie 48 godzin policjanta lub żołnierza Żandarmerii Wojskowej do uczestniczenia w czynności, o której mowa w ust. 6.
+
+8. Czynność, o której mowa w ust. 6, przeprowadza się po wcześniejszym uzgodnieniu terminu z osobą dotkniętą przemocą w rodzinie. Osoba dotknięta przemocą w rodzinie ma prawo brać udział w tej czynności lub upoważnić do udziału w niej inną osobę. W przypadku sprzeciwu osoby dotkniętej przemocą w rodzinie wskazane przedmioty lub zwierzęta domowe pozostawia się we wspólnie zajmowanym mieszkaniu lub w jego bezpośrednim otoczeniu. ” ;
+
+- **2)** po art. 11a dodaje się art. 11aa i art. 11ab w brzmieniu: „ Art. 11aa.
+
+1. Osoba dotknięta przemocą w rodzinie może żądać, aby sąd, o którym mowa w art. 11a ust. 1, wydał wobec osoby stosującej przemoc w rodzinie zakaz zbliżania się do niej na wyrażoną w metrach odległość lub zakazał osobie stosującej przemoc w rodzinie kontaktowania się z nią, gdy osoba stosująca przemoc w rodzinie swoim zachowaniem polegającym na stosowaniu przemocy w rodzinie stwarza zagrożenie dla życia lub zdrowia osoby dotkniętej tą przemocą.
+
+2. Osoba dotknięta przemocą w rodzinie może żądać wydania zakazu kontaktowania się z nią także, gdy osoba stosująca przemoc w rodzinie nęka ją za pomocą środków komunikacji elektronicznej na odległość, wzbudzając u niej uzasadnione okolicznościami poczucie zagrożenia, poniżenia lub udręczenia lub istotnie narusza jej prywatność.
+
+3. Sąd nie jest związany żądaniem wniosku o zobowiązanie osoby stosującej przemoc w rodzinie do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, wydanie zakazu zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia w zakresie wskazanej w nim odległości lub obszaru lub zakazu zbliżania się do osoby dotkniętej przemocą w rodzinie w zakresie wskazanej w nim odległości, a także żądaniem wniosku o wydanie zakazu kontaktowania.
+
+4. Jeżeli osoba dotknięta przemocą w rodzinie uczęszcza do szkoły, placówki oświatowej, opiekuńczej lub artystycznej, uprawia sport lub pracuje, może ona żądać, aby sąd, o którym mowa w art. 11a ust. 1, wydał wobec osoby stosującej przemoc w rodzinie, stwarzającej zagrożenie dla jej życia lub zdrowia, zakaz wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, lub obiektu sportowego, do których uczęszcza osoba dotknięta przemocą w rodzinie, miejsca pracy lub innego miejsca, w którym zwykle lub regularnie przebywa osoba dotknięta przemocą w rodzinie, i przebywania na tym terenie. Rozpoznając sprawę o zmianę lub uchylenie postanowienia, o którym mowa w art. 11a ust. 1 oraz art. 11aa ust. 1, 2 i 4, sąd uwzględnia okoliczności dotyczące osób dotkniętych przemocą w rodzinie oraz osób stosujących tę przemoc, w tym w szczególności informacje o:
+
+- **1)** przebiegu i efektach działań podjętych i udokumentowanych w ramach procedury „Niebieskie Karty”, o ile procedura taka była prowadzona;
+- **2)** udziale i efektach uczestnictwa w programie oddziaływań korekcyjno-edukacyjnych dla osób stosujących przemoc w rodzinie lub programie psychologiczno-terapeutycznym dla osób stosujących przemoc w rodzinie, w szczególności gdy osoba stosująca przemoc w rodzinie do uczestnictwa w takich programach została zobowiązana postanowieniem sądu lub zasadność udziału w takich programach stwierdził zespół interdyscyplinarny lub grupa robocza;
+- **3)** udziale i efektach uczestnictwa w innych formach oddziaływań, w szczególności terapii mającej na celu leczenie uzależnień. ” ;
+- **3)** w art. 12b w ust. 3 zdanie pierwsze otrzymuje brzmienie: „ Sąd rozpoznaje zażalenie w składzie jednego sędziego niezwłocznie, nie później jednak niż w ciągu 24 godzin od chwili jego wpływu do sądu. ” . W ustawie z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700) w art. 28:
+- **1)** w ust. 1 wyrazy „żąda tego nieletni,” zastępuje się wyrazami „w razie uwzględnienia wniosku dowodowego nieletniego,”;
+- **2)** ust. 2 otrzymuje brzmienie: „
+
+2. Przesłuchanie przeprowadza sąd rodzinny na posiedzeniu z udziałem biegłego psychologa. Biegły psycholog biorący udział w przesłuchaniu powinien być osobą płci wskazanej przez pokrzywdzonego, chyba że będzie to utrudniać postępowanie. Prokurator, obrońca oraz pełnomocnik pokrzywdzonego mają prawo wziąć udział w przesłuchaniu. Przedstawiciel ustawowy pokrzywdzonego albo osoba, pod której stałą pieczą pokrzywdzony pozostaje, lub osoba pełnoletnia wskazana przez pokrzywdzonego również ma prawo być obecna przy przesłuchaniu, jeżeli nie ogranicza to swobody wypowiedzi przesłuchiwanego. Jeżeli nieletni zawiadomiony o tej czynności nie ma obrońcy z wyboru, sąd rodzinny wyznacza mu obrońcę z urzędu. ” ;
+
+- **3)** ust. 5 otrzymuje brzmienie: „
+
+5. Przepisy art. 185c, art. 185e i art. 185f § 1 Kodeksu postępowania karnego oraz przepisy wydane na podstawie art. 147 § 5 i art. 185f § 4 tego kodeksu stosuje się odpowiednio. ” .
 
 **Art. 12.**
 
@@ -86,7 +648,11 @@ source: "isap-pdf"
 
 2. W sprawach wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy zachowują moc czynności dokonane zgodnie z przepisami dotychczasowymi.
 
-**Art. 13.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 300 § 4 ustawy zmienianej w art. 6 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 300 § 4 ustawy zmienianej w art. 6, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż do dnia 15 listopada 2024 r.
+**Art. 13.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 300 § 4 ustawy zmienianej w art. 6 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 300 § 4 ustawy zmienianej w art. 6, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia w życie art. 6 pkt 11.
 
 **Art. 14.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 3 pkt 16, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;
+- **2)** art. 6 pkt 2, 3, pkt 4 lit. d, pkt 8, 9 i 11, art. 11 pkt 3 oraz art. 13, które wchodzą w życie po upływie roku od dnia ogłoszenia.
+
 

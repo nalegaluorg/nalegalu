@@ -8,10 +8,10 @@ pos: 2695
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 grudnia 2022 r.
+# Wyrok Trybunału Konstytucyjnegoz dnia 13 grudnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,10 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-13 |
 | Data wydania | 2022-12-21 |
+| Wejście w życie | 2022-12-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002695) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2695/text.pdf) |
 
-Poz. 22669955 WYROK TRYBUNAŁU KONSTYTUCYJNEGO z dnia 13 grudnia 2022 r.
-sygn. akt K 3/22 Trybunał Konstytucyjny w składzie: Bartłomiej Sochański − przewodniczący, Krystyna Pawłowicz, Julia Przyłębska, Piotr Pszczółkowski, Jakub Stelina − sprawozdawca, protokolant: Michał Rylski, po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 13 grudnia 2022 r., wniosku Rzecznika Praw Obywatelskich o zbadanie zgodności: art. 24 ust. 1 pkt 1a oraz art. 37b ust. 1 pkt 1 ustawy z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury (Dz. U. z 2020 r. poz. 1366) z art. 32 ust. 1 i 2 oraz art. 60 w związku z art. 31 ust. 3 Konstytucji, orzeka:
-Art. 24 ust. 1 pkt 1a oraz art. 37b ust. 1 pkt 1 ustawy z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury (Dz. U. z 2022 r. poz. 217) są niezgodne z art. 60 w związku z art. 31 ust. 3 Konstytucji Rzeczypospolitej Polskiej.
-Ponadto postanawia: umorzyć postępowanie w pozostałym zakresie.
-Orzeczenie zapadło większością głosów.
-Bartłomiej Sochański Krystyna Pawłowicz Julia Przyłębska Piotr Pszczółkowski Jakub Stelina Poświadczono za zgodność z oryginałem
+Treść wyroku
+Trybunał Konstytucyjny w składzie: Bartłomiej Sochański − przewodniczący, Krystyna Pawłowicz, Julia Przyłębska, Piotr Pszczółkowski, Jakub Stelina − sprawozdawca, protokolant: Michał Rylski, po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 13 grudnia 2022 r., wniosku Rzecznika Praw Obywatelskich o zbadanie zgodności: art. 24 ust. 1 pkt 1a oraz art. 37b ust. 1 pkt 1 ustawy z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury (Dz. U. z 2020 r. poz. 1366) z art. 32 ust. 1 i 2 oraz art. 60 w związku z art. 31 ust. 3 Konstytucji, orzeka: Art. 24 ust. 1 pkt 1a oraz art. 37b ust. 1 pkt 1 ustawy z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury (Dz. U. z 2022 r. poz. 217) są niezgodne z art. 60 w związku z art. 31 ust. 3 Konstytucji Rzeczypospolitej Polskiej. Ponadto postanawia: umorzyć postępowanie w pozostałym zakresie. Orzeczenie zapadło większością głosów. Poświadczono za zgodność z oryginałem
 

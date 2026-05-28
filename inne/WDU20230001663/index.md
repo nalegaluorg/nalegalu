@@ -8,10 +8,10 @@ pos: 1663
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Warszawa, dnia 22 sierpnia 2023 r.
+# Rozporządzenie Ministra Funduszy i Polityki Regionalnejz dnia 28 lipca 2023 r. w sprawie udzielania pomocy de minimis oraz pomocy publicznej z udziałem Banku Gospodarstwa Krajowego w ramach programu Fundusze Europejskie dla Rozwoju Społecznego 2021–2027
 
 | Pole | Wartość |
 |---|---|
@@ -22,79 +22,174 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2023-07-28 |
 | Data wydania | 2023-08-22 |
+| Wejście w życie | 2023-09-06 |
 | Ostatnia zmiana | 2024-06-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001663) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1663/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA FUNDUSZY I POLITYKI REGIONALNEJ dnia 28 lipca 2023 r.
-sprawie udzielania pomocy de minimis oraz pomocy publicznej udziałem Banku Gospodarstwa Krajowego ramach programu Fundusze Europejskie Rozwoju Społecznego 2021–2027 Na podstawie 30 4 ustawy dnia 28 kwietnia 2022 r. zasadach realizacji zadań finansowanych ze środków europejskich perspektywie finansowej 2021–2027 (Dz. U. poz. 1079) zarządza się, co następuje:
-1. 1. Rozporządzenie określa szczegółowe przeznaczenie, warunki tryb udzielania przedsiębiorcom ramach programu Fundusze Europejskie Rozwoju Społecznego 2021–2027 przypadku operacji, których Bank Gospodarstwa Krajowego pełni rolę podmiotu wdrażającego fundusz powierniczy, następujących rodzajów pomocy:
-1) regionalnej pomocy inwestycyjnej, pomocy inwestycyjnej mikroprzedsiębiorcy, małego lub średniego przedsiębiorcy,
-3) pomocy de minimis zwanych dalej „pomocą”, a także podmioty udzielające tej pomocy.
-2. Pomoc, 1:
-1) pkt 2 stanowi pomoc publiczną, do mają zastosowanie przepisy Komisji (UE) 651/2014 dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne rynkiem wewnętrznym zastosowaniu 107 108 Traktatu (Dz. 187 26.06.2014, 1, późn. zm. ), zwanego dalej „rozporządzeniem 651/2014”;
-pkt 3 stanowi pomoc de minimis, do mają zastosowanie przepisy Komisji (UE) 1407/2013 dnia 18 grudnia 2013 r. sprawie stosowania 107 108 Traktatu funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. 352 24.12.2013, 1, późn. zm. ), zwanego dalej „rozporządzeniem 1407/2013”.
-potrzeby Funduszu Azylu, Migracji Integracji, Funduszu Bezpieczeństwa Wewnętrznego Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami Polityki Wizowej (Dz. 231 30.06.2021, 159, późn. zm. ), zwanego dalej „rozporządzeniem 2021/1060”.
-2. Ilekroć rozporządzeniu o:
-1) dużym przedsiębiorcy należy przez to rozumieć duże przedsiębiorstwo rozumieniu 2 pkt 24 rozporządzenia 651/2014;
-funduszu powierniczym należy przez to rozumieć fundusz powierniczy rozumieniu 2 pkt 20 rozporządzenia 2021/1060;
-3) intensywności pomocy należy przez to rozumieć intensywność pomocy rozumieniu 2 pkt 26 651/2014;
-4) inwestycji początkowej należy przez to rozumieć inwestycję początkową rozumieniu 2 pkt 49 651/2014;
-5) mikroprzedsiębiorcy, małym lub średnim przedsiębiorcy należy przez to rozumieć mikroprzedsiębiorstwo, małe lub średnie przedsiębiorstwo, spełniające warunki określone 2 załącznika I do 651/2014;
-6) operacji oznacza to operację rozumieniu 2 pkt 4 lit. b 2021/1060;
-7) podmiocie wdrażającym instrument finansowy należy przez to rozumieć podmiot wdrażający instrument finansowy rozumieniu 2 pkt 22 2021/1060;
-8) przedsiębiorcy należy przez to rozumieć przedsiębiorstwo rozumieniu załącznika I do 651/2014.
-3. 1. W przypadku pomocy publicznej przepisów nie stosuje się przypadkach, których 2 lit. c d, 3, 4 lit. c oraz 5 651/2014.
-2. publiczna nie może zostać udzielona ani wypłacona przedsiębiorcy, na którym ciąży obowiązek zwrotu pomocy wynikający decyzji Komisji Europejskiej uznającej taką pomoc za niezgodną prawem oraz rynkiem wewnętrznym.
-3. W przypadku pomocy de minimis przepisów nie stosuje się przypadkach, których 1407/2013.
-4. 1. Podmiotem udzielającym pomocy są podmioty wdrażające instrument finansowy, wybrane przez Bank Gospodarstwa Krajowego wdrażający fundusz powierniczy na potrzeby realizacji operacji.
-2. publiczna zgodnie 5 651/2014.
-3. publiczna formach na warunkach, których 5 2 lit. a b rozporządzenia 651/2014.
-4. de minimis zgodnie 4 1–3 1407/2013.
-5. na:
-1) inwestycję początkową zgodnie 14 651/2014;
-inwestycje mikroprzedsiębiorcy, małego lub średniego przedsiębiorcy zgodnie 17 651/2014;
-3) pokrycie całości lub części kosztów ponoszonych przez przedsiębiorcę zgodnie przepisami 1407/2013.
-6. 1. W przypadku pomocy publicznej do obliczenia intensywności oraz wartości pomocy kosztów kwalifikowalnych stosuje się 7 1–3 651/2014.
-2. W przypadku pomocy de minimis wartość dopuszczalnej pomocy udzielanej jednemu przedsiębiorcy rozumieniu 2 2 1407/2013 ustala się zgodnie 3 2–9 1407/2013.
-7. 1. publiczna podlega kumulacji na zasadach określonych 8 651/2014.
-2. Dostosowana kwota pomocy, 4 lit. a 651/2014, wynosi:
-1) 37,5 mln euro inwestycji realizowanych na obszarach należących do województw: lubelskiego, podkarpackiego, podlaskiego, świętokrzyskiego warmińsko-mazurskiego oraz do podregionu siedleckiego;
-30 mln euro inwestycji realizowanych na obszarach należących do województw: kujawsko-pomorskiego, lubuskiego, łódzkiego, małopolskiego, opolskiego zachodniopomorskiego oraz do regionu mazowieckiego regionalnego, wyjątkiem podregionu siedleckiego;
-3) 26,25 mln euro inwestycji realizowanych na obszarach regionu warszawskiego stołecznego należących do gmin: Dąbrówka, Dobre, Jadów, Kałuszyn, Kołbiel, Latowicz, Mrozy, Osieck, Serock, Siennica, Sobienie-Jeziory, Strachówka Tłuszcz;
-4) 22,5 mln euro inwestycji realizowanych na obszarach należących do województw: pomorskiego śląskiego;
-5) 18,75 mln euro inwestycji realizowanych na obszarach należących do województw: dolnośląskiego wielkopolskiego, wyłączeniem obszarów wskazanych pkt 6, oraz na obszarach regionu warszawskiego stołecznego należących do gmin: Baranów, Błonie, Góra Kalwaria, Grodzisk Mazowiecki, Jaktorów, Kampinos, Leoncin, Leszno, Nasielsk, Prażmów, Tarczyn, Zakroczym Żabia Wola;
-6) 15 mln euro inwestycji realizowanych na obszarach należących do miast Poznania Wrocławia oraz do podregionu poznańskiego.
-9. publiczna może być udzielona, jeżeli przedsiębiorca złożył wniosek udzielenie pomocy, zwany dalej „wnioskiem”, zgodnie 6 2 zdanie pierwsze 651/2014.
-10. publiczna, pkt 1, na inwestycję początkową, a przypadku dużego przedsiębiorcy województwach dolnośląskim wielkopolskim oraz na obszarach regionu warszawskiego stołecznego należących do gmin: Baranów, Błonie, Dąbrówka, Dobre, Góra Kalwaria, Grodzisk Mazowiecki, Jadów, Jaktorów, Kałuszyn, Kampinos, Kołbiel, Latowicz, Leoncin, Leszno, Mrozy, Nasielsk, Osieck, Prażmów, Serock, Siennica, Sobienie-Jeziory, Strachówka, Tarczyn, Tłuszcz, Zakroczym Żabia Wola wyłącznie na inwestycję początkową, która zapoczątkowuje nową działalność gospodarczą rozumieniu 2 pkt 51 651/2014.
-11. 1. publiczna, pkt 1, po spełnieniu warunków określonych 14 16 651/2014.
-2. Warunkiem udzielenia pomocy publicznej, pkt 1, zobowiązanie się przedsiębiorcy do utrzymania inwestycji początkowej zgodnie warunkami określonymi 14 5 651/2014.
-3. publiczna, pkt 1, nie może być udzielona na inwestycję prowadzącą wyłącznie do odtworzenia zdolności produkcyjnych.
-12. publiczna, pkt 1, na pokrycie kosztów kwalifikowalnych, których 14 4 651/2014, jeżeli są spełnione warunki określone odpowiednio 14 6–9 651/2014.
-13. 1. Maksymalną intensywność pomocy publicznej, pkt 1, określa się zgodnie przepisami wydanymi na podstawie 10 2 ustawy dnia 30 kwietnia 2004 r. postępowaniu sprawach dotyczących pomocy publicznej (Dz. U. 2023 r. poz. 702).
-2. Maksymalną intensywność oraz wartość pomocy publicznej, pkt 1, oblicza się, uwzględniając warunki określone 14 12 13 oraz 14 zdanie pierwsze 651/2014.
-17. de minimis, 5 pkt 3, przedsiębiorcy na prowadzenie działalności we wszystkich sektorach, wyłączeniem sektorów, których 1407/2013.
-18. 1. Przedsiębiorca ubiegający się pomoc składa wniosek do podmiotu udzielającego pomocy.
-2. Wniosek zawiera:
-1) przypadku pomocy publicznej informacje wskazane 6 2 zdanie drugie 651/2014;
+Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Regionalna pomoc inwestycyjna Rozdział 3 – Pomoc inwestycyjna dla mikroprzedsiębiorcy, małego lub średniego przedsiębiorcy Rozdział 4 – Pomoc de minimis Rozdział 5 – Tryb udzielania pomocy Rozdział 6 – Przepisy końcowe
+Treść rozporządzenia
+Na podstawie art. 30 ust. 4 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079) zarządza się, co następuje:
+§ 1.
+1.
+Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przedsiębiorcom w ramach programu Fundusze Europejskie dla Rozwoju Społecznego 2021–2027 w przypadku operacji, w których Bank Gospodarstwa Krajowego pełni rolę podmiotu wdrażającego fundusz powierniczy, następujących rodzajów pomocy:
+1)
+regionalnej pomocy inwestycyjnej,
+2)
+pomocy inwestycyjnej dla mikroprzedsiębiorcy, małego lub średniego przedsiębiorcy,
+3)
+pomocy de minimis
+zwanych dalej „pomocą”, a także podmioty udzielające tej pomocy.
+2.
+Pomoc, o której mowa w ust. 1:
+1)
+pkt 1 i 2 – stanowi pomoc publiczną, do której mają zastosowanie przepisy rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 651/2014”;
+2)
+pkt 3 – stanowi pomoc de minimis , do której mają zastosowanie przepisy rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 1407/2013”.
+3.
+Pomoc jest realizowana na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej (Dz. Urz. UE L 231 z 30.06.2021, str. 159, z późn. zm.), zwanego dalej „rozporządzeniem 2021/1060”.
+§ 2.
+Ilekroć w rozporządzeniu jest mowa o:
+1)
+dużym przedsiębiorcy – należy przez to rozumieć duże przedsiębiorstwo w rozumieniu art. 2 pkt 24 rozporządzenia nr 651/2014;
+2)
+funduszu powierniczym – należy przez to rozumieć fundusz powierniczy w rozumieniu art. 2 pkt 20 rozporządzenia 2021/1060;
+3)
+intensywności pomocy – należy przez to rozumieć intensywność pomocy w rozumieniu art. 2 pkt 26 rozporządzenia nr 651/2014;
+4)
+inwestycji początkowej – należy przez to rozumieć inwestycję początkową w rozumieniu art. 2 pkt 49 rozporządzenia nr 651/2014;
+5)
+mikroprzedsiębiorcy, małym lub średnim przedsiębiorcy – należy przez to rozumieć mikroprzedsiębiorstwo, małe lub średnie przedsiębiorstwo, spełniające warunki określone w art. 2 załącznika I do rozporządzenia nr 651/2014;
+6)
+operacji – oznacza to operację w rozumieniu art. 2 pkt 4 lit. b rozporządzenia 2021/1060;
+7)
+podmiocie wdrażającym instrument finansowy – należy przez to rozumieć podmiot wdrażający instrument finansowy w rozumieniu art. 2 pkt 22 rozporządzenia 2021/1060;
+8)
+przedsiębiorcy – należy przez to rozumieć przedsiębiorstwo w rozumieniu art. 1 załącznika I do rozporządzenia nr 651/2014.
+§ 3.
+1.
+W przypadku pomocy publicznej przepisów rozporządzenia nie stosuje się w przypadkach, o których mowa w art. 1 ust. 2 lit. c i d, ust. 3, ust. 4 lit. c oraz ust. 5 rozporządzenia nr 651/2014.
+2.
+Pomoc publiczna nie może zostać udzielona ani wypłacona przedsiębiorcy, na którym ciąży obowiązek zwrotu pomocy wynikający z decyzji Komisji Europejskiej uznającej taką pomoc za niezgodną z prawem oraz z rynkiem wewnętrznym.
+3.
+W przypadku pomocy de minimis przepisów rozporządzenia nie stosuje się w przypadkach, o których mowa w art. 1 ust. 1 rozporządzenia nr 1407/2013.
+§ 4.
+1.
+Podmiotem udzielającym pomocy są podmioty wdrażające instrument finansowy, wybrane przez Bank Gospodarstwa Krajowego wdrażający fundusz powierniczy na potrzeby realizacji operacji.
+2.
+Pomoc publiczna jest udzielana zgodnie z art. 5 ust. 1 rozporządzenia nr 651/2014.
+3.
+Pomoc publiczna jest udzielana w formach i na warunkach, o których mowa w art. 5 ust. 2 lit. a i b rozporządzenia nr 651/2014.
+4.
+Pomoc de minimis jest udzielana zgodnie z art. 4 ust. 1–3 rozporządzenia nr 1407/2013.
+§ 5.
+Pomoc jest udzielana na:
+1)
+inwestycję początkową – zgodnie z art. 14 rozporządzenia nr 651/2014;
+2)
+inwestycje dla mikroprzedsiębiorcy, małego lub średniego przedsiębiorcy – zgodnie z art. 17 rozporządzenia nr 651/2014;
+3)
+pokrycie całości lub części kosztów ponoszonych przez przedsiębiorcę – zgodnie z przepisami rozporządzenia nr 1407/2013.
+§ 6.
+1.
+W przypadku pomocy publicznej do obliczenia intensywności oraz wartości pomocy i kosztów kwalifikowalnych stosuje się art. 7 ust. 1–3 rozporządzenia nr 651/2014.
+2.
+W przypadku pomocy de minimis wartość dopuszczalnej pomocy udzielanej jednemu przedsiębiorcy w rozumieniu art. 2 ust. 2 rozporządzenia nr 1407/2013 ustala się zgodnie z art. 3 ust. 2–9 rozporządzenia nr 1407/2013.
+§ 7.
+1.
+Pomoc publiczna podlega kumulacji na zasadach określonych w art. 8 rozporządzenia nr 651/2014.
+2.
+Pomoc de minimis podlega kumulacji na zasadach określonych w art. 5 rozporządzenia nr 1407/2013.
+§ 8.
+1.
+Pomoc publiczna, o której mowa w § 1 ust. 1, jest udzielana w przypadku pomocy, o której mowa w:
+1)
+pkt 1 – do kwoty wskazanej w art. 4 ust. 1 lit. a rozporządzenia nr 651/2014;
+2)
+pkt 2 – do kwoty wskazanej w art. 4 ust. 1 lit. c rozporządzenia nr 651/2014.
+2.
+Dostosowana kwota pomocy, o której mowa w art. 4 ust. 1 lit. a rozporządzenia nr 651/2014, wynosi:
+1)
+37,5 mln euro – dla inwestycji realizowanych na obszarach należących do województw: lubelskiego, podkarpackiego, podlaskiego, świętokrzyskiego i warmińsko-mazurskiego oraz do podregionu siedleckiego;
+2)
+30 mln euro – dla inwestycji realizowanych na obszarach należących do województw: kujawsko-pomorskiego, lubuskiego, łódzkiego, małopolskiego, opolskiego i zachodniopomorskiego oraz do regionu mazowieckiego regionalnego, z wyjątkiem podregionu siedleckiego;
+3)
+26,25 mln euro – dla inwestycji realizowanych na obszarach regionu warszawskiego stołecznego należących do gmin: Dąbrówka, Dobre, Jadów, Kałuszyn, Kołbiel, Latowicz, Mrozy, Osieck, Serock, Siennica, Sobienie-Jeziory, Strachówka i Tłuszcz;
+4)
+22,5 mln euro – dla inwestycji realizowanych na obszarach należących do województw: pomorskiego i śląskiego;
+5)
+18,75 mln euro – dla inwestycji realizowanych na obszarach należących do województw: dolnośląskiego i wielkopolskiego, z wyłączeniem obszarów wskazanych w pkt 6, oraz na obszarach regionu warszawskiego stołecznego należących do gmin: Baranów, Błonie, Góra Kalwaria, Grodzisk Mazowiecki, Jaktorów, Kampinos, Leoncin, Leszno, Nasielsk, Prażmów, Tarczyn, Zakroczym i Żabia Wola;
+6)
+15 mln euro – dla inwestycji realizowanych na obszarach należących do miast Poznania i Wrocławia oraz do podregionu poznańskiego.
+§ 9.
+Pomoc publiczna może być udzielona, jeżeli przedsiębiorca złożył wniosek o udzielenie pomocy, zwany dalej „wnioskiem”, zgodnie z art. 6 ust. 2 zdanie pierwsze rozporządzenia nr 651/2014.
+§ 10.
+Pomoc publiczna, o której mowa w § 1 ust. 1 pkt 1, jest udzielana na inwestycję początkową, a w przypadku dużego przedsiębiorcy w województwach dolnośląskim i wielkopolskim oraz na obszarach regionu warszawskiego stołecznego należących do gmin: Baranów, Błonie, Dąbrówka, Dobre, Góra Kalwaria, Grodzisk Mazowiecki, Jadów, Jaktorów, Kałuszyn, Kampinos, Kołbiel, Latowicz, Leoncin, Leszno, Mrozy, Nasielsk, Osieck, Prażmów, Serock, Siennica, Sobienie-Jeziory, Strachówka, Tarczyn, Tłuszcz, Zakroczym i Żabia Wola – wyłącznie na inwestycję początkową, która zapoczątkowuje nową działalność gospodarczą w rozumieniu art. 2 pkt 51 rozporządzenia nr 651/2014.
+§ 11.
+1.
+Pomoc publiczna, o której mowa w § 1 ust. 1 pkt 1, jest udzielana po spełnieniu warunków określonych w art. 14 ust. 16 rozporządzenia nr 651/2014.
+2.
+Warunkiem udzielenia pomocy publicznej, o której mowa w § 1 ust. 1 pkt 1, jest zobowiązanie się przedsiębiorcy do utrzymania inwestycji początkowej zgodnie z warunkami określonymi w art. 14 ust. 5 rozporządzenia nr 651/2014.
+3.
+Pomoc publiczna, o której mowa w § 1 ust. 1 pkt 1, nie może być udzielona na inwestycję prowadzącą wyłącznie do odtworzenia zdolności produkcyjnych.
+§ 12.
+Pomoc publiczna, o której mowa w § 1 ust. 1 pkt 1, jest udzielana na pokrycie kosztów kwalifikowalnych, o których mowa w art. 14 ust. 4 rozporządzenia nr 651/2014, jeżeli są spełnione warunki określone odpowiednio w art. 14 ust. 6–9 rozporządzenia nr 651/2014.
+§ 13.
+1.
+Maksymalną intensywność pomocy publicznej, o której mowa w § 1 ust. 1 pkt 1, określa się zgodnie z przepisami wydanymi na podstawie art. 10 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2023 r. poz. 702).
+2.
+Maksymalną intensywność oraz wartość pomocy publicznej, o której mowa w § 1 ust. 1 pkt 1, oblicza się, uwzględniając warunki określone w art. 14 ust. 12 i 13 oraz ust. 14 zdanie pierwsze rozporządzenia nr 651/2014.
+§ 14.
+Pomoc publiczna, o której mowa w § 1 ust. 1 pkt 2, jest udzielana na pokrycie kosztów kwalifikowalnych, o których mowa w art. 17 ust. 2 rozporządzenia nr 651/2014, jeżeli są spełnione warunki określone odpowiednio w art. 17 ust. 3–5 rozporządzenia nr 651/2014.
+§ 15.
+Pomoc publiczna, o której mowa w § 1 ust. 1 pkt 2, jest udzielana mikroprzedsiębiorcy, małemu lub średniemu przedsiębiorcy.
+§ 16.
+Maksymalną intensywność pomocy publicznej, o której mowa w § 1 ust. 1 pkt 2, określa się zgodnie z art. 17 ust. 6 rozporządzenia nr 651/2014.
+§ 17.
+Pomoc de minimis, o której mowa w § 5 pkt 3, jest udzielana przedsiębiorcy na prowadzenie działalności we wszystkich sektorach, z wyłączeniem sektorów, o których mowa w art. 1 ust. 1 rozporządzenia nr 1407/2013.
+§ 18.
+1.
+Przedsiębiorca ubiegający się o pomoc składa wniosek do podmiotu udzielającego pomocy.
+2.
+Wniosek zawiera:
+1)
+w przypadku pomocy publicznej informacje wskazane w art. 6 ust. 2 zdanie drugie rozporządzenia nr 651/2014;
+2)
 inne informacje, wskazane przez podmiot udzielający pomocy, niezbędne do dokonania oceny wniosku.
-3. Do wniosku przedsiębiorca załącza informację wielkości przedsiębiorstwa.
-4. Do wniosku, przypadku ubiegania się pomoc publiczną, przedsiębiorca załącza dokumenty, których 37 5 ustawy dnia 30 kwietnia 2004 r. postępowaniu sprawach dotyczących pomocy publicznej.
-5. Do wniosku, przypadku ubiegania się pomoc de minimis, przedsiębiorca załącza:
-1) wszystkie zaświadczenia pomocy de minimis oraz pomocy de minimis rolnictwie lub rybołówstwie, jakie otrzymał roku, którym ubiega się pomoc, oraz ciągu 2 poprzedzających go lat podatkowych, albo oświadczenia wielkości tej pomocy otrzymanej tym okresie, albo oświadczenia nieotrzymaniu takiej pomocy tym okresie, których 37 pkt ustawy dnia 30 kwietnia 2004 r. postępowaniu sprawach dotyczących pomocy publicznej;
-informacje, których 37 pkt 2 ustawy dnia 30 kwietnia 2004 r. postępowaniu sprawach dotyczących pomocy publicznej.
-6. Po przeprowadzeniu oceny wniosku pomoc może być udzielona przedsiębiorcy na podstawie umowy.
-19. W przypadku udzielenia pomocy de minimis przedsiębiorca, przed zawarciem umowy, przedstawia podmiotowi udzielającemu pomocy:
-1) kopie zaświadczeń pomocy de minimis lub zaświadczeń pomocy de minimis rolnictwie, lub zaświadczeń pomocy de minimis rybołówstwie albo oświadczenie wielkości takiej pomocy, albo oświadczenie nieotrzymaniu takiej pomocy, których 37 pkt ustawy dnia 30 kwietnia 2004 r. postępowaniu sprawach dotyczących pomocy publicznej, informacje wielkości przeznaczeniu pomocy publicznej otrzymanej odniesieniu do tych samych kosztów kwalifikowalnych, na których pokrycie ma być przeznaczona pomoc dotyczące okresu od dnia złożenia wniosku.
-20. 1. publiczna do końca okresu dostosowawczego, którym 58 4 zdanie pierwsze 651/2014, związku 59 tego rozporządzenia.
-2. de minimis do końca okresu dostosowawczego, którym 7 4
+3.
+Do wniosku przedsiębiorca załącza informację o wielkości przedsiębiorstwa.
+4.
+Do wniosku, w przypadku ubiegania się o pomoc publiczną, przedsiębiorca załącza dokumenty, o których mowa w art. 37 ust. 5 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej.
+5.
+Do wniosku, w przypadku ubiegania się o pomoc de minimis, przedsiębiorca załącza:
+1)
+wszystkie zaświadczenia o pomocy de minimis oraz pomocy de minimis w rolnictwie lub rybołówstwie, jakie otrzymał w roku, w którym ubiega się o pomoc, oraz w ciągu 2 poprzedzających go lat podatkowych, albo oświadczenia o wielkości tej pomocy otrzymanej w tym okresie, albo oświadczenia o nieotrzymaniu takiej pomocy w tym okresie, o których mowa w art. 37 ust. 1 pkt 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej;
+2)
+informacje, o których mowa w art. 37 ust. 1 pkt 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej.
+6.
+Po przeprowadzeniu oceny wniosku pomoc może być udzielona przedsiębiorcy na podstawie umowy.
+§ 19.
+W przypadku udzielenia pomocy de minimis przedsiębiorca, przed zawarciem umowy, przedstawia podmiotowi udzielającemu pomocy:
+1)
+kopie zaświadczeń o pomocy de minimis lub zaświadczeń o pomocy de minimis w rolnictwie, lub zaświadczeń o pomocy de minimis wrybołówstwie albo oświadczenie o wielkości takiej pomocy, albo oświadczenie o nieotrzymaniu takiej pomocy, o których mowa w art. 37 ust. 1 pkt 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej,
+2)
+informacje o wielkości i przeznaczeniu pomocy publicznej otrzymanej w odniesieniu do tych samych kosztów kwalifikowalnych, na których pokrycie ma być przeznaczona pomoc
+dotyczące okresu od dnia złożenia wniosku.
+§ 20.
+1.
+Pomoc publiczna jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4 zdanie pierwsze rozporządzenia nr 651/2014, w związku z art. 59 tego rozporządzenia.
+2.
+Pomoc de minimis jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 7 ust. 4 rozporządzenia nr 1407/2013, w związku z art. 8 tego rozporządzenia.
+§ 21.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+1) Minister Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 1948). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1. 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 215 z 07.07.2020, str. 3. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 261 z 22.07.2021, str. 58, Dz. Urz. UE L 241 z 19.09.2022, str. 16, Dz. Urz. UE L 275 z 25.10.2022, str. 23, Dz. Urz. UE L 63 z 28.02.2023, str. 1 oraz Dz. Urz. UE L 130 z 16.05.2023, str.1.
 
-#### Rozdział Przepisy ogólne
+#### Rozdział 1 Przepisy ogólne
 
 #### Rozdział 2 Regionalna pomoc inwestycyjna
 
-#### Rozdział 3
+#### Rozdział 3 Pomoc inwestycyjna dla mikroprzedsiębiorcy, małego lub średniego przedsiębiorcy
 
-#### Rozdział 4 de minimis
+#### Rozdział 4 Pomoc de minimis
 
 #### Rozdział 5 Tryb udzielania pomocy
 

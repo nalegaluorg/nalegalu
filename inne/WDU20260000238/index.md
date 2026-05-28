@@ -11,7 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# 1. Na podstawie art. 16 ust. 1 zdanie pierwsze dnia 20 lipca 2000 ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst dnia 12 sierpnia 2010 wspieraniu przedsiębiorców dotkniętych skutkami powodzi 2010 (Dz. U.
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 lutego 2026 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 20 lutego 2026 w sprawie ogłoszenia jednolitego tekstu wspieraniu przedsiębiorców dotkniętych skutkami powodzi 2010
 
 | Pole | Wartość |
 |---|---|
@@ -25,6 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-03-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000238) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/238/text.pdf) |
 
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze dnia 20 lipca 2000 ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst dnia 12 sierpnia 2010 wspieraniu przedsiębiorców dotkniętych skutkami powodzi 2010 (Dz. U.
 poz. 453), uwzględnieniem zmiany wprowadzonej ustawą dnia 9 maja zmianie szczególnych rozwiązaniach związanych usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 680) oraz zmian wynikających przepisów ogłoszonych przed dniem 19 lutego 2026
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity nie obejmuje art. 38 dnia 9 maja zmianie szczególnych rozwiązaniach związanych usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 680), który stanowi: „Art. 38. Ustawa wchodzi w życie dniem następującym po dniu ogłoszenia, wyjątkiem art. 1 pkt 6 oraz art. 23, które wchodzą w życie po upływie 21 dni od dnia ogłoszenia.”.
 Marszałek Sejmu: W. Czarzasty

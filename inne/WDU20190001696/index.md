@@ -8,12 +8,10 @@ pos: 1696
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zapewnianiu dostępności osobom ze szczególnymi potrzebami
-
-*USTAWA z dnia 19 lipca 2019 r.*
+# Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,9 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-19 |
 | Data wydania | 2019-09-05 |
+| Wejście w życie | 2019-09-20 |
 | Ostatnia zmiana | 2025-07-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001696) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1696/text.pdf) |
-
-Art. 42–55. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -35,11 +32,27 @@ Art. 42–55. (pominięte)
 
 1. Ustawa określa środki służące zapewnianiu dostępności osobom ze szczególnymi potrzebami oraz obowiązki podmiotów publicznych w tym zakresie.
 
-2. Do dostępności cyfrowej w zakresie nieuregulowanym w niniejszej ustawie stosuje się przepisy ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz. U. z 2023 r. poz. 1440).
+2. Do dostępności cyfrowej w zakresie nieuregulowanym w niniejszej ustawie stosuje się przepisy ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz. U. poz. 848).
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
+- **1)** bariera – przeszkodę lub ograniczenie architektoniczne, cyfrowe lub informacyjno-komunikacyjne, które uniemożliwia lub utrudnia osobom ze szczególnymi potrzebami udział w różnych sferach życia na zasadzie równości z innymi osobami;
+- **2)** dostępność – dostępność architektoniczną, cyfrową oraz informacyjno-komunikacyjną, co najmniej w zakresie określonym przez minimalne wymagania, o których mowa w art. 6, będącą wynikiem uwzględnienia uniwersalnego projektowania albo zastosowania racjonalnego usprawnienia;
+- **3)** osoba ze szczególnymi potrzebami – osobę, która ze względu na swoje cechy zewnętrzne lub wewnętrzne, albo ze względu na okoliczności, w których się znajduje, musi podjąć dodatkowe działania lub zastosować dodatkowe środki w celu przezwyciężenia bariery, aby uczestniczyć w różnych sferach życia na zasadzie równości z innymi osobami;
+- **4)** uniwersalne projektowanie – uniwersalne projektowanie, o którym mowa w art. 2 Konwencji o prawach osób niepełnosprawnych, sporządzonej w Nowym Jorku dnia 13 grudnia 2006 r. (Dz. U. z 2012 r. poz. 1169 oraz z 2018 r. poz. 1217), zwanej dalej „Konwencją”, uwzględniane w szczególności w celu spełnienia minimalnych wymagań, o których mowa w art. 6, dla zapewnienia dostępności osobom ze szczególnymi potrzebami;
+- **5)** racjonalne usprawnienie – racjonalne usprawnienie, o którym mowa w art. 2 Konwencji, stosowane w szczególności w celu spełnienia minimalnych wymagań, o których mowa w art. 6, dla zapewnienia dostępności osobom ze szczególnymi potrzebami.
+
 **Art. 3.** W zakresie określonym ustawą zapewnienie dostępności osobom ze szczególnymi potrzebami jest obowiązkiem:
+
+- **1)** jednostek sektora finansów publicznych w rozumieniu art. 9 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, 1622 i 1649),
+- **2)** innych, niż określone w pkt 1, państwowych jednostek organizacyjnych nieposiadających osobowości prawnej,
+- **3)** innych, niż określone w pkt 1, osób prawnych, utworzonych w szczególnym celu zaspokajania potrzeb o charakterze powszechnym niemających charakteru przemysłowego ani handlowego, jeżeli podmioty, o których mowa w tym przepisie oraz w pkt 1 i 2, pojedynczo lub wspólnie, bezpośrednio lub pośrednio przez inny podmiot: finansują je w ponad 50% lub posiadają ponad połowę udziałów albo akcji, lub sprawują nadzór nad organem zarządzającym, lub mają prawo do powoływania ponad połowy składu organu nadzorczego lub zarządzającego,
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **4)** związków podmiotów, o których mowa w pkt 1 i 2, lub podmiotów, o których mowa w pkt 3 zwanych dalej „podmiotami publicznymi”.
 
 **Art. 4.**
 
@@ -56,11 +69,25 @@ Art. 42–55. (pominięte)
 
 **Art. 5.**
 
-1. Przedsiębiorcy oraz organizacje pozarządowe, o których mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2023 r. poz. 571 oraz z 2024 r. poz. 834), dążą w prowadzonej działalności do zapewniania dostępności osobom ze szczególnymi potrzebami.
+1. Przedsiębiorcy oraz organizacje pozarządowe, o których mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2019 r. poz. 688 i 1570), dążą w prowadzonej działalności do zapewniania dostępności osobom ze szczególnymi potrzebami.
 
 2. W przypadku gdy podmiot inny niż podmiot publiczny realizuje, na podstawie umowy zawartej z podmiotem publicznym, zadanie finansowane z udziałem środków publicznych, jest obowiązany do zapewnienia dostępności osobom ze szczególnymi potrzebami w zakresie określonym w tej umowie.
 
 **Art. 6.** Minimalne wymagania służące zapewnieniu dostępności osobom ze szczególnymi potrzebami obejmują:
+
+- **1)** w zakresie dostępności architektonicznej: zapewnienie wolnych od barier poziomych i pionowych przestrzeni komunikacyjnych budynków, instalację urządzeń lub zastosowanie środków technicznych i rozwiązań architektonicznych w budynku, które umożliwiają dostęp do wszystkich pomieszczeń, z wyłączeniem pomieszczeń technicznych, zapewnienie informacji na temat rozkładu pomieszczeń w budynku, co najmniej w sposób wizualny i dotykowy lub głosowy, zapewnienie wstępu do budynku osobie korzystającej z psa asystującego, o którym mowa w art. 2 pkt 11 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2019 r. poz. 1172 i 1495), zapewnienie osobom ze szczególnymi potrzebami możliwości ewakuacji lub ich uratowania w inny sposób;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **2)** w zakresie dostępności cyfrowej – wymagania określone w ustawie z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych;
+- **3)** w zakresie dostępności informacyjno-komunikacyjnej: obsługę z wykorzystaniem środków wspierających komunikowanie się, o których mowa w art. 3 pkt 5 ustawy z dnia 19 sierpnia 2011 r. o języku migowym i innych środkach komunikowania się (Dz. U. z 2017 r. poz. 1824), lub przez wykorzystanie zdalnego dostępu online do usługi tłumacza przez strony internetowe i aplikacje, instalację urządzeń lub innych środków technicznych do obsługi osób słabosłyszących, w szczególności pętli indukcyjnych, systemów FM lub urządzeń opartych o inne technologie, których celem jest wspomaganie słyszenia, zapewnienie na stronie internetowej danego podmiotu informacji o zakresie jego działalności – w postaci elektronicznego pliku zawierającego tekst odczytywalny maszynowo, nagrania treści w polskim języku migowym oraz informacji w tekście łatwym do czytania, zapewnienie, na wniosek osoby ze szczególnymi potrzebami, komunikacji z podmiotem publicznym w formie określonej w tym wniosku.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 **Art. 7.**
 
@@ -79,6 +106,18 @@ Art. 42–55. (pominięte)
 **Art. 8.** Minister właściwy do spraw rozwoju regionalnego koordynuje zapewnianie dostępności osobom ze szczególnymi potrzebami.
 
 **Art. 9.** Koordynacja, o której mowa w art. 8, polega w szczególności na:
+
+- **1)** monitorowaniu zapewniania dostępności osobom ze szczególnymi potrzebami, w zakresie, o którym mowa w art. 6 pkt 1 i 3;
+- **2)** inicjowaniu zmian przepisów prawnych w zakresie zapewniania dostępności osobom ze szczególnymi potrzebami;
+- **3)** wyznaczaniu kierunków i prowadzeniu działań informacyjno-promocyjnych dotyczących zapewniania dostępności osobom ze szczególnymi potrzebami;
+- **4)** inicjowaniu badań naukowych w zakresie zapewniania dostępności osobom ze szczególnymi potrzebami, w szczególności z uwzględnieniem uniwersalnego projektowania;
+- **5)** promowaniu współpracy w zakresie zapewniania dostępności osobom ze szczególnymi potrzebami: między jednostkami samorządu terytorialnego, między organami administracji publicznej, organizacjami pozarządowymi i innymi podmiotami, uczelniami i instytutami badawczymi, z innymi państwami, organizacjami oraz instytucjami zagranicznymi i międzynarodowymi;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **6)** inicjowaniu działań na rzecz poprawy świadomości społecznej w zakresie zapewniania dostępności osobom ze szczególnymi potrzebami;
+- **7)** opiniowaniu projektów programów przyjmowanych przez Radę Ministrów w zakresie zapewniania dostępności osobom ze szczególnymi potrzebami.
 
 **Art. 10.**
 
@@ -99,7 +138,7 @@ Art. 42–55. (pominięte)
 
 4. Raport, o którym mowa w ust. 1, jest przekazywany do:
 
-- **1)** ministra właściwego do spraw rozwoju regionalnego – w przypadku raportów przygotowywanych przez podmioty publiczne będące organami, o których mowa w art. 5 § 2 pkt 4 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572), oraz inne podmioty publiczne o ogólnokrajowym zasięgu działania;
+- **1)** ministra właściwego do spraw rozwoju regionalnego – w przypadku raportów przygotowywanych przez podmioty publiczne będące organami, o których mowa w art. 5 § 2 pkt 4 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096 oraz z 2019 r. poz. 60, 730 i 1133), oraz inne podmioty publiczne o ogólnokrajowym zasięgu działania;
 - **2)** właściwego miejscowo wojewody – w przypadku raportów przygotowywanych przez podmioty publiczne inne niż podmioty, o których mowa w pkt 1.
 
 5. Raporty przygotowywane przez podmioty publiczne będące organami, o których mowa w art. 5 § 2 pkt 4 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, zawierają także informacje zbiorcze o stanie zapewniania dostępności osobom ze szczególnymi potrzebami w zakresie działalności jednostek podległych oraz nadzorowanych przez te organy.
@@ -132,21 +171,19 @@ Art. 42–55. (pominięte)
 - **6)** wskazywanie ekspertów, o których mowa w art. 16 ust. 5 pkt 2;
 - **7)** przygotowanie rocznego sprawozdania z działalności Rady.
 
-2a. Zadania, o których mowa w ust. 2 pkt 1–3 i 5, Rada może realizować również w odniesieniu do dostępności, o której mowa w art. 5 pkt 4 ustawy z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (Dz. U. poz. 731).
-
 3. Rada składa się maksymalnie z 50 członków.
 
 4. Skład Rady ustala minister właściwy do spraw rozwoju regionalnego, spośród kandydatów zgłoszonych przez:
 
 - **1)** organy administracji rządowej,
 - **2)** Pełnomocnika Rządu do Spraw Osób Niepełnosprawnych, o którym mowa w ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych,
-- **3)** Komisję Wspólną Rządu i Samorządu Terytorialnego, o której mowa w ustawie z dnia 6 maja 2005 r. o Komisji Wspólnej Rządu i Samorządu Terytorialnego oraz o przedstawicielach Rzeczypospolitej Polskiej w Komitecie Regionów Unii Europejskiej (Dz. U. z 2024 r. poz. 949),
-- **4)** Radę Dialogu Społecznego, o której mowa w ustawie z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. z 2018 r. poz. 2232, z późn. zm. ),
+- **3)** Komisję Wspólną Rządu i Samorządu Terytorialnego, o której mowa w ustawie z dnia 6 maja 2005 r. o Komisji Wspólnej Rządu i Samorządu Terytorialnego oraz o przedstawicielach Rzeczypospolitej Polskiej w Komitecie Regionów Unii Europejskiej (Dz. U. poz. 759),
+- **4)** Radę Dialogu Społecznego, o której mowa w ustawie z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. z 2018 r. poz. 2232),
 - **5)** Radę Działalności Pożytku Publicznego oraz Komitet do spraw Pożytku Publicznego, o których mowa w ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie,
 - **6)** Krajową Izbę Gospodarczą, o której mowa w ustawie z dnia 30 maja 1989 r. o izbach gospodarczych (Dz. U. z 2019 r. poz. 579),
 - **7)** Prezesa Zarządu Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych, o którym mowa w ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, zwanego dalej „Prezesem Zarządu PFRON”,
 - **8)** Krajową Radę Konsultacyjną do Spraw Osób Niepełnosprawnych, o której mowa w ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych,
-- **9)** inne podmioty istotne w zakresie zadań Rady – zwane dalej „podmiotami zgłaszającymi”.
+- **9)** inne podmioty istotne w zakresie zadań Rady zwane dalej „podmiotami zgłaszającymi”.
 
 5. Minister właściwy do spraw rozwoju regionalnego zwraca się pisemnie do podmiotów zgłaszających o zgłoszenie kandydatów do Rady.
 
@@ -155,7 +192,7 @@ Art. 42–55. (pominięte)
 7. Minister właściwy do spraw rozwoju regionalnego powołuje członków Rady spośród osób:
 
 - **1)** wskazanych przez podmioty zgłaszające lub
-- **2)** o których mowa w ust. 6 – biorąc pod uwagę ich kompetencje, doświadczenie i wiedzę ekspercką w zakresie dostępności.
+- **2)** o których mowa w ust. 6 biorąc pod uwagę ich kompetencje, doświadczenie i wiedzę ekspercką w zakresie dostępności.
 
 8. Członkiem Rady może być osoba, która:
 
@@ -189,7 +226,7 @@ Art. 42–55. (pominięte)
 
 16. Udział w pracach Rady jest nieodpłatny.
 
-17. Za udział w pracach Rady członkom Rady oraz osobom, o których mowa w ust. 15, przysługuje zwrot kosztów podróży, na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r. poz. 878 i 1222).
+17. Za udział w pracach Rady członkom Rady oraz osobom, o których mowa w ust. 15, przysługuje zwrot kosztów podróży, na warunkach określonych w przepisach wydanych na podstawie art. 775§ 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2019 r. poz. 1040, 1043 i 1495).
 
 18. Obsługę Rady zapewnia urząd obsługujący ministra właściwego do spraw rozwoju regionalnego.
 
@@ -234,10 +271,10 @@ Art. 42–55. (pominięte)
 
 2. Ogłoszenie o naborze, o którym mowa w ust. 1, zawiera w szczególności:
 
-- **1)** informacje o:
-    - **a)** szczegółowych wymogach, jakie musi spełniać podmiot, aby uzyskać status podmiotu dokonującego certyfikacji,
-    - **b)** terminie składania wniosków o nadanie statusu podmiotu dokonującego certyfikacji, który nie może być krótszy niż 30 dni od dnia ukazania się ogłoszenia o naborze na stronie, o której mowa w ust. 1 pkt 1,
-    - **c)** trybie weryfikacji wniosków o nadanie statusu podmiotu dokonującego certyfikacji;
+- **1)** informacje o: szczegółowych wymogach, jakie musi spełniać podmiot, aby uzyskać status podmiotu dokonującego certyfikacji, terminie składania wniosków o nadanie statusu podmiotu dokonującego certyfikacji, który nie może być krótszy niż 30 dni od dnia ukazania się ogłoszenia o naborze na stronie, o której mowa w ust. 1 pkt 1, trybie weryfikacji wniosków o nadanie statusu podmiotu dokonującego certyfikacji;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **2)** wzór wniosku o nadanie statusu podmiotu dokonującego certyfikacji.
 
@@ -266,6 +303,9 @@ Art. 42–55. (pominięte)
 
 **Art. 18.** W przypadku gdy:
 
+- **1)** podmiot ubiegający się o status podmiotu dokonującego certyfikacji nie spełnia wymogów, o których mowa w art. 15 ust. 3 – minister właściwy do spraw rozwoju regionalnego odmawia, w drodze decyzji, nadania temu podmiotowi statusu podmiotu dokonującego certyfikacji;
+- **2)** podmiot wpisany do wykazu, o którym mowa w art. 17 ust. 1, przestał spełniać wymogi, o których mowa w art. 15 ust. 3 – minister właściwy do spraw rozwoju regionalnego pozbawia, w drodze decyzji, ten podmiot statusu podmiotu dokonującego certyfikacji i wykreśla ten podmiot z wykazu.
+
 **Art. 19.**
 
 1. Dokumentem potwierdzającym spełnianie minimalnych wymagań, o których mowa w art. 6, jest certyfikat dostępności, zwany dalej „certyfikatem”, wydawany dla konkretnego podmiotu na okres czterech lat od dnia wydania.
@@ -283,11 +323,15 @@ Art. 42–55. (pominięte)
 
 **Art. 20.** Minister właściwy do spraw rozwoju regionalnego może dokonywać kontroli i oceny działalności podmiotu dokonującego certyfikacji, w zakresie:
 
+- **1)** efektywności, rzetelności i jakości działalności w zakresie dokonywania certyfikacji;
+- **2)** spełniania wymogów, o których mowa w art. 15 ust. 3;
+- **3)** przechowywania dokumentacji związanej z dokonywaniem certyfikacji.
+
 **Art. 21.**
 
 1. Certyfikacji dokonuje się na wniosek podmiotu ubiegającego się o certyfikat, zawierający nazwę i adres siedziby tego podmiotu oraz wskazanie zakresu prowadzonej przez ten podmiot działalności. Wniosek jest składany do podmiotu dokonującego certyfikacji na formularzu zgodnym z wzorem określonym w przepisach wydanych na podstawie art. 28 ust. 2.
 
-2. Wniosek, o którym mowa w ust. 1, może zostać złożony w postaci papierowej albo elektronicznej za pomocą środków komunikacji elektronicznej, o których mowa w ustawie z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344 oraz z 2024 r. poz. 1222), z tym że wniosek złożony za pomocą środków komunikacji elektronicznej opatruje się kwalifikowanym podpisem elektronicznym.
+2. Wniosek, o którym mowa w ust. 1, może zostać złożony w postaci papierowej albo elektronicznej za pomocą środków komunikacji elektronicznej, o których mowa w ustawie z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2019 r. poz. 123 i 730), z tym że wniosek złożony za pomocą środków komunikacji elektronicznej opatruje się kwalifikowanym podpisem elektronicznym.
 
 3. Podmiot ubiegający się o certyfikat nie może być powiązany faktycznie lub prawnie z podmiotem dokonującym certyfikacji.
 
@@ -303,13 +347,23 @@ Art. 42–55. (pominięte)
 - **2)** sześciokrotności – w przypadku prowadzenia działalności w od dwóch do pięciu obiektach,
 - **3)** dziesięciokrotności – w przypadku prowadzenia działalności w od sześciu do dziesięciu obiektach,
 - **4)** dwudziestokrotności – w przypadku prowadzenia działalności w od jedenastu do dwudziestu obiektach,
-- **5)** trzydziestokrotności – w przypadku prowadzenia działalności w więcej niż dwudziestu obiektach – przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej w roku kalendarzowym ostatnio ogłoszonego przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251, 1429 i 1672 oraz z 2024 r. poz. 834, 858 i 1243), ustalonego według stanu na dzień złożenia wniosku o wydanie certyfikatu.
+- **5)** trzydziestokrotności – w przypadku prowadzenia działalności w więcej niż dwudziestu obiektach przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej w roku kalendarzowym ostatnio ogłoszonego przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2018 r. poz. 1270 i 2245 oraz z 2019 r. poz. 39, 730, 752 i 1622), ustalonego według stanu na dzień złożenia wniosku o wydanie certyfikatu.
 
 **Art. 23.** Podmiot dokonujący certyfikacji, w terminie nie dłuższym niż̇ 3 miesiące od dnia złożenia kompletnego wniosku:
 
+- **1)** w przypadku stwierdzenia, że podmiot ubiegający się o certyfikat spełnia minimalne wymagania, o których mowa w art. 6 – przekazuje temu podmiotowi certyfikat w postaci papierowej albo
+- **2)** zawiadamia podmiot ubiegający się o certyfikat o odmowie wydania certyfikatu.
+
 **Art. 24.** Podmiot dokonujący certyfikacji jest obowiązany do:
 
+- **1)** przechowywania wydanego certyfikatu przez okres 5 lat od daty jego wydania;
+- **2)** przekazywania do ministra właściwego do spraw rozwoju regionalnego informacji o wydanych certyfikatach;
+- **3)** przechowywania dokumentów lub ich kopii i danych, na podstawie których został wydany certyfikat, a także do udostępniania tych dokumentów lub danych na żądanie ministra właściwego do spraw rozwoju regionalnego.
+
 **Art. 25.** W okresie ważności certyfikatu:
+
+- **1)** podmiot, któremu został wydany certyfikat, jest obowiązany spełniać minimalne wymagania, o których mowa w art. 6;
+- **2)** podmiot dokonujący certyfikacji może przeprowadzać kontrolę w zakresie spełniania minimalnych wymagań, o których mowa w art. 6, przez podmiot, któremu został wydany certyfikat.
 
 **Art. 26.**
 
@@ -322,9 +376,9 @@ Art. 42–55. (pominięte)
 1. W przypadku, o którym mowa w:
 
 - **1)** art. 23 pkt 2, podmiotowi ubiegającemu się o certyfikat,
-- **2)** art. 26 ust. 1, podmiotowi, któremu wydano certyfikat – przysługuje skarga do sądu administracyjnego w terminie 30 dni od dnia doręczenia zawiadomienia odpowiednio o odmowie wydania certyfikatu lub o cofnięciu certyfikatu.
+- **2)** art. 26 ust. 1, podmiotowi, któremu wydano certyfikat przysługuje skarga do sądu administracyjnego w terminie 30 dni od dnia doręczenia zawiadomienia odpowiednio o odmowie wydania certyfikatu lub o cofnięciu certyfikatu.
 
-2. W postępowaniu przed sądem stosuje się odpowiednio przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935) o zaskarżaniu do sądu decyzji administracyjnych.
+2. W postępowaniu przed sądem stosuje się odpowiednio przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2018 r. poz. 1302, z późn. zm.) o zaskarżaniu do sądu decyzji administracyjnych.
 
 **Art. 28.**
 
@@ -334,7 +388,7 @@ Art. 42–55. (pominięte)
 
 - **1)** szczegółowe wymogi, jakie muszą spełniać podmioty dokonujące certyfikacji,
 - **2)** wzór wniosku o wydanie certyfikatu,
-- **3)** wzór certyfikatu – uwzględniając konieczność stworzenia efektywnych warunków dokonywania certyfikacji w skali kraju, zapewnienia jawności i jednolitości procesu certyfikacji, zagwarantowania poprawności i kompletności informacji zawartych we wniosku oraz potrzebę ujednolicenia wydawanych dokumentów.
+- **3)** wzór certyfikatu uwzględniając konieczność stworzenia efektywnych warunków dokonywania certyfikacji w skali kraju, zapewnienia jawności i jednolitości procesu certyfikacji, zagwarantowania poprawności i kompletności informacji zawartych we wniosku oraz potrzebę ujednolicenia wydawanych dokumentów.
 
 #### Rozdział 4 Postępowanie skargowe
 
@@ -371,13 +425,13 @@ Art. 42–55. (pominięte)
 
 - **1)** w sposób i w terminie, o których mowa w art. 31 ust. 1, albo
 - **2)** w terminie określonym w art. 31 ust. 2, albo
-- **3)** z powodów określonych w zawiadomieniu, o którym mowa w art. 31 ust. 3 – wnioskodawcy służy prawo złożenia skargi na brak dostępności, zwanej dalej „skargą”.
+- **3)** z powodów określonych w zawiadomieniu, o którym mowa w art. 31 ust. 3 wnioskodawcy służy prawo złożenia skargi na brak dostępności, zwanej dalej „skargą”.
 
 2. Skargę wnosi się do Prezesa Zarządu PFRON, w terminie 30 dni od dnia:
 
-- **1)** w którym upłynął odpowiednio termin:
-    - **a)** określony w art. 31 ust. 1 albo
-    - **b)** wskazany w powiadomieniu, o którym mowa w art. 31 ust. 2;
+- **1)** w którym upłynął odpowiednio termin: określony w art. 31 ust. 1 albo wskazany w powiadomieniu, o którym mowa w art. 31 ust. 2;
+    - **a)**
+    - **b)**
 
 - **2)** otrzymania zawiadomienia, o którym mowa w art. 31 ust. 3.
 
@@ -418,18 +472,13 @@ Art. 42–55. (pominięte)
 
 1. Środki Funduszu pochodzą:
 
-- **1)** ze środków, o których mowa w:
-    - **a)** art. 29 ust. 1 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818), z wyłączeniem środków, o których mowa w art. 29 ust. 4a, art. 29a ust. 1 i art. 98 ust. 1 tej ustawy,
-    - **b)** art. 32 ust. 1 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079), z wyłączeniem środków, o których mowa w art. 32 ust. 5 i art. 33 ust. 2 tej ustawy – powierzonych w zarządzanie przez ministra właściwego do spraw rozwoju regionalnego;
-
+- **1)** ze środków, o których mowa w art. 29 ust. 1 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2018 r. poz. 1431 i 1544 oraz z 2019 r. poz. 60, 730 i 1572), z wyłączeniem środków, o których mowa w art. 29 ust. 4a, art. 29a ust. 1 i art. 98 ust. 1 tej ustawy, powierzonych w zarządzanie przez ministra właściwego do spraw rozwoju regionalnego;
 - **2)** z wpływów z grzywien w celu przymuszenia, o których mowa w art. 34 ust. 1;
 - **3)** z dotacji z budżetu państwa;
 - **4)** z odsetek z tytułu oprocentowania środków Funduszu;
 - **5)** z odsetek od lokat środków Funduszu;
 - **6)** z wpłaty ze zwrotów wparcia udzielonego ze środków Funduszu, wraz z oprocentowaniem;
-- **7)** ze środków Funduszu Solidarnościowego, o których mowa w art. 6a ust. 1 ustawy z dnia 23 października 2018 r. o Funduszu Solidarnościowym (Dz. U. z 2024 r. poz. 296, 863 i 1089), w wysokości określonej w rocznym planie finansowym tego funduszu;
-- **7a)** ze środków przeznaczonych na realizację programów finansowanych z udziałem środków europejskich;
-- **7b)** z wpływów z kar pieniężnych, o których mowa w art. 73 ust. 1 i 2 ustawy z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze;
+- **7)** ze środków Solidarnościowego Funduszu Wsparcia Osób Niepełnosprawnych, o których mowa w art. 6a ust. 1 ustawy z dnia 23 października 2018 r. o Solidarnościowym Funduszu Wsparcia Osób Niepełnosprawnych (Dz. U. poz. 2192 oraz z 2019 r. poz. 1622 i 1696), w wysokości określonej w rocznym planie finansowym tego funduszu;
 - **8)** z innych wpływów.
 
 2. Minister właściwy do spraw rozwoju regionalnego oraz minister właściwy do spraw zabezpieczenia społecznego mogą, na podstawie porozumienia, określać zadania finansowane w ramach Funduszu w danym roku budżetowym ze środków, o których mowa w ust. 1 pkt 7.
@@ -459,6 +508,13 @@ Art. 42–55. (pominięte)
 
 **Art. 38.** Do zadań Banku Gospodarstwa Krajowego w zakresie, o którym mowa w art. 37 ust. 2, należy w szczególności:
 
+- **1)** dokonywanie wyboru pośredników finansowych i zawieranie z nimi umów;
+- **2)** przekazywanie środków pośrednikom finansowym;
+- **3)** gromadzenie środków z tytułu spłat i zwrotu wsparcia;
+- **4)** monitorowanie realizacji wsparcia;
+- **5)** prowadzenie rozliczeń środków i sporządzanie sprawozdawczości dla ministra właściwego do spraw rozwoju regionalnego;
+- **6)** sprawowanie kontroli realizacji wsparcia przez pośredników finansowych.
+
 **Art. 39.**
 
 1. Wsparcie, o którym mowa w art. 37 ust. 1, jest udzielane bezpośrednio przez Bank Gospodarstwa Krajowego lub wybranych przez niego pośredników finansowych.
@@ -469,7 +525,7 @@ Art. 42–55. (pominięte)
 - **2)** warunki wypłaty i rozliczenia wsparcia;
 - **3)** formę wsparcia i warunki, na jakich zostało ono udzielone.
 
-3. Wsparcie, o którym mowa w ust. 2, może stanowić pomoc publiczną lub pomoc de minimis.
+3. Wsparcie, o którym mowa w ust. 2, może stanowić pomoc publiczną lub pomoc de minimis .
 
 4. W przypadku, o którym mowa w ust. 3, podmiotem udzielającym pomocy jest Bank Gospodarstwa Krajowego lub wybrany przez niego pośrednik finansowy.
 
@@ -478,6 +534,125 @@ Art. 42–55. (pominięte)
 **Art. 41.** Podstawą gospodarki finansowej Funduszu jest roczny plan finansowy, sporządzany na każdy rok budżetowy, w trybie i na zasadach określonych w ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
 #### Rozdział 6 Zmiany w przepisach
+
+**Art. 42.** W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2019 r. poz. 506, 1309 i 1571) w art. 5a w ust. 7 pkt 1 otrzymuje brzmienie: „
+
+- **1)** wymogi formalne, jakim powinny odpowiadać zgłaszane projekty z uwzględnieniem – o ile jest to możliwe – uniwersalnego projektowania, o którym mowa w art. 2 pkt 4 ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. poz. 1696); ” .
+
+**Art. 43.** W ustawie z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2018 r. poz. 1983 oraz z 2019 r. poz. 115 i 730) wprowadza się następujące zmiany:
+
+- **1)** w art. 5 dodaje się ust. 3 w brzmieniu: „
+
+3. Podmioty prowadzące działalność kulturalną składające wniosek o dotacje, o których mowa w ust. 2, art. 9 ust. 3 i art. 28 ust. 1b, przedstawiają, w jaki sposób wykorzystanie środków z dotacji będzie uwzględniało zapewnienie dostępności osobom ze szczególnymi potrzebami, o których mowa w ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. poz. 1696). ” ;
+
+- **2)** po art. 9a dodaje się art. 9b w brzmieniu: „ Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego wskazuje programy określające cele przeznaczenia środków finansowych z budżetu państwa na priorytetowe zadania w danym roku kalendarzowym, w których wnioski o udzielenie dotacji wymagają przedstawienia sposobu wykorzystania środków z dotacji na zapewnienie dostępności osobom ze szczególnymi potrzebami, o których mowa w ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami. ” ;
+- **3)** w art. 34 w ust. 2 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
+- **5)** określenie planowanych działań w zakresie dostosowania imprezy dla osób ze szczególnymi potrzebami, z uwzględnieniem, w razie potrzeby, racjonalnych usprawnień, o których mowa w art. 2 pkt 5 ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami. ” .
+
+**Art. 44.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2019 r. poz. 1186, 1309 i 1524) wprowadza się następujące zmiany:
+
+- **1)** w art. 7: w ust. 1 pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** warunki techniczne, jakim powinny odpowiadać obiekty budowlane i ich usytuowanie; ” , dodaje się ust. 4 w brzmieniu: „
+    - **b)**
+
+4. Właściwi ministrowie, określając warunki techniczne, o których mowa w ust. 1, uwzględniają wymagania, o których mowa w art. 5 ust. 1–2b, oraz potrzeby osób ze szczególnymi potrzebami, o których mowa w ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. poz. 1696). ” ;
+
+- **2)** w art. 34 ust. 2 otrzymuje brzmienie: „
+
+2. Zakres i treść projektu budowlanego powinny być dostosowane do specyfiki i charakteru obiektu, stopnia skomplikowania robót budowlanych oraz w zależności od przeznaczenia projektowanego obiektu określać niezbędne warunki do korzystania z obiektu przez osoby ze szczególnymi potrzebami, o których mowa w ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami. ” .
+
+**Art. 45.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2019 r. poz. 1172 i 1495) wprowadza się następujące zmiany:
+
+- **1)** w art. 21 po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+1a. Wpłaty, o których mowa w ust. 1, ulegają obniżeniu o 5% dla pracodawcy innego niż podmiot publiczny, o którym mowa w ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. poz. 1696), posiadającego certyfikat, o którym mowa w art. 19 ust. 1 tej ustawy, począwszy od pierwszego dnia miesiąca następującego po miesiącu, w którym pracodawca ten zawiadomił Zarząd Funduszu o uzyskaniu certyfikatu dostępności w sposób, o którym mowa w ust. 2f1. ” ;
+
+- **2)** w art. 35a w ust. 1 w pkt 7 w lit. f średnik zastępuje się przecinkiem i dodaje się lit. g w brzmieniu: „ zmiany samodzielnego lokalu mieszkalnego, o którym mowa w przepisach ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2019 r. poz. 737, 1309 i 1469), dotychczas zajmowanego przez osobę niepełnosprawną, w sytuacji braku możliwości zastosowania w tym lokalu racjonalnych usprawnień, o których mowa w ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami, odpowiednich do rodzaju niepełnosprawności lub jeżeli ich zastosowanie byłoby nieracjonalne ekonomicznie; ” ;
+    - **g)**
+
+- **3)** w art. 50 w ust. 2 po pkt 1a dodaje się pkt 1b w brzmieniu: „
+- **1b)** przedstawiciela ministra właściwego do spraw rozwoju regionalnego; ” .
+
+**Art. 46.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2018 r. poz. 2187, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 109 dodaje się ust. 3 i 4 w brzmieniu: „
+
+3. Osoba ze szczególnymi potrzebami, o której mowa w ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. poz. 1696), ma prawo otrzymania ogólnych warunków umów oraz regulaminów w formach, takich jak nagranie audio, nagranie wizualne treści w polskim języku migowym, wydruk w alfabecie Braille’a lub wydruk z wielkością czcionki wygodną do czytania, w terminie 7 dni od zgłoszenia takiej potrzeby.
+
+4. Treść ogólnych warunków umów oraz regulaminów udostępnia się odpowiednio w formach dostępnych dla osób ze szczególnymi potrzebami, o których mowa w ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami, w tym przez system bankowości elektronicznej. ” ;
+
+- **2)** w art. 111 dodaje się ust. 3 w brzmieniu: „
+
+3. Osoba ze szczególnymi potrzebami, o której mowa w ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami, ma prawo otrzymania informacji, o których mowa w ust. 1 i 2, w formach takich jak nagranie audio, nagranie wizualne treści w polskim języku migowym, wydruk w alfabecie Braille’a lub wydruk z wielkością czcionki wygodną do czytania, w terminie 7 dni od zgłoszenia takiej potrzeby. ” .
+
+**Art. 47.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2019 r. poz. 945 i 1248) w art. 23a w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „
+
+- **12)** koordynacji, o ile ustawa nie stanowi inaczej, zapewniania dostępności osobom ze szczególnymi potrzebami. ” .
+
+**Art. 48.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2018 r. poz. 1945 oraz z 2019 r. poz. 60, 235, 730, 1009 i 1524) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 w ust. 2 pkt 5 otrzymuje brzmienie: „
+- **5)** wymagania ochrony zdrowia oraz bezpieczeństwa ludzi i mienia, a także potrzeby osób ze szczególnymi potrzebami, o których mowa w ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. poz. 1696); ” ;
+- **2)** w art. 2 w pkt 19 kropkę zastępuje się średnikiem i dodaje się pkt 20 w brzmieniu: „
+- **20)** „uniwersalnym projektowaniu” – należy przez to rozumieć uniwersalne projektowanie, o którym mowa w art. 2 pkt 4 ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami. ” ;
+- **3)** w art. 10 w ust. 1 pkt 5 otrzymuje brzmienie: „
+- **5)** warunków i jakości życia mieszkańców, w tym ochrony ich zdrowia, oraz zapewnienia dostępności osobom ze szczególnymi potrzebami, o których mowa w ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami, zgodnie z uniwersalnym projektowaniem; ” ;
+- **4)** w art. 15 w ust. 1 pkt 2 otrzymuje brzmienie: „
+- **2)** zgodność z wynikami analizy, o której mowa w art. 32 ust. 1, wraz z datą uchwały rady gminy, o której mowa w art. 32 ust. 2, oraz sposób uwzględnienia uniwersalnego projektowania; ” ;
+- **5)** w art. 30 po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+1a. Osoba ze szczególnymi potrzebami, o której mowa w ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami, ma prawo do zapoznania się z treścią studium i planu miejscowego w zrozumiały dla niej sposób w terminie 14 dni od dnia zgłoszenia wniosku o udostępnienie treści studium lub planu miejscowego, w szczególności z wykorzystaniem środków wspierających komunikowanie się, o których mowa w art. 3 pkt 5 ustawy z dnia 19 sierpnia 2011 r. o języku migowym i innych środkach komunikowania się (Dz. U. z 2017 r. poz. 1824). ” .
+
+**Art. 49.** W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2018 r. poz. 2067 i 2245 oraz z 2019 r. poz. 730) w art. 25 w ust. 1 pkt 1 otrzymuje brzmienie: „
+
+- **1)** dokumentacji konserwatorskiej określającej stan zachowania zabytku nieruchomego i możliwości jego adaptacji, z uwzględnieniem historycznej funkcji i wartości tego zabytku, jak również możliwości jego dostosowania dla osób ze szczególnymi potrzebami, o których mowa w ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. poz. 1696); ” .
+
+**Art. 50.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2018 r. poz. 1614, 2244 i 2340) w art. 4 dodaje się ust. 4 w brzmieniu: „ 4. Organy administracji publicznej zapewniają dostępność, o której mowa w ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. poz. 1696), form ochrony przyrody, o których mowa w art. 6, dla osób ze szczególnymi potrzebami, o których mowa w tej ustawie, biorąc pod uwagę ograniczenia wynikające z potrzeb ochrony przyrody oraz uwarunkowania terenowe. ” .
+
+**Art. 51.** W ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2019 r. poz. 1127, 1128, 1590 i 1655) w art. 12 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „ 2. Pacjent będący osobą ze szczególnymi potrzebami, o której mowa w ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. poz. 1696), ma prawo do otrzymania informacji, o których mowa w ust. 1 oraz w art. 9–11, w zrozumiały dla niego sposób, w szczególności z wykorzystaniem środków wspierających komunikowanie się, o których mowa w art. 3 ust. 5 ustawy z dnia 19 sierpnia 2011 r. o języku migowym i innych środkach komunikowania się (Dz. U. z 2017 r. poz. 1824). ” .
+
+**Art. 52.** W ustawie z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2018 r. poz. 2016 i 2435 oraz z 2019 r. poz. 730 i 1495) w art. 21:
+
+- **1)** w ust. 1 pkt 2 otrzymuje brzmienie: „
+- **2)** rozwiązania techniczne zastosowane w środkach transportu służące zwłaszcza zapewnieniu ochrony środowiska oraz dogodnej obsługi pasażerów; ” ;
+- **2)** po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+1a. Przy udzielaniu zamówienia publicznego na wykonywanie publicznego transportu zbiorowego, w specyfikacji istotnych warunków zamówienia uwzględnia się konieczność zapewnienia w środkach transportu rozwiązań technicznych służących zapewnieniu ich dostępności dla osób niepełnosprawnych i osób o ograniczonej zdolności ruchowej. ” .
+
+**Art. 53.** W ustawie z dnia 9 października 2015 r. o rewitalizacji (Dz. U. z 2018 r. poz. 1398 oraz z 2019 r. poz. 730) wprowadza się następujące zmiany:
+
+- **1)** w art. 9 w ust. 1: wprowadzenie do wyliczenia otrzymuje brzmienie: „ Obszar gminy znajdujący się w stanie kryzysowym z powodu koncentracji negatywnych zjawisk społecznych, w szczególności bezrobocia, ubóstwa, przestępczości, wysokiej liczby mieszkańców będących osobami ze szczególnymi potrzebami, o których mowa w ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. poz. 1696), niskiego poziomu edukacji lub kapitału społecznego, a także niewystarczającego poziomu uczestnictwa w życiu publicznym i kulturalnym, można wyznaczyć jako obszar zdegradowany w przypadku występowania na nim ponadto co najmniej jednego z następujących negatywnych zjawisk: ” , pkt 3 i 4 otrzymują brzmienie: „
+    - **a)**
+    - **b)**
+
+- **3)** przestrzenno-funkcjonalnych – w szczególności niewystarczającego wyposażenia w infrastrukturę techniczną i społeczną lub jej złego stanu technicznego, braku dostępu do podstawowych usług lub ich niskiej jakości, niedostosowania rozwiązań urbanistycznych do zmieniających się funkcji obszaru, niedostosowania infrastruktury do potrzeb osób ze szczególnymi potrzebami, o których mowa w ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami, niskiego poziomu obsługi komunikacyjnej, niedoboru lub niskiej jakości terenów publicznych, lub
+- **4)** technicznych – w szczególności degradacji stanu technicznego obiektów budowlanych, w tym o przeznaczeniu mieszkaniowym, oraz niefunkcjonowaniu rozwiązań technicznych umożliwiających efektywne korzystanie z obiektów budowlanych, w szczególności w zakresie energooszczędności, ochrony środowiska i zapewniania dostępności osobom ze szczególnymi potrzebami, o których mowa w ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami. ” ;
+- **2)** w art. 15 w ust. 1 w pkt 5 lit. a otrzymuje brzmienie: „ listę planowanych podstawowych przedsięwzięć rewitalizacyjnych, wraz z ich opisami zawierającymi w odniesieniu do każdego przedsięwzięcia: nazwę i wskazanie podmiotów je realizujących, zakres realizowanych zadań, lokalizację, szacowaną wartość, prognozowane rezultaty wraz ze sposobem ich oceny w odniesieniu do celów rewitalizacji, opis działań zapewniających dostępność osobom ze szczególnymi potrzebami, o których mowa w ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami, o ile dane te są możliwe do wskazania, ” .
+    - **a)**
+
+**Art. 54.** W ustawie z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących (Dz. U. poz. 1496 oraz z 2019 r. poz. 630 i 1309) art. 58 otrzymuje brzmienie: „
+
+**Art. 58.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 7 ust. 2 i 3 oraz art. 34 ust. 6 ustawy wymienionej w art. 44 w brzmieniu dotychczasowym zachowują moc i mogą być zmieniane. ” .
+
+**Art. 55.** W ustawie z dnia 23 października 2018 r. o Solidarnościowym Funduszu Wsparcia Osób Niepełnosprawnych (Dz. U. poz. 2192 oraz z 2019 r. poz. 1622) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+1a. Fundusz może także wspierać działania w zakresie zapewnienia dostępności osobom ze szczególnymi potrzebami lub jej poprawy, osobom ze szczególnymi potrzebami, o których mowa w ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. poz. 1696). ” ;
+
+- **2)** po art. 6 dodaje się art. 6a w brzmieniu: „
+
+1. Środki Funduszu przeznacza się także na wsparcie udzielane w ramach Funduszu Dostępności, o którym mowa w rozdziale 5 ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami, zwanego dalej „Funduszem Dostępności”.
+
+2. Wysokość odpisu ustala się corocznie w planie finansowym Funduszu.
+
+3. Środki Funduszu są przekazywane na rachunek Funduszu Dostępności w terminie 21 dni od dnia ogłoszenia ustawy budżetowej na dany rok budżetowy. ” ;
+
+- **3)** w art. 18 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 brzmieniu: „
+
+2. Środki Funduszu na realizację zadań, o których mowa w art. 6a, przekazane na rachunek Funduszu Dostępności stanowią koszty Funduszu. ” .
 
 #### Rozdział 7 Przepisy przejściowe, dostosowujące i końcowe
 
@@ -489,13 +664,11 @@ Art. 42–55. (pominięte)
 
 3. Właściwy minister, na wniosek ministra właściwego do spraw rozwoju regionalnego, w terminie 12 miesięcy od dnia otrzymania wniosku, przedstawia Radzie Ministrów informację o planowanych działaniach w zakresie określonym we wniosku, uwzględniającym rekomendacje, o których mowa w ust. 2.
 
-**Art. 57.** Rządowy Program Dostępność Plus, przyjęty przez Radę Ministrów w dniu 17 lipca 2018 r., z dniem wejścia w życie ustawy staje się rządowym programem mającym na celu wsparcie działań na rzecz dostępności, o którym mowa w art. 10 ust. 2, i może być zmieniany.
-
-**Art. 58.** Pierwsze raporty, o których mowa w art. 11 ust. 1, są przekazywane do dnia 31 marca 2021 r.
+**Art. 57.** Rządowy Program Dostępność Plus, przyjęty przez Radę Ministrów w dniu 17 lipca 2018 r., z dniem wejścia w życie ustawy staje się rządowym programem mającym na celu wsparcie działań na rzecz dostępności, o którym mowa w art. 10 ust. 2, i może być zmieniany. Pierwsze raporty, o których mowa w art. 11 ust. 1, są przekazywane do dnia 31 marca 2021 r.
 
 **Art. 59.** Koordynatorzy do spraw dostępności, o których mowa w art. 14, zostaną wyznaczeni w terminie do dnia 30 września 2020 r.
 
-**Art. 60.** Przepisy art. 109 ust. 3 i 4 oraz art. 111 ust. 3 ustawy zmienianej w art. 46 w brzmieniu nadanym niniejszą ustawą stosuje się do ogólnych warunków umów, regulaminów oraz informacji, o których mowa w art. 109 ust. 1 i 2 oraz art. 111 ust. 1 i 2 ustawy zmienianej w art. 46 , odpowiednio zawieranych lub opracowywanych albo zmienianych po upływie 2 miesięcy od dnia wejścia w życie niniejszej ustawy.
+**Art. 60.** Przepisy art. 109 ust. 3 i 4 oraz art. 111 ust. 3 ustawy zmienianej w art. 46 w brzmieniu nadanym niniejszą ustawą stosuje się do ogólnych warunków umów, regulaminów oraz informacji, o których mowa w art. 109 ust. 1 i 2 oraz art. 111 ust. 1 i 2 ustawy zmienianej w art. 46, odpowiednio zawieranych lub opracowywanych albo zmienianych po upływie 2 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 61.** Przepisy art. 10 ust. 1 pkt 5 oraz art. 15 ust. 1 pkt 2 ustawy zamienianej w art. 48 w brzmieniu nadanym niniejsza ustawą stosuje się do studiów uwarunkowań i kierunków zagospodarowania przestrzennego gminy oraz miejscowych planów zagospodarowania przestrzennego, których sporządzanie albo zmianę rozpoczęto po upływie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
@@ -505,15 +678,13 @@ Art. 42–55. (pominięte)
 
 **Art. 64.** Do postępowań o udzielenie zamówienia publicznego, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 52 w brzmieniu dotychczasowym.
 
-**Art. 65.** Przepis art. 15 ust. 1 pkt 5 lit. a ustawy zmienianej w art. 53 , w brzmieniu nadanym niniejszą ustawą, stosuje się do gminnych programów rewitalizacji przyjmowanych albo aktualizowanych po upływie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+**Art. 65.** Przepis art. 15 ust. 1 pkt 5 lit. a ustawy zmienianej w art. 53, w brzmieniu nadanym niniejszą ustawą, stosuje się do gminnych programów rewitalizacji przyjmowanych albo aktualizowanych po upływie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 66.**
+**Art. 66.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 7 ust. 2 i 3 oraz art. 34 ust. 6 pkt 1 ustawy zmienianej w art. 44 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 7 ust. 2 i 3 oraz art. 34 ust. 6 pkt 1 ustawy zmienianej w art. 44 w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 36 miesięcy od dnia wejścia w życie niniejszej ustawy, i mogą być w tym czasie zmieniane na podstawie tych przepisów w brzmieniu nadanym niniejszą ustawą, w szczególności z uwzględnieniem potrzeb osób ze szczególnymi potrzebami.
 
-- **9)** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 7 ust. 2 i 3 oraz art. 34 ust. 6 pkt 1 ustawy zmienianej w art. 44 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 7 ust. 2 i 3 oraz art. 34 ust. 6 pkt 1 ustawy zmienianej w art. 44 w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 84 miesiące od dnia wejścia w życie niniejszej ustawy, i mogą być w tym czasie zmieniane na podstawie tych przepisów w brzmieniu nadanym niniejszą ustawą, w szczególności z uwzględnieniem potrzeb osób ze szczególnymi potrzebami.
+**Art. 67.** Minister właściwy do spraw zabezpieczenia społecznego, w terminie 30 dni od dnia wejścia w życie niniejszej ustawy, powoła, na wniosek Pełnomocnika Rządu do Spraw Osób Niepełnosprawnych, w skład Rady Nadzorczej Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych, o której mowa w ustawie zmienianej w art. 45, członka wskazanego przez ministra właściwego do spraw rozwoju regionalnego.
 
-**Art. 67.** Minister właściwy do spraw zabezpieczenia społecznego, w terminie 30 dni od dnia wejścia w życie niniejszej ustawy, powoła, na wniosek Pełnomocnika Rządu do Spraw Osób Niepełnosprawnych, w skład Rady Nadzorczej Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych, o której mowa w ustawie zmienianej w art. 45 , członka wskazanego przez ministra właściwego do spraw rozwoju regionalnego.
-
-**Art. 68.** W 2019 r. środki Solidarnościowego Funduszu Wsparcia Osób Niepełnosprawnych, o którym mowa w ustawie zmienianej w art. 55 , w kwocie 40 000 000 zł, zostaną przekazane na rachunek Funduszu Dostępności, o którym mowa w art. 35 niniejszej ustawy, w terminie 14 dni od dnia wejścia w życie niniejszej ustawy.
+**Art. 68.** W 2019 r. środki Solidarnościowego Funduszu Wsparcia Osób Niepełnosprawnych, o którym mowa w ustawie zmienianej w art. 55, w kwocie 40 000 000 zł, zostaną przekazane na rachunek Funduszu Dostępności, o którym mowa w art. 35 niniejszej ustawy, w terminie 14 dni od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 69.**
 
@@ -531,7 +702,7 @@ Art. 42–55. (pominięte)
 
 - **1)** 2019 r. – 0 zł;
 - **2)** 2020 r. – 50 432 000,00 zł;
-- **3)** 2021 r. – 63 918 333,33zł;
+- **3)** 2021 r. – 63 918 333,33 zł;
 - **4)** 2022 r. – 37 251 666,67 zł;
 - **5)** 2023 r. – 37 251 666,67 zł;
 - **6)** 2024 r. – 37 251 666,67 zł;
@@ -546,5 +717,14 @@ Art. 42–55. (pominięte)
 
 4. Za wdrożenie mechanizmu korygującego odpowiada minister właściwy do spraw rozwoju regionalnego.
 
-**Art. 73.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem:
+**Art. 73.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1 ust. 2, art. 6 pkt 2 oraz art. 7 ust. 3, które wchodzą w życie w zakresie: stron internetowych podmiotów publicznych nieopublikowanych przed dniem 23 września 2018 r. – z dniem 23 września 2019 r., stron internetowych podmiotów publicznych opublikowanych przed dniem 23 września 2018 r. – z dniem 23 września 2020 r., aplikacji mobilnych podmiotów publicznych – z dniem 23 czerwca 2021 r.;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** art. 15–28, które wchodzą w życie po upływie 18 miesięcy od dnia ogłoszenia;
+- **3)** art. 4 ust. 3 i 4, art. 5 ust. 2, art. 29–34 i art. 51, które wchodzą w życie po upływie 24 miesięcy od dnia ogłoszenia.
+
 

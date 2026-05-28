@@ -8,10 +8,10 @@ pos: 756
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 czerwca 2014 r.
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 4 czerwca 2014 r. w sprawie szczegółowych zasad i warunków posiadania, przechowywania i ewidencjonowania przez Państwową Straż Rybacką broni palnej, sygnałowej, amunicji oraz środków przymusu bezpośredniego
 
 | Pole | Wartość |
 |---|---|
@@ -22,66 +22,163 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2014-06-04 |
 | Data wydania | 2014-06-05 |
+| Wejście w życie | 2014-06-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000756) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/756/text.pdf) |
 
-MINISTRA ROLNICTWA I ROZWOJU WSI” dnia 4 czerwca 2014 r.
-sprawie szczegółowych zasad warunków posiadania, przechowywania ewidencjonowania przez Państwową Straż Rybacką broni palnej, sygnałowej, amunicji środków przymusu bezpośredniego Na podstawie art. 23a ust. 10 pkt 2 ustawy dnia 18 kwietnia 1985 r. rybactwie śródlądowym (Dz. U. 2009r. Nr 189, poz. 1471, późn. zm.”) zarządza się, co następuje: $ 1. Rozporządzenie określa szczegółowe zasady warunki posiadania, przechowywania ewidencjonowania broni palnej sygnałowej amunicji do niej, środków przymusu bezpośredniego przez Państwową Straż Rybacką, a także sprawowania przez Policję nadzoru tym zakresie nad Strażą.
-$ 2. Państwowa Straż Rybacka może posiadać:
-1) broń amunicję, jeżeli komendant wojewódzki Państwowej Straży Rybackiej:
-a) zapewnia przeszkolenie strażników Państwowej Straży Rybackiej zakresu posługiwania się bronią zasad 1 warunków jej przechowywania ewidencji, potwierdzone zaświadczeniem wydanym przez komendanta wojewódzkiego (Stołecznego) Policji,
-b) zapewnia spełnienie określonych rozporządzeniu warunków przechowywania ewidencjonowania broni amunicji;
-2) - środki przymusu bezpośredniego, których mowa art. 12 ust. I pkt 2 lit. a, pkt 7, pkt 9, pkt 12 lit. ai pkt 13 ustawy dnia 24 maja 2013 r. środkach przymusu bezpośredniego broni palnej (Dz. U. poz. 628 1165 2014r.
-poz. 24), zwanej dalej „ustawą”, jeżeli komendant wojewódzki Państwowej Straży Rybackiej:
-a) zapewnia przeszkolenie strażników Państwowej Straży Rybackiej zakresu posługiwania się środkami przymusu bezpośredniego zasad warunków ich przechowywania ewidencji,
-b) zapewnia spełnienie określonych rozporządzeniu warunków przechowywania ewidencjonowania środków przymusu bezpośredniego.
-$3.1. Broń, amunicję 1 środki przymusu bezpośredniego, których mowa art. 12 ust. I pkt 2 lit. a, pkt 7, pkt 12 lit. a ipkt 13 ustawy, ewidencjonuje się książce ewidencyjnej broni, amunicji środków przymusu bezpośredniego, której wzór jest określony załączniku nr 1 do rozporządzenia.
-2. Psa służbowego, którym mowa art. 12 ust. 1 pkt 9 ustawy, ewidencjonuje się książce ewidencyjnej psów służbowych, której wzór jest określony załączniku nr 2 do rozporządzenia.
-$4.1. Broń, amunicję 1 środki przymusu bezpośredniego, których mowa art. 12 ust. I pkt 2 lit. a, pkt 7, pkt 12 lit. a pkt 13 ustawy, przechowuje się magazynie broni.
-D_- Minister Rolnictwa Rozwoju Wsi kieruje działem administracji rządowej — rybołówstwo, na podstawie $ 1 ust. 2 pkt 4 rozporządze2) mieć drzwi wykonane metalu albo obite blachą stalową grubości powyżej 2 mm, wyposażone co najmniej dwa zamki atestowane;
-3) być wyposażony instalację alarmową przeciwwłamaniową, sprzęt gaśniczy apteczkę pierwszej pomocy.
-3. Drzwi do magazynu broni na czas nieobecności osoby upoważnionej do prowadzenia magazynu broni, której mowa $ 8 ust. 2, zamyka się 1 plombuje.
-4. Okna magazynu broni powinny być:
-l) osłonięte siatką metalową wymiarach oczek 10 x 10 mm;
-2) zabezpieczone kratami metalowymi na stałe zamocowanymi murze, wykonanymi prętów stalowych średnicy nie mniejszej niż 12 mm lub płaskowników stalowych wymiarach nie mniejszych niż 8 x 30 mm, przy czym odstęp między prętami nie powinien przekraczać wymiarów 120 x 120 mm, a między płaskownikami 80 mm poziomie 240 mm pionie.
-$5.1. Broń, amunicję środki przymusu bezpośredniego, których mowa art. 12 ust. I pkt 2 Iit. a, pkt 7, pkt 12 lit. a pkt 13 ustawy, przechowuje się szafach stalowych znajdujących się magazynie broni.
-2. Broń przechowuje się wyjętą futerału rozładowaną, ze zwolnionym kurkiem odłączonym magazynkiem, zabezpieczoną zgodnie zaleceniami producenta, technicznie sprawną, kompletną, czystą zakonserwowaną.
-3. Amunicję przechowuje się pudełkach, woreczkach lub pojemnikach ułożoną sposób uniemożliwiający przypadkowe uderzenie spłonkę naboju. Zabrania się przechowywania amunicji magazynkach nabojowych.
-$ 6. Psa służbowego, którym mowa art. 12 ust. 1 pkt 9 ustawy, utrzymuje się w:
-1) obiekcie użytkowanym przez Państwową Straż Rybacką albo
-2) miejscu zamieszkania strażnika Państwowej Straży Rybackiej — warunkach określonych przepisach wydanych na podstawie art. 17 ust. 8 ustawy dnia 21 sierpnia 1997 r. ochronie zwierząt (Dz. U. 2013 r. poz. 856).
-$ 7. Strażnik Państwowej Straży Rybackiej może posiadać:
-l) brońi amunicję:
-a) na podstawie świadectwa broni wydanego przez komendanta wojewódzkiego (Stołecznego) Policji na zasadach określonych ustawie dnia 21 maja 1999 r. broni amunicji (Dz. U. 2012r. poz. 576, 2013 r. poz. 829 2014 r. poz. 295),
-b) jeżeli ukończył wynikiem pozytywnym przeszkolenie zakresu posługiwania się bronią zasad warunków jej przechowywania ewidencji, potwierdzone zaświadczeniem wydanym przez komendanta wojewódzkiego (Stołecznego) Policji;
-2) - środki przymusu bezpośredniego, których mowa art. 12 ust. 1 pkt 2 lit. a, pkt 7, pkt 9, pkt 12 lit. ai pkt 13 ustawy, jeżeli ukończył wynikiem pozytywnym przeszkolenie zakresu posługiwania się środkami przymusu bezpośredniego.
-$8. 1. Wydawanie zwrot broni, amunicji środków przymusu bezpośredniego, których mowa art. 12 ust. I pkt 2 lit. a, pkt 7, pkt 12 lit. ai pkt 13 ustawy, ewidencjonuje się książce wydania przyjęcia broni, amunicji środków przymusu bezpośredniego, której wzór jest określony załączniku nr 3 do rozporządzenia.
-2. Książki, których mowa ust. 1 $ 3, prowadzi przechowuje magazynie broni osoba upoważniona przez komendanta wojewódzkiego Państwowej Straży Rybackiej do prowadzenia tego magazynu.
-3. Osoba upoważniona do prowadzenia magazynu broni powinna posiadać przeszkolenie podstawowe lub specjalistyczwania terenie poza godzinami pracy osoby upoważnionej do prowadzenia magazynu broni.
-$ 10. Strażnik Państwowej Straży Rybackiej przypadkach, których mowa $ 9 ust. 2, po wykonaniu zadania przechowuje broń sposób uniemożliwiający dostęp do niej osobom trzecim.
-$ 11. Strażnik Państwowej Straży Rybackiej zdaje posiadaną broń, amunicję środki przymusu bezpośredniego, których mowa art. 12 ust. I pkt 12 lit. ai pkt 13 ustawy, do magazynu broni przypadku:
-l) wykonywania czynności służbowych niewymagających wyposażenia broń, amunicję środki przymusu bezpośredniego;
-2) polecenia komendanta wojewódzkiego Państwowej Straży Rybackiej.
-$ 12. Strażnik Państwowej Straży Rybackiej, któremu wydano broń, czasie wykonywania obowiązków służbowych posiada przy sobie świadectwo broni.
-$ 13.1. Nadzór nad Państwową Strażą Rybacką zakresie zasad warunków posiadania, przechowywania ewidencjonowania broni, amunicji środków przymusu bezpośredniego sprawuje komendant wojewódzki (Stołeczny) Policji.
-2. Czymności kontrolne związane nadzorem nad Państwową Strażą Rybacką, którym mowa ust. 1, są wykonywane ramach kontroli okresowych, doraźnych sprawdzających.
-3. Kontrole okresowe są podejmowane, nie rzadziej niż raz na 5 lat, celu zapewnienia przestrzegania zasad warunków posiadania, przechowywania ewidencjonowania broni, amunicji środków przymusu bezpośredniego.
-4. Kontrole doraźne są podejmowane razie podejrzenia, że nastąpiło naruszenie zasad warunków posiadania, przechowywania ewidencjonowania broni, amunicji środków przymusu bezpośredniego.
-5. Kontrole sprawdzające są prowadzone celu stwierdzenia, czy nieprawidłowości uchybienia ujawnione toku kontroli okresowych doraźnych zostały usunięte.
-$ 14. 1. Czynności kontrolne są dokonywane czasie pracy Państwowej Straży Rybackiej, a jeżeli wymaga tego dobro kontroli — również poza godzinami pracy dniach wolnych od pracy.
-2. Policjant dokonujący kontroli podejmuje czynności kontrolne na podstawie legitymacji służbowej imiennego upoważnienia wydanego przez komendanta wojewódzkiego (Stołecznego) Policji, które okazuje przed przystąpieniem do czynności kontrolnych.
-3. Komendant wojewódzki Państwowej Straży Rybackiej zapewnia policjantowi dokonującemu kontroli niezbędne warunki do sprawnego wykonywania czynności kontrolnych.
-4. Komendant wojewódzki Państwowej Straży Rybackiej albo osoba przez niego upoważniona lub osoba upoważniona do prowadzenia magazynu broni ma prawo uczestniczyć we wszystkich czynnościach kontrolnych podejmowanych przez policjanta dokonującego kontroli.
-$ 15. 1. Z przeprowadzonej kontroli policjant sporządza protokół kontroli, który zawiera szczególności — miejsce datę przeprowadzenia kontroli, sprawozdanie przeprowadzonych czynności kontrolnych, stwierdzone uchybienia, zalecenia mające na celu ich usunięcie termin ich wykonania.
-2. Protokół kontroli sporządza się dwóch egzemplarzach, których jeden pozostawia się kontrolowanej jednostce
-3. Protokół kontroli podpisują:
-l) policjant dokonujący kontroli;
-2) komendant wojewódzki Państwowej Straży Rybackiej albo osoba przez niego upoważniona;
-3) osoba upoważniona do prowadzenia magazynu broni;
-5. W przypadku zgłoszenia zastrzeżeń, których mowa ust. 4, komendant wojewódzki (Stołeczny) Policji dokonuje ich analizy i, miarę potrzeby, podejmuje czynności wyjaśniające.
-6. W przypadku nieuwzględnienia zastrzeżeń całości lub części komendant wojewódzki (Stołeczny) Policji niezwłocznie przekazuje swoje stanowisko na piśmie zgłaszającemu zastrzeżenia.
-$ 16. Komendant wojewódzki Państwowej Straży Rybackiej przekazuje na piśmie komendantowi wojewódzkiemu (Stołecznemu) Policji, terminie określonym przez policjanta dokonującego kontroli, informację sposobie wykonania zaleceń wydanych toku kontroli lub przyczynie ich niewykonania.
-$ 17. Państwowa Straż Rybacka dostosuje ewidencję broni, amunicji środków przymusu bezpośredniego, których mowa art. 12 ust. I pkt 2 Tit. a, pkt 7, pkt 9, pkt 12 lit. ai pkt 13 ustawy, prowadzoną przed dniem wejścia życie rozporządzenia, do szczegółowych zasad warunków ewidencjonowania broni, amunicji środków przymusu bezpośredniego, określonych rozporządzeniu, terminie miesiąca od dnia wejścia życie rozporządzenia.
-$ 18. Rozporządzenie wchodzi życie dniem 6 czerwca 2014 r.) Minister Rolnictwa Rozwoju Wsi: wz. K. Plocke
-3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa Gospodarki Żywnościowej dnia 4 listopada I AOZM H -odzeq | I M | | | | | | | I
+Treść rozporządzenia
+
+## Załącznik nr 1 — – Książka ewidencyjna broni, amunicji i środków przymusu bezpośredniego (wzór)
+
+## Załącznik nr 2 — – Książka ewidencyjna psów służbowych (wzór)
+
+## Załącznik nr 3 — – Książka wydania i przyjęcia broni, amunicji oraz środków przymusu bezpośredniego (wzór)
+
+Treść rozporządzenia
+Na podstawie art. 23a ust. 10 pkt 2 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2009 r. Nr 189, poz. 1471, z późn. zm.) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa szczegółowe zasady i warunki posiadania, przechowywania i ewidencjonowania broni palnej i sygnałowej oraz amunicji do niej, oraz środków przymusu bezpośredniego przez Państwową Straż Rybacką, a także sprawowania przez Policję nadzoru w tym zakresie nad Strażą.
+§ 2.
+Państwowa Straż Rybacka może posiadać:
+1)
+broń i amunicję, jeżeli komendant wojewódzki Państwowej Straży Rybackiej:
+a)
+zapewnia przeszkolenie strażników Państwowej Straży Rybackiej z zakresu posługiwania się bronią oraz zasad i warunków jej przechowywania i ewidencji, potwierdzone zaświadczeniem wydanym przez komendanta wojewódzkiego (Stołecznego) Policji,
+b)
+zapewnia spełnienie określonych w rozporządzeniu warunków przechowywania i ewidencjonowania broni i amunicji;
+2)
+środki przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 2 lit. a, pkt 7, pkt 9, pkt 12 lit. a i pkt 13 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. poz. 628 i 1165 oraz z 2014 r. poz. 24), zwanej dalej „ustawą”, jeżeli komendant wojewódzki Państwowej Straży Rybackiej:
+a)
+zapewnia przeszkolenie strażników Państwowej Straży Rybackiej z zakresu posługiwania się środkami przymusu bezpośredniego oraz zasad i warunków ich przechowywania i ewidencji,
+b)
+zapewnia spełnienie określonych w rozporządzeniu warunków przechowywania i ewidencjonowania środków przymusu bezpośredniego.
+§ 3.
+1.
+Broń, amunicję i środki przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 2 lit. a, pkt 7, pkt 12 lit. a i pkt 13 ustawy, ewidencjonuje się w książce ewidencyjnej broni, amunicji i środków przymusu bezpośredniego, której wzór jest określony w załączniku nr 1 do rozporządzenia.
+2.
+Psa służbowego, o którym mowa w art. 12 ust. 1 pkt 9 ustawy, ewidencjonuje się w książce ewidencyjnej psów służbowych, której wzór jest określony w załączniku nr 2 do rozporządzenia.
+§ 4.
+1.
+Broń, amunicję i środki przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 2 lit. a, pkt 7, pkt 12 lit. a i pkt 13 ustawy, przechowuje się w magazynie broni.
+2.
+Magazyn broni powinien:
+1)
+stanowić oddzielne pomieszczenie w budynku murowanym, usytuowane w miarę możliwości na piętrze;
+2)
+mieć drzwi wykonane z metalu albo obite blachą stalową o grubości powyżej 2 mm, wyposażone w co najmniej dwa zamki atestowane;
+3)
+być wyposażony w instalację alarmową przeciwwłamaniową, sprzęt gaśniczy i apteczkę pierwszej pomocy.
+3.
+Drzwi do magazynu broni na czas nieobecności osoby upoważnionej do prowadzenia magazynu broni, o której mowa w § 8 ust. 2, zamyka się i plombuje.
+4.
+Okna magazynu broni powinny być:
+1)
+osłonięte siatką metalową o wymiarach oczek 10 x 10 mm;
+2)
+zabezpieczone kratami metalowymi na stałe zamocowanymi w murze, wykonanymi z prętów stalowych o średnicy nie mniejszej niż 12 mm lub płaskowników stalowych o wymiarach nie mniejszych niż 8 x 30 mm, przy czym odstęp między prętami nie powinien przekraczać wymiarów 120 x 120 mm, a między płaskownikami 80 mm w poziomie i 240 mm w pionie.
+§ 5.
+1.
+Broń, amunicję i środki przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 2 lit. a, pkt 7, pkt 12 lit. a i pkt 13 ustawy, przechowuje się w szafach stalowych znajdujących się w magazynie broni.
+2.
+Broń przechowuje się wyjętą z futerału i rozładowaną, ze zwolnionym kurkiem i odłączonym magazynkiem, zabezpieczoną zgodnie z zaleceniami producenta, technicznie sprawną, kompletną, czystą i zakonserwowaną.
+3.
+Amunicję przechowuje się w pudełkach, woreczkach lub pojemnikach ułożoną w sposób uniemożliwiający przypadkowe uderzenie w spłonkę naboju. Zabrania się przechowywania amunicji w magazynkach nabojowych.
+§ 6.
+Psa służbowego, o którym mowa w art. 12 ust. 1 pkt 9 ustawy, utrzymuje się w:
+1)
+obiekcie użytkowanym przez Państwową Straż Rybacką albo
+2)
+miejscu zamieszkania strażnika Państwowej Straży Rybackiej
+w warunkach określonych w przepisach wydanych na podstawie art. 17 ust. 8 ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2013 r. poz. 856).
+§ 7.
+Strażnik Państwowej Straży Rybackiej może posiadać:
+1)
+broń i amunicję:
+a)
+na podstawie świadectwa broni wydanego przez komendanta wojewódzkiego (Stołecznego) Policji na zasadach określonych w ustawie z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2012 r. poz. 576, z 2013 r. poz. 829 oraz z 2014 r. poz. 295),
+b)
+jeżeli ukończył z wynikiem pozytywnym przeszkolenie z zakresu posługiwania się bronią oraz zasad i warunków jej przechowywania i ewidencji, potwierdzone zaświadczeniem wydanym przez komendanta wojewódzkiego (Stołecznego) Policji;
+2)
+środki przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 2 lit. a, pkt 7, pkt 9, pkt 12 lit. a i pkt 13 ustawy, jeżeli ukończył z wynikiem pozytywnym przeszkolenie z zakresu posługiwania się środkami przymusu bezpośredniego.
+§ 8.
+1.
+Wydawanie i zwrot broni, amunicji oraz środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 2 lit. a, pkt 7, pkt 12 lit. a i pkt 13 ustawy, ewidencjonuje się w książce wydania i przyjęcia broni, amunicji oraz środków przymusu bezpośredniego, której wzór jest określony w załączniku nr 3 do rozporządzenia.
+2.
+Książki, o których mowa w ust. 1 oraz w § 3, prowadzi i przechowuje w magazynie broni osoba upoważniona przez komendanta wojewódzkiego Państwowej Straży Rybackiej do prowadzenia tego magazynu.
+3.
+Osoba upoważniona do prowadzenia magazynu broni powinna posiadać przeszkolenie podstawowe lub specjalistyczne z zakresu posługiwania się bronią oraz zasad i warunków jej przechowywania i ewidencji, potwierdzone zaświadczeniem wydanym przez komendanta wojewódzkiego (Stołecznego) Policji.
+§ 9.
+1.
+Strażnik Państwowej Straży Rybackiej zdaje broń do magazynu broni niezwłocznie po zakończeniu służby.
+2.
+Zdanie broni nie jest wymagane, jeżeli strażnik, na polecenie przełożonego, wykonuje zadania wymagające przebywania w terenie poza godzinami pracy osoby upoważnionej do prowadzenia magazynu broni.
+§ 10.
+Strażnik Państwowej Straży Rybackiej w przypadkach, o których mowa w § 9 ust. 2, po wykonaniu zadania przechowuje broń w sposób uniemożliwiający dostęp do niej osobom trzecim.
+§ 11.
+Strażnik Państwowej Straży Rybackiej zdaje posiadaną broń, amunicję i środki przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 12 lit. a i pkt 13 ustawy, do magazynu broni w przypadku:
+1)
+wykonywania czynności służbowych niewymagających wyposażenia w broń, amunicję i środki przymusu bezpośredniego;
+2)
+polecenia komendanta wojewódzkiego Państwowej Straży Rybackiej.
+§ 12.
+Strażnik Państwowej Straży Rybackiej, któremu wydano broń, w czasie wykonywania obowiązków służbowych posiada przy sobie świadectwo broni.
+§ 13.
+1.
+Nadzór nad Państwową Strażą Rybacką w zakresie zasad i warunków posiadania, przechowywania i ewidencjonowania broni, amunicji oraz środków przymusu bezpośredniego sprawuje komendant wojewódzki (Stołeczny) Policji.
+2.
+Czynności kontrolne związane z nadzorem nad Państwową Strażą Rybacką, o którym mowa w ust. 1, są wykonywane w ramach kontroli okresowych, doraźnych i sprawdzających.
+3.
+Kontrole okresowe są podejmowane, nie rzadziej niż raz na 5 lat, w celu zapewnienia przestrzegania zasad i warunków posiadania, przechowywania i ewidencjonowania broni, amunicji oraz środków przymusu bezpośredniego.
+4.
+Kontrole doraźne są podejmowane w razie podejrzenia, że nastąpiło naruszenie zasad i warunków posiadania, przechowywania i ewidencjonowania broni, amunicji oraz środków przymusu bezpośredniego.
+5.
+Kontrole sprawdzające są prowadzone w celu stwierdzenia, czy nieprawidłowości i uchybienia ujawnione w toku kontroli okresowych i doraźnych zostały usunięte.
+§ 14.
+1.
+Czynności kontrolne są dokonywane w czasie pracy Państwowej Straży Rybackiej, a jeżeli wymaga tego dobro kontroli – również poza godzinami pracy i w dniach wolnych od pracy.
+2.
+Policjant dokonujący kontroli podejmuje czynności kontrolne na podstawie legitymacji służbowej oraz imiennego upoważnienia wydanego przez komendanta wojewódzkiego (Stołecznego) Policji, które okazuje przed przystąpieniem do czynności kontrolnych.
+3.
+Komendant wojewódzki Państwowej Straży Rybackiej zapewnia policjantowi dokonującemu kontroli niezbędne warunki do sprawnego wykonywania czynności kontrolnych.
+4.
+Komendant wojewódzki Państwowej Straży Rybackiej albo osoba przez niego upoważniona lub osoba upoważniona do prowadzenia magazynu broni ma prawo uczestniczyć we wszystkich czynnościach kontrolnych podejmowanych przez policjanta dokonującego kontroli.
+§ 15.
+1.
+Z przeprowadzonej kontroli policjant sporządza protokół kontroli, który zawiera w szczególności – miejsce i datę przeprowadzenia kontroli, sprawozdanie z przeprowadzonych czynności kontrolnych, stwierdzone uchybienia, zalecenia mające na celu ich usunięcie oraz termin ich wykonania.
+2.
+Protokół kontroli sporządza się w dwóch egzemplarzach, z których jeden pozostawia się w kontrolowanej jednostce.
+3.
+Protokół kontroli podpisują:
+1)
+policjant dokonujący kontroli;
+2)
+komendant wojewódzki Państwowej Straży Rybackiej albo osoba przez niego upoważniona;
+3)
+osoba upoważniona do prowadzenia magazynu broni;
+4)
+inne osoby, których wyjaśnienia, jako istotne dla czynności kontrolnych, zostały przytoczone w protokole.
+4.
+Komendantowi wojewódzkiemu Państwowej Straży Rybackiej albo osobie przez niego upoważnionej lub osobie upoważnionej do prowadzenia magazynu broni oraz osobie, o której mowa w ust. 3 pkt 4, przysługuje prawo zgłoszenia, przed podpisaniem protokołu kontroli, umotywowanych zastrzeżeń co do ustaleń zawartych w protokole kontroli.
+5.
+W przypadku zgłoszenia zastrzeżeń, o których mowa w ust. 4, komendant wojewódzki (Stołeczny) Policji dokonuje ich analizy i, w miarę potrzeby, podejmuje czynności wyjaśniające.
+6.
+W przypadku nieuwzględnienia zastrzeżeń w całości lub w części komendant wojewódzki (Stołeczny) Policji niezwłocznie przekazuje swoje stanowisko na piśmie zgłaszającemu zastrzeżenia.
+§ 16.
+Komendant wojewódzki Państwowej Straży Rybackiej przekazuje na piśmie komendantowi wojewódzkiemu (Stołecznemu) Policji, w terminie określonym przez policjanta dokonującego kontroli, informację o sposobie wykonania zaleceń wydanych w toku kontroli lub o przyczynie ich niewykonania.
+§ 17.
+Państwowa Straż Rybacka dostosuje ewidencję broni, amunicji i środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 2 lit. a, pkt 7, pkt 9, pkt 12 lit. a i pkt 13 ustawy, prowadzoną przed dniem wejścia w życie rozporządzenia, do szczegółowych zasad i warunków ewidencjonowania broni, amunicji i środków przymusu bezpośredniego, określonych w rozporządzeniu, w terminie miesiąca od dnia wejścia w życie rozporządzenia.
+§ 18.
+Rozporządzenie wchodzi w życie z dniem 6 czerwca 2014 r.
+
+## Załącznik nr 1 — – Książka ewidencyjna broni, amunicji i środków przymusu bezpośredniego (wzór)
+
+patrz oryginał
+
+## Załącznik nr 2 — – Książka ewidencyjna psów służbowych (wzór)
+
+patrz oryginał
+
+## Załącznik nr 3 — – Książka wydania i przyjęcia broni, amunicji oraz środków przymusu bezpośredniego (wzór)
+
+patrz oryginał
 

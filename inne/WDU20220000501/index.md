@@ -8,12 +8,10 @@ pos: 501
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o wsparciu gospodarstw domowych w ponoszeniu kosztów związanych ze zmianą standardu nadawania naziemnej telewizji cyfrowej
-
-*USTAWA z dnia 24 lutego 2022 r.*
+# Ustawa z dnia 24 lutego 2022 r. o wsparciu gospodarstw domowych w ponoszeniu kosztów związanych ze zmianą standardu nadawania naziemnej telewizji cyfrowej
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2022-02-24 |
 | Data wydania | 2022-03-02 |
+| Wejście w życie | 2022-03-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000501) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/501/text.pdf) |
 
@@ -33,14 +32,17 @@ source: "isap-pdf"
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
 
-**Art. 3.** Świadczenie na zakup odbiornika cyfrowego przysługuje jednej pełnoletniej osobie, zameldowanej na terytorium Rzeczypospolitej Polskiej na pobyt stały lub czasowy powyżej 30 dni, jeżeli trudna sytuacja materialna gospodarstwa domowego tej osoby uniemożliwia samodzielne poniesienie kosztów nabycia odbiornika cyfrowego, zwanej dalej „osobą uprawnioną”, w celu zapewnienia odbioru przez to gospodarstwo domowe naziemnej telewizji cyfrowej w standardzie DVB-T2/HEVC, bez uszczerbku dla podstawowych potrzeb życiowych gospodarstwa domowego tej osoby.
+- **1)** odbiorniku cyfrowym – należy przez to rozumieć odbiornik cyfrowy, o którym mowa w art. 2 pkt 23a ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2021 r. poz. 576), umożliwiający odbiór co najmniej sygnału naziemnej telewizji cyfrowej, zgodny z wymaganiami, o których mowa w przepisach wydanych na podstawie art. 132 ust. 3 tej ustawy;
+- **2)** dokumencie potwierdzającym przyznanie świadczenia – należy przez to rozumieć dokument elektroniczny potwierdzający przyznanie świadczenia na zakup odbiornika cyfrowego lub wydruk sporządzony z tego dokumentu elektronicznego;
+- **3)** gospodarstwie domowym – należy przez to rozumieć zespół osób mieszkających i utrzymujących się wspólnie albo jedną osobę utrzymującą się samodzielnie, gdy miejsce zamieszkania tych osób znajduje się na terytorium Rzeczypospolitej Polskiej;
+- **4)** płatności za pomocą dokumentu potwierdzającego przyznanie świadczenia – należy przez to rozumieć dokonanie zapłaty ceny lub jej części za odbiornik cyfrowy, do wysokości świadczenia na zakup odbiornika cyfrowego, przy wykorzystaniu dokumentu potwierdzającego przyznanie świadczenia;
+- **5)** świadczeniu na zakup odbiornika cyfrowego – należy przez to rozumieć dofinansowanie do zakupu jednego fabrycznie nowego odbiornika cyfrowego w gospodarstwie domowym.
+
+**Art. 3.** Świadczenie na zakup odbiornika cyfrowego przysługuje na ponoszenie kosztów związanych ze zmianą standardu nadawania naziemnej telewizji cyfrowej na DVB-T2/HEVC jednej pełnoletniej osobie, zameldowanej na terytorium Rzeczypospolitej Polskiej na pobyt stały lub czasowy powyżej 30 dni, jeżeli sytuacja materialna gospodarstwa domowego tej osoby uniemożliwia samodzielne poniesienie kosztów nabycia odbiornika cyfrowego, zwanej dalej „osobą uprawnioną”.
 
 **Art. 4.**
 
-1. Świadczenie na zakup odbiornika cyfrowego:
-
-- **1)** niezawierającego wyświetlacza obrazu przysługuje w wysokości 100 zł;
-- **2)** zawierającego wyświetlacz obrazu przysługuje w wysokości 250 zł.
+1. Świadczenie na zakup odbiornika cyfrowego przysługuje w wysokości 100 zł.
 
 2. Zakup odbiornika cyfrowego za kwotę niższą niż wysokość świadczenia na zakup odbiornika cyfrowego nie uprawnia do otrzymania zwrotu lub innego wykorzystania pozostałej kwoty świadczenia przez osobę uprawnioną.
 
@@ -50,7 +52,7 @@ source: "isap-pdf"
 
 **Art. 5.**
 
-1. Prawo do przyjmowania płatności za pomocą dokumentu potwierdzającego przyznanie świadczenia przysługuje przedsiębiorcy mającemu siedzibę na terytorium Rzeczypospolitej Polskiej albo innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, zarejestrowanemu jako podatnik VAT czynny lub podatnik VAT zwolniony w rozumieniu ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, 974 i 1137), wpisanemu na listę, o której mowa w art. 9 ust. 1.
+1. Prawo do przyjmowania płatności za pomocą dokumentu potwierdzającego przyznanie świadczenia przysługuje przedsiębiorcy mającemu siedzibę na terytorium Rzeczypospolitej Polskiej albo innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, zarejestrowanemu jako podatnik VAT czynny lub podatnik VAT zwolniony w rozumieniu ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2021 r. poz. 685, z późn. zm.), wpisanemu na listę, o której mowa w art. 9 ust. 1.
 
 2. Płatności za pomocą dokumentu potwierdzającego przyznanie świadczenia nie dokonuje się podczas nieumówionej wizyty przedsiębiorcy w miejscu zamieszkania lub zwykłego pobytu osoby uprawnionej.
 
@@ -59,8 +61,6 @@ source: "isap-pdf"
 4. Płatność za pomocą dokumentu potwierdzającego przyznanie świadczenia nie może być dokonywana w ratach.
 
 5. Dokument potwierdzający przyznanie świadczenia nie podlega wymianie na gotówkę, inne prawne środki płatnicze oraz inne środki wymiany.
-
-6. Płatność za pomocą dokumentu potwierdzającego przyznanie świadczenia nie może być dokonana, jeżeli w związku z nabyciem odbiornika cyfrowego osobie uprawnionej jest oferowana inna odpłatna usługa, świadczona przy pomocy tego odbiornika.
 
 **Art. 6.** Prawo do dokonywania płatności za pomocą dokumentu potwierdzającego przyznanie świadczenia wygasa z końcem dnia 31 grudnia 2022 r.
 
@@ -73,13 +73,13 @@ source: "isap-pdf"
 2. Dokonując rejestracji, przedsiębiorca prowadzący sprzedaż odbiorników cyfrowych podaje:
 
 - **1)** firmę (nazwę) lub imię i nazwisko;
-- **2)** adres:
-    - **a)** siedziby – w przypadku podmiotu niebędącego osobą fizyczną albo stałego miejsca prowadzenia działalności, albo miejsca zamieszkania, w przypadku nieposiadania stałego miejsca prowadzenia działalności – w odniesieniu do osoby fizycznej,
-    - **b)** poczty elektronicznej przyporządkowany do wykonywanej działalności,
-    - **c)** strony internetowej, o ile ją prowadzi;
+- **2)** adres: siedziby – w przypadku podmiotu niebędącego osobą fizyczną albo stałego miejsca prowadzenia działalności, albo miejsca zamieszkania, w przypadku nieposiadania stałego miejsca prowadzenia działalności – w odniesieniu do osoby fizycznej, poczty elektronicznej przyporządkowany do wykonywanej działalności, strony internetowej, o ile ją prowadzi;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **3)** numer, za pomocą którego podmiot został zidentyfikowany na potrzeby podatku;
-- **4)** numery rachunków rozliczeniowych, o których mowa w art. 49 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2021 r. poz. 2439 i 2447 oraz z 2022 r. poz. 830 i 872), lub imiennych rachunków w spółdzielczej kasie oszczędnościowo-kredytowej, której podmiot jest członkiem, otwartych w związku z prowadzoną przez członka działalnością gospodarczą;
+- **4)** numery rachunków rozliczeniowych, o których mowa w art. 49 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2021 r. poz. 2439 i 2447), lub imiennych rachunków w spółdzielczej kasie oszczędnościowo-kredytowej, której podmiot jest członkiem, otwartych w związku z prowadzoną przez członka działalnością gospodarczą;
 - **5)** numer telefonu przyporządkowany do wykonywanej działalności;
 - **6)** imię i nazwisko oraz numer PESEL osoby dokonującej rejestracji upoważnionej do reprezentowania przedsiębiorcy.
 
@@ -101,7 +101,7 @@ source: "isap-pdf"
 
 1. Przedsiębiorca prowadzący sprzedaż odbiorników cyfrowych przyjmujący płatności za pomocą dokumentu potwierdzającego przyznanie świadczenia może, w każdym czasie, złożyć w systemie teleinformatycznym, o którym mowa w art. 21, oświadczenie o rezygnacji z prawa do przyjmowania płatności dokonywanych za pomocą tego dokumentu.
 
-2. Złożenie oświadczenia powoduje skreślenie przedsiębiorcy prowadzącego sprzedaż odbiorników cyfrowych z listy, o której mowa w art. 9 ust. 1, oraz dokonanie odpowiedniej zmiany w systemie teleinformatycznym, o którym mowa w art. 21, skutkującej zablokowaniem możliwości przyjmowania płatności za pomocą dokumentu potwierdzającego przyznanie świadczenia.
+2. Złożenie oświadczenia powoduje skreślenie przedsiębiorcy prowadzącego sprzedaż odbiorników cyfrowych zlisty, o której mowa w art. 9 ust. 1, oraz dokonanie odpowiedniej zmiany w systemie teleinformatycznym, o którym mowa w art. 21, skutkującej zablokowaniem możliwości przyjmowania płatności za pomocą dokumentu potwierdzającego przyznanie świadczenia.
 
 3. W przypadku złożenia oświadczenia ponowna rejestracja w sposób, o którym mowa w art. 7 ust. 1, nie jest możliwa.
 
@@ -123,7 +123,7 @@ source: "isap-pdf"
 
 1. Osoba uprawniona składa wniosek o przyznanie świadczenia na zakup odbiornika cyfrowego przy użyciu formularza elektronicznego udostępnionego przez ministra właściwego do spraw informatyzacji na stronie internetowej, której adres jest wskazany w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw informatyzacji.
 
-2. Wniosek o przyznanie świadczenia na zakup odbiornika cyfrowego może zostać złożony za pośrednictwem operatora wyznaczonego, o którym mowa w art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2022 r. poz. 896), zwanego dalej „operatorem wyznaczonym”.
+2. Wniosek o przyznanie świadczenia na zakup odbiornika cyfrowego może zostać złożony za pośrednictwem operatora wyznaczonego, o którym mowa w art. 3 pkt 13 ustawy zdnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2020 r. poz. 1041 i 2320), zwanego dalej „operatorem wyznaczonym”.
 
 3. W przypadku składania wniosku w sposób, o którym mowa w ust. 2:
 
@@ -139,16 +139,16 @@ source: "isap-pdf"
 
 1. Wniosek o przyznanie świadczenia na zakup odbiornika cyfrowego zawiera:
 
-- **1)** dane identyfikujące osobę uprawnioną:
-    - **a)** imię i nazwisko,
-    - **b)** datę urodzenia,
-    - **c)** numer PESEL,
-    - **d)** adres zamieszkania na terytorium Rzeczypospolitej Polskiej właściwy dla gospodarstwa domowego,
-    - **e)** numer telefonu komórkowego,
-    - **f)** adres poczty elektronicznej – fakultatywnie w przypadku osoby uprawnionej, składającej wniosek w sposób, o którym mowa w art. 14 ust. 2;
+- **1)** dane identyfikujące osobę uprawnioną: imię i nazwisko, datę urodzenia, numer PESEL, adres zamieszkania na terytorium Rzeczypospolitej Polskiej właściwy dla gospodarstwa domowego, numer telefonu komórkowego, adres poczty elektronicznej – fakultatywnie w przypadku osoby uprawnionej, składającej wniosek w sposób, o którym mowa w art. 14 ust. 2;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
 
 - **2)** oświadczenie osoby uprawnionej o niepobraniu dokumentu potwierdzającego przyznanie świadczenia przez inną osobę z tego samego gospodarstwa domowego;
-- **3)** oświadczenie osoby uprawnionej o tym, że trudna sytuacja materialna gospodarstwa domowego tej osoby uniemożliwia samodzielne poniesienie kosztów nabycia odbiornika cyfrowego w celu zapewnienia odbioru przez to gospodarstwo domowe naziemnej telewizji cyfrowej w standardzie DVB-T2/HEVC, bez uszczerbku dla podstawowych potrzeb życiowych gospodarstwa domowego tej osoby.
+- **3)** oświadczenie osoby uprawnionej o tym, że sytuacja materialna gospodarstwa domowego tej osoby uniemożliwia samodzielne poniesienie kosztów nabycia odbiornika cyfrowego.
 
 2. Oświadczenie, o którym mowa w ust. 1 pkt 2, składane jest pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
 
@@ -213,11 +213,11 @@ source: "isap-pdf"
 
 1. Obsługa dokumentu potwierdzającego przyznanie świadczenia odbywa się w systemie teleinformatycznym, którego funkcjonowanie zapewnia minister właściwy do spraw informatyzacji.
 
-2. System teleinformatyczny zapewnia bezpieczeństwo przetwarzanych danych osobowych oraz środki określone w art. 32 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ).
+2. System teleinformatyczny zapewnia bezpieczeństwo przetwarzanych danych osobowych oraz środki określone w art. 32 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.).
 
 3. Dane zgromadzone w systemie teleinformatycznym są usuwane po upływie 5 lat od zakończenia roku, w którym zostały wprowadzone do tego systemu.
 
-**Art. 22.** Uwierzytelnianie osoby uprawnionej składającej wniosek w sposób, o którym mowa w art. 14 ust. 1, oraz osoby działającej w imieniu przedsiębiorcy prowadzącego sprzedaż odbiorników cyfrowych, o którym mowa w art. 5 ust. 1, w systemie teleinformatycznym następuje w sposób, o którym mowa w art. 20a ust. 1 i 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070 oraz z 2022 r. poz. 1087).
+**Art. 22.** Uwierzytelnianie osoby uprawnionej składającej wniosek w sposób, o którym mowa w art. 14 ust. 1, oraz osoby działającej w imieniu przedsiębiorcy prowadzącego sprzedaż odbiorników cyfrowych, o którym mowa w art. 5 ust. 1, w systemie teleinformatycznym następuje w sposób, o którym mowa w art. 20a ust. 1 i 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070).
 
 #### Rozdział 6 Finansowanie i realizacja płatności za dokument potwierdzający przyznanie świadczenia
 
@@ -240,7 +240,7 @@ source: "isap-pdf"
 5. Minister właściwy do spraw informatyzacji przekazuje operatorowi wyznaczonemu:
 
 - **1)** informacje dotyczące liczby zrealizowanych dokumentów potwierdzających przyznanie świadczenia oraz danych przedsiębiorców prowadzących sprzedaż odbiorników cyfrowych wpisanych na listę, o której mowa w art. 9 ust. 1,
-- **2)** środki finansowe przeznaczone na realizację płatności za dokumenty potwierdzające przyznanie świadczenia na wyodrębniony rachunek bankowy wskazany przez operatora wyznaczonego – w terminie 7 dni roboczych od 15. dnia każdego miesiąca.
+- **2)** środki finansowe przeznaczone na realizację płatności za dokumenty potwierdzające przyznanie świadczenia na wyodrębniony rachunek bankowy wskazany przez operatora wyznaczonego w terminie 7 dni roboczych od 15. dnia każdego miesiąca.
 
 6. Odsetki od środków finansowych zgromadzonych na rachunku, o którym mowa w ust. 5 pkt 2, są zaliczane na poczet środków finansowych przeznaczonych na realizację płatności za dokumenty potwierdzające przyznanie świadczenia w kolejnych okresach rozliczeniowych.
 
@@ -250,12 +250,11 @@ source: "isap-pdf"
 
 2. Przedsiębiorca prowadzący sprzedaż odbiorników cyfrowych, występując o realizację płatności za dokument potwierdzający przyznanie świadczenia, przekazuje ministrowi właściwemu do spraw informatyzacji:
 
-- **1)** dane dotyczące:
-    - **a)** daty i miejsca sprzedaży odbiorników cyfrowych,
-    - **b)** nazwy producenta i modelu odbiorników cyfrowych,
-    - **c)** całkowitej ceny zakupu odbiornika cyfrowego,
-    - **d)** kwoty płatności za odbiornik cyfrowy dokonanej z użyciem dokumentu potwierdzającego przyznanie świadczenia,
-    - **e)** posiadania przez odbiornik cyfrowy wyświetlacza obrazu albo jego braku;
+- **1)** dane dotyczące: daty i miejsca sprzedaży odbiorników cyfrowych, nazwy producenta i modelu odbiorników cyfrowych, całkowitej ceny zakupu odbiornika cyfrowego, kwoty płatności za odbiornik cyfrowy dokonanej z użyciem dokumentu potwierdzającego przyznanie świadczenia;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **2)** oświadczenie o spełnianiu przez sprzedane odbiorniki cyfrowe wymagań, o których mowa w przepisach wydanych na podstawie art. 132 ust. 3 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne.
 
@@ -275,9 +274,7 @@ source: "isap-pdf"
 
 - **1)** pobraną przez przedsiębiorcę prowadzącego sprzedaż odbiorników cyfrowych, który podał przy rejestracji w systemie teleinformatycznym, o którym mowa w art. 21, dane niezgodne ze stanem faktycznym lub ich nie zaktualizował w terminie, mimo wezwania, o którym mowa w art. 12;
 - **2)** pobraną przez przedsiębiorcę prowadzącego sprzedaż odbiorników cyfrowych w związku ze sprzedażą odbiornika cyfrowego, który nie jest fabrycznie nowy;
-- **3)** wydatkowaną na cel inny niż zakup odbiornika cyfrowego;
-- **4)** pobraną z naruszeniem zakazu, o którym mowa w art. 5 ust. 6;
-- **5)** pobraną przez przedsiębiorcę prowadzącego sprzedaż odbiorników cyfrowych w wysokości niezgodnej z określoną w art. 4 ust. 1.
+- **3)** wydatkowaną na cel inny niż zakup odbiornika cyfrowego.
 
 3. Minister właściwy do spraw informatyzacji ustala wysokość kwoty nienależnie pobranej oraz odsetek ustawowych za opóźnienie, w drodze decyzji.
 
@@ -287,29 +284,30 @@ source: "isap-pdf"
 
 #### Rozdział 7 Przepis karny
 
-**Art. 28.**
-
-1. Kto przyjmuje płatność za pomocą dokumentu potwierdzającego przyznanie świadczenia z przeznaczeniem na cel inny niż sprzedaż odbiornika cyfrowego osobie uprawnionej, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-2. Tej samej karze podlega ten, kto przyjmuje płatność za pomocą dokumentu potwierdzającego przyznanie świadczenia na zakup odbiornika cyfrowego z naruszeniem zakazu, o którym mowa w art. 5 ust. 6.
+**Art. 28.** Kto przyjmuje płatność za pomocą dokumentu potwierdzającego przyznanie świadczenia z przeznaczeniem na cel inny niż sprzedaż odbiornika cyfrowego osobie uprawnionej, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
 #### Rozdział 8 Zmiany w przepisach
 
-**Art. 29.** (pominięty)
+**Art. 29.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.) po art. 52zd dodaje się art. 52ze w brzmieniu: „ Art. 52ze. Wolna od podatku dochodowego jest wartość świadczenia wynikającego z realizacji prawa do zakupu odbiornika cyfrowego przyznanego na podstawie ustawy z dnia 24 lutego 2022 r. o wsparciu gospodarstw domowych w ponoszeniu kosztów związanych ze zmianą standardu nadawania naziemnej telewizji cyfrowej (Dz. U. poz. 501). ” .
 
-**Art. 30.** (pominięty)
+**Art. 30.** W ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2021 r. poz. 576) w art. 209 w ust. 1 po pkt 19a dodaje się pkt 19b w brzmieniu: „
+
+- **19b)** będąc przedsiębiorcą prowadzącym sprzedaż odbiorników cyfrowych, o których mowa w art. 2 pkt 1 ustawy z dnia 24 lutego 2022 r. o wsparciu gospodarstw domowych w ponoszeniu kosztów związanych ze zmianą standardu nadawania naziemnej telewizji cyfrowej (Dz. U. poz. 501), dokonuje sprzedaży użytkownikowi końcowemu takiego odbiornika cyfrowego, niespełniającego wymagań wynikających z przepisów wydanych na podstawie art. 132 ust. 3, ” .
 
 #### Rozdział 9 Przepisy dostosowujące i przepis końcowy
 
 **Art. 31.** Minister właściwy do spraw informatyzacji, przed wdrożeniem rozwiązań technicznych, ogłasza w swoim dzienniku urzędowym oraz w Biuletynie Informacji Publicznej na swojej stronie podmiotowej komunikat, w którym określa termin uruchomienia funkcjonalności umożliwiającej:
 
+- **1)** rejestrację w systemie teleinformatycznym, o którym mowa w art. 21, przez przedsiębiorcę prowadzącego sprzedaż odbiorników cyfrowych;
+- **2)** wnioskowanie o przyznanie świadczenia na zakup odbiornika cyfrowego wsystemie teleinformatycznym, o którym mowa w art. 21.
+
 **Art. 32.**
 
-1. Maksymalny limit wydatków z budżetu państwa, będących skutkiem finansowym wejścia w życie ustawy w 2022 r., wynosi 620,5 mln zł.
+1. Maksymalny limit wydatków z budżetu państwa, będących skutkiem finansowym wejścia w życie ustawy w 2022 r., wynosi 280 mln zł.
 
 2. Minister właściwy do spraw informatyzacji nadzoruje i monitoruje wykorzystanie limitu wydatków, o których mowa w ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu na koniec każdego kwartału, a w przypadku IV kwartału – według stanu na dzień 20 listopada.
 
 3. W przypadku gdy wysokość wydatków, o których mowa w ust. 1, po trzech kwartałach wyniesie łącznie więcej niż 75% limitu, wysokość wydatków w IV kwartale obniża się o kwotę przekroczenia, określając zakres ograniczeń dla poszczególnych zadań realizowanych na podstawie ustawy.
 
-**Art. 33.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia .
+**Art. 33.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

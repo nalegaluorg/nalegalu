@@ -8,12 +8,10 @@ pos: 385
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o muzeach
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 lutego 2022 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 9 lutego 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o muzeach
 
 | Pole | Wartość |
 |---|---|
@@ -27,18 +25,127 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000385) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/385/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2020 r. poz. 902), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U.
-poz. 1641) oraz zmian wynikających z przepisów ogłoszonych przed dniem 8 lutego 2022 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje odnośnika nr 1 oraz art. 58 ust. 1 i art. 63 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641), które stanowią: „ Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1024 z dnia 20 czerwca 2019 r. w sprawie otwartych danych i ponownego wykorzystywania informacji sektora publicznego (Dz. Urz. UE L 172 z 26.06.2019, str. 56).”
-Art. 35–39. (pominięte)
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 21 listopada 1996 r. o muzeach Rozdział 1 – Przepisy ogólne Rozdział 2 – Organizacja muzeów Rozdział 3 – Muzeum rejestrowane Rozdział 4 – Muzealia Rozdział 4a – Ochrona prawna rzeczy ruchomych o wartości historycznej, artystycznej lub naukowej wypożyczonych z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej Rozdział 5 – Pracownicy muzeów Rozdział 5a – Przepis karny Rozdział 6 – Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2020 r. poz. 902), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641) oraz zmian wynikających z przepisów ogłoszonych przed dniem 8 lutego 2022 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje odnośnika nr 1 oraz art. 58 ust. 1 i art. 63 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641), które stanowią: „ 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1024 z dnia 20 czerwca 2019 r. w sprawie otwartych danych i ponownego wykorzystywania informacji sektora publicznego (Dz. Urz. UE L 172 z 26.06.2019, str. 56). ”
+1.
+Rzecz ruchoma o wartości historycznej, artystycznej lub naukowej wypożyczana z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej, zwana dalej „rzeczą ruchomą”, może zostać objęta ochroną prawną, jeżeli:
+1)
+jej przywóz na terytorium Rzeczypospolitej Polskiej leży w interesie publicznym;
+2)
+nie znajduje się na terytorium Rzeczypospolitej Polskiej;
+3)
+jej przywóz na terytorium Rzeczypospolitej Polskiej jest zgodny z prawem;
+4)
+nie została wywieziona z terytorium Rzeczypospolitej Polskiej niezgodnie z prawem;
+5)
+zorganizowanie wystawy czasowej bez objęcia tej rzeczy ochroną prawną nie byłoby możliwe lub skutkowałoby nieproporcjonalnie wysokimi kosztami jej wystawienia w stosunku do kosztów zorganizowania wystawy;
+6)
+wystawa czasowa będzie organizowana przez:
+a)
+instytucję kultury w rozumieniu ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej lub
+b)
+muzeum niebędące instytucją kultury, wpisane do wykazu, o którym mowa w art. 5b ust. 1
+zwane dalej „organizatorem wystawy”.
+2.
+Ochrona prawna rzeczy ruchomej obejmuje okres nie dłuższy niż 12 miesięcy od dnia jej wwiezienia na terytorium Rzeczypospolitej Polskiej.
+3.
+Ochrona prawna rzeczy ruchomej ustaje:
+1)
+gdy upłynął okres, w jakim rzecz ruchoma była objęta ochroną prawną, określony w ewidencji, o której mowa w art. 31e ust. 1;
+2)
+z dniem wywiezienia rzeczy ruchomej z terytorium Rzeczypospolitej Polskiej;
+3)
+jeżeli rzecz ruchoma nie spełnia warunków, o których mowa w ust. 1 pkt 3 lub 4.
+4.
+Ochrona prawna rzeczy ruchomej ustaje z mocą od dnia jej wwiezienia na terytorium Rzeczypospolitej Polskiej, gdy rzecz ruchoma objęta ochroną prawną nie spełnia warunków, o których mowa w ust. 1 pkt 3 lub 4.
+5.
+Rzecz ruchoma objęta ochroną prawną nie podlega:
+1)
+zajęciu w celu zabezpieczenia w postępowaniu cywilnym i administracyjnym;
+2)
+egzekucji w sądowym i administracyjnym postępowaniu egzekucyjnym;
+3)
+zajęciu w celu zabezpieczenia kar majątkowych, środków karnych o charakterze majątkowym oraz roszczeń o naprawienie szkody w postępowaniu karnym.
+1.
+Organizator wystawy składa ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego wniosek o objęcie ochroną prawną rzeczy ruchomej, zwany dalej „wnioskiem”, co najmniej na 6 miesięcy przed planowanym wwiezieniem tej rzeczy na terytorium Rzeczypospolitej Polskiej.
+2.
+W przypadku stwierdzenia uchybień formalnych wniosku minister właściwy do spraw kultury i ochrony dziedzictwa narodowego wzywa organizatora wystawy do uzupełnienia wniosku w wyznaczonym terminie, nie krótszym niż 7 dni i nie dłuższym niż 30 dni od dnia otrzymania wezwania, pod rygorem pozostawienia wniosku bez rozpatrzenia.
+3.
+Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego udostępnia na stronie podmiotowej w Biuletynie Informacji Publicznej treść wniosku oraz określa termin, w którym osoby fizyczne, osoby prawne lub jednostki organizacyjne nieposiadające osobowości prawnej mogą zgłaszać zastrzeżenia co do spełnienia przez wskazaną we wniosku rzecz ruchomą warunków, o których mowa w art. 31a ust. 1 pkt 2, 3 lub 4, nie krótszy jednak niż 30 dni od dnia udostępnienia treści wniosku.
+4.
+Do zastrzeżenia dołącza się dokumenty uprawdopodobniające niespełnienie przez rzecz ruchomą warunków, o których mowa w art. 31a ust. 1 pkt 2, 3 lub 4.
+5.
+W przypadku zgłoszenia zastrzeżenia minister właściwy do spraw kultury i ochrony dziedzictwa narodowego wzywa organizatora wystawy do uzupełnienia wniosku w wyznaczonym terminie, nie krótszym jednak niż 7 dni i nie dłuższym niż 30 dni od dnia otrzymania wezwania, pod rygorem pozostawienia wniosku bez rozpatrzenia. Treść uzupełnionego wniosku udostępnia się na stronie podmiotowej w Biuletynie Informacji Publicznej.
+6.
+Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, po upływie terminów, o których mowa w ust. 2, 3 lub 5, zasięga opinii państwowej instytucji kultury wyspecjalizowanej w zakresie muzealnictwa i ochrony zbiorów w sprawie spełniania warunków, o których mowa w art. 31a ust. 1.
+7.
+Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego udostępnia na stronie podmiotowej w Biuletynie Informacji Publicznej informację o objęciu rzeczy ruchomej ochroną prawną albo informację o nieobjęciu rzeczy ruchomej ochroną prawną.
+8.
+W sprawach o objęcie rzeczy ruchomej ochroną prawną nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735, 1491 i 2052).
+9.
+Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, wzór wniosku oraz dokumenty dołączane do wniosku, uwzględniając umożliwienie skutecznej identyfikacji rzeczy ruchomej, w tym konieczność podania imienia i nazwiska autora tej rzeczy, a także konieczność podania nazwy, siedziby i adresu organizatora wystawy oraz imienia, nazwiska i adresu lub nazwy, siedziby i adresu właściciela lub posiadacza rzeczy ruchomej, oraz umożliwienie dokonania oceny spełnienia warunków określonych w art. 31a ust. 1.
+1.
+Organizator wystawy zawiadamia niezwłocznie ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego o wwiezieniu na terytorium Rzeczypospolitej Polskiej i wywiezieniu z terytorium Rzeczypospolitej Polskiej rzeczy ruchomej objętej ochroną prawną.
+2.
+Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, wzór zawiadomienia o wwiezieniu na terytorium Rzeczypospolitej Polskiej rzeczy ruchomej objętej ochroną prawną oraz wzór zawiadomienia o wywiezieniu z terytorium Rzeczypospolitej Polskiej rzeczy ruchomej objętej ochroną prawną, uwzględniając umożliwienie skutecznej identyfikacji tej rzeczy, w tym konieczność podania imienia i nazwiska autora tej rzeczy, a także konieczność podania nazwy, siedziby i adresu organizatora wystawy oraz imienia, nazwiska i adresu lub nazwy, siedziby i adresu właściciela lub posiadacza rzeczy ruchomej.
+W przypadku uzyskania informacji o niespełnieniu warunków, o których mowa w art. 31a ust. 1 pkt 3 lub 4, minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, po zasięgnięciu opinii państwowej instytucji kultury wyspecjalizowanej w zakresie muzealnictwa i ochrony zbiorów w sprawie niespełnienia tych warunków, niezwłocznie informuje organizatora wystawy o ustaniu ochrony prawnej rzeczy ruchomej.
+1.
+Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego prowadzi i aktualizuje ewidencję rzeczy ruchomych objętych ochroną prawną prowadzoną w formie kart ewidencyjnych.
+2.
+Ewidencja zawiera:
+1)
+określenie rzeczy ruchomej objętej ochroną prawną, w tym imię i nazwisko autora tej rzeczy;
+2)
+wskazanie planowanego terminu jej wwiezienia na terytorium Rzeczypospolitej Polskiej i wywiezienia z terytorium Rzeczypospolitej Polskiej;
+3)
+imię, nazwisko i adres lub nazwę, siedzibę i adres właściciela lub posiadacza wypożyczającego rzecz ruchomą objętą ochroną prawną;
+4)
+dane dotyczące wystawy czasowej, na której będzie eksponowana rzecz ruchoma objęta ochrona prawną, w tym nazwę, siedzibę i adres organizatora wystawy;
+5)
+wskazanie okresu, w jakim rzecz ruchoma jest objęta ochroną prawną;
+6)
+informację o ustaniu ochrony prawnej rzeczy ruchomej z przyczyn określonych w art. 31a ust. 3 pkt 3.
+3.
+W Biuletynie Informacji Publicznej udostępnia się informacje określone w ust. 2 pkt 1 i 3–6.
+4.
+Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, wzór karty ewidencyjnej, uwzględniając zakres danych objętych ewidencją, w tym potrzebę umożliwienia skutecznej identyfikacji rzeczy ruchomej objętej ochroną prawną.
+1.
+Kto bez pozwolenia wywozi za granicę muzealium, które nie stanowi zabytku w rozumieniu art. 3 pkt 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, wpisane do inwentarza muzealiów w muzeum będącym instytucją kultury lub po wywiezieniu go za granicę nie sprowadza do kraju w okresie ważności pozwolenia, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+2.
+Jeżeli sprawca czynu określonego w ust. 1 działa nieumyślnie, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+3.
+W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+4.
+W razie skazania za przestępstwo określone w ust. 1 sąd orzeka, a w razie skazania za przestępstwo określone w ust. 2 sąd może orzec, nawiązkę na wskazany cel społeczny związany z opieką nad zabytkami w wysokości od trzykrotnego do trzydziestokrotnego minimalnego wynagrodzenia przewidzianego w przepisach o minimalnym wynagrodzeniu za pracę.
+Art. 35–39.
+(pominięte)
 
-**Art. 58.** „1. Do spraw z zakresu przekazywania informacji sektora publicznego w celu ponownego wykorzystywania, wszczętych i niezakończonych w dniu wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.” „Art. 63. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 24, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.”. Marszałek Sejmu: E. Witek USTAWA z dnia 21 listopada 1996 r. o muzeach
+**Art. 58.** „1. Do spraw z zakresu przekazywania informacji sektora publicznego w celu ponownego wykorzystywania, wszczętych i niezakończonych w dniu wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe. ” „
+
+**Art. 63.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 24, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 21 listopada 1996 r. o muzeach
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Muzeum jest jednostką organizacyjną nienastawioną na osiąganie zysku, której celem jest gromadzenie i trwała ochrona dóbr naturalnego i kulturalnego dziedzictwa ludzkości o charakterze materialnym i niematerialnym, informowanie o wartościach i treściach gromadzonych zbiorów, upowszechnianie podstawowych wartości historii, nauki i kultury polskiej oraz światowej, kształtowanie wrażliwości poznawczej i estetycznej oraz umożliwianie korzystania ze zgromadzonych zbiorów.
 
 **Art. 2.** Muzeum realizuje cele określone w art. 1, w szczególności przez:
+
+- **1)** gromadzenie zabytków w statutowo określonym zakresie;
+- **2)** katalogowanie i naukowe opracowywanie zgromadzonych zbiorów;
+- **3)** przechowywanie gromadzonych zabytków, w warunkach zapewniających im właściwy stan zachowania i bezpieczeństwo, oraz magazynowanie ich w sposób dostępny do celów naukowych;
+- **4)** zabezpieczanie i konserwację zbiorów oraz, w miarę możliwości, zabezpieczanie zabytków archeologicznych nieruchomych oraz innych nieruchomych obiektów kultury materialnej i przyrody;
+- **5)** urządzanie wystaw stałych i czasowych;
+- **6)** organizowanie badań i ekspedycji naukowych, w tym archeologicznych;
+- **7)** prowadzenie działalności edukacyjnej;
+- **7a)** popieranie i prowadzenie działalności artystycznej i upowszechniającej kulturę;
+- **8)** udostępnianie zbiorów do celów edukacyjnych i naukowych;
+- **9)** zapewnianie właściwych warunków zwiedzania oraz korzystania ze zbiorów i zgromadzonych informacji;
+- **10)** prowadzenie działalności wydawniczej.
 
 **Art. 3.** Muzea mogą być tworzone dla jednej lub wielu dziedzin działalności człowieka oraz tworów natury.
 
@@ -67,13 +174,9 @@ Art. 35–39. (pominięte)
 
 6. Muzea państwowe i rejestrowane muzea samorządowe mają prawo używania okrągłej pieczęci z wizerunkiem orła ustalonym dla godła Rzeczypospolitej Polskiej oraz nazwą muzeum w otoku.
 
-**Art. 5a.**
-
 1. Muzeum może być łączone z innymi instytucjami kultury działającymi na podstawie przepisów o organizowaniu działalności kulturalnej, jeżeli połączenie nie spowoduje uszczerbku w wykonywaniu dotychczasowych zadań.
 
 2. Połączenie, o którym mowa w ust. 1, może nastąpić po pozytywnym zaopiniowaniu przez Radę do Spraw Muzeów i Miejsc Pamięci Narodowej, zwaną dalej „Radą do Spraw Muzeów”.
-
-**Art. 5b.**
 
 1. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego prowadzi w Biuletynie Informacji Publicznej wykaz muzeów.
 
@@ -81,14 +184,14 @@ Art. 35–39. (pominięte)
 
 - **1)** nazwę muzeum;
 - **2)** adres siedziby muzeum;
-- **3)** nazwę podmiotu, który utworzył muzeum, a w przypadku osoby fizycznej jej imię i nazwisko;
-- **4)** w przypadku muzeum rejestrowanego datę wpisu do Państwowego Rejestru Muzeów.
+- **3)** nazwę podmiotu, który utworzył muzeum, a w przypadku osoby fizycznej – jej imię i nazwisko;
+- **4)** w przypadku muzeum rejestrowanego – datę wpisu do Państwowego Rejestru Muzeów.
 
-3. Podmiot, który utworzył muzeum, jest obowiązany przekazać informacje, o których mowa w ust. 2, w terminie nie dłuższym niż 3 miesiące od dnia utworzenia muzeum, a w przypadku ich zmiany w terminie nie dłuższym niż miesiąc od zmiany.
+3. Podmiot, który utworzył muzeum, jest obowiązany przekazać informacje, o których mowa w ust. 2, w terminie nie dłuższym niż 3 miesiące od dnia utworzenia muzeum, a w przypadku ich zmiany – w terminie nie dłuższym niż miesiąc od zmiany.
 
 **Art. 6.**
 
-1. Muzeum działa na podstawie statutu nadanego przez podmiot, o którym mowa w art. 5 ust. 1, w uzgodnieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego, z zastrzeżeniem ust. 5.
+1. Muzeum działa na podstawie statutu nadanego przez podmiot, o którym mowa w art. 5 ust. 1, w uzgodnieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego, z zastrzeżeniem ust.5.
 
 2. Statut określa w szczególności:
 
@@ -110,8 +213,6 @@ Art. 35–39. (pominięte)
 
 7. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego prowadzi spis uzgodnionych regulaminów, o których mowa w ust. 6.
 
-**Art. 6a.**
-
 1. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego koordynuje i realizuje politykę państwa w zakresie działalności muzeów oraz w zakresie miejsc pamięci narodowej, w tym pomników zagłady oraz grobów i cmentarzy wojennych, w szczególności przez:
 
 - **1)** tworzenie muzeów;
@@ -124,13 +225,11 @@ Art. 35–39. (pominięte)
 - **8)** popularyzowanie wiedzy o miejscach pamięci narodowej oraz ich znaczenia dla historii, dziedzictwa i tożsamości narodowej;
 - **9)** wykonywanie innych zadań wynikających z umów międzynarodowych dotyczących miejsc pamięci narodowej, w tym grobów i cmentarzy wojennych.
 
-2. Organy właściwe w sprawach wydawania zezwoleń na wykonanie trwałych znaków i obiektów upamiętniających walki i męczeństwo wydają zezwolenie po zasięgnięciu opinii ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, z zastrzeżeniem uprawnień Prezesa Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, o których mowa w art. 53l ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2021 r. poz. 177).
-
-**Art. 6b.**
+2. Organy właściwe w sprawach wydawania zezwoleń na wykonanie trwałych znaków i obiektów upamiętniających walki i męczeństwo wydają zezwolenie po zasięgnięciu opinii ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, z zastrzeżeniem uprawnień Prezesa Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, o których mowa w art. 53l ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2021 r. poz. 177).
 
 1. Osobie fizycznej, osobie prawnej i jednostce organizacyjnej nieposiadającej osobowości prawnej zasłużonym dla idei pamięci narodowej nadaje się medal „Opiekun Miejsc Pamięci Narodowej”, zwany dalej „medalem”.
 
-2. Medal nadaje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego z własnej inicjatywy albo na wniosek Prezesa Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, organizacji społecznej lub innej jednostki organizacyjnej, zajmujących się upamiętnianiem i opieką nad miejscami pamięci narodowej.
+2. Medal nadaje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego z własnej inicjatywy albo na wniosek Prezesa Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, organizacji społecznej lub innej jednostki organizacyjnej, zajmujących się upamiętnianiem i opieką nad miejscami pamięci narodowej.
 
 3. Wniosek o nadanie medalu zawiera w szczególności następujące dane podmiotu, którego dotyczy:
 
@@ -182,17 +281,17 @@ Art. 35–39. (pominięte)
 3a. Za wstęp do muzeów państwowych przysługuje ulga w opłacie:
 
 - **1)** uczniom szkół systemu oświaty, słuchaczom kolegiów pracowników służb społecznych, studentom oraz doktorantom;
-- **2)** uczniom szkół, studentom oraz doktorantom będącym obywatelami państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej oraz państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym;
+- **2)** uczniom szkół, studentom oraz doktorantom będącym obywatelami państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej oraz państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym;
 - **3)** uczniom szkół prowadzonych przez organizacje społeczne za granicą, zarejestrowanych w bazie prowadzonej przez upoważnioną jednostkę podległą ministrowi właściwemu do spraw oświaty i wychowania, w okresie pobierania nauki języka polskiego, historii, geografii, kultury polskiej lub innych przedmiotów nauczanych w języku polskim, nie dłużej niż do ukończenia 18. roku życia;
 - **4)** uczniom szkół funkcjonujących w systemach oświaty innych państw w okresie pobierania nauki języka polskiego, historii, geografii, kultury polskiej lub innych przedmiotów nauczanych w języku polskim, nie dłużej niż do ukończenia 18. roku życia;
 - **5)** uczniom sekcji polskich funkcjonujących w szkołach działających w systemach oświaty innych państw, nie dłużej niż do ukończenia 18. roku życia;
 - **6)** uczniom szkół europejskich działających na podstawie Konwencji o Statucie Szkół Europejskich, sporządzonej w Luksemburgu dnia 21 czerwca 1994 r. (Dz. U. z 2005 r. poz. 10) pobierającym naukę języka polskiego, historii, geografii, kultury polskiej lub innych przedmiotów nauczanych w języku polskim, nie dłużej niż do ukończenia 18. roku życia;
-- **7)** osobom powyżej 65. roku życia, emerytom, rencistom, rencistom socjalnym, a także osobom niepełnosprawnym wraz z opiekunami, będącym obywatelami państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej oraz państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym;
-- **8)** nauczycielom:
-    - **a)** szkół i placówek systemu oświaty, zakładów poprawczych i schronisk dla nieletnich,
-    - **b)** szkół działających w państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej oraz państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronach umowy o Europejskim Obszarze Gospodarczym,
-    - **c)** szkół prowadzonych przez organizacje społeczne za granicą, zarejestrowanych w bazie prowadzonej przez upoważnioną jednostkę podległą ministrowi właściwemu do spraw oświaty i wychowania,
-    - **d)** uczącym języka polskiego, historii, geografii, kultury polskiej lub innych przedmiotów nauczanych w języku polskim w: szkołach funkcjonujących w systemach oświaty innych państw, sekcjach polskich funkcjonujących w systemach oświaty innych państw, szkołach europejskich działających na podstawie Konwencji o Statucie Szkół Europejskich, sporządzonej w Luksemburgu dnia 21 czerwca 1994 r.;
+- **7)** osobom powyżej 65. roku życia, emerytom, rencistom, rencistom socjalnym, a także osobom niepełnosprawnym wraz z opiekunami, będącym obywatelami państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej oraz państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym;
+- **8)** nauczycielom: szkół i placówek systemu oświaty, zakładów poprawczych i schronisk dla nieletnich, szkół działających w państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej oraz państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym, szkół prowadzonych przez organizacje społeczne za granicą, zarejestrowanych w bazie prowadzonej przez upoważnioną jednostkę podległą ministrowi właściwemu do spraw oświaty i wychowania, uczącym języka polskiego, historii, geografii, kultury polskiej lub innych przedmiotów nauczanych w języku polskim w: – szkołach funkcjonujących w systemach oświaty innych państw, – sekcjach polskich funkcjonujących w systemach oświaty innych państw, – szkołach europejskich działających na podstawie Konwencji o Statucie Szkół Europejskich, sporządzonej w Luksemburgu dnia 21 czerwca 1994 r.;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **9)** osobom fizycznym odznaczonym odznaką „Za opiekę nad zabytkami”, odznaką honorową „Zasłużony działacz kultury”, odznaką honorową „Zasłużony dla Kultury Polskiej” lub wyróżnionym tytułem honorowym „Zasłużony dla Kultury Narodowej”;
 - **10)** kombatantom.
@@ -206,7 +305,7 @@ Art. 35–39. (pominięte)
 - **5)** dzieciom do lat 7;
 - **6)** weteranom i weteranom poszkodowanym.
 
-4. Rada Ministrów określi, w drodze rozporządzenia, rodzaje dokumentów potwierdzających uprawnienia, o których mowa w ust. 3a i 3b, uwzględniając przy tym odpowiednio przepisy obowiązujące w państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej oraz w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronach umowy o Europejskim Obszarze Gospodarczym.
+4. Rada Ministrów określi, w drodze rozporządzenia, rodzaje dokumentów potwierdzających uprawnienia, o których mowa w ust. 3a i 3b, uwzględniając przy tym odpowiednio przepisy obowiązujące w państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej oraz w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym.
 
 5. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, po zasięgnięciu opinii Rady do Spraw Muzeów, ustali, w drodze rozporządzenia, wykaz państwowych muzeów martyrologicznych, do których wstęp jest bezpłatny, ze względu na szczególny charakter historyczny i edukacyjny tych muzeów.
 
@@ -259,7 +358,7 @@ Art. 35–39. (pominięte)
 
 1. W celu potwierdzenia wysokiego poziomu merytorycznej działalności i znaczenia zbiorów oraz w celu ewidencjonowania muzeów spełniających te warunki, minister właściwy do spraw kultury i ochrony dziedzictwa narodowego prowadzi Państwowy Rejestr Muzeów, zwany dalej „Rejestrem”.
 
-2. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego uzależnia wpis do Rejestru w szczególności od znaczenia posiadanych przez muzeum zbiorów, zespołu wykwalifikowanych pracowników, pomieszczeń i stałego źródła finansowania zapewniających spełnienie statutowych celów muzeum.
+2. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego uzależnia wpis do Rejestru w szczególności od znaczenia posiadanych przez muzeum zbiorów, zespołu wykwalifikowanych pracowników, pomieszczeń i stałego źródła finansowania – zapewniających spełnienie statutowych celów muzeum.
 
 3. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia:
 
@@ -284,7 +383,11 @@ Art. 35–39. (pominięte)
 
 **Art. 16.** Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, po zasięgnięciu opinii Rady do Spraw Muzeów, może w muzeach rejestrowanych, bezpośrednio mu podległych, powierzyć swoje uprawnienia radzie powierniczej, w zakresie:
 
-**Art. 17.** Właściwe organy administracji rządowej oraz organy jednostek samorządu terytorialnego mogą w muzeach rejestrowanych bezpośrednio im podległych powierzyć za zgodą ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, po zasięgnięciu opinii Rady do Spraw Muzeów swoje uprawnienia radzie powierniczej, w zakresie określonym w art. 16.
+- **1)** nadzoru nad wypełnianiem przez muzeum jego powinności wobec zbiorów i społeczeństwa;
+- **2)** bezpośredniego nadzoru nad realizacją celów określonych w art. 1;
+- **3)** powoływania i odwoływania dyrektora muzeum.
+
+**Art. 17.** Właściwe organy administracji rządowej oraz organy jednostek samorządu terytorialnego mogą w muzeach rejestrowanych bezpośrednio im podległych powierzyć – za zgodą ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, po zasięgnięciu opinii Rady do Spraw Muzeów – swoje uprawnienia radzie powierniczej, w zakresie określonym w art. 16.
 
 **Art. 18.**
 
@@ -308,8 +411,6 @@ Art. 35–39. (pominięte)
 - **4)** ubezwłasnowolnienia;
 - **5)** odwołania z powodu niewykonywania obowiązków członka rady wynikających z przepisów ustawy lub regulaminu.
 
-**Art. 19a.**
-
 1. Członkom rady powierniczej może przysługiwać zwrot kosztów przejazdów na zasadach określonych w przepisach regulujących należności przysługujące pracownikowi, zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej, z tytułu podróży służbowej na obszarze kraju oraz wynagrodzenie za udział w posiedzeniu rady powierniczej. Wydatki te pokrywa muzeum.
 
 2. Dyrektor muzeum przyznaje zwrot kosztów przejazdów, jeżeli środki na ten cel są ujęte w planie finansowym muzeum na dany rok.
@@ -318,8 +419,8 @@ Art. 35–39. (pominięte)
 
 4. W przypadku przyznania wynagrodzenia, o którym mowa w ust. 1, nie może być ono wyższe niż:
 
-- **1)** dla przewodniczącego rady 50%,
-- **2)** dla pozostałych członków rady 45% minimalnego wynagrodzenia przewidzianego w przepisach o minimalnym wynagrodzeniu za pracę.
+- **1)** dla przewodniczącego rady – 50%,
+- **2)** dla pozostałych członków rady – 45% minimalnego wynagrodzenia przewidzianego w przepisach o minimalnym wynagrodzeniu za pracę.
 
 **Art. 20.**
 
@@ -373,11 +474,9 @@ Art. 35–39. (pominięte)
 
 2. Wysokość opłat, o których mowa w ust. 1, ustala dyrektor muzeum. W uzasadnionych przypadkach dyrektor muzeum może ustalić opłatę ulgową lub zwolnić z opłaty.
 
-3. Nie pobiera się opłat za wypożyczenia muzealiów między muzeami krajowymi oraz, pod warunkiem wzajemności, między muzeami z siedzibą w państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej oraz w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym.
+3. Nie pobiera się opłat za wypożyczenia muzealiów między muzeami krajowymi oraz, pod warunkiem wzajemności, między muzeami z siedzibą w państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej oraz w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym.
 
 4. W przypadku ustalania i pobierania opłat za czynności, o których mowa w ust. 1, podejmowane w ramach udostępniania informacji sektora publicznego do ponownego wykorzystywania stosuje się przepisy ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641).
-
-**Art. 25a.**
 
 1. Wizerunki muzealiów mogą być utrwalone i przechowywane na informatycznych nośnikach danych w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070).
 
@@ -403,16 +502,14 @@ Art. 35–39. (pominięte)
 
 1. Muzealia mogą być przenoszone poza teren muzeum, w którym są wpisane do inwentarza:
 
-- **1)** za zgodą dyrektora muzeum, w przypadku:
-    - **a)** wypożyczenia innym muzeom,
-    - **b)** potrzeby konserwacji, badań lub zapewnienia bezpieczeństwa,
-    - **c)** ekspozycji na wystawach;
+- **1)** za zgodą dyrektora muzeum, w przypadku: wypożyczenia innym muzeom, potrzeby konserwacji, badań lub zapewnienia bezpieczeństwa, ekspozycji na wystawach;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **2)** za zgodą podmiotu, o którym mowa w art. 5 ust. 1, oraz dyrektora, w przypadkach niewymienionych w pkt 1, jeżeli przeniesienie nie wpłynie ujemnie na działalność statutową muzeum.
 
 2. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, warunki, sposób i tryb przenoszenia muzealiów, z uwzględnieniem w szczególności warunków i sposobu przenoszenia, przechowywania ich w nowym miejscu oraz opracowywania dla nich dokumentacji naukowo-konserwatorskiej.
-
-**Art. 29a.**
 
 1. Muzealia, które nie stanowią zabytków w rozumieniu art. 3 pkt 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, wpisane do inwentarza muzealiów w muzeach będących instytucjami kultury nie mogą być wywożone za granicę na stałe, z wyjątkiem przypadków określonych w art. 26 i art. 42 ustawy z dnia 25 maja 2017 r. o restytucji narodowych dóbr kultury, gdy wywóz odbywa się w wykonaniu prawomocnego wyroku nakazującego zwrot zagranicznego narodowego dobra kultury, o którym mowa w art. 18 ust. 1 tej ustawy, na terytorium państwa Unii Europejskiej albo na podstawie pozwoleń, o których mowa w art. 39 ust. 1 lub art. 43 ust. 1 tej ustawy.
 
@@ -430,89 +527,11 @@ Art. 35–39. (pominięte)
 - **2)** dokumenty dołączane do wniosków, o których mowa w ust. 2 pkt 1 i 2,
 - **3)** wzory pozwoleń, o których mowa w ust. 2 uwzględniając potrzebę zapewnienia skutecznej identyfikacji muzealiów, o których mowa w ust. 2, oraz konieczność wskazania we wniosku o wydanie pozwolenia, o którym mowa w ust. 2 pkt 3, imienia i nazwiska przynajmniej 2 osób uprawnionych do podpisania wykazu wywożonych muzealiów dołączanego do tego pozwolenia.
 
-**Art. 30.** Muzealia wpisane do inwentarzy muzeów państwowych lub samorządowych nie podlegają egzekucji na podstawie tytułu wykonawczego w sądowym lub administracyjnym postępowaniu egzekucyjnym.
+**Art. 30.** Muzealia wpisane do inwentarzy muzeów państwowych lub samorządowych nie podlegają egzekucji na podstawie tytułu wykonawczego w sądowym lub administracyjnym postępowaniu egzekucyjnym. Dostęp do informacji służących zapewnieniu bezpieczeństwa muzealiom ze względu na ochronę przed zagrożeniem pożarowym, kradzieżą i innego rodzaju niebezpieczeństwem, które grozi zniszczeniem lub utratą zbiorów, podlega ograniczeniu.
 
-**Art. 30a.** Dostęp do informacji służących zapewnieniu bezpieczeństwa muzealiom ze względu na ochronę przed zagrożeniem pożarowym, kradzieżą i innego rodzaju niebezpieczeństwem, które grozi zniszczeniem lub utratą zbiorów, podlega ograniczeniu.
-
-**Art. 31.** Przepisy rozdziału 4 nie naruszają przepisów dotyczących ochrony narodowego zasobu archiwalnego oraz przepisów regulujących zasady zbywania mienia komunalnego.
-
-**Art. 31a.** (uchylony)
+**Art. 31.** Przepisy rozdziału 4 nie naruszają przepisów dotyczących ochrony narodowego zasobu archiwalnego oraz przepisów regulujących zasady zbywania mienia komunalnego. (uchylony)
 
 #### Rozdział 4a Ochrona prawna rzeczy ruchomych o wartości historycznej, artystycznej lub naukowej wypożyczonych z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej
-
-**Art. 31a.**
-
-1. Rzecz ruchoma o wartości historycznej, artystycznej lub naukowej wypożyczana z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej, zwana dalej „rzeczą ruchomą”, może zostać objęta ochroną prawną, jeżeli:
-
-- **1)** jej przywóz na terytorium Rzeczypospolitej Polskiej leży w interesie publicznym;
-- **2)** nie znajduje się na terytorium Rzeczypospolitej Polskiej;
-- **3)** jej przywóz na terytorium Rzeczypospolitej Polskiej jest zgodny z prawem;
-- **4)** nie została wywieziona z terytorium Rzeczypospolitej Polskiej niezgodnie z prawem;
-- **5)** zorganizowanie wystawy czasowej bez objęcia tej rzeczy ochroną prawną nie byłoby możliwe lub skutkowałoby nieproporcjonalnie wysokimi kosztami jej wystawienia w stosunku do kosztów zorganizowania wystawy;
-- **6)** wystawa czasowa będzie organizowana przez:
-    - **a)** instytucję kultury w rozumieniu ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej lub
-    - **b)** muzeum niebędące instytucją kultury, wpisane do wykazu, o którym mowa w art. 5b ust. 1 zwane dalej „organizatorem wystawy”.
-
-2. Ochrona prawna rzeczy ruchomej obejmuje okres nie dłuższy niż 12 miesięcy od dnia jej wwiezienia na terytorium Rzeczypospolitej Polskiej.
-
-3. Ochrona prawna rzeczy ruchomej ustaje:
-
-- **1)** gdy upłynął okres, w jakim rzecz ruchoma była objęta ochroną prawną, określony w ewidencji, o której mowa w art. 31e ust. 1;
-- **2)** z dniem wywiezienia rzeczy ruchomej z terytorium Rzeczypospolitej Polskiej;
-- **3)** jeżeli rzecz ruchoma nie spełnia warunków, o których mowa w ust. 1 pkt 3 lub 4.
-
-4. Ochrona prawna rzeczy ruchomej ustaje z mocą od dnia jej wwiezienia na terytorium Rzeczypospolitej Polskiej, gdy rzecz ruchoma objęta ochroną prawną nie spełnia warunków, o których mowa w ust. 1 pkt 3 lub 4.
-
-5. Rzecz ruchoma objęta ochroną prawną nie podlega:
-
-- **1)** zajęciu w celu zabezpieczenia w postępowaniu cywilnym i administracyjnym;
-- **2)** egzekucji w sądowym i administracyjnym postępowaniu egzekucyjnym;
-- **3)** zajęciu w celu zabezpieczenia kar majątkowych, środków karnych o charakterze majątkowym oraz roszczeń o naprawienie szkody w postępowaniu karnym.
-
-**Art. 31b.**
-
-1. Organizator wystawy składa ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego wniosek o objęcie ochroną prawną rzeczy ruchomej, zwany dalej „wnioskiem”, co najmniej na 6 miesięcy przed planowanym wwiezieniem tej rzeczy na terytorium Rzeczypospolitej Polskiej.
-
-2. W przypadku stwierdzenia uchybień formalnych wniosku minister właściwy do spraw kultury i ochrony dziedzictwa narodowego wzywa organizatora wystawy do uzupełnienia wniosku w wyznaczonym terminie, nie krótszym niż 7 dni i nie dłuższym niż 30 dni od dnia otrzymania wezwania, pod rygorem pozostawienia wniosku bez rozpatrzenia.
-
-3. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego udostępnia na stronie podmiotowej w Biuletynie Informacji Publicznej treść wniosku oraz określa termin, w którym osoby fizyczne, osoby prawne lub jednostki organizacyjne nieposiadające osobowości prawnej mogą zgłaszać zastrzeżenia co do spełnienia przez wskazaną we wniosku rzecz ruchomą warunków, o których mowa w art. 31a ust. 1 pkt 2, 3 lub 4, nie krótszy jednak niż 30 dni od dnia udostępnienia treści wniosku.
-
-4. Do zastrzeżenia dołącza się dokumenty uprawdopodobniające niespełnienie przez rzecz ruchomą warunków, o których mowa w art. 31a ust. 1 pkt 2, 3 lub 4.
-
-5. W przypadku zgłoszenia zastrzeżenia minister właściwy do spraw kultury i ochrony dziedzictwa narodowego wzywa organizatora wystawy do uzupełnienia wniosku w wyznaczonym terminie, nie krótszym jednak niż 7 dni i nie dłuższym niż 30 dni od dnia otrzymania wezwania, pod rygorem pozostawienia wniosku bez rozpatrzenia. Treść uzupełnionego wniosku udostępnia się na stronie podmiotowej w Biuletynie Informacji Publicznej.
-
-6. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, po upływie terminów, o których mowa w ust. 2, 3 lub 5, zasięga opinii państwowej instytucji kultury wyspecjalizowanej w zakresie muzealnictwa i ochrony zbiorów w sprawie spełniania warunków, o których mowa w art. 31a ust. 1.
-
-7. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego udostępnia na stronie podmiotowej w Biuletynie Informacji Publicznej informację o objęciu rzeczy ruchomej ochroną prawną albo informację o nieobjęciu rzeczy ruchomej ochroną prawną.
-
-8. W sprawach o objęcie rzeczy ruchomej ochroną prawną nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735, 1491 i 2052).
-
-9. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, wzór wniosku oraz dokumenty dołączane do wniosku, uwzględniając umożliwienie skutecznej identyfikacji rzeczy ruchomej, w tym konieczność podania imienia i nazwiska autora tej rzeczy, a także konieczność podania nazwy, siedziby i adresu organizatora wystawy oraz imienia, nazwiska i adresu lub nazwy, siedziby i adresu właściciela lub posiadacza rzeczy ruchomej, oraz umożliwienie dokonania oceny spełnienia warunków określonych w art. 31a ust. 1.
-
-**Art. 31c.**
-
-1. Organizator wystawy zawiadamia niezwłocznie ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego o wwiezieniu na terytorium Rzeczypospolitej Polskiej i wywiezieniu z terytorium Rzeczypospolitej Polskiej rzeczy ruchomej objętej ochroną prawną.
-
-2. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, wzór zawiadomienia o wwiezieniu na terytorium Rzeczypospolitej Polskiej rzeczy ruchomej objętej ochroną prawną oraz wzór zawiadomienia o wywiezieniu z terytorium Rzeczypospolitej Polskiej rzeczy ruchomej objętej ochroną prawną, uwzględniając umożliwienie skutecznej identyfikacji tej rzeczy, w tym konieczność podania imienia i nazwiska autora tej rzeczy, a także konieczność podania nazwy, siedziby i adresu organizatora wystawy oraz imienia, nazwiska i adresu lub nazwy, siedziby i adresu właściciela lub posiadacza rzeczy ruchomej.
-
-**Art. 31d.** W przypadku uzyskania informacji o niespełnieniu warunków, o których mowa w art. 31a ust. 1 pkt 3 lub 4, minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, po zasięgnięciu opinii państwowej instytucji kultury wyspecjalizowanej w zakresie muzealnictwa i ochrony zbiorów w sprawie niespełnienia tych warunków, niezwłocznie informuje organizatora wystawy o ustaniu ochrony prawnej rzeczy ruchomej.
-
-**Art. 31e.**
-
-1. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego prowadzi i aktualizuje ewidencję rzeczy ruchomych objętych ochroną prawną prowadzoną w formie kart ewidencyjnych.
-
-2. Ewidencja zawiera:
-
-- **1)** określenie rzeczy ruchomej objętej ochroną prawną, w tym imię i nazwisko autora tej rzeczy;
-- **2)** wskazanie planowanego terminu jej wwiezienia na terytorium Rzeczypospolitej Polskiej i wywiezienia z terytorium Rzeczypospolitej Polskiej;
-- **3)** imię, nazwisko i adres lub nazwę, siedzibę i adres właściciela lub posiadacza wypożyczającego rzecz ruchomą objętą ochroną prawną;
-- **4)** dane dotyczące wystawy czasowej, na której będzie eksponowana rzecz ruchoma objęta ochrona prawną, w tym nazwę, siedzibę i adres organizatora wystawy;
-- **5)** wskazanie okresu, w jakim rzecz ruchoma jest objęta ochroną prawną;
-- **6)** informację o ustaniu ochrony prawnej rzeczy ruchomej z przyczyn określonych w art. 31a ust. 3 pkt 3.
-
-3. W Biuletynie Informacji Publicznej udostępnia się informacje określone w ust. 2 pkt 1 i 3–6.
-
-4. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, wzór karty ewidencyjnej, uwzględniając zakres danych objętych ewidencją, w tym potrzebę umożliwienia skutecznej identyfikacji rzeczy ruchomej objętej ochroną prawną.
 
 #### Rozdział 5 Pracownicy muzeów
 
@@ -529,8 +548,6 @@ Art. 35–39. (pominięte)
 
 3. Pracownik należący do zawodowej grupy muzealników, któremu powierzono zadanie z zakresu urządzania wystawy, polegające na autorskim opracowaniu i zorganizowaniu wystawy oraz merytorycznym nadzorze nad wystawą pełni funkcję kuratora wystawy.
 
-**Art. 32a.**
-
 1. Na stanowisku kustosza dyplomowanego może być zatrudniona osoba, która posiada:
 
 - **1)** stopień naukowy doktora w dziedzinie związanej z zakresem gromadzonych w muzeum zbiorów lub stopień doktora sztuki w tej dziedzinie;
@@ -546,8 +563,6 @@ Art. 35–39. (pominięte)
 3. Na stanowisku adiunkta może być zatrudniona osoba, która posiada dyplom ukończenia studiów drugiego stopnia lub jednolitych studiów magisterskich związanych z zakresem gromadzonych w muzeum zbiorów.
 
 4. Na stanowisku asystenta może być zatrudniona osoba, która posiada dyplom ukończenia studiów pierwszego stopnia związanych z zakresem gromadzonych w muzeum zbiorów.
-
-**Art. 32b.**
 
 1. W muzeach mogą być zatrudnieni specjaliści w zawodach dotyczących działalności muzealniczej realizujący zadania związane z:
 
@@ -570,8 +585,6 @@ Art. 35–39. (pominięte)
 - **11)** renowatora przyuczonego;
 - **12)** młodszego renowatora;
 - **13)** przewodnika muzealnego.
-
-**Art. 32c.**
 
 1. Na stanowisku starszego konserwatora może być zatrudniona osoba, która posiada dyplom ukończenia studiów drugiego stopnia lub jednolitych studiów magisterskich odpowiadających danej specjalności oraz co najmniej 6-letni staż pracy.
 
@@ -602,18 +615,10 @@ Art. 35–39. (pominięte)
 
 10. Na stanowisku renowatora przyuczonego może być zatrudniona osoba, która posiada wykształcenie średnie, średnie branżowe, zasadnicze zawodowe lub zasadnicze branżowe oraz co najmniej 2-letni staż pracy.
 
-**Art. 33.** Muzea prowadzące lub koordynujące prace naukowe mogą zatrudniać pracowników naukowych i badawczo-technicznych, na zasadach określonych w ustawie z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych (Dz. U. z 2008 r. poz. 993 oraz z 2009 r. poz. 1323) . Do pracowników tych przepis art. 34 stosuje się odpowiednio.
-
-**Art. 33a.**
-
-1. Posiadanie kwalifikacji wymaganych na poszczególnych stanowiskach w muzeach stwierdza pracodawca na podstawie świadectw pracy, dyplomów poświadczających zdobyte wykształcenie, świadectw lub zaświadczeń o ukończeniu kursów, szkoleń specjalistycznych, praktyk zawodowych, a w przypadku stanowiska kustosza dyplomowanego i kustosza także zaświadczenia o posiadaniu dorobku zawodowego.
-
-2. Do stażu pracy zalicza się okresy zatrudnienia na stanowiskach, na których realizuje się zadania związane z działalnością muzealniczą, naukową, upowszechnianiem kultury lub ochroną zabytków i opieką nad zabytkami w:
+**Art. 33.** Muzea prowadzące lub koordynujące prace naukowe mogą zatrudniać pracowników naukowych i badawczo-technicznych, na zasadach określonych w ustawie z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych (Dz. U. z 2008 r. poz. 993 oraz z 2009 r. poz. 1323). Do pracowników tych przepis art. 34 stosuje się odpowiednio. 1. Posiadanie kwalifikacji wymaganych na poszczególnych stanowiskach w muzeach stwierdza pracodawca na podstawie świadectw pracy, dyplomów poświadczających zdobyte wykształcenie, świadectw lub zaświadczeń o ukończeniu kursów, szkoleń specjalistycznych, praktyk zawodowych, a w przypadku stanowiska kustosza dyplomowanego i kustosza – także zaświadczenia o posiadaniu dorobku zawodowego. 2. Do stażu pracy zalicza się okresy zatrudnienia na stanowiskach, na których realizuje się zadania związane z działalnością muzealniczą, naukową, upowszechnianiem kultury lub ochroną zabytków i opieką nad zabytkami w:
 
 - **1)** muzeach, instytucjach kultury innych niż muzea, archiwach, uczelniach, instytutach naukowych, instytutach badawczych, urzędach administracji publicznej, państwowych lub samorządowych jednostkach organizacyjnych;
 - **2)** podmiotach znajdujących się poza terytorium Rzeczypospolitej Polskiej, które prowadzą działalność taką jak podmioty, o których mowa w pkt 1.
-
-**Art. 33b.**
 
 1. Posiadanie dorobku zawodowego wymaganego na stanowisku kustosza dyplomowanego i kustosza stwierdza minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, na wniosek zainteresowanego, po zasięgnięciu opinii komisji kwalifikacyjnej.
 
@@ -632,13 +637,9 @@ Art. 35–39. (pominięte)
 - **11)** osiągnięcia w dziedzinie konserwacji zbiorów;
 - **12)** udział w stażach w instytucjach krajowych lub zagranicznych lub kierowanie takimi stażami.
 
-**Art. 33c.**
-
 1. Do wniosku o stwierdzenie posiadania dorobku zawodowego wymaganego na stanowisku kustosza dyplomowanego albo kustosza dołącza się dokumenty potwierdzające ten dorobek.
 
 2. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego wydaje zainteresowanemu zaświadczenie o posiadaniu albo braku posiadania dorobku zawodowego wymaganego na stanowisku kustosza dyplomowanego albo kustosza.
-
-**Art. 33d.**
 
 1. Komisja kwalifikacyjna jest organem opiniodawczo-doradczym ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego w sprawach opiniowania wniosków o stwierdzenie posiadania dorobku zawodowego.
 
@@ -654,17 +655,10 @@ Art. 35–39. (pominięte)
 
 #### Rozdział 5a Przepis karny
 
-**Art. 34a.**
-
-1. Kto bez pozwolenia wywozi za granicę muzealium, które nie stanowi zabytku w rozumieniu art. 3 pkt 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, wpisane do inwentarza muzealiów w muzeum będącym instytucją kultury lub po wywiezieniu go za granicę nie sprowadza do kraju w okresie ważności pozwolenia, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-2. Jeżeli sprawca czynu określonego w ust. 1 działa nieumyślnie, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-3. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
-
-4. W razie skazania za przestępstwo określone w ust. 1 sąd orzeka, a w razie skazania za przestępstwo określone w ust. 2 sąd może orzec, nawiązkę na wskazany cel społeczny związany z opieką nad zabytkami w wysokości od trzykrotnego do trzydziestokrotnego minimalnego wynagrodzenia przewidzianego w przepisach o minimalnym wynagrodzeniu za pracę.
-
 #### Rozdział 6 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
-**Art. 40.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+**Art. 40.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+- **1)** Ze zmianą wprowadzoną przez art. 47 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641), która weszła w życie z dniem 8 grudnia 2021 r. 2) Ustawa utraciła moc z dniem 1 października 2010 r. na podstawie art. 8 ustawy z dnia 30 kwietnia 2010 r. – Przepisy wprowadzające ustawy reformujące system nauki (Dz. U. poz. 620), która weszła w życie z dniem 1 października 2010 r. 3) Ustawa została ogłoszona w dniu 20 stycznia 1997 r.
+
 

@@ -24,7 +24,8 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-20 |
 | Data wydania | 2018-08-30 |
-| Ostatnia zmiana | 2026-05-13 |
+| Wejście w życie | 2018-10-01 |
+| Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001668) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1668/text.pdf) |
 
 ### DZIAŁ I Przepisy ogólne
@@ -6173,7 +6174,7 @@ source: "isap-pdf"
 1. Przychodami Funduszu Kredytów Studenckich są:
 
 - **1)** dotacje celowe z budżetu państwa określane corocznie w ustawie budżetowej;
-- **2)** wpływy z inwestycji środków Funduszu Kredytów Studenckich w papiery wartościowe emitowane przez Skarb Państwa;
+- **2)** odsetki od wolnych środków Funduszu Kredytów Studenckich przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
 - **3)** inne zwiększenia.
 
 2. Środki Funduszu Kredytów Studenckich przeznacza się na:
@@ -6184,8 +6185,10 @@ source: "isap-pdf"
 
 - **2)** pokrywanie skutków finansowych umorzeń spłaty kredytów;
 - **2a)** pokrywanie skutków finansowych wypłat z tytułu udzielonych poręczeń spłaty kredytów studenckich, w tym kosztów działań windykacyjnych po wypłacie z tytułu poręczenia;
-- **3)** nabywanie papierów wartościowych emitowanych przez Skarb Państwa;
-- **4)** pokrywanie kosztów realizacji zadań wymienionych w pkt 1–3 ponoszonych przez BGK.
+- **3)** (uchylony)
+- **4)** pokrywanie kosztów realizacji zadań wymienionych w pkt 1–2a ponoszonych przez BGK.
+
+3. Wolne środki Funduszu Kredytów Studenckich w walutach obcych mogą być lokowane w bankach.
 
 **Art. 422.**
 
@@ -6219,10 +6222,10 @@ source: "isap-pdf"
 1. Środki FKSM pochodzą z:
 
 - **1)** dotacji celowych z budżetu państwa określanych corocznie w ustawie budżetowej w części, której dysponentem jest minister właściwy do spraw zdrowia;
-- **2)** wpływów z inwestycji środków FKSM w papiery wartościowe emitowane lub gwarantowane przez Skarb Państwa;
-- **3)** wpływów z inwestycji środków FKSM w papiery wartościowe emitowane przez Narodowy Bank Polski;
-- **4)** odsetek od lokat okresowo wolnych środków FKSM w bankach;
-- **5)** odsetek od wolnych środków FKSM przekazanych w depozyt zgodnie z ust. 3 pkt 2;
+- **2)** (uchylony)
+- **3)** (uchylony)
+- **4)** (uchylony)
+- **5)** odsetek od wolnych środków FKSM przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
 - **6)** innych wpływów.
 
 2. Środki FKSM przeznacza się na pokrywanie:
@@ -6239,14 +6242,11 @@ source: "isap-pdf"
 - **4)** skutków finansowych wypłat z tytułu udzielonych poręczeń spłaty kredytów na studia medyczne, w tym kosztów działań windykacyjnych po wypłacie z tytułu poręczenia;
 - **5)** kosztów realizacji zadań wymienionych w pkt 1–4 ponoszonych przez BGK.
 
-3. BGK może lokować okresowo wolne środki FKSM w:
+3. (uchylony)
 
-- **1)** innych bankach;
-- **2)** formie depozytu, o którym mowa w art. 78b ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
-- **3)** papiery wartościowe emitowane lub gwarantowane przez Skarb Państwa;
-- **4)** papiery wartościowe emitowane przez Narodowy Bank Polski.
+4. (uchylony)
 
-4. Suma lokat, o których mowa w ust. 3 pkt 1, w jednym banku albo grupie banków powiązanych ze sobą kapitałowo lub organizacyjnie, nie może przekroczyć 25 % okresowo wolnych środków FKSM.
+5. Wolne środki FKSM w walutach obcych mogą być lokowane w bankach.
 
 **Art. 422b.**
 

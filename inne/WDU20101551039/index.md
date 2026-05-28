@@ -8,12 +8,10 @@ pos: 1039
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy o materiałach wybuchowych przeznaczonych do użytku cywilnego oraz ustawy o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym
-
-*USTAWA z dnia 22 lipca 2010 r.*
+# Ustawa z dnia 22 lipca 2010 r. o zmianie ustawy o materiałach wybuchowych przeznaczonych do użytku cywilnego oraz ustawy o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym
 
 | Pole | Wartość |
 |---|---|
@@ -24,38 +22,65 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2010-07-22 |
 | Data wydania | 2010-08-25 |
+| Wejście w życie | 2010-09-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101551039) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1039/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. Nr 117, poz. 1007, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. Nr 117, poz. 1007, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 po pkt 5 dodaje się pkt 5a w brzmieniu: „
+- **5a)** zasadnicze wymagania dla wprowadzanych do obrotu wyrobów pirotechnicznych oraz procedury oceny zgodności, ” ;
+- **2)** w art. 9: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. Nie jest wymagane uzyskanie pozwolenia na nabywanie, przechowywanie lub używanie wyrobów pirotechnicznych, o których mowa w art. 62c ust. 1 pkt 1 lit. a-c, pkt 2 lit. a oraz pkt 3 lit. a. ” , uchyla się ust. 8;
+
+- **b)**
+- **3)** w art. 42 dodaje się ust. 6 w brzmieniu: „
+
+6. Przepisów niniejszego rozdziału nie stosuje się do wyrobów pirotechnicznych. ” ;
+
+- **4)** tytuł rozdziału 5 otrzymuje brzmienie: „ Procedury oceny zgodności materiałów wybuchowych przeznaczonych do użytku cywilnego ” ;
+- **5)** po art. 45 dodaje się art. 45a w brzmieniu: „
+
+**Art. 45a.** Przepisów niniejszego rozdziału nie stosuje się do wyrobów pirotechnicznych. ” ;
+
+- **6)** po rozdziale 5 dodaje się rozdział 5a w brzmieniu: „
+
+#### Rozdział 5a Zasadnicze wymagania dla wprowadzanych do obrotu wyrobów pirotechnicznych oraz procedury oceny zgodności tych wyrobów
 
 **Art. 62a.** Ilekroć w niniejszym rozdziale jest mowa o:
 
-**Art. 62b.** Przepisów niniejszego rozdziału nie stosuje się do:
-
-**Art. 62c.**
+- **1)** wyrobach pirotechnicznych widowiskowych – należy przez to rozumieć wyroby pirotechniczne przeznaczone do celów rozrywkowych,
+- **2)** wyrobach pirotechnicznych przeznaczonych do użytku teatralnego – należy przez to rozumieć wyroby pirotechniczne przeznaczone do wykorzystania na scenie wewnątrz lub na zewnątrz budynków, w tym w produkcji filmowej i telewizyjnej lub do podobnego użytku,
+- **3)** wyrobach pirotechnicznych do pojazdów – należy przez to rozumieć wyroby pirotechniczne będące elementami urządzeń bezpieczeństwa stosowanych w pojazdach zawierających materiały pirotechniczne wykorzystywane do uruchamiania tych lub innych urządzeń,
+- **4)** pozostałych wyrobach pirotechnicznych – należy przez to rozumieć wyroby pirotechniczne inne niż wyroby, o których mowa w pkt 1 i 2, stosowane w kolejnictwie, leśnictwie, lotnictwie, modelarstwie, ratownictwie, rolnictwie, żegludze oraz wyroby pirotechniczne do pojazdów,
+- **5)** wyrobach pirotechnicznych wprowadzanych do obrotu – należy przez to rozumieć wyroby pirotechniczne, o których mowa w pkt 1 -4, lub grupy takich wyrobów pirotechnicznych o podobnej konstrukcji i o podobnym działaniu, po raz pierwszy udostępniane, w celu dystrybucji lub wykorzystania, na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym przez producenta lub importera, nieodpłatnie albo za opłatą. Przepisów niniejszego rozdziału nie stosuje się do:
+- **1)** wyrobów pirotechnicznych przeznaczonych, zgodnie z odrębnymi przepisami, do niehandlowego wykorzystania przez Siły Zbrojne Rzeczypospolitej Polskiej, Policję, Agencję Bezpieczeństwa Wewnętrznego, Agencję Wywiadu, Służbę Kontrwywiadu Wojskowego, Służbę Wywiadu Wojskowego, Centralne Biuro Antykompcyjne, Biuro Ochrony Rządu, Straż Graniczną, Służbę Celną, Służbę Więzienną, armie obcych państw przebywające na terytorium Rzeczypospolitej Polskiej oraz jednostki ochrony przeciwpożarowej, o których mowa w art. 15 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2009 r. Nr 178, poz. 1380 oraz z 2010 r. Nr 57, poz. 353),
+- **2)** wyposażenia morskiego, do którego stosuje się przepisy ustawy z dnia 20 kwietnia 2004 r. o wyposażeniu morskim (Dz. U. Nr 93, poz. 899),
+- **3)** wyrobów pirotechnicznych przeznaczonych do wykorzystania w przemyśle lotniczym,
+- **4)** kapiszonów przeznaczonych do zabawek, o których mowa w przepisach wydanych na podstawie art. 9 ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności, dotyczących zasadniczych wymagań dla zabawek,
+- **5)** amunicji oraz amunicji ślepej.
 
 1. Producent lub importer dokonuje klasyfikacji wyrobów pirotechnicznych wprowadzanych do obrotu zgodnie z ich przeznaczeniem i poziomem stwarzanego przez nie zagrożenia, w tym poziomem natężenia emitowanego dźwięku, w następujący sposób:
 
-- **1)** wyroby pirotechniczne widowiskowe:
-    - **a)** klasa 1: wyroby, które podczas działania charakteryzują się bardzo niskim stopniem zagrożenia życia i zdrowia ludzi oraz mienia i środowiska, a także nieistotnym poziomem natężenia emitowanego dźwięku, przeznaczone do użytku w budynkach oraz na zamkniętym obszarze na zewnątrz budynków,
-    - **b)** klasa 2: wyroby, które podczas działania charakteryzują się niskim stopniem zagrożenia życia i zdrowia ludzi oraz mienia i środowiska, a także niskim poziomem natężenia emitowanego dźwięku, przeznaczone do użytku na zamkniętym obszarze na zewnątrz budynków,
-    - **c)** klasa 3: wyroby, które podczas działania charakteryzują się średnim stopniem zagrożenia życia i zdrowia ludzi oraz mienia i środowiska, a także nieszkodliwym dla zdrowia ludzi poziomem natężenia emitowanego dźwięku, przeznaczone do użytku na dużych, otwartych przestrzeniach na zewnątrz budynków,
-    - **d)** klasa 4: wyroby, które podczas działania charakteryzują się wysokim stopniem zagrożenia życia i zdrowia ludzi oraz mienia i środowiska, a także nieszkodliwym dla zdrowia ludzi poziomem natężenia emitowanego dźwięku, określane również jako wyroby pirotechniczne widowiskowe do zastosowań profesjonalnych, przeznaczone do obsługi i użytku wyłącznie przez osoby posiadające wiedzę specjalistyczną,
+- **1)** wyroby pirotechniczne widowiskowe: klasa 1: wyroby, które podczas działania charakteryzują się bardzo niskim stopniem zagrożenia życia i zdrowia ludzi oraz mienia i środowiska, a także nieistotnym poziomem natężenia emitowanego dźwięku, przeznaczone do użytku w budynkach oraz na zamkniętym obszarze na zewnątrz budynków, klasa 2: wyroby, które podczas działania charakteryzują się niskim stopniem zagrożenia życia i zdrowia ludzi oraz mienia i środowiska, a także niskim poziomem natężenia emitowanego dźwięku, przeznaczone do użytku na zamkniętym obszarze na zewnątrz budynków, klasa 3: wyroby, które podczas działania charakteryzują się średnim stopniem zagrożenia życia i zdrowia ludzi oraz mienia i środowiska, a także nieszkodliwym dla zdrowia ludzi poziomem natężenia emitowanego dźwięku, przeznaczone do użytku na dużych, otwartych przestrzeniach na zewnątrz budynków, klasa 4: wyroby, które podczas działania charakteryzują się wysokim stopniem zagrożenia życia i zdrowia ludzi oraz mienia i środowiska, a także nieszkodliwym dla zdrowia ludzi poziomem natężenia emitowanego dźwięku, określane również jako wyroby pirotechniczne widowiskowe do zastosowań profesjonalnych, przeznaczone do obsługi i użytku wyłącznie przez osoby posiadające wiedzę specjalistyczną,
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
-- **2)** wyroby pirotechniczne przeznaczone do użytku teatralnego:
-    - **a)** klasa T1: wyroby, które podczas działania charakteryzują się niskim stopniem zagrożenia życia i zdrowia ludzi oraz mienia i środowiska,
-    - **b)** klasa T2: wyroby przeznaczone do obsługi i użytku wyłącznie przez osoby posiadające wiedzę specjalistyczną,
+- **2)** wyroby pirotechniczne przeznaczone do użytku teatralnego: klasa T1: wyroby, które podczas działania charakteryzują się niskim stopniem zagrożenia życia i zdrowia ludzi oraz mienia i środowiska, klasa T2: wyroby przeznaczone do obsługi i użytku wyłącznie przez osoby posiadające wiedzę specjalistyczną,
+    - **a)**
+    - **b)**
 
-- **3)** pozostałe wyroby pirotechniczne:
-    - **a)** klasa P1: wyroby, które podczas działania charakteryzują się niskim stopniem zagrożenia życia i zdrowia ludzi oraz mienia i środowiska,
-    - **b)** klasa P2: wyroby przeznaczone do obsługi i użytku wyłącznie przez osoby posiadające wiedzę specjalistyczną.
+- **3)** pozostałe wyroby pirotechniczne: klasa P1: wyroby, które podczas działania charakteryzują się niskim stopniem zagrożenia życia i zdrowia ludzi oraz mienia i środowiska, klasa P2: wyroby przeznaczone do obsługi i użytku wyłącznie przez osoby posiadające wiedzę specjalistyczną.
+    - **a)**
+    - **b)**
 
 2. Osobą posiadającą wiedzę specjalistyczną jest osoba, która uzyskała zaświadczenie potwierdzające przygotowanie zawodowe, o którym mowa w art. 20 ust. 1.
 
 3. Jednostka notyfikowana potwierdza klasyfikację, o której mowa w ust. 1, w ramach dokonywania oceny zgodności.
-
-**Art. 62d.**
 
 1. Producent wyrobów pirotechnicznych jest obowiązany zapewnić, aby wyroby pirotechniczne wprowadzane do obrotu były zgodne z zasadniczymi wymaganiami.
 
@@ -66,8 +91,6 @@ source: "isap-pdf"
 - **1)** przedkłada wyrób pirotechniczny jednostce notyfikowanej, która przeprowadza ocenę zgodności tego wyrobu z zasadniczymi wymaganiami,
 - **2)** umieszcza na wyrobie pirotechnicznym oznakowanie CE i etykietę.
 
-**Art. 62e.**
-
 1. Wyroby pirotechniczne wprowadzane do obrotu podlegają kontroli w zakresie spełniania przez nie zasadniczych wymagań.
 
 2. Kontrolę spełniania przez wyroby pirotechniczne wprowadzane do obrotu zasadniczych wymagań prowadzą:
@@ -75,20 +98,18 @@ source: "isap-pdf"
 - **1)** wojewódzcy inspektorzy Inspekcji Handlowej – w zakresie wyrobów pirotechnicznych klas 1–4,
 - **2)** inspektorzy pracy – w zakresie wyrobów pirotechnicznych klas T1, T2, P1 i P2.
 
-3. Kontrolę bezpieczeństwa przewozu drogowego wyrobów pirotechnicznych przeprowadza się na zasadach określonych w ustawie z dnia 28 października 2002 r. o przewozie drogowym towarów niebezpiecznych (Dz. U. Nr 199, poz. 1671, z późn. zm. ).
+3. Kontrolę bezpieczeństwa przewozu drogowego wyrobów pirotechnicznych przeprowadza się na zasadach określonych w ustawie z dnia 28 października 2002 r. o przewozie drogowym towarów niebezpiecznych (Dz. U. Nr 199, poz. 1671, z późn. zm.).
 
-4. Kontrolę bezpieczeństwa przewozu koleją wyrobów pirotechnicznych przeprowadza się na zasadach określonych w ustawie z dnia 31 marca 2004 r. o przewozie koleją towarów niebezpiecznych (Dz. U. Nr 97, poz. 962, z 2005 r. Nr 141, poz. 1184, z 2006 r. Nr 249, poz. 1834 oraz z 2007 r. Nr 176, poz. 1238)).
+4. Kontrolę bezpieczeństwa przewozu koleją wyrobów pirotechnicznych przeprowadza się na zasadach określonych w ustawie z dnia 31 marca 2004 r. o przewozie koleją towarów niebezpiecznych (Dz. U. Nr 97, poz. 962, z 2005 r. Nr 141, poz. 1184, z 2006 r. Nr 249, poz. 1834 oraz z 2007 r. Nr 176, poz. 1238).
 
 5. Właściwy komendant powiatowy (miejski) Policji lub komendant straży gminnej (miejskiej) jest obowiązany do zapewnienia pomocy organom, o których mowa w ust. 2, w toku wykonywania czynności kontrolnych.
 
 6. Postępowania w sprawach dotyczących wyrobów pirotechnicznych wprowadzanych do obrotu niespełniających zasadniczych wymagań prowadzą:
 
-- **1)** Prezes Urzędu Ochrony Konkurencji i Konsumentów – w zakresie wyrobów pirotechnicznych klas 1–4,
-- **2)** okręgowi inspektorzy pracy – w zakresie wyrobów pirotechnicznych klas T1, T2, P1 i P2.
+- **1)** Prezes Urzędu Ochrony Konkurencji i Konsumentów – w zakresie wyrobów pirotechnicznych klas 1 -4,
+- **2)** okręgowi inspektorzy pracy – w zakresie wyrobów pirotechnicznych klas T1,T2, P1 i P2.
 
 7. Prezes Urzędu Ochrony Konkurencji i Konsumentów sporządza corocznie, za poprzedni rok kalendarzowy, informację o prowadzonych działaniach w zakresie kontroli wyrobów pirotechnicznych wprowadzanych do obrotu i przekazuje ją Komisji Europejskiej.
-
-**Art. 62f.**
 
 1. Wyroby pirotechniczne muszą:
 
@@ -101,13 +122,18 @@ source: "isap-pdf"
 - **1)** instrukcję obsługi wyrobu pirotechnicznego zawierającą, w miarę potrzeby, oznaczenia dotyczące bezpiecznego przewozu, przechowywania, używania i unieszkodliwiania tych wyrobów, z uwzględnieniem konieczności zapewnienia bezpiecznych odległości użytkownika od używanych wyrobów pirotechnicznych,
 - **2)** informacje o urządzeniach i akcesoriach potrzebnych do bezpiecznego działania tych wyrobów oraz instrukcje ich obsługi.
 
-3. Materiał pirotechniczny musi być umieszczony w wyrobach pirotechnicznych w trakcie ich przechowywania, transportu oraz użytkowania, o ile instrukcja obsługi wyrobu pirotechnicznego nie przewiduje inaczej.
+3. Materiał pirotechniczny musi być umieszczony w wyrobach pirotechnicznych w trakcie ich przechowywania, transportu oraz użytkowania, o ile instrukcja obsługi wyrobu pirotechnicznego nie przewiduje inaczej. Podczas przeprowadzania badania wyrobu pirotechnicznego należy zbadać następujące jego właściwości oraz parametry techniczne:
 
-**Art. 62g.** Podczas przeprowadzania badania wyrobu pirotechnicznego należy zbadać następujące jego właściwości oraz parametry techniczne:
-
-**Art. 62h.** Wyroby pirotechniczne wprowadzane do obrotu nie mogą zawierać:
-
-**Art. 62i.**
+- **1)** zgodność wyrobu pirotechnicznego z rysunkiem konstrukcyjnym, z uwzględnieniem jego struktury i charakterystycznych właściwości, masy i ilościowego składu chemicznego stosowanego w wyrobie materiału pirotechnicznego oraz wymiarów,
+- **2)** stabilność fizyczną i chemiczną wyrobu pirotechnicznego podczas jego przechowywania i transportu,
+- **3)** możliwość bezpiecznego przechowywania, transportu oraz używania wyrobu pirotechnicznego,
+- **4)** stabilność chemiczną i termiczną zawartych w wyrobie pirotechnicznym materiałów pirotechnicznych,
+- **5)** odporność na działanie wody, jeżeli wyrób pirotechniczny ma być używany w warunkach wilgotnych lub w wodzie, a jej oddziaływanie może mieć negatywny wpływ na bezpieczeństwo lub niezawodność jego działania,
+- **6)** odporność na działanie niskich i wysokich temperatur, jeżeli przewiduje się przechowywanie lub używanie wyrobu pirotechnicznego w takich temperaturach, a chłodzenie lub ogrzewanie poszczególnych składników lub całego wyrobu może mieć negatywny wpływ na bezpieczeństwo i niezawodność jego działania,
+- **7)** środki bezpieczeństwa mające na celu zapobieganie przedwczesnemu lub niezamierzonemu zapłonowi lub wybuchowi,
+- **8)** odporność wyrobu pirotechnicznego i jego opakowania, a także innych części składowych na pogorszenie się jakości tego wyrobu w przewidzianych w instrukcji obsługi tego wyrobu warunkach jego składowania. Wyroby pirotechniczne wprowadzane do obrotu nie mogą zawierać:
+- **1)** materiałów wybuchowych przeznaczonych do użytku cywilnego, o których mowa w ustawie, z wyjątkiem prochu czarnego, materiałów pirotechnicznych oraz piorunianu srebra, z zastrzeżeniem art. 62i ust. 1 pkt 3,
+- **2)** materiałów wybuchowych przeznaczonych do użycia przez Siły Zbrojne Rzeczypospolitej Polskiej, Policję, Agencję Bezpieczeństwa Wewnętrznego, Agencję Wywiadu, Służbę Kontrwywiadu Wojskowego, Służbę Wywiadu Wojskowego, Centralne Biuro Antykorupcyjne, Biuro Ochrony Rządu, Straż Graniczną, Służbę Celną oraz Służbę Więzienną.
 
 1. Wyroby pirotechniczne widowiskowe klasy 1 muszą spełniać następujące warunki:
 
@@ -126,8 +152,6 @@ source: "isap-pdf"
 
 - **1)** bezpieczna odległość dla użytkownika w trakcie działania wyrobu pirotechnicznego widowiskowego musi wynosić co najmniej 15 m; w przypadkach uzasadnionych wymaganiami bezpieczeństwa odległość ta może być mniejsza,
 - **2)** maksymalny poziom natężenia emitowanego dźwięku nie może przekraczać 120 dB (A, imp) lub równoważnego poziomu natężenia emitowanego dźwięku mierzonego inną odpowiednią metodą, w bezpiecznej dla użytkownika odległości.
-
-**Art. 62j.**
 
 1. Wyroby pirotechniczne widowiskowe mogą być skonstruowane wyłącznie z materiałów ograniczających do minimum zagrożenie życia i zdrowia ludzi oraz mienia i środowiska spowodowane rozrzutem odłamków powstających w trakcie ich działania.
 
@@ -162,8 +186,6 @@ source: "isap-pdf"
 
 10. Przepisów ust. 5–7 nie stosuje się do wyrobów pirotechnicznych prezentowanych podczas targów, wystaw i pokazów w celach handlowych ani do wyrobów pirotechnicznych wytworzonych w celu prowadzenia prac badawczo-rozwojowych oraz prób, o ile na wyrobie pirotechnicznym w sposób widoczny umieszczona będzie informacja, że wyroby te nie będą sprzedawane, dopóki producent nie doprowadzi do zgodności tych wyrobów z zasadniczymi wymaganiami.
 
-**Art. 62k.**
-
 1. Pozostałe wyroby pirotechniczne projektuje się w taki sposób, aby ograniczyć do minimum:
 
 - **1)** zagrożenie życia i zdrowia ludzi oraz mienia i środowiska podczas ich używania zgodnie z ich przeznaczeniem,
@@ -172,8 +194,6 @@ source: "isap-pdf"
 2. Sposób zapłonu pozostałych wyrobów pirotechnicznych musi być określony na widocznej etykiecie lub w instrukcji obsługi.
 
 3. Pozostałe wyroby pirotechniczne, używane zgodnie z instrukcją ich obsługi, muszą działać prawidłowo do daty ich ważności określonej przez producenta.
-
-**Art. 62l.**
 
 1. Zapalniki muszą zapewnić prawidłowy zapłon wyrobów pirotechnicznych i posiadać wystarczającą zdolność do takiego zapłonu w warunkach ich używania przewidzianych w instrukcji obsługi.
 
@@ -187,11 +207,15 @@ source: "isap-pdf"
 
 6. Charakterystyki elektryczne zapalników elektrycznych, w tym natężenie prądu niepowodujące zapłonu, natężenie prądu powodujące zapłon, ewentualny czas opóźnienia zapłonu oraz opór elektryczny, muszą być określone w instrukcji obsługi wyrobu pirotechnicznego.
 
-7. Przewody zapalników elektrycznych muszą posiadać wystarczającą izolację elektryczną, wytrzymałość mechaniczną oraz muszą zapewniać niezawodne połączenie z zapalnikiem w stopniu gwarantującym bezpieczeństwo podczas ich stosowania zgodnie z instrukcją obsługi wyrobu pirotechnicznego.
+7. Przewody zapalników elektrycznych muszą posiadać wystarczającą izolację elektryczną, wytrzymałość mechaniczną oraz muszą zapewniać niezawodne połączenie z zapalnikiem w stopniu gwarantującym bezpieczeństwo podczas ich stosowania zgodnie z instrukcją obsługi wyrobu pirotechnicznego. Wyroby pirotechniczne poddaje się, w zależności od potrzeb, następującym procedurom oceny zgodności z zasadniczymi wymaganiami:
 
-**Art. 62m.** Wyroby pirotechniczne poddaje się, w zależności od potrzeb, następującym procedurom oceny zgodności z zasadniczymi wymaganiami:
+- **1)** badaniu typu WE (moduł B) – wykonywanemu w sposób określony w art. 62n oraz zależnie od wyboru producenta: badaniu zgodności z typem (moduł C) – wykonywanemu w sposób określony w art. 62o, procedurze zapewnienia jakości produkcji (moduł D) – przeprowadzanej w sposób określony w art. 62p, zwanej dalej „systemem zapewnienia jakości produkcji”, procedurze zapewnienia jakości wyrobu (moduł E) – przeprowadzanej w sposób określony w art. 62r, zwanej dalej „systemem zapewnienia jakości wyrobu”,
+    - **a)**
+    - **b)**
+    - **c)**
 
-**Art. 62n.**
+- **2)** sprawdzaniu jednostkowemu (moduł G) – wykonywanemu w sposób określony w art. 62s,
+- **3)** systemem pełnego zapewniania jakości (moduł H), o którym mowa w art. 62t – w zakresie dotyczącym wyrobów pirotechnicznych widowiskowych klasy 4.
 
 1. Badanie typu WE jest procedurą, poprzez którą jednostka notyfikowana sprawdza i deklaruje, że próbka reprezentatywna badanego rodzaju wyrobu pirotechnicznego spełnia zasadnicze wymagania.
 
@@ -208,7 +232,7 @@ source: "isap-pdf"
 5. Dokumentacja techniczna musi pozwolić na dokonanie oceny zgodności wyrobu pirotechnicznego z zasadniczymi wymaganiami. Dokumentacja techniczna musi, w zakresie istotnym dla dokonania tej oceny, zawierać projekt, dane dotyczące wytworzenia i działania wyrobu pirotechnicznego oraz:
 
 - **1)** ogólny opis typu,
-- **2)** projekt koncepcyjny - w szczególności rysunki techniczne i schematy części, podzespołów oraz obwodów,
+- **2)** projekt koncepcyjny – w szczególności rysunki techniczne i schematy części, podzespołów oraz obwodów,
 - **3)** opisy i objaśnienia niezbędne do odczytania rysunków technicznych i schematów,
 - **4)** opis działania wyrobu pirotechnicznego,
 - **5)** wykaz norm zharmonizowanych stosowanych w całości lub częściowo oraz opisy rozwiązań zastosowanych w celu spełnienia zasadniczych wymagań, jeżeli normy zharmonizowane nie zostały zastosowane,
@@ -232,8 +256,6 @@ source: "isap-pdf"
 
 11. Producent przechowuje wraz z dokumentacją techniczną kopie certyfikatów badania typu WE i uzupełnień do nich przez okres co najmniej 10 lat od daty wytworzenia ostatniego wyrobu pirotechnicznego.
 
-**Art. 62o.**
-
 1. Badanie zgodności z typem jest procedurą, poprzez którą producent zapewnia i deklaruje, że dany wyrób pirotechniczny jest zgodny z typem opisanym w certyfikacie badania typu WE i spełnia zasadnicze wymagania, które mają do niego zastosowanie. Producent umieszcza oznakowanie CE na wyrobie pirotechnicznym i sporządza pisemną deklarację zgodności.
 
 2. Producent musi podjąć wszelkie konieczne działania w celu zapewnienia, aby proces wytwarzania wyrobów pirotechnicznych gwarantował zgodność wytworzonego wyrobu pirotechnicznego z typem opisanym w certyfikacie badania typu WE oraz z zasadniczymi wymaganiami.
@@ -246,13 +268,11 @@ source: "isap-pdf"
 
 6. Producent w trakcie procesu wytwarzania wyrobów pirotechnicznych umieszcza na każdym egzemplarzu wyrobu pirotechnicznego numer identyfikacyjny jednostki notyfikowanej, na jej odpowiedzialność.
 
-**Art. 62p.**
-
 1. System zapewnienia jakości produkcji jest procedurą, poprzez którą producent wypełniający zobowiązania, o których mowa w ust. 3, zapewnia i deklaruje, że dane wyroby pirotechniczne są zgodne z typem opisanym w certyfikacie badania typu WE i spełniają zasadnicze wymagania. Producent umieszcza oznakowanie CE na każdym wyrobie pirotechnicznym i sporządza pisemną deklarację zgodności.
 
 2. Obok oznakowania CE producent umieszcza numer identyfikacyjny jednostki notyfikowanej odpowiedzialnej za kontrole, o których mowa w ust. 15.
 
-3. Producent stosuje zatwierdzony system zapewnienia jakości produkcji, kontroli produktu końcowego i badań, o którym mowa w ust. 7. Producent podlega kontroli, o której mowa w ust. 15–18.
+3. Producent stosuje zatwierdzony system zapewnienia jakości produkcji, kontroli produktu końcowego i badań, o którym mowa w ust. 7. Producent podlega kontroli, o której mowa w ust. 15 – 18.
 
 4. Producent stosując system zapewnienia jakości produkcji, składa w jednostce notyfikowanej wniosek o przeprowadzenie oceny tego systemu w stosunku do określonych we wniosku wyrobów pirotechnicznych.
 
@@ -304,13 +324,9 @@ source: "isap-pdf"
 
 20. Jednostka notyfikowana przekazuje pozostałym jednostkom notyfikowanym informacje dotyczące wydanych lub cofniętych zatwierdzeń systemów zapewnienia jakości produkcji.
 
-**Art. 62r.**
-
 1. System zapewnienia jakości wyrobu jest procedurą, poprzez którą producent spełniający zobowiązania, o których mowa w art. 62p ust. 3, zapewnia i deklaruje, że badane wyroby pirotechniczne są zgodne z typem opisanym w certyfikacie badania typu WE.
 
 2. Przepisy art. 62p ust. 3–20 stosuje się odpowiednio do systemu zapewnienia jakości wyrobu.
-
-**Art. 62s.**
 
 1. Sprawdzanie jednostkowe jest procedurą, poprzez którą producent zapewnia i deklaruje, że wyrób pirotechniczny, dla którego wydano certyfikat badania typu WE, jest zgodny z zasadniczymi wymaganiami. Producent umieszcza oznakowanie CE na wyrobie i sporządza pisemną deklarację zgodności.
 
@@ -327,8 +343,6 @@ source: "isap-pdf"
 - **5)** wykaz norm zharmonizowanych, stosowanych w całości lub częściowo oraz, w przypadku niezastosowania tych norm, przyjęte opisy rozwiązań w celu spełnienia zasadniczych wymagań,
 - **6)** wyniki obliczeń konstrukcyjnych i przeprowadzonych badań,
 - **7)** sprawozdania z badań.
-
-**Art. 62t.**
 
 1. Pełne zapewnianie jakości wyrobu jest procedurą, poprzez którą producent spełniający wymagania określone w art. 62p ust. 3 zapewnia i deklaruje, że wyroby pirotechniczne widowiskowe klasy 4 spełniają zasadnicze wymagania.
 
@@ -353,11 +367,23 @@ source: "isap-pdf"
 
 - **1)** dokumentację systemu pełnego zapewniania jakości,
 - **2)** zapisy dotyczące systemu zapewniania jakości w dziedzinie badań i rozwoju, takie jak: wyniki analiz, obliczeń i badań,
-- **3)** zapisy dotyczące systemu pełnego zapewniania jakości w dziedzinie produkcji, takie jak: sprawozdania z kontroli jakości, dane uzyskane podczas badań, dane dotyczące wzorcowania, a także protokoły dotyczące kwalifikacji lub uprawnień pracowników przeprowadzających badania i testy.
+- **3)** zapisy dotyczące systemu pełnego zapewniania jakości w dziedzinie produkcji, takie jak: sprawozdania z kontroli jakości, dane uzyskane podczas badań, dane dotyczące wzorcowania, a także protokoły dotyczące kwalifikacji lub uprawnień pracowników przeprowadzających badania i testy. W sprawach nieuregulowanych przepisami niniejszego rozdziału stosuje się przepisy ustawy z dnia 30 sierpnia o systemie oceny zgodności. ” .
 
-**Art. 62u.** W sprawach nieuregulowanych przepisami niniejszego rozdziału stosuje się przepisy ustawy z dnia 30 sierpnia o systemie oceny zgodności.”.
+**Art. 2.** W ustawie z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. Nr 67, poz. 679, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. Nr 67, poz. 679, z późn. zm. ) wprowadza się następujące zmiany:
+- **1)** w art. 6 ust. 2 otrzymuje brzmienie: „
+
+2. Nie jest wymagane uzyskanie koncesji na obrót wyrobami pirotechnicznymi, o których mowa w art. 62c ust. 1 pkt 1 lit. a-c, pkt 2 lit. a oraz pkt 3 lit. a ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. Nr 117, poz. 1007, z późn. zm.). ” ;
+
+- **2)** w art. 7 ust. 2 i 3 otrzymują brzmienie: „
+
+2. Przed udzieleniem koncesji organ koncesyjny jest obowiązany, a przed wydaniem innych decyzji, o których mowa w ust. 1, może zasięgnąć opinii ministra właściwego do spraw gospodarki, Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Służby Kontrwywiadu Wojskowego i właściwego komendanta wojewódzkiego Policji.
+
+3. Organ koncesyjny zawiadamia o udzieleniu koncesji, jej zmianie lub cofnięciu Głównego Inspektora Pracy, ministra właściwego do spraw gospodarki, Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Służby Kontrwywiadu Wojskowego oraz właściwych ze względu na siedzibę przedsiębiorcy lub miejsce wykonywania działalności gospodarczej wojewodę, komendanta wojewódzkiego Państwowej Straży Pożarnej oraz komendanta wojewódzkiego Policji. Organ koncesyjny zawiadamia o odmowie udzielenia koncesji Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Służby Kontrwywiadu Wojskowego oraz właściwego komendanta wojewódzkiego Policji. ” ;
+
+- **3)** w art. 31 ust. 2 otrzymuje brzmienie: „
+
+2. Wyroby, o których mowa w art. 62c ust. 1 pkt 1 lit. a-c, pkt 2 lit. a oraz pkt 3 lit. a ustawy, o której mowa w art. 6 ust. 2, oraz broń, na posiadanie której nie jest wymagane pozwolenie na broń, mogą być sprzedawane wyłącznie osobom pełnoletnim, po okazaniu dokumentu stwierdzającego tożsamość. ” .
 
 **Art. 3.** Wyroby pirotechniczne wprowadzone do obrotu przed dniem wejścia w życie niniejszej ustawy mogą pozostać w obrocie do dnia 4 lipca 2017 r.
 

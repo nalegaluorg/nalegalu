@@ -8,10 +8,10 @@ pos: 1888
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 15 września OBWIESZCZENIE PREZESA RADY MINISTRÓW 24 sierpnia w sprawie ogłoszenia jednolitego tekstu rozporządzenia w sprawie przekazywania Biuru Nadzoru Wewnętrznego informacji oraz wzoru imiennego upoważnienia inspektora Biura Nadzoru Wewnętrznego
+# Obwieszczenie Prezesa Rady Ministrówz dnia 24 sierpnia 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów w sprawie przekazywania Biuru Nadzoru Wewnętrznego informacji oraz wzoru imiennego upoważnienia inspektora Biura Nadzoru Wewnętrznego
 
 | Pole | Wartość |
 |---|---|
@@ -25,29 +25,52 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001888) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1888/text.pdf) |
 
-1. Na podstawie art. 16 ust. 3 ustawy 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych 2019 1461) ogłasza się w załączniku niniejszego obwieszczenia jednolity tekst rozporządzenia 29 stycznia 2018 w sprawie przekazywania Biuru Nadzoru Wewnętrznego informacji oraz wzoru imiennego upoważnienia inspektora Biura Nadzoru Wewnętrznego 283), uwzględnieniem zmiany wprowadzonej rozporządzeniem 24 lutego zmieniającym rozporządzenie w sprawie przekazywania Biuru Nadzoru Wewnętrznego informacji oraz wzoru imiennego upoważnienia inspektora Biura Nadzoru Wewnętrznego 392).
-2. Podany w załączniku niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia 24 lutego zmieniającego rozporządzenie w sprawie przekazywania Biuru Nadzoru Wewnętrznego informacji oraz wzoru imiennego upoważnienia inspektora Biura Nadzoru Wewnętrznego 392), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od ogłoszenia.”.
-Prezes Ministrów: M. Morawiecki ROZPORZĄDZENIE PREZESA RADY MINISTRÓW 29 stycznia 2018 w sprawie przekazywania Biuru Nadzoru Wewnętrznego informacji oraz wzoru imiennego upoważnienia inspektora Biura Nadzoru Wewnętrznego Na podstawie art. 11t ust. 11 ustawy 21 czerwca 1996 o szczególnych formach sprawowania nadzoru przez ministra właściwego spraw wewnętrznych 2022 2487 i 2600 oraz 1860) zarządza się, co następuje: § 1. Rozporządzenie określa:
-1) sposób i tryb przekazywania Biuru Nadzoru Wewnętrznego informacji uzyskanych przez podmioty, o których mowa w art. 11t ust. 1 ustawy 21 czerwca 1996 o szczególnych formach sprawowania nadzoru przez ministra właściwego spraw wewnętrznych, zwane dalej „podmiotami zobowiązanymi”;
-2) wzór imiennego upoważnienia inspektora Biura Nadzoru Wewnętrznego, o którym mowa w art. 11t ust. 3 ustawy 21 czerwca 1996 o szczególnych formach sprawowania nadzoru przez ministra właściwego spraw wewnętrznych.
-§ 2. 1. Inspektor Biura Nadzoru Wewnętrznego, zwany dalej „inspektorem Biura”, na podstawie imiennego upoważnienia wystawionego przez Inspektora Nadzoru Wewnętrznego występuje właściwych jednostek lub komórek organizacyjnych podmiotów zobowiązanych pisemnym wnioskiem, który zawiera:
-1) oznaczenie sprawy;
-2) dane umożliwiające wyszukanie informacji;
-3) zakres przekazywanych informacji, o których mowa w art. 11t ust. 1 ustawy 21 czerwca 1996 o szczególnych formach sprawowania nadzoru przez ministra właściwego spraw wewnętrznych;
-4) cel przekazania informacji.
-2. Do wniosku dołącza się kopię ważnego poświadczenia bezpieczeństwa dotyczącego uprawnień inspektora Biura dostępu informacji niejawnych klauzuli co najmniej takiej, jaką są oznaczone dokumenty, które mają być mu udostępnione, a także kopię aktualnego zaświadczenia stwierdzającego odbycie szkolenia w zakresie ochrony informacji niejawnych.
-§ 3. 1. Podmioty zobowiązane, po otrzymaniu wniosku, przekazują informacje wskazane w tym wniosku i udokumentowane w aktach prowadzonych spraw operacyjno-rozpoznawczych, rejestrach lub zbiorach.
-2. Podmioty zobowiązane przekazują inspektorowi Biura niezwłocznie, na jego wniosek, informacje stanowiące uzupełnienie danych przekazanych wcześniej.
-3. Informacje, o których mowa w ust. 1 i 2, przekazują kierownicy jednostek albo komórek organizacyjnych właściwych w sprawach operacyjno-rozpoznawczych, prowadzenia zbiorów lub rejestrów albo upoważnione przez nich osoby.
-4. Informacje, o których mowa w ust. 1 i 2, przekazuje się na piśmie w postaci papierowej lub elektronicznej za pomocą systemów lub urządzeń teleinformatycznych.
-§ 4. Wzór imiennego upoważnienia udzielanego inspektorowi Biura dostępu informacji uzyskanych przez podmioty zobowiązane jest określony w załączniku rozporządzenia.
-§ 5. Rozporządzenie wchodzi w życie dniem ogłoszenia .
-WZÓR ZÓR IMIENNEGO IMIENNEGO UPOWAŻNIENIA UPOWAŻNIENI ........................................................
-...................................................................
-UPOWAŻNIENIE NR ....
-Na podstawie art. 11t ust. 3 ustawy 21 czerwca 1996 o szczególnych formach sprawowania nadzoru przez ministra właściwego spraw wewnętrznych 2022 2487, późn. zm.) Upoważniam ….............................................................. ....................................................................
-dostępu informacji posiadanych przez ........................................................................................................................................................
-Upoważnienie jest ważne jedynie przy równoczesnym okazaniu przez inspektora Biura Nadzoru Wewnętrznego legitymacji służbowej wraz wkładką tej legitymacji.
-Ważność upoważnienia upływa dniem ............................................. .
-.........................................................................
+Treść obwieszczenia
+Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 29 stycznia 2018 r. w sprawie przekazywania Biuru Nadzoru Wewnętrznego informacji oraz wzoru imiennego upoważnienia inspektora Biura Nadzoru Wewnętrznego
+Załącznik – Wzór imiennego upoważnienia
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 29 stycznia 2018 r. w sprawie przekazywania Biuru Nadzoru Wewnętrznego informacji oraz wzoru imiennego upoważnienia inspektora Biura Nadzoru Wewnętrznego (Dz. U. poz. 283), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Prezesa Rady Ministrów z dnia 24 lutego 2023 r. zmieniającym rozporządzenie w sprawie przekazywania Biuru Nadzoru Wewnętrznego informacji oraz wzoru imiennego upoważnienia inspektora Biura Nadzoru Wewnętrznego (Dz. U. poz. 392).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 24 lutego 2023 r. zmieniającego rozporządzenie w sprawie przekazywania Biuru Nadzoru Wewnętrznego informacji oraz wzoru imiennego upoważnienia inspektora Biura Nadzoru Wewnętrznego (Dz. U. poz. 392), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+” .
+Załącznik – Rozporządzenie Prezesa Rady Ministrów z dnia 29 stycznia 2018 r. w sprawie przekazywania Biuru Nadzoru Wewnętrznego informacji oraz wzoru imiennego upoważnienia inspektora Biura Nadzoru Wewnętrznego
+Na podstawie art. 11t ust. 11 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. z 2022 r. poz. 2487 i 2600 oraz z 2023 r. poz. 1860) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+sposób i tryb przekazywania Biuru Nadzoru Wewnętrznego informacji uzyskanych przez podmioty, o których mowa w art. 11t ust. 1 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych, zwane dalej „podmiotami zobowiązanymi”;
+2)
+wzór imiennego upoważnienia inspektora Biura Nadzoru Wewnętrznego, o którym mowa w art. 11t ust. 3 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych.
+§ 2.
+1.
+Inspektor Biura Nadzoru Wewnętrznego, zwany dalej „inspektorem Biura”, na podstawie imiennego upoważnienia wystawionego przez Inspektora Nadzoru Wewnętrznego występuje do właściwych jednostek lub komórek organizacyjnych podmiotów zobowiązanych z pisemnym wnioskiem, który zawiera:
+1)
+oznaczenie sprawy;
+2)
+dane umożliwiające wyszukanie informacji;
+3)
+zakres przekazywanych informacji, o których mowa w art. 11t ust. 1 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych;
+4)
+cel przekazania informacji.
+2.
+Do wniosku dołącza się kopię ważnego poświadczenia bezpieczeństwa dotyczącego uprawnień inspektora Biura do dostępu do informacji niejawnych do klauzuli co najmniej takiej, jaką są oznaczone dokumenty, które mają być mu udostępnione, a także kopię aktualnego zaświadczenia stwierdzającego odbycie szkolenia w zakresie ochrony informacji niejawnych.
+§ 3.
+1.
+Podmioty zobowiązane, po otrzymaniu wniosku, przekazują informacje wskazane w tym wniosku i udokumentowane w aktach prowadzonych spraw operacyjno-rozpoznawczych, rejestrach lub zbiorach.
+2.
+Podmioty zobowiązane przekazują inspektorowi Biura niezwłocznie, na jego wniosek, informacje stanowiące uzupełnienie danych przekazanych wcześniej.
+3.
+Informacje, o których mowa w ust. 1 i 2, przekazują kierownicy jednostek albo komórek organizacyjnych właściwych w sprawach operacyjno-rozpoznawczych, prowadzenia zbiorów lub rejestrów albo upoważnione przez nich osoby.
+4.
+Informacje, o których mowa w ust. 1 i 2, przekazuje się na piśmie w postaci papierowej lub elektronicznej za pomocą systemów lub urządzeń teleinformatycznych.
+§ 4.
+Wzór imiennego upoważnienia udzielanego inspektorowi Biura do dostępu do informacji uzyskanych przez podmioty zobowiązane jest określony w załączniku do rozporządzenia.
+§ 5.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+Załącznik – Wzór imiennego upoważnienia
+patrz oryginał
 

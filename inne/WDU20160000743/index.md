@@ -1,0 +1,62 @@
+---
+title: "Rozporządzenie Prezesa Rady Ministrów z dnia 25 maja 2016 r. zmieniające rozporządzenie w sprawie wielokrotności kwoty bazowej, zasad wynagradzania pracowników regionalnych izb obrachunkowych, wymaganych kwalifikacji oraz zasad ustalania ryczałtu, diet i zwrotu kosztów podróży pozaetatowych członków kolegiów izb"
+address: WDU20160000743
+eli: DU/2016/743
+publisher: DU
+year: 2016
+pos: 743
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Rozporządzenie Prezesa Rady Ministrówz dnia 25 maja 2016 r. zmieniające rozporządzenie w sprawie wielokrotności kwoty bazowej, zasad wynagradzania pracowników regionalnych izb obrachunkowych, wymaganych kwalifikacji oraz zasad ustalania ryczałtu, diet i zwrotu kosztów podróży pozaetatowych członków kolegiów izb
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2016 poz. 743 |
+| ISAP | WDU20160000743 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2016-05-25 |
+| Data wydania | 2016-06-01 |
+| Wejście w życie | 2016-06-02 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000743) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/743/text.pdf) |
+
+Treść rozporządzenia
+
+## Załącznik nr 1 — – Tabela wielokrotności kwoty bazowej
+
+## Załącznik nr 2 — – Tabela miesięcznych stawek wynagrodzenia zasadniczego
+
+Treść rozporządzenia
+Na podstawie art. 26a ust. 6 i 7 ustawy z dnia 7 października 1992 r. o regionalnych izbach obrachunkowych (Dz. U. z 2016 r. poz. 561) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Prezesa Rady Ministrów z dnia 20 lutego 2004 r. w sprawie wielokrotności kwoty bazowej, zasad wynagradzania pracowników regionalnych izb obrachunkowych, wymaganych kwalifikacji oraz zasad ustalania ryczałtu, diet i zwrotu kosztów podróży pozaetatowych członków kolegiów izb (Dz. U. poz. 264, z 2005 r. poz. 379, z 2006 r. poz. 262, z 2007 r. poz. 596, z 2008 r. poz. 453 oraz z 2009 r. poz. 467) wprowadza się następujące zmiany:
+1)
+załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
+2)
+załącznik nr 2 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia;
+3)
+w załączniku nr 4 do rozporządzenia skreśla się lp. 7.
+§ 2.
+Przepisy rozporządzenia mają zastosowanie do:
+1)
+wielokrotności kwoty bazowej służących do ustalenia wysokości wynagrodzenia zasadniczego i dodatku funkcyjnego prezesów izb, zastępców prezesów i etatowych członków kolegiów,
+2)
+miesięcznych stawek wynagrodzenia zasadniczego pracowników regionalnych izb obrachunkowych
+od dnia 1 stycznia 2016 r.
+§ 3.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+## Załącznik nr 1 — – Tabela wielokrotności kwoty bazowej
+
+Lp. Stanowisko Wynagrodzenie zasadnicze Dodatek funkcyjny 1 Prezes izby 3,7–5,3 0,7–1,2 2 Zastępca prezesa 2,9–4,4 0,5–0,9 3 Etatowy członek kolegium 2,2–3,6
+
+## Załącznik nr 2 — – Tabela miesięcznych stawek wynagrodzenia zasadniczego
+
+Kategoria zaszeregowania Kwota w złotych I 1220–1460 II 1230–1520 III 1240–1600 IV 1250–1680 V 1270–1770 VI 1290–1890 VII 1310–2010 VIII 1330–2150 IX 1360–2280 X 1400–2430 XI 1450–2590 XII 1500–2750 XIII 1550–2950 XIV 1610–3190 XV 1670–3430 XVI 1740–3700 XVII 1810–3970 XVIII 1890–4310
+

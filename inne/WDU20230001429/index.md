@@ -8,12 +8,10 @@ pos: 1429
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o świadczeniu wspierającym
-
-*USTAWA z dnia 7 lipca 2023 r.*
+# Ustawa z dnia 7 lipca 2023 r. o świadczeniu wspierającym
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2023-07-07 |
 | Data wydania | 2023-07-26 |
+| Wejście w życie | 2024-01-01 |
 | Ostatnia zmiana | 2025-05-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001429) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1429/text.pdf) |
 
@@ -36,14 +35,14 @@ source: "isap-pdf"
 1. Świadczenie wspierające przysługuje:
 
 - **1)** obywatelom polskim;
-- **2)** cudzoziemcom: o cudzoziemcach, lub – na podstawie wizy krajowej w celu prowadzenia badań naukowych lub prac rozwojowych, lub – w związku z korzystaniem z mobilności krótkoterminowej naukowca na warunkach określonych w art. 156b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach – z wyłączeniem cudzoziemców, którym zezwolono na pobyt na terytorium Rzeczypospolitej Polskiej przez okres nieprzekraczający 6 miesięcy, chyba że dwustronne umowy międzynarodowe o zabezpieczeniu społecznym stanowią inaczej,
-    - **a)** obywatelom Unii Europejskiej, Europejskiego Obszaru Gospodarczego albo Konfederacji Szwajcarskiej,
-    - **b)** jeżeli wynika to z wiążących Rzeczpospolitą Polską dwustronnych umów międzynarodowych o zabezpieczeniu społecznym,
-    - **c)** przebywającym na terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia na pobyt czasowy udzielonego w związku z okolicznościami, o których mowa w art. 127 lub art. 137a ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2023 r. poz. 519, 185 i 547), jeżeli zamieszkują na terytorium Rzeczypospolitej Polskiej,
-    - **d)** posiadającym kartę pobytu z adnotacją „dostęp do rynku pracy”, jeżeli zamieszkują na terytorium Rzeczypospolitej Polskiej, z wyłączeniem obywateli państw trzecich, którzy uzyskali zezwolenie na pracę na terytorium państwa członkowskiego na okres nieprzekraczający 6 miesięcy, obywateli państw trzecich przyjętych w celu podjęcia studiów lub pracy sezonowej oraz obywateli państw trzecich, którzy mają prawo do wykonywania pracy na podstawie wizy,
-    - **e)** przebywającym na terytorium Rzeczypospolitej Polskiej: – na podstawie zezwolenia na pobyt czasowy, o którym mowa w art. 139a ust. 1 lub art. 139o ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub – w związku z korzystaniem z mobilności krótkoterminowej pracownika kadry kierowniczej, specjalisty lub pracownika odbywającego staż w ramach przeniesienia wewnątrz przedsiębiorstwa na warunkach określonych w art. 139n ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach – jeżeli zamieszkują na terytorium Rzeczypospolitej Polskiej, z wyłączeniem cudzoziemców, którym zezwolono na pobyt i pracę na terytorium Rzeczypospolitej Polskiej przez okres nieprzekraczający 9 miesięcy, chyba że dwustronne umowy międzynarodowe o zabezpieczeniu społecznym stanowią inaczej,
-    - **f)** przebywającym na terytorium Rzeczypospolitej Polskiej: – na podstawie zezwolenia na pobyt czasowy, o którym mowa w art. 151 lub art. 151b ustawy z dnia 12 grudnia 2013 r.
-    - **g)** przebywającym na terytorium Rzeczypospolitej Polskiej obywatelom Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o których mowa w art. 10 ust. 1 lit. b, d, e lub f Umowy z dnia 24 stycznia 2020 r. o wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej (Dz. Urz. UE L 29 z 31.01.2020, str. 7, z późn. zm. ).
+- **2)** cudzoziemcom: obywatelom Unii Europejskiej, Europejskiego Obszaru Gospodarczego albo Konfederacji Szwajcarskiej, jeżeli wynika to z wiążących Rzeczpospolitą Polską dwustronnych umów międzynarodowych o zabezpieczeniu społecznym, przebywającym na terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia na pobyt czasowy udzielonego w związku z okolicznościami, o których mowa w art. 127 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2023 r. poz. 519, 185 i 547), jeżeli zamieszkują na terytorium Rzeczypospolitej Polskiej, posiadającym kartę pobytu z adnotacją „dostęp do rynku pracy”, jeżeli zamieszkują na terytorium Rzeczypospolitej Polskiej, z wyłączeniem obywateli państw trzecich, którzy uzyskali zezwolenie na pracę na terytorium państwa członkowskiego na okres nieprzekraczający 6 miesięcy, obywateli państw trzecich przyjętych w celu podjęcia studiów lub pracy sezonowej oraz obywateli państw trzecich, którzy mają prawo do wykonywania pracy na podstawie wizy, przebywającym na terytorium Rzeczypospolitej Polskiej: – na podstawie zezwolenia na pobyt czasowy, o którym mowa w art. 139a ust. 1 lub art. 139o ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub – w związku z korzystaniem z mobilności krótkoterminowej pracownika kadry kierowniczej, specjalisty lub pracownika odbywającego staż w ramach przeniesienia wewnątrz przedsiębiorstwa na warunkach określonych w art. 139n ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach – jeżeli zamieszkują na terytorium Rzeczypospolitej Polskiej, z wyłączeniem cudzoziemców, którym zezwolono na pobyt i pracę na terytorium Rzeczypospolitej Polskiej przez okres nieprzekraczający 9 miesięcy, chyba że dwustronne umowy międzynarodowe o zabezpieczeniu społecznym stanowią inaczej, przebywającym na terytorium Rzeczypospolitej Polskiej: – na podstawie zezwolenia na pobyt czasowy, o którym mowa w art. 151 lub art. 151b ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub – na podstawie wizy krajowej w celu prowadzenia badań naukowych lub prac rozwojowych, lub – w związku z korzystaniem z mobilności krótkoterminowej naukowca na warunkach określonych w art. 156b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach – z wyłączeniem cudzoziemców, którym zezwolono na pobyt na terytorium Rzeczypospolitej Polskiej przez okres nieprzekraczający 6 miesięcy, chyba że dwustronne umowy międzynarodowe o zabezpieczeniu społecznym stanowią inaczej, przebywającym na terytorium Rzeczypospolitej Polskiej obywatelom Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o których mowa w art. 10 ust. 1 lit. b, d, e lub f Umowy z dnia 24 stycznia 2020 r. o wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej (Dz. Urz. UE L 29 z 31.01.2020, str. 7, z późn. zm.) .
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
 
 2. Świadczenie wspierające przysługuje osobom, o których mowa w ust. 1, jeżeli zamieszkują na terytorium Rzeczypospolitej Polskiej przez okres, w którym otrzymują świadczenie wspierające.
 
@@ -53,7 +52,7 @@ source: "isap-pdf"
 
 1. Celem świadczenia wspierającego jest udzielenie osobom niepełnosprawnym mającym potrzebę wsparcia pomocy służącej częściowemu pokryciu wydatków związanych z zaspokojeniem szczególnych potrzeb życiowych tych osób.
 
-2. Świadczenie wspierające przysługuje osobie w wieku od ukończenia 18. roku życia posiadającej decyzję ustalającą poziom potrzeby wsparcia, o której mowa w art. 6b ust. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2023 r. poz. 100, 173, 240, 852, 1234 i 1429), zwanej dalej „decyzją ustalającą poziom potrzeby wsparcia”, w której potrzebę wsparcia określono na poziomie od 70 do 100 punktów w skali potrzeby wsparcia, o której mowa w art. 4b ust. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych.
+2. Świadczenie wspierające przysługuje osobie w wieku od ukończenia 18. roku życia posiadającej decyzję ustalającą poziom potrzeby wsparcia, o której mowa w art. 6b3 ust. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2023 r. poz. 100, 173, 240, 852, 1234 i 1429), zwanej dalej „decyzją ustalającą poziom potrzeby wsparcia”, w której potrzebę wsparcia określono na poziomie od 70 do 100 punktów w skali potrzeby wsparcia, o której mowa w art. 4b ust. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych.
 
 **Art. 4.**
 
@@ -74,9 +73,13 @@ source: "isap-pdf"
 
 **Art. 5.** Świadczenie wspierające nie przysługuje, jeżeli:
 
+- **1)** osoba, o której mowa w art. 3 ust. 2, została umieszczona w domu pomocy społecznej, w rodzinnym domu pomocy, zakładzie opiekuńczo-leczniczym, zakładzie pielęgnacyjno-opiekuńczym, placówce zapewniającej całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku, o której mowa w przepisach o pomocy społecznej, zakładzie karnym, zakładzie poprawczym, areszcie śledczym albo schronisku dla nieletnich;
+- **2)** osoba, o której mowa w art. 3 ust. 2, jest uprawniona za granicą do świadczenia o podobnym charakterze do świadczenia wspierającego, chyba że dwustronne umowy o zabezpieczeniu społecznym stanowią inaczej;
+- **3)** na osobę, o której mowa w art. 3 ust. 2, inna osoba jest uprawniona za granicą do świadczenia na pokrycie wydatków związanych z opieką, chyba że dwustronne umowy o zabezpieczeniu społecznym stanowią inaczej.
+
 **Art. 6.**
 
-1. Za osobę, która nie podejmuje zatrudnienia lub innej pracy zarobkowej ze względu na potrzebę udzielania wsparcia osobie, o której mowa w art. 3 ust. 2, wspólnie z nią zamieszkującej i gospodarującej, Zakład Ubezpieczeń Społecznych opłaca składki na ubezpieczenia emerytalne i rentowe z ubezpieczenia społecznego, na zasadach określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2023 r. poz. 1230) oraz składki na ubezpieczenie zdrowotne na zasadach określonych w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm. ).
+1. Za osobę, która nie podejmuje zatrudnienia lub innej pracy zarobkowej ze względu na potrzebę udzielania wsparcia osobie, o której mowa w art. 3 ust. 2, wspólnie z nią zamieszkującej i gospodarującej, Zakład Ubezpieczeń Społecznych opłaca składki na ubezpieczenia emerytalne i rentowe z ubezpieczenia społecznego, na zasadach określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2023 r. poz. 1230) oraz składki na ubezpieczenie zdrowotne na zasadach określonych w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm.).
 
 2. Prawo do objęcia ubezpieczeniami emerytalnym i rentowymi oraz ubezpieczeniem zdrowotnym przysługuje tylko jednej osobie, o której mowa w ust. 1.
 
@@ -107,7 +110,7 @@ source: "isap-pdf"
 
 5. Do wniosku dołącza się odpowiednio zaświadczenia lub oświadczenia oraz dowody niezbędne do ustalenia prawa do świadczenia wspierającego:
 
-- **1)** kartę pobytu – w przypadku cudzoziemca przebywającego na terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia na pobyt czasowy udzielonego w związku z okolicznościami, o których mowa w art. 127 lub art. 137a ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach;
+- **1)** kartę pobytu – w przypadku cudzoziemca przebywającego na terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia na pobyt czasowy udzielonego w związku z okolicznościami, o których mowa w art. 127 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach;
 - **2)** kartę pobytu i decyzję o udzieleniu cudzoziemcowi zezwolenia na pobyt na terytorium Rzeczypospolitej Polskiej lub inny dokument uprawniający cudzoziemca do pobytu na terytorium Rzeczypospolitej Polskiej, który uprawnia do wykonywania pracy;
 - **3)** inne dokumenty, w tym oświadczenia, niezbędne do ustalenia prawa do świadczenia wspierającego.
 
@@ -170,7 +173,7 @@ source: "isap-pdf"
 
 **Art. 14.** Podwyższenie kwoty świadczenia wspierającego w związku z podwyższeniem ustawowej wysokości renty socjalnej następuje z urzędu i nie wymaga wydania decyzji. Zakład Ubezpieczeń Społecznych udostępnia osobie pobierającej świadczenie wspierające informację o podwyższeniu tego świadczenia na jej profilu informacyjnym utworzonym w systemie teleinformatycznym udostępnionym przez Zakład Ubezpieczeń Społecznych.
 
-**Art. 15.** Gromadzone przez Zakład Ubezpieczeń Społecznych informacje, o których mowa w art. 9 ust. 4 i 5, informacje uzyskane lub zweryfikowane z rejestrów publicznych, o których mowa w art. 23 ust. 1, informacje o dacie złożenia wniosku, przyznaniu prawa do świadczenia wspierającego, w tym o okresie, na jaki świadczenie zostało przyznane, odmowie przyznania prawa do świadczenia wspierającego, w tym o dacie decyzji odmawiającej prawa do tego świadczenia, oraz uchyleniu prawa do świadczenia wspierającego, w tym o terminie, od którego świadczenie nie przysługuje, a także informacje o wartości wypłaconych świadczeń wspierających zasilają rejestr centralny, o którym mowa w art. 14 ust. 2 ustawy z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U. z 2023 r. poz. 810). Przepisy art. 14 ust. 4 pkt 2– 4 i ust. 8 ustawy z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci stosuje się odpowiednio.
+**Art. 15.** Gromadzone przez Zakład Ubezpieczeń Społecznych informacje, o których mowa w art. 9 ust. 4 i 5, informacje uzyskane lub zweryfikowane z rejestrów publicznych, o których mowa w art. 23 ust. 1, informacje o dacie złożenia wniosku, przyznaniu prawa do świadczenia wspierającego, w tym o okresie, na jaki świadczenie zostało przyznane, odmowie przyznania prawa do świadczenia wspierającego, w tym o dacie decyzji odmawiającej prawa do tego świadczenia, oraz uchyleniu prawa do świadczenia wspierającego, w tym o terminie, od którego świadczenie nie przysługuje, a także informacje o wartości wypłaconych świadczeń wspierających zasilają rejestr centralny, o którym mowa w art. 14 ust. 2 ustawy z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U. z 2023 r. poz. 810). Przepisy art. 14 ust. 4 pkt 2–4 i ust. 8 ustawy z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci stosuje się odpowiednio.
 
 **Art. 16.**
 
@@ -178,9 +181,7 @@ source: "isap-pdf"
 
 2. Minister właściwy do spraw rodziny przetwarza dane w zakresie adresu poczty elektronicznej wskazanego we wniosku w celu przekazywania informacji związanych z uprawnieniami dla osób niepełnosprawnych.
 
-3. Minister właściwy do spraw informatyzacji po otrzymaniu od Zakładu Ubezpieczeń Społecznych numerów PESEL osób uprawnionych do świadczenia wspierającego niezwłocznie przekazuje z rejestru PESEL posiadane dane dotyczące zgonu, o których mowa w art. 8 pkt 26 ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2022 r. poz. 1191 oraz z 2023 r. poz. 497 i
-
-- **1394)** .
+3. Minister właściwy do spraw informatyzacji po otrzymaniu od Zakładu Ubezpieczeń Społecznych numerów PESEL osób uprawnionych do świadczenia wspierającego niezwłocznie przekazuje z rejestru PESEL posiadane dane dotyczące zgonu, o których mowa w art. 8 pkt 26 ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2022 r. poz. 1191 oraz z 2023 r. poz. 497 i 1394).
 
 **Art. 17.**
 
@@ -188,7 +189,7 @@ source: "isap-pdf"
 
 2. Osoby upoważnione przez bank krajowy, spółdzielczą kasę oszczędnościowo-kredytową albo ministra właściwego do spraw rodziny do przetwarzania danych osobowych, o których mowa w ust. 1, są obowiązane do zachowania ich w poufności.
 
-3. Bank krajowy, spółdzielcza kasa oszczędnościowo-kredytowa oraz minister właściwy do spraw rodziny, którzy zapewniają możliwość złożenia wniosku wraz z załącznikami, za pomocą systemu, o którym mowa odpowiednio w art. 11 ust. 1 pkt 2 lub 3, zapewniają niezbędne środki techniczne i organizacyjne służące zapewnieniu bezpieczeństwa przetwarzania danych osobowych, o których mowa w ust. 1, oraz środki określone w art. 32 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ).
+3. Bank krajowy, spółdzielcza kasa oszczędnościowo-kredytowa oraz minister właściwy do spraw rodziny, którzy zapewniają możliwość złożenia wniosku wraz z załącznikami, za pomocą systemu, o którym mowa odpowiednio w art. 11 ust. 1 pkt 2 lub 3, zapewniają niezbędne środki techniczne i organizacyjne służące zapewnieniu bezpieczeństwa przetwarzania danych osobowych, o których mowa w ust. 1, oraz środki określone w art. 32 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.).
 
 4. Bank krajowy, spółdzielcza kasa oszczędnościowo-kredytowa oraz minister właściwy do spraw rodziny, którzy zapewniają możliwość złożenia wniosku wraz z załącznikami, za pomocą systemu, o którym mowa odpowiednio w art. 11 ust. 1 pkt 2 lub 3, udostępniają Zakładowi Ubezpieczeń Społecznych informacje służące potwierdzeniu spełniania obowiązków określonych w art. 28 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych), a także umożliwiają Zakładowi Ubezpieczeń Społecznych przeprowadzenie audytów i inspekcji.
 
@@ -203,6 +204,11 @@ source: "isap-pdf"
 9. Zwrot kwot świadczenia wspierającego, o którym mowa w ust. 7, uznaje się za zwrot świadczeń nienależnie pobranych.
 
 **Art. 18.** Zakład Ubezpieczeń Społecznych może bez zgody strony zmienić lub uchylić prawo do świadczenia wspierającego lub zmienić jego wysokość, jeżeli:
+
+- **1)** po ustaleniu prawa zostaną przedłożone nowe dowody lub ujawniono nowe okoliczności mające wpływ na prawo do świadczenia wspierającego lub jego wysokość;
+- **2)** prawo zostało ustalone na podstawie fałszywych oświadczeń lub dokumentów albo w innych przypadkach świadomego wprowadzenia w błąd przez osobę pobierającą to świadczenie;
+- **3)** prawo zostało ustalone w oparciu o inną decyzję lub orzeczenie sądu, które zostało następnie uchylone, zmienione albo stwierdzono jego nieważność;
+- **4)** ustalenie prawa do świadczenia wspierającego lub nieprawidłowe ustalenie jego wysokości nastąpiło na skutek błędu Zakładu Ubezpieczeń Społecznych.
 
 **Art. 19.** Minister właściwy do spraw rodziny przechowuje w rejestrze centralnym, o którym mowa w art. 14 ust. 2 ustawy z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci, informacje, o których mowa w art. 15, przez okres 2 lat od dnia zaprzestania udzielania świadczenia wspierającego, z wyjątkiem informacji dotyczących osób, którym świadczenie wspierające nie zostało przyznane, które przechowuje się przez okres 1 roku od dnia, w którym decyzja w sprawie świadczenia wspierającego stała się ostateczna, lub od dnia pozostawienia wniosku bez rozpatrzenia.
 
@@ -287,17 +293,17 @@ source: "isap-pdf"
 - **1)** odroczenie terminu płatności należności,
 - **2)** rozłożenie spłaty należności na raty,
 - **3)** zastosowanie środka egzekucyjnego, o którym dłużnik został powiadomiony,
-- **4)** ogłoszenie upadłości dłużnika – przy czym po przerwaniu biegu terminu przedawnienia biegnie on na nowo od dnia następującego odpowiednio po dniu odroczenia terminu płatności należności, rozłożenia spłaty należności na raty, zastosowania środka egzekucyjnego, o którym dłużnik został powiadomiony, lub ogłoszenia upadłości.
+- **4)** ogłoszenie upadłości dłużnika przy czym po przerwaniu biegu terminu przedawnienia biegnie on na nowo od dnia następującego odpowiednio po dniu odroczenia terminu płatności należności, rozłożenia spłaty należności na raty, zastosowania środka egzekucyjnego, o którym dłużnik został powiadomiony, lub ogłoszenia upadłości.
 
 6. Decyzja o ustaleniu i zwrocie nienależnie pobranego świadczenia wspierającego nie jest wydawana, jeżeli od dnia jego pobrania upłynęło więcej niż 2 lata.
 
 7. Kwoty nienależnie pobranego świadczenia wspierającego łącznie z odsetkami ustawowymi za opóźnienie ustalone ostateczną decyzją podlegają potrąceniu z wypłacanego świadczenia wspierającego oraz ze świadczeń z ubezpieczeń społecznych wypłacanych przez Zakład Ubezpieczeń Społecznych.
 
-8. Nienależnie pobrane świadczenie wspierające podlega egzekucji w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm. ).
+8. Nienależnie pobrane świadczenie wspierające podlega egzekucji w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm.).
 
 9. Kwoty nienależnie pobranego świadczenia wspierającego podlegają zwrotowi łącznie z odsetkami ustawowymi za opóźnienie na rachunek bankowy wskazany przez Zakład Ubezpieczeń Społecznych. Odsetki są naliczane od pierwszego dnia miesiąca następującego po dniu wypłaty świadczenia wspierającego do dnia spłaty.
 
-10. Zakład Ubezpieczeń Społecznych może odstąpić od żądania zwrotu kwoty nienależnie pobranego świadczenia wspierającego łącznie z odsetkami w całości lub w części, odroczyć termin płatności albo rozłożyć na raty, jeżeli zachodzą szczególnie uzasadnione okoliczności dotyczące sytuacji osoby, której było ustalone prawo do świadczenia wspierającego. Do nienależnie pobranego świadczenia wspierającego stosuje się odpowiednio przepisy art. 84 ust. 8a– 8e ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
+10. Zakład Ubezpieczeń Społecznych może odstąpić od żądania zwrotu kwoty nienależnie pobranego świadczenia wspierającego łącznie z odsetkami w całości lub w części, odroczyć termin płatności albo rozłożyć na raty, jeżeli zachodzą szczególnie uzasadnione okoliczności dotyczące sytuacji osoby, której było ustalone prawo do świadczenia wspierającego. Do nienależnie pobranego świadczenia wspierającego stosuje się odpowiednio przepisy art. 84 ust. 8a-8e ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
 
 11. W przypadku śmierci osoby, która pobrała nienależnie świadczenie wspierające, należności, o których mowa w ust. 2 i 9, wygasają.
 
@@ -309,7 +315,7 @@ source: "isap-pdf"
 - **2)** od wydanych w trakcie postępowania innych postanowień Zakładu Ubezpieczeń Społecznych zażalenie nie przysługuje;
 - **3)** organem wyższego stopnia w stosunku do Zakładu Ubezpieczeń Społecznych jest Prezes Zakładu Ubezpieczeń Społecznych.
 
-2. Od decyzji Zakładu Ubezpieczeń Społecznych przysługuje odwołanie do sądu na zasadach określonych w przepisach ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ). Przepisy art. 83 ust. 3 i 5–7 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych stosuje się odpowiednio.
+2. Od decyzji Zakładu Ubezpieczeń Społecznych przysługuje odwołanie do sądu na zasadach określonych w przepisach ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.). Przepisy art. 83 ust. 3 i 5–7 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych stosuje się odpowiednio.
 
 3. W postępowaniu z odwołania od decyzji w przedmiocie odmowy przyznania świadczenia wspierającego nie podlega kontroli sądowej decyzja ustalająca poziom potrzeby wsparcia.
 
@@ -341,49 +347,129 @@ source: "isap-pdf"
 
 #### Rozdział 6 Zmiany w przepisach
 
-**Art. 33.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 33.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 34.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm. ) wprowadza się następujące zmiany:
+- **1)** w art. 461 w § 2 zdanie pierwsze otrzymuje brzmienie: „ W sprawach z zakresu ubezpieczeń społecznych właściwy jest sąd, w którego obszarze właściwości ma miejsce zamieszkania albo siedzibę strona odwołująca się od decyzji wydanej przez organ rentowy lub orzeczenia wydanego przez wojewódzki zespół do spraw orzekania o niepełnosprawności lub decyzji wydanej przez ten zespół, jak również występująca z żądaniem w pozostałych sprawach z zakresu ubezpieczeń społecznych wymienionych w art. 476 § 3. ” ;
+- **2)** w art. 476 § 3 otrzymuje brzmienie: „
+
+§ 3. Przez sprawy z zakresu ubezpieczeń społecznych rozumie się także sprawy wszczęte na skutek niewydania przez organ rentowy decyzji we właściwym terminie, a także sprawy, w których wniesiono odwołanie od orzeczenia wojewódzkiego zespołu do spraw orzekania o niepełnosprawności lub od decyzji wydanej przez ten zespół, sprawy o roszczenia ze stosunków prawnych między członkami otwartych funduszy emerytalnych a tymi funduszami lub ich organami oraz sprawy ze stosunków między emerytami lub osobami uposażonymi w rozumieniu przepisów o emeryturach kapitałowych a Zakładem Ubezpieczeń Społecznych. ” ;
+
+- **3)** w art. 4778 w § 2 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 4a w brzmieniu: „
+- **4a)** o ustalenie poziomu potrzeby wsparcia. ” ;
+- **4)** w art. 4779: § 1 otrzymuje brzmienie: „
+    - **a)**
+
+§ 1. Odwołania od decyzji organów rentowych lub orzeczeń wojewódzkich zespołów do spraw orzekania o niepełnosprawności lub decyzji wydanych przez ten zespół, wnosi się na piśmie do organu lub zespołu, który wydał decyzję lub orzeczenie, lub do protokołu sporządzonego przez ten organ lub zespół, w terminie miesiąca od dnia doręczenia decyzji lub orzeczenia. ” , § 5 otrzymuje brzmienie: „
+
+- **b)**
+
+§ 5. Ubezpieczony lub osoba odwołująca się od orzeczenia wojewódzkiego zespołu do spraw orzekania o niepełnosprawności lub decyzji wydanej przez ten zespół, może również wnieść odwołanie – z wyłączeniem odwołania, o którym mowa w § 4 – do protokołu w sądzie właściwym do rozpoznania sprawy albo w sądzie właściwym dla miejsca zamieszkania ubezpieczonego lub osoby odwołującej się od orzeczenia wojewódzkiego zespołu do spraw orzekania o niepełnosprawności lub decyzji wydanej przez ten zespół. ” ;
+
+- **5)** w art. 47710 § 1 otrzymuje brzmienie: „
+
+§ 1. Odwołanie powinno zawierać oznaczenie zaskarżonej decyzji lub orzeczenia, zwięzłe przytoczenie zarzutów oraz wniosków i ich uzasadnienie oraz podpis ubezpieczonego albo osoby odwołującej się od orzeczenia wojewódzkiego zespołu do spraw orzekania o niepełnosprawności lub decyzji wydanej przez ten zespół, albo przedstawiciela ustawowego lub pełnomocnika ubezpieczonego albo osoby odwołującej się od orzeczenia wojewódzkiego zespołu do spraw orzekania o niepełnosprawności lub decyzji wydanej przez ten zespół. ” ;
+
+- **6)** w art. 47711 § 1 otrzymuje brzmienie: „
+
+§ 1. Stronami są ubezpieczony, osoba odwołująca się od orzeczenia wojewódzkiego zespołu do spraw orzekania o niepełnosprawności lub decyzji wydanej przez ten zespół, inna osoba, której praw i obowiązków dotyczy zaskarżona decyzja, organ rentowy, wojewódzki zespół do spraw orzekania o niepełnosprawności i zainteresowany. ” ;
+
+- **7)** w art. 47713 w § 1 zdanie pierwsze otrzymuje brzmienie: „ Zmiana przez organ rentowy zaskarżonej decyzji lub przez wojewódzki zespół do spraw orzekania o niepełnosprawności zaskarżonego orzeczenia lub decyzji wydanej przez ten zespół, przed rozstrzygnięciem sprawy przez sąd – przez wydanie decyzji lub orzeczenia uwzględniającego w całości lub w części żądanie strony – powoduje umorzenie postępowania w całości lub w części. ” ;
+- **8)** w art. 47714: § 2 otrzymuje brzmienie: „
+    - **a)**
+
+§ 2. W przypadku uwzględnienia odwołania sąd zmienia w całości lub w części zaskarżoną decyzję organu rentowego lub zaskarżone orzeczenie wojewódzkiego zespołu do spraw orzekania o niepełnosprawności lub decyzję tego zespołu i orzeka co do istoty sprawy. ” , w § 3 zdanie pierwsze otrzymuje brzmienie: „ Jeżeli odwołanie wniesiono w związku z niewydaniem decyzji przez organ rentowy lub niewydaniem orzeczenia przez wojewódzki zespół do spraw orzekania o niepełnosprawności lub decyzji przez ten zespół, sąd w razie uwzględnienia odwołania zobowiązuje organ lub zespół do wydania decyzji lub orzeczenia w określonym terminie, zawiadamiając o tym organ nadrzędny, albo orzeka co do istoty sprawy. ” , § 6 otrzymuje brzmienie: „
+
+- **b)**
+- **c)**
+
+§ 6. W sprawie, w której wniesiono odwołanie od orzeczenia wojewódzkiego zespołu do spraw orzekania o niepełnosprawności lub wydanej przez ten zespół decyzji, sąd nie orzeka co do istoty sprawy na podstawie nowych okoliczności dotyczących niepełnosprawności lub na podstawie nowych okoliczności wpływających na poziom potrzeby wsparcia, które powstały po dniu wniesienia odwołania od tego orzeczenia lub decyzji. W tym przypadku sąd uchyla orzeczenie lub decyzję, przekazuje sprawę do rozpoznania wojewódzkiemu zespołowi do spraw orzekania o niepełnosprawności i umarza postępowanie. ” ;
+
+- **9)** w art. 833 § 6 otrzymuje brzmienie: „
+
+§ 6. Nie podlegają egzekucji świadczenia alimentacyjne, świadczenia pieniężne wypłacane w przypadku bezskuteczności egzekucji alimentów, świadczenia rodzinne, dodatki rodzinne, pielęgnacyjne, porodowe, dla sierot zupełnych, zasiłki dla opiekunów, świadczenia z pomocy społecznej, świadczenia integracyjne, świadczenie wychowawcze, świadczenie dobry start, jednorazowe świadczenie, o którym mowa w art. 10 ustawy z dnia 4 listopada 2016 r. o wsparciu kobiet w ciąży i rodzin „Za życiem” (Dz. U. z 2020 r. poz. 1329 oraz z 2022 r. poz. 2140), rodzinny kapitał opiekuńczy, o którym mowa w ustawie z dnia 17 listopada 2021 r. o rodzinnym kapitale opiekuńczym (Dz. U. z 2023 r. poz. 883), dofinansowanie obniżenia opłaty rodzica za pobyt dziecka w żłobku, klubie dziecięcym lub u dziennego opiekuna, o którym mowa w art. 64c ust. 1 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2023 r. poz. 204), dodatek osłonowy, o którym mowa w ustawie z dnia 17 grudnia 2021 r. o dodatku osłonowym (Dz. U. z 2023 r. poz. 759), dodatek węglowy, o którym mowa w ustawie z dnia 5 sierpnia 2022 r. o dodatku węglowym (Dz. U. z 2023 r. poz. 141, 295 i 1234), dodatek dla gospodarstw domowych z tytułu wykorzystywania niektórych źródeł ciepła i dodatek dla niektórych podmiotów niebędących gospodarstwami domowymi z tytułu wykorzystania niektórych źródeł ciepła, o których mowa w ustawie z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw (Dz. U. poz. 1967, z późn. zm.), dodatek elektryczny, o którym mowa w ustawie z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku w związku z sytuacją na rynku energii elektrycznej (Dz. U. z 2023 r. poz. 269, 295 i 1234), refundacja podatku VAT, o której mowa w art. 18 ustawy z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. w związku z sytuacją na rynku gazu (Dz. U. poz. 2687 oraz z 2023 r. poz. 295, 556 i 1234), a także świadczenie wspierające, o którym mowa w ustawie z dnia 7 lipca 2023 r. o świadczeniu wspierającym (Dz. U. poz. 1429). ” .
+
+**Art. 34.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 10 § 4 otrzymuje brzmienie: „
+
+§ 4. Nie podlegają egzekucji świadczenia alimentacyjne, świadczenia pieniężne wypłacane w przypadku bezskuteczności egzekucji alimentów, świadczenia rodzinne, dodatki rodzinne, pielęgnacyjne, porodowe, dla sierot zupełnych, zasiłki dla opiekunów, świadczenia z pomocy społecznej, świadczenie wychowawcze, jednorazowe świadczenie, o którym mowa w art. 10 ustawy z dnia 4 listopada 2016 r. o wsparciu kobiet w ciąży i rodzin „Za życiem” (Dz. U. z 2020 r. poz. 1329 oraz z 2022 r. poz. 2140), rodzinny kapitał opiekuńczy, o którym mowa w ustawie z dnia 17 listopada 2021 r. o rodzinnym kapitale opiekuńczym (Dz. U. z 2023 r. poz. 883), dofinansowanie obniżenia opłaty rodzica za pobyt dziecka w żłobku, klubie dziecięcym lub u dziennego opiekuna, o którym mowa w art. 64c ust. 1 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2023 r. poz. 204), dodatek osłonowy, o którym mowa w ustawie z dnia 17 grudnia 2021 r. o dodatku osłonowym (Dz. U. z 2023 r. poz. 759), dodatek węglowy, o którym mowa w ustawie z dnia 5 sierpnia 2022 r. o dodatku węglowym (Dz. U. z 2023 r. poz. 141, 295 i 1234), dodatek dla gospodarstw domowych z tytułu wykorzystywania niektórych źródeł ciepła i dodatek dla niektórych podmiotów niebędących gospodarstwami domowymi z tytułu wykorzystania niektórych źródeł ciepła, o których mowa w ustawie z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw (Dz. U. poz. 1967, z późn. zm.), dodatek elektryczny, o którym mowa w ustawie z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku w związku z sytuacją na rynku energii elektrycznej (Dz. U. z 2023 r. poz. 269, 295 i 1234), refundacja podatku VAT, o której mowa w art. 18 ustawy z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. w związku z sytuacją na rynku gazu (Dz. U. poz. 2687 oraz z 2023 r. poz. 295, 556 i 1234) oraz świadczenie wspierające, o którym mowa w ustawie z dnia 7 lipca 2023 r. o świadczeniu wspierającym (Dz. U. poz. 1429) ” ;
+
+- **2)** w art. 80 w § 2a w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+- **3)** świadczenia wspierającego, o którym mowa w ustawie z dnia 7 lipca 2023 r. o świadczeniu wspierającym. ” .
 
 **Art. 35.** W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2023 r. poz. 208, 337 i 641) wprowadza się następujące zmiany:
 
-**Art. 36.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm. ) w art. 21 w ust. 1 po pkt 8d dodaje się pkt 8e w brzmieniu: „8e) świadczenie wspierające, o którym mowa w ustawie z dnia 7 lipca 2023 r. o świadczeniu wspierającym (Dz. U. poz. 1429);”.
+- **1)** w art. 3 uchyla się ust. 5–7;
+- **2)** w art. 4 uchyla się ust. 3;
+- **3)** w art. 16: w ust. 2 uchyla się pkt 4, w ust. 3 wyrazy „ust. 2 pkt 1, 2 i 4” zastępuje się wyrazami „ust. 2 pkt 1 i 2”;
+    - **a)**
+    - **b)**
 
-**Art. 37.** W ustawie z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2022 r. poz. 2528 oraz z 2023 r. poz. 347 i 658) art. 35a otrzymuje brzmienie: „Art. 35a. 1. Wojskowy organ emerytalny wymienia dane dotyczące żołnierzy zwolnionych z zawodowej służby wojskowej i członków ich rodzin, w zakresie określonym w art. 68a ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w ramach Systemu Elektronicznej Wymiany Informacji dotyczących Zabezpieczenia Społecznego, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczącym wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. UE L 284 z 30.10.2009, str. 1, z późn. zm. ), za pośrednictwem punktu kontaktowego prowadzonego przez Zakład Ubezpieczeń Społecznych. 2. Instytucją łącznikową, w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczącego wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego, w odniesieniu do świadczeń podlegających przepisom o koordynacji systemów zabezpieczenia społecznego, przysługujących z budżetu państwa na podstawie przepisów niniejszej ustawy, jest organ emerytalny określony przez ministra właściwego do spraw wewnętrznych w przepisach wydanych na podstawie art. 32 ust. 2a ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2023 r. poz. 1280). 3. Wojskowy organ emerytalny określony w przepisach wydanych na podstawie art. 37 jest instytucją właściwą, instytucją miejsca zamieszkania, instytucją miejsca pobytu, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 883/2004 z dnia 29 kwietnia 2004 r. w sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. WE L 166 z 30.04.2004, str. 1, z późn. zm. ), w odniesieniu do świadczeń z zaopatrzenia emerytalnego, podlegających przepisom o koordynacji systemów zabezpieczenia społecznego, przyznanych na podstawie przepisów niniejszej ustawy.”.
+- **4)** w art. 39a uchyla się ust. 5;
+- **5)** w art. 64 w ust. 5 uchyla się pkt 2.
 
-**Art. 38.** W ustawie z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2023 r. poz. 1280) art. 36a otrzymuje brzmienie: „Art. 36a. 1. Organy emerytalne wymieniają dane funkcjonariuszy zwolnionych ze służby i członków ich rodzin, w zakresie określonym w art. 68a ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w ramach Systemu Elektronicznej Wymiany Informacji dotyczących Zabezpieczenia Społecznego, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczącym wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. UE L 284 z 30.10.2009, str. 1, z późn. zm. ), za pośrednictwem punktu kontaktowego prowadzonego przez Zakład Ubezpieczeń Społecznych. 2. Organ emerytalny określony w przepisach wydanych na podstawie art. 32 ust. 2a przez ministra właściwego do spraw wewnętrznych jest instytucją łącznikową, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczącego wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego, w odniesieniu do świadczeń podlegających przepisom o koordynacji systemów zabezpieczenia społecznego, przysługujących z budżetu państwa na podstawie przepisów niniejszej ustawy oraz:
+**Art. 36.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm.) w art. 21 w ust. 1 po pkt 8d dodaje się pkt 8e w brzmieniu: „
+
+- **8e)** świadczenie wspierające, o którym mowa w ustawie z dnia 7 lipca 2023 r. o świadczeniu wspierającym (Dz. U. poz. 1429); ” .
+
+**Art. 37.** W ustawie z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2022 r. poz. 2528 oraz z 2023 r. poz. 347 i 658) art. 35a otrzymuje brzmienie: „ 1. Wojskowy organ emerytalny wymienia dane dotyczące żołnierzy zwolnionych z zawodowej służby wojskowej i członków ich rodzin, w zakresie określonym w art. 68a ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w ramach Systemu Elektronicznej Wymiany Informacji dotyczących Zabezpieczenia Społecznego, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczącym wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. UE L 284 z 30.10.2009, str. 1, z późn. zm.), za pośrednictwem punktu kontaktowego prowadzonego przez Zakład Ubezpieczeń Społecznych. 2. Instytucją łącznikową, w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczącego wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego, w odniesieniu do świadczeń podlegających przepisom o koordynacji systemów zabezpieczenia społecznego, przysługujących z budżetu państwa na podstawie przepisów niniejszej ustawy, jest organ emerytalny określony przez ministra właściwego do spraw wewnętrznych w przepisach wydanych na podstawie art. 32 ust. 2a ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2023 r. poz. 1280). 3. Wojskowy organ emerytalny określony w przepisach wydanych na podstawie art. 37 jest instytucją właściwą, instytucją miejsca zamieszkania, instytucją miejsca pobytu, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 883/2004 z dnia 29 kwietnia 2004 r. w sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. WE L 166 z 30.04.2004, str. 1, z późn. zm.), w odniesieniu do świadczeń z zaopatrzenia emerytalnego, podlegających przepisom o koordynacji systemów zabezpieczenia społecznego, przyznanych na podstawie przepisów niniejszej ustawy. ” .
+
+**Art. 38.** W ustawie z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2023 r. poz. 1280) art. 36a otrzymuje brzmienie: „ 1. Organy emerytalne wymieniają dane funkcjonariuszy zwolnionych ze służby i członków ich rodzin, w zakresie określonym w art. 68a ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w ramach Systemu Elektronicznej Wymiany Informacji dotyczących Zabezpieczenia Społecznego, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczącym wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. UE L 284 z 30.10.2009, str. 1, z późn. zm.), za pośrednictwem punktu kontaktowego prowadzonego przez Zakład Ubezpieczeń Społecznych. 2. Organ emerytalny określony w przepisach wydanych na podstawie art. 32 ust. 2a przez ministra właściwego do spraw wewnętrznych jest instytucją łącznikową, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczącego wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego, w odniesieniu do świadczeń podlegających przepisom o koordynacji systemów zabezpieczenia społecznego, przysługujących z budżetu państwa na podstawie przepisów niniejszej ustawy oraz:
+
+- **1)** przepisów ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin;
+- **2)** przepisów ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r. poz. 217, z 2022 r. poz. 2642 oraz z 2023 r. poz. 289, 614 i 1030) dotyczących uposażeń sędziów w stanie spoczynku oraz uposażeń rodzinnych członków rodzin sędziów i sędziów w stanie spoczynku;
+- **3)** przepisów ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2023 r. poz. 1360) dotyczących uposażeń prokuratorów w stanie spoczynku oraz uposażeń rodzinnych członków rodzin prokuratorów i prokuratorów w stanie spoczynku.
+
+3. Instytucją właściwą, instytucją miejsca zamieszkania, instytucją miejsca pobytu, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 883/2004 z dnia 29 kwietnia 2004 r. w sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. WE L 166 z 30.04.2004, str. 1, z późn. zm.), w odniesieniu do świadczeń z zaopatrzenia emerytalnego, podlegających przepisom o koordynacji systemów zabezpieczenia społecznego, przyznanych na podstawie przepisów niniejszej ustawy zwolnionym ze służby funkcjonariuszom:
+
+- **1)** Policji, Urzędu Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Biura Ochrony Rządu, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celnej i Służby Celno-Skarbowej oraz członkom ich rodzin – jest organ emerytalny określony w przepisach wydanych na podstawie art. 32 ust. 2a przez ministra właściwego do spraw wewnętrznych;
+- **2)** Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego – jest wojskowy organ emerytalny określony w przepisach wydanych na podstawie art. 37 ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin;
+- **3)** Służby Więziennej oraz członkom ich rodzin – jest organ emerytalny określony w przepisach wydanych na podstawie art. 32 ust. 2a przez Ministra Sprawiedliwości. ” .
 
 **Art. 39.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2023 r. poz. 100, 173, 240, 852 i 1234) wprowadza się następujące zmiany:
 
-**Art. 4c.**
+- **1)** tytuł rozdziału 2 otrzymuje brzmienie: „ Orzekanie o niepełnosprawności oraz ustalanie poziomu potrzeby wsparcia ” ;
+- **2)** po art. 4a dodaje się art. 4b i art. 4c w brzmieniu: „
 
-1. Poziom potrzeby wsparcia ustalany jest na podstawie obserwacji, wywiadu bezpośredniego oraz oceny funkcjonowania osoby ubiegającej się o ustalenie poziomu potrzeby wsparcia, przy zastosowaniu formularza w zakresie ustalania poziomu potrzeby wsparcia dla osób zaliczonych do stopnia niepełnosprawności, a także na podstawie informacji wskazanych w kwestionariuszu, o którym mowa w art. 6b ust. 3.
+1. Potrzeba wsparcia to następstwo braku lub utraty autonomii fizycznej, psychicznej, intelektualnej lub sensorycznej. Przy ustaleniu potrzeby wsparcia bierze się pod uwagę, adekwatnie do wieku oraz niepełnosprawności fizycznej, psychicznej, intelektualnej lub sensorycznej, zdolność osoby do samodzielnego wykonywania określonych czynności, związanych z obszarami codziennego funkcjonowania oraz rodzaj wymaganego wsparcia, z uwzględnieniem czasu niezbędnego do jej wykonania oraz konieczności wsparcia przez inną osobę lub technologię wspomagającą, mającą na celu zapewnienie zwiększenia lub utrzymania niezależności osoby niepełnosprawnej.
 
-2. Ustalenia poziomu potrzeby wsparcia dokonuje się, za zgodą osoby ubiegającej się o ustalenie poziomu potrzeby wsparcia w miejscu jej stałego pobytu, o którym mowa w art. 25 ust. 1 ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2022 r. poz. 1191 oraz z 2023 r. poz. 497 i
+2. Potrzebę wsparcia ustala się osobom, o których mowa w art. 1 pkt 1, osobom posiadającym orzeczenie, o którym mowa w art. 5, i osobom, o których mowa w art. 62.
 
-- **1394)** , na terenie Rzeczypospolitej Polskiej, albo w siedzibie wojewódzkiego zespołu do spraw orzekania o niepełnosprawności albo w miejscu przez niego wyznaczonym, spełniającym warunki, o których mowa w art. 6 pkt 1 ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. z 2022 r. poz. 2240).
+3. Poziom potrzeby wsparcia, o której mowa w ust. 1, ustala się w wartościach punktowych w skali od 0 do 100.
 
-3. Członkowi składu ustalającego poziom potrzeby wsparcia przysługuje ochrona prawna przewidziana dla funkcjonariuszy publicznych.”;
+1. Poziom potrzeby wsparcia ustalany jest na podstawie obserwacji, wywiadu bezpośredniego oraz oceny funkcjonowania osoby ubiegającej się o ustalenie poziomu potrzeby wsparcia, przy zastosowaniu formularza w zakresie ustalania poziomu potrzeby wsparcia dla osób zaliczonych do stopnia niepełnosprawności, a także na podstawie informacji wskazanych w kwestionariuszu, o którym mowa w art. 6b4 ust. 3.
 
-- **3)** w art. 6a dodaje się ust. 5–7 w brzmieniu: „5. Wojewódzki zespół stanowi wyodrębnioną komórkę organizacyjną w urzędzie obsługującym wojewodę, podległą bezpośrednio wojewodzie.
+2. Ustalenia poziomu potrzeby wsparcia dokonuje się, za zgodą osoby ubiegającej się o ustalenie poziomu potrzeby wsparcia w miejscu jej stałego pobytu, o którym mowa w art. 25 ust. 1 ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2022 r. poz. 1191 oraz z 2023 r. poz. 497 i 1394), na terenie Rzeczypospolitej Polskiej, albo w siedzibie wojewódzkiego zespołu do spraw orzekania o niepełnosprawności albo w miejscu przez niego wyznaczonym, spełniającym warunki, o których mowa w art. 6 pkt 1 ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. z 2022 r. poz. 2240).
+
+3. Członkowi składu ustalającego poziom potrzeby wsparcia przysługuje ochrona prawna przewidziana dla funkcjonariuszy publicznych. ” ;
+
+- **3)** w art. 6a dodaje się ust. 5–7 w brzmieniu: „
+
+5. Wojewódzki zespół stanowi wyodrębnioną komórkę organizacyjną w urzędzie obsługującym wojewodę, podległą bezpośrednio wojewodzie.
 
 6. Obsługę administracyjno-biurową wojewódzkiego zespołu zapewnia urząd obsługujący wojewodę.
 
-7. Przewodniczący wojewódzkiego zespołu reprezentuje zespół na zewnątrz i kieruje jego pracami.”;
+7. Przewodniczący wojewódzkiego zespołu reprezentuje zespół na zewnątrz i kieruje jego pracami. ” ;
 
-- **4)** w art. 6b :
-    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Wojewódzkie zespoły mogą korzystać, poprzez wymianę informacji drogą elektroniczną, z danych gromadzonych przez Zakład Ubezpieczeń Społecznych, dotyczących posiadania przez osoby, które złożyły wniosek o wydanie decyzji ustalającej poziom potrzeby wsparcia, orzeczenia o niezdolności do pracy lub orzeczenia o niezdolności do samodzielnej egzystencji, obejmujących:
+- **4)** w art. 6b2: po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+
+1a. Wojewódzkie zespoły mogą korzystać, poprzez wymianę informacji drogą elektroniczną, z danych gromadzonych przez Zakład Ubezpieczeń Społecznych, dotyczących posiadania przez osoby, które złożyły wniosek o wydanie decyzji ustalającej poziom potrzeby wsparcia, orzeczenia o niezdolności do pracy lub orzeczenia o niezdolności do samodzielnej egzystencji, obejmujących:
 
 - **1)** imię i nazwisko;
 - **2)** numer PESEL, a w razie gdy nie nadano numeru PESEL – serię i numer dokumentu potwierdzającego tożsamość oraz datę urodzenia;
 - **3)** datę wydania orzeczenia;
 - **4)** dane o niezdolności do pracy, jej stopniu oraz okresie, na który została ustalona;
-- **5)** dane o niezdolności do samodzielnej egzystencji oraz okresie, na który została ustalona.”,
-    - **b)** ust. 2 otrzymuje brzmienie: „2. W przypadku braku możliwości udostępnienia danych, o których mowa w ust. 1 albo 1a, powiatowe zespoły i wojewódzkie zespoły mogą korzystać z danych określonych w ust. 1 albo 1a w drodze pisemnej wymiany informacji. Podmioty wymienione w ust. 1 albo 1a przekazują te dane niezwłocznie, nie później jednak niż w terminie 7 dni od dnia otrzymania wniosku powiatowego zespołu lub wojewódzkiego zespołu.”;
+- **5)** dane o niezdolności do samodzielnej egzystencji oraz okresie, na który została ustalona. ” , ust. 2 otrzymuje brzmienie: „
+    - **b)**
 
-- **5)** po art. 6b dodaje się art. 6b –6b w brzmieniu: „Art. 6b . 1. Decyzję ustalającą poziom potrzeby wsparcia wydaje wojewódzki zespół na wniosek osoby, o której mowa w art. 4b ust. 2, albo na wniosek podmiotu, o którym mowa w art. 6b ust. 1 i 2, dotyczący osoby, o której mowa w art. 4b ust. 2.
+2. W przypadku braku możliwości udostępnienia danych, o których mowa w ust. 1 albo 1a, powiatowe zespoły i wojewódzkie zespoły mogą korzystać z danych określonych w ust. 1 albo 1a w drodze pisemnej wymiany informacji. Podmioty wymienione w ust. 1 albo 1a przekazują te dane niezwłocznie, nie później jednak niż w terminie 7 dni od dnia otrzymania wniosku powiatowego zespołu lub wojewódzkiego zespołu. ” ;
 
-2. Kolejna decyzja ustalająca poziom potrzeby wsparcia, może zostać wydana na wniosek osoby, o której mowa w art. 4b ust. 2, albo wniosek podmiotu, o którym mowa w art. 6b ust. 1 i 2, dotyczący osoby, o której mowa w art. 4b ust. 2, złożony nie wcześniej niż 3 miesiące przed upływem terminu ważności posiadanej decyzji, z uwzględnieniem art. 6b ust. 1.
+- **5)** po art. 6b2 dodaje się art. 6b3 – 6b6 w brzmieniu: „
+
+1. Decyzję ustalającą poziom potrzeby wsparcia wydaje wojewódzki zespół na wniosek osoby, o której mowa w art. 4b ust. 2, albo na wniosek podmiotu, o którym mowa w art. 6b ust. 1 i 2, dotyczący osoby, o której mowa w art. 4b ust. 2.
+
+2. Kolejna decyzja ustalająca poziom potrzeby wsparcia, może zostać wydana na wniosek osoby, o której mowa w art. 4b ust. 2, albo wniosek podmiotu, o którym mowa w art. 6b ust. 1 i 2, dotyczący osoby, o której mowa w art. 4b ust. 2, złożony nie wcześniej niż 3 miesiące przed upływem terminu ważności posiadanej decyzji, z uwzględnieniem art. 6b6 ust. 1.
 
 3. Wniosek o wydanie decyzji ustalającej poziom potrzeby wsparcia można złożyć wraz z wnioskiem o wydanie orzeczenia o stopniu niepełnosprawności, o którym mowa w art. 1 pkt 1.
 
@@ -406,44 +492,40 @@ source: "isap-pdf"
 
 11. Wojewódzki zespół umarza postępowanie o wydanie decyzji ustalającej poziom potrzeby wsparcia, gdy wydane przez właściwy organ orzeczenie o niezaliczeniu do stopnia niepełnosprawności stanie się ostateczne.
 
-**Art. 6b⁴.**
-
 1. Wniosek o wydanie decyzji ustalającej poziom potrzeby wsparcia zawiera:
 
-- **1)** dane osoby ubiegającej się o wydanie decyzji ustalającej poziom potrzeby wsparcia lub dane przedstawiciela ustawowego tej osoby, obejmujące:
-    - **a)** imię i nazwisko,
-    - **b)** datę i miejsce urodzenia,
-    - **c)** numer PESEL, a w przypadku gdy nie nadano numeru PESEL – numer i serię dokumentu potwierdzającego tożsamość,
-    - **d)** adres miejsca zameldowania,
-    - **e)** adres, o którym mowa w art. 4c ust. 2, jeżeli jest inny niż adres miejsca zameldowania,
-    - **f)** numer telefonu, jeżeli posiada,
-    - **g)** adres poczty elektronicznej, jeżeli posiada,
-    - **h)** dane o dokumencie tożsamości;
+- **1)** dane osoby ubiegającej się o wydanie decyzji ustalającej poziom potrzeby wsparcia lub dane przedstawiciela ustawowego tej osoby, obejmujące: imię i nazwisko, datę i miejsce urodzenia, numer PESEL, a w przypadku gdy nie nadano numeru PESEL – numer i serię dokumentu potwierdzającego tożsamość, adres miejsca zameldowania, adres, o którym mowa w art. 4c ust. 2, jeżeli jest inny niż adres miejsca zameldowania, numer telefonu, jeżeli posiada, adres poczty elektronicznej, jeżeli posiada, dane o dokumencie tożsamości;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
 
 - **2)** informację o posiadaniu, przez osobę ubiegającą się o wydanie decyzji ustalającej poziom potrzeby wsparcia, ostatecznego orzeczenia ustalającego stopień niepełnosprawności, wraz z ustalonym w nim symbolem przyczyny niepełnosprawności albo orzeczenia, o którym mowa w art. 5 albo art. 62, oraz o okresie, na który zostało wydane;
 - **3)** informację o złożeniu wniosku o wydanie orzeczenia ustalającego stopień niepełnosprawności;
 - **4)** informację o wyrażeniu zgody albo jej braku na ustalenie poziomu potrzeby wsparcia pod adresem, o którym mowa w art. 4c ust. 2.
 
-2. Wniosek, o którym mowa w ust. 1, składany przez osobę upoważnioną do reprezentowania pełnoletniej osoby niepełnosprawnej zawiera dodatkowo dane tej osoby upoważnionej, o których mowa w ust. 1 pkt 1 lit. a oraz c–g.
+2. Wniosek, o którym mowa w ust. 1, składany przez osobę upoważnioną do reprezentowania pełnoletniej osoby niepełnosprawnej zawiera dodatkowo dane tej osoby upoważnionej, o których mowa w ust. 1 pkt 1 lit. a oraz c-g.
 
 3. Do wniosku, o którym mowa w ust. 1, dołącza się wypełniony kwestionariusz samooceny trudności w zakresie wykonywania czynności związanych z funkcjonowaniem.
 
 4. Kwestionariusz, o którym mowa w ust. 3, służy dokonaniu samooceny przez osobę ubiegającą się o wydanie decyzji ustalającej poziom potrzeby wsparcia w zakresie ograniczenia lub utraty jej autonomii fizycznej, psychicznej, intelektualnej lub sensorycznej w wykonywaniu określonych czynności, związanych z obszarami codziennego funkcjonowania, z uwzględnieniem oceny poszczególnych czynności wyrażonych w wartościach punktowych, oraz wskazaniem oczekiwanego wsparcia i jego częstotliwości.
 
-5. Wnioski, o których mowa w art. 6b ust. 1, art. 6b ust. 5 i art. 6b ust. 1, rozpatrywane są w terminie nie dłuższym niż 3 miesiące od dnia wpływu do wojewódzkiego zespołu.
+5. Wnioski, o których mowa w art. 6b3 ust. 1, art. 6b5 ust. 5 i art. 6b6 ust. 1, rozpatrywane są w terminie nie dłuższym niż 3 miesiące od dnia wpływu do wojewódzkiego zespołu.
 
 6. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, wzory:
 
 - **1)** wniosku o wydanie decyzji ustalającej poziom potrzeby wsparcia,
-- **2)** kwestionariusza, o którym mowa w ust. 3 – mając na uwadze konieczność maksymalnego uproszczenia postępowania w sprawie ustalenia poziomu potrzeby wsparcia dla osoby składającej wniosek o wydanie decyzji ustalającej poziom potrzeby wsparcia oraz zapewnienie jednolitości oceny formalnoprawnej wniosku przez zespoły orzekające.
+- **2)** kwestionariusza, o którym mowa w ust. 3 mając na uwadze konieczność maksymalnego uproszczenia postępowania w sprawie ustalenia poziomu potrzeby wsparcia dla osoby składającej wniosek o wydanie decyzji ustalającej poziom potrzeby wsparcia oraz zapewnienie jednolitości oceny formalnoprawnej wniosku przez zespoły orzekające.
 
-**Art. 6b⁵.**
+1. W decyzji, o której mowa w art. 6b3 ust. 1, ustala się poziom potrzeby wsparcia, o którym mowa w art. 4b ust. 3.
 
-1. W decyzji, o której mowa w art. 6b ust. 1, ustala się poziom potrzeby wsparcia, o którym mowa w art. 4b ust. 3.
+2. W przypadku wydania kolejnej decyzji, o której mowa w art. 6b3 ust. 2, poziom potrzeby wsparcia ustala się od dnia następującego po dniu upływu terminu ważności dotychczasowej decyzji.
 
-2. W przypadku wydania kolejnej decyzji, o której mowa w art. 6b ust. 2, poziom potrzeby wsparcia ustala się od dnia następującego po dniu upływu terminu ważności dotychczasowej decyzji.
-
-3. Decyzję ustalającą poziom potrzeby wsparcia, o którym mowa w art. 4b ust. 3, wydaje się na okres, na który osoba została zaliczona do osób niepełnosprawnych na podstawie ostatecznego orzeczenia, ustalającego stopień niepełnosprawności, albo orzeczenia, o którym mowa w art. 5 albo art. 62, o których mowa w art. 6b ust. 1 pkt 2, jednakże na okres nie dłuższy niż 7 lat.
+3. Decyzję ustalającą poziom potrzeby wsparcia, o którym mowa w art. 4b ust. 3, wydaje się na okres, na który osoba została zaliczona do osób niepełnosprawnych na podstawie ostatecznego orzeczenia, ustalającego stopień niepełnosprawności, albo orzeczenia, o którym mowa w art. 5 albo art. 62, o których mowa w art. 6b4 ust. 1 pkt 2, jednakże na okres nie dłuższy niż 7 lat.
 
 4. Decyzje, o których mowa w ust. 3, podpisuje skład ustalający poziom potrzeby wsparcia.
 
@@ -454,8 +536,6 @@ source: "isap-pdf"
 7. Decyzje, o których mowa w ust. 6, podpisuje przewodniczący wojewódzkiego zespołu.
 
 8. Do właściwości miejscowej wojewódzkiego zespołu, w sprawach dotyczących wydania decyzji, przepisy art. 6 ust. 2–6 stosuje się odpowiednio.
-
-**Art. 6b⁶.**
 
 1. W przypadku zmiany zdolności do samodzielnego wykonywania określonych czynności związanych z codziennym funkcjonowaniem oraz rodzaju wymaganego wsparcia osoba, w stosunku do której została wydana decyzja ustalająca poziom potrzeby wsparcia, może w każdym czasie wystąpić z wnioskiem o wydanie nowej decyzji.
 
@@ -469,22 +549,31 @@ source: "isap-pdf"
 - **2)** szczegółowe standardy w zakresie ustalania potrzeby wsparcia i jej poziomu, wynikającej z braku lub utraty autonomii fizycznej, psychicznej, intelektualnej lub sensorycznej, dotyczących wykonywania określonych czynności, związanych z obszarami codziennego funkcjonowania, z uwzględnieniem wag danych czynności, wyrażonych w wartościach punktowych oraz rodzaju wymaganego wsparcia i jego częstotliwości w określaniu możliwości niezależnego życia w odniesieniu do wieku osoby niepełnosprawnej i uwzględniając standardy, o których mowa w art. 4b,
 - **3)** tryb i sposób przeprowadzania kontroli przez Pełnomocnika, na podstawie art. 6c ust. 2a pkt 1, 2 i 5, uwzględniając potrzebę zapewnienia jednolitej procedury kontroli oraz prawidłowego przebiegu kontroli,
 - **4)** wzór formularza w zakresie ustalania poziomu potrzeby wsparcia dla osób zaliczonych do stopnia niepełnosprawności,
-- **5)** tryb szkolenia i minima programowe szkoleń dla członków wojewódzkich zespołów ustalających poziom potrzeby wsparcia – mając na względzie zachowanie jednolitości stosowania przez zespoły orzekające narzędzia do oceny poziomu potrzeby wsparcia oraz rzetelnej oceny poziomu potrzeby wsparcia.”;
-- **6)** w art. 6c:
-    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Pełnomocnik sprawuje nadzór nad ustalaniem poziomu potrzeby wsparcia.”,
-    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Nadzór, o którym mowa w ust. 1a, obejmuje:
+- **5)** tryb szkolenia i minima programowe szkoleń dla członków wojewódzkich zespołów ustalających poziom potrzeby wsparcia mając na względzie zachowanie jednolitości stosowania przez zespoły orzekające narzędzia do oceny poziomu potrzeby wsparcia oraz rzetelnej oceny poziomu potrzeby wsparcia. ” ;
+- **6)** w art. 6c: po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
 
-- **1)** kontrolę prawidłowości i jednolitości stosowania przepisów, standardów, o których mowa w art. 4b, oraz przepisów wydanych na podstawie art. 6b ust. 4 pkt 2 i procedur postępowania w sprawach dotyczących ustalania poziomu potrzeby wsparcia;
+1a. Pełnomocnik sprawuje nadzór nad ustalaniem poziomu potrzeby wsparcia. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+
+- **b)**
+
+2a. Nadzór, o którym mowa w ust. 1a, obejmuje:
+
+- **1)** kontrolę prawidłowości i jednolitości stosowania przepisów, standardów, o których mowa w art. 4b, oraz przepisów wydanych na podstawie art. 6b6 ust. 4 pkt 2 i procedur postępowania w sprawach dotyczących ustalania poziomu potrzeby wsparcia;
 - **2)** kontrolę decyzji ustalających poziom potrzeby wsparcia co do ich zgodności z zebranymi dokumentami lub z przepisami dotyczącymi wydawania decyzji ustalających poziom potrzeby wsparcia;
 - **3)** szkolenie członków wojewódzkich zespołów ustalających poziom potrzeby wsparcia;
 - **4)** udzielanie wyjaśnień i wytycznych w zakresie stosowania przepisów regulujących postępowanie w sprawach dotyczących ustalania poziomu potrzeby wsparcia;
-- **5)** prawo przekazania sprawy do rozpatrzenia przez wojewódzki zespół, jeżeli w wyniku kontroli, o której mowa w pkt 1 i 2, zostanie stwierdzony brak zgodności decyzji ustalającej poziom potrzeby wsparcia ze stanem faktycznym lub zasadami wydawania decyzji ustalających poziom potrzeby wsparcia.”,
-    - **c)** ust. 3 otrzymuje brzmienie: „3. Jeżeli w ramach nadzoru Pełnomocnik stwierdzi, że orzeczenie o niepełnosprawności albo o stopniu niepełnosprawności lub decyzja ustalająca poziom potrzeby wsparcia wydane zostały w sposób niezgodny z przepisami prawa lub ze stanem faktycznym, może zwrócić się do właściwego organu o:
+- **5)** prawo przekazania sprawy do rozpatrzenia przez wojewódzki zespół, jeżeli w wyniku kontroli, o której mowa w pkt 1 i 2, zostanie stwierdzony brak zgodności decyzji ustalającej poziom potrzeby wsparcia ze stanem faktycznym lub zasadami wydawania decyzji ustalających poziom potrzeby wsparcia. ” , ust. 3 otrzymuje brzmienie: „
+    - **c)**
+
+3. Jeżeli w ramach nadzoru Pełnomocnik stwierdzi, że orzeczenie o niepełnosprawności albo o stopniu niepełnosprawności lub decyzja ustalająca poziom potrzeby wsparcia wydane zostały w sposób niezgodny z przepisami prawa lub ze stanem faktycznym, może zwrócić się do właściwego organu o:
 
 - **1)** stwierdzenie nieważności orzeczenia o niepełnosprawności albo o stopniu niepełnosprawności lub decyzji ustalającej poziom potrzeby wsparcia;
 - **2)** wznowienie postępowania w sprawie wydania orzeczenia o niepełnosprawności albo o stopniu niepełnosprawności lub decyzji ustalającej poziom potrzeby wsparcia;
-- **3)** uchylenie orzeczenia o niepełnosprawności albo o stopniu niepełnosprawności lub decyzji ustalającej poziom potrzeby wsparcia.”,
-    - **d)** po ust. 3 dodaje się ust. 3a–3g w brzmieniu: „3a. O uchyleniu orzeczenia o niepełnosprawności albo o stopniu niepełnosprawności lub decyzji ustalającej poziom potrzeby wsparcia organ rozstrzyga w drodze decyzji administracyjnej. Wydanie decyzji administracyjnej nie wymaga zgody strony albo jej przedstawiciela ustawowego.
+- **3)** uchylenie orzeczenia o niepełnosprawności albo o stopniu niepełnosprawności lub decyzji ustalającej poziom potrzeby wsparcia. ” , po ust. 3 dodaje się ust. 3a-3g w brzmieniu: „
+    - **d)**
+
+3a. O uchyleniu orzeczenia o niepełnosprawności albo o stopniu niepełnosprawności lub decyzji ustalającej poziom potrzeby wsparcia organ rozstrzyga w drodze decyzji administracyjnej. Wydanie decyzji administracyjnej nie wymaga zgody strony albo jej przedstawiciela ustawowego.
 
 3b. Organem właściwym w sprawach, o których mowa w ust. 3a, jest minister właściwy do spraw zabezpieczenia społecznego.
 
@@ -496,48 +585,247 @@ source: "isap-pdf"
 
 3f. Od decyzji, o których mowa w ust. 3c, przysługuje odwołanie do ministra właściwego do spraw zabezpieczenia społecznego.
 
-3g. W postępowaniu, o którym mowa w ust. 3 pkt 3, przy ocenie niezgodności orzeczenia lub decyzji z przepisami prawa lub ze stanem faktycznym, bierze się pod uwagę, czy zaliczenie do stopnia niepełnosprawności, o którym mowa w art. 4 ust. 1–3, albo do niepełnosprawności, o której mowa w art. 4a, lub ustalenie poziomu potrzeby wsparcia, o którym mowa w art. 4b ust. 2, pozostaje w sprzeczności z materiałem dowodowym zgromadzonym w postępowaniu o wydanie orzeczenia lub decyzji.”,
+3g. W postępowaniu, o którym mowa w ust. 3 pkt 3, przy ocenie niezgodności orzeczenia lub decyzji z przepisami prawa lub ze stanem faktycznym, bierze się pod uwagę, czy zaliczenie do stopnia niepełnosprawności, o którym mowa w art. 4 ust. 1–3, albo do niepełnosprawności, o której mowa w art. 4a, lub ustalenie poziomu potrzeby wsparcia, o którym mowa w art. 4b ust. 2, pozostaje w sprzeczności z materiałem dowodowym zgromadzonym w postępowaniu o wydanie orzeczenia lub decyzji. ” , w ust. 5 zdanie pierwsze otrzymuje brzmienie: „ Nadzór, o którym mowa w ust. 2 pkt 1 i 2 oraz ust. 2a pkt 1 i 2, w imieniu Pełnomocnika realizują upoważnione przez niego osoby, posiadające wiedzę niezbędną do przeprowadzania kontroli. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
 
-- **e)** w ust. 5 zdanie pierwsze otrzymuje brzmienie: „Nadzór, o którym mowa w ust. 2 pkt 1 i 2 oraz ust. 2a pkt 1 i 2, w imieniu Pełnomocnika realizują upoważnione przez niego osoby, posiadające wiedzę niezbędną do przeprowadzania kontroli.”,
-- **f)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Przepisy ust. 4 stosuje się odpowiednio do decyzji ustalającej poziom potrzeby wsparcia.”,
-- **g)** ust. 8 otrzymuje brzmienie: „8. Od orzeczenia i decyzji ustalającej poziom potrzeby wsparcia wojewódzkiego zespołu przysługuje odwołanie do sądu pracy i ubezpieczeń społecznych.”;
-- **7)** w art. 6d: o świadczeniu wspierającym (Dz. U. poz. 1429), w zakresie posiadania decyzji ustalającej poziom potrzeby wsparcia, wartości punktowych określających poziom potrzeby wsparcia oraz informacji o okresie na który została wydana decyzja, dacie złożenia wniosku o wydanie decyzji, dacie wydania decyzji, dacie ustalenia poziomu potrzeby wsparcia, dacie, w której decyzja stała się ostateczna, oraz dacie uprawomocnienia się decyzji lub wyroku.”,
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Tworzy się Elektroniczny Krajowy System Monitoringu Orzekania o Niepełnosprawności, zwany dalej „systemem”, w którym przetwarza się dane w celu usprawnienia i podniesienia jakości orzekania o niepełnosprawności, ustalania poziomu potrzeby wsparcia oraz realizacji zadań przez zespoły orzekające o niepełnosprawności.”,
-    - **b)** w ust. 3: – po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) osób, które złożyły wniosek o wydanie decyzji ustalającej poziom potrzeby wsparcia;”, – pkt 2 otrzymuje brzmienie: „2) przedstawicieli ustawowych osób, o których mowa w pkt 1 i 1a, oraz osób upoważnionych do reprezentowania pełnoletniej osoby niepełnosprawnej;”,
-    - **c)** w ust. 4: – po pkt 2a dodaje się pkt 2b w brzmieniu: „2b) dane dotyczące stanu zdrowia osób, o których mowa w ust. 3 pkt 1a;”, – po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) dane dotyczące daty złożenia wniosku o wydanie decyzji ustalającej poziom potrzeby wsparcia, daty wydania decyzji ustalającej poziom potrzeby wsparcia, daty ustalenia poziomu potrzeby wsparcia, wartości punktowych określających poziom potrzeby wsparcia, o których mowa w art. 4b ust. 3, okresu na który została wydana decyzja, daty, w której decyzja stała się ostateczna, daty uprawomocnienia się decyzji lub wyroku;”,
-    - **d)** w ust. 4a w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „9) Zakładowi Ubezpieczeń Społecznych – w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie wspierające, o którym mowa w art. 1 ustawy z dnia 7 lipca 2023 r.
-    - **e)** po ust. 4d dodaje się ust. 4e i 4f w brzmieniu: „4e. Dane gromadzone w systemie w bazach danych prowadzonych przez powiatowe zespoły albo wojewódzkie zespoły udostępnia się wojewódzkim zespołom, w celu weryfikacji danych osób ubiegających się o wydanie decyzji ustalającej poziom potrzeby wsparcia, w zakresie posiadania orzeczenia o stopniu niepełnosprawności, wraz z symbolem przyczyny niepełnosprawności oraz okresie, na który zostało wydane. Przepisy ust. 4b–4d stosuje się odpowiednio.
+- **e)**
+- **f)**
 
-4f. Minister właściwy do spraw informatyzacji po otrzymaniu od ministra właściwego do spraw zabezpieczenia społecznego informacji dotyczących osób, które uzyskały orzeczenie o niepełnosprawności, orzeczenie o stopniu niepełnosprawności lub o wskazaniach do ulg i uprawnień, niezwłocznie przekazuje z rejestru Powszechnego Elektronicznego Systemu Ewidencji Ludności posiadane dane dotyczące zgonu posiadacza orzeczenia, o których mowa w art. 8 pkt 26 ustawy z dnia 24 września 2010 r. o ewidencji ludności.”;
+5a. Przepisy ust. 4 stosuje się odpowiednio do decyzji ustalającej poziom potrzeby wsparcia. ” , ust. 8 otrzymuje brzmienie: „
 
-- **8)** w art. 11:
-    - **a)** w ust. 2 w pkt 12 kropkę zastępuje się średnikiem i dodaje pkt 13 w brzmieniu: „13) robót publicznych.”,
-    - **b)** w ust. 3 pkt 2 otrzymuje brzmienie: „2) poszukujące pracy niepozostające w zatrudnieniu – ze środków Funduszu, a w przypadku ich braku – z Funduszu Pracy.”;
+- **g)**
 
-- **9)** w art. 66 ust. 2 otrzymuje brzmienie: „2. W postępowaniach o ustalenie niepełnosprawności albo stopnia niepełnosprawności lub w postępowaniach o ustalenie poziomu potrzeby wsparcia nie stosuje się przepisu art. 79a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.”;
-- **10)** w art. 68gd:
-    - **a)** w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii oraz w okresie 6 miesięcy po odwołaniu tego z nich, który obowiązywał jako ostatni, kwota do 20% środków zakładowego funduszu rehabilitacji osób niepełnosprawnych lub zakładowego funduszu aktywności oraz do 20% kwoty podlegającej zwrotowi na te fundusze na podstawie art. 29 ust. 3a lub art. 33 ust. 4a, może być przeznaczona na:”,
-    - **b)** dodaje się ust. 6 i 7 w brzmieniu: „6. Wydatki objęte zgodą dysponenta Funduszu wyrażoną w okresie, o którym mowa w ust. 1, mogą być dokonywane również po zakończeniu tego okresu.
+8. Od orzeczenia i decyzji ustalającej poziom potrzeby wsparcia wojewódzkiego zespołu przysługuje odwołanie do sądu pracy i ubezpieczeń społecznych. ” ;
 
-7. Zgoda, o której mowa w ust. 2, może być udzielona również po upływie okresu, o którym mowa w ust. 1, pod warunkiem spełnienia warunku określonego w ust. 4 oraz objęcia zgodą wyłącznie wydatków do poniesienia w okresie do 6 miesięcy, licząc od dnia upływu okresu, o którym mowa w ust. 1.”;
+- **7)** w art. 6d: ust. 1 otrzymuje brzmienie: „
+    - **a)**
 
-- **11)** w art. 68gf dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Przepis ust. 1 stosuje się również po upływie okresu, o którym mowa w ust. 1:
+1. Tworzy się Elektroniczny Krajowy System Monitoringu Orzekania o Niepełnosprawności, zwany dalej „systemem”, w którym przetwarza się dane w celu usprawnienia i podniesienia jakości orzekania o niepełnosprawności, ustalania poziomu potrzeby wsparcia oraz realizacji zadań przez zespoły orzekające o niepełnosprawności. ” , w ust. 3: – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) osób, które złożyły wniosek o wydanie decyzji ustalającej poziom potrzeby wsparcia; ” , – pkt 2 otrzymuje brzmienie: „ 2) przedstawicieli ustawowych osób, o których mowa w pkt 1 i 1a, oraz osób upoważnionych do reprezentowania pełnoletniej osoby niepełnosprawnej; ” , w ust. 4: – po pkt 2a dodaje się pkt 2b w brzmieniu: „ 2b) dane dotyczące stanu zdrowia osób, o których mowa w ust. 3 pkt 1a; ” , – po pkt 5 dodaje się pkt 5a w brzmieniu: „ 5a) dane dotyczące daty złożenia wniosku o wydanie decyzji ustalającej poziom potrzeby wsparcia, daty wydania decyzji ustalającej poziom potrzeby wsparcia, daty ustalenia poziomu potrzeby wsparcia, wartości punktowych określających poziom potrzeby wsparcia, o których mowa w art. 4b ust. 3, okresu na który została wydana decyzja, daty, w której decyzja stała się ostateczna, daty uprawomocnienia się decyzji lub wyroku; ” , w ust. 4a w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „
+
+- **b)**
+- **c)**
+- **d)**
+- **9)** Zakładowi Ubezpieczeń Społecznych – w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie wspierające, o którym mowa w art. 1 ustawy z dnia 7 lipca 2023 r. o świadczeniu wspierającym (Dz. U. poz. 1429), w zakresie posiadania decyzji ustalającej poziom potrzeby wsparcia, wartości punktowych określających poziom potrzeby wsparcia oraz informacji o okresie na który została wydana decyzja, dacie złożenia wniosku o wydanie decyzji, dacie wydania decyzji, dacie ustalenia poziomu potrzeby wsparcia, dacie, w której decyzja stała się ostateczna, oraz dacie uprawomocnienia się decyzji lub wyroku. ” , po ust. 4d dodaje się ust. 4e i 4f w brzmieniu: „
+    - **e)**
+
+4e. Dane gromadzone w systemie w bazach danych prowadzonych przez powiatowe zespoły albo wojewódzkie zespoły udostępnia się wojewódzkim zespołom, w celu weryfikacji danych osób ubiegających się o wydanie decyzji ustalającej poziom potrzeby wsparcia, w zakresie posiadania orzeczenia o stopniu niepełnosprawności, wraz z symbolem przyczyny niepełnosprawności oraz okresie, na który zostało wydane. Przepisy ust. 4b-4d stosuje się odpowiednio.
+
+4f. Minister właściwy do spraw informatyzacji po otrzymaniu od ministra właściwego do spraw zabezpieczenia społecznego informacji dotyczących osób, które uzyskały orzeczenie o niepełnosprawności, orzeczenie o stopniu niepełnosprawności lub o wskazaniach do ulg i uprawnień, niezwłocznie przekazuje z rejestru Powszechnego Elektronicznego Systemu Ewidencji Ludności posiadane dane dotyczące zgonu posiadacza orzeczenia, o których mowa w art. 8 pkt 26 ustawy z dnia 24 września 2010 r. o ewidencji ludności. ” ;
+
+- **8)** w art. 11: w ust. 2 w pkt 12 kropkę zastępuje się średnikiem i dodaje pkt 13 w brzmieniu: „
+    - **a)**
+
+- **13)** robót publicznych. ” , w ust. 3 pkt 2 otrzymuje brzmienie: „
+    - **b)**
+
+- **2)** poszukujące pracy niepozostające w zatrudnieniu – ze środków Funduszu, a w przypadku ich braku – z Funduszu Pracy. ” ;
+- **9)** w art. 66 ust. 2 otrzymuje brzmienie: „
+
+2. W postępowaniach o ustalenie niepełnosprawności albo stopnia niepełnosprawności lub w postępowaniach o ustalenie poziomu potrzeby wsparcia nie stosuje się przepisu art. 79a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. ” ;
+
+- **10)** w art. 68gd: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii oraz w okresie 6 miesięcy po odwołaniu tego z nich, który obowiązywał jako ostatni, kwota do 20% środków zakładowego funduszu rehabilitacji osób niepełnosprawnych lub zakładowego funduszu aktywności oraz do 20% kwoty podlegającej zwrotowi na te fundusze na podstawie art. 29 ust. 3a1 lub art. 33 ust. 4a, może być przeznaczona na: ” , dodaje się ust. 6 i 7 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+6. Wydatki objęte zgodą dysponenta Funduszu wyrażoną w okresie, o którym mowa w ust. 1, mogą być dokonywane również po zakończeniu tego okresu.
+
+7. Zgoda, o której mowa w ust. 2, może być udzielona również po upływie okresu, o którym mowa w ust. 1, pod warunkiem spełnienia warunku określonego w ust. 4 oraz objęcia zgodą wyłącznie wydatków do poniesienia w okresie do 6 miesięcy, licząc od dnia upływu okresu, o którym mowa w ust. 1. ” ;
+
+- **11)** w art. 68gf dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
+
+2. Przepis ust. 1 stosuje się również po upływie okresu, o którym mowa w ust. 1:
+
 - **1)** w zakresie wynikającym z wydanych w tym okresie decyzji, o których mowa w art. 49 ust. 5c, lub z zawartych w tym okresie umów, o których mowa w art. 49f ust. 1 pkt 2;
-- **2)** do spraw wszczętych w wyniku złożonego w tym okresie wniosku o wydanie decyzji, o której mowa w art. 49 ust. 5c, lub wniosku o zawarcie umowy, o której mowa w art. 49f ust. 1 pkt 2, i niezakończonych przed upływem okresu, o którym mowa w ust. 1.”;
-- **12)** art. 68gg otrzymuje brzmienie: „Art. 68gg. Za miesiące przypadające w części lub w całości w okresie stanu epidemii albo stanu zagrożenia epidemicznego oraz w okresie 6 miesięcy następujących bezpośrednio po odwołaniu tego z nich, który obowiązywał jako ostatni, wskaźnik zatrudnienia osób niepełnosprawnych, o którym mowa w art. 33 ust. 7b, wynosi co najmniej 18%.”;
-- **13)** po art. 68gh dodaje się art. 68gi w brzmieniu: „Art. 68gi. 1. W odniesieniu do projektów, których realizacja w części lub w całości przypadała w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii oraz w terminie 30 dni następujących po ich odwołaniu, organ administracji publicznej zlecający na podstawie art. 36 realizację zadania publicznego organizacjom pozarządowym, o których mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, oraz podmiotom wymienionym w art. 3 ust. 3 tej ustawy jest uprawniony, również po upływie tego okresu, do przedłużenia terminu na złożenie sprawozdania z wykonania zleconego zadania publicznego oraz rozliczenia udzielonej dotacji na realizację zadania publicznego z pominięciem terminów wynikających z ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, a także do uznania za uzasadnione wydatków poniesionych na sfinansowanie działań realizowanych w ramach zleconego zadania publicznego, które zostały odwołane w następstwie okoliczności związanych z obowiązywaniem stanu zagrożenia epidemicznego albo stanu epidemii.
+- **2)** do spraw wszczętych w wyniku złożonego w tym okresie wniosku o wydanie decyzji, o której mowa w art. 49 ust. 5c, lub wniosku o zawarcie umowy, o której mowa w art. 49f ust. 1 pkt 2, i niezakończonych przed upływem okresu, o którym mowa w ust. 1. ” ;
+- **12)** art. 68gg otrzymuje brzmienie: „ Art. 68gg. Za miesiące przypadające w części lub w całości w okresie stanu epidemii albo stanu zagrożenia epidemicznego oraz w okresie 6 miesięcy następujących bezpośrednio po odwołaniu tego z nich, który obowiązywał jako ostatni, wskaźnik zatrudnienia osób niepełnosprawnych, o którym mowa w art. 33 ust. 7b, wynosi co najmniej 18%. ” ;
+- **13)** po art. 68gh dodaje się art. 68gi w brzmieniu: „
 
-2. W przypadku, o którym mowa w ust. 1, niewykonanie planu działań lub nieosiągnięcie rezultatów założonych w umowie, na podstawie której zlecono realizację zadania publicznego, nie może skutkować uznaniem dotacji na realizację zadania publicznego w tej części za wykorzystaną niezgodnie z przeznaczeniem, pobraną nienależnie lub w nadmiernej wysokości i podlegającą zwrotowi.”.
+1. W odniesieniu do projektów, których realizacja w części lub w całości przypadała w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii oraz w terminie 30 dni następujących po ich odwołaniu, organ administracji publicznej zlecający na podstawie art. 36 realizację zadania publicznego organizacjom pozarządowym, o których mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, oraz podmiotom wymienionym w art. 3 ust. 3 tej ustawy jest uprawniony, również po upływie tego okresu, do przedłużenia terminu na złożenie sprawozdania z wykonania zleconego zadania publicznego oraz rozliczenia udzielonej dotacji na realizację zadania publicznego z pominięciem terminów wynikających z ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, a także do uznania za uzasadnione wydatków poniesionych na sfinansowanie działań realizowanych w ramach zleconego zadania publicznego, które zostały odwołane w następstwie okoliczności związanych z obowiązywaniem stanu zagrożenia epidemicznego albo stanu epidemii.
+
+2. W przypadku, o którym mowa w ust. 1, niewykonanie planu działań lub nieosiągnięcie rezultatów założonych w umowie, na podstawie której zlecono realizację zadania publicznego, nie może skutkować uznaniem dotacji na realizację zadania publicznego w tej części za wykorzystaną niezgodnie z przeznaczeniem, pobraną nienależnie lub w nadmiernej wysokości i podlegającą zwrotowi. ” .
 
 **Art. 40.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2023 r. poz. 1230) wprowadza się następujące zmiany:
 
-**Art. 41.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251) w art. 139 w ust. 1 po pkt 7a dodaje się pkt 7b w brzmieniu: „7b) kwoty nienależnie pobranego świadczenia wspierającego, o którym mowa w ustawie z dnia 7 lipca 2023 r. o świadczeniu wspierającym (Dz. U. poz. 1429);”.
+- **1)** w art. 4 w pkt 2 lit. m otrzymuje brzmienie: „ Zakład – w stosunku do osób podlegających ubezpieczeniom społecznym z tytułu pobierania zasiłku macierzyńskiego albo zasiłku w wysokości zasiłku macierzyńskiego, jeżeli zasiłki te wypłaca Zakład, w stosunku do osób określonych w art. 6a ust. 1 i art. 6b ust. 1 oraz osób niepodejmujących zatrudnienia lub innej pracy zarobkowej, o których mowa w art. 6c ust. 1, ” ;
+    - **m)**
 
-**Art. 42.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r. poz. 217, z 2022 r. poz. 2642 oraz z 2023 r. poz. 289, 614 i 1030) w art. 175a dodaje się § 4–6 w brzmieniu: „§ 4. Instytucją łącznikową, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczącego wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego, w odniesieniu do uposażeń sędziów w stanie spoczynku oraz uposażeń rodzinnych członków rodzin sędziów i sędziów w stanie spoczynku, podlegających przepisom o koordynacji systemów zabezpieczenia społecznego, przysługujących z budżetu państwa na podstawie przepisów niniejszej ustawy, jest organ emerytalny określony przez ministra właściwego do spraw wewnętrznych w przepisach wykonawczych wydanych na podstawie art. 32 ust. 2a ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2023 r. poz. 1280 i 1429).
+- **2)** w art. 6 ust. 2a i 2b otrzymują brzmienie: „
+
+2a. Za osobę pobierającą świadczenie pielęgnacyjne, specjalny zasiłek opiekuńczy albo zasiłek dla opiekuna wójt, burmistrz lub prezydent miasta opłaca składkę na ubezpieczenia emerytalne i rentowe od podstawy odpowiadającej wysokości odpowiednio:
+
+- **1)** pobieranego świadczenia pielęgnacyjnego albo pobieranego specjalnego zasiłku opiekuńczego przysługujących na podstawie przepisów o świadczeniach rodzinnych,
+- **2)** pobieranego zasiłku dla opiekuna przysługującego na podstawie przepisów o ustaleniu i wypłacie zasiłków dla opiekunów przez okres niezbędny do uzyskania okresu ubezpieczenia (składkowego i nieskładkowego) odpowiednio 20-letniego przez kobietę i 25-letniego przez mężczyznę.
+
+2b. Wójt, burmistrz lub prezydent miasta nie opłaca składki na ubezpieczenia emerytalne i rentowe:
+
+- **1)** za osobę pobierającą świadczenie pielęgnacyjne, specjalny zasiłek opiekuńczy albo zasiłek dla opiekuna, jeżeli podlega ona obowiązkowi ubezpieczenia społecznego z innego tytułu na podstawie ustawy lub na podstawie odrębnych przepisów lub
+- **2)** za osobę pobierającą świadczenie pielęgnacyjne wyłącznie na podstawie art. 17 ust. 4a ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2023 r. poz. 390, 658 i 852);
+- **3)** od podstawy odpowiadającej wysokości podwyższenia świadczenia pielęgnacyjnego pobieranego na podstawie art. 17 ust. 4a ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych w przypadku, o którym mowa w art. 17 ust. 3e ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych. ” ;
+- **3)** po art. 6b dodaje się art. 6c w brzmieniu: „
+
+1. Obowiązkowo ubezpieczeniom emerytalnemu i rentowym podlegają, z zastrzeżeniem art. 8 i art. 9, osoby fizyczne, które na obszarze Rzeczypospolitej Polskiej są osobami niepodejmującymi zatrudnienia lub innej pracy zarobkowej ze względu na potrzebę udzielenia wsparcia osobie pobierającej świadczenie wspierające, o którym mowa w ustawie z dnia 7 lipca 2023 r. o świadczeniu wspierającym (Dz. U. poz. 1429), wspólnie z nią zamieszkujące i gospodarujące, przez okres sprawowania opieki.
+
+2. Prawo do objęcia ubezpieczeniami emerytalnym i rentowymi przysługuje jednej osobie sprawującej opiekę. ” ;
+
+- **4)** w art. 9 ust. 6 otrzymuje brzmienie: „
+
+6. Osoby, o których mowa w art. 6 ust. 1 pkt 8, art. 6a ust. 1, art. 6b ust. 1, oraz osoby niepodejmujące zatrudnienia lub innej pracy zarobkowej, o których mowa w art. 6c ust. 1, a także osoby przebywające na urlopach wychowawczych podlegają obowiązkowo ubezpieczeniom emerytalnemu i rentowym albo odpowiednio ubezpieczeniu emerytalnemu, jeżeli nie mają ustalonego prawa do emerytury lub renty i nie mają innych tytułów rodzących obowiązek ubezpieczeń społecznych. ” ;
+
+- **5)** w art. 12 ust. 2 otrzymuje brzmienie: „
+
+2. Nie podlegają ubezpieczeniu wypadkowemu bezrobotni pobierający zasiłek dla bezrobotnych lub świadczenie integracyjne, posłowie do Parlamentu Europejskiego, o których mowa w art. 1 ust. 1 ustawy z dnia 30 lipca 2004 r. o uposażeniu posłów do Parlamentu Europejskiego wybranych w Rzeczypospolitej Polskiej, osoby, o których mowa w art. 6 ust. 1 pkt 2, 11, 19–22, art. 6a i art. 7, oraz osoby niepodejmujące zatrudnienia lub innej pracy zarobkowej, o których mowa w art. 6c ust. 1. ” ;
+
+- **6)** w art. 13 po pkt 13a dodaje się pkt 13b w brzmieniu: „
+- **13b)** osoby niepodejmujące zatrudnienia lub innej pracy zarobkowej, o których mowa w art. 6c ust. 1 – od dnia określonego we wniosku, o którym mowa w art. 36c, jako dzień rozpoczęcia sprawowania opieki nad osobą pobierającą świadczenie wspierające, nie wcześniej jednak niż od dnia, w którym wniosek został złożony, do dnia wskazanego we wniosku jako dzień zakończenia sprawowania opieki nad tą osobą; ” ;
+- **7)** w art. 16 ust. 8 otrzymuje brzmienie: „
+
+8. Składki na ubezpieczenia emerytalne i rentowe osób przebywających na urlopach wychowawczych, osób, o których mowa w art. 6a ust. 1, osób niepodejmujących zatrudnienia lub innej pracy zarobkowej, o których mowa w art. 6c ust. 1, lub osób pobierających zasiłek macierzyński albo zasiłek w wysokości zasiłku macierzyńskiego, oraz składki na ubezpieczenie emerytalne osób, o których mowa w art. 6b ust. 1, finansuje w całości budżet państwa za pośrednictwem Zakładu. ” ;
+
+- **8)** w art. 18 po ust. 5e dodaje się ust. 5f w brzmieniu: „
+
+5f. Podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe osób niepodejmujących zatrudnienia lub innej pracy zarobkowej, o których mowa w art. 6c ust. 1, stanowi kwota odpowiadająca wysokości pobieranego świadczenia wspierającego przez osobę, nad którą sprawowana jest opieka. ” ;
+
+- **9)** w art. 36 po ust. 2b dodaje się ust. 2c w brzmieniu: „
+
+2c. Zgłoszenie do ubezpieczeń społecznych osób niepodejmujących zatrudnienia lub innej pracy zarobkowej, o których mowa w art. 6c ust. 1, i wyrejestrowanie z tych ubezpieczeń, w przypadku ustania warunków uzasadniających opłacanie składek, należy do Zakładu. ” ;
+
+- **10)** po art. 36b dodaje się art. 36c w brzmieniu: „
+
+1. Osoby niepodejmujące zatrudnienia lub innej pracy zarobkowej, o których mowa w art. 6c ust. 1, składają wniosek o zamiarze podlegania przez nie ubezpieczeniom emerytalnemu i rentowym oraz o zgłoszenie członków ich rodziny do ubezpieczenia zdrowotnego, który zawiera:
+
+- **1)** imię i nazwisko osoby niepodejmującej zatrudnienia lub innej pracy zarobkowej, datę urodzenia, adres miejsca zamieszkania, obywatelstwo, płeć, oraz jej numer PESEL, a w razie gdy nie nadano numeru PESEL – serię i numer dokumentu potwierdzającego tożsamość, adres elektroniczny, numer telefonu;
+- **2)** dzień rozpoczęcia sprawowania opieki nad osobą pobierającą świadczenie wspierające;
+- **3)** dzień zakończenia sprawowania opieki nad osobą pobierającą świadczenie wspierające;
+- **4)** oświadczenie o wspólnym zamieszkiwaniu i gospodarowaniu;
+- **5)** imię i nazwisko osoby pobierającej świadczenie wspierające, datę jej urodzenia oraz jej numer PESEL, a w razie gdy nie nadano numeru PESEL – serię i numer dokumentu potwierdzającego tożsamość;
+- **6)** inne dane niezbędne do zgłoszenia do ubezpieczeń emerytalnego i rentowych oraz ubezpieczenia zdrowotnego osoby niepodejmującej zatrudnienia lub innej pracy zarobkowej, o której mowa w art. 6c ust. 1, oraz członków jej rodziny.
+
+2. Informacje przedstawione we wniosku, o którym mowa w ust. 1, składa się pod rygorem odpowiedzialności karnej za składanie fałszywego oświadczenia. Składający wniosek jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie Zakładu o odpowiedzialności karnej za składanie fałszywych zeznań.
+
+3. Jeżeli ubezpieczony przestanie spełniać warunki do objęcia ubezpieczeniami emerytalnym i rentowymi, o których mowa w art. 6c ust. 1, lub ubezpieczeniem zdrowotnym, składa nie później niż w terminie 7 dni od dnia zaistnienia tych okoliczności do Zakładu informację o zaprzestaniu spełniania warunków do objęcia ubezpieczeniami emerytalnym i rentowymi lub ubezpieczeniem zdrowotnym.
+
+4. Wniosek, o którym mowa w ust. 1, oraz informacja o zaprzestaniu spełniania warunków, są składane do Zakładu wyłącznie w postaci elektronicznej za pomocą profilu informacyjnego utworzonego w systemie teleinformatycznym udostępnionym przez Zakład.
+
+5. Potwierdzenie złożenia w postaci elektronicznej wniosku, o którym mowa w ust. 1, zgłoszenia do ubezpieczeń emerytalnego i rentowych lub do ubezpieczenia zdrowotnego, zgłoszenia członka rodziny do ubezpieczenia zdrowotnego, wyrejestrowania z tych ubezpieczeń oraz informacji o zaprzestaniu spełniania warunków, jest udostępniane wnioskodawcy na jego profilu informacyjnym w sposób określony w art. 13 ust. 2 ustawy z dnia 7 lipca 2023 r. o świadczeniu wspierającym.
+
+6. Zakład jest obowiązany do zapewnienia w swojej siedzibie, oddziale lub innej wyznaczonej jednostce organizacyjnej możliwości założenia profilu informacyjnego, o którym mowa w ust. 4, a także do zapewnienia pomocy przy składaniu wniosku, o którym mowa w ust. 1, oraz informacji o zaprzestaniu spełniania warunków.
+
+7. Zakład gromadzi dokumentację, o której mowa w ust. 1 i 3, w systemie teleinformatycznym Zakładu w formie dokumentów elektronicznych.
+
+8. W przypadku złożenia nieprawidłowo wypełnionego wniosku, o którym mowa w ust. 1, Zakład wzywa wnioskodawcę do poprawienia lub uzupełnienia wniosku w terminie 14 dni od dnia otrzymania wezwania. Niezastosowanie się do wezwania skutkuje pozostawieniem wniosku bez rozpatrzenia. ” ;
+
+- **11)** w art. 50 dodaje się ust. 25–27 w brzmieniu: „
+
+25. Zakład udostępnia wojewódzkim zespołom do spraw orzekania o niepełnosprawności, drogą elektroniczną, w związku z postępowaniem o wydanie decyzji ustalającej poziom potrzeby wsparcia, o której mowa w art. 6b3 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2023 r. poz. 100, 173, 240, 852, 1234 i 1429), dane o posiadaniu przez osoby, które złożyły wniosek o wydanie tej decyzji, orzeczenia o niezdolności do pracy lub orzeczenia o niezdolności do samodzielnej egzystencji, o którym mowa w art. 5 tej ustawy, obejmujące:
+
+- **1)** imię i nazwisko;
+- **2)** numer PESEL, a w razie gdy nie nadano numeru PESEL – serię i numer dokumentu potwierdzającego tożsamość oraz datę urodzenia;
+- **3)** datę wydania orzeczenia;
+- **4)** dane o niezdolności do pracy, jej stopniu oraz okresie, na który została ustalona;
+- **5)** dane o niezdolności do samodzielnej egzystencji oraz okresie, na który została ustalona.
+
+26. W przypadku braku możliwości udostępnienia danych, o których mowa w ust. 25, drogą elektroniczną, Zakład udostępnia dane w drodze pisemnej wymiany informacji, na wniosek wojewódzkiego zespołu do spraw orzekania o niepełnosprawności, niezwłocznie, nie później niż w terminie 7 dni od daty otrzymania wniosku.
+
+27. Zakład udostępnia wojewódzkim zespołom do spraw orzekania o niepełnosprawności, w drodze pisemnej wymiany informacji, w związku z postępowaniem o wydanie decyzji ustalającej poziom potrzeby wsparcia, o której mowa w art. 6b3 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, dane o posiadaniu przez osoby, które złożyły wniosek o wydanie tej decyzji, orzeczenia, o którym mowa w art. 62 ust. 1 i 2 tej ustawy, obejmujące:
+
+- **1)** imię i nazwisko;
+- **2)** numer PESEL, a w razie gdy nie nadano numeru PESEL – serię i numer dokumentu potwierdzającego tożsamość oraz datę urodzenia;
+- **3)** datę wydania orzeczenia;
+- **4)** dane o zaliczeniu do jednej z grup inwalidów oraz o okresie, na który została ustalona. ” ;
+- **12)** po art. 50 dodaje się art. 50a w brzmieniu: „
+
+**Art. 50a.** Zakład Ubezpieczeń Społecznych i Kasa Rolniczego Ubezpieczenia Społecznego w formie elektronicznej wymieniają dane niezbędne do ustalenia obowiązku ubezpieczenia społecznego i zdrowotnego. ” ;
+
+- **13)** tytuł rozdziału 13 otrzymuje brzmienie: „ Przepisy epizodyczne, przejściowe i końcowe ” ;
+- **14)** po art. 112 dodaje się art. 112a w brzmieniu: „
+
+**Art. 112a.**
+
+1. Ubezpieczony, który w 2023 r. ustalał podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe na zasadach określonych w art. 18c, zachowuje prawo do ustalania podstawy wymiaru składek na dotychczasowych zasadach przez okres dodatkowych 12 miesięcy kalendarzowych.
+
+2. Ubezpieczony, który w 2023 r. osiągnął limit 36 miesięcy kalendarzowych, o których mowa w art. 18c ust. 11 pkt 6, i przed dniem 1 sierpnia 2023 r. ustalał podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe w sposób inny niż określony w art. 18c, uzyskuje prawo do ustalania podstawy wymiaru składek na zasadach określonych w art. 18c przez okres dodatkowych 12 miesięcy kalendarzowych.
+
+3. Do ustalania okresu, o którym mowa w ust. 1 i 2, stosuje się odpowiednio art. 18c ust. 11 pkt 6 zdanie drugie.
+
+4. W celu skorzystania z prawa, o którym mowa w ust. 2, ubezpieczony zawiadamia Zakład o zmianie danych dotyczących tytułu ubezpieczenia przez złożenie zgłoszenia wyrejestrowania i ponownego zgłoszenia do ubezpieczeń społecznych, o którym mowa w art. 36 ust. 14a, w terminie do dnia 31 grudnia 2023 r.
+
+5. Podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe ubezpieczonych, o których mowa w ust. 2, w okresie, o którym mowa w ust. 2, ustala się od miesiąca wskazanego w zgłoszeniu do ubezpieczeń emerytalnego i rentowych, nie wcześniej jednak niż od miesiąca następującego po miesiącu, w którym zgłoszenie zostało złożone w Zakładzie. ” .
+
+**Art. 41.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251) w art. 139 w ust. 1 po pkt 7a dodaje się pkt 7b w brzmieniu: „
+
+- **7b)** kwoty nienależnie pobranego świadczenia wspierającego, o którym mowa w ustawie z dnia 7 lipca 2023 r. o świadczeniu wspierającym (Dz. U. poz. 1429); ” .
+
+**Art. 42.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r. poz. 217, z 2022 r. poz. 2642 oraz z 2023 r. poz. 289, 614 i 1030) w art. 175a dodaje się § 4–6 w brzmieniu: „
+
+§ 4. Instytucją łącznikową, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczącego wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego, w odniesieniu do uposażeń sędziów w stanie spoczynku oraz uposażeń rodzinnych członków rodzin sędziów i sędziów w stanie spoczynku, podlegających przepisom o koordynacji systemów zabezpieczenia społecznego, przysługujących z budżetu państwa na podstawie przepisów niniejszej ustawy, jest organ emerytalny określony przez ministra właściwego do spraw wewnętrznych w przepisach wykonawczych wydanych na podstawie art. 32 ust. 2a ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2023 r. poz. 1280 i 1429).
+
+§ 5. Sąd, w którym sędzia otrzymywał ostatnio wynagrodzenie lub uposażenie, jest instytucją właściwą, instytucją miejsca zamieszkania, instytucją miejsca pobytu, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 883/2004 z dnia 29 kwietnia 2004 r. w sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. WE L 166 z 30.04.2004, str. 1, z późn. zm.), w odniesieniu do uposażeń sędziów w stanie spoczynku oraz uposażeń rodzinnych członków rodzin sędziów i sędziów w stanie spoczynku, podlegających przepisom o koordynacji systemów zabezpieczenia społecznego, przyznanych na podstawie przepisów niniejszej ustawy.
+
+§ 6. Urząd obsługujący Ministra Sprawiedliwości, w którym sędzia otrzymywał ostatnio wynagrodzenie lub uposażenie, jest instytucją właściwą, instytucją miejsca zamieszkania, instytucją miejsca pobytu, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 883/2004 z dnia 29 kwietnia 2004 r. w sprawie koordynacji systemów zabezpieczenia społecznego, w odniesieniu do uposażeń sędziów w stanie spoczynku oraz uposażeń rodzinnych członków rodzin sędziów i sędziów w stanie spoczynku, podlegających przepisom o koordynacji systemów zabezpieczenia społecznego, przyznanych na podstawie przepisów niniejszej ustawy. ” .
 
 **Art. 43.** W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2023 r. poz. 390, 658 i 852) wprowadza się następujące zmiany:
 
+- **1)** w art. 2 pkt 2 otrzymuje brzmienie: „
+- **2)** świadczenia opiekuńcze: zasiłek pielęgnacyjny oraz świadczenie pielęgnacyjne; ” ;
+- **2)** w art. 3 w pkt 1 w lit. c w tiret 37 wyrazy „zgodnie z art. 5 ust. 7a” zastępuje się wyrazami „na podstawie oświadczenia dotyczącego każdego członka rodziny”;
+- **3)** uchyla się art. 16a;
+- **4)** w art. 17: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Świadczenie pielęgnacyjne przysługuje:
+
+- **1)** matce albo ojcu,
+- **2)** innym osobom, na których zgodnie z przepisami ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2020 r. poz. 1359 oraz z 2022 r. poz. 2140) ciąży obowiązek alimentacyjny, a także małżonkom,
+- **3)** opiekunowi faktycznemu dziecka,
+- **4)** rodzinie zastępczej, osobie prowadzącej rodzinny dom dziecka, dyrektorowi placówki opiekuńczo-wychowawczej, dyrektorowi regionalnej placówki opiekuńczo-terapeutycznej albo dyrektorowi interwencyjnego ośrodka preadopcyjnego jeżeli sprawują opiekę nad osobą w wieku do ukończenia 18. roku życia legitymującą się orzeczeniem o znacznym stopniu niepełnosprawności albo orzeczeniem o niepełnosprawności łącznie ze wskazaniami: konieczności stałej lub długotrwałej opieki lub pomocy innej osoby w związku ze znacznie ograniczoną możliwością samodzielnej egzystencji oraz konieczności stałego współudziału na co dzień opiekuna dziecka w procesie jego leczenia, rehabilitacji i edukacji. ” , uchyla się ust. 1a i 1b, po ust. 3d dodaje się ust. 3e w brzmieniu: „
+    - **b)**
+    - **c)**
+
+3e. Osobom, o których mowa w ust. 1 pkt 1–3, rodzinie zastępczej i osobie prowadzącej rodzinny dom dziecka sprawującym opiekę nad więcej niż jedną osobą w wieku do ukończenia 18. roku życia legitymującą się orzeczeniem o znacznym stopniu niepełnosprawności albo orzeczeniem o niepełnosprawności łącznie ze wskazaniami: konieczności stałej lub długotrwałej opieki lub pomocy innej osoby w związku ze znacznie ograniczoną możliwością samodzielnej egzystencji oraz konieczności stałego współudziału na co dzień opiekuna dziecka w procesie jego leczenia, rehabilitacji i edukacji, wysokość świadczenia pielęgnacyjnego, o której mowa w ust. 3, podwyższa się o 100% na drugą i każdą kolejną osobę, nad którą sprawowana jest opieka. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
+
+- **d)**
+
+4a. W przypadku śmierci osoby wymagającej opieki, osoba sprawująca opiekę zachowuje prawo do świadczenia pielęgnacyjnego do ostatniego dnia miesiąca następującego po miesiącu, w którym nastąpił zgon osoby wymagającej opieki. ” , ust. 5 otrzymuje brzmienie: „
+
+- **e)**
+
+5. Świadczenie pielęgnacyjne nie przysługuje, jeżeli:
+
+- **1)** osoba sprawująca opiekę ma ustalone prawo do specjalnego zasiłku opiekuńczego, świadczenia pielęgnacyjnego lub zasiłku dla opiekuna, o którym mowa w ustawie z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów;
+- **2)** osoba wymagająca opieki została umieszczona lub przebywa w domu pomocy społecznej, zakładzie opiekuńczo-leczniczym, zakładzie pielęgnacyjno-opiekuńczym, placówce zapewniającej całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku, o której mowa w przepisach o pomocy społecznej, zakładzie karnym, zakładzie poprawczym, areszcie śledczym albo schronisku dla nieletnich;
+- **3)** osoba wymagająca opieki jest uprawniona za granicą do świadczenia na pokrycie wydatków związanych z opieką, chyba że przepisy o koordynacji systemów zabezpieczenia społecznego lub dwustronne umowy o zabezpieczeniu społecznym stanowią inaczej;
+- **4)** na osobę wymagającą opieki inna osoba jest uprawniona za granicą do świadczenia na pokrycie wydatków związanych z opieką, chyba że przepisy o koordynacji systemów zabezpieczenia społecznego lub dwustronne umowy o zabezpieczeniu społecznym stanowią inaczej;
+- **5)** na osobę wymagającą opieki jest ustalone prawo do specjalnego zasiłku opiekuńczego, prawo do świadczenia pielęgnacyjnego lub prawo do zasiłku dla opiekuna, o którym mowa w ustawie z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów. ” ;
+- **5)** uchyla się art. 17b;
+- **6)** w art. 23: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Ustalenie prawa do świadczeń rodzinnych oraz ich wypłata następują odpowiednio na wniosek małżonków, jednego z małżonków, rodziców, jednego z rodziców, opiekuna faktycznego dziecka, opiekuna prawnego dziecka, rodziny zastępczej, osoby prowadzącej rodzinny dom dziecka, dyrektora placówki opiekuńczo-wychowawczej, dyrektora regionalnej placówki opiekuńczo-terapeutycznej albo dyrektora interwencyjnego ośrodka preadopcyjnego osoby uczącej się, pełnoletniej osoby niepełnosprawnej lub innej osoby upoważnionej do reprezentowania dziecka lub pełnoletniej osoby niepełnosprawnej, a także osób, na których zgodnie z przepisami ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy ciąży obowiązek alimentacyjny. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+- **b)**
+
+1a. Wniosek o ustalenie prawa do świadczenia pielęgnacyjnego na dziecko umieszczone w pieczy zastępczej może złożyć wyłącznie odpowiednio rodzina zastępcza, osoba prowadząca rodzinny dom dziecka, dyrektor placówki opiekuńczo-wychowawczej, dyrektor regionalnej placówki opiekuńczo-terapeutycznej albo dyrektor interwencyjnego ośrodka preadopcyjnego. ” , w ust. 3 po pkt 2 dodaje się pkt 2a w brzmieniu: „
+
+- **c)**
+- **2a)** odpowiednio placówki opiekuńczo-wychowawczej, regionalnej placówki opiekuńczo-terapeutycznej albo interwencyjnego ośrodka preadopcyjnego, w zakresie nazwy, adresu oraz numerów NIP i REGON – w przypadku gdy wnioskodawcą jest dyrektor tej placówki albo ośrodka; ” , w ust. 4 w pkt 3 po lit. c dodaje się lit. ca w brzmieniu: „ ca) zaświadczenie odpowiednio organizatora rodzinnej pieczy zastępczej, powiatowego centrum pomocy rodzinie albo podmiotu, o którym mowa w art. 190 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2023 r. poz. 1426), o umieszczeniu dziecka w rodzinie zastępczej, rodzinnym domu dziecka, placówce opiekuńczo-wychowawczej, regionalnej placówce opiekuńczo-terapeutycznej albo interwencyjnym ośrodku preadopcyjnym, wraz z datą umieszczenia – w przypadku gdy wnioskodawcą jest rodzina zastępcza, osoba prowadząca rodzinny dom dziecka, dyrektor placówki opiekuńczo-wychowawczej, dyrektor regionalnej placówki opiekuńczo-terapeutycznej albo dyrektor interwencyjnego ośrodka preadopcyjnego, ” , uchyla się ust. 4e-4g;
+    - **d)**
+    - **e)**
+
+- **7)** w art. 23b: w ust. 4 wyrazy „o których mowa w ust. 1 pkt 1, 1a, 3, 4 i 5” zastępuje się wyrazami „o których mowa w ust. 1 pkt 1, 1a, 1b, 3, 4 i 5”, w ust. 5 wyrazy „o których mowa w ust. 1 pkt 1, 1a, 3 i 4” zastępuje się wyrazami „o których mowa w ust. 1 pkt 1, 1a, 1b, 3 i 4”;
+    - **a)**
+    - **b)**
+
+- **8)** w art. 27 uchyla się ust. 5;
+- **9)** w art. 28 ust. 1 i 2 otrzymują brzmienie: „
+
+1. Organ właściwy lub wojewoda odmawiają przyznania prawa do świadczenia pielęgnacyjnego, jeżeli osoba ubiegająca się o to świadczenie uniemożliwi przeprowadzenie wywiadu, o którym mowa w art. 23 ust. 4aa, lub nie udzieli podczas tego wywiadu wyjaśnień co do okoliczności objętych wywiadem.
+
+2. Wypłata świadczenia pielęgnacyjnego podlega wstrzymaniu, jeżeli osoba pobierająca to świadczenie uniemożliwiła przeprowadzenie wywiadu, o którym mowa w art. 23 ust. 4aa, lub nie udzieliła podczas tego wywiadu wyjaśnień. ” .
+
 **Art. 44.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2023 r. poz. 735) wprowadza się następujące zmiany:
+
+- **1)** po rozdziale 12b dodaje się rozdział 12c w brzmieniu: „
+
+#### Rozdział 12c Program aktywizacyjny dla osób niepełnosprawnych lub opiekunów osób niepełnosprawnych
 
 **Art. 62h.**
 
@@ -545,43 +833,189 @@ source: "isap-pdf"
 
 2. W ramach programu aktywizacyjnego dla osób niepełnosprawnych lub opiekunów osób niepełnosprawnych mogą być podejmowane działania mające na celu wspieranie aktywizacji zawodowej i aktywności społecznej osób niepełnosprawnych lub opiekunów osób niepełnosprawnych.
 
-3. Przepis art. 62d ust. 3–7 oraz art. 62e–62g stosuje się odpowiednio.”;
+3. Przepis art. 62d ust. 3–7 oraz art. 62e-62g stosuje się odpowiednio. ” ;
 
-- **2)** w art. 71 w ust. 2 pkt 9 otrzymuje brzmienie: „9) pobierania świadczenia pielęgnacyjnego lub specjalnego zasiłku opiekuńczego na podstawie przepisów o świadczeniach rodzinnych, lub zasiłku dla opiekuna na podstawie przepisów o ustaleniu i wypłacie zasiłków dla opiekunów, jeżeli utrata prawa do nich była spowodowana śmiercią osoby, nad którą opieka była sprawowana, albo przyznaniem osobie, nad którą opieka była sprawowana, prawa do świadczenia wspierającego, o którym mowa w ustawie z dnia 7 lipca 2023 r. o świadczeniu wspierającym (Dz. U. poz. 1429).”;
-- **3)** w art. 108 w ust. 1:
-    - **a)** po pkt 21b dodaje się pkt 21c w brzmieniu: „21c) kosztów umów związanych z realizacją programu, o którym w art. 62h ust. 1;”,
-    - **b)** pkt 65 otrzymuje brzmienie: „65) kosztów programów, o których mowa w art. 31 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej, wraz z kosztami ich obsługi;”,
-    - **c)** w pkt 66 kropkę zastępuje się średnikiem i dodaje pkt 67 w brzmieniu: „67) kosztów, o których mowa w art. 11 ust. 3 pkt 2 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2023 r. poz. 100, 173, 240, 852, 1234 i 1429).”;
+- **2)** w art. 71 w ust. 2 pkt 9 otrzymuje brzmienie: „
+- **9)** pobierania świadczenia pielęgnacyjnego lub specjalnego zasiłku opiekuńczego na podstawie przepisów o świadczeniach rodzinnych, lub zasiłku dla opiekuna na podstawie przepisów o ustaleniu i wypłacie zasiłków dla opiekunów, jeżeli utrata prawa do nich była spowodowana śmiercią osoby, nad którą opieka była sprawowana, albo przyznaniem osobie, nad którą opieka była sprawowana, prawa do świadczenia wspierającego, o którym mowa w ustawie z dnia 7 lipca 2023 r. o świadczeniu wspierającym (Dz. U. poz. 1429). ” ;
+- **3)** w art. 108 w ust. 1: po pkt 21b dodaje się pkt 21c w brzmieniu: „
+    - **a)**
 
-- **4)** art. 109m otrzymuje brzmienie: „Art. 109m. Minister właściwy do spraw pracy może przekazać na zadania realizowane przez ministra właściwego do spraw zabezpieczenia społecznego środki Funduszu Pracy na realizację programów, o których mowa w art. 31 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej, wraz z kosztami ich obsługi, w wysokości nie większej niż 20 mln zł rocznie.”.
+- **21c)** kosztów umów związanych z realizacją programu, o którym w art. 62h ust. 1; ” , pkt 65 otrzymuje brzmienie: „
+    - **b)**
+
+- **65)** kosztów programów, o których mowa w art. 31 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej, wraz z kosztami ich obsługi; ” , w pkt 66 kropkę zastępuje się średnikiem i dodaje pkt 67 w brzmieniu: „
+    - **c)**
+
+- **67)** kosztów, o których mowa w art. 11 ust. 3 pkt 2 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2023 r. poz. 100, 173, 240, 852, 1234 i 1429). ” ;
+- **4)** art. 109m otrzymuje brzmienie: „
+
+**Art. 109m.** Minister właściwy do spraw pracy może przekazać na zadania realizowane przez ministra właściwego do spraw zabezpieczenia społecznego środki Funduszu Pracy na realizację programów, o których mowa w art. 31 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej, wraz z kosztami ich obsługi, w wysokości nie większej niż 20 mln zł rocznie. ” .
 
 **Art. 45.** W ustawie z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych (Dz. U. z 2023 r. poz. 779) wprowadza się następujące zmiany:
 
-**Art. 46.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm. ) wprowadza się następujące zmiany:
+- **1)** w art. 2 w ust. 1 pkt 4a otrzymuje brzmienie: „
+- **4a)** zarejestrowała się we właściwym powiatowym urzędzie pracy w ciągu 60 dni od dnia ustania prawa do świadczenia pielęgnacyjnego lub specjalnego zasiłku opiekuńczego, o których mowa w ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2023 r. poz. 390, 658, 852 i 1429), lub zasiłku dla opiekuna, o którym mowa w ustawie z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów (Dz. U. z 2020 r. poz. 1297), pobieranych nieprzerwanie przez okres co najmniej 365 dni, jeżeli utrata prawa do nich była spowodowana śmiercią osoby, nad którą opieka była sprawowana, albo przyznaniem osobie, nad którą opieka była sprawowana, prawa do świadczenia wspierającego, o którym mowa w ustawie z dnia 7 lipca 2023 r. o świadczeniu wspierającym (Dz. U. poz. 1429), i do dnia, w którym ustało prawo do świadczenia pielęgnacyjnego, specjalnego zasiłku opiekuńczego lub zasiłku dla opiekuna, ukończyła co najmniej 55 lat – kobieta oraz 60 lat – mężczyzna i osiągnęła okres uprawniający do emerytury, wynoszący co najmniej 20 lat dla kobiet i 25 lat dla mężczyzn, lub ” ;
+- **2)** w art. 7 ust. 4 otrzymuje brzmienie: „
+
+4. W przypadku osoby, o której mowa w art. 2 ust. 1 pkt 4a, do wniosku dołącza się również zaświadczenie właściwego organu potwierdzające nieprzerwane pobieranie przez okres co najmniej 365 dni świadczenia pielęgnacyjnego lub specjalnego zasiłku opiekuńczego, lub zasiłku dla opiekuna, utratę prawa do nich z powodu śmierci osoby, nad którą opieka była sprawowana, albo przyznania osobie, nad którą opieka była sprawowana, prawa do świadczenia wspierającego, o którym mowa w ustawie z dnia 7 lipca 2023 r. o świadczeniu wspierającym, a także datę ustania tego prawa. ” .
+
+**Art. 46.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 66 w ust. 1 po pkt 28b dodaje się pkt 28c i 28d w brzmieniu: „
+- **28c)** osoby pobierające świadczenie wspierające, o którym mowa w ustawie z dnia 7 lipca 2023 r. o świadczeniu wspierającym (Dz. U. poz. 1429);
+- **28d)** osoby niepodejmujące zatrudnienia lub innej pracy zarobkowej ze względu na potrzebę udzielenia wsparcia osobie pobierającej świadczenie wspierające, o których mowa w art. 6c ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych; ” ;
+- **2)** w art. 73 po pkt 10a dodaje się pkt 10b i 10c w brzmieniu: „
+- **10b)** osób, o których mowa w art. 66 ust. 1 pkt 28c, obejmuje okres od dnia przyznania świadczenia wspierającego do dnia utraty prawa do jego pobierania;
+- **10c)** osób, o których mowa w art. 66 ust. 1 pkt 28d, powstaje od dnia określonego we wniosku, o którym mowa w art. 36c ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, jako dzień rozpoczęcia sprawowania osobistej opieki nad osobą pobierającą świadczenie wspierające przyznane na podstawie ustawy z dnia 7 lipca 2023 r. o świadczeniu wspierającym, nie wcześniej jednak niż od dnia, w którym wniosek, o którym mowa w art. 36c, został złożony, a wygasa od dnia wskazanego w tym wniosku jako dzień zakończenia sprawowania opieki nad tą osobą; ” ;
+- **3)** w art. 75 po ust. 11 dodaje się ust. 11a w brzmieniu: „
+
+11a. Osoby, o których mowa w art. 66 ust. 1 pkt 28c i 28d, zgłasza do ubezpieczenia zdrowotnego Zakład Ubezpieczeń Społecznych. ” ;
+
+- **4)** w art. 81 w ust. 8 po pkt 9c dodaje się pkt 9d w brzmieniu: „
+- **9d)** osób, o których mowa w art. 66 ust. 1 pkt 28c i 28d, jest kwota odpowiadająca wysokości pobieranego świadczenia wspierającego, o którym mowa w ustawie z dnia 7 lipca 2023 r. o świadczeniu wspierającym; ” ;
+- **5)** w art. 86 w ust. 1 po pkt 9 dodaje się pkt 9a w brzmieniu: „
+- **9a)** osób, o których mowa w art. 66 ust. 1 pkt 28c i 28d, opłaca Zakład Ubezpieczeń Społecznych; ” ;
+- **6)** w art. 87 ust. 2 otrzymuje brzmienie: „
+
+2. W przypadku rozliczania składek na ubezpieczenie zdrowotne od emerytur, rent, nauczycielskich świadczeń kompensacyjnych, zasiłków przedemerytalnych, świadczeń przedemerytalnych i świadczenia wspierającego, jednostka organizacyjna Zakładu Ubezpieczeń Społecznych określona w przepisach o systemie ubezpieczeń społecznych:
+
+- **1)** nie przekazuje imiennych raportów miesięcznych;
+- **2)** wykazuje składki w odrębnej deklaracji rozliczeniowej. ” ;
+- **7)** w art. 188 w ust. 5e pkt 3 otrzymuje brzmienie: „
+- **3)** Zakładowi Ubezpieczeń Społecznych w celu weryfikacji prawa do świadczenia wychowawczego, o którym mowa w ustawie z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U. z 2023 r. poz. 810), świadczenia dobry start, rodzinnego kapitału opiekuńczego, o którym mowa w ustawie z dnia 17 listopada 2021 r. o rodzinnym kapitale opiekuńczym (Dz. U. z 2023 r. poz. 883), dofinansowania obniżenia opłaty rodzica za pobyt dziecka w żłobku, klubie dziecięcym lub u dziennego opiekuna, o którym mowa w art. 64c ust. 1 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3, oraz świadczenia wspierającego, o którym mowa w ustawie z dnia 7 lipca 2023 r. o świadczeniu wspierającym; ” .
 
 **Art. 47.** W ustawie z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2023 r. poz. 1300) w art. 15a:
 
-**Art. 48.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, 1273 i 1407) w art. 50 w ust. 6 po pkt 4a dodaje się pkt 4b w brzmieniu: „4b) wypłat i obsługi świadczenia wspierającego, o którym mowa w ustawie z dnia 7 lipca 2023 r. o świadczeniu wspierającym (Dz. U. poz. 1429);”.
+- **1)** w ust. 4 wyrazy „o których mowa w ust. 1 pkt 1, 1a, 3 i 5” zastępuje się wyrazami „o których mowa w ust. 1 pkt 1, 1a, 1b, 3 i 5”;
+- **2)** w ust. 5 wyrazy „o których mowa w ust. 1 pkt 1, 1a i 3” zastępuje się wyrazami „o których mowa w ust. 1 pkt 1, 1a, 1b i 3”.
+
+**Art. 48.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, 1273 i 1407) w art. 50 w ust. 6 po pkt 4a dodaje się pkt 4b w brzmieniu: „
+
+- **4b)** wypłat i obsługi świadczenia wspierającego, o którym mowa w ustawie z dnia 7 lipca 2023 r. o świadczeniu wspierającym (Dz. U. poz. 1429); ” .
 
 **Art. 49.** W ustawie z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2023 r. poz. 204) wprowadza się następujące zmiany:
 
-**Art. 50.** W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2023 r. poz. 1426) w art. 38e w ust. 6 po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) organowi właściwemu, o którym mowa w art. 3 pkt 11 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2023 r. poz. 390, 658, 852 i 1429), i wojewodzie – dane, o których mowa w art. 38d ust. 8 pkt 1–3 i 9, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie pielęgnacyjne, osób pobierających świadczenie pielęgnacyjne oraz członków ich rodzin.”.
+- **1)** po art. 6c dodaje się art. 6d w brzmieniu: „ Podmiot prowadzący żłobek lub klub dziecięcy, podmiot zatrudniający dziennego opiekuna oraz dzienny opiekun prowadzący działalność na własny rachunek, organizując opiekę nad dziećmi w wieku do lat 3, mogą uwzględnić standardy opieki określone w przepisach wydanych na podstawie art. 6c. ” ;
+- **2)** w art. 16 dodaje się ust. 4 i 5 w brzmieniu: „
 
-**Art. 51.** W ustawie z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów (Dz. U. z 2020 r. poz. 1297) w art. 10 ust. 1 otrzymuje brzmienie: „1. W sprawach nieuregulowanych w ustawie stosuje się odpowiednio obowiązujące do dnia 31 grudnia 2023 r. przepisy ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych dotyczące świadczeń pielęgnacyjnych.”.
+4. Opiekun w żłobku lub klubie dziecięcym jest obowiązany do systematycznej aktualizacji wiedzy i umiejętności w zakresie usług opieki i wczesnej edukacji dzieci w wieku do lat 3, metodyki i praktyki pracy z dziećmi, zrozumienia potrzeb dzieci, współpracy z rodzicami oraz dbania o własny dobrostan, w szczególności przez samokształcenie, udział w szkoleniach lub wsparcie ze strony podmiotu prowadzącego odpowiednio żłobek lub klub dziecięcy.
+
+5. Szkolenia, o których mowa w ust. 4, nieodpłatnie zapewnia podmiot prowadzący żłobek lub klub dziecięcy. ” ;
+
+- **3)** w art. 39 po ust. 2c dodaje się ust. 2d i 2e w brzmieniu: „
+
+2d. Dzienny opiekun jest obowiązany do systematycznej aktualizacji wiedzy i umiejętności w zakresie usług opieki i wczesnej edukacji dzieci w wieku do lat 3, metodyki i praktyki pracy z dziećmi, zrozumienia potrzeb dzieci, współpracy z rodzicami oraz dbania o własny dobrostan, w szczególności przez samokształcenie, udział w szkoleniach lub wsparcie ze strony podmiotu zatrudniającego dziennego opiekuna.
+
+2e. Szkolenia, o których mowa w ust. 2d, dziennym opiekunom zatrudnionym przez podmioty, o których mowa w art. 8 ust. 1, nieodpłatnie zapewniają te podmioty. ” ;
+
+- **4)** w art. 62: po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+
+1a. Programy, o których mowa w ust. 1, mogą być dofinansowane z:
+
+- **1)** dotacji budżetu państwa;
+- **2)** środków Funduszu Pracy;
+- **3)** środków europejskich, o których mowa w art. 5 ust. 3 pkt 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, 1273, 1407 i 1429), wraz ze współfinansowaniem krajowym z budżetu państwa, o którym mowa w art. 2 pkt 37 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079);
+- **4)** środków europejskich, o których mowa w art. 5 ust. 3 pkt 5d ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych. ” , w ust. 2 pkt 3 otrzymuje brzmienie: „
+    - **b)**
+
+- **3)** minimalny okres funkcjonowania instytucji lub miejsc opieki dofinansowanych w ramach programów; ” , ust. 4 i 5 otrzymują brzmienie: „
+    - **c)**
+
+4. Podmioty, o których mowa w art. 8 ust. 1, korzystające z programów, o których mowa w ust. 1, mogą otrzymywać środki finansowe, o których mowa w ust. 1a, na dofinansowanie utworzenia lub funkcjonowania żłobków, klubów dziecięcych lub dziennych opiekunów, przy czym wysokość dotacji oraz środków Funduszu Pracy nie może łącznie przekroczyć 80% kosztów realizacji zadania.
+
+5. Środki finansowe, o których mowa w ust. 1a, przyznaje wojewoda po uzgodnieniu z ministrem właściwym do spraw rodziny. ” , w ust. 6: – pkt 2 otrzymuje brzmienie: „ 2) wysokość przyznanych środków finansowych, o których mowa w ust. 1a; ” , – pkt 4–6 otrzymują brzmienie: „ 4) termin wykorzystania środków finansowych, o których mowa w ust. 1a; 5) termin i sposób rozliczenia przyznanych środków finansowych, o których mowa w ust. 1a, w tym zasady ich rozliczania; 6) termin zwrotu: a) niewykorzystanej części dotacji oraz środków z Funduszu Pracy – nie dłuższy niż 15 dni od określonego w umowie dnia wykonania zadania, b) niewykorzystanej części środków, o których mowa w ust. 1a pkt 3 i 4 – nie dłuższy niż 14 dni od określonego w umowie dnia zakończenia zadania; ” , – pkt 8 otrzymuje brzmienie: „ 8) warunki i sposób zmiany oraz rozwiązania umowy, w tym zasady zwrotu środków finansowych, o których mowa w ust. 1a. ” , po ust. 7 dodaje się ust. 7a i 7b w brzmieniu: „
+
+- **d)**
+- **e)**
+
+7a. Organem właściwym do umarzania, odraczania terminów lub rozkładania na raty spłat należności pochodzących ze środków europejskich, a także wydania decyzji o zwrocie środków, o których mowa w ust. 1a pkt 3 i 4, w związku z niewykorzystaniem środków, wykorzystaniem środków niezgodnie z przeznaczeniem, wykorzystaniem środków z naruszeniem procedur obowiązujących przy ich wykorzystaniu, nienależnym pobraniem środków lub pobraniem środków w nadmiernej wysokości oraz decyzji o odpowiedzialności osób trzecich na podstawie ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm.), jest wojewoda.
+
+7b. Organem odwoławczym od decyzji wydanej przez wojewodę jest minister właściwy do spraw finansów publicznych. ” , po ust. 8 dodaje się ust. 8a w brzmieniu: „
+
+- **f)**
+
+8a. Środki, o których mowa w ust. 1a pkt 3 i 4:
+
+- **1)** wykorzystane niezgodnie z przeznaczeniem,
+- **2)** wykorzystane z naruszeniem procedur obowiązujących przy ich wykorzystaniu, w tym postanowień umowy, o której mowa w art. 14lzh ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2023 r. poz. 1259 i 1273),
+- **3)** pobrane nienależnie,
+- **4)** pobrane w nadmiernej wysokości podlegają zwrotowi, wraz z odsetkami, w terminie i na zasadach określonych w art. 207 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych. ” ;
+- **5)** w art. 64 w ust. 4 w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 i 13 w brzmieniu: „
+- **12)** informacja o wysokości wynagrodzeń w żłobku lub klubie dziecięcym osób zatrudnionych na stanowisku opiekuna lub sprawujących opiekę jako dzienny opiekun;
+- **13)** informacja o kwalifikacjach osób zatrudnionych w żłobku lub klubie dziecięcym na stanowisku opiekuna lub sprawujących opiekę jako dzienny opiekun. ” . W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2023 r. poz. 1426) w art. 38e w ust. 6 po pkt 6 dodaje się pkt 6a w brzmieniu: „
+- **6a)** organowi właściwemu, o którym mowa w art. 3 pkt 11 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2023 r. poz. 390, 658, 852 i 1429), i wojewodzie – dane, o których mowa w art. 38d ust. 8 pkt 1–3 i 9, w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie pielęgnacyjne, osób pobierających świadczenie pielęgnacyjne oraz członków ich rodzin. ” .
+
+**Art. 51.** W ustawie z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów (Dz. U. z 2020 r. poz. 1297) w art. 10 ust. 1 otrzymuje brzmienie: „ 1. W sprawach nieuregulowanych w ustawie stosuje się odpowiednio obowiązujące do dnia 31 grudnia 2023 r. przepisy ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych dotyczące świadczeń pielęgnacyjnych. ” .
 
 **Art. 52.** W ustawie z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny (Dz. U. z 2021 r. poz. 1744, z 2022 r. poz. 2140, 2243 i 2754 oraz z 2023 r. poz. 1234) w art. 36 w ust. 1:
 
-**Art. 53.** W ustawie z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2023 r. poz. 1360) w art. 127 dodaje się § 7 i 8 w brzmieniu: „§ 7. Instytucją łącznikową, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczącego wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego, w odniesieniu do uposażeń prokuratorów w stanie spoczynku oraz uposażeń rodzinnych członków rodzin prokuratorów i prokuratorów w stanie spoczynku, podlegających przepisom o koordynacji systemów zabezpieczenia społecznego, przysługujących z budżetu państwa na podstawie przepisów niniejszej ustawy, jest organ emerytalny określony przez ministra właściwego do spraw wewnętrznych w przepisach wydanych na podstawie art. 32 ust. 2a ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2023 r. poz. 1280 i 1429).
+- **1)** wprowadzenie do wyliczenia otrzymuje brzmienie: „ Maksymalny limit wydatków z budżetu państwa na lata 2017–2028 na realizację ustawy przez gminy, wojewodów, ministra właściwego do spraw rodziny i ministra właściwego do spraw transportu wynosi 1 541,55 mln zł, z tego: ” ;
+- **2)** pkt 7–12 otrzymują brzmienie: „
+- **7)** w 2023 r. – 133,15 mln zł, w tym: 15 mln zł na realizację ustawy przez gminy, 19,15 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny, 90 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny, 9 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **8)** w 2024 r. – 193,5 mln zł, w tym: 15 mln zł na realizację ustawy przez gminy, 33,50 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny, 135 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny, 10 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **9)** w 2025 r. – 204,5 mln zł, w tym: 15 mln zł na realizację ustawy przez gminy, 5,60 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny, 145 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny, 11 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **10)** w 2026 r. – 215,5 mln zł, w tym: 15 mln zł na realizację ustawy przez gminy, 5,60 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny, 155 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny, 12 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **11)** w 2027 r. – 226,5 mln zł, w tym: 15 mln zł na realizację ustawy przez gminy, 33,50 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny, 165 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny, 13 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **12)** w 2028 r. – 237,5 mln zł, w tym: 15 mln zł na realizację ustawy przez gminy, 33,50 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny, 175 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny, 14 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu. ” .
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+**Art. 53.** W ustawie z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2023 r. poz. 1360) w art. 127 dodaje się § 7 i 8 w brzmieniu: „
+
+§ 7. Instytucją łącznikową, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczącego wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego, w odniesieniu do uposażeń prokuratorów w stanie spoczynku oraz uposażeń rodzinnych członków rodzin prokuratorów i prokuratorów w stanie spoczynku, podlegających przepisom o koordynacji systemów zabezpieczenia społecznego, przysługujących z budżetu państwa na podstawie przepisów niniejszej ustawy, jest organ emerytalny określony przez ministra właściwego do spraw wewnętrznych w przepisach wydanych na podstawie art. 32 ust. 2a ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2023 r. poz. 1280 i 1429).
+
+§ 8. Organ emerytalny, o którym mowa w § 6, jest instytucją właściwą, instytucją miejsca zamieszkania, instytucją miejsca pobytu, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 883/2004 z dnia 29 kwietnia 2004 r. w sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. WE L 166 z 30.04.2004, str. 1, z późn. zm.), w odniesieniu do uposażeń prokuratorów w stanie spoczynku oraz uposażeń rodzinnych członków rodzin prokuratorów i prokuratorów w stanie spoczynku, podlegających przepisom o koordynacji systemów zabezpieczenia społecznego, przyznanych na podstawie przepisów niniejszej ustawy. ” .
 
 **Art. 54.** W ustawie z dnia 23 października 2018 r. o Funduszu Solidarnościowym (Dz. U. z 2023 r. poz. 647 i 1407) wprowadza się następujące zmiany:
 
-**Art. 55.** W ustawie z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. z 2023 r. poz. 156 i 535) w art. 2 ust. 2 otrzymuje brzmienie: „2. Świadczenie uzupełniające przysługuje osobom uprawnionym, które nie posiadają prawa do świadczeń pieniężnych finansowanych ze środków publicznych albo suma tych świadczeń o charakterze innym niż jednorazowe, wraz z kwotą wypłacaną przez zagraniczne instytucje właściwe do spraw emerytalno-rentowych, z wyłączeniem renty rodzinnej przyznanej w okolicznościach, o których mowa w art. 68 ust. 1 pkt 3 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251 i 1429), zasiłku pielęgnacyjnego, dodatku energetycznego, o którym mowa w art. 5c ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2022 r. poz. 1385, z późn. zm. ), dodatku osłonowego, o którym mowa w art. 2 ust. 1 ustawy z dnia 17 grudnia 2021 r. o dodatku osłonowym (Dz. U. z 2023 r. poz. 759), świadczenia ratowniczego z tytułu wysługi lat w ochotniczej straży pożarnej, o którym mowa w art. 16 ust. 1 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych (Dz. U. z 2023 r. poz. 194 i 658), dodatku węglowego, o którym mowa w art. 2 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym (Dz. U. z 2023 r. poz. 141, 295 i 1234), dodatku dla gospodarstw domowych z tytułu wykorzystywania niektórych źródeł ciepła, o którym mowa w art. 1 pkt 2 ustawy z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw (Dz. U. poz. 1967, z późn. zm. ), dodatku elektrycznego, o którym mowa w art. 27 ust. 1 ustawy z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej (Dz. U. z 2023 r. poz. 269, 295 i 1234), świadczenia wspierającego, o którym mowa w ustawie z dnia 7 lipca 2023 r. o świadczeniu wspierającym (Dz. U. poz. 1429), oraz innych dodatków i świadczeń wypłacanych wraz z tymi świadczeniami na podstawie odrębnych przepisów przed dokonaniem odliczeń, potrąceń i zmniejszeń, nie przekracza kwoty 2157,80 zł miesięcznie.”.
+- **1)** art. 6aa otrzymuje brzmienie: „ Środki Funduszu przeznacza się także na wsparcie udzielane w ramach programów, o których mowa w art. 31 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej, oraz na koszty ich obsługi, na zasadach określonych w tej ustawie. ” ;
+- **2)** w art. 18 ust. 2a otrzymuje brzmienie: „
+
+2a. Środki Funduszu przeznaczone na realizację programów, o których mowa w art. 31 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej, wraz z kosztami ich obsługi, stanowią koszty Funduszu. ” .
+
+**Art. 55.** W ustawie z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. z 2023 r. poz. 156 i 535) w art. 2 ust. 2 otrzymuje brzmienie: „ 2. Świadczenie uzupełniające przysługuje osobom uprawnionym, które nie posiadają prawa do świadczeń pieniężnych finansowanych ze środków publicznych albo suma tych świadczeń o charakterze innym niż jednorazowe, wraz z kwotą wypłacaną przez zagraniczne instytucje właściwe do spraw emerytalno-rentowych, z wyłączeniem renty rodzinnej przyznanej w okolicznościach, o których mowa w art. 68 ust. 1 pkt 3 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251 i 1429), zasiłku pielęgnacyjnego, dodatku energetycznego, o którym mowa w art. 5c ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2022 r. poz. 1385, z późn. zm.), dodatku osłonowego, o którym mowa w art. 2 ust. 1 ustawy z dnia 17 grudnia 2021 r. o dodatku osłonowym (Dz. U. z 2023 r. poz. 759), świadczenia ratowniczego z tytułu wysługi lat w ochotniczej straży pożarnej, o którym mowa w art. 16 ust. 1 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych (Dz. U. z 2023 r. poz. 194 i 658), dodatku węglowego, o którym mowa w art. 2 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym (Dz. U. z 2023 r. poz. 141, 295 i 1234), dodatku dla gospodarstw domowych z tytułu wykorzystywania niektórych źródeł ciepła, o którym mowa w art. 1 pkt 2 ustawy z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw (Dz. U. poz. 1967, z późn. zm.), dodatku elektrycznego, o którym mowa w art. 27 ust. 1 ustawy z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku w związku z sytuacją na rynku energii elektrycznej (Dz. U. z 2023 r. poz. 269, 295 i 1234), świadczenia wspierającego, o którym mowa w ustawie z dnia 7 lipca 2023 r. o świadczeniu wspierającym (Dz. U. poz. 1429), oraz innych dodatków i świadczeń wypłacanych wraz z tymi świadczeniami na podstawie odrębnych przepisów przed dokonaniem odliczeń, potrąceń i zmniejszeń, nie przekracza kwoty 2157,80 zł miesięcznie. ” .
 
 **Art. 56.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2023 r. poz. 1327) wprowadza się następujące zmiany:
 
-**Art. 57.** W ustawie z dnia 5 sierpnia 2022 r. o ekonomii społecznej (Dz. U. z 2023 r. poz. 1287) w art. 31 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Koszty obsługi programów, o których mowa w ust. 1, wynoszą do 2,5% środków przeznaczonych na realizację tych programów.”.
+- **1)** w art. 12e w ust. 2 w części wspólnej wyrazy „do 60. dnia” zastępuje się wyrazami „do 180. dnia”;
+- **2)** art. 15zzzzzj otrzymuje brzmienie: „ W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii oraz w okresie 12 miesięcy po odwołaniu tego z nich, który obowiązywał jako ostatni, przepisów art. 95 ust. 3–4a, art. 109 ust. 2 i 3 oraz art. 230 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej w zakresie limitu liczby dzieci i osób, które osiągnęły pełnoletność, przebywając w pieczy zastępczej, o których mowa w art. 37 ust. 2 tej ustawy, oraz w zakresie kryterium wieku dzieci nie stosuje się do dzieci umieszczonych w pieczy zastępczej w związku z przeciwdziałaniem COVID-19. ” .
+
+**Art. 57.** W ustawie z dnia 5 sierpnia 2022 r. o ekonomii społecznej (Dz. U. z 2023 r. poz. 1287) w art. 31 po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Koszty obsługi programów, o których mowa w ust. 1, wynoszą do 2,5% środków przeznaczonych na realizację tych programów. ” .
 
 **Art. 58.** W ustawie z dnia 9 marca 2023 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw (Dz. U. poz. 852) wprowadza się następujące zmiany:
+
+- **1)** uchyla się art. 6;
+- **2)** uchyla się art. 8;
+- **3)** uchyla się art. 27;
+- **4)** w art. 28 uchyla się pkt 3.
 
 #### Rozdział 7 Przepisy przejściowe, dostosowujące i przepis końcowy
 
@@ -613,9 +1047,7 @@ source: "isap-pdf"
 - **3)** opis przedmiotu umowy, z wyszczególnieniem odpowiednio ilości rzeczy lub innych dóbr oraz zakresu usług;
 - **4)** cenę albo cenę maksymalną, jeżeli cena nie jest znana w chwili zamieszczenia ogłoszenia;
 - **5)** okoliczności faktyczne uzasadniające udzielenie zamówienia bez zastosowania przepisów o zamówieniach publicznych;
-- **6)** nazwę (firmę) podmiotu albo imię i nazwisko osoby, z którymi została zawarta umowa.
-
-**Art. 62.** W latach 2024–2026 koszty obsługi, o których mowa w art. 31 ust. 1, wynoszą 2% kwoty przeznaczonej na wypłatę świadczenia wspierającego.
+- **6)** nazwę (firmę) podmiotu albo imię i nazwisko osoby, z którymi została zawarta umowa. W latach 2024–2026 koszty obsługi, o których mowa w art. 31 ust. 1, wynoszą 2% kwoty przeznaczonej na wypłatę świadczenia wspierającego.
 
 **Art. 63.**
 
@@ -629,7 +1061,7 @@ source: "isap-pdf"
 
 5. Kwoty przysługującego na podstawie przepisów dotychczasowych:
 
-- **1)** świadczenia pielęgnacyjnego – podlegają waloryzacji w trybie i na zasadach określonych w art. 17 ust. 3a–3d ustawy zmienianej w art. 43 w brzmieniu dotychczasowym;
+- **1)** świadczenia pielęgnacyjnego – podlegają waloryzacji w trybie i na zasadach określonych w art. 17 ust. 3a-3d ustawy zmienianej w art. 43 w brzmieniu dotychczasowym;
 - **2)** specjalnego zasiłku opiekuńczego – podlegają weryfikacji w trybie i na zasadach określonych w rozdziale 4 ustawy zmienianej w art. 43 w brzmieniu dotychczasowym.
 
 6. Świadczenie pielęgnacyjne albo specjalny zasiłek opiekuńczy, o których mowa w ustawie zmienianej w art. 43 w brzmieniu dotychczasowym, albo zasiłek dla opiekuna, o którym mowa w ustawie zmienianej w art. 51, nie przysługują jeżeli osoba wymagająca opieki ma przyznane prawo do świadczenia wspierającego.
@@ -663,59 +1095,57 @@ source: "isap-pdf"
 1. Osoba wymagająca opieki:
 
 - **1)** na którą przyznano na podstawie przepisów dotychczasowych prawo do świadczenia pielęgnacyjnego albo specjalnego zasiłku opiekuńczego, o których mowa w ustawie zmienianej w art. 43, albo prawo do zasiłku dla opiekuna, o którym mowa w ustawie zmienianej w art. 51,
-- **2)** na którą przyznano prawo do świadczenia pielęgnacyjnego na podstawie przepisów ustawy zmienianej w art. 43 w brzmieniu nadanym niniejszą ustawą – może otrzymać świadczenie wspierające od dnia 1 stycznia 2024 r., także w przypadku, gdy w decyzji ustalającej poziom potrzeby wsparcia, potrzebę tę określono na poziomie od 70 do 89 punktów w skali potrzeby wsparcia, o której mowa w art. 4b ust. 1 ustawy zmienianej w art. 39, o ile spełnia warunki uprawniające do tego świadczenia, z uwzględnieniem art. 9 ust. 2 i art. 26.
+- **2)** na którą przyznano prawo do świadczenia pielęgnacyjnego na podstawie przepisów ustawy zmienianej w art. 43 w brzmieniu nadanym niniejszą ustawą może otrzymać świadczenie wspierające od dnia 1 stycznia 2024 r., także w przypadku, gdy w decyzji ustalającej poziom potrzeby wsparcia, potrzebę tę określono na poziomie od 70 do 89 punktów w skali potrzeby wsparcia, o której mowa w art. 4b ust. 1 ustawy zmienianej w art. 39, o ile spełnia warunki uprawniające do tego świadczenia, z uwzględnieniem art. 9 ust. 2 i art. 26.
 
 2. W przypadku, o którym mowa w ust. 1, wysokość świadczenia wspierającego ustala się zgodnie z przepisami art. 4 ust. 1 pkt 3–6.
 
 **Art. 65.**
 
-1. Wnioski o wydanie decyzji ustalającej poziom potrzeby wsparcia, o których mowa w art. 6b ust. 1 ustawy zmienianej w art. 39, w brzmieniu nadanym niniejszą ustawą, składa się od dnia 1 stycznia 2024 r.
+1. Wnioski o wydanie decyzji ustalającej poziom potrzeby wsparcia, o których mowa w art. 6b3 ust. 1 ustawy zmienianej w art. 39, w brzmieniu nadanym niniejszą ustawą, składa się od dnia 1 stycznia 2024 r.
 
-2. Decyzje ustalające poziom potrzeby wsparcia, o których mowa w art. 6b ust. 1 ustawy zmienianej w art. 39, w brzmieniu nadanym niniejszą ustawą, wydaje się od dnia 1 stycznia 2024 r.
+2. Decyzje ustalające poziom potrzeby wsparcia, o których mowa w art. 6b3 ust. 1 ustawy zmienianej w art. 39, w brzmieniu nadanym niniejszą ustawą, wydaje się od dnia 1 stycznia 2024 r.
 
-3. W decyzjach, o których mowa w art. 6b ust. 1 ustawy zmienianej w art. 39, w brzmieniu nadanym niniejszą ustawą, wydanych w wyniku rozpatrzenia wniosków złożonych w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2024 r., poziom potrzeby wsparcia, o którym mowa w art. 4b ust. 3 ustawy zmienianej w art. 39, ustala się od dnia złożenia wniosku.
+3. W decyzjach, o których mowa w art. 6b3 ust. 1 ustawy zmienianej w art. 39, w brzmieniu nadanym niniejszą ustawą, wydanych w wyniku rozpatrzenia wniosków złożonych w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2024 r., poziom potrzeby wsparcia, o którym mowa w art. 4b ust. 3 ustawy zmienianej w art. 39, ustala się od dnia złożenia wniosku.
 
-4. Decyzję ustalającą poziom potrzeby wsparcia, o której mowa w ust. 3, wydaje się na okres, na który osoba została zaliczona do osób niepełnosprawnych na podstawie ostatecznego orzeczenia, ustalającego stopień niepełnosprawności, albo orzeczenia, o którym mowa w art. 5 albo art. 62, o których mowa w art. 6b ust. 1 pkt 2 ustawy zmienianej w art. 39, jednakże na okres nie dłuższy niż 7 lat, liczony od dnia złożenia wniosku.
+4. Decyzję ustalającą poziom potrzeby wsparcia, o której mowa w ust. 3, wydaje się na okres, na który osoba została zaliczona do osób niepełnosprawnych na podstawie ostatecznego orzeczenia, ustalającego stopień niepełnosprawności, albo orzeczenia, o którym mowa w art. 5 albo art. 62, o których mowa w art. 6b4 ust. 1 pkt 2 ustawy zmienianej w art. 39, jednakże na okres nie dłuższy niż 7 lat, liczony od dnia złożenia wniosku.
 
 **Art. 66.**
 
-1. Minister właściwy do spraw informatyzacji w porozumieniu z ministrem właściwym do spraw zabezpieczenia społecznego ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” komunikat określający dzień wdrożenia rozwiązań technicznych umożliwiających świadczenie usługi określonej w art. 6b ust. 4 pkt 1 ustawy zmienianej w art. 39, w brzmieniu nadanym niniejszą ustawą.
+1. Minister właściwy do spraw informatyzacji w porozumieniu z ministrem właściwym do spraw zabezpieczenia społecznego ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” komunikat określający dzień wdrożenia rozwiązań technicznych umożliwiających świadczenie usługi określonej w art. 6b3 ust. 4 pkt 1 ustawy zmienianej w art. 39, w brzmieniu nadanym niniejszą ustawą.
 
 2. Komunikat ogłasza się w terminie co najmniej 14 dni przed dniem wdrożenia rozwiązań technicznych określonym w tym komunikacie.
 
-**Art. 67.** Minister właściwy do spraw zabezpieczenia społecznego, w terminie do 3 miesięcy od dnia wejścia w życie niniejszego przepisu, jest obowiązany przekazać wojewódzkim zespołom do spraw orzekania o niepełnosprawności środki finansowe w wysokości 11,40 mln zł, o których mowa w art. 70 ust. 1 pkt 2 lit. a, na wdrożenie ustawy.
+**Art. 67.** Minister właściwy do spraw zabezpieczenia społecznego, w terminie do 3 miesięcy od dnia wejścia w życie niniejszego przepisu, jest obowiązany przekazać wojewódzkim zespołom do spraw orzekania o niepełnosprawności środki finansowe w wysokości 11,40 mln zł, o których mowa w art. 70 ust. 1 pkt 2 lit. a, na wdrożenie ustawy. Przepisy art. 64 ust. 4 pkt 12 i 13 ustawy zmienianej w art. 49, w brzmieniu nadanym niniejszą ustawą, stosuje się po raz pierwszy do sprawozdań za 2024 r.
 
-**Art. 68.** Przepisy art. 64 ust. 4 pkt 12 i 13 ustawy zmienianej w art. 49, w brzmieniu nadanym niniejszą ustawą, stosuje się po raz pierwszy do sprawozdań za 2024 r.
-
-**Art. 69.** Minister właściwy do spraw zabezpieczenia społecznego, po upływie roku od dnia wejścia w życie ustawy, dokona przeglądu stosowania przepisów ustawy oraz standardów, o których mowa w art. 4b ustawy zmienianej w art. 39, przepisów wydanych na podstawie art. 6b ust. 4 ustawy zmienianej w art. 39 oraz procedur postępowania w sprawach dotyczących ustalania poziomu potrzeby wsparcia, w celu dokonania oceny poziomów potrzeby wsparcia, od których uzależniona jest wysokość świadczenia wspierającego oraz przedstawienia rekomendacji Radzie Ministrów w kwestii ewentualnej konieczności podjęcia działań korygujących w systemie udzielania świadczenia wspierającego lub w innych systemach wykorzystujących ustalanie poziomu potrzeby wsparcia.
+**Art. 69.** Minister właściwy do spraw zabezpieczenia społecznego, po upływie roku od dnia wejścia w życie ustawy, dokona przeglądu stosowania przepisów ustawy oraz standardów, o których mowa w art. 4b ustawy zmienianej w art. 39, przepisów wydanych na podstawie art. 6b6 ust. 4 ustawy zmienianej w art. 39 oraz procedur postępowania w sprawach dotyczących ustalania poziomu potrzeby wsparcia, w celu dokonania oceny poziomów potrzeby wsparcia, od których uzależniona jest wysokość świadczenia wspierającego oraz przedstawienia rekomendacji Radzie Ministrów w kwestii ewentualnej konieczności podjęcia działań korygujących w systemie udzielania świadczenia wspierającego lub w innych systemach wykorzystujących ustalanie poziomu potrzeby wsparcia.
 
 **Art. 70.**
 
 1. W latach 2023–2033 maksymalny limit wydatków budżetu państwa będących skutkiem finansowym ustawy zmienianej w art. 39 w brzmieniu nadanym niniejszą ustawą, wynosi: 2140,79 mln zł, z tego:
 
-- **1)** w części 44 – Zabezpieczenie społeczne w:
-    - **a)** 2023 r. – 7,60 mln zł,
-    - **b)** 2024 r. – 3,13 mln zł,
-    - **c)** 2025 r. – 1,89 mln zł,
-    - **d)** 2026 r. – 1,95 mln zł,
-    - **e)** 2027 r. – 2,00 mln zł,
-    - **f)** 2028 r. – 2,05 mln zł,
-    - **g)** 2029 r. – 2,11 mln zł,
-    - **h)** 2030 r. – 2,23 mln zł,
-    - **i)** 2031 r. – 2,29 mln zł,
-    - **j)** 2032 r. – 2,35 mln zł;
+- **1)** w części 44 – Zabezpieczenie społeczne w: 2023 r. – 7,60 mln zł, 2024 r. – 3,13 mln zł, 2025 r. – 1,89 mln zł, 2026 r. – 1,95 mln zł, 2027 r. – 2,00 mln zł, 2028 r. – 2,05 mln zł, 2029 r. – 2,11 mln zł, 2030 r. – 2,23 mln zł, 2031 r. – 2,29 mln zł, 2032 r. – 2,35 mln zł;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
 
-- **2)** w części 85 – Województwa w:
-    - **a)** 2023 r. – 11,40 mln zł,
-    - **b)** 2024 r. – 197,22 mln zł,
-    - **c)** 2025 r. – 205,56 mln zł,
-    - **d)** 2026 r. – 214,20 mln zł,
-    - **e)** 2027 r. – 223,08 mln zł,
-    - **f)** 2028 r. – 232,30 mln zł,
-    - **g)** 2029 r. – 241,92 mln zł,
-    - **h)** 2030 r. – 251,92 mln zł,
-    - **i)** 2031 r. – 262,36 mln zł,
-    - **j)** 2032 r. – 273,23 mln zł.
+- **2)** w części 85 – Województwa w: 2023 r. – 11,40 mln zł, 2024 r. – 197,22 mln zł, 2025 r. – 205,56 mln zł, 2026 r. – 214,20 mln zł, 2027 r. – 223,08 mln zł, 2028 r. – 232,30 mln zł, 2029 r. – 241,92 mln zł, 2030 r. – 251,92 mln zł, 2031 r. – 262,36 mln zł, 2032 r. – 273,23 mln zł.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
 
 2. W przypadku przekroczenia lub zagrożenia przekroczeniem przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o których mowa w ust. 1, zostanie zastosowany mechanizm korygujący, polegający na zmniejszeniu kosztów związanych z obsługą realizacji zadań wynikających z ustawy zmienianej w art. 39.
 
@@ -727,4 +1157,23 @@ source: "isap-pdf"
 - **2)** w zakresie części budżetowej 85 – Województwa – wojewodowie.
 
 **Art. 71.** Ustawa wchodzi w życie z dniem 1 stycznia 2024 r., z wyjątkiem:
+
+- **1)** art. 4 ust. 1: pkt 3 – w zakresie osób, którym w decyzji ustalającej poziom potrzeby wsparcia potrzebę tę określono na poziomie 85 i 86 punktów w skali potrzeby wsparcia, o której mowa w art. 4b ust. 1 ustawy zmienianej w art. 39, pkt 4, pkt 5 – w zakresie osób, którym w decyzji ustalającej poziom potrzeby wsparcia potrzebę tę określono na poziomie 78 i 79 punktów w skali potrzeby wsparcia, o której mowa w art. 4b ust. 1 ustawy zmienianej w art. 39 które wchodzą w życie z dniem 1 stycznia 2025 r.;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** art. 4 ust. 1: pkt 5 – w zakresie osób, którym w decyzji ustalającej poziom potrzeby wsparcia potrzebę tę określono na poziomie 75–77 punktów w skali potrzeby wsparcia, o której mowa w art. 4b ust. 1 ustawy zmienianej w art. 39, pkt 6 które wchodzą w życie z dniem 1 stycznia 2026 r.;
+    - **a)**
+    - **b)**
+
+- **3)** art. 37, art. 38, art. 42, art. 43 pkt 2 i 7, art. 44 pkt 3 lit. b i pkt 4, art. 47, art. 49, art. 50, art. 52–54, art. 57, art. 59, art. 60, art. 63 ust. 5 i 16, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
+- **4)** art. 40 pkt 13 i 14 oraz art. 61, które wchodzą w życie z dniem 1 sierpnia 2023 r.;
+- **5)** art. 39, który wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem: pkt 5 w zakresie art. 6b3 ust. 4 pkt 1, który wchodzi w życie z dniem wdrożenia rozwiązań technicznych umożliwiających świadczenie usługi określonej w art. 6b3 ust. 4 pkt 1 ustawy zmienianej w art. 39, określonym w komunikacie, o którym mowa w art. 66, pkt 10–13, które wchodzą w życie z dniem ogłoszenia;
+    - **a)**
+    - **b)**
+
+- **6)** art. 56 pkt 1, art. 67 i art. 70, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **7)** art. 56 pkt 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 lipca 2023 r.
+
 

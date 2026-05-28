@@ -8,12 +8,10 @@ pos: 741
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# zadośćuczynieniu rodzinom ofiar zbiorowych wystąpień wolnościowych latach 1956–1989 W trosce zachowanie utrwalenie pamięci obywateli Rzeczypospolitej Polskiej wystąpień wolnościowych latach 1956–1989, które doprowadziły odzyskania 1989 r. suwerennego demokratycznego bytu przez Państwo Polskie, oraz mając na względzie: – czyny obywateli podejmowane trakcie zbiorowych wystąpień wolnościowych latach 1956–1989 obronie wolności, godności człowieka oraz praw obywatela przed komunistycznym ustrojem totalitarnym, – oddanie należnej sprawiedliwości obywatelom Państwa Polskiego, którzy walce komunistycznym ustrojem totalitarnym łamiącym prawa człowieka obywatela ponieśli śmierć podczas tych wystąpień wskutek działań wojska, milicji innych organów aparatu bezpieczeństwa, a także biorąc pod uwagę powinność wynagrodzenia rodzinom ofiar wystąpień wolnościowych latach 1956–1989 krzywd doznanych związku ze śmiercią ich bliskich, uchwala się, co następuje:
-
-*USTAWA dnia 7 maja 2009 r.*
+# Ustawa z dnia 7 maja 2009 r. o zadośćuczynieniu rodzinom ofiar zbiorowych wystąpień wolnościowych w latach 1956–1989
 
 | Pole | Wartość |
 |---|---|
@@ -24,38 +22,83 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2009-05-07 |
 | Data wydania | 2009-06-15 |
+| Wejście w życie | 2009-07-16 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090910741) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/741/text.pdf) |
 
-1. 1. Ustawa określa zasady zadośćuczynienia członkom rodzin osób, które na skutek działań wojska, milicji innych organów aparatu bezpieczeństwa poniosły śmierć związku wystąpieniami wolnościowymi na rzecz odzyskania przez Państwo Polskie suwerenności, niepodległości oraz respektowania praw człowieka obywatela czerwcu 1956 r. Poznaniu, październiku 1957 r. Warszawie, grudniu 1970 r. na Wybrzeżu (w Elblągu, Gdańsku, Gdyni Szczecinie), czerwcu 1976 r. Radomiu, okresie stanu wojennego trwającego od dnia 13 grudnia 1981 r.
-dnia 22 lipca 1983 r. oraz trakcie tłumienia manifestacji lub strajków latach 1983–1989.
-1) małżonka,
-2) dzieci własne oraz dzieci przysposobione,
-3) rodziców oraz osoby przysposabiające – zwanych dalej „członkami rodziny”.
-3. 1. Każdemu członkowi przysługuje świadczenie pieniężne wysokości 50 000 zł.
-Prawo przysługujące członkowi jest ściśle związane jego osobą niezbywalne. W przypadku śmierci członka po złożeniu wniosku, art. 4 prawo należy spadku po tej osobie.
-4. 1. Przyznanie następuje na wniosek członka rodziny, złożony organowi właściwemu sprawie przyznania terminie 10 lat od dnia wejścia życie ustawy.
-Wniosek, powinien zawierać:
-1) imię lub imiona nazwisko wnioskodawcy, datę miejsce urodzenia, imiona rodziców, numer PESEL, numer telefonu lub adres poczty elektronicznej oraz adres miejsca zamieszkania lub adres korespondencyjny oraz stopień pokrewieństwa lub powinowactwa łączący go ze zmarłą ofiarą zbiorowego wystąpienia wolnościowego;
-1a) imię lub imiona nazwisko osoby, której art. 1 nazwisko rodowe, datę miejsce urodzenia, imiona rodziców, numer PESEL, jeśli był nadany, oraz datę zgonu;
-2) wskazanie okoliczności uzasadniających przyznanie pieniężnego;
-3) informację przyznaniu, na podstawie art. 82 1 ustawy dnia 17 grudnia 1998 r. emeryturach rentach Funduszu Ubezpieczeń Społecznych (Dz. U.
-2020 r. poz. 53 252), przez Prezesa Rady Ministrów płatnej jednorazowo renty specjalnej tytułu śmierci osób, których art. 1 grudniu 1970 r. na Wybrzeżu (w Elblągu, Gdańsku, Gdyni Szczecinie);
-4) wskazanie formy wypłaty wraz informacją nazwie banku numerze rachunku bankowego wnioskodawcy przypadku wyboru tej formy wypłaty;
-skróconego aktu stanu cywilnego potwierdzającego zawarcie małżeństwa albo stopień pokrewieństwa tą osobą.
-4. Roszczenie przyznanie wygasa razie niezłożenia przez członka wniosku terminie, 1.
-5. Organem właściwym sprawie przyznania jest Szef Urzędu Spraw Kombatantów Osób Represjonowanych.
-6. 1. Przyznanie oraz odmowa przyznania przez Szefa Urzędu Spraw Kombatantów Osób Represjonowanych następuje drodze decyzji administracyjnej.
-Przed wydaniem decyzji, której Szef Urzędu Spraw Kombatantów Osób Represjonowanych może zwrócić się Prezesa Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu przekazanie informacji treści zgromadzonych przez Instytut dokumentów dotyczących okoliczności uzasadniających przyznanie pieniężnego, których art. 4 2 pkt 2, oraz przekazanie uwierzytelnionych kopii tych dokumentów.
-3. Decyzja, której jest ostateczna. Przepisu art. 127 § 3 ustawy dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. 2020 r. poz. 256) nie stosuje się.
-4. Od decyzji, której przysługuje skarga sądu administracyjnego na zasadach trybie określonych ustawie dnia 30 sierpnia 2002 r. – Prawo postępowaniu przed sądami administracyjnymi (Dz. U. 2019 r.
-poz. 2325).
-5. Sąd administracyjny rozpatruje skargę, której 4, terminie 30 dni od dnia jej otrzymania przez sąd.
-7. Do postępowania przyznanie stosuje się przepisy ustawy dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, chyba że ustawa stanowi inaczej.
-8. 1. Wypłaty dokonuje Urząd Spraw Kombatantów Osób Represjonowanych.
-3. Wypłata następuje części budżetu państwa, której dysponentem jest Szef Urzędu Spraw Kombatantów Osób Represjonowanych.
-9. Kwoty wypłacone na podstawie ustawy są wolne od podatku dochodowego od osób fizycznych.
-10. (pominięty)
-11. 1. Świadczenie pieniężne nie przysługuje członkom rodzin, na podstawie art. 82 1 ustawy dnia 17 grudnia 1998 r. emeryturach rentach Funduszu Ubezpieczeń Społecznych Prezes Rady Ministrów przyznał płatną jednorazowo rentę specjalną tytułu śmierci osób, których art. 1 grudniu 1970 r. na Wybrzeżu (w Elblągu, Gdańsku, Gdyni Szczecinie), zastrzeżeniem Członkom rodzin, których którzy otrzymali płatną jednorazowo rentę specjalną wysokości niższej niż określona art. 3 przysługuje świadczenie pieniężne kwocie stanowiącej różnicę między wysokością przysługującego na podstawie niniejszej ustawy a wysokością przyznanej renty specjalnej.
-12. Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia .
+W trosce o zachowanie i utrwalenie w pamięci obywateli Rzeczypospolitej Polskiej wystąpień wolnościowych w latach 1956–1989, które doprowadziły do odzyskania w 1989 r. suwerennego i demokratycznego bytu przez Państwo Polskie, oraz mając na względzie:
+– czyny obywateli podejmowane w trakcie zbiorowych wystąpień wolnościowych w latach 1956–1989 w obronie wolności, godności człowieka oraz praw obywatela przed komunistycznym ustrojem totalitarnym,
+– oddanie należnej sprawiedliwości obywatelom Państwa Polskiego, którzy w walce z komunistycznym ustrojem totalitarnym łamiącym prawa człowieka i obywatela ponieśli śmierć podczas tych wystąpień wskutek działań wojska, milicji i innych organów aparatu bezpieczeństwa, a także biorąc pod uwagę powinność wynagrodzenia rodzinom ofiar wystąpień wolnościowych w latach 1956–1989 krzywd doznanych w związku ze śmiercią ich bliskich, uchwala się, co następuje:
+
+**Art. 1.**
+
+1. Ustawa określa zasady zadośćuczynienia członkom rodzin osób, które na skutek działań wojska, milicji i innych organów aparatu bezpieczeństwa poniosły śmierć w związku z wystąpieniami wolnościowymi na rzecz odzyskania przez Państwo Polskie suwerenności, niepodległości oraz respektowania praw człowieka i obywatela w czerwcu 1956 r. w Poznaniu, w październiku 1957 r. w Warszawie, w grudniu 1970 r. na Wybrzeżu (w Elblągu, Gdańsku, Gdyni i Szczecinie), w czerwcu 1976 r. w Radomiu, w okresie stanu wojennego trwającego od dnia 13 grudnia 1981 r. do dnia 22 lipca 1983 r. oraz w trakcie tłumienia manifestacji lub strajków w latach 1983–1989.
+
+2. Zadośćuczynienie, o którym mowa w ust. 1, polega na przyznaniu jednorazowego świadczenia pieniężnego, zwanego dalej „świadczeniem pieniężnym”.
+
+**Art. 2.** Do członków rodzin osób, o których mowa w art. 1 ust. 1, zalicza się ich:
+
+- **1)** małżonka,
+- **2)** dzieci własne oraz dzieci przysposobione,
+- **3)** rodziców oraz osoby przysposabiające zwanych dalej „członkami rodziny”.
+
+**Art. 3.**
+
+1. Każdemu członkowi rodziny przysługuje świadczenie pieniężne w wysokości 50 000 zł.
+
+2. Prawo do świadczenia pieniężnego przysługujące członkowi rodziny jest ściśle związane z jego osobą i niezbywalne. W przypadku śmierci członka rodziny po złożeniu wniosku, o którym mowa w art. 4 ust. 1, prawo do świadczenia pieniężnego należy do spadku po tej osobie.
+
+**Art. 4.**
+
+1. Przyznanie świadczenia pieniężnego następuje na wniosek członka rodziny, złożony organowi właściwemu w sprawie przyznania świadczenia pieniężnego w terminie 10 lat od dnia wejścia w życie ustawy.
+
+2. Wniosek, o którym mowa w ust. 1, powinien zawierać:
+
+- **1)** imię i nazwisko, datę urodzenia, numer PESEL oraz miejsce zamieszkania wnioskodawcy;
+- **2)** wskazanie okoliczności uzasadniających przyznanie świadczenia pieniężnego;
+- **3)** informację o przyznaniu, na podstawie art. 82 ust. 1 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.), przez Prezesa Rady Ministrów płatnej jednorazowo renty specjalnej z tytułu śmierci osób, o których mowa w art. 1 ust. 1, w grudniu 1970 r. na Wybrzeżu (w Elblągu, Gdańsku, Gdyni i Szczecinie);
+- **4)** wskazanie formy wypłaty świadczenia pieniężnego;
+- **5)** podpis wnioskodawcy.
+
+3. Do wniosku, o którym mowa w ust. 1, członek rodziny dołącza odpis skrócony aktu zgonu osoby, o której mowa w art. 1 ust. 1, oraz odpis skrócony aktu stanu cywilnego potwierdzającego zawarcie małżeństwa albo stopień pokrewieństwa z tą osobą.
+
+4. Roszczenie o przyznanie świadczenia pieniężnego wygasa w razie niezłożenia przez członka rodziny wniosku w terminie, o którym mowa w ust. 1.
+
+**Art. 5.** Organem właściwym w sprawie przyznania świadczenia pieniężnego jest Kierownik Urzędu do Spraw Kombatantów i Osób Represjonowanych.
+
+**Art. 6.**
+
+1. Przyznanie oraz odmowa przyznania świadczenia pieniężnego przez Kierownika Urzędu do Spraw Kombatantów i Osób Represjonowanych następuje w drodze decyzji administracyjnej.
+
+2. Przed wydaniem decyzji, o której mowa w ust. 1, Kierownik Urzędu do Spraw Kombatantów i Osób Represjonowanych może zwrócić się do Prezesa Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu o przekazanie informacji o treści zgromadzonych przez Instytut dokumentów dotyczących okoliczności uzasadniających przyznanie świadczenia pieniężnego, o których mowa w art. 4 ust. 2 pkt 2, oraz o przekazanie uwierzytelnionych kopii tych dokumentów.
+
+3. Decyzja, o której mowa w ust. 1, jest ostateczna. Przepisu art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.) nie stosuje się.
+
+4. Od decyzji, o której mowa w ust. 1, przysługuje skarga do sądu administracyjnego na zasadach i w trybie określonych w ustawie z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. Nr 153, poz. 1270, z późn. zm.).
+
+5. Sąd administracyjny rozpatruje skargę, o której mowa w ust. 4, w terminie 30 dni od dnia jej otrzymania przez sąd.
+
+**Art. 7.** Do postępowania o przyznanie świadczenia pieniężnego stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, chyba że ustawa stanowi inaczej.
+
+**Art. 8.**
+
+1. Wypłaty świadczenia pieniężnego dokonuje Urząd do Spraw Kombatantów i Osób Represjonowanych.
+
+2. Wypłaty dokonuje się w formie wskazanej we wniosku, o którym mowa w art. 4 ust. 1, w terminie miesiąca od dnia doręczenia członkowi rodziny decyzji o przyznaniu świadczenia pieniężnego.
+
+3. Wypłata świadczenia pieniężnego następuje z części budżetu państwa, której dysponentem jest Kierownik Urzędu do Spraw Kombatantów i Osób Represjonowanych.
+
+**Art. 9.** Kwoty świadczenia pieniężnego wypłacone na podstawie ustawy są wolne od podatku dochodowego od osób fizycznych.
+
+**Art. 10.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. Nr 14, poz. 176, z późn. zm.) w art. 21 w ust. 1 w pkt 133 kropkę zastępuje się przecinkiem i dodaje się pkt 134 w brzmieniu: „
+
+- **134)** świadczenia pieniężne otrzymane na podstawie ustawy z dnia 7 maja 2009 r. o zadośćuczynieniu rodzinom ofiar zbiorowych wystąpień wolnościowych w latach 1956–1989 (Dz. U. Nr 91, poz. 741). ” .
+
+**Art. 11.**
+
+1. Świadczenie pieniężne nie przysługuje członkom rodzin, którym na podstawie art. 82 ust. 1 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych Prezes Rady Ministrów przyznał płatną jednorazowo rentę specjalną z tytułu śmierci osób, o których mowa w art. 1 ust. 1, w grudniu 1970 r. na Wybrzeżu (w Elblągu, Gdańsku, Gdyni i Szczecinie), z zastrzeżeniem ust. 2.
+
+2. Członkom rodzin, o których mowa w ust. 1, którzy otrzymali płatną jednorazowo rentę specjalną w wysokości niższej niż określona w art. 3 ust. 1, przysługuje świadczenie pieniężne w kwocie stanowiącej różnicę między wysokością świadczenia pieniężnego przysługującego na podstawie niniejszej ustawy a wysokością przyznanej renty specjalnej.
+
+**Art. 12.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

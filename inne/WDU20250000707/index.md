@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o podatkach i opłatach lokalnych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 maja 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 czerwca 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-06-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000707) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/707/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 maja 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o podatkach i opłatach lokalnych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2023 r. poz. 70), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572),
 2) ustawą z dnia 18 października 2024 r. o zmianie niektórych ustaw związanych z udzielaniem pomocy de minimis (Dz. U. poz. 1635),
@@ -73,6 +73,16 @@ Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879 i
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa normuje:
+
+- **1)** podatek od nieruchomości;
+- **2)** podatek od środków transportowych;
+- **3)** (uchylony)
+- **4)** opłatę targową;
+- **5)** opłatę miejscową;
+- **5a)** opłatę uzdrowiskową;
+- **5b)** opłatę reklamową;
+- **6)** (uchylony)
+- **7)** opłatę od posiadania psów.
 
 **Art. 1a.**
 
@@ -408,6 +418,14 @@ Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879 i
 
 **Art. 8.** Opodatkowaniu podatkiem od środków transportowych podlegają:
 
+- **1)** samochody ciężarowe o dopuszczalnej masie całkowitej powyżej 3,5 tony i poniżej 12 ton;
+- **2)** samochody ciężarowe o dopuszczalnej masie całkowitej równej lub wyższej niż 12 ton;
+- **3)** ciągniki siodłowe i balastowe przystosowane do używania łącznie z naczepą lub przyczepą o dopuszczalnej masie całkowitej zespołu pojazdów od 3,5 tony i poniżej 12 ton;
+- **4)** ciągniki siodłowe i balastowe przystosowane do używania łącznie z naczepą lub przyczepą o dopuszczalnej masie całkowitej zespołu pojazdów równej lub wyższej niż 12 ton;
+- **5)** przyczepy i naczepy, które łącznie z pojazdem silnikowym posiadają dopuszczalną masę całkowitą od 7 ton i poniżej 12 ton, z wyjątkiem związanych wyłącznie z działalnością rolniczą prowadzoną przez podatnika podatku rolnego;
+- **6)** przyczepy i naczepy, które łącznie z pojazdem silnikowym posiadają dopuszczalną masę całkowitą równą lub wyższą niż 12 ton, z wyjątkiem związanych wyłącznie z działalnością rolniczą prowadzoną przez podatnika podatku rolnego;
+- **7)** autobusy.
+
 **Art. 9.**
 
 1. Obowiązek podatkowy w zakresie podatku od środków transportowych, z zastrzeżeniem ust. 2, ciąży na osobach fizycznych i osobach prawnych będących właścicielami środków transportowych. Jak właścicieli traktuje się również jednostki organizacyjne nieposiadające osobowości prawnej, na które środek transportowy jest zarejestrowany, oraz posiadaczy środków transportowych zarejestrowanych na terytorium Rzeczypospolitej Polskiej jako powierzone przez zagraniczną osobę fizyczną lub prawną podmiotowi polskiemu.
@@ -548,6 +566,9 @@ Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879 i
 
 **Art. 16.** Zwalnia się od opłaty targowej:
 
+- **1)** osoby i jednostki wymienione w art. 15 ust. 1, które są podatnikami podatku od nieruchomości w związku z przedmiotami opodatkowania położonymi na targowiskach;
+- **2)** rolników i ich domowników prowadzących w piątki i soboty handel w rozumieniu art. 2 pkt 4 ustawy z dnia 29 października 2021 r. o ułatwieniach w prowadzeniu handlu w piątki i soboty przez rolników i ich domowników (Dz. U. poz. 2290).
+
 **Art. 17.**
 
 1. Rada gminy może wprowadzić opłatę miejscową. Opłatę miejscową pobiera się od osób fizycznych przebywających dłużej niż dobę w celach turystycznych, wypoczynkowych lub szkoleniowych:
@@ -631,6 +652,22 @@ Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879 i
 
 **Art. 19.** Rada gminy, w drodze uchwały:
 
+- **1)** określa zasady ustalania i poboru oraz terminy płatności i wysokość stawek opłat określonych w ustawie, z tym że:
+    - **a)** stawka opłaty targowej nie może przekroczyć 597,86 zł dziennie,
+    - **b)** stawka opłaty miejscowej w miejscowościach, o których mowa w art. 17 ust. 1 pkt 1, nie może przekroczyć 1,67 zł dziennie,
+    - **c)** stawka opłaty miejscowej w miejscowościach posiadających status obszaru ochrony uzdrowiskowej nie może przekroczyć 2,40 zł dziennie,
+    - **d)** stawka opłaty uzdrowiskowej nie może przekroczyć 3,33 zł dziennie,
+    - **e)** (uchylona)
+    - **f)** stawka opłaty od posiadania psów nie może przekroczyć 100 zł rocznie od jednego psa,
+    - **g)** stawka części stałej opłaty reklamowej nie może przekroczyć 2,50 zł dziennie,
+    - **h)** stawka części zmiennej opłaty reklamowej nie może przekroczyć 0,20 zł od 1 m pola powierzchni tablicy reklamowej lub urządzenia reklamowego służących ekspozycji reklamy dziennie;
+
+- **2)** może zarządzić pobór tych opłat w drodze inkasa oraz określić inkasentów i wysokość wynagrodzenia za inkaso, a także może wprowadzić obowiązek prowadzenia przez inkasentów ewidencji osób zobowiązanych do uiszczania opłaty miejscowej lub opłaty uzdrowiskowej oraz określić szczegółowy zakres danych zawartych w tych ewidencjach, uwzględniając konieczność zapewnienia prawidłowego poboru tych opłat;
+- **3)** może wprowadzać inne niż wymienione w ustawie zwolnienia przedmiotowe od opłat lokalnych;
+- **4)** może różnicować wysokość stawek opłaty reklamowej uwzględniając lokalizację oraz wielkość lub rodzaj tablicy reklamowej lub urządzenia reklamowego;
+- **5)** może wprowadzić obowiązek składania organowi podatkowemu właściwemu ze względu na miejsce położenia tablic reklamowych lub urządzeń reklamowych, deklaracji na opłatę reklamową, a także określić termin, warunki i tryb składania tych deklaracji; w tym przypadku rada gminy określa wzór formularza deklaracji na opłatę reklamową, w którym zawarte będą dane dotyczące podmiotu i przedmiotu opodatkowania niezbędne do wymiaru i poboru opłaty reklamowej.
+- **6)** (uchylony)
+
 **Art. 19a.**
 
 1. Deklaracje na opłatę reklamową, o których mowa w art. 19 pkt 5, mogą być składane za pomocą środków komunikacji elektronicznej.
@@ -681,4 +718,14 @@ Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879 i
 **Art. 23.** Traci moc ustawa z dnia 14 marca 1985 r. o podatkach i opłatach lokalnych (Dz. U. poz. 50, z 1988 r. poz. 132, z 1989 r. poz. 192 i 443 oraz z 1990 r. poz. 198).
 
 **Art. 24.** Ustawa wchodzi w życie z dniem ogłoszenia i ma zastosowanie do opłat należnych po tym dniu oraz poczynając od roku podatkowego 1991 do należnych podatków. STAWKI MINIMALNE PODATKU DLA POJAZDÓW OKREŚLONYCH W ART. 8 PKT 2 USTAWY Liczba osi i dopuszczalna Minimalna stawka podatku (w złotych) masa całkowita (w tonach) nie mniej niż mniej niż oś jezdna (osie jezdne) inne systemy zawieszenia z zawieszeniem pneumatycznym osi jezdnych lub zawieszeniem uznanym za równoważne Dwie osie 12 13 0 123 13 14 123 340 14 15 340 479 15 479 1084 Trzy osie 12 17 123 214 17 19 214 439 19 21 439 570 21 23 570 878 23 25 878 1365 25 878 1365 Cztery osie i więcej 12 25 570 578 25 27 578 902 27 29 902 1432 29 31 1432 2124 31 1432 2124 STAWKI MINIMALNE PODATKU DLA POJAZDÓW OKREŚLONYCH W ART. 8 PKT 4 USTAWY Liczba osi i dopuszczalna masa Minimalna stawka podatku (w złotych) całkowita zespołu pojazdów: ciągnik siodłowy + naczepa, ciągnik balastowy + przyczepa (w tonach) nie mniej niż mniej niż oś jezdna (osie jezdne) z zawieszeniem inne systemy pneumatycznym lub zawieszeniem uznanym zawieszenia za równoważne osi jezdnych Dwie osie 12 18 0 33 18 25 230 416 25 31 485 796 31 1223 1678 Trzy osie i więcej 12 40 1079 1492 40 1492 2207 STAWKI MINIMALNE PODATKU DLA POJAZDÓW OKREŚLONYCH W ART. 8 PKT 6 USTAWY Liczba osi i dopuszczalna masa całkowita Minimalna stawka podatku (w złotych) zespołu pojazdów: naczepa/przyczepa + pojazd silnikowy (w tonach) nie mniej niż mniej niż oś jezdna (osie jezdne) inne systemy z zawieszeniem pneumatycznym zawieszenia lub zawieszeniem uznanym osi jezdnych za równoważne Jedna oś 12 18 0 22 18 25 154 277 25 277 486 Dwie osie 12 28 182 268 28 33 531 736 33 38 736 1118 38 995 1472 Trzy osie i więcej 12 38 586 816 38 816 1109 WYKAZ OBIEKTÓW, O KTÓRYCH MOWA W ART. 1A UST. 1 PKT 2 LIT. A USTAWY Pozycja Obiekt 1 odkryty obiekt sportowy inny niż wymieniony w poz. 2 2 płyta stadionu, tunel dla zawodników, trybuny wchodzące w skład stadionu 3 amfiteatr 4 zbiornik wody surowej, hala technologiczna, zbiornik retencyjny wody uzdatnionej, odstojnik wód popłucznych wchodzące w skład stacji uzdatniania wody 5 stacja zlewna, przepompownia ścieków oczyszczonych, osadnik wstępny, osadnik wtórny, reaktor biologiczny, komora tlenowa, komora rozdziału, komora niedotleniona, komora beztlenowa, zagęszczacz grawitacyjny, instalacja do odwadniania osadów, instalacja do odgazowywania, stacja zagęszczania osadu nadmiernego, stacja dozowania kwasu octowego, zbiornik wyrównawczy cieczy nadosadowej, przepompownia osadu recyrkulowanego i nadmiernego, komora predenitryfikacji wchodzące w skład oczyszczalni ścieków 6 obiekt, w którym są lub mogą być gromadzone materiały sypkie, materiały występujące w kawałkach albo materiały w postaci ciekłej lub gazowej, którego podstawowym parametrem technicznym wyznaczającym jego przeznaczenie jest pojemność, inny niż wymieniony w poz. 4 i poz. 5 7 obiekt ochronny 8 nadziemne i podziemne przejście dla pieszych, ciąg pieszy 9 obiekt hydrotechniczny: zapora, próg, stopień wodny, jaz, śluza wałowa, syfon, brama przeciwpowodziowa, kanał, śluza żeglowna, opaska brzegowa, ostroga brzegowa, rów melioracyjny inny niż ziemny, obiekt zrzutu wody, obiekt zrzutu ścieków, obudowa ujęć wód podziemnych 10 obiekt kontenerowy trwale związany z gruntem 11 wiata, z wyłączeniem wiaty wymienionej w art. 1a ust. 1 pkt 2a lit. c 12 podbudowa słupowa dla linii kablowej, fundament, konstrukcja wsporcza, wolno stojący maszt antenowy, wolno stojąca wieża, szafa telekomunikacyjna, słupek telekomunikacyjny wchodzące w skład sieci telekomunikacyjnej 13 występujące samodzielnie lub stanowiące element sieci obiekty, których charakterystycznym parametrem jest długość:
+
+o transporcie kolejowym 18 most, wiadukt, estakada, przepust, przejazd 19 ujęcie wód morskich, ujęcie wód śródlądowych 20 konstrukcja oporowa, konstrukcja wsporcza inna niż wymieniona w załączniku 21 tunel 22 ogrodzenie 23 składowisko odpadów 24 parking znajdujący się poza budynkiem, plac postojowy, plac składowy, plac pod śmietnik, podjazd, zadaszenie 25 wolno stojące: wieża, maszt, oświetlenie zewnętrzne oraz wolno stojące trwale związane z gruntem: instalacja przemysłowa inna niż wymieniona w załączniku, tablica reklamowa, urządzenie reklamowe 26 wolno stojący komin, chłodnia kominowa 27 waga samochodowa, waga kolejowa 28 przekrycie namiotowe, powłoka pneumatyczna, strzelnica, kiosk uliczny, pawilon sprzedaży ulicznej, pawilon wystawowy trwale związane z gruntem
+
+- **a)** wodociąg, gazociąg, ciepłociąg oraz inny rurociąg,
+- **b)** trakcja elektroenergetyczna, linia elektroenergetyczna,
+- **c)** linia kablowa podziemna, umieszczona bezpośrednio w ziemi lub nadziemna, z wyłączeniem kabli telekomunikacyjnych dowieszonych do już istniejącej linii kablowej nadziemnej,
+- **d)** kanalizacja kablowa, z wyłączeniem zainstalowanych w niej kabli,
+- **e)** kanał technologiczny, z wyłączeniem zainstalowanych w nim kabli,
+- **f)** kanał inny niż wymieniony w załączniku wraz z przewodami, fundamentem, podbudową słupową oraz konstrukcją wsporczą, o ile je posiadają 14 przystań, sztuczna wyspa, basen portowy, dok, falochron, nabrzeże, molo, pirs, pomost, pochylnia, dalba, stawa 15 pas startowy, droga kołowania, płyta lotniskowa, plac postojowy, plac manewrowy znajdujące się na terenach lotnisk oraz lądowisko 16 droga, wjazd, zjazd i wyjazd z drogi, zatoka parkingowa 17 droga kolejowa, tj. tory kolejowe, w tym rozjazdy i skrzyżowania torów, wchodzące w ich skład szyny, szyny żłobkowe, kierownice, odbojnice, prowadnice, zwrotnice, krzyżownice i inne elementy rozjazdów, podkłady kolejowe i przytwierdzenia, drobne elementy nawierzchni kolejowej, podsypka, w tym tłuczeń i piasek, wraz z elementami wymienionymi w pkt 2–11 załącznika nr 1 do ustawy z dnia 28 marca 2003 r.
+
 

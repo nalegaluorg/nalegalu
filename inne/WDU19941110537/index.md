@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1994-09-02 |
 | Data wydania | 1994-10-20 |
+| Wejście w życie | 1994-11-19 |
 | Ostatnia zmiana | 2026-02-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19941110537) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1994/537/text.pdf) |
 

@@ -8,12 +8,10 @@ pos: 666
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# zmieniające rozporządzenie sprawie kształcenia osób niebędących obywatelami polskimi osób będących obywatelami polskimi, które pobierały naukę szkołach funkcjonujących systemach oświaty innych państw Na podstawie art. 94a 6 ustawy 7 września 1991 r. systemie oświaty (Dz. U. 2018 r. poz. 1457, 1560, 1669 2245) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Edukacji Narodowej 9 września 2016 r. sprawie kształcenia osób niebędących obywatelami polskimi osób będących obywatelami polskimi, które pobierały naukę szkołach funkcjonujących systemach oświaty innych państw (Dz. U. poz. 1453 2017 r. poz. 1634) wprowadza się następujące zmiany:
-
-*ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ 28 marca 2019 r.*
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 28 marca 2019 r. zmieniające rozporządzenie w sprawie kształcenia osób niebędących obywatelami polskimi oraz osób będących obywatelami polskimi, które pobierały naukę w szkołach funkcjonujących w systemach oświaty innych państw
 
 | Pole | Wartość |
 |---|---|
@@ -24,36 +22,79 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2019-03-28 |
 | Data wydania | 2019-04-10 |
+| Wejście w życie | 2019-04-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000666) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/666/text.pdf) |
 
-1) § 1 pkt 1 wyrazy „publicznych przedszkoli, innych form wychowania przedszkolnego, szkół,” zastępuje się wyrazami „publicznych gimnazjów, szkół ponadgimnazjalnych klas tych szkół prowadzonych szkołach innego typu,”;
-2) § 6 § 7 otrzymują brzmienie: „§ 6. 1. Uczniowie przybywający zagranicy są kwalifikowani do odpowiedniej klasy publicznym gimnazjum podstawie dokumentów.
-2. W przypadkach uzasadnionych warunkami demograficznymi, jeżeli przyjęcie wymaga przeprowadzenia zmian organizacyjnych pracy gimnazjum, którego obwodzie mieszkają uczniowie, których mowa 1, organ wykonawczy jednostki samorządu terytorialnego prowadzącej gimnazjum może wskazać jako miejsce realizacji obowiązku szkolnego:
-1) inne publiczne gimnazjum prowadzone przez tę jednostkę samorządu terytorialnego;
-2) publiczne gimnazjum prowadzone przez inną jednostkę samorządu terytorialnego, po zawarciu porozumienia tą jednostką samorządu terytorialnego.
-3. W przypadku braku możliwości wskazania jako miejsca realizacji obowiązku szkolnego gimnazjów, których mowa 2, wniosek organu wykonawczego jednostki samorządu terytorialnego prowadzącej gimnazjum, którego obwodzie mieszkają uczniowie, których mowa 1, kurator oświaty wskazuje gimnazjum, którym uczniowie będą realizować obowiązek szkolny.
-4. Przepisy 1–3 stosuje się odpowiednio do uczniów przybywających zagranicy, którzy są kwalifikowani przyjmowani do klas gimnazjum funkcjonujących szkołach innego typu.
-§ 7. 1. Uczeń przybywający zagranicy jest kwalifikowany do odpowiedniej klasy lub odpowiedni semestr przyjmowany do:
-1) publicznego trzyletniego liceum ogólnokształcącego podstawie dokumentów, zwanej dalej „ustawą Prawo oświatowe”, zgodnie art. 94 1 ustawy 22 listopada 2018 r.
-zmianie ustawy Prawo oświatowe, ustawy systemie oświaty niektórych innych ustaw (Dz. U.
-poz. 2245 2432 2019 r. poz. 534): zawodzie, dla którego podstawa programowa przewiduje kształcenie zgodnie wymogami określonymi Międzynarodowej konwencji wymaganiach zakresie wyszkolenia marynarzy, wydawania im świadectw pełnienia wacht, 1978, sporządzonej Londynie 7 lipca 1978 r. (Dz. U.
-1984 r. poz. 201, 1999 r. poz. 286, 2013 r. poz. 1092, 2018 r. poz. 1866 2088 2019 r.
-poz. 103) orzeczenia lekarskiego wydawanego formie świadectwa zdrowia zdolności do pracy statku, którym mowa art. 4 2 ustawy 5 sierpnia 2015 r. pracy morzu (Dz. U.
-2018 r. poz. 616 2245), przy czym do uczniów nie stosuje się warunku posiadania zaświadczenia, którym mowa lit. b, zawodzie, dla którego podstawa programowa przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym orzeczenia lekarskiego braku przeciwwskazań zdrowotnych do kierowania pojazdami, wydanego zgodnie przepisami rozdziału 12 ustawy 5 stycznia 2011 r.
-kierujących pojazdami (Dz. U. 2019 r. poz. 341 622), zawodzie, dla którego podstawa programowa przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym zakresie prawa jazdy kategorii C lub C+E orzeczenia psychologicznego braku przeciwwskazań psychologicznych do kierowania pojazdem, którym mowa art. 84 1 ustawy 5 stycznia 2011 r. kierujących pojazdami,
-d) przypadku uczniów, którzy realizują podstawę programową kształcenia zawodach, której mowa przepisach wydanych podstawie art. 47 1 pkt 2 ustawy Prawo oświatowe, zgodnie art. 94 4 ustawy 22 listopada 2018 r. zmianie ustawy Prawo oświatowe, ustawy systemie oświaty niektórych innych ustaw, zawodzie, dla którego podstawa programowa przewiduje kształcenie zgodnie wymogami określonymi Międzynarodowej konwencji wymaganiach zakresie wyszkolenia marynarzy, wydawania im świadectw pełnienia wacht, 1978, sporządzonej Londynie 7 lipca 1978 r.
-orzeczenia lekarskiego, którym mowa lit. c tiret pierwsze, przy czym do uczniów nie stosuje się warunku posiadania zaświadczenia, którym mowa lit. b,
-e) przypadku uczniów, którzy realizują podstawę programową kształcenia zawodach, której mowa przepisach wydanych podstawie art. 22 2 pkt 2a ustawy, zgodnie art. 282 2 ustawy 14 grudnia 2016 r. Przepisy wprowadzające ustawę Prawo oświatowe (Dz. U. 2017 r. poz. 60, 949 2203 2018 r. poz. 2245), zawodzie, dla którego podstawa programowa przewiduje kształcenie zgodnie wymogami określonymi Międzynarodowej konwencji wymaganiach zakresie wyszkolenia marynarzy, wydawania im świadectw pełnienia wacht, 1978, sporządzonej Londynie 7 lipca 1978 r. orzeczenia lekarskiego, którym mowa lit. c tiret pierwsze, przy czym do uczniów nie stosuje się warunku posiadania zaświadczenia, którym mowa lit. b,
-3) publicznej szkoły policealnej semestr IV lub V, których mowa art. 282 2 pkt 2 ustawy 14 grudnia 2016 r. Przepisy wprowadzające ustawę Prawo oświatowe podstawie:
-a) dokumentów: świadectwa lub innego dokumentu wydanego za granicą potwierdzających Rzeczypospolitej Polskiej wykształcenie średnie lub uprawnienie do ubiegania się przyjęcie studia, podstawie art. 93 1 lub 2 ustawy albo świadectwa lub innego dokumentu wydanego za granicą uznanych za dokumenty potwierdzające Rzeczypospolitej Polskiej wykształcenie średnie lub uprawnienie do ubiegania się przyjęcie studia, podstawie art. 93 3 ustawy, albo
-c) przypadku uczniów, którzy realizują podstawę programową kształcenia zawodach, której mowa przepisach wydanych podstawie art. 22 2 pkt 2a ustawy, zgodnie art. 282 2 pkt 2 ustawy 14 grudnia 2016 r. Przepisy wprowadzające ustawę Prawo oświatowe, zawodzie, dla którego podstawa programowa przewiduje kształcenie zgodnie wymogami określonymi Międzynarodowej konwencji wymaganiach zakresie wyszkolenia marynarzy, wydawania im świadectw pełnienia wacht, 1978, sporządzonej Londynie 7 lipca 1978 r. orzeczenia lekarskiego, którym mowa pkt 2 lit. c tiret pierwsze, przy czym do uczniów nie stosuje się warunku posiadania zaświadczenia, którym mowa lit. b,
-d) przypadku uczniów szkoły, której program nauczania wymaga od uczniów szczególnych indywidualnych uzdolnień lub predyspozycji przydatnych danym zawodzie przypadkach, których mowa § 11 1, podstawie wyniku uzyskanego ze sprawdzianu uzdolnień lub predyspozycji przydatnych danym zawodzie, którym mowa art. 20g 1a art. 20k 1a ustawy, jeżeli taki sprawdzian jest szkole przeprowadzany,
-4) publicznej szkoły ponadgimnazjalnej, której mowa pkt 1 2, której program nauczania realizowany szkole lub oddziale wymaga od uczniów szczególnych indywidualnych predyspozycji przypadkach, których mowa § 11 1, podstawie wyniku uzyskanego ze sprawdzianu uzdolnień kierunkowych, którym mowa art. 20f 5 ustawy, po spełnieniu warunków, których mowa odpowiednio pkt 1 2,
-5) publicznej szkoły ponadgimnazjalnej dwujęzycznej, oddziału dwujęzycznego lub oddziału międzynarodowego publicznej szkole ponadgimnazjalnej ogólnodostępnej przypadkach, których mowa § 11 1, podstawie pozytywnego wyniku sprawdzianu kompetencji językowych, którym mowa art. 20j 1 ustawy, po spełnieniu warunków, których mowa odpowiednio pkt 1 2,
-6) publicznej szkoły ponadgimnazjalnej sportowej, publicznej szkoły ponadgimnazjalnej mistrzostwa sportowego, oddziału sportowego publicznej szkole ponadgimnazjalnej ogólnodostępnej lub oddziału mistrzostwa sportowego publicznej szkole ponadgimnazjalnej ogólnodostępnej po spełnieniu warunków, których mowa odpowiednio pkt 1 2, warunków, których mowa art. 20h 1 ustawy jeżeli szkoła dysponuje wolnymi miejscami.
-2. Przepisy 1 stosuje się odpowiednio do uczniów przybywających zagranicy, którzy są kwalifikowani przyjmowani do klas lub semestr szkół ponadgimnazjalnych, prowadzonych szkołach innego typu.”;
-3) § 9 1 wyrazy „ustawy 14 grudnia 2016 r. Prawo oświatowe (Dz. U. 2017 r. poz. 59 949), zwanej dalej „ustawą Prawo oświatowe”” zastępuje się wyrazami „ustawy Prawo oświatowe”.
-§ 2. Rozporządzenie wchodzi życie po upływie 14 dni od ogłoszenia.
-Minister Edukacji Narodowej: A. Zalewska
+Treść rozporządzenia
+Na podstawie art. 94a ust. 6 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2018 r. poz. 1457, 1560, 1669 i 2245) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Ministra Edukacji Narodowej z dnia 9 września 2016 r. w sprawie kształcenia osób niebędących obywatelami polskimi oraz osób będących obywatelami polskimi, które pobierały naukę w szkołach funkcjonujących w systemach oświaty innych państw (Dz. U. poz. 1453 oraz z 2017 r. poz. 1634) wprowadza się następujące zmiany:
+1)
+w § 1 w pkt 1 wyrazy „publicznych przedszkoli, innych form wychowania przedszkolnego, szkół,” zastępuje się wyrazami „publicznych gimnazjów, szkół ponadgimnazjalnych oraz klas tych szkół prowadzonych w szkołach innego typu,”;
+2)
+§ 6 i § 7 otrzymują brzmienie:
+„
+§ 6.
+1.
+Uczniowie przybywający z zagranicy są kwalifikowani do odpowiedniej klasy w publicznym gimnazjum na podstawie dokumentów.
+2.
+W przypadkach uzasadnionych warunkami demograficznymi, jeżeli przyjęcie wymaga przeprowadzenia zmian organizacyjnych pracy gimnazjum, w którego obwodzie mieszkają uczniowie, o których mowa w ust. 1, organ wykonawczy jednostki samorządu terytorialnego prowadzącej gimnazjum może wskazać jako miejsce realizacji obowiązku szkolnego:
+1)
+inne publiczne gimnazjum prowadzone przez tę jednostkę samorządu terytorialnego;
+2)
+publiczne gimnazjum prowadzone przez inną jednostkę samorządu terytorialnego, po zawarciu porozumienia z tą jednostką samorządu terytorialnego.
+3.
+W przypadku braku możliwości wskazania jako miejsca realizacji obowiązku szkolnego gimnazjów, o których mowa w ust. 2, na wniosek organu wykonawczego jednostki samorządu terytorialnego prowadzącej gimnazjum, w którego obwodzie mieszkają uczniowie, o których mowa w ust. 1, kurator oświaty wskazuje gimnazjum, w którym uczniowie będą realizować obowiązek szkolny.
+4.
+Przepisy ust. 1–3 stosuje się odpowiednio do uczniów przybywających z zagranicy, którzy są kwalifikowani i przyjmowani do klas gimnazjum funkcjonujących w szkołach innego typu.
+§ 7.
+1.
+Uczeń przybywający z zagranicy jest kwalifikowany do odpowiedniej klasy lub na odpowiedni semestr oraz przyjmowany do:
+1)
+publicznego trzyletniego liceum ogólnokształcącego – na podstawie dokumentów,
+2)
+publicznego czteroletniego technikum i klas zasadniczej szkoły zawodowej prowadzonych w branżowej szkole I stopnia – na podstawie:
+a)
+dokumentów,
+b)
+zaświadczenia lekarskiego zawierającego orzeczenie o braku przeciwwskazań zdrowotnych do podjęcia praktycznej nauki zawodu, o którym mowa w art. 20f ust. 1 pkt 2 ustawy,
+c)
+w przypadku uczniów, którzy realizują podstawę programową kształcenia w zawodach szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2018 r. poz. 996, 1000, 1290, 1669 i 2245 oraz z 2019 r. poz. 534), zwanej dalej „ustawą Prawo oświatowe”, zgodnie z art. 94 ust. 1 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534):
+– w zawodzie, dla którego podstawa programowa przewiduje kształcenie zgodnie z wymogami określonymi w Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r. (Dz. U. z 1984 r. poz. 201, z 1999 r. poz. 286, z 2013 r. poz. 1092, z 2018 r. poz. 1866 i 2088 oraz z 2019 r. poz. 103) – orzeczenia lekarskiego wydawanego w formie świadectwa zdrowia o zdolności do pracy na statku, o którym mowa w art. 4 ust. 2 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. z 2018 r. poz. 616 i 2245), przy czym do uczniów nie stosuje się warunku posiadania zaświadczenia, o którym mowa w lit. b,
+– w zawodzie, dla którego podstawa programowa przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym – orzeczenia lekarskiego o braku przeciwwskazań zdrowotnych do kierowania pojazdami, wydanego zgodnie z przepisami rozdziału 12 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2019 r. poz. 341 i 622),
+– w zawodzie, dla którego podstawa programowa przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym w zakresie prawa jazdy kategorii C lub C+E – orzeczenia psychologicznego o braku przeciwwskazań psychologicznych do kierowania pojazdem, o którym mowa w art. 84 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami,
+d)
+w przypadku uczniów, którzy realizują podstawę programową kształcenia w zawodach, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy Prawo oświatowe, zgodnie z art. 94 ust. 4 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw, w zawodzie, dla którego podstawa programowa przewiduje kształcenie zgodnie z wymogami określonymi w Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r. – orzeczenia lekarskiego, o którym mowa w lit. c tiret pierwsze, przy czym do uczniów nie stosuje się warunku posiadania zaświadczenia, o którym mowa w lit. b,
+e)
+w przypadku uczniów, którzy realizują podstawę programową kształcenia w zawodach, o której mowa w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a ustawy, zgodnie z art. 282 ust. 2 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60, 949 i 2203 oraz z 2018 r. poz. 2245), w zawodzie, dla którego podstawa programowa przewiduje kształcenie zgodnie z wymogami określonymi w Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r. – orzeczenia lekarskiego, o którym mowa w lit. c tiret pierwsze, przy czym do uczniów nie stosuje się warunku posiadania zaświadczenia, o którym mowa w lit. b,
+3)
+publicznej szkoły policealnej na semestr IV lub V, o których mowa w art. 282 ust. 2 pkt 2 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe – na podstawie:
+a)
+dokumentów:
+– świadectwa lub innego dokumentu wydanego za granicą potwierdzających w Rzeczypospolitej Polskiej wykształcenie średnie lub uprawnienie do ubiegania się o przyjęcie na studia, na podstawie art. 93 ust. 1 lub 2 ustawy albo
+– świadectwa lub innego dokumentu wydanego za granicą uznanych za dokumenty potwierdzające w Rzeczypospolitej Polskiej wykształcenie średnie lub uprawnienie do ubiegania się o przyjęcie na studia, na podstawie art. 93 ust. 3 ustawy, albo
+– ostatecznej decyzji administracyjnej w sprawie potwierdzenia w Rzeczypospolitej Polskiej wykształcenia średniego lub uprawnienia do ubiegania się o przyjęcie na studia, wydanej na podstawie art. 93a ustawy, albo
+– świadectwa lub innego dokumentu wydanych za granicą uznanych w drodze nostryfikacji do dnia 31 marca 2015 r. za równorzędne ze świadectwem dojrzałości, świadectwem ukończenia liceum ogólnokształcącego, świadectwem ukończenia liceum profilowanego lub świadectwem ukończenia technikum,
+b)
+zaświadczenia lekarskiego zawierającego orzeczenie o braku przeciwwskazań zdrowotnych do podjęcia praktycznej nauki zawodu, o którym mowa w art. 20f ust. 1 pkt 2 ustawy,
+c)
+w przypadku uczniów, którzy realizują podstawę programową kształcenia w zawodach, o której mowa w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a ustawy, zgodnie z art. 282 ust. 2 pkt 2 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe, w zawodzie, dla którego podstawa programowa przewiduje kształcenie zgodnie z wymogami określonymi w Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r. – orzeczenia lekarskiego, o którym mowa w pkt 2 lit. c tiret pierwsze, przy czym do uczniów nie stosuje się warunku posiadania zaświadczenia, o którym mowa w lit. b,
+d)
+w przypadku uczniów szkoły, w której program nauczania wymaga od uczniów szczególnych indywidualnych uzdolnień lub predyspozycji przydatnych w danym zawodzie – w przypadkach, o których mowa w § 11 ust. 1, na podstawie wyniku uzyskanego ze sprawdzianu uzdolnień lub predyspozycji przydatnych w danym zawodzie, o którym mowa w art. 20g ust. 1a i art. 20k ust. 1a ustawy, jeżeli taki sprawdzian jest w szkole przeprowadzany,
+4)
+publicznej szkoły ponadgimnazjalnej, o której mowa w pkt 1 i 2, w której program nauczania realizowany w szkole lub oddziale wymaga od uczniów szczególnych indywidualnych predyspozycji – w przypadkach, o których mowa w § 11 ust. 1, na podstawie wyniku uzyskanego ze sprawdzianu uzdolnień kierunkowych, o którym mowa w art. 20f ust. 5 ustawy, oraz po spełnieniu warunków, o których mowa odpowiednio w pkt 1 i 2,
+5)
+publicznej szkoły ponadgimnazjalnej dwujęzycznej, oddziału dwujęzycznego lub oddziału międzynarodowego w publicznej szkole ponadgimnazjalnej ogólnodostępnej – w przypadkach, o których mowa w § 11 ust. 1, na podstawie pozytywnego wyniku sprawdzianu kompetencji językowych, o którym mowa w art. 20j ust. 1 ustawy, oraz po spełnieniu warunków, o których mowa odpowiednio w pkt 1 i 2,
+6)
+publicznej szkoły ponadgimnazjalnej sportowej, publicznej szkoły ponadgimnazjalnej mistrzostwa sportowego, oddziału sportowego w publicznej szkole ponadgimnazjalnej ogólnodostępnej lub oddziału mistrzostwa sportowego w publicznej szkole ponadgimnazjalnej ogólnodostępnej – po spełnieniu warunków, o których mowa odpowiednio w pkt 1 i 2, oraz warunków, o których mowa w art. 20h ust. 1 ustawy
+jeżeli szkoła dysponuje wolnymi miejscami.
+2.
+Przepisy ust. 1 stosuje się odpowiednio do uczniów przybywających z zagranicy, którzy są kwalifikowani i przyjmowani do klas lub na semestr szkół ponadgimnazjalnych, prowadzonych w szkołach innego typu.
+” ;
+3)
+w § 9 w ust. 1 wyrazy „ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59 i 949), zwanej dalej „ustawą Prawo oświatowe”” zastępuje się wyrazami „ustawy Prawo oświatowe”.
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2315).
 

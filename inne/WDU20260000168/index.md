@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Polskiej Akademii Nauk
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 lutego 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 lutego 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-02-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000168) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/168/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 lutego 2026 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o Polskiej Akademii Nauk
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2020 r. poz. 1796), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621) oraz zmian wynikających z przepisów ogłoszonych przed dniem 4 lutego 2026 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 114 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U.
 poz. 621), który stanowi: „Art. 114. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia.”.
@@ -161,6 +161,11 @@ o Polskiej Akademii Nauk
 
 **Art. 13.** Organami Akademii są:
 
+- **1)** Zgromadzenie Ogólne Akademii;
+- **2)** Prezydium Akademii;
+- **3)** Prezes Akademii;
+- **4)** Kanclerz Akademii.
+
 **Art. 14.**
 
 1. Najwyższym organem Akademii jest Zgromadzenie Ogólne Akademii.
@@ -239,6 +244,9 @@ o Polskiej Akademii Nauk
 **Art. 20.** Prezydium Akademii może powoływać na czas określony komisje i zespoły doradcze. Komisje i zespoły doradcze działają niedłużej niż do końca kadencji Prezydium Akademii.
 
 **Art. 20a.** Posiedzenia organów Akademii, o których mowa w art. 13 pkt 1 i 2, oraz komisji i zespołów doradczych, o których mowa w art. 20, mogą być przeprowadzane przy użyciu środków komunikacji elektronicznej, zapewniających w szczególności:
+
+- **1)** transmisję posiedzenia w czasie rzeczywistym między jego uczestnikami,
+- **2)** wielostronną komunikację w czasie rzeczywistym, w ramach której uczestnicy posiedzenia mogą wypowiadać się w jego toku z zachowaniem niezbędnych zasad bezpieczeństwa.
 
 **Art. 21.**
 
@@ -325,6 +333,14 @@ o Polskiej Akademii Nauk
 #### Rozdział 4 Korporacja uczonych Akademii
 
 **Art. 27.** Korporacja uczonych Akademii obejmuje:
+
+- **1)** wydziały, w liczbie niewiększej niż pięć;
+- **2)** oddziały;
+- **3)** komitety naukowe;
+- **4)** komitety problemowe;
+- **5)** akademię młodych uczonych;
+- **6)** komisję do spraw etyki w nauce;
+- **7)** komisję rewizyjną.
 
 **Art. 28.**
 
@@ -478,11 +494,18 @@ o Polskiej Akademii Nauk
 
 **Art. 41a.** Posiedzenia gremiów kolegialnych podmiotów, o których mowa w art. 27 pkt 1 i 2, oraz posiedzenia podmiotów, o których mowa w art. 27 pkt 3–7, mogą być przeprowadzane przy użyciu środków komunikacji elektronicznej, zapewniających w szczególności:
 
+- **1)** transmisję posiedzenia w czasie rzeczywistym między jego uczestnikami,
+- **2)** wielostronną komunikację w czasie rzeczywistym, w ramach której uczestnicy posiedzenia mogą wypowiadać się w jego toku z zachowaniem niezbędnych zasad bezpieczeństwa.
+
 #### Rozdział 5 Jednostki naukowe i inne jednostki organizacyjne Akademii
 
 **Art. 42.** Podstawową jednostką naukową Akademii jest instytut naukowy, zwany dalej „instytutem”.
 
 **Art. 43.** Instytut tworzy się, jeżeli:
+
+- **1)** istnieje potrzeba prowadzenia w sposób ciągły działalności naukowej, która ze względu na swój zakres, skalę lub charakter nie może być prowadzona przez inne podmioty, o których mowa w art. 7 ust. 1 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, oraz do prowadzenia tej działalności jest potrzebna znaczna koncentracja pracowników naukowych oraz odpowiednia aparatura badawcza;
+- **2)** zostanie zapewniona niezbędna liczba pracowników, niemniejsza niż 12 w przeliczeniu na pełny wymiar czasu pracy, o kwalifikacjach odpowiednich do prowadzenia działalności naukowej;
+- **3)** zapewniono odpowiednie lokale, wyposażenie i środki finansowe.
 
 **Art. 44.** Uchwałę o utworzeniu instytutu podejmuje Prezydium Akademii, na wniosek Prezesa Akademii złożony po zasięgnięciu opinii wydziału właściwego ze względu na specjalność naukową instytutu. Utworzenie instytutu wymaga zgody ministra właściwego do spraw szkolnictwa wyższego i nauki, o którą występuje Prezes Akademii.
 
@@ -750,6 +773,12 @@ o Polskiej Akademii Nauk
 5. Do podziału instytutu stosuje się odpowiednio przepisy art. 62 ust. 3–6.
 
 **Art. 64.** Reorganizacja instytutu może polegać na:
+
+- **1)** zmianie przedmiotu lub zakresu działania instytutu;
+- **2)** zmianie dotychczasowej nazwy instytutu;
+- **3)** dokonaniu zmian w strukturze organizacyjnej instytutu:
+    - **a)** likwidacji wyodrębnionej organizacyjnie części instytutu,
+    - **b)** przekazaniu Akademii lub sprzedaży wyodrębnionych organizacyjnie i gospodarczo części instytutu.
 
 **Art. 65.**
 
@@ -1049,6 +1078,13 @@ o Polskiej Akademii Nauk
 
 **Art. 87.** Jednostki naukowe Akademii mogą zatrudniać:
 
+- **1)** pracowników naukowych;
+- **2)** pracowników badawczo-technicznych;
+- **3)** pracowników bibliotecznych, dokumentacji i informacji naukowej;
+- **4)** pracowników inżynieryjnych i technicznych;
+- **5)** pracowników organizacyjno-ekonomicznych i administracyjnych;
+- **6)** pracowników na stanowiskach robotniczych i obsługi.
+
 **Art. 88.**
 
 1. Pracownicy naukowi mogą być zatrudniani na stanowiskach:
@@ -1082,6 +1118,15 @@ o Polskiej Akademii Nauk
 
 **Art. 90.** Bibliotekarze oraz pracownicy dokumentacji i informacji naukowej mogą być zatrudnieni na stanowiskach:
 
+- **1)** kustosza dyplomowanego;
+- **2)** starszego kustosza dyplomowanego;
+- **3)** asystenta bibliotecznego;
+- **4)** adiunkta bibliotecznego;
+- **5)** asystenta dokumentacji i informacji naukowej;
+- **6)** adiunkta dokumentacji i informacji naukowej;
+- **7)** dokumentalisty dyplomowanego;
+- **8)** starszego dokumentalisty dyplomowanego.
+
 **Art. 91.**
 
 1. Stosunek pracy na stanowisku profesora lub profesora instytutu nawiązuje się na podstawie mianowania albo umowy o pracę. Na podstawie mianowania zatrudnia się wyłącznie osobę posiadającą tytuł profesora. Wyłącznie na podstawie umowy o pracę można zatrudnić osobę, która:
@@ -1105,6 +1150,10 @@ o Polskiej Akademii Nauk
 - **3)** na tym samym stanowisku, jeżeli poprzednia umowa o pracę była zawarta na czas niekrótszy niż trzy lata.
 
 **Art. 91a.** Wysokość miesięcznego wynagrodzenia zasadniczego w jednostce naukowej Akademii dla pracownika naukowego nie może być niższa niż 50 % wynagrodzenia określonego w przepisach wydanych na podstawie art. 137 ust. 2 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, z tym że dla:
+
+- **1)** profesora wynosi niemniej niż 100 %,
+- **2)** profesora instytutu wynosi niemniej niż 83 %,
+- **3)** adiunkta wynosi niemniej niż 73 % tego wynagrodzenia.
 
 **Art. 92.** (uchylony)
 
@@ -1138,7 +1187,18 @@ o Polskiej Akademii Nauk
 
 **Art. 94a.** Rada naukowa uchwala regulamin zarządzania prawami autorskimi i prawami pokrewnymi oraz prawami własności przemysłowej oraz zasad komercjalizacji wyników badań naukowych i prac rozwojowych, który określa w szczególności:
 
+- **1)** prawa i obowiązki instytutu, pracowników oraz doktorantów w zakresie ochrony i korzystania z praw autorskich i praw pokrewnych oraz praw własności przemysłowej;
+- **2)** zasady wynagradzania twórców;
+- **3)** zasady podziału środków uzyskanych z komercjalizacji między twórcą będącym pracownikiem instytutu a tym instytutem;
+- **4)** zasady i procedury komercjalizacji wyników badań naukowych i prac rozwojowych oraz know-how związanego z tymi wynikami;
+- **5)** zasady korzystania z majątku instytutu wykorzystywanego do komercjalizacji wyników badań naukowych i prac rozwojowych oraz świadczenia usług naukowo-badawczych;
+- **6)** zasady i tryb przekazywania instytutowi przez pracownika lub doktoranta tego instytutu informacji o wynikach badań naukowych lub prac rozwojowych oraz o know-how związanym z tymi wynikami, informacji o uzyskanych przez pracownika instytutu środkach z komercjalizacji oraz zasady i tryb przekazywania przez pracownika instytutu przysługujących instytutowi części środków uzyskanych z komercjalizacji;
+- **7)** zasady i tryb przekazywania pracownikowi przez instytut informacji o decyzjach, o których mowa w art. 94c ust. 1 i 2, oraz zasady i tryb przekazywania przez instytut przysługujących pracownikowi części środków uzyskanych z komercjalizacji.
+
 **Art. 94b.** Do wyników:
+
+- **1)** badań naukowych będących wynalazkiem, wzorem użytkowym, wzorem przemysłowym lub topografią układu scalonego, wyhodowaną albo odkrytą i wyprowadzoną odmianą rośliny,
+- **2)** prac rozwojowych powstałych w ramach wykonywania przez pracownika instytutu obowiązków ze stosunku pracy oraz do know-how związanego z tymi wynikami stosuje się przepisy art. 94c–94f.
 
 **Art. 94c.**
 

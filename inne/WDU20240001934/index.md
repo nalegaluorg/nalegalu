@@ -8,10 +8,10 @@ pos: 1934
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# 1. Średnie wynagrodzenia nauczycieli,o których ust. 3 ustawy (kolumna 4) Średnie wynagrodzenie nauczyciela początkującego obowiązujące od stycznia do 31 (kolumna 4 rubryka 1) zostało wyliczone jako iloczyn kwoty bazowej określonej dla ustawie budżetowej na rok 18 stycznia wskaźnika, którym ust. 3 pkt ustawy (kolumna 3 rubryka 1), zwiększony 2,308 % zgodnie 3 ustawy 16 stycznia szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024, według wzoru: kolumna 4 rubryka = kolumna 3 rubryka × kwota bazo wa × 1,02308.
+# Rozporządzenie Ministra Edukacjiz dnia 19 grudnia 2024 r. zmieniające rozporządzenie w sprawie sposobu opracowywania sprawozdania z wysokości średnich wynagrodzeń nauczycieli
 
 | Pole | Wartość |
 |---|---|
@@ -22,15 +22,32 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-19 |
 | Data wydania | 2024-12-27 |
+| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2024-12-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001934) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1934/text.pdf) |
 
-Średnie wynagrodzenia mianowanych dyplomowanych obowiązujące od stycznia do 31 (kolumna 4) zostało wyliczone jako iloczyn kwoty bazowej określonej dla ustawie budżetowej na rok 18 stycznia wskaźników, których odpowiednio ust. 3 pkt 3 ustawy (kolumna 3) według wzoru: kolumna 4 = kolumna 3 × kwota bazowa.
-2. Średnia liczba etatów (kolumna 5) Średnią liczbę etatów oblicza się od stycznia do 31 grudnia.
-W przypadku nauczyciela, który przez część miesiąca pobierał świadczenie pieniężne, którym przepisach świadczeniach pieniężnych ubezpieczenia społecznego razie choroby macierzyństwa, za miesiąc przyjmuje się dni.
-3. Iloczyn średniej liczby etatów średnich wynagrodzeń nauczycieli, których ust. 3 ustawy (kolumna 6) Dla początkujących iloczyn średniej liczby etatów średniego wynagrodzenia, zwiększonego 2,308 % zgodnie 3 ustawy 16 stycznia szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024, oblicza się według wzoru: kolumna 6 rubryka = 12 × (kolumna 4 rubryka × kolumna 5 rubryka 1).
-ust. ustawy (kolumna 7) Wydatki poniesione na wynagrodzenia składnikach, których ust. ustawy, obejmują wyłącznie wydatki poniesione budżetu jednostki samorządu terytorialnego na wynagrodzenia składnikach, których ust. ustawy, bez pochodnych od wynagrodzeń.
-5. Kwota różnicy (kolumna 8) Dla początkujących kwotę różnicy oblicza się jako różnicę między wydatkami poniesionymi na wynagrodzenia początkujących składnikach, których ust. ustawy (kolumna 7 rubryka 1), a iloczynem średniej liczby etatów początkujących średniego wynagrodzenia nauczyciela początkującego, którym ust. 3 pkt ustawy, zwiększonego 2,308 % zgodnie 3 ustawy 16 stycznia szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok (kolumna 6 rubryka 1), według wzoru: kolumna 8 rubryka = kolumna 7 rubryka − kolumna 6 rubryka 1.
-Dla mianowanych dyplomowanych kwotę różnicy oblicza się jako różnicę między wydatkami poniesionymi na wynagrodzenia mianowanych dyplomowanych składnikach, których ust. ustawy (kolumna 7), a iloczynem średniej liczby etatów odpowiednio mianowanych dyplomowanych oraz średnich wynagrodzeń mianowanych dyplomowanych, których odpowiednio ust. 3 pkt 3 ustawy (kolumna 6), według wzoru: kolumna 8 = kolumna 7 − kolumna 6.
-Liczba ujemna stanowi kwotę różnicy, jaką należy podzielić wypłacić formie jednorazowego dodatku uzupełniającego.
+Treść rozporządzenia
+Załącznik – Sprawozdanie z wysokości średnich wynagrodzeń nauczycieli początkujących, mianowanych i dyplomowanych w szkołach prowadzonych przez jednostkę samorządu terytorialnego za 2024 r. (wzór)
+Treść rozporządzenia
+Na podstawie art. 30a ust. 7 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2024 r. poz. 986 i 1871) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Ministra Edukacji i Nauki z dnia 15 grudnia 2022 r. w sprawie sposobu opracowywania sprawozdania z wysokości średnich wynagrodzeń nauczycieli (Dz. U. poz. 2767) wprowadza się następujące zmiany:
+1)
+po § 7 dodaje się § 7a w brzmieniu:
+„
+§ 7a.
+1.
+Średnie wynagrodzenie nauczyciela początkującego w 2024 r. wylicza się jako iloczyn kwoty bazowej określonej dla nauczycieli w ustawie budżetowej na rok 2024 z dnia 18 stycznia 2024 r. (Dz. U. poz. 122 i 1754) i wskaźnika, o którym mowa w art. 30 ust. 3 pkt 1 ustawy, zwiększony o 2,308 % zgodnie z art. 3 ustawy z dnia 16 stycznia 2024 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024 (Dz. U. poz. 123, 834 i 1755).
+2.
+Kwotę różnicy za 2024 r. dla nauczycieli początkujących ustala się jako różnicę między wydatkami poniesionymi w 2024 r. na wynagrodzenia tych nauczycieli w składnikach, o których mowa w art. 30 ust. 1 ustawy, a iloczynem średniej liczby etatów nauczycieli początkujących i średniego wynagrodzenia nauczyciela początkującego, o którym mowa w art. 30 ust. 3 pkt 1 ustawy, wyliczonego w 2024 r. w sposób określony w ust. 1.
+3.
+Sprawozdanie z wysokości średnich wynagrodzeń nauczycieli w szkołach prowadzonych przez jednostkę samorządu terytorialnego za 2024 r. sporządza się na formularzu sprawozdania, którego wzór jest określony w załączniku nr 5 do rozporządzenia. Przepis § 6 ust. 2 stosuje się odpowiednio.
+” ;
+2)
+dodaje się załącznik nr 5 do rozporządzenia w brzmieniu określonym w załączniku do niniejszego rozporządzenia.
+§ 2.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r.
+1) Minister Edukacji kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).
+Załącznik – Sprawozdanie z wysokości średnich wynagrodzeń nauczycieli początkujących, mianowanych i dyplomowanych w szkołach prowadzonych przez jednostkę samorządu terytorialnego za 2024 r. (wzór)
+patrz oryginał
 

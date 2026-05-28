@@ -8,10 +8,10 @@ pos: 1720
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# z dnia 16 czerwca 2023 r.
+# Ustawa z dnia 16 czerwca 2023 r. o zmianie ustawy o publicznym transporcie zbiorowym oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -22,113 +22,345 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2023-06-16 |
 | Data wydania | 2023-08-28 |
+| Wejście w życie | 2023-09-28 |
 | Ostatnia zmiana | 2025-01-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001720) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1720/text.pdf) |
 
-o zmianie ustawy o publicznym transporcie zbiorowym oraz niektórych innych ustaw
+22)
+art. 50 otrzymuje brzmienie:
+„
 
 **Art. 1.** W ustawie z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2022 r. poz. 1343 i 2666 oraz z 2023 r. poz. 1003, 1234 i 1688) wprowadza się następujące zmiany:
 
+- **1)** w art. 1 ust. 2 otrzymuje brzmienie: „
+
+2. Ustawa określa także zasady finansowania regularnego przewozu osób w publicznym transporcie zbiorowym, realizowanego na terytorium Rzeczypospolitej Polskiej w transporcie, o którym mowa w ust. 1. ” ;
+
+- **2)** w art. 3: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/782 z dnia 29 kwietnia 2021 r. dotyczącego praw i obowiązków pasażerów w ruchu kolejowym (Dz. Urz. UE L 172 z 17.05.2021, str. 1); ” , – uchyla się pkt 3, – pkt 6 otrzymuje brzmienie: „ 6) rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1071/2009 z dnia 21 października 2009 r. ustanawiającego wspólne zasady dotyczące warunków wykonywania zawodu przewoźnika drogowego i uchylającego dyrektywę Rady 96/26/WE (Dz. Urz. UE L 300 z 14.11.2009, str. 51, z późn. zm.) ; ” , – w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 brzmieniu: „ 9) rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1177/2010 z dnia 24 listopada 2010 r. o prawach pasażerów podróżujących drogą morską i drogą wodną śródlądową oraz zmieniającego rozporządzenie (WE) nr 2006/2004 (Dz. Urz. UE L 334 z 17.12.2010, str. 1, z późn. zm.) . ” , ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2. W zakresie regularnego przewozu osób realizowanego w strefie transgranicznej, przepisy ustawy stosuje się z uwzględnieniem przepisów ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 2201, z późn. zm.) oraz rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1073/2009 z dnia 21 października 2009 r. w sprawie wspólnych zasad dostępu do międzynarodowego rynku usług autokarowych i autobusowych i zmieniającego rozporządzenie (WE) nr 561/2006 w zakresie międzynarodowego transportu drogowego. ” ;
+
+- **3)** w art. 4 w ust. 1 pkt 11 otrzymuje brzmienie: „
+- **11)** przewoźnik – przedsiębiorca uprawniony do prowadzenia działalności gospodarczej w zakresie przewozu osób na podstawie zezwolenia na wykonywanie regularnych przewozów osób w krajowym transporcie drogowym, o którym mowa w art. 18 ust. 1 pkt 1 ustawy z dnia 6 września 2001 r. o transporcie drogowym, a w transporcie kolejowym – przewoźnik kolejowy, o którym mowa w art. 4 pkt 9 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2023 r. poz. 602, 967 i 1003), wykonujący przewóz osób; ” ;
+- **4)** w art. 5 w ust. 2: pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** zezwolenia na wykonywanie regularnych przewozów osób w krajowym transporcie drogowym, o którym mowa w art. 18 ust. 1 pkt 1 ustawy z dnia 6 września 2001 r. o transporcie drogowym; ” , w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+    - **b)**
+
+- **4)** jednolitego certyfikatu bezpieczeństwa, o którym mowa w art. 17e ust. 1 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym, albo świadectwa bezpieczeństwa, o którym mowa w art. 17e ust. 3 tej ustawy. ” ;
+- **5)** w art. 8 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+- **4)** możliwość ustanowienia zintegrowanego systemu taryfowo-biletowego obowiązującego w jego granicach. ” ;
+- **6)** po art. 15 dodaje się art. 151 w brzmieniu: „
+
+**Art. 151.**
+
+1. Organizator inny niż związek metropolitalny i minister właściwy do spraw transportu, samodzielnie lub w porozumieniu z innymi organizatorami, może ustanowić, na obszarze swojej właściwości w ramach danego województwa, zintegrowany system taryfowo-biletowy obowiązujący w jego granicach.
+
+2. Organizator działający w ramach jednego województwa, w tym związek metropolitalny, może przystąpić do uczestnictwa w systemie taryfowo-biletowym, jeżeli system ten ustanawia województwo.
+
+3. Wzajemne rozliczenia z tytułu uczestnictwa organizatora w zintegrowanym systemie taryfowo-biletowym określa porozumienie zawarte przez województwo z pozostałymi organizatorami. ” ;
+
+- **7)** w art. 19 w ust. 1 uchyla się pkt 2;
+- **8)** w art. 21 w ust. 1a wyrazy „specyfikacji istotnych warunków zamówienia” zastępuje się wyrazami „dokumentach zamówienia”;
+- **9)** w art. 22: w ust. 1 w pkt 4 skreśla się wyrazy „i 2”, uchyla się ust. 4–6, ust. 9 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+9. Do bezpośredniego zawarcia umowy, o którym mowa w ust. 1, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, z wyłączeniem art. 36. ” ;
+
+- **10)** w art. 22b skreśla się wyrazy „i 2”;
+- **11)** w art. 23 w ust. 1 we wprowadzeniu do wyliczenia i w ust. 4 w pkt 4 skreśla się wyrazy „i 2”;
+- **12)** w art. 25: w ust. 3 w pkt 24 skreśla się wyrazy „i 2”, ust. 5 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+5. Przy uzgadnianiu zasad korzystania z przystanków komunikacyjnych i dworców, o którym mowa w ust. 3 pkt 16, właściciel przystanku komunikacyjnego położonego w granicach administracyjnych miasta lub dworca albo zarządzający tymi obiektami uzgadnia zasady korzystania z tych obiektów, w przypadku gdy proponowany rozkład jazdy:
+
+- **1)** określa przystanki komunikacyjne lub dworce: o których mowa w art. 15 ust. 1 pkt 7, wskazane w uchwale, o której mowa w art. 15 ust. 2;
+    - **a)**
+    - **b)**
+
+- **2)** nie ograniczy przepustowości przystanków komunikacyjnych lub dworców;
+- **3)** nie spowoduje zagrożenia dla organizacji lub bezpieczeństwa ruchu. ” ;
+- **13)** w art. 28: w ust. 2: – pkt 5 otrzymuje brzmienie: „ 5) określenie przebiegu linii komunikacyjnej, na której będzie wykonywany przewóz, z zastrzeżeniem pkt 6; ” , – dodaje się pkt 6 w brzmieniu: „ 6) w komunikacji miejskiej – określenie przebiegu sieci komunikacyjnej, na której będzie wykonywany przewóz. ” , ust. 3 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+3. Załącznikiem do zaświadczenia, o którym mowa w ust. 1, jest obowiązujący rozkład jazdy. W komunikacji miejskiej rozkład jazdy może być dołączony w postaci elektronicznej, jeżeli środek transportu jest wyposażony w urządzenie umożliwiające jego odczytanie. ” ;
+
+- **14)** po art. 28 dodaje się art. 28a w brzmieniu: „
+
+**Art. 28a.**
+
+1. Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw gospodarki morskiej oraz ministrem właściwym do spraw żeglugi śródlądowej określi, w drodze rozporządzenia, wzór zaświadczenia, o którym mowa w art. 28 ust. 1, a także wysokość opłaty za wydanie zaświadczenia, wtórnika zaświadczenia oraz zmianę zaświadczenia, która nie może być wyższa niż odpowiednio 1000 zł za wydanie zaświadczenia, 200 zł za wydanie wtórnika zaświadczenia oraz 100 zł za zmianę zaświadczenia.
+
+2. Wydając rozporządzenie, o którym mowa w ust. 1, uwzględnia się:
+
+- **1)** zakres danych niezbędnych do wydania dokumentów, o których mowa w ust. 1;
+- **2)** potrzebę zabezpieczenia dokumentów, o których mowa w ust. 1;
+- **3)** potrzebę zróżnicowania wysokości opłat za wydanie dokumentów, o których mowa w ust. 1, w zależności od: wysokości kosztów za czynności administracyjne związane z wydaniem tych dokumentów, wysokości kosztów związanych z organizacją publicznego transportu zbiorowego. ” ;
+    - **a)**
+    - **b)**
+
+- **15)** w dziale II w rozdziale 3 uchyla się oddziały 3 i 4;
+- **16)** w art. 43 w ust. 1: pkt 7 otrzymuje brzmienie: „
+    - **a)**
+
+- **7)** zatwierdzaniu rozkładów jazdy oraz dokonywaniu ich aktualizacji w przypadku przewozów wykonywanych na podstawie zezwolenia na wykonywanie regularnych przewozów osób w krajowym transporcie drogowym; ” , w pkt 10 kropkę zastępuje się średnikiem i dodaje się w pkt 11 w brzmieniu: „
+    - **b)**
+
+- **11)** ustanawianiu zintegrowanego systemu taryfowo-biletowego obowiązującego w jego granicach, samodzielnie lub w porozumieniu z innymi organizatorami. ” ;
+- **17)** art. 44 otrzymuje brzmienie: „
+
+**Art. 44.** W przypadku wystąpienia okoliczności uniemożliwiających wykonywanie publicznego transportu zbiorowego zgodnie z warunkami zawartej umowy, o której mowa w art. 25, w szczególności w zakresie przebiegu linii komunikacyjnej lub sieci komunikacyjnej, organizator wyraża zgodę na ograniczenie świadczenia usługi w zakresie publicznego transportu zbiorowego oraz określa warunki, na jakich może być ona wykonywana w tych okolicznościach, na zasadach określonych w przepisach ustawy z dnia 15 listopada 1984 r. – Prawo przewozowe, a w transporcie morskim – na zasadach określonych w przepisach ustawy z dnia 18 września 2001 r. – Kodeks morski. ” ;
+
+- **18)** w art. 44a w ust. 1 wyrazy „ust. 1 pkt 2 lit. a-c” zastępuje się wyrazami „pkt 3”;
+- **19)** w art. 45 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Do kontroli zaświadczenia, o którym mowa w art. 28 ust. 1, oraz warunków realizacji przewozów w nim określonych są uprawnieni: ” ;
+- **20)** w art. 46 w ust. 1: w pkt 6: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ cennik opłat lub taryfa są podawane do publicznej wiadomości na dworcu, na stronie internetowej operatora i przewoźnika, jeżeli taką posiada, a w każdym środku transportu wykonującym przewozy w ramach komunikacji miejskiej oraz w transporcie drogowym znajduje się wyciąg z cennika opłat lub taryfy, przy czym cennik opłat powinien zawierać także ceny biletów ulgowych: ” , – w lit. a dodaje się tiret ósme-dziesiąte w brzmieniu: „ – ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U. z 2022 r. poz. 2205 oraz z 2023 r. poz. 1405), – ustawy z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych (Dz. U. z 2023 r. poz. 388 i 1641), – ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. z 2023 r. poz. 318 i 650), ” , w pkt 9 w lit. c skreśla się wyrazy „, o którym mowa w art. 30 i 31”, pkt 10 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **10)** operator i przewoźnik uwzględniają uprawnienia pasażerów do ulgowych przejazdów określone w pkt 6; ” , pkt 14 otrzymuje brzmienie: „
+    - **d)**
+
+- **14)** przewóz osób realizowany w strefie transgranicznej w transporcie drogowym nie zwalnia z obowiązku uzyskania zezwolenia, o którym mowa rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 1071/2009 z dnia 21 października 2009 r. ustanawiającego wspólne zasady dotyczące warunków wykonywania zawodu przewoźnika drogowego i uchylającego dyrektywę Rady 96/26/WE, i licencji wspólnotowej, o której mowa w art. 4 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1073/2009 z dnia 21 października 2009 r. w sprawie wspólnych zasad dostępu do międzynarodowego rynku usług autokarowych i autobusowych i zmieniającego rozporządzenie (WE) nr 561/2006 w zakresie międzynarodowego transportu drogowego. ” ;
+- **21)** w dziale II tytuł rozdziału 6 otrzymuje brzmienie: „
+
+#### Rozdział 6 Finansowanie publicznego transportu zbiorowego”;
+
+**Art. 50.** Finansowanie przewozów o charakterze użyteczności publicznej może polegać w szczególności na:
+
+- **1)** pobieraniu przez operatora lub organizatora opłat w związku z realizacją usług świadczonych w zakresie publicznego transportu zbiorowego lub
+- **2)** przekazaniu operatorowi dopłaty, o której mowa w art. 55, lub
+- **3)** przekazaniu operatorowi rekompensaty z tytułu świadczenia usług w zakresie publicznego transportu zbiorowego, lub
+- **4)** udostępnianiu operatorowi przez organizatora środków transportu na realizację przewozów w zakresie publicznego transportu zbiorowego. ” ;
+- **23)** w art. 50a dodaje się ust. 4 w brzmieniu: „
+
+4. Minister właściwy do spraw transportu może ustalać ceny za usługi przewozowe w publicznym transporcie zbiorowym w zakresie zadania o charakterze użyteczności publicznej w międzywojewódzkich i międzynarodowych przewozach pasażerskich w transporcie kolejowym. ” ;
+
+- **24)** w art. 51 w ust. 1 pkt 2 otrzymuje brzmienie: „
+- **2)** środki z budżetu państwa oraz inne środki publiczne. ” ;
+- **25)** art. 52–58 otrzymują brzmienie: „
+
+**Art. 52.** W ramach rekompensaty, o której mowa w art. 50 pkt 3, operatorowi przysługuje rozsądny zysk, o którym mowa w załączniku do rozporządzenia (WE) nr 1370/2007. Przepis nie dotyczy operatora będącego samorządowym zakładem budżetowym.
+
 **Art. 53.**
 
-1. Właściwy organizator przekazuje operatorowi rekompensatę, o której mowa art. 50 pkt 3, na wniosek złożony trybie określonym umowie o świadczenie usług zakresie publicznego transportu zbiorowego.
+1. Właściwy organizator przekazuje operatorowi rekompensatę, o której mowa w art. 50 pkt 3, na wniosek złożony w trybie określonym w umowie o świadczenie usług w zakresie publicznego transportu zbiorowego.
 
-2. Podstawą do przekazania rekompensaty, o której mowa art. 50 pkt 3, jest pozytywna weryfikacja wniosku, o którym mowa ust. 1.
+2. Podstawą do przekazania rekompensaty, o której mowa w art. 50 pkt 3, jest pozytywna weryfikacja wniosku, o którym mowa w ust. 1.
 
-3. Wielkość rekompensaty określonej we wniosku, o którym mowa ust. 1, oblicza się, uwzględniając wszystkie koszty i przychody zgodnie z załącznikiem do rozporządzenia (WE) nr 1370/2007, tym utracone przychody związku ze stosowaniem uprawnień do ulgowych przejazdów publicznym transporcie zbiorowym ustanowionych na obszarze właściwości danego organizatora, o ile zostały ustanowione.
+3. Wielkość rekompensaty określonej we wniosku, o którym mowa w ust. 1, oblicza się, uwzględniając wszystkie koszty i przychody zgodnie z załącznikiem do rozporządzenia (WE) nr 1370/2007, w tym utracone przychody w związku ze stosowaniem uprawnień do ulgowych przejazdów w publicznym transporcie zbiorowym ustanowionych na obszarze właściwości danego organizatora, o ile zostały ustanowione.
 
-4. Do wniosku, o którym mowa ust. 1, dołącza się dokumenty potwierdzające wielkość obliczonej rekompensaty.
+4. Do wniosku, o którym mowa w ust. 1, dołącza się dokumenty potwierdzające wielkość obliczonej rekompensaty.
 
-**Art. 54.** Operator realizujący usługi zakresie publicznego transportu zbiorowego transporcie kolejowym międzywojewódzkich lub międzynarodowych przewozach pasażerskich otrzymuje rekompensatę, o której mowa art. 50 pkt 3, postaci dotacji celowej z budżetu państwa.
+**Art. 54.** Operator realizujący usługi w zakresie publicznego transportu zbiorowego w transporcie kolejowym w międzywojewódzkich lub międzynarodowych przewozach pasażerskich otrzymuje rekompensatę, o której mowa w art. 50 pkt 3, w postaci dotacji celowej z budżetu państwa.
 
 **Art. 55.**
 
-1. W związku z obowiązkiem stosowania ustawowych uprawnień do ulgowych przejazdów publicznym transporcie zbiorowym autobusowym i kolejowym operatorowi i przewoźnikowi przysługuje dopłata do utraconych przychodów z tego tytułu.
+1. W związku z obowiązkiem stosowania ustawowych uprawnień do ulgowych przejazdów w publicznym transporcie zbiorowym autobusowym i kolejowym operatorowi i przewoźnikowi przysługuje dopłata do utraconych przychodów z tego tytułu.
 
-2. Kwotę dopłaty stanowi różnica pomiędzy wartością sprzedaży biletów z ulgami ustawowymi obliczona według cen nieuwzględniających tych ulg a wartością sprzedaży tych biletów cenach uwzględniających te ulgi. Kwotę dopłaty do ceny biletów z ulgami ustawowymi oblicza się po uprzednim obniżeniu cen biletów o wymiar ulg i zniżek o charakterze komercyjnym oraz ulg ustanowionych przez organizatora na obszarze jego właściwości, o ile zostały ustanowione. do transportu autobusowego jest zadaniem zleconym z zakresu administracji rządowej. W celu realizacji zadania wojewoda zawiera z marszałkiem województwa umowę, o której mowa art. 150 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, 1273, 1407, 1429, 1641 i 1693), oraz przekazuje marszałkowi województwa środki na realizację zadania postaci dotacji celowej z budżetu państwa.
+2. Kwotę dopłaty stanowi różnica pomiędzy wartością sprzedaży biletów z ulgami ustawowymi obliczona według cen nieuwzględniających tych ulg a wartością sprzedaży tych biletów w cenach uwzględniających te ulgi. Kwotę dopłaty do ceny biletów z ulgami ustawowymi oblicza się po uprzednim obniżeniu cen biletów o wymiar ulg i zniżek o charakterze komercyjnym oraz ulg ustanowionych przez organizatora na obszarze jego właściwości, o ile zostały ustanowione.
 
-5. Przekazanie operatorowi lub przewoźnikowi dopłaty, o której mowa ust. 1, odniesieniu do transportu autobusowego następuje na wniosek i po weryfikacji dokumentów potwierdzających wysokość utraconych przychodów z tego tytułu, przeprowadzonej przez właściwego marszałka województwa.
+3. Dopłata, o której mowa w ust. 1, nie dotyczy uprawnień do ulgowych przejazdów realizowanych w ramach komunikacji miejskiej.
 
-6. Prawa i obowiązki stron zakresie dopłaty, o której mowa ust. 1, odniesieniu do transportu autobusowego, tym szczególności: tryb i sposób wypłaty, rozliczenia i zwrotu, wzór rozliczenia oraz zasady kontroli wysokości jej kwoty, określa umowa o dopłatę z tytułu utraconych przychodów związku ze stosowaniem ustawowych uprawnień do ulgowych przejazdów środkami publicznego transportu zbiorowego autobusowego, zawarta pomiędzy operatorem lub przewoźnikiem a właściwym marszałkiem województwa.
+4. Przekazywanie środków dopłaty, o której mowa w ust. 1, w odniesieniu do transportu autobusowego jest zadaniem zleconym z zakresu administracji rządowej. W celu realizacji zadania wojewoda zawiera z marszałkiem województwa umowę, o której mowa w art. 150 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, 1273, 1407, 1429, 1641 i 1693), oraz przekazuje marszałkowi województwa środki na realizację zadania w postaci dotacji celowej z budżetu państwa.
 
-7. Właściwość miejscową samorządu województwa do podpisania umowy, o której mowa ust. 6, ustala się odpowiednio według siedziby organizatora albo miejsca zamieszkania lub siedziby przewoźnika.
+5. Przekazanie operatorowi lub przewoźnikowi dopłaty, o której mowa w ust. 1, w odniesieniu do transportu autobusowego następuje na wniosek i po weryfikacji dokumentów potwierdzających wysokość utraconych przychodów z tego tytułu, przeprowadzonej przez właściwego marszałka województwa.
 
-8. Uprawnienie do otrzymania dopłaty, o której mowa ust. 1, odniesieniu do transportu autobusowego nabywa operator lub przewoźnik, który:
+6. Prawa i obowiązki stron w zakresie dopłaty, o której mowa w ust. 1, w odniesieniu do transportu autobusowego, w tym w szczególności: tryb i sposób wypłaty, rozliczenia i zwrotu, wzór rozliczenia oraz zasady kontroli wysokości jej kwoty, określa umowa o dopłatę z tytułu utraconych przychodów w związku ze stosowaniem ustawowych uprawnień do ulgowych przejazdów środkami publicznego transportu zbiorowego autobusowego, zawarta pomiędzy operatorem lub przewoźnikiem a właściwym marszałkiem województwa.
 
-- **1)** posiada zezwolenie na wykonywanie regularnych przewozów osób krajowym transporcie drogowym, o którym mowa art. 18 ustawy z dnia 6 września 2001 r. o transporcie drogowym, lub zaświadczenie na wykonywanie publicznego transportu zbiorowego, o którym mowa art. 28;
-- **2)** stosuje kasy rejestrujące umożliwiające określenie kwoty dopłat do przewozów podziale na poszczególne kategorie ulg ustawowych;
-- **3)** zawarł umowę, o której mowa ust. 6. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. z 2018 r. poz. 295 oraz z 2023 r. poz. 1575).
+7. Właściwość miejscową samorządu województwa do podpisania umowy, o której mowa w ust. 6, ustala się odpowiednio według siedziby organizatora albo miejsca zamieszkania lub siedziby przewoźnika.
 
-10. Dopłata, o której mowa ust. 1, odniesieniu do transportu kolejowego jest wypłacana z budżetu państwa przez ministra właściwego do spraw transportu postaci dotacji przedmiotowej.
+8. Uprawnienie do otrzymania dopłaty, o której mowa w ust. 1, w odniesieniu do transportu autobusowego nabywa operator lub przewoźnik, który:
 
-11. Uprawnienie do otrzymania dopłaty, o której mowa ust. 1, odniesieniu do transportu kolejowego nabywa operator lub przewoźnik, który:
+- **1)** posiada zezwolenie na wykonywanie regularnych przewozów osób w krajowym transporcie drogowym, o którym mowa w art. 18 ustawy z dnia 6 września 2001 r. o transporcie drogowym, lub zaświadczenie na wykonywanie publicznego transportu zbiorowego, o którym mowa w art. 28;
+- **2)** stosuje kasy rejestrujące umożliwiające określenie kwoty dopłat do przewozów w podziale na poszczególne kategorie ulg ustawowych;
+- **3)** zawarł umowę, o której mowa w ust. 6.
 
-- **1)** posiada licencję, o której mowa art. 43 ust. 2 i 3 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym, i jednolity certyfikat bezpieczeństwa lub świadectwo bezpieczeństwa, o których mowa art. 17e tej ustawy;
-- **2)** stosuje kasy rejestrujące umożliwiające określenie kwoty dopłat do przewozów podziale na poszczególne kategorie ulg ustawowych;
+9. Dopłata, o której mowa w ust. 1, w odniesieniu do transportu autobusowego nie dotyczy przejazdów dzieci do lat 4, objętych ulgą 100%, o których mowa w art. 2 ust. 2 ustawy z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. z 2018 r. poz. 295 oraz z 2023 r. poz. 1575).
+
+10. Dopłata, o której mowa w ust. 1, w odniesieniu do transportu kolejowego jest wypłacana z budżetu państwa przez ministra właściwego do spraw transportu w postaci dotacji przedmiotowej.
+
+11. Uprawnienie do otrzymania dopłaty, o której mowa w ust. 1, w odniesieniu do transportu kolejowego nabywa operator lub przewoźnik, który:
+
+- **1)** posiada licencję, o której mowa w art. 43 ust. 2 i 3 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym, i jednolity certyfikat bezpieczeństwa lub świadectwo bezpieczeństwa, o których mowa w art. 17e tej ustawy;
+- **2)** stosuje kasy rejestrujące umożliwiające określenie kwoty dopłat do przewozów w podziale na poszczególne kategorie ulg ustawowych;
 - **3)** spełnia wymogi do udzielenia dotacji przedmiotowej do krajowych kolejowych przewozów pasażerskich określone przepisami dotyczącymi szczegółowego sposobu i trybu udzielania i rozliczania dotacji przedmiotowych.
 
-12. W rozliczeniach dopłaty, o której mowa ust. 1, przedstawia się rzeczywistą wartość i wymiar ulg udzielonych uprawnionym pasażerom.
+12. W rozliczeniach dopłaty, o której mowa w ust. 1, przedstawia się rzeczywistą wartość i wymiar ulg udzielonych uprawnionym pasażerom.
 
-**Art. 56.** Operator, który poza świadczeniem usług zakresie publicznego transportu zbiorowego prowadzi inną działalność gospodarczą, jest obowiązany do prowadzenia oddzielnej rachunkowości dla usług świadczonych zakresie publicznego transportu zbiorowego, związanych z wykonywaniem przewozu o charakterze użyteczności publicznej.
+**Art. 56.** Operator, który poza świadczeniem usług w zakresie publicznego transportu zbiorowego prowadzi inną działalność gospodarczą, jest obowiązany do prowadzenia oddzielnej rachunkowości dla usług świadczonych w zakresie publicznego transportu zbiorowego, związanych z wykonywaniem przewozu o charakterze użyteczności publicznej.
 
 **Art. 57.**
 
-1. Kasy rejestrujące, o których mowa art. 55 ust. 8 pkt 2 i ust. 11 pkt 2, muszą posiadać pozytywną opinię ministra właściwego do spraw finansów publicznych albo potwierdzenie Prezesa Głównego Urzędu Miar.
+1. Kasy rejestrujące, o których mowa w art. 55 ust. 8 pkt 2 i ust. 11 pkt 2, muszą posiadać pozytywną opinię ministra właściwego do spraw finansów publicznych albo potwierdzenie Prezesa Głównego Urzędu Miar.
 
-2. Zmiany programach kas rejestrujących, o których mowa ust. 1, wymagają uzyskania potwierdzenia Prezesa Głównego Urzędu Miar.
+2. Zmiany w programach kas rejestrujących, o których mowa w ust. 1, wymagają uzyskania potwierdzenia Prezesa Głównego Urzędu Miar.
 
 **Art. 58.**
 
-1. Operator, który poza świadczeniem usług zakresie publicznego transportu zbiorowego transporcie kolejowym prowadzi inną działalność gospodarczą, sporządza oddzielny bilans oraz rachunek zysków publicznych przeznaczonych na działalność związaną z usługami zakresie publicznego transportu zbiorowego transporcie kolejowym na inną działalność.
+1. Operator, który poza świadczeniem usług w zakresie publicznego transportu zbiorowego w transporcie kolejowym prowadzi inną działalność gospodarczą, sporządza oddzielny bilans oraz rachunek zysków i strat dla tych usług, a także wyodrębnia w księgach rachunkowych operacje związane z wykonywaniem przewozu o charakterze użyteczności publicznej.
 
-3. Sprawozdanie finansowe operatora, o którym mowa ust. 1, publikowane na podstawie przepisów o rachunkowości, zawiera dodatkowo oddzielny bilans oraz rachunek zysków i strat dla działalności związanej z usługami zakresie publicznego transportu zbiorowego transporcie kolejowym.
+2. Operator, o którym mowa w ust. 1, nie może przenosić środków publicznych przeznaczonych na działalność związaną z usługami w zakresie publicznego transportu zbiorowego w transporcie kolejowym na inną działalność.
 
-4. Wyodrębniona rachunkowość jest prowadzona sposób umożliwiający monitorowanie zakazu przenoszenia środków publicznych, o którym mowa ust. 2.”;
+3. Sprawozdanie finansowe operatora, o którym mowa w ust. 1, publikowane na podstawie przepisów o rachunkowości, zawiera dodatkowo oddzielny bilans oraz rachunek zysków i strat dla działalności związanej z usługami w zakresie publicznego transportu zbiorowego w transporcie kolejowym.
+
+4. Wyodrębniona rachunkowość jest prowadzona w sposób umożliwiający monitorowanie zakazu przenoszenia środków publicznych, o którym mowa w ust. 2. ” ;
 
 - **26)** uchyla się art. 58a;
-- **27)** art. 64:
-    - **a)** ust. 1 pkt 1 otrzymuje brzmienie: „1) nie wystąpił do właściwego organizatora z wnioskiem o zmianę treści zaświadczenia, o którym mowa art. 28 ust. 1, przypadku wszelkich zmian dotyczących: oznaczenia przedsiębiorcy, jego siedziby (miejsca zamieszkania) lub adresu, numeru Krajowym Rejestrze Sądowym, o ile operator taki numer posiada, numeru identyfikacji podatkowej (NIP), nie później niż terminie 14 dni od dnia ich powstania,”,
-    - **b)** uchyla się ust. 2 i 3,
-    - **c)** ust. 4 otrzymuje brzmienie: „4. Kary pieniężne, o których mowa ust. 1, nakłada, drodze decyzji administracyjnej, właściwy organizator.”;
+- **27)** w art. 64: w ust. 1 pkt 1 otrzymuje brzmienie: „
+    - **a)**
 
-- **28)** art. 65 wprowadzenie do wyliczenia otrzymuje brzmienie: „Kary pieniężne, o których mowa art. 62 ust. 1, art. 63 ust. 1 oraz art. 64 ust. 1, stanowią dochód właściwego organizatora, z przeznaczeniem na realizację zadań:”;
-- **29)** art. 73:
-    - **a)** pkt 1 uchyla się lit. a,
+- **1)** nie wystąpił do właściwego organizatora z wnioskiem o zmianę treści zaświadczenia, o którym mowa w art. 28 ust. 1, w przypadku wszelkich zmian dotyczących: oznaczenia przedsiębiorcy, jego siedziby (miejsca zamieszkania) lub adresu, numeru w Krajowym Rejestrze Sądowym, o ile operator taki numer posiada, numeru identyfikacji podatkowej (NIP), nie później niż w terminie 14 dni od dnia ich powstania, ” , uchyla się ust. 2 i 3, ust. 4 otrzymuje brzmienie: „
+    - **b)**
+    - **c)**
 
-- **30)** użyte art. 78 ust. 1, art. 79 ust. 1 dwukrotnie i ust. 2, art. 80, art. 82 ust. 2 oraz art. 87 ust. 1 i 3 wyrazy „31 grudnia 2023 r.” zastępuje się wyrazami „31 grudnia 2025 r.”;
-- **31)** art. 78 dodaje się ust. 9 brzmieniu: „9. Zezwolenia na wykonywanie regularnych przewozów osób krajowym transporcie drogowym, których termin ważności upływa dniu 31 grudnia 2023 r., wydane na podstawie przepisów dotychczasowych, zachowują ważność do dnia 31 grudnia 2025 r.”;
-- **32)** art. 81 otrzymuje brzmienie: „Art. 81. Przewoźnik lub operator publicznego transportu zbiorowego wykonujący przewozy transporcie kolejowym stosuje kasy rejestrujące, o których mowa art. 57 ust. 1, od dnia 1 stycznia 2026 r.”;
+4. Kary pieniężne, o których mowa w ust. 1, nakłada, w drodze decyzji administracyjnej, właściwy organizator. ” ;
+
+- **28)** w art. 65 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Kary pieniężne, o których mowa w art. 62 ust. 1, art. 63 ust. 1 oraz art. 64 ust. 1, stanowią dochód właściwego organizatora, z przeznaczeniem na realizację zadań: ” ;
+- **29)** w art. 73: w pkt 1 uchyla się lit. a, uchyla się pkt 2–8, w pkt 10 uchyla się lit. a, w pkt 11 uchyla się lit. a;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **30)** użyte w art. 78 ust. 1, w art. 79 w ust. 1 dwukrotnie i w ust. 2, w art. 80, w art. 82 w ust. 2 oraz w art. 87 w ust. 1 i 3 wyrazy „31 grudnia 2023 r.” zastępuje się wyrazami „31 grudnia 2025 r.”;
+- **31)** w art. 78 dodaje się ust. 9 w brzmieniu: „
+
+9. Zezwolenia na wykonywanie regularnych przewozów osób w krajowym transporcie drogowym, których termin ważności upływa w dniu 31 grudnia 2023 r., wydane na podstawie przepisów dotychczasowych, zachowują ważność do dnia 31 grudnia 2025 r. ” ;
+
+- **32)** art. 81 otrzymuje brzmienie: „
+
+**Art. 81.** Przewoźnik lub operator publicznego transportu zbiorowego wykonujący przewozy w transporcie kolejowym stosuje kasy rejestrujące, o których mowa w art. 57 ust. 1, od dnia 1 stycznia 2026 r. ” ;
+
 - **33)** uchyla się art. 85;
-- **34)** art. 90:
-    - **a)** skreśla się wyrazy „oraz art. 73 pkt 1 lit. a, pkt 2–8, pkt 10 lit. a i pkt 11 lit. a”,
-    - **b)** wyrazy „1 stycznia 2024 r.” zastępuje się wyrazami „1 stycznia 2026 r.”.
+- **34)** w art. 90: skreśla się wyrazy „oraz art. 73 pkt 1 lit. a, pkt 2–8, pkt 10 lit. a i pkt 11 lit. a”, wyrazy „1 stycznia 2024 r.” zastępuje się wyrazami „1 stycznia 2026 r.”.
+    - **a)**
+    - **b)**
 
 **Art. 2.** W ustawie z dnia 15 listopada 1984 r. – Prawo przewozowe (Dz. U. z 2020 r. poz. 8) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. z 2018 r. poz. 295 oraz z 2023 r. poz. 1575) art. 1a ust. 4 pkt 3a otrzymuje brzmienie: „3a) środkach publicznego transportu zbiorowego – należy przez to rozumieć środki transportu wykorzystywane transporcie kolejowym lub drogowym;”.
+- **1)** w art. 15 po ust. 2 dodaje się ust. 2a w brzmieniu: „
 
-**Art. 4.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm. ) wprowadza się następujące zmiany:
+2a. W przypadku osób, o których mowa w ust. 2, osoba pisemnie upoważniona przez przewoźnika żąda opuszczenia środka transportowego, a w przypadku niepodporządkowania się żądaniu, w celu usunięcia takiej osoby ze środka transportowego, może wezwać do interwencji Policję, właściwą terytorialnie straż gminną (miejską), na obszarze kolejowym Straż Ochrony Kolei, a w stosunku do osób wymienionych w art. 3 ust. 2 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2023 r. poz. 1266) Żandarmerię Wojskową. ” ;
 
-**Art. 65o.** Przepisy niniejszego oddziału stosuje się do samochodów osobowych przeznaczonych do zawodów sportowych, które na podstawie odrębnych przepisów zostały wpisane do rejestru prowadzonego przez właściwy polski związek sportowy rozumieniu przepisów ustawy z dnia 25 czerwca 2010 r. o sporcie.
+- **2)** po art. 87a dodaje się art. 87aa w brzmieniu: „ Art. 87aa.
 
-**Art. 65p.** Samochód osobowy przeznaczony do zawodów sportowych dopuszcza się do ruchu drogowego na czas trwania imprez organizowanych przez właściwy polski związek sportowy rozumieniu przepisów ustawy z dnia 25 czerwca 2010 r. o sporcie oraz inne właściwe związki sportowe organizujące imprezy na podstawie regulaminów obowiązujących we właściwym polskim związku sportowym, na wyznaczonych drogach umożliwiających dojazd, o których mowa art. 65a ust. 3 pkt 3 lit. j.
+1. Osoba, o której mowa w art. 15 ust. 2, która nie opuszcza środka transportowego na żądanie osoby upoważnionej przez przewoźnika, o której mowa w art. 15 ust. 2a, podlega karze grzywny nie niższej niż 500 zł.
 
-**Art. 65q.** Samochód osobowy przeznaczony do zawodów sportowych dopuszcza się do ruchu drogowego zakresie, o którym mowa art. 65p, jeżeli:
+2. Jeżeli czyn, o którym mowa w ust. 1, ma charakter chuligański, sprawca podlega karze grzywny nie niższej niż 2000 zł. ” ;
+
+- **3)** w art. 87c wyraz „87b” zastępuje się wyrazami „art. 87aa”.
+
+**Art. 3.** W ustawie z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. z 2018 r. poz. 295 oraz z 2023 r. poz. 1575) w art. 1a w ust. 4 pkt 3a otrzymuje brzmienie: „
+
+- **3a)** środkach publicznego transportu zbiorowego – należy przez to rozumieć środki transportu wykorzystywane w transporcie kolejowym lub drogowym; ” .
+
+**Art. 4.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 38 w ust. 1 po pkt 4c dodaje się pkt 4d i 4e w brzmieniu: „
+- **4d)** wydruk z systemu teleinformatycznego właściwego polskiego związku sportowego w rozumieniu przepisów ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2022 r. poz. 1599 i 2185 oraz z 2023 r. poz. 1617 i 1688) zawierający informację o posiadaniu licencji sportu samochodowego wydanej przez ten związek, w przypadku kierowania samochodem osobowym przeznaczonym do zawodów sportowych;
+- **4e)** książkę samochodu sportowego wydaną przez właściwy polski związek sportowy w rozumieniu przepisów ustawy z dnia 25 czerwca 2010 r. o sporcie, w przypadku samochodu osobowego przeznaczonego do zawodów sportowych; ” ;
+- **2)** w art. 65a w ust. 3 w pkt 3 w lit. i średnik zastępuje się przecinkiem i dodaje się lit. j w brzmieniu: „ przebieg trasy imprezy oraz dróg umożliwiających dojazd do poszczególnych etapów imprezy, po których będą poruszać się samochody osobowe przeznaczone do zawodów sportowych biorące udział w imprezie; ” ;
+    - **j)**
+
+- **3)** w dziale II w rozdziale 5 po art. 65n dodaje się oddział 7 w brzmieniu: „
+
+##### Oddział 7 Dopuszczenie do ruchu samochodów osobowych przeznaczonych do zawodów sportowych
+
+**Art. 65o.** Przepisy niniejszego oddziału stosuje się do samochodów osobowych przeznaczonych do zawodów sportowych, które na podstawie odrębnych przepisów zostały wpisane do rejestru prowadzonego przez właściwy polski związek sportowy w rozumieniu przepisów ustawy z dnia 25 czerwca 2010 r. o sporcie. Samochód osobowy przeznaczony do zawodów sportowych dopuszcza się do ruchu drogowego na czas trwania imprez organizowanych przez właściwy polski związek sportowy w rozumieniu przepisów ustawy z dnia 25 czerwca 2010 r. o sporcie oraz inne właściwe związki sportowe organizujące imprezy na podstawie regulaminów obowiązujących we właściwym polskim związku sportowym, na wyznaczonych drogach umożliwiających dojazd, o których mowa w art. 65a ust. 3 pkt 3 lit. j. Samochód osobowy przeznaczony do zawodów sportowych dopuszcza się do ruchu drogowego w zakresie, o którym mowa w art. 65p, jeżeli:
+
+- **1)** spełnia warunki techniczne określone przez właściwy polski związek sportowy na podstawie art. 13 ust. 1 pkt 2 ustawy z dnia 25 czerwca 2010 r. o sporcie, każdorazowo publikowane na stronie podmiotowej tego związku;
+- **2)** uzyskał pozytywny wynik badania co do zgodności z warunkami technicznymi określonego w przepisach wydanych na podstawie art. 81 ust. 17;
+- **3)** został czasowo zarejestrowany na podstawie art. 74 ust. 2ca;
+- **4)** został poddany sprawdzeniu stanu technicznego przez organizatora imprezy przed rozpoczęciem imprezy. ” ;
+- **4)** w art. 74: po ust. 2c dodaje się ust. 2ca w brzmieniu: „ 2ca. Czasowej rejestracji samochodu osobowego przeznaczonego do zawodów sportowych dokonuje się na wniosek właściciela pojazdu, w celu dopuszczenia do ruchu drogowego na czas trwania imprez organizowanych przez polski związek sportowy w rozumieniu przepisów ustawy z dnia 25 czerwca 2010 r. o sporcie, na wyznaczonych drogach umożliwiających dojazd, o których mowa w art. 65a ust. 3 pkt 3 lit. j. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+3a. Czasowej rejestracji, o której mowa w ust. 2ca, dokonuje się na okres wynikający z terminu badania technicznego, o którym mowa w art. 81 ust. 11b. ” ;
+
+- **5)** w art. 81: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Właściciel pojazdu samochodowego, ciągnika rolniczego, pojazdu wolnobieżnego wchodzącego w skład kolejki turystycznej, motoroweru, przyczepy lub samochodu osobowego przeznaczonego do zawodów sportowych jest obowiązany przedstawiać go do badania technicznego. ” , w ust. 10 zdanie pierwsze otrzymuje brzmienie: „ Przyczepa lekka, pojazd zabytkowy oraz samochód osobowy przeznaczony do zawodów sportowych nie podlegają okresowym badaniom technicznym. ” , po ust. 11a dodaje się ust. 11b w brzmieniu: „
+
+- **b)**
+- **c)**
+
+11b. Samochód osobowy przeznaczony do zawodów sportowych podlega corocznie badaniu co do zgodności z warunkami technicznymi. ” , po ust. 12a dodaje się ust. 12b-12g w brzmieniu: „
+
+- **d)**
+
+12b. Badanie techniczne ciągnika rolniczego oraz ciągnika gąsienicowego o maksymalnej prędkości konstrukcyjnej nieprzekraczającej 40 km/h, a także przyczepy przeznaczonej do łączenia z tymi pojazdami może być przeprowadzane w infrastrukturze innej niż stanowisko kontrolne w stacji kontroli pojazdów, jeżeli:
+
+- **1)** infrastruktura ta spełnia wymagania określone w przepisach wydanych na podstawie art. 84b;
+- **2)** przedsiębiorca lub podmiot niebędący przedsiębiorcą prowadzący stację kontroli pojazdów posiada wyposażenie kontrolno-pomiarowe określone w tych przepisach.
+
+12c. Przepis ust. 12b nie dotyczy badania technicznego, o którym mowa w ust. 3 i 11.
+
+12d. Badanie techniczne pojazdów, o których mowa w ust. 12b, przeprowadza się na wniosek właściciela lub posiadacza pojazdu. Właściciel lub posiadacz pojazdu składa wniosek do przedsiębiorcy lub podmiotu niebędącego przedsiębiorcą prowadzącego stację kontroli pojazdów w formie pisemnej, w postaci papierowej albo elektronicznej. Właściciel lub posiadacz pojazdu we wniosku potwierdza, że dysponuje infrastrukturą spełniającą wymagania określone w przepisach wydanych na podstawie art. 84b, w której istnieje możliwość przeprowadzenia badania technicznego.
+
+12e. Koszt dojazdu uprawnionego diagnosty do infrastruktury, o której mowa w ust. 12b, pokrywa właściciel lub posiadacz pojazdu wraz ze złożeniem wniosku, o którym mowa w ust. 12d.
+
+12f. Przed przystąpieniem do przeprowadzenia badania technicznego uprawniony diagnosta dokonuje weryfikacji, czy infrastruktura, o której mowa w ust. 12b, spełnia wymagania określone w przepisach wydanych na podstawie art. 84b.
+
+12g. W przypadku gdy w ocenie uprawnionego diagnosty infrastruktura, o której mowa w ust. 12b, nie spełnia wymagań określonych w przepisach wydanych na podstawie art. 84b, uprawniony diagnosta odmawia przeprowadzenia badania technicznego. ” , dodaje się ust. 17 w brzmieniu: „
+
+- **e)**
+
+17. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, zakres i sposób przeprowadzania badań co do zgodności samochodów osobowych przeznaczonych do zawodów sportowych z warunkami technicznymi oraz wzory dokumentów związane z tymi badaniami, uwzględniając konieczność zapewnienia bezpiecznego korzystania z samochodów osobowych przeznaczonych do zawodów sportowych oraz zakres warunków technicznych co do zgodności, z którymi te samochody podlegają badaniu. ” ;
+
+- **6)** w art. 83 w ust. 1 pkt 1 otrzymuje brzmienie: „
+- **1)** podstawowej stacji kontroli pojazdów – w zakresie: okresowego badania technicznego pojazdów o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t, z wyjątkiem lit. b, d i e, okresowego badania technicznego ciągników rolniczych oraz ciągników gąsienicowych o maksymalnej prędkości konstrukcyjnej nieprzekraczającej 40 km/h, o ile stacja spełnia wymagania, o których mowa w przepisach wydanych na podstawie art. 84a ust. 1 pkt 1 w zakresie wymiarów stanowiska zewnętrznego, dodatkowych badań technicznych w odniesieniu do pojazdów, o których mowa w lit. a, z wyjątkiem ust. 1a, badań technicznych przyczep przeznaczonych do łączenia z pojazdami określonymi w lit. a, o ile stacja spełnia wymagania, o których mowa w przepisach wydanych na podstawie art. 84a ust. 1 pkt 1 w zakresie długości stanowiska kontrolnego, okresowych badań technicznych przyczep przeznaczonych do łączenia z pojazdami określonymi w lit. b, o ile stacja spełnia wymagania, o których mowa w przepisach wydanych na podstawie art. 84a ust. 1 pkt 1 w zakresie wymiarów stanowiska zewnętrznego; ” ;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **7)** po art. 84a dodaje się art. 84b w brzmieniu: „
+
+**Art. 84b.**
+
+1. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
+
+- **1)** minimalne wymagania dla infrastruktury innej niż stanowisko kontrolne w stacji kontroli pojazdów;
+- **2)** wyposażenie kontrolno-pomiarowe stosowane do przeprowadzania badań technicznych pojazdów w infrastrukturze innej niż stanowisko kontrolne w stacji kontroli pojazdów;
+- **3)** wzór wniosku o przeprowadzenie badania technicznego pojazdu w infrastrukturze innej niż stanowisko kontrolne w stacji kontroli pojazdów.
+
+2. Wydając rozporządzenie, o którym mowa w ust. 1, minister właściwy do spraw transportu uwzględnia:
+
+- **1)** warunki i wymagania gwarantujące przeprowadzenie badań technicznych pojazdów, o których mowa w art. 81 ust. 12b, zgodnie z zakresem i sposobem przeprowadzania tych badań;
+- **2)** warunki techniczne pojazdów podlegających badaniu technicznemu w infrastrukturze innej niż stanowisko kontrolne w stacji kontroli pojazdów;
+- **3)** konieczność ujednolicenia stosowanego wniosku oraz potrzebę zwiększenia dostępności przeprowadzania badań technicznych pojazdów w infrastrukturze innej niż stanowisko kontrolne w stacji kontroli pojazdów. ” ;
+- **8)** w art. 130a w ust. 1 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
+- **7)** poruszania się po drodze innej niż wyznaczona zgodnie z art. 65a ust. 3 pkt 3 lit. j, jeżeli jest dopuszczony do ruchu na podstawie art. 65p. ” .
 
 **Art. 5.** W ustawie z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. z 2022 r. poz. 2542) wprowadza się następujące zmiany:
 
-**Art. 2b.** Zgromadzenie wspólników, od dnia objęcia większości udziałów kapitale zakładowym Cargotor przez PLK SA, powołuje Radę Nadzorczą Cargotor spośród osób wskazanych przez ministra właściwego do spraw transportu oraz powołuje jej skład jednego przedstawiciela ministra właściwego do spraw finansów publicznych.
-
-**Art. 2c.**
+- **1)** po art. 2 dodaje się art. 2a-2c w brzmieniu: „ Minister właściwy do spraw transportu zatwierdza zmiany do aktu założycielskiego spółki z ograniczoną odpowiedzialnością, działającej pod firmą „CARGOTOR spółka z ograniczoną odpowiedzialnością”, z siedzibą w Warszawie, zwaną dalej „Cargotor”, od dnia objęcia większości udziałów w kapitale zakładowym Cargotor przez PKP Polskie Linie Kolejowe Spółka Akcyjna, zwaną dalej „PLK SA”. Zgromadzenie wspólników, od dnia objęcia większości udziałów w kapitale zakładowym Cargotor przez PLK SA, powołuje Radę Nadzorczą Cargotor spośród osób wskazanych przez ministra właściwego do spraw transportu oraz powołuje w jej skład jednego przedstawiciela ministra właściwego do spraw finansów publicznych.
 
 1. Udziały Cargotor należące do PLK SA mogą być zbywane wyłącznie na rzecz Skarbu Państwa.
 
-2. Minister właściwy do spraw transportu wykonuje prawa z udziałów Cargotor należących do Skarbu Państwa.”;
+2. Minister właściwy do spraw transportu wykonuje prawa z udziałów Cargotor należących do Skarbu Państwa. ” ;
 
-- **2)** art. 15 ust. 1 skreśla się wyrazy „ , zwaną dalej „PLK SA” ”;
-- **3)** po art. 18d dodaje się art. 18e brzmieniu: „Art. 18e. Linie kolejowe niebędące liniami o znaczeniu państwowym przekazane jednostce samorządu terytorialnego zgodnie z art. 18a ust. 1 albo art. 39 ust. 3 lub 4, mogą być przez tę jednostkę, porozumieniu z PKP SA albo PLK SA, za zgodą ministra właściwego do spraw transportu, przekazane nieodpłatnie na własność lub oddane do korzystania na podstawie umów prawa cywilnego innej jednostce samorządu terytorialnego celu wykonywania przewozów kolejowych. Do wyrażenia zgody przez ministra właściwego do spraw „Art. 33wa. 1. W latach 2023–2028 minister właściwy do spraw finansów publicznych może także przekazać PLK SA na wniosek ministra właściwego do spraw transportu, skarbowe papiery wartościowe z przeznaczeniem na podwyższenie kapitału zakładowego PLK SA.
+- **2)** w art. 15 w ust. 1 skreśla się wyrazy „, zwaną dalej „PLK SA” „;
+- **3)** po art. 18d dodaje się art. 18e w brzmieniu: „
 
-2. Łączna wartość nominalna skarbowych papierów wartościowych, o których mowa ust. 1, nie może przekroczyć w:
+**Art. 18e.** Linie kolejowe niebędące liniami o znaczeniu państwowym przekazane jednostce samorządu terytorialnego zgodnie z art. 18a ust. 1 albo art. 39 ust. 3 lub 4, mogą być przez tę jednostkę, w porozumieniu z PKP SA albo PLK SA, za zgodą ministra właściwego do spraw transportu, przekazane nieodpłatnie na własność lub oddane do korzystania na podstawie umów prawa cywilnego innej jednostce samorządu terytorialnego w celu wykonywania przewozów kolejowych. Do wyrażenia zgody przez ministra właściwego do spraw transportu stosuje się odpowiednio przepisy art. 18 ust. 2c pkt 1 i 3–5, ust. 2d pkt 1 lit. a, pkt 2 i 3 oraz ust. 2e i 4. ” ;
+
+- **4)** po art. 33w dodaje się art. 33wa w brzmieniu: „ Art. 33wa.
+
+1. W latach 2023–2028 minister właściwy do spraw finansów publicznych może także przekazać PLK SA na wniosek ministra właściwego do spraw transportu, skarbowe papiery wartościowe z przeznaczeniem na podwyższenie kapitału zakładowego PLK SA.
+
+2. Łączna wartość nominalna skarbowych papierów wartościowych, o których mowa w ust. 1, nie może przekroczyć w:
 
 - **1)** 2023 r. – 7 412 000 zł;
 - **2)** 2024 r. – 222 265 000 zł;
@@ -137,154 +369,461 @@ o zmianie ustawy o publicznym transporcie zbiorowym oraz niektórych innych usta
 - **5)** 2027 r. – 780 336 000 zł;
 - **6)** 2028 r. – 498 852 000 zł.
 
-3. Akcje podwyższonym kapitale zakładowym PLK SA zostaną objęte przez Skarb Państwa.”;
+3. Akcje w podwyższonym kapitale zakładowym PLK SA zostaną objęte przez Skarb Państwa. ” ;
 
-- **5)** art. 33z: sprawie europejskiego systemu rachunków narodowych i regionalnych Unii Europejskiej (Dz. Urz. UE L 174 z 26.06.2013, str. 1, z późn. zm. ).”,
-    - **a)** ust. 1 po wyrazach „art. 33w ust. 1” dodaje się wyrazy „i art. 33wa ust. 1”,
-    - **b)** ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw finansów publicznych może udzielić zgody na rozporządzanie skarbowymi papierami wartościowymi, o których mowa art. 33w ust. 1 i art. 33wa ust. 1, uwzględniając szczególności konieczność zapewnienia stabilności finansów publicznych, poziom długu sektora finansów publicznych oraz poziom deficytu i długu sektora instytucji rządowych i samorządowych rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 549/2013 z dnia 21 maja 2013 r.
-    - **c)** ust. 3 po wyrazach „z tytułu skarbowych papierów wartościowych” dodaje się wyrazy „ , o których mowa art. 33w ust. 1,”, finansowanie inwestycji kapitałowych realizowanych przez PLK SA polegających na podwyższeniu kapitału zakładowego Cargotor i objęciu przez PLK SA nowo utworzonych udziałów podwyższonym kapitale zakładowym.
+- **5)** w art. 33z: w ust. 1 po wyrazach „art. 33w ust. 1” dodaje się wyrazy „i art. 33wa ust. 1”, ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
 
-5. Środki pochodzące z podwyższenia kapitału zakładowego, o którym mowa ust. 4, Cargotor przeznacza wyłącznie na przygotowanie i realizację inwestycji mającej na celu wykonanie projektu pod nazwą „Modernizacja infrastruktury kolejowej Rejonie Przeładunkowym Małaszewicze na granicy UE z Białorusią”, tym na budowę siedziby jednostki ratowniczo-gaśniczej wraz z jej wyposażeniem techniczno-specjalistycznym kwocie do 37 000 000 zł, oraz finansowanie zobowiązań Cargotor wyłącznie z tytułu podatku od towarów i usług powstałych związku z realizacją tego projektu.”;
+2. Minister właściwy do spraw finansów publicznych może udzielić zgody na rozporządzanie skarbowymi papierami wartościowymi, o których mowa w art. 33w ust. 1 i art. 33wa ust. 1, uwzględniając w szczególności konieczność zapewnienia stabilności finansów publicznych, poziom długu sektora finansów publicznych oraz poziom deficytu i długu sektora instytucji rządowych i samorządowych w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 549/2013 z dnia 21 maja 2013 r. w sprawie europejskiego systemu rachunków narodowych i regionalnych w Unii Europejskiej (Dz. Urz. UE L 174 z 26.06.2013, str. 1, z późn. zm.). ” , w ust. 3 po wyrazach „z tytułu skarbowych papierów wartościowych” dodaje się wyrazy „, o których mowa w art. 33w ust. 1,”, dodaje się ust. 4 i 5 w brzmieniu: „
 
-- **6)** art. 39: o Centralnym Porcie Komunikacyjnym, jest właścicielem lub użytkownikiem wieczystym,”, – dodaje się lit. d brzmieniu: „d) jednostka samorządu terytorialnego, państwowa osoba prawna lub państwowa jednostka organizacyjna jest właścicielem lub użytkownikiem wieczystym.”,
-    - **a)** ust. 4a pkt 2: – lit. c otrzymuje brzmienie: „c) Spółka Celowa, o której mowa ustawie z dnia 10 maja 2018 r.
-    - **b)** dodaje się ust. 6 brzmieniu: „6. Skarb Państwa reprezentowany przez ministra właściwego do spraw transportu może nabyć od PKP SA prawo własności nieruchomości lub prawo użytkowania wieczystego gruntów, niezbędnych do realizacji inwestycji, o której mowa art. 33z ust. 5. Nabycie nastąpi według ich wartości rynkowej, wynikającej z wyceny sporządzanej przez niezależnego doradcę.”;
+- **c)**
+- **d)**
 
-- **7)** po art. 39e dodaje się art. 39f brzmieniu: zamknięty, o którym mowa art. 2 pkt 9 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2021 r. poz. 1990, z 2022 r. poz. 1846 i 2185 oraz z 2023 r. poz. 803, 1615 i 1688), celu wykonania robót budowlanych dotyczących infrastruktury zaplecza, dysponuje nieruchomością lub jej częścią, na której położone jest to zaplecze, na cele budowlane rozumieniu przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm. ), pod warunkiem że nieruchomość zarządzana jest przez podmiot zarządzający na podstawie umowy zawartej z PKP SA, której przedmiotem jest oddanie nieruchomości do korzystania, i PKP SA wyraziła zgodę na wykonanie robót budowlanych.”.
+4. Środki uzyskane z tytułu skarbowych papierów wartościowych, o których mowa w art. 33wa ust. 1, przeznacza się wyłącznie na finansowanie inwestycji kapitałowych realizowanych przez PLK SA polegających na podwyższeniu kapitału zakładowego Cargotor i objęciu przez PLK SA nowo utworzonych udziałów w podwyższonym kapitale zakładowym.
 
-**Art. 6.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 2201, z późn. zm. ) wprowadza się następujące zmiany:
+5. Środki pochodzące z podwyższenia kapitału zakładowego, o którym mowa w ust. 4, Cargotor przeznacza wyłącznie na przygotowanie i realizację inwestycji mającej na celu wykonanie projektu pod nazwą „Modernizacja infrastruktury kolejowej w Rejonie Przeładunkowym Małaszewicze na granicy UE z Białorusią”, w tym na budowę siedziby jednostki ratowniczo-gaśniczej wraz z jej wyposażeniem techniczno-specjalistycznym w kwocie do 37 000 000 zł, oraz finansowanie zobowiązań Cargotor wyłącznie z tytułu podatku od towarów i usług powstałych w związku z realizacją tego projektu. ” ;
 
-**Art. 83c.**
+- **6)** w art. 39: w ust. 4a w pkt 2: – lit. c otrzymuje brzmienie: „ c) Spółka Celowa, o której mowa w ustawie z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, jest właścicielem lub użytkownikiem wieczystym, ” , – dodaje się lit. d w brzmieniu: „ d) jednostka samorządu terytorialnego, państwowa osoba prawna lub państwowa jednostka organizacyjna jest właścicielem lub użytkownikiem wieczystym. ” , dodaje się ust. 6 w brzmieniu: „
+    - **a)**
+    - **b)**
 
-1. Prezes Urzędu, na wniosek zarządzającego lotniskiem, drodze decyzji administracyjnej, udziela odstępstwa, o którym mowa ADR.OPS.B.029 lit. g załącznika IV do rozporządzenia nr 139/2014/UE, jeżeli z oceny bezpieczeństwa, o której mowa ADR.OPS.B.029 lit. g załącznika IV do rozporządzenia nr 139/2014/UE, wynika, że zastosowanie tego odstępstwa nie obniży poziomu bezpieczeństwa operacji lotniczych.
+6. Skarb Państwa reprezentowany przez ministra właściwego do spraw transportu może nabyć od PKP SA prawo własności nieruchomości lub prawo użytkowania wieczystego gruntów, niezbędnych do realizacji inwestycji, o której mowa w art. 33z ust. 5. Nabycie nastąpi według ich wartości rynkowej, wynikającej z wyceny sporządzanej przez niezależnego doradcę. ” ;
 
-2. Do wniosku, o którym mowa ust. 1, zarządzający lotniskiem dołącza:
+- **7)** po art. 39e dodaje się art. 39f w brzmieniu: „
 
-- **1)** analizę bezpieczeństwa zakresie zapobiegania wtargnięciom na drogę startową przeprowadzoną ramach systemu, o którym mowa ADR.OR.D.005 lit. b pkt 4 załącznika III do rozporządzenia nr 139/2014/UE;
+**Art. 39f.** Podmiot zarządzający zapleczem technicznym pasażerskiego i towarowego taboru kolejowego, zlokalizowanym na gruncie o nieuregulowanym na rzecz PKP SA stanie prawnym, stanowiącym teren zamknięty, o którym mowa w art. 2 pkt 9 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2021 r. poz. 1990, z 2022 r. poz. 1846 i 2185 oraz z 2023 r. poz. 803, 1615 i 1688), w celu wykonania robót budowlanych dotyczących infrastruktury zaplecza, dysponuje nieruchomością lub jej częścią, na której położone jest to zaplecze, na cele budowlane w rozumieniu przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm.), pod warunkiem że nieruchomość zarządzana jest przez podmiot zarządzający na podstawie umowy zawartej z PKP SA, której przedmiotem jest oddanie nieruchomości do korzystania, i PKP SA wyraziła zgodę na wykonanie robót budowlanych. ” .
+
+**Art. 6.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 2201, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** po art. 77a dodaje się art. 77b w brzmieniu: „
+
+**Art. 77b.**
+
+1. Inspektorowi zatrudnionemu na stanowisku, o którym mowa w art. 76 ust. 2a, przez okres nie krótszy niż 10 lat przysługuje dodatkowy urlop wypoczynkowy w wymiarze 6 dni roboczych, a po 20 latach pracy – w wymiarze 12 dni roboczych.
+
+2. W przypadku zbiegu uprawnień do urlopu dodatkowego, o którym mowa w ust. 1 oraz w art. 105 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej, przysługuje urlop w wymiarze korzystniejszym. ” ;
+
+- **2)** w załączniku nr 3 w lp. 2: w pkt 2.1. uchyla się pkt 3, w pkt 2.2. wprowadzenie do wyliczenia otrzymuje brzmienie: „ „ Wykonywanie przewozu regularnego lub regularnego specjalnego z naruszeniem warunków określonych w zezwoleniu albo zaświadczeniu na wykonywanie publicznego transportu zbiorowego dotyczących: ”.
+    - **a)**
+    - **b)**
+
+**Art. 7.** W ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2022 r. poz. 1235, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 21 w ust. 2 pkt 7 otrzymuje brzmienie: „
+- **7)** sprawdzanie kwalifikacji personelu lotniczego i kierowców pojazdów poruszających się w polu manewrowym lotniska; ” ;
+- **2)** po art. 83a dodaje się art. 83b i art. 83c w brzmieniu: „
+
+**Art. 83b.**
+
+1. Warunkiem wykazania biegłości językowej, o której mowa w ADR.OPS.B.029 załącznika IV do rozporządzenia nr 139/2014/UE, jest pozytywny wynik egzaminu językowego złożonego przed komisją egzaminacyjną powołaną przez Prezesa Urzędu albo zarządzającego lotniskiem.
+
+2. Językiem, o którym mowa w ADR.OPS.B.029 lit. a pkt 2 załącznika IV do rozporządzenia nr 139/2014/UE, jest język polski.
+
+3. Do egzaminu, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 99, w tym przepisy wydane na podstawie ust. 6 tego artykułu.
+
+4. Pozytywny wynik egzaminu, o którym mowa w ust. 1, potwierdza się przez wydanie zaświadczenia, które stanowi certyfikat w rozumieniu ADR.OPS.B.029 lit. c załącznika IV do rozporządzenia nr 139/2014/UE.
+
+1. Prezes Urzędu, na wniosek zarządzającego lotniskiem, w drodze decyzji administracyjnej, udziela odstępstwa, o którym mowa w ADR.OPS.B.029 lit. g załącznika IV do rozporządzenia nr 139/2014/UE, jeżeli z oceny bezpieczeństwa, o której mowa w ADR.OPS.B.029 lit. g załącznika IV do rozporządzenia nr 139/2014/UE, wynika, że zastosowanie tego odstępstwa nie obniży poziomu bezpieczeństwa operacji lotniczych.
+
+2. Do wniosku, o którym mowa w ust. 1, zarządzający lotniskiem dołącza:
+
+- **1)** analizę bezpieczeństwa w zakresie zapobiegania wtargnięciom na drogę startową przeprowadzoną w ramach systemu, o którym mowa w ADR.OR.D.005 lit. b pkt 4 załącznika III do rozporządzenia nr 139/2014/UE;
 - **2)** opinię lokalnego zespołu do spraw bezpieczeństwa na drodze startowej.
 
-3. Ocena bezpieczeństwa, o której mowa ADR.OPS.B.029 lit. g załącznika IV do rozporządzenia nr 139/2014/UE, uwzględnia: danym lotnisku;
+3. Ocena bezpieczeństwa, o której mowa w ADR.OPS.B.029 lit. g załącznika IV do rozporządzenia nr 139/2014/UE, uwzględnia:
 
+- **1)** wyniki analizy bezpieczeństwa, o której mowa w ust. 2 pkt 1;
+- **2)** opinię, o której mowa w ust. 2 pkt 2;
+- **3)** opinię instytucji zapewniającej służby ruchu lotniczego, funkcjonującej na danym lotnisku;
 - **4)** wyniki kontroli przeprowadzonej na danym lotnisku przez Prezesa Urzędu;
 - **5)** układ lotniska i lokalne uwarunkowania eksploatacyjne i techniczne oraz liczbę częstotliwości wykorzystywanych na danym lotnisku;
-- **6)** strukturę ruchu lotniczego (krajowy, międzynarodowy) danego lotniska, tym sezonowe szczyty ruchu;
-- **7)** wszelkie zgłoszenia zdarzeń lotniczych, mogących mieć wpływ na wyniki oceny bezpieczeństwa.”;
-- **3)** załączniku nr 6 do ustawy: ustanawiające wymagania oraz procedury administracyjne dotyczące lotnisk zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008;”,
-    - **a)** objaśnieniach terminów użytych załączniku po pkt 28a dodaje się pkt 28b brzmieniu: „28b) rozporządzeniu nr 139/2014/UE – należy przez to rozumieć rozporządzenie (UE) Komisji nr 139/2014 z dnia 12 lutego 2014 r.
-    - **b)** tabeli nr 1 części III podczęści 3.8 dodaje się ust. 26 brzmieniu:
-    - **c)** tabeli nr 2 części I podczęści 1.2: – tytuł podczęści 1.2 otrzymuje brzmienie: „Egzaminy praktyczne na licencje, świadectwa kwalifikacji i uprawnienia wpisywane do licencji lub świadectw kwalifikacji oraz inne egzaminy praktyczne”, – ust. 2 otrzymuje brzmienie:
+- **6)** strukturę ruchu lotniczego (krajowy, międzynarodowy) danego lotniska, w tym sezonowe szczyty ruchu;
+- **7)** wszelkie zgłoszenia zdarzeń lotniczych, mogących mieć wpływ na wyniki oceny bezpieczeństwa. ” ;
+- **3)** w załączniku nr 6 do ustawy: w objaśnieniach terminów użytych w załączniku po pkt 28a dodaje się pkt 28b w brzmieniu: „
+    - **a)**
 
-- **1)** art. 9n ust. 2 otrzymuje brzmienie: „2. Inwestor może złożyć wniosek o uzyskanie decyzji o ustaleniu lokalizacji linii kolejowej trybie niniejszego rozdziału albo o uzyskanie decyzji o ustaleniu lokalizacji inwestycji celu publicznego trybie ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2023 r. poz. 977, 1506, 1597 i 1688).”;
-- **2)** art. 9o:
-    - **a)** ust. 3: – pkt 1 lit. b średnik zastępuje się przecinkiem i dodaje się lit. c brzmieniu: „c) przedstawiającą proponowane linie wydzielenia pasów drogowych dróg różnych kategorii;”, – pkt 3 otrzymuje brzmienie: „3) mapę z rejestrem nieruchomości objętych wnioskiem, a – przypadku konieczności dokonania podziału nieruchomości – mapę do celów prawnych, tym z projektem podziału nieruchomości, sporządzone zgodnie z przepisami wydanymi na podstawie art. 19 ust. 1 pkt 11 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2021 r. poz. 1990, z 2022 r. poz. 1846 i 2185 oraz z 2023 r. poz. 803, 1615 i 1688);”, – pkt 3a wyrazy „map z projektami podziałów nieruchomości” zastępuje się wyrazami „map do celów prawnych z projektem podziału nieruchomości”, – pkt 3b otrzymuje brzmienie: „3b) wykaz nieruchomości, zawierający oznaczenia działek według katastru nieruchomości lub map do celów prawnych z projektem podziału nieruchomości, stosunku do których decyzja o ustaleniu lokalizacji linii kolejowej ma wywołać skutki postaci: ograniczenia sposobu korzystania z nieruchomości, o którym mowa art. 9q ust. 1 pkt 6 lub art. 9s ust. 9, oraz uprawnienia, o którym mowa art. 9ya ust. 1;”, art. 9q ust. 1 pkt 6;”,
-    - **b)** ust. 6 zdaniu pierwszym po wyrazach „katastrze nieruchomości” dodaje się wyrazy „ , Prezesowi UTK”,
-    - **c)** ust. 10 otrzymuje brzmienie: „10. Przepisu ust. 8 nie stosuje się do:
+- **28b)** rozporządzeniu nr 139/2014/UE – należy przez to rozumieć rozporządzenie (UE) Komisji nr 139/2014 z dnia 12 lutego 2014 r. ustanawiające wymagania oraz procedury administracyjne dotyczące lotnisk zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008; ” , w tabeli nr 1 w części III w podczęści 3.8 dodaje się ust. 26 w brzmieniu: „ „26. Przeprowadzenie postępowania w sprawie wydania odstępstwa, o którym mowa w ADR.OPS.B.029 lit. g załącznika IV do rozporządzenia nr 139/2014/UE 15 000”. w tabeli nr 2 w części I w podczęści 1.2: – tytuł podczęści 1.2 otrzymuje brzmienie: „ Egzaminy praktyczne na licencje, świadectwa kwalifikacji i uprawnienia wpisywane do licencji lub świadectw kwalifikacji oraz inne egzaminy praktyczne ” , – ust. 2 otrzymuje brzmienie: „ „2. Przeprowadzenie egzaminu praktycznego kandydatów na uprawnienia w zakresie znajomości lotniczego języka angielskiego, języka polskiego, egzaminu na przedłużenie ważności tego uprawnienia zgodnie z wymaganiami Załącznika 1 do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. oraz egzaminu wykazującego biegłość językową, o której mowa w ADR.OPS.B.029 załącznika IV do rozporządzenia nr 139/2014/UE 765”.
+    - **b)**
+    - **c)**
 
-- **1)** nieruchomości wnoszonych przez Polskie Koleje Państwowe Spółkę Akcyjną, zwane dalej „PKP S.A.”, formie wkładu niepieniężnego do PLK S.A. na podstawie art. 17 ust. 1 ustawy z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. z 2022 r. poz. 2542 oraz z 2023 r. poz. 1720);
-- **2)** obrotu nieruchomościami, dokonywanego przez PLK S.A., CPK albo jednostkę samorządu terytorialnego, na rzecz których została wydana decyzja o ustaleniu lokalizacji linii kolejowej, albo dokonywanego za ich zgodą wydaną nie wcześniej niż po upływie dnia, którym decyzja o pozwoleniu na budowę dotycząca nieruchomości stała się ostateczna;
-- **3)** obrotu nieruchomościami, o których mowa art. 9s ust. 9, który jest dokonywany z dniem, którym decyzja o pozwoleniu na budowę dotycząca tej nieruchomości stała się ostateczna.”;
-- **3)** art. 9oa:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Podmioty zarządzające sieciami uzbrojenia terenu uzgadniają warunki techniczne usunięcia kolizji przebiegu sieci z inwestycją dotyczącą linii kolejowej terminie 14 dni od dnia otrzymania wniosku PLK S.A., CPK lub właściwej jednostki samorządu terytorialnego.”,
-    - **b)** dodaje się ust. 3 brzmieniu: „3. Podmioty, o których mowa ust. 1, nie mogą warunkować uzgodnienia warunków technicznych usunięcia kolizji od spełnienia świadczeń, ramach których PLK S.A., CPK lub właściwa jednostka dodaje się wyrazy „i Prezesowi UTK”;
+**Art. 8.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2023 r. poz. 602, 967 i 1003) wprowadza się następujące zmiany:
 
-- **5)** art. 9s:
-    - **a)** ust. 3e otrzymuje brzmienie: „3e. Nieruchomości, na których planowana jest budowa lub przebudowa dróg publicznych, określone decyzją o ustaleniu lokalizacji linii kolejowej, z dniem, którym decyzja ta stała się ostateczna:
+- **1)** w art. 9n ust. 2 otrzymuje brzmienie: „
 
-- **1)** wojewoda oddaje trwały zarząd Generalnej Dyrekcji Dróg Krajowych i Autostrad – odniesieniu do dróg krajowych;
-- **2)** stają się własnością właściwego samorządu województwa, powiatu lub gminy – odniesieniu do dróg wojewódzkich, powiatowych i gminnych.”,
-    - **b)** ust. 5 otrzymuje brzmienie: „5. Decyzja o ustaleniu lokalizacji linii kolejowej stanowi podstawę do dokonania wpisów:
+2. Inwestor może złożyć wniosek o uzyskanie decyzji o ustaleniu lokalizacji linii kolejowej w trybie niniejszego rozdziału albo o uzyskanie decyzji o ustaleniu lokalizacji inwestycji celu publicznego w trybie ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2023 r. poz. 977, 1506, 1597 i 1688). ” ;
 
-- **1)** księdze wieczystej i katastrze nieruchomości praw, o których mowa ust. 3–3b i 3e;
-- **2)** księdze wieczystej ograniczeń, o których mowa ust. 9 oraz art. 9q ust. 1 pkt 6.”;
-- **6)** art. 9x:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Z dniem, którym decyzja o ustaleniu lokalizacji linii kolejowej stała się ostateczna, następuje z mocy prawa wygaśnięcie trwałego zarządu ustanowionego na nieruchomości przeznaczonej na pas gruntu pod linię kolejową, stanowiącej własność Skarbu Państwa albo jednostki samorządu terytorialnego.”,
-    - **b)** po ust. 1 dodaje się ust. 1a brzmieniu: „1a. Decyzja o ustaleniu lokalizacji linii kolejowej stanowi podstawę do dokonania wpisów księdze wieczystej o wygaśnięciu trwałego zarządu, o którym mowa ust. 1.”;
+- **2)** w art. 9o: w ust. 3: – w pkt 1 w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ c) przedstawiającą proponowane linie wydzielenia pasów drogowych dróg różnych kategorii; ” , – pkt 3 otrzymuje brzmienie: „ 3) mapę z rejestrem nieruchomości objętych wnioskiem, a – w przypadku konieczności dokonania podziału nieruchomości – mapę do celów prawnych, w tym z projektem podziału nieruchomości, sporządzone zgodnie z przepisami wydanymi na podstawie art. 19 ust. 1 pkt 11 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2021 r. poz. 1990, z 2022 r. poz. 1846 i 2185 oraz z 2023 r. poz. 803, 1615 i 1688); ” , – w pkt 3a wyrazy „map z projektami podziałów nieruchomości” zastępuje się wyrazami „map do celów prawnych z projektem podziału nieruchomości”, – pkt 3b otrzymuje brzmienie: „ 3b) wykaz nieruchomości, zawierający oznaczenia działek według katastru nieruchomości lub map do celów prawnych z projektem podziału nieruchomości, w stosunku do których decyzja o ustaleniu lokalizacji linii kolejowej ma wywołać skutki w postaci: ograniczenia sposobu korzystania z nieruchomości, o którym mowa w art. 9q ust. 1 pkt 6 lub art. 9s ust. 9, oraz uprawnienia, o którym mowa w art. 9ya ust. 1; ” , – po pkt 3b dodaje się pkt 3c w brzmieniu: „ 3c) określenie podmiotów, na rzecz których planowane jest ustalenie ograniczenia w korzystaniu z nieruchomości, o którym mowa w art. 9q ust. 1 pkt 6; ” , w ust. 6 w zdaniu pierwszym po wyrazach „katastrze nieruchomości” dodaje się wyrazy „, Prezesowi UTK”, ust. 10 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **7)** art. 9y:
-    - **a)** ust. 1 otrzymuje brzmienie: linii kolejowej, przysługuje odszkodowanie dotychczasowym właścicielom lub użytkownikom wieczystym nieruchomości, a także osobom, którym przysługiwało ograniczone prawo rzeczowe do nieruchomości dniu, którym decyzja o ustaleniu lokalizacji linii kolejowej stała się ostateczna.”,
-    - **b)** po ust. 2 dodaje się ust. 2a brzmieniu: „2a. Jeżeli decyzji o ustaleniu lokalizacji linii kolejowej został nadany rygor natychmiastowej wykonalności, wysokość odszkodowania, o którym mowa ust. 1 oraz art. 9s ust. 9, ustala wojewoda drodze decyzji, terminie nie dłuższym niż 60 dni od dnia nadania decyzji o ustaleniu lokalizacji linii kolejowej rygoru natychmiastowej wykonalności.”;
+10. Przepisu ust. 8 nie stosuje się do:
 
-- **8)** po art. 9yc dodaje się art. 9yca brzmieniu: „Art. 9yca. PLK S.A. lub właściwa jednostka samorządu terytorialnego dysponuje na cele budowlane rozumieniu przepisów Prawa budowlanego nieruchomością lub częścią nieruchomości, na której niezbędne jest wykonanie robót budowlanych niewymagających decyzji o pozwoleniu na budowę, o której mowa art. 28 ust. 1 Prawa budowlanego, ramach inwestycji dotyczących linii kolejowych.”;
-- **9)** po art. 33 dodaje się art. 33a brzmieniu: „Art. 33a. 1. W czasie stanu wyjątkowego, stanu wojennego, stanu klęski żywiołowej, stanu zagrożenia epidemicznego albo stanu epidemii, wprowadzonych na obszarze całego terytorium Rzeczypospolitej Polskiej, celu usuwania ich skutków, zarządca infrastruktury, po uzgodnieniu z ministrem właściwym do spraw finansów publicznych oraz ministrem właściwym do spraw transportu, może:
-- **1)** nie pobierać: rezerwacyjnej za niewykorzystanie przydzielonej zdolności przepustowej i obniżenie opłaty podstawowej stanowią pomoc publiczną podlegającą notyfikacji Komisji Europejskiej i mogą być udzielone zgodnie z postanowieniami zawartymi decyzji Komisji Europejskiej wydanej wyniku notyfikacji.”;
-    - **a)** części opłaty podstawowej wysokości odpowiadającej zatwierdzonej podwyżce stawki jednostkowej, o której mowa art. 33 ust. 6,
-    - **b)** opłaty rezerwacyjnej za niewykorzystanie przydzielonej zdolności przepustowej;
+- **1)** nieruchomości wnoszonych przez Polskie Koleje Państwowe Spółkę Akcyjną, zwane dalej „PKP S.A.”, w formie wkładu niepieniężnego do PLK S.A. na podstawie art. 17 ust. 1 ustawy z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. z 2022 r. poz. 2542 oraz z 2023 r. poz. 1720);
+- **2)** obrotu nieruchomościami, dokonywanego przez PLK S.A., CPK albo jednostkę samorządu terytorialnego, na rzecz których została wydana decyzja o ustaleniu lokalizacji linii kolejowej, albo dokonywanego za ich zgodą wydaną nie wcześniej niż po upływie dnia, w którym decyzja o pozwoleniu na budowę dotycząca nieruchomości stała się ostateczna;
+- **3)** obrotu nieruchomościami, o których mowa w art. 9s ust. 9, który jest dokonywany z dniem, w którym decyzja o pozwoleniu na budowę dotycząca tej nieruchomości stała się ostateczna. ” ;
+- **3)** w art. 9oa: ust. 1 otrzymuje brzmienie: „
+    - **a)**
 
-- **10)** po art. 38a dodaje się art. 38aa brzmieniu: „Art. 38aa. 1. Zarządca infrastruktury, przypadku udzielenia pomocy, o której mowa art. 33a ust. 2, otrzymuje ze środków budżetu państwa finansowanie wysokości odpowiadającej wysokości przychodów utraconych z tytułu niepobrania części opłaty podstawowej lub opłaty rezerwacyjnej za niewykorzystanie przydzielonej zdolności przepustowej albo pobrania obniżonej opłaty podstawowej.
+1. Podmioty zarządzające sieciami uzbrojenia terenu uzgadniają warunki techniczne usunięcia kolizji przebiegu sieci z inwestycją dotyczącą linii kolejowej w terminie 14 dni od dnia otrzymania wniosku PLK S.A., CPK lub właściwej jednostki samorządu terytorialnego. ” , dodaje się ust. 3 w brzmieniu: „
 
-2. Wypłaty środków z budżetu państwa, ramach finansowania, o którym mowa ust. 1, dokonuje minister właściwy do spraw transportu.”;
+- **b)**
 
-- **11)** rozdziale 9 po art. 57a dodaje się art. 57b brzmieniu: „Art. 57b. 1. W przypadkach szczególnie uzasadnionych usytuowanie obiektu budowlanego będącego elementem infrastruktury kolejowej przy autostradzie albo drodze ekspresowej odległości mniejszej niż określona art. 43 ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych może nastąpić wyłącznie za zgodą Generalnego Dyrektora Dróg Krajowych i Autostrad wyrażoną przed uzyskaniem przez inwestora tego obiektu pozwolenia na budowę lub zgłoszeniem budowy albo wykonywania robót budowlanych. Wyrażenie zgody następuje drodze decyzji.
+3. Podmioty, o których mowa w ust. 1, nie mogą warunkować uzgodnienia warunków technicznych usunięcia kolizji od spełnienia świadczeń, w ramach których PLK S.A., CPK lub właściwa jednostka samorządu terytorialnego byłaby zobowiązana do ustanowienia praw, których dotychczas podmioty te nie posiadały. ” ;
 
-2. Zgodę, o której mowa ust. 1, dołącza się do wniosku o pozwolenie na budowę oraz zgłoszenia budowy lub wykonania robót budowlanych, o których mowa Prawie budowlanym.”.
+- **4)** w art. 9q w ust. 2 w zdaniu pierwszym po wyrazach „katastrze nieruchomości” dodaje się wyrazy „i Prezesowi UTK”;
+- **5)** w art. 9s: ust. 3e otrzymuje brzmienie: „
+    - **a)**
 
-**Art. 9.** W ustawie z dnia 16 grudnia 2005 r. o Funduszu Kolejowym (Dz. U. z 2023 r. poz. 21) wprowadza się następujące zmiany:
+3e. Nieruchomości, na których planowana jest budowa lub przebudowa dróg publicznych, określone decyzją o ustaleniu lokalizacji linii kolejowej, z dniem, w którym decyzja ta stała się ostateczna:
 
-**Art. 10.** W ustawie z dnia 8 grudnia 2006 r. o Polskiej Agencji Żeglugi Powietrznej (Dz. U. z 2023 r. poz. 191) art. 4:
+- **1)** wojewoda oddaje w trwały zarząd Generalnej Dyrekcji Dróg Krajowych i Autostrad – w odniesieniu do dróg krajowych;
+- **2)** stają się własnością właściwego samorządu województwa, powiatu lub gminy – w odniesieniu do dróg wojewódzkich, powiatowych i gminnych. ” , ust. 5 otrzymuje brzmienie: „
+    - **b)**
 
-**Art. 11.** W ustawie z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych (Dz. U. z 2022 r. poz. 511 i 2185 oraz z 2023 r. poz. 1394) art. 50 ust. 7 wyrazy „rozporządzeniu (WE) nr 1371/2007 Parlamentu Europejskiego i Rady z dnia 23 października 2007 r. dotyczącym praw i obowiązków pasażerów ruchu kolejowym (Dz. Urz. UE L 315 z 03.12.2007, str. 14)” zastępuje się wyrazami „rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2021/782 z dnia 29 kwietnia 2021 r. dotyczącym praw i obowiązków pasażerów ruchu kolejowym (Dz. Urz. UE L 172 z 17.05.2021, str. 1)”.
+5. Decyzja o ustaleniu lokalizacji linii kolejowej stanowi podstawę do dokonania wpisów:
+
+- **1)** w księdze wieczystej i w katastrze nieruchomości praw, o których mowa w ust. 3–3b i 3e;
+- **2)** w księdze wieczystej ograniczeń, o których mowa w ust. 9 oraz w art. 9q ust. 1 pkt 6. ” ;
+- **6)** w art. 9x: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Z dniem, w którym decyzja o ustaleniu lokalizacji linii kolejowej stała się ostateczna, następuje z mocy prawa wygaśnięcie trwałego zarządu ustanowionego na nieruchomości przeznaczonej na pas gruntu pod linię kolejową, stanowiącej własność Skarbu Państwa albo jednostki samorządu terytorialnego. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+- **b)**
+
+1a. Decyzja o ustaleniu lokalizacji linii kolejowej stanowi podstawę do dokonania wpisów w księdze wieczystej o wygaśnięciu trwałego zarządu, o którym mowa w ust. 1. ” ;
+
+- **7)** w art. 9y: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Za nieruchomości oraz ograniczone prawa rzeczowe do nieruchomości, o których mowa w art. 9s ust. 3, 3a i 3e oraz w art. 9x ust. 4, od podmiotu, na rzecz którego wydawana jest decyzja o ustaleniu lokalizacji linii kolejowej, przysługuje odszkodowanie dotychczasowym właścicielom lub użytkownikom wieczystym nieruchomości, a także osobom, którym przysługiwało ograniczone prawo rzeczowe do nieruchomości w dniu, w którym decyzja o ustaleniu lokalizacji linii kolejowej stała się ostateczna. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+
+- **b)**
+
+2a. Jeżeli decyzji o ustaleniu lokalizacji linii kolejowej został nadany rygor natychmiastowej wykonalności, wysokość odszkodowania, o którym mowa w ust. 1 oraz w art. 9s ust. 9, ustala wojewoda w drodze decyzji, w terminie nie dłuższym niż 60 dni od dnia nadania decyzji o ustaleniu lokalizacji linii kolejowej rygoru natychmiastowej wykonalności. ” ;
+
+- **8)** po art. 9yc dodaje się art. 9yca w brzmieniu: „ Art. 9yca. PLK S.A. lub właściwa jednostka samorządu terytorialnego dysponuje na cele budowlane w rozumieniu przepisów Prawa budowlanego nieruchomością lub częścią nieruchomości, na której niezbędne jest wykonanie robót budowlanych niewymagających decyzji o pozwoleniu na budowę, o której mowa w art. 28 ust. 1 Prawa budowlanego, w ramach inwestycji dotyczących linii kolejowych. ” ;
+- **9)** po art. 33 dodaje się art. 33a w brzmieniu: „
+
+1. W czasie stanu wyjątkowego, stanu wojennego, stanu klęski żywiołowej, stanu zagrożenia epidemicznego albo stanu epidemii, wprowadzonych na obszarze całego terytorium Rzeczypospolitej Polskiej, w celu usuwania ich skutków, zarządca infrastruktury, po uzgodnieniu z ministrem właściwym do spraw finansów publicznych oraz ministrem właściwym do spraw transportu, może:
+
+- **1)** nie pobierać: części opłaty podstawowej w wysokości odpowiadającej zatwierdzonej podwyżce stawki jednostkowej, o której mowa w art. 33 ust. 6, opłaty rezerwacyjnej za niewykorzystanie przydzielonej zdolności przepustowej;
+    - **a)**
+    - **b)**
+
+- **2)** pobierać opłatę podstawową obniżoną o nie więcej niż 50% wysokości tej opłaty.
+
+2. Zwolnienie z pobierania części opłaty podstawowej, opłaty rezerwacyjnej za niewykorzystanie przydzielonej zdolności przepustowej i obniżenie opłaty podstawowej stanowią pomoc publiczną podlegającą notyfikacji Komisji Europejskiej i mogą być udzielone zgodnie z postanowieniami zawartymi w decyzji Komisji Europejskiej wydanej w wyniku notyfikacji. ” ;
+
+- **10)** po art. 38a dodaje się art. 38aa w brzmieniu: „ Art. 38aa.
+
+1. Zarządca infrastruktury, w przypadku udzielenia pomocy, o której mowa w art. 33a ust. 2, otrzymuje ze środków budżetu państwa finansowanie w wysokości odpowiadającej wysokości przychodów utraconych z tytułu niepobrania części opłaty podstawowej lub opłaty rezerwacyjnej za niewykorzystanie przydzielonej zdolności przepustowej albo pobrania obniżonej opłaty podstawowej.
+
+2. Wypłaty środków z budżetu państwa, w ramach finansowania, o którym mowa w ust. 1, dokonuje minister właściwy do spraw transportu. ” ;
+
+- **11)** w rozdziale 9 po art. 57a dodaje się art. 57b w brzmieniu: „
+
+1. W przypadkach szczególnie uzasadnionych usytuowanie obiektu budowlanego będącego elementem infrastruktury kolejowej przy autostradzie albo drodze ekspresowej w odległości mniejszej niż określona w art. 43 ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych może nastąpić wyłącznie za zgodą Generalnego Dyrektora Dróg Krajowych i Autostrad wyrażoną przed uzyskaniem przez inwestora tego obiektu pozwolenia na budowę lub zgłoszeniem budowy albo wykonywania robót budowlanych. Wyrażenie zgody następuje w drodze decyzji.
+
+2. Zgodę, o której mowa w ust. 1, dołącza się do wniosku o pozwolenie na budowę oraz zgłoszenia budowy lub wykonania robót budowlanych, o których mowa w Prawie budowlanym. ” . W ustawie z dnia 16 grudnia 2005 r. o Funduszu Kolejowym (Dz. U. z 2023 r. poz. 21) wprowadza się następujące zmiany:
+
+- **1)** w art. 3: po ust. 8 dodaje się ust. 8a i 8b w brzmieniu: „
+    - **a)**
+
+8a. W 2023 r. środki Funduszu mogą być przekazane PKP PLK SA z przeznaczeniem na sfinansowanie nabycia udziałów w kapitale zakładowym CARGOTOR spółka z ograniczoną odpowiedzialnością.
+
+8b. Nabycie udziałów, o których mowa w ust. 8a, następuje według ich wartości rynkowej, wynikającej z wyceny sporządzonej przez niezależnego zewnętrznego doradcę. ” , dodaje się ust. 10 i 11 w brzmieniu: „
+
+- **b)**
+
+10. Środki Funduszu mogą być przeznaczone na dofinansowanie realizacji inwestycji, o której mowa w art. 33z ust. 5 ustawy z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Kolejowe Państwowe” (Dz. U. z 2022 r. poz. 2542 oraz z 2023 r. poz. 1720).
+
+11. Środki Funduszu mogą być przeznaczone na sfinansowanie nabycia od PKP SA przez Skarb Państwa, reprezentowany przez ministra właściwego do spraw transportu, prawa własności nieruchomości lub użytkowania wieczystego gruntów niezbędnych do realizacji inwestycji, o której mowa w art. 33z ust. 5 ustawy z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”. ” ;
+
+- **2)** w art. 3a w ust. 2 wyrazy „ustawy z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. z 2021 r. poz. 146 oraz z 2022 r. poz. 655, 1534 i 1846)” zastępuje się wyrazami „ustawy z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Kolejowe Państwowe” ”;
+- **3)** w art. 5 dodaje się ust. 7 w brzmieniu: „
+
+7. W 2023 r. środki Funduszu mogą pochodzić również z wpływów ze skarbowych papierów wartościowych, o których mowa w art. 5b. ” ;
+
+- **4)** po art. 5a dodaje się art. 5b w brzmieniu: „
+
+1. W 2023 r. minister właściwy do spraw budżetu, na wniosek ministra właściwego do spraw transportu, może przekazać Funduszowi skarbowe papiery wartościowe na dofinansowanie zadań, o których mowa w art. 3 ust. 3a.
+
+2. Łączna wartość nominalna zobowiązań z tytułu wyemitowanych skarbowych papierów wartościowych przekazanych Funduszowi nie może przekroczyć kwoty 1 500 000 tys. zł.
+
+3. Minister właściwy do spraw budżetu określi, przez wydanie listu emisyjnego, warunki emisji skarbowych papierów wartościowych oraz sposób realizacji świadczeń z nich wynikających.
+
+4. List emisyjny zawiera w szczególności:
+
+- **1)** datę emisji;
+- **2)** powołanie podstawy prawnej emisji;
+- **3)** jednostkową wartość nominalną w złotych;
+- **4)** cenę zbycia lub sposób jej ustalenia;
+- **5)** stopę procentową lub sposób jej obliczania;
+- **6)** określenie sposobu i terminów wypłaty należności głównej oraz należności ubocznych;
+- **7)** datę, od której nalicza się oprocentowanie skarbowych papierów wartościowych tej emisji;
+- **8)** termin wykupu oraz zastrzeżenia w przedmiocie możliwości wcześniejszego wykupu.
+
+5. Emisja skarbowych papierów wartościowych następuje z dniem zarejestrowania skarbowych papierów wartościowych w depozycie papierów wartościowych oraz w kwocie równej wartości nominalnej wyemitowanych papierów wartościowych.
+
+6. Do emisji skarbowych papierów wartościowych nie stosuje się przepisów art. 98 i art. 102 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, 1273, 1407, 1429, 1641 i 1693) oraz przepisów wydanych na podstawie art. 97 tej ustawy.
+
+7. Rozporządzanie skarbowymi papierami wartościowymi przekazanymi Funduszowi wymaga zgody ministra właściwego do spraw finansów publicznych.
+
+8. Koszty związane z operacjami na skarbowych papierach wartościowych, o których mowa w ust. 1, w tym prowadzeniem rachunku papierów wartościowych, pokrywane są ze środków Funduszu. ” .
+
+**Art. 10.** W ustawie z dnia 8 grudnia 2006 r. o Polskiej Agencji Żeglugi Powietrznej (Dz. U. z 2023 r. poz. 191) w art. 4:
+
+- **1)** po ust. 4 dodaje się ust. 4a w brzmieniu: „
+
+4a. Agencja może prowadzić działalność w obszarze bezzałogowych statków powietrznych, w tym:
+
+- **1)** zapewniać usługi na rzecz operatorów systemów bezzałogowych statków powietrznych i dostawców usług dla operatorów systemów bezzałogowych statków powietrznych;
+- **2)** wspierać testowanie i wdrażanie nowych rozwiązań opartych na bezzałogowych statkach powietrznych, w szczególności w obszarach zurbanizowanych;
+- **3)** prowadzić projekty pilotażowe wspierające wdrażanie modeli biznesowych i usług w zakresie bezzałogowych statków powietrznych. ” ;
+- **2)** dodaje się ust. 7 i 8 w brzmieniu: „
+
+7. Agencja, w zakresie działalności, o której mowa w ust. 4a, za zgodą ministra właściwego do spraw transportu, może tworzyć spółki oraz posiadać, obejmować lub nabywać udziały lub akcje w spółkach.
+
+8. Do Agencji nie stosuje się przepisu art. 49 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, 1273, 1407, 1429, 1641 i 1693). ” .
+
+**Art. 11.** W ustawie z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych (Dz. U. z 2022 r. poz. 511 i 2185 oraz z 2023 r. poz. 1394) w art. 50 w ust. 7 wyrazy „rozporządzeniu (WE) nr 1371/2007 Parlamentu Europejskiego i Rady z dnia 23 października 2007 r. dotyczącym praw i obowiązków pasażerów w ruchu kolejowym (Dz. Urz. UE L 315 z 03.12.2007, str. 14)” zastępuje się wyrazami „rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2021/782 z dnia 29 kwietnia 2021 r. dotyczącym praw i obowiązków pasażerów w ruchu kolejowym (Dz. Urz. UE L 172 z 17.05.2021, str. 1)”.
 
 **Art. 12.** W ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej (Dz. U. z 2022 r. poz. 2464) wprowadza się następujące zmiany:
 
-**Art. 11b.**
+- **1)** po art. 6 dodaje się art. 6a w brzmieniu: „ Dopłacie ze środków Funduszu podlegają linie komunikacyjne niefunkcjonujące co najmniej 3 miesiące przed dniem wejścia w życie ustawy oraz, na które umowa o świadczenie usług w zakresie publicznego transportu zbiorowego zostanie zawarta po dniu wejścia w życie ustawy. ” ;
+- **2)** w art. 8 po ust. 1 dodaje się ust. 1a w brzmieniu: „
 
-1. W przypadku wyczerpania się środków, o których mowa art. 10a ust. 1 pkt 3, wojewoda składa do dysponenta Funduszu wniosek o przekazanie z rezerwy, o której mowa art. 8 ust. 1a, środków, które mogłyby być zaangażowane na realizację umów przypadku zwiększenia limitu środków Funduszu przewidzianych na województwo.
+1a. W planie finansowym Funduszu wyodrębnia się rezerwę w kwocie stanowiącej równowartość 5% środków przewidzianych na dofinansowanie zadań własnych organizatorów dotyczących zapewnienia funkcjonowania publicznego transportu zbiorowego w zakresie przewozów autobusowych o charakterze użyteczności publicznej. ” ;
 
-2. Podstawą do określenia wysokości tej kwoty jest łączna kwota dopłaty na dany rok budżetowy wynikająca ze złożonych wniosków, o których mowa art. 10a ust. 1 pkt 4, nieobjętych dopłatą ze względu na osiągnięcie limitu, o którym mowa art. 10a ust. 1 pkt 3.
+- **3)** w dziale III w rozdziale 1 po art. 9 dodaje się art. 9a w brzmieniu: „
 
-3. Wnioski, o których mowa ust. 1, są realizowane według kolejności wpływu do dysponenta Funduszu do wyczerpania się środków z rezerwy, przy czym wniosek na kwotę przekraczającą środki pozostające rezerwie jest realizowany części do wysokości środków tej rezerwy.
+1. Wojewoda w terminie wskazanym przez dysponenta Funduszu przekazuje dysponentowi informacje o kwocie środków zaangażowanych na kolejny rok budżetowy, wynikającej z zawartych umów o dopłatę, których okres obowiązywania i przewidzianego w tych umowach dofinansowania przewozów o charakterze użyteczności publicznej przekracza rok budżetowy, w którym te umowy zostały zawarte.
 
-**Art. 11c.** Minister właściwy do spraw transportu określi, drodze rozporządzenia, szczegółowy sposób oceny i wyboru wniosków, o których mowa art. 10a ust. 1 pkt 4, które zostaną objęte dopłatą na podstawie kryteriów, o których mowa art. 11a ust. 1, uwzględniając zaspokojenie potrzeb przewozowych społeczności na obszarze województwa. przewozu autobusowego o charakterze użyteczności publicznej. 3. Warunkiem uzyskania dopłaty jest:
+2. Kwota środków, o których mowa w ust. 1, nie może przekroczyć 70% kwoty środków przekazanych wojewodzie w roku poprzednim.
 
-**Art. 13.** W ustawie z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2023 r. poz. 1605) art. 11 ust. 1 uchyla się pkt 10.
+3. Dysponent Funduszu określa łączną wysokość środków Funduszu przewidzianych do podziału na województwa na dany rok budżetowy pomniejszoną o środki zaangażowane w ramach umów o dopłatę zawartych w poprzednich latach, o których mowa w ust. 1, oraz o środki, o których mowa w art. 8 ust. 1a. ” ;
 
-**Art. 14.** W ustawie z dnia 9 maja 2023 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, ustawy – Prawo budowlane oraz ustawy o transporcie kolejowym (Dz. U. poz. 967) po art. 4 dodaje się art. 4a brzmieniu: „Art. 4a. Do skarg pasażerów sprawie naruszenia przepisów rozporządzenia (WE) nr 1371/2007 Parlamentu Europejskiego i Rady z dnia 23 października 2007 r. dotyczącego praw i obowiązków pasażerów ruchu kolejowym (Dz. Urz. UE L 315 z 03.12.2007, str. 14, z późn. zm. ), postępowań dotyczących rozpatrzenia tych skarg, spraw i postępowań dotyczących nadzoru nad przestrzeganiem przepisów tego rozporządzenia oraz postępowań dotyczących nałożenia kary pieniężnej, o której mowa art. 66 ust. 1 pkt 6 ustawy zmienianej art. 3 (w brzmieniu z dnia 6 czerwca 2023 r.), prowadzonych przez Prezesa Urzędu Transportu Kolejowego stosuje się przepisy ustawy zmienianej art. 3 (w brzmieniu z dnia 6 czerwca 2023 r.).”.
+- **4)** w art. 10: ust. 1 otrzymuje brzmienie: „
+    - **a)**
 
-**Art. 15.** Postępowania administracyjne sprawach potwierdzeń zgłoszenia przewozu transporcie drogowym wszczęte i niezakończone decyzją ostateczną przed dniem wejścia życie niniejszej ustawy umarza się.
+1. Dysponent Funduszu dokonuje podziału niezaangażowanych środków, o których mowa w art. 9a ust. 3, przewidzianych na dany rok budżetowy w planie finansowym Funduszu na dofinansowanie realizacji zadań, o których mowa w art. 6 pkt 1, w poszczególnych województwach, po uzgodnieniu planu finansowego Funduszu, o którym mowa w art. 8 ust. 4. ” , w ust. 2: – pkt 3 otrzymuje brzmienie: „ 3) wartość produktu krajowego brutto województwa; ” , – dodaje się pkt 4 w brzmieniu: „ 4) zaspokojenie potrzeb przewozowych społeczności na obszarze województwa. ” ;
 
-**Art. 16.** Do postępowań sprawach umów o świadczenie usług zakresie publicznego transportu zbiorowego wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+- **b)**
+- **5)** po art. 10 dodaje się art. 10a w brzmieniu: „
 
-**Art. 17.** Umowy o świadczenie usług zakresie publicznego transportu zbiorowego zawarte przed dniem wejścia życie niniejszej ustawy, obowiązują przez okres, na który zostały zawarte. wtórnik potwierdzenia zgłoszenia przewozu, wypis z potwierdzenia zgłoszenia przewozu lub dokonywali zmiany potwierdzenia zgłoszenia przewozu, dokonują zwrotu potwierdzenia zgłoszenia przewozu, wtórnika potwierdzenia zgłoszenia przewozu lub wypisu z potwierdzenia zgłoszenia przewozu do właściwego organizatora terminie 3 miesięcy od dnia wejścia życie niniejszej ustawy.
+1. Wojewoda zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu wojewódzkiego informację o:
 
-**Art. 19.** Przedsiębiorca lub podmiot niebędący przedsiębiorcą, którzy prowadzili stację kontroli pojazdów przed dniem 1 czerwca 2024 r. i zamierzają przeprowadzać badania techniczne pojazdów, o których mowa art. 81 ust. 12b ustawy zmienianej art. 4, oraz badania techniczne pojazdów, o których mowa art. 83 ust. 1 pkt 1 lit. b i e ustawy zmienianej art. 4 brzmieniu nadanym niniejszą ustawą, są obowiązani do uzyskania poświadczenia, o którym mowa art. 83 ust. 3 pkt 5 ustawy zmienianej art. 4, przed rozpoczęciem przeprowadzania tych badań.
+- **1)** kwocie środków Funduszu, o których mowa w art. 10 ust. 1, przyznanych dla województwa na dofinansowanie realizacji zadań, o których mowa w art. 6 pkt 1;
+- **2)** kwocie środków Funduszu, o których mowa w art. 9a ust. 1;
+- **3)** łącznej kwocie środków Funduszu, o których mowa w pkt 1 i 2;
+- **4)** terminach w ciągu roku na składanie wniosków o objęcie w danym roku budżetowym dopłatą.
 
-**Art. 20.** Kierowcy pojazdów, o których mowa ADR.OPS.B.024 lit. a rozporządzenia Komisji (UE) nr 139/2014 z dnia 12 lutego 2014 r. ustanawiającego wymagania oraz procedury administracyjne dotyczące lotnisk zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz. UE L 44 z 14.02.2014, str. 1, z późn. zm. ), są obowiązani uzyskać zaświadczenie, o którym mowa art. 83b ust. 4 ustawy zmienianej art. 7, potwierdzające biegłość językową zgodnie z ADR.OPS.B.029 lit. a pkt 2 tego rozporządzenia terminie 5 miesięcy od dnia wejścia życie niniejszej ustawy.
+2. Wojewoda aktualizuje w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu wojewódzkiego informacje, o których mowa w ust. 1, stosownie do informacji otrzymanej od Dysponenta Funduszu zgodnie z art. 16 ust. 13.
+
+3. Wniosek, o którym mowa w ust. 1 pkt 4:
+
+- **1)** doręczony po upływie terminu, o którym mowa w ust. 1 pkt 4,
+- **2)** nieuzupełniony w terminie wyznaczonym przez wojewodę nie podlega rozpatrzeniu.
+
+4. Organizator składa do właściwego wojewody wniosek, o którym mowa w ust. 1 pkt 4, zawierający w szczególności:
+
+- **1)** nazwę organizatora i numer identyfikacji podatkowej (NIP);
+- **2)** linie komunikacyjne, na których będą wykonywane przewozy autobusowe o charakterze użyteczności publicznej;
+- **3)** datę uruchomienia każdej linii, o której mowa w pkt 2, w każdym roku budżetowym objętym umową, o której mowa w art. 11d ust. 1;
+- **4)** planowaną wielkość pracy eksploatacyjnej wyrażonej w wozokilometrach wykonywaną na każdej linii, o której mowa w pkt 2, w każdym roku budżetowym objętym umową, o której mowa w art. 11d ust. 1;
+- **5)** planowaną kwotę deficytu każdej linii, o której mowa w pkt 2, w każdym roku budżetowym objętym umową, o której mowa w art. 11d ust. 1;
+- **6)** planowaną łączną kwotę dopłaty oraz planowaną łączną kwotę dopłaty dla każdej linii w każdym roku budżetowym objętym umową, o której mowa w art. 11d ust. 1.
+
+5. Do wniosku, o którym mowa w ust. 1 pkt 4, organizator dołącza dokumenty potwierdzające dane i informacje zawarte we wniosku. ” ;
+
+- **6)** po art. 11 dodaje się art. 11a-11e w brzmieniu: „
+
+1. Wojewoda, rozpatrując wniosek, o którym mowa w art. 10a ust. 1 pkt 4, bierze pod uwagę:
+
+- **1)** powierzchnię obszaru właściwości organizatora;
+- **2)** liczbę mieszkańców obszaru właściwości organizatora;
+- **3)** liczbę linii komunikacyjnych w przewozach autobusowych o charakterze użyteczności publicznej, dla których organizator złożył wniosek;
+- **4)** długość linii komunikacyjnych w przewozach autobusowych o charakterze użyteczności publicznej, dla których organizator złożył wniosek;
+- **5)** liczbę zatrzymań autobusu na przystankach komunikacyjnych na liniach komunikacyjnych w przewozach autobusowych o charakterze użyteczności publicznej, dla których organizator złożył wniosek;
+- **6)** realizację potrzeb osób niepełnosprawnych oraz osób o ograniczonej zdolności ruchowej w zakresie dostępu do przewozów na liniach komunikacyjnych w przewozach autobusowych o charakterze użyteczności publicznej, dla których organizator złożył wniosek;
+- **7)** wskaźnik dochodów podatkowych na jednego mieszkańca, o którym mowa w przepisach ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2022 r. poz. 2267 oraz z 2023 r. poz. 1586), jednostki samorządu terytorialnego będącej organizatorem, a w przypadku związku tych jednostek – średnią arytmetyczną dochodu jednostek wchodzących w skład związku;
+- **8)** zapewnienie dostępności komunikacyjnej terenów objętych przedsięwzięciami lub inwestycjami powiązanymi z przedsięwzięciem infrastrukturalnym, o których mowa w art. 5c ust. 1 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych (Dz. U. z 2023 r. poz. 788, 1463 i 1693).
+
+2. Pierwszeństwo w objęciu dopłatą przyznaje się organizatorom w następującej kolejności:
+
+- **1)** gminom;
+- **2)** związkom międzygminnym;
+- **3)** związkom powiatowo-gminnym;
+- **4)** powiatom;
+- **5)** związkom powiatów;
+- **6)** województwom.
+
+3. W przypadku gdy wnioski, o których mowa w art. 10a ust. 1 pkt 4, uzyskały taką samą ocenę, decydującym kryterium jest kryterium, o którym mowa w ust. 1 pkt 7.
+
+4. Wojewoda po rozpatrzeniu wniosków, o których mowa w art. 10a ust. 1 pkt 4, informuje organizatora o objęciu dopłatą w ramach środków, o których mowa w art. 10 ust. 1, albo o nieobjęciu dopłatą.
+
+5. Wojewoda obejmuje dopłatą umowy, o których mowa w art. 9a ust. 1, do wysokości limitu, o którym mowa w art. 9a ust. 2.
+
+1. W przypadku wyczerpania się środków, o których mowa w art. 10a ust. 1 pkt 3, wojewoda składa do dysponenta Funduszu wniosek o przekazanie z rezerwy, o której mowa w art. 8 ust. 1a, środków, które mogłyby być zaangażowane na realizację umów w przypadku zwiększenia limitu środków Funduszu przewidzianych na województwo.
+
+2. Podstawą do określenia wysokości tej kwoty jest łączna kwota dopłaty na dany rok budżetowy wynikająca ze złożonych wniosków, o których mowa w art. 10a ust. 1 pkt 4, nieobjętych dopłatą ze względu na osiągnięcie limitu, o którym mowa w art. 10a ust. 1 pkt 3.
+
+3. Wnioski, o których mowa w ust. 1, są realizowane według kolejności wpływu do dysponenta Funduszu do wyczerpania się środków z rezerwy, przy czym wniosek na kwotę przekraczającą środki pozostające w rezerwie jest realizowany w części do wysokości środków tej rezerwy. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, szczegółowy sposób oceny i wyboru wniosków, o których mowa w art. 10a ust. 1 pkt 4, które zostaną objęte dopłatą na podstawie kryteriów, o których mowa w art. 11a ust. 1, uwzględniając zaspokojenie potrzeb przewozowych społeczności na obszarze województwa.
+
+1. Dopłata jest udzielana po zawarciu przez organizatora umowy o dopłatę z właściwym wojewodą.
+
+2. Dopłatę ustala się w kwocie nie wyższej niż 3,00 zł do 1 wozokilometra przewozu autobusowego o charakterze użyteczności publicznej.
+
+3. Warunkiem uzyskania dopłaty jest:
+
+- **1)** uzyskanie zgody organu stanowiącego właściwego organizatora na zawarcie umowy o świadczenie usług w zakresie publicznego transportu zbiorowego;
+- **2)** zawarcie umowy o świadczenie usług w zakresie publicznego transportu zbiorowego po dniu wejścia w życie ustawy;
+- **3)** sfinansowanie ze środków własnych organizatora części ceny usługi w wysokości nie mniejszej niż 10%.
+
+4. Umowa, o której mowa w ust. 1, obejmuje w szczególności:
+
+- **1)** linie komunikacyjne, na których będą wykonywane przewozy autobusowe o charakterze użyteczności publicznej;
+- **2)** długość linii komunikacyjnych, na których będą wykonywane przewozy autobusowe o charakterze użyteczności publicznej;
+- **3)** częstotliwość połączeń na liniach komunikacyjnych, na których będą wykonywane przewozy autobusowe o charakterze użyteczności publicznej;
+- **4)** wielkość pracy eksploatacyjnej wyrażonej w wozokilometrach wykonywaną na liniach komunikacyjnych, na których będą wykonywane przewozy autobusowe o charakterze użyteczności publicznej;
+- **5)** maksymalną kwotę dopłaty w każdym roku budżetowym objętym umową w wysokości nie większej niż zawarta we wniosku o objęcie dofinansowaniem, o którym mowa w art. 6 pkt 1;
+- **6)** termin i sposób przekazywania dopłaty w każdym roku budżetowym objętym umową, o której mowa w ust. 1;
+- **7)** termin i sposób rozliczenia dopłaty w każdym roku budżetowym objętym umową, o której mowa w ust. 1;
+- **8)** termin i zasady zwrotu dopłaty w każdym roku budżetowym objętym umową, o której mowa w ust. 1;
+- **9)** zasady i termin składania wniosku o dopłatę oraz jego wzór.
+
+5. Umowa, o której mowa w ust. 1, jest zawierana na czas oznaczony, nie dłuższy niż 10 lat.
+
+1. Linie komunikacyjne nieuruchomione w terminie, o którym mowa w art. 10a ust. 4 pkt 3, wskazanym we wniosku, nie podlegają dofinansowaniu ze środków Funduszu w danym roku budżetowym.
+
+2. Środki przewidziane na finansowanie linii, o których mowa w ust. 1, uznaje się za środki niezaangażowane. ” ;
+
+- **7)** uchyla się art. 12 i art. 13;
+- **8)** art. 14 otrzymuje brzmienie: „
+
+**Art. 14.**
+
+1. Organizator składa wojewodzie wniosek o dopłatę za dany okres rozliczeniowy na zasadach i w terminach wynikających z umowy o dopłatę.
+
+2. Do wniosku o dopłatę organizator dołącza dokumenty potwierdzające dane i informacje zawarte we wniosku. W przypadku gdy wniosek o dopłatę jest sporządzany w oparciu o prognozowaną kwotę tej dopłaty, dokumenty potwierdzające dane i informacje załącza się do rozliczenia dopłaty.
+
+3. W przypadku gdy w okresie rozliczeniowym dla linii komunikacyjnej w przewozach autobusowych o charakterze użyteczności publicznej objętych umową o dopłatę nie wystąpi deficyt na pojedynczej linii pomimo pomniejszenia go o kwotę rozsądnego zysku, organizator nie występuje z wnioskiem o dopłatę za ten okres dla tej linii.
+
+4. Rozliczenie dopłaty przekazanej w oparciu o wielkości prognozowane organizator składa wojewodzie w terminie 30 dni, licząc od ostatniego dnia okresu rozliczeniowego, w którym przekazano środki dopłaty. Rozliczenie dotyczy również dodatniego wyniku finansowego osiągniętego na każdej z linii komunikacyjnych w przewozach autobusowych o charakterze użyteczności publicznej objętych umową o dopłatę, który nie został uwzględniony we wcześniejszych wnioskach o dopłatę.
+
+5. Wojewoda dokonuje weryfikacji wniosku o dopłatę.
+
+6. Wniosek o dopłatę:
+
+- **1)** doręczony po upływie terminu, o którym mowa w ust. 1,
+- **2)** nieuzupełniony w terminie wyznaczonym przez wojewodę nie podlega rozpatrzeniu.
+
+7. Wojewoda występuje do dysponenta Funduszu z wnioskiem o przekazanie środków na realizację wniosków o dopłaty.
+
+8. Dysponent Funduszu przekazuje dofinansowanie na wyodrębniony rachunek bankowy urzędu wojewódzkiego. Warunkiem przekazania dofinansowania jest dostępność środków na rachunku Funduszu.
+
+9. Wojewoda przekazuje dopłatę na wskazany w umowie o dopłatę rachunek bankowy organizatora niezwłocznie po uzyskaniu dofinansowania od dysponenta Funduszu.
+
+10. Środki wynikające z wniosku wojewody, o którym mowa w ust. 7, są przekazywane w terminach wynikających z porozumienia, o którym mowa w art. 11, nie później niż do dnia 31 grudnia. Dofinansowanie dotyczące przewozów realizowanych w danym roku przekazane na wyodrębniony rachunek urzędu wojewódzkiego i niewykorzystane w terminie do dnia 25 stycznia roku następnego podlega zwrotowi na rachunek Funduszu. ” ;
+
+- **9)** w art. 16: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Na wniosek, o którym mowa w art. 11b ust. 1, dysponent Funduszu może polecić wojewodom przeprowadzenie analizy zaangażowania środków przewidzianych na województwo na dofinansowanie realizacji zadań własnych organizatorów dotyczących zapewnienia funkcjonowania publicznego transportu zbiorowego w zakresie przewozów autobusowych o charakterze użyteczności publicznej oraz środków, które mogłyby być zaangażowane w przypadku zwiększenia limitu środków Funduszu przewidzianych na województwo. Analizę przeprowadza się nie częściej niż raz na 2 miesiące. ” , uchyla się ust. 2–7, dodaje się ust. 8–14 w brzmieniu: „
+
+- **b)**
+- **c)**
+
+8. Wojewoda, w terminie wskazanym przez dysponenta Funduszu, przekazuje informacje o kwocie środków niezaangażowanych wynikającej z analizy, o której mowa w ust. 1. Wielkość tych środków pomniejsza kwotę, o której mowa w art. 10a ust. 1 pkt 1.
+
+9. W przypadku pełnego zaangażowania środków Funduszu w danym województwie wojewoda, w terminie wskazanym przez dysponenta Funduszu, przekazuje informacje o kwocie środków, które mogłyby być zaangażowane w przypadku zwiększenia limitu środków Funduszu przewidzianych na województwo.
+
+10. Dysponent Funduszu dokonuje podziału sumy środków, o których mowa w ust. 8, zgodnie z zapotrzebowaniem wojewodów, o którym mowa w ust. 9, oraz z zastrzeżeniem ust. 12.
+
+11. Ewentualne środki pozostałe po dokonaniu podziału, o którym mowa w ust. 10, mogą być uruchomione na realizację kolejnych umów w trybie przewidzianym w art. 11b.
+
+12. W przypadku, gdy łączna kwota środków zgłoszonych przez wojewodów, zgodnie z ust. 9, przekracza łączną kwotę środków niezaangażowanych, o których mowa w ust. 8, Dysponent Funduszu dokonuje podziału sumy środków, o których mowa w ust. 8, do wysokości kwoty środków niezaangażowanych, proporcjonalnie do zgłoszonego przez wojewodów zapotrzebowania, o którym mowa w ust. 9.
+
+13. Dysponent Funduszu niezwłocznie przekazuje wojewodzie informację o kwocie dodatkowych środków na dofinansowanie realizacji zadań własnych organizatorów dotyczących zapewnienia funkcjonowania publicznego transportu zbiorowego w zakresie przewozów autobusowych o charakterze użyteczności publicznej w danym województwie.
+
+14. Do dopłat stosuje się przepisy art. 11a, przepisy wydane na podstawie art. 11c oraz przepisy art. 11d. ” ;
+
+- **10)** w art. 17 w ust. 8 wyrazy „ust. 7” zastępuje się wyrazami „ust. 8”;
+- **11)** po art. 18 dodaje się art. 18a w brzmieniu: „ Wojewoda jest uprawniony do żądania dokumentów związanych z wykorzystaniem środków Funduszu bez wszczynania kontroli, o której mowa w art. 18. ” ;
+- **12)** użyte w art. 21 oraz w art. 30a w ust. 2 wyrazy „31 grudnia 2023 r.” zastępuje się wyrazami „31 grudnia 2024 r.”;
+- **13)** w art. 53 w ust. 1: pkt 6–10 otrzymują brzmienie: „
+    - **a)**
+
+- **6)** 2024 – 400 000 000 zł;
+- **7)** 2025 – 400 000 000 zł;
+- **8)** 2026 – 400 000 000 zł;
+- **9)** 2027 – 400 000 000 zł;
+- **10)** 2028 – 400 000 000 zł; ” , dodaje się pkt 11–15 w brzmieniu: „
+    - **b)**
+
+- **11)** 2029 – 400 000 000 zł;
+- **12)** 2030 – 400 000 000 zł;
+- **13)** 2031 – 400 000 000 zł;
+- **14)** 2032 – 400 000 000 zł;
+- **15)** 2033 – 400 000 000 zł. ” .
+
+**Art. 13.** W ustawie z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2023 r. poz. 1605) w art. 11 w ust. 1 uchyla się pkt 10. W ustawie z dnia 9 maja 2023 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, ustawy – Prawo budowlane oraz ustawy o transporcie kolejowym (Dz. U. poz. 967) po art. 4 dodaje się art. 4a w brzmieniu: „ Do skarg pasażerów w sprawie naruszenia przepisów rozporządzenia (WE) nr 1371/2007 Parlamentu Europejskiego i Rady z dnia 23 października 2007 r. dotyczącego praw i obowiązków pasażerów w ruchu kolejowym (Dz. Urz. UE L 315 z 03.12.2007, str. 14, z późn. zm.), postępowań dotyczących rozpatrzenia tych skarg, spraw i postępowań dotyczących nadzoru nad przestrzeganiem przepisów tego rozporządzenia oraz postępowań dotyczących nałożenia kary pieniężnej, o której mowa w art. 66 ust. 1 pkt 6 ustawy zmienianej w art. 3 (w brzmieniu z dnia 6 czerwca 2023 r.), prowadzonych przez Prezesa Urzędu Transportu Kolejowego stosuje się przepisy ustawy zmienianej w art. 3 (w brzmieniu z dnia 6 czerwca 2023 r.). ” .
+
+**Art. 15.** Postępowania administracyjne w sprawach potwierdzeń zgłoszenia przewozu w transporcie drogowym wszczęte i niezakończone decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy umarza się.
+
+**Art. 16.** Do postępowań w sprawach umów o świadczenie usług w zakresie publicznego transportu zbiorowego wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+
+**Art. 17.** Umowy o świadczenie usług w zakresie publicznego transportu zbiorowego zawarte przed dniem wejścia w życie niniejszej ustawy, obowiązują przez okres, na który zostały zawarte. Przewoźnicy, którzy przed dniem wejścia w życie niniejszej ustawy uzyskali potwierdzenie zgłoszenia przewozu w transporcie drogowym wydane na podstawie zgłoszenia, o którym mowa w art. 85 ust. 1 ustawy zmienianej w art. 1, wtórnik potwierdzenia zgłoszenia przewozu, wypis z potwierdzenia zgłoszenia przewozu lub dokonywali zmiany potwierdzenia zgłoszenia przewozu, dokonują zwrotu potwierdzenia zgłoszenia przewozu, wtórnika potwierdzenia zgłoszenia przewozu lub wypisu z potwierdzenia zgłoszenia przewozu do właściwego organizatora w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 19.** Przedsiębiorca lub podmiot niebędący przedsiębiorcą, którzy prowadzili stację kontroli pojazdów przed dniem 1 czerwca 2024 r. i zamierzają przeprowadzać badania techniczne pojazdów, o których mowa w art. 81 ust. 12b ustawy zmienianej w art. 4, oraz badania techniczne pojazdów, o których mowa w art. 83 ust. 1 pkt 1 lit. b i e ustawy zmienianej w art. 4 w brzmieniu nadanym niniejszą ustawą, są obowiązani do uzyskania poświadczenia, o którym mowa w art. 83 ust. 3 pkt 5 ustawy zmienianej w art. 4, przed rozpoczęciem przeprowadzania tych badań.
+
+**Art. 20.** Kierowcy pojazdów, o których mowa w ADR.OPS.B.024 lit. a rozporządzenia Komisji (UE) nr 139/2014 z dnia 12 lutego 2014 r. ustanawiającego wymagania oraz procedury administracyjne dotyczące lotnisk zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz. UE L 44 z 14.02.2014, str. 1, z późn. zm.), są obowiązani uzyskać zaświadczenie, o którym mowa w art. 83b ust. 4 ustawy zmienianej w art. 7, potwierdzające biegłość językową zgodnie z ADR.OPS.B.029 lit. a pkt 2 tego rozporządzenia w terminie 5 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 21.**
 
-1. Do wniosków o wydanie decyzji o ustaleniu lokalizacji linii kolejowej złożonych i nierozpatrzonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+1. Do wniosków o wydanie decyzji o ustaleniu lokalizacji linii kolejowej złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-3. Do postępowań sprawie ustalenia odszkodowania na podstawie art. 9y ust. 1 ustawy zmienianej art. 8 wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+2. Do postępowań o wydanie decyzji o ustaleniu lokalizacji linii kolejowej wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+
+3. Do postępowań w sprawie ustalenia odszkodowania na podstawie art. 9y ust. 1 ustawy zmienianej w art. 8 wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
 **Art. 22.**
 
-1. Postępowania dotyczące wydania przez wojewodę decyzji o wygaśnięciu trwałego zarządu ustanowionego na nieruchomości przeznaczonej na pas gruntu pod linię kolejową, stanowiącej własność Skarbu Państwa lub jednostki samorządu terytorialnego wszczęte i niezakończone przed dniem wejścia życie niniejszej ustawy decyzją ostateczną umarza się.
+1. Postępowania dotyczące wydania przez wojewodę decyzji o wygaśnięciu trwałego zarządu ustanowionego na nieruchomości przeznaczonej na pas gruntu pod linię kolejową, stanowiącej własność Skarbu Państwa lub jednostki samorządu terytorialnego wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy decyzją ostateczną umarza się.
 
-2. Do decyzji o ustaleniu lokalizacji linii kolejowej wydanych przed dniem wejścia życie niniejszej ustawy, które stały się ostateczne przed dniem jej wejścia życie, odniesieniu do których postępowanie sprawie wydania decyzji o wygaśnięciu trwałego zarządu ustanowionego na nieruchomości przeznaczonej na pas gruntu pod linię kolejową, stanowiącej własność Skarbu Państwa lub jednostki samorządu terytorialnego:
+2. Do decyzji o ustaleniu lokalizacji linii kolejowej wydanych przed dniem wejścia w życie niniejszej ustawy, które stały się ostateczne przed dniem jej wejścia w życie, w odniesieniu do których postępowanie w sprawie wydania decyzji o wygaśnięciu trwałego zarządu ustanowionego na nieruchomości przeznaczonej na pas gruntu pod linię kolejową, stanowiącej własność Skarbu Państwa lub jednostki samorządu terytorialnego:
 
 - **1)** zostało umorzone na podstawie ust. 1,
-- **2)** nie zostało wszczęte przed dniem wejścia życie niniejszej ustawy – stosuje się przepis art. 9x ust. 1 i 1a ustawy zmienianej art. 8 brzmieniu nadanym niniejszą ustawą.
+- **2)** nie zostało wszczęte przed dniem wejścia w życie niniejszej ustawy stosuje się przepis art. 9x ust. 1 i 1a ustawy zmienianej w art. 8 w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 23.**
 
 1. Do postępowań:
 
-- **1)** o udzielenie zamówienia publicznego, których przedmiotem są usługi publiczne zakresie transportu pasażerskiego innego niż koleją lub metrem,
-- **2)** sprawie konkursów i zamówień, których przedmiotem są usługi publiczne zakresie transportu pasażerskiego koleją lub metrem – wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+- **1)** o udzielenie zamówienia publicznego, których przedmiotem są usługi publiczne w zakresie transportu pasażerskiego innego niż koleją lub metrem,
+- **2)** w sprawie konkursów i zamówień, których przedmiotem są usługi publiczne w zakresie transportu pasażerskiego koleją lub metrem wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-2. Do umów sprawach zamówień publicznych zawartych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+2. Do umów w sprawach zamówień publicznych zawartych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-**Art. 24.** Począwszy od planu finansowego Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej na rok 2025 dysponent tego Funduszu wyodrębnia rezerwę kwocie stanowiącej równowartość 5% środków
+**Art. 24.** Począwszy od planu finansowego Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej na rok 2025 dysponent tego Funduszu wyodrębnia rezerwę w kwocie stanowiącej równowartość 5% środków przewidzianych na dofinansowanie zadań własnych organizatorów dotyczących zapewnienia funkcjonowania publicznego transportu zbiorowego w zakresie przewozów autobusowych o charakterze użyteczności publicznej.
 
 **Art. 25.**
 
-1. W roku 2024 wojewoda może zawrzeć umowy o dopłatę, których okres obowiązywania i przewidzianego tych umowach dofinansowania przewozów o charakterze użyteczności publicznej przekracza rok budżetowy i jest nie dłuższy niż 10 lat.
+1. W roku 2024 wojewoda może zawrzeć umowy o dopłatę, których okres obowiązywania i przewidzianego w tych umowach dofinansowania przewozów o charakterze użyteczności publicznej przekracza rok budżetowy i jest nie dłuższy niż 10 lat.
 
-2. Zaangażowanie środków na umowy, o których mowa ust. 1, pierwszym roku ich obowiązywania nie może przekroczyć 50% kwoty środków przyznanej dla województwa na podstawie podziału środków, o którym mowa art. 24 ust. 1 ustawy zmienianej art. 12, oraz 70% tej kwoty kolejnych latach obowiązywania umowy.
+2. Zaangażowanie środków na umowy, o których mowa w ust. 1, w pierwszym roku ich obowiązywania nie może przekroczyć 50% kwoty środków przyznanej dla województwa na podstawie podziału środków, o którym mowa w art. 24 ust. 1 ustawy zmienianej w art. 12, oraz 70% tej kwoty w kolejnych latach obowiązywania umowy.
 
-**Art. 26.** W odniesieniu do środków przewidzianych planie finansowym Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej na rok 2024 stosuje się odpowiednio przepisy art. 10a, art. 11a, art. 11c, art. 11d i art. 11e ustawy zmienianej art. 12.
+**Art. 26.** W odniesieniu do środków przewidzianych w planie finansowym Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej na rok 2024 stosuje się odpowiednio przepisy art. 10a, art. 11a, art. 11c, art. 11d i art. 11e ustawy zmienianej w art. 12.
 
-**Art. 27.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 38 ustawy zmienianej art. 1 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 28a ustawy zmienianej art. 1, jednak nie dłużej niż przez okres 6 miesięcy od dnia wejścia życie niniejszej ustawy.
+**Art. 27.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 38 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 28a ustawy zmienianej w art. 1, jednak nie dłużej niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
 
-**Art. 28.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
+- **1)** art. 1 pkt 1 i 21–28 oraz art. 3, które wchodzą w życie z dniem 1 stycznia 2026 r.;
+- **2)** art. 1 pkt 2 lit. a tiret pierwsze, art. 7, art. 10, art. 11, art. 14 oraz art. 20, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **3)** art. 4 i art. 19, które wchodzą w życie z dniem 1 czerwca 2024 r.;
+- **4)** art. 5 pkt 1, 2, 4, 5 i 6 lit. b, art. 8 pkt 9 i 10 oraz art. 9, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
+- **5)** art. 12 pkt 1–3, 4 lit. a i pkt 5–11, które wchodzą w życie z dniem 1 stycznia 2025 r.
+
 

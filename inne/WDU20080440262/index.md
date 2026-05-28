@@ -22,12 +22,115 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-02-29 |
 | Data wydania | 2008-03-14 |
+| Wejście w życie | 2008-03-15 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080440262) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/262/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 26 stycznia 2007 r. o płatnościach do gruntów rolnych i płatności cukrowej (Dz. U. Nr 35, poz. 217 i Nr 99, poz. 666) wprowadza się następujące zmiany:
 
+- **1)** tytuł ustawy otrzymuje brzmienie: „ o płatnościach w ramach systemów wsparcia bezpośredniego ” ;
+- **2)** w art. 1: w pkt 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „zadania oraz właściwość organów i jednostek organizacyjnych w zakresie dotyczącym płatności bezpośredniej, płatności uzupełniającej, płatności cukrowej oraz płatności do pomidorów, określonych w przepisach:”, w pkt 2: – lit. a otrzymuje brzmienie: „ a) przyznawania rolnikom płatności bezpośredniej, płatności uzupełniającej, płatności cukrowej oraz płatności do pomidorów, ” , – lit. c otrzymuje brzmienie: „ c) wypłaty rolnikom płatności bezpośredniej, płatności uzupełniającej, płatności cukrowej oraz płatności do pomidorów ” , w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **3)** zasady i tryb: przyznawania i wypłaty rolnikom pomocy do rzepaku i pomocy do plantacji trwałych, przeprowadzania kontroli w zakresie, o którym mowa w lit. a. ” ;
+    - **a)**
+    - **b)**
+
+- **3)** w art. 2: po pkt 3 dodaje się pkt 3a w brzmieniu: „
+    - **a)**
+
+- **3a)** jednolita płatność obszarowa – jednolitą płatność obszarową, o której mowa w art. 143b ust. 1 rozporządzenia nr 1782/2003; ” , pkt 4 otrzymuje brzmienie: „
+    - **b)**
+
+- **4)** płatność bezpośrednia: jednolitą płatność obszarową, płatność do upraw roślin energetycznych, o której mowa w art. 88 rozporządzenia nr 1782/2003, przejściowe płatności z tytułu owoców miękkich, o których mowa w art. 110v ust. 1–4 rozporządzenia nr 1782/2003; ” , po pkt 6 dodaje się pkt 6a-6c w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **c)**
+
+- **6a)** płatność do pomidorów – oddzielną płatność z tytułu owoców i warzyw, o której mowa w art. 143bb ust. 1 rozporządzenia nr 1782/2003, przyznawaną do pomidorów;
+- **6b)** pomoc do rzepaku – dodatkową krajową płatność do powierzchni uprawy rzepaku objętej wnioskiem o przyznanie płatności do upraw roślin energetycznych;
+- **6c)** pomoc do plantacji trwałych – pomoc finansową, o której mowa w art. 90a rozporządzenia nr 1782/2003; ” , pkt 9–12 otrzymują brzmienie: „
+    - **d)**
+
+- **9)** grunty rolne – grunty, o których mowa w art. 143b ust. 4 akapit drugi rozporządzenia nr 1782/2003;
+- **10)** wnioskodawca – wnioskodawcę w rozumieniu art. 23 lit. a rozporządzenia nr 1973/2004;
+- **11)** pierwsza jednostka przetwórcza – pierwszego przetwórcę w rozumieniu art. 23 lit. d rozporządzenia nr 1973/2004;
+- **12)** podmiot skupujący – odbiorcę w rozumieniu art. 23 lit. e rozporządzenia nr 1973/2004; ” , dodaje się pkt 13–15 w brzmieniu: „
+    - **e)**
+
+- **13)** wnioskujący o płatność do owoców miękkich – wnioskodawcę w rozumieniu art. 171d lit. a rozporządzenia nr 1973/2004;
+- **14)** przetwórca owoców miękkich – pierwszego przetwórcę w rozumieniu art. 171d lit. c rozporządzenia nr 1973/2004;
+- **15)** skupujący owoce miękkie – odbiorcę w rozumieniu art. 171d lit. d rozporządzenia nr 1973/2004. ” ;
+- **4)** w art. 3 w ust. 2: wprowadzenie do wyliczenia otrzymuje brzmienie: „ W postępowaniu w sprawach dotyczących płatności bezpośredniej, płatności uzupełniającej, płatności cukrowej, płatności do pomidorów, pomocy do rzepaku oraz pomocy do plantacji trwałych organ administracji publicznej: ” , pkt 4 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **4)** zapewnia stronom, na ich żądanie, czynny udział w każdym stadium postępowania i na ich żądanie, przed wydaniem decyzji, umożliwia im wypowiedzenie się co do zebranych dowodów i materiałów oraz zgłoszonych żądań; przepisu art. 81 Kodeksu postępowania administracyjnego nie stosuje się. ” ;
+- **5)** art. 4 otrzymuje brzmienie: „
+
 **Art. 4.** Agencja Restrukturyzacji i Modernizacji Rolnictwa, zwana dalej „Agencją”, akredytowana na podstawie odrębnych przepisów jako agencja płatnicza, realizuje zadania i kompetencje agencji płatniczej określone w przepisach Unii Europejskiej, o których mowa w art. 1 pkt 1, w zakresie płatności bezpośredniej i płatności uzupełniającej, zwanych dalej „płatnościami obszarowymi”, płatności cukrowej oraz płatności do pomidorów, uregulowanych w niniejszej ustawie. ” ;
+
+- **6)** w art. 5: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Kierownik biura powiatowego Agencji jest właściwy w sprawach dotyczących płatności obszarowych, płatności cukrowej, płatności do pomidorów i pomocy do rzepaku, chyba że przepisy ustawy stanowią inaczej. ” , dodaje się ust. 3 i 4 w brzmieniu: „
+
+- **b)**
+
+3. Dyrektor oddziału regionalnego Agencji jest właściwy w sprawach dotyczących zatwierdzania, o którym mowa w art. 171db rozporządzenia nr 1973/2004, skupujących owoce miękkie i przetwórców owoców miękkich oraz cofania tego zatwierdzenia.
+
+4. Właściwość miejscową dyrektora oddziału regionalnego Agencji w sprawach, o których mowa w ust. 3, ustala się według miejsca zamieszkania lub siedziby skupującego owoce miękkie albo przetwórcy owoców miękkich. ” ;
+
+- **7)** w art. 7: ust. 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+1. Rolnikowi przysługuje jednolita płatność obszarowa na będące w jego posiadaniu w dniu 31 maja roku, w którym został złożony wniosek o przyznanie tej płatności, grunty rolne wchodzące w skład gospodarstwa rolnego, kwalifikujące się do objęcia tą płatnością zgodnie z art. 143b ust. 5 akapit pierwszy rozporządzenia nr 1782/2003, jeżeli:
+
+- **1)** na ten dzień posiada działki rolne o łącznej powierzchni nie mniejszej niż określona dla Rzeczypospolitej Polskiej w załączniku nr XX do rozporządzenia nr 1973/2004;
+- **2)** wszystkie grunty rolne są utrzymywane zgodnie z normami przez cały rok kalendarzowy, w którym został złożony wniosek o przyznanie tej płatności;
+- **3)** został mu nadany numer identyfikacyjny w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności.
+
+2. Rolnikowi, który w danym roku spełnia warunki do przyznania jednolitej płatności obszarowej, przysługują płatności uzupełniające do powierzchni upraw:
+
+- **1)** chmielu,
+- **2)** roślin przeznaczonych na paszę, uprawianych na trwałych użytkach zielonych,
+- **3)** innych roślin położonych na działkach rolnych objętych wnioskiem o przyznanie jednolitej płatności obszarowej. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **b)**
+
+2a. Rolnikowi, który w danym roku spełnia warunki do przyznania jednolitej płatności obszarowej i złożył wniosek o przyznanie tej płatności, przysługuje płatność uzupełniająca do powierzchni uprawy chmielu, do której przyznano mu płatność uzupełniającą do powierzchni uprawy chmielu za 2006 r., zwana dalej „płatnością uzupełniającą do powierzchni uprawy chmielu niezwiązaną z produkcją”. ” , ust. 3 otrzymuje brzmienie: „
+
+- **c)**
+
+3. Wnioskodawcy przysługuje płatność do upraw roślin energetycznych na będące w jego posiadaniu grunty rolne wchodzące w skład gospodarstwa rolnego, jeżeli:
+
+- **1)** posiada działki rolne o łącznej powierzchni nie mniejszej niż określona w art. 2 ust. 1 akapit pierwszy rozporządzenia nr 1973/2004;
+- **2)** wszystkie grunty rolne są utrzymywane zgodnie z normami przez cały rok kalendarzowy, w którym został złożony wniosek o przyznanie tej płatności;
+- **3)** został mu nadany numer identyfikacyjny w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności;
+- **4)** są spełnione warunki określone w rozdziale 8 rozporządzenia nr 1973/2004, z tym że: umowa, o której mowa w art. 25 rozporządzenia nr 1973/2004, powinna być zawarta z podmiotem skupującym albo pierwszą jednostką przetwórczą, które zostały zatwierdzone w rozumieniu tego rozporządzenia, płatność przysługuje również w przypadkach, o których mowa w art. 33 ust. 1 rozporządzenia nr 1973/2004, w przypadku gdy dla danej rośliny energetycznej nie określono plonu reprezentatywnego, wnioskodawca powinien dostarczyć do zatwierdzonych podmiotów, o których mowa w lit. a, wykorzystać lub przetworzyć na cele energetyczne w gospodarstwie, o którym mowa w sekcji 7 rozporządzenia nr 1973/2004, całkowitą ilość zebranych roślin energetycznych. ” , po ust. 3 dodaje się ust. 3a-3c w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+3a. Wnioskującemu o płatność do owoców miękkich przysługuje pomoc, o której mowa w art. 110v ust. 1–3 rozporządzenia nr 1782/2003, zwana dalej „pomocą wspólnotową do owoców”, oraz pomoc krajowa, o której mowa w art. 110v ust. 4 tego rozporządzenia, zwana dalej „pomocą krajową do owoców”, na będące w jego posiadaniu grunty rolne wchodzące w skład gospodarstwa rolnego, kwalifikujące się do objęcia tymi płatnościami zgodnie z art. 110v ust. 2 rozporządzenia nr 1782/2003, jeżeli:
+
+- **1)** posiada działki rolne o łącznej powierzchni nie mniejszej niż określona w art. 2 ust. 1 akapit czwarty i ust. 2 akapit pierwszy rozporządzenia nr 1973/2004;
+- **2)** wszystkie grunty rolne są utrzymywane zgodnie z normami przez cały rok kalendarzowy, w którym został złożony wniosek o przyznanie tej płatności;
+- **3)** został mu nadany numer identyfikacyjny w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności;
+- **4)** zostały spełnione warunki określone w rozdziale 17d rozporządzenia nr 1973/2004.
+
+3b. Umowa o przetwórstwo albo zobowiązanie do realizacji dostawy, o których mowa w art. 171da rozporządzenia nr 1973/2004, oprócz danych, o których mowa w art. 171da ust. 2 lit. a i b tego rozporządzenia, zawiera również numer identyfikacyjny, o którym mowa w ust. 3a pkt 3.
+
+3c. Kopię umowy o przetwórstwo albo zobowiązania do realizacji dostawy, o których mowa w art. 171da rozporządzenia nr 1973/2004, wnioskujący o płatność do owoców miękkich składa kierownikowi biura powiatowego Agencji w terminie do dnia 31 maja roku, w którym został złożony wniosek o przyznanie płatności. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
+
+- **e)**
+
+4a. Stawka przejściowych płatności z tytułu owoców miękkich, o których mowa w art. 110v ust. 1–4 rozporządzenia nr 1782/2003, zwanych dalej „płatnościami do owoców miękkich”, składa się z sumy stawki pomocy wspólnotowej do owoców oraz uzupełniającej ją stawki pomocy krajowej do owoców. ” ;
+
+- **8)** art. 7a otrzymuje brzmienie: „
 
 **Art. 7a.**
 
@@ -182,6 +285,66 @@ source: "eli-html"
 
 **Art. 20a.** Rodzaje dowodów określone na podstawie art. 20 ust. 3 stosuje się odpowiednio do potwierdzania działania siły wyższej lub wystąpienia nadzwyczajnych okoliczności, ze względu na wystąpienie których może zostać wydana zgoda, o której mowa w art. 9 ust. 1. ” ;
 
+- **18)** w art. 21: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. W przypadku przekazania gospodarstwa rolnego, w rozumieniu art. 74 ust. 1 lit. a rozporządzenia nr 796/2004, jednolita płatność obszarowa lub płatność uzupełniająca, o które ubiega się przekazujący, są przyznawane przejmującemu jeżeli:
+
+- **1)** przekazanie zostało dokonane nie później niż do dnia 31 maja roku, w którym został złożony wniosek o przyznanie tych płatności;
+- **2)** przejmujący złoży wniosek do dnia 30 czerwca roku, w którym został złożony wniosek o przyznanie płatności. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
+    - **b)**
+
+5a. W przypadku przekazania gospodarstwa rolnego w rozumieniu art. 74 ust. 1 lit. a rozporządzenia nr 796/2004, które zostało dokonane po dniu 31 maja roku, w którym został złożony wniosek o przyznanie jednolitej płatności obszarowej lub płatności uzupełniającej, płatności te przysługują przekazującemu, jeżeli są spełnione warunki do ich przyznania. ” , dodaje się ust. 7 w brzmieniu: „
+
+- **c)**
+
+7. W przypadku przekazania gospodarstwa rolnego, w rozumieniu art. 74 ust. 1 lit. a rozporządzenia nr 796/2004, płatność do owoców miękkich przysługuje przekazującemu, jeżeli zostaną spełnione warunki do jej przyznania. ” ;
+
+- **19)** w art. 22: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. W przypadku śmierci rolnika, która nastąpiła od dnia złożenia wniosku o przyznanie jednolitej płatności obszarowej lub płatności uzupełniającej do dnia doręczenia decyzji w sprawie przyznania tych płatności, płatności te przysługują spadkobiercy, który:
+
+- **1)** objął w posiadanie grunty rolne, których dotyczył wniosek o przyznanie jednolitej płatności obszarowej lub płatności uzupełniającej, i które w dniu 31 maja roku, w którym został złożony ten wniosek, były w posiadaniu spadkodawcy albo spadkobiercy;
+- **2)** spełnia warunki do przyznania danej płatności, z tym że w przypadku płatności uzupełniającej do powierzchni uprawy chmielu niezwiązanej z produkcją i płatności uzupełniającej do powierzchni upraw roślin przeznaczonych na paszę uprawianych na trwałych użytkach zielonych, płatności te przysługują, jeżeli spadkobierca spełnia warunki do przyznania jednolitej płatności obszarowej i złożył wniosek o wstąpienie odpowiednio do postępowania w sprawie przyznania jednolitej płatności obszarowej lub płatności uzupełniającej. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **b)**
+
+1a. W przypadku śmierci rolnika, która nastąpiła od dnia złożenia wniosku o przyznanie płatności do upraw roślin energetycznych, płatności do owoców miękkich lub pomocy do rzepaku, do dnia doręczenia decyzji w sprawie ich przyznania, płatności te lub pomoc przysługują spadkobiercy, który:
+
+- **1)** objął w posiadanie grunty rolne, których dotyczył wniosek o przyznanie tych płatności lub pomocy;
+- **2)** spełnia warunki do przyznania danej płatności lub pomocy. ” , ust. 2 otrzymuje brzmienie: „
+    - **c)**
+
+2. W przypadku, o którym mowa w ust. 1 i 1a, spadkobierca wstępuje do toczącego się postępowania na miejsce spadkodawcy na wniosek złożony w terminie 7 miesięcy od dnia otwarcia spadku. ” , ust. 6–8 otrzymują brzmienie: „
+
+- **d)**
+
+6. Jeżeli z postanowienia sądu o stwierdzeniu nabycia spadku wynika, że uprawnionych do nabycia spadku jest więcej niż jeden spadkobierca, spadkobierca wstępujący do postępowania w sprawie przyznania płatności lub pomocy, o których mowa w ust. 1 i 1a, jest obowiązany do dołączenia do wniosku, o którym mowa w ust. 2, oświadczeń pozostałych spadkobierców, że wyrażają zgodę na wstąpienie tego spadkobiercy na miejsce spadkodawcy i przyznanie mu płatności lub pomocy.
+
+7. Wniosek, o którym mowa w ust. 2, spadkobierca składa do kierownika biura powiatowego Agencji, do którego został złożony wniosek o przyznanie płatności lub pomocy, o których mowa w ust. 1 i 1a, przez spadkodawcę.
+
+8. Decyzję w sprawie przyznania płatności lub pomocy, o których mowa w ust. 1 i 1a, wydaje się po złożeniu przez spadkobiercę prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku. ” ;
+
+- **20)** uchyla się art. 23;
+- **21)** w art. 24: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Rolnikowi, który spełnia warunki do przyznania jednolitej płatności obszarowej w danym roku i który złożył wniosek o przyznanie tej płatności oraz który zawarł: ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+1a. Płatność cukrowa przysługuje również w przypadku gdy buraki cukrowe były objęte umową dostawy zawartą:
+
+- **1)** z małżonkiem rolnika wnioskującego o płatność cukrową, także w przypadku gdy osoby te nie pozostawały w związku małżeńskim w dniu zawarcia tej umowy lub
+- **2)** ze spadkodawcą rolnika wnioskującego o płatność cukrową, lub
+- **3)** z przekazującym gospodarstwo rolne w związku z wypłacaną rentą strukturalną, emeryturą lub rentą rolniczą z ubezpieczenia społecznego rolników, jeżeli rolnik wnioskujący o płatność cukrową mógłby dziedziczyć przekazane gospodarstwo rolne z ustawy. ” , ust. 2 otrzymuje brzmienie: „
+    - **c)**
+
+2. Wysokość płatności cukrowej w danym roku kalendarzowym ustala się jako iloczyn ilości buraków cukrowych objętych umową dostawy, o której mowa w ust. 1 i 1a, przeznaczonych do wyprodukowania cukru kwotowego w rozumieniu art. 2 pkt 5 rozporządzenia nr 318/2006, i stawki tej płatności na 1 tonę buraków cukrowych. ” , ust. 6 otrzymuje brzmienie: „
+
+- **d)**
+
+6. Minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw finansów publicznych określa corocznie, w drodze rozporządzenia, stawkę płatności cukrowej, uwzględniając wysokość kwoty określonej na ten cel w rozporządzeniu nr 1782/2003 oraz kurs wymiany euro ustalony zgodnie z rozporządzeniem nr 1913/2006. ” ;
+
+- **22)** po art. 24 dodaje się art. 24a-24c w brzmieniu: „
+
 **Art. 24a.**
 
 1. Rolnikowi, który spełnia warunki do przyznania jednolitej płatności obszarowej w danym roku i który złożył wniosek o przyznanie tej płatności oraz który w roku gospodarczym 2006/2007 dostarczył pomidory do przetworzenia zgodnie ze świadectwem dostawy owoców i warzyw do przetwórstwa, określonym na podstawie przepisów o organizacji rynku przetworów owocowych i warzywnych, przysługuje płatność do pomidorów, zgodnie z art. 143bb ust. 1 rozporządzenia nr 1782/2003.
@@ -232,6 +395,25 @@ source: "eli-html"
 - **24)** art. 26 otrzymuje brzmienie: „
 
 **Art. 26.** W przypadku śmierci rolnika, który wystąpił z wnioskiem o przyznanie płatności cukrowej lub płatności do pomidorów, przed dniem doręczenia decyzji w sprawie przyznania tych płatności, płatność cukrową lub płatność do pomidorów przyznaje się z urzędu spadkobiercy, któremu przyznano jednolitą płatność obszarową. ” ;
+
+- **25)** w art. 27: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Jeżeli po doręczeniu decyzji w sprawie przyznania płatności obszarowych, płatności cukrowej, płatności do pomidorów lub pomocy do rzepaku rolnik, do którego decyzja została skierowana, zmarł, jego spadkobiercy przysługują prawa, które przysługiwałyby spadkodawcy jako stronie postępowania. ” , ust. 3–7 otrzymują brzmienie: „
+
+- **b)**
+
+3. W przypadku gdy w decyzji, o której mowa w ust. 1, została przyznana płatność obszarowa, płatność cukrowa, płatność do pomidorów lub pomoc do rzepaku, należność z tytułu tych płatności lub pomocy jest przedmiotem dziedziczenia.
+
+4. Spadkobierca rolnika, który nie kwestionuje należności określonej w decyzji, o której mowa w ust. 1, składa wniosek o wypłatę płatności obszarowych, płatności cukrowej, płatności do pomidorów lub pomocy do rzepaku do kierownika biura powiatowego Agencji, do którego został złożony wniosek o przyznanie tych płatności lub pomocy przez spadkodawcę, wraz z prawomocnym postanowieniem sądu o stwierdzeniu nabycia spadku w terminie 14 dni od dnia uprawomocnienia się tego postanowienia, jednak nie później niż w ciągu 6 miesięcy od dnia doręczenia spadkodawcy decyzji w sprawie przyznania płatności obszarowych, płatności cukrowej, płatności do pomidorów lub pomocy do rzepaku.
+
+5. Jeżeli z postanowienia sądu o stwierdzeniu nabycia spadku wynika, że uprawnionych do nabycia spadku jest więcej niż jeden spadkobierca, spadkobierca występujący z wnioskiem, o którym mowa w ust. 4, jest obowiązany dołączyć do wniosku oświadczenia pozostałych spadkobierców, że wyrażają zgodę na wypłatę mu płatności obszarowych, płatności cukrowej, płatności do pomidorów lub pomocy do rzepaku.
+
+6. W przypadku złożenia wniosku o wypłatę płatności obszarowych, płatności cukrowej, płatności do pomidorów lub pomocy do rzepaku kierownik biura powiatowego Agencji wydaje decyzję w sprawie wypłaty tych płatności lub pomocy.
+
+7. W przypadku niezłożenia wniosku, o którym mowa w ust. 6, albo w przypadku wydania decyzji o odmowie wypłaty płatności obszarowych, płatności cukrowej, płatności do pomidorów lub pomocy do rzepaku, decyzja, o której mowa w ust. 1, wygasa z mocy prawa. ” ;
+
+- **26)** po art. 29 dodaje się art. 29a-29d w brzmieniu: „
 
 **Art. 29a.**
 
@@ -375,6 +557,8 @@ source: "eli-html"
 
 **Art. 36.** Minister właściwy do spraw rozwoju wsi oraz minister właściwy do spraw rynków rolnych określą, w drodze zarządzenia, warunki i tryb współpracy pomiędzy Agencją a Agencją Rynku Rolnego w zakresie przyznawania płatności do upraw roślin energetycznych oraz pomocy do plantacji trwałych. ” ;
 
+- **34)** art. 37 otrzymuje brzmienie: „
+
 **Art. 37.**
 
 1. Agencja wypłaca płatności obszarowe, płatność cukrową i płatność do pomidorów w terminach określonych w art. 28 ust. 2 rozporządzenia nr 1782/2003.
@@ -407,11 +591,33 @@ source: "eli-html"
 
 **Art. 38.** W przypadku gdy kwota z tytułu płatności obszarowych, płatności cukrowej, płatności do pomidorów lub pomocy do rzepaku nie może zostać przekazana na rachunek bankowy rolnika z przyczyn niezależnych od Agencji, kierownik biura powiatowego Agencji stwierdza wygaśnięcie decyzji w sprawie przyznania tej płatności lub pomocy, jeżeli od dnia, w którym decyzja o ich przyznaniu stała się ostateczna, upłynęły co najmniej 2 lata. ” ;
 
+- **37)** art. 39 otrzymuje brzmienie: „
+
 **Art. 39.** W przypadku, o którym mowa w art. 155 Kodeksu postępowania administracyjnego, organ wyższego stopnia może zmienić decyzję ostateczną w sprawie przyznania płatności obszarowych, płatności cukrowej, płatności do pomidorów lub pomocy do rzepaku, na mocy której strona nabyła prawo, również bez zgody strony, jeżeli nie ograniczy to nabytych przez nią praw. ” ;
+
+- **38)** art. 40 otrzymuje brzmienie: „
 
 **Art. 40.** Prezes Agencji odstępuje od ustalania kwot nienależnie lub nadmiernie pobranych płatności obszarowych, płatności cukrowej lub płatności do pomidorów, o którym mowa w art. 11 ust. 4 ustawy z dnia 29 grudnia 1993 r. o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2005 r. Nr 31, poz. 264, z późn. zm.), w przypadku gdy kwota każdej z tych płatności nie jest wyższa od kwoty stanowiącej równowartość 50 euro przeliczonej na złote według kursu euro ustalonego zgodnie z art. 3 rozporządzenia nr 1913/2006. ” ;
 
+- **39)** po art. 40 dodaje się art. 40a w brzmieniu: „ Należności ustalone w decyzji w sprawie przyznania płatności obszarowych, płatności cukrowej i płatności do pomidorów nie mogą być przedmiotem umowy przeniesienia wierzytelności na osobę trzecią (przelewu), o której mowa w przepisach Kodeksu cywilnego. ” ;
+- **40)** art. 41 otrzymuje brzmienie: „
+
 **Art. 41.** W przypadku gdy przepisy rozporządzenia nr 1782/2003, w tym przepisy wydane przez Komisję Europejską działającą w trybie art. 144 ust. 2 tego rozporządzenia, określają obowiązek podjęcia działań lub umożliwiają realizację uprawnień przez państwo członkowskie Unii Europejskiej lub właściwy organ, lub agencję płatniczą, Rada Ministrów może, w drodze rozporządzenia:
+
+- **1)** wyznaczyć Agencję lub Agencję Rynku Rolnego jako jednostkę organizacyjną wykonującą określone obowiązki lub uprawnienia lub
+- **2)** określić zadania realizowane przez Agencję lub Agencję Rynku Rolnego, lub sposób i tryb ich realizacji, lub
+- **3)** określić szczegółowe warunki dotyczące przyznawania płatności określonych tymi przepisami mając na względzie realizację celów określonych w przepisach Unii Europejskiej w zakresie płatności określonych tymi przepisami. ” ;
+- **41)** w art. 42 ust. 1 otrzymuje brzmienie: „
+
+1. Prezes Agencji, na podstawie danych dotyczących powierzchni działek rolnych zadeklarowanych we wnioskach o przyznanie płatności obszarowych, oblicza średnią powierzchnię gruntów rolnych w gospodarstwie rolnym w poszczególnych województwach oraz średnią powierzchnię gruntów rolnych w gospodarstwie rolnym w kraju w danym roku. ” ;
+
+- **42)** w art. 43 ust. 1 i 2 otrzymują brzmienie: „
+
+1. Agencja sporządza i podaje do publicznej wiadomości wykaz rolników, którym przyznano płatności obszarowe, płatność cukrową lub płatność do pomidorów.
+
+2. Wykaz, o którym mowa w ust. 1, zawiera imię i nazwisko albo nazwę rolnika, jego miejsce zamieszkania albo siedzibę oraz kwoty poszczególnych płatności obszarowych, płatności cukrowej i płatności do pomidorów, przyznanych na podstawie wniosków złożonych w danym roku. ” ;
+
+- **43)** art. 45 otrzymuje brzmienie: „
 
 **Art. 45.**
 
@@ -491,6 +697,9 @@ source: "eli-html"
 
 **Art. 2.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. Nr 225, poz. 1635, z późn. zm.) w art. 2 w ust. 1 pkt 3 i 4 otrzymują brzmienie: „
 
+- **3)** dokonanie czynności urzędowej, wydanie zaświadczenia i zezwolenia przez Agencję Restrukturyzacji i Modernizacji Rolnictwa albo Agencję Rynku Rolnego w sprawach z zakresu wykonywania przez te agencje zadań w ramach realizacji Wspólnej Polityki Rolnej, w tym w sprawach płatności w ramach systemów wsparcia bezpośredniego określonych przepisami Unii Europejskiej, pomocy de minimis w sektorze rolnictwa lub rybołówstwa oraz innych zadań dotyczących organizacji rynków rolnych, z wyłączeniem zadań w zakresie administrowania obrotem z zagranicą towarami rolno-spożywczymi;
+- **4)** złożenie dokumentu stwierdzającego udzielenie pełnomocnictwa lub prokury albo jego odpisu, wypisu lub kopii w sprawach określonych w pkt 3; ” .
+
 **Art. 3.**
 
 1. Minister właściwy do spraw rolnictwa wydaje rozporządzenie, o którym mowa w art. 24b ust. 2 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, w którym określa wielkość zmniejszenia kwoty płatności cukrowej za 2006 r., w terminie 21 dni od dnia wejścia w życie niniejszej ustawy.
@@ -515,6 +724,10 @@ source: "eli-html"
 2. Postępowania w sprawach zatwierdzania przetwórców i wstępnie uznanych grup i organizacji producentów owoców i warzyw oraz zrzeszeń organizacji producentów owoców i warzyw, działających jako przetwórcy, oraz w sprawach przeprowadzania kontroli dotyczących zasadności zatwierdzenia i wypłacania pomocy finansowej w zakresie organizacji rynku przetworów owocowych i warzywnych, wszczęte i niezakończone decyzją ostateczną do dnia wejścia w życie niniejszej ustawy, umarza się.
 
 **Art. 6.** W 2008 r.:
+
+- **1)** wnioski o zatwierdzenie odbiorcy w rozumieniu art. 171d lit. d rozporządzenia Komisji (WE) nr 1973/2004 z dnia 29 października 2004 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1782/2003 w odniesieniu do systemów wsparcia przewidzianych w tytułach IV i IVa tego rozporządzenia oraz wykorzystania odłogowanych gruntów do produkcji surowców (Dz. Urz. UE L 345 z 20.11.2004, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 1973/2004”, oraz pierwszego przetwórcy w rozumieniu art. 171d lit. c tego rozporządzenia, składa się do dnia 1 kwietnia;
+- **2)** do dnia 31 maja minister właściwy do spraw rolnictwa ogłasza, w dzienniku urzędowym ministra właściwego do spraw rolnictwa, listę podmiotów, o których mowa w pkt 1, zatwierdzonych zgodnie z art. 16a ust. 1 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą;
+- **3)** kopię umowy o przetwórstwo albo zobowiązanie do realizacji dostawy, o których mowa w art. 7 ust. 3b ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, wnioskodawca w rozumieniu art. 171d lit. a rozporządzenia nr 1973/2004, składa kierownikowi biura powiatowego Agencji do dnia 31 lipca. W 2008 r. wniosek o przyznanie pomocy do rzepaku, o której mowa w art. 7a ust. 1 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, składa się na formularzu opracowanym i udostępnionym przez Agencję oraz dołącza do wniosku o przyznanie płatności do upraw roślin energetycznych, o którym mowa w art. 18 ust. 1 tej ustawy. Pomoc do plantacji trwałych, o której mowa w art. 29a ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, przyznaje się również do plantacji upraw trwałych założonych przed dniem wejścia w życie ustawy, jednak nie wcześniej niż w dniu 1 września 2007 r.
 
 **Art. 9.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 16 ust. 3, art. 23, art. 25 ust. 6 oraz art. 45 ust. 3 ustawy wymienionej w art. 1 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 16 ust. 3, art. 24c, art. 25 ust. 6 oraz art. 45 ust. 3 i art. 45a ust. 3 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 2 lata od dnia jej wejścia w życie. Ilekroć w odrębnych przepisach jest mowa o przepisach o płatnościach do gruntów rolnych i płatności cukrowej, należy przez to rozumieć przepisy o płatnościach w ramach systemów wsparcia bezpośredniego.
 

@@ -8,12 +8,10 @@ pos: 1309
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o komornikach sądowych i egzekucji
-
-*USTAWA z dnia 29 sierpnia 1997 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 14 czerwca 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o komornikach sądowych i egzekucji
 
 | Pole | Wartość |
 |---|---|
@@ -27,21 +25,64 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001309) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1309/text.pdf) |
 
-Art. 95–98. (pominięte)
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji Rozdział 1 – Przepisy ogólne Rozdział 2 – Powoływanie i odwoływanie komorników Rozdział 3 – Obowiązki i prawa komorników Rozdział 4 – Aplikanci i asesorzy komorniczy Rozdział 5 – Koszty działalności egzekucyjnej komornika i zasady prowadzenia kancelarii Rozdział 6 – Wydatki w toku egzekucji Rozdział 7 – Opłaty egzekucyjne Rozdział 8 – Dochód komorników Rozdział 9 – Nadzór nad komornikami Rozdział 10 – Odpowiedzialność dyscyplinarna Rozdział 11 – Samorząd komorniczy Rozdział 12 – Zmiany w przepisach obowiązujących Rozdział 13 – Przepisy przejściowe i końcowe
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji (Dz. U. z 2017 r. poz. 1277), z uwzględnieniem zmian wprowadzonych:
+1)
+wyrokiem Trybunału Konstytucyjnego z dnia 28 czerwca 2017 r. sygn. akt P 63/14 (Dz. U. poz. 1343),
+2)
+ustawą z dnia 12 lipca 2017 r. o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw (Dz. U. poz. 1452),
+3)
+ustawą z dnia 29 września 2017 r. o zmianie ustawy o komornikach sądowych i egzekucji (Dz. U. poz. 1910),
+4)
+ustawą z dnia 26 stycznia 2018 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw (Dz. U. poz. 398 i 650)
+oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 czerwca 2018 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+1)
+art. 27 ustawy z dnia 12 lipca 2017 r. o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw (Dz. U. poz. 1452), który stanowi:
+„
+Art. 95–98.
+(pominięte)
 
-#### Rozdział 1 Przepisy ogólne
+**Art. 27.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 13, który wchodzi w życie z dniem 1 października 2017 r. ” ;
 
-**Art. 1.** Komornik sądowy, zwany dalej „komornikiem”, jest funkcjonariuszem publicznym działającym przy sądzie rejonowym.
+- **2)** art. 2 i art. 3 ustawy z dnia 29 września 2017 r. o zmianie ustawy o komornikach sądowych i egzekucji (Dz. U. poz. 1910), które stanowią: „
 
 **Art. 2.**
 
-1. Czynności egzekucyjne w sprawach cywilnych wykonuje wyłącznie komornik, z zastrzeżeniem wyjątków przewidzianych w innych ustawach. Komornik wykonuje także inne czynności przekazane na podstawie odrębnych przepisów.
+1. Do postępowań egzekucyjnych wszczętych i niezakończonych do dnia wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-2. Komornik pełni czynności osobiście, z wyjątkiem przypadków określonych w przepisach prawa.
+2. Jeżeli przed dniem wejścia w życie niniejszej ustawy komornik sądowy wezwał wierzyciela do uiszczenia opłaty na podstawie art. 49a ust. 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, a do dnia wejścia w życie niniejszej ustawy termin ten nie upłynął albo upłynął bezskutecznie, komornik sądowy wzywa wierzyciela do uiszczenia opłaty tymczasowej na podstawie art. 49a ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-3. Komornikom powierza się w szczególności następujące zadania:
+3. Jeżeli wierzyciel uiścił opłatę w wysokości przewidzianej w przepisach dotychczasowych, komornik sądowy zwraca wierzycielowi różnicę między opłatą uiszczoną a opłatą tymczasową przewidzianą w art. 49a ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-- **1)** wykonywanie orzeczeń sądowych w sprawach o roszczenia pieniężne i niepieniężne oraz o zabezpieczenie roszczeń, w tym europejskich nakazów zabezpieczenia na rachunku bankowym; 2 wykonywanie innych tytułów wykonawczych wydanych na podstawie odrębnych przepisów oraz tytułów egzekucyjnych, które zgodnie z odrębnymi przepisami podlegają wykonaniu w drodze egzekucji sądowej bez zaopatrywania ich w klauzulę wykonalności;
+4. Jeżeli dobrowolne wykonanie obowiązku przez dłużnika w warunkach określonych w art. 49b ust. 3 ustawy zmienianej w art. 1, nastąpiło przed dniem wejścia w życie niniejszej ustawy, a do dnia 22 października 2015 r. nie doszło do wykonania prawomocnego postanowienia wydanego na podstawie art. 770 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm.a) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1860, 1948, 2138, 2199, 2260 i 2261 oraz z 2017 r. poz. 67, 85, 187, 768, 933, 1133, 1136, 1452, 1475, 1596, 1727 i 1883.) w części obejmującej uiszczoną przez wierzyciela opłatę stałą, o której mowa w art. 50, art. 51 i art. 54 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, komornik sądowy na wniosek wierzyciela lub dłużnika ustala opłatę na podstawie art. 49b ust. 3 ustawy zmienianej w art. 1.
+
+5. Wniosek, o którym mowa w ust. 4, można złożyć w terminie roku od dnia wejścia w życie niniejszej ustawy.
+
+6. W przypadku, o którym mowa w ust. 4, pobraną różnicę między opłatą stałą ustaloną na podstawie art. 50, art. 51 i art. 54 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, a opłatą ustaloną na podstawie art. 49b ust. 3 ustawy zmienianej w art. 1 komornik sądowy zwraca wierzycielowi w zakresie, w jakim nie otrzymał zwrotu jej równowartości od dłużnika, a pozostałą część – dłużnikowi.
+
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
+
+- **3)** odnośnika nr 1 oraz art. 55 ustawy z dnia 26 stycznia 2018 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw (Dz. U. poz. 398 i 650), które stanowią: „ 1) Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2017/1132 z dnia 14 czerwca 2017 r. w sprawie niektórych aspektów prawa spółek (Dz. Urz. UE L 169 z 30.06.2017, str. 46–127). ” „
+
+**Art. 55.** Ustawa wchodzi w życie z dniem 15 marca 2018 r., z wyjątkiem:
+
+- **1)** art. 7 pkt 2–4, art. 30, art. 44 oraz art. 54, które wchodzą w życie z dniem 9 kwietnia 2018 r.;
+- **2)** art. 1 pkt 13 w zakresie dodawanego art. 19e ust. 5, art. 1 pkt 14 lit. b w zakresie dodawanego ust. 1g, art. 8, art. 9, art. 10 pkt 1–5, art. 16, art. 17 pkt 2, art. 31, art. 50 oraz art. 51, które wchodzą w życie z dniem 1 października 2018 r.;
+- **3)** art. 1 pkt 16, 17, pkt 18 w zakresie dodawanego art. 21c, pkt 23, pkt 30 w zakresie uchylenia art. 55 i art. 57, art. 3 pkt 19, art. 4–6, art. 13, art. 18–20, art. 21 pkt 1, 4 i 6, art. 24, art. 25, art. 28, art. 29 pkt 1, art. 41 ust. 2 oraz art. 45, które wchodzą w życie z dniem 1 lutego 2019 r.;
+- **4)** art. 1 pkt 2, pkt 5 lit. a w zakresie zmienianego pkt 3, pkt 7, 9, 11 i pkt 13 w zakresie dodawanego art. 19d oraz art. 19e ust. 4, art. 3 pkt 12, pkt 13 lit. c i e, pkt 14 w zakresie dodawanego art. 6943a, pkt 15 lit. c i d, pkt 18, art. 7 pkt 1, art. 17 pkt 7 i 8, art. 40 oraz art. 43, które wchodzą w życie z dniem 1 marca 2020 r. ” . Załącznik – Tekst jednolity ustawy z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji
+    - **a)** Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1823, 1860, 1948, 2138, 2199, 2260 i 2261 oraz z 2017 r. poz. 67, 85, 187, 768, 933, 1133, 1136, 1452, 1475, 1596, 1727 i 1883.
+
+#### Rozdział 1 Przepisy ogólne
+
+**Art. 1.** Komornik sądowy, zwany dalej „komornikiem”, jest funkcjonariuszem publicznym działającym przy sądzie rejonowym. 1. Czynności egzekucyjne w sprawach cywilnych wykonuje wyłącznie komornik, z zastrzeżeniem wyjątków przewidzianych w innych ustawach. Komornik wykonuje także inne czynności przekazane na podstawie odrębnych przepisów. 2. Komornik pełni czynności osobiście, z wyjątkiem przypadków określonych w przepisach prawa. 3. Komornikom powierza się w szczególności następujące zadania:
+
+- **1)** wykonywanie orzeczeń sądowych w sprawach o roszczenia pieniężne i niepieniężne oraz o zabezpieczenie roszczeń, w tym europejskich nakazów zabezpieczenia na rachunku bankowym;
+- **2)** wykonywanie innych tytułów wykonawczych wydanych na podstawie odrębnych przepisów oraz tytułów egzekucyjnych, które zgodnie z odrębnymi przepisami podlegają wykonaniu w drodze egzekucji sądowej bez zaopatrywania ich w klauzulę wykonalności;
 - **3)** sporządzanie protokołu stanu faktycznego przed wszczęciem procesu sądowego lub przed wydaniem orzeczenia na zarządzenie sądu lub prokuratora.
 
 4. Komornik, poza zadaniami określonymi w ust. 3, ma prawo:
@@ -50,7 +91,7 @@ Art. 95–98. (pominięte)
 - **2)** na wniosek organizatora licytacji – sprawowania urzędowego nadzoru nad dobrowolnymi publicznymi licytacjami, z przybiciem najniższej lub najwyższej oferty;
 - **3)** weryfikowania istnienia i treści tytułów wykonawczych wydanych w postępowaniach elektronicznych.
 
-5. Organy administracji publicznej, urzędy skarbowe, organy rentowe, o których mowa w art. 476 § 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 155, z późn. zm. ), banki, spółdzielcze kasy oszczędnościowo-kredytowe, podmioty prowadzące działalność maklerską, organy spółdzielni mieszkaniowych, zarządy wspólnot mieszkaniowych, inne podmioty zarządzające mieszkaniami i lokalami użytkowymi, jak również inne instytucje są obowiązane na pisemne żądanie komornika udzielić mu informacji niezbędnych do prawidłowego prowadzenia postępowania egzekucyjnego, wykonania postanowienia o udzieleniu zabezpieczenia lub europejskiego nakazu zabezpieczenia na rachunku bankowym oraz wykonania innych czynności wchodzących w zakres jego ustawowych zadań, w szczególności dotyczących stanu majątkowego dłużnika oraz umożliwiających identyfikację składników jego majątku. Przepis art. 762 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego stosuje się odpowiednio.
+5. Organy administracji publicznej, urzędy skarbowe, organy rentowe, o których mowa w art. 476 § 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 155, z późn. zm.), banki, spółdzielcze kasy oszczędnościowo-kredytowe, podmioty prowadzące działalność maklerską, organy spółdzielni mieszkaniowych, zarządy wspólnot mieszkaniowych, inne podmioty zarządzające mieszkaniami i lokalami użytkowymi, jak również inne instytucje są obowiązane na pisemne żądanie komornika udzielić mu informacji niezbędnych do prawidłowego prowadzenia postępowania egzekucyjnego, wykonania postanowienia o udzieleniu zabezpieczenia lub europejskiego nakazu zabezpieczenia na rachunku bankowym oraz wykonania innych czynności wchodzących w zakres jego ustawowych zadań, w szczególności dotyczących stanu majątkowego dłużnika oraz umożliwiających identyfikację składników jego majątku. Przepis art. 762 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego stosuje się odpowiednio.
 
 6. Komornik ponosi odpowiedzialność za szkody wynikające z ujawnienia tajemnicy bankowej lub skarbowej i wykorzystania jej niezgodnie z przeznaczeniem.
 
@@ -59,8 +100,6 @@ Art. 95–98. (pominięte)
 8. Informacji, o których mowa w ust. 5, udziela się w terminie 7 dni od dnia otrzymania żądania w oparciu o dane przekazane przez komornika.
 
 9. Opłatę za udzielenie informacji komornik uiszcza po jej udzieleniu, na wezwanie podmiotu udzielającego informacji.
-
-**Art. 3.**
 
 1. Przy wykonywaniu czynności komornik podlega orzeczeniom sądu i prezesowi sądu rejonowego, przy którym działa.
 
@@ -73,9 +112,7 @@ Art. 95–98. (pominięte)
 
 3. W zakresie nadzoru, o którym mowa w ust. 2, prezes sądu rejonowego działa w szczególności poprzez kontrolę kancelarii komornika, przeprowadzaną w razie potrzeby, nie rzadziej jednak niż co cztery lata, sprawowaną osobiście lub przez wyznaczonego sędziego i przy pomocy księgowego, a w zakresie kontroli finansowej przez upoważnioną osobę, oraz w ramach rozpatrywania skarg i zażaleń niestanowiących przedmiotu rozpoznania sądu w trybie art. 767 Kodeksu postępowania cywilnego. Prezes sądu rejonowego uprawniony jest do żądania od komornika wyjaśnień oraz do wydawania zarządzeń, których nieprzestrzeganie może stanowić podstawę wszczęcia postępowania dyscyplinarnego lub odwołania komornika z zajmowanego stanowiska.
 
-4. Skargi i zażalenia niestanowiące przedmiotu rozpoznania sądu w trybie art. 767 Kodeksu postępowania cywilnego prezes sądu rejonowego rozpatruje w terminie 7 dni. W tym samym terminie podlegają przekazaniu właściwemu sądowi skargi stanowiące przedmiot rozpoznania sądu.
-
-**Art. 3a.** Komornik na własny rachunek wykonuje czynności, o których mowa w art. 2.
+4. Skargi i zażalenia niestanowiące przedmiotu rozpoznania sądu w trybie art. 767 Kodeksu postępowania cywilnego prezes sądu rejonowego rozpatruje w terminie 7 dni. W tym samym terminie podlegają przekazaniu właściwemu sądowi skargi stanowiące przedmiot rozpoznania sądu. Komornik na własny rachunek wykonuje czynności, o których mowa w art. 2.
 
 **Art. 4.**
 
@@ -202,9 +239,7 @@ Art. 95–98. (pominięte)
 
 5. W tym samym czasie zainteresowany może ubiegać się o powołanie tylko na jedno stanowisko komornika.
 
-6. Minister Sprawiedliwości pozostawia bez rozpoznania wnioski złożone po terminie, o którym mowa w ust. 3, wszystkie wnioski zainteresowanego w przypadku złożenia wniosków o powołanie na więcej niż jedno stanowisko komornika, a także wnioski, do których nie załączono dokumentów, o których mowa w art. 12.
-
-**Art. 11a.** (uchylony)
+6. Minister Sprawiedliwości pozostawia bez rozpoznania wnioski złożone po terminie, o którym mowa w ust. 3, wszystkie wnioski zainteresowanego w przypadku złożenia wniosków o powołanie na więcej niż jedno stanowisko komornika, a także wnioski, do których nie załączono dokumentów, o których mowa w art. 12. (uchylony)
 
 **Art. 12.**
 
@@ -212,11 +247,7 @@ Art. 95–98. (pominięte)
 
 1a. Oświadczenie, o którym mowa w ust. 1, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
 
-2. Do wniosku, o którym mowa w ust. 1, zainteresowany urodzony przed dniem 1 sierpnia 1972 r., dołącza również oświadczenie, o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2017 r. poz. 2186 oraz z 2018 r. poz. 538, 650, 651, 730 i
-
-- **1000)** albo informację, o której mowa w art. 7 ust. 3a tej ustawy.
-
-**Art. 12a.** Minister Sprawiedliwości zasięga z Krajowego Rejestru Karnego informacji o osobie zainteresowanej powołaniem na stanowisko komornika.
+2. Do wniosku, o którym mowa w ust. 1, zainteresowany urodzony przed dniem 1 sierpnia 1972 r., dołącza również oświadczenie, o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2017 r. poz. 2186 oraz z 2018 r. poz. 538, 650, 651, 730 i 1000) albo informację, o której mowa w art. 7 ust. 3a tej ustawy. Minister Sprawiedliwości zasięga z Krajowego Rejestru Karnego informacji o osobie zainteresowanej powołaniem na stanowisko komornika.
 
 **Art. 13.**
 
@@ -232,8 +263,6 @@ Art. 95–98. (pominięte)
 
 4. (uchylony)
 
-**Art. 13a.**
-
 1. Uzyskanie pozytywnego wyniku z egzaminu komorniczego uprawnia do złożenia wniosku o powołanie na stanowisko komornika w terminie 10 lat od dnia doręczenia uchwały o wyniku egzaminu komorniczego.
 
 2. Przepis ust. 1 nie dotyczy, osób które w okresie, o którym mowa w ust. 1, co najmniej 2 lata pracowały na stanowisku asesora komorniczego i złożą wniosek o powołanie na stanowisko komornika w terminie nie późniejszym niż 5 lat od dnia zakończenia pracy na stanowisku asesora komorniczego.
@@ -242,7 +271,7 @@ Art. 95–98. (pominięte)
 
 1. O zgłoszeniu przez komornika utworzenia lub objęcia kancelarii Minister Sprawiedliwości zawiadamia prezesa właściwego sądu apelacyjnego.
 
-2. W terminie 14 dni od dnia otrzymania zawiadomienia, o którym mowa w ust. 1, prezes sądu apelacyjnego odbiera od komornika ślubowanie według następującej roty: „Ślubuję uroczyście jako komornik powierzone mi obowiązki wypełniać zgodnie z prawem i sumieniem, dochować tajemnicy prawnie chronionej, w postępowaniu swym kierować się zasadami uczciwości, godności i honoru”.
+2. W terminie 14 dni od dnia otrzymania zawiadomienia, o którym mowa w ust. 1, prezes sądu apelacyjnego odbiera od komornika ślubowanie według następującej roty: „ Ślubuję uroczyście jako komornik powierzone mi obowiązki wypełniać zgodnie z prawem i sumieniem, dochować tajemnicy prawnie chronionej, w postępowaniu swym kierować się zasadami uczciwości, godności i honoru ” .
 
 2a. Prezes sądu apelacyjnego zawiadamia Ministra Sprawiedliwości, prezesa właściwego sądu okręgowego, prezesa właściwego sądu rejonowego oraz radę właściwej izby komorniczej o przyjęciu od komornika ślubowania, o którym mowa w ust. 2.
 
@@ -262,7 +291,7 @@ Art. 95–98. (pominięte)
 - **1)** wniósł o to sam komornik z powodu długotrwałej choroby lub z innych ważnych przyczyn;
 - **2)** przeciwko komornikowi jest prowadzone postępowanie o nieumyślne przestępstwo ścigane z oskarżenia publicznego lub nieumyślne przestępstwo skarbowe.
 
-2a. Na postanowienie Ministra Sprawiedliwości o zawieszeniu komornika w czynnościach przysługuje zażalenie do Sądu Okręgowego w Warszawie, w terminie 7 dni od dnia doręczenia postanowienia. Do rozpoznania zażalenia stosuje się właściwe przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2017 r. poz. 1904, z późn. zm. ).
+2a. Na postanowienie Ministra Sprawiedliwości o zawieszeniu komornika w czynnościach przysługuje zażalenie do Sądu Okręgowego w Warszawie, w terminie 7 dni od dnia doręczenia postanowienia. Do rozpoznania zażalenia stosuje się właściwe przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2017 r. poz. 1904, z późn. zm.).
 
 3. Zawieszenie komornika w czynnościach ustaje z dniem:
 
@@ -270,13 +299,12 @@ Art. 95–98. (pominięte)
 - **2)** oddalenia lub odrzucenia wniosku o ubezwłasnowolnienie lub umorzenie postępowania lub uchylenia postanowienia o ustanowieniu doradcy tymczasowego;
 - **3)** złożenia wniosku w tym przedmiocie przez komornika w sytuacji określonej w ust. 2 pkt 1.
 
-**Art. 15a.**
-
 1. Minister Sprawiedliwości odwołuje komornika z zajmowanego stanowiska, jeżeli komornik:
 
 - **1)** (uchylony)
 - **2)** z powodu choroby lub utraty sił uznany został przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych za całkowicie niezdolnego do pełnienia obowiązków komornika lub bez uzasadnionej przyczyny odmówił poddania się takiemu badaniu, mimo skierowania przez radę właściwej izby komorniczej lub prezesa właściwego sądu okręgowego;
-- **3)** (uchylony) 3a) ukończył 70 rok życia;
+- **3)** (uchylony)
+- **3a)** ukończył 70 rok życia;
 - **4)** (uchylony)
 - **5)** został ubezwłasnowolniony częściowo bądź całkowicie;
 - **6)** dopuścił się rażącego lub uporczywego naruszenia przepisów prawa – na wniosek prezesa właściwego sądu apelacyjnego lub prezesa właściwego sądu okręgowego;
@@ -299,20 +327,18 @@ Art. 95–98. (pominięte)
 
 3. Odwołanie komornika z zajmowanego stanowiska w przypadkach, o których mowa w ust. 1 pkt 2, 6, 7 i 9 oraz w ust. 2, następuje po uprzednim wysłuchaniu komornika, chyba że nie jest to możliwe, oraz po zasięgnięciu opinii rady właściwej izby komorniczej, która przedstawia opinię w terminie 21 dni od dnia otrzymania wniosku o wyrażenie opinii. Nienadesłanie opinii w tym terminie przez radę izby komorniczej nie wstrzymuje wydania decyzji w przedmiocie odwołania komornika.
 
-4. (uchylony) 4a. Komornik odwołany z przyczyny wymienionej w ust. 1 pkt 3a pełni swoje obowiązki do czasu wyznaczenia zastępcy komornika.
+4. (uchylony)
 
-**Art. 15b.**
+4a. Komornik odwołany z przyczyny wymienionej w ust. 1 pkt 3a pełni swoje obowiązki do czasu wyznaczenia zastępcy komornika.
 
 1. Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Komorniczej oraz prezesa właściwego sądu apelacyjnego, może przenieść komornika, za jego zgodą lub na jego wniosek, na stanowisko komornika w innym rewirze komorniczym, jeżeli przemawiają za tym potrzeby prawidłowego i sprawnego prowadzenia czynności, o których mowa w art. 2, lub uzasadniony interes komornika. Krajowa Rada Komornicza przedstawia opinię w terminie wyznaczonym, nie krótszym niż 14 dni. Nienadesłanie opinii w tym terminie nie wstrzymuje wydania decyzji w przedmiocie przeniesienia.
 
 2. Nie jest dopuszczalne przeniesienie komornika na stanowisko, co do którego Minister Sprawiedliwości skierował uprzednio do publikacji w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” obwieszczenie o wolnym stanowisku komornika, do czasu zakończenia postępowania o powołanie na to stanowisko.
 
-**Art. 15c.**
-
 1. W przypadku:
 
 - **1)** odwołania komornika z zajmowanego stanowiska z przyczyn, o których mowa w art. 15a ust. 1 pkt 5–7 i 9 oraz ust. 2, lub
-- **2)** wygaśnięcia powołania na stanowisko komornika z mocy prawa z przyczyn, o których mowa w art. 15a ust. 1a – osoba może zostać ponownie powołana na stanowisko komornika, jeżeli spełnia wymagania określone w art. 10 ust. 1 pkt 1–7, z uwzględnieniem art. 72 ust. 4.
+- **2)** wygaśnięcia powołania na stanowisko komornika z mocy prawa z przyczyn, o których mowa w art. 15a ust. 1a osoba może zostać ponownie powołana na stanowisko komornika, jeżeli spełnia wymagania określone w art. 10 ust. 1 pkt 1–7, z uwzględnieniem art. 72 ust. 4.
 
 2. Jeżeli osoba, o której mowa w ust. 1, co najmniej przez 10 lat nie wykonywała zawodu może zostać ponownie powołana na stanowisko komornika po złożeniu egzaminu komorniczego. Obowiązek złożenia egzaminu komorniczego nie dotyczy osób, o których mowa w art. 10 ust. 4.
 
@@ -332,54 +358,22 @@ Art. 95–98. (pominięte)
 
 6. Informacje zawarte w oświadczeniu o stanie majątkowym stanowią tajemnicę prawnie chronioną i podlegają ochronie przewidzianej dla informacji niejawnych o klauzuli tajności „zastrzeżone” określonej w przepisach o ochronie informacji niejawnych, chyba że komornik, który złożył oświadczenie, wyraził pisemną zgodę na ich ujawnienie. W szczególnie uzasadnionych przypadkach podmiot uprawniony, zgodnie z ust. 3 lub 4, do odebrania oświadczenia może je ujawnić pomimo braku zgody składającego oświadczenie. Oświadczenie przechowuje się przez 6 lat.
 
-7. Do złożenia oświadczenia, o którym mowa w ust. 2, stosuje się odpowiednio formularz, określony przepisami o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne.
+7. Do złożenia oświadczenia, o którym mowa w ust. 2, stosuje się odpowiednio formularz, określony przepisami o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne. W celu zbadania stanu zdrowia komornika prezes właściwego sądu okręgowego lub rada właściwej izby komorniczej może skierować komornika do Zakładu Ubezpieczeń Społecznych, z urzędu lub na jego wniosek.
 
-**Art. 16a.** W celu zbadania stanu zdrowia komornika prezes właściwego sądu okręgowego lub rada właściwej izby komorniczej może skierować komornika do Zakładu Ubezpieczeń Społecznych, z urzędu lub na jego wniosek.
+**Art. 17.** Komornik używa tytułu: „Komornik Sądowy przy Sądzie Rejonowym w.................... Kancelaria Komornicza w........................ „ z dokładnym określeniem imienia i nazwiska oraz adresu kancelarii. 1. Przy wykonywaniu czynności komornik jest obowiązany używać identyfikatora wydanego przez Krajową Radę Komorniczą zawierającego jego imię i nazwisko, zdjęcie, określenie pełnionej funkcji i oznaczenie sądu rejonowego, przy którym działa. 2. Przepis ust. 1 stosuje się odpowiednio do asesorów i aplikantów komorniczych. 3. Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Komorniczej, określi, w drodze rozporządzenia, wzór identyfikatora, o którym mowa w ust. 1, mając na względzie konieczność zachowania odpowiedniej przejrzystości i czytelności danych oraz konieczność zabezpieczenia przed podrobieniem. 1. Krajowa Rada Komornicza potwierdza dane do weryfikacji podpisu elektronicznego używanego przez komornika w postępowaniu egzekucyjnym. 2. Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Komorniczej, określi, w drodze rozporządzenia, szczegółowe czynności Krajowej Rady Komorniczej umożliwiające komornikom prowadzenie egzekucji na podstawie elektronicznego tytułu wykonawczego, szczegółowe czynności komornika w egzekucji prowadzonej na podstawie elektronicznego tytułu wykonawczego oraz sposób wykonywania czynności przy użyciu systemu teleinformatycznego obsługującego postępowanie egzekucyjne, mając na względzie bezpieczeństwo posługiwania się dokumentami w postaci elektronicznej, dostępność akt egzekucyjnych dla stron postępowania egzekucyjnego, sprawność postępowania egzekucyjnego oraz zapewnienie możliwości jednoznacznej identyfikacji dłużnika. 1. Pochodzący od komornika dokument uzyskany z systemu teleinformatycznego obsługującego postępowanie egzekucyjne ma moc dokumentu wydanego przez komornika, o ile ma cechy umożliwiające jego weryfikację w tym systemie. 2. Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób i cechy umożliwiające weryfikację istnienia i treści pisma w systemie teleinformatycznym obsługującym postępowanie egzekucyjne, mając na względzie minimalne wymagania dla systemów teleinformatycznych oraz potrzebę ochrony praw osób uczestniczących w postępowaniach egzekucyjnych. 1. Minister Sprawiedliwości może, w drodze decyzji, przyznać Skarbowi Państwa uprawnienia wynikające z autorskich praw majątkowych do programu komputerowego obsługującego komornicze systemy informatyczne, zwanego dalej „programem komputerowym”, w zakresie niezbędnym do wykonywania zadań komorników sądowych. 2. Decyzja, o której mowa w ust. 1, może zostać wydana, jeżeli zagrożona jest sprawność działania lub ciągłość funkcjonowania programu komputerowego lub systemu teleinformatycznego wykorzystującego program komputerowy, lub jeżeli zapewnienia ich sprawności działania lub ciągłości funkcjonowania wymaga ważny interes państwa lub dobro wymiaru sprawiedliwości, a porozumienie w tym zakresie z osobą, której przysługują autorskie prawa majątkowe do programu komputerowego, napotyka przeszkody. 3. W decyzji, o której mowa w ust. 1, określa się:
 
-**Art. 17.** Komornik używa tytułu: „Komornik Sądowy przy Sądzie Rejonowym w .................... Kancelaria Komornicza w ........................” z dokładnym określeniem imienia i nazwiska oraz adresu kancelarii.
-
-**Art. 17a.**
-
-1. Przy wykonywaniu czynności komornik jest obowiązany używać identyfikatora wydanego przez Krajową Radę Komorniczą zawierającego jego imię i nazwisko, zdjęcie, określenie pełnionej funkcji i oznaczenie sądu rejonowego, przy którym działa.
-
-2. Przepis ust. 1 stosuje się odpowiednio do asesorów i aplikantów komorniczych.
-
-3. Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Komorniczej, określi, w drodze rozporządzenia, wzór identyfikatora, o którym mowa w ust. 1, mając na względzie konieczność zachowania odpowiedniej przejrzystości i czytelności danych oraz konieczność zabezpieczenia przed podrobieniem.
-
-**Art. 17b.**
-
-1. Krajowa Rada Komornicza potwierdza dane do weryfikacji podpisu elektronicznego używanego przez komornika w postępowaniu egzekucyjnym.
-
-2. Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Komorniczej, określi, w drodze rozporządzenia, szczegółowe czynności Krajowej Rady Komorniczej umożliwiające komornikom prowadzenie egzekucji na podstawie elektronicznego tytułu wykonawczego, szczegółowe czynności komornika w egzekucji prowadzonej na podstawie elektronicznego tytułu wykonawczego oraz sposób wykonywania czynności przy użyciu systemu teleinformatycznego obsługującego postępowanie egzekucyjne, mając na względzie bezpieczeństwo posługiwania się dokumentami w postaci elektronicznej, dostępność akt egzekucyjnych dla stron postępowania egzekucyjnego, sprawność postępowania egzekucyjnego oraz zapewnienie możliwości jednoznacznej identyfikacji dłużnika.
-
-**Art. 17c.**
-
-1. Pochodzący od komornika dokument uzyskany z systemu teleinformatycznego obsługującego postępowanie egzekucyjne ma moc dokumentu wydanego przez komornika, o ile ma cechy umożliwiające jego weryfikację w tym systemie.
-
-2. Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób i cechy umożliwiające weryfikację istnienia i treści pisma w systemie teleinformatycznym obsługującym postępowanie egzekucyjne, mając na względzie minimalne wymagania dla systemów teleinformatycznych oraz potrzebę ochrony praw osób uczestniczących w postępowaniach egzekucyjnych.
-
-**Art. 17d.**
-
-1. Minister Sprawiedliwości może, w drodze decyzji, przyznać Skarbowi Państwa uprawnienia wynikające z autorskich praw majątkowych do programu komputerowego obsługującego komornicze systemy informatyczne, zwanego dalej „programem komputerowym”, w zakresie niezbędnym do wykonywania zadań komorników sądowych.
-
-2. Decyzja, o której mowa w ust. 1, może zostać wydana, jeżeli zagrożona jest sprawność działania lub ciągłość funkcjonowania programu komputerowego lub systemu teleinformatycznego wykorzystującego program komputerowy, lub jeżeli zapewnienia ich sprawności działania lub ciągłości funkcjonowania wymaga ważny interes państwa lub dobro wymiaru sprawiedliwości, a porozumienie w tym zakresie z osobą, której przysługują autorskie prawa majątkowe do programu komputerowego, napotyka przeszkody.
-
-3. W decyzji, o której mowa w ust. 1, określa się:
-
-- **1)** zakres uprawnień, które mogą obejmować:
-    - **a)** korzystanie z programu komputerowego,
-    - **b)** trwałe lub czasowe zwielokrotnienie programu komputerowego w całości lub części jakimikolwiek środkami i w jakiejkolwiek formie,
-    - **c)** tłumaczenie, przystosowywanie, zmiany układu programu komputerowego lub wprowadzanie w nim jakichkolwiek innych zmian,
-    - **d)** rozpowszechnianie, w tym użyczenie lub najem, programu komputerowego lub jego kopii,
-    - **e)** zwielokrotnianie kodu lub tłumaczenie jego formy;
+- **1)** zakres uprawnień, które mogą obejmować: korzystanie z programu komputerowego, trwałe lub czasowe zwielokrotnienie programu komputerowego w całości lub części jakimikolwiek środkami i w jakiejkolwiek formie, tłumaczenie, przystosowywanie, zmiany układu programu komputerowego lub wprowadzanie w nim jakichkolwiek innych zmian, rozpowszechnianie, w tym użyczenie lub najem, programu komputerowego lub jego kopii, zwielokrotnianie kodu lub tłumaczenie jego formy;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 - **2)** czas korzystania z uprawnień nie dłuższy niż 20 lat.
 
 4. W decyzji, o której mowa w ust. 1, Minister Sprawiedliwości może nałożyć na osobę, której przysługują autorskie prawa majątkowe do programu komputerowego, obowiązek wydania dokumentacji i kodów źródłowych tego programu, w tym bibliotek i instrukcji niezbędnych do osiągnięcia kodu wynikowego. W takim przypadku decyzja może określać format i formę przekazania dokumentacji i kodów źródłowych.
 
 5. Decyzji, o której mowa w ust. 1, może zostać nadany rygor natychmiastowej wykonalności.
-
-**Art. 17e.**
 
 1. Minister Sprawiedliwości określa, w drodze decyzji, po zasięgnięciu opinii biegłego, wysokość wynagrodzenia należnego osobie, której przysługują autorskie prawa majątkowe do programu komputerowego, stanowiącego ekwiwalent nabytych przez Skarb Państwa, na podstawie decyzji, o której mowa w art. 17d ust. 1, uprawnień wynikających z autorskich praw majątkowych do tego programu.
 
@@ -431,8 +425,6 @@ Art. 95–98. (pominięte)
 
 2. Minister właściwy do spraw instytucji finansowych, w porozumieniu z Ministrem Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Komorniczej oraz Polskiej Izby Ubezpieczeń, określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia obowiązkowego, o którym mowa w ust. 1, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc w szczególności pod uwagę specyfikę wykonywanego zawodu oraz zakres realizowanych zadań.
 
-**Art. 24a.**
-
 1. Prezes sądu rejonowego, przy którym działa komornik, kontroluje spełnienie obowiązku zawarcia umowy ubezpieczenia, o którym mowa w art. 24, w ramach kontroli, o której mowa w art. 3 ust. 3. Spełnienie tego obowiązku ustala się na podstawie okazanej przez komornika polisy lub innego dokumentu ubezpieczenia, potwierdzającego zawarcie umowy tego ubezpieczenia, wystawionego przez zakład ubezpieczeń.
 
 2. W razie stwierdzenia okoliczności, o których mowa w art. 15a ust. 1 pkt 9, prezes sądu rejonowego zawiadamia o tym prezesa właściwego sądu okręgowego.
@@ -449,15 +441,11 @@ Art. 95–98. (pominięte)
 
 4. Przepis ust. 1 stosuje się odpowiednio w przypadku śmierci albo odwołania komornika albo wygaśnięcia powołania na stanowisko komornika z mocy prawa.
 
-**Art. 27.**
-
 1. Zastępcę komornika wyznacza, w drodze zarządzenia, prezes właściwego sądu apelacyjnego na wniosek rady właściwej izby komorniczej. Wniosek powinien wskazywać przyczyny uzasadniające wyznaczenie zastępcy i osobę kandydata.
 
 2. Przed wyznaczeniem zastępcy prezes sądu apelacyjnego wysłuchuje komornika lub zwraca się o nadesłanie wyjaśnień pisemnych w wyznaczonym terminie, nie krótszym niż siedem dni, chyba że nie jest to możliwe.
 
 3. Z ważnych powodów prezes sądu apelacyjnego może, w drodze zarządzenia, po zasięgnięciu opinii rady właściwej izby komorniczej, dokonać zmiany zastępcy. Brak opinii rady w wyznaczonym terminie, nie krótszym niż siedem dni, nie stanowi przeszkody do wydania zarządzenia. Przepis ust. 2 stosuje się odpowiednio.
-
-**Art. 27a.**
 
 1. Do zastępcy komornika wyznaczonego w przypadku śmierci albo odwołania komornika albo wygaśnięcia powołania na stanowisko komornika z mocy prawa stosuje się odpowiednio przepisy art. 3a i art. 28.
 
@@ -469,11 +457,9 @@ Art. 95–98. (pominięte)
 
 4. W przypadku śmierci albo odwołania komornika albo wygaśnięcia powołania na stanowisko komornika z mocy prawa wyznaczony zastępca prowadzi postępowania w sprawach dotychczas niezakończonych przez zmarłego albo odwołanego komornika albo komornika, którego powołanie na stanowisko komornika wygasło z mocy prawa, do czasu powołania komornika na to stanowisko.
 
-5. Minister Sprawiedliwości po zasięgnięciu opinii Krajowej Rady Komorniczej określi, w drodze rozporządzenia, tryb postępowania przy likwidacji kancelarii komorniczych, mając na względzie konieczność nadania sprawnego biegu sprawom pozostałym do załatwienia po zmarłym albo odwołanym komorniku albo komorniku, którego powołanie na stanowisko komornika wygasło z mocy prawa.
+5. Minister Sprawiedliwości po zasięgnięciu opinii Krajowej Rady Komorniczej określi, w drodze rozporządzenia, tryb postępowania przy likwidacji kancelarii komorniczych, mając na względzie konieczność nadania sprawnego biegu sprawom pozostałym do załatwienia po zmarłym albo odwołanym komorniku albo komorniku, którego powołanie na stanowisko komornika wygasło z mocy prawa. Zastępca komornika, który przeprowadza likwidację kancelarii zmarłego albo odwołanego komornika albo komornika, którego powołanie na stanowisko komornika wygasło z mocy prawa, może rozwiązać umowę o pracę zawartą przez poprzednika z osobą zatrudnioną w tej kancelarii za jednomiesięcznym wypowiedzeniem. Przepis ten dotyczy także umów zawartych na czas określony.
 
-**Art. 27b.** Zastępca komornika, który przeprowadza likwidację kancelarii zmarłego albo odwołanego komornika albo komornika, którego powołanie na stanowisko komornika wygasło z mocy prawa, może rozwiązać umowę o pracę zawartą przez poprzednika z osobą zatrudnioną w tej kancelarii za jednomiesięcznym wypowiedzeniem. Przepis ten dotyczy także umów zawartych na czas określony.
-
-**Art. 28.** Do komornika stosuje się przepisy o podatku dochodowym od osób fizycznych, o ubezpieczeniach społecznych oraz o powszechnym ubezpieczeniu zdrowotnym , dotyczące osób prowadzących pozarolniczą działalność gospodarczą.
+**Art. 28.** Do komornika stosuje się przepisy o podatku dochodowym od osób fizycznych, o ubezpieczeniach społecznych oraz o powszechnym ubezpieczeniu zdrowotnym, dotyczące osób prowadzących pozarolniczą działalność gospodarczą.
 
 #### Rozdział 4 Aplikanci i asesorzy komorniczy
 
@@ -502,8 +488,6 @@ Art. 95–98. (pominięte)
 
 10. Do oświadczenia, o którym mowa w ust. 9, stosuje się odpowiednio przepis art. 12 ust. 1a.
 
-**Art. 29a.**
-
 1. Minister Sprawiedliwości powołuje co 2 lata komisje do spraw przeprowadzenia egzaminów konkursowego i komorniczego, obejmujące obszar właściwości jednej lub kilku izb komorniczych, zwane dalej „komisjami egzaminacyjnymi”.
 
 2. Siedziba komisji egzaminacyjnej mieści się w siedzibie rady właściwej izby komorniczej.
@@ -512,7 +496,7 @@ Art. 95–98. (pominięte)
 
 - **1)** czterej sędziowie sądu okręgowego lub apelacyjnego;
 - **2)** dwaj przedstawiciele delegowani przez Krajową Radę Komorniczą;
-- **3)** jeden pracownik badawczy, badawczo-dydaktyczny lub dydaktyczny prowadzący działalność naukową lub kształcenie w zakresie nauk prawnych w szkole wyższej w Rzeczypospolitej Polskiej lub pracownik naukowy w instytucie naukowym Polskiej Akademii Nauk, posiadający co najmniej stopień naukowy doktora habilitowanego z zakresu nauk prawnych.
+- **3)** jeden pracownik naukowy, naukowo-dydaktyczny lub dydaktyczny na wydziale prawa w szkole wyższej w Rzeczypospolitej Polskiej lub w Polskiej Akademii Nauk, posiadający co najmniej stopień naukowy doktora habilitowanego nauk prawnych.
 
 4. Powołując komisje egzaminacyjne, Minister Sprawiedliwości wyznacza jednocześnie ich przewodniczących.
 
@@ -521,8 +505,6 @@ Art. 95–98. (pominięte)
 6. Właściwe izby komornicze zapewniają, jako zadanie zlecone z zakresu administracji rządowej, obsługę administracyjną i techniczną działalności komisji egzaminacyjnych.
 
 7. Przewodniczącemu i członkom komisji egzaminacyjnej za udział w jej pracach przysługuje wynagrodzenie oraz zwrot kosztów podróży i noclegów na zasadach określonych w przepisach dotyczących należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju.
-
-**Art. 29b.**
 
 1. Minister Sprawiedliwości powołuje co 2 lata zespół do przygotowywania pytań testowych i zadań na egzaminy konkursowy i komorniczy, zwany dalej „zespołem egzaminacyjnym”. Zespół egzaminacyjny składa się z pięciu osób, w tym dwie z nich są powoływane spośród osób wskazanych przez Krajową Radę Komorniczą.
 
@@ -550,15 +532,11 @@ Art. 95–98. (pominięte)
 
 13. Minister Sprawiedliwości określi, w drodze rozporządzenia, tryb i sposób udzielenia zamówienia, o którym mowa w ust. 12, mając na uwadze konieczność zachowania zasad uczciwej konkurencji oraz równego traktowania wykonawców i zabezpieczenia pytań testowych i zadań wraz z opisami istotnych zagadnień przed ich nieuprawnionym ujawnieniem.
 
-**Art. 29c.**
-
 1. Egzamin konkursowy przeprowadzają komisje egzaminacyjne raz w roku, w terminie wyznaczonym przez Ministra Sprawiedliwości równocześnie we wszystkich izbach komorniczych.
 
 2. Egzamin konkursowy polega na sprawdzeniu wiedzy kandydata na aplikanta komorniczego, zwanego dalej „kandydatem”, z zakresu prawa konstytucyjnego, prawa cywilnego, postępowania cywilnego, prawa gospodarczego, prawa spółek handlowych, prawa pracy, prawa rodzinnego i opiekuńczego, prawa administracyjnego, postępowania administracyjnego, prawa finansowego, prawa europejskiego, prawa prywatnego międzynarodowego, ustroju sądów i samorządu komorniczego.
 
 3. W razie zaistnienia zdarzenia losowego, uniemożliwiającego przeprowadzenie egzaminu konkursowego w terminie, o którym mowa w ust. 1, Minister Sprawiedliwości wyznacza dodatkowy termin przeprowadzenia egzaminu konkursowego.
-
-**Art. 29d.**
 
 1. Minister Sprawiedliwości zamieszcza w Biuletynie Informacji Publicznej w terminie do dnia 30 czerwca każdego roku ogłoszenie o egzaminie konkursowym, w którym wskazuje:
 
@@ -573,13 +551,9 @@ Art. 95–98. (pominięte)
 
 4. O dopuszczeniu do egzaminu konkursowego oraz o czasie i miejscu jego przeprowadzenia przewodniczący komisji egzaminacyjnej zawiadamia kandydata przesyłką poleconą za potwierdzeniem odbioru co najmniej na 14 dni przed dniem rozpoczęcia egzaminu konkursowego.
 
-**Art. 29e.**
-
 1. Opłata za udział w egzaminie konkursowym stanowi dochód budżetu państwa. Kandydat uiszcza tę opłatę na rachunek bankowy Ministerstwa Sprawiedliwości.
 
 2. Opłata, o której mowa w ust. 1, wynosi połowę równowartości minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2017 r. poz. 847 oraz z 2018 r. poz. 650), zwanego dalej „minimalnym wynagrodzeniem”.
-
-**Art. 29f.**
 
 1. Z prac komisji egzaminacyjnej, na czas przeprowadzania egzaminu konkursowego podlega wyłączeniu członek, jeżeli kandydat zakwalifikowany do egzaminu konkursowego jest:
 
@@ -594,15 +568,11 @@ Art. 95–98. (pominięte)
 
 4. Podanie nieprawdy lub zatajenie prawdy w oświadczeniu, o którym mowa w ust. 3, powoduje odpowiedzialność na podstawie przepisu art. 233 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2017 r. poz. 2204 oraz z 2018 r. poz. 20, 305 i 663).
 
-**Art. 29g.**
-
 1. Egzamin konkursowy odbywa się w obecności co najmniej trzech członków komisji egzaminacyjnej.
 
 2. Niestawiennictwo kandydata na egzamin konkursowy, bez względu na przyczynę jego nieobecności, traktowane jest jako odstąpienie od egzaminu konkursowego.
 
 3. Kandydaci podczas egzaminu konkursowego nie mogą korzystać z tekstów aktów prawnych, komentarzy, orzecznictwa oraz innych pomocy, a także nie mogą posiadać przy sobie urządzeń służących do przekazu lub odbioru informacji.
-
-**Art. 29h.**
 
 1. Egzamin konkursowy polega na rozwiązaniu testu składającego się z zestawu 150 pytań, zawierających po 3 propozycje odpowiedzi, z których tylko jedna jest prawidłowa. Kandydat może wybrać tylko jedną odpowiedź. Za każdą prawidłową odpowiedź kandydat uzyskuje 1 punkt.
 
@@ -614,15 +584,11 @@ Art. 95–98. (pominięte)
 
 5. W terminie 7 dni od daty sporządzenia protokołu odpisy protokołu przewodniczący komisji egzaminacyjnej doręcza Ministrowi Sprawiedliwości oraz przewodniczącemu rady właściwej izby komorniczej.
 
-**Art. 29i.**
-
 1. Niezwłocznie po przeprowadzeniu egzaminu konkursowego i sprawdzeniu wyników testu komisja egzaminacyjna, w drodze uchwały, ustala wyniki egzaminu konkursowego. Odpisy uchwały przewodniczący komisji egzaminacyjnej doręcza kandydatom, radzie właściwej izby komorniczej oraz Ministrowi Sprawiedliwości.
 
 2. Od uchwały, o której mowa w ust. 1, kandydatowi przysługuje, w części dotyczącej uzyskanego przez niego wyniku, odwołanie do Ministra Sprawiedliwości w terminie 14 dni od dnia jej doręczenia.
 
 3. O wynikach egzaminu konkursowego Minister Sprawiedliwości zawiadamia Krajową Radę Komorniczą oraz publikuje w Biuletynie Informacji Publicznej listę osób, które uzyskały wynik pozytywny.
-
-**Art. 29j.**
 
 1. Uchwałę w przedmiocie wpisu na listę aplikantów komorniczych rada izby komorniczej podejmuje w terminie 30 dni od dnia złożenia przez zainteresowanego wniosku o dokonanie wpisu.
 
@@ -633,11 +599,10 @@ Art. 95–98. (pominięte)
 - **1)** od ostatecznej decyzji odmawiającej dokonania wpisu na listę aplikantów komorniczych;
 - **2)** (uchylony)
 - **3)** w przypadku niepodjęcia przez radę izby komorniczej uchwały w przedmiocie wpisu na listę aplikantów komorniczych w terminie określonym w ust. 1;
-- **4)** w razie nierozpoznania przez Krajową Radę Komorniczą odwołania od uchwały rady izby komorniczej odmawiającej dokonania wpisu na listę aplikantów komorniczych w terminie określonym w ust. 2.
-
-**Art. 29k.** Do obowiązków aplikanta należy, w szczególności:
-
-**Art. 29l.**
+- **4)** w razie nierozpoznania przez Krajową Radę Komorniczą odwołania od uchwały rady izby komorniczej odmawiającej dokonania wpisu na listę aplikantów komorniczych w terminie określonym w ust. 2. Do obowiązków aplikanta należy, w szczególności:
+- **1)** uczestniczenie w przewidzianych programem aplikacji zajęciach seminaryjnych oraz w praktykach;
+- **2)** samodzielne pogłębianie wiedzy prawniczej i praktycznych umiejętności niezbędnych do zajmowania stanowiska komornika;
+- **3)** przystępowanie, w wyznaczonym terminie, do sprawdzianów wiedzy oraz kolokwium, przeprowadzanych w czasie aplikacji, a także do egzaminu komorniczego.
 
 1. Aplikacja komornicza jest odpłatna.
 
@@ -654,8 +619,6 @@ Art. 95–98. (pominięte)
 1. Aplikacja komornicza trwa 2 lata i ma na celu zapoznanie aplikanta komorniczego z całokształtem pracy komornika.
 
 2. Aplikant komorniczy po upływie roku od dnia rozpoczęcia aplikacji komorniczej może być upoważniony przez komornika do samodzielnego wykonywania określonych czynności egzekucyjnych, do których upoważniony jest asesor komorniczy. Upoważnienie to wymaga formy pisemnej i powinno być okazane stronie na jej żądanie przed przystąpieniem do czynności.
-
-**Art. 30a.**
 
 1. Rada izby komorniczej zawiesza w czynnościach aplikanta komorniczego, jeżeli:
 
@@ -674,8 +637,6 @@ Art. 95–98. (pominięte)
 - **1)** prawomocnego zakończenia postępowania, o którym mowa w ust. 1 pkt 1, chyba że organ, który zawiesił aplikanta komorniczego w czynnościach, uchyli je wcześniej;
 - **2)** oddalenia lub odrzucenia wniosku o ubezwłasnowolnienie lub umorzenie postępowania lub uchylenia postanowienia o ustanowieniu doradcy tymczasowego;
 - **3)** złożenia wniosku w tym przedmiocie przez aplikanta komorniczego w przypadku zawieszenia w czynnościach na podstawie ust. 2 pkt 1.
-
-**Art. 30b.**
 
 1. Rada izby komorniczej skreśla aplikanta komorniczego z listy aplikantów komorniczych, jeżeli aplikant komorniczy:
 
@@ -705,8 +666,6 @@ Art. 95–98. (pominięte)
 
 6. Do członków komisji egzaminacyjnej w zakresie udziału w przeprowadzeniu egzaminu komorniczego stosuje się odpowiednio przepisy art. 29f.
 
-**Art. 31a.**
-
 1. Minister Sprawiedliwości zamieszcza w Biuletynie Informacji Publicznej nie później niż na 90 dni przed terminem egzaminu komorniczego ogłoszenie o egzaminie komorniczym, w którym podaje w szczególności:
 
 - **1)** termin przeprowadzenia egzaminu komorniczego;
@@ -718,13 +677,9 @@ Art. 95–98. (pominięte)
 
 3. Rada izby komorniczej przekazuje każdego roku właściwej terytorialnie komisji egzaminacyjnej, w terminie 7 dni od dnia zakończenia aplikacji, listę osób, które ukończyły aplikację komorniczą.
 
-**Art. 31b.**
-
 1. Opłata egzaminacyjna za udział w egzaminie komorniczym stanowi dochód budżetu państwa. Zdający uiszcza ją na rachunek bankowy Ministerstwa Sprawiedliwości.
 
 2. Opłata, o której mowa w ust. 1, wynosi połowę równowartości minimalnego wynagrodzenia.
-
-**Art. 31c.**
 
 1. (uchylony)
 
@@ -732,15 +687,13 @@ Art. 95–98. (pominięte)
 
 3. Egzamin komorniczy odbywa się w obecności co najmniej trzech członków komisji egzaminacyjnej.
 
-**Art. 31d.**
-
 1. Egzaminatorzy dokonują oceny każdego z zadań z egzaminu komorniczego z zastosowaniem następującej skali ocen:
 
-- **1)** oceny pozytywne:
-    - **a)** celująca (6),
-    - **b)** bardzo dobra (5),
-    - **c)** dobra (4),
-    - **d)** dostateczna (3);
+- **1)** oceny pozytywne: celująca (6), bardzo dobra (5), dobra (4), dostateczna (3);
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **2)** ocena negatywna – niedostateczna (2).
 
@@ -750,27 +703,19 @@ Art. 95–98. (pominięte)
 
 4. Ostateczną ocenę każdego z zadań pisemnych egzaminu komorniczego stanowi średnia ocen cząstkowych przyznanych przez każdego członka komisji egzaminacyjnej, przy czym:
 
-- **1)** oceny pozytywne to:
-    - **a)** celująca – jeżeli średnia arytmetyczna wystawionych ocen wynosi 6,00,
-    - **b)** bardzo dobra – jeżeli średnia arytmetyczna wystawionych ocen wynosi 5,00 lub 5,50,
-    - **c)** dobra – jeżeli średnia arytmetyczna wystawionych ocen wynosi 4,00 lub 4,50,
-    - **d)** dostateczna – jeżeli średnia arytmetyczna wystawionych ocen wynosi 3,00 lub 3,50;
+- **1)** oceny pozytywne to: celująca – jeżeli średnia arytmetyczna wystawionych ocen wynosi 6,00, bardzo dobra – jeżeli średnia arytmetyczna wystawionych ocen wynosi 5,00 lub 5,50, dobra – jeżeli średnia arytmetyczna wystawionych ocen wynosi 4,00 lub 4,50, dostateczna – jeżeli średnia arytmetyczna wystawionych ocen wynosi 3,00 lub 3,50;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **2)** ocena negatywna – niedostateczna – jeżeli średnia arytmetyczna wystawionych ocen wynosi 2,00 lub 2,50.
 
-5. Pozytywny wynik egzaminu komorniczego uzyskuje zdający, który z każdego z zadań pisemnych z egzaminu komorniczego otrzymał ocenę pozytywną.
-
-**Art. 31e.** (uchylony)
-
-**Art. 31f.** (uchylony)
-
-**Art. 31g.**
+5. Pozytywny wynik egzaminu komorniczego uzyskuje zdający, który z każdego z zadań pisemnych z egzaminu komorniczego otrzymał ocenę pozytywną. (uchylony) (uchylony)
 
 1. Z przebiegu egzaminu komorniczego niezwłocznie sporządza się protokół. Protokół podpisują tylko ci członkowie komisji egzaminacyjnej, którzy brali udział w przeprowadzeniu egzaminu.
 
 2. W terminie 7 dni od dnia sporządzenia protokołu przewodniczący komisji egzaminacyjnej doręcza odpisy protokołu Ministrowi Sprawiedliwości oraz Krajowej Radzie Komorniczej.
-
-**Art. 31h.**
 
 1. Komisja egzaminacyjna podejmuje uchwałę o wyniku egzaminu komorniczego. Odpisy uchwały przewodniczący komisji egzaminacyjnej doręcza zdającym, Krajowej Radzie Komorniczej oraz Ministrowi Sprawiedliwości.
 
@@ -802,25 +747,16 @@ Art. 95–98. (pominięte)
 - **3)** niewykonywania lub nienależytego wykonywania obowiązków, z tym że odwołanie członka komisji odwoławczej, o którym mowa w ust. 7 pkt 2, następuje za zgodą Krajowej Rady Komorniczej;
 - **4)** skazania prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego.
 
-12. Minister Sprawiedliwości może odwołać członka komisji odwoławczej, jeżeli przeciwko tej osobie jest prowadzone postępowanie o nieumyślne przestępstwo ścigane z oskarżenia publicznego, mając na uwadze charakter i wagę zarzucanego jej czynu oraz to, czy ma on związek z wykonywaniem zadań członka komisji odwoławczej i rzutuje na jakość i sposób wykonywania tej funkcji.
+12. Minister Sprawiedliwości może odwołać członka komisji odwoławczej, jeżeli przeciwko tej osobie jest prowadzone postępowanie o nieumyślne przestępstwo ścigane z oskarżenia publicznego, mając na uwadze charakter i wagę zarzucanego jej czynu oraz to, czy ma on związek z wykonywaniem zadań członka komisji odwoławczej i rzutuje na jakość i sposób wykonywania tej funkcji. 13. W przypadku wygaśnięcia członkostwa w komisji odwoławczej lub odwołania członka z komisji odwoławczej Minister Sprawiedliwości niezwłocznie powołuje nowego członka komisji odwoławczej. W przypadku członka, o którym mowa w ust. 7 pkt 2, Krajowa Rada Komornicza w terminie określonym przez Ministra Sprawiedliwości wskazuje nowego kandydata na członka komisji odwoławczej. 14. Członek komisji odwoławczej podlega wyłączeniu od udziału w postępowaniu w sprawie z przyczyn wskazanych w art. 29f ust. 1. Przepis art. 29f ust. 2 stosuje się odpowiednio. 15. Członkowie komisji odwoławczej przed przystąpieniem do rozpatrywania sprawy składają pisemne oświadczenia, że nie pozostają z osobą, której dotyczy sprawa, w stosunku, o którym mowa w art. 29f ust. 1. 16. Do zadań komisji odwoławczej należy rozpatrywanie odwołań od uchwał o wynikach egzaminu komorniczego. 17. Uchwały komisji odwoławczej są podejmowane większością 2/3 głosów w obecności co najmniej połowy członków komisji odwoławczej. 18. Od uchwały komisji odwoławczej służy skarga do sądu administracyjnego. 19. Do postępowania przed komisją odwoławczą stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257 oraz z 2018 r. poz. 149 i 650). 20. Obsługę administracyjno-biurową komisji odwoławczej zapewnia Minister Sprawiedliwości. W ramach obsługi administracyjno-biurowej komisji odwoławczej, Minister Sprawiedliwości uzgadnia z jej przewodniczącym terminarz pracy komisji odwoławczej i zapewnia komisji odwoławczej miejsce i odpowiednie warunki pracy. Wydatki związane z działalnością komisji odwoławczej oraz wynagrodzenie przewodniczącego i członków komisji odwoławczej są pokrywane z części budżetu państwa, która pozostaje w dyspozycji Ministra Sprawiedliwości. Minister Sprawiedliwości określi, w drodze rozporządzenia, po zasięgnięciu opinii Krajowej Rady Komorniczej:
 
-13. W przypadku wygaśnięcia członkostwa w komisji odwoławczej lub odwołania członka z komisji odwoławczej Minister Sprawiedliwości niezwłocznie powołuje nowego członka komisji odwoławczej. W przypadku członka, o którym mowa w ust. 7 pkt 2, Krajowa Rada Komornicza w terminie określonym przez Ministra Sprawiedliwości wskazuje nowego kandydata na członka komisji odwoławczej.
-
-14. Członek komisji odwoławczej podlega wyłączeniu od udziału w postępowaniu w sprawie z przyczyn wskazanych w art. 29f ust. 1. Przepis art. 29f ust. 2 stosuje się odpowiednio.
-
-15. Członkowie komisji odwoławczej przed przystąpieniem do rozpatrywania sprawy składają pisemne oświadczenia, że nie pozostają z osobą, której dotyczy sprawa, w stosunku, o którym mowa w art. 29f ust. 1.
-
-16. Do zadań komisji odwoławczej należy rozpatrywanie odwołań od uchwał o wynikach egzaminu komorniczego.
-
-17. Uchwały komisji odwoławczej są podejmowane większością 2/3 głosów w obecności co najmniej połowy członków komisji odwoławczej.
-
-18. Od uchwały komisji odwoławczej służy skarga do sądu administracyjnego.
-
-19. Do postępowania przed komisją odwoławczą stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257 oraz z 2018 r. poz. 149 i 650).
-
-20. Obsługę administracyjno-biurową komisji odwoławczej zapewnia Minister Sprawiedliwości. W ramach obsługi administracyjno-biurowej komisji odwoławczej, Minister Sprawiedliwości uzgadnia z jej przewodniczącym terminarz pracy komisji odwoławczej i zapewnia komisji odwoławczej miejsce i odpowiednie warunki pracy. Wydatki związane z działalnością komisji odwoławczej oraz wynagrodzenie przewodniczącego i członków komisji odwoławczej są pokrywane z części budżetu państwa, która pozostaje w dyspozycji Ministra Sprawiedliwości.
-
-**Art. 31i.** Minister Sprawiedliwości określi, w drodze rozporządzenia, po zasięgnięciu opinii Krajowej Rady Komorniczej:
+- **1)** wzór zgłoszenia i wniosku, mając na względzie konieczność wykazania ustawowych wymagań niezbędnych do przystąpienia do egzaminów konkursowego i komorniczego;
+- **2)** tryb i sposób powoływania i działania komisji egzaminacyjnych oraz przeprowadzania egzaminów konkursowego i komorniczego, mając na względzie konieczność zapewnienia odpowiedniej sprawności działania komisji egzaminacyjnych oraz zapewnienia bezstronności i jednolitego poziomu oceny wiedzy kandydatów oraz zdających;
+- **3)** tryb i sposób działania zespołu egzaminacyjnego, tryb i sposób ustalenia wykazu tytułów aktów prawnych, o którym mowa w art. 29b ust. 10, tryb i sposób zgłaszania propozycji pytań testowych i prawidłowych odpowiedzi na egzamin konkursowy oraz propozycji zadań wraz z opisami istotnych zagadnień na egzamin komorniczy, sposób zapewnienia zgodności wykazu prawidłowych odpowiedzi z obowiązującym stanem prawnym, mając na względzie potrzebę obiektywnego sprawdzenia poziomu wiedzy osób egzaminowanych oraz konieczność zabezpieczenia pytań i zadań przed nieuprawnionym wglądem;
+- **4)** organizację i przebieg aplikacji komorniczej, mając na względzie konieczność zapewnienia odpowiednio wysokiego poziomu szkolenia aplikantów oraz właściwego przygotowania do zawodu komornika;
+- **5)** wysokość wynagrodzenia przewodniczącego i członków komisji egzaminacyjnej, mając na uwadze nakład ich pracy i zakres obowiązków, z tym, że: – wynagrodzenie przewodniczącego komisji egzaminacyjnej za przeprowadzenie egzaminu konkursowego nie może przekroczyć 400% kwoty przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej w roku poprzedzającym przeprowadzenie egzaminu konkursowego, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, zwanego dalej „przeciętnym wynagrodzeniem”, – wynagrodzenie przewodniczącego komisji egzaminacyjnej za przeprowadzenie egzaminu komorniczego nie może przekroczyć 500% przeciętnego wynagrodzenia, – wynagrodzenie członka komisji egzaminacyjnej za przeprowadzenie egzaminu konkursowego nie może przekroczyć 200% przeciętnego wynagrodzenia, – wynagrodzenie członka komisji egzaminacyjnej za przeprowadzenie egzaminu komorniczego nie może przekroczyć 400% przeciętnego wynagrodzenia, a także tryb jego wypłacania, uwzględniając nakład ich pracy i zakres obowiązków oraz mając na uwadze dokonanie wypłaty tego wynagrodzenia po złożeniu przez przewodniczącego protokołu z prac komisji egzaminacyjnej;
+- **6)** wysokość wynagrodzenia przewodniczącego i członków zespołu egzaminacyjnego, mając na względzie, że wynagrodzenie z tego tytułu nie powinno przekraczać 350% przeciętnego wynagrodzenia, a także tryb jego wypłacania, uwzględniając nakład ich pracy i zakres obowiązków oraz mając na uwadze dokonanie wypłaty tego wynagrodzenia po złożeniu przez przewodniczącego protokołu z prac zespołu egzaminacyjnego;
+- **7)** tryb i termin zgłaszania przez Krajową Radę Komorniczą kandydatów na członków komisji odwoławczej oraz tryb i sposób działania komisji odwoławczej, mając na uwadze zapewnienie prawidłowego funkcjonowania komisji odwoławczej, konieczność prawidłowego i terminowego rozpoznawania odwołań oraz zapewnienia zachowania bezstronności pracy członków komisji odwoławczej;
+- **8)** wysokość wynagrodzenia przewodniczącego i członków komisji odwoławczej, uwzględniając nakład ich pracy i zakres obowiązków oraz to, że wynagrodzenie z tego tytułu nie powinno przekraczać 400% przeciętnego wynagrodzenia, a także tryb jego wypłacania, mając na uwadze, że dokonanie wypłaty tego wynagrodzenia następuje po złożeniu przez przewodniczącego protokołu z prac komisji odwoławczej.
 
 **Art. 32.**
 
@@ -850,8 +786,6 @@ Art. 95–98. (pominięte)
 
 8. Prezes sądu apelacyjnego prowadzi wykaz asesorów komorniczych zatrudnionych w obszarze właściwości podległego mu sądu.
 
-**Art. 32a.**
-
 1. Prezes sądu apelacyjnego zawiesza w czynnościach asesora komorniczego, jeżeli:
 
 - **1)** przeciwko asesorowi komorniczemu jest prowadzone postępowanie o umyślne przestępstwo ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe;
@@ -868,13 +802,12 @@ Art. 95–98. (pominięte)
 - **2)** oddalenia lub odrzucenia wniosku o ubezwłasnowolnienie lub umorzenie postępowania lub uchylenia postanowienia o ustanowieniu doradcy tymczasowego;
 - **3)** złożenia wniosku w tym przedmiocie przez asesora komorniczego w przypadku zawieszenia w czynnościach na podstawie określonej w ust. 2 pkt 1.
 
-**Art. 32b.**
-
 1. Prezes sądu apelacyjnego odwołuje asesora komorniczego z zajmowanego stanowiska, jeżeli asesor komorniczy:
 
 - **1)** zrezygnował z pełnienia obowiązków asesora komorniczego lub ustało jego zatrudnienie w kancelarii;
 - **2)** z powodu choroby lub utraty sił uznany został przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych za całkowicie niezdolnego do pełnienia obowiązków asesora komorniczego lub bez uzasadnionej przyczyny odmówił poddania się takiemu badaniu, mimo zalecenia rady właściwej izby komorniczej lub prezesa właściwego sądu okręgowego;
-- **3)** (uchylony) 3a) ukończył 70 rok życia;
+- **3)** (uchylony)
+- **3a)** ukończył 70 rok życia;
 - **4)** został prawomocnie skazany za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
 - **5)** został ubezwłasnowolniony częściowo bądź całkowicie;
 - **6)** dopuścił się rażącego lub uporczywego naruszenia przepisów prawa;
@@ -882,11 +815,11 @@ Art. 95–98. (pominięte)
 
 2. Prezes sądu apelacyjnego może odwołać asesora komorniczego z zajmowanego stanowiska w razie prawomocnego skazania za nieumyślne przestępstwo lub nieumyślne przestępstwo skarbowe.
 
-3. Odwołanie asesora komorniczego z zajmowanego stanowiska w przypadkach, o których mowa w ust. 1 pkt 2 i 6 oraz w ust. 2, następuje po uprzednim wysłuchaniu asesora komorniczego, chyba że nie jest to możliwe, oraz po zasięgnięciu opinii rady właściwej izby komorniczej. Właściwa izba komornicza przedstawia opinię w terminie 21 dni od dnia otrzymania wniosku. Nieprzedstawienie opinii w powyższym terminie przez radę izby komorniczej nie stanowi przeszkody do odwołania asesora komorniczego. Art. 32ba. 1. Osoba odwołana ze stanowiska asesora komorniczego z przyczyn, o których mowa w art. 32b ust. 1 pkt 1 i 4–7 oraz ust. 2, może zostać ponownie powołana na to stanowisko, jeżeli spełnia wymagania określone w art. 32 ust. 1, z uwzględnieniem art. 72a ust. 5.
+3. Odwołanie asesora komorniczego z zajmowanego stanowiska w przypadkach, o których mowa w ust. 1 pkt 2 i 6 oraz w ust. 2, następuje po uprzednim wysłuchaniu asesora komorniczego, chyba że nie jest to możliwe, oraz po zasięgnięciu opinii rady właściwej izby komorniczej. Właściwa izba komornicza przedstawia opinię w terminie 21 dni od dnia otrzymania wniosku. Nieprzedstawienie opinii w powyższym terminie przez radę izby komorniczej nie stanowi przeszkody do odwołania asesora komorniczego.
 
-2. Jeżeli osoba, o której mowa w ust. 1, co najmniej przez 5 lat nie wykonywała zawodu może zostać ponownie powołana na stanowisko asesora komorniczego po złożeniu egzaminu komorniczego.
+1. Osoba odwołana ze stanowiska asesora komorniczego z przyczyn, o których mowa w art. 32b ust. 1 pkt 1 i 4–7 oraz ust. 2, może zostać ponownie powołana na to stanowisko, jeżeli spełnia wymagania określone w art. 32 ust. 1, z uwzględnieniem art. 72a ust. 5.
 
-**Art. 32c.** W celu zbadania stanu zdrowia asesora prezes właściwego sądu okręgowego lub rada właściwej izby komorniczej może skierować asesora do Zakładu Ubezpieczeń Społecznych, z urzędu lub na jego wniosek.
+2. Jeżeli osoba, o której mowa w ust. 1, co najmniej przez 5 lat nie wykonywała zawodu może zostać ponownie powołana na stanowisko asesora komorniczego po złożeniu egzaminu komorniczego. W celu zbadania stanu zdrowia asesora prezes właściwego sądu okręgowego lub rada właściwej izby komorniczej może skierować asesora do Zakładu Ubezpieczeń Społecznych, z urzędu lub na jego wniosek.
 
 **Art. 33.**
 
@@ -901,13 +834,17 @@ Art. 95–98. (pominięte)
 - **5)** sporządzenia planu podziału sumy uzyskanej z egzekucji, o ile suma ta przekracza kwotę, o której mowa w ust. 1;
 - **6)** wydawania decyzji i podpisywania dokumentów dotyczących depozytu.
 
-3. Zlecenie, o którym mowa w ust. 1 i 2, powinno być wystawione na piśmie i określać sprawy lub czynności, do których przeprowadzenia asesor komorniczy został upoważniony.
-
-**Art. 33a.** (uchylony)
+3. Zlecenie, o którym mowa w ust. 1 i 2, powinno być wystawione na piśmie i określać sprawy lub czynności, do których przeprowadzenia asesor komorniczy został upoważniony. (uchylony)
 
 #### Rozdział 5 Koszty działalności egzekucyjnej komornika i zasady prowadzenia kancelarii
 
 **Art. 34.** Koszty działalności egzekucyjnej komornika obejmują:
+
+- **1)** koszty osobowe i rzeczowe ponoszone w związku z prowadzoną działalnością egzekucyjną;
+- **2)** koszty ochrony zajętego mienia i niezbędnej ochrony osobistej oraz ubezpieczenia mienia kancelarii i własnego ubezpieczenia odpowiedzialności cywilnej;
+- **3)** koszty przejazdów w miejscowości będącej siedzibą komornika, korespondencji, obrotu pieniężnego, przewozu drobnych ruchomości niewymagających transportu specjalistycznego;
+- **4)** obowiązkowe opłaty na samorząd komorniczy ponoszone zgodnie z przepisami ustawy;
+- **5)** inne koszty niezbędne do wykonywania czynności egzekucyjnych oraz czynności przewidziane przepisami ustawy, jeżeli nie są pokrywane w trybie określonym w art. 39.
 
 **Art. 35.** Koszty, o których mowa w art. 34, komornik pokrywa z uzyskanych opłat egzekucyjnych.
 
@@ -927,17 +864,13 @@ Art. 95–98. (pominięte)
 
 2. (uchylony)
 
-**Art. 37a.**
-
 1. Dla każdej sprawy z zakresu, o którym mowa w art. 2 ust. 1, komornik tworzy akta. Akta spraw mogą być tworzone, przetwarzane i przechowywane także z wykorzystaniem technik informatycznych.
 
 2. Urządzenia ewidencyjne w postaci repertorium, wykazów i ksiąg pomocniczych prowadzi się systemem roczników i zamyka się w ostatnim dniu roku kalendarzowego, w którym zostały założone.
 
-2a. Dokumentacja, o której mowa w ust. 1 i 2, może być prowadzona w postaci elektronicznej. Do dokumentacji prowadzonej w postaci elektronicznej stosuje się odpowiednio przepisy wydane na podstawie art. 5 ust. 2a–2c ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2018 r. poz. 217, 357, 398 i 650).
+2a. Dokumentacja, o której mowa w ust. 1 i 2, może być prowadzona w postaci elektronicznej. Do dokumentacji prowadzonej w postaci elektronicznej stosuje się odpowiednio przepisy wydane na podstawie art. 5 ust. 2a-2c ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2018 r. poz. 217, 357, 398 i 650).
 
 3. Akta spraw oraz urządzenia ewidencyjne stanowiące materiały archiwalne w rozumieniu przepisów ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach wchodzą do państwowego zasobu archiwalnego.
-
-**Art. 37b.**
 
 1. Akta spraw, w których postępowanie zostało zakończone, oraz zamknięte urządzenia ewidencyjne przechowuje Krajowa Rada Komornicza przez okres konieczny ze względu na rodzaj i charakter sprawy, terminy przedawnienia, interesy osób biorących udział w postępowaniu oraz znaczenie materiałów zawartych w aktach jako źródło informacji. Do przechowywania akt spraw i urządzeń ewidencyjnych stosuje się odpowiednio przepisy art. 34 ust. 1 i art. 35 ust. 3 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach.
 
@@ -964,8 +897,7 @@ Art. 95–98. (pominięte)
 - **5)** koszty działania komornika, o których mowa w art. 8 ust. 11, poza terenem rewiru komorniczego;
 - **6)** koszty doręczenia środków pieniężnych przez pocztę lub przelewem bankowym;
 - **7)** koszty uzyskiwania informacji niezbędnych do prowadzenia postępowania egzekucyjnego lub wykonania postanowienia o udzieleniu zabezpieczenia;
-- **8)** koszty doręczenia korespondencji, z wyjątkiem kosztów doręczenia stronom zawiadomienia o wszczęciu egzekucji bądź postępowania zabezpieczającego lub dokumentów doręczanych na podstawie art. 25 i art. 28 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 655/2014 z dnia 15 maja 2014 r. ustanawiającego procedurę europejskiego nakazu zabezpieczenia na rachunku bankowym w celu ułatwienia transgranicznego dochodzenia wierzytelności w sprawach cywilnych i handlowych (Dz. Urz. UE L 189 z 27.06.2014, str.
-- **59)** ;
+- **8)** koszty doręczenia korespondencji, z wyjątkiem kosztów doręczenia stronom zawiadomienia o wszczęciu egzekucji bądź postępowania zabezpieczającego lub dokumentów doręczanych na podstawie art. 25 i art. 28 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 655/2014 z dnia 15 maja 2014 r. ustanawiającego procedurę europejskiego nakazu zabezpieczenia na rachunku bankowym w celu ułatwienia transgranicznego dochodzenia wierzytelności w sprawach cywilnych i handlowych (Dz. Urz. UE L 189 z 27.06.2014, str. 59);
 - **9)** koszty dostępu do systemu teleinformatycznego obsługującego zajęcie wierzytelności z rachunku bankowego.
 
 **Art. 40.**
@@ -975,8 +907,6 @@ Art. 95–98. (pominięte)
 2. (utracił moc)
 
 3. Sąd rejonowy, przy którym działa komornik, przekazuje komornikowi sumy niezbędne na pokrycie wydatków w sprawach osób zwolnionych w tym zakresie od kosztów sądowych.
-
-**Art. 40a.**
 
 1. Komornik pobiera od wierzyciela opłatę sądową od składanego w postępowaniu egzekucyjnym wniosku o wpis w księdze wieczystej i wskazuje w tym wniosku wysokość pobranej opłaty sądowej. Komornik uzależnia złożenie wniosku o wpis w księdze wieczystej od uprzedniego uiszczenia przez wierzyciela należnej opłaty sądowej. Pobraną opłatę sądową komornik przekazuje właściwemu sądowi rejonowemu.
 
@@ -1008,9 +938,7 @@ Art. 95–98. (pominięte)
 
 2. (utracił moc)
 
-3. Nieuiszczenie przez wierzyciela opłaty, o której mowa w ust. 1, w terminie 7 dni od dnia doręczenia mu wezwania do zapłaty, powoduje zwrot wniosku.
-
-**Art. 45a.** Komornik podejmuje niezwłocznie, nie później jednak niż w terminie 7 dni od dnia otrzymania wniosku wierzyciela, czynności niezbędne do skutecznego przeprowadzenia egzekucji lub zabezpieczenia roszczenia, w tym wykonania europejskiego nakazu zabezpieczenia na rachunku bankowym.
+3. Nieuiszczenie przez wierzyciela opłaty, o której mowa w ust. 1, w terminie 7 dni od dnia doręczenia mu wezwania do zapłaty, powoduje zwrot wniosku. Komornik podejmuje niezwłocznie, nie później jednak niż w terminie 7 dni od dnia otrzymania wniosku wierzyciela, czynności niezbędne do skutecznego przeprowadzenia egzekucji lub zabezpieczenia roszczenia, w tym wykonania europejskiego nakazu zabezpieczenia na rachunku bankowym.
 
 **Art. 46.**
 
@@ -1024,9 +952,7 @@ Art. 95–98. (pominięte)
 
 1. W sprawach o egzekucję świadczeń powtarzających się wartość egzekwowanego roszczenia, stanowiącą podstawę ustalenia opłaty stosunkowej w dniu wszczęcia egzekucji, stanowi suma świadczeń za jeden rok oraz suma świadczeń zaległych.
 
-2. Jeżeli przedmiotem egzekucji są świadczenia za okres krótszy niż rok, wartość egzekwowanego roszczenia, o którym mowa w ust. 1, stanowi suma świadczeń za cały czas ich trwania.
-
-**Art. 47a.** (uchylony)
+2. Jeżeli przedmiotem egzekucji są świadczenia za okres krótszy niż rok, wartość egzekwowanego roszczenia, o którym mowa w ust. 1, stanowi suma świadczeń za cały czas ich trwania. (uchylony)
 
 **Art. 48.** (uchylony)
 
@@ -1056,11 +982,9 @@ Art. 95–98. (pominięte)
 
 8. Wniosek, o którym mowa w ust. 7, wnosi się w terminie 7 dni od dnia uzyskania informacji o ściągnięciu opłaty albo od dnia doręczenia postanowienia, o którym mowa odpowiednio w ust. 3 albo ust. 4.
 
-9. Do wniosku, o którym mowa w ust. 7, stosuje się odpowiednio przepisy art. 767–767 Kodeksu postępowania cywilnego.
+9. Do wniosku, o którym mowa w ust. 7, stosuje się odpowiednio przepisy art. 767–7674 Kodeksu postępowania cywilnego.
 
 10. Po rozpoznaniu wniosku, o którym mowa w ust. 7, sąd może, uwzględniając w szczególności nakład pracy komornika lub sytuację majątkową wnioskodawcy oraz wysokość jego dochodów, obniżyć wysokość opłat, o których mowa w ust. 1 i 2.
-
-**Art. 49a.**
 
 1. Wszczęcie egzekucji świadczeń niepieniężnych oraz wykonanie postanowienia o udzieleniu zabezpieczenia roszczenia niepieniężnego jest uzależnione od uiszczenia przez wierzyciela opłaty tymczasowej w wysokości 10% przeciętnego wynagrodzenia miesięcznego.
 
@@ -1069,8 +993,6 @@ Art. 95–98. (pominięte)
 3. W razie nieuiszczenia opłaty tymczasowej w terminie, o którym mowa w ust. 2, komornik zwraca wniosek lub odmawia dokonania czynności.
 
 4. Przepisy ust. 1–3 stosuje się także w sprawach o egzekucję świadczeń niepieniężnych, wszczętych na wniosek Skarbu Państwa, w tym na polecenie sądu lub prokuratora.
-
-**Art. 49b.**
 
 1. W razie skutecznego przeprowadzenia egzekucji świadczenia niepieniężnego komornik pobiera od dłużnika opłatę uzupełniającą w wysokości różnicy między opłatą ostateczną a uiszczoną przez wierzyciela opłatą tymczasową.
 
@@ -1099,25 +1021,15 @@ Art. 95–98. (pominięte)
 
 **Art. 52.** (uchylony)
 
-**Art. 53.** Za dokonanie spisu inwentarza albo innego spisu majątku pobiera się stałą opłatę w wysokości 10% przeciętnego wynagrodzenia miesięcznego za każdą rozpoczętą godzinę.
+**Art. 53.** Za dokonanie spisu inwentarza albo innego spisu majątku pobiera się stałą opłatę w wysokości 10% przeciętnego wynagrodzenia miesięcznego za każdą rozpoczętą godzinę. 1. Opłatę stałą w wysokości 2% przeciętnego wynagrodzenia miesięcznego komornik pobiera od wierzyciela w przypadku otrzymania zlecenia poszukiwania majątku dłużnika w trybie art. 8012 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego. W razie nieuiszczenia opłaty w terminie 7 dni od otrzymania wezwania komornik zwraca wniosek zawierający zlecenie. 2. W razie odnalezienia majątku dłużnika w trybie określonym w ust. 1 komornik pobiera opłatę stałą w wysokości 5% szacunkowej wartości tego majątku, nie więcej jednak niż 100% przeciętnego wynagrodzenia miesięcznego. Opłata ta ulega zmniejszeniu o kwotę opłaty pobranej na podstawie ust. 1. Przepis art. 49 ust. 3 stosuje się odpowiednio.
 
-**Art. 53a.**
-
-1. Opłatę stałą w wysokości 2% przeciętnego wynagrodzenia miesięcznego komornik pobiera od wierzyciela w przypadku otrzymania zlecenia poszukiwania majątku dłużnika w trybie art. 8012 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego. W razie nieuiszczenia opłaty w terminie 7 dni od otrzymania wezwania komornik zwraca wniosek zawierający zlecenie.
-
-2. W razie odnalezienia majątku dłużnika w trybie określonym w ust. 1 komornik pobiera opłatę stałą w wysokości 5% szacunkowej wartości tego majątku, nie więcej jednak niż 100% przeciętnego wynagrodzenia miesięcznego. Opłata ta ulega zmniejszeniu o kwotę opłaty pobranej na podstawie ust. 1. Przepis art. 49 ust. 3 stosuje się odpowiednio.
-
-**Art. 54.** Za wprowadzenie wierzyciela w posiadanie w przypadkach innych niż wymienione w art. 51 pobiera się ostateczną opłatę stałą w wysokości 15% przeciętnego wynagrodzenia miesięcznego, a w razie podjęcia egzekucji na skutek dalszych naruszeń posiadania, opłatę zwiększa się każdorazowo o 100%.
-
-**Art. 55.** Za opieczętowanie lub zdjęcie pieczęci, bez dokonywania równoczesnego spisu, pobiera się opłatę stałą w wysokości 4% przeciętnego wynagrodzenia miesięcznego od każdej opieczętowanej izby lub innego pomieszczenia.
+**Art. 54.** Za wprowadzenie wierzyciela w posiadanie w przypadkach innych niż wymienione w art. 51 pobiera się ostateczną opłatę stałą w wysokości 15% przeciętnego wynagrodzenia miesięcznego, a w razie podjęcia egzekucji na skutek dalszych naruszeń posiadania, opłatę zwiększa się każdorazowo o 100%. Za opieczętowanie lub zdjęcie pieczęci, bez dokonywania równoczesnego spisu, pobiera się opłatę stałą w wysokości 4% przeciętnego wynagrodzenia miesięcznego od każdej opieczętowanej izby lub innego pomieszczenia.
 
 **Art. 56.** Za egzekucję inną niż wymieniona w art. 44–55 pobiera się opłatę stałą w wysokości 10% przeciętnego wynagrodzenia miesięcznego za każdą rozpoczętą godzinę czynności egzekucyjnych.
 
 **Art. 57.** (uchylony)
 
-**Art. 58.** Za udział w usunięciu oporu dłużnika oraz za wykonanie nakazu w sprawie osadzenia dłużnika w zakładzie karnym pobiera się opłatę w wysokości 25% przeciętnego wynagrodzenia miesięcznego. Wykonanie nakazu osadzenia uzależnione jest od uiszczenia opłaty przez wierzyciela.
-
-**Art. 58a.** (uchylony)
+**Art. 58.** Za udział w usunięciu oporu dłużnika oraz za wykonanie nakazu w sprawie osadzenia dłużnika w zakładzie karnym pobiera się opłatę w wysokości 25% przeciętnego wynagrodzenia miesięcznego. Wykonanie nakazu osadzenia uzależnione jest od uiszczenia opłaty przez wierzyciela. (uchylony)
 
 **Art. 59.** (uchylony)
 
@@ -1195,6 +1107,13 @@ Art. 95–98. (pominięte)
 
 **Art. 71.** Komornik odpowiada dyscyplinarnie za zawinione działania lub zaniechania, a w szczególności za:
 
+- **1)** naruszenie powagi i godności urzędu;
+- **2)** rażącą obrazę przepisów prawa;
+- **3)** niewykonanie poleceń powizytacyjnych;
+- **4)** wydatkowanie środków podlegających dokumentacji na działalność rażąco niezgodną z ich przeznaczeniem;
+- **5)** podejmowanie czynności z nieuzasadnioną zwłoką;
+- **6)** naruszenie właściwości określonej w art. 8.
+
 **Art. 72.**
 
 1. Karami dyscyplinarnymi są:
@@ -1223,11 +1142,7 @@ Art. 95–98. (pominięte)
 
 8. Z chwilą zatarcia skazania wykreśla się wzmiankę o ukaraniu i usuwa z akt osobowych dokumenty dotyczące ukarania.
 
-**Art. 72a.**
-
-1. Do aplikantów i asesorów komorniczych stosuje się odpowiednio przepisy o odpowiedzialności dyscyplinarnej komorników, z zastrzeżeniem ust. 2–
-
-6.
+1. Do aplikantów i asesorów komorniczych stosuje się odpowiednio przepisy o odpowiedzialności dyscyplinarnej komorników, z zastrzeżeniem ust. 2–6.
 
 2. Karami dyscyplinarnymi są:
 
@@ -1262,7 +1177,7 @@ Art. 95–98. (pominięte)
 
 3. Minister Sprawiedliwości, składając wniosek o wszczęcie postępowania dyscyplinarnego, może zawiesić komornika w czynnościach.
 
-4. Na postanowienie Ministra Sprawiedliwości o zawieszeniu komornika w czynnościach przysługuje zażalenie do Sądu Okręgowego w Warszawie, w terminie 7 dni od dnia doręczenia postanowienia. Przepisy art. 78 ust. 3– 5 stosuje się odpowiednio.
+4. Na postanowienie Ministra Sprawiedliwości o zawieszeniu komornika w czynnościach przysługuje zażalenie do Sądu Okręgowego w Warszawie, w terminie 7 dni od dnia doręczenia postanowienia. Przepisy art. 78 ust. 3–5 stosuje się odpowiednio.
 
 **Art. 75.**
 
@@ -1273,8 +1188,6 @@ Art. 95–98. (pominięte)
 3. (uchylony)
 
 4. (uchylony)
-
-**Art. 75a.**
 
 1. Krajowa Rada Komornicza powołuje komisję dyscyplinarną w liczbie 22 członków spośród kandydatów zgłoszonych w liczbie 3 przez radę każdej izby komorniczej, spośród komorników będących członkami danej izby.
 
@@ -1288,8 +1201,6 @@ Art. 95–98. (pominięte)
 
 5. Obsługę komisji dyscyplinarnej zapewnia Krajowa Rada Komornicza.
 
-**Art. 75b.**
-
 1. Krajowa Rada Komornicza odwołuje członka komisji dyscyplinarnej przed upływem kadencji, jeżeli:
 
 - **1)** zrzekł się funkcji członka komisji;
@@ -1299,29 +1210,23 @@ Art. 95–98. (pominięte)
 
 2. W trakcie trwania kadencji skład komisji dyscyplinarnej może być uzupełniony, z tym że mandat nowego członka wygasa wraz z upływem kadencji komisji dyscyplinarnej.
 
-3. Po upływie kadencji członkowie komisji dyscyplinarnej pełnią swoją funkcję do zakończenia prowadzonego przez nich postępowania dyscyplinarnego, chyba że zachodzi konieczność prowadzenia postępowania dyscyplinarnego od początku.
-
-**Art. 75c.** Członkowie komisji dyscyplinarnej są niezawiśli w zakresie orzekania.
-
-**Art. 75d.**
+3. Po upływie kadencji członkowie komisji dyscyplinarnej pełnią swoją funkcję do zakończenia prowadzonego przez nich postępowania dyscyplinarnego, chyba że zachodzi konieczność prowadzenia postępowania dyscyplinarnego od początku. Członkowie komisji dyscyplinarnej są niezawiśli w zakresie orzekania.
 
 1. Komisja dyscyplinarna rozpoznaje sprawy dyscyplinarne w trzyosobowym składzie orzekającym.
 
 2. (uchylony)
 
-**Art. 75e.**
-
 1. Przewodniczący komisji dyscyplinarnej kieruje jej pracami, a w szczególności wyznacza terminy posiedzeń i przedstawia akta sprawy sądowi odwoławczemu.
 
 2. W razie nieobecności przewodniczącego komisji dyscyplinarnej jego obowiązki wykonuje wiceprzewodniczący.
-
-**Art. 75f.**
 
 1. Stronami w postępowaniu dyscyplinarnym są podmiot, który złożył wniosek o wszczęcie postępowania dyscyplinarnego (wnioskodawca), oskarżyciel, obwiniony i pokrzywdzony.
 
 2. Oskarżycielem w postępowaniu dyscyplinarnym jest rzecznik dyscyplinarny. Niezależnie od działania rzecznika dyscyplinarnego, jako oskarżyciel w postępowaniu dyscyplinarnym mogą występować Minister Sprawiedliwości, prezesi sądów, sędziowie-wizytatorzy, organy samorządu komorniczego oraz komornicy-wizytatorzy.
 
-3. Obwinionym jest komornik, asesor komorniczy albo aplikant komorniczy, przeciwko któremu złożono wniosek o wszczęcie postępowania dyscyplinarnego. Art. 75fa. 1. Rzecznika dyscyplinarnego powołuje Minister Sprawiedliwości, spośród trzech kandydatów przedstawionych przez Krajową Radę Komorniczą.
+3. Obwinionym jest komornik, asesor komorniczy albo aplikant komorniczy, przeciwko któremu złożono wniosek o wszczęcie postępowania dyscyplinarnego.
+
+1. Rzecznika dyscyplinarnego powołuje Minister Sprawiedliwości, spośród trzech kandydatów przedstawionych przez Krajową Radę Komorniczą.
 
 2. Rzecznik dyscyplinarny może wykonywać czynności przy pomocy swoich zastępców.
 
@@ -1333,30 +1238,38 @@ Art. 95–98. (pominięte)
 
 6. Do odwołania rzecznika dyscyplinarnego i jego zastępców przepis art. 75b stosuje się odpowiednio.
 
-**Art. 75g.**
-
 1. Obwiniony może korzystać z pomocy obrońcy, którym może być adwokat, radca prawny albo komornik.
 
-2. Obwiniony może ustanowić najwyżej dwóch obrońców. Art. 75ga. 1. Rzecznik dyscyplinarny wszczyna dochodzenie z urzędu albo na wniosek podmiotu, o którym mowa w art. 74 ust. 1.
+2. Obwiniony może ustanowić najwyżej dwóch obrońców.
+
+1. Rzecznik dyscyplinarny wszczyna dochodzenie z urzędu albo na wniosek podmiotu, o którym mowa w art. 74 ust. 1.
 
 2. Wniosek o wszczęcie dochodzenia wiąże rzecznika dyscyplinarnego.
 
 3. O wszczęciu dochodzenia rzecznik dyscyplinarny zawiadamia wnioskodawcę, Ministra Sprawiedliwości, Krajową Radę Komorniczą oraz izbę komorniczą, której obwiniony jest członkiem. Jeżeli obwinionym jest aplikant komorniczy albo asesor komorniczy, rzecznik dyscyplinarny o wszczęciu dochodzenia zawiadamia ponadto prezesa właściwego sądu apelacyjnego oraz komornika, który zatrudnia aplikanta komorniczego albo asesora komorniczego.
 
-4. Jeżeli czyn, którego popełnienie zarzuca się obwinionemu stanowi przestępstwo ścigane z oskarżenia publicznego, rzecznik dyscyplinarny niezwłocznie zawiadamia o podejrzeniu popełnienia przestępstwa prokuratora. Art. 75gb. Za nieusprawiedliwione niestawiennictwo, odmowę złożenia zeznań lub przyrzeczenia sąd rejonowy właściwy według miejsca zamieszkania świadka lub biegłego nakłada grzywnę na świadka lub biegłego, na wniosek rzecznika dyscyplinarnego. O skutkach niestawiennictwa, odmowy złożenia zeznań lub przyrzeczenia należy pouczyć świadka lub biegłego przy wezwaniu do złożenia zeznań albo sporządzenia opinii. Art. 75gc. 1. Rzecznik dyscyplinarny przy wszczęciu dochodzenia lub w jego toku może wystąpić do komisji dyscyplinarnej o zawieszenie komornika w czynnościach. Przepis art. 74 ust. 3 stosuje się, a przepisy art. 78 ust. 2, 4 i 5 stosuje się odpowiednio.
+4. Jeżeli czyn, którego popełnienie zarzuca się obwinionemu stanowi przestępstwo ścigane z oskarżenia publicznego, rzecznik dyscyplinarny niezwłocznie zawiadamia o podejrzeniu popełnienia przestępstwa prokuratora. Za nieusprawiedliwione niestawiennictwo, odmowę złożenia zeznań lub przyrzeczenia sąd rejonowy właściwy według miejsca zamieszkania świadka lub biegłego nakłada grzywnę na świadka lub biegłego, na wniosek rzecznika dyscyplinarnego. O skutkach niestawiennictwa, odmowy złożenia zeznań lub przyrzeczenia należy pouczyć świadka lub biegłego przy wezwaniu do złożenia zeznań albo sporządzenia opinii.
+
+1. Rzecznik dyscyplinarny przy wszczęciu dochodzenia lub w jego toku może wystąpić do komisji dyscyplinarnej o zawieszenie komornika w czynnościach. Przepis art. 74 ust. 3 stosuje się, a przepisy art. 78 ust. 2, 4 i 5 stosuje się odpowiednio.
 
 2. Na postanowienie komisji dyscyplinarnej w przedmiocie zawieszenia w czynnościach stronom przysługuje zażalenie do Sądu Okręgowego w Warszawie w terminie tygodniowym od dnia doręczenia postanowienia.
 
-3. Postanowienie Sądu Okręgowego w Warszawie jest niezaskarżalne. Art. 75gd. 1. Rzecznik dyscyplinarny po uznaniu, że dowody zebrane w dochodzeniu są wystarczające do wszczęcia postępowania przed komisją dyscyplinarną, składa wniosek o ukaranie.
+3. Postanowienie Sądu Okręgowego w Warszawie jest niezaskarżalne.
 
-2. Złożenie wniosku przez rzecznika dyscyplinarnego albo przez podmiot, o którym mowa w art. 75f ust. 2 zdanie drugie, wszczyna postępowanie przed komisją dyscyplinarną. Art. 75ge. 1. Rzecznik dyscyplinarny może przed wszczęciem postępowania przed komisją dyscyplinarną umorzyć dochodzenie, które prowadził, jeżeli:
+1. Rzecznik dyscyplinarny po uznaniu, że dowody zebrane w dochodzeniu są wystarczające do wszczęcia postępowania przed komisją dyscyplinarną, składa wniosek o ukaranie.
+
+2. Złożenie wniosku przez rzecznika dyscyplinarnego albo przez podmiot, o którym mowa w art. 75f ust. 2 zdanie drugie, wszczyna postępowanie przed komisją dyscyplinarną.
+
+1. Rzecznik dyscyplinarny może przed wszczęciem postępowania przed komisją dyscyplinarną umorzyć dochodzenie, które prowadził, jeżeli:
 
 - **1)** czynu nie popełniono albo czyn nie zawiera znamion przewinienia dyscyplinarnego;
 - **2)** postępowanie dyscyplinarne co do tego samego czynu zostało wszczęte wcześniej albo prawomocnie zakończone, z uwzględnieniem art. 74 ust. 2 zdanie drugie.
 
 2. Odpis postanowienia o umorzeniu dochodzenia doręcza się obwinionemu, wnioskodawcy, Ministrowi Sprawiedliwości, Prezesowi Krajowej Rady Komorniczej oraz izbie komorniczej, której obwiniony jest członkiem. Jeżeli obwinionym jest aplikant komorniczy albo asesor komorniczy, postanowienie o umorzeniu dochodzenia rzecznik dyscyplinarny doręcza ponadto prezesowi właściwego sądu apelacyjnego oraz komornikowi, który zatrudnia aplikanta komorniczego albo asesora komorniczego.
 
-3. Na postanowienie rzecznika dyscyplinarnego o umorzeniu dochodzenia podmiotowi, o którym mowa w art. 74 ust. 1, oraz Prezesowi Krajowej Rady Komorniczej przysługuje zażalenie do sądu okręgowego właściwego według siedziby kancelarii obwinionego komornika lub siedziby kancelarii, w której obwiniony aplikant komorniczy albo asesor komorniczy był lub jest zatrudniony, w terminie tygodniowym od dnia doręczenia odpisu postanowienia. Art. 75gf. 1. Przewodniczący komisji dyscyplinarnej w terminie 7 dni od dnia złożenia wniosku o ukaranie wyznacza skład orzekający i przewodniczącego spośród jego członków.
+3. Na postanowienie rzecznika dyscyplinarnego o umorzeniu dochodzenia podmiotowi, o którym mowa w art. 74 ust. 1, oraz Prezesowi Krajowej Rady Komorniczej przysługuje zażalenie do sądu okręgowego właściwego według siedziby kancelarii obwinionego komornika lub siedziby kancelarii, w której obwiniony aplikant komorniczy albo asesor komorniczy był lub jest zatrudniony, w terminie tygodniowym od dnia doręczenia odpisu postanowienia.
+
+1. Przewodniczący komisji dyscyplinarnej w terminie 7 dni od dnia złożenia wniosku o ukaranie wyznacza skład orzekający i przewodniczącego spośród jego członków.
 
 2. Postępowanie przed komisją dyscyplinarną jest jawne.
 
@@ -1370,15 +1283,11 @@ Art. 95–98. (pominięte)
 
 5. Obwinionemu i jego obrońcy doręcza się, wraz z odpisem zarządzenia o terminie rozprawy, odpis wniosku o ukaranie z pouczeniem o prawie wniesienia na piśmie odpowiedzi na ten wniosek w terminie tygodniowym od dnia jego doręczenia, z jednoczesnym poinformowaniem o skutkach doręczeń, o których mowa w art. 75i ust. 2.
 
-**Art. 75h.**
-
 1. Komisja dyscyplinarna dąży do tego, aby sprawa została rozpoznana na pierwszej rozprawie.
 
 2. Z ważnych powodów przewodniczący może odroczyć rozprawę na czas nie dłuższy niż 30 dni.
 
 3. Rozprawę odroczoną prowadzi się w dalszym ciągu, chyba że skład komisji dyscyplinarnej uległ zmianie.
-
-**Art. 75i.**
 
 1. Rozprawa przed komisją dyscyplinarną odbywa się bez względu na niestawiennictwo stron prawidłowo powiadomionych o terminie rozprawy, chyba że strona usprawiedliwi swoją nieobecność przedkładając zaświadczenie biegłego lekarza sądowego o niemożności udziału w rozprawie i wniesie o jej odroczenie.
 
@@ -1386,19 +1295,11 @@ Art. 95–98. (pominięte)
 
 3. Strony postępowania dyscyplinarnego, Prezes Krajowej Rady Komorniczej, Minister Sprawiedliwości oraz osoby przez nich upoważnione mogą zasięgać informacji o przebiegu oraz wyniku postępowania dyscyplinarnego, a także przeglądać akta sprawy i otrzymywać odpisy, kopie lub wyciągi z tych akt.
 
-4. W toku postępowania dyscyplinarnego, za zgodą obwinionego, pisma mogą być doręczane także za pośrednictwem telefaksu lub poczty elektronicznej. W takim przypadku dowodem doręczenia jest potwierdzenie transmisji danych.
-
-**Art. 75j.** Protokolantem posiedzenia komisji dyscyplinarnej może być komornik, asesor komorniczy albo aplikant komorniczy wyznaczony przez przewodniczącego komisji dyscyplinarnej.
-
-**Art. 75k.** Jeżeli obwiniony przyznaje się do popełnienia czynu podlegającego odpowiedzialności dyscyplinarnej, komisja dyscyplinarna, za zgodą stron, może nie przeprowadzać postępowania dowodowego lub przeprowadzić je częściowo.
-
-**Art. 75l.**
+4. W toku postępowania dyscyplinarnego, za zgodą obwinionego, pisma mogą być doręczane także za pośrednictwem telefaksu lub poczty elektronicznej. W takim przypadku dowodem doręczenia jest potwierdzenie transmisji danych. Protokolantem posiedzenia komisji dyscyplinarnej może być komornik, asesor komorniczy albo aplikant komorniczy wyznaczony przez przewodniczącego komisji dyscyplinarnej. Jeżeli obwiniony przyznaje się do popełnienia czynu podlegającego odpowiedzialności dyscyplinarnej, komisja dyscyplinarna, za zgodą stron, może nie przeprowadzać postępowania dowodowego lub przeprowadzić je częściowo.
 
 1. Komisja dyscyplinarna wymierza karę, przewidzianą w ustawie, według swojego uznania, bacząc, aby jej dolegliwość nie przekraczała stopnia winy obwinionego, uwzględniając stopień społecznej szkodliwości czynu oraz biorąc pod uwagę cele zapobiegawcze i wychowawcze, które kara ma osiągnąć w stosunku do obwinionego, a także potrzeby w zakresie kształtowania świadomości prawnej komorników, asesorów i aplikantów komorniczych.
 
 2. Wymierzając karę komisja dyscyplinarna uwzględnia w szczególności motywację i sposób zachowania się obwinionego, rodzaj i stopień naruszenia ciążących na nim obowiązków, rodzaj i rozmiar ujemnych następstw czynu, właściwości i warunki osobiste obwinionego oraz zachowanie się po popełnieniu czynu, a zwłaszcza starania o naprawienie szkody.
-
-**Art. 75m.**
 
 1. Komisja dyscyplinarna z urzędu sporządza uzasadnienie orzeczenia w terminie 30 dni od dnia ogłoszenia orzeczenia.
 
@@ -1406,7 +1307,9 @@ Art. 95–98. (pominięte)
 
 3. Uzasadnienia orzeczenia nie sporządza się z urzędu w sprawach, w których uwzględniono w całości wniosek podmiotu, o którym mowa w art. 75f ust. 2 zdanie drugie, wniosek rzecznika dyscyplinarnego o wydanie orzeczenia i wymierzenie kary dyscyplinarnej oraz obwiniony przyznał się do popełnienia czynu i za zgodą stron nie przeprowadzano postępowania dowodowego lub przeprowadzono je częściowo.
 
-4. W przypadkach, o których mowa w ust. 3, uzasadnienie sporządza się wyłącznie na wniosek strony, Ministra Sprawiedliwości lub Prezesa Krajowej Rady Komorniczej, zgłoszony w terminie zawitym 7 dni od dnia doręczenia orzeczenia. Art. 75ma. 1. Od orzeczeń i postanowień kończących postępowanie w sprawie przysługuje stronom, rzecznikowi dyscyplinarnemu, Ministrowi Sprawiedliwości i Prezesowi Krajowej Rady Komorniczej odwołanie do sądu okręgowego właściwego według siedziby kancelarii obwinionego komornika lub siedziby kancelarii, w której obwiniony aplikant komorniczy albo asesor komorniczy był lub jest zatrudniony, w terminie 30 dni od dnia doręczenia orzeczenia albo postanowienia wraz z uzasadnieniem.
+4. W przypadkach, o których mowa w ust. 3, uzasadnienie sporządza się wyłącznie na wniosek strony, Ministra Sprawiedliwości lub Prezesa Krajowej Rady Komorniczej, zgłoszony w terminie zawitym 7 dni od dnia doręczenia orzeczenia.
+
+1. Od orzeczeń i postanowień kończących postępowanie w sprawie przysługuje stronom, rzecznikowi dyscyplinarnemu, Ministrowi Sprawiedliwości i Prezesowi Krajowej Rady Komorniczej odwołanie do sądu okręgowego właściwego według siedziby kancelarii obwinionego komornika lub siedziby kancelarii, w której obwiniony aplikant komorniczy albo asesor komorniczy był lub jest zatrudniony, w terminie 30 dni od dnia doręczenia orzeczenia albo postanowienia wraz z uzasadnieniem.
 
 2. Odwołanie wnosi się za pośrednictwem komisji dyscyplinarnej, która wydała zaskarżone orzeczenie albo postanowienie.
 
@@ -1414,15 +1317,11 @@ Art. 95–98. (pominięte)
 
 4. Od orzeczenia sądu okręgowego nie przysługuje kasacja.
 
-**Art. 75n.**
-
 1. Odpis prawomocnego orzeczenia komisja dyscyplinarna doręcza Ministrowi Sprawiedliwości, Krajowej Radzie Komorniczej i radzie właściwej izby komorniczej. W przypadku asesora komorniczego odpis prawomocnego orzeczenia przesyła się również właściwemu prezesowi sądu apelacyjnego.
 
 2. Orzeczenie, o którym mowa w ust. 1, rada właściwej izby komorniczej załącza do akt komornika, asesora lub aplikanta komorniczego.
 
 3. Komisja dyscyplinarna przechowuje akta postępowania dyscyplinarnego przez 10 lat, licząc od dnia uprawomocnienia się orzeczenia dyscyplinarnego.
-
-**Art. 75o.**
 
 1. Koszty postępowania dyscyplinarnego tymczasowo ponosi Krajowa Rada Komornicza.
 
@@ -1457,11 +1356,7 @@ Art. 95–98. (pominięte)
 - **1)** komisja dyscyplinarna uchyliła je wcześniej, z tym że nie dotyczy to zawieszenia, o którym mowa w art. 74 ust. 3;
 - **2)** prawomocnie orzeczona została kara wymieniona w art. 72 ust. 1 pkt 4.
 
-6. W czasie zawieszenia komornika w czynnościach zawiesza się go z mocy prawa w pełnieniu wszelkich funkcji w samorządzie komorniczym.
-
-**Art. 78a.** (uchylony)
-
-**Art. 78b.** Do postępowania dyscyplinarnego w zakresie nieuregulowanym w niniejszej ustawie stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
+6. W czasie zawieszenia komornika w czynnościach zawiesza się go z mocy prawa w pełnieniu wszelkich funkcji w samorządzie komorniczym. (uchylony) Do postępowania dyscyplinarnego w zakresie nieuregulowanym w niniejszej ustawie stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
 
 #### Rozdział 11 Samorząd komorniczy
 
@@ -1545,9 +1440,7 @@ Art. 95–98. (pominięte)
 
 3. Krajowa Rada Komornicza może przekazać radzie izby komorniczej zadanie, o którym mowa w ust. 1 pkt 15.
 
-4. Krajowa Rada Komornicza składa Ministrowi Sprawiedliwości raz w roku, w terminie do 31 marca, informację o stanie egzekucji.
-
-**Art. 85a.** Rada izby komorniczej przekazuje niezwłocznie Krajowej Radzie Komorniczej aktualne informacje o komornikach, zastępcach komorników oraz asesorach komorniczych. Informacja obejmuje imię i nazwisko komornika, zastępcy komornika lub asesora komorniczego, właściwą izbę komorniczą, datę i numer decyzji o powołaniu komornika lub asesora komorniczego, datę i numer decyzji o odwołaniu komornika lub asesora komorniczego, datę wygaśnięcia powołania na stanowisko komornika z mocy prawa, datę i numer zarządzenia o wyznaczeniu zastępcy komornika, oraz informacje o zawieszeniu w czynnościach zawodowych.
+4. Krajowa Rada Komornicza składa Ministrowi Sprawiedliwości raz w roku, w terminie do 31 marca, informację o stanie egzekucji. Rada izby komorniczej przekazuje niezwłocznie Krajowej Radzie Komorniczej aktualne informacje o komornikach, zastępcach komorników oraz asesorach komorniczych. Informacja obejmuje imię i nazwisko komornika, zastępcy komornika lub asesora komorniczego, właściwą izbę komorniczą, datę i numer decyzji o powołaniu komornika lub asesora komorniczego, datę i numer decyzji o odwołaniu komornika lub asesora komorniczego, datę wygaśnięcia powołania na stanowisko komornika z mocy prawa, datę i numer zarządzenia o wyznaczeniu zastępcy komornika, oraz informacje o zawieszeniu w czynnościach zawodowych.
 
 **Art. 86.**
 
@@ -1558,6 +1451,10 @@ Art. 95–98. (pominięte)
 3. Członkostwo w izbie komorniczej powstaje z mocy prawa z dniem uzyskania przez komornika prawa wykonywania czynności, o których mowa w art. 2, i ustaje z dniem odwołania komornika albo wygaśnięcia powołania na stanowisko komornika z mocy prawa. Z dniem odwołania komornika albo wygaśnięcia powołania na stanowisko komornika z mocy prawa komornik przestaje pełnić wszelkie funkcje w organach samorządu komorniczego.
 
 **Art. 87.** Organami izby komorniczej są:
+
+- **1)** walne zgromadzenie komorników izby komorniczej;
+- **2)** rada izby komorniczej;
+- **3)** komisja rewizyjna.
 
 **Art. 88.**
 
@@ -1639,13 +1536,13 @@ Art. 95–98. (pominięte)
 
 2. Do ważności uchwał rady izby komorniczej jest wymagana obecność ponad połowy jej członków.
 
-**Art. 94a.**
-
 1. Krajowa Rada Komornicza na podstawie informacji przekazywanych przez rady izb komorniczych prowadzi w systemie teleinformatycznym listę komorników, zastępców komorników oraz asesorów komorniczych, która zawiera imię i nazwisko, właściwą izbę komorniczą, datę i numer decyzji o powołaniu komornika lub asesora komorniczego, datę i numer decyzji o odwołaniu komornika lub asesora komorniczego, datę wygaśnięcia powołania na stanowisko komornika z mocy prawa, datę i numer zarządzenia o wyznaczeniu zastępcy komornika, oraz informacje o zawieszeniu w czynnościach zawodowych.
 
 2. Krajowa Rada Komornicza zapewnia sądom prowadzącym księgi wieczyste dostęp do listy, o której mowa w ust. 1, za pośrednictwem systemu teleinformatycznego w celu automatycznej weryfikacji komorników, zastępców komorników oraz asesorów komorniczych.
 
 3. Krajowa Rada Komornicza zapewnia Ministrowi Sprawiedliwości dostęp do listy, o której mowa w ust. 1, za pośrednictwem systemu teleinformatycznego.
+
+4. Krajowa Rada Komornicza zapewnia dostęp do listy, o której mowa w ust. 1, za pośrednictwem systemu teleinformatycznego w celu automatycznej weryfikacji komorników, zastępców komorników i asesorów komorniczych wykonujących w Centralnym Rejestrze Restrukturyzacji i Upadłości zadania, o których mowa w art. 5 ust. 2e ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. z 2017 r. poz. 1508 oraz z 2018 r. poz. 149 i 398).
 
 #### Rozdział 12 Zmiany w przepisach obowiązujących
 
@@ -1713,5 +1610,5 @@ Art. 95–98. (pominięte)
 
 **Art. 109.** (pominięty)
 
-**Art. 110.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia .
+**Art. 110.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia.
 

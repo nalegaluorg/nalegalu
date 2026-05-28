@@ -8,12 +8,10 @@ pos: 1523
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o delegowaniu kierowców w transporcie drogowym
-
-*USTAWA z dnia 28 lipca 2023 r.*
+# Ustawa z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,54 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2023-07-28 |
 | Data wydania | 2023-08-04 |
+| Wejście w życie | 2023-08-19 |
 | Ostatnia zmiana | 2025-07-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001523) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1523/text.pdf) |
 
-Art. 37–44. (pominięte)
+Załącznik – Wykaz naruszeń, o których mowa w art. 33 ust. 1, wysokość kary pieniężnej za poszczególne naruszenia oraz numer grupy naruszeń oraz waga naruszeń wskazane w załączniku I do rozporządzenia Komisji (UE) 2016/403
+1.
+Kierowca wykonujący zadania służbowe w ramach międzynarodowych przewozów drogowych nie jest w podróży służbowej w rozumieniu art. 775§ 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
+2.
+Do kierowcy, o którym mowa w ust. 1, stosuje się odpowiednio, w zakresie ustalania podstawy wymiaru składek na ubezpieczenia emerytalne i rentowe, przepisy wydane na podstawie art. 21 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych dotyczące pracowników zatrudnionych za granicą u polskich pracodawców.
+W przypadku kierowców wykonujących zadania służbowe w ramach międzynarodowych przewozów drogowych, których miesięczny przychód jest wyższy niż przeciętne wynagrodzenie, w skład przychodu stanowiącego podstawę wymiaru składki na ubezpieczenie społeczne, o której mowa w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych nie wchodzą:
+1)
+kwota stanowiąca równowartość 60 euro za każdy dzień pobytu za granicą, z zastrzeżeniem że tak ustalony miesięczny przychód tych osób stanowiący podstawę wymiaru składek nie może być niższy od kwoty przeciętnego wynagrodzenia;
+2)
+należności stanowiące zwrot równowartości poniesionych przez kierowcę kosztów:
+a)
+noclegu, o którym mowa w art. 8 ust. 8 rozporządzenia (WE) nr 561/2006,
+b)
+podróży do miejsca rozpoczęcia międzynarodowego przewozu drogowego środkami transportu innymi niż pojazd będący w dyspozycji pracodawcy lub podmiotu, na rzecz którego kierowca wykonuje międzynarodowy przewóz drogowy,
+c)
+niezbędnych udokumentowanych wydatków określonych lub uznanych przez pracodawcę lub podmiot, na rzecz którego kierowca wykonuje międzynarodowy przewóz drogowy, odpowiednio do uzasadnionych potrzeb w wysokości nieprzekraczającej kwoty wydatków faktycznie poniesionych i udokumentowanych przez kierowcę,
+d)
+korzystania z urządzeń sanitarnych, określonych na podstawie średnich nieudokumentowanych kosztów takich usług oferowanych w ogólnodostępnych miejscach obsługi podróżnych w państwach, w których kierowca wykonuje zadania służbowe.
+1.
+Do dni pobytu za granicą, o których mowa w art. 26g, oraz do dni pobytu za granicą, o których mowa w art. 21 ust. 1 pkt 23d ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, nie zalicza się:
+1)
+dni urlopu wypoczynkowego;
+2)
+okresu przebywania na zwolnieniu lekarskim od pracy z powodu choroby;
+3)
+okresu korzystania z urlopu bezpłatnego.
+2.
+Jeżeli okres pobytu kierowcy wykonującego międzynarodowe przewozy drogowe za granicą jest krótszy niż 12 godzin, kwoty, o których mowa w art. 26g niniejszej ustawy i art. 21 ust. 1 pkt 23d ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ulegają zmniejszeniu do:
+1)
+1/3 w przypadku pobytu do 8 godzin;
+2)
+1/2 w przypadku pobytu ponad 8 do 12 godzin.
+W drodze odstępstwa od art. 85 § 1 i 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, wynagrodzenie za pracę kierowcy wykonującego międzynarodowe przewozy drogowe, uznanego za pracownika delegowanego do celów dyrektywy 96/71/WE Parlamentu Europejskiego i Rady z dnia 16 grudnia 1996 r. dotyczącej delegowania pracowników w ramach świadczenia usług (Dz. Urz. WE L 18 z 21.01.1997, str. 1 – Dz. Urz. UE Polskie wydanie specjalne rozdz. 5, t. 2, str. 431, Dz. Urz. UE L 252 z 19.09.2012, str. 59 oraz Dz. Urz. UE L 173 z 09.07.2018, str. 16), w rozumieniu krajowych przepisów państwa, na terytorium którego kierowca jest delegowany, może być płatne w dwóch ratach, w stałym i ustalonym z góry terminie:
+1)
+pierwsza rata, z dołu, nie później jednak niż w ciągu pierwszych 10 dni następnego miesiąca kalendarzowego:
+a)
+w przypadku kierowców, których miesięczny przychód jest niższy niż przeciętne wynagrodzenie – w wysokości co najmniej minimalnego wynagrodzenia za pracę ogłoszonego albo ustalonego na podstawie art. 2 ust. 4 albo ust. 5 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207),
+b)
+w przypadku kierowców, których miesięczny przychód jest wyższy niż przeciętne wynagrodzenie – w wysokości przeciętnego wynagrodzenia;
+2)
+druga rata, z dołu, niezwłocznie po ustaleniu pełnej wysokości wynagrodzenia, nie później jednak niż do 21 dnia następnego miesiąca kalendarzowego.
+” ;
+6)
+w art. 31d w ust. 3 wyrazy „art. 24 pkt 2” zastępuje się wyrazami „art. 24 ust. 1 pkt 2”.
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -42,27 +84,49 @@ Art. 37–44. (pominięte)
 - **5)** współpracy z właściwymi organami innych państw członkowskich dotyczącej delegowania kierowców w transporcie drogowym na terytorium Rzeczypospolitej Polskiej i z tego terytorium;
 - **6)** postępowania związanego z realizacją lub składaniem wniosków o powiadomienie o decyzji o nałożeniu na przewoźnika drogowego delegującego kierowcę na terytorium Rzeczypospolitej Polskiej i z tego terytorium administracyjnej kary pieniężnej lub grzywny administracyjnej oraz o egzekucję takiej kary lub grzywny.
 
-2. W sprawach nieuregulowanych w niniejszej ustawie stosuje się odpowiednio przepisy art. 9–16 ustawy z dnia 10 czerwca 2016 r. o delegowaniu pracowników w ramach świadczenia usług (Dz. U. z 2024 r. poz. 73 oraz z 2025 r. poz. 621).
+2. W sprawach nieuregulowanych w niniejszej ustawie stosuje się odpowiednio przepisy art. 9–16 ustawy z dnia 10 czerwca 2016 r. o delegowaniu pracowników w ramach świadczenia usług (Dz. U. z 2021 r. poz. 1140 oraz z 2023 r. poz. 641).
 
 **Art. 2.**
 
 1. Przepisów ustawy nie stosuje się do kierowców delegowanych:
 
-- **1)** na terytorium Rzeczypospolitej Polskiej:
-    - **a)** do pracy w oddziale lub przedsiębiorstwie należącym do grupy przedsiębiorstw, do której należy pracodawca delegujący kierowcę na terytorium Rzeczypospolitej Polskiej,
-    - **b)** przez podmiot będący agencją pracy tymczasowej albo agencją wynajmującą personel, który skierował kierowcę do pracodawcy użytkownika,
-    - **c)** z Konfederacji Szwajcarii, do czasu przyjęcia, w drodze umowy z Unią Europejską, zobowiązania do implementacji do krajowego porządku prawnego przepisów dyrektywy Parlamentu Europejskiego i Rady (UE) 2020/1057 z dnia 15 lipca 2020 r. ustanawiającej przepisy szczególne w odniesieniu do dyrektywy 96/71/WE i dyrektywy 2014/67/UE dotyczące delegowania kierowców w sektorze transportu drogowego oraz zmieniającej dyrektywę 2006/22/WE w odniesieniu do wymogów w zakresie egzekwowania przepisów oraz rozporządzenie (UE) nr 1024/2012 (Dz. Urz. UE L 249 z 31.07.2020, str. 49), zwanej dalej „dyrektywą 2020/1057”;
+- **1)** na terytorium Rzeczypospolitej Polskiej: do pracy w oddziale lub przedsiębiorstwie należącym do grupy przedsiębiorstw, do której należy pracodawca delegujący kierowcę na terytorium Rzeczypospolitej Polskiej, przez podmiot będący agencją pracy tymczasowej albo agencją wynajmującą personel, który skierował kierowcę do pracodawcy użytkownika, z Konfederacji Szwajcarii, do czasu przyjęcia, w drodze umowy z Unią Europejską, zobowiązania do implementacji do krajowego porządku prawnego przepisów dyrektywy Parlamentu Europejskiego i Rady (UE) 2020/1057 z dnia 15 lipca 2020 r. ustanawiającej przepisy szczególne w odniesieniu do dyrektywy 96/71/WE i dyrektywy 2014/67/UE dotyczące delegowania kierowców w sektorze transportu drogowego oraz zmieniającej dyrektywę 2006/22/WE w odniesieniu do wymogów w zakresie egzekwowania przepisów oraz rozporządzenie (UE) nr 1024/2012 (Dz. Urz. UE L 249 z 31.07.2020, str. 49), zwanej dalej „dyrektywą 2020/1057”;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **2)** z terytorium Rzeczypospolitej Polskiej:
-    - **a)** do pracy w oddziale lub przedsiębiorstwie należącym do grupy przedsiębiorstw, do której należy pracodawca delegujący kierowcę z terytorium Rzeczypospolitej Polskiej,
-    - **b)** przez podmiot będący agencją pracy tymczasowej,
-    - **c)** na terytorium Konfederacji Szwajcarii, do czasu przyjęcia, w drodze umowy z Unią Europejską, zobowiązania do implementacji do krajowego porządku prawnego przepisów dyrektywy 2020/1057.
+- **2)** z terytorium Rzeczypospolitej Polskiej: do pracy w oddziale lub przedsiębiorstwie należącym do grupy przedsiębiorstw, do której należy pracodawca delegujący kierowcę z terytorium Rzeczypospolitej Polskiej, przez podmiot będący agencją pracy tymczasowej, na terytorium Konfederacji Szwajcarii, do czasu przyjęcia, w drodze umowy z Unią Europejską, zobowiązania do implementacji do krajowego porządku prawnego przepisów dyrektywy 2020/1057.
+    - **a)**
+    - **b)**
+    - **c)**
 
 2. Do kierowców, o których mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 10 czerwca 2016 r. o delegowaniu pracowników w ramach świadczenia usług.
 
 3. Do przewoźnika drogowego, który deleguje na terytorium Rzeczypospolitej Polskiej kierowcę, o którym mowa w ust. 1 pkt 1, stosuje się odpowiednio przepis art. 29.
 
 **Art. 3.** Użyte w ustawie określenia oznaczają:
+
+- **1)** dzień roboczy – dzień kalendarzowy z wyjątkiem sobót oraz dni wolnych od pracy określonych w przepisach ustawy z dnia 18 stycznia 1951 r. o dniach wolnych od pracy (Dz. U. z 2020 r. poz. 1920);
+- **2)** organ wnioskujący – właściwy organ państwa członkowskiego, który składa wniosek o powiadomienie o decyzji o nałożeniu administracyjnej kary pieniężnej lub grzywny administracyjnej w związku z naruszeniem przepisów dotyczących delegowania kierowców na terytorium Rzeczypospolitej Polskiej i z tego terytorium lub o egzekucję takiej kary lub grzywny;
+- **3)** państwo członkowskie – państwo członkowskie Unii Europejskiej oraz państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym, a także państwo, które przyjęło, w drodze umowy z Unią Europejską, zobowiązanie do implementacji do krajowego porządku prawnego przepisów dyrektywy 2020/1057;
+- **4)** przewoźnik drogowy – przewoźnika drogowego w rozumieniu art. 4 pkt 15 i 16 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 2201 oraz z 2023 r. poz. 760, 919, 1123, 1193 i 1195);
+- **5)** przewoźnik drogowy delegujący kierowcę na terytorium Rzeczypospolitej Polskiej – przewoźnika drogowego mającego siedzibę w innym państwie członkowskim, który kieruje tymczasowo kierowcę będącego jego pracownikiem do pracy na terytorium Rzeczypospolitej Polskiej, w związku z realizacją usługi transportu drogowego przez tego przewoźnika;
+- **6)** przewoźnik drogowy delegujący kierowcę z terytorium Rzeczypospolitej Polskiej – przewoźnika drogowego mającego siedzibę na terytorium Rzeczypospolitej Polskiej, który kieruje tymczasowo kierowcę będącego jego pracownikiem w rozumieniu przepisów państwa członkowskiego, do którego jest delegowany, do pracy na terytorium tego państwa, w związku z realizacją usługi transportu drogowego przez tego przewoźnika;
+- **7)** kierowca delegowany na terytorium Rzeczypospolitej Polskiej – kierowcę zatrudnionego w warunkach odpowiadających warunkom określonym w art. 22 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465) w innym państwie członkowskim, tymczasowo skierowanego do pracy na terytorium Rzeczypospolitej Polskiej przez przewoźnika drogowego delegującego kierowcę na terytorium Rzeczypospolitej Polskiej;
+- **8)** kierowca delegowany z terytorium Rzeczypospolitej Polskiej – kierowcę będącego pracownikiem w rozumieniu przepisów państwa członkowskiego, do którego jest delegowany, tymczasowo skierowanego do pracy na terytorium tego państwa przez przewoźnika drogowego delegującego kierowcę z terytorium Rzeczypospolitej Polskiej;
+- **9)** państwo trzecie – państwo inne niż państwo członkowskie oraz inne niż Konfederacja Szwajcarii;
+- **10)** przewoźnik drogowy z państwa trzeciego delegujący kierowcę na terytorium Rzeczypospolitej Polskiej – przewoźnika drogowego mającego siedzibę w państwie trzecim, który w związku z realizacją usługi transportu drogowego kieruje tymczasowo kierowcę na terytorium Rzeczypospolitej Polskiej;
+- **11)** kierowca delegowany na terytorium Rzeczypospolitej Polskiej z państwa trzeciego – kierowcę tymczasowo skierowanego na terytorium Rzeczypospolitej Polskiej przez przewoźnika drogowego z państwa trzeciego delegującego kierowcę na terytorium Rzeczypospolitej Polskiej w związku z realizacją usługi transportu drogowego przez tego przewoźnika;
+- **12)** przewóz dwustronny rzeczy – przewóz rzeczy na podstawie umowy przewozu, z państwa członkowskiego siedziby w rozumieniu art. 2 pkt 8 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1071/2009 z dnia 21 października 2009 r. ustanawiającego wspólne zasady dotyczące warunków wykonywania zawodu przewoźnika drogowego i uchylającego dyrektywę Rady 96/26/WE (Dz. Urz. UE L 300 z 14.11.2009, str. 51, z późn. zm.), zwanego dalej „rozporządzeniem (WE) nr 1071/2009”, do innego państwa członkowskiego lub państwa trzeciego lub z innego państwa członkowskiego lub państwa trzeciego do państwa członkowskiego siedziby;
+- **13)** przewóz dwustronny osób – przewóz w ramach międzynarodowego okazjonalnego lub regularnego przewozu osób w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1073/2009 z dnia 21 października 2009 r. w sprawie wspólnych zasad dostępu do międzynarodowego rynku usług autokarowych i autobusowych i zmieniającego rozporządzenie (WE) nr 561/2006 (Dz. Urz. UE L 300 z 14.11.2009, str. 88, z późn. zm.), zwanego dalej „rozporządzeniem (WE) nr 1073/2009”, podczas którego kierowca wykonuje jedną z następujących czynności: zabiera pasażerów w państwie członkowskim siedziby przewoźnika drogowego i wysadza ich w innym państwie członkowskim lub państwie trzecim, zabiera pasażerów w państwie członkowskim lub państwie trzecim i wysadza ich w państwie członkowskim siedziby przewoźnika drogowego lub zabiera i wysadza pasażerów w państwie członkowskim siedziby przewoźnika drogowego w celu przeprowadzania wycieczek lokalnych w innym państwie członkowskim lub państwie trzecim zgodnie z rozporządzeniem (WE) nr 1073/2009;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **14)** przejazd tranzytem – przewóz drogowy rzeczy lub przewóz drogowy osób przez terytorium państwa członkowskiego, w ramach którego kierowca nie wykonuje załadunku ani rozładunku oraz nie zabiera ani nie wysadza pasażerów;
+- **15)** przewóz kabotażowy – przewóz kabotażowy w rozumieniu art. 2 pkt 6 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1072/2009 z dnia 21 października 2009 r. dotyczącego wspólnych zasad dostępu do rynku międzynarodowych przewozów drogowych (Dz. Urz. UE L 300 z 14.11.2009, str. 72, z późn. zm.), zwanego dalej „rozporządzeniem (WE) nr 1072/2009”, oraz art. 2 pkt 7 rozporządzenia (WE) nr 1073/2009;
+- **16)** transport kombinowany – transport kombinowany w rozumieniu art. 4 pkt 13 ustawy z dnia 6 września 2001 r. o transporcie drogowym;
+- **17)** system IMI – system wymiany informacji na rynku wewnętrznym, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1024/2012 z dnia 25 października 2012 r. w sprawie współpracy administracyjnej za pośrednictwem systemu wymiany informacji na rynku wewnętrznym i uchylającym decyzję Komisji 2008/49/WE („rozporządzenie w sprawie IMI”) (Dz. Urz. UE L 316 z 14.11.2012, str. 1, z późn. zm.).
 
 **Art. 4.**
 
@@ -75,7 +139,7 @@ Art. 37–44. (pominięte)
 - **5)** w trakcie przewozu dwustronnego osób dodatkowo jednokrotnie zabiera pasażerów lub jednokrotnie wysadza pasażerów na terytorium Rzeczypospolitej Polskiej, innego państwa członkowskiego lub państwa trzeciego, przez które przejeżdża, pod warunkiem że przewóz osób nie jest wykonywany między dwoma miejscami położonymi na terytorium tego samego państwa członkowskiego; to samo dotyczy przejazdu powrotnego;
 - **6)** wykonuje przewóz drogowy rzeczy na początkowym lub końcowym odcinku transportu kombinowanego, jeżeli ten odcinek sam w sobie składa się z przewozów dwustronnych rzeczy.
 
-2. Wyłączenia, o których mowa w ust. 1 pkt 3–5, stosuje się wyłącznie do kierowców pojazdów wyposażonych w inteligentne tachografy zgodnie z art. 8– 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 165/2014 z dnia 4 lutego 2014 r. w sprawie tachografów stosowanych w transporcie drogowym i uchylającego rozporządzenie Rady (EWG) nr 3821/85 w sprawie urządzeń rejestrujących stosowanych w transporcie drogowym oraz zmieniającego rozporządzenie (WE) nr 561/2006 Parlamentu Europejskiego i Rady w sprawie harmonizacji niektórych przepisów socjalnych odnoszących się do transportu drogowego (Dz. Urz. UE L 60 z 28.02.2014, str. 1 oraz Dz. Urz. UE L 249 z 31.07.2020, str. 1), zwanego dalej „rozporządzeniem (UE) nr 165/2014”.
+2. Wyłączenia, o których mowa w ust. 1 pkt 3–5, stosuje się wyłącznie do kierowców pojazdów wyposażonych w inteligentne tachografy zgodnie z art. 8–10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 165/2014 z dnia 4 lutego 2014 r. w sprawie tachografów stosowanych w transporcie drogowym i uchylającego rozporządzenie Rady (EWG) nr 3821/85 w sprawie urządzeń rejestrujących stosowanych w transporcie drogowym oraz zmieniającego rozporządzenie (WE) nr 561/2006 Parlamentu Europejskiego i Rady w sprawie harmonizacji niektórych przepisów socjalnych odnoszących się do transportu drogowego (Dz. Urz. UE L 60 z 28.02.2014, str. 1 oraz Dz. Urz. UE L 249 z 31.07.2020, str. 1), zwanego dalej „rozporządzeniem (UE) nr 165/2014”.
 
 3. Kierowcy, o których mowa w ust. 1 i 2, nie są pracownikami delegowanymi w rozumieniu przepisów ustawy z dnia 10 czerwca 2016 r. o delegowaniu pracowników w ramach świadczenia usług.
 
@@ -93,7 +157,7 @@ Art. 37–44. (pominięte)
 
 1. Przewoźnik drogowy delegujący kierowcę na terytorium Rzeczypospolitej Polskiej zapewnia takiemu kierowcy warunki zatrudnienia, o których mowa w art. 4–4b ustawy z dnia 10 czerwca 2016 r. o delegowaniu pracowników w ramach świadczenia usług.
 
-2. Przewoźnik drogowy z państwa trzeciego delegujący kierowcę na terytorium Rzeczypospolitej Polskiej zapewnia takiemu kierowcy warunki zatrudnienia, o których mowa w art. 4–4b ustawy z dnia 10 czerwca 2016 r. o delegowaniu pracowników w ramach świadczenia usług, z zastrzeżeniem art. 139a ust. 3 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2024 r. poz. 769, 1222 i 1688 oraz z 2025 r. poz. 619, 621 i 622).
+2. Przewoźnik drogowy z państwa trzeciego delegujący kierowcę na terytorium Rzeczypospolitej Polskiej zapewnia takiemu kierowcy warunki zatrudnienia, o których mowa w art. 4–4b ustawy z dnia 10 czerwca 2016 r. o delegowaniu pracowników w ramach świadczenia usług, z zastrzeżeniem art. 139a ust. 3 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2023 r. poz. 519, 185 i 547).
 
 **Art. 8.**
 
@@ -120,8 +184,8 @@ Art. 37–44. (pominięte)
 3. Przewoźnik drogowy delegujący kierowcę na terytorium Rzeczypospolitej Polskiej jest obowiązany zapewnić, aby kierowca podczas delegowania dysponował następującymi dokumentami w postaci papierowej lub elektronicznej:
 
 - **1)** kopią zgłoszenia delegowania, o którym mowa w ust. 1;
-- **2)** dowodami potwierdzającymi wykonywanie przewozów drogowych na terytorium Rzeczypospolitej Polskiej, w szczególności w postaci listów przewozowych, dowodów, o których mowa w art. 8 ust. 3 rozporządzenia (WE) nr 1072/2009, odpowiedniego zezwolenia, wypisu z zezwolenia wraz z obowiązującym rozkładem jazdy, formularza jazdy, odpowiedniej decyzji lub kopii umowy na realizowany przewóz, o których mowa w art. 87 ust. 1 pkt 2 lit. a–d i g ustawy z dnia 6 września 2001 r. o transporcie drogowym, o ile są wymagane;
-- **3)** zapisami tachografu, zawierającymi w szczególności symbole państw członkowskich, w których kierowca przebywał podczas wykonywania przewozów międzynarodowych lub przewozów kabotażowych, zgodnie z wymogami dotyczącymi rejestracji i prowadzenia dokumentacji na podstawie rozporządzenia (WE) nr 561/2006 Parlamentu Europejskiego i Rady z dnia 15 marca 2006 r. w sprawie harmonizacji niektórych przepisów socjalnych odnoszących się do transportu drogowego oraz zmieniającego rozporządzenia Rady (EWG) nr 3821/85 i (WE) nr 2135/98, jak również uchylającego rozporządzenie Rady (EWG) nr 3820/85 (Dz. Urz. UE L 102 z 11.04.2006, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem (WE) nr 561/2006”, oraz rozporządzenia (UE) nr 165/2014.
+- **2)** dowodami potwierdzającymi wykonywanie przewozów drogowych na terytorium Rzeczypospolitej Polskiej, w szczególności w postaci listów przewozowych, dowodów, o których mowa w art. 8 ust. 3 rozporządzenia (WE) nr 1072/2009, odpowiedniego zezwolenia, wypisu z zezwolenia wraz z obowiązującym rozkładem jazdy, formularza jazdy, odpowiedniej decyzji lub kopii umowy na realizowany przewóz, o których mowa w art. 87 ust. 1 pkt 2 lit. a-d i g ustawy z dnia 6 września 2001 r. o transporcie drogowym, o ile są wymagane;
+- **3)** zapisami tachografu, zawierającymi w szczególności symbole państw członkowskich, w których kierowca przebywał podczas wykonywania przewozów międzynarodowych lub przewozów kabotażowych, zgodnie z wymogami dotyczącymi rejestracji i prowadzenia dokumentacji na podstawie rozporządzenia (WE) nr 561/2006 Parlamentu Europejskiego i Rady z dnia 15 marca 2006 r. w sprawie harmonizacji niektórych przepisów socjalnych odnoszących się do transportu drogowego oraz zmieniającego rozporządzenia Rady (EWG) nr 3821/85 i (WE) nr 2135/98, jak również uchylającego rozporządzenie Rady (EWG) nr 3820/85 (Dz. Urz. UE L 102 z 11.04.2006, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem (WE) nr 561/2006”, oraz rozporządzenia (UE) nr 165/2014.
 
 4. Przewoźnik drogowy delegujący kierowcę na terytorium Rzeczypospolitej Polskiej jest obowiązany do przesłania, przy użyciu interfejsu publicznego połączonego z systemem IMI, na wniosek organu, o którym mowa w art. 22 ust. 1 lub 2, po okresie delegowania, kopii dokumentów, o których mowa w ust. 3 pkt 2 i 3, oraz dokumentacji dotyczącej wynagrodzenia kierowcy należnego za okres delegowania, umowy o pracę albo dokumentu równoważnego z taką umową, ewidencji czasu pracy kierowcy oraz dowodów wypłaty wynagrodzenia, w terminie 8 tygodni od dnia złożenia wniosku.
 
@@ -190,10 +254,10 @@ Art. 37–44. (pominięte)
 
 1. Kontrola drogowa delegowania kierowców przez przewoźników drogowych delegujących kierowców na terytorium Rzeczypospolitej Polskiej polega na sprawdzeniu przestrzegania:
 
-- **1)** przez przewoźnika drogowego delegującego kierowcę na terytorium Rzeczypospolitej Polskiej obowiązków w zakresie:
-    - **a)** dokonania i aktualizacji zgłoszenia delegowania, o którym mowa w art. 9 ust. 1,
-    - **b)** zgodności danych zawartych w zgłoszeniu delegowania, o którym mowa w art. 9 ust. 1, ze stanem faktycznym,
-    - **c)** wyposażenia kierowcy delegowanego na terytorium Rzeczypospolitej Polskiej w dokumenty, o których mowa w art. 9 ust. 3;
+- **1)** przez przewoźnika drogowego delegującego kierowcę na terytorium Rzeczypospolitej Polskiej obowiązków w zakresie: dokonania i aktualizacji zgłoszenia delegowania, o którym mowa w art. 9 ust. 1, zgodności danych zawartych w zgłoszeniu delegowania, o którym mowa w art. 9 ust. 1, ze stanem faktycznym, wyposażenia kierowcy delegowanego na terytorium Rzeczypospolitej Polskiej w dokumenty, o których mowa w art. 9 ust. 3;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **2)** przez kierowcę delegowanego na terytorium Rzeczypospolitej Polskiej obowiązku, o którym mowa w art. 10.
 
@@ -282,15 +346,13 @@ Art. 37–44. (pominięte)
 
 6. W przypadku gdy wysokość nałożonej administracyjnej kary pieniężnej jest niższa od wysokości pobranej kaucji, do powstałej różnicy stosuje się odpowiednio przepis ust. 5 pkt 2.
 
-7. Jeżeli w przypadku, o którym mowa w ust. 1, nie pobrano kaucji, inspektor Inspekcji Transportu Drogowego kieruje lub usuwa pojazd, na koszt przewoźnika drogowego z państwa trzeciego delegującego kierowcę na terytorium Rzeczypospolitej Polskiej na najbliższy parking strzeżony, o którym mowa w art. 130a ust. 5c ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251).
+7. Jeżeli w przypadku, o którym mowa w ust. 1, nie pobrano kaucji, inspektor Inspekcji Transportu Drogowego kieruje lub usuwa pojazd, na koszt przewoźnika drogowego z państwa trzeciego delegującego kierowcę na terytorium Rzeczypospolitej Polskiej na najbliższy parking strzeżony, o którym mowa w art. 130a ust. 5c ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm.).
 
 8. W zakresie postępowania w związku z usuwaniem pojazdu stosuje się odpowiednio przepisy art. 130a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
 
 9. Zwrot pojazdu z parkingu następuje po okazaniu dowodu uiszczenia opłaty, o której mowa w art. 130a ust. 5c ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, oraz dowodu uiszczenia kaucji na zasadach określonych w ust. 2.
 
-10. Jeżeli pojazd nie zostanie odebrany z parkingu w terminie 30 dni od dnia, w którym decyzja o nałożeniu administracyjnej kary pieniężnej stała się ostateczna, stosuje się odpowiednio przepisy działu II rozdziału 6 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2025 r. poz. 132 i
-
-- **620)** dotyczące egzekucji należności pieniężnych z ruchomości.
+10. Jeżeli pojazd nie zostanie odebrany z parkingu w terminie 30 dni od dnia, w którym decyzja o nałożeniu administracyjnej kary pieniężnej stała się ostateczna, stosuje się odpowiednio przepisy działu II rozdziału 6 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm.) dotyczące egzekucji należności pieniężnych z ruchomości.
 
 **Art. 26.**
 
@@ -313,7 +375,7 @@ Art. 37–44. (pominięte)
 3. Przewoźnik drogowy delegujący kierowcę z terytorium Rzeczypospolitej Polskiej jest obowiązany do niezwłocznego przekazania na wniosek:
 
 - **1)** Państwowej Inspekcji Pracy – kopii dokumentów, o których mowa w ust. 1, lub
-- **2)** wojewódzkiego inspektora transportu drogowego – kopii dokumentów, o których mowa w ust. 1 pkt 1 i 2 – nie później niż w terminie 7 dni od dnia otrzymania wniosku.
+- **2)** wojewódzkiego inspektora transportu drogowego – kopii dokumentów, o których mowa w ust. 1 pkt 1 i 2 nie później niż w terminie 7 dni od dnia otrzymania wniosku.
 
 4. Odpowiedź na wniosek, o którym mowa w ust. 1, Państwowa Inspekcja Pracy przekazuje właściwemu organowi innego państwa członkowskiego w terminie 25 dni roboczych od dnia otrzymania wniosku.
 
@@ -379,7 +441,7 @@ Art. 37–44. (pominięte)
 
 3. Prawo do nakładania i pobierania kary grzywny w drodze mandatu karnego za czyny, o których mowa w ust. 1 i 2, przysługuje inspektorom Inspekcji Transportu Drogowego.
 
-4. Orzekanie w sprawach nałożenia kar grzywny, o których mowa w ust. 1 i 2, następuje w trybie określonym w ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977 i 1544 oraz z 2025 r. poz. 620 i 621).
+4. Orzekanie w sprawach nałożenia kar grzywny, o których mowa w ust. 1 i 2, następuje w trybie określonym w ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
 
 5. Naruszenie, o którym mowa w ust. 1, wypełnia znamiona grupy naruszeń nr 14.4 oraz stanowi bardzo poważne naruszenie (BPN), zgodnie z wagą naruszeń wskazanych w załączniku I do rozporządzenia Komisji (UE) 2016/403 z dnia 18 marca 2016 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 1071/2009 w odniesieniu do klasyfikacji poważnych naruszeń przepisów unijnych, które mogą prowadzić do utraty dobrej reputacji przez przewoźnika drogowego, oraz zmieniającego załącznik III do dyrektywy 2006/22/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 74 z 19.03.2016, str. 8 oraz Dz. Urz. UE L 129 z 03.05.2022, str. 22), zwanego dalej „rozporządzeniem Komisji (UE) 2016/403”.
 
@@ -402,7 +464,7 @@ Art. 37–44. (pominięte)
 1. Przewoźnik drogowy delegujący kierowcę z terytorium Rzeczypospolitej Polskiej, który dwukrotnie w ciągu roku bez wskazania uzasadnionych okoliczności:
 
 - **1)** nie przekazuje dokumentów określonych we wniosku, o którym mowa w art. 27 ust. 3, w terminie, o którym mowa w tym przepisie,
-- **2)** nie udziela informacji na żądanie Państwowej Inspekcji Pracy, o których mowa w art. 27 ust. 5 – podlega karze pieniężnej w wysokości 3000 zł.
+- **2)** nie udziela informacji na żądanie Państwowej Inspekcji Pracy, o których mowa w art. 27 ust. 5 podlega karze pieniężnej w wysokości 3000 zł.
 
 2. Karę pieniężną, o której mowa w ust. 1, nakłada, w drodze decyzji administracyjnej, właściwy organ, który wystąpił z wnioskiem, o którym mowa w art. 27 ust. 3, lub z żądaniem Państwowej Inspekcji Pracy, o którym mowa w art. 12 ust. 1 ustawy z dnia 10 czerwca 2016 r. o delegowaniu pracowników w ramach świadczenia usług.
 
@@ -424,6 +486,246 @@ Art. 37–44. (pominięte)
 
 #### Rozdział 8 Przepisy zmieniające
 
+**Art. 37.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 w § 1 w pkt 8 w lit. h średnik zastępuje się przecinkiem i dodaje się lit. i w brzmieniu: „ administracyjnych kar pieniężnych lub grzywien administracyjnych nałożonych na przewoźnika drogowego delegującego kierowcę z terytorium Rzeczypospolitej Polskiej; ” ;
+    - **i)**
+
+- **2)** w art. 5 w § 2a po wyrazach „o których mowa w art. 2 § 1 pkt 8 lit. g” dodaje się wyrazy „oraz i”;
+- **3)** w art. 15 w § 3b wyrazy „o których mowa w art. 2 § 1 pkt 8 lit. g i h” zastępuje się wyrazami „o których mowa w art. 2 § 1 pkt 8 lit. g, h oraz i”;
+- **4)** w art. 27 w § 1 w pkt 14 po wyrazach „o której mowa w art. 2 § 1 pkt 8 lit. g” dodaje się wyrazy „oraz i”;
+- **5)** w art. 28b w § 1a po wyrazach „o której mowa w art. 2 § 1 pkt 8 lit. g” dodaje się wyrazy „oraz i”;
+- **6)** w art. 32a w § 3a po wyrazach „o których mowa w art. 2 § 1 pkt 8 lit. g” dodaje się wyrazy „oraz i”;
+- **7)** w art. 35 w § 2a po wyrazach „o których mowa w art. 2 § 1 pkt 8 lit. g” dodaje się wyrazy „oraz i”;
+- **8)** w art. 62 w § 5 po wyrazach „o której mowa w art. 2 § 1 pkt 8 lit. g” dodaje się wyrazy „oraz i”;
+- **9)** w art. 64c w § 7 po wyrazach „o których mowa w art. 2 § 1 pkt 8 lit. g” dodaje się wyrazy „oraz i”;
+- **10)** w art. 64e: w § 9 po wyrazach „o których mowa w art. 2 § 1 pkt 8 lit. g” dodaje się wyrazy „oraz i”, w § 10 w pkt 2 po wyrazach „o których mowa w art. 2 § 1 pkt 8 lit. g” dodaje się wyrazy „oraz i”;
+    - **a)**
+    - **b)**
+
+- **11)** w art. 166c w § 2 wyrazy „o których mowa w art. 2 § 1 pkt 8 lit. g i h” zastępuje się wyrazami „o których mowa w art. 2 § 1 pkt 8 lit. g, h oraz i”.
+
+**Art. 38.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm.) w art. 21:
+
+- **1)** w ust. 1: w pkt 16 w części wspólnej wyrazy „z zastrzeżeniem ust. 13” zastępuje się wyrazami „z zastrzeżeniem ust. 13 i 15c”, pkt 20 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **20)** część przychodów osób, o których mowa w art. 3 ust. 1, przebywających czasowo za granicą i uzyskujących w związku z tym pobytem przychody ze stosunku służbowego, stosunku pracy, pracy nakładczej oraz spółdzielczego stosunku pracy, za każdy dzień pobytu za granicą, w którym podatnik pozostawał w stosunku służbowym, stosunku pracy, pracy nakładczej oraz spółdzielczym stosunku pracy, w kwocie odpowiadającej 30% diety określonej w przepisach w sprawie wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej poza granicami kraju, z zastrzeżeniem ust. 15 i 15c; ” , po pkt 23c dodaje się pkt 23d w brzmieniu: „
+    - **c)**
+
+- **23d)** przychody ze stosunku pracy oraz umowy zlecenia, o których mowa w art. 13 pkt 8, otrzymane przez kierowcę z tytułu wykonywania międzynarodowych przewozów drogowych na podstawie tego stosunku lub tej umowy, w wysokości stanowiącej równowartość 20 euro za każdy dzień pobytu kierowcy za granicą, przy czym dni pobytu za granicą ustala się zgodnie z ustawą z dnia 16 kwietnia 2004 r. o czasie pracy kierowców (Dz. U. z 2022 r. poz. 1473 oraz z 2023 r. poz. 1523), oraz zwrot kosztów: noclegu, o którym mowa w art. 8 ust. 8 rozporządzenia (WE) nr 561/2006 wymienionego w art. 1 pkt 1a ustawy z dnia 16 kwietnia 2004 r. o czasie pracy kierowców, podróży do miejsca rozpoczęcia międzynarodowego przewozu drogowego środkami transportu innymi niż pojazd będący w dyspozycji pracodawcy lub podmiotu, na rzecz którego kierowca wykonuje międzynarodowy przewóz drogowy, niezbędnych udokumentowanych wydatków określonych lub uznanych przez pracodawcę lub podmiot, na rzecz którego kierowca wykonuje międzynarodowy przewóz drogowy, odpowiednio do uzasadnionych potrzeb w wysokości nieprzekraczającej kwoty wydatków faktycznie poniesionych i udokumentowanych przez kierowcę, korzystania z urządzeń sanitarnych, określonych na podstawie średnich nieudokumentowanych kosztów takich usług oferowanych w ogólnodostępnych miejscach obsługi podróżnych w państwach, w których kierowca wykonuje zadania służbowe; ” ;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **2)** po ust. 15b dodaje się ust. 15c w brzmieniu: „
+
+15c. Zwolnienia, o których mowa w ust. 1 pkt 16 i 20, nie mają zastosowania do przychodów otrzymanych przez kierowcę z tytułu wykonywania międzynarodowych przewozów drogowych na podstawie stosunku pracy lub umowy zlecenia, o której mowa w art. 13 pkt 8. ” .
+
+**Art. 39.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 2201 oraz z 2023 r. poz. 760, 919, 1123, 1193 i 1195) wprowadza się następujące zmiany:
+
+- **1)** w art. 3 w ust. 1a dodaje się pkt 4 w brzmieniu: „
+- **4)** przestrzegania przepisów dotyczących delegowania kierowców w transporcie drogowym na zasadach określonych w ustawie z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym (Dz. U. poz. 1523). ” ;
+- **2)** w art. 4: po pkt 21a dodaje się pkt 21b w brzmieniu: „
+    - **a)**
+
+- **21b)** zezwolenie na odstępstwo – zezwolenie na odstępstwo od zakazu przewozu drogowego towarów, wydane przez właściwy organ państwa członkowskiego Unii Europejskiej na podstawie art. 1zc rozporządzenia Rady (WE) nr 765/2006 z dnia 18 maja 2006 r. dotyczącego środków ograniczających w związku z sytuacją na Białorusi i udziałem Białorusi w agresji Rosji wobec Ukrainy (Dz. Urz. UE L 134 z 20.05.2006, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 765/2006”, lub art. 3l rozporządzenia Rady (UE) nr 833/2014 z dnia 31 lipca 2014 r. dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie (Dz. Urz. UE L 229 z 31.07.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 833/2014”; ” , w pkt 22: – po lit. h dodaje się lit. ha i hb w brzmieniu: „ ha) rozporządzenia 765/2006, hb) rozporządzenia 833/2014, ” , – w lit. y średnik zastępuje się przecinkiem i dodaje się lit. z w brzmieniu: „ z) ustawy z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym; ” ;
+    - **b)**
+
+- **3)** w art. 14a ust. 1–3 otrzymują brzmienie: „
+
+1. Przewoźnik drogowy może zawiesić, w całości albo w części, wykonywanie transportu drogowego łącznie na okres nie dłuższy niż 36 miesięcy, w okresie każdych następujących po sobie 10 lat, licząc od dnia uzyskania licencji lub zezwolenia na wykonywanie zawodu przewoźnika drogowego, jednak nie dłużej niż na okres, na jaki zostało wydane to uprawnienie.
+
+2. Przewoźnik drogowy zawieszający wykonywanie transportu drogowego jest obowiązany w terminie 14 dni od dnia, w którym rozpoczęty został okres zawieszenia:
+
+- **1)** zawiadomić organ, który udzielił zezwolenia na wykonywanie zawodu przewoźnika drogowego lub licencji, o zawieszeniu wykonywania transportu drogowego; w zawiadomieniu podaje się: okres, na który zawieszono wykonywanie transportu drogowego, liczbę wypisów z zezwolenia na wykonywanie zawodu przewoźnika drogowego lub liczbę wypisów z licencji odpowiadającą liczbie pojazdów samochodowych, którymi zaprzestano wykonywania przewozów drogowych – w przypadku częściowego zawieszenia wykonywania transportu drogowego;
+    - **a)**
+    - **b)**
+
+- **2)** zwrócić do organu, który udzielił zezwolenia na wykonywanie zawodu przewoźnika drogowego lub licencji: wszystkie wypisy z zezwolenia na wykonywanie zawodu przewoźnika drogowego lub wszystkie wypisy z licencji – w przypadku zawieszenia wykonywania transportu drogowego w całości, wypisy z zezwolenia na wykonywanie zawodu przewoźnika drogowego lub wypisy z licencji odpowiadające liczbie pojazdów samochodowych, którymi zaprzestano wykonywania przewozów drogowych – w przypadku częściowego zawieszenia wykonywania transportu drogowego.
+    - **a)**
+    - **b)**
+
+3. Organ, który udzielił zezwolenia na wykonywanie zawodu przewoźnika drogowego lub licencji, wydaje z urzędu zwrócone wypisy z zezwolenia na wykonywanie zawodu przewoźnika drogowego lub licencję lub wypisy z licencji, w terminie 7 dni przed upływem okresu, na jaki zostało zawieszone wykonywanie transportu drogowego. ” ;
+
+- **4)** po art. 28a dodaje się art. 28b i art. 28c w brzmieniu: „
+
+1. W przypadku gdy do wykonywania międzynarodowego przewozu drogowego rzeczy, o którym mowa w art. 28 ust. 1 i 1a, jest wymagane zezwolenie, o którym mowa w art. 28 ust. 1, albo wielokrotne zagraniczne zezwolenie wydane przez Międzynarodowe Forum Transportu (International Transport Forum), zwane dalej „zezwoleniem EKMT”, a także w przypadku gdy przepisy wiążących Rzeczpospolitą Polską umów międzynarodowych w zakresie przewozu drogowego zwalniają z obowiązku posiadania tych zezwoleń, zagraniczny podmiot wykonujący taki przewóz jest obowiązany przesłać do rejestru zgłoszeń, o którym mowa w art. 4 ust. 1 pkt 1 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. z 2023 r. poz. 104 i 1523), przed rozpoczęciem przewozu na terytorium Rzeczypospolitej Polskiej, zgłoszenie takiego przewozu i uzyskać numer referencyjny dla tego zgłoszenia, o którym mowa w art. 2 pkt 4 tej ustawy, zwany dalej „numerem referencyjnym”.
+
+2. Zagraniczny podmiot wykonujący przewóz kabotażowy rzeczy:
+
+- **1)** o którym mowa w art. 29 ust. 1 lub
+- **2)** w rozumieniu art. 2 pkt 6 rozporządzenia (WE) nr 1072/2009 jest obowiązany przesłać do rejestru zgłoszeń, o którym mowa w art. 4 ust. 1 pkt 1 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi, przed rozpoczęciem przewozu na terytorium Rzeczypospolitej Polskiej, zgłoszenie takiego przewozu i uzyskać numer referencyjny dla tego zgłoszenia.
+
+3. Przepisy art. 8 oraz art. 10a-11 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi stosuje się odpowiednio.
+
+4. Zgłoszenie przewozu, o którym mowa w ust. 1 i 2, zawiera:
+
+- **1)** dane zagranicznego podmiotu wykonującego przewóz drogowy rzeczy obejmujące: imię i nazwisko albo nazwę, adres zamieszkania albo siedziby;
+    - **a)**
+    - **b)**
+
+- **2)** numer identyfikacji podatkowej zagranicznego podmiotu wykonującego przewóz drogowy rzeczy albo numer, za pomocą którego podmiot jest zidentyfikowany na potrzeby podatku od towarów i usług albo podatku od wartości dodanej, jeżeli jest obowiązany go posiadać;
+- **3)** dane nadawcy obejmujące: imię i nazwisko albo nazwę, adres zamieszkania albo siedziby;
+    - **a)**
+    - **b)**
+
+- **4)** dane odbiorcy obejmujące: imię i nazwisko albo nazwę, adres zamieszkania albo siedziby;
+    - **a)**
+    - **b)**
+
+- **5)** planowane miejsce i datę rozpoczęcia przewozu na terytorium Rzeczypospolitej Polskiej;
+- **6)** planowane miejsce i datę zakończenia przewozu na terytorium Rzeczypospolitej Polskiej;
+- **7)** państwo załadunku;
+- **8)** państwo rozładunku;
+- **9)** numer dokumentu przewozowego towarzyszącego przewożonemu towarowi;
+- **10)** numer zezwolenia, o którym mowa w art. 28 ust. 1 lub w art. 29 ust. 1, a w przypadku: wykonywania przewozu drogowego na podstawie zezwolenia EKMT – numer tego zezwolenia, okres ważności, oznaczenie państwa siedziby przewoźnika drogowego, zwolnienia, na podstawie przepisów wiążących Rzeczpospolitą Polską umów międzynarodowych w zakresie przewozu drogowego, z obowiązku posiadania zezwolenia, o którym mowa w art. 28 ust. 1, albo zezwolenia EKMT – podstawę prawną tego zwolnienia;
+    - **a)**
+    - **b)**
+
+- **11)** numery rejestracyjne pojazdów, którymi jest wykonywany przewóz;
+- **12)** numer lokalizatora albo numer urządzenia, o których mowa odpowiednio w art. 2 pkt 3a i 4a ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi.
+
+5. W przypadku wykonywania przewozu kabotażowego rzeczy w rozumieniu art. 2 pkt 6 rozporządzenia (WE) nr 1072/2009 zgłoszenie przewozu nie zawiera danych, o których mowa w ust. 4 pkt 10.
+
+6. Zgłoszenia przewozu do rejestru zgłoszeń, o którym mowa w art. 4 ust. 1 pkt 1 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi, dokonuje się na zasadach i w sposób określony w tej ustawie.
+
+7. W przypadku gdy zagraniczny podmiot wykonujący międzynarodowy przewóz drogowy rzeczy, o którym mowa w ust. 1, w ramach przewozu wykonuje jednocześnie kilka operacji transportowych, dla których jest wymagane posiadanie więcej niż jednego zezwolenia, o którym mowa w art. 28 ust. 1, albo zezwolenie EKMT, lub podstawa prawna zwolnienia z takiego obowiązku jest odmienna, każda taka operacja transportowa wymaga osobnego zgłoszenia.
+
+8. W przypadku gdy zagraniczny podmiot wykonujący przewóz kabotażowy rzeczy, o którym mowa w ust. 2, w ramach przewozu wykonuje kilka operacji transportowych, każda taka operacja transportowa wymaga osobnego zgłoszenia.
+
+9. W przypadku braku zgłoszenia przewozu, o którym mowa w ust. 1 lub 2, do wykonywania którego jest wymagane zezwolenie, o którym mowa w art. 28 ust. 1, zezwolenie, o którym mowa w art. 29 ust. 1, albo zezwolenie EKMT, przejazd uznaje się za wykonywany bez zezwolenia.
+
+1. Zagraniczny podmiot wykonujący przewóz drogowy rzeczy, w przypadku, o którym mowa w art. 28b ust. 1 lub 2, przed rozpoczęciem przewozu na terytorium Rzeczypospolitej Polskiej, jest obowiązany przekazać kierującemu numer referencyjny, dokument zastępujący zgłoszenie, o którym mowa w art. 9 ust. 5 pkt 1 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi, zwany dalej „dokumentem zastępującym zgłoszenie”, i potwierdzenie przyjęcia dokumentu zastępującego zgłoszenie.
+
+2. W przypadku nieotrzymania przez kierującego numeru referencyjnego, dokumentu zastępującego zgłoszenie i potwierdzenia przyjęcia dokumentu zastępującego zgłoszenie, kierujący jest obowiązany odmówić rozpoczęcia przewozu towaru. ” ;
+
+- **5)** w art. 46 w ust. 1 pkt 2 otrzymuje brzmienie: „
+- **2)** wydania zezwolenia EKMT, ” ;
+- **6)** w art. 50 dodaje się pkt 6 w brzmieniu: „
+- **6)** wykonywanie zadań wynikających z ustawy z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym. ” ;
+- **7)** w art. 51 w ust. 5 wyrazy „art. 50 pkt 1 i 4” zastępuje się wyrazami „art. 50 pkt 1, 4 i 6”;
+- **8)** w art. 55 w ust. 1 po pkt 3a dodaje się pkt 3b w brzmieniu: „
+- **3b)** kontroli spełnienia obowiązku, o którym mowa w art. 10a ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi – w przypadku, o którym mowa w art. 28b ust. 1 lub 2; ” ;
+- **9)** w art. 55b w ust. 1 w pkt 13 dodaje się przecinek i dodaje się pkt 14 w brzmieniu: „
+- **14)** Państwowej Inspekcji Pracy ” ;
+- **10)** w art. 56: w ust. 1 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „
+    - **a)**
+
+- **8)** zgodnie z przepisami ustawy z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym. ” , w ust. 3 w zdaniu drugim wyrazy „o których mowa w ust. 1 pkt 1–4, 6 i 7” zastępuje się wyrazami „o których mowa w ust. 1 pkt 1–4 oraz 6–8”;
+    - **b)**
+
+- **11)** w art. 87 w ust. 1: w pkt 3 w lit. j średnik zastępuje się przecinkiem i dodaje się lit. k w brzmieniu: „ zezwolenie na odstępstwo; ” , w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „
+    - **a)**
+    - **k)**
+    - **b)**
+
+- **8)** w przypadku, o którym mowa w art. 28b ust. 1 lub 2 – numer referencyjny albo dokument zastępujący zgłoszenie i potwierdzenie przyjęcia dokumentu zastępującego zgłoszenie. ” ;
+- **12)** w art. 89 w ust. 1 pkt 5 otrzymuje brzmienie: „
+- **5)** upoważnieni pracownicy zarządców dróg publicznych – z wyłączeniem dokumentów, o których mowa w art. 87 ust. 1 pkt 1, pkt 2 lit. a i pkt 8 oraz ust. 4; ” ;
+- **13)** w art. 89a1 po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
+
+1a. W przypadku ujawnienia w trakcie kontroli wykonywania przewozu drogowego rzeczy bez wymaganego zgłoszenia, o którym mowa w art. 28b ust. 1 lub 2, organ uprawniony do kontroli kieruje lub usuwa pojazd samochodowy, na koszt podmiotu wykonującego przewóz, na najbliższy parking strzeżony. Przewóz może być kontynuowany po przesłaniu przez zagraniczny podmiot wykonujący przewóz drogowy rzeczy zgłoszenia i uzyskaniu dla niego numeru referencyjnego.
+
+1b. W przypadku ujawnienia w trakcie kontroli wykonywania międzynarodowego przewozu drogowego rzeczy bez wymaganego zgłoszenia, o którym mowa w art. 28b ust. 1, przepis ust. 1 pkt 1 i ust. 3 stosuje się odpowiednio. ” ;
+
+- **14)** w art. 92a po ust. 10 dodaje się ust. 10a w brzmieniu: „
+
+10a. W przypadku stwierdzenia nieprawidłowości związanych z przewozem towarów, o których mowa w art. 3 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi, w pierwszej kolejności stosuje się przepisy ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi. ” ;
+
+- **15)** po art. 92e dodaje się art. 92f w brzmieniu: „
+
+**Art. 92f.**
+
+1. Kto, będąc kierującym, nie okazuje uprawnionym organom kontroli zezwolenia na odstępstwo podlega karze grzywny w wysokości 2000 zł – za każde naruszenie.
+
+2. Kto, wykonując przewóz drogowy, narusza zakazy, o których mowa w art. 1zc rozporządzenia 765/2006 lub art. 3l rozporządzenia 833/2014, podlega karze pieniężnej w wysokości 100 000 zł – za każdy przewóz drogowy. ” ;
+
+- **16)** w art. 93 w ust. 1 wyrazy „o której mowa w art. 92a ust. 1 i 2, art. 92d oraz art. 92e” zastępuje się wyrazami „o której mowa w art. 92a ust. 1 i 2 oraz art. 92d, art. 92e i art. 92f ust. 2”;
+- **17)** w art. 94 ust. 3 otrzymuje brzmienie: „
+
+3. W przypadku gdy podczas kontroli zostanie stwierdzone naruszenie obowiązków lub warunków przewozu drogowego przez zagraniczny podmiot mający siedzibę lub miejsce zamieszkania w państwie, z którym Rzeczpospolita Polska nie jest związana umową lub porozumieniem o współpracy we wzajemnym dochodzeniu należności bądź możliwość egzekucji należności nie wynika wprost z przepisów międzynarodowych oraz przepisów tego państwa, funkcjonariusz lub pracownik organu przeprowadzającego kontrolę pobiera kaucję w wysokości odpowiadającej przewidywanej karze pieniężnej, określonej w art. 92f ust. 2 lub załączniku nr 3 lub 4 do ustawy. ” ;
+
+- **18)** w załączniku nr 1 po lp. 2 dodaje się lp. 2a w brzmieniu: „ „2a. Wykonywanie przewozu drogowego rzeczy bez okazania numeru referencyjnego, dokumentu zastępującego zgłoszenie lub potwierdzenia przyjęcia dokumentu zastępującego zgłoszenie, w przypadku, o którym mowa w art. 28b ustawy o transporcie drogowym1)”; 1500
+- **19)** w załączniku nr 3 w lp. 3 po pkt 3.2 dodaje się pkt 3.2a i 3.2b w brzmieniu: „ „3.2a. Wykonywanie przewozu drogowego rzeczy bez zgłoszenia do rejestru zgłoszeń, w przypadku o którym mowa w art. 28b ustawy o transporcie drogowym1) albo zgłoszenie danych i informacji niekompletnych lub niezgodnych ze stanem faktycznym 12 000 3.2b. Wykonywanie przewozu drogowego rzeczy, w przypadku o którym mowa w art. 28b ustawy o transporcie drogowym1) z naruszeniem obowiązku, o którym mowa w art. 10a ust. 1 ustawy o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi”. 10 000
+
+**Art. 40.** W ustawie z dnia 16 kwietnia 2004 r. o czasie pracy kierowców (Dz. U. z 2022 r. poz. 1473) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 w pkt 7 w lit. b kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „
+- **8)** przeciętne wynagrodzenie – prognozowane przeciętne wynagrodzenie miesięczne na dany rok kalendarzowy, ogłoszone w trybie art. 19 ust. 10 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2023 r. poz. 1230 i 1429). ” ;
+- **2)** uchyla się art. 21b;
+- **3)** art. 22 otrzymuje brzmienie: „ Przepisy art. 12 ust. 2 i 3, art. 13, art. 21, art. 24 ust. 1 pkt 2 oraz art. 26f-26i nie mają zastosowania do kierowców:
+- **1)** wykonujących przewozy drogowe: rzeczy, gdy dopuszczalna masa całkowita pojazdów łącznie z przyczepą lub naczepą nie przekracza 3,5 tony, rzeczy w międzynarodowym transporcie drogowym lub kabotażowym, gdy dopuszczalna masa całkowita pojazdów łącznie z przyczepą lub naczepą nie przekracza 2,5 tony, osób, pojazdami skonstruowanymi lub trwale przystosowanymi i przeznaczonymi do przewozu nie więcej niż dziewięciu osób łącznie z kierowcą;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** prowadzących pojazdy wymienione w art. 29 ustawy, w art. 3 rozporządzenia (WE) nr 561/2006 oraz w art. 2 ust. 2 Umowy AETR. ” ;
+- **4)** w art. 24 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2–4 w brzmieniu: „
+
+2. W przypadku kierowców wykonujących zadania służbowe w ramach przewozów drogowych nie stosuje się art. 261§ 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
+
+3. Pracodawca może zakazać kierowcy jednoczesnego pozostawania w stosunku pracy z innym pracodawcą lub jednoczesnego pozostawania w stosunku prawnym będącym podstawą świadczenia pracy innym niż stosunek pracy, o ile jest to uzasadnione względami bezpieczeństwa w transporcie drogowym lub koniecznością przestrzegania przepisów socjalnych w transporcie drogowym.
+
+4. W przypadku kierowców wykonujących zadania służbowe w ramach przewozów rzeczy i okazjonalnych przewozów pasażerskich nie stosuje się art. 29 § 3 pkt 1 lit. b ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy. ” ;
+
+- **5)** po rozdziale 3a dodaje się rozdział 3b w brzmieniu: „
+
+#### Rozdział 3b Zasady wynagradzania kierowców wykonujących międzynarodowe przewozy drogowe
+
+**Art. 41.** W ustawie z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy (Dz. U. z 2022 r. poz. 1614) wprowadza się następujące zmiany:
+
+- **1)** w art. 10 w ust. 1 po pkt 14a dodaje się pkt 14aa w brzmieniu: „ 14aa) wykonywanie zadań określonych w ustawie z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym (Dz. U. poz. 1523); ” ;
+- **2)** w art. 13 po pkt 4 dodaje się pkt 4a i 4b w brzmieniu: „
+- **4a)** przewoźnicy drogowi delegujący kierowców na terytorium Rzeczypospolitej Polskiej albo z terytorium Rzeczypospolitej Polskiej oraz kierowcy delegowani na terytorium Rzeczypospolitej Polskiej albo z terytorium Rzeczypospolitej Polskiej, w zakresie określonym w ustawie z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym,
+- **4b)** przewoźnicy drogowi z państwa trzeciego delegujący kierowców na terytorium Rzeczypospolitej Polskiej oraz kierowcy delegowani na terytorium Rzeczypospolitej Polskiej z państwa trzeciego, w zakresie określonym w ustawie z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym, ” ;
+- **3)** w art. 23 w ust. 1 po pkt 5a dodaje się pkt 5b i 5c w brzmieniu: „
+- **5b)** żądania od przewoźnika drogowego delegującego kierowcę na terytorium Rzeczypospolitej Polskiej albo z terytorium Rzeczypospolitej Polskiej lub osoby działającej w jego imieniu informacji lub dokumentów, o których mowa w ustawie z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym;
+- **5c)** żądania od przewoźnika drogowego z państwa trzeciego delegującego kierowcę na terytorium Rzeczypospolitej Polskiej lub osoby działającej w jego imieniu informacji lub dokumentów, o których mowa w ustawie z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym; ” .
+
+**Art. 42.** W ustawie z dnia 10 czerwca 2016 r. o delegowaniu pracowników w ramach świadczenia usług (Dz. U. z 2021 r. poz. 1140 oraz z 2023 r. poz. 641) w art. 2:
+
+- **1)** w ust. 1 uchyla się pkt 2;
+- **2)** uchyla się ust. 2.
+
+**Art. 43.** W ustawie z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. z 2023 r. poz. 104) wprowadza się następujące zmiany:
+
+- **1)** w art. 4 w ust. 5 pkt 1 otrzymuje brzmienie: „
+- **1)** pkt 1 i 2 – są przechowywane przez 5 lat, licząc od końca roku kalendarzowego, w którym dokonano zgłoszenia, z wyjątkiem danych dotyczących zgłoszenia wykonywania międzynarodowego przewozu drogowego rzeczy oraz zgłoszenia wykonywania przewozu kabotażowego rzeczy, o których mowa w art. 28b ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 2201, z późn. zm.), które są przechowywane przez 2 lata, licząc od końca roku kalendarzowego, w którym dokonano zgłoszenia; ” ;
+- **2)** w art. 12: w ust. 2 w pkt 6 dodaje się przecinek i dodaje się pkt 7 w brzmieniu: „
+    - **a)**
+
+- **7)** ministra do spraw transportu ” , w ust. 4 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Szef Krajowej Administracji Skarbowej udostępnia organom, o których mowa w ust. 2 pkt 1–3, 5 i 7 oraz ust. 3, dane z rejestru w drodze teletransmisji, jeżeli dane te są niezbędne do realizacji ich ustawowych zadań i odpowiednio Urząd Regulacji Energetyki, urząd obsługujący ministra do spraw transportu albo jednostka organizacyjna odpowiednio Policji, Inspekcji Transportu Drogowego, Agencji Bezpieczeństwa Wewnętrznego, Centralnego Biura Antykorupcyjnego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego, Straży Granicznej będąca odbiorcą informacji, spełnia łącznie następujące warunki: ” ;
+    - **b)**
+
+- **3)** w art. 18 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 i 3 w brzmieniu: „
+
+2. Zwrot środka transportu, w przypadku międzynarodowego przewozu drogowego rzeczy, o którym mowa w art. 28b ust. 1 ustawy z dnia 6 września 2001 r. o transporcie drogowym, nie może nastąpić przed:
+
+- **1)** dopełnieniem przez przewoźnika drogowego obowiązku zgłoszenia takiego przewozu i uzyskaniu dla niego numeru referencyjnego, oraz
+- **2)** przedstawieniem prawidłowo wypełnionego wymaganego zezwolenia na wykonywanie międzynarodowego przewozu drogowego rzeczy, o ile jest wymagane.
+
+3. Zwrot środka transportu, w przypadku przewozu kabotażowego rzeczy, o którym mowa w art. 28b ust. 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym, nie może nastąpić przed dopełnieniem przez przewoźnika drogowego obowiązku zgłoszenia takiego przewozu i uzyskaniu dla niego numeru referencyjnego. ” .
+
+**Art. 44.** W ustawie z dnia 5 lipca 2018 r. o tachografach (Dz. U. z 2023 r. poz. 324) wprowadza się następujące zmiany:
+
+- **1)** w art. 27 ust. 5 otrzymuje brzmienie: „
+
+5. Dane i informacje zgromadzone w ewidencji udostępnia się:
+
+- **1)** podmiotom uprawnionym do kontroli na podstawie art. 89 ust. 1 pkt 1–4 i 6 ustawy o transporcie drogowym;
+- **2)** podmiotowi wydającemu karty;
+- **3)** organom administracji miar. ” ;
+- **2)** w art. 44 w ust. 3: w pkt 1 w lit. e przecinek zastępuje się średnikiem i uchyla się lit. f, po pkt 1 dodaje się pkt 1a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **1a)** w przypadku czasowej i nieodnawialnej karty kierowcy, o której mowa w art. 26 ust. 4 rozporządzenia (UE) nr 165/2014: oświadczenie podmiotu wykonującego przewozy drogowe mającego siedzibę na terytorium Rzeczypospolitej Polskiej złożone pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia, potwierdzające spełnienie wymagania istnienia stosunku pracy z kierowcą, kopię świadectwa kierowcy, o którym mowa w art. 32a ustawy o transporcie drogowym, o ile do wykonywanych przez podmiot przewozów drogowych ma zastosowanie rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 1072/2009 z dnia 21 października 2009 r. dotyczące wspólnych zasad dostępu do rynku międzynarodowych przewozów drogowych (Dz. Urz. UE L 300 z 14.11.2009, str. 72, z późn. zm.); ” .
+    - **a)**
+    - **b)**
+
 #### Rozdział 9 Przepisy dostosowujące, przejściowe i końcowe
 
 **Art. 45.** Główny Inspektor Transportu Drogowego przekaże Głównemu Inspektorowi Pracy informację, o której mowa w art. 20 ust. 1, dotyczącą kontroli drogowych przeprowadzonych w 2023 r., do dnia 31 stycznia 2024 r.
@@ -434,7 +736,9 @@ Art. 37–44. (pominięte)
 
 **Art. 48.** Przepisy art. 38 stosuje się do dochodów (przychodów) uzyskanych od dnia wejścia w życie ustawy.
 
-**Art. 48a.** Przepisy art. 39 pkt 4, 5, 8, pkt 11 lit. b, pkt 12–14, 18 i 19 oraz art. 43, w zakresie dotyczącym wykonywania międzynarodowego przewozu drogowego rzeczy, o którym mowa w art. 28 ust. 1a ustawy zmienianej w art. 39, stosuje się od dnia 1 stycznia 2025 r.
+**Art. 49.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
-**Art. 49.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem:
+- **1)** art. 4 ust. 2, który wchodzi w życie z dniem 21 sierpnia 2023 r.;
+- **2)** art. 39 pkt 4, 5, 8, pkt 11 lit. b, pkt 12–14, 18 i 19 oraz art. 43, które wchodzą w życie z dniem 1 stycznia 2025 r. Załącznik – Wykaz naruszeń, o których mowa w art. 33 ust. 1, wysokość kary pieniężnej za poszczególne naruszenia oraz numer grupy naruszeń oraz waga naruszeń wskazane w załączniku I do rozporządzenia Komisji (UE) 2016/403 Lp. Naruszenie Wysokość kary pieniężnej (w złotych) Nr grupy naruszeń oraz waga naruszeń, wskazane w załączniku I do rozporządzenia (UE) 2016/403(PN – poważne naruszenie,BPN – bardzo poważne naruszenie,NN najpoważniejsze naruszenie) 1 Zgłoszenie przez przewoźnika drogowego delegującego kierowcę na terytorium Rzeczypospolitej Polskiej informacji, o których mowa w art. 9 ust. 2 ustawy z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym, zwanej dalej „ustawą”, niekompletnych. 4000 14.1 PN 2 Zgłoszenie przez przewoźnika drogowego delegującego kierowcę na terytorium Rzeczypospolitej Polskiej informacji, o których mowa w art. 9 ust. 2 ustawy, niezgodnych ze stanem faktycznym. 4000 3 Zgłoszenie przez przewoźnika drogowego z państwa trzeciego delegującego kierowcę na terytorium Rzeczypospolitej Polskiej z państwa trzeciego informacji, o których mowa w art. 12 ust. 3 ustawy, niekompletnych lub niezgodnych ze stanem faktycznym. 4000 4 Niezłożenie przez przewoźnika drogowego delegującego kierowcę na terytorium Rzeczypospolitej Polskiej zgłoszenia delegowania w sposób i w terminie określonych w art. 9 ust. 1 ustawy. 6000 14.2 BPN 5 Niezłożenie przez przewoźnika drogowego z państwa trzeciego delegującego kierowcę na terytorium Rzeczypospolitej Polskiej z państwa trzeciego zgłoszenia delegowania w sposób i w terminie określonych w art. 12 ust. 1 pkt 1 ustawy. 6000 6 Wyposażenie kierowcy w przerobioną lub podrobioną kopię zgłoszenia delegowania, o której mowa w art. 9 ust. 3 pkt 1 ustawy, albo przerobione lub podrobione potwierdzenie delegowania, o który mowa w art. 12 ust. 1 pkt 2 ustawy. 7000 14.3 BPN 8 Niezapewnienie przez przewoźnika drogowego delegującego kierowcę na terytorium Rzeczypospolitej Polskiej, aby kierowca dysponował kopią zgłoszenia delegowania, o której mowa w art. 9 ust. 3 pkt 1 ustawy. 6000 14.5 BPN 9 Niezapewnienie przez przewoźnika drogowego z państwa trzeciego delegującego kierowcę na terytorium Rzeczypospolitej Polskiej, aby kierowca dysponował potwierdzeniem delegowania, o którym mowa w art. 12 ust. 2 pkt 1 ustawy. 6000 10 Nieprzekazanie przez przewoźnika drogowego delegującego kierowcę na terytorium Rzeczypospolitej Polskiej dokumentacji, o której mowa w art. 9 ust. 4 ustawy, w sposób i w terminie określonych w tym przepisie. 6000 14.6 BPN 11 Nieprzekazanie przez przewoźnika drogowego z państwa trzeciego delegującego kierowcę na terytorium Rzeczypospolitej Polskiej dokumentacji, o której mowa w art. 14 ustawy, w terminie określonym w tym przepisie. 6000 12 Nieaktualizowanie przez przewoźnika drogowego delegującego kierowcę na terytorium Rzeczypospolitej Polskiej zgłoszenia delegowania zgodnie z art. 9 ust. 5 ustawy. 4000 14.7 PN
+
 

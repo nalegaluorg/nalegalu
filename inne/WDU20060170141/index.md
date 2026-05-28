@@ -22,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2006-01-18 |
 | Data wydania | 2006-02-02 |
+| Wejście w życie | 2006-02-02 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060170141) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/141/text.pdf) |
 

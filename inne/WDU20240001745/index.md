@@ -8,10 +8,10 @@ pos: 1745
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 listopada 2024 r.
+# Rozporządzenie Ministra Aktywów Państwowychz dnia 21 listopada 2024 r. zmieniające rozporządzenie w sprawie warunków wykonywania usług powszechnych przez operatora wyznaczonego
 
 | Pole | Wartość |
 |---|---|
@@ -22,21 +22,41 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-21 |
 | Data wydania | 2024-11-28 |
+| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2025-07-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001745) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1745/text.pdf) |
 
-Poz. 1745 ROZPORZĄDZENIE MINISTRA AKTYWÓW PAŃSTWOWYCH z dnia 21 listopada 2024 r.
-zmieniające rozporządzenie w sprawie warunków wykonywania usług powszechnych przez operatora wyznaczonego Na podstawie art. 47 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r.
-poz. 467, 1222 i 1717) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Administracji i Cyfryzacji z dnia 29 kwietnia 2013 r. w sprawie warunków wykonywania usług powszechnych przez operatora wyznaczonego (Dz. U. z 2020 r. poz. 1026) wprowadza się następujące zmiany:
-1) w § 14 uchyla się ust. 2–4;
-2) w § 30 uchyla się ust. 2;
-3) w § 37:
-a) uchyla się ust. 2,
-b) ust. 3 i 4 otrzymują brzmienie: „3. Bieg terminu odbioru rozpoczyna się od dnia następnego po dniu doręczenia zawiadomienia, o którym mowa w § 33, § 34 ust. 1, § 35 ust. 1 oraz § 36 ust. 1.
-4. Placówka oddawcza może przechowywać przesyłkę pocztową przez okres wskazany przez operatora wyznaczonego w regulaminie, z wyłączeniem przesyłek pocztowych nadawanych i doręczanych w sposób, na zasadach i w trybie określonych w przepisach szczególnych, po upływie terminu odbioru, jeżeli adresat złoży w tym zakresie pisemne żądanie.”;
-4) w § 40 uchyla się ust. 2;
-5) załącznik nr 1 otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Do przesyłek pocztowych nadanych i niedoręczonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r.
-Minister Aktywów Państwowych: J. Jaworski Dziennik Ustaw – 2 – Poz. 1745 WSKAŹNIKI CZASU PRZEBIEGU PRZESYŁEK POCZTOWYCH W OBROCIE KRAJOWYM Rodzaj przesyłek Czas przebiegu przesyłek Wskaźnik czasu przebiegu pocztowych przesyłek pocztowych  1 2 3 Przesyłki listowe najszybszej kategorii D+3 90 % Przesyłki listowe niebędące przesyłkami D+5 97 % listowymi najszybszej kategorii Paczki pocztowe najszybszej kategorii D+3 93 % Paczki pocztowe niebędące paczkami D+5 98 % pocztowymi najszybszej kategorii
+Treść rozporządzenia
+Załącznik – Wskaźniki czasu przebiegu przesyłek pocztowych w obrocie krajowym
+Treść rozporządzenia
+Na podstawie art. 47 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467, 1222 i 1717) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Ministra Administracji i Cyfryzacji z dnia 29 kwietnia 2013 r. w sprawie warunków wykonywania usług powszechnych przez operatora wyznaczonego (Dz. U. z 2020 r. poz. 1026) wprowadza się następujące zmiany:
+1)
+w § 14 uchyla się ust. 2–4;
+2)
+w § 30 uchyla się ust. 2;
+3)
+w § 37:
+a)
+uchyla się ust. 2,
+b)
+ust. 3 i 4 otrzymują brzmienie:
+„
+3.
+Bieg terminu odbioru rozpoczyna się od dnia następnego po dniu doręczenia zawiadomienia, o którym mowa w § 33, § 34 ust. 1, § 35 ust. 1 oraz § 36 ust. 1.
+4.
+Placówka oddawcza może przechowywać przesyłkę pocztową przez okres wskazany przez operatora wyznaczonego w regulaminie, z wyłączeniem przesyłek pocztowych nadawanych i doręczanych w sposób, na zasadach i w trybie określonych w przepisach szczególnych, po upływie terminu odbioru, jeżeli adresat złoży w tym zakresie pisemne żądanie.
+” ;
+4)
+w § 40 uchyla się ust. 2;
+5)
+załącznik nr 1 otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+§ 2.
+Do przesyłek pocztowych nadanych i niedoręczonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
+§ 3.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r.
+1) Minister Aktywów Państwowych kieruje działem administracji rządowej – łączność, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. poz. 741).
+Załącznik – Wskaźniki czasu przebiegu przesyłek pocztowych w obrocie krajowym
+Rodzaj przesyłek Czas przebiegu przesyłek pocztowych Wskaźnik czasu przebiegu przesyłek pocztowych*) 1 2 3 Przesyłki listowe najszybszej kategorii D+3 90% Przesyłki listowe niebędące przesyłkami listowymi najszybszej kategorii D+5 97% Paczki pocztowe najszybszej kategorii D+3 93% Paczki pocztowe niebędące paczkami pocztowymi najszybszej kategorii D+5 98% *) Udział liczby przesyłek pocztowych doręczonych w określonym terminie liczonym od dnia nadania do dnia doręczenia (liczba przesyłek pocztowych doręczonych w określonym terminie i w terminach go poprzedzających) do ogólnej liczby nadanych przesyłek pocztowych, wyrażony w procentach. W odniesieniu do przesyłek rejestrowanych za dzień doręczenia uważa się także pozostawienie w skrzynce oddawczej adresata zawiadomienia o próbie doręczenia, jeżeli w chwili doręczenia takiej przesyłki stwierdzono nieobecność adresata lub innych osób uprawnionych do odbioru przesyłki.
 

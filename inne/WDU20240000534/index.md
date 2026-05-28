@@ -8,12 +8,10 @@ pos: 534
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o instytutach badawczych
-
-*USTAWA z dnia 30 kwietnia 2010 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 21 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o instytutach badawczych
 
 | Pole | Wartość |
 |---|---|
@@ -26,6 +24,36 @@ source: "isap-pdf"
 | Data wydania | 2024-04-09 |
 | Ostatnia zmiana | 2026-02-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000534) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/534/text.pdf) |
+
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych Rozdział 1 – Przepisy ogólne Rozdział 2 – Tworzenie, łączenie, podział, reorganizacja, przekształcanie i likwidacja instytutów Rozdział 3 – Zasady gospodarki instytutów Rozdział 4 – Państwowy instytut badawczy Rozdział 5 – Organy instytutu Rozdział 6 – Rada Główna Instytutów Badawczych Rozdział 7 – Nadzór nad działalnością instytutu Rozdział 8 – Centra naukowo-przemysłowe Rozdział 9 – Pracownicy instytutu Rozdział 10 – Przepis końcowy
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2022 r. poz. 498), z uwzględnieniem zmian wprowadzonych ustawą z dnia 28 lipca 2023 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw (Dz. U. poz. 1672) oraz zmian wynikających z przepisów ogłoszonych przed dniem 13 marca 2024 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 24–26 i art. 41 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw (Dz. U. poz. 1672), które stanowią:
+„
+
+**Art. 24.**
+
+1. W 2023 r. instytuty badawcze działają na podstawie planów działalności ustalonych zgodnie z art. 24 ust. 1 pkt 1 ustawy zmienianej w art. 8, w brzmieniu dotychczasowym.
+
+2. W terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy dyrektorzy instytutów badawczych ustalą plany działalności tych instytutów na 2024 r. zgodnie z art. 2a i art. 24 ust. 1 pkt 1 lit. a ustawy zmienianej w art. 8, w brzmieniu nadanym niniejszą ustawą.
+
+**Art. 25.** W terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy instytuty badawcze dostosują postanowienia swoich statutów i regulaminów organizacyjnych do wymogów, o których mowa w art. 6 ust. 2 i 4 oraz art. 30 ust. 1 ustawy zmienianej w art. 8, w brzmieniu nadanym niniejszą ustawą.
+
+**Art. 26.** W przypadku osób, które:
+
+- **1)** w dniu wejścia w życie niniejszej ustawy pełnią funkcję przewodniczącego rady naukowej,
+- **2)** pełniły funkcję przewodniczącego rady naukowej przed dniem wejścia w życie niniejszej ustawy i w dniu jej wejścia w życie są nadal członkami rady naukowej do okresu, o którym mowa w art. 31 ust. 1a ustawy zmienianej w art. 8, nie wlicza się dotychczasowego okresu pełnienia tej funkcji. ” „
+
+**Art. 41.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 13 pkt 3 lit. c, który wchodzi w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 13 pkt 12–15, 17 i 18, które wchodzą w życie z dniem 1 października 2023 r.;
+- **3)** art. 1 pkt 7, art. 5, art. 20–22 i art. 37, które wchodzą w życie z dniem 1 stycznia 2024 r.;
+- **4)** art. 1 pkt 4, 5, 8–10 i pkt 11 w zakresie dodawanego art. 93c, art. 2–4, art. 7 i art. 23, które wchodzą w życie z dniem 1 września 2024 r.;
+- **5)** art. 13 pkt 8 i 9, które wchodzą w życie z dniem 1 października 2024 r. ” . Załącznik – Tekst jednolity ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -54,17 +82,14 @@ source: "isap-pdf"
 - **5)** prowadzić i rozwijać bazy danych związane z przedmiotem działania instytutu;
 - **6)** prowadzić działalność w zakresie informacji naukowej, technicznej i ekonomicznej, wynalazczości oraz ochrony własności przemysłowej i intelektualnej, a także wspierającej innowacyjność przedsiębiorstw;
 - **7)** wytwarzać w związku z prowadzonymi badaniami naukowymi i pracami rozwojowymi aparaturę, urządzenia, materiały i inne wyroby oraz prowadzić walidację metod badawczych, pomiarowych oraz kalibrację aparatury;
-- **8)** prowadzić działalność wydawniczą związaną z prowadzonymi badaniami naukowymi i pracami rozwojowymi;
-- **9)** wspierać ministra właściwego do spraw informatyzacji w wykonywaniu zadań, o których mowa w art. 4 ust. 2 ustawy z dnia 25 czerwca 2025 r. o krajowym systemie certyfikacji cyberbezpieczeństwa (Dz. U. poz. 1017).
+- **8)** prowadzić działalność wydawniczą związaną z prowadzonymi badaniami naukowymi i pracami rozwojowymi.
 
 3. Instytut, poza zadaniami, o których mowa w ust. 1 i 2, może prowadzić:
 
 - **1)** kształcenie w szkole doktorskiej i na studiach podyplomowych, związane z prowadzonymi przez instytut badaniami naukowymi i pracami rozwojowymi,
-- **2)** inne formy kształcenia – na zasadach określonych w ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm. ).
+- **2)** inne formy kształcenia na zasadach określonych w ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.).
 
 4. Instytut może prowadzić działalność inną niż wymieniona w ust. 1–3. Działalność ta jest wyodrębniona pod względem finansowym i rachunkowym z działalności, o której mowa w ust. 1–3.
-
-**Art. 2a.**
 
 1. Instytut działa na podstawie planu działalności.
 
@@ -110,7 +135,7 @@ source: "isap-pdf"
 
 **Art. 7.**
 
-1. Instytut może zostać połączony z innym instytutem, podzielony, zreorganizowany, przekształcony w instytucję gospodarki budżetowej działającą na podstawie ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ) lub zlikwidowany, jeżeli minister nadzorujący uzna, że łączenie, podział, reorganizacja, przekształcenie lub likwidacja instytutu są uzasadnione merytorycznie, organizacyjnie i finansowo, z zastrzeżeniem ust. 4 i 5.
+1. Instytut może zostać połączony z innym instytutem, podzielony, zreorganizowany, przekształcony w instytucję gospodarki budżetowej działającą na podstawie ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.) lub zlikwidowany, jeżeli minister nadzorujący uzna, że łączenie, podział, reorganizacja, przekształcenie lub likwidacja instytutu są uzasadnione merytorycznie, organizacyjnie i finansowo, z zastrzeżeniem ust. 4 i 5.
 
 2. Łączenie, podział, reorganizacja lub likwidacja instytutu może nastąpić również na wspólny wniosek rady naukowej i dyrektora instytutu po zasięgnięciu opinii zakładowych organizacji związkowych złożony ministrowi nadzorującemu.
 
@@ -141,7 +166,7 @@ source: "isap-pdf"
 - **1)** komisyjny tryb ustalenia stanu majątkowego i organizacyjno-prawnego instytutu,
 - **2)** uregulowanie zobowiązań,
 - **3)** zabezpieczenie roszczeń pracowniczych,
-- **4)** zagospodarowanie mienia – mając na celu poprawę jakości prowadzonych badań naukowych i wdrożeń oraz potencjału naukowego instytutu, a także racjonalne gospodarowanie środkami finansowymi oraz majątkiem instytutu.
+- **4)** zagospodarowanie mienia mając na celu poprawę jakości prowadzonych badań naukowych i wdrożeń oraz potencjału naukowego instytutu, a także racjonalne gospodarowanie środkami finansowymi oraz majątkiem instytutu.
 
 **Art. 9.**
 
@@ -164,18 +189,18 @@ source: "isap-pdf"
 
 4. Do instytutu:
 
-- **1)** przekształconego w:
-    - **a)** instytut naukowy Polskiej Akademii Nauk,
-    - **b)** instytut Sieci Łukasiewicz,
+- **1)** przekształconego w: instytut naukowy Polskiej Akademii Nauk, instytut Sieci Łukasiewicz,
+    - **a)**
+    - **b)**
 
-- **2)** włączonego do instytutu naukowego Polskiej Akademii Nauk – stosuje się odpowiednio przepisy o łączeniu instytutów.
+- **2)** włączonego do instytutu naukowego Polskiej Akademii Nauk stosuje się odpowiednio przepisy o łączeniu instytutów.
 
 5. Rada Ministrów określi, w drodze rozporządzenia, kryteria i szczegółowe warunki oraz tryb przekształcania i włączania instytutów, w tym:
 
 - **1)** komisyjny tryb ustalenia stanu majątkowego i organizacyjno-prawnego instytutu,
 - **2)** uregulowanie zobowiązań,
 - **3)** zabezpieczenie roszczeń pracowniczych,
-- **4)** zagospodarowanie mienia – mając na celu zwiększanie potencjału badawczego oraz poprawę jakości prowadzonych badań naukowych i prac rozwojowych, a także racjonalne gospodarowanie środkami finansowymi oraz majątkiem instytutu.
+- **4)** zagospodarowanie mienia mając na celu zwiększanie potencjału badawczego oraz poprawę jakości prowadzonych badań naukowych i prac rozwojowych, a także racjonalne gospodarowanie środkami finansowymi oraz majątkiem instytutu.
 
 **Art. 10.** Rada Ministrów może określić, w drodze rozporządzenia, szczegółowe warunki i tryb działania oraz sposób i warunki tworzenia, łączenia, podziału, reorganizacji i likwidacji instytutów nadzorowanych przez Ministra Obrony Narodowej oraz ministra właściwego do spraw wewnętrznych, uwzględniając potrzeby obronności i bezpieczeństwa państwa oraz specyfikę działania tych instytutów.
 
@@ -207,7 +232,7 @@ source: "isap-pdf"
 
 5. Decyzję o komercjalizacji instytutu może podjąć minister nadzorujący w porozumieniu z ministrem właściwym do spraw szkolnictwa wyższego i nauki, z inicjatywy własnej lub na wniosek dyrektora, po zasięgnięciu opinii rady naukowej.
 
-6. Do pracowników instytutu przekształconego w spółkę handlową stosuje się art. 23 Kodeksu pracy.
+6. Do pracowników instytutu przekształconego w spółkę handlową stosuje się art. 231 Kodeksu pracy.
 
 **Art. 13.**
 
@@ -253,7 +278,7 @@ source: "isap-pdf"
 
 2. Organ wskazany w akcie o utworzeniu instytutu wyposaża tworzony instytut w nieruchomości Skarbu Państwa. Na wyposażenie instytutu tworzonego z połączenia kilku instytutów przeznacza się nieruchomości stanowiące własność lub użytkowanie wieczyste gruntów łączonych instytutów; na jego wyposażenie mogą być również przeznaczone nieruchomości Skarbu Państwa.
 
-3. Skarb Państwa oraz jednostki samorządu terytorialnego mogą przekazywać instytutom nieruchomości w trybie i na zasadach określonych w ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2023 r. poz. 344, z późn. zm. ).
+3. Skarb Państwa oraz jednostki samorządu terytorialnego mogą przekazywać instytutom nieruchomości w trybie i na zasadach określonych w ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2023 r. poz. 344, z późn. zm.).
 
 4. Gospodarowanie mieniem instytutu odbywa się zgodnie z zasadami legalności, rzetelności, celowości, gospodarności i oszczędności.
 
@@ -277,7 +302,7 @@ source: "isap-pdf"
 
 7. Instytut jest obowiązany uzyskać zgodę ministra nadzorującego na wykonywanie praw z tytułu posiadanych akcji i udziałów w spółkach, o których mowa w ust. 5.
 
-8. Czynności prawne dokonane z naruszeniem przepisów określonych w ust. 1– 7 są nieważne.
+8. Czynności prawne dokonane z naruszeniem przepisów określonych w ust. 1–7 są nieważne.
 
 **Art. 18.**
 
@@ -300,10 +325,7 @@ source: "isap-pdf"
 - **3)** prac wdrożeniowych, w tym nadzoru autorskiego;
 - **4)** produkcji urządzeń i aparatury oraz innej produkcji lub usług.
 
-8. Instytut osiąga przychody z:
-
-- **1)** subwencji i dotacji na podstawie ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce i ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, z zastrzeżeniem ust. 9 i art. 21 ust. 6 oraz art. 48a ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080);
-- **2)** innych źródeł.
+8. Instytut osiąga przychody z subwencji i dotacji na podstawie przepisów ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce i ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, z zastrzeżeniem ust. 9 i art. 21 ust. 6, oraz z innych źródeł.
 
 9. Łączna kwota dotacji przyznanych w kolejnych latach na dofinansowanie inwestycji realizowanej przez instytut może wynosić do 100 % planowanej wartości kosztorysowej inwestycji.
 
@@ -313,10 +335,10 @@ source: "isap-pdf"
 
 - **1)** przychody własne;
 - **2)** subwencje i dotacje z budżetu państwa;
-- **3)** koszty, w tym:
-    - **a)** wynagrodzenia i naliczane od nich składki,
-    - **b)** płatności odsetkowe wynikające z zaciągniętych zobowiązań,
-    - **c)** koszty majątkowe.
+- **3)** koszty, w tym: wynagrodzenia i naliczane od nich składki, płatności odsetkowe wynikające z zaciągniętych zobowiązań, koszty majątkowe.
+    - **a)**
+    - **b)**
+    - **c)**
 
 12. Roczny plan finansowy ustala dyrektor instytutu po zasięgnięciu opinii rady naukowej.
 
@@ -385,17 +407,23 @@ source: "isap-pdf"
 
 **Art. 22.** Do zadań państwowego instytutu badawczego należy wykonywanie:
 
+- **1)** zadań określonych w art. 2;
+- **2)** zadań szczególnie ważnych dla planowania i realizacji polityki państwa, których wykonanie jest niezbędne dla zapewnienia obronności i bezpieczeństwa publicznego, działania wymiaru sprawiedliwości, ochrony dziedzictwa narodowego, rozwoju edukacji i kultury, kultury fizycznej i sportu oraz poprawy jakości życia obywateli, dotyczących: opracowywania i opiniowania standardów w zakresie rynku pracy, ochrony pracy i zabezpieczenia społecznego, ochrony zdrowia, ochrony środowiska, gospodarki żywnościowej, gospodarki przestrzennej, gospodarki bogactwami i zasobami naturalnymi, rozwoju społeczeństwa informacyjnego, bezpieczeństwa technicznego, energetycznego i bezpieczeństwa transportu oraz standardów produktów, procesów i usług, a także warunków przestrzegania tych standardów, monitoringu zjawisk i wydarzeń mogących stwarzać zagrożenie publiczne, w tym epidemii oraz katastrof naturalnych lub technicznych, noszących znamiona klęski żywiołowej, i zapobiegania ich skutkom.
+    - **a)**
+    - **b)**
+
 #### Rozdział 5 Organy instytutu
 
 **Art. 23.** Organami instytutu są:
 
-**Art. 24.**
+- **1)** dyrektor;
+- **2)** rada naukowa.
 
 1. Dyrektor:
 
-- **1)** ustala, po zasięgnięciu opinii rady naukowej:
-    - **a)** plan działalności instytutu,
-    - **b)** kierunkowe plany tematyczne badań naukowych i prac rozwojowych;
+- **1)** ustala, po zasięgnięciu opinii rady naukowej: plan działalności instytutu, kierunkowe plany tematyczne badań naukowych i prac rozwojowych;
+    - **a)**
+    - **b)**
 
 - **2)** realizuje politykę kadrową;
 - **3)** zarządza mieniem i odpowiada za wykorzystanie mienia instytutu na realizację jego zadań statutowych, zgodnie z zasadami określonymi w art. 16 ust. 4;
@@ -418,9 +446,13 @@ source: "isap-pdf"
 
 3. Minister nadzorujący w akcie o powołaniu dyrektora określa także wysokość jego wynagrodzenia.
 
-4. (uchylony) 4a. (uchylony)
+4. (uchylony)
 
-5. (uchylony) 5a. (uchylony)
+4a. (uchylony)
+
+5. (uchylony)
+
+5a. (uchylony)
 
 6. Dyrektorem może być osoba, która:
 
@@ -432,15 +464,13 @@ source: "isap-pdf"
 
 7. (uchylony)
 
-8. (uchylony)
-
-**Art. 25.** (uchylony)
-
-**Art. 26.**
+8. (uchylony) (uchylony)
 
 1. (uchylony)
 
-2. (uchylony) 2a. (uchylony)
+2. (uchylony)
+
+2a. (uchylony)
 
 3. W przypadku odwołania dyrektora instytutu minister nadzorujący wyznacza do pełnienia obowiązków dyrektora jednego z jego zastępców albo inną osobę spełniającą warunki określone w art. 24 ust. 6 pkt 1–3 i 5 na okres nie dłuższy niż 6 miesięcy.
 
@@ -450,7 +480,9 @@ source: "isap-pdf"
 
 1. Zastępców dyrektora powołuje i odwołuje minister nadzorujący po zasięgnięciu opinii dyrektora, z tym że zastępcę dyrektora do spraw naukowych minister nadzorujący powołuje po zasięgnięciu opinii rady naukowej.
 
-1a. (uchylony) 1b. Minister nadzorujący w akcie o powołaniu zastępcy dyrektora określa także wysokość jego wynagrodzenia.
+1a. (uchylony)
+
+1b. Minister nadzorujący w akcie o powołaniu zastępcy dyrektora określa także wysokość jego wynagrodzenia.
 
 2. Zastępcą dyrektora do spraw naukowych może być osoba posiadająca stopień naukowy doktora habilitowanego albo tytuł profesora.
 
@@ -471,7 +503,7 @@ source: "isap-pdf"
 
 3. Dyrektora, jego zastępców oraz głównego księgowego w okresie trwania stosunku pracy obowiązuje zakaz prowadzenia działalności konkurencyjnej określony w odrębnej umowie.
 
-4. Do zakazu, o którym mowa w ust. 3, stosuje się przepisy art. 101 , 101 i 101 Kodeksu pracy.
+4. Do zakazu, o którym mowa w ust. 3, stosuje się przepisy art. 1011, 1013 i 1014 Kodeksu pracy.
 
 5. Umowę, o której mowa w ust. 3, z dyrektorem oraz zastępcami dyrektora zawiera minister nadzorujący.
 
@@ -532,7 +564,7 @@ source: "isap-pdf"
 5. W skład rady naukowej wchodzą:
 
 - **1)** dyrektor, jego zastępcy oraz główny księgowy, jeżeli spełniają wymagania określone w ust. 3, z prawem głosu w sprawach, o których mowa w art. 29 ust. 2 pkt 12–14,
-- **2)** przedstawiciel ministra właściwego do spraw szkolnictwa wyższego i nauki z prawem głosu w sprawach, o których mowa w art. 29 ust. 2 pkt 1, 4, 5–11 i 17– 20 – którzy nie są zaliczani do osób, których liczba została określona w ust. 1.
+- **2)** przedstawiciel ministra właściwego do spraw szkolnictwa wyższego i nauki z prawem głosu w sprawach, o których mowa w art. 29 ust. 2 pkt 1, 4, 5–11 i 17–20 którzy nie są zaliczani do osób, których liczba została określona w ust. 1.
 
 5a. Przepisu ust. 5 pkt 2 nie stosuje się do rady naukowej instytutu nadzorowanego przez ministra właściwego do spraw szkolnictwa wyższego i nauki.
 
@@ -567,7 +599,7 @@ source: "isap-pdf"
 
 1. Z tytułu działalności w radzie naukowej nie przysługuje dodatkowe wynagrodzenie.
 
-2. Członkom rady naukowej mającym inne miejsce zamieszkania niż miejsce posiedzeń rady przysługują diety, zwrot kosztów podróży i noclegów związanych z uczestnictwem w tych posiedzeniach, na podstawie przepisów wydanych na podstawie art. 77 § 2 Kodeksu pracy.
+2. Członkom rady naukowej mającym inne miejsce zamieszkania niż miejsce posiedzeń rady przysługują diety, zwrot kosztów podróży i noclegów związanych z uczestnictwem w tych posiedzeniach, na podstawie przepisów wydanych na podstawie art. 775 § 2 Kodeksu pracy.
 
 #### Rozdział 6 Rada Główna Instytutów Badawczych
 
@@ -615,8 +647,6 @@ source: "isap-pdf"
 
 4. (uchylony)
 
-**Art. 35a.**
-
 1. Przewodniczący rady naukowej przekazuje ministrowi nadzorującemu uchwały rady w sprawach, o których mowa w art. 29 ust. 2 pkt 5–11 i 17–19, w terminie 7 dni od dnia ich podjęcia.
 
 2. Minister nadzorujący może uchylić w całości albo w części uchwałę, o której mowa w ust. 1, w przypadku stwierdzenia jej niezgodności z przepisami prawa lub statutem instytutu. Uchylenie uchwały następuje w drodze decyzji administracyjnej, w terminie 30 dni od dnia otrzymania uchwały.
@@ -650,17 +680,17 @@ source: "isap-pdf"
 - **3)** w celu wykonania zobowiązań międzynarodowych;
 - **4)** w przypadku gdy ministrowi nadzorującemu została powierzona realizacja zadania na podstawie art. 10c ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2022 r. poz. 1188 oraz z 2023 r. poz. 1195, 1234 i 1641).
 
-1a. (uchylony) 1b. Rada Ministrów albo minister nadzorujący może nałożyć na instytut obowiązek wprowadzenia do jego planu działalności zadania z zakresu administracji rządowej wynikającego w szczególności z dokumentów rządowych przyjętych przez Radę Ministrów albo przez ministra nadzorującego albo wyznaczyć takie zadanie poza tym planem, zgodnie z zakresem działania określonym w statucie instytutu.
+1a. Na wniosek ministra kierującego działem administracji rządowej lub Szefa Kancelarii Prezesa Rady Ministrów Prezes Rady Ministrów może, za zgodą ministra nadzorującego, nałożyć na instytut obowiązek wprowadzenia do jego planu zadania lub wyznaczyć zadanie poza planem, zgodnie z zakresem działania określonym w statucie instytutu, w celu realizacji zadań z zakresu określonego w art. 10c ust. 1 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów, jeżeli realizacja zadania ma istotne znaczenie dla rozwoju gospodarki i innowacyjności, rozwoju społeczeństwa informacyjnego lub cyfryzacji procesów instytucji publicznych i równocześnie niezbędne jest niezwłoczne rozpoczęcie jego realizacji.
+
+1b. Rada Ministrów albo minister nadzorujący może nałożyć na instytut obowiązek wprowadzenia do jego planu działalności zadania z zakresu administracji rządowej wynikającego w szczególności z dokumentów rządowych przyjętych przez Radę Ministrów albo przez ministra nadzorującego albo wyznaczyć takie zadanie poza tym planem, zgodnie z zakresem działania określonym w statucie instytutu.
 
 2. W przypadku, o którym mowa w:
 
 - **1)** ust. 1 – minister nadzorujący,
-- **2)** (uchylony)
-- **3)** ust. 1b – odpowiednio Szef Kancelarii Prezesa Rady Ministrów albo minister nadzorujący – zapewnia instytutowi środki finansowe na wykonanie zadania, chyba że jego wykonanie następuje odpłatnie na podstawie umowy ze stroną finansującą jego wykonanie.
+- **2)** ust. 1a – odpowiednio minister kierujący działem administracji rządowej albo Szef Kancelarii Prezesa Rady Ministrów,
+- **3)** ust. 1b – odpowiednio Szef Kancelarii Prezesa Rady Ministrów albo minister nadzorujący zapewnia instytutowi środki finansowe na wykonanie zadania, chyba że jego wykonanie następuje odpłatnie na podstawie umowy ze stroną finansującą jego wykonanie.
 
-3. Roczne sprawozdanie finansowe oraz informacje o zarządzaniu składnikami mienia trwałego instytutu dyrektor podaje do informacji publicznej na stronie podmiotowej ministra nadzorującego w Biuletynie Informacji Publicznej, niezwłocznie po zatwierdzeniu sprawozdania przez tego ministra.
-
-**Art. 37a.** (uchylony)
+3. Roczne sprawozdanie finansowe oraz informacje o zarządzaniu składnikami mienia trwałego instytutu dyrektor podaje do informacji publicznej na stronie podmiotowej ministra nadzorującego w Biuletynie Informacji Publicznej, niezwłocznie po zatwierdzeniu sprawozdania przez tego ministra. (uchylony)
 
 #### Rozdział 8 Centra naukowo-przemysłowe
 
@@ -715,9 +745,7 @@ source: "isap-pdf"
 
 4. Żołnierze zawodowi i funkcjonariusze służb podległych ministrowi właściwemu do spraw wewnętrznych mogą zostać oddelegowani do pełnienia służby w instytucie.
 
-**Art. 40.** (uchylony)
-
-**Art. 41.** Pracownikom naukowym i pracownikom badawczo-technicznym przysługuje urlop wypoczynkowy w wymiarze 36 dni w ciągu roku.
+**Art. 40.** (uchylony) Pracownikom naukowym i pracownikom badawczo-technicznym przysługuje urlop wypoczynkowy w wymiarze 36 dni w ciągu roku.
 
 **Art. 42.** (uchylony)
 
@@ -743,10 +771,10 @@ source: "isap-pdf"
 7. Przepisu ust. 6 nie stosuje się:
 
 - **1)** do żołnierzy zawodowych i funkcjonariuszy służb podległych ministrowi właściwemu do spraw wewnętrznych;
-- **2)** w przypadku zatrudnienia na czas określony pracownika naukowego:
-    - **a)** skierowanego do pracy na podstawie umowy zawartej z zagraniczną instytucją naukową,
-    - **b)** na okres realizacji projektu obejmującego badania naukowe lub prace rozwojowe, finansowanego w trybie konkursowym ze środków finansowych na szkolnictwo wyższe i naukę lub środków finansowych pochodzących z budżetu Unii Europejskiej, z niepodlegających zwrotowi środków z pomocy udzielonej przez państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) lub z innych środków pochodzących ze źródeł zagranicznych niepodlegających zwrotowi,
-    - **c)** (uchylona)
+- **2)** w przypadku zatrudnienia na czas określony pracownika naukowego: skierowanego do pracy na podstawie umowy zawartej z zagraniczną instytucją naukową, na okres realizacji projektu obejmującego badania naukowe lub prace rozwojowe, finansowanego w trybie konkursowym ze środków finansowych na szkolnictwo wyższe i naukę lub środków finansowych pochodzących z budżetu Unii Europejskiej, z niepodlegających zwrotowi środków z pomocy udzielonej przez państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) lub z innych środków pochodzących ze źródeł zagranicznych niepodlegających zwrotowi, (uchylona)
+    - **a)**
+    - **b)**
+    - **c)**
 
 **Art. 44.**
 
@@ -786,9 +814,9 @@ source: "isap-pdf"
 
 - **1)** trwałej utraty zdolności do pracy na zajmowanym stanowisku, stwierdzonej orzeczeniem lekarza orzecznika, w rozumieniu przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, jeżeli nie ma możliwości zatrudnienia pracownika na innym stanowisku, odpowiednim do jego stanu zdrowia i kwalifikacji zawodowych, albo gdy pracownik odmawia przejścia do takiej pracy;
 - **2)** niedostarczenia w wyznaczonym terminie orzeczenia potwierdzającego zdolność do pracy na zajmowanym stanowisku, wydanego przez lekarza prowadzącego badania okresowe lub kontrolne;
-- **3)** dopuszczenia się przez niego:
-    - **a)** czynu określonego w art. 115 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych, stwierdzonego prawomocnym wyrokiem sądu,
-    - **b)** stwierdzonego prawomocnym orzeczeniem komisji dyscyplinarnej na podstawie opinii komisji do spraw etyki w nauce, o której mowa w art. 39 ust. 1 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk: – przywłaszczenia sobie autorstwa albo wprowadzenia w błąd co do autorstwa całości lub części cudzego utworu albo artystycznego wykonania, – rozpowszechnienia, bez podania nazwiska lub pseudonimu twórcy, cudzego utworu w wersji oryginalnej albo w postaci opracowania, – rozpowszechnienia, bez podania nazwiska lub pseudonimu twórcy, cudzego artystycznego wykonania albo publicznego zniekształcenia takiego utworu, artystycznego wykonania, fonogramu, wideogramu lub nadania, – innego sposobu naruszenia cudzych praw autorskich lub praw pokrewnych, – fałszowania badań lub wyników badań naukowych, – innego oszustwa naukowego;
+- **3)** dopuszczenia się przez niego: czynu określonego w art. 115 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych, stwierdzonego prawomocnym wyrokiem sądu, stwierdzonego prawomocnym orzeczeniem komisji dyscyplinarnej na podstawie opinii komisji do spraw etyki w nauce, o której mowa w art. 39 ust. 1 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk: – przywłaszczenia sobie autorstwa albo wprowadzenia w błąd co do autorstwa całości lub części cudzego utworu albo artystycznego wykonania, – rozpowszechnienia, bez podania nazwiska lub pseudonimu twórcy, cudzego utworu w wersji oryginalnej albo w postaci opracowania, – rozpowszechnienia, bez podania nazwiska lub pseudonimu twórcy, cudzego artystycznego wykonania albo publicznego zniekształcenia takiego utworu, artystycznego wykonania, fonogramu, wideogramu lub nadania, – innego sposobu naruszenia cudzych praw autorskich lub praw pokrewnych, – fałszowania badań lub wyników badań naukowych, – innego oszustwa naukowego;
+    - **a)**
+    - **b)**
 
 - **4)** skazania prawomocnym wyrokiem za umyślne przestępstwo.
 
@@ -992,6 +1020,15 @@ source: "isap-pdf"
 
 **Art. 64.** W przypadku oddelegowanych do pełnienia służby w instytutach żołnierzy zawodowych i funkcjonariuszy służb podległych ministrowi właściwemu do spraw wewnętrznych:
 
+- **1)** zasady wynagradzania,
+- **2)** zasady zaliczania okresów pracy i innych okresów uprawniających do dodatku za wysługę lat i do nagrody jubileuszowej,
+- **3)** zasady określania czasu pracy,
+- **4)** uprawnienia związane z pracą w warunkach uciążliwych lub szkodliwych,
+- **5)** uprawnienia emerytalne,
+- **6)** uprawnienia do odprawy,
+- **7)** wynagrodzenie za okres niezdolności do pracy z powodu choroby lub innej usprawiedliwionej nieobecności w pracy,
+- **8)** uprawnienia urlopowe określają przepisy właściwe dla tych służb.
+
 **Art. 65.** W sprawach dotyczących stosunku pracy pracowników instytutu, nieuregulowanych w ustawie, stosuje się przepisy Kodeksu pracy.
 
 **Art. 66.**
@@ -1004,9 +1041,12 @@ source: "isap-pdf"
 
 4. Dyrektora, jego zastępców, głównego księgowego oraz pracownika naukowego w okresie trwania stosunku pracy obowiązuje zakaz prowadzenia działalności konkurencyjnej wobec jednostki organizacyjnej, jeżeli zakaz ten został określony w odrębnej umowie.
 
-5. Do zakazu, o którym mowa w ust. 4, stosuje się przepisy art. 101 , art. 101 i art. 101 Kodeksu pracy.
+5. Do zakazu, o którym mowa w ust. 4, stosuje się przepisy art. 1011, art. 1013 i art. 1014 Kodeksu pracy.
 
 #### Rozdział 10 Przepis końcowy
 
 **Art. 67.** Ustawa wchodzi w życie w terminie i na zasadach określonych w ustawie z dnia 30 kwietnia 2010 r. – Przepisy wprowadzające ustawy reformujące system nauki (Dz. U. poz. 620 i 1036 oraz z 2012 r. poz. 756).
+
+- **1)** Do dnia 31 grudnia 2024 r. również na studiach doktoranckich, o których mowa w ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183 i 2201 oraz z 2018 r. poz. 138, 398, 650, 730, 912, 1000, 1115 i 1693), na podstawie art. 279 ust. 1 i 1a ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z 2019 r. poz. 39 i 534, z 2020 r. poz. 695, 875 i 1086, z 2021 r. poz. 1630 i 2232, z 2022 r. poz. 1010, 1117 i 2306, z 2023 r. poz. 212 i 1672 oraz z 2024 r. poz. 124). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124 i 227. 3) Dodany przez art. 8 pkt 1 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw (Dz. U. poz. 1672), która weszła w życie z dniem 6 września 2023 r. 4) W brzmieniu ustalonym przez art. 8 pkt 2 ustawy, o której mowa w odnośniku 3. 5) Zdanie pierwsze w brzmieniu ustalonym przez art. 8 pkt 3 lit. a ustawy, o której mowa w odnośniku 3. 6) W brzmieniu ustalonym przez art. 8 pkt 3 lit. b ustawy, o której mowa w odnośniku 3. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872. 8) W brzmieniu ustalonym przez art. 8 pkt 4 ustawy, o której mowa w odnośniku 3. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1113, 1463, 1506, 1688, 1762, 1906 i 2029. 10) W brzmieniu ustalonym przez art. 8 pkt 5 ustawy, o której mowa w odnośniku 3. 11) W brzmieniu ustalonym przez art. 8 pkt 6 ustawy, o której mowa w odnośniku 3. 12) W brzmieniu ustalonym przez art. 8 pkt 7 ustawy, o której mowa w odnośniku 3. 13) W brzmieniu ustalonym przez art. 8 pkt 8 ustawy, o której mowa w odnośniku 3. 14) W brzmieniu ustalonym przez art. 8 pkt 9 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 3. 15) W brzmieniu ustalonym przez art. 8 pkt 9 lit. a tiret drugie ustawy, o której mowa w odnośniku 3. 16) W brzmieniu ustalonym przez art. 8 pkt 9 lit. b ustawy, o której mowa w odnośniku 3. 17) W brzmieniu ustalonym przez art. 8 pkt 10 lit. a ustawy, o której mowa w odnośniku 3. 18) W brzmieniu ustalonym przez art. 8 pkt 10 lit. b ustawy, o której mowa w odnośniku 3. 19) W brzmieniu ustalonym przez art. 8 pkt 10 lit. c ustawy, o której mowa w odnośniku 3. 20) Dodany przez art. 8 pkt 11 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 3. 21) W brzmieniu ustalonym przez art. 8 pkt 11 lit. a tiret drugie ustawy, o której mowa w odnośniku 3. 22) W brzmieniu ustalonym przez art. 8 pkt 11 lit. b ustawy, o której mowa w odnośniku 3. 23) Zdanie drugie w brzmieniu ustalonym przez art. 8 pkt 12 lit. a ustawy, o której mowa w odnośniku 3. 24) W brzmieniu ustalonym przez art. 8 pkt 12 lit. b ustawy, o której mowa w odnośniku 3. 25) W brzmieniu ustalonym przez art. 8 pkt 12 lit. c ustawy, o której mowa w odnośniku 3. 26) Dodany przez art. 8 pkt 13 ustawy, o której mowa w odnośniku 3. 27) W brzmieniu ustalonym przez art. 8 pkt 14 lit. a ustawy, o której mowa w odnośniku 3. 28) Dodany przez art. 8 pkt 14 lit. b ustawy, o której mowa w odnośniku 3. 29) W brzmieniu ustalonym przez art. 8 pkt 14 lit. c ustawy, o której mowa w odnośniku 3. 30) W brzmieniu ustalonym przez art. 8 pkt 15 ustawy, o której mowa w odnośniku 3. 31) W brzmieniu ustalonym przez art. 8 pkt 16 ustawy, o której mowa w odnośniku 3. 32) Przez art. 8 pkt 17 ustawy, o której mowa w odnośniku 3. 33) Przez art. 8 pkt 18 ustawy, o której mowa w odnośniku 3. 34) W brzmieniu ustalonym przez art. 8 pkt 19 lit. a ustawy, o której mowa w odnośniku 3. 35) W brzmieniu ustalonym przez art. 8 pkt 19 lit. b ustawy, o której mowa w odnośniku 3. 36) W brzmieniu ustalonym przez art. 8 pkt 20 ustawy, o której mowa w odnośniku 3. 37) W brzmieniu ustalonym przez art. 8 pkt 21 ustawy, o której mowa w odnośniku 3. 38) Ustawa weszła w życie z dniem 1 października 2010 r., z wyjątkiem art. 39 ust. 2, który wszedł w życie z dniem 5 czerwca 2011 r. na podstawie art. 4 ustawy z dnia 30 kwietnia 2010 r. – Przepisy wprowadzające ustawy reformujące system nauki (Dz. U. poz. 620), która weszła w życie z dniem 1 października 2010 r.
+
 

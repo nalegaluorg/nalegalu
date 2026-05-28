@@ -8,12 +8,10 @@ pos: 743
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
 # Ustawa z dnia 26 kwietnia 2024 r. o zmianie ustawy o pomocy społecznej oraz niektórych innych ustaw
-
-*USTAWA dnia 26 kwietnia 2024 zmianie ustawy pomocy społecznej oraz niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -24,14 +22,51 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2024-04-26 |
 | Data wydania | 2024-05-17 |
+| Wejście w życie | 2024-06-01 |
 | Ostatnia zmiana | 2024-05-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000743) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/743/text.pdf) |
 
-**Art. 1.** W ustawie dnia 12 marca 2004 pomocy społecznej (Dz. U. 2023 poz. 901, 1693, 1938 2760) art. 24 dodaje się ust. 3–10 brzmieniu: „3. Rada Ministrów może przyjąć rządowy program dofinansowania wynagrodzeń oraz kosztów składek od tych wynagrodzeń pracowników określonych tym programie, zatrudnionych jednostkach organizacyjnych pomocy społecznej prowadzonych przez jednostki samorządu terytorialnego lub na ich zlecenie. 4. Dofinansowanie wynagrodzeń, którym mowa ust. 3, może być wypłacane także formie dodatku motywacyjnego. 5. Program, którym mowa ust. 3, Rada Ministrów przyjmuje drodze uchwały. 6. Program, którym mowa ust. 3, jest finansowany dotacji celowej budżetu państwa. 7. Do udzielania dotacji celowej budżetu państwa na realizację programu, którym mowa ust. 3, stosuje się przepis art. 115 ust. 2. 8. Środki programu, którym mowa ust. 3, przeznacza się całości na zwiększenie wynagrodzeń pracowników oraz pokrycie kosztów składek od tych wynagrodzeń. 9. Dofinansowanie, którym mowa ust. 3, nie stanowi podstawy naliczania świadczeń, odszkodowań innych wypłat, wynikających odrębnych przepisów, tym dodatkowego wynagrodzenia rocznego nagród rocznych. 10. Dofinansowanie, którym mowa ust. 3, nie jest uwzględniane przy wyliczaniu średniego miesięcznego kosztu utrzymania domu pomocy społecznej.”.
+**Art. 1.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901, 1693, 1938 i 2760) w art. 24 dodaje się ust. 3–10 w brzmieniu: „ 3. Rada Ministrów może przyjąć rządowy program dofinansowania wynagrodzeń oraz kosztów składek od tych wynagrodzeń pracowników określonych w tym programie, zatrudnionych w jednostkach organizacyjnych pomocy społecznej prowadzonych przez jednostki samorządu terytorialnego lub na ich zlecenie. 4. Dofinansowanie wynagrodzeń, o którym mowa w ust. 3, może być wypłacane także w formie dodatku motywacyjnego. 5. Program, o którym mowa w ust. 3, Rada Ministrów przyjmuje w drodze uchwały. 6. Program, o którym mowa w ust. 3, jest finansowany z dotacji celowej z budżetu państwa. 7. Do udzielania dotacji celowej z budżetu państwa na realizację programu, o którym mowa w ust. 3, stosuje się przepis art. 115 ust. 2. 8. Środki z programu, o którym mowa w ust. 3, przeznacza się w całości na zwiększenie wynagrodzeń pracowników oraz pokrycie kosztów składek od tych wynagrodzeń. 9. Dofinansowanie, o którym mowa w ust. 3, nie stanowi podstawy naliczania świadczeń, odszkodowań i innych wypłat, wynikających z odrębnych przepisów, w tym dodatkowego wynagrodzenia rocznego i nagród rocznych. 10. Dofinansowanie, o którym mowa w ust. 3, nie jest uwzględniane przy wyliczaniu średniego miesięcznego kosztu utrzymania w domu pomocy społecznej. ” .
 
-**Art. 2.** W ustawie dnia 4 lutego 2011 opiece nad dziećmi wieku do lat 3 (Dz. U. 2024 poz. 338) po art. 63 dodaje się art. 63a brzmieniu: „Art. 63a. 1. Rada Ministrów może przyjąć rządowy program dofinansowania wynagrodzeń oraz kosztów składek od tych wynagrodzeń pracowników określonych tym programie, zatrudnionych żłobkach lub klubach dziecięcych prowadzonych przez jednostki samorządu terytorialnego oraz dziennych opiekunów zatrudnionych przez jednostki samorządu terytorialnego. 2. Dofinansowanie wynagrodzeń, którym mowa ust. 1, może być wypłacane także formie dodatku motywacyjnego. 3. Program, którym mowa ust. 1, Rada Ministrów przyjmuje drodze uchwały. 4. Program, którym mowa ust. 1, jest finansowany dotacji celowej budżetu państwa. 5. Do udzielania dotacji celowej budżetu państwa na realizację programu, którym mowa ust. 1, nie stosuje się przepisu art. 128 ust. 2 ustawy dnia 27 sierpnia 2009 finansach publicznych. 6. Środki programu, którym mowa ust. 1, przeznacza się całości na zwiększenie wynagrodzeń oraz pokrycie kosztów składek od tych wynagrodzeń odpowiednio pracowników zatrudnionych żłobkach lub klubach dziecięcych oraz dziennych opiekunów. 7. Dofinansowanie, którym mowa ust. 1, nie stanowi podstawy naliczania świadczeń, odszkodowań innych wypłat, wynikających odrębnych przepisów, tym dodatkowego wynagrodzenia rocznego nagród rocznych.”.
+**Art. 2.** W ustawie z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2024 r. poz. 338) po art. 63 dodaje się art. 63a w brzmieniu: „
 
-**Art. 3.** W ustawie dnia 9 czerwca 2011 wspieraniu rodziny systemie pieczy zastępczej (Dz. U. 2024 poz. 177
+**Art. 63a.**
 
-**Art. 4.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
+1. Rada Ministrów może przyjąć rządowy program dofinansowania wynagrodzeń oraz kosztów składek od tych wynagrodzeń pracowników określonych w tym programie, zatrudnionych w żłobkach lub klubach dziecięcych prowadzonych przez jednostki samorządu terytorialnego oraz dziennych opiekunów zatrudnionych przez jednostki samorządu terytorialnego.
+
+2. Dofinansowanie wynagrodzeń, o którym mowa w ust. 1, może być wypłacane także w formie dodatku motywacyjnego.
+
+3. Program, o którym mowa w ust. 1, Rada Ministrów przyjmuje w drodze uchwały.
+
+4. Program, o którym mowa w ust. 1, jest finansowany z dotacji celowej z budżetu państwa.
+
+5. Do udzielania dotacji celowej z budżetu państwa na realizację programu, o którym mowa w ust. 1, nie stosuje się przepisu art. 128 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+
+6. Środki z programu, o którym mowa w ust. 1, przeznacza się w całości na zwiększenie wynagrodzeń oraz pokrycie kosztów składek od tych wynagrodzeń odpowiednio pracowników zatrudnionych w żłobkach lub klubach dziecięcych oraz dziennych opiekunów.
+
+7. Dofinansowanie, o którym mowa w ust. 1, nie stanowi podstawy naliczania świadczeń, odszkodowań i innych wypłat, wynikających z odrębnych przepisów, w tym dodatkowego wynagrodzenia rocznego i nagród rocznych. ” .
+
+**Art. 3.** W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2024 r. poz. 177 i 742) wprowadza się następujące zmiany:
+
+- **1)** w art. 187 dodaje się ust. 8 w brzmieniu: „
+
+8. Programy, o których mowa w ust. 1 pkt 5, Rada Ministrów przyjmuje w drodze uchwały. ” ;
+
+- **2)** po art. 187a dodaje się art. 187b w brzmieniu: „
+
+**Art. 187b.**
+
+1. Rada Ministrów może przyjąć rządowy program dofinansowania wynagrodzeń oraz kosztów składek od tych wynagrodzeń pracowników określonych w tym programie, zatrudnionych w jednostkach organizacyjnych wspierania rodziny i systemu pieczy zastępczej prowadzonych przez jednostki samorządu terytorialnego lub na ich zlecenie.
+
+2. Dofinansowanie wynagrodzeń, o którym mowa w ust. 1, może być wypłacane także w formie dodatku motywacyjnego.
+
+3. Program, o którym mowa w ust. 1, jest finansowany z dotacji celowej z budżetu państwa.
+
+4. Do udzielania dotacji celowej z budżetu państwa na realizację programu, o którym mowa w ust. 1, nie stosuje się przepisu art. 128 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.).
+
+5. Środki z programu, o którym mowa w ust. 1, przeznacza się w całości na zwiększenie wynagrodzeń pracowników oraz pokrycie kosztów składek od tych wynagrodzeń.
+
+6. Dofinansowanie, o którym mowa w ust. 1, nie stanowi podstawy naliczania świadczeń, odszkodowań i innych wypłat, wynikających z odrębnych przepisów, w tym dodatkowego wynagrodzenia rocznego i nagród rocznych. ” .
+
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

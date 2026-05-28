@@ -8,12 +8,10 @@ pos: 326
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o fundacji rodzinnej
-
-*USTAWA z dnia 26 stycznia 2023 r.*
+# Ustawa z dnia 26 stycznia 2023 r. o fundacji rodzinnej
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +22,16 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2023-01-26 |
 | Data wydania | 2023-02-21 |
+| Wejście w życie | 2023-05-22 |
 | Ostatnia zmiana | 2026-04-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000326) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/326/text.pdf) |
+
+Opłatę stałą w kwocie 500 złotych pobiera się od zgłoszenia fundacji rodzinnej do rejestru fundacji rodzinnych.
+1.
+Opłatę stałą w kwocie 250 złotych pobiera się od wniosku o wpis w rejestrze fundacji rodzinnych.
+2.
+Jedną opłatę stałą w kwocie 100 złotych pobiera się od skargi na orzeczenie referendarza sądowego, chociażby dotyczyło kilku wpisów w rejestrze fundacji rodzinnych.
+” .
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -53,7 +59,7 @@ source: "isap-pdf"
 
 2. Rejestr fundacji rodzinnych prowadzi Sąd Okręgowy w Piotrkowie Trybunalskim, zwany dalej „sądem rejestrowym”.
 
-3. W postępowaniu przed sądem rejestrowym stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ) o postępowaniu nieprocesowym, chyba że ustawa stanowi inaczej.
+3. W postępowaniu przed sądem rejestrowym stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.) o postępowaniu nieprocesowym, chyba że ustawa stanowi inaczej.
 
 **Art. 5.**
 
@@ -63,10 +69,10 @@ source: "isap-pdf"
 - **2)** najmu, dzierżawy lub udostępniania mienia do korzystania na innej podstawie;
 - **3)** przystępowania do spółek handlowych, funduszy inwestycyjnych, spółdzielni oraz podmiotów o podobnym charakterze, mających swoją siedzibę w kraju albo za granicą, a także uczestnictwa w tych spółkach, funduszach, spółdzielniach oraz podmiotach;
 - **4)** nabywania i zbywania papierów wartościowych, instrumentów pochodnych i praw o podobnym charakterze;
-- **5)** udzielania pożyczek:
-    - **a)** spółkom kapitałowym, w których fundacja rodzinna posiada udziały albo akcje,
-    - **b)** spółkom osobowym, w których fundacja rodzinna uczestniczy jako wspólnik,
-    - **c)** beneficjentom;
+- **5)** udzielania pożyczek: spółkom kapitałowym, w których fundacja rodzinna posiada udziały albo akcje, spółkom osobowym, w których fundacja rodzinna uczestniczy jako wspólnik, beneficjentom;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **6)** obrotu zagranicznymi środkami płatniczymi należącymi do fundacji rodzinnej w celu dokonywania płatności związanych z działalnością fundacji rodzinnej;
 - **7)** produkcji przetworzonych w sposób inny niż przemysłowy produktów roślinnych i zwierzęcych, z wyjątkiem przetworzonych produktów roślinnych i zwierzęcych uzyskanych w ramach prowadzonych działów specjalnych produkcji rolnej oraz produktów opodatkowanych podatkiem akcyzowym, o ile ilość produktów roślinnych lub zwierzęcych pochodzących z własnej uprawy, hodowli lub chowu, użytych do produkcji danego produktu stanowi co najmniej 50% tego produktu;
@@ -79,6 +85,10 @@ source: "isap-pdf"
 **Art. 6.** W przypadku gdy stroną płatności związanej z wykonywaną działalnością fundacji rodzinnej jest beneficjent, jej dokonywanie lub przyjmowanie następuje za pośrednictwem rachunku płatniczego w rozumieniu art. 2 pkt 25 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2022 r. poz. 2360 i 2640).
 
 **Art. 7.** Jeżeli z innych przepisów nie wynika inaczej, oświadczenia składane przez fundację rodzinną beneficjentowi, sądom, organom administracji publicznej, instytucjom państwowym i w zamówieniach handlowych zawierają:
+
+- **1)** nazwę fundacji rodzinnej, jej siedzibę i adres;
+- **2)** numer, pod którym fundacja rodzinna jest wpisana do rejestru fundacji rodzinnych;
+- **3)** numer identyfikacji podatkowej (NIP).
 
 **Art. 8.**
 
@@ -135,6 +145,13 @@ source: "isap-pdf"
 #### Rozdział 4 Powstanie fundacji rodzinnej
 
 **Art. 21.** Do powstania fundacji rodzinnej jest wymagane:
+
+- **1)** złożenie oświadczenia o ustanowieniu fundacji rodzinnej w akcie założycielskim albo w testamencie;
+- **2)** ustalenie statutu;
+- **3)** sporządzenie spisu mienia;
+- **4)** ustanowienie organów fundacji rodzinnej wymaganych przez ustawę lub statut;
+- **5)** wniesienie funduszu założycielskiego przed wpisaniem do rejestru fundacji rodzinnych w przypadku ustanowienia fundacji rodzinnej w akcie założycielskim albo wniesienie funduszu założycielskiego w terminie dwóch lat od dnia wpisania fundacji rodzinnej do rejestru fundacji rodzinnych w przypadku ustanowienia fundacji rodzinnej w testamencie;
+- **6)** wpisanie do rejestru fundacji rodzinnych.
 
 **Art. 22.** Akt założycielski i testament, o których mowa w art. 21 pkt 1, sporządza się w formie aktu notarialnego.
 
@@ -223,7 +240,7 @@ source: "isap-pdf"
 1. Beneficjentem może być:
 
 - **1)** osoba fizyczna,
-- **2)** organizacja pozarządowa, o której mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, prowadząca działalność pożytku publicznego w rozumieniu art. 3 ust. 1 tej ustawy – która zgodnie ze statutem może otrzymać świadczenie od fundacji rodzinnej lub mienie w związku z rozwiązaniem fundacji rodzinnej.
+- **2)** organizacja pozarządowa, o której mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, prowadząca działalność pożytku publicznego w rozumieniu art. 3 ust. 1 tej ustawy która zgodnie ze statutem może otrzymać świadczenie od fundacji rodzinnej lub mienie w związku z rozwiązaniem fundacji rodzinnej.
 
 2. Beneficjentem może być fundator.
 
@@ -234,9 +251,9 @@ source: "isap-pdf"
 1. Lista beneficjentów zawiera:
 
 - **1)** imię i nazwisko albo nazwę beneficjenta;
-- **2)** identyfikator podatkowy (numer PESEL albo NIP), a w przypadku beneficjenta będącego osobą fizyczną nieposiadającego żadnego z tych numerów:
-    - **a)** numer i serię paszportu lub innego dokumentu stwierdzającego tożsamość lub inny numer identyfikacyjny, wraz z podaniem kraju nadania takiego numeru,
-    - **b)** imiona rodziców;
+- **2)** identyfikator podatkowy (numer PESEL albo NIP), a w przypadku beneficjenta będącego osobą fizyczną nieposiadającego żadnego z tych numerów: numer i serię paszportu lub innego dokumentu stwierdzającego tożsamość lub inny numer identyfikacyjny, wraz z podaniem kraju nadania takiego numeru, imiona rodziców;
+    - **a)**
+    - **b)**
 
 - **3)** adres zamieszkania lub adres do doręczeń beneficjenta;
 - **4)** inne dane niezbędne do spełnienia świadczenia na rzecz beneficjenta, w tym informacje o przysługujących mu uprawnieniach.
@@ -245,7 +262,7 @@ source: "isap-pdf"
 
 3. Fundacja rodzinna może żądać udokumentowania danych, o których mowa w ust. 1 pkt 4, w zakresie niezbędnym do ich potwierdzenia.
 
-4. Za zgodą beneficjenta fundacja rodzinna może przetwarzać inne dane osobowe niż wymienione w ust. 1, z wyjątkiem danych osobowych, o których mowa w art. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), w związku z koniecznością zabezpieczenia praw i interesów beneficjenta lub obowiązkami wynikającymi ze statutu.
+4. Za zgodą beneficjenta fundacja rodzinna może przetwarzać inne dane osobowe niż wymienione w ust. 1, z wyjątkiem danych osobowych, o których mowa w art. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.), w związku z koniecznością zabezpieczenia praw i interesów beneficjenta lub obowiązkami wynikającymi ze statutu.
 
 5. Fundacja rodzinna prowadzi i przechowuje dokumenty dotyczące przetwarzanych danych osobowych, w postaci papierowej lub elektronicznej, w sposób gwarantujący zachowanie ich poufności, integralności, kompletności oraz dostępności, w warunkach niegrożących utratą, uszkodzeniem lub zniszczeniem.
 
@@ -294,7 +311,7 @@ source: "isap-pdf"
 1. Beneficjent ma prawo do uzyskania informacji o działalności fundacji rodzinnej osobiście lub przez upoważnioną przez siebie osobę, w szczególności do żądania:
 
 - **1)** wglądu do dokumentów fundacji rodzinnej, w tym statutu, sprawozdań finansowych i ksiąg rachunkowych, oraz sporządzania z nich kopii i notatek,
-- **2)** przedstawienia wyjaśnień od zarządu – z uwzględnieniem przepisów dotyczących ochrony danych osobowych.
+- **2)** przedstawienia wyjaśnień od zarządu z uwzględnieniem przepisów dotyczących ochrony danych osobowych.
 
 2. Zarząd może odmówić beneficjentowi przedstawienia wyjaśnień, w tym dotyczących realizacji obowiązków zarządu, lub wglądu do dokumentów, jeżeli istnieje uzasadniona obawa, że prawo to zostanie wykorzystane przez beneficjenta w celach sprzecznych z interesem i celem fundacji rodzinnej. Informacja o odmowie jest przekazywana beneficjentowi niezwłocznie, nie później jednak niż w terminie miesiąca od dnia zażądania przez beneficjenta przedstawienia wyjaśnień lub wglądu do dokumentów fundacji rodzinnej, o których mowa w ust. 1.
 
@@ -407,7 +424,7 @@ source: "isap-pdf"
 
 1. Do pełnienia funkcji członka zarządu może być powołana osoba fizyczna posiadająca pełną zdolność do czynności prawnych.
 
-2. Członkiem zarządu nie może być osoba, która została skazana prawomocnym wyrokiem za przestępstwa określone w art. 228–231 oraz w przepisach rozdziałów XXXIII–XXXVII ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138, 1726, 1855, 2339 i 2600 oraz z 2023 r. poz. 289).
+2. Członkiem zarządu nie może być osoba, która została skazana prawomocnym wyrokiem za przestępstwa określone w art. 228–231 oraz w przepisach rozdziałów XXXIII-XXXVII ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138, 1726, 1855, 2339 i 2600 oraz z 2023 r. poz. 289).
 
 3. Zakaz, o którym mowa w ust. 2, ustaje z upływem piątego roku od dnia uprawomocnienia się wyroku skazującego, chyba że wcześniej nastąpiło zatarcie skazania.
 
@@ -530,6 +547,12 @@ source: "isap-pdf"
 
 **Art. 72.** Uchwały zgromadzenia beneficjentów wymagają:
 
+- **1)** rozpatrzenie i zatwierdzenie sprawozdania finansowego fundacji rodzinnej za poprzedni rok obrotowy;
+- **2)** udzielenie absolutorium członkom organów fundacji rodzinnej z wykonania przez nich obowiązków;
+- **3)** podział lub pokrycie wyniku finansowego netto;
+- **4)** wybór firmy audytorskiej, w przypadku gdy sprawozdanie finansowe, zgodnie z ustawą z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120 i 295), podlega badaniu;
+- **5)** inne sprawy wymienione w ustawie lub statucie.
+
 **Art. 73.**
 
 1. Jeżeli statut nie stanowi inaczej, zgromadzenie beneficjentów jest ważne bez względu na liczbę reprezentowanych na nim głosów.
@@ -561,6 +584,10 @@ source: "isap-pdf"
 2. W skład zespołu audytorów wchodzą biegły rewident, doradca podatkowy, adwokat lub radca prawny.
 
 **Art. 78.** Audytu może dokonywać osoba, która w okresie nim objętym i w jego trakcie:
+
+- **1)** jest niezależna od danej fundacji rodzinnej;
+- **2)** nie brała i nie bierze udziału w procesie podejmowania decyzji przez fundację rodzinną;
+- **3)** nie świadczyła i nie świadczy czynności rewizji finansowej lub doradztwa na rzecz fundacji rodzinnej.
 
 **Art. 79.**
 
@@ -600,11 +627,17 @@ source: "isap-pdf"
 
 **Art. 87.** Fundacja rodzinna ulega rozwiązaniu, w przypadku gdy:
 
+- **1)** zaszły okoliczności wskazane w statucie, w szczególności upłynął okres, na jaki fundacja rodzinna została powołana, zrealizowany został cel fundacji rodzinnej, brak jest możliwości dalszej realizacji celu fundacji rodzinnej lub jego realizacja wiąże się z nadmiernymi trudnościami, a usunięcie przeszkód nie może nastąpić bez konieczności poniesienia niewspółmiernie wysokich kosztów;
+- **2)** jest zarządzana w sposób oczywiście sprzeczny z jej celem lub interesami beneficjentów;
+- **3)** z innych ważnych powodów kontynuowanie działalności fundacji rodzinnej jest niecelowe;
+- **4)** zakończone zostało postępowanie upadłościowe fundacji rodzinnej prowadzącej działalność gospodarczą;
+- **5)** zaszły okoliczności, o których mowa w art. 105.
+
 **Art. 88.** Sąd rejestrowy, wyznaczając odpowiedni termin, może wezwać zarząd do usunięcia naruszeń, o których mowa w art. 87 pkt 2, pod rygorem zastosowania grzywny przewidzianej w przepisach ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego o egzekucji świadczeń niepieniężnych. W przypadku gdy zarząd nie usunie naruszeń w terminie, sąd rejestrowy nakłada grzywnę na obowiązanych. Przepisu art. 1053 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego nie stosuje się.
 
 **Art. 89.**
 
-1. W przypadku wystąpienia okoliczności, o których mowa w art. 87:
+1. Wprzypadku wystąpienia okoliczności, o których mowa w art. 87:
 
 - **1)** pkt 1 – rozwiązanie fundacji rodzinnej następuje na podstawie uchwały zarządu;
 - **2)** pkt 3 – rozwiązanie fundacji rodzinnej następuje na podstawie jednomyślnej uchwały zgromadzenia beneficjentów;
@@ -862,6 +895,10 @@ source: "isap-pdf"
 
 **Art. 118.** Ilekroć do rejestru fundacji rodzinnych wpisuje się:
 
+- **1)** osobę fizyczną – zamieszcza się nazwisko i imiona oraz numer PESEL, a w przypadku gdy osoba, której dane umieszcza się w rejestrze fundacji rodzinnych, nie ma obowiązku posiadania takiego numeru – datę urodzenia;
+- **2)** inny podmiot niż określony w pkt 1 – zamieszcza się nazwę lub firmę, NIP oraz numer identyfikacyjny REGON, a jeżeli podmiot ten jest zarejestrowany w Krajowym Rejestrze Sądowym – także jego numer w tym rejestrze;
+- **3)** siedzibę i adres podmiotu – zamieszcza się dane obejmujące: województwo, powiat, gminę, miejscowość, ulicę, numer budynku lub lokalu oraz miejscowość poczty zgodnie z krajowym rejestrem urzędowym podziału terytorialnego kraju.
+
 **Art. 119.**
 
 1. Wniosek o wpis w rejestrze fundacji rodzinnych składa się na urzędowym formularzu.
@@ -936,15 +973,174 @@ source: "isap-pdf"
 
 **Art. 129.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2022 r. poz. 1360, 2337 i 2339) wprowadza się następujące zmiany:
 
-**Art. 130.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ) wprowadza się następujące zmiany:
+- **1)** w art. 927 § 3 otrzymuje brzmienie: „
 
-**Art. 131.** W ustawie z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2021 r. poz. 1043 oraz z 2022 r. poz. 1846 i 2180) w art. 3 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „9) nabycie własności rzeczy lub praw majątkowych będących przedmiotem świadczenia, o którym mowa w art. 2 ust. 2 ustawy z dnia 26 stycznia 2023 r. o fundacji rodzinnej (Dz. U. poz. 326), oraz stanowiących mienie otrzymane w związku z rozwiązaniem fundacji rodzinnej albo fundacji rodzinnej w organizacji.”.
+§ 3. Fundacja lub fundacja rodzinna, ustanowiona w testamencie przez spadkodawcę może być spadkobiercą, jeżeli zostanie wpisana do rejestru w ciągu dwóch lat od ogłoszenia testamentu. ” ;
+
+- **2)** w art. 991 § 2 otrzymuje brzmienie: „
+
+§ 2. Jeżeli uprawniony nie otrzymał należnego mu zachowku bądź w postaci uczynionej przez spadkodawcę darowizny, bądź w postaci powołania do spadku, bądź w postaci zapisu, bądź w postaci świadczenia od fundacji rodzinnej lub mienia w związku z rozwiązaniem fundacji rodzinnej, przysługuje mu przeciwko spadkobiercy roszczenie o zapłatę sumy pieniężnej potrzebnej do pokrycia zachowku albo do jego uzupełnienia. ” ;
+
+- **3)** w art. 993 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 i 3 w brzmieniu: „
+
+§ 2. Przy obliczaniu zachowku dolicza się także do spadku, stosownie do przepisów poniższych, fundusz założycielski fundacji rodzinnej wniesiony przez spadkodawcę, w przypadku gdy fundacja ta nie jest ustanowiona w testamencie.
+
+§ 3. Przy obliczaniu zachowku dolicza się także do spadku, stosownie do przepisów poniższych, mienie w związku z rozwiązaniem fundacji rodzinnej, o wartości nie większej niż wysokość funduszu założycielskiego fundacji rodzinnej wniesionego przez spadkodawcę. ” ;
+
+- **4)** po art. 994 dodaje się art. 9941 w brzmieniu: „
+
+**Art. 9941.**
+
+§ 1. Przy obliczaniu zachowku nie dolicza się do spadku funduszu założycielskiego fundacji rodzinnej wniesionego przed więcej niż dziesięciu laty, licząc wstecz od otwarcia spadku, chyba że fundacja rodzinna jest spadkobiercą.
+
+§ 2. Przy obliczaniu zachowku nie dolicza się do spadku mienia w związku z rozwiązaniem fundacji rodzinnej otrzymanego przez osoby niebędące spadkobiercami albo uprawnionymi do zachowku przed więcej niż dziesięciu laty, licząc wstecz od otwarcia spadku.
+
+§ 3. Przy obliczaniu zachowku należnego zstępnemu nie dolicza się do spadku funduszu założycielskiego fundacji rodzinnej i mienia w związku z rozwiązaniem fundacji rodzinnej, jeśli ich przekazanie nastąpiło w czasie, kiedy spadkodawca nie miał zstępnych. Nie dotyczy to jednak wypadku, gdy przekazanie nastąpiło na mniej niż trzysta dni przed urodzeniem się zstępnego.
+
+§ 4. Przy obliczaniu zachowku należnego małżonkowi nie dolicza się do spadku funduszu założycielskiego fundacji rodzinnej i mienia w związku z rozwiązaniem fundacji rodzinnej przekazanych przed zawarciem małżeństwa ze spadkodawcą. ” ;
+
+- **5)** w art. 995 dodaje się § 3 w brzmieniu: „
+
+§ 3. Wartość funduszu założycielskiego fundacji rodzinnej i mienia w związku z rozwiązaniem fundacji rodzinnej oblicza się według stanu z chwili ich przekazania, a według cen z chwili ustalania zachowku. W przypadku mienia w związku z rozwiązaniem fundacji rodzinnej w pierwszej kolejności oblicza się wartość funduszu założycielskiego i wartość mienia w związku z rozwiązaniem fundacji rodzinnej, a następnie porównuje się obie wartości, z uwzględnieniem art. 993 § 3. ” ;
+
+- **6)** w art. 996 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu: „
+
+§ 2. Świadczenie od fundacji rodzinnej i mienie w związku z rozwiązaniem fundacji rodzinnej przekazane na rzecz uprawnionego do zachowku zalicza się na należny mu zachowek. Jeżeli uprawnionym do zachowku jest dalszy zstępny spadkodawcy, zalicza się na należny mu zachowek także świadczenie od fundacji rodzinnej i mienie w związku z rozwiązaniem fundacji rodzinnej na rzecz jego wstępnego. ” ;
+
+- **7)** w art. 997 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu: „
+
+§ 2. Jeżeli uprawnionym do zachowku jest zstępny spadkodawcy, zalicza się na należny mu zachowek koszty zrealizowanego przez fundację rodzinną obowiązku alimentacyjnego ciążącego na spadkodawcy, o ile koszty te przekraczają przeciętną miarę przyjętą w danym środowisku. ” ;
+
+- **8)** po art. 997 dodaje się art. 9971 w brzmieniu: „
+
+**Art. 9971.**
+
+§ 1. Obowiązany do zaspokojenia roszczenia z tytułu zachowku może żądać odroczenia terminu jego płatności, rozłożenia go na raty, a w wyjątkowych przypadkach – jego obniżenia, przy uwzględnieniu sytuacji osobistej i majątkowej uprawnionego do zachowku oraz obowiązanego do zaspokojenia roszczenia z tytułu zachowku.
+
+§ 2. W przypadku rozłożenia na raty roszczenia z tytułu zachowku terminy ich uiszczenia nie mogą przekraczać łącznie pięciu lat. W wypadkach zasługujących na szczególne uwzględnienie sąd, na wniosek zobowiązanego, może odroczyć termin zapłaty rat już wymagalnych lub przedłużyć termin, o którym mowa w zdaniu pierwszym. Zmieniony termin nie może być dłuższy niż dziesięć lat.
+
+§ 3. W razie ustania okoliczności uzasadniających obniżenie zachowku obowiązany z tytułu zachowku na wniosek osoby uprawnionej do zachowku zwraca uprawnionemu do zachowku sumę pieniężną, o którą obniżono zachowek. Zwrotu sumy pieniężnej nie można żądać po upływie pięciu lat od dnia obniżenia zachowku. ” ;
+
+- **9)** w art. 1000 dodaje się § 4–7 w brzmieniu: „
+
+§ 4. Jeżeli uprawniony nie może otrzymać należnego mu zachowku od spadkobiercy lub osoby, na której rzecz został uczyniony zapis windykacyjny, może on żądać od fundacji rodzinnej, której fundusz założycielski doliczono do spadku, sumy pieniężnej potrzebnej do uzupełnienia zachowku. Jednakże fundacja rodzinna jest obowiązana do zapłaty powyższej sumy tylko w granicach wzbogacenia będącego skutkiem pokrycia funduszu założycielskiego przez spadkodawcę.
+
+§ 5. Jeżeli uprawniony nie może otrzymać należnego mu zachowku od spadkobiercy lub osoby, na której rzecz został uczyniony zapis windykacyjny, może on żądać od osoby, która otrzymała mienie w związku z rozwiązaniem fundacji rodzinnej doliczone do spadku, sumy pieniężnej potrzebnej do uzupełnienia zachowku. Jednakże osoba, która otrzymała mienie w związku z rozwiązaniem fundacji rodzinnej, jest obowiązana do zapłaty powyższej sumy tylko w granicach wzbogacenia będącego skutkiem otrzymania mienia w związku z rozwiązaniem fundacji rodzinnej.
+
+§ 6. Jeżeli osoba, która otrzymała mienie w związku z rozwiązaniem fundacji rodzinnej sama jest uprawniona do zachowku, ponosi ona odpowiedzialność względem innych uprawnionych do zachowku tylko do wysokości nadwyżki przekraczającej jej własny zachowek.
+
+§ 7. Osoba, która otrzymała mienie w związku z rozwiązaniem fundacji rodzinnej, może zwolnić się od obowiązku zapłaty sumy potrzebnej do uzupełnienia zachowku przez wydanie tego mienia. ” ;
+
+- **10)** w art. 1001 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu: „
+
+§ 2. Spośród osób, które otrzymały mienie w związku z rozwiązaniem fundacji rodzinnej, osoba otrzymująca mienie wcześniej ponosi odpowiedzialność stosownie do przepisów artykułu poprzedzającego tylko wtedy, gdy uprawniony do zachowku nie może uzyskać uzupełnienia zachowku od osoby, która otrzymała mienie później. ” ;
+
+- **11)** w art. 1007 dodaje się § 3 i 4 w brzmieniu: „
+
+§ 3. Roszczenie przeciwko fundacji rodzinnej obowiązanej do uzupełnienia zachowku z tytułu otrzymanego funduszu założycielskiego przedawnia się z upływem lat pięciu od otwarcia spadku.
+
+§ 4. Roszczenie przeciwko osobie obowiązanej do uzupełnienia zachowku z tytułu otrzymanego mienia w związku z rozwiązaniem fundacji rodzinnej przedawnia się z upływem lat pięciu od otwarcia spadku. ” ;
+
+- **12)** w art. 1048 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 i 3 w brzmieniu: „
+
+§ 2. Zrzeczenie się dziedziczenia może być ograniczone do zrzeczenia się tylko prawa do zachowku w całości lub w części.
+
+§ 3. Zrzeczenie się dziedziczenia na korzyść innej osoby uważa się w razie wątpliwości za zrzeczenie się pod warunkiem, że ta osoba będzie dziedziczyć. ” .
+
+**Art. 130.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** po art. 7782 dodaje się art. 7783 w brzmieniu: „
+
+**Art. 7783.** Tytułowi egzekucyjnemu wydanemu przeciwko fundatorowi fundacji rodzinnej sąd nadaje klauzulę wykonalności przeciwko fundacji rodzinnej ponoszącej odpowiedzialność za zobowiązania fundatora, jeżeli egzekucja przeciwko fundatorowi okaże się bezskuteczna, jak również wtedy, gdy jest oczywiste, że egzekucja ta będzie bezskuteczna. ” ;
+
+- **2)** w art. 1163 § 3 otrzymuje brzmienie: „
+
+§ 3. Przepisy § 1 i 2 stosuje się odpowiednio do zapisów na sąd polubowny zawartych w statucie fundacji rodzinnej, spółdzielni lub stowarzyszenia. ” .
+
+**Art. 131.** W ustawie z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2021 r. poz. 1043 oraz z 2022 r. poz. 1846 i 2180) w art. 3 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „
+
+- **9)** nabycie własności rzeczy lub praw majątkowych będących przedmiotem świadczenia, o którym mowa w art. 2 ust. 2 ustawy z dnia 26 stycznia 2023 r. o fundacji rodzinnej (Dz. U. poz. 326), oraz stanowiących mienie otrzymane w związku z rozwiązaniem fundacji rodzinnej albo fundacji rodzinnej w organizacji. ” .
 
 **Art. 132.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, 2687 i 2745 oraz z 2023 r. poz. 28 i 185) wprowadza się następujące zmiany:
 
+- **1)** w art. 5a w pkt 49 kropkę zastępuje się średnikiem i dodaje się pkt 50 w brzmieniu: „
+- **50)** fundacji rodzinnej – oznacza to fundację rodzinną oraz fundację rodzinną w organizacji, o których mowa w ustawie z dnia 26 stycznia 2023 r. o fundacji rodzinnej (Dz. U. poz. 326). ” ;
+- **2)** w art. 20 po ust. 1f dodaje się ust. 1g w brzmieniu: „
+
+1g. Za przychody z innych źródeł, o których mowa w art. 10 ust. 1 pkt 9, uważa się również przychody z tytułu otrzymania lub postawienia do dyspozycji świadczenia, o którym mowa w art. 2 ust. 2 ustawy z dnia 26 stycznia 2023 r. o fundacji rodzinnej, oraz mienia w związku z rozwiązaniem fundacji rodzinnej. Jeżeli przedmiotem tego świadczenia lub tym mieniem nie są pieniądze lub wartości pieniężne, przychód powstaje w ostatnim dniu miesiąca, w którym podatnik otrzymał takie świadczenie lub mienie, a w przypadku świadczenia lub mienia przysługującego za okres dłuższy niż miesiąc, przychód powstaje w ostatnim dniu każdego miesiąca, za który takie świadczenie lub mienie przysługuje. ” ;
+
+- **3)** w art. 21: w ust. 1 w pkt 156 kropkę zastępuje się średnikiem i dodaje się pkt 157 w brzmieniu: „
+    - **a)**
+
+- **157)** przychody, o których mowa w art. 20 ust. 1g: fundatora albo osoby będącej w stosunku do fundatora osobą, o której mowa w art. 4a ust. 1 ustawy z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2021 r. poz. 1043, z 2022 r. poz. 1846 i 2180 oraz z 2023 r. poz. 326), uprawnionych do otrzymania mienia w związku z rozwiązaniem fundacji rodzinnej, beneficjenta fundacji rodzinnej z tytułu świadczenia, o którym mowa w art. 2 ust. 2 ustawy z dnia 26 stycznia 2023 r. o fundacji rodzinnej, jeżeli beneficjentem jest fundator albo osoba będąca w stosunku do fundatora osobą, o której mowa w art. 4a ust. 1 ustawy z dnia 28 lipca 1983 r. o podatku od spadków i darowizn z zastrzeżeniem ust. 49. ” , dodaje się ust. 49 i 50 w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **b)**
+
+49. Zwolnienie, o którym mowa w ust. 1 pkt 157, stosuje się do części przychodów:
+
+- **1)** fundatora albo osoby będącej w stosunku do fundatora osobą, o której mowa w art. 4a ust. 1 ustawy z dnia 28 lipca 1983 r. o podatku od spadków i darowizn, uprawnionych do otrzymania mienia w związku z rozwiązaniem fundacji rodzinnej,
+- **2)** beneficjenta będącego fundatorem albo osobą będącą w stosunku do fundatora osobą, o której mowa w art. 4a ust. 1 ustawy z dnia 28 lipca 1983 r. o podatku od spadków i darowizn odpowiadającej proporcji, o której mowa w art. 27 ust. 4 ustawy z dnia 26 stycznia 2023 r. o fundacji rodzinnej, według stanu na dzień uzyskania przychodu.
+
+50. Zwolnienia, o którym mowa w ust. 1 pkt 127, nie stosuje się do świadczenia, o którym mowa w art. 2 ust. 2 ustawy z dnia 26 stycznia 2023 r. o fundacji rodzinnej. ” ;
+
+- **4)** w art. 30: w ust. 1 w pkt 16 kropkę zastępuje się średnikiem i dodaje się pkt 17 w brzmieniu: „
+    - **a)**
+
+- **17)** z tytułu uzyskania przychodów, o których mowa w art. 20 ust. 1g – w wysokości 15% przychodu. ” , w ust. 3 wyrazy „oraz 13–16” zastępuje się wyrazami „oraz 13–17”, w ust. 9 wyrazy „ust. 1 pkt 2, 4‒4b, 5a i 7a” zastępuje się wyrazami „ust. 1 pkt 2, 4‒4b, 5a, 7a i 17”;
+    - **b)**
+    - **c)**
+
+- **5)** w art. 41: w ust. 4 wyrazy „13–16” zastępuje się wyrazami „13–17”, po ust. 7 dodaje się ust. 7a i 7b w brzmieniu: „
+    - **a)**
+    - **b)**
+
+7a. Jeżeli przedmiotem świadczenia lub mieniem, o których mowa w art. 20 ust. 1g, nie są pieniądze lub wartości pieniężne oraz takie świadczenie lub mienie przysługują podatnikowi za okres dłuższy niż miesiąc, przy obliczaniu zryczałtowanego podatku za poszczególne miesiące przyjmuje się ich wartość przypadającą na jeden miesiąc.
+
+7b. Jeżeli przedmiotem świadczenia lub mieniem, o których mowa w art. 20 ust. 1g, nie są pieniądze lub wartości pieniężne, podatnik jest obowiązany wpłacić płatnikowi kwotę należnego zryczałtowanego podatku w terminie do 10. dnia miesiąca następującego po miesiącu, w którym podatnik otrzymał takie świadczenie lub mienie. Wpłatę tę uznaje się za podatek pobrany przez płatnika. ” .
+
 **Art. 133.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2022 r. poz. 2587, 2640 i 2745 oraz z 2023 r. poz. 185) wprowadza się następujące zmiany:
 
-**Art. 24r.**
+- **1)** w art. 1: w ust. 3 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+    - **a)**
+
+- **3)** fundacji rodzinnych w organizacji. ” , dodaje się ust. 7 w brzmieniu: „
+    - **b)**
+
+7. Niezależnie od postanowień ust. 3 pkt 1a, przepisy ustawy mają zastosowanie do spółek jawnych mających siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, których wspólnikiem jest co najmniej jedna fundacja rodzinna. ” ;
+
+- **2)** w art. 4a w pkt 35 kropkę zastępuje się średnikiem i dodaje się pkt 36 w brzmieniu: „
+- **36)** fundacji rodzinnej – oznacza to fundację rodzinną albo fundację rodzinną w organizacji w rozumieniu ustawy z dnia 26 stycznia 2023 r. o fundacji rodzinnej (Dz. U. poz. 326). ” ;
+- **3)** w art. 6: w ust. 1 w pkt 24 kropkę zastępuje się przecinkiem i dodaje się pkt 25 w brzmieniu: „
+    - **a)**
+
+- **25)** fundację rodzinną. ” , dodaje się ust. 6 i 7 w brzmieniu: „
+    - **b)**
+
+6. Zwolnienie, o którym mowa w ust. 1 pkt 25, nie ma zastosowania do podatku, o którym mowa w art. 24b i art. 24q.
+
+7. Zwolnienie, o którym mowa w ust. 1 pkt 25, nie ma zastosowania do działalności gospodarczej fundacji rodzinnej wykraczającej poza zakres określony w art. 5 ustawy z dnia 26 stycznia 2023 r. o fundacji rodzinnej. ” ;
+
+- **4)** w art. 24b dodaje się ust. 19 w brzmieniu: „
+
+19. Przepisy ust. 1–14 stosuje się odpowiednio do fundacji rodzinnej. ” ;
+
+- **5)** po art. 24p dodaje się art. 24q-24s w brzmieniu: „
+
+1. Podatek dochodowy od przekazanego lub postawionego do dyspozycji przez fundację rodzinną bezpośrednio lub pośrednio:
+
+- **1)** świadczenia, o którym mowa w art. 2 ust. 2 ustawy z dnia 26 stycznia 2023 r. o fundacji rodzinnej,
+- **2)** mienia w związku z rozwiązaniem fundacji rodzinnej ‒ wynosi 15% podstawy opodatkowania.
+
+2. Podstawę opodatkowania stanowi przychód odpowiadający wartości świadczenia lub mienia, o których mowa w ust. 1.
+
+3. W przypadku rozwiązania fundacji rodzinnej przychód odpowiadający wartości mienia, o którym mowa w ust. 1 pkt 2, pomniejsza się o wartość podatkową mienia wniesionego przez fundatora lub fundatorów.
+
+4. Przez wartość podatkową mienia, o której mowa w ust. 3, rozumie się wartość niezaliczoną uprzednio w jakiejkolwiek formie do kosztów uzyskania przychodów, jaka zostałaby przyjęta przez fundatora za taki koszt, gdyby składnik ten został przez niego odpłatnie zbyty bezpośrednio przed wniesieniem go do fundacji rodzinnej, nie wyższą od wartości rynkowej tego mienia.
+
+5. W przypadku gdy przedmiotem świadczenia lub mieniem, o których mowa w ust. 1, są rzeczy lub prawa lub inne świadczenia w naturze, w tym rzeczy i prawa przekazane lub postawione do dyspozycji nieodpłatnie lub częściowo odpłatnie, a także inne nieodpłatne lub częściowo odpłatne świadczenia, ich wartość ustala się stosując przepisy art. 12 ust. 5–6a.
+
+6. Podatek, o którym mowa w ust. 1, podlega wpłacie w terminie do 20. dnia miesiąca następującego po miesiącu, w którym świadczenie lub mienie, o których mowa w ust. 1, zostały przekazane lub postawione do dyspozycji.
 
 1. W zakresie w jakim fundacja rodzinna prowadzi działalność gospodarczą wykraczającą poza zakres określony w art. 5 ustawy z dnia 26 stycznia 2023 r. o fundacji rodzinnej stawka podatku, o którym mowa w art. 19, wynosi 25% podstawy opodatkowania.
 
@@ -952,38 +1148,70 @@ source: "isap-pdf"
 
 3. Do fundacji rodzinnej, o której mowa w ust. 1, nie stosuje się zwolnień i odliczeń określonych w art. 17–18f.
 
-**Art. 24s.**
-
 1. Fundacja rodzinna jest obowiązana złożyć do urzędu skarbowego deklarację, według ustalonego wzoru, o wysokości dochodu (przychodu) osiągniętego w roku podatkowym ‒ w terminie do końca trzeciego miesiąca roku następnego.
 
-2. Deklarację, o której mowa w ust. 1, składa się za pomocą środków komunikacji elektronicznej zgodnie z przepisami Ordynacji podatkowej.”;
+2. Deklarację, o której mowa w ust. 1, składa się za pomocą środków komunikacji elektronicznej zgodnie z przepisami Ordynacji podatkowej. ” ;
 
-- **6)** w art. 27:
-    - **a)** w ust. 1 po wyrazach „z zastrzeżeniem ust. 1d” dodaje się wyrazy „i 1da”,
-    - **b)** po ust. 1d dodaje się ust. 1da w brzmieniu: „1da. Przepis ust. 1 stosuje się do fundacji rodzinnej w zakresie nieobjętym zwolnieniem, o którym mowa w art. 6 ust. 1 pkt 25, z wyjątkiem wyłączenia określonego w art. 6 ust. 6.”;
+- **6)** w art. 27: w ust. 1 po wyrazach „z zastrzeżeniem ust. 1d” dodaje się wyrazy „i 1da”, po ust. 1d dodaje się ust. 1da w brzmieniu: „ 1da. Przepis ust. 1 stosuje się do fundacji rodzinnej w zakresie w jakim fundacja prowadzi działalność gospodarczą wykraczającą poza zakres określony w art. 5 ustawy z dnia 26 stycznia 2023 r. o fundacji rodzinnej. ” ;
+    - **a)**
+    - **b)**
 
-- **7)** w art. 28a w ust. 1 w pkt 1 po wyrazach „art. 24j ust. 1,” dodaje się wyrazy „art. 24s ust. 1,”;
-- **8)** w art. 28j w ust. 1 w pkt 4 po wyrazach „o charakterze powierniczym” dodaje się wyrazy „ , z wyłączeniem fundatorów i beneficjentów fundacji rodzinnej”.
+- **7)** w art. 28a w ust. 1 w pkt 1 po wyrazach „art. 24j ust. 1,” dodaje się wyrazy „art. 24s ust. 1,”.
 
 **Art. 134.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651 i 2707 oraz z 2023 r. poz. 180) wprowadza się następujące zmiany:
 
-**Art. 135.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2022 r. poz. 1009, z późn. zm. ) w art. 31 po wyrazach „art. 117d,” dodaje się wyrazy „art. 117e,”.
+- **1)** w art. 14n: w § 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+    - **a)**
+
+- **4)** zastosowania się przez fundację rodzinną do interpretacji indywidualnej wydanej przed powstaniem fundacji rodzinnej, na wniosek fundatora planującego utworzenie tej fundacji, w zakresie działalności tej fundacji. ” , § 2 otrzymuje brzmienie: „
+    - **b)**
+
+§ 2. W przypadkach, o których mowa w § 1, zmianę, uchylenie lub stwierdzenie wygaśnięcia interpretacji indywidualnej albo zmianę lub uchylenie postanowienia, o którym mowa w art. 14b § 5a, doręcza się odpowiednio spółce, podatkowej grupie kapitałowej w rozumieniu przepisów o podatku dochodowym od osób prawnych, grupie VAT w rozumieniu przepisów o podatku od towarów i usług, oddziałowi lub przedstawicielstwu, fundacji rodzinnej, wskazanym przez wnioskującego o wydanie interpretacji indywidualnej. ” ;
+
+- **2)** w art. 116a § 1 otrzymuje brzmienie: „
+
+§ 1. Za zaległości podatkowe innych osób prawnych niż wymienione w art. 116 i fundacji rodzinnej w organizacji odpowiadają solidarnie całym swoim majątkiem członkowie organów zarządzających tymi podmiotami. Przepis art. 116 stosuje się odpowiednio. ” ;
+
+- **3)** po art. 117d dodaje się art. 117e w brzmieniu: „
+
+§ 1. Fundacja rodzinna odpowiada całym swoim majątkiem solidarnie z fundatorem za zaległości podatkowe tego fundatora powstałe przed ustanowieniem fundacji rodzinnej.
+
+§ 2. Zakres odpowiedzialności fundacji rodzinnej jest ograniczony do wartości majątku wniesionego przez fundatora do fundacji rodzinnej.
+
+§ 3. Przepisy § 1 i 2 stosuje się odpowiednio do fundacji rodzinnej w organizacji. ” .
+
+**Art. 135.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2022 r. poz. 1009, z późn. zm.) w art. 31 po wyrazach „art. 117d,” dodaje się wyrazy „art. 117e,”.
 
 **Art. 136.** W ustawie z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego (Dz. U. z 2022 r. poz. 2569) wprowadza się następujące zmiany:
 
+- **1)** w art. 2a w ust. 3 w pkt 1 w lit. j średnik zastępuje się przecinkiem i dodaje się lit. k i l w brzmieniu: „ fundację rodzinną od jej fundatora, beneficjenta fundacji rodzinnej, będącego osobą bliską fundatora tej fundacji rodzinnej, od fundacji rodzinnej; ” ;
+    - **k)**
+    - **l)**
+
+- **2)** w art. 2b w ust. 4 w pkt 1 w lit. i średnik zastępuje się przecinkiem i dodaje się lit. j w brzmieniu: „ beneficjentowi fundacji rodzinnej, będącemu osobą bliską fundatora tej fundacji rodzinnej, jeżeli zbywcą jest fundacja rodzinna; ” ;
+    - **j)**
+
+- **3)** w art. 4 w ust. 4 w pkt 2 w lit. i średnik zastępuje się przecinkiem i dodaje się lit. j w brzmieniu: „ przez beneficjenta fundacji rodzinnej, będącego osobą bliską fundatora tej fundacji rodzinnej, jeżeli zbywcą jest fundacja rodzinna; ” .
+    - **j)**
+
 **Art. 137.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2022 r. poz. 1125 oraz z 2023 r. poz. 181 i 289) wprowadza się następujące zmiany:
 
-**Art. 64a.** Opłatę stałą w kwocie 500 złotych pobiera się od zgłoszenia fundacji rodzinnej do rejestru fundacji rodzinnych.
+- **1)** w art. 27 w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 i 14 w brzmieniu: „
+- **13)** uchylenie uchwały organu fundacji rodzinnej;
+- **14)** stwierdzenie nieważności uchwały organu fundacji rodzinnej. ” ;
+- **2)** w tytule II w dziale 4 po rozdziale 5 dodaje się rozdział 5a w brzmieniu: „
 
-**Art. 64b.**
+#### Rozdział 5a Sprawy z zakresu rejestru fundacji rodzinnych
 
-1. Opłatę stałą w kwocie 250 złotych pobiera się od wniosku o wpis w rejestrze fundacji rodzinnych.
-
-2. Jedną opłatę stałą w kwocie 100 złotych pobiera się od skargi na orzeczenie referendarza sądowego, chociażby dotyczyło kilku wpisów w rejestrze fundacji rodzinnych.”.
-
-**Art. 138.** W ustawie z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz. U. z 2020 r. poz. 7) w art. 2 ust. 2 otrzymuje brzmienie: „2. Niewypłacalność pracodawcy, o której mowa w ust. 1, nie zachodzi w odniesieniu do osób prawnych podlegających obowiązkowi wpisu do rejestru stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz samodzielnych publicznych zakładów opieki zdrowotnej, o którym mowa w rozdziale 3 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2022 r. poz. 1683 i 2436), wpisanych do rejestru przedsiębiorców z tytułu wykonywania działalności gospodarczej, fundacji rodzinnych, o których mowa w ustawie z dnia 26 stycznia 2023 r. o fundacji rodzinnej (Dz. U. poz. 326), jednostek zaliczanych, na podstawie odrębnych przepisów, do sektora finansów publicznych, a także osób fizycznych prowadzących gospodarstwo domowe zatrudniających osoby wykonujące pracę zarobkową w tym gospodarstwie.”.
+**Art. 138.** W ustawie z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz. U. z 2020 r. poz. 7) w art. 2 ust. 2 otrzymuje brzmienie: „ 2. Niewypłacalność pracodawcy, o której mowa w ust. 1, nie zachodzi w odniesieniu do osób prawnych podlegających obowiązkowi wpisu do rejestru stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz samodzielnych publicznych zakładów opieki zdrowotnej, o którym mowa w rozdziale 3 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2022 r. poz. 1683 i 2436), wpisanych do rejestru przedsiębiorców z tytułu wykonywania działalności gospodarczej, fundacji rodzinnych, o których mowa w ustawie z dnia 26 stycznia 2023 r. o fundacji rodzinnej (Dz. U. poz. 326), jednostek zaliczanych, na podstawie odrębnych przepisów, do sektora finansów publicznych, a także osób fizycznych prowadzących gospodarstwo domowe zatrudniających osoby wykonujące pracę zarobkową w tym gospodarstwie. ” .
 
 **Art. 139.** W ustawie z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2022 r. poz. 593, 655, 835, 2180 i 2185 oraz z 2023 r. poz. 180) w art. 2 w ust. 2:
+
+- **1)** w pkt 1 lit. b otrzymuje brzmienie: „ w przypadku trustu: – założyciela, w tym fundatora w rozumieniu ustawy z dnia 26 stycznia 2023 r. o fundacji rodzinnej (Dz. U. poz. 326), – powiernika, w tym członka zarządu w rozumieniu ustawy z dnia 26 stycznia 2023 r. o fundacji rodzinnej, – nadzorcę, jeżeli został ustanowiony, w tym członka rady nadzorczej w rozumieniu ustawy z dnia 26 stycznia 2023 r. o fundacji rodzinnej, – beneficjenta, w tym beneficjenta w rozumieniu ustawy z dnia 26 stycznia 2023 r. o fundacji rodzinnej lub – w przypadku gdy osoby fizyczne czerpiące korzyści z danego trustu nie zostały jeszcze określone – grupę osób, w których głównym interesie powstał lub działa trust, – inną osobę sprawującą kontrolę nad trustem, – inną osobę fizyczną o uprawnieniach lub obowiązkach równoważnych do określonych w tiret od pierwszego do piątego, ” ;
+    - **b)**
+
+- **2)** pkt 24 otrzymuje brzmienie: „
+- **24)** truście (trust) – rozumie się przez to regulowany przepisami prawa obcego stosunek prawny wynikający ze zdarzenia prawnego, umowy lub porozumienia, w tym zespołu takich zdarzeń lub czynności prawnych, na podstawie którego dokonuje się przeniesienia własności lub posiadania wartości majątkowych na powiernika w celu sprawowania zarządu powierniczego oraz udostępniania tych wartości beneficjentom tego stosunku oraz fundację rodzinną w rozumieniu ustawy z dnia 26 stycznia 2023 r. o fundacji rodzinnej; ” .
 
 #### Rozdział 15 Przepisy przejściowe i dostosowujące
 
@@ -999,7 +1227,7 @@ source: "isap-pdf"
 
 5. W przypadku niezłożenia w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy wniosku do Krajowego Rejestru Sądowego o wpis zmiany, o której mowa w ust. 1, sąd rejestrowy wszczyna postępowanie przymuszające, o którym mowa w art. 24 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2022 r. poz. 1683 i 2436).
 
-**Art. 141.** Przepis art. 997 ustawy zmienianej w art. 129 stosuje się także do postępowań w sprawie roszczeń z tytułu zachowku wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy.
+**Art. 141.** Przepis art. 9971 ustawy zmienianej w art. 129 stosuje się także do postępowań w sprawie roszczeń z tytułu zachowku wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy.
 
 **Art. 142.** Tworzy się rejestr fundacji rodzinnych.
 

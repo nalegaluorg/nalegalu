@@ -1,0 +1,60 @@
+---
+title: "Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 23 sierpnia 2024 r. zmieniające rozporządzenie w sprawie refundacji składek na ubezpieczenia społeczne osób niepełnosprawnych"
+address: WDU20240001297
+eli: DU/2024/1297
+publisher: DU
+year: 2024
+pos: 1297
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 23 sierpnia 2024 r. zmieniające rozporządzenie w sprawie refundacji składek na ubezpieczenia społeczne osób niepełnosprawnych
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2024 poz. 1297 |
+| ISAP | WDU20240001297 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2024-08-23 |
+| Data wydania | 2024-08-27 |
+| Wejście w życie | 2024-08-28 |
+| Ostatnia zmiana | 2024-12-02 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001297) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1297/text.pdf) |
+
+Treść rozporządzenia
+Na podstawie art. 25d ust. 4 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2024 r. poz. 44, 858, 1089 i 1165) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 9 stycznia 2009 r. w sprawie refundacji składek na ubezpieczenia społeczne osób niepełnosprawnych (Dz. U. z 2022 r. poz. 1502 oraz z 2023 r. poz. 2209) wprowadza się następujące zmiany:
+1)
+§ 3 otrzymuje brzmienie:
+„
+§ 3.
+Refundacja składek jest udzielana jako pomoc de minimis spełniająca warunki określone w rozporządzeniu Komisji (UE) nr 2023/2831 z dnia 13 grudnia 2023 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 2023/2831 z 15.12.2023), w rozporządzeniu Komisji (UE) nr 1408/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis wsektorze rolnym (Dz. Urz. UE L 352 z 24.12.2013, str. 9, z późn. zm.) albo w rozporządzeniu Komisji (UE) nr 717/2014 z dnia 27 czerwca 2014 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis wsektorze rybołówstwa i akwakultury (Dz. Urz. UE L 190 z 28.06.2014, str. 45, z późn. zm.).
+” ;
+2)
+w § 13a:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Refundacja składek stanowiąca pomoc de minimis , spełniającą warunki określone w rozporządzeniu Komisji (UE) nr 2023/2831 z dnia 13 grudnia 2023 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis, jest udzielana dodnia 30 czerwca 2031 r.
+” ,
+b)
+ust. 3 otrzymuje brzmienie:
+„
+3.
+Refundacja składek stanowiąca pomoc de minimis w sektorze rybołówstwa i akwakultury, spełniającą warunki określone w rozporządzeniu Komisji (UE) nr 717/2014 z dnia 27 czerwca 2014 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis w sektorze rybołówstwa i akwakultury, jest udzielana do dnia 30 czerwca 2030 r.
+” .
+§ 2.
+Do wniosków, o których mowa w § 2 rozporządzenia zmienianego w § 1, które zostały złożone i nie zostały rozpatrzone przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
+§ 3.
+Do refundacji składek na ubezpieczenia społeczne, która została wypłacona od dnia 1 lipca 2024 r. do dnia poprzedzającego dzień wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
+§ 4.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2715). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 51 z 22.02.2019, str. 1, Dz. Urz. UE L 275 z 25.10.2022, str. 55 oraz Dz. Urz. UE L 2023/2391 z 05.10.2023. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 414 z 09.12.2020, str. 15, Dz. Urz. UE L 326 z 21.12.2022, str. 8 oraz Dz. Urz. UE L 2023/2391 z 04.10.2023.
+

@@ -8,10 +8,10 @@ pos: 40
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 stycznia 2017 r.
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 27 grudnia 2016 r. w sprawie sposobu określania profilu ryzyka banków i oddziałów banków zagranicznych oraz uwzględniania tego profilu w wyznaczaniu składek na fundusz gwarancyjny banków
 
 | Pole | Wartość |
 |---|---|
@@ -22,69 +22,203 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-27 |
 | Data wydania | 2017-01-05 |
+| Wejście w życie | 2017-01-06 |
 | Ostatnia zmiana | 2025-04-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000040) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/40/text.pdf) |
 
-A. OBLICZANIE SKŁADEK KWARTALNYCH NALEŻNYCH OD PODMIOTÓW WNOSZĄCYCH SKŁADKI
-1. Obliczanie wartości wskaźników ryzyka, o których mowa w § 4 ust. 2 i 3 rozporządzenia KATEGORIA NAZWA WZÓR / OPIS ZNAK WSKAŹNIKA Kapitał Wskaźnik Wskaźnik dźwigni obliczany zgodnie z art. 429, dźwigni art. 429a i art. 429b rozporządzenia (UE) nr 575/2013.
-(-) Wyższa W przypadku, o którym mowa w § 10 rozporządzenia, stosuje się wskaźnik: Kapitał Tier 1 Aktywa ogółem wartość oznacza niższe ryzyko Kapitał Wskaźnik (-) pokrycia Rzeczywisty poziom wskaźnika Wyższa kapitałem kapitału podstawowego Tier 1 wartość Wymagany poziom wskaźnika kapitału podstawowego lub Tier 1 oznacza niższe Rzeczywisty poziom wskaźnika kapitału Tier 1 ryzyko Wymagany poziom wskaźnika lub kapitału Tier 1 Rzeczywisty poziom funduszy własnych Wymagany poziom Wskaźnik mierzy funduszy rzeczywisty własnych kapitał posiadany przez dany podmiot wnoszący składkę powyżej całkowitych wymogów kapitałowych obowiązujących ten podmiot, w tym dodatkowe fundusze własne wymagane na podstawie art. 138 ust. 1 pkt 2a ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe.
-Kapitał Wskaźnik kapitału Kapitał podstawowy Tier 1 podstawowe- Współczynnik Łączna kwota zdefiniowany ekspozycji w art. na 92 ryzyko ust. 2 lit. a go Tier 1 rozporządzenia (UE) nr 575/2013, zgłaszany zgodnie z załącznikiem I do rozporządzenia wykonawczego Komisji (UE) nr 680/2014 z dnia 16 kwietnia 2014 r. ustanawiającego wykonawcze standardy techniczne dotyczące sprawozdawczości nadzorczej instytucji zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 575/2013 (Dz. Urz. UE L 191 z 28.06.2014, str. 1, z późn. zm.
-(-) Wyższa wartość oznacza niższe ryzyko );
-kapitał podstawowy Tier 1 zgodnie z art. 26 rozporządzenia (UE) nr 575/2013;
-całkowita kwota ekspozycji zgodnie z art. 92 ust. 3 rozporządzenia (UE) nr 575/2013.
-Płynność Wskaźnik Wskaźnik pokrycia wypływów netto zgodnie i pokrycia z art. 460 rozporządzenia (UE) nr 575/2013 oraz finansowanie wypływów z rozporządzeniem delegowanym Komisji (UE) netto (LCR) nr 61/2015 z dnia 10 października 2014 r.
-uzupełniającym rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 575/2013 w odniesieniu do wymogu pokrycia wypływów netto dla instytucji kredytowych (Dz. Urz.
-UE L 11 z 17.01.2015, str. 1, z późn. zm.
-(-) Wyższa wartość oznacza niższe ).
-ryzyko Płynność Wskaźnik Wskaźnik stabilnego finansowania netto (-) i stabilnego zgłaszany zgodnie z art. 415 rozporządzenia Wyższa finansowanie finansowania (UE) nr 575/2013. wartość netto oznacza (NSFR) niższe ryzyko Jakość Wskaźnik aktywów jakości Kredyty zagrożone kredytów Kredyty i instrumenty W przypadku dłużne gdy ogółem krajowe standardy rachunkowości lub sprawozdawczości nie nakładają na instytucje obowiązku sprawozdawczości w zakresie instrumentów dłużnych: Kredyty zagrożone kredyty Kredyty zagrożone: ogółem dla podmiotów stosujących Międzynarodowe Standardy Rachunkowości (MSR) aktywa finansowe, co do których stwierdzono obiektywne przesłanki utraty wartości, o których mowa w paragrafie 59 w MSR 39 i zostały uznane za aktywa, które utraciły wartość, zgodnie z zasadami określonymi w MSR 39;
-dla podmiotów stosujących Polskie Standardy Rachunkowości (PSR) ekspozycje kredytowe (+) Wyższa wartość oznacza wyższe ryzyko zakwalifikowane do grupy zagrożonych.
-Model prowadzenia działalności i zarządzanie Wskaźnik relacji aktywów ważonych ryzykiem (+) Łączna kwota ekspozycji na ryzyko Wyższa Całkowita kwota Aktywa ekspozycji ogółem na ryzyko wartość zgodnie z art. 92 ust. 3 rozporządzenia (UE) oznacza nr 575/2013.
-(RWA) do wyższe ryzyko aktywów ogółem Model Wskaźnik (+)/(-) prowadzenia stopy zwrotu Wynik netto Wartości działalności z aktywów Aktywa ogółem ujemne i (ROA) oznaczają zarządzanie wyższe ryzyko, przy czym zbyt wysokie wartości mogą oznaczać zwiększone ryzyko Potencjalne Wskaźnik straty relacji Aktywa ogółem aktywa obciążone Funduszu aktywów aktywa ob Ś ci r ą o ż d o k n i e g w w ar y a z n n t a o c w za a n n e e na podstawie nieobciążo- Wytycznych Europejskiego Urzędu Nadzoru nych do Bankowego w sprawie ujawniania informacji środków o aktywach obciążonych i aktywach wolnych od gwarantowa- obciążeń, wydanych na podstawie art. 443 nych rozporządzenia (UE) nr 575/2013, a w przypadku wydania przez Komisję Europejską (-) Wyższa wartość oznacza niższe ryzyko regulacyjnych standardów technicznych na podstawie art. 443 rozporządzenia (UE) nr 575/2013 zgodnie z tymi przepisami.
-2. Przypisanie indywidualnych punktowych ocen ryzyka (IRS) wszystkim wskaźnikom dla każdego podmiotu wnoszącego składkę
-1) Fundusz przypisuje indywidualne punktowe oceny ryzyka (IRS) wszystkim wskaźnikom dla każdego podmiotu „i” wnoszącego składkę. Dla każdego wskaźnika ryzyka indywidualne punktowe oceny ryzyka mieszczą się w przedziale między 0 a 100, gdzie 0 oznacza najniższe ryzyko, a 100 najwyższe ryzyko.
-2) Fundusz przypisuje indywidualne punktowe oceny ryzyka przy użyciu metody skali ruchomej.
-W metodzie skali ruchomej w odniesieniu do każdego podmiotu jest obliczana indywidualna punktowa ocena ryzyka (IRS ) dla każdego wskaźnika ryzyka A . Każdy wskaźnik ma zdefiniowaną górną i dolną granicę a i b .
-Jeżeli wyższa wartość wskaźnika wskazuje na podmiot większego ryzyka i wskaźnik przyjmuje wartość powyżej górnej granicy, IRS przyjmuje wartość równą 100. Jeżeli wartość wskaźnika znajduje się poniżej dolnej granicy, IRS przyjmuje wartość 0.
-Jeżeli wartość wskaźnika znajduje się pomiędzy zdefiniowanymi granicami, IRS przyjmuje wartość z przedziału (0, 100). W przypadku każdego wskaźnika ryzyka A jego wartość będzie odpowiadała punktacji wyjściowej (IRS ): gdzie j = 1…n n liczba stosowanych wskaźników ryzyka.
-Jeżeli niższa wartość wskaźnika wskazuje na podmiot większego ryzyka, a wskaźnik znajduje się poniżej dolnej granicy, IRS przyjmuje wartość równą 100. Jeżeli wartość wskaźnika kształtuje się powyżej górnej granicy, IRS przyjmuje wartość 0.
-Jeżeli wartość wskaźnika znajduje się pomiędzy zdefiniowanymi granicami, IRS przyjmuje wartość z przedziału (0, 100). W przypadku każdego wskaźnika ryzyka A jego wartość będzie odpowiadała punktacji wyjściowej (IRS ):   0 ż   =    >  100 ż  <   −  − gdzie j = 1…n × 100, ż  ≤  ≤  n liczba stosowanych wskaźników ryzyka.
-3. Obliczenie całkowitej oceny punktowej ryzyka (ARS) dla każdego podmiotu wnoszącego składkę Ocena ARS jest ważoną sumą wszystkich punktowych ocen ryzyka podmiotu wnoszącego składkę obliczaną według wzoru:  =  × gdzie IW = : waga j-tej oceny, ∑  .
-= 100%
-4. Przypisanie każdemu podmiotowi wnoszącemu składkę całkowitej wagi ryzyka (ARW) Fundusz przypisuje podmiotom ich całkowite wagi ryzyka (ARW) na podstawie ich całkowitych ocen punktowych ryzyka (ARS) przy użyciu metody skali ruchomej.
-W metodzie skali ruchomej ARS jest przeliczana na całkowitą wagę ryzyka (ARW ) w oparciu o wzór funkcji liniowej.
-ARW związana z ARS ma charakter liniowy, z górną i dolną granicą α i β. Przeliczenie ARS na ARW metodą funkcji liniowej jest dokonywane z wykorzystaniem następującego wzoru:  =  +−× /100
-5. Ustalenie łącznych kwot składek należnych w danym kwartale odrębnie od banków i oddziałów banków zagranicznych
-1) Fundusz ustala łączną kwotę składek należną w danym kwartale od banków według wzoru: ∑   = 0,25 ×  × −1 gdzie: ∑  −1 + ∑  −1 CLb(t) = łączna kwota składek należna w danym kwartale od banków, CL = łączna kwota składek, CDb (t-1) = środki gwarantowane zgromadzone w banku „i” na koniec kwartału t-1, CDo (t-1) = środki gwarantowane zgromadzone w oddziale banku zagranicznego „i” na koniec kwartału t-1.
-2) Fundusz ustala łączną kwotę składek należną w danym kwartale od oddziałów banków zagranicznych według wzoru: gdzie:  = 0,25 × −  CLo(t) = łączna kwota składek należna w danym kwartale od oddziałów banków zagranicznych.
-6. Obliczenie składek uzależnionych od ryzyka dla każdego banku
-1) Składki kwartalne na fundusz gwarancyjny banków należne od banków są obliczane dla każdego banku według wzoru: Cb (t) = CR(t) × [ARWb × (1-U )] × CDb (t-1) gdzie: Cb (t) = składka kwartalna banku „i” w kwartale t, CR(t) = stawka (taka sama dla wszystkich banków w danym kwartale), ARWb = całkowita waga ryzyka dla banku „i”, U = procentowy poziom ulgi z tytułu przynależności banku „i” do systemu ochrony instytucjonalnej (IPS). Przyjmuje wartość 50% dla banków, które w pierwszym dniu kwartału, za który należna jest składka, należały do IPS, oraz wartość 0 dla pozostałych banków.
-2) Stawka jest określana jako iloraz jednej czwartej łącznej kwoty składek (CL) i sumy środków gwarantowanych wszystkich banków i oddziałów banków zagranicznych: 0,25 ×   =
-3) Jeżeli łączna suma składek ∑ kwartalnych  −1 od + wszystkich ∑  −1 banków jest wyższa lub niższa od łącznej kwoty składek należnej w danym kwartale od banków, stosuje się współczynnik korekty (µb) wyznaczany jako iloraz łącznej kwoty składek należnej w danym kwartale od banków oraz sumy nieskorygowanych składek kwartalnych od wszystkich banków (taki sam dla wszystkich banków wnoszących składki w danym kwartale):  = 
-4) Składki kwartalne na fundusz gwarancyjny ∑   banków wnoszone przez banki po uwzględnieniu współczynnika korekty są obliczane według wzoru: Cb *(t) = Cb (t) × µb
-5) Jeżeli Fundusz dopuści wnoszenie składek minimalnych, o których mowa w § 7 rozporządzenia, składki kwartalne są wyznaczane według jednego z dwóch wzorów:
-a) w przypadku gdy składka minimalna jest uwzględniana jako kwota doliczona do kwoty składki kwartalnej uzależnionej od ryzyka: Cb **(t) = MC + Cb (t) × µb
-b) w przypadku gdy składka minimalna jest uwzględniana jako dolny poziom kwoty składki kwartalnej: Cb **(t) = Max {MC ; (Cb (t) × µb)} gdzie: Cb *(t) = składka kwartalna banku „i” w kwartale t, po uwzględnieniu współczynnika korekty, Cb **(t) = składka kwartalna banku „i” w kwartale t w przypadku stosowania składek minimalnych, MC = składka minimalna.
-7. Obliczenie składek uzależnionych od ryzyka dla każdego oddziału banku zagranicznego
-1) Składki kwartalne na fundusz gwarancyjny banków należne od oddziałów banków zagranicznych są obliczane dla każdego oddziału banku zagranicznego według wzoru: Co (t) = CR(t) × ARWo × CDo (t-1) gdzie: Co (t) = składka kwartalna oddziału banku zagranicznego „i” w kwartale t, CR(t) = stawka (taka sama dla wszystkich oddziałów banków zagranicznych w danym kwartale), ARWo = całkowita waga ryzyka dla oddziału banku zagranicznego „i”.
-2) Stawka jest określana jako iloraz jednej czwartej łącznej kwoty składek i sumy środków gwarantowanych wszystkich banków i oddziałów banków zagranicznych:  = 0,25 × 
-3) Jeżeli łączna suma składek ∑  kwartalnych −1 + ∑ od  wszystkich −1 oddziałów banków zagranicznych jest wyższa lub niższa od łącznej kwoty składek należnej w danym kwartale od oddziałów banków zagranicznych, stosuje się współczynnik korekty (µo) wyznaczany jako iloraz łącznej kwoty składek należnej w danym kwartale od oddziałów banków zagranicznych oraz sumy nieskorygowanych składek kwartalnych od wszystkich oddziałów banków zagranicznych (dla wszystkich oddziałów banków zagranicznych wnoszących składki w danym kwartale):   =
-4) Składki kwartalne na fundusz gwarancyjny ∑   banków wnoszone przez oddziały banków zagranicznych po uwzględnieniu współczynnika korekty są obliczane według wzoru: Co *(t) = Co (t) × µo
-5) Jeżeli Fundusz dopuści wnoszenie składek minimalnych, o których mowa w § 7 rozporządzenia, składki kwartalne są wyznaczane według jednego z dwóch wzorów:
-a) w przypadku gdy składka minimalna jest uwzględniana jako kwota doliczona do kwoty składki kwartalnej uzależnionej od ryzyka: Co ** (t) = MC + Co (t) × µo
-b) w przypadku gdy składka minimalna jest uwzględniana jako dolny poziom kwoty składki kwartalnej: Co ** (t) = Max {MC ; (Co (t) × µo)} gdzie: Co *(t) = składka kwartalna oddziału banku zagranicznego „i” w kwartale t, po uwzględnieniu współczynnika korekty, Co **(t) = składka kwartalna oddziału banku zagranicznego „i” w kwartale t w przypadku stosowania składek minimalnych, MC = składka minimalna.
-B. OBLICZANIE SKŁADEK NADZWYCZAJNYCH NALEŻNYCH OD PODMIOTÓW WNOSZĄCYCH SKŁADKI
-1. Przypisanie każdemu podmiotowi wnoszącemu składkę całkowitej wagi ryzyka (ARW) Przypisanie każdemu podmiotowi wnoszącemu składkę całkowitej wagi ryzyka ARW następuje zgodnie z częścią A pkt 1–4.
-2. Ustalenie łącznych kwot składek nadzwyczajnych należnych odrębnie od banków i oddziałów banków zagranicznych
-1) Fundusz ustala łączną kwotę składek nadzwyczajnych należną od banków według wzoru: ∑   =  × −1 gdzie: ∑  −1 + ∑  −1 CLNb(t) = łączna kwota składek nadzwyczajnych należna od banków, CLN = łączna kwota składek nadzwyczajnych, CDb (t-1) = środki gwarantowane zgromadzone w banku „i” na koniec kwartału t-1, CDo (t-1) = środki gwarantowane zgromadzone w oddziale banku zagranicznego „i” na koniec kwartału t-1.
-2) Fundusz ustala łączną kwotę składek nadzwyczajnych należną od oddziałów banków zagranicznych według wzoru: gdzie:  = −  CLNo(t) = łączna kwota składek należna od oddziałów banków zagranicznych.
-3. Obliczenie składek uzależnionych od ryzyka dla każdego banku
-1) Składki nadzwyczajne na fundusz gwarancyjny banków należne od banków są obliczane dla każdego banku według wzoru: CNb (t) = CR(t) × [ARWb × (1-U )] × CDb (t-1) gdzie: CNb (t) = składka nadzwyczajna banku „i”, CR(t) = stawka (taka sama dla wszystkich banków), ARWb = całkowita waga ryzyka dla banku „i”, U = procentowy poziom ulgi z tytułu przynależności banku „i” do systemu ochrony instytucjonalnej (IPS). Przyjmuje wartość 50% dla banków, które w pierwszym dniu kwartału, w którym Rada Funduszu zobowiązała podmioty do wniesienia składek nadzwyczajnych, należały do IPS, oraz wartość 0 dla pozostałych banków.
-2) Stawka jest określana jako iloraz łącznej kwoty składek nadzwyczajnych (CLN) i sumy środków gwarantowanych wszystkich banków i oddziałów banków zagranicznych:   =
-3) Jeżeli łączna suma składek ∑ nadzwyczajnych  −1 + ∑ od  wszystkich −1 banków jest wyższa lub niższa od łącznej kwoty składek nadzwyczajnych należnej od banków, stosuje się współczynnik korekty (µb) wyznaczany jako iloraz łącznej kwoty składek nadzwyczajnych należnej od banków oraz sumy nieskorygowanych składek nadzwyczajnych od wszystkich banków (dla wszystkich banków):   =
-4) Składki nadzwyczajne na fundusz ∑ gwarancyjny   banków wnoszone przez banki po uwzględnieniu współczynnika korekty są obliczane według wzoru: CNb *(t) = CNb (t) × µb gdzie: CNb *(t) = składka nadzwyczajna banku „i”, po uwzględnieniu współczynnika korekty.
-4. Obliczenie składek uzależnionych od ryzyka dla każdego oddziału banku zagranicznego
-1) Składki nadzwyczajne na fundusz gwarancyjny banków należne od oddziałów banków zagranicznych są obliczane dla każdego oddziału banku zagranicznego według wzoru: CNo (t) = CR(t) × ARWo × CDo (t-1) gdzie: CNo (t) = składka nadzwyczajna oddziału banku zagranicznego „i”, CR(t) = stawka (taka sama dla wszystkich oddziałów banków zagranicznych), ARWo = całkowita waga ryzyka dla oddziału banku zagranicznego „i”.
-2) Stawka jest określana jako iloraz łącznej kwoty składek nadzwyczajnych i sumy środków gwarantowanych wszystkich banków i oddziałów banków zagranicznych:   =
-3) Jeżeli łączna suma składek ∑  nadzwyczajnych −1 + ∑  od −1 wszystkich oddziałów banków zagranicznych jest wyższa lub niższa od łącznej kwoty składek nadzwyczajnych należnej od oddziałów banków zagranicznych, stosuje się współczynnik korekty (µo) wyznaczany jako iloraz łącznej kwoty składek nadzwyczajnych należnej od oddziałów banków zagranicznych oraz sumy nieskorygowanych składek nadzwyczajnych od wszystkich oddziałów banków zagranicznych (dla wszystkich oddziałów banków zagranicznych):   =
-4) Składki nadzwyczajne na fundusz ∑ gwarancyjny   banków wnoszone przez oddziały banków zagranicznych po uwzględnieniu współczynnika korekty są obliczane według wzoru: CNo *(t) = CNo (t) × µo gdzie: CNo *(t) = składka nadzwyczajna oddziału banku zagranicznego „i”, po uwzględnieniu współczynnika korekty.
+Treść rozporządzenia
+Załącznik –
+Treść rozporządzenia
+Na podstawie art. 289 ust. 11 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996 i 1997) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa sposób określania profilu ryzyka banków i oddziałów banków zagranicznych objętych obowiązkowym systemem gwarantowania depozytów wnoszących składki na fundusz gwarancyjny banków, o którym mowa w art. 272 ust. 1 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, zwanej dalej „ustawą”, i sposób uwzględnienia tego profilu w wyznaczaniu składek na ten fundusz:
+1)
+sposób obliczania składek należnych od poszczególnych banków i oddziałów banków zagranicznych zobowiązanych do wniesienia składki;
+2)
+dobór wskaźników określających profil ryzyka banku i oddziału banku zagranicznego oraz sposób ich wykorzystania;
+3)
+metody określania profilu ryzyka banku i oddziału banku zagranicznego;
+4)
+minimalny poziom ulgi przy wyliczaniu składki, w przypadku przynależności banku do systemu ochrony instytucjonalnej;
+5)
+sposób uwzględnienia przynależności banku do sektora niskiego ryzyka przy wyliczaniu składki;
+6)
+zasady stosowania składek minimalnych;
+7)
+zasady oraz tryb dokonywania korekt określonych składek do wysokości łącznej kwoty składek w danym roku.
+§ 2.
+Ilekroć w rozporządzeniu jest mowa o:
+1)
+banku – należy przez to rozumieć bank krajowy w rozumieniu art. 4 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2016 r. poz. 1988, 1948, 1997 i 2260);
+2)
+łącznej kwocie składek – należy przez to rozumieć łączną kwotę składek na fundusz gwarancyjny banków na dany rok kalendarzowy, określoną przez Radę Funduszu zgodnie z art. 293 ust. 1 pkt 1 ustawy;
+3)
+łącznej kwocie składek nadzwyczajnych – należy przez to rozumieć łączną kwotę składek nadzwyczajnych na fundusz gwarancyjny banków, określoną przez Radę Funduszu zgodnie z art. 293 ust. 2 ustawy;
+4)
+metodzie wyznaczania składek – należy przez to rozumieć odpowiednio metodę wyznaczania składek, o których mowa w art. 286 ust. 1 oraz art. 291 ust. 1 ustawy, wnoszonych przez banki albo oddziały banków zagranicznych na obowiązkowy system gwarantowania depozytów w bankach i oddziałach banków zagranicznych, opracowaną przez Fundusz zgodnie z przepisami rozporządzenia;
+5)
+oddziale banku zagranicznego – należy przez to rozumieć oddział banku zagranicznego w rozumieniu art. 4 ust. 1 pkt 20 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe;
+6)
+podmiocie wnoszącym składki – należy przez to rozumieć bank lub oddział banku zagranicznego;
+7)
+rozporządzeniu (UE) nr 575/2013 – należy przez to rozumieć rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych i firm inwestycyjnych, zmieniające rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm.);
+8)
+składce – należy przez to rozumieć środki należne od podmiotów wnoszących składki zgodnie z art. 286 ust. 2 ustawy, w tym środki należne tytułem składek kwartalnych lub tytułem składek nadzwyczajnych, o których mowa w art. 291 ustawy;
+9)
+środkach gwarantowanych – należy przez to rozumieć środki deponenta objęte ochroną gwarancyjną do wysokości, o której mowa w art. 24 ust. 1 ustawy.
+§ 3.
+1.
+Bankowy Fundusz Gwarancyjny, zwany dalej „Funduszem”, w zakresie oceny profilu ryzyka podmiotu wnoszącego składki stosuje następujące kategorie ryzyka:
+1)
+kapitał;
+2)
+płynność i finansowanie;
+3)
+jakość aktywów;
+4)
+model prowadzenia działalności i zarządzanie;
+5)
+potencjalne straty Funduszu.
+2.
+Do oceny kategorii ryzyka, o której mowa w ust. 1:
+1)
+pkt 1, wykorzystuje się co najmniej następujące wskaźniki ryzyka:
+a)
+wskaźnik dźwigni,
+b)
+wskaźnik pokrycia kapitałem lub wskaźnik kapitału podstawowego Tier 1, o którym mowa w art. 92 ust. 2 lit. a rozporządzenia (UE) nr 575/2013;
+2)
+pkt 2, wykorzystuje się co najmniej następujące wskaźniki ryzyka:
+a)
+wskaźnik pokrycia wypływów netto,
+b)
+wskaźnik stabilnego finansowania netto;
+3)
+pkt 3, wykorzystuje się co najmniej wskaźnik jakości kredytów;
+4)
+pkt 4, wykorzystuje się co najmniej następujące wskaźniki ryzyka:
+a)
+wskaźnik relacji aktywów ważonych ryzykiem do aktywów ogółem,
+b)
+wskaźnik stopy zwrotu z aktywów;
+5)
+pkt 5, wykorzystuje się co najmniej wskaźnik relacji aktywów nieobciążonych do środków gwarantowanych.
+3.
+Fundusz może wprowadzić dodatkowe wskaźniki ryzyka przypisane do kategorii ryzyka wskazanych w ust. 1.
+4.
+W przypadku oceny profilu ryzyka oddziałów banków zagranicznych Fundusz może wyłączyć jeden lub więcej wskaźników, o których mowa w ust. 2, jeżeli wskaźniki te nie są dostępne w związku z charakterem prawnym oddziałów banków zagranicznych lub wymogami nadzorczymi, którym podlegają.
+5.
+W przypadku, o którym mowa w ust. 4, Fundusz może zastąpić wyłączony wskaźnik najbardziej zbliżonym wskaźnikiem, odpowiednio odzwierciedlającym profil ryzyka oddziałów banków zagranicznych albo podwyższyć wagi pozostałych wskaźników ryzyka o łączną wagę wyłączonego wskaźnika.
+§ 4.
+1.
+Suma wag przypisanych wszystkim wskaźnikom ryzyka wynosi 100%.
+2.
+W zakresie oceny profilu ryzyka podmiotów wnoszących składki Fundusz stosuje następujące minimalne wagi w odniesieniu do kategorii ryzyka:
+1)
+kapitał – 18%;
+2)
+płynność i finansowanie – 18%;
+3)
+jakość aktywów – 13%;
+4)
+model prowadzenia działalności i zarządzanie – 13%;
+5)
+potencjalne straty Funduszu – 13%.
+3.
+Minimalna waga wskaźników ryzyka w ramach kategorii, o której mowa w ust. 2:
+1)
+pkt 1, dla wskaźnika:
+a)
+dźwigni wynosi 9%,
+b)
+pokrycia kapitałem lub wskaźnika kapitału podstawowego Tier 1, o którym mowa w art. 92 ust. 2 lit. a rozporządzenia (UE) nr 575/2013, wynosi 9%;
+2)
+pkt 2, dla wskaźnika:
+a)
+pokrycia wypływów netto wynosi 9%,
+b)
+stabilnego finansowania netto wynosi 9%;
+3)
+pkt 3, dla wskaźnika jakości kredytów wynosi 13%;
+4)
+pkt 4, dla wskaźnika:
+a)
+relacji aktywów ważonych ryzykiem do aktywów ogółem wynosi 6,5%,
+b)
+stopy zwrotu z aktywów wynosi 6,5%;
+5)
+pkt 5, dla wskaźnika relacji aktywów nieobciążonych do środków gwarantowanych wynosi 13%.
+4.
+Fundusz może podwyższyć minimalne wagi jednego lub kilku wskaźników ryzyka, o których mowa w ust. 3, nie więcej jednak niż o 15 punktów procentowych.
+5.
+Łączne wagi dodatkowych wskaźników ryzyka, o których mowa w § 3 ust. 3, nie mogą przekraczać 25%, a wagi poszczególnych dodatkowych wskaźników ryzyka – 15%, z wyjątkiem dodatkowych jakościowych wskaźników ryzyka reprezentujących wynik kompleksowej oceny profilu ryzyka i zarządzania podmiotu, których waga może zostać zwiększona do 25%.
+6.
+W przypadku gdy Fundusz nie stosuje dodatkowych wskaźników ryzyka, o których mowa w § 3 ust. 3, waga dla kategorii, o której mowa w § 3 ust. 1:
+1)
+pkt 1, wynosi 24%, w tym dla wskaźnika:
+a)
+dźwigni – 12%,
+b)
+pokrycia kapitałem lub wskaźnika kapitału podstawowego Tier 1, o którym mowa w art. 92 ust. 2 lit. a rozporządzenia (UE) nr 575/2013 – 12%;
+2)
+pkt 2, wynosi 24%, w tym dla wskaźnika:
+a)
+pokrycia wypływów netto – 12%,
+b)
+stabilnego finansowania netto – 12%;
+3)
+pkt 3, wynosi 18%, w tym dla wskaźnika jakości kredytów -18%;
+4)
+pkt 4, wynosi 17%, w tym:
+a)
+dla wskaźnika relacji aktywów ważonych ryzykiem do aktywów ogółem – 8,5%,
+b)
+dla wskaźnika stopy zwrotu z aktywów – 8,5%;
+5)
+pkt 5, wynosi 17%, w tym dla wskaźnika relacji aktywów nieobciążonych do środków gwarantowanych – 17%.
+§ 5.
+W przypadku gdy Komisja Nadzoru Finansowego odstąpiła od stosowania wymogów, o których mowa w art. 7, art. 8 lub art. 21 rozporządzenia (UE) nr 575/2013, wartość wskaźników ryzyka z kategorii, o których mowa w § 4 ust. 2 pkt 1 i 2, dla podmiotu wnoszącego składki jest wyznaczana na poziomie skonsolidowanym lub częściowo skonsolidowanym.
+§ 6.
+1.
+Fundusz stosuje mnożnik dodatkowej korekty ryzyka dla każdego podmiotu wnoszącego składki (całkowita waga ryzyka) jako funkcję wskaźników ryzyka, o których mowa w § 4, określoną zgodnie z częścią A pkt 1–4 lub częścią B pkt 1 załącznika do rozporządzenia.
+2.
+Składka dla każdego podmiotu wnoszącego składki jest ustalana według odpowiedniej metody wyznaczania składek opracowanej przez Fundusz, zgodnie z częścią A pkt 5–7 lub częścią B pkt 2–4 załącznika do rozporządzenia.
+3.
+Fundusz określa zakres całkowitej wagi ryzyka jednakowy dla wszystkich podmiotów wnoszących składki, przy czym jej dolny zakres mieści się w przedziale od 50% do 75%, a górny – w przedziale od 150% do 200%.
+4.
+Fundusz może rozszerzyć zakres całkowitej wagi ryzyka, uwzględniając różnice w zakresie modeli prowadzenia działalności i profilu ryzyka między podmiotami wnoszącymi składki.
+5.
+Dla banków, które w pierwszym dniu kwartału, za który jest należna składka, były uczestnikami systemu ochrony instytucjonalnej, o którym mowa w art. 2 pkt 6 ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających (Dz. U. z 2016 r. poz. 1826), przy wyliczaniu składki zgodnie z ust. 2, jest stosowana ulga polegająca na obniżeniu o 50% całkowitej wagi ryzyka, o której mowa w ust. 1, zgodnie z częścią A pkt 6 lub częścią B pkt 3 załącznika do rozporządzenia.
+§ 7.
+1.
+Fundusz może zastosować składki minimalne niezależne od kwoty środków gwarantowanych zgromadzonych w podmiocie wnoszącym składkę.
+2.
+W przypadku, o którym mowa w ust. 1, składka minimalna ma zastosowanie do wszystkich podmiotów wnoszących składkę i jest uwzględniana przy wyliczaniu składki zgodnie z częścią A pkt 6 ppkt 5 lub pkt 7 ppkt 5 załącznika do rozporządzenia:
+1)
+jako kwota doliczona do kwoty składki kwartalnej uzależnionej od ryzyka albo
+2)
+jako dolny poziom kwoty składki kwartalnej.
+§ 8.
+Fundusz może dopuścić wnoszenie niższej składki na fundusz gwarancyjny banków przez podmioty wnoszące składki należące do sektorów niskiego ryzyka regulowanych na mocy prawa krajowego, przez wprowadzenie dodatkowego wskaźnika ryzyka zgodnie z § 3 ust. 3, w ramach kategorii ryzyka, o której mowa w § 3 ust. 1 pkt 4.
+§ 9.
+1.
+Fundusz określa całkowitą wagę ryzyka podmiotu wnoszącego składkę na podstawie danych pochodzących z jego ostatniego rocznego sprawozdania finansowego, które było dostępne w dniu 31 grudnia roku poprzedzającego rok kalendarzowy, na który są należne składki.
+2.
+Za dane, o których mowa w ust. 1, przyjmuje się dane przekazane zgodnie z właściwą uchwałą Zarządu Narodowego Banku Polskiego dotyczącą przekazywania danych niezbędnych do oceny sytuacji finansowej banków i ryzyka sektora bankowego, wydaną na podstawie art. 23 ust. 4 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2013 r. poz. 908 i 1036, z 2015 r. poz. 855 i 1513 oraz z 2016 r. poz. 996 i 1997) oraz z rozporządzeniem (UE) nr 575/2013, które były dostępne w dniu 31 grudnia roku poprzedzającego rok kalendarzowy, na który są należne składki.
+3.
+Wskaźniki ryzyka, o których mowa w § 3 ust. 2 pkt 2 oraz w ust. 3, lub dane potrzebne do ich wyznaczenia mogą pochodzić ze źródeł innych niż roczne zatwierdzone sprawozdania finansowe, w szczególności z informacji przekazywanych Funduszowi na podstawie art. 325–327 ustawy.
+§ 10.
+1.
+Do czasu pełnego wdrożenia wskaźnika ryzyka, o którym mowa w § 3 ust. 2 pkt 1 lit. a, stosuje się zamiennie wskaźnik relacji kapitału Tier 1, o którym mowa w art. 25 rozporządzenia (UE) nr 575/2013, do aktywów ogółem określonych w załączniku nr 2 do ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2016 r. poz. 1047 i 2255) lub zdefiniowanych zgodnie z międzynarodowymi standardami sprawozdawczości finansowej, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 1606/2002 z dnia 19 lipca 2002 r. w sprawie stosowania międzynarodowych standardów rachunkowości (Dz. Urz. UE L 243 z 11.09.2002, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 29, str. 609).
+2.
+W przypadku gdy wskaźnik ryzyka, o którym mowa w § 3 ust. 2 pkt 2 lit. a, nie został w pełni wprowadzony zgodnie z art. 460 rozporządzenia (UE) nr 575/2013, Fundusz może zastosować ten wskaźnik, biorąc pod uwagę etapy określone w art. 460 ust. 2 rozporządzenia (UE) nr 575/2013, albo określić zamienny wskaźnik ryzyka z uwzględnieniem przepisów wydanych na podstawie art. 137 pkt 3 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.
+3.
+Wskaźnik ryzyka, o którym mowa w § 3 ust. 2 pkt 2 lit. b, będzie stosowany od momentu objęcia go obowiązkiem sprawozdawczym za rok objęty sprawozdaniem finansowym, o którym mowa w § 9.
+4.
+Do momentu rozpoczęcia stosowania wskaźnika ryzyka, o którym mowa w § 3 ust. 2 pkt 2 lit. b, Fundusz podwyższa wagę minimalną wskaźnika ryzyka, o którym mowa w § 3 ust. 2 pkt 2 lit. a, albo odpowiedniego wskaźnika zamiennego określonego na podstawie ust. 2, o wagę minimalną wskaźnika ryzyka, o którym mowa w § 3 ust. 2 pkt 2 lit. b.
+§ 11.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 165 z 04.06.2014, str. 31, Dz. Urz. UE L 11 z 17.01.2015, str. 37, Dz. Urz. UE L 143 z 09.06.2015, str. 7, Dz. Urz. UE L 328 z 12.12.2015, str. 108, Dz. Urz. UE L 151 z 08.06.2016, str. 4 i Dz. Urz. UE L 171 z 29.06.2016, str. 153. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 216 z 21.08.2007, str. 32 i Dz. Urz. UE L 97 z 09.04.2008, str. 62.
+Załącznik –
+patrz oryginał
 

@@ -8,12 +8,10 @@ pos: 1695
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# zmianie ustawy obrocie z zagranicą towarami, technologiami i usługami znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz zmianie niektórych ustaw
-
-*USTAWA z dnia 2 lipca 2004 r.*
+# Ustawa z dnia 2 lipca 2004 r. o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz o zmianie niektórych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,117 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2004-07-02 |
 | Data wydania | 2004-07-19 |
+| Wejście w życie | 2004-08-03 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041621695) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1695/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 29 listopada 2000 r. obrocie z zagranicą towarami, technologiami i usługami znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz zmianie niektórych ustaw (Dz.U. Nr 119, poz. 1250, z późn. zm. ) wprowadza się następujące zmiany:
+1.
+Import na terytorium Rzeczypospolitej Polskiej wykorzystywanych w telekomunikacji lub do ochrony informacji towarów podwójnego zastosowania, określonych w ust. 2, podlega monitorowaniu przez organ monitorujący import, na zasadach określonych w niniejszym rozdziale.
+2.
+Wykaz towarów podwójnego zastosowania określa część 1 „Telekomunikacja” 5A001a i 5A001b4 oraz część 2 „Ochrona informacji” kategorii 5 załącznika I do rozporządzenia nr 149/2003 zmieniającego rozporządzenie nr 1334/2000.
+1.
+Osoba fizyczna lub prawna może dokonać importu towaru podwójnego zastosowania, określonego w wykazie, o którym mowa w art. 21a ust. 2, po pisemnym zgłoszeniu organowi monitorującemu import zamiaru dokonania importu tego towaru na terytorium Rzeczypospolitej Polskiej.
+2.
+Zgłoszenie, o którym mowa w ust. 1, powinno być doręczone organowi monitorującemu import nie później niż na 14 dni przed dniem zamierzonego importu.
+1.
+Zgłoszenie zamiaru dokonania importu, o którym mowa w art. 21b ust. 1, powinno zawierać następujące dane:
+1)
+oznaczenie osoby fizycznej lub prawnej, określenie jej siedziby i adresu,
+2)
+oznaczenie importera, określenie jego siedziby i adresu,
+3)
+oznaczenie producenta i końcowego użytkownika, określenie ich siedziby i adresu,
+4)
+określenie towaru, który będzie przedmiotem importu, jego opis, określenie ilości i wartości,
+5)
+informację o sposobie wykorzystania towaru przez końcowego użytkownika,
+6)
+określenie kraju końcowego przeznaczenia,
+7)
+oświadczenie, że osoba fizyczna lub prawna podejmie niezbędne działania, aby towar, o którym mowa w zgłoszeniu, dotarł do końcowego użytkownika.
+2.
+Osoba fizyczna lub prawna jest obowiązana zgłaszać organowi monitorującemu import każdą zmianę danych, o których mowa w ust. 1, w terminie 14 dni od dnia jej powstania.
+3.
+Do zgłoszenia, o którym mowa w ust. 2, osoba fizyczna lub prawna jest obowiązana dołączyć w przypadku importu towarów i technologii związanych z ochroną informacji niejawnych kopię koncesji na wykonywanie działalności w zakresie obrotu towarami i technologiami o przeznaczeniu wojskowym lub policyjnym, o której mowa w ustawie z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, o ile jest wymagana.
+4.
+W przypadku braków formalnych zgłoszenia organ monitorujący import wzywa zgłaszającego do ich usunięcia w terminie 7 dni od dnia doręczenia wezwania.
+5.
+Termin, o którym mowa w ust. 4, może zostać przedłużony na uzasadniony wniosek zgłaszającego złożony przed upływem tego terminu.
+6.
+Nieuzupełnienie zgłoszenia w wyznaczonym terminie powoduje nieprzyjęcie zgłoszenia.
+7.
+Do dokumentu sporządzonego w języku obcym należy dołączyć tłumaczenie tego dokumentu na język polski.
+8.
+
+**Art. 1.** W ustawie z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz o zmianie niektórych ustaw (Dz. U. Nr 119, poz. 1250, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** tytuł ustawy otrzymuje brzmienie: „ o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa ” ;
+- **2)** użyty w różnych przypadkach wyraz „przedsiębiorca” zastępuje się użytymi w odpowiednich przypadkach wyrazami „osoba fizyczna lub prawna”;
+- **3)** użyte w różnych przypadkach wyrazy „polski obszar celny” zastępuje się użytymi w odpowiednich przypadkach wyrazami „terytorium Rzeczypospolitej Polskiej”;
+- **4)** po art. 1 dodaje się art. 1a w brzmieniu: „ Ustawa służy wykonaniu postanowień zawartych w rozporządzeniu Rady (WE) nr 1334/2000 z dnia 22 czerwca 2000 r. ustanawiającym wspólnotowy system kontroli eksportu produktów i technologii podwójnego zastosowania (Dz. Urz. WE L 159 z 30.06.2000), ostatnio zmienionym rozporządzeniem Rady (WE) nr 149/2003 (Dz. Urz. UE L 30 z 05.02.2003). ” ;
+- **5)** art. 2 otrzymuje brzmienie: „
+
+**Art. 2.** Obrót z zagranicą, o którym mowa w art. 3 pkt 8, jest zabroniony z mocy prawa, jeżeli nie zostały spełnione warunki i ograniczenia określone w rozporządzeniu nr 1334/2000, w niniejszej ustawie, przepisach innych ustaw oraz w umowach i innych zobowiązaniach międzynarodowych. ” ;
+
+- **6)** w art. 3: pkt 1–3 otrzymują brzmienie: „
+    - **a)**
+
+- **1)** towar podwójnego zastosowania – towary podwójnego zastosowania w rozumieniu art. 2 lit. a) rozporządzenia nr 1334/2000,
+- **2)** uzbrojenie – broń, amunicję, materiały wybuchowe, wyroby, ich części i technologie, określone w wykazie, o którym mowa w art. 6 ust. 5,
+- **3)** towar o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa, zwany dalej „towarem o znaczeniu strategicznym” – towar podwójnego zastosowania oraz uzbrojenie, ” , uchyla się pkt 4, po pkt 4 dodaje się pkt 4a-4c w brzmieniu: „
+    - **b)**
+    - **c)**
+
+- **4a)** Wspólnotowy Kodeks Celny – rozporządzenie Rady (EWG) nr 2913/92 z dnia 12 października 1992 r. ustanawiające Wspólnotowy Kodeks Celny (Dz. Urz. WE L 302 z 19.10.1992), ostatnio zmienione aktem dotyczącym warunków przystąpienia Republiki Czeskiej, Republiki Estońskiej, Republiki Cypryjskiej, Republiki Łotewskiej, Republiki Litewskiej, Republiki Węgierskiej, Republiki Malty, Rzeczypospolitej Polskiej, Republiki Słowenii i Republiki Słowackiej oraz dostosowań w traktatach stanowiących podstawę Unii Europejskiej (Dz. Urz. UE L 236 z 23.09.2003),
+- **4b)** obszar celny Wspólnoty – obszar celny w rozumieniu art. 3 Wspólnotowego Kodeksu Celnego,
+- **4c)** kraj trzeci – państwo, którego terytorium znajduje się poza obszarem celnym Wspólnoty, ” , pkt 5 otrzymuje brzmienie: „
+    - **d)**
+
+- **5)** eksport – eksport w rozumieniu art. 2 lit. b) rozporządzenia nr 1334/2000, ” , po pkt 5 dodaje się pkt 5a i 5b w brzmieniu: „
+    - **e)**
+
+- **5a)** usługa pośrednictwa – działania prowadzone przez osoby fizyczne lub prawne, polegające na: negocjowaniu, doradztwie handlowym oraz pomocy w zawieraniu umów oraz uczestnictwie w jakiejkolwiek formie w czynnościach związanych z eksportem, importem, tranzytem lub zawarciem umowy leasingu, darowizny, pożyczki, użyczenia oraz wniesieniem aportu do spółki, które mogą dotyczyć w szczególności transferu towarów o znaczeniu strategicznym z jednego państwa do innego państwa, zakupie, sprzedaży lub organizacji transferu towarów o znaczeniu strategicznym, a w szczególności spedycji, z jednego państwa do innego państwa,
+    - **a)**
+    - **b)**
+
+- **5b)** pomoc techniczna – jakiekolwiek wsparcie techniczne, związane z naprawami, rozwojem, wytwarzaniem, testowaniem, utrzymaniem lub innymi usługami technicznymi dotyczącymi towarów o znaczeniu strategicznym, które może przyjąć formy udzielania instrukcji, szkolenia, przekazywania wiedzy roboczej lub usług konsultingowych, ” , pkt 6–8 otrzymują brzmienie: „
+    - **f)**
+
+- **6)** import: wprowadzanie towarów o znaczeniu strategicznym na terytorium Rzeczypospolitej Polskiej, przekazywanie z kraju trzeciego na terytorium Rzeczypospolitej Polskiej za pomocą mediów elektronicznych, faksu lub telefonu oprogramowania oraz wszelkiego rodzaju informacji naukowych lub dokumentacji technicznych oraz dokumentacji dotyczącej technologii produkcji towarów wymienionych w pkt 1 i 2, pod warunkiem że poprzez takie przekazanie osiągnie się rezultat porównywalny z takim, jaki można otrzymać, mając bezpośredni dostęp do tych informacji i dokumentacji, a przekazane za pomocą mediów elektronicznych, faksu lub telefonu oprogramowanie lub informacje znajdują potwierdzenie w odpowiednim dokumencie,
+    - **a)**
+    - **b)**
+
+- **7)** tranzyt – procedurę tranzytu, określoną w art. 91 Wspólnotowego Kodeksu Celnego,
+- **8)** obrót: eksport, usługę pośrednictwa, pomoc techniczną, import, tranzyt, ” , uchyla się pkt 9, w pkt 11 kropkę zastępuje się przecinkiem i dodaje się pkt 12 w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **g)**
+    - **h)**
+
+- **12)** organ monitorujący import – Szefa Agencji Bezpieczeństwa Wewnętrznego. ” ;
+- **7)** art. 6–8 otrzymują brzmienie: „
+
+**Art. 6.**
+
+1. Obrót towarami podwójnego zastosowania może być dokonywany wyłącznie na podstawie zezwolenia na eksport, na wykonywanie usług pośrednictwa, a także na świadczenie pomocy technicznej i w zakresie określonym w tym zezwoleniu.
+
+2. Obrót uzbrojeniem może być dokonywany wyłącznie na podstawie zezwolenia na eksport, import, tranzyt i na wykonywanie usług pośrednictwa, a także na świadczenie pomocy technicznej i w zakresie określonym w tym zezwoleniu.
+
+3. Import na terytorium Rzeczypospolitej Polskiej towarów podwójnego zastosowania nie wymaga uzyskania zezwolenia.
+
+4. Wykazy towarów podwójnego zastosowania, na obrót którymi wymagane jest zezwolenie, określa rozporządzenie nr 1334/2000.
+
+5. Minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw zagranicznych i Ministrem Obrony Narodowej, po zasięgnięciu opinii Szefa Agencji Bezpieczeństwa Wewnętrznego i Szefa Agencji Wywiadu, określi, w drodze rozporządzenia, wykaz uzbrojenia, na obrót którym jest wymagane zezwolenie, uwzględniając przy jego sporządzaniu wykazy międzynarodowe.
+
+6. Rada Ministrów określi, w drodze rozporządzenia, listę krajów, do których eksport towarów o znaczeniu strategicznym jest zakazany lub ograniczony, uwzględniając:
+
+- **1)** potrzeby obronności lub bezpieczeństwa Rzeczypospolitej Polskiej,
+- **2)** zobowiązania Rzeczypospolitej Polskiej wynikające z umów i porozumień międzynarodowych oraz z zobowiązań sojuszniczych, w tym dotyczących nierozprzestrzeniania i kontroli towarów o znaczeniu strategicznym.
+
+7. Osoba fizyczna lub prawna jest obowiązana wystąpić z wnioskiem o wydanie zezwolenia na eksport towarów nieznajdujących się w wykazach, o których mowa w ust. 4 i 5, jeśli wie lub została poinformowana, że eksportowane towary zostaną lub mogą zostać wykorzystane w całości lub w części do celów lub w okolicznościach, o których mowa w art. 10 ust. 1.
 
 **Art. 7.**
 
@@ -35,7 +140,7 @@ source: "isap-pdf"
 
 2. Na eksport, import i tranzyt uzbrojenia wydaje się wyłącznie zezwolenia indywidualne, z zastrzeżeniem ust. 3.
 
-3. Minister właściwy do spraw gospodarki, może określić, w drodze rozporządzenia, wykaz części zamiennych uzbrojenia, których eksport będzie dokonywany na postawie zezwoleń globalnych, mając na uwadze wielkość i kierunki dostaw.
+3. Minister właściwy do spraw gospodarki może określić, w drodze rozporządzenia, wykaz części zamiennych uzbrojenia, których eksport będzie dokonywany na podstawie zezwoleń globalnych, mając na uwadze wielkość i kierunki dostaw.
 
 4. Na wykonywanie usług pośrednictwa oraz na świadczenie pomocy technicznej w zakresie uzbrojenia wydaje się zezwolenia indywidualne, generalne i globalne.
 
@@ -43,159 +148,138 @@ source: "isap-pdf"
 
 1. Minister właściwy do spraw gospodarki wydaje zezwolenia generalne w drodze rozporządzenia.
 
-2. Z zezwolenia generalnego może skorzystać osoba fizyczna lub prawna, która udokumentuje stosowanie przez okres co najmniej 3 lat wewnętrznego systemu kontroli i zarządzania obrotem, którym mowa w art. 10 ust. 2, oraz złoży organowi kontroli obrotu oświadczenie terminie i zamiarze rozpoczęcia obrotu towarami i usługami, których mowa w art. 7 ust. 1, wyszczególnionymi w zezwoleniu generalnym. spraw gospodarki określa w szczególności:
+2. Z zezwolenia generalnego może skorzystać osoba fizyczna lub prawna, która udokumentuje stosowanie przez okres co najmniej 3 lat wewnętrznego systemu kontroli i zarządzania obrotem, o którym mowa w art. 10 ust. 2, oraz złoży organowi kontroli obrotu oświadczenie o terminie i zamiarze rozpoczęcia obrotu towarami i usługami, o których mowa w art. 7 ust. 1, wyszczególnionymi w zezwoleniu generalnym.
+
+3. W rozporządzeniu, o którym mowa w ust. 1, minister właściwy do spraw gospodarki określa w szczególności:
 
 - **1)** kraj lub kraje, których dotyczy zezwolenie generalne,
 - **2)** towar lub towary, których dotyczy zezwolenie generalne,
 - **3)** szczegółowe warunki, na jakich dokonywany może być obrót towarami.
 
-4. Ze wspólnotowego zezwolenia generalnego, określonego w Załączniku II do rozporządzenia nr 1334/2000, może skorzystać osoba fizyczna lub prawna, która spełnia warunki określone w ust. 2.”;
+4. Ze wspólnotowego zezwolenia generalnego, określonego w załączniku II do rozporządzenia nr 1334/2000, może skorzystać osoba fizyczna lub prawna, która spełnia warunki określone w ust. 2. ” ;
 
-- **8)** w art. 9:
-    - **a)** ust. 1-4 otrzymują brzmienie: „1. Zezwolenia indywidualne lub globalne wydaje się na wniosek osoby fizycznej lub prawnej.
+- **8)** w art. 9: ust. 1–4 otrzymują brzmienie: „
+    - **a)**
+
+1. Zezwolenia indywidualne lub globalne wydaje się na wniosek osoby fizycznej lub prawnej.
 
 2. Organem właściwym do wydania zezwolenia indywidualnego lub globalnego jest organ kontroli obrotu.
 
-3. Wniosek wydanie zezwolenia indywidualnego lub globalnego powinien zawierać:
+3. Wniosek o wydanie zezwolenia indywidualnego lub globalnego powinien zawierać:
 
 - **1)** oznaczenie osoby fizycznej lub prawnej, określenie jej siedziby i adresu,
-- **2)** numer w rejestrze przedsiębiorców, których mowa w ustawie z dnia 20 sierpnia 1997 r. Krajowym Rejestrze Sądowym (Dz.U. z 2001 r. Nr 17, poz. 209, z późn. zm. ),
+- **2)** numer w rejestrze przedsiębiorców, o których mowa w ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2001 r. Nr 17, poz. 209, z późn. zm.),
 - **3)** określenie rodzaju i zakresu wykonywanej przez osobę fizyczną lub osobę prawną działalności gospodarczej,
 - **4)** oznaczenie eksportera lub importera, określenie ich siedziby i adresu,
 - **5)** oznaczenie producenta i końcowego użytkownika, określenie ich siedziby i adresu,
-- **6)** określenie towarów znaczeniu strategicznym, usług pośrednictwa lub pomocy technicznej, które będą przedmiotem obrotu z zagranicą, ich opis, określenie ich wartości i ilości,
-- **7)** informację sposobie wykorzystania towarów znaczeniu strategicznym przez końcowego użytkownika,
+- **6)** określenie towarów o znaczeniu strategicznym, usług pośrednictwa lub pomocy technicznej, które będą przedmiotem obrotu z zagranicą, ich opis, określenie ich wartości i ilości,
+- **7)** informację o sposobie wykorzystania towarów o znaczeniu strategicznym przez końcowego użytkownika,
 - **8)** określenie kraju końcowego przeznaczenia,
-- **9)** oświadczenie, że osoba fizyczna lub prawna podejmie niezbędne działania, aby towary, których mowa we wniosku, dotarły do końcowego użytkownika, i poinformuje zagranicznego importera, że zmiana sposobu wykorzystania lub końcowego użytkownika, wymaga uprzedniej zgody polskiego organu kontroli obrotu. obrót towarami znaczeniu strategicznym osoba fizyczna lub prawna jest obowiązana dołączyć:
-- **1)** oświadczenie, że w obrocie nie występują okoliczności, których mowa w art. 10 ust. 1,
-- **2)** kopię koncesji na wykonywanie działalności w zakresie obrotu materiałami wybuchowymi, bronią i amunicją oraz wyrobami i technologiami przeznaczeniu wojskowym lub policyjnym, której mowa w ustawie z dnia 22 czerwca 2001 r. wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią przeznaczeniu wojskowym lub policyjnym (Dz.U. Nr 67, poz. 679, z późn. zm. ),
+- **9)** oświadczenie, że osoba fizyczna lub prawna podejmie niezbędne działania, aby towary, o których mowa we wniosku, dotarły do końcowego użytkownika, i poinformuje zagranicznego importera, że zmiana sposobu wykorzystania lub końcowego użytkownika wymaga uprzedniej zgody polskiego organu kontroli obrotu.
+
+4. Do wniosku o wydanie zezwolenia indywidualnego lub globalnego na obrót towarami o znaczeniu strategicznym osoba fizyczna lub prawna jest obowiązana dołączyć:
+
+- **1)** oświadczenie, że w obrocie nie występują okoliczności, o których mowa w art. 10 ust. 1,
+- **2)** kopię koncesji na wykonywanie działalności w zakresie obrotu materiałami wybuchowymi, bronią i amunicją oraz wyrobami i technologiami o przeznaczeniu wojskowym lub policyjnym, o której mowa w ustawie z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. Nr 67, poz. 679, z późn. zm.),
 - **3)** projekt umowy dotyczącej obrotu,
-- **4)** kopię certyfikatu, którym mowa w art. 11 ust. 4,
-- **5)** certyfikat importowy lub oświadczenie końcowego użytkownika w przypadku eksportu.”,
-    - **b)** ust. 6 otrzymuje brzmienie: „6. Minister właściwy do spraw gospodarki, określi, w drodze rozporządzenia:
+- **4)** kopię certyfikatu, o którym mowa w art. 11 ust. 4,
+- **5)** certyfikat importowy lub oświadczenie końcowego użytkownika w przypadku eksportu. ” , ust. 6 otrzymuje brzmienie: „
+    - **b)**
 
-- **1)** wzory wniosków wydanie zezwolenia indywidualnego lub globalnego na eksport towarów znaczeniu strategicznym oraz na wykonywanie usług pośrednictwa oraz na świadczenie pomocy technicznej, a także na import i tranzyt uzbrojenia,
-- **2)** wzory zezwoleń indywidualnych lub globalnych na eksport, import i tranzyt uzbrojenia lub części zamiennych uzbrojenia oraz na wykonywanie usług pośrednictwa i na świadczenie pomocy technicznej w zakresie towarów znaczeniu strategicznym - mając na uwadze rodzaje towarów oraz formy obrotu.”,
-    - **c)** dodaje się ust. 7 w brzmieniu: „7. Wzory zezwoleń indywidualnych lub globalnych na eksport towarów podwójnego zastosowania określa rozporządzenie nr 1334/2000.”;
+6. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia:
 
-- **9)** w art. 10:
-    - **a)** w ust. 1 zdanie wstępne otrzymuje brzmienie: „Osoba fizyczna lub prawna jest obowiązana, przed złożeniem wniosku wydanie zezwolenia indywidualnego lub globalnego, upewnić się w szczególności, czy:”,
-    - **b)** ust. 2 otrzymuje brzmienie: „2. W celu realizacji obowiązku, którym mowa w ust. 1, osoba fizyczna lub prawna jest obowiązana utworzyć i stosować wewnętrzny system zwany dalej „wewnętrznym systemem kontroli”.”;
+- **1)** wzory wniosków o wydanie zezwolenia indywidualnego lub globalnego na eksport towarów o znaczeniu strategicznym oraz na wykonywanie usług pośrednictwa oraz na świadczenie pomocy technicznej, a także na import i tranzyt uzbrojenia,
+- **2)** wzory zezwoleń indywidualnych lub globalnych na eksport, import i tranzyt uzbrojenia lub części zamiennych uzbrojenia oraz na wykonywanie usług pośrednictwa i na świadczenie pomocy technicznej w zakresie towarów o znaczeniu strategicznym mając na uwadze rodzaje towarów oraz formy obrotu. ” , dodaje się ust. 7 w brzmieniu: „
+    - **c)**
 
-- **10)** art. 12-14 otrzymują brzmienie: „Art. 12. 1. Organ kontroli obrotu, po zasięgnięciu opinii organów opiniujących, wydaje zezwolenie indywidualne lub globalne po stwierdzeniu, że zostały spełnione wymagane prawem warunki do ich wydania.
+7. Wzory zezwoleń indywidualnych lub globalnych na eksport towarów podwójnego zastosowania określa rozporządzenie nr 1334/2000. ” ;
+
+- **9)** w art. 10: w ust. 1 zdanie wstępne otrzymuje brzmienie: „ Osoba fizyczna lub prawna jest obowiązana, przed złożeniem wniosku o wydanie zezwolenia indywidualnego lub globalnego, upewnić się w szczególności, czy: ” , ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2. W celu realizacji obowiązku, o którym mowa w ust. 1, osoba fizyczna lub prawna jest obowiązana utworzyć i stosować wewnętrzny system kontroli i zarządzania obrotem towarami o znaczeniu strategicznym, zwany dalej „wewnętrznym systemem kontroli”. ” ;
+
+- **10)** art. 12–14 otrzymują brzmienie: „
+
+**Art. 12.**
+
+1. Organ kontroli obrotu, po zasięgnięciu opinii organów opiniujących, wydaje zezwolenie indywidualne lub globalne po stwierdzeniu, że zostały spełnione wymagane prawem warunki do ich wydania.
 
 2. Wydanie zezwolenia indywidualnego lub globalnego następuje w drodze decyzji administracyjnej.
 
-3. Organy opiniujące, przygotowując opinię, której mowa w ust. 1, mają prawo żądać od osoby fizycznej lub prawnej udzielenia informacji umożliwiających sprawdzenie danych zawartych we wniosku udzielenie zezwolenia indywidualnego lub globalnego.
+3. Organy opiniujące, przygotowując opinię, o której mowa w ust. 1, mają prawo żądać od osoby fizycznej lub prawnej udzielenia informacji umożliwiających sprawdzenie danych zawartych we wniosku o udzielenie zezwolenia indywidualnego lub globalnego.
 
 4. Przed wydaniem decyzji w sprawie wydania zezwolenia indywidualnego lub globalnego organ kontroli obrotu:
 
-- **1)** wzywa osobę fizyczną lub prawną do uzupełnienia, w wyznaczonym terminie, wniosku lub brakującej dokumentacji poświadczającej, że zostały spełnione wymagane prawem warunki do dokonania obrotu towarami znaczeniu strategicznym,
+- **1)** wzywa osobę fizyczną lub prawną do uzupełnienia, w wyznaczonym terminie, wniosku lub brakującej dokumentacji poświadczającej, że zostały spełnione wymagane prawem warunki do dokonania obrotu towarami o znaczeniu strategicznym,
 - **2)** może dokonać sprawdzenia informacji podanych przez osobę fizyczną lub prawną we wniosku.
 
-5. Do kontroli, której mowa w ust. 4 pkt 2, stosuje się odpowiednio przepisy art. 29 ust. 4 oraz art. 30 ust. 1 i 2.
+5. Do kontroli, o której mowa w ust. 4 pkt 2, stosuje się odpowiednio przepisy art. 29 ust. 4 oraz art. 30 ust. 1 i 2.
 
 6. Osoba fizyczna lub prawna jest obowiązana zgłaszać organowi kontroli obrotu wszelkie zmiany dotyczące danych zawartych we wniosku, w terminie 14 dni od dnia ich powstania.
 
-**Art. 13.** W przypadku gdy osoba fizyczna lub prawna wie lub ma uzasadnione podstawy do przypuszczenia, że towary znaczeniu strategicznym zostały lub mogą zostać w całości lub części wykorzystane do celów lub w okolicznościach, których mowa w art. 10 ust. 1, jest obowiązana podjąć wszelkie możliwe czynności dla ustalenia faktycznego wykorzystania tych towarów oraz zawiadomić tym organ kontroli obrotu.
+**Art. 13.** W przypadku gdy osoba fizyczna lub prawna wie lub ma uzasadnione podstawy do przypuszczenia, że towary o znaczeniu strategicznym zostały lub mogą zostać w całości lub części wykorzystane do celów lub w okolicznościach, o których mowa w art. 10 ust. 1, jest obowiązana podjąć wszelkie możliwe czynności dla ustalenia faktycznego wykorzystania tych towarów oraz zawiadomić o tym organ kontroli obrotu.
 
 **Art. 14.**
 
 1. Zezwolenie indywidualne lub globalne oraz uprawnienia z nich wynikające są niezbywalne.
 
-2. Zezwolenia indywidualne lub globalne na obrót towarami znaczeniu strategicznym są dokumentami mającymi znaczenie dla kontroli celnej.
+2. Zezwolenia indywidualne lub globalne na obrót towarami o znaczeniu strategicznym są dokumentami mającymi znaczenie dla kontroli celnej.
 
-3. Oryginał zezwolenia indywidualnego lub globalnego dołącza się do zgłoszenia celnego lub do wniosku nadanie przeznaczenia celnego.
+3. Oryginał zezwolenia indywidualnego lub globalnego dołącza się do zgłoszenia celnego lub do wniosku o nadanie przeznaczenia celnego.
 
-4. Wydanie zezwolenia indywidualnego lub globalnego na obrót może być uzależnione od spełnienia dodatkowych wymagań i warunków określonych przez ministra właściwego do spraw gospowego użytkownika oświadczenia zastosowaniu towaru znaczeniu strategicznym lub przedłożenia międzynarodowego certyfikatu importowego.
+4. Wydanie zezwolenia indywidualnego lub globalnego na obrót może być uzależnione od spełnienia dodatkowych wymagań i warunków określonych przez ministra właściwego do spraw gospodarki, a w szczególności od złożenia przez zagranicznego końcowego użytkownika oświadczenia o zastosowaniu towaru o znaczeniu strategicznym lub przedłożenia międzynarodowego certyfikatu importowego.
 
 5. W zezwoleniu indywidualnym lub globalnym określa się termin jego ważności, nie dłuższy jednak niż rok.
 
-6. Za wydanie zezwolenia indywidualnego lub globalnego nie pobiera się opłaty.”;
+6. Za wydanie zezwolenia indywidualnego lub globalnego nie pobiera się opłaty. ” ;
 
-- **11)** w art. 15 ust. 1 otrzymuje brzmienie: „1. Organ kontroli obrotu, odmawia, w drodze decyzji administracyjnej, wydania zezwolenia na obrót, jeżeli:
+- **11)** w art. 15 ust. 1 otrzymuje brzmienie: „
+
+1. Organ kontroli obrotu odmawia, w drodze decyzji administracyjnej, wydania zezwolenia na obrót, jeżeli:
+
 - **1)** wymagają tego potrzeby obronności lub bezpieczeństwa Rzeczypospolitej Polskiej,
-- **2)** wymagają tego zobowiązania Rzeczypospolitej Polskiej wynikające z umów i porozumień międzynarodowych oraz z zobowiązań sojuszniczych, w tym dotyczących nierozprzestrzeniania i kontroli towarów znaczeniu strategicznym,
-- **3)** osoba fizyczna lub prawna nie daje rękojmi zgodnego z prawem prowadzenia obrotu.”;
-- **12)** art. 16-18 otrzymują brzmienie: „Art. 16. Organ kontroli obrotu może odmówić, w drodze decyzji administracyjnej, wydania zezwolenia indywidualnego lub globalnego, jeśli:
-- **1)** istnieje ryzyko zmiany końcowego użycia lub miejsca przeznaczenia towarów znaczeniu strategicznym,
-- **2)** osoba fizyczna lub prawna naruszyła przepisy dotyczące obrotu towarami znaczeniu strategicznym.
+- **2)** wymagają tego zobowiązania Rzeczypospolitej Polskiej wynikające z umów i porozumień międzynarodowych oraz z zobowiązań sojuszniczych, w tym dotyczących nierozprzestrzeniania i kontroli towarów o znaczeniu strategicznym,
+- **3)** osoba fizyczna lub prawna nie daje rękojmi zgodnego z prawem prowadzenia obrotu. ” ;
+- **12)** art. 16–18 otrzymują brzmienie: „
+
+**Art. 16.** Organ kontroli obrotu może odmówić, w drodze decyzji administracyjnej, wydania zezwolenia indywidualnego lub globalnego, jeśli:
+
+- **1)** istnieje ryzyko zmiany końcowego użycia lub miejsca przeznaczenia towarów o znaczeniu strategicznym,
+- **2)** osoba fizyczna lub prawna naruszyła przepisy dotyczące obrotu towarami o znaczeniu strategicznym.
 
 **Art. 17.**
 
 1. Organ kontroli obrotu, po zasięgnięciu opinii organów opiniujących, może, w drodze decyzji administracyjnej, cofnąć lub zmienić zezwolenie indywidualne lub globalne, jeżeli:
 
 - **1)** wymagają tego potrzeby obronności lub bezpieczeństwa Rzeczypospolitej Polskiej,
-- **2)** jest to niezbędne dla wykonania zobowiązań Rzeczypospolitej Polskiej wynikających z umów i porozumień międzynarodowych oraz z zobowiązań sojuszniczych, w tym dotyczących nierozprzestrzeniania i kontroli towarów znaczeniu strategicznym.
-- **3)** istnieje ryzyko zmiany końcowego użycia lub miejsca przeznaczenia towarów znaczeniu strategicznym,
+- **2)** jest to niezbędne dla wykonania zobowiązań Rzeczypospolitej Polskiej wynikających z umów i porozumień międzynarodowych oraz z zobowiązań sojuszniczych, w tym dotyczących nierozprzestrzeniania i kontroli towarów o znaczeniu strategicznym,
+- **3)** istnieje ryzyko zmiany końcowego użycia lub miejsca przeznaczenia towarów o znaczeniu strategicznym,
 - **4)** osoba fizyczna lub prawna dokonuje obrotu wbrew warunkom określonym w zezwoleniu,
-- **5)** osoba fizyczna lub prawna w sposób zawiniony utraciła rękojmię zgodnego z prawem prowadzenia obrotu. z przyczyn leżących po stronie osoby fizycznej lub prawnej następuje bez odszkodowania.
+- **5)** osoba fizyczna lub prawna w sposób zawiniony utraciła rękojmię zgodnego z prawem prowadzenia obrotu.
 
-**Art. 18.** Osoba fizyczna lub prawna, której cofnięto zezwolenie indywidualne lub globalne z przyczyn, których mowa w art. 17 ust. 1 pkt 4, może ponownie wystąpić z wnioskiem wydanie zezwolenia nie wcześniej niż po upływie 3 lat od dnia, w którym decyzja cofnięciu zezwolenia stała się ostateczna.”;
+2. Cofnięcie lub zmiana zezwolenia indywidualnego lub globalnego z przyczyn leżących po stronie osoby fizycznej lub prawnej następuje bez odszkodowania.
 
-**Art. 21a.**
+**Art. 18.** Osoba fizyczna lub prawna, której cofnięto zezwolenie indywidualne lub globalne z przyczyn, o których mowa w art. 17 ust. 1 pkt 4, może ponownie wystąpić z wnioskiem o wydanie zezwolenia nie wcześniej niż po upływie 3 lat od dnia, w którym decyzja o cofnięciu zezwolenia stała się ostateczna. ” ;
 
-1. Import na terytorium Rzeczypospolitej Polskiej wykorzystywanych w telekomunikacji lub do ochrony informacji towarów podwójnego zastosowania, określonych w ust. 2, podlega monitorowaniu przez organ monitorujący import, na zasadach określonych w niniejszym rozdziale.
+- **13)** w art. 19 ust. 1 otrzymuje brzmienie: „
 
-2. Wykaz towarów podwójnego zastosowania określa część 1 „Telekomunikacja” 5A001a i 5A001b4 oraz część 2 „Ochrona informacji” kategorii 5 Załącznika I do rozporządzenia nr 149/2003 zmieniającego rozporządzenie nr 1334/2000.
+1. Tranzyt niekrajowego towaru podwójnego zastosowania, którego przemieszczanie ma się zakończyć poza terytorium Rzeczypospolitej Polskiej, wymaga pozwolenia wydanego przez naczelnika granicznego urzędu celnego. ” ;
 
-**Art. 21b.**
+- **14)** art. 21 otrzymuje brzmienie: „
 
-1. Osoba fizyczna lub prawna może dokonać importu towaru podwójnego zastosowania, określonego w wykazie, którym mowa w art. 21a ust. 2, po pisemnym zgłoszeniu organowi monitorującemu import zamiaru dokonania importu tego towaru na terytorium Rzeczypospolitej Polskiej. ganowi monitorującemu import nie później niż na 14 dni przed dniem zamierzonego importu.
+**Art. 21.**
 
-**Art. 21c.**
+1. Tworzy się rejestr udzielonych zezwoleń indywidualnych lub globalnych oraz osób fizycznych lub prawnych, które spełniły warunki, o których mowa w art. 8 ust. 2, zwany dalej „rejestrem”.
 
-1. Zgłoszenie zamiaru dokonania importu, którym mowa w art. 21b ust. 1, powinno zawierać następujące dane:
+2. Rejestr prowadzi organ kontroli obrotu.
 
-- **1)** oznaczenie osoby fizycznej lub prawnej, określenie jej siedziby i adresu,
-- **2)** oznaczenie importera, określenie jego siedziby i adresu,
-- **3)** oznaczenie producenta i końcowego użytkownika, określenie ich siedziby i adresu,
-- **4)** określenie towaru, który będzie przedmiotem importu, jego opis, określenie ilości i wartości,
-- **5)** informację sposobie wykorzystania towaru przez końcowego użytkownika,
-- **6)** określenie kraju końcowego przeznaczenia,
-- **7)** oświadczenie, że osoba fizyczna lub prawna podejmie niezbędne działania, aby towar, którym mowa w zgłoszeniu, dotarł do końcowego użytkownika.
+3. Wpisu zezwolenia indywidualnego lub globalnego do rejestru dokonuje się niezwłocznie po udzieleniu danego zezwolenia. Wpisu osoby fizycznej lub prawnej dokonuje się niezwłocznie po złożeniu przez nią oświadczenia, o którym mowa w art. 8 ust. 2.
 
-2. Osoba fizyczna lub prawna jest obowiązana zgłaszać organowi monitorującemu import każdą zmianę danych, których mowa w ust. 1, w terminie 14 dni od dnia jej powstania.
+4. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, sposób prowadzenia rejestru, uwzględniając w szczególności rodzaje udzielonych zezwoleń oraz ilość i wartość towarów o znaczeniu strategicznym objętych zezwoleniem. ” ;
 
-3. Do zgłoszenia, którym mowa w ust. 2, osoba fizyczna lub prawna jest obowiązana dołączyć w przypadku importu towarów i technologii związanych z ochroną informacji niejawnych kopię koncesji na wykonywanie działalności w zakresie obrotu towarami i technologiami przeznaczeniu wojskowym lub policyjnym, której mowa w ustawie z dnia 22 czerwca 2001 r. wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią przeznaczeniu wojskowym lub policyjnym, ile jest wymagana.
+- **15)** po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „
 
-4. W przypadku braków formalnych zgłoszenia organ monitorujący import wzywa zgłaszającego do ich usunięcia w terminie 7 dni od dnia doręczenia wezwania.
-
-5. Termin, którym mowa w ust. 4, może zostać przedłużony na uzasadniony wniosek zgłaszającego złożony przed upływem tego terminu.
-
-6. Nieuzupełnienie zgłoszenia w wyznaczonym terminie powoduje nieprzyjęcie zgłoszenia.
-
-7. Do dokumentu sporządzonego w języku obcym należy dołączyć tłumaczenie tego dokumentu na język polski.
-
-8. Prezes Rady Ministrów określi, w drodze rozporządzenia, wzór zgłoszenia zamiaru dokonania importu towaru podwójnego zastosowania, mając na względzie rodzaje towarów podlegających importowi. dokonaniu importu urządzeń kryptograficznych, przekazując informację importerze oraz rodzaju importowanych urządzeń.”;
-
-- **16)** w art. 22:
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Do wniosku wydanie certyfikatu importowego lub potwierdzenia oświadczenia końcowego użytkownika stosuje się przepisy art. 9 ust. 35.”,
-    - **b)** uchyla się ust. 4 i 5;
-
-- **17)** w art. 24:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Osoba fizyczna lub prawna, która otrzymała certyfikat importowy, jest obowiązana, w terminie 30 dni od dnia zwolnienia towaru znaczeniu strategicznym, wystąpić do naczelnika urzędu celnego właściwego ze względu na siedzibę ostatecznego użytkownika tego towaru z wnioskiem wydanie certyfikatu weryfikacji dostawy stwierdzającego, że towar objęty tym certyfikatem został przez osobę fizyczną lub prawną faktycznie i w sposób zgodny z przepisami prawa wprowadzony na terytorium Rzeczypospolitej Polskiej.”,
-    - **b)** ust. 3 otrzymuje brzmienie: „3. Osoba fizyczna lub prawna jest obowiązana zwrócić urzędowi celnemu koszty poniesione przez ten urząd w toku postępowania w sprawie wydania certyfikatu weryfikacji dostawy.”;
-
-- **18)** w art. 25 ust. 1 otrzymuje brzmienie: „1. Osoba fizyczna lub prawna dokonująca obrotu towarami znaczeniu strategicznym jest obowiązana do prowadzenia ewidencji tego obrotu.”;
-- **19)** w art. 26 ust. 1 otrzymuje brzmienie: „1. Osoba fizyczna lub prawna dokonująca obrotu w ramach zezwoleń generalnych jest obowiązana przekazać organowi kontroli obrotu, co najmniej raz na 6 miesięcy, informację realizacji tego obrotu.”;
-- **20)** w art. 29:
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Na wniosek ministra właściwego do spraw gospodarki minister właściwy do spraw zagranicznych, Minister Obrony Narodowej, minister właściwy do spraw finansów publicznych, minister właściwy do spraw wewnętrznych, Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu oraz Prezes Państwowej Agencji Atomistyki delegują do prac w zespole funkcjonariuszy, żołnierzy lub pracowników podległych albo nadzorowanych jednostek organizacyjnych. W skład zespołu minister właściwy do spraw gospodarki może także powołać biegłych i ekspertów, za ich zgodą.”,
-    - **b)** ust. 5 otrzymuje brzmienie: „5. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, wzór upoważnienia do przeprowadzenia kontroli. Wzór upoważi numer dokumentu tożsamości, datę ważności upoważnienia oraz informację, że na żądanie posiadacza upoważnienia wykonującego czynności kontrolne kontrolowany jest obowiązany udzielać informacji i okazywać dokumenty.”;
-
-- **21)** w art. 30 w ust. 1 pkt 1 otrzymuje brzmienie: „1) wstępu na teren nieruchomości, obiektu, lokalu lub ich części, gdzie jest wykonywana przez kontrolowanego działalność, w dniach i godzinach, w których jest ona wykonywana lub powinna być wykonywana,”;
-- **22)** w art. 31 ust. 2 i 3 otrzymują brzmienie: „2. Po bezskutecznym upływie terminu, którym mowa w ust. 1, organ kontroli obrotu cofa, w drodze decyzji administracyjnej, zezwolenie indywidualne lub globalne. W przypadku zezwoleń generalnych organ kontroli obrotu wydaje decyzję administracyjną zakazującą osobie fizycznej lub prawnej korzystania z zezwolenia. O wydaniu decyzji organ kontroli obrotu informuje organy opiniujące.
-
-3. W przypadku, którym mowa w ust. 2, osoba fizyczna lub prawna może otrzymać następne zezwolenie indywidualne lub globalne lub skorzystać z zezwolenia generalnego nie wcześniej niż po upływie 3 lat odpowiednio od dnia, w którym decyzja cofnięciu zezwolenia indywidualnego lub globalnego lub decyzja zakazie korzystania z zezwolenia generalnego stała się ostateczna.”;
-
-- **23)** po art. 35 dodaje się art. 35a w brzmieniu: „Art. 35a. Kto nie wypełnia obowiązku, którym mowa w art. 21c ust. 2, podlega karze grzywny.”;
-- **24)** art. 36 i 37 otrzymują brzmienie: „Art. 36. Orzekanie w sprawach, których mowa w art. 34, 35 i 35a, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach wykroczenia (Dz.U. Nr 106, poz. 1148, z 2003 r. Nr 109, poz. 1031 i Nr 213, poz. 2081 oraz z 2004 r. Nr 128, poz. 1351).
-
-**Art. 37.** Osobie prawnej, która dokonuje obrotu bez ważnego zezwolenia, organ kontroli obrotu wymierza, w drodze decyzji administracyjnej, karę pieniężną w wysokości do 200 000 zł.”;
-
-**Art. 2.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 6 ust. 2 i 3, art. 9 ust. 6, art. 21 ust. 4 i art. 29 ust. 5 ustawy, której mowa w art. 1, zachowują moc do czasu wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 6 ust. 5 i 6, art. 9 ust. 6, art. 21 ust. 4 i art. 29 ust. 5, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 30 września 2004 r.
-
-**Art. 3.** Zezwolenia wydane na podstawie dotychczasowych przepisów zachowują ważność do upływu terminu, na jaki zostały wydane.
-
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+#### Rozdział 2a Monitorowanie importu towarów podwójnego zastosowania wykorzystywanych w telekomunikacji lub do ochrony informacji
 

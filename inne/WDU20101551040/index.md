@@ -8,12 +8,10 @@ pos: 1040
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o nadaniu nowej nazwy Akademii Podlaskiej
-
-*USTAWA z dnia 23 lipca 2010 r.*
+# Ustawa z dnia 23 lipca 2010 r. o nadaniu nowej nazwy Akademii Podlaskiej
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2010-07-23 |
 | Data wydania | 2010-08-25 |
+| Wejście w życie | 2010-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101551040) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1040/text.pdf) |
 

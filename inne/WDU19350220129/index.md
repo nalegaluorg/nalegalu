@@ -22,12 +22,23 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1935-03-18 |
 | Data wydania | 1935-03-30 |
+| Wejście w życie | 1935-04-14 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19350220129) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1935/129/text.pdf) |
 
 Na mocy art. 44 Konstytucji ogłaszam ustawę następującej treści:
 
 **Art. 1.** (1) Przepisom niniejszej ustawy podlegają:
+
+państwowe podatki bezpośrednie oraz podatki: od lokali, od placów budowlanych, od uboju, od energji elektrycznej, majątkowy, spadkowy i od darowizn, nadzwyczajna danina majątkowa i danina lasowa, zamieniona na ekwiwalent pieniężny; państwowe podatki pośrednie; wymierzone opłaty stemplowe (należytości stemplowe i bezpośrednie); dodatki do wymienionych pod lit. a), b) i c) danin, pobierane na rzecz Skarbu; dodatki do wymienionych pod lit. a), b) i c) danin, pobierane na rzecz innych związków prawa publicznego; samoistne daniny komunalne; wszelkiego rodzaju przedpłaty lub zaliczki na poczet wymienionych wyżej danin, (2) Należności, wymienione w ust. (1), będą nazywane w dalszym ciągu ustawy niniejszej „daninami publicznemi”. (3) Ustawa niniejsza nie dotyczy podwyżek stemplowych, ani też zakredytowanych, w oznaczonym terminie uiszczonych podatków pośrednich.
+
+- **a)**
+- **b)**
+- **c)**
+- **d)**
+- **e)**
+- **f)**
+- **g)**
 
 **Art. 2.** Nieuiszczone w terminie płatności daniny publiczne uważa się za zaległości.
 
@@ -44,6 +55,13 @@ Na mocy art. 44 Konstytucji ogłaszam ustawę następującej treści:
 **Art. 8.** Obowiązek uiszczania odsetek lub odsetek ulgowych ciąży na tym, kto w myśl istniejących przepisów obowiązany jest do uiszczenia zaległości.
 
 **Art. 9.** (1) W zakresie: umarzania odsetek i odsetek ulgowych, skutków, jakie na odsetki i odsetki ulgowe wywiera umorzenie daniny publicznej, stanowiącej należność główną, zwrotu i oprocentowania nadpłat w odsetkach i odsetkach ulgowych, obowiązują – o ile chodzi o daniny publiczne, wymienione w art. 1 i 2 ordynacji podatkowej (Dz. U. R. P. z 1934 r. Nr 39, poz. 346), o opłaty stemplowe oraz o podatki spadkowy i od darowizn – przepisy art. 130 i 131 ordynacji podatkowej. (2) W zakresie pozostałych danin publicznych należy stosować przepisy następujące:
+
+umorzenie zaległości w całości lub w części pociąga za sobą umorzenie w odpowiednim stosunku odsetek lub odsetek ulgowych; w gospodarczo uzasadnionych lub na szczególne uwzględnienie zasługujących przypadkach, Minister Skarbu, w odniesieniu do danin publicznych z wyjątkiem samoistnych danin komunalnych, może obniżyć przypadające odsetki i odsetki ulgowe oraz umorzyć narosłe i nieuiszczone odsetki i odsetki ulgowe, w całości lub w części. Minister Skarbu może uprawnienie to przelać na władze podległe; uprawnienie do umarzania odsetek i odsetek ulgowych, przewidziane pod lit. b), służy w odniesieniu do samoistnych danin komunalnych zarządom właściwych związków samorządowych; sumy nadmiernie lub nienależnie wpłacone w odsetkach i odsetkach ulgowych podlegają zaliczeniu z urzędu na poczet innych płatnych należności płatnika, a w ich braku – zwrotowi w gotówce na prośbę płatnika.
+
+- **a)**
+- **b)**
+- **c)**
+- **d)**
 
 **Art. 10.** Odsetki i odsetki ulgowe, przypadające od zaległości w państwowych daninach publicznych, pobiera się na rzecz Skarbu, od zaległości zaś w daninach publicznych, przypadających na rzecz innych związków prawa publicznego – na rzecz tych związków.
 

@@ -24,7 +24,8 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1997-08-29 |
 | Data wydania | 1997-11-21 |
-| Ostatnia zmiana | 2026-05-07 |
+| Wejście w życie | 1998-01-01 |
+| Ostatnia zmiana | 2026-05-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971400938) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/938/text.pdf) |
 
 Art. 71–73. (pominięte)

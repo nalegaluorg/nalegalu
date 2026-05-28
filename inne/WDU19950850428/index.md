@@ -1,0 +1,127 @@
+---
+title: Ustawa z dnia 29 czerwca 1995 r. o zmianie ustawy o podatku od spadków i darowizn.
+address: WDU19950850428
+eli: DU/1995/428
+publisher: DU
+year: 1995
+pos: 428
+act_type: Ustawa
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Ustawa z dnia 29 czerwca 1995 r. o zmianie ustawy o podatku od spadków i darowizn
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 1995 nr 85 poz. 428 |
+| ISAP | WDU19950850428 |
+| Typ aktu | Ustawa |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 1995-06-29 |
+| Data wydania | 1995-07-24 |
+| Wejście w życie | 1995-08-23 |
+| Ostatnia zmiana | 2024-03-15 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950850428) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1995/428/text.pdf) |
+
+**Art. 1.** W ustawie z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. Nr 45, poz. 207 i z 1989 r. Nr 74, poz. 443) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 ust. 2 otrzymuje brzmienie: „
+
+2. Podatkowi polega również nabycie praw do wkładu oszczędnościowego na podstawie dyspozycji wkładcy na wypadek jego śmierci oraz nabycie własności rzeczy i innych praw majątkowych przez zasiedzenie. ” ;
+
+- **2)** w art. 3: dodaje się pkt 2 w brzmieniu: „
+    - **a)**
+
+- **2)** nabycie w drodze spadku lub darowizny praw autorskich i praw pokrewnych, praw do projektów wynalazczych, znaków towarowych i wzorów zdobniczych oraz wierzytelności wynikających z nabycia tych praw. ” skreśla się pkt 3;
+    - **b)**
+
+- **3)** w art. 4: w ust. 1: – w pkt 1 skreśla się lit. d), – pkt 4 i 5 otrzymują brzmienie: „ 4) nabycie wartości budynków gospodarczych służących bezpośrednio produkcji rolniczej prowadzonej na użytkach rolnych o powierzchni do 1 ha, a nabywcą jest osoba prowadząca gospodarstwo rolne zaliczona do I grupy podatkowej, 5) nabycie w drodze darowizny pieniędzy lub innych rzeczy przez osobę zaliczoną do I grupy podatkowej w wysokości nie przekraczającej 6 100 zł od jednego darczyńcy, a od wielu darczyńców łącznie nie więcej niż 12 200 zł w okresie 5 lat od daty pierwszej darowizny, jeżeli pieniądze te lub rzeczy obdarowany przeznaczy na wkład budowlany lub mieszkaniowy do spółdzielni, budowę lokalu w małym domu mieszkalnym, budowę domu jednorodzinnego albo nabycie lokalu mieszkalnego stanowiącego odrębną nieruchomość, ” – skreśla się pkt 6, – w pkt 9 lit. c) otrzymuje brzmienie: „ c) zabytków ruchomych i kolekcji wpisanych do rejestru zabytków, a także dóbr kultury złożonych w muzeum, zgodnie z obowiązującymi przepisami ” , – pkt 10 otrzymuje brzmienie: „ 10) nabycie przez małżonka lub zstępnych w drodze spadku lub darowizny zakładu wytwórczego, budowlanego, handlowego, usługowego lub jego części, pod warunkiem, że zakład ten będzie prowadzony przez nabywcę w stanie niepogorszonym przez okres co najmniej 5 lat od dnia przyjęcia spadku lub darowizny; niedotrzymanie tych warunków powoduje utratę zwolnienia od podatku, z wyjątkiem niemożności dalszego prowadzenia tej działalności na skutek zdarzeń losowych; w wypadkach tych podatek obniża się proporcjonalnie do okresu prowadzenia działalności przez spadkobiercę lub obdarowanego, ” – dodaje się pkt 13 i 14 w brzmieniu: „ 13) nabycie w drodze spadku przez osoby zaliczone do I grupy podatkowej budynku, w części zajętej przez osoby trzecie na podstawie umów najmu, do których mają zastosowanie przepisy o czynszu regulowanym, określonym w ustawie o najmie lokali mieszkalnych i dodatkach mieszkaniowych, 14) nabycie własności i prawa użytkowania wieczystego gospodarstwa rolnego lub jego części wraz z budynkami mieszkalno-gospodarczymi oraz innych praw do takiego gospodarstwa lub jego części, jeżeli umowa zostaje zawarta na podstawie przepisów o ubezpieczeniu społecznym rolników. ” , ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2. Jeżeli przedmiotem spadku lub darowizny są składniki majątkowe wymienione w ust. 1 pkt 1 lit. b) i c), a nabywcami są zstępni lub małżonek, z podstawy opodatkowania wyłącza się wartość tych składników pod warunkiem, że te budynki i urządzenia będą wykorzystywane przez nabywcę nadal w stanie niepogorszonym i zgodnie z ich przeznaczeniem w ramach gospodarstwa rolnego przez okres co najmniej 5 lat od dnia przyjęcia spadku lub darowizny. Niedotrzymanie tych warunków powoduje utratę zwolnienia od podatku, z wyjątkiem niemożności dalszego prowadzenia tej działalności na skutek zdarzeń losowych; w wypadkach tych podatek obniża się proporcjonalnie do okresu prowadzenia działalności przez spadkobiercę lub obdarowanego. ” , dodaje się ust. 5 w brzmieniu: „
+
+- **c)**
+
+5. Ilekroć w ustawie jest mowa o gospodarstwie rolnym, oznacza to gospodarstwo rolne w rozumieniu przepisów o podatku rolnym. ” ;
+
+- **4)** w art. 7 ust. 1 i 2 otrzymują brzmienie: „
+
+1. Podstawę opodatkowania stanowi wartość nabytych rzeczy i praw majątkowych po potrąceniu długów i ciężarów (czysta wartość), ustalona według stanu rzeczy i praw majątkowych w dniu nabycia i cen rynkowych z dnia powstania obowiązku podatkowego. Jeżeli przed dokonaniem wymiaru podatku nastąpi ubytek rzeczy spowodowany siłą wyższą, do ustalenia wartości przyjmuje się stan rzeczy w dniu dokonania wymiaru, a odszkodowanie za ubytek należne z tytułu ubezpieczenia wlicza się do podstawy wymiaru.
+
+2. Jeżeli spadkobierca i zapisobierca lub obdarowany został obciążony obowiązkiem wykonania polecenia lub zapisu, wartość obciążenia z tego tytułu stanowi ciężar spadku (zapisu) lub darowizny, o ile polecenie zostało wykonane. ” ;
+
+- **5)** w art. 8: ust. 1 i 3 otrzymują brzmienie: „
+    - **a)**
+
+1. Wartość nabytych rzeczy i praw majątkowych przyjmuje się w wysokości określonej przez nabywcę, jeżeli odpowiada ona wartości rynkowej tych rzeczy i praw, a wartość praw do wkładów oszczędnościowych – w wysokości tych wkładów. ” „
+
+3. Wartość rynkową rzeczy i praw majątkowych określa się na podstawie przeciętnych cen stosowanych w danej miejscowości w obrocie rzeczami tego samego rodzaju i gatunku z uwzględnieniem ich stanu i stopnia zużycia oraz w obrocie prawami majątkowymi tego samego rodzaju z dnia powstania obowiązku podatkowego, ” , skreśla się ust. 6–9;
+
+- **b)**
+- **6)** w art. 9 ust. 1 otrzymuje brzmienie: „
+
+1. Opodatkowaniu podlega nabycie przez nabywcę, od jednej osoby, własności rzeczy i praw majątkowych o czystej wartości przekraczającej:
+
+- **1)** 6 100 zł – jeżeli nabywcą jest osoba zaliczona do I grupy podatkowej,
+- **2)** 4 600 zł – jeżeli nabywcą jest osoba zaliczona do II grupy podatkowej,
+- **3)** 3 100 zł – jeżeli nabywcą jest osoba zaliczona do III grupy podatkowej. ” ;
+- **7)** skreśla się art. 10;
+- **8)** art. 15 otrzymuje brzmienie: „
+
+**Art. 15.**
+
+1. Podatek oblicza się od nadwyżki podstawy opodatkowania ponad kwotę wolną od podatku, według następujących skal: Kwoty nadwyżki w zł Podatek wynosi ponad do 1) od nabywców zaliczonych do I grupy podatkowej 6 500 3% 6 500 – 13 000 195 zł i 5% od nadwyżki ponad 6 500 zł 13 000 520 zł i 7% od nadwyżki ponad 13 000 zł 2) od nabywców zaliczonych do II grupy podatkowej 6 500 7% 6 500 – 13 000 455 zł i 9% od nadwyżki ponad 6 500 zł 13 000 1 040 zł i 12% od nadwyżki ponad 13 000 zł 3) od nabywców zaliczonych do III grupy podatkowej 6 500 12% 6 500 – 13 000 780 zł i 16% od nadwyżki ponad 6 500 zł 13 000 1 820 zł i 20% od nadwyżki ponad 13 000 zł
+
+2. Nabycie własności w drodze zasiedzenia podlega opodatkowaniu w wysokości 7% podstawy opodatkowania; art. 9 ust. 1 nie ma w tym wypadku zastosowania.
+
+3. Przy ustalaniu wysokości podatku przyjmuje się kwoty wartości rzeczy i praw majątkowych określone w art. 4 ust. 1 pkt 5 i art. 9 ust. 1 oraz przedziały nadwyżki kwot wartości rzeczy i praw majątkowych podlegających opodatkowaniu, określone w ust. 1, w wysokości obowiązującej w dniu powstania obowiązku podatkowego. ” ;
+
+- **9)** art. 16 otrzymuje brzmienie: „
+
+**Art. 16.**
+
+1. W przypadku nabycia budynku mieszkalnego lub jego części, lokalu mieszkalnego stanowiącego odrębną nieruchomość, spółdzielczego własnościowego prawa do lokalu mieszkalnego oraz wynikających z przydziału spółdzielni mieszkaniowych: prawa do domu jednorodzinnego lub prawa do lokalu w małym domu mieszkalnym:
+
+- **1)** w drodze spadku lub darowizny przez osoby zaliczane do I grupy podatkowej,
+- **2)** w drodze spadku przez osoby zaliczane do II grupy podatkowej,
+- **3)** w drodze spadku przez osoby zaliczane do III grupy podatkowej, sprawujące przez co najmniej dwa lata opiekę nad wymagającym takiej opieki spadkodawcą, na podstawie umowy zawartej z nim przed organem gminy, nie wlicza się do podstawy opodatkowania ich wartości do łącznej wysokości nie przekraczającej 110 m2 powierzchni użytkowej budynku lub lokalu.
+
+2. Ulga, o której mowa w ust. 1, przysługuje osobom, które łącznie spełniają następujące warunki:
+
+- **1)** spełniają wymogi określone w art. 4 ust. 4,
+- **2)** nie są właścicielami innego budynku mieszkalnego lub lokalu mieszkalnego stanowiącego odrębną nieruchomość bądź będąc nimi przeniosą własność budynku lub lokalu na rzecz zstępnych, Skarbu Państwa lub gminy,
+- **3)** nie dysponują spółdzielczym lokatorskim prawem do lokalu lub nie są właścicielami spółdzielczego własnościowego prawa do lokalu mieszkalnego oraz wynikających z przydziału spółdzielni mieszkaniowych: prawa do domu jednorodzinnego lub prawa do lokalu w małym domu mieszkalnym, a w razie dysponowania tymi prawami przekażą je zstępnym lub przekażą do dyspozycji spółdzielni, w terminie 3 miesięcy od dnia złożenia zeznania podatkowego,
+- **4)** nie są najemcami lokalu lub budynku lub będąc nimi rozwiążą umowę najmu,
+- **5)** będą zamieszkiwać w nabytym lokalu lub budynku przez 5 lat: od dnia złożenia zeznania podatkowego – jeżeli w chwili złożenia zeznania nabywca mieszka w nabytym lokalu lub budynku, od dnia zamieszkania w nabytym lokalu lub budynku – jeżeli nabywca zamieszka w ciągu roku od dnia złożenia zeznania podatkowego.
+    - **a)**
+    - **b)**
+
+3. Jeżeli nabyty budynek lub lokal jest zajęty przez osoby trzecie, spełnienie warunków określonych w ust. 2 pkt 2–5 może nastąpić w okresie 5 lat od dnia nabycia; w tym wypadku zawiesza się odpowiednio bieg terminu przedawnienia do dokonania wymiaru podatku.
+
+4. Za powierzchnię użytkową budynku (lokalu) w rozumieniu ustawy uważa się powierzchnię mierzoną po wewnętrznej długości ścian pomieszczeń na wszystkich kondygnacjach (podziemnych i naziemnych, z wyjątkiem powierzchni piwnic i klatek schodowych oraz szybów dźwigów).
+
+5. Powierzchnie pomieszczeń lub ich części oraz część kondygnacji o wysokości w świetle od 1,40 m do 2,20 m zalicza się do powierzchni użytkowej budynku w 50%, a jeżeli wysokość jest mniejsza niż 1,40 m – powierzchnię tę pomija się.
+
+6. W razie zbycia budynku lub lokalu przed upływem terminu określonego w ust. 2 pkt 5 albo niezachowania warunku zamieszkiwania w nim w okresie przewidzianym w tym przepisie, wznawia się postępowanie podatkowe i dokonuje wymiaru podatku od całej wartości przedmiotu opodatkowania, ustalonej tak, jakby ulga nie przysługiwała. Okres przedawnienia prawa do dokonania wymiaru podatku biegnie w tym wypadku od daty zbycia budynku lub lokalu.
+
+7. Nie stanowi podstawy do wznowienia postępowania z przyczyny określonej w ust. 6 zbycie udziału w budynku lub lokalu na rzecz innego ze spadkobierców lub obdarowanych oraz zbycie budynku lub lokalu, jeżeli było ono uzasadnione koniecznością zmiany warunków mieszkaniowych, a nabycie innego budynku lub uzyskanie pozwolenia na jego budowę albo nabycie innego lokalu nastąpiło nie później niż w ciągu 6 miesięcy od dnia zbycia.
+
+8. Warunek określony w ust. 2 pkt 5 uważa się za spełniony również wtedy, gdy budynek lub lokal został zbyty przed rozpoczęciem zamieszkiwania ze względu na konieczność zmiany warunków lub miejsca zamieszkania, a nabycie innego budynku lub uzyskanie pozwolenia na jego budowę albo nabycie innego lokalu nastąpiło nie później niż w ciągu 6 miesięcy od dnia zbycia. ” ;
+
+- **10)** w art. 17 w ust. 1 skreśla się pkt 3;
+- **11)** w art. 18 ust. 1 otrzymuje brzmienie: „
+
+1. Do obliczenia i pobrania od podatnika podatku obowiązany jest notariusz, przed którym sporządzono akt darowizny lub któremu przedstawiono pismo stwierdzające darowiznę w celu dokonania czynności notarialnej. Notariusz obowiązany jest do wpłacenia pobranego podatku do urzędu skarbowego właściwego ze względu na miejsce położenia kancelarii notarialnej. ” ;
+
+- **12)** w art. 19 ust. 3 otrzymuje brzmienie: „
+
+3. Państwowe osoby prawne, spółdzielnie, państwowe jednostki organizacyjne nie posiadające osobowości prawnej, będące dłużnikiem spadkodawcy, obowiązane są przy zapłacie długu potrącić i przekazać do właściwego urzędu skarbowego podatek od nabycia spadku, należny od spadkobiercy, w wysokości ustalonej przez ten urząd. Zapłata długu bez potrącenia podatku od nabycia spadku może nastąpić tylko za uprzednią zgodą urzędu skarbowego lub po stwierdzeniu, że należny podatek został uiszczony. ”
+
+**Art. 2.** Minister Finansów ogłosi w Dzienniku Rzeczypospolitej Polskiej jednolity tekst ustawy o podatku od spadków i darowizn z uwzględnieniem zmian wynikających z przepisów ogłoszonych przed dniem wydania jednolitego tekstu.
+
+**Art. 3.** Ustawa wchodzi w życie po upływie trzydziestu dni od dnia ogłoszenia.
+

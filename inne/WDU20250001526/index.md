@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# o działalności ubezpieczeniowej i reasekuracyjnej
-
-*USTAWA z dnia 11 września 2015 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 listopada 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,7 +25,88 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-03-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001526) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1526/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 października 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o działalności ubezpieczeniowej i reasekuracyjnej
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2024 r. poz. 838), z uwzględnieniem zmian wprowadzonych:
+1) ustawą z dnia 13 września 2024 r. o zmianie ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych oraz ustawy o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1565),
+2) ustawą z dnia 6 grudnia 2024 r. o zmianie ustawy o rachunkowości, ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw (Dz. U. poz. 1863),
+3) ustawą z dnia 20 grudnia 2024 r. o podmiotach obsługujących kredyty i nabywcach kredytów (Dz. U. z 2025 r. poz. 146),
+4) ustawą z dnia 9 maja 2025 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 820),
+5) ustawą z dnia 25 czerwca 2025 r. o zmianie niektórych ustaw w związku z zapewnieniem operacyjnej odporności cyfrowej sektora finansowego oraz emitowaniem europejskich zielonych obligacji (Dz. U. poz. 1069),
+6) ustawą z dnia 5 sierpnia 2025 r. o uchyleniu ustawy o Centralnej Informacji Emerytalnej (Dz. U. poz. 1216) oraz zmian wynikających z przepisów ogłoszonych przed dniem 3 października 2025 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+1) art. 5 ustawy z dnia 13 września 2024 r. o zmianie ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych oraz ustawy o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1565), który stanowi: „Art. 5. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 3 i pkt 16 lit. b, które wchodzą w życie z dniem 24 lipca 2025 r.”;
+2) art. 35 ustawy z dnia 6 grudnia 2024 r. o zmianie ustawy o rachunkowości, ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw (Dz. U. poz. 1863), który stanowi: „Art. 35. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+1) art. 12, który wchodzi w życie z dniem 1 stycznia 2025 r.;
+2) art. 3, który wchodzi w życie z dniem 1 kwietnia 2025 r.;
+3) art. 13, który wchodzi w życie z dniem 22 czerwca 2025 r.;
+4) art. 10, który wchodzi w życie z dniem 1 lipca 2025 r.”;
+3) art. 76 ustawy z dnia 20 grudnia 2024 r. o podmiotach obsługujących kredyty i nabywcach kredytów (Dz. U. z 2025 r.
+poz. 146), który stanowi: „Art. 76. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+1) art. 65, art. 67 i art. 75, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+2) art. 61 pkt 2 i art. 68, które wchodzą w życie po upływie 2 miesięcy od dnia ogłoszenia.”;
+4) art. 34 ustawy z dnia 9 maja 2025 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U.
+poz. 820), który stanowi: „Art. 34. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 27, art. 28 i art. 30, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.”;
+5) art. 20 ustawy z dnia 25 czerwca 2025 r. o zmianie niektórych ustaw w związku z zapewnieniem operacyjnej odporności cyfrowej sektora finansowego oraz emitowaniem europejskich zielonych obligacji (Dz. U. poz. 1069), który stanowi: „Art. 20. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
+6) art. 15 ustawy z dnia 5 sierpnia 2025 r. o uchyleniu ustawy o Centralnej Informacji Emerytalnej (Dz. U. poz. 1216), który stanowi: „Art. 15. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 2 pkt 6, art. 3 pkt 2, art. 4 pkt 2 lit. c i pkt 3, art. 6 pkt 4, art. 7 pkt 5 i art. 12 pkt 2 lit. b, które wchodzą w życie z dniem 1 stycznia 2026 r.”.
+Marszałek Sejmu: S. Hołownia
+USTAWA z dnia 11 września 2015 r.
+o działalności ubezpieczeniowej i reasekuracyjnej
 Art. 441–479. (pominięte)
+1. Ubezpieczenia na życie.
+2. Ubezpieczenia posagowe, zaopatrzenia dzieci.
+3. Ubezpieczenia na życie, jeżeli są związane z ubezpieczeniowym funduszem kapitałowym, a także ubezpieczenia na życie, w których świadczenie zakładu ubezpieczeń jest ustalane w oparciu o określone indeksy lub inne wartości bazowe.
+4. Ubezpieczenia rentowe.
+5. Ubezpieczenia wypadkowe i chorobowe, jeżeli są uzupełnieniem ubezpieczeń wymienionych w grupach 1–4.
+1. Ubezpieczenia wypadku, w tym wypadku przy pracy i choroby zawodowej:
+1) świadczenia jednorazowe;
+2) świadczenia powtarzające się;
+3) połączone świadczenia, o których mowa w pkt 1 i 2;
+4) przewóz osób.
+2. Ubezpieczenia choroby:
+1) świadczenia jednorazowe;
+2) świadczenia powtarzające się;
+3) świadczenia kombinowane.
+3. Ubezpieczenia casco pojazdów lądowych, z wyjątkiem pojazdów szynowych, obejmujące szkody w:
+1) pojazdach samochodowych;
+2) pojazdach lądowych bez własnego napędu.
+4. Ubezpieczenia casco pojazdów szynowych, obejmujące szkody w pojazdach szynowych.
+5. Ubezpieczenia casco statków powietrznych, obejmujące szkody w statkach powietrznych.
+6. Ubezpieczenia żeglugi morskiej i śródlądowej casco statków żeglugi morskiej i statków żeglugi śródlądowej, obejmujące szkody w:
+1) statkach żeglugi morskiej;
+2) statkach żeglugi śródlądowej.
+7. Ubezpieczenia przedmiotów w transporcie, obejmujące szkody w transportowanych przedmiotach, niezależnie od każdorazowo stosowanych środków transportu.
+8. Ubezpieczenia szkód, obejmujące szkody rzeczowe nieujęte w grupach 3–7, spowodowane przez żywioły:
+1) ogień;
+2) eksplozję;
+3) burzę;
+4) inne żywioły;
+5) energię jądrową;
+6) obsunięcia ziemi lub tąpnięcia.
+9. Ubezpieczenia pozostałych szkód rzeczowych (jeżeli nie zostały ujęte w grupach 3, 4, 5, 6 lub 7), wywołanych przez grad lub mróz oraz inne przyczyny (jak np. kradzież), jeżeli przyczyny te nie są ujęte w grupie 8.
+10. Ubezpieczenia odpowiedzialności cywilnej wszelkiego rodzaju, wynikającej z posiadania i użytkowania pojazdów lądowych z napędem własnym, łącznie z ubezpieczeniem odpowiedzialności przewoźnika.
+11. Ubezpieczenia odpowiedzialności cywilnej wszelkiego rodzaju, wynikającej z posiadania i użytkowania statków powietrznych, łącznie z ubezpieczeniem odpowiedzialności przewoźnika.
+12. Ubezpieczenia odpowiedzialności cywilnej za żeglugę morską i śródlądową, wynikającej z posiadania i użytkowania statków żeglugi śródlądowej i statków morskich, łącznie z ubezpieczeniem odpowiedzialności przewoźnika.
+13. Ubezpieczenia odpowiedzialności cywilnej (ubezpieczenie odpowiedzialności cywilnej ogólnej) nieujętej w grupach 10–12.
+14. Ubezpieczenia kredytu, w tym:
+1) ogólnej niewypłacalności;
+2) kredytu eksportowego, spłaty rat, kredytu hipotecznego, kredytu rolniczego.
+15. Gwarancja ubezpieczeniowa:
+1) bezpośrednia;
+2) pośrednia.
+16. Ubezpieczenia ryzyk finansowych, w tym:
+1) ryzyka utraty zatrudnienia;
+2) niewystarczającego dochodu;
+3) złych warunków atmosferycznych;
+4) utraty zysków;
+5) stałych wydatków ogólnych;
+6) nieprzewidzianych wydatków handlowych;
+7) utraty wartości rynkowej;
+8) utraty stałego źródła dochodu;
+9) pośrednich strat handlowych, poza wyżej wymienionymi;
+10) innych strat finansowych.
+17. Ubezpieczenia ochrony prawnej.
+18. Ubezpieczenia świadczenia pomocy na korzyść osób, które popadły w trudności w czasie podróży lub podczas nieobecności w miejscu zamieszkania.
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -61,66 +140,66 @@ Art. 441–479. (pominięte)
 
 1. Użyte w ustawie określenia oznaczają:
 
-- **1)** biuro narodowe – biuro narodowe w rozumieniu ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych;
-- **2)** bliskie powiązania – sytuację, w której:
+- **1)** biuro narodowe biuro narodowe w rozumieniu ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych;
+- **2)** bliskie powiązania sytuację, w której:
     - **a)** dwa lub więcej podmiotów jest ze sobą powiązanych przez kontrolę lub przez udział kapitałowy lub
     - **b)** dwa lub więcej podmiotów jest trwale powiązanych przez kontrolę z tą samą osobą;
 
-- **3)** cedent – zakład ubezpieczeń lub zakład reasekuracji, który w związku z wykonywaną działalnością ubezpieczeniową lub reasekuracyjną ceduje ryzyko na zakład reasekuracji lub zakład ubezpieczeń wykonujący działalność reasekuracyjną;
-- **4)** dominujący podmiot nieregulowany – dominujący podmiot nieregulowany w rozumieniu ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego (Dz. U. z 2020 r. poz. 1413);
-- **5)** dominujący podmiot ubezpieczeniowy – jednostkę dominującą niebędącą dominującym podmiotem nieregulowanym:
+- **3)** cedent zakład ubezpieczeń lub zakład reasekuracji, który w związku z wykonywaną działalnością ubezpieczeniową lub reasekuracyjną ceduje ryzyko na zakład reasekuracji lub zakład ubezpieczeń wykonujący działalność reasekuracyjną;
+- **4)** dominujący podmiot nieregulowany dominujący podmiot nieregulowany w rozumieniu ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego (Dz. U. z 2020 r. poz. 1413);
+- **5)** dominujący podmiot ubezpieczeniowy jednostkę dominującą niebędącą dominującym podmiotem nieregulowanym:
     - **a)** która posiada udziały kapitałowe w jednostkach zależnych oraz
     - **b)** której jednostkami zależnymi są wyłącznie lub w większości zakłady ubezpieczeń lub zakłady reasekuracji, a przynajmniej jednym z tych zakładów jest krajowy zakład ubezpieczeń lub krajowy zakład reasekuracji lub zagraniczny zakład ubezpieczeń, który uzyskał zezwolenie w jednym z państw członkowskich Unii Europejskiej, lub zagraniczny zakład reasekuracji, który uzyskał zezwolenie w jednym z państw członkowskich Unii Europejskiej;
 
-- **6)** duże ryzyka – ryzyka, o których mowa w dziale II załącznika do ustawy:
+- **6)** duże ryzyka ryzyka, o których mowa w dziale II załącznika do ustawy:
     - **a)** w grupach 4–7, 11 i 12,
-    - **b)** w grupach 14 i 15 – w przypadku gdy ubezpieczający wykonuje działalność gospodarczą lub wolny zawód, a ryzyko wiąże się z tą działalnością,
-    - **c)** w grupach 3, 8, 9, 10, 13 i 16 – w przypadku gdy ubezpieczający przekracza co najmniej dwa z następujących progów w roku obrotowym: – sumę aktywów bilansu w wysokości równowartości w złotych 6,6 mln euro, – łączne przychody netto ze sprzedaży towarów i usług oraz operacji finansowych w wysokości równowartości w złotych 13,6 mln euro, – średnioroczne zatrudnienie w przeliczeniu na pełne etaty w liczbie 250 osób;
+    - **b)** w grupach 14 i 15 w przypadku gdy ubezpieczający wykonuje działalność gospodarczą lub wolny zawód, a ryzyko wiąże się z tą działalnością,
+    - **c)** w grupach 3, 8, 9, 10, 13 i 16 w przypadku gdy ubezpieczający przekracza co najmniej dwa z następujących progów w roku obrotowym: sumę aktywów bilansu w wysokości równowartości w złotych 6,6 mln euro, łączne przychody netto ze sprzedaży towarów i usług oraz operacji finansowych w wysokości równowartości w złotych 13,6 mln euro, średnioroczne zatrudnienie w przeliczeniu na pełne etaty w liczbie 250 osób;
 
-- **7)** efekty dywersyfikacji – ograniczenie ekspozycji na ryzyko zakładów ubezpieczeń i zakładów reasekuracji oraz grup związane z dywersyfikacją ich działalności, wynikające z faktu, że strata z tytułu realizacji jednego rodzaju ryzyka może zostać skompensowana brakiem realizacji lub niepełną realizacją innego rodzaju ryzyka, w przypadku gdy ryzyka te nie są w pełni skorelowane;
-- **8)** EIOPA – Europejski Urząd Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych, ustanowiony na mocy rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1094/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych), zmiany decyzji nr 716/2009/WE i uchylenia decyzji Komisji 2009/79/WE (Dz. Urz. UE L 331 z 15.12.2010, str. 48, z późn. zm. ), zwanego dalej „rozporządzeniem 1094/2010”;
-- **9)** firma inwestycyjna – firmę inwestycyjną w rozumieniu art. 3 pkt 3 lit. a–f ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego;
-- **10)** funkcja należąca do systemu zarządzania – zdolność zakładu ubezpieczeń lub zakładu reasekuracji do wykonywania poszczególnych zadań w ramach systemu zarządzania;
-- **11)** główny oddział – oddział w rozumieniu ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 89, 619 i 621) zakładu ubezpieczeń mającego siedzibę w państwie niebędącym państwem członkowskim Unii Europejskiej lub zakładu reasekuracji mającego siedzibę w państwie niebędącym państwem członkowskim Unii Europejskiej;
-- **12)** grupa – grupę podmiotów:
-    - **a)** w skład której wchodzi podmiot posiadający udziały kapitałowe w innych podmiotach, jednostki zależne tego podmiotu, oraz podmioty, w których ten podmiot lub jego jednostki zależne posiadają udziały kapitałowe, a także grupę podmiotów powiązanych ze sobą umową, o której mowa w art. 7 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96),
-    - **b)** opartą na ustanowieniu, w drodze umowy lub w inny sposób, silnych i trwałych powiązań finansowych do celów nadzoru nad grupą, w skład której mogą wchodzić towarzystwa ubezpieczeń wzajemnych, towarzystwa reasekuracji wzajemnej lub inne zakłady ubezpieczeń oparte na zasadzie wzajemności, spełniającą poniższe warunki: – jeden z podmiotów wchodzących w skład grupy, uznawany za jednostkę dominującą, jest uprawniony do kierowania polityką finansową i operacyjną innych podmiotów wchodzących w skład grupy, uznawanych za jednostki zależne, – ustanowienie i rozwiązanie powiązań finansowych do celów nadzoru nad grupą podlega zatwierdzeniu przez organ sprawujący nadzór nad grupą;
+- **7)** efekty dywersyfikacji ograniczenie ekspozycji na ryzyko zakładów ubezpieczeń i zakładów reasekuracji oraz grup związane z dywersyfikacją ich działalności, wynikające z faktu, że strata z tytułu realizacji jednego rodzaju ryzyka może zostać skompensowana brakiem realizacji lub niepełną realizacją innego rodzaju ryzyka, w przypadku gdy ryzyka te nie są w pełni skorelowane;
+- **8)** EIOPA Europejski Urząd Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych, ustanowiony na mocy rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1094/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych), zmiany decyzji nr 716/2009/WE i uchylenia decyzji Komisji 2009/79/WE (Dz. Urz. UE L 331 z 15.12.2010, str. 48, z późn. zm. ), zwanego dalej „rozporządzeniem 1094/2010”;
+- **9)** firma inwestycyjna firmę inwestycyjną w rozumieniu art. 3 pkt 3 lit. a–f ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego;
+- **10)** funkcja należąca do systemu zarządzania zdolność zakładu ubezpieczeń lub zakładu reasekuracji do wykonywania poszczególnych zadań w ramach systemu zarządzania;
+- **11)** główny oddział oddział w rozumieniu ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 89, 619 i 621) zakładu ubezpieczeń mającego siedzibę w państwie niebędącym państwem członkowskim Unii Europejskiej lub zakładu reasekuracji mającego siedzibę w państwie niebędącym państwem członkowskim Unii Europejskiej;
+- **12)** grupa grupę podmiotów:
+    - **a)** w skład której wchodzi podmiot posiadający udziały kapitałowe w innych podmiotach, jednostki zależne tego podmiotu, oraz podmioty, w których ten podmiot lub jego jednostki zależne posiadają udziały kapitałowe, a także grupę podmiotów powiązanych ze sobą umową, o której mowa w art. 7 § 1 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96),
+    - **b)** opartą na ustanowieniu, w drodze umowy lub w inny sposób, silnych i trwałych powiązań finansowych do celów nadzoru nad grupą, w skład której mogą wchodzić towarzystwa ubezpieczeń wzajemnych, towarzystwa reasekuracji wzajemnej lub inne zakłady ubezpieczeń oparte na zasadzie wzajemności, spełniającą poniższe warunki: jeden z podmiotów wchodzących w skład grupy, uznawany za jednostkę dominującą, jest uprawniony do kierowania polityką finansową i operacyjną innych podmiotów wchodzących w skład grupy, uznawanych za jednostki zależne, ustanowienie i rozwiązanie powiązań finansowych do celów nadzoru nad grupą podlega zatwierdzeniu przez organ sprawujący nadzór nad grupą;
 
-- **13)** instytucja kredytowa – instytucję kredytową w rozumieniu art. 3 pkt 1 ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego;
-- **14)** jednostka dominująca – podmiot, który sprawuje nad innym podmiotem kontrolę w rozumieniu art. 3 ust. 1 pkt 37 lit. a–d ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. ), lub podmiot który w ocenie organu nadzoru w inny sposób sprawuje kontrolę nad innym podmiotem;
-- **15)** jednostka zależna – podmiot kontrolowany przez jednostkę dominującą;
-- **16)** koasekuracja – umowę ubezpieczenia, na podstawie której co najmniej dwa zakłady ubezpieczeń, działając w porozumieniu, zobowiązują się do spełnienia określonego świadczenia w przypadku wystąpienia zdarzenia losowego przewidzianego w umowie;
+- **13)** instytucja kredytowa instytucję kredytową w rozumieniu art. 3 pkt 1 ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego;
+- **14)** jednostka dominująca podmiot, który sprawuje nad innym podmiotem kontrolę w rozumieniu art. 3 ust. 1 pkt 37 lit. a–d ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. ), lub podmiot który w ocenie organu nadzoru w inny sposób sprawuje kontrolę nad innym podmiotem;
+- **15)** jednostka zależna podmiot kontrolowany przez jednostkę dominującą;
+- **16)** koasekuracja umowę ubezpieczenia, na podstawie której co najmniej dwa zakłady ubezpieczeń, działając w porozumieniu, zobowiązują się do spełnienia określonego świadczenia w przypadku wystąpienia zdarzenia losowego przewidzianego w umowie;
 - **16a)** koasekurator wiodący ‒ zakład ubezpieczeń wybrany spośród uczestników umowy koasekuracyjnej do realizacji czynności określonych w tej umowie w imieniu własnym i pozostałych zakładów ubezpieczeń współubezpieczających;
-- **17)** kolegium organów nadzoru – stałą, elastyczną strukturę współpracy, koordynacji i ułatwiania wydawania rozstrzygnięć dotyczących nadzoru nad grupą;
-- **18)** krajowy zakład ubezpieczeń – przedsiębiorcę w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, z późn. zm. ) z siedzibą na terytorium Rzeczypospolitej Polskiej, który uzyskał zezwolenie na wykonywanie działalności ubezpieczeniowej na terytorium Rzeczypospolitej Polskiej;
-- **19)** krajowy zakład reasekuracji – przedsiębiorcę w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców z siedzibą na terytorium Rzeczypospolitej Polskiej, który uzyskał zezwolenie na wykonywanie działalności reasekuracyjnej na terytorium Rzeczypospolitej Polskiej;
-- **20)** miara ryzyka – funkcję matematyczną, która przyporządkowuje kwotę pieniężną danej prognozie rozkładu prawdopodobieństwa i rośnie monotonicznie wraz z poziomem ekspozycji na ryzyko stanowiącym podstawę danej prognozy rozkładu prawdopodobieństwa;
-- **21)** mieszany dominujący podmiot ubezpieczeniowy – inną niż Skarb Państwa jednostkę dominującą, której przynajmniej jedną z jednostek zależnych jest zakład ubezpieczeń lub zakład reasekuracji, niebędącą:
+- **17)** kolegium organów nadzoru stałą, elastyczną strukturę współpracy, koordynacji i ułatwiania wydawania rozstrzygnięć dotyczących nadzoru nad grupą;
+- **18)** krajowy zakład ubezpieczeń przedsiębiorcę w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, z późn. zm. ) z siedzibą na terytorium Rzeczypospolitej Polskiej, który uzyskał zezwolenie na wykonywanie działalności ubezpieczeniowej na terytorium Rzeczypospolitej Polskiej;
+- **19)** krajowy zakład reasekuracji przedsiębiorcę w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców z siedzibą na terytorium Rzeczypospolitej Polskiej, który uzyskał zezwolenie na wykonywanie działalności reasekuracyjnej na terytorium Rzeczypospolitej Polskiej;
+- **20)** miara ryzyka funkcję matematyczną, która przyporządkowuje kwotę pieniężną danej prognozie rozkładu prawdopodobieństwa i rośnie monotonicznie wraz z poziomem ekspozycji na ryzyko stanowiącym podstawę danej prognozy rozkładu prawdopodobieństwa;
+- **21)** mieszany dominujący podmiot ubezpieczeniowy inną niż Skarb Państwa jednostkę dominującą, której przynajmniej jedną z jednostek zależnych jest zakład ubezpieczeń lub zakład reasekuracji, niebędącą:
     - **a)** zakładem ubezpieczeń,
     - **b)** zakładem reasekuracji,
     - **c)** dominującym podmiotem ubezpieczeniowym,
     - **d)** dominującym podmiotem nieregulowanym;
 
-- **22)** oddział – każdą formę stałej obecności na terytorium Rzeczypospolitej Polskiej zakładu ubezpieczeń mającego siedzibę w państwie członkowskim Unii Europejskiej lub zakładu reasekuracji mającego siedzibę w państwie członkowskim Unii Europejskiej, w tym oddział, w rozumieniu ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej;
-- **23)** organ nadzoru – Komisję Nadzoru Finansowego;
-- **24)** organ nadzorczy – organ nadzoru lub organ właściwy w innym niż Rzeczpospolita Polska państwie do sprawowania nadzoru nad działalnością ubezpieczeniową lub reasekuracyjną;
-- **25)** organ sprawujący nadzór nad grupą – organ odpowiedzialny za nadzór nad grupą, wyznaczony zgodnie z art. 404;
+- **22)** oddział każdą formę stałej obecności na terytorium Rzeczypospolitej Polskiej zakładu ubezpieczeń mającego siedzibę w państwie członkowskim Unii Europejskiej lub zakładu reasekuracji mającego siedzibę w państwie członkowskim Unii Europejskiej, w tym oddział, w rozumieniu ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej;
+- **23)** organ nadzoru Komisję Nadzoru Finansowego;
+- **24)** organ nadzorczy organ nadzoru lub organ właściwy w innym niż Rzeczpospolita Polska państwie do sprawowania nadzoru nad działalnością ubezpieczeniową lub reasekuracyjną;
+- **25)** organ sprawujący nadzór nad grupą organ odpowiedzialny za nadzór nad grupą, wyznaczony zgodnie z art. 404;
 - **26)** osoby pełniące kluczowe funkcje:
     - **a)** członków zarządu i członków rady nadzorczej zakładu ubezpieczeń albo zakładu reasekuracji oraz osoby nadzorujące w takim zakładzie inne kluczowe funkcje, w szczególności funkcję zarządzania ryzykiem, funkcję zgodności z przepisami, funkcję audytu wewnętrznego i funkcję aktuarialną,
     - **b)** członków rady administrującej spółki europejskiej, w której przyjęto system monistyczny, oraz osoby nadzorujące w takiej spółce inne kluczowe funkcje, w szczególności funkcję zarządzania ryzykiem, funkcję zgodności z przepisami, funkcję audytu wewnętrznego i funkcję aktuarialną;
 
-- **27)** outsourcing – umowę między zakładem ubezpieczeń albo zakładem reasekuracji a dostawcą usług, na podstawie której dostawca usług wykonuje proces, usługę lub działanie, które w innym przypadku zostałyby wykonane przez zakład ubezpieczeń lub zakład reasekuracji, a także umowę, na podstawie której dostawca usług powierza wykonanie takiego procesu, usługi lub działania innym podmiotom, za pośrednictwem których wykonuje on dany proces, usługę lub działanie;
-- **28)** państwo członkowskie Unii Europejskiej umiejscowienia ryzyka – państwo członkowskie Unii Europejskiej, w którym:
+- **27)** outsourcing umowę między zakładem ubezpieczeń albo zakładem reasekuracji a dostawcą usług, na podstawie której dostawca usług wykonuje proces, usługę lub działanie, które w innym przypadku zostałyby wykonane przez zakład ubezpieczeń lub zakład reasekuracji, a także umowę, na podstawie której dostawca usług powierza wykonanie takiego procesu, usługi lub działania innym podmiotom, za pośrednictwem których wykonuje on dany proces, usługę lub działanie;
+- **28)** państwo członkowskie Unii Europejskiej umiejscowienia ryzyka państwo członkowskie Unii Europejskiej, w którym:
     - **a)** znajduje się nieruchomość wraz z częściami składowymi i przynależnościami oraz znajdującym się w niej mieniem, o ile mienie to jest objęte tą samą umową ubezpieczenia co nieruchomość,
     - **b)** pojazd jest zarejestrowany, w przypadku gdy umowa ubezpieczenia dotyczy pojazdu podlegającego rejestracji, z zastrzeżeniem lit. c,
     - **c)** pojazd mechaniczny jest zarejestrowany albo pojazd mechaniczny ma być zarejestrowany, według wyboru posiadacza pojazdu, w przypadku gdy pojazd mechaniczny został nabyty w państwie członkowskim Unii Europejskiej innym niż to, w którym ma być zarejestrowany, jednak nie dłużej niż przez okres 30 dni od dnia objęcia pojazdu mechanicznego w posiadanie przez jego nabywcę,
     - **d)** została zawarta umowa ubezpieczenia, na okres nie dłuższy niż 4 miesiące, dotycząca ubezpieczenia związanego z podróżą, niezależnie od grupy określonej w załączniku do ustawy,
-    - **e)** ubezpieczający będący osobą fizyczną ma stałe miejsce zamieszkania albo ubezpieczający będący osobą prawną ma siedzibę jednostki organizacyjnej objętej umową ubezpieczenia – w przypadkach innych niż określone w lit. a–d;
+    - **e)** ubezpieczający będący osobą fizyczną ma stałe miejsce zamieszkania albo ubezpieczający będący osobą prawną ma siedzibę jednostki organizacyjnej objętej umową ubezpieczenia w przypadkach innych niż określone w lit. a–d;
 
-- **29)** pełniący obowiązki organu sprawującego nadzór nad grupą – organ nadzorczy, który w przypadku, o którym mowa w art. 374 ust. 1 pkt 3, byłby organem sprawującym nadzór nad grupą zgodnie z art. 404 ust. 2 – do czasu wydania rozstrzygnięcia w sprawie weryfikacji, czy zakład ubezpieczeń lub zakład reasekuracji, którego jednostka dominująca ma siedzibę na terytorium państwa niebędącego państwem członkowskim Unii Europejskiej, podlega nadzorowi wykonywanemu przez organ nadzorczy państwa niebędącego państwem członkowskim Unii Europejskiej równoważnemu z nadzorem sprawowanym na podstawie rozdziału 15 nad zakładami ubezpieczeń lub zakładami reasekuracji, o których mowa w art. 374 ust. 1 pkt 1 i 2;
-- **29a)** podmiot finansowy: zm. ),
+- **29)** pełniący obowiązki organu sprawującego nadzór nad grupą organ nadzorczy, który w przypadku, o którym mowa w art. 374 ust. 1 pkt 3, byłby organem sprawującym nadzór nad grupą zgodnie z art. 404 ust. 2 do czasu wydania rozstrzygnięcia w sprawie weryfikacji, czy zakład ubezpieczeń lub zakład reasekuracji, którego jednostka dominująca ma siedzibę na terytorium państwa niebędącego państwem członkowskim Unii Europejskiej, podlega nadzorowi wykonywanemu przez organ nadzorczy państwa niebędącego państwem członkowskim Unii Europejskiej równoważnemu z nadzorem sprawowanym na podstawie rozdziału 15 nad zakładami ubezpieczeń lub zakładami reasekuracji, o których mowa w art. 374 ust. 1 pkt 1 i 2;
+- **29a)** podmiot finansowy: z 2024 r. poz. 1646, z późn. zm. ),
     - **a)** instytucję kredytową,
-    - **b)** instytucję finansową w rozumieniu art. 4 ust. 1 pkt 7 ustawy z dnia 29 sierpnia 1997 r. ‒ Prawo bankowe (Dz. U. z 2024 r. poz. 1646, z późn.
+    - **b)** instytucję finansową w rozumieniu art. 4 ust. 1 pkt 7 ustawy z dnia 29 sierpnia 1997 r. ‒ Prawo bankowe (Dz. U.
     - **c)** przedsiębiorstwo pomocniczych usług bankowych w rozumieniu art. 4 ust. 1 pkt 12 ustawy z dnia 29 sierpnia 1997 r. ‒ Prawo bankowe,
     - **d)** zakład ubezpieczeń,
     - **e)** zakład reasekuracji,
@@ -128,34 +207,34 @@ Art. 441–479. (pominięte)
     - **g)** firmę inwestycyjną,
     - **h)** dominujący podmiot nieregulowany;
 
-- **30)** podmiot posiadający udziały kapitałowe w innym podmiocie – podmiot, który jest jednostką dominującą albo podmiot niebędący jednostką dominującą, posiadający udział kapitałowy w innym podmiocie;
-- **31)** podmiot powiązany – podmiot, który jest jednostką zależną albo podmiot niebędący jednostką zależną, w którym inny podmiot posiada udział kapitałowy;
-- **32)** podmiot regulowany – podmiot regulowany w rozumieniu ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego;
-- **33)** powiązanie przez kontrolę – związek między jednostką dominującą a jednostką zależną lub podobny związek między jakimkolwiek podmiotem a zakładem ubezpieczeń lub zakładem reasekuracji;
-- **33a)** profilowanie – profilowanie osób fizycznych w rozumieniu art. 4 pkt 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2016/679”;
-- **34)** prognoza rozkładu prawdopodobieństwa – funkcję matematyczną, która zbiorowi możliwych przyszłych zdarzeń wzajemnie wykluczających się przyporządkowuje prawdopodobieństwo ich wystąpienia;
-- **35)** przyjmujące państwo członkowskie Unii Europejskiej – państwo członkowskie Unii Europejskiej, w którym zakład ubezpieczeń lub zakład reasekuracji ma oddział lub świadczy usługi, inne niż państwo członkowskie Unii Europejskiej, w którym ten zakład ma siedzibę, przy czym państwem członkowskim Unii Europejskiej, w którym zakład ubezpieczeń lub zakład reasekuracji świadczy usługi, jest państwo członkowskie Unii Europejskiej umiejscowienia ryzyka, jeżeli ryzyko pokrywa zakład ubezpieczeń lub oddział położony w innym państwie członkowskim Unii Europejskiej;
-- **36)** reprezentant do spraw roszczeń – pełnomocnika zakładu ubezpieczeń wykonującego na terytorium Rzeczypospolitej Polskiej lub innego państwa członkowskiego Unii Europejskiej działalność w zakresie ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych, z wyjątkiem odpowiedzialności cywilnej przewoźnika, umocowanego w państwie członkowskim Unii Europejskiej innym niż państwo członkowskie Unii Europejskiej, w którym ten zakład ma siedzibę, zgodnie z prawem państwa, w którym jest ustanowiony, do reprezentowania zakładu ubezpieczeń oraz rozpatrywania i zaspokajania roszczeń w imieniu i na rachunek reprezentowanego zakładu ubezpieczeń;
+- **30)** podmiot posiadający udziały kapitałowe w innym podmiocie podmiot, który jest jednostką dominującą albo podmiot niebędący jednostką dominującą, posiadający udział kapitałowy w innym podmiocie;
+- **31)** podmiot powiązany podmiot, który jest jednostką zależną albo podmiot niebędący jednostką zależną, w którym inny podmiot posiada udział kapitałowy;
+- **32)** podmiot regulowany podmiot regulowany w rozumieniu ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego;
+- **33)** powiązanie przez kontrolę związek między jednostką dominującą a jednostką zależną lub podobny związek między jakimkolwiek podmiotem a zakładem ubezpieczeń lub zakładem reasekuracji;
+- **33a)** profilowanie profilowanie osób fizycznych w rozumieniu art. 4 pkt 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2016/679”;
+- **34)** prognoza rozkładu prawdopodobieństwa funkcję matematyczną, która zbiorowi możliwych przyszłych zdarzeń wzajemnie wykluczających się przyporządkowuje prawdopodobieństwo ich wystąpienia;
+- **35)** przyjmujące państwo członkowskie Unii Europejskiej państwo członkowskie Unii Europejskiej, w którym zakład ubezpieczeń lub zakład reasekuracji ma oddział lub świadczy usługi, inne niż państwo członkowskie Unii Europejskiej, w którym ten zakład ma siedzibę, przy czym państwem członkowskim Unii Europejskiej, w którym zakład ubezpieczeń lub zakład reasekuracji świadczy usługi, jest państwo członkowskie Unii Europejskiej umiejscowienia ryzyka, jeżeli ryzyko pokrywa zakład ubezpieczeń lub oddział położony w innym państwie członkowskim Unii Europejskiej;
+- **36)** reprezentant do spraw roszczeń pełnomocnika zakładu ubezpieczeń wykonującego na terytorium Rzeczypospolitej Polskiej lub innego państwa członkowskiego Unii Europejskiej działalność w zakresie ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych, z wyjątkiem odpowiedzialności cywilnej przewoźnika, umocowanego w państwie członkowskim Unii Europejskiej innym niż państwo członkowskie Unii Europejskiej, w którym ten zakład ma siedzibę, zgodnie z prawem państwa, w którym jest ustanowiony, do reprezentowania zakładu ubezpieczeń oraz rozpatrywania i zaspokajania roszczeń w imieniu i na rachunek reprezentowanego zakładu ubezpieczeń;
 - **37)** rodzaje reasekuracji:
     - **a)** reasekurację ubezpieczeń na życie, o których mowa w dziale I załącznika do ustawy,
     - **b)** reasekurację pozostałych ubezpieczeń osobowych oraz ubezpieczeń majątkowych, o których mowa w dziale II załącznika do ustawy;
 
-- **38)** ryzyko koncentracji – ekspozycje na ryzyko, w przypadku których wysokość potencjalnej straty może zagrażać wypłacalności lub sytuacji finansowej zakładu ubezpieczeń lub zakładu reasekuracji;
-- **39)** ryzyko kredytowe – możliwość poniesienia straty lub niekorzystnej zmiany sytuacji finansowej wynikającą z wahań zdolności kredytowej emitentów papierów wartościowych, kontrahentów i dłużników, na które narażone są zakłady ubezpieczeń i zakłady reasekuracji, w postaci ryzyka niewykonania zobowiązania przez kontrahenta, ryzyka spreadu lub ryzyka koncentracji aktywów;
-- **40)** ryzyko operacyjne – możliwość poniesienia straty wynikającą z niewłaściwych lub błędnych procesów wewnętrznych, z działań personelu lub systemów lub ze zdarzeń zewnętrznych;
-- **41)** ryzyko płynności – możliwość niezrealizowania przez zakład ubezpieczeń lub zakład reasekuracji lokat i innych aktywów w celu uregulowania swoich zobowiązań finansowych w momencie, gdy stają się one wymagalne;
-- **42)** ryzyko rynkowe – możliwość poniesienia straty lub niekorzystnej zmiany sytuacji finansowej wynikającą bezpośrednio lub pośrednio z wahań poziomu i wahań zmienności rynkowych cen aktywów, zobowiązań i instrumentów finansowych;
-- **43)** ryzyko aktuarialne – możliwość poniesienia straty lub niekorzystnej zmiany wartości zobowiązań, jakie mogą wyniknąć z zawartych umów ubezpieczenia i umów gwarancji ubezpieczeniowych, w związku z niewłaściwymi założeniami dotyczącymi wyceny składek i tworzenia rezerw techniczno-ubezpieczeniowych;
-- **44)** spółka celowa – podmiot niebędący zakładem ubezpieczeń ani zakładem reasekuracji, który przejmuje ryzyka od zakładu ubezpieczeń lub zakładu reasekuracji oraz w pełni finansuje ekspozycję z tytułu takich ryzyk z wpływów z emisji dłużnych papierów wartościowych lub innego mechanizmu finansowania, w którym prawa spłaty dostawców finansowania dłużnego lub innego mechanizmu finansowania są podporządkowane zobowiązaniom reasekuracyjnym tego podmiotu;
-- **45)** spółka publiczna – spółkę publiczną w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2025 r. poz. 592);
-- **46)** system zarządzania – system obejmujący funkcję zarządzania ryzykiem, funkcję zgodności z przepisami, funkcję audytu wewnętrznego i funkcję aktuarialną, który zapewnia prawidłowe i ostrożne zarządzanie zakładem ubezpieczeń lub zakładem reasekuracji;
-- **47)** techniki przenoszenia ryzyka – techniki, które umożliwiają zakładom ubezpieczeń lub zakładom reasekuracji przeniesienie na inny podmiot części lub wszystkich ponoszonych ryzyk;
-- **48)** transakcja wewnątrz grupy – transakcję przeprowadzoną przez zakład ubezpieczeń lub zakład reasekuracji, której stronami są bezpośrednio lub pośrednio inne podmioty wchodzące w skład tej samej grupy lub osoba fizyczna lub prawna mająca bliskie powiązania z podmiotami wchodzącymi w skład grupy, której celem jest realizacja zobowiązania, bez względu na to, czy transakcja ma charakter umowny, oraz bez względu na to, czy transakcja ma charakter odpłatny;
-- **49)** trwały nośnik – trwały nośnik w rozumieniu ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2024 r. poz. 1796 oraz z 2025 r. poz. 1172);
-- **50)** ubezpieczeniowy fundusz kapitałowy – w ubezpieczeniu, o którym mowa w dziale I w grupie 3 załącznika do ustawy, wydzielony fundusz aktywów stanowiący rezerwę tworzoną ze składek ubezpieczeniowych, inwestowany w sposób określony w umowie ubezpieczenia;
-- **51)** udział kapitałowy – posiadanie, bezpośrednio lub w wyniku powiązania przez kontrolę, co najmniej 20 % praw głosu lub kapitału zakładowego innego podmiotu;
-- **52)** uprawniony z umowy ubezpieczenia – uprawnionego do żądania spełnienia przez zakład ubezpieczeń świadczenia z tytułu umowy ubezpieczenia; za uprawnionego z umowy ubezpieczenia uważa się również poszkodowanego w przypadku ubezpieczeń odpowiedzialności cywilnej;
-- **53)** Urząd – Urząd Komisji Nadzoru Finansowego;
+- **38)** ryzyko koncentracji ekspozycje na ryzyko, w przypadku których wysokość potencjalnej straty może zagrażać wypłacalności lub sytuacji finansowej zakładu ubezpieczeń lub zakładu reasekuracji;
+- **39)** ryzyko kredytowe możliwość poniesienia straty lub niekorzystnej zmiany sytuacji finansowej wynikającą z wahań zdolności kredytowej emitentów papierów wartościowych, kontrahentów i dłużników, na które narażone są zakłady ubezpieczeń i zakłady reasekuracji, w postaci ryzyka niewykonania zobowiązania przez kontrahenta, ryzyka spreadu lub ryzyka koncentracji aktywów;
+- **40)** ryzyko operacyjne możliwość poniesienia straty wynikającą z niewłaściwych lub błędnych procesów wewnętrznych, z działań personelu lub systemów lub ze zdarzeń zewnętrznych;
+- **41)** ryzyko płynności możliwość niezrealizowania przez zakład ubezpieczeń lub zakład reasekuracji lokat i innych aktywów w celu uregulowania swoich zobowiązań finansowych w momencie, gdy stają się one wymagalne;
+- **42)** ryzyko rynkowe możliwość poniesienia straty lub niekorzystnej zmiany sytuacji finansowej wynikającą bezpośrednio lub pośrednio z wahań poziomu i wahań zmienności rynkowych cen aktywów, zobowiązań i instrumentów finansowych;
+- **43)** ryzyko aktuarialne możliwość poniesienia straty lub niekorzystnej zmiany wartości zobowiązań, jakie mogą wyniknąć z zawartych umów ubezpieczenia i umów gwarancji ubezpieczeniowych, w związku z niewłaściwymi założeniami dotyczącymi wyceny składek i tworzenia rezerw techniczno-ubezpieczeniowych;
+- **44)** spółka celowa podmiot niebędący zakładem ubezpieczeń ani zakładem reasekuracji, który przejmuje ryzyka od zakładu ubezpieczeń lub zakładu reasekuracji oraz w pełni finansuje ekspozycję z tytułu takich ryzyk z wpływów z emisji dłużnych papierów wartościowych lub innego mechanizmu finansowania, w którym prawa spłaty dostawców finansowania dłużnego lub innego mechanizmu finansowania są podporządkowane zobowiązaniom reasekuracyjnym tego podmiotu;
+- **45)** spółka publiczna spółkę publiczną w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2025 r. poz. 592);
+- **46)** system zarządzania system obejmujący funkcję zarządzania ryzykiem, funkcję zgodności z przepisami, funkcję audytu wewnętrznego i funkcję aktuarialną, który zapewnia prawidłowe i ostrożne zarządzanie zakładem ubezpieczeń lub zakładem reasekuracji;
+- **47)** techniki przenoszenia ryzyka techniki, które umożliwiają zakładom ubezpieczeń lub zakładom reasekuracji przeniesienie na inny podmiot części lub wszystkich ponoszonych ryzyk;
+- **48)** transakcja wewnątrz grupy transakcję przeprowadzoną przez zakład ubezpieczeń lub zakład reasekuracji, której stronami są bezpośrednio lub pośrednio inne podmioty wchodzące w skład tej samej grupy lub osoba fizyczna lub prawna mająca bliskie powiązania z podmiotami wchodzącymi w skład grupy, której celem jest realizacja zobowiązania, bez względu na to, czy transakcja ma charakter umowny, oraz bez względu na to, czy transakcja ma charakter odpłatny;
+- **49)** trwały nośnik trwały nośnik w rozumieniu ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2024 r. poz. 1796 oraz z 2025 r. poz. 1172);
+- **50)** ubezpieczeniowy fundusz kapitałowy w ubezpieczeniu, o którym mowa w dziale I w grupie 3 załącznika do ustawy, wydzielony fundusz aktywów stanowiący rezerwę tworzoną ze składek ubezpieczeniowych, inwestowany w sposób określony w umowie ubezpieczenia;
+- **51)** udział kapitałowy posiadanie, bezpośrednio lub w wyniku powiązania przez kontrolę, co najmniej 20 % praw głosu lub kapitału zakładowego innego podmiotu;
+- **52)** uprawniony z umowy ubezpieczenia uprawnionego do żądania spełnienia przez zakład ubezpieczeń świadczenia z tytułu umowy ubezpieczenia; za uprawnionego z umowy ubezpieczenia uważa się również poszkodowanego w przypadku ubezpieczeń odpowiedzialności cywilnej;
+- **53)** Urząd Urząd Komisji Nadzoru Finansowego;
 - **53a)** wewnętrzny zakład ubezpieczeń ‒ zakład ubezpieczeń, którego akcjonariuszem lub udziałowcem jest:
     - **a)** podmiot finansowy niebędący zakładem ubezpieczeń albo zakładem reasekuracji albo niewchodzący w skład grupy, w skład której wchodzą zakłady ubezpieczeń lub zakłady reasekuracji, albo
     - **b)** podmiot niebędący podmiotem finansowym ‒ którego celem jest ubezpieczanie wyłącznie ryzyk podmiotu lub podmiotów będących jego akcjonariuszami lub udziałowcami lub podmiotów grupy, w skład której wchodzi;
@@ -164,13 +243,13 @@ Art. 441–479. (pominięte)
     - **a)** podmiot finansowy niebędący zakładem ubezpieczeń albo zakładem reasekuracji albo niewchodzący w skład grupy, w skład której wchodzą zakłady ubezpieczeń lub zakłady reasekuracji, albo
     - **b)** podmiot niebędący podmiotem finansowym ‒ którego celem jest przyjmowanie do reasekuracji wyłącznie ryzyka podmiotu lub podmiotów będących jego akcjonariuszami lub udziałowcami lub podmiotów grupy, w skład której wchodzi;
 
-- **54)** zagraniczny ubezpieczeniowy fundusz gwarancyjny – podmiot, którego siedziba znajduje się poza terytorium Rzeczypospolitej Polskiej, gwarantujący zaspokojenie roszczeń z tytułu obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych w przypadku niespełnienia obowiązku ubezpieczenia lub nieustalenia sprawcy szkody;
-- **55)** zagraniczny zakład ubezpieczeń – przedsiębiorcę zagranicznego w rozumieniu ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej wykonującego działalność ubezpieczeniową;
-- **56)** zagraniczny zakład reasekuracji – przedsiębiorcę zagranicznego w rozumieniu ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej wykonującego działalność reasekuracyjną;
-- **57)** zdarzenie losowe – niezależne od woli ubezpieczającego lub ubezpieczonego zdarzenie przyszłe i niepewne, którego wystąpienie powoduje uszczerbek w dobrach osobistych lub w dobrach majątkowych albo zwiększenie potrzeb majątkowych po stronie ubezpieczającego lub innej osoby objętej ochroną ubezpieczeniową;
-- **58)** zewnętrzna instytucja oceny wiarygodności kredytowej – agencję ratingową zarejestrowaną lub certyfikowaną zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 1060/2009 z dnia 16 września 2009 r. w sprawie agencji ratingowych (Dz. Urz. UE L 302 z 17.11.2009, 1) lub bank centralny sporządzający ratingi kredytowe wyłączone z zakresu stosowania tego rozporządzenia.
+- **54)** zagraniczny ubezpieczeniowy fundusz gwarancyjny podmiot, którego siedziba znajduje się poza terytorium Rzeczypospolitej Polskiej, gwarantujący zaspokojenie roszczeń z tytułu obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych w przypadku niespełnienia obowiązku ubezpieczenia lub nieustalenia sprawcy szkody;
+- **55)** zagraniczny zakład ubezpieczeń przedsiębiorcę zagranicznego w rozumieniu ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej wykonującego działalność ubezpieczeniową;
+- **56)** zagraniczny zakład reasekuracji przedsiębiorcę zagranicznego w rozumieniu ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej wykonującego działalność reasekuracyjną;
+- **57)** zdarzenie losowe niezależne od woli ubezpieczającego lub ubezpieczonego zdarzenie przyszłe i niepewne, którego wystąpienie powoduje uszczerbek w dobrach osobistych lub w dobrach majątkowych albo zwiększenie potrzeb majątkowych po stronie ubezpieczającego lub innej osoby objętej ochroną ubezpieczeniową;
+- **58)** zewnętrzna instytucja oceny wiarygodności kredytowej agencję ratingową zarejestrowaną lub certyfikowaną zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 1060/2009 z dnia 16 września 2009 r. w sprawie agencji ratingowych (Dz. Urz. UE L 302 z 17.11.2009, s. 1) lub bank centralny sporządzający ratingi kredytowe wyłączone z zakresu stosowania tego rozporządzenia.
 
-2. Ilekroć w ustawie jest mowa o państwach członkowskich Unii Europejskiej, należy przez to rozumieć także państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym.
+2. Ilekroć w ustawie jest mowa o państwach członkowskich Unii Europejskiej, należy przez to rozumieć także państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym.
 
 3. W przypadku, o którym mowa w ust. 1 pkt 6 lit. c, jeżeli ubezpieczający wchodzi w skład grupy kapitałowej, dla której przygotowywane jest skonsolidowane sprawozdanie finansowe w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości, oceny, czy progi, o których mowa w tym przepisie, są przekroczone, dokonuje się na podstawie skonsolidowanego sprawozdania finansowego.
 
@@ -244,7 +323,7 @@ Art. 441–479. (pominięte)
 
 **Art. 6.**
 
-1. Zakład ubezpieczeń może wykonywać działalność ubezpieczeniową wyłącznie w formie spółki akcyjnej, towarzystwa ubezpieczeń wzajemnych albo spółki europejskiej określonej w rozporządzeniu Rady (WE) nr 2157/2001 z dnia 8 października 2001 r. w sprawie statutu spółki europejskiej (SE) (Dz. Urz. WE L 294 z 10.11.2001, 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 6, t. 4, 251).
+1. Zakład ubezpieczeń może wykonywać działalność ubezpieczeniową wyłącznie w formie spółki akcyjnej, towarzystwa ubezpieczeń wzajemnych albo spółki europejskiej określonej w rozporządzeniu Rady (WE) nr 2157/2001 z dnia 8 października 2001 r. w sprawie statutu spółki europejskiej (SE) (Dz. Urz. WE L 294 z 10.11.2001, s. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 6, t. 4, s. 251).
 
 2. Zakład reasekuracji może wykonywać działalność reasekuracyjną wyłącznie w formie spółki akcyjnej, towarzystwa reasekuracji wzajemnej albo spółki europejskiej określonej w rozporządzeniu Rady (WE) nr 2157/2001 z dnia 8 października 2001 r. w sprawie statutu spółki europejskiej (SE).
 
@@ -290,11 +369,11 @@ Art. 441–479. (pominięte)
 
 1. Krajowy zakład ubezpieczeń i zagraniczny zakład ubezpieczeń wykonujące działalność ubezpieczeniową w zakresie ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych za szkody powstałe w związku z ruchem tych pojazdów stają się członkami:
 
-- **1)** Ubezpieczeniowego Funduszu Gwarancyjnego – z dniem zawarcia pierwszej umowy w tej grupie ubezpieczenia, oraz
+- **1)** Ubezpieczeniowego Funduszu Gwarancyjnego z dniem zawarcia pierwszej umowy w tej grupie ubezpieczenia, oraz
 - **2)** Polskiego Biura Ubezpieczycieli Komunikacyjnych:
-    - **a)** z dniem uzyskania zezwolenia na wykonywanie działalności ubezpieczeniowej – w przypadku krajowego zakładu ubezpieczeń,
-    - **b)** z dniem złożenia deklaracji członkowskiej – w przypadku zagranicznego zakładu ubezpieczeń mającego siedzibę w państwie członkowskim Unii Europejskiej,
-    - **c)** z dniem uzyskania zezwolenia na wykonywanie działalności ubezpieczeniowej na terytorium Rzeczypospolitej Polskiej przez główny oddział – w przypadku zagranicznego zakładu ubezpieczeń mającego siedzibę w państwie niebędącym państwem członkowskim Unii Europejskiej.
+    - **a)** z dniem uzyskania zezwolenia na wykonywanie działalności ubezpieczeniowej w przypadku krajowego zakładu ubezpieczeń,
+    - **b)** z dniem złożenia deklaracji członkowskiej w przypadku zagranicznego zakładu ubezpieczeń mającego siedzibę w państwie członkowskim Unii Europejskiej,
+    - **c)** z dniem uzyskania zezwolenia na wykonywanie działalności ubezpieczeniowej na terytorium Rzeczypospolitej Polskiej przez główny oddział w przypadku zagranicznego zakładu ubezpieczeń mającego siedzibę w państwie niebędącym państwem członkowskim Unii Europejskiej.
 
 2. Krajowy zakład ubezpieczeń i zagraniczny zakład ubezpieczeń wykonujące działalność ubezpieczeniową na terytorium Rzeczypospolitej Polskiej w zakresie ubezpieczenia odpowiedzialności cywilnej rolników z tytułu posiadania gospodarstwa rolnego stają się członkami Ubezpieczeniowego Funduszu Gwarancyjnego z dniem zawarcia pierwszej umowy tego rodzaju ubezpieczenia.
 
@@ -332,6 +411,18 @@ Art. 441–479. (pominięte)
 5. Postanowienia umowy ubezpieczenia, ogólnych warunków ubezpieczenia oraz innych wzorców umowy sformułowane niejednoznacznie interpretuje się na korzyść ubezpieczającego, ubezpieczonego lub uprawnionego z umowy ubezpieczenia.
 
 **Art. 16.** Ogólne warunki ubezpieczenia określają w szczególności:
+
+- **1)** rodzaj ubezpieczenia i jego przedmiot;
+- **2)** warunki zmiany sumy ubezpieczenia lub sumy gwarancyjnej, jeżeli ogólne warunki ubezpieczenia taką zmianę przewidują;
+- **3)** prawa i obowiązki stron umowy ubezpieczenia;
+- **4)** zakres odpowiedzialności zakładu ubezpieczeń;
+- **5)** sposób ustalania rozmiaru szkody przy ubezpieczeniach majątkowych;
+- **6)** sposób określania sumy odszkodowania lub innego świadczenia, jeżeli ogólne warunki ubezpieczenia przewidują odstępstwa od zasad przewidzianych w przepisach prawa;
+- **7)** sposób ustalania i opłacania składki ubezpieczeniowej;
+- **8)** metodę i sposób indeksacji składek ubezpieczeniowych, jeżeli ogólne warunki ubezpieczenia przewidują indeksację składek;
+- **9)** tryb i warunki dokonania zmiany umowy ubezpieczenia zawartej na czas nieokreślony;
+- **10)** przesłanki, sposób oraz termin wypowiedzenia umowy ubezpieczenia, jeżeli ogólne warunki ubezpieczenia przewidują taką możliwość, a także przesłanki, sposób oraz termin wystąpienia z umowy ubezpieczenia grupowego;
+- **11)** termin i sposób odstąpienia od umowy ubezpieczenia.
 
 **Art. 17.**
 
@@ -413,7 +504,7 @@ Art. 441–479. (pominięte)
 - **1)** ubezpieczający lub ubezpieczony wyraził zgodę na otrzymanie tych informacji niezwłocznie po zawarciu umowy lub wyrażeniu zgody na objęcie ochroną ubezpieczeniową oraz
 - **2)** zakład ubezpieczeń umożliwił ubezpieczającemu lub ubezpieczonemu późniejsze zawarcie umowy lub wyrażenie zgody na objęcie ochroną ubezpieczeniową, aby mógł on otrzymać te informacje przed takim zawarciem umowy lub wyrażeniem takiej zgody.
 
-5c. W przypadku, o którym mowa w ust. 5b, ubezpieczający lub ubezpieczony może odstąpić od umowy ubezpieczenia bez podania przyczyn, a jeżeli umowa ubezpieczenia została zawarta na cudzy rachunek – ubezpieczony może wystąpić z umowy ubezpieczenia ze skutkiem odstąpienia od tej umowy bez podania przyczyn, składając oświadczenie na piśmie, w terminie 30 dni od dnia potwierdzenia otrzymania informacji, o których mowa w ust. 3‒5. Termin uważa się za zachowany, jeżeli przed jego upływem oświadczenie zostało wysłane. Ubezpieczający lub ubezpieczony nie ponosi kosztów związanych z odstąpieniem od umowy ubezpieczenia.
+5c. W przypadku, o którym mowa w ust. 5b, ubezpieczający lub ubezpieczony może odstąpić od umowy ubezpieczenia bez podania przyczyn, a jeżeli umowa ubezpieczenia została zawarta na cudzy rachunek ubezpieczony może wystąpić z umowy ubezpieczenia ze skutkiem odstąpienia od tej umowy bez podania przyczyn, składając oświadczenie na piśmie, w terminie 30 dni od dnia potwierdzenia otrzymania informacji, o których mowa w ust. 3‒5. Termin uważa się za zachowany, jeżeli przed jego upływem oświadczenie zostało wysłane. Ubezpieczający lub ubezpieczony nie ponosi kosztów związanych z odstąpieniem od umowy ubezpieczenia.
 
 6. W przypadku odmowy wypełnienia przez ubezpieczającego lub ubezpieczonego ankiety, o której mowa w ust. 1 lub 2, przepisów ust. 3 i 5 nie stosuje się.
 
@@ -506,6 +597,10 @@ Art. 441–479. (pominięte)
 
 **Art. 25.** Zakład ubezpieczeń przed zawarciem umowy ubezpieczenia informuje ubezpieczającego będącego osobą fizyczną o:
 
+- **1)** prawie właściwym dla umowy gdy strony nie mają swobody wyboru prawa;
+- **2)** prawie właściwym, którego wybór proponuje zakład ubezpieczeń gdy strony mają swobodę wyboru prawa;
+- **3)** sposobie i trybie rozpatrywania skarg i zażaleń zgłaszanych przez ubezpieczającego lub uprawnionego z umowy ubezpieczenia, a także organu właściwego do ich rozpatrzenia.
+
 **Art. 26.**
 
 1. Ubezpieczający może odstąpić od umowy ubezpieczenia na życie, o której mowa w dziale I w grupie 3 załącznika do ustawy, oraz umowy ubezpieczenia na życie lub dożycie, w której świadczenie zakładu ubezpieczeń z tytułu dożycia jest równe składce ubezpieczeniowej powiększonej o określony w umowie ubezpieczenia wskaźnik, w terminie 60 dni od dnia otrzymania po raz pierwszy rocznej informacji, o której mowa w art. 20 ust. 3.
@@ -580,7 +675,7 @@ Art. 441–479. (pominięte)
 
 - **1)** udostępniania informacji i dokumentów, o których mowa w ust. 6,
 - **2)** zapewniania możliwości pisemnego potwierdzania udostępnianych zgodnie z ust. 6 informacji,
-- **3)** zapewniania możliwości sporządzania kserokopii dokumentów i potwierdzania ich zgodności z oryginałem zgodnie z ust. 6 – nie może wiązać się z nadmiernymi utrudnieniami dla osób, o których mowa w ust. 6.
+- **3)** zapewniania możliwości sporządzania kserokopii dokumentów i potwierdzania ich zgodności z oryginałem zgodnie z ust. 6 nie może wiązać się z nadmiernymi utrudnieniami dla osób, o których mowa w ust. 6.
 
 9. Koszty sporządzenia kserokopii oraz udostępniania informacji i dokumentów w postaci elektronicznej, ponoszone przez osoby, o których mowa w ust. 6, nie mogą odbiegać od przyjętych w obrocie zwykłych kosztów wykonywania tego rodzaju usług.
 
@@ -636,13 +731,11 @@ Art. 441–479. (pominięte)
 2. Obowiązek zachowania tajemnicy, o którym mowa w ust. 1, nie dotyczy informacji udzielanych na wniosek:
 
 - **1)** sądu lub prokuratury, o ile są niezbędne w toczącym się postępowaniu;
-- **2)** Policji, o ile są niezbędne w toczącym się postępowaniu lub na potrzeby wykonywania czynności operacyjno-rozpoznawczych, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636 i
-- **718)** ;
+- **2)** Policji, o ile są niezbędne w toczącym się postępowaniu lub na potrzeby wykonywania czynności operacyjno-rozpoznawczych, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636 i 718);
 - **2a)** Inspektora Nadzoru Wewnętrznego, o ile są niezbędne na potrzeby wykonywania czynności operacyjno-rozpoznawczych, na zasadach i w trybie określonych w art. 11p ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. z 2025 r. poz. 529);
 - **2b)** (uchylony) 2c) Straży Granicznej, o ile są niezbędne w toczącym się postępowaniu lub na potrzeby wykonywania czynności operacyjno-rozpoznawczych, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 10c ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2025 r. poz. 914);
 - **2d)** Centralnego Biura Antykorupcyjnego, o ile są niezbędne w toczącym się postępowaniu lub na potrzeby wykonywania czynności operacyjno-rozpoznawczych, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, oraz w celu kontroli prawdziwości oświadczeń albo deklaracji dotyczących konfliktu interesów, podlegających weryfikacji Centralnego Biura Antykorupcyjnego na podstawie przepisów odrębnych, na zasadach i w trybie określonym w art. 23 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2025 r. poz. 712 i 718);
-- **3)** Agencji Bezpieczeństwa Wewnętrznego, o ile są niezbędne w toczącym się postępowaniu lub na potrzeby wykonywania czynności operacyjno-rozpoznawczych, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach określonych w art. 34a ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2025 r. poz.
-- **902)** ;
+- **3)** Agencji Bezpieczeństwa Wewnętrznego, o ile są niezbędne w toczącym się postępowaniu lub na potrzeby wykonywania czynności operacyjno-rozpoznawczych, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach określonych w art. 34a ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2025 r. poz. 902);
 - **3a)** Żandarmerii Wojskowej, o ile są niezbędne w toczącym się postępowaniu lub na potrzeby wykonywania czynności operacyjno-rozpoznawczych, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 40b ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2025 r. poz. 12 i 179);
 - **4)** komornika sądowego, w związku z toczącym się postępowaniem egzekucyjnym lub zabezpieczającym albo wykonywaniem postanowienia o zabezpieczeniu spadku lub ze sporządzaniem spisu inwentarza;
 - **5)** administracyjnego organu egzekucyjnego oraz centralnego biura łącznikowego, o którym mowa w art. 9 ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. z 2023 r. poz. 2009), w zakresie wykonywania ich ustawowych zadań;
@@ -667,14 +760,14 @@ Art. 441–479. (pominięte)
 - **24)** innego zakładu ubezpieczeń, w zakresie stosowania taryfy w zależności od długości okresu bezszkodowego lub ustalania proporcjonalnej odpowiedzialności, w przypadku zawarcia umów ubezpieczenia obowiązkowego na ten sam okres w co najmniej dwóch zakładach ubezpieczeń, lub na potrzeby ustalenia odpowiedzialności, jeżeli ten sam przedmiot ubezpieczenia w tym samym czasie jest ubezpieczony od tego samego ryzyka w dwóch lub więcej zakładach ubezpieczeń na sumy, które łącznie przewyższają jego wartość ubezpieczeniową;
 - **25)** podmiotu przetwarzającego na zlecenie zakładu ubezpieczeń dane dotyczące ubezpieczających, ubezpieczonych lub uprawnionych z umów ubezpieczenia oraz administrujących indywidualnymi kontami jednostek uczestnictwa w ubezpieczeniowym funduszu kapitałowym;
 - **26)** zleceniobiorców czynności ubezpieczeniowych i reasekuracyjnych oraz funkcji należących do systemu zarządzania powierzanych w drodze outsourcingu, w zakresie, w jakim dotyczą one zleconych czynności i funkcji;
-- **26a)** innego zakładu ubezpieczeń, zakładu reasekuracji, dominującego podmiotu ubezpieczeniowego, dominującego podmiotu nieregulowanego lub mieszanego dominującego podmiotu ubezpieczeniowego – w zakresie niezbędnym do wykonywania obowiązujących te podmioty przepisów dotyczących nadzoru uzupełniającego sprawowanego na podstawie ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego;
+- **26a)** innego zakładu ubezpieczeń, zakładu reasekuracji, dominującego podmiotu ubezpieczeniowego, dominującego podmiotu nieregulowanego lub mieszanego dominującego podmiotu ubezpieczeniowego w zakresie niezbędnym do wykonywania obowiązujących te podmioty przepisów dotyczących nadzoru uzupełniającego sprawowanego na podstawie ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego;
 - **27)** innego podmiotu, którego uprawnienie do żądania informacji wynika z przepisów odrębnej ustawy.
 
 2a. (uchylony)
 
 3. Przetwarzanie danych oraz wykonywanie czynności i funkcji przez podmioty, o których mowa w ust. 2 pkt 25 i 26, nie ogranicza odpowiedzialności wynikającej z obowiązku zachowania tajemnicy, o którym mowa w ust. 1.
 
-4. Obowiązek zachowania tajemnicy, o którym mowa w ust. 1, nie dotyczy danych w zakresie umów ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych za szkody powstałe w związku z ruchem tych pojazdów oraz danych w zakresie szkód istotnych w rozumieniu ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, przekazywanych do centralnej ewidencji pojazdów w rozumieniu tej ustawy.
+4. Obowiązek zachowania tajemnicy, o którym mowa w ust. 1, nie dotyczy danych w zakresie umów ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych za szkody powstałe w związku z ruchem tych pojazdów oraz danych w zakresie szkód istotnych w rozumieniu ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym, przekazywanych do centralnej ewidencji pojazdów w rozumieniu tej ustawy.
 
 5. Zakład ubezpieczeń może udostępniać dane dotyczące umów ubezpieczenia na zasadach i w trybie określonych w ustawie z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych (Dz. U. z 2025 r. poz. 85).
 
@@ -692,12 +785,12 @@ Art. 441–479. (pominięte)
 
 1. Zakład ubezpieczeń i osoby w nim zatrudnione oraz osoby, za pośrednictwem których zakład ubezpieczeń wykonuje czynności ubezpieczeniowe, zachowują w tajemnicy informację o przekazaniu danych:
 
-- **1)** Policji – na zasadach i w trybie określonych w art. 20 ust. 4–10 ustawy z dnia 6 kwietnia 1990 r. o Policji;
-- **2)** Inspektorowi Nadzoru Wewnętrznego – na zasadach i w trybie określonych w art. 11p ust. 2–10 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych;
-- **3)** Straży Granicznej – na zasadach i w trybie określonych w art. 10c ust. 3–9 ustawy z dnia 12 października 1990 r. o Straży Granicznej;
-- **4)** Centralnemu Biuru Antykorupcyjnemu – na zasadach i w trybie określonych w art. 23 ust. 3–9 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym;
-- **5)** Agencji Bezpieczeństwa Wewnętrznego – na zasadach i w trybie określonych w art. 34a ust. 3–9 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu;
-- **6)** Żandarmerii Wojskowej – na zasadach i w trybie określonych w art. 40b ust. 2–6 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych.
+- **1)** Policji na zasadach i w trybie określonych w art. 20 ust. 4–10 ustawy z dnia 6 kwietnia 1990 r. o Policji;
+- **2)** Inspektorowi Nadzoru Wewnętrznego na zasadach i w trybie określonych w art. 11p ust. 2–10 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych;
+- **3)** Straży Granicznej na zasadach i w trybie określonych w art. 10c ust. 3–9 ustawy z dnia 12 października 1990 r. o Straży Granicznej;
+- **4)** Centralnemu Biuru Antykorupcyjnemu na zasadach i w trybie określonych w art. 23 ust. 3–9 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym;
+- **5)** Agencji Bezpieczeństwa Wewnętrznego na zasadach i w trybie określonych w art. 34a ust. 3–9 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu;
+- **6)** Żandarmerii Wojskowej na zasadach i w trybie określonych w art. 40b ust. 2–6 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych.
 
 2. Zachowanie tajemnicy, o której mowa w ust. 1, obowiązuje wobec strony umowy ubezpieczenia oraz osób trzecich.
 
@@ -756,8 +849,8 @@ Art. 441–479. (pominięte)
 
 1a. Zakład ubezpieczeń może podejmować decyzje w indywidualnych przypadkach, opierając się wyłącznie o zautomatyzowane przetwarzanie, w tym profilowanie, danych osobowych w celu:
 
-- **1)** dokonania oceny ryzyka ubezpieczeniowego – w przypadku danych osobowych dotyczących ubezpieczonych,
-- **2)** wykonania czynności ubezpieczeniowych, o których mowa w art. 4 ust. 9 pkt 1 i 2 – w przypadku danych osobowych dotyczących ubezpieczonych, ubezpieczających i uprawnionych z umowy ubezpieczenia – pod warunkiem zapewnienia osobie, której dotyczy zautomatyzowana decyzja, prawa do otrzymania stosownych wyjaśnień co do podstaw podjętej decyzji, zakwestionowania tej decyzji, wyrażenia własnego stanowiska oraz do uzyskania interwencji ludzkiej.
+- **1)** dokonania oceny ryzyka ubezpieczeniowego w przypadku danych osobowych dotyczących ubezpieczonych,
+- **2)** wykonania czynności ubezpieczeniowych, o których mowa w art. 4 ust. 9 pkt 1 i 2 w przypadku danych osobowych dotyczących ubezpieczonych, ubezpieczających i uprawnionych z umowy ubezpieczenia pod warunkiem zapewnienia osobie, której dotyczy zautomatyzowana decyzja, prawa do otrzymania stosownych wyjaśnień co do podstaw podjętej decyzji, zakwestionowania tej decyzji, wyrażenia własnego stanowiska oraz do uzyskania interwencji ludzkiej.
 
 1b. Decyzje, o których mowa w ust. 1a, mogą być podejmowane wyłącznie w oparciu o następujące kategorie danych dotyczących osoby fizycznej:
 
@@ -874,7 +967,7 @@ Art. 441–479. (pominięte)
 
 **Art. 48.**
 
-1. Członkiem zarządu zakładu ubezpieczeń, członkiem zarządu zakładu reasekuracji, a w przypadku zakładu wykonującego działalność ubezpieczeniową lub reasekuracyjną w formie spółki europejskiej, w której przyjęto system monistyczny – członkiem rady administrującej, z zastrzeżeniem art. 50 ust. 4–7, może być osoba, która spełnia łącznie następujące wymagania:
+1. Członkiem zarządu zakładu ubezpieczeń, członkiem zarządu zakładu reasekuracji, a w przypadku zakładu wykonującego działalność ubezpieczeniową lub reasekuracyjną w formie spółki europejskiej, w której przyjęto system monistyczny członkiem rady administrującej, z zastrzeżeniem art. 50 ust. 4–7, może być osoba, która spełnia łącznie następujące wymagania:
 
 - **1)** posiada pełną zdolność do czynności prawnych;
 - **2)** posiada wyższe wykształcenie uzyskane w Rzeczypospolitej Polskiej lub uzyskane w innym państwie wykształcenie będące wykształceniem wyższym w rozumieniu właściwych przepisów tego państwa;
@@ -894,7 +987,7 @@ Art. 441–479. (pominięte)
 
 **Art. 49.**
 
-1. Zakład ubezpieczeń i zakład reasekuracji informują organ nadzoru o powołaniu lub odwołaniu członka zarządu lub członka rady nadzorczej, a w przypadku zakładu wykonującego działalność ubezpieczeniową lub reasekuracyjną w formie spółki europejskiej, w której przyjęto system monistyczny – członka rady administrującej, w terminie 7 dni od dnia podjęcia uchwały o powołaniu lub odwołaniu członka zarządu, członka rady nadzorczej lub członka rady administrującej, a także powzięcia informacji o innym zdarzeniu powodującym zmianę składu zarządu, rady nadzorczej lub rady administrującej.
+1. Zakład ubezpieczeń i zakład reasekuracji informują organ nadzoru o powołaniu lub odwołaniu członka zarządu lub członka rady nadzorczej, a w przypadku zakładu wykonującego działalność ubezpieczeniową lub reasekuracyjną w formie spółki europejskiej, w której przyjęto system monistyczny członka rady administrującej, w terminie 7 dni od dnia podjęcia uchwały o powołaniu lub odwołaniu członka zarządu, członka rady nadzorczej lub członka rady administrującej, a także powzięcia informacji o innym zdarzeniu powodującym zmianę składu zarządu, rady nadzorczej lub rady administrującej.
 
 1a. Zakład ubezpieczeń i zakład reasekuracji informują organ nadzoru o podziale kompetencji w zarządzie zakładu ubezpieczeń lub zakładu reasekuracji oraz o jego zmianie.
 
@@ -1015,9 +1108,15 @@ Art. 441–479. (pominięte)
 
 **Art. 60.** Zakład ubezpieczeń i zakład reasekuracji ustanawiają funkcję zarządzania ryzykiem, zorganizowaną w sposób ułatwiający wdrożenie systemu zarządzania ryzykiem.
 
-**Art. 61.** W przypadku gdy zakład ubezpieczeń i zakład reasekuracji wykorzystują zewnętrzną ocenę wiarygodności kredytowej przy ustalaniu wartości rezerw techniczno-ubezpieczeniowych dla celów wypłacalności i przy obliczaniu kapitałowego wymogu wypłacalności, w celu uniknięcia nadmiernego polegania na zewnętrznych instytucjach oceny wiarygodności kredytowej, w miarę możliwości, weryfikują odpowiedniość tych zewnętrznych ocen wiarygodności kredytowej w ramach zarządzania ryzykiem, dokonując dodatkowych ocen oraz uwzględniając wykonawcze standardy techniczne Komisji Europejskiej wydane na podstawie art. 44 ust. 4a dyrektywy 2009/138/WE Parlamentu Europejskiego i Rady z dnia 25 listopada 2009 r. w sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) (Dz. Urz. UE L 335 z 17.12.2009, 1, z późn. zm.), zwanej dalej „dyrektywą 2009/138/WE”.
+**Art. 61.** W przypadku gdy zakład ubezpieczeń i zakład reasekuracji wykorzystują zewnętrzną ocenę wiarygodności kredytowej przy ustalaniu wartości rezerw techniczno-ubezpieczeniowych dla celów wypłacalności i przy obliczaniu kapitałowego wymogu wypłacalności, w celu uniknięcia nadmiernego polegania na zewnętrznych instytucjach oceny wiarygodności kredytowej, w miarę możliwości, weryfikują odpowiedniość tych zewnętrznych ocen wiarygodności kredytowej w ramach zarządzania ryzykiem, dokonując dodatkowych ocen oraz uwzględniając wykonawcze standardy techniczne Komisji Europejskiej wydane na podstawie art. 44 ust. 4a dyrektywy 2009/138/WE Parlamentu Europejskiego i Rady z dnia 25 listopada 2009 r. w sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) (Dz. Urz. UE L 335 z 17.12.2009, s. 1, z późn. zm.), zwanej dalej „dyrektywą 2009/138/WE”.
 
 **Art. 62.** W przypadku zakładu ubezpieczeń i zakładu reasekuracji stosujących zatwierdzony przez organ nadzoru pełny albo częściowy model wewnętrzny funkcja zarządzania ryzykiem obejmuje dodatkowo następujące zadania:
+
+- **1)** opracowanie i wdrożenie modelu wewnętrznego;
+- **2)** weryfikację i walidację modelu wewnętrznego;
+- **3)** opracowanie dokumentacji modelu wewnętrznego i dokumentacji późniejszych zmian wprowadzanych w modelu wewnętrznym;
+- **4)** analizę działania modelu wewnętrznego i opracowywanie w tym zakresie raportów podsumowujących;
+- **5)** informowanie zarządu o działaniu modelu wewnętrznego, ze wskazaniem obszarów wymagających poprawy, oraz bieżące powiadamianie zarządu o działaniach podejmowanych w celu usprawnienia poprzednio stwierdzonych przypadków, w których model wewnętrzny nie działał prawidłowo.
 
 **Art. 63.**
 
@@ -1042,7 +1141,7 @@ Art. 441–479. (pominięte)
 
 7. Zakład ubezpieczeń i zakład reasekuracji przeprowadzają własną ocenę ryzyka i wypłacalności co najmniej raz w roku, a także bezzwłocznie po wystąpieniu istotnych zmian w profilu ryzyka zakładu.
 
-8. Zakład ubezpieczeń i zakład reasekuracji informują organ nadzoru o wynikach przeprowadzonej własnej oceny ryzyka i wypłacalności zgodnie z przepisami art. 304 i art. 306 rozporządzenia delegowanego Komisji (UE) 2015/35 z dnia 10 października 2014 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2009/138/WE w sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) (Dz. Urz. UE L 12 z 17.01.2015, 1), zwanego dalej „rozporządzeniem delegowanym Komisji (UE) 2015/35”.
+8. Zakład ubezpieczeń i zakład reasekuracji informują organ nadzoru o wynikach przeprowadzonej własnej oceny ryzyka i wypłacalności zgodnie z przepisami art. 304 i art. 306 rozporządzenia delegowanego Komisji (UE) 2015/35 z dnia 10 października 2014 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2009/138/WE w sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) (Dz. Urz. UE L 12 z 17.01.2015, s. 1), zwanego dalej „rozporządzeniem delegowanym Komisji (UE) 2015/35”.
 
 9. Własna ocena ryzyka i wypłacalności nie służy do obliczania kapitałowego wymogu wypłacalności i minimalnego wymogu kapitałowego.
 
@@ -1092,7 +1191,7 @@ Art. 441–479. (pominięte)
 
 1. Osobą nadzorującą funkcję aktuarialną w zakładzie ubezpieczeń i zakładzie reasekuracji może być wyłącznie aktuariusz.
 
-2. Aktuariusza nadzorującego funkcję aktuarialną powołuje i odwołuje zarząd, a jeżeli aktuariusz nadzorujący funkcję aktuarialną jest członkiem zarządu – organ właściwy w sprawie powołania lub odwołania zarządu.
+2. Aktuariusza nadzorującego funkcję aktuarialną powołuje i odwołuje zarząd, a jeżeli aktuariusz nadzorujący funkcję aktuarialną jest członkiem zarządu organ właściwy w sprawie powołania lub odwołania zarządu.
 
 3. Organ właściwy w sprawie powołania aktuariusza nadzorującego funkcję aktuarialną powołuje nowego aktuariusza nadzorującego funkcję aktuarialną nie później niż w terminie 30 dni od dnia odwołania poprzedniego aktuariusza.
 
@@ -1176,7 +1275,7 @@ Art. 441–479. (pominięte)
 
 7. Obsługę Komisji zapewnia Urząd.
 
-8. W przypadku uznania przez Komisję studiów wyższych, o którym mowa w ust. 5 pkt 4, Przewodniczący Komisji Nadzoru Finansowego zawiera z uczelnią umowę, o której mowa w art. 61 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ).
+8. W przypadku uznania przez Komisję studiów wyższych, o którym mowa w ust. 5 pkt 4, Przewodniczący Komisji Nadzoru Finansowego zawiera z uczelnią umowę, o której mowa w art. 61 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ).
 
 **Art. 71.**
 
@@ -1204,7 +1303,7 @@ Art. 441–479. (pominięte)
 - **2)** sposób i tryb przeprowadzania egzaminu aktuarialnego,
 - **3)** sposób kontroli przeprowadzenia egzaminu aktuarialnego,
 - **4)** sposób i tryb uznawania studiów wyższych, o których mowa w art. 70 ust. 5 pkt 4, oraz cofania tego uznania,
-- **5)** sposób i tryb zwalniania kandydata z egzaminu aktuarialnego – uwzględniając konieczność sprawdzenia wiedzy, umiejętności i kompetencji kandydatów, sprawnego przeprowadzenia egzaminów oraz działania Komisji w sposób sprawny i skuteczny.
+- **5)** sposób i tryb zwalniania kandydata z egzaminu aktuarialnego uwzględniając konieczność sprawdzenia wiedzy, umiejętności i kompetencji kandydatów, sprawnego przeprowadzenia egzaminów oraz działania Komisji w sposób sprawny i skuteczny.
 
 **Art. 73.**
 
@@ -1216,11 +1315,15 @@ Art. 441–479. (pominięte)
 
 **Art. 74.** Outsourcing czynności ubezpieczeniowych lub reasekuracyjnych oraz funkcji należących do systemu zarządzania może odbywać się, pod warunkiem że:
 
+- **1)** dostawca usług będzie współpracował z organem nadzoru w zakresie powierzonych czynności lub funkcji;
+- **2)** zakład ubezpieczeń, zakład reasekuracji, firma audytorska badająca sprawozdania finansowe zakładu ubezpieczeń i zakładu reasekuracji, firma audytorska badająca sprawozdania o wypłacalności i kondycji finansowej zakładu ubezpieczeń i zakładu reasekuracji, firma audytorska przeprowadzająca atestację sprawozdawczości zrównoważonego rozwoju zakładu ubezpieczeń i zakładu reasekuracji oraz organ nadzoru będą posiadać dostęp do danych związanych z powierzonymi czynnościami lub funkcjami;
+- **3)** organ nadzoru będzie miał możliwość przeprowadzania kontroli działalności i stanu majątkowego dostawcy usług w zakresie powierzonych czynności lub funkcji.
+
 **Art. 75.**
 
 1. Outsourcing funkcji należących do systemu zarządzania oraz podstawowych lub ważnych czynności nie może odbywać się w sposób prowadzący do:
 
-- **1)** przekazania zarządzania zakładem ubezpieczeń lub zakładem reasekuracji, o którym mowa w art. 368 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych;
+- **1)** przekazania zarządzania zakładem ubezpieczeń lub zakładem reasekuracji, o którym mowa w art. 368 § 1 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych;
 - **2)** przekazania wykonywania działalności ubezpieczeniowej lub reasekuracyjnej w sposób powodujący brak faktycznego wykonywania działalności przez zakład ubezpieczeń lub zakład reasekuracji;
 - **3)** pogorszenia jakości systemu zarządzania zakładu ubezpieczeń lub zakładu reasekuracji;
 - **4)** zwiększenia ryzyka operacyjnego zakładu ubezpieczeń lub zakładu reasekuracji;
@@ -1237,9 +1340,13 @@ Art. 441–479. (pominięte)
 
 **Art. 77.** Zakład ubezpieczeń i zakład reasekuracji prowadzą ewidencję umów outsourcingu zawierającą co najmniej:
 
+- **1)** dane identyfikujące przedsiębiorców, z którymi zostały zawarte umowy powierzające wykonywanie czynności oraz funkcji należących do systemu zarządzania;
+- **2)** zakres powierzonych czynności i funkcji należących do systemu zarządzania oraz miejsce ich wykonywania;
+- **3)** okres obowiązywania umów.
+
 #### Rozdział 4 Krajowy zakład ubezpieczeń i krajowy zakład reasekuracji wykonujące działalność w formie spółki akcyjnej
 
-**Art. 78.** W zakresie nieuregulowanym w ustawie do krajowego zakładu ubezpieczeń i krajowego zakładu reasekuracji wykonujących działalność w formie spółki akcyjnej stosuje się przepisy ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych.
+**Art. 78.** W zakresie nieuregulowanym w ustawie do krajowego zakładu ubezpieczeń i krajowego zakładu reasekuracji wykonujących działalność w formie spółki akcyjnej stosuje się przepisy ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych.
 
 **Art. 79.**
 
@@ -1250,14 +1357,14 @@ Art. 441–479. (pominięte)
 - **1)** siedziby lub firmy,
 - **2)** podwyższenia lub obniżenia kapitału zakładowego,
 - **3)** w przypadku:
-    - **a)** zakładu ubezpieczeń – zasięgu terytorialnego lub rzeczowego zakresu działalności,
-    - **b)** zakładu reasekuracji – zakresu działalności,
+    - **a)** zakładu ubezpieczeń zasięgu terytorialnego lub rzeczowego zakresu działalności,
+    - **b)** zakładu reasekuracji zakresu działalności,
 
 - **4)** dotyczącym uprzywilejowania akcji lub uprawnień przyznanych akcjonariuszom osobiście,
 - **5)** tworzenia w ciężar kosztów funduszy, rezerw techniczno-ubezpieczeniowych dla celów rachunkowości i innych rezerw,
 - **6)** zasad reprezentacji,
 - **7)** gospodarowania majątkiem i aktywami zakładu ubezpieczeń i zakładu reasekuracji, w tym w zakresie określenia kompetencji organów zakładu ubezpieczeń i zakładu reasekuracji,
-- **8)** funduszu organizacyjnego – wymagają przed zarejestrowaniem zatwierdzenia przez organ nadzoru.
+- **8)** funduszu organizacyjnego wymagają przed zarejestrowaniem zatwierdzenia przez organ nadzoru.
 
 **Art. 80.**
 
@@ -1269,7 +1376,17 @@ Art. 441–479. (pominięte)
 
 4. Wpłaty na akcje nie mogą pochodzić z nielegalnych lub nieujawnionych źródeł oraz nie mogą mieć związku z finansowaniem terroryzmu.
 
-**Art. 81.** [1. Akcje zakładu ubezpieczeń i zakładu reasekuracji, z wyłączeniem akcji zdematerializowanych zgodnie z przepisami ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, mogą być tylko akcjami imiennymi.] 2. Zbycie akcji [imiennych] wymaga, wydanej w drodze decyzji, zgody organu nadzoru, jeżeli następuje w okresie do 12 miesięcy od dnia dokonania wpisu krajowego zakładu ubezpieczeń i krajowego zakładu reasekuracji do Krajowego Rejestru Sądowego. Zbycie [tych] akcji bez zgody organu nadzoru jest nieważne. 3. W celu ustalenia składu akcjonariuszy zakładu ubezpieczeń lub zakładu reasekuracji Krajowy Depozyt Papierów Wartościowych S.A., spółka, której Krajowy Depozyt Papierów Wartościowych S.A. przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, firmy inwestycyjne i banki powiernicze w rozumieniu tej ustawy przekazują, na żądanie zakładu ubezpieczeń lub zakładu reasekuracji będącego spółką publiczną i na jego koszt, w terminie 30 dni od dnia zgłoszenia żądania, zakładowi ubezpieczeń lub zakładowi reasekuracji informację o posiadaniu przez poszczególnych akcjonariuszy akcji tego zakładu ubezpieczeń lub zakładu reasekuracji w liczbie zapewniającej co najmniej 5 % ogólnej liczby głosów na walnym zgromadzeniu. 4. Przekazanie zakładowi ubezpieczeń i zakładowi reasekuracji informacji, o których mowa w ust. 3, nie narusza obowiązku zachowania tajemnicy zawodowej określonej w przepisach ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi. [5. W przypadku wykluczenia akcji zakładu ubezpieczeń lub zakładu reasekuracji z obrotu zorganizowanego lub wycofania akcji zakładu ubezpieczeń lub zakładu reasekuracji z obrotu zorganizowanego, zgodnie z przepisami ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi lub ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, zakład ubezpieczeń i zakład reasekuracji dokonują, w terminie 3 miesięcy od dnia doręczenia decyzji w tej sprawie, zamiany akcji na okaziciela na akcje imienne. W okresie od dnia doręczenia decyzji do dnia dokonania zamiany nie można dokonywać obrotu akcjami na okaziciela.]
+**Art. 81.**
+
+1. Akcje zakładu ubezpieczeń i zakładu reasekuracji, z wyłączeniem akcji zdematerializowanych zgodnie z przepisami ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, mogą być tylko akcjami imiennymi.
+
+2. Zbycie akcji imiennych wymaga, wydanej w drodze decyzji, zgody organu nadzoru, jeżeli następuje w okresie do 12 miesięcy od dnia dokonania wpisu krajowego zakładu ubezpieczeń i krajowego zakładu reasekuracji do Krajowego Rejestru Sądowego. Zbycie tych akcji bez zgody organu nadzoru jest nieważne.
+
+3. W celu ustalenia składu akcjonariuszy zakładu ubezpieczeń lub zakładu reasekuracji Krajowy Depozyt Papierów Wartościowych S.A., spółka, której Krajowy Depozyt Papierów Wartościowych S.A. przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, firmy inwestycyjne i banki powiernicze w rozumieniu tej ustawy przekazują, na żądanie zakładu ubezpieczeń lub zakładu reasekuracji będącego spółką publiczną i na jego koszt, w terminie 30 dni od dnia zgłoszenia żądania, zakładowi ubezpieczeń lub zakładowi reasekuracji informację o posiadaniu przez poszczególnych akcjonariuszy akcji tego zakładu ubezpieczeń lub zakładu reasekuracji w liczbie zapewniającej co najmniej 5 % ogólnej liczby głosów na walnym zgromadzeniu.
+
+4. Przekazanie zakładowi ubezpieczeń i zakładowi reasekuracji informacji, o których mowa w ust. 3, nie narusza obowiązku zachowania tajemnicy zawodowej określonej w przepisach ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
+
+5. W przypadku wykluczenia akcji zakładu ubezpieczeń lub zakładu reasekuracji z obrotu zorganizowanego lub wycofania akcji zakładu ubezpieczeń lub zakładu reasekuracji z obrotu zorganizowanego, zgodnie z przepisami ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi lub ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, zakład ubezpieczeń i zakład reasekuracji dokonują, w terminie 3 miesięcy od dnia doręczenia decyzji w tej sprawie, zamiany akcji na okaziciela na akcje imienne. W okresie od dnia doręczenia decyzji do dnia dokonania zamiany nie można dokonywać obrotu akcjami na okaziciela.
 
 **Art. 82.**
 
@@ -1279,12 +1396,12 @@ Art. 441–479. (pominięte)
 
 3. W przypadku gdy podmiot, który zamierza:
 
-- **1)** bezpośrednio nabyć albo objąć akcje lub prawa z akcji krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji lub stać się jednostką dominującą krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji, jest jednostką zależną – zawiadomienie składa tylko ten podmiot łącznie z jego pierwotną jednostką dominującą;
-- **2)** pośrednio nabyć albo objąć akcje lub prawa z akcji krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji lub stać się jednostką dominującą krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji, jest jednostką zależną – zawiadomienie składa tylko jego pierwotna jednostka dominująca.
+- **1)** bezpośrednio nabyć albo objąć akcje lub prawa z akcji krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji lub stać się jednostką dominującą krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji, jest jednostką zależną zawiadomienie składa tylko ten podmiot łącznie z jego pierwotną jednostką dominującą;
+- **2)** pośrednio nabyć albo objąć akcje lub prawa z akcji krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji lub stać się jednostką dominującą krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji, jest jednostką zależną zawiadomienie składa tylko jego pierwotna jednostka dominująca.
 
 4. Obowiązek zawiadomienia, o którym mowa w ust. 1, dotyczy także:
 
-- **1)** zastawnika i użytkownika akcji, jeżeli zgodnie z art. 340 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych są oni uprawnieni do wykonywania prawa głosu z akcji;
+- **1)** zastawnika i użytkownika akcji, jeżeli zgodnie z art. 340 § 1 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych są oni uprawnieni do wykonywania prawa głosu z akcji;
 - **2)** podmiotu, który uzyskał prawo głosu na walnym zgromadzeniu na poziomach określonych w ust. 1 w wyniku zdarzeń innych niż objęcie lub nabycie akcji lub praw z akcji krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji, w szczególności w wyniku zmiany statutu lub w następstwie wygaśnięcia uprzywilejowania lub ograniczenia akcji co do prawa głosu, a także nabycia akcji lub praw z akcji zakładu ubezpieczeń lub zakładu reasekuracji w liczbie zapewniającej osiągnięcie albo przekroczenie poziomów określonych w ust. 1 w ogólnej liczbie głosów na walnym zgromadzeniu lub udziału w kapitale zakładowym w wyniku dziedziczenia;
 - **3)** podmiotu, który otrzymał akcje w wyniku zamiany obligacji kapitałowych na akcje zgodnie z art. 27h ust. 1 pkt 2 lit. b tiret drugie ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2024 r. poz. 708 oraz z 2025 r. poz. 1069).
 
@@ -1305,18 +1422,18 @@ Art. 441–479. (pominięte)
 
 1. Podmiot składający zawiadomienie, o którym mowa w art. 82 ust. 1, przekazuje wraz z zawiadomieniem informację o posiadanych bezpośrednio lub pośrednio akcjach lub prawach z akcji krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji, o którym mowa w art. 82 ust. 1, o jednostkach dominujących tego podmiotu i zawartych przez ten podmiot porozumieniach oraz o pozostawaniu przez ten podmiot w stanach faktycznych lub prawnych pozwalających innym podmiotom na wykonywanie praw z akcji krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji lub wykonywanie uprawnień jednostki dominującej krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji.
 
-2. Podmiot składający zawiadomienie, o którym mowa w art. 82 ust. 1, wskazuje w zawiadomieniu sposób realizacji zamiaru, którego dotyczy zawiadomienie, oraz przedkłada dowody wskazujące na istnienie zamiaru objętego zawiadomieniem, w szczególności stosowną umowę lub porozumienie, a w przypadku gdy zamiar ma zostać zrealizowany na rynku regulowanym – oświadczenie w tym zakresie.
+2. Podmiot składający zawiadomienie, o którym mowa w art. 82 ust. 1, wskazuje w zawiadomieniu sposób realizacji zamiaru, którego dotyczy zawiadomienie, oraz przedkłada dowody wskazujące na istnienie zamiaru objętego zawiadomieniem, w szczególności stosowną umowę lub porozumienie, a w przypadku gdy zamiar ma zostać zrealizowany na rynku regulowanym oświadczenie w tym zakresie.
 
 3. W przypadku gdy podmiot składający zawiadomienie, o którym mowa w art. 82 ust. 1, jest:
 
 - **1)** zakładem ubezpieczeń, zakładem reasekuracji, instytucją kredytową, zagraniczną firmą inwestycyjną w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, spółką zarządzającą lub zarządzającym z UE w rozumieniu ustawy o funduszach inwestycyjnych, które uzyskały zezwolenie na wykonywanie działalności na terytorium państwa członkowskiego Unii Europejskiej, lub
-- **2)** jednostką dominującą lub podmiotem pozostającym w podobnym stosunku do zakładu ubezpieczeń, zakładu reasekuracji, instytucji kredytowej, firmy inwestycyjnej, spółki zarządzającej lub zarządzającego z UE w rozumieniu ustawy o funduszach inwestycyjnych, które uzyskały zezwolenie na wykonywanie działalności na terytorium państwa członkowskiego Unii Europejskiej – zawiadomienie zawiera odpowiednią informację w tym zakresie, wskazującą w szczególności nazwę i siedzibę zakładu ubezpieczeń, zakładu reasekuracji, instytucji kredytowej, firmy inwestycyjnej, spółki zarządzającej lub zarządzającego z UE, o których mowa w pkt 2. Jeżeli nie zachodzą okoliczności wymienione w pkt 1 i 2, zawiadomienie zawiera oświadczenie w tym zakresie.
+- **2)** jednostką dominującą lub podmiotem pozostającym w podobnym stosunku do zakładu ubezpieczeń, zakładu reasekuracji, instytucji kredytowej, firmy inwestycyjnej, spółki zarządzającej lub zarządzającego z UE w rozumieniu ustawy o funduszach inwestycyjnych, które uzyskały zezwolenie na wykonywanie działalności na terytorium państwa członkowskiego Unii Europejskiej zawiadomienie zawiera odpowiednią informację w tym zakresie, wskazującą w szczególności nazwę i siedzibę zakładu ubezpieczeń, zakładu reasekuracji, instytucji kredytowej, firmy inwestycyjnej, spółki zarządzającej lub zarządzającego z UE, o których mowa w pkt 2. Jeżeli nie zachodzą okoliczności wymienione w pkt 1 i 2, zawiadomienie zawiera oświadczenie w tym zakresie.
 
 **Art. 84.**
 
 1. Podmiot składający zawiadomienie, o którym mowa w art. 82 ust. 1, przedstawia wraz z zawiadomieniem informacje dotyczące:
 
-- **1)** identyfikacji podmiotu składającego zawiadomienie, osób zarządzających jego działalnością oraz osób przewidzianych do objęcia funkcji członków zarządu krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji – o ile podmiot składający zawiadomienie planuje zmiany w tym zakresie;
+- **1)** identyfikacji podmiotu składającego zawiadomienie, osób zarządzających jego działalnością oraz osób przewidzianych do objęcia funkcji członków zarządu krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji o ile podmiot składający zawiadomienie planuje zmiany w tym zakresie;
 - **2)** identyfikacji krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji, o którym mowa w art. 82 ust. 1;
 - **3)** działalności zawodowej, gospodarczej lub statutowej podmiotu składającego zawiadomienie i osób, o których mowa w pkt 1, a w szczególności przedmiotu tej działalności, zakresu i miejsca jej prowadzenia oraz dotychczasowego jej przebiegu, a także wykształcenia posiadanego przez podmiot składający zawiadomienie, będący osobą fizyczną, i osób, o których mowa w pkt 1;
 - **4)** grupy, w skład której wchodzi podmiot składający zawiadomienie, a w szczególności jej struktury, wchodzących w jej skład podmiotów, prawnych i faktycznych powiązań kapitałowych, finansowych i osobowych z innymi podmiotami;
@@ -1359,7 +1476,7 @@ Art. 441–479. (pominięte)
 5. Organ nadzoru może, przed upływem 50. dnia roboczego terminu na doręczenie decyzji w przedmiocie sprzeciwu, pisemnie wezwać podmiot składający zawiadomienie do przekazania dodatkowych, niezbędnych informacji lub dokumentów, w terminie 20 dni roboczych od dnia otrzymania wezwania, a w przypadku gdy:
 
 - **1)** miejsce zamieszkania lub siedziba podmiotu składającego zawiadomienie znajduje się w państwie niebędącym państwem członkowskim Unii Europejskiej lub nadzór nad nim sprawują organy nadzorcze państwa niebędącego państwem członkowskim Unii Europejskiej, lub
-- **2)** podmiot składający zawiadomienie nie jest podmiotem podlegającym nadzorowi ubezpieczeniowemu, nadzorowi nad rynkiem kapitałowym lub nadzorowi bankowemu sprawowanemu przez organy nadzorcze państwa członkowskiego Unii Europejskiej – w wyznaczonym terminie, nie krótszym niż 20 i nie dłuższym niż 30 dni roboczych, licząc od dnia otrzymania wezwania, wskazując zakres żądanych informacji lub dokumentów.
+- **2)** podmiot składający zawiadomienie nie jest podmiotem podlegającym nadzorowi ubezpieczeniowemu, nadzorowi nad rynkiem kapitałowym lub nadzorowi bankowemu sprawowanemu przez organy nadzorcze państwa członkowskiego Unii Europejskiej w wyznaczonym terminie, nie krótszym niż 20 i nie dłuższym niż 30 dni roboczych, licząc od dnia otrzymania wezwania, wskazując zakres żądanych informacji lub dokumentów.
 
 6. W przypadku wezwania, o którym mowa w ust. 5, następuje zawieszenie biegu terminu na doręczenie decyzji w przedmiocie sprzeciwu od dnia wysłania wezwania do dnia otrzymania informacji lub dokumentów, nie dłużej jednak niż do upływu terminu na przekazanie informacji lub dokumentów.
 
@@ -1395,9 +1512,7 @@ Art. 441–479. (pominięte)
 
 1. Organ nadzoru doręcza decyzję w przedmiocie sprzeciwu, o której mowa w art. 90 ust. 1, w terminie 60 dni roboczych od dnia otrzymania zawiadomienia i wymaganych informacji i dokumentów, nie później niż w terminie 2 dni roboczych od dnia jej wydania.
 
-2. Terminy przewidziane dla doręczenia decyzji kończącej postępowanie w przedmiocie zawiadomienia uważa się za zachowane, jeżeli przed ich upływem decyzja została nadana w placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366 i
-
-- **820)** albo w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej albo wysłana na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841), zwany dalej „adresem do doręczeń elektronicznych”.
+2. Terminy przewidziane dla doręczenia decyzji kończącej postępowanie w przedmiocie zawiadomienia uważa się za zachowane, jeżeli przed ich upływem decyzja została nadana w placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2025 r. poz. 366 i 820) albo w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej albo wysłana na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841), zwany dalej „adresem do doręczeń elektronicznych”.
 
 **Art. 92.** Podmiot składający zawiadomienie, o którym mowa w art. 82 ust. 1, może zrealizować zamiar objęty zawiadomieniem, jeżeli organ nadzoru nie doręczy decyzji w przedmiocie sprzeciwu w terminie 60 dni roboczych, o którym mowa w art. 91 ust. 1, albo jeżeli przed upływem tego terminu organ nadzoru wyda decyzję o stwierdzeniu braku podstaw do zgłoszenia sprzeciwu.
 
@@ -1410,20 +1525,20 @@ Art. 441–479. (pominięte)
 - **1)** z naruszeniem przepisu art. 82 ust. 1 albo
 - **2)** pomimo zgłoszenia przez organ nadzoru sprzeciwu, o którym mowa w art. 90 ust. 1, albo
 - **3)** przed upływem terminu na zgłoszenie przez organ nadzoru sprzeciwu, o którym mowa w art. 90 ust. 1, albo
-- **4)** po wyznaczonym przez organ nadzoru terminie na nabycie albo objęcie akcji lub praw z akcji, o którym mowa w art. 90 ust. 5 – z akcji tych nie może być wykonywane prawo głosu, z zastrzeżeniem art. 95 i art. 96.
+- **4)** po wyznaczonym przez organ nadzoru terminie na nabycie albo objęcie akcji lub praw z akcji, o którym mowa w art. 90 ust. 5 z akcji tych nie może być wykonywane prawo głosu, z zastrzeżeniem art. 95 i art. 96.
 
 2. W przypadku wykonywania uprawnień jednostki dominującej krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji:
 
 - **1)** z naruszeniem przepisu art. 82 ust. 1 albo
 - **2)** pomimo zgłoszenia przez organ nadzoru sprzeciwu, o którym mowa w art. 90 ust. 1, albo
 - **3)** przed upływem terminu na zgłoszenie przez organ nadzoru sprzeciwu, o którym mowa w art. 90 ust. 1, albo
-- **4)** uzyskanych po upływie terminu, o którym mowa w art. 90 ust. 5 – członkowie zarządu krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji powołani przez jednostkę dominującą lub będący członkami zarządu, prokurentami lub osobami pełniącymi kierownicze funkcje w jednostce dominującej nie mogą uczestniczyć w czynnościach z zakresu reprezentacji krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji.
+- **4)** uzyskanych po upływie terminu, o którym mowa w art. 90 ust. 5 członkowie zarządu krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji powołani przez jednostkę dominującą lub będący członkami zarządu, prokurentami lub osobami pełniącymi kierownicze funkcje w jednostce dominującej nie mogą uczestniczyć w czynnościach z zakresu reprezentacji krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji.
 
 3. W przypadku gdy nie można ustalić, którzy członkowie zarządu zostali powołani przez jednostkę dominującą, powołanie zarządu jest bezskuteczne od dnia uzyskania przez ten podmiot uprawnień jednostki dominującej krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji, z zastrzeżeniem art. 95 i art. 96.
 
-4. Uchwały walnego zgromadzenia krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji podjęte z naruszeniem przepisu ust. 1 są nieważne, chyba że spełniają wymogi kworum oraz większości głosów bez uwzględnienia głosów nieważnych. W przypadkach, o których mowa w ust. 1, prawo wytoczenia powództwa o stwierdzenie nieważności uchwały walnego zgromadzenia przysługuje również organowi nadzoru. Przepisy art. 425 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych stosuje się odpowiednio.
+4. Uchwały walnego zgromadzenia krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji podjęte z naruszeniem przepisu ust. 1 są nieważne, chyba że spełniają wymogi kworum oraz większości głosów bez uwzględnienia głosów nieważnych. W przypadkach, o których mowa w ust. 1, prawo wytoczenia powództwa o stwierdzenie nieważności uchwały walnego zgromadzenia przysługuje również organowi nadzoru. Przepisy art. 425 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych stosuje się odpowiednio.
 
-5. Czynności z zakresu reprezentacji krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji podejmowane z udziałem członków zarządu z naruszeniem przepisów ust. 2 i 3 są nieważne. Przepis art. 58 § 3 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071 i 1172) stosuje się odpowiednio.
+5. Czynności z zakresu reprezentacji krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji podejmowane z udziałem członków zarządu z naruszeniem przepisów ust. 2 i 3 są nieważne. Przepis art. 58 § 3 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2025 r. poz. 1071 i 1172) stosuje się odpowiednio.
 
 6. W przypadkach, o których mowa w ust. 1, 2 lub 3, organ nadzoru może, w drodze decyzji, nakazać zbycie akcji w wyznaczonym terminie.
 
@@ -1438,7 +1553,7 @@ Art. 441–479. (pominięte)
 11. Jeżeli podmiot, o którym mowa w art. 82 ust. 1, wypełni zobowiązanie, o którym mowa w art. 90 ust. 3, przed upływem terminu wskazanego w decyzji, o której mowa w ust. 7, organ nadzoru wydaje decyzję o umorzeniu kary pieniężnej, o której mowa w ust. 8:
 
 - **1)** w całości albo
-- **2)** w części odpowiadającej niezapłaconym przyszłym ratom – w przypadku określonym w ust. 10.
+- **2)** w części odpowiadającej niezapłaconym przyszłym ratom w przypadku określonym w ust. 10.
 
 **Art. 94a.** W przypadku zaległej kary pieniężnej, o której mowa w art. 94 ust. 7 i 8, organ nadzoru może nakazać krajowemu zakładowi ubezpieczeń lub krajowemu zakładowi reasekuracji, którego akcjonariuszem jest podmiot, na który została nałożona kara, przekazanie na poczet zaległej kary pieniężnej wraz z odsetkami wszelkich płatności dokonywanych przez krajowy zakład ubezpieczeń lub krajowy zakład reasekuracji na rzecz tego akcjonariusza, w kwocie odpowiadającej tej karze wraz z odsetkami.
 
@@ -1454,7 +1569,7 @@ Art. 441–479. (pominięte)
 
 2. Decyzja, o której mowa w ust. 1, jest natychmiast wykonalna.
 
-3. Uchwała walnego zgromadzenia krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji jest nieważna, jeżeli przy jej podejmowaniu wykonano prawo głosu z akcji, w stosunku do których organ nadzoru wydał decyzję, o której mowa w ust. 1, chyba że uchwała spełnia wymogi kworum oraz większości głosów oddanych bez uwzględnienia głosów nieważnych. Prawo wytoczenia powództwa o stwierdzenie nieważności uchwały przysługuje również organowi nadzoru. Przepisy art. 425 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych stosuje się odpowiednio.
+3. Uchwała walnego zgromadzenia krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji jest nieważna, jeżeli przy jej podejmowaniu wykonano prawo głosu z akcji, w stosunku do których organ nadzoru wydał decyzję, o której mowa w ust. 1, chyba że uchwała spełnia wymogi kworum oraz większości głosów oddanych bez uwzględnienia głosów nieważnych. Prawo wytoczenia powództwa o stwierdzenie nieważności uchwały przysługuje również organowi nadzoru. Przepisy art. 425 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych stosuje się odpowiednio.
 
 4. Jeżeli organ nadzoru wydał na podstawie ust. 1 decyzję w przedmiocie zakazu wykonywania uprawnień jednostki dominującej, przepisy art. 94 ust. 2, 3 i 5 stosuje się odpowiednio.
 
@@ -1497,7 +1612,7 @@ Art. 441–479. (pominięte)
 
 - **1)** roczna składka przypisana brutto zakładu nie przekracza równowartości w złotych 5,4 mln euro;
 - **2)** łączne rezerwy techniczno-ubezpieczeniowe brutto zakładu dla celów wypłacalności nie przekraczają równowartości w złotych 26,6 mln euro;
-- **3)** łączne rezerwy techniczno-ubezpieczeniowe brutto grupy dla celów wypłacalności nie przekraczają równowartości w złotych 26,6 mln euro – jeżeli zakład wchodzi w skład grupy;
+- **3)** łączne rezerwy techniczno-ubezpieczeniowe brutto grupy dla celów wypłacalności nie przekraczają równowartości w złotych 26,6 mln euro jeżeli zakład wchodzi w skład grupy;
 - **4)** zakład nie wykonuje działalności w zakresie ubezpieczenia lub reasekuracji odpowiedzialności cywilnej, kredytu i gwarancji ubezpieczeniowej, chyba że stanowią one ryzyka dodatkowe;
 - **5)** roczna składka przypisana brutto zakładu z reasekuracji czynnej nie przekracza równowartości w złotych 0,6 mln euro oraz 10 % łącznej składki przypisanej brutto;
 - **6)** rezerwy techniczno-ubezpieczeniowe brutto zakładu dla celów wypłacalności z reasekuracji czynnej nie przekraczają równowartości w złotych 2,7 mln euro oraz 10 % łącznych rezerw techniczno-ubezpieczeniowych brutto dla celów wypłacalności.
@@ -1549,6 +1664,14 @@ Art. 441–479. (pominięte)
 
 **Art. 107.** Zmiany w statucie towarzystwa w zakresie:
 
+- **1)** zmiany siedziby lub nazwy,
+- **2)** zmiany rzeczowego zakresu działalności oraz zmiany terytorialnego zasięgu działalności w przypadku towarzystw ubezpieczeń wzajemnych,
+- **3)** obniżenia kapitału zakładowego,
+- **4)** tworzenia w ciężar kosztów funduszy, rezerw techniczno-ubezpieczeniowych dla celów rachunkowości i innych rezerw,
+- **5)** zmiany zasad reprezentacji towarzystwa,
+- **6)** zmian w gospodarowaniu majątkiem i aktywami towarzystwa, w tym w zakresie określenia kompetencji organów towarzystwa oraz spłat z tytułu zobowiązań wobec członków towarzystwa,
+- **7)** zmian w funduszu organizacyjnym, z zastrzeżeniem art. 162 ust. 2 pkt 6 wymagają przed zarejestrowaniem zatwierdzenia przez organ nadzoru.
+
 **Art. 108.** W towarzystwie mogą być tworzone związki wzajemności członkowskiej, jeżeli tak stanowi statut towarzystwa.
 
 **Art. 109.**
@@ -1561,7 +1684,7 @@ Art. 441–479. (pominięte)
     - **a)** osób fizycznych wykonujących określony zawód lub działalność, a także członkowie ich rodzin,
     - **b)** osób prawnych, których cel działalności odnosi się do zawodu lub działalności, o których mowa w lit. a, z wyłączeniem spółek prawa handlowego;
 
-- **4)** roczna składka przypisana brutto w 3 ostatnich latach obrotowych, a w przypadku towarzystwa wykonującego działalność w krótszym okresie – od początku wykonywania działalności, nie przekracza równowartości w złotych 5,4 mln euro, ustalonej zgodnie z art. 272 ust. 6, oraz towarzystwo ubezpieczeń wzajemnych przedstawi wiarygodną prognozę, że powyższa wartość nie zostanie przekroczona w kolejnych 5 latach obrotowych;
+- **4)** roczna składka przypisana brutto w 3 ostatnich latach obrotowych, a w przypadku towarzystwa wykonującego działalność w krótszym okresie od początku wykonywania działalności, nie przekracza równowartości w złotych 5,4 mln euro, ustalonej zgodnie z art. 272 ust. 6, oraz towarzystwo ubezpieczeń wzajemnych przedstawi wiarygodną prognozę, że powyższa wartość nie zostanie przekroczona w kolejnych 5 latach obrotowych;
 - **5)** towarzystwo ubezpieczeń wzajemnych nie wykonuje działalności w zakresie ubezpieczenia odpowiedzialności cywilnej, ubezpieczenia kredytu ani gwarancji ubezpieczeniowej, chyba że stanowią one ryzyka dodatkowe.
 
 2. Decyzja o uznaniu towarzystwa ubezpieczeń wzajemnych za małe towarzystwo ubezpieczeń wzajemnych podlega wpisowi do Krajowego Rejestru Sądowego.
@@ -1590,7 +1713,7 @@ Art. 441–479. (pominięte)
 
 **Art. 113.**
 
-1. Kapitał zapasowy i kapitał rezerwowy towarzystwa są tworzone według zasad, o których mowa w art. 396 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, z tym że obniżenie kapitału zapasowego może nastąpić wyłącznie przez pokrycie straty bilansowej.
+1. Kapitał zapasowy i kapitał rezerwowy towarzystwa są tworzone według zasad, o których mowa w art. 396 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych, z tym że obniżenie kapitału zapasowego może nastąpić wyłącznie przez pokrycie straty bilansowej.
 
 2. Statut towarzystwa określa system świadczeń członków na rzecz towarzystwa. Przysługujące członkowi należności majątkowe od towarzystwa nie zwalniają tego członka z obowiązku opłacania składek.
 
@@ -1625,6 +1748,10 @@ Art. 441–479. (pominięte)
 **Art. 115.** Do towarzystwa innego niż towarzystwo ubezpieczeń wzajemnych uznane za małe towarzystwo ubezpieczeń wzajemnych stosuje się odpowiednio przepisy art. 82‒99.
 
 **Art. 116.** Organami towarzystwa są:
+
+- **1)** zarząd towarzystwa, zwany dalej w niniejszym rozdziale „zarządem”;
+- **2)** rada nadzorcza towarzystwa, zwana dalej w niniejszym rozdziale „radą nadzorczą”;
+- **3)** walne zgromadzenie członków towarzystwa, zwane dalej w niniejszym rozdziale „walnym zgromadzeniem”.
 
 **Art. 117.**
 
@@ -1799,7 +1926,7 @@ Art. 441–479. (pominięte)
 
 **Art. 145.**
 
-1. Uchwała walnego zgromadzenia sprzeczna z prawem może być zaskarżona w drodze powództwa wytoczonego przeciwko towarzystwu o stwierdzenie nieważności uchwały. Przepisu art. 189 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841 oraz z 2025 r. poz. 620, 1172 i 1302) nie stosuje się.
+1. Uchwała walnego zgromadzenia sprzeczna z prawem może być zaskarżona w drodze powództwa wytoczonego przeciwko towarzystwu o stwierdzenie nieważności uchwały. Przepisu art. 189 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841 oraz z 2025 r. poz. 620, 1172 i 1302) nie stosuje się.
 
 2. Prawo do wytoczenia powództwa o uchylenie uchwały walnego zgromadzenia przysługuje osobom, o których mowa w art. 144 ust. 2.
 
@@ -1831,7 +1958,7 @@ Art. 441–479. (pominięte)
 
 **Art. 150.**
 
-1. Towarzystwo może zostać przekształcone w spółkę akcyjną. Do przekształcenia towarzystwa stosuje się odpowiednio przepisy ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych dotyczące powstania spółki akcyjnej.
+1. Towarzystwo może zostać przekształcone w spółkę akcyjną. Do przekształcenia towarzystwa stosuje się odpowiednio przepisy ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych dotyczące powstania spółki akcyjnej.
 
 2. Do przekształcenia towarzystwa wymaga się:
 
@@ -1841,7 +1968,7 @@ Art. 441–479. (pominięte)
 - **4)** podpisania przez członków towarzystwa statutu spółki akcyjnej powstałej w wyniku przekształcenia towarzystwa;
 - **5)** wykreślenia towarzystwa z rejestru i dokonania wpisu do rejestru spółki akcyjnej powstałej w wyniku przekształcenia towarzystwa.
 
-3. Do przygotowania planu przekształcenia towarzystwa stosuje się odpowiednio przepisy ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych.
+3. Do przygotowania planu przekształcenia towarzystwa stosuje się odpowiednio przepisy ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych.
 
 **Art. 151.**
 
@@ -1862,7 +1989,7 @@ Art. 441–479. (pominięte)
 1. Towarzystwo, na 30 dni przed planowanym podjęciem uchwały o przekształceniu towarzystwa w spółkę akcyjną, wzywa członków w sposób przewidziany dla ich zawiadamiania do złożenia oświadczeń o uczestnictwie w powstającej spółce akcyjnej w zakresie:
 
 - **1)** zamiaru objęcia akcji spółki, która powstanie w wyniku przekształcenia towarzystwa;
-- **2)** kontynuowania umowy ubezpieczenia w zakładzie ubezpieczeń, który powstanie w wyniku przekształcenia towarzystwa – w przypadku towarzystwa ubezpieczeń wzajemnych.
+- **2)** kontynuowania umowy ubezpieczenia w zakładzie ubezpieczeń, który powstanie w wyniku przekształcenia towarzystwa w przypadku towarzystwa ubezpieczeń wzajemnych.
 
 2. Oświadczenie, o którym mowa w ust. 1, składa się, pod rygorem nieważności, w formie pisemnej.
 
@@ -1898,6 +2025,11 @@ Art. 441–479. (pominięte)
 
 **Art. 156.** Organ nadzoru zatwierdza, w drodze decyzji, uchwałę o przekształceniu towarzystwa w spółkę akcyjną, jeżeli są spełnione łącznie następujące warunki:
 
+- **1)** został złożony wniosek spełniający warunki określone w art. 155 ust. 2;
+- **2)** przekształcenie towarzystwa w spółkę akcyjną jest zgodne z przepisami prawa;
+- **3)** interesy ubezpieczających, ubezpieczonych lub uprawnionych z umów ubezpieczenia są należycie zabezpieczone;
+- **4)** interesy ubezpieczających, ubezpieczonych lub uprawnionych z umów ubezpieczenia podlegających reasekuracji oraz cedentów są należycie zabezpieczone.
+
 **Art. 157.**
 
 1. Zarząd zgłasza do rejestru przekształcenie towarzystwa w spółkę akcyjną.
@@ -1908,7 +2040,7 @@ Art. 441–479. (pominięte)
 
 1. Majątek przekształconego towarzystwa staje się majątkiem powstałej spółki akcyjnej.
 
-2. Do majątku powstałej spółki akcyjnej i do akcji wydawanych akcjonariuszom stosuje się przepisy ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych dotyczące wkładów niepieniężnych i akcji wydawanych za te wkłady.
+2. Do majątku powstałej spółki akcyjnej i do akcji wydawanych akcjonariuszom stosuje się przepisy ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych dotyczące wkładów niepieniężnych i akcji wydawanych za te wkłady.
 
 **Art. 159.**
 
@@ -1920,9 +2052,9 @@ Art. 441–479. (pominięte)
 
 1. Powstała spółka akcyjna trzykrotnie ogłasza w dzienniku o zasięgu ogólnopolskim o przekształceniu i informuje na piśmie ubezpieczonych, którzy nie byli członkami przekształcanego towarzystwa ubezpieczeń wzajemnych, o przysługującym im prawie do wypowiedzenia umowy ubezpieczenia w okresie 3 miesięcy od dnia ostatniego ogłoszenia.
 
-2. Pierwszego ogłoszenia, o którym mowa w ust. 1, dokonuje się w terminie 7 dni od dnia przekształcenia, a pozostałych – w odstępach nie krótszych niż 7 dni i nie dłuższych niż 14 dni.
+2. Pierwszego ogłoszenia, o którym mowa w ust. 1, dokonuje się w terminie 7 dni od dnia przekształcenia, a pozostałych w odstępach nie krótszych niż 7 dni i nie dłuższych niż 14 dni.
 
-**Art. 161.** W sprawach nieuregulowanych w niniejszym rozdziale, jeżeli statut towarzystwa nie stanowi inaczej, do towarzystwa stosuje się odpowiednio przepisy ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych dotyczące spółki akcyjnej.
+**Art. 161.** W sprawach nieuregulowanych w niniejszym rozdziale, jeżeli statut towarzystwa nie stanowi inaczej, do towarzystwa stosuje się odpowiednio przepisy ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych dotyczące spółki akcyjnej.
 
 #### Rozdział 6 Wykonywanie działalności ubezpieczeniowej i reasekuracyjnej przez krajowe zakłady ubezpieczeń oraz wykonywanie działalności reasekuracyjnej przez krajowe zakłady reasekuracji
 
@@ -1939,41 +2071,41 @@ Art. 441–479. (pominięte)
 - **5)** wskazanie formy prawnej, w jakiej ma być wykonywana działalność;
 - **6)** określenie wysokości funduszu organizacyjnego przeznaczonego na utworzenie administracji krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji i zorganizowanie sieci przedstawicielstw;
 - **7)** wskazanie imion i nazwisk osób proponowanych na stanowiska osób pełniących kluczowe funkcje;
-- **8)** wskazanie imion i nazwisk osoby, której powierzono prowadzenie ksiąg rachunkowych, oraz doradcy inwestycyjnego – w przypadku, gdy obowiązek zatrudnienia doradcy inwestycyjnego wynika z ustawy.
+- **8)** wskazanie imion i nazwisk osoby, której powierzono prowadzenie ksiąg rachunkowych, oraz doradcy inwestycyjnego w przypadku, gdy obowiązek zatrudnienia doradcy inwestycyjnego wynika z ustawy.
 
 3. Do wniosku, o którym mowa w ust. 1, dołącza się:
 
 - **1)** projekt statutu krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji;
-- **2)** w przypadku krajowego zakładu ubezpieczeń – projekty ogólnych warunków ubezpieczenia ryzyk, w zakresie których ma być wydane zezwolenie;
-- **3)** sprawozdania finansowe założycieli obejmujące bilanse dla celów rachunkowości, rachunki zysków i strat, rachunki przepływów pieniężnych za ostatnie 3 lata przed dniem złożenia wniosku lub z całego okresu działalności, jeżeli założyciel wykonuje działalność gospodarczą przez czas krótszy niż okres 3 lat – w przypadku gdy obowiązek sporządzania takich sprawozdań finansowych założycieli z prowadzonej przez nich działalności gospodarczej wynika z odrębnych przepisów;
+- **2)** w przypadku krajowego zakładu ubezpieczeń projekty ogólnych warunków ubezpieczenia ryzyk, w zakresie których ma być wydane zezwolenie;
+- **3)** sprawozdania finansowe założycieli obejmujące bilanse dla celów rachunkowości, rachunki zysków i strat, rachunki przepływów pieniężnych za ostatnie 3 lata przed dniem złożenia wniosku lub z całego okresu działalności, jeżeli założyciel wykonuje działalność gospodarczą przez czas krótszy niż okres 3 lat w przypadku gdy obowiązek sporządzania takich sprawozdań finansowych założycieli z prowadzonej przez nich działalności gospodarczej wynika z odrębnych przepisów;
 - **4)** informacje dodatkowe do sprawozdań, o których mowa w pkt 3;
-- **5)** bilans dla celów wypłacalności za ostatnie 3 lata przed dniem złożenia wniosku lub z całego okresu działalności, jeżeli założyciel wykonuje działalność ubezpieczeniową lub działalność reasekuracyjną przez czas krótszy niż okres 3 lat – w przypadku gdy założycielem jest zakład ubezpieczeń lub zakład reasekuracji;
-- **6)** obliczenie kapitałowego wymogu wypłacalności i obliczenie wysokości dopuszczonych środków własnych stanowiących pokrycie kapitałowego wymogu wypłacalności – w przypadku gdy założycielem jest zakład ubezpieczeń lub zakład reasekuracji;
-- **7)** obliczenie minimalnego wymogu kapitałowego i obliczenie wysokości dopuszczonych podstawowych środków własnych stanowiących pokrycie minimalnego wymogu kapitałowego – w przypadku gdy założycielem jest zakład ubezpieczeń lub zakład reasekuracji;
+- **5)** bilans dla celów wypłacalności za ostatnie 3 lata przed dniem złożenia wniosku lub z całego okresu działalności, jeżeli założyciel wykonuje działalność ubezpieczeniową lub działalność reasekuracyjną przez czas krótszy niż okres 3 lat w przypadku gdy założycielem jest zakład ubezpieczeń lub zakład reasekuracji;
+- **6)** obliczenie kapitałowego wymogu wypłacalności i obliczenie wysokości dopuszczonych środków własnych stanowiących pokrycie kapitałowego wymogu wypłacalności w przypadku gdy założycielem jest zakład ubezpieczeń lub zakład reasekuracji;
+- **7)** obliczenie minimalnego wymogu kapitałowego i obliczenie wysokości dopuszczonych podstawowych środków własnych stanowiących pokrycie minimalnego wymogu kapitałowego w przypadku gdy założycielem jest zakład ubezpieczeń lub zakład reasekuracji;
 - **8)** sprawozdania bankowe z przepływu środków pieniężnych na rachunkach bankowych obejmujące okres roku przed dniem złożenia wniosku;
 - **9)** zeznania podatkowe składane na podstawie przepisów o podatku dochodowym od osób fizycznych, za ostatnie 3 lata podatkowe przed dniem złożenia wniosku;
-- **10)** oświadczenie o pochodzeniu środków pieniężnych przeznaczonych na pokrycie kapitału zakładowego i funduszu organizacyjnego – w przypadku założycieli będących osobami fizycznymi, które nie mają obowiązku sporządzania sprawozdań finansowych;
+- **10)** oświadczenie o pochodzeniu środków pieniężnych przeznaczonych na pokrycie kapitału zakładowego i funduszu organizacyjnego w przypadku założycieli będących osobami fizycznymi, które nie mają obowiązku sporządzania sprawozdań finansowych;
 - **11)** oświadczenia założycieli o kapitale zakładowym, ze wskazaniem podmiotów obejmujących akcje lub udziały, sposobu objęcia akcji lub udziałów, liczby obejmowanych akcji lub udziałów oraz rodzaju akcji lub udziałów;
 - **12)** dowód posiadania przez założycieli środków finansowych wolnych od obciążeń w wysokości równej kapitałowi zakładowemu i funduszowi organizacyjnemu wraz z oświadczeniem o przeznaczeniu ich na pokrycie kapitału zakładowego i funduszu organizacyjnego;
 - **13)** dowód posiadania przez założycieli dopuszczonych podstawowych środków własnych na pokrycie minimalnego wymogu kapitałowego w wysokości równej co najmniej nieprzekraczalnemu dolnemu progowi minimalnego wymogu kapitałowego, o którym mowa w art. 272 ust. 1;
 - **14)** plan działalności, obejmujący okres pierwszych 3 lat obrotowych działalności;
-- **15)** zaświadczenie albo oświadczenie o wpisie do Krajowego Rejestru Sądowego lub odpis ze stosownego rejestru wystawiony poza granicami Rzeczypospolitej Polskiej, wydany nie później niż na 3 miesiące przed dniem złożenia wniosku – w przypadku gdy założycielem jest osoba prawna;
+- **15)** zaświadczenie albo oświadczenie o wpisie do Krajowego Rejestru Sądowego lub odpis ze stosownego rejestru wystawiony poza granicami Rzeczypospolitej Polskiej, wydany nie później niż na 3 miesiące przed dniem złożenia wniosku w przypadku gdy założycielem jest osoba prawna;
 - **16)** zaświadczenie organu nadzorczego właściwego dla siedziby zagranicznego zakładu ubezpieczeń lub zagranicznego zakładu reasekuracji, dotyczące wykonywanej przez wnioskodawcę działalności oraz spełnienia wymogów w zakresie wypłacalności;
-- **17)** poświadczone notarialnie kopie stron dowodu osobistego, zawierające serię i numer dowodu osobistego, imię i nazwisko, numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL), oznaczenie organu wydającego dowód osobisty oraz datę wydania dowodu osobistego albo poświadczoną notarialnie kopię paszportu – w przypadku założycieli będących osobami fizycznymi;
+- **17)** poświadczone notarialnie kopie stron dowodu osobistego, zawierające serię i numer dowodu osobistego, imię i nazwisko, numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL), oznaczenie organu wydającego dowód osobisty oraz datę wydania dowodu osobistego albo poświadczoną notarialnie kopię paszportu w przypadku założycieli będących osobami fizycznymi;
 - **18)** życiorysy założycieli będących osobami fizycznymi oraz osób proponowanych na stanowiska osób pełniących kluczowe funkcje;
 - **19)** zgody osób proponowanych na stanowiska osób pełniących kluczowe funkcje na objęcie stanowisk w krajowym zakładzie ubezpieczeń lub krajowym zakładzie reasekuracji;
 - **20)** poświadczenie odpowiedniego wykształcenia i doświadczenia zawodowego osób proponowanych na stanowiska osób pełniących kluczowe funkcje, w tym kopie dokumentów potwierdzających wykształcenie;
 - **21)** poświadczoną kopię decyzji o wpisie osoby proponowanej na stanowisko aktuariusza nadzorującego funkcję aktuarialną do rejestru aktuariuszy;
 - **22)** dane o wykształceniu i doświadczeniu zawodowym osoby proponowanej na stanowisko aktuariusza nadzorującego funkcję aktuarialną, w tym kopie dokumentów potwierdzających wykształcenie;
-- **23)** zaświadczenie albo oświadczenie o niekaralności założycieli – w przypadku założycieli będących osobami fizycznymi, oraz zaświadczenie albo oświadczenie o niekaralności osób proponowanych na stanowiska osób pełniących kluczowe funkcje;
+- **23)** zaświadczenie albo oświadczenie o niekaralności założycieli w przypadku założycieli będących osobami fizycznymi, oraz zaświadczenie albo oświadczenie o niekaralności osób proponowanych na stanowiska osób pełniących kluczowe funkcje;
 - **24)** oświadczenia założycieli oraz osób proponowanych na stanowiska osób pełniących kluczowe funkcje o toczących się przeciwko nim postępowaniach sądowych w związku ze sprawą gospodarczą;
 - **25)** oświadczenia założycieli oraz osób proponowanych na stanowiska osób pełniących kluczowe funkcje o uczestnictwie w organach zarządzających i nadzorujących spółek handlowych;
-- **26)** oświadczenie doradcy inwestycyjnego o wyrażeniu zgody na zatrudnienie – w przypadku wniosku o wydanie zezwolenia na wykonywanie działalności ubezpieczeniowej w zakresie ubezpieczeń, o których mowa w dziale I w grupie 3 załącznika do ustawy;
-- **27)** listę reprezentantów do spraw roszczeń, którzy zostaną ustanowieni w każdym państwie członkowskim Unii Europejskiej – w przypadku wniosku o wydanie zezwolenia na wykonywanie działalności ubezpieczeniowej w zakresie ubezpieczeń, o których mowa w dziale II w grupie 10 załącznika do ustawy, z wyjątkiem ubezpieczenia odpowiedzialności cywilnej przewoźnika;
+- **26)** oświadczenie doradcy inwestycyjnego o wyrażeniu zgody na zatrudnienie w przypadku wniosku o wydanie zezwolenia na wykonywanie działalności ubezpieczeniowej w zakresie ubezpieczeń, o których mowa w dziale I w grupie 3 załącznika do ustawy;
+- **27)** listę reprezentantów do spraw roszczeń, którzy zostaną ustanowieni w każdym państwie członkowskim Unii Europejskiej w przypadku wniosku o wydanie zezwolenia na wykonywanie działalności ubezpieczeniowej w zakresie ubezpieczeń, o których mowa w dziale II w grupie 10 załącznika do ustawy, z wyjątkiem ubezpieczenia odpowiedzialności cywilnej przewoźnika;
 - **28)** oświadczenie założycieli, czy krajowy zakład ubezpieczeń lub krajowy zakład reasekuracji będzie jednostką zależną:
     - **a)** zakładu ubezpieczeń, zakładu reasekuracji, instytucji kredytowej lub firmy inwestycyjnej, które uzyskały odpowiednie zezwolenia na wykonywanie działalności w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej,
     - **b)** jednostki dominującej w stosunku do zakładu ubezpieczeń, zakładu reasekuracji, instytucji kredytowej lub firmy inwestycyjnej, które uzyskały odpowiednie zezwolenia na wykonywanie działalności w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej,
-    - **c)** osoby fizycznej lub prawnej posiadającej udziały kapitałowe w zakładzie ubezpieczeń, zakładzie reasekuracji, instytucji kredytowej lub firmie inwestycyjnej, które uzyskały odpowiednie zezwolenia na wykonywanie działalności w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej – lub czy którykolwiek z podmiotów, o których mowa w lit. a–c, będzie posiadał w krajowym zakładzie ubezpieczeń lub w krajowym zakładzie reasekuracji udziały kapitałowe, zawierające informacje o nazwach i adresach siedziby podmiotów, o których mowa w lit. a–c.
+    - **c)** osoby fizycznej lub prawnej posiadającej udziały kapitałowe w zakładzie ubezpieczeń, zakładzie reasekuracji, instytucji kredytowej lub firmie inwestycyjnej, które uzyskały odpowiednie zezwolenia na wykonywanie działalności w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej lub czy którykolwiek z podmiotów, o których mowa w lit. a–c, będzie posiadał w krajowym zakładzie ubezpieczeń lub w krajowym zakładzie reasekuracji udziały kapitałowe, zawierające informacje o nazwach i adresach siedziby podmiotów, o których mowa w lit. a–c.
 
 4. Wymóg, o którym mowa w ust. 2 pkt 6, nie dotyczy przypadku, gdy akwizycja na rzecz zakładu ubezpieczeń wykonującego działalność w formie towarzystwa ubezpieczeń wzajemnych będzie prowadzona przez struktury własne założycieli krajowego zakładu ubezpieczeń.
 
@@ -2004,7 +2136,7 @@ Art. 441–479. (pominięte)
 - **5)** określenie źródeł finansowania środków w wysokości kapitałowego wymogu wypłacalności i minimalnego wymogu kapitałowego;
 - **6)** oszacowanie kosztów utworzenia administracji krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji i organizacji działalności z określeniem źródeł finansowania tych kosztów;
 - **7)** określenie środków będących w posiadaniu krajowego zakładu ubezpieczeń, które są niezbędne do wykonania usług świadczenia pomocy, jeżeli krajowy zakład ubezpieczeń zamierza ubezpieczać ryzyka określone w dziale II w grupie 18 załącznika do ustawy;
-- **8)** określenie organizacji działalności ubezpieczeniowej, a w przypadku zakładu reasekuracji – działalności reasekuracyjnej, w tym:
+- **8)** określenie organizacji działalności ubezpieczeniowej, a w przypadku zakładu reasekuracji działalności reasekuracyjnej, w tym:
     - **a)** systemu zarządzania,
     - **b)** sposobu zawierania umów ubezpieczenia,
     - **c)** zasad akceptacji ryzyka,
@@ -2024,7 +2156,7 @@ Art. 441–479. (pominięte)
     - **a)** bilansu dla celów rachunkowości,
     - **b)** ogólnego rachunku zysków i strat,
     - **c)** zbiorczego technicznego rachunku ubezpieczeń,
-    - **d)** technicznych rachunków ubezpieczeń dla grup ubezpieczeń – w przypadku zakładu ubezpieczeń,
+    - **d)** technicznych rachunków ubezpieczeń dla grup ubezpieczeń w przypadku zakładu ubezpieczeń,
     - **e)** bilansu dla celów wypłacalności,
     - **f)** obliczenia kapitałowego wymogu wypłacalności wraz z opisem stosowanej metody obliczeń oraz wartości dopuszczonych środków własnych stanowiących pokrycie kapitałowego wymogu wypłacalności,
     - **g)** obliczenia minimalnego wymogu kapitałowego wraz z opisem stosowanej metody obliczeń oraz wartości dopuszczonych podstawowych środków własnych stanowiących pokrycie minimalnego wymogu kapitałowego;
@@ -2034,6 +2166,11 @@ Art. 441–479. (pominięte)
 4. W przypadku gdy krajowy zakład reasekuracji składa wniosek o wydanie zezwolenia na wykonywanie działalności reasekuracyjnej w zakresie obu rodzajów reasekuracji, prognozę zbiorczego technicznego rachunku ubezpieczeń, o której mowa w ust. 3 pkt 5 lit. c, sporządza się oddzielnie dla każdego rodzaju reasekuracji.
 
 **Art. 164.** Jeżeli krajowy zakład ubezpieczeń lub krajowy zakład reasekuracji będzie jednostką zależną któregokolwiek z podmiotów, o których mowa w art. 162 ust. 3 pkt 28 lit. a–c, lub gdy którykolwiek z podmiotów, o których mowa w art. 162 ust. 3 pkt 28 lit. a–c będzie posiadał w krajowym zakładzie ubezpieczeń lub w krajowym zakładzie reasekuracji udziały kapitałowe, przed wydaniem zezwolenia na wykonywanie działalności ubezpieczeniowej lub działalności reasekuracyjnej organ nadzoru występuje na piśmie do organu nadzorczego państwa członkowskiego Unii Europejskiej o przekazanie informacji dotyczących:
+
+- **1)** nadzorowanego przez ten organ zakładu ubezpieczeń, zakładu reasekuracji, instytucji kredytowej lub firmy inwestycyjnej,
+- **2)** założycieli, akcjonariuszy lub udziałowców podmiotów, o których mowa w pkt 1,
+- **3)** jednostek dominujących w stosunku do podmiotów, o których mowa w pkt 1,
+- **4)** osób fizycznych lub prawnych sprawujących kontrolę nad podmiotami, o których mowa w pkt 1 które mogą być przydatne do oceny, czy założyciele, akcjonariusze, udziałowcy lub osoby przewidziane na członków zarządu lub rady nadzorczej krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji dają rękojmię prowadzenia spraw krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji w sposób należyty, a także czy osoby proponowane na stanowiska osób nadzorujących inne kluczowe funkcje dają rękojmię wykonywania zadań w sposób należyty.
 
 **Art. 165.**
 
@@ -2046,6 +2183,14 @@ Art. 441–479. (pominięte)
 - **3)** ubezpieczeń, o których mowa w pkt 1 i 2.
 
 **Art. 166.** W zezwoleniu, o którym mowa w art. 162 ust. 1, wskazuje się:
+
+- **1)** nazwę lub firmę, siedzibę i adres krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji;
+- **2)** zasięg terytorialny i rzeczowy zakres działalności krajowego zakładu ubezpieczeń lub rzeczowy zakres działalności krajowego zakładu reasekuracji;
+- **3)** wysokość kapitału zakładowego;
+- **4)** założycieli;
+- **5)** formę organizacyjną działalności krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji;
+- **6)** imiona i nazwiska osób przewidzianych na członków pierwszego zarządu;
+- **7)** imiona i nazwiska osób przewidzianych na członków rady nadzorczej.
 
 **Art. 167.**
 
@@ -2121,12 +2266,12 @@ Art. 441–479. (pominięte)
 
 **Art. 172.**
 
-1. Organ nadzoru cofa, w drodze decyzji, krajowemu zakładowi ubezpieczeń zezwolenie na wykonywanie działalności ubezpieczeniowej w zakresie jednej lub więcej grup ubezpieczeń, a krajowemu zakładowi reasekuracji – zezwolenie na wykonywanie działalności reasekuracyjnej w zakresie jednego lub obu rodzajów reasekuracji, jeżeli krajowy zakład ubezpieczeń lub krajowy zakład reasekuracji:
+1. Organ nadzoru cofa, w drodze decyzji, krajowemu zakładowi ubezpieczeń zezwolenie na wykonywanie działalności ubezpieczeniowej w zakresie jednej lub więcej grup ubezpieczeń, a krajowemu zakładowi reasekuracji zezwolenie na wykonywanie działalności reasekuracyjnej w zakresie jednego lub obu rodzajów reasekuracji, jeżeli krajowy zakład ubezpieczeń lub krajowy zakład reasekuracji:
 
 - **1)** nie spełnia wymogu zgodności z minimalnym wymogiem kapitałowym, a przedstawiony krótkoterminowy plan finansowy nie został zaakceptowany przez organ nadzoru, lub
 - **2)** nie zrealizował w terminie 3 miesięcy od dnia stwierdzenia niezgodności z minimalnym wymogiem kapitałowym krótkoterminowego planu finansowego.
 
-2. Organ nadzoru może cofnąć, w drodze decyzji, krajowemu zakładowi ubezpieczeń zezwolenie na wykonywanie działalności ubezpieczeniowej w zakresie jednej lub więcej grup ubezpieczeń, a krajowemu zakładowi reasekuracji – zezwolenie na wykonywanie działalności reasekuracyjnej w zakresie jednego lub obu rodzajów reasekuracji, jeżeli:
+2. Organ nadzoru może cofnąć, w drodze decyzji, krajowemu zakładowi ubezpieczeń zezwolenie na wykonywanie działalności ubezpieczeniowej w zakresie jednej lub więcej grup ubezpieczeń, a krajowemu zakładowi reasekuracji zezwolenie na wykonywanie działalności reasekuracyjnej w zakresie jednego lub obu rodzajów reasekuracji, jeżeli:
 
 - **1)** krajowy zakład ubezpieczeń lub krajowy zakład reasekuracji:
     - **a)** przestał spełniać warunki wymagane do uzyskania zezwolenia,
@@ -2153,7 +2298,7 @@ Art. 441–479. (pominięte)
 
 9. Organ nadzoru ustala wynagrodzenie za sprawowanie zarządu majątkiem krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji przez wyznaczoną osobę. Koszty zarządu majątkiem krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji przez wyznaczoną osobę ponosi krajowy zakład ubezpieczeń lub krajowy zakład reasekuracji.
 
-10. Osobom wyznaczonym do sprawowania zarządu majątkiem krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji, w przypadku złożenia wniosku zgodnie z art. 174 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277 i 807), udziela się urlopu bezpłatnego na okres pełnienia tej funkcji. Okres urlopu bezpłatnego jest wliczany do okresu pracy, od którego zależy nabycie uprawnień pracowniczych.
+10. Osobom wyznaczonym do sprawowania zarządu majątkiem krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji, w przypadku złożenia wniosku zgodnie z art. 174 § 1 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277 i 807), udziela się urlopu bezpłatnego na okres pełnienia tej funkcji. Okres urlopu bezpłatnego jest wliczany do okresu pracy, od którego zależy nabycie uprawnień pracowniczych.
 
 11. Organ nadzoru w decyzji o przekazaniu zarządu majątkiem krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji wyznaczonej osobie określa:
 
@@ -2165,7 +2310,7 @@ Art. 441–479. (pominięte)
 
 12. Decyzje organu nadzoru, o których mowa w ust. 1, 2, 5 i 6, są natychmiast wykonalne.
 
-13. Organ nadzoru trzykrotnie ogłasza w dzienniku o zasięgu ogólnopolskim informację o cofnięciu krajowemu zakładowi ubezpieczeń zezwolenia na wykonywanie działalności ubezpieczeniowej. Pierwszego ogłoszenia dokonuje się w terminie 7 dni od dnia cofnięcia zezwolenia, a pozostałych – w odstępach nie krótszych niż 7 dni i nie dłuższych niż 14 dni.
+13. Organ nadzoru trzykrotnie ogłasza w dzienniku o zasięgu ogólnopolskim informację o cofnięciu krajowemu zakładowi ubezpieczeń zezwolenia na wykonywanie działalności ubezpieczeniowej. Pierwszego ogłoszenia dokonuje się w terminie 7 dni od dnia cofnięcia zezwolenia, a pozostałych w odstępach nie krótszych niż 7 dni i nie dłuższych niż 14 dni.
 
 14. Organ nadzoru przesyła do właściwego sądu rejestrowego odpis decyzji, o których mowa w ust. 1–4.
 
@@ -2312,8 +2457,8 @@ Art. 441–479. (pominięte)
 - **6)** zaświadczenie organu nadzorczego państwa, w którym znajduje się siedziba zagranicznego zakładu ubezpieczeń lub zagranicznego zakładu reasekuracji, o posiadaniu przez ten zakład zezwolenia na wykonywanie działalności ubezpieczeniowej lub działalności reasekuracyjnej oraz o spełnianiu przez zagraniczny zakład ubezpieczeń lub zagraniczny zakład reasekuracji wymogów wypłacalności, o których mowa w pkt 2, zawierające informację o sytuacji finansowej tego zakładu;
 - **7)** sprawozdanie finansowe za okres ostatnich 3 lat przed dniem złożenia wniosku działalności zagranicznego zakładu ubezpieczeń lub zagranicznego zakładu reasekuracji wraz ze sprawozdaniem z jego badania;
 - **8)** bilans dla celów wypłacalności za okres ostatnich 3 lat przed dniem złożenia wniosku działalności zagranicznego zakładu ubezpieczeń lub zagranicznego zakładu reasekuracji;
-- **9)** w przypadku wniosku zagranicznego zakładu ubezpieczeń – dowód, że krajowe zakłady ubezpieczeń mogą wykonywać działalność ubezpieczeniową na terytorium państwa, w którym zagraniczny zakład ubezpieczeń ma siedzibę;
-- **10)** w przypadku wniosku zagranicznego zakładu reasekuracji – dowód, że krajowe zakłady reasekuracji mogą wykonywać działalność reasekuracyjną na terytorium państwa, w którym zagraniczny zakład reasekuracji ma siedzibę;
+- **9)** w przypadku wniosku zagranicznego zakładu ubezpieczeń dowód, że krajowe zakłady ubezpieczeń mogą wykonywać działalność ubezpieczeniową na terytorium państwa, w którym zagraniczny zakład ubezpieczeń ma siedzibę;
+- **10)** w przypadku wniosku zagranicznego zakładu reasekuracji dowód, że krajowe zakłady reasekuracji mogą wykonywać działalność reasekuracyjną na terytorium państwa, w którym zagraniczny zakład reasekuracji ma siedzibę;
 - **11)** informacje o wysokości funduszu organizacyjnego przeznaczonego na utworzenie administracji głównego oddziału i zorganizowanie jego jednostek terenowych;
 - **12)** wskazanie źródeł środków finansowych niezbędnych do wypłacenia odszkodowań i świadczeń z tytułu zawartych umów ubezpieczenia, pokrycia kapitałowego wymogu wypłacalności i minimalnego wymogu kapitałowego;
 - **13)** zgodę osoby proponowanej na stanowisko dyrektora głównego oddziału oraz osób proponowanych na stanowiska jego zastępców, a także zgodę osób mających nadzorować inne kluczowe funkcje na wykonywanie obowiązków w głównym oddziale;
@@ -2328,8 +2473,8 @@ Art. 441–479. (pominięte)
 5. Do wniosku zagranicznego zakładu ubezpieczeń dołącza się również:
 
 - **1)** projekty ogólnych warunków ubezpieczeń, w zakresie których ma być wydane zezwolenie;
-- **2)** oświadczenie doradcy inwestycyjnego o wyrażeniu zgody na zatrudnienie – w przypadku wniosku o wydanie zezwolenia na wykonywanie działalności ubezpieczeniowej w zakresie ubezpieczeń na życie, jeżeli są związane z ubezpieczeniowym funduszem kapitałowym;
-- **3)** listę ustanowionych w każdym państwie członkowskim Unii Europejskiej reprezentantów do spraw roszczeń – w przypadku wniosku o wydanie zezwolenia na wykonywanie działalności ubezpieczeniowej w zakresie ubezpieczeń, o których mowa w dziale II w grupie 10 załącznika do ustawy, z wyjątkiem ubezpieczenia odpowiedzialności cywilnej przewoźnika.
+- **2)** oświadczenie doradcy inwestycyjnego o wyrażeniu zgody na zatrudnienie w przypadku wniosku o wydanie zezwolenia na wykonywanie działalności ubezpieczeniowej w zakresie ubezpieczeń na życie, jeżeli są związane z ubezpieczeniowym funduszem kapitałowym;
+- **3)** listę ustanowionych w każdym państwie członkowskim Unii Europejskiej reprezentantów do spraw roszczeń w przypadku wniosku o wydanie zezwolenia na wykonywanie działalności ubezpieczeniowej w zakresie ubezpieczeń, o których mowa w dziale II w grupie 10 załącznika do ustawy, z wyjątkiem ubezpieczenia odpowiedzialności cywilnej przewoźnika.
 
 6. Wymóg, o którym mowa w ust. 4 pkt 9 i 10, nie dotyczy państw, z którymi Rzeczpospolitą Polską wiążą umowy międzynarodowe zapewniające zasadę wzajemności.
 
@@ -2468,7 +2613,7 @@ Art. 441–479. (pominięte)
 
 2. Decyzja zatwierdzająca umowę, o której mowa w ust. 1, może być wydana, jeżeli zakład reasekuracji lub zakład ubezpieczeń przejmujący portfel reasekuracji posiada dopuszczone środki własne w wysokości kapitałowego wymogu wypłacalności.
 
-3. Do umów o przeniesienie portfela reasekuracji przepisy art. 307– 309 stosuje się odpowiednio.
+3. Do umów o przeniesienie portfela reasekuracji przepisy art. 307–309 stosuje się odpowiednio.
 
 **Art. 194.**
 
@@ -2482,8 +2627,8 @@ Art. 441–479. (pominięte)
 - **1)** zagraniczny zakład ubezpieczeń lub zagraniczny zakład reasekuracji przestał spełniać warunki uzyskania zezwolenia;
 - **2)** główny oddział wykonuje działalność z naruszeniem przepisów prawa, statutu lub nie zapewnia zdolności zagranicznego zakładu ubezpieczeń lub zagranicznego zakładu reasekuracji do wykonywania zobowiązań;
 - **3)** zagraniczny zakład ubezpieczeń lub zagraniczny zakład reasekuracji wystąpił do organu nadzoru z wnioskiem o cofnięcie zezwolenia, pod warunkiem:
-    - **a)** zagwarantowania zabezpieczenia interesów ubezpieczających, ubezpieczonych lub uprawnionych z umów ubezpieczenia, w szczególności w zakresie spełnienia świadczeń i wypłaty odszkodowań – w przypadku zagranicznego zakładu ubezpieczeń,
-    - **b)** zagwarantowania zabezpieczenia interesów ubezpieczających, ubezpieczonych lub uprawnionych z umów ubezpieczenia podlegających reasekuracji oraz cedentów – w przypadku zagranicznego zakładu reasekuracji;
+    - **a)** zagwarantowania zabezpieczenia interesów ubezpieczających, ubezpieczonych lub uprawnionych z umów ubezpieczenia, w szczególności w zakresie spełnienia świadczeń i wypłaty odszkodowań w przypadku zagranicznego zakładu ubezpieczeń,
+    - **b)** zagwarantowania zabezpieczenia interesów ubezpieczających, ubezpieczonych lub uprawnionych z umów ubezpieczenia podlegających reasekuracji oraz cedentów w przypadku zagranicznego zakładu reasekuracji;
 
 - **4)** zagraniczny zakład ubezpieczeń lub zagraniczny zakład reasekuracji nie rozpoczął wykonywania działalności ubezpieczeniowej lub działalności reasekuracyjnej na terytorium Rzeczypospolitej Polskiej w terminie, o którym mowa w art. 185;
 - **5)** zagraniczny zakład ubezpieczeń lub zagraniczny zakład reasekuracji nie wykonuje działalności ubezpieczeniowej lub działalności reasekuracyjnej przez okres dłuższy niż 6 miesięcy;
@@ -2494,8 +2639,8 @@ Art. 441–479. (pominięte)
 
 3. W przypadku, o którym mowa w ust. 2 pkt 4, organ nadzoru może cofnąć zezwolenie:
 
-- **1)** w przypadku zagranicznego zakładu ubezpieczeń – w zakresie grup ubezpieczeń, w których wykonywanie działalności ubezpieczeniowej nie zostało rozpoczęte;
-- **2)** w przypadku zagranicznego zakładu reasekuracji – w zakresie rodzaju reasekuracji, w którym wykonywanie działalności reasekuracyjnej nie zostało rozpoczęte.
+- **1)** w przypadku zagranicznego zakładu ubezpieczeń w zakresie grup ubezpieczeń, w których wykonywanie działalności ubezpieczeniowej nie zostało rozpoczęte;
+- **2)** w przypadku zagranicznego zakładu reasekuracji w zakresie rodzaju reasekuracji, w którym wykonywanie działalności reasekuracyjnej nie zostało rozpoczęte.
 
 4. Organ nadzoru cofa zezwolenie na wykonywanie działalności ubezpieczeniowej przez zagraniczny zakład ubezpieczeń w zakresie ubezpieczeń, o których mowa w dziale II w grupie 10 załącznika do ustawy, z wyjątkiem ubezpieczenia odpowiedzialności cywilnej przewoźnika, w przypadku stwierdzenia braku reprezentanta do spraw roszczeń w państwie członkowskim Unii Europejskiej.
 
@@ -2553,11 +2698,11 @@ Art. 441–479. (pominięte)
 
 8. Dyrektor głównego oddziału zagranicznego zakładu reasekuracji powiadamia organ nadzoru o zaistnieniu okoliczności, o których mowa w art. 194 ust. 1–4, w terminie 3 dni od dnia powzięcia informacji o zaistnieniu tych okoliczności.
 
-9. Dyrektor głównego oddziału zagranicznego zakładu reasekuracji, który nie powiadomi organu nadzoru o okolicznościach, o których mowa w art. 194 ust. 1– 4, odpowiada całym swoim majątkiem solidarnie z zagranicznym zakładem reasekuracji za szkodę wyrządzoną z tego tytułu wierzycielom.
+9. Dyrektor głównego oddziału zagranicznego zakładu reasekuracji, który nie powiadomi organu nadzoru o okolicznościach, o których mowa w art. 194 ust. 1–4, odpowiada całym swoim majątkiem solidarnie z zagranicznym zakładem reasekuracji za szkodę wyrządzoną z tego tytułu wierzycielom.
 
 **Art. 199.** Jeżeli środki stanowiące pokrycie rezerw techniczno-ubezpieczeniowych dla celów wypłacalności nie wystarczą na pokrycie wszystkich zobowiązań głównego oddziału, za zgodą organu nadzoru, wydaną w drodze decyzji, zaspokojenie niepokrytej części zobowiązań następuje z kaucji, o której mowa w art. 187.
 
-**Art. 200.** Do likwidacji głównego oddziału stosuje się odpowiednio przepisy ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych dotyczące likwidacji spółki akcyjnej.
+**Art. 200.** Do likwidacji głównego oddziału stosuje się odpowiednio przepisy ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych dotyczące likwidacji spółki akcyjnej.
 
 **Art. 201.** Zagraniczny zakład ubezpieczeń i zagraniczny zakład reasekuracji odpowiadają za zobowiązania głównego oddziału całym swoim majątkiem.
 
@@ -2647,6 +2792,11 @@ Art. 441–479. (pominięte)
 
 **Art. 208a.** W przypadku gdy zagraniczny zakład ubezpieczeń mający siedzibę w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej zamierza zawierać umowy koasekuracji dużych ryzyk spełniające łącznie poniższe warunki:
 
+- **1)** ryzyko jest umiejscowione na terytorium Rzeczypospolitej Polskiej,
+- **2)** wyłącznie koasekurator wiodący jest odpowiedzialny przed ubezpieczającym za całość ryzyka,
+- **3)** co najmniej jeden zakład ubezpieczeń współubezpieczający ma siedzibę w innym państwie członkowskim Unii Europejskiej niż koasekurator wiodący lub uczestniczy w umowie koasekuracji przez oddział ustanowiony w innym państwie członkowskim Unii Europejskiej niż państwo, w którym koasekurator wiodący ma siedzibę,
+- **4)** koasekurator wiodący ustala wysokość składek ubezpieczeniowych i warunki umowy ubezpieczenia ‒ przepisy art. 207 i art. 208 stosuje się wyłącznie do zagranicznego zakładu ubezpieczeń będącego koasekuratorem wiodącym, mającego siedzibę w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej.
+
 **Art. 209.**
 
 1. Krajowy zakład ubezpieczeń, który zamierza rozpocząć wykonywanie działalności ubezpieczeniowej na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej przez oddział, zawiadamia o tym organ nadzoru.
@@ -2671,9 +2821,9 @@ Art. 441–479. (pominięte)
 5. Krajowy zakład ubezpieczeń może ustanowić oddział:
 
 - **1)** jeżeli po przekazaniu informacji i oświadczenia zgodnie z ust. 3 otrzyma od organów nadzorczych państwa członkowskiego Unii Europejskiej, w którym zakład zamierza wykonywać działalność ubezpieczeniową przez oddział, informację o warunkach, na jakich działalność ta będzie wykonywana, albo
-- **2)** w przypadku nieotrzymania od organów nadzorczych państwa członkowskiego Unii Europejskiej informacji, o której mowa w pkt 1 – po upływie 2 miesięcy od dnia otrzymania przez zakład ubezpieczeń od organu nadzoru informacji o przekazaniu do organu nadzorczego państwa członkowskiego Unii Europejskiej, w którym krajowy zakład ubezpieczeń zamierza wykonywać działalność ubezpieczeniową przez oddział, informacji i oświadczenia zgodnie z ust. 3.
+- **2)** w przypadku nieotrzymania od organów nadzorczych państwa członkowskiego Unii Europejskiej informacji, o której mowa w pkt 1 po upływie 2 miesięcy od dnia otrzymania przez zakład ubezpieczeń od organu nadzoru informacji o przekazaniu do organu nadzorczego państwa członkowskiego Unii Europejskiej, w którym krajowy zakład ubezpieczeń zamierza wykonywać działalność ubezpieczeniową przez oddział, informacji i oświadczenia zgodnie z ust. 3.
 
-6. O zamiarze zmiany danych lub informacji, o których mowa w ust. 2 pkt 2– 4, krajowy zakład ubezpieczeń informuje organ nadzoru oraz organy nadzorcze państwa członkowskiego Unii Europejskiej, w którym znajduje się siedziba oddziału krajowego zakładu ubezpieczeń, co najmniej na miesiąc przed planowanym wprowadzeniem tych zmian. Przepisy ust. 3–5 stosuje się odpowiednio.
+6. O zamiarze zmiany danych lub informacji, o których mowa w ust. 2 pkt 2–4, krajowy zakład ubezpieczeń informuje organ nadzoru oraz organy nadzorcze państwa członkowskiego Unii Europejskiej, w którym znajduje się siedziba oddziału krajowego zakładu ubezpieczeń, co najmniej na miesiąc przed planowanym wprowadzeniem tych zmian. Przepisy ust. 3–5 stosuje się odpowiednio.
 
 **Art. 210.**
 
@@ -2704,7 +2854,7 @@ Art. 441–479. (pominięte)
 - **1)** zaświadczenie potwierdzające, że krajowy zakład ubezpieczeń posiada dopuszczone środki własne na pokrycie kapitałowego wymogu wypłacalności i dopuszczone podstawowe środki własne na pokrycie minimalnego wymogu kapitałowego;
 - **2)** informację o grupach ubezpieczeń, w których krajowy zakład ubezpieczeń posiada zezwolenie na wykonywanie działalności;
 - **3)** informację o rodzajach ryzyka, które krajowy zakład ubezpieczeń zamierza ubezpieczać w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej;
-- **4)** w przypadku gdy krajowy zakład ubezpieczeń zamierza wykonywać działalność w zakresie ubezpieczeń, o których mowa w dziale II w grupie 10 załącznika do ustawy, z wyjątkiem odpowiedzialności cywilnej przewoźnika – dane osobowe przedstawicieli krajowego zakładu ubezpieczeń, o których mowa w ust. 2 pkt 1, oraz oświadczenie, że krajowy zakład ubezpieczeń jest członkiem biura narodowego i zagranicznego ubezpieczeniowego funduszu gwarancyjnego.
+- **4)** w przypadku gdy krajowy zakład ubezpieczeń zamierza wykonywać działalność w zakresie ubezpieczeń, o których mowa w dziale II w grupie 10 załącznika do ustawy, z wyjątkiem odpowiedzialności cywilnej przewoźnika dane osobowe przedstawicieli krajowego zakładu ubezpieczeń, o których mowa w ust. 2 pkt 1, oraz oświadczenie, że krajowy zakład ubezpieczeń jest członkiem biura narodowego i zagranicznego ubezpieczeniowego funduszu gwarancyjnego.
 
 4. Organ nadzoru informuje krajowy zakład ubezpieczeń o przekazaniu informacji, o których mowa w ust. 3. Po otrzymaniu tej informacji krajowy zakład ubezpieczeń może wykonywać działalność ubezpieczeniową na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej w inny sposób niż przez oddział, w ramach swobody świadczenia usług.
 
@@ -2719,7 +2869,7 @@ Art. 441–479. (pominięte)
 - **3)** co najmniej jeden zakład ubezpieczeń współubezpieczający ma siedzibę w innym państwie członkowskim Unii Europejskiej niż koasekurator wiodący albo uczestniczy w umowie koasekuracji przez oddział ustanowiony w państwie członkowskim Unii Europejskiej innym niż państwo, w którym koasekurator wiodący ma siedzibę,
 - **4)** koasekurator wiodący ustala wysokość składek ubezpieczeniowych i warunki umowy ubezpieczenia ‒ przepisy art. 211 stosuje się wyłącznie do krajowego zakładu ubezpieczeń będącego koasekuratorem wiodącym.
 
-2. Krajowy zakład ubezpieczeń będący koasekuratorem wiodącym tworzy rezerwy techniczno-ubezpieczeniowe dla celów wypłacalności z tytułu umów koasekuracji, o których mowa w ust. 1, zgodnie z art. 224 ust. 1, 3 i 4 oraz art. 225‒ 237, z uwzględnieniem warunków umów koasekuracji.
+2. Krajowy zakład ubezpieczeń będący koasekuratorem wiodącym tworzy rezerwy techniczno-ubezpieczeniowe dla celów wypłacalności z tytułu umów koasekuracji, o których mowa w ust. 1, zgodnie z art. 224 ust. 1, 3 i 4 oraz art. 225‒237, z uwzględnieniem warunków umów koasekuracji.
 
 **Art. 212.**
 
@@ -2730,6 +2880,9 @@ Art. 441–479. (pominięte)
 **Art. 213.** Organ nadzoru informuje Komisję Europejską i EIOPA o liczbie i powodach odmów przekazania informacji, oświadczeń lub zaświadczeń organom nadzorczym innych niż Rzeczpospolita Polska państw członkowskich Unii Europejskiej, dotyczących krajowych zakładów ubezpieczeń, niezbędnych do wykonywania na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej działalności ubezpieczeniowej przez oddział lub wykonywania takiej działalności w inny sposób niż przez oddział, w ramach swobody świadczenia usług.
 
 **Art. 213a.** Organ nadzoru może:
+
+- **1)** wystąpić do zainteresowanych organów nadzorczych z wnioskiem o ustanowienie platformy współpracy, o której mowa w art. 152b ust. 2 dyrektywy 2009/138/WE;
+- **2)** uczestniczyć w platformie współpracy ustanowionej na wniosek zainteresowanego organu nadzorczego.
 
 **Art. 213b.**
 
@@ -2764,9 +2917,9 @@ Art. 441–479. (pominięte)
 - **1)** zastosować wszystkie uprawnienia przysługujące mu zgodnie z ustawą w stosunku do krajowych zakładów ubezpieczeń lub krajowych zakładów reasekuracji, aby zapobiec dalszym naruszeniom prawa;
 - **2)** złożyć wniosek o pomoc do EIOPA.
 
-4a. celu niezwłocznego usunięcia lub zapobieżenia wystąpieniu dalszych nieprawidłowości, w pilnym przypadku, organ nadzoru może wobec zagranicznego zakładu ubezpieczeń lub zagranicznego zakładu reasekuracji zastosować odpowiednio wszystkie uprawnienia przysługujące mu zgodnie z ustawą w stosunku do krajowych zakładów ubezpieczeń lub krajowych zakładów reasekuracji, z pominięciem trybu, o którym mowa w ust. 2–4. O zastosowanych środkach organ nadzoru informuje właściwy organ nadzorczy innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, w którym zakład ten ma siedzibę.
+4a. W celu niezwłocznego usunięcia lub zapobieżenia wystąpieniu dalszych nieprawidłowości, w pilnym przypadku, organ nadzoru może wobec zagranicznego zakładu ubezpieczeń lub zagranicznego zakładu reasekuracji zastosować odpowiednio wszystkie uprawnienia przysługujące mu zgodnie z ustawą w stosunku do krajowych zakładów ubezpieczeń lub krajowych zakładów reasekuracji, z pominięciem trybu, o którym mowa w ust. 2–4. O zastosowanych środkach organ nadzoru informuje właściwy organ nadzorczy innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, w którym zakład ten ma siedzibę.
 
-5. rgan nadzoru w ramach czynności, o których mowa w ust. 4 pkt 1 i ust. 4a, może również zakazać wykonywania na terytorium Rzeczypospolitej Polskiej działalności przez zagraniczny zakład ubezpieczeń lub zagraniczny zakład reasekuracji.
+5. Organ nadzoru w ramach czynności, o których mowa w ust. 4 pkt 1 i ust. 4a, może również zakazać wykonywania na terytorium Rzeczypospolitej Polskiej działalności przez zagraniczny zakład ubezpieczeń lub zagraniczny zakład reasekuracji.
 
 6. Organ nadzoru informuje Komisję Europejską i EIOPA o przypadkach i powodach zastosowania środków, o których mowa w ust. 4 pkt 1 i ust. 4a.
 
@@ -2774,7 +2927,7 @@ Art. 441–479. (pominięte)
 
 1. Dokument potwierdzający zawarcie umowy ubezpieczenia przez zagraniczny zakład ubezpieczeń z innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej wykonujący na terytorium Rzeczypospolitej Polskiej działalność ubezpieczeniową przez oddział lub w inny sposób niż przez oddział, w ramach swobody świadczenia usług, zawiera informacje dotyczące:
 
-- **1)** adresu siedziby zagranicznego zakładu ubezpieczeń, który udziela ochrony ubezpieczeniowej, a w przypadku zagranicznego zakładu ubezpieczeń wykonującego działalność na terytorium Rzeczypospolitej Polskiej przez oddział – adresu oddziału oraz adresu do doręczeń, jeżeli jest inny niż adres oddziału;
+- **1)** adresu siedziby zagranicznego zakładu ubezpieczeń, który udziela ochrony ubezpieczeniowej, a w przypadku zagranicznego zakładu ubezpieczeń wykonującego działalność na terytorium Rzeczypospolitej Polskiej przez oddział adresu oddziału oraz adresu do doręczeń, jeżeli jest inny niż adres oddziału;
 - **2)** miejsca zawarcia umowy ubezpieczenia;
 - **3)** właściwości sądu, w przypadku sporu między stronami umowy ubezpieczenia;
 - **4)** daty zawarcia umowy ubezpieczenia i terminu jej obowiązywania;
@@ -2788,7 +2941,7 @@ Art. 441–479. (pominięte)
 
 **Art. 216.**
 
-1. Krajowy zakład ubezpieczeń wykonujący działalność na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej informuje organ nadzoru, oddzielnie dla transakcji przeprowadzanych w zakresie działalności oddziału oraz dla transakcji przeprowadzanych w inny sposób niż przez oddział w ramach swobody świadczenia usług, o wysokości składki przypisanej, odszkodowań, świadczeń i prowizji, niepomniejszonych o udział reasekuratorów i spółek celowych, w podziale na państwa członkowskie Unii Europejskiej i linie biznesowe, a także – w odniesieniu do działu II grupy 10 załącznika do ustawy, z wyłączeniem odpowiedzialności cywilnej przewoźnika – o częstotliwości występowania szkód i średniej wysokości odszkodowania.
+1. Krajowy zakład ubezpieczeń wykonujący działalność na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej informuje organ nadzoru, oddzielnie dla transakcji przeprowadzanych w zakresie działalności oddziału oraz dla transakcji przeprowadzanych w inny sposób niż przez oddział w ramach swobody świadczenia usług, o wysokości składki przypisanej, odszkodowań, świadczeń i prowizji, niepomniejszonych o udział reasekuratorów i spółek celowych, w podziale na państwa członkowskie Unii Europejskiej i linie biznesowe, a także w odniesieniu do działu II grupy 10 załącznika do ustawy, z wyłączeniem odpowiedzialności cywilnej przewoźnika o częstotliwości występowania szkód i średniej wysokości odszkodowania.
 
 2. Organ nadzoru przekazuje informacje, o których mowa w ust. 1, na wniosek, organom nadzorczym innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, w którym krajowy zakład ubezpieczeń wykonuje działalność ubezpieczeniową przez oddział lub w inny sposób niż przez oddział w ramach swobody świadczenia usług.
 
@@ -2800,8 +2953,8 @@ Art. 441–479. (pominięte)
 
 - **1)** po otrzymaniu od organu nadzorczego państwa członkowskiego Unii Europejskiej, w którym przejmujący portfel ubezpieczeń zakład ubezpieczeń ma siedzibę, potwierdzenia, że zakład ten po przejęciu portfela ubezpieczeń będzie posiadać dopuszczone środki własne w wysokości nie niższej niż kapitałowy wymóg wypłacalności;
 - **2)** po zasięgnięciu opinii:
-    - **a)** w przypadku ubezpieczeń, o których mowa w dziale I załącznika do ustawy – organu nadzorczego państwa członkowskiego Unii Europejskiej, w którym ubezpieczający ma stałe miejsce zamieszkania lub siedzibę,
-    - **b)** w przypadku ubezpieczeń, o których mowa w dziale II załącznika do ustawy – organu nadzorczego państwa członkowskiego Unii Europejskiej umiejscowienia ryzyka.
+    - **a)** w przypadku ubezpieczeń, o których mowa w dziale I załącznika do ustawy organu nadzorczego państwa członkowskiego Unii Europejskiej, w którym ubezpieczający ma stałe miejsce zamieszkania lub siedzibę,
+    - **b)** w przypadku ubezpieczeń, o których mowa w dziale II załącznika do ustawy organu nadzorczego państwa członkowskiego Unii Europejskiej umiejscowienia ryzyka.
 
 **Art. 218.**
 
@@ -2862,7 +3015,7 @@ Art. 441–479. (pominięte)
 
 - **1)** ogólny opis sposobu głosowania;
 - **2)** opis najważniejszych głosowań;
-- **3)** opis sposobu korzystania z usług doradcy akcjonariusza do spraw głosowania, o którym mowa w art. 4 § 1 pkt 16 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych.
+- **3)** opis sposobu korzystania z usług doradcy akcjonariusza do spraw głosowania, o którym mowa w art. 4 § 1 pkt 16 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych.
 
 4. W przypadku gdy zakład ubezpieczeń lub zakład reasekuracji nie opracowują lub nie publikują polityki, o której mowa w ust. 1, lub sprawozdania, o którym mowa w ust. 3, publikują wyjaśnienie powodów ich nieopracowania lub nieopublikowania.
 
@@ -2880,7 +3033,7 @@ Art. 441–479. (pominięte)
 
 - **1)** firma inwestycyjna lub towarzystwo funduszy inwestycyjnych, w ramach świadczenia na rzecz zakładu ubezpieczeń lub zakładu reasekuracji usługi zarządzania portfelem, w skład którego wchodzi jeden lub większa liczba instrumentów finansowych, lokują, na podstawie ustaleń z tym zakładem ubezpieczeń lub zakładem reasekuracji i w jego imieniu, aktywa tego zakładu ubezpieczeń lub zakładu reasekuracji w dopuszczone do obrotu na rynku regulowanym akcje spółek,
 - **2)** towarzystwo funduszy inwestycyjnych zarządzające funduszem inwestycyjnym, który, na podstawie ustaleń z zakładem ubezpieczeń lub zakładem reasekuracji, lokuje swoje aktywa w dopuszczone do obrotu na rynku regulowanym akcje spółek, i którego jednostki uczestnictwa lub certyfikaty inwestycyjne posiada zakład ubezpieczeń lub zakład reasekuracji,
-- **3)** zarządzający ASI w rozumieniu ustawy o funduszach inwestycyjnych zarządzający alternatywną spółką inwestycyjną w rozumieniu ustawy o funduszach inwestycyjnych, która, na podstawie ustaleń z zakładem ubezpieczeń lub zakładem reasekuracji, lokuje swoje aktywa w dopuszczone do obrotu na rynku regulowanym akcje spółek, i której prawa uczestnictwa w rozumieniu ustawy o funduszach inwestycyjnych posiada zakład ubezpieczeń lub zakład reasekuracji – zakład ubezpieczeń lub zakład reasekuracji publikują informacje dotyczące tych ustaleń.
+- **3)** zarządzający ASI w rozumieniu ustawy o funduszach inwestycyjnych zarządzający alternatywną spółką inwestycyjną w rozumieniu ustawy o funduszach inwestycyjnych, która, na podstawie ustaleń z zakładem ubezpieczeń lub zakładem reasekuracji, lokuje swoje aktywa w dopuszczone do obrotu na rynku regulowanym akcje spółek, i której prawa uczestnictwa w rozumieniu ustawy o funduszach inwestycyjnych posiada zakład ubezpieczeń lub zakład reasekuracji zakład ubezpieczeń lub zakład reasekuracji publikują informacje dotyczące tych ustaleń.
 
 3. W informacjach dotyczących ustaleń, o których mowa w ust. 2, zakład ubezpieczeń lub zakład reasekuracji w szczególności wskazują:
 
@@ -2994,8 +3147,8 @@ Art. 441–479. (pominięte)
     - **a)** spreadu kredytowego odpowiadającego prawdopodobieństwu niewykonania zobowiązania przez emitenta aktywów,
     - **b)** spreadu kredytowego odpowiadającego oczekiwanej stracie wynikającej z obniżenia jakości kredytowej aktywów;
 
-- **2)** w przypadku ekspozycji wobec rządów centralnych lub banków centralnych państw członkowskich Unii Europejskiej – nie może być niższy niż 30 % długoterminowej średniej wartości spreadu ponad stopę procentową wolną od ryzyka aktywów o takim samym czasie trwania, takiej samej jakości kredytowej i takiej samej klasie, obserwowanych na rynkach finansowych;
-- **3)** w przypadku ekspozycji innej niż wobec rządów centralnych lub banków centralnych państw członkowskich Unii Europejskiej – nie może być niższy niż 35 % długoterminowej średniej wartości spreadu ponad stopę procentową wolną od ryzyka aktywów o takim samym czasie trwania, takiej samej jakości kredytowej i takiej samej klasie, obserwowanych na rynkach finansowych.
+- **2)** w przypadku ekspozycji wobec rządów centralnych lub banków centralnych państw członkowskich Unii Europejskiej nie może być niższy niż 30 % długoterminowej średniej wartości spreadu ponad stopę procentową wolną od ryzyka aktywów o takim samym czasie trwania, takiej samej jakości kredytowej i takiej samej klasie, obserwowanych na rynkach finansowych;
+- **3)** w przypadku ekspozycji innej niż wobec rządów centralnych lub banków centralnych państw członkowskich Unii Europejskiej nie może być niższy niż 35 % długoterminowej średniej wartości spreadu ponad stopę procentową wolną od ryzyka aktywów o takim samym czasie trwania, takiej samej jakości kredytowej i takiej samej klasie, obserwowanych na rynkach finansowych.
 
 3. Prawdopodobieństwo niewykonania zobowiązania przez emitenta aktywów, o którym mowa w ust. 2 pkt 1 lit. a, ustala się w oparciu o długoterminowe statystyki przypadków niewykonania zobowiązań przez emitenta aktywów, które są odpowiednie dla aktywów pod względem czasu trwania aktywów, jakości kredytowej i klasy aktywów.
 
@@ -3042,11 +3195,11 @@ Art. 441–479. (pominięte)
 
 - **1)** odpowiedniej struktury terminowej stopy procentowej wolnej od ryzyka stosowanej przy obliczaniu najlepszego oszacowania, bez uwzględnienia korekty dopasowującej do odpowiedniej struktury terminowej stopy procentowej wolnej od ryzyka i korekty z tytułu zmienności do odpowiedniej struktury terminowej stopy procentowej wolnej od ryzyka,
 - **2)** spreadu bazowego służącego do obliczania korekty dopasowującej do odpowiedniej struktury terminowej stopy procentowej wolnej od ryzyka, o którym mowa w art. 228 ust. 1 pkt 2, dla każdego odpowiedniego czasu trwania, jakości kredytowej i klasy aktywów,
-- **3)** korekty z tytułu zmienności do odpowiedniej struktury terminowej stopy procentowej wolnej od ryzyka dla każdego odpowiedniego krajowego rynku ubezpieczeń – oraz wydania przez Komisję Europejską aktów wykonawczych na podstawie art. 77e ust. 2 dyrektywy 2009/138/WE, określających dane i informacje w zakresie określonym w pkt 1–3, zakład ubezpieczeń i zakład reasekuracji przy obliczaniu najlepszego oszacowania, korekty dopasowującej do odpowiedniej struktury terminowej stopy procentowej wolnej od ryzyka i korekty z tytułu zmienności do odpowiedniej struktury terminowej stopy procentowej wolnej od ryzyka stosują dane i informacje techniczne wskazane w tych aktach wykonawczych, a w zakresie nieobjętym tymi aktami wykonawczymi – dane i informacje techniczne opracowane i publikowane przez EIOPA.
+- **3)** korekty z tytułu zmienności do odpowiedniej struktury terminowej stopy procentowej wolnej od ryzyka dla każdego odpowiedniego krajowego rynku ubezpieczeń oraz wydania przez Komisję Europejską aktów wykonawczych na podstawie art. 77e ust. 2 dyrektywy 2009/138/WE, określających dane i informacje w zakresie określonym w pkt 1–3, zakład ubezpieczeń i zakład reasekuracji przy obliczaniu najlepszego oszacowania, korekty dopasowującej do odpowiedniej struktury terminowej stopy procentowej wolnej od ryzyka i korekty z tytułu zmienności do odpowiedniej struktury terminowej stopy procentowej wolnej od ryzyka stosują dane i informacje techniczne wskazane w tych aktach wykonawczych, a w zakresie nieobjętym tymi aktami wykonawczymi dane i informacje techniczne opracowane i publikowane przez EIOPA.
 
 2. W przypadku wydania przez Komisję Europejską aktów wykonawczych na podstawie art. 77e ust. 2 dyrektywy 2009/138/WE, określających dane i informacje w zakresie określonym w ust. 1 pkt 1–3, jeżeli nie zostały opracowane i opublikowane przez EIOPA, na podstawie art. 77e ust. 1 dyrektywy 2009/138/WE, dane i informacje techniczne w zakresie określonym w ust. 1 pkt 1–3, zakład ubezpieczeń i zakład reasekuracji przy obliczaniu najlepszego oszacowania, korekty dopasowującej do odpowiedniej struktury terminowej stopy procentowej wolnej od ryzyka i korekty z tytułu zmienności do odpowiedniej struktury terminowej stopy procentowej wolnej od ryzyka stosują dane i informacje techniczne wskazane w tych aktach wykonawczych.
 
-3. W przypadku opracowania i opublikowania przez EIOPA, na podstawie art. 77e ust. 1 dyrektywy 2009/138/WE, danych i informacji technicznych w zakresie określonym w ust. 1 pkt 1–3, jeżeli nie zostały wydane przez Komisję Europejską akty wykonawcze na podstawie art. 77e ust. 2 dyrektywy 2009/138/WE, określające dane i informacje w zakresie określonym w ust. 1 pkt 1– 3, zakład ubezpieczeń i zakład reasekuracji przy obliczaniu najlepszego oszacowania, korekty dopasowującej do odpowiedniej struktury terminowej stopy procentowej wolnej od ryzyka i korekty z tytułu zmienności do odpowiedniej struktury terminowej stopy procentowej wolnej od ryzyka stosują dane i informacje techniczne opracowane i opublikowane przez EIOPA.
+3. W przypadku opracowania i opublikowania przez EIOPA, na podstawie art. 77e ust. 1 dyrektywy 2009/138/WE, danych i informacji technicznych w zakresie określonym w ust. 1 pkt 1–3, jeżeli nie zostały wydane przez Komisję Europejską akty wykonawcze na podstawie art. 77e ust. 2 dyrektywy 2009/138/WE, określające dane i informacje w zakresie określonym w ust. 1 pkt 1–3, zakład ubezpieczeń i zakład reasekuracji przy obliczaniu najlepszego oszacowania, korekty dopasowującej do odpowiedniej struktury terminowej stopy procentowej wolnej od ryzyka i korekty z tytułu zmienności do odpowiedniej struktury terminowej stopy procentowej wolnej od ryzyka stosują dane i informacje techniczne opracowane i opublikowane przez EIOPA.
 
 4. W przypadku gdy w aktach wykonawczych albo w danych i informacjach technicznych opracowanych i opublikowanych przez EIOPA, o których mowa w ust. 1, nie zostaną określone dane i informacje techniczne, o których mowa w ust. 1 pkt 3, przy obliczaniu najlepszego oszacowania zakład ubezpieczeń i zakład reasekuracji nie stosują korekty z tytułu zmienności do odpowiedniej struktury terminowej stopy procentowej wolnej od ryzyka.
 
@@ -3161,8 +3314,8 @@ Art. 441–479. (pominięte)
 
 1. Za fundusze nadwyżkowe uznaje się:
 
-- **1)** w przypadku zakładu ubezpieczeń – skumulowane niepodzielone zyski zakładu, które zgodnie ze statutem mogą zostać w pełni lub częściowo, dodatkowo w stosunku do podziału zysku uwzględnionego w rezerwach techniczno-ubezpieczeniowych dla celów wypłacalności, przeznaczone do podziału między ubezpieczających, ubezpieczonych i uprawnionych z umów ubezpieczenia oraz cedentów z umów reasekuracji, i które jeszcze nie zostały podzielone;
-- **2)** w przypadku zakładu reasekuracji – skumulowane niepodzielone zyski zakładu, które zgodnie ze statutem mogą zostać w pełni lub częściowo, dodatkowo w stosunku do podziału zysku uwzględnionego w rezerwach techniczno-ubezpieczeniowych dla celów wypłacalności, przeznaczone do podziału pomiędzy cedentów z umów reasekuracji, i które jeszcze nie zostały podzielone.
+- **1)** w przypadku zakładu ubezpieczeń skumulowane niepodzielone zyski zakładu, które zgodnie ze statutem mogą zostać w pełni lub częściowo, dodatkowo w stosunku do podziału zysku uwzględnionego w rezerwach techniczno-ubezpieczeniowych dla celów wypłacalności, przeznaczone do podziału między ubezpieczających, ubezpieczonych i uprawnionych z umów ubezpieczenia oraz cedentów z umów reasekuracji, i które jeszcze nie zostały podzielone;
+- **2)** w przypadku zakładu reasekuracji skumulowane niepodzielone zyski zakładu, które zgodnie ze statutem mogą zostać w pełni lub częściowo, dodatkowo w stosunku do podziału zysku uwzględnionego w rezerwach techniczno-ubezpieczeniowych dla celów wypłacalności, przeznaczone do podziału pomiędzy cedentów z umów reasekuracji, i które jeszcze nie zostały podzielone.
 
 2. Fundusze nadwyżkowe nie są uznawane za zobowiązania z tytułu zawartych umów ubezpieczenia lub z tytułu zawartych umów reasekuracji w zakresie, w jakim posiadają one cechy jakościowe, o których mowa w art. 245 ust. 2 i 3.
 
@@ -3177,7 +3330,7 @@ Art. 441–479. (pominięte)
 
 3. Przy ocenie stopnia, w jakim pozycje środków własnych posiadają cechy jakościowe określone w ust. 2, zakład ubezpieczeń i zakład reasekuracji biorą również pod uwagę następujące czynniki:
 
-- **1)** dopasowanie okresu trwania pozycji do okresu trwania zobowiązań z tytułu zawartych umów ubezpieczenia lub umów reasekuracji – jeżeli pozycja posiada termin wymagalności;
+- **1)** dopasowanie okresu trwania pozycji do okresu trwania zobowiązań z tytułu zawartych umów ubezpieczenia lub umów reasekuracji jeżeli pozycja posiada termin wymagalności;
 - **2)** czy pozycja jest wolna od wymogów lub bodźców do wykupu kwoty nominalnej;
 - **3)** czy pozycja jest wolna od obowiązkowych ustalonych opłat;
 - **4)** czy pozycja jest wolna od obciążeń i jak jest powiązana z inną umową.
@@ -3203,9 +3356,7 @@ Art. 441–479. (pominięte)
 1. Zakład ubezpieczeń i zakład reasekuracji klasyfikują:
 
 - **1)** fundusze nadwyżkowe, o których mowa w art. 244, do kategorii 1;
-- **2)** akredytywy i gwarancje zarządzane powierniczo na zlecenie wierzycieli ubezpieczeniowych przez niezależnego powiernika i wystawione przez instytucje kredytowe z siedzibą na terytorium Unii Europejskiej do kategorii
-
-2.
+- **2)** akredytywy i gwarancje zarządzane powierniczo na zlecenie wierzycieli ubezpieczeniowych przez niezależnego powiernika i wystawione przez instytucje kredytowe z siedzibą na terytorium Unii Europejskiej do kategorii 2.
 
 2. Towarzystwo ubezpieczeń wzajemnych, którego członkami są armatorzy, wykonujące działalność ubezpieczeniową wyłącznie w zakresie ubezpieczeń, o których mowa w dziale II w grupach 6, 12 i 17 załącznika do ustawy, klasyfikuje przyszłe należności towarzystwa od jego członków wynikające z możliwości wezwania do wniesienia dopłat, których towarzystwo może zażądać na podstawie statutu w ciągu kolejnych 12 miesięcy, do kategorii 2.
 
@@ -3213,7 +3364,7 @@ Art. 441–479. (pominięte)
 
 **Art. 247a.**
 
-1. Zaciągnięcie pożyczki podporządkowanej w celu jej zakwalifikowania do środków własnych jako pozycji środków własnych kategorii 1, kategorii 2 albo kategorii 3 wymaga uchwały zarządu zakładu ubezpieczeń albo zarządu zakładu reasekuracji oraz zgody rady nadzorczej zakładu ubezpieczeń albo zakładu reasekuracji, a w przypadku zakładu ubezpieczeń i zakładu reasekuracji wykonującego działalność w formie spółki europejskiej, w której przyjęto system monistyczny – uchwały rady administrującej.
+1. Zaciągnięcie pożyczki podporządkowanej w celu jej zakwalifikowania do środków własnych jako pozycji środków własnych kategorii 1, kategorii 2 albo kategorii 3 wymaga uchwały zarządu zakładu ubezpieczeń albo zarządu zakładu reasekuracji oraz zgody rady nadzorczej zakładu ubezpieczeń albo zakładu reasekuracji, a w przypadku zakładu ubezpieczeń i zakładu reasekuracji wykonującego działalność w formie spółki europejskiej, w której przyjęto system monistyczny uchwały rady administrującej.
 
 2. Przedmiotem umowy pożyczki podporządkowanej, o której mowa w ust. 1, mogą być środki pieniężne w wysokości nie niższej niż 400 000 zł lub równowartość tej kwoty wyrażona w innej walucie, ustalona przy zastosowaniu średniego kursu tej waluty ogłaszanego przez Narodowy Bank Polski w dniu podjęcia uchwały, o której mowa w ust. 1.
 
@@ -3225,7 +3376,7 @@ Art. 441–479. (pominięte)
 
 3. Udzielającemu pożyczki podporządkowanej nie przysługuje prawo wypowiedzenia umowy pożyczki podporządkowanej ani odstąpienia od takiej umowy.
 
-4. Umowa pożyczki podporządkowanej uprawnia udzielającego pożyczki podporządkowanej do otrzymywania przez czas nieoznaczony odsetek od kwoty udzielonej pożyczki podporządkowanej. Przepisów art. 359 § 2 –2 , art. 365 i art. 395 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny nie stosuje się.
+4. Umowa pożyczki podporządkowanej uprawnia udzielającego pożyczki podporządkowanej do otrzymywania przez czas nieoznaczony odsetek od kwoty udzielonej pożyczki podporządkowanej. Przepisów art. 359 § 2 –2 , art. 365 i art. 395 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny nie stosuje się.
 
 5. Wierzytelność wynikająca z umowy pożyczki podporządkowanej może być przedmiotem przeniesienia wyłącznie między podmiotami wymienionymi w art. 3 pkt 39b lit. a–m ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
 
@@ -3301,6 +3452,10 @@ Art. 441–479. (pominięte)
 6. Przepisy art. 237 ust. 4 i 5 stosuje się odpowiednio.
 
 **Art. 251.** Kapitałowy wymóg wypłacalności obliczany według formuły standardowej stanowi sumę:
+
+- **1)** podstawowego kapitałowego wymogu wypłacalności;
+- **2)** wymogu kapitałowego dla ryzyka operacyjnego;
+- **3)** dostosowania z tytułu zdolności rezerw techniczno-ubezpieczeniowych dla celów wypłacalności i odroczonego podatku dochodowego do pokrywania strat.
 
 **Art. 252.**
 
@@ -3399,7 +3554,7 @@ Art. 441–479. (pominięte)
 2. Dokonując oceny wniosku o zatwierdzenie częściowego modelu wewnętrznego stosowanego do obliczania kapitałowego wymogu wypłacalności, obejmującego:
 
 - **1)** niektóre podmoduły określonego modułu ryzyka lub
-- **2)** niektóre obszary działalności zakładu ubezpieczeń lub zakładu reasekuracji w odniesieniu do określonego modułu ryzyka – organ nadzoru może zażądać od zakładu ubezpieczeń lub zakładu reasekuracji przedstawienia realistycznego planu przejściowego w celu rozszerzenia zakresu stosowanego modelu wewnętrznego.
+- **2)** niektóre obszary działalności zakładu ubezpieczeń lub zakładu reasekuracji w odniesieniu do określonego modułu ryzyka organ nadzoru może zażądać od zakładu ubezpieczeń lub zakładu reasekuracji przedstawienia realistycznego planu przejściowego w celu rozszerzenia zakresu stosowanego modelu wewnętrznego.
 
 3. Plan przejściowy, o którym mowa w ust. 2, określa planowany sposób rozszerzenia przez zakład ubezpieczeń lub zakład reasekuracji zakresu modelu wewnętrznego na inne podmoduły ryzyka lub inne obszary działalności, tak aby zapewnić objęcie przez model wewnętrzny przeważającej części działalności ubezpieczeniowej lub działalności reasekuracyjnej w odniesieniu do określonego modułu ryzyka.
 
@@ -3534,7 +3689,7 @@ Art. 441–479. (pominięte)
 
 1. Zakład ubezpieczeń i zakład reasekuracji obliczają minimalny wymóg kapitałowy w sposób zrozumiały, prosty i zapewniający możliwość dokonania kontroli obliczeń.
 
-2. Minimalny wymóg kapitałowy odpowiada kwocie dopuszczonych podstawowych środków własnych, poniżej której – przy założeniu kontynuacji wykonywania działalności przez zakład ubezpieczeń lub zakład reasekuracji – ubezpieczający, ubezpieczeni lub uprawnieni z umów ubezpieczenia oraz cedenci z umów reasekuracji mogliby być narażeni na niedopuszczalny poziom ryzyka.
+2. Minimalny wymóg kapitałowy odpowiada kwocie dopuszczonych podstawowych środków własnych, poniżej której przy założeniu kontynuacji wykonywania działalności przez zakład ubezpieczeń lub zakład reasekuracji ubezpieczający, ubezpieczeni lub uprawnieni z umów ubezpieczenia oraz cedenci z umów reasekuracji mogliby być narażeni na niedopuszczalny poziom ryzyka.
 
 3. Minimalny wymóg kapitałowy zakładu ubezpieczeń i zakładu reasekuracji jest wyznaczany jako funkcja liniowa zbioru lub podzbioru następujących zmiennych:
 
@@ -3552,9 +3707,9 @@ Art. 441–479. (pominięte)
 
 1. Nieprzekraczalny dolny próg minimalnego wymogu kapitałowego jest równy obowiązującym wartościom odpowiednich kwot bazowych, nie niższym od:
 
-- **1)** równowartości w złotych 2 500 000 euro – dla zakładów ubezpieczeń wykonujących działalność wyłącznie w zakresie ryzyk, o których mowa w dziale II w grupach 1–9 oraz 16–18 załącznika do ustawy;
-- **2)** równowartości w złotych 3 700 000 euro – dla zakładów ubezpieczeń wykonujących działalność w zakresie ubezpieczeń, o których mowa w dziale II załącznika do ustawy, jeżeli zakład ubezpieczeń wykonuje działalność w zakresie ryzyk, z których przynajmniej jedno ryzyko jest ryzykiem, o którym mowa w dziale II w grupach 10–15 załącznika do ustawy;
-- **3)** równowartości w złotych 3 700 000 euro – dla zakładów ubezpieczeń wykonujących działalność w zakresie ubezpieczeń, o których mowa w dziale I załącznika do ustawy;
+- **1)** równowartości w złotych 2 500 000 euro dla zakładów ubezpieczeń wykonujących działalność wyłącznie w zakresie ryzyk, o których mowa w dziale II w grupach 1–9 oraz 16–18 załącznika do ustawy;
+- **2)** równowartości w złotych 3 700 000 euro dla zakładów ubezpieczeń wykonujących działalność w zakresie ubezpieczeń, o których mowa w dziale II załącznika do ustawy, jeżeli zakład ubezpieczeń wykonuje działalność w zakresie ryzyk, z których przynajmniej jedno ryzyko jest ryzykiem, o którym mowa w dziale II w grupach 10–15 załącznika do ustawy;
+- **3)** równowartości w złotych 3 700 000 euro dla zakładów ubezpieczeń wykonujących działalność w zakresie ubezpieczeń, o których mowa w dziale I załącznika do ustawy;
 - **4)** równowartości w złotych 3 600 000 euro ‒ dla zakładów reasekuracji innych niż wewnętrzne zakłady reasekuracji;
 - **5)** równowartości w złotych 1 200 000 euro ‒ dla wewnętrznych zakładów reasekuracji.
 
@@ -3562,8 +3717,8 @@ Art. 441–479. (pominięte)
 
 3. Jeżeli procentowy wzrost zharmonizowanego europejskiego indeksu cen konsumpcyjnych w okresie od dnia ostatniej zmiany do dnia przeglądu:
 
-- **1)** wynosi co najmniej 5 % – nowe obowiązujące wartości tych kwot są ustalane przez zwiększenie bazowych wartości kwot o procentową wielkość zmiany zharmonizowanego europejskiego indeksu cen konsumpcyjnych wszystkich państw członkowskich Unii Europejskiej w okresie od dnia 31 grudnia 2015 r. do dnia przeglądu, z zaokrągleniem w górę do wielokrotności 100 000 euro;
-- **2)** jest mniejszy niż 5 % – obowiązujące wartości tych kwot nie ulegają zmianie.
+- **1)** wynosi co najmniej 5 % nowe obowiązujące wartości tych kwot są ustalane przez zwiększenie bazowych wartości kwot o procentową wielkość zmiany zharmonizowanego europejskiego indeksu cen konsumpcyjnych wszystkich państw członkowskich Unii Europejskiej w okresie od dnia 31 grudnia 2015 r. do dnia przeglądu, z zaokrągleniem w górę do wielokrotności 100 000 euro;
+- **2)** jest mniejszy niż 5 % obowiązujące wartości tych kwot nie ulegają zmianie.
 
 4. Obowiązujące wartości kwot bazowych organ nadzoru ogłasza co 5 lat w Dzienniku Urzędowym Komisji Nadzoru Finansowego, w terminie 12 miesięcy od dnia ich opublikowania przez Komisję Europejską w Dzienniku Urzędowym Unii Europejskiej.
 
@@ -3808,7 +3963,7 @@ Art. 441–479. (pominięte)
 
 **Art. 292.** Połączenie zakładów ubezpieczeń albo zakładów reasekuracji może nastąpić, jeżeli wykonują one działalność w takiej samej formie organizacyjnej.
 
-**Art. 293.** Do łączenia się zakładów ubezpieczeń albo zakładów reasekuracji stosuje się przepisy ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych o łączeniu się spółek kapitałowych, z uwzględnieniem przepisów ustawy. W przypadku towarzystw przepisy te stosuje się odpowiednio.
+**Art. 293.** Do łączenia się zakładów ubezpieczeń albo zakładów reasekuracji stosuje się przepisy ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych o łączeniu się spółek kapitałowych, z uwzględnieniem przepisów ustawy. W przypadku towarzystw przepisy te stosuje się odpowiednio.
 
 **Art. 294.**
 
@@ -3823,7 +3978,7 @@ Art. 441–479. (pominięte)
 
 1. Łączące się zakłady ubezpieczeń oraz łączące się zakłady reasekuracji uzgadniają na piśmie plan połączenia zakładów.
 
-2. Plan połączenia zakładów ubezpieczeń albo zakładów reasekuracji, oprócz danych określonych w ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych, zawiera:
+2. Plan połączenia zakładów ubezpieczeń albo zakładów reasekuracji, oprócz danych określonych w ustawie z dnia 15 września 2000 r. Kodeks spółek handlowych, zawiera:
 
 - **1)** w przypadku zakładu ubezpieczeń ‒ grupy ubezpieczeń, w zakresie których zakład ubezpieczeń przejmujący lub nowo zawiązany będzie wykonywać działalność, a w przypadku zakładu reasekuracji ‒ rodzaj lub rodzaje reasekuracji, w zakresie których zakład reasekuracji przejmujący lub nowo zawiązany będzie wykonywać działalność;
 - **2)** imiona i nazwiska osób, które będą pełniły kluczowe funkcje w zakładzie przejmującym lub nowo zawiązanym;
@@ -3900,6 +4055,10 @@ Art. 441–479. (pominięte)
 
 **Art. 302.** Organ nadzoru zatwierdza, w drodze decyzji, przeniesienie portfela ubezpieczeń, jeżeli są spełnione następujące warunki:
 
+- **1)** wniosek o zatwierdzenie przeniesienia portfela ubezpieczeń spełnia warunki określone w art. 301;
+- **2)** zakłady ubezpieczeń przekazujący i przejmujący portfel ubezpieczeń spełniają warunki określone w art. 299;
+- **3)** interesy ubezpieczających, ubezpieczonych i uprawnionych z umów ubezpieczenia są należycie zabezpieczone.
+
 **Art. 303.** W przypadku gdy przeniesienie portfela ubezpieczeń obejmuje przeniesienie umów ubezpieczenia, w których ryzyko umiejscowione jest w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej umiejscowienia ryzyka, przeniesienie portfela ubezpieczeń jest uzależnione od uzyskania przez organ nadzoru pozytywnej opinii organu nadzorczego państwa członkowskiego Unii Europejskiej umiejscowienia ryzyka. Brak opinii w terminie 3 miesięcy od dnia otrzymania zapytania organu nadzoru uznaje się za pozytywną opinię organu nadzorczego państwa członkowskiego Unii Europejskiej umiejscowienia ryzyka.
 
 **Art. 304.**
@@ -3938,6 +4097,10 @@ Art. 441–479. (pominięte)
 
 **Art. 308.** Organ nadzoru zatwierdza, w drodze decyzji, przeniesienie portfela reasekuracji, jeżeli są spełnione następujące warunki:
 
+- **1)** wniosek o zatwierdzenie przeniesienia portfela reasekuracji spełnia warunki określone w art. 307;
+- **2)** zakład ubezpieczeń albo zakład reasekuracji przekazujący oraz zakład ubezpieczeń albo zakład reasekuracji przejmujący portfel reasekuracji spełniają warunki określone w art. 306;
+- **3)** interesy ubezpieczających, ubezpieczonych i uprawnionych z umów ubezpieczenia podlegających reasekuracji oraz cedentów są należycie zabezpieczone.
+
 **Art. 309.**
 
 1. Wraz z przeniesieniem portfela reasekuracji następuje przeniesienie aktywów zakładu ubezpieczeń albo zakładu reasekuracji przekazującego do zakładu ubezpieczeń albo zakładu reasekuracji przejmującego w wysokości rezerw techniczno-ubezpieczeniowych dla celów wypłacalności, ustalonej dla przenoszonego portfela reasekuracji.
@@ -3953,7 +4116,7 @@ Art. 441–479. (pominięte)
 1. Jeżeli zakład ubezpieczeń i zakład reasekuracji nie przestrzegają przepisów art. 224–237, organ nadzoru może, w drodze decyzji, zakazać:
 
 - **1)** swobodnego rozporządzania aktywami, wskazując zakres zakazu,
-- **2)** dokonywania wypłat z zysku – po uprzednim zawiadomieniu organów nadzorczych przyjmujących państw członkowskich Unii Europejskiej.
+- **2)** dokonywania wypłat z zysku po uprzednim zawiadomieniu organów nadzorczych przyjmujących państw członkowskich Unii Europejskiej.
 
 2. Organ nadzoru wskazuje aktywa obejmowane zakazem, o którym mowa w ust. 1 pkt 1.
 
@@ -4019,7 +4182,7 @@ Art. 441–479. (pominięte)
 - **8)** oszacowanie i wskazanie źródeł finansowania środków niezbędnych do pokrycia rezerw techniczno-ubezpieczeniowych dla celów wypłacalności, dopuszczonych środków własnych w wysokości kapitałowego wymogu wypłacalności oraz podstawowych dopuszczonych środków własnych w wysokości minimalnego wymogu kapitałowego;
 - **9)** obliczenie kapitałowego wymogu wypłacalności oraz wysokości dopuszczonych środków własnych stanowiących pokrycie kapitałowego wymogu wypłacalności;
 - **10)** obliczenie minimalnego wymogu kapitałowego oraz wysokości dopuszczonych podstawowych środków własnych stanowiących pokrycie minimalnego wymogu kapitałowego;
-- **11)** w przypadku zakładu ubezpieczeń – informacje dotyczące programu reasekuracji, określające program i zakres reasekuracji oraz reasekuratorów, a w przypadku zakładu reasekuracji – informacje dotyczące programu retrocesji, określające formę i zakres retrocesji oraz retrocesjonariuszy.
+- **11)** w przypadku zakładu ubezpieczeń informacje dotyczące programu reasekuracji, określające program i zakres reasekuracji oraz reasekuratorów, a w przypadku zakładu reasekuracji informacje dotyczące programu retrocesji, określające formę i zakres retrocesji oraz retrocesjonariuszy.
 
 2. Jeżeli sytuacja finansowa zakładu ubezpieczeń lub zakładu reasekuracji w zakresie wypłacalności ulegnie dalszemu pogorszeniu, organ nadzoru może podjąć przewidziane w ustawie konieczne środki mające na celu ochronę interesów ubezpieczających, ubezpieczonych i uprawnionych z umów ubezpieczenia oraz ochronę zobowiązań wynikających z umów reasekuracji. Podjęte środki są proporcjonalne do skali i czasu trwania pogorszonej sytuacji finansowej w zakresie wypłacalności danego zakładu.
 
@@ -4036,18 +4199,18 @@ Art. 441–479. (pominięte)
 
 4. Kuratorowi przysługuje prawo wniesienia sprzeciwu wobec uchwał i decyzji zarządu i rady nadzorczej zakładu ubezpieczeń lub zakładu reasekuracji do właściwego sądu gospodarczego w terminie 14 dni od dnia ich podjęcia. Wniesienie sprzeciwu wstrzymuje wykonanie uchwały lub decyzji.
 
-5. Kurator zakładu ubezpieczeń, w terminie określonym w art. 424 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, może zaskarżyć uchwałę walnego zgromadzenia akcjonariuszy lub uchwałę walnego zgromadzenia członków, która narusza interesy:
+5. Kurator zakładu ubezpieczeń, w terminie określonym w art. 424 § 1 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych, może zaskarżyć uchwałę walnego zgromadzenia akcjonariuszy lub uchwałę walnego zgromadzenia członków, która narusza interesy:
 
 - **1)** zakładu ubezpieczeń;
 - **2)** ubezpieczających, ubezpieczonych lub uprawnionych z umów ubezpieczenia.
 
-6. Kurator zakładu reasekuracji, w terminie określonym w art. 424 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, może zaskarżyć uchwałę walnego zgromadzenia akcjonariuszy lub uchwałę walnego zgromadzenia członków, która narusza interesy:
+6. Kurator zakładu reasekuracji, w terminie określonym w art. 424 § 1 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych, może zaskarżyć uchwałę walnego zgromadzenia akcjonariuszy lub uchwałę walnego zgromadzenia członków, która narusza interesy:
 
 - **1)** zakładu reasekuracji;
 - **2)** ubezpieczających, ubezpieczonych lub uprawnionych z umów ubezpieczenia podlegających reasekuracji;
 - **3)** cedentów.
 
-7. Decyzja organu nadzoru o ustanowieniu kuratora jest natychmiast wykonalna. Na decyzję o ustanowieniu kuratora zakład ubezpieczeń i zakład reasekuracji może wnieść skargę do sądu administracyjnego w terminie 7 dni od dnia doręczenia decyzji. Wniesienie skargi nie wstrzymuje wykonania tej decyzji. Przepisu art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769) nie stosuje się.
+7. Decyzja organu nadzoru o ustanowieniu kuratora jest natychmiast wykonalna. Na decyzję o ustanowieniu kuratora zakład ubezpieczeń i zakład reasekuracji może wnieść skargę do sądu administracyjnego w terminie 7 dni od dnia doręczenia decyzji. Wniesienie skargi nie wstrzymuje wykonania tej decyzji. Przepisu art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769) nie stosuje się.
 
 8. Funkcję kuratora zakładu ubezpieczeń może pełnić osoba fizyczna posiadająca co najmniej 10-letnie doświadczenie zawodowe w zakresie organizacji i zasad działalności zakładu ubezpieczeń. Kuratorem może być również osoba prawna, w której co najmniej połowa członków organu zarządzającego spełnia ten warunek.
 
@@ -4073,7 +4236,7 @@ Art. 441–479. (pominięte)
 
 4. Decyzja o ustanowieniu zarządu komisarycznego jest natychmiast wykonalna.
 
-5. Rada nadzorcza zakładu ubezpieczeń lub zakładu reasekuracji może złożyć wniosek o ponowne rozpatrzenie sprawy, a w przypadku utrzymania decyzji w mocy – wnieść skargę do sądu administracyjnego na decyzję o ustanowieniu zarządu komisarycznego.
+5. Rada nadzorcza zakładu ubezpieczeń lub zakładu reasekuracji może złożyć wniosek o ponowne rozpatrzenie sprawy, a w przypadku utrzymania decyzji w mocy wnieść skargę do sądu administracyjnego na decyzję o ustanowieniu zarządu komisarycznego.
 
 6. Ustanowienie zarządu komisarycznego podlega zgłoszeniu do Krajowego Rejestru Sądowego. Zgłoszenia dokonuje zarząd komisaryczny w dniu jego ustanowienia.
 
@@ -4099,11 +4262,14 @@ Art. 441–479. (pominięte)
 
 15. Wynagrodzenie członków zarządu komisarycznego nie może być wyższe niż wynagrodzenie członków dotychczasowego zarządu zakładu ubezpieczeń lub zakładu reasekuracji. Koszty zarządu komisarycznego obciążają zakład ubezpieczeń lub zakład reasekuracji.
 
-16. Członkowi zarządu komisarycznego w przypadku złożenia wniosku zgodnie z art. 174 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy udziela się urlopu bezpłatnego na okres pełnienia tej funkcji. Okres urlopu bezpłatnego jest wliczany do okresu pracy, od którego zależy nabycie uprawnień pracowniczych.
+16. Członkowi zarządu komisarycznego w przypadku złożenia wniosku zgodnie z art. 174 § 1 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy udziela się urlopu bezpłatnego na okres pełnienia tej funkcji. Okres urlopu bezpłatnego jest wliczany do okresu pracy, od którego zależy nabycie uprawnień pracowniczych.
 
 **Art. 317.** W przypadku wydania przez organ nadzoru decyzji o zatwierdzeniu planu naprawczego, ustanowieniu kuratora albo ustanowieniu zarządu komisarycznego, organ nadzoru ogłasza tę decyzję. Organ nadzoru ogłasza tę decyzję także w Dzienniku Urzędowym Unii Europejskiej.
 
 **Art. 318.** Likwidacja zakładu ubezpieczeń lub zakładu reasekuracji następuje w przypadku:
+
+- **1)** podjęcia przez walne zgromadzenie zakładu ubezpieczeń lub zakładu reasekuracji uchwały o jego rozwiązaniu (likwidacja dobrowolna);
+- **2)** zarządzenia likwidacji przez organ nadzoru (likwidacja przymusowa).
 
 **Art. 319.**
 
@@ -4146,7 +4312,7 @@ Art. 441–479. (pominięte)
 - **4)** informacje o sposobach ochrony interesów ubezpieczających, ubezpieczonych lub uprawnionych z umów ubezpieczenia podlegających reasekuracji oraz cedentów;
 - **5)** propozycję harmonogramu podejmowanych przez zakład reasekuracji działań w związku z likwidacją zakładu, ze szczególnym uwzględnieniem informacji i dowodów w zakresie ochrony interesów ubezpieczających, ubezpieczonych lub uprawnionych z umów ubezpieczenia podlegających reasekuracji oraz cedentów.
 
-4. Organ nadzoru może, w terminie 30 dni od dnia otrzymania zawiadomienia, w drodze decyzji, wyrazić sprzeciw, jeżeli rozwiązanie zakładu ubezpieczeń zagrażałoby interesom ubezpieczających, ubezpieczonych lub uprawnionych z umów ubezpieczenia, a w przypadku zakładu reasekuracji – zagrażałoby interesom ubezpieczających, ubezpieczonych lub uprawnionych z umów ubezpieczenia podlegających reasekuracji oraz cedentów. Organ, który zwołał walne zgromadzenie zakładu ubezpieczeń lub zakładu reasekuracji, w przypadku zgłoszenia sprzeciwu przez organ nadzoru, niezwłocznie odwołuje walne zgromadzenie.
+4. Organ nadzoru może, w terminie 30 dni od dnia otrzymania zawiadomienia, w drodze decyzji, wyrazić sprzeciw, jeżeli rozwiązanie zakładu ubezpieczeń zagrażałoby interesom ubezpieczających, ubezpieczonych lub uprawnionych z umów ubezpieczenia, a w przypadku zakładu reasekuracji zagrażałoby interesom ubezpieczających, ubezpieczonych lub uprawnionych z umów ubezpieczenia podlegających reasekuracji oraz cedentów. Organ, który zwołał walne zgromadzenie zakładu ubezpieczeń lub zakładu reasekuracji, w przypadku zgłoszenia sprzeciwu przez organ nadzoru, niezwłocznie odwołuje walne zgromadzenie.
 
 5. Organ nadzoru może z ważnych powodów, w drodze decyzji, ustanowić dodatkowych likwidatorów z urzędu.
 
@@ -4179,7 +4345,7 @@ Art. 441–479. (pominięte)
 
 2. Decyzja o zarządzeniu likwidacji jest natychmiast wykonalna.
 
-3. Rada nadzorcza zakładu ubezpieczeń lub zakładu reasekuracji może złożyć wniosek do organu nadzoru o ponowne rozpatrzenie sprawy w przedmiocie zarządzenia likwidacji przymusowej, a w przypadku utrzymania przez organ nadzoru w mocy decyzji, o której mowa w ust. 2 – wnieść skargę na tę decyzję do sądu administracyjnego.
+3. Rada nadzorcza zakładu ubezpieczeń lub zakładu reasekuracji może złożyć wniosek do organu nadzoru o ponowne rozpatrzenie sprawy w przedmiocie zarządzenia likwidacji przymusowej, a w przypadku utrzymania przez organ nadzoru w mocy decyzji, o której mowa w ust. 2 wnieść skargę na tę decyzję do sądu administracyjnego.
 
 4. Otwarcie likwidacji następuje z dniem doręczenia stronie decyzji o zarządzeniu likwidacji przymusowej. Decyzja wraz z dowodem doręczenia podlega zgłoszeniu do Krajowego Rejestru Sądowego. Zgłoszenia dokonuje likwidator po jego wyznaczeniu.
 
@@ -4187,7 +4353,7 @@ Art. 441–479. (pominięte)
 
 - **1)** wygasają mandaty członków zarządu zakładu ubezpieczeń lub zakładu reasekuracji;
 - **2)** wygasają ustanowione prokury i pełnomocnictwa;
-- **3)** zawieszeniu ulegają prawa i obowiązki innych organów zakładu ubezpieczeń lub zakładu reasekuracji, z zastrzeżeniem ust. 3 i art. 325 pkt 1 ustawy oraz z uwzględnieniem art. 467 i art. 476 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych.
+- **3)** zawieszeniu ulegają prawa i obowiązki innych organów zakładu ubezpieczeń lub zakładu reasekuracji, z zastrzeżeniem ust. 3 i art. 325 pkt 1 ustawy oraz z uwzględnieniem art. 467 i art. 476 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych.
 
 6. Likwidator zakładu ubezpieczeń i likwidator zakładu reasekuracji mają prawo podejmowania decyzji w sprawach zastrzeżonych w przepisach prawa i statucie do właściwości zarządu, rady nadzorczej i walnego zgromadzenia zakładu ubezpieczeń lub zakładu reasekuracji.
 
@@ -4218,11 +4384,16 @@ Art. 441–479. (pominięte)
 
 **Art. 324a.**
 
-1. Likwidatorem zakładu ubezpieczeń i likwidatorem zakładu reasekuracji może być osoba fizyczna spełniająca wymogi określone w art. 18 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych.
+1. Likwidatorem zakładu ubezpieczeń i likwidatorem zakładu reasekuracji może być osoba fizyczna spełniająca wymogi określone w art. 18 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych.
 
 2. Likwidatorem może być również osoba prawna, której członkowie organu zarządzającego spełniają wymogi, o których mowa w ust. 1.
 
 **Art. 325.** Likwidator składa organowi nadzoru:
+
+- **1)** bilans otwarcia likwidacji i sprawozdanie likwidacyjne w terminie wyznaczonym przez organ nadzoru;
+- **2)** sprawozdanie finansowe za każdy rok likwidacji w terminie ustalonym dla zakładów ubezpieczeń i zakładów reasekuracji;
+- **3)** sprawozdania o przebiegu likwidacji w terminach i w sposób określony przez organ nadzoru;
+- **4)** niezwłocznie zawiadomienie o zakończeniu likwidacji.
 
 **Art. 326.**
 
@@ -4245,13 +4416,13 @@ Art. 441–479. (pominięte)
 
 **Art. 328.**
 
-1. Do likwidacji towarzystw ubezpieczeń wzajemnych, niebędących małymi towarzystwami ubezpieczeń wzajemnych oraz do likwidacji towarzystw reasekuracji wzajemnej stosuje się odpowiednio przepisy ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych dotyczące likwidacji spółki akcyjnej.
+1. Do likwidacji towarzystw ubezpieczeń wzajemnych, niebędących małymi towarzystwami ubezpieczeń wzajemnych oraz do likwidacji towarzystw reasekuracji wzajemnej stosuje się odpowiednio przepisy ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych dotyczące likwidacji spółki akcyjnej.
 
 2. Likwidacja dobrowolna małego towarzystwa ubezpieczeń wzajemnych następuje w sposób określony w uchwale walnego zgromadzenia.
 
-3. W przypadku likwidacji dobrowolnej małego towarzystwa ubezpieczeń wzajemnych, jeżeli wraz z uchwałą o likwidacji towarzystwa nie zostanie podjęta uchwała, o której mowa w ust. 2, albo jeżeli pomimo jej podjęcia czynności likwidacyjne nie są wykonywane, sąd na wniosek organu nadzoru wyznacza likwidatora. W takim przypadku stosuje się odpowiednio przepisy ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych dotyczące likwidacji spółki akcyjnej.
+3. W przypadku likwidacji dobrowolnej małego towarzystwa ubezpieczeń wzajemnych, jeżeli wraz z uchwałą o likwidacji towarzystwa nie zostanie podjęta uchwała, o której mowa w ust. 2, albo jeżeli pomimo jej podjęcia czynności likwidacyjne nie są wykonywane, sąd na wniosek organu nadzoru wyznacza likwidatora. W takim przypadku stosuje się odpowiednio przepisy ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych dotyczące likwidacji spółki akcyjnej.
 
-4. W przypadku likwidacji przymusowej małego towarzystwa ubezpieczeń wzajemnych stosuje się odpowiednio przepisy ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych dotyczące likwidacji spółki akcyjnej.
+4. W przypadku likwidacji przymusowej małego towarzystwa ubezpieczeń wzajemnych stosuje się odpowiednio przepisy ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych dotyczące likwidacji spółki akcyjnej.
 
 #### Rozdział 14 Zasady sprawowania nadzoru ubezpieczeniowego
 
@@ -4304,7 +4475,9 @@ Art. 441–479. (pominięte)
 
 8. Organ nadzoru może złożyć wniosek o pomoc do EIOPA, jeżeli nie uzyskał zgody na uczestniczenie w kontroli oddziału krajowego zakładu ubezpieczeń lub oddziału krajowego zakładu reasekuracji prowadzonej przez organ nadzorczy państwa, w którym znajduje się oddział, albo organ nadzorczy uniemożliwia lub utrudnia organowi nadzoru skorzystanie z prawa uczestniczenia w kontroli, o której mowa w ust. 3.
 
-**Art. 334.** W przypadku stwierdzenia nieprawidłowości w przeprowadzonym na zlecenie zakładu ubezpieczeń lub zakładu reasekuracji badaniu sprawozdania finansowego lub sprawozdania o wypłacalności i kondycji finansowej lub atestacji sprawozdawczości zrównoważonego rozwoju organ nadzoru może, w drodze decyzji, zobowiązać zakład ubezpieczeń lub zakład reasekuracji do zlecenia biegłemu rewidentowi badania prawidłowości i rzetelności sprawozdań finansowych lub sprawozdań o wypłacalności i kondycji finansowej sporządzanych przez zakład ubezpieczeń lub zakład reasekuracji oraz kontroli ksiąg rachunkowych mającej na celu badanie gospodarki finansowej i wypłacalności zakładu ubezpieczeń lub zakładu reasekuracji lub atestacji sprawozdawczości zrównoważonego rozwoju zakładu ubezpieczeń lub zakładu reasekuracji. Badanie tych sprawozdań lub atestacja sprawozdawczości zrównoważonego rozwoju nie mogą być zlecone ponownie biegłemu rewidentowi, który dokonał badania sprawozdania lub atestacji sprawozdawczości zrównoważonego rozwoju, w których stwierdzono nieprawidłowości.
+**Art. 334.**
+
+- **24)** W przypadku stwierdzenia nieprawidłowości w przeprowadzonym na zlecenie zakładu ubezpieczeń lub zakładu reasekuracji badaniu sprawozdania finansowego lub sprawozdania o wypłacalności i kondycji finansowej lub atestacji sprawozdawczości zrównoważonego rozwoju organ nadzoru może, w drodze decyzji, zobowiązać zakład ubezpieczeń lub zakład reasekuracji do zlecenia biegłemu rewidentowi badania prawidłowości i rzetelności sprawozdań finansowych lub sprawozdań o wypłacalności i kondycji finansowej sporządzanych przez zakład ubezpieczeń lub zakład reasekuracji oraz kontroli ksiąg rachunkowych mającej na celu badanie gospodarki finansowej i wypłacalności zakładu ubezpieczeń lub zakładu reasekuracji lub atestacji sprawozdawczości zrównoważonego rozwoju zakładu ubezpieczeń lub zakładu reasekuracji. Badanie tych sprawozdań lub atestacja sprawozdawczości zrównoważonego rozwoju nie mogą być zlecone ponownie biegłemu rewidentowi, który dokonał badania sprawozdania lub atestacji sprawozdawczości zrównoważonego rozwoju, w których stwierdzono nieprawidłowości.
 
 **Art. 335.**
 
@@ -4394,7 +4567,7 @@ Art. 441–479. (pominięte)
 3. Organ nadzoru może zwolnić z obowiązku przekazywania pełnego wykazu aktywów wyłącznie:
 
 - **1)** zakłady ubezpieczeń wykonujące działalność w zakresie ubezpieczeń, o których mowa w dziale I załącznika do ustawy, lub zakłady reasekuracji wykonujące działalność w zakresie reasekuracji ubezpieczeń na życie, o których mowa w dziale I załącznika do ustawy, których łączny udział w rynku ubezpieczeń, o których mowa w dziale I załącznika do ustawy, i reasekuracji ubezpieczeń, o których mowa w dziale I załącznika do ustawy, mierzony wartością rezerw techniczno-ubezpieczeniowych dla celów wypłacalności w ujęciu brutto, nie przekracza 20 %,
-- **2)** zakłady ubezpieczeń wykonujące działalność w zakresie ubezpieczeń, o których mowa w dziale II załącznika do ustawy, lub zakłady reasekuracji wykonujące działalność w zakresie reasekuracji pozostałych ubezpieczeń osobowych oraz ubezpieczeń majątkowych, o których mowa w dziale II załącznika do ustawy, których łączny udział w rynku ubezpieczeń, o których mowa w dziale II załącznika do ustawy, i reasekuracji ubezpieczeń, o których mowa w dziale II załącznika do ustawy, mierzony wielkością przypisu składki brutto, nie przekracza 20 % – lub ograniczyć ten obowiązek do sprawozdań rocznych.
+- **2)** zakłady ubezpieczeń wykonujące działalność w zakresie ubezpieczeń, o których mowa w dziale II załącznika do ustawy, lub zakłady reasekuracji wykonujące działalność w zakresie reasekuracji pozostałych ubezpieczeń osobowych oraz ubezpieczeń majątkowych, o których mowa w dziale II załącznika do ustawy, których łączny udział w rynku ubezpieczeń, o których mowa w dziale II załącznika do ustawy, i reasekuracji ubezpieczeń, o których mowa w dziale II załącznika do ustawy, mierzony wielkością przypisu składki brutto, nie przekracza 20 % lub ograniczyć ten obowiązek do sprawozdań rocznych.
 
 4. Organ nadzoru klasyfikując zakład ubezpieczeń lub zakład reasekuracji do przyznania uprawnień, o których mowa w ust. 1 i 3, kieruje się rozmiarem wykonywanej działalności i priorytetowo traktuje najmniejsze zakłady.
 
@@ -4404,7 +4577,7 @@ Art. 441–479. (pominięte)
 - **2)** zmienność odszkodowań i świadczeń wypłacanych przez zakład;
 - **3)** ryzyko rynkowe związane z lokatami zakładu;
 - **4)** poziom koncentracji ryzyka;
-- **5)** w przypadku zakładu ubezpieczeń – łączną liczbę grup ubezpieczeń, o których mowa w dziale I załącznika do ustawy, albo łączną liczbę grup ubezpieczeń, o których mowa w dziale II załącznika do ustawy, na wykonywanie działalności w których organ nadzoru wydał zezwolenie;
+- **5)** w przypadku zakładu ubezpieczeń łączną liczbę grup ubezpieczeń, o których mowa w dziale I załącznika do ustawy, albo łączną liczbę grup ubezpieczeń, o których mowa w dziale II załącznika do ustawy, na wykonywanie działalności w których organ nadzoru wydał zezwolenie;
 - **6)** możliwy wpływ zarządzania aktywami zakładu na stabilność finansową;
 - **7)** systemy i struktury zakładu służące przekazywaniu informacji do celów nadzoru oraz zasady, o których mowa w art. 338;
 - **8)** adekwatność systemu zarządzania zakładu;
@@ -4436,7 +4609,7 @@ Art. 441–479. (pominięte)
 - **3)** wymogów kapitałowych;
 - **4)** zasad inwestowania;
 - **5)** jakości i wysokości dopuszczonych środków własnych;
-- **6)** w przypadku gdy zakład ubezpieczeń i zakład reasekuracji stosują pełny albo częściowy model wewnętrzny – zgodności z wymogami dla pełnych i częściowych modeli wewnętrznych.
+- **6)** w przypadku gdy zakład ubezpieczeń i zakład reasekuracji stosują pełny albo częściowy model wewnętrzny zgodności z wymogami dla pełnych i częściowych modeli wewnętrznych.
 
 2. Przegląd i ocena, o których mowa w ust. 1, obejmują ocenę wymogów jakościowych związanych z systemem zarządzania, ocenę rodzajów ryzyka, na które dany zakład ubezpieczeń lub zakład reasekuracji jest lub może być narażony, oraz ocenę zdolności zakładu do oszacowania tego ryzyka przy uwzględnieniu warunków, w których zakład wykonuje działalność.
 
@@ -4610,7 +4783,7 @@ Art. 441–479. (pominięte)
 
 **Art. 351.** Do kontroli dostawców usług, którzy wykonują, w drodze outsourcingu, czynności ubezpieczeniowe i reasekuracyjne oraz funkcje należące do systemu zarządzania powierzone przez zakład ubezpieczeń i zakład reasekuracji, stosuje się odpowiednio przepisy o kontroli zakładów ubezpieczeń i zakładów reasekuracji.
 
-**Art. 352.** Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
+**Art. 352.** Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
 
 **Art. 353.**
 
@@ -4658,7 +4831,7 @@ Art. 441–479. (pominięte)
 
 3. Pracownik Urzędu, po doręczeniu upoważnienia, informuje zakład ubezpieczeń i zakład reasekuracji o jego prawach i obowiązkach oraz poucza o skutkach prawnych utrudniania lub uniemożliwiania przeprowadzenia czynności w ramach wizyty nadzorczej.
 
-4. Do wizyty nadzorczej nie stosuje się przepisów rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
+4. Do wizyty nadzorczej nie stosuje się przepisów rozdziału 5 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
 
 5. Do pracowników Urzędu uczestniczących w wizycie nadzorczej stosuje się odpowiednio przepis art. 346.
 
@@ -4682,6 +4855,13 @@ Art. 441–479. (pominięte)
 
 **Art. 360.** Ustaleń wizyty nadzorczej dokonuje się na podstawie zebranych w toku wizyty nadzorczej:
 
+- **1)** dokumentów;
+- **2)** wyjaśnień udzielonych przez osoby wchodzące w skład statutowych organów zakładu ubezpieczeń i zakładu reasekuracji lub osoby pozostające z zakładem w stosunku pracy, zlecenia lub innym stosunku prawnym o podobnym charakterze;
+- **3)** danych i informacji zamieszczonych w systemach informatycznych zakładu ubezpieczeń i zakładu reasekuracji;
+- **4)** dowodów rzeczowych;
+- **5)** oświadczeń osób trzecich;
+- **6)** innych materiałów, które mogą przyczynić się do ustalenia stanu faktycznego w zakresie objętym wizytą nadzorczą.
+
 **Art. 361.**
 
 1. Organ nadzoru może wydawać, na piśmie utrwalonym w postaci papierowej albo elektronicznej, zalecenia w stosunku do zakładu ubezpieczeń i zakładu reasekuracji w celu:
@@ -4704,7 +4884,7 @@ Art. 441–479. (pominięte)
 1. Jeżeli zakład ubezpieczeń i zakład reasekuracji nie wykonają w wyznaczonym terminie decyzji, o której mowa w art. 361 ust. 2, organ nadzoru może, w drodze decyzji:
 
 - **1)** nałożyć na członka zarządu zakładu ubezpieczeń albo zakładu reasekuracji karę pieniężną do wysokości 3 000 000 złotych;
-- **2)** nałożyć na zakład ubezpieczeń lub zakład reasekuracji karę pieniężną do wysokości 20 000 000 zł albo kwoty stanowiącej równowartość 0,5 % składki przypisanej brutto wykazanej przez zakład ubezpieczeń lub zakład reasekuracji w ostatnim sprawozdaniu finansowym za rok obrotowy, zatwierdzonym przez organ zatwierdzający, jeżeli równowartość 0,5 % składki przypisanej brutto wykazanej przez zakład ubezpieczeń lub zakład reasekuracji w tym sprawozdaniu finansowym przekracza kwotę 20 000 000 zł, a w przypadku gdy zakład nie wykonywał działalności – do wysokości 100 000 złotych;
+- **2)** nałożyć na zakład ubezpieczeń lub zakład reasekuracji karę pieniężną do wysokości 20 000 000 zł albo kwoty stanowiącej równowartość 0,5 % składki przypisanej brutto wykazanej przez zakład ubezpieczeń lub zakład reasekuracji w ostatnim sprawozdaniu finansowym za rok obrotowy, zatwierdzonym przez organ zatwierdzający, jeżeli równowartość 0,5 % składki przypisanej brutto wykazanej przez zakład ubezpieczeń lub zakład reasekuracji w tym sprawozdaniu finansowym przekracza kwotę 20 000 000 zł, a w przypadku gdy zakład nie wykonywał działalności do wysokości 100 000 złotych;
 - **3)** zawiesić w czynnościach członka zarządu zakładu ubezpieczeń lub zakładu reasekuracji do czasu rozpatrzenia wniosku o jego odwołanie na najbliższym posiedzeniu organu uprawnionego do jego odwołania;
 - **4)** wystąpić do właściwego organu zakładu ubezpieczeń, zakładu reasekuracji lub innego uprawnionego podmiotu z wnioskiem o odwołanie członka zarządu lub odwołanie udzielonej prokury, ze wskazaniem terminu, w którym wniosek ten zostanie rozpatrzony.
 
@@ -4727,7 +4907,7 @@ Art. 441–479. (pominięte)
 
 5. Przepisy ust. 1 pkt 1, 3 i 4 oraz ust. 2 stosuje się do członków rady administrującej w przypadku wykonywania działalności ubezpieczeniowej lub działalności reasekuracyjnej w formie spółki europejskiej, w której przyjęto system monistyczny.
 
-6. Jeżeli zakład ubezpieczeń lub zakład reasekuracji po doręczeniu przez organ nadzoru decyzji stwierdzającej niespełnienie wymagań dotyczących pełnienia kluczowej funkcji dopuszcza osobę, której ta decyzja dotyczy, do pełnienia danej kluczowej funkcji, organ nadzoru może, w drodze decyzji, nałożyć na zakład ubezpieczeń lub zakład reasekuracji karę pieniężną do wysokości 0,5 % składki przypisanej brutto wykazanej przez zakład ubezpieczeń lub zakład reasekuracji w ostatnim sprawozdaniu finansowym za rok obrotowy, zatwierdzonym przez organ zatwierdzający, a w przypadku gdy zakład nie wykonywał działalności lub uzyskał składkę przypisaną brutto poniżej 20 mln złotych – do wysokości 100 000 złotych.
+6. Jeżeli zakład ubezpieczeń lub zakład reasekuracji po doręczeniu przez organ nadzoru decyzji stwierdzającej niespełnienie wymagań dotyczących pełnienia kluczowej funkcji dopuszcza osobę, której ta decyzja dotyczy, do pełnienia danej kluczowej funkcji, organ nadzoru może, w drodze decyzji, nałożyć na zakład ubezpieczeń lub zakład reasekuracji karę pieniężną do wysokości 0,5 % składki przypisanej brutto wykazanej przez zakład ubezpieczeń lub zakład reasekuracji w ostatnim sprawozdaniu finansowym za rok obrotowy, zatwierdzonym przez organ zatwierdzający, a w przypadku gdy zakład nie wykonywał działalności lub uzyskał składkę przypisaną brutto poniżej 20 mln złotych do wysokości 100 000 złotych.
 
 7. (uchylony)
 
@@ -4736,10 +4916,10 @@ Art. 441–479. (pominięte)
 1. W przypadku naruszenia art. 247b ust. 1 organ nadzoru, zamiast zastosowania środków określonych w art. 362 ust. 1, może, w drodze decyzji:
 
 - **1)** nakazać zakładowi ubezpieczeń lub zakładowi reasekuracji zaprzestanie działań skutkujących naruszeniem lub powstrzymanie się od takich działań w przyszłości;
-- **2)** nałożyć na zakład ubezpieczeń lub zakład reasekuracji karę pieniężną do wysokości kwoty stanowiącej równowartość 0,5 % składki przypisanej brutto wykazanej przez zakład ubezpieczeń lub zakład reasekuracji w ostatnim sprawozdaniu finansowym za rok obrotowy, zatwierdzonym przez organ zatwierdzający, a w przypadku gdy zakład nie wykonywał działalności albo uzyskał składkę przypisaną brutto poniżej 20 000 000 zł – do wysokości 100 000 zł, albo dwukrotności kwoty korzyści uzyskanych lub strat unikniętych w wyniku naruszenia – w przypadku gdy jest możliwe ich ustalenie;
-- **3)** nałożyć na osobę odpowiedzialną za naruszenie, która w tym okresie pełniła obowiązki członka zarządu, karę pieniężną do wysokości 2 905 000 zł albo dwukrotności kwoty korzyści uzyskanych lub strat unikniętych w wyniku naruszenia – w przypadku gdy jest możliwe ich ustalenie.
+- **2)** nałożyć na zakład ubezpieczeń lub zakład reasekuracji karę pieniężną do wysokości kwoty stanowiącej równowartość 0,5 % składki przypisanej brutto wykazanej przez zakład ubezpieczeń lub zakład reasekuracji w ostatnim sprawozdaniu finansowym za rok obrotowy, zatwierdzonym przez organ zatwierdzający, a w przypadku gdy zakład nie wykonywał działalności albo uzyskał składkę przypisaną brutto poniżej 20 000 000 zł do wysokości 100 000 zł, albo dwukrotności kwoty korzyści uzyskanych lub strat unikniętych w wyniku naruszenia w przypadku gdy jest możliwe ich ustalenie;
+- **3)** nałożyć na osobę odpowiedzialną za naruszenie, która w tym okresie pełniła obowiązki członka zarządu, karę pieniężną do wysokości 2 905 000 zł albo dwukrotności kwoty korzyści uzyskanych lub strat unikniętych w wyniku naruszenia w przypadku gdy jest możliwe ich ustalenie.
 
-2. W przypadku gdy zakład ubezpieczeń lub zakład reasekuracji jest jednostką dominującą albo jednostką zależną jednostki dominującej, która ma obowiązek sporządzać skonsolidowane sprawozdania finansowe zgodnie z ustawą z dnia 29 września 1994 r. o rachunkowości, karę pieniężną, o której mowa w ust. 1 pkt 2, ustala się na podstawie przychodów netto ze sprzedaży towarów i usług oraz operacji finansowych, a w przypadku zakładu ubezpieczeń – składki przypisanej brutto, wykazanych w ostatnim rocznym skonsolidowanym sprawozdaniu finansowym zatwierdzonym przez organ zatwierdzający jednostki dominującej.
+2. W przypadku gdy zakład ubezpieczeń lub zakład reasekuracji jest jednostką dominującą albo jednostką zależną jednostki dominującej, która ma obowiązek sporządzać skonsolidowane sprawozdania finansowe zgodnie z ustawą z dnia 29 września 1994 r. o rachunkowości, karę pieniężną, o której mowa w ust. 1 pkt 2, ustala się na podstawie przychodów netto ze sprzedaży towarów i usług oraz operacji finansowych, a w przypadku zakładu ubezpieczeń składki przypisanej brutto, wykazanych w ostatnim rocznym skonsolidowanym sprawozdaniu finansowym zatwierdzonym przez organ zatwierdzający jednostki dominującej.
 
 3. Przepis ust. 1 pkt 3 stosuje się do członków rady administrującej w przypadku wykonywania działalności ubezpieczeniowej lub działalności reasekuracyjnej w formie spółki europejskiej, w której przyjęto system monistyczny.
 
@@ -4761,13 +4941,13 @@ Art. 441–479. (pominięte)
 
 **Art. 364.**
 
-1. Zakład ubezpieczeń i zakład reasekuracji zawiadamiają organ nadzoru o terminie walnego zgromadzenia zakładu, w terminie 7 dni przed dniem posiedzenia, a w przypadku nadzwyczajnego walnego zgromadzenia – niezwłocznie po powzięciu informacji o zwołaniu walnego zgromadzenia.
+1. Zakład ubezpieczeń i zakład reasekuracji zawiadamiają organ nadzoru o terminie walnego zgromadzenia zakładu, w terminie 7 dni przed dniem posiedzenia, a w przypadku nadzwyczajnego walnego zgromadzenia niezwłocznie po powzięciu informacji o zwołaniu walnego zgromadzenia.
 
 2. Organ nadzoru może delegować swojego przedstawiciela do udziału w posiedzeniu walnego zgromadzenia zakładu ubezpieczeń lub zakładu reasekuracji.
 
 3. Przedstawiciel organu nadzoru może zabierać głos we wszystkich sprawach na walnym zgromadzeniu zakładu ubezpieczeń lub zakładu reasekuracji.
 
-4. Organ nadzoru może żądać od organów zakładu ubezpieczeń lub zakładu reasekuracji zwołania, w określonym terminie, walnego zgromadzenia zakładu lub umieszczenia określonych spraw w porządku obrad najbliższego walnego zgromadzenia. W przypadku żądania zwołania walnego zgromadzenia zakładu ubezpieczeń lub zakładu reasekuracji organ nadzoru może wskazać sposób zwołania walnego zgromadzenia, zgodny z przepisami ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, oraz dzień jego odbycia.
+4. Organ nadzoru może żądać od organów zakładu ubezpieczeń lub zakładu reasekuracji zwołania, w określonym terminie, walnego zgromadzenia zakładu lub umieszczenia określonych spraw w porządku obrad najbliższego walnego zgromadzenia. W przypadku żądania zwołania walnego zgromadzenia zakładu ubezpieczeń lub zakładu reasekuracji organ nadzoru może wskazać sposób zwołania walnego zgromadzenia, zgodny z przepisami ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych, oraz dzień jego odbycia.
 
 5. Jeżeli w terminie 14 dni od dnia przedstawienia żądania, o którym mowa w ust. 4, walne zgromadzenie zakładu ubezpieczeń lub zakładu reasekuracji nie zostanie zwołane w terminie określonym przez organ nadzoru lub określone sprawy nie zostaną umieszczone w porządku obrad najbliższego walnego zgromadzenia, organ nadzoru zwołuje walne zgromadzenie zakładu lub umieszcza określone sprawy w porządku obrad najbliższego walnego zgromadzenia. Koszty zwołania i odbycia walnego zgromadzenia ponosi zakład ubezpieczeń lub zakład reasekuracji.
 
@@ -4798,7 +4978,7 @@ Art. 441–479. (pominięte)
 
 2. Organ nadzoru wprowadza zakazy lub ograniczenia, o których mowa w art. 17 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1286/2014 z dnia 26 listopada 2014 r. w sprawie dokumentów zawierających kluczowe informacje, dotyczących detalicznych produktów zbiorowego inwestowania i ubezpieczeniowych produktów inwestycyjnych (PRIIP) (Dz. Urz. UE L 352 z 09.12.2014, str. 1, z późn. zm. ), w drodze decyzji.
 
-3. Do decyzji, o których mowa w ust. 2, przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się odpowiednio.
+3. Do decyzji, o których mowa w ust. 2, przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego stosuje się odpowiednio.
 
 4. Decyzje, o których mowa w ust. 2, podlegają ogłoszeniu w Dzienniku Urzędowym Komisji Nadzoru Finansowego. Informacje o ich wydaniu organ nadzoru przekazuje niezwłocznie do publicznej wiadomości za pośrednictwem agencji informacyjnej, o której mowa w art. 58 ust. 1 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych.
 
@@ -4807,14 +4987,14 @@ Art. 441–479. (pominięte)
 6. W przypadku naruszenia zakazów lub ograniczeń, o których mowa w art. 16 lub art. 17 rozporządzenia, o którym mowa w ust. 2, organ nadzoru może, w drodze decyzji, nałożyć karę pieniężną do wysokości nieprzekraczającej:
 
 - **1)** w przypadku osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej:
-    - **a)** kwoty 21 569 000 złotych lub 3 % przychodów netto ze sprzedaży towarów i usług oraz operacji finansowych, a w przypadku zakładu ubezpieczeń – 3 % składki przypisanej brutto, wykazanych w ostatnim sprawozdaniu finansowym za rok obrotowy, zatwierdzonym przez organ zatwierdzający, lub
-    - **b)** trzykrotności kwoty korzyści uzyskanych lub strat unikniętych w wyniku naruszenia – w przypadku gdy jest możliwe ich ustalenie;
+    - **a)** kwoty 21 569 000 złotych lub 3 % przychodów netto ze sprzedaży towarów i usług oraz operacji finansowych, a w przypadku zakładu ubezpieczeń 3 % składki przypisanej brutto, wykazanych w ostatnim sprawozdaniu finansowym za rok obrotowy, zatwierdzonym przez organ zatwierdzający, lub
+    - **b)** trzykrotności kwoty korzyści uzyskanych lub strat unikniętych w wyniku naruszenia w przypadku gdy jest możliwe ich ustalenie;
 
 - **2)** w przypadku osoby fizycznej:
     - **a)** kwoty 3 019 660 złotych lub
-    - **b)** trzykrotności kwoty korzyści uzyskanych lub strat unikniętych w wyniku naruszenia – w przypadku gdy jest możliwe ich ustalenie.
+    - **b)** trzykrotności kwoty korzyści uzyskanych lub strat unikniętych w wyniku naruszenia w przypadku gdy jest możliwe ich ustalenie.
 
-7. W przypadku gdy osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, o której mowa w ust. 6 pkt 1, jest jednostką dominującą albo jednostką zależną jednostki dominującej, która ma obowiązek sporządzać skonsolidowane sprawozdania finansowe, zgodnie z przepisami o rachunkowości, karę pieniężną, o której mowa w ust. 6 pkt 1, ustala się na podstawie przychodów netto ze sprzedaży towarów i usług oraz operacji finansowych, a w przypadku zakładu ubezpieczeń – składki przypisanej brutto, wykazanych w ostatnim rocznym skonsolidowanym sprawozdaniu finansowym zatwierdzonym przez organ zatwierdzający jednostki dominującej.
+7. W przypadku gdy osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, o której mowa w ust. 6 pkt 1, jest jednostką dominującą albo jednostką zależną jednostki dominującej, która ma obowiązek sporządzać skonsolidowane sprawozdania finansowe, zgodnie z przepisami o rachunkowości, karę pieniężną, o której mowa w ust. 6 pkt 1, ustala się na podstawie przychodów netto ze sprzedaży towarów i usług oraz operacji finansowych, a w przypadku zakładu ubezpieczeń składki przypisanej brutto, wykazanych w ostatnim rocznym skonsolidowanym sprawozdaniu finansowym zatwierdzonym przez organ zatwierdzający jednostki dominującej.
 
 8. Organ nadzoru, nakładając karę pieniężną, o której mowa w ust. 6, uwzględnia okoliczności, o których mowa w art. 25 rozporządzenia, o którym mowa w ust. 2.
 
@@ -4833,6 +5013,16 @@ Art. 441–479. (pominięte)
 **Art. 368.** Organ nadzoru informuje Komisję Europejską i EIOPA o trudnościach, na które w państwach niebędących państwami członkowskimi Unii Europejskiej napotykają krajowe zakłady ubezpieczeń lub krajowe zakłady reasekuracji, które zamierzają wykonywać lub wykonują działalność ubezpieczeniową lub reasekuracyjną na terytorium tych państw.
 
 **Art. 369.** Organ nadzoru corocznie informuje EIOPA o:
+
+- **1)** średnim narzucie kapitałowym nałożonym na zakład ubezpieczeń i zakład reasekuracji oraz o rozkładzie nałożonych w poprzednim roku narzutów kapitałowych, obliczonych jako procent kapitałowego wymogu wypłacalności, wykazanych odrębnie dla:
+    - **a)** zakładów ubezpieczeń i zakładów reasekuracji,
+    - **b)** zakładów ubezpieczeń wykonujących działalność w zakresie ubezpieczeń, o których mowa w dziale I załącznika do ustawy,
+    - **c)** zakładów ubezpieczeń wykonujących działalność w zakresie ubezpieczeń, o których mowa w dziale II załącznika do ustawy,
+    - **d)** zakładów reasekuracji;
+
+- **2)** udziale narzutów kapitałowych nałożonych przez organ nadzoru zgodnie z art. 270 ust. 1 pkt 1–3 w odniesieniu do każdej z informacji określonych w pkt 1 lit. a–d;
+- **3)** liczbie zakładów ubezpieczeń i zakładów reasekuracji korzystających z ograniczenia obowiązku regularnego przekazywania danych i informacji do organu nadzoru oraz o liczbie zakładów ubezpieczeń i zakładów reasekuracji korzystających ze zwolnienia z obowiązku przekazywania pełnego wykazu aktywów, o którym mowa w art. 339 ust. 1, wraz z wartością ich wymogów kapitałowych, przypisu składki brutto, rezerw techniczno-ubezpieczeniowych dla celów wypłacalności i aktywów, mierzonych odpowiednio jako procent łącznej wartości wymogów kapitałowych, przypisu składki brutto, rezerw techniczno-ubezpieczeniowych dla celów wypłacalności oraz aktywów zakładów ubezpieczeń i zakładów reasekuracji wykonujących działalność na terytorium Rzeczypospolitej Polskiej;
+- **4)** liczbie grup korzystających z ograniczenia obowiązku regularnego przekazywania danych i informacji do organu nadzoru będącego organem sprawującym nadzór nad grupą oraz o liczbie grup korzystających ze zwolnienia z obowiązku przekazywania pełnego wykazu aktywów do organu nadzoru będącego organem sprawującym nadzór nad grupą, wraz z wartością ich wymogów kapitałowych, przypisu składki brutto, rezerw techniczno-ubezpieczeniowych dla celów wypłacalności i aktywów, mierzonych odpowiednio jako procent łącznej wartości wymogów kapitałowych, przypisu składki brutto, rezerw techniczno-ubezpieczeniowych dla celów wypłacalności oraz aktywów wszystkich grup.
 
 **Art. 370.**
 
@@ -4880,9 +5070,9 @@ Art. 441–479. (pominięte)
 
 2. W przypadkach, o których mowa w ust. 1 w:
 
-- **1)** pkt 1 i 2 – nadzór nad grupą jest sprawowany zgodnie z przepisami art. 378– 415;
-- **2)** pkt 3 – nadzór nad grupą jest sprawowany zgodnie z przepisami art. 416–418;
-- **3)** pkt 4 – nadzór nad grupą jest sprawowany zgodnie z przepisem art. 419.
+- **1)** pkt 1 i 2 nadzór nad grupą jest sprawowany zgodnie z przepisami art. 378–415;
+- **2)** pkt 3 nadzór nad grupą jest sprawowany zgodnie z przepisami art. 416–418;
+- **3)** pkt 4 nadzór nad grupą jest sprawowany zgodnie z przepisem art. 419.
 
 3. W przypadku gdy organ nadzoru nie jest organem sprawującym nadzór nad grupą, organ nadzoru współpracuje z organem sprawującym nadzór nad grupą oraz innymi zainteresowanymi organami nadzorczymi, w tym uczestniczy w konsultacjach.
 
@@ -4900,11 +5090,11 @@ Art. 441–479. (pominięte)
 
 8. Jeżeli organ sprawujący nadzór nad grupą nie obejmie nadzorem nad grupą krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji z przyczyn, o których mowa w ust. 5 pkt 2 lub 3, organ nadzoru może zwrócić się do podmiotu stojącego na czele grupy o udzielenie informacji mogących ułatwić nadzór sprawowany nad danym zakładem ubezpieczeń lub zakładem reasekuracji.
 
-9. W przypadku gdy dominujący podmiot nieregulowany podlega przepisom państwa niebędącego państwem członkowskim Unii Europejskiej, równoważnym do przepisów dyrektywy 2009/138/WE oraz dyrektywy 2002/87/WE Parlamentu Europejskiego i Rady z dnia 16 grudnia 2002 r. w sprawie dodatkowego nadzoru nad instytucjami kredytowymi, zakładami ubezpieczeń oraz przedsiębiorstwami inwestycyjnymi konglomeratu finansowego, i zmieniającej dyrektywy Rady 73/239/EWG, 79/267/EWG, 92/49/EWG, 92/96/EWG, 93/6/EWG i 93/22/EWG oraz dyrektywy 98/78/WE i 2000/12/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 35 z 11.02.2003, 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 6, t. 4, 340, z późn. zm.), zwanej dalej „dyrektywą 2002/87/WE”, w szczególności w zakresie nadzoru bazującego na ocenie ryzyka, organ nadzoru będący organem sprawującym nadzór nad grupą, po przeprowadzeniu konsultacji z innymi zainteresowanymi organami nadzorczymi, może, w drodze decyzji, rozstrzygnąć o stosowaniu jedynie stosownych przepisów ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego do tego dominującego podmiotu nieregulowanego.
+9. W przypadku gdy dominujący podmiot nieregulowany podlega przepisom państwa niebędącego państwem członkowskim Unii Europejskiej, równoważnym do przepisów dyrektywy 2009/138/WE oraz dyrektywy 2002/87/WE Parlamentu Europejskiego i Rady z dnia 16 grudnia 2002 r. w sprawie dodatkowego nadzoru nad instytucjami kredytowymi, zakładami ubezpieczeń oraz przedsiębiorstwami inwestycyjnymi konglomeratu finansowego, i zmieniającej dyrektywy Rady 73/239/EWG, 79/267/EWG, 92/49/EWG, 92/96/EWG, 93/6/EWG i 93/22/EWG oraz dyrektywy 98/78/WE i 2000/12/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 35 z 11.02.2003, s. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 6, t. 4, s. 340, z późn. zm.), zwanej dalej „dyrektywą 2002/87/WE”, w szczególności w zakresie nadzoru bazującego na ocenie ryzyka, organ nadzoru będący organem sprawującym nadzór nad grupą, po przeprowadzeniu konsultacji z innymi zainteresowanymi organami nadzorczymi, może, w drodze decyzji, rozstrzygnąć o stosowaniu jedynie stosownych przepisów ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego do tego dominującego podmiotu nieregulowanego.
 
 10. W przypadku gdy dominujący podmiot nieregulowany podlega przepisom państwa niebędącego państwem członkowskim Unii Europejskiej, równoważnym do przepisów dyrektywy 2009/138/WE oraz dyrektywy Parlamentu Europejskiego i Rady 2013/36/UE z dnia 26 czerwca 2013 r. w sprawie warunków dopuszczenia instytucji kredytowych do działalności oraz nadzoru ostrożnościowego nad instytucjami kredytowymi, zmieniającej dyrektywę 2002/87/WE i uchylającej dyrektywy 2006/48/WE oraz 2006/49/WE (Dz. Urz. UE L 176 z 27.06.2013, str. 338, z późn. zm. ) i przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm. ), w szczególności w zakresie nadzoru bazującego na ocenie ryzyka, organ nadzoru będący organem sprawującym nadzór nad grupą, w porozumieniu z organem odpowiedzialnym za nadzór skonsolidowany w sektorze bankowym i w sektorze usług inwestycyjnych, może, w drodze decyzji, rozstrzygnąć o stosowaniu jedynie przepisów ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego, dotyczących najistotniejszego sektora w konglomeracie finansowym, o którym mowa w art. 6 ust. 6 tej ustawy.
 
-11. Organ nadzoru będący organem sprawującym nadzór nad grupą informuje Europejski Urząd Nadzoru Bankowego ustanowiony na mocy rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1093/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Bankowego), zmiany decyzji nr 716/2009/WE oraz uchylenia decyzji Komisji 2009/78/WE (Dz. Urz. UE L 331 z 15.12.2010, 12, z późn. zm.) i EIOPA o rozstrzygnięciach, o których mowa w ust. 9 i 10.
+11. Organ nadzoru będący organem sprawującym nadzór nad grupą informuje Europejski Urząd Nadzoru Bankowego ustanowiony na mocy rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1093/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Bankowego), zmiany decyzji nr 716/2009/WE oraz uchylenia decyzji Komisji 2009/78/WE (Dz. Urz. UE L 331 z 15.12.2010, s. 12, z późn. zm.) i EIOPA o rozstrzygnięciach, o których mowa w ust. 9 i 10.
 
 **Art. 375.**
 
@@ -4920,7 +5110,7 @@ Art. 441–479. (pominięte)
 
 3. Organ nadzoru będący organem sprawującym nadzór nad grupą powiadamia kolegium organów nadzoru o decyzji, o której mowa w ust. 1, zgodnie z art. 405 ust. 1 pkt 1.
 
-4. W przypadku wydania decyzji, o której mowa w ust. 1, przepisy art. 378– 415 stosuje się odpowiednio do podmiotu będącego jednostką dominującą najwyższego szczebla na poziomie krajowym, z zastrzeżeniem ust. 5–11.
+4. W przypadku wydania decyzji, o której mowa w ust. 1, przepisy art. 378–415 stosuje się odpowiednio do podmiotu będącego jednostką dominującą najwyższego szczebla na poziomie krajowym, z zastrzeżeniem ust. 5–11.
 
 5. Organ nadzoru może ograniczyć nadzór nad grupą podmiotu będącego jednostką dominującą najwyższego szczebla na poziomie krajowym do nadzoru nad:
 
@@ -4964,9 +5154,7 @@ Art. 441–479. (pominięte)
 
 1. Nadzór nad wypłacalnością grupy jest sprawowany zgodnie z ust. 2 i 3 oraz art. 403–415.
 
-2. W przypadku, o którym mowa w art. 374 ust. 1 pkt 1, zakład ubezpieczeń posiadający udziały kapitałowe w innym zakładzie lub zakład reasekuracji posiadający udziały kapitałowe w innym zakładzie zapewnia w ramach grupy stałą dostępność dopuszczonych środków własnych w wysokości równej co najmniej kapitałowemu wymogowi wypłacalności grupy, obliczonemu zgodnie z art. 380–
-
-393.
+2. W przypadku, o którym mowa w art. 374 ust. 1 pkt 1, zakład ubezpieczeń posiadający udziały kapitałowe w innym zakładzie lub zakład reasekuracji posiadający udziały kapitałowe w innym zakładzie zapewnia w ramach grupy stałą dostępność dopuszczonych środków własnych w wysokości równej co najmniej kapitałowemu wymogowi wypłacalności grupy, obliczonemu zgodnie z art. 380–393.
 
 3. W przypadku, o którym mowa w art. 374 ust. 1 pkt 2, zakład ubezpieczeń lub zakład reasekuracji, którego jednostką dominującą jest dominujący podmiot ubezpieczeniowy mający siedzibę na terytorium państwa członkowskiego Unii Europejskiej lub dominujący podmiot nieregulowany mający siedzibę na terytorium państwa członkowskiego Unii Europejskiej, zapewnia w ramach grupy stałą dostępność dopuszczonych środków własnych w wysokości nie niższej niż kapitałowy wymóg wypłacalności grupy, obliczony zgodnie z art. 394.
 
@@ -4980,8 +5168,8 @@ Art. 441–479. (pominięte)
 
 2. Dane do obliczeń oraz wyniki obliczeń są przekazywane organowi nadzoru będącemu organem sprawującym nadzór nad grupą:
 
-- **1)** w przypadku gdy podmiotem stojącym na czele grupy jest zakład ubezpieczeń lub zakład reasekuracji – przez zakład ubezpieczeń posiadający udziały kapitałowe w innym zakładzie lub zakład reasekuracji posiadający udziały kapitałowe w innym zakładzie;
-- **2)** w przypadku gdy podmiotem stojącym na czele grupy nie jest zakład ubezpieczeń ani zakład reasekuracji – przez dominujący podmiot ubezpieczeniowy albo przez dominujący podmiot nieregulowany albo przez zakład ubezpieczeń lub zakład reasekuracji wchodzący w skład grupy wyznaczony przez organ nadzoru będący organem sprawującym nadzór nad grupą po przeprowadzeniu konsultacji z zainteresowanymi organami nadzorczymi i podmiotem stojącym na czele grupy.
+- **1)** w przypadku gdy podmiotem stojącym na czele grupy jest zakład ubezpieczeń lub zakład reasekuracji przez zakład ubezpieczeń posiadający udziały kapitałowe w innym zakładzie lub zakład reasekuracji posiadający udziały kapitałowe w innym zakładzie;
+- **2)** w przypadku gdy podmiotem stojącym na czele grupy nie jest zakład ubezpieczeń ani zakład reasekuracji przez dominujący podmiot ubezpieczeniowy albo przez dominujący podmiot nieregulowany albo przez zakład ubezpieczeń lub zakład reasekuracji wchodzący w skład grupy wyznaczony przez organ nadzoru będący organem sprawującym nadzór nad grupą po przeprowadzeniu konsultacji z zainteresowanymi organami nadzorczymi i podmiotem stojącym na czele grupy.
 
 3. Zakład ubezpieczeń, zakład reasekuracji, dominujący podmiot ubezpieczeniowy oraz dominujący podmiot nieregulowany monitorują kapitałowy wymóg wypłacalności grupy w sposób ciągły. Jeżeli profil ryzyka grupy znacząco odbiega od założeń stanowiących podstawę kapitałowego wymogu wypłacalności grupy wykazanego w ostatnich przekazanych na poziomie grupy do organu nadzoru, zgodnie z ust. 2, danych i informacjach, podmiot, o którym mowa w ust. 2, bezzwłocznie dokonuje ponownego obliczenia kapitałowego wymogu wypłacalności grupy i informuje organ nadzoru będący organem sprawującym nadzór nad grupą o wyniku obliczeń.
 
@@ -4999,8 +5187,8 @@ Art. 441–479. (pominięte)
 
 2. Przez proporcję posiadanych udziałów kapitałowych w danym zakładzie będącym podmiotem powiązanym należy rozumieć:
 
-- **1)** wskaźnik procentowy stosowany do sporządzenia danych skonsolidowanych – w przypadku gdy stosowana jest metoda opierająca się na danych skonsolidowanych;
-- **2)** sumę procentowych zaangażowań w kapitale zakładowym danego zakładu, wynikających z bezpośrednich lub pośrednich powiązań kapitałowych – w przypadku gdy stosowana jest metoda odliczeń i agregacji, o której mowa w art. 380 ust. 2.
+- **1)** wskaźnik procentowy stosowany do sporządzenia danych skonsolidowanych w przypadku gdy stosowana jest metoda opierająca się na danych skonsolidowanych;
+- **2)** sumę procentowych zaangażowań w kapitale zakładowym danego zakładu, wynikających z bezpośrednich lub pośrednich powiązań kapitałowych w przypadku gdy stosowana jest metoda odliczeń i agregacji, o której mowa w art. 380 ust. 2.
 
 3. Jeżeli zakład będący podmiotem powiązanym jest jednostką zależną zakładu ubezpieczeń posiadającego udziały kapitałowe w innym zakładzie lub zakładu reasekuracji posiadającego udziały kapitałowe w innym zakładzie i nie posiada dopuszczonych środków własnych w wysokości co najmniej kapitałowego wymogu wypłacalności, zakład ubezpieczeń posiadający udziały kapitałowe w innym zakładzie lub zakład reasekuracji posiadający udziały kapitałowe w innym zakładzie uwzględnia niedobór dopuszczonych środków własnych wykazany przez jednostkę zależną w pełnej wysokości, niezależnie od proporcji posiadanych udziałów kapitałowych, z zastrzeżeniem ust. 4.
 
@@ -5090,9 +5278,7 @@ Art. 441–479. (pominięte)
 
 **Art. 388.**
 
-1. Zakład ubezpieczeń lub zakład reasekuracji posiadający udziały kapitałowe w instytucjach kredytowych, instytucjach finansowych w rozumieniu art. 4 ust. 1 pkt 7 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe lub firmach inwestycyjnych może przy obliczaniu wypłacalności grupy stosować metodę 1 albo metodę 2, o których mowa w rozporządzeniu delegowanym Komisji (UE) nr 342/2014 z dnia 21 stycznia 2014 r. uzupełniającym dyrektywę 2002/87/WE Parlamentu Europejskiego i Rady oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 575/2013 w odniesieniu do regulacyjnych standardów technicznych dotyczących stosowania metod obliczania wymogów adekwatności kapitałowej w odniesieniu do konglomeratów finansowych (Dz. Urz. UE L 100 z 03.04.2014,
-
-- **1)** .
+1. Zakład ubezpieczeń lub zakład reasekuracji posiadający udziały kapitałowe w instytucjach kredytowych, instytucjach finansowych w rozumieniu art. 4 ust. 1 pkt 7 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe lub firmach inwestycyjnych może przy obliczaniu wypłacalności grupy stosować metodę 1 albo metodę 2, o których mowa w rozporządzeniu delegowanym Komisji (UE) nr 342/2014 z dnia 21 stycznia 2014 r. uzupełniającym dyrektywę 2002/87/WE Parlamentu Europejskiego i Rady oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 575/2013 w odniesieniu do regulacyjnych standardów technicznych dotyczących stosowania metod obliczania wymogów adekwatności kapitałowej w odniesieniu do konglomeratów finansowych (Dz. Urz. UE L 100 z 03.04.2014, s. 1).
 
 2. Organ nadzoru będący organem sprawującym nadzór nad grupą może wydać, w drodze decyzji, zgodę na stosowanie metody 1 na wniosek zakładu ubezpieczeń lub zakładu reasekuracji, o którym mowa w ust. 1.
 
@@ -5153,7 +5339,7 @@ Art. 441–479. (pominięte)
 7. W przypadku gdy:
 
 - **1)** w terminie 6 miesięcy od dnia otrzymania przez organ nadzoru będący organem sprawującym nadzór nad grupą kompletnego wniosku, o którym mowa w ust. 2, zainteresowane organy nadzorcze nie osiągną wspólnego stanowiska,
-- **2)** zainteresowany organ nadzorczy złożył wniosek do EIOPA, który nie wydał rozstrzygnięcia – decyzję wydaje wyłącznie organ nadzoru będący organem sprawującym nadzór nad grupą. Decyzję tę uznaje się za rozstrzygającą.
+- **2)** zainteresowany organ nadzorczy złożył wniosek do EIOPA, który nie wydał rozstrzygnięcia decyzję wydaje wyłącznie organ nadzoru będący organem sprawującym nadzór nad grupą. Decyzję tę uznaje się za rozstrzygającą.
 
 8. Organ nadzoru będący organem sprawującym nadzór nad grupą wydając decyzję, o której mowa w ust. 1, bierze pod uwagę opinie i zastrzeżenia zainteresowanych organów nadzorczych wyrażone w terminie, o którym mowa w ust. 5.
 
@@ -5219,6 +5405,12 @@ Art. 441–479. (pominięte)
 
 **Art. 395.** Przepisy art. 397 i art. 398 stosuje się do zakładu ubezpieczeń lub zakładu reasekuracji będącego jednostką zależną innego zakładu ubezpieczeń lub innego zakładu reasekuracji, jeżeli łącznie są spełnione następujące warunki:
 
+- **1)** jednostka zależna, w stosunku do której organ nadzoru będący organem sprawującym nadzór nad grupą nie wydał decyzji, o której mowa w art. 374 ust. 5, jest objęta nadzorem nad grupą sprawowanym przez organ nadzoru będący organem sprawującym nadzór nad grupą na poziomie jednostki dominującej;
+- **2)** procesy zarządzania ryzykiem i mechanizmy kontroli wewnętrznej jednostki dominującej obejmują jednostkę zależną i w ocenie organu nadzoru jednostka zależna jest zarządzana w sposób ostrożny;
+- **3)** zakład ubezpieczeń lub zakład reasekuracji będący jednostką dominującą otrzymał zgodę organu nadzoru, o której mowa w art. 403 ust. 8;
+- **4)** zakład ubezpieczeń lub zakład reasekuracji będący jednostką dominującą otrzymał zgodę, o której mowa w art. 412 ust. 2;
+- **5)** zakład ubezpieczeń lub zakład reasekuracji będący jednostką dominującą złożył wniosek o zgodę na objęcie jednostki zależnej przepisami art. 397 i art. 398 i uzyskał zgodę zgodnie z art. 396.
+
 **Art. 396.**
 
 1. Organ nadzoru wydaje, w drodze decyzji, zgodę na objęcie krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji będącego jednostką zależną innego zakładu ubezpieczeń lub innego zakładu reasekuracji przepisami art. 397 i art. 398, w szczególności, jeżeli wydanie takiej zgody nie doprowadzi do ograniczenia zdolności krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji do wykonywania zobowiązań lub do nadmiernej ekspozycji na ryzyko.
@@ -5236,12 +5428,12 @@ Art. 441–479. (pominięte)
 7. W przypadku gdy rozstrzygnięcie w sprawie:
 
 - **1)** wniosku o wyrażenie zgody w zakresie odpowiadającym ust. 1 jest wydawane przez organ nadzorczy innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, który wydał jednostce zależnej zgodę na wykonywanie działalności ubezpieczeniowej lub działalności reasekuracyjnej, albo
-- **2)** wniosku, o którym mowa w ust. 2, lub wniosku o wyrażenie zgody w zakresie odpowiadającym ust. 1, jest wydawane przez organ nadzorczy innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej będący organem sprawującym nadzór nad grupą – organ nadzoru współpracuje z tymi organami nadzorczymi oraz innymi zainteresowanymi organami nadzorczymi w celu osiągnięcia wspólnego stanowiska zarówno co do samego rozstrzygnięcia, jak i jego przesłanek. Rozstrzygnięcie wydane przez organ nadzorczy innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej jest stosowane.
+- **2)** wniosku, o którym mowa w ust. 2, lub wniosku o wyrażenie zgody w zakresie odpowiadającym ust. 1, jest wydawane przez organ nadzorczy innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej będący organem sprawującym nadzór nad grupą organ nadzoru współpracuje z tymi organami nadzorczymi oraz innymi zainteresowanymi organami nadzorczymi w celu osiągnięcia wspólnego stanowiska zarówno co do samego rozstrzygnięcia, jak i jego przesłanek. Rozstrzygnięcie wydane przez organ nadzorczy innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej jest stosowane.
 
 8. W przypadku:
 
 - **1)** o którym mowa w ust. 7,
-- **2)** gdy organ nadzoru jest organem sprawującym nadzór nad grupą i nie jest organem, który wydał jednostce zależnej zezwolenie na wykonywanie działalności ubezpieczeniowej lub działalności reasekuracyjnej – organ nadzoru może złożyć wniosek do EIOPA o wydanie rozstrzygnięcia zgodnie z art. 19 rozporządzenia 1094/2010, w terminie 3 miesięcy od dnia otrzymania przez organ nadzoru kompletnego wniosku o wyrażenie zgody w zakresie odpowiadającym ust. 1.
+- **2)** gdy organ nadzoru jest organem sprawującym nadzór nad grupą i nie jest organem, który wydał jednostce zależnej zezwolenie na wykonywanie działalności ubezpieczeniowej lub działalności reasekuracyjnej organ nadzoru może złożyć wniosek do EIOPA o wydanie rozstrzygnięcia zgodnie z art. 19 rozporządzenia 1094/2010, w terminie 3 miesięcy od dnia otrzymania przez organ nadzoru kompletnego wniosku o wyrażenie zgody w zakresie odpowiadającym ust. 1.
 
 9. W przypadku złożenia wniosku, o którym mowa w ust. 8 pkt 2, lub gdy zainteresowane organy nadzorcze nie osiągną wspólnego stanowiska co do wniosku o wyrażenie zgody w zakresie odpowiadającym ust. 1, lub w przypadku, gdy którykolwiek z zainteresowanych organów nadzorczych złożył wniosek do EIOPA o wydanie rozstrzygnięcia zgodnie z art. 19 rozporządzenia 1094/2010, organ nadzoru będący organem sprawującym nadzór nad grupą wydaje decyzję w sprawie wniosku o wyrażenie zgody w zakresie odpowiadającym ust. 1. Organ nadzoru może wyrazić taką zgodę, w szczególności jeżeli jej wydanie nie doprowadzi do ograniczenia zdolności krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji do wykonywania zobowiązań lub do nadmiernej ekspozycji na ryzyko.
 
@@ -5266,8 +5458,8 @@ Art. 441–479. (pominięte)
 
 4. Jeżeli kapitałowy wymóg wypłacalności zakładu ubezpieczeń lub zakładu reasekuracji będącego jednostką zależną jest obliczany według formuły standardowej, a organ nadzoru wydał jednostce zależnej zezwolenie na wykonywanie działalności ubezpieczeniowej lub działalności reasekuracyjnej, oraz w ocenie organu nadzoru profil ryzyka jednostki zależnej odbiega znacząco od założeń stanowiących podstawę formuły standardowej i jeżeli dany zakład nie uwzględnia w sposób należyty zastrzeżeń organu nadzoru, organ nadzoru jest uprawniony do wnioskowania o:
 
-- **1)** zobowiązanie zakładu do zastąpienia części parametrów stosowanych w formule standardowej parametrami specyficznymi dla tego zakładu – zgodnie z art. 256 lub
-- **2)** nałożenie narzutu kapitałowego na kapitałowy wymóg wypłacalności zakładu – w przypadkach, o których mowa w art. 270.
+- **1)** zobowiązanie zakładu do zastąpienia części parametrów stosowanych w formule standardowej parametrami specyficznymi dla tego zakładu zgodnie z art. 256 lub
+- **2)** nałożenie narzutu kapitałowego na kapitałowy wymóg wypłacalności zakładu w przypadkach, o których mowa w art. 270.
 
 5. Organ nadzoru poddaje wniosek, o którym mowa w ust. 4, pod dyskusję w kolegium organów nadzoru i wyjaśnia propozycję rozpatrzenia wniosku zakładowi ubezpieczeń lub zakładowi reasekuracji będącemu jednostką zależną i kolegium organów nadzoru.
 
@@ -5309,7 +5501,7 @@ Art. 441–479. (pominięte)
 13. Jeżeli organ nadzoru jest organem sprawującym nadzór nad grupą i nie jest organem nadzorczym, który wydał zakładowi ubezpieczeń lub zakładowi reasekuracji będącemu jednostką zależną zezwolenie na wykonywanie działalności ubezpieczeniowej lub działalności reasekuracyjnej, oraz nie ma jednomyślności pomiędzy organem nadzoru a tym organem nadzorczym:
 
 - **1)** w odniesieniu do zatwierdzenia planu naprawczego, w tym przedłużenia okresu naprawczego, w terminie, o którym mowa w ust. 3, lub
-- **2)** w odniesieniu do zatwierdzenia środków, jakie należy podjąć wobec jednostki zależnej w terminie miesiąca od dnia powiadomienia kolegium organów nadzoru przez organ nadzorczy, który wydał zakładowi ubezpieczeń lub zakładowi reasekuracji będącemu jednostką zależną zezwolenie na wykonywanie działalności ubezpieczeniowej lub działalności reasekuracyjnej, o zamiarze podjęcia środków wobec jednostki zależnej – organ nadzoru, z wyjątkiem sytuacji nadzwyczajnych, może złożyć wniosek do EIOPA zgodnie z art. 19 rozporządzenia 1094/2010 o wydanie rozstrzygnięcia.
+- **2)** w odniesieniu do zatwierdzenia środków, jakie należy podjąć wobec jednostki zależnej w terminie miesiąca od dnia powiadomienia kolegium organów nadzoru przez organ nadzorczy, który wydał zakładowi ubezpieczeń lub zakładowi reasekuracji będącemu jednostką zależną zezwolenie na wykonywanie działalności ubezpieczeniowej lub działalności reasekuracyjnej, o zamiarze podjęcia środków wobec jednostki zależnej organ nadzoru, z wyjątkiem sytuacji nadzwyczajnych, może złożyć wniosek do EIOPA zgodnie z art. 19 rozporządzenia 1094/2010 o wydanie rozstrzygnięcia.
 
 **Art. 399.**
 
@@ -5445,9 +5637,7 @@ Art. 441–479. (pominięte)
 - **3)** ocena przestrzegania przez grupę przepisów dotyczących wypłacalności grupy, koncentracji ryzyka i transakcji wewnątrz grupy, o których mowa w art. 378–402;
 - **4)** ocena systemu zarządzania grupy określonego w art. 403 oraz spełniania przez członków zarządu oraz rady nadzorczej podmiotu posiadającego udziały kapitałowe w innym podmiocie przepisów, o których mowa w art. 48 i art. 414;
 - **5)** planowanie i koordynacja działań nadzorczych w normalnych i nadzwyczajnych sytuacjach, we współpracy z zainteresowanymi organami nadzorczymi i z uwzględnieniem charakteru, skali i złożoności ryzyk właściwych dla działalności wykonywanej przez podmioty wchodzące w skład danej grupy, poprzez odbywanie przynajmniej raz w roku regularnych spotkań lub stosowanie innych odpowiednich środków;
-- **6)** inne zadania, środki, decyzje i rozstrzygnięcia przypisane organowi sprawującemu nadzór nad grupą, w szczególności zatwierdzanie modelu wewnętrznego na poziomie grupy zgodnie z art. 391 i art. 393, oraz wydawanie zgody na stosowanie systemu ustanowionego zgodnie z art. 396–
-
-399.
+- **6)** inne zadania, środki, decyzje i rozstrzygnięcia przypisane organowi sprawującemu nadzór nad grupą, w szczególności zatwierdzanie modelu wewnętrznego na poziomie grupy zgodnie z art. 391 i art. 393, oraz wydawanie zgody na stosowanie systemu ustanowionego zgodnie z art. 396–399.
 
 2. Organ nadzoru będący organem sprawującym nadzór nad grupą przewodniczy kolegium organów nadzoru powołanemu w celu ułatwienia wykonywania zadań, o których mowa w ust. 1.
 
@@ -5538,6 +5728,9 @@ Art. 441–479. (pominięte)
 
 **Art. 409.** W przypadku gdy zakład ubezpieczeń lub zakład reasekuracji jest podmiotem powiązanym instytucji kredytowej lub firmy inwestycyjnej albo jeżeli ten sam podmiot posiada udziały kapitałowe w zakładzie ubezpieczeń lub zakładzie reasekuracji i w instytucji kredytowej lub firmie inwestycyjnej:
 
+- **1)** organ nadzoru może wystąpić do organów odpowiedzialnych za sprawowanie nadzoru nad instytucjami kredytowymi i firmami inwestycyjnymi z wnioskiem o przekazanie informacji mogących ułatwić realizację jego zadań, w szczególności zadań określonych w niniejszym rozdziale;
+- **2)** organ nadzoru przekazuje zainteresowanym organom nadzorczym informacje związane z wykonywaniem nadzoru nad instytucjami kredytowymi i firmami inwestycyjnymi, mogące ułatwić realizację zadań tych organów.
+
 **Art. 410.**
 
 1. Podmioty podlegające nadzorowi nad grupą, podmioty powiązane podmiotów podlegających nadzorowi nad grupą oraz podmioty posiadające udziały kapitałowe w podmiotach podlegających nadzorowi nad grupą mogą dokonywać wymiany informacji, które mogą być odpowiednie dla celów nadzoru nad grupą.
@@ -5598,7 +5791,7 @@ Art. 441–479. (pominięte)
 
 - **1)** zakład ubezpieczeń lub zakład reasekuracji wchodzący w skład grupy nie spełnia wymogów, o których mowa w art. 378–403,
 - **2)** wymogi, o których mowa w pkt 1, są spełnione, ale wypłacalność zakładu ubezpieczeń lub zakładu reasekuracji wchodzącego w skład grupy może być zagrożona, lub
-- **3)** transakcje wewnątrz grupy lub koncentracja ryzyka stanowią zagrożenie dla sytuacji finansowej zakładu ubezpieczeń lub zakładu reasekuracji wchodzącego w skład grupy – organ nadzoru może wydawać na piśmie utrwalonym w postaci papierowej albo elektronicznej zalecenia w celu naprawy sytuacji w stosunku do zakładu ubezpieczeń lub zakładu reasekuracji, a w przypadku gdy organ nadzoru jest organem sprawującym nadzór nad grupą – w stosunku do dominującego podmiotu ubezpieczeniowego lub dominującego podmiotu nieregulowanego.
+- **3)** transakcje wewnątrz grupy lub koncentracja ryzyka stanowią zagrożenie dla sytuacji finansowej zakładu ubezpieczeń lub zakładu reasekuracji wchodzącego w skład grupy organ nadzoru może wydawać na piśmie utrwalonym w postaci papierowej albo elektronicznej zalecenia w celu naprawy sytuacji w stosunku do zakładu ubezpieczeń lub zakładu reasekuracji, a w przypadku gdy organ nadzoru jest organem sprawującym nadzór nad grupą w stosunku do dominującego podmiotu ubezpieczeniowego lub dominującego podmiotu nieregulowanego.
 
 1a. Przepisy art. 237 ust. 4 i 5 stosuje się odpowiednio.
 
@@ -5638,8 +5831,8 @@ Art. 441–479. (pominięte)
 
 3. Dla celów obliczeń wypłacalności grupy podmiot, o którym mowa w ust. 2, jest traktowany jak zakład ubezpieczeń lub zakład reasekuracji przy zastosowaniu przepisów art. 238–248, oraz:
 
-- **1)** przepisów art. 386 – w przypadku dominującego podmiotu ubezpieczeniowego i dominującego podmiotu nieregulowanego;
-- **2)** przepisów art. 387 – w przypadku zakładu ubezpieczeń z siedzibą w państwie niebędącym państwem członkowskim Unii Europejskiej i zakładu reasekuracji z siedzibą w państwie niebędącym państwem członkowskim Unii Europejskiej.
+- **1)** przepisów art. 386 w przypadku dominującego podmiotu ubezpieczeniowego i dominującego podmiotu nieregulowanego;
+- **2)** przepisów art. 387 w przypadku zakładu ubezpieczeń z siedzibą w państwie niebędącym państwem członkowskim Unii Europejskiej i zakładu reasekuracji z siedzibą w państwie niebędącym państwem członkowskim Unii Europejskiej.
 
 4. Organ nadzoru będący organem sprawującym nadzór nad grupą może stosować inne metody zapewniające odpowiedni nadzór nad zakładami ubezpieczeń i zakładami reasekuracji wchodzącymi w skład grupy. Organ nadzoru będący organem sprawującym nadzór nad grupą określa te metody po przeprowadzeniu konsultacji z zainteresowanymi organami nadzorczymi.
 
@@ -5778,11 +5971,11 @@ Art. 441–479. (pominięte)
 
 **Art. 433c.** Kto, będąc odpowiedzialnym za informacje, o których mowa w art. 222d, podaje w nich nieprawdziwe dane lub zataja prawdziwe dane wpływające w istotny sposób na treść tych informacji, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
-**Art. 434.** Kto, będąc członkiem zarządu, członkiem rady nadzorczej, a w przypadku spółki europejskiej, w której przyjęto system monistyczny – członkiem rady administrującej, lub likwidatorem zakładu ubezpieczeń albo zakładu reasekuracji, przedstawia organowi nadzoru dane i informacje nieprawdziwe albo w inny sposób wprowadza w błąd ten organ, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+**Art. 434.** Kto, będąc członkiem zarządu, członkiem rady nadzorczej, a w przypadku spółki europejskiej, w której przyjęto system monistyczny członkiem rady administrującej, lub likwidatorem zakładu ubezpieczeń albo zakładu reasekuracji, przedstawia organowi nadzoru dane i informacje nieprawdziwe albo w inny sposób wprowadza w błąd ten organ, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
-**Art. 435.** Kto, będąc członkiem zarządu zakładu ubezpieczeń, a w przypadku spółki europejskiej, w której przyjęto system monistyczny – członkiem rady administrującej, albo likwidatorem, nie zgłasza wniosku o ogłoszenie upadłości zakładu ubezpieczeń pomimo powstania warunków uzasadniających według przepisów upadłość zakładu ubezpieczeń, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+**Art. 435.** Kto, będąc członkiem zarządu zakładu ubezpieczeń, a w przypadku spółki europejskiej, w której przyjęto system monistyczny członkiem rady administrującej, albo likwidatorem, nie zgłasza wniosku o ogłoszenie upadłości zakładu ubezpieczeń pomimo powstania warunków uzasadniających według przepisów upadłość zakładu ubezpieczeń, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
-**Art. 436.** Kto, będąc członkiem zarządu zakładu reasekuracji, a w przypadku spółki europejskiej, w której przyjęto system monistyczny – członkiem rady administrującej, albo likwidatorem, nie zgłasza wniosku o ogłoszenie upadłości zakładu reasekuracji pomimo powstania warunków uzasadniających według przepisów upadłość zakładu reasekuracji, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+**Art. 436.** Kto, będąc członkiem zarządu zakładu reasekuracji, a w przypadku spółki europejskiej, w której przyjęto system monistyczny członkiem rady administrującej, albo likwidatorem, nie zgłasza wniosku o ogłoszenie upadłości zakładu reasekuracji pomimo powstania warunków uzasadniających według przepisów upadłość zakładu reasekuracji, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
 **Art. 437.**
 
@@ -5867,12 +6060,12 @@ Art. 441–479. (pominięte)
 
 **Art. 487.**
 
-1. Zakład ubezpieczeń lub zakład reasekuracji, który do dnia 31 grudnia 2015 r. otworzy likwidację, może, za zgodą organu nadzoru, wykonywać działalność zgodnie z dotychczasowymi przepisami także po dniu wejścia w życie ustawy, nie dłużej jednak niż do dnia 31 grudnia 2018 r. w przypadku likwidacji dobrowolnej, a w przypadku likwidacji przymusowej – do dnia 31 grudnia 2020 r., jeżeli zakład ten:
+1. Zakład ubezpieczeń lub zakład reasekuracji, który do dnia 31 grudnia 2015 r. otworzy likwidację, może, za zgodą organu nadzoru, wykonywać działalność zgodnie z dotychczasowymi przepisami także po dniu wejścia w życie ustawy, nie dłużej jednak niż do dnia 31 grudnia 2018 r. w przypadku likwidacji dobrowolnej, a w przypadku likwidacji przymusowej do dnia 31 grudnia 2020 r., jeżeli zakład ten:
 
 - **1)** złoży wniosek do organu nadzoru o wyrażenie zgody na wykonywanie działalności zgodnie z dotychczasowymi przepisami;
 - **2)** nie wchodzi w skład grupy albo wszystkie zakłady ubezpieczeń lub zakłady reasekuracji wchodzące w skład grupy przestały zawierać nowe umowy ubezpieczenia lub nowe umowy reasekuracji;
 - **3)** będzie przedkładał organowi nadzoru sprawozdania roczne w sprawie postępów osiągniętych w zakresie likwidacji;
-- **4)** zakończy likwidację do dnia 31 grudnia 2018 r. – w przypadku likwidacji dobrowolnej, a w przypadku likwidacji przymusowej – do dnia 31 grudnia 2020 r.
+- **4)** zakończy likwidację do dnia 31 grudnia 2018 r. w przypadku likwidacji dobrowolnej, a w przypadku likwidacji przymusowej do dnia 31 grudnia 2020 r.
 
 2. Organ nadzoru, w drodze decyzji, może skrócić terminy, o których mowa w ust. 1, jeżeli zakład ubezpieczeń lub zakład reasekuracji w ocenie organu nadzoru nie czyni wystarczających postępów w celu zakończenia likwidacji.
 
@@ -5882,41 +6075,41 @@ Art. 441–479. (pominięte)
 
 1. Zakład ubezpieczeń i zakład reasekuracji przekazują organowi nadzoru dane i informacje, o których mowa w art. 335, za okresy roczne, nie później niż:
 
-- **1)** 20 tygodni od ostatniego dnia roku obrotowego – w roku obrotowym kończącym się w dniu przypadającym między 30 czerwca 2016 r. a 31 grudnia 2016 r.;
-- **2)** 18 tygodni od ostatniego dnia roku obrotowego – w roku obrotowym kończącym się w dniu przypadającym między 30 czerwca 2017 r. a 31 grudnia 2017 r.;
-- **3)** 16 tygodni od ostatniego dnia roku obrotowego – w roku obrotowym kończącym się w dniu przypadającym między 30 czerwca 2018 r. a 31 grudnia 2018 r.
+- **1)** 20 tygodni od ostatniego dnia roku obrotowego w roku obrotowym kończącym się w dniu przypadającym między 30 czerwca 2016 r. a 31 grudnia 2016 r.;
+- **2)** 18 tygodni od ostatniego dnia roku obrotowego w roku obrotowym kończącym się w dniu przypadającym między 30 czerwca 2017 r. a 31 grudnia 2017 r.;
+- **3)** 16 tygodni od ostatniego dnia roku obrotowego w roku obrotowym kończącym się w dniu przypadającym między 30 czerwca 2018 r. a 31 grudnia 2018 r.
 
 2. Zakład ubezpieczeń i zakład reasekuracji przekazują organowi nadzoru dane i informacje, o których mowa w art. 335, za okresy kwartalne w roku obrotowym, nie później niż:
 
-- **1)** 8 tygodni od ostatniego dnia kwartału w roku obrotowym – w odniesieniu do kwartałów kończących się w dniu przypadającym między 1 stycznia 2016 r. a 31 grudnia 2016 r.;
-- **2)** 7 tygodni od ostatniego dnia kwartału w roku obrotowym – w odniesieniu do kwartałów kończących się w dniu przypadającym między 1 stycznia 2017 r. a 31 grudnia 2017 r.;
-- **3)** 6 tygodni od ostatniego dnia kwartału w roku obrotowym – w odniesieniu do kwartałów kończących się w dniu przypadającym między 1 stycznia 2018 r. a 31 grudnia 2018 r.
+- **1)** 8 tygodni od ostatniego dnia kwartału w roku obrotowym w odniesieniu do kwartałów kończących się w dniu przypadającym między 1 stycznia 2016 r. a 31 grudnia 2016 r.;
+- **2)** 7 tygodni od ostatniego dnia kwartału w roku obrotowym w odniesieniu do kwartałów kończących się w dniu przypadającym między 1 stycznia 2017 r. a 31 grudnia 2017 r.;
+- **3)** 6 tygodni od ostatniego dnia kwartału w roku obrotowym w odniesieniu do kwartałów kończących się w dniu przypadającym między 1 stycznia 2018 r. a 31 grudnia 2018 r.
 
 3. Zakład ubezpieczeń i zakład reasekuracji ujawniają sprawozdania o wypłacalności i kondycji finansowej, o których mowa w rozdziale 11, nie później niż:
 
-- **1)** 20 tygodni od ostatniego dnia roku obrotowego – w roku obrotowym kończącym się w dniu przypadającym między 30 czerwca 2016 r. a 31 grudnia 2016 r.;
-- **2)** 18 tygodni od ostatniego dnia roku obrotowego – w roku obrotowym kończącym się w dniu przypadającym między 30 czerwca 2017 r. a 31 grudnia 2017 r.;
-- **3)** 16 tygodni od ostatniego dnia roku obrotowego – w roku obrotowym kończącym się w dniu przypadającym między 30 czerwca 2018 r. a 31 grudnia 2018 r.
+- **1)** 20 tygodni od ostatniego dnia roku obrotowego w roku obrotowym kończącym się w dniu przypadającym między 30 czerwca 2016 r. a 31 grudnia 2016 r.;
+- **2)** 18 tygodni od ostatniego dnia roku obrotowego w roku obrotowym kończącym się w dniu przypadającym między 30 czerwca 2017 r. a 31 grudnia 2017 r.;
+- **3)** 16 tygodni od ostatniego dnia roku obrotowego w roku obrotowym kończącym się w dniu przypadającym między 30 czerwca 2018 r. a 31 grudnia 2018 r.
 
 **Art. 489.**
 
 1. Zakład ubezpieczeń posiadający udziały kapitałowe w innym zakładzie ubezpieczeń lub zakładzie reasekuracji, zakład reasekuracji posiadający udziały kapitałowe w innym zakładzie ubezpieczeń lub zakładzie reasekuracji, dominujący podmiot ubezpieczeniowy i dominujący podmiot nieregulowany przekazują organowi nadzoru dane i informacje, o których mowa w art. 410, za okresy roczne, nie później niż:
 
-- **1)** 26 tygodni od ostatniego dnia roku obrotowego – w roku obrotowym kończącym się w dniu przypadającym między 30 czerwca 2016 r. a 31 grudnia 2016 r.;
-- **2)** 24 tygodnie od ostatniego dnia roku obrotowego – w roku obrotowym kończącym się w dniu przypadającym między 30 czerwca 2017 r. a 31 grudnia 2017 r.;
-- **3)** 22 tygodnie od ostatniego dnia roku obrotowego – w roku obrotowym kończącym się w dniu przypadającym między 30 czerwca 2018 r. a 31 grudnia 2018 r.
+- **1)** 26 tygodni od ostatniego dnia roku obrotowego w roku obrotowym kończącym się w dniu przypadającym między 30 czerwca 2016 r. a 31 grudnia 2016 r.;
+- **2)** 24 tygodnie od ostatniego dnia roku obrotowego w roku obrotowym kończącym się w dniu przypadającym między 30 czerwca 2017 r. a 31 grudnia 2017 r.;
+- **3)** 22 tygodnie od ostatniego dnia roku obrotowego w roku obrotowym kończącym się w dniu przypadającym między 30 czerwca 2018 r. a 31 grudnia 2018 r.
 
 2. Zakład ubezpieczeń posiadający udziały kapitałowe w innym zakładzie ubezpieczeń lub zakładzie reasekuracji, zakład reasekuracji posiadający udziały kapitałowe w innym zakładzie ubezpieczeń lub zakładzie reasekuracji, dominujący podmiot ubezpieczeniowy i dominujący podmiot nieregulowany przedkładają do organu nadzoru informacje, o których mowa w art. 410, za okresy kwartalne w roku obrotowym, nie później niż:
 
-- **1)** 14 tygodni od ostatniego dnia kwartału w roku obrotowym – w odniesieniu do kwartałów kończących się w dniu przypadającym między 1 stycznia 2016 r. a 31 grudnia 2016 r.;
-- **2)** 13 tygodni od ostatniego dnia kwartału w roku obrotowym – w odniesieniu do kwartałów kończących się w dniu przypadającym między 1 stycznia 2017 r. a 31 grudnia 2017 r.;
-- **3)** 12 tygodni od ostatniego dnia kwartału w roku obrotowym – w odniesieniu do kwartałów kończących się w dniu przypadającym między 1 stycznia 2018 r. a 31 grudnia 2018 r.
+- **1)** 14 tygodni od ostatniego dnia kwartału w roku obrotowym w odniesieniu do kwartałów kończących się w dniu przypadającym między 1 stycznia 2016 r. a 31 grudnia 2016 r.;
+- **2)** 13 tygodni od ostatniego dnia kwartału w roku obrotowym w odniesieniu do kwartałów kończących się w dniu przypadającym między 1 stycznia 2017 r. a 31 grudnia 2017 r.;
+- **3)** 12 tygodni od ostatniego dnia kwartału w roku obrotowym w odniesieniu do kwartałów kończących się w dniu przypadającym między 1 stycznia 2018 r. a 31 grudnia 2018 r.
 
 3. Zakład ubezpieczeń posiadający udziały kapitałowe w innym zakładzie ubezpieczeń lub zakładzie reasekuracji, zakład reasekuracji posiadający udziały kapitałowe w innym zakładzie ubezpieczeń lub zakładzie reasekuracji, dominujący podmiot ubezpieczeniowy i dominujący podmiot nieregulowany, ujawniają sprawozdanie o wypłacalności i kondycji finansowej na poziomie grupy, o którym mowa w art. 412, nie później niż:
 
-- **1)** 26 tygodni od ostatniego dnia roku obrotowego – w roku obrotowym kończącym się w dniu przypadającym między 30 czerwca 2016 r. a 31 grudnia 2016 r.;
-- **2)** 24 tygodnie od ostatniego dnia roku obrotowego – w roku obrotowym kończącym się w dniu przypadającym między 30 czerwca 2017 r. a 31 grudnia 2017 r.;
-- **3)** 22 tygodnie od ostatniego dnia roku obrotowego – w roku obrotowym kończącym się w dniu przypadającym między 30 czerwca 2018 r. a 31 grudnia 2018 r.
+- **1)** 26 tygodni od ostatniego dnia roku obrotowego w roku obrotowym kończącym się w dniu przypadającym między 30 czerwca 2016 r. a 31 grudnia 2016 r.;
+- **2)** 24 tygodnie od ostatniego dnia roku obrotowego w roku obrotowym kończącym się w dniu przypadającym między 30 czerwca 2017 r. a 31 grudnia 2017 r.;
+- **3)** 22 tygodnie od ostatniego dnia roku obrotowego w roku obrotowym kończącym się w dniu przypadającym między 30 czerwca 2018 r. a 31 grudnia 2018 r.
 
 **Art. 490.**
 
@@ -5960,6 +6153,9 @@ Art. 441–479. (pominięte)
 4. Przepisy ust. 1–3 stosuje się odpowiednio na poziomie grupy oraz gdy zakład ubezpieczeń lub zakład reasekuracji posiadający udziały kapitałowe w innym zakładzie ubezpieczeń lub zakładzie reasekuracji albo zakład ubezpieczeń lub zakład reasekuracji wchodzący w skład tej samej grupy posiada środki własne na pokrycie marginesu wypłacalności, ale nie jest spełniony kapitałowy wymóg wypłacalności grupy.
 
 **Art. 492.** W okresie do dnia 31 marca 2022 r. krajowy zakład ubezpieczeń lub krajowy zakład reasekuracji, który nie jest jednostką zależną innego zakładu ubezpieczeń lub zakładu reasekuracji, może złożyć wniosek do organu nadzoru będącego organem sprawującym nadzór nad grupą o zgodę na obliczanie wymogu wypłacalności części grupy oraz kapitałowych wymogów wypłacalności niektórych zakładów ubezpieczeń i zakładów reasekuracji wchodzących w skład grupy przy zastosowaniu modelu wewnętrznego, jeżeli spełnione są poniższe warunki:
+
+- **1)** podmiot dominujący najwyższego szczebla w grupie ma siedzibę na terytorium Rzeczypospolitej Polskiej;
+- **2)** profil ryzyka części grupy różni się znacząco od profilu ryzyka pozostałej części grupy.
 
 **Art. 493.**
 
@@ -6007,8 +6203,8 @@ Art. 441–479. (pominięte)
 
 3. Przejściowe odliczenie w stosunku do rezerw techniczno-ubezpieczeniowych jest równe iloczynowi:
 
-- **1)** różnicy między:
-    - **a)** wartością rezerw techniczno-ubezpieczeniowych dla celów wypłacalności, ustaloną na dzień 1 stycznia 2016 r. zgodnie z art. 224, pomniejszoną o kwoty należne z umów reasekuracji i od spółek celowych a
+- **1)** różnicy między: zgodnie z art. 224, pomniejszoną o kwoty należne z umów reasekuracji i od spółek celowych a
+    - **a)** wartością rezerw techniczno-ubezpieczeniowych dla celów wypłacalności, ustaloną na dzień 1 stycznia 2016 r.
     - **b)** wartością rezerw techniczno-ubezpieczeniowych, ustaloną na dzień 31 grudnia 2015 r., pomniejszoną o kwoty należne z umów reasekuracji oraz
 
 - **2)** wskaźnika procentowego, o którym mowa w ust. 4.
@@ -6073,9 +6269,9 @@ Art. 441–479. (pominięte)
 
 2. Zgoda, o której mowa w ust. 1:
 
-- **1)** pkt 9 – może być wydana także z urzędu;
-- **2)** pkt 10 – może być wydana także na wniosek złożony przez podmioty powiązane zakładu albo przez podmioty powiązane dominującego podmiotu ubezpieczeniowego lub podmioty powiązane dominującego podmiotu nieregulowanego;
-- **3)** pkt 11 – może być wydana także na wniosek złożony przez podmioty powiązane zakładu albo przez podmioty powiązane dominującego podmiotu ubezpieczeniowego lub podmioty powiązane dominującego podmiotu nieregulowanego.
+- **1)** pkt 9 może być wydana także z urzędu;
+- **2)** pkt 10 może być wydana także na wniosek złożony przez podmioty powiązane zakładu albo przez podmioty powiązane dominującego podmiotu ubezpieczeniowego lub podmioty powiązane dominującego podmiotu nieregulowanego;
+- **3)** pkt 11 może być wydana także na wniosek złożony przez podmioty powiązane zakładu albo przez podmioty powiązane dominującego podmiotu ubezpieczeniowego lub podmioty powiązane dominującego podmiotu nieregulowanego.
 
 3. Organ nadzoru będący organem sprawującym nadzór nad grupą może, przed dniem 1 stycznia 2016 r., po przeprowadzeniu konsultacji z pozostałymi zainteresowanymi organami nadzorczymi i z podmiotem stojącym na czele grupy, zobowiązać podmiot stojący na czele grupy do stosowania, po dniu 31 grudnia 2015 r., metody odliczeń i agregacji lub kombinacji tej metody oraz metody opierającej się na danych skonsolidowanych, jeżeli stosowanie wyłącznie metody opierającej się na danych skonsolidowanych nie byłoby właściwe.
 
@@ -6089,15 +6285,53 @@ Art. 441–479. (pominięte)
 
 **Art. 501.** W okresie do dnia 1 stycznia 2021 r. organ nadzoru corocznie przekazuje EIOPA informacje dotyczące:
 
+- **1)** dostępności gwarancji długoterminowych w ramach produktów ubezpieczeniowych na rynku krajowym oraz postępowania zakładów ubezpieczeń i zakładów reasekuracji jako inwestorów długoterminowych;
+- **2)** liczby zakładów ubezpieczeń i zakładów reasekuracji stosujących:
+    - **a)** korektę dopasowującą do odpowiedniej struktury terminowej stopy procentowej wolnej od ryzyka,
+    - **b)** korektę z tytułu zmienności do odpowiedniej struktury terminowej stopy procentowej wolnej od ryzyka,
+    - **c)** środki, o których mowa w art. 312 ust. 4, w okresie przedłużonym na podstawie art. 312 ust. 6,
+    - **d)** podmoduł ryzyka akcji oparty na czasie trwania,
+    - **e)** środek przejściowy dotyczący stóp procentowych wolnych od ryzyka,
+    - **f)** środek przejściowy dotyczący rezerw techniczno-ubezpieczeniowych;
+
+- **3)** wpływu stosowania:
+    - **a)** korekty dopasowującej do odpowiedniej struktury terminowej stopy procentowej wolnej od ryzyka,
+    - **b)** korekty z tytułu zmienności do odpowiedniej struktury terminowej stopy procentowej wolnej od ryzyka,
+    - **c)** symetrycznego mechanizmu dostosowania wymogu kapitałowego związanego z inwestowaniem w akcje,
+    - **d)** podmodułu ryzyka akcji opartego na czasie trwania,
+    - **e)** środka przejściowego dotyczącego stóp procentowych wolnych od ryzyka,
+    - **f)** środka przejściowego dotyczącego rezerw techniczno-ubezpieczeniowych ‒ na sytuację finansową zakładów ubezpieczeń i zakładów reasekuracji, na rynku krajowym oraz w odniesieniu do poszczególnych zakładów, w sposób uniemożliwiający ich identyfikację;
+
+- **4)** wpływu stosowania:
+    - **a)** korekty dopasowującej do odpowiedniej struktury terminowej stopy procentowej wolnej od ryzyka,
+    - **b)** korekty z tytułu zmienności do odpowiedniej struktury terminowej stopy procentowej wolnej od ryzyka,
+    - **c)** symetrycznego mechanizmu dostosowania wymogu kapitałowego związanego z inwestowaniem w akcje,
+    - **d)** podmodułu ryzyka akcji opartego na czasie trwania ‒ na politykę lokacyjną zakładów ubezpieczeń i zakładów reasekuracji oraz informację, czy ich stosowanie powoduje nienależne zmniejszenie kapitałowego wymogu wypłacalności;
+
+- **5)** wpływu przedłużenia, na podstawie art. 312 ust. 6, okresu stosowania środków, o których mowa w art. 312 ust. 4, na podjęte przez zakłady ubezpieczeń i zakłady reasekuracji środki mające na celu przywrócenie poziomu dopuszczonych środków własnych pokrywającego kapitałowy wymóg wypłacalności lub obniżenie profilu ryzyka w celu uzyskania zgodności z kapitałowym wymogiem wypłacalności;
+- **6)** w przypadku gdy zakład ubezpieczeń i zakład reasekuracji stosują środek przejściowy dotyczący stóp procentowych wolnych od ryzyka albo środek przejściowy dotyczący rezerw techniczno-ubezpieczeniowych:
+    - **a)** realizacji planów stopniowego wdrożenia działań mających na celu ustanowienie poziomu dopuszczonych środków własnych pokrywających kapitałowy wymóg wypłacalności lub obniżenia profilu ryzyka w celu zapewnienia zgodności z kapitałowym wymogiem wypłacalności do końca okresu stosowania środka przejściowego dotyczącego stóp procentowych wolnych od ryzyka albo środka przejściowego dotyczącego rezerw techniczno-ubezpieczeniowych,
+    - **b)** prognozy zmniejszenia zależności zakładu od stosowanego środka przejściowego dotyczącego stóp procentowych wolnych od ryzyka albo środka przejściowego dotyczącego rezerw techniczno-ubezpieczeniowych, w tym informacji na temat działań podjętych lub planowanych przez zakłady i organ nadzoru.
+
 **Art. 502.**
 
 1. W terminie 3 miesięcy od dnia wejścia w życie ustawy zakład ubezpieczeń poinformuje uprawnionego z umowy ubezpieczenia, o której mowa w art. 4 pkt 1 lub 2 ustawy zmienianej w art. 455 , o możliwości wyczerpania się określonej w umowie ubezpieczenia sumy gwarancyjnej, jeżeli łączna kwota wypłaconych odszkodowań lub innych świadczeń, przekroczyła przed dniem wejścia w życie ustawy, 80 % określonej w umowie ubezpieczenia sumy gwarancyjnej.
 
-2. Przekazując informację, o której mowa w ust. 1, zakład ubezpieczeń poinformuje jednocześnie uprawnionego z umowy ubezpieczenia o możliwości wytoczenia do właściwego sądu powództwa o ukształtowanie stosunku prawnego wynikającego z umowy ubezpieczenia, o której mowa w art. 4 pkt 1 lub 2 ustawy zmienianej w art. 455 , na podstawie art. 357 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
+2. Przekazując informację, o której mowa w ust. 1, zakład ubezpieczeń poinformuje jednocześnie uprawnionego z umowy ubezpieczenia o możliwości wytoczenia do właściwego sądu powództwa o ukształtowanie stosunku prawnego wynikającego z umowy ubezpieczenia, o której mowa w art. 4 pkt 1 lub 2 ustawy zmienianej w art. 455 , na podstawie art. 357 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny.
 
 #### Rozdział 20 Przepisy końcowe
 
 **Art. 503.** Traci moc ustawa z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. z 2015 r. poz. 1206, 1273 i 1348).
 
 **Art. 504.** Ustawa wchodzi w życie z dniem 1 stycznia 2016 r., z wyjątkiem:
+
+- **1)** art. 478, który wchodzi w życie z dniem następującym po dniu ogłoszenia ;
+- **2)** art. 3 ust. 1 pkt 4, 5, 12, 17, 21, 23–25, 29, 32, 44 i 48 oraz ust. 6 i 7, art. 44, art. 374–377, art. 387, art. 390, art. 395, art. 397, art. 398, art. 404, art. 405, art. 416–418, art. 464 pkt 1 lit. a w zakresie art. 3 pkt 2a lit. c, oraz art. 500, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
+- **3)** art. 18, art. 19 i art. 21, które wchodzą w życie z dniem 1 kwietnia 2016 r.;
+- **4)** art. 4 ust. 11 pkt 3, który wchodzi w życie z dniem 1 sierpnia 2016 r.;
+- **5)** art. 291, art. 335 ust. 7 i 8, art. 410 ust. 5 i 6 oraz art. 412 ust. 5, które wchodzą w życie z dniem 1 stycznia 2019 r. PODZIAŁ RYZYKA WEDŁUG DZIAŁÓW, GRUP I RODZAJÓW UBEZPIECZEŃ
+
+### DZIAŁ I Ubezpieczenia na życie
+
+### DZIAŁ II Pozostałe ubezpieczenia osobowe oraz ubezpieczenia majątkowe
 

@@ -22,6 +22,7 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2011-04-13 |
 | Data wydania | 2014-01-09 |
+| Wejście w życie | 2013-12-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000034) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/34/text.pdf) |
 

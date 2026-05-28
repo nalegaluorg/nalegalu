@@ -8,10 +8,10 @@ pos: 1653
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Na podstawie art. 184 ust. 1 ustawy z dnia 16 lipca 1998 r. — Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. z 2010 r.
+# Obwieszczenie Państwowej Komisji Wyborczejz dnia 20 grudnia 2010 r. uzupełniające obwieszczenie o zbiorczych wynikach wyborów wójtów, burmistrzów i prezydentów miast na obszarze kraju, przeprowadzonych w dniu 21 listopada 2010 r. oraz w dniu 5 grudnia 2010 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,11 +25,28 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102471653) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1653/text.pdf) |
 
-Nr 176, poz. 1190) oraz art. 2 ust. 2 ustawy z dnia 20 czerwca 2002 r. o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta (Dz. U. z 2010 r. Nr 176, poz. 1191) Państwowa Komisja Wyborcza podaje do publicznej wiadomości zbiorcze wyniki wyborów wójtów, burmistrzów i prezydentów miast na obszarze kraju przeprowadzonych w dniu 19 grudnia 2010 r.
-w ponownym głosowaniu odroczonym ze względu na zmianę jednego z kandydatów.
-1. Wybierano łącznie 10 wójtów i burmistrzów spośród 19 kandydatów zgłoszonych przez 17 komitetów wyborczych, w tym jednego burmistrza w mieście, w którym na liście kandydatów pozostał tylko jeden kandydat.
-2. Uprawnionych do głosowania było 63 568 osób.
-1653 OBWIESZCZENIE PAŃSTWOWEJ z dnia 20 grudnia uzupełniające obwieszczenie o zbiorczych wynikach wyborów na obszarze kraju, przeprowadzonych w dniu 21 Przewodniczący Państwowej Komisji Wyborczej Stefan J. Jaworski Zastępcy Przewodniczącego Państwowej Komisji Wyborczej Jan Kacprzak Stanisław Kosmal Członkowie Państwowej Komisji Wyborczej Maria Grzelka Andrzej Kisielewicz Andrzej Mączyński Janusz Niemcewicz Włodzimierz Ryms Stanisław Zabłocki
+Treść obwieszczenia Rozdział 1 – Odroczone ponowne głosowanie w dniu 19 grudnia 2010 r. Rozdział 2 – Wyniki wyborów wójtów, burmistrzów i prezydentów miast w odroczonym ponownym głosowaniu
+Treść obwieszczenia
+Na podstawie art. 184 ust. 1 ustawy z dnia 16 lipca 1998 r. – Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. z 2010 r. Nr 176, poz. 1190) oraz art. 2 ust. 2 ustawy z dnia 20 czerwca 2002 r. o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta (Dz. U. z 2010 r. Nr 176, poz. 1191) Państwowa Komisja Wyborcza podaje do publicznej wiadomości zbiorcze wyniki wyborów wójtów, burmistrzów i prezydentów miast na obszarze kraju przeprowadzonych w dniu 19 grudnia 2010 r. w ponownym głosowaniu odroczonym ze względu na zmianę jednego z kandydatów.
+1.
+Wybierano łącznie 10 wójtów i burmistrzów spośród 19 kandydatów zgłoszonych przez 17 komitetów wyborczych, w tym jednego burmistrza w mieście, w którym na liście kandydatów pozostał tylko jeden kandydat.
+2.
+Uprawnionych do głosowania było 63 568 osób.
+3.
+Karty do głosowania wydano 21 047 wyborcom.
+4.
+W wyborach wzięło udział (oddało ważne karty do głosowania) 21 041 wyborców, to jest 33,10% uprawnionych do głosowania.
+5.
+Głosów ważnych oddano 20 757, to jest 98,65% ogólnej liczby głosów oddanych.
+6.
+Głosów nieważnych oddano 284, to jest 1,35% ogólnej liczby głosów oddanych.
+Wybrano 10 wójtów i burmistrzów, z czego:
+1)
+7 wójtów i 2 burmistrzów w gminach liczących do 20 tys. mieszkańców;
+2)
+1 burmistrza w mieście liczącym powyżej 20 tys. mieszkańców.
 
 #### Rozdział 1 Odroczone ponowne głosowanie w dniu 19 grudnia 2010 r.
+
+#### Rozdział 2 Wyniki wyborów wójtów, burmistrzów i prezydentów miast w odroczonym ponownym głosowaniu
 

@@ -8,10 +8,10 @@ pos: 2122
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 listopada 2018 r.
+# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 22 października 2018 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia ministra spraw wewnętrznych i administracji wsprawie określenia wzorów dokumentów stosowanych w postępowaniu o opróżnienie lokalu mieszkalnego
 
 | Pole | Wartość |
 |---|---|
@@ -25,26 +25,60 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002122) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2122/text.pdf) |
 
-MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI" w sprawie określenia wzorów dokumentów stosowanych w postępowaniu o opróżnienie lokalu mieszkalnego Na podstawie art. 78c ust. 7 ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej
-l) wzór wezwania do opróżnienia lokalu mieszkalnego, miejsca w internacie albo kwaterze internatowej;
-2) wzór decyzji o opróżnieniu lokalu mieszkalnego, miejsca w internacie albo kwaterze internatowej;
-3) - wzór wniosku o zamianę lokalu mieszkalnego.
-2. Ilekroć w rozporządzeniu jest mowa o ustawie, należy przez to rozumieć ustawę z dnia 22 czerwca 1995 r. o zakwal| terowaniu Sił Zbrojnych Rzeczypospolitej Polskiej.
-[2. 1. Wzór wezwania do opróżnienia lokalu mieszkalnego, miejsca w internacie albo kwaterze internatowej, o którym mowa w art. 41 ust. 4 ustawy, jest określony w załączniku nr 1 do rozporządzenia.
-2. Wzór decyzji o opróżnieniu lokalu mieszkalnego, miejsca w internacie albo kwaterze internatowej, o której mowa w art. 41 ust. 6 ustawy, jest określony w załączniku nr 2 do rozporządzenia.
-3. Wzór wniosku o zamianę lokalu mieszkalnego, o którym mowa w art. 78c ust. 3 ustawy, jest określony w załączniku
-3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia?” WZÓR WEZWANIE do opróżnienia lokalu mieszkalnego / miejsca w internacie / miejsca w kwaterze internatowej Na podstawie art. ............ ) w związku zart. 78c ust. lustawy zdnia 22czerwca 1995r.
-o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z2018r. poz. 133, z późn. zm.), wzywam Pana / Panią': do opróżnienia wraz ze wszystkimi osobami wspólnie zamieszkałymi i przekazania do dyspozycji Zarządu Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji lokalu mieszkalnego / miejsca w internacie / miejsca w kwaterze internatowej ) WE |O VAA TORA nr domu ........... m. / p." ..........
-Lokal mieszkalny / miejsce w internacie / miejsce w kwaterze internatowej ' należy opróżnić w terminie 30 dni od dnia doręczenia niniejszego wezwania.
-Za okres zamieszkiwania w lokalu mieszkalnym / internacie / kwaterze internatowej ” od dnia doręczenia niniejszego wezwania do dnia jego opróżnienia naliczane będzie odszkodowanie w wysokości 150% opłaty za używanie lokalu mieszkalnego / miejsca w internacie / miejsca 5 Należy wpisać właściwą podstawę prawną wezwania wynikającą z ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu E Niepotrzebne skreślić.
-w kwaterze internatowej” oraz opłaty pośrednie”, które będzie Pan / Pani” zobowiązany(-a) zapłacić na rzecz Zarządu Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji.
-Zamieszkiwanie w lokalu mieszkalnym powyżej 30 dni od dnia doręczenia niniejszego wezwania, zgodnie zart.4l ust. 6ustawy zdnia 22czerwca 1995r. ozakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej, stanowi podstawę do wydania decyzji o opróżnieniu lokalu mieszkalnego.
-DYREKTOR ZARZĄDU ZASOBÓW MIESZKANIOWYCH Ministerstwa Spraw Wewnętrznych i Administracji WZÓR DECYZJA NR ......../.......2.2z dnia .......sse.oooaooooaoooo0000 r.
-o opróżnieniu lokalu mieszkalnego / miejsca w internacie / miejsca w kwaterze internatowej ) Na podstawie art. .............. 5 wzwiązku zart. 78c ust. lustawy zdnia 22 czerwca 1995r.
-o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2018 r. poz. 133, z późn. zm.) oraz art. 104 ustawy z dnia 14 czerwca 1960 r. — Kodeks postępowania administracyjnego (Dz. U. z 2018r.
-poz. 2096), nakazuję Panu / Pan':i opróżnienie wraz ze wszystkimi osobami wspólnie zamieszkałymi i przekazanie do dyspozycji Zarządu Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji lokalu mieszkalnego / miejsca w internacie / miejsca w kwaterze internatowej ) ' Należy wpisać właściwą podstawę prawną decyzji wynikającą z ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu UZASADNIENIE” DYREKTOR ZARZĄDU ZASOBÓW MIESZKANIOWYCH Ministerstwa Spraw Wewnętrznych i Administracji WZÓR DYREKTOR ZARZĄDUZASOBÓWMIESZKANIOWYCH MinisterstwaSprawWewnętrznychiAdministrac ji WNIOSEK OZAMIANĘLOKALUMIESZKALNEGO Napodstawieart . 78 cust . 3 ustawyzdnia 22 czerwca 1995 r . ozakwaterowaniuS ił Zbrojnych Rzeczypospolitej Po lskiej ( D z . U . z 2 0 18 r . p o z . 1 33 , zpóźn . z m . ) wnoszęozamianęloka l u mieszkalnego : zajmowanegoprzezemnienapodstawie : 2 umowynajmulokalumieszkalnegonaczasnieoznaczony * / oznaczony ” n r zawartej z nalokalmieszkalny : W zajmowanegoprzezPana / Panią * napodstawie : 2 umowynajmulokalumieszkalnegonaczasnieoznaczony * / oznaczony * n r zawartej z Jednocześnie oświadczam, że: l ) wzajmowanymprzezemnielokalumieszkalnymwrazzemnązamieszkująisązameldowane napobytstałyniżejwymienioneosoby : L p . NazwiskoiimięDataurodzenia | Stopieńpokrewieństwa | Stancyw il n y 2 ) zobowiązujęsiędouregulowaniawszystkichzobowiązań fi nansowychwynikającychztytułu dotychczasowegozajmowanialokalumieszkalnegoorazponiesieniawszelkichkosztów wnioskowanejzamiany , uzgodnionychwewłasnymzakresieprzezstronydoko nu jącezamiany .
-1. Uzasadnienie wnioskowanej zamiany.
-Wyrażam zgodę na przetwarzanie przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych 1 Administracji danych osobowych zawartych w niniejszym wniosku, zgodnie zprzepisami ustawy z dnia 29 sierpnia 1997r. oochronie danych osobowych (Dz.U. z2016r.
-poz. 922, z późn. zm.)” do celów związanych z realizacją tego wniosku.
-© Niepotrzebne skreślić.
+Treść obwieszczenia
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 1 sierpnia 2016 r. w sprawie określenia wzorów dokumentów stosowanych w postępowaniu o opróżnienie lokalu mieszkalnego
+
+## Załącznik nr 1 — – Wezwanie do opróżnienia lokalu mieszkalnego / miejsca w internacie / miejsca w kwaterze internatowej (wzór)
+
+## Załącznik nr 2 — – Decyzja o opróżnieniu lokalu mieszkalnego/miejsca w internacie/miejsca w kwaterze internatowej (wzór)
+
+## Załącznik nr 3 — – Wniosek o zamianę lokalu mieszkalnego (wzór)
+
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 1 sierpnia 2016 r. w sprawie określenia wzorów dokumentów stosowanych w postępowaniu o opróżnienie lokalu mieszkalnego (Dz. U. poz. 1322), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 26 czerwca 2017 r. zmieniającym rozporządzenie w sprawie określenia wzorów dokumentów stosowanych w postępowaniu o opróżnienie lokalu mieszkalnego (Dz. U. poz. 1337).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 26 czerwca 2017 r. zmieniającego rozporządzenie w sprawie określenia wzorów dokumentów stosowanych w postępowaniu o opróżnienie lokalu mieszkalnego (Dz. U. poz. 1337), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+” .
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 1 sierpnia 2016 r. w sprawie określenia wzorów dokumentów stosowanych w postępowaniu o opróżnienie lokalu mieszkalnego
+Na podstawie art. 78c ust. 7 ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2018 r. poz. 133, 138 i 756) zarządza się, co następuje:
+§ 1.
+1.
+Rozporządzenie określa:
+1)
+wzór wezwania do opróżnienia lokalu mieszkalnego, miejsca w internacie albo kwaterze internatowej;
+2)
+wzór decyzji o opróżnieniu lokalu mieszkalnego, miejsca w internacie albo kwaterze internatowej;
+3)
+wzór wniosku o zamianę lokalu mieszkalnego.
+2.
+Ilekroć w rozporządzeniu jest mowa o ustawie, należy przez to rozumieć ustawę z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej.
+§ 2.
+1.
+Wzór wezwania do opróżnienia lokalu mieszkalnego, miejsca w internacie albo kwaterze internatowej, o którym mowa w art. 41 ust. 4 ustawy, jest określony w załączniku nr 1 do rozporządzenia.
+2.
+Wzór decyzji o opróżnieniu lokalu mieszkalnego, miejsca w internacie albo kwaterze internatowej, o której mowa w art. 41 ust. 6 ustawy, jest określony w załączniku nr 2 do rozporządzenia.
+3.
+Wzór wniosku o zamianę lokalu mieszkalnego, o którym mowa w art. 78c ust. 3 ustawy, jest określony w załączniku nr 3 do rozporządzenia.
+§ 3.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Rozporządzenie zostało ogłoszone w dniu 23 sierpnia 2016 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 11 marca 2011 r. w sprawie gospodarowania lokalami mieszkalnymi przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych (Dz. U. z 2015 r. poz. 2039), które w zakresie określonym w niniejszym rozporządzeniu utraciło moc z dniem wejścia w życie tego rozporządzenia na podstawie art. 136 ust. 2 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2016 r. poz. 614 i 1202).
+
+## Załącznik nr 1 — – Wezwanie do opróżnienia lokalu mieszkalnego / miejsca w internacie / miejsca w kwaterze internatowej (wzór)
+
+patrz oryginał
+4) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 26 czerwca 2017 r. zmieniającego rozporządzenie w sprawie określenia wzorów dokumentów stosowanych w postępowaniu o opróżnienie lokalu mieszkalnego (Dz. U. poz. 1337), które weszło w życie z dniem 21 lipca 2017 r.
+
+## Załącznik nr 2 — – Decyzja o opróżnieniu lokalu mieszkalnego/miejsca w internacie/miejsca w kwaterze internatowej (wzór)
+
+patrz oryginał
+4) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 26 czerwca 2017 r. zmieniającego rozporządzenie w sprawie określenia wzorów dokumentów stosowanych w postępowaniu o opróżnienie lokalu mieszkalnego (Dz. U. poz. 1337), które weszło w życie z dniem 21 lipca 2017 r.
+
+## Załącznik nr 3 — – Wniosek o zamianę lokalu mieszkalnego (wzór)
+
+patrz oryginał
+5) Ze zmianami wprowadzonymi przez § 1 rozporządzenia, o którym mowa w odnośniku 4.
 

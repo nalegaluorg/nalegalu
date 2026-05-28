@@ -8,12 +8,10 @@ pos: 50
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o finansowym wspieraniu produkcji audiowizualnej
-
-*USTAWA z dnia 9 listopada 2018 r.*
+# Ustawa z dnia 9 listopada 2018 r. o finansowym wspieraniu produkcji audiowizualnej
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-11-09 |
 | Data wydania | 2019-01-10 |
+| Wejście w życie | 2019-02-11 |
 | Ostatnia zmiana | 2024-11-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000050) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/50/text.pdf) |
 
@@ -35,9 +34,9 @@ source: "isap-pdf"
 
 2. Wsparcie finansowe stanowi pomoc publiczną zgodnie z art. 107 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej.
 
-3. Niniejsza ustawa nie narusza zasad dofinansowania twórczości filmowej i innej działalności w dziedzinie kinematografii określonych w ustawie z dnia 30 czerwca 2005 r. o kinematografii (Dz. U. z 2019 r. poz. 2199 oraz z 2020 r. poz. 568 i 875).
+3. Niniejsza ustawa nie narusza zasad dofinansowania twórczości filmowej i innej działalności w dziedzinie kinematografii określonych w ustawie z dnia 30 czerwca 2005 r. o kinematografii (Dz. U. z 2018 r. poz. 597).
 
-4. Pomoc publiczna, o której mowa w ust. 2, jest przyznawana na zasadach określonych w rozporządzeniu Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającym niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm. ), a w szczególności art. 54 tego rozporządzenia, zwanego dalej „rozporządzeniem nr 651/2014”.
+4. Pomoc publiczna, o której mowa w ust. 2, jest przyznawana na zasadach określonych w rozporządzeniu Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającym niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), a w szczególności art. 54 tego rozporządzenia, zwanego dalej „rozporządzeniem nr 651/2014”.
 
 5. Celem przyznawania wsparcia finansowego jest:
 
@@ -53,11 +52,37 @@ source: "isap-pdf"
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
+- **1)** dostawca usługi medialnej – dostawcę usługi medialnej w rozumieniu art. 4 pkt 4 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2017 r. poz. 1414 i 2111 oraz z 2018 r. poz. 650, 915 i 1717);
+- **2)** koproducent utworu audiowizualnego – przedsiębiorcę, który wspólnie z producentem utworu audiowizualnego organizuje, prowadzi i ponosi odpowiedzialność za produkcję audiowizualną lub który współfinansuje produkcję audiowizualną oraz nabywa udział w autorskich prawach majątkowych do utworu audiowizualnego;
+- **3)** polskie koszty kwalifikowalne – koszty realizacji produkcji audiowizualnej albo świadczenia usługi na rzecz produkcji audiowizualnej poniesione na terytorium Rzeczypospolitej Polskiej, jeżeli są objęte obowiązkiem podatkowym w rozumieniu przepisów podatkowych oraz mieszczą się w katalogu określonym w art. 54 ust. 5 rozporządzenia nr 651/2014;
+- **4)** producent utworu audiowizualnego – przedsiębiorcę, który podejmuje inicjatywę dotyczącą produkcji audiowizualnej, organizuje, prowadzi produkcję audiowizualną i ponosi odpowiedzialność za tę produkcję oraz nabywa autorskie prawa majątkowe do utworu audiowizualnego;
+- **5)** produkcja audiowizualna – zespół czynności twórczych, organizacyjnych, ekonomicznych, prawnych i technicznych prowadzących do wytworzenia utworu audiowizualnego;
+- **6)** przedsiębiorca – podmiot, o którym mowa w art. 1 załącznika I do rozporządzenia nr 651/2014;
+- **7)** usługa na rzecz produkcji audiowizualnej – usługę świadczoną przez przedsiębiorców w ramach wykonywanej działalności gospodarczej na rzecz producenta utworu audiowizualnego lub koproducenta utworu audiowizualnego dla celów produkcji audiowizualnej;
+- **8)** utwór audiowizualny – utwór złożony z serii następujących po sobie obrazów z dźwiękiem lub bez dźwięku utrwalonych na nośniku umożliwiającym wielokrotne odtwarzanie, wywołujących wrażenie ruchu i składających się na oryginalną całość wyrażającą akcję lub treść w indywidualnej formie, zrealizowany w formie filmu fabularnego, dokumentalnego lub animowanego albo serialu fabularnego, dokumentalnego lub animowanego, niezależnie od pola eksploatacji, o którym mowa w przepisach ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2018 r. poz. 1191, 1293, 1669, 2245 i 2339);
+- **9)** wsparcie finansowe – środki finansowe przyznawane przez Polski Instytut Sztuki Filmowej przedsiębiorcy w formie dofinansowania na pokrycie części polskich kosztów kwalifikowalnych związanych z produkcją audiowizualną albo świadczeniem usługi na rzecz produkcji audiowizualnej.
+
 #### Rozdział 2 Zadania i przychody Polskiego Instytutu Sztuki Filmowej związane z przyznawaniem i rozliczaniem wsparcia finansowego
 
 **Art. 3.** Do zadań Polskiego Instytutu Sztuki Filmowej, zwanego dalej „Instytutem”, związanych ze wsparciem finansowym należy:
 
+- **1)** przyznawanie wsparcia finansowego;
+- **2)** rozliczanie środków przyznanych w ramach wsparcia finansowego;
+- **3)** prowadzenie kontroli, o której mowa w art. 28 ust. 1;
+- **4)** gromadzenie danych o rynku audiowizualnym, w tym danych finansowych, produkcyjnych oraz danych o dystrybucji krajowej i zagranicznej;
+- **5)** dokonywanie analizy oraz sporządzanie raportów dotyczących wpływu przyznanego wsparcia finansowego na rozwój rynku produkcji audiowizualnej i obszarów polskiej gospodarki związanych z ponoszonymi polskimi kosztami kwalifikowalnymi;
+- **6)** promocja polskiego rynku produkcji audiowizualnej związana ze stwarzaniem warunków dla zagranicznych produkcji audiowizualnych oraz inwestycji w rynek produkcji audiowizualnej na terytorium Rzeczypospolitej Polskiej oraz promocja Rzeczypospolitej Polskiej jako miejsca produkcji audiowizualnej;
+- **7)** prowadzenie rejestru wsparcia finansowego, zwanego dalej „rejestrem”.
+
 **Art. 4.** Do zadań Dyrektora Instytutu związanych ze wsparciem finansowym należy:
+
+- **1)** rozliczanie i zwrot dotacji celowych otrzymanych z budżetu państwa;
+- **2)** wydawanie certyfikatów kwalifikujących do uzyskania wsparcia finansowego;
+- **3)** zawieranie umów o wsparcie finansowe;
+- **4)** weryfikowanie rozliczeń polskich kosztów kwalifikowalnych;
+- **5)** wypłata wsparcia finansowego;
+- **6)** kierowanie działaniami związanymi z promocją polskiego rynku produkcji audiowizualnej oraz promocją Rzeczypospolitej Polskiej jako miejsca produkcji audiowizualnej;
+- **7)** stwarzanie warunków dla zagranicznych produkcji audiowizualnych i inwestycji na rynku produkcji audiowizualnej na terytorium Rzeczypospolitej Polskiej.
 
 **Art. 5.**
 
@@ -75,12 +100,12 @@ source: "isap-pdf"
 1. Instytut prowadzi rejestr, w którym są gromadzone dane dotyczące:
 
 - **1)** wydanych certyfikatów, o których mowa w art. 17 ust. 2;
-- **2)** złożonych wniosków o wsparcie finansowe, w tym:
-    - **a)** firmy oraz siedziby przedsiębiorcy, który złożył wniosek,
-    - **b)** tytułu i rodzaju utworu audiowizualnego, którego dotyczy wniosek,
-    - **c)** terminu i sposobu rozstrzygnięcia wniosku,
-    - **d)** wysokości wsparcia finansowego, o jakie wystąpił przedsiębiorca,
-    - **e)** wysokości przyznanego wsparcia finansowego i terminu jego wypłaty;
+- **2)** złożonych wniosków o wsparcie finansowe, w tym: firmy oraz siedziby przedsiębiorcy, który złożył wniosek, tytułu i rodzaju utworu audiowizualnego, którego dotyczy wniosek, terminu i sposobu rozstrzygnięcia wniosku, wysokości wsparcia finansowego, o jakie wystąpił przedsiębiorca, wysokości przyznanego wsparcia finansowego i terminu jego wypłaty;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 - **3)** aktualnego poziomu łącznej wysokości wsparć finansowych przyznanych w danym roku kalendarzowym;
 - **4)** wysokości wsparć finansowych przyznanych przez Instytut w latach poprzednich.
@@ -125,9 +150,31 @@ source: "isap-pdf"
 
 **Art. 9.** Wsparcia finansowego nie przyznaje się przedsiębiorcy będącemu:
 
+- **1)** dostawcą usługi medialnej, chyba że ta działalność nie jest dla niego działalnością przeważającą, o której mowa w ustawie z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2018 r. poz. 997, 1000, 1629 i 1669);
+- **2)** podmiotem rozprowadzającym programy drogą kablową, satelitarną lub za pośrednictwem systemu teleinformatycznego;
+- **3)** podmiotem świadczącym usługi udostępniania zasobów systemu teleinformatycznego w celu przechowywania danych;
+- **4)** podmiotem, dla którego spółką dominującą w rozumieniu art. 4 § 1 pkt 4 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2017 r. poz. 1577 oraz z 2018 r. poz. 398, 650, 1544, 2219 i 2244) jest podmiot wymieniony w pkt 1–3.
+
 **Art. 10.** Wsparcia finansowego nie przyznaje się także przedsiębiorcy, który:
 
+- **1)** ma zaległości z tytułu należności publicznoprawnych lub
+- **2)** pozostaje pod zarządem komisarycznym albo znajduje się w toku likwidacji, postępowania upadłościowego, postępowania restrukturyzacyjnego, lub
+- **3)** w okresie 3 lat przed złożeniem wniosku o wsparcie finansowe nie przedłożył raportu końcowego z prac objętych wsparciem finansowym, zwanego dalej „raportem”, lub
+- **4)** nie zwrócił przyznanej przez Rzeczpospolitą Polską pomocy publicznej uznanej na podstawie decyzji Komisji Europejskiej za niezgodną z prawem i z rynkiem wewnętrznym, lub
+- **5)** jest przedsiębiorcą znajdującym się w trudnej sytuacji w rozumieniu art. 2 pkt 18 rozporządzenia nr 651/2014, lub
+- **6)** został skazany prawomocnym wyrokiem za przestępstwo: składania fałszywych zeznań, przekupstwa, przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi, systemowi bankowemu, przestępstwo skarbowe albo inne związane z wykonywaniem działalności gospodarczej lub popełnione w celu osiągnięcia korzyści majątkowej lub którego wspólnikiem albo członkiem organu jest osoba fizyczna skazana prawomocnym wyrokiem za takie przestępstwa, lub
+- **7)** w okresie 3 lat przed złożeniem wniosku o wsparcie finansowe rażąco naruszył umowę o dofinansowanie, o której mowa w art. 23 ust. 3 ustawy z dnia 30 czerwca 2005 r. o kinematografii, w ten sposób, że nie rozliczył dofinansowania zgodnie z tą umową.
+
 **Art. 11.** Wsparcia finansowego nie przyznaje się na produkcję utworów audiowizualnych o charakterze reklamowym oraz:
+
+- **1)** powstałych w wyniku rejestracji: wykonań utworów słownych, słowno-muzycznych, muzycznych lub pantomimicznych, zdarzeń z życia politycznego, społecznego, kulturalnego, religijnego, gospodarczego lub sportowego, zdarzeń z życia prywatnego, treści pornograficznych;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **2)** sporządzanych na potrzeby nauki, nauczania, techniki, promocji, informacji lub instruktażu;
+- **3)** sporządzanych na użytek wewnętrzny kościołów i innych związków wyznaniowych.
 
 **Art. 12.** W ramach wsparcia finansowego przewidzianego na dany rok Instytut przyznaje co najmniej 10% wsparcia na produkcję filmów animowanych i seriali animowanych.
 
@@ -176,7 +223,7 @@ source: "isap-pdf"
 
 3. Koszty obejmujące honoraria, wynagrodzenia i inne świadczenia przeznaczone dla osób zaangażowanych do produkcji utworu audiowizualnego na podstawie umów innych niż umowa o pracę, uznaje się za polskie koszty kwalifikowalne, jeżeli są objęte obowiązkiem podatkowym w rozumieniu przepisów podatkowych i mieszczą się w katalogu określonym w art. 54 ust. 5 rozporządzenia nr 651/2014.
 
-4. Koszty obejmujące honoraria, wynagrodzenia i inne świadczenia przeznaczone dla osób zaangażowanych do produkcji utworu audiowizualnego na podstawie umów o pracę, uznaje się za polskie koszty kwalifikowalne, jeżeli obejmują koszty pracy pracowników przedsiębiorcy, który otrzymał wsparcie finansowe lub jego koproducentów, lub ich podwykonawców, którzy są objęci nieograniczonym obowiązkiem podatkowym zgodnie z ustawą z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2020 r. poz. 1426, z późn. zm. ).
+4. Koszty obejmujące honoraria, wynagrodzenia i inne świadczenia przeznaczone dla osób zaangażowanych do produkcji utworu audiowizualnego na podstawie umów o pracę, uznaje się za polskie koszty kwalifikowalne, jeżeli obejmują koszty pracy pracowników przedsiębiorcy, który otrzymał wsparcie finansowe lub jego koproducentów, lub ich podwykonawców, którzy są objęci nieograniczonym obowiązkiem podatkowym zgodnie z ustawą z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, z późn. zm.).
 
 5. Polskie koszty kwalifikowalne nie obejmują podatku od towarów i usług oraz kosztów związanych z prowadzeniem działalności przez producentów lub koproducentów, niezwiązanych bezpośrednio z produkcją audiowizualną lub świadczeniem usługi na rzecz produkcji audiowizualnej, będącą przedmiotem wsparcia finansowego.
 
@@ -224,7 +271,7 @@ source: "isap-pdf"
 
 1. Instytut przyznaje wsparcie finansowe na podstawie wniosku złożonego przez przedsiębiorcę, zwanego dalej „wnioskodawcą”.
 
-2. Wniosek składa się nie wcześniej niż 12 miesięcy przed rozpoczęciem prac, które mają być objęte wsparciem finansowym, i nie później niż przed rozpoczęciem tych prac. Wnioskodawca jest zobowiązany rozpocząć prace objęte wsparciem finansowym w terminie nie później niż 12 miesięcy od dnia złożenia wniosku.
+2. Wniosek składa się nie wcześniej niż 6 miesięcy i nie później niż 2 miesiące przed rozpoczęciem prac, które mają być objęte wsparciem finansowym.
 
 3. Wniosek zawiera:
 
@@ -241,12 +288,12 @@ source: "isap-pdf"
 - **11)** określenie lokalizacji prac objętych wsparciem finansowym oraz liczby dni zdjęciowych lub dni produkcji audiowizualnej, lub postprodukcji audiowizualnej na terytorium Rzeczypospolitej Polskiej i w innych państwach;
 - **12)** firmę, siedzibę i adres producentów utworu audiowizualnego lub koproducentów utworu audiowizualnego;
 - **13)** imiona, nazwiska, określenie obywatelstw oraz pełnionych funkcji poszczególnych członków ekipy filmowej, potwierdzające spełnienie kryteriów testu kwalifikacyjnego;
-- **14)** informacje określone w art. 37 ust. 5 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2020 r. poz. 708 i 2377).
+- **14)** informacje określone w art. 37 ust. 5 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2018 r. poz. 362).
 
 4. Wnioskodawca dołącza do wniosku:
 
 - **1)** kopię umowy koprodukcyjnej lub umowy o świadczeniu usług na rzecz produkcji audiowizualnej tłumaczone na język polski przez tłumacza przysięgłego;
-- **2)** zaświadczenie z urzędu skarbowego o niezaleganiu w podatkach i innych należnościach, do których stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, 1423, 2122, 2123 i 2320), wydane nie wcześniej niż na 30 dni przed złożeniem wniosku;
+- **2)** zaświadczenie z urzędu skarbowego o niezaleganiu w podatkach i innych należnościach, do których stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, z późn. zm.), wydane nie wcześniej niż na 30 dni przed złożeniem wniosku;
 - **3)** zaświadczenie z Zakładu Ubezpieczeń Społecznych o niezaleganiu w opłacaniu składek na ubezpieczenia społeczne nie starsze niż 30 dni;
 - **4)** oświadczenie o niewystępowaniu okoliczności, o których mowa w art. 10;
 - **5)** informację dotyczącą doświadczenia pracowników lub współpracowników wnioskodawcy zaangażowanych w produkcję audiowizualną;
@@ -261,8 +308,6 @@ source: "isap-pdf"
 
 6. Instytut publikuje na swojej stronie podmiotowej w Biuletynie Informacji Publicznej informację o sposobie składania i rozpatrywania wniosków oraz wzór wniosku.
 
-7. W przypadku gdy wnioskodawca z uzasadnionych przyczyn nie może przedstawić umowy o świadczeniu usług na rzecz produkcji audiowizualnej, o której mowa w ust. 4 pkt 1, lub dokumentów, o których mowa w ust. 4 pkt 9 i 10, Dyrektor Instytutu może podjąć decyzję o przedłożeniu Instytutowi innych dokumentów, na podstawie których będzie możliwe rozpatrzenie wniosku.
-
 **Art. 19.**
 
 1. Wnioskodawca może wystąpić z wnioskiem, jeżeli w momencie jego złożenia ma udokumentowane finansowanie na co najmniej 75% kosztów prac, które mają zostać objęte wsparciem finansowym, mieszczących się w katalogu określonym w art. 54 ust. 5 rozporządzenia nr 651/2014.
@@ -275,13 +320,11 @@ source: "isap-pdf"
 
 2. W przypadku złożenia wniosku, który nie spełnia wymogów, o których mowa w art. 18 ust. 3, lub niedołączenia do wniosku dokumentów, o których mowa w art. 18 ust. 4, Instytut zwraca wniosek wnioskodawcy i informuje go pisemnie o stwierdzonych brakach oraz o możliwości ponownego złożenia wniosku.
 
-3. W przypadku gdy ocena kosztorysu, o którym mowa w art. 18 ust. 4 pkt 8, wskazuje na nieadekwatność pozycji kosztowych względem założeń realizacyjnych oraz scenariusza, Instytut przedstawia wnioskodawcy uwagi do kosztorysu wraz z pisemnym uzasadnieniem oraz wzywa wnioskodawcę do przedstawienia zmodyfikowanego kosztorysu w terminie wskazanym w wezwaniu nie dłuższym jednak niż 60 dni.
+3. W przypadku gdy ocena kosztorysu, o którym mowa w art. 18 ust. 4 pkt 8, wskazuje na nieadekwatność pozycji kosztowych względem założeń realizacyjnych oraz scenariusza, Instytut przedstawia wnioskodawcy uwagi do kosztorysu wraz z pisemnym uzasadnieniem oraz wzywa wnioskodawcę do przedstawienia zmodyfikowanego kosztorysu w terminie 14 dni od dnia doręczenia wezwania.
 
 4. W przypadku braku przedstawienia zmodyfikowanego kosztorysu Instytut ustala maksymalną wysokość danego rodzaju kosztu kwalifikowalnego, która zostanie uznana za podlegającą rozliczeniu w ramach wsparcia finansowego, i przedstawia ją wnioskodawcy na piśmie w terminie 14 dni od upływu terminu na przedstawienie zmodyfikowanego kosztorysu przez wnioskodawcę.
 
 5. W przypadkach, o których mowa w ust. 3 i 4, termin określony w ust. 1 biegnie od dnia złożenia przez wnioskodawcę zmodyfikowanego kosztorysu albo od dnia przedstawienia przez Instytut maksymalnej wysokości kosztu kwalifikowalnego podlegającej rozliczeniu w ramach wsparcia finansowego.
-
-5a. W przypadkach, o których mowa w ust. 3, termin określony w ust. 1 biegnie od dnia złożenia przez wnioskodawcę prawidłowo sporządzonych dokumentów.
 
 6. Instytut rozpatruje wnioski w kolejności ich złożenia do czasu wyczerpania środków przeznaczonych na wsparcie finansowe, przewidzianych w planie finansowym Instytutu na dany rok.
 
@@ -297,13 +340,21 @@ source: "isap-pdf"
 
 **Art. 22.**
 
-1. Instytut w terminie 28 dni kalendarzowych od dnia powiadomienia wnioskodawcy o przyznaniu wsparcia finansowego zawiera z wnioskodawcą umowę o wsparcie finansowe. Dyrektor Instytutu może, na wniosek wnioskodawcy, wydłużyć termin zawarcia umowy o wsparcie finansowe nie dłużej jednak niż na okres 3 miesięcy.
+1. Instytut w terminie 28 dni kalendarzowych od dnia powiadomienia wnioskodawcy o przyznaniu wsparcia finansowego zawiera z wnioskodawcą umowę o wsparcie finansowe.
 
 2. Instytut może odstąpić od umowy o wsparcie finansowe, jeżeli w terminie 3 miesięcy od wskazanego w tej umowie terminu rozpoczęcia prac objętych wsparciem finansowym wnioskodawca lub jego koproducenci nie rozpoczną tych prac.
 
 3. Po odstąpieniu od umowy o wsparcie finansowe wnioskodawca może ponownie złożyć wniosek o wsparcie finansowe dotyczący tego samego utworu audiowizualnego tylko raz.
 
 **Art. 23.** Umowa o wsparcie finansowe zawiera w szczególności:
+
+- **1)** opis utworu audiowizualnego, którego dotyczy wsparcie finansowe;
+- **2)** wysokość wsparcia finansowego przyznanego dla danego utworu audiowizualnego;
+- **3)** terminy rozpoczęcia i zakończenia prac objętych wsparciem finansowym wraz z podaniem terminów poszczególnych ich etapów realizacji oraz terminy przedstawienia raportu;
+- **4)** określenie materiałów związanych z produkcją audiowizualną przekazywanych przez przedsiębiorcę, którego dotyczy wsparcie finansowe, do wykorzystania przez Instytut w ramach działań promocyjnych określonych w art. 3 pkt 6;
+- **5)** termin lub terminy wypłaty wsparcia finansowego;
+- **6)** wysokość kar umownych z tytułu nieterminowego przedstawienia przez wnioskodawcę raportu;
+- **7)** warunki rozwiązania umowy o wsparcie finansowe.
 
 **Art. 24.**
 
@@ -313,7 +364,7 @@ source: "isap-pdf"
 
 3. W przypadku gdy wartość wsparcia finansowego wynikająca z rozliczonych polskich kosztów kwalifikowalnych będzie niższa niż wysokość środków zgromadzonych na rachunku powierniczym, o którym mowa w ust. 1, Instytut przekazuje pozostałe na rachunku powierniczym środki na wsparcie finansowe innych utworów audiowizualnych.
 
-4. Przekazanie środków na rachunek powierniczy, o którym mowa w ust. 1, spełnia cel przyznania wsparcia finansowego, w rozumieniu art. 168 ust. 5 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm. ).
+4. Przekazanie środków na rachunek powierniczy, o którym mowa w ust. 1, spełnia cel przyznania wsparcia finansowego, w rozumieniu art. 168 ust. 5 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077, z późn. zm.).
 
 **Art. 25.**
 
@@ -331,9 +382,9 @@ source: "isap-pdf"
 
 2. Do raportu dołącza się:
 
-- **1)** wykaz poniesionych polskich kosztów kwalifikowalnych wraz z dokumentami potwierdzającymi:
-    - **a)** poniesienie kosztów nabycia towarów lub usług stanowiących polskie koszty kwalifikowalne, w szczególności fakturami, rachunkami oraz potwierdzeniami zapłaty za towary lub usługi,
-    - **b)** dokonanie zapłaty honorariów, wynagrodzeń i innych świadczeń stanowiących koszty pracy osób zaangażowanych do produkcji audiowizualnej w okresie trwania produkcji audiowizualnej, w szczególności umowami zawartymi z osobami fizycznymi (umowy o pracę, umowy o świadczenie usług, umowy zlecenia lub umowy o dzieło), a także potwierdzeniami zapłaty wynagrodzenia z tytułu realizacji tych umów;
+- **1)** wykaz poniesionych polskich kosztów kwalifikowalnych wraz z dokumentami potwierdzającymi: poniesienie kosztów nabycia towarów lub usług stanowiących polskie koszty kwalifikowalne, w szczególności fakturami, rachunkami oraz potwierdzeniami zapłaty za towary lub usługi, dokonanie zapłaty honorariów, wynagrodzeń i innych świadczeń stanowiących koszty pracy osób zaangażowanych do produkcji audiowizualnej w okresie trwania produkcji audiowizualnej, w szczególności umowami zawartymi z osobami fizycznymi (umowy o pracę, umowy o świadczenie usług, umowy zlecenia lub umowy o dzieło), a także potwierdzeniami zapłaty wynagrodzenia z tytułu realizacji tych umów;
+    - **a)**
+    - **b)**
 
 - **2)** test kwalifikacyjny wypełniony w oparciu o dane aktualne w chwili przedstawienia raportu;
 - **3)** listę imion, nazwisk oraz funkcji poszczególnych członków ekipy filmowej, a także informację o liczbie dni zdjęciowych na terytorium Rzeczypospolitej Polskiej.
@@ -455,7 +506,51 @@ source: "isap-pdf"
 
 #### Rozdział 5 Przepisy zmieniające, przejściowe i końcowe
 
-**Art. 32.** (pominięty)
+**Art. 32.** W ustawie z dnia 30 czerwca 2005 r. o kinematografii (Dz. U. z 2018 r. poz. 597) wprowadza się następujące zmiany:
+
+- **1)** w art. 8 w ust. 1 w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 i 11 w brzmieniu: „
+- **10)** wspieranie produkcji audiowizualnej na zasadach określonych w ustawie z dnia 9 listopada 2018 r. o finansowym wspieraniu produkcji audiowizualnej (Dz. U. z 2019 r. poz. 50);
+- **11)** nadawanie każdemu filmowi wyświetlanemu w kinie indywidualnego identyfikatora publikowanego na stronie podmiotowej Instytutu w Biuletynie Informacji Publicznej. ” ;
+- **2)** w art. 11 uchyla się ust. 3;
+- **3)** w art. 18 w ust. 1: uchyla się pkt 7, dodaje się pkt 8 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **8)** wpływy z kar nałożonych na podstawie art. 19b. ” ;
+- **4)** po art. 19 dodaje się art. 19a i art. 19b w brzmieniu: „
+
+1. Podmiot prowadzący kino przekazuje Instytutowi:
+
+- **1)** dzienne dane o liczbie widzów, liczbie sprzedanych biletów i zaakceptowanych znakach legitymacyjnych oraz przychodach z tytułu sprzedaży biletów w odniesieniu do każdego filmu wyświetlanego w danym dniu;
+- **2)** miesięczne dane o przychodach z tytułu wyświetlania filmów i reklam w kinie.
+
+2. Jeżeli podmiot prowadzi więcej niż jedno kino, przekazuje Instytutowi dane, o których mowa w ust. 1, odrębnie dla każdego kina.
+
+3. Dane, o których mowa w ust. 1:
+
+- **1)** pkt 1, są przekazywane dwa razy w tygodniu: w pierwszym dniu, który nie jest dniem wolnym od pracy, następującym po każdej niedzieli – za piątek, sobotę i niedzielę, oraz w dniu, który nie jest dniem wolnym od pracy, poprzedzającym każdą sobotę – za poniedziałek, wtorek, środę i czwartek,
+- **2)** pkt 2, są przekazywane w pierwszym dniu miesiąca, który nie jest dniem wolnym od pracy, następującym po miesiącu, którego dotyczą za pośrednictwem systemu teleinformatycznego przy użyciu dokumentów elektronicznych w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2017 r. poz. 570 oraz z 2018 r. poz. 1000, 1544 i 1669) albo przez formularz elektroniczny udostępniony na stronie podmiotowej Instytutu w Biuletynie Informacji Publicznej.
+
+4. Minister określi, w drodze rozporządzenia:
+
+- **1)** elektroniczny format przekazywania danych, o których mowa w ust. 1,
+- **2)** wzór formularzy służących do przekazywania Instytutowi danych, o których mowa w ust. 1, wraz z objaśnieniami co do sposobu ich wypełniania uwzględniając konieczność uproszczenia, usprawnienia i ujednolicenia procesu przekazywania danych.
+
+1. Podmiot prowadzący kino, który nie przekaże danych, o których mowa w art. 19a, albo nie przekaże ich w terminie – podlega karze pieniężnej w wysokości od 1000 do 100 000 zł.
+
+2. Karę pieniężną, o której mowa w ust. 1, nakłada w drodze decyzji Dyrektor.
+
+3. Przy ustalaniu wysokości kar pieniężnych Dyrektor uwzględnia wcześniejsze naruszenia obowiązków przekazywania danych przez podmiot prowadzący kino, zakres i rodzaj danych nieprzekazanych albo nieprzekazanych w terminie oraz rozmiar działalności prowadzonej przez podmiot.
+
+4. Karę pieniężną wnosi się na rachunek bankowy Instytutu.
+
+5. Karę pieniężną uiszcza się w terminie 14 dni od dnia, w którym decyzja o jej nałożeniu stała się ostateczna.
+
+6. Do kar pieniężnych stosuje się przepisy działu IVa ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096).
+
+7. Wierzycielem należności z tytułu kar pieniężnych, o których mowa w ust. 1, w rozumieniu przepisów o postępowaniu egzekucyjnym w administracji jest Instytut.
+
+8. Organem wyższego stopnia właściwym do rozpatrzenia zażalenia na postanowienie wierzyciela należności z tytułu kar pieniężnych, o których mowa w ust. 1, jest minister. ” .
 
 **Art. 33.**
 
@@ -478,5 +573,5 @@ source: "isap-pdf"
 
 **Art. 34.** Traci moc ustawa z dnia 16 lipca 1987 r. o państwowych instytucjach filmowych (Dz. U. z 2017 r. poz. 2006).
 
-**Art. 35.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia , z wyjątkiem przepisów art. 32 pkt 3 lit. b i pkt 4, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia.
+**Art. 35.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem przepisów art. 32 pkt 3 lit. b i pkt 4, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia.
 

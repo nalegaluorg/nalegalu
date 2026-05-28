@@ -8,12 +8,10 @@ pos: 707
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o nadaniu nowej nazwy Akademii Sztuk Pięknych w Poznaniu
-
-*USTAWA z dnia 29 kwietnia 2010 r.*
+# Ustawa z dnia 29 kwietnia 2010 r. o nadaniu nowej nazwy Akademii Sztuk Pięknych w Poznaniu
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2010-04-29 |
 | Data wydania | 2010-06-22 |
+| Wejście w życie | 2010-07-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101090707) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/707/text.pdf) |
 

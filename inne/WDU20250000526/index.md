@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz ustawy – Prawo o ustroju sądów wojskowych
-
-*USTAWA z dnia 6 marca 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 kwietnia 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,24 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2025-03-06 |
 | Data wydania | 2025-04-22 |
+| Wejście w życie | 2025-05-07 |
 | Ostatnia zmiana | 2025-04-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000526) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/526/text.pdf) |
 
+Poz. 526
+USTAWA z dnia 6 marca 2025 r.
+o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz ustawy – Prawo o ustroju sądów wojskowych
+
 **Art. 1.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334 i 1907) w art. 77:
+
+- **1)** w § 1 pkt 1 otrzymuje brzmienie: „1) w innym sądzie równorzędnym lub niższym, a w szczególnie uzasadnionych wypadkach – także w sądzie wyższym,”;
+- **2)** po § 3b dodaje się § 3c i 3d w brzmieniu: „§ 3c. Delegowania sędziego do pełnienia obowiązków sędziego w innym sądzie dokonuje się w wypadku uzasadnionych potrzeb tego sądu, w szczególności gdy przemawiają za tym liczba i rodzaj spraw wpływających do sądu, stopień opanowania wpływu spraw oraz średnia wielkość referatu sędziego lub asesora sądowego w relacji do wartości tych parametrów w innych sądach, w tym przy uwzględnieniu liczby obsadzonych stanowisk sędziowskich i asesorskich, długotrwałych nieobecności sędziów i asesorów sądowych oraz planowanych zwolnień stanowisk sędziowskich w sądzie, do którego ma nastąpić delegowanie.
+
+§ 3d. Przy delegowaniu sędziego do pełnienia obowiązków sędziego w innym sądzie uwzględnia się w szczególności okres pełnienia służby sędziowskiej, w tym na zajmowanym stanowisku sędziowskim, doświadczenie w rozpoznawaniu spraw z określonego zakresu, sprawność postępowania w prowadzonych sprawach oraz ocenę wpływu delegowania na pracę sądu, w którym sędzia ma miejsce służbowe.”;
+
+- **3)** w § 4 dodaje się zdanie trzecie w brzmieniu: „Odwołanie z delegowania sędziego do pełnienia obowiązków sędziego w innym sądzie wymaga uzasadnienia.”;
+- **4)** po § 4 dodaje się § 4a w brzmieniu: „§ 4a. Minister Sprawiedliwości ogłasza w Biuletynie Informacji Publicznej o każdym dokonanym przez niego delegowaniu sędziego oraz o każdym odwołaniu albo ustąpieniu z delegowania. W ogłoszeniu wskazuje się przyczyny delegowania albo odwołania.”;
+- **5)** uchyla się § 7.
 
 **Art. 2.** W ustawie z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. z 2022 r. poz. 2250) w art. 70 w § 1 we wprowadzeniu do wyliczenia wyrazy „art. 77 § 2–2b, 3a, 4 i 6–7” zastępuje się wyrazami „art. 77 § 2–2b, 3c–4a i 6–6b”.
 

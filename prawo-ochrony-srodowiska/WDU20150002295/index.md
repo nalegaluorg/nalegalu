@@ -22,10 +22,19 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-16 |
 | Data wydania | 2015-12-30 |
+| Wejście w życie | 2015-12-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002295) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2295/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2015 r. poz. 469, 1590 i 1642) wprowadza się następujące zmiany:
+
+- **1)** w art. 9: po pkt 5bb dodaje się pkt 5bc i 5bd w brzmieniu: „ 5bc) liście obserwacyjnej – rozumie się przez to, sporządzaną przez Komisję Europejską, listę zawierającą wykaz substancji lub grup substancji szczególnie szkodliwych dla środowiska wodnego, zawierającą matryce do monitorowania tych substancji i odpowiednie metody analizy tych substancji; 5bd) matrycy – rozumie się przez to element środowiska wodnego będący wodą, osadami, florą lub fauną; ” , pkt 13j i 13k otrzymują brzmienie: „
+    - **a)**
+    - **b)**
+
+- **13j)** substancjach priorytetowych – rozumie się przez to substancje stanowiące zanieczyszczenie chemiczne wód powierzchniowych oraz zagrożenie, które może spowodować w szczególności ostrą i chroniczną toksyczność dla organizmów wodnych, akumulację zanieczyszczeń w ekosystemie oraz utratę siedlisk i różnorodności biologicznej, jak również zagrożenia dla zdrowia ludzkiego, i których emisje do wód należy stopniowo ograniczać, a w przypadku priorytetowych substancji niebezpiecznych – substancje lub grupy substancji, które są toksyczne, trwałe i podatne na bioakumulację, oraz inne substancje lub grupy substancji, których poziom osiąga stan niepokojący, które stopniowo należy usuwać ze środowiska wodnego w celu ich wyeliminowania;
+- **13k)** substancjach szczególnie szkodliwych dla środowiska wodnego – rozumie się przez to substancje lub grupy substancji, które są toksyczne, trwałe oraz zdolne do bioakumulacji, a także inne substancje lub grupy substancji, których poziom osiąga stan niepokojący; ” ;
+- **2)** po art. 30 dodaje się art. 30a w brzmieniu: „
 
 **Art. 30a.**
 
@@ -204,6 +213,55 @@ source: "eli-html"
 
 **Art. 124.** Pozwolenia wodnoprawnego albo zgłoszenia nie wymaga:
 
+- **1)** uprawianie żeglugi na śródlądowych drogach wodnych;
+- **2)** holowanie oraz spław drewna;
+- **3)** wydobywanie kamienia, żwiru, piasku, innych materiałów oraz wycinanie roślin w związku z utrzymywaniem wód, szlaków żeglownych oraz remontem urządzeń wodnych;
+- **4)** wykonanie pilnych prac zabezpieczających w okresie powodzi;
+- **5)** wykonywanie urządzeń wodnych do poboru wód podziemnych na potrzeby zwykłego korzystania z wód z ujęć o głębokości do 30 m;
+- **6)** odwadnianie obiektów lub wykopów budowlanych, a także wykonanie służących do tego urządzeń wodnych, jeżeli zasięg oddziaływania nie wykracza poza granice terenu, którego zakład jest właścicielem;
+- **7)** rybackie korzystanie ze śródlądowych wód powierzchniowych;
+- **8)** pobór wód powierzchniowych lub podziemnych w ilości nieprzekraczającej 5 m3 na dobę;
+- **9)** odprowadzanie wód z próbnych pompowań otworów hydrogeologicznych;
+- **10)** pobór i odprowadzanie wód w związku z wykonywaniem odwiertów lub otworów strzałowych przy użyciu płuczki wodnej na cele badań sejsmicznych;
+- **11)** odbudowa, rozbudowa, przebudowa lub rozbiórka urządzeń pomiarowych służb państwowych na obszarach szczególnego zagrożenia powodzią, jeżeli wydano decyzję, o której mowa w art. 88l ust. 2;
+- **12)** wyznaczanie szlaku turystycznego pieszego lub rowerowego oraz budowa drogi rowerowej, z wyłączeniem drogowych obiektów inżynierskich. ” ;
+- **16)** w art. 127: ust. 7 otrzymuje brzmienie: „
+    - **a)**
+
+7. Stroną postępowania w sprawie o wydanie pozwolenia wodnoprawnego jest:
+
+- **1)** wnioskodawca ubiegający się o wydanie pozwolenia wodnoprawnego;
+- **2)** właściciel wody w zasięgu oddziaływania zamierzonego korzystania z wód lub planowanych do wykonania urządzeń wodnych;
+- **3)** właściciel urządzeń kanalizacyjnych, do których będą wprowadzane ścieki przemysłowe zawierające substancje szczególnie szkodliwe dla środowiska wodnego;
+- **4)** właściciel istniejącego urządzenia wodnego znajdującego się w zasięgu oddziaływania zamierzonego korzystania z wód lub planowanych do wykonania urządzeń wodnych;
+- **5)** właściciel powierzchni ziemi położonej w zasięgu oddziaływania zamierzonego korzystania z wód lub planowanych do wykonania urządzeń wodnych;
+- **6)** uprawniony do korzystania oraz uprawniony do rybactwa w zasięgu oddziaływania zamierzonego korzystania z wód lub planowanych do wykonania urządzeń wodnych. ” , w ust. 7a pkt 4 otrzymuje brzmienie: „
+    - **b)**
+
+- **4)** uprawniony do korzystania z wód oraz uprawniony do rybactwa ” , po ust. 7c dodaje się ust. 7d w brzmieniu: „
+    - **c)**
+
+7d. Siedziby i adresy stron ustala się na podstawie ewidencji gruntów i budynków, o której mowa w art. 2 pkt 8 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2015 r. poz. 520, z późn. zm.). ” ;
+
+- **17)** w art. 140: w ust. 2 pkt 5 otrzymuje brzmienie: „
+    - **a)**
+
+- **5)** o których mowa w art. 122 ust. 2, o ile zostały wydane łącznie decyzje, o których mowa w art. 40 ust. 3 oraz w art. 88l ust. 2; ” , ust. 2a otrzymuje brzmienie: „
+    - **b)**
+
+2a. Dyrektor regionalnego zarządu wydaje wszystkie pozwolenia wodnoprawne wymagane dla przedsięwzięć, w przypadku gdy szczególne korzystanie z wód lub wykonanie urządzeń wodnych dotyczące tych przedsięwzięć, w całości lub w części odbywa się na terenach zamkniętych w rozumieniu przepisów ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, a odrębne przepisy nie stanowią inaczej. ” ;
+
+- **18)** w art. 155a ust. 3 otrzymuje brzmienie: „
+
+3. Wojewódzki inspektor ochrony środowiska wykonuje badania wód powierzchniowych w zakresie elementów biologicznych, fizykochemicznych oraz chemicznych, w tym substancji priorytetowych, określonych w przepisach wydanych na podstawie art. 38l ust. 2, w matrycy będącej wodą. ” ;
+
+- **19)** w art. 155b w ust. 1 w pkt 1: lit. d i e otrzymują brzmienie: „ zakres i częstotliwość prowadzonych badań dla poszczególnych elementów klasyfikacji stanu ekologicznego i chemicznego jednolitych części wód w ciekach naturalnych, jeziorach i innych naturalnych zbiornikach wodnych, wodach przejściowych oraz wodach przybrzeżnych, z uwzględnieniem specyfiki poszczególnych typów wód, a w przypadku stanu chemicznego z uwzględnieniem rodzajów matrycy lub taksonu rozumianego jako jednostka systematyki organizmów, w tym fauny i flory ekosystemów wodnych, zakres prowadzonych badań dla poszczególnych elementów klasyfikacji potencjału ekologicznego i stanu chemicznego sztucznych jednolitych części wód powierzchniowych i silnie zmienionych jednolitych części wód powierzchniowych, a w przypadku stanu chemicznego z uwzględnieniem rodzajów matrycy lub taksonu, ” , w lit. f średnik zastępuje się przecinkiem i dodaje się lit. g w brzmieniu: „ liczbę, kryteria wyboru punktów pomiarowo-kontrolnych oraz zakres i częstotliwość badania substancji szczególnie szkodliwych dla środowiska wodnego zawartych na liście obserwacyjnej; ” .
+    - **a)**
+    - **d)**
+    - **e)**
+    - **b)**
+    - **g)**
+
 **Art. 2.** W ustawie z dnia 30 maja 2014 r. o zmianie ustawy – Prawo wodne oraz niektórych innych ustaw (Dz. U. poz. 850) art. 8 otrzymuje brzmienie: „
 
 **Art. 8.** Dyrektorzy regionalnych zarządów gospodarki wodnej przyjmą plany utrzymania wód, o których mowa w art. 114b ustawy zmienianej w art. 1, w terminie do dnia 1 stycznia 2017 r. ” .
@@ -219,6 +277,9 @@ source: "eli-html"
 2. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy dotyczących decyzji, o których mowa w art. 50 i art. 59 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2015 r. poz. 199, z późn. zm.), stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 6.** Do projektów studiów uwarunkowań i kierunków zagospodarowania przestrzennego gminy oraz projektów miejscowych planów zagospodarowania przestrzennego, a także ich zmian, w stosunku do których, przed dniem wejścia w życie niniejszej ustawy:
+
+- **1)** podjęto uchwałę o przystąpieniu do sporządzania lub zmiany studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy lub do sporządzenia lub zmiany miejscowego planu zagospodarowania przestrzennego i
+- **2)** ogłoszono w prasie miejscowej oraz przez obwieszczenie o wyłożeniu projektu studium lub planu do publicznego wglądu stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 7.** Prezes Krajowego Zarządu Gospodarki Wodnej do dnia 22 grudnia 2019 r. może dokonywać aktualizacji map zagrożenia powodziowego i map ryzyka powodziowego w celu uwzględnienia w tych mapach istotnych zmian poziomu zagrożenia powodziowego wynikającego z wyznaczenia obszarów, o których mowa w art. 88d ust. 2 ustawy zmienianej w art. 1. Dyrektorzy regionalnych zarządów gospodarki wodnej dokonają pierwszego przeglądu i w razie potrzeby aktualizacji planów utrzymania wód, o których mowa w art. 114b ustawy zmienianej w art. 1, w terminie do dnia 1 stycznia 2022 r.
 

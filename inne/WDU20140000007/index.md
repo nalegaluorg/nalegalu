@@ -8,12 +8,10 @@ pos: 7
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw
-
-*USTAWA z dnia 6 grudnia 2013 r.*
+# Ustawa z dnia 6 grudnia 2013 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,94 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2013-12-06 |
 | Data wydania | 2014-01-03 |
+| Wejście w życie | 2014-01-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000007) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/7/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 3: pkt 2b otrzymuje brzmienie: „
+    - **a)**
+
+- **2b)** oddziale dwujęzycznym – należy przez to rozumieć oddział szkolny, w którym nauczanie jest prowadzone w dwóch językach: polskim oraz obcym nowożytnym będącym drugim językiem nauczania, przy czym prowadzone w dwóch językach są co najmniej dwa zajęcia edukacyjne, z wyjątkiem zajęć obejmujących język polski, część historii dotyczącą historii Polski i część geografii dotyczącą geografii Polski, w tym co najmniej jedne zajęcia edukacyjne wybrane spośród zajęć obejmujących: biologię, chemię, fizykę, część geografii odnoszącą się do geografii ogólnej, część historii odnoszącą się do historii powszechnej, matematykę lub spośród przedmiotów uzupełniających; ” , pkt 10 otrzymuje brzmienie: „
+    - **b)**
+
+- **10)** rodzicach – należy przez to rozumieć także prawnych opiekunów dziecka oraz osoby (podmioty) sprawujące pieczę zastępczą nad dzieckiem; ” ;
+- **2)** w art. 5 w ust. 5h pkt 1 otrzymuje brzmienie: „
+- **1)** w przypadku szkoły podstawowej i gimnazjum – wskazanie, czy szkole ustala się obwód; ” ;
+- **3)** w art. 6: w ust. 1 pkt 4 otrzymuje brzmienie: „
+    - **a)**
+
+- **4)** zatrudnia nauczycieli posiadających kwalifikacje określone w odrębnych przepisach, z zastrzeżeniem ust. 6. ” , dodaje się ust. 5 i 6 w brzmieniu: „
+    - **b)**
+
+5. Niepubliczne przedszkole:
+
+- **1)** realizuje programy wychowania przedszkolnego uwzględniające podstawę programową wychowania przedszkolnego;
+- **2)** zatrudnia nauczycieli posiadających kwalifikacje określone dla nauczycieli przedszkoli publicznych; przepisy ust. 6 i art. 7 ust. 1ba stosuje się odpowiednio.
+
+6. W uzasadnionych przypadkach w przedszkolu publicznym może być, za zgodą kuratora oświaty, zatrudniona osoba niebędąca nauczycielem do prowadzenia zajęć rozwijających zainteresowania, posiadająca przygotowanie uznane przez dyrektora przedszkola za odpowiednie do prowadzenia danych zajęć. Przepisy art. 7 ust. 1b i 1ba stosuje się odpowiednio. ” ;
+
+- **4)** w art. 7: po ust. 1b dodaje się ust. 1ba w brzmieniu: „ 1ba. Osoba, o której mowa w ust. 1a, może być zatrudniona w szkole, jeżeli spełnia warunki, o których mowa w art. 10 ust. 5 pkt 3 i 4 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2006 r. Nr 97, poz. 674, z późn. zm.). W celu potwierdzenia spełnienia warunku, o którym mowa w art. 10 ust. 5 pkt 4 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, osoba ta, przed nawiązaniem stosunku pracy, jest obowiązana przedstawić dyrektorowi szkoły informację z Krajowego Rejestru Karnego. ” , ust. 1c i 1d otrzymują brzmienie: „
+    - **a)**
+    - **b)**
+
+1c. Przepisy ust. 1a, 1b i 1ba stosuje się odpowiednio do placówek artystycznych, placówek, o których mowa w art. 2 pkt 7, dla uczniów szkół artystycznych i placówek doskonalenia nauczycieli szkół artystycznych, z tym że zgodę na zatrudnienie osoby niebędącej nauczycielem wyraża minister właściwy do spraw kultury i ochrony dziedzictwa narodowego.
+
+1d. Przepisy ust. 1a, 1b i 1ba stosuje się również w przypadku zatrudnienia osoby posiadającej przygotowanie zawodowe uznane przez dyrektora szkoły lub placówki za odpowiednie do prowadzenia zajęć z zakresu kształcenia zawodowego, z tym że zatrudnienie tej osoby następuje za zgodą organu prowadzącego. ” , ust. 3 otrzymuje brzmienie: „
+
+- **c)**
+
+3. Szkoła niepubliczna może uzyskać uprawnienia szkoły publicznej wymienione w ust. 2, jeżeli:
+
+- **1)** realizuje programy nauczania uwzględniające podstawy programowe wymienione w ust. 1 pkt 4 lit. a;
+- **2)** realizuje zajęcia edukacyjne w cyklu nie krótszym oraz w wymiarze nie niższym niż łączny wymiar obowiązkowych zajęć edukacyjnych określony w ramowym planie nauczania szkoły publicznej danego typu;
+- **3)** stosuje zasady klasyfikowania i promowania uczniów oraz przeprowadzania egzaminów i sprawdzianów, o których mowa w ust. 1 pkt 5, z wyjątkiem egzaminów wstępnych;
+- **4)** prowadzi dokumentację przebiegu nauczania ustaloną dla szkół publicznych;
+- **5)** w przypadku szkoły prowadzącej kształcenie zawodowe – kształci w zawodach określonych w klasyfikacji zawodów szkolnictwa zawodowego, o której mowa w art. 24 ust. 1;
+- **6)** zatrudnia nauczycieli obowiązkowych zajęć edukacyjnych, o których mowa w pkt 2, posiadających kwalifikacje określone dla nauczycieli szkół publicznych; przepisy ust. 1a, 1ba i 1d stosuje się odpowiednio. ” ;
+- **5)** w art. 7b: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Do klasy pierwszej oddziału międzynarodowego w publicznej szkole podstawowej ogólnodostępnej przyjmuje się kandydatów, którzy uzyskali pozytywny wynik sprawdzianu predyspozycji językowych przeprowadzanego na warunkach ustalonych przez radę pedagogiczną. ” , po ust. 1 dodaje się ust. 1a-1c w brzmieniu: „
+
+- **b)**
+
+1a. W przypadku większej liczby kandydatów spełniających warunek, o którym mowa w ust. 1, niż liczba wolnych miejsc w oddziale, o którym mowa w ust. 1, na pierwszym etapie postępowania rekrutacyjnego jest brany pod uwagę wynik sprawdzianu predyspozycji językowych, o którym mowa w ust. 1.
+
+1b. W przypadku równorzędnych wyników uzyskanych przez kandydatów na pierwszym etapie postępowania rekrutacyjnego, na drugim etapie postępowania rekrutacyjnego są brane pod uwagę łącznie kryteria, o których mowa w art. 20c ust. 2. Przepis art. 20c ust. 3 stosuje się.
+
+1c. Do przyjmowania kandydatów do oddziału międzynarodowego w publicznym gimnazjum ogólnodostępnym i publicznej szkole ponadgimnazjalnej ogólnodostępnej, stosuje się odpowiednio przepisy art. 20i i art. 20j. ” ;
+
+- **6)** w art. 14: uchyla się ust. 2, uchyla się ust. 4c;
+    - **a)**
+    - **b)**
+
+- **7)** w art. 14a ust. 6 i 6a otrzymują brzmienie: „
+
+6. Nauczyciela oraz osobę, o której mowa w art. 6 ust. 6, prowadzących zajęcia w innej formie wychowania przedszkolnego prowadzonej przez gminę, zatrudnia dyrektor przedszkola lub szkoły podstawowej prowadzonych przez tę gminę.
+
+6a. Zajęcia w innych formach wychowania przedszkolnego prowadzą nauczyciele posiadający kwalifikacje wymagane od nauczycieli przedszkoli. Przepisy art. 6 ust. 6 i art. 7 ust. 1b i 1ba stosuje się odpowiednio. ” ;
+
+- **8)** art. 14c otrzymuje brzmienie: „
+
+**Art. 14c.** Osoby prawne i fizyczne mogą prowadzić inne formy wychowania przedszkolnego, o których mowa w przepisach wydanych na podstawie art. 14a ust. 7. Zajęcia w innej formie wychowania przedszkolnego prowadzi nauczyciel posiadający kwalifikacje wymagane od nauczycieli przedszkoli. Przepisy art. 6 ust. 6 i art. 7 ust. 1ba stosuje się odpowiednio. ” ;
+
+- **9)** w art. 14d dodaje się ust. 11 i 12 w brzmieniu: „
+
+11. Informacje dotyczące dzieci nieprzyjętych w danym roku szkolnym do przedszkola i innej formy wychowania przedszkolnego, przekazywane przez dyrektora przedszkola lub szkoły, wójta (burmistrza, prezydenta miasta) i wojewodę, zgodnie z przepisami wydanymi na podstawie ust. 10, zawierają:
+
+- **1)** imię, nazwisko, datę urodzenia dziecka oraz numer PESEL dziecka, a w przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość;
+- **2)** imiona i nazwiska rodziców;
+- **3)** adres miejsca zamieszkania rodziców i dziecka.
+
+12. Zgromadzone dane, o których mowa w ust. 11, są przechowywane przez okres dwóch lat od dnia przekazania tych informacji. ” ;
+
+- **10)** w art. 17 w ust. 3 pkt 1 otrzymuje brzmienie: „
+- **1)** przekracza odległości wymienione w ust. 2, obowiązkiem gminy jest zapewnienie bezpłatnego transportu i opieki w czasie przewozu dziecka albo zwrot kosztów przejazdu dziecka środkami komunikacji publicznej, jeżeli dowożenie zapewniają rodzice, a do ukończenia przez dziecko 7 lat – także zwrot kosztów przejazdu opiekuna dziecka środkami komunikacji publicznej; ” ;
+- **11)** po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „
+
+#### Rozdział 2a Przyjmowanie do publicznych przedszkoli, publicznych innych form wychowania przedszkolnego, publicznych szkół i publicznych placówek
 
 **Art. 20a.**
 
@@ -43,11 +125,10 @@ source: "isap-pdf"
 
 6. Postępowanie rekrutacyjne może być prowadzone z wykorzystaniem systemów informatycznych.
 
-7. Przepisy niniejszego rozdziału stosuje się także do dzieci i młodzieży posiadających orzeczenie o potrzebie kształcenia specjalnego, którzy ubiegają się o przyjęcie do publicznego przedszkola i publicznej szkoły ogólnodostępnej.
+7. Przepisy niniejszego rozdziału stosuje się także do dzieci i młodzieży posiadających orzeczenie o potrzebie kształcenia specjalnego, którzy ubiegają się o przyjęcie do publicznego przedszkola i publicznej szkoły ogólnodostępnej. Ilekroć w niniejszym rozdziale jest mowa o:
 
-**Art. 20b.** Ilekroć w niniejszym rozdziale jest mowa o:
-
-**Art. 20c.**
+- **1)** wielodzietności rodziny – oznacza to rodzinę wychowującą troje i więcej dzieci;
+- **2)** samotnym wychowywaniu dziecka – oznacza to wychowywanie dziecka przez pannę, kawalera, wdowę, wdowca, osobę pozostającą w separacji orzeczonej prawomocnym wyrokiem sądu, osobę rozwiedzioną, chyba że osoba taka wychowuje wspólnie co najmniej jedno dziecko z jego rodzicem.
 
 1. Do publicznego przedszkola lub publicznej innej formy wychowania przedszkolnego przyjmuje się kandydatów zamieszkałych na obszarze danej gminy.
 
@@ -73,19 +154,15 @@ source: "isap-pdf"
 
 8. Przepisy ust. 1–7, 9 i 10 stosuje się odpowiednio do postępowania rekrutacyjnego do publicznego przedszkola integracyjnego i oddziału integracyjnego w publicznym przedszkolu ogólnodostępnym, w przypadku dzieci nieposiadających orzeczenia o potrzebie kształcenia specjalnego wydanego ze względu na niepełnosprawność.
 
-9. Pod pojęciem dochodu, o którym mowa w ust. 5, rozumie się dochód, o którym mowa w art. 3 pkt 1 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, z tym że w przypadku przychodów podlegających opodatkowaniu na zasadach określonych w art. 27, art. 30b, art. 30c i art. 30e ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm. ), pomniejsza się je o koszty uzyskania przychodu, zaliczki na podatek dochodowy od osób fizycznych, składki na ubezpieczenia społeczne niezaliczone do kosztów uzyskania przychodu oraz składki na ubezpieczenie zdrowotne.
+9. Pod pojęciem dochodu, o którym mowa w ust. 5, rozumie się dochód, o którym mowa w art. 3 pkt 1 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, z tym że w przypadku przychodów podlegających opodatkowaniu na zasadach określonych w art. 27, art. 30b, art. 30c i art. 30e ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.), pomniejsza się je o koszty uzyskania przychodu, zaliczki na podatek dochodowy od osób fizycznych, składki na ubezpieczenia społeczne niezaliczone do kosztów uzyskania przychodu oraz składki na ubezpieczenie zdrowotne.
 
 10. Przy obliczaniu dochodu członka rodziny, o którym mowa w ust. 9, bierze się pod uwagę przeciętny miesięczny dochód z 3 miesięcy wybranych spośród ostatnich 6 miesięcy poprzedzających złożenie wniosku, o którym mowa w art. 20s.
-
-**Art. 20d.**
 
 1. Laureat lub finalista ogólnopolskiej olimpiady przedmiotowej oraz laureat konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim, przeprowadzonych zgodnie z przepisami wydanymi na podstawie art. 22 ust. 2 pkt 8, są przyjmowani w pierwszej kolejności do publicznego gimnazjum, publicznego gimnazjum integracyjnego, publicznego gimnazjum dwujęzycznego, oddziału dwujęzycznego w publicznym gimnazjum ogólnodostępnym, oddziału międzynarodowego w publicznym gimnazjum ogólnodostępnym, oddziału integracyjnego w publicznym gimnazjum ogólnodostępnym, publicznej szkoły ponadgimnazjalnej, publicznej szkoły ponadgimnazjalnej integracyjnej lub oddziału integracyjnego w publicznej szkole ponadgimnazjalnej ogólnodostępnej, jeżeli spełniają odpowiednio warunki, o których mowa w art. 20e ust. 2 i art. 20f ust. 1.
 
 2. Laureat lub finalista ogólnopolskiej olimpiady przedmiotowej oraz laureat konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim, przeprowadzonych zgodnie z przepisami wydanymi na podstawie art. 22 ust. 2 pkt 8, są przyjmowani w pierwszej kolejności do publicznego gimnazjum sportowego, publicznego gimnazjum mistrzostwa sportowego, oddziału sportowego w publicznym gimnazjum ogólnodostępnym, publicznej szkoły ponadgimnazjalnej sportowej, publicznej szkoły ponadgimnazjalnej mistrzostwa sportowego lub oddziału sportowego w publicznej szkole ponadgimnazjalnej ogólnodostępnej, jeżeli spełniają odpowiednio warunki, o których mowa w art. 20e ust. 2, art. 20f ust. 1 i art. 20h ust. 1.
 
 3. Laureat lub finalista ogólnopolskiej olimpiady przedmiotowej oraz laureat konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim, przeprowadzonych zgodnie z przepisami wydanymi na podstawie art. 22 ust. 2 pkt 8, są przyjmowani w pierwszej kolejności do publicznej szkoły ponadgimnazjalnej dwujęzycznej, oddziału dwujęzycznego w publicznej szkole ponadgimnazjalnej ogólnodostępnej lub oddziału międzynarodowego w publicznej szkole ponadgimnazjalnej ogólnodostępnej, jeżeli spełniają odpowiednio warunki, o których mowa w art. 20f ust. 1 i art. 20j ust. 1, z tym że warunek uzyskania pozytywnego wyniku sprawdzianu kompetencji językowych, o którym mowa w art. 20j ust. 1, nie dotyczy laureata lub finalisty olimpiady przedmiotowej oraz laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim z języka obcego nowożytnego, który będzie drugim językiem nauczania w szkole lub oddziale, o przyjęcie do których ubiega się laureat lub finalista.
-
-**Art. 20e.**
 
 1. Do klasy pierwszej publicznej szkoły podstawowej oraz do klasy pierwszej publicznego gimnazjum, którym ustalono obwód, przyjmuje się na podstawie zgłoszenia rodziców dzieci i młodzież zamieszkałe w tym obwodzie.
 
@@ -101,8 +178,6 @@ source: "isap-pdf"
 
 7. Przepisy ust. 2–4 stosuje się odpowiednio do postępowania rekrutacyjnego do klasy pierwszej publicznej szkoły podstawowej integracyjnej, publicznego gimnazjum integracyjnego, oddziału integracyjnego w publicznej szkole podstawowej ogólnodostępnej lub publicznym gimnazjum ogólnodostępnym, w przypadku dzieci nieposiadających orzeczenia o potrzebie kształcenia specjalnego wydanego ze względu na niepełnosprawność.
 
-**Art. 20f.**
-
 1. Do klasy pierwszej publicznej szkoły ponadgimnazjalnej, z wyjątkiem szkół, o których mowa w art. 9 ust. 1 pkt 3 lit. d i e, przyjmuje się kandydatów, którzy:
 
 - **1)** posiadają świadectwo ukończenia gimnazjum;
@@ -113,9 +188,9 @@ source: "isap-pdf"
 - **1)** wyniki egzaminu, o którym mowa w art. 9 ust. 1 pkt 2;
 - **2)** wymienione na świadectwie ukończenia gimnazjum oceny z języka polskiego i matematyki oraz z dwóch obowiązkowych zajęć edukacyjnych ustalonych przez dyrektora danej szkoły jako brane pod uwagę w postępowaniu rekrutacyjnym do danego oddziału tej szkoły;
 - **3)** świadectwo ukończenia gimnazjum z wyróżnieniem;
-- **4)** szczególne osiągnięcia wymienione na świadectwie ukończenia gimnazjum:
-    - **a)** uzyskanie wysokiego miejsca nagrodzonego lub uhonorowanego zwycięskim tytułem w zawodach wiedzy, artystycznych i sportowych, organizowanych przez kuratora oświaty albo organizowanych co najmniej na szczeblu powiatowym przez inne podmioty działające na terenie szkoły, z wyjątkiem tytułu laureata lub finalisty ogólnopolskiej olimpiady przedmiotowej oraz tytułu laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim, o których mowa w art. 20d,
-    - **b)** osiągnięcia w zakresie aktywności społecznej, w tym na rzecz środowiska szkolnego, w szczególności w formie wolontariatu;
+- **4)** szczególne osiągnięcia wymienione na świadectwie ukończenia gimnazjum: uzyskanie wysokiego miejsca nagrodzonego lub uhonorowanego zwycięskim tytułem w zawodach wiedzy, artystycznych i sportowych, organizowanych przez kuratora oświaty albo organizowanych co najmniej na szczeblu powiatowym przez inne podmioty działające na terenie szkoły, z wyjątkiem tytułu laureata lub finalisty ogólnopolskiej olimpiady przedmiotowej oraz tytułu laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim, o których mowa w art. 20d, osiągnięcia w zakresie aktywności społecznej, w tym na rzecz środowiska szkolnego, w szczególności w formie wolontariatu;
+    - **a)**
+    - **b)**
 
 - **5)** w przypadku kandydatów ubiegających się o przyjęcie do oddziałów wymagających szczególnych indywidualnych predyspozycji – wyniki sprawdzianu uzdolnień kierunkowych, o którym mowa w ust. 5.
 
@@ -127,8 +202,6 @@ source: "isap-pdf"
 
 6. Przepisy ust. 1–5 stosuje się odpowiednio do postępowania rekrutacyjnego do klasy pierwszej publicznej szkoły ponadgimnazjalnej integracyjnej lub oddziału integracyjnego w publicznej szkole ponadgimnazjalnej ogólnodostępnej, w przypadku dzieci nieposiadających orzeczenia o potrzebie kształcenia specjalnego wydanego ze względu na niepełnosprawność.
 
-**Art. 20g.**
-
 1. Do klasy pierwszej publicznej szkoły policealnej przyjmuje się kandydatów, którzy posiadają:
 
 - **1)** wykształcenie średnie;
@@ -137,18 +210,16 @@ source: "isap-pdf"
 2. W przypadku większej liczby kandydatów spełniających warunki, o których mowa w ust. 1, niż liczba wolnych miejsc w szkole, o której mowa w ust. 1, na pierwszym etapie postępowania rekrutacyjnego są brane pod uwagę łącznie następujące kryteria:
 
 - **1)** w przypadku kandydata niepełnoletniego – kryteria, o których mowa art. 20c ust. 2;
-- **2)** w przypadku kandydata pełnoletniego:
-    - **a)** wielodzietność rodziny kandydata,
-    - **b)** niepełnosprawność kandydata,
-    - **c)** niepełnosprawność dziecka kandydata,
-    - **d)** niepełnosprawność innej osoby bliskiej, nad którą kandydat sprawuje opiekę,
-    - **e)** samotne wychowywanie dziecka przez kandydata.
+- **2)** w przypadku kandydata pełnoletniego: wielodzietność rodziny kandydata, niepełnosprawność kandydata, niepełnosprawność dziecka kandydata, niepełnosprawność innej osoby bliskiej, nad którą kandydat sprawuje opiekę, samotne wychowywanie dziecka przez kandydata.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 3. Kryteria, o których mowa w ust. 2, mają jednakową wartość.
 
 4. W przypadku równorzędnych wyników uzyskanych na pierwszym etapie postępowania rekrutacyjnego lub jeżeli po zakończeniu tego etapu dana szkoła, o której mowa w ust. 1, nadal dysponuje wolnymi miejscami, na drugim etapie postępowania rekrutacyjnego jest brana pod uwagę kolejność zgłoszeń.
-
-**Art. 20h.**
 
 1. Do klasy pierwszej publicznej szkoły podstawowej sportowej, publicznej szkoły podstawowej mistrzostwa sportowego lub oddziału sportowego w publicznej szkole podstawowej ogólnodostępnej przyjmuje się kandydatów, którzy:
 
@@ -162,9 +233,7 @@ source: "isap-pdf"
 
 4. Do klasy pierwszej publicznego gimnazjum sportowego, publicznego gimnazjum mistrzostwa sportowego, oddziału sportowego w publicznym gimnazjum ogólnodostępnym, publicznej szkoły ponadgimnazjalnej sportowej, publicznej szkoły ponadgimnazjalnej mistrzostwa sportowego lub oddziału sportowego w publicznej szkole ponadgimnazjalnej ogólnodostępnej przyjmuje się kandydatów, którzy spełniają odpowiednio warunki, o których mowa w ust. 1, art. 20e ust. 2 i art. 20f ust. 1.
 
-5. W przypadku większej liczby kandydatów spełniających warunki, o których mowa w ust. 4, niż liczba wolnych miejsc w szkołach i oddziałach, o których mowa w ust. 4, na pierwszym etapie postępowania rekrutacyjnego są brane pod uwagę wyniki prób sprawności fizycznej, o których mowa w ust. 1 pkt
-
-3.
+5. W przypadku większej liczby kandydatów spełniających warunki, o których mowa w ust. 4, niż liczba wolnych miejsc w szkołach i oddziałach, o których mowa w ust. 4, na pierwszym etapie postępowania rekrutacyjnego są brane pod uwagę wyniki prób sprawności fizycznej, o których mowa w ust. 1 pkt 3.
 
 6. W przypadku równorzędnych wyników uzyskanych na pierwszym etapie postępowania rekrutacyjnego, na drugim etapie postępowania rekrutacyjnego są brane pod uwagę łącznie odpowiednio następujące kryteria:
 
@@ -172,13 +241,11 @@ source: "isap-pdf"
 - **2)** wyniki egzaminu, o którym mowa w art. 9 ust. 1 pkt 2 – w przypadku publicznej szkoły ponadgimnazjalnej sportowej, publicznej szkoły ponadgimnazjalnej mistrzostwa sportowego i oddziału sportowego w publicznej szkole ponadgimnazjalnej ogólnodostępnej;
 - **3)** wymienione na świadectwie ukończenia gimnazjum oceny z języka polskiego i matematyki oraz z dwóch obowiązkowych zajęć edukacyjnych ustalonych przez dyrektora danej szkoły jako brane pod uwagę w postępowaniu rekrutacyjnym do danego oddziału tej szkoły – w przypadku publicznej szkoły ponadgimnazjalnej sportowej, publicznej szkoły ponadgimnazjalnej mistrzostwa sportowego i oddziału sportowego w publicznej szkole ponadgimnazjalnej ogólnodostępnej;
 - **4)** świadectwo ukończenia odpowiednio szkoły podstawowej lub gimnazjum z wyróżnieniem;
-- **5)** szczególne osiągnięcia wymienione na świadectwie ukończenia odpowiednio szkoły podstawowej lub gimnazjum:
-    - **a)** uzyskanie wysokiego miejsca nagrodzonego lub uhonorowanego zwycięskim tytułem w zawodach wiedzy, artystycznych i sportowych, organizowanych przez kuratora oświaty albo organizowanych co najmniej na szczeblu powiatowym przez inne podmioty działające na terenie szkoły, z wyjątkiem tytułu laureata lub finalisty ogólnopolskiej olimpiady przedmiotowej oraz tytułu laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim, o których mowa w art. 20d,
-    - **b)** osiągnięcia w zakresie aktywności społecznej, w tym na rzecz środowiska szkolnego, w szczególności w formie wolontariatu.
+- **5)** szczególne osiągnięcia wymienione na świadectwie ukończenia odpowiednio szkoły podstawowej lub gimnazjum: uzyskanie wysokiego miejsca nagrodzonego lub uhonorowanego zwycięskim tytułem w zawodach wiedzy, artystycznych i sportowych, organizowanych przez kuratora oświaty albo organizowanych co najmniej na szczeblu powiatowym przez inne podmioty działające na terenie szkoły, z wyjątkiem tytułu laureata lub finalisty ogólnopolskiej olimpiady przedmiotowej oraz tytułu laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim, o których mowa w art. 20d, osiągnięcia w zakresie aktywności społecznej, w tym na rzecz środowiska szkolnego, w szczególności w formie wolontariatu.
+    - **a)**
+    - **b)**
 
 7. W przypadku równorzędnych wyników uzyskanych na drugim etapie postępowania rekrutacyjnego, na trzecim etapie postępowania rekrutacyjnego są brane pod uwagę łącznie kryteria, o których mowa w art. 20c ust. 2. Przepis art. 20c ust. 3 stosuje się.
-
-**Art. 20i.**
 
 1. Do klasy pierwszej publicznego gimnazjum dwujęzycznego lub oddziału dwujęzycznego w publicznym gimnazjum ogólnodostępnym przyjmuje się kandydatów, którzy posiadają świadectwo ukończenia szkoły podstawowej oraz uzyskali pozytywny wynik sprawdzianu predyspozycji językowych przeprowadzanego na warunkach ustalonych przez radę pedagogiczną.
 
@@ -187,13 +254,11 @@ source: "isap-pdf"
 - **1)** wyniki sprawdzianu, o którym mowa w art. 9 ust. 1 pkt 1;
 - **2)** wynik sprawdzianu predyspozycji językowych, o którym mowa w ust. 1;
 - **3)** świadectwo ukończenia szkoły podstawowej z wyróżnieniem;
-- **4)** szczególne osiągnięcia wymienione na świadectwie ukończenia szkoły podstawowej:
-    - **a)** uzyskanie wysokiego miejsca nagrodzonego lub uhonorowanego zwycięskim tytułem w zawodach wiedzy, artystycznych i sportowych, organizowanych przez kuratora oświaty albo organizowanych co najmniej na szczeblu powiatowym przez inne podmioty działające na terenie szkoły, z wyjątkiem tytułu laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim, o którym mowa w art. 20d,
-    - **b)** osiągnięcia w zakresie aktywności społecznej, w tym na rzecz środowiska szkolnego, w szczególności w formie wolontariatu.
+- **4)** szczególne osiągnięcia wymienione na świadectwie ukończenia szkoły podstawowej: uzyskanie wysokiego miejsca nagrodzonego lub uhonorowanego zwycięskim tytułem w zawodach wiedzy, artystycznych i sportowych, organizowanych przez kuratora oświaty albo organizowanych co najmniej na szczeblu powiatowym przez inne podmioty działające na terenie szkoły, z wyjątkiem tytułu laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim, o którym mowa w art. 20d, osiągnięcia w zakresie aktywności społecznej, w tym na rzecz środowiska szkolnego, w szczególności w formie wolontariatu.
+    - **a)**
+    - **b)**
 
 3. W przypadku równorzędnych wyników uzyskanych na pierwszym etapie postępowania rekrutacyjnego, na drugim etapie postępowania rekrutacyjnego są brane pod uwagę łącznie kryteria, o których mowa w art. 20c ust. 2. Przepis art. 20c ust. 3 stosuje się.
-
-**Art. 20j.**
 
 1. Do klasy pierwszej publicznej szkoły ponadgimnazjalnej dwujęzycznej lub oddziału dwujęzycznego w publicznej szkole ponadgimnazjalnej ogólnodostępnej przyjmuje się kandydatów, którzy spełniają warunki, o których mowa w art. 20f ust. 1, oraz uzyskali pozytywny wynik sprawdzianu kompetencji językowych ustalonego przez Centralną Komisję Egzaminacyjną. Centralna Komisja Egzaminacyjna ustala także warunki uzyskania pozytywnego wyniku sprawdzianu kompetencji językowych.
 
@@ -203,13 +268,11 @@ source: "isap-pdf"
 - **2)** wynik sprawdzianu kompetencji językowych, o którym mowa w ust. 1;
 - **3)** wymienione na świadectwie ukończenia gimnazjum oceny z języka polskiego, matematyki, języka obcego nowożytnego, przy czym w przypadku oceny z języka obcego nowożytnego uwzględnia się ocenę wyższą, oraz z jednych obowiązkowych zajęć edukacyjnych ustalonych przez dyrektora danej szkoły jako brane pod uwagę w postępowaniu rekrutacyjnym do danego oddziału tej szkoły;
 - **4)** świadectwo ukończenia gimnazjum z wyróżnieniem;
-- **5)** szczególne osiągnięcia wymienione na świadectwie ukończenia gimnazjum:
-    - **a)** uzyskanie wysokiego miejsca nagrodzonego lub uhonorowanego zwycięskim tytułem w zawodach wiedzy, artystycznych i sportowych, organizowanych przez kuratora oświaty albo organizowanych co najmniej na szczeblu powiatowym przez inne podmioty działające na terenie szkoły, z wyjątkiem tytułu laureata lub finalisty ogólnopolskiej olimpiady przedmiotowej oraz tytułu laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim, o których mowa w art. 20d,
-    - **b)** osiągnięcia w zakresie aktywności społecznej, w tym na rzecz środowiska szkolnego, w szczególności w formie wolontariatu.
+- **5)** szczególne osiągnięcia wymienione na świadectwie ukończenia gimnazjum: uzyskanie wysokiego miejsca nagrodzonego lub uhonorowanego zwycięskim tytułem w zawodach wiedzy, artystycznych i sportowych, organizowanych przez kuratora oświaty albo organizowanych co najmniej na szczeblu powiatowym przez inne podmioty działające na terenie szkoły, z wyjątkiem tytułu laureata lub finalisty ogólnopolskiej olimpiady przedmiotowej oraz tytułu laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim, o których mowa w art. 20d, osiągnięcia w zakresie aktywności społecznej, w tym na rzecz środowiska szkolnego, w szczególności w formie wolontariatu.
+    - **a)**
+    - **b)**
 
 3. W przypadku równorzędnych wyników uzyskanych na pierwszym etapie postępowania rekrutacyjnego, na drugim etapie postępowania rekrutacyjnego są brane pod uwagę łącznie kryteria, o których mowa w art. 20c ust. 2. Przepis art. 20c ust. 3 stosuje się.
-
-**Art. 20k.**
 
 1. Do publicznej szkoły podstawowej dla dorosłych, do klasy pierwszej publicznego gimnazjum dla dorosłych i publicznej szkoły ponadgimnazjalnej dla dorosłych przyjmuje się kandydatów, którzy:
 
@@ -229,13 +292,11 @@ source: "isap-pdf"
 
 5. Kandydat, który nie posiada dokumentu potwierdzającego ukończenie klasy piątej szkoły podstawowej, może być przyjęty do publicznej szkoły podstawowej dla dorosłych na podstawie rozmowy kwalifikacyjnej przeprowadzonej przez komisję rekrutacyjną.
 
-6. Kandydatów, którzy posiadają świadectwo ukończenia zasadniczej szkoły zawodowej, można przyjąć do klasy drugiej publicznego liceum ogólnokształcącego dla dorosłych. Przepisy ust. 2–4 stosuje się.
+6. Kandydatów, którzy posiadają świadectwo ukończenia zasadniczej szkoły zawodowej, można przyjąć do klasy drugiej publicznego liceum ogólnokształcącego dla dorosłych. Przepisy ust. 2–4 stosuje się. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
 
-**Art. 20l.** Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
-
-**Art. 20m.** Kurator oświaty corocznie do końca lutego podaje do publicznej wiadomości wykaz zawodów wiedzy, artystycznych i sportowych, organizowanych przez kuratora oświaty lub inne podmioty działające na terenie szkoły, które mogą być wymienione na świadectwie ukończenia szkoły podstawowej i gimnazjum, o których mowa w art. 20f ust. 2 pkt 4 lit. a, art. 20h ust. 6 pkt 5 lit. a, art. 20i ust. 2 pkt 4 lit. a i art. 20j ust. 2 pkt 5 lit. a, oraz określa miejsca uznane za wysokie w tych zawodach.
-
-**Art. 20n.**
+- **1)** sposób przeliczania na punkty poszczególnych kryteriów, o których mowa w art. 20f ust. 2, art. 20h ust. 6, art. 20i ust. 2 i art. 20j ust. 2,
+- **2)** sposób ustalania punktacji w przypadku osób zwolnionych odpowiednio ze sprawdzianu lub egzaminu, o których mowa w art. 9 ust. 1 pkt 1 i 2,
+- **3)** skład i szczegółowe zadania komisji rekrutacyjnej, szczegółowy tryb i terminy przeprowadzania postępowania rekrutacyjnego oraz postępowania uzupełniającego, a także terminy składania dokumentów uwzględniając konieczność zapewnienia przyjmowania kandydatów do wybranych szkół na równych i przejrzystych zasadach oceny ich wiedzy, umiejętności i osiągnięć. Kurator oświaty corocznie do końca lutego podaje do publicznej wiadomości wykaz zawodów wiedzy, artystycznych i sportowych, organizowanych przez kuratora oświaty lub inne podmioty działające na terenie szkoły, które mogą być wymienione na świadectwie ukończenia szkoły podstawowej i gimnazjum, o których mowa w art. 20f ust. 2 pkt 4 lit. a, art. 20h ust. 6 pkt 5 lit. a, art. 20i ust. 2 pkt 4 lit. a i art. 20j ust. 2 pkt 5 lit. a, oraz określa miejsca uznane za wysokie w tych zawodach.
 
 1. Do publicznych szkół i publicznych placówek artystycznych mogą być przyjmowani kandydaci, którzy uzyskali pozytywny wynik postępowania rekrutacyjnego.
 
@@ -262,13 +323,11 @@ source: "isap-pdf"
 
 - **1)** szczegółowe warunki przyjmowania kandydatów do poszczególnych typów publicznych szkół i publicznych placówek artystycznych oraz dokumenty potwierdzające spełnianie tych warunków,
 - **2)** sposób, szczegółowy tryb i terminy przeprowadzania postępowania rekrutacyjnego do poszczególnych typów publicznych szkół i publicznych placówek artystycznych, w tym zakres, szczegółowe warunki i tryb przeprowadzania badania przydatności i egzaminu wstępnego, o których mowa w ust. 4, egzaminu kwalifikacyjnego, o którym mowa w ust. 7, oraz skład i szczegółowe zadania odpowiednio komisji rekrutacyjnej i komisji kwalifikacyjnej,
-- **3)** szczegółowe warunki przechodzenia uczniów z jednych typów publicznych szkół artystycznych do innych typów publicznych szkół artystycznych – uwzględniając konieczność zapewnienia przyjmowania kandydatów do wybranych publicznych szkół i publicznych placówek artystycznych na równych i przejrzystych zasadach oceny ich uzdolnień, predyspozycji i praktycznych umiejętności oraz mając na uwadze sprawność postępowania rekrutacyjnego, a także potrzebę uzupełnienia różnic programowych przez uczniów, w tym kontynuowania nauki języka obcego nowożytnego w przypadku prowadzenia przez publiczną szkołę artystyczną kształcenia ogólnego.
+- **3)** szczegółowe warunki przechodzenia uczniów z jednych typów publicznych szkół artystycznych do innych typów publicznych szkół artystycznych uwzględniając konieczność zapewnienia przyjmowania kandydatów do wybranych publicznych szkół i publicznych placówek artystycznych na równych i przejrzystych zasadach oceny ich uzdolnień, predyspozycji i praktycznych umiejętności oraz mając na uwadze sprawność postępowania rekrutacyjnego, a także potrzebę uzupełnienia różnic programowych przez uczniów, w tym kontynuowania nauki języka obcego nowożytnego w przypadku prowadzenia przez publiczną szkołę artystyczną kształcenia ogólnego.
 
 11. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego może określić, w drodze rozporządzenia, wzór wniosku o przyjęcie do publicznej szkoły i publicznej placówki artystycznej, uwzględniając strukturę organizacyjną publicznych szkół i publicznych placówek artystycznych.
 
-12. Do postępowania rekrutacyjnego do publicznych szkół i publicznych placówek artystycznych przepisy art. 20s i art. 20t oraz art. 20za–20ze stosuje się odpowiednio.
-
-**Art. 20o.**
+12. Do postępowania rekrutacyjnego do publicznych szkół i publicznych placówek artystycznych przepisy art. 20s i art. 20t oraz art. 20za-20ze stosuje się odpowiednio.
 
 1. Na zajęcia rozwijające zainteresowania lub rozwijające uzdolnienia organizowane w publicznej placówce oświatowo-wychowawczej przyjmuje się kandydatów zamieszkałych na obszarze danego powiatu.
 
@@ -279,8 +338,6 @@ source: "isap-pdf"
 4. W przypadku równorzędnych wyników uzyskanych na pierwszym etapie postępowania rekrutacyjnego, na drugim etapie postępowania rekrutacyjnego są brane pod uwagę kryteria określone przez organ prowadzący, z uwzględnieniem zapewnienia jak najpełniejszej realizacji potrzeb dziecka i jego rodziny oraz lokalnych potrzeb społecznych, oraz może być brane pod uwagę kryterium dochodu na osobę w rodzinie kandydata, o którym mowa w art. 20c ust. 5. Organ prowadzący określa dokumenty niezbędne do potwierdzenia tych kryteriów, z tym że spełnienie kryterium dochodu na osobę w rodzinie kandydata potwierdza się oświadczeniem. Przepisy art. 20c ust. 6, 9 i 10 stosuje się.
 
 5. Kandydaci zamieszkali poza obszarem danego powiatu mogą być przyjęci na zajęcia, o których mowa w ust. 1, organizowane w placówce, o której mowa w ust. 1, na terenie tego powiatu, jeżeli po przeprowadzeniu postępowania rekrutacyjnego zgodnie z ust. 1–4, dany powiat nadal dysponuje wolnymi miejscami na te zajęcia organizowane w tej placówce. Przepisy ust. 2–4 stosuje się odpowiednio.
-
-**Art. 20p.**
 
 1. W odniesieniu do publicznych placówek zapewniających opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania na pierwszym etapie postępowania rekrutacyjnego są brane pod uwagę łącznie następujące kryteria:
 
@@ -294,15 +351,11 @@ source: "isap-pdf"
 
 4. W przypadku równorzędnych wyników uzyskanych przez kandydatów na pierwszym etapie postępowania rekrutacyjnego lub jeżeli po zakończeniu tego etapu dana placówka, o której mowa w ust. 1, nadal dysponuje wolnymi miejscami, na drugim etapie postępowania rekrutacyjnego jest brana pod uwagę kolejność zgłoszeń.
 
-**Art. 20q.**
-
 1. Jeżeli kształcenie ustawiczne w formach pozaszkolnych jest realizowane przez publiczne placówki lub publiczne ośrodki, o których mowa w art. 2 pkt 3a, jako forma nieodpłatna lub płatna, na pierwszym etapie postępowania rekrutacyjnego w odniesieniu do danej formy pozaszkolnej kształcenia ustawicznego są brane pod uwagę łącznie kryteria, o których mowa w art. 20g ust. 2 pkt 2. Przepis art. 20c ust. 3 stosuje się.
 
 2. W przypadku równorzędnych wyników uzyskanych na pierwszym etapie postępowania rekrutacyjnego lub jeżeli po zakończeniu tego etapu dana publiczna placówka lub publiczny ośrodek, o których mowa w art. 2 pkt 3a, nadal dysponują wolnymi miejscami na daną formę pozaszkolną kształcenia ustawicznego, na drugim etapie postępowania rekrutacyjnego przyjmuje się kandydatów według kolejności zgłoszeń.
 
 3. Przepisy ust. 1 i 2 nie mają zastosowania do form pozaszkolnych prowadzonych przez publiczne placówki i publiczne ośrodki, o których mowa w art. 2 pkt 3a, na zlecenie innych podmiotów, a także do turnusów dokształcania teoretycznego młodocianych pracowników.
-
-**Art. 20r.**
 
 1. Na kwalifikacyjne kursy zawodowe prowadzone przez publiczne szkoły, publiczne placówki lub publiczne ośrodki, o których mowa w art. 2 pkt 3a, przyjmuje się kandydatów, którzy posiadają zaświadczenie lekarskie, o którym mowa w art. 20f ust. 1 pkt 2.
 
@@ -319,11 +372,14 @@ source: "isap-pdf"
 
 6. Organ prowadzący publiczną szkołę, publiczną placówkę lub publiczny ośrodek, o których mowa w art. 2 pkt 3a, może przyjąć miejsce zamieszkania kandydata jako kryterium brane pod uwagę przed kryterium, o którym mowa w ust. 2.
 
-7. Przepisy ust. 1–6 nie mają zastosowania do postępowania rekrutacyjnego na kwalifikacyjne kursy zawodowe prowadzone przez publiczne szkoły, publiczne placówki i publiczne ośrodki, o których mowa w art. 2 pkt 3a, na zlecenie innych podmiotów.
+7. Przepisy ust. 1–6 nie mają zastosowania do postępowania rekrutacyjnego na kwalifikacyjne kursy zawodowe prowadzone przez publiczne szkoły, publiczne placówki i publiczne ośrodki, o których mowa w art. 2 pkt 3a, na zlecenie innych podmiotów. Wniosek o przyjęcie do publicznego przedszkola, publicznej innej formy wychowania przedszkolnego, publicznej szkoły, publicznej placówki, na zajęcia w publicznej placówce oświatowo-wychowawczej, na kształcenie ustawiczne w formach pozaszkolnych lub kwalifikacyjny kurs zawodowy, zwany dalej „wnioskiem”, składa się odpowiednio do dyrektora:
 
-**Art. 20s.** Wniosek o przyjęcie do publicznego przedszkola, publicznej innej formy wychowania przedszkolnego, publicznej szkoły, publicznej placówki, na zajęcia w publicznej placówce oświatowo-wychowawczej, na kształcenie ustawiczne w formach pozaszkolnych lub kwalifikacyjny kurs zawodowy, zwany dalej „wnioskiem”, składa się odpowiednio do dyrektora:
-
-**Art. 20t.**
+- **1)** wybranego publicznego przedszkola lub wybranej publicznej szkoły, a w przypadku wyboru publicznej innej formy wychowania przedszkolnego – do dyrektora publicznego przedszkola lub publicznej szkoły podstawowej;
+- **2)** publicznej placówki oświatowo-wychowawczej – na wybrane zajęcia w tej placówce;
+- **3)** publicznej placówki zapewniającej opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania;
+- **4)** publicznej placówki lub publicznego ośrodka, o których mowa w art. 2 pkt 3a, prowadzących kształcenie ustawiczne w formach pozaszkolnych – na wybraną formę pozaszkolną kształcenia ustawicznego;
+- **5)** publicznej szkoły, publicznej placówki lub publicznego ośrodka, o których mowa w art. 2 pkt 3a, prowadzących kwalifikacyjne kursy zawodowe – na wybrany kwalifikacyjny kurs zawodowy;
+- **6)** wybranej publicznej szkoły lub publicznej placówki artystycznej.
 
 1. Wniosek zawiera:
 
@@ -336,29 +392,29 @@ source: "isap-pdf"
 
 2. Do wniosku dołącza się:
 
-- **1)** dokumenty potwierdzające spełnianie przez kandydata kryteriów, o których mowa w art. 7b ust. 1b, art. 20c ust. 2, art. 20f ust. 4, art. 20g ust. 2, art. 20h ust. 3 i 7, art. 20i ust. 3, art. 20j ust. 3, art. 20k ust. 2, art. 20n ust. 5, art. 20o ust. 3, art. 20p ust. 1 pkt 1 i 2, art. 20q ust. 1 i art. 20r ust. 3, odpowiednio:
-    - **a)** oświadczenie o wielodzietności rodziny kandydata,
-    - **b)** orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność, orzeczenie o niepełnosprawności lub o stopniu niepełnosprawności lub orzeczenie równoważne w rozumieniu przepisów ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm. ),
-    - **c)** prawomocny wyrok sądu rodzinnego orzekający rozwód lub separację lub akt zgonu oraz oświadczenie o samotnym wychowywaniu dziecka oraz niewychowywaniu żadnego dziecka wspólnie z jego rodzicem,
-    - **d)** dokument poświadczający objęcie dziecka pieczą zastępczą zgodnie z ustawą z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2013 r. poz. 135, z późn. zm. );
+- **1)** dokumenty potwierdzające spełnianie przez kandydata kryteriów, o których mowa w art. 7b ust. 1b, art. 20c ust. 2, art. 20f ust. 4, art. 20g ust. 2, art. 20h ust. 3 i 7, art. 20i ust. 3, art. 20j ust. 3, art. 20k ust. 2, art. 20n ust. 5, art. 20o ust. 3, art. 20p ust. 1 pkt 1 i 2, art. 20q ust. 1 i art. 20r ust. 3, odpowiednio: oświadczenie o wielodzietności rodziny kandydata, orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność, orzeczenie o niepełnosprawności lub o stopniu niepełnosprawności lub orzeczenie równoważne w rozumieniu przepisów ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm.), prawomocny wyrok sądu rodzinnego orzekający rozwód lub separację lub akt zgonu oraz oświadczenie o samotnym wychowywaniu dziecka oraz niewychowywaniu żadnego dziecka wspólnie z jego rodzicem, dokument poświadczający objęcie dziecka pieczą zastępczą zgodnie z ustawą z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2013 r. poz. 135, ze zm.);
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **2)** dokumenty potwierdzające spełnianie przez kandydata kryteriów określonych przez organ prowadzący, o których mowa w art. 20c ust. 4, art. 20e ust. 3, art. 20o ust. 4 i art. 20p ust. 1 pkt 3;
 - **3)** oświadczenie o dochodzie na osobę w rodzinie kandydata – jeżeli organ prowadzący określił kryterium dochodu na osobę w rodzinie kandydata;
-- **4)** dokumenty potwierdzające spełnianie przez kandydata warunków, o których mowa w art. 20d, art. 20e ust. 2, art. 20f ust. 1, 2 pkt 1 i ust. 3, art. 20g ust. 1, art. 20h ust. 1 pkt 1 i 2, ust. 4 i 6 pkt 1 i 2, art. 20i ust. 1 i 2 pkt 1, art. 20j ust. 1 i 2 pkt 1, art. 20k ust. 1 i 6 oraz art. 20r ust. 1 i 2, odpowiednio: 20k ust. 1 pkt 1 – dokument potwierdzający ukończenie klasy piątej szkoły podstawowej, 22 ust. 2 pkt 8,
-    - **a)** świadectwo ukończenia szkoły, a w przypadku, o którym mowa w art.
-    - **b)** zaświadczenie o szczegółowych wynikach sprawdzianu lub egzaminu, o których mowa w art. 9 ust. 1 pkt 1 i 2,
-    - **c)** oświadczenie o nieposiadaniu żadnych kwalifikacji zawodowych przez kandydata,
-    - **d)** zaświadczenie o uzyskaniu tytułu laureata lub finalisty ogólnopolskich olimpiad przedmiotowych lub tytułu laureata konkursów przedmiotowych o zasięgu wojewódzkim lub ponadwojewódzkim, przeprowadzonych zgodnie z przepisami wydanymi na podstawie art.
-    - **e)** w przypadku szkoły prowadzącej kształcenie zawodowe – zaświadczenie lekarskie zawierające orzeczenie o braku przeciwwskazań zdrowotnych do podjęcia praktycznej nauki zawodu, wydane zgodnie z przepisami w sprawie badań lekarskich kandydatów do szkół ponadgimnazjalnych lub wyższych, uczniów tych szkół, studentów i uczestników studiów doktoranckich,
-    - **f)** opinię wydaną przez publiczną poradnię psychologicznopedagogiczną, w tym publiczną poradnię specjalistyczną, w sprawie pierwszeństwa w przyjęciu ucznia z problemami zdrowotnymi do szkoły ponadgimnazjalnej,
-    - **g)** orzeczenie lekarskie o zdolności do uprawiania danego sportu, zgodnie z przepisami w sprawie trybu orzekania o zdolności do uprawiania danego sportu przez dzieci i młodzież do ukończenia 21. roku życia oraz przez zawodników pomiędzy 21. a 23. rokiem życia,
-    - **h)** pisemną zgodę rodziców, o której mowa w art. 20h ust. 1 pkt 2.
+- **4)** dokumenty potwierdzające spełnianie przez kandydata warunków, o których mowa w art. 20d, art. 20e ust. 2, art. 20f ust. 1, 2 pkt 1 i ust. 3, art. 20g ust. 1, art. 20h ust. 1 pkt 1 i 2, ust. 4 i 6 pkt 1 i 2, art. 20i ust. 1 i 2 pkt 1, art. 20j ust. 1 i 2 pkt 1, art. 20k ust. 1 i 6 oraz art. 20r ust. 1 i 2, odpowiednio: świadectwo ukończenia szkoły, a w przypadku, o którym mowa w art. 20k ust. 1 pkt 1 – dokument potwierdzający ukończenie klasy piątej szkoły podstawowej, zaświadczenie o szczegółowych wynikach sprawdzianu lub egzaminu, o których mowa w art. 9 ust. 1 pkt 1 i 2, oświadczenie o nieposiadaniu żadnych kwalifikacji zawodowych przez kandydata, zaświadczenie o uzyskaniu tytułu laureata lub finalisty ogólnopolskich olimpiad przedmiotowych lub tytułu laureata konkursów przedmiotowych o zasięgu wojewódzkim lub ponadwojewódzkim, przeprowadzonych zgodnie z przepisami wydanymi na podstawie art. 22 ust. 2 pkt 8, w przypadku szkoły prowadzącej kształcenie zawodowe – zaświadczenie lekarskie zawierające orzeczenie o braku przeciwwskazań zdrowotnych do podjęcia praktycznej nauki zawodu, wydane zgodnie z przepisami w sprawie badań lekarskich kandydatów do szkół ponadgimnazjalnych lub wyższych, uczniów tych szkół, studentów i uczestników studiów doktoranckich, opinię wydaną przez publiczną poradnię psychologiczno-pedagogiczną, w tym publiczną poradnię specjalistyczną, w sprawie pierwszeństwa w przyjęciu ucznia z problemami zdrowotnymi do szkoły ponadgimnazjalnej, orzeczenie lekarskie o zdolności do uprawiania danego sportu, zgodnie z przepisami w sprawie trybu orzekania o zdolności do uprawiania danego sportu przez dzieci i młodzież do ukończenia 21. roku życia oraz przez zawodników pomiędzy 21. a 23. rokiem życia, pisemną zgodę rodziców, o której mowa w art. 20h ust. 1 pkt 2.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
 
-3. Dokumenty, o których mowa w ust. 2 pkt 1 lit. b–d oraz pkt 4 lit. a, b i d–g, są składane w oryginale, notarialnie poświadczonej kopii albo w postaci urzędowo poświadczonego zgodnie z art. 76a § 1 Kodeksu postępowania administracyjnego odpisu lub wyciągu z dokumentu.
+3. Dokumenty, o których mowa w ust. 2 pkt 1 lit. b-d oraz pkt 4 lit. a, b i d-g, są składane w oryginale, notarialnie poświadczonej kopii albo w postaci urzędowo poświadczonego zgodnie z art. 76a § 1 Kodeksu postępowania administracyjnego odpisu lub wyciągu z dokumentu.
 
 4. Dokumenty, o których mowa w ust. 2 pkt 4 lit. a i b, mogą być składane w postaci kopii poświadczanej za zgodność z oryginałem przez dyrektora szkoły, którą kandydat ukończył.
 
-5. Dokumenty, o których mowa w ust. 2 pkt 1 lit. b–d oraz pkt 4 lit. d–g, mogą być składane także w postaci kopii poświadczanej za zgodność z oryginałem przez rodzica kandydata lub pełnoletniego kandydata.
+5. Dokumenty, o których mowa w ust. 2 pkt 1 lit. b-d oraz pkt 4 lit. d-g, mogą być składane także w postaci kopii poświadczanej za zgodność z oryginałem przez rodzica kandydata lub pełnoletniego kandydata.
 
 6. Oświadczenia, o których mowa w ust. 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
 
@@ -370,8 +426,6 @@ source: "isap-pdf"
 
 10. Do prowadzenia spraw, o których mowa w ust. 8 i 9, wójt (burmistrz, prezydent miasta) właściwy ze względu na miejsce zamieszkania kandydata może upoważnić kierownika ośrodka pomocy społecznej, kierownika innej jednostki organizacyjnej gminy lub inną osobę na wniosek kierownika ośrodka pomocy społecznej, lub kierownika innej jednostki organizacyjnej gminy.
 
-**Art. 20u.**
-
 1. Zgłoszenie, o którym mowa w art. 20e ust. 1, zawiera:
 
 - **1)** imię, nazwisko, datę urodzenia oraz numer PESEL kandydata, a w przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość;
@@ -379,11 +433,7 @@ source: "isap-pdf"
 - **3)** adres miejsca zamieszkania rodziców kandydata i kandydata;
 - **4)** adres poczty elektronicznej i numery telefonów rodziców kandydata – o ile je posiadają.
 
-2. Przy zgłoszeniu kandydata do klasy pierwszej publicznego gimnazjum należy przedłożyć do wglądu świadectwo ukończenia szkoły podstawowej.
-
-**Art. 20v.** Organ prowadzący publiczne przedszkola, publiczne inne formy wychowania przedszkolnego, publiczne szkoły lub publiczne placówki może określić wzór wniosku lub wzór zgłoszenia, o których mowa odpowiednio w art. 20s i art. 20u.
-
-**Art. 20w.**
+2. Przy zgłoszeniu kandydata do klasy pierwszej publicznego gimnazjum należy przedłożyć do wglądu świadectwo ukończenia szkoły podstawowej. Organ prowadzący publiczne przedszkola, publiczne inne formy wychowania przedszkolnego, publiczne szkoły lub publiczne placówki może określić wzór wniosku lub wzór zgłoszenia, o których mowa odpowiednio w art. 20s i art. 20u.
 
 1. Postępowanie rekrutacyjne do publicznych przedszkoli i publicznych innych form wychowania przedszkolnego przeprowadza się co roku na kolejny rok szkolny na wolne miejsca w publicznym przedszkolu lub w publicznej innej formie wychowania przedszkolnego.
 
@@ -393,33 +443,173 @@ source: "isap-pdf"
 
 4. Rodzice dzieci kontynuujących uczestniczenie w zajęciach organizowanych przez publiczną placówkę oświatowo-wychowawczą składają deklarację o kontynuowaniu uczestniczenia w zajęciach, na które dziecko zostało przyjęte.
 
-5. Dyrektor publicznej placówki oświatowo-wychowawczej albo publicznej placówki zapewniającej opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania, w uzgodnieniu z organem prowadzącym, ustala i podaje do publicznej wiadomości terminy przeprowadzania postępowania rekrutacyjnego, w tym terminy składania dokumentów.
+5. Dyrektor publicznej placówki oświatowo-wychowawczej albo publicznej placówki zapewniającej opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania, w uzgodnieniu z organem prowadzącym, ustala i podaje do publicznej wiadomości terminy przeprowadzania postępowania rekrutacyjnego, w tym terminy składania dokumentów. W celu zapewnienia dziecku podczas pobytu w publicznym przedszkolu, publicznej innej formie wychowania przedszkolnego, publicznej szkole i publicznej placówce, o której mowa w art. 2 pkt 7, odpowiedniej opieki, odżywiania oraz metod opiekuńczo-wychowawczych rodzic dziecka przekazuje dyrektorowi przedszkola, szkoły lub placówki uznane przez niego za istotne dane o stanie zdrowia, stosowanej diecie i rozwoju psychofizycznym dziecka.
 
-**Art. 20z.** W celu zapewnienia dziecku podczas pobytu w publicznym przedszkolu, publicznej innej formie wychowania przedszkolnego, publicznej szkole i publicznej placówce, o której mowa w art. 2 pkt 7, odpowiedniej opieki, odżywiania oraz metod opiekuńczo-wychowawczych rodzic dziecka przekazuje dyrektorowi przedszkola, szkoły lub placówki uznane przez niego za istotne dane o stanie zdrowia, stosowanej diecie i rozwoju psychofizycznym dziecka. Art. 20za. 1. Wniosek o przyjęcie do publicznego przedszkola, publicznej innej formy wychowania przedszkolnego oraz publicznej szkoły może być złożony do nie więcej niż trzech wybranych publicznych przedszkoli, publicznych innych form wychowania przedszkolnego albo publicznych szkół, chyba że organ prowadzący dopuści możliwość składania wniosku do więcej niż trzech wybranych publicznych przedszkoli, publicznych innych form wychowania przedszkolnego albo publicznych szkół. 2. We wniosku, o którym mowa w ust. 1, określa się kolejność wybranych publicznych przedszkoli, publicznych innych form wychowania przedszkolnego albo publicznych szkół w porządku od najbardziej do najmniej preferowanych. Art. 20zb. 1. Postępowanie rekrutacyjne do publicznych przedszkoli, publicznych innych form wychowania przedszkolnego, publicznych szkół i publicznych placówek przeprowadza komisja rekrutacyjna powołana przez dyrektora przedszkola, szkoły lub placówki. Dyrektor wyznacza przewodniczącego komisji rekrutacyjnej. 2. Do zadań komisji rekrutacyjnej należy w szczególności:
+1. Wniosek o przyjęcie do publicznego przedszkola, publicznej innej formy wychowania przedszkolnego oraz publicznej szkoły może być złożony do nie więcej niż trzech wybranych publicznych przedszkoli, publicznych innych form wychowania przedszkolnego albo publicznych szkół, chyba że organ prowadzący dopuści możliwość składania wniosku do więcej niż trzech wybranych publicznych przedszkoli, publicznych innych form wychowania przedszkolnego albo publicznych szkół.
 
-**Art. 2.** W ustawie z dnia 27 czerwca 1997 r. o służbie medycyny pracy (Dz. U. z 2004 r. Nr 125, poz. 1317, z późn. zm. ) wprowadza się następujące zmiany:
+2. We wniosku, o którym mowa w ust. 1, określa się kolejność wybranych publicznych przedszkoli, publicznych innych form wychowania przedszkolnego albo publicznych szkół w porządku od najbardziej do najmniej preferowanych.
 
-**Art. 3.** W ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm. ) po art. 15 dodaje się art. 15a w brzmieniu: „Art. 15a. Minister właściwy do spraw szkolnictwa wyższego może zlecić Fundacji Rozwoju Systemu Edukacji, będącej fundacją Skarbu Państwa, realizację zadań w zakresie szkolnictwa wyższego w ramach programów Unii Europejskiej dotyczących kształcenia, szkolenia, młodzieży i sportu. Na realizację tych zadań Fundacja Rozwoju Systemu Edukacji otrzymuje dotację celową z części budżetu państwa, której dysponentem jest minister właściwy do spraw szkolnictwa wyższego.”.
+1. Postępowanie rekrutacyjne do publicznych przedszkoli, publicznych innych form wychowania przedszkolnego, publicznych szkół i publicznych placówek przeprowadza komisja rekrutacyjna powołana przez dyrektora przedszkola, szkoły lub placówki. Dyrektor wyznacza przewodniczącego komisji rekrutacyjnej.
 
-**Art. 4.** W ustawie z dnia 25 czerwca 2010 r. o sporcie (Dz. U. Nr 127, poz. 857, z późn. zm. ) po art. 29 dodaje się art. 29a w brzmieniu: „Art. 29a. Minister właściwy do spraw kultury fizycznej może zlecić Fundacji Rozwoju Systemu Edukacji, będącej fundacją Skarbu Państwa, realizację zadań w zakresie kultury fizycznej w ramach programów Unii Europejskiej dotyczących kształcenia, szkolenia, młodzieży i sportu. Na realizację tych zadań Fundacja Rozwoju Systemu Edukacji otrzymuje dotację celową z części budżetu państwa, której dysponentem jest minister właściwy do spraw kultury fizycznej.”.
+2. Do zadań komisji rekrutacyjnej należy w szczególności:
+
+- **1)** ustalenie wyników postępowania rekrutacyjnego i podanie do publicznej wiadomości listy kandydatów zakwalifikowanych i kandydatów niezakwalifikowanych, o której mowa w art. 20zc ust. 1;
+- **2)** ustalenie i podanie do publicznej wiadomości listy kandydatów przyjętych i kandydatów nieprzyjętych, o której mowa w art. 20zc ust. 3;
+- **3)** przeprowadzenie sprawdzianu uzdolnień kierunkowych, prób sprawności fizycznej, sprawdzianu predyspozycji językowych, sprawdzianu kompetencji językowych, badania przydatności, egzaminu wstępnego lub badania uzdolnień kierunkowych – w przypadkach, o których mowa w art. 7b ust. 1, art. 20f ust. 5, art. 20h ust. 1 pkt 3, art. 20i ust. 1, art. 20j ust. 1, art. 20n ust. 4 i art. 20o ust. 2;
+- **4)** przeprowadzenie rozmowy kwalifikacyjnej, o której mowa w art. 20k ust. 5;
+- **5)** sporządzenie protokołu postępowania rekrutacyjnego.
+
+1. Wyniki postępowania rekrutacyjnego podaje się do publicznej wiadomości w formie listy kandydatów zakwalifikowanych i kandydatów niezakwalifikowanych, zawierającej imiona i nazwiska kandydatów oraz informację o zakwalifikowaniu albo niezakwalifikowaniu kandydata do danego publicznego przedszkola, publicznej innej formy wychowania przedszkolnego, publicznej szkoły, publicznej placówki, na zajęcia w publicznej placówce oświatowo-wychowawczej, na kształcenie ustawiczne w formach pozaszkolnych lub na kwalifikacyjny kurs zawodowy.
+
+2. Komisja rekrutacyjna przyjmuje kandydata do danego publicznego przedszkola, publicznej innej formy wychowania przedszkolnego, publicznej szkoły, publicznej placówki, na zajęcia w publicznej placówce oświatowo-wychowawczej, na kształcenie ustawiczne w formach pozaszkolnych lub na kwalifikacyjny kurs zawodowy, jeżeli w wyniku postępowania rekrutacyjnego kandydat został zakwalifikowany oraz złożył wymagane dokumenty.
+
+3. Komisja rekrutacyjna podaje do publicznej wiadomości listę kandydatów przyjętych i kandydatów nieprzyjętych do danego publicznego przedszkola, publicznej innej formy wychowania przedszkolnego, publicznej szkoły, publicznej placówki, na zajęcia w publicznej placówce oświatowo-wychowawczej, na kształcenie ustawiczne w formach pozaszkolnych lub na kwalifikacyjny kurs zawodowy. Lista zawiera imiona i nazwiska kandydatów przyjętych i kandydatów nieprzyjętych lub informację o liczbie wolnych miejsc.
+
+4. Listy, o których mowa w ust. 1 i 3, podaje się do publicznej wiadomości poprzez umieszczenie w widocznym miejscu w siedzibie danego publicznego przedszkola, publicznej innej formy wychowania przedszkolnego, publicznej szkoły lub publicznej placówki. Listy zawierają imiona i nazwiska kandydatów uszeregowane w kolejności alfabetycznej oraz najniższą liczbę punktów, która uprawnia do przyjęcia.
+
+5. Dzień podania do publicznej wiadomości listy, o której mowa w ust. 3, jest określany w formie adnotacji umieszczonej na tej liście, opatrzonej podpisem przewodniczącego komisji rekrutacyjnej.
+
+6. W terminie 7 dni od dnia podania do publicznej wiadomości listy kandydatów przyjętych i kandydatów nieprzyjętych, rodzic kandydata lub kandydat pełnoletni może wystąpić do komisji rekrutacyjnej z wnioskiem o sporządzenie uzasadnienia odmowy przyjęcia kandydata do danego publicznego przedszkola, publicznej innej formy wychowania przedszkolnego, publicznej szkoły, publicznej placówki, na zajęcia w publicznej placówce oświatowo-wychowawczej, na kwalifikacyjny kurs zawodowy lub na kształcenie ustawiczne w formach pozaszkolnych.
+
+7. Uzasadnienie sporządza się w terminie 5 dni od dnia wystąpienia przez rodzica kandydata lub kandydata pełnoletniego z wnioskiem, o którym mowa w ust. 6. Uzasadnienie zawiera przyczyny odmowy przyjęcia, w tym najniższą liczbę punktów, która uprawniała do przyjęcia, oraz liczbę punktów, którą kandydat uzyskał w postępowaniu rekrutacyjnym.
+
+8. Rodzic kandydata lub kandydat pełnoletni może wnieść do dyrektora publicznego przedszkola, publicznej szkoły lub publicznej placówki odwołanie od rozstrzygnięcia komisji rekrutacyjnej, w terminie 7 dni od dnia otrzymania uzasadnienia.
+
+9. Dyrektor publicznego przedszkola, publicznej szkoły lub publicznej placówki rozpatruje odwołanie od rozstrzygnięcia komisji rekrutacyjnej, o którym mowa w ust. 8, w terminie 7 dni od dnia otrzymania odwołania. Na rozstrzygnięcie dyrektora danego publicznego przedszkola, publicznej szkoły lub publicznej placówki służy skarga do sądu administracyjnego.
+
+1. Jeżeli po przeprowadzeniu postępowania rekrutacyjnego publiczne przedszkole, publiczna inna forma wychowania przedszkolnego, publiczna szkoła lub publiczna placówka nadal dysponuje wolnymi miejscami, dyrektor przedszkola, szkoły lub placówki przeprowadza postępowanie uzupełniające.
+
+2. Postępowanie uzupełniające powinno zakończyć się do końca sierpnia roku szkolnego poprzedzającego rok szkolny, na który jest przeprowadzane postępowanie rekrutacyjne.
+
+3. Do postępowania uzupełniającego przepisy niniejszego rozdziału stosuje się odpowiednio.
+
+1. Dane osobowe kandydatów zgromadzone w celach postępowania rekrutacyjnego oraz dokumentacja postępowania rekrutacyjnego są przechowywane nie dłużej niż do końca okresu, w którym uczeń korzysta z wychowania przedszkolnego w danym publicznym przedszkolu lub publicznej innej formie wychowania przedszkolnego albo uczęszcza do danej publicznej szkoły, publicznej placówki, na zajęcia w publicznej placówce oświatowo-wychowawczej, na kształcenie ustawiczne w formach pozaszkolnych lub na kwalifikacyjny kurs zawodowy.
+
+2. Dane osobowe kandydatów nieprzyjętych zgromadzone w celach postępowania rekrutacyjnego są przechowywane w publicznym przedszkolu, publicznej innej formie wychowania przedszkolnego, publicznej szkole lub publicznej placówce, które przeprowadzały postępowanie rekrutacyjne, przez okres roku, chyba że na rozstrzygnięcie dyrektora przedszkola, szkoły lub placówki została wniesiona skarga do sądu administracyjnego i postępowanie nie zostało zakończone prawomocnym wyrokiem. W przypadku publicznych przedszkoli, publicznych szkół i publicznych placówek prowadzonych przez jednostki samorządu terytorialnego zadania i kompetencje określone w:
+
+- **1)** art. 20c ust. 4–6, art. 20e ust. 3 i 4, art. 20o ust. 4, art. 20p ust. 1 pkt 3 i ust. 3, art. 20r ust. 6 i art. 20za ust. 1 – wykonuje odpowiednio rada gminy, rada powiatu, sejmik województwa;
+- **2)** art. 20a ust. 3, art. 20f ust. 5, art. 20v i art. 20w ust. 5 – wykonuje odpowiednio wójt (burmistrz, prezydent miasta), starosta, marszałek województwa.
+
+1. Przepisów niniejszego rozdziału nie stosuje się do szkół prowadzonych przez ministra właściwego do spraw wewnętrznych, o których mowa w przepisach wydanych na podstawie art. 29.
+
+2. Warunki i tryb przyjmowania do szkół, o których mowa w ust. 1, określają przepisy wydane na podstawie art. 112 ust. 4 pkt 1 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2013 r. poz. 1340 i 1351).
+
+1. W przypadku przechodzenia ucznia z jednego typu publicznej szkoły do innego typu publicznej szkoły o przyjęciu ucznia do innego typu publicznej szkoły decyduje dyrektor szkoły. Przepis art. 20a ust. 3 stosuje się.
+
+2. Uczeń, o którym mowa w ust. 1, jest przyjmowany do innego typu publicznej szkoły na podstawie świadectwa ukończenia klasy programowo niższej.
+
+3. W przypadku przechodzenia ucznia z jednego typu publicznej szkoły do innego typu publicznej szkoły, przyjmując ucznia do innego typu publicznej szkoły, można przeprowadzić egzamin klasyfikacyjny przeprowadzany na podstawie przepisów w sprawie oceniania, klasyfikowania i promowania uczniów.
+
+4. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółowe warunki przechodzenia ucznia z jednego typu publicznej szkoły do innego typu publicznej szkoły, a także przypadki, w których uczeń przechodzący z jednego typu publicznej szkoły do innego typu publicznej szkoły może być przyjęty do klasy programowo wyższej, niż to wynika z ostatniego świadectwa szkolnego, uwzględniając potrzebę uzupełnienia różnic programowych przez uczniów, w tym kontynuowania nauki języka obcego nowożytnego. ” ;
+
+- **12)** w art. 60 w ust. 1 uchyla się pkt 6;
+- **13)** w art. 71b: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Kształceniem specjalnym obejmuje się dzieci i młodzież, o których mowa w art. 1 pkt 5 i 5a, wymagające stosowania specjalnej organizacji nauki i metod pracy. Kształcenie to może być prowadzone w formie nauki w przedszkolach i szkołach ogólnodostępnych, przedszkolach i szkołach lub oddziałach integracyjnych, przedszkolach i szkołach lub oddziałach specjalnych, innych formach wychowania przedszkolnego i ośrodkach, o których mowa w art. 2 pkt 5. ” , w ust. 7 pkt 3 otrzymuje brzmienie: „
+
+- **b)**
+- **3)** warunki organizowania kształcenia, wychowania i opieki dla dzieci i młodzieży, o których mowa w ust. 1, w innych formach wychowania przedszkolnego, przedszkolach i szkołach ogólnodostępnych oraz przedszkolach i szkołach lub oddziałach integracyjnych, uwzględniając rodzaje niepełnosprawności wymagające stosowania specjalnej organizacji nauki i metod pracy, konieczność dostosowania odpowiednio programów wychowania przedszkolnego i programów nauczania oraz warunków i form przeprowadzania egzaminów i sprawdzianów do indywidualnych potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych uczniów, a także zatrudnienia specjalistów do realizacji tych potrzeb. ” ;
+- **14)** w art. 80: ust. 2c i 2d otrzymują brzmienie: „
+    - **a)**
+
+2c. Prowadzone przez osoby prawne inne niż jednostki samorządu terytorialnego i osoby fizyczne publiczne przedszkola, inne formy wychowania przedszkolnego, szkoły podstawowe oraz ośrodki, o których mowa w art. 2 pkt 5, a także publiczne poradnie psychologiczno-pedagogiczne, które zgodnie z art. 71b ust. 2a prowadzą wczesne wspomaganie rozwoju dziecka, otrzymują dotację z budżetu odpowiednio gminy lub powiatu w wysokości nie niższej niż kwota przewidziana na jedno dziecko objęte wczesnym wspomaganiem rozwoju w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego, pod warunkiem że osoba prowadząca przedszkole, inną formę wychowania przedszkolnego, szkołę, ośrodek lub poradnię przedstawi organowi właściwemu do udzielenia dotacji informację o planowanej liczbie dzieci, które mają być objęte wczesnym wspomaganiem rozwoju, nie później niż do dnia 30 września roku poprzedzającego rok udzielenia dotacji.
+
+2d. Jeżeli do publicznej innej formy wychowania przedszkolnego, o której mowa w ust. 2b, uczęszcza uczeń niebędący mieszkańcem gminy dotującej tę formę wychowania przedszkolnego, gmina, której mieszkańcem jest ten uczeń, pokrywa koszty dotacji udzielonej zgodnie z ust. 2b, do wysokości iloczynu kwoty wydatków bieżących stanowiących w gminie dotującej podstawę ustalenia wysokości dotacji dla form wychowania przedszkolnego w przeliczeniu na jednego ucznia, pomniejszonych o opłaty za korzystanie z wychowania przedszkolnego oraz za wyżywienie, stanowiące dochody budżetu gminy, a także o kwotę dotacji, o której mowa w art. 14d ust. 1, otrzymanej na ucznia przez gminę dotującą inną formę wychowania przedszkolnego, do której uczęszcza uczeń, i wskaźnika procentowego ustalonego na potrzeby dotowania form wychowania przedszkolnego w gminie zobowiązanej do pokrycia kosztów udzielonej dotacji. W przypadku braku innej formy wychowania przedszkolnego, o której mowa w ust. 2b, na terenie gminy zobowiązanej do pokrycia kosztów udzielonej dotacji, gmina ta pokrywa koszty udzielonej dotacji w wysokości równej 50% wydatków bieżących, pomniejszonych o opłaty za korzystanie z wychowania przedszkolnego oraz za wyżywienie, stanowiące dochody budżetu gminy, a także o kwotę dotacji, o której mowa w art. 14d ust. 1, otrzymanej na ucznia przez gminę dotującą inną formę wychowania przedszkolnego, do której uczęszcza uczeń, stanowiących w gminie dotującej podstawę udzielenia dotacji dla form wychowania przedszkolnego w przeliczeniu na jednego ucznia. ” , ust. 3 i 3a otrzymują brzmienie: „
+
+- **b)**
+
+3. Szkoły, o których mowa w ust. 1, otrzymują na każdego ucznia dotację z budżetu jednostki samorządu terytorialnego obowiązanej do prowadzenia odpowiedniego typu i rodzaju szkół w wysokości równej wydatkom bieżącym przewidzianym na jednego ucznia w szkołach tego samego typu i rodzaju prowadzonych przez tę jednostkę samorządu terytorialnego, nie niższej jednak niż kwota przewidziana na jednego ucznia szkoły publicznej danego typu i rodzaju w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego. W przypadku nieprowadzenia przez jednostkę samorządu terytorialnego szkoły tego samego typu i rodzaju podstawą ustalenia wysokości dotacji jest kwota przewidziana na jednego ucznia szkoły publicznej danego typu i rodzaju w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego.
+
+3a. Placówki publiczne, o których mowa w art. 2 pkt 5 i 7, prowadzone przez osoby prawne i fizyczne otrzymują na każdego wychowanka dotację z budżetu powiatu w wysokości równej wydatkom bieżącym przewidzianym na jednego wychowanka w placówkach tego samego rodzaju prowadzonych przez powiat, jednak nie niższej od kwoty przewidzianej na jednego wychowanka placówki tego rodzaju w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego. W przypadku nieprowadzenia przez powiat placówki publicznej danego rodzaju podstawą ustalenia wysokości dotacji jest kwota przewidziana na jednego wychowanka placówki tego rodzaju w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego. ” , w ust. 8 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Prowadzone przez osobę prawną niebędącą jednostką samorządu terytorialnego lub osobę fizyczną szkoły publiczne prowadzące kwalifikacyjne kursy zawodowe otrzymują na każdego słuchacza kursu, który zdał egzamin potwierdzający kwalifikacje w zawodzie w zakresie danej kwalifikacji, dotację z budżetu powiatu w wysokości nie niższej niż kwota przewidziana na jednego słuchacza kwalifikacyjnego kursu zawodowego w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego, jeżeli osoba prowadząca szkołę: ” , po ust. 8 dodaje się ust. 8a w brzmieniu: „
+
+- **c)**
+- **d)**
+
+8a. Wysokość dotacji, o której mowa w ust. 8, określa organ stanowiący jednostki samorządu terytorialnego. ” ;
+
+- **15)** w art. 84 w ust. 2 pkt 7 otrzymuje brzmienie: „
+- **7)** zasady przyjmowania uczniów do szkoły lub placówki – z tym że statut uwzględnia warunki, o których mowa w: art. 20e ust. 2 – w przypadku gimnazjum, w tym dwujęzycznego, sportowego i mistrzostwa sportowego, art. 20f ust. 1 i art. 20g ust. 1 – w przypadku szkoły ponadgimnazjalnej, w tym dwujęzycznej, sportowej i mistrzostwa sportowego, art. 20k ust. 1, 5 i 6 – w przypadku szkół dla dorosłych. ” ;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **16)** art. 85a otrzymuje brzmienie: „
+
+**Art. 85a.** Przepisy art. 71b ust. 1 i 1a stosuje się odpowiednio do przedszkoli niepublicznych, niepublicznych innych form wychowania przedszkolnego i szkół niepublicznych. ” ;
+
+- **17)** w art. 90: ust. 1a otrzymuje brzmienie: „
+    - **a)**
+
+1a. Niepubliczne przedszkola, inne formy wychowania przedszkolnego, szkoły podstawowe oraz ośrodki, o których mowa w art. 2 pkt 5, a także niepubliczne poradnie psychologiczno-pedagogiczne, które, zgodnie z art. 71b ust. 2a, prowadzą wczesne wspomaganie rozwoju dziecka, otrzymują dotację z budżetu odpowiednio gminy lub powiatu w wysokości nie niższej niż kwota przewidziana na jedno dziecko objęte wczesnym wspomaganiem rozwoju w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego, pod warunkiem że osoba prowadząca przedszkole, inną formę wychowania przedszkolnego, szkołę, ośrodek lub poradnię poda organowi właściwemu do udzielania dotacji planowaną liczbę dzieci, które mają być objęte wczesnym wspomaganiem rozwoju, nie później niż do dnia 30 września roku poprzedzającego rok udzielania dotacji. ” , ust. 3a otrzymuje brzmienie: „
+
+- **b)**
+
+3a. Placówki niepubliczne, o których mowa w art. 2 pkt 5 i 7, otrzymują na każdego wychowanka dotację z budżetu powiatu w wysokości nie niższej niż kwota przewidziana na jednego wychowanka tego rodzaju placówki w części oświatowej subwencji ogólnej dla danej jednostki samorządu terytorialnego, a w przypadku niepublicznych ośrodków umożliwiających realizację obowiązku, o którym mowa w art. 14 ust. 3, obowiązku szkolnego i obowiązku nauki dzieciom i młodzieży, o których mowa w art. 16 ust. 7, a także dzieciom i młodzieży z upośledzeniem umysłowym z niepełnosprawnościami sprzężonymi, w wysokości nie niższej niż kwota przewidziana na jednego wychowanka tego rodzaju ośrodków w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego, pod warunkiem że osoba prowadząca placówkę przedstawi planowaną liczbę wychowanków organowi właściwemu do udzielenia dotacji, nie później niż do dnia 30 września roku poprzedzającego rok udzielenia dotacji. ” , ust. 4 otrzymuje brzmienie: „
+
+- **c)**
+
+4. Organ stanowiący jednostki samorządu terytorialnego ustala tryb udzielania i rozliczania dotacji, o których mowa w ust. 1a-1c i 2–3b, oraz tryb i zakres kontroli prawidłowości ich wykorzystywania, uwzględniając w szczególności podstawę obliczania dotacji, zakres danych, które powinny być zawarte we wniosku o udzielenie dotacji i w rozliczeniu jej wykorzystania, oraz termin i sposób rozliczenia dotacji. ” , w ust. 8 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Niepubliczne szkoły ponadgimnazjalne prowadzące kwalifikacyjne kursy zawodowe otrzymują na każdego słuchacza kursu, który zdał egzamin potwierdzający kwalifikacje w zawodzie w zakresie danej kwalifikacji, dotację z budżetu powiatu w wysokości nie niższej niż kwota przewidziana na jednego słuchacza kwalifikacyjnego kursu zawodowego w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego, jeżeli osoba prowadząca szkołę: ” , po ust. 8 dodaje się ust. 8a w brzmieniu: „
+
+- **d)**
+- **e)**
+
+8a. Wysokość dotacji, o której mowa w ust. 8, określa organ stanowiący jednostki samorządu terytorialnego. ” ;
+
+- **18)** w art. 94a w ust. 6 pkt 1 otrzymuje brzmienie: „
+- **1)** warunki i tryb przyjmowania do publicznych przedszkoli, szkół, w tym szkół artystycznych, zakładów kształcenia nauczycieli, placówek oraz na kształcenia ustawiczne w formie kwalifikacyjnych kursów zawodowych osób niebędących obywatelami polskimi oraz obywateli polskich, którzy pobierali naukę w szkołach funkcjonujących w systemach oświaty innych państw, a także rodzaje dokumentów potwierdzających poziom wykształcenia i stan zdrowia tych osób oraz sposób kwalifikowania do odpowiedniej klasy lub na odpowiedni semestr, uwzględniając brak znajomości języka polskiego przez kandydata lub brak możliwości przedłożenia przez kandydata dokumentów stwierdzających ukończenie za granicą szkoły lub kolejnego etapu edukacji; ” ;
+- **19)** po art. 94a dodaje się art. 94b w brzmieniu: „
+
+**Art. 94b.** Minister właściwy do spraw oświaty i wychowania może zlecić Fundacji Rozwoju Systemu Edukacji, będącej fundacją Skarbu Państwa, realizację zadań w zakresie oświaty i wychowania w ramach programów Unii Europejskiej dotyczących kształcenia, szkolenia, młodzieży i sportu. Na realizację tych zadań Fundacja Rozwoju Systemu Edukacji otrzymuje dotację celową z części budżetu państwa, której dysponentem jest minister właściwy do spraw oświaty i wychowania. ” .
+
+**Art. 2.** W ustawie z dnia 27 czerwca 1997 r. o służbie medycyny pracy (Dz. U. z 2004 r. Nr 125, poz. 1317, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 5: w ust. 1 pkt 4 otrzymuje brzmienie: „
+    - **a)**
+
+- **4)** kandydatów do szkół ponadgimnazjalnych lub wyższych i na kwalifikacyjne kursy zawodowe, uczniów tych szkół, studentów oraz słuchaczy kwalifikacyjnych kursów zawodowych, którzy w trakcie praktycznej nauki zawodu są narażeni na działanie czynników szkodliwych, uciążliwych lub niebezpiecznych dla zdrowia; ” , w ust. 2 pkt 2 otrzymuje brzmienie: „
+    - **b)**
+
+- **2)** szkole, szkole wyższej lub organizatorze kwalifikacyjnych kursów zawodowych – w odniesieniu do osób wymienionych w ust. 1 pkt 4; ” ;
+- **2)** w art. 21 w ust. 1 pkt 2 otrzymuje brzmienie: „
+- **2)** zadania służby medycyny pracy wykonywane zgodnie z art. 6 ust. 3, z zastrzeżeniem art. 21a; ” ;
+- **3)** po art. 21 dodaje się art. 21a w brzmieniu: „
+
+**Art. 21a.** Pełnoletni kandydaci na kwalifikacyjne kursy zawodowe oraz pełnoletni słuchacze kwalifikacyjnych kursów zawodowych ponoszą koszty przeprowadzonych badań oceny możliwości pobierania nauki uwzględniającej stan zdrowia i zagrożenia występujące w miejscu nauki. ” .
+
+**Art. 3.** W ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm.) po art. 15 dodaje się art. 15a w brzmieniu: „
+
+**Art. 15a.** Minister właściwy do spraw szkolnictwa wyższego może zlecić Fundacji Rozwoju Systemu Edukacji, będącej fundacją Skarbu Państwa, realizację zadań w zakresie szkolnictwa wyższego w ramach programów Unii Europejskiej dotyczących kształcenia, szkolenia, młodzieży i sportu. Na realizację tych zadań Fundacja Rozwoju Systemu Edukacji otrzymuje dotację celową z części budżetu państwa, której dysponentem jest minister właściwy do spraw szkolnictwa wyższego. ” .
+
+**Art. 4.** W ustawie z dnia 25 czerwca 2010 r. o sporcie (Dz. U. Nr 127, poz. 857, z późn. zm.) po art. 29 dodaje się art. 29a w brzmieniu: „
+
+**Art. 29a.** Minister właściwy do spraw kultury fizycznej może zlecić Fundacji Rozwoju Systemu Edukacji, będącej fundacją Skarbu Państwa, realizację zadań w zakresie kultury fizycznej w ramach programów Unii Europejskiej dotyczących kształcenia, szkolenia, młodzieży i sportu. Na realizację tych zadań Fundacja Rozwoju Systemu Edukacji otrzymuje dotację celową z części budżetu państwa, której dysponentem jest minister właściwy do spraw kultury fizycznej. ” .
 
 **Art. 5.** W ustawie z dnia 13 czerwca 2013 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 827) wprowadza się następujące zmiany:
 
-**Art. 6.**
+- **1)** w art. 1 w pkt 4 w lit. f ust. 4b otrzymuje brzmienie: „
+
+4b. Jeżeli liczba dzieci, którym gmina ma obowiązek zapewnić możliwość korzystania z wychowania przedszkolnego, zamieszkałych na obszarze danej gminy, zgłoszonych podczas rekrutacji do publicznego przedszkola, publicznej innej formy wychowania przedszkolnego, niepublicznego przedszkola, o którym mowa w art. 90 ust. 1b, lub niepublicznej innej formy wychowania przedszkolnego, o której mowa w art. 90 ust. 1c, przewyższy liczbę miejsc w tym przedszkolu lub tej innej formie wychowania przedszkolnego, dyrektor przedszkola, a w przypadku innej formy wychowania przedszkolnego prowadzonej przez gminę – także dyrektor szkoły, informuje o nieprzyjęciu dziecka do przedszkola lub innej formy wychowania przedszkolnego wójta (burmistrza, prezydenta miasta). W tym przypadku wójt (burmistrz, prezydent miasta) jest obowiązany pisemnie wskazać rodzicom inne publiczne przedszkole albo publiczną inną formę wychowania przedszkolnego, albo niepubliczne przedszkole, o którym mowa w art. 90 ust. 1b, albo niepubliczną inną formę wychowania przedszkolnego, o której mowa w art. 90 ust. 1c, które mogą przyjąć dziecko. Czas pracy wskazanego przez wójta (burmistrza, prezydenta miasta) innego publicznego przedszkola albo publicznej innej formy wychowania przedszkolnego, albo niepublicznego przedszkola, o którym mowa w art. 90 ust. 1b, albo niepublicznej innej formy wychowania przedszkolnego, o której mowa w art. 90 ust. 1c, powinien być zbliżony do czasu pracy odpowiednio przedszkola lub innej formy wychowania przedszkolnego, o przyjęcie do których ubiegali się rodzice dziecka. ” ;
+
+- **2)** w art. 1 w pkt 20: w lit. b: – w ust. 1b po pkt 5 dodaje się przecinek i pkt 6 w brzmieniu: „ 6) stosuje zasady przyjmowania do publicznych przedszkoli, określone w rozdziale 2a ” , – w ust. 1c po pkt 2 dodaje się przecinek i pkt 3 w brzmieniu: „ 3) stosuje zasady przyjmowania do publicznych innych form wychowania przedszkolnego określone w rozdziale 2a ” , – ust. 1k i 1l otrzymują brzmienie: „ 1k. Jeżeli do przedszkola, o którym mowa w ust. 1b, uczęszcza uczeń niebędący mieszkańcem gminy dotującej to przedszkole, gmina, której mieszkańcem jest ten uczeń, pokrywa koszty dotacji udzielonej zgodnie z ust. 1b do wysokości kwoty wydatków bieżących stanowiących w gminie dotującej podstawę ustalenia wysokości dotacji dla przedszkoli niepublicznych, o których mowa w ust. 1b lub 1j, w przeliczeniu na jednego ucznia, pomniejszonych o opłaty za korzystanie z wychowania przedszkolnego oraz za wyżywienie, stanowiące dochody budżetu gminy, a także o kwotę dotacji, o której mowa w art. 14d ust. 1, otrzymanej na ucznia przez gminę dotującą przedszkole, do którego uczęszcza uczeń. 1l. Jeżeli do niepublicznej innej formy wychowania przedszkolnego, o której mowa w ust. 1c, uczęszcza uczeń niebędący mieszkańcem gminy dotującej tę formę, gmina, której mieszkańcem jest ten uczeń, pokrywa koszty dotacji udzielonej zgodnie z ust. 1c, do wysokości iloczynu kwoty wydatków bieżących stanowiących w gminie dotującej podstawę ustalenia wysokości dotacji dla przedszkoli niepublicznych, o których mowa w ust. 1c, w przeliczeniu na jednego ucznia, pomniejszonych o opłaty za korzystanie z wychowania przedszkolnego oraz za wyżywienie, stanowiące dochody budżetu gminy, a także o kwotę dotacji, o której mowa w art. 14d ust. 1, otrzymanej na ucznia przez gminę dotującą inną formę wychowania przedszkolnego, do której uczęszcza uczeń, i wskaźnika procentowego ustalonego na potrzeby dotowania niepublicznych form wychowania przedszkolnego w gminie zobowiązanej do pokrycia kosztów udzielonej dotacji. ” , w lit. d ust. 2g otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2g. Na wniosek osoby prowadzącej odpowiednio niepubliczne przedszkole, inną formę wychowania przedszkolnego, szkołę, ośrodek lub niepubliczną poradnię psychologiczno-pedagogiczną, a także placówkę, o których mowa w ust. 1a, 2a, 2b, 2d, 3 i 3a, organ wykonawczy jednostki samorządu terytorialnego właściwej do udzielenia dotacji może wyrazić zgodę na odstąpienie od terminu, o którym mowa w ust. 1a, 2a, 2b, 2d, 3 i 3a, lub na udzielenie dotacji w terminie wcześniejszym niż od początku następnego roku budżetowego. ” ;
+
+- **3)** art. 6 otrzymuje brzmienie: „
+
+**Art. 6.** Do dnia 31 sierpnia 2016 r. przepisy art. 3 pkt 22, art. 6 ust. 2a, art. 14 ust. 1, 4b, 4c, 5–5i i 8, art. 14a ust. 4a, art. 14d ust. 4 i 6, art. 20 ust. 2 pkt 1, art. 79a, art. 80 ust. 2, 2a, 2e i 3d ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, art. 80 ust. 3e-3g i 4 ustawy zmienianej w art. 1, art. 90 ust. 1b, 1d-1f, 1h-1k, 1m-1o, 2b, 2c, 2g i 3d ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, art. 90 ust. 3e-3g i 4 ustawy zmienianej w art. 1, art. 7 ust. 4 pkt 3, art. 12, art. 13, art. 14 ust. 1 i 2 oraz art. 15 stosuje się także odpowiednio do oddziałów przedszkolnych w szkołach podstawowych. ” ;
+
+- **4)** art. 15 otrzymuje brzmienie: „ Do dnia 31 sierpnia 2015 r. na wniosek osoby prowadzącej odpowiednio niepubliczne przedszkole, inną formę wychowania przedszkolnego, szkołę, ośrodek lub niepubliczną poradnię psychologiczno-pedagogiczną, a także placówkę, o których mowa w art. 90 ust. 1a, 2a, 2b, 2d, 3 i 3a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, oraz w art. 14, organ wykonawczy jednostki samorządu terytorialnego właściwej do udzielenia dotacji może wyrazić zgodę na odstąpienie od terminu, o którym mowa w art. 90 ust. 1a, 2a, 2b, 2d, 3 i 3a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, oraz art. 14, lub na udzielenie dotacji w terminie wcześniejszym niż od początku następnego roku budżetowego. ” .
 
 1. W postępowaniu rekrutacyjnym na rok szkolny 2014/2015 do publicznego przedszkola lub publicznej innej formy wychowania przedszkolnego kryteria, o których mowa w art. 20c ust. 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, określa dyrektor publicznego przedszkola albo osoba kierująca publiczną inną formą wychowania przedszkolnego, w uzgodnieniu z wójtem (burmistrzem, prezydentem miasta), a kryterium dochodu na osobę w rodzinie kandydata, o którym mowa w art. 20c ust. 5 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, może określić wójt (burmistrz, prezydent miasta). Liczbę punktów za kryteria określa dyrektor publicznego przedszkola albo osoba kierująca publiczną inną formą wychowania przedszkolnego, w uzgodnieniu z wójtem (burmistrzem, prezydentem miasta). Spełnianie przez kandydata tych kryteriów jest potwierdzane odpowiednimi oświadczeniami. Przepisy art. 20c ust. 6, 9 i 10 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
 
 2. Na rok szkolny 2014/2015 terminy postępowania rekrutacyjnego, terminy składania dokumentów oraz terminy postępowania uzupełniającego określa dyrektor publicznego przedszkola albo osoba kierująca publiczną inną formą wychowania przedszkolnego w uzgodnieniu z wójtem (burmistrzem, prezydentem miasta).
 
-3. W postępowaniu rekrutacyjnym na rok szkolny 2014/2015 do publicznego przedszkola lub publicznej innej formy wychowania przedszkolnego przepisy art. 20a ust. 1, 2, 4, 6 i 7, art. 20b, art. 20c ust. 1–3, 7 i 8, art. 20s, art. 20t ust. 1, 2 pkt 1, ust. 3, 5–10, art. 20v, art. 20w ust. 1 i 2, art. 20z–20ze ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
+3. W postępowaniu rekrutacyjnym na rok szkolny 2014/2015 do publicznego przedszkola lub publicznej innej formy wychowania przedszkolnego przepisy art. 20a ust. 1, 2, 4, 6 i 7, art. 20b, art. 20c ust. 1–3, 7 i 8, art. 20s, art. 20t ust. 1, 2 pkt 1, ust. 3, 5–10, art. 20v, art. 20w ust. 1 i 2, art. 20z-20ze ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
 
-4. W postępowaniu rekrutacyjnym na rok szkolny 2014/2015 do publicznego przedszkola integracyjnego i oddziału integracyjnego w publicznym przedszkolu ogólnodostępnym, w przypadku dzieci nieposiadających orzeczenia o potrzebie kształcenia specjalnego wydanego ze względu na niepełnosprawność, przepisy ust. 1– 3 stosuje się.
-
-**Art. 6a.**
-
-1. Na rok szkolny 2015/2016 terminy postępowania rekrutacyjnego, terminy składania dokumentów oraz terminy postępowania uzupełniającego do publicznego przedszkola lub publicznej innej formy wychowania przedszkolnego określa dyrektor publicznego przedszkola albo osoba kierująca publiczną inną formą wychowania przedszkolnego w uzgodnieniu z wójtem (burmistrzem, prezydentem miasta).
-
-2. W postępowaniu rekrutacyjnym na rok szkolny 2015/2016 do publicznego przedszkola integracyjnego i oddziału integracyjnego w publicznym przedszkolu ogólnodostępnym, w przypadku dzieci nieposiadających orzeczenia o potrzebie kształcenia specjalnego wydanego ze względu na niepełnosprawność, przepis ust. 1 stosuje się.
+4. W postępowaniu rekrutacyjnym na rok szkolny 2014/2015 do publicznego przedszkola integracyjnego i oddziału integracyjnego w publicznym przedszkolu ogólnodostępnym, w przypadku dzieci nieposiadających orzeczenia o potrzebie kształcenia specjalnego wydanego ze względu na niepełnosprawność, przepisy ust. 1–3 stosuje się.
 
 **Art. 7.** Jeżeli w wyniku postępowania rekrutacyjnego na rok szkolny 2014/2015 dziecko zamieszkałe na obszarze danej gminy, któremu ta gmina ma obowiązek zapewnić możliwość korzystania z wychowania przedszkolnego, nie zostało przyjęte do danego publicznego przedszkola lub danej publicznej innej formy wychowania przedszkolnego, dyrektor tego przedszkola albo osoba kierująca tą inną formą wychowania przedszkolnego informuje o nieprzyjęciu dziecka do przedszkola lub innej formy wychowania przedszkolnego wójta (burmistrza, prezydenta miasta). W tym przypadku wójt (burmistrz, prezydent miasta) jest obowiązany pisemnie wskazać rodzicom inne publiczne przedszkole albo inną publiczną formę wychowania przedszkolnego, które mogą przyjąć dziecko. Czas pracy wskazanego przez wójta (burmistrza, prezydenta miasta) innego przedszkola albo innej formy wychowania przedszkolnego powinien być zbliżony do czasu pracy odpowiednio przedszkola lub innej formy wychowania przedszkolnego, o przyjęcie do których ubiegali się rodzice dziecka.
 
@@ -429,7 +619,7 @@ source: "isap-pdf"
 
 2. Dyrektor publicznej szkoły podstawowej, nie później niż odpowiednio do końca lutego 2014 r. i 2015 r., podaje kandydatom do wiadomości kryteria, o których mowa w ust. 1.
 
-3. W postępowaniu rekrutacyjnym na rok szkolny 2014/2015 i 2015/2016 do publicznej szkoły podstawowej przepisy art. 20a, art. 20s, art. 20t ust. 1, art. 20v i art. 20z–20ze ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
+3. W postępowaniu rekrutacyjnym na rok szkolny 2014/2015 i 2015/2016 do publicznej szkoły podstawowej przepisy art. 20a, art. 20s, art. 20t ust. 1, art. 20v i art. 20z-20ze ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
 
 4. W postępowaniu rekrutacyjnym na rok szkolny 2014/2015 i 2015/2016 do publicznej szkoły podstawowej integracyjnej i oddziału integracyjnego w publicznej szkole podstawowej ogólnodostępnej, w przypadku dzieci nieposiadających orzeczenia o potrzebie kształcenia specjalnego wydanego ze względu na niepełnosprawność, przepisy ust. 1–3 stosuje się.
 
@@ -445,7 +635,7 @@ source: "isap-pdf"
 
 5. Dyrektor publicznego gimnazjum, nie później niż odpowiednio do końca lutego 2014 r. i 2015 r., podaje kandydatom do wiadomości kryteria, o których mowa w ust. 1, oraz warunki, o których mowa w ust. 4. Termin ten nie dotyczy szkół nowo tworzonych.
 
-6. W postępowaniu rekrutacyjnym na rok szkolny 2014/2015 i 2015/2016 do publicznego gimnazjum przepisy art. 20a, art. 20d ust. 1, art. 20e ust. 2, art. 20s, art. 20t ust. 1, art. 20v i art. 20z–20ze ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
+6. W postępowaniu rekrutacyjnym na rok szkolny 2014/2015 i 2015/2016 do publicznego gimnazjum przepisy art. 20a, art. 20d ust. 1, art. 20e ust. 2, art. 20s, art. 20t ust. 1, art. 20v i art. 20z-20ze ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
 
 7. W postępowaniu rekrutacyjnym na rok szkolny 2014/2015 i 2015/2016 do publicznego gimnazjum integracyjnego i oddziału integracyjnego w publicznym gimnazjum ogólnodostępnym, w przypadku dzieci nieposiadających orzeczenia o potrzebie kształcenia specjalnego wydanego ze względu na niepełnosprawność, przepisy ust. 1–3, 5 i 6 stosuje się.
 
@@ -456,9 +646,9 @@ source: "isap-pdf"
 2. W postępowaniu rekrutacyjnym na rok szkolny 2014/2015 i 2015/2016 do publicznej szkoły ponadgimnazjalnej, z wyjątkiem szkół, o których mowa w art. 9 ust. 1 pkt 3 lit. d i e ustawy zmienianej w art. 1, o przyjęciu kandydatów do klasy pierwszej decydują kryteria ustalone przez dyrektora szkoły, uwzględniające:
 
 - **1)** oceny z języka polskiego i trzech wybranych obowiązkowych zajęć edukacyjnych;
-- **2)** osiągnięcia ucznia:
-    - **a)** ukończenie gimnazjum z wyróżnieniem,
-    - **b)** szczególne osiągnięcia ucznia wymienione na świadectwie ukończenia gimnazjum;
+- **2)** osiągnięcia ucznia: ukończenie gimnazjum z wyróżnieniem, szczególne osiągnięcia ucznia wymienione na świadectwie ukończenia gimnazjum;
+    - **a)**
+    - **b)**
 
 - **3)** liczbę punktów możliwych do uzyskania za wymienione na świadectwie ukończenia gimnazjum oceny z języka polskiego i trzech wybranych obowiązkowych zajęć edukacyjnych oraz za osiągnięcia ucznia, o których mowa w pkt 2;
 - **4)** liczbę punktów możliwych do uzyskania za wyniki egzaminu, o którym mowa w art. 9 ust. 1 pkt 2 ustawy zmienianej w art. 1, zawarte w zaświadczeniu o szczegółowych wynikach egzaminu;
@@ -482,9 +672,9 @@ source: "isap-pdf"
 
 11. W postępowaniu rekrutacyjnym na rok szkolny 2014/2015 i 2015/2016 do publicznej szkoły ponadgimnazjalnej, z wyjątkiem szkół, o których mowa w art. 9 ust. 1 pkt 3 lit. d i e ustawy zmienianej w art. 1, w przypadku równorzędnych wyników uzyskanych w postępowaniu rekrutacyjnym przeprowadzonym zgodnie z ust. 2 są brane pod uwagę łącznie kryteria, o których mowa w art. 20c ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą. Przepis art. 20c ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się.
 
-12. W postępowaniu rekrutacyjnym na lata szkolne [2014/2015–2017/2018] <2014/2015–2020/2021> do publicznej szkoły ponadgimnazjalnej, publicznej szkoły ponadgimnazjalnej sportowej, publicznej szkoły ponadgimnazjalnej mistrzostwa sportowego, oddziału sportowego w publicznej szkole ponadgimnazjalnej ogólnodostępnej, publicznej szkoły ponadgimnazjalnej dwujęzycznej, oddziału dwujęzycznego w publicznej szkole ponadgimnazjalnej ogólnodostępnej i oddziału międzynarodowego w publicznej szkole ponadgimnazjalnej ogólnodostępnej, wyniki egzaminu, o którym mowa w art. 9 ust. 1 pkt 2 ustawy zmienianej w art. 1, wskazane w art. 20f ust. 2 pkt 1, art. 20h ust. 6 pkt 2 i art. 20j ust. 2 pkt 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą oraz w ust. 2 pkt 4 nie obejmują wyniku egzaminu z języka obcego nowożytnego na poziomie rozszerzonym.
+12. W postępowaniu rekrutacyjnym na lata szkolne 2014/2015–2017/2018 do publicznej szkoły ponadgimnazjalnej, publicznej szkoły ponadgimnazjalnej sportowej, publicznej szkoły ponadgimnazjalnej mistrzostwa sportowego, oddziału sportowego w publicznej szkole ponadgimnazjalnej ogólnodostępnej, publicznej szkoły ponadgimnazjalnej dwujęzycznej, oddziału dwujęzycznego w publicznej szkole ponadgimnazjalnej ogólnodostępnej i oddziału międzynarodowego w publicznej szkole ponadgimnazjalnej ogólnodostępnej, wyniki egzaminu, o którym mowa w art. 9 ust. 1 pkt 2 ustawy zmienianej w art. 1, wskazane w art. 20f ust. 2 pkt 1, art. 20h ust. 6 pkt 2 i art. 20j ust. 2 pkt 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą oraz w ust. 2 pkt 4 nie obejmują wyniku egzaminu z języka obcego nowożytnego na poziomie rozszerzonym.
 
-13. W postępowaniu rekrutacyjnym na rok szkolny 2014/2015 i 2015/2016 do publicznej szkoły ponadgimnazjalnej, z wyłączeniem szkół, o których mowa w art. 9 ust. 1 pkt 3 lit. d i e ustawy zmienianej w art. 1, przepisy art. 20a, art. 20b, art. 20d ust. 1, art. 20f ust. 1 i 3, art. 20s, art. 20t ust. 1, 2 pkt 1, 4 lit. a, b, d–f oraz ust. 3–10, art. 20v i art. 20z–20ze ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
+13. W postępowaniu rekrutacyjnym na rok szkolny 2014/2015 i 2015/2016 do publicznej szkoły ponadgimnazjalnej, z wyłączeniem szkół, o których mowa w art. 9 ust. 1 pkt 3 lit. d i e ustawy zmienianej w art. 1, przepisy art. 20a, art. 20b, art. 20d ust. 1, art. 20f ust. 1 i 3, art. 20s, art. 20t ust. 1, 2 pkt 1, 4 lit. a, b, d-f oraz ust. 3–10, art. 20v i art. 20z-20ze ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
 
 14. W postępowaniu rekrutacyjnym na rok szkolny 2014/2015 i 2015/2016 do publicznej szkoły ponadgimnazjalnej integracyjnej i oddziału integracyjnego w publicznej szkole ponadgimnazjalnej ogólnodostępnej, w przypadku dzieci nieposiadających orzeczenia o potrzebie kształcenia specjalnego wydanego ze względu na niepełnosprawność, przepisy ust. 1, 2, 4–9 i 11–13 stosuje się.
 
@@ -492,7 +682,7 @@ source: "isap-pdf"
 
 **Art. 11.**
 
-1. W postępowaniu rekrutacyjnym na rok szkolny 2016/2017 do klasy pierwszej publicznej szkoły ponadgimnazjalnej dwujęzycznej lub oddziału dwujęzycznego w publicznej szkole ponadgimnazjalnej ogólnodostępnej przyjmuje się kandydatów, którzy spełniają warunki, o których mowa w art. 20f ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+1. W postępowaniu rekrutacyjnym na rok szkolny 2016/2017 i 2017/2018 do klasy pierwszej publicznej szkoły ponadgimnazjalnej dwujęzycznej lub oddziału dwujęzycznego w publicznej szkole ponadgimnazjalnej ogólnodostępnej przyjmuje się kandydatów, którzy spełniają warunki, o których mowa w art. 20f ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
 2. W postępowaniu rekrutacyjnym na rok szkolny 2016/2017 do szkoły i oddziału, o których mowa w ust. 1, na pierwszym etapie postępowania rekrutacyjnego są brane pod uwagę łącznie następujące kryteria:
 
@@ -500,13 +690,16 @@ source: "isap-pdf"
 - **2)** kryterium, o którym mowa w art. 10 ust. 2 pkt 1;
 - **3)** kryteria, o których mowa w art. 20f ust. 2 pkt 1, 3 i 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-3. (uchylony).
+3. W postępowaniu rekrutacyjnym na rok szkolny 2017/2018 do szkoły i oddziału, o których mowa w ust. 1, na pierwszym etapie postępowania rekrutacyjnego są brane pod uwagę łącznie następujące kryteria:
 
-4. W przypadku równorzędnych wyników uzyskanych na pierwszym etapie postępowania rekrutacyjnego, o którym mowa w ust. 2, na drugim etapie postępowania rekrutacyjnego są brane pod uwagę łącznie kryteria, o których mowa w art. 20c ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą. Przepis art. 20c ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się.
+- **1)** wynik sprawdzianu kompetencji językowych, przeprowadzanego na warunkach ustalonych przez radę pedagogiczną;
+- **2)** kryteria, o których mowa w art. 20j ust. 2 pkt 1, 3–5 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-5. Laureat lub finalista ogólnopolskiej olimpiady przedmiotowej oraz laureat konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim, przeprowadzonych zgodnie z przepisami wydanymi na podstawie art. 22 ust. 2 pkt 8 ustawy zmienianej w art. 1, w postępowaniu rekrutacyjnym na lata szkolne 2014/2015–2016/2017 są przyjmowani w pierwszej kolejności do publicznej szkoły ponadgimnazjalnej dwujęzycznej, oddziału dwujęzycznego w publicznej szkole ponadgimnazjalnej ogólnodostępnej lub oddziału międzynarodowego w publicznej szkole ponadgimnazjalnej ogólnodostępnej, jeżeli spełniają odpowiednio warunki, o których mowa w art. 20f ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+4. W przypadku równorzędnych wyników uzyskanych na pierwszym etapie postępowania rekrutacyjnego, o którym mowa w ust. 2 i 3, na drugim etapie postępowania rekrutacyjnego są brane pod uwagę łącznie kryteria, o których mowa w art. 20c ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą. Przepis art. 20c ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się.
 
-6. W postępowaniu rekrutacyjnym na rok szkolny 2016/2017 do szkoły lub oddziału, o których mowa w ust. 1, przepisy art. 20a ust. 1–4, 6 i 7, art. 20b, art. 20s, art. 20t ust. 1, 2 pkt 1 i 4 lit. a, b, d i e oraz ust. 3–10, art. 20v i art. 20z–20ze ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
+5. Laureat lub finalista ogólnopolskiej olimpiady przedmiotowej oraz laureat konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim, przeprowadzonych zgodnie z przepisami wydanymi na podstawie art. 22 ust. 2 pkt 8 ustawy zmienianej w art. 1, w postępowaniu rekrutacyjnym na lata szkolne 2014/2015–2017/2018 są przyjmowani w pierwszej kolejności do publicznej szkoły ponadgimnazjalnej dwujęzycznej, oddziału dwujęzycznego w publicznej szkole ponadgimnazjalnej ogólnodostępnej lub oddziału międzynarodowego w publicznej szkole ponadgimnazjalnej ogólnodostępnej, jeżeli spełniają odpowiednio warunki, o których mowa w art. 20f ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+6. W postępowaniu rekrutacyjnym na rok szkolny 2016/2017 i 2017/2018 do szkoły lub oddziału, o których mowa w ust. 1, przepisy art. 20a ust. 1–4, 6 i 7, art. 20b, art. 20s, art. 20t ust. 1, 2 pkt 1 i 4 lit. a, b, d i e oraz ust. 3–10, art. 20v i art. 20z-20ze ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
 
 **Art. 12.**
 
@@ -522,7 +715,7 @@ source: "isap-pdf"
 
 4. W postępowaniu rekrutacyjnym na rok szkolny 2014/2015 i 2015/2016 do zadań komisji rekrutacyjnej, o których mowa w art. 20zb ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, należy ponadto ustalanie prób sprawności fizycznej, o których mowa w ust. 2 pkt 2.
 
-5. W postępowaniu rekrutacyjnym na rok szkolny 2014/2015 i 2015/2016 do szkoły lub oddziału, o których mowa w ust. 1, przepisy art. 20a ust. 1–4, 6 i 7, art. 20d ust. 2, art. 20e ust. 2, art. 20f ust. 1, art. 20s, art. 20t ust. 1, ust. 2 pkt 1 i 4 lit. a, b, d, e, g oraz h, a także ust. 3–10, art. 20v i art. 20z–20ze ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
+5. W postępowaniu rekrutacyjnym na rok szkolny 2014/2015 i 2015/2016 do szkoły lub oddziału, o których mowa w ust. 1, przepisy art. 20a ust. 1–4, 6 i 7, art. 20d ust. 2, art. 20e ust. 2, art. 20f ust. 1, art. 20s, art. 20t ust. 1, ust. 2 pkt 1 i 4 lit. a, b, d, e, g oraz h, a także ust. 3–10, art. 20v i art. 20z-20ze ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
 
 **Art. 13.**
 
@@ -531,33 +724,40 @@ source: "isap-pdf"
 - **1)** do publicznych szkół dla dorosłych,
 - **2)** do publicznych szkół policealnych,
 - **3)** na pozaszkolne formy kształcenia ustawicznego prowadzone przez publiczne placówki i publiczne ośrodki, o których mowa w art. 2 pkt 3a ustawy zmienianej w art. 1,
-- **4)** na kwalifikacyjne kursy zawodowe prowadzone przez publiczne szkoły, publiczne placówki i publiczne ośrodki, o których mowa w art. 2 pkt 3a ustawy zmienianej w art. 1 – terminy postępowania rekrutacyjnego, w tym terminy składania dokumentów, oraz terminy postępowania uzupełniającego określa odpowiednio dyrektor publicznej szkoły, publicznego ośrodka lub publicznej placówki w uzgodnieniu ze starostą, marszałkiem województwa lub właściwym ministrem.
+- **4)** na kwalifikacyjne kursy zawodowe prowadzone przez publiczne szkoły, publiczne placówki i publiczne ośrodki, o których mowa w art. 2 pkt 3a ustawy zmienianej w art. 1 terminy postępowania rekrutacyjnego, w tym terminy składania dokumentów, oraz terminy postępowania uzupełniającego określa odpowiednio dyrektor publicznej szkoły, publicznego ośrodka lub publicznej placówki w uzgodnieniu ze starostą, marszałkiem województwa lub właściwym ministrem.
 
-2. W postępowaniu rekrutacyjnym na rok szkolny 2014/2015 i 2015/2016 do szkół dla dorosłych, szkół policealnych, na pozaszkolne formy kształcenia i kwalifikacyjne kursy zawodowe, o których mowa w ust. 1, przepisy art. 20a ust. 1–4 i 6, art. 20b, art. 20g, art. 20k, art. 20q–20s, art. 20t ust. 1, 2 pkt 1 i 4, ust. 3–10, art. 20v, art. 20za–20zc i art. 20ze ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
+2. W postępowaniu rekrutacyjnym na rok szkolny 2014/2015 i 2015/2016 do szkół dla dorosłych, szkół policealnych, na pozaszkolne formy kształcenia i kwalifikacyjne kursy zawodowe, o których mowa w ust. 1, przepisy art. 20a ust. 1–4 i 6, art. 20b, art. 20g, art. 20k, art. 20q-20s, art. 20t ust. 1, 2 pkt 1 i 4, ust. 3–10, art. 20v, art. 20za-20zc i art. 20ze ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
 
-3. W postępowaniu rekrutacyjnym na rok szkolny 2013/2014 do szkół dla dorosłych, szkół policealnych, na pozaszkolne formy kształcenia i kwalifikacyjne kursy zawodowe, o których mowa w ust. 1, przyjmuje się kandydatów na warunkach określonych w statucie danej publicznej szkoły, danej publicznej placówki lub danego publicznego ośrodka. Statut określa także terminy postępowania rekrutacyjnego i postępowania uzupełniającego, w tym terminy składania dokumentów, oraz wymagane dokumenty. Przepisy art. 20a ust. 1–4, 6 i 7, art. 20s, art. 20t ust. 1, art. 20za–20ze ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
+3. W postępowaniu rekrutacyjnym na rok szkolny 2013/2014 do szkół dla dorosłych, szkół policealnych, na pozaszkolne formy kształcenia i kwalifikacyjne kursy zawodowe, o których mowa w ust. 1, przyjmuje się kandydatów na warunkach określonych w statucie danej publicznej szkoły, danej publicznej placówki lub danego publicznego ośrodka. Statut określa także terminy postępowania rekrutacyjnego i postępowania uzupełniającego, w tym terminy składania dokumentów, oraz wymagane dokumenty. Przepisy art. 20a ust. 1–4, 6 i 7, art. 20s, art. 20t ust. 1, art. 20za-20ze ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio. W postępowaniu rekrutacyjnym na rok szkolny 2014/2015:
 
-**Art. 14.** W postępowaniu rekrutacyjnym na rok szkolny 2014/2015:
-
-**Art. 15.**
+- **1)** na zajęcia rozwijające uzdolnienia oraz zajęcia rozwijające zainteresowania organizowane w publicznej placówce oświatowo-wychowawczej,
+- **2)** do publicznej placówki zapewniającej opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania kryteria, terminy postępowania rekrutacyjnego i terminy postępowania uzupełniającego, w tym terminy składania dokumentów, wymagane dokumenty oraz sposób przeliczania punktów określa dyrektor placówki w uzgodnieniu z organem prowadzącym. Organ prowadzący może określić kryterium dochodu na osobę w rodzinie kandydata, o którym mowa w art. 20c ust. 5 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą. Spełnianie przez kandydata kryteriów potwierdza się odpowiednimi oświadczeniami. Przepisy art. 20a ust. 1, 4 i 6, art. 20c ust. 9 i 10, art. 20s, art. 20t ust. 1, art. 20v i art. 20z-20ze ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
 
 1. W postępowaniu rekrutacyjnym na rok szkolny 2014/2015 i 2015/2016 do oddziału międzynarodowego w publicznej szkole podstawowej ogólnodostępnej, oddziału międzynarodowego w publicznym gimnazjum ogólnodostępnym i publicznej szkole ponadgimnazjalnej ogólnodostępnej przyjmuje się kandydatów na warunkach i w trybie określonych odpowiednio w statucie danej publicznej szkoły podstawowej, publicznego gimnazjum i publicznej szkoły ponadgimnazjalnej.
 
-2. W postępowaniu rekrutacyjnym na rok szkolny 2014/2015 i 2015/2016 do oddziału międzynarodowego w publicznej szkole podstawowej ogólnodostępnej, oddziału międzynarodowego w publicznym gimnazjum ogólnodostępnym i oddziału międzynarodowego w publicznej szkole ponadgimnazjalnej ogólnodostępnej przepisy art. 20a ust. 1–4, 6 i 7, art. 20d ust. 1, art. 20s, art. 20t ust. 1, art. 20v, art. 20z–20ze ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
+2. W postępowaniu rekrutacyjnym na rok szkolny 2014/2015 i 2015/2016 do oddziału międzynarodowego w publicznej szkole podstawowej ogólnodostępnej, oddziału międzynarodowego w publicznym gimnazjum ogólnodostępnym i oddziału międzynarodowego w publicznej szkole ponadgimnazjalnej ogólnodostępnej przepisy art. 20a ust. 1–4, 6 i 7, art. 20d ust. 1, art. 20s, art. 20t ust. 1, art. 20v, art. 20z-20ze ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
 
-3. W postępowaniu rekrutacyjnym na rok szkolny 2016/2017 do oddziału międzynarodowego w publicznej szkole ponadgimnazjalnej ogólnodostępnej przyjmuje się kandydatów zgodnie z art. 11.
+3. W postępowaniu rekrutacyjnym na rok szkolny 2016/2017 i 2017/2018 do oddziału międzynarodowego w publicznej szkole ponadgimnazjalnej ogólnodostępnej przyjmuje się kandydatów zgodnie z art. 11.
 
 **Art. 16.**
 
 1. Do postępowania rekrutacyjnego na rok szkolny 2014/2015 do oddziałów przedszkolnych w publicznych szkołach podstawowych stosuje się przepisy art. 6 i art. 7.
 
-2. Do postępowania rekrutacyjnego na rok szkolny 2015/2016 do oddziałów przedszkolnych w publicznych szkołach podstawowych stosuje się przepisy art. 20a ust. 1, 2, 4, 6 i 7, art. 20b, art. 20c, art. 20s, art. 20t, art. 20v, art. 20w ust. 1 i 2 oraz art. 20z–20ze ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, a także przepis art. 6a.
+2. Do postępowania rekrutacyjnego na rok szkolny 2015/2016 do oddziałów przedszkolnych w publicznych szkołach podstawowych stosuje się przepisy art. 20a ust. 1, 2, 4, 6 i 7, art. 20b, art. 20c, art. 20s, art. 20t, art. 20v, art. 20w ust. 1 i 2 oraz art. 20z-20ze ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 17.** Nauczyciele niespełniający wymogu określonego w art. 9 ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2006 r. Nr 97, poz. 674, z późn. zm. ) zatrudnieni w dniu wejścia w życie ustawy w przedszkolach niepublicznych mogą być zatrudnieni w tych przedszkolach na dotychczasowych zasadach nie dłużej niż do dnia 1 września 2015 r.
+**Art. 17.** Nauczyciele niespełniający wymogu określonego w art. 9 ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2006 r. Nr 97, poz. 674, z późn. zm.) zatrudnieni w dniu wejścia w życie ustawy w przedszkolach niepublicznych mogą być zatrudnieni w tych przedszkolach na dotychczasowych zasadach nie dłużej niż do dnia 1 września 2015 r.
 
 **Art. 18.** W postępowaniu rekrutacyjnym na rok szkolny 2014/2015 obywatele polscy, którzy pobierali naukę w szkołach funkcjonujących w systemach oświaty innych państw, są przyjmowani do publicznych gimnazjów i szkół ponadgimnazjalnych na podstawie świadectwa, zaświadczenia lub innego dokumentu stwierdzającego ukończenie danej szkoły lub klasy oraz sumy lat nauki szkolnej ucznia.
 
-**Art. 19.** Dotychczasowe przepisy wykonawcze wydane na podstawie: [1) art. 60 ust. 2 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 60 ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 1 września 2019 r.;]
+**Art. 19.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
-**Art. 20.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem przepisów:
+- **1)** art. 60 ust. 2 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 60 ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 1 września 2016 r.;
+- **2)** art. 71b ust. 7 pkt 3 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 71b ust. 7 pkt 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 1 stycznia 2016 r.;
+- **3)** art. 94a ust. 6 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 94a ust. 6 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 1 stycznia 2015 r.;
+- **4)** art. 6 ust. 5 ustawy zmienianej w art. 2 zachowują moc, nie dłużej jednak niż do dnia 1 września 2014 r. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem przepisów:
+- **1)** art. 1 pkt 18, który wchodzi w życie z dniem 1 maja 2014 r.;
+- **2)** art. 1 pkt 9, który wchodzi w życie z dniem 1 stycznia 2015 r.;
+- **3)** art. 1 pkt 17 lit. c, który wchodzi w życie z dniem 1 września 2015 r.;
+- **4)** art. 1 pkt 11 w zakresie art. 20l ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, który wchodzi w życie z dniem 1 stycznia 2016 r.
+
 

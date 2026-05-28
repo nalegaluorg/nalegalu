@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o spółdzielniach
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 24 marca 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 kwietnia 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-04-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000443) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/443/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 24 marca 2025 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o spółdzielniach
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 4 października 2018 r. o spółdzielniach (Dz. U. z 2024 r. poz. 372), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 18 października 2024 r. o zmianie niektórych ustaw związanych z udzielaniem pomocy de minimis (Dz. U. poz. 1635) oraz zmian wynikających z przepisów ogłoszonych przed dniem 13 marca 2025 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 25 i art. 27 ustawy z dnia 18 października 2024 r. o zmianie niektórych ustaw związanych z udzielaniem pomocy de minimis (Dz. U. poz. 1635), które stanowią: „Art. 25. Do spraw dotyczących udzielania pomocy de minimis wszczętych i niezakończonych przed dniem 1 lipca 2024 r. stosuje się przepisy ustaw zmienianych art. 1–24 brzmieniu nadanym niniejszą ustawą.” „Art. 27. Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia.”.
 Marszałek Sejmu: S. Hołownia
@@ -54,6 +54,17 @@ Art. 19–24. (pominięte)
 3. Nazwa zawiera oznaczenie „Spółdzielnia Rolników”.
 
 **Art. 5.** Poza postanowieniami określonymi art. 5 § 1 ustawy Prawo spółdzielcze, statut rolników, zwany dalej „statutem”, zawiera co najmniej:
+
+- **1)** warunki przyjmowania do członków będących rolnikami oraz podmiotów niebędących rolnikami;
+- **2)** wskazanie minimalnego okresu członkostwa rolników, który nie może być krótszy niż rok obrotowy;
+- **3)** wskazanie terminu składania przez członka informacji o zamiarze wystąpienia ze rolników, który nie może upływać później niż 3 miesiące przed końcem roku obrotowego;
+- **4)** zasady i zakres dostarczania przez członków rolników, zakresie prowadzonej przez nich działalności, informacji dotyczących szczególności: powierzchni uprawy, plonów oraz wielkości produkcji produktów lub grup produktów;
+- **5)** obowiązujące członków będących rolnikami zasady produkcji produktów lub grup produktów, tym dotyczące ich jakości i ilości, oraz sposoby ich przygotowywania do zbycia;
+- **6)** zasady użytkowania, dzierżawy lub najmu przez spółdzielnię wkładów niepieniężnych oraz sposób ustalania odpłatności za ich użytkowanie, dzierżawę lub najem;
+- **7)** rodzaj i zakres odpowiedzialności członków rolników;
+- **8)** sankcje wobec członka rolników, który nie wypełnia nałożonych na niego obowiązków statutowych lub nie spełnia wymogów określonych ustawie, tym przyczyny wykluczenia i wykreślenia członka z tej spółdzielni;
+- **9)** szczegółowy sposób i warunki podziału nadwyżki bilansowej i pokrywania strat;
+- **10)** zasady ustalania liczby głosów przysługujących członkom będącym osobami prawnymi przypadku niestosowania zasady, o której mowa art. 36 § 2 zdanie pierwsze ustawy Prawo spółdzielcze.
 
 **Art. 6.**
 
@@ -107,6 +118,9 @@ Art. 19–24. (pominięte)
 
 **Art. 10.** Statut może stanowić, że wysokość wpisowego wynosi:
 
+- **1)** określoną kwotę albo
+- **2)** iloraz określonej statucie części ułamkowej funduszu zasobowego i liczby członków według stanu na koniec roku kalendarzowego bezpośrednio poprzedzającego rok przystąpienia członka do rolników.
+
 **Art. 11.**
 
 1. Statut może przewidywać możliwość corocznego ustalania liczby udziałów, do których mają prawo poszczególni członkowie proporcjonalnie do ich udziału procentowego łącznej wartości nabytych przez spółdzielnię od swoich członków produktów lub grup produktów roku obrotowym bezpośrednio poprzedzającym rok, którym jest ustalana liczba udziałów.
@@ -131,6 +145,26 @@ Art. 19–24. (pominięte)
 9. W przypadku gdy osoba, o której mowa ust. 6, nie została członkiem albo nie złożyła deklaracji przystąpienia do tej oraz przypadku przeniesienia przez członka własności gospodarstwa rolnego lub działu specjalnego produkcji rolnej wyniku odpłatnego nabycia, udział byłego członka wypłaca się na podstawie zatwierdzonego sprawozdania finansowego za rok, którym członek przestał należeć do rolników, przy czym sposób i terminy wypłaty określa statut.
 
 **Art. 12.** Członek będący właścicielem wniesionego do wkładu niepieniężnego może nim rozporządzać, jednak o zamiarze zbycia takiego wkładu jest obowiązany powiadomić spółdzielnię na piśmie, co najmniej na 12 miesięcy przed zamiarem dokonania tej czynności, o ile statucie nie został wskazany wcześniejszy termin na dokonanie tej czynności.
+
+- **1)** fundusz udziałowy, na który składają się wpłaty udziałów członkowskich;
+- **2)** fundusz zasobowy, na który składają się wpłaty wpisowego dokonane przez członków oraz nie mniej niż 10 % nadwyżki bilansowej;
+- **3)** fundusz wzajemnościowy, na który składają się wpłaty wysokości nie mniejszej niż 3 % nadwyżki bilansowej.
+
+3. Spółdzielnia może tworzyć inne fundusze własne przewidziane odrębnych przepisach lub jej statucie.
+
+4. W przypadku, o którym mowa art. 11 ust. 6, prawo do funduszu udziałowego przechodzi na nowego członka, o ile strony nie ustalą inaczej.
+
+5. Prawo do funduszu udziałowego przysługuje spadkobiercom zmarłego członka.
+
+6. Statut może wyłączyć prawo do funduszu udziałowego członka, który został wykluczony ze rolników.
+
+7. Środki pieniężne zgromadzone na rachunku funduszu wzajemnościowego przeznacza się na rozwój i promocję spółdzielni rolników.
+
+8. Część nadwyżki bilansowej pozostałej po dokonaniu odpisów na fundusze, o których mowa ust. 2, przeznacza się na cele wskazane uchwale walnego zgromadzenia.
+
+9. Straty bilansowe pokrywa się z funduszu zasobowego, a części przekraczającej fundusz zasobowy z innych funduszy własnych rolników, z wyłączeniem funduszu wzajemnościowego, sposób i na warunkach określonych statucie.
+
+10. Jeżeli straty poniesione roku obrotowym nie mogły zostać pokryte sposób określony ust. 9, mogą zostać pokryte kolejno po sobie następujących pięciu latach obrotowych.
 
 **Art. 14.** Walne zgromadzenie może przeznaczyć część nadwyżki bilansowej na oprocentowanie wniesionych udziałów. Wysokość oprocentowania nie może przekroczyć najwyższej danym roku kalendarzowym wysokości stopy redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski powiększonej o maksymalnie trzy punkty procentowe. Zasady ustalania wysokości oprocentowania i sposób jego wypłaty określa statut.
 
@@ -168,6 +202,10 @@ Art. 19–24. (pominięte)
 #### Rozdział 6 Zmiany przepisach obowiązujących i przepisy końcowe
 
 **Art. 25.** Zwolnienia, o których mowa art. 20 , art. 21 i art. 23 pkt 2, stanowią pomoc:
+
+- **1)** de minimis, udzielaną zakresie i na zasadach określonych bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy ramach zasady de minimis przypadku gdy pomoc jest udzielana podmiotom prowadzącym działalność gospodarczą inną niż produkcja rolna;
+- **2)** de minimis rolnictwie, o której mowa rozporządzeniu Komisji (UE) nr 1408/2013 z dnia 18 grudnia 2013 r. sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis sektorze rolnym (Dz. Urz. UE L 352 z 24.12.2013, str. 9) przypadku gdy pomoc jest udzielana podmiotom prowadzącym produkcję rolną;
+- **3)** de minimis, o której mowa rozporządzeniu Komisji (UE) nr 717/2014 z dnia 27 czerwca 2014 r. sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis sektorze rybołówstwa i akwakultury (Dz. Urz. UE L 190 z 28.06.2014, str. 45) przypadku gdy pomoc jest udzielana podmiotom prowadzącym działalność zakresie przetwórstwa i wprowadzania do obrotu ryb, wytworzonych przez rolników.
 
 **Art. 26.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia , z wyjątkiem art. 21, który wchodzi życie z dniem 1 stycznia 2019 r.
 

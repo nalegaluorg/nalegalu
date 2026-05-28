@@ -8,12 +8,10 @@ pos: 826
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy o podatku od towarów i usług
-
-*USTAWA z dnia 30 maja 2008 r.*
+# Ustawa z dnia 30 maja 2008 r. o zmianie ustawy o podatku od towarów i usług
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,13 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2008-05-30 |
 | Data wydania | 2008-07-21 |
+| Wejście w życie | 2008-08-05 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081300826) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/826/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. Nr 54, poz. 535, z późn. zm. ) w art. 116 w ust. 6 pkt 3 otrzymuje brzmienie: „3) w dokumencie stwierdzającym dokonanie zapłaty należności za produkty rolne zostaną podane numer i data wystawienia faktury potwierdzającej nabycie tych produktów albo na fakturze potwierdzającej zakup produktów rolnych podano dane identyfikacyjne dokumentu stwierdzającego dokonanie zapłaty.”.
+**Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. Nr 54, poz. 535, z późn. zm.) w art. 116 w ust. 6 pkt 3 otrzymuje brzmienie: „
+
+- **3)** w dokumencie stwierdzającym dokonanie zapłaty należności za produkty rolne zostaną podane numer i data wystawienia faktury potwierdzającej nabycie tych produktów albo na fakturze potwierdzającej zakup produktów rolnych podano dane identyfikacyjne dokumentu stwierdzającego dokonanie zapłaty. ” .
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

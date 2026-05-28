@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# o szczególnych zasadach przygotowania i realizacji strategicznych inwestycji zakresie potrzeb obronności państwa lub kluczowych inwestycji zakresie potrzeb obronności państwa lub bezpieczeństwa publicznego oraz ustanawiania stref ochronnych terenów zamkniętych
-
-*USTAWA z dnia 25 lipca 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 sierpnia 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +22,12 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2025-07-25 |
 | Data wydania | 2025-08-07 |
+| Wejście w życie | 2025-09-07 |
 | Ostatnia zmiana | 2025-08-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001080) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1080/text.pdf) |
+
+USTAWA z dnia 25 lipca 2025 r.
+o szczególnych zasadach przygotowania i realizacji strategicznych inwestycji zakresie potrzeb obronności państwa lub kluczowych inwestycji zakresie potrzeb obronności państwa lub bezpieczeństwa publicznego oraz ustanawiania stref ochronnych terenów zamkniętych
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -44,23 +46,23 @@ source: "isap-pdf"
 
 2. Ilekroć niniejszej ustawie jest mowa o:
 
-- **1)** inwestorze kluczowej inwestycji – należy przez to rozumieć:
+- **1)** inwestorze kluczowej inwestycji należy przez to rozumieć:
     - **a)** jednostkę organizacyjną podległą Ministrowi Obrony Narodowej lub przez niego nadzorowaną,
     - **b)** służby specjalne rozumieniu art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2025 r. poz. 902),
     - **c)** ministra właściwego do spraw wewnętrznych lub jednostki organizacyjne podległe temu ministrowi lub przez niego nadzorowane,
-    - **d)** organy podległe ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowane,
-    - **e)** urzędy lub jednostki organizacyjne podległe organom, o których mowa lit. e, lub przez nie nadzorowane, z dnia 7 października 1999 r. o wspieraniu restrukturyzacji przemysłowego potencjału obronnego i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2020 r. poz. 1663),
+    - **e)** urzędy lub jednostki organizacyjne podległe organom, o których mowa lit. e, lub przez nie nadzorowane,
+    - **f)** spółkę prowadzącą działalność ramach przemysłowego potencjału obronnego rozumieniu art. 4 pkt 1 ustawy z dnia 7 października 1999 r. o wspieraniu restrukturyzacji przemysłowego potencjału obronnego i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2020 r. poz. 1663),
     - **g)** innego wykonawcę wskazanego programie, o którym mowa art. 14 ust. 4;
 
-- **2)** inwestorze strategicznej inwestycji – należy przez to rozumieć:
+- **2)** inwestorze strategicznej inwestycji należy przez to rozumieć:
     - **a)** jednostkę organizacyjną podległą Ministrowi Obrony Narodowej lub przez niego nadzorowaną, z wyłączeniem Agencji Mienia Wojskowego oraz Zakładu Inwestycji Organizacji Traktatu Północnoatlantyckiego,
     - **b)** Służbę Kontrwywiadu Wojskowego lub Służbę Wywiadu Wojskowego;
 
-- **3)** strategicznej inwestycji zakresie potrzeb obronności państwa – należy przez to rozumieć inwestycję celu publicznego realizowaną na potrzeby obronności państwa lub ze względu na zobowiązania sojusznicze wykonywane ramach Organizacji Traktatu Północnoatlantyckiego;
-- **4)** kluczowej inwestycji zakresie potrzeb obronności państwa – należy przez to rozumieć inwestycję celu publicznego realizowaną na potrzeby obronności państwa lub budowania przemysłowego potencjału obronnego rozumieniu art. 4 pkt 1 ustawy z dnia 7 października 1999 r. o wspieraniu restrukturyzacji przemysłowego potencjału obronnego i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej, realizowaną ze względu na istotny interes bezpieczeństwa państwa lub zobowiązania sojusznicze wykonywane ramach Organizacji Traktatu Północnoatlantyckiego, lub inwestycję, której muszą towarzyszyć szczególne środki bezpieczeństwa;
-- **5)** kluczowej inwestycji zakresie potrzeb bezpieczeństwa publicznego – należy przez to rozumieć inwestycję celu publicznego realizowaną na potrzeby zapewnienia porządku publicznego lub ochrony ludności i obrony cywilnej;
-- **6)** kluczowej inwestycji – należy przez to rozumieć kluczową inwestycję zakresie potrzeb obronności państwa lub kluczową inwestycję zakresie potrzeb bezpieczeństwa publicznego;
-- **7)** strefie ochronnej terenu zamkniętego – należy przez to rozumieć obszar poza granicami terenu zamkniętego ustalonego przez Ministra Obrony Narodowej, wyznaczony przez właściwego miejscowo wojewodę, na którym z uwagi na potrzeby obronności i bezpieczeństwa państwa obowiązują zakazy i ograniczenia, o których mowa art. 38.
+- **3)** strategicznej inwestycji zakresie potrzeb obronności państwa należy przez to rozumieć inwestycję celu publicznego realizowaną na potrzeby obronności państwa lub ze względu na zobowiązania sojusznicze wykonywane ramach Organizacji Traktatu Północnoatlantyckiego;
+- **4)** kluczowej inwestycji zakresie potrzeb obronności państwa należy przez to rozumieć inwestycję celu publicznego realizowaną na potrzeby obronności państwa lub budowania przemysłowego potencjału obronnego rozumieniu art. 4 pkt 1 ustawy z dnia 7 października 1999 r. o wspieraniu restrukturyzacji przemysłowego potencjału obronnego i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej, realizowaną ze względu na istotny interes bezpieczeństwa państwa lub zobowiązania sojusznicze wykonywane ramach Organizacji Traktatu Północnoatlantyckiego, lub inwestycję, której muszą towarzyszyć szczególne środki bezpieczeństwa;
+- **5)** kluczowej inwestycji zakresie potrzeb bezpieczeństwa publicznego należy przez to rozumieć inwestycję celu publicznego realizowaną na potrzeby zapewnienia porządku publicznego lub ochrony ludności i obrony cywilnej;
+- **6)** kluczowej inwestycji należy przez to rozumieć kluczową inwestycję zakresie potrzeb obronności państwa lub kluczową inwestycję zakresie potrzeb bezpieczeństwa publicznego;
+- **7)** strefie ochronnej terenu zamkniętego należy przez to rozumieć obszar poza granicami terenu zamkniętego ustalonego przez Ministra Obrony Narodowej, wyznaczony przez właściwego miejscowo wojewodę, na którym z uwagi na potrzeby obronności i bezpieczeństwa państwa obowiązują zakazy i ograniczenia, o których mowa art. 38.
 
 **Art. 2.**
 
@@ -70,17 +72,14 @@ source: "isap-pdf"
 
 3. Do strategicznych inwestycji zakresie potrzeb obronności państwa ani kluczowych inwestycji nie stosuje się przepisów działów III i V ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2024 r. poz. 1112, 1881 i 1940).
 
-4. Do strategicznych inwestycji zakresie potrzeb obronności państwa ani kluczowych inwestycji nie stosuje się przepisów działu IX ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2025 r. poz. 960).
+4. Do strategicznych inwestycji zakresie potrzeb obronności państwa ani kluczowych inwestycji nie stosuje się przepisów działu IX ustawy z dnia 20 lipca 2017 r. Prawo wodne (Dz. U. z 2025 r. poz. 960).
 
-5. Do zamówień udzielanych przez Siły Zbrojne Rzeczypospolitej Polskiej, związanych z zakupem bezzałogowych statków powietrznych i bezzałogowych systemów uzbrojenia oraz środków zwalczania bezzałogowych statków powietrznych i środków zwalczania bezzałogowych systemów uzbrojenia, które zostały przetestowane Siłach Zbrojnych Rzeczypospolitej Polskiej i otrzymały pozytywną rekomendację wyniku tych testów – jeżeli Minister Obrony Narodowej wyraził zgodę na ich zakup, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320 oraz z 2025 r. poz. 620, 769 i 794).
+5. Do zamówień udzielanych przez Siły Zbrojne Rzeczypospolitej Polskiej, związanych z zakupem bezzałogowych statków powietrznych i bezzałogowych systemów uzbrojenia oraz środków zwalczania bezzałogowych statków powietrznych i środków zwalczania bezzałogowych systemów uzbrojenia, które zostały przetestowane Siłach Zbrojnych Rzeczypospolitej Polskiej i otrzymały pozytywną rekomendację wyniku tych testów jeżeli Minister Obrony Narodowej wyraził zgodę na ich zakup, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320 oraz z 2025 r. poz. 620, 769 i 794).
 
-6. Organem wyższego stopnia stosunku do wojewody sprawach dotyczących strategicznych inwestycji zakresie potrzeb obronności państwa jest minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
+6. Organem wyższego stopnia stosunku do wojewody sprawach dotyczących strategicznych inwestycji zakresie potrzeb obronności państwa jest minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa. 1989 r. Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151 i 1824 oraz z 2025 r. poz. 1019), ustalonych przez:
 
-**Art. 3.**
-
-1. Dopuszczalne poziomy hałasu dla terenów zamkniętych rozumieniu art. 2 pkt 9 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151 i 1824 oraz z 2025 r. poz. 1019), ustalonych przez:
-
-- **1)** Ministra Obrony Narodowej, przemysłowego potencjału obronnego rozumieniu art. 4 pkt 1 ustawy z dnia 7 października 1999 r. o wspieraniu restrukturyzacji przemysłowego potencjału obronnego i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej, zwanych dalej „spółkami przemysłowego potencjału obronnego” – są określone załączniku do ustawy.
+- **1)** Ministra Obrony Narodowej,
+- **2)** ministra właściwego do spraw aktywów państwowych odniesieniu do spółek prowadzących działalność ramach przemysłowego potencjału obronnego rozumieniu art. 4 pkt 1 ustawy z dnia 7 października 1999 r. o wspieraniu restrukturyzacji przemysłowego potencjału obronnego i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej, zwanych dalej „spółkami przemysłowego potencjału obronnego” są określone załączniku do ustawy.
 
 2. Dopuszczalne poziomy hałasu, o których mowa ust. 1, nie obejmują hałasu powodowanego przez starty, lądowania i przeloty statków powietrznych oraz linie elektroenergetyczne.
 
@@ -110,43 +109,43 @@ source: "isap-pdf"
     - **c)** określenie aktualnego stanu zagospodarowania obszaru, na którym ma zostać ustanowiona strefa ochronna terenu zamkniętego,
     - **d)** zakazy i ograniczenia zagospodarowaniu lub korzystaniu z terenów, mające obowiązywać na obszarze strefy ochronnej terenu zamkniętego, o których mowa art. 38;
 
-- **4)** określenie zmian dotychczasowej infrastrukturze zagospodarowania terenu; sporządzone zgodnie z ustawą z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami oraz ustawą z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne;
+- **5)** mapy zawierające projekty podziału nieruchomości, przypadku konieczności zatwierdzenia podziału nieruchomości sporządzone zgodnie z ustawą z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami oraz ustawą z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne;
 - **6)** wskazanie nieruchomości lub ich części, według ewidencji gruntów i budynków, które są planowane do nabycia na potrzeby obronności państwa, odpowiednio na własność Skarbu Państwa w:
     - **a)** trwały zarząd właściwej jednostki organizacyjnej podległej Ministrowi Obrony Narodowej,
     - **b)** trwały zarząd Służby Kontrwywiadu Wojskowego albo Służby Wywiadu Wojskowego,
-    - **c)** użytkowanie wieczyste właściwych jednostek organizacyjnych nadzorowanych przez Ministra Obrony Narodowej, a przypadku nieruchomości będących własnością Skarbu Państwa – wskazanie nieruchomości lub ich części, na których właściwe jednostki organizacyjne nadzorowane przez Ministra Obrony Narodowej uzyskają prawo użytkowania wieczystego;
+    - **c)** użytkowanie wieczyste właściwych jednostek organizacyjnych nadzorowanych przez Ministra Obrony Narodowej, a przypadku nieruchomości będących własnością Skarbu Państwa wskazanie nieruchomości lub ich części, na których właściwe jednostki organizacyjne nadzorowane przez Ministra Obrony Narodowej uzyskają prawo użytkowania wieczystego;
 
 - **7)** wskazanie nieruchomości lub ich części, stosunku do których decyzja o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa ma wywołać skutek, o którym mowa art. 29 ust. 1, wraz ze wskazaniem jednostki organizacyjnej podległej Ministrowi Obrony Narodowej, Służby Kontrwywiadu Wojskowego albo Służby Wywiadu Wojskowego, której ten skutek dotyczy;
 - **8)** wskazanie nieruchomości lub ich części, stosunku do których decyzja o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa ma wywołać skutek, o którym mowa art. 29 ust. 2;
 - **9)** wskazanie nieruchomości lub ich części, które stanowią własność Skarbu Państwa, objętych wnioskiem o wydanie decyzji o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa, tym nieruchomości, na których zostało ustanowione użytkowanie wieczyste, zarząd lub trwały zarząd;
 - **10)** wskazanie nieruchomości lub ich części, stosunku do których decyzja o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa ma wywołać skutek, o którym mowa art. 9 ust. 3;
 - **11)** wskazanie nieruchomości lub ich części, z których korzystanie będzie ograniczone, zgodnie z art. 9 ust. 1 pkt 10 lit. i;
-- **12)** wskazanie gruntów stanowiących własność Skarbu Państwa pokrytych wodami, przypadku inwestycji realizowanych na śródlądowych wodach płynących, o których mowa art. 211 ust. 2 ustawy z dnia 20 lipca 2017 r. – Prawo wodne, gruntów stanowiących pas drogowy drogi publicznej lub gruntów objętych obszarem kolejowym, jeżeli inwestycja wymaga przejścia przez te grunty;
-- **13)** trzy egzemplarze projektu zagospodarowania działki lub terenu oraz projektu architektoniczno-budowlanego wraz z zaświadczeniem, o którym mowa art. 12 ust. 7 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418 i 1080), z uwzględnieniem art. 12 ust. 7a oraz art. 34 ust. 3da pkt 2 tej ustawy, aktualnym na dzień opracowania projektu;
-- **14)** opinie: poz. 884), poz. 184),
-    - **a)** ministra właściwego do spraw zdrowia – odniesieniu do obiektów budowlanych lokalizowanych na obszarach, którym został nadany status uzdrowiska albo obszaru ochrony uzdrowiskowej,
-    - **b)** ministra właściwego do spraw środowiska – odniesieniu do złóż strategicznych,
-    - **c)** ministra właściwego do spraw gospodarki morskiej – odniesieniu do nieruchomości, o których mowa art. 3 ust. 1 pkt 1 ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r. poz. 1796),
-    - **d)** Prezesa Urzędu Lotnictwa Cywilnego oraz ministra właściwego do spraw wewnętrznych – odniesieniu do obiektów budowanych granicach powierzchni ograniczających przeszkody lub powierzchni ograniczających zabudowę lub stanowiących przeszkody lotnicze, o których mowa ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2023 r. poz. 2110, z późn. zm. ),
-    - **e)** właściwego dyrektora urzędu morskiego – odniesieniu do obszarów pasa nadbrzeżnego, o którym mowa art. 36 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, oraz portów i przystani morskich rozumieniu art. 2 pkt 2 ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich, zabytków, o których mowa art. 7 pkt 1 i 2–4 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907), lub ujętych wojewódzkiej lub gminnej ewidencji zabytków,
-    - **g)** ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego – odniesieniu do zabytków objętych formami ochrony zabytków, o których mowa art. 7 pkt 1 i 1a ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, odpowiednio sprawie skreślenia zabytku z rejestru zabytków i Listy Skarbów Dziedzictwa,
-    - **h)** dyrektora parku narodowego – odniesieniu do obszarów położonych granicach parku i jego otuliny, o których mowa ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2024 r. poz. 1478 i 1940 oraz z 2025 r.
-    - **i)** dyrektora właściwego regionalnego zarządu gospodarki Wodnej Państwowego Gospodarstwa Wodnego Wody Polskie – odniesieniu do inwestycji obejmujących wykonywanie urządzeń wodnych, o których mowa art. 16 pkt 65 ustawy z dnia 20 lipca 2017 r. – Prawo wodne, oraz lokalizowania nowych obiektów budowlanych na obszarach szczególnego zagrożenia powodzią, o których mowa art. 16 pkt 34 tej ustawy,
-    - **j)** właściwego regionalnego dyrektora ochrony środowiska – odniesieniu do innych niż park narodowy i jego otulina obszarów objętych ochroną na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody,
-    - **k)** dyrektora właściwej regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe – odniesieniu do gruntów leśnych stanowiących własność Skarbu Państwa, będących zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe, zwanego dalej „Lasami Państwowymi”,
-    - **l)** dyrektora Rządowego Centrum Bezpieczeństwa – odniesieniu do obiektów, które zostały zakwalifikowane jako infrastruktura krytyczna rozumieniu art. 3 pkt 2 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122 oraz z 2024 r. poz. 834, 1222, 1473, 1572 i 1907),
-    - **m)** właściwego organu nadzoru górniczego – odniesieniu do inwestycji granicach terenu górniczego,
-    - **n)** Spółki Celowej rozumieniu art. 2 pkt 10 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U. z 2024 r. poz. 1747) – odniesieniu do obszaru otoczenia Centralnego Portu Komunikacyjnego lub obszarów objętych Strategicznym Studium Lokalizacyjnym rozumieniu art. 2 pkt 10a tej ustawy,
-    - **o)** właściwego podmiotu wykonującego prawa właścicielskie, zgodnie z art. 212 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne stosunku do gruntów stanowiących własność Skarbu Państwa pokrytych wodami – odniesieniu do sposobu, miejsca i warunków umieszczenia inwestycji na tych gruntach,
-    - **p)** właściwego zarządcy infrastruktury kolejowej lub innego właściwego podmiotu zarządzającego obszarem kolejowym – odniesieniu do obszarów kolejowych rozumieniu art. 4 pkt 8 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2024 r. poz. 697 i 731),
-    - **q)** organów właściwych sprawach ochrony gruntów rolnych i leśnych oraz melioracji wodnych – odniesieniu do gruntów wykorzystywanych na cele rolne i leśne, o których mowa ustawie z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2024 r. poz. 82),
-    - **r)** właściwego miejscowo zarządu województwa, zarządu powiatu oraz wójta (burmistrza, prezydenta miasta) – odniesieniu do realizowanej inwestycji,
-    - **s)** właściwego organu, o którym mowa art. 10 ust. 1 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2024 r. poz. 416) – odniesieniu do oddziaływania obiektu na zabudowania sąsiednie oraz zakresie rozwiązań higieniczno-sanitarnych,
-    - **t)** właściwego zarządcy drogi – odniesieniu do obszarów pasa drogowego, zakresie potrzeb przebudowy drogi publicznej, lokalizacji i parametrów technicznych zjazdów – jeżeli wniosek dotyczy przebudowy drogi publicznej, budowy lub przebudowy zjazdów, oraz sposobu, miejsca i warunków umieszczenia pasie drogowym urządzeń niezwiązanych z potrzebami zarządzania drogami lub potrzebami ruchu drogowego – zgodnie z ustawą z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2025 r. poz. 889),
-    - **u)** właściwego miejscowo komendanta oddziału Straży Granicznej – odniesieniu do obszarów strefy nadgranicznej, o której mowa ustawie z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2025 r.
-    - **v)** ministra właściwego do spraw środowiska – odniesieniu do głównych zbiorników wód podziemnych,
-    - **w)** właściwego marszałka województwa – odniesieniu do zasobów ujęć wód podziemnych,
-    - **y)** właściwych instytucji zarządzających funduszami europejskimi oraz instytucji pośredniczących zawierających umowy o dofinansowanie – odniesieniu do nieruchomości, na których są realizowane lub zrealizowano operacje przy wykorzystaniu środków, o których mowa art. 5 ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530, 1572, 1717, 1756 i 1907 oraz z 2025 r. poz. 39);
+- **12)** wskazanie gruntów stanowiących własność Skarbu Państwa pokrytych wodami, przypadku inwestycji realizowanych na śródlądowych wodach płynących, o których mowa art. 211 ust. 2 ustawy z dnia 20 lipca 2017 r. Prawo wodne, gruntów stanowiących pas drogowy drogi publicznej lub gruntów objętych obszarem kolejowym, jeżeli inwestycja wymaga przejścia przez te grunty;
+- **13)** trzy egzemplarze projektu zagospodarowania działki lub terenu oraz projektu architektoniczno-budowlanego wraz z zaświadczeniem, o którym mowa art. 12 ust. 7 ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2025 r. poz. 418 i 1080), z uwzględnieniem art. 12 ust. 7a oraz art. 34 ust. 3da pkt 2 tej ustawy, aktualnym na dzień opracowania projektu;
+- **14)** opinie: poz. 884), Prawo wodne stosunku do gruntów stanowiących własność Skarbu Państwa pokrytych wodami odniesieniu do sposobu, miejsca i warunków umieszczenia inwestycji na tych gruntach, poz. 184),
+    - **a)** ministra właściwego do spraw zdrowia odniesieniu do obiektów budowlanych lokalizowanych na obszarach, którym został nadany status uzdrowiska albo obszaru ochrony uzdrowiskowej,
+    - **b)** ministra właściwego do spraw środowiska odniesieniu do złóż strategicznych,
+    - **c)** ministra właściwego do spraw gospodarki morskiej odniesieniu do nieruchomości, o których mowa art. 3 ust. 1 pkt 1 ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r. poz. 1796),
+    - **d)** Prezesa Urzędu Lotnictwa Cywilnego oraz ministra właściwego do spraw wewnętrznych odniesieniu do obiektów budowanych granicach powierzchni ograniczających przeszkody lub powierzchni ograniczających zabudowę lub stanowiących przeszkody lotnicze, o których mowa ustawie z dnia 3 lipca 2002 r. Prawo lotnicze (Dz. U. z 2023 r. poz. 2110, z późn. zm. ),
+    - **e)** właściwego dyrektora urzędu morskiego odniesieniu do obszarów pasa nadbrzeżnego, o którym mowa art. 36 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, oraz portów i przystani morskich rozumieniu art. 2 pkt 2 ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich, zabytków, o których mowa art. 7 pkt 1 i 2–4 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907), lub ujętych wojewódzkiej lub gminnej ewidencji zabytków,
+    - **g)** ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego odniesieniu do zabytków objętych formami ochrony zabytków, o których mowa art. 7 pkt 1 i 1a ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, odpowiednio sprawie skreślenia zabytku z rejestru zabytków i Listy Skarbów Dziedzictwa,
+    - **h)** dyrektora parku narodowego odniesieniu do obszarów położonych granicach parku i jego otuliny, o których mowa ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2024 r. poz. 1478 i 1940 oraz z 2025 r.
+    - **i)** dyrektora właściwego regionalnego zarządu gospodarki Wodnej Państwowego Gospodarstwa Wodnego Wody Polskie odniesieniu do inwestycji obejmujących wykonywanie urządzeń wodnych, o których mowa art. 16 pkt 65 ustawy z dnia 20 lipca 2017 r. Prawo wodne, oraz lokalizowania nowych obiektów budowlanych na obszarach szczególnego zagrożenia powodzią, o których mowa art. 16 pkt 34 tej ustawy,
+    - **j)** właściwego regionalnego dyrektora ochrony środowiska odniesieniu do innych niż park narodowy i jego otulina obszarów objętych ochroną na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody,
+    - **k)** dyrektora właściwej regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe odniesieniu do gruntów leśnych stanowiących własność Skarbu Państwa, będących zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe, zwanego dalej „Lasami Państwowymi”,
+    - **l)** dyrektora Rządowego Centrum Bezpieczeństwa odniesieniu do obiektów, które zostały zakwalifikowane jako infrastruktura krytyczna rozumieniu art. 3 pkt 2 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122 oraz z 2024 r. poz. 834, 1222, 1473, 1572 i 1907),
+    - **m)** właściwego organu nadzoru górniczego odniesieniu do inwestycji granicach terenu górniczego,
+    - **n)** Spółki Celowej rozumieniu art. 2 pkt 10 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U. z 2024 r. poz. 1747) odniesieniu do obszaru otoczenia Centralnego Portu Komunikacyjnego lub obszarów objętych Strategicznym Studium Lokalizacyjnym rozumieniu art. 2 pkt 10a tej ustawy,
+    - **o)** właściwego podmiotu wykonującego prawa właścicielskie, zgodnie z art. 212 ust. 1 ustawy z dnia 20 lipca 2017 r.
+    - **p)** właściwego zarządcy infrastruktury kolejowej lub innego właściwego podmiotu zarządzającego obszarem kolejowym odniesieniu do obszarów kolejowych rozumieniu art. 4 pkt 8 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2024 r. poz. 697 i 731),
+    - **q)** organów właściwych sprawach ochrony gruntów rolnych i leśnych oraz melioracji wodnych odniesieniu do gruntów wykorzystywanych na cele rolne i leśne, o których mowa ustawie z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2024 r. poz. 82),
+    - **r)** właściwego miejscowo zarządu województwa, zarządu powiatu oraz wójta (burmistrza, prezydenta miasta) odniesieniu do realizowanej inwestycji,
+    - **s)** właściwego organu, o którym mowa art. 10 ust. 1 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2024 r. poz. 416) odniesieniu do oddziaływania obiektu na zabudowania sąsiednie oraz zakresie rozwiązań higieniczno-sanitarnych,
+    - **t)** właściwego zarządcy drogi odniesieniu do obszarów pasa drogowego, zakresie potrzeb przebudowy drogi publicznej, lokalizacji i parametrów technicznych zjazdów jeżeli wniosek dotyczy przebudowy drogi publicznej, budowy lub przebudowy zjazdów, oraz sposobu, miejsca i warunków umieszczenia pasie drogowym urządzeń niezwiązanych z potrzebami zarządzania drogami lub potrzebami ruchu drogowego zgodnie z ustawą z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2025 r. poz. 889),
+    - **u)** właściwego miejscowo komendanta oddziału Straży Granicznej odniesieniu do obszarów strefy nadgranicznej, o której mowa ustawie z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2025 r.
+    - **v)** ministra właściwego do spraw środowiska odniesieniu do głównych zbiorników wód podziemnych,
+    - **w)** właściwego marszałka województwa odniesieniu do zasobów ujęć wód podziemnych, i obszarów ochronnych zbiorników wód podziemnych,
+    - **y)** właściwych instytucji zarządzających funduszami europejskimi oraz instytucji pośredniczących zawierających umowy o dofinansowanie odniesieniu do nieruchomości, na których są realizowane lub zrealizowano operacje przy wykorzystaniu środków, o których mowa art. 5 ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530, 1572, 1717, 1756 i 1907 oraz z 2025 r. poz. 39);
 
 - **15)** aktualne na dzień złożenia wniosku wypisy oraz wyrysy lub mapy z ewidencji gruntów i budynków.
 
@@ -168,9 +167,9 @@ source: "isap-pdf"
 
 3. Przed wystąpieniem z wnioskiem o wydanie decyzji o zezwoleniu, o której mowa ust. 1, inwestor strategicznej inwestycji jest obowiązany wystąpić o zgodę na wejście na teren nieruchomości oraz uzgodnić przewidywany sposób, zakres i terminy korzystania z nieruchomości z właściwym:
 
-- **1)** zarządcą drogi – przypadku gruntów stanowiących pas drogowy;
-- **2)** zarządcą infrastruktury kolejowej lub innym podmiotem zarządzającym obszarem kolejowym – przypadku gruntów objętych obszarem kolejowym;
-- **3)** zarządzającym lotniskiem – przypadku lotnisk użytku publicznego.
+- **1)** zarządcą drogi przypadku gruntów stanowiących pas drogowy;
+- **2)** zarządcą infrastruktury kolejowej lub innym podmiotem zarządzającym obszarem kolejowym przypadku gruntów objętych obszarem kolejowym;
+- **3)** zarządzającym lotniskiem przypadku lotnisk użytku publicznego.
 
 4. W przypadku nieuzyskania zgody, o której mowa ust. 2 albo 3, terminie 30 dni od dnia otrzymania odpowiednio przez właściciela lub użytkownika wieczystego nieruchomości, właściwego zarządcę drogi, właściwego zarządcę infrastruktury kolejowej lub inny właściwy podmiot zarządzający obszarem kolejowym albo właściwego zarządzającego lotniskiem, wystąpienia inwestora strategicznej inwestycji o taką zgodę, wojewoda wydaje decyzję o zezwoleniu, o której mowa ust. 1.
 
@@ -228,7 +227,7 @@ source: "isap-pdf"
 4. W przypadku gdy po doręczeniu zawiadomienia, o którym mowa ust. 1, nastąpi:
 
 - **1)** zbycie własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem o wydanie decyzji o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa,
-- **2)** przeniesienie wskutek innego zdarzenia prawnego własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem o wydanie decyzji o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa – nabywca, a przypadku, o którym mowa pkt 1, nabywca i zbywca, są obowiązani do zgłoszenia właściwemu miejscowo wojewodzie danych nowego właściciela lub użytkownika wieczystego.
+- **2)** przeniesienie wskutek innego zdarzenia prawnego własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem o wydanie decyzji o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa nabywca, a przypadku, o którym mowa pkt 1, nabywca i zbywca, są obowiązani do zgłoszenia właściwemu miejscowo wojewodzie danych nowego właściciela lub użytkownika wieczystego.
 
 5. Niedokonanie zgłoszenia zgodnie z ust. 4 i prowadzenie postępowania bez udziału nowego właściciela lub użytkownika wieczystego nie stanowi podstawy do wznowienia postępowania.
 
@@ -258,7 +257,7 @@ source: "isap-pdf"
 - **4)** wskazanie nieruchomości lub ich części, według numerów ewidencji gruntów i budynków, które stają się odpowiednio własnością Skarbu Państwa w:
     - **a)** trwałym zarządzie właściwej jednostki organizacyjnej podległej Ministrowi Obrony Narodowej,
     - **b)** trwałym zarządzie Służby Kontrwywiadu Wojskowego albo Służby Wywiadu Wojskowego,
-    - **c)** użytkowaniu wieczystym właściwych jednostek organizacyjnych nadzorowanych przez Ministra Obrony Narodowej, a przypadku nieruchomości będących własnością Skarbu Państwa – wskazanie nieruchomości lub ich części, na których właściwe jednostki organizacyjne nadzorowane przez Ministra Obrony Narodowej uzyskują prawo użytkowania wieczystego;
+    - **c)** użytkowaniu wieczystym właściwych jednostek organizacyjnych nadzorowanych przez Ministra Obrony Narodowej, a przypadku nieruchomości będących własnością Skarbu Państwa wskazanie nieruchomości lub ich części, na których właściwe jednostki organizacyjne nadzorowane przez Ministra Obrony Narodowej uzyskują prawo użytkowania wieczystego;
 
 - **5)** oznaczenie nieruchomości, stosunku do których decyzja o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa ma wywołać skutek, o którym mowa art. 29 ust. 1, wraz ze wskazaniem jednostki organizacyjnej podległej Ministrowi Obrony Narodowej, Służby Kontrwywiadu Wojskowego albo Służby Wywiadu Wojskowego, której ten skutek dotyczy;
 - **6)** wskazanie nieruchomości lub ich części, stosunku do których decyzja o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa ma wywołać skutek, o którym mowa art. 29 ust. 2;
@@ -300,7 +299,7 @@ source: "isap-pdf"
 - **3)** zawiadamiania stron o wszczęciu postępowania sprawie stwierdzenia nieważności decyzji o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa;
 - **4)** zawiadamiania stron o wszczęciu postępowania sprawie stwierdzenia wygaśnięcia decyzji o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa;
 - **5)** doręczeń decyzji wydanych sprawach, o których mowa pkt 1–4, oraz do zawiadamiania o ich wydaniu;
-- **6)** doręczeń postanowień wydanych toku postępowań sprawach, o których mowa pkt 1–4, od których przysługuje zażalenie lub skarga do sądu administracyjnego, oraz do zawiadamiania o ich wydaniu. że zgodę wyraża wyłącznie strona, która złożyła wniosek o wydanie decyzji o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa.
+- **6)** doręczeń postanowień wydanych toku postępowań sprawach, o których mowa pkt 1–4, od których przysługuje zażalenie lub skarga do sądu administracyjnego, oraz do zawiadamiania o ich wydaniu. suje się odpowiednio przepis art. 155 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, z tym że zgodę wyraża wyłącznie strona, która złożyła wniosek o wydanie decyzji o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa.
 
 12. Nie można uzależniać wydania decyzji o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa od spełnienia świadczeń lub warunków nieprzewidzianych odrębnymi przepisami.
 
@@ -322,26 +321,26 @@ source: "isap-pdf"
 
 6. W postępowaniu przed organem odwoławczym oraz sądem administracyjnym nie można uchylić decyzji o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa całości ani stwierdzić jej nieważności, gdy wadą dotknięta jest tylko część tej decyzji.
 
-7. Nie stwierdza się nieważności ostatecznej decyzji o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa, jeżeli wniosek o stwierdzenie nieważności tej decyzji został złożony po upływie 14 dni od dnia, którym decyzja stała się ostateczna, a inwestor strategicznej inwestycji rozpoczął budowę. Przepis art. 158 § 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się odpowiednio.
+7. Nie stwierdza się nieważności ostatecznej decyzji o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa, jeżeli wniosek o stwierdzenie nieważności tej decyzji został złożony po upływie 14 dni od dnia, którym decyzja stała się ostateczna, a inwestor strategicznej inwestycji rozpoczął budowę. Przepis art. 158 § 2 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego stosuje się odpowiednio.
 
-8. W zakresie nieuregulowanym niniejszej ustawie do skarg na decyzje o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685 oraz z 2025 r. poz. 769), z wyłączeniem art. 61 § 3 tej ustawy, z tym że:
+8. W zakresie nieuregulowanym niniejszej ustawie do skarg na decyzje o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685 oraz z 2025 r. poz. 769), z wyłączeniem art. 61 § 3 tej ustawy, z tym że:
 
 - **1)** przekazanie akt i odpowiedzi na skargę następuje terminie 15 dni od dnia otrzymania skargi;
 - **2)** skargę rozpatruje się terminie dwóch miesięcy od dnia otrzymania akt wraz z odpowiedzią na skargę.
 
-9. W przypadku uwzględnienia skargi na decyzję o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa po upływie 30 dni od dnia rozpoczęcia budowy, sąd administracyjny może stwierdzić jedynie, że decyzja narusza prawo z przyczyn, o których mowa art. 145 lub art. 156 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+9. W przypadku uwzględnienia skargi na decyzję o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa po upływie 30 dni od dnia rozpoczęcia budowy, sąd administracyjny może stwierdzić jedynie, że decyzja narusza prawo z przyczyn, o których mowa art. 145 lub art. 156 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
 
 **Art. 11.**
 
-1. W sprawach dotyczących zezwolenia na realizację strategicznej inwestycji zakresie potrzeb obronności państwa nieuregulowanych niniejszej ustawie stosuje się odpowiednio przepisy ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, z wyjątkiem art. 55. Na podstawie ostatecznej decyzji o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa można rozpocząć roboty budowlane. Decyzja taka uprawnia do wydania przez właściwy organ dziennika budowy.
+1. W sprawach dotyczących zezwolenia na realizację strategicznej inwestycji zakresie potrzeb obronności państwa nieuregulowanych niniejszej ustawie stosuje się odpowiednio przepisy ustawy z dnia 7 lipca 1994 r. Prawo budowlane, z wyjątkiem art. 55. Na podstawie ostatecznej decyzji o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa można rozpocząć roboty budowlane. Decyzja taka uprawnia do wydania przez właściwy organ dziennika budowy.
 
-2. W postępowaniu sprawie wydania decyzji o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa przepisów art. 30 § 5, art. 34, art. 97 § 1 pkt 1–3a, art. 135 ani art. 159 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
+2. W postępowaniu sprawie wydania decyzji o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa przepisów art. 30 § 5, art. 34, art. 97 § 1 pkt 1–3a, art. 135 ani art. 159 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego nie stosuje się.
 
-3. W przypadkach określonych art. 30 § 5 i art. 34 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, odpowiednio wojewoda lub organ wyższego stopnia stosunku do wojewody wyznacza z urzędu przedstawiciela uprawnionego do działania postępowaniu sprawie wydania decyzji o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa, jeżeli jest to konieczne do przeprowadzenia postępowania. związanych z zabezpieczeniem medycznym Sił Zbrojnych Rzeczypospolitej Polskiej i wojsk państw sojuszniczych nie stosuje się przepisów ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, z późn. zm. ) ani ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2025 r. poz. 450, 620 i 637) dotyczących krajowych i wojewódzkich planów transformacji oraz wydawania opinii o celowości inwestycji.
+3. W przypadkach określonych art. 30 § 5 i art. 34 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, odpowiednio wojewoda lub organ wyższego stopnia stosunku do wojewody wyznacza z urzędu przedstawiciela uprawnionego do działania postępowaniu sprawie wydania decyzji o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa, jeżeli jest to konieczne do przeprowadzenia postępowania. związanych z zabezpieczeniem medycznym Sił Zbrojnych Rzeczypospolitej Polskiej i wojsk państw sojuszniczych nie stosuje się przepisów ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, z późn. zm. ) ani ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2025 r. poz. 450, 620 i 637) dotyczących krajowych i wojewódzkich planów transformacji oraz wydawania opinii o celowości inwestycji.
 
 5. W sprawach dotyczących zezwolenia na realizację strategicznej inwestycji zakresie potrzeb obronności państwa nie stosuje się przepisów ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym ani ustawy z dnia 9 października 2015 r. o rewitalizacji (Dz. U. z 2024 r. poz. 278).
 
-6. Do wydania warunków przyłączenia do sieci, o których mowa art. 7 ust. 3a ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, z późn. zm. ), nie jest wymagane posiadanie przez inwestora strategicznej inwestycji tytułu prawnego do korzystania z nieruchomości, do których paliwa gazowe, wodór lub energia mają być dostarczane. W razie braku technicznych warunków przyłączenia wynikających z braku niezbędnych zdolności przesyłowych sieci przedsiębiorstwo energetyczne określi planowany termin oraz warunki wykonania niezbędnej rozbudowy lub przebudowy sieci, a także termin i szacunkowy koszt przyłączenia.
+6. Do wydania warunków przyłączenia do sieci, o których mowa art. 7 ust. 3a ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne (Dz. U. z 2024 r. poz. 266, z późn. zm. ), nie jest wymagane posiadanie przez inwestora strategicznej inwestycji tytułu prawnego do korzystania z nieruchomości, do których paliwa gazowe, wodór lub energia mają być dostarczane. W razie braku technicznych warunków przyłączenia wynikających z braku niezbędnych zdolności przesyłowych sieci przedsiębiorstwo energetyczne określi planowany termin oraz warunki wykonania niezbędnej rozbudowy lub przebudowy sieci, a także termin i szacunkowy koszt przyłączenia.
 
 7. Warunki, o których mowa ust. 6, mają odpowiednie zastosowanie do przedsiębiorstwa wodociągowo-kanalizacyjnego i wniosku inwestora strategicznej inwestycji o przyłączenie do sieci wodociągowo-kanalizacyjnej.
 
@@ -367,16 +366,16 @@ source: "isap-pdf"
 
 **Art. 14.**
 
-1. Wykaz kluczowych inwestycji zakresie potrzeb obronności państwa, tym inwestycji realizowanych ramach programu „Narodowy Program Odstraszania i Obrony – Tarcza Wschód”, oraz kluczowych inwestycji zakresie potrzeb bezpieczeństwa publicznego, wraz z przypisanymi do nich inwestorami kluczowych inwestycji, określa Minister Obrony Narodowej, formie decyzji zawierającej informacje niejawne, z tym że wykaz kluczowych inwestycji zakresie potrzeb:
+1. Wykaz kluczowych inwestycji zakresie potrzeb obronności państwa, tym inwestycji realizowanych ramach programu „Narodowy Program Odstraszania i Obrony Tarcza Wschód”, oraz kluczowych inwestycji zakresie potrzeb bezpieczeństwa publicznego, wraz z przypisanymi do nich inwestorami kluczowych inwestycji, określa Minister Obrony Narodowej, formie decyzji zawierającej informacje niejawne, z tym że wykaz kluczowych inwestycji zakresie potrzeb:
 
 - **1)** obronności państwa, które mają być realizowane przez spółki przemysłowego potencjału obronnego, których minister właściwy do spraw aktywów państwowych wykonuje prawa z akcji lub udziałów, oraz przez spółki od tych spółek zależne, oraz przypisanych do nich inwestorów kluczowych inwestycji Minister Obrony Narodowej określa na wniosek ministra właściwego do spraw aktywów państwowych;
 - **2)** bezpieczeństwa publicznego oraz przypisanych do nich inwestorów kluczowych inwestycji Minister Obrony Narodowej określa na wniosek ministra właściwego do spraw wewnętrznych.
 
-2. W decyzji, o której mowa ust. 1, Minister Obrony Narodowej, przypadku kluczowej inwestycji zakresie potrzeb obronności państwa, realizowanej przez inwestora kluczowej inwestycji, o którym mowa art. 1 ust. 2 pkt 1 lit. a i g, Służbę Kontrwywiadu Wojskowego lub Służbę Wywiadu Wojskowego, która jest konieczna i odpowiednia do ochrony istotnego interesu bezpieczeństwa państwa, uznaje, że inwestycja ta realizuje istotny interes bezpieczeństwa państwa rozumieniu art. 12 ust. 1 pkt 1 lit. b ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych.
+2. W decyzji, o której mowa ust. 1, Minister Obrony Narodowej, przypadku kluczowej inwestycji zakresie potrzeb obronności państwa, realizowanej przez inwestora kluczowej inwestycji, o którym mowa art. 1 ust. 2 pkt 1 lit. a i g, Służbę Kontrwywiadu Wojskowego lub Służbę Wywiadu Wojskowego, która jest konieczna i odpowiednia do ochrony istotnego interesu bezpieczeństwa państwa, uznaje, że inwestycja ta realizuje istotny interes bezpieczeństwa państwa rozumieniu art. 12 ust. 1 pkt 1 lit. b ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych.
 
-3. We wniosku, o którym mowa ust. 1 pkt 2, minister właściwy do spraw wewnętrznych, przypadku kluczowej inwestycji zakresie potrzeb bezpieczeństwa publicznego, która jest konieczna i odpowiednia do ochrony istotnego interesu bezpieczeństwa państwa, uznaje, że inwestycja ta realizuje istotny interes bezpieczeństwa państwa rozumieniu art. 12 ust. 1 pkt 1 lit. b ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych.
+3. We wniosku, o którym mowa ust. 1 pkt 2, minister właściwy do spraw wewnętrznych, przypadku kluczowej inwestycji zakresie potrzeb bezpieczeństwa publicznego, która jest konieczna i odpowiednia do ochrony istotnego interesu bezpieczeństwa państwa, uznaje, że inwestycja ta realizuje istotny interes bezpieczeństwa państwa rozumieniu art. 12 ust. 1 pkt 1 lit. b ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych.
 
-4. Inwestor kluczowej inwestycji zakresie potrzeb obronności państwa, o którym mowa art. 1 ust. 2 pkt 1 lit. g, może być wskazany programie „Narodowy Program Odstraszania i Obrony – Tarcza Wschód”.
+4. Inwestor kluczowej inwestycji zakresie potrzeb obronności państwa, o którym mowa art. 1 ust. 2 pkt 1 lit. g, może być wskazany programie „Narodowy Program Odstraszania i Obrony Tarcza Wschód”.
 
 5. Niejawne wyciągi z wykazów, o których mowa ust. 1, są przekazywane do właściwych miejscowo wojewodów, wojewódzkich inspektorów nadzoru budowlanego, dyrektorów regionalnych dyrekcji Lasów Państwowych oraz regionalnych dyrektorów ochrony środowiska.
 
@@ -386,7 +385,7 @@ source: "isap-pdf"
 
 **Art. 15.**
 
-1. W sprawach dotyczących kluczowych inwestycji nieuregulowanych niniejszej ustawie stosuje się odpowiednio przepisy ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, z wyjątkiem art. 28–31, art. 54 i art. 55.
+1. W sprawach dotyczących kluczowych inwestycji nieuregulowanych niniejszej ustawie stosuje się odpowiednio przepisy ustawy z dnia 7 lipca 1994 r. Prawo budowlane, z wyjątkiem art. 28–31, art. 54 i art. 55.
 
 2. Do kluczowych inwestycji stosuje się przepisy art. 11 ust. 6 i 7.
 
@@ -438,7 +437,7 @@ source: "isap-pdf"
 
 - **1)** trwałym zarządzie właściwej jednostki organizacyjnej podległej Ministrowi Obrony Narodowej,
 - **2)** trwałym zarządzie Służby Kontrwywiadu Wojskowego albo Służby Wywiadu Wojskowego,
-- **3)** użytkowaniu wieczystym właściwych jednostek organizacyjnych nadzorowanych przez Ministra Obrony Narodowej, a przypadku nieruchomości będących własnością Skarbu Państwa – przedmiotem użytkowania wieczystego właściwych jednostek organizacyjnych nadzorowanych przez Ministra Obrony Narodowej – z dniem, którym decyzja o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa stała się ostateczna.
+- **3)** użytkowaniu wieczystym właściwych jednostek organizacyjnych nadzorowanych przez Ministra Obrony Narodowej, a przypadku nieruchomości będących własnością Skarbu Państwa przedmiotem użytkowania wieczystego właściwych jednostek organizacyjnych nadzorowanych przez Ministra Obrony Narodowej z dniem, którym decyzja o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa stała się ostateczna.
 
 6. Z dniem, którym decyzja o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa stała się ostateczna lub został jej nadany rygor natychmiastowej wykonalności, inwestor strategicznej inwestycji ma prawo korzystania z nieruchomości lub ich części, o których mowa art. 9 ust. 1 pkt 4–7 i pkt 10 lit. i.
 
@@ -456,7 +455,7 @@ source: "isap-pdf"
 
 3. Decyzję ustalającą wysokość odszkodowania wydaje się terminie 30 dni od dnia, którym decyzja o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa stała się ostateczna.
 
-4. Jeżeli decyzji o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa został nadany rygor natychmiastowej wykonalności, decyzję ustalającą wysokość odszkodowania wydaje się terminie 60 dni od dnia nadania tej decyzji rygoru natychmiastowej wykonalności. ności państwa stała się ostateczna, prawa te wyłącznie stosunku do części nieruchomości objętych decyzją wygasają, z wyłączeniem służebności przesyłu.
+4. Jeżeli decyzji o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa został nadany rygor natychmiastowej wykonalności, decyzję ustalającą wysokość odszkodowania wydaje się terminie 60 dni od dnia nadania tej decyzji rygoru natychmiastowej wykonalności. prawa rzeczowe, z dniem, którym decyzja o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa stała się ostateczna, prawa te wyłącznie stosunku do części nieruchomości objętych decyzją wygasają, z wyłączeniem służebności przesyłu.
 
 6. Jeżeli przeznaczona na strategiczną inwestycję zakresie potrzeb obronności państwa nieruchomość stanowiąca własność Skarbu Państwa albo jednostki samorządu terytorialnego została oddana użytkowanie wieczyste, użytkowanie to wygasa z dniem, którym decyzja o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa stała się ostateczna.
 
@@ -466,9 +465,9 @@ source: "isap-pdf"
 
 9. W przypadku zrzeczenia się odszkodowania za nieruchomości, o których mowa art. 21 ust. 5:
 
-- **1)** przed wszczęciem postępowania ustalającego wysokość odszkodowania – postępowania nie wszczyna się;
-- **2)** trakcie postępowania ustalającego wysokość odszkodowania – postępowanie umarza się;
-- **3)** po wydaniu decyzji ustalającej wysokość odszkodowania – decyzja ta wygasa.
+- **1)** przed wszczęciem postępowania ustalającego wysokość odszkodowania postępowania nie wszczyna się;
+- **2)** trakcie postępowania ustalającego wysokość odszkodowania postępowanie umarza się;
+- **3)** po wydaniu decyzji ustalającej wysokość odszkodowania decyzja ta wygasa.
 
 **Art. 24.**
 
@@ -485,7 +484,7 @@ source: "isap-pdf"
 6. W przypadku gdy dotychczasowy właściciel lub użytkownik wieczysty nieruchomości objętej decyzją o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa odpowiednio wyda tę nieruchomość, lub wyda nieruchomość i opróżni lokal oraz inne pomieszczenia niezwłocznie, lecz nie później niż terminie 30 dni od dnia:
 
 - **1)** nadania decyzji o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa rygoru natychmiastowej wykonalności albo doręczenia postanowienia o nadaniu decyzji o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa rygoru natychmiastowej wykonalności albo
-- **2)** którym decyzja o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa stała się ostateczna – wysokość odszkodowania powiększa się o kwotę równą 5 % wartości nieruchomości lub prawa użytkowania wieczystego.
+- **2)** którym decyzja o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa stała się ostateczna wysokość odszkodowania powiększa się o kwotę równą 5 % wartości nieruchomości lub prawa użytkowania wieczystego.
 
 7. W przypadku gdy decyzja o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa dotyczy nieruchomości zabudowanej budynkiem mieszkalnym albo budynkiem, którym został wyodrębniony lokal mieszkalny, wysokość odszkodowania, o którym mowa art. 23 ust. 1, przysługującego dotychczasowemu właścicielowi lub użytkownikowi wieczystemu zamieszkałemu tym budynku, powiększa się o kwotę 10 000 zł na pokrycie kosztów przeprowadzki.
 
@@ -520,19 +519,19 @@ source: "isap-pdf"
 
 1. Ostateczna decyzja o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa stanowi podstawę do wypowiedzenia, ze skutkiem natychmiastowym, umów dotyczących nieruchomości przeznaczonej na strategiczną inwestycję zakresie potrzeb obronności państwa, szczególności umów dzierżawy, najmu oraz użyczenia.
 
-2. Za szkody rzeczywiste poniesione na skutek wypowiedzenia umów, o których mowa ust. 1, przysługuje od inwestora strategicznej inwestycji odszkodowanie, ustalane na zasadach wynikających z ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071).
+2. Za szkody rzeczywiste poniesione na skutek wypowiedzenia umów, o których mowa ust. 1, przysługuje od inwestora strategicznej inwestycji odszkodowanie, ustalane na zasadach wynikających z ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2025 r. poz. 1071).
 
 **Art. 29.**
 
 1. Właściwa jednostka organizacyjna podległa Ministrowi Obrony Narodowej, Służba Kontrwywiadu Wojskowego albo Służba Wywiadu Wojskowego, o których mowa art. 21 ust. 5 pkt 1 i 2, otrzymują z mocy prawa, trwały zarząd nieruchomości stanowiące własność Skarbu Państwa z dniem, którym decyzja o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa dotycząca tych nieruchomości stała się ostateczna.
 
-2. Z dniem, którym decyzja o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa stała się ostateczna, na nieruchomości lub jej części, wskazanej zgodnie z art. 9 ust. 1 pkt 6, z mocy prawa, wygasa trwały zarząd lub użytkowanie wieczyste ustanowione przed dniem wydania tej decyzji. grunty stanowiące własność Skarbu Państwa pokryte wodami, przypadku inwestycji realizowanych na śródlądowych wodach płynących, o których mowa art. 211 ust. 2 ustawy z dnia 20 lipca 2017 r. – Prawo wodne, grunty stanowiące pas drogowy drogi publicznej lub grunty objęte obszarem kolejowym, inwestor strategicznej inwestycji realizujący strategiczną inwestycję zakresie potrzeb obronności państwa jest uprawniony do nieodpłatnego zajęcia tych gruntów na czas realizacji tej inwestycji.
+2. Z dniem, którym decyzja o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa stała się ostateczna, na nieruchomości lub jej części, wskazanej zgodnie z art. 9 ust. 1 pkt 6, z mocy prawa, wygasa trwały zarząd lub użytkowanie wieczyste ustanowione przed dniem wydania tej decyzji. grunty stanowiące własność Skarbu Państwa pokryte wodami, przypadku inwestycji realizowanych na śródlądowych wodach płynących, o których mowa art. 211 ust. 2 ustawy z dnia 20 lipca 2017 r. Prawo wodne, grunty stanowiące pas drogowy drogi publicznej lub grunty objęte obszarem kolejowym, inwestor strategicznej inwestycji realizujący strategiczną inwestycję zakresie potrzeb obronności państwa jest uprawniony do nieodpłatnego zajęcia tych gruntów na czas realizacji tej inwestycji.
 
-2. Inwestor strategicznej inwestycji realizujący strategiczną inwestycję zakresie potrzeb obronności państwa nie później niż terminie 30 dni przed dniem planowanego zajęcia gruntów, o których mowa ust. 1, uzgadnia drodze pisemnego porozumienia z właściwym podmiotem, o którym mowa art. 212 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne, z właściwym zarządcą drogi lub właściwym zarządcą infrastruktury kolejowej lub innym właściwym podmiotem zarządzającym obszarem kolejowym, zakres, warunki i termin zajęcia tych gruntów.
+2. Inwestor strategicznej inwestycji realizujący strategiczną inwestycję zakresie potrzeb obronności państwa nie później niż terminie 30 dni przed dniem planowanego zajęcia gruntów, o których mowa ust. 1, uzgadnia drodze pisemnego porozumienia z właściwym podmiotem, o którym mowa art. 212 ust. 1 ustawy z dnia 20 lipca 2017 r. Prawo wodne, z właściwym zarządcą drogi lub właściwym zarządcą infrastruktury kolejowej lub innym właściwym podmiotem zarządzającym obszarem kolejowym, zakres, warunki i termin zajęcia tych gruntów.
 
 3. W przypadku gdy decyzji o zezwoleniu na realizację strategicznej inwestycji zakresie potrzeb obronności państwa został nadany rygor natychmiastowej wykonalności, porozumienie, o którym mowa ust. 2, zawiera się niezwłocznie.
 
-4. W przypadku niezawarcia porozumienia, o którym mowa ust. 2, terminie 21 dni od dnia otrzymania, odpowiednio przez właściwy podmiot, o którym mowa art. 212 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne, właściwego zarządcę drogi, właściwego zarządcę infrastruktury kolejowej lub inny właściwy podmiot zarządzający obszarem kolejowym, wniosku o jego zawarcie, inwestor strategicznej inwestycji jest uprawniony do złożenia wniosku do wojewody o wydanie decyzji określającej warunki wykonywania przysługującego inwestorowi strategicznej inwestycji prawa, o którym mowa ust. 1.
+4. W przypadku niezawarcia porozumienia, o którym mowa ust. 2, terminie 21 dni od dnia otrzymania, odpowiednio przez właściwy podmiot, o którym mowa art. 212 ust. 1 ustawy z dnia 20 lipca 2017 r. Prawo wodne, właściwego zarządcę drogi, właściwego zarządcę infrastruktury kolejowej lub inny właściwy podmiot zarządzający obszarem kolejowym, wniosku o jego zawarcie, inwestor strategicznej inwestycji jest uprawniony do złożenia wniosku do wojewody o wydanie decyzji określającej warunki wykonywania przysługującego inwestorowi strategicznej inwestycji prawa, o którym mowa ust. 1.
 
 5. Porozumienie, o którym mowa ust. 2, oraz decyzja, o której mowa ust. 4, nie mogą przewidywać opłat za wykonywanie przysługującego inwestorowi strategicznej inwestycji prawa, o którym mowa ust. 1.
 
@@ -544,11 +543,11 @@ source: "isap-pdf"
 - **4)** zamknięcia śródlądowych dróg wodnych;
 - **5)** negatywnego wpływu na działanie urządzeń lotniczych.
 
-7. Stronami postępowania o wydanie decyzji, o której mowa ust. 4, są wyłącznie inwestor strategicznej inwestycji oraz odpowiednio właściwy podmiot, o którym mowa art. 212 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne, właściwy zarządca drogi, właściwy zarządca infrastruktury kolejowej lub inny właściwy podmiot zarządzający obszarem kolejowym.
+7. Stronami postępowania o wydanie decyzji, o której mowa ust. 4, są wyłącznie inwestor strategicznej inwestycji oraz odpowiednio właściwy podmiot, o którym mowa art. 212 ust. 1 ustawy z dnia 20 lipca 2017 r. Prawo wodne, właściwy zarządca drogi, właściwy zarządca infrastruktury kolejowej lub inny właściwy podmiot zarządzający obszarem kolejowym.
 
-8. W przypadku zawarcia porozumienia, o którym mowa ust. 2, albo wydania decyzji, o której mowa ust. 4, stosunku do gruntów stanowiących własność Skarbu Państwa pokrytych wodami przepisu art. 261 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne nie stosuje się.
+8. W przypadku zawarcia porozumienia, o którym mowa ust. 2, albo wydania decyzji, o której mowa ust. 4, stosunku do gruntów stanowiących własność Skarbu Państwa pokrytych wodami przepisu art. 261 ust. 1 ustawy z dnia 20 lipca 2017 r. Prawo wodne nie stosuje się.
 
-9. Za rzeczywiste szkody poniesione na skutek zajęcia gruntów, o których mowa ust. 1, przysługuje odszkodowanie ustalane na zasadach wynikających z ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
+9. Za rzeczywiste szkody poniesione na skutek zajęcia gruntów, o których mowa ust. 1, przysługuje odszkodowanie ustalane na zasadach wynikających z ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny.
 
 10. Do zapłaty odszkodowania, o którym mowa ust. 9, jest obowiązany inwestor strategicznej inwestycji realizujący strategiczną inwestycję zakresie potrzeb obronności państwa.
 
@@ -560,7 +559,7 @@ source: "isap-pdf"
 
 1. Wojewoda, na wniosek:
 
-- **1)** Szefa Centralnego Wojskowego Centrum Rekrutacji, o którym mowa ustawie z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080), potrzeb obronności państwa, o którym mowa art. 4 ust. 1, o ile zawarto nim informacje niezbędne do ustanowienia strefy ochronnej terenu zamkniętego – ustanawia, drodze aktu prawa miejscowego, strefę ochronną terenu zamkniętego, wskazując granice tej strefy oraz zakazy i ograniczenia zagospodarowaniu lub korzystaniu z terenów obowiązujące na jej obszarze.
+- **1)** Szefa Centralnego Wojskowego Centrum Rekrutacji, o którym mowa ustawie z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080), potrzeb obronności państwa, o którym mowa art. 4 ust. 1, o ile zawarto nim informacje niezbędne do ustanowienia strefy ochronnej terenu zamkniętego ustanawia, drodze aktu prawa miejscowego, strefę ochronną terenu zamkniętego, wskazując granice tej strefy oraz zakazy i ograniczenia zagospodarowaniu lub korzystaniu z terenów obowiązujące na jej obszarze.
 
 2. Wniosek, o którym mowa ust. 1 pkt 1, składa się postaci papierowej, dwóch egzemplarzach, albo postaci elektronicznej, opatrując wniosek kwalifikowanym podpisem elektronicznym.
 
@@ -579,11 +578,27 @@ source: "isap-pdf"
 
 **Art. 34.** Wniosek, o którym mowa art. 32 ust. 1 pkt 1, zawiera:
 
+- **1)** określenie granic strefy ochronnej terenu zamkniętego, przedstawionych na kopii aktualnej mapy zasadniczej lub przypadku jej braku na kopii aktualnej mapy ewidencyjnej obejmujących lokalizację przestrzenną obszaru objętego proponowaną strefą ochronną terenu zamkniętego przedstawioną postaci wektorowej obowiązującym państwowym systemie odniesień przestrzennych, z zastosowaniem formatu danych, o którym mowa przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne;
+- **2)** wykaz działek ewidencyjnych leżących całości albo części na obszarze, na którym ma zostać ustanowiona strefa ochronna terenu zamkniętego, wraz z identyfikatorami tych działek postaci tabelarycznej zawierającej dane z ewidencji gruntów i budynków;
+- **3)** określenie aktualnego stanu zagospodarowania granicach obszaru, na którym ma zostać ustanowiona strefa ochronna terenu zamkniętego;
+- **4)** zakazy i ograniczenia zagospodarowaniu lub korzystaniu z terenów, mające obowiązywać na obszarze strefy ochronnej terenu zamkniętego, o których mowa art. 38.
+
 **Art. 35.** Załączniki do aktu prawa miejscowego, o którym mowa art. 32 ust. 1, stanowią:
 
-**Art. 36.** Projekt aktu prawa miejscowego, o którym mowa art. 32 ust. 1, przed jego ogłoszeniem wojewoda przedkłada do zaopiniowania wójtowi (burmistrzowi, prezydentowi miasta) właściwemu ze względu na obszar, na którym ma być ustanowiona strefa ochronna terenu zamkniętego, określając termin wydania opinii nie dłuższy niż 14 dni od dnia otrzymania wniosku o zaopiniowanie. Nieprzedstawienie opinii tym terminie jest równoznaczne z pozytywnym zaopiniowaniem projektu. ust. 1 pkt 1. 2. Wójt (burmistrz, prezydent miasta) na obszarze objętym wnioskiem, o którym mowa art. 32 ust. 1 pkt 1, odmawia wszczęcia postępowania lub zawiesza postępowanie sprawie wydania decyzji o ustaleniu lokalizacji inwestycji celu publicznego lub wydania decyzji o warunkach zabudowy do czasu ustanowienia strefy ochronnej terenu zamkniętego. 3. Wojewoda przekazuje wnioskodawcy oraz wójtowi (burmistrzowi, prezydentowi miasta), o którym mowa art. 36, informację o ogłoszeniu aktu prawa miejscowego wojewódzkim dzienniku urzędowym.
+- **1)** mapa sporządzona na kopii aktualnej mapy zasadniczej lub przypadku jej braku na kopii aktualnej mapy ewidencyjnej obejmującej nieruchomości objęte strefą ochronną terenu zamkniętego, wraz z określeniem granic tej strefy, oraz
+- **2)** określenie granic strefy ochronnej terenu zamkniętego postaci wektorowej obowiązującym państwowym systemie odniesień przestrzennych z zastosowaniem formatu danych, o którym mowa przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+
+**Art. 36.** Projekt aktu prawa miejscowego, o którym mowa art. 32 ust. 1, przed jego ogłoszeniem wojewoda przedkłada do zaopiniowania wójtowi (burmistrzowi, prezydentowi miasta) właściwemu ze względu na obszar, na którym ma być ustanowiona strefa ochronna terenu zamkniętego, określając termin wydania opinii nie dłuższy niż 14 dni od dnia otrzymania wniosku o zaopiniowanie. Nieprzedstawienie opinii tym terminie jest równoznaczne z pozytywnym zaopiniowaniem projektu. którym ma być ustanowiona strefa ochronna terenu zamkniętego, informację o złożeniu wniosku, o którym mowa art. 32 ust. 1 pkt 1. 2. Wójt (burmistrz, prezydent miasta) na obszarze objętym wnioskiem, o którym mowa art. 32 ust. 1 pkt 1, odmawia wszczęcia postępowania lub zawiesza postępowanie sprawie wydania decyzji o ustaleniu lokalizacji inwestycji celu publicznego lub wydania decyzji o warunkach zabudowy do czasu ustanowienia strefy ochronnej terenu zamkniętego. 3. Wojewoda przekazuje wnioskodawcy oraz wójtowi (burmistrzowi, prezydentowi miasta), o którym mowa art. 36, informację o ogłoszeniu aktu prawa miejscowego wojewódzkim dzienniku urzędowym.
 
 **Art. 38.** W strefie ochronnej terenu zamkniętego ustanawia się zakazy i ograniczenia właściwe dla spełnienia celu, dla którego ma zostać ustanowiona strefa ochronna terenu zamkniętego, oraz odpowiednim dla tego celu zakresie. Zakazy i ograniczenia są określane odrębnie dla każdego terenu zamkniętego, dla którego zachodzi konieczność ustanowienia takiej strefy, zakresie:
+
+- **1)** zagospodarowania terenu, tym budowy obiektów budowlanych wraz z urządzeniami technicznymi ze względu na ich charakterystyczne parametry lub przeznaczenie;
+- **2)** lokalizacji urządzeń i instalacji przesyłowych;
+- **3)** wytwarzania, przechowywania lub składowania materiałów łatwopalnych i wybuchowych;
+- **4)** lokalizowania urządzeń emitujących promieniowanie elektromagnetyczne;
+- **5)** składowania odpadów;
+- **6)** urządzania lasów oraz dokonywania likwidacji zadrzewień rozumieniu art. 5 pkt 27 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody;
+- **7)** ochrony ujęć wody oraz wód podziemnych, o których mowa ustawie z dnia 20 lipca 2017 r. Prawo wodne.
 
 #### Rozdział 6 Narodowy Program Gotowości Zbrojeniowej Państwa
 
@@ -607,13 +622,34 @@ source: "isap-pdf"
 
 #### Rozdział 7 Przepisy zmieniające, przepisy przejściowe i przepis końcowy
 
-**Art. 41.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418) wprowadza się następujące zmiany:
+**Art. 41.** W ustawie z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2025 r. poz. 418) wprowadza się następujące zmiany:
+
+- **1)** art. 29:
+    - **a)** ust. 2: pkt 24 otrzymuje brzmienie: „24) poligonowych obiektów budowlanych, stanowisk obronnych, przepraw, budowli ziemnych, budowli fortyfikacyjnych i ochronnych, wraz z instalacjami i przyłączami oraz związanymi z nimi sieciami, lokalizowanych na terenach zamkniętych, z wyłączeniem terenów zamkniętych, przez które przebiegają linie kolejowe;”, „29) hangarów, garaży, magazynów i hal o powierzchni nieprzekraczającej 600 m , obiektów kontenerowych, płaszczyzn postojowych wraz z instalacjami i przyłączami oraz związanymi z nimi sieciami, lokalizowanych na terenach zamkniętych, z wyłączeniem terenów zamkniętych, przez które przebiegają linie kolejowe;”,
+    - **b)** ust. 4 pkt 4 otrzymuje brzmienie: „4) utwardzaniu powierzchni gruntu na działkach budowlanych oraz terenach zamkniętych.”;
+
+- **2)** art. 62a po ust. 5 dodaje się ust. 5a brzmieniu: „5a. Przepisu ust. 5 nie stosuje się przypadku kontroli przeprowadzanej obiektach budowlanych:
+- **1)** usytuowanych na terenach zamkniętych ustalonych decyzją Ministra Obrony Narodowej albo szefów służb specjalnych rozumieniu art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2025 r. poz. 902);
+- **2)** stanowiących strategiczne inwestycje zakresie potrzeb obronności państwa lub kluczowe inwestycje rozumieniu art. 1 ust. 2 pkt 3 i 6 ustawy z dnia 25 lipca 2025 r. o szczególnych zasadach przygotowania i realizacji strategicznych inwestycji zakresie potrzeb obronności państwa lub kluczowych inwestycji zakresie potrzeb obronności państwa lub bezpieczeństwa publicznego oraz ustanawiania stref ochronnych terenów zamkniętych (Dz. U. poz. 1080).”.
 
 **Art. 42.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2024 r. poz. 1145, 1222, 1717 i 1881 oraz z 2025 r. poz. 1077) art. 37 ust. 2 pkt 23 kropkę zastępuje się średnikiem i dodaje się pkt 24 brzmieniu: „24) jest zbywana na rzecz inwestora strategicznej inwestycji realizującego strategiczną inwestycję zakresie potrzeb obronności państwa na podstawie ustawy z dnia 25 lipca 2025 r. o szczególnych zasadach przygotowania i realizacji strategicznych inwestycji zakresie potrzeb obronności państwa lub kluczowych inwestycji zakresie potrzeb obronności państwa lub bezpieczeństwa publicznego oraz ustanawiania stref ochronnych terenów zamkniętych (Dz. U. poz. 1080).”.
 
-**Art. 43.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647) art. 135:
+**Art. 43.** W ustawie z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647) art. 135:
+
+- **1)** ust. 1 otrzymuje brzmienie: „1. Jeżeli z przeglądu ekologicznego albo z oceny oddziaływania przedsięwzięcia na środowisko wymaganej przepisami ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko, albo z analizy porealizacyjnej, albo z wniosku władającego terenem zamkniętym, o którym mowa art. 3 ust. 1 ustawy z dnia 25 lipca 2025 r. o szczególnych zasadach przygotowania i realizacji strategicznych inwestycji zakresie potrzeb obronności państwa lub kluczowych inwestycji zakresie potrzeb obronności państwa lub bezpieczeństwa publicznego oraz ustanawiania stref ochronnych terenów zamkniętych (Dz. U. poz. 1080), wynika, że mimo zastosowania dostępnych rozwiązań technicznych, technologicznych i organizacyjnych nie mogą być dotrzymane standardy jakości środowiska poza terenem zakładu lub innego obiektu, to dla oczyszczalni ścieków, składowiska odpadów komunalnych, kompostowni, trasy komunikacyjnej, lotniska, linii i stacji elektroenergetycznej, obiektów sieci gazowej, instalacji radiokomunikacyjnej, radionawigacyjnej i radiolokacyjnej lub obiektów i instalacji na terenach zamkniętych, o których mowa art. 3 ust. 1 ustawy z dnia 25 lipca 2025 r. o szczególnych zasadach przygotowania i realizacji strategicznych inwestycji zakresie potrzeb obronności państwa lub kluczowych inwestycji zakresie potrzeb obronności państwa lub bezpieczeństwa publicznego oraz ustanawiania stref ochronnych terenów zamkniętych, tworzy się obszar ograniczonego użytkowania.”;
+- **2)** po ust. 1 dodaje się ust. 1a brzmieniu: „1a. Przy tworzeniu obszaru ograniczonego użytkowania dla lotniska innego niż lotnisko wojskowe nie uwzględnia się startów, lądowań i przelotów statków powietrznych wykorzystywanych przez Siły Zbrojne Rzeczypospolitej Polskiej oraz statków powietrznych sił zbrojnych innych państw realizujących operacje lotnicze ramach zobowiązań sojuszniczych.”. poz. 1017) art. 18 ust. 8 otrzymuje brzmienie: „8. Instytut osiąga przychody z:
+- **1)** subwencji i dotacji na podstawie ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce i ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, z zastrzeżeniem ust. 9 i art. 21 ust. 6 oraz art. 48a ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080);
+- **2)** innych źródeł.”.
 
 **Art. 45.** W ustawie z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825 i 1014) wprowadza się następujące zmiany:
+
+- **1)** art. 11a ust. 1 pkt 7 wprowadzenie do wyliczenia otrzymuje brzmienie: „w celu zniszczenia lub unieruchomienia bezzałogowego statku powietrznego, pływającego lub lądowego lub przejęcia kontroli nad takim statkiem, który zagraża lub może zagrozić:”;
+- **2)** art. 41 ust. 3 pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 brzmieniu: „7) inwestycje realizowane ramach programu „Narodowy Program Odstraszania i Obrony Tarcza Wschód”.”;
+- **3)** po art. 46 dodaje się art. 46a brzmieniu: „Art. 46a. 1. Za zgodą Ministra Obrony Narodowej jednostki i komórki organizacyjne mogą, indywidualnie lub wspólnie z innymi państwami lub organizacjami międzynarodowymi, udzielać zamówień publicznych dziedzinach obronności i bezpieczeństwa i realizować umowy sprawach tych zamówień na rzecz Sił Zbrojnych lub tych państw, lub tych organizacji międzynarodowych.
+
+2. Do zamówień, o których mowa ust. 1, przepisy art. 41 ust. 4 pkt 7 stosuje się zakresie środków należnych Rzeczypospolitej Polskiej.”;
+
+- **4)** po art. 48 dodaje się art. 48a brzmieniu: „Art. 48a. Minister Obrony Narodowej może przyznać nadzorowanemu przez siebie instytutowi badawczemu prowadzącemu badania naukowe i prace rozwojowe dziedzinie nauk inżynieryjno-technicznych lub ścisłych i przyrodniczych, lub nauk medycznych i nauk o zdrowiu, dotację podmiotową na dofinansowanie kosztów działalności bieżącej ramach tych dziedzin, tym na wynagrodzenia i uposażenia i rozwój zawodowy personelu, jeżeli jest to uzasadnione potrzebami obronności i bezpieczeństwa państwa. Efekty uzyskane z dotacji ramach dziedzin, których instytut badawczy prowadzi badania naukowe i prace rozwojowe, zostaną wykazane rocznym sprawozdaniu dyrektora tego instytutu z wykonanych zadań.”.
 
 **Art. 46.** Wójt (burmistrz, prezydent miasta) przekazuje, terminie 60 dni od dnia wejścia życie niniejszej ustawy, właściwemu wojewodzie niezrealizowane wnioski otrzymane od Szefa Centralnego Wojskowego Centrum Rekrutacji, o którym mowa ustawie zmienianej art. 45, dotyczące ustalenia strefy ochronnej terenu zamkniętego trybie ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym. Do rozpatrzenia tych wniosków stosuje się przepisy rozdziału 5.
 

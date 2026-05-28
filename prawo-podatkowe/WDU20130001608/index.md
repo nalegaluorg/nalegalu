@@ -8,10 +8,10 @@ pos: 1608
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 grudnia 2013 Poz. 1608
+# Ustawa z dnia 8 listopada 2013 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -22,18 +22,64 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2013-11-08 |
 | Data wydania | 2013-12-20 |
+| Wejście w życie | 2013-12-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001608) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1608/text.pdf) |
 
-USTAWA dnia 8 listopada 2013 o zmianie o podatku od towarów usług oraz niektórych innych ustaw
+**Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie dnia 11 marca 2004 o podatku od towarów usług (Dz. 2011 Nr 177, 1054, późn. zm. ) wprowadza się następujące zmiany: art. 146a wprowadzenie do wyliczenia otrzymuje brzmienie: „W okresie od dnia 1 stycznia 2011 do dnia 31 grudnia 2016 r., zastrzeżeniem art. 146f:”;
+- **1)** w art. 146a wprowadzenie do wyliczenia otrzymuje brzmienie: „ W okresie od dnia 1 stycznia 2011 r. do dnia 31 grudnia 2016 r., z zastrzeżeniem art. 146f: ” ;
+- **2)** w art. 146f: uchyla się ust. 3, ust. 4 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
 
-**Art. 2.** W ustawie dnia 29 sierpnia 2005 o zwrocie osobom fizycznym niektórych wydatków związanych budownictwem mieszkaniowym (Dz. Nr 177, 1468, późn. zm. ) art. 11a: ust. 2 uchyla się pkt 2 3;
+4. W przypadku określonym w ust. 2, podwyższenia stawek, o którym mowa w tym przepisie, nie stosuje się, jeżeli relacja, o której mowa w art. 38a pkt 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885 i 938), według stanu na dzień 31 grudnia 2012 r., nie przekracza 55%. ” ;
 
-**Art. 3.** W ustawie dnia 7 grudnia 2012 o zmianie o podatku od towarów usług oraz niektórych innych ustaw (Dz. 2013 35 1027) wprowadza się następujące zmiany: art. 7 ust. 3 otrzymuje brzmienie: „3. W przypadku czynności, o których mowa art. 19a ust. 5 pkt 3 4 zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, które zostaną wykonane po dniu 31 grudnia 2013 r., dla których przed dniem 1 stycznia 2014 wystawiono fakturę, obowiązek podatkowy powstaje zgodnie art. 19 zmienianej art. 1, brzmieniu obowiązującym przed tym dniem.”;
+- **3)** w art. 146g: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadkach, o których mowa w art. 146f ust. 1 pkt 1 albo ust. 2 pkt 1, dla usług, w tym w zakresie handlu i gastronomii, kwota podatku należnego, na potrzeby art. 85, jest obliczana jako iloczyn wartości dostawy i stawki: ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadkach, o których mowa w art. 146f ust. 1 pkt 2 albo ust. 2 pkt 2, dla usług, w tym w zakresie handlu i gastronomii, kwota podatku należnego, na potrzeby art. 85, jest obliczana jako iloczyn wartości dostawy i stawki: ” , w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadkach, o których mowa w art. 146f ust. 1 pkt 3 albo ust. 2 pkt 3, dla usług, w tym w zakresie handlu i gastronomii, kwota podatku należnego, na potrzeby art. 85, jest obliczana jako iloczyn wartości dostawy i stawki: ” ;
+    - **a)**
+    - **b)**
+    - **c)**
 
-**Art. 4.** W ustawie dnia 27 września 2013 o pomocy państwa nabyciu pierwszego mieszkania przez młodych ludzi (Dz. 1304) art. 21: ust. 4 uchyla się pkt 2 3;
+- **4)** w art. 146h pkt 1–3 otrzymują brzmienie: „
+- **1)** 23%, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 3 albo ust. 2 pkt 3,
+- **2)** 24%, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 1 albo ust. 2 pkt 1,
+- **3)** 25%, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 2 albo ust. 2 pkt 2 ” ;
+- **5)** w art. 146i pkt 2–7 otrzymują brzmienie: „
+- **2)** 5%, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 3 albo ust. 2 pkt 3,
+- **3)** 6%, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 1 albo ust. 2 pkt 1,
+- **4)** 7%, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 2 albo ust. 2 pkt 2,
+- **5)** 8%, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 3 albo ust. 2 pkt 3,
+- **6)** 9%, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 1 albo ust. 2 pkt 1,
+- **7)** 10%, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 2 albo ust. 2 pkt 2 ” .
 
-**Art. 5.** Ustawa wchodzi życie dniem 31 grudnia 2013 Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 2.** W ustawie z dnia 29 sierpnia 2005 r. o zwrocie osobom fizycznym niektórych wydatków związanych z budownictwem mieszkaniowym (Dz. U. Nr 177, poz. 1468, z późn. zm.) w art. 11a:
+
+- **1)** w ust. 2 uchyla się pkt 2 i 3;
+- **2)** w ust. 3 uchyla się pkt 2 i 3.
+
+**Art. 3.** W ustawie z dnia 7 grudnia 2012 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. z 2013 r. poz. 35 i 1027) wprowadza się następujące zmiany:
+
+- **1)** w art. 7 ust. 3 otrzymuje brzmienie: „
+
+3. W przypadku czynności, o których mowa w art. 19a ust. 5 pkt 3 i 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, które zostaną wykonane po dniu 31 grudnia 2013 r., dla których przed dniem 1 stycznia 2014 r. wystawiono fakturę, obowiązek podatkowy powstaje zgodnie z art. 19 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed tym dniem. ” ;
+
+- **2)** art. 8 otrzymuje brzmienie: „
+
+**Art. 8.**
+
+1. W przypadku czynności, o których mowa w art. 7 ust. 1 i 3, podstawę opodatkowania ustala się zgodnie z przepisami art. 29–31 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem 1 stycznia 2014 r.
+
+2. W przypadku usług:
+
+- **1)** najmu, dzierżawy, leasingu lub usług o podobnym charakterze,
+- **2)** ochrony osób oraz ochrony, dozoru i przechowywania mienia,
+- **3)** stałej obsługi prawnej i biurowej,
+- **4)** dystrybucji energii elektrycznej, cieplnej lub chłodniczej oraz gazu przewodowego wykonanych po dniu 31 grudnia 2013 r., w odniesieniu do których usługodawca otrzymał przed dniem 1 stycznia 2014 r. całość lub część należności, w stosunku do której obowiązek podatkowy powstał zgodnie z art. 19 ust. 11 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem 1 stycznia 2014 r., do podstawy opodatkowania określanej zgodnie z przepisami art. 29a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie wlicza się tej należności. ” .
+
+**Art. 4.** W ustawie z dnia 27 września 2013 r. o pomocy państwa w nabyciu pierwszego mieszkania przez młodych ludzi (Dz. U. poz. 1304) w art. 21:
+
+- **1)** w ust. 4 uchyla się pkt 2 i 3;
+- **2)** w ust. 5 uchyla się pkt 2 i 3.
+
+**Art. 5.** Ustawa wchodzi w życie z dniem 31 grudnia 2013 r.
 

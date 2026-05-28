@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1994-09-29 |
 | Data wydania | 1994-11-19 |
+| Wejście w życie | 1995-01-01 |
 | Ostatnia zmiana | 2026-05-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19941210591) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1994/591/text.pdf) |
 
@@ -2115,7 +2116,7 @@ source: "isap-pdf"
 
 6. Badanie sprawozdania finansowego przeprowadzone z naruszeniem przepisów:
 
-- **1)** art. 69 ust. 6, 7 i 9, art. 70, art. 72 ust. 2, art. 135 ust. 2 i art. 136 ustawy o biegłych rewidentach,
+- **1)** art. 69 ust. 6, 7 i 9, art. 70, art. 72 ust. 2 i art. 135 ust. 2 ustawy o biegłych rewidentach,
 - **2)** art. 5 oraz art. 17 ust. 1 akapit drugi i ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 537/2014 z dnia 16 kwietnia 2014 r. w sprawie szczegółowych wymogów dotyczących ustawowych badań sprawozdań finansowych jednostek interesu publicznego, uchylającego decyzję Komisji 2005/909/WE, w przypadku badania ustawowego jednostki zainteresowania publicznego w rozumieniu art. 2 pkt 9 ustawy o biegłych rewidentach – jest nieważne z mocy prawa.
 
 7. Rozwiązanie umowy o badanie sprawozdania finansowego, umowy o badanie skonsolidowanego sprawozdania finansowego i umowy o atestację sprawozdawczości zrównoważonego rozwoju jest możliwe jedynie w sytuacji zaistnienia uzasadnionej podstawy, przy czym za uzasadnioną podstawę uznaje się w szczególności:

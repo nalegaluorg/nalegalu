@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych rozwiązaniach zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 10 kwietnia 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 kwietnia 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-04-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000514) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/514/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 10 kwietnia 2025 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych rozwiązaniach zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego (Dz. U. z 2024 r. poz. 507), z uwzględnieniem zmian wprowadzonych ustawą z dnia 9 stycznia 2025 r. o zmianie ustawy o szczególnych rozwiązaniach zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego, ustawy o Krajowej Administracji Skarbowej oraz ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. poz. 172) oraz zmian wynikających z przepisów ogłoszonych przed dniem 8 kwietnia 2025 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 4 i art. 5 ustawy z dnia 9 stycznia 2025 r. o zmianie ustawy o szczególnych rozwiązaniach zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego, ustawy o Krajowej Administracji Skarbowej oraz ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. poz. 172), które stanowią: „Art. 4. Do postępowań sprawach wpisu na listę, o której mowa art. 2 ust. 1 ustawy zmienianej art. 1, oraz wykreślenia z niej, dotyczących wydawania zaświadczeń na podstawie art. 217 ustawy z dnia 14 czerwca 1960 r.
 Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572), wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
@@ -34,6 +34,13 @@ Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572), wszczętych 
 **Art. 5.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: wz. P. Zgorzelski USTAWA z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego
 
 **Art. 1.** W celu przeciwdziałania wspieraniu agresji Federacji Rosyjskiej na Ukrainę rozpoczętej dniu 24 lutego 2022 r., wobec osób i podmiotów wpisanych na listę, o której mowa art. 2, stosuje się:
+
+- **1)** odpowiednio środki określone art. 2 ust. 1–3 rozporządzenia Rady (WE) nr 765/2006 z dnia 18 maja 2006 r. dotyczącego środków ograniczających związku z sytuacją na Białorusi i udziałem Białorusi agresji Rosji wobec Ukrainy (Dz. Urz. UE L 134 z 20.05.2006, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 765/2006”, na zasadach określonych tym rozporządzeniu, z wyłączeniem art. 1fb, art. 1fc i art. 7;
+- **2)** odpowiednio środki określone art. 2 i art. 9 rozporządzenia Rady (UE) nr 269/2014 z dnia 17 marca 2014 r. sprawie środków ograniczających odniesieniu do działań podważających integralność terytorialną, suwerenność i niezależność Ukrainy lub im zagrażających (Dz. Urz. UE L 78 z 17.03.2014, str. 6, z późn. zm. ), zwanego dalej „rozporządzeniem 269/2014”, na zasadach określonych tym rozporządzeniu, z wyłączeniem art. 8, art. 12 i art. 16;
+- **3)** wykluczenie z postępowania o udzielenie zamówienia publicznego lub konkursu prowadzonego na podstawie ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320);
+- **4)** wpis do wykazu cudzoziemców, których pobyt na terytorium Rzeczypospolitej Polskiej jest niepożądany, o którym mowa art. 434 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2024 r. poz. 769, 1222 i 1688). licznej na stronie podmiotowej ministra właściwego do spraw wewnętrznych. Lista zawiera oznaczenie osoby lub podmiotu, wobec których stosuje się środki, o których mowa art. 1, wraz z rozstrzygnięciem, który z tych środków ma do nich zastosowanie.
+
+2. Zakres środków, o których mowa art. 1, stosowanych wobec osób i podmiotów wpisanych na listę nie może powielać zakresu środków określonych względem tych osób i podmiotów wykazach określonych rozporządzeniu 765/2006 lub rozporządzeniu 269/2014.
 
 **Art. 3.**
 
@@ -302,6 +309,11 @@ Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572), wszczętych 
 
 **Art. 8.** Mając na względzie zagrożenie bezpieczeństwa narodowego, zakazuje się:
 
+- **1)** wprowadzania na terytorium Rzeczypospolitej Polskiej,
+- **2)** przemieszczania: WE L 256 z 07.09.1987, str. 1, z późn. zm. Dz. Urz. UE Polskie wydanie specjalne, rozdz. 2, t. 2, str. 382), zwanych dalej „węglem”, pochodzących z terytorium Federacji Rosyjskiej albo Białorusi.
+    - **a)** między dwoma państwami przez terytorium Rzeczypospolitej Polskiej, które zaczyna się i kończy poza tym terytorium,
+    - **b)** z terytorium państwa członkowskiego Unii Europejskiej innego niż Rzeczpospolita Polska na terytorium Rzeczypospolitej Polskiej towarów objętych pozycją 2701 albo 2704 Nomenklatury Scalonej (CN) zgodnej z rozporządzeniem Rady (EWG) nr 2658/87 z dnia 23 lipca 1987 r. sprawie nomenklatury taryfowej i statystycznej oraz sprawie Wspólnej Taryfy Celnej (Dz. Urz.
+
 **Art. 9.**
 
 1. Naczelnik urzędu celno-skarbowego, wykonując kontrolę przestrzegania zakazu, o którym mowa art. 8, tym zakresie weryfikowania pochodzenia towaru, o którym mowa tym przepisie, współpracuje z właściwymi organami i podmiotami, szczególności wskazanymi art. 3 ust. 3 pkt 1–7.
@@ -443,9 +455,15 @@ Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572), wszczętych 
 
 **Art. 22.** Przepisy art. 7 oraz środek, o którym mowa art. 1 pkt 3, stosuje się również do postępowań o udzielenie zamówienia publicznego oraz konkursów wszczętych i niezakończonych do dnia wejścia życie niniejszej ustawy, z tym że:
 
+- **1)** okres wykluczenia, o którym mowa art. 7 ust. 2, rozpoczyna się nie wcześniej niż po upływie 14 dni od dnia wejścia życie niniejszej ustawy;
+- **2)** zamawiający dostosowuje dokumentację zamówienia lub regulamin konkursu terminie 14 dni od dnia wejścia życie niniejszej ustawy.
+
 **Art. 23.** Przedsiębiorca, który magazynuje lub wprowadza do obrotu węgiel wprowadzony lub przemieszczony na terytorium Rzeczypospolitej Polskiej przed dniem wejścia życie zakazu, o którym mowa art. 8, jest obowiązany posiadać i udostępniać na żądanie wojewódzkiego inspektora Inspekcji Handlowej i naczelnika urzędu celno-skarbowego dokumenty potwierdzające, że węgiel został nabyty przed dniem wejścia życie tego zakazu, a jeśli przedsiębiorca wprowadził lub przemieścił ten węgiel na terytorium Rzeczypospolitej Polskiej dokumenty potwierdzające, że węgiel został wprowadzony lub przemieszczony na terytorium Rzeczypospolitej Polskiej przed dniem wejścia życie tego zakazu.
 
 **Art. 24.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
+
+- **1)** art. 62 ust. 16 ustawy zmienianej art. 19 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 62 ust. 16 ustawy zmienianej art. 19 ,
+- **2)** art. 3 ust. 11 ustawy zmienianej art. 20 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 3 ust. 11 ustawy zmienianej art. 20 brzmieniu nadanym niniejszą ustawą jednak nie dłużej niż przez 12 miesięcy od dnia wejścia życie niniejszej ustawy.
 
 **Art. 25.** Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia .
 

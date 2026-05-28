@@ -8,12 +8,10 @@ pos: 1822
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary
-
-*USTAWA z dnia 28 października 2002 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 6 grudnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,23 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-05-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001822) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1822/text.pdf) |
 
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. z 2023 r. poz. 659), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222) oraz zmian wynikających z przepisów ogłoszonych przed dniem 28 listopada 2024 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 124 ustawy z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222), który stanowi:
+„
+
+**Art. 124.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1, art. 39 pkt 11 lit. b w zakresie art. 16a ust. 4 pkt 2c i 2d, art. 46 pkt 5, art. 52 pkt 1, art. 63, art. 68 ust. 2, art. 80 ust. 3 i 5–8 oraz art. 120, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 44 pkt 9 w zakresie art. 20 ust. 1 pkt 2 lit. b, który wchodzi w życie z dniem 1 grudnia 2024 r.;
+- **3)** art. 39 pkt 24 i 27, które wchodzą w życie z dniem 1 stycznia 2025 r.;
+- **4)** art. 39 pkt 31, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;
+- **5)** art. 49 i art. 106, które wchodzą w życie z dniem 18 października 2024 r. ” . Załącznik – Tekst jednolity ustawy z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary
+
 **Art. 1.** Ustawa określa zasady odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary jako przestępstwa lub przestępstwa skarbowe oraz zasady postępowania w przedmiocie takiej odpowiedzialności.
 
 **Art. 2.**
@@ -37,19 +52,22 @@ source: "isap-pdf"
 
 **Art. 3.** Podmiot zbiorowy podlega odpowiedzialności za czyn zabroniony, którym jest zachowanie osoby fizycznej:
 
-**Art. 4.** Podmiot zbiorowy podlega odpowiedzialności, jeżeli fakt popełnienia czynu zabronionego, wymienionego w art. 16, przez osobę, o której mowa w art. 3, został potwierdzony prawomocnym wyrokiem skazującym tę osobę, wyrokiem warunkowo umarzającym wobec niej postępowanie karne albo postępowanie w sprawie o przestępstwo skarbowe, orzeczeniem o udzielenie tej osobie zezwolenia na dobrowolne poddanie się odpowiedzialności albo orzeczeniem sądu o umorzeniu przeciwko niej postępowania z powodu okoliczności wyłączającej ukaranie sprawcy.
+- **1)** działającej w imieniu lub w interesie podmiotu zbiorowego w ramach uprawnienia lub obowiązku do jego reprezentowania, podejmowania w jego imieniu decyzji lub wykonywania kontroli wewnętrznej albo przy przekroczeniu tego uprawnienia lub niedopełnieniu tego obowiązku,
+- **2)** dopuszczonej do działania w wyniku przekroczenia uprawnień lub niedopełnienia obowiązków przez osobę, o której mowa w pkt 1,
+- **3)** działającej w imieniu lub w interesie podmiotu zbiorowego, za zgodą lub wiedzą osoby, o której mowa w pkt 1,
+- **3a)** będącej przedsiębiorcą, który bezpośrednio współdziała z podmiotem zbiorowym w realizacji celu prawnie dopuszczalnego
+- **4)** (uchylony) jeżeli zachowanie to przyniosło lub mogło przynieść podmiotowi zbiorowemu korzyść, chociażby niemajątkową.
 
-**Art. 4a.** W przypadku popełnienia czynu zabronionego, wymienionego w art. 16 ust. 1 pkt 8, przez osobę, o której mowa w art. 3, podmiot zbiorowy podlega odpowiedzialności niezależnie od wydania wyroku albo orzeczenia, o których mowa w art. 4.
+**Art. 4.** Podmiot zbiorowy podlega odpowiedzialności, jeżeli fakt popełnienia czynu zabronionego, wymienionego w art. 16, przez osobę, o której mowa w art. 3, został potwierdzony prawomocnym wyrokiem skazującym tę osobę, wyrokiem warunkowo umarzającym wobec niej postępowanie karne albo postępowanie w sprawie o przestępstwo skarbowe, orzeczeniem o udzielenie tej osobie zezwolenia na dobrowolne poddanie się odpowiedzialności albo orzeczeniem sądu o umorzeniu przeciwko niej postępowania z powodu okoliczności wyłączającej ukaranie sprawcy. W przypadku popełnienia czynu zabronionego, wymienionego w art. 16 ust. 1 pkt 8, przez osobę, o której mowa w art. 3, podmiot zbiorowy podlega odpowiedzialności niezależnie od wydania wyroku albo orzeczenia, o których mowa w art. 4.
 
 **Art. 5.** Podmiot zbiorowy podlega odpowiedzialności, jeżeli do popełnienia czynu zabronionego doszło w następstwie:
 
+- **1)** co najmniej braku należytej staranności w wyborze osoby fizycznej, o której mowa w art. 3 pkt 2 lub 3, lub co najmniej braku należytego nadzoru nad tą osobą – ze strony organu lub przedstawiciela podmiotu zbiorowego;
+- **2)** organizacji działalności podmiotu zbiorowego, która nie zapewniała uniknięcia popełnienia czynu zabronionego przez osobę, o której mowa w art. 3 pkt 1 lub 3a, podczas gdy mogło je zapewnić zachowanie należytej staranności, wymaganej w danych okolicznościach, przez organ lub przedstawiciela podmiotu zbiorowego.
+
 **Art. 6.** Odpowiedzialność albo brak odpowiedzialności podmiotu zbiorowego na zasadach określonych w niniejszej ustawie nie wyłącza odpowiedzialności cywilnej za wyrządzoną szkodę, odpowiedzialności administracyjnej ani indywidualnej odpowiedzialności prawnej sprawcy czynu zabronionego.
 
-**Art. 7.** Wobec podmiotu zbiorowego sąd orzeka karę pieniężną w wysokości od 1000 do 5 000 000 złotych, nie wyższą jednak niż 3 % przychodu osiągniętego w roku obrotowym, w którym popełniono czyn zabroniony będący podstawą odpowiedzialności podmiotu zbiorowego.
-
-**Art. 7a.** W przypadku określonym w art. 4a wobec podmiotu zbiorowego sąd orzeka karę pieniężną w wysokości od 10 000 do 5 000 000 złotych.
-
-**Art. 7b.** W przypadku określonym w art. 16 ust. 1 pkt 18 w zakresie art. 57a– 57c ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2026 r. poz. 43 i 516) wobec podmiotu zbiorowego sąd orzeka karę pieniężną w wysokości do 15 % całkowitego rocznego obrotu wskazanego w sprawozdaniu finansowym za poprzedzający rok obrotowy.
+**Art. 7.** Wobec podmiotu zbiorowego sąd orzeka karę pieniężną w wysokości od 1000 do 5 000 000 złotych, nie wyższą jednak niż 3 % przychodu osiągniętego w roku obrotowym, w którym popełniono czyn zabroniony będący podstawą odpowiedzialności podmiotu zbiorowego. W przypadku określonym w art. 4a wobec podmiotu zbiorowego sąd orzeka karę pieniężną w wysokości od 10 000 do 5 000 000 złotych.
 
 **Art. 8.**
 
@@ -93,65 +111,63 @@ source: "isap-pdf"
 
 **Art. 14.** Kary pieniężnej, przepadku, zakazów ani podania wyroku do publicznej wiadomości nie orzeka się wobec podmiotu zbiorowego, jeżeli od dnia wydania orzeczenia, o którym mowa w art. 4, upłynęło 10 lat.
 
-**Art. 15.** Kary pieniężnej, przepadku, zakazów ani podania wyroku do publicznej wiadomości nie wykonuje się, jeżeli od uprawomocnienia się wyroku stwierdzającego odpowiedzialność podmiotu zbiorowego za czyn zabroniony pod groźbą kary upłynęło 10 lat.
-
-**Art. 15a.** Egzekucję środka, o którym mowa w art. 9 ust. 2a, prowadzi naczelnik urzędu skarbowego właściwy ze względu na siedzibę sądu pierwszej instancji w trybie przepisów o postępowaniu egzekucyjnym w administracji. W celu wykonania środka sąd niezwłocznie po uprawomocnieniu się wyroku, o którym mowa w art. 9 ust. 2a, przesyła organowi egzekucyjnemu jego odpis lub wyciąg.
+**Art. 15.** Kary pieniężnej, przepadku, zakazów ani podania wyroku do publicznej wiadomości nie wykonuje się, jeżeli od uprawomocnienia się wyroku stwierdzającego odpowiedzialność podmiotu zbiorowego za czyn zabroniony pod groźbą kary upłynęło 10 lat. Egzekucję środka, o którym mowa w art. 9 ust. 2a, prowadzi naczelnik urzędu skarbowego właściwy ze względu na siedzibę sądu pierwszej instancji w trybie przepisów o postępowaniu egzekucyjnym w administracji. W celu wykonania środka sąd niezwłocznie po uprawomocnieniu się wyroku, o którym mowa w art. 9 ust. 2a, przesyła organowi egzekucyjnemu jego odpis lub wyciąg.
 
 **Art. 16.**
 
 1. Podmiot zbiorowy podlega odpowiedzialności na podstawie ustawy, jeżeli osoba, o której mowa w art. 3, popełniła przestępstwo:
 
-- **1)** przeciwko obrotowi gospodarczemu, określone w: z 2024 r. poz. 1646 i 1685), o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2023 r. poz. 1743), poz. 2378);
-    - **a)** art. 296, art. 297–306c oraz art. 308 Kodeksu karnego,
-    - **b)** art. 430–440 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2024 r. poz. 838 i 1565),
-    - **c)** art. 87–98 ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2024 r. poz. 708),
-    - **d)** art. 171 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U.
-    - **e)** art. 303–305 ustawy z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2023 r. poz. 1170),
-    - **f)** art. 585–592 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96),
-    - **g)** art. 33 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2023 r. poz. 1582),
-    - **h)** art. 133, art. 136 i art. 139 ustawy z dnia 13 czerwca 2019 r.
-    - **i)** (uchylona)
-    - **j)** art. 63–63c ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2022 r.
+- **1)** przeciwko obrotowi gospodarczemu, określone w: art. 296, art. 297–306c oraz art. 308 Kodeksu karnego, art. 430–440 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2024 r. poz. 838 i 1565), art. 87–98 ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2024 r. poz. 708), art. 171 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646 i 1685), art. 303–305 ustawy z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2023 r. poz. 1170), art. 585–592 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96), art. 33 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2023 r. poz. 1582), art. 133, art. 136 i art. 139 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2023 r. poz. 1743), (uchylona) art. 63–63c ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2022 r. poz. 2378);
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
 
-- **2)** przeciwko obrotowi pieniędzmi i papierami wartościowymi, określone w: z 2024 r. poz. 620),
-    - **a)** art. 310–314 Kodeksu karnego,
-    - **b)** art. 178–183 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722),
-    - **c)** art. 37 ustawy z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych (Dz. U. z 2023 r. poz. 110),
-    - **d)** art. 99–101 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U.
-    - **e)** art. 37–41 ustawy z dnia 7 lipca 2022 r. o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom (Dz. U. z 2024 r. poz. 984);
+- **2)** przeciwko obrotowi pieniędzmi i papierami wartościowymi, określone w: art. 310–314 Kodeksu karnego, art. 178–183 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722), art. 37 ustawy z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych (Dz. U. z 2023 r. poz. 110), art. 99–101 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2024 r. poz. 620), art. 37–41 ustawy z dnia 7 lipca 2022 r. o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom (Dz. U. z 2024 r. poz. 984);
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
-- **3)** łapownictwa i płatnej protekcji, określone w: z 2024 r. poz. 146, 858, 1222, 1593 i 1615), poz. 1488);
-    - **a)** art. 228–230a, art. 250a i art. 296a Kodeksu karnego,
-    - **b)** art. 192b i art. 192c ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U.
-    - **c)** art. 46–48 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2024 r.
+- **3)** łapownictwa i płatnej protekcji, określone w: art. 228–230a, art. 250a i art. 296a Kodeksu karnego, art. 192b i art. 192c ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, 858, 1222, 1593 i 1615), art. 46–48 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2024 r. poz. 1488);
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **4)** przeciwko ochronie informacji, określone w art. 267–269b Kodeksu karnego;
 - **5)** przeciwko wiarygodności dokumentów, określone w art. 270–273 Kodeksu karnego;
 - **6)** przeciwko mieniu, określone w art. 286 i 287 oraz w art. 291–293 Kodeksu karnego;
 - **7)** przeciwko wolności seksualnej i obyczajności, określone w art. 199–200b i art. 202–204 Kodeksu karnego;
-- **8)** przeciwko środowisku, określone w: o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2022 r. poz. 546),
-    - **a)** rozdziale XXII Kodeksu karnego,
-    - **b)** art. 31–34 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U. z 2022 r. poz. 1816),
-    - **c)** (uchylona)
-    - **d)** art. 58–61 i art. 64 ustawy z dnia 22 czerwca 2001 r.
-    - **e)** art. 37b ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2024 r. poz. 416),
-    - **f)** art. 127a i art. 128a ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2024 r. poz. 1478),
-    - **g)** art. 52 i art. 53 ustawy z dnia 15 maja 2015 r. o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych (Dz. U. z 2020 r. poz. 2065),
-    - **h)** art. 35a ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U. z 2023 r. poz. 1072 oraz z 2024 r. poz. 834);
+- **8)** przeciwko środowisku, określone w: rozdziale XXII Kodeksu karnego, art. 31–34 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U. z 2022 r. poz. 1816), (uchylona) art. 58–61 i art. 64 ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2022 r. poz. 546), art. 37b ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2024 r. poz. 416), art. 127a i art. 128a ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2024 r. poz. 1478), art. 52 i art. 53 ustawy z dnia 15 maja 2015 r. o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych (Dz. U. z 2020 r. poz. 2065), art. 35a ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U. z 2023 r. poz. 1072 oraz z 2024 r. poz. 834);
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
 
 - **9)** przeciwko ludzkości określone w art. 119 Kodeksu karnego oraz przeciwko wolności i porządkowi publicznemu, określone w art. 189a i w art. 252, art. 255, art. 256–258, art. 263 oraz w art. 264 i art. 264a Kodeksu karnego;
 - **9a)** przeciwko rodzinie i opiece określone w art. 211a Kodeksu karnego;
 - **9b)** określone w art. 55 ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2023 r. poz. 102);
 - **10)** określone w art. 23–24b ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2022 r. poz. 1233);
-- **11)** przeciwko własności intelektualnej, określone w art. 115–118 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2022 r. poz. 2509 oraz z 2024 r. poz. 1222 i 1254);
+- **11)** przeciwko własności intelektualnej, określone w art. 115–1181 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2022 r. poz. 2509 oraz z 2024 r. poz. 1222 i 1254);
 - **12)** o charakterze terrorystycznym oraz określone w art. 165a i art. 255a Kodeksu karnego;
 - **13)** określone w art. 53, art. 55 ust. 1 i 3, art. 56 ust. 1 i 3, art. 57, art. 58, art. 59 ust. 1 i 2, art. 61, art. 62 ust. 1 i 2, art. 63, art. 64 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2023 r. poz. 1939);
 - **14)** określone w art. 124–126, art. 127, art. 127a, art. 129, art. 129a, art. 130–132c i art. 132e ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2024 r. poz. 686);
 - **15)** określone w art. 58 ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych (Dz. U. z 2023 r. poz. 616);
 - **16)** określone w art. 45–51 ustawy z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych (Dz. U. z 2023 r. poz. 2160 oraz z 2024 r. poz. 1597);
 - **17)** określone w art. 9 i art. 10 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej;
-- **18)** określone w art. 57a–57c, art. 57f i art. 57g ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
-- **19)** określone w art. 168f–168h ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505, z późn. zm. );
+- **18)** określone w art. 57g ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, 834 i 859);
+- **19)** określone w art. 168f-168h ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505, z późn. zm.);
 - **20)** określone w art. 62 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. z 2024 r. poz. 695);
 - **21)** określone w art. 449 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221).
 
@@ -182,8 +198,6 @@ source: "isap-pdf"
 
 5. Jeżeli podmiot, o którym mowa w ust. 1, zostanie ustalony w postępowaniu przed sądem pierwszej instancji, przed zamknięciem przewodu sądowego, przepis ust. 4 stosuje się odpowiednio.
 
-**Art. 21a.**
-
 1. W postępowaniu sądowym, po zgłoszeniu w nim udziału przedstawiciela podmiotu zbiorowego, podmiotowi temu przysługują uprawnienia określone w art. 156, art. 167, art. 171 § 2, art. 341 § 1, art. 343 § 5, art. 343a, art. 350 § 2 pkt 2, art. 352, art. 396 § 3, art. 406, art. 422 § 1, art. 423 § 2, art. 425, art. 444, art. 457 § 2 i art. 459 Kodeksu postępowania karnego.
 
 2. Sąd może przesłuchać przedstawiciela podmiotu zbiorowego w charakterze świadka. Osoba ta może odmówić zeznań. Przepisy art. 72, art. 75, art. 87 i art. 89 Kodeksu postępowania karnego stosuje się odpowiednio.
@@ -202,17 +216,7 @@ source: "isap-pdf"
 
 **Art. 25.** Sąd apelacyjny, na wniosek sądu rejonowego, może przekazać do rozpoznania sądowi okręgowemu, jako sądowi pierwszej instancji, sprawę ze względu na jej szczególną wagę lub zawiłość. Przepis art. 24 ust. 2 stosuje się odpowiednio do sądu apelacyjnego lub okręgowego.
 
-**Art. 26.** W celu zabezpieczenia prawidłowego toku postępowania, jeszcze przed jego wszczęciem, można wystąpić do właściwego sądu o wydanie postanowienia o zabezpieczeniu na mieniu podmiotu zbiorowego grożącej kary pieniężnej lub przepadku.
-
-**Art. 26a.**
-
-1. W postępowaniu w sprawie odpowiedzialności podmiotu zbiorowego lub w postępowaniu karnym albo postępowaniu w sprawie o przestępstwo skarbowe przeciwko osobie, o której mowa w art. 3, o czyn zabroniony określony w art. 16, sąd może zastosować wobec podmiotu zbiorowego środek zapobiegawczy w postaci zakazu łączenia się, podziału lub przekształcenia się podmiotu zbiorowego, zakazu ubiegania się o zamówienia publiczne na czas trwania tych postępowań, a także obciążania w tym czasie bez zgody sądu swojego majątku lub zbywania bez takiej zgody określonych przez sąd składników majątkowych.
-
-2. Na postanowienie w przedmiocie środka zapobiegawczego przysługuje zażalenie.
-
-3. Okres wykonywania środka zapobiegawczego w postaci zakazu ubiegania się o zamówienia publiczne na czas trwania postępowania zalicza się do okresu, na który orzeczono zakaz, o którym mowa w art. 9 ust. 1 pkt 4.
-
-4. W przypadku zastosowania środka zapobiegawczego w postaci zakazu ubiegania się o zamówienia publiczne na czas trwania postępowania, przy orzekaniu zakazu, o którym mowa w art. 9 ust. 1 pkt 4, nie stosuje się przepisu art. 14.
+**Art. 26.** W celu zabezpieczenia prawidłowego toku postępowania, jeszcze przed jego wszczęciem, można wystąpić do właściwego sądu o wydanie postanowienia o zabezpieczeniu na mieniu podmiotu zbiorowego grożącej kary pieniężnej lub przepadku. 1. W postępowaniu w sprawie odpowiedzialności podmiotu zbiorowego lub w postępowaniu karnym albo postępowaniu w sprawie o przestępstwo skarbowe przeciwko osobie, o której mowa w art. 3, o czyn zabroniony określony w art. 16, sąd może zastosować wobec podmiotu zbiorowego środek zapobiegawczy w postaci zakazu łączenia się, podziału lub przekształcenia się podmiotu zbiorowego, zakazu ubiegania się o zamówienia publiczne na czas trwania tych postępowań, a także obciążania w tym czasie bez zgody sądu swojego majątku lub zbywania bez takiej zgody określonych przez sąd składników majątkowych. 2. Na postanowienie w przedmiocie środka zapobiegawczego przysługuje zażalenie. 3. Okres wykonywania środka zapobiegawczego w postaci zakazu ubiegania się o zamówienia publiczne na czas trwania postępowania zalicza się do okresu, na który orzeczono zakaz, o którym mowa w art. 9 ust. 1 pkt 4. 4. W przypadku zastosowania środka zapobiegawczego w postaci zakazu ubiegania się o zamówienia publiczne na czas trwania postępowania, przy orzekaniu zakazu, o którym mowa w art. 9 ust. 1 pkt 4, nie stosuje się przepisu art. 14.
 
 **Art. 27.**
 
@@ -223,6 +227,14 @@ source: "isap-pdf"
 **Art. 28.** Wniosek złożony przez pokrzywdzonego powinien być sporządzony i podpisany przez osobę uprawnioną do obrony według przepisów o ustroju adwokatury lub ustawy o radcach prawnych.
 
 **Art. 29.** Wniosek powinien zawierać:
+
+- **1)** oznaczenie wnioskodawcy oraz jego adres dla doręczeń;
+- **2)** oznaczenie podmiotu zbiorowego oraz jego adres dla doręczeń;
+- **3)** dokładne określenie czynu zabronionego stanowiącego podstawę odpowiedzialności podmiotu zbiorowego, z uwzględnieniem okoliczności, o których mowa w art. 3 i 5;
+- **4)** wskazanie prawomocnego wyroku lub innego orzeczenia, o którym mowa w art. 4, wraz z oznaczeniem sądu lub organu, który wydał to orzeczenie;
+- **5)** wskazanie sądu właściwego do rozpoznania sprawy;
+- **6)** uzasadnienie;
+- **7)** wykaz dowodów, których przeprowadzenia na rozprawie głównej domaga się wnioskodawca.
 
 **Art. 30.** Z wnioskiem przesyła się sądowi odpis orzeczenia, o którym mowa w art. 4, wraz z uzasadnieniem, jeżeli je sporządzono.
 
@@ -288,5 +300,5 @@ source: "isap-pdf"
 
 **Art. 47.** Do czasu wydania przepisów wykonawczych na podstawie upoważnień zmienionych niniejszą ustawą zachowują moc przepisy dotychczasowe, jeżeli nie są z nią sprzeczne.
 
-**Art. 48.** Ustawa wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia .
+**Art. 48.** Ustawa wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.
 

@@ -8,10 +8,10 @@ pos: 1180
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 czerwca 2022 r.
+# Rozporządzenie Prezesa Rady Ministrówz dnia 26 maja 2022 r. zmieniające rozporządzenie w sprawie wykazu stanowisk, wymaganych kwalifikacji, zasad wynagradzania i przyznawania innych świadczeń pracownikom Instytutu Zachodniego im. Zygmunta Wojciechowskiego
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,28 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2022-05-26 |
 | Data wydania | 2022-06-02 |
+| Wejście w życie | 2022-06-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001180) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1180/text.pdf) |
 
-11118800 TABELE STANOWISK, KWALIFIKACJI I WYNAGRODZENIA ZASADNICZEGO PRACOWNIKÓW INSTYTUTU ZACHODNIEGO IM. ZYGMUNTA WOJCIECHOWSKIEGO I. Tabela stanowisk, kwalifikacji i wynagrodzenia zasadniczego pracowników zarządzających C.
-A. B.
-Lp. Wynagrodzenie Stanowisko Wymagane kwalifikacje zasadnicze w złotych stopień doktora, 3-letnie doświadczenie w zarządzaniu 1 Dyrektor 10000–15000 zespołami pracowniczymi, znajomość języka obcego 3-letnie doświadczenie w zarządzaniu 2 Zastępca Dyrektora 8000–12500 zespołami pracowniczymi, znajomość języka obcego 3 Główny księgowy według odrębnych przepisów 5500–10000 II. Tabela stanowisk, kwalifikacji i wynagrodzenia zasadniczego pracowników pionu badawczego C.
-A. B.
-Lp. Wynagrodzenie Stanowisko Wymagane kwalifikacje zasadnicze w złotych 3 lata 1 Kierownik Zespołu stażu pracy, znajomość języka 5500–10000 obcego 3 lata 2 Koordynator projektu stażu pracy, znajomość języka 4500–8500 obcego 3 lata 3 Główny analityk stażu pracy, znajomość języka 4000–7500 obcego od wysokości 2 lata minimalnego 4 Starszy analityk stażu pracy, znajomość języka wynagrodzenia obcego za pracę 6000 od wysokości minimalnego 5 Analityk znajomość języka obcego wynagrodzenia za pracę 5500 III. Tabela stanowisk, kwalifikacji i wynagrodzenia zasadniczego pracowników pionu wsparcia C.
-A. B.
-Lp. Wynagrodzenie Stanowisko Wymagane kwalifikacje zasadnicze w złotych 3 lata 1 Kierownik 4000–8500 stażu pracy 3 lata 2 Główny specjalista 3500–6500 stażu pracy od wysokości 2 lata minimalnego 3 Starszy specjalista stażu pracy wynagrodzenia za pracę 6000 od wysokości minimalnego 4 Specjalista wyższe wynagrodzenia za pracę 5500 od wysokości minimalnego 5 Starszy referent średnie wynagrodzenia za pracę 5000 od wysokości minimalnego 6 Referent średnie wynagrodzenia za pracę 4500 od wysokości minimalnego 7 Pracownik obsługi podstawowe wynagrodzenia za pracę 4000
+Treść rozporządzenia
+Załącznik – Tabele stanowisk, kwalifikacji i wynagrodzenia zasadniczego pracowników Instytutu Zachodniego im. Zygmunta Wojciechowskiego/P>
+Treść rozporządzenia
+Na podstawie art. 9 ustawy z dnia 17 grudnia 2015 r. o Instytucie Zachodnim im. Zygmunta Wojciechowskiego (Dz. U. poz. 2292) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Prezesa Rady Ministrów z dnia 19 czerwca 2017 r. w sprawie wykazu stanowisk, wymaganych kwalifikacji, zasad wynagradzania i przyznawania innych świadczeń pracownikom Instytutu Zachodniego im. Zygmunta Wojciechowskiego (Dz. U. poz. 1165) wprowadza się następujące zmiany:
+1)
+w § 4 ust. 1 otrzymuje brzmienie:
+„
+1.
+Z tytułu okresowego zwiększenia zakresu obowiązków służbowych lub powierzenia dodatkowych zadań albo ze względu na charakter pracy lub warunki wykonywania pracy pracodawca może przyznać pracownikowi, o którym mowa w § 1 pkt 2 i 3, dodatek specjalny.
+” ;
+2)
+załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+§ 2.
+Przepisy rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się do ustalania wysokości wynagrodzenia od dnia 1 maja 2022 r.
+§ 3.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Załącznik – Tabele stanowisk, kwalifikacji i wynagrodzenia zasadniczego pracowników Instytutu Zachodniego im. Zygmunta Wojciechowskiego/P>
+patrz oryginał
 

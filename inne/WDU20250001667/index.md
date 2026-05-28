@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o obligacjach
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 listopada 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 grudnia 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-12-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001667) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1667/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 listopada 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o obligacjach
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2024 r. poz. 708), z uwzględnieniem zmian wprowadzonych ustawą z dnia 25 czerwca 2025 r. o zmianie niektórych ustaw w związku z zapewnieniem operacyjnej odporności cyfrowej sektora finansowego oraz emitowaniem europejskich zielonych obligacji (Dz. U. poz. 1069) oraz zmian wynikających z przepisów ogłoszonych przed dniem 20 listopada 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 20 ustawy z dnia 25 czerwca 2025 r. o zmianie niektórych ustaw w związku z zapewnieniem operacyjnej odporności cyfrowej sektora finansowego oraz emitowaniem europejskich zielonych obligacji (Dz. U. poz. 1069), który stanowi: „Art. 20. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
 Marszałek Sejmu: W. Czarzasty
@@ -40,7 +40,20 @@ Art. 99–108. (pominięte)
 
 **Art. 2.** Obligacje mogą emitować:
 
+- **1)** osoby prawne, w tym osoby prawne mające siedzibę poza terytorium Rzeczypospolitej Polskiej:
+    - **a)** prowadzące działalność gospodarczą lub
+    - **b)** utworzone wyłącznie w celu przeprowadzenia emisji obligacji,
+
+- **2)** osoby prawne upoważnione do emisji obligacji na podstawie odrębnych ustaw,
+- **3)** spółki komandytowo-akcyjne,
+- **4)** spółdzielcze kasy oszczędnościowo-kredytowe oraz Krajowa Spółdzielcza Kasa Oszczędnościowo-Kredytowa,
+- **5)** gminy, powiaty oraz województwa, zwane dalej „jednostkami samorządu terytorialnego”, a także związki tych jednostek oraz jednostki władz regionalnych lub lokalnych innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej,
+- **6)** instytucje finansowe, których członkiem jest Rzeczpospolita Polska lub Narodowy Bank Polski, lub przynajmniej jedno z państw należących do Organizacji Współpracy Gospodarczej i Rozwoju (OECD), lub bank centralny takiego państwa, lub instytucje, z którymi Rzeczpospolita Polska zawarła umowy regulujące działalność takich instytucji na terenie Rzeczypospolitej Polskiej i zawierające stosowne postanowienia dotyczące emisji obligacji zwane dalej „emitentami”.
+
 **Art. 3.** Przepisy ustawy nie mają zastosowania do obligacji emitowanych przez:
+
+- **1)** Skarb Państwa;
+- **2)** Narodowy Bank Polski.
 
 **Art. 4.**
 
@@ -251,7 +264,21 @@ Art. 99–108. (pominięte)
 
 **Art. 27a.** O ile umowa spółki albo statut emitenta tak stanowią, emitent może emitować obligacje w celu ich zakwalifikowania:
 
+- **1)** do funduszy własnych jako instrumenty:
+    - **a)** dodatkowe w Tier I zgodnie z art. 52 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 575/2013”,
+    - **b)** w Tier II zgodnie z art. 63 rozporządzenia 575/2013,
+
+- **2)** do środków własnych jako pozycje podstawowych środków własnych: uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2009/138/WE w sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) (Dz. Urz. UE L 12 z 17.01.2015, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem delegowanym Komisji (UE) 2015/35”,
+    - **a)** kategorii 1 zgodnie z art. 71 rozporządzenia delegowanego Komisji (UE) nr 2015/35 z dnia 10 października 2014 r.
+    - **b)** kategorii 2 zgodnie z art. 73 rozporządzenia delegowanego Komisji (UE) 2015/35,
+    - **c)** kategorii 3 zgodnie z art. 77 rozporządzenia delegowanego Komisji (UE) 2015/35 zwane dalej „obligacjami kapitałowymi”.
+
 **Art. 27b.** Emitentem obligacji kapitałowych może być:
+
+- **1)** bank krajowy;
+- **2)** dom maklerski, o którym mowa w art. 95 ust. 1 pkt 1 i 3 ustawy o obrocie instrumentami finansowymi;
+- **3)** krajowy zakład ubezpieczeń;
+- **4)** krajowy zakład reasekuracji.
 
 **Art. 27c.** Zawarcie umowy, której przedmiotem jest obligacja kapitałowa, oraz pośrednictwo w zawarciu takiej umowy jest możliwe wyłącznie w przypadku, gdy obejmującym lub nabywcą tej obligacji jest podmiot wymieniony w art. 3 pkt 39b lit. a–m ustawy o obrocie instrumentami finansowymi.
 
@@ -354,6 +381,9 @@ Art. 99–108. (pominięte)
 
 **Art. 27m.** W przypadku gdy warunki emisji obligacji kapitałowych, o których mowa w art. 27a:
 
+- **1)** pkt 1, przewidują możliwość ich umorzenia w formie odpisu trwałego albo odpisu tymczasowego, obniżających w całości albo w części wartość nominalną obligacji kapitałowej,
+- **2)** pkt 2 lit. a, przewidują możliwość dokonania odliczeń obniżających w całości albo w części wartość obligacji kapitałowej albo zastosowania mechanizmu pokrywania strat, o którym mowa w art. 27h ust. 1 pkt 2 lit. b tiret trzecie emisja tych obligacji wymaga podjęcia uchwały przez zarząd emitenta i wyrażenia przez radę nadzorczą emitenta zgody na dokonanie takiej emisji, a w przypadku emitenta będącego zakładem ubezpieczeń albo zakładem reasekuracji, wykonującym działalność w formie spółki europejskiej, w której przyjęto system monistyczny podjęcia uchwały przez radę administrującą.
+
 **Art. 27n.**
 
 1. Emisja obligacji kapitałowych, które w przypadku wystąpienia zdarzenia inicjującego, o którym mowa w art. 54 ust. 1 rozporządzenia 575/2013 albo art. 71 ust. 8 rozporządzenia delegowanego Komisji (UE) 2015/35, podlegają zamianie na akcje emitenta, wymaga uchwały walnego zgromadzenia emitenta podjętej większością trzech czwartych głosów.
@@ -433,6 +463,9 @@ Art. 99–108. (pominięte)
 
 **Art. 33.** Emisja obligacji może nastąpić:
 
+- **1)** w trybie oferty publicznej papierów wartościowych, o której mowa w art. 2 lit. d rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/1129 z dnia 14 czerwca 2017 r. w sprawie prospektu, który ma być publikowany w związku z ofertą publiczną papierów wartościowych lub dopuszczeniem ich do obrotu na rynku regulowanym oraz uchylenia dyrektywy 2003/71/WE (Dz. Urz. UE L 168 z 30.06.2017, str. 12), zwanego dalej „rozporządzeniem 2017/1129”;
+- **2)** przez proponowanie nabycia obligacji w inny sposób niż wskazany w pkt 1.
+
 **Art. 33a.** Oferta publiczna obligacji, o której mowa w art. 2 lit. d rozporządzenia 2017/1129, skierowana do klienta detalicznego w rozumieniu art. 3 pkt 39c ustawy o obrocie instrumentami finansowymi będącego osobą fizyczną, wymaga pośrednictwa firmy inwestycyjnej lub dostawcy usług finansowania społecznościowego posiadającego zezwolenie, o którym mowa w art. 12 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/1503 z dnia 7 października 2020 r. w sprawie europejskich dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych oraz zmieniającego rozporządzenie (UE) 2017/1129 i dyrektywę (UE) 2019/1937 (Dz. Urz. UE L 347 z 20.10.2020, str. 1, z późn. zm. ).
 
 **Art. 34.**
@@ -496,6 +529,10 @@ Art. 99–108. (pominięte)
 2. W terminie 2 tygodni od zakończenia zapisów na obligacje lub upływu terminu na przyjęcie propozycji nabycia emitent dokona przydziału obligacji, zgodnie z zasadami określonymi w prospekcie, memorandum informacyjnym albo propozycji nabycia.
 
 **Art. 44.** W przypadku emisji obligacji zgodnie z art. 33 pkt 2:
+
+- **1)** termin na przyjęcie propozycji nabycia wynosi 3 tygodnie od dnia jej otrzymania, chyba że emitent określi inny termin;
+- **2)** termin składania kolejnych propozycji nabycia obligacji danej emisji nie może być dłuższy niż 6 tygodni od dnia złożenia pierwszej propozycji;
+- **3)** termin dokonania przydziału obligacji wynosi 6 tygodni od dnia złożenia ostatniej propozycji nabycia, chyba że emitent określi w propozycji nabycia krótszy termin.
 
 **Art. 45.**
 
@@ -760,6 +797,10 @@ Art. 99–108. (pominięte)
 4. Wymogu uzyskania zezwolenia na wykup obligacji kapitałowych, o którym mowa w ust. 2 pkt 2, nie stosuje się w przypadku określonym w art. 9 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2033 z dnia 27 listopada 2019 r. w sprawie wymogów ostrożnościowych dla firm inwestycyjnych oraz zmieniającego rozporządzenia (UE) nr 1093/2010, (UE) nr 575/2013, (UE) nr 600/2014 i (UE) nr 806/2014 (Dz. Urz. UE L 314 z 05.12.2019, str. 1, z późn. zm. ).
 
 **Art. 74b.** Jeżeli obligacje kapitałowe zostały wyemitowane w celu, o którym mowa w art. 27a pkt 2:
+
+- **1)** lit. a, emitent obligacji kapitałowych wstrzymuje wykup obligacji kapitałowych zgodnie z art. 71 ust. 1 lit. j oraz ust. 9 rozporządzenia delegowanego Komisji (UE) 2015/35,
+- **2)** lit. b, emitent obligacji kapitałowych wstrzymuje wykup obligacji kapitałowych zgodnie z art. 73 ust. 1 lit. f oraz ust. 3 rozporządzenia delegowanego Komisji (UE) 2015/35,
+- **3)** lit. c, emitent obligacji kapitałowych wstrzymuje wykup obligacji kapitałowych zgodnie z art. 77 ust. 1 lit. f oraz ust. 3 rozporządzenia delegowanego Komisji (UE) 2015/35 w przypadku gdy powstała niezgodność z kapitałowym wymogiem wypłacalności albo gdy wykup obligacji kapitałowych prowadziłby do jej powstania.
 
 **Art. 74c.** Obligacje kapitałowe stają się wymagalne w przypadku ogłoszenia upadłości albo otwarcia likwidacji emitenta obligacji kapitałowych.
 

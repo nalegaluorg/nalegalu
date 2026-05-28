@@ -8,12 +8,10 @@ pos: 1077
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o spółdzielni europejskiej
-
-*USTAWA z dnia 22 lipca 2006 r.*
+# Ustawa z dnia 22 lipca 2006 r. o spółdzielni europejskiej
 
 | Pole | Wartość |
 |---|---|
@@ -24,16 +22,31 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2006-07-22 |
 | Data wydania | 2006-08-22 |
+| Wejście w życie | 2006-08-18 |
 | Ostatnia zmiana | 2026-04-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061491077) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1077/text.pdf) |
 
-## TYTUŁ I Przepisy ogólne
+Treść ustawy Tytuł I – Przepisy ogólne Tytuł II – Spółdzielnia europejska Dział 1 – Utworzenie spółdzielni europejskiej Dział 2 – Organy spółdzielni europejskiej Rozdział 1 – System dualistyczny Rozdział 2 – System monistyczny Dział 3 – Przeniesienie siedziby statutowej spółdzielni europejskiej Tytuł III – Zaangażowanie pracowników w spółdzielni europejskiej Dział 1 – Przepisy ogólne Dział 2 – Procedura negocjacyjna mająca zastosowanie do spółdzielni europejskiej utworzonej przez co najmniej dwie osoby prawne lub powstałej w drodze przekształcenia Rozdział 1 – Specjalny zespół negocjacyjny Rozdział 2 – Porozumienie w sprawie zaangażowania pracowników w spółdzielni europejskiej Rozdział 3 – Zasady standardowe zaangażowania pracowników w spółdzielni europejskiej Dział 3 – Procedura negocjacyjna mająca zastosowanie do spółdzielni europejskiej utworzonej wyłącznie przez osoby fizyczne lub przez jedną osobę prawną i osoby fizyczne Dział 4 – Zakaz ujawniania informacji stanowiących tajemnicę przedsiębiorstw Dział 5 – Ochrona praw pracowników w zakresie zaangażowania Rozdział 1 – Ochrona przedstawicieli pracowników Rozdział 2 – Środki zapobiegające nadużyciom Tytuł IV – Przepisy porządkowe i karne Tytuł V – Zmiany w przepisach obowiązujących Tytuł VI – Przepis końcowy
+
+## Tytuł I Przepisy ogólne
 
 **Art. 1.** Ustawa reguluje:
 
+- **1)** powstanie, organizację i działalność spółdzielni europejskiej, w zakresie nieuregulowanym w rozporządzeniu Rady nr 1435/2003/WE z dnia 22 lipca 2003 r. w sprawie statutu spółdzielni europejskiej (SCE) (Dz. Urz. WE L 207 z 18.08.2003, s. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 17, t. 1, s. 280);
+- **2)** zasady zaangażowania pracowników w spółdzielni europejskiej.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
-**Art. 3.** Spółdzielnia europejska, zwana dalej „SCE”, podlega wpisowi do rejestru na zasadach określonych dla spółek akcyjnych. Do zgłoszenia SCE do rejestru stosuje się odpowiednio art. 318 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96 oraz z 2026 r. poz. 176 i 187), zwanej dalej „Kodeksem spółek handlowych”.
+- **1)** bank spółdzielczy – bank spółdzielczy w rozumieniu art. 2 pkt 1 ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających (Dz. U. Nr 119, poz. 1252, z późn. zm.), zwanej dalej „ustawą o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających”;
+- **2)** państwa członkowskie – państwa członkowskie Unii Europejskiej lub państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym;
+- **3)** podmiot uczestniczący – spółdzielnię, osobę prawną lub osobę fizyczną bezpośrednio uczestniczącą w założeniu spółdzielni europejskiej;
+- **4)** rejestr – rejestr przedsiębiorców w Krajowym Rejestrze Sądowym;
+- **5)** rozporządzenie – rozporządzenie, o którym mowa w art. 1 pkt 1;
+- **6)** spółdzielcza kasa oszczędnościowo-kredytowa – spółdzielczą kasę oszczędnościowo-kredytowa w rozumieniu art. 2 ustawy z dnia 14 grudnia 1995 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 1996 r. Nr 1, poz. 2, z późn. zm.), zwanej dalej „ustawą o spółdzielczych kasach oszczędnościowo-kredytowych”;
+- **7)** spółdzielnia – spółdzielnię w rozumieniu art. 1 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2003 r. Nr 188, poz. 1848, z 2004 r. Nr 99, poz. 1001, z 2005 r. Nr 122, poz. 1024 oraz z 2006 r. Nr 94, poz. 651), zwanej dalej „Prawem spółdzielczym”;
+- **8)** spółdzielnia europejska – spółdzielnię europejską określoną w rozporządzeniu.
+
+**Art. 3.** Spółdzielnia europejska, zwana dalej „SCE”, podlega wpisowi do rejestru na zasadach określonych dla spółek akcyjnych. Do zgłoszenia SCE do rejestru stosuje się odpowiednio art. 318 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z późn. zm.), zwanej dalej „Kodeksem spółek handlowych”.
 
 **Art. 4.**
 
@@ -41,13 +54,13 @@ source: "isap-pdf"
 
 2. Organem właściwym w rozumieniu art. 29 i 30 rozporządzenia jest sąd rejestrowy właściwy według siedziby statutowej spółdzielni uczestniczącej w założeniu SCE przez połączenie.
 
-**Art. 5.** Centralna Informacja Krajowego Rejestru Sądowego przekazuje dane, które zgodnie z art. 13 rozporządzenia podlegają ogłoszeniu w Dzienniku Urzędowym Unii Europejskiej, do Urzędu Oficjalnych Publikacji Unii Europejskiej w terminie miesiąca od dnia ich wpisu do rejestru.
+**Art. 5.** Centralna Informacja Krajowego Rejestru Sądowego przekazuje dane, które zgodnie z art. 13 rozporządzenia podlegają ogłoszeniu w Dzienniku Urzędowym Unii Europejskiej, do Urzędu Oficjalnych Publikacji Unii Europejskiej w terminie miesiąca od dnia ich ogłoszenia w Monitorze Sądowym i Gospodarczym.
 
-**Art. 6.** W przypadku przeniesienia siedziby statutowej SCE z innego państwa członkowskiego na terytorium Rzeczypospolitej Polskiej, jak również z terytorium Rzeczypospolitej Polskiej do innego państwa członkowskiego, stosuje się odpowiednio art. 12 ust. 1 i 2 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. ).
+**Art. 6.** W przypadku przeniesienia siedziby statutowej SCE z innego państwa członkowskiego na terytorium Rzeczypospolitej Polskiej, jak również z terytorium Rzeczypospolitej Polskiej do innego państwa członkowskiego, stosuje się odpowiednio art. 12 ust. 1 i 2 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2002 r. Nr 76, poz. 694, z późn. zm.).
 
-## TYTUŁ II Spółdzielnia europejska
+## Tytuł II Spółdzielnia europejska
 
-### DZIAŁ 1 Utworzenie spółdzielni europejskiej
+### Dział 1 Utworzenie spółdzielni europejskiej
 
 **Art. 7.** W tworzeniu SCE może uczestniczyć, poza podmiotami wymienionymi w art. 2 ust. 1 rozporządzenia, również osoba prawna, która spełnia wymagania określone w art. 2 ust. 2 rozporządzenia.
 
@@ -70,7 +83,7 @@ source: "isap-pdf"
 
 3. Sąd rejestrowy może wydać zaświadczenie, o którym mowa w art. 29 ust. 2 rozporządzenia, mimo wytoczenia powództwa o uchylenie albo o ustalenie nieważności, albo o ustalenie nieistnienia uchwały o połączeniu, jeżeli zostanie uprawdopodobnione, że powództwo to jest oczywiście bezzasadne. W przypadku gdy po wydaniu zaświadczenia sąd prawomocnym orzeczeniem stwierdzi nieważność albo nieistnienie uchwały o połączeniu albo ją uchyli, członek spółdzielni uczestniczącej w połączeniu, który poniósł szkodę w wyniku dokonania wpisów na podstawie uchwały uznanej za nieważną, nieistniejącą albo uchylonej, może dochodzić jej naprawienia od SCE bez względu na winę członków jej organów.
 
-4. W przedmiocie wydania zaświadczenia, o którym mowa w art. 29 ust. 2 rozporządzenia, sąd rejestrowy orzeka postanowieniem, na które przysługuje apelacja. Do postępowania stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568, z późn. zm. ), zwanej dalej „Kodeksem postępowania cywilnego”, o postępowaniu rejestrowym.
+4. W przedmiocie wydania zaświadczenia, o którym mowa w art. 29 ust. 2 rozporządzenia, sąd rejestrowy orzeka postanowieniem, na które przysługuje apelacja. Do postępowania stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.), zwanej dalej „Kodeksem postępowania cywilnego”, o postępowaniu rejestrowym.
 
 **Art. 10.**
 
@@ -83,22 +96,22 @@ source: "isap-pdf"
 1. Do zgłoszenia SCE w celu jej wpisu do rejestru dołącza się:
 
 - **1)** niezależnie od sposobu utworzenia – porozumienie o zaangażowaniu pracowników, zawarte stosownie do przepisów tytułu III ustawy, albo uchwałę specjalnego zespołu negocjacyjnego o niepodejmowaniu negocjacji albo o ich zakończeniu, podjętą zgodnie z art. 57; dokumenty te nie są wymagane, jeżeli zgłoszenie SCE następuje po upływie okresu, o którym mowa odpowiednio w art. 53 ust. 1 lub 2;
-- **2)** w przypadku utworzenia SCE przez połączenie:
-    - **a)** zaświadczenie, o którym mowa w art. 29 ust. 2 rozporządzenia, wystawione dla każdej ze spółdzielni uczestniczących w połączeniu przez właściwy organ państwa, którego prawu podlega każda z nich,
-    - **b)** plan połączenia zatwierdzony przez uchwałę walnego zgromadzenia każdej ze spółdzielni uczestniczących w połączeniu;
+- **2)** w przypadku utworzenia SCE przez połączenie: zaświadczenie, o którym mowa w art. 29 ust. 2 rozporządzenia, wystawione dla każdej ze spółdzielni uczestniczących w połączeniu przez właściwy organ państwa, którego prawu podlega każda z nich, plan połączenia zatwierdzony przez uchwałę walnego zgromadzenia każdej ze spółdzielni uczestniczących w połączeniu;
+    - **a)**
+    - **b)**
 
-- **3)** w przypadku utworzenia SCE przez przekształcenie spółdzielni podlegającej prawu polskiemu: 3 rozporządzenia,
-    - **a)** dokumenty pozwalające na stwierdzenie, że są spełnione wymagania określone w art. 2 ust. 1 tiret 5 rozporządzenia,
-    - **b)** plan przekształcenia i sprawozdanie sporządzone zgodnie z art. 35 ust.
-    - **c)** opinię biegłych sporządzoną zgodnie z art. 35 ust. 5 rozporządzenia,
-    - **d)** uchwałę o przekształceniu podjętą zgodnie z art. 35 ust. 6 rozporządzenia,
-    - **e)** dowód ogłoszenia zgodnie z art. 35 ust. 4 rozporządzenia;
+- **3)** w przypadku utworzenia SCE przez przekształcenie spółdzielni podlegającej prawu polskiemu: dokumenty pozwalające na stwierdzenie, że są spełnione wymagania określone w art. 2 ust. 1 tiret 5 rozporządzenia, plan przekształcenia i sprawozdanie sporządzone zgodnie z art. 35 ust. 3 rozporządzenia, opinię biegłych sporządzoną zgodnie z art. 35 ust. 5 rozporządzenia, uchwałę o przekształceniu podjętą zgodnie z art. 35 ust. 6 rozporządzenia, dowód ogłoszenia zgodnie z art. 35 ust. 4 rozporządzenia;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
-- **4)** w przypadku utworzenia SCE w inny sposób – dokumenty pozwalające na stwierdzenie, że są spełnione wymagania określone w art. 2 ust. 1 tiret 1– 3 rozporządzenia.
+- **4)** w przypadku utworzenia SCE w inny sposób – dokumenty pozwalające na stwierdzenie, że są spełnione wymagania określone w art. 2 ust. 1 tiret 1–3 rozporządzenia.
 
 2. Jeżeli dokumenty, o których mowa w ust. 1, są sporządzone w języku obcym, dołącza się również ich uwierzytelnione tłumaczenie na język polski.
 
-### DZIAŁ 2 Organy spółdzielni europejskiej
+### Dział 2 Organy spółdzielni europejskiej
 
 #### Rozdział 1 System dualistyczny
 
@@ -114,7 +127,7 @@ source: "isap-pdf"
 
 2. Statut SCE może przewidywać, że członków zarządu powołuje lub odwołuje walne zgromadzenie.
 
-**Art. 16.** Członek rady nadzorczej wyznaczony do czasowego wykonywania obowiązków członka zarządu może pełnić te obowiązki przez okres niedłuższy niż trzy miesiące.
+**Art. 16.** Członek rady nadzorczej wyznaczony do czasowego wykonywania obowiązków członka zarządu może pełnić te obowiązki przez okres nie dłuższy niż trzy miesiące.
 
 **Art. 17.** Jeżeli statut nie stanowi inaczej, każdy członek rady nadzorczej może żądać od zarządu przedstawienia radzie nadzorczej na jej najbliższym posiedzeniu wszelkich sprawozdań, ksiąg i dokumentów oraz złożenia wyjaśnień.
 
@@ -148,7 +161,7 @@ source: "isap-pdf"
 
 **Art. 25.** Dokonanie czynności prawnej między SCE a członkiem rady administrującej lub czynności prawnej dokonywanej przez SCE w interesie członka rady administrującej wymaga uchwały walnego zgromadzenia. W czynnościach tych, w tym również w czynnościach, o których mowa w art. 52 § 1 Prawa spółdzielczego, SCE reprezentuje pełnomocnik ustanowiony przez walne zgromadzenie.
 
-### DZIAŁ 3 Przeniesienie siedziby statutowej spółdzielni europejskiej
+### Dział 3 Przeniesienie siedziby statutowej spółdzielni europejskiej
 
 **Art. 26.** Wierzyciele, których roszczenia powstały przed dniem ogłoszenia uchwały o przeniesieniu siedziby statutowej SCE z terytorium Rzeczypospolitej Polskiej do innego państwa członkowskiego i którzy zgłosili swoje roszczenia w terminie miesiąca od dnia ogłoszenia uchwały o przeniesieniu siedziby statutowej oraz uprawdopodobnili, że ich zaspokojenie jest zagrożone przez przeniesienie siedziby statutowej, mogą żądać zaspokojenia albo zabezpieczenia swoich roszczeń.
 
@@ -191,7 +204,7 @@ source: "isap-pdf"
 
 2. Jeżeli SCE w wyznaczonym terminie nie uczyni zadość wezwaniu, sąd rejestrowy nałoży grzywnę przewidzianą w przepisach Kodeksu postępowania cywilnego o egzekucji świadczeń niepieniężnych. Przepisów art. 1052 zdanie drugie i art. 1053 Kodeksu postępowania cywilnego nie stosuje się.
 
-3. Jeżeli mimo dwukrotnego nałożenia grzywien SCE nie uczyni zadość wezwaniu, sąd rejestrowy może ustanowić dla niej kuratora na okres nieprzekraczający trzech miesięcy. Kurator jest obowiązany do niezwłocznego podjęcia czynności zmierzających do przywrócenia zgodności siedziby statutowej i głównego zarządu SCE. Sąd rejestrowy może, na wniosek właściwego organu SCE, odwołać kuratora przed upływem terminu, na który został powołany, jeżeli zostaną podjęte czynności zmierzające do przywrócenia zgodności siedziby statutowej i głównego zarządu. Do kuratora ustanowionego dla SCE stosuje się przepisy art. 42 § 1 zdanie drugie ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508 oraz z 2026 r. poz. 184) oraz art. 603 § 3 i art. 603 Kodeksu postępowania cywilnego.
+3. Jeżeli mimo dwukrotnego nałożenia grzywien SCE nie uczyni zadość wezwaniu, sąd rejestrowy może ustanowić dla niej kuratora na okres nieprzekraczający trzech miesięcy. Kurator jest obowiązany do niezwłocznego podjęcia czynności zmierzających do przywrócenia zgodności siedziby statutowej i głównego zarządu SCE. Sąd rejestrowy może, na wniosek właściwego organu SCE, odwołać kuratora przed upływem terminu, na który został powołany, jeżeli zostaną podjęte czynności zmierzające do przywrócenia zgodności siedziby statutowej i głównego zarządu. Do kuratora ustanowionego dla SCE stosuje się przepisy art. 26 ust. 2 i 3, art. 30 i art. 31 ust. 2 oraz art. 32 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2001 r. Nr 17, poz. 209, z późn. zm.).
 
 **Art. 31.**
 
@@ -209,13 +222,26 @@ source: "isap-pdf"
 
 **Art. 33.** Do postępowania przewidzianego w art. 30–32 w sprawach nieuregulowanych w tych przepisach stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o postępowaniu nieprocesowym.
 
-## TYTUŁ III Zaangażowanie pracowników w spółdzielni europejskiej
+## Tytuł III Zaangażowanie pracowników w spółdzielni europejskiej
 
-### DZIAŁ 1 Przepisy ogólne
+### Dział 1 Przepisy ogólne
 
 **Art. 34.** Użyte w tytule III określenia oznaczają:
 
-### DZIAŁ 2 Procedura negocjacyjna mająca zastosowanie do spółdzielni europejskiej utworzonej przez co najmniej dwie osoby prawne lub powstałej w drodze przekształcenia
+- **1)** spółka zależna podmiotu uczestniczącego lub SCE – przedsiębiorcę, na którego ten podmiot lub SCE wywiera dominujący wpływ w rozumieniu art. 4 ustawy z dnia 5 kwietnia 2002 r. o europejskich radach zakładowych (Dz. U. Nr 62, poz. 556, z 2004 r. Nr 96, poz. 959 oraz z 2005 r. Nr 62, poz. 551), zwanej dalej „ustawą o europejskich radach zakładowych”;
+- **2)** zakład – jednostkę organizacyjną nieposiadającą osobowości prawnej, wykonującą działalność gospodarczą w oparciu o wydzielony zespół ludzi i środków materialnych;
+- **3)** zainteresowana spółka zależna lub zakład – spółkę zależną lub zakład podmiotu uczestniczącego, mające stać się spółką zależną lub zakładem SCE po jej założeniu;
+- **4)** pracownik – osobę uznawaną za pracownika przez prawo danego państwa członkowskiego, które znajduje zastosowanie do stosunków pracy;
+- **5)** przedstawiciel pracowników – przedstawiciela pracowników w rozumieniu prawa państwa członkowskiego lub zgodnie z praktyką tego państwa;
+- **6)** specjalny zespół negocjacyjny – zespół utworzony zgodnie z przepisami rozdziału 1 działu 2 niniejszego tytułu w celu prowadzenia negocjacji dotyczących zawarcia porozumienia o zaangażowaniu pracowników w SCE z podmiotami uczestniczącymi;
+- **7)** organ przedstawicielski – organ reprezentujący pracowników, utworzony na mocy porozumienia, o którym mowa w rozdziale 2 działu 2 niniejszego tytułu lub na mocy przepisów rozdziału 3 działu 2 niniejszego tytułu;
+- **8)** zaangażowanie pracowników – zapewnienie prawa pracowników do informacji, konsultacji i uczestnictwa, umożliwiające im wywieranie wpływu na decyzje podejmowane w SCE;
+- **9)** informowanie – informowanie organu przedstawicielskiego lub, w razie niepowołania takiego organu, ustanowionych w inny sposób przedstawicieli pracowników, w sprawach dotyczących SCE oraz jej spółek zależnych i zakładów mających siedzibę w różnych państwach członkowskich, jak również w sprawach wykraczających poza uprawnienia organów spółek zależnych lub zakładów podejmujących decyzje w danych państwach członkowskich, w zakresie, formie i terminie umożliwiających organowi przedstawicielskiemu lub ustanowionym w inny sposób przedstawicielom pracowników przeanalizowanie dostarczonych informacji i przygotowanie się do konsultacji z właściwym organem SCE;
+- **10)** konsultacje – wymianę poglądów i podjęcie dialogu między organem przedstawicielskim lub ustanowionymi w inny sposób przedstawicielami pracowników a właściwym organem SCE w zakresie, formie i terminie umożliwiających wzięcie pod uwagę opinii wydanej po ich zakończeniu przy podejmowaniu decyzji w SCE;
+- **11)** uczestnictwo – wpływ organu przedstawicielskiego lub ustanowionych w inny sposób przedstawicieli pracowników na sprawy SCE przez prawo wyboru lub wyznaczenia określonej liczby członków do rady nadzorczej albo rady administrującej SCE, albo prawo ich rekomendowania lub prawo sprzeciwienia się wyznaczeniu niektórych albo wszystkich członków tych organów;
+- **12)** dane identyfikacyjne – imię i nazwisko, nazwę lub firmę podmiotów uczestniczących, zainteresowanych spółek zależnych lub zakładów, ich miejsce zamieszkania lub siedzibę, a jeżeli posiadają one numer identyfikacyjny lub są zarejestrowane w rejestrze – także ten numer identyfikacyjny lub numer w rejestrze.
+
+### Dział 2 Procedura negocjacyjna mająca zastosowanie do spółdzielni europejskiej utworzonej przez co najmniej dwie osoby prawne lub powstałej w drodze przekształcenia
 
 #### Rozdział 1 Specjalny zespół negocjacyjny
 
@@ -252,21 +278,21 @@ source: "isap-pdf"
 
 **Art. 40.**
 
-1. Na każdą grupę pracowników zatrudnionych w danym państwie członkowskim, obejmującą 10 % liczby pracowników zatrudnionych ogółem w podmiotach uczestniczących oraz zainteresowanych spółkach zależnych i zakładach we wszystkich państwach członkowskich, przypada jedno miejsce w specjalnym zespole negocjacyjnym.
+1. Na każdą grupę pracowników zatrudnionych w danym państwie członkowskim, obejmującą 10% liczby pracowników zatrudnionych ogółem w podmiotach uczestniczących oraz zainteresowanych spółkach zależnych i zakładach we wszystkich państwach członkowskich, przypada jedno miejsce w specjalnym zespole negocjacyjnym.
 
-2. W przypadku gdy liczba pracowników zatrudnionych w danym państwie członkowskim jest mniejsza od liczby stanowiącej 10 % liczby pracowników zatrudnionych ogółem, to jedno miejsce w specjalnym zespole negocjacyjnym przypada w tym państwie na grupę pracowników liczącą mniej niż 10 % liczby pracowników zatrudnionych ogółem.
+2. W przypadku gdy liczba pracowników zatrudnionych w danym państwie członkowskim jest mniejsza od liczby stanowiącej 10% liczby pracowników zatrudnionych ogółem, to jedno miejsce w specjalnym zespole negocjacyjnym przypada w tym państwie na grupę pracowników liczącą mniej niż 10% liczby pracowników zatrudnionych ogółem.
 
-3. W przypadku gdy liczba pracowników zatrudnionych w danym państwie członkowskim jest większa od liczby stanowiącej 10 % liczby pracowników zatrudnionych ogółem, to jedno miejsce w specjalnym zespole negocjacyjnym przypada na każdą następną grupę pracowników rozpoczynającą tworzenie kolejnej grupy pracowników liczącej 10 % liczby pracowników zatrudnionych ogółem.
+3. W przypadku gdy liczba pracowników zatrudnionych w danym państwie członkowskim jest większa od liczby stanowiącej 10% liczby pracowników zatrudnionych ogółem, to jedno miejsce w specjalnym zespole negocjacyjnym przypada na każdą następną grupę pracowników rozpoczynającą tworzenie kolejnej grupy pracowników liczącej 10% liczby pracowników zatrudnionych ogółem.
 
 4. W przypadku gdy SCE jest tworzona w drodze połączenia spółdzielni, w wyniku którego jedna lub więcej spółdzielni uczestniczących utraci z dniem rejestracji SCE osobowość prawną, pracownicy takiej spółdzielni mają prawo wyboru lub wyznaczenia zgodnie z prawem danego państwa członkowskiego dodatkowo jednego członka specjalnego zespołu negocjacyjnego, przy czym nie może to prowadzić do sytuacji, aby w składzie tego zespołu pracownicy takiej spółdzielni byli podwójnie reprezentowani.
 
-5. Liczba dodatkowych członków specjalnego zespołu negocjacyjnego pochodzących z danego państwa członkowskiego nie może przekroczyć 20 % członków tego zespołu wybranych lub wyznaczonych zgodnie z ust. 1–3.
+5. Liczba dodatkowych członków specjalnego zespołu negocjacyjnego pochodzących z danego państwa członkowskiego nie może przekroczyć 20% członków tego zespołu wybranych lub wyznaczonych zgodnie z ust. 1–3.
 
 6. Jeżeli liczba tracących osobowość prawną spółdzielni uczestniczących, o których mowa w ust. 4, przewyższa liczbę dostępnych dodatkowych miejsc, to dodatkowe miejsca przydziela się pracownikom tych spółdzielni w kolejności zmniejszającej się liczby pracowników zatrudnionych w każdej z tych spółdzielni.
 
 **Art. 41.**
 
-1. W przypadku gdy pracownicy podmiotu uczestniczącego, zainteresowanej spółki zależnej albo zakładu, mających wejść w skład SCE, są zatrudnieni w Rzeczypospolitej Polskiej u jednego pracodawcy, członków specjalnego zespołu negocjacyjnego wyznacza reprezentatywna zakładowa organizacja związkowa w rozumieniu art. 25 ust. 1 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2025 r. poz. 440 i 1661). Przepisy art. 25 ust. 3, 4, 6 i 7 ustawy z dnia 23 maja 1991 r. o związkach zawodowych stosuje się odpowiednio. W przypadku braku takiej organizacji, członków specjalnego zespołu negocjacyjnego wybiera zebranie załogi.
+1. W przypadku gdy pracownicy podmiotu uczestniczącego, zainteresowanej spółki zależnej albo zakładu, mających wejść w skład SCE, są zatrudnieni w Rzeczypospolitej Polskiej u jednego pracodawcy, członków specjalnego zespołu negocjacyjnego wyznacza reprezentatywna zakładowa organizacja związkowa w rozumieniu art. 24125a § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.), zwanej dalej „Kodeksem pracy”. Przepisy art. 24125a § 3–5 Kodeksu pracy stosuje się odpowiednio. W przypadku braku takiej organizacji, członków specjalnego zespołu negocjacyjnego wybiera zebranie załogi.
 
 2. W przypadku gdy u jednego pracodawcy działa więcej niż jedna reprezentatywna zakładowa organizacja związkowa, organizacje te wyznaczają wspólnie członków specjalnego zespołu negocjacyjnego.
 
@@ -274,7 +300,7 @@ source: "isap-pdf"
 
 4. Jeżeli porozumienie między reprezentatywnymi zakładowymi organizacjami związkowymi, o których mowa w ust. 2, nie zostanie osiągnięte, członków specjalnego zespołu negocjacyjnego wybiera zebranie załogi spośród kandydatów zgłoszonych przez reprezentatywne zakładowe organizacje związkowe. W przypadku gdy reprezentatywne zakładowe organizacje związkowe nie zgłoszą kandydatów, członków specjalnego zespołu negocjacyjnego wybiera zebranie załogi.
 
-5. Członkami specjalnego zespołu negocjacyjnego mogą zostać przedstawiciele organizacji związkowej, reprezentatywnej w rozumieniu ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. z 2018 r. poz. 2232, z późn. zm. ), niebędący pracownikami podmiotu uczestniczącego, zainteresowanej spółki zależnej lub zakładu, rekomendowani przez tę organizację.
+5. Członkami specjalnego zespołu negocjacyjnego mogą zostać przedstawiciele organizacji związkowej reprezentatywnej w rozumieniu art. 6 ust. 2 ustawy z dnia 6 lipca 2001 r. o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego (Dz. U. Nr 100, poz. 1080, z późn. zm.) niebędący pracownikami podmiotu uczestniczącego, zainteresowanej spółki zależnej lub zakładu, rekomendowani przez tę organizację.
 
 6. Większość w specjalnym zespole negocjacyjnym powinni stanowić pracownicy podmiotów uczestniczących, zainteresowanych spółek zależnych lub zakładów.
 
@@ -282,13 +308,13 @@ source: "isap-pdf"
 
 **Art. 42.**
 
-1. Wybory członków specjalnego zespołu negocjacyjnego organizuje podmiot uczestniczący, spółka zależna lub kierownictwo zakładu, powiadamiając pracowników, zakładowe organizacje związkowe oraz organizacje związkowe, o których mowa w art. 41 ust. 5, o terminie i sposobie ich przeprowadzenia niepóźniej niż na 14 dni przed dniem wyborów, w sposób przyjęty u danego pracodawcy.
+1. Wybory członków specjalnego zespołu negocjacyjnego organizuje podmiot uczestniczący, spółka zależna lub kierownictwo zakładu, powiadamiając pracowników, zakładowe organizacje związkowe oraz organizacje związkowe, o których mowa w art. 41 ust. 5, o terminie i sposobie ich przeprowadzenia nie później niż na 14 dni przed dniem wyborów, w sposób przyjęty u danego pracodawcy.
 
 2. Wybory są bezpośrednie i odbywają się w głosowaniu tajnym. Uchwały o wyborze członków specjalnego zespołu negocjacyjnego są podejmowane zwykłą większością głosów.
 
-3. Wybory są ważne, jeżeli uczestniczyło w nich co najmniej 50 % pracowników.
+3. Wybory są ważne, jeżeli uczestniczyło w nich co najmniej 50% pracowników.
 
-4. W przypadku gdy w wyborach nie uczestniczyło co najmniej 50 % pracowników, po upływie miesiąca od dnia wyborów przeprowadza się ponowne wybory, które są ważne bez względu na liczbę uczestniczących w nich pracowników.
+4. W przypadku gdy w wyborach nie uczestniczyło co najmniej 50% pracowników, po upływie miesiąca od dnia wyborów przeprowadza się ponowne wybory, które są ważne bez względu na liczbę uczestniczących w nich pracowników.
 
 **Art. 43.**
 
@@ -363,7 +389,7 @@ source: "isap-pdf"
 
 **Art. 54.** Specjalny zespół negocjacyjny oraz podmioty uczestniczące prowadzą negocjacje w dobrej wierze w sposób zmierzający do zawarcia porozumienia.
 
-**Art. 55.** W przypadku wystąpienia trudności w negocjacjach strony mogą powołać mediatora, do którego stosuje się odpowiednio przepisy art. 11 i art. 11 ustawy z dnia 23 maja 1991 r. o rozwiązywaniu sporów zbiorowych (Dz. U. z 2020 r. poz. 123 oraz z 2025 r. poz. 1661), jeżeli statutowa siedziba SCE ma być zarejestrowana w Rzeczypospolitej Polskiej.
+**Art. 55.** W przypadku wystąpienia trudności w negocjacjach strony mogą powołać mediatora, do którego stosuje się odpowiednio przepisy art. 11 i art. 111 ustawy z dnia 23 maja 1991 r. o rozwiązywaniu sporów zbiorowych (Dz. U. Nr 55, poz. 236, z późn. zm.), jeżeli statutowa siedziba SCE ma być zarejestrowana w Rzeczypospolitej Polskiej.
 
 **Art. 56.**
 
@@ -383,7 +409,7 @@ source: "isap-pdf"
 
 4. Przepisów ust. 1 i 2 nie stosuje się w przypadku utworzenia SCE w drodze przekształcenia, jeżeli w spółdzielni, która ma być przekształcana, jest zapewnione uczestnictwo pracowników.
 
-5. Specjalny zespół negocjacyjny zbiera się ponownie na pisemny wniosek co najmniej 10 % pracowników zatrudnionych w SCE, jej spółkach zależnych i zakładach lub ich przedstawicieli – po dwóch latach od podjęcia uchwały, o której mowa w ust. 1, chyba że specjalny zespół negocjacyjny i SCE ustalą krótszy termin. W przypadku nieosiągnięcia porozumienia w wyniku ponownych negocjacji nie stosuje się przepisów rozdziału 3 niniejszego działu.
+5. Specjalny zespół negocjacyjny zbiera się ponownie na pisemny wniosek co najmniej 10% pracowników zatrudnionych w SCE, jej spółkach zależnych i zakładach lub ich przedstawicieli – po dwóch latach od podjęcia uchwały, o której mowa w ust. 1, chyba że specjalny zespół negocjacyjny i SCE ustalą krótszy termin. W przypadku nieosiągnięcia porozumienia w wyniku ponownych negocjacji nie stosuje się przepisów rozdziału 3 niniejszego działu.
 
 6. Do SCE będącej przedsiębiorstwem o zasięgu wspólnotowym lub przedsiębiorstwem kontrolującym grupę przedsiębiorstw o zasięgu wspólnotowym, w rozumieniu odpowiednio art. 2 pkt 3 i 4 ustawy o europejskich radach zakładowych, nie stosuje się przepisów tej ustawy, chyba że specjalny zespół negocjacyjny podejmie uchwałę, o której mowa w ust. 1.
 
@@ -410,7 +436,21 @@ source: "isap-pdf"
 
 **Art. 60.** Zasady standardowe zaangażowania pracowników w SCE, określone w niniejszym rozdziale, stosuje się od dnia jej rejestracji, w przypadku gdy:
 
+- **1)** podmioty uczestniczące i specjalny zespół negocjacyjny tak postanowią albo
+- **2)** porozumienie nie zostanie zawarte w terminie określonym w art. 53 i: właściwe organy podmiotów uczestniczących zdecydują o stosowaniu tych zasad i tym samym o kontynuowaniu postępowania rejestracyjnego i specjalny zespół negocjacyjny nie podejmie uchwały, o której mowa w art. 57 ust. 1.
+    - **a)**
+    - **b)**
+
 **Art. 61.** Zasady standardowe uczestnictwa w SCE stosuje się wyłącznie w przypadkach:
+
+- **1)** utworzenia SCE w drodze przekształcenia spółdzielni, jeżeli zgodnie z prawem państwa członkowskiego przepisy odnoszące się do uczestnictwa w radzie nadzorczej albo radzie administrującej spółdzielni miały zastosowanie do spółdzielni przekształconej w SCE;
+- **2)** utworzenia SCE w drodze połączenia, gdy: przed dniem rejestracji SCE jedna lub więcej form uczestnictwa były stosowane w jednej lub więcej spółdzielniach uczestniczących, obejmujących co najmniej 25% łącznej liczby pracowników we wszystkich spółdzielniach uczestniczących, albo przed dniem rejestracji SCE jedna lub więcej form uczestnictwa były stosowane w jednej lub więcej spółdzielniach uczestniczących, obejmujących mniej niż 25% łącznej liczby pracowników we wszystkich spółdzielniach uczestniczących, o ile specjalny zespół negocjacyjny tak postanowi. Specjalny zespół negocjacyjny podejmuje decyzję w tej sprawie po upływie terminu, o którym mowa w art. 53, lub przed upływem tego terminu, jeżeli strony zgodnie oświadczą, że negocjacje nad zawarciem porozumienia zakończyły się niepowodzeniem;
+    - **a)**
+    - **b)**
+
+- **3)** utworzenia SCE w inny sposób niż określony w pkt 1 i 2, gdy: przed dniem rejestracji SCE jedna lub więcej form uczestnictwa byty stosowane w jednym lub więcej podmiotów uczestniczących, obejmujących co najmniej 50% łącznej liczby pracowników we wszystkich podmiotach uczestniczących, albo przed dniem rejestracji SCE jedna lub więcej form uczestnictwa były stosowane w jednym lub więcej podmiotów uczestniczących, obejmujących mniej niż 50% łącznej liczby pracowników we wszystkich podmiotach uczestniczących, o ile specjalny zespół negocjacyjny tak postanowi. Specjalny zespół negocjacyjny podejmuje decyzję w tej sprawie po upływie terminu, o którym mowa w art. 53, lub przed upływem tego terminu, jeżeli strony zgodnie oświadczą, że negocjacje nad zawarciem porozumienia zakończyły się niepowodzeniem.
+    - **a)**
+    - **b)**
 
 **Art. 62.**
 
@@ -434,7 +474,7 @@ source: "isap-pdf"
 
 1. Liczba członków organu przedstawicielskiego oraz podział miejsc w tym organie podlegają weryfikacji co 2 lata, stosownie do zmiany liczby pracowników zatrudnionych w SCE, jej spółkach zależnych i zakładach.
 
-2. W przypadku wystąpienia istotnej zmiany liczby pracowników zatrudnionych w SCE, jej spółkach zależnych i zakładach, właściwy organ SCE zwraca się do przedstawicieli pracowników, a w razie ich braku – do pracowników zatrudnionych w poszczególnych państwach członkowskich, o dokonanie ponownego wyznaczenia lub wyboru członków organu przedstawicielskiego w liczbie określonej w art. 40 ust. 1–3.
+2. W przypadku wystąpienia istotnej zmiany liczby pracowników zatrudnionych w SCE, jej spółkach zależnych i zakładach, właściwy organ SCE zwraca się do przedstawicieli pracowników, a w razie ich braku – do pracowników zatrudnionych w poszczególnych państwach członkowskich, o dokonanie ponownego wyznaczenia lub wyboru członków organu przedstawicielskiego w liczbie określonej w art. 40 ust. 1–3,
 
 3. Z dniem wyznaczenia lub wyboru nowych członków organu przedstawicielskiego kończy się kadencja członków organu przedstawicielskiego pochodzących z państwa członkowskiego, którego dotyczą zmiany.
 
@@ -447,6 +487,10 @@ source: "isap-pdf"
 **Art. 67.** Organ przedstawicielski niezwłocznie zawiadamia właściwy organ SCE o swym składzie. Właściwy organ SCE przekazuje informację o składzie organu przedstawicielskiego właściwym organom spółek zależnych i kierownictwom zakładów.
 
 **Art. 68.** Właściwy organ SCE niezwłocznie po otrzymaniu informacji o składzie organu przedstawicielskiego zwołuje zebranie organizacyjne, na którym:
+
+- **1)** następuje ukonstytuowanie się organu przedstawicielskiego;
+- **2)** organ przedstawicielski wybiera ze swojego składu przewodniczącego;
+- **3)** organ przedstawicielski uchwala wewnętrzny regulamin.
 
 **Art. 69.**
 
@@ -549,7 +593,7 @@ source: "isap-pdf"
 
 **Art. 87.** Członkom rady nadzorczej albo rady administrującej SCE, wybranym, wyznaczonym lub rekomendowanym, zgodnie ze stosowanymi formami uczestnictwa, przysługują prawa i obowiązki, w tym prawo głosu, na równi z innymi członkami tych organów.
 
-### DZIAŁ 3 Procedura negocjacyjna mająca zastosowanie do spółdzielni europejskiej utworzonej wyłącznie przez osoby fizyczne lub przez jedną osobę prawną i osoby fizyczne
+### Dział 3 Procedura negocjacyjna mająca zastosowanie do spółdzielni europejskiej utworzonej wyłącznie przez osoby fizyczne lub przez jedną osobę prawną i osoby fizyczne
 
 **Art. 88.** Do SCE utworzonej wyłącznie przez osoby fizyczne lub przez jedną osobę prawną i osoby fizyczne, które łącznie zatrudniają co najmniej 50 pracowników w co najmniej dwóch państwach członkowskich, stosuje się przepisy działu 2 niniejszego tytułu.
 
@@ -565,7 +609,7 @@ source: "isap-pdf"
 
 **Art. 91.** W przypadku gdy po rejestracji SCE, o której mowa w art. 89, przynajmniej jedna trzecia ogólnej liczby pracowników tej SCE i jej spółek zależnych oraz zakładów, w co najmniej dwóch różnych państwach członkowskich wystąpi z takim wnioskiem lub gdy łączna liczba zatrudnionych wyniesie co najmniej 50 pracowników, stosuje się przepisy działu 2 niniejszego tytułu. W takich przypadkach SCE oraz jej spółkom zależnym lub zakładom przysługują uprawnienia podmiotów uczestniczących oraz zainteresowanych spółek zależnych lub zakładów.
 
-### DZIAŁ 4 Zakaz ujawniania informacji stanowiących tajemnicę przedsiębiorstw
+### Dział 4 Zakaz ujawniania informacji stanowiących tajemnicę przedsiębiorstw
 
 **Art. 92.**
 
@@ -579,7 +623,7 @@ source: "isap-pdf"
 
 2. W przypadku powzięcia wątpliwości, czy zastrzeżenie poufności informacji lub ich nieudostępnienie jest zgodne z art. 92 lub ust. 1, specjalny zespół negocjacyjny, organ przedstawicielski lub inni przedstawiciele pracowników, ustanowieni w trybie, o którym mowa w art. 58 ust. 1 pkt 6, mogą wystąpić do sądu rejonowego – sądu gospodarczego z wnioskiem o ustalenie, czy zastrzeżenie poufności informacji lub ich nieudostępnienie jest zgodne z art. 92 lub ust. 1, oraz zwolnienie z obowiązku zachowania poufności informacji lub o nakazanie udostępnienia informacji.
 
-3. W sprawach, o których mowa w ust. 2, stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o rozpoznawaniu spraw z zakresu przepisów o przedsiębiorstwach państwowych i o samorządzie załogi przedsiębiorstwa państwowego, z wyłączeniem art. 691 § 2 i art. 691 . Zdolność sądową w tych sprawach ma specjalny zespół negocjacyjny, organ przedstawicielski, inni przedstawiciele pracowników ustanowieni na podstawie porozumienia zawartego zgodnie z art. 58 ust. 1 pkt 6 oraz właściwy organ SCE.
+3. W sprawach, o których mowa w ust. 2, stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o rozpoznawaniu spraw z zakresu przepisów o przedsiębiorstwach państwowych i o samorządzie załogi przedsiębiorstwa państwowego, z wyłączeniem art. 6911 § 2 i art. 6917. Zdolność sądową w tych sprawach ma specjalny zespół negocjacyjny, organ przedstawicielski, inni przedstawiciele pracowników ustanowieni na podstawie porozumienia zawartego zgodnie z art. 58 ust. 1 pkt 6 oraz właściwy organ SCE.
 
 **Art. 94.**
 
@@ -589,7 +633,7 @@ source: "isap-pdf"
 
 **Art. 95.** Przepisy art. 92–94 nie naruszają przepisów o ochronie informacji niejawnych oraz przepisów o innych tajemnicach chronionych prawem.
 
-### DZIAŁ 5 Ochrona praw pracowników w zakresie zaangażowania
+### Dział 5 Ochrona praw pracowników w zakresie zaangażowania
 
 #### Rozdział 1 Ochrona przedstawicieli pracowników
 
@@ -597,7 +641,7 @@ source: "isap-pdf"
 
 **Art. 97.** Pracodawca nie może zmienić jednostronnie warunków pracy lub płacy na niekorzyść pracownika będącego członkiem specjalnego zespołu negocjacyjnego, organu przedstawicielskiego albo przedstawicielem pracowników w radzie nadzorczej albo radzie administrującej SCE w czasie trwania mandatu oraz w okresie roku po jego wygaśnięciu bez zgody reprezentującej pracownika zakładowej organizacji związkowej, a jeżeli pracownik nie jest reprezentowany przez zakładową organizację związkową – bez zgody okręgowego inspektora pracy właściwego miejscowo dla siedziby pracodawcy.
 
-**Art. 98.** Pracownik, będący członkiem organów, o których mowa w art. 96, w związku z udziałem w pracach tych organów, ma prawo do zwolnienia od pracy zawodowej z zachowaniem prawa do wynagrodzenia na zasadach dotyczących członka zarządu zakładowej organizacji związkowej, określonych w art. 31 ust. 3 ustawy z dnia 23 maja 1991 r. o związkach zawodowych.
+**Art. 98.** Pracownik, będący członkiem organów, o których mowa w art. 96, w związku z udziałem w pracach tych organów, ma prawo do zwolnienia od pracy zawodowej z zachowaniem prawa do wynagrodzenia na zasadach dotyczących członka zarządu zakładowej organizacji związkowej, określonych w art. 31 ust. 3 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2001 r. Nr 79, poz. 854, z późn. zm.).
 
 **Art. 99.** Przepisy art. 96–98 stosuje się odpowiednio do przedstawicieli pracowników ustanowionych w trybie, o którym mowa w art. 58 ust. 1 pkt 6, innych niż członkowie organu przedstawicielskiego.
 
@@ -613,7 +657,7 @@ source: "isap-pdf"
 
 **Art. 101.** W przypadkach określonych w art. 60–62 do zaangażowania pracowników w zmienionych warunkach stosuje się przepisy rozdziału 3 działu 2 niniejszego tytułu w takim zakresie, w jakim zmiany zagrażają pozbawieniem lub ograniczeniem praw pracowników.
 
-## TYTUŁ IV Przepisy porządkowe i karne
+## Tytuł IV Przepisy porządkowe i karne
 
 **Art. 102.**
 
@@ -631,13 +675,17 @@ source: "isap-pdf"
 
 **Art. 103.** Kto, będąc członkiem zarządu, członkiem rady administrującej albo likwidatorem SCE, dopuszcza do tego, że pisma i zamówienia handlowe lub inne pisma skierowane do oznaczonych osób nie zawierają wszystkich następujących danych:
 
+- **1)** firmy SCE, którą poprzedza albo po której następuje oznaczenie „SCE”, a w odpowiednich przypadkach również oznaczenie „z ograniczoną odpowiedzialnością”,
+- **2)** siedziby i adresu SCE,
+- **3)** oznaczenia sądu rejestrowego i numeru, pod którym SCE jest wpisana do rejestru, podlega grzywnie do 10 000 zł.
+
 **Art. 104.** W sprawach, o których mowa w art. 102 i 103, grzywnę nakłada sąd rejestrowy.
 
 **Art. 105.** Kto, będąc członkiem zarządu, członkiem rady administrującej albo likwidatorem SCE, ogłasza dane nieprawdziwe albo przedstawia je organom SCE, władzom państwowym, członkom SCE lub lustratorowi, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
 **Art. 106.** Kto zamieszcza nieprawdziwe dane albo dołącza nieprawdziwe oświadczenie do wniosku o wydanie zaświadczenia, o którym mowa w art. 29 ust. 2 rozporządzenia, albo zaświadczenia, o którym mowa w art. 7 ust. 8 rozporządzenia, albo do wniosku o wpis SCE do rejestru, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
-**Art. 107.** (uchylony)
+**Art. 107.** Kto, biorąc udział w tworzeniu SCE lub będąc członkiem jej zarządu, członkiem rady nadzorczej, członkiem rady administrującej albo likwidatorem, działa na jej szkodę, podlega karze pozbawienia wolności do 5 lat i grzywnie.
 
 **Art. 108.** Kto, będąc członkiem zarządu, członkiem rady administrującej albo likwidatorem SCE, na których ciąży obowiązek zgłoszenia wniosku o upadłość SCE, nie zgłasza tego wniosku pomimo powstania warunków uzasadniających upadłość SCE, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
@@ -669,19 +717,91 @@ source: "isap-pdf"
 - **2)** uniemożliwia lub utrudnia działanie specjalnego zespołu negocjacyjnego lub organu przedstawicielskiego,
 - **3)** dyskryminuje członka specjalnego zespołu negocjacyjnego, członka organu przedstawicielskiego lub przedstawiciela pracowników w związku z pełnioną przez niego funkcją, podlega karze ograniczenia wolności albo grzywny.
 
-2. Postępowanie w sprawach określonych w ust. 1 toczy się na podstawie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, 1178, 1661, 1814, 1818 i 1872). W tych sprawach oskarżycielem publicznym jest inspektor pracy.
+2. Postępowanie w sprawach określonych w ust. 1 toczy się na podstawie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. Nr 106, poz. 1148, z późn. zm.). W tych sprawach oskarżycielem publicznym jest inspektor pracy.
 
-## TYTUŁ V Zmiany w przepisach obowiązujących
+## Tytuł V Zmiany w przepisach obowiązujących
 
-**Art. 112.** (pominięty)
+**Art. 112.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2001 r. Nr 17, poz. 209, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 113.** (pominięty)
+- **1)** w art. 36 po pkt 8 dodaje się pkt 8a w brzmieniu: „
+- **8a)** spółdzielni europejskich, ” ;
+- **2)** w art. 38 po pkt 9a dodaje się pkt 9b w brzmieniu: „
+- **9b)** w przypadku spółdzielni europejskiej: wysokość kapitału zakładowego (subskrybowanego), liczbę i wartość nominalną udziałów, jeżeli członkowie wnoszą wkłady niepieniężne – zaznaczenie tej okoliczności, z podaniem wartości nominalnej objętych w zamian za nie udziałów; nie dotyczy to spółdzielni europejskiej przenoszącej siedzibę na terytorium Rzeczypospolitej Polskiej, jeżeli statut wskazuje pismo przeznaczone do ogłoszeń spółdzielni europejskiej – oznaczenie tego pisma, wzmiankę o uchwale o emisji obligacji, ” ;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
-**Art. 114.** (pominięty)
+- **3)** w art. 39 po pkt 6 dodaje się pkt 7 w brzmieniu: „
+- **7)** oznaczenie dyrektorów wykonawczych spółdzielni europejskiej, a w przypadku wyboru przez spółdzielnię europejską systemu monistycznego – oznaczenie rady administrującej oraz osób wchodzących w jej skład. ” ;
+- **4)** w art. 44 w ust. 1 pkt 6 otrzymuje brzmienie: „
+- **6)** dla spółki europejskiej, europejskiego zgrupowania interesów gospodarczych i spółdzielni europejskiej – wzmiankę o złożeniu planu przeniesienia siedziby, a w przypadku wykreślenia z uwagi na zmianę siedziby – informację o państwie, do którego przeniesiono siedzibę, i rejestrze, do którego wpisano podmiot. ” .
 
-**Art. 115.** (pominięty)
+**Art. 113.** W ustawie z dnia 5 kwietnia 2002 r. o europejskich radach zakładowych (Dz. U. Nr 62, poz. 556, z 2004 r. Nr 96, poz. 959 oraz z 2005 r. Nr 62, poz. 551) w art. 1 po ust. 4 dodaje się ust. 5 w brzmieniu: „ 5. Przepisów ustawy nie stosuje się do przedsiębiorstw i grup przedsiębiorstw mających status spółdzielni europejskiej w rozumieniu przepisów ustawy z dnia 22 lipca 2006 r. o spółdzielni europejskiej (Dz. U. Nr 149, poz. 1077), chyba że zachodzi przypadek, o którym mowa w przepisie art. 57 ust. 3 tej ustawy. ” .
 
-## TYTUŁ VI Przepis końcowy
+**Art. 114.** W ustawie z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników (Dz. U. Nr 90, poz. 844, z późn. zm.) w art. 5 w ust. 5 po pkt 4b dodaje się pkt 4c w brzmieniu: „
+
+- **4c)** będącemu członkiem specjalnego zespołu negocjacyjnego, organu przedstawicielskiego lub przedstawicielem pracowników w spółdzielni europejskiej; ” .
+
+**Art. 115.** W ustawie z dnia 4 marca 2005 r. o europejskim zgrupowaniu interesów gospodarczych i spółce europejskiej (Dz. U. Nr 62, poz. 551 i Nr 183, poz. 1538) wprowadza się następujące zmiany:
+
+- **1)** w art. 20 ust. 4 otrzymuje brzmienie: „
+
+4. W przedmiocie wydania zaświadczenia, o którym mowa w art. 25 ust. 2 rozporządzenia 2157/2001, sąd rejestrowy orzeka postanowieniem, na które przysługuje apelacja. Do postępowania stosuje się odpowiednio przepisy o postępowaniu rejestrowym ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.), zwanej dalej „Kodeksem postępowania cywilnego”. ” ;
+
+- **2)** w art. 52 ust. 4 otrzymuje brzmienie: „
+
+4. W przedmiocie wydania zaświadczenia, o którym mowa w art. 8 ust. 8 rozporządzenia 2157/2001, sąd rejestrowy orzeka postanowieniem, na które przysługuje apelacja. Do postępowania stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o postępowaniu rejestrowym. ” ;
+
+- **3)** art. 56 otrzymuje brzmienie: „
+
+1. Na postanowienia sądu rejestrowego w sprawach wezwania do przywrócenia zgodności siedziby statutowej i zarządu głównego, zastosowania grzywien, ustanowienia kuratora, jego odwołania i odmowy jego odwołania przysługuje zażalenie.
+
+2. Wniesienie zażalenia na postanowienie w sprawie wezwania do przywrócenia zgodności siedziby statutowej i zarządu głównego wstrzymuje bieg terminu wyznaczonego w celu usunięcia niezgodności.
+
+3. Na postanowienie sądu w sprawie rozwiązania SE przysługuje apelacja. ” ;
+
+- **4)** w art. 66 ust. 2 otrzymuje brzmienie: „
+
+2. Wybory są bezpośrednie i odbywają się w głosowaniu tajnym. Uchwały o wyborze członków specjalnego zespołu negocjacyjnego są podejmowane zwykłą większością głosów. ” ;
+
+- **5)** w art. 123 ust. 1 otrzymuje brzmienie: „
+
+1. Kto, będąc członkiem zarządu, członkiem rady administrującej lub dyrektorem wykonawczym SE, wbrew ciążącemu na nim obowiązkowi, dopuszcza do tego, że w tej SE:
+
+- **1)** nie prowadzi się księgi akcyjnej zgodnie z przepisem art. 341 § 1 Kodeksu spółek handlowych,
+- **2)** nie zwołuje się walnego zgromadzenia,
+- **3)** osobie powołanej do rewizji odmawia się wyjaśnień lub nie dopuszcza się jej do pełnienia obowiązków,
+- **4)** sądowi rejestrowemu nie przedstawia się wniosku o wyznaczenie biegłych rewidentów,
+- **5)** nie ogłasza się wzmianki o złożeniu opinii przez biegłego rewidenta w sądzie rejestrowym zgodnie z przepisem art. 312 § 7 Kodeksu spółek handlowych, podlega grzywnie do 20 000 zł. ” ;
+- **6)** art. 124 otrzymuje brzmienie: „
+
+**Art. 124.** Kto, będąc członkiem zarządu, członkiem rady administrującej lub dyrektorem wykonawczym albo likwidatorem SE, dopuszcza do tego, że pisma i zamówienia handlowe, o których mowa w art. 374 § 1 Kodeksu spółek handlowych, nie zawierają danych określonych w tym przepisie, podlega grzywnie do 10 000 zł. ” ;
+
+- **7)** art. 129 otrzymuje brzmienie: „
+
+**Art. 129.** Kto, będąc członkiem zarządu, członkiem rady administrującej lub dyrektorem wykonawczym albo likwidatorem SE, na których ciąży obowiązek zgłoszenia wniosku o upadłość SE, nie zgłasza tego wniosku pomimo powstania warunków uzasadniających upadłość SE według przepisów o postępowaniu upadłościowym i naprawczym, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku. ” ;
+
+- **8)** art. 130 otrzymuje brzmienie: „
+
+**Art. 130.** Kto, biorąc udział w tworzeniu SE lub będąc członkiem jej zarządu, członkiem rady nadzorczej, członkiem rady administrującej lub dyrektorem wykonawczym albo likwidatorem, działa na jej szkodę, podlega karze pozbawienia wolności do lat 5 i grzywnie. ” ;
+
+- **9)** art. 131 otrzymuje brzmienie: „
+
+**Art. 131.** Kto, będąc członkiem zarządu, członkiem rady administrującej lub dyrektorem wykonawczym albo likwidatorem SE, dopuszcza do nabycia przez SE akcji własnych albo do brania ich w zastaw, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do 6 miesięcy. ” ;
+
+- **10)** art. 132 otrzymuje brzmienie: „
+
+**Art. 132.** Kto, będąc członkiem zarządu, członkiem rady administrującej lub dyrektorem wykonawczym SE, dopuszcza do wydania dokumentów uprawniających do wykonywania praw z akcji:
+
+- **1)** niedostatecznie opłaconych,
+- **2)** przed zarejestrowaniem SE,
+- **3)** w przypadku podwyższenia kapitału zakładowego – przed zarejestrowaniem podwyższenia, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku. ” .
+
+## Tytuł VI Przepis końcowy
 
 **Art. 116.** Ustawa wchodzi w życie z dniem 18 sierpnia 2006 r.
+
+- **1)** Przepisy ustawy wykonują postanowienia rozporządzenia Rady nr 1435/2003/WE z dnia 22 lipca 2003 r. w sprawie statutu spółdzielni europejskiej (SCE) (Dz. Urz. WE L 207 z 18.08.2003, s. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 17, t. 1, s. 280) oraz wdrażają dyrektywę Rady 2003/72/WE z dnia 22 lipca 2003 r. uzupełniającą statut spółdzielni europejskiej w odniesieniu do zaangażowania pracowników (Dz. Urz. WE L 207 z 18.08.2003, s. 25; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 4, s. 338). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 111, poz. 1195, z 2002 r. Nr 141, poz. 1178 i Nr 216, poz. 1824, z 2003 r. Nr 137, poz. 1303 i Nr 228, poz. 2260 oraz z 2004 r. Nr 91, poz. 870. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 101, poz. 1178, z 2001 r. Nr 8, poz. 64 i Nr 100, poz. 1081, z 2002 r. Nr 169, poz. 1387 i Nr 241, poz. 2074 oraz z 2004 r. Nr 68, poz. 623 i Nr 146, poz. 1546. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1117, z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276, z 2005 r. Nr 132, poz. 1108, Nr 183, poz. 1538 i Nr 184, poz. 1539 oraz z 2006 r. Nr 133, poz. 935. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 60, poz. 535, Nr 124, poz. 1152, Nr 139, poz. 1324 i Nr 229, poz. 2276, z 2004 r. Nr 96, poz. 959, Nr 145, poz. 1535, Nr 146, poz. 1546 i Nr 213, poz. 2155 oraz z 2005 r. Nr 10, poz. 66, Nr 184, poz. 1539 i Nr 267, poz. 2252. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384, z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199, Nr 150, poz. 1239, Nr 167, poz. 1398, Nr 169, poz. 1413 i 1417, Nr 172, poz. 1438, Nr 178, poz. 1478, Nr 183, poz. 1538, Nr 264, poz. 2205 i Nr 267, poz. 2258 oraz z 2006 r. Nr 12, poz. 66, Nr 66, poz. 466 i Nr 104, poz. 708 i 711. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 110, poz. 1189, z 2002 r. Nr 1, poz. 2 i Nr 113, poz. 984, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 96, poz. 874, Nr 217, poz. 2125, Nr 228, poz. 2256 i Nr 229, poz. 2276, z 2004 r. Nr 96, poz. 959, Nr 173, poz. 1808 i Nr 273, poz. 2703 oraz z 2005 r. Nr 62, poz. 551 i Nr 86, poz. 732. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398 oraz z 2006 r. Nr 104, poz. 708 i 711 i Nr 133, poz. 935. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1793 i 1800, z 2002 r. Nr 10, poz. 89 i Nr 240, poz. 2056 oraz z 2004 r. Nr 240, poz. 2407. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 82, poz. 518 i Nr 88, poz. 554, z 1999 r. Nr 72, poz. 802, z 2000 r. Nr 107, poz. 1127, z 2002 r. Nr 74, poz. 676, z 2004 r. Nr 240, poz. 2407 oraz z 2006 r. Nr 104, poz. 708 i 711. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 100, poz. 1080 i Nr 128, poz. 1405, z 2002 r. Nr 135, poz. 1146 i Nr 240, poz. 2052, z 2003 r. Nr 63, poz. 590 i Nr 213, poz. 2081 oraz z 2004 r. Nr 240, poz. 2407. 12) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 109, poz. 1031 i Nr 213, poz. 2081, z 2004 r. Nr 128, poz. 1351 oraz z 2005 r. Nr 132, poz. 1103 i Nr 143, poz. 1203. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 110, poz. 1189, z 2002 r. Nr 1, poz. 2 i Nr 113, poz. 984, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 96, poz. 874, Nr 217, poz. 2125, Nr 228, poz. 2256 i Nr 229, poz. 2276, z 2004 r. Nr 96, poz. 959, Nr 173, poz. 1808 i Nr 273, poz. 2703 oraz z 2005 r. Nr 62, poz. 551 i Nr 86, poz. 732. 14) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 213, poz. 2081 i Nr 223, poz. 2217, z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 62, poz. 551 oraz z 2006 r. Nr 79, poz. 550. 15) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384, z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199, Nr 150, poz. 1239, Nr 167, poz. 1398, Nr 169, poz. 1413 i 1417, Nr 172, poz. 1438, Nr 178, poz. 1478, Nr 183, poz. 1538, Nr 264, poz. 2205 i Nr 267, poz. 2258 oraz z 2006 r. Nr 12, poz. 66, Nr 66, poz. 466 i Nr 104, poz. 708 i 711.
+
 

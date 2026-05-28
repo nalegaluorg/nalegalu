@@ -8,12 +8,10 @@ pos: 1864
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy o zasadach uznawania nabytych w państwach członkowskich Unii Europejskiej kwalifikacji do wykonywania zawodów regulowanych oraz o zmianie niektórych ustaw
-
-*USTAWA z dnia 12 września 2003 r.*
+# Ustawa z dnia 12 września 2003 r. o zmianie ustawy o zasadach uznawania nabytych w państwach członkowskich Unii Europejskiej kwalifikacji do wykonywania zawodów regulowanych oraz o zmianie niektórych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,28 +22,60 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2003-09-12 |
 | Data wydania | 2003-11-06 |
+| Wejście w życie | 2004-05-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031901864) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1864/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 kwietnia 2001 r. o zasadach uznawania nabytych w państwach członkowskich Unii Europejskiej kwalifikacji do wykonywania zawodów regulowanych (Dz.U. Nr 87, poz. 954 oraz z 2002 r. Nr 71, poz. 655) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 26 kwietnia 2001 r. o zasadach uznawania nabytych w państwach członkowskich Unii Europejskiej kwalifikacji do wykonywania zawodów regulowanych (Dz. U. Nr 87, poz. 954 oraz z 2002 r. Nr 71, poz. 655) wprowadza się następujące zmiany:
 
-**Art. 16b.** Ilekroć przepisy regulacyjne lub przepisy odrębne przewidują obowiązek ubezpieczenia odpowiedzialności cywilnej osoby wykonującej zawód regulowany, w przypadku gdy osoba ta zawrze umowę ubezpieczenia z zakładem ubezpieczeń z innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym, obowiązek ten będzie uważany za spełniony, jeżeli osoba ta przedstawi dowód zawarcia umowy ubezpieczenia spełniającej warunki określone w tych przepisach.”.
+- **1)** w art. 2: pkt 4 otrzymuje brzmienie: „
+    - **a)**
 
-**Art. 2.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz.U. z 2003 r. Nr 159, poz. 1548 i Nr 162, poz. 1568) w art. 4a ust. 3 otrzymuje brzmienie: „3. Minister kierujący działem administracji rządowej może, w drodze rozporządzenia, upoważnić do wykonywania zadania określonego w ust. 1 organ lub jednostkę organizacyjną podległą ministrowi, organ samorządu zawodowego, organizację gospodarczą lub organ rejestrowy.”.
+- **4)** państwie wnioskodawcy – oznacza to państwo, w którym wnioskodawca uzyskał kwalifikacje do wykonywania zawodu, ” , w pkt 7: – lit. b otrzymuje brzmienie: „ b) dokumenty wydane przez uprawnioną instytucję, potwierdzające ukończenie studiów wyższych o co najmniej trzyletnim okresie kształcenia lub odpowiednio dłuższym, w przypadku nauki w niepełnym wymiarze, a także ukończenie szkolenia zawodowego, o ile jest wymagane – stanowiące jednocześnie potwierdzenie posiadania kwalifikacji do wykonywania zawodu, niebędącego w państwie wnioskodawcy zawodem regulowanym, oraz dodatkowo dokumenty poświadczające wykonywanie w państwie członkowskim Unii Europejskiej przez wnioskodawcę zawodu przez dwa lata w czasie odpowiadającym pełnemu wymiarowi czasu pracy w okresie ostatnich dziesięciu lat, z tym że wykonywanie zawodu przez dwa lata nie jest wymagane, jeżeli wnioskodawca posiada dokument potwierdzający ukończenie kształcenia regulowanego, albo ” , – po lit. b dodaje się lit. c w brzmieniu: „ c) dokument potwierdzający ukończenie w państwie członkowskim Unii Europejskiej kształcenia regulowanego, świadczący o posiadaniu kwalifikacji na poziomie trzecim, ” , w pkt 8 lit. b otrzymuje brzmienie: „ dokumenty wydane przez uprawnioną instytucję, potwierdzające ukończenie nauki o okresie kształcenia co najmniej rocznym, lecz krótszym niż trzy lata, lub odpowiednio dłuższym w przypadku nauki w niepełnym wymiarze, podejmowanej na podstawie świadectwa uprawniającego do kształcenia w systemie szkolnictwa wyższego, a także dodatkowo ukończenie szkolenia zawodowego, o ile jest to wymagane – stanowiące jednocześnie potwierdzenie posiadania kwalifikacji do wykonywania zawodu, który w państwie wnioskodawcy nie jest zawodem regulowanym, oraz dodatkowo dokumenty poświadczające wykonywanie w państwie członkowskim Unii Europejskiej przez wnioskodawcę zawodu przez dwa lata w czasie odpowiadającym pełnemu wymiarowi czasu pracy lub odpowiednio dłużej w przypadku wykonywania zawodu w niepełnym wymiarze czasu pracy, w okresie ostatnich dziesięciu lat, albo ” , w pkt 9 lit. a i b otrzymują brzmienie: „ dokumenty potwierdzające wykształcenie lub szkolenie, wydane przez uprawnioną instytucję, poświadczające, po zakończeniu nauki z zakresu szkoły średniej ogólnej, technicznej lub zawodowej, ukończenie: – kształcenia lub szkolenia innego niż wymienione w pkt 8 lit. a) pierwsze tiret, w instytucji szkolnictwa lub w zakładzie pracy, uzupełnionego dodatkowo okresem próbnym lub okresem praktyki zawodowej, o ile jest to wymagane, lub – okresu próbnego lub praktyki zawodowej uzupełniającej naukę z zakresu szkoły średniej, stanowiące jednocześnie potwierdzenie posiadania kwalifikacji wymaganych do podjęcia i wykonywania zawodu regulowanego w państwie wnioskodawcy, jeżeli ponad połowę kształcenia i szkolenia odbyto w państwie członkowskim Unii Europejskiej lub poza obszarem Unii Europejskiej w instytucji prowadzącej kształcenie i szkolenie na podstawie przepisów państwa członkowskiego Unii Europejskiej, albo gdy wnioskodawca uzyskał dwuletnie doświadczenie zawodowe poświadczone przez państwo członkowskie Unii Europejskiej, które uznało dokumenty uzyskane w państwie innym niż państwo członkowskie Unii Europejskiej, albo dokumenty wydane przez uprawnioną instytucję po zakończeniu nauki z zakresu szkoły średniej ogólnej, technicznej lub zawodowej, świadczące o ukończeniu: – kształcenia lub szkolenia odbytego w instytucji szkolnictwa lub zakładzie pracy, uzupełnionego dodatkowo okresem próbnym lub okresem praktyki zawodowej, o ile jest to wymagane, lub – okresu próbnego lub praktyki zawodowej uzupełniającej naukę z zakresu szkoły średniej, stanowiące jednocześnie potwierdzenie posiadania kwalifikacji do wykonywania zawodu, który w państwie wnioskodawcy nie jest zawodem regulowanym, oraz dodatkowo dokumenty poświadczające wykonywanie w państwie członkowskim Unii Europejskiej przez wnioskodawcę zawodu przez dwa lata w czasie odpowiadającym pełnemu wymiarowi czasu pracy lub odpowiednio dłużej w przypadku wykonywania zawodu w niepełnym wymiarze czasu pracy, w okresie ostatnich dziesięciu lat, albo ” , pkt 15 otrzymuje brzmienie: „
+    - **b)**
+    - **c)**
+    - **b)**
+    - **d)**
+    - **a)**
+    - **b)**
+    - **e)**
 
-**Art. 3.**
+- **15)** doświadczeniu zawodowym – oznacza to wykonywanie przez wnioskodawcę zawodu w państwie członkowskim Unii Europejskiej, ” ;
+- **2)** w art. 5 dodaje się ust. 3 w brzmieniu: „
 
-- **1)** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz.U. Nr 137, poz. 887, z późn. zm. ) w art. 7 dodaje się pkt 6 w brzmieniu: „6) odbywającym na podstawie nieodpłatnych umów cywilnoprawnych staż adaptacyjny wnioskodawcom-obywatelom państwa członkowskiego Unii Europejskiej w postępowaniu w sprawie uznania kwalifikacji do wykonywania zawodu regulowanego lub działalności regulowanej - w rozumieniu odpowiednio przepisów o zasadach uznawania nabytych w państwach członkowskich Unii Europejskiej kwalifikacji do wykonywania zawodów regulowanych lub przepisów o zasadach uznawania nabytych w państwach członkowskich Unii Europejskiej kwalifikacji do podejmowania lub wykonywania niektórych działalności.”.
+3. W przypadku wnioskodawcy, który odbywa staż adaptacyjny lub przystępuje do testu umiejętności, bieg terminu, o którym mowa w ust. 2, ulega zawieszeniu do dnia uzyskania przez właściwy organ oceny, o której mowa w art. 15. ” ;
 
-**Art. 4.** W ustawie z dnia 9 września 2000 r. o opłacie skarbowej (Dz.U. Nr 86, poz. 960, z późn. zm. ) w w załączniku wprowadza się następujące zmiany:
+- **3)** w art. 7 ust. 3 otrzymuje brzmienie: „
 
-**Art. 5.** W ustawie z dnia 15 grudnia 2000 r. o samorządach zawodowych architektów, inżynierów budownictwa oraz urbanistów (Dz.U. z 2001 r. Nr 5, poz. 42, z 2002 r. Nr 23, poz. 221, Nr 153, poz. 1271 i Nr 240 poz. 2052 oraz z 2003 r. Nr 124, poz. 1152) wprowadza się następujące zmiany:
+3. Wniosek o wszczęcie postępowania w sprawie uznania kwalifikacji powinien zawierać w szczególności:
 
-**Art. 6.** W ustawie z dnia 10 maja 2002 r. o zasadach uznawania nabytych w państwach członkowskich Unii Europejskiej kwalifikacji do podejmowania lub wykonywania niektórych działalności (Dz.U. Nr 71, poz. 655) wprowadza się następujące zmiany:
+- **1)** imię, nazwisko, datę i miejsce urodzenia wnioskodawcy,
+- **2)** nazwę państwa wnioskodawcy,
+- **3)** określenie zawodu regulowanego, dla którego wykonywania mają być uznane kwalifikacje wnioskodawcy,
+- **4)** informację o posiadanych kwalifikacjach, w tym o wykształceniu i doświadczeniu zawodowym wnioskodawcy,
+- **5)** informacje o odbytym kształceniu regulowanym. ” ;
+- **4)** w art. 10 pkt 2 otrzymuje brzmienie: „
+- **2)** odpowiednio, posiadanie kwalifikacji na poziomie trzecim lub kwalifikacji na poziomie drugim, a właściwy organ stwierdzi, że okres praktyki zawodowej odbywanej z udziałem wykwalifikowanego przedstawiciela zawodu, składającej się na posiadane kwalifikacje, jest krótszy o co najmniej rok od okresu praktyki zawodowej wymaganej przepisami regulacyjnymi, może uzależnić decyzję od udokumentowania przez wnioskodawcę posiadania doświadczenia zawodowego o okresie nie dłuższym niż okres, o który krócej trwała praktyka zawodowa wnioskodawcy, z uwzględnieniem doświadczenia zawodowego w przypadku, o którym mowa w art. 2 pkt 7 lit. b) i pkt 8 lit. b), z tym że udokumentowania doświadczenia zawodowego nie wymaga się, jeżeli wnioskodawca posiada dokument potwierdzający ukończenie kursu wymienionego w załączniku nr 2 lub 3 do ustawy. ” ;
+- **5)** w art. 11: ust. 1 otrzymuje brzmienie: „
+    - **a)**
 
-**Art. 7.** W ustawie z dnia 23 stycznia 2003 r. o powszechnym ubezpieczeniu w Narodowym Funduszu Zdrowia (Dz.U. Nr 45, poz. 391, z późn. zm. ) wprowadza się następujące zmiany:
+1. W przypadku gdy program kształcenia i szkolenia odbytego przez wnioskodawcę w jego państwie różni się znacząco od programu kształcenia i szkolenia wymaganego w Rzeczypospolitej Polskiej albo jeżeli zakres wykonywanego przez wnioskodawcę w jego państwie zawodu różni się od zakresu tego zawodu w Rzeczypospolitej Polskiej, właściwy organ może uzależnić decyzję o uznaniu kwalifikacji od odbycia przez wnioskodawcę stażu adaptacyjnego albo przystąpienia do testu umiejętności, jeżeli wiedza nabyta przez wnioskodawcę podczas zdobywania doświadczenia zawodowego nie pozwoliła na zrównoważenie różnic programowych kształcenia i szkolenia wymaganego w Rzeczypospolitej Polskiej. ” , dodaje się ust. 4 w brzmieniu: „
 
-**Art. 8.** Akty wykonawcze wydane na podstawie:
+- **b)**
 
-**Art. 9.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej, z wyjątkiem art. 2, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+4. Wnioskodawca ponosi koszty odbywania stażu adaptacyjnego albo przeprowadzania testu umiejętności. ” ;
+
+- **6)** art. 13 otrzymuje brzmienie: „
+
+**Art. 13.**
+
+1. Uprawnienie do wyboru stażu adaptacyjnego albo testu umiejętności, o którym mowa w art. 11 ust. 3, może zostać wyłączone w przypadku zawodów regulowanych:
+
+- **1)** których wykonywanie wymaga dokładnej znajomości prawa polskiego, a ich zasadniczą i trwałą cechą jest udzielanie porad i pomocy związanej z prawem polskim, albo
+- **2)** w stosunku do których Komisja Europejska pozytywnie rozpatrzyła wniosek Rzeczypospolitej Polskiej w sprawie wyłączenia uprawnienia wyboru zastrzeżonego dla wnioskodawcy.
+
+2. Minister właściwy do spraw szkolnictwa wyższego oraz minister właściwy do spraw oświaty i wychowania określą, w drodze rozporządzenia, zawody, o których mowa w ust. 1 pkt 1, a także określą dla każdego z zawodów obowiązek odbywania stażu adaptacyjnego albo przystąpienia do testu umiejętności.
+
+3.
+
 

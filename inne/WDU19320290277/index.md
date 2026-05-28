@@ -22,6 +22,7 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1932-02-18 |
 | Data wydania | 1932-04-04 |
+| Wejście w życie | 1932-04-07 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19320290277) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1932/277/text.pdf) |
 

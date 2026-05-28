@@ -8,12 +8,10 @@ pos: 438
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o przekształceniu Wyższej Szkoły Rolniczo-Pedagogicznej w Siedlcach
-
-*USTAWA z dnia 10 kwietnia 1999 r.*
+# Ustawa z dnia 10 kwietnia 1999 r. o przekształceniu Wyższej Szkoły Rolniczo-Pedagogicznej w Siedlcach
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1999-04-10 |
 | Data wydania | 1999-05-20 |
+| Wejście w życie | 1999-10-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990450438) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/438/text.pdf) |
 

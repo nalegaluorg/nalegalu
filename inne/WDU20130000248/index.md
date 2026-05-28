@@ -8,12 +8,10 @@ pos: 248
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# 1. Na podstawie art. 16 ust. 3 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2011 Nr 197, 1172 i Nr 232, 1378) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst rozporządzenia i Administracji czerwca 2002 sprawie warunków przyznawania funkcjonariuszom Straży Granicznej oraz członkom ich rodzin zryczałtowanego równoważnika pieniężnego razie niewykorzystania przysługującego przejazdu na koszt właściwego organu Straży Granicznej (Dz. U.
-
-*OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH stycznia 2013 sprawie ogłoszenia jednolitego tekstu rozporządzenia i Administracji sprawie warunków przyznawania funkcjonariuszom Straży Granicznej oraz członkom ich rodzin zryczałtowanego równoważnika pieniężnego razie niewykorzystania przysługującego przejazdu na koszt właściwego organu Straży Granicznej*
+# Obwieszczenie Ministra Spraw Wewnętrznychz dnia 25 stycznia 2013 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie warunków przyznawania funkcjonariuszom Straży Granicznej oraz członkom ich rodzin zryczałtowanego równoważnika pieniężnego w razie niewykorzystania przysługującego przejazdu na koszt właściwego organu Straży Granicznej
 
 | Pole | Wartość |
 |---|---|
@@ -27,28 +25,36 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000248) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/248/text.pdf) |
 
-Nr 99, 901), uwzględnieniem zmian wprowadzonych rozporządzeniem 19 grudnia 2011 zmieniającym rozporządzenie sprawie warunków przyznawania funkcjonariuszom Straży Granicznej oraz członkom ich rodzin zryczałtowanego równoważnika pieniężnego razie niewykorzystania przysługującego przejazdu na koszt właściwego organu Straży Granicznej (Dz. U. 27).
-2. Podany załączniku niniejszego obwieszczenia jednolity tekst rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia 19 grudnia 2011 zmieniającego rozporządzenie sprawie warunków przyznawania funkcjonariuszom Straży Granicznej oraz członkom ich rodzin zryczałtowanego równoważnika pieniężnego razie niewykorzystania przysługującego przejazdu na koszt właściwego organu Straży Granicznej (Dz. U. 27), które stanowią: „§ 2. Wnioski o wypłatę zryczałtowanego równoważnika pieniężnego złożone przed dniem wejścia życie rozporządzenia podlegają rozpatrzeniu na podstawie przepisów rozporządzenia, o którym mowa § 1, brzmieniu nadanym niniejszym rozporządzeniem.
-§ 3. Rozporządzenie wchodzi życie po upływie 14 dni od ogłoszenia.”.
-Minister Wewnętrznych: J. Cichocki sprawie warunków przyznawania funkcjonariuszom Straży Granicznej oraz członkom ich rodzin zryczałtowanego równoważnika pieniężnego razie niewykorzystania przysługującego przejazdu na koszt właściwego organu Straży Granicznej Na podstawie art. 77 ust. 4 12 października 1990 o Straży Granicznej (Dz. U. 2011 Nr 116, 675, późn. zm. ) zarządza się, co następuje: § 1. 1. Funkcjonariuszowi Straży Granicznej, zwanemu dalej „funkcjonariuszem”, który nie wykorzystał przysługującego prawa przejazdu na koszt właściwego organu Straży Granicznej środkami publicznego transportu zbiorowego raz roku kalendarzowym obranej miejscowości kraju i powrotem, przyznaje się na każdą uprawnioną osobę zryczałtowany równoważnik pieniężny kwocie odpowiadającej cenie biletu za przejazd drugiej klasie pociągu według taryfy pośpiesznej na odległość 1000 km, uwzględnieniem posiadanych uprawnień przejazdów ulgowych środkami publicznego transportu zbiorowego kolejowego, ustalany według ceny biletów obowiązującej dniu wypłaty tego równoważnika, nie później jednak niż dniu wygaśnięcia prawa przejazdu przysługującego za dany rok kalendarzowy.
-2. Zryczałtowany równoważnik pieniężny wypłaca się na wniosek funkcjonariusza, sporządzony według wzoru stanowiącego załącznik rozporządzenia.
-§ 2. Zryczałtowany równoważnik pieniężny wypłaca komórka finansowa jednostki organizacyjnej Straży Granicznej, właściwa dla miejsca pełnienia służby funkcjonariusza, terminie 30 dni od złożenia przez funkcjonariusza wniosku o przyznanie świadczenia.
-§ 3. W razie zbiegu uprawnień zryczałtowanego równoważnika pieniężnego tytułu służby obojga małżonków osoby uprawnione mogą skorzystać tego prawa tylko jednego tytułu.
-§ 4. Przepisy rozporządzenia mają zastosowanie warunków przyznawania funkcjonariuszom oraz członkom ich rodzin zryczałtowanego równoważnika pieniężnego razie niewykorzystania przysługującego przejazdu na koszt właściwego organu Straży Granicznej od 16 czerwca 2002 § 5. Rozporządzenie wchodzi życie dniem ogłoszenia .
-..................................................................
-WNIOSEK o wypłatę zryczałtowanego równoważnika pieniężnego razie niewykorzystania przysługującego przejazdu na koszt właściwego organu Straży Granicznej
-1. Wnoszę o wypłacenie zryczałtowanego równoważnika pieniężnego przysługującego razie niewykorzystania przejazdu na koszt właściwego organu Straży Granicznej kwocie odpowiadającej cenie biletu za przejazd drugiej klasie pociągu według taryfy pośpiesznej na odległość 1000 km dla następujących osób: Rodzaj ulgi Imię i nazwisko Pokrewieństwo Data przejazdowej oraz Należność Inne dane** urodzenia tytuł, jakiego ona zł przysługuje* składający X oświadczenie małżonek X razem
-2. Oświadczam, że osoby wymienione powyższym wykazie: nie korzystały i nie będą korzystać ............... roku przysługującego prawa przejazdu na koszt właściwego organu Straży Granicznej, spełniają wszystkie warunki uprawniające przejazdu na koszt właściwego organu Straży Granicznej.
-.............................................................
-................................... ..............................................................
-4. Zatwierdzam należność kwocie zł ...................................................................................................................................
-..............................................................................................................................................................................................
-..............................................................................................................................................................................................
-................................... ..............................................................
-5. Adnotacja organu finansowego: należność brutto ............................ zł podatek ......... % ........................... zł wypłaty .................................... zł Wypłatę równoważnika za rok ................... kwocie ..................................................................................................... zł odnotowano ewidencji uposażeń.
-................................... ................................................................
-6. Kwotę złotych ......................................................................................................................................................................
-..............................................................................................................................................................................................
-............................................................ otrzymałem.
-................................... ..............................................................
+Treść obwieszczenia
+Załącznik do obwieszczenia Ministra Spraw Wewnętrznych z dnia 25 stycznia 2013 r. (poz. 248) – Tekst jednolity rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 25 czerwca 2002 r. w sprawie warunków przyznawania funkcjonariuszom Straży Granicznej oraz członkom ich rodzin zryczałtowanego równoważnika pieniężnego w razie niewykorzystania przysługującego przejazdu na koszt właściwego organu Straży Granicznej
+Załącznik do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 25 czerwca 2002 r. – Wniosek o wypłatę zryczałtowanego równoważnika pieniężnego w razie niewykorzystania przysługującego przejazdu na koszt właściwego organu Straży Granicznej (wzór)
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 25 czerwca 2002 r. w sprawie warunków przyznawania funkcjonariuszom Straży Granicznej oraz członkom ich rodzin zryczałtowanego równoważnika pieniężnego w razie niewykorzystania przysługującego przejazdu na koszt właściwego organu Straży Granicznej (Dz. U. Nr 99, poz. 901), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Spraw Wewnętrznych z dnia 19 grudnia 2011 r. zmieniającym rozporządzenie w sprawie warunków przyznawania funkcjonariuszom Straży Granicznej oraz członkom ich rodzin zryczałtowanego równoważnika pieniężnego w razie niewykorzystania przysługującego przejazdu na koszt właściwego organu Straży Granicznej (Dz. U. z 2012 r. poz. 27).
+2.
+Podany w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Spraw Wewnętrznych z dnia 19 grudnia 2011 r. zmieniającego rozporządzenie w sprawie warunków przyznawania funkcjonariuszom Straży Granicznej oraz członkom ich rodzin zryczałtowanego równoważnika pieniężnego w razie niewykorzystania przysługującego przejazdu na koszt właściwego organu Straży Granicznej (Dz. U. z 2012 r. poz. 27), które stanowią:
+„
+§ 2.
+Wnioski o wypłatę zryczałtowanego równoważnika pieniężnego złożone przed dniem wejścia w życie rozporządzenia podlegają rozpatrzeniu na podstawie przepisów rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
+§ 3.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+” .
+Załącznik do obwieszczenia Ministra Spraw Wewnętrznych z dnia 25 stycznia 2013 r. (poz. 248) – Tekst jednolity rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 25 czerwca 2002 r. w sprawie warunków przyznawania funkcjonariuszom Straży Granicznej oraz członkom ich rodzin zryczałtowanego równoważnika pieniężnego w razie niewykorzystania przysługującego przejazdu na koszt właściwego organu Straży Granicznej
+Na podstawie art. 77 ust. 4 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm.) zarządza się, co następuje:
+§ 1.
+1.
+Funkcjonariuszowi Straży Granicznej, zwanemu dalej „funkcjonariuszem”, który nie wykorzystał przysługującego prawa przejazdu na koszt właściwego organu Straży Granicznej środkami publicznego transportu zbiorowego raz w roku kalendarzowym do obranej miejscowości w kraju i z powrotem, przyznaje się na każdą uprawnioną osobę zryczałtowany równoważnik pieniężny w kwocie odpowiadającej cenie biletu za przejazd w drugiej klasie pociągu według taryfy pośpiesznej na odległość 1000 km, z uwzględnieniem posiadanych uprawnień do przejazdów ulgowych środkami publicznego transportu zbiorowego kolejowego, ustalany według ceny biletów obowiązującej w dniu wypłaty tego równoważnika, nie później jednak niż w dniu wygaśnięcia prawa do przejazdu przysługującego za dany rok kalendarzowy.
+2.
+Zryczałtowany równoważnik pieniężny wypłaca się na wniosek funkcjonariusza, sporządzony według wzoru stanowiącego załącznik do rozporządzenia.
+§ 2.
+Zryczałtowany równoważnik pieniężny wypłaca komórka finansowa jednostki organizacyjnej Straży Granicznej, właściwa dla miejsca pełnienia służby funkcjonariusza, w terminie 30 dni od dnia złożenia przez funkcjonariusza wniosku o przyznanie świadczenia.
+§ 3.
+W razie zbiegu uprawnień do zryczałtowanego równoważnika pieniężnego z tytułu służby obojga małżonków osoby uprawnione mogą skorzystać z tego prawa tylko z jednego tytułu.
+§ 4.
+Przepisy rozporządzenia mają zastosowanie do warunków przyznawania funkcjonariuszom oraz członkom ich rodzin zryczałtowanego równoważnika pieniężnego w razie niewykorzystania przysługującego przejazdu na koszt właściwego organu Straży Granicznej od dnia 16 czerwca 2002 r.
+§ 5.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+1) Obecnie działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych (Dz. U. Nr 248, poz. 1491). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 117, poz. 677, Nr 170, poz. 1015, Nr 171, poz. 1016 i Nr 230, poz. 1371 oraz z 2012 r. poz. 627, 664, 769 i 951. 3) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych z dnia 19 grudnia 2011 r. zmieniającego rozporządzenie w sprawie warunków przyznawania funkcjonariuszom Straży Granicznej oraz członkom ich rodzin zryczałtowanego równoważnika pieniężnego w razie niewykorzystania przysługującego przejazdu na koszt właściwego organu Straży Granicznej (Dz. U. z 2012 r. poz. 27), które weszło w życie z dniem 25 stycznia 2012 r. 4) Rozporządzenie zostało ogłoszone w dniu 4 lipca 2002 r.
+Załącznik do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 25 czerwca 2002 r. – Wniosek o wypłatę zryczałtowanego równoważnika pieniężnego w razie niewykorzystania przysługującego przejazdu na koszt właściwego organu Straży Granicznej (wzór)
+patrz oryginał
 

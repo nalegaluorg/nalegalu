@@ -8,10 +8,10 @@ pos: 1841
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 października 2017 r.
+# Rozporządzenie Ministra Sprawiedliwościz dnia 27 września 2017 r. w sprawie rozciągnięcia przepisów ustawy o organizowaniu i prowadzeniu działalności kulturalnej na działalność kulturalną prowadzoną przez jednostki organizacyjne podległe Ministrowi Sprawiedliwości lub przez niego nadzorowane
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,14 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2017-09-27 |
 | Data wydania | 2017-10-04 |
+| Wejście w życie | 2017-10-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001841) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1841/text.pdf) |
 
-Poz. 1841 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 27 września 2017 r.
-w sprawie rozciągnięcia przepisów ustawy o organizowaniu i prowadzeniu działalności kulturalnej na działalność kulturalną prowadzoną przez jednostki organizacyjne podległe Ministrowi Sprawiedliwości lub przez niego nadzorowane Na podstawie art. 39 ust. 2 ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2017 r. poz. 862) zarządza się, co następuje: § 1. Ustawę z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej stosuje się do działalności prowadzonej przez jednostki organizacyjne podległe Ministrowi Sprawiedliwości lub przez niego nadzorowane.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro
+Treść rozporządzenia
+Na podstawie art. 39 ust. 2 ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2017 r. poz. 862) zarządza się, co następuje:
+§ 1.
+Ustawę z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej stosuje się do działalności prowadzonej przez jednostki organizacyjne podległe Ministrowi Sprawiedliwości lub przez niego nadzorowane.
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

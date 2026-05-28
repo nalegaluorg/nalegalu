@@ -8,10 +8,10 @@ pos: 1164
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# 11116644 stwierdza się, że Pani/Pan*: imię i nazwisko ………………………………………………………………………………...
+# Rozporządzenie Ministra Rodziny i Polityki Społecznejz dnia 20 czerwca 2023 r. w sprawie wzoru zaświadczenia o zgłoszeniu się do udziału w programach korekcyjno-edukacyjnych dla osób stosujących przemoc domową lub w programach psychologiczno-terapeutycznych dla osób stosujących przemoc domową oraz wzoru zaświadczenia o ukończeniu tych programów, a także wzorów pouczeń w związku z uczestnictwem osób stosujących przemoc domową w tych programach
 
 | Pole | Wartość |
 |---|---|
@@ -22,28 +22,58 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2023-06-20 |
 | Data wydania | 2023-06-21 |
+| Wejście w życie | 2023-06-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001164) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1164/text.pdf) |
 
-data urodzenia ………………………………………………………………………………….
-zgłosiła /zgłosił się: do udziału korekcyjno-edukacyjnych do udziału Program odbędzie się ……………………………………………………………………..
-………………………………………………………………………………………………..
-terminie: …………………………………………………………………………………… …………………………. ……..…………………………………….
-(miejscowość, data) (podpis starosty upoważnionej) Niepotrzebne skreślić.
-** Właściwe zaznaczyć.
-Stwierdza się, że Pani/Pan*: imię i nazwisko ………………………………………………………………………………...
-data urodzenia ………………………………………………………………………………….
-ukończyła/ukończył : program korekcyjno-edukacyjny program psychologiczno-terapeutyczny realizowany terminie: …………………………………………………………………………………………………...
-…………………………. …......…………………………………….
-(miejscowość, data) (podpis starosty upoważnionej) Niepotrzebne skreślić.
-** Właściwe zaznaczyć.
-jest potwierdzane wydaniem zaświadczenia przez starostę osobę upoważnioną.
-2. Zaświadczenie, którym mowa pkt 1, należy dostarczyć niezwłocznie do grupy diagnostyczno-pomocowej, która realizuje procedurę „Niebieskie Karty”.
-3. Osoba stosująca jest obowiązana ukończyć program korekcyjno-edukacyjny program psychologiczno-terapeutyczny domową.
-4. Ukończenie programu korekcyjno-edukacyjnego programu psychologiczno-terapeutycznego jest potwierdzane wydaniem zaświadczenia przez starostę osobę upoważnioną.
-5. Zaświadczenie, którym mowa pkt 4, należy dostarczyć niezwłocznie do grupy diagnostyczno-pomocowej, która realizuje procedurę „Niebieskie Karty”.
-korekcyjno-edukacyjnym programie psychologiczno-terapeutycznym domową, jest obowiązana zgłosić się do uczestnictwa odpowiednio programie korekcyjno-edukacyjnym programie psychologiczno-terapeutycznym oraz dostarczyć grupie diagnostyczno-pomocowej zaświadczenie zgłoszeniu się do uczestnictwa programie i zaświadczenie jego ukończeniu.
-2. W przypadku niedostarczenia grupie diagnostyczno-pomocowej zaświadczenia zgłoszeniu się stosującej do uczestnictwa programie korekcyjno-edukacyjnym programie psychologiczno-terapeutycznym osoba stosująca zostanie przez grupę diagnostyczno-pomocową dwukrotnie, odstępach maksymalnie 30-dniowych, wezwana do dostarczenia zaświadczenia.
-3. Po nieusprawiedliwionym niewykonaniu obowiązków określonych przepisach ustawy z dnia 29 lipca 2005 r. przeciwdziałaniu przemocy domowej (Dz. U. z 2021 r.
-poz. 1249 oraz z 2023 r. poz. 289 i 535), tj. po niedostarczeniu zaświadczenia, którym mowa pkt 2, terminie 90 dni od dnia doręczenia skierowania, którym mowa pkt 1, niedostarczeniu zaświadczenia ukończeniu programu korekcyjno-edukacyjnego programu psychologiczno-terapeutycznego terminie 30 dni od dnia jego ukończenia, zostaną podjęte czynności celu złożenia przez osobę stosującą którym mowa art. 66c ustawy z dnia z dnia 20 maja 1971 r. Kodeks wykroczeń (Dz. U. z 2022 r. poz. 2151, z późn. zm.).
+Treść rozporządzenia
+
+## Załącznik nr 1 — – Zaświadczenie o zgłoszeniu się do uczestnictwa w programach korekcyjno-edukacyjnych dla osób stosujących przemoc domową lub programach psychologiczno-terapeutycznych dla osób stosujących przemoc domową (wzór)
+
+## Załącznik nr 2 — – Zaświadczenie o ukończeniu programu korekcyjno-edukacyjnego dla osób stosujących przemoc domową lub programu psychologiczno-terapeutycznego dla osób stosujących przemoc domową (wzór)
+
+## Załącznik nr 3 — – Pouczenie osoby stosującej przemoc domową o obowiązku niezwłocznego dostarczenia grupie diagnostyczno-pomocowej zaświadczeń (wzór)
+
+## Załącznik nr 4 — – Pouczenie osoby stosującej przemoc domową o możliwości złożenia zawiadomienia o popełnieniu wykroczenia, o którym mowa w art. 66c ustawy z dnia 20 maja 1971 r. – Kodeks Wykroczeń (wzór)
+
+Treść rozporządzenia
+Na podstawie art. 9b ust. 7 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej (Dz. U. z 2021 r. poz. 1249 oraz z 2023 r. poz. 289 i 535) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+wzór zaświadczenia o zgłoszeniu się do uczestnictwa w programach korekcyjno-edukacyjnych dla osób stosujących przemoc domową lub programach psychologiczno-terapeutycznych dla osób stosujących przemoc domową;
+2)
+wzór zaświadczenia o ukończeniu programu korekcyjno-edukacyjnego dla osób stosujących przemoc domową lub programu psychologiczno-terapeutycznego dla osób stosujących przemoc domową;
+3)
+wzór pouczenia osoby stosującej przemoc domową o obowiązku niezwłocznego dostarczenia grupie diagnostyczno-pomocowej zaświadczeń, o których mowa w pkt 1 i 2;
+4)
+wzór pouczenia osoby stosującej przemoc domową o możliwości złożenia zawiadomienia o popełnieniu wykroczenia, o którym mowa w art. 66c ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2022 r. poz. 2151, z późn. zm.).
+§ 2.
+Ustala się:
+1)
+wzór zaświadczenia o zgłoszeniu się do uczestnictwa w programach korekcyjno-edukacyjnych dla osób stosujących przemoc domową lub programach psychologiczno-terapeutycznych dla osób stosujących przemoc domową, który stanowi załącznik nr 1 do rozporządzenia;
+2)
+wzór zaświadczenia o ukończeniu programu korekcyjno-edukacyjnego dla osób stosujących przemoc domową lub programu psychologiczno-terapeutycznego dla osób stosujących przemoc domową, który stanowi załącznik nr 2 do rozporządzenia;
+3)
+wzór pouczenia osoby stosującej przemoc domową o obowiązku niezwłocznego dostarczenia grupie diagnostyczno-pomocowej zaświadczeń, który stanowi załącznik nr 3 do rozporządzenia;
+4)
+wzór pouczenia osoby stosującej przemoc domową o możliwości złożenia zawiadomienia o popełnieniu wykroczenia, o którym mowa w art. 66c ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń, który stanowi załącznik nr 4 do rozporządzenia.
+§ 3.
+Rozporządzenie wchodzi w życie z dniem 22 czerwca 2023 r.
+
+## Załącznik nr 1 — – Zaświadczenie o zgłoszeniu się do uczestnictwa w programach korekcyjno-edukacyjnych dla osób stosujących przemoc domową lub programach psychologiczno-terapeutycznych dla osób stosujących przemoc domową (wzór)
+
+patrz oryginał
+
+## Załącznik nr 2 — – Zaświadczenie o ukończeniu programu korekcyjno-edukacyjnego dla osób stosujących przemoc domową lub programu psychologiczno-terapeutycznego dla osób stosujących przemoc domową (wzór)
+
+patrz oryginał
+
+## Załącznik nr 3 — – Pouczenie osoby stosującej przemoc domową o obowiązku niezwłocznego dostarczenia grupie diagnostyczno-pomocowej zaświadczeń (wzór)
+
+patrz oryginał
+
+## Załącznik nr 4 — – Pouczenie osoby stosującej przemoc domową o możliwości złożenia zawiadomienia o popełnieniu wykroczenia, o którym mowa w art. 66c ustawy z dnia 20 maja 1971 r. – Kodeks Wykroczeń (wzór)
+
+patrz oryginał
 

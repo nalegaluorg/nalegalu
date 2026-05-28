@@ -8,10 +8,10 @@ pos: 394
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 lutego 2019 r.
+# Rozporządzenie Rady Ministrówz dnia 11 stycznia 2019 r. w sprawie sporządzania audytów krajobrazowych
 
 | Pole | Wartość |
 |---|---|
@@ -22,226 +22,473 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2019-01-11 |
 | Data wydania | 2019-02-28 |
+| Wejście w życie | 2019-03-15 |
 | Ostatnia zmiana | 2024-04-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000394) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/394/text.pdf) |
 
-do rozporządzenia Rady Ministrów z dnia 11 stycznia 2019 r.
-(poz. ) Załącznik nr 1 Wytyczne dotyczące identyfikacji krajobrazów Wyznaczenie granic krajobrazów odbywa się w następujących etapach:
-1) szczegółowa analiza pokrycia i użytkowania terenu w obrębie mezoregionu;
-2) wstępny podział mezoregionu na krajobrazy, dokonany w sposób rozłączny i wyczerpujący, z uwzględnieniem:
-a) jednolitości tła krajobrazowego ,
-b) typu rzeźby terenu, określonego zgodnie z załącznikiem nr 2,
-c) zachowania powiązań funkcjonalnych lub widokowych między elementami krajobrazu,
-d) powtarzalności struktury przestrzennej i fizjonomii w różnych częściach krajobrazu, z wyjątkiem krajobrazów unikatowych ;
-3) oznaczenie krajobrazów w formacie: AA-XXX.XX-YY, gdzie:
-a) AA oznacza kod województwa, przypisany zgodnie z rozporządzeniem Rady Ministrów z dnia 15 grudnia 1998 r. w sprawie szczegółowych zasad prowadzenia, stosowania i udostępniania krajowego rejestru urzędowego podziału terytorialnego kraju oraz związanych z tym obowiązków organów administracji rządowej i jednostek samorządu terytorialnego (Dz. U. poz. 1031, z późn. zm.),
-b) XXX.XX określa mezoregion fizycznogeograficzny,
-c) YY określa kolejny krajobraz w obrębie mezoregionu w danym województwie;
-4) wskazanie podtypu wydzielonych krajobrazów na podstawie klasyfikacji typologicznej krajobrazów określonej w załączniku nr 2;
-5) weryfikacja granic krajobrazów, jeżeli taką potrzebę wykaże przeprowadzona klasyfikacja typologiczna.
+Treść rozporządzenia
 
-## Załącznik nr 2 — Klasyfikacja krajobrazów
+## Załącznik nr 1 — – Wytyczne dotyczące identyfikacji krajobrazów
 
-1. Klasyfikacja krajobrazów obejmuje:
-1) wskazanie typów rzeźby terenu określonych w pkt 2;
-2) klasyfikację typologiczną krajobrazów bazującą na zróżnicowaniu pokrycia terenu i użytkowania terenu, traktowanego jako tło krajobrazowe, oraz charakterze dominujących w krajobrazie czynników, określoną w pkt 3.
-2. Typy rzeźby terenu: A. Krajobrazy równinne rozległe tereny płaskie lub prawie całkowicie poziome (nachylenie do 3°).
-B. Krajobrazy faliste rozległe tereny charakteryzujące się łagodnymi, niewielkimi deniwelacjami terenu o względnych wysokościach do kilku metrów.
-C. Krajobrazy pagórkowate obszary, na których występują wzniesienia o względnych wysokościach od kilku do kilkudziesięciu metrów, które wyodrębniają się w terenie wskutek izolacji przestrzennej i wyraźnego nachylenia stoku. Średnica wzniesień sięga do kilkuset metrów, stoki symetryczne lub asymetryczne, a wierzchołki mogą być mniej lub bardziej obłe.
-D. Krajobrazy wzgórzowe obszary urozmaicone występowaniem form wypukłych terenu o wysokości względnej 100–300 m, które wyodrębniają się w terenie wskutek izolacji przestrzennej i wyraźnego nachylenia stoku. Średnica wzgórz wynosi minimum kilkaset metrów, a wierzchołki mogą być płaskie, obłe lub ostre.
-E. Krajobrazy górskie obszary o wysokościach bezwzględnych od 500–1500 m n.p.m.
-i dużych deniwelacjach terenu.
-F. Krajobrazy wysokogórskie obszary o wysokościach bezwzględnych powyżej 1500 m n.p.m. i dużych deniwelacjach terenu.
-G. Krajobrazy dolin wydłużone, zwykle płaskodenne, ciągnące się na przestrzeni co najmniej kilku kilometrów obniżenia terenu.
-H. Krajobrazy obniżeń i kotlin zwykle owalne lub okrągłe, rozległe obniżenia terenu, o średnicy co najmniej kilku kilometrów w otoczeniu obszarów pagórkowatych, wzgórzowych lub górskich.
-19 Załącznik nr 3 Metodyka charakterystyki zidentyfikowanych krajobrazów
-1. Charakterystyka zidentyfikowanych krajobrazów sporządzana jest przez określenie cech analitycznych: przyrodniczych i kulturowych oraz syntetycznych (tabele 1–3), a następnie ujęcie ich w Karcie Charakterystyki Krajobrazu (tabela 4).
-2. Dla każdego zidentyfikowanego krajobrazu wypełnia się Kartę Charakterystyki Krajobrazu, w której wskazuje się wszystkie cechy spośród wskazanych w tabelach 1–3 jako obligatoryjne oraz te z wymienionych jako fakultatywne, które są istotne dla danego krajobrazu, a jednocześnie możliwe do zidentyfikowania. Karty Charakterystyki Krajobrazu mogą być sporządzone wyłącznie w formie elektronicznej.
-3. Wypełnienie Karty Charakterystyki Krajobrazu polega na:
-1) podaniu dla każdej cechy określonej w tabelach 1–3 jako obligatoryjna wartości wskaźnika zgodnie z jego opisem oraz we wskazanej jednostce albo jednego z oznaczeń:
-a) „0”– gdy dane zjawisko lub obiekt nie występuje,
-b) „bd” gdy brak jest dostępnych danych dla całego województwa w tym zakresie;
-2) podaniu dla istotnych cech określonych w tabelach 1–3 jako fakultatywne wartości wskaźnika zgodnie z jego opisem oraz we wskazanej jednostce.
-5.2. Dla wskaźników z tabeli 2 wskazuje się (jako informacje dodatkowe):
-1) status ochrony park kulturowy (PK), pomnik historii (PH), wpis do rejestru zabytków (Z);
+## Załącznik nr 2 — – Klasyfikacja krajobrazów
+
+## Załącznik nr 3 — – Metodyka charakterystyki zidentyfikowanych krajobrazów
+
+## Załącznik nr 4 — – Sposób oceny zidentyfikowanych krajobrazów
+
+## Załącznik nr 5 — – Sposób wskazania krajobrazów priorytetowych
+
+## Załącznik nr 6 — – Zagrożenia dla możliwości zachowania wartości krajobrazów priorytetowych oraz wartości krajobrazów w obrębie obszarów lub obiektów, o których mowa w art. 38a ust. 3 pkt 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym
+
+## Załącznik nr 7 — – Wytyczne w zakresie formułowania rekomendacji i wniosków dotyczących kształtowania i ochrony krajobrazów priorytetowych oraz krajobrazów w obrębie obszarów lub obiektów, o których mowa w art. 38a ust. 3 pkt 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym
+
+## Załącznik nr 8 — – Wytyczne w zakresie określenia lokalnych form architektonicznych zabudowy dla krajobrazów priorytetowych
+
+Treść rozporządzenia
+Na podstawie art. 38a ust. 6 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2018 r. poz. 1945 oraz z 2019 r. poz. 60) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+stosowaną przy sporządzaniu audytów krajobrazowych klasyfikację krajobrazów opracowaną w oparciu w szczególności o takie kryteria jak charakter dominujących w krajobrazie czynników, rzeźba terenu i pokrycie terenu;
+2)
+sposób oceny zidentyfikowanych krajobrazów oraz wskazywania krajobrazów priorytetowych;
+3)
+sposób uwzględnienia w audycie krajobrazowym obiektów, w tym krajobrazów, wpisanych na listę Światowego Dziedzictwa UNESCO, obszarów Sieci Rezerwatów Biosfery UNESCO (MaB), parków narodowych, rezerwatów i innych form ochrony przyrody wskazanych w art. 6 ust. 1 pkt 1–9 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2018 r. poz. 1614, 2244 i 2340), obiektów wskazanych w art. 6 ust. 1 pkt 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2018 r. poz. 2067 i 2245);
+4)
+szczegółowy zakres i metodologię audytu krajobrazowego.
+§ 2.
+1.
+Audyt krajobrazowy obejmuje następujące po sobie etapy:
+1)
+identyfikację krajobrazów, której dokonuje się zgodnie z wytycznymi określonymi w załączniku nr 1 do rozporządzenia, oraz klasyfikację krajobrazów określoną w załączniku nr 2 do rozporządzenia;
+2)
+charakterystykę zidentyfikowanych krajobrazów, której dokonuje się zgodnie z metodyką określoną w załączniku nr 3 do rozporządzenia;
+3)
+ocenę zidentyfikowanych krajobrazów, której dokonuje się zgodnie ze sposobem określonym w załączniku nr 4 do rozporządzenia;
+4)
+wskazanie krajobrazów priorytetowych, którego dokonuje się zgodnie ze sposobem określonym w załączniku nr 5 do rozporządzenia;
+5)
+wskazanie zagrożeń dla możliwości zachowania wartości krajobrazów priorytetowych oraz wartości krajobrazów w obrębie obszarów lub obiektów, o których mowa w art. 38a ust. 3 pkt 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, zwanej dalej „ustawą”, które określa załącznik nr 6 do rozporządzenia;
+6)
+sformułowanie rekomendacji i wniosków dotyczących kształtowania i ochrony krajobrazów priorytetowych oraz krajobrazów w obrębie obszarów lub obiektów, o których mowa w art. 38a ust. 3 pkt 2 ustawy, które opracowuje się zgodnie z wytycznymi określonymi w załączniku nr 7 do rozporządzenia;
+7)
+określenie lokalnych form architektonicznych zabudowy dla krajobrazów priorytetowych, którego dokonuje się zgodnie z wytycznymi określonymi w załączniku nr 8 do rozporządzenia.
+2.
+Sporządzenie drugiego i następnego audytu krajobrazowego rozpoczyna się od charakterystyki zidentyfikowanych krajobrazów w poprzedzającym audycie, która jest podstawą do weryfikacji przebiegu granic tych krajobrazów i zmiany ich klasyfikacji typologicznej.
+§ 3.
+Uwzględnienie obiektów, w tym krajobrazów, wpisanych na listę Światowego Dziedzictwa UNESCO, obszarów Sieci Rezerwatów Biosfery UNESCO (MaB), parków narodowych, rezerwatów i innych form ochrony przyrody wskazanych w art. 6 ust. 1 pkt 1–9 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, obiektów wskazanych w art. 6 ust. 1 pkt 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, następuje:
+1)
+w charakterystyce zidentyfikowanych krajobrazów, o której mowa w § 2 ust. 1 pkt 2;
+2)
+w ocenie zidentyfikowanych krajobrazów, o której mowa w § 2 ust. 1 pkt 3;
+3)
+przez zawarcie w wykazie, o którym mowa w § 4 ust. 1 pkt 1 lit. f.
+§ 4.
+1.
+Audyt krajobrazowy składa się z:
+1)
+części opisowej i tabelarycznej zawierającej:
+a)
+informacje ogólne o położeniu obszaru województwa, dla którego audyt krajobrazowy jest sporządzany,
+b)
+zestawienie zidentyfikowanych krajobrazów oraz ich klasyfikację,
+c)
+charakterystykę zidentyfikowanych krajobrazów,
+d)
+ocenę zidentyfikowanych krajobrazów,
+e)
+wykaz krajobrazów priorytetowych,
+f)
+wykaz obszarów lub obiektów, o których mowa w art. 38a ust. 3 pkt 2 ustawy,
+g)
+zestawienie zagrożeń dla możliwości zachowania wartości krajobrazów priorytetowych oraz wartości krajobrazów w obrębie obszarów i obiektów, o których mowa w art. 38a ust. 3 pkt 2 ustawy,
+h)
+wykaz rekomendacji i wniosków dotyczących kształtowania i ochrony krajobrazów priorytetowych oraz krajobrazów w obrębie obszarów lub obiektów, o których mowa w art. 38a ust. 3 pkt 2 ustawy,
+i)
+katalog lokalnych form architektonicznych zabudowy dla krajobrazów priorytetowych;
+2)
+części graficznej zawierającej mapy sporządzone we właściwym układzie współrzędnych państwowego systemu odniesień przestrzennych, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2017 r. poz. 2101 oraz z 2018 r. poz. 650 i 1669):
+a)
+mapę zidentyfikowanych krajobrazów,
+b)
+mapę obszarów lub obiektów, o których mowa w art. 38a ust. 3 pkt 2 ustawy,
+c)
+mapę przedstawiającą lokalizację krajobrazów priorytetowych,
+d)
+mapy, o których mowa w pkt 2 ppkt 3–5 załącznika nr 7 do rozporządzenia,
+e)
+mapy, o których mowa w pkt 1 załącznika nr 8 do rozporządzenia;
+3)
+dokumentacji, która zawiera w szczególności:
+a)
+opis przyjętych metodyk oraz wykorzystanych źródeł danych,
+b)
+opis przebiegu przeprowadzonych konsultacji społecznych oraz zestawienie i stanowisko wobec nieuwzględnionych uwag do projektu audytu krajobrazowego,
+c)
+informacje o badaniach ankietowych, jeżeli takie przeprowadzono,
+d)
+dane przestrzenne dla map, o których mowa w pkt 2, które powinny być zapisane w formatach shp (Shapefile) i GML, sporządzone z dokładnością odpowiadającą skali 1:50 000 dla map, o których mowa w pkt 2 lit. a-d, i z dokładnością odpowiadającą skali 1:2000 dla map, o których mowa w pkt 2 lit. e,
+e)
+zestawienia tabelaryczne dla danych, o których mowa w pkt 1 lit. b-g.
+2.
+Mapy, o których mowa w ust. 1 pkt 2 lit. a-d, sporządza się w skali 1:50 000, a mapy, o których mowa w ust. 1 pkt 2 lit. e, sporządza się w skali 1:2000.
+§ 5.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+## Załącznik nr 1 — – Wytyczne dotyczące identyfikacji krajobrazów
+
+Wyznaczenie granic krajobrazów odbywa się w następujących etapach:
+1)
+szczegółowa analiza pokrycia i użytkowania terenu w obrębie mezoregionu;
+2)
+wstępny podział mezoregionu na krajobrazy, dokonany w sposób rozłączny i wyczerpujący, z uwzględnieniem:
+a)
+jednolitości tła krajobrazowego2),
+b)
+typu rzeźby terenu, określonego zgodnie z załącznikiem nr 2,
+c)
+zachowania powiązań funkcjonalnych lub widokowych między elementami krajobrazu,
+d)
+powtarzalności struktury przestrzennej i fizjonomii w różnych częściach krajobrazu, z wyjątkiem krajobrazów unikatowych3);
+3)
+oznaczenie krajobrazów w formacie: AA-XXX.XX-YY, gdzie:
+a)
+AA oznacza kod województwa, przypisany zgodnie z rozporządzeniem Rady Ministrów z dnia 15 grudnia 1998 r. w sprawie szczegółowych zasad prowadzenia, stosowania i udostępniania krajowego rejestru urzędowego podziału terytorialnego kraju oraz związanych z tym obowiązków organów administracji rządowej i jednostek samorządu terytorialnego (Dz. U. poz. 1031, z późn. zm.),
+b)
+XXX.XX określa mezoregion fizycznogeograficzny,
+c)
+YY określa kolejny krajobraz w obrębie mezoregionu w danym województwie;
+4)
+wskazanie podtypu wydzielonych krajobrazów na podstawie klasyfikacji typologicznej krajobrazów określonej w załączniku nr 2;
+5)
+weryfikacja granic krajobrazów, jeżeli taką potrzebę wykaże przeprowadzona klasyfikacja typologiczna.
+1) Identyfikacja krajobrazu – proces wydzielania krajobrazów przez wyznaczenie ich granic, sklasyfikowanie pod względem typologicznym oraz nadanie im oznaczeń identyfikacyjnych. 2) Tło krajobrazowe – rodzaj pokrycia lub użytkowania terenu, który dominuje powierzchniowo w obrębie krajobrazu i jednocześnie stanowi otoczenie większości pozostałych elementów przestrzennych krajobrazu. 3) Krajobrazy unikatowe – krajobrazy, w których występują wyróżniające się na tle innych cenne atrybuty przestrzenne (przyrodnicze lub kulturowe), lub krajobrazy rzadko spotykane (jeden do kilku krajobrazów o danym podtypie) na obszarze województwa.
+
+## Załącznik nr 2 — – Klasyfikacja krajobrazów
+
+1.
+Klasyfikacja krajobrazów obejmuje:
+1)
+wskazanie typów rzeźby terenu określonych w pkt 2;
+2)
+klasyfikację typologiczną krajobrazów bazującą na zróżnicowaniu pokrycia terenu i użytkowania terenu, traktowanego jako tło krajobrazowe, oraz charakterze dominujących w krajobrazie czynników, określoną w pkt 3.
+2.
+Typy rzeźby terenu:
+A.
+Krajobrazy równinne – rozległe tereny płaskie lub prawie całkowicie poziome (nachylenie do 3ş).
+B.
+Krajobrazy faliste – rozległe tereny charakteryzujące się łagodnymi, niewielkimi deniwelacjami terenu o względnych wysokościach do kilku metrów.
+C.
+Krajobrazy pagórkowate – obszary, na których występują wzniesienia o względnych wysokościach od kilku do kilkudziesięciu metrów, które wyodrębniają się w terenie wskutek izolacji przestrzennej i wyraźnego nachylenia stoku. Średnica wzniesień sięga do kilkuset metrów, stoki symetryczne lub asymetryczne, a wierzchołki mogą być mniej lub bardziej obłe.
+D.
+Krajobrazy wzgórzowe – obszary urozmaicone występowaniem form wypukłych terenu o wysokości względnej 100–300 m, które wyodrębniają się w terenie wskutek izolacji przestrzennej i wyraźnego nachylenia stoku. Średnica wzgórz wynosi minimum kilkaset metrów, a wierzchołki mogą być płaskie, obłe lub ostre.
+E.
+Krajobrazy górskie – obszary o wysokościach bezwzględnych od 500–1500 m n.p.m. i dużych deniwelacjach terenu.
+F.
+Krajobrazy wysokogórskie – obszary o wysokościach bezwzględnych powyżej 1500 m n.p.m. i dużych deniwelacjach terenu.
+G.
+Krajobrazy dolin – wydłużone, zwykle płaskodenne, ciągnące się na przestrzeni co najmniej kilku kilometrów obniżenia terenu.
+H.
+Krajobrazy obniżeń i kotlin – zwykle owalne lub okrągłe, rozległe obniżenia terenu, o średnicy co najmniej kilku kilometrów w otoczeniu obszarów pagórkowatych, wzgórzowych lub górskich.
+3.
+Klasyfikacja typologiczna krajobrazów GRUPA1) TYP2) PODTYP3) CHARAKTERYSTYKA4) 1 2 3 4 A. Krajobrazy przyrodnicze, kulturowo (zazwyczaj ekstensywnie) użytkowane, funkcjonujące głównie w wyniku działania procesów naturalnych, jedynie w różnym stopniu modyfikowanych przez działalność człowieka I. Wód powierzchniowych 1a. Jeziora Tłem krajobrazowym są duże tafle jezior i ich kompleksów (powyżej 100 ha), wraz z występującymi uroczyskami w postaci wysp i półwyspów. 1b. Systemy wód płynących Naturalne odcinki koryt dużych rzek (skalą przestrzenną odpowiadające geokompleksowi rangi uroczyska) lub ich systemy anastomozujące, wraz z wyspami, łachami piaszczystymi, nanosami mułowymi, a także tereny systematycznie zalewane wodami roztopowymi i powodziowymi. 1c. Wody przejściowe Wody przejściowe oznaczają wody powierzchniowe znajdujące się w ujściach rzek lub w pobliżu ujść rzek, które z uwagi na bliskość wód słonych wykazują częściowe zasolenie, pozostając w zasięgu znaczących wpływów wód słodkich, oraz morskie wody wewnętrzne w rozumieniu art. 4 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2018 r. poz. 2214 oraz z 2019 r. poz. 125), z wyłączeniem części Zatoki Gdańskiej zamkniętej linią podstawową morza terytorialnego oraz wód portów określonych od strony morza linią łączącą najdalej wysunięte w morze stałe urządzenia portowe, stanowiące integralną część systemu portowego. 2. Bagienno-łąkowe – głównie bezleśne 2a. Z udziałem ekstensywnie użytkowanych łąk Krajobrazy przyrzeczne związane z dolinami dużych i średnich rzek, w których tło krajobrazowe tworzą zbiorowiska roślinne nieleśne, w szczególności ekstensywnie użytkowanych łąk z rzędu Molinietalia caerulae, oraz torfowisk niskich i przejściowych (Scheuchzerio-Caricetea nigrae) i szuwarów lub turzycowisk (Phragmitetalia), a także łąki świeże (Arrhenałherełalia elatioris) oraz starorzecza i inne obniżenia trwale lub czasowo wypełnione wodą. Stałym elementem (niewchodzącym do tła krajobrazowego) są różnej wielkości powierzchnie wilgotnych zarośli i lasów łęgowych oraz olsów. Niewielkie powierzchnie użytkowane rolniczo i sieć osadniczą należy traktować jako elementy przestrzenne krajobrazu. 2b. Z dominacją szuwarów i turzycowisk Tło krajobrazowe tworzą zbiorowiska roślinne nieleśne siedlisk wilgotnych i bagiennych, w szczególności szuwarów i turzycowisk (Phragmitetalia) oraz torfowisk niskich i przejściowych (Scheuchzerio-Caricetea nigrae) i ekstensywnie użytkowanych łąk (Molinietalia caerulae) oraz obniżenia trwale lub czasowo wypełnione wodą. Stałym elementem (niewchodzącym do tła krajobrazowego) są różnej wielkości powierzchnie wilgotnych zarośli oraz olsów. Niewielkie powierzchnie użytkowane rolniczo i sieć osadniczą należy traktować jako elementy przestrzenne krajobrazu. 2c. Z udziałem nadmorskich łąk słonolubnych Tło krajobrazowe tworzą zbiorowiska roślinne nieleśne siedlisk wilgotnych i bagiennych (Scheuchzerio-Caricetea nigrae, Phragmitetalia, Molinietalia caerulae) z wyraźnym udziałem nadmorskich łąk słonolubnych (Glauco-Puccinellietalia) oraz inne obniżenia trwale lub czasowo wypełnione wodą, która może być słonawa. Stałym elementem (niewchodzącym do tła krajobrazowego) są różnej wielkości powierzchnie wilgotnych zarośli. Niewielkie powierzchnie użytkowane rolniczo i sieć osadniczą należy traktować jako elementy przestrzenne krajobrazu. 2d. Z dominacją torfowisk niskich Tło krajobrazowe tworzą zbiorowiska roślinne nieleśne siedlisk wilgotnych i bagiennych z dominacją torfowisk niskich (Scheuchzerio-Caricetea nigrae) i udziałem szuwarów i turzycowisk (Phragmitetalia) oraz zmiennowilgotnych ekstensywnie użytkowanych łąk (Molinietalia caerulae) na rozległych równinach bagiennych. Stałym elementem (niewchodzącym do tła krajobrazowego) są różnej wielkości powierzchnie wilgotnych zarośli i lasów łęgowych oraz olsów. Niewielkie powierzchnie użytkowane rolniczo i sieć osadniczą należy traktować jako elementy przestrzenne krajobrazu. 2e. Z udziałem torfowisk wysokich Krajobrazy zlokalizowane w obniżeniach i kotlinach, w których tło krajobrazowe tworzą zbiorowiska roślinne nieleśne siedlisk wilgotnych i bagiennych (Scheuchzerio-Caricetea nigrae, Phragmitetalia, Molinietalia caerulae) w dowolnej kombinacji ilościowej, z udziałem torfowisk wysokich (Chcycocco-Sphagnetea). Stałym elementem (niewchodzącym do tła krajobrazowego) są różnej wielkości powierzchnie wilgotnych zarośli i lasów. Niewielkie powierzchnie użytkowane rolniczo i sieć osadniczą należy traktować jako elementy przestrzenne krajobrazu. 3. Leśne 3a. Z przewagą siedlisk borowych Tło krajobrazowe tworzą lasy (o powierzchni powyżej 100 ha) o następujących typach siedliskowych lasu5): Bs, Bśw, Bw, BMśw, BMw, BMwyżśw, BMwyżw, BWG, BGśw, BMGśw, BMGw oraz grunty leśne czasowo odlesione i drogi leśne (grunty leśne trwale niezalesione, w szczególności wody, zabudowania oraz grunty nieleśne w kompleksie lasów należy traktować jako elementy przestrzenne krajobrazu). 3b. Z przewagą siedlisk lasowych Tło krajobrazowe tworzą lasy (o powierzchni powyżej 100 ha) o następujących typach siedliskowych5): Lw, Lśw, LMw, LMśw, LMwyżśw, LMwyżw, Lwyżśw, Lwyżw, LGśw, LGw, LMGśw, LMGw oraz grunty leśne czasowo odlesione i drogi leśne (grunty leśne trwale niezalesione, np. w szczególności wody, zabudowania oraz grunty nieleśne w kompleksie lasów należy traktować jako elementy przestrzenne krajobrazu). 3c. Z przewagą siedlisk łęgowych, bagiennych i olsowych Tło krajobrazowe tworzą lasy (o powierzchni powyżej 100 ha) o następujących typach siedliskowych lasu5): Bb, BMb, LMb, O1, Lł, O1J, O1Jwyż, LłG, BGb, BMGb, O1JG oraz grunty leśne czasowo odlesione i drogi leśne (grunty leśne trwale niezalesione, w szczególności zabudowania, oraz grunty nieleśne w kompleksie lasów należy traktować jako elementy przestrzenne krajobrazu). 4. Bezleśne: murawowe, piaszczyste i skalne 4a. Murawy i zarośla kserotermiczne oraz inne ciepłolubne Tło krajobrazowe w szczególności o charakterze mozaikowym (z udziałem lasów) na glebach lessowych lub nawapiennych. Murawy i zarośla kserotermiczne zajmują co najmniej 30% powierzchni. Mniejsze kompleksy o podobnym charakterze mogą występować w obrębie krajobrazów z grupy B, typ 6 i 7. Należy je traktować jako złożone, lecz integralne elementy przestrzenne krajobrazu. 4b. Wrzosowiska i murawy napiaskowe Tło krajobrazowe tworzą rozległe suche wrzosowiska lub murawy napiaskowe (o powierzchni powyżej 50 ha). Stałym elementem są kępy drzew i krzewów, które rozrastając się, stopniowo mogą doprowadzić do przekształcenia się podtypu 4b w jednostkę należącą do podtypu 3a. 4c. Bezleśne wydmy śródlądowe oraz wydmy i plaże nadmorskie Tło krajobrazowe jest tworzone przez strefowy układ naturalnych zbiorowisk nieleśnych na plażach i wydmach oraz na odlesionych wydmach szarych.Krajobrazy tego typu graniczą lub nawet przenikają się z leśnymi krajobrazami borowymi w regionach przymorskich. 4d. Bezleśne skałki i murawy naskalne Tło krajobrazowe tworzą obszary na podłożu skalnym, ze słabo wykształconą pokrywą glebową, porośnięte w szczególności zbiorowiskami murawowymi i z obecnością skał i ostańców ze szczątkową pokrywą roślin wyższych. Niewielkie powierzchnie użytkowane rolniczo i sieć osadniczą należy traktować jako elementy przestrzenne krajobrazu. 5. Górskie ponad granicą lasu (naturalną lub antropogenicznie obniżoną) 5a. Połoniny Tłem krajobrazowym są zbiorowiska trawiaste na połogich stokach w Bieszczadach. 5b. Hale wysokogórskie Tłem krajobrazowym są zbiorowiska nieleśne, najczęściej trawiaste, powyżej górnej granicy lasu i poniżej piętra niwalnego i subniwalnego. 5c. Wysokogórskie nagie skały, piargi i śniegi Tłem krajobrazowym są nagie skały – turnie, powyżej naturalnego zasięgu zbiorowisk roślin naczyniowych. Obejmuje najwyższe piętro roślinne w Tatrach. B. Krajobrazy przyrodniczo-kulturowe ukształtowane w wyniku wspólnego działania procesów naturalnych oraz świadomych modyfikacji pokrycia terenu i struktury przestrzennej przez człowieka 6. Wiejskie 6a. Sztuczne zbiorniki wodne Tłem krajobrazowym są kompleksy zbiorników, w szczególności stawów hodowlanych, zbiorników przeciwpowodziowych, retencyjnych, rekreacyjnych, z regulowanym przez człowieka poziomem wody, wraz z bezpośrednio z nimi związanymi obwałowaniami (groble) i systemami zasilania lub odwadniania. 6b. Z przewagą wstęgowo ułożonych zespołów niewielkich pól ornych, łąk i pastwisk Tłem krajobrazowym są grunty wykorzystywane rolniczo obecnie (grunty orne, łąki i pastwiska) lub w przeszłości (ugory i odłogi). Poszczególne pola mogą być zmiennej wielkości, ale ilościowo dominują działki ułożone równolegle o wydłużonym kształcie (stosunek dłuższego boku do krótszego najczęściej przekracza 15) i powierzchni najczęściej do 2 ha. W obrębie tak opisanego tła krajobrazowego mogą występować obszary zabudowane (wsie), charakteryzujące się różnym usytuowaniem, genezą, wielkością oraz typem morfologicznym, oraz mogą występować inne obiekty infrastruktury technicznej, np. energetyki wiatrowej. Udział innych form pokrycia terenu może być zmienny (lasy, nieużytki bagienne i inne). 6c. Z przewagą mozaikowo rozmieszczonych użytków rolnych tworzących małe pola Tłem krajobrazowym są grunty wykorzystywane rolniczo obecnie (grunty orne, łąki i pastwiska) lub w przeszłości (ugory i odłogi). Poszczególne pola mogą być różnej wielkości, ale ilościowo dominują działki ułożone mozaikowo („szachownica pól”) o kształcie zbliżonym do prostokąta i powierzchni najczęściej poniżej 3 ha. W obrębie tak opisanego tła krajobrazowego mogą występować obszary zabudowane (wsie), charakteryzujące się różnym usytuowaniem, genezą, wielkością oraz typem morfologicznym, a także różnym stopniem zwartości lub rozproszenia, oraz mogą występować inne obiekty infrastruktury technicznej, np. energetyki wiatrowej. Udział innych form pokrycia terenu może być zmienny (lasy, nieużytki bagienne i inne, poza terenami zabudowanymi). 6d. Z przewagą mozaikowo rozmieszczonych użytków rolnych tworzących pola średniej wielkości Tłem krajobrazowym są grunty wykorzystywane rolniczo obecnie (grunty orne, łąki i pastwiska) lub w przeszłości (ugory i odłogi). Poszczególne pola mogą być różnej wielkości, ale ilościowo dominują działki ułożone mozaikowo („szachownica pól”) o kształcie zbliżonym do prostokąta i powierzchni najczęściej powyżej 3 ha i poniżej 30 ha. W obrębie tak opisanego tła krajobrazowego mogą występować obszary zabudowane (wsie), charakteryzujące się różnym usytuowaniem, genezą, wielkością oraz typem morfologicznym, a także różnym stopniem zwartości lub rozproszenia, oraz mogą występować inne obiekty infrastruktury technicznej, np. energetyki wiatrowej. Udział innych form pokrycia terenu może być zmienny (lasy, nieużytki bagienne i inne, poza terenami zabudowanymi). 6e. Z przewagą wielkoobszarowych pól lub łąk i pastwisk Tłem krajobrazowym są grunty wykorzystywane rolniczo obecnie (grunty orne, łąki i pastwiska) lub w przeszłości (ugory i odłogi). Poszczególne pola mogą być różnej wielkości, ale ilościowo dominują większe niż 30 ha. W obrębie tak opisanego tła krajobrazowego mogą występować obszary zabudowane o różnym charakterze i stopniu skupienia oraz mogą występować inne obiekty infrastruktury technicznej, np. energetyki wiatrowej. Udział innych form pokrycia terenu może być zmienny. 6f. Z przewagą wielkoobszarowych sadów i plantacji Tłem krajobrazowym są wielkopowierzchniowe sady lub plantacje roślin (o powierzchni powyżej 100 ha), w tym krzewów owocowych lub przemysłowych (mogą być podzielone na stosunkowo niewielkie lub średniej wielkości działki własnościowe rozdzielone drogami).Inne typy gruntów rolniczych tworzą niewielkie enklawy w obrębie tła krajobrazowego. Udział pozostałych form pokrycia terenu jest najczęściej niewielki. Zwykle obszary zabudowane stanowią obiekty punktowe, np. zakłady przetwórstwa owocowo-warzywnego i obiekty towarzyszące. 6g. Z przewagą terenów zabudowanych o charakterze wiejskim Tłem krajobrazowym jest wyodrębniona z otoczenia intensywna i zwarta zabudowa o charakterze wiejskim, o układzie siedliska wraz z ogrodami przydomowymi, otoczona funkcjonującymi obszarami polnymi.Każdorazowo należy rozpatrzyć różnice i zbieżność z podtypem 8c i odpowiednio dokonać klasyfikacji krajobrazu. 7. Mozaikowe 7a. Z przewagą terenów porolnych Tłem krajobrazowym jest mozaikowy układ form użytkowania terenu: sadów, nieużytków, zagajników (żadna z nich nie stanowi dominującej formy) oraz rozproszonej zabudowy: zakładów produkcyjnych, baz sprzętu, magazynów i składów oraz obiektów infrastruktury technicznej, np. energetyki wiatrowej, lub rozproszonej zabudowy mieszkaniowej. 7b. Podmiejskie Tłem krajobrazowym jest mozaikowy układ form użytkowania terenu (nieużytki, zagajniki), na którym dominują wielkoprzestrzenne zabudowania magazynowo-składowe oraz rozproszona zabudowa centrów handlowych, zakładów produkcyjnych, baz sprzętu, sortowni i składowisk odpadów komunalnych i przemysłowych lub rozproszonej zabudowy mieszkaniowej w sąsiedztwie krajobrazów miejskich. 8. Podmiejskie i osadnicze 8a. Leśno-osadnicze o charakterze willowym Tłem krajobrazowym są wielkoobszarowe kompleksy zabudowy willowej, w otoczeniu leśnym (najczęściej powyżej 100 ha), perforowanym przez budownictwo jednorodzinne, w sąsiedztwie krajobrazów miejskich. 8b. Wielkie kompleksy hotelowo-sportowe Tłem krajobrazowym są duże kompleksy zabudowy hotelowej (o powierzchni powyżej 10 ha), przeważnie wielkogabarytowej, w otoczeniu zabudowy towarzyszącej (parkingi, drogi dojazdowe, tereny sportowo-rekreacyjne i inne tereny zieleni urządzonej). 8c. Miejscowości o zwartej, wielorzędowej zabudowie o charakterze wiejskim Tłem krajobrazowym jest wyodrębniona z otoczenia intensywna i zwarta zabudowa, głównie o charakterze wiejskim, z dominującą funkcją mieszkaniową. Z dawnego funkcjonalnego układu rolniczego zachowały się głównie: układ siedliska, ogrody przydomowe oraz zarastające ugory. 8d. Zróżnicowana typologicznie i przestrzennie zabudowa nierolnicza na terenach wcześniej rolniczych Tłem krajobrazowym są pofragmentowane i perforowane kompleksy zabudowy osadniczej, zarówno starsze, jak i współczesne (tzw. osiedla deweloperskie) złożone w szczególności ze standaryzowanych architektonicznie zespołów obiektów mieszkalnych, z systemem dróg dojazdowych w mozaice z gruntami rolnymi (mogą być nadal użytkowane rolniczo), tzw. urbanizacja łanowa lub urbanizacja skupiona. 8e. Wielkoobszarowe zespoły pałacowo-parkowe i klasztorne oraz inne komponowane układy architektury, zieleni i wód Tło krajobrazowe tworzą mozaikowe kompozycje przestrzenne złożone z historycznych, wielkopowierzchniowych leśno-wodno-rolniczo-osadniczych kompozycji przestrzennych (powyżej 50 ha), w tym: zespoły pałacowo-parkowe, kalwarie, położone w strefach podmiejskich ogrody botaniczne, arboreta, skanseny, ogrody zoologiczne; występowanie zabudowy architektury sakralnej, klasztornej, dworskiej i rezydencjalnej oraz zabudowy towarzyszącej (stajnie, młyny, browary, gorzelnie, zabudowania mieszkalne, czworaki), w otoczeniu parkowym z udziałem stawów i starodrzewia, w szczególności grodzone i wyizolowane przestrzennie z terenów otaczających (najczęściej rolniczych lub leśnych). C. Krajobrazy kulturowe, w których struktura i funkcja są w pełni ukształtowane przez działalność człowieka 9. Miejskie 9a. Miejscowości z zachowanym układem historycznym Tłem krajobrazowym jest wyodrębniona z otwartego otoczenia intensywna i zwarta, wielkobszarowa zabudowa o cechach miejskich; występowanie rynku i koncentryczny układ ulic, obecność historycznych obiektów architektonicznych o cechach osadniczych (w szczególności kilkukondygnacyjnych), funkcjach publicznych i sakralnych (kościół, ratusz, urząd miasta lub gminy, szkoła). 9b. Miejscowości o charakterze współczesnym Tłem krajobrazowym jest wyodrębniona z otwartego otoczenia intensywna i zwarta, wielkobszarowa zabudowa o cechach osadniczych miejskich (w szczególności kilkukondygnacyjna); jednostka złożona ze współczesnych obiektów architektury osadniczej oraz zabudowań o funkcjach publicznych, możliwy plac centralny o funkcjach rynku. 10. Wielkomiejskie 10a. Zespoły urbanistyczne o zachowanych założeniach historycznych Tłem krajobrazowym są historyczne, wielkopowierzchniowe zespoły miejskie z wykształconym przestrzennie centrum (o powierzchni powyżej 100 ha), wyodrębnione stare miasto (np. fragmenty murów miejskich) z otoczenia zabudowy wielkomiejskiej o innych cechach przestrzennych; występowanie obiektów użyteczności publicznej o typowej dla określonej epoki historycznej architekturze (w tym obiektów sakralnych); wielokondygnacyjna, kwartałowa zabudowa, która może posiadać charakter zabytkowy, o funkcjach mieszkaniowych i usługowych; możliwe zachowane fragmenty dawnych umocnień i fortyfikacji – architektura militaris; także tereny reprezentacyjnych zespołów rezydencjalnych i sakralnych pełniących funkcje publiczne. 10b. Nowoczesne centra miast Tłem krajobrazowym jest wyodrębnione przestrzennie centrum, o skupionych obiektach o nowoczesnej architekturze, wielokondygnacyjnej zabudowie, która w szczególności pełni funkcje usługowe (finanse, handel i kultura) i metropolitalne. 10c. Obszary zabudowy mieszkaniowej Tłem krajobrazowym jest skupiona zabudowa mieszkalna, w ramach której można wyróżnić kilka odmian architektonicznych, w szczególności: osiedla bloków wielokondygnacyjnych, osiedla domów jednorodzinnych o zróżnicowanej lub standaryzowanej architekturze, oraz zabudowa innego rodzaju, w szczególności zabudowa biurowa, w otoczeniu zieleni urządzonej oraz osiedla patronackie (osiedla robotnicze położone w bezpośrednim sąsiedztwie terenów przemysłowych o charakterystycznej stylistyce i układzie, zabudowa z cegły lub kamienia). 10d. Wielkie centra handlowe, logistyczne i składowo-magazynowe Tłem krajobrazowym są wielkoobszarowe tereny zajęte pod niską zabudowę centrów handlowych (o powierzchni powyżej 100 ha) oraz hal magazynowych i składowych, drogi dojazdowe i wielkopowierzchniowe parkingi, na których mogą występować również obiekty małej architektury reklamowej. 10e. Tereny sportowo-rekreacyjne Tłem krajobrazowym są wyodrębnione duże zespoły przestrzenne (o powierzchni powyżej 50 ha), w szczególności tereny stadionów, hal sportowych, kortów tenisowych i basenów oraz tereny towarzyszące w postaci form zieleni urządzonej (parki miejskie, ogrody działkowe); ogrody zoologiczne, ogrody botaniczne, lasy komunalne i tereny parków rozrywki. 10f. Wielkie nekropolie Tłem krajobrazowym są wyodrębnione wielkopowierzchniowe cmentarze o specyficznej zabudowie z obiektami małej architektury religijnej (kaplice, figury, sarkofagi), o uporządkowanym układzie zieleni komponowanej. 11. Wodnogospodarcze 11a. Duże sztuczne zbiorniki wodne o różnych funkcjach Tłem są wielkopowierzchniowe zbiorniki wodne (o powierzchni powyżej 100 ha) wraz z terenami przyległymi oraz zaporami i tamami wodnymi i obwałowaniami, urządzeniami dużych elektrowni wodnych i infrastrukturą przesyłową oraz towarzyszącymi zabudowaniami; zbiorniki retencyjne dla miast i wielkich zakładów produkcyjnych; zbiorniki przeciwpowodziowe; zabudowa inżynieryjna i hydrotechniczna dolin o wysokim stopniu wyizolowania podłoża materiałem nieprzepuszczalnym. 11b. Nabrzeża portowe, stocznie, porty morskie i rzeczne Tłem krajobrazowym jest infrastruktura portowa i stoczniowa o układzie pasowym z charakterystyczną architekturą zabudowań i urządzeń stanowiących dominanty krajobrazowe w postaci żurawi, dźwigów i suwnic. Linia brzegowa mola, pirsu, falochronu lub kanału portowego wraz z przyległymi terenami portowymi, odpowiednio przystosowane (uzbrojone) do postoju i obsługi jednostek pływających. 12. Przemysłowe i energetyczne 12a. Duże kompleksy przemysłowe Tłem krajobrazowym są wyodrębniające się wielkopowierzchniowe kompleksy przemysłowe (o powierzchni powyżej 100 ha), położone wmieście lub poza nim. Tereny zabudowy zwartej o typowej architekturze przemysłowej: wysokie kominy lub wieże wyciągowe i szyby kopalń, wielkogabarytowe hale produkcyjne, systemy chłodzące, zabudowa pieców hutniczych i koksowni, hałdy, urządzenia transportowe; tereny składowania i sortowania odpadów komunalnych i przemysłowych, występowanie infrastruktury towarzyszącej w postaci dróg dojazdowych, bocznic kolejowych, parkingów; tereny trwale wyłączone z użytkowania przemysłowego – krajobrazy poprzemysłowe. 12b. Wielkie kompleksy elektrowni konwencjonalnych oraz wielkie farmy fotowoltaiczne Tłem krajobrazowym są wielkopowierzchniowe (powyżej 100 ha) zabudowania elektrowni i elektrociepłowni konwencjonalnych z systemem charakterystycznych chłodni kominowych i urządzeń przesyłowych oraz urządzeń i systemów zbiorników chłodzących lub wielkopowierzchniowe (powyżej 100 ha) systemy urządzeń fotowoltaicznych. 13. Górnicze 13a. Tereny czynnej wielkopowierzchniowej eksploatacji odkrywkowej Tłem krajobrazowym jest przekształcona powierzchnia ziemi, najczęściej pokryta roślinnością szczątkową lub nieustabilizowaną pod względem typologicznym i użytkowym. Przekształcenie obejmuje zmieniające się w czasie wielkopowierzchniowe wyrobiska lub zespoły wyrobisk surowców skalnych, energetycznych, surowców chemicznych i metalicznych oraz kruszyw i piasku; wielkie zwałowiska skały płonnej, niecki osiadania, przełożone sztuczne koryta rzek. Ponadto występuje zabudowa złożona z infrastruktury naziemnej w postaci wież wyciągowych, szybów wiertniczych, osadników, rowów odwadniających oraz obiekty infrastruktury towarzyszącej w postaci dróg dojazdowych, bocznic kolejowych, parku maszynowego. 13b. Tereny zakończonej wielkopowierzchniowej eksploatacji odkrywkowej Tłem krajobrazowym jest przekształcona powierzchnia ziemi, najczęściej pokryta świadomie kształtowaną roślinnością, w obrębie której mogą znajdować się kompleksy zbiorników wodnych powyrobiskowych. Przekształcenie obejmuje ustabilizowane i kierunkowo rekultywowane wielkopowierzchniowe wyrobiska lub zespoły wyrobisk surowców skalnych, energetycznych, surowców chemicznych i metalicznych oraz kruszyw i piasku. Nowe formy i ukształtowanie terenu najczęściej nie odpowiadają wcześniejszym cechom charakterystycznym regionu. 13c. Tereny czynnej eksploatacji podziemnej Tłem krajobrazowym jest przekształcona powierzchnia ziemi (w szczególności kilkusethektarowe zwałowiska, hałdy mogące zawierać metale ciężkie i inne substancje toksyczne, o niskim albedo) najczęściej pozbawiona roślinności lub fragmentarycznie pokryta roślinnością ruderalną w wyniku spontanicznej sukcesji (gatunki pionierskie, hemikryptofity); kompleksy odstojników zawierających substancje toksyczne, niecki osiadań gruntów oraz wysokie nagromadzenie infrastruktury technicznej (przesyłowej, transportowej i magazynowej). 13d. Tereny zakończonej eksploatacji podziemnej Tłem krajobrazowym jest przekształcona powierzchnia ziemi, w szczególności kilkusethektarowe zwałowiska, hałdy zrekultywowane w kierunku leśnym lub obszary, na których przebiegają procesy sukcesyjne; tereny, dla których nie określono nowego przeznaczenia; zneutralizowane chemicznie i ekologicznie odstojniki, niecki osiadania gruntów i zrekultywowane lub rekultywowane zwałowiska (hałdy); nieużytkowana infrastruktura, w szczególności mosty, nasypy, linie kolejowe, bocznice, drogi techniczne. 14. Komunikacyjne 14a. Węzły komunikacyjne i transportowe Tłem krajobrazowym są obszary o przekształconej powierzchni ziemi, pokryte materiałem nierodzimym lub sztucznym, wielkoprzestrzenne (o powierzchni powyżej 100 ha) układy powiązań drogowych i węzłów kolejowych. 14b. Kompleksy lotniskowe Tłem krajobrazowym są obszary o przekształconej powierzchni ziemi, pokryte nieprzepuszczalnym materiałem sztucznym, kompleksy wielkoprzestrzenne (o powierzchni powyżej 100 ha) o niskiej zabudowie, tereny pasów startowych, towarzyszących parkingów i zabudowy wysokiej – systemu wież kontroli lotów. 15. Ludyczne Parki rozrywki Tłem krajobrazowym jest wielkopowierzchniowa zabudowa (o powierzchni powyżej 10 ha) o różnym stopniu skupienia pełniąca funkcje rozrywkowe, w szczególności imitująca świat innych epok historycznych, świat baśni lub miejsca z innych regionów świata. 1) Nadrzędna kategoria systematyki krajobrazów wydzielona na podstawie skali aktualnego antropogenicznego przekształcenia terenu. Grupy A, B i C wskazują na przynależność krajobrazów do danej kategorii na podstawie kryterium strukturalno-procesowego (funkcjonalnego) służącego do uszeregowania krajobrazów wzdłuż umownego gradientu zastępowania naturalnych form i czynników kształtujących krajobraz przez formy i czynniki antropogeniczne. 2) Jednostka typologiczna wyróżniana na podstawie dominujących form pokrycia terenu. Podstawowa kategoria systematyki krajobrazów stosowana w procedurze delimitacji i identyfikacji krajobrazów. 3) Drugorzędna kategoria systematyczna krajobrazów, będąca wynikiem podziału typów, wyróżniana na podstawie różnic w strukturze przestrzennej oraz charakteru dominujących w krajobrazie czynników i funkcji. 4) W poszczególnych opisach charakterystyk podtypów w nawiasach podano rekomendowane minimalne wielkości powierzchni krajobrazów w danych podtypach. Ograniczenie to zostało wprowadzone celem zobrazowania skali, w jakiej dana powierzchnia powinna być rozpatrywana. Jednak, mając na uwadze różnorodność zagospodarowania terenu oraz rzeźby terenu i ich wzajemne relacje, dopuszcza się możliwość wydzielania krajobrazów o powierzchni mniejszej niż rekomendowana dla poszczególnych podtypów. 5) Typy siedliskowe lasu: a) siedliska lasowe: las mieszany świeży (LMśw), las mieszany wilgotny (LMw), las świeży (Lśw), las wilgotny (Lw), las mieszany wyżynny świeży (LMwyżśw), las wyżynny świeży (Lwyżśw), las mieszany wyżynny wilgotny (LMwyżw), las wyżynny wilgotny (Lwyżw), las mieszany górski świeży (LMGśw), las górski świeży (LGśw), las mieszany górski wilgotny (LMGw), las górski wilgotny (LGw), b) siedliska borowe: bór suchy (Bs), bór świeży (Bśw), bór wilgotny (Bw), bór mieszany świeży (BMśw), bór mieszany wilgotny (BMw), bór mieszany wyżynny świeży (BMwyżśw), bór mieszany wyżynny wilgotny (BMwyżw), bór wysokogórski (BWG), bór górski świeży (BGśw), bór mieszany górski świeży (BMGśw), bór mieszany górski wilgotny (BMGw), c) siedliska łęgowe, olsowe i bagienne: bór bagienny (Bb), bór mieszany bagienny (BMb), las mieszany bagienny (LMb), ols (O1), las łęgowy (Lł), ols jesionowy (O1J), las łęgowy wyżynny (Lłwyż), ols jesionowy wyżynny (OIJwyż), las łęgowy górski (LłG), bór górski bagienny (BGb), bór mieszany górski bagienny (BMGb), ols jesionowy górski (O1JG).
+
+## Załącznik nr 3 — – Metodyka charakterystyki zidentyfikowanych krajobrazów
+
+1.
+Charakterystyka zidentyfikowanych krajobrazów sporządzana jest przez określenie cech analitycznych: przyrodniczych i kulturowych oraz syntetycznych (tabele 1–3), a następnie ujęcie ich w Karcie Charakterystyki Krajobrazu (tabela 4).
+2.
+Dla każdego zidentyfikowanego krajobrazu wypełnia się Kartę Charakterystyki Krajobrazu, w której wskazuje się wszystkie cechy spośród wskazanych w tabelach 1–3 jako obligatoryjne oraz te z wymienionych jako fakultatywne, które są istotne dla danego krajobrazu, a jednocześnie możliwe do zidentyfikowania. Karty Charakterystyki Krajobrazu mogą być sporządzone wyłącznie w formie elektronicznej.
+3.
+Wypełnienie Karty Charakterystyki Kraj obrazu polega na:
+1)
+podaniu dla każdej cechy określonej w tabelach 1–3 jako obligatoryjna wartości wskaźnika zgodnie z jego opisem oraz we wskazanej jednostce albo jednego z oznaczeń:
+a)
+„0” – gdy dane zjawisko lub obiekt nie występuje,
+b)
+„bd” – gdy brak jest dostępnych danych dla całego województwa w tym zakresie;
+2)
+podaniu dla istotnych cech określonych w tabelach 1–3 jako fakultatywne wartości wskaźnika zgodnie z jego opisem oraz we wskazanej jednostce.
+4.
+Cechy analityczne – przyrodnicze krajobrazu
+Tabela 1
+Cecha Wskaźnik Rodzaje obiektów lub informacje dodatkowe Fakultatywne (F)/ Obligatoryjne (O) oznaczenie nazwa oznaczenie opis wskaźnika jednostka wskaźnika 1 2 3 4 5 6 7 A1 Obszary chronione i ochrona gatunkowa1) Ala Udział procentowy całkowitej powierzchni parków narodowych i rezerwatów przyrody oraz obszarów Sieci Rezerwatów Biosfery UNESCO (MaB) w powierzchni krajobrazu % powierzchni krajobrazu Wymienić zgodnie z opisem wskaźnika formy ochrony przyrody O Alb Udział procentowy całkowitej powierzchni parków kraj obrazowych i obszarów chronionego krajobrazu (niewchodzących do wskaźnika Ala) w powierzchni krajobrazu % powierzchni krajobrazu Wymienić zgodnie z opisem wskaźnika formy ochrony przyrody O A1c Liczba typów siedlisk przyrodniczych objętych siecią Natura 2000, z wyłączeniem obszarów specjalnej ochrony ptaków (PLB), w powierzchni krajobrazu Liczba Wymienić wszystkie typy siedlisk przyrodniczych O A1d Udział procentowy całkowitej powierzchni wszystkich obszarów objętych siecią Natura 2000 w powierzchni krajobrazu % powierzchni krajobrazu O A1e Udział procentowy całkowitej powierzchni lasów ochronnych (niewchodzących do wskaźników A1a i Alb) w powierzchni krajobrazu % powierzchni krajobrazu F A1f Zagęszczenie na powierzchni krajobrazu: pomników przyrody, użytków ekologicznych, stanowisk dokumentacyjnych oraz zespołów przyrodniczo-krajobrazowych Liczba/km O A1g Występowanie osobników wybranych gatunków wskaźnikowych: bocian biały, bocian czarny, żuraw, orlik krzykliwy, bielik Liczba gatunków Wymienić wszystkie gatunki wskaźnikowe występujące w danym krajobrazie, który stanowi dla nich obszary lęgowe i żerowiskowe.Jako dodatkową informację można podać liczebność. F A2 Cenne obiekty przyrodnicze nieuwzględnione w ramach cechy A1 A2a Pojedyncze obiekty geologiczne i geomorfologiczne Liczba Fakultatywnie podać formę obiektu:1) formy wodnolodowcowe: a) równiny wodnolodowcowe, b) krawędzie erozyjne, c) ozy, d) kemy, e) drumliny, f) sandry, g) inne;2) formy eoliczne: a) wydmy i ich zespoły, b) pola piasków przewianych, c) pola lessowe, d) inne;3) formy rzeczne: a) doliny rzeczne, b) terasy rzeczne, c) meandry, d) bystrza, kaskady, wodospady, e) inne;4) formy wietrzeniowo-denudacyjne: a) ostańce skalne, b) krawędzie lub kuesty, c) osuwiska i inne formy ruchów masowych, d) żleby i piargi, e) gołoborza, f) inne;5) formy tektoniczne: a) rowy tektoniczne, b) zręby tektoniczne, c) inne;6) formy wulkaniczne: a) stożki wulkaniczne, b) kominy wulkaniczne, c) inne O A2b Zbiorniki wodne naturalne i sztuczne Liczba/km2 Fakultatywnie podać kategorie zbiornika:1) naturalne zbiorniki wodne (w tym jeziorka, starorzecza);2) naturalne, bardzo przekształcone zbiorniki wodne (np. jeziora z wybetonowanymi odcinkami brzegów; jeziora obwałowane i podpiętrzone);3) sztuczne zbiorniki wodne (w tym stawy, zbiorniki zaporowe, kopane) O A2c Lokalne zabagnienia, torfowiska, turzycowiska i szuwary Liczba/km F A3 Typy siedliskowe lasu i drzewostanu A3a Siedliska lasowe występujące w danym krajobrazie % powierzchni krajobrazu Fakultatywnie informacje te można rozdzielić na poszczególne typy siedlisk2). O A3b Siedliska borowe występujące w danym krajobrazie % powierzchni krajobrazu O A3c Siedliska łęgowe, olsowe i bagienne występujące w danym krajobrazie % powierzchni krajobrazu O A3d Lasy w wieku ponad 100 lat występujące w danym krajobrazie % powierzchni krajobrazu F A4 Granice z wodami morskimi A4 Długość brzegu morskiego, w tym długość klifów km O A5 Korytarze ekologiczne3) A5 Udział procentowy obszarów pełniących funkcję korytarzy ekologicznych w skali ogólnopolskiej w powierzchni krajobrazu % powierzchni krajobrazu O A6 Zadrzewienia4) lub zakrzewienia liniowe A6a Gęstość wszystkich liniowych zadrzewień lub zakrzewień (przydrożnych, śródpolnych, nad ciekami) i innych w powierzchni krajobrazu km/km2 Fakultatywnie podać informację, czy są to zadrzewienia jedno – lub więcej szeregowe oraz czy tworzą sieć (kratę), czy są niezależne. O A6b Gęstość wszystkich liniowych przydrożnych zadrzewień lub zakrzewień w powierzchni krajobrazu km/km2 F A6c Gęstość liniowych śródpolnych zadrzewień lub zakrzewień (w tym czyżnie) w powierzchni krajobrazu km/km2 F A6d Gęstość liniowych zadrzewień lub zakrzewień nad ciekami (rzeki, kanały) w powierzchni krajobrazu km/km2 F A6e Gęstość liniowych innych zadrzewień lub zakrzewień w powierzchni krajobrazu km/km2 F A6f Małopowierzchniowe i jednostkowe nasadzenia. Liczba kęp drzew lub krzewów (powierzchnia mniejsza niż 0,1 ha) liczba/km2 Dodatkowa informacja – sposób rozmieszczenia (skupiskowy, równomierny, losowy) F A7 Rozczłonkowanie powierzchni A7a Gęstość cieków naturalnych w powierzchni krajobrazu km/km2 O A7b Gęstość kanałów w powierzchni krajobrazu km/km2 F A7c Gęstość wąwozów erozyjnych w powierzchni krajobrazu km/km2 O A7d Gęstość dróg publicznych utwardzonych w powierzchni krajobrazu, z wyłączeniem dróg leśnych, polnych, wewnątrzzakładowych km/km2 F A7e Gęstość barier antropogenicznych w powierzchni krajobrazu, z wyłączeniem dróg, w szczególności linie kolejowe, linie wysokiego napięcia km/km2 Dodatkowy opis rodzaju barier F A8 Pokrycie terenu A8a Udział procentowy powierzchni zajętej przez lasy w powierzchni krajobrazu % powierzchni krajobrazu F A8b Udział procentowy powierzchni zajętej przez grunty orne w powierzchni krajobrazu % powierzchni krajobrazu F A8c Udział procentowy powierzchni zajętej przez łąki i pastwiska w powierzchni krajobrazu % powierzchni krajobrazu F A8d Udział procentowy powierzchni zajętej przez sady i plantacje w powierzchni krajobrazu % powierzchni krajobrazu F A8e Udział procentowy powierzchni zajętej przez wody powierzchniowe w powierzchni krajobrazu % powierzchni krajobrazu F A8f Udział procentowy powierzchni zajętej przez obszary zabudowane w powierzchni krajobrazu % powierzchni krajobrazu F A8g Udział procentowy powierzchni zajętej przez obszary podmokłe w powierzchni krajobrazu % powierzchni krajobrazu F A8h Udział procentowy powierzchni zajętej przez pozostałe formy pokrycia terenu w powierzchni krajobrazu % powierzchni krajobrazu F A9 Pojedyncze pole (działka rolna)5) A9a Średnia wielkość działki rolnej ha F A9b Odchylenie standardowe wielkości średniej działki rolnej wskaźnik F A9c Średni wskaźnik kształtu działki rolnej6) wskaźnik F A10 Struktura przestrzenna Al0a Różnorodność powierzchniowa7) wskaźnik O A10b Integralność tła kraj obrazowego8) wskaźnik F
+5.1.
+Cechy analityczne – kulturowe krajobrazu W ramach charakterystyki cech analitycznych kulturowych należy wziąć pod uwagę zabytki oraz obiekty, które nie noszą cech zabytkowych (nie spełniają m.in. takich kryteriów jak dawność lub historyczność), ale charakteryzują je wartości estetyczne lub emocjonalne lub są istotne dla wartości danego krajobrazu (obiekty wyróżniające się).
+Tabela 2
+Cecha Wskaźnik9) Rodzaje obiektów Fakultatywne (F)/ Obligatoryjne (O) oznaczenie nazwa oznaczenie opis 1 2 3 4 5 6 B1 Obiekty archeologiczne B1a Grodzisko O B1b Osada B1c Cmentarzysko B1d Stanowisko archeologiczne B1e Pojedynczy kurhan B1f Obiekt archeologiczny o nieustalonej funkcji lub nieprzebadany Pozostałe wyróżniające się obiekty niezaliczone do wskaźników B1a-B1e i ujęte w rejestrach zabytków. B2 Układy ruralistyczne i obiekty zabudowy wiejskiej i podmiejskiej B2a Wieś Typ morfologiczny:1. Ulicówka.2. Szeregówka.3. Łańcuchówka.4. Wielodrożnica.5. Rzędówka.6. Widlica.7. Okolnica.8. Owalnica.9. Wieś placowa.10. Inne wyróżniające się obiekty w ramach tego wskaźnika10). F B2b Osiedla samotnicze 1. Pojedyncze siedliska.2. Przysiółki.3. Zabudowania na terpach.4. Inne wyróżniające się obiekty w ramach tego wskaźnika10). F B2c Stopień zachowania tradycyjnej zabudowy wiejskiej na działce siedliskowej 1. Zachowany i cenny cały układ zagrody z budynkiem lub budynkami mieszkalnym(i), inwentarskim(i), składowym(i) i innym(i) gospodarczym(i) o charakterystycznych cechach regionalnych (konstrukcja, forma, detal).2. Zachowany częściowo układ zagrody z budynkiem lub budynkami mieszkalnym(i), inwentarskim(i), składowym(i) lub innym(i) gospodarczym(i) o charakterystycznych cechach regionalnych (konstrukcja, forma, detal).3. Budynki mieszkalne, składowe lub gospodarcze niewystępujące w układzie zagrody o charakterystycznych cechach regionalnych (konstrukcja, forma, detal). O B2d Obiekty – relikty gospodarki folwarczno-dworskiej11) 1. Pałace.2. Dwory.3. Zabudowania dworskie (stajnie, wozownie, czworaki).4. Parki podworskie lub przypałacowe z małą architekturą i stawami.5. Karczmy.6. Wiejskie place (z reliktami, np. pręgierze, wiejskie stawy tzw. kaczeńce).7. Inne wyróżniające się obiekty w ramach tego wskaźnika10). O B2e Obiekty hydrotechniki 1. Stawy.2. Studnie.3. Wieże wodne.4. Pompy wodne.5. Budowle ochrony brzegów morskich i morskich wód wewnętrznych.6. Inne wyróżniające się obiekty w ramach tego wskaźnika10). F B2f Obiekty związane z wypasem 1. Szałasy.2. Bacówki.3. Inne wyróżniające się obiekty w ramach tego wskaźnika10). O B2g Charakterystyczne regionalne ogrodzenia 1. Faszynowe lub drewniane płoty.2. Kamienne murki, podmurówki.3. Inne wyróżniające się obiekty w ramach tego wskaźnika10). F B2h Elementy kraj obrazu związane ze specyfiką upraw 1. Chmielniki.2. Pasieki.3. Winnice.4. Piwniczki winne.5. Ostrewki.6. Inne wyróżniające się obiekty w ramach tego wskaźnika10). F B2i Parki pełniące rolę biocenotyczną11), 12) 1. Parki niepielęgnowane.2. Parki pielęgnowane.3. Parki leśne.4. Parki uzdrowiskowe.5. Inne wyróżniające się obiekty w ramach tego wskaźnika, a niewykazane w ramach innych cech10). F B2j Inne obiekty zabudowy wiejskiej Pozostałe wyróżniające się obiekty zabudowy wiejskiej niezaliczone do wskaźników B2a-B2i. F B3 Obiekty dawnych granic i reliktowe formy własności B3a Elementy dawnych granic administracyjnych, w tym państwowych 1. Słupy graniczne.2. Strażnice, celnice.3. Zasieki, okopy.4. Zapory, postumenty od szlabanów.5. Inne wyróżniające się obiekty w ramach tego wskaźnika10). F B3b Elementy dawnych granic własności 1. Mury i murki grodzące.2. Wały graniczne.3. Drzewa i zadrzewienia 4)śródpolne.4. Inne wyróżniające się obiekty w ramach tego wskaźnika10). F B4 Obiekty architektury warownej, obronnej i wojskowej B4a Ufortyfikowane miasta, grody12) 1. Twierdze, fortece o charakterystycznej architekturze i udziale obiektów inżynierii ziemnej.2. Ufortyfikowane miasta.3. Dawne grody.4. Inne wyróżniające się obiekty w ramach tego wskaźnika10). O B4b Inne obiekty inkastelowane11) 1. Inkastelowane klasztory.2. Obmurowane, obwałowane kościoły.3. Inne wyróżniające się obiekty w ramach tego wskaźnika10). F B4c Obiekty w miejscach granicznych, punktach widokowych itp. 1. Zamki obronne.2. Warownie.3. Strażnice.4. Inne wyróżniające się obiekty w ramach tego wskaźnika10). O B4d Obwarowania starych miast o rodowodzie średniowiecznym11) 1. Mury miejskie.2. Fosy.3. Barbakany.4. Bramy.5. Palisady.6. Inne wyróżniające się obiekty w ramach tego wskaźnika10). O B4e Obszary i obiekty wojenne, systemy obronne 1. Schrony.2. Bunkry.3. Ziemianki.4. Transzeje i linie umocnień.5. Historyczne poligony.6. Koszary.7. Inne wyróżniające się obiekty w ramach tego wskaźnika10). F B4f Inne obiekty warowne, obronne i wojskowe Pozostałe wyróżniające się obiekty architektury warownej, obronnej i wojskowej niezaliczone do wskaźników B4a-B4e. O B5 Obiekty górnictwa, hutnictwa i energetyki B5a Wyrobiska górnicze i pogórnicze Wszystkie pojedyncze i skupione obiekty eksploatacji powierzchniowej surowców:1) kamieniołomy;2) piaskownie;3) glinianki;4) żwirownie;5) inne wyróżniające się obiekty w ramach tego wskaźnika10). F B5b Obiekty zabudowy kopalni hut11) 1. Szyby wyciągowe.2. Kominy i chłodnie.3. Zabytkowe obiekty administracji i obsługi kopalni i hut.4. Inne wyróżniające się obiekty w ramach tego wskaźnika10). F B5c Wieże wiertnicze ropy i gazu 1. Kiwony.2. Kieraty.3. Słupy, wieże wiertnicze.4. Inne wyróżniające się obiekty w ramach tego wskaźnika10). F B5d Hałdy Czynne i zrekultywowane:1) zwały i hałdy pogórnicze;2) zwały i hałdy pokutnicze;3) zwały i hałdy poenergetyczne;4) inne wyróżniające się obiekty w ramach tego wskaźnika10). F B5e Zbiorniki wodne w nieckach osiadania i inne zbiorniki pogórnicze 1. Zbiorniki poeksploatacyjne. Pojedyncze zbiorniki w nieckach osiadania.2. Inne wyróżniające się obiekty w ramach tego wskaźnika10). F B5f Obiekty o funkcjach energetycznych 1. Farmy wiatrowe.2. Farmy fotowoltaiczne.3. Inne wyróżniające się obiekty w ramach tego wskaźnika10). F B5g Inne obiekty pogórnicze i pohutnicze Pozostałe wyróżniające się obiekty górnictwa, hutnictwa i energetyki niezaliczone do wskaźników B5a-B5f. F B6 Obiekty rzemiosła i przemysłu B6a Obiekty związane z przetwórstwem drewna i zasobów leśnych 1. Smolarnie i potażnie.2. Mielerze i retorty.3. Inne wyróżniające się obiekty w ramach tego wskaźnika10). O Bób Obiekty małej hydroenergetyki 1. Młyny.2. Turbiny wodne.3. Młynówki.4. Kanały.5. Inne wyróżniające się obiekty w ramach tego wskaźnika10). O B6c Obiekty dawnego hutnictwa 1. Kuźnice.2. Dymarki.3. Inne wyróżniające się obiekty w ramach tego wskaźnika10). O B6d Obiekty rzemiosła włókienniczego 1. Tkalnie.2. Folusze.3. Garbarnie, farbiarnie.4. Inne wyróżniające się obiekty w ramach tego wskaźnika10). O B6e Obiekty przemysłu spożywczego 1. Browary.2. Gorzelnie.3. Cukrownie.4. Silosy na zboża.5. Wiatraki drewniane.6. Inne wyróżniające się obiekty w ramach tego wskaźnika10). O B6f Obiekty przetwórstwa skalnego 1. Cementownie.2. Wapienniki.3. Cegielnie.4. Inne wyróżniające się obiekty w ramach tego wskaźnika10). O B6g Inne obiekty przemysłu i rzemiosła Pozostałe wyróżniające się obiekty rzemiosła i przemysłu niezaliczone do wskaźników B6a-B6f. F B7 Kompleksy religijne i obiekty kultu B7a Obiekty kultu wyznania katolickiego 1. Klasztory.2. Kalwarie.3. Kościoły.4. Inne wyróżniające się obiekty w ramach tego wskaźnika10). O B7b Obiekty wyznań innych niż katolickie 1. Cerkwie.2. Meczety.3. Synagogi.4. Kościoły ewangelickie.5. Inne wyróżniające się obiekty w ramach tego wskaźnika10). O B7c Cmentarze 1. Komunalne.2. Katolickie.3. Żydowskie.4. Prawosławne.5. Grekokatolickie.6. Protestanckie.7. Muzułmańskie.8. Menonickie.9. Inne wyróżniające się obiekty w ramach tego wskaźnika10). O B7d Obiekty i skupienia obiektów małej architektury sakralnej 1. Kaplice i kapliczki.2. Drogi krzyżowe.3. Figury świętych.4. Krzyże przydrożne i wolno stojące.5. Inne wyróżniające się obiekty w ramach tego wskaźnika10). O B7e Obiekty i miejsca kultu przedchrześcijańskiego i niechrześcijańskiego 1. Kamienne kręgi.2. Inne wyróżniające się obiekty w ramach tego wskaźnika10), w szczególności miejsca sobótek, sabatów, dziadów. O B7f Inne obiekty kultu Pozostałe wyróżniające się obiekty religijne kultu niezaliczone do wskaźników B7a-B7e. F B8 Miejsca martyrologii i pamięci B8a Miejsca po rozegranych bitwach i wojnach 1. Pola bitew.2. Miejsca ważnych potyczek i akcji wojennych. O B8b Miejsca masowych straceń 1. Obozy masowej zagłady.2. Miejsca straceń. O B8c Miejsca upamiętnienia 1. Cmentarze wojenne.2. Cmentarze choleryczne i inne epidemiczne.3. Kopce.4. Inne wyróżniające się obiekty w ramach tego wskaźnika10). O B9 Obiekty architektury mieszczańskiej i rezydencjalnej B9a Obiekty i zespoły rezydencjalne 1. Zabytkowe kamienice i ich zespoły.2. Pałace i dwory.3. Wille.4. Inne wyróżniające się obiekty w ramach tego wskaźnika10). O B9b Osiedla i zabudowania patronackie 1. Osiedla o charakterystycznej architekturze.2. Specyficzne pojedyncze domy (np. domy stalowe) poza osiedlami.3. Inne wyróżniające się obiekty w ramach tego wskaźnika10). O B9c Obiekty użyteczności publicznej 1. Poczty.2. Banki.3. Sądy.4. Szpitale.5. Teatry, filharmonie.6. Szkoły.7. Ratusze.8. Inne wyróżniające się obiekty w ramach tego wskaźnika10). O B9d Obiekty handlowe 1. Kramy.2. Sukiennice.3. Jatki.4. Inne wyróżniające się obiekty w ramach tego wskaźnika10). O B9e Historyczne przestrzenie publiczne 1. Rynki, place.2. Parki miejskie i charakterystyczne skwery.3. Inne wyróżniające się obiekty w ramach tego wskaźnika10). O B9f Inne obiekty architektury mieszczańskiej i rezydencjalnej Pozostałe wyróżniające się obiekty architektury mieszczańskiej i rezydencjalnej niezaliczone do wskaźników B9a-B9e. F B10 Historyczne obiekty infrastruktury komunikacyjnej B10a Obiekty służące funkcji transportowej i podróżnej 1. Dworce kolejowe.2. Zajezdnie.3. Mosty, wiadukty.4. Inne wyróżniające się obiekty w ramach tego wskaźnika10). O B10b Liniowe struktury komunikacyjne13) 1. Linie kolejowe, w tym wąskotorowe.2. Linie tramwajowe. F B10c Obiekty hydrotechniczne 1. Przystanie wodne.2. Stare stocznie.3. Historyczne kanały wodne.4. Akwedukty, jazy, śluzy.5. Inne wyróżniające się obiekty w ramach tego wskaźnika10). O B10d Inne zabytkowe obiekty infrastruktury komunikacyjnej Pozostałe wyróżniające się obiekty infrastruktury komunikacyjnej niezaliczone do wskaźników B10a-B10c. F B11 Obiekty architektury uzdrowiskowej, turystyczno-rekreacyjnej, wypoczynkowej, sportowej, obserwacyjnej i nawigacyjnej B11a Obiekty architektury sanatoryjnej 1. Sanatoria.2. Pijalnie wód.3. Domy zdrojowe.4. Tężnie.5. Inne wyróżniające się obiekty w ramach tego wskaźnika10). O B11b Obiekty turystyczne i rekreacyjne 1. Amfiteatry.2. Ogrody botaniczne.3. Arboreta.4. Palmiarnie.5. Promenady.6. Mola.7. Deptaki.8. Inne wyróżniające się obiekty w ramach tego wskaźnika10). O B11c Obiekty noclegowe, hotelowe i gastronomiczne 1. Schroniska turystyczne.2. Bacówki turystyczne.3. Hotele o wyróżniającej się architekturze.4. Inne wyróżniające się obiekty w ramach tego wskaźnika10). F B11d Obiekty nawigacyjne i obserwacyjne 1. Wieże widokowe.2. Wieże triangulacyjne.3. Obserwatoria meteorologiczne i astronomiczne.4. Latarnie morskie.5. Inne wyróżniające się obiekty w ramach tego wskaźnika 10). F B11e Inne obiekty architektury uzdrowiskowej, turystyczno-rekreacyjnej, wypoczynkowej, sportowej, obserwacyjnej i nawigacyjnej Pozostałe wyróżniające się obiekty architektury uzdrowiskowej, turystyczno-rekreacyjnej i wypoczynkowej sportowej, obserwacyjnej i nawigacyjnej niezaliczone do wskaźników B11a-B11d. F B12 Obiekty chronione12) B12a Obiekty wpisane na listę Światowego Dziedzictwa UNESCO O B12b Formy ochrony zabytków 1. Wpis do rejestru zabytków.2. Uznanie za pomnik historii.3. Utworzenie parku kulturowego.4. Ustalenia ochrony w miejscowym planie zagospodarowania przestrzennego albo w decyzji o ustaleniu lokalizacji inwestycji celu publicznego, decyzji o warunkach zabudowy, decyzji o zezwoleniu na realizację inwestycji drogowej, decyzji o ustaleniu lokalizacji linii kolejowej lub decyzji o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego. O B13 Obiekty łączności B13 Obiekty łączności 1. Stacje bazowe telefonii komórkowej.2. Maszty radiowe lub radiowo-telewizyjne.3. Inne wyróżniające się obiekty w ramach tego wskaźnika10). F
+5.2.
+Dla wskaźników z tabeli 2 wskazuje się (jako informacje dodatkowe):
+1)
+status ochrony – park kulturowy (PK), pomnik historii (PH), wpis do rejestru zabytków (Z);
 oraz fakultatywnie:
-2) status ochrony ustalenia ochrony w miejscowym planie zagospodarowania przestrzennego albo w decyzji o ustaleniu lokalizacji inwestycji celu publicznego, decyzji o warunkach zabudowy, decyzji o zezwoleniu na realizację inwestycji drogowej, decyzji o ustaleniu lokalizacji linii kolejowej lub decyzji o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego (U);
-3) opis cech szczegółowych, w tym lokalizację, zachowane detale architektoniczne, formy skupienia obiektów, dostępność;
-4) czas utworzenia lub powstania rok, wiek lub epokę;
-5) obecne funkcjonowanie zgodne z pierwotnym przeznaczeniem: zgodne, niezgodne, nieużytkowane;
-6) stan zachowania według następującego opisu:
-a) bardzo dobry stan obiektu zgodny z pierwotną formą, autentyczna substancja obiektu w idealnej kondycji, doskonale utrzymana (np. po konserwacji, restauracji),
-b) dobry stan obiektu zgodny z pierwotną formą, brak śladów zniszczenia,
-c) zły występowanie poważnych odchyleń i zniekształceń formy obiektu (np. zanik autentycznej substancji, przebudowania stylistyczne),
-d) bardzo zły widoczne pozostałości zniszczonego, lecz niecałkowicie rozebranego obiektu;
-7) uwagi.
-6. Cechy syntetyczne krajobrazu Cechy syntetyczne określają w sposób ogólny zjawiska bezpośrednio niemierzalne, mające charakter złożony i zależne od bardzo wielu cech szczegółowych (analitycznych). Dla każdej cechy w Karcie Charakterystyki Krajobrazu należy podać wartość zgodnie ze wskazaniami zawartymi w kolumnie Definicja klas wskaźnika.
-Tabela 3 Cecha Fakultatywne ozna- Definicja klas wskaźnika (F)/Obligatoczenie nazwa ryjne (O) 1 2 3 4 C1 Tradycja 1. Krajobrazy tradycyjne obszary charakteryzujące się materialnymi lub niematerialnymi dowodami tradycji, w szczególności budowlanej, architektonicznej lub tradycji użytkowania terenu i stylu życia społeczności zamieszkującej obszar danego krajobrazu. Kultywowane są regionalne wzory budownictwa, architektura, detal stylistyczny, sposoby użytkowania ziemi, zachowana jest tradycyjna fizjonomia regionu i tradycje niematerialne (lokalne, regionalne), a także symbolika przestrzeni, w szczególności sacrum i genius loci. Obiekty lub zjawiska, świadczące o zachowaniu tradycji występują punktowo, tworzą ciągi lub nieregularne zbiory na ponad 50% powierzchni opisywanego obszaru.
-2. Krajobrazy, w których nie ujawniają się bezpośrednio ślady tradycji lokalnych lub regionalnych lub ujawniają się na poniżej 50% powierzchni danego krajobrazu.
-O C2 Tożsamość Krajobrazy, w których istnieje wyraźny przestrzenny zapis cech szczególnych i wyróżniających krajobraz, a także składników materialnych krajobrazu oraz niematerialnych wartości kultywowanych przez mieszkańców, w tym także idei, przekonań, poglądów religijnych, przynależności historycznych, etnicznych, językowych, kultywowania specyficznych obyczajów.
-1 2 3 4 Wskaźnik ten jest skorelowany ze swojskością F krajobrazu i jego tradycją.
-1. Krajobrazy wykazujące cechę tożsamości, gdy w badaniach ankietowych ponad 75% badanych osób wykazało ten rodzaj identyfikacji z miejscem (krajobrazem).
-2. Krajobrazy tracące swą cechę tożsamości lub ją zyskujące, gdy wyniki ankietyzacji badanych osób wynoszą 25–75%.
-3. Krajobrazy pozbawione cechy tożsamości, gdy mniej niż 25% badanych pozytywnie oceniło swoją identyfikację z miejscem (krajobrazem).
-C3 Swojskość Swojskość określana jest przez dające się F stwierdzić na obszarze danego krajobrazu związki przynależności i przywiązania ludności do miejsca.
-1. Krajobrazy posiadające cechę swojskości, gdy ponad 75% ankietowanych potwierdziło istnienie związków przynależności i przywiązania do miejsca (krajobrazu).
-2. Krajobrazy tracące cechę swojskości lub ją zyskujące, gdy wyniki ankietyzacji badanych osób wskazują na wartość 25–75%.
-3. Krajobrazy pozbawione cechy swojskości, gdy mniej niż 25% badanych potwierdziło istnienie związków przynależności i przywiązania do miejsca (krajobrazu).
-C4 Funkcje Dominujące przeznaczenie obszaru wynika podstawowe z występującego zestawu cech i elementów krajobrazu przyrodniczych lub wprowadzonych na danym obszarze przez człowieka dla realizacji określonych celów. Dla określenia podstawowej O funkcji krajobrazu należy wybrać nie więcej niż dwie z podanej niżej listy (komplementarność funkcji podstawowych):
-1) funkcja schronienia:
-a) 1A funkcja osadnicza,
-b) 1B funkcja obronna (warowna);
-2) funkcja ekologiczna;
-3) funkcja ochrony przyrody;
-4) funkcja materialno-zaopatrzeniowa:
-a) 4A funkcja produkcji rolnej,
-b) 4B funkcja produkcji leśnej, 1 2 3 4
-c) 4C funkcja gospodarki wodnej i rybackiej,
-d) 4D funkcja górnicza,
-e) 4E funkcja przemysłowa,
-f) 4F funkcja magazynowo-składowa;
-5) funkcja usługowa;
-6) funkcja energozaopatrzeniowa (produkcji energii):
-a) 6A funkcja energetyczna,
-b) 6B funkcja górnicza;
-7) funkcja komunikacyjna:
-a) 7A funkcja transportowa,
-b) 7B funkcja zapewnienia łączności;
-8) funkcja kulturalna;
-9) funkcja rekreacyjna:
-a) 9A funkcja rozrywkowo-wypoczynkowa,
-b) 9B funkcja turystyczna,
-c) 9C funkcja rekreacyjno-sportowa;
-10) funkcja duchowa:
-a) 10A funkcja sakralna, w tym religijna,
-b) 10B funkcja symboliczna;
-11) funkcja estetyczna;
-12) funkcja inna niż wymieniona w pkt 1–11.
-C5 Funkcje Dodatkowe funkcje spełniane przez dany F uzupełniające krajobraz (obszar polifunkcyjny) lub wypełniane krajobrazu okresowo lub epizodyczne role obszaru wobec człowieka (lub środowiska) wynikające z obecności specyficznego zestawu cech i elementów przyrodniczych lub wprowadzonych przez człowieka. Należy wskazać maksymalnie dwie funkcje uzupełniające według kodów jak dla cechy C4.
-Tabela 4 Wzór Karty Charakterystyki Krajobrazu Moduł I. Metryczka ogólna krajobrazu Kod krajobrazu Typ, podtyp krajobrazu Typ rzeźby terenu Kod mezoregionu Nazwa mezoregionu Położenie administracyjne Typ krajobrazu naturalnego Kod podokręgu geobotanicznego Nazwa podokręgu geobotanicznego Typ krajobrazu roślinności potencjalnej Kod regionu historyczno-kulturowego Data opracowania zidentyfikowanego krajobrazu Typ regionu historyczno-kulturowego
-7. 1. Dla każdego zidentyfikowanego krajobrazu należy określić cechy oraz właściwe dla nich wskaźniki:
-1) analityczne określone na podstawie tabeli 1 i 2, dla których wskaźniki mają wartość niezerową, w tym:
-a) cechy charakterystyczne typologicznie, oznaczające cechy obszarów, obiektów lub procesów, których obecność jest powszechna w danym regionie i które zostały wybrane jako właściwe dla danego podtypu krajobrazu, zgodnie z załącznikiem nr 2.
-Wybór właściwych cech typologicznych dla poszczególnych podtypów polega na porównaniu wszystkich zidentyfikowanych cech występujących we wszystkich krajobrazach na obszarze województwa o tym samym podtypie.
-Jeżeli dana cecha występuje w co najmniej 75% krajobrazów o danym podtypie, należy ją uznać za cechę charakterystyczną typologiczną,
-b) cechy unikatowe to atrybuty przestrzeni, które nie są cechami charakterystycznymi danego podtypu krajobrazu i które występują w maksymalnie 5% krajobrazów danego podtypu w województwie. Cechy unikatowe to cechy różnicujące w sposób jednoznaczny krajobrazy tego samego podtypu. Na występowanie cech unikatowych wpływa niepowtarzalność i odrębność danego krajobrazu w stosunku do innych krajobrazów z tego samego podtypu;
-2) cechy syntetyczne krajobrazu określone dla danego krajobrazu na podstawie tabeli 3.
-Moduł II. Cechy analityczne Lp. Cecha Wskaźnik Wartość Informacje dodatkowe Blok 1. Cechy charakterystyczne typologiczne … Blok 2. Cechy unikatowe … Moduł III. Cechy syntetyczne Cecha Wartość wskaźnika Tradycja Tożsamość Swojskość Funkcje podstawowe krajobrazu Funkcje uzupełniające krajobrazu
-7. 2. Na potrzeby przeprowadzenia oceny zidentyfikowanych krajobrazów dokonuje się porównania poszczególnych cech charakterystycznych typologicznie z innymi krajobrazami zaklasyfikowanymi do tego samego podtypu. Wyniki uzyskane w tym module należy uwzględnić przy wypełnianiu Karty Oceny Krajobrazu.
-Moduł IV. Wyniki porównania z innymi krajobrazami Nr Cecha Wskaźnik Porównanie samego ze podtypu wszystkimi w województwie krajobrazami tego Moduł V sporządzany jest obligatoryjnie jedynie dla krajobrazów priorytetowych: Moduł V. Dokumentacja fotograficzna i kartograficzna Zdjęcie 1 Zdjęcie 1 … Mapa 1 Mapa 2 … Załącznik nr 4 Sposób oceny zidentyfikowanych krajobrazów
-1. Ocena zidentyfikowanych krajobrazów sporządzana jest na podstawie informacji zebranych w Kartach Oceny Krajobrazu , której wzór stanowi tabela 1.
-2. Ocena zidentyfikowanych krajobrazów polega na:
-1) przypisaniu wybranym cechom analitycznym wskazanym w module IV w Karcie Charakterystyki Krajobrazu oraz wybranym cechom syntetycznym wskazanym w module III Karty Charakterystyki Krajobrazu odpowiedniego stanu zachowania lub wykształcenia w skali trzystopniowej:
-a) I stan bardzo dobry lub dobry,
-b) II stan przeciętny,
-c) III stan niewystarczający lub zły;
-2) porównaniu cech analitycznych przyrodniczych (A) i kulturowych (B) charakterystycznych typologicznie z cechami innych krajobrazów tego samego podtypu w województwie;
-3) nadaniu cechom unikatowym konkretnych wartości zgodnie ze wskazaniami zawartymi w pkt 3 ppkt 3;
-4) nadaniu cechom syntetycznym (C) konkretnych wartości zgodnie ze wskazaniami zawartymi w pkt 3 ppkt 4.
-3. Ocena stanu zachowania lub wykształcenia cech analitycznych przyrodniczych i kulturowych krajobrazu oraz cech syntetycznych krajobrazu jest dokonywana w następujący sposób:
-1) spośród cech analitycznych przyrodniczych krajobrazu (zawartych w tabeli 1 w załączniku nr 3) bierze się pod uwagę cechy i wskaźniki: A1, A2, A3, A4, A5, A6a, A7a, A7c i A10a, które następnie ocenia się według poniższych zasad:
-a) wartość I przypisuje się w przypadku, gdy cecha charakterystyczna dla podtypu występuje znacznie silniej niż przeciętnie (co najmniej 1 odchylenie standardowe powyżej średniej),
-b) wartość III przypisuje się w przypadku, gdy cecha charakterystyczna dla podtypu występuje znacznie słabiej niż przeciętnie (co najmniej 1 odchylenie standardowe poniżej średniej),
-c) wartość II przypisuje się w pozostałych przypadkach;
-2) spośród cech analitycznych kulturowych krajobrazu (zawartych w tabeli 2 w załączniku nr 3) w ocenie wartości krajobrazu bierze się pod uwagę następujące cechy i wskaźniki: B1, B2c–B2j, B3, B4 i B6–B12, które następnie ocenia się według poniższych zasad:
-a) wartość I przypisuje się w przypadku, gdy cecha charakterystyczna dla podtypu występuje znacznie silniej niż przeciętnie (co najmniej 1 odchylenie standardowe powyżej średniej),
-b) wartość III przypisuje się w przypadku, gdy cecha charakterystyczna dla podtypu występuje znacznie słabiej niż przeciętnie (co najmniej 1 odchylenie standardowe poniżej średniej),
-c) wartość II przypisuje się w pozostałych przypadkach;
-3) cechom unikatowym przypisuje się ocenę według poniższych zasad :
-a) wartość I przypisuje się w przypadku, gdy cecha lub zestaw cech unikatowych wpływa na to, że dany krajobraz jest niepowtarzalny, a jednocześnie rozpoznawalny w sensie fizjonomicznym lub funkcjonalnym w porównaniu z pozostałymi krajobrazami danego podtypu w województwie,
-b) wartość II przypisuje się w przypadku, gdy cecha lub zestaw cech unikatowych nie ma wpływu na to, że dany krajobraz jest niepowtarzalny, a jednocześnie rozpoznawalny w sensie fizjonomicznym lub funkcjonalnym w porównaniu z pozostałymi krajobrazami danego podtypu w województwie;
-4) dla poszczególnych klas wskaźnika cech syntetycznych (zawartych w tabeli 3 w załączniku nr 3) wartości dla stanu zachowania lub wykształcenia określa się w następujący sposób:
-a) tradycja: 1 I, 2 III,
-b) tożsamość: 1 I, 2 II, 3 III,
-c) swojskość: 1 I, 2 II, 3 III.
+2)
+status ochrony – ustalenia ochrony w miejscowym planie zagospodarowania przestrzennego albo w decyzji o ustaleniu lokalizacji inwestycji celu publicznego, decyzji o warunkach zabudowy, decyzji o zezwoleniu na realizację inwestycji drogowej, decyzji o ustaleniu lokalizacji linii kolejowej lub decyzji o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego (U);
+3)
+opis cech szczegółowych, w tym lokalizację, zachowane detale architektoniczne, formy skupienia obiektów, dostępność;
+4)
+czas utworzenia lub powstania – rok, wiek lub epokę;
+5)
+obecne funkcjonowanie zgodne z pierwotnym przeznaczeniem: zgodne, niezgodne, nieużytkowane;
+6)
+stan zachowania według następującego opisu:
+a)
+bardzo dobry – stan obiektu zgodny z pierwotną formą, autentyczna substancja obiektu w idealnej kondycji, doskonale utrzymana (np. po konserwacji, restauracji),
+b)
+dobry – stan obiektu zgodny z pierwotną formą, brak śladów zniszczenia,
+c)
+zły – występowanie poważnych odchyleń i zniekształceń formy obiektu (np. zanik autentycznej substancji, przebudowania stylistyczne),
+d)
+bardzo zły – widoczne pozostałości zniszczonego, lecz niecałkowicie rozebranego obiektu;
+7)
+uwagi.
+6.
+Cechy syntetyczne krajobrazu Cechy syntetyczne określają w sposób ogólny zjawiska bezpośrednio niemierzalne, mające charakter złożony i zależne od bardzo wielu cech szczegółowych (analitycznych). Dla każdej cechy w Karcie Charakterystyki Krajobrazu należy podać wartość zgodnie ze wskazaniami zawartymi w kolumnie Definicja klas wskaźnika.
+Tabela 3
+Cecha Definicja klas wskaźnika Fakultatywne (F)/Obligatoryjne (O) oznaczenie nazwa 1 2 3 4 C1 Tradycja 1. Krajobrazy tradycyjne – obszary charakteryzujące się materialnymi lub niematerialnymi dowodami tradycji, w szczególności budowlanej, architektonicznej lub tradycji użytkowania terenu i stylu życia społeczności zamieszkującej obszar danego krajobrazu. Kultywowane są regionalne wzory budownictwa, architektura, detal stylistyczny, sposoby użytkowania ziemi, zachowana jest tradycyjna fizjonomia regionu i tradycje niematerialne (lokalne, regionalne), a także symbolika przestrzeni, w szczególności sacrum i genius loci. Obiekty lub zjawiska, świadczące o zachowaniu tradycji występują punktowo, tworzą ciągi lub nieregularne zbiory na ponad 50% powierzchni opisywanego obszaru.2. Krajobrazy, w których nie ujawniają się bezpośrednio ślady tradycji lokalnych lub regionalnych lub ujawniają się na poniżej 50% powierzchni danego krajobrazu. O C214) Tożsamość Krajobrazy, w których istnieje wyraźny przestrzenny zapis cech szczególnych i wyróżniających krajobraz, a także składników materialnych krajobrazu oraz niematerialnych wartości kultywowanych przez mieszkańców, w tym także idei, przekonań, poglądów religijnych, przynależności historycznych, etnicznych, językowych, kultywowania specyficznych obyczajów.Wskaźnik ten jest skorelowany ze swojskością krajobrazu i jego tradycją.1. Krajobrazy wykazujące cechę tożsamości, gdy w badaniach ankietowych ponad 75% badanych osób wykazało ten rodzaj identyfikacji z miejscem (krajobrazem).2. Krajobrazy tracące swą cechę tożsamości lub ją zyskujące, gdy wyniki ankietyzacji badanych osób wynoszą 25–75%.3. Krajobrazy pozbawione cechy tożsamości, gdy mniej niż 25% badanych pozytywnie oceniło swoją identyfikację z miejscem (krajobrazem). F C314) Swojskość Swojskość określana jest przez dające się stwierdzić na obszarze danego krajobrazu związki przynależności i przywiązania ludności do miejsca.1. Krajobrazy posiadające cechę swojskości, gdy ponad 75% ankietowanych potwierdziło istnienie związków przynależności i przywiązania do miejsca (krajobrazu).2. Krajobrazy tracące cechę swojskości lub ją zyskujące, gdy wyniki ankietyzacji badanych osób wskazują na wartość 25–75%.3. Krajobrazy pozbawione cechy swojskości, gdy mniej niż 25% badanych potwierdziło istnienie związków przynależności i przywiązania do miejsca (krajobrazu). F C4 Funkcje podstawowe krajobrazu Dominujące przeznaczenie obszaru wynika z występującego zestawu cech i elementów przyrodniczych lub wprowadzonych na danym obszarze przez człowieka dla realizacji określonych celów. Dla określenia podstawowej funkcji krajobrazu należy wybrać nie więcej niż dwie z podanej niżej listy (komplementarność funkcji podstawowych):1) funkcja schronienia: a) 1A – funkcja osadnicza, b) 1B – funkcja obronna (warowna);2) funkcja ekologiczna;3) funkcja ochrony przyrody;4) funkcja materialno-zaopatrzeniowa: a) 4A – funkcja produkcji rolnej, b) 4B – funkcja produkcji leśnej, c) 4C – funkcja gospodarki wodnej i rybackiej, d) 4D – funkcja górnicza, e) 4E-funkcja przemysłowa, f) 4F – funkcja magazynowo-składowa;5) funkcja usługowa;6) funkcja energozaopatrzeniowa (produkcji energii): a) 6A – funkcja energetyczna, b) 6B – funkcja górnicza;7) funkcja komunikacyjna: a) 7A – funkcja transportowa, b) 7B – funkcja zapewnienia łączności;8) funkcja kulturalna;9) funkcja rekreacyjna: a) 9A – funkcja rozrywkowo-wypoczynkowa, b) 9B – funkcja turystyczna, c) 9C – funkcja rekreacyjno-sportowa;10) funkcja duchowa: a) 10A – funkcja sakralna, w tym religijna, b) 10B-funkcja symboliczna;11) funkcja estetyczna;12) funkcja inna niż wymieniona w pkt 1–11. O C5 Funkcje uzupełniające krajobrazu Dodatkowe funkcje spełniane przez dany krajobraz (obszar polifunkcyjny) lub wypełniane okresowo lub epizodyczne role obszaru wobec człowieka (lub środowiska) wynikające z obecności specyficznego zestawu cech i elementów przyrodniczych lub wprowadzonych przez człowieka. Należy wskazać maksymalnie dwie funkcje uzupełniające według kodów jak dla cechy C4. F
+Tabela 4 Wzór Karty Charakterystyki Krajobrazu
+Moduł I. Metryczka ogólna krajobrazu Kod kraj obrazu15) Typ, podtyp krajobrazu 16) Typ rzeźby terenu 16) Kod mezoregionu Nazwa mezoregionu Położenie administracyjne Typ krajobrazu naturalnego17) Kod podokręgu geobotanicznego17) Nazwa podokręgu geobotanicznego17) Typ krajobrazu roślinności potencjalnej17) Kod regionu historyczno-kulturowego17) Data opracowania zidentyfikowanego krajobrazu Typ regionu historyczno-kulturowego17)
+7.1.
+Dla każdego zidentyfikowanego krajobrazu należy określić cechy oraz właściwe dla nich wskaźniki:
+1)
+analityczne – określone na podstawie tabeli 1 i 2, dla których wskaźniki mają wartość niezerową, w tym:
+a)
+cechy charakterystyczne typologicznie, oznaczające cechy obszarów, obiektów lub procesów, których obecność jest powszechna w danym regionie i które zostały wybrane jako właściwe dla danego podtypu krajobrazu, zgodnie z załącznikiem nr 2.
+Wybór właściwych cech typologicznych dla poszczególnych podtypów polega na porównaniu wszystkich zidentyfikowanych cech występujących we wszystkich krajobrazach na obszarze województwa o tym samym podtypie. Jeżeli dana cecha występuje w co najmniej 75% krajobrazów o danym podtypie, należy ją uznać za cechę charakterystyczną typologiczną,
+b)
+cechy unikatowe to atrybuty przestrzeni, które nie są cechami charakterystycznymi danego podtypu krajobrazu i które występują w maksymalnie 5% krajobrazów danego podtypu w województwie. Cechy unikatowe to cechy różnicujące w sposób jednoznaczny krajobrazy tego samego podtypu. Na występowanie cech unikatowych wpływa niepowtarzalność i odrębność danego krajobrazu w stosunku do innych krajobrazów z tego samego podtypu;
+2)
+cechy syntetyczne krajobrazu określone dla danego krajobrazu na podstawie tabeli 3. Moduł II. Cechy analityczne18) Lp. Cecha Wskaźnik Wartość Informacje dodatkowe Blok 1. Cechy charakterystyczne typologiczne Blok 2. Cechy unikatowe Moduł III. Cechy syntetyczne Cecha Wartość wskaźnika Tradycja Tożsamość Swojskość Funkcje podstawowe krajobrazu Funkcje uzupełniające krajobrazu
+7.2.
+Na potrzeby przeprowadzenia oceny zidentyfikowanych krajobrazów dokonuje się porównania poszczególnych cech charakterystycznych typologicznie z innymi krajobrazami zaklasyfikowanymi do tego samego podtypu. Wyniki uzyskane w tym module należy uwzględnić przy wypełnianiu Karty Oceny Krajobrazu. Moduł IV. Wyniki porównania z innymi kraj obrazami19) Nr Cecha Wskaźnik20) Porównanie21) ze wszystkimi krajobrazami tego samego podtypu w województwie Moduł V sporządzany jest obligatoryjnie jedynie dla krajobrazów priorytetowych: Moduł V. Dokumentacja fotograficzna22) i kartograficzna Zdjęcie 1 Zdjęcie 1 Mapa 1 Mapa 2
+1) Daną powierzchnię objętą kilkoma formami ochrony uwzględnia się tylko raz i w jednym wskaźniku. 2) Typy siedliskowe lasu:
+a)
+siedliska lasowe: las mieszany świeży (LMśw), las mieszany wilgotny (LMw), las świeży (Lśw), las wilgotny (Lw), las mieszany wyżynny świeży (LMwyżśw), las wyżynny świeży (Lwyżśw), las mieszany wyżynny wilgotny (LMwyżw), las wyżynny wilgotny (Lwyżw), las mieszany górski świeży (LMGśw), las górski świeży (LGśw), las mieszany górski wilgotny (LMGw), las górski wilgotny (LGw),
+b)
+siedliska borowe: bór suchy (Bs), bór świeży (Bśw), bór wilgotny (Bw), bór mieszany świeży (BMśw), bór mieszany wilgotny (BMw), bór mieszany wyżynny świeży (BMwyżśw), bór mieszany wyżynny wilgotny (BMwyżw), bór wysokogórski (BWG), bór górski świeży (BGśw), bór mieszany górski świeży (BMGśw), bór mieszany górski wilgotny (BMGw),
+c)
+siedliska łęgowe, olsowe i bagienne: bór bagienny (Bb), bór mieszany bagienny (BMb), las mieszany bagienny (LMb), ols (O1), las łęgowy (Lł), ols jesionowy (O1J), las łęgowy wyżynny (Lłwyż), ols jesionowy wyżynny (O1Jwyż), las łęgowy górski (LłG), bór górski bagienny (BGb), bór mieszany górski bagienny (BMGb), ols jesionowy górski (01JG).
+3) Korytarze ekologiczne wskazywane są na podstawie planów zagospodarowania przestrzennego województwa oraz informacji zawartych na stronie podmiotowej Generalnej Dyrekcji Ochrony Środowiska. 4) Zgodnie z definicją zawartą w art. 5 pkt 27 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2018 r. poz. 1614, 2244 i 2340). 5) Działka rolna w odniesieniu do sposobu użytkowania. 6) Wskaźnik kształtu oblicza się jako stosunek rzeczywistego obwodu danej działki rolnej do obwodu kwadratu o takiej samej powierzchni. 7) Różnorodność powierzchniowa – wskaźnik uwzględniający udział poszczególnych form pokrycia terenu w danym krajobrazie, obliczany ze wzoru: wskaźnik = -∑pilog2pi, gdzie kolejne pi – to udziały (nie procent, lecz ułamek dziesiętny całości) form pokrycia terenu określonych we wszystkich wskaźnikach z cechy A8. 8) Integralność tła krajobrazowego – wskaźnik, który przed obliczeniem wymaga przetworzenia mapy pokrycia terenu na dwie kategorie: a) tło krajobrazowe, b) inne niż tło krajobrazowe. Dla każdego z tych wskaźników należy następnie zliczyć z mapy liczbę płatów tła krajobrazowego (zmienna f) oraz liczbę perforacji w płatach tła krajobrazowego, czyli liczbę tych płatów, które nie są tłem krajobrazowym, ale są nim otoczone ze wszystkich stron (zmienna d). Obliczenia przebiegają następująco – oblicza się dwa wskaźniki cząstkowe: \( e_1 = {1 \over {f + d}}\ oraz\ e_2 = {f \over {f + g}} \) a następnie końcowy wskaźnik integralności tła krajobrazowego \( e = \sqrt {e_1^2 + e_2^2 } \) Interpretacja wskaźnika: wartości bliskie 1,4 – tło niepofragmentowane i nieperforowane, wartości bliskie 1,0 – tło pofragmentowane i nieperforowane, wartości bliskie 0,0 – tło niepofragmentowane i perforowane lub liczba fragmentów i perforacji bardzo wysoka, wartości bliskie 0,5 – tło pofragmentowane i perforowane – liczba fragmentów i perforacji zbliżona. Gdy liczba perforacji jest znacznie mniejsza od liczby fragmentów – wskaźnik wyższy niż 0,5; gdy liczba perforacji jest znacznie większa od liczby fragmentów – wskaźnik niższy niż 0,5. 9) Jednostką dla wskaźników w tej tabeli jest zagęszczenie, tj. liczba danych obiektów na km2, z wyjątkiem obiektów liniowych (patrz odnośnik nr 13). 10) Za obiekty określone jako „inne wyróżniające się obiekty w ramach tego wskaźnika” należy uznać wszystkie pozostałe zabytki oraz inne obiekty świadczące o lokalnej specyfice architektonicznej, charakteryzującej się cechami szczególnymi i niepowtarzalnymi, lub obiekty wyróżniające się w danym krajobrazie, np. stadiony, charakterystyczne wieżowce, mosty, które nie są zabytkami i nie noszą cech zabytkowych (nie spełniają kryteriów takich jak dawność i historyczność), ale charakteryzują się w szczególności ważnymi wartościami estetycznymi, emocjonalnymi lub są unikatowe. 11) Rozróżnienie wskaźnika na poszczególne rodzaje obiektów jest fakultatywne. 12) W ramach tego wskaźnika należy wymienić obiekty, które nie zostały wskazane w pozostałych wskaźnikach. 13) Wskaźnik liczony w jednostce km/km2, tj. długość danego obiektu na kilometr powierzchni. 14) Cechy C2 i C3 oceniane są na podstawie badań ankietowych. 15) Zgodnie z wytycznymi zawartymi w załączniku nr 1 w pkt 3. 16) Typ krajobrazu oraz typ rzeźby terenu określone zgodnie z załącznikiem nr 2. 17) Należy podać źródło informacji. 18) Należy wymienić cechy obligatoryjne oraz fakultatywne, dla których określono wartość. 19) Moduł IV dotyczy cech analitycznych (A i B). 20) Wskaźniki, które zostały określone w module II. 21) Wartości porównawcze dla cech analitycznych wyraża się w wielokrotnościach odchylenia standardowego od średniej dla całej rozpatrywanej populacji generalnej. Obliczenia wartości odchylenia standardowego (i odpowiednich wielokrotności) należy dokonać (po wcześniejszym zestawieniu danych dla wszystkich krajobrazów z właściwej grupy) w dowolnym, powszechnie stosowanym programie statystycznym. 22) Wszystkie fotografie powinny mieć metryczkę obejmującą m.in. kod krajobrazu i nazwę obiektu, imię i nazwisko autora, datę wykonania i georeferencję. Fotografie powinny przedstawiać cechy i obiekty oraz ogólne plany obrazujące fizjonomię i styl krajobrazu.
 
-## Załącznik nr 5 — Sposób wskazania krajobrazów priorytetowych
+## Załącznik nr 4 — – Sposób oceny zidentyfikowanych krajobrazów
 
-1. Wskazanie krajobrazu priorytetowego następuje po wskazaniu spełnienia przez zidentyfikowany krajobraz co najmniej jednego z poniższych kryteriów:
-1) unikatowości występowania oznaczającej, że krajobraz cechują niepowtarzalne cechy analityczne świadczące o indywidualności, odrębności i wyjątkowości.
-Krajobraz taki jest bardzo rzadko spotykany (jeden lub kilka o danym podtypie w województwie), a jednocześnie jest rozpoznawalny. Jest to krajobraz o wyrazistym i doskonale zachowanym stylu lub wyrazie krajobrazowym (w tym fizjonomicznym i funkcjonalnym), zachowanych w stanie co najmniej dobrym;
-2) reprezentatywności oznaczającej, że krajobraz stanowi modelowy, klasyczny przykład dla danego podtypu. Jednocześnie w przypadku krajobrazu z dominacją wartości przyrodniczych o bardzo wysokiej naturalności i zgodności ekosystemu z uwarunkowaniami abiotycznymi obejmuje on obszar optymalny pod względem funkcjonowania krajobrazu. W przypadku krajobrazów o przewadze wartości kulturowych (grupy B i C) reprezentuje on zestaw cech charakterystycznych zachowanych w stanie co najmniej dobrym typowym dla danej epoki historyczno-stylistycznej lub cywilizacyjno-kulturowej. Jednocześnie jest to krajobraz, który charakteryzuje się czystością formy rozumianej jako fizjonomicznie nieprzekształcona forma użytkowania;
-3) dotychczasowej ochrony prawnej oznaczającej, że w obrębie krajobrazu występują: obszary lub obiekty objęte statusem parków narodowych, obszary z listy światowego dziedzictwa przyrodniczego i kulturowego UNESCO, pomniki historii, rezerwaty przyrody i parki kulturowe;
-4) ważności krajobrazu oznaczającej, że krajobraz otrzymał najwyższą wartość we wszystkich kategoriach oceny cech analitycznych i syntetycznych.
-2. Procedura wyznaczania krajobrazów priorytetowych: Wskazanie krajobrazów priorytetowych opiera się na szczegółowej analizie treści Karty Oceny Krajobrazu, o której mowa w załączniku nr 4. Dla każdego z wymienionych wyżej kryteriów, służących do wyboru krajobrazów priorytetowych, występuje odmienny zestaw warunków formalnych, które przedstawiono poniżej:
-1) unikatowość występowania przynajmniej jedna cecha unikatowa wskazana w Karcie Oceny Krajobrazu ma wartość TAK w kolumnie Wskazania do typowania krajobrazu priorytetowego;
-2) reprezentatywność wszystkie cechy analityczne charakterystyczne dla danego podtypu mają wartość TAK w kolumnie Wskazania do typowania krajobrazu priorytetowego;
-3) dotychczasowa ochrona prawna co najmniej 90% powierzchni krajobrazu jest objęte statusem ochronnym, o którym mowa w pkt 1 ppkt 3;
-4) ważność krajobrazu krajobrazy, które otrzymały co najmniej 75% wskazań TAK w kolumnie Wskazania do typowania krajobrazu priorytetowego w Karcie Oceny Krajobrazu, a nie zostały wytypowane na podstawie wyżej wymienionych kryteriów.
-ogezcindoryzrp awtcizdeizd aineżorgaZ .A uneret abźezr i enzcigoloeg owtcizdeizD .1.A yłopsez hci i ymetsysokE .2.A uzarbojark anzcigoloke arutkurtS .3.A owtcindasO .1.B ogeworutluk awtcizdeizd aineżorgaZ .B arutketihcrA .2.B ezcinlor yrazsbO .3.B awodąl i andow aireinyżnI .4.B ewołsymezrp yrazsbO .5.B jewodoran icęimap i utluk acsjeiM .6.B ynnezrtsezrp dał i ajcyzopmoK .1.C uzarbojark iimonojzif aineżorgaZ .C enzcytetse yrolaW .2.C acsjeim ćśomasżoT .3.C enzcytsuka yrolaW .1.D ,hcynratinas i hcywohcapaz ,hcynzcytsuka wórolaw aineżorgaZ .D ewohcapaz yrolaW .2.D enratinas yrolaW .3.D
-2. Dla zidentyfikowanych zagrożeń dla możliwości zachowania wartości krajobrazu określa się źródło zagrożenia, skalę zagrożenia oraz stopień zagrożenia zgodnie z tabelami 2–4.
-Tabela 2. Klasyfikacja kodów źródeł zagrożenia Kod źródła Źródło zagrożenia zagrożenia I Gospodarka przestrzenna I.1 Budownictwo I.1.1 Niski poziom i przypadkowość zabudowy terenu I.1.2 Niezgodność budownictwa ze stylem architektonicznym regionu i typu krajobrazu I.2 Transport I.2.1 Drogownictwo I.2.2 Komunikacja I.2.3 Ruch komunikacyjny I.2.4 Transport morski I.3 Infrastruktura techniczna I.4 Procesy urbanizacyjne I.5 Planowanie przestrzenne I.5.1 Brak planowania krajobrazu I.6 Architektura terenów zieleni I.7 Inne II Branżowe II.1 Energetyka II.1.1 Górnictwo II.1.2 Ciepłownictwo II.1.3 Energia odnawialna II.2 Inżynieria środowiskowa II.3 Przemysł II.3.1 Zmiany technologii produkcji II.4 Gospodarka komunalna II.4.1 Odpady medyczne II.5 Inne III Zarządzanie środowiskiem III.1 Rolnictwo III.1.1 Intensyfikacja rolnictwa III.1.2 Zaniechanie rolnictwa III.1.3 Ogrodnictwo III.1.4 Upowszechnienie się upraw monokulturowych III.1.5 Chemizacja i mechanizacja rolnictwa III.2 Gospodarka wodna III.3 Gospodarka morska III.4 Gospodarka leśna III.5 Inne IV Ochrona przyrody IV.1 Naturalne procesy przyrodnicze IV.2 Brak zabiegów ochronnych V Ekonomiczne V.1 Niedostateczne środki finansowe V.2 Presje ekonomiczne VI Społeczno-kulturowe VI.1 Turystyka VI.2 Sport i rekreacja VI.3 Nielegalne pozyskanie VI.4 Niska kultura estetyczna i świadomość krajobrazowa VI.5 Wandalizm VI.6 Mieszanie się wzorców lokalnych i procesów globalnych w danym obszarze Tabela 3. Skala zagrożenia Punktacja Określenie Uwagi 0 brak zagrożeń Zagrożenia potencjalne to zagrożenia mogące z dużym prawdopodobieństwem wystąpić na analizowanym obszarze (w granicach danego krajobrazu) do czasu następnego audytu krajobrazowego.
-Oceniane są w szczególności na podstawie:
-1) studiów uwarunkowań i kierunków zagospodarowania przestrzennego gminy;
-1 zagrożenia potencjalne, niewielkie 2 zagrożenia potencjalne, umiarkowane 3 zagrożenia potencjalne, duże
-2) strategii rozwoju regionu;
-3) zgłaszanych przez różne podmioty propozycji zmian stosunków ekologicznych, zmian sposobu zagospodarowania i intensywności użytkowania terenu i związanych z tym zmian fizjonomii krajobrazu.
-4 zagrożenia istniejące, niewielkie, Zagrożenia istniejące to zagrożenia o słabnącym natężeniu występujące aktualnie, stwierdzone w szczególności na podstawie:
-1) obowiązujących miejscowych planów zagospodarowania przestrzennego;
-2) realizowanych inwestycji, dla których zostały wydane decyzje o warunkach zabudowy i zagospodarowania terenu, decyzje o pozwoleniu na budowę lub decyzje o środowiskowych uwarunkowaniach;
-3) procesów zachodzących w środowisku w okresie ostatnich kilku lat i rzutujących na aktualny stan jego zasobów i walorów;
-4) aktualnego stanu środowiska i fizjonomii krajobrazu.
-5 zagrożenia istniejące, niewielkie, względnie stałe 6 zagrożenia istniejące, niewielkie, o narastającym natężeniu 7 zagrożenia istniejące, umiarkowane, o słabnącym natężeniu 8 zagrożenia istniejące, umiarkowane, względnie stałe 9 zagrożenia istniejące, umiarkowane, o narastającym natężeniu 10 zagrożenia istniejące, duże, o słabnącym natężeniu 11 zagrożenia istniejące, duże, względnie stałe 12 zagrożenia istniejące, duże, o narastającym natężeniu Tabela 4. Sposób określenia intensywności skali zagrożenia krajobrazu (zagrożenia niewielkie, umiarkowane lub duże) Udział procentowy obszaru, na którym występują (lub mogą wystąpić) zmiany struktury, funkcji i fizjonomii terenu Stopień zagrożenia zmiany istotne, krajobrazu zmiany niewielkie, z elementami całkowita zmiana harmonijne, przerwania struktury, struktury, funkcji ewolucyjne funkcji, fizjonomii i fizjonomii i tożsamości miejsca Niewielki do 20% do 10% do 5% Umiarkowany 21–60% 11–30% 6–15% Duży >60% >30% >15% Załącznik nr 7 Wytyczne w zakresie formułowania rekomendacji i wniosków dotyczących kształtowania i ochrony krajobrazów priorytetowych oraz krajobrazów w obrębie obszarów lub obiektów, o których mowa w art. 38a ust. 3 pkt 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym
-1. Rekomendacje i wnioski dotyczące kształtowania i ochrony krajobrazów priorytetowych oraz krajobrazów w obrębie obszarów lub obiektów, o których mowa w art. 38a ust. 3 pkt 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, dotyczą ochrony i kształtowania krajobrazów, ich wartości przyrodniczych, kulturowych, historycznych, architektonicznych, urbanistycznych, ruralistycznych, w tym obszarów zabudowanych wyróżniających się lokalną formą architektoniczną, oraz wartości estetyczno-widokowych, w tym w szczególności elementów ekspozycji takich jak przedpola ekspozycji, osie widokowe i punkty widokowe.
-2. Rekomendacje i wnioski mogą dotyczyć w szczególności:
-1) kierunków i zasad kształtowania zabudowy, zagospodarowania i użytkowania terenów;
-2) wykonywania zadań mających na celu co najmniej zachowanie dotychczasowego stanu oraz wskazanie potencjalnych adresatów ich realizacji;
-3) wskazania obszarów, które powinny zostać objęte formami ochrony przyrody, o których mowa w art. 6 ust. 1 pkt 3, 4 i 9 ustawy z dnia 16 kwietnia 2004 r.
-o ochronie przyrody, oraz ich prezentacji w postaci map;
-4) wskazania obszarów, objętych formami ochrony przyrody, o których mowa w art. 6 ust. 1 pkt 3, 4 i 9 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, które ze względu na znaczący spadek wartości krajobrazu wymagają pogłębionej analizy zasadności ich dalszej ochrony, oraz ich prezentacji w postaci map;
-5) wskazania obszarów, które powinny zostać objęte formami ochrony zabytków, o których mowa w art. 7 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, w tym w szczególności parków kulturowych, oraz ich prezentacji w postaci map;
-6) wskazania do uzupełnienia stanu wiedzy w zakresie, w którym na czas sporządzania audytu krajobrazowego dane i informacje nie były dostępne, a są istotne dla osiągnięcia celu audytu krajobrazowego.
-3. W zakresie wskazanym w pkt 2 ppkt 1, adekwatnie do charakterystyki, wartości i zagrożeń zidentyfikowanych dla możliwości zachowania wartości danego krajobrazu, rekomendacje i wnioski mogą dotyczyć w szczególności:
-1) w odniesieniu do poziomu regionalnego (województwa):
-a) zadań polityki przestrzennej województwa,
-b) zasad zagospodarowania przestrzennego realizujących zadania polityki przestrzennej województwa;
-2) w odniesieniu do poziomu lokalnego (gminnego):
-a) wytycznych odnośnie kierunków zmian w strukturze przestrzennej oraz w przeznaczeniu terenów lub zasad ich zagospodarowania, określających dopuszczalny zakres i ograniczenia tych zmian, w tym wytycznych odnośnie nakazów, zakazów, dopuszczeń i ograniczeń w zagospodarowaniu i użytkowaniu terenów,
-b) parametrów i wskaźników zagospodarowania terenu, maksymalnej i minimalnej intensywności zabudowy jako wskaźnika powierzchni całkowitej zabudowy w odniesieniu do powierzchni działki budowlanej, minimalnego udziału procentowego powierzchni biologicznie czynnej w odniesieniu do powierzchni działki budowlanej,
-c) kształtowania linii zabudowy z uwzględnieniem lokalnych form architektonicznych zabudowy,
-d) zasad kompozycji przestrzennej nowej zabudowy i harmonizowania planowanej zabudowy z zabudową istniejącą z uwzględnieniem lokalnych form architektonicznych zabudowy,
-e) zasad kształtowania form budynków z uwzględnieniem lokalnych form architektonicznych zabudowy,
-f) zasad stosowania i eksponowania elementów konstrukcyjnych i zdobniczych z uwzględnieniem lokalnych form architektonicznych zabudowy,
-g) rodzajów i standardów jakościowych stosowanych materiałów wykończeniowych z uwzględnieniem lokalnych form architektonicznych zabudowy,
-h) charakterystycznych cech elewacji budynków z uwzględnieniem lokalnych form architektonicznych zabudowy,
-i) charakterystycznych cech dachów budynków z uwzględnieniem lokalnych form architektonicznych zabudowy,
-j) zasad i warunków dotyczących sytuowania obiektów małej architektury, tablic reklamowych i urządzeń reklamowych oraz ogrodzeń, ich gabarytów, standardów jakościowych oraz rodzajów materiałów budowlanych, z uwzględnieniem lokalnych form architektonicznych, w tym dla przestrzeni dostępnych publicznie,
-k) zasad dotyczących zagospodarowania i wyposażenia terenów przestrzeni dostępnych publicznie: − urządzania i sytuowania zieleni, w tym struktury przestrzennej nasadzeń, preferowanych lub wykluczonych gatunków roślin, wysokości zieleni i pełnionej funkcji, − sposobów wykorzystywania terenów przestrzeni publicznych, w tym wykorzystywania tymczasowego, − powiązań widokowych terenów przestrzeni publicznych z otoczeniem,
-l) określania warunków działalności usługowej, w tym handlowej, w szczególności maksymalnej powierzchni sprzedaży obiektów handlowych, obszarów rozmieszczenia obiektów handlowych o maksymalnej powierzchni sprzedaży i ich dopuszczalnej liczby,
-m) wytycznych odnośnie określenia walorów ekspozycji, w szczególności elementów takich jak przedpola ekspozycji, osie widokowe i punkty widokowe oraz zasad ich ochrony i kształtowania, w tym nakazów, zakazów, dopuszczeń i ograniczeń w zagospodarowaniu i użytkowaniu terenów.
-4. W zakresie zadań mających na celu zachowanie dotychczasowego stanu lub doprowadzenie do stanu pożądanego, adekwatnie do charakterystyki, wartości i zagrożeń zidentyfikowanych, dla możliwości zachowania wartości danego krajobrazu, rekomendacje i wnioski mogą obejmować w szczególności wskazania w zakresie:
-1) rozpoczęcia, kontynuacji lub zaniechania różnych form gospodarowania terenem, w tym działalności rolniczej, leśnej oraz gospodarki wodnej;
-2) zabiegów renaturalizacyjnych oraz zabiegów odnowy obiektów kultury materialnej;
-3) koordynacji działań podejmowanych dla osiągnięcia celów występujących na danym obszarze objętym formami ochrony przyrody, o których mowa w art. 6 ust. 1 pkt 1–9 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, oraz form ochrony zabytków, o których mowa w art. 7 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami;
-4) konieczności podejmowania działań mających na celu utrzymanie dotychczasowej funkcji danego krajobrazu, w tym funkcji korytarzy ekologicznych.
-5. Wskazania w zakresie potencjalnych adresatów realizacji rekomendacji i wniosków, o których mowa w pkt 3 i 4, mogą dotyczyć kierunków współpracy pomiędzy poszczególnymi podmiotami.
+1.
+Ocena zidentyfikowanych krajobrazów sporządzana jest na podstawie informacji zebranych w Kartach Oceny Krajobrazu1), której wzór stanowi tabela 1.
+2.
+Ocena zidentyfikowanych krajobrazów polega na:
+1)
+przypisaniu wybranym cechom analitycznym wskazanym w module IV w Karcie Charakterystyki Krajobrazu oraz wybranym cechom syntetycznym wskazanym w module III Karty Charakterystyki Krajobrazu odpowiedniego stanu zachowania lub wykształcenia w skali trzystopniowej:
+a)
+I – stan bardzo dobry lub dobry,
+b)
+II – stan przeciętny,
+c)
+III – stan niewystarczający lub zły;
+2)
+porównaniu cech analitycznych przyrodniczych (A) i kulturowych (B) charakterystycznych typologicznie z cechami innych krajobrazów tego samego podtypu w województwie;
+3)
+nadaniu cechom unikatowym konkretnych wartości zgodnie ze wskazaniami zawartymi w pkt 3 ppkt 3;
+4)
+nadaniu cechom syntetycznym (C) konkretnych wartości zgodnie ze wskazaniami zawartymi w pkt 3 ppkt 4.
+3.
+Ocena stanu zachowania lub wykształcenia cech analitycznych przyrodniczych i kulturowych krajobrazu oraz cech syntetycznych krajobrazu jest dokonywana w następujący sposób:
+1)
+spośród cech analitycznych przyrodniczych krajobrazu (zawartych w tabeli 1 w załączniku nr 3) bierze się pod uwagę cechy i wskaźniki: Al, A2, A3, A4, A5, A6a, A7a, A7c i Al0a, które następnie ocenia się według poniższych zasad:
+a)
+wartość I przypisuje się w przypadku, gdy cecha charakterystyczna dla podtypu występuje znacznie silniej niż przeciętnie (co najmniej 1 odchylenie standardowe powyżej średniej),
+b)
+wartość III przypisuje się w przypadku, gdy cecha charakterystyczna dla podtypu występuje znacznie słabiej niż przeciętnie (co najmniej 1 odchylenie standardowe poniżej średniej),
+c)
+wartość II przypisuje się w pozostałych przypadkach;
+2)
+spośród cech analitycznych kulturowych krajobrazu (zawartych w tabeli 2 w załączniku nr 3) w ocenie wartości krajobrazu bierze się pod uwagę następujące cechy i wskaźniki: B1, B2c-B2j, B3, B4 i B6-B12, które następnie ocenia się według poniższych zasad:
+a)
+wartość I przypisuje się w przypadku, gdy cecha charakterystyczna dla podtypu występuje znacznie silniej niż przeciętnie (co najmniej 1 odchylenie standardowe powyżej średniej),
+b)
+wartość III przypisuje się w przypadku, gdy cecha charakterystyczna dla podtypu występuje znacznie słabiej niż przeciętnie (co najmniej 1 odchylenie standardowe poniżej średniej),
+c)
+wartość II przypisuje się w pozostałych przypadkach;
+3)
+cechom unikatowym przypisuje się ocenę według poniższych zasad2):
+a)
+wartość I przypisuje się w przypadku, gdy cecha lub zestaw cech unikatowych wpływa na to, że dany krajobraz jest niepowtarzalny, a jednocześnie rozpoznawalny w sensie fizjonomicznym lub funkcjonalnym w porównaniu z pozostałymi krajobrazami danego podtypu w województwie,
+b)
+wartość II przypisuje się w przypadku, gdy cecha lub zestaw cech unikatowych nie ma wpływu na to, że dany krajobraz jest niepowtarzalny, a jednocześnie rozpoznawalny w sensie fizjonomicznym lub funkcjonalnym w porównaniu z pozostałymi krajobrazami danego podtypu w województwie;
+4)
+dla poszczególnych klas wskaźnika cech syntetycznych (zawartych w tabeli 3 w załączniku nr 3) wartości dla stanu zachowania lub wykształcenia określa się w następujący sposób:
+a)
+tradycja: 1 – I, 2 – III,
+b)
+tożsamość: 1 – I, 2 – II, 3 – III,
+c)
+swojskość: 1 – I, 2 – II, 3 – III.
+Tabela 1
+Wzór Karty Oceny Krajobrazu Kod krajobrazu Typ krajobrazu Podtyp krajobrazu Data oceny Autorzy oceny Stan zachowania lub wykształcenia Wskazania do typowania krajobrazu priorytetowego (T(TAK)/N(NIE))3) Cechy analityczne – charakterystyczne typologicznie Cechy analityczne – unikatowe Cechy syntetyczne Tradycja Tożsamość Swojskość Walory krajobrazowe ogólnie – ocena opisowa4) Walory przyrodnicze Walory kulturowe Fizjonomia krajobrazu5) Walory akustyczne, zapachowe i sanitarne6) Dynamika krajobrazu (ocena zmian, jakie zaszły w okresie od przeprowadzenia poprzedniego audytu krajobrazowego) – ocena opisowa7) 1) Karty Oceny Krajobrazu mogą zostać sporządzone wyłącznie w formie elektronicznej. 2) Oceny dokonuje się subiektywnie, biorąc pod uwagę uwarunkowania danego krajobrazu lub zasięg występowania danej cechy. 3) W przypadku gdy stan zachowania został określony jako I, należy wpisać TAK, w pozostałych przypadkach należy wpisać NIE. 4) Wypełnia się obligatoryjnie jedynie dla kraj obrazów priorytetowych. 5) Fizjonomia krajobrazu – ogólny wygląd krajobrazu, w szczególności ukształtowanie powierzchni, pokrycie terenu oraz użytkowanie terenu. 6)Wypełnia się fakultatywnie. 7) Wypełnia się obligatoryjnie w ramach drugiego i następnego audytu krajobrazowego.
 
-## Załącznik nr 8 — Wytyczne w zakresie określenia lokalnych form architektonicznych zabudowy dla krajobrazów priorytetowych
+## Załącznik nr 5 — – Sposób wskazania krajobrazów priorytetowych
 
-1. W audycie krajobrazowym wskazuje się obszary zabudowane wyróżniające się lokalną formą architektoniczną w podziale na kategorię zabudowy, a ich granice przedstawia się w formie graficznej na mapach.
-2. W ramach katalogu lokalnych form architektonicznych wyodrębnia się kategorie lokalnych form architektonicznych, w szczególności ze względu na rodzaj zabudowy, funkcje zabudowy lub obszarową spójność charakterystycznych form zabudowy.
-3. Dla poszczególnych kategorii zabudowy określa się cechy charakterystyczne lokalnych form architektonicznych, w tym zakresy graniczne parametrów wybranych adekwatnie do specyfiki lokalnych form architektonicznych. Treść ta w zależności od potrzeb może dotyczyć w szczególności:
-1) układu zabudowy, w tym linii zabudowy;
-2) formy budynków, w szczególności:
-a) wysokości zabudowy,
-b) gabarytów obiektów,
-c) proporcji i kształtu bryły,
-d) wysokości górnej krawędzi elewacji frontowej, jej gzymsu lub attyki,
-e) proporcji pomiędzy wysokością górnej krawędzi elewacji frontowej, jej gzymsu lub attyki a wysokością dachu,
-f) geometrii dachu (kąta nachylenia, wysokości kalenicy i układu połaci dachowych),
-g) poziomu posadowienia parteru,
-h) wielkości i proporcji otworów okiennych i drzwiowych oraz podcieni,
-i) procentu przeszklenia elewacji;
-3) charakterystycznych elementów konstrukcyjnych i zdobniczych;
-4) stosowanych materiałów wykończeniowych oraz standardów jakościowych;
-5) charakterystycznych cech elewacji budynków, w szczególności:
-a) kolorystyki,
-b) cech stolarki okiennej i drzwiowej: − kolorystyki, − podziału kwater okiennych i drzwiowych, − stosowanych materiałów;
-6) charakterystycznych cech dachów budynków, w szczególności:
-a) kolorystyki,
-b) stosowanych materiałów;
-7) charakterystycznych cech obiektów małej architektury i ogrodzeń, w szczególności:
-a) gabarytów,
-b) detali architektonicznych,
-c) stosowanych materiałów.
+1.
+Wskazanie krajobrazu priorytetowego następuje po wskazaniu spełnienia przez zidentyfikowany krajobraz co najmniej jednego z poniższych kryteriów:
+1)
+unikatowości występowania oznaczającej, że krajobraz cechują niepowtarzalne cechy analityczne świadczące o indywidualności, odrębności i wyjątkowości. Krajobraz taki jest bardzo rzadko spotykany (jeden lub kilka o danym podtypie w województwie), a jednocześnie jest rozpoznawalny. Jest to krajobraz o wyrazistym i doskonale zachowanym stylu lub wyrazie krajobrazowym (w tym fizjonomicznym i funkcjonalnym), zachowanych w stanie co najmniej dobrym;
+2)
+reprezentatywności oznaczającej, że krajobraz stanowi modelowy, klasyczny przykład dla danego podtypu. Jednocześnie w przypadku krajobrazu z dominacją wartości przyrodniczych o bardzo wysokiej naturalności i zgodności ekosystemu z uwarunkowaniami abiotycznymi obejmuje on obszar optymalny pod względem funkcjonowania krajobrazu. W przypadku krajobrazów o przewadze wartości kulturowych (grupy B i C) reprezentuje on zestaw cech charakterystycznych zachowanych w stanie co najmniej dobrym – typowym dla danej epoki historyczno-stylistycznej lub cywilizacyjno-kulturowej. Jednocześnie jest to krajobraz, który charakteryzuje się czystością formy rozumianej jako fizjonomicznie nieprzekształcona forma użytkowania;
+3)
+dotychczasowej ochrony prawnej oznaczającej, że w obrębie krajobrazu występują: obszary lub obiekty objęte statusem parków narodowych, obszary z listy światowego dziedzictwa przyrodniczego i kulturowego UNESCO, pomniki historii, rezerwaty przyrody i parki kulturowe;
+4)
+ważności krajobrazu oznaczającej, że krajobraz otrzymał najwyższą wartość we wszystkich kategoriach oceny cech analitycznych i syntetycznych.
+2.
+Procedura wyznaczania krajobrazów priorytetowych: Wskazanie krajobrazów priorytetowych opiera się na szczegółowej analizie treści Karty Oceny Krajobrazu, o której mowa w załączniku nr 4. Dla każdego z wymienionych wyżej kryteriów, służących do wyboru krajobrazów priorytetowych, występuje odmienny zestaw warunków formalnych, które przedstawiono poniżej:
+1)
+unikatowość występowania – przynajmniej jedna cecha unikatowa wskazana w Karcie Oceny Krajobrazu ma wartość TAK w kolumnie Wskazania do typowania krajobrazu priorytetowego;
+2)
+reprezentatywność – wszystkie cechy analityczne charakterystyczne dla danego podtypu mają wartość TAK w kolumnie Wskazania do typowania krajobrazu priorytetowego;
+3)
+dotychczasowa ochrona prawna – co najmniej 90% powierzchni krajobrazu jest objęte statusem ochronnym, o którym mowa w pkt 1 ppkt 3;
+4)
+ważność krajobrazu – krajobrazy, które otrzymały co najmniej 75% wskazań TAK w kolumnie Wskazania do typowania krajobrazu priorytetowego w Karcie Oceny Krajobrazu, a nie zostały wytypowane na podstawie wyżej wymienionych kryteriów.
+
+## Załącznik nr 6 — – Zagrożenia dla możliwości zachowania wartości krajobrazów priorytetowych oraz wartości krajobrazów w obrębie obszarów lub obiektów, o których mowa w art. 38a ust. 3 pkt 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym
+
+1.
+Dla każdego wskazanego krajobrazu priorytetowego oraz dla krajobrazów w obrębie obszarów lub obiektów, o których mowa w art. 38a ust. 3 pkt 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, określa się zagrożenia dla możliwości zachowania ich wartości, w szczególności spośród niżej wymienionych.
+Tabela 1
+Przedmiot zagrożenia (odbiorca presji) dziedzina lub dział Kod zagrożenia Rodzaj (charakter) działań i zjawisk stwarzających zagrożenia Źródło zagrożeń1) Zagrożenie wewnętrzne (w) lub zewnętrzne (z) Skala zagrożenia (0–12 pkt)2) 1 2 3 4 5 6 A. Zagrożenia dziedzictwa przyrodniczego A.1. Dziedzictwo geologiczne i rzeźba terenu A.1.1. Eksploatacja węgla kamiennego na zawał, osiadanie gruntów A.1.2. Odkrywkowa eksploatacja węgla brunatnego A.1.3. Eksploatacja torfu A.1.4. Eksploatacja złóż innych niż węgiel kamienny, węgiel brunatny i torf A.1.5. Zwałowiska skały dołowej i mas ziemnych A.1.6. Składowiska odpadów A.1.7. Erozja gleb A.1.8. Wykopy, nasypy, obwałowania i kopce A.1.9. Likwidacja osobliwych form rzeźby terenu (skarp, ostańców skalnych, wąwozów, meandrów, wydm itp.) A.1.10. Likwidacja naturalnych stanowisk głazów narzutowych, piargów, gołoborzy, otoczaków rzecznych itp. A.1.11. Likwidacja naturalnych stanowisk i osobliwości geologicznych, stanowisk minerałów oraz skamieniałości A.1.12. Niewłaściwa rekultywacja lub adaptacja wyrobisk i składowisk A.2. Ekosystemy i ich zespoły A.2.1. Osuszanie torfowisk i bagien oraz likwidacja ich naturalnej szaty roślinnej A.2.2. Fizyczna i chemiczna degradacja siedlisk lądowych A.2.3. Naturalna i przyspieszona przez działalność człowieka sukcesja zbiorowisk zaroślowych i leśnych na naturalne i półnaturalne zbiorowiska nieleśne A.2.4. Likwidacja drobnoskalowych siedlisk i ekosystemów nieleśnych A.2.5. Wprowadzanie różnych form zabudowy i infrastruktury technicznej A.3. Struktura ekologiczna krajobrazu A.3.1. Zmniejszanie się ogólnego udziału naturalnych i półnaturalnych ekosystemów w krajobrazie A.3.2. Rozdrobnienie struktury przestrzennej (fragmentacja) i geometryzacja naturalnych i półnaturalnych ekosystemów A.3.3. Wzrost zagęszczenia barier ekologicznych w krajobrazie A.3.4. Zawężanie szerokości naturalnych i półnaturalnych stref ekotonowych A.3.5. Zmniejszenie się różnorodności biologicznej B. Zagrożenia dziedzictwa kulturowego B.1. Osadnictwo B.1.1. Zaburzanie struktury miejskich i wiejskich zabytkowych układów przestrzennych przez nowe inwestycje B.1.2. Degradująca styl krajobrazu adaptacja lub modernizacja układów osadniczych wiejskich i miejskich, w tym osiedli robotniczych (tzw. osiedli patronackich) B.1.3. Niszczenie dziedzictwa archeologicznego B.2. Architektura B.2.1. Brak należytej ochrony i konserwacji zabytkowych obiektów i zespołów architektonicznych B.2.2. Wprowadzanie do harmonijnych zespołów architektoniczno-krajobrazowych materiałów i obiektów degradujących wyraz stylistyczny i funkcjonalność całego zespołu B.2.3. Zanik cech architektury regionalnej; unifikacja materiałów i form architektury wiejskiej i miejskiej oraz jej bezpośredniego kontekstu krajobrazowego (ogrodzenia, podjazdy, zieleń) B.3. Obszary rolnicze B.3.1. Zanikanie tradycyjnych upraw charakterystycznych dla określonych regionów B.3.2. Zanikanie charakterystycznego przestrzennego układu pól, zadrzewień3) oraz miedz, w postaci szachownicy pól, układu łanowego, niwowego itp., stanowiącego wyróżnik regionu – tekstury i faktury krajobrazu B.4. Inżynieria wodna i lądowa B.4.1. Zanikanie cennych kulturowo form inżynieryjno-architektonicznych związanych z tradycyjnymi technikami drobnoskalowej produkcji i przetwórstwa B.4.2. Zanikanie lub brak konserwacji cennych kulturowo form inżynieryjno-technicznych – świadectw dawnych technologii B.5. Obszary przemysłowe B.5.1. Degradacja, upadek i rozpad materialnej substancji historycznych, zabytkowych zakładów przemysłowych i rzemieślniczych oraz osiedli patronackich B.6. Miejsca kultu i pamięci narodowej B.6.1. Zaburzenia struktury przestrzennej, wiodącej funkcji oraz degradacja genius loci i sacrum miejsc kultu religijnego B.6.2. Zaburzenia struktury przestrzennej, wiodącej funkcji oraz deprecjonowanie powagi miejsc pamięci i martyrologii B.6.3. Dewastacja obiektów i zespołów religijnych mniejszościowych wyznań C. Zagrożenia fizjonomii krajobrazu C.1. Kompozycja i ład przestrzenny C.1.1. Chaos przestrzenny i stylistyczny form zagospodarowania terenu C.1.2. Niszczenie cennych wartości historycznych, fizjonomicznych, przyrodniczych i architektonicznych przypadkową i nieestetyczną zabudową i infrastrukturą C.1.3. Lokalizacja dominujących w krajobrazie obiektów wysokościowych i obszarowych C.1.4. Chaos przestrzenny i wizualny wywołany przez reklamy, szczególnie w przestrzeniach publicznych i wzdłuż pasa dróg C.2. Walory estetyczne C.2.1. Brak dbałości o estetyczne wkomponowanie tras i węzłów komunikacyjnych w otaczający krajobraz C.2.2. Przypadkowa i niewłaściwa stylizacja i kolorystyka wielokondygnacyjnych osiedli blokowych podczas działań termomodernizacyjnych C.2.3. Zarastanie roślinnością drzewiastą i krzewiastą ostańców skalnych i ruin zamków oraz muraw kserotermicznych, zamykanie komponowanych historycznych widoków, panoram i wnętrz krajobrazowych itp. C.3. Tożsamość miejsca C.3.1. Zagrożenie tożsamości krajobrazu wskutek mieszania się wzorców lokalnych i procesów globalnych w danym obszarze C.3.2. Zanik swojskości krajobrazu – zanikanie związków przynależności i przywiązania D. Zagrożenia walorów akustycznych, zapachowych i sanitarnych, D.1. Walory akustyczne D.1.1. Hałas komunikacyjny i przemysłowy D.2. Walory zapachowe D.2.1. Odory – oddziaływanie składowisk, zakładów przemysłowych, obiektów hodowli przemysłowej itp. D.3. Walory sanitarne D.3.1. Zanieczyszczenie terenu odpadami D.3.2. Zanieczyszczenie powietrza D.3.3. Zanieczyszczenie wód E. Inne zagrożenia 1)Dla każdego rodzaju zagrożenia należy podać kod źródła zagrożenia według tabeli 2. 2) Dla każdego zagrożenia określa się jego skalę zgodnie z zasadami zawartymi w tabeli 3 oraz tabeli 4. 3) Zgodnie z definicją zawartą w art. 5 pkt 27 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2018 r. poz. 1614, 2244 i 2340).
+2.
+Dla zidentyfikowanych zagrożeń dla możliwości zachowania wartości krajobrazu określa się źródło zagrożenia, skalę zagrożenia oraz stopień zagrożenia zgodnie z tabelami 2–4.
+Tabela 2. Klasyfikacja kodów źródeł zagrożenia
+Kod źródła zagrożenia Źródło zagrożenia I Gospodarka przestrzenna I.1 Budownictwo I.1.1 Niski poziom i przypadkowość zabudowy terenu I.1.2 Niezgodność budownictwa ze stylem architektonicznym regionu i typu krajobrazu I.2 Transport I.2.1 Drogownictwo I.2.2 Komunikacja I.2.3 Ruch komunikacyjny I.2.4 Transport morski I.3 Infrastruktura techniczna I.4 Procesy urbanizacyjne I.5 Planowanie przestrzenne I.5.1 Brak planowania krajobrazu I.6 Architektura terenów zieleni I.7 Inne II Branżowe II.1 Energetyka II.1.1 Górnictwo II.1.2 Ciepłownictwo II.1.3 Energia odnawialna II.2 Inżynieria środowiskowa II.3 Przemysł II.3.1 Zmiany technologii produkcji II.4 Gospodarka komunalna II.4.1 Odpady medyczne II.5 Inne III Zarządzanie środowiskiem III.1 Rolnictwo III.1.1 Intensyfikacja rolnictwa III.1.2 Zaniechanie rolnictwa III.1.3 Ogrodnictwo III.1.4 Upowszechnienie się upraw monokulturowych III.1.5 Chemizacja i mechanizacja rolnictwa III.2 Gospodarka wodna III.3 Gospodarka morska III.4 Gospodarka leśna III.5 Inne IV Ochrona przyrody IV.1 Naturalne procesy przyrodnicze IV.2 Brak zabiegów ochronnych V Ekonomiczne V.l Niedostateczne środki finansowe V.2 Presje ekonomiczne VI Społeczno-kulturowe VI.1 Turystyka V1.2 Sport i rekreacja VI.3 Nielegalne pozyskanie VI.4 Niska kultura estetyczna i świadomość krajobrazowa VI.5 Wandalizm VI.6 Mieszanie się wzorców lokalnych i procesów globalnych w danym obszarze
+Tabela 3. Skala zagrożenia
+Punktacja Określenie Uwagi 0 brak zagrożeń Zagrożenia potencjalne to zagrożenia mogące z dużym prawdopodobieństwem wystąpić na analizowanym obszarze (w granicach danego krajobrazu) do czasu następnego audytu krajobrazowego.Oceniane są w szczególności na podstawie:1) studiów uwarunkowań i kierunków zagospodarowania przestrzennego gminy;2) strategii rozwoju regionu;3) zgłaszanych przez różne podmioty propozycji zmian stosunków ekologicznych, zmian sposobu zagospodarowania i intensywności użytkowania terenu i związanych z tym zmian fizjonomii krajobrazu. 1 zagrożenia potencjalne, niewielkie 2 zagrożenia potencjalne, umiarkowane 3 zagrożenia potencjalne, duże 4 zagrożenia istniejące, niewielkie, o słabnącym natężeniu Zagrożenia istniejące to zagrożenia występujące aktualnie, stwierdzone w szczególności na podstawie:1) obowiązujących miejscowych planów zagospodarowania przestrzennego;2) realizowanych inwestycji, dla których zostały wydane decyzje o warunkach zabudowy i zagospodarowania terenu, decyzje o pozwoleniu na budowę lub decyzje o środowiskowych uwarunkowaniach;3) procesów zachodzących w środowisku w okresie ostatnich kilku lat i rzutujących na aktualny stan jego zasobów i walorów;4) aktualnego stanu środowiska i fizjonomii krajobrazu. 5 zagrożenia istniejące, niewielkie, względnie stałe 6 zagrożenia istniejące, niewielkie, o narastającym natężeniu 7 zagrożenia istniejące, umiarkowane, o słabnącym natężeniu 8 zagrożenia istniejące, umiarkowane, względnie stałe 9 zagrożenia istniejące, umiarkowane, o narastającym natężeniu 10 zagrożenia istniejące, duże, o słabnącym natężeniu 11 zagrożenia istniejące, duże, względnie stałe 12 zagrożenia istniejące, duże, o narastającym natężeniu
+Tabela 4. Sposób określenia intensywności skali zagrożenia krajobrazu (zagrożenia niewielkie, umiarkowane lub duże)
+Stopień zagrożenia krajobrazu Udział procentowy obszaru, na którym występują (lub mogą wystąpić) zmiany struktury, funkcji i fizjonomii terenu zmiany niewielkie, harmonijne, ewolucyjne zmiany istotne, z elementami przerwania struktury, funkcji, fizjonomii i tożsamości miejsca całkowita zmiana struktury, funkcji i fizjonomii Niewielki do 20% do 10% do 5% Umiarkowany 21–60% 11–30% 6–15% Duży >60% >30% >15%
+
+## Załącznik nr 7 — – Wytyczne w zakresie formułowania rekomendacji i wniosków dotyczących kształtowania i ochrony krajobrazów priorytetowych oraz krajobrazów w obrębie obszarów lub obiektów, o których mowa w art. 38a ust. 3 pkt 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym
+
+1.
+Rekomendacje i wnioski dotyczące kształtowania i ochrony krajobrazów priorytetowych oraz krajobrazów w obrębie obszarów lub obiektów, o których mowa w art. 38a ust. 3 pkt 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, dotyczą ochrony i kształtowania krajobrazów, ich wartości przyrodniczych, kulturowych, historycznych, architektonicznych, urbanistycznych, ruralistycznych, w tym obszarów zabudowanych wyróżniających się lokalną formą architektoniczną, oraz wartości estetyczno-widokowych, w tym w szczególności elementów ekspozycji takich jak przedpola ekspozycji, osie widokowe i punkty widokowe.
+2.
+Rekomendacje i wnioski mogą dotyczyć w szczególności:
+1)
+kierunków i zasad kształtowania zabudowy, zagospodarowania i użytkowania terenów;
+2)
+wykonywania zadań mających na celu co najmniej zachowanie dotychczasowego stanu oraz wskazanie potencjalnych adresatów ich realizacji;
+3)
+wskazania obszarów, które powinny zostać objęte formami ochrony przyrody, o których mowa w art. 6 ust. 1 pkt 3, 4 i 9 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, oraz ich prezentacji w postaci map;
+4)
+wskazania obszarów, objętych formami ochrony przyrody, o których mowa w art. 6 ust. 1 pkt 3, 4 i 9 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, które ze względu na znaczący spadek wartości krajobrazu wymagają pogłębionej analizy zasadności ich dalszej ochrony, oraz ich prezentacji w postaci map;
+5)
+wskazania obszarów, które powinny zostać objęte formami ochrony zabytków, o których mowa w art. 7 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, w tym w szczególności parków kulturowych, oraz ich prezentacji w postaci map;
+6)
+wskazania do uzupełnienia stanu wiedzy w zakresie, w którym na czas sporządzania audytu krajobrazowego dane i informacje nie były dostępne, a są istotne dla osiągnięcia celu audytu krajobrazowego.
+3.
+W zakresie wskazanym w pkt 2 ppkt 1, adekwatnie do charakterystyki, wartości i zagrożeń zidentyfikowanych dla możliwości zachowania wartości danego krajobrazu, rekomendacje i wnioski mogą dotyczyć w szczególności:
+1)
+w odniesieniu do poziomu regionalnego (województwa):
+a)
+zadań polityki przestrzennej województwa,
+b)
+zasad zagospodarowania przestrzennego realizujących zadania polityki przestrzennej województwa;
+2)
+w odniesieniu do poziomu lokalnego (gminnego):
+a)
+wytycznych odnośnie kierunków zmian w strukturze przestrzennej oraz w przeznaczeniu terenów lub zasad ich zagospodarowania, określających dopuszczalny zakres i ograniczenia tych zmian, w tym wytycznych odnośnie nakazów, zakazów, dopuszczeń i ograniczeń w zagospodarowaniu i użytkowaniu terenów,
+b)
+parametrów i wskaźników zagospodarowania terenu, maksymalnej i minimalnej intensywności zabudowy jako wskaźnika powierzchni całkowitej zabudowy w odniesieniu do powierzchni działki budowlanej, minimalnego udziału procentowego powierzchni biologicznie czynnej w odniesieniu do powierzchni działki budowlanej,
+c)
+kształtowania linii zabudowy z uwzględnieniem lokalnych form architektonicznych zabudowy,
+d)
+zasad kompozycji przestrzennej nowej zabudowy i harmonizowania planowanej zabudowy z zabudową istniejącą z uwzględnieniem lokalnych form architektonicznych zabudowy,
+e)
+zasad kształtowania form budynków z uwzględnieniem lokalnych form architektonicznych zabudowy,
+f)
+zasad stosowania i eksponowania elementów konstrukcyjnych i zdobniczych z uwzględnieniem lokalnych form architektonicznych zabudowy,
+g)
+rodzajów i standardów jakościowych1) stosowanych materiałów wykończeniowych z uwzględnieniem lokalnych form architektonicznych zabudowy,
+h)
+charakterystycznych cech elewacji budynków z uwzględnieniem lokalnych form architektonicznych zabudowy,
+i)
+charakterystycznych cech dachów budynków z uwzględnieniem lokalnych form architektonicznych zabudowy,
+j)
+zasad i warunków dotyczących sytuowania obiektów małej architektury, tablic reklamowych i urządzeń reklamowych oraz ogrodzeń, ich gabarytów, standardów jakościowych oraz rodzajów materiałów budowlanych, z uwzględnieniem lokalnych form architektonicznych, w tym dla przestrzeni dostępnych publicznie,
+k)
+zasad dotyczących zagospodarowania i wyposażenia terenów przestrzeni dostępnych publicznie:
+– urządzania i sytuowania zieleni, w tym struktury przestrzennej nasadzeń, preferowanych lub wykluczonych gatunków roślin, wysokości zieleni i pełnionej funkcji,
+– sposobów wykorzystywania terenów przestrzeni publicznych, w tym wykorzystywania tymczasowego,
+– powiązań widokowych terenów przestrzeni publicznych z otoczeniem,
+l)
+określania warunków działalności usługowej, w tym handlowej, w szczególności maksymalnej powierzchni sprzedaży obiektów handlowych, obszarów rozmieszczenia obiektów handlowych o maksymalnej powierzchni sprzedaży i ich dopuszczalnej liczby,
+m)
+wytycznych odnośnie określenia walorów ekspozycji, w szczególności elementów takich jak przedpola ekspozycji, osie widokowe i punkty widokowe oraz zasad ich ochrony i kształtowania, w tym nakazów, zakazów, dopuszczeń i ograniczeń w zagospodarowaniu i użytkowaniu terenów.
+4.
+W zakresie zadań mających na celu zachowanie dotychczasowego stanu lub doprowadzenie do stanu pożądanego, adekwatnie do charakterystyki, wartości i zagrożeń zidentyfikowanych, dla możliwości zachowania wartości danego krajobrazu, rekomendacje i wnioski mogą obejmować w szczególności wskazania w zakresie:
+1)
+rozpoczęcia, kontynuacji lub zaniechania różnych form gospodarowania terenem, w tym działalności rolniczej, leśnej oraz gospodarki wodnej;
+2)
+zabiegów renaturalizacyjnych oraz zabiegów odnowy obiektów kultury materialnej;
+3)
+koordynacji działań podejmowanych dla osiągnięcia celów występujących na danym obszarze objętym formami ochrony przyrody, o których mowa w art. 6 ust. 1 pkt 1–9 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, oraz form ochrony zabytków, o których mowa w art. 7 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami;
+4)
+konieczności podejmowania działań mających na celu utrzymanie dotychczasowej funkcji danego krajobrazu, w tym funkcji korytarzy ekologicznych.
+5.
+Wskazania w zakresie potencjalnych adresatów realizacji rekomendacji i wniosków, o których mowa w pkt 3 i 4, mogą dotyczyć kierunków współpracy pomiędzy poszczególnymi podmiotami.
+1) Standardy jakościowe powinny odnosić się głównie do stosowanych przy budowie obiektów małej architektury i ogrodzeń materiałów oraz zasad ich stosowania.
+
+## Załącznik nr 8 — – Wytyczne w zakresie określenia lokalnych form architektonicznych zabudowy dla krajobrazów priorytetowych
+
+1.
+W audycie krajobrazowym wskazuje się obszary zabudowane wyróżniające się lokalną formą architektoniczną w podziale na kategorię zabudowy, a ich granice przedstawia się w formie graficznej na mapach.
+2.
+W ramach katalogu lokalnych form architektonicznych wyodrębnia się kategorie lokalnych form architektonicznych, w szczególności ze względu na rodzaj zabudowy, funkcje zabudowy lub obszarową spójność charakterystycznych form zabudowy.
+3.
+Dla poszczególnych kategorii zabudowy określa się cechy charakterystyczne lokalnych form architektonicznych, w tym zakresy graniczne parametrów wybranych adekwatnie do specyfiki lokalnych form architektonicznych. Treść ta w zależności od potrzeb może dotyczyć w szczególności:
+1)
+układu zabudowy, w tym linii zabudowy;
+2)
+formy budynków, w szczególności:
+a)
+wysokości zabudowy,
+b)
+gabarytów obiektów,
+c)
+proporcji i kształtu bryły,
+d)
+wysokości górnej krawędzi elewacji frontowej, jej gzymsu lub attyki,
+e)
+proporcji pomiędzy wysokością górnej krawędzi elewacji frontowej, jej gzymsu lub attyki a wysokością dachu,
+f)
+geometrii dachu (kąta nachylenia, wysokości kalenicy i układu połaci dachowych),
+g)
+poziomu posadowienia parteru,
+h)
+wielkości i proporcji otworów okiennych i drzwiowych oraz podcieni,
+i)
+procentu przeszklenia elewacji;
+3)
+charakterystycznych elementów konstrukcyjnych i zdobniczych;
+4)
+stosowanych materiałów wykończeniowych oraz standardów jakościowych;
+5)
+charakterystycznych cech elewacji budynków, w szczególności:
+a)
+kolorystyki,
+b)
+cech stolarki okiennej i drzwiowej:
+– kolorystyki,
+– podziału kwater okiennych i drzwiowych,
+– stosowanych materiałów;
+6)
+charakterystycznych cech dachów budynków, w szczególności:
+a)
+kolorystyki,
+b)
+stosowanych materiałów;
+7)
+charakterystycznych cech obiektów małej architektury i ogrodzeń, w szczególności:
+a)
+gabarytów,
+b)
+detali architektonicznych,
+c)
+stosowanych materiałów.
 

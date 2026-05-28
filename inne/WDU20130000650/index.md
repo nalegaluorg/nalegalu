@@ -8,10 +8,10 @@ pos: 650
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 czerwca 2013 Poz. 650 ROZPORZĄDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO dnia 15 maja 2013 w sprawie likwidacji Archiwum Państwowego Dokumentacji Osobowej Płacowej w Milanówku oraz zmiany nazwy zakresu działania Archiwum Państwowego m.st. Warszawy Na podstawie art. 24 ust. 1 ustawy dnia 14 lipca 1983 o narodowym zasobie archiwalnym archiwach (Dz. U.
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 15 maja 2013 r. w sprawie likwidacji Archiwum Państwowego Dokumentacji Osobowej i Płacowej w Milanówku oraz zmiany nazwy i zakresu działania Archiwum Państwowego m.st. Warszawy
 
 | Pole | Wartość |
 |---|---|
@@ -22,22 +22,40 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2013-05-15 |
 | Data wydania | 2013-06-06 |
+| Wejście w życie | 2013-10-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000650) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/650/text.pdf) |
 
-123, 698 171, 1016) zarządza się, co następuje: § 1. Likwiduje się Archiwum Państwowe Dokumentacji Osobowej Płacowej siedzibą w Milanówku, utworzone rozporządzeniem Ministra Kultury dnia 1 czerwca 2004 w sprawie utworzenia Archiwum Państwowego Dokumentacji Osobowej Płacowej (Dz. U. 142, 1503).
-§ 2. Archiwum Państwowe m.st. Warszawy otrzymuje nazwę „Archiwum Państwowe w Warszawie”.
-§ 3. Archiwum Państwowe w Warszawie, zwane dalej „Archiwum”, przejmuje dotychczasowe zadania Archiwum Państwowego Dokumentacji Osobowej Płacowej, w tym zadania wynikające art. 51u ust. 3 ustawy dnia 14 lipca 1983 o narodowym zasobie archiwalnym archiwach, oraz prawa zobowiązania tego archiwum.
-§ 4. 1. Archiwum w zakresie realizacji zadań wynikających art. 51u ust. 3 ustawy dnia 14 lipca 1983 o narodowym zasobie archiwalnym archiwach obejmuje zasięgiem działania obszar całego państwa.
-2. W celu realizacji zadań, o których mowa w ust. 1, w Archiwum tworzy się oddział siedzibą w Milanówku.
-§ 5. Organizację oraz szczegółowy zakres działania Archiwum określi statut, nadany przez Naczelnego Dyrektora Archiwów Państwowych.
-§ 6. Archiwum przejmie:
-1) gromadzone przez Archiwum Państwowe Dokumentacji Osobowej Płacowej materiały archiwalne, zgodnie ewidencją zasobu archiwalnego sporządzoną na dzień ustania działalności tego archiwum;
-2) zgromadzone przez Archiwum Państwowe Dokumentacji Osobowej Płacowej zbiory dokumentacji osobowej płacowej o czasowym okresie przechowywania, zgodnie ewidencją tej dokumentacji sporządzoną na dzień ustania działalności tego archiwum;
-3) składniki majątku ruchomego Archiwum Państwowego Dokumentacji Osobowej Płacowej, zgodnie ze stanem ewidencji księgowej na dzień ustania działalności tego archiwum;
-4) środki finansowe Archiwum Państwowego Dokumentacji Osobowej Płacowej stanowiące sumy na zlecenie, według stanu wynikającego inwentaryzacji sporządzonej na dzień ustania działalności tego archiwum.
-§ 7. 1. Pracownicy Archiwum Państwowego Dokumentacji Osobowej Płacowej stają się pracownikami Archiwum.
-2. Do pracowników, o których mowa w ust. 1, stosuje się art. 23 ustawy dnia 26 czerwca 1974 – Kodeks pracy (Dz. U. 1998 21, 94, późn. zm. ).
-§ 8. Rozporządzenie wchodzi w życie po upływie 4 miesięcy od dnia ogłoszenia.
-Minister Kultury Dziedzictwa Narodowego: B. Zdrojewski
+Treść rozporządzenia
+Na podstawie art. 24 ust. 1 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2011 r. Nr 123, poz. 698 i Nr 171, poz. 1016) zarządza się, co następuje:
+§ 1.
+Likwiduje się Archiwum Państwowe Dokumentacji Osobowej i Płacowej z siedzibą w Milanówku, utworzone rozporządzeniem Ministra Kultury z dnia 1 czerwca 2004 r. w sprawie utworzenia Archiwum Państwowego Dokumentacji Osobowej i Płacowej (Dz. U. Nr 142, poz. 1503).
+§ 2.
+Archiwum Państwowe m.st. Warszawy otrzymuje nazwę „Archiwum Państwowe w Warszawie”.
+§ 3.
+Archiwum Państwowe w Warszawie, zwane dalej „Archiwum”, przejmuje dotychczasowe zadania Archiwum Państwowego Dokumentacji Osobowej i Płacowej, w tym zadania wynikające z art. 51u ust. 3 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach, oraz prawa i zobowiązania tego archiwum.
+§ 4.
+1.
+Archiwum w zakresie realizacji zadań wynikających z art. 51u ust. 3 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach obejmuje zasięgiem działania obszar całego państwa.
+2.
+W celu realizacji zadań, o których mowa w ust. 1, w Archiwum tworzy się oddział z siedzibą w Milanówku.
+§ 5.
+Organizację oraz szczegółowy zakres działania Archiwum określi statut, nadany przez Naczelnego Dyrektora Archiwów Państwowych.
+§ 6.
+Archiwum przejmie:
+1)
+zgromadzone przez Archiwum Państwowe Dokumentacji Osobowej i Płacowej materiały archiwalne, zgodnie z ewidencją zasobu archiwalnego sporządzoną na dzień ustania działalności tego archiwum;
+2)
+zgromadzone przez Archiwum Państwowe Dokumentacji Osobowej i Płacowej zbiory dokumentacji osobowej i płacowej o czasowym okresie przechowywania, zgodnie z ewidencją tej dokumentacji sporządzoną na dzień ustania działalności tego archiwum;
+3)
+składniki majątku ruchomego Archiwum Państwowego Dokumentacji Osobowej i Płacowej, zgodnie ze stanem ewidencji księgowej na dzień ustania działalności tego archiwum;
+4)
+środki finansowe Archiwum Państwowego Dokumentacji Osobowej i Płacowej stanowiące sumy na zlecenie, według stanu wynikającego z inwentaryzacji sporządzonej na dzień ustania działalności tego archiwum.
+§ 7.
+1.
+Pracownicy Archiwum Państwowego Dokumentacji Osobowej i Płacowej stają się pracownikami Archiwum.
+2.
+Do pracowników, o których mowa w ust. 1, stosuje się art. 231 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.).
+§ 8.
+Rozporządzenie wchodzi w życie po upływie 4 miesięcy od dnia ogłoszenia.
 

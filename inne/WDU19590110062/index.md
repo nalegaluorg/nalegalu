@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1959-01-31 |
 | Data wydania | 1959-02-16 |
+| Wejście w życie | 1959-02-16 |
 | Ostatnia zmiana | 2025-11-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19590110062) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1959/62/text.pdf) |
 

@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o podatku dochodowym od osób fizycznych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 17 kwietnia 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 kwietnia 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-04-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000592) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/592/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 17 kwietnia 2026 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o podatku dochodowym od osób fizycznych
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2025 r. poz. 163), z uwzględnieniem stanu prawnego na dzień 1 kwietnia 2026 r. oraz zmian wprowadzonych:
 1) ustawą z dnia 20 lutego 2025 r. o zmianie ustawy o podatku akcyzowym, ustawy o zdrowiu publicznym oraz niektórych innych ustaw (Dz. U. poz. 340);
 2) ustawą z dnia 7 marca 2025 r. o unijnej sieci danych dotyczących poziomu zrównoważenia gospodarstw rolnych (FSDN) (Dz. U. poz. 368);
@@ -89,9 +89,37 @@ Art. 46–51. (pominięte)
 
 **Art. 5.** Ustawa wchodzi w życie z dniem 1 stycznia 2026 r.”;
 
+- **6)** art. 5 ustawy z dnia 5 sierpnia 2025 r. o zmianie ustawy o weteranach działań poza granicami państwa, ustawy o podatku dochodowym od osób fizycznych oraz ustawy o finansach publicznych (Dz. U. poz. 1180), który stanowi: „Art. 5. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+- **7)** art. 29 ustawy z dnia 12 września 2025 r. o zmianie niektórych ustaw w celu weryfikacji prawa do świadczeń na rzecz rodziny dla cudzoziemców oraz o warunkach pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 1301), który stanowi: „Art. 29. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
+- **1)** art. 5, art. 6, art. 10 pkt 11 i 14 oraz art. 19, które wchodzą w życie z dniem 1 stycznia 2026 r.;
+- **2)** art. 4, art. 7, art. 9 pkt 1 i 3–5, art. 10 pkt 13 lit. b oraz art. 11, które wchodzą w życie z dniem 1 lutego 2026 r.;
+- **3)** art. 10 pkt 3 lit. c, która wchodzi w życie z dniem 1 marca 2026 r.;
+- **4)** art. 10 pkt 7 lit. a i c–j, które wchodzą w życie z dniem 1 listopada 2025 r.;
+- **5)** art. 10 pkt 18 i 19, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 33 ustawy z dnia 15 maja 2024 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 854).”;
+- **8)** art. 20 ustawy z dnia 12 września 2025 r. o bonie ciepłowniczym oraz o zmianie niektórych ustaw w celu ograniczenia wysokości cen energii elektrycznej (Dz. U. poz. 1302), który stanowi: „Art. 20. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 15, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 30 września 2025 r.”;
+- **9)** art. 23 ustawy z dnia 12 września 2025 r. o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby (Dz. U. poz. 1366), który stanowi: „Art. 23. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 lipca 2025 r., z wyjątkiem art. 1 pkt 7, art. 2 pkt 2, 8, 16 i 17, art. 4 pkt 12, art. 6 pkt 6, art. 8 pkt 6, art. 9 pkt 1, 2 i 10 oraz art. 14, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”;
+- **10)** art. 3 i art. 4 ustawy z dnia 7 listopada 2025 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz ustawy o podatku dochodowym od osób prawnych (Dz. U. poz. 1817), które stanowią: „Art. 3. Przepisy art. 22j ust. 7 i 10 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, i art. 16j ust. 7 i 10 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, mają zastosowanie do środków trwałych będących budynkami (lokalami) niemieszkalnymi i budowlami, w przypadku których po dniu 31 grudnia 2025 r.:
+- **1)** nastąpiło uprawomocnienie się decyzji o pozwoleniu na budowę albo
+- **2)** upłynął termin na wniesienie sprzeciwu wobec dokonanego zgłoszenia budowy albo wydano zaświadczenie o braku podstaw do wniesienia takiego sprzeciwu, albo
+- **3)** nastąpiło wprowadzenie po raz pierwszy do ewidencji środków trwałych oraz wartości niematerialnych i prawnych, jeżeli budowa tego środka trwałego nie wymaga uzyskania decyzji o pozwoleniu na budowę albo dokonania zgłoszenia budowy lub z innych przyczyn nie doszło do wydania takiej decyzji albo dokonania takiego zgłoszenia.
+
 **Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 2026 r., z wyjątkiem art. 1 pkt 3 w zakresie art. 22j ust. 12 oraz art. 2 pkt 3 w zakresie art. 16j ust. 12, które wchodzą w życie z dniem ogłoszenia.”;
 
+- **11)** art. 147 ustawy z dnia 21 listopada 2025 r. o zdrowiu zwierząt (Dz. U. poz. 1795), który stanowi: „Art. 147. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 126 pkt 11, który wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
+- **12)** art. 7 ustawy z dnia 21 listopada 2025 r. o zmianie ustawy o podatku od wydobycia niektórych kopalin oraz niektórych innych ustaw (Dz. U. poz. 1804), który stanowi: „Art. 7. Ustawa wchodzi w życie z dniem 1 stycznia 2026 r.”;
+- **13)** art. 13 ustawy z dnia 21 listopada 2025 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1823), który stanowi: „Art. 13. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 lipca 2025 r.”;
+- **14)** art. 2 i art. 3 ustawy z dnia 21 listopada 2025 r. o zmianie ustawy o podatku dochodowym od osób fizycznych (Dz. U. poz. 1838), które stanowią: „Art. 2. Przepis art. 22 ust. 1v ustawy zmienianej w art. 1 ma zastosowanie do wydatków poniesionych przez podatnika na objęcie lub nabycie akcji lub innych papierów wartościowych, których umorzenie nastąpiło na podstawie decyzji wydanej po dniu 31 grudnia 2025 r.
+
 **Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2026 r.”;
+
+- **15)** art. 2 ustawy z dnia 21 listopada 2025 r. o zmianie ustawy o podatku dochodowym od osób fizycznych (Dz. U. poz. 1858), który stanowi: „Art. 2. Ustawa wchodzi w życie z dniem 1 stycznia 2026 r.”;
+- **16)** art. 8 ustawy z dnia 4 grudnia 2025 r. o zmianie ustawy o funkcjonowaniu górnictwa węgla kamiennego oraz niektórych innych ustaw (Dz. U. poz. 1822), który stanowi: „Art. 8. Ustawa wchodzi w życie z dniem 1 stycznia 2026 r.”;
+- **17)** art. 54 ustawy z dnia 23 stycznia 2026 r. o wygaszeniu rozwiązań wynikających z ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz o zmianie niektórych innych ustaw (Dz. U. poz. 203), który stanowi: „Art. 54. Ustawa wchodzi w życie z dniem 5 marca 2026 r., z wyjątkiem:
+- **1)** art. 17 pkt 3 lit. d tiret drugie i pkt 51 w zakresie uchylenia art. 110, które wchodzą w życie z dniem 1 stycznia 2027 r.;
+- **2)** art. 17 pkt 46 i 51 w zakresie uchylenia art. 113, które wchodzą w życie z dniem 5 marca 2027 r.;
+- **3)** art. 14, który wchodzi w życie z dniem 1 września 2027 r.;
+- **4)** art. 17 pkt 22–31, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 33 ustawy z dnia 15 maja 2024 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 854).”;
+- **18)** art. 2 i art. 3 ustawy z dnia 13 lutego 2026 r. o zmianie ustawy o podatku dochodowym od osób fizycznych (Dz. U. poz. 424), które stanowią: „Art. 2. Przepisy art. 21 ust. 1 pkt 40a i 40aa ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się do dochodów (przychodów) uzyskanych od dnia 1 stycznia 2026 r.
 
 **Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych
 
@@ -184,6 +212,112 @@ Art. 46–51. (pominięte)
 
 **Art. 5a.** Ilekroć w ustawie jest mowa o:
 
+- **1)** inwestycjach oznacza to środki trwałe w budowie w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. ), zwanej dalej „ustawą o rachunkowości”;
+- **2)** składnikach majątkowych oznacza to aktywa w rozumieniu ustawy o rachunkowości pomniejszone o przejęte długi funkcjonalnie związane z prowadzoną działalnością gospodarczą zbywcy, o ile długi te nie zostały uwzględnione w cenie nabycia, o której mowa w art. 22g ust. 3;
+- **3)** przedsiębiorstwie oznacza to przedsiębiorstwo w rozumieniu przepisów Kodeksu cywilnego;
+- **4)** zorganizowanej części przedsiębiorstwa oznacza to organizacyjnie i finansowo wyodrębniony w istniejącym przedsiębiorstwie zespół składników materialnych i niematerialnych, w tym zobowiązania, przeznaczonych do realizacji określonych zadań gospodarczych, który zarazem mógłby stanowić niezależne przedsiębiorstwo samodzielnie realizujące te zadania;
+- **5)** Ordynacji podatkowej oznacza to ustawę z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. );
+- **6)** działalności gospodarczej albo pozarolniczej działalności gospodarczej oznacza to działalność zarobkową:
+    - **a)** wytwórczą, budowlaną, handlową, usługową,
+    - **b)** polegającą na poszukiwaniu, rozpoznawaniu i wydobywaniu kopalin ze złóż,
+    - **c)** polegającą na wykorzystywaniu rzeczy oraz wartości niematerialnych i prawnych prowadzoną we własnym imieniu bez względu na jej rezultat, w sposób zorganizowany i ciągły, z której uzyskane przychody nie są zaliczane do innych przychodów ze źródeł wymienionych w art. 10 ust. 1 pkt 1, 2 i 4–9;
+
+- **7)** ustawie o rehabilitacji zawodowej rozumie się przez to ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz. 913, 1301, 1665 i 1746 oraz z 2026 r. poz. 26);
+- **8)** urzędzie skarbowym oznacza to urząd skarbowy, przy pomocy którego odpowiednio właściwy dla podatnika lub płatnika naczelnik urzędu skarbowego wykonuje swoje zadania;
+- **9)** (uchylony)
+- **10)** (uchylony)
+- **11)** papierach wartościowych oznacza to papiery wartościowe, o których mowa w art. 3 pkt 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722, z późn. zm. );
+- **12)** dyskoncie oznacza to różnicę między kwotą uzyskaną z wykupu papieru wartościowego przez emitenta a wydatkami poniesionymi na nabycie papieru wartościowego na rynku pierwotnym lub wtórnym, a w przypadku nabycia papieru wartościowego w drodze spadku lub darowizny różnicę między kwotą uzyskaną z wykupu a wydatkami poniesionymi przez spadkodawcę lub darczyńcę na nabycie tego papieru wartościowego;
+- **13)** pochodnych instrumentach finansowych oznacza to instrumenty finansowe, o których mowa w art. 2 ust. 1 pkt 2 lit. c–i ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
+- **14)** funduszach kapitałowych oznacza to fundusze inwestycyjne oraz fundusze zagraniczne, o których mowa w przepisach o funduszach inwestycyjnych, oraz ubezpieczeniowe fundusze kapitałowe działające na podstawie przepisów o działalności ubezpieczeniowej i reasekuracyjnej, z wyjątkiem funduszy emerytalnych, o których mowa w przepisach o organizacji i funkcjonowaniu funduszy emerytalnych;
+- **14a)** alternatywnej spółce inwestycyjnej oznacza to alternatywną spółkę inwestycyjną, o której mowa w art. 8a ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2026 r. poz. 60 i 176);
+- **15)** ustawie o zryczałtowanym podatku dochodowym oznacza to ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2025 r. poz. 843);
+- **16)** ustawie o działalności pożytku publicznego oznacza to ustawę z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2025 r. poz. 1338);
+- **17)** ustawie o podatku od towarów i usług oznacza to ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2025 r. poz. 775, 894, 896, 1203, 1541 i 1811);
+- **18)** ustawie o partnerstwie publiczno-prywatnym oznacza to ustawę z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 1637 oraz z 2026 r. poz. 426);
+- **18a)** ustawie o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków oznacza to ustawę z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2025 r. poz. 1419 i 1847);
+- **18b)** budynku mieszkalnym jednorodzinnym oznacza to budynek mieszkalny jednorodzinny w rozumieniu art. 3 pkt 2a ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2025 r. poz. 418, 1080, 1535, 1673 i 1847);
+- **18c)** przedsięwzięciu termomodernizacyjnym oznacza to przedsięwzięcie termomodernizacyjne w rozumieniu art. 2 pkt 2 ustawy o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków;
+- **19)** (uchylony) 19a) samochodzie osobowym oznacza to pojazd samochodowy w rozumieniu przepisów o ruchu drogowym o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 tony, konstrukcyjnie przeznaczony do przewozu niewięcej niż 9 osób łącznie z kierowcą, z wyjątkiem:
+    - **a)** pojazdu samochodowego mającego jeden rząd siedzeń, który oddzielony jest od części przeznaczonej do przewozu ładunków ścianą lub trwałą przegrodą: klasyfikowanego na podstawie przepisów o ruchu drogowym do podrodzaju: wielozadaniowy, van lub z otwartą częścią przeznaczoną do przewozu ładunków,
+    - **b)** pojazdu samochodowego, który posiada kabinę kierowcy z jednym rzędem siedzeń i nadwozie przeznaczone do przewozu ładunków jako konstrukcyjnie oddzielne elementy pojazdu,
+    - **c)** pojazdu specjalnego, jeżeli z dokumentów wydanych zgodnie z przepisami o ruchu drogowym wynika, że dany pojazd jest pojazdem specjalnym, i jeżeli spełnione są również warunki zawarte w odrębnych przepisach, określone dla następujących przeznaczeń: agregat elektryczny/spawalniczy, do prac wiertniczych, koparka, koparko-spycharka, ładowarka, podnośnik do prac konserwacyjno-montażowych, żuraw samochodowy,
+    - **d)** pojazdu samochodowego określonego w przepisach wydanych na podstawie art. 86a ust. 16 ustawy o podatku od towarów i usług;
+
+- **20)** małym podatniku oznacza to podatnika, u którego wartość przychodu ze sprzedaży (wraz z kwotą należnego podatku od towarów i usług) nie przekroczyła w poprzednim roku podatkowym wyrażonej w złotych kwoty odpowiadającej równowartości 2 000 000 euro, a w przypadku przedsiębiorstwa w spadku również przychodu ze sprzedaży u zmarłego przedsiębiorcy; przeliczenia kwot wyrażonych w euro dokonuje się według średniego kursu euro ogłaszanego przez Narodowy Bank Polski na pierwszy dzień roboczy października poprzedniego roku podatkowego, w zaokrągleniu do 1000 zł;
+- **21)** certyfikacie rezydencji oznacza to zaświadczenie o miejscu zamieszkania podatnika dla celów podatkowych wydane przez właściwy organ administracji podatkowej państwa miejsca zamieszkania podatnika;
+- **22)** zagranicznym zakładzie oznacza to:
+    - **a)** stałą placówkę, poprzez którą podmiot mający miejsce zamieszkania na terytorium jednego państwa wykonuje całkowicie lub częściowo działalność na terytorium innego państwa, a w szczególności oddział, przedstawicielstwo, biuro, fabrykę, warsztat albo miejsce wydobywania bogactw naturalnych,
+    - **b)** plac budowy, budowę, montaż lub instalację, prowadzone na terytorium jednego państwa przez podmiot mający miejsce zamieszkania na terytorium innego państwa,
+    - **c)** osobę, która w imieniu i na rzecz podmiotu mającego miejsce zamieszkania na terytorium jednego państwa działa na terytorium innego państwa, jeżeli osoba ta ma pełnomocnictwo do zawierania w jego imieniu umów i pełnomocnictwo to faktycznie wykonuje chyba że umowa o unikaniu podwójnego opodatkowania, której stroną jest Rzeczpospolita Polska, stanowi inaczej;
+
+- **23)** ustawie o emeryturach kapitałowych oznacza to ustawę z dnia 21 listopada 2008 r. o emeryturach kapitałowych (Dz. U. z 2018 r. poz. 926);
+- **23a)** umowie o pomocy przy zbiorach oznacza to umowę o pomocy przy zbiorach, o której mowa w ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2025 r. poz. 1770);
+- **24)** PKWiU oznacza to Polską Klasyfikację Wyrobów i Usług wprowadzoną rozporządzeniem Rady Ministrów z dnia 4 września 2015 r. w sprawie Polskiej Klasyfikacji Wyrobów i Usług (PKWiU) (Dz. U. poz. 1676, z 2017 r. poz. 2453, z 2018 r. poz. 2440, z 2019 r. poz. 2554 oraz z 2020 r. poz. 556) ;
+- **25)** oznaczeniu „ex” oznacza to, że zakres wymienionych wyrobów lub usług jest węższy niż określony w podanym grupowaniu PKWiU;
+- **26)** spółce niebędącej osobą prawną oznacza to spółkę inną niż określona w pkt 28;
+- **27)** rachunku zbiorczym oznacza to rachunek zbiorczy w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
+- **28)** spółce oznacza to:
+    - **a)** spółkę posiadającą osobowość prawną, w tym także spółkę zawiązaną na podstawie rozporządzenia Rady (WE) nr 2157/2001 z dnia 8 października 2001 r. w sprawie statutu spółki europejskiej (SE) (Dz. Urz. WE L 294 z 10.11.2001, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 6, t. 4, str. 251),
+    - **b)** spółkę kapitałową w organizacji,
+    - **c)** spółkę komandytową i spółkę komandytowo-akcyjną mające siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej,
+    - **d)** spółkę niemającą osobowości prawnej mającą siedzibę lub zarząd w innym państwie, jeżeli zgodnie z przepisami prawa podatkowego tego innego państwa jest traktowana jak osoba prawna i podlega w tym państwie opodatkowaniu od całości swoich dochodów bez względu na miejsce ich osiągania,
+    - **e)** spółkę jawną będącą podatnikiem podatku dochodowego od osób prawnych;
+
+- **29)** udziale (akcji) oznacza to również ogół praw i obowiązków wspólnika w spółce, o której mowa w pkt 28 lit. c–e;
+- **29a)** wartości emisyjnej udziałów (akcji) oznacza to cenę, po jakiej obejmowane są udziały (akcje), określoną w statucie lub umowie spółki, a w razie ich braku w innym dokumencie o podobnym charakterze, nieniższą od wartości rynkowej tych udziałów (akcji);
+- **30)** kapitale zakładowym oznacza to również kapitał akcyjny prostej spółki akcyjnej oraz kapitał podstawowy spółki, o której mowa w pkt 28 lit. c–e;
+- **31)** udziale w zyskach osób prawnych oznacza to również udział w zyskach spółek, o których mowa w pkt 28 lit. c–e;
+- **31a)** udziale w kapitale oznacza to również stosunek liczby akcji przysługujących akcjonariuszowi prostej spółki akcyjnej do liczby wszystkich akcji wyemitowanych w prostej spółce akcyjnej;
+- **31b)** wartości nominalnej udziałów (akcji) oznacza to również cenę emisyjną akcji prostej spółki akcyjnej;
+- **32)** objęciu udziału (akcji) oznacza to również uzyskanie przez wspólnika spółki, o której mowa w pkt 28 lit. c–e, ogółu praw i obowiązków wspólnika w tej spółce;
+- **33)** wspólniku oznacza to również akcjonariusza;
+- **33a)** walucie wirtualnej oznacza to walutę wirtualną w rozumieniu art. 2 ust. 2 pkt 26 ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;
+- **33b)** ustawie o podatku dochodowym od osób prawnych oznacza to ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2025 r. poz. 278, z późn. zm. );
+- **33c)** ustawie o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu oznacza to ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2025 r. poz. 644 i 1669);
+- **33d)** rzeczywistym właścicielu oznacza to podmiot, który spełnia łącznie następujące warunki:
+    - **a)** otrzymuje należność dla własnej korzyści, w tym decyduje samodzielnie o jej przeznaczeniu i ponosi ryzyko ekonomiczne związane z utratą tej należności lub jej części,
+    - **b)** nie jest pośrednikiem, przedstawicielem, powiernikiem lub innym podmiotem zobowiązanym do przekazania całości lub części należności innemu podmiotowi,
+    - **c)** prowadzi rzeczywistą działalność gospodarczą w kraju miejsca zamieszkania, jeżeli należności są uzyskiwane w związku z prowadzoną działalnością gospodarczą, przy czym przy ocenie, czy podmiot prowadzi rzeczywistą działalność gospodarczą, uwzględnia się charakter oraz skalę działalności prowadzonej przez ten podmiot w zakresie otrzymanej należności;
+
+- **34)** komercjalizowanej własności intelektualnej oznacza to:
+    - **a)** patent, dodatkowe prawo ochronne na wynalazek, prawo ochronne na wzór użytkowy, prawo z rejestracji wzoru przemysłowego lub prawo z rejestracji topografii układu scalonego oraz prawo do uzyskania powyższych praw lub prawo z pierwszeństwa określone w ustawie z dnia 30 czerwca 2000 r. Prawo własności przemysłowej (Dz. U. z 2023 r. poz. 1170),
+    - **b)** autorskie prawa majątkowe do programu komputerowego,
+    - **c)** równowartość udokumentowanej wiedzy (informacji) nadającej się do wykorzystania w działalności przemysłowej, naukowej lub handlowej (know-how),
+    - **d)** prawa do korzystania z praw lub wartości wymienionych w lit. a–c na podstawie umowy licencyjnej;
+
+- **35)** podmiocie komercjalizującym oznacza to twórcę uprawnionego do praw lub wartości wymienionych w pkt 34 lit. a–c, a także zawarcia umowy licencyjnej, o której mowa w pkt 34 lit. d, jeżeli wnosi do spółki kapitałowej komercjalizowaną własność intelektualną;
+- **36)** krótkiej sprzedaży oznacza to krótką sprzedaż w rozumieniu art. 2 ust. 1 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 236/2012 z dnia 14 marca 2012 r. w sprawie krótkiej sprzedaży i wybranych aspektów dotyczących swapów ryzyka kredytowego (Dz. Urz. UE L 86 z 24.03.2012, str. 1);
+- **37)** postępowaniu restrukturyzacyjnym oznacza to postępowanie restrukturyzacyjne w rozumieniu ustawy z dnia 15 maja 2015 r. Prawo restrukturyzacyjne (Dz. U. z 2024 r. poz. 1428, z 2025 r. poz. 1085, 1170 i 1172 oraz z 2026 r. poz. 176);
+- **38)** działalności badawczo-rozwojowej oznacza to działalność twórczą obejmującą badania naukowe lub prace rozwojowe, podejmowaną w sposób systematyczny w celu zwiększenia zasobów wiedzy oraz wykorzystania zasobów wiedzy do tworzenia nowych zastosowań;
+- **39)** badaniach naukowych oznacza to:
+    - **a)** badania podstawowe w rozumieniu art. 4 ust. 2 pkt 1 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ),
+    - **b)** badania aplikacyjne w rozumieniu art. 4 ust. 2 pkt 2 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce;
+
+- **40)** pracach rozwojowych oznacza to prace rozwojowe w rozumieniu art. 4 ust. 3 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce;
+- **41)** przepisach o systemie oświaty oznacza to przepisy ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2025 r. poz. 881 i 1019 oraz z 2026 r. poz. 203 i 319), przepisy ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2025 r. poz. 1043, 1160 i 1837 oraz z 2026 r. poz. 187 i 203) lub przepisy ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. z 2025 r. poz. 439 i 1792 oraz z 2026 r. poz. 34 i 319);
+- **42)** ustawie o CEIDG oznacza to ustawę z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. z 2026 r. poz. 30);
+- **43)** przedsiębiorstwie w spadku oznacza to przedsiębiorstwo w spadku w rozumieniu ustawy o zarządzie sukcesyjnym;
+- **44)** zarządzie sukcesyjnym oznacza to zarząd sukcesyjny w rozumieniu ustawy o zarządzie sukcesyjnym;
+- **45)** zmarłym przedsiębiorcy oznacza to zmarłego przedsiębiorcę, o którym mowa w art. 1 pkt 1 ustawy o zarządzie sukcesyjnym;
+- **46)** ustawie o pracowniczych planach kapitałowych oznacza to ustawę z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. z 2026 r. poz. 192);
+- **47)** ustawie o przeciwdziałaniu nadmiernym opóźnieniom oznacza to ustawę z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych (Dz. U. z 2023 r. poz. 1790);
+- **47a)** marynarzu oznacza to marynarza w rozumieniu ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. z 2026 r. poz. 102);
+- **48)** żegludze międzynarodowej oznacza to żeglugę między:
+    - **a)** portami polskimi a portami zagranicznymi, w tym także między portami polskimi, pod warunkiem że żegluga między portami polskimi jest częścią podróży morskiej do portu zagranicznego,
+    - **b)** portami polskimi a miejscami przeznaczenia położonymi poza granicą polskiego morza terytorialnego,
+    - **c)** portami zagranicznymi,
+    - **d)** miejscami przeznaczenia położonymi poza granicą polskiego morza terytorialnego,
+    - **e)** portami zagranicznymi a miejscami przeznaczenia położonymi poza granicą polskiego morza terytorialnego;
+
+- **49)** spółce nieruchomościowej oznacza to podmiot inny niż osoba fizyczna, obowiązany do sporządzania bilansu na podstawie przepisów o rachunkowości, w którym:
+    - **a)** na pierwszy dzień roku podatkowego, a w przypadku gdy spółka nieruchomościowa nie jest podatnikiem podatku dochodowego na pierwszy dzień roku obrotowego, co najmniej 50 % wartości rynkowej aktywów, bezpośrednio lub pośrednio, stanowiła wartość rynkowa nieruchomości położonych na terytorium Rzeczypospolitej Polskiej lub praw do takich nieruchomości oraz wartość rynkowa tych nieruchomości przekraczała 10 000 000 zł albo równowartość tej kwoty określoną według kursu średniego walut obcych, ogłaszanego przez Narodowy Bank Polski, z ostatniego dnia roboczego poprzedzającego pierwszy dzień roku podatkowego w przypadku podmiotów rozpoczynających działalność,
+    - **b)** na ostatni dzień roku poprzedzającego rok podatkowy, a w przypadku gdy spółka nieruchomościowa nie jest podatnikiem podatku dochodowego na ostatni dzień roku poprzedzającego rok obrotowy, co najmniej 50 % wartości bilansowej aktywów, bezpośrednio lub pośrednio, stanowiła wartość bilansowa nieruchomości położonych na terytorium Rzeczypospolitej Polskiej lub praw do takich nieruchomości i wartość bilansowa tych nieruchomości przekraczała 10 000 000 zł albo równowartość tej kwoty określoną według kursu średniego walut obcych, ogłaszanego przez Narodowy Bank Polski, z ostatniego dnia roboczego poprzedzającego ostatni dzień roku podatkowego poprzedzającego odpowiednio rok podatkowy albo rok obrotowy oraz w roku poprzedzającym odpowiednio rok podatkowy albo rok obrotowy przychody podatkowe, a w przypadku gdy spółka nieruchomościowa nie jest podatnikiem podatku dochodowego przychody ujęte w wyniku finansowym netto, z tytułu najmu, podnajmu, dzierżawy, poddzierżawy, leasingu i innych umów o podobnym charakterze lub z przeniesienia własności, których przedmiotem są nieruchomości lub prawa do nieruchomości, o których mowa w art. 3 ust. 2b pkt 6, oraz z tytułu udziałów w innych spółkach nieruchomościowych, stanowiły co najmniej 60 % ogółu odpowiednio przychodów podatkowych albo przychodów ujętych w wyniku finansowym netto w przypadku podmiotów innych niż określone w lit. a;
+
+- **50)** fundacji rodzinnej oznacza to fundację rodzinną oraz fundację rodzinną w organizacji, o których mowa w ustawie z dnia 26 stycznia 2023 r. o fundacji rodzinnej (Dz. U. poz. 326 i 825);
+- **51)** ustawie o OIPE oznacza to ustawę z dnia 7 lipca 2023 r. o ogólnoeuropejskim indywidualnym produkcie emerytalnym (Dz. U. poz. 1843);
+- **52)** rozporządzeniu 2019/1238 oznacza to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/1238 z dnia 20 czerwca 2019 r. w sprawie ogólnoeuropejskiego indywidualnego produktu emerytalnego (OIPE) (Dz. Urz. UE L 198 z 25.07.2019, str. 1).
+
 **Art. 5b.**
 
 1. Za pozarolniczą działalność gospodarczą nie uznaje się czynności, jeżeli łącznie spełnione są następujące warunki:
@@ -197,6 +331,9 @@ Art. 46–51. (pominięte)
 **Art. 5c.** (uchylony)
 
 **Art. 5d.** Spełnienie wymagań dla pojazdów samochodowych określonych w:
+
+- **1)** art. 5a pkt 19a lit. a i b stwierdza się na podstawie dodatkowego badania technicznego przeprowadzonego przez okręgową stację kontroli pojazdów, potwierdzonego zaświadczeniem wydanym przez tę stację, oraz dowodu rejestracyjnego pojazdu zawierającego odpowiednią adnotację o spełnieniu tych wymagań;
+- **2)** art. 5a pkt 19a lit. c stwierdza się na podstawie dokumentów wydanych zgodnie z przepisami o ruchu drogowym.
 
 **Art. 6.**
 
@@ -500,6 +637,21 @@ Art. 46–51. (pominięte)
 8. (uchylony)
 
 **Art. 13.** Za przychody z działalności wykonywanej osobiście, o której mowa w art. 10 ust. 1 pkt 2, uważa się:
+
+- **1)** (uchylony)
+- **2)** przychody z osobiście wykonywanej działalności artystycznej, literackiej, naukowej, trenerskiej, oświatowej i publicystycznej, w tym z tytułu udziału w konkursach z dziedziny nauki, kultury i sztuki oraz dziennikarstwa, przychody z tytułu udziału w badaniach i eksperymentach prowadzonych przez podmioty tworzące system szkolnictwa wyższego i nauki, jak również przychody z uprawiania sportu, stypendia sportowe przyznawane na podstawie odrębnych przepisów oraz przychody sędziów z tytułu prowadzenia zawodów sportowych;
+- **3)** przychody z działalności duchownych, osiągane z innego tytułu niż umowa o pracę;
+- **4)** przychody z działalności polskich arbitrów uczestniczących w procesach arbitrażowych z partnerami zagranicznymi;
+- **5)** przychody otrzymywane przez osoby wykonujące czynności związane z pełnieniem obowiązków społecznych lub obywatelskich, bez względu na sposób powoływania tych osób, nie wyłączając odszkodowania za utracony zarobek, z wyjątkiem przychodów, o których mowa w pkt 7;
+- **6)** przychody osób, którym organ władzy lub administracji państwowej albo samorządowej, sąd lub prokurator, na podstawie właściwych przepisów, zlecił wykonanie określonych czynności, a zwłaszcza przychody biegłych w postępowaniu sądowym, dochodzeniowym i administracyjnym oraz płatników, z zastrzeżeniem art. 14 ust. 2 pkt 10, i inkasentów należności publicznoprawnych, a także przychody z tytułu udziału w komisjach powoływanych przez organy władzy lub administracji państwowej albo samorządowej, z wyjątkiem przychodów, o których mowa w pkt 9;
+- **7)** przychody otrzymywane przez osoby, niezależnie od sposobu ich powoływania, należące do składu zarządów, rad nadzorczych, komisji lub innych organów stanowiących osób prawnych;
+- **7a)** przychody otrzymywane przez członków Rady Mediów Narodowych;
+- **8)** przychody z tytułu wykonywania usług, na podstawie umowy zlecenia lub umowy o dzieło, uzyskiwane wyłącznie od:
+    - **a)** osoby fizycznej prowadzącej działalność gospodarczą, osoby prawnej i jej jednostki organizacyjnej oraz jednostki organizacyjnej niemającej osobowości prawnej,
+    - **b)** właściciela (posiadacza) nieruchomości, w której lokale są wynajmowane, lub działającego w jego imieniu zarządcy albo administratora jeżeli podatnik wykonuje te usługi wyłącznie dla potrzeb związanych z tą nieruchomością,
+    - **c)** przedsiębiorstwa w spadku z wyjątkiem przychodów uzyskanych na podstawie umów zawieranych w ramach prowadzonej przez podatnika pozarolniczej działalności gospodarczej oraz przychodów, o których mowa w pkt 9;
+
+- **9)** przychody uzyskane na podstawie umów o zarządzanie przedsiębiorstwem, kontraktów menedżerskich lub umów o podobnym charakterze, w tym przychody z tego rodzaju umów zawieranych w ramach prowadzonej przez podatnika pozarolniczej działalności gospodarczej z wyjątkiem przychodów, o których mowa w pkt 7.
 
 **Art. 14.**
 
@@ -1755,6 +1907,12 @@ Art. 46–51. (pominięte)
 
 **Art. 22c.** Amortyzacji nie podlegają:
 
+- **1)** grunty i prawa wieczystego użytkowania gruntów,
+- **2)** budynki mieszkalne wraz ze znajdującymi się w nich dźwigami, lokale mieszkalne stanowiące odrębną nieruchomość, spółdzielcze własnościowe prawo do lokalu mieszkalnego oraz prawo do domu jednorodzinnego w spółdzielni mieszkaniowej, służące prowadzonej działalności gospodarczej lub wydzierżawiane albo wynajmowane na podstawie umowy,
+- **3)** dzieła sztuki i eksponaty muzealne,
+- **4)** wartość firmy, jeżeli wartość ta powstała w inny sposób niż określony w art. 22b ust. 2 pkt 1 i 1a,
+- **5)** składniki majątku, które nie są używane na skutek zawieszenia wykonywania działalności gospodarczej na podstawie przepisów dotyczących zawieszenia wykonywania działalności gospodarczej albo zaprzestania działalności, w której te składniki były używane; w tym przypadku składniki te nie podlegają amortyzacji od miesiąca następującego po miesiącu, w którym zawieszono albo zaprzestano tej działalności zwane odpowiednio środkami trwałymi lub wartościami niematerialnymi i prawnymi.
+
 **Art. 22d.**
 
 1. Podatnicy mogą nie dokonywać odpisów amortyzacyjnych od składników majątku, o których mowa w art. 22a i 22b, których wartość początkowa, określona zgodnie z art. 22g, nie przekracza 10 000 zł; wydatki poniesione na ich nabycie stanowią wówczas koszty uzyskania przychodów w miesiącu oddania ich do używania.
@@ -2342,6 +2500,23 @@ Art. 46–51. (pominięte)
 
 **Art. 23a.** Ilekroć w rozdziale jest mowa o:
 
+- **1)** umowie leasingu rozumie się przez to umowę nazwaną w kodeksie cywilnym, a także każdą inną umowę, na mocy której jedna ze stron, zwana dalej „finansującym”, oddaje do odpłatnego używania albo używania i pobierania pożytków na warunkach określonych w ustawie drugiej stronie, zwanej dalej „korzystającym”, podlegające amortyzacji środki trwałe lub wartości niematerialne i prawne, a także grunty oraz prawo wieczystego użytkowania gruntów;
+- **2)** podstawowym okresie umowy leasingu rozumie się przez to czas oznaczony, na jaki została zawarta ta umowa, z wyłączeniem czasu, na który może być przedłużona lub skrócona; w przypadku zmiany strony lub stron tej umowy podstawowy okres umowy uważa się za zachowany, jeżeli inne postanowienia umowy nie uległy zmianie;
+- **3)** odpisach amortyzacyjnych rozumie się przez to odpisy amortyzacyjne dokonywane wyłącznie zgodnie z przepisami art. 22a–22m, z uwzględnieniem art. 23;
+- **4)** normatywnym okresie amortyzacji rozumie się przez to w odniesieniu do:
+    - **a)** środków trwałych okres, w którym odpisy amortyzacyjne, wynikające z zastosowania stawek amortyzacyjnych określonych w Wykazie stawek amortyzacyjnych, zrównują się z wartością początkową środków trwałych,
+    - **b)** wartości niematerialnych i prawnych okres ustalony w art. 22m;
+
+- **5)** rzeczywistej wartości netto rozumie się przez to:
+    - **a)** wartość początkową środków trwałych lub wartości niematerialnych i prawnych zaktualizowaną zgodnie z odrębnymi przepisami, pomniejszoną o sumę odpisów amortyzacyjnych, o których mowa w art. 22h ust. 1 pkt 1,
+    - **b)** wartość, o której mowa w art. 22ł ust. 6;
+
+- **6)** hipotetycznej wartości netto rozumie się przez to wartość początkową określoną zgodnie z art. 22g pomniejszoną o:
+    - **a)** odpisy amortyzacyjne obliczone według zasad określonych w art. 22k ust. 1 z uwzględnieniem współczynnika 3 w odniesieniu do środków trwałych,
+    - **b)** odpisy amortyzacyjne obliczone przy zastosowaniu trzykrotnie skróconych okresów amortyzowania, o których mowa w pkt 4 lit. b w odniesieniu do wartości niematerialnych i prawnych;
+
+- **7)** spłacie wartości początkowej rozumie się przez to faktycznie otrzymaną przez finansującego w opłatach ustalonych w umowie leasingu równowartość wartości początkowej środków trwałych lub wartości niematerialnych i prawnych, określoną zgodnie z art. 22g, w podstawowym okresie umowy leasingu; spłaty tej nie koryguje się o kwotę wypłaconą korzystającemu, o której mowa w art. 23d albo art. 23h.
+
 **Art. 23b.**
 
 1. Opłaty ustalone w umowie leasingu, ponoszone przez korzystającego w podstawowym okresie umowy z tytułu używania środków trwałych oraz wartości niematerialnych i prawnych stanowią przychód finansującego i odpowiednio w przypadku, o którym mowa w pkt 1, koszt uzyskania przychodów korzystającego, z zastrzeżeniem ust. 2 i 3, jeżeli:
@@ -2359,6 +2534,9 @@ Art. 46–51. (pominięte)
 3. W przypadku finansującego będącego spółką niebędącą osobą prawną ograniczenia, o których mowa w ust. 2, dotyczą także wspólników tych spółek.
 
 **Art. 23c.** Jeżeli po upływie podstawowego okresu umowy leasingu, o której mowa w art. 23b ust. 1, finansujący przenosi na korzystającego własność środków trwałych lub wartości niematerialnych i prawnych, będących przedmiotem tej umowy:
+
+- **1)** przychodem ze sprzedaży środków trwałych lub wartości niematerialnych i prawnych jest ich wartość wyrażona w cenie określonej w umowie sprzedaży; jeżeli jednak cena ta jest niższa od hipotetycznej wartości netto środków trwałych lub wartości niematerialnych i prawnych, przychód ten określa się w wysokości wartości rynkowej według zasad określonych w art. 19;
+- **2)** kosztem uzyskania przychodów przy ustalaniu dochodu ze sprzedaży jest rzeczywista wartość netto.
 
 **Art. 23d.**
 
@@ -2523,6 +2701,12 @@ Art. 46–51. (pominięte)
 
 **Art. 23q.** Podatnik może dokonać korekty cen transferowych poprzez zmianę wysokości uzyskanych przychodów lub poniesionych kosztów uzyskania przychodów, jeżeli są spełnione łącznie następujące warunki:
 
+- **1)** w transakcjach kontrolowanych realizowanych przez podatnika w trakcie roku podatkowego ustalone zostały warunki, które ustaliłyby podmioty niepowiązane;
+- **2)** nastąpiła zmiana istotnych okoliczności mających wpływ na ustalone w trakcie roku podatkowego warunki lub znane są faktycznie poniesione koszty lub uzyskane przychody będące podstawą obliczenia ceny transferowej, a zapewnienie ich zgodności z warunkami, jakie ustaliłyby podmioty niepowiązane, wymaga dokonania korekty cen transferowych;
+- **3)** w momencie dokonania korekty podatnik posiada oświadczenie podmiotu powiązanego lub dowód księgowy potwierdzające dokonanie przez ten podmiot korekty cen transferowych w tej samej wysokości co podatnik;
+- **4)** istnieje podstawa prawna do wymiany informacji podatkowych z państwem, w którym podmiot powiązany, o którym mowa w pkt 3, ma miejsce zamieszkania, siedzibę lub zarząd.
+- **5)** (uchylony)
+
 **Art. 23r.**
 
 1. W przypadku transakcji kontrolowanych stanowiących usługi o niskiej wartości dodanej organ podatkowy odstępuje od określenia dochodu (straty) podatnika w zakresie wysokości narzutu na kosztach tych usług, jeżeli łącznie są spełnione następujące warunki:
@@ -2634,6 +2818,83 @@ Art. 46–51. (pominięte)
 **Art. 23y.** (uchylony)
 
 **Art. 23z.** Obowiązek sporządzenia lokalnej dokumentacji cen transferowych, o którym mowa w art. 23w ust. 1, nie ma zastosowania do transakcji kontrolowanych:
+
+- **1)** zawieranych wyłącznie przez podmioty powiązane mające miejsce zamieszkania, siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej w roku podatkowym, w którym każdy z tych podmiotów powiązanych spełnia łącznie następujące warunki:
+    - **a)** nie korzysta ze zwolnienia, o którym mowa w art. 21 ust. 1 pkt 63a i 63b,
+    - **b)** nie poniósł straty podatkowej;
+
+- **1a)** zawieranych wyłącznie:
+    - **a)** pomiędzy położonymi na terytorium Rzeczypospolitej Polskiej zagranicznymi zakładami podmiotów powiązanych mających miejsce zamieszkania, siedzibę lub zarząd na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej lub innego państwa należącego do Europejskiego Obszaru Gospodarczego,
+    - **b)** przez położony na terytorium Rzeczypospolitej Polskiej zagraniczny zakład podmiotu mającego miejsce zamieszkania, siedzibę lub zarząd na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej lub innego państwa należącego do Europejskiego Obszaru Gospodarczego z podmiotem powiązanym mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej w roku podatkowym, w którym przychody lub koszty uzyskania przychodów powstałe w wyniku takich transakcji kontrolowanych zostały przypisane do zagranicznego zakładu pod warunkiem, że żaden z podmiotów powiązanych w zakresie tych przychodów lub kosztów przypisanych do zagranicznego zakładu nie korzysta ze zwolnień, o których mowa w art. 21 ust. 1 pkt 63a i 63b, i nie poniósł straty podatkowej;
+
+- **2)** objętych uprzednim porozumieniem cenowym, porozumieniem inwestycyjnym, o którym mowa w art. 20zs § 1 Ordynacji podatkowej, albo porozumieniem podatkowym, o którym mowa w art. 20zb pkt 2 Ordynacji podatkowej, za okres, którego takie porozumienie dotyczy;
+- **3)** których wartość w całości trwale nie stanowi przychodu albo kosztu uzyskania przychodu, z wyłączeniem transakcji finansowych, transakcji kapitałowych oraz transakcji dotyczących inwestycji, środków trwałych lub wartości niematerialnych i prawnych;
+- **4)** w przypadku gdy powiązania wynikają wyłącznie z powiązania ze Skarbem Państwa lub jednostkami samorządu terytorialnego lub ich związkami;
+- **5)** w których cena została ustalona w trybie przetargu nieograniczonego na podstawie ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. );
+- **6)** realizowanych między grupą producentów rolnych wpisaną do rejestru, o którym mowa w art. 9 ust. 1 ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. z 2023 r. poz. 1145), a jej członkami, dotyczących odpłatnego zbycia:
+    - **a)** na rzecz grupy producentów rolnych produktów lub grup produktów wyprodukowanych w gospodarstwach członków takiej grupy,
+    - **b)** przez grupę producentów rolnych na rzecz jej członków towarów wykorzystywanych przez członka do produkcji produktów lub grup produktów, o których mowa w lit. a, oraz świadczenia usług związanych z tą produkcją;
+
+- **7)** realizowanych między wstępnie uznaną grupą producentów owoców i warzyw lub uznaną organizacją producentów owoców i warzyw, działających na podstawie ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. z 2023 r. poz. 1318), a jej członkami, dotyczących odpłatnego zbycia:
+    - **a)** na rzecz takiej grupy lub organizacji produktów lub grup produktów wyprodukowanych w gospodarstwach członków takiej grupy lub organizacji,
+    - **b)** przez taką grupę lub organizację na rzecz jej członków towarów wykorzystywanych przez członka do produkcji produktów lub grup produktów, o których mowa w lit. a, oraz świadczenia usług związanych z tą produkcją;
+
+- **8)** polegających na przypisaniu dochodu do zagranicznego zakładu położonego na terytorium Rzeczypospolitej Polskiej przez podatników, o których mowa w art. 3 ust. 2a, jeżeli przepisy właściwych umów międzynarodowych, których stroną jest Rzeczpospolita Polska, przewidują, że dochody te mogą być opodatkowane tylko w państwie innym niż Rzeczpospolita Polska;
+- **9)** polegających wyłącznie na dokonaniu rozliczenia pomiędzy podmiotami powiązanymi wydatków poniesionych na rzecz podmiotu niepowiązanego, jeżeli łącznie są spełnione następujące warunki:
+    - **a)** nie powstaje wartość dodana i rozliczenie następuje bez uwzględniania marży lub narzutu zysku,
+    - **b)** rozliczenie nie jest związane bezpośrednio z inną transakcją kontrolowaną,
+    - **c)** rozliczenie nastąpiło niezwłocznie po dokonaniu zapłaty na rzecz podmiotu niepowiązanego,
+    - **d)** podmiot powiązany nie jest podmiotem mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową przy czym w przypadku zastosowania klucza alokacji przepis art. 23r ust. 1 pkt 3 stosuje się odpowiednio;
+
+- **10)** stanowiących usługi o niskiej wartości dodanej w przypadku spełnienia warunków określonych w art. 23r;
+- **11)** dotyczących pożyczki, kredytu lub emisji obligacji w przypadku spełnienia warunków określonych w art. 23s. Art. 23za. 1. Do sporządzenia lokalnej dokumentacji cen transferowych są obowiązani także podatnicy i spółki niebędące osobami prawnymi dokonujący transakcji, innej niż transakcja kontrolowana, z podmiotem mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową lub zagranicznym zakładem położonym na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, jeżeli wartość tej transakcji za rok podatkowy, a w przypadku spółek niebędących osobami prawnymi za rok obrotowy, przekracza:
+- **1)** 2 500 000 zł w przypadku transakcji finansowej,
+- **2)** 500 000 zł w przypadku transakcji innej niż transakcja finansowa przy czym przepisy art. 23w ust. 1 i 3–5, art. 23x, art. 23z pkt 3 i 5–7, art. 23zc ust. 1 oraz art. 23zd stosuje się odpowiednio.
+
+1a. (uchylony) 1b. (uchylony)
+
+2. Wartość transakcji, o której mowa w ust. 1, wyrażoną w walucie obcej, przelicza się na złote według kursu średniego ogłaszanego przez Narodowy Bank Polski, obowiązującego w ostatnim dniu roboczym poprzedzającym dzień realizacji operacji gospodarczej lub zawarcia umowy. Art. 23zb. 1. Podmioty powiązane, których sprawozdania finansowe są konsolidowane metodą pełną lub proporcjonalną, obowiązane do sporządzenia lokalnej dokumentacji cen transferowych dołączają do tej dokumentacji grupową dokumentację cen transferowych, sporządzoną za rok obrotowy, w terminie do końca dwunastego miesiąca po zakończeniu roku podatkowego, jeżeli należą do grupy podmiotów powiązanych:
+
+- **1)** dla której jest sporządzane skonsolidowane sprawozdanie finansowe;
+- **2)** której skonsolidowane przychody przekroczyły w poprzednim roku obrotowym kwotę 200 000 000 zł lub jej równowartość.
+
+2. Kwoty przychodów, o których mowa w ust. 1 pkt 2, wyrażone w walucie obcej przelicza się na złote według kursu średniego ogłaszanego przez Narodowy Bank Polski obowiązującego w ostatnim dniu roboczym sprawozdawczego roku obrotowego poprzedzającego rok obrotowy, którego dotyczy grupowa dokumentacja cen transferowych.
+
+3. Grupowa dokumentacja cen transferowych może być sporządzona przez podmiot powiązany obowiązany do dołączania grupowej dokumentacji cen transferowych lub inny podmiot należący do grupy podmiotów powiązanych. Sporządzenie grupowej dokumentacji cen transferowych przez inny podmiot z grupy podmiotów powiązanych nie zwalnia z odpowiedzialności za zgodność tej dokumentacji z art. 23zc ust. 2.
+
+4. W przypadku gdy grupowa dokumentacja cen transferowych została sporządzona w języku angielskim, organ podatkowy może wystąpić z żądaniem przedłożenia, w terminie 30 dni od dnia doręczenia tego żądania, grupowej dokumentacji cen transferowych w języku polskim. Art. 23zc. 1. Lokalna dokumentacja cen transferowych zawiera następujące elementy:
+
+- **1)** opis podmiotu powiązanego;
+- **2)** opis transakcji, w tym analizę funkcji, ryzyk i aktywów;
+- **3)** analizę cen transferowych, w tym:
+    - **a)** analizę danych podmiotów niepowiązanych lub transakcji zawieranych z podmiotami niepowiązanymi lub pomiędzy podmiotami niepowiązanymi uznanych za porównywalne do warunków ustalonych w transakcjach kontrolowanych, zwaną dalej „analizą porównawczą”, albo
+    - **b)** analizę wykazującą zgodność warunków, na jakich została zawarta transakcja kontrolowana, z warunkami, jakie ustaliłyby podmioty niepowiązane, zwaną dalej „analizą zgodności” w przypadku gdy sporządzenie analizy porównawczej nie jest właściwe w świetle danej metody weryfikacji cen transferowych lub nie jest możliwe przy zachowaniu należytej staranności;
+
+- **4)** informacje finansowe.
+
+1a. W przypadku transakcji, o których mowa w art. 23za ust. 1, lokalna dokumentacja cen transferowych zawiera również uzasadnienie gospodarcze tej transakcji, w szczególności opis spodziewanych korzyści ekonomicznych, w tym podatkowych.
+
+2. Grupowa dokumentacja cen transferowych zawiera następujące elementy dotyczące grupy kapitałowej w rozumieniu art. 3 ust. 1 pkt 44 ustawy o rachunkowości:
+
+- **1)** opis tej grupy;
+- **2)** opis istotnych wartości niematerialnych i prawnych tej grupy;
+- **3)** opis istotnych transakcji finansowych tej grupy;
+- **4)** informacje finansowe i podatkowe tej grupy.
+
+3. (uchylony) 3a. W przypadku:
+
+- **1)** transakcji kontrolowanych zawieranych przez podmioty powiązane będące mikroprzedsiębiorcą lub małym przedsiębiorcą w rozumieniu odpowiednio art. 7 ust. 1 pkt 1 i 2 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców,
+- **2)** transakcji innych niż transakcje kontrolowane, o których mowa w art. 23za ust. 1 lokalna dokumentacja cen transferowych może nie zawierać analizy porównawczej lub analizy zgodności.
+
+3b. Przepis ust. 3a pkt 1 ma zastosowanie w przypadku przedsiębiorcy, który w ostatnim roku podatkowym spełnił warunki określone w art. 7 ust. 1 pkt 1 albo 2 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
+
+4. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowy zakres elementów lokalnej dokumentacji cen transferowych i grupowej dokumentacji cen transferowych, mając na uwadze ułatwienie podatnikom sporządzania poprawnej dokumentacji cen transferowych oraz uwzględniając wytyczne Organizacji Współpracy Gospodarczej i Rozwoju w sprawie cen transferowych dla przedsiębiorstw wielonarodowych oraz administracji podatkowych. Art. 23zd. Analiza porównawcza oraz analiza zgodności podlegają aktualizacji nierzadziej niż co 3 lata, chyba że zmiana otoczenia ekonomicznego w stopniu znacznie wpływającym na sporządzoną analizę uzasadnia dokonanie aktualizacji w roku zaistnienia tej zmiany. Art. 23ze. 1. Podmioty powiązane, które są obowiązane do sporządzania lokalnej dokumentacji cen transferowych lub grupowej dokumentacji cen transferowych, przedkładają, na żądanie organów podatkowych, tę dokumentację, w terminie 14 dni od dnia doręczenia tego żądania.
+
+2. W przypadku wystąpienia okoliczności wskazujących na prawdopodobieństwo zaniżenia wartości transakcji kontrolowanej lub niespełnienia warunków, o których mowa w art. 23r ust. 1 lub art. 23s ust. 1, organ podatkowy może zwrócić się do podatnika niebędącego mikroprzedsiębiorcą w rozumieniu art. 7 ust. 1 pkt 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, z uwzględnieniem art. 23zc ust. 3b, z żądaniem sporządzenia i przedłożenia lokalnej dokumentacji cen transferowych niezawierającej analizy porównawczej lub analizy zgodności dla wskazanych przez organ podatkowy transakcji kontrolowanych w roku podatkowym, w terminie 30 dni od dnia doręczenia takiego żądania. Żądanie wskazuje okoliczności świadczące o prawdopodobieństwie zaniżenia wartości transakcji kontrolowanej lub niespełnienia warunków, o których mowa w art. 23r ust. 1 lub art. 23s ust. 1.
+
+3. Organ podatkowy może wystąpić z żądaniem, o którym mowa w ust. 1, po upływie terminu, o którym mowa w art. 23w ust. 1, a w przypadku grupowej dokumentacji cen transferowych po upływie terminu, o którym mowa w art. 23zb ust. 1.
+
+4. Obowiązek, o którym mowa w ust. 1, ma zastosowanie również do podatników i spółek niebędących osobami prawnymi, o których mowa w art. 23za ust. 1, w zakresie transakcji wskazanych w tym przepisie. Przepisy ust. 2 i 3 stosuje się odpowiednio.
 
 ##### Oddział 4 Informacja o cenach transferowych
 
@@ -3280,6 +3541,61 @@ Art. 46–51. (pominięte)
 **Art. 26f.** Podatnicy korzystający z odliczenia, o którym mowa w art. 26e, oraz podatnicy, którym przysługuje kwota określona w art. 26ea, są obowiązani wykazać w zeznaniu poniesione koszty kwalifikowane podlegające odliczeniu lub stanowiące podstawę do wyliczenia przysługującej podatnikowi kwoty.
 
 **Art. 26g.** Odliczenie, o którym mowa w art. 26e, oraz kwotę przysługującą podatnikowi na podstawie art. 26ea podatnik wykazuje w zeznaniu, w którym rozlicza przychody ze źródła określonego w art. 10 ust. 1 pkt 3. Art. 26ga. 1. Podatnik prowadzący pozarolniczą działalność gospodarczą może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, kwotę stanowiącą 30 % sumy kosztów produkcji próbnej nowego produktu i wprowadzenia na rynek nowego produktu, przy czym wysokość odliczenia nie może w roku podatkowym przekroczyć 10 % dochodu osiągniętego z pozarolniczej działalności gospodarczej. 2. Przez produkt rozumie się produkt w rozumieniu przepisów ustawy o rachunkowości, z wyłączeniem usługi. 3. Przez produkcję próbną nowego produktu rozumie się etap rozruchu technologicznego produkcji niewymagający dalszych prac projektowo-konstrukcyjnych lub inżynieryjnych, którego celem jest wykonanie prób i testów przed uruchomieniem procesu produkcji nowego produktu, powstałego w wyniku prowadzenia przez podatnika prac badawczo-rozwojowych, przy czym etap rozruchu technologicznego obejmuje okres od momentu poniesienia pierwszego kosztu związanego z tym etapem do momentu rozpoczęcia produkcji nowego produktu. 4. Przez wprowadzenie na rynek nowego produktu rozumie się działania podejmowane w celu przygotowania dokumentacji służącej uzyskaniu w odniesieniu do produktu powstałego w wyniku prowadzenia przez podatnika prac badawczo-rozwojowych certyfikatów i zezwoleń umożliwiających skierowanie produktu do sprzedaży. 5. Za koszty produkcji próbnej nowego produktu uznaje się:
+
+- **1)** cenę nabycia, o której mowa w art. 22g ust. 3, lub koszt wytworzenia, o którym mowa w art. 22g ust. 4, fabrycznie nowych środków trwałych niezbędnych do uruchomienia produkcji próbnej nowego produktu, zaliczonych do grup 3–6 i 8 Klasyfikacji;
+- **2)** wydatki na ulepszenie, o których mowa w art. 22g ust. 17, poniesione w celu dostosowania środka trwałego zaliczonego do grup 3–6 i 8 Klasyfikacji, do uruchomienia produkcji próbnej nowego produktu;
+- **3)** koszty nabycia materiałów i surowców nabytych wyłącznie w celu produkcji próbnej nowego produktu.
+
+6. Do kosztów wprowadzenia na rynek nowego produktu zalicza się koszty:
+
+- **1)** badań, ekspertyz, przygotowania dokumentacji niezbędnej do uzyskania certyfikatu, homologacji, znaku CE, znaku bezpieczeństwa, uzyskania lub utrzymania zezwolenia na obrót lub innych obowiązkowych dokumentów lub oznakowań związanych z dopuszczeniem do obrotu lub użytkowania oraz koszty opłat pobieranych w celu ich uzyskania, odnowienia lub przedłużenia;
+- **2)** badania cyklu życia produktu;
+- **3)** systemu weryfikacji technologii środowiskowych.
+
+7. Koszty produkcji próbnej nowego produktu i wprowadzenia na rynek nowego produktu pomniejsza się o podatek od towarów i usług, z wyjątkiem przypadków gdy zgodnie z odrębnymi przepisami podatek od towarów i usług nie stanowi podatku naliczonego albo podatnikowi nie przysługuje obniżenie kwoty należnego podatku o podatek naliczony albo zwrot różnicy podatku w rozumieniu ustawy o podatku od towarów i usług.
+
+8. W przypadku skorzystania z odliczenia kosztów produkcji próbnej nowego produktu, o których mowa w ust. 5 pkt 1 i 2, przepisu art. 23 ust. 1 pkt 45 nie stosuje się.
+
+9. Odliczenie przysługuje, jeżeli koszty produkcji próbnej nowego produktu lub wprowadzenia na rynek nowego produktu:
+
+- **1)** zostały faktycznie poniesione w roku podatkowym, za który jest dokonywane odliczenie;
+- **2)** nie zostały podatnikowi zwrócone w jakiejkolwiek formie lub nie zostały odliczone od podstawy obliczenia podatku.
+
+10. Podatnikowi, który w roku podatkowym korzysta ze zwolnień podatkowych, o których mowa w art. 21 ust. 1 pkt 63a lub 63b, prawo do odliczenia przysługuje jedynie w odniesieniu do kosztów produkcji próbnej nowego produktu lub wprowadzenia na rynek nowego produktu, które nie są przez podatnika uwzględniane w kalkulacji dochodu zwolnionego z podatku na podstawie tych przepisów.
+
+11. Odliczenia dokonuje się w zeznaniu za rok podatkowy, w którym poniesiono koszty produkcji próbnej nowego produktu lub wprowadzenia na rynek nowego produktu. W przypadku gdy podatnik poniósł za rok podatkowy stratę albo wielkość dochodu podatnika jest niższa od kwoty przysługujących mu odliczeń, odliczenia odpowiednio w całej kwocie lub w pozostałej części dokonuje się w zeznaniach za kolejno następujące po sobie sześć lat podatkowych następujących bezpośrednio po roku, w którym podatnik skorzystał lub miał prawo skorzystać z odliczenia.
+
+12. Przepis art. 26e ust. 10 stosuje się odpowiednio. Art. 26gb. 1. Podatnik uzyskujący przychody z pozarolniczej działalności gospodarczej odlicza od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, koszty uzyskania przychodów poniesione w celu zwiększenia przychodów ze sprzedaży produktów do wysokości dochodu uzyskanego przez podatnika w roku podatkowym z pozarolniczej działalności gospodarczej, niewięcej jednak niż 1 000 000 zł w roku podatkowym.
+
+2. Przez produkty rozumie się rzeczy wytworzone przez podatnika.
+
+3. Przez zwiększenie przychodów ze sprzedaży produktów, o którym mowa w ust. 1, rozumie się odpłatne zbycie produktów do podmiotu niebędącego podmiotem powiązanym w rozumieniu art. 23m ust. 1 pkt 4.
+
+4. Podatnik jest uprawniony do skorzystania z odliczenia pod warunkiem, że w okresie 2 kolejno następujących po sobie lat podatkowych, licząc od roku podatkowego, w którym poniósł koszty zwiększenia przychodów, o których mowa w ust. 1, zwiększył przychody ze sprzedaży produktów w stosunku do przychodów z tego tytułu ustalonych na ostatni dzień roku podatkowego poprzedzającego rok poniesienia tych kosztów lub osiągnął przychody ze sprzedaży produktów dotychczas nieoferowanych, lub osiągnął przychody ze sprzedaży produktów dotychczas nieoferowanych w danym kraju.
+
+5. Przy ustalaniu spełnienia warunku, o którym mowa w ust. 4, uwzględnia się wyłącznie przychody, z których dochód podlega opodatkowaniu na terytorium Rzeczypospolitej Polskiej.
+
+6. W przypadku gdy podatnik, który skorzystał z odliczenia, nie spełni warunku, o którym mowa w ust. 4, jest obowiązany w zeznaniu składanym za rok podatkowy, w którym upłynął termin do osiągnięcia przychodów ze sprzedaży produktów, do odpowiedniego doliczenia kwoty uprzednio odliczonej.
+
+7. Za koszty poniesione w celu zwiększenia przychodów ze sprzedaży produktów uznaje się koszty:
+
+- **1)** uczestnictwa w targach poniesione na:
+    - **a)** organizację miejsca wystawowego,
+    - **b)** zakup biletów lotniczych dla pracowników i podatnika,
+    - **c)** zakwaterowanie i wyżywienie dla pracowników i podatnika;
+
+- **2)** działań promocyjno-informacyjnych, w tym zakupu przestrzeni reklamowych, przygotowania strony internetowej, publikacji prasowych, broszur, katalogów informacyjnych i ulotek, dotyczących produktów;
+- **3)** dostosowania opakowań produktów do wymagań kontrahentów;
+- **4)** przygotowania dokumentacji umożliwiającej sprzedaż produktów, w szczególności dotyczącej certyfikacji towarów oraz rejestracji znaków towarowych;
+- **5)** przygotowania dokumentacji niezbędnej do przystąpienia do przetargu, a także w celu składania ofert innym podmiotom.
+
+8. Podatnikowi, który w roku podatkowym korzysta ze zwolnień podatkowych, o których mowa w art. 21 ust. 1 pkt 63a lub 63b, prawo do odliczenia przysługuje jedynie w odniesieniu do kosztów uzyskania przychodów poniesionych w celu zwiększenia przychodów ze sprzedaży produktów, które nie są przez podatnika uwzględniane w kalkulacji dochodu zwolnionego z podatku na podstawie tych przepisów.
+
+9. Odliczenia dokonuje się w zeznaniu za rok podatkowy, w którym poniesiono koszty w celu zwiększenia przychodów ze sprzedaży produktów. W przypadku gdy podatnik poniósł za rok podatkowy stratę albo wielkość dochodu podatnika jest niższa od kwoty przysługujących mu odliczeń, odliczenia odpowiednio w całej kwocie lub w pozostałej części dokonuje się w zeznaniach za kolejno następujące po sobie sześć lat podatkowych następujących bezpośrednio po roku, w którym podatnik skorzystał lub miał prawo skorzystać z odliczenia.
+
+10. Koszty uzyskania przychodów poniesione w celu zwiększenia przychodów ze sprzedaży produktów podlegają odliczeniu, jeżeli nie zostały podatnikowi zwrócone w jakiejkolwiek formie lub nie zostały odliczone od podstawy opodatkowania podatkiem dochodowym.
+
+11. Przepis art. 26e ust. 10 stosuje się odpowiednio.
 
 **Art. 26h.**
 
@@ -3963,6 +4279,108 @@ Art. 46–51. (pominięte)
 
 **Art. 30d.** (uchylony) Art. 30da. 1. Podatek od dochodów z niezrealizowanych zysków wynosi:
 
+- **1)** 19 % podstawy opodatkowania gdy ustalana jest wartość podatkowa składnika majątku;
+- **2)** 3 % podstawy opodatkowania gdy nie ustala się wartości podatkowej składnika majątku.
+
+2. Opodatkowaniu podatkiem od dochodów z niezrealizowanych zysków podlega:
+
+- **1)** przeniesienie składnika majątku poza terytorium Rzeczypospolitej Polskiej, w wyniku którego Rzeczpospolita Polska traci prawo do opodatkowania dochodów ze zbycia tego składnika majątku, przy czym przenoszony składnik majątku pozostaje własnością tego samego podmiotu;
+- **2)** zmiana rezydencji podatkowej przez podatnika podlegającego w Rzeczypospolitej Polskiej nieograniczonemu obowiązkowi podatkowemu, w wyniku której Rzeczpospolita Polska traci prawo do opodatkowania dochodów ze zbycia składnika majątku będącego własnością tego podatnika, w związku z przeniesieniem jego miejsca zamieszkania do innego państwa.
+
+3. W przypadku składnika majątku niezwiązanego z działalnością gospodarczą opodatkowaniu podatkiem od dochodów z niezrealizowanych zysków w przypadku, o którym mowa w ust. 2 pkt 2, podlegają tylko składniki majątku stanowiące: ogół praw i obowiązków w spółce niebędącej osobą prawną, udziały w spółce, akcje i inne papiery wartościowe, pochodne instrumenty finansowe oraz tytuły uczestnictwa w funduszach kapitałowych, zwane dalej „majątkiem osobistym”, jeżeli podatnik ma miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej przez łącznie co najmniej pięć lat w dziesięcioletnim okresie poprzedzającym dzień zmiany rezydencji podatkowej.
+
+4. Przeniesienie składnika majątku poza terytorium Rzeczypospolitej Polskiej, o którym mowa w ust. 2 pkt 1, obejmuje w szczególności sytuację, w której:
+
+- **1)** podatnik, o którym mowa w art. 3 ust. 1, przenosi do swojego zagranicznego zakładu składnik majątku dotychczas związany z działalnością gospodarczą prowadzoną na terytorium Rzeczypospolitej Polskiej;
+- **2)** podatnik, o którym mowa w art. 3 ust. 2a, przenosi do państwa swojej rezydencji podatkowej lub do innego niż Rzeczpospolita Polska państwa, w którym prowadzi działalność gospodarczą poprzez zagraniczny zakład, składnik majątku dotychczas związany z działalnością gospodarczą prowadzoną na terytorium Rzeczypospolitej Polskiej przez zagraniczny zakład;
+- **3)** podatnik, o którym mowa w art. 3 ust. 2a, przenosi do innego państwa całość albo część działalności gospodarczej prowadzonej dotychczas poprzez położony na terytorium Rzeczypospolitej Polskiej zagraniczny zakład.
+
+5. Opodatkowanie podatkiem od dochodów z niezrealizowanych zysków w wyniku zmiany rezydencji podatkowej, o której mowa w ust. 2 pkt 2, nie dotyczy składników majątku, które po zmianie rezydencji podatkowej pozostają związane z położonym na terytorium Rzeczypospolitej Polskiej zagranicznym zakładem podatnika, który zmienił rezydencję podatkową.
+
+6. Dniem przeniesienia składnika majątku poza terytorium Rzeczypospolitej Polskiej jest dzień poprzedzający dzień, w którym składnik ten przestaje być przypisany do działalności prowadzonej na terytorium Rzeczypospolitej Polskiej, w tym poprzez zagraniczny zakład.
+
+7. Dochód z niezrealizowanych zysków stanowi nadwyżka wartości rynkowej składnika majątku ustalanej na dzień jego przeniesienia albo na dzień poprzedzający dzień zmiany rezydencji podatkowej ponad jego wartość podatkową.
+
+8. Wartość rynkową składnika majątku określa się:
+
+- **1)** zgodnie z art. 19 ust. 3 w przypadku składników majątku osobistego i składników majątku, z których przeniesieniem nie wiąże się zmiana istotnych ekonomicznie funkcji, aktywów lub ryzyk;
+- **2)** zgodnie z art. 23o w pozostałych przypadkach.
+
+9. Wartość rynkową składników majątku podatnika objętych małżeńską wspólnością majątkową określa się u każdego z małżonków w wysokości połowy wartości rynkowej tych składników majątku.
+
+10. Wartość podatkową składnika majątku stanowi wartość, niezaliczona uprzednio do kosztów uzyskania przychodów w jakiejkolwiek formie, jaka zostałaby przyjęta przez podatnika za koszt uzyskania przychodów, gdyby składnik ten został przez niego odpłatnie zbyty. Nie ustala się wartości podatkowej składnika majątku w przypadku, gdy zgodnie z odrębnymi przepisami, do celów opodatkowania podatkiem dochodowym nie uwzględnia się kosztów uzyskania przychodów z odpłatnego zbycia tego składnika majątku.
+
+11. Jeżeli przyjęta przez podatnika do opodatkowania dochodu z niezrealizowanych zysków wartość składnika majątku bez uzasadnionych przyczyn ekonomicznych odbiega od jego wartości rynkowej i w wyniku tego podatnik nie wykazuje dochodów z niezrealizowanych zysków albo wykazuje te dochody w zaniżonej wysokości, dochody podatnika oraz należny podatek od dochodów z niezrealizowanych zysków określa organ podatkowy.
+
+12. Podstawę opodatkowania podatkiem od dochodów z niezrealizowanych zysków stanowi suma dochodów z niezrealizowanych zysków ustalonych dla poszczególnych składników majątku. W przypadku przeniesienia przedsiębiorstwa lub jego zorganizowanej części dochód z niezrealizowanych zysków dotyczy całego przedsiębiorstwa (jego zorganizowanej części).
+
+13. Jeżeli podatnik, o którym mowa w art. 3 ust. 1, osiąga również dochody (przychody) poza terytorium Rzeczypospolitej Polskiej i dochody te podlegają w obcym państwie opodatkowaniu podatkiem równoważnym do podatku od dochodów z niezrealizowanych zysków, dochody (przychody) te łączy się z dochodami (przychodami) osiąganymi na terytorium Rzeczypospolitej Polskiej. W tym przypadku od podatku obliczonego od łącznej sumy dochodów odlicza się kwotę równą podatkowi zapłaconemu w obcym państwie. Kwota odliczenia nie może jednak przekroczyć tej części podatku obliczonego przed dokonaniem odliczenia, która proporcjonalnie przypada na dochód uzyskany w obcym państwie.
+
+14. Podatnicy są obowiązani składać urzędom skarbowym deklaracje, według ustalonego wzoru, o wysokości dochodu z niezrealizowanych zysków do 7 dnia miesiąca następującego po miesiącu, w którym łączna wartość rynkowa przenoszonych składników majątku przekroczyła kwotę 4 000 000 zł, oraz w tym terminie wpłacić podatek należny. Jeżeli po miesiącu, w którym łączna wartość rynkowa przenoszonych składników majątku przekroczyła kwotę 4 000 000 zł, przenoszone są kolejne składniki majątku, podatnicy obowiązani są składać deklarację do 7 dnia miesiąca następującego po miesiącu, w którym przenoszone są składniki, oraz w tym terminie wpłacić podatek należny. Art. 30db. 1. Przepisów art. 30da nie stosuje się, jeżeli łączna wartość rynkowa przenoszonych składników majątku nie przekracza kwoty 4 000 000 zł.
+
+2. W przypadku małżonków, o których mowa w art. 30da ust. 9, limit wartości rynkowej składnika majątku określony w ust. 1 dotyczy łącznie obojga małżonków. Art. 30dc. 1. Opodatkowania podatkiem od dochodów z niezrealizowanych zysków nie stosuje się do składnika majątku przeniesionego poza terytorium Rzeczypospolitej Polskiej na czas określony, niedłuższy jednak niż 12 miesięcy, gdy:
+
+- **1)** przeniesienie tego składnika majątku związane jest bezpośrednio z polityką zarządzania płynnością przedsiębiorstwa podatnika położonego na terytorium Rzeczypospolitej Polskiej i terytorium innego państwa;
+- **2)** przeniesienie papierów wartościowych lub innych składników majątku następuje na podstawie umowy przewłaszczenia w celu zabezpieczenia wierzytelności.
+
+2. W przypadku, o którym mowa w ust. 1, podatnik obowiązany jest zadeklarować w zeznaniu, o którym mowa w art. 45 ust. 1 i ust. 1a pkt 2, wartość rynkową składników majątku tymczasowo przeniesionych w roku podatkowym, za który jest składane zeznanie, oraz przewidywany termin przeniesienia ich z powrotem na terytorium Rzeczypospolitej Polskiej, jeżeli do dnia złożenia zeznania składniki te pozostają poza terytorium Rzeczypospolitej Polskiej.
+
+3. Jeżeli przed upływem 12 miesięcy, liczonych od pierwszego miesiąca następującego po miesiącu, w którym składnik majątku został przeniesiony poza terytorium Rzeczypospolitej Polskiej, spółka niebędąca osobą prawną, która przenosiła składnik majątku, została przejęta przez spółkę albo podatnik przekształcił formę prowadzonej działalności w jednoosobową spółkę kapitałową, wartość rynkowa składnika majątku, zadeklarowanego uprzednio jako tymczasowo przeniesiony poza terytorium Rzeczypospolitej Polskiej, podlega opodatkowaniu zgodnie z art. 30da ust. 1.
+
+4. W przypadku, o którym mowa w ust. 3, podatnik jest obowiązany złożyć do urzędu skarbowego deklarację o wysokości dochodu z niezrealizowanych zysków w terminie 7 dni od dnia przejęcia lub przekształcenia oraz w tym terminie wpłacić podatek należny.
+
+5. Jeżeli wartość składnika majątku, o którym mowa w ust. 3, oraz wartość składników majątku, o których mowa w art. 30db ust. 1, przekracza łącznie kwotę 4 000 000 zł, w deklaracji, o której mowa w ust. 4, podatnik obowiązany jest wykazać do opodatkowania wszystkie przeniesione składniki majątku. Art. 30dd. 1. Zwalnia się od podatku od dochodów z niezrealizowanych zysków:
+
+- **1)** składniki majątku przekazane na cele określone w art. 4 ustawy o działalności pożytku publicznego organizacjom równoważnym do organizacji, o których mowa w art. 3 ust. 2 i 3 tej ustawy, określonym w przepisach regulujących działalność pożytku publicznego, obowiązujących w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej lub innym państwie należącym do Europejskiego Obszaru Gospodarczego, prowadzącym działalność pożytku publicznego w sferze zadań publicznych, realizującym te cele w przypadku gdy podatnik nie posiada praw do udziału w zysku lub majątku tej organizacji;
+- **2)** składniki majątku przeznaczone do służbowego użytku pracowników, bezpośrednio związane z wykonywaną pracą, niestanowiące aktywów trwałych lub obrotowych w rozumieniu przepisów o rachunkowości.
+
+2. Zwolnienia i odroczenia w opodatkowaniu, określone w art. 21 i art. 24, nie mają zastosowania do podatku od dochodów z niezrealizowanych zysków. Art. 30de. 1. Podatnik może wystąpić do właściwego naczelnika urzędu skarbowego o rozłożenie na raty zapłaty całości albo części podatku od dochodów z niezrealizowanych zysków, na okres niedłuższy niż 5 lat, licząc od końca roku podatkowego, w którym powstał obowiązek jego zapłaty, jeżeli przeniesienie składników majątku albo przeniesienie rezydencji podatkowej następuje na terytorium państwa członkowskiego Unii Europejskiej lub innego państwa należącego do Europejskiego Obszaru Gospodarczego, które jest stroną zawartej z Rzecząpospolitą Polską lub Unią Europejską umowy w sprawie wzajemnej pomocy przy odzyskiwaniu wierzytelności podatkowych, równoważnej wzajemnej pomocy przewidzianej w dyrektywie Rady 2010/24/UE z dnia 16 marca 2010 r. w sprawie wzajemnej pomocy przy odzyskiwaniu wierzytelności dotyczących podatków, ceł i innych obciążeń (Dz. Urz. UE L 84 z 31.03.2010, s. 1).
+
+2. W przypadku gdy istnieje realne ryzyko nieodzyskania podatku od dochodów z niezrealizowanych zysków, rozłożenie na raty zapłaty całości albo części tego podatku następuje po przedłożeniu przez podatnika zabezpieczenia wykonania zobowiązania podatkowego z tego tytułu wraz z opłatą prolongacyjną w formie przewidzianej przepisami Ordynacji podatkowej dla zabezpieczeń wykonania zobowiązań podatkowych.
+
+3. Przy ocenie, czy istnieje realne ryzyko nieodzyskania podatku od dochodów z niezrealizowanych zysków, bierze się pod uwagę w szczególności, czy:
+
+- **1)** wartość bilansowa zobowiązań podatnika w ostatnich 3 latach podatkowych nie przekraczała 50 % wartości bilansowej jego aktywów;
+- **2)** podatnik właściwie regulował zobowiązania podatkowe w podatku dochodowym od osób fizycznych, w tym w zakresie obowiązków płatnika podatku dochodowego od należności wypłacanych z tytułów wymienionych w art. 12 ust. 1 i 6, art. 13 pkt 2 i 4–9 oraz art. 18, a jeżeli występowały zaległości w tych płatnościach czy stanowiły one istotną wartość mogącą mieć wpływ na ocenę wypłacalności i rzetelności podatnika;
+- **3)** (uchylony)
+- **4)** w ostatnich 5 latach podatkowych toczyło się lub toczy się na dzień składania wniosku o rozłożenie podatku na raty, wobec podatnika, postępowanie w oparciu o przepisy regulujące unikanie lub uchylanie się od opodatkowania;
+- **5)** udzielenie przez podatnika gwarancji i poręczeń podmiotom powiązanym w rozumieniu art. 23m ust. 1 pkt 4 jest uzasadnione gospodarczo i ekonomicznie;
+- **6)** podmioty powiązane w rozumieniu art. 23m ust. 1 pkt 4 z podatnikiem nie są zagrożone upadłością lub likwidacją z powodu niewypłacalności.
+
+4. Zabezpieczenie wykonania zobowiązania, o którym mowa w ust. 2, w postaci gwarancji lub poręczenia może zostać przedłożone przez podmiot posiadający miejsce zamieszkania, siedzibę lub zarząd w państwie członkowskim Unii Europejskiej lub w innym państwie należącym do Europejskiego Obszaru Gospodarczego, którego sytuacja finansowa i majątkowa daje podstawę do uznania, że jest on zdolny do wykonania obowiązków wynikających z tej gwarancji lub tego poręczenia.
+
+5. Rozłożenie na raty zapłaty podatku od dochodów z niezrealizowanych zysków następuje w drodze decyzji, w której organ podatkowy w szczególności:
+
+- **1)** ustala wysokość i terminy spłaty rat oraz wysokość opłaty prolongacyjnej;
+- **2)** informuje o okolicznościach skutkujących wygaśnięciem decyzji i postawieniem zobowiązania z tytułu podatku od dochodów z niezrealizowanych zysków w stan wymagalności.
+
+6. Decyzja, o której mowa w ust. 5, wygasa w przypadku, gdy:
+
+- **1)** podatnik dokona zbycia w jakiejkolwiek formie przeniesionych poza terytorium Rzeczypospolitej Polskiej składników majątku, w tym przypisanych do zagranicznego zakładu położonego poza terytorium Rzeczypospolitej Polskiej;
+- **2)** przeniesione poza terytorium Rzeczypospolitej Polskiej składniki majątku, w tym przypisane do zagranicznego zakładu, zostaną ponownie przeniesione do innego państwa niż państwo członkowskie Unii Europejskiej, chyba że przeniesienie to nastąpi do państwa należącego do Europejskiego Obszaru Gospodarczego, które jest stroną umowy zawartej z Rzecząpospolitą Polską lub Unią Europejską w sprawie wzajemnej pomocy przy odzyskiwaniu wierzytelności podatkowych, równoważnej wzajemnej pomocy przewidzianej w dyrektywie Rady 2010/24/UE z dnia 16 marca 2010 r. w sprawie wzajemnej pomocy przy odzyskiwaniu wierzytelności dotyczących podatków, ceł i innych obciążeń;
+- **3)** podatnik zmieni ponownie rezydencję podatkową na rezydencję podatkową państwa innego niż państwo członkowskie Unii Europejskiej, chyba że ponowna zmiana rezydencji podatkowej nastąpi do państwa należącego do Europejskiego Obszaru Gospodarczego, które jest stroną umowy zawartej z Rzecząpospolitą Polską lub Unią Europejską w sprawie wzajemnej pomocy przy odzyskiwaniu wierzytelności podatkowych, równoważnej wzajemnej pomocy przewidzianej w dyrektywie Rady 2010/24/UE z dnia 16 marca 2010 r. w sprawie wzajemnej pomocy przy odzyskiwaniu wierzytelności dotyczących podatków, ceł i innych obciążeń;
+- **4)** nastąpi upadłość podatnika lub podmiotu, który udzielił podatnikowi zabezpieczenia wykonania zobowiązania podatkowego, o którym mowa w ust. 2, w postaci gwarancji lub poręczenia;
+- **5)** podatnik nie dotrzymał terminu płatności którejkolwiek z rat lub opłaty prolongacyjnej.
+
+7. W okresie rozłożenia podatku od dochodów z niezrealizowanych zysków na raty podatnik jest obowiązany do składania na ostatni dzień każdego roku kalendarzowego informacji o wystąpieniu lub niewystąpieniu zdarzeń, o których mowa w ust. 6 pkt 1–4. Informację składa się do naczelnika urzędu skarbowego, który wydał decyzję, o której mowa w ust. 5, do 7 dnia pierwszego miesiąca następującego po roku kalendarzowym, którego dotyczy ta informacja.
+
+8. W przypadku zmiany rezydencji podatkowej właściwym naczelnikiem urzędu skarbowego, o którym mowa w ust. 1, jest naczelnik urzędu skarbowego właściwy w sprawach opodatkowania osób zagranicznych.
+
+9. W sprawach nieuregulowanych w ust. 1–8 stosuje się przepisy Ordynacji podatkowej. Art. 30df. 1. Jeżeli podatnik w okresie 5 lat, liczonych od końca roku podatkowego, w którym przeniósł składnik majątku poza terytorium Rzeczypospolitej Polskiej, przeniósł go z powrotem na terytorium Rzeczypospolitej Polskiej, może on wystąpić o zwrot podatku od dochodów z niezrealizowanych zysków w części przypadającej na ten składnik.
+
+2. Jeżeli podatnik w okresie 5 lat, liczonych od końca roku podatkowego, w którym zmienił rezydencję podatkową, ponownie stanie się osobą, o której mowa w art. 3 ust. 1, może on wystąpić o zwrot zapłaconego podatku od dochodów z niezrealizowanych zysków. Zwrot nie dotyczy podatku przypadającego na składniki majątku, które pozostają związane z położonym poza granicami Rzeczypospolitej Polskiej zagranicznym zakładem podatnika. Art. 30dg. 1. Jeżeli na podstawie art. 22 ust. 1n pkt 1, ust. 1na lub art. 22g ust. 1 pkt 7 lub 8 podatnik uwzględni w kosztach uzyskania przychodów wartość rynkową składnika majątku określoną w państwie członkowskim Unii Europejskiej do celów opodatkowania podatkiem równoważnym do podatku od dochodów z niezrealizowanych zysków, podatnik ten jest obowiązany dołączyć do zeznania, o którym mowa w art. 45 ust. 1 i ust. 1a pkt 2, informację, według ustalonego wzoru, o wysokości wartości rynkowej tego składnika. Do informacji tej podatnik jest obowiązany dołączyć dokument wydany lub potwierdzony przez właściwy organ państwa, o którym mowa w zdaniu pierwszym, o wysokości wartości rynkowej tego składnika.
+
+2. Informację, o której mowa w ust. 1, składa się za rok podatkowy, w którym podatnik uwzględnił w kosztach uzyskania przychodów wartość rynkową składnika majątku, określoną przez inne niż Rzeczpospolita Polska państwo członkowskie Unii Europejskiej.
+
+3. Naczelnik urzędu skarbowego może określić wartość rynkową składnika majątku podatnika, o którym mowa w ust. 1, w innej wysokości niż przyjęta dla celów opodatkowania podatkiem równoważnym do podatku od dochodów z niezrealizowanych zysków, jeżeli wartość ta jest wyższa od wartości rynkowej. Art. 30dh. 1. W przypadku gdy przenoszącym składnik majątku jest spółka niebędąca osobą prawną, przepisy art. 30da–30dg stosuje się do podatników posiadających prawa do udziału w zyskach takiej spółki. W takim przypadku przepisy art. 8 ust. 1 stosuje się odpowiednio.
+
+2. Ilekroć w ust. 1 i art. 30da–30dg jest mowa o składniku majątku, rozumie się przez to również przedsiębiorstwo lub zorganizowaną część przedsiębiorstwa.
+
+3. Przepisy ust. 1 i 2, art. 30da–30dg stosuje się odpowiednio do:
+
+- **1)** nieodpłatnego przekazania innemu podmiotowi położonego na terytorium Rzeczypospolitej Polskiej składnika majątku,
+- **2)** wniesienia składnika majątku do podmiotu innego niż spółka lub spółdzielnia jeżeli w związku z tym przekazaniem albo wniesieniem wkładu Rzeczpospolita Polska traci prawo do opodatkowania dochodów ze zbycia tego składnika majątku. Art. 30di. (uchylony)
+
 **Art. 30e.**
 
 1. Od dochodu z odpłatnego zbycia nieruchomości i praw określonych w art. 10 ust. 1 pkt 8 lit. a–c podatek dochodowy wynosi 19 % podstawy obliczenia podatku.
@@ -4245,6 +4663,12 @@ Art. 46–51. (pominięte)
 **Art. 30n.** Opodatkowanie ryczałtem stosuje się przez okres 10 kolejnych lat podatkowych, licząc od roku podatkowego, w którym podatnik przeniósł miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej.
 
 **Art. 30o.** Podatnik traci prawo do opodatkowania ryczałtem:
+
+- **1)** od początku roku podatkowego, w którym złożył oświadczenie o rezygnacji z opodatkowania ryczałtem jeżeli w terminie do końca stycznia tego roku podatkowego złoży urzędowi skarbowemu oświadczenie o rezygnacji z opodatkowania ryczałtem według ustalonego wzoru, przy czym przepis art. 45 ust. 1b stosuje się odpowiednio;
+- **2)** z końcem roku podatkowego poprzedzającego rok:
+    - **a)** w którym przeniósł miejsce zamieszkania poza terytorium Rzeczypospolitej Polskiej, albo
+    - **b)** za który nie wpłacił w terminie w całości lub części ryczałtu za rok podatkowy, albo
+    - **c)** w którym nie poniósł wydatków, o których mowa w art. 30m ust. 1.
 
 **Art. 30p.**
 
@@ -5131,6 +5555,10 @@ Art. 46–51. (pominięte)
 
 **Art. 45a.** Jeżeli jest to uzasadnione ochroną informacji niejawnych i wymogami bezpieczeństwa państwa:
 
+- **1)** zadania naczelnika urzędu skarbowego, o którym mowa w art. 39 ust. 1 i art. 42 ust. 2 pkt 2, pełni organ wymieniony w art. 13a Ordynacji podatkowej;
+- **2)** zadania urzędu skarbowego, o którym mowa w art. 45 ust. 1, pełni urząd obsługujący organ, o którym mowa w art. 13a Ordynacji podatkowej;
+- **3)** przekazania 1,5 % podatku należnego z zeznań podatkowych albo ich korekt, o którym mowa w art. 45c ust. 1, złożonych urzędowi, o którym mowa w pkt 2, dokonuje naczelnik urzędu skarbowego właściwy według siedziby urzędu, o którym mowa w pkt 2, na podstawie otrzymanej od tego urzędu sporządzonej na piśmie informacji.
+
 **Art. 45b.**
 
 1. Minister właściwy do spraw finansów publicznych udostępni w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu ustalone wzory:
@@ -5224,6 +5652,20 @@ Art. 46–51. (pominięte)
 
 **Art. 52.** Zwalnia się od podatku dochodowego:
 
+- **1)** w okresie od dnia 1 stycznia 2001 r. do dnia 31 grudnia 2003 r. dochody: poz. 754, z późn. zm. )
+    - **a)** z odpłatnego zbycia nabytych przed dniem 1 stycznia 2003 r. obligacji Skarbu Państwa wyemitowanych po dniu 1 stycznia 1989 r. oraz obligacji wyemitowanych przez jednostki samorządu terytorialnego po dniu 1 stycznia 1997 r.,
+    - **b)** z odpłatnego zbycia papierów wartościowych, które są dopuszczone do publicznego obrotu papierami wartościowymi, nabytych na podstawie publicznej oferty lub na giełdzie papierów wartościowych, albo w regulowanym pozagiełdowym wtórnym obrocie publicznym, albo na podstawie zezwolenia udzielonego w trybie art. 92 lub 93 przepisów ustawy z dnia 21 sierpnia 1997 r. Prawo o publicznym obrocie papierami wartościowymi (Dz. U.
+    - **c)** (uchylona) przy czym zwolnienie nie ma zastosowania, jeżeli sprzedaż tych papierów wartościowych jest przedmiotem działalności gospodarczej,
+    - **d)** uzyskane z realizacji praw wynikających z papierów wartościowych, o których mowa w art. 3 ust. 3 ustawy z dnia 21 sierpnia 1997 r. Prawo o publicznym obrocie papierami wartościowymi;
+
+- **2)** wypłacane po dniu 31 grudnia 1991 r. należne za okres do 31 grudnia 1991 r.:
+    - **a)** przychody ze stosunku służbowego, stosunku pracy, spółdzielczego stosunku pracy oraz z tytułu umów o pracę nakładczą,
+    - **b)** prowizje, premie, nagrody z zysku (dochodu) oraz nagrody z zakładowego funduszu nagród należne z tytułów, o których mowa pod lit. a, jeżeli przychody te były zwolnione w 1991 r. od podatku od wynagrodzeń na podstawie przepisów płacowych;
+
+- **3)** odprawy emerytalno-rentowe, nagrody jubileuszowe i inne jednorazowe wypłaty, do których pracownik nabył prawo w 1992 r. i których podstawę naliczania stanowi wynagrodzenie ustalone według stawek lub kwot obowiązujących do dnia 31 grudnia 1991 r., jeżeli przychody te były zwolnione w 1991 r. od podatku od wynagrodzeń na podstawie przepisów płacowych;
+- **4)** krajowe emerytury i renty oraz inne świadczenia z ubezpieczenia społecznego należne za okres do dnia 31 grudnia 1991 r.
+- **5)** (uchylony)
+
 **Art. 52a.**
 
 1. Zwalnia się od podatku dochodowego:
@@ -5259,9 +5701,15 @@ Art. 46–51. (pominięte)
 
 **Art. 52d.** Zwalnia się z podatku dochodowego kwoty rekompensaty wypłacane na podstawie:
 
+- **1)** ustawy z dnia 16 grudnia 2004 r. o rekompensacie przysługującej w związku z odstąpieniem w roku 2002 od waloryzacji dodatku kombatanckiego (Dz. U. poz. 2779);
+- **2)** ustawy z dnia 15 kwietnia 2005 r. o rekompensacie przysługującej w związku z odstąpieniem w roku 2002 od waloryzacji świadczeń pieniężnych przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych oraz osobom deportowanym do pracy przymusowej oraz osadzonym w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich (Dz. U. poz. 725).
+
 **Art. 52e.** Zwalnia się od podatku dochodowego kwoty umorzenia zaległości oraz zwrotu wynikające z ustawy z dnia 25 lipca 2008 r. o szczególnych rozwiązaniach dla podatników uzyskujących niektóre przychody poza terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 894 oraz z 2012 r. poz. 1529).
 
 **Art. 52f.** Zwalnia się od podatku dochodowego:
+
+- **1)** zasiłek macierzyński przyznany na podstawie art. 20,
+- **2)** kwoty podwyższenia uposażenia oraz kwoty podwyższenia zasiłku macierzyńskiego przyznane na podstawie art. 21 ustawy z dnia 24 lipca 2015 r. o zmianie ustawy o świadczeniach rodzinnych oraz niektórych innych ustaw (Dz. U. poz. 1217 i 1735).
 
 **Art. 52g.** Zwalnia się od podatku dochodowego kwoty jednorazowego dodatku pieniężnego, o którym mowa w ustawie z dnia 15 stycznia 2016 r. o jednorazowym dodatku pieniężnym dla niektórych emerytów, rencistów i osób pobierających świadczenia przedemerytalne, zasiłki przedemerytalne, emerytury pomostowe albo nauczycielskie świadczenia kompensacyjne w 2016 r. (Dz. U. poz. 2011).
 
@@ -5379,7 +5827,18 @@ Art. 46–51. (pominięte)
 
 **Art. 52l.** Limit zwolnienia przedmiotowego, o którym mowa w art. 21 ust. 1:
 
+- **1)** pkt 9a w okresie od 2020 r. do końca roku podatkowego, w którym odwołano stan epidemii ogłoszony z powodu COVID-19, wynosi 3000 zł;
+- **2)** pkt 26 lit. b w okresie od 2020 r. do końca roku podatkowego, w którym odwołano stan epidemii ogłoszony z powodu COVID-19, wynosi 10 000 zł;
+- **3)** pkt 67 w okresie od 2020 r. do końca roku podatkowego następującego po roku, w którym odwołano stan epidemii ogłoszony z powodu COVID-19, wynosi 2000 zł;
+- **4)** pkt 78 lit. b w okresie od 2020 r. do końca roku podatkowego następującego po roku, w którym odwołano stan epidemii ogłoszony z powodu COVID-19, wynosi 3000 zł.
+
 **Art. 52m.** Wolne od podatku dochodowego są otrzymane lub postawione do dyspozycji podatnika:
+
+- **1)** świadczenia postojowe, o których mowa w art. 15zq ustawy o COVID-19;
+- **1a)** dodatkowe świadczenia postojowe, o których mowa w art. 15zs ustawy o COVID-19;
+- **2)** świadczenia polegające na zakwaterowaniu i wyżywieniu, o których mowa w art. 15x ust. 3 pkt 1 ustawy o COVID-19;
+- **3)** zasiłki otrzymane na podstawie art. 31zy ustawy o COVID-19;
+- **4)** jednorazowe dodatkowe świadczenie postojowe, o którym mowa w art. 15zs ustawy o COVID-19.
 
 **Art. 52n.**
 
@@ -5416,6 +5875,9 @@ Art. 46–51. (pominięte)
 2. Przepis ust. 1 stosuje się odpowiednio do płatników, o których mowa w art. 41 ust. 1 i 4, dokonujących świadczeń z tytułu działalności wykonywanej osobiście, o której mowa w art. 13 pkt 8 oraz z tytułu praw autorskich i praw pokrewnych.
 
 **Art. 52p.** (uchylony) Art. 52pa. Zwalnia się z podatku od przychodów z budynków przychody podlegające opodatkowaniu na podstawie art. 30g, ustalone za okres:
+
+- **1)** od dnia 1 marca 2020 r. do dnia 31 grudnia 2020 r.;
+- **2)** od dnia 1 stycznia 2021 r. do końca miesiąca, w którym stan epidemii został odwołany w przypadku obowiązywania po dniu 31 grudnia 2020 r. stanu epidemii ogłoszonego z powodu COVID-19.
 
 **Art. 52q.**
 
@@ -5653,4 +6115,106 @@ Art. 46–51. (pominięte)
 3. Podatnicy, którzy osiągają dochody określone w ust. 1, są obowiązani wpłacać zaliczki miesięczne na podatek oraz składać zeznania roczne według zasad określonych w art. 44 i 45.
 
 **Art. 58.** Ustawa wchodzi w życie z dniem 1 stycznia 1992 r., z wyjątkiem art. 46, 47, 50 i 51, które wchodzą w życie z dniem ogłoszenia z mocą od dnia 1 lipca 1991 r. WYKAZ ROCZNYCH STAWEK AMORTYZACYJNYCH Symbol KŚT Pozycja Stawka % (grupa, podgrupa Nazwa środków trwałych lub rodzaj) 1 2 3 4 01 2,5 10 Budynki niemieszkalne 110 Placówki opiekuńczo-wychowawcze, domy opieki społecznej bez opieki medycznej 121 Lokale niemieszkalne 4,5 102 Podziemne garaże i zadaszone parkingi oraz budynki kontroli ruchu powietrznego (wieże) 104 Zbiorniki, silosy oraz magazyny podziemne, zbiorniki i komory podziemne (z wyłączeniem budynków magazynowych i naziemnych) 10 103 Kioski towarowe o kubaturze poniżej 500 m 109 trwale związane z gruntem Domki kempingowe, budynki zastępcze trwale związane z gruntem 010 Plantacje wikliny 02 2,5 224 Budowle wodne, z wyłączeniem urządzeń melioracji wodnych, doków stałych zalądowionych, wałów i grobli 21 Budowle sklasyfikowane jako budowle do uzdatniania wód, z wyjątkiem studni wierconych 290 Budowle sportowe i rekreacyjne, z wyłączeniem ogrodów i parków publicznych, skwerów, ogrodów botanicznych i zoologicznych 291 Wieże przeciwpożarowe 225 Urządzenia melioracji wodnych podstawowych 226 Urządzenia melioracji wodnych szczegółowych 4,5 2 Obiekty inżynierii lądowej i wodnej, z wyłączeniem ogrodów i parków publicznych, skwerów, ogrodów botanicznych i zoologicznych 10 211 Przewody sieci technologicznych wewnątrzzakładowych 221 Urządzenia zabezpieczające ruch pociągów 14 202 Wieże ekstrakcyjne 20 200 Wieże wiertnicze, wieżomaszty 03 7 3 Kotły i maszyny energetyczne 14 322 Silniki spalinowe na paliwo lekkie (niezespolone) 323 Silniki spalinowe na paliwo ciężkie (niezespolone) 324 Silniki spalinowe na paliwo gazowe (niezespolone) 325 Silniki powietrzne 343 Zespoły elektroenergetyczne przenośne z silnikami spalinowymi na paliwo lekkie 344 Zespoły elektroenergetyczne z silnikami spalinowymi na paliwo ciężkie 349 Reaktory jądrowe 04 7 431 Filtry (prasy) błotniarki Cedzidła mechaniczne 450 Piece do przerobu surowców (z wyjątkiem pieców do przerobu surowców wielokomorowych) 451 Piece do przetwarzania paliw (z wyjątkiem pieców koksowniczych) 454 Piece do wypalania tunelowe 473 Aparaty bębnowe 475 Suszarki komorowe (z wyjątkiem suszarek z półkami obrotowymi i zgarniaczami) 10 4 Maszyny, urządzenia i aparaty ogólnego zastosowania 14 41 Obrabiarki do metali 44 Maszyny i urządzenia do przetłaczania i sprężania cieczy i gazów 46 Aparaty do wymiany ciepła (z wyjątkiem wymienników przeponowych rurowych oraz chłodnic odmulin i prób kołowych rozkładni gazu) 47 Maszyny, urządzenia i aparaty do operacji i procesów materiałowych, w tym suszarki z półkami obrotowymi i zgarniaczami (z wyjątkiem: kolumn, aparatów bębnowych, suszarek komorowych bezpółkowych, tradycyjnych, owiewnych, półkowych owiewnych, próżniowych z grzejnymi półkami, suszarek z górnym i dolnym rozpylaniem cieczy oraz suszarek z pneumatycznym rozpylaczem ciał stałych i innych suszarek, odbieralnic hydraulicznych rozkładni gazu) 18 449 Urządzenia dystrybucyjne do benzyny i olejów elektryczne i przepływomierze składowe do cieczy i paliw płynnych 461 Wymienniki płynów obiegowych przy produkcji sody 469 Chłodnice odmulin i prób kołowych rozkładni gazu 472 Kolumny nitracyjne i denitracyjne 479 Odbieralnice hydrauliczne rozkładni gazu 481 Aparaty i urządzenia do powierzchniowej obróbki metali sposobem chemicznym i elektrogalwanicznym 482 Aparaty i urządzenia do powierzchniowej obróbki metali sposobem cieplnym 484 Urządzenia do spawania i napawania łukowego w ochronie gazów oraz do spawania i napawania plazmowego Wytwornice acetylenowe przenośne wysokiego ciśnienia Zgrzewarki oporowe i tarcicowe Urządzenia do metalizacji natryskowej i do natryskiwania tworzywami sztucznymi 486 Maszyny i urządzenia do przygotowywania maszynowych nośników danych oraz maszyny analityczne 488 Samodzielne urządzenia do automatycznej regulacji i sterowania procesami 489 Roboty przemysłowe 20 434 Maszyny do zamykania słoi Maszyny do zamykania puszek 461 Wymienniki przeponowe rurowe sklasyfikowane jako chłodnice kwasu siarkowego 30 487 Zespoły komputerowe 05 7 506 Aparaty do rektyfikacji powietrza 507 Krystalizatory Komory potne 548 Maszyny, urządzenia i aparaty do produkcji materiału zecerskiego 583 Koparki i zwałowarki w kopalniach odkrywkowych węgla Koparki w piaskowniach przemysłu węglowego 10 512 Maszyny i urządzenia do eksploatacji otworów wiertniczych 513 Maszyny i urządzenia do przeróbki mechanicznej rud i węgla 514 Maszyny i urządzenia aglomerowni Maszyny i urządzenia wielkopiecowe Maszyny i urządzenia hutnicze stalowni Nożyce hutnicze do cięcia na gorąco, tabor hutniczy, walcowniczy Inne maszyny, urządzenia i aparaty hutnicze 520 Maszyny i urządzenia dla przemysłu kamieniarskiego: Traki ramowe i tarczowe Cyrkularki Szlifierki Tokarki i wiertarki do kamienia Kombajny do robót przygotowawczych 523 Maszyny i urządzenia dla przemysłu cementowego 525 Autoklawy 529 Maszyny i urządzenia do produkcji elementów z lastriko i sztucznego kamienia 56 Maszyny, urządzenia i aparaty dla przemysłu rolnego 582 Maszyny do robót drogowych: pojemniki do bitumu stalowe o pojemności powyżej 20 000 l odśnieżarki dróg, ulic i placów o mocy silników powyżej 120 KM 14 50 Maszyny, urządzenia i aparaty dla przemysłu chemicznego 517 Maszyny i urządzenia torfiarskie 52 Maszyny dla przemysłu surowców mineralnych 53 Maszyny do produkcji wyrobów z metali i tworzyw sztucznych 54 Maszyny, urządzenia i aparaty do obróbki i przerobu drewna, produkcji wyrobów z drewna oraz maszyny, urządzenia i aparaty dla przemysłu papierniczego i poligraficznego 55 Maszyny i urządzenia do produkcji wyrobów włókienniczych i odzieżowych oraz do obróbki skóry i produkcji wyrobów z niej 561 Maszyny, urządzenia i aparaty do produkcji napojów 568 Maszyny, urządzenia i aparaty dla przemysłu piekarniczego (z wyjątkiem pieców ceramicznych, cyklotermicznych i specjalnych) 57 Maszyny, urządzenia i aparaty dla przemysłu spożywczego 59 Maszyny, urządzenia i narzędzia rolnicze i gospodarki leśnej 18 505 Piece prażalnicze fluidezyjne 51 Maszyny, urządzenia i aparaty wiertnicze, górnicze, gazownicze, odlewnicze, torfiarskie oraz geodezyjne i kartograficzne 58 Maszyny do robót ziemnych, budowlanych i drogowych 20 506 Odgazowywacze 510 Maszyny i urządzenia wiertnicze 511 Obudowy zmechanizowane 518 Aparaty i urządzenia do: pomiarów magnetycznych, pomiarów geologicznych, pomiarów sejsmicznych i radiometrycznych, elektrycznego profilowania odwiertów, karotażu gazowego, perforacji otworów wiertniczych 535 Aparaty specjalne do wytwarzania kwasu wolframowego i maszyny do redukcyjnych, próżniowych i specjalnych wytopów metali Maszyny do produkcji węglanów i past emulsyjnych Urządzenia do produkcji półprzewodników 579 Dystrybutory Młynki młotkowe Maszyny i urządzenia do przerobu odpadów zwierzęcych na mąkę pastewną i tłuszcze utylizacyjne Inne maszyny i urządzenia do przerobu odpadów zwierzęcych 580 Maszyny do robót ziemnych i fundamentowych 581 Maszyny do robót budowlanych 582 Szczotki mechaniczne i osprzęt do utrzymania dróg 25 501 Aparaty szklane i porcelanowe do destylacji Porcelanowe młyny kulowe 511 Maszyny górnicze, z wyłączeniem obudów zmechanizowanych 524 Piece do topienia żużla wielkopiecowego i bazaltu 571 Autoklawy do hydrolizy Neutralizatory stalowe oraz neutralizatory i hydrolizatory betonowe lub murowane 581 Wibratory Wibromłoty oraz zacieraczki do tynku 06 4,5 600 Zbiorniki naziemne ceglane 601 Zbiorniki naziemne betonowe (z wyjątkiem wyposażonych w wykładzinę chemoodporną dla kwasu ponitracyjnego) 623 Urządzenia telefoniczne systemów nośnych na liniach WN 641 Wyciągi kopalniane (bez wyciągów przy głębieniu szybów) 648 Towarowe kolejki linowe i dźwignice linowe 656 Akumulatory hydrauliczne 660 Wagi pojazdowe, wagonowe i inne wbudowane 10 6 Urządzenia techniczne 18 61 Urządzenia rozdzielcze i aparatura energii elektrycznej przewoźna 641 Dźwigniki, wciągarki i wciągniki przejezdne oraz nieprzejezdne, kołowroty, wyciągniki (z wyjątkiem kołowrotów szybowych oraz wyciągników kopalnianych łącznie z wyciągami przy głębieniu szybów, a także wyciągi kolei i kolejek linowych) 662 Projektory przenośne 16 mm i 35 mm 681 Kontenery 20 629 Telefony komórkowe 669 Kasy fiskalne i rejestrujące (z wyjątkiem zaliczonych do poz. 04 zespoły komputerowe) 633 Baterie akumulatorów elektrycznych stacjonarnych Baterie akumulatorów elektrycznych zasadowych 662 Ekrany kinowe 644 Przenośniki w kopalniach i zakładach przetwórczych rud i węgla 664 Urządzenia do przeprowadzania badań technicznych 25 644 Przenośniki zgrzebłowe ciężkie i lekkie 07 7 70 Tabor kolejowy naziemny 71 Tabor kolejowy podziemny 72 Tabor tramwajowy 73 Pozostały tabor szynowy naziemny 77 Tabor pływający 14 700 Drezyny i przyczepy do drezyn 710 Lokomotywy akumulatorowe Lokomotywy ognioszczelne i typu „Karlik” Wozy kopalniane 770 Kontenerowce 773 Wodoloty 780 Samoloty 781 Śmigłowce 743 Samochody specjalne 745 Trolejbusy i samochody ciężarowe o napędzie elektrycznym 746 Ciągniki 747 Naczepy i przyczepy 76 Pozostały tabor bezszynowy (wózki jezdniowe akumulatorowe, widłowe i inne wózki jezdniowe) 18 745 Pozostałe samochody o napędzie elektrycznym 783 Balony 789 Pozostałe środki transportu lotniczego 79 Pozostałe środki transportu 20 740 Motocykle, przyczepy i wózki motocyklowe 741 Samochody osobowe 742 Samochody ciężarowe 744 Autobusy i autokary 782 Szybowce 08 10 805 Wyposażenie kin, teatrów, placówek kulturalno-oświatowych oraz instrumenty muzyczne 806 Kioski, budki, baraki, domki kempingowe niezwiązane trwale z gruntem 14 803 Maszyny biurowe piszące, liczące i licząco-piszące Dalekopisy do maszyn matematycznych 20 8 Narzędzia, przyrządy, ruchomości i wyposażenie 25 801 Elektroniczna aparatura kontrolno-pomiarowa do przeprowadzania badań laboratoryjnych 802 Aparaty i sprzęt do hydro- i mechanoterapii 804 Wyposażenie cyrkowe Objaśnienia: 1. Za pogorszone warunki używania budynków i budowli, o których mowa w art. 22i ust. 2 pkt 1 lit. a, uważa się używanie tych środków trwałych pod ciągłym działaniem wody, par wodnych, znacznych drgań, nagłych zmian temperatury oraz innych czynników powodujących przyspieszenie zużycia obiektu. 2. Za złe warunki używania budynków i budowli, o których mowa w art. 22i ust. 2 pkt 1 lit. b, uważa się używanie tych środków trwałych pod wpływem niszczących środków chemicznych, a zwłaszcza gdy służą one produkcji, wytwarzaniu lub przechowywaniu żrących środków chemicznych. Dotyczy to również przypadków silnego działania na budynek lub budowlę niszczących środków chemicznych rozproszonych w atmosferze, wodzie lub wydzielających się w postaci oparów, których źródłem są inne obiekty znajdujące się w pobliżu. 3. Przez maszyny, urządzenia i środki transportu wymagające szczególnej sprawności technicznej, o których mowa w art. 22i ust. 2 pkt 2, rozumie się te obiekty, które używane są w pracy na trzy zmiany, mimo że nie działają ze swej istoty w ruchu ciągłym, używane w warunkach terenowych, w warunkach leśnych, pod ziemią lub innych wskazujących na bardziej intensywne zużycie. 4. Przez maszyny i urządzenia grupy 4–6 i 8 Klasyfikacji poddanych szybkiemu postępowi technicznemu, o których mowa w art. 22i ust. 2 pkt 3, rozumie się maszyny, urządzenia i aparaturę, w których zastosowane są układy mikroprocesorowe lub systemy komputerowe, spełniające założone funkcje dzięki wykorzystaniu w nich najnowszych zdobyczy techniki, a także pozostałą aparaturę naukowo-badawczą i doświadczalno-produkcyjną. TABELA RODZAJÓW I ROZMIARÓW DZIAŁÓW SPECJALNYCH PRODUKCJI ROLNEJ ORAZ NORM SZACUNKOWYCH DOCHODU ROCZNEGO Jednostka Norma szacunkowa Lp. Rodzaje upraw i produkcji powierzchni upraw dochodu rocznego lub rodzajów produkcji zł gr 1 2 3 4 1 Uprawy w szklarniach ogrzewanych powyżej 25 m :
+
+16 Republika Litewska spółki utworzone według prawa litewskiego 17 Republika Łotewska spółki utworzone według prawa łotewskiego, określane jako: „akciju sabiedrība” oraz „sabiedrība ar ierobežotu atbildību” 18 Republika Portugalska spółki handlowe lub spółki prawa cywilnego mające formę handlową, jak również inne osoby prawne prowadzące działalność przemysłową lub handlową, które są utworzone zgodnie z prawem portugalskim 19 Republika Słowacka spółki utworzone według prawa słowackiego, określane jako: „akciová spoločnost”, „spoločnosť s ručením obmedzeným”, „komanditná spoločnosť” 20 Republika Słowenii spółki utworzone według prawa słoweńskiego, określane jako: „delniška družba”, „komanditna družba”, „družba z omejeno odgovornostjo” 21 Republika Węgierska spółki utworzone według prawa węgierskiego, określane jako: „közkereseti társaság”, „betéti társaság”, „közös vállalat”, „korlátolt felelősségű társaság”, „részvénytársaság”, „egyesülés”, „közhasznú társaság” oraz „szövetkezet” 22 Republika Włoska spółki utworzone według prawa włoskiego, określane jako: „società per azioni”, „società in accomandita per azioni”, „società a responsabilità limitata”, „società cooperative”, „società di mutua assicurazione” oraz jednostki publiczne i prywatne, których działalność jest w całości lub w przeważającej części handlowa 23 Wielkie Księstwo Luksemburga spółki utworzone według prawa luksemburskiego, określane jako: „société anonyme”, „société en commandite par actions”, „société à responsabilité limitée”, „société coopérative”, „société coopérative organisée comme une société anonyme”, „association d’assurances mutuelles”, „association d’épargne-pension”, „entreprise de nature commerciale, industrielle ou minière de l’État, des communes, des syndicats de communes, des établissements publics et des autres personnes morales de droit public” i inne spółki utworzone zgodnie z przepisami prawa luksemburskiego podlegające opodatkowaniu luksemburskim podatkiem dochodowym od osób prawnych 24 Zjednoczone Królestwo Wielkiej spółki utworzone według prawa Zjednoczonego Królestwa Brytanii i Irlandii Północnej 25 spółki (SE) utworzone zgodnie z rozporządzeniem Rady (WE) nr 2157/2001 z dnia 8 października 2001 r. w sprawie statutu spółki europejskiej (SE) i dyrektywą Rady 2001/86/EWG z dnia 8 października 2001 r. uzupełniającą statut spółki europejskiej w odniesieniu do uczestnictwa pracowników; spółdzielnie (SCE) utworzone zgodnie z rozporządzeniem Rady (WE) nr 1435/2003 z dnia 22 lipca 2003 r. w sprawie statutu spółdzielni europejskiej (SCE) i dyrektywą Rady 2003/72/WE z dnia 22 lipca 2003 r. uzupełniającą statut spółdzielni europejskiej w odniesieniu do zaangażowania pracowników 26 Republika Bułgarii spółki prawa bułgarskiego, określane jako: „cъбиpaтeлното дружество”, „командитното дружество”, „дружеството с ограничена отговорност”, „акционерното дружество”, „командитното дружество с акции”, „кооперации”, „кооперативни съюзи” oraz „държавни предприятия” utworzone zgodnie z przepisami prawa bułgarskiego i prowadzące działalność gospodarczą 27 Rumunia spółki prawa rumuńskiego, określane jako: „societăţi pe acţiuni”, „societăţi în comandită pe acţiuni”, „societăţi cu răspundere limitată” 28 Republika Chorwacji spółki w rozumieniu prawa chorwackiego określane jako: „dioničko društvo”, „društvo s ograničenom odgovornošću”, jak również inne spółki utworzone według prawa chorwackiego podlegające opodatkowaniu chorwackim podatkiem dochodowym 29 Rzeczpospolita Polska spółki utworzone według prawa polskiego, określane jako: „spółka akcyjna”, „spółka z ograniczoną odpowiedzialnością” WYKAZ USŁUG O NISKIEJ WARTOŚCI DODANEJ Kategoria Opis 1 2
+
+- **a)** rośliny ozdobne 1 m 7
+- **b)** pozostałe 1 m 2 60 2 Uprawy w szklarniach nieogrzewanych powyżej 25 m 1 m 1 60 3 Uprawy w tunelach foliowych ogrzewanych powyżej 50 m :
+- **a)** rośliny ozdobne 1 m 5 20
+- **b)** pozostałe 1 m 3 20 4 Uprawy grzybów i ich grzybni powyżej 25 m 1 m powierzchni uprawowej 3 5 Drób rzeźny powyżej 100 szt.:
+- **a)** kurczęta 1 sztuka 10
+- **b)** gęsi 1 sztuka 79
+- **c)** kaczki 1 sztuka 21
+- **d)** indyki 1 sztuka 51 6 Drób nieśny powyżej 80 szt.:
+- **a)** kury nieśne (w stadzie reprodukcyjnym) 1 sztuka 1 98
+- **b)** kury mięsne (w stadzie reprodukcyjnym) 1 sztuka 1 66
+- **c)** gęsi (w stadzie reprodukcyjnym) 1 sztuka 1 10
+- **d)** kaczki (w stadzie reprodukcyjnym) 1 sztuka 2 05
+- **e)** indyki (w stadzie reprodukcyjnym) 1 sztuka 8 70
+- **f)** kury (produkcja jaj konsumpcyjnych) 1 sztuka 1 45 7 Wylęgarnie drobiu:
+- **a)** kurczęta 1 sztuka 1
+- **b)** gęsi 1 sztuka 5
+- **c)** kaczki 1 sztuka 2
+- **d)** indyki 1 sztuka 5 8 Zwierzęta futerkowe
+- **a)** lisy i jenoty od 1 samicy stada 29 78 podstawowego
+- **b)** norki powyżej 2 szt. samic 13 10 stada podstawowego
+- **c)** tchórze powyżej 2 szt. samic 10 13 stada podstawowego
+- **d)** szynszyle powyżej 2 szt. samic 15 49 stada podstawowego
+- **e)** nutrie powyżej 50 sztuk samic stada podstawowego od 1 samicy stada 3 58 podstawowego
+- **f)** króliki powyżej 50 sztuk samic stada podstawowego od 1 samicy stada 3 58 podstawowego 9 Zwierzęta laboratoryjne:
+- **a)** szczury białe 1 sztuka 9
+- **b)** myszy białe 1 sztuka 2 10 Jedwabniki produkcja kokonów 1 dm 20 11 Pasieki powyżej 80 rodzin 1 rodzina 2 12 Uprawy roślin in vitro powierzchnia półek 1 m 120 13 Hodowla entomofagów powierzchnia upraw roślin 1 m żywicielskich 100 14 Hodowla dżdżownic powierzchnia łoża hodowlanego 1 m 50 15 Hodowla i chów innych zwierząt poza gospodarstwem rolnym:
+- **a)** krowy powyżej 5 sztuk 1 sztuka 200
+- **b)** cielęta powyżej 10 sztuk 1 sztuka 42
+- **c)** bydło rzeźne powyżej 10 sztuk (z wyjątkiem opasów) 1 sztuka 22
+- **d)** tuczniki powyżej 50 sztuk 1 sztuka 25
+- **e)** prosięta i warchlaki powyżej 50 sztuk 1 sztuka 10
+- **f)** chów i hodowla owiec powyżej 10 sztuk od 1 matki 4
+- **g)** tucz owiec powyżej 15 sztuk 1 sztuka 6
+- **h)** konie rzeźne 1 sztuka 300
+- **i)** konie hodowlane 1 sztuka stada 240 podstawowego
+- **j)** hodowla ryb akwariowych powyżej 700 dm 1 dm objętości akwarium, obliczonej według wewnętrznych długości krawędzi 90
+- **k)** hodowla psów rasowych 1 sztuka stada 27 podstawowego
+- **l)** hodowla kotów rasowych 1 sztuka stada 10 podstawowego LISTA PODMIOTÓW, DO KTÓRYCH ZASTOSOWANIE MAJĄ ART. 23 UST. 1 PKT 38C I ART. 24 UST. 8A I 8B USTAWY Lp. Państwo członkowskie Zakres podmiotowy Unii Europejskiej 1 Królestwo Belgii spółki utworzone według prawa belgijskiego, określane jako: „société anonyme”/„naamloze vennootschap”, „société en commandite par actions”/„commanditaire vennootschap op aandelen”, „société privée à responsabilité limitée”/„besloten vennootschap met beperkte aansprakelijkheid”, „société coopérative à responsabilité limitée”/„coöperatieve vennootschap met beperkte aansprakelijkheid”, „société coopérative à responsabilité illimitée”/„coöperatieve vennootschap met onbeperkte aansprakelijkheid”, „société en nom collectif”/„vennootschap onder firma”, „société en commandite simple”/„gewone commanditaire vennootschap”, przedsiębiorstwa publiczne, które przybrały jedną z wymienionych wyżej form prawnych i inne spółki utworzone zgodnie z przepisami prawa belgijskiego podlegające opodatkowaniu belgijskim podatkiem dochodowym od osób prawnych 2 Królestwo Danii spółki utworzone według prawa duńskiego, określane jako: „aktieselskab” i „anpartsselskab” oraz inne spółki podlegające opodatkowaniu zgodnie z ustawą o podatku dochodowym od osób prawnych, w takim zakresie, w jakim ich dochód podlegający opodatkowaniu jest obliczany i opodatkowany zgodnie z ustawodawstwem podatkowym mającym zastosowanie do „aktieselskaber” 3 Królestwo Hiszpanii spółki utworzone według prawa hiszpańskiego, określane jako: „sociedad anónima”, „sociedad comanditaria por acciones”, „sociedad de responsabilidad limitada”, jak również podmioty prawa publicznego, które działają na podstawie prawa prywatnego 4 Królestwo Niderlandów spółki utworzone według prawa niderlandzkiego, określane jako: „naamloze vennootschap”, „besloten vennootschap met beperkte aansprakelijkheid”, „open commanditaire vennootschap”, „coöperatie”, „onderlinge waarborgmaatschappij”, „fonds voor gemene rekening”, „vereniging op coöperatieve grondslag”, „vereniging welke op onderlinge grondslag als verzekeraar of kredietinstelling optreedt” oraz inne spółki utworzone zgodnie z prawem niderlandzkim podlegające opodatkowaniu niderlandzkim podatkiem dochodowym od osób prawnych 5 Królestwo Szwecji spółki utworzone według prawa szwedzkiego, określane jako: „aktiebolag”, „bankaktiebolag”, „försäkringsaktiebolag”, „ekonomiska föreningar”, „sparbanker” oraz „ömsesidiga försäkringsbolag” 6 Republika Malty spółki utworzone według prawa maltańskiego, określane jako: „Kumpaniji ta’ Responsabilita Limitata” oraz „Soċjetajiet en commandite li l-kapital tagħhom maqsum f’azzjonijiet” 7 Republika Austrii spółki utworzone według prawa austriackiego, określane jako: „Aktiengesellschaft”, „Gesellschaft mit beschränkter Haftung” oraz „Erwerbs- und Wirtschaftsgenossenschaften” 8 Republika Cypryjska spółki utworzone według prawa cypryjskiego: „εταιρείες”, jak określono w przepisach dotyczących podatku dochodowego 9 Republika Czeska spółki utworzone według prawa czeskiego, określane jako: „akciová společnost” oraz „společnost s ručením omezeným” 10 Republika Estońska spółki utworzone według prawa estońskiego, określane jako: „täisühing”, „usaldusühing”, „osaühing”, „aktsiaselts” oraz „tulundusühistu” 11 Republika Federalna Niemiec spółki utworzone według prawa niemieckiego, określane jako: „Aktiengesellschaft”, „Kommanditgesellschaft auf Aktien”, „Gesellschaft mit beschränkter Haftung”, „Versicherungsverein auf Gegenseitigkeit”, „Erwerbs- und Wirtschaftsgenossenschaft”, „Betriebe gewerblicher Art von juristischen Personen des öffentlichen Rechts” i inne spółki utworzone zgodnie z przepisami prawa niemieckiego podlegające opodatkowaniu niemieckim podatkiem dochodowym od osób prawnych 12 Republika Finlandii spółki utworzone według prawa fińskiego, określane jako: „osakeyhtiö”/„aktiebolag”, „osuuskunta”/„andelslag”, „säästöpankki”/„sparbank” oraz „vakuutusyhtiö”/„försäkringsbolag” 13 Republika Francuska spółki utworzone według prawa francuskiego, określane jako: „société anonyme”, „société en commandite par actions”, „société à responsabilité limitée”, „sociétés par actions simplifiées”, „sociétés d’assurances mutuelles”, „caisses d’épargne et de prévoyance”, „sociétés civiles”, które automatycznie podlegają podatkowi dochodowemu od osób prawnych, „coopératives”, „unions de coopératives”, przemysłowe i handlowe instytucje publiczne oraz przedsiębiorstwa i inne spółki utworzone zgodnie z przepisami prawa francuskiego podlegające opodatkowaniu francuskim podatkiem dochodowym od osób prawnych 14 Republika Grecka spółki utworzone według prawa greckiego, określane jako: „αvώvυμη εταιρεία”, „εταιρεία περιoρισμέvης ευθύvης (Ε.Π.Ε.)” 15 Irlandia spółki utworzone lub istniejące według prawa irlandzkiego, podmioty zarejestrowane zgodnie z Industrial and Provident Societies Act, „building societies”, utworzone zgodnie z Building Societies Acts i „trustee savings banks” w rozumieniu Trustee Savings Banks Act z 1989 r.
+
+1. Usługi w zakresie 1.1. prowadzenie ksiąg rachunkowych; księgowości 1.2. sporządzanie sprawozdań finansowych, w tym zbieranie i przegląd informacji na potrzeby i audytu przygotowania tych sprawozdań;
+
+1. 3. uzgadnianie zapisów księgowych;
+
+1. 4. wsparcie w audycie finansowym i niefinansowym;
+
+1. 5. obsługa należności i zobowiązań, a także dokonywanie płatności lub monitorowanie płatności;
+
+1. 6. fakturowanie;
+
+1. 7. usługi o charakterze podobnym do wymienionych powyżej.
+
+2. Usługi w zakresie 2.1. wsparcie procesu budżetowania, w tym zbieranie danych oraz informacji na potrzeby finansów przygotowania budżetu oraz przygotowywanie raportów z wykonania budżetu; przedsiębiorstwa 2.2. raportowanie finansowe i zarządcze;
+
+2. 3. monitorowanie płynności;
+
+2. 4. ocena wiarygodności kontrahenta;
+
+2. 5. usługi o charakterze podobnym do wymienionych powyżej.
+
+3. Usługi związane 3.1. rekrutacja pracowników; z zasobami 3.2. szkolenia i rozwój pracowników; ludzkimi 3.3. obsługa kadrowo-płacowa;
+
+3. 4. bezpieczeństwo i higiena pracy;
+
+3. 5. usługi o charakterze podobnym do wymienionych powyżej.
+
+4. Usługi 4.1. instalacja, utrzymanie i aktualizacja systemów informatycznych; informatyczne 4.2. wsparcie użytkownika i wsparcie techniczne;
+
+4. 3. prowadzenie szkoleń z zakresu użytkowania i zastosowania oprogramowania oraz sprzętu komputerowego wykorzystywanego w prowadzeniu działalności gospodarczej;
+
+4. 4. projektowanie wytycznych i polityk w zakresie infrastruktury, urządzeń i oprogramowania;
+
+4. 5. zapewnienie dostępu do usług komunikacji głosowej i transmisji danych;
+
+4. 6. wsparcie, utrzymanie i nadzorowanie infrastruktury informatycznej i sieci teleinformatycznych;
+
+4. 7. usługi o charakterze podobnym do wymienionych powyżej.
+
+5. Usługi komunikacji 5.1. wsparcie w zakresie komunikacji wewnętrznej i zewnętrznej; i promocji 5.2. public relations;
+
+5. 3. usługi o charakterze podobnym do wymienionych powyżej z wyłączeniem konkretnych działań reklamowych lub marketingowych, a także opracowania strategii dla takich działań.
+
+6. Usługi prawne 6.1. usługi prawne o charakterze ogólnym świadczone przez wewnętrzny dział prawny, obejmujące w szczególności sporządzanie i przegląd umów, porozumień i innych dokumentów prawnych, konsultacje prawne, sporządzanie opinii prawnych, reprezentowanie w postępowaniach;
+
+6. 2. czynności prawne i administracyjne z zakresu rejestracji i ochrony prawnej wartości niematerialnych i prawnych;
+
+6. 3. usługi o charakterze podobnym do wymienionych powyżej.
+
+7. Usługi w zakresie 7.1. sporządzanie deklaracji podatkowych, w tym zbieranie informacji na potrzeby podatków sporządzenia tych deklaracji;
+
+7. 2. dokonywanie płatności zobowiązań podatkowych;
+
+7. 3. przygotowywanie wyjaśnień na potrzeby kontroli podatkowych;
+
+7. 4. ogólne doradztwo w zakresie podatków;
+
+7. 5. usługi o charakterze podobnym do wymienionych powyżej.
+
+8. Usługi 8.1. ogólne usługi o charakterze administracyjnym; administracyjno- 8.2. ogólne usługi o charakterze biurowym; -biurowe 8.3. usługi o charakterze podobnym do wymienionych powyżej.
+
 

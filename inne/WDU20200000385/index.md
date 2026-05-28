@@ -8,10 +8,10 @@ pos: 385
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Warszawa, dnia 10 marca 2020 ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ dnia 24 lutego 2020 sprawie konkursu publicznej placówki doskonalenia nauczycieli prowadzonej ministra Na podstawie art. 63 ust. 7 8 dnia 14 grudnia 2016 Prawo oświatowe 2019 1148, późn.
+# Rozporządzenie Ministra Edukacji na Rodowejz dnia 24 lutego 2020 r. w sprawie konkursu na stanowisko dyrektora publicznej placówki doskonalenia nauczycieli prowadzonej przez ministra
 
 | Pole | Wartość |
 |---|---|
@@ -22,67 +22,193 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2020-02-24 |
 | Data wydania | 2020-03-10 |
+| Wejście w życie | 2020-03-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000385) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/385/text.pdf) |
 
-zm. ) zarządza się, co następuje:
-1. Rozporządzenie określa: staż pracy wymagany od osoby zajmującej publicznej placówki doskonalenia nauczycieli, której mowa art. 8 ust. 5 pkt 1 lit. b, ust. 6, ust. 7 pkt 2 ust. 14 dnia 14 grudnia 2016 Prawo oświatowe, zwanej dalej „ustawą”;
-dodatkowe wymagania, jakim powinna odpowiadać osoba zajmująca publicznej placówki doskonalenia nauczycieli, której mowa pkt 1;
-sposób tryb przeprowadzania konkursu publicznej placówki doskonalenia nauczycieli, której mowa pkt 1, skład tryb pracy komisji konkursowej.
-Ilekroć rozporządzeniu jest mowa o: placówce bez bliższego określenia należy to rozumieć publiczną placówkę doskonalenia nauczycieli, której mowa art. 8 ust. 5 pkt 1 lit. b, ust. 6, ust. 7 pkt 2 ust. 14 ustawy;
-ministrze prowadzącym placówkę należy to rozumieć odpowiednio ministra właściwego do spraw oświaty wychowania, ministra właściwego do spraw kultury ochrony dziedzictwa narodowego, ministra właściwego do spraw rolnictwa ministra właściwego do spraw zdrowia.
-3. 1. Od osoby zajmującej placówki: której mowa art. 8 ust. 5 pkt 1 lit. b, ust. 7 pkt 2 ust. 14 ustawy, jest wymagany co najmniej pięcioletni staż pracy pedagogicznej stanowisku nauczyciela co najmniej pięcioletni staż pracy dydaktycznej stanowisku nauczyciela akademickiego co najmniej pięcioletni staż pracy obejmujący co najmniej dwuletni staż pracy stanowisku kierowniczym;
-której mowa art. 8 ust. 6 ustawy, jest wymagany co najmniej pięcioletni staż pracy pedagogicznej stanowisku nauczyciela szkole artystycznej co najmniej pięcioletni staż pracy dydaktycznej stanowisku nauczyciela akademickiego uczelni artystycznej co najmniej pięcioletni staż pracy obejmujący co najmniej dwuletni staż pracy stanowisku kierowniczym szkole artystycznej.
-polskiej, posiadanie prawa do wykonywania zawodu tłumacza przysięgłego języka polskiego;
-przypadku osoby zajmującej placówki, której mowa art. 8 ust. 6 posiadanie:
-a) tytułu zawodowego magistra równorzędnego uzyskanego po ukończeniu studiów kierunku przyporządkowanym do dyscypliny artystycznej albo kierunku przyporządkowanym do więcej niż jednej dyscypliny naukowej artystycznej, dla którego dyscyplina artystyczna została wskazana jako dyscyplina wiodąca, albo
-b) tytułu zawodowego magistra sztuki.
-4. 1. Konkurs placówki ogłasza minister prowadzący placówkę.
-Ogłoszenie konkursie zawiera: nazwę adres placówki, której dotyczy konkurs;
-wymagania wobec kandydata placówki;
+Treść rozporządzenia
+Na podstawie art. 63 ust. 7 i 8 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2019 r. poz. 1148, z późn. zm.) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+staż pracy wymagany od osoby zajmującej stanowisko dyrektora publicznej placówki doskonalenia nauczycieli, o której mowa w art. 8 ust. 5 pkt 1 lit. b, ust. 6, ust. 7 pkt 2 i ust. 14 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, zwanej dalej „ustawą”;
+2)
+dodatkowe wymagania, jakim powinna odpowiadać osoba zajmująca stanowisko dyrektora publicznej placówki doskonalenia nauczycieli, o której mowa w pkt 1;
+3)
+sposób i tryb przeprowadzania konkursu na stanowisko dyrektora publicznej placówki doskonalenia nauczycieli, o której mowa w pkt 1, oraz skład i tryb pracy komisji konkursowej.
+§ 2.
+Ilekroć w rozporządzeniu jest mowa o:
+1)
+placówce bez bliższego określenia – należy przez to rozumieć publiczną placówkę doskonalenia nauczycieli, o której mowa w art. 8 ust. 5 pkt 1 lit. b, ust. 6, ust. 7 pkt 2 i ust. 14 ustawy;
+2)
+ministrze prowadzącym placówkę – należy przez to rozumieć odpowiednio ministra właściwego do spraw oświaty i wychowania, ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, ministra właściwego do spraw rolnictwa oraz ministra właściwego do spraw zdrowia.
+§ 3.
+1.
+Od osoby zajmującej stanowisko dyrektora placówki:
+1)
+o której mowa w art. 8 ust. 5 pkt 1 lit. b, ust. 7 pkt 2 i ust. 14 ustawy, jest wymagany co najmniej pięcioletni staż pracy pedagogicznej na stanowisku nauczyciela lub co najmniej pięcioletni staż pracy dydaktycznej na stanowisku nauczyciela akademickiego lub co najmniej pięcioletni staż pracy obejmujący co najmniej dwuletni staż pracy na stanowisku kierowniczym;
+2)
+o której mowa w art. 8 ust. 6 ustawy, jest wymagany co najmniej pięcioletni staż pracy pedagogicznej na stanowisku nauczyciela w szkole artystycznej lub co najmniej pięcioletni staż pracy dydaktycznej na stanowisku nauczyciela akademickiego w uczelni artystycznej lub co najmniej pięcioletni staż pracy obejmujący co najmniej dwuletni staż pracy na stanowisku kierowniczym w szkole artystycznej.
+oraz z 2020 r. poz. 374.
+2.
+Dodatkowymi wymaganiami, jakim powinna odpowiadać osoba zajmująca stanowisko dyrektora placówki, są:
+1)
+znajomość regulacji prawnych z zakresu oświaty, zamówień publicznych, finansów publicznych i zarządzania projektami współfinansowanymi ze środków Europejskiego Funduszu Społecznego;
+2)
+w przypadku cudzoziemca – znajomość języka polskiego poświadczona na zasadach określonych w ustawie z dnia 7 października 1999 r. o języku polskim (Dz. U. z 2019 r. poz. 1480 oraz z 2020 r. poz. 285) lub ukończenie studiów pierwszego stopnia, studiów drugiego stopnia lub jednolitych studiów magisterskich, na kierunku w zakresie filologii polskiej, lub posiadanie prawa do wykonywania zawodu tłumacza przysięgłego języka polskiego;
+3)
+w przypadku osoby zajmującej stanowisko dyrektora placówki, o której mowa w art. 8 ust. 6 ustawy – posiadanie:
+a)
+tytułu zawodowego magistra lub równorzędnego uzyskanego po ukończeniu studiów na kierunku przyporządkowanym do dyscypliny artystycznej albo na kierunku przyporządkowanym do więcej niż jednej dyscypliny naukowej lub artystycznej, dla którego dyscyplina artystyczna została wskazana jako dyscyplina wiodąca, albo
+b)
+tytułu zawodowego magistra sztuki.
+§ 4.
+1.
+Konkurs na stanowisko dyrektora placówki ogłasza minister prowadzący placówkę.
+2.
+Ogłoszenie o konkursie zawiera:
+1)
+nazwę i adres placówki, której dotyczy konkurs;
+2)
+wymagania wobec kandydata na stanowisko dyrektora placówki;
+3)
 wykaz dokumentów wymaganych od kandydata:
-a) uzasadnienie przystąpienia do konkursu koncepcję pracy stanowisku placówki,
-b) życiorys opisem przebiegu pracy zawodowej,
-c) oświadczenie zawierające imię (imiona) nazwisko kandydata, datę jego urodzenia obywatelstwo, a także adres do korespondencji kandydata,
-d) poświadczone kandydata za zgodność oryginałem kopie dokumentów potwierdzających: posiadanie wymaganego wykształcenia, posiadanie wymaganego stażu pracy, posiadanie wymaganego doświadczenia związanego prowadzeniem działań rzecz rozwoju szkół placówek doświadczenia stanowisku kierowniczym,
-e) przypadku kandydata będącego cudzoziemcem poświadczone kandydata za zgodność oryginałem kopie: dokumentu potwierdzającego znajomość języka polskiego, którym mowa ustawie dnia 7 października 1999 języku polskim, dyplomu ukończenia studiów pierwszego stopnia, studiów drugiego stopnia jednolitych studiów magisterskich, kierunku zakresie filologii polskiej, dokumentu potwierdzającego prawo do wykonywania zawodu tłumacza przysięgłego języka polskiego,
-f) poświadczona kandydata za zgodność oryginałem kopia zaświadczenia lekarskiego braku przeciwwskazań zdrowotnych do wykonywania pracy stanowisku kierowniczym,
-g) oświadczenia, że kandydat: ma pełną zdolność do czynności prawnych korzysta pełni praw publicznych, nie był karany karą dyscyplinarną nie toczy się przeciwko niemu postępowanie dyscyplinarne, nie był skazany prawomocnym wyrokiem za umyślne przestępstwo umyślne przestępstwo skarbowe nie toczy się przeciwko niemu postępowanie przestępstwo ścigane oskarżenia publicznego, nie był karany zakazem pełnienia funkcji związanych dysponowaniem środkami publicznymi, którym mowa art. 31 ust. 1 pkt 4 dnia 17 grudnia 2004 odpowiedzialności za naruszenie dyscypliny pisem zaufanym zawierać elektroniczne kopie dokumentów wymaganych jako załączniki do oferty.
-5. Ogłoszenie konkursie minister prowadzący placówkę zamieszcza swojej stronie internetowej, Biuletynie Informacji Publicznej miejscu ogólnodostępnym swojej siedzibie.
-6. Ogłoszenie konkursie można zamieścić również stronach Biuletynu Informacji Publicznej kuratoriów oświaty.
-7. Termin, którym mowa ust. 2 pkt 4, nie może być krótszy niż 14 dni od dnia zamieszczenia ogłoszenia konkursie sposób określony ust. 5.
-5. 1. Konkurs placówki przeprowadza komisja konkursowa powołana ministra prowadzącego placówkę. W skład komisji konkursowej wchodzą: czterej przedstawiciele ministra prowadzącego placówkę;
-po jednym przedstawicielu organizacji związkowych reprezentatywnych rozumieniu dnia 24 lipca 2015 Radzie Dialogu Społecznego innych instytucjach dialogu społecznego 2018 2232), wyłonionym spośród członków ich jednostek organizacyjnych albo jednostek organizacyjnych organizacji związkowych wchodzących skład reprezentatywnych organizacji związkowych, zrzeszających nauczycieli, obejmujących swoim zakresem działania placówkę, której dotyczy konkurs;
-jeden nauczyciel zatrudniony placówce, której dotyczy konkurs, wyłoniony sposób określony statucie placówki.
-Liczba członków komisji konkursowej, których mowa ust. 1 pkt 1, nie może być mniejsza niż łączna liczba członków komisji, których mowa ust. 1 pkt 2 3.
-3. Jeżeli liczba członków komisji konkursowej, których mowa ust. 1 pkt 1, byłaby mniejsza niż łączna liczba członków komisji, których mowa ust. 1 pkt 2 3, liczbę członków komisji, których mowa ust. 1 pkt 1, zwiększa się proporcjonalnie, tak aby ich liczba nie była mniejsza niż łączna liczba członków komisji, których mowa ust. 1 pkt 2 3.
-4. W przypadku konkursu nowo zakładanej placówki skład komisji konkursowej wchodzą czterej przedstawiciele ministra prowadzącego placówkę.
-5. Minister prowadzący placówkę wyznacza przewodniczącego komisji konkursowej, który kieruje jej pracami, zastępcę przewodniczącego.
-6. Postępowanie konkursowe jest dwuetapowe: pierwszy etap polega weryfikacji komisję konkursową pod względem formalnym ofert złożonych kandydatów;
-drugi etap polega przeprowadzeniu komisję konkursową rozmów kandydatami, którzy zostali dopuszczeni do tego etapu.
-7. 1. Przewodniczący komisji konkursowej ustala termin miejsce posiedzenia komisji powiadamia tym pisemnie członków komisji, nie później niż 3 dni przed terminem posiedzenia.
-Prace komisji konkursowej są prowadzone, jeżeli posiedzeniu bierze udział co najmniej 2/3 jej członków.
-8. 1. Pierwsze posiedzenie komisji konkursowej odbywa się nie później niż ciągu 14 dni roboczych od dnia, którym upłynął termin składania ofert kandydatów, wskazany ogłoszeniu konkursie.
-W pierwszym etapie postępowania konkursowego komisja konkursowa, podstawie złożonej oferty, podejmuje
-4. Czynności komisji konkursowej pierwszym etapie postępowania konkursowego odbywają się bez udziału kandydatów. Po ich zakończeniu przewodniczący komisji konkursowej informuje pisemnie kandydatów dopuszczeniu albo odmowie dopuszczenia do drugiego etapu postępowania konkursowego przyczynach odmowy. Informacja może być przekazana postaci papierowej elektronicznej.
-9. 1. O terminie miejscu posiedzenia komisji konkursowej, podczas którego będą prowadzone rozmowy kandydatami dopuszczonymi do drugiego etapu postępowania konkursowego, powiadamia się kandydatów pisemnie, nie później niż 5 dni przed terminem posiedzenia. Informacja może być przekazana postaci papierowej elektronicznej.
-W trakcie rozmowy kandydat prezentuje koncepcję pracy stanowisku placówki odpowiada pytania członków komisji konkursowej.
-3. Komisja konkursowa, po rozmowie każdym kandydatów, dokonuje merytorycznej oceny kandydata pod względem kompetencji niezbędnych do wykonywania zadań stanowisku placówki.
-10. 1. Komisja konkursowa wyłania kandydata placówki głosowaniu tajnym. Każdy członków komisji dysponuje jednym głosem.
-Komisja konkursowa wyłania kandydata placówki, jeżeli jeden kandydatów uzyska bezwzględną większość głosów obecnych posiedzeniu członków komisji.
-3. Jeżeli pierwszym głosowaniu kandydat nie zostanie wyłoniony, a do drugiego etapu postępowania konkursowego dopuszczono co najmniej dwóch kandydatów, przeprowadza się drugą turę głosowania. Do drugiej tury przechodzą dwaj kandydaci, którzy uzyskali największą liczbę głosów, a jeżeli według tej zasady nie można wyłonić dwóch kandydatów, wszyscy kandydaci, którzy uzyskali największą liczbę głosów.
-4. Jeżeli drugim głosowaniu kandydat nie zostanie wyłoniony zgodnie ust. 2, komisja konkursowa przeprowadza jeszcze jedno głosowanie zgodnie ust. 3 albo stwierdza nierozstrzygnięcie konkursu.
-11. W sprawach proceduralnych, dotyczących prac komisji konkursowej, nieuregulowanych rozporządzeniu, decyduje komisja głosowaniu jawnym, zwykłą większością głosów.
-12. 1. Z prac komisji konkursowej sporządza się protokół.
-Protokół zawiera: termin miejsce posiedzenia komisji konkursowej;
-imiona nazwiska przewodniczącego pozostałych członków komisji konkursowej;
-imiona nazwiska kandydatów;
-4) uchwały dopuszczeniu albo niedopuszczeniu kandydatów do drugiego etapu postępowania konkursowego, wraz podaniem przyczyn niedopuszczenia poszczególnych kandydatów;
-5) informację koncepcji pracy stanowisku placówki zaprezentowanej poszczególnych kandydatów podczas rozmowy, której mowa 9 ust. 1, pytania zadane kandydatom czasie tej rozmowy zwięzłą informację udzielonych odpowiedziach;
-6) informację liczbie głosów uzyskanych poszczególnych kandydatów kolejnych turach głosowania;
-7) informację wyniku postępowania konkursowego.
-3. Protokół podpisują członkowie komisji konkursowej obecni danym posiedzeniu.
-14. Do konkursów publicznej placówki doskonalenia, której mowa art. 8 ust. 5 pkt 1 lit. b, ust. 6 ust. 7 pkt 2 ustawy, ogłoszonych nierozstrzygniętych przed dniem wejścia życie rozporządzenia, a także do osób wyłonionych wyniku tych konkursów, stosuje się przepisy dotychczasowe.
-15. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.
-Minister Edukacji Narodowej: D. Piontkowski
+a)
+uzasadnienie przystąpienia do konkursu oraz koncepcję pracy na stanowisku dyrektora placówki,
+b)
+życiorys z opisem przebiegu pracy zawodowej,
+c)
+oświadczenie zawierające imię (imiona) i nazwisko kandydata, datę jego urodzenia i obywatelstwo, a także adres do korespondencji kandydata,
+d)
+poświadczone przez kandydata za zgodność z oryginałem kopie dokumentów potwierdzających:
+– posiadanie wymaganego wykształcenia,
+– posiadanie wymaganego stażu pracy,
+– posiadanie wymaganego doświadczenia związanego z prowadzeniem działań na rzecz rozwoju szkół i placówek lub doświadczenia na stanowisku kierowniczym,
+e)
+w przypadku kandydata będącego cudzoziemcem – poświadczone przez kandydata za zgodność z oryginałem kopie:
+– dokumentu potwierdzającego znajomość języka polskiego, o którym mowa w ustawie z dnia 7 października 1999 r. o języku polskim, lub
+– dyplomu ukończenia studiów pierwszego stopnia, studiów drugiego stopnia lub jednolitych studiów magisterskich, na kierunku w zakresie filologii polskiej, lub
+– dokumentu potwierdzającego prawo do wykonywania zawodu tłumacza przysięgłego języka polskiego,
+f)
+poświadczona przez kandydata za zgodność z oryginałem kopia zaświadczenia lekarskiego o braku przeciwwskazań zdrowotnych do wykonywania pracy na stanowisku kierowniczym,
+g)
+oświadczenia, że kandydat:
+– ma pełną zdolność do czynności prawnych i korzysta z pełni praw publicznych,
+– nie był karany karą dyscyplinarną i nie toczy się przeciwko niemu postępowanie dyscyplinarne,
+– nie był skazany prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe oraz nie toczy się przeciwko niemu postępowanie o przestępstwo ścigane z oskarżenia publicznego,
+– nie był karany zakazem pełnienia funkcji związanych z dysponowaniem środkami publicznymi, o którym mowa w art. 31 ust. 1 pkt 4 ustawy z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych (Dz. U. z 2019 r. poz. 1440, 1495, 2020 i 2473 oraz z 2020 r. poz. 284),
+– nie był karany karą porządkową, o której mowa w art. 108 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2019 r. poz. 1040, 1043 i 1495),
+– wyraża zgodę na przeprowadzenie postępowania sprawdzającego na podstawie ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742);
+4)
+informację o sposobie i terminie składania ofert przez kandydatów;
+5)
+informację o sposobie powiadamiania kandydatów, którzy złożyli oferty, o terminie i miejscu przeprowadzenia postępowania konkursowego.
+3.
+Oferta oraz dokumenty dołączone do oferty powinny być podpisane przez kandydata.
+4.
+Oferta składana drogą elektroniczną powinna być opatrzona kwalifikowanym podpisem elektronicznym albo podpisem zaufanym i zawierać elektroniczne kopie dokumentów wymaganych jako załączniki do oferty.
+5.
+Ogłoszenie o konkursie minister prowadzący placówkę zamieszcza na swojej stronie internetowej, w Biuletynie Informacji Publicznej i w miejscu ogólnodostępnym w swojej siedzibie.
+6.
+Ogłoszenie o konkursie można zamieścić również na stronach Biuletynu Informacji Publicznej kuratoriów oświaty.
+7.
+Termin, o którym mowa w ust. 2 pkt 4, nie może być krótszy niż 14 dni od dnia zamieszczenia ogłoszenia o konkursie w sposób określony w ust. 5.
+§ 5.
+1.
+Konkurs na stanowisko dyrektora placówki przeprowadza komisja konkursowa powołana przez ministra prowadzącego placówkę. W skład komisji konkursowej wchodzą:
+1)
+czterej przedstawiciele ministra prowadzącego placówkę;
+2)
+po jednym przedstawicielu organizacji związkowych reprezentatywnych w rozumieniu ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. z 2018 r. poz. 2232), wyłonionym spośród członków ich jednostek organizacyjnych albo jednostek organizacyjnych organizacji związkowych wchodzących w skład reprezentatywnych organizacji związkowych, zrzeszających nauczycieli, obejmujących swoim zakresem działania placówkę, której dotyczy konkurs;
+3)
+jeden nauczyciel zatrudniony w placówce, której dotyczy konkurs, wyłoniony w sposób określony w statucie placówki.
+2.
+Liczba członków komisji konkursowej, o których mowa w ust. 1 pkt 1, nie może być mniejsza niż łączna liczba członków komisji, o których mowa w ust. 1 pkt 2 i 3.
+3.
+Jeżeli liczba członków komisji konkursowej, o których mowa w ust. 1 pkt 1, byłaby mniejsza niż łączna liczba członków komisji, o których mowa w ust. 1 pkt 2 i 3, liczbę członków komisji, o których mowa w ust. 1 pkt 1, zwiększa się proporcjonalnie, tak aby ich liczba nie była mniejsza niż łączna liczba członków komisji, o których mowa w ust. 1 pkt 2 i 3.
+4.
+W przypadku konkursu na stanowisko dyrektora nowo zakładanej placówki w skład komisji konkursowej wchodzą czterej przedstawiciele ministra prowadzącego placówkę.
+5.
+Minister prowadzący placówkę wyznacza przewodniczącego komisji konkursowej, który kieruje jej pracami, oraz zastępcę przewodniczącego.
+§ 6.
+Postępowanie konkursowe jest dwuetapowe:
+1)
+pierwszy etap polega na weryfikacji przez komisję konkursową pod względem formalnym ofert złożonych przez kandydatów;
+2)
+drugi etap polega na przeprowadzeniu przez komisję konkursową rozmów z kandydatami, którzy zostali dopuszczeni do tego etapu.
+§ 7.
+1.
+Przewodniczący komisji konkursowej ustala termin i miejsce posiedzenia komisji oraz powiadamia o tym pisemnie członków komisji, nie później niż na 3 dni przed terminem posiedzenia.
+2.
+Prace komisji konkursowej są prowadzone, jeżeli w posiedzeniu bierze udział co najmniej 2/3 jej członków.
+§ 8.
+1.
+Pierwsze posiedzenie komisji konkursowej odbywa się nie później niż w ciągu 14 dni roboczych od dnia, w którym upłynął termin składania ofert przez kandydatów, wskazany w ogłoszeniu o konkursie.
+2.
+W pierwszym etapie postępowania konkursowego komisja konkursowa, na podstawie złożonej oferty, podejmuje uchwałę o dopuszczeniu albo odmowie dopuszczenia kandydata do drugiego etapu postępowania konkursowego. Uchwała jest podejmowana zwykłą większością głosów w głosowaniu jawnym. W przypadku równej liczby głosów decyduje głos przewodniczącego komisji.
+3.
+Komisja konkursowa podejmuje uchwałę o odmowie dopuszczenia kandydata do drugiego etapu postępowania konkursowego, jeżeli:
+1)
+oferta została złożona po terminie;
+2)
+oferta nie zawiera wszystkich dokumentów wskazanych w ogłoszeniu o konkursie;
+3)
+z oferty nie wynika, że kandydat spełnia wymagania wskazane w ogłoszeniu o konkursie.
+4.
+Czynności komisji konkursowej w pierwszym etapie postępowania konkursowego odbywają się bez udziału kandydatów. Po ich zakończeniu przewodniczący komisji konkursowej informuje pisemnie kandydatów o dopuszczeniu albo odmowie dopuszczenia do drugiego etapu postępowania konkursowego oraz o przyczynach odmowy. Informacja może być przekazana w postaci papierowej lub elektronicznej.
+§ 9.
+1.
+O terminie i miejscu posiedzenia komisji konkursowej, podczas którego będą prowadzone rozmowy z kandydatami dopuszczonymi do drugiego etapu postępowania konkursowego, powiadamia się kandydatów pisemnie, nie później niż na 5 dni przed terminem posiedzenia. Informacja może być przekazana w postaci papierowej lub elektronicznej.
+2.
+W trakcie rozmowy kandydat prezentuje koncepcję pracy na stanowisku dyrektora placówki oraz odpowiada na pytania członków komisji konkursowej.
+3.
+Komisja konkursowa, po rozmowie z każdym z kandydatów, dokonuje merytorycznej oceny kandydata pod względem kompetencji niezbędnych do wykonywania zadań na stanowisku dyrektora placówki.
+§ 10.
+1.
+Komisja konkursowa wyłania kandydata na stanowisko dyrektora placówki w głosowaniu tajnym. Każdy z członków komisji dysponuje jednym głosem.
+2.
+Komisja konkursowa wyłania kandydata na stanowisko dyrektora placówki, jeżeli jeden z kandydatów uzyska bezwzględną większość głosów obecnych na posiedzeniu członków komisji.
+3.
+Jeżeli w pierwszym głosowaniu kandydat nie zostanie wyłoniony, a do drugiego etapu postępowania konkursowego dopuszczono co najmniej dwóch kandydatów, przeprowadza się drugą turę głosowania. Do drugiej tury przechodzą dwaj kandydaci, którzy uzyskali największą liczbę głosów, a jeżeli według tej zasady nie można wyłonić dwóch kandydatów, wszyscy kandydaci, którzy uzyskali największą liczbę głosów.
+4.
+Jeżeli w drugim głosowaniu kandydat nie zostanie wyłoniony zgodnie z ust. 2, komisja konkursowa przeprowadza jeszcze jedno głosowanie zgodnie z ust. 3 albo stwierdza nierozstrzygnięcie konkursu.
+§ 11.
+W sprawach proceduralnych, dotyczących prac komisji konkursowej, nieuregulowanych w rozporządzeniu, decyduje komisja w głosowaniu jawnym, zwykłą większością głosów.
+§ 12.
+1.
+Z prac komisji konkursowej sporządza się protokół.
+2.
+Protokół zawiera:
+1)
+termin i miejsce posiedzenia komisji konkursowej;
+2)
+imiona i nazwiska przewodniczącego oraz pozostałych członków komisji konkursowej;
+3)
+imiona i nazwiska kandydatów;
+4)
+uchwały o dopuszczeniu albo niedopuszczeniu kandydatów do drugiego etapu postępowania konkursowego, wraz z podaniem przyczyn niedopuszczenia poszczególnych kandydatów;
+5)
+informację o koncepcji pracy na stanowisku dyrektora placówki zaprezentowanej przez poszczególnych kandydatów podczas rozmowy, o której mowa w § 9 ust. 1, pytania zadane kandydatom w czasie tej rozmowy i zwięzłą informację o udzielonych odpowiedziach;
+6)
+informację o liczbie głosów uzyskanych przez poszczególnych kandydatów w kolejnych turach głosowania;
+7)
+informację o wyniku postępowania konkursowego.
+3.
+Protokół podpisują członkowie komisji konkursowej obecni na danym posiedzeniu.
+§ 13.
+1.
+Po zakończeniu drugiego etapu postępowania konkursowego przewodniczący komisji konkursowej niezwłocznie powiadamia ministra prowadzącego placówkę o wyniku postępowania konkursowego oraz przekazuje temu ministrowi dokumentację postępowania konkursowego.
+2.
+Minister prowadzący placówkę unieważnia konkurs i zarządza ponowne jego przeprowadzenie w razie stwierdzenia:
+1)
+nieuzasadnionego niedopuszczenia kandydata do drugiego etapu postępowania konkursowego;
+2)
+przeprowadzenia przez komisję postępowania konkursowego bez wymaganego udziału 2/3 jej członków;
+3)
+innych nieprawidłowości, które mogły mieć wpływ na wynik konkursu.
+§ 14.
+Do konkursów na stanowisko dyrektora publicznej placówki doskonalenia, o której mowa w art. 8 ust. 5 pkt 1 lit. b, ust. 6 i ust. 7 pkt 2 ustawy, ogłoszonych i nierozstrzygniętych przed dniem wejścia w życie rozporządzenia, a także do osób wyłonionych w wyniku tych konkursów, stosuje się przepisy dotychczasowe.
+§ 15.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2268). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1078, 1287, 1680, 1681, 1818, 2197 i 2248 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej z dnia 1 września 2015 r. w sprawie konkursu na stanowisko dyrektora publicznej placówki doskonalenia nauczycieli o zasięgu ogólnokrajowym, publicznej placówki doskonalenia nauczycieli szkół artystycznych oraz publicznej placówki doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych (Dz. U. poz. 1356), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 365 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60, 949 i 2203, z 2018 r. poz. 2245 oraz z 2019 r. poz. 1287).
 

@@ -8,12 +8,10 @@ pos: 1747
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o Centralnym Porcie Komunikacyjnym
-
-*USTAWA z dnia 10 maja 2018 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 14 listopada 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Centralnym Porcie Komunikacyjnym
 
 | Pole | Wartość |
 |---|---|
@@ -27,119 +25,1017 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-01-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001747) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1747/text.pdf) |
 
-Art. 120ze. 1. W przypadku gdy z planu generalnego lotniska wynika etapowy charakter budowy Inwestycji, w odniesieniu do zakresu Inwestycji, który nie został objęty wnioskiem o wydanie decyzji o środowiskowych uwarunkowaniach lub wnioskiem o wydanie decyzji o ustaleniu lokalizacji inwestycji CPK, wojewoda, na wniosek Pełnomocnika, przyjmuje w drodze zarządzenia plan miejscowy Centralnego Portu Komunikacyjnego, zwany dalej „planem miejscowym CPK”.
-2. Do planu miejscowego CPK przepisy odrębne o miejscowych planach zagospodarowania przestrzennego stosuje się odpowiednio, o ile przepisy niniejszego działu nie stanowią inaczej.
-3. Ilekroć w przepisach odrębnych jest mowa o miejscowym planie zagospodarowania przestrzennego albo planie zagospodarowania przestrzennego, należy przez to rozumieć także plan miejscowy CPK.
-4. Plan miejscowy CPK przyjmuje się zgodnie z ustaleniami planu generalnego lotniska oraz można przyjąć niezależnie od ustaleń planu zagospodarowania przestrzennego województwa, planu ogólnego gminy oraz innych miejscowych planów zagospodarowania przestrzennego. Spółka Celowa obowiązana jest do poniesienia kosztów zmiany planu zagospodarowania przestrzennego województwa oraz planu ogólnego gminy w celu uzyskania spójności z ustaleniami planu miejscowego CPK.
-5. Uzgodnienia i zgody, o których mowa w art. 17 pkt 6 lit. b i c ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, zastępuje się opiniami.
-6. Od dnia wydania zarządzenia wojewody o przystąpieniu do sporządzania planu miejscowego CPK do obszaru nim objętego przepis art. 62 ust. 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym stosuje się odpowiednio.
-7. Plan miejscowy CPK może określać sposób i okres tymczasowego zagospodarowania terenu do czasu realizacji inwestycji lotniskowej, zawierając w tym zakresie ustalenia dotyczące przeznaczenia i sposobu zagospodarowania terenu.
-8. Właścicielowi albo użytkownikowi wieczystemu nieruchomości przysługuje wyłącznie roszczenie do Spółki Celowej o wykupienie nieruchomości lub jej części objętej planem miejscowym CPK. Przepis art. 36 ust. 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym stosuje się odpowiednio. W pozostałym zakresie przepisów art. 36–37 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym nie stosuje się. Gmina nie pokrywa kosztów i roszczeń związanych z wejściem w życie tego planu miejscowego CPK.
-9. W okresie objęcia nieruchomości ustaleniami planu miejscowego CPK przepisu art. 137 ust. 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami nie stosuje się. Roszczenie, o którym mowa w art. 136 ust. 3 tej ustawy, powstaje z dniem utraty mocy obowiązującej planu miejscowego CPK w odniesieniu do nieruchomości.
-10. Wojewoda co 5 lat dokonuje analizy aktualności planu miejscowego CPK, w szczególności z ustaleniami planu generalnego lotniska, stwierdzając, w drodze zarządzenia, aktualność albo wszczynając postępowanie w przedmiocie zmiany bądź uchylenia planu miejscowego CPK.
-Art. 120zf. 1. Przepisy niniejszego działu stosuje się do zarządzania rozwojem obszaru otoczenia CPK.
-2. Obszar otoczenia CPK stanowi obszar funkcjonalny oraz obszar strategicznej interwencji w rozumieniu art. 5 pkt 6a i 6b ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
-3. Minister właściwy do spraw transportu wyznacza, w drodze rozporządzenia, obszar otoczenia CPK, uwzględniając:
-1) potrzebę zapewnienia sprawnej realizacji Przedsięwzięć w otoczeniu CPK i zapewnienia ich sprawnego funkcjonowania;
-2) konieczność wyznaczenia obszaru w sposób zwarty i ograniczony do obszaru występowania obecnych lub prognozowanych powiązań funkcjonalnych Przedsięwzięcia.
-4. Przed wydaniem rozporządzenia minister właściwy do spraw transportu występuje do organów wykonawczych jednostek samorządu terytorialnego znajdujących się w przewidywanych granicach obszaru otoczenia CPK o wydanie opinii w zakresie projektu rozporządzenia.
-5. Opinię, o której mowa w ust. 4, organy wykonawcze jednostek samorządu terytorialnego wydają w terminie nie dłuższym niż 30 dni od dnia otrzymania wniosku o wydanie opinii. Niewydanie opinii w tym terminie traktuje się jako brak zastrzeżeń do projektu rozporządzenia.
-Art. 120zg. Rozwój obszaru otoczenia CPK kształtuje się w sposób zapewniający:
-1) zrównoważony rozwój i ład przestrzenny;
-2) optymalne funkcjonowanie Inwestycji oraz Inwestycji Towarzyszących;
-3) powstawanie i rozwój zwartych struktur przestrzennych ograniczających transportochłonność i energochłonność, w tym przez przeciwdziałanie niekontrolowanemu rozlewaniu się zabudowy i optymalizację stanu wyposażenia zabudowy w infrastrukturę techniczną;
-4) zapewnienie warunków do powstawania wysokiej jakości struktur przestrzennych, w tym osadniczych, w szczególności nowych miast albo części miast;
-5) spójność przestrzenną, w tym przez ograniczanie negatywnych skutków izolacji przestrzennej obszarów, powstałej w wyniku realizacji inwestycji liniowych;
-6) ochronę środowiska, w tym form ochrony przyrody, wód oraz krajobrazu, poprawę lub co najmniej niepogorszenie parametrów środowiska, w tym różnorodności biologicznej, korytarzy ekologicznych, ciągów przewietrzających, wartości krajobrazowych oraz błękitno-zielonej infrastruktury;
-7) mitygację i adaptację do zmian klimatu, w tym negatywnych zjawisk klimatycznych, w szczególności suszy oraz powodzi;
-8) ochronę krajobrazów kulturowych, zabytków i dóbr kultury współczesnej;
-9) ograniczenie niekorzystnych oddziaływań Inwestycji, Inwestycji Towarzyszących oraz obszarów prowadzenia intensywnej działalności gospodarczej;
-10) potrzeby obronności i bezpieczeństwa państwa;
-11) poszanowanie uzasadnionych interesów właścicieli nieruchomości, wynikających z przeznaczenia nieruchomości określonego w miejscowym planie zagospodarowania przestrzennego lub z ostatecznego rozstrzygnięcia organu administracji publicznej zezwalającego na wykonywanie robót budowlanych.
-Art. 120zh. 1. Organy administracji rządowej i samorządowej, państwowe i samorządowe osoby prawne oraz Pełnomocnik współpracują w celu zapewnienia optymalnych warunków trwałego i zrównoważonego rozwoju oraz spójności społeczno-gospodarczej, regionalnej i przestrzennej obszaru otoczenia CPK.
-2. Na potrzeby współpracy, o której mowa w ust. 1, minister właściwy do spraw rozwoju regionalnego, Pełnomocnik oraz jednostki samorządu terytorialnego z obszaru otoczenia CPK zawierają porozumienie terytorialne, o którym mowa w przepisach ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju. Porozumienie terytorialne określa przedsięwzięcia priorytetowe dla rozwoju obszaru zgodne z celami wynikającymi z krajowej strategii rozwoju regionalnego, w tym przewidywane źródła ich finansowania.
-3. Do porozumienia, o którym mowa w ust. 2, mogą przystąpić również związki, porozumienia oraz stowarzyszenia jednostek samorządu terytorialnego.
-Art. 120zi. 1. Dla obszaru otoczenia CPK, w celu realizacji zasad określonych w art. 120zg, przyjmuje się strategię rozwoju, zwaną dalej „strategią”.
-2. Strategia określa w szczególności:
-1) cele strategiczne rozwoju w wymiarze społecznym, gospodarczym i przestrzennym;
-2) kierunki działań podejmowanych dla osiągnięcia celów strategicznych;
-3) oczekiwane rezultaty planowanych działań, w tym w wymiarze przestrzennym, oraz wskaźniki ich osiągnięcia;
-4) ustalenia w wymiarze przestrzennym, w tym model struktury funkcjonalnoprzestrzennej obszaru, zasady kształtowania i prowadzenia polityki przestrzennej oraz obszary o istotnym znaczeniu dla realizacji ustaleń strategii;
-5) charakterystykę i lokalizację przedsięwzięć priorytetowych;
-6) system realizacji strategii, w tym wytyczne do sporządzania dokumentów wykonawczych;
-7) ramy finansowe i źródła finansowania, wraz ze wskazaniem perspektywy czasowej, której dotyczą, nie krótszej niż 10 lat, oraz kosztami realizacji i utrzymania inwestycji o charakterze budowlanym, nasadzeń i zalesień;
-8) zakres ustaleń podlegających uwzględnieniu w dokumentach strategicznych i planistycznych jednostek samorządu terytorialnego.
-3. Ustalenia w wymiarze przestrzennym sporządza się w formie opracowania planistycznego, stanowiącego integralną część strategii, składającego się z części tekstowej i graficznej. Część graficzną sporządza się w szczególności w formie kartograficznej, w skali zapewniającej czytelność przyjętych rozwiązań, a dla obszarów o istotnym znaczeniu dla realizacji ustaleń strategii – w skali nie mniejszej niż 1:25 000.
-Art. 120zj. Strategia jest spójna ze średniookresową strategią rozwoju oraz krajową strategią rozwoju regionalnego.
-Art. 120zk. 1. Strategię przyjmuje Rada Ministrów w drodze uchwały.
-2. Projekt strategii opracowuje Pełnomocnik we współpracy z jednostkami samorządu terytorialnego. Jednostki samorządu terytorialnego przedstawiają opinię wobec projektu strategii skierowanego do rozpatrzenia przez Radę Ministrów, w terminie 60 dni od dnia przekazania projektu strategii przez Pełnomocnika.
-3. Projekt strategii podlega konsultacjom, w szczególności z sąsiednimi gminami i ich związkami, partnerami społecznymi i gospodarczymi, Komisją Wspólną Rządu i Samorządu Terytorialnego oraz właściwym dyrektorem regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie.
-4. Pełnomocnik ogłasza na stronie internetowej ministra właściwego do spraw transportu, stronie internetowej Spółki Celowej oraz może ogłaszać w prasie odpowiednio o zasięgu regionalnym lub lokalnym informację o konsultacjach, terminie i sposobie przekazywania uwag do projektu strategii oraz terminie i miejscu spotkań konsultacyjnych. Ogłoszenie w prasie zawiera dodatkowo informację o adresie strony internetowej, na której zamieszczono projekt strategii.
-5. Opinię o projekcie strategii przekazuje się Pełnomocnikowi w sposób określony w ogłoszeniu, w terminie określonym przez ten podmiot, nie krótszym niż 35 dni od dnia ogłoszenia na stronie internetowej informacji, o której mowa w ust. 4.
-Nieprzekazanie opinii w terminie oznacza rezygnację z jej przedstawienia.
-6. Pełnomocnik przygotowuje sprawozdanie z przebiegu i wyników konsultacji, zawierające w szczególności ustosunkowanie się do zgłoszonych uwag wraz z uzasadnieniem, i zamieszcza je na swojej stronie internetowej.
-7. Do projektu strategii stosuje się przepisy działu IV ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
-8. Uchwalenie strategii może być poprzedzone przyjęciem przez Radę Ministrów jej założeń.
-9. Strategia podlega publikacji w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
-Art. 120zl. 1. Z dniem uchwalenia strategii:
-1) strategia rozwoju województwa, powiatu oraz gminy, plan zagospodarowania przestrzennego województwa, plan ogólny gminy, niezgodne z ustaleniami strategii, w celu zachowania spójności tej zgodności, podlegają obowiązkowi aktualizacji zgodnie z ustaleniami strategii, w terminie 24 miesięcy od dnia jej uchwalenia;
-2) strategię rozwoju województwa, powiatu oraz gminy, plan zagospodarowania przestrzennego województwa, plan ogólny gminy oraz miejscowy plan zagospodarowania przestrzennego uchwala się zgodnie z ustaleniami strategii;
-3) zgodnie z ustaleniami strategii wydaje się decyzje zezwalające na lokalizację lub realizację inwestycji na podstawie:
-a) ustawy z dnia 28 marca 2003 r. o transporcie kolejowym i dotyczących lokalizacji linii kolejowej,
-b) ustawy z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych i dotyczących zezwolenia na realizację inwestycji drogowej,
-c) ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego i dotyczących zezwolenia na realizację inwestycji w zakresie lotniska użytku publicznego,
-d) ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu i dotyczących lokalizacji inwestycji w zakresie terminalu oraz inwestycji towarzyszącej,
-e) ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych i dotyczących lokalizacji regionalnej sieci szerokopasmowej,
-f) ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych i dotyczących pozwolenia na realizację takich inwestycji,
-g) ustawy z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących i dotyczących lokalizacji inwestycji w zakresie budowy obiektu energetyki jądrowej oraz inwestycji towarzyszącej,
-h) ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych i dotyczących lokalizacji lub realizacji inwestycji w zakresie strategicznych inwestycji w zakresie sieci przesyłowych, [i) ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących,]
-j) ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym,
-k) ustawy z dnia 14 kwietnia 2023 r. o przygotowaniu i realizacji inwestycji w zakresie elektrowni szczytowo-pompowych oraz inwestycji towarzyszących;
-4) w odniesieniu do obszarów o istotnym znaczeniu dla realizacji ustaleń strategii określenie, w drodze decyzji, warunków zabudowy i zagospodarowania terenu następuje po uzgodnieniu ze Spółką Celową, na zasadach określonych w przepisach o planowaniu i zagospodarowaniu przestrzennym, pod względem zgodności zamierzenia inwestycyjnego ze strategią; Spółka Celowa, uzgadniając projekt decyzji, uwzględnia wpływ zmiany sposobu zagospodarowania terenu objętego projektem decyzji na realizację zasad rozwoju obszaru otoczenia CPK, wskazanych w art. 120zg i określonych w strategii obszaru otoczenia CPK.
-2. Przepis ust. 1 pkt 4 stosuje się odpowiednio do uchwały w przedmiocie ustalenia lokalizacji inwestycji mieszkaniowej oraz decyzji w sprawie pozwolenia na budowę. W takim przypadku termin uzgodnienia projektu uchwały albo decyzji wynosi 30 dni od dnia jej przedłożenia przez właściwy organ.
-Art. 120zm. Pełnomocnik koordynuje monitoring oraz ewaluację realizacji strategii.
-Art. 120zn. 1. W zakresie nieuregulowanym niniejszym działem do zarządzania rozwojem obszaru otoczenia CPK stosuje się przepisy ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
-2. Do zmiany strategii stosuje się odpowiednio przepisy niniejszego działu.
-Art. 120zo. 1. Przepisy niniejszego działu stosuje się do realizacji projektów zorganizowanej relokacji miejscowości albo ich części w związku z nabywaniem nieruchomości na cele realizacji zadań określonych w ustawie, zwanych dalej „projektami relokacji”.
-2. Ilekroć w niniejszym dziale jest mowa o planie miejscowym projektu relokacji, należy przez to rozumieć miejscowy plan zagospodarowania przestrzennego dla projektu relokacji.
-3. Do planu miejscowego projektu relokacji, w zakresie nieuregulowanym w niniejszym dziale, stosuje się przepisy dotyczące miejscowych planów zagospodarowania przestrzennego.
-Art. 120zp. 1. Spółka Celowa jest obowiązana do prowadzenia dialogu z właścicielami nieruchomości oraz jednostkami samorządu terytorialnego w celu identyfikacji zasadności oraz warunków realizacji projektów relokacji.
-2. Projekt relokacji obejmuje w szczególności działania w zakresie:
-1) identyfikacji potrzeb właścicieli nieruchomości oraz innych osób, dla których nabycie nieruchomości skutkuje koniecznością zmiany miejsca zamieszkania lub prowadzenia działalności gospodarczej, w tym gospodarstwa rolnego;
-2) identyfikacji potrzeb jednostek samorządu terytorialnego związanych z koniecznością odtworzenia składników majątkowych służących realizacji zadań publicznych;
-3) sporządzenia i konsultacji dokumentów planistycznych, w szczególności koncepcji urbanistycznych oraz projektów miejscowych planów zagospodarowania przestrzennego;
-4) nabywania i zamiany nieruchomości;
-5) tworzenia korzystnej struktury gruntowej terenu, w szczególności przez podział nieruchomości, scalenie i podział nieruchomości lub scalenie i wymianę gruntów;
-6) w razie potrzeby – budowy lub przebudowy obiektów budowlanych;
-7) utrzymania prowadzenia produkcji rolnej lub leśnej przez właścicieli i dzierżawców nieruchomości rolnych, w szczególności przez programowanie prac urządzeniowo-rolnych, celem ich realizacji w trybie przepisów o scalaniu i wymianie gruntów.
-Art. 120zq. 1. Spółka Celowa może zawierać z jednostkami samorządu terytorialnego porozumienia określające warunki i tryb prowadzenia projektów relokacji.
-2. Porozumienie może obejmować w szczególności:
-1) zasady i tryb odtworzenia składników majątkowych służących realizacji zadań publicznych, w tym dofinansowania realizacji zadań własnych jednostki samorządu terytorialnego;
-2) zasady udziału Spółki Celowej w postępowaniu w przedmiocie uchwalenia planu miejscowego projektu relokacji, w tym sporządzenia projektu tego planu wraz z prognozą oddziaływania na środowisko lub innymi opracowaniami oraz wykonywania czynności w postępowaniu, w szczególności prowadzenia konsultacji społecznych;
-3) zasady pokrywania kosztów postępowania w przedmiocie uchwalenia planu miejscowego projektu relokacji lub uchwalenia albo zmiany planu ogólnego gminy.
-3. Organy wymienione w art. 120zv ust. 1 są obowiązane do współpracy z gminą oraz Spółką Celową w prowadzeniu procesu relokacji. Współpraca obejmuje w szczególności przedstawianie opinii oraz przekazywanie informacji niezbędnych do określenia warunków relokacji, w tym sporządzenia projektu planu miejscowego projektu relokacji.
-Art. 120zr. W przypadku gdy w ramach projektu relokacji utworzone zostają lokale wchodzące w skład mieszkaniowego zasobu gminy, porozumienie, o którym mowa w art. 120zq ust. 1, może określać zasady wyboru osób, którym przysługuje pierwszeństwo zawarcia umowy najmu lokalu. Przepisów uchwały wydanej na podstawie art. 21 ust. 1 pkt 2 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz. 725) w zakresie kryteriów wyboru osób, którym przysługuje pierwszeństwo zawarcia umowy najmu lokalu na czas nieoznaczony i umowy najmu socjalnego lokalu, nie stosuje się.
-Art. 120zs. [1. Plan miejscowy projektu relokacji może obejmować również obszary niezbędne do zapewnienia infrastruktury technicznej i społecznej, rozumianej jako obiekty budowlane służące realizacji celów publicznych w zakresie pomocy społecznej, edukacji i wychowania, kultury, zdrowia i sportu oraz tereny zieleni publicznej – wraz z terenami, obiektami i urządzeniami niezbędnymi do ich funkcjonowania, oraz do zapewnienia inwestycji towarzyszącej, o której mowa w ustawie z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących, a także obszarów przestrzeni publicznej i cmentarzy, związanych z projektem relokacji.] <1. Plan miejscowy projektu relokacji może obejmować również obszary niezbędne do zapewnienia infrastruktury technicznej i społecznej, rozumianej jako obiekty budowlane służące realizacji celów publicznych w zakresie pomocy społecznej, edukacji i wychowania, kultury, zdrowia i sportu oraz obszary zieleni publicznej, o których mowa w art. 2 pkt 25 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym – wraz z terenami, obiektami i urządzeniami niezbędnymi do ich funkcjonowania, a także obszary przestrzeni publicznej i cmentarzy, związane z projektem relokacji.>
-2. Plan miejscowy projektu relokacji uchwala się na wniosek Spółki Celowej zawierający projekt planu miejscowego projektu relokacji, zgodnie z ustaleniami strategii rozwoju obszaru otoczenia CPK, jeżeli została przyjęta, oraz można uchwalić niezależnie od ustaleń planu ogólnego gminy.
-3. (uchylony)
-4. (uchylony)
-5. (uchylony)
-Art. 120zt. Plan miejscowy projektu relokacji sporządza i uchwala się z zastosowaniem postępowania uproszczonego, o którym mowa w art. 27b ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym.
-Art. 120zu. (uchylony)
-Art. 120zv. 1. Wójt występuje o wydanie opinii przez organy i podmioty, o których mowa w art. 17 pkt 6 lit. a i b ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, oraz przez:
-1) ministra właściwego do spraw rolnictwa – w zakresie gruntów rolnych przeznaczanych na cele nierolnicze;
-2) ministra właściwego do spraw środowiska – w zakresie gruntów leśnych przeznaczanych na cele nieleśne.
-2. Niewydanie opinii, o których mowa w ust. 1, w terminie 21 dni od dnia doręczenia wniosku o wydanie opinii traktuje się jako brak zastrzeżeń do wniosku.
-3. Do wniosku o wydanie opinii, o których mowa w ust. 1, załącza się projekt planu miejscowego projektu relokacji wraz z prognozą oddziaływania na środowisko.
-4. Opinie wydawane w postępowaniu w przedmiocie uchwalenia planu miejscowego projektu relokacji zastępują wymagane przepisami prawa rozstrzygnięcia, w szczególności uzgodnienia i decyzje administracyjne.
-Art. 120zw. Do uchwalania planu miejscowego projektu relokacji oraz do gruntów rolnych i leśnych objętych tym planem nie stosuje się przepisów ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych oraz ustawy z dnia 28 września 1991 r. o lasach.
-Art. 121–128. (pominięte)
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym Dział I – Przepisy ogólne Dział II – Zarządzanie przygotowaniem i realizacją Przedsięwzięć Rozdział 1 – Pełnomocnik Rozdział 2 – Spółka Celowa Rozdział 3 – Zasady Zarządzania Rozdział 4 – Sprawozdawczość Dział III – Przygotowanie i realizacja Inwestycji Rozdział 1 – Przygotowanie obszaru Inwestycji wraz z otoczeniem Rozdział 1a – Udostępnienie nieruchomości na cele badań przyrodniczych Rozdział 1b – Udostępnienie nieruchomości na cele badań i pomiarów Rozdział 2 Rozdział 3 – Decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK Rozdział 4 – Nabycie praw do nieruchomości Rozdział 5 – Ustanowienie ograniczeń w korzystaniu z nieruchomości Rozdział 6 – Odszkodowanie za wywłaszczenie Rozdział 7 – Odszkodowanie za ustanowienie ograniczeń w korzystaniu z nieruchomości Rozdział 7a – Decyzja o środowiskowych uwarunkowaniach dla Inwestycji Rozdział 8 – Pozwolenie na budowę i realizacja Inwestycji Rozdział 9 – Postępowanie administracyjne Rozdział 10 – Gospodarowanie nieruchomościami Dział IV – Przygotowanie i realizacja Inwestycji Towarzyszących Rozdział 1 – Zasady ogólne Rozdział 2 – Szczególne zasady zmiany sposobu zagospodarowania terenu na obszarach Inwestycji Towarzyszących Rozdział 3 – Szczególne zasady realizacji Inwestycji Towarzyszących Rozdział 4 – Plan rezerwacji terenu dla Inwestycji Towarzyszących Dział IVA – Planowanie przestrzenne obszaru lokalizacji Inwestycji Dział IVB – Zarządzanie rozwojem obszaru otoczenia Centralnego Portu Komunikacyjnego Dział IVC – Zorganizowana relokacja Dział V – Zmiany w przepisach obowiązujących oraz przepisy przejściowe, dostosowujące i końcowe
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U. z 2024 r. poz. 545), z uwzględnieniem zmian wprowadzonych ustawą z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834) oraz zmian wynikających z przepisów ogłoszonych przed dniem 7 listopada 2024 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 61, art. 63 i art. 84 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), które stanowią:
+„
+Ilekroć w niniejszym rozdziale jest mowa o własności nieruchomości albo właścicielu nieruchomości, należy przez to rozumieć również prawo użytkowania wieczystego nieruchomości albo użytkownika wieczystego nieruchomości.
+1.
+Inwestor, w celu przeprowadzenia badań przyrodniczych niezbędnych do przygotowania i realizacji Inwestycji, w szczególności do sporządzenia karty informacyjnej przedsięwzięcia lub raportu o oddziaływaniu przedsięwzięcia na środowisko, o których mowa w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, może wystąpić do właściwego miejscowo wojewody z wnioskiem o wydanie rozporządzenia o udostępnieniu nieruchomości na cele badań przyrodniczych.
+2.
+Wniosek o wydanie rozporządzenia, o którym mowa w ust. 1, zawiera określenie:
+1)
+gmin lub ich części, na których terenie będą wykonywane badania przyrodnicze;
+2)
+terminu obowiązywania rozporządzenia, przy czym termin ten nie może być dłuższy niż 5 lat.
+3.
+Rozporządzenie, o którym mowa w ust. 1, jest aktem prawa miejscowego, który:
+1)
+uprawnia Inwestora do wstępu na grunt i do obiektów budowlanych oraz dokonywania niezbędnych czynności związanych z wykonywaniem badań przyrodniczych;
+2)
+zobowiązuje właściciela lub inną osobę władającą nieruchomością do udostępnienia nieruchomości na cele badań przyrodniczych;
+3)
+uprawnia Inwestora do wykonywania badań przyrodniczych na terenach zamkniętych, o których mowa w ustawie z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, pod nadzorem zarządzającego tym terenem.
+4.
+Uprawnienia, o których mowa w ust. 3 pkt 1 i 3, nie naruszają:
+1)
+przepisów o ochronie zabytków i opiece nad zabytkami, o ochronie środowiska, o lasach, o drogach publicznych oraz o ochronie informacji niejawnych;
+2)
+przywilejów i immunitetów przysługujących obcym przedstawicielstwom dyplomatycznym, misjom specjalnym i urzędom konsularnym, a także członkom ich personelu oraz innym osobom korzystającym z przywilejów i immunitetów na podstawie ustaw, umów lub powszechnie uznanych zwyczajów międzynarodowych.
+5.
+Uprawnienia, o których mowa w ust. 3 pkt 1 i 3, mogą być wykonywane przez osoby fizyczne, osoby prawne, przedsiębiorców lub jednostki organizacyjne działające na podstawie pisemnego upoważnienia udzielonego przez Inwestora.
+1.
+Rozporządzenie, o którym mowa w art. 31a ust. 1, wydaje się w terminie 14 dni od dnia złożenia wniosku, o którym mowa w art. 31a ust. 2.
+2.
+Rozporządzenie, o którym mowa w art. 31a ust. 1, wchodzi w życie w terminie 30 dni od dnia jego ogłoszenia we właściwym wojewódzkim dzienniku urzędowym.
+3.
+Rozporządzenie, o którym mowa w art. 31a ust. 1, podlega również ogłoszeniu w:
+1)
+Biuletynie Informacji Publicznej i na tablicy ogłoszeń właściwego urzędu wojewódzkiego;
+2)
+Biuletynach Informacji Publicznej i na tablicach ogłoszeń:
+a)
+starostw powiatowych,
+b)
+urzędów gmin
+które w całości lub w części są położone na obszarze objętym rozporządzeniem;
+3)
+sposób zwyczajowo przyjęty na danym terenie;
+4)
+prasie o odpowiednim zasięgu.
+4.
+Koszty ogłoszeń w prasie, o których mowa w ust. 3 pkt 4, ponosi Inwestor.
+Do egzekucji obowiązków wynikających z rozporządzenia, o którym mowa w art. 31a ust. 1, stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
+Szkody wyrządzone w związku z wykonywaniem badań przyrodniczych podlegają naprawieniu na zasadach wynikających z ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
+Przepisów niniejszego rozdziału nie stosuje się do obszaru objętego rozporządzeniem, o którym mowa w art. 28 ust. 1.
+1.
+Jeżeli do przeprowadzenia badań i pomiarów niezbędnych do przygotowania i realizacji Inwestycji, w szczególności:
+1)
+badań archeologicznych,
+2)
+badań konserwatorskich,
+3)
+prac geologicznych,
+4)
+ustalania geotechnicznych warunków posadawiania obiektów budowlanych bez wykonywania robót geologicznych
+konieczne jest udostępnienie nieruchomości, a jej właściciel lub użytkownik wieczysty odmówił jej udostępnienia, Inwestor może wystąpić z wnioskiem do właściwego miejscowo wojewody o wydanie decyzji o udostępnieniu nieruchomości na cele badań i pomiarów. Decyzja o udostępnieniu nieruchomości na cele badań i pomiarów może być także wydana w celu zapewnienia dojazdu umożliwiającego wykonanie badań i pomiarów.
+2.
+Przed złożeniem wniosku o wydanie decyzji, o której mowa w ust. 1, Inwestor jest obowiązany wystąpić do właściciela lub użytkownika wieczystego nieruchomości o zgodę na udostępnienie tej nieruchomości, określając przewidywany sposób, zakres i terminy korzystania z nieruchomości.
+3.
+Przez wystąpienie o zgodę, o której mowa w ust. 2, należy rozumieć przesłanie przez Inwestora na adres wskazany w ewidencji gruntów i budynków, o której mowa w art. 2 pkt 8 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, propozycji porozumienia z właścicielem lub użytkownikiem wieczystym nieruchomości koniecznej do udostępnienia na cele badań i pomiarów.
+4.
+Wszczęcie postępowania w sprawie wydania decyzji o udostępnieniu nieruchomości na cele badań i pomiarów następuje na wniosek Inwestora, w przypadku niezawarcia porozumienia, o którym mowa w ust. 3, w terminie miesiąca od dnia doręczenia propozycji porozumienia właścicielowi lub użytkownikowi wieczystemu.
+5.
+Wniosek o wydanie decyzji, o której mowa w ust. 1, zawiera:
+1)
+określenie granic terenu objętego wnioskiem;
+2)
+oznaczenie nieruchomości lub ich części, których udostępnienie jest konieczne na cele badań i pomiarów;
+3)
+wskazanie pomiarów, badań lub innych prac, które mają być przeprowadzone przez Inwestora;
+4)
+oświadczenie Inwestora o braku zawarcia porozumienia, o którym mowa w ust. 3.
+6.
+Przepisów ust. 2 i 3 oraz ust. 5 pkt 4 nie stosuje się, jeżeli uzyskanie zgody, o której mowa w ust. 2, jest niemożliwe z uwagi na spełnienie przynajmniej jednego z następujących warunków:
+1)
+ważny interes gospodarczy Inwestora;
+2)
+nieuregulowany stan prawny nieruchomości;
+3)
+brak danych w ewidencji gruntów i budynków, o której mowa w art. 2 pkt 8 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, pozwalających na ustalenie danych osobowych, w szczególności adresu właściciela lub użytkownika wieczystego nieruchomości.
+1.
+Właściwy miejscowy wojewoda zawiadamia o wszczęciu postępowania w przedmiocie wydania decyzji do udostępnienia nieruchomości na cele badań i pomiarów:
+1)
+wnioskodawcę;
+2)
+właścicieli i użytkowników wieczystych nieruchomości objętych wnioskiem, przy czym doręczenie zawiadomienia na adres wskazany w ewidencji gruntów i budynków, o której mowa w art. 2 pkt 8 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, jest skuteczne.
+2.
+Do doręczania innych wezwań, zawiadomień i pism, które organ jest obowiązany doręczać stronom w toku postępowania, przepis ust. 1 pkt 2 stosuje się odpowiednio.
+3.
+Nieuregulowany stan prawny nieruchomości objętych wnioskiem o wydanie decyzji o udostępnieniu nieruchomości na cele badań i pomiarów lub brak danych w ewidencji gruntów i budynków, o której mowa w art. 2 pkt 8 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, pozwalających na ustalenie danych osobowych, w szczególności adresu właściciela lub użytkownika wieczystego nieruchomości, nie stanowią przeszkody do wszczęcia i prowadzenia postępowania o wydanie decyzji o udostępnieniu nieruchomości na cele badań i pomiarów oraz jej doręczenia i zawiadomienia o jej wydaniu.
+4.
+Właściwy miejscowo wojewoda doręcza decyzję o udostępnieniu nieruchomości na cele badań i pomiarów wnioskodawcy, a pozostałe strony zawiadamia o jej wydaniu, w drodze obwieszczenia, w urzędzie wojewódzkim i urzędach gmin właściwych ze względu na lokalizację tej inwestycji, na stronach internetowych urzędu wojewódzkiego oraz tych gmin, ze skutkiem doręczenia na dzień obwieszczenia w urzędzie wojewódzkim.
+5.
+Właścicielom i użytkownikom wieczystym nieruchomości objętych decyzją o udostępnieniu nieruchomości na cele badań i pomiarów zawiadomienie o wydaniu decyzji doręcza się na adres określony w ewidencji gruntów i budynków, o której mowa w art. 2 pkt 8 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, przy czym doręczenie zawiadomienia na adres wskazany w tej ewidencji jest skuteczne.
+6.
+Przepisu ust. 5 nie stosuje się w przypadku nieruchomości o nieuregulowanym stanie prawnym.
+7.
+Przepisy ust. 1–6 stosuje się odpowiednio do doręczenia i zawiadamiania stron o decyzji o udostępnieniu nieruchomości na cele badań i pomiarów wydanej przez organ wyższego stopnia.
+8.
+W przypadkach określonych w art. 97 § 1 pkt 1–3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie zawiesza się postępowania o wydanie decyzji o udostępnieniu nieruchomości na cele badań i pomiarów.
+9.
+Przepisów art. 30 § 5 i art. 34 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się w postępowaniach o wydanie decyzji o udostępnieniu nieruchomości na cele badań i pomiarów. W przypadkach określonych w tych przepisach organ prowadzący postępowanie wyznacza z urzędu przedstawiciela uprawnionego do działania w postępowaniu, jeżeli jest to konieczne dla przeprowadzenia postępowania.
+1.
+Decyzję o udostępnieniu nieruchomości na cele badań i pomiarów wydaje się w terminie miesiąca od dnia złożenia wniosku, o którym mowa w art. 31f ust. 4.
+2.
+Decyzję o udostępnieniu nieruchomości na cele badań i pomiarów wydaje się na czas określony, nie dłuższy niż 5 lat.
+3.
+Decyzji, o której mowa w ust. 1, na wniosek Inwestora, uzasadniony interesem społecznym lub ważnym interesem gospodarczym, nadaje się rygor natychmiastowej wykonalności.
+4.
+Organem wyższego stopnia w stosunku do właściwego miejscowo wojewody jest minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
+5.
+Do egzekucji obowiązków wynikających z decyzji o udostępnieniu nieruchomości na cele badań i pomiarów stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
+6.
+Odwołanie od decyzji, o której mowa w ust. 1, wnosi się w terminie 7 dni od dnia jej doręczenia stronie albo w terminie 14 dni od dnia obwieszczenia lub doręczenia zawiadomienia o jej wydaniu.
+7.
+Odwołanie od decyzji, o której mowa w ust. 1, zawiera zarzuty odnoszące się do decyzji, określać istotę i zakres żądania będącego przedmiotem odwołania oraz wskazywać dowody uzasadniające to żądanie.
+8.
+Odwołanie od decyzji, o której mowa w ust. 1, rozpatruje się w terminie 14 dni od dnia jego wniesienia. Przepisu art. 135 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
+9.
+W postępowaniu przed organem wyższego stopnia oraz przed sądem administracyjnym nie można uchylić decyzji, o której mowa w ust. 1, ani stwierdzić jej nieważności w całości, gdy wadą dotknięta jest tylko część decyzji w zakresie nieruchomości lub działki.
+10.
+W postępowaniu administracyjnym w sprawie stwierdzenia nieważności decyzji, o której mowa w ust. 1, nie stosuje się przepisu art. 159 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+1.
+Inwestor po zakończeniu pomiarów, badań lub innych prac, o których mowa w art. 31f ust. 1, jest obowiązany przywrócić nieruchomość do stanu poprzedniego.
+2.
+Jeżeli przywrócenie nieruchomości do stanu poprzedniego nie jest możliwe albo powoduje nadmierne trudności lub koszty, właścicielom lub użytkownikom wieczystym nieruchomości przysługuje od Inwestora odszkodowanie.
+3.
+Odszkodowanie odpowiada wartości poniesionych szkód. Jeżeli wskutek tych zdarzeń zmniejszy się wartość nieruchomości, odszkodowanie powiększa się o kwotę odpowiadającą temu zmniejszeniu.
+4.
+Odszkodowanie przysługuje również za okres braku możliwości korzystania z nieruchomości lub jej części objętej decyzją, o której mowa w art. 31h ust. 1.
+5.
+Do określenia wysokości odszkodowania przepisy art. 130, art. 134 i art. 135 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami stosuje się odpowiednio.
+6.
+Decyzję o odszkodowaniu wydaje na wniosek właściciela lub użytkownika wieczystego nieruchomości właściwy miejscowo wojewoda w terminie miesiąca od dnia złożenia wniosku. Wniosek, o którym mowa w zdaniu pierwszym, składa się nie później niż w terminie miesiąca od dnia stwierdzenia wystąpienia szkody i nie później niż w terminie 3 miesięcy od dnia zakończenia badań lub pomiarów, o których mowa w art. 31f ust. 1.
+7.
+Organem wyższego stopnia w stosunku do właściwego miejscowo wojewody jest minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
+1.
+Do skarg na decyzję, o której mowa w art. 31h ust. 1, stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935), z wyłączeniem art. 61 § 3–6, art. 115–122 i art. 152 tej ustawy, z tym że:
+1)
+przekazanie akt i odpowiedzi na skargę następuje w terminie 15 dni od dnia wniesienia skargi;
+2)
+skargę rozpoznaje się w terminie 30 dni od dnia jej wpłynięcia do sądu.
+2.
+Termin rozpoznania skargi kasacyjnej wynosi 2 miesiące od dnia jej wniesienia.
+(uchylony)
+1.
+Wydanie decyzji o środowiskowych uwarunkowaniach dla Inwestycji następuje zgodnie z przepisami ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, z uwzględnieniem przepisów niniejszej ustawy.
+2.
+We wniosku o wydanie decyzji, o której mowa w ust. 1, wskazuje się teren, na którym jest planowane przeprowadzenie prac wstępnych, o których mowa w art. 75b, o ile prace takie są przewidziane do realizacji.
+Przez prace wstępne należy rozumieć:
+1)
+usuwanie drzew i krzewów na terenie objętym decyzją;
+2)
+badania archeologiczne;
+3)
+badania konserwatorskie;
+4)
+prace geologiczne;
+5)
+ustalanie geotechnicznych warunków posadawiania obiektów budowlanych bez wykonywania robót geologicznych;
+6)
+przeprowadzenie kompensacji przyrodniczej;
+7)
+niwelację terenu, zagospodarowanie terenu budowy wraz z budową tymczasowych obiektów budowlanych, wykonanie przyłączy do sieci infrastruktury technicznej na potrzeby budowy oraz innych prac niewymagających sporządzenia projektu architektoniczno-budowlanego;
+8)
+rozbiórkę istniejących obiektów budowlanych.
+1.
+Decyzja, o której mowa w art. 75a ust. 1, w której wskazano teren, o którym mowa w art. 75a ust. 2, uprawnia do nieodpłatnego wejścia na teren nieruchomości:
+1)
+należących do:
+a)
+zasobu nieruchomości Skarbu Państwa, o którym mowa w art. 21 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami,
+b)
+gminnego zasobu nieruchomości, o którym mowa w art. 24 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami,
+c)
+powiatowego zasobu nieruchomości, o którym mowa w art. 25a ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami,
+d)
+wojewódzkiego zasobu nieruchomości, o którym mowa w art. 25c ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami,
+e)
+zasobu nieruchomości związków jednostek samorządu terytorialnego;
+2)
+stanowiących własność Skarbu Państwa, zarządzanych przez Państwowe Gospodarstwo Leśne Lasy Państwowe zgodnie z ustawą z dnia 28 września 1991 r. o lasach,
+3)
+stanowiących własność Skarbu Państwa, zarządzanych przez Państwowe Gospodarstwo Wodne Wody Polskie zgodnie z ustawą z dnia 20 lipca 2017 r. – Prawo wodne,
+4)
+stanowiących własność Skarbu Państwa, powierzonych Krajowemu Zasobowi Nieruchomości zgodnie z ustawą z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2024 r. poz. 1026 i 1089),
+5)
+stanowiących własność Skarbu Państwa, powierzonych Krajowemu Ośrodkowi Wsparcia Rolnictwa zgodnie z ustawą z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2024 r. poz. 589, 1089 i 1230)
+w celu wykonania prac wstępnych, o których mowa w art. 75b, o ile nieruchomości te nie są przedmiotem najmu lub dzierżawy, użyczenia lub innego stosunku zobowiązaniowego, trwałego zarządu lub nie zostały obciążone ograniczonymi prawami rzeczowymi, z wyłączeniem służebności przesyłu.
+2.
+Warunki wejścia na teren nieruchomości, o których mowa w ust. 1, podmiot, na rzecz którego wydano decyzję o środowiskowych uwarunkowaniach, o której mowa w ust. 1, nie później niż w terminie 30 dni przed planowanym wejściem na teren nieruchomości uzgadnia, w drodze pisemnego porozumienia, z właściwym organem gospodarującym zasobem nieruchomości, Państwowym Gospodarstwem Leśnym Lasy Państwowe, Państwowym Gospodarstwem Wodnym Wody Polskie, Krajowym Zasobem Nieruchomości lub Krajowym Ośrodkiem Wsparcia Rolnictwa.
+3.
+W przypadku niezawarcia porozumienia, o którym mowa w ust. 2, w terminie 30 dni od dnia doręczenia projektu porozumienia właściwym organom gospodarującym zasobem nieruchomości, Państwowemu Gospodarstwu Leśnemu Lasy Państwowe, Państwowemu Gospodarstwu Wodnemu Wody Polskie, Krajowemu Zasobowi Nieruchomości lub Krajowemu Ośrodkowi Wsparcia Rolnictwa, do egzekucji uprawnień, o których mowa w ust. 1, stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
+3a.
+Prace wstępne mogą być również wykonywane na terenie nieruchomości innych niż wskazane w ust. 1, o ile Inwestor posiada do nich tytuł prawny oraz o ile znajdują się one w granicach terenu, na którym będzie realizowana Inwestycja, przewidywanego na etapie uzyskiwania decyzji, o której mowa w art. 75a ust. 1.
+4.
+Za szkody powstałe w wyniku prac wstępnych przysługuje od podmiotu, na rzecz którego wydano decyzję o środowiskowych uwarunkowaniach, o której mowa w ust. 1, odszkodowanie ustalone na zasadach wynikających z ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
+1.
+Do usuwania drzew i krzewów znajdujących się na nieruchomościach objętych decyzją o środowiskowych uwarunkowaniach, o której mowa w art. 75c ust. 1, z wyjątkiem drzew i krzewów usuwanych z nieruchomości wpisanej do rejestru zabytków, nie stosuje się przepisów o ochronie przyrody w zakresie obowiązku uzyskiwania zezwoleń na ich usunięcie oraz opłat z tym związanych.
+2.
+Drewno pozyskane z wycinki drzew i krzewów z nieruchomości, o których mowa w art. 75c ust. 1, staje się nieodpłatnie własnością odpowiednio organu gospodarującego zasobem nieruchomości, Państwowego Gospodarstwa Leśnego Lasy Państwowe, Państwowego Gospodarstwa Wodnego Wody Polskie, Krajowego Zasobu Nieruchomości lub Krajowego Ośrodka Wsparcia Rolnictwa.
+3.
+Koszty usuwania drzew i krzewów oraz ich uprzątnięcia ponosi podmiot, na rzecz którego wydano decyzję o środowiskowych uwarunkowaniach, o której mowa w art. 75c ust. 1.
+1.
+Wykonywanie prac wstępnych, o których mowa w art. 75b pkt 7 i 8, wymaga uzyskania pozwolenia na prace wstępne.
+2.
+Do wniosku o wydanie pozwolenia na prace wstępne Inwestor dołącza:
+1)
+decyzję o środowiskowych uwarunkowaniach, o której mowa w art. 71 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko;
+2)
+inne decyzje wymagane przepisami odrębnymi określające warunki prowadzenia prac wstępnych, w szczególności w zakresie ochrony środowiska naturalnego;
+3)
+dokumenty potwierdzające dysponowanie przez Inwestora tytułem prawnym do nieruchomości.
+3.
+Wydanie pozwolenia na prace wstępne nie wymaga uzyskania decyzji dotyczącej wyłączenia z produkcji użytków rolnych.
+4.
+Pozwolenie na prace wstępne wydaje wojewoda, w drodze decyzji. Organem wyższego stopnia w stosunku do wojewody jest minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
+5.
+Przedmiotem oceny oddziaływania na środowisko prowadzonej w sprawie wydania pozwolenia na prace wstępne jest zakres prac wstępnych. Przepisy art. 88–93 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko stosuje się odpowiednio.
+6.
+Decyzję, o której mowa w ust. 4, wojewoda wydaje w terminie 30 dni od dnia wszczęcia postępowania. Przepis art. 35 § 5 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się.
+7.
+Decyzja, o której mowa w ust. 4, podlega natychmiastowemu wykonaniu.
+8.
+Odwołanie od decyzji, o której mowa w ust. 4, wnosi się w terminie 14 dni od dnia doręczenia decyzji stronie albo dnia obwieszczenia o wydaniu decyzji.
+9.
+Odwołanie od decyzji, o której mowa w ust. 4, zawiera zarzuty odnoszące się do decyzji, określa istotę i zakres żądania będącego przedmiotem odwołania oraz wskazuje dowody uzasadniające to żądanie.
+10.
+Odwołanie od decyzji, o której mowa w ust. 4, rozpatruje się w terminie 14 dni od dnia jego wniesienia.
+11.
+W postępowaniu przed organem wyższego stopnia oraz przed sądem administracyjnym nie można uchylić decyzji, o której mowa w ust. 4, w całości ani stwierdzić jej nieważności, gdy wadą dotknięta jest tylko część decyzji dotycząca części inwestycji w zakresie CPK.
+12.
+Do skargi na decyzję, o której mowa w ust. 4, stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi, z wyłączeniem art. 61 § 3 tej ustawy dla prac niestanowiących przedsięwzięcia mogącego znacząco oddziaływać na środowisko, z tym że:
+1)
+przekazanie akt i odpowiedzi na skargę następuje w terminie 15 dni od dnia otrzymania skargi;
+2)
+skargę rozpatruje się w terminie 30 dni od dnia otrzymania akt wraz z odpowiedzią na skargę.
+13.
+Termin rozpatrzenia skargi kasacyjnej na orzeczenie sądu administracyjnego dotyczące decyzji, o której mowa w ust. 4, wynosi 2 miesiące od dnia jej wniesienia.
+14.
+W postępowaniach w przedmiocie pozwolenia na prace wstępne stosuje się odpowiednio przepisy rozdziału 9 niniejszego działu, z uwzględnieniem przepisów niniejszego artykułu.
+1.
+Jeżeli realizacja prac wstępnych wymaga zgody wodnoprawnej, zgodę tę wydaje właściwy organ Państwowego Gospodarstwa Wodnego Wody Polskie w terminie nie dłuższym niż 30 dni od dnia złożenia wniosku o jej wydanie. W sprawach dotyczących zgody wodnoprawnej nie stosuje się przepisów art. 396 ust. 1 pkt 7, art. 407 ust. 2 pkt 3 oraz art. 422 pkt 3 ustawy z dnia 20 lipca 2017 r. – Prawo wodne.
+2.
+Dla ustalenia stanu prawnego nieruchomości, o których mowa w art. 409 ust. 1 pkt 2 lit. e ustawy z dnia 20 lipca 2017 r. – Prawo wodne, siedziby i adresy właścicieli tych nieruchomości określa się według katastru nieruchomości.
+1.
+Celem utworzenia, utrzymania i rozwijania Zasobu jest zapewnienie możliwości realizacji Przedsięwzięć oraz stworzenie optymalnych warunków rozwoju społeczno-gospodarczego oraz przestrzennego na obszarze otoczenia CPK.
+2.
+Spółka Celowa rozwija Zasób, nabywając prawa do nieruchomości gruntowych zabudowanych oraz niezabudowanych, nieruchomości budynkowych oraz lokalowych, położonych na terenie kraju, w szczególności na terenach gmin wskazanych w przepisach wydanych na podstawie art. 28 ust. 1 i art. 99 ust. 11.
+3.
+Skarb Państwa powierza Spółce Celowej wykonywanie prawa własności i innych praw rzeczowych na jego rzecz w stosunku do nieruchomości Skarbu Państwa stanowiących Zasób oraz włączanych do Zasobu, w tym ustanawianie ograniczonych praw rzeczowych oraz użytkowania wieczystego. W przypadku oddania nieruchomości w użytkowanie wieczyste Spółka Celowa wykonuje kompetencje właściwego organu określone w dziale II ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami. Przepisów art. 63–66 tej ustawy nie stosuje się.
+4.
+Spółka Celowa, obejmując we władanie powierzone nieruchomości Skarbu Państwa, wykonuje we własnym imieniu prawa i obowiązki z nimi związane w stosunku do osób trzecich, jak również we własnym imieniu wykonuje związane z tymi nieruchomościami obowiązki publicznoprawne.
+W przypadku złożenia przez Inwestora wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 71 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, dotyczącej Inwestycji Towarzyszącej prowadzone postępowania o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu, które dotyczą chociażby w części nieruchomości objętej którymkolwiek z wariantów zawartych we wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, zawiesza się do czasu wydania prawomocnej decyzji o środowiskowych uwarunkowaniach lub decyzji o umorzeniu postępowania.
+1.
+W przypadku wydania, na podstawie wniosku Inwestora, przez organ pierwszej instancji decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 71 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, dotyczącej Inwestycji Towarzyszącej:
+1)
+nie wszczyna się postępowań o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu, które dotyczą chociażby w części nieruchomości objętej decyzją o środowiskowych uwarunkowaniach;
+2)
+umarza się prowadzone postępowanie o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu, które dotyczą chociażby w części nieruchomości objętej decyzją o środowiskowych uwarunkowaniach;
+3)
+tracą moc decyzje o warunkach zabudowy i zagospodarowania terenu, które dotyczą chociażby w części nieruchomości objętej decyzją o środowiskowych uwarunkowaniach.
+2.
+Pełnomocnik może udzielić zgody na wszczęcie postępowania o wydanie decyzji o ustaleniu lokalizacji inwestycji celu publicznego, które dotyczą chociażby w części nieruchomości objętej decyzją o środowiskowych uwarunkowaniach. Zgodę dołącza się do wniosku o wszczęcie postępowania.
+3.
+Postępowania, o których mowa w ust. 1 pkt 2, są umarzane po upływie 14 dni od dnia wydania decyzji, o której mowa w ust. 1.
+4.
+Decyzje, o których mowa w ust. 1 pkt 3, tracą moc po upływie 14 dni od dnia wydania decyzji, o której mowa w ust. 1.
+5.
+Przepisu ust. 1 pkt 2 i 3 nie stosuje się do decyzji o ustaleniu lokalizacji inwestycji celu publicznego wskazanych przez Pełnomocnika.
+6.
+Pełnomocnik przekazuje właściwym gminom informacje o decyzjach, o których mowa w ust. 5, w terminie 7 dni od dnia wydania decyzji, o której mowa w ust. 1.
+7.
+Przepis ust. 1 pkt 1 stosuje się od dnia wydania przez organ pierwszej instancji decyzji o środowiskowych uwarunkowaniach do dnia:
+1)
+wejścia w życie planu rezerwacji, o którym mowa w art. 120m ust. 2, albo
+2)
+w którym decyzja uchylająca decyzję o środowiskowych uwarunkowaniach będąca podstawą przyjęcia planu rezerwacji stała się ostateczna, albo
+3)
+w którym decyzja stwierdzająca nieważność decyzji o środowiskowych uwarunkowaniach będąca podstawą przyjęcia planu rezerwacji stała się ostateczna, albo
+4)
+w którym upłynęło 6 lat od dnia, w którym decyzja o środowiskowych uwarunkowaniach stała się ostateczna.
+8.
+Przepisu ust. 1 pkt 3 nie stosuje się do decyzji o warunkach zabudowy i zagospodarowania terenu, na podstawie których do dnia wydania decyzji o środowiskowych uwarunkowaniach wydano ostateczną decyzję – pozwolenie na budowę albo dokonano zgłoszenia, o którym mowa w art. 30 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, i upłynął termin do wniesienia przez właściwy organ sprzeciwu.
+9.
+Do stwierdzenia wygaśnięcia decyzji o warunkach zabudowy i zagospodarowania terenu przepisów art. 162 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
+10.
+W ciągu 3 miesięcy od dnia otrzymania decyzji o środowiskowych uwarunkowaniach wójt, burmistrz lub prezydent miasta opracowuje wykaz decyzji, o których mowa w ust. 1 pkt 3.
+11.
+Wykaz, o którym mowa w ust. 10, jest przekazywany właściwym miejscowo organom administracji architektoniczno-budowlanej i nadzoru budowlanego oraz podlega ogłoszeniu na stronie podmiotowej Biuletynu Informacji Publicznej właściwej gminy.
+12.
+Przepisy ust. 1–11 stosuje się do zmiany przez organ pierwszej instancji decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 71 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, dotyczącej Inwestycji Towarzyszącej.
+13.
+W sytuacji gdy decyzja uchylająca decyzję o środowiskowych uwarunkowaniach lub decyzja stwierdzająca nieważność decyzji o środowiskowych uwarunkowaniach nie dotyczy wszystkich nieruchomości objętych decyzją o środowiskowych uwarunkowaniach będącą podstawą przyjęcia planu rezerwacji, przepis ust. 7 pkt 1 stosuje się do nieruchomości w zakresie, w jakim decyzja ta nie została uchylona, lub w zakresie, w jakim nie stwierdzono jej nieważności.
+14.
+Inwestor będący wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwarunkowaniach dotyczącej Inwestycji Towarzyszącej doręcza niezwłocznie kopię:
+1)
+wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, bez załączników, o których mowa w art. 74 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, i z wyłączeniem mapy, o której mowa w art. 74 ust. 1 pkt 3a tej ustawy,
+2)
+decyzji kończącej postępowanie w przedmiocie środowiskowych uwarunkowań
+właściwym wójtom, burmistrzom, prezydentom miast, zarządowi województwa i wojewodzie.
+15.
+Przepis ust. 14 pkt 1 stosuje się odpowiednio przy zmianie wniosku o wydanie decyzji o środowiskowych uwarunkowaniach.
+W przypadku złożenia przez Inwestora wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 71 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, dotyczącej Inwestycji Towarzyszącej, lub wydania takiej decyzji nie uchwala się:
+1)
+planu ogólnego gminy,
+2)
+miejscowego planu zagospodarowania przestrzennego,
+3)
+planu zagospodarowania przestrzennego województwa,
+4)
+(uchylony)
+5)
+uchwały o utworzeniu parku kulturowego,
+6)
+uchwały w sprawie zasad i warunków sytuowania obiektów małej architektury, tablic reklamowych i urządzeń reklamowych oraz ogrodzeń, ich gabarytów, standardów jakościowych oraz rodzajów materiałów budowlanych, z jakich mogą być wykonane,
+7)
+uchwały w sprawie utworzenia lub powiększenia parku krajobrazowego,
+8)
+uchwały w sprawie wyznaczenia obszaru chronionego krajobrazu oraz uchwały w sprawie wprowadzenia zakazów na obszarze chronionego krajobrazu,
+9)
+uchwały w sprawie ustanowienia pomnika przyrody, stanowiska dokumentacyjnego, użytku ekologicznego lub zespołu przyrodniczo-krajobrazowego,
+10)
+statutu uzdrowiska,
+11)
+zarządzenia regionalnego dyrektora ochrony środowiska w sprawie rezerwatów przyrody
+których ustalenia są sprzeczne z lokalizacją inwestycji określoną we wniosku, w zakresie wariantu preferowanego przez inwestora, lub decyzji.
+1.
+Spółka Celowa doręcza kopię:
+1)
+wniosku Inwestora o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 71 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, dotyczącej Inwestycji Towarzyszącej, bez załączników, o których mowa w art. 74 ust. 1 tej ustawy, z wyłączeniem mapy, o której mowa w art. 74 ust. 1 pkt 3a tej ustawy,
+2)
+decyzji o umorzeniu postępowania w sprawie wydania decyzji o środowiskowych uwarunkowaniach oraz
+3)
+decyzji o środowiskowych uwarunkowaniach
+właściwym wójtom, burmistrzom, prezydentom miast oraz zarządowi województwa.
+2.
+Przepis ust. 1 pkt 1 stosuje się odpowiednio przy zmianie wniosku o wydanie decyzji o środowiskowych uwarunkowaniach.
+Przepisów art. 120a-120c nie stosuje się do terenów objętych aktami wydanymi na podstawie art. 28 ust. 1 lub art. 120.
+1.
+Ilekroć w przepisach:
+1)
+ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych jest mowa o strategicznej inwestycji w zakresie sieci przesyłowej, należy przez to rozumieć również inne inwestycje wymienione w art. 119 ust. 1 pkt 3,
+2)
+ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym jest mowa o strategicznej inwestycji w sektorze naftowym, należy przez to rozumieć również inne inwestycje wymienione w art. 119 ust. 1 pkt 6
+o ile stanowią Inwestycje Towarzyszące w rozumieniu niniejszej ustawy.
+2.
+Rada Ministrów może, w drodze rozporządzenia, ustanowić inwestorami Inwestycji Towarzyszących inne podmioty niż inwestorzy wskazani w ustawach, o których mowa w ust. 1, uwzględniając potencjał i doświadczenie danego podmiotu w realizacji inwestycji tego typu oraz region, na którego obszarze dany podmiot prowadzi przeważającą działalność.
+3.
+Rada Ministrów może, w drodze rozporządzenia, wskazać inwestycje spośród Inwestycji Towarzyszących dotyczące dystrybucji energii elektrycznej, gazu, ropy naftowej i produktów pochodnych, do których mają zastosowanie przepisy ustaw, o których mowa w art. 119 ust. 1 pkt 3 i 6, uwzględniając szczególny charakter oraz cel Inwestycji Towarzyszących.
+4.
+Do podmiotów wskazanych w rozporządzeniu, o którym mowa w ust. 2, przepisy ustaw, o których mowa w ust. 1, stosuje się odpowiednio.
+1.
+W przypadku gdy Inwestycja Towarzysząca wymaga wejścia na teren cudzej nieruchomości w celu wykonania prac polegających na:
+1)
+wycince drzew i krzewów, wykonaniu kompensacji przyrodniczej,
+2)
+przeprowadzeniu badań archeologicznych, hydrogeologicznych, prac geologicznych lub określeniu geotechnicznych warunków posadowienia obiektu, lub wykonaniu innych czynności niezbędnych do sporządzenia dokumentacji technicznej bezpośrednio związanej z Inwestycją Towarzyszącą,
+3)
+przeprowadzeniu pomiarów, badań lub innych prac niezbędnych do sporządzenia karty informacyjnej przedsięwzięcia lub raportu o oddziaływaniu przedsięwzięcia na środowisko
+Inwestor Inwestycji Towarzyszącej występuje do właściciela lub użytkownika wieczystego nieruchomości o zgodę na wejście na teren nieruchomości lub jej części oraz uzgadnia z nim przewidywany sposób, zakres i termin korzystania z nieruchomości.
+2.
+W przypadku gdy czynności, o których mowa w ust. 1, wymagają wejścia na teren nieruchomości stanowiących teren zamknięty lub objętych obszarem kolejowym, Inwestor Inwestycji Towarzyszącej występuje odpowiednio do organu, który wydał decyzję o zamknięciu terenu, zarządcy infrastruktury kolejowej lub innego podmiotu zarządzającego obszarem kolejowym o zgodę na wejście na teren nieruchomości lub jej części oraz uzgadnia przewidywany sposób, zakres i termin korzystania z nieruchomości.
+3.
+W przypadku nieuzyskania zgody, o której mowa w ust. 1 albo 2, w terminie 30 dni od dnia otrzymania wystąpienia o taką zgodę przez właściciela lub użytkownika wieczystego nieruchomości albo organu, który wydał decyzję o zamknięciu terenu, zarządcę infrastruktury kolejowej lub inny podmiot zarządzający obszarem kolejowym, Inwestor Inwestycji Towarzyszącej występuje do wojewody z wnioskiem o wydanie decyzji o zezwoleniu na wejście na teren tej nieruchomości lub jej części.
+4.
+Wniosek o wydanie decyzji, o której mowa w ust. 3, zawiera:
+1)
+ogólną charakterystykę Inwestycji Towarzyszącej;
+2)
+określenie granic terenu objętego wnioskiem;
+3)
+oznaczenie nieruchomości lub ich części, na które wejście jest konieczne w celu realizacji zadań określonych w ust. 1, wraz ze wskazaniem zakresu tych zadań;
+4)
+decyzję środowiskową, jeżeli została wydana;
+5)
+oświadczenie Inwestora Inwestycji Towarzyszącej o braku zgody, o której mowa w ust. 1 albo 2.
+5.
+Wojewoda wydaje decyzję, o której mowa w ust. 3, w ciągu 30 dni od dnia złożenia wniosku. Decyzja określa sposób, zakres i terminy korzystania z nieruchomości. Decyzja zastępuje zgodę organu, który wydał decyzję o zamknięciu terenu zamkniętego, o której mowa w art. 13 ust. 3 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne.
+6.
+W przypadku nieuregulowanego stanu prawnego nieruchomości, o której mowa w ust. 1, lub braku w ewidencji gruntów i budynków, o której mowa w art. 2 pkt 8 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, danych pozwalających na ustalenie danych osobowych, w szczególności adresu właściciela lub użytkownika wieczystego tej nieruchomości, przepisów ust. 1 dotyczących uzyskania zgody właściciela lub użytkownika wieczystego nieruchomości i ust. 4 pkt 5 nie stosuje się, a wojewoda wydaje decyzję o zezwoleniu, o której mowa w ust. 3, w terminie 30 dni od dnia złożenia wniosku przez Inwestora Inwestycji Towarzyszącej.
+7.
+Sposób, zakres i terminy korzystania z nieruchomości uzgodnione na podstawie ust. 1 albo 2 albo określone w decyzji, o której mowa w ust. 3, nie mogą powodować:
+1)
+zagrożenia bezpieczeństwa ruchu drogowego lub kolejowego;
+2)
+wstrzymania ruchu kolejowego;
+3)
+zamknięcia dróg krajowych lub dróg o znaczeniu obronnym, chyba że istnieje możliwość zorganizowania objazdów;
+4)
+wstrzymania ruchu w żegludze śródlądowej lub zagrożenia bezpieczeństwa żeglugi śródlądowej;
+5)
+utrudnień prowadzenia działań z zakresu ochrony przeciwpowodziowej.
+8.
+Decyzję, o której mowa w ust. 3, wydaje się na czas określony, nie dłuższy niż 3 lata. Decyzji nadaje się rygor natychmiastowej wykonalności.
+1.
+Inwestor Inwestycji Towarzyszącej po zakończeniu czynności, o których mowa w art. 120g, jest obowiązany przywrócić nieruchomość do stanu poprzedniego. Jeżeli przywrócenie nieruchomości do stanu poprzedniego nie jest możliwe, właścicielom lub użytkownikom wieczystym nieruchomości przysługuje odszkodowanie.
+2.
+Odszkodowanie odpowiada wartości poniesionych szkód oraz uwzględniać brak dostępu do nieruchomości lub jej części w czasie wykonywania czynności, o których mowa w art. 120g. Jeżeli wskutek poniesionych szkód zmniejszy się wartość nieruchomości, w odszkodowaniu uwzględnia się kwotę odpowiadającą temu zmniejszeniu.
+3.
+Decyzję w zakresie odszkodowania wydaje wojewoda. Obowiązek zapłaty odszkodowania obciąża Inwestora Inwestycji Towarzyszącej, który na podstawie odrębnego porozumienia zawartego z wojewodą może pokryć koszty powstałe w związku z ustaleniem wysokości odszkodowań.
+1.
+Inwestor Inwestycji Towarzyszącej może podzielić zamierzenie budowlane objęte jednym zezwoleniem na realizację tej inwestycji na odcinki.
+2.
+Dla każdego odcinka ustanawia się odrębnego kierownika budowy oraz opracowuje i prowadzi odrębną dokumentację budowy.
+3.
+Inwestor Inwestycji Towarzyszącej może ustanowić jednego inspektora nadzoru inwestorskiego dla całego zamierzenia budowlanego lub ustanowić kilku inspektorów dla poszczególnych odcinków.
+4.
+Podziału zamierzenia budowlanego na odcinki inwestor dokonuje w zawiadomieniu o zamierzonym terminie rozpoczęcia robót budowlanych, wskazując granice między poszczególnymi odcinkami.
+Do przystąpienia do użytkowania odcinka linii kolejowej stosuje się odpowiednio przepisy dotyczące przystąpienia do użytkowania drogi publicznej.
+Odstąpienie od zatwierdzonego projektu budowlanego, w zakresie objętym projektem zagospodarowania terenu w liniach rozgraniczających Inwestycji Towarzyszącej, nie stanowi istotnego odstąpienia, o którym mowa w art. 36a ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, jeżeli Inwestor Inwestycji Towarzyszącej uzyskał opinie, uzgodnienia, pozwolenia i inne dokumenty, wymagane przepisami szczególnymi. Dokumenty te Inwestor Inwestycji Towarzyszącej załącza do wniosku o pozwolenie na użytkowanie lub zawiadomienia o zakończeniu budowy.
+1.
+Mienie wchodzące w skład linii kolejowej o państwowym znaczeniu, będącej własnością lub przedmiotem użytkowania wieczystego Spółki Celowej lub spółki, o której mowa w art. 15 ust. 1, nie podlega sprzedaży.
+2.
+Za zgodą Pełnomocnika mienie, o którym mowa w ust. 1, może być zbyte na rzecz PKP SA lub PLK SA, o których mowa w ustawie z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”.
+3.
+Do wniosku złożonego przez PKP SA lub PLK SA o wydanie zgody dołącza się opinię Spółki Celowej lub spółki, o której mowa w art. 15 ust. 1.
+4.
+Opinia, o której mowa w ust. 3, jest wydawana na wniosek PKP SA lub PLK SA, o których mowa w ustawie z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”, w terminie nie dłuższym niż 30 dni od dnia otrzymania wniosku o wydanie opinii. Niewydanie opinii w tym terminie traktuje się jako brak zastrzeżeń do wniosku o wydanie zgody, o której mowa w ust. 2.
+5.
+Do czynności prawnych, o których mowa w ust. 2, nie stosuje się art. 38–41 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym.
+6.
+Czynności prawne dokonane z naruszeniem ust. 2 są nieważne.
+7.
+Zgoda, o której mowa w ust. 2, lub odmowa zgody wyrażana jest w drodze decyzji administracyjnej.
+1.
+W celu zabezpieczenia prawidłowego przygotowania i realizacji Inwestycji Towarzyszącej, na wniosek Inwestora tej inwestycji, dokonuje się rezerwacji obszaru realizacji takiej inwestycji wskazanego w decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 71 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, wydanej na podstawie wniosku Inwestora przez organ pierwszej instancji.
+2.
+Rezerwacji obszaru inwestycji dokonuje wojewoda w planie rezerwacji, wydawanym w formie zarządzenia stanowiącego akt prawa miejscowego, w terminie nie dłuższym niż 30 dni od dnia wpływu wniosku, o którym mowa w ust. 1. Przepis art. 3 § 2 pkt 9 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi stosuje się.
+3.
+Przyjęcie planu rezerwacji nie wymaga zgodności z planem ogólnym gminy, miejscowym planem zagospodarowania przestrzennego oraz planem zagospodarowania przestrzennego województwa.
+4.
+Obszar planu rezerwacji mogą stanowić wyłącznie tereny wskazane w decyzji, o której mowa w ust. 1, jako tereny lokalizacji Inwestycji Towarzyszącej, oraz:
+1)
+obszary oddziaływania akustycznego;
+2)
+obszary oddziaływania elektromagnetycznego;
+3)
+tereny, na których zgodnie z przepisami art. 73 ust. 4 i 5 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, 834, 1089 i 1222) nie mogą być lokalizowane zakłady stwarzające zagrożenie wystąpienia poważnej awarii przemysłowej, wielorodzinne budynki mieszkalne, obiekty użyteczności publicznej, budynki zamieszkania zbiorowego, drogi krajowe oraz linie kolejowe o znaczeniu państwowym;
+4)
+tereny leżące w odległości, o której mowa w art. 13i ust. 3 pkt 5 lit. a tiret czternaste-siedemnaste ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym.
+5.
+W planie rezerwacji określa się przebieg Inwestycji Towarzyszącej wynikający z decyzji o środowiskowych uwarunkowaniach, o której mowa w ust. 1, obszar oddziaływania tej inwestycji, w szczególności obszary i tereny, o których mowa w ust. 4, szczególne zasady gospodarowania nieruchomościami, planowania i zagospodarowania przestrzennego oraz realizacji inwestycji celu publicznego.
+6.
+Plan rezerwacji składa się z części tekstowej i graficznej. Część graficzna przedstawia obszar objęty rezerwacją na mapie sporządzonej z wykorzystaniem treści mapy ewidencyjnej.
+7.
+Rezerwacji obszaru inwestycji dokonuje się:
+1)
+na wniosek Inwestora Inwestycji Towarzyszącej będącego wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w ust. 1, do którego dołącza się projekt planu rezerwacji;
+2)
+do końca ważności decyzji o środowiskowych uwarunkowaniach, o której mowa w ust. 1, lecz nie dłużej niż na okres 6 lat.
+8.
+Z dniem wejścia w życie planu rezerwacji do dnia zakończenia jego obowiązywania, w tym jego uchylenia:
+1)
+miejscowe plany zagospodarowania przestrzennego, w części obejmującej obszary objęte planem rezerwacji, nie stanowią podstawy do zmiany sposobu zagospodarowania terenu, uzyskania pozwolenia na budowę, dokonania skutecznego zgłoszenia budowlanego, podziału nieruchomości, wydzielania samodzielnych lokali mieszkalnych w budynkach;
+2)
+uchwały w sprawie zasad i warunków sytuowania obiektów małej architektury, tablic reklamowych i urządzeń reklamowych oraz ogrodzeń, ich gabaryty, standardy jakościowe oraz rodzaje materiałów budowlanych, z jakich mogą być wykonane, uchwały w sprawie utworzenia lub powiększenia parku krajobrazowego, w części obejmującej obszary objęte planem rezerwacji, nie stanowią podstawy do lokalizowania nowych obiektów małej architektury, tablic reklamowych i urządzeń reklamowych oraz ogrodzeń;
+3)
+statut uzdrowiska, w części obejmującej obszary objęte planem rezerwacji, nie stanowi podstawy do lokalizacji nowych punktów sprzedaży pamiątek, wyrobów ludowych, produktów regionalnych lub towarów o podobnym charakterze, a także do lokalizacji nowych tablic i urządzeń reklamowych.
+9.
+Wojewoda uchyla plan rezerwacji:
+1)
+z urzędu, w przypadku zrealizowania lub zrealizowania i oddania do użytkowania Inwestycji Towarzyszącej;
+2)
+na wniosek Inwestora Inwestycji Towarzyszącej będącego wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w ust. 1, w przypadku gdy:
+a)
+odstąpiono od realizacji Inwestycji Towarzyszącej, której dotyczyła decyzja o środowiskowych uwarunkowaniach, o której mowa w ust. 1, będąca podstawą przyjęcia planu rezerwacji,
+b)
+uchylono decyzję o środowiskowych uwarunkowaniach, o której mowa w ust. 1, będącą podstawą przyjęcia planu rezerwacji,
+c)
+stwierdzono nieważność decyzji o środowiskowych uwarunkowaniach, o której mowa w ust. 1, będącej podstawą przyjęcia planu rezerwacji.
+10.
+W przypadku, o którym mowa w ust. 9 pkt 2, jeżeli odstąpienie od realizacji Inwestycji Towarzyszącej lub decyzja uchylająca decyzję o środowiskowych uwarunkowaniach, o której mowa w ust. 1, lub decyzja stwierdzająca nieważność decyzji o środowiskowych uwarunkowaniach, o której mowa w ust. 1, nie dotyczą całego odcinka Inwestycji Towarzyszącej będącej inwestycją liniową lub wszystkich nieruchomości objętych decyzją o środowiskowych uwarunkowaniach będącą podstawą przyjęcia planu rezerwacji, wniosek Inwestora Inwestycji Towarzyszącej będącego wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w ust. 1, dotyczy wyłącznie tego odcinka Inwestycji Towarzyszącej lub tej decyzji uchylającej decyzję o środowiskowych uwarunkowaniach, o której mowa w ust. 1, lub tej decyzji stwierdzającej nieważność decyzji o środowiskowych uwarunkowaniach, o której mowa w ust. 1, w zakresie, w którym taka decyzja o środowiskowych uwarunkowaniach nie została uchylona lub w stosunku do niej nie stwierdzono nieważności.
+11.
+Plan rezerwacji traci moc z dniem utraty ważności przez decyzję o środowiskowych uwarunkowaniach lub upływu 6 lat od dnia jego wejścia w życie.
+12.
+Z dniem doręczenia zawiadomienia o wszczęciu postępowania dotyczącego wydania decyzji dotyczącej lokalizacji lub realizacji Inwestycji Towarzyszącej wydawanej w oparciu o decyzję o środowiskowych uwarunkowaniach, o której mowa w ust. 1:
+1)
+nieruchomości stanowiące własność Skarbu Państwa lub jednostki samorządu terytorialnego, w całości lub w części objęte wnioskiem o wydanie takiej decyzji, nie mogą być przedmiotem obrotu w rozumieniu przepisów o gospodarce nieruchomościami do dnia, w którym decyzja ta stała się ostateczna;
+2)
+w odniesieniu do nieruchomości objętych, w całości lub w części, wnioskiem o wydanie takiej decyzji, do dnia, w którym decyzja ta stała się prawomocna, nie wydaje się decyzji o pozwoleniu na budowę; toczące się postępowania ulegają zawieszeniu z mocy prawa do dnia, w którym decyzja ta stała się prawomocna;
+3)
+w odniesieniu do nieruchomości objętych, w całości lub w części, wnioskiem o wydanie takiej decyzji, do dnia, w którym decyzja ta stała się prawomocna, nie jest możliwe dokonanie skutecznego zgłoszenia budowlanego, dokonanie podziału nieruchomości oraz wydzielenie samodzielnego lokalu mieszkalnego w budynkach;
+4)
+w odniesieniu do nieruchomości objętych w całości lub w części wnioskiem o wydanie takiej decyzji, do dnia, w którym decyzja ta stała się prawomocna, zawiesza się postępowania o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu w rozumieniu ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym.
+13.
+Przepisów ust. 12 pkt 2–4 nie stosuje się do postępowań w sprawie wydania decyzji o warunkach zabudowy i zagospodarowania terenu, decyzji o pozwoleniu na budowę i decyzji oraz pozwoleń, o których mowa w ust. 12 pkt 2, wszczętych na wniosek Inwestora.
+14.
+W przypadku, o którym mowa w ust. 12 pkt 2, na wniosek strony postępowania, po uzyskaniu zgody Inwestora, organ prowadzący postępowanie w sprawie wydania decyzji o pozwoleniu na budowę w odniesieniu do nieruchomości objętych wnioskiem o wydanie decyzji podejmie zawieszone postępowanie.
+15.
+W przypadku gdy po doręczeniu zawiadomienia, o którym mowa w ust. 12, nastąpi:
+1)
+zbycie własności lub prawa użytkowania wieczystego nieruchomości objętej w całości lub w części wnioskiem o wydanie decyzji dotyczącej lokalizacji, lokalizacji i realizacji lub realizacji Inwestycji Towarzyszącej wydawanej w oparciu o decyzję o środowiskowych uwarunkowaniach, o której mowa w ust. 1,
+2)
+przeniesienie wskutek innego zdarzenia prawnego własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem o wydanie decyzji, o której mowa w pkt 1
+nabywca, a w przypadku, o którym mowa w pkt 1, nabywca i zbywca są obowiązani do zgłoszenia właściwemu wojewodzie danych nowego właściciela lub użytkownika wieczystego.
+16.
+Niedokonanie zgłoszenia zgodnie z ust. 15 i prowadzenie postępowania bez udziału nowego właściciela lub użytkownika wieczystego nie stanowi podstawy do wznowienia postępowania.
+17.
+Czynność prawna dokonana z naruszeniem ust. 12 pkt 1 jest nieważna.
+1.
+Szczególne zasady gospodarowania nieruchomościami, planowania i zagospodarowania przestrzennego oraz realizacji inwestycji celu publicznego na obszarach, o których mowa w art. 120m ust. 4, obejmują:
+1)
+prawo pierwokupu nieruchomości przez Spółkę Celową na swoją rzecz;
+2)
+uprawnienie do wyrażania zgody przez Inwestora Inwestycji Towarzyszącej będącego wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, na ustanowienie ograniczonych praw rzeczowych lub na zawarcie umów dzierżawy i najmu nieruchomości gruntowych Skarbu Państwa lub jednostek samorządu terytorialnego oraz umów, które pozwalają na realizację inwestycji na tych nieruchomościach, w tym również inwestycji o charakterze innym niż budowlany;
+3)
+uprawnienie wnioskodawcy wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, do wejścia na teren nieruchomości w celu przeprowadzenia badań lub pomiarów niezbędnych do przygotowania i realizacji Inwestycji Towarzyszącej, w tym badań archeologicznych, prac geologicznych i przyrodniczych;
+4)
+uzgadnianie z Inwestorem Inwestycji Towarzyszącej będącym wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, projektów planu ogólnego gminy, miejscowego planu zagospodarowania przestrzennego, w zakresie dotyczącym budowy i późniejszego funkcjonowania drogi, w tym jej potencjalnej rozbudowy lub zwiększenia przepustowości;
+5)
+zakaz wydawania pozwoleń na budowę;
+6)
+zakaz wydawania decyzji o warunkach zabudowy i zagospodarowania terenu;
+7)
+zakaz wydawania decyzji w przedmiocie podziału nieruchomości;
+8)
+zakaz wydzielania samodzielnych lokali mieszkalnych w budynkach;
+9)
+zakaz wydawania decyzji dokonujących lokalizacji oraz decyzji zezwalających na wykonywanie robót budowlanych na podstawie:
+a)
+ustawy z dnia 28 marca 2003 r. o transporcie kolejowym i dotyczących lokalizacji linii kolejowej,
+b)
+ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego i dotyczących zezwolenia na realizację inwestycji w zakresie lotniska użytku publicznego,
+c)
+ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu i dotyczących lokalizacji inwestycji w zakresie terminalu oraz inwestycji towarzyszącej,
+d)
+ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych i dotyczących lokalizacji regionalnej sieci szerokopasmowej,
+e)
+ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych i dotyczących pozwolenia na realizację takich inwestycji,
+f)
+ustawy z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących i dotyczących lokalizacji inwestycji w zakresie budowy obiektu energetyki jądrowej oraz inwestycji towarzyszącej,
+g)
+ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych i dotyczących lokalizacji lub realizacji inwestycji w zakresie strategicznych inwestycji w zakresie sieci przesyłowych,
+h)
+ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących i dotyczących lokalizacji lub realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących,
+h)
+(uchylona)
+i)
+ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym,
+j)
+ustawy z dnia 14 kwietnia 2023 r. o przygotowaniu i realizacji inwestycji w zakresie elektrowni szczytowo-pompowych oraz inwestycji towarzyszących;
+10)
+zakaz wydawania zgody, o której mowa w art. 46c ust. 3 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi;
+11)
+uprawnienie Spółki Celowej do stosowania szczególnych zasad nabywania nieruchomości, o których mowa w art. 29b ust. 1 pkt 2.
+2.
+Zakaz wydawania pozwolenia na budowę stosuje się odpowiednio do zgłoszeń budowlanych dotyczących budowy budynku. W takim przypadku organ administracji architektoniczno-budowlanej wnosi sprzeciw wobec zgłoszenia.
+1.
+Do prawa pierwokupu w zakresie nieuregulowanym stosuje się przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami oraz ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
+2.
+Do nieruchomości objętych prawem pierwokupu, o którym mowa w ust. 1, przepisów art. 17 ust. 3 i art. 109 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami nie stosuje się.
+3.
+W przypadku zbiegu prawa pierwokupu określonego w niniejszej ustawie z prawem pierwokupu określonym w przepisach odrębnych pierwszym uprawnionym do wykonania prawa pierwokupu jest Inwestor będący wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1.
+1.
+Skarb Państwa lub jednostka samorządu terytorialnego przed ustanowieniem ograniczonych praw rzeczowych oraz przed sporządzeniem lub przystąpieniem do zawarcia umowy dzierżawy lub najmu nieruchomości gruntowej oraz umowy, która pozwala na realizację inwestycji na nieruchomości, również inwestycji o charakterze innym niż budowlany, o których mowa w art. 120n ust. 1 pkt 2, zawiadamiają o tym zamiarze Inwestora będącego wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1.
+2.
+Uprawnienie Inwestora będącego wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, do wyrażania zgody, o której mowa w art. 120n ust. 1 pkt 2, może być wykonane w terminie miesiąca od dnia otrzymania zawiadomienia o zamiarze ustanowienia ograniczonych praw rzeczowych lub zawarcia umów dzierżawy lub najmu nieruchomości gruntowych Skarbu Państwa lub jednostek samorządu terytorialnego oraz umów, które pozwalają na realizację inwestycji na takich nieruchomościach, również inwestycji o charakterze innym niż budowlany.
+3.
+Umowy, o których mowa w ust. 2, zawarte bez dokonania zawiadomienia lub przed upływem terminu, o którym mowa w ust. 2, lub mimo braku zgody Inwestora będącego wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, są nieważne z mocy prawa.
+1.
+W przypadku, o którym mowa w art. 120n ust. 1 pkt 3, wnioskodawca wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, po zakończeniu badań lub pomiarów, o których mowa w art. 120n ust. 1 pkt 3, jest obowiązany przywrócić nieruchomość do stanu poprzedniego. Jeżeli przywrócenie nieruchomości do stanu poprzedniego nie jest możliwe, właścicielom nieruchomości przysługuje odszkodowanie.
+2.
+Przepis art. 120h stosuje się odpowiednio.
+1.
+Uzgadnianie projektów planów ogólnych gminy oraz miejscowych planów zagospodarowania przestrzennego, o których mowa w art. 120n ust. 1 pkt 4, następuje na zasadach określonych w ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym.
+2.
+Inwestor będący wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, odmawia uzgodnienia, o którym mowa w art. 120n ust. 1 pkt 4, w sytuacji gdy projektowana treść planu ogólnego gminy lub miejscowego planu zagospodarowania przestrzennego powoduje ryzyka w zakresie dotyczącym budowy lub użytkowania Inwestycji Towarzyszącej, w tym jej potencjalnej rozbudowy, zwiększenia przepustowości, w szczególności w zakresie:
+1)
+niespójności z decyzją o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1;
+2)
+ryzyka powstawania utrudnień w realizacji Inwestycji Towarzyszącej;
+3)
+ryzyka powstawania konieczności przebudowy Inwestycji Towarzyszącej, w szczególności przez budowę ekranów akustycznych;
+4)
+ryzyka utrudnień w zakresie przyszłej przebudowy Inwestycji Towarzyszącej;
+5)
+ryzyka konieczności budowy zjazdów, przejść, w tym przejść podziemnych, wiaduktów, tuneli, mostów, w miejscach nieprzewidzianych w decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1;
+6)
+ryzyka konieczności budowy ekranów akustycznych lub innych zabezpieczeń akustycznych, które nie były przewidziane w decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1;
+7)
+ryzyka konieczności uzyskania nowej decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, lub zmiany takiej decyzji;
+8)
+ryzyka powstania trudności w zwiększeniu przepustowości Inwestycji Towarzyszącej;
+9)
+ryzyka powstania trudności w posadawianiu urządzeń służących do poboru opłat za korzystanie z dróg płatnych;
+10)
+ryzyka powstania trudności w posadawianiu urządzeń służących do monitorowania ruchu na drogach i liniach kolejowych;
+11)
+ryzyka znaczącego zwiększenia kosztów w zakresie nabycia nieruchomości;
+12)
+ryzyka wystąpienia zagrożenia bezpieczeństwa ruchu drogowego lub kolejowego;
+13)
+ryzyka utraty uprawnień z tytułu gwarancji lub rękojmi w zakresie budowy, przebudowy lub remontu Inwestycji Towarzyszącej;
+14)
+ryzyka zwiększenia prawdopodobieństwa negatywnych skutków suszy lub powodzi nagłych (nawalnych);
+15)
+ryzyka konieczności budowy lub przebudowy urządzeń wodnych oraz urządzeń zmniejszających negatywne skutki suszy oraz rowów melioracyjnych;
+16)
+ryzyka wystąpienia naruszenia wymagań wynikających z przepisów odrębnych;
+17)
+ryzyka braku utrzymania drożności korytarza migracyjnego zwierząt, dla którego w decyzji środowiskowej została wskazana konieczność budowy przejść dla zwierząt.
+1.
+Inwestor będący wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, może udzielić zgody na zwolnienie z zakazów określonych w art. 120n ust. 1 pkt 5–9, biorąc łącznie pod uwagę:
+1)
+wymogi prawidłowego przygotowania, realizacji oraz użytkowania planowanej Inwestycji Towarzyszącej oraz jej oddziaływanie, o którym mowa w art. 120m ust. 4;
+2)
+wpływ na możliwości zagospodarowania terenu;
+3)
+brak niespójności z decyzją o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1;
+4)
+ryzyka, o których mowa w art. 120r ust. 2.
+2.
+W przypadku wydania zgody na zwolnienie z zakazu, o którym mowa w art. 120n ust. 1 pkt 5, pozwolenie na budowę jest wydawane na podstawie miejscowego planu zagospodarowania przestrzennego obowiązującego w dniu wejścia w życie planu rezerwacji lub decyzji o warunkach zabudowy wydanej na podstawie zgody, o której mowa w ust. 1. Przepisu art. 120m ust. 7 pkt 1 nie stosuje się.
+1.
+Organ administracji architektoniczno-budowlanej na wniosek Inwestora będącego wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, uchyla wydane pozwolenia na budowę lub wydaje decyzję zakazującą realizacji robót budowlanych na podstawie zgłoszenia.
+2.
+Inwestor będący wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, składa wniosek, o którym mowa w ust. 1, w przypadku gdy teren inwestycji w całości lub w części znajduje się na obszarze objętym planem rezerwacji, a istnieje wysokie prawdopodobieństwo, że inwestycje te znalazłyby się na terenie podlegającym wywłaszczeniu, lub jeżeli realizacja tych inwestycji mogłaby utrudnić realizację Inwestycji Towarzyszącej lub zwiększyć koszty takiej realizacji, lub gdy występuje brak spójności takiej inwestycji z decyzją o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, lub jej realizacja powoduje powstanie ryzyk, o których mowa w art. 120r ust. 2.
+3.
+Organ administracji architektoniczno-budowlanej uchyla wydane pozwolenia na budowę lub wydaje decyzję zakazującą realizacji robót budowlanych na podstawie zgłoszenia w terminie 15 dni roboczych od dnia otrzymania wniosku, o którym mowa w ust. 1.
+4.
+W przypadku gdy organ administracji architektoniczno-budowlanej nie uchyli wydanego pozwolenia na budowę lub nie wyda decyzji zakazującej realizacji robót budowlanych na podstawie zgłoszenia w terminie, o którym mowa w ust. 3, organ wyższego stopnia wymierza temu organowi, w drodze postanowienia, na które przysługuje zażalenie, karę w wysokości 500 zł za każdy dzień zwłoki.
+5.
+Przepisu ust. 1 nie stosuje się w przypadku, gdy na podstawie pozwolenia na budowę lub zgłoszenia rozpoczęto realizację robót budowlanych.
+1.
+Zgoda, o której mowa w art. 120s, oraz uchylenie pozwolenia na budowę lub zakazanie realizacji robót budowlanych na podstawie zgłoszenia, o których mowa w art. 120t ust. 1, są wydawane w formie decyzji.
+2.
+Do wniosku o wydanie zgody, o której mowa w art. 120s, dołącza się projekt wniosku o wydanie zgody, której zwolnienie dotyczy, wraz z projektem zagospodarowania działki lub terenu oraz określeniem sposobu obsługi terenu z drogi publicznej.
+3.
+W przypadku zakazów, o których mowa w art. 120n ust. 1 pkt 5–9, oraz w przypadku uchylenia pozwolenia na budowę lub zakazania realizacji robót budowlanych na podstawie zgłoszenia, o których mowa w art. 120t ust. 1, od decyzji Inwestora będącego wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, przysługuje odwołanie do Pełnomocnika, a w przypadku gdy wnioskodawcą jest Generalny Dyrektor Dróg Krajowych i Autostrad, przysługuje wniosek o ponowne rozpatrzenie sprawy.
+1.
+Właściciel nieruchomości, któremu nie udzielono zgody, o której mowa w art. 120s, w zakresie zakazu, o którym mowa w art. 120n ust. 1 pkt 5, po dniu, w którym decyzja odmawiająca zgody stała się ostateczna, może wystąpić do wojewody o przyznanie odszkodowania:
+1)
+w wysokości równej 1/100 różnicy wartości między wartością nieruchomości określoną według jej możliwego stanu zagospodarowania wynikającego z dotychczasowego przeznaczenia nieruchomości określonego w miejscowym planie zagospodarowania przestrzennego a wartością nieruchomości według faktycznego użytkowania terenu i gruntu oraz dostępu do istniejących w dniu wejścia w życie planu rezerwacji dróg publicznych, sieci wodociągowych, kanalizacyjnych, elektroenergetycznych, gazowych, ciepłowniczych oraz telekomunikacyjnych za każde pełne 12 miesięcy trwania ograniczeń wynikających z planu rezerwacji – jeżeli podstawą wniosku o wyrażenie zgody był miejscowy plan zagospodarowania przestrzennego, lub
+2)
+w wysokości równej 1/100 różnicy wartości między wartością nieruchomości określoną według jej możliwego stanu zagospodarowania wynikającego z decyzji o warunkach zabudowy i zagospodarowania terenu a wartością nieruchomości według faktycznego użytkowania terenu i gruntu oraz dostępu do istniejących w dniu wejścia w życie planu rezerwacji dróg publicznych, sieci wodociągowych, kanalizacyjnych, elektroenergetycznych, gazowych, ciepłowniczych oraz telekomunikacyjnych za każde pełne 12 miesięcy trwania ograniczeń wynikających z planu rezerwacji – jeżeli podstawą wniosku o wyrażenie zgody na uzyskanie pozwolenia na budowę była decyzja o warunkach zabudowy i zagospodarowania terenu wydana na podstawie zgody, o której mowa w art. 120s.
+2.
+W przypadku uchylenia pozwolenia na budowę lub zakazania realizacji robót budowlanych na podstawie zgłoszenia budowlanego właścicielowi nieruchomości przysługuje odszkodowanie w wysokości:
+1)
+kosztów przygotowania projektu budowlanego oraz uzyskania zgód i dokumentów, które zostały poniesione w związku z uzyskaniem pozwolenia na budowę lub dokonaniem zgłoszenia budowlanego, oraz
+2)
+równej różnicy wartości między wartością nieruchomości określoną zgodnie z treścią pozwolenia na budowę lub zgłoszenia budowlanego a wartością nieruchomości według faktycznego użytkowania terenu i gruntu oraz dostępu do istniejących w dniu wejścia w życie planu rezerwacji dróg publicznych, sieci wodociągowych, kanalizacyjnych, elektroenergetycznych, gazowych, ciepłowniczych oraz telekomunikacyjnych.
+3.
+Obliczając odszkodowanie ustalane na podstawie ust. 1:
+1)
+za wartość nieruchomości przyjmuje się jej wartość z dnia złożenia wniosku o odszkodowanie;
+2)
+za pierwszy dzień, w którym należne jest odszkodowanie, przyjmuje się dzień następny po dniu, w którym decyzja, o której mowa w ust. 1, stała się ostateczna;
+3)
+w przypadku gdy okres między dniem, o którym mowa w pkt 2, a ostatnim dniem obowiązywania planu rezerwacji jest dłuższy niż 12 miesięcy, ale nie jest wielokrotnością 12 miesięcy, odszkodowanie za miesiące pozostałe do pełnego roku wynosi 1/12 odszkodowania, ustalanego na podstawie ust. 1, za każdy rozpoczęty miesiąc;
+4)
+w przypadku gdy okres między dniem, o którym mowa w pkt 2, a ostatnim dniem obowiązywania planu rezerwacji jest krótszy od 12 miesięcy, odszkodowanie wynosi 1/12 odszkodowania, ustalanego na podstawie ust. 1, za każdy rozpoczęty miesiąc.
+4.
+Roszczenie o odszkodowanie, o którym mowa w ust. 1, przedawnia się po upływie 6 lat od dnia następującego:
+1)
+po upływie ostatniego dnia obowiązywania planu rezerwacji, w przypadku odszkodowania ustalanego na podstawie ust. 1 pkt 1;
+2)
+po dniu, w którym decyzja, o której mowa w ust. 1, stała się ostateczna, w przypadku odszkodowania ustalanego na podstawie ust. 1 pkt 2.
+5.
+Roszczenie o odszkodowanie, o którym mowa w ust. 2, przedawnia się po upływie 6 lat od dnia, w którym decyzja uchylająca pozwolenia na budowę lub decyzja zakazująca realizacji robót budowlanych na podstawie zgłoszenia budowlanego stała się ostateczna.
+1.
+Przez możliwy stan zagospodarowania, o którym mowa w art. 120v ust. 1 pkt 1, rozumie się stan nieruchomości prawnie dopuszczalny, technicznie możliwy i ekonomicznie uzasadniony.
+2.
+Określając wartość nieruchomości według faktycznego użytkowania terenu i gruntu, uwzględnia się art. 120za.
+3.
+Przy określaniu wysokości odszkodowania, o którym mowa w art. 120v ust. 2, nie uwzględnia się:
+1)
+miejscowego planu zagospodarowania przestrzennego, poprzednio obowiązujących miejscowych planów zagospodarowania przestrzennego oraz planu ogólnego gminy – w przypadku gdy podstawą pozwolenia na budowę lub zgłoszenia budowlanego był miejscowy plan zagospodarowania przestrzennego;
+2)
+decyzji o warunkach zabudowy i zagospodarowania terenu, poprzednio obowiązujących miejscowych planów zagospodarowania przestrzennego oraz planu ogólnego gminy – w przypadku gdy podstawą pozwolenia na budowę była decyzja o warunkach zabudowy i zagospodarowania terenu.
+1.
+Decyzję ustalającą wysokość odszkodowania wydaje wojewoda.
+2.
+Obowiązek zapłaty odszkodowania obciąża Inwestora będącego wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, który na podstawie odrębnego porozumienia zawartego z wojewodą może pokryć koszty powstałe w związku z ustaleniem wysokości odszkodowań.
+1.
+Właściciel nieruchomości może uzyskać odszkodowanie, o którym mowa w art. 120v ust. 1, wyłącznie raz, niezależnie od liczby składanych wniosków i wydanych decyzji odmownych na podstawie art. 120s.
+2.
+Odszkodowanie, o którym mowa w art. 120v ust. 1, jest wypłacane na podstawie decyzji wojewody w sprawie ustalenia odszkodowania, o którym mowa w art. 120v ust. 1.
+Niezależnie od zakazów określonych w planie rezerwacji dopuszcza się wydawanie rozstrzygnięć dotyczących robót budowlanych albo zezwalających na zmianę zagospodarowania terenu polegającą na:
+1)
+remoncie,
+2)
+przebudowie niezmieniającej funkcji obiektu,
+3)
+wykonaniu urządzeń budowlanych, obiektów małej architektury oraz przyłączy,
+4)
+innych robotach budowlanych na istniejącym obiekcie budowlanym, prowadzących wyłącznie do:
+a)
+przystosowania do potrzeb osób niepełnosprawnych,
+b)
+poprawy bezpieczeństwa pożarowego,
+c)
+poprawy warunków sanitarnych,
+d)
+zmniejszenia rocznego zapotrzebowania na energię lub kosztów pozyskania ciepła,
+e)
+zamiany źródła energii na odnawialne źródło energii w rozumieniu art. 2 pkt 22 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii lub zastosowanie wysokosprawnej kogeneracji w rozumieniu art. 3 pkt 38 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne,
+f)
+zapewnienia telekomunikacji,
+5)
+odbudowie,
+6)
+budowie mikroinstalacji w rozumieniu art. 2 pkt 19 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii
+niezmieniającą kolorystyki obiektu budowlanego oraz – w przypadku budynków – niezwiększającą powierzchni zabudowy o więcej niż 5 %.
+1.
+Właścicielowi nieruchomości, która w całości lub w części znajduje się w granicach określonego w planie rezerwacji obszaru lokalizacji Inwestycji Towarzyszącej, przysługuje roszczenie do wnioskodawcy wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, o wykupienie takiej nieruchomości lub jej części.
+2.
+Właścicielowi nieruchomości, która w całości lub w części znajduje się w obszarze oddziaływania akustycznego określonego w planie rezerwacji, nie przysługuje roszczenie do wnioskodawcy wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, o wykupienie takiej nieruchomości lub jej części.
+3.
+Wartość nieruchomości określa się na podstawie:
+1)
+dotychczasowego przeznaczenia wynikającego z miejscowego planu zagospodarowania przestrzennego – w sytuacji gdy plan rezerwacji dotyczy nieruchomości objętych obowiązującym miejscowym planem zagospodarowania przestrzennego, który na podstawie art. 120m ust. 8 pkt 1 nie może stanowić podstawy do zmiany sposobu zagospodarowania terenu, uzyskania pozwolenia na budowę, dokonania skutecznego zgłoszenia budowlanego, podziału nieruchomości, wydzielania samodzielnych lokali mieszkalnych w budynkach;
+2)
+wyłącznie faktycznego użytkowania terenu i gruntu oraz dostępu do istniejących w dniu wejścia w życie planu rezerwacji dróg publicznych, sieci wodociągowych, kanalizacyjnych, elektroenergetycznych, gazowych, ciepłowniczych oraz telekomunikacyjnych – w sytuacji gdy dana nieruchomość nie była objęta miejscowym planem zagospodarowania przestrzennego obowiązującym w przeddzień wejścia w życie planu rezerwacji.
+4.
+W odniesieniu do zasad określania wartości nieruchomości stosuje się przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, o ile niniejszy przepis nie stanowi inaczej.
+W przypadku gdy w wyniku wniesienia odwołania od decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, organ wyższego stopnia wyda decyzję, w której uchyli zaskarżoną decyzję w całości albo w części i w tym zakresie orzeknie co do istoty sprawy, przepisy art. 120n-120za dotyczące decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, stosuje się do decyzji wydanej przez organ wyższego stopnia.
+1.
+W przypadku realizacji inwestycji innej niż Inwestycja Towarzysząca, która w całości lub w części znajduje się w obszarze oddziaływania akustycznego określonego w planie rezerwacji, zapewnienie ochrony przed hałasem związanym z użytkowaniem inwestycji, której dotyczy plan rezerwacji, należy do inwestora tego przedsięwzięcia.
+2.
+Przepis ust. 1 stosuje się również w sytuacji, gdy zapewnienie ochrony przed hałasem wymaga budowy ekranów akustycznych lub realizacji innych robót budowlanych w obrębie pasa drogowego lub linii kolejowej.
+3.
+Szczegółowe warunki prowadzenia robót budowlanych, o których mowa w ust. 2, określa umowa między Inwestorem Inwestycji Towarzyszącej a inwestorem inwestycji niebędącej Inwestycją Towarzyszącą.
+Przepisy art. 120n-120zb dotyczące właściciela nieruchomości stosuje się także do użytkownika wieczystego nieruchomości.
+1.
+W przypadku gdy z planu generalnego lotniska wynika etapowy charakter budowy Inwestycji, w odniesieniu do zakresu Inwestycji, który nie został objęty wnioskiem o wydanie decyzji o środowiskowych uwarunkowaniach lub wnioskiem o wydanie decyzji o ustaleniu lokalizacji inwestycji CPK, wojewoda, na wniosek Pełnomocnika, przyjmuje w drodze zarządzenia plan miejscowy Centralnego Portu Komunikacyjnego, zwany dalej „planem miejscowym CPK”.
+2.
+Do planu miejscowego CPK przepisy odrębne o miejscowych planach zagospodarowania przestrzennego stosuje się odpowiednio, o ile przepisy niniejszego działu nie stanowią inaczej.
+3.
+Ilekroć w przepisach odrębnych jest mowa o miejscowym planie zagospodarowania przestrzennego albo planie zagospodarowania przestrzennego, należy przez to rozumieć także plan miejscowy CPK.
+4.
+Plan miejscowy CPK przyjmuje się zgodnie z ustaleniami planu generalnego lotniska oraz można przyjąć niezależnie od ustaleń planu zagospodarowania przestrzennego województwa, planu ogólnego gminy oraz innych miejscowych planów zagospodarowania przestrzennego. Spółka Celowa obowiązana jest do poniesienia kosztów zmiany planu zagospodarowania przestrzennego województwa oraz planu ogólnego gminy w celu uzyskania spójności z ustaleniami planu miejscowego CPK.
+5.
+Uzgodnienia i zgody, o których mowa w art. 17 pkt 6 lit. b i c ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, zastępuje się opiniami.
+6.
+Od dnia wydania zarządzenia wojewody o przystąpieniu do sporządzania planu miejscowego CPK do obszaru nim objętego przepis art. 62 ust. 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym stosuje się odpowiednio.
+7.
+Plan miejscowy CPK może określać sposób i okres tymczasowego zagospodarowania terenu do czasu realizacji inwestycji lotniskowej, zawierając w tym zakresie ustalenia dotyczące przeznaczenia i sposobu zagospodarowania terenu.
+8.
+Właścicielowi albo użytkownikowi wieczystemu nieruchomości przysługuje wyłącznie roszczenie do Spółki Celowej o wykupienie nieruchomości lub jej części objętej planem miejscowym CPK. Przepis art. 36 ust. 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym stosuje się odpowiednio. W pozostałym zakresie przepisów art. 36–371 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym nie stosuje się. Gmina nie pokrywa kosztów i roszczeń związanych z wejściem w życie tego planu miejscowego CPK.
+9.
+W okresie objęcia nieruchomości ustaleniami planu miejscowego CPK przepisu art. 137 ust. 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami nie stosuje się. Roszczenie, o którym mowa w art. 136 ust. 3 tej ustawy, powstaje z dniem utraty mocy obowiązującej planu miejscowego CPK w odniesieniu do nieruchomości.
+10.
+Wojewoda co 5 lat dokonuje analizy aktualności planu miejscowego CPK, w szczególności z ustaleniami planu generalnego lotniska, stwierdzając, w drodze zarządzenia, aktualność albo wszczynając postępowanie w przedmiocie zmiany bądź uchylenia planu miejscowego CPK.
+1.
+Przepisy niniejszego działu stosuje się do zarządzania rozwojem obszaru otoczenia CPK.
+2.
+Obszar otoczenia CPK stanowi obszar funkcjonalny oraz obszar strategicznej interwencji w rozumieniu art. 5 pkt 6a i 6b ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
+3.
+Minister właściwy do spraw transportu wyznacza, w drodze rozporządzenia, obszar otoczenia CPK, uwzględniając:
+1)
+potrzebę zapewnienia sprawnej realizacji Przedsięwzięć w otoczeniu CPK i zapewnienia ich sprawnego funkcjonowania;
+2)
+konieczność wyznaczenia obszaru w sposób zwarty i ograniczony do obszaru występowania obecnych lub prognozowanych powiązań funkcjonalnych Przedsięwzięcia.
+4.
+Przed wydaniem rozporządzenia minister właściwy do spraw transportu występuje do organów wykonawczych jednostek samorządu terytorialnego znajdujących się w przewidywanych granicach obszaru otoczenia CPK o wydanie opinii w zakresie projektu rozporządzenia.
+5.
+Opinię, o której mowa w ust. 4, organy wykonawcze jednostek samorządu terytorialnego wydają w terminie nie dłuższym niż 30 dni od dnia otrzymania wniosku o wydanie opinii. Niewydanie opinii w tym terminie traktuje się jako brak zastrzeżeń do projektu rozporządzenia.
+Rozwój obszaru otoczenia CPK kształtuje się w sposób zapewniający:
+1)
+zrównoważony rozwój i ład przestrzenny;
+2)
+optymalne funkcjonowanie Inwestycji oraz Inwestycji Towarzyszących;
+3)
+powstawanie i rozwój zwartych struktur przestrzennych ograniczających transportochłonność i energochłonność, w tym przez przeciwdziałanie niekontrolowanemu rozlewaniu się zabudowy i optymalizację stanu wyposażenia zabudowy w infrastrukturę techniczną;
+4)
+zapewnienie warunków do powstawania wysokiej jakości struktur przestrzennych, w tym osadniczych, w szczególności nowych miast albo części miast;
+5)
+spójność przestrzenną, w tym przez ograniczanie negatywnych skutków izolacji przestrzennej obszarów, powstałej w wyniku realizacji inwestycji liniowych;
+6)
+ochronę środowiska, w tym form ochrony przyrody, wód oraz krajobrazu, poprawę lub co najmniej niepogorszenie parametrów środowiska, w tym różnorodności biologicznej, korytarzy ekologicznych, ciągów przewietrzających, wartości krajobrazowych oraz błękitno-zielonej infrastruktury;
+7)
+mitygację i adaptację do zmian klimatu, w tym negatywnych zjawisk klimatycznych, w szczególności suszy oraz powodzi;
+8)
+ochronę krajobrazów kulturowych, zabytków i dóbr kultury współczesnej;
+9)
+ograniczenie niekorzystnych oddziaływań Inwestycji, Inwestycji Towarzyszących oraz obszarów prowadzenia intensywnej działalności gospodarczej;
+10)
+potrzeby obronności i bezpieczeństwa państwa;
+11)
+poszanowanie uzasadnionych interesów właścicieli nieruchomości, wynikających z przeznaczenia nieruchomości określonego w miejscowym planie zagospodarowania przestrzennego lub z ostatecznego rozstrzygnięcia organu administracji publicznej zezwalającego na wykonywanie robót budowlanych.
+1.
+Organy administracji rządowej i samorządowej, państwowe i samorządowe osoby prawne oraz Pełnomocnik współpracują w celu zapewnienia optymalnych warunków trwałego i zrównoważonego rozwoju oraz spójności społeczno-gospodarczej, regionalnej i przestrzennej obszaru otoczenia CPK.
+2.
+Na potrzeby współpracy, o której mowa w ust. 1, minister właściwy do spraw rozwoju regionalnego, Pełnomocnik oraz jednostki samorządu terytorialnego z obszaru otoczenia CPK zawierają porozumienie terytorialne, o którym mowa w przepisach ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju. Porozumienie terytorialne określa przedsięwzięcia priorytetowe dla rozwoju obszaru zgodne z celami wynikającymi z krajowej strategii rozwoju regionalnego, w tym przewidywane źródła ich finansowania.
+3.
+Do porozumienia, o którym mowa w ust. 2, mogą przystąpić również związki, porozumienia oraz stowarzyszenia jednostek samorządu terytorialnego.
+1.
+Dla obszaru otoczenia CPK, w celu realizacji zasad określonych w art. 120zg, przyjmuje się strategię rozwoju, zwaną dalej „strategią”.
+2.
+Strategia określa w szczególności:
+1)
+cele strategiczne rozwoju w wymiarze społecznym, gospodarczym i przestrzennym;
+2)
+kierunki działań podejmowanych dla osiągnięcia celów strategicznych;
+3)
+oczekiwane rezultaty planowanych działań, w tym w wymiarze przestrzennym, oraz wskaźniki ich osiągnięcia;
+4)
+ustalenia w wymiarze przestrzennym, w tym model struktury funkcjonalno-przestrzennej obszaru, zasady kształtowania i prowadzenia polityki przestrzennej oraz obszary o istotnym znaczeniu dla realizacji ustaleń strategii;
+5)
+charakterystykę i lokalizację przedsięwzięć priorytetowych;
+6)
+system realizacji strategii, w tym wytyczne do sporządzania dokumentów wykonawczych;
+7)
+ramy finansowe i źródła finansowania, wraz ze wskazaniem perspektywy czasowej, której dotyczą, nie krótszej niż 10 lat, oraz kosztami realizacji i utrzymania inwestycji o charakterze budowlanym, nasadzeń i zalesień;
+8)
+zakres ustaleń podlegających uwzględnieniu w dokumentach strategicznych i planistycznych jednostek samorządu terytorialnego.
+3.
+Ustalenia w wymiarze przestrzennym sporządza się w formie opracowania planistycznego, stanowiącego integralną część strategii, składającego się z części tekstowej i graficznej. Część graficzną sporządza się w szczególności w formie kartograficznej, w skali zapewniającej czytelność przyjętych rozwiązań, a dla obszarów o istotnym znaczeniu dla realizacji ustaleń strategii – w skali nie mniejszej niż 1:25 000.
+Strategia jest spójna ze średniookresową strategią rozwoju oraz krajową strategią rozwoju regionalnego.
+1.
+Strategię przyjmuje Rada Ministrów w drodze uchwały.
+2.
+Projekt strategii opracowuje Pełnomocnik we współpracy z jednostkami samorządu terytorialnego. Jednostki samorządu terytorialnego przedstawiają opinię wobec projektu strategii skierowanego do rozpatrzenia przez Radę Ministrów, w terminie 60 dni od dnia przekazania projektu strategii przez Pełnomocnika.
+3.
+Projekt strategii podlega konsultacjom, w szczególności z sąsiednimi gminami i ich związkami, partnerami społecznymi i gospodarczymi, Komisją Wspólną Rządu i Samorządu Terytorialnego oraz właściwym dyrektorem regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie.
+4.
+Pełnomocnik ogłasza na stronie internetowej ministra właściwego do spraw transportu, stronie internetowej Spółki Celowej oraz może ogłaszać w prasie odpowiednio o zasięgu regionalnym lub lokalnym informację o konsultacjach, terminie i sposobie przekazywania uwag do projektu strategii oraz terminie i miejscu spotkań konsultacyjnych. Ogłoszenie w prasie zawiera dodatkowo informację o adresie strony internetowej, na której zamieszczono projekt strategii.
+5.
+Opinię o projekcie strategii przekazuje się Pełnomocnikowi w sposób określony w ogłoszeniu, w terminie określonym przez ten podmiot, nie krótszym niż 35 dni od dnia ogłoszenia na stronie internetowej informacji, o której mowa w ust. 4. Nieprzekazanie opinii w terminie oznacza rezygnację z jej przedstawienia.
+6.
+Pełnomocnik przygotowuje sprawozdanie z przebiegu i wyników konsultacji, zawierające w szczególności ustosunkowanie się do zgłoszonych uwag wraz z uzasadnieniem, i zamieszcza je na swojej stronie internetowej.
+7.
+Do projektu strategii stosuje się przepisy działu IV ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
+8.
+Uchwalenie strategii może być poprzedzone przyjęciem przez Radę Ministrów jej założeń.
+9.
+Strategia podlega publikacji w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+1.
+Z dniem uchwalenia strategii:
+1)
+strategia rozwoju województwa, powiatu oraz gminy, plan zagospodarowania przestrzennego województwa, plan ogólny gminy, niezgodne z ustaleniami strategii, w celu zachowania spójności tej zgodności, podlegają obowiązkowi aktualizacji zgodnie z ustaleniami strategii, w terminie 24 miesięcy od dnia jej uchwalenia;
+2)
+strategię rozwoju województwa, powiatu oraz gminy, plan zagospodarowania przestrzennego województwa, plan ogólny gminy oraz miejscowy plan zagospodarowania przestrzennego uchwala się zgodnie z ustaleniami strategii;
+3)
+zgodnie z ustaleniami strategii wydaje się decyzje zezwalające na lokalizację lub realizację inwestycji na podstawie:
+a)
+ustawy z dnia 28 marca 2003 r. o transporcie kolejowym i dotyczących lokalizacji linii kolejowej,
+b)
+ustawy z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych i dotyczących zezwolenia na realizację inwestycji drogowej,
+c)
+ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego i dotyczących zezwolenia na realizację inwestycji w zakresie lotniska użytku publicznego,
+d)
+ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu i dotyczących lokalizacji inwestycji w zakresie terminalu oraz inwestycji towarzyszącej,
+e)
+ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych i dotyczących lokalizacji regionalnej sieci szerokopasmowej,
+f)
+ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych i dotyczących pozwolenia na realizację takich inwestycji,
+g)
+ustawy z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących i dotyczących lokalizacji inwestycji w zakresie budowy obiektu energetyki jądrowej oraz inwestycji towarzyszącej,
+h)
+ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych i dotyczących lokalizacji lub realizacji inwestycji w zakresie strategicznych inwestycji w zakresie sieci przesyłowych,
+i)
+ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących,
+i)
+(uchylona)
+j)
+ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym,
+k)
+ustawy z dnia 14 kwietnia 2023 r. o przygotowaniu i realizacji inwestycji w zakresie elektrowni szczytowo-pompowych oraz inwestycji towarzyszących;
+4)
+w odniesieniu do obszarów o istotnym znaczeniu dla realizacji ustaleń strategii określenie, w drodze decyzji, warunków zabudowy i zagospodarowania terenu następuje po uzgodnieniu ze Spółką Celową, na zasadach określonych w przepisach o planowaniu i zagospodarowaniu przestrzennym, pod względem zgodności zamierzenia inwestycyjnego ze strategią; Spółka Celowa, uzgadniając projekt decyzji, uwzględnia wpływ zmiany sposobu zagospodarowania terenu objętego projektem decyzji na realizację zasad rozwoju obszaru otoczenia CPK, wskazanych w art. 120zg i określonych w strategii obszaru otoczenia CPK.
+2.
+Przepis ust. 1 pkt 4 stosuje się odpowiednio do uchwały w przedmiocie ustalenia lokalizacji inwestycji mieszkaniowej oraz decyzji w sprawie pozwolenia na budowę. W takim przypadku termin uzgodnienia projektu uchwały albo decyzji wynosi 30 dni od dnia jej przedłożenia przez właściwy organ.
+Pełnomocnik koordynuje monitoring oraz ewaluację realizacji strategii.
+1.
+W zakresie nieuregulowanym niniejszym działem do zarządzania rozwojem obszaru otoczenia CPK stosuje się przepisy ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
+2.
+Do zmiany strategii stosuje się odpowiednio przepisy niniejszego działu.
+1.
+Przepisy niniejszego działu stosuje się do realizacji projektów zorganizowanej relokacji miejscowości albo ich części w związku z nabywaniem nieruchomości na cele realizacji zadań określonych w ustawie, zwanych dalej „projektami relokacji”.
+2.
+Ilekroć w niniejszym dziale jest mowa o planie miejscowym projektu relokacji, należy przez to rozumieć miejscowy plan zagospodarowania przestrzennego dla projektu relokacji.
+3.
+Do planu miejscowego projektu relokacji, w zakresie nieuregulowanym w niniejszym dziale, stosuje się przepisy dotyczące miejscowych planów zagospodarowania przestrzennego.
+1.
+Spółka Celowa jest obowiązana do prowadzenia dialogu z właścicielami nieruchomości oraz jednostkami samorządu terytorialnego w celu identyfikacji zasadności oraz warunków realizacji projektów relokacji.
+2.
+Projekt relokacji obejmuje w szczególności działania w zakresie:
+1)
+identyfikacji potrzeb właścicieli nieruchomości oraz innych osób, dla których nabycie nieruchomości skutkuje koniecznością zmiany miejsca zamieszkania lub prowadzenia działalności gospodarczej, w tym gospodarstwa rolnego;
+2)
+identyfikacji potrzeb jednostek samorządu terytorialnego związanych z koniecznością odtworzenia składników majątkowych służących realizacji zadań publicznych;
+3)
+sporządzenia i konsultacji dokumentów planistycznych, w szczególności koncepcji urbanistycznych oraz projektów miejscowych planów zagospodarowania przestrzennego;
+4)
+nabywania i zamiany nieruchomości;
+5)
+tworzenia korzystnej struktury gruntowej terenu, w szczególności przez podział nieruchomości, scalenie i podział nieruchomości lub scalenie i wymianę gruntów;
+6)
+w razie potrzeby – budowy lub przebudowy obiektów budowlanych;
+7)
+utrzymania prowadzenia produkcji rolnej lub leśnej przez właścicieli i dzierżawców nieruchomości rolnych, w szczególności przez programowanie prac urządzeniowo-rolnych, celem ich realizacji w trybie przepisów o scalaniu i wymianie gruntów.
+1.
+Spółka Celowa może zawierać z jednostkami samorządu terytorialnego porozumienia określające warunki i tryb prowadzenia projektów relokacji.
+2.
+Porozumienie może obejmować w szczególności:
+1)
+zasady i tryb odtworzenia składników majątkowych służących realizacji zadań publicznych, w tym dofinansowania realizacji zadań własnych jednostki samorządu terytorialnego;
+2)
+zasady udziału Spółki Celowej w postępowaniu w przedmiocie uchwalenia planu miejscowego projektu relokacji, w tym sporządzenia projektu tego planu wraz z prognozą oddziaływania na środowisko lub innymi opracowaniami oraz wykonywania czynności w postępowaniu, w szczególności prowadzenia konsultacji społecznych;
+3)
+zasady pokrywania kosztów postępowania w przedmiocie uchwalenia planu miejscowego projektu relokacji lub uchwalenia albo zmiany planu ogólnego gminy.
+3.
+Organy wymienione w art. 120zv ust. 1 są obowiązane do współpracy z gminą oraz Spółką Celową w prowadzeniu procesu relokacji. Współpraca obejmuje w szczególności przedstawianie opinii oraz przekazywanie informacji niezbędnych do określenia warunków relokacji, w tym sporządzenia projektu planu miejscowego projektu relokacji.
+W przypadku gdy w ramach projektu relokacji utworzone zostają lokale wchodzące w skład mieszkaniowego zasobu gminy, porozumienie, o którym mowa w art. 120zq ust. 1, może określać zasady wyboru osób, którym przysługuje pierwszeństwo zawarcia umowy najmu lokalu. Przepisów uchwały wydanej na podstawie art. 21 ust. 1 pkt 2 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz. 725) w zakresie kryteriów wyboru osób, którym przysługuje pierwszeństwo zawarcia umowy najmu lokalu na czas nieoznaczony i umowy najmu socjalnego lokalu, nie stosuje się.
+1.
+Plan miejscowy projektu relokacji może obejmować również obszary niezbędne do zapewnienia infrastruktury technicznej i społecznej, rozumianej jako obiekty budowlane służące realizacji celów publicznych w zakresie pomocy społecznej, edukacji i wychowania, kultury, zdrowia i sportu oraz tereny zieleni publicznej – wraz z terenami, obiektami i urządzeniami niezbędnymi do ich funkcjonowania, oraz do zapewnienia inwestycji towarzyszącej, o której mowa w ustawie z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących, a także obszarów przestrzeni publicznej i cmentarzy, związanych z projektem relokacji.
+1.
+Plan miejscowy projektu relokacji może obejmować również obszary niezbędne do zapewnienia infrastruktury technicznej i społecznej, rozumianej jako obiekty budowlane służące realizacji celów publicznych w zakresie pomocy społecznej, edukacji i wychowania, kultury, zdrowia i sportu oraz obszary zieleni publicznej, o których mowa w art. 2 pkt 25 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym – wraz z terenami, obiektami i urządzeniami niezbędnymi do ich funkcjonowania, a także obszary przestrzeni publicznej i cmentarzy, związane z projektem relokacji.
+2.
+Plan miejscowy projektu relokacji uchwala się na wniosek Spółki Celowej zawierający projekt planu miejscowego projektu relokacji, zgodnie z ustaleniami strategii rozwoju obszaru otoczenia CPK, jeżeli została przyjęta, oraz można uchwalić niezależnie od ustaleń planu ogólnego gminy.
+3.
+(uchylony)
+4.
+(uchylony)
+5.
+(uchylony)
+Plan miejscowy projektu relokacji sporządza i uchwala się z zastosowaniem postępowania uproszczonego, o którym mowa w art. 27b ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym.
+(uchylony)
+1.
+Wójt występuje o wydanie opinii przez organy i podmioty, o których mowa w art. 17 pkt 6 lit. a i b ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, oraz przez:
+1)
+ministra właściwego do spraw rolnictwa – w zakresie gruntów rolnych przeznaczanych na cele nierolnicze;
+2)
+ministra właściwego do spraw środowiska – w zakresie gruntów leśnych przeznaczanych na cele nieleśne.
+2.
+Niewydanie opinii, o których mowa w ust. 1, w terminie 21 dni od dnia doręczenia wniosku o wydanie opinii traktuje się jako brak zastrzeżeń do wniosku.
+3.
+Do wniosku o wydanie opinii, o których mowa w ust. 1, załącza się projekt planu miejscowego projektu relokacji wraz z prognozą oddziaływania na środowisko.
+4.
+Opinie wydawane w postępowaniu w przedmiocie uchwalenia planu miejscowego projektu relokacji zastępują wymagane przepisami prawa rozstrzygnięcia, w szczególności uzgodnienia i decyzje administracyjne.
+Do uchwalania planu miejscowego projektu relokacji oraz do gruntów rolnych i leśnych objętych tym planem nie stosuje się przepisów ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych oraz ustawy z dnia 28 września 1991 r. o lasach.
+Art. 121–128.
+(pominięte)
 
-### DZIAŁ I Przepisy ogólne
+**Art. 61.**
+
+1. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe, z tym że sprawy te toczą się przed organem, który przejął zadania i kompetencje na podstawie niniejszej ustawy.
+
+2. Organ, który przejął zadania i kompetencje na podstawie niniejszej ustawy, przejmuje związane z tymi zadaniami i kompetencjami prawa i obowiązki organu, który utracił te zadania i kompetencje, w tym także wynikające z umów i porozumień.
+
+3. Akta spraw, rejestry, ewidencje, listy i bazy danych, prowadzone przed dniem wejścia w życie niniejszej ustawy przez organ, który utracił zadania i kompetencje na podstawie niniejszej ustawy, przejmuje organ, który przejął od niego w tym zakresie zadania i kompetencje na podstawie niniejszej ustawy.
+
+4. Organ, który utracił zadania i kompetencje na podstawie niniejszej ustawy, przekazuje niezwłocznie organowi, który przejął od niego zadania i kompetencje na podstawie niniejszej ustawy, dokumentację związaną z wykonywaniem przejętych zadań i kompetencji, w tym także w postaci informatycznych nośników danych.
+
+5. Z czynności, o których mowa w ust. 3 i 4, sporządza się protokół. ” „
+
+**Art. 63.** Czynności dokonane przed dniem wejścia w życie niniejszej ustawy przez organ, który utracił zadania i kompetencje na podstawie niniejszej ustawy, a także dokumenty sporządzone przed dniem wejścia w życie niniejszej ustawy przez ten organ albo przy jego udziale, w szczególności uzgodnienia, zatwierdzenia, akceptacje, wezwania, wpisy do rejestrów, zlecenia, wskazania, weryfikacje, notyfikacje, opinie i zaświadczenia, zachowują ważność, przy czym dokumenty wydane na czas określony – zachowują ważność przez okres, na który zostały wydane. ” „
+
+**Art. 84.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia, z wyjątkiem:
+
+- **1)** art. 65 ust. 2 i art. 73 ust. 2, które wchodzą w życie z dniem ogłoszenia;
+- **2)** art. 47 i art. 82, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym
+
+### Dział I Przepisy ogólne
 
 **Art. 1.** Ustawa określa zasady i tryb:
 
+- **1)** zarządzania przygotowaniem i realizacją Centralnego Portu Komunikacyjnego, zwanego dalej „CPK”, w skład którego wchodzą zawarte w Programie: Inwestycja, Inwestycje Towarzyszące oraz pozostałe zadania, w tym o charakterze nieinwestycyjnym, powiązane z realizacją Inwestycji oraz Inwestycji Towarzyszących, zwane dalej łącznie „Przedsięwzięciami”;
+- **2)** przygotowania i realizacji Przedsięwzięć;
+- **3)** zarządzania rozwojem obszaru otoczenia CPK;
+- **4)** przygotowania i realizacji procesów zorganizowanej relokacji w związku z nabywaniem gruntów na cele określone w ustawie.
+
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** Dokumencie Wdrażającym – należy przez to rozumieć dokument wykonawczy do Programu, zawierający w szczególności harmonogramy realizacji oraz budżety poszczególnych Przedsięwzięć;
+- **2)** Inwestorze – należy przez to rozumieć: Spółkę Celową, spółkę, o której mowa w art. 15 ust. 1, jednostki sektora finansów publicznych w rozumieniu przepisów o finansach publicznych, inne, niż określone w lit. c, państwowe jednostki organizacyjne nieposiadające osobowości prawnej, osoby prawne, jeżeli podmioty, o których mowa w lit. a-d, pojedynczo lub wspólnie, bezpośrednio lub pośrednio przez inny podmiot: – finansują je w ponad 50 % lub – posiadają ponad połowę udziałów albo akcji, lub – dysponują większością głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu, także jako zastawnik albo użytkownik, bądź w zarządzie tej osoby prawnej, także na podstawie porozumień z innymi osobami, lub – są uprawnione do powoływania lub odwoływania większości członków zarządu lub rady nadzorczej tej osoby prawnej, także na podstawie porozumień z innymi osobami, lub – mają prawo do całego albo części mienia tej osoby prawnej, lub – na podstawie umów zarządzają tą osobą prawną lub osoba prawna przekazuje im zysk – o ile przygotowują lub realizują Przedsięwzięcia, osoby prawne, w których więcej niż połowę członków zarządu stanowią członkowie zarządu lub rady nadzorczej podmiotów, o których mowa w lit. a-d, o ile przygotowują lub realizują Przedsięwzięcia.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+
+- **3)** Inwestycji – należy przez to rozumieć budowę lotniska użytku publicznego w rozumieniu art. 54 ust. 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2023 r. poz. 2110 oraz z 2024 r. poz. 731 i 1222) wraz z obiektami, urządzeniami, wyposażeniem, sieciami i instalacjami służącymi do jego budowy, przebudowy, remontu, utrzymania, użytkowania, zmiany sposobu użytkowania, eksploatacji lub rozbiórki oraz innymi inwestycjami, w szczególności wraz z: drogami publicznymi w rozumieniu art. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2024 r. poz. 320 i 1222), sieciami przesyłowymi i sieciami dystrybucyjnymi w rozumieniu przepisów ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, 834 i 859), drogami kolejowymi w rozumieniu art. 4 pkt 1a ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2024 r. poz. 697 i 731), urządzeniami i obiektami do obsługi ruchu lotniczego w rozumieniu art. 2 pkt 8 ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego (Dz. U. z 2024 r. poz. 1464), urządzeniami wodnymi w rozumieniu art. 16 pkt 65 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2024 r. poz. 1087, 1089 i 1473), rurociągami ropy naftowej lub produktów naftowych wraz z infrastrukturą niezbędną do obsługi w rozumieniu ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym (Dz. U. z 2024 r. poz. 405 i 834) jeżeli są one przestrzennie oraz funkcjonalnie powiązane z projektowanym lotniskiem;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+
+- **4)** Inwestycji Towarzyszącej – należy przez to rozumieć inwestycje celu publicznego określone w przepisach wydanych na podstawie art. 118;
+- **5)** nieruchomości o nieuregulowanym stanie prawnym – należy przez to rozumieć nieruchomość, dla której, ze względu na brak księgi wieczystej, zbioru dokumentów albo innych dokumentów, nie można ustalić osób, którym przysługują do niej prawa rzeczowe, a także nieruchomość, której dotychczasowy właściciel lub użytkownik wieczysty nieruchomości nie żyje a spadkobiercy nie wykazali prawa do spadku;
+- **6)** Pełnomocniku – należy przez to rozumieć Pełnomocnika Rządu do spraw Centralnego Portu Komunikacyjnego;
+- **7)** Programie – należy przez to rozumieć program wieloletni w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530 i 1572), niestanowiący programu rozwoju w rozumieniu przepisów o zasadach prowadzenia polityki rozwoju, obejmujący Inwestycję, Inwestycje Towarzyszące oraz inne zadania, w tym finansowane z budżetu państwa, określający terminy ich realizacji oraz łączne nakłady z budżetu państwa na ich realizację;
+- **8)** (uchylony)
+- **9)** sieciach – należy przez to rozumieć, stanowiące cele publiczne, sieci przesyłowe oraz dystrybucyjne energii elektrycznej, gazu, ciepła, wody, pary, ropy naftowej, produktów naftowych lub innych płynów albo gazów, sieci telekomunikacyjne, a także sieci kanalizacyjne;
+- **10)** Spółce Celowej – należy przez to rozumieć spółkę z ograniczoną odpowiedzialnością utworzoną przez Skarb Państwa w celu zapewnienia przygotowania i realizacji Programu oraz koordynacji i kontroli realizacji Przedsięwzięć;
+- **10a)** Strategicznym Studium Lokalizacyjnym – należy przez to rozumieć plan ustalający inwestycje celu publicznego o znaczeniu ponadlokalnym w rozumieniu art. 39 ust. 5 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz. 1130), określający w szczególności charakter i ramy przestrzenne: Inwestycji, Inwestycji Towarzyszących lub innych Przedsięwzięć, których inwestorem jest Spółka Celowa lub spółka, o której mowa w art. 15 ust. 1, lub Inwestycji Towarzyszących lub innych Przedsięwzięć, których inwestorem nie jest Spółka Celowa lub spółka, o której mowa w art. 15 ust. 1;
+    - **a)**
+    - **b)**
+
+- **11)** Wykonawcy – należy przez to rozumieć wykonawcę umowy zawartej na podstawie ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320), ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 1637) albo ustawy z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi (Dz. U. z 2023 r. poz. 140), której przedmiotem jest dostawa usługi lub roboty budowlane niezbędne do przygotowania lub wykonania Przedsięwzięć;
+- **12)** Zasadach Zarządzania – należy przez to rozumieć ujednolicone warunki i procedury wdrażania Przedsięwzięć, określające zasady zarządzania Przedsięwzięciami, w tym zasady i tryb nadzoru nad realizacją Przedsięwzięć przez Inwestorów, informowania przez Wykonawców o postępach w realizacji Przedsięwzięć oraz zasad współpracy i wymiany informacji pomiędzy Inwestorami;
+- **13)** Zasobie – należy przez to rozumieć nieruchomości będące własnością Spółki Celowej oraz nieruchomości Skarbu Państwa: wobec których Spółka Celowa jest uprawniona z tytułu użytkowania wieczystego lub którymi gospodaruje Spółka Celowa.
+    - **a)**
+    - **b)**
 
 **Art. 3.**
 
@@ -152,9 +1048,9 @@ Art. 121–128. (pominięte)
 - **1)** wnioskiem o wydanie decyzji o środowiskowych uwarunkowaniach,
 - **2)** decyzją, o której mowa w pkt 1,
 - **3)** wnioskiem o wydanie decyzji dokonującej lokalizacji inwestycji lub zezwalającej na realizację robót budowlanych,
-- **4)** decyzjami, o których mowa w pkt 3 – dotyczącymi Inwestycji i Inwestycji Towarzyszących, inwestycje przeciwdziałające skutkom suszy może lokalizować i realizować wyłącznie Inwestor Inwestycji lub Inwestycji Towarzyszącej.
+- **4)** decyzjami, o których mowa w pkt 3 dotyczącymi Inwestycji i Inwestycji Towarzyszących, inwestycje przeciwdziałające skutkom suszy może lokalizować i realizować wyłącznie Inwestor Inwestycji lub Inwestycji Towarzyszącej.
 
-### DZIAŁ II Zarządzanie przygotowaniem i realizacją Przedsięwzięć
+### Dział II Zarządzanie przygotowaniem i realizacją Przedsięwzięć
 
 #### Rozdział 1 Pełnomocnik
 
@@ -168,7 +1064,16 @@ Art. 121–128. (pominięte)
 
 **Art. 5.** Do kompetencji Pełnomocnika należy przygotowanie projektu Programu i jego zmian oraz podejmowanie działań zmierzających do jego realizacji, w szczególności:
 
-**Art. 5a.** (uchylony)
+- **1)** przygotowanie projektów przepisów wydawanych na podstawie art. 28 ust. 1 i art. 99 ust. 11 oraz ich zmian;
+- **2)** przygotowanie projektów innych dokumentów rządowych koniecznych do wdrożenia Programu oraz ich zmian, w szczególności programów wieloletnich i innych dokumentów strategicznych oraz projektów aktów normatywnych oraz ich zmian;
+- **2a)** koordynowanie – we współpracy z ministrem właściwym do spraw rozwoju regionalnego oraz jednostkami samorządu terytorialnego – rozwoju społeczno-gospodarczego obszaru otoczenia CPK, na zasadach określonych w dziale IVb;
+- **3)** zatwierdzanie Dokumentu Wdrażającego oraz jego zmian;
+- **4)** zatwierdzanie Zasad Zarządzania oraz ich zmian oraz nadzór nad ich przestrzeganiem;
+- **5)** dążenie do zapewnienia jednolitego stosowania przepisów ustawy;
+- **6)** wyrażanie zgody na zlecenie, w drodze porozumienia, przez Spółkę Celową wykonywania jej zadań związanych z gospodarowaniem Zasobem;
+- **7)** w przypadku nabycia lub wywłaszczenia nieruchomości w celu realizacji Inwestycji lub Inwestycji Towarzyszącej albo nabycia nieruchomości na szczególnych zasadach określonych w art. 29b ust. 1 pkt 1 i pkt 2 lit. a, występowanie, w sytuacji wystąpienia szczególnych okoliczności, z wnioskiem o przyznanie emerytury, renty rolniczej z tytułu niezdolności do pracy lub renty rodzinnej rolnikowi lub domownikowi lub członkom rodziny zmarłego rolnika lub domownika, o których mowa w art. 55 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2024 r. poz. 90 i 1243);
+- **8)** przyjmowanie, w drodze zarządzenia, aktów podlegających strategicznej ocenie oddziaływania na środowisko;
+- **9)** reprezentowanie Skarbu Państwa w zakresie spraw określonych w ustawie. (uchylony)
 
 **Art. 6.** (uchylony)
 
@@ -186,9 +1091,7 @@ Art. 121–128. (pominięte)
 
 1. Pełnomocnik, w zakresie powierzonych mu zadań, może powoływać zespoły eksperckie i doradcze oraz zlecać przeprowadzanie ekspertyz.
 
-2. Pełnomocnik może występować do właściwych podmiotów o powołanie pracowników, za zgodą tych pracowników, w skład zespołów, o których mowa w ust.
-
-1.
+2. Pełnomocnik może występować do właściwych podmiotów o powołanie pracowników, za zgodą tych pracowników, w skład zespołów, o których mowa w ust. 1.
 
 3. Do pracowników powołanych w skład zespołów, o których mowa w ust. 1, stosuje się przepisy ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2023 r. poz. 1917), ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2024 r. poz. 409) oraz ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych (Dz. U. z 2024 r. poz. 1135).
 
@@ -218,15 +1121,13 @@ Art. 121–128. (pominięte)
 
 4. Przepisy ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych stosuje się do udzielania zamówień lub organizowania konkursów o wartości równej lub przekraczającej progi unijne, o których mowa w art. 3 tej ustawy, udzielanych przez Spółkę Celową i spółkę, o której mowa w art. 15 ust. 1. Spółka Celowa i spółka, o której mowa w art. 15 ust. 1, wzywają wykonawcę zgodnie z art. 107 ust. 2 lub art. 128 ust. 1 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych nie więcej niż trzykrotnie.
 
-**Art. 12a.**
-
 1. Udzielając zamówień klasycznych, o których mowa w art. 7 pkt 33 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, nieobjętych wyłączeniem stosowania tej ustawy na podstawie jej przepisów, o wartości mniejszej niż progi unijne w rozumieniu art. 3 tej ustawy, zamawiający, o którym mowa w art. 12 ust. 4:
 
 - **1)** zamieszcza ogłoszenie o zamówieniu na swojej stronie internetowej;
 - **2)** zapewnia przejrzystość postępowania, zachowanie uczciwej konkurencji i równe traktowanie podmiotów zainteresowanych realizacją zamówienia oraz uwzględnia okoliczności mogące mieć wpływ na jego udzielenie;
-- **3)** w odniesieniu do zamawianych dostaw, usług lub robót budowlanych może kierować się:
-    - **a)** kryteriami jakościowymi, w szczególności odnoszącymi się do aspektów środowiskowych lub społecznych, oraz ceną lub kosztem,
-    - **b)** ceną lub kosztem;
+- **3)** w odniesieniu do zamawianych dostaw, usług lub robót budowlanych może kierować się: kryteriami jakościowymi, w szczególności odnoszącymi się do aspektów środowiskowych lub społecznych, oraz ceną lub kosztem, ceną lub kosztem;
+    - **a)**
+    - **b)**
 
 - **4)** nie udostępnia informacji stanowiących tajemnicę przedsiębiorstwa w rozumieniu ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2022 r. poz. 1233), jeżeli nie później niż w terminie składania ofert lub wniosków o dopuszczenie do udziału w postępowaniu podmiot zainteresowany realizacją zamówienia zastrzegł, że nie mogą być one udostępniane, oraz wykazał, że zastrzeżone informacje stanowią tajemnicę przedsiębiorstwa, z tym że nie można zastrzec informacji dotyczącej nazwy albo imienia i nazwiska podmiotu zainteresowanego realizacją zamówienia, informacji o siedzibie, miejscu prowadzenia działalności gospodarczej lub miejscu zamieszkania tego podmiotu, a także informacji o cenie lub koszcie zawartych w ofercie;
 - **5)** niezwłocznie zamieszcza na swojej stronie internetowej informację o udzieleniu zamówienia, podając nazwę albo imię i nazwisko podmiotu, z którym zawarł umowę o realizację zamówienia, albo informację o nieudzieleniu zamówienia.
@@ -263,6 +1164,9 @@ Art. 121–128. (pominięte)
 
 **Art. 16.** W ramach zapewnienia wsparcia Pełnomocnikowi w wykonywaniu jego zadań Spółka Celowa w szczególności:
 
+- **1)** przygotowuje dla Pełnomocnika projekt Programu oraz projekt zmian Programu;
+- **2)** realizuje inne zadania powierzone przez Pełnomocnika, związane z przygotowaniem i realizacją Programu.
+
 **Art. 17.**
 
 1. W ramach zapewnienia przygotowania i realizacji Programu Spółka Celowa w szczególności:
@@ -284,9 +1188,9 @@ Art. 121–128. (pominięte)
 - **15)** zarządza zrealizowanymi Przedsięwzięciami, jeżeli jest to konieczne dla realizacji celów Programu;
 - **16)** prowadzi działalność związaną z eksploatacją obszaru geograficznego w celu udostępniania przewoźnikom lotniczym portów lotniczych lub działalność mającą na celu zapewnianie lub obsługę sieci świadczących usługi dla odbiorców publicznych w obszarze transportu koleją lub systemami automatycznymi;
 - **17)** zapewnia optymalne warunki rozwoju społeczno-gospodarczego oraz przestrzennego na obszarze otoczenia CPK;
-- **18)** prowadzi działalność gospodarczą w zakresie:
-    - **a)** wytwarzania i dystrybucji energii elektrycznej,
-    - **b)** wytwarzania, dystrybucji oraz transportu ciepła – na zasadach i warunkach określonych w ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne.
+- **18)** prowadzi działalność gospodarczą w zakresie: wytwarzania i dystrybucji energii elektrycznej, wytwarzania, dystrybucji oraz transportu ciepła na zasadach i warunkach określonych w ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne.
+    - **a)**
+    - **b)**
 
 1a. Po zrealizowaniu Inwestycji Towarzyszącej polegającej na budowie linii kolejowej wybudowana linia kolejowa jest przekazywana wraz z powiązaną infrastrukturą kolejową:
 
@@ -295,7 +1199,7 @@ Art. 121–128. (pominięte)
 
 1b. Jeżeli zasady współfinansowania inwestycji ze środków Unii Europejskiej ograniczają możliwość przekazania linii kolejowej, o której mowa w ust. 1a, wykonywanie zadań zarządcy infrastruktury przekazuje się podmiotom, o których mowa w ust. 1a.
 
-1c. W zakresie zapewnienia optymalnych warunków rozwoju społecznogospodarczego oraz przestrzennego na obszarze otoczenia CPK Spółka Celowa w szczególności:
+1c. W zakresie zapewnienia optymalnych warunków rozwoju społeczno-gospodarczego oraz przestrzennego na obszarze otoczenia CPK Spółka Celowa w szczególności:
 
 - **1)** tworzy, rozwija i utrzymuje Zasób;
 - **2)** wykonuje zadania powierzone przez Pełnomocnika w zakresie zarządzania rozwojem obszaru otoczenia CPK, na zasadach określonych w dziale IVb;
@@ -309,8 +1213,6 @@ Art. 121–128. (pominięte)
 3. Udostępnienie danych, o którym mowa w ust. 2, następuje na wniosek Pełnomocnika lub Spółki Celowej w terminie nie dłuższym niż 30 dni od dnia otrzymania wniosku. Udostępnienie danych nie może naruszać przepisów dotyczących udostępniania danych objętych tajemnicą przedsiębiorstwa oraz innych tajemnic ustawowo chronionych.
 
 4. W zakresie niezbędnym do realizacji Inwestycji Spółka Celowa jest uprawniona do dostępu i wykorzystywania danych z ewidencji gruntów i budynków oraz rejestru cen nieruchomości, o których mowa w ustawie z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151).
-
-**Art. 17a.**
 
 1. W ramach działań z zakresu społecznej odpowiedzialności biznesu Spółka Celowa jest uprawniona do realizacji programów skierowanych do osób zbywających nieruchomości na warunkach określonych w art. 29b ust. 1 pkt 2, obejmujących w szczególności:
 
@@ -326,6 +1228,15 @@ Art. 121–128. (pominięte)
 
 **Art. 18.** W ramach koordynacji i kontroli realizacji Przedsięwzięć Spółka Celowa w szczególności:
 
+- **1)** przygotowuje projekt Zasad Zarządzania albo ich zmiany oraz przedkłada go Pełnomocnikowi do zatwierdzenia;
+- **2)** określa zasady polityki informacyjnej dotyczącej realizacji przygotowań i realizacji Przedsięwzięć;
+- **3)** przygotowuje projekty harmonogramów działań związanych z przygotowaniem Przedsięwzięć;
+- **4)** inicjuje działania zmierzające do poprawy efektywności przygotowań i realizacji Przedsięwzięć;
+- **5)** zapewnia doradztwo i szkolenia dla Inwestorów i Wykonawców;
+- **6)** kontroluje, czy pozostali Inwestorzy zarządzają Przedsięwzięciami zgodnie z Zasadami Zarządzania;
+- **7)** może żądać od innych Inwestorów przedstawienia jej bądź spółkom, o których mowa w art. 15 ust. 1, dokumentów, informacji, ekspertyz i analiz związanych z wdrożeniem Programu;
+- **8)** może żądać upoważnienia jej lub spółek, o których mowa w art. 15 ust. 1, przez Inwestorów do występowania w imieniu Inwestorów wobec innych podmiotów uczestniczących w przygotowaniu i realizacji Programu.
+
 **Art. 19.** (uchylony)
 
 #### Rozdział 3 Zasady Zarządzania
@@ -340,9 +1251,7 @@ Art. 121–128. (pominięte)
 
 4. W przypadku Inwestorów będących jednostkami sektora finansów publicznych, ograniczenie zakresu stosowania Zasad Zarządzania, o którym mowa w ust. 3, może nastąpić wyłącznie, gdy dostosowanie sposobu realizacji do Zasad Zarządzania nie leży w interesie publicznym lub nie daje się pogodzić z ochroną uzasadnionego interesu Inwestora.
 
-5. Inwestor zamieszcza odpowiednio w dokumentach zamówienia lub w dokumentach koncesji informację o obowiązku stosowania Zasad Zarządzania przy realizacji Przedsięwzięcia i obowiązku złożenia oświadczenia, o którym mowa w ust.
-
-6.
+5. Inwestor zamieszcza odpowiednio w dokumentach zamówienia lub w dokumentach koncesji informację o obowiązku stosowania Zasad Zarządzania przy realizacji Przedsięwzięcia i obowiązku złożenia oświadczenia, o którym mowa w ust. 6.
 
 6. Podmiot zainteresowany realizacją Przedsięwzięcia, w szczególności wykonawca w rozumieniu ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, składa oświadczenie o wyrażeniu zgody na stosowanie Zasad Zarządzania. W przypadku zamówień publicznych, partnerstwa publiczno-prywatnego oraz koncesji na roboty budowlane lub usługi, oświadczenie składa się wraz z dokumentami potwierdzającymi spełnianie warunków udziału w postępowaniu.
 
@@ -389,11 +1298,9 @@ Art. 121–128. (pominięte)
 
 **Art. 27.** W przypadkach, o których mowa w art. 24, Pełnomocnik może odwołać członka zarządu Spółki Celowej odpowiedzialnego za nieterminowe złożenie raportu.
 
-### DZIAŁ III Przygotowanie i realizacja Inwestycji
+### Dział III Przygotowanie i realizacja Inwestycji
 
 #### Rozdział 1 Przygotowanie obszaru Inwestycji wraz z otoczeniem
-
-**Art. 27a.** Ilekroć w niniejszym rozdziale jest mowa o własności nieruchomości albo właścicielu nieruchomości, należy przez to rozumieć również prawo użytkowania wieczystego nieruchomości albo użytkownika wieczystego nieruchomości.
 
 **Art. 28.**
 
@@ -412,13 +1319,25 @@ Art. 121–128. (pominięte)
 
 4. Rozporządzenie, o którym mowa w ust. 1, obejmuje całe działki ewidencyjne.
 
-5. Wydając rozporządzenie, o którym mowa w ust. 1, uwzględnia się ustalenia rządowych dokumentów strategicznych, Programu oraz Strategicznego Studium Lokalizacyjnego, jeżeli zostały przyjęte, wyznaczając obszar niezbędny do zapewnienia prawidłowego przygotowania Inwestycji oraz zapewnienia optymalnych warunków rozwoju społeczno-gospodarczego oraz przestrzennego na obszarze otoczenia CPK w sposób możliwie zwarty. [6. W przypadku gdy rozporządzenie, o którym mowa w ust. 1, wprowadza zakaz, o którym mowa w art. 29 ust. 1 pkt 4 lub 10, odpowiednio decyzje wydane na podstawie art. 50 i art. 59 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, dotyczące nieruchomości lub ich części znajdujących się na obszarze objętym rozporządzeniem, o którym mowa w ust. 1, lub uchwały lokalizacyjne, o których mowa w art. 7 ust. 1 i art. 20 ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących (Dz. U. z 2024 r. poz. 195), wygasają z dniem wejścia w życie tego rozporządzenia lub jego zmiany, z wyjątkiem decyzji dotyczących rozbudowy, przebudowy, odbudowy istniejących obiektów liniowych.] <6. W przypadku gdy rozporządzenie, o którym mowa w ust. 1, wprowadza zakaz, o którym mowa w art. 29 ust. 1 pkt 4, decyzje wydane na podstawie art. 50 i art. 59 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, dotyczące nieruchomości lub ich części znajdujących się na obszarze objętym rozporządzeniem, o którym mowa w ust. 1, wygasają z dniem wejścia w życie tego rozporządzenia lub jego zmiany, z wyjątkiem decyzji dotyczących rozbudowy, przebudowy, odbudowy istniejących obiektów liniowych.> [7. Przepisu ust. 6 nie stosuje się do decyzji wydanych na podstawie art. 50 i art. 59 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym oraz uchwał lokalizacyjnych, o których mowa w art. 7 ust. 1 i art. 20 ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących, na podstawie których przed dniem wejścia w życie przepisów wykonawczych wydanych na podstawie ust. 1 wydano decyzje o pozwoleniu na budowę albo dokonano zgłoszeń, o których mowa w art. 30 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, do których właściwy organ nie wniósł sprzeciwu.] <7. Przepisu ust. 6 nie stosuje się do decyzji wydanych na podstawie art. 50 i art. 59 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, na podstawie których przed dniem wejścia w życie przepisów wykonawczych wydanych na podstawie ust. 1 wydano decyzje o pozwoleniu na budowę albo dokonano zgłoszeń, o których mowa w art. 30 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, do których właściwy organ nie wniósł sprzeciwu.>
+5. Wydając rozporządzenie, o którym mowa w ust. 1, uwzględnia się ustalenia rządowych dokumentów strategicznych, Programu oraz Strategicznego Studium Lokalizacyjnego, jeżeli zostały przyjęte, wyznaczając obszar niezbędny do zapewnienia prawidłowego przygotowania Inwestycji oraz zapewnienia optymalnych warunków rozwoju społeczno-gospodarczego oraz przestrzennego na obszarze otoczenia CPK w sposób możliwie zwarty.
+
+6. W przypadku gdy rozporządzenie, o którym mowa w ust. 1, wprowadza zakaz, o którym mowa w art. 29 ust. 1 pkt 4 lub 10, odpowiednio decyzje wydane na podstawie art. 50 i art. 59 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, dotyczące nieruchomości lub ich części znajdujących się na obszarze objętym rozporządzeniem, o którym mowa w ust. 1, lub uchwały lokalizacyjne, o których mowa w art. 7 ust. 1 i art. 20 ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących (Dz. U. z 2024 r. poz. 195), wygasają z dniem wejścia w życie tego rozporządzenia lub jego zmiany, z wyjątkiem decyzji dotyczących rozbudowy, przebudowy, odbudowy istniejących obiektów liniowych.
+
+6. W przypadku gdy rozporządzenie, o którym mowa w ust. 1, wprowadza zakaz, o którym mowa w art. 29 ust. 1 pkt 4, decyzje wydane na podstawie art. 50 i art. 59 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, dotyczące nieruchomości lub ich części znajdujących się na obszarze objętym rozporządzeniem, o którym mowa w ust. 1, wygasają z dniem wejścia w życie tego rozporządzenia lub jego zmiany, z wyjątkiem decyzji dotyczących rozbudowy, przebudowy, odbudowy istniejących obiektów liniowych.
+
+7. Przepisu ust. 6 nie stosuje się do decyzji wydanych na podstawie art. 50 i art. 59 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym oraz uchwał lokalizacyjnych, o których mowa w art. 7 ust. 1 i art. 20 ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących, na podstawie których przed dniem wejścia w życie przepisów wykonawczych wydanych na podstawie ust. 1 wydano decyzje o pozwoleniu na budowę albo dokonano zgłoszeń, o których mowa w art. 30 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, do których właściwy organ nie wniósł sprzeciwu.
+
+7. Przepisu ust. 6 nie stosuje się do decyzji wydanych na podstawie art. 50 i art. 59 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, na podstawie których przed dniem wejścia w życie przepisów wykonawczych wydanych na podstawie ust. 1 wydano decyzje o pozwoleniu na budowę albo dokonano zgłoszeń, o których mowa w art. 30 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, do których właściwy organ nie wniósł sprzeciwu.
 
 8. Do stwierdzenia wygaśnięcia decyzji wydanych na podstawie art. 50 i art. 59 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym przepisu art. 162 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
 
 9. W ciągu 30 dni od dnia wejścia w życie rozporządzenia, o którym mowa w ust. 1, lub jego zmiany wójt, burmistrz lub prezydent miasta opracowuje wykaz decyzji, o których mowa w ust. 6.
 
-10. Wykaz, o którym mowa w ust. 9, jest przekazywany właściwym miejscowo organom administracji architektoniczno-budowlanej i nadzoru budowlanego oraz podlega ogłoszeniu na stronie podmiotowej Biuletynu Informacji Publicznej właściwej gminy. [11. W przypadku gdy rozporządzenie, o którym mowa w ust. 1, wprowadza zakaz, o którym mowa w art. 29 ust. 1 pkt 4 lub 10, postępowania wszczęte i niezakończone przed dniem wejścia w życie rozporządzenia, o którym mowa w ust. 1, lub jego zmiany, odpowiednio w sprawie decyzji, o których mowa w art. 50 i art. 59 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, lub uchwał lokalizacyjnych, o których mowa w art. 7 ust. 1 i art. 20 ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących, dotyczące nieruchomości lub jej części znajdujących się na obszarze, objętych rozporządzeniem, o którym mowa w ust. 1, umarza się.] <11. W przypadku gdy rozporządzenie, o którym mowa w ust. 1, wprowadza zakaz, o którym mowa w art. 29 ust. 1 pkt 4, postępowania wszczęte i niezakończone przed dniem wejścia w życie rozporządzenia, o którym mowa w ust. 1, lub jego zmiany, w sprawie decyzji, o których mowa w art. 50 i art. 59 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, dotyczące nieruchomości lub jej części znajdujących się na obszarze, objętych rozporządzeniem, o którym mowa w ust. 1, umarza się.>
+10. Wykaz, o którym mowa w ust. 9, jest przekazywany właściwym miejscowo organom administracji architektoniczno-budowlanej i nadzoru budowlanego oraz podlega ogłoszeniu na stronie podmiotowej Biuletynu Informacji Publicznej właściwej gminy.
+
+11. W przypadku gdy rozporządzenie, o którym mowa w ust. 1, wprowadza zakaz, o którym mowa w art. 29 ust. 1 pkt 4 lub 10, postępowania wszczęte i niezakończone przed dniem wejścia w życie rozporządzenia, o którym mowa w ust. 1, lub jego zmiany, odpowiednio w sprawie decyzji, o których mowa w art. 50 i art. 59 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, lub uchwał lokalizacyjnych, o których mowa w art. 7 ust. 1 i art. 20 ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących, dotyczące nieruchomości lub jej części znajdujących się na obszarze, objętych rozporządzeniem, o którym mowa w ust. 1, umarza się.
+
+11. W przypadku gdy rozporządzenie, o którym mowa w ust. 1, wprowadza zakaz, o którym mowa w art. 29 ust. 1 pkt 4, postępowania wszczęte i niezakończone przed dniem wejścia w życie rozporządzenia, o którym mowa w ust. 1, lub jego zmiany, w sprawie decyzji, o których mowa w art. 50 i art. 59 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, dotyczące nieruchomości lub jej części znajdujących się na obszarze, objętych rozporządzeniem, o którym mowa w ust. 1, umarza się.
 
 **Art. 29.**
 
@@ -431,28 +1350,30 @@ Art. 121–128. (pominięte)
 - **5)** zakaz prowadzenia postępowań administracyjnych i dokonywania czynności materialno-technicznych skutkujących połączeniem lub podziałem działek ewidencyjnych;
 - **6)** zakaz wydzielania samodzielnych lokali mieszkalnych w budynkach;
 - **7)** zakaz zmiany sposobu użytkowania obiektu budowlanego lub jego części;
-- **8)** zakaz wydawania decyzji dokonujących lokalizacji oraz decyzji zezwalających na wykonywanie robót budowlanych na podstawie:
-    - **a)** ustawy z dnia 28 marca 2003 r. o transporcie kolejowym i dotyczących lokalizacji linii kolejowej,
-    - **b)** ustawy z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. z 2024 r. poz.
+- **8)** zakaz wydawania decyzji dokonujących lokalizacji oraz decyzji zezwalających na wykonywanie robót budowlanych na podstawie: ustawy z dnia 28 marca 2003 r. o transporcie kolejowym i dotyczących lokalizacji linii kolejowej, ustawy z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. z 2024 r. poz. 311) i dotyczących zezwolenia na realizację inwestycji drogowej, ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego i dotyczących zezwolenia na realizację inwestycji w zakresie lotniska użytku publicznego, ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu (Dz. U. z 2024 r. poz. 1286) i dotyczących lokalizacji inwestycji w zakresie terminalu oraz inwestycji towarzyszącej, ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. z 2024 r. poz. 604, 834 i 1222) i dotyczących lokalizacji regionalnej sieci szerokopasmowej, ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych (Dz. U. z 2024 r. poz. 274) i dotyczących pozwolenia na realizację takich inwestycji, ustawy z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących (Dz. U. z 2024 r. poz. 1410 i 1572) i dotyczących lokalizacji inwestycji w zakresie budowy obiektu energetyki jądrowej oraz inwestycji towarzyszącej, ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych (Dz. U. z 2024 r. poz. 1199) i dotyczących lokalizacji lub realizacji inwestycji w zakresie strategicznych inwestycji w zakresie sieci przesyłowych, ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących, (uchylona) ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym, ustawy z dnia 14 kwietnia 2023 r. o przygotowaniu i realizacji inwestycji w zakresie elektrowni szczytowo-pompowych oraz inwestycji towarzyszących (Dz. U. poz. 1113);
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **i)**
+    - **j)**
+    - **k)**
 
-- **311)** i dotyczących zezwolenia na realizację inwestycji drogowej, U. z 2024 r. poz. 1410 i 1572) i dotyczących lokalizacji inwestycji w zakresie budowy obiektu energetyki jądrowej oraz inwestycji towarzyszącej,
-    - **c)** ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego i dotyczących zezwolenia na realizację inwestycji w zakresie lotniska użytku publicznego,
-    - **d)** ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu (Dz. U. z 2024 r. poz. 1286) i dotyczących lokalizacji inwestycji w zakresie terminalu oraz inwestycji towarzyszącej,
-    - **e)** ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. z 2024 r. poz. 604, 834 i 1222) i dotyczących lokalizacji regionalnej sieci szerokopasmowej,
-    - **f)** ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych (Dz. U. z 2024 r. poz. 274) i dotyczących pozwolenia na realizację takich inwestycji,
-    - **g)** ustawy z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących (Dz.
-    - **h)** ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych (Dz. U. z 2024 r. poz. 1199) i dotyczących lokalizacji lub realizacji inwestycji w zakresie strategicznych inwestycji w zakresie sieci przesyłowych, [i) ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących,]
-    - **j)** ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym,
-    - **k)** ustawy z dnia 14 kwietnia 2023 r. o przygotowaniu i realizacji inwestycji w zakresie elektrowni szczytowo-pompowych oraz inwestycji towarzyszących (Dz. U. poz. 1113);
-
-- **9)** zakaz wydawania zgody, o której mowa w art. 46c ust. 3 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2024 r. poz. 924); [10) zakaz podejmowania uchwał lokalizacyjnych, o których mowa w art. 7 ust. 1 i w art. 20 ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących.]
+- **9)** zakaz wydawania zgody, o której mowa w art. 46c ust. 3 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2024 r. poz. 924);
+- **10)** zakaz podejmowania uchwał lokalizacyjnych, o których mowa w art. 7 ust. 1 i w art. 20 ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących.
+- **10)** (uchylony)
 
 2. Uprawnienie Pełnomocnika do wyrażania zgody, o której mowa w ust. 1 pkt 1, może być wykonane w terminie miesiąca od dnia otrzymania przez Pełnomocnika zawiadomienia o zamiarze ustanowienia ograniczonych praw rzeczowych lub zawarcia umów dzierżawy lub najmu nieruchomości gruntowych Skarbu Państwa oraz umów, które pozwalają na realizację inwestycji na takich nieruchomościach, również inwestycji o charakterze innym niż budowlanym.
 
 3. Podmiot gospodarujący nieruchomością w imieniu Skarbu Państwa przed:
 
 - **1)** ustanowieniem ograniczonych praw rzeczowych,
-- **2)** zawarciem umowy dzierżawy lub najmu nieruchomości gruntowej oraz umowy, która pozwala na realizację inwestycji na nieruchomości, również inwestycji o charakterze innym niż budowlanym – jest obowiązany do uzyskania zgody Pełnomocnika.
+- **2)** zawarciem umowy dzierżawy lub najmu nieruchomości gruntowej oraz umowy, która pozwala na realizację inwestycji na nieruchomości, również inwestycji o charakterze innym niż budowlanym jest obowiązany do uzyskania zgody Pełnomocnika.
 
 4. Umowy, o których mowa w ust. 3 pkt 2, zawarte bez dokonania zawiadomienia lub przed upływem terminu, o którym mowa w ust. 2, lub mimo braku zgody Pełnomocnika są nieważne z mocy prawa.
 
@@ -468,18 +1389,28 @@ Art. 121–128. (pominięte)
 
 10. Do wniosku o udzielenie zgody, o której mowa w ust. 7, załącza się opis podstawowych danych charakteryzujących inwestycję objętą zwolnieniem, w tym jej lokalizację – w formie tekstowej oraz graficznej. W przypadku podziału nieruchomości do wniosku załącza się wstępny projekt podziału wraz ze wskazaniem celu dokonywanego podziału.
 
-11. Zgoda Pełnomocnika stanowi załącznik do wniosków lub zgłoszeń w sprawie wydania rozstrzygnięć, określonych w ust. 1 pkt 3–8 i ust. 8.
+11. Zgoda Pełnomocnika stanowi załącznik do wniosków lub zgłoszeń w sprawie wydania rozstrzygnięć, określonych w ust. 1 pkt 3–8 i ust. 8. Zakazów określonych w art. 29 ust. 1 i 6 nie stosuje się do robót budowlanych albo zmiany zagospodarowania terenu polegających na:
 
-**Art. 29a.** Zakazów określonych w art. 29 ust. 1 i 6 nie stosuje się do robót budowlanych albo zmiany zagospodarowania terenu polegających na:
+- **1)** remoncie,
+- **2)** przebudowie niezmieniającej funkcji obiektu,
+- **3)** wykonaniu urządzeń budowlanych, obiektów małej architektury oraz przyłączy,
+- **4)** innych robotach budowlanych na istniejącym obiekcie budowlanym, prowadzących wyłącznie do: przystosowania do potrzeb osób niepełnosprawnych, poprawy bezpieczeństwa pożarowego, poprawy warunków sanitarnych, zmniejszenia rocznego zapotrzebowania na energię lub kosztów pozyskania ciepła, zamiany źródła energii na odnawialne źródło energii w rozumieniu art. 2 pkt 22 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2024 r. poz. 1361) lub zastosowania wysokosprawnej kogeneracji w rozumieniu art. 3 pkt 38 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, zapewnienia telekomunikacji,
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
 
-**Art. 29b.**
+- **5)** odbudowie,
+- **6)** budowie mikroinstalacji w rozumieniu art. 2 pkt 19 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii niezwiększających powierzchni zabudowy o więcej niż 5 %.
 
 1. Szczególne zasady nabywania nieruchomości obejmują:
 
 - **1)** prawo pierwokupu nieruchomości na rzecz Spółki Celowej, z wyłączeniem samodzielnych lokali mieszkalnych;
-- **2)** uprawnienie Spółki Celowej, uwzględniając znaczenie nieruchomości dla realizacji Przedsięwzięć, do:
-    - **a)** nabywania nieruchomości za cenę odpowiadającą najwyższej z wartości ustalonych zgodnie z ust. 2–13 lub na zasadach określonych w ust. 14 i 15 albo
-    - **b)** nabywania nieruchomości za cenę określoną zgodnie z ust. 2 i ustanowienia renty z tytułu zaprzestania prowadzenia działalności rolniczej na warunkach określonych w art. 29c – oraz wypłaty rekompensaty w związku ze spadkiem zdolności kredytowej zbywcy nieruchomości.
+- **2)** uprawnienie Spółki Celowej, uwzględniając znaczenie nieruchomości dla realizacji Przedsięwzięć, do: nabywania nieruchomości za cenę odpowiadającą najwyższej z wartości ustalonych zgodnie z ust. 2–13 lub na zasadach określonych w ust. 14 i 15 albo nabywania nieruchomości za cenę określoną zgodnie z ust. 2 i ustanowienia renty z tytułu zaprzestania prowadzenia działalności rolniczej na warunkach określonych w art. 29c oraz wypłaty rekompensaty w związku ze spadkiem zdolności kredytowej zbywcy nieruchomości.
+    - **a)**
+    - **b)**
 
 2. Podstawę ustalenia ceny nieruchomości w przypadku jej nabycia przez Spółkę Celową stanowi wartość nieruchomości określona zgodnie z przepisami o gospodarce nieruchomościami, z wyłączeniem ust. 12.
 
@@ -491,9 +1422,9 @@ Art. 121–128. (pominięte)
 
 4. Spółka Celowa może nabyć nieruchomość za cenę stanowiącą równowartość wartości odtworzeniowej nieruchomości określonej bez uwzględnienia stopnia zużycia.
 
-5. Spółka Celowa może nabyć nieruchomość zabudowaną budynkiem mieszkalnym albo lokalem, stanowiącym odrębny przedmiot własności – w których jest zameldowany na pobyt stały właściciel albo użytkownik wieczysty – za cenę stanowiącą 25-krotność wskaźnika przeliczeniowego kosztu odtworzenia 1 m powierzchni użytkowej budynków mieszkalnych ogłaszanego przez wojewodę, obowiązującego w dniu poprzedzającym dzień dokonania transakcji.
+5. Spółka Celowa może nabyć nieruchomość zabudowaną budynkiem mieszkalnym albo lokalem, stanowiącym odrębny przedmiot własności – w których jest zameldowany na pobyt stały właściciel albo użytkownik wieczysty – za cenę stanowiącą 25-krotność wskaźnika przeliczeniowego kosztu odtworzenia 1 m2 powierzchni użytkowej budynków mieszkalnych ogłaszanego przez wojewodę, obowiązującego w dniu poprzedzającym dzień dokonania transakcji.
 
-6. Spółka Celowa może nabyć nieruchomość za łączną wysokość ceny ustalonej zgodnie z ust. 5 powiększoną w odniesieniu do trzeciej i każdej kolejnej osoby o 10krotność wskaźnika, o którym mowa w ust. 5, w przypadku gdy w budynku mieszkalnym albo w lokalu, stanowiącym odrębny przedmiot własności, są zameldowane na pobyt stały więcej niż 2 osoby.
+6. Spółka Celowa może nabyć nieruchomość za łączną wysokość ceny ustalonej zgodnie z ust. 5 powiększoną w odniesieniu do trzeciej i każdej kolejnej osoby o 10-krotność wskaźnika, o którym mowa w ust. 5, w przypadku gdy w budynku mieszkalnym albo w lokalu, stanowiącym odrębny przedmiot własności, są zameldowane na pobyt stały więcej niż 2 osoby.
 
 7. Przy ustalaniu liczby osób zameldowanych na pobyt stały pomija się osoby inne niż osoby bliskie wobec właściciela albo użytkownika wieczystego nieruchomości, w rozumieniu art. 4 pkt 13 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, oraz osoby zameldowane na pobyt stały krócej niż przez 1 rok poprzedzający bezpośrednio dzień dokonania transakcji.
 
@@ -501,7 +1432,7 @@ Art. 121–128. (pominięte)
 
 9. Przy ustalaniu liczby osób zameldowanych na pobyt stały pomija się osoby posiadające tytuł prawny do innego lokalu mieszkalnego lub budynku mieszkalnego. Podstawą ustalenia okoliczności, o której mowa w zdaniu pierwszym, jest oświadczenie, składane pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-10. Cena ustalona zgodnie z przepisami ust. 5 i 6 nie może przekroczyć 60krotności wskaźnika, o którym mowa w ust. 5.
+10. Cena ustalona zgodnie z przepisami ust. 5 i 6 nie może przekroczyć 60-krotności wskaźnika, o którym mowa w ust. 5.
 
 11. Przepisy ust. 2 i 4–10 stosuje się odpowiednio do spółdzielczego własnościowego prawa do lokalu mieszkalnego.
 
@@ -519,8 +1450,6 @@ Art. 121–128. (pominięte)
 - **2)** w okresie od dnia przeniesienia własności nieruchomości do dnia jej wydania zbywca jest uprawniony do korzystania z nieruchomości, w tym pobierania z niej pożytków, na warunkach szczegółowo określonych w umowie;
 - **3)** na żądanie Spółki Celowej w umowie zawiera się zobowiązanie zbywcy do nieodpłatnego udostępnienia nieruchomości Spółce Celowej w przypadku konieczności przeprowadzenia badań przyrodniczych lub badań i pomiarów niezbędnych do przygotowania i realizacji Inwestycji albo Inwestycji Towarzyszącej, w szczególności badań archeologicznych, konserwatorskich, prac geologicznych, oraz ustalania geotechnicznych warunków posadawiania obiektów budowlanych bez wykonywania prac geologicznych;
 - **4)** zbywca jest obowiązany do wydania nieruchomości w terminie i w stanie szczegółowo określonych w umowie.
-
-**Art. 29c.**
 
 1. Spółka Celowa może zawrzeć z osobą zbywającą nieruchomość umowę nieodpłatnej renty w związku z zaprzestaniem prowadzenia działalności rolniczej przez tę osobę, jeżeli nie narusza to zasad prawidłowej gospodarki w zarządzaniu mieniem państwowym, o których mowa w art. 4 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2024 r. poz. 125 i 834).
 
@@ -547,13 +1476,9 @@ Art. 121–128. (pominięte)
 
 9. Wysokość renty zmniejsza się o wartość emerytury lub renty przysługujących na podstawie przepisów o ubezpieczeniu społecznym rolników, przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, przepisów o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych, lub przepisów o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin.
 
-**Art. 29d.**
-
 1. W celu wypłaty rekompensaty w związku ze spadkiem zdolności kredytowej zbywcy nieruchomości Spółka Celowa ocenia jego zdolność kredytową na dzień zbycia nieruchomości na rzecz Spółki Celowej jako wynik porównania stałych rat kredytowych przy stopach procentowych w dniu zaciągania kredytu przez zbywcę i stopach procentowych w dniu zbycia nieruchomości na rzecz Spółki Celowej, przyjmując założenie, że pozostałe warunki kredytowe zawarte w umowie kredytowej pozostają na tym samym poziomie.
 
 2. Rekompensata stanowi różnicę pomiędzy ceną, za którą nieruchomość została zbyta Spółce Celowej, a sumą wolnych środków pieniężnych pozostałych po spłacie zadłużenia i zdolności kredytowej wyliczonej na dzień zbycia nieruchomości na rzecz Spółki Celowej.
-
-**Art. 29e.**
 
 1. Prawo pierwokupu, o którym mowa w art. 29b ust. 1 pkt 1, wykonuje Spółka Celowa na swoją rzecz. Do prawa pierwokupu w zakresie nieuregulowanym ustawą stosuje się przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami oraz ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny. Do nieruchomości objętych prawem pierwokupu na rzecz Spółki Celowej przepisów art. 109 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami nie stosuje się.
 
@@ -562,13 +1487,11 @@ Art. 121–128. (pominięte)
 3. W przypadku, o którym mowa w ust. 2, gdy:
 
 - **1)** część nieruchomości pozostała po wykonaniu prawa pierwokupu nie nadaje się do prawidłowego wykorzystania na dotychczasowe cele,
-- **2)** osoba trzecia, na rzecz której nieruchomość stanowiąca przedmiot prawa pierwokupu miała zostać sprzedana, oświadczy, że nie jest zainteresowana nabyciem części nieruchomości pozostałej po wykonaniu prawa pierwokupu – Spółka Celowa nabywa na wniosek właściciela tę część nieruchomości, na zasadach określonych w ust. 1.
+- **2)** osoba trzecia, na rzecz której nieruchomość stanowiąca przedmiot prawa pierwokupu miała zostać sprzedana, oświadczy, że nie jest zainteresowana nabyciem części nieruchomości pozostałej po wykonaniu prawa pierwokupu Spółka Celowa nabywa na wniosek właściciela tę część nieruchomości, na zasadach określonych w ust. 1.
 
 4. W przypadku zbiegu prawa pierwokupu określonego w niniejszej ustawie z prawem pierwokupu określonym w przepisach odrębnych, pierwszym uprawnionym do wykonania prawa pierwokupu jest Spółka Celowa.
 
 5. Przepisy art. 29b ust. 1 pkt 2 i ust. 2–14 stosuje się do nabycia nieruchomości w drodze pierwokupu.
-
-**Art. 29f.**
 
 1. Szczególne zasady udostępniania nieruchomości na cele badań przyrodniczych dotyczą przeprowadzania badań przyrodniczych niezbędnych do przygotowania i realizacji Inwestycji lub przygotowania obszaru Inwestycji, w szczególności do sporządzenia karty informacyjnej przedsięwzięcia lub raportu o oddziaływaniu przedsięwzięcia na środowisko, o których mowa w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2024 r. poz. 1112).
 
@@ -588,8 +1511,6 @@ Art. 121–128. (pominięte)
 5. Do egzekucji obowiązków, o których mowa w ust. 2 pkt 2, wynikających z rozporządzenia, o którym mowa w art. 28 ust. 1, stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
 
 6. Szkody wyrządzone w związku z wykonywaniem badań przyrodniczych podlegają naprawieniu na zasadach wynikających z ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
-
-**Art. 29g.**
 
 1. Właściciel nieruchomości, któremu nie udzielono zgody, o której mowa w art. 29 ust. 7, w zakresie zakazu, o którym mowa w art. 29 ust. 1 pkt 3, po dniu, w którym decyzja odmawiająca zgody stała się ostateczna, może wystąpić do wojewody o przyznanie odszkodowania:
 
@@ -615,8 +1536,6 @@ Art. 121–128. (pominięte)
 
 5. Roszczenie o odszkodowanie, o którym mowa w ust. 2, przedawnia się po upływie 6 lat od dnia, w którym decyzja uchylająca pozwolenia na budowę lub decyzja zakazująca realizacji robót budowlanych na podstawie zgłoszenia budowlanego stała się ostateczna.
 
-**Art. 29h.**
-
 1. Przez możliwy stan zagospodarowania, o którym mowa w art. 29g ust. 1 pkt 1, rozumie się stan nieruchomości prawnie dopuszczalny, technicznie możliwy i ekonomicznie uzasadniony.
 
 2. Wartość nieruchomości określa się na podstawie:
@@ -631,8 +1550,6 @@ Art. 121–128. (pominięte)
 - **1)** miejscowego planu zagospodarowania przestrzennego, poprzednio obowiązujących miejscowych planów zagospodarowania przestrzennego oraz planu ogólnego gminy – w przypadku gdy podstawą pozwolenia na budowę lub zgłoszenia budowlanego był miejscowy plan zagospodarowania przestrzennego;
 - **2)** decyzji o warunkach zabudowy, poprzednio obowiązujących miejscowych planów zagospodarowania przestrzennego oraz planu ogólnego gminy – w przypadku gdy podstawą pozwolenia na budowę była decyzja o warunkach zabudowy.
 
-**Art. 29i.**
-
 1. Decyzję ustalającą wysokość odszkodowania, o którym mowa w art. 29g ust. 1, wydaje wojewoda.
 
 2. Właściciel nieruchomości może uzyskać odszkodowanie, o którym mowa w art. 29g ust. 1, wyłącznie raz, niezależnie od liczby składanych wniosków i wydanych decyzji odmawiających udzielenia zgody, o której mowa w art. 29 ust. 7.
@@ -641,155 +1558,17 @@ Art. 121–128. (pominięte)
 
 **Art. 31.** Informację o ogłoszeniu przepisów wydanych na podstawie art. 28 ust. 1 zamieszcza się:
 
+- **1)** na stronie podmiotowej Biuletynu Informacji Publicznej: urzędu wojewódzkiego, urzędu marszałkowskiego, starostwa powiatowego, urzędu gminy;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **2)** w prasie lokalnej oraz obwieszcza się w sposób zwyczajowo przyjęty w danej gminie i miejscowości.
+
 #### Rozdział 1a Udostępnienie nieruchomości na cele badań przyrodniczych
 
-**Art. 31a.**
-
-1. Inwestor, w celu przeprowadzenia badań przyrodniczych niezbędnych do przygotowania i realizacji Inwestycji, w szczególności do sporządzenia karty informacyjnej przedsięwzięcia lub raportu o oddziaływaniu przedsięwzięcia na środowisko, o których mowa w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, może wystąpić do właściwego miejscowo wojewody z wnioskiem o wydanie rozporządzenia o udostępnieniu nieruchomości na cele badań przyrodniczych.
-
-2. Wniosek o wydanie rozporządzenia, o którym mowa w ust. 1, zawiera określenie:
-
-- **1)** gmin lub ich części, na których terenie będą wykonywane badania przyrodnicze;
-- **2)** terminu obowiązywania rozporządzenia, przy czym termin ten nie może być dłuższy niż 5 lat.
-
-3. Rozporządzenie, o którym mowa w ust. 1, jest aktem prawa miejscowego, który:
-
-- **1)** uprawnia Inwestora do wstępu na grunt i do obiektów budowlanych oraz dokonywania niezbędnych czynności związanych z wykonywaniem badań przyrodniczych;
-- **2)** zobowiązuje właściciela lub inną osobę władającą nieruchomością do udostępnienia nieruchomości na cele badań przyrodniczych;
-- **3)** uprawnia Inwestora do wykonywania badań przyrodniczych na terenach zamkniętych, o których mowa w ustawie z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, pod nadzorem zarządzającego tym terenem.
-
-4. Uprawnienia, o których mowa w ust. 3 pkt 1 i 3, nie naruszają:
-
-- **1)** przepisów o ochronie zabytków i opiece nad zabytkami, o ochronie środowiska, o lasach, o drogach publicznych oraz o ochronie informacji niejawnych;
-- **2)** przywilejów i immunitetów przysługujących obcym przedstawicielstwom dyplomatycznym, misjom specjalnym i urzędom konsularnym, a także członkom ich personelu oraz innym osobom korzystającym z przywilejów i immunitetów na podstawie ustaw, umów lub powszechnie uznanych zwyczajów międzynarodowych.
-
-5. Uprawnienia, o których mowa w ust. 3 pkt 1 i 3, mogą być wykonywane przez osoby fizyczne, osoby prawne, przedsiębiorców lub jednostki organizacyjne działające na podstawie pisemnego upoważnienia udzielonego przez Inwestora.
-
-**Art. 31b.**
-
-1. Rozporządzenie, o którym mowa w art. 31a ust. 1, wydaje się w terminie 14 dni od dnia złożenia wniosku, o którym mowa w art. 31a ust. 2.
-
-2. Rozporządzenie, o którym mowa w art. 31a ust. 1, wchodzi w życie w terminie 30 dni od dnia jego ogłoszenia we właściwym wojewódzkim dzienniku urzędowym.
-
-3. Rozporządzenie, o którym mowa w art. 31a ust. 1, podlega również ogłoszeniu w:
-
-- **1)** Biuletynie Informacji Publicznej i na tablicy ogłoszeń właściwego urzędu wojewódzkiego;
-- **2)** Biuletynach Informacji Publicznej i na tablicach ogłoszeń:
-    - **a)** starostw powiatowych,
-    - **b)** urzędów gmin – które w całości lub w części są położone na obszarze objętym rozporządzeniem;
-
-- **3)** sposób zwyczajowo przyjęty na danym terenie;
-- **4)** prasie o odpowiednim zasięgu.
-
-4. Koszty ogłoszeń w prasie, o których mowa w ust. 3 pkt 4, ponosi Inwestor.
-
-**Art. 31c.** Do egzekucji obowiązków wynikających z rozporządzenia, o którym mowa w art. 31a ust. 1, stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
-
-**Art. 31d.** Szkody wyrządzone w związku z wykonywaniem badań przyrodniczych podlegają naprawieniu na zasadach wynikających z ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
-
-**Art. 31e.** Przepisów niniejszego rozdziału nie stosuje się do obszaru objętego rozporządzeniem, o którym mowa w art. 28 ust. 1.
-
 #### Rozdział 1b Udostępnienie nieruchomości na cele badań i pomiarów
-
-**Art. 31f.**
-
-1. Jeżeli do przeprowadzenia badań i pomiarów niezbędnych do przygotowania i realizacji Inwestycji, w szczególności:
-
-- **1)** badań archeologicznych,
-- **2)** badań konserwatorskich,
-- **3)** prac geologicznych,
-- **4)** ustalania geotechnicznych warunków posadawiania obiektów budowlanych bez wykonywania robót geologicznych – konieczne jest udostępnienie nieruchomości, a jej właściciel lub użytkownik wieczysty odmówił jej udostępnienia, Inwestor może wystąpić z wnioskiem do właściwego miejscowo wojewody o wydanie decyzji o udostępnieniu nieruchomości na cele badań i pomiarów. Decyzja o udostępnieniu nieruchomości na cele badań i pomiarów może być także wydana w celu zapewnienia dojazdu umożliwiającego wykonanie badań i pomiarów.
-
-2. Przed złożeniem wniosku o wydanie decyzji, o której mowa w ust. 1, Inwestor jest obowiązany wystąpić do właściciela lub użytkownika wieczystego nieruchomości o zgodę na udostępnienie tej nieruchomości, określając przewidywany sposób, zakres i terminy korzystania z nieruchomości.
-
-3. Przez wystąpienie o zgodę, o której mowa w ust. 2, należy rozumieć przesłanie przez Inwestora na adres wskazany w ewidencji gruntów i budynków, o której mowa w art. 2 pkt 8 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, propozycji porozumienia z właścicielem lub użytkownikiem wieczystym nieruchomości koniecznej do udostępnienia na cele badań i pomiarów.
-
-4. Wszczęcie postępowania w sprawie wydania decyzji o udostępnieniu nieruchomości na cele badań i pomiarów następuje na wniosek Inwestora, w przypadku niezawarcia porozumienia, o którym mowa w ust. 3, w terminie miesiąca od dnia doręczenia propozycji porozumienia właścicielowi lub użytkownikowi wieczystemu.
-
-5. Wniosek o wydanie decyzji, o której mowa w ust. 1, zawiera:
-
-- **1)** określenie granic terenu objętego wnioskiem;
-- **2)** oznaczenie nieruchomości lub ich części, których udostępnienie jest konieczne na cele badań i pomiarów;
-- **3)** wskazanie pomiarów, badań lub innych prac, które mają być przeprowadzone przez Inwestora;
-- **4)** oświadczenie Inwestora o braku zawarcia porozumienia, o którym mowa w ust.
-
-3.
-
-6. Przepisów ust. 2 i 3 oraz ust. 5 pkt 4 nie stosuje się, jeżeli uzyskanie zgody, o której mowa w ust. 2, jest niemożliwe z uwagi na spełnienie przynajmniej jednego z następujących warunków:
-
-- **1)** ważny interes gospodarczy Inwestora;
-- **2)** nieuregulowany stan prawny nieruchomości;
-- **3)** brak danych w ewidencji gruntów i budynków, o której mowa w art. 2 pkt 8 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, pozwalających na ustalenie danych osobowych, w szczególności adresu właściciela lub użytkownika wieczystego nieruchomości.
-
-**Art. 31g.**
-
-1. Właściwy miejscowy wojewoda zawiadamia o wszczęciu postępowania w przedmiocie wydania decyzji do udostępnienia nieruchomości na cele badań i pomiarów:
-
-- **1)** wnioskodawcę;
-- **2)** właścicieli i użytkowników wieczystych nieruchomości objętych wnioskiem, przy czym doręczenie zawiadomienia na adres wskazany w ewidencji gruntów i budynków, o której mowa w art. 2 pkt 8 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, jest skuteczne.
-
-2. Do doręczania innych wezwań, zawiadomień i pism, które organ jest obowiązany doręczać stronom w toku postępowania, przepis ust. 1 pkt 2 stosuje się odpowiednio.
-
-3. Nieuregulowany stan prawny nieruchomości objętych wnioskiem o wydanie decyzji o udostępnieniu nieruchomości na cele badań i pomiarów lub brak danych w ewidencji gruntów i budynków, o której mowa w art. 2 pkt 8 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, pozwalających na ustalenie danych osobowych, w szczególności adresu właściciela lub użytkownika wieczystego nieruchomości, nie stanowią przeszkody do wszczęcia i prowadzenia postępowania o wydanie decyzji o udostępnieniu nieruchomości na cele badań i pomiarów oraz jej doręczenia i zawiadomienia o jej wydaniu.
-
-4. Właściwy miejscowo wojewoda doręcza decyzję o udostępnieniu nieruchomości na cele badań i pomiarów wnioskodawcy, a pozostałe strony zawiadamia o jej wydaniu, w drodze obwieszczenia, w urzędzie wojewódzkim i urzędach gmin właściwych ze względu na lokalizację tej inwestycji, na stronach internetowych urzędu wojewódzkiego oraz tych gmin, ze skutkiem doręczenia na dzień obwieszczenia w urzędzie wojewódzkim.
-
-5. Właścicielom i użytkownikom wieczystym nieruchomości objętych decyzją o udostępnieniu nieruchomości na cele badań i pomiarów zawiadomienie o wydaniu decyzji doręcza się na adres określony w ewidencji gruntów i budynków, o której mowa w art. 2 pkt 8 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, przy czym doręczenie zawiadomienia na adres wskazany w tej ewidencji jest skuteczne.
-
-6. Przepisu ust. 5 nie stosuje się w przypadku nieruchomości o nieuregulowanym stanie prawnym.
-
-7. Przepisy ust. 1–6 stosuje się odpowiednio do doręczenia i zawiadamiania stron o decyzji o udostępnieniu nieruchomości na cele badań i pomiarów wydanej przez organ wyższego stopnia.
-
-8. W przypadkach określonych w art. 97 § 1 pkt 1–3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie zawiesza się postępowania o wydanie decyzji o udostępnieniu nieruchomości na cele badań i pomiarów.
-
-9. Przepisów art. 30 § 5 i art. 34 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się w postępowaniach o wydanie decyzji o udostępnieniu nieruchomości na cele badań i pomiarów. W przypadkach określonych w tych przepisach organ prowadzący postępowanie wyznacza z urzędu przedstawiciela uprawnionego do działania w postępowaniu, jeżeli jest to konieczne dla przeprowadzenia postępowania.
-
-**Art. 31h.**
-
-1. Decyzję o udostępnieniu nieruchomości na cele badań i pomiarów wydaje się w terminie miesiąca od dnia złożenia wniosku, o którym mowa w art. 31f ust. 4.
-
-2. Decyzję o udostępnieniu nieruchomości na cele badań i pomiarów wydaje się na czas określony, nie dłuższy niż 5 lat.
-
-3. Decyzji, o której mowa w ust. 1, na wniosek Inwestora, uzasadniony interesem społecznym lub ważnym interesem gospodarczym, nadaje się rygor natychmiastowej wykonalności.
-
-4. Organem wyższego stopnia w stosunku do właściwego miejscowo wojewody jest minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
-
-5. Do egzekucji obowiązków wynikających z decyzji o udostępnieniu nieruchomości na cele badań i pomiarów stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
-
-6. Odwołanie od decyzji, o której mowa w ust. 1, wnosi się w terminie 7 dni od dnia jej doręczenia stronie albo w terminie 14 dni od dnia obwieszczenia lub doręczenia zawiadomienia o jej wydaniu.
-
-7. Odwołanie od decyzji, o której mowa w ust. 1, zawiera zarzuty odnoszące się do decyzji, określać istotę i zakres żądania będącego przedmiotem odwołania oraz wskazywać dowody uzasadniające to żądanie.
-
-8. Odwołanie od decyzji, o której mowa w ust. 1, rozpatruje się w terminie 14 dni od dnia jego wniesienia. Przepisu art. 135 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
-
-9. W postępowaniu przed organem wyższego stopnia oraz przed sądem administracyjnym nie można uchylić decyzji, o której mowa w ust. 1, ani stwierdzić jej nieważności w całości, gdy wadą dotknięta jest tylko część decyzji w zakresie nieruchomości lub działki.
-
-10. W postępowaniu administracyjnym w sprawie stwierdzenia nieważności decyzji, o której mowa w ust. 1, nie stosuje się przepisu art. 159 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
-
-**Art. 31i.**
-
-1. Inwestor po zakończeniu pomiarów, badań lub innych prac, o których mowa w art. 31f ust. 1, jest obowiązany przywrócić nieruchomość do stanu poprzedniego.
-
-2. Jeżeli przywrócenie nieruchomości do stanu poprzedniego nie jest możliwe albo powoduje nadmierne trudności lub koszty, właścicielom lub użytkownikom wieczystym nieruchomości przysługuje od Inwestora odszkodowanie.
-
-3. Odszkodowanie odpowiada wartości poniesionych szkód. Jeżeli wskutek tych zdarzeń zmniejszy się wartość nieruchomości, odszkodowanie powiększa się o kwotę odpowiadającą temu zmniejszeniu.
-
-4. Odszkodowanie przysługuje również za okres braku możliwości korzystania z nieruchomości lub jej części objętej decyzją, o której mowa w art. 31h ust. 1.
-
-5. Do określenia wysokości odszkodowania przepisy art. 130, art. 134 i art. 135 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami stosuje się odpowiednio.
-
-6. Decyzję o odszkodowaniu wydaje na wniosek właściciela lub użytkownika wieczystego nieruchomości właściwy miejscowo wojewoda w terminie miesiąca od dnia złożenia wniosku. Wniosek, o którym mowa w zdaniu pierwszym, składa się nie później niż w terminie miesiąca od dnia stwierdzenia wystąpienia szkody i nie później niż w terminie 3 miesięcy od dnia zakończenia badań lub pomiarów, o których mowa w art. 31f ust. 1.
-
-7. Organem wyższego stopnia w stosunku do właściwego miejscowo wojewody jest minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
-
-**Art. 31j.**
-
-1. Do skarg na decyzję, o której mowa w art. 31h ust. 1, stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935), z wyłączeniem art. 61 § 3–6, art. 115– 122 i art. 152 tej ustawy, z tym że:
-
-- **1)** przekazanie akt i odpowiedzi na skargę następuje w terminie 15 dni od dnia wniesienia skargi;
-- **2)** skargę rozpoznaje się w terminie 30 dni od dnia jej wpłynięcia do sądu.
-
-2. Termin rozpoznania skargi kasacyjnej wynosi 2 miesiące od dnia jej wniesienia.
 
 #### Rozdział 2
 
@@ -805,9 +1584,14 @@ Art. 121–128. (pominięte)
 
 4. Rada gminy uchyla miejscowy plan zagospodarowania przestrzennego w całości lub w części w zakresie, w jakim jest on niezgodny z ustaleniami ostatecznej decyzji, o której mowa w ust. 1, dotyczącymi obszaru znajdującego się w liniach rozgraniczających teren Inwestycji, albo obejmuje obszar, na którym ta decyzja ustanowiła teren zamknięty.
 
-5. Spółka Celowa, za zgodą Pełnomocnika, może, na podstawie porozumienia zawartego z gminą, pokryć koszty sporządzenia albo zmiany miejscowego planu zagospodarowania przestrzennego, w zakresie szerszym niż określony w art. 21 ust. 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, niezbędnym do zapewnienia spójności zagospodarowania przestrzennego w związku z realizacją Inwestycji.
+5. Spółka Celowa, za zgodą Pełnomocnika, może, na podstawie porozumienia zawartego z gminą, pokryć koszty sporządzenia albo zmiany miejscowego planu zagospodarowania przestrzennego, w zakresie szerszym niż określony w art. 21 ust. 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, niezbędnym do zapewnienia spójności zagospodarowania przestrzennego w związku z realizacją Inwestycji. Decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK może obejmować lokalizację innych obiektów, urządzeń, sieci lub instalacji w zakresie, w jakim są one przestrzennie oraz funkcjonalnie powiązane z Inwestycją, w tym:
 
-**Art. 38a.** Decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK może obejmować lokalizację innych obiektów, urządzeń, sieci lub instalacji w zakresie, w jakim są one przestrzennie oraz funkcjonalnie powiązane z Inwestycją, w tym:
+- **1)** dróg publicznych w rozumieniu ustawy z dnia 21 marca 1985 r. o drogach publicznych;
+- **2)** ciągów drenażowych, przewodów i urządzeń, o których mowa w art. 124 ust. 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami;
+- **3)** dróg kolejowych w rozumieniu ustawy z dnia 28 marca 2003 r. o transporcie kolejowym;
+- **4)** urządzeń i obiektów do obsługi ruchu lotniczego w rozumieniu ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego;
+- **5)** urządzeń wodnych w rozumieniu ustawy z dnia 20 lipca 2017 r. – Prawo wodne;
+- **6)** rurociągów ropy naftowej lub produktów naftowych wraz z infrastrukturą niezbędną do obsługi w rozumieniu ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym.
 
 **Art. 39.** Do gruntów rolnych i leśnych objętych decyzją o ustaleniu lokalizacji inwestycji w zakresie CPK nie stosuje się przepisów ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2024 r. poz. 82).
 
@@ -827,7 +1611,7 @@ Art. 121–128. (pominięte)
 - **8)** zatwierdzenie podziału nieruchomości, a w razie wniosku inwestora – również zatwierdzenie połączenia nieruchomości;
 - **9)** wykaz nieruchomości lub ich części, podlegających wywłaszczeniu;
 - **10)** wykaz nieruchomości lub ich części, wobec których ogranicza się sposób korzystania z nieruchomości wraz ze wskazaniem sposobu ograniczenia w korzystaniu z nieruchomości;
-- **11)** termin wydania nieruchomości, opróżnienia lokali i innych pomieszczeń oraz faktycznego objęcia nieruchomości w posiadanie przez Spółkę Celową.
+- **11)** termin wydania nieruchomości, opróżnienia lokali i innych pomieszczeń oraz faktycznego objęcia nieruchomości w posiadanie przez Spółkę Celową, liczony w sposób określony w art. 52 ust. 1, nie krótszy niż 120 dni; na wniosek Inwestora organ wyznacza dłuższy termin wydania nieruchomości dla określonych w decyzji obszarów.
 
 3. Decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK może ustanowić na całości albo części terenu nią objętego teren zamknięty, określając klauzulę tajności informacji dotyczących obiektów znajdujących się na tym terenie. Do skutków ustanowienia terenu zamkniętego przepisy ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne stosuje się odpowiednio.
 
@@ -886,7 +1670,7 @@ Art. 121–128. (pominięte)
 - **1)** dokonuje podziału oraz połączenia nieruchomości w liniach rozgraniczających teren Inwestycji, zgodnie z wnioskiem Spółki Celowej;
 - **2)** stanowi podstawę uzyskania pozwolenia na budowę i wiąże organ wydający to pozwolenie;
 - **3)** wiąże organ ochrony zabytków przy wydawaniu pozwolenia, o którym mowa w art. 36 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292), zezwolenia na usunięcie drzew i krzewów z obszaru wpisanego do rejestru zabytków oraz określenia sposobu postępowania z zabytkami w przypadku zamknięcia cmentarza;
-- **4)** zobowiązuje do wydania nieruchomości, opróżnienia lokali i innych pomieszczeń oraz uprawnia do faktycznego objęcia nieruchomości w posiadanie przez Spółkę Celową;
+- **4)** zobowiązuje do wydania nieruchomości, opróżnienia lokali i innych pomieszczeń oraz uprawnia do faktycznego objęcia nieruchomości w posiadanie przez Spółkę Celową, w terminie określonym w decyzji;
 - **5)** stanowi podstawę do dokonywania wpisów w księdze wieczystej i w katastrze nieruchomości.
 
 2. Wpisy, o których mowa w ust. 1 pkt 5, dokonywane są na wniosek złożony przez Spółkę Celową.
@@ -904,20 +1688,18 @@ Art. 121–128. (pominięte)
 - **9)** ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym;
 - **10)** ustawy z dnia 14 kwietnia 2023 r. o przygotowaniu i realizacji inwestycji w zakresie elektrowni szczytowo-pompowych oraz inwestycji towarzyszących.
 
-**Art. 44a.**
-
-1. Decyzji o ustaleniu lokalizacji inwestycji w zakresie CPK nadaje się rygor natychmiastowej wykonalności na wniosek Spółki Celowej, jeżeli jest to uzasadnione interesem społecznym lub gospodarczym lub jeżeli jest to niezbędne do wykazania prawa do dysponowania nieruchomością na cele budowlane w rozumieniu art. 3 pkt 11 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane.
-
-2. Decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK, której nadano rygor natychmiastowej wykonalności, wywołuje skutki, o których mowa w art. 44 ust. 1 pkt 2–4, oraz:
-
-- **1)** przyznaje Spółce Celowej prawo do dysponowania nieruchomością na cele budowlane w rozumieniu art. 3 pkt 11 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane;
-- **2)** stanowi podstawę uzyskania pozwolenia na prace przygotowawcze, o którym mowa w art. 76a ust. 1;
-- **3)** wiąże Prezesa Urzędu Lotnictwa Cywilnego przy wydawaniu zezwolenia na założenie lotniska użytku publicznego, o którym mowa w art. 55 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze;
-- **4)** uprawnia Spółkę Celową do zajęcia terenów wód płynących, dróg publicznych lub terenów linii kolejowej, na zasadach i w trybie określonych w art. 81.
-
 **Art. 45.** Ostateczna decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK w przypadkach, o których mowa w art. 38 ust. 2 oraz art. 40 ust. 3, doręczana jest również wójtowi (burmistrzowi, prezydentowi miasta).
 
-**Art. 46.** (uchylony)
+**Art. 46.**
+
+1. Z dniem doręczenia zawiadomienia o wydaniu decyzji o ustaleniu lokalizacji inwestycji w zakresie CPK, wszczyna się postępowanie w sprawie ustalenia odszkodowania z tytułu wywłaszczenia nieruchomości.
+
+2. W zawiadomieniu zamieszcza się informacje o:
+
+- **1)** uprawnieniu właściciela lub użytkownika wieczystego nieruchomości do otrzymania w ramach odszkodowania nieruchomości zamiennej lub ustalenia odszkodowania w trybie negocjacji wraz z obowiązkiem zawiadomienia Spółki Celowej o wyborze trybu ustalenia odszkodowania w terminie 14 dni od dnia doręczenia zawiadomienia;
+- **2)** terminie wydania nieruchomości;
+- **3)** możliwości wydania nieruchomości, opróżnienia lokali i innych pomieszczeń oraz umożliwienia faktycznego objęcia nieruchomości w posiadanie przez Spółkę Celową, w terminie 30 dni od dnia doręczenia zawiadomienia, co uprawnia do powiększenia wysokości odszkodowania o kwotę równą 5 % wartości nieruchomości lub wartości prawa użytkowania wieczystego;
+- **4)** uprawnieniu właściciela lub użytkownika wieczystego nieruchomości zabudowanej budynkiem mieszkalnym lub budynkiem, w którym został wyodrębniony przynajmniej jeden lokal mieszkalny, do powiększenia wysokości odszkodowania o kwotę 10 000 zł w odniesieniu do każdego lokalu mieszkalnego znajdującego się na tej nieruchomości.
 
 **Art. 47.** (uchylony)
 
@@ -951,28 +1733,25 @@ Art. 121–128. (pominięte)
 
 **Art. 52.**
 
-1. Termin wydania nieruchomości, opróżnienia lokali i innych pomieszczeń oraz faktycznego objęcia nieruchomości w posiadanie przez Spółkę Celową określony w decyzji o ustaleniu lokalizacji inwestycji w zakresie CPK nie może być krótszy niż 120 dni, licząc od dnia, w którym decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK stała się ostateczna. Na wniosek Spółki Celowej organ wyznacza dłuższy termin dla obszarów określonych w decyzji o ustaleniu lokalizacji inwestycji w zakresie CPK.
+1. Termin wydania nieruchomości, opróżnienia lokali i innych pomieszczeń oraz faktycznego objęcia nieruchomości w posiadanie przez Spółkę Celową, określony w decyzji o ustaleniu lokalizacji inwestycji w zakresie CPK, biegnie od dnia doręczenia właścicielowi lub użytkownikowi wieczystemu zawiadomienia o wydaniu decyzji o ustaleniu lokalizacji inwestycji w zakresie CPK.
 
-1a. W przypadku gdy decyzji o ustaleniu lokalizacji inwestycji w zakresie CPK nadano rygor natychmiastowej wykonalności i decyzja ta nie stała się ostateczna, termin wydania nieruchomości, opróżnienia lokali i innych pomieszczeń oraz faktycznego objęcia nieruchomości w posiadanie przez Spółkę Celową, nie może być krótszy niż 120 dni, licząc od dnia, w którym organ pierwszej instancji wydał decyzję ustalającą wysokość odszkodowania z tytułu wywłaszczenia nieruchomości.
+2. W przypadkach określonych w art. 108 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego lub uzasadnionych ważnym interesem gospodarczym wojewoda, w drodze decyzji, udziela Spółce Celowej, zezwolenia na niezwłoczne zajęcie nieruchomości po wydaniu decyzji o ustaleniu lokalizacji w zakresie CPK.
 
-2. (uchylony)
+3. Decyzji o niezwłocznym zajęciu nieruchomości nadaje się rygor natychmiastowej wykonalności.
 
-3. (uchylony)
+4. Organem wyższego stopnia w stosunku do wojewody jest minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
 
-4. (uchylony)
-
-5. Obowiązek wydania nieruchomości podlega egzekucji administracyjnej. Egzekucję obowiązku wydania nieruchomości przeprowadza się w terminie 30 dni od dnia otrzymania wniosku Spółki Celowej.
+5. Obowiązek wydania nieruchomości podlega egzekucji administracyjnej. Egzekucję obowiązku wynikającego z decyzji, o której mowa w ust. 2, przeprowadza się w terminie 30 dni od dnia otrzymania wniosku Spółki Celowej.
 
 6. W przypadku gdy:
 
-- **1)** decyzja, o której mowa w art. 44a ust. 1, dotyczy nieruchomości zabudowanej budynkiem mieszkalnym albo budynkiem, w którym został wyodrębniony przynajmniej jeden lokal mieszkalny, oraz
-- **2)** osoby zamieszkujące nieruchomość, o której mowa w pkt 1, nie posiadają innego budynku mieszkalnego albo lokalu mieszkalnego i zgłoszą ten fakt Spółce Celowej – Spółka Celowa jest obowiązana, w terminie faktycznego objęcia nieruchomości w posiadanie, do wskazania lokalu zamiennego, przy czym lokal ten może być położony w innej miejscowości.
+- **1)** decyzja, o której mowa w ust. 2, dotyczy nieruchomości zabudowanej budynkiem mieszkalnym albo budynkiem, w którym został wyodrębniony przynajmniej jeden lokal mieszkalny, oraz
+- **2)** osoby zamieszkujące nieruchomość, o której mowa w pkt 1, nie posiadają innego budynku mieszkalnego albo lokalu mieszkalnego i zgłoszą ten fakt Inwestorowi Inwestor jest obowiązany, w terminie faktycznego objęcia nieruchomości w posiadanie, do wskazania lokalu tymczasowego, przy czym lokal ten może być położony w innej miejscowości.
 
-7. Osoba, której wskazano lokal zamienny, jest obowiązana do opróżnienia tego lokalu najpóźniej w dniu upływu terminu 120 dni, licząc od dnia, w którym decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK stała się ostateczna.
+7. Osoba, której wskazano lokal tymczasowy, jest obowiązana do opróżnienia lokalu najpóźniej w dniu upływu terminu, o którym mowa w ust. 1. Do zwrotu nieruchomości uznanej za zbędną na cel określony w decyzji, o której mowa w art. 48 ust. 1, stosuje się przepisy art. 136–142 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, z tym że:
 
-8. W przypadku gdy faktyczne objęcie nieruchomości w posiadanie przez Spółkę Celową nastąpi po upływie terminu, o którym mowa w ust. 1, Spółka Celowa nie ma obowiązku wskazania lokalu zamiennego.
-
-**Art. 52a.** Do zwrotu nieruchomości uznanej za zbędną na cel określony w decyzji, o której mowa w art. 48 ust. 1, stosuje się przepisy art. 136–142 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, z tym że:
+- **1)** zwrotu nieruchomości dokonuje się z Zasobu;
+- **2)** ilekroć jest mowa o właściwym organie albo Skarbie Państwa, należy przez to rozumieć Spółkę Celową.
 
 #### Rozdział 5 Ustanowienie ograniczeń w korzystaniu z nieruchomości
 
@@ -1016,45 +1795,34 @@ Art. 121–128. (pominięte)
 
 **Art. 59.**
 
-1. Z dniem, w którym decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK stała się ostateczna, albo z dniem, w którym decyzji tej nadano rygor natychmiastowej wykonalności, wszczyna się postępowanie w sprawie ustalenia wysokości odszkodowania z tytułu wywłaszczenia nieruchomości.
+1. Z dniem doręczenia zawiadomienia, o którym mowa w art. 46, wszczyna się postępowanie w sprawie ustalenia odszkodowania z tytułu wywłaszczenia nieruchomości.
 
-2. (uchylony)
+2. W terminie 14 dni od dnia doręczenia zawiadomienia, o którym mowa w art. 46, właściciel lub użytkownik wieczysty nieruchomości uprawniony jest do wezwania Spółki Celowej do:
 
-3. (uchylony)
+- **1)** przedstawienia oferty nieruchomości zamiennych, lub
+- **2)** rozpoczęcia negocjacji dotyczących wysokości odszkodowania.
 
-4. (uchylony)
+3. W przypadku określonym w ust. 2 pkt 1, Spółka Celowa zobowiązana jest do przedstawienia właścicielowi lub użytkownikowi wieczystemu przynajmniej dwóch propozycji nieruchomości zamiennych.
 
-5. (uchylony)
+4. Przeniesienie praw do nieruchomości zamiennej na rzecz osoby uprawnionej następuje w drodze umowy sporządzonej w formie aktu notarialnego.
 
-6. (uchylony)
+5. W przypadku określonym w ust. 2 pkt 2, Spółka Celowa zobowiązana jest do przedstawienia właścicielowi lub użytkownikowi wieczystemu propozycji wysokości odszkodowania.
 
-7. (uchylony)
+6. Uzgodnienia wysokości odszkodowania dokonuje się w formie pisemnej.
 
-8. (uchylony)
+7. Spółka Celowa zobowiązana jest niezwłocznie zawiadomić wojewodę o zawartej umowie lub podpisanym uzgodnieniu. Zawarta umowa lub podpisane uzgodnienie kończą postępowanie w sprawie ustalenia odszkodowania.
+
+8. Jeżeli w terminie 2 miesięcy od dnia wszczęcia postępowania w sprawie ustalenia odszkodowania nie udało się zawrzeć umowy przeniesienia prawa do nieruchomości zamiennej lub uzgodnić wysokości odszkodowania, negocjacje podlegają zakończeniu, a ustalenie odszkodowania następuje w drodze decyzji.
 
 9. Organem właściwym do ustalenia odszkodowania jest wojewoda.
 
 10. Organem wyższego stopnia w stosunku do wojewody jest minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
-
-**Art. 59a.**
-
-1. Decyzję ustalającą wysokość odszkodowania wydaje się w terminie 30 dni od dnia, w którym decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK stała się ostateczna.
-
-2. Jeżeli decyzji o ustaleniu lokalizacji inwestycji w zakresie CPK został nadany rygor natychmiastowej wykonalności, decyzję ustalającą wysokość odszkodowania wydaje się w terminie 60 dni od dnia nadania decyzji o ustaleniu lokalizacji inwestycji w zakresie CPK rygoru natychmiastowej wykonalności.
-
-3. Na wniosek osoby uprawnionej do otrzymania odszkodowania skierowany do Spółki Celowej wypłaca się zaliczkę w wysokości 85 % odszkodowania ustalonego przez organ pierwszej instancji w decyzji ustalającej wysokość odszkodowania. W przypadku odwołania od decyzji ustalającej wysokość odszkodowania wypłata zaliczki nie ma wpływu na prowadzone postępowanie odwoławcze. Wypłata zaliczki następuje jednorazowo w terminie 30 dni od dnia złożenia wniosku.
-
-4. Osoba, której wypłacono zaliczkę, albo jej spadkobiercy są obowiązani do zwrotu zaliczki po jej waloryzacji na dzień zwrotu, jeżeli decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK została zmieniona, uchylona lub stwierdzono jej nieważność, w całości lub w części dotyczącej tej osoby.
-
-5. Wysokość wypłacanego odszkodowania pomniejsza się o kwotę wypłaconej zaliczki.
 
 **Art. 60.**
 
 1. Wysokość odszkodowania ustala się według stanu wywłaszczonej nieruchomości w dniu wydania decyzji o ustaleniu lokalizacji inwestycji w zakresie CPK oraz jej wartości w dniu wydania decyzji o odszkodowaniu przez wojewodę.
 
 2. Wartość nieruchomości określa rzeczoznawca majątkowy w formie operatu szacunkowego.
-
-**Art. 61.**
 
 1. Podstawę ustalenia wysokości odszkodowania stanowi wartość rynkowa nieruchomości.
 
@@ -1070,49 +1838,27 @@ Art. 121–128. (pominięte)
 
 7. Oceny faktycznego sposobu zagospodarowania i sposobu użytkowania na potrzeby wyceny nieruchomości dokonuje rzeczoznawca majątkowy, w szczególności na podstawie przeprowadzonych oględzin wywłaszczonej nieruchomości. Protokół z oględzin wraz z dokumentacją fotograficzną dołącza się do operatu szacunkowego.
 
-**Art. 62.** Jeżeli ze względu na rodzaj nieruchomości nie można określić jej wartości rynkowej, z uwagi na niewystępowanie w obrocie takiego rodzaju nieruchomości, podstawę ustalenia wysokości odszkodowania stanowi wartość odtworzeniowa nieruchomości. Uzasadnienie odstąpienia od określenia wartości rynkowej nieruchomości rzeczoznawca majątkowy zamieszcza w operacie szacunkowym.
-
-**Art. 63.**
-
-1. Jeżeli na wywłaszczanej nieruchomości lub prawie użytkowania wieczystego tej nieruchomości są ustanowione inne prawa rzeczowe, odszkodowanie zmniejsza się o kwotę równą wartości tych praw.
-
-2. Jeżeli na nieruchomościach lub na prawie użytkowania wieczystego tej nieruchomości jest ustanowiona hipoteka, wysokość odszkodowania z tytułu wygaśnięcia hipoteki ustala się w wysokości aktualnego świadczenia głównego wierzytelności zabezpieczonej hipoteką, wraz z odsetkami zabezpieczonymi tą hipoteką i kosztami postępowania, w wyniku którego ustanowiono hipotekę. Odszkodowanie to podlega zaliczeniu na spłatę sumy hipotecznej.
-
-3. Suma wysokości odszkodowania przysługującego dotychczasowemu właścicielowi lub użytkownikowi wieczystemu, z wyłączeniem kwot, o których mowa w art. 64 i art. 65, i wysokości odszkodowania z tytułu wygaśnięcia ograniczonych praw rzeczowych ustanowionych na tej nieruchomości lub na prawie użytkowania wieczystego, nie może przekroczyć wartości nieruchomości lub wartości prawa użytkowania wieczystego.
-
-4. Podmiot, na rzecz którego ustanowiona została hipoteka, na żądanie organu ma obowiązek udzielenia informacji o składnikach odszkodowania, o których mowa w ust. 2.
+**Art. 62.** Jeżeli ze względu na rodzaj nieruchomości nie można określić jej wartości rynkowej, z uwagi na niewystępowanie w obrocie takiego rodzaju nieruchomości, podstawę ustalenia wysokości odszkodowania stanowi wartość odtworzeniowa nieruchomości. Uzasadnienie odstąpienia od określenia wartości rynkowej nieruchomości rzeczoznawca majątkowy zamieszcza w operacie szacunkowym. 1. Jeżeli na wywłaszczanej nieruchomości lub prawie użytkowania wieczystego tej nieruchomości są ustanowione inne prawa rzeczowe, odszkodowanie zmniejsza się o kwotę równą wartości tych praw. 2. Jeżeli na nieruchomościach lub na prawie użytkowania wieczystego tej nieruchomości jest ustanowiona hipoteka, wysokość odszkodowania z tytułu wygaśnięcia hipoteki ustala się w wysokości aktualnego świadczenia głównego wierzytelności zabezpieczonej hipoteką, wraz z odsetkami zabezpieczonymi tą hipoteką i kosztami postępowania, w wyniku którego ustanowiono hipotekę. Odszkodowanie to podlega zaliczeniu na spłatę sumy hipotecznej. 3. Suma wysokości odszkodowania przysługującego dotychczasowemu właścicielowi lub użytkownikowi wieczystemu, z wyłączeniem kwot, o których mowa w art. 64 i art. 65, i wysokości odszkodowania z tytułu wygaśnięcia ograniczonych praw rzeczowych ustanowionych na tej nieruchomości lub na prawie użytkowania wieczystego, nie może przekroczyć wartości nieruchomości lub wartości prawa użytkowania wieczystego. 4. Podmiot, na rzecz którego ustanowiona została hipoteka, na żądanie organu ma obowiązek udzielenia informacji o składnikach odszkodowania, o których mowa w ust. 2.
 
 **Art. 64.** W przypadku gdy wywłaszczenie dotyczy nieruchomości zabudowanej budynkiem mieszkalnym lub budynkiem, w którym został wyodrębniony przynajmniej jeden lokal mieszkalny, wysokość odszkodowania przysługującego dotychczasowemu właścicielowi lub użytkownikowi wieczystemu zamieszkałemu w tym budynku albo lokalu, powiększa się o kwotę 10 000 zł w odniesieniu do, odpowiednio, budynku mieszkalnego albo każdego lokalu mieszkalnego znajdującego się na tej nieruchomości.
 
-**Art. 65.** W przypadku gdy dotychczasowy właściciel lub użytkownik wieczysty nieruchomości objętej decyzją o ustaleniu lokalizacji inwestycji w zakresie CPK odpowiednio wyda tę nieruchomość lub wyda nieruchomość i opróżni lokal oraz inne pomieszczenia niezwłocznie, lecz nie później niż w terminie 30 dni od dnia:
+**Art. 65.** W przypadku gdy dotychczasowy właściciel lub użytkownik wieczysty wywłaszczonej nieruchomości wyda tę nieruchomość nie później niż w terminie 30 dni od dnia doręczenia zawiadomienia o wydaniu decyzji o ustaleniu lokalizacji w zakresie budowy CPK wysokość odszkodowania powiększa się o kwotę równą 5 % wartości nieruchomości lub wartości prawa użytkowania wieczystego.
 
 **Art. 66.** Spółka Celowa pokrywa koszty ustalenia odszkodowania. Przepis art. 264 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się odpowiednio.
 
 **Art. 67.**
 
-1. Do zapłaty odszkodowania, w tym zaliczki, o której mowa w art. 59a ust. 3, jest obowiązana Spółka Celowa.
+1. Do zapłaty odszkodowania obowiązana jest Spółka Celowa.
 
-2. Zapłata odszkodowania następuje jednorazowo, w terminie 14 dni od dnia, w którym decyzja ustalająca wysokość odszkodowania stała się ostateczna.
+2. Zapłata odszkodowania następuje jednorazowo, w terminie 14 dni od dnia, w którym decyzja ustalająca odszkodowanie stała się ostateczna.
 
-3. W przypadku określonym w art. 59a ust. 2, gdy decyzja ustalająca wysokość odszkodowania stała się ostateczna przed dniem, w którym decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK stała się ostateczna, zapłata odszkodowania następuje jednorazowo, w terminie 14 dni od dnia, w którym decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK stała się ostateczna.
+3. Za zgodą osoby uprawnionej do odszkodowania wojewoda może ustalić inny, niż określony w ust. 2, sposób zapłaty przyznanego odszkodowania.
 
-4. Za zgodą osoby uprawnionej do odszkodowania wojewoda może ustalić inny niż określony w ust. 2 i 3 sposób zapłaty odszkodowania.
+4. Odszkodowanie wpłaca się do depozytu sądowego, jeżeli:
 
-5. Odszkodowanie wpłaca się do depozytu sądowego, jeżeli:
-
-- **1)** osoba uprawniona do odszkodowania odmawia jego przyjęcia;
-- **2)** wypłata odszkodowania jest niemożliwa z przyczyn niezależnych od Spółki Celowej;
+- **1)** osoba uprawniona odmawia jego przyjęcia;
+- **2)** wypłata odszkodowania jest niemożliwa z przyczyn niezależnych od organu;
 - **3)** odszkodowanie dotyczy nieruchomości o nieuregulowanym stanie prawnym.
-
-6. W przypadku wystąpienia przez Spółkę Celową o zgodę, o której mowa w art. 58 ust. 2, Spółka Celowa przedstawia właścicielowi lub użytkownikowi wieczystemu nieruchomości co najmniej dwie propozycje nieruchomości zamiennych.
-
-7. Różnicę między wysokością odszkodowania ustalonego w decyzji ustalającej wysokość odszkodowania a wartością nieruchomości zamiennej wyrównuje się przez dopłatę pieniężną.
-
-8. Przeniesienie praw do nieruchomości zamiennej na rzecz osoby, której zostało przyznane odszkodowanie, następuje z dniem, w którym decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK stała się ostateczna. W przypadku gdy decyzja ustalająca wysokość odszkodowania stała się ostateczna po dniu, w którym decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK stała się ostateczna, przeniesienie praw do nieruchomości zamiennej na rzecz osoby, której zostało przyznane odszkodowanie, następuje z dniem, w którym decyzja ustalająca wysokość odszkodowania stała się ostateczna. Ostateczna decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK oraz ostateczna decyzja ustalająca wysokość odszkodowania stanowią podstawę do dokonywania wpisów w księdze wieczystej i w katastrze nieruchomości.
-
-9. Na wniosek właściciela lub użytkownika wieczystego przed przeniesieniem praw do nieruchomości zamiennej, o którym mowa w ust. 8, niezależnie od wniesienia odwołania od decyzji ustalającej wysokość odszkodowania, nieruchomość zamienna wskazana w tej decyzji może być przekazana w użyczenie właścicielowi lub użytkownikowi wieczystemu.
-
-10. W przypadku zawarcia w sprawie ustalenia odszkodowania ugody w rozumieniu art. 114–121 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego ostateczne postanowienie zatwierdzające ugodę stanowi podstawę do dokonywania wpisów w księdze wieczystej i w katastrze nieruchomości. Przepisy ust. 8 i 9 stosuje się odpowiednio.
 
 **Art. 68.**
 
@@ -1120,7 +1866,13 @@ Art. 121–128. (pominięte)
 
 2. Do skutków zwłoki lub opóźnienia w zapłacie odszkodowania stosuje się odpowiednio przepisy Kodeksu cywilnego.
 
-**Art. 69.** (uchylony)
+**Art. 69.**
+
+1. Na wniosek osoby uprawnionej do otrzymania odszkodowania, w przypadku gdy wywłaszczeniu podlega nieruchomość zabudowana budynkiem, wypłaca się zaliczkę w wysokości 85 % odszkodowania ustalonego w decyzji przez wojewodę.
+
+2. Wypłata zaliczki następuje w terminie 30 dni od dnia złożenia wniosku.
+
+3. Wysokość wypłacanego odszkodowania za wywłaszczone nieruchomości pomniejsza się o kwotę wypłaconej zaliczki.
 
 **Art. 70.** Jeżeli decyzja przyznająca odszkodowanie została następnie uchylona lub stwierdzono jej nieważność, osoba, której wypłacono odszkodowanie, albo jej spadkobierca, są obowiązani do zwrotu tego odszkodowania, po jego waloryzacji na dzień zwrotu.
 
@@ -1168,89 +1920,6 @@ Art. 121–128. (pominięte)
 
 #### Rozdział 7a Decyzja o środowiskowych uwarunkowaniach dla Inwestycji
 
-**Art. 75a.**
-
-1. Wydanie decyzji o środowiskowych uwarunkowaniach dla Inwestycji następuje zgodnie z przepisami ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, z uwzględnieniem przepisów niniejszej ustawy.
-
-2. We wniosku o wydanie decyzji, o której mowa w ust. 1, wskazuje się teren, na którym jest planowane przeprowadzenie prac wstępnych, o których mowa w art. 75b, o ile prace takie są przewidziane do realizacji.
-
-**Art. 75b.** Przez prace wstępne należy rozumieć:
-
-**Art. 75c.**
-
-1. Decyzja, o której mowa w art. 75a ust. 1, w której wskazano teren, o którym mowa w art. 75a ust. 2, uprawnia do nieodpłatnego wejścia na teren nieruchomości:
-
-- **1)** należących do:
-    - **a)** zasobu nieruchomości Skarbu Państwa, o którym mowa w art. 21 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami,
-    - **b)** gminnego zasobu nieruchomości, o którym mowa w art. 24 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami,
-    - **c)** powiatowego zasobu nieruchomości, o którym mowa w art. 25a ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami,
-    - **d)** wojewódzkiego zasobu nieruchomości, o którym mowa w art. 25c ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami,
-    - **e)** zasobu nieruchomości związków jednostek samorządu terytorialnego;
-
-- **2)** stanowiących własność Skarbu Państwa, zarządzanych przez Państwowe Gospodarstwo Leśne Lasy Państwowe zgodnie z ustawą z dnia 28 września 1991 r. o lasach,
-- **3)** stanowiących własność Skarbu Państwa, zarządzanych przez Państwowe Gospodarstwo Wodne Wody Polskie zgodnie z ustawą z dnia 20 lipca 2017 r. – Prawo wodne,
-- **4)** stanowiących własność Skarbu Państwa, powierzonych Krajowemu Zasobowi Nieruchomości zgodnie z ustawą z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2024 r. poz. 1026 i 1089),
-- **5)** stanowiących własność Skarbu Państwa, powierzonych Krajowemu Ośrodkowi Wsparcia Rolnictwa zgodnie z ustawą z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2024 r. poz. 589, 1089 i 1230) – w celu wykonania prac wstępnych, o których mowa w art. 75b, o ile nieruchomości te nie są przedmiotem najmu lub dzierżawy, użyczenia lub innego stosunku zobowiązaniowego, trwałego zarządu lub nie zostały obciążone ograniczonymi prawami rzeczowymi, z wyłączeniem służebności przesyłu.
-
-2. Warunki wejścia na teren nieruchomości, o których mowa w ust. 1, podmiot, na rzecz którego wydano decyzję o środowiskowych uwarunkowaniach, o której mowa w ust. 1, nie później niż w terminie 30 dni przed planowanym wejściem na teren nieruchomości uzgadnia, w drodze pisemnego porozumienia, z właściwym organem gospodarującym zasobem nieruchomości, Państwowym Gospodarstwem Leśnym Lasy Państwowe, Państwowym Gospodarstwem Wodnym Wody Polskie, Krajowym Zasobem Nieruchomości lub Krajowym Ośrodkiem Wsparcia Rolnictwa.
-
-3. W przypadku niezawarcia porozumienia, o którym mowa w ust. 2, w terminie 30 dni od dnia doręczenia projektu porozumienia właściwym organom gospodarującym zasobem nieruchomości, Państwowemu Gospodarstwu Leśnemu Lasy Państwowe, Państwowemu Gospodarstwu Wodnemu Wody Polskie, Krajowemu Zasobowi Nieruchomości lub Krajowemu Ośrodkowi Wsparcia Rolnictwa, do egzekucji uprawnień, o których mowa w ust. 1, stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
-
-3a. Prace wstępne mogą być również wykonywane na terenie nieruchomości innych niż wskazane w ust. 1, o ile Inwestor posiada do nich tytuł prawny oraz o ile znajdują się one w granicach terenu, na którym będzie realizowana Inwestycja, przewidywanego na etapie uzyskiwania decyzji, o której mowa w art. 75a ust. 1.
-
-4. Za szkody powstałe w wyniku prac wstępnych przysługuje od podmiotu, na rzecz którego wydano decyzję o środowiskowych uwarunkowaniach, o której mowa w ust. 1, odszkodowanie ustalone na zasadach wynikających z ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
-
-**Art. 75d.**
-
-1. Do usuwania drzew i krzewów znajdujących się na nieruchomościach objętych decyzją o środowiskowych uwarunkowaniach, o której mowa w art. 75c ust. 1, z wyjątkiem drzew i krzewów usuwanych z nieruchomości wpisanej do rejestru zabytków, nie stosuje się przepisów o ochronie przyrody w zakresie obowiązku uzyskiwania zezwoleń na ich usunięcie oraz opłat z tym związanych.
-
-2. Drewno pozyskane z wycinki drzew i krzewów z nieruchomości, o których mowa w art. 75c ust. 1, staje się nieodpłatnie własnością odpowiednio organu gospodarującego zasobem nieruchomości, Państwowego Gospodarstwa Leśnego Lasy Państwowe, Państwowego Gospodarstwa Wodnego Wody Polskie, Krajowego Zasobu Nieruchomości lub Krajowego Ośrodka Wsparcia Rolnictwa.
-
-3. Koszty usuwania drzew i krzewów oraz ich uprzątnięcia ponosi podmiot, na rzecz którego wydano decyzję o środowiskowych uwarunkowaniach, o której mowa w art. 75c ust. 1.
-
-**Art. 75e.**
-
-1. Wykonywanie prac wstępnych, o których mowa w art. 75b pkt 7 i 8, wymaga uzyskania pozwolenia na prace wstępne.
-
-2. Do wniosku o wydanie pozwolenia na prace wstępne Inwestor dołącza:
-
-- **1)** decyzję o środowiskowych uwarunkowaniach, o której mowa w art. 71 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko;
-- **2)** inne decyzje wymagane przepisami odrębnymi określające warunki prowadzenia prac wstępnych, w szczególności w zakresie ochrony środowiska naturalnego;
-- **3)** dokumenty potwierdzające dysponowanie przez Inwestora tytułem prawnym do nieruchomości.
-
-3. Wydanie pozwolenia na prace wstępne nie wymaga uzyskania decyzji dotyczącej wyłączenia z produkcji użytków rolnych.
-
-4. Pozwolenie na prace wstępne wydaje wojewoda, w drodze decyzji. Organem wyższego stopnia w stosunku do wojewody jest minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
-
-5. Przedmiotem oceny oddziaływania na środowisko prowadzonej w sprawie wydania pozwolenia na prace wstępne jest zakres prac wstępnych. Przepisy art. 88–93 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko stosuje się odpowiednio.
-
-6. Decyzję, o której mowa w ust. 4, wojewoda wydaje w terminie 30 dni od dnia wszczęcia postępowania. Przepis art. 35 § 5 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się.
-
-7. Decyzja, o której mowa w ust. 4, podlega natychmiastowemu wykonaniu.
-
-8. Odwołanie od decyzji, o której mowa w ust. 4, wnosi się w terminie 14 dni od dnia doręczenia decyzji stronie albo dnia obwieszczenia o wydaniu decyzji.
-
-9. Odwołanie od decyzji, o której mowa w ust. 4, zawiera zarzuty odnoszące się do decyzji, określa istotę i zakres żądania będącego przedmiotem odwołania oraz wskazuje dowody uzasadniające to żądanie.
-
-10. Odwołanie od decyzji, o której mowa w ust. 4, rozpatruje się w terminie 14 dni od dnia jego wniesienia.
-
-11. W postępowaniu przed organem wyższego stopnia oraz przed sądem administracyjnym nie można uchylić decyzji, o której mowa w ust. 4, w całości ani stwierdzić jej nieważności, gdy wadą dotknięta jest tylko część decyzji dotycząca części inwestycji w zakresie CPK.
-
-12. Do skargi na decyzję, o której mowa w ust. 4, stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi, z wyłączeniem art. 61 § 3 tej ustawy dla prac niestanowiących przedsięwzięcia mogącego znacząco oddziaływać na środowisko, z tym że:
-
-- **1)** przekazanie akt i odpowiedzi na skargę następuje w terminie 15 dni od dnia otrzymania skargi;
-- **2)** skargę rozpatruje się w terminie 30 dni od dnia otrzymania akt wraz z odpowiedzią na skargę.
-
-13. Termin rozpatrzenia skargi kasacyjnej na orzeczenie sądu administracyjnego dotyczące decyzji, o której mowa w ust. 4, wynosi 2 miesiące od dnia jej wniesienia.
-
-14. W postępowaniach w przedmiocie pozwolenia na prace wstępne stosuje się odpowiednio przepisy rozdziału 9 niniejszego działu, z uwzględnieniem przepisów niniejszego artykułu.
-
-**Art. 75f.**
-
-1. Jeżeli realizacja prac wstępnych wymaga zgody wodnoprawnej, zgodę tę wydaje właściwy organ Państwowego Gospodarstwa Wodnego Wody Polskie w terminie nie dłuższym niż 30 dni od dnia złożenia wniosku o jej wydanie. W sprawach dotyczących zgody wodnoprawnej nie stosuje się przepisów art. 396 ust. 1 pkt 7, art. 407 ust. 2 pkt 3 oraz art. 422 pkt 3 ustawy z dnia 20 lipca 2017 r. – Prawo wodne.
-
-2. Dla ustalenia stanu prawnego nieruchomości, o których mowa w art. 409 ust. 1 pkt 2 lit. e ustawy z dnia 20 lipca 2017 r. – Prawo wodne, siedziby i adresy właścicieli tych nieruchomości określa się według katastru nieruchomości.
-
 #### Rozdział 8 Pozwolenie na budowę i realizacja Inwestycji
 
 **Art. 76.**
@@ -1259,23 +1928,19 @@ Art. 121–128. (pominięte)
 
 - **1)** całości Inwestycji;
 - **2)** części Inwestycji;
-- **3)** robót budowlanych o charakterze przygotowawczym, poprzedzających przystąpienie do robót budowlanych dotyczących bezpośrednio Inwestycji, w szczególności:
-    - **a)** rozbiórki obiektów budowlanych,
-    - **b)** niwelacji terenu,
-    - **c)** budowy tymczasowych obiektów budowlanych,
-    - **d)** budowy sieci: – elektroenergetycznych, – wodociągowych, – kanalizacyjnych, – cieplnych, – gazowych,
-    - **e)** budowy przyłączy: – elektroenergetycznych, – wodociągowych, – kanalizacyjnych, – gazowych, – cieplnych, – telekomunikacyjnych,
-    - **f)** budowy: – telekomunikacyjnych linii kablowych i podbudowy słupowej dla telekomunikacyjnych linii kablowych, – kanalizacji kablowej, – urządzeń pomiarowych, wraz z ogrodzeniami i drogami wewnętrznymi, – ogrodzeń, – obiektów przeznaczonych do czasowego użytkowania w trakcie realizacji robót budowlanych, położonych na terenie budowy, oraz ustawiania barakowozów używanych przy wykonywaniu robót budowlanych, pracach geologicznych i pomiarach geodezyjnych, – znaków geodezyjnych, a także obiektów triangulacyjnych.
+- **3)** robót budowlanych o charakterze przygotowawczym, poprzedzających przystąpienie do robót budowlanych dotyczących bezpośrednio Inwestycji, w szczególności: rozbiórki obiektów budowlanych, niwelacji terenu, budowy tymczasowych obiektów budowlanych, budowy sieci: – elektroenergetycznych, – wodociągowych, – kanalizacyjnych, – cieplnych, – gazowych, budowy przyłączy: – elektroenergetycznych, – wodociągowych, – kanalizacyjnych, – gazowych, – cieplnych, – telekomunikacyjnych, budowy: – telekomunikacyjnych linii kablowych i podbudowy słupowej dla telekomunikacyjnych linii kablowych, – kanalizacji kablowej, – urządzeń pomiarowych, wraz z ogrodzeniami i drogami wewnętrznymi, – ogrodzeń, – obiektów przeznaczonych do czasowego użytkowania w trakcie realizacji robót budowlanych, położonych na terenie budowy, oraz ustawiania barakowozów używanych przy wykonywaniu robót budowlanych, pracach geologicznych i pomiarach geodezyjnych, – znaków geodezyjnych, a także obiektów triangulacyjnych.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
 
 2. Przepis ust. 1 stosuje się do zatwierdzenia projektu budowlanego.
 
 3. Przepisu art. 33 ust. 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane nie stosuje się.
 
 4. Podstawą pozwolenia na budowę w zakresie, o którym mowa w ust. 1 pkt 3, może być również miejscowy plan zagospodarowania przestrzennego lub decyzja o warunkach zabudowy i zagospodarowania terenu.
-
-5. Przepis art. 44a ust. 1 stosuje się odpowiednio do pozwolenia na budowę, o którym mowa w ust. 1.
-
-**Art. 76a.**
 
 1. Przed uzyskaniem pozwolenia na budowę Inwestycji Inwestor może złożyć wniosek o wydanie pozwolenia na prace przygotowawcze obejmujące:
 
@@ -1316,8 +1981,6 @@ Art. 121–128. (pominięte)
 
 14. Z uwzględnieniem przepisów niniejszego artykułu w postępowaniach w przedmiocie pozwolenia na prace przygotowawcze stosuje się odpowiednio przepisy rozdziału 9 niniejszego działu.
 
-**Art. 76b.**
-
 1. Do usuwania drzew i krzewów znajdujących się na nieruchomościach objętych pozwoleniem na prace przygotowawcze, o którym mowa w art. 76a ust. 1, z wyjątkiem drzew i krzewów usuwanych z nieruchomości wpisanej do rejestru zabytków, nie stosuje się przepisów o ochronie przyrody w zakresie obowiązku uzyskiwania zezwoleń na ich usunięcie oraz opłat z tym związanych.
 
 2. Drewno pozyskane z wycinki drzew i krzewów z nieruchomości, o których mowa w art. 76a ust. 1, staje się nieodpłatnie własnością odpowiednio organu gospodarującego zasobem nieruchomości, Państwowego Gospodarstwa Leśnego Lasy Państwowe, Państwowego Gospodarstwa Wodnego Wody Polskie, Krajowego Zasobu Nieruchomości lub Krajowego Ośrodka Wsparcia Rolnictwa.
@@ -1329,8 +1992,6 @@ Art. 121–128. (pominięte)
 1. Jeżeli realizacja Inwestycji wymaga zgody wodnoprawnej, zgodę tę wydaje właściwy organ Państwowego Gospodarstwa Wodnego Wody Polskie w terminie nie dłuższym niż 30 dni od dnia złożenia wniosku o jej wydanie. W sprawach dotyczących zgody wodnoprawnej nie stosuje się przepisów art. 396 ust. 1 pkt 7, art. 407 ust. 2 pkt 3 oraz art. 422 pkt 3 ustawy z dnia 20 lipca 2017 r. – Prawo wodne.
 
 2. Dla ustalenia stanu prawnego nieruchomości, o których mowa w art. 409 ust. 1 pkt 2 lit. e ustawy z dnia 20 lipca 2017 r. – Prawo wodne, siedziby i adresy właścicieli tych nieruchomości określa się według katastru nieruchomości.
-
-**Art. 77a.**
 
 1. (uchylony)
 
@@ -1374,9 +2035,7 @@ Art. 121–128. (pominięte)
 
 **Art. 79.**
 
-1. Państwowe Gospodarstwo Leśne Lasy Państwowe, zarządzające, na podstawie ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2024 r. poz. 530 i
-
-- **1473)** , nieruchomościami, w stosunku do których decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK stała się ostateczna, są obowiązane do dokonania wycinki drzew i krzewów oraz ich uprzątnięcia w terminie ustalonym w odrębnym porozumieniu między Państwowym Gospodarstwem Leśnym Lasy Państwowe a Spółką Celową.
+1. Państwowe Gospodarstwo Leśne Lasy Państwowe, zarządzające, na podstawie ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2024 r. poz. 530 i 1473), nieruchomościami, w stosunku do których decyzja o ustaleniu lokalizacji inwestycji w zakresie CPK stała się ostateczna, są obowiązane do dokonania wycinki drzew i krzewów oraz ich uprzątnięcia w terminie ustalonym w odrębnym porozumieniu między Państwowym Gospodarstwem Leśnym Lasy Państwowe a Spółką Celową.
 
 2. Drewno pozyskane z wycinki drzew i krzewów, o której mowa w ust. 1, staje się nieodpłatnie własnością Państwowego Gospodarstwa Leśnego Lasy Państwowe.
 
@@ -1398,15 +2057,9 @@ Art. 121–128. (pominięte)
 
 1. Przepisy niniejszego rozdziału stosuje się do postępowań w przedmiocie decyzji o ustaleniu lokalizacji inwestycji w zakresie CPK oraz pozwolenia na budowę – w tym do postępowań odwoławczych, zażaleniowych, a także postępowań wszczętych na podstawie art. 145, art. 154–156 i art. 161–163 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
-2. Przepisy art. 85–90 stosuje się odpowiednio do postępowań dotyczących decyzji o zezwoleniu na udostępnienie nieruchomości oraz decyzji ustalającej wysokość odszkodowania.
+2. Przepisy art. 85–90 stosuje się odpowiednio do postępowań dotyczących decyzji o zezwoleniu na udostępnienie nieruchomości, decyzji o zezwoleniu na niezwłoczne zajęcie nieruchomości oraz decyzji o ustaleniu odszkodowania.
 
-**Art. 83.** W przypadku inwestycji położonej na obszarze właściwości dwóch lub więcej organów, organem właściwym jest ten, na którego obszarze właściwości znajduje się największa część terenu inwestycji.
-
-**Art. 84.** Do skarg na decyzje administracyjne, o których mowa w ustawie, stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi, z wyłączeniem art. 61 § 3 tej ustawy.
-
-**Art. 84a.**
-
-1. Wyłączenie, o którym mowa w art. 84, nie dotyczy skarg na:
+**Art. 83.** W przypadku inwestycji położonej na obszarze właściwości dwóch lub więcej organów, organem właściwym jest ten, na którego obszarze właściwości znajduje się największa część terenu inwestycji. Do skarg na decyzje administracyjne, o których mowa w ustawie, stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi, z wyłączeniem art. 61 § 3 tej ustawy. 1. Wyłączenie, o którym mowa w art. 84, nie dotyczy skarg na:
 
 - **1)** decyzje o środowiskowych uwarunkowaniach;
 - **2)** pozwolenia na budowę, w ramach których wydano postanowienie, o którym mowa w art. 90 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
@@ -1462,9 +2115,7 @@ Art. 121–128. (pominięte)
 
 2. Zawiadomienie albo doręczenie w drodze obwieszczenia uważa się za dokonane po upływie 14 dni od dnia publikacji obwieszczenia.
 
-3. Termin, o którym mowa w ust. 2, rozpoczyna swój bieg w dniu publikacji obwieszczenia, które opublikowano jako ostatnie.
-
-**Art. 90a.** Do decyzji o ustaleniu lokalizacji inwestycji w zakresie CPK, poprzedzonej decyzją o środowiskowych uwarunkowaniach, stosuje się przepisy art. 72 ust. 6 i 6a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
+3. Termin, o którym mowa w ust. 2, rozpoczyna swój bieg w dniu publikacji obwieszczenia, które opublikowano jako ostatnie. Do decyzji o ustaleniu lokalizacji inwestycji w zakresie CPK, poprzedzonej decyzją o środowiskowych uwarunkowaniach, stosuje się przepisy art. 72 ust. 6 i 6a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
 **Art. 91.**
 
@@ -1506,19 +2157,9 @@ Art. 121–128. (pominięte)
 - **1)** decyzją o środowiskowych uwarunkowaniach lub
 - **2)** postanowieniem, o którym mowa w art. 90 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
-**Art. 96.** Do egzekucji obowiązków wynikających z decyzji stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505, z późn. zm. ).
+**Art. 96.** Do egzekucji obowiązków wynikających z decyzji stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505, z późn. zm.).
 
 #### Rozdział 10 Gospodarowanie nieruchomościami
-
-**Art. 96a.**
-
-1. Celem utworzenia, utrzymania i rozwijania Zasobu jest zapewnienie możliwości realizacji Przedsięwzięć oraz stworzenie optymalnych warunków rozwoju społeczno-gospodarczego oraz przestrzennego na obszarze otoczenia CPK.
-
-2. Spółka Celowa rozwija Zasób, nabywając prawa do nieruchomości gruntowych zabudowanych oraz niezabudowanych, nieruchomości budynkowych oraz lokalowych, położonych na terenie kraju, w szczególności na terenach gmin wskazanych w przepisach wydanych na podstawie art. 28 ust. 1 i art. 99 ust. 11.
-
-3. Skarb Państwa powierza Spółce Celowej wykonywanie prawa własności i innych praw rzeczowych na jego rzecz w stosunku do nieruchomości Skarbu Państwa stanowiących Zasób oraz włączanych do Zasobu, w tym ustanawianie ograniczonych praw rzeczowych oraz użytkowania wieczystego. W przypadku oddania nieruchomości w użytkowanie wieczyste Spółka Celowa wykonuje kompetencje właściwego organu określone w dziale II ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami. Przepisów art. 63–66 tej ustawy nie stosuje się.
-
-4. Spółka Celowa, obejmując we władanie powierzone nieruchomości Skarbu Państwa, wykonuje we własnym imieniu prawa i obowiązki z nimi związane w stosunku do osób trzecich, jak również we własnym imieniu wykonuje związane z tymi nieruchomościami obowiązki publicznoprawne.
 
 **Art. 97.** Pełnomocnik oraz Spółka Celowa, działając we współpracy z Krajowym Ośrodkiem Wsparcia Rolnictwa, Agencją Restrukturyzacji i Modernizacji Rolnictwa oraz Państwowym Gospodarstwem Leśnym Lasy Państwowe, tworzy warunki do zamiany nieruchomości oraz warunki do utrzymania prowadzenia produkcji rolnej lub leśnej przez właścicieli lub dzierżawców nieruchomości, w tym nieruchomości rolnych, w trybie przepisów o scalaniu i wymianie gruntów.
 
@@ -1568,13 +2209,13 @@ Art. 121–128. (pominięte)
 - **1)** położeniu i oznaczeniu nieruchomości według katastru nieruchomości;
 - **2)** numerze księgi wieczystej, o ile jest założona;
 - **3)** powierzchni nieruchomości według katastru nieruchomości;
-- **4)** stanie prawnym nieruchomości, w szczególności o:
-    - **a)** ograniczonych prawach rzeczowych ustanowionych na nieruchomości, w tym hipotekach,
-    - **b)** użytkowaniu wieczystym,
-    - **c)** umowach i porozumieniach dotyczących nieruchomości lub jej części, w tym umowach zawartych przez właściwy organ,
-    - **d)** zgłoszonych roszczeniach wobec nieruchomości lub jej części, jeśli znane są takie informacje,
-    - **e)** toczących się, dotyczących nieruchomości lub sytuowanych na nich obiektów budowlanych, postępowaniach administracyjnych, w tym prowadzonych na podstawie przepisów: – ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, – ustawy z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych i dotyczących zezwolenia na realizację inwestycji drogowej, – ustawy z dnia 28 marca 2003 r. o transporcie kolejowym i dotyczących lokalizacji linii kolejowej, – ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, – ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego i dotyczących zezwolenia na realizację inwestycji w zakresie lotniska użytku publicznego, – ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu i dotyczących lokalizacji inwestycji w zakresie terminalu oraz inwestycji towarzyszącej, – ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych i dotyczących lokalizacji regionalnej sieci szerokopasmowej, – ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych i dotyczących pozwolenia na realizację takich inwestycji, – ustawy z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących i dotyczących lokalizacji inwestycji w zakresie budowy obiektu energetyki jądrowej oraz inwestycji towarzyszącej, – ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych i dotyczących lokalizacji lub realizacji inwestycji w zakresie strategicznych inwestycji w zakresie sieci przesyłowych, – ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym, [– ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących,] – ustawy z dnia 14 kwietnia 2023 r. o przygotowaniu i realizacji inwestycji w zakresie elektrowni szczytowo-pompowych oraz inwestycji towarzyszących,
-    - **f)** toczących się, dotyczących nieruchomości lub sytuowanych na nich obiektów budowlanych, postępowaniach sądowych – jeśli znane są takie informacje;
+- **4)** stanie prawnym nieruchomości, w szczególności o: ograniczonych prawach rzeczowych ustanowionych na nieruchomości, w tym hipotekach, użytkowaniu wieczystym, umowach i porozumieniach dotyczących nieruchomości lub jej części, w tym umowach zawartych przez właściwy organ, zgłoszonych roszczeniach wobec nieruchomości lub jej części, jeśli znane są takie informacje, toczących się, dotyczących nieruchomości lub sytuowanych na nich obiektów budowlanych, postępowaniach administracyjnych, w tym prowadzonych na podstawie przepisów: – ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, – ustawy z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych i dotyczących zezwolenia na realizację inwestycji drogowej, – ustawy z dnia 28 marca 2003 r. o transporcie kolejowym i dotyczących lokalizacji linii kolejowej, – ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, – ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego i dotyczących zezwolenia na realizację inwestycji w zakresie lotniska użytku publicznego, – ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu i dotyczących lokalizacji inwestycji w zakresie terminalu oraz inwestycji towarzyszącej, – ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych i dotyczących lokalizacji regionalnej sieci szerokopasmowej, – ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych i dotyczących pozwolenia na realizację takich inwestycji, – ustawy z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących i dotyczących lokalizacji inwestycji w zakresie budowy obiektu energetyki jądrowej oraz inwestycji towarzyszącej, – ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych i dotyczących lokalizacji lub realizacji inwestycji w zakresie strategicznych inwestycji w zakresie sieci przesyłowych, – ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym, –  ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących, – (uchylone) – ustawy z dnia 14 kwietnia 2023 r. o przygotowaniu i realizacji inwestycji w zakresie elektrowni szczytowo-pompowych oraz inwestycji towarzyszących, toczących się, dotyczących nieruchomości lub sytuowanych na nich obiektów budowlanych, postępowaniach sądowych jeśli znane są takie informacje;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
 
 - **5)** dotychczasowym sposobie zagospodarowania nieruchomości, w tym informacje, czy nieruchomość jest wykorzystywana na cele publiczne, wraz ze wskazaniem tych celów;
 - **6)** ograniczeniach w korzystaniu z nieruchomości wynikających z przepisów prawa lub rozstrzygnięć i decyzji;
@@ -1586,16 +2227,14 @@ Art. 121–128. (pominięte)
 - **2)** wymaga wyłączenia gruntów z produkcji leśnej;
 - **3)** stanowi grunty sklasyfikowane w ewidencji gruntów i budynków jako grunty leśne zadrzewione i zakrzewione;
 - **4)** jest objęta decyzją o środowiskowych uwarunkowaniach dotyczącą inwestycji celu publicznego, jeśli znane są takie informacje;
-- **5)** jest położona:
-    - **a)** na obszarach szczególnego zagrożenia powodzią,
-    - **b)** na terenach osuwisk oraz terenach zagrożonych ruchami masowymi ziemi,
-    - **c)** w odległości mniejszej niż dziesięciokrotność całkowitej wysokości elektrowni wiatrowej w rozumieniu przepisów ustawy z dnia 20 maja 2016 r. o inwestycjach w zakresie elektrowni wiatrowych (Dz. U. z 2024 r. poz.
-
-- **317)** ,
-    - **d)** na obszarze parku narodowego, rezerwatu przyrody, parku krajobrazowego, na obszarze chronionego krajobrazu lub na terenie obszaru Natura 2000,
-    - **e)** na obszarze rewitalizacji lub w jego sąsiedztwie,
-    - **f)** na terenie specjalnej strefy ekonomicznej lub w jej sąsiedztwie,
-    - **g)** w odległości mniejszej niż bezpieczna odległość od zakładu stwarzającego zagrożenie wystąpienia poważnej awarii przemysłowej – jeśli znane są takie informacje.
+- **5)** jest położona: na obszarach szczególnego zagrożenia powodzią, na terenach osuwisk oraz terenach zagrożonych ruchami masowymi ziemi, w odległości mniejszej niż dziesięciokrotność całkowitej wysokości elektrowni wiatrowej w rozumieniu przepisów ustawy z dnia 20 maja 2016 r. o inwestycjach w zakresie elektrowni wiatrowych (Dz. U. z 2024 r. poz. 317), na obszarze parku narodowego, rezerwatu przyrody, parku krajobrazowego, na obszarze chronionego krajobrazu lub na terenie obszaru Natura 2000, na obszarze rewitalizacji lub w jego sąsiedztwie, na terenie specjalnej strefy ekonomicznej lub w jej sąsiedztwie, w odległości mniejszej niż bezpieczna odległość od zakładu stwarzającego zagrożenie wystąpienia poważnej awarii przemysłowej jeśli znane są takie informacje.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
 
 6. Wykazy nieruchomości, o których mowa w ust. 1 i 2, zawierają również informacje o tym, czy korzystanie z nieruchomości wiąże się z korzystaniem z pomocy finansowej pochodzącej ze środków finansowych Unii Europejskiej, o ile dane takie są dostępne dla właściwego organu sporządzającego wykaz.
 
@@ -1734,8 +2373,6 @@ Art. 121–128. (pominięte)
 
 2. Wygaśnięcie trwałego zarządu, o którym mowa w ust. 1 pkt 1, potwierdza właściwy organ w drodze decyzji.
 
-**Art. 112a.**
-
 1. Nieruchomość Skarbu Państwa wchodząca w skład Zasobu może zostać wyłączona z Zasobu przez Spółkę Celową, w tym również na wniosek właściwego organu lub spółki Skarbu Państwa, jeżeli jest zbędna dla realizacji zadań określonych w Programie albo w odniesieniu do tej nieruchomości zostały zgłoszone roszczenia.
 
 2. Wyłączenie nieruchomości z Zasobu może nastąpić także na uzasadniony wniosek:
@@ -1747,8 +2384,6 @@ Art. 121–128. (pominięte)
 - **5)** ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa złożony w związku z potrzebą wykorzystania tej nieruchomości na cele mieszkaniowe lub realizacji zadań, o których mowa w art. 60 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
 3. W przypadku sporu dotyczącego zasadności wyłączenia z Zasobu nieruchomości, o których mowa w ust. 1, przepisy art. 13–14 ustawy z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości stosuje się odpowiednio.
-
-**Art. 112b.**
 
 1. Wyłączenie nieruchomości Skarbu Państwa z Zasobu na podstawie art. 112a i przekazanie do zasobu właściwego organu następuje na podstawie protokołu zdawczo-odbiorczego sporządzanego przez Spółkę Celową. Protokół podpisują Spółka Celowa oraz właściwy organ. Protokół zdawczo-odbiorczy stanowi podstawę wpisu w księdze wieczystej oraz w ewidencji gruntów i budynków. Spółka Celowa składa wniosek o wpis w księdze wieczystej prowadzonej dla nieruchomości wyłączonej z Zasobu. Przepis art. 106 ust. 2 stosuje się odpowiednio.
 
@@ -1765,8 +2400,6 @@ Art. 121–128. (pominięte)
 3. W przypadku gdy skutkiem wygaszenia umów dotyczących nieruchomości, w tym umowy najmu, dzierżawy, użytkowania lub wypowiedzenia umów, o których mowa w art. 112 ust. 1 pkt 3, jest konieczność wypłaty odszkodowania, zapłaty kary umownej lub konieczność zwrotu przyznanych środków, w tym środków pochodzących z Unii Europejskiej, przez stronę umowy, niebędącą reprezentantem Skarbu Państwa, stronie tej przysługuje od Spółki Celowej zwrot wypłaconych środków finansowych.
 
 4. Wypłat na wynagrodzenie, o którym mowa w ust. 2, oraz zwrotu, o którym mowa w ust. 3, dokonuje się ze środków własnych Spółki Celowej.
-
-**Art. 113a.**
 
 1. Pełnomocnik może włączyć do Zasobu również nieruchomości Skarbu Państwa położone poza obszarem wskazanym w przepisach wydanych na podstawie art. 99 ust. 11, w celu zaoferowania ich jako nieruchomości zamiennych wobec nieruchomości niezbędnych do przygotowania i realizacji Przedsięwzięć.
 
@@ -1802,9 +2435,7 @@ Art. 121–128. (pominięte)
 
 **Art. 115.**
 
-1. W terminie trzech miesięcy od dnia wydania ostatecznej decyzji o ustaleniu lokalizacji inwestycji w zakresie CPK Pełnomocnik występuje do starosty o wydanie opinii w zakresie wystąpienia skutków, o których mowa w art. 4 ust. 1 pkt 2 ustawy z dnia 26 marca 1982 r. o scalaniu i wymianie gruntów (Dz. U. z 2023 r. poz.
-
-- **1197)** , w związku z realizowaną inwestycją w zakresie CPK.
+1. W terminie trzech miesięcy od dnia wydania ostatecznej decyzji o ustaleniu lokalizacji inwestycji w zakresie CPK Pełnomocnik występuje do starosty o wydanie opinii w zakresie wystąpienia skutków, o których mowa w art. 4 ust. 1 pkt 2 ustawy z dnia 26 marca 1982 r. o scalaniu i wymianie gruntów (Dz. U. z 2023 r. poz. 1197), w związku z realizowaną inwestycją w zakresie CPK.
 
 2. Starosta stwierdza, w drodze postanowienia, wystąpienie skutków, o których mowa w ust. 3. Na postanowienie służy zażalenie.
 
@@ -1820,20 +2451,14 @@ Art. 121–128. (pominięte)
 
 **Art. 116.** Grunty zajęte pod Przedsięwzięcia są zwolnione od opłat z tytułu użytkowania wieczystego. Nie pobiera się pierwszej opłaty i opłat rocznych z tytułu nabycia prawa użytkowania wieczystego nieruchomości, a nabycie prawa własności budynków, innych urządzeń i lokali znajdujących się na nieruchomościach, o których mowa w decyzji lokalizacyjnej, następuje nieodpłatnie.
 
-**Art. 117.** Dochód z tytułu nabycia prawa użytkowania wieczystego oraz prawa własności nieruchomości, o których mowa w decyzji lokalizacyjnej, jest zwolniony od podatku dochodowego.
+**Art. 117.** Dochód z tytułu nabycia prawa użytkowania wieczystego oraz prawa własności nieruchomości, o których mowa w decyzji lokalizacyjnej, jest zwolniony od podatku dochodowego. 1. Do nieruchomości wchodzących w skład Zasobu, które są przedmiotem wniosku o wydanie decyzji o środowiskowych uwarunkowaniach w zakresie Inwestycji lub Inwestycji Towarzyszącej, objętych taką decyzją, objętych planem rezerwacji, oraz do inwestycji realizowanych na tych nieruchomościach nie stosuje się przepisów:
 
-**Art. 117a.**
-
-1. Do nieruchomości wchodzących w skład Zasobu, które są przedmiotem wniosku o wydanie decyzji o środowiskowych uwarunkowaniach w zakresie Inwestycji lub Inwestycji Towarzyszącej, objętych taką decyzją, objętych planem rezerwacji, oraz do inwestycji realizowanych na tych nieruchomościach nie stosuje się przepisów:
-
-- **1)** art. 36–37 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym;
+- **1)** art. 36–371 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym;
 - **2)** art. 98a, art. 107 i art. 143–148b ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
-2. Przepis ust. 1 stosuje się również do nieruchomości wchodzących w skład Zasobu, które są przedmiotem wniosku o wydanie decyzji o środowiskowych uwarunkowaniach w zakresie dróg publicznych, którego wnioskodawcą jest Generalny Dyrektor Dróg Krajowych i Autostrad, objętych taką decyzją, oraz które są przedmiotem wniosku o wydanie decyzji o zezwoleniu na realizację inwestycji drogowej, którego wnioskodawcą jest Generalny Dyrektor Dróg Krajowych i Autostrad, objętych taką decyzją, jak również które są przedmiotem wniosku o wydanie pozwolenia na budowę, którego wnioskodawcą jest Generalny Dyrektor Dróg Krajowych i Autostrad, i objętych taką decyzją.
+2. Przepis ust. 1 stosuje się również do nieruchomości wchodzących w skład Zasobu, które są przedmiotem wniosku o wydanie decyzji o środowiskowych uwarunkowaniach w zakresie dróg publicznych, którego wnioskodawcą jest Generalny Dyrektor Dróg Krajowych i Autostrad, objętych taką decyzją, oraz które są przedmiotem wniosku o wydanie decyzji o zezwoleniu na realizację inwestycji drogowej, którego wnioskodawcą jest Generalny Dyrektor Dróg Krajowych i Autostrad, objętych taką decyzją, jak również które są przedmiotem wniosku o wydanie pozwolenia na budowę, którego wnioskodawcą jest Generalny Dyrektor Dróg Krajowych i Autostrad, i objętych taką decyzją. W zakresie nieuregulowanym w niniejszym dziale przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami dotyczące trybu zbywania oraz obciążania nieruchomości Skarbu Państwa ograniczonymi prawami rzeczowymi oraz prawami obligacyjnymi stosuje się odpowiednio do nieruchomości stanowiących własność Skarbu Państwa wchodzących w skład Zasobu.
 
-**Art. 117b.** W zakresie nieuregulowanym w niniejszym dziale przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami dotyczące trybu zbywania oraz obciążania nieruchomości Skarbu Państwa ograniczonymi prawami rzeczowymi oraz prawami obligacyjnymi stosuje się odpowiednio do nieruchomości stanowiących własność Skarbu Państwa wchodzących w skład Zasobu.
-
-### DZIAŁ IV Przygotowanie i realizacja Inwestycji Towarzyszących
+### Dział IV Przygotowanie i realizacja Inwestycji Towarzyszących
 
 #### Rozdział 1 Zasady ogólne
 
@@ -1867,7 +2492,7 @@ Art. 121–128. (pominięte)
 
 - **1)** Spółka Celowa lub spółka, o której mowa w art. 15 ust. 1,
 - **2)** podmiot, o którym mowa w art. 2 pkt 2 lit. e i f,
-- **3)** w przypadku, o którym mowa w ust. 1 pkt 2 i ust. 8, spółka, o której mowa w art. 1 pkt 2 lub art. 14 ustawy z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”, korzystająca, w zakresie wymaganym do realizacji Inwestycji Towarzyszącej, z praw i obowiązków przewidzianych w rozdziale 2b ustawy z dnia 28 marca 2003 r. o transporcie kolejowym dla PKP PLK SA – z uwzględnieniem przepisów niniejszego działu.
+- **3)** w przypadku, o którym mowa w ust. 1 pkt 2 i ust. 8, spółka, o której mowa w art. 1 pkt 2 lub art. 14 ustawy z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”, korzystająca, w zakresie wymaganym do realizacji Inwestycji Towarzyszącej, z praw i obowiązków przewidzianych w rozdziale 2b ustawy z dnia 28 marca 2003 r. o transporcie kolejowym dla PKP PLK SA z uwzględnieniem przepisów niniejszego działu.
 
 3. W przypadku, o którym mowa w ust. 2, przy dokonywaniu wywłaszczeń do zapłaty odszkodowania obowiązana jest Spółka Celowa.
 
@@ -1883,8 +2508,6 @@ Art. 121–128. (pominięte)
 - **2)** na wniosek inwestora organ wyznacza dłuższy termin wydania nieruchomości, opróżnienia lokali oraz innych pomieszczeń dla określonych w decyzji obszarów.
 
 8. Ilekroć w przepisach ustawy z dnia 28 marca 2003 r. o transporcie kolejowym jest mowa o inwestycjach dotyczących linii kolejowych, należy przez to rozumieć również inne inwestycje wymienione w ust. 1 pkt 2, o ile stanowią Inwestycje Towarzyszące w rozumieniu niniejszej ustawy. W powyższym przypadku decyzję o ustaleniu lokalizacji linii kolejowej wydaje się na wniosek spółki, o której mowa w art. 1 pkt 2 lub art. 14 ustawy z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”.
-
-**Art. 119a.**
 
 1. Do realizacji Inwestycji Towarzyszących stosuje się odpowiednio przepisy działu III rozdziału 7a.
 
@@ -1906,426 +2529,21 @@ Art. 121–128. (pominięte)
 
 7. Od dnia wydania zarządzenia wojewody o przystąpieniu do sporządzania planu miejscowego, do obszaru nim objętego przepis art. 62 ust. 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym stosuje się odpowiednio.
 
-8. Właścicielowi albo użytkownikowi wieczystemu nieruchomości przysługuje wyłącznie roszczenie do Spółki Celowej o wykupienie nieruchomości lub jej części objętej planem miejscowym. Przepis art. 36 ust. 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym stosuje się odpowiednio. W pozostałym zakresie przepisów art. 36–37 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym nie stosuje się. Gmina nie pokrywa kosztów i roszczeń związanych z wejściem w życie tego planu miejscowego.
+8. Właścicielowi albo użytkownikowi wieczystemu nieruchomości przysługuje wyłącznie roszczenie do Spółki Celowej o wykupienie nieruchomości lub jej części objętej planem miejscowym. Przepis art. 36 ust. 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym stosuje się odpowiednio. W pozostałym zakresie przepisów art. 36–371 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym nie stosuje się. Gmina nie pokrywa kosztów i roszczeń związanych z wejściem w życie tego planu miejscowego.
 
 #### Rozdział 2 Szczególne zasady zmiany sposobu zagospodarowania terenu na obszarach Inwestycji Towarzyszących
 
-**Art. 120a.**
-
-1. W przypadku złożenia przez Inwestora wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 71 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, dotyczącej Inwestycji Towarzyszącej:
-
-- **1)** nie wszczyna się postępowań o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu, które dotyczą chociażby w części nieruchomości objętej którymkolwiek z wariantów zawartych we wniosku o wydanie decyzji o środowiskowych uwarunkowaniach,
-- **2)** wszczęte postępowania, o których mowa w pkt 1, zawiesza się – do czasu wydania prawomocnej decyzji o środowiskowych uwarunkowaniach lub decyzji o umorzeniu postępowania.
-
-2. Pełnomocnik może udzielić zgody na wszczęcie postępowania o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu albo na podjęcie zawieszonego postępowania, o których mowa w ust. 1, biorąc pod uwagę:
-
-- **1)** wymogi prawidłowego przygotowania, realizacji oraz użytkowania planowanej Inwestycji Towarzyszącej;
-- **2)** wpływ realizacji inwestycji, której dotyczy wniosek o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu, na możliwości zagospodarowania terenu;
-- **3)** brak niespójności z wnioskiem o wydanie decyzji o środowiskowych uwarunkowaniach, o którym mowa w ust. 1;
-- **4)** ryzyka wskazane w art. 120r ust. 2.
-
-3. Zgoda, o której mowa w ust. 2, jest udzielana na wniosek podmiotu ubiegającego się o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu.
-
-4. Do wniosku o wydanie zgody, o której mowa w ust. 2, dołącza się:
-
-- **1)** kopię złożonego wniosku o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu wraz z załącznikami, o których mowa w ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym – w przypadku postępowania, które zostało zawieszone na podstawie ust. 1 pkt 2;
-- **2)** projekt wniosku o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu wraz z załącznikami, o których mowa w ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym – w przypadku gdy postępowanie o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu nie zostało wszczęte;
-- **3)** uzasadnienie wykazujące, że inwestycja wskazana we wniosku o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu albo w projekcie takiego wniosku nie będzie powodowała kolizji z budową lub funkcjonowaniem Inwestycji Towarzyszącej.
-
-5. Zgodę, o której mowa w ust. 2, dołącza się do:
-
-- **1)** wniosku o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu – w przypadku, o którym mowa w ust. 1 pkt 1;
-- **2)** wniosku o podjęcie zawieszonego postępowania o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu – w przypadku, o którym mowa w ust. 1 pkt 2.
-
-**Art. 120b.**
-
-1. W przypadku wydania, na podstawie wniosku Inwestora, przez organ pierwszej instancji decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 71 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, dotyczącej Inwestycji Towarzyszącej:
-
-- **1)** nie wszczyna się postępowań o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu, które dotyczą chociażby w części nieruchomości objętej decyzją o środowiskowych uwarunkowaniach;
-- **2)** umarza się prowadzone postępowanie o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu, które dotyczą chociażby w części nieruchomości objętej decyzją o środowiskowych uwarunkowaniach;
-- **3)** tracą moc decyzje o warunkach zabudowy i zagospodarowania terenu, które dotyczą chociażby w części nieruchomości objętej decyzją o środowiskowych uwarunkowaniach.
-
-2. Pełnomocnik może udzielić zgody na wszczęcie postępowania o wydanie decyzji o ustaleniu lokalizacji inwestycji celu publicznego, które dotyczy chociażby w części nieruchomości objętej decyzją o środowiskowych uwarunkowaniach, biorąc pod uwagę:
-
-- **1)** wymogi prawidłowego przygotowania, realizacji oraz użytkowania planowanej Inwestycji Towarzyszącej;
-- **2)** wpływ realizacji inwestycji, której dotyczy wniosek o wydanie decyzji o ustaleniu lokalizacji inwestycji celu publicznego, na możliwości zagospodarowania terenu;
-- **3)** brak niespójności z decyzją o środowiskowych uwarunkowaniach, o której mowa w ust. 1;
-- **4)** ryzyka wskazane w art. 120r ust. 2.
-
-2a. Zgoda, o której mowa w ust. 2, jest udzielana na wniosek podmiotu ubiegającego się o wydanie decyzji o ustaleniu lokalizacji inwestycji celu publicznego.
-
-2b. Do wniosku o wydanie zgody, o której mowa w ust. 2, dołącza się projekt wniosku o wydanie decyzji o ustaleniu lokalizacji inwestycji celu publicznego wraz z załącznikami, o których mowa w ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym.
-
-2c. Zgodę, o której mowa w ust. 2, dołącza się do wniosku o wydanie decyzji o ustaleniu lokalizacji inwestycji celu publicznego.
-
-2d. W odniesieniu do nieruchomości objętych chociażby w części decyzją o środowiskowych uwarunkowaniach, o której mowa w ust. 1, przepisów art. 120a nie stosuje się.
-
-3. Postępowania, o których mowa w ust. 1 pkt 2, są umarzane po upływie 2 miesięcy od dnia wydania decyzji o środowiskowych uwarunkowaniach, o której mowa w ust. 1.
-
-4. Decyzje, o których mowa w ust. 1 pkt 3, tracą moc po upływie 2 miesięcy od dnia wydania decyzji o środowiskowych uwarunkowaniach, o której mowa w ust. 1.
-
-5. Przepisów ust. 1 pkt 2 i 3 nie stosuje się do:
-
-- **1)** decyzji o ustaleniu lokalizacji inwestycji celu publicznego wydanych przed złożeniem wniosku, o którym mowa w art. 120a ust. 1, które zostały wskazane przez Pełnomocnika;
-- **2)** decyzji o warunkach zabudowy i zagospodarowania terenu wydanych po uprzednim uzyskaniu zgody, o której mowa w art. 120a ust. 2;
-- **3)** postępowań o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu wszczętych za zgodą, o której mowa w art. 120a ust. 2.
-
-6. Pełnomocnik przekazuje właściwym gminom informacje o decyzjach, o których mowa w ust. 5 pkt 1, w terminie miesiąca od dnia wydania decyzji o środowiskowych uwarunkowaniach, o której mowa w ust. 1. Do wskazania przez Pełnomocnika decyzji, o których mowa w ust. 5 pkt 1, przepisy ust. 2 stosuje się odpowiednio.
-
-7. Przepis ust. 1 pkt 1 stosuje się od dnia wydania przez organ pierwszej instancji decyzji o środowiskowych uwarunkowaniach do dnia:
-
-- **1)** wejścia w życie planu rezerwacji, o którym mowa w art. 120m ust. 2, albo
-- **2)** w którym decyzja uchylająca decyzję o środowiskowych uwarunkowaniach będąca podstawą przyjęcia planu rezerwacji stała się ostateczna, albo
-- **3)** w którym decyzja stwierdzająca nieważność decyzji o środowiskowych uwarunkowaniach będąca podstawą przyjęcia planu rezerwacji stała się ostateczna, albo
-- **4)** w którym upłynęło 6 lat od dnia, w którym decyzja o środowiskowych uwarunkowaniach stała się ostateczna.
-
-8. Przepisu ust. 1 pkt 3 nie stosuje się do decyzji o warunkach zabudowy i zagospodarowania terenu, na podstawie których do dnia wydania decyzji o środowiskowych uwarunkowaniach wydano ostateczną decyzję – pozwolenie na budowę albo dokonano zgłoszenia, o którym mowa w art. 30 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, i upłynął termin do wniesienia przez właściwy organ sprzeciwu.
-
-9. Do stwierdzenia wygaśnięcia decyzji o warunkach zabudowy i zagospodarowania terenu przepisów art. 162 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
-
-10. W ciągu 3 miesięcy od dnia otrzymania decyzji o środowiskowych uwarunkowaniach wójt, burmistrz lub prezydent miasta opracowuje wykaz decyzji, o których mowa w ust. 1 pkt 3.
-
-11. Wykaz, o którym mowa w ust. 10, jest przekazywany właściwym miejscowo organom administracji architektoniczno-budowlanej i nadzoru budowlanego oraz podlega ogłoszeniu na stronie podmiotowej Biuletynu Informacji Publicznej właściwej gminy.
-
-12. Przepisy ust. 1–11 stosuje się do zmiany przez organ pierwszej instancji decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 71 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, dotyczącej Inwestycji Towarzyszącej.
-
-13. W sytuacji gdy decyzja uchylająca decyzję o środowiskowych uwarunkowaniach lub decyzja stwierdzająca nieważność decyzji o środowiskowych uwarunkowaniach nie dotyczy wszystkich nieruchomości objętych decyzją o środowiskowych uwarunkowaniach będącą podstawą przyjęcia planu rezerwacji, przepis ust. 7 pkt 1 stosuje się do nieruchomości w zakresie, w jakim decyzja ta nie została uchylona, lub w zakresie, w jakim nie stwierdzono jej nieważności.
-
-14. Inwestor będący wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwarunkowaniach dotyczącej Inwestycji Towarzyszącej doręcza niezwłocznie kopię:
-
-- **1)** wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, bez załączników, o których mowa w art. 74 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, i z wyłączeniem mapy, o której mowa w art. 74 ust. 1 pkt 3a tej ustawy,
-- **2)** decyzji kończącej postępowanie w przedmiocie środowiskowych uwarunkowań – właściwym wójtom, burmistrzom, prezydentom miast, zarządowi województwa i wojewodzie.
-
-15. Przepis ust. 14 pkt 1 stosuje się odpowiednio przy zmianie wniosku o wydanie decyzji o środowiskowych uwarunkowaniach.
-
-**Art. 120c.** W przypadku złożenia przez Inwestora wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 71 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, dotyczącej Inwestycji Towarzyszącej, lub wydania takiej decyzji nie uchwala się:
-
-**Art. 120d.**
-
-1. Spółka Celowa doręcza kopię:
-
-- **1)** wniosku Inwestora o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 71 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, dotyczącej Inwestycji Towarzyszącej, bez załączników, o których mowa w art. 74 ust. 1 tej ustawy, z wyłączeniem mapy, o której mowa w art. 74 ust. 1 pkt 3a tej ustawy,
-- **2)** decyzji o umorzeniu postępowania w sprawie wydania decyzji o środowiskowych uwarunkowaniach oraz
-- **3)** decyzji o środowiskowych uwarunkowaniach – właściwym wójtom, burmistrzom, prezydentom miast oraz zarządowi województwa.
-
-2. Przepis ust. 1 pkt 1 stosuje się odpowiednio przy zmianie wniosku o wydanie decyzji o środowiskowych uwarunkowaniach.
-
-**Art. 120e.** Przepisów art. 120a–120c nie stosuje się do terenów objętych aktami wydanymi na podstawie art. 28 ust. 1 lub art. 120.
-
 #### Rozdział 3 Szczególne zasady realizacji Inwestycji Towarzyszących
-
-**Art. 120f.**
-
-1. Ilekroć w przepisach:
-
-- **1)** ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych jest mowa o strategicznej inwestycji w zakresie sieci przesyłowej, należy przez to rozumieć również inne inwestycje wymienione w art. 119 ust. 1 pkt 3,
-- **2)** ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym jest mowa o strategicznej inwestycji w sektorze naftowym, należy przez to rozumieć również inne inwestycje wymienione w art. 119 ust. 1 pkt 6 – o ile stanowią Inwestycje Towarzyszące w rozumieniu niniejszej ustawy.
-
-2. Rada Ministrów może, w drodze rozporządzenia, ustanowić inwestorami Inwestycji Towarzyszących inne podmioty niż inwestorzy wskazani w ustawach, o których mowa w ust. 1, uwzględniając potencjał i doświadczenie danego podmiotu w realizacji inwestycji tego typu oraz region, na którego obszarze dany podmiot prowadzi przeważającą działalność.
-
-3. Rada Ministrów może, w drodze rozporządzenia, wskazać inwestycje spośród Inwestycji Towarzyszących dotyczące dystrybucji energii elektrycznej, gazu, ropy naftowej i produktów pochodnych, do których mają zastosowanie przepisy ustaw, o których mowa w art. 119 ust. 1 pkt 3 i 6, uwzględniając szczególny charakter oraz cel Inwestycji Towarzyszących.
-
-4. Do podmiotów wskazanych w rozporządzeniu, o którym mowa w ust. 2, przepisy ustaw, o których mowa w ust. 1, stosuje się odpowiednio.
-
-**Art. 120g.**
-
-1. W przypadku gdy Inwestycja Towarzysząca wymaga wejścia na teren cudzej nieruchomości w celu wykonania prac polegających na:
-
-- **1)** wycince drzew i krzewów, wykonaniu kompensacji przyrodniczej,
-- **2)** przeprowadzeniu badań archeologicznych, hydrogeologicznych, prac geologicznych lub określeniu geotechnicznych warunków posadowienia obiektu, lub wykonaniu innych czynności niezbędnych do sporządzenia dokumentacji technicznej bezpośrednio związanej z Inwestycją Towarzyszącą,
-- **3)** przeprowadzeniu pomiarów, badań lub innych prac niezbędnych do sporządzenia karty informacyjnej przedsięwzięcia lub raportu o oddziaływaniu przedsięwzięcia na środowisko – Inwestor Inwestycji Towarzyszącej występuje do właściciela lub użytkownika wieczystego nieruchomości o zgodę na wejście na teren nieruchomości lub jej części oraz uzgadnia z nim przewidywany sposób, zakres i termin korzystania z nieruchomości.
-
-2. W przypadku gdy czynności, o których mowa w ust. 1, wymagają wejścia na teren nieruchomości stanowiących teren zamknięty lub objętych obszarem kolejowym, Inwestor Inwestycji Towarzyszącej występuje odpowiednio do organu, który wydał decyzję o zamknięciu terenu, zarządcy infrastruktury kolejowej lub innego podmiotu zarządzającego obszarem kolejowym o zgodę na wejście na teren nieruchomości lub jej części oraz uzgadnia przewidywany sposób, zakres i termin korzystania z nieruchomości.
-
-3. W przypadku nieuzyskania zgody, o której mowa w ust. 1 albo 2, w terminie 30 dni od dnia otrzymania wystąpienia o taką zgodę przez właściciela lub użytkownika wieczystego nieruchomości albo organu, który wydał decyzję o zamknięciu terenu, zarządcę infrastruktury kolejowej lub inny podmiot zarządzający obszarem kolejowym, Inwestor Inwestycji Towarzyszącej występuje do wojewody z wnioskiem o wydanie decyzji o zezwoleniu na wejście na teren tej nieruchomości lub jej części.
-
-4. Wniosek o wydanie decyzji, o której mowa w ust. 3, zawiera:
-
-- **1)** ogólną charakterystykę Inwestycji Towarzyszącej;
-- **2)** określenie granic terenu objętego wnioskiem;
-- **3)** oznaczenie nieruchomości lub ich części, na które wejście jest konieczne w celu realizacji zadań określonych w ust. 1, wraz ze wskazaniem zakresu tych zadań;
-- **4)** decyzję środowiskową, jeżeli została wydana;
-- **5)** oświadczenie Inwestora Inwestycji Towarzyszącej o braku zgody, o której mowa w ust. 1 albo 2.
-
-5. Wojewoda wydaje decyzję, o której mowa w ust. 3, w ciągu 30 dni od dnia złożenia wniosku. Decyzja określa sposób, zakres i terminy korzystania z nieruchomości. Decyzja zastępuje zgodę organu, który wydał decyzję o zamknięciu terenu zamkniętego, o której mowa w art. 13 ust. 3 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne.
-
-6. W przypadku nieuregulowanego stanu prawnego nieruchomości, o której mowa w ust. 1, lub braku w ewidencji gruntów i budynków, o której mowa w art. 2 pkt 8 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, danych pozwalających na ustalenie danych osobowych, w szczególności adresu właściciela lub użytkownika wieczystego tej nieruchomości, przepisów ust. 1 dotyczących uzyskania zgody właściciela lub użytkownika wieczystego nieruchomości i ust. 4 pkt 5 nie stosuje się, a wojewoda wydaje decyzję o zezwoleniu, o której mowa w ust. 3, w terminie 30 dni od dnia złożenia wniosku przez Inwestora Inwestycji Towarzyszącej.
-
-7. Sposób, zakres i terminy korzystania z nieruchomości uzgodnione na podstawie ust. 1 albo 2 albo określone w decyzji, o której mowa w ust. 3, nie mogą powodować:
-
-- **1)** zagrożenia bezpieczeństwa ruchu drogowego lub kolejowego;
-- **2)** wstrzymania ruchu kolejowego;
-- **3)** zamknięcia dróg krajowych lub dróg o znaczeniu obronnym, chyba że istnieje możliwość zorganizowania objazdów;
-- **4)** wstrzymania ruchu w żegludze śródlądowej lub zagrożenia bezpieczeństwa żeglugi śródlądowej;
-- **5)** utrudnień prowadzenia działań z zakresu ochrony przeciwpowodziowej.
-
-8. Decyzję, o której mowa w ust. 3, wydaje się na czas określony, nie dłuższy niż 3 lata. Decyzji nadaje się rygor natychmiastowej wykonalności.
-
-**Art. 120h.**
-
-1. Inwestor Inwestycji Towarzyszącej po zakończeniu czynności, o których mowa w art. 120g, jest obowiązany przywrócić nieruchomość do stanu poprzedniego. Jeżeli przywrócenie nieruchomości do stanu poprzedniego nie jest możliwe, właścicielom lub użytkownikom wieczystym nieruchomości przysługuje odszkodowanie.
-
-2. Odszkodowanie odpowiada wartości poniesionych szkód oraz uwzględniać brak dostępu do nieruchomości lub jej części w czasie wykonywania czynności, o których mowa w art. 120g. Jeżeli wskutek poniesionych szkód zmniejszy się wartość nieruchomości, w odszkodowaniu uwzględnia się kwotę odpowiadającą temu zmniejszeniu.
-
-3. Decyzję w zakresie odszkodowania wydaje wojewoda. Obowiązek zapłaty odszkodowania obciąża Inwestora Inwestycji Towarzyszącej, który na podstawie odrębnego porozumienia zawartego z wojewodą może pokryć koszty powstałe w związku z ustaleniem wysokości odszkodowań.
-
-**Art. 120i.**
-
-1. Inwestor Inwestycji Towarzyszącej może podzielić zamierzenie budowlane objęte jednym zezwoleniem na realizację tej inwestycji na odcinki.
-
-2. Dla każdego odcinka ustanawia się odrębnego kierownika budowy oraz opracowuje i prowadzi odrębną dokumentację budowy.
-
-3. Inwestor Inwestycji Towarzyszącej może ustanowić jednego inspektora nadzoru inwestorskiego dla całego zamierzenia budowlanego lub ustanowić kilku inspektorów dla poszczególnych odcinków.
-
-4. Podziału zamierzenia budowlanego na odcinki inwestor dokonuje w zawiadomieniu o zamierzonym terminie rozpoczęcia robót budowlanych, wskazując granice między poszczególnymi odcinkami.
-
-**Art. 120j.** Do przystąpienia do użytkowania odcinka linii kolejowej stosuje się odpowiednio przepisy dotyczące przystąpienia do użytkowania drogi publicznej.
-
-**Art. 120k.** Odstąpienie od zatwierdzonego projektu budowlanego, w zakresie objętym projektem zagospodarowania terenu w liniach rozgraniczających Inwestycji Towarzyszącej, nie stanowi istotnego odstąpienia, o którym mowa w art. 36a ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, jeżeli Inwestor Inwestycji Towarzyszącej uzyskał opinie, uzgodnienia, pozwolenia i inne dokumenty, wymagane przepisami szczególnymi. Dokumenty te Inwestor Inwestycji Towarzyszącej załącza do wniosku o pozwolenie na użytkowanie lub zawiadomienia o zakończeniu budowy.
-
-**Art. 120l.**
-
-1. Mienie wchodzące w skład linii kolejowej o państwowym znaczeniu, będącej własnością lub przedmiotem użytkowania wieczystego Spółki Celowej lub spółki, o której mowa w art. 15 ust. 1, nie podlega sprzedaży.
-
-2. Za zgodą Pełnomocnika mienie, o którym mowa w ust. 1, może być zbyte na rzecz PKP SA lub PLK SA, o których mowa w ustawie z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”.
-
-3. Do wniosku złożonego przez PKP SA lub PLK SA o wydanie zgody dołącza się opinię Spółki Celowej lub spółki, o której mowa w art. 15 ust. 1.
-
-4. Opinia, o której mowa w ust. 3, jest wydawana na wniosek PKP SA lub PLK SA, o których mowa w ustawie z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”, w terminie nie dłuższym niż 30 dni od dnia otrzymania wniosku o wydanie opinii. Niewydanie opinii w tym terminie traktuje się jako brak zastrzeżeń do wniosku o wydanie zgody, o której mowa w ust. 2.
-
-5. Do czynności prawnych, o których mowa w ust. 2, nie stosuje się art. 38–41 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym.
-
-6. Czynności prawne dokonane z naruszeniem ust. 2 są nieważne.
-
-7. Zgoda, o której mowa w ust. 2, lub odmowa zgody wyrażana jest w drodze decyzji administracyjnej.
 
 #### Rozdział 4 Plan rezerwacji terenu dla Inwestycji Towarzyszących
 
-**Art. 120m.**
+### Dział IVA Planowanie przestrzenne obszaru lokalizacji Inwestycji
 
-1. W celu zabezpieczenia prawidłowego przygotowania i realizacji Inwestycji Towarzyszącej, na wniosek Inwestora tej inwestycji, dokonuje się rezerwacji obszaru realizacji takiej inwestycji wskazanego w decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 71 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, wydanej na podstawie wniosku Inwestora przez organ pierwszej instancji.
+### Dział IVB Zarządzanie rozwojem obszaru otoczenia Centralnego Portu Komunikacyjnego
 
-2. Rezerwacji obszaru inwestycji dokonuje wojewoda w planie rezerwacji, wydawanym w formie zarządzenia stanowiącego akt prawa miejscowego, w terminie nie dłuższym niż 30 dni od dnia wpływu wniosku, o którym mowa w ust. 1. Przepis art. 3 § 2 pkt 9 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi stosuje się.
+### Dział IVC Zorganizowana relokacja
 
-3. Przyjęcie planu rezerwacji nie wymaga zgodności z planem ogólnym gminy, miejscowym planem zagospodarowania przestrzennego oraz planem zagospodarowania przestrzennego województwa.
-
-4. Obszar planu rezerwacji mogą stanowić wyłącznie tereny wskazane w decyzji, o której mowa w ust. 1, jako tereny lokalizacji Inwestycji Towarzyszącej, oraz:
-
-- **1)** obszary oddziaływania akustycznego;
-- **2)** obszary oddziaływania elektromagnetycznego;
-- **3)** tereny, na których zgodnie z przepisami art. 73 ust. 4 i 5 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, 834, 1089 i 1222) nie mogą być lokalizowane zakłady stwarzające zagrożenie wystąpienia poważnej awarii przemysłowej, wielorodzinne budynki mieszkalne, obiekty użyteczności publicznej, budynki zamieszkania zbiorowego, drogi krajowe oraz linie kolejowe o znaczeniu państwowym;
-- **4)** tereny leżące w odległości, o której mowa w art. 13i ust. 3 pkt 5 lit. a tiret czternaste–siedemnaste ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym.
-
-5. W planie rezerwacji określa się przebieg Inwestycji Towarzyszącej wynikający z decyzji o środowiskowych uwarunkowaniach, o której mowa w ust. 1, obszar oddziaływania tej inwestycji, w szczególności obszary i tereny, o których mowa w ust. 4, szczególne zasady gospodarowania nieruchomościami, planowania i zagospodarowania przestrzennego oraz realizacji inwestycji celu publicznego.
-
-6. Plan rezerwacji składa się z części tekstowej i graficznej. Część graficzna przedstawia obszar objęty rezerwacją na mapie sporządzonej z wykorzystaniem treści mapy ewidencyjnej.
-
-7. Rezerwacji obszaru inwestycji dokonuje się:
-
-- **1)** na wniosek Inwestora Inwestycji Towarzyszącej będącego wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w ust. 1, do którego dołącza się projekt planu rezerwacji;
-- **2)** do końca ważności decyzji o środowiskowych uwarunkowaniach, o której mowa w ust. 1, lecz nie dłużej niż na okres 6 lat.
-
-8. Z dniem wejścia w życie planu rezerwacji do dnia zakończenia jego obowiązywania, w tym jego uchylenia:
-
-- **1)** miejscowe plany zagospodarowania przestrzennego, w części obejmującej obszary objęte planem rezerwacji, nie stanowią podstawy do zmiany sposobu zagospodarowania terenu, uzyskania pozwolenia na budowę, dokonania skutecznego zgłoszenia budowlanego, podziału nieruchomości, wydzielania samodzielnych lokali mieszkalnych w budynkach;
-- **2)** uchwały w sprawie zasad i warunków sytuowania obiektów małej architektury, tablic reklamowych i urządzeń reklamowych oraz ogrodzeń, ich gabaryty, standardy jakościowe oraz rodzaje materiałów budowlanych, z jakich mogą być wykonane, uchwały w sprawie utworzenia lub powiększenia parku krajobrazowego, w części obejmującej obszary objęte planem rezerwacji, nie stanowią podstawy do lokalizowania nowych obiektów małej architektury, tablic reklamowych i urządzeń reklamowych oraz ogrodzeń;
-- **3)** statut uzdrowiska, w części obejmującej obszary objęte planem rezerwacji, nie stanowi podstawy do lokalizacji nowych punktów sprzedaży pamiątek, wyrobów ludowych, produktów regionalnych lub towarów o podobnym charakterze, a także do lokalizacji nowych tablic i urządzeń reklamowych.
-
-9. Wojewoda uchyla plan rezerwacji:
-
-- **1)** z urzędu, w przypadku zrealizowania lub zrealizowania i oddania do użytkowania Inwestycji Towarzyszącej;
-- **2)** na wniosek Inwestora Inwestycji Towarzyszącej będącego wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w ust. 1, w przypadku gdy:
-    - **a)** odstąpiono od realizacji Inwestycji Towarzyszącej, której dotyczyła decyzja o środowiskowych uwarunkowaniach, o której mowa w ust. 1, będąca podstawą przyjęcia planu rezerwacji,
-    - **b)** uchylono decyzję o środowiskowych uwarunkowaniach, o której mowa w ust. 1, będącą podstawą przyjęcia planu rezerwacji,
-    - **c)** stwierdzono nieważność decyzji o środowiskowych uwarunkowaniach, o której mowa w ust. 1, będącej podstawą przyjęcia planu rezerwacji.
-
-10. W przypadku, o którym mowa w ust. 9 pkt 2, jeżeli odstąpienie od realizacji Inwestycji Towarzyszącej lub decyzja uchylająca decyzję o środowiskowych uwarunkowaniach, o której mowa w ust. 1, lub decyzja stwierdzająca nieważność decyzji o środowiskowych uwarunkowaniach, o której mowa w ust. 1, nie dotyczą całego odcinka Inwestycji Towarzyszącej będącej inwestycją liniową lub wszystkich nieruchomości objętych decyzją o środowiskowych uwarunkowaniach będącą podstawą przyjęcia planu rezerwacji, wniosek Inwestora Inwestycji Towarzyszącej będącego wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w ust. 1, dotyczy wyłącznie tego odcinka Inwestycji Towarzyszącej lub tej decyzji uchylającej decyzję o środowiskowych uwarunkowaniach, o której mowa w ust. 1, lub tej decyzji stwierdzającej nieważność decyzji o środowiskowych uwarunkowaniach, o której mowa w ust. 1, w zakresie, w którym taka decyzja o środowiskowych uwarunkowaniach nie została uchylona lub w stosunku do niej nie stwierdzono nieważności.
-
-11. Plan rezerwacji traci moc z dniem utraty ważności przez decyzję o środowiskowych uwarunkowaniach lub upływu 6 lat od dnia jego wejścia w życie.
-
-12. Z dniem doręczenia zawiadomienia o wszczęciu postępowania dotyczącego wydania decyzji dotyczącej lokalizacji lub realizacji Inwestycji Towarzyszącej wydawanej w oparciu o decyzję o środowiskowych uwarunkowaniach, o której mowa w ust. 1:
-
-- **1)** nieruchomości stanowiące własność Skarbu Państwa lub jednostki samorządu terytorialnego, w całości lub w części objęte wnioskiem o wydanie takiej decyzji, nie mogą być przedmiotem obrotu w rozumieniu przepisów o gospodarce nieruchomościami do dnia, w którym decyzja ta stała się ostateczna;
-- **2)** w odniesieniu do nieruchomości objętych, w całości lub w części, wnioskiem o wydanie takiej decyzji, do dnia, w którym decyzja ta stała się prawomocna, nie wydaje się decyzji o pozwoleniu na budowę; toczące się postępowania ulegają zawieszeniu z mocy prawa do dnia, w którym decyzja ta stała się prawomocna;
-- **3)** w odniesieniu do nieruchomości objętych, w całości lub w części, wnioskiem o wydanie takiej decyzji, do dnia, w którym decyzja ta stała się prawomocna, nie jest możliwe dokonanie skutecznego zgłoszenia budowlanego, dokonanie podziału nieruchomości oraz wydzielenie samodzielnego lokalu mieszkalnego w budynkach;
-- **4)** w odniesieniu do nieruchomości objętych w całości lub w części wnioskiem o wydanie takiej decyzji, do dnia, w którym decyzja ta stała się prawomocna, zawiesza się postępowania o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu w rozumieniu ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym.
-
-13. Przepisów ust. 12 pkt 2–4 nie stosuje się do postępowań w sprawie wydania decyzji o warunkach zabudowy i zagospodarowania terenu, decyzji o pozwoleniu na budowę i decyzji oraz pozwoleń, o których mowa w ust. 12 pkt 2, wszczętych na wniosek Inwestora.
-
-14. W przypadku, o którym mowa w ust. 12 pkt 2, na wniosek strony postępowania, po uzyskaniu zgody Inwestora, organ prowadzący postępowanie w sprawie wydania decyzji o pozwoleniu na budowę w odniesieniu do nieruchomości objętych wnioskiem o wydanie decyzji podejmie zawieszone postępowanie.
-
-15. W przypadku gdy po doręczeniu zawiadomienia, o którym mowa w ust. 12, nastąpi:
-
-- **1)** zbycie własności lub prawa użytkowania wieczystego nieruchomości objętej w całości lub w części wnioskiem o wydanie decyzji dotyczącej lokalizacji, lokalizacji i realizacji lub realizacji Inwestycji Towarzyszącej wydawanej w oparciu o decyzję o środowiskowych uwarunkowaniach, o której mowa w ust. 1,
-- **2)** przeniesienie wskutek innego zdarzenia prawnego własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem o wydanie decyzji, o której mowa w pkt 1 – nabywca, a w przypadku, o którym mowa w pkt 1, nabywca i zbywca są obowiązani do zgłoszenia właściwemu wojewodzie danych nowego właściciela lub użytkownika wieczystego.
-
-16. Niedokonanie zgłoszenia zgodnie z ust. 15 i prowadzenie postępowania bez udziału nowego właściciela lub użytkownika wieczystego nie stanowi podstawy do wznowienia postępowania.
-
-17. Czynność prawna dokonana z naruszeniem ust. 12 pkt 1 jest nieważna.
-
-**Art. 120n.**
-
-1. Szczególne zasady gospodarowania nieruchomościami, planowania i zagospodarowania przestrzennego oraz realizacji inwestycji celu publicznego na obszarach, o których mowa w art. 120m ust. 4, obejmują:
-
-- **1)** prawo pierwokupu nieruchomości przez Spółkę Celową na swoją rzecz;
-- **2)** uprawnienie do wyrażania zgody przez Inwestora Inwestycji Towarzyszącej będącego wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, na ustanowienie ograniczonych praw rzeczowych lub na zawarcie umów dzierżawy i najmu nieruchomości gruntowych Skarbu Państwa lub jednostek samorządu terytorialnego oraz umów, które pozwalają na realizację inwestycji na tych nieruchomościach, w tym również inwestycji o charakterze innym niż budowlany;
-- **3)** uprawnienie wnioskodawcy wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, do wejścia na teren nieruchomości w celu przeprowadzenia badań lub pomiarów niezbędnych do przygotowania i realizacji Inwestycji Towarzyszącej, w tym badań archeologicznych, prac geologicznych i przyrodniczych;
-- **4)** uzgadnianie z Inwestorem Inwestycji Towarzyszącej będącym wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, projektów planu ogólnego gminy, miejscowego planu zagospodarowania przestrzennego, w zakresie dotyczącym budowy i późniejszego funkcjonowania drogi, w tym jej potencjalnej rozbudowy lub zwiększenia przepustowości;
-- **5)** zakaz wydawania pozwoleń na budowę;
-- **6)** zakaz wydawania decyzji o warunkach zabudowy i zagospodarowania terenu;
-- **7)** zakaz wydawania decyzji w przedmiocie podziału nieruchomości;
-- **8)** zakaz wydzielania samodzielnych lokali mieszkalnych w budynkach;
-- **9)** zakaz wydawania decyzji dokonujących lokalizacji oraz decyzji zezwalających na wykonywanie robót budowlanych na podstawie:
-    - **a)** ustawy z dnia 28 marca 2003 r. o transporcie kolejowym i dotyczących lokalizacji linii kolejowej,
-    - **b)** ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego i dotyczących zezwolenia na realizację inwestycji w zakresie lotniska użytku publicznego,
-    - **c)** ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu i dotyczących lokalizacji inwestycji w zakresie terminalu oraz inwestycji towarzyszącej,
-    - **d)** ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych i dotyczących lokalizacji regionalnej sieci szerokopasmowej,
-    - **e)** ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych i dotyczących pozwolenia na realizację takich inwestycji,
-    - **f)** ustawy z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących i dotyczących lokalizacji inwestycji w zakresie budowy obiektu energetyki jądrowej oraz inwestycji towarzyszącej,
-    - **g)** ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych i dotyczących lokalizacji lub realizacji inwestycji w zakresie strategicznych inwestycji w zakresie sieci przesyłowych, [h) ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących i dotyczących lokalizacji lub realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących,]
-    - **i)** ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym,
-    - **j)** ustawy z dnia 14 kwietnia 2023 r. o przygotowaniu i realizacji inwestycji w zakresie elektrowni szczytowo-pompowych oraz inwestycji towarzyszących;
-
-- **10)** zakaz wydawania zgody, o której mowa w art. 46c ust. 3 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi;
-- **11)** uprawnienie Spółki Celowej do stosowania szczególnych zasad nabywania nieruchomości, o których mowa w art. 29b ust. 1 pkt 2.
-
-2. Zakaz wydawania pozwolenia na budowę stosuje się odpowiednio do zgłoszeń budowlanych dotyczących budowy budynku. W takim przypadku organ administracji architektoniczno-budowlanej wnosi sprzeciw wobec zgłoszenia.
-
-**Art. 120o.**
-
-1. Do prawa pierwokupu w zakresie nieuregulowanym stosuje się przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami oraz ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
-
-2. Do nieruchomości objętych prawem pierwokupu, o którym mowa w ust. 1, przepisów art. 17 ust. 3 i art. 109 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami nie stosuje się.
-
-3. W przypadku zbiegu prawa pierwokupu określonego w niniejszej ustawie z prawem pierwokupu określonym w przepisach odrębnych pierwszym uprawnionym do wykonania prawa pierwokupu jest Inwestor będący wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1.
-
-**Art. 120p.**
-
-1. Skarb Państwa lub jednostka samorządu terytorialnego przed ustanowieniem ograniczonych praw rzeczowych oraz przed sporządzeniem lub przystąpieniem do zawarcia umowy dzierżawy lub najmu nieruchomości gruntowej oraz umowy, która pozwala na realizację inwestycji na nieruchomości, również inwestycji o charakterze innym niż budowlany, o których mowa w art. 120n ust. 1 pkt 2, zawiadamiają o tym zamiarze Inwestora będącego wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1.
-
-2. Uprawnienie Inwestora będącego wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, do wyrażania zgody, o której mowa w art. 120n ust. 1 pkt 2, może być wykonane w terminie miesiąca od dnia otrzymania zawiadomienia o zamiarze ustanowienia ograniczonych praw rzeczowych lub zawarcia umów dzierżawy lub najmu nieruchomości gruntowych Skarbu Państwa lub jednostek samorządu terytorialnego oraz umów, które pozwalają na realizację inwestycji na takich nieruchomościach, również inwestycji o charakterze innym niż budowlany.
-
-3. Umowy, o których mowa w ust. 2, zawarte bez dokonania zawiadomienia lub przed upływem terminu, o którym mowa w ust. 2, lub mimo braku zgody Inwestora będącego wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, są nieważne z mocy prawa.
-
-**Art. 120q.**
-
-1. W przypadku, o którym mowa w art. 120n ust. 1 pkt 3, wnioskodawca wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, po zakończeniu badań lub pomiarów, o których mowa w art. 120n ust. 1 pkt 3, jest obowiązany przywrócić nieruchomość do stanu poprzedniego. Jeżeli przywrócenie nieruchomości do stanu poprzedniego nie jest możliwe, właścicielom nieruchomości przysługuje odszkodowanie.
-
-2. Przepis art. 120h stosuje się odpowiednio.
-
-**Art. 120r.**
-
-1. Uzgadnianie projektów planów ogólnych gminy oraz miejscowych planów zagospodarowania przestrzennego, o których mowa w art. 120n ust. 1 pkt 4, następuje na zasadach określonych w ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym.
-
-2. Inwestor będący wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, odmawia uzgodnienia, o którym mowa w art. 120n ust. 1 pkt 4, w sytuacji gdy projektowana treść planu ogólnego gminy lub miejscowego planu zagospodarowania przestrzennego powoduje ryzyka w zakresie dotyczącym budowy lub użytkowania Inwestycji Towarzyszącej, w tym jej potencjalnej rozbudowy, zwiększenia przepustowości, w szczególności w zakresie:
-
-- **1)** niespójności z decyzją o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1;
-- **2)** ryzyka powstawania utrudnień w realizacji Inwestycji Towarzyszącej;
-- **3)** ryzyka powstawania konieczności przebudowy Inwestycji Towarzyszącej, w szczególności przez budowę ekranów akustycznych;
-- **4)** ryzyka utrudnień w zakresie przyszłej przebudowy Inwestycji Towarzyszącej;
-- **5)** ryzyka konieczności budowy zjazdów, przejść, w tym przejść podziemnych, wiaduktów, tuneli, mostów, w miejscach nieprzewidzianych w decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1;
-- **6)** ryzyka konieczności budowy ekranów akustycznych lub innych zabezpieczeń akustycznych, które nie były przewidziane w decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1;
-- **7)** ryzyka konieczności uzyskania nowej decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, lub zmiany takiej decyzji;
-- **8)** ryzyka powstania trudności w zwiększeniu przepustowości Inwestycji Towarzyszącej;
-- **9)** ryzyka powstania trudności w posadawianiu urządzeń służących do poboru opłat za korzystanie z dróg płatnych;
-- **10)** ryzyka powstania trudności w posadawianiu urządzeń służących do monitorowania ruchu na drogach i liniach kolejowych;
-- **11)** ryzyka znaczącego zwiększenia kosztów w zakresie nabycia nieruchomości;
-- **12)** ryzyka wystąpienia zagrożenia bezpieczeństwa ruchu drogowego lub kolejowego;
-- **13)** ryzyka utraty uprawnień z tytułu gwarancji lub rękojmi w zakresie budowy, przebudowy lub remontu Inwestycji Towarzyszącej;
-- **14)** ryzyka zwiększenia prawdopodobieństwa negatywnych skutków suszy lub powodzi nagłych (nawalnych);
-- **15)** ryzyka konieczności budowy lub przebudowy urządzeń wodnych oraz urządzeń zmniejszających negatywne skutki suszy oraz rowów melioracyjnych;
-- **16)** ryzyka wystąpienia naruszenia wymagań wynikających z przepisów odrębnych;
-- **17)** ryzyka braku utrzymania drożności korytarza migracyjnego zwierząt, dla którego w decyzji środowiskowej została wskazana konieczność budowy przejść dla zwierząt.
-
-**Art. 120s.**
-
-1. Inwestor będący wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, może udzielić zgody na zwolnienie z zakazów określonych w art. 120n ust. 1 pkt 5–9, biorąc łącznie pod uwagę:
-
-- **1)** wymogi prawidłowego przygotowania, realizacji oraz użytkowania planowanej Inwestycji Towarzyszącej oraz jej oddziaływanie, o którym mowa w art. 120m ust. 4;
-- **2)** wpływ na możliwości zagospodarowania terenu;
-- **3)** brak niespójności z decyzją o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1;
-- **4)** ryzyka, o których mowa w art. 120r ust. 2.
-
-2. W przypadku wydania zgody na zwolnienie z zakazu, o którym mowa w art. 120n ust. 1 pkt 5, pozwolenie na budowę jest wydawane na podstawie miejscowego planu zagospodarowania przestrzennego obowiązującego w dniu wejścia w życie planu rezerwacji lub decyzji o warunkach zabudowy wydanej na podstawie zgody, o której mowa w ust. 1. Przepisu art. 120m ust. 7 pkt 1 nie stosuje się.
-
-**Art. 120t.**
-
-1. Organ administracji architektoniczno-budowlanej na wniosek Inwestora będącego wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, uchyla wydane pozwolenia na budowę lub wydaje decyzję zakazującą realizacji robót budowlanych na podstawie zgłoszenia.
-
-2. Inwestor będący wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, składa wniosek, o którym mowa w ust. 1, w przypadku gdy teren inwestycji w całości lub w części znajduje się na obszarze objętym planem rezerwacji, a istnieje wysokie prawdopodobieństwo, że inwestycje te znalazłyby się na terenie podlegającym wywłaszczeniu, lub jeżeli realizacja tych inwestycji mogłaby utrudnić realizację Inwestycji Towarzyszącej lub zwiększyć koszty takiej realizacji, lub gdy występuje brak spójności takiej inwestycji z decyzją o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, lub jej realizacja powoduje powstanie ryzyk, o których mowa w art. 120r ust. 2.
-
-3. Organ administracji architektoniczno-budowlanej uchyla wydane pozwolenia na budowę lub wydaje decyzję zakazującą realizacji robót budowlanych na podstawie zgłoszenia w terminie 15 dni roboczych od dnia otrzymania wniosku, o którym mowa w ust. 1.
-
-4. W przypadku gdy organ administracji architektoniczno-budowlanej nie uchyli wydanego pozwolenia na budowę lub nie wyda decyzji zakazującej realizacji robót budowlanych na podstawie zgłoszenia w terminie, o którym mowa w ust. 3, organ wyższego stopnia wymierza temu organowi, w drodze postanowienia, na które przysługuje zażalenie, karę w wysokości 500 zł za każdy dzień zwłoki.
-
-5. Przepisu ust. 1 nie stosuje się w przypadku, gdy na podstawie pozwolenia na budowę lub zgłoszenia rozpoczęto realizację robót budowlanych.
-
-**Art. 120u.**
-
-1. Zgoda, o której mowa w art. 120s, oraz uchylenie pozwolenia na budowę lub zakazanie realizacji robót budowlanych na podstawie zgłoszenia, o których mowa w art. 120t ust. 1, są wydawane w formie decyzji.
-
-2. Do wniosku o wydanie zgody, o której mowa w art. 120s, dołącza się projekt wniosku o wydanie zgody, której zwolnienie dotyczy, wraz z projektem zagospodarowania działki lub terenu oraz określeniem sposobu obsługi terenu z drogi publicznej.
-
-3. W przypadku zakazów, o których mowa w art. 120n ust. 1 pkt 5–9, oraz w przypadku uchylenia pozwolenia na budowę lub zakazania realizacji robót budowlanych na podstawie zgłoszenia, o których mowa w art. 120t ust. 1, od decyzji Inwestora będącego wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, przysługuje odwołanie do Pełnomocnika, a w przypadku gdy wnioskodawcą jest Generalny Dyrektor Dróg Krajowych i Autostrad, przysługuje wniosek o ponowne rozpatrzenie sprawy.
-
-**Art. 120v.**
-
-1. Właściciel nieruchomości, któremu nie udzielono zgody, o której mowa w art. 120s, w zakresie zakazu, o którym mowa w art. 120n ust. 1 pkt 5, po dniu, w którym decyzja odmawiająca zgody stała się ostateczna, może wystąpić do wojewody o przyznanie odszkodowania:
-
-- **1)** w wysokości równej 1/100 różnicy wartości między wartością nieruchomości określoną według jej możliwego stanu zagospodarowania wynikającego z dotychczasowego przeznaczenia nieruchomości określonego w miejscowym planie zagospodarowania przestrzennego a wartością nieruchomości według faktycznego użytkowania terenu i gruntu oraz dostępu do istniejących w dniu wejścia w życie planu rezerwacji dróg publicznych, sieci wodociągowych, kanalizacyjnych, elektroenergetycznych, gazowych, ciepłowniczych oraz telekomunikacyjnych za każde pełne 12 miesięcy trwania ograniczeń wynikających z planu rezerwacji – jeżeli podstawą wniosku o wyrażenie zgody był miejscowy plan zagospodarowania przestrzennego, lub
-- **2)** w wysokości równej 1/100 różnicy wartości między wartością nieruchomości określoną według jej możliwego stanu zagospodarowania wynikającego z decyzji o warunkach zabudowy i zagospodarowania terenu a wartością nieruchomości według faktycznego użytkowania terenu i gruntu oraz dostępu do istniejących w dniu wejścia w życie planu rezerwacji dróg publicznych, sieci wodociągowych, kanalizacyjnych, elektroenergetycznych, gazowych, ciepłowniczych oraz telekomunikacyjnych za każde pełne 12 miesięcy trwania ograniczeń wynikających z planu rezerwacji – jeżeli podstawą wniosku o wyrażenie zgody na uzyskanie pozwolenia na budowę była decyzja o warunkach zabudowy i zagospodarowania terenu wydana na podstawie zgody, o której mowa w art. 120s.
-
-2. W przypadku uchylenia pozwolenia na budowę lub zakazania realizacji robót budowlanych na podstawie zgłoszenia budowlanego właścicielowi nieruchomości przysługuje odszkodowanie w wysokości:
-
-- **1)** kosztów przygotowania projektu budowlanego oraz uzyskania zgód i dokumentów, które zostały poniesione w związku z uzyskaniem pozwolenia na budowę lub dokonaniem zgłoszenia budowlanego, oraz
-- **2)** równej różnicy wartości między wartością nieruchomości określoną zgodnie z treścią pozwolenia na budowę lub zgłoszenia budowlanego a wartością nieruchomości według faktycznego użytkowania terenu i gruntu oraz dostępu do istniejących w dniu wejścia w życie planu rezerwacji dróg publicznych, sieci wodociągowych, kanalizacyjnych, elektroenergetycznych, gazowych, ciepłowniczych oraz telekomunikacyjnych.
-
-3. Obliczając odszkodowanie ustalane na podstawie ust. 1:
-
-- **1)** za wartość nieruchomości przyjmuje się jej wartość z dnia złożenia wniosku o odszkodowanie;
-- **2)** za pierwszy dzień, w którym należne jest odszkodowanie, przyjmuje się dzień następny po dniu, w którym decyzja, o której mowa w ust. 1, stała się ostateczna;
-- **3)** w przypadku gdy okres między dniem, o którym mowa w pkt 2, a ostatnim dniem obowiązywania planu rezerwacji jest dłuższy niż 12 miesięcy, ale nie jest wielokrotnością 12 miesięcy, odszkodowanie za miesiące pozostałe do pełnego roku wynosi 1/12 odszkodowania, ustalanego na podstawie ust. 1, za każdy rozpoczęty miesiąc;
-- **4)** w przypadku gdy okres między dniem, o którym mowa w pkt 2, a ostatnim dniem obowiązywania planu rezerwacji jest krótszy od 12 miesięcy, odszkodowanie wynosi 1/12 odszkodowania, ustalanego na podstawie ust. 1, za każdy rozpoczęty miesiąc.
-
-4. Roszczenie o odszkodowanie, o którym mowa w ust. 1, przedawnia się po upływie 6 lat od dnia następującego:
-
-- **1)** po upływie ostatniego dnia obowiązywania planu rezerwacji, w przypadku odszkodowania ustalanego na podstawie ust. 1 pkt 1;
-- **2)** po dniu, w którym decyzja, o której mowa w ust. 1, stała się ostateczna, w przypadku odszkodowania ustalanego na podstawie ust. 1 pkt 2.
-
-5. Roszczenie o odszkodowanie, o którym mowa w ust. 2, przedawnia się po upływie 6 lat od dnia, w którym decyzja uchylająca pozwolenia na budowę lub decyzja zakazująca realizacji robót budowlanych na podstawie zgłoszenia budowlanego stała się ostateczna.
-
-**Art. 120w.**
-
-1. Przez możliwy stan zagospodarowania, o którym mowa w art. 120v ust. 1 pkt 1, rozumie się stan nieruchomości prawnie dopuszczalny, technicznie możliwy i ekonomicznie uzasadniony.
-
-2. Określając wartość nieruchomości według faktycznego użytkowania terenu i gruntu, uwzględnia się art. 120za.
-
-3. Przy określaniu wysokości odszkodowania, o którym mowa w art. 120v ust. 2, nie uwzględnia się:
-
-- **1)** miejscowego planu zagospodarowania przestrzennego, poprzednio obowiązujących miejscowych planów zagospodarowania przestrzennego oraz planu ogólnego gminy – w przypadku gdy podstawą pozwolenia na budowę lub zgłoszenia budowlanego był miejscowy plan zagospodarowania przestrzennego;
-- **2)** decyzji o warunkach zabudowy i zagospodarowania terenu, poprzednio obowiązujących miejscowych planów zagospodarowania przestrzennego oraz planu ogólnego gminy – w przypadku gdy podstawą pozwolenia na budowę była decyzja o warunkach zabudowy i zagospodarowania terenu.
-
-**Art. 120x.**
-
-1. Decyzję ustalającą wysokość odszkodowania wydaje wojewoda.
-
-2. Obowiązek zapłaty odszkodowania obciąża Inwestora będącego wnioskodawcą wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, który na podstawie odrębnego porozumienia zawartego z wojewodą może pokryć koszty powstałe w związku z ustaleniem wysokości odszkodowań.
-
-**Art. 120y.**
-
-1. Właściciel nieruchomości może uzyskać odszkodowanie, o którym mowa w art. 120v ust. 1, wyłącznie raz, niezależnie od liczby składanych wniosków i wydanych decyzji odmownych na podstawie art. 120s.
-
-2. Odszkodowanie, o którym mowa w art. 120v ust. 1, jest wypłacane na podstawie decyzji wojewody w sprawie ustalenia odszkodowania, o którym mowa w art. 120v ust. 1.
-
-**Art. 120z.** Niezależnie od zakazów określonych w planie rezerwacji dopuszcza się wydawanie rozstrzygnięć dotyczących robót budowlanych albo zezwalających na zmianę zagospodarowania terenu polegającą na:
-
-### DZIAŁ IVA Planowanie przestrzenne obszaru lokalizacji Inwestycji
-
-### DZIAŁ IVB Zarządzanie rozwojem obszaru otoczenia Centralnego Portu Komunikacyjnego
-
-### DZIAŁ IVC Zorganizowana relokacja
-
-### DZIAŁ V Zmiany w przepisach obowiązujących oraz przepisy przejściowe, dostosowujące i końcowe
+### Dział V Zmiany w przepisach obowiązujących oraz przepisy przejściowe, dostosowujące i końcowe
 
 **Art. 128a.**
 
@@ -2397,5 +2615,8 @@ Art. 121–128. (pominięte)
 
 **Art. 133.** Sekretarz stanu pełniący funkcję Pełnomocnika, o którym mowa w rozporządzeniu Rady Ministrów z dnia 27 kwietnia 2017 r. w sprawie ustanowienia Pełnomocnika Rządu do spraw Centralnego Portu Komunikacyjnego dla Rzeczypospolitej Polskiej (Dz. U. poz. 874 oraz z 2018 r. poz. 269) staje się Pełnomocnikiem.
 
-**Art. 134.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+**Art. 134.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+- **1)** Ze zmianą wprowadzoną przez art. 44 pkt 1 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), która weszła w życie z dniem 1 lipca 2024 r. 2) Przez art. 44 pkt 2 ustawy, o której mowa w odnośniku 1. 3) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 4. 4) W brzmieniu ustalonym przez art. 43 pkt 1 lit. a ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688), która weszła w życie z dniem 24 września 2023 r.; wejdzie w życie z dniem 1 stycznia 2026 r. 5) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 6. 6) W brzmieniu ustalonym przez art. 43 pkt 1 lit. b ustawy, o której mowa w odnośniku 4; wejdzie w życie z dniem 1 stycznia 2026 r. 7) Obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 8. 8) Przez art. 43 pkt 3 lit. a ustawy, o której mowa w odnośniku 4; wejdzie w życie z dniem 1 stycznia 2026 r. 9) Obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 10. 10) Przez art. 43 pkt 3 lit. b ustawy, o której mowa w odnośniku 4; wejdzie w życie z dniem 1 stycznia 2026 r. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 2760 oraz z 2024 r. poz. 858, 859, 1222, 1473, 1572 i 1615. 12) Obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 13. 13) Przez art. 43 pkt 5 ustawy, o której mowa w odnośniku 4; wejdzie w życie z dniem 1 stycznia 2026 r. 14) Obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 15. 15) Przez art. 43 pkt 10 ustawy, o której mowa w odnośniku 4; wejdzie w życie z dniem 1 stycznia 2026 r. 16) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 44 pkt 1 ustawy, o której mowa w odnośniku 1. 17) Obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 18. 18) Przez art. 43 pkt 11 lit. b ustawy, o której mowa w odnośniku 4; wejdzie w życie z dniem 1 stycznia 2026 r. 19) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 20. 20) W brzmieniu ustalonym przez art. 43 pkt 13 lit. a ustawy, o której mowa w odnośniku 4; wejdzie w życie z dniem 1 stycznia 2026 r. 21) Ustawa została ogłoszona w dniu 6 czerwca 2018 r.
+
 

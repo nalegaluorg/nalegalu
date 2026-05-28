@@ -22,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2011-12-14 |
 | Data wydania | 2011-12-28 |
+| Wejście w życie | 2011-12-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112821660) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1660/text.pdf) |
 

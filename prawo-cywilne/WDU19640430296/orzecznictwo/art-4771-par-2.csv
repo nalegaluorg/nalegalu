@@ -1,6 +1,4 @@
 saos_id|date|court|case_number|type|score|saos_url
-97269|2012-02-24|SN|II PK 143/11|Wyrok|78|https://www.saos.org.pl/judgments/97269
-93883|2011-01-12|SN|II PK 186/10|Wyrok|78|https://www.saos.org.pl/judgments/93883
 78474|1998-08-06|SN|I PKN 269/98|Wyrok|78|https://www.saos.org.pl/judgments/78474
 78334|1998-05-20|SN|I PKN 135/98|Wyrok|78|https://www.saos.org.pl/judgments/78334
 78305|1998-05-13|SN|I PKN 106/98|Wyrok|78|https://www.saos.org.pl/judgments/78305
@@ -22,7 +20,3 @@ saos_id|date|court|case_number|type|score|saos_url
 77103|1996-03-12|SN|I PRN 5/96|Wyrok|78|https://www.saos.org.pl/judgments/77103
 77041|1996-01-18|SN|I PRN 103/95|Wyrok|78|https://www.saos.org.pl/judgments/77041
 76867|1995-06-13|SN|I PRN 26/95|Wyrok|78|https://www.saos.org.pl/judgments/76867
-327537|2018-01-17|SO|III AUa 1508/16|Wyrok|56|https://www.saos.org.pl/judgments/327537
-208230|2015-04-15|SO|III AUa 518/14|Wyrok|56|https://www.saos.org.pl/judgments/208230
-5564|2012-12-28|SO|III AUa 1145/12|Wyrok|56|https://www.saos.org.pl/judgments/5564
-324266|2018-01-17|SO|VIII Pa 249/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/324266

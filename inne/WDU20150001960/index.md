@@ -22,6 +22,7 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-11-19 |
 | Data wydania | 2015-11-26 |
+| Wejście w życie | 2015-11-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001960) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1960/text.pdf) |
 
@@ -220,6 +221,28 @@ Minister właściwy do spraw środowiska sprawuje nadzór nad Prezesem Państwow
 
 **Art. 1.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2015 r. poz. 812, 1255 i 1269) wprowadza się następujące zmiany:
 
+- **1)** w art. 4 uchyla się ust. 5;
+- **2)** w art. 5: pkt 1a otrzymuje brzmienie: „
+    - **a)**
+
+- **1a)** budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo; ” , po pkt 2 dodaje się pkt 2a w brzmieniu: „
+    - **b)**
+
+- **2a)** energia; ” , po pkt 6 dodaje się pkt 6a w brzmieniu: „
+    - **c)**
+
+- **6a)** gospodarka złożami kopalin; ” , w pkt 28 kropkę zastępuje się średnikiem i dodaje się pkt 29 w brzmieniu: „
+    - **d)**
+
+- **29)** żegluga śródlądowa. ” ;
+- **3)** w art. 6: w ust. 1 uchyla się pkt 4a, ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2. Minister właściwy do spraw administracji publicznej sprawuje nadzór nad Krajową Komisją Uwłaszczeniową oraz, na podstawie kryterium zgodności z prawem, nad działalnością regionalnych izb obrachunkowych. ” ;
+
+- **4)** po art. 7 dodaje się art. 7a w brzmieniu: „
+
 **Art. 7a.**
 
 1.
@@ -269,4 +292,14 @@ Minister właściwy do spraw środowiska sprawuje nadzór nad Prezesem Państwow
 2. Z zastrzeżeniem ust. 1 osobie zajmującej kierownicze stanowisko państwowe, która pełni również inną funkcję, przysługuje jedno, wybrane przez nią wynagrodzenie przewidziane w przepisach niniejszej ustawy bądź w odrębnych przepisach. ” .
 
 **Art. 3.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 4f ust. 3, art. 5c ust. 4, art. 5e ust. 2, art. 6 ust. 8, art. 9 ust. 1, 3, 7 i 9, art. 9a ust. 16, art. 9c ust. 9 i 9a, art. 9i ust. 12, art. 9n ust. 1–3, art. 10 ust. 6, art. 11 ust. 7 i 9, art. 11c ust. 3, 4 i 6, art. 11r, art. 11s ust. 5, art. 15a ust. 1 i 2, art. 15b ust. 1, 3, 7 i 8, art. 15e, art. 15f ust. 1 i 2, art. 16a ust. 1 i 8, art. 23 ust. 2 pkt 19 i ust. 2c, art. 24 ust. 1, art. 32 ust. 3, art. 33 ust. 5, art. 35 ust. 1a i 1b, art. 43 ust. 6, art. 46 ust. 1, 3 i 5, art. 49a ust. 12, art. 52 ust. 4, 5 i 6 oraz art. 54 ust. 6 i 7 użyte w różnych przypadkach wyrazy „minister właściwy do spraw gospodarki” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw energii”;
+- **2)** w art. 12: uchyla się ust. 1, w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zadania ministra właściwego do spraw energii w zakresie polityki energetycznej obejmują: ” ;
+    - **a)**
+    - **b)**
+
+- **3)** art. 12a otrzymuje brzmienie: „
+
+1.
+
 

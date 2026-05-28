@@ -8,12 +8,10 @@ pos: 729
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków oraz niektórych innych ustaw
-
-*USTAWA z dnia 22 kwietnia 2005 r.*
+# Ustawa z dnia 22 kwietnia 2005 r. o zmianie ustawy o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,20 +22,316 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2005-04-22 |
 | Data wydania | 2005-05-16 |
+| Wejście w życie | 2005-08-17 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050850729) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/729/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz.U. Nr 72, poz. 747, z 2002 r. Nr 113, poz. 984 oraz z 2004 r. Nr 96, poz. 959 i Nr 173, poz. 1808) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. Nr 72, poz. 747, z 2002 r. Nr 113, poz. 984 oraz z 2004 r. Nr 96, poz. 959 i Nr 173, poz. 1808) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz.U. Nr 132, poz. 622, z późn. zm. ) w art. 5 wprowadza się następujące zmiany:
+- **1)** art. 1 otrzymuje brzmienie: „ Ustawa określa zasady i warunki zbiorowego zaopatrzenia w wodę przeznaczoną do spożycia przez ludzi oraz zbiorowego odprowadzania ścieków, w tym zasady działalności przedsiębiorstw wodociągowo-kanalizacyjnych, zasady tworzenia warunków do zapewnienia ciągłości dostaw i odpowiedniej jakości wody, niezawodnego odprowadzania i oczyszczania ścieków, wymagania dotyczące jakości wody przeznaczonej do spożycia przez ludzi, a także zasady ochrony interesów odbiorców usług, z uwzględnieniem wymagań ochrony środowiska i optymalizacji kosztów. ” ;
+- **2)** w art. 2: pkt 3 otrzymuje brzmienie: „
+    - **a)**
 
-**Art. 3.** W ustawie z dnia 18 lipca 2001 r. - Prawo wodne (Dz.U. Nr 115, poz. 1229, z późn. zm. ) w art. 9 w ust. 1 pkt 24 otrzymuje brzmienie: „24) wodzie przeznaczonej do spożycia przez ludzi - rozumie się przez to:
+- **3)** odbiorca usług – każdego, kto korzysta z usług wodociągowo-kanalizacyjnych z zakresu zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków na podstawie pisemnej umowy z przedsiębiorstwem wodociągowo-kanalizacyjnym, ” , po pkt 3 dodaje się pkt 3a w brzmieniu: „
+    - **b)**
+
+- **3a)** osoba korzystająca z lokalu – osobę posiadającą tytuł prawny do lokalu lub osobę korzystającą z lokalu o nieuregulowanym stanie prawnym, ” , pkt 4 i 5 otrzymują brzmienie: „
+    - **c)**
+
+- **4)** przedsiębiorstwo wodociągowo-kanalizacyjne – przedsiębiorcę w rozumieniu przepisów o swobodzie działalności gospodarczej, jeżeli prowadzi działalność gospodarczą w zakresie zbiorowego zaopatrzenia w wodę lub zbiorowego odprowadzania ścieków, oraz gminne jednostki organizacyjne nieposiadające osobowości prawnej, prowadzące tego rodzaju działalność,
+- **5)** przyłącze kanalizacyjne – odcinek przewodu łączącego wewnętrzną instalację kanalizacyjną w nieruchomości odbiorcy usług z siecią kanalizacyjną, za pierwszą studzienką, licząc od strony budynku, a w przypadku jej braku do granicy nieruchomości gruntowej, ” , pkt 18 otrzymuje brzmienie: „
+    - **d)**
+
+- **18)** woda przeznaczona do spożycia przez ludzi: wodę w stanie pierwotnym lub po uzdatnieniu, przeznaczoną do picia, przygotowania żywności lub innych celów domowych, niezależnie od jej pochodzenia i od tego, czy jest dostarczana z sieci dystrybucyjnej, cystern, w butelkach lub pojemnikach, wodę wykorzystywaną przez przedsiębiorstwo produkcji żywności do wytworzenia, przetworzenia, konserwowania lub wprowadzania do obrotu produktów albo substancji przeznaczonych do spożycia przez ludzi, ” ;
+    - **a)**
+    - **b)**
+
+- **3)** uchyla się art. 4;
+- **4)** w art. 5 po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
+
+1a. Przedsiębiorstwo wodociągowo-kanalizacyjne jest obowiązane do prowadzenia regularnej wewnętrznej kontroli jakości wody.
+
+1b. Wymóg zapewnienia dostaw pod odpowiednim ciśnieniem, o którym mowa w ust. 1, dotyczy wyłącznie dostaw wody z sieci. ” ;
+
+- **5)** w art. 6: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Dostarczanie wody lub odprowadzanie ścieków odbywa się na podstawie pisemnej umowy o zaopatrzenie w wodę lub odprowadzanie ścieków zawartej między przedsiębiorstwem wodociągowo-kanalizacyjnym a odbiorcą usług. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+- **b)**
+
+1a. Do zakupu wody lub wprowadzania przez przedsiębiorstwo wodociągowo-kanalizacyjne ścieków do urządzeń kanalizacyjnych niebędących w jego posiadaniu stosuje się przepisy Kodeksu cywilnego. ” , w ust. 3 po pkt 3 dodaje się pkt 3a w brzmieniu: „
+
+- **c)**
+- **3a)** warunków usuwania awarii przyłączy wodociągowych lub przyłączy kanalizacyjnych będących w posiadaniu odbiorcy usług, ” , ust. 4–6 otrzymują brzmienie: „
+    - **d)**
+
+4. Umowa, o której mowa w ust. 1, może być zawarta z osobą, która posiada tytuł prawny do korzystania z nieruchomości, do której ma być dostarczana woda lub z której mają być odprowadzane ścieki, albo z osobą, która korzysta z nieruchomości o nieuregulowanym stanie prawnym.
+
+5. Jeżeli nieruchomość jest zabudowana budynkiem wielolokalowym lub budynkami wielolokalowymi, umowa, o której mowa w ust. 1, jest zawierana z ich właścicielem lub z zarządcą.
+
+6. Na wniosek właściciela lub zarządcy budynku wielolokalowego lub budynków wielolokalowych przedsiębiorstwo wodociągowo-kanalizacyjne zawiera umowę, o której mowa w ust. 1, także z osobą korzystającą z lokalu wskazaną we wniosku, jeżeli:
+
+- **1)** instalacja wodociągowa w budynku jest wyposażona w wodomierze, zainstalowane zgodnie z obowiązującymi warunkami technicznymi, przy wszystkich punktach czerpalnych,
+- **2)** jest możliwy odczyt wskazań wodomierzy w terminie uzgodnionym przez przedsiębiorstwo wodociągowo-kanalizacyjne z właścicielem lub zarządcą,
+- **3)** właściciel lub zarządca rozlicza, zgodnie z art. 26 ust. 3, różnicę wskazań między wodomierzem głównym a sumą wskazań wodomierzy zainstalowanych przy punktach czerpalnych wody,
+- **4)** właściciel lub zarządca na podstawie umowy, o której mowa w ust. 1, reguluje należności wynikające z różnicy wskazań między wodomierzem głównym a sumą wskazań wodomierzy zainstalowanych przy punktach czerpalnych wody,
+- **5)** właściciel lub zarządca określa warunki utrzymania wodomierzy zainstalowanych przy punktach czerpalnych oraz warunki pobierania wody z punktów czerpalnych znajdujących się poza lokalami,
+- **6)** został uzgodniony z właścicielem lub zarządcą sposób przerwania dostarczania wody do lokalu bez zakłócania dostaw wody do pozostałych lokali; w szczególności przez możliwość przerwania dostarczania wody do lokalu rozumie się założenie plomb na zamkniętych zaworach odcinających dostarczanie wody do lokalu,
+- **7)** został uzgodniony z właścicielem lub zarządcą sposób przerywania dostarczania wody z punktów czerpalnych znajdujących się poza lokalami, bez zakłócania dostaw wody do lokali. ” , po ust. 6 dodaje się ust. 6a w brzmieniu: „
+    - **e)**
+
+6a. Właściciel lub zarządca przed złożeniem wniosku, o którym mowa w ust. 6, jest obowiązany do poinformowania osób korzystających z lokali o zasadach rozliczeń, o których mowa w ust. 6 pkt 3 i 4, oraz o obowiązku regulowania dodatkowych opłat wynikających z taryf za dokonywane przez przedsiębiorstwo wodociągowo-kanalizacyjne rozliczenie. ” , ust. 7 otrzymuje brzmienie: „
+
+- **f)**
+
+7. Przedsiębiorstwo wodociągowo-kanalizacyjne może wyrazić zgodę na zawarcie umowy z osobą korzystającą z lokalu, w budynkach, o których mowa w ust. 5, w przypadku gdy nie są spełnione warunki, o których mowa w ust. 6. ” , dodaje się ust. 8 w brzmieniu: „
+
+- **g)**
+
+8. W przypadku, o którym mowa w ust. 5, właściciel lub zarządca budynku wielolokalowego lub budynków wielolokalowych jest uprawniony do zainstalowania wodomierzy przy wszystkich punktach czerpalnych wody w danym budynku. Osoba korzystająca z lokalu jest obowiązana udostępnić lokal w celu zainstalowania wodomierzy oraz dokonywania ich odczytów, legalizacji, konserwacji i wymiany. ” ;
+
+- **6)** art. 7 otrzymuje brzmienie: „
+
+**Art. 7.** Osoby reprezentujące przedsiębiorstwo wodociągowo-kanalizacyjne, po okazaniu legitymacji służbowej i pisemnego upoważnienia, mają prawo wstępu na teren nieruchomości lub do obiektu budowlanego należących do osób, o których mowa w art. 6 ust. 2 i 4–7, w celu:
+
+- **1)** zainstalowania lub demontażu wodomierza głównego,
+- **2)** przeprowadzenia kontroli urządzenia pomiarowego, wodomierza głównego lub wodomierzy zainstalowanych przy punktach czerpalnych i dokonania odczytu ich wskazań oraz dokonania badań i pomiarów,
+- **3)** przeprowadzenia przeglądów i napraw urządzeń posiadanych przez to przedsiębiorstwo,
+- **4)** sprawdzenia ilości i jakości ścieków wprowadzanych do sieci,
+- **5)** odcięcia przyłącza wodociągowego lub przyłącza kanalizacyjnego lub założenia plomb na zamkniętych zaworach odcinających dostarczanie wody do lokalu,
+- **6)** usunięcia awarii przyłącza wodociągowego lub przyłącza kanalizacyjnego, jeżeli umowa, o której mowa w art. 6 ust. 1, tak stanowi. ” ;
+- **7)** w art. 8: w ust. 1 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** odbiorca usług nie uiścił należności za pełne dwa okresy obrachunkowe, następujące po dniu otrzymania upomnienia w sprawie uregulowania zaległej opłaty, ” , ust. 2 otrzymuje brzmienie: „
+    - **b)**
+
+2. Przedsiębiorstwo wodociągowo-kanalizacyjne, które odcięło dostawę wody z przyczyny, o której mowa w ust. 1 pkt 2, jest obowiązane do równoczesnego udostępnienia zastępczego punktu poboru wody przeznaczonej do spożycia przez ludzi i poinformowania o możliwościach korzystania z tego punktu. ” ;
+
+- **8)** w art. 9: w ust. 2 pkt 6 otrzymuje brzmienie: „
+    - **a)**
+
+- **6)** ścieków zawierających chorobotwórcze drobnoustroje pochodzące z: obiektów, w których są leczeni chorzy na choroby zakaźne, stacji krwiodawstwa, zakładów leczniczych dla zwierząt, w których zwierzęta są leczone stacjonarnie na choroby zakaźne, laboratoriów prowadzących badania z materiałem zakaźnym pochodzącym od zwierząt. ” , ust. 3 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **b)**
+
+3. Przedsiębiorstwo wodociągowo-kanalizacyjne jest obowiązane do prowadzenia regularnej kontroli ilości i jakości odprowadzanych ścieków bytowych i ścieków przemysłowych oraz kontroli przestrzegania warunków wprowadzania ścieków do urządzeń kanalizacyjnych. ” ;
+
+- **9)** art. 11 otrzymuje brzmienie: „
+
+**Art. 11.** Minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej, w porozumieniu z ministrem właściwym do spraw środowiska, określi, w drodze rozporządzenia, sposób realizacji obowiązków dostawców ścieków przemysłowych oraz warunki wprowadzania ścieków do urządzeń kanalizacyjnych, w tym dopuszczalne wartości wskaźników zanieczyszczeń w ściekach przemysłowych wprowadzanych do urządzeń kanalizacyjnych oraz sposób sprawowania kontroli ilości i jakości ścieków, biorąc pod uwagę:
+
+- **1)** bezpieczeństwo i zdrowie osób obsługujących urządzenia kanalizacyjne,
+- **2)** ochronę konstrukcji budowlanych i wyposażenia technicznego urządzeń kanalizacyjnych,
+- **3)** podatność mieszaniny ścieków przemysłowych i ścieków bytowych na mechaniczno-biologiczne procesy oczyszczania,
+- **4)** ochronę przed zanieczyszczeniem wód lub ziemi, do których są odprowadzane ścieki komunalne, a w szczególności spełnienie wymagań jakościowych odnoszących się do tych ścieków,
+- **5)** możliwość bezpiecznego dla środowiska wykorzystania osadów z oczyszczalni ścieków obsługującej zbiorczy system kanalizacyjny ścieków komunalnych,
+- **6)** zróżnicowanie w czasie warunków, jakie należy spełnić przy wprowadzaniu do urządzeń kanalizacyjnych ścieków zawierających substancje szczególnie szkodliwe dla środowiska wodnego określone na podstawie odrębnych przepisów. ” ;
+- **10)** art. 12 otrzymuje brzmienie: „
+
+**Art. 12.**
+
+1. Nadzór nad jakością wody przeznaczonej do spożycia przez ludzi sprawują organy Państwowej Inspekcji Sanitarnej na zasadach określonych w przepisach o Państwowej Inspekcji Sanitarnej.
+
+2. Każdy materiał i wyrób używany do uzdatniania wody przeznaczonej do spożycia przez ludzi powinien posiadać pozytywną ocenę higieniczną państwowego powiatowego inspektora sanitarnego.
+
+3. Zastosowanie nowych technologii uzdatniania wody przeznaczonej do spożycia przez ludzi wymaga zgody państwowego wojewódzkiego inspektora sanitarnego.
+
+4. Badanie pobranych próbek wody przeznaczonej do spożycia przez ludzi mogą wykonywać laboratoria Państwowej Inspekcji Sanitarnej lub inne laboratoria o udokumentowanym systemie jakości prowadzonych badań wody, zatwierdzonym przez Państwową Inspekcję Sanitarną.
+
+5. Wójt (burmistrz, prezydent miasta) jest obowiązany do informowania mieszkańców o jakości wody przeznaczonej do spożycia przez ludzi. ” ;
+
+- **11)** w art. 13 w pkt 8 na końcu dodaje się przecinek oraz dodaje się pkt 9 w brzmieniu: „
+- **9)** sposób postępowania przed organami Państwowej Inspekcji Sanitarnej w przypadku, gdy woda przeznaczona do spożycia przez ludzi nie spełnia wymagań jakościowych ” ;
+- **12)** w art. 14 pkt 1 otrzymuje brzmienie: „
+- **1)** warunki przyłączania nieruchomości do sieci oraz wymagania dotyczące urządzeń wodociągowych i urządzeń kanalizacyjnych będących w posiadaniu tych jednostek, ” ;
+- **13)** w art. 15: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Przedsiębiorstwo wodociągowo-kanalizacyjne jest obowiązane zapewnić budowę urządzeń wodociągowych i urządzeń kanalizacyjnych, ustalonych przez gminę w studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy oraz miejscowych planach zagospodarowania przestrzennego, w zakresie uzgodnionym w wieloletnim planie rozwoju i modernizacji, o którym mowa w art. 21 ust. 1. ” , ust. 3 otrzymuje brzmienie: „
+
+- **b)**
+
+3. Koszty nabycia, zainstalowania i utrzymania wodomierza głównego ponosi przedsiębiorstwo wodociągowo-kanalizacyjne, a urządzenia pomiarowego – odbiorca usług. ” ;
+
+- **14)** w art. 16 ust. 3 otrzymuje brzmienie: „
+
+3. Nie mają obowiązku uzyskania zezwolenia gminne jednostki organizacyjne nieposiadające osobowości prawnej, prowadzące na obszarze własnej gminy działalność na zasadach określonych w ustawie. Gminne jednostki organizacyjne opracowują projekt regulaminu dostarczania wody i odprowadzania ścieków. ” ;
+
+- **15)** art. 19 otrzymuje brzmienie: „
+
+**Art. 19.**
+
+1. Rada gminy, po dokonaniu analizy projektów regulaminów dostarczania wody i odprowadzania ścieków opracowanych przez przedsiębiorstwa wodociągowo-kanalizacyjne, uchwala regulamin dostarczania wody i odprowadzania ścieków, zwany dalej „regulaminem”. Regulamin jest aktem prawa miejscowego.
+
+2. Regulamin powinien określać prawa i obowiązki przedsiębiorstwa wodociągowo-kanalizacyjnego oraz odbiorców usług, w tym:
+
+- **1)** minimalny poziom usług świadczonych przez przedsiębiorstwo wodociągowo-kanalizacyjne w zakresie dostarczania wody i odprowadzania ścieków,
+- **2)** szczegółowe warunki i tryb zawierania umów z odbiorcami usług,
+- **3)** sposób rozliczeń w oparciu o ceny i stawki opłat ustalone w taryfach,
+- **4)** warunki przyłączania do sieci,
+- **5)** techniczne warunki określające możliwości dostępu do usług wodociągowo-kanalizacyjnych,
+- **6)** sposób dokonywania odbioru przez przedsiębiorstwo wodociągowo-kanalizacyjne wykonanego przyłącza,
+- **7)** sposób postępowania w przypadku niedotrzymania ciągłości usług i odpowiednich parametrów dostarczanej wody i wprowadzanych do sieci kanalizacyjnej ścieków,
+- **8)** standardy obsługi odbiorców usług, a w szczególności sposoby załatwiania reklamacji oraz wymiany informacji dotyczących w szczególności zakłóceń w dostawie wody i odprowadzaniu ścieków,
+- **9)** warunki dostarczania wody na cele przeciwpożarowe. ” ;
+- **16)** art. 21 otrzymuje brzmienie: „
+
+**Art. 21.**
+
+1. Przedsiębiorstwo wodociągowo-kanalizacyjne opracowuje wieloletni plan rozwoju i modernizacji urządzeń wodociągowych i urządzeń kanalizacyjnych będących w jego posiadaniu, zwany dalej „planem”.
+
+2. Plan określa w szczególności:
+
+- **1)** planowany zakres usług wodociągowo-kanalizacyjnych,
+- **2)** przedsięwzięcia rozwojowo-modernizacyjne w poszczególnych latach,
+- **3)** przedsięwzięcia racjonalizujące zużycie wody oraz wprowadzanie ścieków,
+- **4)** nakłady inwestycyjne w poszczególnych latach,
+- **5)** sposoby finansowania planowanych inwestycji.
+
+3. Plan powinien być zgodny z kierunkami rozwoju gminy określonymi w studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy, z ustaleniami miejscowych planów zagospodarowania przestrzennego oraz ustaleniami zezwolenia wydanego temu przedsiębiorstwu na prowadzenie zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków.
+
+4. Przedsiębiorstwo wodociągowo-kanalizacyjne przedkłada plan wójtowi (burmistrzowi, prezydentowi miasta), który sprawdza, czy spełnia on warunki określone w ust. 3.
+
+5. Plan spełniający warunki określone w ust. 3 rada gminy uchwala w terminie 3 miesięcy od dnia przedłożenia planu wójtowi (burmistrzowi, prezydentowi miasta).
+
+6. W przypadku niepodjęcia uchwały w terminie, o którym mowa w ust. 5, plan stanowi podstawę do określenia i jednorazowego zatwierdzenia taryf.
+
+7. Obowiązek opracowania planu nie dotyczy przedsiębiorstw wodociągowo-kanalizacyjnych, które nie planują budowy urządzeń wodociągowych lub urządzeń kanalizacyjnych. ” ;
+
+- **17)** art. 23 otrzymuje brzmienie: „
+
+**Art. 23.**
+
+1. Minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej określi, w drodze rozporządzenia, szczegółowe sposoby określania taryf, w tym:
+
+- **1)** kryteria ustalania niezbędnych przychodów,
+- **2)** alokację kosztów na taryfowe grupy odbiorców usług,
+- **3)** kryteria różnicowania cen i stawek opłat.
+
+2. Minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej, wydając rozporządzenie, o którym mowa w ust. 1, bierze pod uwagę:
+
+- **1)** przy ustalaniu niezbędnych przychodów: koszty eksploatacji i utrzymania, w tym amortyzację lub wartość umorzenia, raty kapitałowe (ponad wartość amortyzacji), odsetki od zaciągniętych kredytów i pożyczek, rezerwy na należności nieregularne, marżę zysku przy zapewnieniu ochrony interesów odbiorców przed nieuzasadnionym wzrostem cen, koszty zakupu wody lub koszty wprowadzania ścieków do urządzeń kanalizacyjnych niebędących w posiadaniu przedsiębiorstwa wodociągowo-kanalizacyjnego, podatki i opłaty niezależne od przedsiębiorstwa wodociągowo-kanalizacyjnego,
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+
+- **2)** przy ustalaniu alokacji kosztów: podział kosztów planowanych w czasie obowiązywania taryf na poszczególne taryfowe grupy odbiorców, przypisanie kosztów budowy urządzeń wodociągowo-kanalizacyjnych do poszczególnych taryfowych grup odbiorców, możliwość wyodrębniania kosztów i ich właściwej alokacji,
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **3)** przy różnicowaniu cen i stawek opłat: średniodobową i maksymalną wielkość zużycia wody i ilość wprowadzanych ścieków, taryfowe grupy odbiorców, strukturę cen i stawek opłat. ” ;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **18)** w art. 24: ust. 2–5 otrzymują brzmienie: „
+    - **a)**
+
+2. Przedsiębiorstwo wodociągowo-kanalizacyjne, w terminie 70 dni przed planowanym dniem wejścia taryf w życie, przedstawia wójtowi (burmistrzowi, prezydentowi miasta) wniosek o ich zatwierdzenie.
+
+3. Do wniosku o zatwierdzenie taryf przedsiębiorstwo wodociągowo-kanalizacyjne dołącza szczegółową kalkulację cen i stawek opłat oraz aktualny plan.
+
+4. Wójt (burmistrz, prezydent miasta) sprawdza, czy taryfy i plan zostały opracowane zgodnie z przepisami ustawy, i weryfikuje koszty, o których mowa w art. 20 ust. 4 pkt 1, pod względem celowości ich ponoszenia.
+
+5. Rada gminy podejmuje uchwałę o zatwierdzeniu taryf, w terminie 45 dni od dnia złożenia wniosku, o którym mowa w ust. 2, albo o odmowie zatwierdzenia taryf, jeżeli zostały one sporządzone niezgodnie z przepisami. ” , po ust. 5 dodaje się ust. 5a i 5b w brzmieniu: „
+
+- **b)**
+
+5a. W razie stwierdzenia przez organ nadzoru nieważności uchwały o zatwierdzeniu taryf albo niestwierdzenia nieważności uchwały o odmowie zatwierdzenia taryf, czas obowiązywania dotychczasowych taryf przedłuża się o 90 dni od dnia doręczenia przedsiębiorstwu wodociągowo-kanalizacyjnemu rozstrzygnięcia nadzorczego. Przepis ust. 2 stosuje się odpowiednio.
+
+5b. W razie stwierdzenia przez organ nadzoru nieważności uchwały o odmowie zatwierdzenia taryf, taryfy zweryfikowane przez wójta (burmistrza, prezydenta miasta) wchodzą w życie po upływie 14 dni od dnia doręczenia przedsiębiorstwu wodociągowo-kanalizacyjnemu rozstrzygnięcia nadzorczego. ” , ust. 8 i 9 otrzymują brzmienie: „
+
+- **c)**
+
+8. Jeżeli rada gminy nie podejmie uchwały w terminie, o którym mowa w ust. 5, taryfy zweryfikowane przez wójta (burmistrza, prezydenta miasta) wchodzą w życie po upływie 70 dni od dnia złożenia wniosku o zatwierdzenie taryf.
+
+9. Przedsiębiorstwo wodociągowo-kanalizacyjne ogłasza w miejscowej prasie lub w sposób zwyczajowo przyjęty taryfy, o których mowa w ust. 5b lub 8, w terminie co najmniej 7 dni przed dniem wejścia ich w życie. ” , po ust. 9 dodaje się ust. 9a-9c w brzmieniu: „
+
+- **d)**
+
+9a. Na uzasadniony wniosek przedsiębiorstwa wodociągowo-kanalizacyjnego rada gminy, w drodze uchwały, przedłuża czas obowiązywania dotychczasowych taryf, lecz nie dłużej niż o 1 rok.
+
+9b. W uzasadnieniu wniosku, o którym mowa w ust. 9a, zamieszcza się w szczególności informacje dotyczące zakresu świadczonych usług oraz warunków ekonomicznych uzasadniających przedłużenie obowiązywania dotychczasowych taryf.
+
+9c. Do wniosku, o którym mowa w ust. 9a, nie dołącza się szczegółowej kalkulacji cen i stawek opłat oraz planu. ” , ust. 10 otrzymuje brzmienie: „
+
+- **e)**
+
+10. Taryfy obowiązują przez 1 rok, z zastrzeżeniem ust. 5a, 5b i 9a. ” ;
+
+- **19)** po art. 24 dodaje się art. 24a w brzmieniu: „
+
+**Art. 24a.**
+
+1. W okresie pierwszych 18 miesięcy od dnia podjęcia działalności przez powołane lub utworzone przedsiębiorstwo wodociągowo-kanalizacyjne lub podjęcia przez istniejące przedsiębiorstwo nowego rodzaju działalności gospodarczej w zakresie zbiorowego zaopatrzenia w wodę lub zbiorowego odprowadzania ścieków obowiązują ceny i stawki opłat uchwalone przez radę gminy, zapewniające pokrycie uzasadnionych kosztów zbiorowego zaopatrzenia w wodę lub zbiorowego odprowadzania ścieków.
+
+2. Uchwała, o której mowa w ust. 1, jest podejmowana na wniosek wójta (burmistrza, prezydenta miasta) w terminie co najmniej 14 dni przed powołaniem lub utworzeniem przedsiębiorstwa wodociągowo-kanalizacyjnego, lub podjęciem przez istniejące przedsiębiorstwo nowego rodzaju działalności gospodarczej w zakresie zbiorowego zaopatrzenia w wodę lub zbiorowego odprowadzania ścieków.
+
+3. We wniosku, o którym mowa w ust. 2, podstawę do określenia cen i stawek opłat stanowią planowane dla pierwszego roku działalności przedsiębiorstwa wodociągowo-kanalizacyjnego koszty zbiorowego zaopatrzenia w wodę lub zbiorowego odprowadzania ścieków.
+
+4. Wójt (burmistrz, prezydent miasta) ogłasza uchwalone ceny i stawki opłat w miejscowej prasie lub w sposób zwyczajowo przyjęty w terminie 7 dni od dnia podjęcia uchwały, o której mowa w ust. 1. ” ;
+
+- **20)** w art. 25 wyrazy „Minister właściwy do spraw gospodarki przestrzennej i mieszkaniowej” zastępuje się wyrazami „Minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej”;
+- **21)** w art. 26 dotychczasowe brzmienie oznacza się jako ust. 1 i dodaje się ust. 2 i 3 w brzmieniu: „
+
+2. Jeżeli odbiorcą usług jest wyłącznie właściciel lub zarządca budynku wielolokalowego lub budynków wielolokalowych, jest on obowiązany do rozliczenia kosztów tych usług. Suma obciążeń za wodę lub ścieki nie może być wyższa od ponoszonych przez właściciela lub zarządcę na rzecz przedsiębiorstwa wodociągowo-kanalizacyjnego.
+
+3. Właściciel lub zarządca budynku wielolokalowego lub budynków wielolokalowych dokonuje wyboru metody rozliczania kosztów różnicy wskazań, o której mowa w art. 6 ust. 6 pkt 3. Należnościami wynikającymi z przyjętej metody rozliczania obciąża osobę korzystającą z lokalu w tych budynkach. ” ;
+
+- **22)** w art. 27 w ust. 2 i 3 wyrazy „Minister właściwy do spraw gospodarki przestrzennej i mieszkaniowej” zastępuje się wyrazami „Minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej”;
+- **23)** w art. 28: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. Karze określonej w ust. 1 podlega także ten, kto:
+
+- **1)** uszkadza wodomierz główny, zrywa lub uszkadza plomby umieszczone na wodomierzach, urządzeniach pomiarowych lub zaworze odcinającym, a także wpływa na zmianę, zatrzymanie lub utratę właściwości lub funkcji metrologicznych wodomierza głównego lub urządzenia pomiarowego,
+- **2)** nie dopuszcza przedstawiciela przedsiębiorstwa wodociągowo-kanalizacyjnego do wykonania czynności określonych w art. 7. ” , uchyla się ust. 3, po ust. 4 dodaje się ust. 4a w brzmieniu: „
+    - **b)**
+    - **c)**
+
+4a. Karze określonej w ust. 4 podlega także ten, kto nie stosuje się do zakazów, o których mowa w art. 9 ust. 1 i 2. ” , ust. 5 i 6 otrzymują brzmienie: „
+
+- **d)**
+
+5. W razie skazania za wykroczenie lub przestępstwo, o których mowa w ust. 1 i 4, sąd może orzec nawiązkę na rzecz przedsiębiorstwa wodociągowo-kanalizacyjnego, w wysokości 1 000 zł za każdy miesiąc, w którym nastąpiło bezumowne pobieranie wody z urządzeń wodociągowych lub wprowadzanie ścieków do urządzeń kanalizacyjnych tego przedsiębiorstwa.
+
+6. Orzekanie w sprawach o czyny, o których mowa w ust. 1 i 2, następuje na podstawie przepisów Kodeksu postępowania w sprawach o wykroczenia. ” ;
+
+- **24)** w art. 29 w ust. 1 pkt 1 i 2 otrzymują brzmienie: „
+- **1)** nie przestrzegając obowiązku ich przedstawienia radzie gminy do zatwierdzenia, o którym mowa w art. 24 ust. 1, lub
+- **2)** zawyżając ceny lub stawki opłat zatwierdzone zgodnie z art. 24 ust. 5 lub zweryfikowane przez wójta (burmistrza, prezydenta miasta), o których mowa w art. 24 ust. 5b i 8. ” ;
+- **25)** w art. 31 dodaje się ust. 3 w brzmieniu: „
+
+3. Należność za przekazane urządzenia wodociągowe i urządzenia kanalizacyjne może być rozłożona na raty lub uwzględniona w rozliczeniach za zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków. ” .
+
+**Art. 2.** W ustawie z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. Nr 132, poz. 622, z późn. zm.) w art. 5 wprowadza się następujące zmiany:
+
+- **1)** w ust. 6 skreśla się drugie zdanie,
+- **2)** po ust. 6 dodaje się ust. 7 w brzmieniu: „
+
+7. W przypadku stwierdzenia niewykonania obowiązków, o których mowa w ust. 1–4, wójt (burmistrz, prezydent miasta) wydaje decyzję nakazującą wykonanie obowiązku. ” .
+
+**Art. 3.** W ustawie z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. Nr 115, poz. 1229, z późn. zm.) w art. 9 w ust. 1 pkt 24 otrzymuje brzmienie: „
+
+- **24)** wodzie przeznaczonej do spożycia przez ludzi – rozumie się przez to: wodę w stanie pierwotnym lub po uzdatnieniu, przeznaczoną do picia, przygotowania żywności lub innych celów domowych, niezależnie od jej pochodzenia i od tego, czy jest dostarczana z sieci dystrybucyjnej, cystern, w butelkach lub pojemnikach, wodę wykorzystywaną przez przedsiębiorstwo produkcji żywności do wytworzenia, przetworzenia, konserwowania lub wprowadzania do obrotu produktów albo substancji przeznaczonych do spożycia przez ludzi, ” .
+    - **a)**
+    - **b)**
 
 **Art. 4.**
 
 1. W terminie 3 miesięcy od dnia wejścia w życie ustawy przedsiębiorstwo wodociągowo-kanalizacyjne opracuje i przedłoży radzie gminy do zatwierdzenia projekt regulaminu, o którym mowa w art. 19 ust. 1 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-2. W terminie 6 miesięcy od dnia wejścia w życie ustawy, rada gminy uchwali regulamin, o którym mowa w art. 19 ust. 1 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+2. W terminie 6 miesięcy od dnia wejścia w życie ustawy rada gminy uchwali regulamin, o którym mowa w art. 19 ust. 1 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
 3. Jeżeli w terminie, o którym mowa w ust. 2, rada gminy nie uchwali regulaminu, jego projekt złożony przez przedsiębiorstwo wodociągowo-kanalizacyjne jest wiążący dla stron umowy, o której mowa w art. 6 ust. 1 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 

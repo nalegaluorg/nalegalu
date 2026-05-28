@@ -8,10 +8,10 @@ pos: 1530
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# 15 marca 2002 r. oustroju miasta stołecznego Warszawy (Dz. U. Nr 41, poz. 361 iNr 127, poz. 1087) Państwo- 2) Rady m.st. Warszawy, wa Komisja Wyborcza podaje publicznej wiadomości zbiorcze wyniki wyborów obszarze kraju, 3) 18 dzielnic m.st. Warszawy, przeprowadzonych wdniu 12 listopada 2006 r.
+# Obwieszczenie Państwowej Komisji Wyborczejz dnia 15 listopada 2006 r. o zbiorczych wynikach wyborów do rad na obszarze kraju, przeprowadzonych w dniu 12 listopada 2006 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,90 +25,232 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062071530) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1530/text.pdf) |
 
-4) 314 powiatów, I. Dane ogólne dotyczące wyborów 5) 16 sejmików województw.
-1. Wybory 2 826 rad, tym:
-2. Wybierano łącznie 46 790 radnych, tym:
-1) 2 477 gmin, z czego:
-1) 39 478 gmin, z czego:
-a) 2 151 gmin gminach liczących 20 tys. mieszkańców, a) 32 265 gminach 20 tys. mieszkańców,
-b) 5 566 gminach powyżej 20 tys.
-mieszkańców,
-c) 1 647 miastach prawach powiatu, ———————
-3. Wybrano łącznie 46 789 radnych, tym:
-1) 39 477 gmin, z czego:
-a) 32 264 gminach 20 tys. mieszkańców,
-b) 5 566 gminach powyżej 20 tys.
-mieszkańców,
-c) 1 647 miastach prawach powiatu,
-2) 60 Rady m.st. Warszawy,
-3) 407 dzielnic m.st. Warszawy,
-4) 6 284 powiatów,
-5) 561 sejmików województw.
-4. Wybory 23 285 wyborczych.
+Treść obwieszczenia
+Na podstawie art. 184 ust. 1 ustawy z dnia 16 lipca 1998 r. – Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. z 2003 r. Nr 159, poz. 1547, z późn. zm.) i art. 7 ust. 2 ustawy z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy (Dz. U. Nr 41, poz. 361 i Nr 127, poz. 1087) Państwowa Komisja Wyborcza podaje do publicznej wiadomości zbiorcze wyniki wyborów do rad na obszarze kraju, przeprowadzonych w dniu 12 listopada 2006 r.
+I.
+Dane ogólne dotyczące wyborów do rad
+1.
+Wybory przeprowadzono do 2 826 rad, w tym:
+1)
+do 2 477 rad gmin, z czego:
+a)
+do 2 151 rad gmin w gminach liczących do 20 tys. mieszkańców,
+b)
+do 262 rad gmin w gminach liczących powyżej 20 tys. mieszkańców,
+c)
+do 64 rad miejskich w miastach na prawach powiatu,
+2)
+do Rady m.st. Warszawy,
+3)
+do 18 rad dzielnic m.st. Warszawy,
+4)
+do 314 rad powiatów,
+5)
+do 16 sejmików województw.
+2.
+Wybierano łącznie 46 790 radnych, w tym:
+1)
+39 478 radnych do rad gmin, z czego:
+a)
+32 265 radnych w gminach do 20 tys. mieszkańców,
+b)
+5 566 radnych w gminach powyżej 20 tys. mieszkańców,
+c)
+1 647 radnych w miastach na prawach powiatu,
+2)
+60 radnych do Rady m.st. Warszawy,
+3)
+407 radnych do rad dzielnic m.st. Warszawy,
+4)
+6 284 radnych do rad powiatów,
+5)
+561 radnych do sejmików województw.
+3.
+Wybrano łącznie 46 789 radnych, w tym:
+1)
+39 477 radnych do rad gmin, z czego:
+a)
+32 264 radnych w gminach do 20 tys. mieszkańców,
+b)
+5 566 radnych w gminach powyżej 20 tys. mieszkańców,
+c)
+1 647 radnych w miastach na prawach powiatu,
+2)
+60 radnych Rady m.st. Warszawy,
+3)
+407 radnych rad dzielnic m.st. Warszawy,
+4)
+6 284 radnych rad powiatów,
+5)
+561 radnych sejmików województw.
+4.
+Wybory przeprowadzono w 23 285 okręgach wyborczych.
 5.
-6. Głosowanie 25 155 obwodach
-7. Głosowania nie w1 020 wyborczych, liczba zarejestrowanych była równa lub mniejsza od liczby wybieranych tych wyborczych. W związku z tym 1 199 uzyskało mandaty bez
-8. pozostał nieobsadzony 1 mandat.
-II. Wybory gmin gminach liczących 20 tys. mieszkańców
-1. Wybory 2151 gmin, utworzono 20 556 okręgów wyborczych.
-2. Wybierano 32 265 spośród 110 965 kandydatów zgłoszonych 75 726 listach kandydatów.
-3. Wybrano 32 264
-4. Uprawnionych głosowania było 12 734 923 osoby.
-ogólnej liczby oddanych.
-9. Głosowanie 12 996 obwodach
-10. Głosowania nie 1 019 okręgach wyborczych, liczba zarejestrowanych była równa lub mniejsza od liczby wybieranych tych wyborczych. W związku z tym 1 194 uzyskało mandaty bez
+We wszystkich okręgach wyborczych zarejestrowano listy kandydatów na radnych.
+6.
+Głosowanie przeprowadzono w 25 155 obwodach głosowania.
+7.
+Głosowania nie przeprowadzono w 1 020 okręgach wyborczych, w których liczba zarejestrowanych kandydatów była równa lub mniejsza od liczby radnych wybieranych w tych okręgach wyborczych. W związku z tym 1 199 radnych uzyskało mandaty bez głosowania.
+8.
+Ogółem pozostał nieobsadzony 1 mandat.
+II.
+Wybory do rad gmin w gminach liczących do 20 tys. mieszkańców
+1.
+Wybory przeprowadzono do 2 151 rad gmin, w których utworzono 20 556 okręgów wyborczych.
+2.
+Wybierano 32 265 radnych spośród 110 965 kandydatów zgłoszonych na 75 726 listach kandydatów.
+3.
+Wybrano 32 264 radnych.
+4.
+Uprawnionych do głosowania było 12 734 923 osoby.
+5.
+W wyborach wzięto udział (osoby, którym wydano karty do głosowania) 6 375 753 wyborców, to jest 50,07% uprawnionych do głosowania.
+6.
+Ogółem głosów oddano (liczba kart ważnych) 6 368 888.
+7.
+Głosów ważnych oddano 6 178 328, to jest 97,01% ogólnej liczby głosów oddanych.
+8.
+Głosów nieważnych oddano 190 560, to jest 2,99% ogólnej liczby głosów oddanych.
+9.
+Głosowanie przeprowadzono w 12 996 obwodach głosowania.
+10.
+Głosowania nie przeprowadzono w 1 019 okręgach wyborczych, w których liczba zarejestrowanych kandydatów była równa lub mniejsza od liczby radnych wybieranych w tych okręgach wyborczych. W związku z tym 1 194 radnych uzyskało mandaty bez głosowania.
 11.
-12. pozostał nieobsadzony 1 mandat.
-III. Wybory gmin gminach liczących powyżej 20 tys. mieszkańców
-1. Wybory 262 gmin, których utworzono 927 okręgów wyborczych.
-2. Wybierano 5 566 spośród 58 440 kandydatów zgłoszonych 6 325 listach kandydatów.
-3. Wybrano 5 566
-4. Uprawnionych głosowania było 6997988 osób.
-5. Wwyborach wzięło udział (osoby, którym wydano karty głosowania) 3 139 127 wyborców, 44,86 % uprawnionych
-6. (liczba kart ważnych) 3 134 973.
-7. Głosów ważnych 2 959 292, 94,40 % ogólnej liczby oddanych.
-8. Głosów nieważnych 175 681, 5,60 % ogólnej liczby oddanych.
-9. Głosowanie 5 266 obwodach
-10. Głosowania nie 1 okręgu wyborczym, którym liczba zarejestrowanych kandydatów była równa liczbie wybieranych wtym okręgu wyborczym. Wzwiązku ztym 5 rad2. Wybierano 1 647 spośród 23 939 kandydatów zgłoszonych 2 582 listach kandydatów.
-3. Wybrano 1 647
-4. Uprawnionych głosowania było 8807158 osób.
-5. Wwyborach wzięło udział (osoby, którym wydano karty głosowania) 3 518 280 wyborców, 39,95 % uprawnionych
-6. (liczba kart ważnych) 3 512 938.
-7. Głosów ważnych 3 396 211, 96,68 % ogólnej liczby oddanych.
-8. Głosów nieważnych 116 727, 3,32 % ogólnej liczby oddanych.
-9. Głosowanie 5 802 obwodach
+We wszystkich okręgach wyborczych zarejestrowano listy kandydatów na radnych.
+12.
+Ogółem pozostał nieobsadzony 1 mandat.
+III.
+Wybory do rad gmin w gminach liczących powyżej 20 tys. mieszkańców
+1.
+Wybory przeprowadzono do 262 rad gmin, w których utworzono 927 okręgów wyborczych.
+2.
+Wybierano 5 566 radnych spośród 58 440 kandydatów zgłoszonych na 6 325 listach kandydatów.
+3.
+Wybrano 5 566 radnych.
+4.
+Uprawnionych do głosowania było 6 997 988 osób.
+5.
+W wyborach wzięło udział (osoby, którym wydano karty do głosowania) 3 139 127 wyborców, to jest 44,86% uprawnionych do głosowania.
+6.
+Ogółem głosów oddano (liczba kart ważnych) 3 134 973.
+7.
+Głosów ważnych oddano 2 959 292, to jest 94,40% ogólnej liczby głosów oddanych.
+8.
+Głosów nieważnych oddano 175 681, to jest 5,60% ogólnej liczby głosów oddanych.
+9.
+Głosowanie przeprowadzono w 5 266 obwodach głosowania.
 10.
-V. Wybory Rady m.st. Warszawy
-1. Wybory 10 wyborczych.
-2. Wybierano 60 spośród 978 zgłoszonych 119 listach kandydatów.
-3. Wybrano 60
-4. Uprawnionych głosowania było 1 339 734 osoby.
-5. Wwyborach wzięło udział (osoby, którym wydano karty głosowania) 710 511 wyborców, 53,03 % uprawnionych
-6. (liczba kart ważnych) 707 442.
-7. Głosów ważnych 669 082, 94,58 % ogólnej liczby oddanych.
-8. Głosów nieważnych 38 360, 5,42 % ogólnej liczby oddanych.
-9. Głosowanie 826 obwodach tów zgłoszonych 447 listach kandydatów.
-3. Wybrano 407
-4. Uprawnionych głosowania było 1338389 osób.
-5. Wwyborach wzięło udział (osoby, którym wydano karty głosowania) 708 872 wyborców, 52,96 % uprawnionych
-6. (liczba kart ważnych) 705 667.
-7. Głosów ważnych 676 283, 95,84 % ogólnej liczby oddanych.
-8. Głosów nieważnych 29 384, 4,16 % ogólnej liczby oddanych.
-9. Głosowanie 826 obwodach
+Głosowania nie przeprowadzono w 1 okręgu wyborczym, w którym liczba zarejestrowanych kandydatów była równa liczbie radnych wybieranych w tym okręgu wyborczym. W związku z tym 5 radnych uzyskało mandaty bez głosowania.
+11.
+We wszystkich okręgach wyborczych zarejestrowano listy kandydatów na radnych.
+IV.
+Wybory do rad miejskich w miastach na prawach powiatu
+1.
+Wybory przeprowadzono do 64 rad miejskich w miastach na prawach powiatu, w których utworzono 289 okręgów wyborczych.
+2.
+Wybierano 1 647 radnych spośród 23 939 kandydatów zgłoszonych na 2 582 listach kandydatów.
+3.
+Wybrano 1 647 radnych.
+4.
+Uprawnionych do głosowania było 8 807 158 osób.
+5.
+W wyborach wzięło udział (osoby, którym wydano karty do głosowania) 3 518 280 wyborców, to jest 39,95% uprawnionych do głosowania.
+6.
+Ogółem głosów oddano (liczba kart ważnych) 3 512 938.
+7.
+Głosów ważnych oddano 3 396 211, to jest 96,68% ogólnej liczby głosów oddanych.
+8.
+Głosów nieważnych oddano 116 727, to jest 3,32% ogólnej liczby głosów oddanych.
+9.
+Głosowanie przeprowadzono w 5 802 obwodach głosowania.
 10.
-VII. Wybory powiatów
-1. Wybory 314 powiatów, utworzono 1 346 okręgów wyborczych.
-2. Wybierano 6 284 spośród 68 087 kandydatów zgłoszonych 9 189 listach kandydatów.
-3. Wybrano 6 284
-4. Uprawnionych głosowania było 20095699 osób.
-5. Wwyborach wzięło udział (osoby, którym wydano karty głosowania) 9 651 927 wyborców, 48,03 % uprawnionych
-6. (liczba kart ważnych) 9 636 010.
-7. Głosów ważnych 8 836 603, 91,70 % ogólnej liczby oddanych.
-8. Głosów nieważnych 799 407, 8,30 % ogólnej liczby oddanych.
-9. Głosowanie 18 527 obwodach tów zgłoszonych 954 listach kandydatów.
-12,70 % ogólnej liczby oddanych.
-3. Wybrano 561
-4. Uprawnionych głosowania było 30241185 osób. 9. Głosowanie 26178 obwodach
-5. Wwyborach wzięło udział (osoby, którym wydano karty głosowania) 13 884 295 wyborców, 10.
-45,91 % uprawnionych Przewodniczący Państwowej Komisji Wyborczej: F. Rymarz Zastępcy Przewodniczącego Państwowej Komisji Wyborczej: J. Kacprzak, S. Kosmal Członkowie Państwowej Komisji Wyborczej: A. Mączyński, S. Jaworski, A. Kisielewicz, A. W. Ryms, S. Zabłocki, T. ˚yznowski
+We wszystkich okręgach wyborczych zarejestrowano listy kandydatów na radnych.
+V.
+Wybory do Rady m.st. Warszawy
+1.
+Wybory przeprowadzono w 10 okręgach wyborczych.
+2.
+Wybierano 60 radnych spośród 978 kandydatów zgłoszonych na 119 listach kandydatów.
+3.
+Wybrano 60 radnych.
+4.
+Uprawnionych do głosowania było 1 339 734 osoby.
+5.
+W wyborach wzięło udział (osoby, którym wydano karty do głosowania) 710 511 wyborców, to jest 53,03% uprawnionych do głosowania.
+6.
+Ogółem głosów oddano (liczba kart ważnych) 707 442.
+7.
+Głosów ważnych oddano 669 082, to jest 94,58% ogólnej liczby głosów oddanych.
+8.
+Głosów nieważnych oddano 38 360, to jest 5,42% ogólnej liczby głosów oddanych.
+9.
+Głosowanie przeprowadzono w 826 obwodach głosowania.
+10.
+We wszystkich okręgach wyborczych zarejestrowano listy kandydatów na radnych.
+VI.
+Wybory do rad dzielnic m.st. Warszawy
+1.
+Wybory przeprowadzono do 18 rad dzielnic miasta stołecznego Warszawy, w których utworzono 69 okręgów wyborczych.
+2.
+Wybierano 407 radnych spośród 3 825 kandydatów zgłoszonych na 447 listach kandydatów.
+3.
+Wybrano 407 radnych.
+4.
+Uprawnionych do głosowania było 1 338 389 osób.
+5.
+W wyborach wzięło udział (osoby, którym wydano karty do głosowania) 708 872 wyborców, to jest 52,96% uprawnionych do głosowania.
+6.
+Ogółem głosów oddano (liczba kart ważnych) 705 667.
+7.
+Głosów ważnych oddano 676 283, to jest 95,84% ogólnej liczby głosów oddanych.
+8.
+Głosów nieważnych oddano 29 384, to jest 4,16% ogólnej liczby głosów oddanych.
+9.
+Głosowanie przeprowadzono w 826 obwodach głosowania.
+10.
+We wszystkich okręgach wyborczych zarejestrowano listy kandydatów na radnych.
+VII.
+Wybory do rad powiatów
+1.
+Wybory przeprowadzono do 314 rad powiatów, w których utworzono 1 346 okręgów wyborczych.
+2.
+Wybierano 6 284 radnych spośród 68 087 kandydatów zgłoszonych na 9 189 listach kandydatów.
+3.
+Wybrano 6 284 radnych.
+4.
+Uprawnionych do głosowania było 20 095 699 osób.
+5.
+W wyborach wzięło udział (osoby, którym wydano karty do głosowania) 9 651 927 wyborców, to jest 48,03% uprawnionych do głosowania.
+6.
+Ogółem głosów oddano (liczba kart ważnych) 9 636 010.
+7.
+Głosów ważnych oddano 8 836 603, to jest 91,70% ogólnej liczby głosów oddanych.
+8.
+Głosów nieważnych oddano 799 407, to jest 8,30% ogólnej liczby głosów oddanych.
+9.
+Głosowanie przeprowadzono w 18 527 obwodach głosowania.
+10.
+We wszystkich okręgach wyborczych zarejestrowano listy kandydatów na radnych.
+VIII.
+Wybory do sejmików województw
+1.
+Wybory przeprowadzono do 16 sejmików województw, w których utworzono 88 okręgów wyborczych.
+2.
+Wybierano 561 radnych spośród 9 338 kandydatów zgłoszonych na 954 listach kandydatów.
+3.
+Wybrano 561 radnych.
+4.
+Uprawnionych do głosowania było 30 241 185 osób.
+5.
+W wyborach wzięto udział (osoby, którym wydano karty do głosowania) 13 884 295 wyborców, to jest 45,91% uprawnionych do głosowania.
+6.
+Ogółem głosów oddano (liczba kart ważnych) 13 851 401.
+7.
+Głosów ważnych oddano 12 091 871, to jest 87,30% ogólnej liczby głosów oddanych.
+8.
+Głosów nieważnych oddano 1 759 530, to jest 12,70% ogólnej liczby głosów oddanych.
+9.
+Głosowanie przeprowadzono w 26 178 obwodach głosowania.
+10.
+We wszystkich okręgach wyborczych zarejestrowano listy kandydatów na radnych.
 

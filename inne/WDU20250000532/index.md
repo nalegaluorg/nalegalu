@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie osób i mienia
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 24 marca 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 kwietnia 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-04-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000532) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/532/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 24 marca 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie osób i mienia
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2021 r. poz. 1995), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907),
 2) ustawą z dnia 24 stycznia 2025 r. o zmianie ustawy Prawo lotnicze oraz niektórych innych ustaw (Dz. U. poz. 179) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 marca 2025 r.
@@ -49,9 +49,35 @@ Art. 51–53. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** obszary, obiekty i urządzenia podlegające obowiązkowej ochronie;
+- **2)** zasady tworzenia i funkcjonowania wewnętrznych służb ochrony;
+- **3)** zasady prowadzenia działalności gospodarczej w zakresie usług ochrony osób i mienia;
+- **4)** wymagane kwalifikacje i uprawnienia pracowników ochrony;
+- **5)** nadzór nad funkcjonowaniem ochrony osób i mienia;
+- **6)** zasady ochrony transportowanej broni, amunicji, materiałów wybuchowych, uzbrojenia, urządzeń i sprzętu wojskowego.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
+- **1)** kierownik jednostki osobę lub organ przedsiębiorcy lub innej jednostki organizacyjnej, uprawnionych, zgodnie z przepisami prawa, statutem, umową, do zarządzania nią; za kierownika jednostki uważa się również likwidatora lub syndyka;
+- **2)** (uchylony)
+- **3)** obszar podlegający obowiązkowej ochronie obszar określony przez ministrów, kierowników urzędów centralnych i wojewodów, wydzielony i odpowiednio oznakowany;
+- **3a)** transport podlegający obowiązkowej ochronie transport broni, amunicji, materiałów wybuchowych, uzbrojenia, urządzeń i sprzętu wojskowego, wysyłany z obszarów i obiektów podlegających obowiązkowej ochronie;
+- **4)** ochrona osób działania mające na celu zapewnienie bezpieczeństwa życia, zdrowia i nietykalności osobistej;
+- **5)** ochrona mienia działania zapobiegające przestępstwom i wykroczeniom przeciwko mieniu, a także przeciwdziałające powstawaniu szkody wynikającej z tych zdarzeń oraz niedopuszczające do wstępu osób nieuprawnionych na teren chroniony;
+- **6)** pracownik ochrony osobę wpisaną na listę kwalifikowanych pracowników ochrony fizycznej lub kwalifikowanych pracowników zabezpieczenia technicznego, i wykonującą zadania ochrony w ramach wewnętrznej służby ochrony albo na rzecz przedsiębiorcy, który uzyskał koncesję na prowadzenie działalności gospodarczej w zakresie usług ochrony osób i mienia, lub osobę wykonującą zadania ochrony, w zakresie niewymagającym wpisu na te listy, na rzecz przedsiębiorcy, który uzyskał koncesję na prowadzenie działalności gospodarczej w zakresie usług ochrony osób i mienia;
+- **7)** specjalistyczne uzbrojone formacje ochronne wewnętrzne służby ochrony oraz przedsiębiorców, którzy uzyskali koncesje na prowadzenie działalności gospodarczej w zakresie usług ochrony osób i mienia, posiadających broń na podstawie świadectwa broni, o którym mowa w art. 29 ust. 1 pkt 1 i 2 ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2024 r. poz. 485), zwanej dalej „ustawą o broni i amunicji”;
+- **8)** wewnętrzne służby ochrony uzbrojone i umundurowane zespoły pracowników przedsiębiorców lub jednostek organizacyjnych, powołane do ich ochrony.
+
 **Art. 3.** Ochrona osób i mienia realizowana jest w formie:
+
+- **1)** bezpośredniej ochrony fizycznej:
+    - **a)** stałej lub doraźnej,
+    - **b)** polegającej na stałym dozorze sygnałów przesyłanych, gromadzonych i przetwarzanych w elektronicznych urządzeniach i systemach alarmowych,
+    - **c)** polegającej na konwojowaniu wartości pieniężnych oraz innych przedmiotów wartościowych lub niebezpiecznych;
+
+- **2)** zabezpieczenia technicznego, polegającego na:
+    - **a)** montażu elektronicznych urządzeń i systemów alarmowych, sygnalizujących zagrożenie chronionych osób i mienia, oraz eksploatacji, konserwacji i naprawach w miejscach ich zainstalowania,
+    - **b)** montażu urządzeń i środków mechanicznego zabezpieczenia oraz ich eksploatacji, konserwacji, naprawach i awaryjnym otwieraniu w miejscach zainstalowania.
 
 **Art. 4.**
 
@@ -206,7 +232,18 @@ Art. 51–53. (pominięte)
 
 **Art. 13.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, dla wewnętrznych służb ochrony:
 
+- **1)** szczegółowe zasady oraz tryb ich tworzenia;
+- **2)** strukturę organizacyjną, zakres działania i sposób prowadzenia dokumentacji ochronnej;
+- **3)** uzbrojenie i wyposażenie;
+- **4)** umundurowanie i odznaki służbowe oraz sposób tworzenia dla nich nazw.
+
 **Art. 14.** Minister Obrony Narodowej określi, w drodze rozporządzenia, dla wewnętrznych służb ochrony działających na terenach podległych, podporządkowanych lub nadzorowanych jednostek organizacyjnych:
+
+- **1)** warunki i tryb ich tworzenia;
+- **2)** strukturę organizacyjną i zakres działania;
+- **3)** uzbrojenie i wyposażenie;
+- **4)** warunki zatrudnienia pracowników;
+- **5)** umundurowanie i odznaki służbowe.
 
 #### Rozdział 4 Zasady prowadzenia działalności gospodarczej w zakresie usług ochrony osób i mienia oraz kontrola tej działalności
 
@@ -266,6 +303,12 @@ Art. 51–53. (pominięte)
 8. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór wniosku składanego do organu koncesyjnego przez przedsiębiorcę ubiegającego się o udzielenie lub zmianę koncesji na wykonywanie działalności gospodarczej w zakresie usług ochrony osób i mienia z uwzględnieniem danych zawartych w ust. 3 oraz informacji o dokumentach wymaganych przy złożeniu wniosku o udzielenie koncesji, mając na względzie ułatwienie przedsiębiorcom czynności związanych ze złożeniem wniosku oraz zapewnienie sprawności postępowania.
 
 **Art. 17a.** Organ koncesyjny może odmówić udzielenia koncesji lub ograniczyć jej zakres w stosunku do wniosku o udzielenie koncesji albo odmówić zmiany koncesji:
+
+- **1)** gdy przedsiębiorca nie spełnia określonych w ustawie warunków wykonywania działalności objętej koncesją;
+- **2)** ze względu na zagrożenie obronności i bezpieczeństwa państwa oraz bezpieczeństwa lub dóbr osobistych obywateli;
+- **3)** przedsiębiorcy, któremu w ciągu ostatnich trzech lat cofnięto koncesję na działalność określoną ustawą z przyczyn wymienionych w art. 22 ust. 1 pkt 1, ust. 2 i 3, lub przedsiębiorcę reprezentuje osoba, która była osobą uprawnioną do reprezentowania innego przedsiębiorcy lub była jej pełnomocnikiem ustanowionym do kierowania działalnością określoną w koncesji, a jej działalność spowodowała wydanie decyzji cofającej koncesję temu przedsiębiorcy;
+- **4)** przedsiębiorcy, którego w ciągu ostatnich trzech lat wykreślono z rejestru działalności regulowanej z powodu złożenia oświadczenia niezgodnego ze stanem faktycznym;
+- **5)** gdy w stosunku do przedsiębiorcy otwarto likwidację albo ogłoszono upadłość.
 
 **Art. 17b.**
 
@@ -631,6 +674,10 @@ Art. 51–53. (pominięte)
 
 **Art. 32.** Badania lekarskie i psychologiczne osób wpisanych na listę kwalifikowanych pracowników ochrony fizycznej przeprowadza się co 3 lata lub w okresach krótszych niż 3 lata:
 
+- **1)** jeżeli w orzeczeniu lekarskim lub psychologicznym wskazano krótszy termin następnego badania niż 3 lata;
+- **2)** po okresie niezdolności do pracy spowodowanej chorobą trwającą dłużej niż 6 miesięcy;
+- **3)** na wniosek pracodawcy lub właściwego komendanta wojewódzkiego Policji w razie uzasadnionego podejrzenia utraty zdolności fizycznej lub psychicznej do wykonywania zadań.
+
 **Art. 33.**
 
 1. Badania lekarskie i psychologiczne osoby ubiegającej się o wpis na listę kwalifikowanych pracowników ochrony fizycznej lub posiadającej taki wpis przeprowadza się na wniosek tej osoby, z zastrzeżeniem przypadków, o których mowa w art. 32 pkt 3 i art. 33a ust. 3.
@@ -893,6 +940,11 @@ Art. 51–53. (pominięte)
 
 **Art. 43d.** Specjalistyczne uzbrojone formacje ochronne realizują zadania z zakresu ochrony obszarów, obiektów i urządzeń, o których mowa w art. 4 ust. 1 pkt 1, w szczególności przez:
 
+- **1)** konwojowanie mienia jednostki wojskowej;
+- **2)** przekazywanie Policji, Żandarmerii Wojskowej lub wojskowym organom porządkowym osób ujętych podczas wykonywania tych zadań;
+- **3)** współpracę z Żandarmerią Wojskową, wojskowymi organami porządkowymi i Policją;
+- **4)** współpracę z wewnętrzną służbą ochrony oraz wojskową ochroną przeciwpożarową, jeżeli zostały powołane na obszarach lub w obiektach, o których mowa w art. 4 ust. 1 pkt 1.
+
 **Art. 44.** (uchylony)
 
 **Art. 44a.**
@@ -962,6 +1014,9 @@ Art. 51–53. (pominięte)
 **Art. 56.** Wnioski o wydanie zgody na powołanie albo rozwiązanie Straży Przemysłowych (Portowych, Bankowych) oraz Straży Pocztowych lub o wydanie koncesji na świadczenie usług ochrony osób i mienia, złożone, lecz nierozpatrzone do dnia wejścia w życie ustawy, podlegają rozpatrzeniu w trybie i na zasadach określonych w niniejszej ustawie.
 
 **Art. 57.** Tracą moc:
+
+- **1)** dekret z dnia 17 października 1946 r. o Straży Pocztowej (Dz. U. poz. 323);
+- **2)** ustawa z dnia 31 stycznia 1961 r. o Straży Przemysłowej (Dz. U. poz. 42 oraz z 1989 r. poz. 192).
 
 **Art. 58.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia .
 

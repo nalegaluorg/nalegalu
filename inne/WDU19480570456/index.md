@@ -22,6 +22,7 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1948-11-18 |
 | Data wydania | 1948-12-11 |
+| Wejście w życie | 1948-12-11 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19480570456) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1948/456/text.pdf) |
 
@@ -36,6 +37,13 @@ source: "eli-html"
 4. Lasy i grunty leśne, znajdujące się w granicach administracyjnych miast, mogą być przejęte na własność Państwa, jeżeli nie są niezbędne dla zaspokojenia potrzeb, wymienionych w ust. 3, i stanowią przedmiot trwałej uprawy leśnej.
 
 **Art. 2.** Wraz z lasami i gruntami, wymienionymi w art. 1, przechodzą bądź podlegają przejęciu na własność Państwa, jeżeli stanowią własność tego samego związku samorządu terytorialnego:
+
+śródleśne łąki i inne grunty, których obszar nie przekracza 50 ha, grunty deputatowe administracji i straży leśnej, wszelkie, służące do prowadzenia gospodarstwa leśnego, ruchomości i nieruchomości wraz z ich częściami składowymi i przynależnościami, choćby znajdowały się na terenie, nie objętym przepisami art. 1, wszelkie zapasy materiałowe (remanenty) w lasach i zakładach z wyjątkiem jedynie przerobionych już materiałów drzewnych, znajdujących się w zakładach przemysłu drzewnego.
+
+- **a)**
+- **b)**
+- **c)**
+- **d)**
 
 **Art. 3.** O przejęciu lasów i innych gruntów, wymienionych w art. 1 ust. 2 i 4, orzeka Minister Leśnictwa w porozumieniu z Ministrem Administracji Publicznej albo Ministrem Ziem Odzyskanych i Ministrem Odbudowy – za zgodą Rady Państwa.
 

@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 19 grudnia 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 grudnia 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-01-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001900) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1900/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 19 grudnia 2025 r.
+sprawie ogłoszenia jednolitego tekstu ustawy finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 lipca 2022 r. finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom (Dz. U. z 2024 r. poz. 984), z uwzględnieniem zmian wprowadzonych ustawą z dnia 6 grudnia 2024 r. zmianie ustawy rachunkowości, ustawy biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw (Dz. U. poz. 1863) oraz zmian wynikających z przepisów ogłoszonych przed dniem 11 grudnia 2025 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 35 ustawy z dnia 6 grudnia 2024 r. zmianie ustawy rachunkowości, ustawy biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw (Dz. U. poz. 1863), który stanowi: „Art. 35. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 1) art. 12, który wchodzi życie z dniem 1 stycznia 2025 r.;
@@ -42,7 +42,28 @@ Art. 43–72. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** szczególne wymogi prowadzenia działalności zakresie świadczenia usług finansowania społecznościowego dla przedsięwzięć gospodarczych;
+- **2)** organizację i tryb wykonywania nadzoru nad dostawcami usług finansowania społecznościowego dla przedsięwzięć gospodarczych.
+
 **Art. 2.** Ilekroć ustawie jest mowa o:
+
+- **1)** arkuszu kluczowych informacji inwestycyjnych rozumie się przez to arkusz kluczowych informacji inwestycyjnych, którym mowa art. 23 rozporządzenia 2020/1503;
+- **2)** arkuszu kluczowych informacji inwestycyjnych na poziomie platformy rozumie się przez to arkusz kluczowych informacji inwestycyjnych na poziomie platformy, którym mowa art. 24 rozporządzenia 2020/1503;
+- **3)** dostawcy usług finansowania społecznościowego rozumie się przez to dostawcę usług finansowania społecznościowego, którym mowa art. 2 ust. 1 lit. e rozporządzenia 2020/1503;
+- **4)** indywidualnym zarządzaniu portfelem pożyczek rozumie się przez to indywidualne zarządzanie portfelem pożyczek, którym mowa art. 2 ust. 1 lit. c rozporządzenia 2020/1503;
+- **5)** innym państwie członkowskim rozumie się przez to państwo, które jest członkiem Unii Europejskiej lub stroną umowy Europejskim Obszarze Gospodarczym, niebędące Rzecząpospolitą Polską;
+- **6)** inwestorze rozumie się przez to inwestora, którym mowa art. 2 ust. 1 lit. i rozporządzenia 2020/1503;
+- **8)** Komisji rozumie się przez to Komisję Nadzoru Finansowego;
+- **9)** jednostce dominującej rozumie się przez to jednostkę dominującą, której mowa art. 3 ust. 1 pkt 37 ustawy z dnia 29 września 1994 r. rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. );
+- **10)** jednostce zależnej rozumie się przez to jednostkę zależną, której mowa art. 3 ust. 1 pkt 39 ustawy z dnia 29 września 1994 r. rachunkowości;
+- **11)** pożyczce rozumie się przez to pożyczkę, której mowa art. 2 ust. 1 lit. b rozporządzenia 2020/1503;
+- **12)** przedsiębiorcy rozumie się przez to przedsiębiorcę, którym mowa art. 4 ust. 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480);
+- **13)** przedsiębiorcy zagranicznym rozumie się przez to przedsiębiorcę zagranicznego, którym mowa art. 3 pkt 7 ustawy z dnia 6 marca 2018 r. zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 89, 619 i 621);
+- **14)** rozporządzeniu 2020/1503 rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 z dnia 7 października 2020 r. sprawie europejskich dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych oraz zmieniające rozporządzenie (UE) 2017/1129 i dyrektywę (UE) 2019/1937 (Dz. Urz. UE L 347 z 20.10.2020, str. 1);
+- **15)** trwałym nośniku rozumie się przez to trwały nośnik, którym mowa art. 2 ust. 1 lit. p rozporządzenia 2020/1503;
+- **16)** usłudze finansowania społecznościowego rozumie się przez to usługę finansowania społecznościowego, której mowa art. 2 ust. 1 lit. a rozporządzenia 2020/1503;
+- **17)** ustawie nadzorze nad rynkiem kapitałowym rozumie się przez to ustawę z dnia 29 lipca 2005 r. nadzorze nad rynkiem kapitałowym (Dz. U. z 2024 r. poz. 1161 i 1222 oraz z 2025 r. poz. 146 i 1069);
+- **18)** właścicielu projektu rozumie się przez to właściciela projektu, którym mowa art. 2 ust. 1 lit. h rozporządzenia 2020/1503.
 
 **Art. 3.**
 
@@ -57,6 +78,10 @@ Art. 43–72. (pominięte)
 #### Rozdział 2 Tajemnica zawodowa
 
 **Art. 4.** Tajemnica zawodowa obejmuje informacje dotyczące chronionych prawem interesów podmiotów, na rzecz których są świadczone usługi finansowania społecznościowego, uzyskane przez osoby, których mowa art. 6, związku z czynnościami służbowymi podejmowanymi przez nie ramach stosunku pracy, zlecenia lub innego stosunku prawnego podobnym charakterze, a także informacje uzyskane związku z innymi czynnościami podejmowanymi ramach działalności prowadzonej na podstawie przepisów ustawy lub rozporządzenia 2020/1503, objętej nadzorem Komisji lub właściwego organu nadzoru innym państwie członkowskim, jak również informacje dotyczące czynności podejmowanych ramach wykonywania tego nadzoru, szczególności:
+
+- **1)** dane identyfikujące stronę umowy lub innej czynności prawnej;
+- **2)** treść umowy lub przedmiot innej czynności prawnej;
+- **4)** treść pełnomocnictwa udzielonego przez inwestora dostawcy usług finansowania społecznościowego związku ze świadczeniem na jego rzecz przez tego dostawcę usługi indywidualnego zarządzania portfelem pożyczek.
 
 **Art. 5.**
 
@@ -87,6 +112,28 @@ Art. 43–72. (pominięte)
 2. Obowiązek zachowania tajemnicy zawodowej istnieje również po zakończeniu pełnienia funkcji lub ustaniu stosunków prawnych, których mowa ust. 1.
 
 **Art. 7.** Informacje stanowiące tajemnicę zawodową są ujawniane wyłącznie na żądanie:
+
+- **1)** sądu lub prokuratora związku z toczącym się postępowaniem karnym lub postępowaniem sprawie przestępstwo skarbowe;
+- **2)** sądu lub prokuratora związku z wykonaniem wniosku udzielenie pomocy prawnej, pochodzącego od państwa obcego, które na mocy ratyfikowanej umowy międzynarodowej wiążącej Rzeczpospolitą Polską ma prawo występować udzielenie informacji objętych tajemnicą zawodową;
+- **3)** sądu związku z toczącym się postępowaniem cywilnym sprawie, której stroną jest podmiot będący stroną umowy lub innej czynności objętej tą tajemnicą zakresie informacji dotyczących tego podmiotu;
+- **4)** organu Krajowej Administracji Skarbowej: jednostki kontrolowanej, niezbędnych do ustalenia stanu faktycznego prowadzonym postępowaniu kontrolnym dotyczącym tej jednostki, określonym ustawie z dnia 23 grudnia 1994 r. Najwyższej Izbie Kontroli (Dz. U. z 2022 r. poz. 623);
+    - **a)** związku z toczącym się postępowaniem sprawie o: przestępstwo skarbowe lub wykroczenie skarbowe przeciwko osobie fizycznej będącej stroną umowy lub innej czynności prawnej objętej tajemnicą zawodową zakresie informacji dotyczących tej osoby, przestępstwo skarbowe popełnione przy wykonywaniu czynności związanych z działalnością osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, będącej stroną umowy lub innej czynności prawnej objętej tajemnicą zawodową zakresie informacji dotyczących tej osoby prawnej lub jednostki organizacyjnej,
+    - **b)** jeżeli jest to konieczne do skutecznego zapobieżenia przestępstwom lub przestępstwom skarbowym, ich wykrycia albo ustalenia ich sprawców i uzyskania dowodów ich popełnienia, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa lub przestępstwa skarbowego albo ich równowartości zakresie, którym mowa art. 127a ustawy z dnia 16 listopada 2016 r. Krajowej Administracji Skarbowej (Dz. U. z 2025 r. poz. 1131 i 1423);
+
+- **6)** firmy audytorskiej badającej sprawozdania finansowe lub przeprowadzającej atestację sprawozdawczości zrównoważonego rozwoju dostawcy usług finansowania społecznościowego na podstawie zawartej z nim umowy;
+- **7)** Agencji Bezpieczeństwa Wewnętrznego, Służby Kontrwywiadu Wojskowego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Żandarmerii Wojskowej, Straży Granicznej, Służby Więziennej, Służby Ochrony Państwa i ich upoważnionych pisemnie funkcjonariuszy lub żołnierzy zakresie niezbędnym do przeprowadzenia postępowania sprawdzającego lub kontrolnego postępowania sprawdzającego na podstawie przepisów ochronie informacji niejawnych;
+- **8)** Agencji Bezpieczeństwa Wewnętrznego, Służby Kontrwywiadu Wojskowego i ich upoważnionych pisemnie funkcjonariuszy lub żołnierzy zakresie niezbędnym do przeprowadzenia postępowania bezpieczeństwa przemysłowego na podstawie przepisów ochronie informacji niejawnych;
+- **9)** Policji, na zasadach i trybie określonych art. 20 ustawy z dnia 6 kwietnia 1990 r. Policji (Dz. U. z 2025 r. poz. 636, 718 i 1366);
+- **9a)** Straży Granicznej, na zasadach i trybie określonych art. 10c ustawy z dnia 12 października 1990 r. Straży Granicznej (Dz. U. z 2025 r. poz. 914 i 1366);
+- **10)** Centralnego Biura Antykorupcyjnego, na zasadach i trybie określonych art. 23 ustawy z dnia 9 czerwca 2006 r. Centralnym Biurze Antykorupcyjnym (Dz. U. z 2025 r. poz. 712 i 718);
+- **11)** Szefa Agencji Bezpieczeństwa Wewnętrznego, na zasadach i trybie określonych art. 34a ustawy z dnia 24 maja 2002 r. Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2025 r. poz. 902 i 1366);
+- **12)** Żandarmerii Wojskowej, na zasadach i trybie określonych art. 40b ustawy z dnia 24 sierpnia 2001 r. Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2025 r. poz. 12 i 179);
+- **13)** komornika sądowego związku z toczącym się postępowaniem zabezpieczającym lub egzekucyjnym sprawie roszczeń wobec podmiotu będącego stroną umowy lub innej czynności prawnej objętej tajemnicą zawodową albo wykonywaniem postanowienia zabezpieczeniu spadku lub ze sporządzaniem spisu inwentarza dotyczących spadku po takim podmiocie zakresie informacji dotyczących tego podmiotu;
+- **14)** Prezesa Urzędu Ochrony Konkurencji i Konsumentów zakresie niezbędnym do realizacji przez niego ustawowych zadań;
+- **15)** administracyjnego organu egzekucyjnego oraz centralnego biura łącznikowego, którym mowa art. 9 ustawy z dnia 11 października 2013 r. wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. z 2023 r. poz. 2009), zakresie wykonywania ich ustawowych zadań;
+- **16)** Rzecznika Finansowego zakresie niezbędnym do realizacji przez niego ustawowych zadań;
+- **17)** Inspektora Nadzoru Wewnętrznego, na zasadach i trybie określonych art. 11p ustawy z dnia 21 czerwca 1996 r. szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. z 2025 r. poz. 529);
+- **18)** Prezesa Urzędu Ochrony Danych Osobowych zakresie niezbędnym do realizacji przez niego ustawowych zadań.
 
 **Art. 8.**
 
@@ -206,6 +253,16 @@ Art. 43–72. (pominięte)
 
 **Art. 20.** Na żądanie Komisji:
 
+- **1)** osoby upoważnione do reprezentowania:
+    - **a)** dostawcy usług finansowania społecznościowego,
+    - **b)** jednostki dominującej wobec dostawcy usług finansowania społecznościowego,
+    - **c)** jednostki zależnej wobec dostawcy usług finansowania społecznościowego,
+    - **a)** dostawcy usług finansowania społecznościowego,
+    - **b)** jednostki dominującej wobec dostawcy usług finansowania społecznościowego,
+    - **c)** jednostki zależnej wobec dostawcy usług finansowania społecznościowego,
+
+- **3)** osoby pozostające z dostawcą usług finansowania społecznościowego stosunku pracy, zlecenia lub innym stosunku prawnym podobnym charakterze niezwłocznie sporządzają i przekazują na trwałym nośniku, na koszt dostawcy usług finansowania społecznościowego, kopie dokumentacji związanej z działalnością zakresie usług finansowania społecznościowego oraz udzielają pisemnych lub ustnych wyjaśnień zakresie nadzoru sprawowanego przez Komisję.
+
 **Art. 21.**
 
 1. Komisja może zlecić firmie audytorskiej kontrolę sprawozdań finansowych, sprawozdawczości zrównoważonego rozwoju albo innych informacji finansowych, których obowiązek sporządzenia przez dostawcę usług finansowania społecznościowego wynika z ustawy z dnia 29 września 1994 r. rachunkowości, lub kontrolę prawidłowości prowadzenia ksiąg rachunkowych, przypadku powzięcia wątpliwości co do ich prawidłowości, rzetelności lub jasności. W przypadku gdy kontrola wykaże istotne nieprawidłowości, dostawca usług finansowania społecznościowego zwraca Komisji koszty jej przeprowadzenia.
@@ -232,7 +289,7 @@ Art. 43–72. (pominięte)
 2. W przypadku konieczności zabezpieczenia interesu publicznego Komisja może, drodze decyzji, określić:
 
 - **1)** czynności, jakie dostawca usług finansowania społecznościowego może podejmować do czasu wygaśnięcia zezwolenia;
-- **2)** termin zakończenia prowadzenia działalności jako dostawca usług finansowania społecznościowego. zezwolenie, wykonuje wyłącznie czynności zmierzające do zakończenia działalności, tym wynikające z postanowień umów zawartych z klientami, bez możliwości zawierania nowych umów. Komisja może decyzji sprawie cofnięcia zezwolenia wydanej na podstawie art. 17 ust. 1 rozporządzenia 2020/1503 albo decyzji, której mowa ust. 2, określić inne czynności, jakie dostawca usług finansowania społecznościowego może podejmować tym okresie.
+- **2)** termin zakończenia prowadzenia działalności jako dostawca usług finansowania społecznościowego. czasu zaprzestania prowadzenia działalności dostawca usług finansowania społecznościowego albo podmiot, któremu cofnięto zezwolenie, wykonuje wyłącznie czynności zmierzające do zakończenia działalności, tym wynikające z postanowień umów zawartych z klientami, bez możliwości zawierania nowych umów. Komisja może decyzji sprawie cofnięcia zezwolenia wydanej na podstawie art. 17 ust. 1 rozporządzenia 2020/1503 albo decyzji, której mowa ust. 2, określić inne czynności, jakie dostawca usług finansowania społecznościowego może podejmować tym okresie.
 
 4. W przypadku wygaśnięcia albo cofnięcia zezwolenia Komisja może, drodze decyzji, nakazać dostawcy usług finansowania społecznościowego albo podmiotowi, któremu cofnięto zezwolenie, przeniesienie na innego dostawcę usług finansowania społecznościowego praw i obowiązków wynikających z umów zawartych z właścicielami projektów oraz z inwestorami. Decyzja jest wydawana po uzyskaniu zgody przejmującego dostawcy usług finansowania społecznościowego oraz klientów dotychczasowego dostawcy.
 
@@ -242,7 +299,13 @@ Art. 43–72. (pominięte)
 
 **Art. 23.** W przypadku naruszenia lub uzasadnionego podejrzenia naruszenia przepisów art. 16 ust. 1 lub 2 lub art. 18 ust. 1 lub przepisów art. 23 ust. 2–4, 8 lub 11–13 lub art. 24 ust. 1–3, 6 lub 7 rozporządzenia 2020/1503 lub przepisów aktów delegowanych wydanych na podstawie art. 23 ust. 16 tego rozporządzenia Komisja może, drodze decyzji:
 
+- **1)** nakazać dostawcy usług finansowania społecznościowego wstrzymanie rozpoczęcia oferty finansowania społecznościowego albo przerwanie jej przebiegu na okres nie dłuższy niż 10 kolejnych dni roboczych;
+- **2)** zakazać dostawcy usług finansowania społecznościowego rozpoczęcia oferty finansowania społecznościowego.
+
 **Art. 24.** W przypadku naruszenia lub uzasadnionego podejrzenia naruszenia przepisów art. 27 ust. 1–3 rozporządzenia 2020/1503 Komisja może, drodze decyzji:
+
+- **1)** nakazać dostawcy usług finansowania społecznościowego lub podmiotowi trzeciemu, któremu dostawca usług finansowania społecznościowego zlecił wykonywanie czynności związanych z usługą finansowania społecznościowego na zasadach określonych art. 9 rozporządzenia 2020/1503, wstrzymanie rozpoczęcia przekazywania komunikatów marketingowych albo przerwanie ich przekazywania na okres nie dłuższy niż 10 kolejnych dni roboczych;
+- **2)** zakazać dostawcy usług finansowania społecznościowego lub podmiotowi trzeciemu, którym mowa pkt 1, przekazywania komunikatów marketingowych.
 
 **Art. 25.**
 
@@ -256,7 +319,7 @@ Art. 43–72. (pominięte)
 
 2. Decyzje, których mowa art. 23–25, są natychmiast wykonalne. Uzasadnienie doręcza się terminie 14 dni od dnia doręczenia decyzji.
 
-3. Termin na złożenie wniosku ponowne rozpatrzenie sprawy biegnie od dnia doręczenia uzasadnienia decyzji, którym mowa ust. 2.
+3. Termin na złożenie wniosku ponowne rozpatrzenie sprawy biegnie od dnia doręczenia uzasadnienia decyzji, którym mowa ust. 2. mowa art. 23–25, komunikat jego wszczęciu zamieszcza się na stronie internetowej Komisji.
 
 5. Niezwłocznie po wydaniu decyzji zastosowaniu środków, których mowa art. 23–25, komunikat ich zastosowaniu zamieszcza się na stronie internetowej Komisji.
 
@@ -296,7 +359,7 @@ Art. 43–72. (pominięte)
 
 1. W przypadku gdy dostawca usług finansowania społecznościowego:
 
-- **1)** nie wykonuje obowiązków, których mowa art. 14 ust. 1, 2 i 3a, art. 15, art. 16 ust. 1 lub 2, art. 18 ust. 1 lub art. 22 ust. 3 lub 6, albo wykonuje je nienależycie,
+- **1)** nie wykonuje obowiązków, których mowa art. 14 ust. 1, 2 i 3a, art. 15, art. 16 ust. 1 lub 2, art. 18 ust. 1 lub art. 22 ust. 3 lub 6, albo wykonuje je nienależycie, albo narusza zakazy, których mowa art. 23 pkt 2, art. 24 pkt 2 lub art. 25 ust. 2,
 - **3)** nie wykonuje obowiązków, których mowa art. 3–5, art. 6 ust. 1–6, art. 7 ust. 1–4, art. 8 ust. 1–6, art. 9 ust. 1 lub 2, art. 10, art. 11, art. 15 ust. 3, art. 16 ust. 1, art. 18 ust. 1 lub 4, art. 19 ust. 1–6, art. 20 ust. 1 lub 2, art. 21 ust. 1–7, art. 22, art. 23 ust. 3 i 4, 8 lub 11–13, art. 24 ust. 2, 3, 6 lub 7, art. 25, art. 26 lub art. 27 ust. 1–3 rozporządzenia 2020/1503 Komisja może, drodze decyzji, nakazać dostawcy usług finansowania społecznościowego zaprzestanie działań skutkujących powstaniem naruszeń i niepodejmowanie tych działań przyszłości albo nałożyć na tego dostawcę karę pieniężną do wysokości nieprzekraczającej kwoty 2 250 000 zł albo kwoty stanowiącej równowartość nie więcej niż 5 % całkowitych rocznych przychodów dostawcy usług finansowania społecznościowego wykazanych ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, a przypadku braku takiego sprawozdania wysokości nie większej niż 5 % prognozowanych całkowitych rocznych przychodów tego dostawcy pierwszym roku działalności, jeżeli przekracza ona 2 250 000 zł, albo zastosować obie sankcje łącznie.
 
 2. W przypadku gdy dostawca usług finansowania społecznościowego jest jednostką dominującą, która sporządza skonsolidowane sprawozdanie finansowe, albo jednostką zależną od jednostki dominującej, która sporządza skonsolidowane sprawozdanie finansowe, całkowite roczne przychody, których mowa ust. 1, stanowi kwota całkowitych skonsolidowanych rocznych przychodów jednostki dominującej wykazana ostatnim zbadanym skonsolidowanym sprawozdaniu finansowym za rok obrotowy.
@@ -508,7 +571,7 @@ Art. 43–72. (pominięte)
     - **a)** przez każdorazowe dołączenie tej informacji do faktury lub innego dokumentu, z którego wynika zapłata należności za te towary, albo
     - **b)** oddzielnie, przypadku gdy faktura lub inny dokument, z którego wynika zapłata należności za te towary, zostaną wysłane po dniu 30 września 2022 r.
 
-2. Minister właściwy do spraw finansów publicznych udostępnia Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu wzory informacji, których mowa ust. 1. paliw, czytelną informację, że od dnia 20 grudnia 2021 r. do dnia 31 października 2022 r. obowiązuje obniżony podatek akcyzowy na paliwa silnikowe oraz od dnia 1 stycznia 2022 r. do dnia 31 października 2022 r. sprzedaż detaliczna paliw silnikowych nie podlega opodatkowaniu podatkiem od sprzedaży detalicznej.
+2. Minister właściwy do spraw finansów publicznych udostępnia Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu wzory informacji, których mowa ust. 1. paliw silnikowych zamieszcza przy kasie rejestrującej lokalu przedsiębiorstwa, którym dokonywana jest sprzedaż tych paliw, czytelną informację, że od dnia 20 grudnia 2021 r. do dnia 31 października 2022 r. obowiązuje obniżony podatek akcyzowy na paliwa silnikowe oraz od dnia 1 stycznia 2022 r. do dnia 31 października 2022 r. sprzedaż detaliczna paliw silnikowych nie podlega opodatkowaniu podatkiem od sprzedaży detalicznej.
 
 2. Rada Ministrów udostępnia Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego ją urzędu wzór informacji, której mowa ust. 1.
 
@@ -537,7 +600,7 @@ Art. 43–72. (pominięte)
 - **1)** zamiennik albo zamienniki kluczowego wskaźnika referencyjnego,
 - **2)** korektę spreadu, której mowa art. 23b ust. 9 lit. b rozporządzenia 2016/1011, oraz metodę jej ustalania,
 - **3)** odpowiednie istotne zmiany dostosowawcze, których mowa art. 23b ust. 9 lit. c rozporządzenia 2016/1011,
-- **4)** datę albo daty rozpoczęcia stosowania danego zamiennika albo zamienników kluczowego wskaźnika referencyjnego biorąc pod uwagę wzrost ryzyka systemowego systemie finansowym, spowodowanego zaprzestaniem opracowywania kluczowego wskaźnika referencyjnego WIBOR lub jego likwidacją. nikiem albo zamiennikami kluczowego wskaźnika referencyjnego wyznaczonymi sposób określony art. 61c ustawy zmienianej art. 64 albo art. 85 ust. 2, nie wymaga uzyskania zezwolenia, którym mowa odpowiednio art. 24 ust. 1 albo 2 ustawy zmienianej art. 54 .
+- **4)** datę albo daty rozpoczęcia stosowania danego zamiennika albo zamienników kluczowego wskaźnika referencyjnego biorąc pod uwagę wzrost ryzyka systemowego systemie finansowym, spowodowanego zaprzestaniem opracowywania kluczowego wskaźnika referencyjnego WIBOR lub jego likwidacją. oraz publicznego funduszu inwestycyjnego zamkniętego, zakresie zastąpienia wskaźnika referencyjnego WIBOR zamiennikiem albo zamiennikami kluczowego wskaźnika referencyjnego wyznaczonymi sposób określony art. 61c ustawy zmienianej art. 64 albo art. 85 ust. 2, nie wymaga uzyskania zezwolenia, którym mowa odpowiednio art. 24 ust. 1 albo 2 ustawy zmienianej art. 54 .
 
 **Art. 87.** Do wniosków, których mowa art. 6 ustawy zmienianej art. 66 , brzmieniu dotychczasowym, złożonych przed dniem wejścia życie ustawy, stosuje się przepisy dotychczasowe.
 
@@ -553,7 +616,20 @@ Art. 43–72. (pominięte)
 
 **Art. 90.** W okresie od dnia wejścia życie ustawy do dnia 31 grudnia 2022 r. z obowiązku wpłaty, której mowa art. 16a ust. 1 ustawy zmienianej art. 66 , są zwolnieni kredytodawcy będący bankami, którzy nie spełniają:
 
+- **1)** wymogów zakresie funduszy własnych na poziomie określonym art. 92 ust. 1 lit. a–c rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 575/2013”, z uwzględnieniem dodatkowego wymogu zakresie funduszy własnych ponad wartość wynikającą z wymogów obliczonych zgodnie ze szczegółowymi zasadami określonymi przepisach rozporządzenia nr 575/2013, którym mowa art. 138 ust. 2 pkt 2 ustawy zmienianej art. 47 , uwzględniającego inne rodzaje ryzyka niż ryzyko nadmiernej dźwigni, którym mowa art. 92 ust. 1 lit. d rozporządzenia nr 575/2013, powiększonego 1,5 punktu procentowego zgodnie z art. 142 ust. 4 ustawy zmienianej art. 47 , na zasadzie indywidualnej, której mowa art. 6–10 rozporządzenia nr 575/2013, zasadzie subskonsolidowanej, której mowa art. 4 ust. 1 pkt 49 rozporządzenia nr 575/2013, lub zasadzie skonsolidowanej, której mowa art. 4 ust. 1 pkt 48 rozporządzenia nr 575/2013, lub
+- **2)** wymogów zakresie funduszy własnych na poziomie określonym art. 92 ust. 1 lit. d rozporządzenia nr 575/2013 z uwzględnieniem dodatkowego wymogu zakresie funduszy własnych, którym mowa art. 138 ust. 2 pkt 2 ustawy zmienianej art. 47 , uwzględniającego ryzyko nadmiernej dźwigni niewystarczającym stopniu pokryte wymogiem określonym art. 92 ust. 1 lit. d rozporządzenia nr 575/2013, ponad wartość wynikającą z wymogów obliczonych zgodnie z art. 92 ust. 1 lit. d rozporządzenia nr 575/2013, na zasadzie indywidualnej, której mowa art. 6–10 rozporządzenia nr 575/2013, zasadzie subskonsolidowanej, której mowa art. 4 ust. 1 pkt 49 rozporządzenia nr 575/2013, lub zasadzie skonsolidowanej, której mowa art. 4 ust. 1 pkt 48 rozporządzenia nr 575/2013, lub
+- **3)** wymogów dotyczących płynności określonych art. 412 i art. 413 rozporządzenia nr 575/2013 z uwzględnieniem dodatkowego wymogu zakresie płynności ponad wartość wynikającą z wymogów obliczonych zgodnie ze szczegółowymi zasadami określonymi przepisach rozporządzenia nr 575/2013, którym mowa art. 138 ust. 2 pkt 1 ustawy zmienianej art. 47 , na zasadzie indywidualnej, której mowa art. 6–10 rozporządzenia nr 575/2013, lub zasadzie skonsolidowanej, której mowa art. 4 ust. 1 pkt 48 rozporządzenia nr 575/2013, a przypadku stosowania odstępstwa od stosowania wymogów dotyczących płynności na zasadzie indywidualnej zgodnie z art. 8 rozporządzenia nr 575/2013 na poziomie podgrupy płynnościowej rozumieniu rozporządzenia nr 575/2013, lub
+- **4)** wymogu zakresie minimalnego poziomu funduszy własnych i zobowiązań kwalifikowalnych, którym mowa art. 97 ust. 1 ustawy z dnia 10 czerwca 2016 r. Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2022 r. poz. 2253). zmienianej art. 71 z dniem wejścia życie ustawy kończy się okres tego zawieszenia.
+
 **Art. 92.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
+- **1)** art. 17 ust. 14 ustawy zmienianej art. 55 zachowują moc do dnia wejścia życie nowych przepisów wykonawczych wydanych na podstawie art. 17 ust. 14 ustawy zmienianej art. 55 , jednak nie dłużej niż przez 6 miesięcy od dnia wejścia życie ustawy;
+- **2)** art. 55 ust. 1 ustawy zmienianej art. 55 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 55 ust. 1 ustawy zmienianej art. 55 , brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia życie ustawy;
+- **3)** art. 20 ust. 5 ustawy zmienianej art. 63 zachowują moc do dnia wejścia życie nowych przepisów wykonawczych wydanych na podstawie art. 20 ust. 5 ustawy zmienianej art. 63 , jednak nie dłużej niż przez 6 miesięcy od dnia wejścia życie ustawy.
+
 **Art. 93.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 53, art. 60, art. 67, art. 72 i art. 77–79, które wchodzą życie z dniem 31 lipca 2022 r.;
+- **2)** art. 48 i art. 57 pkt 4 lit. a, które wchodzą życie z dniem 10 listopada 2023 r.
+
 

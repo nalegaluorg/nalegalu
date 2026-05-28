@@ -8,12 +8,10 @@ pos: 1490
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy o przeciwdziałaniu narkomanii oraz ustawy o Państwowej Inspekcji Sanitarnej
-
-*USTAWA z dnia 20 lipca 2018 r.*
+# Ustawa z dnia 20 lipca 2018 r. o zmianie ustawy o przeciwdziałaniu narkomanii oraz ustawy o Państwowej Inspekcji Sanitarnej
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,148 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-20 |
 | Data wydania | 2018-08-06 |
+| Wejście w życie | 2018-08-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001490) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1490/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2018 r. poz. 1030) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 w pkt 3: wprowadzenie do wyliczenia otrzymuje brzmienie: „ organy lub podmioty właściwe do wykonania: ” , w lit. b na końcu średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ rozporządzenia (WE) Parlamentu Europejskiego i Rady nr 1920/2006 z dnia 12 grudnia 2006 r. w sprawie Europejskiego Centrum Monitorowania Narkotyków i Narkomanii (Dz. Urz. UE L 376 z 27.12.2006, str. 1, z późn. zm.); ” ;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** w art. 3 w pkt 2 po wyrazach „które są prekursorami” dodaje się wyrazy „albo nowymi substancjami psychoaktywnymi”;
+- **3)** w art. 4: uchyla się pkt 1, pkt 6 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **6)** leczenie – leczenie zaburzeń psychicznych i zaburzeń zachowania spowodowanych używaniem środków odurzających, substancji psychotropowych, środków zastępczych lub nowych substancji psychoaktywnych; ” , pkt 11a otrzymuje brzmienie: „
+    - **c)**
+
+- **11a)** nowa substancja psychoaktywna – każdą substancję lub grupy substancji pochodzenia naturalnego lub syntetycznego w formie czystej lub w formie preparatu działającą na ośrodkowy układ nerwowy, inną niż substancja psychotropowa i środek odurzający, stwarzającą zgodnie z rekomendacją Zespołu do spraw oceny ryzyka zagrożeń dla zdrowia lub życia ludzi związanych z używaniem nowych substancji psychoaktywnych, o której mowa w art. 18b ust. 1 pkt 3, zagrożenia dla zdrowia lub zagrożenia społeczne porównywalne do zagrożeń stwarzanych przez substancję psychotropową lub środek odurzający, lub które naśladują działanie tych substancji, określoną w przepisach wydanych na podstawie art. 44f pkt 3; ” , pkt 17–20a otrzymują brzmienie: „
+    - **d)**
+
+- **17)** preparat – produkt zawierający co najmniej jeden środek odurzający lub substancję psychotropową, ich prekursory albo nowe substancje psychoaktywne;
+- **18)** producent – przedsiębiorcę wytwarzającego, przetwarzającego lub przerabiającego środki odurzające, substancje psychotropowe, ich prekursory lub nowe substancje psychoaktywne;
+- **19)** przetwarzanie – czynności prowadzące do przemiany środków odurzających, substancji psychotropowych, prekursorów lub nowych substancji psychoaktywnych na inne środki odurzające, substancje psychotropowe, prekursory lub nowe substancje psychoaktywne albo na substancje niebędące środkami odurzającymi, substancjami psychotropowymi, prekursorami lub nowymi substancjami psychoaktywnymi;
+- **20)** przerób – otrzymywanie mieszanin środków odurzających, substancji psychotropowych, prekursorów lub nowych substancji psychoaktywnych oraz nadawanie tym środkom lub substancjom nowej postaci;
+- **20a)** przewóz – przemieszczenie środków odurzających, substancji psychotropowych, nowych substancji psychoaktywnych lub słomy makowej między dwoma państwami przez terytorium Rzeczypospolitej Polskiej, które zaczyna się i kończy poza tym terytorium; ” , pkt 22 otrzymuje brzmienie: „
+    - **e)**
+
+- **22)** rehabilitacja – proces dążący do zapewnienia osobie z zaburzeniami psychicznymi spowodowanymi przez przyjmowanie środków odurzających, substancji psychotropowych, środków zastępczych lub nowych substancji psychoaktywnych osiągnięcia optymalnego stanu zdrowia oraz funkcjonowania psychicznego i społecznego; ” , pkt 25–27 otrzymują brzmienie: „
+    - **f)**
+
+- **25)** substancja psychotropowa – substancje: objęte zakresem stosowania Konwencji Narodów Zjednoczonych o substancjach psychotropowych z 1971 r. (Dz. U. z 1976 r. poz. 180), wymienione w załączniku do decyzji ramowej Rady 2004/757/WSiSW z dnia 25 października 2004 r. ustanawiającej minimalne przepisy określające znamiona przestępstw i kar w dziedzinie nielegalnego handlu narkotykami (Dz. Urz. UE L 335 z 11.11.2004, str. 8, z późn. zm.), poddane środkom kontroli i sankcjom karnym takim samym jak substancje, o których mowa w lit. a, pochodzenia naturalnego lub syntetycznego, w formie czystej lub w formie preparatu, działające na ośrodkowy układ nerwowy, inne niż określone w lit. a i b, ale o podobnej do nich budowie chemicznej lub działaniu, stwarzające zgodnie z rekomendacją Zespołu do spraw oceny ryzyka zagrożeń dla zdrowia lub życia ludzi związanych z używaniem nowych substancji psychoaktywnych, o której mowa w art. 18b ust. 1 pkt 3, takie same zagrożenia dla zdrowia publicznego lub zagrożenia społeczne, jak zagrożenia stwarzane przez te substancje, inne niż wymienione w lit. a-c, które na podstawie przepisów ustawy obowiązujących przed dniem wejścia w życie ustawy z dnia 20 lipca 2018 r. o zmianie ustawy o przeciwdziałaniu narkomanii oraz ustawy o Państwowej Inspekcji Sanitarnej (Dz. U. poz. 1490), były objęte wykazem substancji psychotropowych określone w przepisach wydanych na podstawie art. 44f pkt 1;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **26)** środek odurzający – substancje: objęte zakresem stosowania Jednolitej Konwencji Narodów Zjednoczonych o środkach odurzających z 1961 r. (Dz. U. z 1966 r. poz. 277) zmienionej protokołem z 1972 r. (Dz. U. z 1996 r. poz. 149), wymienione w załączniku do decyzji ramowej Rady 2004/757/WSiSW z dnia 25 października 2004 r. ustanawiającej minimalne przepisy określające znamiona przestępstw i kar w dziedzinie nielegalnego handlu narkotykami, poddane środkom kontroli i sankcjom karnym takim samym jak substancje, o których mowa w lit. a, pochodzenia naturalnego lub syntetycznego, w formie czystej lub w formie preparatu, działające na ośrodkowy układ nerwowy, inne niż określone w lit. a i b, ale o podobnej do nich budowie chemicznej lub działaniu, stwarzające zgodnie z rekomendacją Zespołu do spraw oceny ryzyka zagrożeń dla zdrowia lub życia ludzi związanych z używaniem nowych substancji psychoaktywnych, o której mowa w art. 18b ust. 1 pkt 3, takie same zagrożenia dla zdrowia publicznego lub zagrożenia społeczne, jak zagrożenia stwarzane przez te substancje, inne niż wymienione w lit. a-c, które na podstawie przepisów ustawy obowiązujących przed dniem wejścia w życie ustawy z dnia 20 lipca 2018 r. o zmianie ustawy o przeciwdziałaniu narkomanii oraz ustawy o Państwowej Inspekcji Sanitarnej były objęte wykazem środków odurzających określone w przepisach wydanych na podstawie art. 44f pkt 2;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **27)** środek zastępczy – produkt zawierający substancję o działaniu na ośrodkowy układ nerwowy, który może być użyty w takich samych celach jak środek odurzający, substancja psychotropowa lub nowa substancja psychoaktywna, których wytwarzanie i wprowadzanie do obrotu nie jest regulowane na podstawie przepisów odrębnych; do środków zastępczych nie stosuje się przepisów o ogólnym bezpieczeństwie produktów; ” , pkt 29 otrzymuje brzmienie: „
+    - **g)**
+
+- **29)** uzależnienie od środków odurzających, substancji psychotropowych, środków zastępczych lub nowych substancji psychoaktywnych – zespół zjawisk psychicznych lub somatycznych wynikających z działania środków odurzających, substancji psychotropowych, środków zastępczych lub nowych substancji psychoaktywnych na organizm ludzki, charakteryzujący się zmianą zachowania lub innymi reakcjami psychofizycznymi i koniecznością używania stale lub okresowo tych środków lub substancji w celu doznania ich wpływu na psychikę lub dla uniknięcia następstw wywołanych ich brakiem; ” , pkt 32 i 33 otrzymują brzmienie: „
+    - **h)**
+
+- **32)** wewnątrzwspólnotowa dostawa – przemieszczenie środków odurzających, substancji psychotropowych lub nowych substancji psychoaktywnych z terytorium Rzeczypospolitej Polskiej na terytorium państwa członkowskiego Unii Europejskiej;
+- **33)** wewnątrzwspólnotowe nabycie – przemieszczenie środków odurzających, substancji psychotropowych lub nowych substancji psychoaktywnych z terytorium państwa członkowskiego Unii Europejskiej na terytorium Rzeczypospolitej Polskiej; ” , pkt 36 otrzymuje brzmienie: „
+    - **i)**
+
+- **36)** wywóz – każde wyprowadzenie poza obszar celny Unii Europejskiej środków odurzających, substancji psychotropowych lub nowych substancji psychoaktywnych; ” ;
+- **4)** w art. 10 po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „
+
+2a. W Gminnym Programie uwzględnia się działalność wychowawczą, edukacyjną, informacyjną i profilaktyczną prowadzoną w szkołach i placówkach systemu oświaty zgodnie z przepisami wydanymi na podstawie art. 22 ust. 3, a także diagnozę w zakresie występujących w szkołach i placówkach systemu oświaty czynników ryzyka i czynników chroniących przeprowadzaną zgodnie z przepisami wydanymi na podstawie art. 22 ust. 3.
+
+2b. W ramach Gminnego Programu w szkołach i placówkach systemu oświaty są realizowane w szczególności działania o potwierdzonej skuteczności lub oparte na naukowych podstawach prowadzone w zakresie działalności, o której mowa w ust. 2a. ” ;
+
+- **5)** w art. 18b: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) ocena w świetle współczesnej wiedzy naukowej skutków oddziaływania na ośrodkowy układ nerwowy powodujących zagrożenie zdrowia lub życia ludzi, lub szkody społeczne, wynikających z używania substancji psychotropowych, o których mowa w art. 4 pkt 25 lit. d, oraz środków odurzających, o których mowa w art. 4 pkt 26 lit. d; ” , – pkt 3 otrzymuje brzmienie: „ 3) rekomendowanie ministrowi właściwemu do spraw zdrowia, uwzględniając oceny, o których mowa w pkt 1 i 2, zmian w przepisach wydanych na podstawie art. 44f. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+1a. Rekomendacja w zakresie, o którym mowa w ust. 1 pkt 2, zawiera:
+
+- **1)** w przypadku substancji psychotropowej i środka odurzającego, opracowany przez Zespół raport z analizy ryzyka zagrożeń dla zdrowia lub życia ludzi związanych z używaniem danej substancji, obejmujący: faktyczny i względny potencjał używania substancji, psychiczny lub fizjologiczny potencjał uzależniający, ryzyko lub potencjalne ryzyko zdrowotne (toksyczność ostra, długotrwałe używanie, zdrowie publiczne), rozpowszechnianie używania substancji, dostępność substancji, charakter chemiczny substancji, ryzyko społeczne związane z zażywaniem substancji, inne informacje lub dane, uzasadniające rekomendację, jeżeli dotyczy;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+
+- **2)** w przypadku nowej substancji psychoaktywnej, opracowaną przez Zespół kartę oceny danej substancji, obejmującą: status prawny dotyczący kontrolowania substancji na poziomie krajowym i międzynarodowym, wzór strukturalny, nazwę systematyczną w nomenklaturze chemicznej (IUPAC), synonimy, wzór sumaryczny, masę molową i numer CAS (Chemical Abstracts Service), danej substancji, charakterystykę substancji, mechanizm oddziaływania, aktywność farmakologiczną, dostępność substancji w Rzeczypospolitej Polskiej, informację o identyfikacji substancji oraz potwierdzone przypadki zatruć i zgonów na terenie Rzeczypospolitej Polskiej i w innych krajach, jeżeli takie są dostępne, wykorzystanie substancji w przemyśle, inne informacje lub dane, uzasadniające rekomendację, jeżeli dotyczy. ” ;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+
+- **6)** w art. 19 w ust. 2 w pkt 1 wyrazy „programów wychowawczych” zastępuje się wyrazami „programów wychowawczo-profilaktycznych”;
+- **7)** w art. 20: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Zabrania się reklamy i promocji substancji psychotropowych, środków odurzających, środków zastępczych lub nowych substancji psychoaktywnych. ” , ust. 3 otrzymuje brzmienie: „
+
+- **b)**
+
+3. Zabrania się reklamy i promocji środków spożywczych lub innych produktów przez sugerowanie, że:
+
+- **1)** posiadają one działanie takie jak substancje psychotropowe, środki odurzające, środki zastępcze lub nowe substancje psychoaktywne;
+- **2)** ich użycie, nawet niezgodne z przeznaczeniem, może powodować skutki takie jak skutki działania substancji psychotropowych, środków odurzających, środków zastępczych lub nowych substancji psychoaktywnych. ” ;
+- **8)** w art. 23 ust. 2 i 3 otrzymują brzmienie: „
+
+2. Jednostki naukowe realizujące zadania w zakresie prowadzenia badań naukowych nad problematyką narkomanii, jeżeli jest to niezbędne dla prowadzenia takich badań, mogą posiadać, przechowywać oraz nabywać środki odurzające, substancje psychotropowe lub ich preparaty, oraz prekursory kategorii 1, po uzyskaniu odpowiednio zezwolenia, o którym mowa w art. 35 ust. 1 pkt 2 i 3 i ust. 2.
+
+3. Jednostki naukowe, o których mowa w ust. 2, mogą posiadać, przechowywać oraz nabywać środki zastępcze lub nowe substancje psychoaktywne po dokonaniu zgłoszenia, o którym mowa w art. 241 ust. 1 pkt 2. ” ;
+
+- **9)** w art. 24 ust. 4 otrzymuje brzmienie: „
+
+4. Podmioty, o których mowa w ust. 2, oraz jednostki naukowe posiadają, przechowują oraz nabywają środki, substancje i preparaty, o których mowa w ust. 2, jeżeli przeprowadzają ich badania w celu identyfikacji i potwierdzenia popełnienia przestępstwa, wykroczenia lub w związku z postępowaniami, o których mowa w art. 44c i art. 44d. ” ;
+
+- **10)** w art. 241 w ust. 2 pkt 1 otrzymuje brzmienie: „
+- **1)** nabywania środków odurzających, substancji psychotropowych, nowych substancji psychoaktywnych, prekursorów kategorii 1, oraz środków zastępczych od przedsiębiorców posiadających zezwolenie, o którym mowa w art. 35 ust. 1, art. 36 ust. 1, art. 40 ust. 1 i 2 pkt 1, art. 40a ust. 1, oraz od przedsiębiorców, o których mowa w art. 40a ust. 2, albo pozyskiwania ich od jednostek organizacyjnych sektora finansów publicznych, jednostek naukowych lub podmiotów zlecających badania w celu identyfikacji i potwierdzenia popełnienia przestępstwa lub naruszenia zakazu określonego w art. 44b ust. 1, w ilości niezbędnej do przeprowadzenia badania lub szkolenia; ” ;
+- **11)** art. 24a otrzymuje brzmienie: „
+
+**Art. 24a.**
+
+1. Jednostki organizacyjne administracji rządowej i Żandarmerii Wojskowej wykonujące czynności operacyjno-rozpoznawcze oraz jednostki organizacyjne Krajowej Administracji Skarbowej przy wykonywaniu zadań określonych ustawą z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2018 r. poz. 508, 650, 723, 1000 i 1039) mogą wchodzić w posiadanie środków odurzających, substancji psychotropowych, nowych substancji psychoaktywnych, prekursorów kategorii 1, lub ich preparatów, oraz środków zastępczych w ilości niezbędnej do przeprowadzenia badań potwierdzających popełnienie przestępstwa.
+
+2. Jednostki, o których mowa w ust. 1, w związku z wykonywaniem czynności i działań określonych w tym przepisie są obowiązane:
+
+- **1)** przechowywać posiadane środki odurzające, substancje psychotropowe, nowe substancje psychoaktywne, lub ich preparaty, prekursory kategorii 1 oraz środki zastępcze w sposób zabezpieczający przed kradzieżą lub zniszczeniem;
+- **2)** niszczyć środki odurzające, substancje psychotropowe, nowe substancje psychoaktywne, lub ich preparaty, prekursory kategorii 1 oraz środki zastępcze w sposób uniemożliwiający dostęp do nich osób nieupoważnionych.
+
+3. Rada Ministrów określi, w drodze rozporządzenia, podmioty uprawnione do niszczenia środków odurzających, substancji psychotropowych, nowych substancji psychoaktywnych, prekursorów kategorii 1, lub ich preparatów, oraz środków zastępczych, uzyskanych w drodze czynności i działań, określonych w ust. 1, a także szczegółowy tryb i warunki ich przechowywania oraz niszczenia, mając na względzie konieczność zabezpieczenia tych środków i substancji przed dostępem osób trzecich. ” ;
+
+- **12)** w art. 24b w ust. 1, w ust. 2 w pkt 3 i 4 oraz w ust. 3 po wyrazach „substancji psychotropowych” dodaje się przecinek i wyrazy „nowych substancji psychoaktywnych”;
+- **13)** w art. 26 w ust. 2 pkt 2 otrzymuje brzmienie: „
+- **2)** osoba posiadająca certyfikat specjalisty psychoterapii uzależnień. ” ;
+- **14)** w art. 27: ust. 7 otrzymuje brzmienie: „
+    - **a)**
+
+7. Certyfikat specjalisty psychoterapii uzależnień może otrzymać osoba, która posiada tytuł zawodowy lekarza lub tytuł zawodowy magistra pielęgniarstwa, lub osoba, która uzyskała tytuł magistra uzyskany po studiach w zakresie: praca socjalna, psychologia, pedagogika, pedagogika specjalna, socjologia, resocjalizacja, zdrowie publiczne, nauki o rodzinie, teologia lub filozofia. ” , ust. 9 otrzymuje brzmienie: „
+
+- **b)**
+
+9. Osoby, które ukończyły szkolenie, o którym mowa w ust. 1, i uzyskały certyfikat instruktora terapii uzależnień oraz w terminie 3 lat od ukończenia tego szkolenia spełniły wymogi, o których mowa w ust. 7, mogą przystąpić do egzaminu w zakresie specjalisty psychoterapii uzależnień bez konieczności uczestniczenia w szkoleniu, nie później jednak niż w okresie roku po uzyskaniu tytułu magistra. ” , w ust. 13 pkt 5 otrzymuje brzmienie: „
+
+- **c)**
+- **5)** wzory certyfikatów: instruktora terapii uzależnień i specjalisty psychoterapii uzależnień ” ;
+- **15)** po rozdziale 4 dodaje się rozdział 4a w brzmieniu: „
+
+#### Rozdział 4a Zgłaszanie zatruć środkiem zastępczym lub nową substancją psychoaktywną
 
 **Art. 30a.**
 
@@ -43,40 +179,52 @@ source: "isap-pdf"
 - **2)** określenie wieku osoby, której dotyczy, jeżeli to możliwe;
 - **3)** wskazanie środka zastępczego lub nowej substancji psychoaktywnej, które spowodowały zatrucie, jeżeli zostały ustalone lub stwierdzone w wyniku badania materiału biologicznego lub ujawnione w badaniu pośmiertnym;
 - **4)** nazwę produktu zawierającego środek lub substancję, o której mowa w pkt 3, jeżeli dotyczy;
-- **5)** rodzaj udzielonego świadczenia zdrowotnego:
-    - **a)** ambulatoryjne świadczenie zdrowotne (AA),
-    - **b)** stacjonarne lub całodobowe świadczenie zdrowotne: – obserwacja w szpitalnym oddziale ratunkowym (SOR), – pobyt do 8 godzin w szpitalnym oddziale ratunkowym lub izbie przyjęć (SOR/IP), – hospitalizacja powyżej 24 godzin (H),
-    - **c)** niehospitalizowany (NH);
+- **5)** rodzaj udzielonego świadczenia zdrowotnego: ambulatoryjne świadczenie zdrowotne (AA), stacjonarne lub całodobowe świadczenie zdrowotne: – obserwacja w szpitalnym oddziale ratunkowym (SOR), – pobyt do 8 godzin w szpitalnym oddziale ratunkowym lub izbie przyjęć (SOR/IP), – hospitalizacja powyżej 24 godzin (H), niehospitalizowany (NH);
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **6)** imię, nazwisko albo nazwę (firmę) i siedzibę zgłaszającego.
 
 5. Państwowy powiatowy inspektor sanitarny udostępnia niezwłocznie zgłoszenie właściwemu wojewódzkiemu inspektorowi sanitarnemu oraz Głównemu Inspektorowi Sanitarnemu. Główny Inspektor Sanitarny dokonuje weryfikacji udostępnionych zgłoszeń.
 
-6. Główny Inspektor Sanitarny sporządza raport dotyczący zatruć środkiem zastępczym lub nową substancją psychoaktywną za dany rok, który do dnia 31 marca roku następnego udostępnia na stronie podmiotowej Biuletynu Informacji Publicznej.”;
+6. Główny Inspektor Sanitarny sporządza raport dotyczący zatruć środkiem zastępczym lub nową substancją psychoaktywną za dany rok, który do dnia 31 marca roku następnego udostępnia na stronie podmiotowej Biuletynu Informacji Publicznej. ” ;
 
-- **16)** w art. 31:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Środki odurzające dzieli się na grupy I-N, II-N, III-N i IV-N w zależności od stopnia ryzyka powstania uzależnienia w przypadku używania ich w celach innych niż medyczne oraz zakresu ich stosowania w celach medycznych.”,
-    - **b)** uchyla się ust. 2;
+- **16)** w art. 31: ust. 1 otrzymuje brzmienie: „
+    - **a)**
 
-- **17)** w art. 32:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Substancje psychotropowe dzieli się na grupy I-P, II-P, III-P i IV-P w zależności od stopnia ryzyka powstania uzależnienia w przypadku używania ich w celach innych niż medyczne oraz zakresu ich stosowania w celach medycznych.”,
-    - **b)** uchyla się ust. 2;
+1. Środki odurzające dzieli się na grupy I-N, II-N, III-N i IV-N w zależności od stopnia ryzyka powstania uzależnienia w przypadku używania ich w celach innych niż medyczne oraz zakresu ich stosowania w celach medycznych. ” , uchyla się ust. 2;
 
+- **b)**
+- **17)** w art. 32: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Substancje psychotropowe dzieli się na grupy I-P, II-P, III-P i IV-P w zależności od stopnia ryzyka powstania uzależnienia w przypadku używania ich w celach innych niż medyczne oraz zakresu ich stosowania w celach medycznych. ” , uchyla się ust. 2;
+
+- **b)**
 - **18)** użyte w art. 33 w ust. 2, w art. 33a w ust. 1, w art. 33c w ust. 3 i w art. 33d w ust. 1 wyrazy „w załączniku nr 1 do ustawy” zastępuje się wyrazami „w przepisach wydanych na podstawie art. 44f”;
-- **19)** art. 34 otrzymuje brzmienie: „Art. 34. 1. Środki odurzające, substancje psychotropowe, nowe substancje psychoaktywne, lub ich preparaty, oraz prekursory kategorii 1, może posiadać wyłącznie przedsiębiorca, jednostka organizacyjna lub osoba fizyczna uprawniona do ich posiadania na podstawie przepisów ustawy, rozporządzenia 273/2004 lub rozporządzenia 111/2005.
+- **19)** art. 34 otrzymuje brzmienie: „
+
+**Art. 34.**
+
+1. Środki odurzające, substancje psychotropowe, nowe substancje psychoaktywne, lub ich preparaty, oraz prekursory kategorii 1, może posiadać wyłącznie przedsiębiorca, jednostka organizacyjna lub osoba fizyczna uprawniona do ich posiadania na podstawie przepisów ustawy, rozporządzenia 273/2004 lub rozporządzenia 111/2005.
 
 2. Posiadane bez uprawnienia środki odurzające, substancje psychotropowe, nowe substancje psychoaktywne, lub ich preparaty, oraz prekursory kategorii 1, podlegają zabezpieczeniu przez organy ścigania lub organy celne w trybie określonym w przepisach o postępowaniu karnym.
 
 3. W przypadku gdy nie zostało wszczęte postępowanie karne, sąd orzeka o przepadku na rzecz Skarbu Państwa środków odurzających, substancji psychotropowych, nowych substancji psychoaktywnych, prekursorów kategorii 1, lub ich preparatów, odpowiednio na wniosek wojewódzkiego inspektora farmaceutycznego, Naczelnego Inspektora Farmaceutycznego Wojska Polskiego albo państwowego wojewódzkiego inspektora sanitarnego.
 
-4. W przypadku orzeczenia przez sąd o przepadku na rzecz Skarbu Państwa środków odurzających, substancji psychotropowych, nowych substancji psychoaktywnych, prekursorów kategorii 1, lub ich preparatów, podlegają one zniszczeniu. Sąd może orzec na wniosek jednostek, o których mowa w art. 24 ust. 2 i 4, przepadek na rzecz Skarbu Państwa środków odurzających, substancji psychotropowych, nowych substancji psychoaktywnych, prekursorów kategorii 1, lub ich preparatów, przez przekazanie ich w całości lub części tym jednostkom.”;
+4. W przypadku orzeczenia przez sąd o przepadku na rzecz Skarbu Państwa środków odurzających, substancji psychotropowych, nowych substancji psychoaktywnych, prekursorów kategorii 1, lub ich preparatów, podlegają one zniszczeniu. Sąd może orzec na wniosek jednostek, o których mowa w art. 24 ust. 2 i 4, przepadek na rzecz Skarbu Państwa środków odurzających, substancji psychotropowych, nowych substancji psychoaktywnych, prekursorów kategorii 1, lub ich preparatów, przez przekazanie ich w całości lub części tym jednostkom. ” ;
 
-- **20)** po art. 40 dodaje się art. 40a–40d w brzmieniu: „Art. 40a. 1. Prowadzenie działalności przez przedsiębiorcę w zakresie wytwarzania, przetwarzania, przerabiania, przywozu, wywozu, wewnątrzwspólnotowej dostawy lub wewnątrzwspólnotowego nabycia oraz wprowadzenia do obrotu nowej substancji psychoaktywnej wymaga zezwolenia Inspektora do spraw Substancji Chemicznych na tę substancję, zwanego dalej „zezwoleniem”, z wyjątkiem prowadzenia takiej działalności przez jednostki i podmioty, o których mowa w art. 23, art. 24 i art. 24a, w zakresie określonym w tych przepisach.
+- **20)** po art. 40 dodaje się art. 40a-40d w brzmieniu: „
+
+**Art. 40a.**
+
+1. Prowadzenie działalności przez przedsiębiorcę w zakresie wytwarzania, przetwarzania, przerabiania, przywozu, wywozu, wewnątrzwspólnotowej dostawy lub wewnątrzwspólnotowego nabycia oraz wprowadzenia do obrotu nowej substancji psychoaktywnej wymaga zezwolenia Inspektora do spraw Substancji Chemicznych na tę substancję, zwanego dalej „zezwoleniem”, z wyjątkiem prowadzenia takiej działalności przez jednostki i podmioty, o których mowa w art. 23, art. 24 i art. 24a, w zakresie określonym w tych przepisach.
 
 2. Przedsiębiorca:
 
 - **1)** posiadający status centrum badawczo-rozwojowego, o którym mowa w art. 17 ust. 1 ustawy z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej (Dz. U. z 2018 r. poz. 141),
-- **2)** prowadzący badania naukowe lub prace rozwojowe korzystający, na podstawie umowy cywilnoprawnej z nieruchomości lub ruchomości: jednostki naukowej lub ośrodka innowacji akredytowanego przez ministra właściwego do spraw gospodarki, służących prowadzeniu tych badań lub prac – może rozpocząć prowadzenie działalności, o której mowa w ust. 1, w dniu następującym po dniu złożenia wniosku o wydanie zezwolenia.
+- **2)** prowadzący badania naukowe lub prace rozwojowe korzystający, na podstawie umowy cywilnoprawnej z nieruchomości lub ruchomości: jednostki naukowej lub ośrodka innowacji akredytowanego przez ministra właściwego do spraw gospodarki, służących prowadzeniu tych badań lub prac może rozpocząć prowadzenie działalności, o której mowa w ust. 1, w dniu następującym po dniu złożenia wniosku o wydanie zezwolenia.
 
 3. Zezwolenie wydaje się na wniosek składany odrębnie dla każdej nowej substancji psychoaktywnej, zawierający:
 
@@ -136,8 +284,6 @@ source: "isap-pdf"
 
 16. Za złożenie wniosku o wydanie zezwolenia jest pobierana opłata w wysokości 200 zł, która stanowi dochód budżetu państwa. Opłatę wnosi się na rachunek bankowy wskazany przez Inspektora do spraw Substancji Chemicznych. Dowód wniesienia opłaty dołącza się do wniosku. W przypadku braku dowodu uiszczenia opłaty wniosek pozostawia się bez rozpatrzenia.
 
-**Art. 40b.**
-
 1. Przedsiębiorca będący odbiorcą nowej substancji psychoaktywnej jest obowiązany sporządzać dla każdej transakcji deklarację zastosowania nowej substancji psychoaktywnej.
 
 2. Deklaracja zawiera:
@@ -152,8 +298,6 @@ source: "isap-pdf"
 
 3. Przedsiębiorca będący odbiorcą nowej substancji psychoaktywnej przekazuje oryginał deklaracji dostawcy, a jej kopię potwierdzoną za zgodność z oryginałem przez dostawcę pozostawia w dokumentacji transakcji.
 
-**Art. 40c.**
-
 1. Przedsiębiorca posiadający zezwolenie, o którym mowa w art. 40a ust. 1, oraz przedsiębiorca, o którym mowa w art. 40a ust. 2, jest obowiązany do przekazania Inspektorowi do spraw Substancji Chemicznych, w terminie do dnia 31 marca danego roku, informacji za rok poprzedni o prowadzonej działalności w zakresie objętym zezwoleniem albo w zakresie objętym wnioskiem o jego wydanie, zawierającej:
 
 - **1)** imię i nazwisko lub nazwę i adres siedziby przedsiębiorcy składającego informację oraz oznaczenie zezwolenia;
@@ -163,37 +307,56 @@ source: "isap-pdf"
 
 2. Przedsiębiorca posiadający zezwolenie, o którym mowa w art. 40a ust. 1, oraz przedsiębiorca, o którym mowa w art. 40a ust. 2, jest obowiązany do prowadzenia ewidencji nowych substancji psychoaktywnych w sposób uporządkowany, według dat ich nabycia lub wejścia w ich posiadanie, przez okres 5 lat, licząc od końca roku kalendarzowego ostatniego wpisu w ewidencji.
 
-**Art. 40d.**
-
 1. Nadzór nad nowymi substancjami psychoaktywnymi realizowany w ramach kontroli spełniania obowiązków wynikających z przepisów ustawy sprawują organy Państwowej Inspekcji Sanitarnej na zasadach określonych w przepisach o Państwowej Inspekcji Sanitarnej.
 
 2. Inspektor do spraw Substancji Chemicznych przekazuje odpowiednim organom Państwowej Inspekcji Sanitarnej informacje dotyczące wydanych zezwoleń, o których mowa w art. 40a ust. 1, oraz wniosków złożonych przez przedsiębiorców, o których mowa w art. 40a ust. 2.
 
-3. Szczegółowe warunki i sposób współpracy przy sprawowaniu nadzoru, o którym mowa w ust. 1, określa porozumienie zawarte między Inspektorem do spraw Substancji Chemicznych a Głównym Inspektorem Sanitarnym.”;
+3. Szczegółowe warunki i sposób współpracy przy sprawowaniu nadzoru, o którym mowa w ust. 1, określa porozumienie zawarte między Inspektorem do spraw Substancji Chemicznych a Głównym Inspektorem Sanitarnym. ” ;
 
-- **21)** w art. 44 ust. 4 otrzymuje brzmienie: „4. Zadania z zakresu dokonywania rejestracji, o której mowa w art. 3 ust. 6 rozporządzenia nr 273/2004, oraz rejestracji, o której mowa w art. 7 rozporządzenia 111/2005, w tym prowadzenie krajowego rejestru podmiotów gospodarczych i użytkowników, którym przyznano rejestrację, wykonuje Inspektor do spraw Substancji Chemicznych. Przyznanie rejestracji, odmowa przyznania, zawieszenie lub unieważnienie rejestracji następuje w drodze decyzji. O wydanej decyzji Inspektor do spraw Substancji Chemicznych powiadamia właściwego państwowego powiatowego inspektora sanitarnego, a w przypadku rejestracji, o której mowa w art. 7 rozporządzenia 111/2005, także Głównego Inspektora Sanitarnego.”;
+- **21)** w art. 44 ust. 4 otrzymuje brzmienie: „
+
+4. Zadania z zakresu dokonywania rejestracji, o której mowa w art. 3 ust. 6 rozporządzenia nr 273/2004, oraz rejestracji, o której mowa w art. 7 rozporządzenia 111/2005, w tym prowadzenie krajowego rejestru podmiotów gospodarczych i użytkowników, którym przyznano rejestrację, wykonuje Inspektor do spraw Substancji Chemicznych. Przyznanie rejestracji, odmowa przyznania, zawieszenie lub unieważnienie rejestracji następuje w drodze decyzji. O wydanej decyzji Inspektor do spraw Substancji Chemicznych powiadamia właściwego państwowego powiatowego inspektora sanitarnego, a w przypadku rejestracji, o której mowa w art. 7 rozporządzenia 111/2005, także Głównego Inspektora Sanitarnego. ” ;
+
 - **22)** w art. 44a wyrazy „o której mowa w art. 35, art. 36 i art. 40” zastępuje się wyrazami „o której mowa w art. 35, art. 36, art. 40 i art. 40a”;
-- **23)** w art. 44b:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Zakazuje się:
+- **23)** w art. 44b: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Zakazuje się:
 
 - **1)** wytwarzania, przywozu i wprowadzania do obrotu na terytorium Rzeczypospolitej Polskiej środków zastępczych;
-- **2)** prowadzenia działalności w zakresie, o którym mowa w art. 40a ust. 1, przez podmiot niespełniający wymagań, o których mowa w art. 40a ust. 1, art. 40b i art. 40c.”,
-    - **b)** uchyla się ust. 2;
+- **2)** prowadzenia działalności w zakresie, o którym mowa w art. 40a ust. 1, przez podmiot niespełniający wymagań, o których mowa w art. 40a ust. 1, art. 40b i art. 40c. ” , uchyla się ust. 2;
+    - **b)**
 
-- **24)** w art. 44c:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. W przypadku stwierdzenia wytwarzania lub wprowadzania do obrotu produktu, co do którego zachodzi uzasadnione podejrzenie, że jest on środkiem zastępczym, właściwy ze względu na miejsce wytwarzania lub wprowadzania do obrotu państwowy inspektor sanitarny nakazuje, w drodze decyzji, wstrzymanie wytwarzania tego produktu lub wycofanie go z obrotu, na czas niezbędny do przeprowadzenia badań mających na celu ustalenie, czy jest on środkiem zastępczym, nie dłuższy jednak niż 18 miesięcy.”,
-    - **b)** w ust. 3 pkt 1 otrzymuje brzmienie: „1) dokonuje zabezpieczenia produktu, co do którego zachodzi uzasadnione podejrzenie, że jest on środkiem zastępczym;”,
-    - **c)** ust. 4 otrzymuje brzmienie: „4. Państwowy inspektor sanitarny właściwy ze względu na miejsce wytwarzania lub wprowadzania do obrotu produktu, o którym mowa w ust. 1, zakazuje, w drodze decyzji, jego wytwarzania lub wprowadzania do obrotu, nakazuje jego wycofanie z obrotu, a także orzeka o jego przepadku na rzecz Skarbu Państwa i zniszczeniu, jeżeli ten produkt jest środkiem zastępczym.”,
-    - **d)** ust. 6 otrzymuje brzmienie: „6. Koszty prowadzonego postępowania i badań, o których mowa w ust. 1, w wyniku których stwierdzono, że badany produkt, o którym mowa w ust. 1, jest środkiem zastępczym, oraz koszty zniszczenia tego produktu ponosi strona postępowania.”,
-    - **e)** ust. 11 i 12 otrzymują brzmienie: „11. Jeżeli w wyniku badań, o których mowa w ust. 1, stwierdzono obecność substancji wykazującej działanie na ośrodkowy układ nerwowy, podmiot, który przeprowadził to badanie, zawiadamia o wyniku tego badania Zespół oraz Biuro, jako jednostkę współpracującą z Europejskim Centrum Monitorowania Narkotyków i Narkomanii oraz Europejską Siecią Informacji o Narkotykach i Narkomanii (Reitox), zgodnie z art. 6 ust. 3 pkt 12 lit. i.
+- **24)** w art. 44c: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. W przypadku stwierdzenia wytwarzania lub wprowadzania do obrotu produktu, co do którego zachodzi uzasadnione podejrzenie, że jest on środkiem zastępczym, właściwy ze względu na miejsce wytwarzania lub wprowadzania do obrotu państwowy inspektor sanitarny nakazuje, w drodze decyzji, wstrzymanie wytwarzania tego produktu lub wycofanie go z obrotu, na czas niezbędny do przeprowadzenia badań mających na celu ustalenie, czy jest on środkiem zastępczym, nie dłuższy jednak niż 18 miesięcy. ” , w ust. 3 pkt 1 otrzymuje brzmienie: „
+
+- **b)**
+- **1)** dokonuje zabezpieczenia produktu, co do którego zachodzi uzasadnione podejrzenie, że jest on środkiem zastępczym; ” , ust. 4 otrzymuje brzmienie: „
+    - **c)**
+
+4. Państwowy inspektor sanitarny właściwy ze względu na miejsce wytwarzania lub wprowadzania do obrotu produktu, o którym mowa w ust. 1, zakazuje, w drodze decyzji, jego wytwarzania lub wprowadzania do obrotu, nakazuje jego wycofanie z obrotu, a także orzeka o jego przepadku na rzecz Skarbu Państwa i zniszczeniu, jeżeli ten produkt jest środkiem zastępczym. ” , ust. 6 otrzymuje brzmienie: „
+
+- **d)**
+
+6. Koszty prowadzonego postępowania i badań, o których mowa w ust. 1, w wyniku których stwierdzono, że badany produkt, o którym mowa w ust. 1, jest środkiem zastępczym, oraz koszty zniszczenia tego produktu ponosi strona postępowania. ” , ust. 11 i 12 otrzymują brzmienie: „
+
+- **e)**
+
+11. Jeżeli w wyniku badań, o których mowa w ust. 1, stwierdzono obecność substancji wykazującej działanie na ośrodkowy układ nerwowy, podmiot, który przeprowadził to badanie, zawiadamia o wyniku tego badania Zespół oraz Biuro, jako jednostkę współpracującą z Europejskim Centrum Monitorowania Narkotyków i Narkomanii oraz Europejską Siecią Informacji o Narkotykach i Narkomanii (Reitox), zgodnie z art. 6 ust. 3 pkt 12 lit. i.
 
 12. Badania mające na celu ustalenie, czy produkt, o którym mowa w ust. 1, jest środkiem zastępczym, przeprowadzają podmioty, w tym jednostki naukowe, posiadające przygotowanie naukowo-merytoryczne, techniczne oraz infrastrukturę, umożliwiające ustalenie, czy badany produkt jest środkiem zastępczym, w szczególności określenie:
 
 - **1)** pochodzenia substancji o działaniu na ośrodkowy układ nerwowy zidentyfikowanej w wyniku badań;
 - **2)** mechanizmu działania tej substancji;
 - **3)** jej aktywności farmakologicznej;
-- **4)** działań niepożądanych, w tym skutków somatycznych i psychicznych u ludzi.”;
-- **25)** art. 44d otrzymuje brzmienie: „Art. 44d. 1. W przypadku stwierdzenia przywozu na terytorium Rzeczypospolitej Polskiej produktu, co do którego zachodzi uzasadnione podejrzenie, że może być on środkiem zastępczym, organ celny zajmuje przesyłkę tego produktu na czas niezbędny do ustalenia, czy jest on środkiem zastępczym, nie dłuższy jednak niż 18 miesięcy.
+- **4)** działań niepożądanych, w tym skutków somatycznych i psychicznych u ludzi. ” ;
+- **25)** art. 44d otrzymuje brzmienie: „
+
+**Art. 44d.**
+
+1. W przypadku stwierdzenia przywozu na terytorium Rzeczypospolitej Polskiej produktu, co do którego zachodzi uzasadnione podejrzenie, że może być on środkiem zastępczym, organ celny zajmuje przesyłkę tego produktu na czas niezbędny do ustalenia, czy jest on środkiem zastępczym, nie dłuższy jednak niż 18 miesięcy.
 
 2. W przypadku konieczności przeprowadzenia badań produktu, o którym mowa w ust. 1, mających na celu ustalenie, czy jest on środkiem zastępczym, przeprowadzają je podmioty, o których mowa w art. 44c ust. 12.
 
@@ -205,13 +368,153 @@ source: "isap-pdf"
 
 6. Jeżeli podmiot dokonujący przywozu jest nieznany, produkt będący środkiem zastępczym podlega zniszczeniu bez konieczności występowania do sądu o przepadek na rzecz Skarbu Państwa.
 
-7. Koszty badań, przechowywania i zniszczenia produktu będącego środkiem zastępczym ponosi podmiot dokonujący przywozu. W przypadku niemożności ustalenia podmiotu dokonującego przywozu produktu będącego środkiem zastępczym koszty badań, przechowywania i zniszczenia są finansowane z budżetu państwa, z części pozostającej w dyspozycji organów Krajowej Administracji Skarbowej.”;
+7. Koszty badań, przechowywania i zniszczenia produktu będącego środkiem zastępczym ponosi podmiot dokonujący przywozu. W przypadku niemożności ustalenia podmiotu dokonującego przywozu produktu będącego środkiem zastępczym koszty badań, przechowywania i zniszczenia są finansowane z budżetu państwa, z części pozostającej w dyspozycji organów Krajowej Administracji Skarbowej. ” ;
 
-- **26)** po art. 44d dodaje się art. 44e i art. 44f w brzmieniu: „Art. 44e. Substancję będącą jednocześnie środkiem odurzającym i nową substancją psychoaktywną albo substancją psychotropową i nową substancją psychoaktywną uznaje się odpowiednio za środek odurzający albo substancję psychotropową.
+- **26)** po art. 44d dodaje się art. 44e i art. 44f w brzmieniu: „ Substancję będącą jednocześnie środkiem odurzającym i nową substancją psychoaktywną albo substancją psychotropową i nową substancją psychoaktywną uznaje się odpowiednio za środek odurzający albo substancję psychotropową. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+- **1)** wykaz substancji psychotropowych z podziałem na grupy, o których mowa w art. 32,
+- **2)** wykaz środków odurzających z podziałem na grupy, o których mowa w art. 31, oraz ze wskazaniem środków odurzających grupy IV-N dopuszczonych do stosowania w lecznictwie zwierząt zgodnie z art. 33 ust. 2,
+- **3)** wykaz nowych substancji psychoaktywnych uwzględniając postanowienia Konwencji Narodów Zjednoczonych oraz decyzji, o których mowa w art. 4 pkt 25 i 26, albo ocenę lub rekomendację Zespołu, mając na uwadze wpływ tych substancji na zdrowie lub życie ludzi lub możliwość spowodowania szkód społecznych oraz konieczność działań ochronnych podejmowanych wobec zwierząt dzikich. ” ;
+- **27)** w art. 49: w ust. 3 uchyla się pkt 1, dodaje się ust. 4–7 w brzmieniu: „
+    - **a)**
+    - **b)**
 
-**Art. 44f.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+4. Główny Inspektor Farmaceutyczny zasięga opinii jednostki organizacyjnej Policji właściwej ze względu na miejsce uprawy objętej wnioskiem, o którym mowa w ust. 2, dotyczącej sposobu jej zabezpieczenia przed dostępem osób nieuprawnionych, uwzględniającej:
 
-**Art. 2.** W ustawie z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2017 r. poz. 1261 i 2111 oraz z 2018 r. poz. 138 i 650) w art. 4 w ust. 2 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) kontrola przestrzegania przepisów ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2018 r. poz. 1030 i 1490), dotyczących prowadzenia przez przedsiębiorców działalności w zakresie wytwarzania, przetwarzania, przerabiania, przywozu, wywozu, wewnątrzwspólnotowej dostawy lub wewnątrzwspólnotowego nabycia oraz wprowadzania do obrotu nowej substancji psychoaktywnej, w tym w postaci mieszaniny lub w wyrobie;”.
+- **1)** zabezpieczenie w zakresie wstępu na miejsce uprawy przez: prowadzenie wykazu osób uprawnionych do wejścia obejmującego: – imię i nazwisko, – numer PESEL, a w przypadku jego braku – cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz kraj wydania, prowadzenie wykazu pojazdów uprawnionych do wjazdu na miejsce uprawy obejmującego markę samochodu i numer rejestracyjny, weryfikowanie danych, o których mowa w lit. a i b;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** zabezpieczenia techniczne uwzględniające zabezpieczenie uprawy prowadzonej w budynku i poza budynkiem;
+- **3)** oznakowanie miejsca uprawy;
+- **4)** warunki dotyczące lokalizacji miejsca uprawy.
+
+5. Właściwy organ Policji wydaje opinię w formie postanowienia. Nieprzedstawienie opinii w terminie 30 dni od dnia skierowania sprawy do zaopiniowania jest równoznaczne z wydaniem pozytywnej opinii w przedmiocie sposobu zabezpieczenia uprawy przed dostępem osób nieuprawnionych.
+
+6. Na postanowienie, o którym mowa w ust. 5, nie przysługuje zażalenie.
+
+7. Minister właściwy do spraw wewnętrznych, po zasięgnięciu opinii ministra właściwego do spraw zdrowia, określi, w drodze rozporządzenia, szczegółowe kryteria oceny zabezpieczenia upraw, o których mowa w ust. 1, mając na uwadze zagwarantowanie należytej ochrony tych upraw przed dostępem osób nieuprawnionych. ” ;
+
+- **28)** art. 52a otrzymuje brzmienie: „
+
+**Art. 52a.**
+
+1. Kto, wbrew przepisom ustawy, wytwarza lub wprowadza do obrotu na terytorium Rzeczypospolitej Polskiej środek zastępczy, podlega karze pieniężnej w wysokości od 20 000 zł do 1 000 000 zł.
+
+2. Karę pieniężną, o której mowa w ust. 1, wymierza, w drodze decyzji, państwowy inspektor sanitarny właściwy ze względu na miejsce wytwarzania lub wprowadzania do obrotu środka zastępczego. Decyzja ta podlega natychmiastowemu wykonaniu.
+
+3. Ustalając wysokość kary pieniężnej, o której mowa w ust. 1, państwowy inspektor sanitarny uwzględnia w szczególności ilość wytworzonego lub wprowadzonego do obrotu środka zastępczego. ” ;
+
+- **29)** w art. 53: po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+
+1a. Kto, wbrew przepisom ustawy, wytwarza, przetwarza albo przerabia nowe substancje psychoaktywne, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 3. ” , ust. 2 otrzymuje brzmienie: „
+
+- **b)**
+
+2. Jeżeli przedmiotem czynu, o którym mowa w ust. 1 lub 1a, jest znaczna ilość środków odurzających, substancji psychotropowych, słomy makowej lub nowych substancji psychoaktywnych, lub czyn ten został popełniony w celu osiągnięcia korzyści majątkowej lub osobistej, sprawca podlega grzywnie i karze pozbawienia wolności na czas nie krótszy od lat 3. ” ;
+
+- **30)** art. 54 otrzymuje brzmienie: „
+
+**Art. 54.**
+
+1. Kto wyrabia, posiada, przechowuje, zbywa lub nabywa przyrządy, jeżeli z okoliczności wynika, że służą one lub są przeznaczone do niedozwolonego wytwarzania, przetwarzania lub przerobu środków odurzających, substancji psychotropowych lub nowych substancji psychoaktywnych, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+
+2. Tej samej karze podlega, kto:
+
+- **1)** przystosowuje do niedozwolonego wytwarzania, przetwarzania, przerobu lub konsumpcji środków odurzających, substancji psychotropowych lub nowych substancji psychoaktywnych naczynia i przyrządy, choćby były wytworzone w innym celu, albo
+- **2)** wchodzi w porozumienie z inną osobą w celu popełnienia przestępstwa określonego w art. 53 ust. 2. ” ;
+- **31)** w art. 55: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Kto, wbrew przepisom ustawy, dokonuje przywozu, wywozu, przewozu, wewnątrzwspólnotowego nabycia lub wewnątrzwspólnotowej dostawy środków odurzających, substancji psychotropowych, nowych substancji psychoaktywnych lub słomy makowej, podlega grzywnie i karze pozbawienia wolności do lat 5. ” , ust. 3 otrzymuje brzmienie: „
+
+- **b)**
+
+3. Jeżeli przedmiotem czynu, o którym mowa w ust. 1, jest znaczna ilość środków odurzających, substancji psychotropowych, nowych substancji psychoaktywnych lub słomy makowej albo czyn ten został popełniony w celu osiągnięcia korzyści majątkowej lub osobistej, sprawca podlega grzywnie i karze pozbawienia wolności na czas nie krótszy od lat 3. ” ;
+
+- **32)** w art. 56: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Kto, wbrew przepisom art. 33–35, art. 37, art. 40 i art. 40a, wprowadza do obrotu środki odurzające, substancje psychotropowe, słomę makową lub nowe substancje psychoaktywne albo uczestniczy w takim obrocie, podlega grzywnie i karze pozbawienia wolności od 6 miesięcy do lat 8. ” , ust. 3 otrzymuje brzmienie: „
+
+- **b)**
+
+3. Jeżeli przedmiotem czynu, o którym mowa w ust. 1, jest znaczna ilość środków odurzających, substancji psychotropowych, nowych substancji psychoaktywnych lub słomy makowej, sprawca podlega grzywnie i karze pozbawienia wolności od lat 2 do 12. ” ;
+
+- **33)** art. 58 otrzymuje brzmienie: „
+
+**Art. 58.**
+
+1. Kto, wbrew przepisom ustawy, udziela innej osobie środka odurzającego, substancji psychotropowej lub nowej substancji psychoaktywnej, ułatwia albo umożliwia ich użycie albo nakłania do użycia takiego środka lub substancji, podlega karze pozbawienia wolności do lat 3.
+
+2. Jeżeli sprawca czynu, o którym mowa w ust. 1, udziela środka odurzającego, substancji psychotropowej lub nowej substancji psychoaktywnej małoletniemu lub nakłania go do użycia takiego środka lub substancji albo udziela ich w znacznych ilościach innej osobie, podlega karze pozbawienia wolności od 6 miesięcy do lat 8. ” ;
+
+- **34)** w art. 59 ust. 1 i 2 otrzymują brzmienie: „
+
+1. Kto, w celu osiągnięcia korzyści majątkowej lub osobistej, udziela innej osobie środka odurzającego, substancji psychotropowej lub nowej substancji psychoaktywnej, ułatwia użycie albo nakłania do użycia takiego środka lub substancji, podlega karze pozbawienia wolności od roku do lat 10.
+
+2. Jeżeli sprawca czynu, o którym mowa w ust. 1, udziela środka odurzającego, substancji psychotropowej lub nowej substancji psychoaktywnej małoletniemu, ułatwia użycie albo nakłania go do użycia takiego środka lub substancji, podlega karze pozbawienia wolności na czas nie krótszy od lat 3. ” ;
+
+- **35)** art. 61 otrzymuje brzmienie: „
+
+**Art. 61.** Kto, wbrew przepisom ustawy, rozporządzenia 273/2004 lub rozporządzenia 111/2005, w celu niedozwolonego wytworzenia środka odurzającego, substancji psychotropowej lub nowej substancji psychoaktywnej wytwarza, przetwarza, przerabia, dokonuje przywozu, wywozu, wewnątrzwspólnotowego nabycia, wewnątrzwspólnotowej dostawy, przewozi przez terytorium Rzeczypospolitej Polskiej lub terytorium innego państwa, nabywa, posiada, przechowuje lub wprowadza do obrotu prekursory lub nową substancję psychoaktywną, podlega grzywnie i karze pozbawienia wolności do lat 5. ” ;
+
+- **36)** po art. 62a dodaje się art. 62b w brzmieniu: „
+
+**Art. 62b.**
+
+1. Kto, wbrew przepisom ustawy, posiada nowe substancje psychoaktywne, podlega grzywnie.
+
+2. Jeżeli przedmiotem czynu, o którym mowa w ust. 1, jest znaczna ilość nowych substancji psychoaktywnych sprawca, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 3.
+
+3. Jeżeli przedmiotem czynu, o którym mowa w ust. 1, jest nowa substancja psychoaktywna w ilości nieznacznej, przeznaczonej na własny użytek sprawcy, postępowanie można umorzyć również przed wydaniem postanowienia o wszczęciu śledztwa lub dochodzenia, jeżeli orzeczenie wobec sprawcy kary byłoby niecelowe ze względu na okoliczności popełnienia czynu, a także stopień jego społecznej szkodliwości. ” ;
+
+- **37)** w art. 64 ust. 1–3 otrzymują brzmienie: „
+
+1. Kto zabiera, w celu przywłaszczenia, środki odurzające, substancje psychotropowe, nowe substancje psychoaktywne, mleczko makowe lub słomę makową, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+
+2. Jeżeli przedmiotem czynu, o którym mowa w ust. 1, jest znaczna ilość środków odurzających, substancji psychotropowych, nowych substancji psychoaktywnych, mleczka makowego lub słomy makowej, sprawca, podlega karze pozbawienia wolności od roku do lat 10.
+
+3. Tej samej karze podlega, kto kradnie z włamaniem środki odurzające, substancje psychotropowe, nowe substancje psychoaktywne, mleczko makowe lub słomę makową. ” ;
+
+- **38)** w art. 70: ust. 2 i 3 otrzymują brzmienie: „
+    - **a)**
+
+2. W razie skazania za przestępstwo określone w art. 62 lub w art. 62b oraz w razie umorzenia lub warunkowego umorzenia postępowania karnego orzeka się przepadek środka odurzającego, substancji psychotropowej lub nowej substancji psychoaktywnej, nawet jeżeli nie były własnością sprawcy. Sąd, orzekając przepadek przedmiotów, może zarządzić ich zniszczenie. Z czynności zniszczenia sporządza się protokół.
+
+3. Przepadku nie orzeka się, jeżeli środek odurzający, substancja psychotropowa lub nowa substancja psychoaktywna są własnością osoby trzeciej, a sprawca uzyskał je w drodze przestępstwa lub wykroczenia albo wszedł w ich posiadanie w sposób rażąco naruszający obowiązki pracownicze albo warunki umowy łączącej go z właścicielem tych środków odurzających, substancji psychotropowych lub nowych substancji psychoaktywnych. ” , ust. 5 otrzymuje brzmienie: „
+
+- **b)**
+
+5. Przepisu ust. 4 nie stosuje się do sprawcy przestępstwa określonego w art. 62 ust. 1 i art. 62b ust. 1, jeżeli jest on osobą uzależnioną. ” ;
+
+- **39)** w art. 70a ust. 1 otrzymuje brzmienie: „
+
+1. Jeżeli zachodzi uzasadnione podejrzenie, że sprawca jest osobą uzależnioną lub używającą szkodliwie substancji psychoaktywnej, sąd, a w postępowaniu przygotowawczym prokurator, zarządza zebranie przez osoby, które na zasadach wskazanych w ustawie uzyskały certyfikat specjalisty psychoterapii uzależnień, informacji na temat używania przez oskarżonego środków odurzających, substancji psychotropowych, nowych substancji psychoaktywnych lub środków zastępczych. ” ;
+
+- **40)** w art. 71 ust. 1 otrzymuje brzmienie: „
+
+1. W razie skazania osoby uzależnionej za przestępstwo pozostające w związku z używaniem środka odurzającego, substancji psychotropowej lub nowej substancji psychoaktywnej na karę pozbawienia wolności, której wykonanie warunkowo zawieszono, sąd zobowiązuje skazanego do poddania się leczeniu lub rehabilitacji w podmiocie leczniczym w rozumieniu przepisów o działalności leczniczej i oddaje go pod dozór wyznaczonej osoby, instytucji lub stowarzyszenia. ” ;
+
+- **41)** w art. 72 ust. 1 otrzymuje brzmienie: „
+
+1. Jeżeli osoba uzależniona lub używająca szkodliwie substancji psychoaktywnej, której zarzucono popełnienie przestępstwa pozostającego w związku z używaniem środka odurzającego, substancji psychotropowej lub nowej substancji psychoaktywnej, zagrożonego karą pozbawienia wolności nieprzekraczającą 5 lat, podda się leczeniu, rehabilitacji lub udziałowi w programie edukacyjno-profilaktycznym prowadzonym przez podmiot leczniczy lub inny podmiot działający w ochronie zdrowia, prokurator może zawiesić postępowanie do czasu zakończenia leczenia, rehabilitacji lub udziału w programie. ” ;
+
+- **42)** w art. 73a: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Jeżeli przemawiają za tym względy lecznicze i wychowawcze, skazanemu uzależnionemu od środków odurzających, substancji psychotropowych lub nowych substancji psychoaktywnych, odbywającemu karę pozbawienia wolności za przestępstwo popełnione w związku z używaniem takich środków lub substancji można udzielić przerwy w wykonaniu kary pozbawienia wolności, o której mowa w art. 153 § 1 Kodeksu karnego wykonawczego, w celu podjęcia leczenia lub rehabilitacji. ” , ust. 3 otrzymuje brzmienie: „
+
+- **b)**
+
+3. Sąd penitencjarny odmawia udzielenia przerwy w wykonaniu kary pozbawienia wolności za przestępstwo popełnione w związku z używaniem środków odurzających, substancji psychotropowych lub nowych substancji psychoaktywnych, jeżeli skazany nie wyraził wcześniej zgody na objęcie go stosownym leczeniem lub rehabilitacją, o których mowa w art. 117 Kodeksu karnego wykonawczego. ” ;
+
+- **43)** uchyla się załączniki nr 1 i 2 do ustawy.
+
+**Art. 2.** W ustawie z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2017 r. poz. 1261 i 2111 oraz z 2018 r. poz. 138 i 650) w art. 4 w ust. 2 po pkt 1 dodaje się pkt 1a w brzmieniu: „
+
+- **1a)** kontrola przestrzegania przepisów ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2018 r. poz. 1030 i 1490), dotyczących prowadzenia przez przedsiębiorców działalności w zakresie wytwarzania, przetwarzania, przerabiania, przywozu, wywozu, wewnątrzwspólnotowej dostawy lub wewnątrzwspólnotowego nabycia oraz wprowadzania do obrotu nowej substancji psychoaktywnej, w tym w postaci mieszaniny lub w wyrobie; ” .
 
 **Art. 3.** Certyfikat specjalisty terapii uzależnień, wydany na podstawie art. 27 ustawy zmienianej w art. 1, staje się certyfikatem specjalisty psychoterapii uzależnień, o którym mowa w art. 27 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
@@ -226,6 +529,9 @@ source: "isap-pdf"
 **Art. 8.** Główny Inspektor Sanitarny sporządza po raz pierwszy raport, o którym mowa w art. 30a ust. 6 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, za rok 2019.
 
 **Art. 9.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
+
+- **1)** art. 24a ust. 3, art. 24b ust. 3 oraz art. 27 ust. 13 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 24a ust. 3, art. 24b ust. 3 oraz art. 27 ust. 13 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą,
+- **2)** art. 44c ust. 13 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 44c ust. 13 ustawy zmienianej w art. 1 jednak nie dłużej niż do dnia 1 maja 2019 r.
 
 **Art. 10.**
 

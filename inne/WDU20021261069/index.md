@@ -8,12 +8,10 @@ pos: 1069
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej
-
-*USTAWA z dnia 5 lipca 2002 r.*
+# Ustawa z dnia 5 lipca 2002 r. o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,21 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2002-07-05 |
 | Data wydania | 2002-08-09 |
+| Wejście w życie | 2003-02-10 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021261069) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1069/text.pdf) |
 
-### DZIAŁ I Przepisy ogólne
+Treść ustawy Dział I – Przepisy ogólne Dział II – Wykonywanie stałej praktyki Rozdział 1 – Przepisy wspólne Rozdział 2 – Wykonywanie stałej praktyki przez prawników z Unii Europejskiej Rozdział 3 – Wykonywanie stałej praktyki przez prawników spoza Unii Europejskiej Dział III – Wpis na listę adwokatów lub listę radców prawnych prawnika z Unii Europejskiej lub obywatela państwa członkowskiego Unii Europejskiej posiadającego kwalifikacje zawodowe wymagane do wykonywania zawodu przy użyciu jednego z tytułów, o których mowa w art. 2 pkt 2 Dział IV – Świadczenie usług transgranicznych Rozdział 1 – Świadczenie usług transgranicznych przez prawników z Unii Europejskiej Rozdział 2 – Świadczenie usług transgranicznych przez prawników spoza Unii Europejskiej Dział V – Zmiany w przepisach obowiązujących, przepisy przejściowe i przepisy końcowe Rozdział 1 – Zmiany w przepisach obowiązujących Rozdział 2 – Przepisy przejściowe i końcowe
+Załącznik – Wykaz tytułów zawodowych uzyskanych w państwach członkowskich Unii Europejskiej odpowiadających zawodowi adwokata lub radcy prawnego
+3.
+1)
+dwa przedmioty wybrane przez kandydata z listy, o której mowa w ust. 2, z tym że kandydat może wybrać tylko te przedmioty, z których nie opracowywał tematu w części pisemnej testu umiejętności,
+2)
+zasady organizacji i działania samorządu zawodowego, warunki wykonywania zawodu i zasady etyki zawodowej.
+4.
+Warunkiem dopuszczenia do części ustnej testu umiejętności jest uzyskanie przez kandydata pozytywnej oceny z co najmniej jednego przedmiotu w części pisemnej. W przypadku uzyskania negatywnej oceny z obu przedmiotów w części pisemnej, cały test uważa się za niezdany.
+
+### Dział I Przepisy ogólne
 
 **Art. 1.**
 
@@ -37,9 +46,14 @@ source: "isap-pdf"
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
-**Art. 2a.** Przepisy ustawy dotyczące prawników z Unii Europejskiej stosuje się odpowiednio także do osób, które:
+- **1)** prawnik zagraniczny – prawnika z Unii Europejskiej i prawnika spoza Unii Europejskiej,
+- **2)** prawnik z Unii Europejskiej – osobę będącą obywatelem państwa członkowskiego Unii Europejskiej, uprawnioną do wykonywania zawodu przy użyciu jednego z tytułów zawodowych uzyskanych w państwie członkowskim Unii Europejskiej, określonych w wykazie stanowiącym załącznik do ustawy,
+- **3)** prawnik spoza Unii Europejskiej – osobę niebędącą obywatelem państwa członkowskiego Unii Europejskiej, uprawnioną do wykonywania zawodu przy użyciu jednego z tytułów zawodowych, o których mowa w pkt 2, a także każdą osobę, która przy użyciu tytułu zawodowego uzyskanego w państwie niebędącym członkiem Unii Europejskiej jest uprawniona do wykonywania zawodu odpowiadającego – pod względem wykształcenia i uprawnień oraz podstawowych zasad jego organizacji i wykonywania – zawodowi adwokata lub radcy prawnego,
+- **4)** usługa transgraniczna – jednorazową lub mającą charakter przejściowy czynność z zakresu pomocy prawnej, wykonywaną w Rzeczypospolitej Polskiej przez prawnika zagranicznego wykonującego stałą praktykę w innym państwie,
+- **5)** stała praktyka – stałe i systematyczne świadczenie pomocy prawnej przez prawnika zagranicznego w Rzeczypospolitej Polskiej,
+- **6)** państwo macierzyste – państwo, w którym prawnik zagraniczny uzyskał prawo do używania jednego z tytułów zawodowych, o których mowa w pkt 2 i 3.
 
-### DZIAŁ II Wykonywanie stałej praktyki
+### Dział II Wykonywanie stałej praktyki
 
 #### Rozdział 1 Przepisy wspólne
 
@@ -51,7 +65,7 @@ source: "isap-pdf"
 
 2. Na listę prowadzoną przez rady okręgowych izb radców prawnych wpisuje się prawników z Unii Europejskiej zamierzających świadczyć pomoc prawną w zakresie odpowiadającym zawodowi radcy prawnego oraz prawników spoza Unii Europejskiej, których tytuł zawodowy uprawnia do wykonywania zawodu odpowiadającego zawodowi radcy prawnego.
 
-3. (uchylony)
+3. Okręgowe rady adwokackie i rady okręgowych izb radców prawnych corocznie do dnia 31 marca przesyłają odpisy prowadzonej przez siebie listy właściwym prezesom sądów apelacyjnych, okręgowych i administracyjnych oraz właściwym prokuratorom apelacyjnym i okręgowym. Okręgowe rady adwokackie przesyłają ponadto odpis listy Naczelnej Radzie Adwokackiej, a rady okręgowych izb radców prawnych – Krajowej Radzie Radców Prawnych. Zawiadamiają także o zmianach na tych listach w terminie 14 dni od dokonania tych zmian.
 
 **Art. 5.**
 
@@ -69,18 +83,16 @@ source: "isap-pdf"
 
 3. Do wniosku o wpis należy załączyć:
 
-- **1)** zaświadczenie wystawione przez właściwy organ państwa macierzystego, stwierdzające, że osoba ubiegająca się o wpis jest zarejestrowana w tym państwie jako uprawniona do wykonywania zawodu przy użyciu jednego z tytułów zawodowych, o których mowa w art. 2 pkt 2 lub 3; organ, do którego składa się wniosek, może odmówić przyjęcia zaświadczenia, jeżeli od daty jego wystawienia upłynął okres dłuższy niż trzy miesiące;
+- **1)** zaświadczenie wystawione przez właściwy organ państwa macierzystego, stwierdzające, że osoba ubiegająca się o wpis jest zarejestrowana w tym państwie jako uprawniona do wykonywania zawodu przy użyciu jednego z tytułów zawodowych, o których mowa w art. 2 pkt 2 lub 3; organ, do którego składa się wniosek, może odmówić przyjęcia zaświadczenia, jeżeli od daty jego wystawienia upłynął okres dłuższy niż trzy miesiące,
 - **2)** dokument potwierdzający obywatelstwo osoby ubiegającej się o wpis.
 
-4. Wniosek o wpis sporządza się w języku polskim. Pozostałe dokumenty, z wyjątkiem dokumentu, o którym mowa w ust. 3 pkt 2, jeżeli nie są sporządzone w języku polskim, przedkłada się wraz z tłumaczeniem na język polski, poświadczonym przez tłumacza przysięgłego.
+4. Wniosek o wpis powinien być sporządzony w języku polskim. Pozostałe dokumenty, o ile nie są sporządzone w tym języku, należy przedłożyć wraz z tłumaczeniem na język polski, poświadczonym przez tłumacza przysięgłego.
 
 **Art. 7.**
 
 1. O wpisie na listę, a także o skreśleniu z listy decyduje okręgowa rada adwokacka lub rada okręgowej izby radców prawnych. Odmowa wpisu może nastąpić tylko wtedy, gdy zainteresowany nie spełnia wymogów określonych w ustawie.
 
-2. Do postępowania i uchwał podejmowanych przez okręgową radę adwokacką w przedmiocie wpisu na listę lub skreślenia z niej stosuje się odpowiednio art. 12, art. 46, art. 68, art. 69 i art. 69a oraz przepisy działu VI ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2019 r. poz. 1513, 1673 i
-
-- **2020)** . Do postępowań i uchwał podejmowanych przez radę okręgową izby radców prawnych w przedmiocie wpisu na listę lub skreślenia z niej stosuje się odpowiednio przepisy art. 29, art. 29 , art. 31, art. 31 i art. 31 ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2020 r. poz. 75).
+2. Do postępowania i uchwał podejmowanych przez okręgową radę adwokacką w przedmiocie wpisu na listę lub skreślenia z niej stosuje się odpowiednio przepisy art. 12, 46, 47, 69 oraz przepisy działu VI ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2002 r. Nr 123, poz. 1058). Do postępowania i uchwał podejmowanych przez radę okręgowej izby radców prawnych w przedmiocie wpisu na listę lub skreślenia z niej stosuje się odpowiednio przepisy art. 24 ust. 2, art. 29, 31 i 311 ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2002 r. Nr 123, poz. 1059).
 
 3. Skreślenie z listy, niezależnie od przyczyn określonych w przepisach wymienionych w ust. 2, następuje także wtedy, gdy prawnik zagraniczny utracił na stałe lub czasowo w państwie macierzystym uprawnienie do wykonywania zawodu, o którym mowa w art. 2 pkt 2 lub 3, albo gdy został wpisany na listę adwokatów lub na listę radców prawnych.
 
@@ -88,7 +100,7 @@ source: "isap-pdf"
 
 5. Okręgowa rada adwokacka i rada okręgowej izby radców prawnych niezwłocznie zawiadamiają właściwy organ w państwie macierzystym prawnika zagranicznego o dokonaniu wpisu tego prawnika na listę, o odmowie jego dokonania oraz o skreśleniu go z listy.
 
-**Art. 8.** Przy wykonywaniu stałej praktyki prawnik zagraniczny wpisany na listę używa tytułu zawodowego uzyskanego w państwie macierzystym, wyrażonego w języku urzędowym tego państwa, ze wskazaniem organizacji zawodowej w państwie macierzystym, do której należy, albo sądu, przed którym ma prawo występować zgodnie z prawem tego państwa, oraz informacją, czy prawnik zagraniczny wykonuje stałą praktykę w zakresie odpowiadającym zawodowi adwokata, czy zawodowi radcy prawnego. W tym celu należy wskazać listę, na którą prawnik zagraniczny jest wpisany, z podaniem prowadzącego ją organu.
+**Art. 8.** Przy wykonywaniu stałej praktyki prawnik zagraniczny wpisany na listę używa tytułu zawodowego uzyskanego w państwie macierzystym, wyrażonego w języku urzędowym tego państwa, ze wskazaniem organizacji zawodowej w państwie macierzystym, do której należy, albo sądu, przed którym ma prawo występować zgodnie z prawem tego państwa, oraz informacją, czy prawnik zagraniczny wykonuje stałą praktykę w zakresie odpowiadającym zawodowi adwokata czy zawodowi radcy prawnego. W tym celu należy wskazać listę, na którą prawnik zagraniczny jest wpisany, z podaniem prowadzącego ją organu.
 
 **Art. 9.**
 
@@ -104,13 +116,13 @@ source: "isap-pdf"
 
 3. Sąd dyscyplinarny doręcza niezwłocznie właściwemu organowi w państwie macierzystym prawnika zagranicznego odpisy:
 
-- **1)** aktu oskarżenia lub wniosku uprawnionego rzecznika dyscyplinarnego o wszczęcie postępowania dyscyplinarnego, wraz z powiadomieniem o uprawnieniach wynikających z ust. 4;
-- **2)** orzeczeń i postanowień wydanych w toku postępowania dyscyplinarnego;
+- **1)** aktu oskarżenia lub wniosku uprawnionego rzecznika dyscyplinarnego o wszczęcie postępowania dyscyplinarnego, wraz z powiadomieniem o uprawnieniach wynikających z ust. 4,
+- **2)** orzeczeń i postanowień wydanych w toku postępowania dyscyplinarnego,
 - **3)** środków odwoławczych.
 
 4. Organ, o którym mowa w ust. 3, na każdym etapie postępowania dyscyplinarnego może przedstawiać sądowi dyscyplinarnemu swoje stanowisko w sprawie, a jego przedstawiciel może brać udział w rozprawie także wówczas, gdy prowadzona jest z wyłączeniem jawności.
 
-5. W przypadkach, o których mowa w art. 85 ust. 1 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze i w art. 66 ust. 1 ustawy z dnia 6 lipca 1982 r. o radcach prawnych, dziekan rady adwokackiej, który wymierzył prawnikowi zagranicznemu karę upomnienia lub dziekan rady okręgowej izby radców prawnych, który udzielił ostrzeżenia, doręcza organowi, o którym mowa w ust. 3, odpis zawiadomienia o wymierzeniu kary upomnienia lub udzieleniu ostrzeżenia oraz odpis odwołania, jeżeli zostało wniesione.
+5. W przypadkach, o których mowa w art. 85 ust. 1 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze i w art. 66 ust. 1 ustawy z dnia 6 lipca 1982 r. o radcach prawnych, dziekan rady adwokackiej, który wymierzył prawnikowi zagranicznemu karę upomnienia, lub dziekan rady okręgowej izby radców prawnych, który udzielił ostrzeżenia, doręcza organowi, o którym mowa w ust. 3, odpis zawiadomienia o wymierzeniu kary upomnienia lub udzieleniu ostrzeżenia oraz odpis odwołania, jeżeli zostało wniesione.
 
 **Art. 11.**
 
@@ -120,7 +132,7 @@ source: "isap-pdf"
 
 3. Dowód ubezpieczenia lub gwarancji, o których mowa w ust. 2, prawnik zagraniczny obowiązany jest przedstawiać co roku organowi prowadzącemu listę, na którą jest wpisany. Do przedkładanych dokumentów, jeżeli nie są sporządzone w języku polskim, należy załączyć ich tłumaczenie na język polski, poświadczone przez tłumacza przysięgłego.
 
-**Art. 12.** (uchylony)
+**Art. 12.** Prawnik zagraniczny jest obowiązany przedstawiać co roku organowi prowadzącemu listę, na którą jest wpisany, zaświadczenie wystawione przez właściwy organ państwa macierzystego stwierdzające, że jest on zarejestrowany w tym państwie jako osoba uprawniona do wykonywania zawodu przy użyciu jednego z tytułów, o których mowa w art. 2 pkt 2 lub 3.
 
 #### Rozdział 2 Wykonywanie stałej praktyki przez prawników z Unii Europejskiej
 
@@ -134,11 +146,13 @@ source: "isap-pdf"
 
 **Art. 15.**
 
-1. Prawnik z Unii Europejskiej wpisany na listę prowadzoną przez okręgową radę adwokacką może wykonywać stałą praktykę w kancelarii indywidualnej, w zespole adwokackim, spółce jawnej, spółce cywilnej, spółce komandytowo-akcyjnej, spółce komandytowej lub spółce partnerskiej.
+1. Prawnik z Unii Europejskiej wpisany na listę prowadzoną przez okręgową radę adwokacką może wykonywać stałą praktykę w kancelarii indywidualnej, w zespole adwokackim, spółce jawnej, spółce cywilnej, spółce komandytowej lub spółce partnerskiej.
 
-2. Prawnik z Unii Europejskiej wpisany na listę prowadzoną przez radę okręgowej izby radców prawnych może wykonywać stałą praktykę w ramach stosunku pracy, na podstawie umowy cywilnoprawnej, w kancelarii indywidualnej, spółce jawnej, spółce cywilnej, spółce komandytowo-akcyjnej, spółce komandytowej lub spółce partnerskiej.
+2. Prawnik z Unii Europejskiej wpisany na listę prowadzoną przez radę okręgowej izby radców prawnych może wykonywać stałą praktykę w ramach stosunku pracy, na podstawie umowy cywilnoprawnej, w kancelarii indywidualnej, spółce jawnej, spółce cywilnej, spółce komandytowej lub spółce partnerskiej.
 
-3. Wyłącznym przedmiotem działalności spółek, o których mowa w ust. 1 i 2, może być świadczenie pomocy prawnej. Wspólnikami w spółkach: cywilnej i partnerskiej mogą być wyłącznie prawnicy z Unii Europejskiej, adwokaci lub radcowie prawni, doradcy podatkowi lub rzecznicy patentowi, a wspólnikami w spółce jawnej oraz komplementariuszami w spółce komandytowo-akcyjnej lub spółce komandytowej mogą być ponadto prawnicy spoza Unii Europejskiej.
+3. Prawnik z Unii Europejskiej wpisany na listę prowadzoną przez radę okręgowej izby radców prawnych może świadczyć pomoc prawną osobom fizycznym tylko w ramach wykonywania stałej praktyki w kancelarii indywidualnej lub w spółkach, o których mowa w ust. 2, bez jednoczesnego pozostawania w stosunku pracy.
+
+4. Wyłącznym przedmiotem działalności spółek, o których mowa w ust. 1 i 2, może być świadczenie pomocy prawnej. Wspólnikami w spółkach: cywilnej i partnerskiej mogą być wyłącznie prawnicy z Unii Europejskiej, adwokaci lub radcowie prawni, a wspólnikami w spółce jawnej oraz komplementariuszami w spółce komandytowej mogą być ponadto prawnicy spoza Unii Europejskiej.
 
 **Art. 16.**
 
@@ -162,15 +176,23 @@ source: "isap-pdf"
 
 **Art. 19.** W celu wykonywania stałej praktyki prawnicy spoza Unii Europejskiej mogą tworzyć:
 
+- **1)** spółki jawne, w których wspólnikami są wyłącznie: prawnicy zagraniczni lub adwokaci, lub radcowie prawni, albo
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** spółki komandytowe, w których komplementariuszami są wyłącznie: prawnicy zagraniczni lub adwokaci, lub radcowie prawni.
+    - **a)**
+    - **b)**
+    - **c)**
+
 **Art. 20.**
 
 1. Przy wykonywaniu stałej praktyki prawnik spoza Unii Europejskiej, w zależności od tego, na którą listę jest wpisany, podlega warunkom wykonywania zawodu i zasadom etyki zawodowej, jakie obowiązują adwokatów lub jakie obowiązują radców prawnych.
 
-2. Prawnik spoza Unii Europejskiej jest obowiązany uiszczać na rzecz okręgowej rady adwokackiej lub rady okręgowej izby radców prawnych, prowadzącej listę, na którą jest wpisany, składkę w wysokości połowy składki członkowskiej obowiązującej odpowiednio adwokatów lub radców prawnych.
+2. Prawnik spoza Unii Europejskiej jest obowiązany uiszczać na rzecz okręgowej rady adwokackiej lub rady okręgowej izby radców prawnych, prowadzącej listę, na którą jest wpisany, składkę w wysokości potowy składki członkowskiej obowiązującej odpowiednio adwokatów lub radców prawnych.
 
-**Art. 20a.** Prawnik spoza Unii Europejskiej jest obowiązany przedstawić co roku organowi prowadzącemu listę, na którą jest wpisany, zaświadczenie wystawione przez właściwy organ państwa macierzystego stwierdzające, że jest on zarejestrowany w tym państwie jako osoba uprawniona do wykonywania zawodu przy użyciu jednego z tytułów, o których mowa w art. 2 pkt 3.
-
-### DZIAŁ III Wpis na listę adwokatów lub listę radców prawnych prawnika z Unii Europejskiej lub obywatela państwa członkowskiego Unii Europejskiej posiadającego kwalifikacje zawodowe wymagane do wykonywania zawodu przy użyciu jednego z tytułów, o których mowa w art. 2 pkt 2
+### Dział III Wpis na listę adwokatów lub listę radców prawnych prawnika z Unii Europejskiej lub obywatela państwa członkowskiego Unii Europejskiej posiadającego kwalifikacje zawodowe wymagane do wykonywania zawodu przy użyciu jednego z tytułów, o których mowa w art. 2 pkt 2
 
 **Art. 21.** W zakresie nieuregulowanym przepisami niniejszego działu, do postępowania w przedmiocie wpisu na listę adwokatów lub listę radców prawnych prawnika z Unii Europejskiej lub obywatela państwa członkowskiego Unii Europejskiej, posiadającego kwalifikacje zawodowe wymagane do wykonywania zawodu przy użyciu jednego z tytułów, o których mowa w art. 2 pkt 2, stosuje się przepisy ustawy – Prawo o adwokaturze lub przepisy ustawy o radcach prawnych.
 
@@ -178,8 +200,8 @@ source: "isap-pdf"
 
 1. Prawnik z Unii Europejskiej lub obywatel państwa członkowskiego Unii Europejskiej, posiadający kwalifikacje zawodowe wymagane do wykonywania zawodu przy użyciu jednego z tytułów, o których mowa w art. 2 pkt 2, może być wpisany na listę adwokatów lub listę radców prawnych, jeżeli:
 
-- **1)** spełnia warunki określone w art. 65 pkt 1 i 2 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze lub w art. 24 ust. 1 pkt 3, 4 i 5 ustawy z dnia 6 lipca 1982 r. o radcach prawnych;
-- **2)** włada językiem polskim w mowie i w piśmie;
+- **1)** spełnia warunki określone w art. 65 pkt 1 i 2 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze lub w art. 24 ust. 1 pkt 3, 4 i 5 ustawy z dnia 6 lipca 1982 r. o radcach prawnych,
+- **2)** włada językiem polskim w mowie i w piśmie,
 - **3)** zda test umiejętności.
 
 2. Jeżeli kwalifikacje zawodowe prawnika z Unii Europejskiej lub obywatela państwa członkowskiego Unii Europejskiej, o którym mowa w ust. 1, zostały uzyskane w wyniku kształcenia, które w całości lub w przeważającej części miało miejsce poza terytorium państw członkowskich Unii Europejskiej, do wpisu na listę adwokatów lub listę radców prawnych wymagane jest ponadto co najmniej trzyletnie wykonywanie zawodu przy użyciu jednego z tytułów, o których mowa w art. 2 pkt 2, potwierdzone przez właściwy organ państwa członkowskiego Unii Europejskiej, które uznało te kwalifikacje.
@@ -188,48 +210,35 @@ source: "isap-pdf"
 
 1. Do wniosku o wpis na listę adwokatów lub listę radców prawnych należy załączyć:
 
-- **1)** dokument potwierdzający, że kandydat jest obywatelem państwa członkowskiego Unii Europejskiej;
-- **2)** zaświadczenie wystawione przez właściwy organ państwa członkowskiego Unii Europejskiej stwierdzające, że kandydat posiada kwalifikacje zawodowe wymagane w tym państwie do wykonywania zawodu przy użyciu jednego z tytułów, o których mowa w art. 2 pkt 2, albo stwierdzające, że kandydat jest zarejestrowany w tym państwie jako osoba uprawniona do wykonywania zawodu przy użyciu jednego z tytułów, o których mowa w art. 2 pkt 2; organ, do którego składa się wniosek o wpis, może odmówić przyjęcia zaświadczenia, jeżeli od daty jego wystawienia upłynął okres dłuższy niż trzy miesiące;
+- **1)** dokument potwierdzający, że kandydat jest obywatelem państwa członkowskiego Unii Europejskiej,
+- **2)** zaświadczenie wystawione przez właściwy organ państwa członkowskiego Unii Europejskiej stwierdzające, że kandydat posiada kwalifikacje zawodowe wymagane w tym państwie do wykonywania zawodu przy użyciu jednego z tytułów, o których mowa w art. 2 pkt 2, albo stwierdzające, że kandydat jest zarejestrowany w tym państwie jako osoba uprawniona do wykonywania zawodu przy użyciu jednego z tytułów, o których mowa w art. 2 pkt 2; organ, do którego składa się wniosek o wpis, może odmówić przyjęcia zaświadczenia, jeżeli od daty jego wystawienia upłynął okres dłuższy niż trzy miesiące,
 - **3)** w przypadku, o którym mowa w art. 22 ust. 2 – zaświadczenie wystawione przez właściwy organ państwa członkowskiego Unii Europejskiej potwierdzające, że przez co najmniej trzy lata kandydat wykonywał w tym państwie zawód przy użyciu jednego z tytułów, o których mowa w art. 2 pkt 2.
 
-2. Wniosek o wpis sporządza się w języku polskim. Załączone dokumenty, z wyjątkiem dokumentu, o którym mowa w ust. 1 pkt 1, jeżeli nie są sporządzone w języku polskim, przedkłada się wraz z tłumaczeniem na język polski, poświadczonym przez tłumacza przysięgłego.
-
-2a. Właściwa okręgowa rada adwokacka lub rada okręgowej izby radców prawnych potwierdzają otrzymanie wniosku w terminie miesiąca od dnia jego otrzymania oraz zawiadamiają wnioskodawcę, w stosownym przypadku, o konieczności dostarczenia brakujących dokumentów. Przepis art. 64 § 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2020 r. poz. 256) stosuje się.
+2. Wniosek o wpis powinien być sporządzony w języku polskim. Załączone dokumenty, jeżeli nie są sporządzone w tym języku, należy przedłożyć wraz z tłumaczeniem na język polski, poświadczonym przez tłumacza przysięgłego.
 
 3. Wniosek o wpis powinien być rozpatrzony w terminie czterech miesięcy od jego złożenia, łącznie ze wszystkimi wymaganymi załącznikami, a w przypadku, o którym mowa w art. 30 ust. 2 – niezwłocznie po ustaleniu wyniku powtórzonego testu umiejętności.
 
 **Art. 24.** Okręgowa rada adwokacka, właściwa do podjęcia uchwały w sprawie wpisu na listę adwokatów, lub rada okręgowej izby radców prawnych, właściwa do podjęcia uchwały w sprawie wpisu na listę radców prawnych, może zwrócić się do właściwej organizacji zawodowej lub innego właściwego organu w państwie, z którego pochodzi kandydat, w celu sprawdzenia, czy kandydat spełnia warunki, o których mowa w art. 22 ust. 1 pkt 1.
 
-**Art. 25.** Test umiejętności ogranicza się do sprawdzenia poziomu wiedzy zawodowej kandydata w celu oceny jego zdolności do wykonywania zawodu adwokata lub zawodu radcy prawnego, w porównaniu do wymagań stawianych adwokatom lub radcom prawnym wykonującym zawody na terytorium Rzeczypospolitej Polskiej.
+**Art. 25.** Test umiejętności dotyczy wiedzy zawodowej kandydata i ma na celu ocenę jego zdolności do wykonywania zawodu adwokata lub zawodu radcy prawnego, w nawiązaniu do wymagań stawianych adwokatom i radcom prawnym wykonującym zawód na terytorium Rzeczypospolitej Polskiej. Ocena musi brać pod uwagę, że kandydat posiada już kwalifikacje zawodowe wymagane w państwie członkowskim Unii Europejskiej do wykonywania zawodu przy użyciu jednego z tytułów, o których mowa w art. 2 pkt 2.
 
 **Art. 26.**
 
-1. Test umiejętności dla kandydatów, którzy ubiegają się o wpis na listę adwokatów, przeprowadzają komisje egzaminacyjne, o których mowa w art. 75a ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze, a dla kandydatów, którzy ubiegają się o wpis na listę radców prawnych – komisje egzaminacyjne, o których mowa w art. 33 ustawy z dnia 6 lipca 1982 r. o radcach prawnych.
+1. Test umiejętności dla kandydatów, którzy ubiegają się o wpis na listę adwokatów, przeprowadza okręgowa rada adwokacka, a dla kandydatów, którzy ubiegają się o wpis na listę radców prawnych – rada okręgowej izby radców prawnych, w okręgu której kandydat zamierza uzyskać wpis na listę.
 
-1a. W celu przeprowadzenia testu umiejętności, komisje egzaminacyjne sporządzają listę zagadnień ustaloną w wyniku porównania zakresu kształcenia wymaganego w Rzeczypospolitej Polskiej z zakresem kształcenia odbytego przez kandydata, których nie obejmuje posiadany przez niego dyplom lub inny dokument potwierdzający posiadanie kwalifikacji zawodowych. Test umiejętności obejmuje zagadnienia niezbędne do wykonywania zawodów adwokata lub radcy prawnego w Rzeczypospolitej Polskiej, których znajomości kandydat nie wykazał. Wyboru zagadnień dokonuje się z uwzględnieniem posiadanych przez kandydata kwalifikacji zawodowych wymaganych w państwie członkowskim Unii Europejskiej do wykonywania zawodu przy użyciu jednego z tytułów, o których mowa w art. 2 pkt 2.
+2. Regulamin przeprowadzania testu umiejętności dla kandydatów ubiegających się o wpis na listę adwokatów uchwala Naczelna Rada Adwokacka, a dla kandydatów ubiegających się o wpis na listę radców prawnych – Krajowa Rada Radców Prawnych.
 
-2. Minister Sprawiedliwości, w drodze rozporządzenia, ustala regulamin przeprowadzania testu umiejętności dla kandydatów ubiegających się o wpis na listę adwokatów albo radców prawnych, mając na względzie potrzebę określenia:
-
-- **1)** właściwości terytorialnej komisji egzaminacyjnych,
-- **2)** sposobu zorganizowania obsługi administracyjnej i technicznej komisji egzaminacyjnych,
-- **3)** sposobu ustalania i ogłaszania terminów testów umiejętności,
-- **4)** warunków i sposobu przeprowadzania części pisemnej i części ustnej testu umiejętności, w szczególności:
-    - **a)** zakresu przedmiotowego testu umiejętności,
-    - **b)** czasu trwania testu umiejętności,
-    - **c)** sposobu oceniania poszczególnych części testu umiejętności,
-    - **d)** sposobu dokumentowania przebiegu testu umiejętności – uwzględniając konieczność prawidłowego, terminowego i efektywnego przeprowadzenia testu umiejętności oraz zapewnienia zachowania bezstronności pracy komisji egzaminacyjnych.
-
-**Art. 27.** (uchylony)
+**Art. 27.** Test umiejętności zdaje się przed komisją. Skład komisji, sposób powoływania jej członków oraz postępowanie komisji określają regulaminy, o których mowa w art. 26 ust. 2. W skład komisji wchodzi również przedstawiciel Ministra Sprawiedliwości.
 
 **Art. 28.**
 
 1. Test umiejętności przeprowadzany jest w języku polskim i składa się z części pisemnej oraz ustnej.
 
-2. Część pisemna obejmuje opracowanie tematów, których nie obejmuje posiadany przez wnioskodawcę dyplom lub inny dokument potwierdzający posiadanie kwalifikacji zawodowych, ustalonych w wyniku porównania zakresu kształcenia wymaganego w Rzeczypospolitej Polskiej z zakresem kształcenia odbytego przez kandydata.
+2.
 
-3. Część ustna obejmuje zagadnienia dotyczące zasad organizacji i działania samorządu zawodowego, warunków wykonywania zawodu i zasad etyki zawodowej.
+## Część pisemna obejmuje opracowanie dwóch tematów: z prawa cywilnego oraz z drugiego przedmiotu wybranego przez kandydata. Sposób opracowania tematu oraz listę przedmiotów, z których kandydat dokonuje wyboru drugiego przedmiotu, określają regulaminy, o których mowa w art. 26 ust. 2.
 
-4. Warunkiem dopuszczenia do części ustnej testu umiejętności jest uzyskanie przez kandydata pozytywnej oceny z co najmniej jednego przedmiotu w części pisemnej. W przypadku uzyskania negatywnej oceny z obu przedmiotów w części pisemnej, cały test uważa się za niezdany.
+## Część ustna obejmuje:
 
 **Art. 29.**
 
@@ -269,23 +278,14 @@ source: "isap-pdf"
 
 2. Od uchwały odmawiającej zwolnienia z testu umiejętności prawnikowi z Unii Europejskiej przysługuje odwołanie:
 
-- **1)** od uchwały okręgowej rady adwokackiej – do Naczelnej Rady Adwokackiej;
+- **1)** od uchwały okręgowej rady adwokackiej – do Naczelnej Rady Adwokackiej,
 - **2)** od uchwały rady okręgowej izby radców prawnych – do Krajowej Rady Radców Prawnych.
 
 3. Termin do wniesienia odwołania wynosi 30 dni od dnia doręczenia odpisu uchwały.
 
 **Art. 34.** Prawnik z Unii Europejskiej, wpisany na listę adwokatów lub na listę radców prawnych, jest uprawniony do używania – obok tytułu adwokata lub tytułu radcy prawnego – tytułu zawodowego uzyskanego w państwie macierzystym, wyrażonego w języku urzędowym tego państwa.
 
-**Art. 34a.**
-
-1. Przepisy ustawy dotyczące obywateli państw członkowskich Unii Europejskiej posiadających kwalifikacje zawodowe wymagane do wykonywania zawodu przy użyciu jednego z tytułów, o których mowa w art. 2 pkt 2, stosuje się odpowiednio także do:
-
-- **1)** obywateli państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, posiadających kwalifikacje zawodowe wymagane do wykonywania zawodu przy użyciu jednego z tytułów określonych w wykazach stanowiących załączniki nr 1 i 2 do ustawy;
-- **2)** obywateli państw członkowskich Unii Europejskiej posiadających kwalifikacje zawodowe wymagane do wykonywania zawodu przy użyciu jednego z tytułów określonych w wykazie stanowiącym załącznik nr 2 do ustawy.
-
-2. Przepisy działu III stosuje się odpowiednio do osób, o których mowa w art. 2 ust. 1 pkt 3–9 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2020 r. poz. 220).
-
-### DZIAŁ IV Świadczenie usług transgranicznych
+### Dział IV Świadczenie usług transgranicznych
 
 #### Rozdział 1 Świadczenie usług transgranicznych przez prawników z Unii Europejskiej
 
@@ -293,7 +293,7 @@ source: "isap-pdf"
 
 1. Prawnik z Unii Europejskiej jest uprawniony do świadczenia usług transgranicznych przy użyciu tytułu zawodowego uzyskanego w państwie macierzystym, wyrażonego w języku urzędowym tego państwa, z oznaczeniem organizacji zawodowej w państwie macierzystym, do której należy, albo sądu, przed którym ma prawo występować zgodnie z prawem tego państwa.
 
-2. W ramach uprawnienia, o którym mowa w ust. 1, prawnik z Unii Europejskiej może wykonywać wszelkie czynności, do których uprawniony jest adwokat lub radca prawny.
+2. W ramach uprawnienia, o którym mowa w ust. 1, prawnik z Unii Europejskiej może wykonywać wszelkie czynności, do których uprawniony jest adwokat lub racica prawny.
 
 **Art. 36.**
 
@@ -319,8 +319,6 @@ source: "isap-pdf"
 
 2. W razie niewskazania osoby upoważnionej do odbioru pism w Rzeczypospolitej Polskiej, pismo przeznaczone dla prawnika z Unii Europejskiej doręcza się reprezentowanej przez niego stronie, jeżeli ma ona miejsce zamieszkania lub siedzibę w Rzeczypospolitej Polskiej. W pozostałych przypadkach pismo pozostawia się w aktach sprawy ze skutkiem doręczenia. Organ prowadzący postępowanie ma obowiązek pouczyć o tym prawnika z Unii Europejskiej przy pierwszym doręczeniu.
 
-3. Przepisów ust. 1 i 2 nie stosuje się w postępowaniach, w których do doręczeń pism przeznaczonych dla prawnika z Unii Europejskiej ma zastosowanie rozporządzenie (WE) nr 1393/2007 Parlamentu Europejskiego i Rady z dnia 13 listopada 2007 r. dotyczące doręczania w państwach członkowskich dokumentów sądowych i pozasądowych w sprawach cywilnych i handlowych („doręczanie dokumentów”) oraz uchylające rozporządzenie Rady (WE) nr 1348/2000 (Dz. Urz. UE L 324 z 10.12.2007, str. 79).
-
 **Art. 40.**
 
 1. Prawnik z Unii Europejskiej obowiązany jest przy pierwszej czynności w postępowaniu sądowym dołączyć do akt sprawy dokument stwierdzający, że jest on zarejestrowany w państwie macierzystym jako osoba uprawniona do wykonywania zawodu przy użyciu jednego z tytułów zawodowych, o których mowa w art. 2 pkt 2, oraz poinformować dziekana okręgowej rady adwokackiej lub dziekana rady okręgowej izby radców prawnych, właściwej ze względu na siedzibę sądu, o podjęciu świadczenia usługi transgranicznej.
@@ -341,29 +339,73 @@ source: "isap-pdf"
 
 **Art. 43.** Do prawnika spoza Unii Europejskiej, świadczącego usługę zgodnie z art. 42, stosuje się odpowiednio przepisy art. 35 ust. 1 oraz art. 36–41.
 
-### DZIAŁ IVA Przetwarzanie danych osobowych
-
-**Art. 43a.** Do przetwarzania danych osobowych w celu realizacji zadań, obowiązków lub uprawnień wynikających z ustawy stosuje się odpowiednio przepisy działu Ia ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze i rozdziału 1a ustawy z dnia 6 lipca 1982 r. o radcach prawnych.
-
-### DZIAŁ V Zmiany w przepisach obowiązujących, przepisy przejściowe i przepisy końcowe
+### Dział V Zmiany w przepisach obowiązujących, przepisy przejściowe i przepisy końcowe
 
 #### Rozdział 1 Zmiany w przepisach obowiązujących
 
-**Art. 44.** (pominięty)
+**Art. 44.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546 oraz z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676 i Nr 84, poz. 764) wprowadza się następujące zmiany:
 
-**Art. 45.** (pominięty)
+- **1)** w tytule tytułu I w księdze drugiej, w części trzeciej skreśla się wyrazy „ , Pełnomocnicy procesowi”;
+- **2)** skreśla się art. 1118.
 
-**Art. 46.** (pominięty)
+**Art. 45.** W ustawie z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2002 r. Nr 123, poz. 1058) wprowadza się następujące zmiany:
 
-**Art. 47.** (pominięty)
+- **1)** w art. 4a ust. 1 otrzymuje brzmienie: „
+
+1. Adwokat wykonuje zawód w kancelarii adwokackiej, w zespole adwokackim oraz w spółce cywilnej, jawnej, partnerskiej lub komandytowej, przy czym wspólnikami w spółkach cywilnej, jawnej i partnerskiej oraz komplementariuszami w spółce komandytowej mogą być wyłącznie adwokaci lub adwokaci i radcowie prawni, a także prawnicy zagraniczni wykonujący stałą praktykę na podstawie ustawy z dnia 5 lipca 2002 r. o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej (Dz. U. Nr 126, poz. 1069), a wyłącznym przedmiotem działalności takich spółek jest świadczenie pomocy prawnej. ” ;
+
+- **2)** w art. 21 skreśla się ust. 1 i 2;
+- **3)** art. 36 otrzymuje brzmienie: „ Okręgowa rada adwokacka dokonuje wizytacji:
+- **1)** zespołów adwokackich,
+- **2)** kancelarii adwokackich,
+- **3)** spółek z wyłącznym udziałem adwokatów,
+- **4)** adwokatów w spółkach z udziałem adwokatów, radców prawnych i prawników zagranicznych wpisanych na listę prawników zagranicznych,
+- **5)** prawników zagranicznych wpisanych na listę prawników zagranicznych, prowadzoną przez okręgową radę adwokacką. ” ;
+- **4)** w art. 58: w pkt 12 po lit. j) dodaje się lit. k) w brzmieniu: „ zasad współdziałania adwokata z prawnikiem zagranicznym reprezentującym klienta w postępowaniu, w którym zgodnie z obowiązującymi przepisami wymagane jest, aby strona była reprezentowana przez adwokata lub radcę prawnego, ” w pkt 13 kropkę zastępuje się przecinkiem i dodaje się pkt 14 w brzmieniu: „
+    - **a)**
+    - **k)**
+    - **b)**
+
+- **14)** wykonywanie zadań określonych w ustawie o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej. ” ;
+- **5)** w art. 66 skreśla się ust. 2;
+- **6)** w art. 90 dodaje się ust. 3 w brzmieniu: „
+
+3. Sąd dyscyplinarny, który wszczął postępowanie dyscyplinarne, niezwłocznie zawiadamia o tym właściwy organ w państwie członkowskim Unii Europejskiej, w którym adwokat świadczy pomoc prawną na podstawie obowiązujących w tym państwie przepisów o świadczeniu pomocy prawnej przez prawników z Unii Europejskiej, przesyłając temu organowi odpis wniosku, o którym mowa w ust. 1. ”
+
+**Art. 46.** W ustawie z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2002 r. Nr 123, poz. 1059) wprowadza się następujące zmiany:
+
+- **1)** w art. 8 ust. 1 otrzymuje brzmienie: „
+
+1. Radca prawny wykonuje zawód w ramach stosunku pracy, na podstawie umowy cywilnoprawnej, w kancelarii radcy prawnego oraz w spółce cywilnej, jawnej, partnerskiej lub komandytowej, przy czym wspólnikami w spółkach cywilnej, jawnej i partnerskiej oraz komplementariuszami w spółce komandytowej mogą być wyłącznie radcowie prawni lub radcowie prawni i adwokaci, a także prawnicy zagraniczni wykonujący stałą praktykę na podstawie ustawy z dnia 5 lipca 2002 r. o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej (Dz. U. Nr 126, poz. 1069), a wyłącznym przedmiotem działalności takich spółek jest świadczenie pomocy prawnej. ” ;
+
+- **2)** art. 21 otrzymuje brzmienie: „ Radca prawny może udzielić dalszego pełnomocnictwa (substytucji) innemu radcy prawnemu, adwokatowi, prawnikowi zagranicznemu wykonującemu stałą praktykę w zakresie wynikającym z ustawy o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej, a także aplikantowi radcowskiemu. ” ;
+- **3)** art. 221 otrzymuje brzmienie: „
+
+**Art. 221.** Rada okręgowej izby radców prawnych jest uprawniona do kontroli i oceny wykonywania zawodu przez radcę prawnego i prawnika zagranicznego wpisanego na listę prawników zagranicznych, prowadzoną przez radę okręgowej izby radców prawnych. Kontrolę przeprowadzają i oceny dokonują wizytatorzy powołani przez radę spośród radców prawnych. ” ;
+
+- **4)** w art. 25 skreśla się ust. 3;
+- **5)** w art. 60: w pkt 8 po lit. d) dodaje się lit. e) w brzmieniu: „ dotyczących zasad współdziałania radcy prawnego z prawnikiem zagranicznym reprezentującym klienta w postępowaniu, w którym zgodnie z obowiązującymi przepisami wymagane jest, aby strona była reprezentowana przez adwokata lub radcę prawnego, ” w pkt 11 kropkę zastępuje się przecinkiem i dodaje się pkt 12 w brzmieniu: „
+    - **a)**
+    - **e)**
+    - **b)**
+
+- **12)** wykonywanie zadań określonych w ustawie o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej. ” ;
+- **6)** w art. 681 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
+
+2. Sąd dyscyplinarny, który wszczął postępowanie dyscyplinarne, niezwłocznie zawiadamia o tym właściwy organ w państwie członkowskim Unii Europejskiej, w którym radca prawny świadczy pomoc prawną na podstawie obowiązujących w tym państwie przepisów o świadczeniu pomocy prawnej przez prawników z Unii Europejskiej, przesyłając temu organowi odpis wniosku, o którym mowa w ust. 1. ”
+
+**Art. 47.** W ustawie z dnia 22 maja 1997 r. o zmianie ustawy – Prawo o adwokaturze, ustawy o radcach prawnych oraz niektórych innych ustaw (Dz. U. Nr 75, poz. 471 i Nr 124, poz. 782 oraz z 1999 r. Nr 75, poz. 853) skreśla się art. 11.
 
 #### Rozdział 2 Przepisy przejściowe i końcowe
 
 **Art. 48.** Do dnia wejścia w życie art. 13–17 i art. 35–41 do prawników z Unii Europejskiej stosuje się odpowiednio przepisy art. 18–20 i art. 42.
 
-**Art. 49.** (pominięty)
+**Art. 49.** Istniejące w dniu wejścia w życie ustawy spółki z udziałem zagranicznym, utworzone w celu świadczenia pomocy prawnej na podstawie ustawy z dnia 14 czerwca 1991 r. o spółkach z udziałem zagranicznym (Dz. U. z 1997 r. Nr 26, poz. 143, z 1998 r. Nr 160, poz. 1063 oraz z 1999 r. Nr 49, poz. 484 i Nr 101, poz. 1178):
+
+- **1)** które w terminie określonym w art. 10 ust. 2 ustawy, o której mowa w art. 47, spełniły warunki określone w art. 10 ust. 2 i art. 11 ust. 1 pkt 1 i 2 tej ustawy albo
+- **2)** utworzone zgodnie z art. 11 ust. 1 ustawy, o której mowa w art. 47 mogą nadal prowadzić działalność, z tym że w ciągu sześciu miesięcy od dnia wejścia w życie ustawy wszyscy wspólnicy lub akcjonariusze tych spółek, niebędący adwokatami lub radcami prawnymi, mają obowiązek uzyskania wpisu na listę prawników zagranicznych, o której mowa w art. 3, a spółki te dostosują formę i zakres działania do art. 18 i 19 ustawy.
 
 **Art. 50.** W przypadku prowadzenia przez spółkę, utworzoną w celu świadczenia pomocy prawnej na podstawie ustawy o spółkach z udziałem zagranicznym, działalności z naruszeniem art. 49, sąd na żądanie okręgowej rady adwokackiej lub rady okręgowej izby radców prawnych orzeka wyrokiem o rozwiązaniu spółki.
 
-**Art. 51.** Ustawa wchodzi w życie po upływie sześciu miesięcy od dnia ogłoszenia , z wyjątkiem art. 13–17, art. 21–41, art. 43, art. 45 pkt 5 i 6 i art. 46 pkt 4 i 6, które wchodzą w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej .
+**Art. 51.** Ustawa wchodzi w życie po upływie sześciu miesięcy od dnia ogłoszenia, z wyjątkiem art. 13–17, art. 21–41, art. 43, art. 45 pkt 5 i 6 i art. 46 pkt 4 i 6, które wchodzą w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej. Załącznik – Wykaz tytułów zawodowych uzyskanych w państwach członkowskich Unii Europejskiej odpowiadających zawodowi adwokata lub radcy prawnego – w Republice Austrii – Rechtsanwalt, – w Królestwie Belgii – Avocat/Advocaat/Rechtsanwalt, – w Królestwie Danii – Advokat, – w Republice Finlandii – Asianajaja/Advocat, – w Republice Francuskiej – Avocat, – w Republice Greckiej – διχηγόφος, – w Królestwie Hiszpanii – Abogado/Advocat/Advogad/Abokatu, – w Królestwie Niderlandów – Advocaat, – w Republice Irlandii – Barrister/Solicitor, – w Wielkim Księstwie Luksemburga – Avocat, – w Republice Federalnej Niemiec – Rechtsanwalt, – w Republice Portugalii – Advogado, – w Królestwie Szwecji – Advokat, – w Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej – Advocate/Barrister/Solicitor, – w Republice Włoskiej – Avvocato.
 

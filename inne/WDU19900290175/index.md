@@ -8,10 +8,10 @@ pos: 175
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# z d n i a 27 k w i e t n i a 1990 r . r o zmianie ustawy o zmianach w organizacji i działalności spółdzielczości.
+# Ustawa z dnia 27 kwietnia 1990 r. o zmianie ustawy o zmianach w organizacji i działalności spółdzielczości
 
 | Pole | Wartość |
 |---|---|
@@ -22,8 +22,11 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1990-04-27 |
 | Data wydania | 1990-05-07 |
+| Wejście w życie | 1990-05-07 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900290175) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/175/text.pdf) |
 
-W ustawie z dnia 20 stycznia 1990 r. o zmianach w organizacji i działalności spółdzielczości (Dz.U. Nr 6, poz. 36i Nr 11, poz. 74) w art. 8 w ust. I wyrazy „w terminie trzech miesięcy od wejścia w życie niniejszej ustawy” zastępuje się wyrazami ,, w
+**Art. 1.** W ustawie z dnia 20 stycznia 1990 r. o zmianach w organizacji i działalności spółdzielczości (Dz. U. Nr 6, poz. 36 i Nr 11, poz. 74) w art. 8 w ust. 1 wyrazy „w terminie trzech miesięcy od wejścia w życie niniejszej ustawy” zastępuje się wyrazami „w terminie do dnia 30 czerwca 1990 r.”.
+
+**Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia.
 

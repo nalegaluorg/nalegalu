@@ -8,10 +8,10 @@ pos: 1479
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Warszawa, dnia 1 sierpnia 2023 r.
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 17 lipca 2023 r. w sprawie wzorów świadectw jakości
 
 | Pole | Wartość |
 |---|---|
@@ -22,17 +22,65 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2023-07-17 |
 | Data wydania | 2023-08-01 |
+| Wejście w życie | 2023-08-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001479) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1479/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 17 lipca 2023 r.
-sprawie wzorów świadectw jakości Na podstawie art. 35 ust. 9 ustawy z dnia 9 marca 2023 r. o rejestracji ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych środków spożywczych, win lub napojów spirytusowych oraz o produktach tradycyjnych (Dz. U. poz. 588) zarządza się, co następuje: § 1. Określa wzór jakości:
-1) potwierdzającego rolnego lub środka spożywczego posiadającego chronioną nazwę pochodzenia produktu, stanowiący załącznik nr 1 do rozporządzenia;
-2) potwierdzającego posiadającego chronioną nazwę pochodzenia produktu, stanowiący załącznik nr 2 do rozporządzenia;
-3) potwierdzającego rolnego lub środka spożywczego posiadającego chronione oznaczenie geograficzne produktu, stanowiący załącznik nr 3 do rozporządzenia;
-4) potwierdzającego posiadającego chronione oznaczenie geograficzne produktu, stanowiący załącznik nr 4 do rozporządzenia;
-5) potwierdzającego napoju spirytusowego posiadającego oznaczenie geograficzne produktu, stanowiący załącznik nr 5 do rozporządzenia;
-6) potwierdzającego rolnego lub środka spożywczego będącego gwarantowaną tradycyjną specjalnością produktu, stanowiący załącznik nr 6 do rozporządzenia.
-§ 2. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rolnictwa Rozwoju Wsi: wz. J. Kowalski PRODUKTU ROLNEGO LUB ŚRODKA SPOŻYWCZEGO CHRONIONĄ NAZWĘ POCHODZENIA ZE SPECYFIKACJĄ PRODUKTU ROLNEGO LUB ŚRODKA SPOŻYWCZEGO POSIADA ĄCEGO CHRONIONĄ HODZENIA ZE SPECYF KAC nr … potwierdzające rolnego lub środka spożywczego posiadającego chronioną nazwę pochodzenia Nazwa rolnego lub środka spożywczego Imię nazwisko nazwa Numer identyfikacyjny Kategoria rolnego lub środka spożywczego Deklarowana przez wielkość nr … potwierdzające posiadającego chronioną nazwę pochodzenia Nazwa Imię nazwisko nazwa Numer identyfikacyjny Kategoria Deklarowana przez wielkość nr … potwierdzające rolnego lub środka spożywczego posiadającego chronione oznaczenie geograficzne Nazwa rolnego lub środka spożywczego Imię nazwisko nazwa Numer identyfikacyjny Kategoria rolnego lub środka spożywczego Deklarowana przez wielkość ZE SPECYFIKACJĄ PRODUKTU nr … potwierdzające posiadającego chronione oznaczenie geograficzne Nazwa Imię nazwisko nazwa Numer identyfikacyjny Kategoria Deklarowana przez wielkość nr … potwierdzające napoju spirytusowego posiadającego oznaczenie geograficzne Nazwa napoju spirytusowego Imię nazwisko nazwa Numer identyfikacyjny Kategoria napoju spirytusowego Deklarowana przez wielkość nr … potwierdzające rolnego lub środka spożywczego będącego gwarantowaną tradycyjną specjalnością Nazwa rolnego lub środka spożywczego Imię nazwisko nazwa Numer identyfikacyjny Kategoria rolnego lub środka spożywczego Deklarowana przez wielkość ZE SPECYFIKACJĄ PRODUKTU
+Treść rozporządzenia
+
+## Załącznik nr 1 — – Świadectwo jakości potwierdzające zgodność produktu rolnego lub środka spożywczego posiadającego chronioną nazwę pochodzenia ze specyfikacją produktu (wzór)
+
+## Załącznik nr 2 — – Świadectwo jakości potwierdzające zgodność wina posiadającego chronioną nazwę pochodzenia ze specyfikacją produktu (wzór)
+
+## Załącznik nr 3 — – Świadectwo jakości potwierdzające zgodność produktu rolnego lub środka spożywczego posiadającego chronione oznaczenie geograficzne ze specyfikacją produktu (wzór)
+
+## Załącznik nr 4 — – Świadectwo jakości potwierdzające zgodność wina posiadającego chronione oznaczenie geograficzne ze specyfikacją produktu (wzór)
+
+## Załącznik nr 5 — – Świadectwo jakości potwierdzające zgodność napoju spirytusowego posiadającego oznaczenie geograficzne ze specyfikacją produktu (wzór)
+
+## Załącznik nr 6 — – Świadectwo jakości potwierdzające zgodność produktu rolnego lub środka spożywczego będącego gwarantowaną tradycyjną specjalnością ze specyfikacją produktu (wzór)
+
+Treść rozporządzenia
+Na podstawie art. 35 ust. 9 ustawy z dnia 9 marca 2023 r. o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, win lub napojów spirytusowych oraz o produktach tradycyjnych (Dz. U. poz. 588) zarządza się, co następuje:
+§ 1.
+Określa się wzór świadectwa jakości:
+1)
+potwierdzającego zgodność produktu rolnego lub środka spożywczego posiadającego chronioną nazwę pochodzenia ze specyfikacją produktu, stanowiący załącznik nr 1 do rozporządzenia;
+2)
+potwierdzającego zgodność wina posiadającego chronioną nazwę pochodzenia ze specyfikacją produktu, stanowiący załącznik nr 2 do rozporządzenia;
+3)
+potwierdzającego zgodność produktu rolnego lub środka spożywczego posiadającego chronione oznaczenie geograficzne ze specyfikacją produktu, stanowiący załącznik nr 3 do rozporządzenia;
+4)
+potwierdzającego zgodność wina posiadającego chronione oznaczenie geograficzne ze specyfikacją produktu, stanowiący załącznik nr 4 do rozporządzenia;
+5)
+potwierdzającego zgodność napoju spirytusowego posiadającego oznaczenie geograficzne ze specyfikacją produktu, stanowiący załącznik nr 5 do rozporządzenia;
+6)
+potwierdzającego zgodność produktu rolnego lub środka spożywczego będącego gwarantowaną tradycyjną specjalnością ze specyfikacją produktu, stanowiący załącznik nr 6 do rozporządzenia.
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 716). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 27 maja 2009 r. w sprawie wzoru świadectwa jakości potwierdzającego zgodność procesu produkcji produktu rolnego lub środka spożywczego ze specyfikacją (Dz. U. poz. 747) oraz rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 29 grudnia 2011 r. w sprawie wzoru świadectwa jakości potwierdzającego zgodność procesu wyrabiania wyrobu winiarskiego ze specyfikacją (Dz. U. z 2012 r. poz. 25), które zgodnie z art. 80 ustawy z dnia 9 marca 2023 r. o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, win lub napojów spirytusowych oraz o produktach tradycyjnych (Dz. U. poz. 588) tracą moc z dniem wejścia w życie niniejszego rozporządzenia.
+
+## Załącznik nr 1 — – Świadectwo jakości potwierdzające zgodność produktu rolnego lub środka spożywczego posiadającego chronioną nazwę pochodzenia ze specyfikacją produktu (wzór)
+
+patrz oryginał
+
+## Załącznik nr 2 — – Świadectwo jakości potwierdzające zgodność wina posiadającego chronioną nazwę pochodzenia ze specyfikacją produktu (wzór)
+
+patrz oryginał
+
+## Załącznik nr 3 — – Świadectwo jakości potwierdzające zgodność produktu rolnego lub środka spożywczego posiadającego chronione oznaczenie geograficzne ze specyfikacją produktu (wzór)
+
+patrz oryginał
+
+## Załącznik nr 4 — – Świadectwo jakości potwierdzające zgodność wina posiadającego chronione oznaczenie geograficzne ze specyfikacją produktu (wzór)
+
+patrz oryginał
+
+## Załącznik nr 5 — – Świadectwo jakości potwierdzające zgodność napoju spirytusowego posiadającego oznaczenie geograficzne ze specyfikacją produktu (wzór)
+
+patrz oryginał
+
+## Załącznik nr 6 — – Świadectwo jakości potwierdzające zgodność produktu rolnego lub środka spożywczego będącego gwarantowaną tradycyjną specjalnością ze specyfikacją produktu (wzór)
+
+patrz oryginał
 

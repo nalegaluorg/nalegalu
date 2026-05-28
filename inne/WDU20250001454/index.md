@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o zagospodarowaniu wspólnot gruntowych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 października 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 października 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-10-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001454) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1454/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 października 2025 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o zagospodarowaniu wspólnot gruntowych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 29 czerwca 1963 r. o zagospodarowaniu wspólnot gruntowych (Dz. U. z 2022 r. poz. 140), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 4 kwietnia 2025 r. o zmianie ustawy o zagospodarowaniu wspólnot gruntowych (Dz. U. poz. 630) oraz zmian wynikających z przepisów ogłoszonych przed dniem 1 października 2025 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 i art. 3 ustawy z dnia 4 kwietnia 2025 r. o zmianie ustawy o zagospodarowaniu wspólnot gruntowych (Dz. U. poz. 630), które stanowią: „Art. 2. Do postępowań administracyjnych sprawach stwierdzenia nieważności decyzji, o których mowa art. 8o ustawy zmienianej art. 1, wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy art. 8o ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
 3. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.”.

@@ -8,10 +8,10 @@ pos: 718
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 kwietnia 2020 r.
+# Rozporządzenie Ministra Klimatuz dnia 7 kwietnia 2020 r. w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń z tytułu zaopatrzenia w ciepło
 
 | Pole | Wartość |
 |---|---|
@@ -22,352 +22,761 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2020-04-07 |
 | Data wydania | 2020-04-23 |
+| Wejście w życie | 2020-05-08 |
 | Ostatnia zmiana | 2025-09-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000718) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/718/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA KLIMATU z dnia 7 kwietnia 2020 r.
-sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń z tytułu zaopatrzenia ciepło Na podstawie art. 46 ust. 5 i 6 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne (Dz. U. z 2019 r. poz. 755, z późn. zm. ) zarządza się, co następuje:
-1) kształtowania taryf przez przedsiębiorstwa energetyczne zajmujące się wytwarzaniem, magazynowaniem, przetwarzaniem, przesyłaniem, dystrybucją lub obrotem ciepłem;
-2) kalkulacji taryf dla ciepła;
-3) rozliczeń z tytułu zaopatrzenia ciepło.
-§ 2. Użyte rozporządzeniu określenia oznaczają:
-1) dystrybutor ciepła przedsiębiorstwo energetyczne zajmujące się przesyłaniem i dystrybucją ciepła zakupionego od innego przedsiębiorstwa energetycznego;
-2) grupa taryfowa grupę odbiorców korzystających z usług związanych z zaopatrzeniem ciepło, z którymi rozliczenia są prowadzone na podstawie tych samych cen i stawek opłat oraz warunków ich stosowania;
-3) grupowy węzeł cieplny węzeł cieplny obsługujący więcej niż jeden obiekt;
-4) handlowa obsługa odbiorców czynności związane z:
-a) kontrolą układów pomiarowo-rozliczeniowych i odczytywaniem ich wskazań lub ustalaniem udziału odbiorcy kosztach ciepła dostarczonego do grupowego węzła cieplnego,
-b) obliczaniem należności, wystawianiem faktur oraz egzekwowaniem tych należności,
-c) wykonywaniem kontroli dotrzymywania warunków umowy i prawidłowości rozliczeń;
-5) instalacja odbiorcza połączone ze sobą urządzenia lub instalacje służące do transportowania ciepła lub ciepłej wody z węzłów cieplnych lub źródeł ciepła do odbiorników ciepła lub punktów poboru ciepłej wody obiekcie;
-6) lokalne źródło ciepła zlokalizowane obiekcie źródło ciepła bezpośrednio zasilające instalacje odbiorcze wyłącznie tym obiekcie;
-8) obiekt budowlę lub budynek wraz z instalacjami odbiorczymi;
-9) obliczeniowe natężenie przepływu nośnika ciepła największe natężenie przepływu nośnika ciepła odpowiadające przypadku:
-a) sieci ciepłowniczej przyłączeniowej mocy cieplnej i parametrom nośnika ciepła dostarczanego ze źródła ciepła do tej sieci, określonym tabeli regulacyjnej dla warunków obliczeniowych,
-b) węzła cieplnego zamówionej mocy cieplnej dla obiektu lub obiektów zasilanych z węzła cieplnego oraz parametrom nośnika ciepła dostarczanego do tego węzła, określonym tabeli regulacyjnej dla warunków obliczeniowych,
-c) obiektu zasilanego z grupowego węzła cieplnego za pośrednictwem eksploatowanej przez przedsiębiorstwo energetyczne zewnętrznej instalacji odbiorczej zamówionej mocy cieplnej na potrzeby ogrzewania i podgrzewania wody wodociągowej tym obiekcie oraz parametrom wody dostarczanej z grupowego węzła cieplnego do instalacji centralnego ogrzewania i ciepłej wody użytkowej, określonym dla warunków obliczeniowych na podstawie danych projektowych dla tych instalacji;
-10) przedsiębiorstwo ciepłownicze przedsiębiorstwo energetyczne zajmujące się wytwarzaniem ciepła eksploatowanych przez to przedsiębiorstwo źródłach ciepła, przesyłaniem i dystrybucją oraz sprzedażą ciepła wytworzonego tych źródłach lub zakupionego od innego przedsiębiorstwa energetycznego;
-11) przedsiębiorstwo obrotu ciepłem przedsiębiorstwo energetyczne zajmujące się wyłącznie handlem ciepłem;
-12) przyłącze odcinek sieci ciepłowniczej doprowadzający ciepło wyłącznie do jednego węzła cieplnego albo odcinek zewnętrznych instalacji odbiorczych za grupowym węzłem cieplnym lub źródłem ciepła, łączący te instalacje z instalacjami odbiorczymi obiekcie;
-13) przyłączeniowa moc cieplna moc cieplną ustaloną przez przedsiębiorstwo energetyczne dla danej sieci ciepłowniczej na podstawie zamówionej mocy cieplnej przez odbiorców przyłączonych do tej sieci, po uwzględnieniu strat mocy cieplnej podczas przesyłania ciepła tą siecią oraz niejednoczesności występowania szczytowego poboru mocy cieplnej u odbiorców;
-14) sezon grzewczy okres, którym warunki atmosferyczne powodują konieczność ciągłego dostarczania ciepła celu ogrzewania obiektu;
-15) sieć ciepłownicza połączone ze sobą urządzenia lub instalacje służące do przesyłania i dystrybucji ciepła ze źródeł ciepła do węzłów cieplnych;
-16) układ pomiarowo-rozliczeniowy zespół urządzeń służących do pomiaru ilości i parametrów nośnika ciepła, których wskazania stanowią podstawę do obliczenia należności z tytułu dostarczania ciepła, dopuszczony do stosowania zgodnie z przepisami o miarach;
-17) warunki obliczeniowe:
-a) obliczeniową temperaturę powietrza atmosferycznego określoną dla strefy klimatycznej, której są zlokalizowane obiekty, do których jest dostarczane ciepło,
-b) normatywną temperaturę ciepłej wody;
-18) węzeł cieplny połączone ze sobą urządzenia lub instalacje służące do zmiany rodzaju lub parametrów nośnika ciepła dostarczanego z przyłącza oraz regulacji ilości ciepła dostarczanego do instalacji odbiorczych;
-19) wytwórca ciepła przedsiębiorstwo energetyczne zajmujące się wytwarzaniem ciepła;
-20) tabela regulacyjna przedstawioną postaci tabeli lub na wykresie zależność temperatury nośnika ciepła od warunków atmosferycznych;
-21) zamówiona moc cieplna ustaloną przez odbiorcę lub podmiot ubiegający się o przyłączenie do sieci ciepłowniczej największą moc cieplną, jaka danym obiekcie wystąpi warunkach obliczeniowych, która zgodnie z określonymi odrębnych przepisach warunkami technicznymi oraz wymaganiami technologicznymi dla tego obiektu jest niezbędna do zapewnienia:
-a) pokrycia strat ciepła celu utrzymania normatywnej temperatury i wymiany powietrza pomieszczeniach,
-b) utrzymania normatywnej temperatury ciepłej wody punktach czerpalnych,
-c) prawidłowej pracy innych urządzeń lub instalacji;
-źródło ciepła;
-23) źródło ciepła połączone ze sobą urządzenia lub instalacje służące do wytwarzania ciepła.
-1) pokrycie kosztów uzasadnionych zakresie określonym art. 45 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne, zwanej dalej „ustawą”, oraz kosztów ponoszonych odpowiednio zakresie określonym przepisach wydanych na podstawie art. 116 ust. 3 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2020 r.
-poz. 261, 284, 568 i 695);
-2) eliminowanie subsydiowania skrośnego.
-§ 4. Przedsiębiorstwo energetyczne kształtuje taryfę odpowiednio do zakresu wykonywanej działalności gospodarczej związanej z zaopatrzeniem ciepło, rodzaju odbiorców i charakteru ich zapotrzebowania na ciepło.
-§ 5. 1. Taryfa, odpowiednio do wykonywanej przez przedsiębiorstwo energetyczne działalności gospodarczej, określa:
-1) grupy taryfowe;
-2) rodzaje oraz wysokość cen i stawek opłat, a także warunki ich stosowania;
-3) bonifikaty za niedotrzymanie parametrów jakościowych nośnika ciepła i standardów jakościowych obsługi odbiorców;
-4) opłaty za nielegalny pobór ciepła.
-2. Określone taryfie ceny i stawki opłat różnicuje się dla poszczególnych grup taryfowych, odpowiednio do kosztów uzasadnionych.
-3. Taryfę kształtuje się taki sposób, aby odbiorca mógł na jej podstawie obliczyć należność odpowiadającą zakresowi usług związanych z zaopatrzeniem ciepło, określonemu umowie sprzedaży ciepła lub umowie o świadczenie usług przesyłania lub dystrybucji ciepła albo umowie kompleksowej.
-§ 6. 1. Określone taryfie warunki stosowania cen i stawek opłat ustala się z uwzględnieniem parametrów jakościowych nośnika ciepła i standardów jakościowych obsługi odbiorców, określonych umowie sprzedaży ciepła, umowie o świadczenie usług przesyłania lub dystrybucji ciepła, umowie kompleksowej albo odrębnych przepisach.
-2. Warunki, o których mowa ust. 1, powinny określać szczególności:
-1) zakres świadczonych usług dla odbiorców poszczególnych grupach taryfowych;
-2) parametry jakościowe nośnika ciepła;
-3) standardy jakościowe obsługi odbiorców;
-4) sposób obliczania opłat przypadku uszkodzenia układu pomiarowo-rozliczeniowego.
-§ 7. 1. Taryfa wytwórcy ciepła zawiera:
-1) ceny za zamówioną moc cieplną ‒ wyrażone złotych za MW;
-2) ceny ciepła ‒ wyrażone złotych za GJ;
-3) ceny nośnika ciepła wody dostarczonej do napełniania sieci ciepłowniczych i instalacji odbiorczych oraz do uzupełnienia ubytków wody poza źródłem ciepła lub niezwróconych skroplin ‒ wyrażone odpowiednio złotych za metr sześcienny lub za tonę.
-2. Taryfa przedsiębiorstwa ciepłowniczego zawiera:
-1) ceny za zamówioną moc cieplną ‒ wyrażone złotych za MW;
-2) ceny ciepła ‒ wyrażone złotych za GJ;
-3) ceny nośnika ciepła wody dostarczonej do napełniania i uzupełniania jej ubytków instalacjach odbiorczych lub niezwróconych skroplin ‒ wyrażone odpowiednio złotych za metr sześcienny lub za tonę;
-3. Taryfa dystrybutora ciepła zawiera:
-1) stawki opłat stałych za usługi przesyłowe wyrażone złotych za MW zamówionej mocy cieplnej;
-2) stawki opłat zmiennych za usługi przesyłowe ‒ wyrażone złotych za GJ.
-4. W przypadku gdy przedsiębiorstwo energetyczne, o którym mowa ust. 2 i 3, zakupuje ciepło od innych przedsiębiorstw energetycznych, taryfa tego przedsiębiorstwa określa sposób stosowania cen i stawek opłat ustalonych taryfach przedsiębiorstw, od których ciepło to zostało zakupione.
-5. W taryfie dystrybutora lub taryfie przedsiębiorstwa ciepłowniczego dla wszystkich podmiotów sprzedających ciepło danym systemie ciepłowniczym ustala się jednakowy sposób wyznaczania cen i stawek opłat stosowanych rozliczeniach z tymi odbiorcami.
-6. Taryfa przedsiębiorstwa obrotu ciepłem zawiera stawki opłat za obsługę odbiorców wyrażone złotych za MW zamówionej mocy cieplnej oraz określa warunki stosowania cen i stawek opłat ustalonych taryfach innych przedsiębiorstw energetycznych.
-7. Taryfa przedsiębiorstwa energetycznego zajmującego się przesyłaniem lub dystrybucją ciepła zawiera stawki opłat za przyłączenie do sieci kalkulowane odniesieniu do jednostki długości przyłącza zgodnie z art. 7 ust. 8 pkt 2 ustawy.
-8. W przypadku wytwarzania ciepła lokalnym źródle ciepła lub źródle ciepła, którym zainstalowana moc cieplna nie przekracza 5 MW, bezpośrednio zasilającym zewnętrzne instalacje odbiorcze, taryfa zawiera stawki opłaty:
-1) miesięcznej za zamówioną moc cieplną, wyrażone złotych za MW;
-2) za ciepło, wyrażone złotych za GJ.
-§ 8. 1. Taryfa określa sposób ustalania cen za zamówioną moc cieplną oraz cen ciepła i cen nośnika ciepła, stosowanych rozliczeniach z odbiorcami przyłączonymi do sieci ciepłowniczej przypadku, gdy dostarczane tym odbiorcom ciepło i nośnik ciepła są:
-1) wytworzone kilku własnych źródłach ciepła;
-2) wytworzone we własnych źródłach ciepła oraz zakupione od innych wytwórców ciepła;
-3) zakupione kilku źródłach ciepła należących do jednego lub kilku wytwórców ciepła.
-2. Dla wszystkich odbiorców przyłączonych do danej sieci ciepłowniczej ustala się jednakowe ceny za zamówioną moc cieplną, ceny ciepła i ceny nośnika ciepła.
-§ 9. 1. Taryfa może określać sposób ustalania opłat pokrywających koszty współfinansowania przez przedsiębiorstwo energetyczne przedsięwzięć i usług, o których mowa art. 45 ust. 2 i 3 ustawy.
-2. Opłaty, o których mowa ust. 1, ustala się na podstawie indywidualnych kalkulacji tych opłat, na zasadach określonych odrębnej umowie.
-§ 10. 1. Podział odbiorców na grupy taryfowe jest dokonywany zależności od poziomu kosztów uzasadnionych ponoszonych przez przedsiębiorstwo energetyczne związku z dostarczaniem ciepła do tych odbiorców, na podstawie następujących kryteriów:
-1) rodzaju nośnika ciepła i jego parametrów;
-2) źródła ciepła lub zespołu źródeł ciepła zasilających sieć ciepłowniczą;
-3) sieci ciepłowniczej, którą ciepło jest przesyłane do węzłów cieplnych postaci określonego nośnika ciepła;
-4) miejsca dostarczania ciepła;
-5) zakresu usług przesyłowych świadczonych przez przedsiębiorstwo ciepłownicze lub dystrybutora ciepła;
-6) wymagań zakresie standardów jakościowych obsługi odbiorców, tym dotyczących niezawodności i ciągłości dostarczania ciepła;
-7) wielkości zamówionej mocy cieplnej oraz charakterystyki odbioru ciepła, tym stopnia wykorzystania mocy cieplnej.
-1) źródeł ciepła, do których instalacje odbiorcze są przyłączone bezpośrednio, z pominięciem sieci ciepłowniczej;
-2) wydzielonych sieci ciepłowniczych, odpowiednio do rodzaju nośnika ciepła i jego parametrów oraz sposobu regulacji zależności od warunków atmosferycznych i zapotrzebowania na ciepło;
-3) węzłów cieplnych, z którymi są połączone instalacje odbiorcze obsługujące:
-a) jeden obiekt,
-b) więcej niż jeden obiekt, a zewnętrzne instalacje odbiorcze: nie są eksploatowane przez przedsiębiorstwo energetyczne, są eksploatowane przez przedsiębiorstwo energetyczne.
-3. Ustalając grupy taryfowe, o których mowa ust. 1, uwzględnia się zróżnicowanie kosztów eksploatacji źródeł ciepła, wydzielonych sieci ciepłowniczych, węzłów cieplnych i zewnętrznych instalacji odbiorczych, o których mowa ust. 2, zależnie od tego, czy należą one do przedsiębiorstwa energetycznego, czy też nie należą do tego przedsiębiorstwa.
-4. W przypadku źródeł ciepła, których jest stosowany ten sam rodzaj paliwa, a zainstalowana moc cieplna każdym z tych źródeł nie przekracza 5 MW, odbiorcy zasilani z tych źródeł mogą być zaliczeni do jednej grupy taryfowej.
-1) uzasadnionych rocznych kosztów wykonywania działalności gospodarczej zakresie zaopatrzenia ciepło;
-2) uzasadnionych rocznych kosztów modernizacji i rozwoju oraz realizacji inwestycji z zakresu ochrony środowiska;
-3) uzasadnionego zwrotu z kapitału zaangażowanego działalność gospodarczą, o której mowa pkt 1, oraz przedsięwzięcia, o których mowa pkt 2;
-4) uzasadnionych kosztów realizacji obowiązku, o którym mowa art. 10 ust. 1 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. z 2020 r. poz. 264 i 284).
-2. Suma uzasadnionych rocznych kosztów oraz uzasadnionego zwrotu z kapitału, o których mowa ust. 1, stanowi uzasadniony planowany przychód przedsiębiorstwa energetycznego ze sprzedaży ciepła będący podstawą kalkulacji cen i stawek opłat ustalanych taryfie, z zastrzeżeniem § 13 ust. 1.
-3. W kalkulacji stawek opłat taryfie dystrybutora ciepła prowadzącego równocześnie działalność gospodarczą zakresie obrotu ciepłem uzasadniony planowany przychód będący podstawą kalkulacji stawek opłat za usługi przesyłowe pomniejsza się o przychody uzyskiwane z tytułu różnicy pomiędzy wielkością mocy cieplnej zamówionej przez odbiorców zaopatrywanych z sieci ciepłowniczej na podstawie umów kompleksowych a wielkością mocy cieplnej zamówionej obcych źródłach zasilających sieć ciepłowniczą dystrybutora ciepła.
-§ 12. 1. Koszty, o których mowa § 11 ust. 1 pkt 1 i 2, ustala się zgodnie z art. 44 i art. 45 ustawy oraz zasadami ewidencji kosztów określonymi przepisach o rachunkowości, sposób umożliwiający ustalenie kosztów stałych i kosztów zmiennych planowanych przez przedsiębiorstwo energetyczne dla poszczególnych rodzajów działalności gospodarczej, z uwzględnieniem źródeł powstawania tych kosztów.
-2. Oceny kosztów, o których mowa ust. 1, dokonuje się na podstawie porównania wynikających z nich jednostkowych kosztów planowanych dla pierwszego roku stosowania taryfy z uzasadnionymi jednostkowymi kosztami wynikającymi z kosztów poniesionych roku kalendarzowym poprzedzającym pierwszy rok stosowania taryfy, określonych na podstawie sprawozdania finansowego, zbadanego zgodnie z przepisami o rachunkowości.
-3. Koszty, o których mowa ust. 1, określa się na podstawie określonych dla pierwszego roku stosowania taryfy planowanej:
-1) wielkości zamówionej mocy cieplnej z uwzględnieniem zmiany tej wielkości stosunku do stanu na koniec ostatniego roku kalendarzowego, poprzedzającego pierwszy rok stosowania taryfy, na podstawie zawartych z odbiorcami umów lub udokumentowanych inny sposób [w MW];
-2) rocznej sprzedaży ciepła [w GJ];
-3) rocznej ilości nośnika ciepła dostarczanego do sieci ciepłowniczych celu napełniania i uzupełniania ubytków tego nośnika tych sieciach oraz sprzedaży tego nośnika odbiorcom [w metrach sześciennych lub tonach].
-nionych planowanych przychodów ze sprzedaży ciepła obliczanych według wzoru: P = Q  C gdzie poszczególne symbole oznaczają: P planowane przychody ze sprzedaży ciepła dla roku stosowania taryfy [w zł], Q planowaną wielkość ciepła wprowadzonego do sieci ciepłowniczej lub sprzedanego bezpośrednio odbiorcom dla roku stosowania taryfy dla danego źródła ciepła [w GJ], C cenę ciepła przyjętą przez przedsiębiorstwo energetyczne dla roku stosowania taryfy, nie wyższą od ceny referencyjnej, o której mowa ust. 2 [w zł/GJ].
-2. Cenę referencyjną, oznaczoną symbolem „C ”, oblicza się według wzoru: C = C  X gdzie poszczególne symbole oznaczają: C cenę referencyjną obliczaną dla źródła, o którym mowa ust. 1, zależności od rodzaju zużywanego nim paliwa, o którym mowa art. 23 ust. 2 pkt 18 lit. c ustawy [w zł/GJ], C średnią cenę sprzedaży ciepła, o której mowa art. 23 ust. 2 pkt 18 lit. c ustawy, wytworzonego jednostkach wytwórczych niebędących jednostkami kogeneracji, których zużywane jest tego samego rodzaju paliwo jak danej jednostce kogeneracji [w zł/GJ], X obowiązujący wskaźnik referencyjny, o którym mowa art. 47 ust. 2f ustawy, ustalany dla poszczególnych rodzajów paliw, o których mowa art. 23 ust. 2 pkt 18 lit. c ustawy, zgodnie z wzorem określonym ust. 4
-3. W przypadku źródeł, o których mowa ust. 1, których do wytwarzania ciepła zużywanych jest jednocześnie kilka rodzajów paliw, cenę referencyjną, o której mowa ust. 2, ustala się jako średnią z cen referencyjnych ważoną planowanym udziałem energii chemicznej poszczególnych rodzajów paliw zużywanych do wytwarzania energii elektrycznej i ciepła tych źródłach.
-4. Wskaźnik referencyjny, oznaczony symbolem „X ”, o którym mowa art. 47 ust. 2f ustawy, ustala się według wzoru: X C = + k C gdzie poszczególne symbole oznaczają: C średnią cenę sprzedaży ciepła, o której mowa art. 23 ust. 2 pkt 18 lit. c ustawy, wytworzonego jednostkach wytwórczych niebędących jednostkami kogeneracji, których zużywane jest tego samego rodzaju paliwo jak danej jednostce kogeneracji [w zł/GJ], k przyrost kosztów obciążających jednostkę produkowanego ciepła źródłach, o których mowa ust. 1, wynikających z nowych lub zmienionych przepisów takim zakresie, jakim koszty te obciążać będą produkcję ciepła roku ustalania wskaźnika referencyjnego, a nie obciążały jej roku poprzedzającym rok ustalania tego wskaźnika, obliczany dla poszczególnych rodzajów paliw, o których mowa art. 23 ust. 2 pkt 18 lit. c ustawy [w zł/GJ].
-5. Wskaźnik referencyjny, o którym mowa ust. 4, można zwiększyć zależności od wielkości możliwej produkcji ciepła i dla źródeł, których ciepło jest wytwarzane jednostkach kogeneracji o sumie mocy zainstalowanej cieplnej:
-1) od 101 MW do 200 MW maksymalnie o 1%;
-2) od 51 MW do 100 MW maksymalnie o 1,5%;
-3) od 11 MW do 50 MW maksymalnie o 2%;
-4) od 6 MW do 10 MW maksymalnie o 3%;
-5) od 1 MW do 5 MW maksymalnie o 5%;
-6) poniżej 1 MW maksymalnie o 7%.
-nowanych cen lub stawek opłat i planowanych, na dany rok stosowania taryfy, wielkości sprzedaży ciepła, mocy zamówionej oraz nośnika ciepła kalkulacji tych cen i stawek opłat dla źródeł ciepła nie może być wyższy, uwzględniając wielkość przychodów ze sprzedaży ciepła obliczanych dla tych źródeł na podstawie dotychczas stosowanych cen i stawek opłat wynikających z taryfy oraz planowanych, na dany rok stosowania taryfy, wielkości sprzedaży ciepła, mocy zamówionej oraz nośnika ciepła kalkulacji cen i stawek opłat dla tych źródeł ciepła, niż określony wzorem:
-1) ( −1)×100+2 dla przedsiębiorstw, które przyjęły dla roku stosowania taryfy cenę ciepła C spełniającą warunek ≤0,8
-2) ( −1)×100+1,75 dla przedsiębiorstw, które przyjęły dla roku stosowania taryfy cenę ciepła C spełniającą warunek 0,8< ≤0,9
-3) ( −1)×100+1,25 dla przedsiębiorstw, które przyjęły dla roku stosowania taryfy cenę ciepła C spełniającą warunek 0,9 < <1 gdzie poszczególne symbole oznaczają: C średnią cenę sprzedaży ciepła, o której mowa art. 23 ust. 2 pkt 18 lit. c ustawy, wytworzonego jednostkach wytwórczych niebędących jednostkami kogeneracji, których zużywane jest tego samego rodzaju paliwo jak danej jednostce kogeneracji [w zł/GJ], C średnią cenę sprzedaży ciepła, o której mowa art. 23 ust. 2 pkt 18 lit. c ustawy, wytworzonego jednostkach wytwórczych niebędących jednostkami kogeneracji, których zużywane jest tego samego rodzaju paliwo jak danej jednostce kogeneracji, ogłoszoną roku poprzedzającym rok ostatnio ogłoszonej średniej ceny sprzedaży ciepła, oznaczonej symbolem „C ” [w zł/GJ].
-C cenę ciepła przyjętą przez przedsiębiorstwo energetyczne dla roku stosowania taryfy, nie wyższą od ceny referencyjnej, o której mowa ust. 2 [w zł/GJ].
-7. W przypadku gdy wartość wskaźnika wzrostu przychodów, o którym mowa ust. 6, będzie niższa od 0, przyjmuje się wartość tego wskaźnika równą 0.
-8. Przepisów ust. 6 nie stosuje się do jednostek kogeneracji oddanych do użytku po dniu 3 listopada 2010 r.
-9. W przypadku źródeł ciepła, o których mowa ust. 1, których do wytwarzania ciepła zużywanych jest jednocześnie kilka rodzajów paliw, średnie ceny sprzedaży ciepła, oznaczone symbolami „C ” oraz „C ”, o których mowa ust. 6, oblicza się jako średnie ważone ze średnich cen sprzedaży ciepła, o których mowa art. 23 ust. 2 pkt 18 lit. c ustawy, dla każdego rodzaju paliwa zużywanego do wytwarzania energii elektrycznej i ciepła oraz ilości energii chemicznej poszczególnych paliw zużytych do wytworzenia jednostki energii elektrycznej i ciepła.
-10. Okres stosowania taryfy dla ciepła, której zastosowano uproszczony sposób, o którym mowa ust. 1, wynosi rok od dnia jej wprowadzenia do stosowania.
-§ 14. Planowany uzasadniony przychód ze sprzedaży ciepła stanowiący podstawę kalkulacji cen i stawek opłat taryfie przedsiębiorstw energetycznych wytwarzających ciepło jednostkach kogeneracji, które nie stosują uproszczonego sposobu kalkulacji cen i stawek opłat, o którym mowa § 13 ust. 1, oblicza się jako różnicę między planowanymi łącznymi uzasadnionymi przychodami z wykonywania działalności gospodarczej zakresie wytwarzania, przetwarzania, magazynowania ciepła oraz wytwarzania energii elektrycznej danym źródle a planowanym przychodem ze sprzedaży energii elektrycznej, według wzoru: P = P (E  C ) PMZ gdzie poszczególne symbole oznaczają: P planowane przychody ze sprzedaży ciepła dla pierwszego roku stosowania taryfy [w zł], P planowane łączne uzasadnione przychody ze sprzedaży ciepła i energii elektrycznej dla pierwszego roku stosowania taryfy, stanowiące sumę planowanych łącznych kosztów wytwarzania ciepła i energii elektrycznej oraz zwrotu z kapitału zaangażowanego wykonywanie działalności gospodarczej związanej z wytwarzaniem ciepła i energii elektrycznej [w zł], E planowaną wielkość sprzedaży energii elektrycznej dla pierwszego roku stosowania taryfy [w MWh], cenę będącą wynikiem wygranej aukcji organizowanej przez Prezesa Urzędu Regulacji Energetyki, zwanego dalej „Prezesem URE”, na podstawie art. 73 ust. 1 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii dla pierwszego roku stosowania taryfy [w zł/MWh], PMZ planowane przychody ze sprzedaży praw majątkowych ze świadectw pochodzenia, o których mowa art. 44 ust. 1 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii.
-§ 15. 1. Koszty uzasadnione realizacji obowiązku, o którym mowa art. 10 ust. 1 ustawy z dnia 20 maja 2016 r.
-o efektywności energetycznej, uwzględnia się kalkulacji cen i stawek opłat ustalanych taryfie przedsiębiorstwa energetycznego realizującego te obowiązki, przyjmując, że każda jednostka ciepła sprzedawana przez to przedsiębiorstwo odbiorcom końcowym przyłączonym do sieci jest tej samej wysokości obciążona tymi kosztami.
-2. Koszty wspólne dla wszystkich lub kilku grup taryfowych oraz koszty wspólne dla wszystkich lub kilku rodzajów wykonywanej przez przedsiębiorstwo energetyczne działalności gospodarczej, tym koszty wspólne dotyczące modernizacji i rozwoju oraz ochrony środowiska, dzieli się na poszczególne grupy taryfowe i na poszczególne rodzaje wykonywanej działalności gospodarczej zgodnie z przyjętą przedsiębiorstwie metodą podziału kosztów.
-3. Metoda podziału kosztów, o której mowa ust. 2, nie może ulec zmianie okresie obowiązywania taryfy.
-§ 16. 1. Koszty, o których mowa § 11 ust. 1 pkt 2, ustala się jako roczne koszty związane z eksploatacją urządzeń i instalacji przekazywanych do eksploatacji po zakończeniu działań zakresie modernizacji i rozwoju lub realizacji inwestycji z zakresu ochrony środowiska.
-2. Roczne koszty, o których mowa ust. 1, przedsiębiorstwo energetyczne ustala na podstawie obowiązującego dla przedsiębiorstwa planu inwestycji oraz określonego tym planie sposobu finansowania i harmonogramu realizacji poszczególnych przedsięwzięć inwestycyjnych zakresie:
-1) wytwarzania, przetwarzania i magazynowania ciepła planu inwestycji rozwojowych, modernizacyjnych i związanych z ochroną środowiska dla źródeł ciepła;
-2) przesyłania lub dystrybucji ciepła planu rozwoju, o którym mowa art. 16 ust. 1 ustawy.
-3. Koszty związane z eksploatacją urządzeń i instalacji przekazywanych do eksploatacji wyniku inwestycji zakresie modernizacji, rozwoju i ochrony środowiska, o których mowa ust. 1 i 2, obejmują szczególności:
-1) odpisy amortyzacyjne lub odpisy umorzeniowe, obliczone zgodnie z obowiązującymi przepisami dla środków trwałych przekazywanych do eksploatacji wyniku tych inwestycji;
-2) koszty kalkulacyjne związane z eksploatacją nowych urządzeń i instalacji zakresie kosztów robocizny, zużycia materiałów, paliw, energii, wody, usuwania odpadów, kosztów transportu, remontów i innych kosztów wynikających z rodzaju urządzeń i instalacji oraz warunków ich pracy.
-4. Planowane koszty rozwoju zakresie przesyłania lub dystrybucji ciepła, stanowiące podstawę kalkulacji stawek opłat za usługi przesyłowe, nie mogą obejmować kosztów wynikających z nakładów, o których mowa § 7 ust. 7, planowanych do pokrycia przez odbiorców opłatami za przyłączenie.
-§ 17. Koszty, o których mowa § 11, § 15 i § 16, odpowiednio do zakresu wykonywanej przez przedsiębiorstwo energetyczne działalności gospodarczej, obejmują koszty:
-1) stałe i koszty zmienne wytwarzania, przetwarzania i magazynowania ciepła oraz planowane roczne koszty modernizacji, rozwoju i ochrony środowiska, a także koszty:
-a) utrzymania zapasów paliw, o których mowa przepisach wydanych na podstawie art. 10 ust. 6 ustawy,
-b) utrzymania przewidzianych programie pracy sieci ciepłowniczych źródeł ciepła, pracujących okresie największego poboru mocy cieplnej sezonie grzewczym lub okresie letnim,
-c) handlowej obsługi odbiorców bezpośrednio zasilanych ze źródeł ciepła;
-2) stałe i koszty zmienne pozyskania, uzdatniania i podgrzewania nośnika ciepła oraz planowane roczne koszty modernizacji, rozwoju i ochrony środowiska tym zakresie;
-3) stałe i koszty zmienne przesyłania i dystrybucji ciepła, koszty handlowej obsługi odbiorców oraz planowane roczne koszty modernizacji, rozwoju i ochrony środowiska zakresie przesyłania lub dystrybucji ciepła siecią ciepłowniczą od źródła ciepła do przyłączy, wraz z kosztami rozwoju związanymi z przyłączaniem obiektów do tej sieci, a także koszty związane:
-a) z magazynowaniem i przepompowywaniem wody krążącej sieci ciepłowniczej,
-b) ze stratami mocy cieplnej, stratami ciepła i ubytkami nośnika ciepła podczas ich przesyłania, kosztach wytwarzania ciepła, o których mowa pkt 1 lit. b;
-4) stałe i koszty zmienne przesyłania i dystrybucji ciepła, koszty handlowej obsługi odbiorców oraz planowane roczne koszty modernizacji, rozwoju i ochrony środowiska zakresie usług przesyłowych związanych z eksploatacją:
-a) węzłów cieplnych, z którymi są połączone instalacje odbiorcze obsługujące jeden obiekt,
-b) grupowych węzłów cieplnych,
-c) zewnętrznych instalacji odbiorczych;
-5) obsługi odbiorców przez przedsiębiorstwo obrotu ciepłem.
-§ 18. W przypadku gdy odbiorca lub inny podmiot udostępnia przedsiębiorstwu energetycznemu pomieszczenie, którym są zainstalowane urządzenia należące do tego przedsiębiorstwa lub przez nie eksploatowane, służące do wytwarzania lub przesyłania, lub dystrybucji ciepła, koszty ponoszone z tego tytułu przedsiębiorstwo energetyczne uwzględnia rozliczeniach tylko z tymi odbiorcami, do których ciepło jest dostarczane za pomocą tych urządzeń, na warunkach ustalonych taryfie lub umowie sprzedaży ciepła, lub umowie o świadczenie usług przesyłania lub dystrybucji ciepła, lub umowie kompleksowej albo odrębnej umowie.
-§ 19. Ceny za zamówioną moc cieplną i ceny ciepła oblicza się według wzorów: C = A  P : N C = (1 A)  P : Q gdzie poszczególne symbole oznaczają: C cenę za zamówioną moc cieplną dla danego źródła ciepła i określonego nośnika ciepła [w zł/MW], C cenę ciepła dla danego źródła ciepła i określonego nośnika ciepła [w zł/GJ], P planowane uzasadnione przychody z wytwarzania ciepła postaci określonego nośnika ciepła [w zł], A określony dla danego źródła ciepła i nośnika ciepła wskaźnik udziału kosztów stałych (Kst) łącznych kosztach wytwarzania ciepła (Kst + Kzm), którego wartość nie może być wyższa od udziału kosztów stałych (Kst) łącznych kosztach wytwarzania ciepła (Kst + Kzm), N planowaną dla pierwszego roku stosowania taryfy moc cieplną obliczoną przez przedsiębiorstwo energetyczne dla danego źródła ciepła i określonego nośnika ciepła jako sumę przyłączeniowej mocy cieplnej dla sieci ciepłowniczych zasilanych z tego źródła i zamówionej mocy cieplnej przez odbiorców zasilanych bezpośrednio ze źródła ciepła [w MW], Q planowaną dla pierwszego roku stosowania taryfy ilość ciepła określoną przez przedsiębiorstwo energetyczne dla danego źródła ciepła i określonego nośnika ciepła, obliczaną przez: wytwórcę ciepła jako sumę planowanych do sprzedaży odbiorcom ilości ciepła, tym przez przedsiębiorstwo energetyczne stosujące uproszczony sposób kalkulacji cen i stawek opłat, o którym mowa § 13 ust. 1, i planowaną wielkość ciepła, oznaczoną symbolem „Q ”, o której mowa § 13 ust. 1, przedsiębiorstwo ciepłownicze jako sumę ilości ciepła planowanego do sprzedaży odbiorcom i strat ciepła podczas przesyłania sieciami ciepłowniczymi [w GJ].
-§ 20. Cenę nośnika ciepła oblicza się jako iloraz planowanych dla pierwszego roku stosowania taryfy kosztów z uwzględnieniem uzasadnionego zwrotu z kapitału zaangażowanego wykonywaną działalność gospodarczą związaną z wytwarzaniem ciepła oraz planowanej ilości nośnika ciepła dostarczanego do sieci ciepłowniczych celu napełniania i uzupełniania jego ubytków tych sieciach, oraz sprzedaży tego nośnika odbiorcom celu napełniania instalacji odbiorczych i uzupełnienia ubytków wody tych instalacjach.
-§ 21. 1. W przypadku źródeł ciepła, o których mowa § 7 ust. 8, koszty stanowiące podstawę do obliczenia stawek opłat obejmują:
-1) uzasadnione koszty stałe i koszty zmienne:
-a) wytwarzania, przetwarzania i magazynowania ciepła,
-b) pozyskania, uzdatniania i podgrzewania nośnika ciepła,
-c) przesyłania i dystrybucji ciepła;
-a) utrzymaniem zapasów paliw, o których mowa przepisach wydanych na podstawie art. 10 ust. 6 ustawy,
-b) handlową obsługą odbiorców.
-2. Stawkę opłaty miesięcznej za zamówioną moc cieplną i stawkę opłaty za ciepło dla danego rodzaju źródeł ciepła, o których mowa § 7 ust. 8, oblicza się według wzorów: C = 1/12 (A  P : N ) C = (1 A )  P : Q gdzie poszczególne symbole oznaczają: C stawkę opłaty miesięcznej za zamówioną moc cieplną dla danego rodzaju źródła ciepła [w zł/MW], C stawkę opłaty za ciepło dla danego rodzaju źródła ciepła [w zł/GJ], P planowane roczne przychody dla danego rodzaju źródła ciepła [w zł], N planowaną dla pierwszego roku stosowania taryfy zamówioną moc cieplną dla obiektów zasilanych z danego rodzaju źródła ciepła [w MW], Q planowaną dla pierwszego roku stosowania taryfy ilość ciepła przeznaczoną do sprzedaży odbiorcom, określoną przez przedsiębiorstwo energetyczne dla danego rodzaju źródła ciepła i określonego nośnika ciepła [w GJ], A współczynnik udziału opłat stałych, którego wartość nie może być wyższa od udziału kosztów stałych łącznych kosztach dostarczania ciepła z danego źródła ciepła.
-3. W przypadku wytwarzania ciepła lokalnym źródle ciepła, które nie jest wyposażone układ pomiarowo-rozliczeniowy, taryfa zawiera stawki opłaty miesięcznej i sezonowej; stawki te wyraża się złotych za MW zamówionej mocy cieplnej lub złotych za metr kwadratowy powierzchni lokali. Koszty stanowiące podstawę do obliczenia tych stawek stanowią koszty, o których mowa ust. 1.
-4. Stawkę opłaty miesięcznej i stawkę opłaty sezonowej dla danego rodzaju lokalnego źródła ciepła, o którym mowa ust. 3, oblicza się według wzorów: C = 1/12 (A  P : N ) lub C = 1/12 (A  P : P ) C = 1/7 [(1 A )  P : N ] lub C = 1/7 [(1 A )  P : P ] gdzie poszczególne symbole oznaczają: C stawkę opłaty miesięcznej dla danego rodzaju lokalnego źródła ciepła [w zł/MW lub zł/m powierzchni lokali], C stawkę opłaty sezonowej dla danego rodzaju lokalnego źródła ciepła [w zł/MW lub zł/m powierzchni lokali], P planowany roczny przychód dla danego rodzaju lokalnego źródła ciepła [w zł], N planowaną dla pierwszego roku stosowania taryfy zamówioną moc cieplną dla obiektów zasilanych z danego rodzaju lokalnego źródła ciepła [w MW], P planowaną dla pierwszego roku stosowania taryfy powierzchnię lokali obiektach zasilanych z danego rodzaju lokalnego źródła ciepła [w m ], A współczynnik udziału opłat stałych, którego wartość nie może być wyższa od udziału kosztów stałych łącznych kosztach dostarczania ciepła z lokalnego źródła ciepła.
-5. W przypadku odbiorców zasilanych z lokalnego źródła ciepła, o którym mowa ust. 3, rodzaje opłat pobieranych od odbiorców ciepła oraz podstawa i sposób ich obliczania powinny być określone umowie sprzedaży ciepła, a wysokość tych opłat oblicza się następujący sposób:
-1) opłata miesięczna, pobierana każdym miesiącu, stanowi iloczyn stawki opłaty miesięcznej dla danego rodzaju lokalnych źródeł ciepła i zamówionej mocy cieplnej lub powierzchni lokali obiektach odbiorcy;
-2) opłata sezonowa, pobierana przez 7 miesięcy sezonu grzewczego, stanowi iloczyn stawki opłaty sezonowej dla danego rodzaju lokalnych źródeł ciepła i zamówionej mocy cieplnej lub powierzchni lokali obiektach odbiorcy.
-§ 22. 1. Stawki opłat za usługi przesyłania i dystrybucji ciepła ustala się zakresie:
-1) sieci ciepłowniczej dla grup taryfowych, do których są zaliczani odbiorcy pobierający ciepło z przyłączy, cych jeden obiekt,
-3) sieci ciepłowniczej i grupowych węzłów cieplnych dla grup taryfowych, do których są zaliczani odbiorcy pobierający ciepło z eksploatowanych przez przedsiębiorstwo ciepłownicze lub przez dystrybutora ciepła grupowych węzłów cieplnych,
-4) sieci ciepłowniczej i grupowych węzłów cieplnych oraz zewnętrznych instalacji odbiorczych dla grup taryfowych, do których są zaliczani odbiorcy pobierający ciepło z eksploatowanych przez przedsiębiorstwo ciepłownicze lub przez dystrybutora ciepła grupowych węzłów cieplnych wraz z zewnętrznymi instalacjami odbiorczymi odpowiednio do zakresu wykonywanej przez to przedsiębiorstwo działalności gospodarczej związanej z zaopatrzeniem ciepło na podstawie kosztów jednostkowych obliczonych sposób określony ust. 2.
-2. Koszty jednostkowe oblicza się odpowiednio do zakresu wykonywanej przez przedsiębiorstwo energetyczne działalności gospodarczej związanej z zaopatrzeniem ciepło według wzorów:
-1) dla grup taryfowych, o których mowa ust. 1 pkt 1: k = B  [K : N ] k = (1 B) [K  N : N ] : Q
-2) dla grup taryfowych, o których mowa ust. 1 pkt 2: k = B  [K : N + K : N ] k = (1 B) [K  N : N + K ] : Q
-3) dla grup taryfowych, o których mowa ust. 1 pkt 3: k = B  [K : N + K : (N + N )] k = (1 B) [K  N : N + K  N : (N + N )] : Q
-4) dla grup taryfowych, o których mowa ust. 1 pkt 4: k = B  [K : N + K : (N + N ) + K : N ] k = (1 B) [K  N : N + K  N : (N + N ) + K ] : Q gdzie poszczególne symbole oznaczają: k koszt jednostkowy stały za usługi przesyłowe obliczony dla grupy taryfowej, o której mowa ust. 1 pkt 1 [w zł/MW], k koszt jednostkowy zmienny za usługi przesyłowe obliczony dla grupy taryfowej, o której mowa ust. 1 pkt 1 [w zł/GJ], B wskaźnik udziału opłat stałych za usługi przesyłowe łącznych opłatach za te usługi, K planowane roczne koszty za usługi przesyłowe zakresie przesyłania lub dystrybucji ciepła daną siecią ciepłowniczą od źródła ciepła do przyłączy [w zł], N sumę zamówionej mocy cieplnej przez odbiorców zaliczonych do grupy taryfowej, o której mowa ust. 1 pkt 1 [w MW], N sumę zamówionej mocy cieplnej przez odbiorców przyłączonych do danej sieci ciepłowniczej [w MW], Q planowaną, dla pierwszego roku stosowania taryfy, sprzedaż ciepła odbiorcom zaliczonym do grupy taryfowej, o której mowa ust. 1 pkt 1 [w GJ], k koszt jednostkowy stały za usługi przesyłowe obliczony dla grupy taryfowej, o której mowa ust. 1 pkt 2 [w zł/MW], k koszt jednostkowy zmienny za usługi przesyłowe obliczony dla grupy taryfowej, o której mowa ust. 1 pkt 2 [w zł/GJ], K planowane roczne koszty za usługi przesyłowe zakresie eksploatacji węzłów cieplnych obsługujących jeden obiekt, o których mowa ust. 1 pkt 2 [w zł], N sumę zamówionej mocy cieplnej przez odbiorców zaliczonych do danej grupy taryfowej, o której mowa ust. 1 pkt 2 [w MW], Q planowaną, dla pierwszego roku stosowania taryfy, sprzedaż ciepła odbiorcom zaliczonym do grupy taryfowej, o której mowa ust. 1 pkt 2 [w GJ], k koszt jednostkowy stały za usługi przesyłowe obliczony dla grupy taryfowej, o której mowa ust. 1 pkt 3 [w zł/MW], mowa ust. 1 pkt 3 lub 4 [w zł], N sumę zamówionej mocy cieplnej przez odbiorców zaliczonych do danej grupy taryfowej, o której mowa ust. 1 pkt 3 lub 4 [w MW], N sumę zamówionej mocy cieplnej przez odbiorców zaliczonych do danej grupy taryfowej, o której mowa ust. 1 pkt 3 lub 4 [w MW], Q planowaną dla pierwszego roku stosowania taryfy sprzedaż ciepła odbiorcom zaliczonym do grupy taryfowej, o której mowa ust. 1 pkt 3 [w GJ], k koszt jednostkowy stały za usługi przesyłowe obliczony dla grupy taryfowej, o której mowa ust. 1 pkt 4 [w zł/MW], k koszt jednostkowy zmienny za usługi przesyłowe obliczony dla grupy taryfowej, o której mowa ust. 1 pkt 4 [w zł/GJ], K planowane roczne koszty za usługi przesyłowe zakresie eksploatacji zewnętrznych instalacji odbiorczych, o których mowa ust. 1 pkt 4 [w zł], Q planowaną, dla pierwszego roku stosowania taryfy, sprzedaż ciepła odbiorcom zaliczonym do grupy taryfowej, o której mowa ust. 1 pkt 4 [w GJ].
-3. Koszt jednostkowy stanowiący podstawę do określenia stawki opłaty za obsługę odbiorców oblicza się jako iloraz planowanych kosztów obsługi odbiorców przez przedsiębiorstwo obrotu ciepłem i zamówionej mocy cieplnej dla pierwszego roku stosowania taryfy przez odbiorców obsługiwanych przez to przedsiębiorstwo.
-4. Stawki opłat, o których mowa ust. 1–3, stosownie do wykonywanej przez przedsiębiorstwo energetyczne działalności gospodarczej ustala się na podstawie kosztów jednostkowych z uwzględnieniem uzasadnionego zwrotu z kapitału zaangażowanego wykonywaną działalność gospodarczą związaną z przesyłaniem i dystrybucją ciepła.
-§ 23. W odniesieniu do cen za zamówioną moc cieplną, stawek opłat stałych za usługi przesyłowe i stawek opłat za obsługę odbiorców taryfie ustala się także ich raty miesięczne, stanowiące 1/12 ich wartości.
-§ 24. 1. Przedsiębiorstwo energetyczne, na wniosek odbiorcy, określa umowie zawartej z tym odbiorcą średnią:
-1) cenę ciepła, wyrażoną złotych za GJ, zamiast ustalonej taryfie ceny za zamówioną moc cieplną i ceny ciepła lub stawki opłaty miesięcznej i stawki opłaty za ciepło;
-2) stawkę opłaty za usługi przesyłowe, wyrażoną złotych za GJ, zamiast ustalonej taryfie stawki opłaty stałej za usługi przesyłowe i stawki opłaty zmiennej za usługi przesyłowe.
-2. Średnią cenę ciepła i średnią stawkę opłaty za usługi przesyłowe, o których mowa ust. 1, oblicza się według wzorów: C = (N  C + Q  C ) : Q O = (N  O + Q  O ) : Q gdzie poszczególne symbole oznaczają: C średnią cenę ciepła dla danego odbiorcy [w zł/GJ], O średnią stawkę opłaty za usługi przesyłowe dla danego odbiorcy [w zł/GJ], N moc cieplną zamówioną przez danego odbiorcę [w MW], C cenę za zamówioną moc cieplną lub dwunastokrotność stawki opłaty miesięcznej za zamówioną moc cieplną, określone taryfie dla grupy taryfowej, do której jest zaliczony dany odbiorca [w zł/MW], O stawkę opłaty stałej za usługi przesyłowe określoną taryfie dla grupy taryfowej, do której jest zaliczony dany odbiorca [w zł/MW], Q planowaną wielkość sprzedaży ciepła dla danego odbiorcy [w GJ], C cenę ciepła lub stawkę opłaty za ciepło, określone taryfie dla grupy taryfowej, do której jest zaliczony dany odbiorca [w zł/GJ], O stawkę opłaty zmiennej za usługi przesyłowe określoną taryfie dla grupy taryfowej, do której jest zaliczony dany odbiorca [w zł/GJ].
-3. W przypadku gdy pobór ciepła przez odbiorcę występuje wyłącznie poza sezonem grzewczym, przedsiębiorstwo energetyczne może stosować rozliczeniach z takim odbiorcą tylko określone taryfie dla danego źródła ciepła i sieci ciepłowniczej cenę ciepła lub stawkę opłaty za ciepło i stawkę opłaty zmiennej za usługi przesyłowe.
-k = K : L gdzie poszczególne symbole oznaczają: k koszty jednostkowe, stanowiące podstawę do obliczenia stawki opłaty za przyłączenie, określone dla danego rodzaju przyłączy [w zł/m], K nakłady inwestycyjne, o których mowa § 7 ust. 7, dla danego rodzaju przyłączy [w zł], L planowaną, średnią roku, łączną długość odcinków rurociągów dla danego rodzaju przyłączy określonych planie rozwoju, o którym mowa art. 16 ust. 1 ustawy [w m].
-2. Wysokość nakładów inwestycyjnych na budowę przyłączy stanowiących podstawę kalkulacji stawek opłat za przyłączenie przyjmuje się wysokości określonej obowiązującym dla przedsiębiorstwa planie rozwoju, o którym mowa art. 16 ust. 1 ustawy.
-3. Nakłady, o których mowa § 7 ust. 7, obejmują przypadku przyłączania do:
-1) sieci ciepłowniczej nakłady na budowę odcinków przyłącza do ściany węzła cieplnego i wykonanie przejścia przyłącza przez tę ścianę oraz zainstalowanie pomieszczeniu węzła cieplnego układu pomiarowo-rozliczeniowego wraz z niezbędnym osprzętem i armaturą oraz dokonaniem koniecznych połączeń, a przypadku sieci ciepłowniczej, której nośnikiem ciepła jest woda, także nakłady na zainstalowanie urządzenia regulującego natężenie przepływu nośnika ciepła;
-2) zewnętrznych instalacji odbiorczych należących do przedsiębiorstwa energetycznego nakłady na budowę odcinków przyłącza do ściany obiektu i wykonanie przejścia przyłącza przez tę ścianę oraz zainstalowanie obiekcie:
-a) urządzenia regulującego natężenie przepływu wody dostarczanej do instalacji centralnego ogrzewania tym obiekcie,
-b) urządzeń, których wskazania będą stanowiły podstawę do określenia udziału tego obiektu kosztach ciepła dostarczonego do grupowego węzła cieplnego,
-c) niezbędnego osprzętu i armatury oraz koniecznych połączeń.
-4. Jeżeli pomieszczeniu węzła cieplnego jest instalowany, na koszt odbiorcy, prefabrykowany węzeł cieplny wyposażony przez producenta układ pomiarowo-rozliczeniowy i urządzenie regulujące natężenie przepływu nośnika ciepła, nakłady, o których mowa ust. 3 pkt 1, obejmują tylko nakłady na budowę odcinków przyłącza i wykonanie przejścia tego przyłącza przez ścianę węzła cieplnego wraz z niezbędnym osprzętem i armaturą oraz dokonaniem koniecznych połączeń.
-§ 26. 1. Planowana wysokość zwrotu z kapitału, o którym mowa § 11 ust. 1 pkt 3, § 20 i § 22 ust. 4, może uwzględniać zwrot z kapitału własnego i obcego, służących do finansowania majątku zaangażowanego do wykonywania działalności gospodarczej przez przedsiębiorstwo energetyczne.
-2. Uzasadniona wysokość zwrotu z kapitału zaangażowanego wykonywaną działalność gospodarczą związaną z zaopatrzeniem ciepło powinna być odpowiednia do rodzaju wykonywanej działalności gospodarczej i ponoszonego związku z tym ryzyka, a przy jej określaniu należy szczególności uwzględniać:
-1) warunki panujące na rynkach finansowych i wynikający z nich poziom stóp procentowych, ocenę ryzyka wykonywania działalności gospodarczej przez przedsiębiorstwo energetyczne, a także wartość aktywów przedsiębiorstwa, która jest faktycznie zaangażowana działalność gospodarczą związaną z zaopatrzeniem ciepło;
-2) taką wysokość zwrotu z tego kapitału, która kalkulacji cen i stawek opłat nie spowoduje nadmiernego wzrostu opłat ponoszonych przez odbiorców;
-3) oszczędności uzyskane wyniku obniżenia kosztów działalności przedsiębiorstwa energetycznego wynikające z poprawy efektywności jego funkcjonowania;
-4) poziom cen ciepła z alternatywnych źródeł ciepła, które mogłyby być sposób ekonomicznie i technicznie uzasadniony wykorzystane celu pokrycia zapotrzebowania na to ciepło.
-jącymi na rynkach finansowych stosowanymi przez instytucje finansowe, gdzie:
-1) stopę obsługi zadłużenia przyjmuje się na podstawie aktualnie obwiązujących warunków rynkowych sektorze banków udzielających kredytów na cele inwestycyjne zakresie prowadzenia działalności gospodarczej;
-2) stopę wolną od ryzyka ustala się na podstawie średniej rentowności 10-letnich obligacji Skarbu Państwa (DS) o najdłuższym terminie wykupu (średnia z dni, których zawarte zostały transakcje), notowanych na Rynku Treasury BondSpot Poland okresie 36 miesięcy poprzedzających kwartał, którym wniosek o zatwierdzenie taryfy zostanie przedłożony;
-3) premię za ryzyko przyjmuje się zgodnie z warunkami panującymi na rynkach finansowych.
-§ 27. 1. W okresie stosowania taryfy, nie krótszym niż dwa lata:
-1) przedsiębiorstwo energetyczne wytwarzające ciepło jednostkach kogeneracji, które nie stosuje uproszczonego sposobu kalkulacji cen i stawek opłat, o którym mowa § 13 ust. 1, dostosowuje ceny i stawki opłat,
-2) przedsiębiorstwo energetyczne inne niż określone pkt 1 może dostosowywać ceny i stawki opłat ustalone dla pierwszego roku jej stosowania do zmieniających się warunków wykonywania działalności gospodarczej sposób określony ust. 2.
-2. Dostosowywanie cen i stawek opłat może nastąpić nie wcześniej niż po upływie 12 miesięcy od ich wprowadzenia jako obowiązujących i nie częściej niż co 12 miesięcy, a wysokość tych cen i stawek opłat oblicza się według wzoru: C = C  [1 + (RPI − X ) : 100] gdzie poszczególne symbole oznaczają: C nową cenę lub stawkę opłaty, C dotychczas stosowaną cenę lub stawkę opłaty przed ich zmianą, RPI średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem poprzednim roku kalendarzowym, określony komunikacie Prezesa Głównego Urzędu Statystycznego ogłoszonym Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” [w %], X współczynnik korekcyjny ustalany dla danego rodzaju działalności gospodarczej wykonywanej przez przedsiębiorstwo energetyczne zakresie zaopatrzenia ciepło, określający projektowaną poprawę efektywności funkcjonowania tego przedsiębiorstwa oraz zmianę warunków wykonywania przez to przedsiębiorstwo danego rodzaju działalności gospodarczej następnym roku stosunku do poprzedniego roku stosowania taryfy [w %].
-§ 28. 1. W przypadku nieprzewidzianej, istotnej zmiany warunków wykonywania działalności gospodarczej przez przedsiębiorstwo energetyczne, odniesieniu do działalności zakresie wytwarzania ciepła źródłach innych niż określone § 13 ust. 1 lub działalności zakresie dystrybucji ciepła, może nastąpić ustalenie współczynników korekcyjnych, o których mowa art. 23 ust. 2 pkt 3 lit. a ustawy, przy odpowiednim zastosowaniu trybu określonego art. 47 ust. 2b ustawy lub zmiana cen i stawek wynikających z taryfy wprowadzonej do stosowania przez zawarcie umów z odbiorcami, po dokonaniu analizy i oceny skutków ekonomicznych tych zmian.
-2. Przedsiębiorstwo energetyczne może ustalić taryfie ceny i stawki opłat taki sposób, aby łagodzić skutki wprowadzenia pierwszym roku stosowania taryfy cen i stawek opłat, o których mowa § 19–23, dla tych grup taryfowych, których ochrona ich interesów tego wymaga, biorąc pod uwagę eliminowanie subsydiowania skrośnego.
-3. Przedsiębiorstwo energetyczne, odniesieniu do źródeł, o których mowa § 13 ust. 1, może wystąpić o zmianę taryfy przed upływem okresu, o którym mowa § 13 ust. 10, jeżeli trakcie tego okresu ogłoszone zostaną średnie ceny sprzedaży ciepła, o których mowa art. 23 ust. 2 pkt 18 lit. c ustawy, lub przypadku zmiany posiadanej koncesji wynikającej z istotnej zmiany zakresu wykonywania działalności objętej koncesją, szczególności zmiany paliwa wykorzystywanego danym źródle.
-§ 29. W przypadku nowo tworzonego przedsiębiorstwa energetycznego lub podejmowania przez istniejące przedsiębiorstwo nowego rodzaju działalności gospodarczej zakresie zaopatrzenia ciepło, podstawę do określenia kosztów jednostkowych oraz ustalenia cen i stawek opłat stanowią koszty planowane dla pierwszego roku wykonywania nowej działalności gospodarczej, a uzasadnienie kalkulacji cen i stawek opłat powinno uwzględniać analizy porównawcze z innymi przedsiębiorstwami energetycznymi zajmującymi się takim samym rodzajem działalności gospodarczej zakresie zaopatrzenia ciepło.
-§ 30. Jeżeli przedsiębiorstwo energetyczne kupuje ciepło od innego przedsiębiorstwa energetycznego celu sprzedaży tego ciepła odbiorcom przyłączonym do sieci ciepłowniczej lub korzysta z usług przesyłowych świadczonych przez inne przedsiębiorstwo energetyczne, rozliczeniach prowadzonych na podstawie zawartych między tymi przedsiębiorstwami umów sprzedaży ciepła i umów o świadczenie usług przesyłania lub dystrybucji ciepła stosuje się odpowiednio opłatę:
-1) za zamówioną moc cieplną, stanowiącą iloczyn zamówionej mocy cieplnej i ceny za zamówioną moc cieplną dla określonego nośnika ciepła opłata ta jest pobierana 12 ratach miesięcznych;
-2) za ciepło, stanowiącą iloczyn ilości ciepła, ustalonej na podstawie odczytu wskazań układu pomiarowo-rozliczeniowego zainstalowanego miejscu określonym umowie sprzedaży ciepła, i ceny ciepła dla określonego nośnika ciepła opłata ta jest pobierana za każdy miesiąc, którym dostarczono ciepło;
-3) za nośnik ciepła, stanowiącą iloczyn ilości tego nośnika, ustalonej na podstawie wskazań układu pomiarowo-rozliczeniowego zainstalowanego miejscu określonym umowie sprzedaży ciepła albo umowie o świadczenie usług przesyłania lub dystrybucji ciepła, i ceny nośnika ciepła dla danej sieci ciepłowniczej opłata ta jest pobierana za każdy miesiąc, którym dostarczono nośnik ciepła;
-4) stałą za usługi przesyłowe, stanowiącą iloczyn zamówionej mocy cieplnej i stawki opłaty stałej za usługi przesyłowe dla danej sieci ciepłowniczej opłata ta jest pobierana 12 ratach miesięcznych;
-5) zmienną za usługi przesyłowe, stanowiącą iloczyn ilości ciepła, ustalonej na podstawie odczytów wskazań układu pomiarowo-rozliczeniowego zainstalowanego miejscu określonym umowie sprzedaży ciepła, i stawki opłaty zmiennej za usługi przesyłowe dla danej sieci ciepłowniczej opłata ta jest pobierana za każdy miesiąc, którym dostarczono ciepło.
-§ 31. 1. Przedsiębiorstwo energetyczne prowadzi rozliczenia z odbiorcami ciepła, odpowiednio do zakresu świadczonych usług dla poszczególnych grup taryfowych, na podstawie odczytów wskazań układów pomiarowo-rozliczeniowych zainstalowanych na przyłączach do węzłów cieplnych lub innych miejscach rozgraniczenia eksploatacji urządzeń i instalacji, określonych umowie sprzedaży ciepła lub umowie o świadczenie usług przesyłania lub dystrybucji albo umowie kompleksowej.
-2. W rozliczeniach prowadzonych z odbiorcami ciepła wytwórca ciepła stosuje opłaty obliczane na podstawie ustalonych taryfie cen za zamówioną moc cieplną, cen ciepła i cen nośnika ciepła, a przypadku:
-1) źródeł ciepła, o których mowa § 7 ust. 8, opłaty obliczane są na podstawie ustalonych taryfie stawek opłat za zamówioną moc cieplną i stawek opłat za ciepło;
-2) lokalnych źródeł ciepła, o których mowa § 21 ust. 3, opłaty obliczane są na podstawie ustalonych taryfie miesięcznych i sezonowych stawek opłat.
-3. W rozliczeniach prowadzonych z odbiorcami ciepła przedsiębiorstwo ciepłownicze stosuje opłaty obliczane na podstawie ustalonych taryfie cen za zamówioną moc cieplną, cen ciepła, cen nośnika ciepła oraz stawek opłat stałych i zmiennych za usługi przesyłowe, a przypadku:
-1) źródeł ciepła, o których mowa § 7 ust. 8, opłaty obliczane na podstawie ustalonych taryfie stawek opłat za zamówioną moc cieplną i stawek opłat za ciepło;
-2) lokalnych źródeł ciepła, o których mowa § 21 ust. 3, opłaty obliczane na podstawie ustalonych taryfie miesięcznych i sezonowych stawek opłat;
-3) zakupu ciepła od innego przedsiębiorstwa energetycznego opłaty obliczane na podstawie cen i stawek opłat ustalonych dla danej sieci ciepłowniczej przez przedsiębiorstwo energetyczne, od którego jest kupowane ciepło sprzedawane odbiorcom.
-4. W rozliczeniach prowadzonych z odbiorcami ciepła dystrybutor ciepła stosuje opłaty obliczane na podstawie:
-1) ustalonych taryfie stawek opłat stałych i zmiennych za usługi przesyłowe;
-2) cen i stawek opłat ustalonych dla danej sieci ciepłowniczej przez przedsiębiorstwo energetyczne, od którego jest kupowane ciepło sprzedawane odbiorcom.
-5. W rozliczeniach prowadzonych z odbiorcami ciepła przedsiębiorstwo obrotu ciepłem stosuje opłaty obliczane na podstawie stawek opłat za obsługę odbiorców, ustalonych taryfie tego przedsiębiorstwa oraz opłaty obliczane na podstawie:
-1) cen za zamówioną moc cieplną, cen ciepła i cen nośnika ciepła, ustalonych dla danej sieci ciepłowniczej przez przedsiębiorstwa energetyczne, od których jest kupowane ciepło sprzedawane odbiorcom;
-2) stawek opłat stałych i zmiennych za usługi przesyłowe, ustalonych dla danej sieci ciepłowniczej przez przedsiębiorstwa energetyczne świadczące usługi przesyłowe dla przedsiębiorstwa obrotu ciepłem.
-1) to przedsiębiorstwo taryfie dla ciepła;
-2) inne przedsiębiorstwa energetyczne, z którymi prowadzi rozliczenia obrocie ciepłem.
-§ 33. Rodzaje opłat pobieranych od odbiorców ciepła oraz podstawy i sposób ich obliczania określać powinna umowa sprzedaży ciepła lub umowa o świadczenie usług przesyłania lub dystrybucji albo umowa kompleksowa, a wysokość tych opłat, jeżeli umowa nie stanowi inaczej, oblicza się następujący sposób:
-1) miesięczna rata opłaty za zamówioną moc cieplną, pobierana każdym miesiącu, stanowi iloczyn zamówionej mocy cieplnej oraz 1/12 ceny za zamówioną moc cieplną dla danej grupy taryfowej lub stawki opłaty miesięcznej za zamówioną moc cieplną dla danej grupy taryfowej zasilanej ze źródła ciepła, o którym mowa § 7 ust. 8;
-2) opłata za ciepło, pobierana za każdy miesiąc, którym nastąpił pobór ciepła, stanowi iloczyn ilości dostarczonego ciepła ustalonej na podstawie odczytów wskazań układu pomiarowo-rozliczeniowego zainstalowanego na przyłączu do węzła cieplnego lub do zewnętrznych instalacji odbiorczych albo innych miejscach rozgraniczenia eksploatacji urządzeń i instalacji, o których mowa § 31 ust. 1, oraz ceny ciepła dla danej grupy taryfowej lub stawki opłaty za ciepło dla danej grupy taryfowej zasilanej ze źródła ciepła, o którym mowa § 7 ust. 8;
-3) opłata za nośnik ciepła, pobierana za każdy miesiąc, którym nastąpił pobór nośnika ciepła, stanowi iloczyn ilości nośnika ciepła dostarczonego do napełniania i uzupełnienia ubytków wody instalacjach odbiorczych, ustalonej na podstawie odczytów wskazań układu pomiarowo-rozliczeniowego zainstalowanego węźle cieplnym, oraz ceny nośnika ciepła dla danej grupy taryfowej;
-4) miesięczna rata opłaty stałej za usługi przesyłowe, pobierana każdym miesiącu, stanowi iloczyn zamówionej mocy cieplnej oraz 1/12 stawki opłaty stałej za usługi przesyłowe dla danej grupy taryfowej;
-5) opłata zmienna za usługi przesyłowe, pobierana za każdy miesiąc, którym nastąpił pobór ciepła, stanowi iloczyn ilości dostarczonego ciepła ustalonej na podstawie odczytów wskazań układu pomiarowo-rozliczeniowego zainstalowanego na przyłączu do węzła cieplnego lub do zewnętrznych instalacji odbiorczych albo innych miejscach rozgraniczenia eksploatacji urządzeń i instalacji, o których mowa § 31 ust. 1, oraz stawki opłaty zmiennej za usługi przesyłowe dla danej grupy taryfowej;
-6) miesięczna rata opłaty za obsługę odbiorców, pobierana przez przedsiębiorstwo obrotu ciepłem każdym miesiącu, stanowi iloczyn zamówionej mocy cieplnej i 1/12 stawki opłaty za obsługę odbiorców dla danej grupy taryfowej.
-§ 34. 1. W przypadku dostarczania ciepła do grupowego węzła cieplnego obsługującego obiekty więcej niż jednego odbiorcy, zawarte z odbiorcami umowy sprzedaży ciepła, umowy o świadczenie usług przesyłania lub dystrybucji albo umowy kompleksowe powinny określać także rodzaje opłat pobieranych od tych odbiorców oraz podstawy ich obliczania.
-2. Jeżeli umowy, o których mowa ust. 1, nie stanowią inaczej, wysokość opłat oblicza się następujący sposób:
-1) miesięczne raty opłaty za zamówioną moc cieplną, pobierane od odbiorców każdym miesiącu, stanowią iloczyn zamówionej mocy cieplnej dla obiektów danego odbiorcy oraz 1/12 ceny za zamówioną moc cieplną dla danej grupy taryfowej;
-2) miesięczne raty opłaty stałej za usługi przesyłowe, pobierane od odbiorców każdym miesiącu, stanowią iloczyn zamówionej mocy cieplnej dla obiektów danego odbiorcy oraz 1/12 stawki opłaty stałej za usługi przesyłowe dla danej grupy taryfowej;
-3) opłata za dostarczone ciepło, pobierana od odbiorców za każdy miesiąc, którym nastąpił pobór ciepła, jest obliczana następujący sposób:
-a) przypadku gdy zewnętrzne instalacje odbiorcze są eksploatowane przez przedsiębiorstwo energetyczne, opłatę za ciepło dostarczone: celu ogrzewania oblicza się jako iloczyn ilości ciepła, ustalonej na podstawie odczytów wskazań urządzeń pomiarowo-rozliczeniowych zainstalowanych przyłączach do instalacji centralnego ogrzewania obiektach danego odbiorcy, oraz ceny ciepła dla danej grupy taryfowej, celu podgrzewania wody wodociągowej oblicza się według wzoru: O = Q  C  G : G gdzie poszczególne symbole oznaczają: O opłatę za ciepło dostarczone celu podgrzewania wody wodociągowej, obliczoną dla danego odbiorcy [w zł], tym węźle [w GJ], C cenę ciepła dla danej grupy taryfowej [w zł/GJ], G sumę zużycia ciepłej wody na podstawie odczytów wskazań wodomierzy zainstalowanych na przyłączach do instalacji ciepłej wody obiektach danego odbiorcy [w m ], G sumę zużycia ciepłej wody na podstawie odczytów wskazań wodomierzy zainstalowanych na przyłączach do instalacji ciepłej wody we wszystkich obiektach zasilanych z grupowego węzła cieplnego [w m ],
-b) przypadku gdy zewnętrzne instalacje odbiorcze nie są eksploatowane przez przedsiębiorstwo energetyczne, opłatę za ciepło oblicza się jako sumę iloczynów ilości ciepła dostarczonego do grupowego węzła cieplnego ustalonej na podstawie odczytów wskazań układu pomiarowo-rozliczeniowego zainstalowanego węźle cieplnym oraz ceny ciepła dla danej grupy taryfowej;
-4) opłata zmienna za usługi przesyłania i dystrybucji ciepła, pobierana od odbiorców za każdy miesiąc, którym nastąpił pobór ciepła, jest obliczana:
-a) jako iloczyn stawki opłaty zmiennej za usługi przesyłania i dystrybucji ciepła dla danej grupy taryfowej oraz łącznej ilości ciepła, ustalonej sposób określony pkt 3 lit. a przypadku gdy zewnętrzne instalacje odbiorcze są eksploatowane przez przedsiębiorstwo energetyczne,
-b) jako iloczyn stawki opłaty zmiennej za usługi przesyłania i dystrybucji ciepła dla danej grupy taryfowej oraz łącznej ilości ciepła, ustalonej sposób określony pkt 3 lit. b przypadku gdy zewnętrzne instalacje odbiorcze nie są eksploatowane przez przedsiębiorstwo energetyczne;
-5) opłata za nośnik ciepła, pobierana od odbiorców za każdy miesiąc, którym nastąpił pobór nośnika ciepła, dostarczonego do napełniania i uzupełnienia ubytków wody instalacji centralnego ogrzewania, jest obliczana według wzoru: O = G  C  N : N gdzie poszczególne symbole oznaczają: O opłatę za nośnik ciepła, obliczoną dla danego odbiorcy [w zł], G ilość nośnika ciepła dostarczonego do grupowego węzła cieplnego celu napełniania i uzupełnienia ubytków wody połączonej z tym węzłem instalacji centralnego ogrzewania [w m ], C cenę nośnika ciepła dla danej grupy taryfowej [w zł/m ], N sumę mocy cieplnej instalacji ogrzewania dla obiektów danego odbiorcy [w MW], N sumę mocy cieplnej instalacji ogrzewania dla wszystkich obiektów zasilanych z grupowego węzła cieplnego [w MW].
-§ 35. 1. W przypadku gdy na wniosek odbiorcy przedsiębiorstwo energetyczne zawarło z nim umowę, której zamiast ustalonych taryfie ceny za zamówioną moc cieplną i ceny ciepła lub stawki opłaty miesięcznej i stawki opłaty za ciepło określono średnią cenę ciepła albo zamiast ustalonych taryfie stawki opłaty stałej za usługi przesyłowe i stawki opłaty zmiennej za te usługi określono średnią stawkę opłaty za usługi przesyłowe, rozliczenia z takim odbiorcą prowadzone są na podstawie średniej ceny ciepła i średniej stawki opłaty za usługi przesyłowe, obliczonych sposób określony § 24 ust. 2.
-2. Rodzaje opłat pobieranych od odbiorcy ciepła oraz podstawa i sposób ich obliczania powinny być określone umowie, o której mowa ust. 1, a wysokość tych opłat, jeżeli umowa nie stanowi inaczej, oblicza się następujący sposób:
-1) opłata za ciepło, pobierana za każdy miesiąc, którym nastąpił pobór ciepła, stanowi iloczyn ilości dostarczonego ciepła, ustalonej na podstawie odczytów wskazań układu pomiarowo-rozliczeniowego zainstalowanego przyłączu do węzła cieplnego lub do zewnętrznych instalacji odbiorczych albo innych miejscach rozgraniczenia eksploatacji urządzeń i instalacji, o których mowa § 31 ust. 1, oraz średniej ceny ciepła, o której mowa ust. 1;
-2) opłata za usługi przesyłowe, pobierana za każdy miesiąc, którym nastąpił pobór ciepła, stanowi iloczyn ilości dostarczonego ciepła, ustalonej na podstawie odczytów wskazań układu pomiarowo-rozliczeniowego zainstalowanego na przyłączu do węzła cieplnego lub do zewnętrznych instalacji odbiorczych albo innych miejscach rozgraniczenia eksploatacji urządzeń i instalacji, o których mowa § 31 ust. 1, oraz średniej stawki opłaty za usługi przesyłowe, o której mowa ust. 1.
-2. W przypadku grupowego węzła cieplnego, z którym połączone są instalacje odbiorcze zasilające obiekty więcej niż jednego odbiorcy, opłatę za przyłączenie grupowego węzła cieplnego do sieci ciepłowniczej, ustaloną sposób określony ust. 1, dzieli się między poszczególnych odbiorców proporcjonalnie do ich udziału obciążeniu grupowego węzła cieplnego według wzoru: O = O  N : N gdzie poszczególne symbole oznaczają: O opłatę za przyłączenie dla danego odbiorcy, O opłatę za przyłączenie grupowego węzła cieplnego do sieci ciepłowniczej, N sumę zamówionej mocy cieplnej dla obiektów danego odbiorcy [w MW], N sumę zamówionej mocy cieplnej dla wszystkich obiektów obsługiwanych przez grupowy węzeł cieplny [w MW].
-§ 37. 1. W przypadku uszkodzenia lub stwierdzenia nieprawidłowych wskazań układu pomiarowo-rozliczeniowego, okresie braku prawidłowego pomiaru ilości i parametrów nośnika ciepła, wysokość opłat ustala się sposób określony rozporządzeniu, jeżeli umowa sprzedaży ciepła, umowa o świadczenie usług przesyłania lub dystrybucji albo umowa kompleksowa nie stanowi inaczej.
-2. W przypadku uszkodzenia układu pomiarowo-rozliczeniowego, o którym mowa ust. 1, ilość ciepła dostarczonego okresie braku prawidłowego pomiaru, oznaczoną symbolem „Q ”, oblicza się według wzoru: Q = [Q (t t ) : (t t ) + Q ]  h : h gdzie poszczególne symbole oznaczają: Q ilość ciepła dostarczonego okresie braku prawidłowego pomiaru [w GJ], Q ilość ciepła zależną od warunków atmosferycznych, dostarczoną na ogrzewanie i wentylację miesięcznym okresie rozliczeniowym przed uszkodzeniem układu pomiarowo-rozliczeniowego [w GJ], Q ilość ciepła niezależną od warunków atmosferycznych, dostarczoną na podgrzewanie wody wodociągowej i na cele technologiczne miesięcznym okresie rozliczeniowym przed uszkodzeniem układu pomiarowo-rozliczeniowego [w GJ], t normatywną temperaturę ogrzewanych pomieszczeń [w °C], t średnią temperaturę zewnętrzną okresie braku prawidłowego pomiaru [w °C], t średnią temperaturę zewnętrzną miesięcznym okresie rozliczeniowym przed uszkodzeniem układu pomiarowo-rozliczeniowego [w °C], h liczbę dni okresie braku prawidłowego pomiaru, h liczbę dni miesięcznym okresie rozliczeniowym przed uszkodzeniem układu pomiarowo-rozliczeniowego.
-3. W przypadku stwierdzenia nieprawidłowych wskazań układu pomiarowo-rozliczeniowego wprowadza się uzgodnioną przez strony korektę odczytów wskazań tego układu, a jeżeli uzgodnienie tej korekty nie jest możliwe, ilość ciepła dostarczonego okresie nieprawidłowych wskazań układu pomiarowo-rozliczeniowego oblicza się sposób określony ust. 2.
-4. Jeżeli nie można ustalić liczby dni okresie braku prawidłowego pomiaru, ilość dostarczonego ciepła oblicza się począwszy od dnia rozpoczęcia okresu rozliczeniowego do dnia usunięcia stwierdzonych nieprawidłowości.
-5. Żądanie odbiorcy sprawdzenia przez przedsiębiorstwo energetyczne prawidłowości wskazań układu pomiarowo-rozliczeniowego lub zawiadomienie o jego wadliwym działaniu nie zwalnia odbiorcy od terminowego regulowania bieżących należności za usługi związane z zaopatrzeniem ciepło.
-6. Odbiorca pokrywa koszty zażądanego przez niego sprawdzenia układu pomiarowo-rozliczeniowego przypadku, gdy nie stwierdzono:
-1) błędu wskazań układu pomiarowo-rozliczeniowego większego od określonego odrębnych przepisach, z uwzględnieniem klasy dokładności;
-2) innych niż wymienione pkt 1 wad powodujących nieprawidłowe działanie układu pomiarowo-rozliczeniowego.
-usług przesyłania lub dystrybucji ciepła albo umowie kompleksowej, jeżeli umowy te nie stanowią inaczej, wysokość opłat ustala się następujący sposób:
-1) jeżeli przedsiębiorstwo energetyczne bez zmiany postanowień umowy sprzedaży ciepła, umowy o świadczenie usług przesyłania lub dystrybucji ciepła lub umowy kompleksowej:
-a) zwiększyło obliczeniowe natężenie przepływu nośnika ciepła i przekroczyło jego dopuszczalne odchylenie, do obliczenia wysokości opłat za ilość dostarczonego ciepła i zamówioną moc cieplną przyjmuje się obliczeniowe natężenie przepływu nośnika ciepła,
-b) zmniejszyło obliczeniowe natężenie przepływu nośnika ciepła i przekroczyło jego dopuszczalne odchylenie, do obliczenia wysokości opłat za zamówioną moc cieplną przyjmuje się zmniejszone natężenie przepływu,
-c) podniosło temperaturę dostarczanego nośnika ciepła i przekroczyło jej dopuszczalne odchylenie, do obliczenia wysokości opłat za ilość dostarczonego ciepła przyjmuje się temperaturę nośnika ciepła, wysokości określonej umowie,
-d) obniżyło temperaturę dostarczanego nośnika ciepła i przekroczyło jej dopuszczalne odchylenie, do obliczenia wysokości opłat za ilość dostarczonego ciepła przyjmuje się obniżoną temperaturę nośnika ciepła;
-2) jeżeli odbiorca, bez zmiany postanowień umowy sprzedaży ciepła, umowy o świadczenie usług przesyłania lub dystrybucji ciepła lub umowy kompleksowej:
-a) zwiększył obliczeniowe natężenie przepływu nośnika ciepła i przekroczył jego dopuszczalne odchylenie, do obliczenia wysokości opłat za ilość dostarczonego ciepła i zamówioną moc cieplną przyjmuje się zwiększone natężenie przepływu nośnika ciepła,
-b) zmniejszył obliczeniowe natężenie przepływu nośnika ciepła i przekroczył jego dopuszczalne odchylenie, do obliczenia wysokości opłat za: ilość dostarczonego ciepła przyjmuje się zmniejszone natężenie przepływu nośnika ciepła, zamówioną moc cieplną przyjmuje się obliczeniowe natężenie przepływu nośnika ciepła,
-c) podniósł temperaturę zwracanego nośnika ciepła i przekroczył jej dopuszczalne odchylenie, do obliczenia wysokości opłat za ilość dostarczonego ciepła przyjmuje się temperaturę nośnika ciepła, która jest zgodna z warunkami umowy,
-d) obniżył temperaturę zwracanego nośnika ciepła i przekroczył jej dopuszczalne odchylenie, do obliczenia wysokości opłat za ilość dostarczonego ciepła przyjmuje się obniżoną temperaturę nośnika ciepła.
-2. Sprawdzenie dotrzymywania przez przedsiębiorstwo energetyczne standardów jakościowych obsługi odbiorców i dotrzymywania przez odbiorcę warunków umowy sprzedaży ciepła lub umowy o świadczenie usług przesyłania lub dystrybucji ciepła albo umowy kompleksowej zakresie określonym ust. 1 jest dokonywane, jeżeli umowy te nie stanowią inaczej, na podstawie średniego natężenia przepływu i temperatury nośnika ciepła w:
-1) okresie doby gdy nośnikiem ciepła jest woda;
-2) ciągu godziny gdy nośnikiem ciepła jest para.
-3. Jeżeli umowa nie stanowi inaczej, średnie natężenie przepływu i średnia temperatura nośnika ciepła, o których mowa ust. 2, stanowią podstawę do ustalania opłat za zamówioną moc cieplną i ciepło oraz opłaty stałej i zmiennej za usługi przesyłowe, pobieranych za miesiąc, którym stwierdzono niedotrzymanie standardów jakościowych obsługi odbiorców lub niedotrzymanie przez odbiorcę warunków umowy.
-§ 39. 1. Odbiorcy przysługują bonifikaty przypadku niedotrzymania przez przedsiębiorstwo energetyczne warunków umowy sprzedaży ciepła lub umowy o świadczenie usług przesyłania lub dystrybucji albo umowy kompleksowej zakresie:
-1) terminów rozpoczęcia i zakończenia dostarczania ciepła celu ogrzewania;
-2) planowanych przerw dostarczaniu ciepła okresie letnim.
-2. Wysokość bonifikat, o których mowa ust. 1, jeżeli umowa sprzedaży ciepła lub umowa o świadczenie usług przesyłania lub dystrybucji albo umowa kompleksowa nie stanowi inaczej, ustala się następujący sposób:
-1) jeżeli rozpoczęcie lub zakończenie dostarczania ciepła celu ogrzewania nastąpiło z opóźnieniem stosunku do ustalonych standardów jakościowych obsługi odbiorców, bonifikata stanowi 1/30 miesięcznej opłaty za zamówioną moc cieplną dla obiektów, których nastąpiło opóźnienie za każdą rozpoczętą dobę opóźnienia;
-2) jeżeli planowa przerwa dostarczaniu ciepła okresie letnim była dłuższa od ustalonych standardów jakościowych obsługi odbiorców, bonifikata stanowi 1/30 miesięcznej opłaty za zamówioną moc cieplną dla obiektów, których nastąpiło przedłużenie przerwy dostarczaniu ciepła za każdą rozpoczętą dobę przedłużenia tej przerwy.
-12 miesięcy. Wielkość zamówionej mocy cieplnej może być zmieniona wyłącznie terminach ustalonych tych umowach.
-2. W przypadku gdy zamówiona przez odbiorcę moc cieplna jest mniejsza od mocy cieplnej określonej umowie o przyłączenie danego obiektu do sieci ciepłowniczej albo gdy wartości współczynnika wykorzystania zamówionej mocy cieplnej znacznie różnią się od wartości technicznie uzasadnionych, przedsiębiorstwo energetyczne może dokonać sezonie grzewczym kontroli prawidłowości określenia przez odbiorcę zamówionej mocy cieplnej.
-3. Jeżeli zawarta z odbiorcą umowa nie stanowi inaczej, sprawdzenie, o którym mowa ust. 2, może być dokonane na podstawie odczytów wskazań układu pomiarowo-rozliczeniowego oraz następujących obliczeń: N = Q : (24  3,6) N = Q : (24  3,6) N = N (t t ) : (t t ) + N gdzie poszczególne symbole oznaczają: N średni pobór mocy cieplnej na cele grzewcze danym obiekcie ciągu doby, podczas której średnia temperatura zewnętrzna wynosiła t [w MW], Q ilość ciepła dostarczonego na cele grzewcze ciągu doby, dla której obliczany jest średni pobór mocy cieplnej na cele grzewcze danym obiekcie, określoną na podstawie wskazań układu pomiarowo-rozliczeniowego [w GJ], N średni pobór mocy cieplnej na cele podgrzewania wody wodociągowej danym obiekcie ciągu doby, podczas której średnia temperatura zewnętrzna wynosiła t [w MW], Q ilość ciepła dostarczonego na cele podgrzewania wody wodociągowej ciągu doby, dla której obliczany jest średni pobór mocy cieplnej na cele grzewcze danym obiekcie, określoną na podstawie wskazań układu pomiarowo-rozliczeniowego [w GJ], N obliczoną wielkość zamówionej mocy cieplnej dla danego obiektu [w MW], t normatywną temperaturę ogrzewanych pomieszczeń danym obiekcie [w K], t obliczeniową temperaturę zewnętrzną dla strefy klimatycznej, której jest zlokalizowany dany obiekt [w K], t średnią temperaturę zewnętrzną ciągu doby, dla której obliczono średni pobór mocy cieplnej na cele grzewcze i na cele podgrzewania wody wodociągowej danym obiekcie N i N [w K].
-§ 41. 1. W przypadku wodnych sieci ciepłowniczych przedsiębiorstwo energetyczne ustala obliczeniowe natężenie przepływu przyłączach do poszczególnych węzłów cieplnych, na podstawie zamówionej przez odbiorców mocy cieplnej dla obiektów zasilanych z tych węzłów i różnicy temperatury wody dostarczanej do przyłącza i zwracanej do sieci ciepłowniczej warunkach obliczeniowych, na podstawie wzoru: G N =  3,6  10 c  ρ  [(T − dT ) − T ] gdzie poszczególne symbole oznaczają: G obliczeniowe natężenie przepływu wody danym przyłączu do węzła cieplnego [w m /h], N zamówioną moc cieplną dla obiektów zasilanych z danego węzła cieplnego [w MW], c średnie ciepło właściwe wody parametrach pracy węzła warunkach obliczeniowych [w kJ/kgK], ρ średnią gęstość wody parametrach pracy węzła warunkach obliczeniowych [w kg/m ], T temperaturę wody rurociągu zasilającym dany węzeł cieplny, określoną tabeli regulacyjnej dla danej sieci ciepłowniczej dla warunków obliczeniowych [w K], dT obniżenie temperatury wody dostarczanej do danego przyłącza wskutek strat ciepła podczas przesyłania [w K], T temperaturę wody rurociągu powrotnym z danego węzła cieplnego, określoną dla warunków obliczeniowych [w K].
-2. Obniżenie temperatury wody przyłączu oznaczone symbolem „dT ”, o którym mowa ust. 1, powinno być określone umowie sprzedaży ciepła lub umowie o świadczenie usług przesyłania lub dystrybucji albo umowie kompleksowej.
-nych węźle.
-4. Obliczeniowe natężenie przepływu wody dla węzła cieplnego stanowi podstawę doboru urządzenia regulującego natężenie przepływu nośnika ciepła tym przyłączu.
-§ 42. 1. Wielkość poboru mocy cieplnej oblicza się na podstawie odczytów wskazań układu pomiarowo-rozliczeniowego.
-2. Przy dostarczaniu ciepła, którego nośnikiem jest para wodna, wielkość poboru mocy cieplnej oblicza się:
-1) na podstawie odczytanego średniego poboru mocy zarejestrowanego przez ciepłomierz okresie nie krótszym niż godzina;
-2) jako różnicę odczytów wskazań ciepłomierza nieposiadającego rejestracji poboru mocy, dokonanych odstępie jednej godziny;
-3) przypadku braku ciepłomierza na podstawie średniego ciągu godziny natężenia przepływu, ciśnienia i temperatury pary dostarczanej ze źródła ciepła do sieci ciepłowniczej lub z sieci ciepłowniczej do węzła cieplnego oraz średniego ciągu tej godziny natężenia przepływu i temperatury skroplin, zwracanych z sieci ciepłowniczej do źródła ciepła lub z węzła cieplnego do sieci ciepłowniczej.
-3. Przy dostarczaniu ciepła, którego nośnikiem jest gorąca woda, wielkość poboru mocy cieplnej oblicza się jako 1/24 różnicy odczytów wskazań ciepłomierza, dokonanych odstępie 24 godzin, a przypadku braku ciepłomierza na podstawie średniego ciągu doby natężenia przepływu i temperatury wody dostarczanej ze źródła ciepła do sieci ciepłowniczej lub z sieci ciepłowniczej do węzła cieplnego oraz średniego ciągu tej doby natężenia przepływu i temperatury wody zwracanej z sieci ciepłowniczej do źródła ciepła lub z węzła cieplnego do sieci ciepłowniczej.
-4. Ograniczenie lub przekroczenie mocy cieplnej określa się jako różnicę między zamówioną mocą cieplną a wielkością poboru mocy cieplnej, obliczoną sposób określony ust. 2 lub 3, odniesioną do warunków obliczeniowych przypadku, gdy nośnikiem ciepła jest:
-1) para wodna na podstawie umowy zawartej między stronami;
-2) gorąca woda na podstawie parametrów tego nośnika dla warunków obliczeniowych oraz dla tych samych warunków atmosferycznych, których określono wielkość poboru mocy cieplnej, określonych tabeli regulacyjnej.
-5. Jeżeli umowa sprzedaży ciepła lub umowa o świadczenie usługi przesyłania lub dystrybucji ciepła albo umowa kompleksowa nie stanowi inaczej, a ustalone odrębnych przepisach standardy jakościowe obsługi odbiorców określające dopuszczalne odchylenia natężenia przepływu i parametrów nośnika ciepła są dotrzymywane przez przedsiębiorstwo energetyczne, wynikające z tych odchyleń dopuszczalne ograniczenie mocy cieplnej wynosi warunkach obliczeniowych:
-1) przy dostarczaniu ciepła do sieci ciepłowniczej:
-a) do 7% gdy nośnikiem ciepła jest gorąca woda,
-b) do 10% gdy nośnikiem ciepła jest para;
-2) przy dostarczaniu ciepła do węzła cieplnego:
-a) do 10% gdy nośnikiem ciepła jest gorąca woda,
-b) do 17% gdy nośnikiem ciepła jest para.
-§ 43. 1. Jeżeli z powodu niedotrzymania przez przedsiębiorstwo energetyczne standardów jakościowych obsługi odbiorców nastąpiło ograniczenie mocy cieplnej, jeżeli umowa sprzedaży ciepła lub umowa o świadczenie usług przesyłania lub dystrybucji ciepła albo umowa kompleksowa nie stanowi inaczej, odbiorcy przysługuje bonifikata, której wysokość oblicza się następujący sposób:
-1) jeżeli ograniczenie mocy cieplnej wynosi do 40%, wysokość bonifikaty oblicza się według wzorów: S = S + S S = 0,25 (N N )  C  h : 365 S = 0,4 (N N )  3,6  24  h  C S = 0,5 (N N )  C  h : 365 S = 0,8 (N N )  3,6  24  h  C gdzie poszczególne symbole oznaczają: S łączną bonifikatę za ograniczenia dostarczaniu ciepła, S bonifikatę za ograniczenie mocy cieplnej, S bonifikatę za niedostarczone ciepło, N moc cieplną określoną na podstawie obliczeniowego natężenia przepływu i parametrów nośnika ciepła określonych tabeli regulacyjnej [w MW], N rzeczywistą moc cieplną określoną na podstawie natężenia przepływu i rzeczywistych parametrów nośnika ciepła [w MW], 24 mnożnik oznaczający 24 godziny ciągu doby [w h], h liczbę dni, których wystąpiły ograniczenia dostarczaniu ciepła spowodowane niedotrzymaniem przez przedsiębiorstwo energetyczne standardów jakościowych obsługi odbiorców, C cenę za zamówioną moc cieplną dla danej grupy taryfowej [w zł/MW], C cenę ciepła dla danej grupy taryfowej [w zł/GJ].
-2. Niedotrzymanie standardów jakościowych obsługi odbiorców, o których mowa ust. 1, wymaga potwierdzenia protokołem podpisanym przez strony, które zawarły umowę sprzedaży ciepła lub umowę o świadczenie usług przesyłania lub dystrybucji ciepła albo umowę kompleksową.
-3. W przypadku niestawienia się przedstawiciela jednej ze stron uzgodnionym miejscu i czasie celu sporządzenia protokołu, o którym mowa ust. 2, protokół może być sporządzony przez jedną ze stron oraz stanowi podstawę do dochodzenia bonifikat, o których mowa ust. 1.
-§ 44. Bonifikaty za niedotrzymanie standardów jakościowych obsługi odbiorców, obliczone sposób określony § 43 ust. 1 na podstawie odczytów wskazań układu pomiarowo-rozliczeniowego zainstalowanego grupowym węźle cieplnym, obsługującym obiekty więcej niż jednego odbiorcy, dzieli się między poszczególnych odbiorców proporcjonalnie do ich udziału obciążeniu grupowego węzła cieplnego według wzoru: U = U  N : N gdzie poszczególne symbole oznaczają: U bonifikatę dla danego odbiorcy, U bonifikatę obliczoną na podstawie odczytów wskazań układu pomiarowo-rozliczeniowego zainstalowanego grupowym węźle cieplnym, N zamówioną moc cieplną dla obiektów danego odbiorcy [w MW], N zamówioną moc cieplną dla wszystkich obiektów zasilanych z grupowego węzła cieplnego [w MW].
-§ 45. 1. W przypadku gdy ciepło jest pobierane bez zawarcia umowy sprzedaży ciepła lub umowy o świadczenie usług przesyłania lub dystrybucji ciepła albo umowy kompleksowej, przedsiębiorstwo energetyczne obciąża nielegalnie pobierającego ciepło opłatami wysokości wynikającej z pięciokrotności miesięcznej raty za zamówioną moc cieplną i miesięcznej opłaty za ciepło oraz miesięcznej raty opłaty stałej za usługi przesyłowe i miesięcznej opłaty zmiennej za usługi przesyłowe, określonych na podstawie cen i stawek opłat zawartych taryfie dla grupy taryfowej, której kryteria odpowiadają nielegalnie pobierającemu ciepło, oraz:
-1) wielkości nielegalnie pobranej przez niego mocy cieplnej, ustalonej na podstawie wielkości obiektów, których ciepło jest pobierane bez zawarcia umowy, oraz zamówionej mocy cieplnej dla podobnych obiektów;
-2) wielkości nielegalnie pobranego przez niego ciepła, ustalonej na podstawie wielkości nielegalnie pobranej mocy cieplnej, o której mowa pkt 1, i średniego czasu jej wykorzystania dla podobnych obiektów.
-2. Opłaty, o których mowa ust. 1, oblicza się dla całego nieobjętego przedawnieniem okresu udowodnionego nielegalnego pobierania ciepła, a przypadku braku możliwości udowodnienia tego okresu dla okresu roku.
-1) pobierał ciepło niezgodnie z warunkami określonymi umowie sprzedaży ciepła lub umowie o świadczenie usług przesyłania lub dystrybucji ciepła albo umowie kompleksowej, szczególności gdy pobierał ciepło z całkowitym lub częściowym pominięciem układu pomiarowo-rozliczeniowego lub dokonał ingerencji ten układ, powodując zafałszowanie pomiarów ilości pobranego ciepła;
-2) uniemożliwił dokonanie wstrzymania dostarczania ciepła na podstawie art. 6b ust. 1, 2 lub 4 ustawy.
-4. W przypadku przekroczenia zamówionej mocy cieplnej przez odbiorcę, bez uzgodnienia z przedsiębiorstwem energetycznym lub niezgodnie z warunkami umowy, przedsiębiorstwo energetyczne, za wielkość przekroczenia mocy określonego na podstawie § 42 ust. 4, może obciążyć odbiorcę opłatą za zamówioną moc cieplną oraz opłatą stałą za usługę przesyłową sposób określony ust. 3.
-5. Opłaty, o których mowa ust. 3 i 4, oblicza się dla każdego miesiąca, którym nastąpił pobór ciepła niezgodnie z umową albo odbiorca uniemożliwił wstrzymanie dostarczania ciepła, mimo spełnienia przez przedsiębiorstwo energetyczne warunków określonych art. 6b ust. 1, 2 lub 4 ustawy.
-§ 47. 1. W przypadku źródeł, o których mowa § 13 ust. 1, które 2018 r. brały udział systemie handlu uprawnieniami do emisji gazów cieplarnianych oraz które zostały oddane do użytku nie później niż dniu 31 grudnia 2017 r., taryfie zatwierdzonej przez Prezesa Urzędu Regulacji Energetyki na podstawie wniosku złożonego okresie jednego roku od dnia wejścia życie rozporządzenia, do ceny ciepła, o której mowa § 13 ust. 1 i 6, jednorazowo dolicza się:
-1) przypadku jednostek kogeneracji opalanych paliwami węglowymi 1,36 zł/GJ,
-2) przypadku jednostek kogeneracji opalanych paliwami gazowymi 0,78 zł/GJ,
-3) przypadku jednostek kogeneracji opalanych olejem opałowym 0 zł/GJ,
-4) przypadku jednostek kogeneracji stanowiących instalacje odnawialnego źródła energii 0 zł/GJ z tytułu pokrycia kosztów zakupu uprawnień do emisji gazów cieplarnianych roku 2018, które nie zostały uwzględnione cenie referencyjnej, o której mowa § 13 ust. 2 i 3.
-2. W przypadku źródeł, o których mowa ust. 1, których do wytwarzania ciepła zużywanych jest jednocześnie kilka rodzajów paliwa, kwotę, o której mowa ust. 1, ustala się jako średnią z wartości podanych ust. 1 pkt 1–4 ważoną planowanym udziałem energii chemicznej poszczególnych paliw zużywanych do wytwarzania energii elektrycznej i ciepła tych źródłach.
-3. W taryfie, która została zatwierdzona zgodnie z ust. 1 lub 2, wskaźnik wzrostu przychodów, obliczony zgodnie z § 13 ust. 6, zwiększa się odpowiednio o liczbę punktów procentowych odpowiadającą kwotom, o których mowa ust. 1 pkt 1–4 lub ust. 2.
-4. Cena ciepła, o której mowa § 13 ust. 1 i 6, taryfie, która została zatwierdzona zgodnie z ust. 1 lub 2, może być wyższa od ceny referencyjnej, o której mowa § 13 ust. 2.
-§ 48. Do spraw wszczętych i niezakończonych przed dniem wejścia życie rozporządzenia stosuje się przepisy dotychczasowe.
-§ 49. Przepisy § 21 ust. 3–5 i § 31 ust. 2 pkt 2 i ust. 3 pkt 2 stosuje się do dnia 9 listopada 2022 r.
-§ 50. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.
-Minister Klimatu: M. Kurtyka
+Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Szczegółowe zasady kształtowania taryf Rozdział 3 – Szczegółowe zasady kalkulacji cen i stawek opłat Rozdział 4 – Szczegółowe zasady rozliczeń z tytułu zaopatrzenia w ciepło Rozdział 5 – Przepisy przejściowe i końcowe
+Treść rozporządzenia
+Na podstawie art. 46 ust. 5 i 6 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2019 r. poz. 755, z późn. zm.) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa szczegółowe zasady:
+1)
+kształtowania taryf przez przedsiębiorstwa energetyczne zajmujące się wytwarzaniem, magazynowaniem, przetwarzaniem, przesyłaniem, dystrybucją lub obrotem ciepłem;
+2)
+kalkulacji taryf dla ciepła;
+3)
+rozliczeń z tytułu zaopatrzenia w ciepło.
+§ 2.
+Użyte w rozporządzeniu określenia oznaczają:
+1)
+dystrybutor ciepła – przedsiębiorstwo energetyczne zajmujące się przesyłaniem i dystrybucją ciepła zakupionego od innego przedsiębiorstwa energetycznego;
+2)
+grupa taryfowa – grupę odbiorców korzystających z usług związanych z zaopatrzeniem w ciepło, z którymi rozliczenia są prowadzone na podstawie tych samych cen i stawek opłat oraz warunków ich stosowania;
+3)
+grupowy węzeł cieplny – węzeł cieplny obsługujący więcej niż jeden obiekt;
+4)
+handlowa obsługa odbiorców – czynności związane z:
+a)
+kontrolą układów pomiarowo-rozliczeniowych i odczytywaniem ich wskazań lub ustalaniem udziału odbiorcy w kosztach ciepła dostarczonego do grupowego węzła cieplnego,
+b)
+obliczaniem należności, wystawianiem faktur oraz egzekwowaniem tych należności,
+c)
+wykonywaniem kontroli dotrzymywania warunków umowy i prawidłowości rozliczeń;
+5)
+instalacja odbiorcza – połączone ze sobą urządzenia lub instalacje służące do transportowania ciepła lub ciepłej wody z węzłów cieplnych lub źródeł ciepła do odbiorników ciepła lub punktów poboru ciepłej wody w obiekcie;
+6)
+lokalne źródło ciepła – zlokalizowane w obiekcie źródło ciepła bezpośrednio zasilające instalacje odbiorcze wyłącznie w tym obiekcie;
+7)
+moc cieplna – ilość ciepła wytworzonego lub dostarczonego do podgrzania określonego nośnika ciepła albo ilość ciepła odebranego z tego nośnika w jednostce czasu;
+8)
+obiekt – budowlę lub budynek wraz z instalacjami odbiorczymi;
+9)
+obliczeniowe natężenie przepływu nośnika ciepła – największe natężenie przepływu nośnika ciepła odpowiadające w przypadku:
+a)
+sieci ciepłowniczej – przyłączeniowej mocy cieplnej i parametrom nośnika ciepła dostarczanego ze źródła ciepła do tej sieci, określonym w tabeli regulacyjnej dla warunków obliczeniowych,
+b)
+węzła cieplnego – zamówionej mocy cieplnej dla obiektu lub obiektów zasilanych z węzła cieplnego oraz parametrom nośnika ciepła dostarczanego do tego węzła, określonym w tabeli regulacyjnej dla warunków obliczeniowych,
+c)
+obiektu zasilanego z grupowego węzła cieplnego za pośrednictwem eksploatowanej przez przedsiębiorstwo energetyczne zewnętrznej instalacji odbiorczej – zamówionej mocy cieplnej na potrzeby ogrzewania i podgrzewania wody wodociągowej w tym obiekcie oraz parametrom wody dostarczanej z grupowego węzła cieplnego do instalacji centralnego ogrzewania i ciepłej wody użytkowej, określonym dla warunków obliczeniowych na podstawie danych projektowych dla tych instalacji;
+10)
+przedsiębiorstwo ciepłownicze – przedsiębiorstwo energetyczne zajmujące się wytwarzaniem ciepła w eksploatowanych przez to przedsiębiorstwo źródłach ciepła, przesyłaniem i dystrybucją oraz sprzedażą ciepła wytworzonego w tych źródłach lub zakupionego od innego przedsiębiorstwa energetycznego;
+11)
+przedsiębiorstwo obrotu ciepłem – przedsiębiorstwo energetyczne zajmujące się wyłącznie handlem ciepłem;
+12)
+przyłącze – odcinek sieci ciepłowniczej doprowadzający ciepło wyłącznie do jednego węzła cieplnego albo odcinek zewnętrznych instalacji odbiorczych za grupowym węzłem cieplnym lub źródłem ciepła, łączący te instalacje z instalacjami odbiorczymi w obiekcie;
+13)
+przyłączeniowa moc cieplna – moc cieplną ustaloną przez przedsiębiorstwo energetyczne dla danej sieci ciepłowniczej na podstawie zamówionej mocy cieplnej przez odbiorców przyłączonych do tej sieci, po uwzględnieniu strat mocy cieplnej podczas przesyłania ciepła tą siecią oraz niejednoczesności występowania szczytowego poboru mocy cieplnej u odbiorców;
+14)
+sezon grzewczy – okres, w którym warunki atmosferyczne powodują konieczność ciągłego dostarczania ciepła w celu ogrzewania obiektu;
+15)
+sieć ciepłownicza – połączone ze sobą urządzenia lub instalacje służące do przesyłania i dystrybucji ciepła ze źródeł ciepła do węzłów cieplnych;
+16)
+układ pomiarowo-rozliczeniowy – zespół urządzeń służących do pomiaru ilości i parametrów nośnika ciepła, których wskazania stanowią podstawę do obliczenia należności z tytułu dostarczania ciepła, dopuszczony do stosowania zgodnie z przepisami o miarach;
+17)
+warunki obliczeniowe:
+a)
+obliczeniową temperaturę powietrza atmosferycznego określoną dla strefy klimatycznej, w której są zlokalizowane obiekty, do których jest dostarczane ciepło,
+b)
+normatywną temperaturę ciepłej wody;
+18)
+węzeł cieplny – połączone ze sobą urządzenia lub instalacje służące do zmiany rodzaju lub parametrów nośnika ciepła dostarczanego z przyłącza oraz regulacji ilości ciepła dostarczanego do instalacji odbiorczych;
+19)
+wytwórca ciepła – przedsiębiorstwo energetyczne zajmujące się wytwarzaniem ciepła;
+20)
+tabela regulacyjna – przedstawioną w postaci tabeli lub na wykresie zależność temperatury nośnika ciepła od warunków atmosferycznych;
+21)
+zamówiona moc cieplna – ustaloną przez odbiorcę lub podmiot ubiegający się o przyłączenie do sieci ciepłowniczej największą moc cieplną, jaka w danym obiekcie wystąpi w warunkach obliczeniowych, która zgodnie z określonymi w odrębnych przepisach warunkami technicznymi oraz wymaganiami technologicznymi dla tego obiektu jest niezbędna do zapewnienia:
+a)
+pokrycia strat ciepła w celu utrzymania normatywnej temperatury i wymiany powietrza w pomieszczeniach,
+b)
+utrzymania normatywnej temperatury ciepłej wody w punktach czerpalnych,
+c)
+prawidłowej pracy innych urządzeń lub instalacji;
+22)
+zewnętrzna instalacja odbiorcza – odcinki instalacji odbiorczych łączące grupowy węzeł cieplny lub źródło ciepła z instalacjami odbiorczymi w obiektach, w tym w obiektach, w których zainstalowany jest grupowy węzeł cieplny lub źródło ciepła;
+23)
+źródło ciepła – połączone ze sobą urządzenia lub instalacje służące do wytwarzania ciepła.
+§ 3.
+Przedsiębiorstwo energetyczne opracowuje taryfę w sposób zapewniający:
+1)
+pokrycie kosztów uzasadnionych w zakresie określonym w art. 45 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, zwanej dalej „ustawą”, oraz kosztów ponoszonych odpowiednio w zakresie określonym w przepisach wydanych na podstawie art. 116 ust. 3 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2020 r. poz. 261, 284, 568 i 695);
+2)
+eliminowanie subsydiowania skrośnego.
+§ 4.
+Przedsiębiorstwo energetyczne kształtuje taryfę odpowiednio do zakresu wykonywanej działalności gospodarczej związanej z zaopatrzeniem w ciepło, rodzaju odbiorców i charakteru ich zapotrzebowania na ciepło.
+§ 5.
+1.
+Taryfa, odpowiednio do wykonywanej przez przedsiębiorstwo energetyczne działalności gospodarczej, określa:
+1)
+grupy taryfowe;
+2)
+rodzaje oraz wysokość cen i stawek opłat, a także warunki ich stosowania;
+3)
+bonifikaty za niedotrzymanie parametrów jakościowych nośnika ciepła i standardów jakościowych obsługi odbiorców;
+4)
+opłaty za nielegalny pobór ciepła.
+2.
+Określone w taryfie ceny i stawki opłat różnicuje się dla poszczególnych grup taryfowych, odpowiednio do kosztów uzasadnionych.
+3.
+Taryfę kształtuje się w taki sposób, aby odbiorca mógł na jej podstawie obliczyć należność odpowiadającą zakresowi usług związanych z zaopatrzeniem w ciepło, określonemu w umowie sprzedaży ciepła lub w umowie o świadczenie usług przesyłania lub dystrybucji ciepła albo w umowie kompleksowej.
+§ 6.
+1.
+Określone w taryfie warunki stosowania cen i stawek opłat ustala się z uwzględnieniem parametrów jakościowych nośnika ciepła i standardów jakościowych obsługi odbiorców, określonych w umowie sprzedaży ciepła, w umowie o świadczenie usług przesyłania lub dystrybucji ciepła, w umowie kompleksowej albo w odrębnych przepisach.
+2.
+Warunki, o których mowa w ust. 1, powinny określać w szczególności:
+1)
+zakres świadczonych usług dla odbiorców w poszczególnych grupach taryfowych;
+2)
+parametry jakościowe nośnika ciepła;
+3)
+standardy jakościowe obsługi odbiorców;
+4)
+sposób obliczania opłat w przypadku uszkodzenia układu pomiarowo-rozliczeniowego.
+§ 7.
+1.
+Taryfa wytwórcy ciepła zawiera:
+1)
+ceny za zamówioną moc cieplną ‒ wyrażone w złotych za MW;
+2)
+ceny ciepła ‒ wyrażone w złotych za GJ;
+3)
+ceny nośnika ciepła – wody dostarczonej do napełniania sieci ciepłowniczych i instalacji odbiorczych oraz do uzupełnienia ubytków wody poza źródłem ciepła lub niezwróconych skroplin ‒ wyrażone odpowiednio w złotych za metr sześcienny lub za tonę.
+2.
+Taryfa przedsiębiorstwa ciepłowniczego zawiera:
+1)
+ceny za zamówioną moc cieplną ‒ wyrażone w złotych za MW;
+2)
+ceny ciepła ‒ wyrażone w złotych za GJ;
+3)
+ceny nośnika ciepła – wody dostarczonej do napełniania i uzupełniania jej ubytków w instalacjach odbiorczych lub niezwróconych skroplin ‒ wyrażone odpowiednio w złotych za metr sześcienny lub za tonę;
+4)
+stawki opłat stałych za usługi przesyłowe ‒ wyrażone w złotych za MW zamówionej mocy cieplnej;
+5)
+stawki opłat zmiennych za usługi przesyłowe ‒ wyrażone w złotych za GJ.
+3.
+Taryfa dystrybutora ciepła zawiera:
+1)
+stawki opłat stałych za usługi przesyłowe – wyrażone w złotych za MW zamówionej mocy cieplnej;
+2)
+stawki opłat zmiennych za usługi przesyłowe ‒ wyrażone w złotych za GJ.
+4.
+W przypadku gdy przedsiębiorstwo energetyczne, o którym mowa w ust. 2 i 3, zakupuje ciepło od innych przedsiębiorstw energetycznych, taryfa tego przedsiębiorstwa określa sposób stosowania cen i stawek opłat ustalonych w taryfach przedsiębiorstw, od których ciepło to zostało zakupione.
+5.
+W taryfie dystrybutora lub w taryfie przedsiębiorstwa ciepłowniczego dla wszystkich podmiotów sprzedających ciepło w danym systemie ciepłowniczym ustala się jednakowy sposób wyznaczania cen i stawek opłat stosowanych w rozliczeniach z tymi odbiorcami.
+6.
+Taryfa przedsiębiorstwa obrotu ciepłem zawiera stawki opłat za obsługę odbiorców wyrażone w złotych za MW zamówionej mocy cieplnej oraz określa warunki stosowania cen i stawek opłat ustalonych w taryfach innych przedsiębiorstw energetycznych.
+7.
+Taryfa przedsiębiorstwa energetycznego zajmującego się przesyłaniem lub dystrybucją ciepła zawiera stawki opłat za przyłączenie do sieci kalkulowane w odniesieniu do jednostki długości przyłącza zgodnie z art. 7 ust. 8 pkt 2 ustawy.
+8.
+W przypadku wytwarzania ciepła w lokalnym źródle ciepła lub źródle ciepła, w którym zainstalowana moc cieplna nie przekracza 5 MW, bezpośrednio zasilającym zewnętrzne instalacje odbiorcze, taryfa zawiera stawki opłaty:
+1)
+miesięcznej za zamówioną moc cieplną, wyrażone w złotych za MW;
+2)
+za ciepło, wyrażone w złotych za GJ.
+§ 8.
+1.
+Taryfa określa sposób ustalania cen za zamówioną moc cieplną oraz cen ciepła i cen nośnika ciepła, stosowanych w rozliczeniach z odbiorcami przyłączonymi do sieci ciepłowniczej w przypadku, gdy dostarczane tym odbiorcom ciepło i nośnik ciepła są:
+1)
+wytworzone w kilku własnych źródłach ciepła;
+2)
+wytworzone we własnych źródłach ciepła oraz zakupione od innych wytwórców ciepła;
+3)
+zakupione w kilku źródłach ciepła należących do jednego lub kilku wytwórców ciepła.
+2.
+Dla wszystkich odbiorców przyłączonych do danej sieci ciepłowniczej ustala się jednakowe ceny za zamówioną moc cieplną, ceny ciepła i ceny nośnika ciepła.
+§ 9.
+1.
+Taryfa może określać sposób ustalania opłat pokrywających koszty współfinansowania przez przedsiębiorstwo energetyczne przedsięwzięć i usług, o których mowa w art. 45 ust. 2 i 3 ustawy.
+2.
+Opłaty, o których mowa w ust. 1, ustala się na podstawie indywidualnych kalkulacji tych opłat, na zasadach określonych w odrębnej umowie.
+§ 10.
+1.
+Podział odbiorców na grupy taryfowe jest dokonywany w zależności od poziomu kosztów uzasadnionych ponoszonych przez przedsiębiorstwo energetyczne w związku z dostarczaniem ciepła do tych odbiorców, na podstawie następujących kryteriów:
+1)
+rodzaju nośnika ciepła i jego parametrów;
+2)
+źródła ciepła lub zespołu źródeł ciepła zasilających sieć ciepłowniczą;
+3)
+sieci ciepłowniczej, którą ciepło jest przesyłane do węzłów cieplnych w postaci określonego nośnika ciepła;
+4)
+miejsca dostarczania ciepła;
+5)
+zakresu usług przesyłowych świadczonych przez przedsiębiorstwo ciepłownicze lub dystrybutora ciepła;
+6)
+wymagań w zakresie standardów jakościowych obsługi odbiorców, w tym dotyczących niezawodności i ciągłości dostarczania ciepła;
+7)
+wielkości zamówionej mocy cieplnej oraz charakterystyki odbioru ciepła, w tym stopnia wykorzystania mocy cieplnej.
+2.
+Ustalając grupę taryfową na podstawie kryteriów, o których mowa w ust. 1, uwzględnia się w szczególności odbiorców, którzy są zasilani w ciepło z eksploatowanych przez przedsiębiorstwo ciepłownicze lub dystrybutora ciepła:
+1)
+źródeł ciepła, do których instalacje odbiorcze są przyłączone bezpośrednio, z pominięciem sieci ciepłowniczej;
+2)
+wydzielonych sieci ciepłowniczych, odpowiednio do rodzaju nośnika ciepła i jego parametrów oraz sposobu regulacji w zależności od warunków atmosferycznych i zapotrzebowania na ciepło;
+3)
+węzłów cieplnych, z którymi są połączone instalacje odbiorcze obsługujące:
+a)
+jeden obiekt,
+b)
+więcej niż jeden obiekt, a zewnętrzne instalacje odbiorcze:
+– nie są eksploatowane przez przedsiębiorstwo energetyczne,
+– są eksploatowane przez przedsiębiorstwo energetyczne.
+3.
+Ustalając grupy taryfowe, o których mowa w ust. 1, uwzględnia się zróżnicowanie kosztów eksploatacji źródeł ciepła, wydzielonych sieci ciepłowniczych, węzłów cieplnych i zewnętrznych instalacji odbiorczych, o których mowa w ust. 2, zależnie od tego, czy należą one do przedsiębiorstwa energetycznego, czy też nie należą do tego przedsiębiorstwa.
+4.
+W przypadku źródeł ciepła, w których jest stosowany ten sam rodzaj paliwa, a zainstalowana moc cieplna w każdym z tych źródeł nie przekracza 5 MW, odbiorcy zasilani z tych źródeł mogą być zaliczeni do jednej grupy taryfowej.
+§ 11.
+1.
+Ceny i stawki opłat dla pierwszego roku stosowania taryfy ustala się na podstawie planowanych na ten rok:
+1)
+uzasadnionych rocznych kosztów wykonywania działalności gospodarczej w zakresie zaopatrzenia w ciepło;
+2)
+uzasadnionych rocznych kosztów modernizacji i rozwoju oraz realizacji inwestycji z zakresu ochrony środowiska;
+3)
+uzasadnionego zwrotu z kapitału zaangażowanego w działalność gospodarczą, o której mowa w pkt 1, oraz w przedsięwzięcia, o których mowa w pkt 2;
+4)
+uzasadnionych kosztów realizacji obowiązku, o którym mowa w art. 10 ust. 1 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. z 2020 r. poz. 264 i 284).
+2.
+Suma uzasadnionych rocznych kosztów oraz uzasadnionego zwrotu z kapitału, o których mowa w ust. 1, stanowi uzasadniony planowany przychód przedsiębiorstwa energetycznego ze sprzedaży ciepła będący podstawą kalkulacji cen i stawek opłat ustalanych w taryfie, z zastrzeżeniem § 13 ust. 1.
+3.
+W kalkulacji stawek opłat w taryfie dystrybutora ciepła prowadzącego równocześnie działalność gospodarczą w zakresie obrotu ciepłem uzasadniony planowany przychód będący podstawą kalkulacji stawek opłat za usługi przesyłowe pomniejsza się o przychody uzyskiwane z tytułu różnicy pomiędzy wielkością mocy cieplnej zamówionej przez odbiorców zaopatrywanych z sieci ciepłowniczej na podstawie umów kompleksowych a wielkością mocy cieplnej zamówionej w obcych źródłach zasilających sieć ciepłowniczą dystrybutora ciepła.
+§ 12.
+1.
+Koszty, o których mowa w § 11 ust. 1 pkt 1 i 2, ustala się zgodnie z art. 44 i art. 45 ustawy oraz zasadami ewidencji kosztów określonymi w przepisach o rachunkowości, w sposób umożliwiający ustalenie kosztów stałych i kosztów zmiennych planowanych przez przedsiębiorstwo energetyczne dla poszczególnych rodzajów działalności gospodarczej, z uwzględnieniem źródeł powstawania tych kosztów.
+2.
+Oceny kosztów, o których mowa w ust. 1, dokonuje się na podstawie porównania wynikających z nich jednostkowych kosztów planowanych dla pierwszego roku stosowania taryfy z uzasadnionymi jednostkowymi kosztami wynikającymi z kosztów poniesionych w roku kalendarzowym poprzedzającym pierwszy rok stosowania taryfy, określonych na podstawie sprawozdania finansowego, zbadanego zgodnie z przepisami o rachunkowości.
+3.
+Koszty, o których mowa w ust. 1, określa się na podstawie określonych dla pierwszego roku stosowania taryfy planowanej:
+1)
+wielkości zamówionej mocy cieplnej z uwzględnieniem zmiany tej wielkości w stosunku do stanu na koniec ostatniego roku kalendarzowego, poprzedzającego pierwszy rok stosowania taryfy, na podstawie zawartych z odbiorcami umów lub udokumentowanych w inny sposób [w MW];
+2)
+rocznej sprzedaży ciepła [w GJ];
+3)
+rocznej ilości nośnika ciepła dostarczanego do sieci ciepłowniczych w celu napełniania i uzupełniania ubytków tego nośnika w tych sieciach oraz sprzedaży tego nośnika odbiorcom [w metrach sześciennych lub w tonach].
+§ 13.
+1.
+Dla źródeł ciepła, w których ciepło jest wytwarzane w jednostkach kogeneracji, przedsiębiorstwo energetyczne może stosować uproszczony sposób kalkulacji cen i stawek opłat w taryfie dla ciepła z tych źródeł na podstawie uzasadnionych planowanych przychodów ze sprzedaży ciepła obliczanych według wzoru: \( P_c = Q_s \times C_c \) gdzie poszczególne symbole oznaczają: Pc – planowane przychody ze sprzedaży ciepła dla roku stosowania taryfy [w zł], Qs – planowaną wielkość ciepła wprowadzonego do sieci ciepłowniczej lub sprzedanego bezpośrednio odbiorcom dla roku stosowania taryfy dla danego źródła ciepła [w GJ], Cc – cenę ciepła przyjętą przez przedsiębiorstwo energetyczne dla roku stosowania taryfy, nie wyższą od ceny referencyjnej, o której mowa w ust. 2 [w zł/GJ].
+2.
+Cenę referencyjną, oznaczoną symbolem „Cr”, oblicza się według wzoru: \( C_r = C_{CSn} \times x_C \) gdzie poszczególne symbole oznaczają: Cr – cenę referencyjną obliczaną dla źródła, o którym mowa w ust. 1, w zależności od rodzaju zużywanego w nim paliwa, o którym mowa w art. 23 ust. 2 pkt 18 lit. c ustawy [w zł/GJ], CCSn – średnią cenę sprzedaży ciepła, o której mowa w art. 23 ust. 2 pkt 18 lit. c ustawy, wytworzonego w jednostkach wytwórczych niebędących jednostkami kogeneracji, w których zużywane jest tego samego rodzaju paliwo jak w danej jednostce kogeneracji [w zł/GJ], XC – obowiązujący wskaźnik referencyjny, o którym mowa w art. 47 ust. 2f ustawy, ustalany dla poszczególnych rodzajów paliw, o których mowa w art. 23 ust. 2 pkt 18 lit. c ustawy, zgodnie z wzorem określonym w ust. 4
+3.
+W przypadku źródeł, o których mowa w ust. 1, w których do wytwarzania ciepła zużywanych jest jednocześnie kilka rodzajów paliw, cenę referencyjną, o której mowa w ust. 2, ustala się jako średnią z cen referencyjnych ważoną planowanym udziałem energii chemicznej poszczególnych rodzajów paliw zużywanych do wytwarzania energii elektrycznej i ciepła w tych źródłach.
+4.
+Wskaźnik referencyjny, oznaczony symbolem „XC”, o którym mowa w art. 47 ust. 2f ustawy, ustala się według wzoru: \( X_C = {{C_{CSn} + k} \over {C_{CS_n } }} \) gdzie poszczególne symbole oznaczają: CCSn – średnią cenę sprzedaży ciepła, o której mowa w art. 23 ust. 2 pkt 18 lit. c ustawy, wytworzonego w jednostkach wytwórczych niebędących jednostkami kogeneracji, w których zużywane jest tego samego rodzaju paliwo jak w danej jednostce kogeneracji [w zł/GJ], k – przyrost kosztów obciążających jednostkę produkowanego ciepła w źródłach, o których mowa w ust. 1, wynikających z nowych lub zmienionych przepisów w takim zakresie, w jakim koszty te obciążać będą produkcję ciepła w roku ustalania wskaźnika referencyjnego, a nie obciążały jej w roku poprzedzającym rok ustalania tego wskaźnika, obliczany dla poszczególnych rodzajów paliw, o których mowa w art. 23 ust. 2 pkt 18 lit. c ustawy [w zł/GJ].
+5.
+Wskaźnik referencyjny, o którym mowa w ust. 4, można zwiększyć w zależności od wielkości możliwej produkcji ciepła i dla źródeł, w których ciepło jest wytwarzane w jednostkach kogeneracji o sumie mocy zainstalowanej cieplnej:
+1)
+od 101 MW do 200 MW – maksymalnie o 1%;
+2)
+od 51 MW do 100 MW – maksymalnie o 1,5%;
+3)
+od 11 MW do 50 MW – maksymalnie o 2%;
+4)
+od 6 MW do 10 MW – maksymalnie o 3%;
+5)
+od 1 MW do 5 MW – maksymalnie o 5%;
+6)
+poniżej 1 MW – maksymalnie o 7%.
+6.
+Wskaźnik wzrostu przychodów ze sprzedaży ciepła dla źródeł ciepła [w %], dla których przedsiębiorstwo energetyczne stosuje uproszczony sposób kalkulacji cen i stawek opłat, o którym mowa w ust. 1, obliczanych na podstawie planowanych cen lub stawek opłat i planowanych, na dany rok stosowania taryfy, wielkości sprzedaży ciepła, mocy zamówionej oraz nośnika ciepła w kalkulacji tych cen i stawek opłat dla źródeł ciepła nie może być wyższy, uwzględniając wielkość przychodów ze sprzedaży ciepła obliczanych dla tych źródeł na podstawie dotychczas stosowanych cen i stawek opłat wynikających z taryfy oraz planowanych, na dany rok stosowania taryfy, wielkości sprzedaży ciepła, mocy zamówionej oraz nośnika ciepła w kalkulacji cen i stawek opłat dla tych źródeł ciepła, niż określony wzorem:
+1)
+\( \left( {{{C_{CSn} } \over {C_{CSn – 1} }} – 1} \right) \times 100 + 2 \) dla przedsiębiorstw, które przyjęły dla roku stosowania taryfy cenę ciepła Cc spełniającą warunek \( {{C_c } \over {C_{CSn} }} \le 0,8 \)
+2)
+\( \left( {{{C_{CSn} } \over {C_{CSn – 1} }} – 1} \right) \times 100 + 1,75 \) dla przedsiębiorstw, które przyjęły dla roku stosowania taryfy cenę ciepła Cc spełniającą warunek \( 0,8 < {{C_c } \over {C_{CSn} }} \le 0,9 \)
+3)
+\( \left( {{{C_{CSn} } \over {C_{CSn – 1} }} – 1} \right) \times 100 + 1,25 \) dla przedsiębiorstw, które przyjęły dla roku stosowania taryfy cenę ciepła Cc spełniającą warunek 0,9 \( 0,9 < {{C_c } \over {C_{CSn} }} < 1 \)
+– gdzie poszczególne symbole oznaczają: CCSn – średnią cenę sprzedaży ciepła, o której mowa w art. 23 ust. 2 pkt 18 lit. c ustawy, wytworzonego w jednostkach wytwórczych niebędących jednostkami kogeneracji, w których zużywane jest tego samego rodzaju paliwo jak w danej jednostce kogeneracji [w zł/GJ], CCSn-1 – średnią cenę sprzedaży ciepła, o której mowa w art. 23 ust. 2 pkt 18 lit. c ustawy, wytworzonego w jednostkach wytwórczych niebędących jednostkami kogeneracji, w których zużywane jest tego samego rodzaju paliwo jak w danej jednostce kogeneracji, ogłoszoną w roku poprzedzającym rok ostatnio ogłoszonej średniej ceny sprzedaży ciepła, oznaczonej symbolem „CCSn” [w zł/GJ]. Cc – cenę ciepła przyjętą przez przedsiębiorstwo energetyczne dla roku stosowania taryfy, nie wyższą od ceny referencyjnej, o której mowa w ust. 2 [w zł/GJ].
+7.
+W przypadku gdy wartość wskaźnika wzrostu przychodów, o którym mowa w ust. 6, będzie niższa od 0, przyjmuje się wartość tego wskaźnika równą 0.
+8.
+Przepisów ust. 6 nie stosuje się do jednostek kogeneracji oddanych do użytku po dniu 3 listopada 2010 r.
+9.
+W przypadku źródeł ciepła, o których mowa w ust. 1, w których do wytwarzania ciepła zużywanych jest jednocześnie kilka rodzajów paliw, średnie ceny sprzedaży ciepła, oznaczone symbolami „CCSn” oraz „CCSn-1”, o których mowa w ust. 6, oblicza się jako średnie ważone ze średnich cen sprzedaży ciepła, o których mowa w art. 23 ust. 2 pkt 18 lit. c ustawy, dla każdego rodzaju paliwa zużywanego do wytwarzania energii elektrycznej i ciepła oraz ilości energii chemicznej poszczególnych paliw zużytych do wytworzenia jednostki energii elektrycznej i ciepła.
+10.
+Okres stosowania taryfy dla ciepła, w której zastosowano uproszczony sposób, o którym mowa w ust. 1, wynosi rok od dnia jej wprowadzenia do stosowania.
+§ 14.
+Planowany uzasadniony przychód ze sprzedaży ciepła stanowiący podstawę kalkulacji cen i stawek opłat w taryfie przedsiębiorstw energetycznych wytwarzających ciepło w jednostkach kogeneracji, które nie stosują uproszczonego sposobu kalkulacji cen i stawek opłat, o którym mowa w § 13 ust. 1, oblicza się jako różnicę między planowanymi łącznymi uzasadnionymi przychodami z wykonywania działalności gospodarczej w zakresie wytwarzania, przetwarzania, magazynowania ciepła oraz wytwarzania energii elektrycznej w danym źródle a planowanym przychodem ze sprzedaży energii elektrycznej, według wzoru: \( P_c = P_{ec} – (E_s \times C_e ) – PMZ \) gdzie poszczególne symbole oznaczają: Pc – planowane przychody ze sprzedaży ciepła dla pierwszego roku stosowania taryfy [w zł], Pec – planowane łączne uzasadnione przychody ze sprzedaży ciepła i energii elektrycznej dla pierwszego roku stosowania taryfy, stanowiące sumę planowanych łącznych kosztów wytwarzania ciepła i energii elektrycznej oraz zwrotu z kapitału zaangażowanego w wykonywanie działalności gospodarczej związanej z wytwarzaniem ciepła i energii elektrycznej [w zł], Es – planowaną wielkość sprzedaży energii elektrycznej dla pierwszego roku stosowania taryfy [w MWh], Ce – cenę energii elektrycznej ustaloną w taryfie dla danego źródła zgodnie z przepisami wydanymi na podstawie art. 46 ust. 3 i 4 ustawy lub cenę planowaną do uzyskania w warunkach konkurencji, o których mowa w art. 49 ustawy, lub cenę będącą wynikiem wygranej aukcji organizowanej przez Prezesa Urzędu Regulacji Energetyki, zwanego dalej „Prezesem URE”, na podstawie art. 73 ust. 1 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii – dla pierwszego roku stosowania taryfy [w zł/MWh], PMZ – planowane przychody ze sprzedaży praw majątkowych ze świadectw pochodzenia, o których mowa w art. 44 ust. 1 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii.
+§ 15.
+1.
+Koszty uzasadnione realizacji obowiązku, o którym mowa w art. 10 ust. 1 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej, uwzględnia się w kalkulacji cen i stawek opłat ustalanych w taryfie przedsiębiorstwa energetycznego realizującego te obowiązki, przyjmując, że każda jednostka ciepła sprzedawana przez to przedsiębiorstwo odbiorcom końcowym przyłączonym do sieci jest w tej samej wysokości obciążona tymi kosztami.
+2.
+Koszty wspólne dla wszystkich lub kilku grup taryfowych oraz koszty wspólne dla wszystkich lub kilku rodzajów wykonywanej przez przedsiębiorstwo energetyczne działalności gospodarczej, w tym koszty wspólne dotyczące modernizacji i rozwoju oraz ochrony środowiska, dzieli się na poszczególne grupy taryfowe i na poszczególne rodzaje wykonywanej działalności gospodarczej zgodnie z przyjętą w przedsiębiorstwie metodą podziału kosztów.
+3.
+Metoda podziału kosztów, o której mowa w ust. 2, nie może ulec zmianie w okresie obowiązywania taryfy.
+§ 16.
+1.
+Koszty, o których mowa w § 11 ust. 1 pkt 2, ustala się jako roczne koszty związane z eksploatacją urządzeń i instalacji przekazywanych do eksploatacji po zakończeniu działań w zakresie modernizacji i rozwoju lub realizacji inwestycji z zakresu ochrony środowiska.
+2.
+Roczne koszty, o których mowa w ust. 1, przedsiębiorstwo energetyczne ustala na podstawie obowiązującego dla przedsiębiorstwa planu inwestycji oraz określonego w tym planie sposobu finansowania i harmonogramu realizacji poszczególnych przedsięwzięć inwestycyjnych w zakresie:
+1)
+wytwarzania, przetwarzania i magazynowania ciepła – planu inwestycji rozwojowych, modernizacyjnych i związanych z ochroną środowiska dla źródeł ciepła;
+2)
+przesyłania lub dystrybucji ciepła – planu rozwoju, o którym mowa w art. 16 ust. 1 ustawy.
+3.
+Koszty związane z eksploatacją urządzeń i instalacji przekazywanych do eksploatacji w wyniku inwestycji w zakresie modernizacji, rozwoju i ochrony środowiska, o których mowa w ust. 1 i 2, obejmują w szczególności:
+1)
+odpisy amortyzacyjne lub odpisy umorzeniowe, obliczone zgodnie z obowiązującymi przepisami dla środków trwałych przekazywanych do eksploatacji w wyniku tych inwestycji;
+2)
+koszty kalkulacyjne związane z eksploatacją nowych urządzeń i instalacji w zakresie kosztów robocizny, zużycia materiałów, paliw, energii, wody, usuwania odpadów, kosztów transportu, remontów i innych kosztów wynikających z rodzaju urządzeń i instalacji oraz warunków ich pracy.
+4.
+Planowane koszty rozwoju w zakresie przesyłania lub dystrybucji ciepła, stanowiące podstawę kalkulacji stawek opłat za usługi przesyłowe, nie mogą obejmować kosztów wynikających z nakładów, o których mowa w § 7 ust. 7, planowanych do pokrycia przez odbiorców opłatami za przyłączenie.
+§ 17.
+Koszty, o których mowa w § 11, § 15 i § 16, odpowiednio do zakresu wykonywanej przez przedsiębiorstwo energetyczne działalności gospodarczej, obejmują koszty:
+1)
+stałe i koszty zmienne wytwarzania, przetwarzania i magazynowania ciepła oraz planowane roczne koszty modernizacji, rozwoju i ochrony środowiska, a także koszty:
+a)
+utrzymania zapasów paliw, o których mowa w przepisach wydanych na podstawie art. 10 ust. 6 ustawy,
+b)
+utrzymania przewidzianych w programie pracy sieci ciepłowniczych źródeł ciepła, pracujących w okresie największego poboru mocy cieplnej w sezonie grzewczym lub w okresie letnim,
+c)
+handlowej obsługi odbiorców bezpośrednio zasilanych ze źródeł ciepła;
+2)
+stałe i koszty zmienne pozyskania, uzdatniania i podgrzewania nośnika ciepła oraz planowane roczne koszty modernizacji, rozwoju i ochrony środowiska w tym zakresie;
+3)
+stałe i koszty zmienne przesyłania i dystrybucji ciepła, koszty handlowej obsługi odbiorców oraz planowane roczne koszty modernizacji, rozwoju i ochrony środowiska w zakresie przesyłania lub dystrybucji ciepła siecią ciepłowniczą od źródła ciepła do przyłączy, wraz z kosztami rozwoju związanymi z przyłączaniem obiektów do tej sieci, a także koszty związane:
+a)
+z magazynowaniem i przepompowywaniem wody krążącej w sieci ciepłowniczej,
+b)
+ze stratami mocy cieplnej, stratami ciepła i ubytkami nośnika ciepła podczas ich przesyłania,
+c)
+z utrzymaniem przewidzianych w programie pracy sieci ciepłowniczej źródeł ciepła, pracujących w okresie największego poboru mocy cieplnej w sezonie grzewczym lub w okresie letnim, jeżeli nie zostały uwzględnione w kosztach wytwarzania ciepła, o których mowa w pkt 1 lit. b;
+4)
+stałe i koszty zmienne przesyłania i dystrybucji ciepła, koszty handlowej obsługi odbiorców oraz planowane roczne koszty modernizacji, rozwoju i ochrony środowiska w zakresie usług przesyłowych związanych z eksploatacją:
+a)
+węzłów cieplnych, z którymi są połączone instalacje odbiorcze obsługujące jeden obiekt,
+b)
+grupowych węzłów cieplnych,
+c)
+zewnętrznych instalacji odbiorczych;
+5)
+obsługi odbiorców przez przedsiębiorstwo obrotu ciepłem.
+§ 18.
+W przypadku gdy odbiorca lub inny podmiot udostępnia przedsiębiorstwu energetycznemu pomieszczenie, w którym są zainstalowane urządzenia należące do tego przedsiębiorstwa lub przez nie eksploatowane, służące do wytwarzania lub przesyłania, lub dystrybucji ciepła, koszty ponoszone z tego tytułu przedsiębiorstwo energetyczne uwzględnia w rozliczeniach tylko z tymi odbiorcami, do których ciepło jest dostarczane za pomocą tych urządzeń, na warunkach ustalonych w taryfie lub w umowie sprzedaży ciepła, lub w umowie o świadczenie usług przesyłania lub dystrybucji ciepła, lub w umowie kompleksowej albo w odrębnej umowie.
+§ 19.
+Ceny za zamówioną moc cieplną i ceny ciepła oblicza się według wzorów: \( C_{jm} = A \times P_c :N \) \( C_{jc} = (1 – A) \times P_c :Q \) gdzie poszczególne symbole oznaczają: Cjm – cenę za zamówioną moc cieplną dla danego źródła ciepła i określonego nośnika ciepła [w zł/MW], Cjc – cenę ciepła dla danego źródła ciepła i określonego nośnika ciepła [w zł/GJ], Pc – planowane uzasadnione przychody z wytwarzania ciepła w postaci określonego nośnika ciepła [w zł], A – określony dla danego źródła ciepła i nośnika ciepła wskaźnik udziału kosztów stałych (Kst) w łącznych kosztach wytwarzania ciepła (Kst + Kzm), którego wartość nie może być wyższa od udziału kosztów stałych (Kst) w łącznych kosztach wytwarzania ciepła (Kst + Kzm), N – planowaną dla pierwszego roku stosowania taryfy moc cieplną obliczoną przez przedsiębiorstwo energetyczne dla danego źródła ciepła i określonego nośnika ciepła – jako sumę przyłączeniowej mocy cieplnej dla sieci ciepłowniczych zasilanych z tego źródła i zamówionej mocy cieplnej przez odbiorców zasilanych bezpośrednio ze źródła ciepła [w MW], Q – planowaną dla pierwszego roku stosowania taryfy ilość ciepła określoną przez przedsiębiorstwo energetyczne dla danego źródła ciepła i określonego nośnika ciepła, obliczaną przez:
+– wytwórcę ciepła – jako sumę planowanych do sprzedaży odbiorcom ilości ciepła, w tym przez przedsiębiorstwo energetyczne stosujące uproszczony sposób kalkulacji cen i stawek opłat, o którym mowa w § 13 ust. 1, i planowaną wielkość ciepła, oznaczoną symbolem „Qs”, o której mowa w § 13 ust. 1,
+– przedsiębiorstwo ciepłownicze – jako sumę ilości ciepła planowanego do sprzedaży odbiorcom i strat ciepła podczas przesyłania sieciami ciepłowniczymi [w GJ].
+§ 20.
+Cenę nośnika ciepła oblicza się jako iloraz planowanych dla pierwszego roku stosowania taryfy kosztów z uwzględnieniem uzasadnionego zwrotu z kapitału zaangażowanego w wykonywaną działalność gospodarczą związaną z wytwarzaniem ciepła oraz planowanej ilości nośnika ciepła dostarczanego do sieci ciepłowniczych w celu napełniania i uzupełniania jego ubytków w tych sieciach, oraz sprzedaży tego nośnika odbiorcom w celu napełniania instalacji odbiorczych i uzupełnienia ubytków wody w tych instalacjach.
+§ 21.
+1.
+W przypadku źródeł ciepła, o których mowa w § 7 ust. 8, koszty stanowiące podstawę do obliczenia stawek opłat obejmują:
+1)
+uzasadnione koszty stałe i koszty zmienne:
+a)
+wytwarzania, przetwarzania i magazynowania ciepła,
+b)
+pozyskania, uzdatniania i podgrzewania nośnika ciepła,
+c)
+przesyłania i dystrybucji ciepła;
+2)
+planowane uzasadnione roczne koszty modernizacji, rozwoju i ochrony środowiska;
+3)
+planowane uzasadnione koszty związane z:
+a)
+utrzymaniem zapasów paliw, o których mowa w przepisach wydanych na podstawie art. 10 ust. 6 ustawy,
+b)
+handlową obsługą odbiorców.
+2.
+Stawkę opłaty miesięcznej za zamówioną moc cieplną i stawkę opłaty za ciepło dla danego rodzaju źródeł ciepła, o których mowa w § 7 ust. 8, oblicza się według wzorów: \( C_{jzN} = 1/12(A_1 \times P_z :N_{oz} ) \) \( C_{jzQ} = (1 – A_1 ) \times P_z :Q_{oz} \) gdzie poszczególne symbole oznaczają: CjźN – stawkę opłaty miesięcznej za zamówioną moc cieplną dla danego rodzaju źródła ciepła [w zł/MW], CjźQ – stawkę opłaty za ciepło dla danego rodzaju źródła ciepła [w zł/GJ], Pź – planowane roczne przychody dla danego rodzaju źródła ciepła [w zł], Noź – planowaną dla pierwszego roku stosowania taryfy zamówioną moc cieplną dla obiektów zasilanych z danego rodzaju źródła ciepła [w MW], Qoź – planowaną dla pierwszego roku stosowania taryfy ilość ciepła przeznaczoną do sprzedaży odbiorcom, określoną przez przedsiębiorstwo energetyczne dla danego rodzaju źródła ciepła i określonego nośnika ciepła [w GJ], A1 – współczynnik udziału opłat stałych, którego wartość nie może być wyższa od udziału kosztów stałych w łącznych kosztach dostarczania ciepła z danego źródła ciepła.
+3.
+W przypadku wytwarzania ciepła w lokalnym źródle ciepła, które nie jest wyposażone w układ pomiarowo-rozliczeniowy, taryfa zawiera stawki opłaty miesięcznej i sezonowej; stawki te wyraża się w złotych za MW zamówionej mocy cieplnej lub w złotych za metr kwadratowy powierzchni lokali. Koszty stanowiące podstawę do obliczenia tych stawek stanowią koszty, o których mowa w ust. 1.
+4.
+Stawkę opłaty miesięcznej i stawkę opłaty sezonowej dla danego rodzaju lokalnego źródła ciepła, o którym mowa w ust. 3, oblicza się według wzorów: \( C_{jrl} = 1/12(A_2 \times P_1 :N_{o1} ){\mathop{\rm lub}} \ C_{jrl} = 1/12(A_2 \times P_1 :P_{o1} ) \) \( C_{jsl} = 1/7[(1 – A_2 ) \times P_1 :N_{o1} ]{\mathop{\rm lub}} C_{jsl} = 1/7[(1 – A_2 ) \times P_1 :P_{o1} ] \) gdzie poszczególne symbole oznaczają: Cjrl – stawkę opłaty miesięcznej dla danego rodzaju lokalnego źródła ciepła [w zł/MW lub w zł/m2powierzchni lokali], Cjsl – stawkę opłaty sezonowej dla danego rodzaju lokalnego źródła ciepła [w zł/MW lub w zł/m2powierzchni lokali], Pl – planowany roczny przychód dla danego rodzaju lokalnego źródła ciepła [w zł], Nol – planowaną dla pierwszego roku stosowania taryfy zamówioną moc cieplną dla obiektów zasilanych z danego rodzaju lokalnego źródła ciepła [w MW], Pol – planowaną dla pierwszego roku stosowania taryfy powierzchnię lokali w obiektach zasilanych z danego rodzaju lokalnego źródła ciepła [w m2], A2 – współczynnik udziału opłat stałych, którego wartość nie może być wyższa od udziału kosztów stałych w łącznych kosztach dostarczania ciepła z lokalnego źródła ciepła.
+5.
+W przypadku odbiorców zasilanych z lokalnego źródła ciepła, o którym mowa w ust. 3, rodzaje opłat pobieranych od odbiorców ciepła oraz podstawa i sposób ich obliczania powinny być określone w umowie sprzedaży ciepła, a wysokość tych opłat oblicza się w następujący sposób:
+1)
+opłata miesięczna, pobierana w każdym miesiącu, stanowi iloczyn stawki opłaty miesięcznej dla danego rodzaju lokalnych źródeł ciepła i zamówionej mocy cieplnej lub powierzchni lokali w obiektach odbiorcy;
+2)
+opłata sezonowa, pobierana przez 7 miesięcy sezonu grzewczego, stanowi iloczyn stawki opłaty sezonowej dla danego rodzaju lokalnych źródeł ciepła i zamówionej mocy cieplnej lub powierzchni lokali w obiektach odbiorcy.
+§ 22.
+1.
+Stawki opłat za usługi przesyłania i dystrybucji ciepła ustala się w zakresie:
+1)
+sieci ciepłowniczej – dla grup taryfowych, do których są zaliczani odbiorcy pobierający ciepło z przyłączy,
+2)
+sieci ciepłowniczej i węzłów cieplnych – dla grup taryfowych, do których są zaliczani odbiorcy pobierający ciepło z eksploatowanych przez przedsiębiorstwo ciepłownicze lub przez dystrybutora ciepła węzłów cieplnych obsługujących jeden obiekt,
+3)
+sieci ciepłowniczej i grupowych węzłów cieplnych – dla grup taryfowych, do których są zaliczani odbiorcy pobierający ciepło z eksploatowanych przez przedsiębiorstwo ciepłownicze lub przez dystrybutora ciepła grupowych węzłów cieplnych,
+4)
+sieci ciepłowniczej i grupowych węzłów cieplnych oraz zewnętrznych instalacji odbiorczych – dla grup taryfowych, do których są zaliczani odbiorcy pobierający ciepło z eksploatowanych przez przedsiębiorstwo ciepłownicze lub przez dystrybutora ciepła grupowych węzłów cieplnych wraz z zewnętrznymi instalacjami odbiorczymi
+odpowiednio do zakresu wykonywanej przez to przedsiębiorstwo działalności gospodarczej związanej z zaopatrzeniem w ciepło na podstawie kosztów jednostkowych obliczonych w sposób określony w ust. 2.
+2.
+Koszty jednostkowe oblicza się odpowiednio do zakresu wykonywanej przez przedsiębiorstwo energetyczne działalności gospodarczej związanej z zaopatrzeniem w ciepło według wzorów:
+1)
+dla grup taryfowych, o których mowa w ust. 1 pkt 1: \( k_{sp} = B \times [K_{ps} :N_s ] \) \( k_{zp} = (1 – B)[K_{ps} \times N_{gp} :N_s ]:Q_{gp} \)
+2)
+dla grup taryfowych, o których mowa w ust. 1 pkt 2: \( k_{sw} = B \times [K_{ps} :N_s + K_{pw} :N_{gw} ] \) \( k_{zw} = (1 – B)[K_{ps} \times N_{gw} :N_s + K_{pw} ]:Q_{gw} \)
+3)
+dla grup taryfowych, o których mowa w ust. 1 pkt 3: \( k_{swg} = B \times [K_{ps} :N_s + K_{pwg} :(N_{gwg} + N_{giz} )] \) \( k_{zwg} = (1 – B)[K_{ps} \times N_{gwg} :N_s + K_{pwg} \times N_{gwg} :(N_{gwg} + N_{giz} )]:Q_{gwg} \)
+4)
+dla grup taryfowych, o których mowa w ust. 1 pkt 4: \( k_{siz} = B \times [K_{ps} :N_s + K_{pwg} :(N_{gwg} + N_{giz} ) + K_{piz} :N_{giz} ] \) \( k_{ziz} = (1 – B)[K_{ps} \times N_{giz} :N_s + K_{pwg} \times N_{giz} :(N_{gwg} + N_{giz} ) + K_{piz} ]:Q_{giz} \)
+– gdzie poszczególne symbole oznaczają: ksp – koszt jednostkowy stały za usługi przesyłowe obliczony dla grupy taryfowej, o której mowa w ust. 1 pkt 1 [w zł/MW], kzp – koszt jednostkowy zmienny za usługi przesyłowe obliczony dla grupy taryfowej, o której mowa w ust. 1 pkt 1 [w zł/GJ], B – wskaźnik udziału opłat stałych za usługi przesyłowe w łącznych opłatach za te usługi, Kps – planowane roczne koszty za usługi przesyłowe w zakresie przesyłania lub dystrybucji ciepła daną siecią ciepłowniczą od źródła ciepła do przyłączy [w zł], Ngp – sumę zamówionej mocy cieplnej przez odbiorców zaliczonych do grupy taryfowej, o której mowa w ust. 1 pkt 1 [w MW], Ns – sumę zamówionej mocy cieplnej przez odbiorców przyłączonych do danej sieci ciepłowniczej [w MW], Qgp – planowaną, dla pierwszego roku stosowania taryfy, sprzedaż ciepła odbiorcom zaliczonym do grupy taryfowej, o której mowa w ust. 1 pkt 1 [w GJ], ksw – koszt jednostkowy stały za usługi przesyłowe obliczony dla grupy taryfowej, o której mowa w ust. 1 pkt 2 [w zł/MW], kzw – koszt jednostkowy zmienny za usługi przesyłowe obliczony dla grupy taryfowej, o której mowa w ust. 1 pkt 2 [w zł/GJ], Kpw – planowane roczne koszty za usługi przesyłowe w zakresie eksploatacji węzłów cieplnych obsługujących jeden obiekt, o których mowa w ust. 1 pkt 2 [w zł], Ngw – sumę zamówionej mocy cieplnej przez odbiorców zaliczonych do danej grupy taryfowej, o której mowa w ust. 1 pkt 2 [w MW], Qgw – planowaną, dla pierwszego roku stosowania taryfy, sprzedaż ciepła odbiorcom zaliczonym do grupy taryfowej, o której mowa w ust. 1 pkt 2 [w GJ], kswg – koszt jednostkowy stały za usługi przesyłowe obliczony dla grupy taryfowej, o której mowa w ust. 1 pkt 3 [w zł/MW], kzwg – koszt jednostkowy zmienny za usługi przesyłowe obliczony dla grupy taryfowej, o której mowa w ust. 1 pkt 3 [w zł/GJ], Kpwg – planowane roczne koszty za usługi przesyłowe w zakresie eksploatacji grupowych węzłów cieplnych, o których mowa w ust. 1 pkt 3 lub 4 [w zł], Ngwg – sumę zamówionej mocy cieplnej przez odbiorców zaliczonych do danej grupy taryfowej, o której mowa w ust. 1 pkt 3 lub 4 [w MW], Ngiz – sumę zamówionej mocy cieplnej przez odbiorców zaliczonych do danej grupy taryfowej, o której mowa w ust. 1 pkt 3 lub 4 [w MW], Qgwg – planowaną dla pierwszego roku stosowania taryfy sprzedaż ciepła odbiorcom zaliczonym do grupy taryfowej, o której mowa w ust. 1 pkt 3 [w GJ], ksiz – koszt jednostkowy stały za usługi przesyłowe obliczony dla grupy taryfowej, o której mowa w ust. 1 pkt 4 [w zł/MW], kziz – koszt jednostkowy zmienny za usługi przesyłowe obliczony dla grupy taryfowej, o której mowa w ust. 1 pkt 4 [w zł/GJ], Kpiz – planowane roczne koszty za usługi przesyłowe w zakresie eksploatacji zewnętrznych instalacji odbiorczych, o których mowa w ust. 1 pkt 4 [w zł], Qgiz – planowaną, dla pierwszego roku stosowania taryfy, sprzedaż ciepła odbiorcom zaliczonym do grupy taryfowej, o której mowa w ust. 1 pkt 4 [w GJ].
+3.
+Koszt jednostkowy stanowiący podstawę do określenia stawki opłaty za obsługę odbiorców oblicza się jako iloraz planowanych kosztów obsługi odbiorców przez przedsiębiorstwo obrotu ciepłem i zamówionej mocy cieplnej dla pierwszego roku stosowania taryfy przez odbiorców obsługiwanych przez to przedsiębiorstwo.
+4.
+Stawki opłat, o których mowa w ust. 1–3, stosownie do wykonywanej przez przedsiębiorstwo energetyczne działalności gospodarczej ustala się na podstawie kosztów jednostkowych z uwzględnieniem uzasadnionego zwrotu z kapitału zaangażowanego w wykonywaną działalność gospodarczą związaną z przesyłaniem i dystrybucją ciepła.
+§ 23.
+W odniesieniu do cen za zamówioną moc cieplną, stawek opłat stałych za usługi przesyłowe i stawek opłat za obsługę odbiorców w taryfie ustala się także ich raty miesięczne, stanowiące 1/12 ich wartości.
+§ 24.
+1.
+Przedsiębiorstwo energetyczne, na wniosek odbiorcy, określa w umowie zawartej z tym odbiorcą średnią:
+1)
+cenę ciepła, wyrażoną w złotych za GJ, zamiast ustalonej w taryfie ceny za zamówioną moc cieplną i ceny ciepła lub stawki opłaty miesięcznej i stawki opłaty za ciepło;
+2)
+stawkę opłaty za usługi przesyłowe, wyrażoną w złotych za GJ, zamiast ustalonej w taryfie stawki opłaty stałej za usługi przesyłowe i stawki opłaty zmiennej za usługi przesyłowe.
+2.
+Średnią cenę ciepła i średnią stawkę opłaty za usługi przesyłowe, o których mowa w ust. 1, oblicza się według wzorów: \( C_s = (N_{zo} \times C_{tn} + Q_{so} \times C_{tc} ):Q_{so} \) \( O_{sp} = (N_{zo} \times O_{tsp} + Q_{so} \times O_{tzp} ):Q_{so} \) gdzie poszczególne symbole oznaczają: Cs – średnią cenę ciepła dla danego odbiorcy [w zł/GJ], Osp – średnią stawkę opłaty za usługi przesyłowe dla danego odbiorcy [w zł/GJ], Nzo – moc cieplną zamówioną przez danego odbiorcę [w MW], Ctn – cenę za zamówioną moc cieplną lub dwunastokrotność stawki opłaty miesięcznej za zamówioną moc cieplną, określone w taryfie dla grupy taryfowej, do której jest zaliczony dany odbiorca [w zł/MW], Otsp – stawkę opłaty stałej za usługi przesyłowe określoną w taryfie dla grupy taryfowej, do której jest zaliczony dany odbiorca [w zł/MW], Qso – planowaną wielkość sprzedaży ciepła dla danego odbiorcy [w GJ], Ctc – cenę ciepła lub stawkę opłaty za ciepło, określone w taryfie dla grupy taryfowej, do której jest zaliczony dany odbiorca [w zł/GJ], Otzp – stawkę opłaty zmiennej za usługi przesyłowe określoną w taryfie dla grupy taryfowej, do której jest zaliczony dany odbiorca [w zł/GJ].
+3.
+W przypadku gdy pobór ciepła przez odbiorcę występuje wyłącznie poza sezonem grzewczym, przedsiębiorstwo energetyczne może stosować w rozliczeniach z takim odbiorcą tylko określone w taryfie dla danego źródła ciepła i sieci ciepłowniczej cenę ciepła lub stawkę opłaty za ciepło i stawkę opłaty zmiennej za usługi przesyłowe.
+§ 25.
+1.
+Koszty jednostkowe stanowiące podstawę do obliczenia stawki opłaty za przyłączenie oblicza się według wzoru: \( k_p = K_p :L_p \) gdzie poszczególne symbole oznaczają: kp – koszty jednostkowe, stanowiące podstawę do obliczenia stawki opłaty za przyłączenie, określone dla danego rodzaju przyłączy [w zł/m], Kp – nakłady inwestycyjne, o których mowa w § 7 ust. 7, dla danego rodzaju przyłączy [w zł], Lp – planowaną, średnią w roku, łączną długość odcinków rurociągów dla danego rodzaju przyłączy określonych w planie rozwoju, o którym mowa w art. 16 ust. 1 ustawy [w m].
+2.
+Wysokość nakładów inwestycyjnych na budowę przyłączy stanowiących podstawę kalkulacji stawek opłat za przyłączenie przyjmuje się w wysokości określonej w obowiązującym dla przedsiębiorstwa planie rozwoju, o którym mowa w art. 16 ust. 1 ustawy.
+3.
+Nakłady, o których mowa w § 7 ust. 7, obejmują w przypadku przyłączania do:
+1)
+sieci ciepłowniczej – nakłady na budowę odcinków przyłącza do ściany węzła cieplnego i wykonanie przejścia przyłącza przez tę ścianę oraz zainstalowanie w pomieszczeniu węzła cieplnego układu pomiarowo-rozliczeniowego wraz z niezbędnym osprzętem i armaturą oraz dokonaniem koniecznych połączeń, a w przypadku sieci ciepłowniczej, w której nośnikiem ciepła jest woda, także nakłady na zainstalowanie urządzenia regulującego natężenie przepływu nośnika ciepła;
+2)
+zewnętrznych instalacji odbiorczych należących do przedsiębiorstwa energetycznego – nakłady na budowę odcinków przyłącza do ściany obiektu i wykonanie przejścia przyłącza przez tę ścianę oraz zainstalowanie w obiekcie:
+a)
+urządzenia regulującego natężenie przepływu wody dostarczanej do instalacji centralnego ogrzewania w tym obiekcie,
+b)
+urządzeń, których wskazania będą stanowiły podstawę do określenia udziału tego obiektu w kosztach ciepła dostarczonego do grupowego węzła cieplnego,
+c)
+niezbędnego osprzętu i armatury oraz koniecznych połączeń.
+4.
+Jeżeli w pomieszczeniu węzła cieplnego jest instalowany, na koszt odbiorcy, prefabrykowany węzeł cieplny wyposażony przez producenta w układ pomiarowo-rozliczeniowy i urządzenie regulujące natężenie przepływu nośnika ciepła, nakłady, o których mowa w ust. 3 pkt 1, obejmują tylko nakłady na budowę odcinków przyłącza i wykonanie przejścia tego przyłącza przez ścianę węzła cieplnego wraz z niezbędnym osprzętem i armaturą oraz dokonaniem koniecznych połączeń.
+§ 26.
+1.
+Planowana wysokość zwrotu z kapitału, o którym mowa w § 11 ust. 1 pkt 3, § 20 i § 22 ust. 4, może uwzględniać zwrot z kapitału własnego i obcego, służących do finansowania majątku zaangażowanego do wykonywania działalności gospodarczej przez przedsiębiorstwo energetyczne.
+2.
+Uzasadniona wysokość zwrotu z kapitału zaangażowanego w wykonywaną działalność gospodarczą związaną z zaopatrzeniem w ciepło powinna być odpowiednia do rodzaju wykonywanej działalności gospodarczej i ponoszonego w związku z tym ryzyka, a przy jej określaniu należy w szczególności uwzględniać:
+1)
+warunki panujące na rynkach finansowych i wynikający z nich poziom stóp procentowych, ocenę ryzyka wykonywania działalności gospodarczej przez przedsiębiorstwo energetyczne, a także wartość aktywów przedsiębiorstwa, która jest faktycznie zaangażowana w działalność gospodarczą związaną z zaopatrzeniem w ciepło;
+2)
+taką wysokość zwrotu z tego kapitału, która w kalkulacji cen i stawek opłat nie spowoduje nadmiernego wzrostu opłat ponoszonych przez odbiorców;
+3)
+oszczędności uzyskane w wyniku obniżenia kosztów działalności przedsiębiorstwa energetycznego wynikające z poprawy efektywności jego funkcjonowania;
+4)
+poziom cen ciepła z alternatywnych źródeł ciepła, które mogłyby być w sposób ekonomicznie i technicznie uzasadniony wykorzystane w celu pokrycia zapotrzebowania na to ciepło.
+3.
+Stopę zwrotu z kapitału zaangażowanego w wykonywaną działalność gospodarczą związaną z zaopatrzeniem w ciepło stanowi średnioważony koszt kapitału przedsiębiorstwa energetycznego, który ustalany jest zgodnie z regułami obowiązującymi na rynkach finansowych stosowanymi przez instytucje finansowe, gdzie:
+1)
+stopę obsługi zadłużenia przyjmuje się na podstawie aktualnie obwiązujących warunków rynkowych w sektorze banków udzielających kredytów na cele inwestycyjne w zakresie prowadzenia działalności gospodarczej;
+2)
+stopę wolną od ryzyka ustala się na podstawie średniej rentowności 10-letnich obligacji Skarbu Państwa (DS) o najdłuższym terminie wykupu (średnia z dni, w których zawarte zostały transakcje), notowanych na Rynku Treasury BondSpot Poland w okresie 36 miesięcy poprzedzających kwartał, w którym wniosek o zatwierdzenie taryfy zostanie przedłożony;
+3)
+premię za ryzyko przyjmuje się zgodnie z warunkami panującymi na rynkach finansowych.
+§ 27.
+1.
+W okresie stosowania taryfy, nie krótszym niż dwa lata:
+1)
+przedsiębiorstwo energetyczne wytwarzające ciepło w jednostkach kogeneracji, które nie stosuje uproszczonego sposobu kalkulacji cen i stawek opłat, o którym mowa w § 13 ust. 1, dostosowuje ceny i stawki opłat,
+2)
+przedsiębiorstwo energetyczne inne niż określone w pkt 1 może dostosowywać ceny i stawki opłat
+ustalone dla pierwszego roku jej stosowania do zmieniających się warunków wykonywania działalności gospodarczej w sposób określony w ust. 2.
+2.
+Dostosowywanie cen i stawek opłat może nastąpić nie wcześniej niż po upływie 12 miesięcy od ich wprowadzenia jako obowiązujących i nie częściej niż co 12 miesięcy, a wysokość tych cen i stawek opłat oblicza się według wzoru: \( C_{sn} = C_{sb} \times [1 + (RPI – X_r ):100] \) gdzie poszczególne symbole oznaczają: Csn – nową cenę lub stawkę opłaty, Csb – dotychczas stosowaną cenę lub stawkę opłaty przed ich zmianą, RPI – średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem w poprzednim roku kalendarzowym, określony w komunikacie Prezesa Głównego Urzędu Statystycznego ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” [w %], Xr – współczynnik korekcyjny ustalany dla danego rodzaju działalności gospodarczej wykonywanej przez przedsiębiorstwo energetyczne w zakresie zaopatrzenia w ciepło, określający projektowaną poprawę efektywności funkcjonowania tego przedsiębiorstwa oraz zmianę warunków wykonywania przez to przedsiębiorstwo danego rodzaju działalności gospodarczej w następnym roku w stosunku do poprzedniego roku stosowania taryfy [w %].
+§ 28.
+1.
+W przypadku nieprzewidzianej, istotnej zmiany warunków wykonywania działalności gospodarczej przez przedsiębiorstwo energetyczne, w odniesieniu do działalności w zakresie wytwarzania ciepła w źródłach innych niż określone w § 13 ust. 1 lub działalności w zakresie dystrybucji ciepła, może nastąpić ustalenie współczynników korekcyjnych, o których mowa w art. 23 ust. 2 pkt 3 lit. a ustawy, przy odpowiednim zastosowaniu trybu określonego w art. 47 ust. 2b ustawy lub zmiana cen i stawek wynikających z taryfy wprowadzonej do stosowania przez zawarcie umów z odbiorcami, po dokonaniu analizy i oceny skutków ekonomicznych tych zmian.
+2.
+Przedsiębiorstwo energetyczne może ustalić w taryfie ceny i stawki opłat w taki sposób, aby łagodzić skutki wprowadzenia w pierwszym roku stosowania taryfy cen i stawek opłat, o których mowa w § 19–23, dla tych grup taryfowych, których ochrona ich interesów tego wymaga, biorąc pod uwagę eliminowanie subsydiowania skrośnego.
+3.
+Przedsiębiorstwo energetyczne, w odniesieniu do źródeł, o których mowa w § 13 ust. 1, może wystąpić o zmianę taryfy przed upływem okresu, o którym mowa w § 13 ust. 10, jeżeli w trakcie tego okresu ogłoszone zostaną średnie ceny sprzedaży ciepła, o których mowa w art. 23 ust. 2 pkt 18 lit. c ustawy, lub w przypadku zmiany posiadanej koncesji wynikającej z istotnej zmiany zakresu wykonywania działalności objętej koncesją, w szczególności zmiany paliwa wykorzystywanego w danym źródle.
+§ 29.
+W przypadku nowo tworzonego przedsiębiorstwa energetycznego lub podejmowania przez istniejące przedsiębiorstwo nowego rodzaju działalności gospodarczej w zakresie zaopatrzenia w ciepło, podstawę do określenia kosztów jednostkowych oraz ustalenia cen i stawek opłat stanowią koszty planowane dla pierwszego roku wykonywania nowej działalności gospodarczej, a uzasadnienie kalkulacji cen i stawek opłat powinno uwzględniać analizy porównawcze z innymi przedsiębiorstwami energetycznymi zajmującymi się takim samym rodzajem działalności gospodarczej w zakresie zaopatrzenia w ciepło.
+§ 30.
+Jeżeli przedsiębiorstwo energetyczne kupuje ciepło od innego przedsiębiorstwa energetycznego w celu sprzedaży tego ciepła odbiorcom przyłączonym do sieci ciepłowniczej lub korzysta z usług przesyłowych świadczonych przez inne przedsiębiorstwo energetyczne, w rozliczeniach prowadzonych na podstawie zawartych między tymi przedsiębiorstwami umów sprzedaży ciepła i umów o świadczenie usług przesyłania lub dystrybucji ciepła stosuje się odpowiednio opłatę:
+1)
+za zamówioną moc cieplną, stanowiącą iloczyn zamówionej mocy cieplnej i ceny za zamówioną moc cieplną dla określonego nośnika ciepła – opłata ta jest pobierana w 12 ratach miesięcznych;
+2)
+za ciepło, stanowiącą iloczyn ilości ciepła, ustalonej na podstawie odczytu wskazań układu pomiarowo-rozliczeniowego zainstalowanego w miejscu określonym w umowie sprzedaży ciepła, i ceny ciepła dla określonego nośnika ciepła – opłata ta jest pobierana za każdy miesiąc, w którym dostarczono ciepło;
+3)
+za nośnik ciepła, stanowiącą iloczyn ilości tego nośnika, ustalonej na podstawie wskazań układu pomiarowo-rozliczeniowego zainstalowanego w miejscu określonym w umowie sprzedaży ciepła albo w umowie o świadczenie usług przesyłania lub dystrybucji ciepła, i ceny nośnika ciepła dla danej sieci ciepłowniczej – opłata ta jest pobierana za każdy miesiąc, w którym dostarczono nośnik ciepła;
+4)
+stałą za usługi przesyłowe, stanowiącą iloczyn zamówionej mocy cieplnej i stawki opłaty stałej za usługi przesyłowe dla danej sieci ciepłowniczej – opłata ta jest pobierana w 12 ratach miesięcznych;
+5)
+zmienną za usługi przesyłowe, stanowiącą iloczyn ilości ciepła, ustalonej na podstawie odczytów wskazań układu pomiarowo-rozliczeniowego zainstalowanego w miejscu określonym w umowie sprzedaży ciepła, i stawki opłaty zmiennej za usługi przesyłowe dla danej sieci ciepłowniczej – opłata ta jest pobierana za każdy miesiąc, w którym dostarczono ciepło.
+§ 31.
+1.
+Przedsiębiorstwo energetyczne prowadzi rozliczenia z odbiorcami ciepła, odpowiednio do zakresu świadczonych usług dla poszczególnych grup taryfowych, na podstawie odczytów wskazań układów pomiarowo-rozliczeniowych zainstalowanych na przyłączach do węzłów cieplnych lub w innych miejscach rozgraniczenia eksploatacji urządzeń i instalacji, określonych w umowie sprzedaży ciepła lub w umowie o świadczenie usług przesyłania lub dystrybucji albo w umowie kompleksowej.
+2.
+W rozliczeniach prowadzonych z odbiorcami ciepła wytwórca ciepła stosuje opłaty obliczane na podstawie ustalonych w taryfie cen za zamówioną moc cieplną, cen ciepła i cen nośnika ciepła, a w przypadku:
+1)
+źródeł ciepła, o których mowa w § 7 ust. 8, opłaty obliczane są na podstawie ustalonych w taryfie stawek opłat za zamówioną moc cieplną i stawek opłat za ciepło;
+2)
+lokalnych źródeł ciepła, o których mowa w § 21 ust. 3, opłaty obliczane są na podstawie ustalonych w taryfie miesięcznych i sezonowych stawek opłat.
+3.
+W rozliczeniach prowadzonych z odbiorcami ciepła przedsiębiorstwo ciepłownicze stosuje opłaty obliczane na podstawie ustalonych w taryfie cen za zamówioną moc cieplną, cen ciepła, cen nośnika ciepła oraz stawek opłat stałych i zmiennych za usługi przesyłowe, a w przypadku:
+1)
+źródeł ciepła, o których mowa w § 7 ust. 8, opłaty obliczane na podstawie ustalonych w taryfie stawek opłat za zamówioną moc cieplną i stawek opłat za ciepło;
+2)
+lokalnych źródeł ciepła, o których mowa w § 21 ust. 3, opłaty obliczane na podstawie ustalonych w taryfie miesięcznych i sezonowych stawek opłat;
+3)
+zakupu ciepła od innego przedsiębiorstwa energetycznego – opłaty obliczane na podstawie cen i stawek opłat ustalonych dla danej sieci ciepłowniczej przez przedsiębiorstwo energetyczne, od którego jest kupowane ciepło sprzedawane odbiorcom.
+4.
+W rozliczeniach prowadzonych z odbiorcami ciepła dystrybutor ciepła stosuje opłaty obliczane na podstawie:
+1)
+ustalonych w taryfie stawek opłat stałych i zmiennych za usługi przesyłowe;
+2)
+cen i stawek opłat ustalonych dla danej sieci ciepłowniczej przez przedsiębiorstwo energetyczne, od którego jest kupowane ciepło sprzedawane odbiorcom.
+5.
+W rozliczeniach prowadzonych z odbiorcami ciepła przedsiębiorstwo obrotu ciepłem stosuje opłaty obliczane na podstawie stawek opłat za obsługę odbiorców, ustalonych w taryfie tego przedsiębiorstwa oraz opłaty obliczane na podstawie:
+1)
+cen za zamówioną moc cieplną, cen ciepła i cen nośnika ciepła, ustalonych dla danej sieci ciepłowniczej przez przedsiębiorstwa energetyczne, od których jest kupowane ciepło sprzedawane odbiorcom;
+2)
+stawek opłat stałych i zmiennych za usługi przesyłowe, ustalonych dla danej sieci ciepłowniczej przez przedsiębiorstwa energetyczne świadczące usługi przesyłowe dla przedsiębiorstwa obrotu ciepłem.
+§ 32.
+Przedsiębiorstwo energetyczne wyodrębnia w fakturze wystawionej odbiorcy ciepła opłaty obliczone na podstawie cen lub stawek opłat ustalonych przez:
+1)
+to przedsiębiorstwo w taryfie dla ciepła;
+2)
+inne przedsiębiorstwa energetyczne, z którymi prowadzi rozliczenia w obrocie ciepłem.
+§ 33.
+Rodzaje opłat pobieranych od odbiorców ciepła oraz podstawy i sposób ich obliczania określać powinna umowa sprzedaży ciepła lub umowa o świadczenie usług przesyłania lub dystrybucji albo umowa kompleksowa, a wysokość tych opłat, jeżeli umowa nie stanowi inaczej, oblicza się w następujący sposób:
+1)
+miesięczna rata opłaty za zamówioną moc cieplną, pobierana w każdym miesiącu, stanowi iloczyn zamówionej mocy cieplnej oraz 1/12 ceny za zamówioną moc cieplną dla danej grupy taryfowej lub stawki opłaty miesięcznej za zamówioną moc cieplną dla danej grupy taryfowej zasilanej ze źródła ciepła, o którym mowa w § 7 ust. 8;
+2)
+opłata za ciepło, pobierana za każdy miesiąc, w którym nastąpił pobór ciepła, stanowi iloczyn ilości dostarczonego ciepła ustalonej na podstawie odczytów wskazań układu pomiarowo-rozliczeniowego zainstalowanego na przyłączu do węzła cieplnego lub do zewnętrznych instalacji odbiorczych albo w innych miejscach rozgraniczenia eksploatacji urządzeń i instalacji, o których mowa w § 31 ust. 1, oraz ceny ciepła dla danej grupy taryfowej lub stawki opłaty za ciepło dla danej grupy taryfowej zasilanej ze źródła ciepła, o którym mowa w § 7 ust. 8;
+3)
+opłata za nośnik ciepła, pobierana za każdy miesiąc, w którym nastąpił pobór nośnika ciepła, stanowi iloczyn ilości nośnika ciepła dostarczonego do napełniania i uzupełnienia ubytków wody w instalacjach odbiorczych, ustalonej na podstawie odczytów wskazań układu pomiarowo-rozliczeniowego zainstalowanego w węźle cieplnym, oraz ceny nośnika ciepła dla danej grupy taryfowej;
+4)
+miesięczna rata opłaty stałej za usługi przesyłowe, pobierana w każdym miesiącu, stanowi iloczyn zamówionej mocy cieplnej oraz 1/12 stawki opłaty stałej za usługi przesyłowe dla danej grupy taryfowej;
+5)
+opłata zmienna za usługi przesyłowe, pobierana za każdy miesiąc, w którym nastąpił pobór ciepła, stanowi iloczyn ilości dostarczonego ciepła ustalonej na podstawie odczytów wskazań układu pomiarowo-rozliczeniowego zainstalowanego na przyłączu do węzła cieplnego lub do zewnętrznych instalacji odbiorczych albo w innych miejscach rozgraniczenia eksploatacji urządzeń i instalacji, o których mowa w § 31 ust. 1, oraz stawki opłaty zmiennej za usługi przesyłowe dla danej grupy taryfowej;
+6)
+miesięczna rata opłaty za obsługę odbiorców, pobierana przez przedsiębiorstwo obrotu ciepłem w każdym miesiącu, stanowi iloczyn zamówionej mocy cieplnej i 1/12 stawki opłaty za obsługę odbiorców dla danej grupy taryfowej.
+§ 34.
+1.
+W przypadku dostarczania ciepła do grupowego węzła cieplnego obsługującego obiekty więcej niż jednego odbiorcy, zawarte z odbiorcami umowy sprzedaży ciepła, umowy o świadczenie usług przesyłania lub dystrybucji albo umowy kompleksowe powinny określać także rodzaje opłat pobieranych od tych odbiorców oraz podstawy ich obliczania.
+2.
+Jeżeli umowy, o których mowa w ust. 1, nie stanowią inaczej, wysokość opłat oblicza się w następujący sposób:
+1)
+miesięczne raty opłaty za zamówioną moc cieplną, pobierane od odbiorców w każdym miesiącu, stanowią iloczyn zamówionej mocy cieplnej dla obiektów danego odbiorcy oraz 1/12 ceny za zamówioną moc cieplną dla danej grupy taryfowej;
+2)
+miesięczne raty opłaty stałej za usługi przesyłowe, pobierane od odbiorców w każdym miesiącu, stanowią iloczyn zamówionej mocy cieplnej dla obiektów danego odbiorcy oraz 1/12 stawki opłaty stałej za usługi przesyłowe dla danej grupy taryfowej;
+3)
+opłata za dostarczone ciepło, pobierana od odbiorców za każdy miesiąc, w którym nastąpił pobór ciepła, jest obliczana w następujący sposób:
+a)
+w przypadku gdy zewnętrzne instalacje odbiorcze są eksploatowane przez przedsiębiorstwo energetyczne, opłatę za ciepło dostarczone:
+– w celu ogrzewania – oblicza się jako iloczyn ilości ciepła, ustalonej na podstawie odczytów wskazań urządzeń pomiarowo-rozliczeniowych zainstalowanych w przyłączach do instalacji centralnego ogrzewania w obiektach danego odbiorcy, oraz ceny ciepła dla danej grupy taryfowej,
+– w celu podgrzewania wody wodociągowej – oblicza się według wzoru: \( O_{cwo} = Q_{wgcw} \times C_{wg} \times G_{cwo} :G_{scwo} \) gdzie poszczególne symbole oznaczają: Ocwo – opłatę za ciepło dostarczone w celu podgrzewania wody wodociągowej, obliczoną dla danego odbiorcy [w zł], Qwgcw – ilość ciepła dostarczonego do grupowego węzła cieplnego w celu podgrzewania wody wodociągowej, określoną na podstawie odczytów wskazań układu pomiarowo-rozliczeniowego zainstalowanego w tym węźle [w GJ], Cwg – cenę ciepła dla danej grupy taryfowej [w zł/GJ], Gcwo – sumę zużycia ciepłej wody na podstawie odczytów wskazań wodomierzy zainstalowanych na przyłączach do instalacji ciepłej wody w obiektach danego odbiorcy [w m3], Gscwo – sumę zużycia ciepłej wody na podstawie odczytów wskazań wodomierzy zainstalowanych na przyłączach do instalacji ciepłej wody we wszystkich obiektach zasilanych z grupowego węzła cieplnego [w m3],
+b)
+w przypadku gdy zewnętrzne instalacje odbiorcze nie są eksploatowane przez przedsiębiorstwo energetyczne, opłatę za ciepło oblicza się jako sumę iloczynów ilości ciepła dostarczonego do grupowego węzła cieplnego ustalonej na podstawie odczytów wskazań układu pomiarowo-rozliczeniowego zainstalowanego w węźle cieplnym oraz ceny ciepła dla danej grupy taryfowej;
+4)
+opłata zmienna za usługi przesyłania i dystrybucji ciepła, pobierana od odbiorców za każdy miesiąc, w którym nastąpił pobór ciepła, jest obliczana:
+a)
+jako iloczyn stawki opłaty zmiennej za usługi przesyłania i dystrybucji ciepła dla danej grupy taryfowej oraz łącznej ilości ciepła, ustalonej w sposób określony w pkt 3 lit. a – w przypadku gdy zewnętrzne instalacje odbiorcze są eksploatowane przez przedsiębiorstwo energetyczne,
+b)
+jako iloczyn stawki opłaty zmiennej za usługi przesyłania i dystrybucji ciepła dla danej grupy taryfowej oraz łącznej ilości ciepła, ustalonej w sposób określony w pkt 3 lit. b – w przypadku gdy zewnętrzne instalacje odbiorcze nie są eksploatowane przez przedsiębiorstwo energetyczne;
+5)
+opłata za nośnik ciepła, pobierana od odbiorców za każdy miesiąc, w którym nastąpił pobór nośnika ciepła, dostarczonego do napełniania i uzupełnienia ubytków wody w instalacji centralnego ogrzewania, jest obliczana według wzoru: \( O_{no} = G_{nwg} \times C_n \times N_{oo} :N_{owg} \) gdzie poszczególne symbole oznaczają: Ono – opłatę za nośnik ciepła, obliczoną dla danego odbiorcy [w zł], Gnwg – ilość nośnika ciepła dostarczonego do grupowego węzła cieplnego w celu napełniania i uzupełnienia ubytków wody w połączonej z tym węzłem instalacji centralnego ogrzewania [w m3], Cn – cenę nośnika ciepła dla danej grupy taryfowej [w zł/m 3], Noo – sumę mocy cieplnej instalacji ogrzewania dla obiektów danego odbiorcy [w MW], Nowg – sumę mocy cieplnej instalacji ogrzewania dla wszystkich obiektów zasilanych z grupowego węzła cieplnego [w MW].
+§ 35.
+1.
+W przypadku gdy na wniosek odbiorcy przedsiębiorstwo energetyczne zawarło z nim umowę, w której zamiast ustalonych w taryfie ceny za zamówioną moc cieplną i ceny ciepła lub stawki opłaty miesięcznej i stawki opłaty za ciepło określono średnią cenę ciepła albo zamiast ustalonych w taryfie stawki opłaty stałej za usługi przesyłowe i stawki opłaty zmiennej za te usługi określono średnią stawkę opłaty za usługi przesyłowe, rozliczenia z takim odbiorcą prowadzone są na podstawie średniej ceny ciepła i średniej stawki opłaty za usługi przesyłowe, obliczonych w sposób określony w § 24 ust. 2.
+2.
+Rodzaje opłat pobieranych od odbiorcy ciepła oraz podstawa i sposób ich obliczania powinny być określone w umowie, o której mowa w ust. 1, a wysokość tych opłat, jeżeli umowa nie stanowi inaczej, oblicza się w następujący sposób:
+1)
+opłata za ciepło, pobierana za każdy miesiąc, w którym nastąpił pobór ciepła, stanowi iloczyn ilości dostarczonego ciepła, ustalonej na podstawie odczytów wskazań układu pomiarowo-rozliczeniowego zainstalowanego w przyłączu do węzła cieplnego lub do zewnętrznych instalacji odbiorczych albo w innych miejscach rozgraniczenia eksploatacji urządzeń i instalacji, o których mowa w § 31 ust. 1, oraz średniej ceny ciepła, o której mowa w ust. 1;
+2)
+opłata za usługi przesyłowe, pobierana za każdy miesiąc, w którym nastąpił pobór ciepła, stanowi iloczyn ilości dostarczonego ciepła, ustalonej na podstawie odczytów wskazań układu pomiarowo-rozliczeniowego zainstalowanego na przyłączu do węzła cieplnego lub do zewnętrznych instalacji odbiorczych albo w innych miejscach rozgraniczenia eksploatacji urządzeń i instalacji, o których mowa w § 31 ust. 1, oraz średniej stawki opłaty za usługi przesyłowe, o której mowa w ust. 1.
+§ 36.
+1.
+Opłatę za przyłączenie oblicza się jako iloczyn długości przyłącza i stawki opłaty za przyłączenie, ustalonej w taryfie dla danego rodzaju przyłącza.
+2.
+W przypadku grupowego węzła cieplnego, z którym połączone są instalacje odbiorcze zasilające obiekty więcej niż jednego odbiorcy, opłatę za przyłączenie grupowego węzła cieplnego do sieci ciepłowniczej, ustaloną w sposób określony w ust. 1, dzieli się między poszczególnych odbiorców proporcjonalnie do ich udziału w obciążeniu grupowego węzła cieplnego według wzoru: \( O_{po} = O_{pwg} \times N_o :N_{wg} \) gdzie poszczególne symbole oznaczają: Opo – opłatę za przyłączenie dla danego odbiorcy, Opwg – opłatę za przyłączenie grupowego węzła cieplnego do sieci ciepłowniczej, No – sumę zamówionej mocy cieplnej dla obiektów danego odbiorcy [w MW], Nwg – sumę zamówionej mocy cieplnej dla wszystkich obiektów obsługiwanych przez grupowy węzeł cieplny [w MW].
+§ 37.
+1.
+W przypadku uszkodzenia lub stwierdzenia nieprawidłowych wskazań układu pomiarowo-rozliczeniowego, w okresie braku prawidłowego pomiaru ilości i parametrów nośnika ciepła, wysokość opłat ustala się w sposób określony w rozporządzeniu, jeżeli umowa sprzedaży ciepła, umowa o świadczenie usług przesyłania lub dystrybucji albo umowa kompleksowa nie stanowi inaczej.
+2.
+W przypadku uszkodzenia układu pomiarowo-rozliczeniowego, o którym mowa w ust. 1, ilość ciepła dostarczonego w okresie braku prawidłowego pomiaru, oznaczoną symbolem „Qb”, oblicza się według wzoru: \( Q_b = [Q_{ow} (t_w – t_b ):(t_w – t_o ) + Q_{cwt} ] \times h_b : h_o \) gdzie poszczególne symbole oznaczają: Qb – ilość ciepła dostarczonego w okresie braku prawidłowego pomiaru [w GJ], Qow – ilość ciepła zależną od warunków atmosferycznych, dostarczoną na ogrzewanie i wentylację w miesięcznym okresie rozliczeniowym przed uszkodzeniem układu pomiarowo-rozliczeniowego [w GJ], Qcwt – ilość ciepła niezależną od warunków atmosferycznych, dostarczoną na podgrzewanie wody wodociągowej i na cele technologiczne w miesięcznym okresie rozliczeniowym przed uszkodzeniem układu pomiarowo-rozliczeniowego [w GJ], tw – normatywną temperaturę ogrzewanych pomieszczeń [w °C], tb – średnią temperaturę zewnętrzną w okresie braku prawidłowego pomiaru [w °C], to – średnią temperaturę zewnętrzną w miesięcznym okresie rozliczeniowym przed uszkodzeniem układu pomiarowo-rozliczeniowego [w °C], hb – liczbę dni w okresie braku prawidłowego pomiaru, ho – liczbę dni w miesięcznym okresie rozliczeniowym przed uszkodzeniem układu pomiarowo-rozliczeniowego.
+3.
+W przypadku stwierdzenia nieprawidłowych wskazań układu pomiarowo-rozliczeniowego wprowadza się uzgodnioną przez strony korektę odczytów wskazań tego układu, a jeżeli uzgodnienie tej korekty nie jest możliwe, ilość ciepła dostarczonego w okresie nieprawidłowych wskazań układu pomiarowo-rozliczeniowego oblicza się w sposób określony w ust. 2.
+4.
+Jeżeli nie można ustalić liczby dni w okresie braku prawidłowego pomiaru, ilość dostarczonego ciepła oblicza się począwszy od dnia rozpoczęcia okresu rozliczeniowego do dnia usunięcia stwierdzonych nieprawidłowości.
+5.
+Żądanie odbiorcy sprawdzenia przez przedsiębiorstwo energetyczne prawidłowości wskazań układu pomiarowo-rozliczeniowego lub zawiadomienie o jego wadliwym działaniu nie zwalnia odbiorcy od terminowego regulowania bieżących należności za usługi związane z zaopatrzeniem w ciepło.
+6.
+Odbiorca pokrywa koszty zażądanego przez niego sprawdzenia układu pomiarowo-rozliczeniowego w przypadku, gdy nie stwierdzono:
+1)
+błędu wskazań układu pomiarowo-rozliczeniowego większego od określonego w odrębnych przepisach, z uwzględnieniem klasy dokładności;
+2)
+innych niż wymienione w pkt 1 wad powodujących nieprawidłowe działanie układu pomiarowo-rozliczeniowego.
+§ 38.
+1.
+W przypadku niedotrzymania przez przedsiębiorstwo energetyczne standardów jakościowych obsługi odbiorców lub niedotrzymania przez odbiorcę warunków określonych w umowie sprzedaży ciepła lub w umowie o świadczenie usług przesyłania lub dystrybucji ciepła albo w umowie kompleksowej, jeżeli umowy te nie stanowią inaczej, wysokość opłat ustala się w następujący sposób:
+1)
+jeżeli przedsiębiorstwo energetyczne bez zmiany postanowień umowy sprzedaży ciepła, umowy o świadczenie usług przesyłania lub dystrybucji ciepła lub umowy kompleksowej:
+a)
+zwiększyło obliczeniowe natężenie przepływu nośnika ciepła i przekroczyło jego dopuszczalne odchylenie, do obliczenia wysokości opłat za ilość dostarczonego ciepła i zamówioną moc cieplną przyjmuje się obliczeniowe natężenie przepływu nośnika ciepła,
+b)
+zmniejszyło obliczeniowe natężenie przepływu nośnika ciepła i przekroczyło jego dopuszczalne odchylenie, do obliczenia wysokości opłat za zamówioną moc cieplną przyjmuje się zmniejszone natężenie przepływu,
+c)
+podniosło temperaturę dostarczanego nośnika ciepła i przekroczyło jej dopuszczalne odchylenie, do obliczenia wysokości opłat za ilość dostarczonego ciepła przyjmuje się temperaturę nośnika ciepła, w wysokości określonej w umowie,
+d)
+obniżyło temperaturę dostarczanego nośnika ciepła i przekroczyło jej dopuszczalne odchylenie, do obliczenia wysokości opłat za ilość dostarczonego ciepła przyjmuje się obniżoną temperaturę nośnika ciepła;
+2)
+jeżeli odbiorca, bez zmiany postanowień umowy sprzedaży ciepła, umowy o świadczenie usług przesyłania lub dystrybucji ciepła lub umowy kompleksowej:
+a)
+zwiększył obliczeniowe natężenie przepływu nośnika ciepła i przekroczył jego dopuszczalne odchylenie, do obliczenia wysokości opłat za ilość dostarczonego ciepła i zamówioną moc cieplną przyjmuje się zwiększone natężenie przepływu nośnika ciepła,
+b)
+zmniejszył obliczeniowe natężenie przepływu nośnika ciepła i przekroczył jego dopuszczalne odchylenie, do obliczenia wysokości opłat za:
+– ilość dostarczonego ciepła – przyjmuje się zmniejszone natężenie przepływu nośnika ciepła,
+– zamówioną moc cieplną – przyjmuje się obliczeniowe natężenie przepływu nośnika ciepła,
+c)
+podniósł temperaturę zwracanego nośnika ciepła i przekroczył jej dopuszczalne odchylenie, do obliczenia wysokości opłat za ilość dostarczonego ciepła przyjmuje się temperaturę nośnika ciepła, która jest zgodna z warunkami umowy,
+d)
+obniżył temperaturę zwracanego nośnika ciepła i przekroczył jej dopuszczalne odchylenie, do obliczenia wysokości opłat za ilość dostarczonego ciepła przyjmuje się obniżoną temperaturę nośnika ciepła.
+2.
+Sprawdzenie dotrzymywania przez przedsiębiorstwo energetyczne standardów jakościowych obsługi odbiorców i dotrzymywania przez odbiorcę warunków umowy sprzedaży ciepła lub umowy o świadczenie usług przesyłania lub dystrybucji ciepła albo umowy kompleksowej w zakresie określonym w ust. 1 jest dokonywane, jeżeli umowy te nie stanowią inaczej, na podstawie średniego natężenia przepływu i temperatury nośnika ciepła w:
+1)
+okresie doby – gdy nośnikiem ciepła jest woda;
+2)
+ciągu godziny – gdy nośnikiem ciepła jest para.
+3.
+Jeżeli umowa nie stanowi inaczej, średnie natężenie przepływu i średnia temperatura nośnika ciepła, o których mowa w ust. 2, stanowią podstawę do ustalania opłat za zamówioną moc cieplną i ciepło oraz opłaty stałej i zmiennej za usługi przesyłowe, pobieranych za miesiąc, w którym stwierdzono niedotrzymanie standardów jakościowych obsługi odbiorców lub niedotrzymanie przez odbiorcę warunków umowy.
+§ 39.
+1.
+Odbiorcy przysługują bonifikaty w przypadku niedotrzymania przez przedsiębiorstwo energetyczne warunków umowy sprzedaży ciepła lub umowy o świadczenie usług przesyłania lub dystrybucji albo umowy kompleksowej w zakresie:
+1)
+terminów rozpoczęcia i zakończenia dostarczania ciepła w celu ogrzewania;
+2)
+planowanych przerw w dostarczaniu ciepła w okresie letnim.
+2.
+Wysokość bonifikat, o których mowa w ust. 1, jeżeli umowa sprzedaży ciepła lub umowa o świadczenie usług przesyłania lub dystrybucji albo umowa kompleksowa nie stanowi inaczej, ustala się w następujący sposób:
+1)
+jeżeli rozpoczęcie lub zakończenie dostarczania ciepła w celu ogrzewania nastąpiło z opóźnieniem w stosunku do ustalonych standardów jakościowych obsługi odbiorców, bonifikata stanowi 1/30 miesięcznej opłaty za zamówioną moc cieplną dla obiektów, w których nastąpiło opóźnienie – za każdą rozpoczętą dobę opóźnienia;
+2)
+jeżeli planowa przerwa w dostarczaniu ciepła w okresie letnim była dłuższa od ustalonych standardów jakościowych obsługi odbiorców, bonifikata stanowi 1/30 miesięcznej opłaty za zamówioną moc cieplną dla obiektów, w których nastąpiło przedłużenie przerwy w dostarczaniu ciepła – za każdą rozpoczętą dobę przedłużenia tej przerwy.
+§ 40.
+1.
+Wielkość zamówionej mocy cieplnej odbiorca ustala z przedsiębiorstwem energetycznym w umowie sprzedaży ciepła lub w umowie o świadczenie usług przesyłania lub dystrybucji albo w umowie kompleksowej na okres co najmniej 12 miesięcy. Wielkość zamówionej mocy cieplnej może być zmieniona wyłącznie w terminach ustalonych w tych umowach.
+2.
+W przypadku gdy zamówiona przez odbiorcę moc cieplna jest mniejsza od mocy cieplnej określonej w umowie o przyłączenie danego obiektu do sieci ciepłowniczej albo gdy wartości współczynnika wykorzystania zamówionej mocy cieplnej znacznie różnią się od wartości technicznie uzasadnionych, przedsiębiorstwo energetyczne może dokonać w sezonie grzewczym kontroli prawidłowości określenia przez odbiorcę zamówionej mocy cieplnej.
+3.
+Jeżeli zawarta z odbiorcą umowa nie stanowi inaczej, sprawdzenie, o którym mowa w ust. 2, może być dokonane na podstawie odczytów wskazań układu pomiarowo-rozliczeniowego oraz następujących obliczeń: \( N_{sdco} = Q_{dco} :(24 \times 3,6) \) \( N_{sdcw} = Q_{dcw} :(24 \times 3,6) \) \( N_z = N_{sdco} (t_w – t_o ):(t_w – t_{sd} ) + N_{sdcw} \) gdzie poszczególne symbole oznaczają: Nsdco – średni pobór mocy cieplnej na cele grzewcze w danym obiekcie w ciągu doby, podczas której średnia temperatura zewnętrzna wynosiła tsd [w MW], Qdco – ilość ciepła dostarczonego na cele grzewcze w ciągu doby, dla której obliczany jest średni pobór mocy cieplnej na cele grzewcze w danym obiekcie, określoną na podstawie wskazań układu pomiarowo-rozliczeniowego [w GJ], Nsdcw – średni pobór mocy cieplnej na cele podgrzewania wody wodociągowej w danym obiekcie w ciągu doby, podczas której średnia temperatura zewnętrzna wynosiła tsd [w MW], Qdcw – ilość ciepła dostarczonego na cele podgrzewania wody wodociągowej w ciągu doby, dla której obliczany jest średni pobór mocy cieplnej na cele grzewcze w danym obiekcie, określoną na podstawie wskazań układu pomiarowo-rozliczeniowego [w GJ], Nz – obliczoną wielkość zamówionej mocy cieplnej dla danego obiektu [w MW], tw – normatywną temperaturę ogrzewanych pomieszczeń w danym obiekcie [w K], to – obliczeniową temperaturę zewnętrzną dla strefy klimatycznej, w której jest zlokalizowany dany obiekt [w K], tsd – średnią temperaturę zewnętrzną w ciągu doby, dla której obliczono średni pobór mocy cieplnej na cele grzewcze i na cele podgrzewania wody wodociągowej w danym obiekcie Nsdco i Nsdcw [w K].
+§ 41.
+1.
+W przypadku wodnych sieci ciepłowniczych przedsiębiorstwo energetyczne ustala obliczeniowe natężenie przepływu w przyłączach do poszczególnych węzłów cieplnych, na podstawie zamówionej przez odbiorców mocy cieplnej dla obiektów zasilanych z tych węzłów i różnicy temperatury wody dostarczanej do przyłącza i zwracanej do sieci ciepłowniczej w warunkach obliczeniowych, na podstawie wzoru: \( G_o = {{N_{zw} } \over {c_w \times \rho _{sr} \times [(T_{zo} – dT_{zo} ) – T_{po} ]}} \times 3,6 \times 10^6 \) gdzie poszczególne symbole oznaczają: Go – obliczeniowe natężenie przepływu wody w danym przyłączu do węzła cieplnego [w m3/h], Nzw – zamówioną moc cieplną dla obiektów zasilanych z danego węzła cieplnego [w MW], cw – średnie ciepło właściwe wody w parametrach pracy węzła w warunkach obliczeniowych [w kJ/kgK], ρśr – średnią gęstość wody w parametrach pracy węzła w warunkach obliczeniowych [w kg/m3], Tzo – temperaturę wody w rurociągu zasilającym dany węzeł cieplny, określoną w tabeli regulacyjnej dla danej sieci ciepłowniczej dla warunków obliczeniowych [w K], dTzo – obniżenie temperatury wody dostarczanej do danego przyłącza wskutek strat ciepła podczas przesyłania [w K], Tpo – temperaturę wody w rurociągu powrotnym z danego węzła cieplnego, określoną dla warunków obliczeniowych [w K].
+2.
+Obniżenie temperatury wody w przyłączu oznaczone symbolem „dTzo”, o którym mowa w ust. 1, powinno być określone w umowie sprzedaży ciepła lub w umowie o świadczenie usług przesyłania lub dystrybucji albo w umowie kompleksowej.
+3.
+Temperaturę wody zwracanej z danego węzła cieplnego do sieci ciepłowniczej ustala się, uwzględniając jego układ funkcjonalny i warunki cieplno-hydrauliczne oraz maksymalne wykorzystanie ciepła w urządzeniach zainstalowanych w węźle.
+4.
+Obliczeniowe natężenie przepływu wody dla węzła cieplnego stanowi podstawę doboru urządzenia regulującego natężenie przepływu nośnika ciepła w tym przyłączu.
+§ 42.
+1.
+Wielkość poboru mocy cieplnej oblicza się na podstawie odczytów wskazań układu pomiarowo-rozliczeniowego.
+2.
+Przy dostarczaniu ciepła, którego nośnikiem jest para wodna, wielkość poboru mocy cieplnej oblicza się:
+1)
+na podstawie odczytanego średniego poboru mocy zarejestrowanego przez ciepłomierz w okresie nie krótszym niż godzina;
+2)
+jako różnicę odczytów wskazań ciepłomierza nieposiadającego rejestracji poboru mocy, dokonanych w odstępie jednej godziny;
+3)
+w przypadku braku ciepłomierza – na podstawie średniego w ciągu godziny natężenia przepływu, ciśnienia i temperatury pary dostarczanej ze źródła ciepła do sieci ciepłowniczej lub z sieci ciepłowniczej do węzła cieplnego oraz średniego w ciągu tej godziny natężenia przepływu i temperatury skroplin, zwracanych z sieci ciepłowniczej do źródła ciepła lub z węzła cieplnego do sieci ciepłowniczej.
+3.
+Przy dostarczaniu ciepła, którego nośnikiem jest gorąca woda, wielkość poboru mocy cieplnej oblicza się jako 1/24 różnicy odczytów wskazań ciepłomierza, dokonanych w odstępie 24 godzin, a w przypadku braku ciepłomierza – na podstawie średniego w ciągu doby natężenia przepływu i temperatury wody dostarczanej ze źródła ciepła do sieci ciepłowniczej lub z sieci ciepłowniczej do węzła cieplnego oraz średniego w ciągu tej doby natężenia przepływu i temperatury wody zwracanej z sieci ciepłowniczej do źródła ciepła lub z węzła cieplnego do sieci ciepłowniczej.
+4.
+Ograniczenie lub przekroczenie mocy cieplnej określa się jako różnicę między zamówioną mocą cieplną a wielkością poboru mocy cieplnej, obliczoną w sposób określony w ust. 2 lub 3, odniesioną do warunków obliczeniowych w przypadku, gdy nośnikiem ciepła jest:
+1)
+para wodna – na podstawie umowy zawartej między stronami;
+2)
+gorąca woda – na podstawie parametrów tego nośnika dla warunków obliczeniowych oraz dla tych samych warunków atmosferycznych, w których określono wielkość poboru mocy cieplnej, określonych w tabeli regulacyjnej.
+5.
+Jeżeli umowa sprzedaży ciepła lub umowa o świadczenie usługi przesyłania lub dystrybucji ciepła albo umowa kompleksowa nie stanowi inaczej, a ustalone w odrębnych przepisach standardy jakościowe obsługi odbiorców określające dopuszczalne odchylenia natężenia przepływu i parametrów nośnika ciepła są dotrzymywane przez przedsiębiorstwo energetyczne, wynikające z tych odchyleń dopuszczalne ograniczenie mocy cieplnej wynosi w warunkach obliczeniowych:
+1)
+przy dostarczaniu ciepła do sieci ciepłowniczej:
+a)
+do 7% – gdy nośnikiem ciepła jest gorąca woda,
+b)
+do 10% – gdy nośnikiem ciepła jest para;
+2)
+przy dostarczaniu ciepła do węzła cieplnego:
+a)
+do 10% – gdy nośnikiem ciepła jest gorąca woda,
+b)
+do 17% – gdy nośnikiem ciepła jest para.
+§ 43.
+1.
+Jeżeli z powodu niedotrzymania przez przedsiębiorstwo energetyczne standardów jakościowych obsługi odbiorców nastąpiło ograniczenie mocy cieplnej, jeżeli umowa sprzedaży ciepła lub umowa o świadczenie usług przesyłania lub dystrybucji ciepła albo umowa kompleksowa nie stanowi inaczej, odbiorcy przysługuje bonifikata, której wysokość oblicza się w następujący sposób:
+1)
+jeżeli ograniczenie mocy cieplnej wynosi do 40%, wysokość bonifikaty oblicza się według wzorów: \( S_u = S_{um} + S_{uc} \) \( S_{um} = 0,25(N_t – N_r ) \times C_n \times h_p :365 \) \( S_{uc} = 0,4(N_t – N_r ) \times 3,6 \times 24 \times h_p \times C_c \)
+2)
+jeżeli ograniczenie mocy cieplnej wynosi powyżej 40%, wysokość bonifikaty oblicza się według wzorów: \( S_u = S_{um} + S_{uc} \) \( S_{um} = 0,5(N_t – N_r ) \times C_n \times h_p :365 \) \( S_{uc} = 0,8(N_t – N_r ) \times 3,6 \times 24 \times h_p \times C_c \)
+– gdzie poszczególne symbole oznaczają: Su – łączną bonifikatę za ograniczenia w dostarczaniu ciepła, Sum – bonifikatę za ograniczenie mocy cieplnej, Suc – bonifikatę za niedostarczone ciepło, Nt – moc cieplną określoną na podstawie obliczeniowego natężenia przepływu i parametrów nośnika ciepła określonych w tabeli regulacyjnej [w MW], Nr – rzeczywistą moc cieplną określoną na podstawie natężenia przepływu i rzeczywistych parametrów nośnika ciepła [w MW], 24 – mnożnik oznaczający 24 godziny w ciągu doby [w h], hp – liczbę dni, w których wystąpiły ograniczenia w dostarczaniu ciepła spowodowane niedotrzymaniem przez przedsiębiorstwo energetyczne standardów jakościowych obsługi odbiorców, Cn – cenę za zamówioną moc cieplną dla danej grupy taryfowej [w zł/MW], Cc – cenę ciepła dla danej grupy taryfowej [w zł/GJ].
+2.
+Niedotrzymanie standardów jakościowych obsługi odbiorców, o których mowa w ust. 1, wymaga potwierdzenia protokołem podpisanym przez strony, które zawarły umowę sprzedaży ciepła lub umowę o świadczenie usług przesyłania lub dystrybucji ciepła albo umowę kompleksową.
+3.
+W przypadku niestawienia się przedstawiciela jednej ze stron w uzgodnionym miejscu i czasie w celu sporządzenia protokołu, o którym mowa w ust. 2, protokół może być sporządzony przez jedną ze stron oraz stanowi podstawę do dochodzenia bonifikat, o których mowa w ust. 1.
+§ 44.
+Bonifikaty za niedotrzymanie standardów jakościowych obsługi odbiorców, obliczone w sposób określony w § 43 ust. 1 na podstawie odczytów wskazań układu pomiarowo-rozliczeniowego zainstalowanego w grupowym węźle cieplnym, obsługującym obiekty więcej niż jednego odbiorcy, dzieli się między poszczególnych odbiorców proporcjonalnie do ich udziału w obciążeniu grupowego węzła cieplnego według wzoru: \( U_o = U_{wg} \times N_o :N_{wg} \) gdzie poszczególne symbole oznaczają: Uo – bonifikatę dla danego odbiorcy, Uwg – bonifikatę obliczoną na podstawie odczytów wskazań układu pomiarowo-rozliczeniowego zainstalowanego w grupowym węźle cieplnym, No – zamówioną moc cieplną dla obiektów danego odbiorcy [w MW], Nwg – zamówioną moc cieplną dla wszystkich obiektów zasilanych z grupowego węzła cieplnego [w MW].
+§ 45.
+1.
+W przypadku gdy ciepło jest pobierane bez zawarcia umowy sprzedaży ciepła lub umowy o świadczenie usług przesyłania lub dystrybucji ciepła albo umowy kompleksowej, przedsiębiorstwo energetyczne obciąża nielegalnie pobierającego ciepło opłatami w wysokości wynikającej z pięciokrotności miesięcznej raty za zamówioną moc cieplną i miesięcznej opłaty za ciepło oraz miesięcznej raty opłaty stałej za usługi przesyłowe i miesięcznej opłaty zmiennej za usługi przesyłowe, określonych na podstawie cen i stawek opłat zawartych w taryfie dla grupy taryfowej, której kryteria odpowiadają nielegalnie pobierającemu ciepło, oraz:
+1)
+wielkości nielegalnie pobranej przez niego mocy cieplnej, ustalonej na podstawie wielkości obiektów, w których ciepło jest pobierane bez zawarcia umowy, oraz zamówionej mocy cieplnej dla podobnych obiektów;
+2)
+wielkości nielegalnie pobranego przez niego ciepła, ustalonej na podstawie wielkości nielegalnie pobranej mocy cieplnej, o której mowa w pkt 1, i średniego czasu jej wykorzystania dla podobnych obiektów.
+2.
+Opłaty, o których mowa w ust. 1, oblicza się dla całego nieobjętego przedawnieniem okresu udowodnionego nielegalnego pobierania ciepła, a w przypadku braku możliwości udowodnienia tego okresu – dla okresu roku.
+3.
+Przedsiębiorstwo energetyczne może obciążyć odbiorcę opłatami w wysokości dwukrotnych cen wynikających z określonych cen i stawek opłat zawartych w taryfie dla danej grupy taryfowej, w przypadku gdy odbiorca:
+1)
+pobierał ciepło niezgodnie z warunkami określonymi w umowie sprzedaży ciepła lub w umowie o świadczenie usług przesyłania lub dystrybucji ciepła albo w umowie kompleksowej, w szczególności gdy pobierał ciepło z całkowitym lub częściowym pominięciem układu pomiarowo-rozliczeniowego lub dokonał ingerencji w ten układ, powodując zafałszowanie pomiarów ilości pobranego ciepła;
+2)
+uniemożliwił dokonanie wstrzymania dostarczania ciepła na podstawie art. 6b ust. 1, 2 lub 4 ustawy.
+4.
+W przypadku przekroczenia zamówionej mocy cieplnej przez odbiorcę, bez uzgodnienia z przedsiębiorstwem energetycznym lub niezgodnie z warunkami umowy, przedsiębiorstwo energetyczne, za wielkość przekroczenia mocy określonego na podstawie § 42 ust. 4, może obciążyć odbiorcę opłatą za zamówioną moc cieplną oraz opłatą stałą za usługę przesyłową w sposób określony w ust. 3.
+5.
+Opłaty, o których mowa w ust. 3 i 4, oblicza się dla każdego miesiąca, w którym nastąpił pobór ciepła niezgodnie z umową albo odbiorca uniemożliwił wstrzymanie dostarczania ciepła, mimo spełnienia przez przedsiębiorstwo energetyczne warunków określonych w art. 6b ust. 1, 2 lub 4 ustawy.
+§ 46.
+Taryfy przedsiębiorstw energetycznych obowiązujące przed dniem wejścia w życie rozporządzenia obowiązują do dnia określonego w decyzjach Prezesa Urzędu Regulacji Energetyki zatwierdzających te taryfy, z zastrzeżeniem § 28 ust. 1 i 3.
+§ 47.
+1.
+W przypadku źródeł, o których mowa w § 13 ust. 1, które w 2018 r. brały udział w systemie handlu uprawnieniami do emisji gazów cieplarnianych oraz które zostały oddane do użytku nie później niż w dniu 31 grudnia 2017 r., w taryfie zatwierdzonej przez Prezesa Urzędu Regulacji Energetyki na podstawie wniosku złożonego w okresie jednego roku od dnia wejścia w życie rozporządzenia, do ceny ciepła, o której mowa w § 13 ust. 1 i 6, jednorazowo dolicza się:
+1)
+w przypadku jednostek kogeneracji opalanych paliwami węglowymi – 1,36 zł/GJ,
+2)
+w przypadku jednostek kogeneracji opalanych paliwami gazowymi – 0,78 zł/GJ,
+3)
+w przypadku jednostek kogeneracji opalanych olejem opałowym – 0 zł/GJ,
+4)
+w przypadku jednostek kogeneracji stanowiących instalacje odnawialnego źródła energii – 0 zł/GJ
+z tytułu pokrycia kosztów zakupu uprawnień do emisji gazów cieplarnianych w roku 2018, które nie zostały uwzględnione w cenie referencyjnej, o której mowa w § 13 ust. 2 i 3.
+2.
+W przypadku źródeł, o których mowa w ust. 1, w których do wytwarzania ciepła zużywanych jest jednocześnie kilka rodzajów paliwa, kwotę, o której mowa w ust. 1, ustala się jako średnią z wartości podanych w ust. 1 pkt 1–4 ważoną planowanym udziałem energii chemicznej poszczególnych paliw zużywanych do wytwarzania energii elektrycznej i ciepła w tych źródłach.
+3.
+W taryfie, która została zatwierdzona zgodnie z ust. 1 lub 2, wskaźnik wzrostu przychodów, obliczony zgodnie z § 13 ust. 6, zwiększa się odpowiednio o liczbę punktów procentowych odpowiadającą kwotom, o których mowa w ust. 1 pkt 1–4 lub ust. 2.
+4.
+Cena ciepła, o której mowa w § 13 ust. 1 i 6, w taryfie, która została zatwierdzona zgodnie z ust. 1 lub 2, może być wyższa od ceny referencyjnej, o której mowa w § 13 ust. 2.
+§ 48.
+Do spraw wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
+§ 49.
+Przepisy § 21 ust. 3–5 i § 31 ust. 2 pkt 2 i ust. 3 pkt 2 stosuje się do dnia 9 listopada 2022 r.
+§ 50.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+1) Minister Klimatu kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 20 marca 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu (Dz. U. poz. 495). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1435, 1495, 1517, 1520, 1524, 1556 i 2166 oraz z 2020 r. poz. 284, 471 i 568. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Energii z dnia 22 września 2017 r. w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń z tytułu zaopatrzenia w ciepło (Dz. U. poz. 1988), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 107 ustawy z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji (Dz. U. z 2020 r. poz. 250).
 
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa szczegółowe zasady:
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Szczegółowe zasady kształtowania taryf § 3. Przedsiębiorstwo energetyczne opracowuje taryfę sposób zapewniający:
+#### Rozdział 2 Szczegółowe zasady kształtowania taryf
 
-#### Rozdział 3 Szczegółowe zasady kalkulacji cen i stawek opłat § 11. 1. Ceny i stawki opłat dla pierwszego roku stosowania taryfy ustala się na podstawie planowanych na ten rok:
+#### Rozdział 3 Szczegółowe zasady kalkulacji cen i stawek opłat
 
-#### Rozdział 5 Przepisy przejściowe i końcowe § 46. Taryfy przedsiębiorstw energetycznych obowiązujące przed dniem wejścia życie rozporządzenia obowiązują do dnia określonego decyzjach Prezesa Urzędu Regulacji Energetyki zatwierdzających te taryfy, z zastrzeżeniem § 28 ust. 1 i 3.
+#### Rozdział 4 Szczegółowe zasady rozliczeń z tytułu zaopatrzenia w ciepło
+
+#### Rozdział 5 Przepisy przejściowe i końcowe
 

@@ -8,7 +8,7 @@ pos: 1137
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
 # Ustawa z dnia 12 maja 2022 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
@@ -22,28 +22,90 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2022-05-12 |
 | Data wydania | 2022-05-27 |
+| Wejście w życie | 2022-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001137) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1137/text.pdf) |
 
-**Art. 1.** W ustawie dnia 11 marca 2004 r. podatku od towarów usług (Dz. U. r. 931 974) wprowadza się następujące 11 ust. 2 otrzymuje brzmienie: „2. Za wewnątrzwspólnotowe nabycie towarów za wynagrodzeniem, którym mowa 5 ust. 1 4, uznaje się również przemieszczenie towarów przez: siły zbrojne Państw-Stron Traktatu Północnoatlantyckiego, siły zbrojne państw członkowskich biorących działaniach obronnych prowadzonych celu realizacji działania Unii Europejskiej ramach wspólnej polityki bezpieczeństwa obrony – terytorium państwa członkowskiego innego niż terytorium kraju na terytorium kraju, do użytku do użytku towarzyszącego im personelu cywilnego, przypadku gdy towary nie zostały nabyte przez te siły zbrojne zgodnie ogólnymi zasadami regulującymi opodatkowanie podatkiem od wartości dodanej na krajowym rynku jednego państw członkowskich dla zbrojnych odpowiednio Państw-Stron Traktatu Północnoatlantyckiego państwa członkowskiego biorącego działaniach obronnych prowadzonych celu realizacji działania Unii Europejskiej ramach wspólnej towarzyszącego im personelu cywilnego też celu zaopatrzenia mes kantyn, jeżeli siły te biorą we wspólnych działaniach obronnych,
+**Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931 i 974) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 29 listopada 2000 r. obrocie zagranicą towarami, technologiami usługami znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju bezpieczeństwa (Dz. U. 2020 r. 509 oraz r. 613) wprowadza się następujące tytuł rozdziału 8 otrzymuje brzmienie: „Przepisy epizodyczne, przejściowe końcowe”; rozdziale 8 dodaje się 46a–46d brzmieniu: „Art. 46a. Do dnia 31 grudnia r. do: wywozu tranzytu na terytorium Ukrainy sprzętu opancerzonego ochronnego, konstrukcji oraz elementów składowych, oznaczonych kategorią LU13 przepisach wydanych na podstawie 6a ust. 3 stosuje się przepisy 46b–46d; nabycia celu wywozu na terytorium Ukrainy kamizelek kuloodpornych, hełmów wojskowych policyjnych, ochraniaczy twarzy, kończyn innych części ciała nie stosuje się przepisów ustawy dnia 13 czerwca 2019 r. wykonywaniu działalności gospodarczej wytwarzania obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami technologią przeznaczeniu wojskowym policyjnym (Dz. U. r. 268
+- **1)** w art. 11 ust. 2 otrzymuje brzmienie: „
 
-**Art. 46d.** Dokonując zgłoszenia, którym mowa 46c, podmiot, którym mowa 3 8a, wskazuje: oznaczenie podmiotu zgłaszającego, adres siedziby albo adres miejsca zamieszkania; określenie produktu jego ilości;
+2. Za wewnątrzwspólnotowe nabycie towarów za wynagrodzeniem, o którym mowa w art. 5 ust. 1 pkt 4, uznaje się również przemieszczenie towarów przez:
 
-**Art. 3.** W ustawie dnia 6 grudnia 2008 r. podatku akcyzowym (Dz. U. r. 143) wprowadza się następujące użyte 163d ust. 1 oraz 164a ust. 2 we wprowadzeniu do wyliczenia ust. 3 wyrazy „31 maja r.” zastępuje się wyrazami „31 lipca r.”; po 164a dodaje się 164b brzmieniu: „Art. 164b. W okresie od dnia 1 czerwca r. do dnia 31 lipca r. stawka akcyzy, której mowa 89 ust. 1: 9, wynosi 97 zł/1000 litrów; 10 lit. a, wynosi 97 zł/1000 litrów;
+- **1)** siły zbrojne Państw-Stron Traktatu Północnoatlantyckiego,
+- **2)** siły zbrojne państw członkowskich biorących udział w działaniach obronnych prowadzonych w celu realizacji działania Unii Europejskiej w ramach wspólnej polityki bezpieczeństwa i obrony z terytorium państwa członkowskiego innego niż terytorium kraju na terytorium kraju, do ich użytku lub do użytku towarzyszącego im personelu cywilnego, w przypadku gdy towary nie zostały nabyte przez te siły zbrojne zgodnie z ogólnymi zasadami regulującymi opodatkowanie podatkiem od wartości dodanej na krajowym rynku jednego z państw członkowskich dla sił zbrojnych odpowiednio Państw-Stron Traktatu Północnoatlantyckiego lub państwa członkowskiego biorącego udział w działaniach obronnych prowadzonych w celu realizacji działania Unii Europejskiej w ramach wspólnej polityki bezpieczeństwa i obrony, jeżeli import tych towarów nie mógłby korzystać ze zwolnienia, o którym mowa w art. 45 ust. 1 pkt 9. ” ;
+- **2)** w art. 45 w ust. 1 pkt 9 otrzymuje brzmienie: „
+- **9)** towarów przez: siły zbrojne Państw-Stron Traktatu Północnoatlantyckiego innych niż Rzeczpospolita Polska do użytku własnego takich sił lub towarzyszącego im personelu cywilnego lub też w celu zaopatrzenia ich mes lub kantyn, jeżeli siły te biorą udział we wspólnych działaniach obronnych, siły zbrojne państw członkowskich innych niż Rzeczpospolita Polska do użytku własnego takich sił lub towarzyszącego im personelu cywilnego lub też w celu zaopatrzenia ich mes lub kantyn, jeżeli siły te biorą udział w działaniach obronnych prowadzonych w celu realizacji działania Unii Europejskiej w ramach wspólnej polityki bezpieczeństwa i obrony; ” ;
+    - **a)**
+    - **b)**
 
-**Art. 4.** W ustawie dnia 24 lipca 2015 r. kontroli niektórych inwestycji (Dz. U. 2020 r. 2145) wprowadza się następujące 12a ust. 1 we wprowadzeniu do wyliczenia po wyrazie „COVID-19” dodaje się wyrazy „lub sytuacją międzynarodową zakłócającą rynek konkurencję”; 12d ust. 6 po wyrazie „COVID-19” dodaje się wyrazy „lub sytuację wystąpieniem COVID-19 (Dz. U. r. 171) 89: ust. 2 wyrazy „24 miesięcy” zastępuje się wyrazami „60 miesięcy”; ust. 3 wyrazy „24 miesięcy” zastępuje się wyrazami „60 miesięcy”.
+- **3)** w art. 89: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) sił zbrojnych Państw-Stron Traktatu Północnoatlantyckiego oraz sił zbrojnych Państw-Stron Traktatu Północnoatlantyckiego uczestniczących w Partnerstwie dla Pokoju, wielonarodowych Kwater i Dowództw, towarzyszącego im personelu cywilnego, członków ich rodzin oraz jednostek dokonujących nabycia towarów lub usług na rzecz tych sił zbrojnych, ” , – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) sił zbrojnych państw członkowskich innych niż Rzeczpospolita Polska biorących udział w działaniach obronnych prowadzonych w celu realizacji działania Unii Europejskiej w ramach wspólnej polityki bezpieczeństwa i obrony, towarzyszącego im personelu cywilnego oraz jednostek dokonujących nabycia towarów lub usług na rzecz tych sił zbrojnych, ” , ust. 3 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
 
-**Art. 7.** W ustawie dnia 9 grudnia 2021 r. zmianie ustawy podatku akcyzowym oraz niektórych innych ustaw (Dz. U. 2349) uchyla się 6 7.
+3. Minister właściwy do spraw finansów publicznych, w porozumieniu z Ministrem Obrony Narodowej, określi, w drodze rozporządzenia, przypadki i tryb zwrotu podatku:
+
+- **1)** siłom zbrojnym Państw-Stron Traktatu Północnoatlantyckiego oraz siłom zbrojnym Państw-Stron Traktatu Północnoatlantyckiego uczestniczących w Partnerstwie dla Pokoju, wielonarodowym Kwaterom i Dowództwom, towarzyszącemu im personelowi cywilnemu, członkom ich rodzin oraz jednostkom dokonującym nabycia towarów lub usług na rzecz tych sił zbrojnych;
+- **2)** siłom zbrojnym państw członkowskich innych niż Rzeczpospolita Polska biorących udział w działaniach obronnych prowadzonych w celu realizacji działania Unii Europejskiej w ramach wspólnej polityki bezpieczeństwa i obrony, towarzyszącemu im personelowi cywilnemu oraz jednostkom dokonującym nabycia towarów lub usług na rzecz tych sił zbrojnych. ” .
+
+**Art. 2.** W ustawie z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2020 r. poz. 509 oraz z 2022 r. poz. 613) wprowadza się następujące zmiany:
+
+- **1)** tytuł rozdziału 8 otrzymuje brzmienie: „ Przepisy epizodyczne, przejściowe i końcowe ” ;
+- **2)** w rozdziale 8 dodaje się art. 46a-46d w brzmieniu: „
+
+**Art. 46a.** Do dnia 31 grudnia 2022 r. do:
+
+- **1)** wywozu i tranzytu na terytorium Ukrainy sprzętu opancerzonego lub ochronnego, konstrukcji oraz ich elementów składowych, oznaczonych kategorią LU13 w przepisach wydanych na podstawie art. 6a ust. 3 stosuje się przepisy art. 46b-46d;
+- **2)** nabycia w celu wywozu na terytorium Ukrainy kamizelek kuloodpornych, hełmów wojskowych i policyjnych, ochraniaczy twarzy, kończyn i innych części ciała nie stosuje się przepisów ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2022 r. poz. 268 i 275). Wywóz i tranzyt, o których mowa w art. 46a pkt 1, lub nabycie, o którym mowa w art. 46a pkt 2, mogą być dokonane po uzyskaniu oświadczenia końcowego użytkownika potwierdzonego przez przedstawicielstwo dyplomatyczne Ukrainy w Rzeczypospolitej Polskiej. Przed dokonaniem wywozu lub tranzytu podmiot, o którym mowa w art. 3 pkt 8a, jest obowiązany zgłosić ministrowi właściwemu do spraw gospodarki, w formie pisemnej lub w postaci elektronicznej, zamiar dokonania wywozu lub tranzytu na terytorium Ukrainy:
+- **1)** sprzętu opancerzonego lub ochronnego, konstrukcji oraz ich elementów składowych, o których mowa w art. 46a pkt 1, lub
+- **2)** kamizelek kuloodpornych, hełmów wojskowych i policyjnych, ochraniaczy twarzy, kończyn i innych części ciała, o których mowa w art. 46a pkt 2. Dokonując zgłoszenia, o którym mowa w art. 46c, podmiot, o którym mowa w art. 3 pkt 8a, wskazuje:
+- **1)** oznaczenie podmiotu zgłaszającego, adres siedziby albo adres miejsca zamieszkania;
+- **2)** określenie produktu i jego ilości;
+- **3)** oznaczenie końcowego użytkownika. ” .
+
+**Art. 3.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2022 r. poz. 143) wprowadza się następujące zmiany:
+
+- **1)** użyte w art. 163d w ust. 1 oraz w art. 164a w ust. 2 we wprowadzeniu do wyliczenia i w ust. 3 wyrazy „31 maja 2022 r.” zastępuje się wyrazami „31 lipca 2022 r.”;
+- **2)** po art. 164a dodaje się art. 164b w brzmieniu: „
+
+**Art. 164b.** W okresie od dnia 1 czerwca 2022 r. do dnia 31 lipca 2022 r. stawka akcyzy, o której mowa w art. 89 ust. 1:
+
+- **1)** pkt 9, wynosi 97 zł/1000 litrów;
+- **2)** pkt 10 lit. a, wynosi 97 zł/1000 litrów;
+- **3)** pkt 15 lit. a tiret pierwsze, wynosi 97 zł/1000 litrów. ” .
+
+**Art. 4.** W ustawie z dnia 24 lipca 2015 r. o kontroli niektórych inwestycji (Dz. U. z 2020 r. poz. 2145) wprowadza się następujące zmiany:
+
+- **1)** w art. 12a w ust. 1 we wprowadzeniu do wyliczenia po wyrazie „COVID-19” dodaje się wyrazy „lub sytuacją międzynarodową zakłócającą rynek lub konkurencję”;
+- **2)** w art. 12d w ust. 6 po wyrazie „COVID-19” dodaje się wyrazy „lub sytuację międzynarodową zakłócającą rynek lub konkurencję”.
+
+**Art. 5.** W ustawie z dnia 6 lipca 2016 r. o podatku od sprzedaży detalicznej (Dz. U. z 2022 r. poz. 761) w art. 11b we wprowadzeniu do wyliczenia wyrazy „31 maja 2022 r.” zastępuje się wyrazami „31 lipca 2022 r.”.
+
+**Art. 6.** W ustawie z dnia 19 czerwca 2020 r. o dopłatach do oprocentowania kredytów bankowych udzielanych przedsiębiorcom dotkniętym skutkami COVID-19 oraz o uproszczonym postępowaniu o zatwierdzenie układu w związku z wystąpieniem COVID-19 (Dz. U. z 2022 r. poz. 171) w art. 89:
+
+- **1)** w ust. 2 wyrazy „24 miesięcy” zastępuje się wyrazami „60 miesięcy”;
+- **2)** w ust. 3 wyrazy „24 miesięcy” zastępuje się wyrazami „60 miesięcy”.
+
+**Art. 7.** W ustawie z dnia 9 grudnia 2021 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2349) uchyla się art. 6 i art. 7.
 
 **Art. 8.**
 
-1. Do dnia 31 lipca r. sprzedawca dokonujący sprzedaży paliw silnikowych zamieszcza przy kasie rejestrującej lokalu przedsiębiorstwa, którym dokonywana jest sprzedaż tych paliw, czytelną informację, że od dnia 20 grudnia 2021 r. do dnia 31 lipca r. obowiązuje obniżony podatek akcyzowy na paliwa silnikowe oraz od dnia 1 stycznia r. do dnia 31 lipca r. sprzedaż detaliczna paliw silnikowych nie podlega opodatkowaniu podatkiem od sprzedaży detalicznej.
+1. Do dnia 31 lipca 2022 r. sprzedawca dokonujący sprzedaży paliw silnikowych zamieszcza przy kasie rejestrującej w lokalu przedsiębiorstwa, w którym dokonywana jest sprzedaż tych paliw, czytelną informację, że od dnia 20 grudnia 2021 r. do dnia 31 lipca 2022 r. obowiązuje obniżony podatek akcyzowy na paliwa silnikowe oraz od dnia 1 stycznia 2022 r. do dnia 31 lipca 2022 r. sprzedaż detaliczna paliw silnikowych nie podlega opodatkowaniu podatkiem od sprzedaży detalicznej.
 
-2. Rada Ministrów udostępnia Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego ją urzędu wzór informacji, której mowa ust. 1.
+2. Rada Ministrów udostępnia w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego ją urzędu wzór informacji, o której mowa w ust. 1.
 
-**Art. 9.** (uchylony)
+**Art. 9.**
 
-**Art. 10.** Ustawa wchodzi życie dniem 1 lipca r., wyjątkiem: 2, który wchodzi życie dniem następującym po dniu ogłoszenia, mocą od dnia 18 maja r.; 3, 5 7–9, które wchodzą życie dniem następującym po dniu ogłoszenia.
+1. Sprzedawca dokonujący sprzedaży energii elektrycznej nabywcy końcowemu jest obowiązany do dnia 31 grudnia 2022 r. do przekazywania temu nabywcy informacji o odpowiednio zwolnieniu od podatku akcyzowego lub obniżonej stawce tego podatku dotyczących energii elektrycznej:
+
+- **1)** przez każdorazowe dołączenie tej informacji do faktury lub innego dokumentu, z którego wynika zapłata należności za energię elektryczną, albo
+- **2)** oddzielnie, w przypadku gdy faktura lub inny dokument, z którego wynika zapłata należności za energię elektryczną, zostaną wysłane po dniu 31 lipca 2022 r.
+
+2. Minister właściwy do spraw finansów publicznych udostępnia w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu wzór informacji, o której mowa w ust. 1.
+
+**Art. 10.** Ustawa wchodzi w życie z dniem 1 lipca 2022 r., z wyjątkiem:
+
+- **1)** art. 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 18 maja 2022 r.;
+- **2)** art. 3, art. 5 i art. 7–9, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
+
 

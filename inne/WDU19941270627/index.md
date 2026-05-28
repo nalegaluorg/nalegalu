@@ -24,7 +24,8 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1994-10-26 |
 | Data wydania | 1994-12-02 |
-| Ostatnia zmiana | 2026-05-12 |
+| Wejście w życie | 1995-01-01 |
+| Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19941270627) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1994/627/text.pdf) |
 
 Art. 37gi. (uchylony)
@@ -438,7 +439,7 @@ Art. 64–70. (pominięte)
 1. Środki Funduszu pochodzą z:
 
 - **1)** opłaty paliwowej, w wysokości określonej w art. 37i;
-- **2)** odsetek z tytułu oprocentowania środków Funduszu oraz odsetek od lokat okresowo wolnych środków Funduszu w bankach;
+- **2)** odsetek od wolnych środków Funduszu przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426 i 635);
 - **3)** (uchylony)
 - **4)** (uchylony)
 - **5)** (uchylony) 5a) środków pochodzących z opłat za przejazdy autostradą, pobieranych przez drogową spółkę specjalnego przeznaczenia, jeżeli umowa, o której mowa w art. 6 ust. 1 ustawy z dnia 12 stycznia 2007 r. o drogowych spółkach specjalnego przeznaczenia, nie stanowi inaczej;
@@ -456,8 +457,7 @@ Art. 64–70. (pominięte)
 
 - **10)** środków z kredytów lub pożyczek zaciągniętych na rzecz Funduszu przez Bank Gospodarstwa Krajowego;
 - **11)** wpływów z obligacji emitowanych na rzecz Funduszu przez Bank Gospodarstwa Krajowego;
-- **11a)** inwestycji środków Funduszu w jednostki uczestnictwa funduszy rynku pieniężnego, o których mowa w art. 178 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2026 r. poz. 60 i 176);
-- **11b)** innych wpływów z opłat i kar określonych w ustawie z dnia 21 marca 1985 r. o drogach publicznych, wpływów z opłat i kar określonych w ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym oraz wpływów z opłat określonych w ustawie z dnia 6 września 2001 r. o transporcie drogowym, z zastrzeżeniem ust. 3;
+- **11a)** (uchylony) 11b) innych wpływów z opłat i kar określonych w ustawie z dnia 21 marca 1985 r. o drogach publicznych, wpływów z opłat i kar określonych w ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym oraz wpływów z opłat określonych w ustawie z dnia 6 września 2001 r. o transporcie drogowym, z zastrzeżeniem ust. 3;
 - **11c)** dotacji z budżetu państwa;
 - **11d)** pożyczek z budżetu państwa;
 - **11e)** wpływów z grzywien nałożonych przez Inspekcję Transportu Drogowego za naruszenia przepisów ruchu drogowego ujawnione za pomocą urządzeń rejestrujących, o których mowa w art. 20d ust. 2 ustawy z dnia 21 marca 1985 r. o drogach publicznych;
@@ -488,17 +488,7 @@ Art. 64–70. (pominięte)
 
 5. Jeżeli odzyskanie wierzytelności Skarbu Państwa, powstałych z tytułu udzielonego poręczenia lub gwarancji, nie jest możliwe, Rada Ministrów, na wniosek ministra właściwego do spraw finansów publicznych, może umorzyć wierzytelność w całości lub części.
 
-**Art. 39e.**
-
-1. Okresowo wolne środki Funduszu, z zastrzeżeniem ust. 2 i 3, Bank Gospodarstwa Krajowego może lokować:
-
-- **1)** w innych bankach;
-- **2)** w papiery wartościowe emitowane lub gwarantowane przez Skarb Państwa;
-- **3)** w papiery wartościowe emitowane przez Narodowy Bank Polski.
-
-2. Suma lokat, o których mowa w ust. 1 pkt 1, w jednym banku lub grupie banków powiązanych ze sobą kapitałowo lub organizacyjnie, nie może przekroczyć 25 % okresowo wolnych środków Funduszu.
-
-3. (uchylony)
+**Art. 39e.** Wolne środki Funduszu w walutach obcych mogą być lokowane w bankach.
 
 **Art. 39f.**
 
@@ -587,7 +577,7 @@ Art. 64–70. (pominięte)
 1. Minister właściwy do spraw transportu zawiera z Bankiem Gospodarstwa Krajowego porozumienie określające:
 
 - **1)** szczegółowy sposób i terminy dokonywania wypłat ze środków Funduszu, z wyjątkiem wypłat na cele, o których mowa w art. 39f ust. 1 pkt 5, pkt 6 lit. b, pkt 9;
-- **2)** sposób i terminy dokonywania przez Bank Gospodarstwa Krajowego lokat, o których mowa w art. 39e ust. 1;
+- **2)** terminy dokonywania przez Bank Gospodarstwa Krajowego lokat wolnych środków Funduszu w formie depozytu, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, oraz sposób i terminy dokonywania przez Bank Gospodarstwa Krajowego lokat wolnych środków Funduszu, o których mowa w art. 39e;
 - **3)** (uchylony)
 - **4)** (uchylony)
 - **5)** sposób gromadzenia w ramach Funduszu środków, o których mowa w art. 39n ust. 2 pkt 2, oraz wpływów, o których mowa w art. 39b ust. 1 pkt 11b i 11e;

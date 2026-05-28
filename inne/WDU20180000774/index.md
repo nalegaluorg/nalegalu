@@ -8,10 +8,10 @@ pos: 774
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 kwietnia 2018 r.
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 18 kwietnia 2018 r. w sprawie badań okresowych i kontrolnych funkcjonariuszy Służby Ochrony Państwa
 
 | Pole | Wartość |
 |---|---|
@@ -22,27 +22,57 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-04-18 |
 | Data wydania | 2018-04-25 |
+| Wejście w życie | 2018-04-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000774) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/774/text.pdf) |
 
-Z ą z CZYNNO CI OP RACY NO RO PO N WCZE I A MINISTRACYJNO PORZĄDKOWE Częstotliwość Rodzaj badań Przedział Zakres badań okresowych badań okresowych okresowych wiekowy 6 miesięcy 5 lat* do 40. roku badanie przez lekarza uprawnionego do życia wykonywania zadań służby medycyny pracy, konsultacje specjalistyczne: okulista, neurolog, inne według wskazań lekarskich, badanie psychologiczne (nie rzadziej niż raz na 2 lata) lekarskie po 40. roku badanie przez lekarza uprawnionego do życia wykonywania zadań służby medycyny pracy, konsultacje specjalistyczne: okulista, neurolog, laryngolog, inne według wskazań lekarskich, badanie psychologiczne (nie rzadziej niż raz na 3 lata) do 40. roku morfologia + rozmaz, OB, glukoza, ALAT, życia bilirubina, amylaza, kreatynina, badanie ogólne moczu, inne według wskazań lekarza laboratoryjne po 40. roku morfologia + rozmaz, OB, glukoza, ALAT, życia bilirubina, amylaza, kreatynina, badanie ogólne moczu, cholesterol, trójglicerydy, inne według wskazań lekarza do 40. roku EKG spoczynkowe, spirometria, audiogram, życia inne według wskazań lekarza diagnostyczne po 40. roku życia EKG spoczynkowe, spirometria, rtg. klatki piersiowej (nie rzadziej niż raz na 3 lata), audiogram, inne według wskazań lekarza Częstotliwość Rodzaj badań Przedział Zakres badań okresowych badań okresowych okresowych wiekowy 6 miesięcy 5 lat ⃰ do 40. roku badanie przez lekarza uprawnionego życia do wykonywania zadań służby medycyny pracy, konsultacje specjalistyczne według wskazań lekarskich, badanie psychologiczne (nie rzadziej lekarskie niż raz na 3 lata) po 40. roku badanie przez lekarza uprawnionego życia do wykonywania zadań służby medycyny pracy, konsultacje specjalistyczne według wskazań lekarskich, badanie psychologiczne (nie rzadziej niż raz na 4 lata) do 40. roku morfologia + rozmaz, OB, glukoza, życia ALAT, badanie ogólne moczu, inne według wskazań lekarza laboratoryjne po 40. roku morfologia + rozmaz, OB, glukoza, życia ALAT, amylaza, kreatynina, badanie ogólne moczu, cholesterol, trójglicerydy, inne według wskazań lekarza do 40. roku EKG spoczynkowe, spirometria, inne życia według wskazań lekarza diagnostyczne po 40. roku EKG spoczynkowe, spirometria, rtg. klatki życia piersiowej (nie rzadziej niż raz na 4 lata), inne według wskazań lekarza .................................................
-.................................................
-SKIEROWANIE NR ............... /............... .........................................................
-z dnia……………………………………...
-Nazwisko i imię: ...................................................................................................................................................
-Numer PESEL: Adres zamieszkania: ...................................................................................................................................................
-Stanowisko służbowe: ...................................................................................................................................................
-………………………………………………………………….
-Rodzaj badania lekarskiego: okresowe/kontrolne* ORZECZENIE LEKARSKIE NR ……………./…….. r.
-wydane na podstawie skierowania na badania lekarskie z dnia ……………………………….
-W wyniku badania lekarskiego i oceny narażeń występujących na stanowisku służbowym, stosownie do art. 135 ust. 10 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, z późn. zm.), orzeka się, że: Pan(i) …………………………………………………………………………………………… numer PESEL ………………..…………………..…………………………………………..… zamieszkały(-ła) w ……………………………………………………………………………...
-…………………………………………………………………………….…………………….
-pozostający(-ca) w służbie w ………………………………………….………..…………….
-………………………………………………………………………………...……...………… na stanowisku służbowym/na stanowiskach służbowych* ……………………………………………………...……………………………………….…..
-……………………………………………………………………….………………………….
-wobec braku przeciwwskazań zdrowotnych jest zdolny(-na) do pełnienia służby na określonym stanowisku służbowym (symbol 21).* wobec istnienia przeciwwskazań zdrowotnych jest niezdolny(-na) do pełnienia służby na określonym stanowisku służbowym (symbol 22).* wobec istnienia przeciwwskazań zdrowotnych utracił(a) zdolność do pełnienia służby na określonym stanowisku służbowym z dniem…………………………… (symbol 23).* Data następnego badania okresowego: ……………………………………………………….
-……………………………………… …….……………………………………………… Pouczenie: Osoba badana lub Komendant Służby Ochrony Państwa może w terminie 7 dni od dnia otrzymania orzeczenia lekarskiego wnieść odwołanie wraz z jego uzasadnieniem za pośrednictwem lekarza, który je wydał, do jednego z podmiotów odwoławczych, którymi są: wojewódzki ośrodek medycyny pracy właściwy ze względu na miejsce pełnienia służby funkcjonariusza, instytut badawczy w dziedzinie medycyny pracy lub Uniwersyteckie Centrum Medycyny Morskiej i Tropikalnej w Gdyni, jeżeli odwołanie dotyczy przypadku orzeczenia lekarskiego wydanego przez lekarza zatrudnionego w wojewódzkim ośrodku medycyny pracy, poradnie medycyny pracy podmiotów utworzonych i nadzorowanych przez ministra właściwego do spraw wewnętrznych, jeżeli orzeczenie wydał lekarz poradni badań profilaktycznych podmiotu leczniczego utworzonego i nadzorowanego przez ministra właściwego do spraw wewnętrznych.
-Orzeczenie lekarskie wydane w trybie odwołania jest ostateczne.
-Orzeczenie lekarskie jest wydawane w dwóch egzemplarzach, z których jeden otrzymuje osoba badana, a drugi Komendant Służby Ochrony Państwa.
-Symbole rodzaju orzeczenia: 21 wobec braku przeciwwskazań zdrowotnych zdolny do wykonywania służby na wskazanym (dotychczasowym) stanowisku służbowym, 22 wobec przeciwwskazań zdrowotnych niezdolny do wykonywania służby na wskazanym (dotychczasowym) stanowisku służbowym, 23 wobec przeciwwskazań zdrowotnych utracił zdolność do wykonywania dotychczasowej służby.
+Treść rozporządzenia
+
+## Załącznik nr 1 — – Rodzaj, zakres i częstotliwość badań okresowych funkcjonariuszy służby ochrony państwa wykonujących czynności operacyjno-rozpoznawcze i administracyjno-porządkowe
+
+## Załącznik nr 2 — – Rodzaj, zakres i częstotliwość badań okresowych funkcjonariuszy służby ochrony państwa pełniących służbę związaną z realizacją czynności innych niż określone w art. 19 ust. 1 ustawy z dnia 8 grudnia 2017 r. o służbie ochrony państwa
+
+## Załącznik nr 3 — – Skierowanie (wzór)
+
+## Załącznik nr 4 — – Orzeczenie lekarskie (wzór)
+
+Treść rozporządzenia
+Na podstawie art. 135 ust. 18 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650 i 730) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+rodzaj, zakres i częstotliwość badań okresowych funkcjonariuszy Służby Ochrony Państwa;
+2)
+wzór skierowania na badanie okresowe lub kontrolne;
+3)
+wzór orzeczenia lekarskiego.
+§ 2.
+Rodzaj, zakres i częstotliwość badań okresowych funkcjonariuszy Służby Ochrony Państwa:
+1)
+pełniących służbę związaną z bezpośrednią realizacją czynności, o których mowa w art. 19 ust. 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa, są określone w załączniku nr 1 do rozporządzenia;
+2)
+pełniących służbę związaną z realizacją czynności innych niż określone w art. 19 ust. 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa są określone w załączniku nr 2 do rozporządzenia.
+§ 3.
+Wzór skierowania na badania okresowe lub kontrolne jest określony w załączniku nr 3 do rozporządzenia.
+§ 4.
+Wzór orzeczenia lekarskiego wydawanego na podstawie skierowania na badania okresowe lub kontrolne jest określony w załączniku nr 4 do rozporządzenia.
+§ 5.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225).
+
+## Załącznik nr 1 — – Rodzaj, zakres i częstotliwość badań okresowych funkcjonariuszy służby ochrony państwa wykonujących czynności operacyjno-rozpoznawcze i administracyjno-porządkowe
+
+Częstotliwość badań okresowych Rodzaj badań okresowych Przedział wiekowy Zakres badań okresowych 6 miesięcy – 5 lat*) lekarskie do 40. roku życia – badanie przez lekarza uprawnionego do wykonywania zadań służby medycyny pracy,- konsultacje specjalistyczne: okulista, neurolog, inne według wskazań lekarskich,- badanie psychologiczne (nie rzadziej niż raz na 2 lata) po 40. roku życia – badanie przez lekarza uprawnionego do wykonywania zadań służby medycyny pracy,- konsultacje specjalistyczne: okulista, neurolog, laryngolog, inne według wskazań lekarskich,- badanie psychologiczne (nie rzadziej niż raz na 3 lata) laboratoryjne do 40. roku życia morfologia + rozmaz, OB, glukoza, ALAT, bilirubina, amylaza, kreatynina, badanie ogólne moczu, inne według wskazań lekarza po 40. roku życia morfologia + rozmaz, OB, glukoza, ALAT, bilirubina, amylaza, kreatynina, badanie ogólne moczu, cholesterol, trój glicerydy, inne według wskazań lekarza diagnostyczne do 40. roku życia EKG spoczynkowe, spirometria, audiogram, inne według wskazań lekarza po 40. roku życia EKG spoczynkowe, spirometria, rtg. klatki piersiowej (nie rzadziej niż raz na 3 lata), audiogram, inne według wskazań lekarza *) Zgodna ze wskazówkami metodycznymi określonymi w załączniku nr 1 do rozporządzenia Ministra Zdrowia i Opieki Społecznej z dnia 30 maja 1996 r. w sprawie przeprowadzania badań lekarskich pracowników, zakresu profilaktycznej opieki zdrowotnej nad pracownikami oraz orzeczeń lekarskich wydawanych do celów przewidzianych w Kodeksie pracy (Dz. U. z 2016 r. poz. 2067).
+
+## Załącznik nr 2 — – Rodzaj, zakres i częstotliwość badań okresowych funkcjonariuszy służby ochrony państwa pełniących służbę związaną z realizacją czynności innych niż określone w art. 19 ust. 1 ustawy z dnia 8 grudnia 2017 r. o służbie ochrony państwa
+
+Częstotliwość badań okresowych Rodzaj badań okresowych Przedział wiekowy Zakres badań okresowych 6 miesięcy – 5 lat*) lekarskie do 40. roku życia – badanie przez lekarza uprawnionego do wykonywania zadań służby medycyny pracy,- konsultacje specjalistyczne według wskazań lekarskich,- badanie psychologiczne (nie rzadziej niż raz na 3 lata) po 40. roku życia – badanie przez lekarza uprawnionego do wykonywania zadań służby medycyny pracy,- konsultacje specjalistyczne według wskazań lekarskich,- badanie psychologiczne (nie rzadziej niż raz na 4 lata) laboratoryjne do 40. roku życia morfologia + rozmaz, OB, glukoza, ALAT, badanie ogólne moczu, inne według wskazań lekarza po 40. roku życia morfologia + rozmaz, OB, glukoza, ALAT, amylaza, kreatynina, badanie ogólne moczu, cholesterol, trój glicerydy, inne według wskazań lekarza diagnostyczne do 40. roku życia EKG spoczynkowe, spirometria, inne według wskazań lekarza po 40. roku życia EKG spoczynkowe, spirometria, rtg. klatki piersiowej (nie rzadziej niż raz na 4 lata), inne według wskazań lekarza *) Zgodna ze wskazówkami metodycznymi określonymi w załączniku nr 1 do rozporządzenia Ministra Zdrowia i Opieki Społecznej z dnia 30 maja 1996 r. w sprawie przeprowadzania badań lekarskich pracowników, zakresu profilaktycznej opieki zdrowotnej nad pracownikami oraz orzeczeń lekarskich wydawanych do celów przewidzianych w Kodeksie pracy (Dz. U. z 2016 r. poz. 2067).
+
+## Załącznik nr 3 — – Skierowanie (wzór)
+
+patrz oryginał
+
+## Załącznik nr 4 — – Orzeczenie lekarskie (wzór)
+
+patrz oryginał
 

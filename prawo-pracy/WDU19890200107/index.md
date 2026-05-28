@@ -22,10 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1989-04-07 |
 | Data wydania | 1989-04-10 |
+| Wejście w życie | 1989-05-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890200107) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1989/107/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. Nr 24, poz. 141, z 1975 r. Nr 16, poz. 91, z 1981 r. Nr 6, poz. 23, z 1982 r. Nr 31, poz. 214, z 1985 r. Nr 20, poz. 85 i Nr 35, poz. 162, z 1986 r. Nr 42, poz. 201, z 1987 r. Nr 21, poz. 124 oraz z 1988 r. Nr 20, poz. 134) wprowadza się następujące zmiany:
+
+- **1)** art. 19–21 otrzymują brzmienie: „
 
 **Art. 19.**
 
@@ -36,6 +39,8 @@ source: "eli-html"
 **Art. 20.** Załoga uczestniczy w zarządzaniu zakładem pracy w zakresie i na zasadach określonych w odrębnych przepisach.
 
 **Art. 21.** Kierownicy zakładów pracy oraz organy administracji państwowej i gospodarczej są obowiązani tworzyć warunki umożliwiające korzystanie z uprawnień określonych w art. 19 i 20. ” ;
+
+- **2)** po art. 23 dodaje się art. 231 w brzmieniu: „
 
 **Art. 231.**
 
@@ -97,6 +102,12 @@ source: "eli-html"
 
 **Art. 39.** Zakład pracy nie może wypowiedzieć umowy o pracę pracownikowi, któremu brakuje nie więcej niż 2 lata do osiągnięcia wieku emerytalnego, jeżeli okres zatrudnienia umożliwia mu uzyskanie prawa do emerytury z osiągnięciem tego wieku. ” ;
 
+- **13)** w art. 40: w § 1 wyrazy „likwidacji zakładu pracy, a także w razie” skreśla się, w § 2 wyrazy „i 39 pkt 1–3” skreśla się;
+    - **a)**
+    - **b)**
+
+- **14)** po art. 41 dodaje się art. 411 w brzmieniu: „
+
 **Art. 411.**
 
 § 1. W razie ogłoszenia upadłości lub likwidacji zakładu pracy, nie stosuje się przepisów art. 38, 39 i 41, ani przepisów szczególnych dotyczących ochrony pracowników przed wypowiedzeniem lub rozwiązaniem umowy o pracę.
@@ -123,6 +134,19 @@ source: "eli-html"
 
 **Art. 471.** Odszkodowanie, o którym mowa w art. 45, przysługuje w wysokości wynagrodzenia za okres od 2 tygodni do 3 miesięcy, nie niższej jednak od wynagrodzenia za okres wypowiedzenia. ” ;
 
+- **19)** w art. 50: § 2 skreśla się, w § 3 po wyrazach „na czas określony” dodaje się wyrazy „lub na czas wykonania określonej pracy”, w § 4 wyrazy „2 i” skreśla się, w § 5 w zdaniu pierwszym wyrazy „2 i” skreśla się oraz w zdaniu drugim wyrazy „przepisy art. 46” zastępuje się wyrazami „odpowiednio przepisy art. 45”;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **20)** w art. 52 w § 1 w pkt 1 wyrazy „stawienia się do pracy w stanie nietrzeźwości lub spożywania alkoholu w czasie pracy” zastępuje się wyrazami „stawienia się do pracy w stanie po użyciu alkoholu lub spożywania alkoholu w czasie pracy lub w miejscu pracy”;
+- **21)** w art. 68 po § 1 dodaje się § 11 w brzmieniu: „
+
+§ 11. Stosunek pracy, o którym mowa w § 1, nawiązuje się na czas nie określony, a jeżeli na podstawie przepisów szczególnych pracownik został powołany na czas określony, stosunek pracy nawiązuje się na okres objęty powołaniem. ” ;
+
+- **22)** po art. 68 dodaje się art. 681–683 w brzmieniu: „
+
 **Art. 681.** Powołanie może być poprzedzone konkursem, choćby przepisy szczególne nie przewidywały wymogu wyłonienia kandydata na stanowisko wyłącznie w wyniku konkursu.
 
 **Art. 682.**
@@ -133,7 +157,62 @@ source: "eli-html"
 
 **Art. 683.** Jeżeli pracownik powołany na stanowisko w wyniku konkursu pozostaje w stosunku pracy z innym zakładem pracy i obowiązuje go trzymiesięczny okres wypowiedzenia, może on rozwiązać ten stosunek za jednomiesięcznym wypowiedzeniem. Rozwiązanie stosunku pracy w tym trybie pociąga za sobą skutki, jakie przepisy prawa pracy wiążą z rozwiązaniem umowy o pracę przez zakład za wypowiedzeniem. ” ;
 
+- **23)** art. 69 otrzymuje brzmienie: „
+
 **Art. 69.** Jeżeli przepisy niniejszego oddziału nie stanowią inaczej, do stosunku pracy na podstawie powołania stosuje się przepisy dotyczące umowy o pracę na czas nieokreślony, z wyłączeniem przepisów regulujących:
+
+- **1)** tryb postępowania przy rozwiązywaniu umów o pracę,
+- **2)** rozpatrywanie sporów ze stosunku pracy w części dotyczącej orzekania: o bezskuteczności wypowiedzeń, o odszkodowaniu przewidzianym w razie wypowiedzenia umowy o pracę, o przywracaniu do pracy. ” ;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **24)** w art. 70: w § 1 na końcu dodaje się zdanie: „Dotyczy to również pracownika, który na podstawie przepisów szczególnych został powołany na stanowisko na czas określony.”, po § 1 dodaje się § 11 i 12 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+§ 11. Odwołanie powinno być dokonane na piśmie.
+
+§ 12. Stosunek pracy z pracownikiem odwołanym ze stanowiska rozwiązuje się na zasadach określonych w przepisach niniejszego oddziału, chyba że przepisy szczególne stanowią inaczej. ” ;
+
+- **25)** w art. 71 na końcu kropkę zastępuje się przecinkiem i dodaje wyrazy „a po upływie okresu wypowiedzenia zatrudnić na uzgodnionych przez strony warunkach pracy i płacy.”;
+- **26)** w art. 87 dodaje się § 7 w brzmieniu: „
+
+§ 7. Z wynagrodzenia za pracę odlicza się, w pełnej wysokości, kwoty wypłacone w poprzednim terminie płatności za okres nieobecności w pracy, za który pracownik nie zachowuje prawa do wynagrodzenia. ” ;
+
+- **27)** w art. 91 wyrazy „w art. 87 § 1” zastępuje się wyrazami „w art. 87 § 1 i 7”;
+- **28)** w art. 97: w § 2 w zdaniu pierwszym wyrazy „oraz okoliczności, o których mowa w art. 36 § 5”, zastępuje się po przecinku wyrazami „a także inne informacje niezbędne do ustalenia uprawnień pracowniczych, określone przepisami wydanymi na podstawie art. 98 § 7.”, po § 2 dodaje się § 21 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+§ 21. Pracownik może w ciągu 7 dni od otrzymania świadectwa pracy wystąpić z wnioskiem do kierownika zakładu pracy o sprostowanie świadectwa. W razie nieuwzględnienia wniosku pracownikowi przysługuje, w ciągu 7 dni od zawiadomienia o odmowie sprostowania świadectwa pracy, prawo wystąpienia z żądaniem jego sprostowania do sądu pracy. ” ;
+
+- **29)** w art. 98 § 5 i 6 otrzymują brzmienie: „
+
+§ 5. Zakład pracy wydaje pracownikowi opinię o pracy po zapoznaniu go z projektem opinii i wysłuchaniu jego uwag oraz po zajęciu stanowiska przez zakładową organizację związkową.
+
+§ 6. Pracownik może w ciągu 7 dni od otrzymania opinii wystąpić do sądu pracy (sądu rejonowego) o jej sprostowanie. ” ;
+
+- **30)** w art. 99 § 3 skreśla się;
+- **31)** art. 101 skreśla się;
+- **32)** w art. 102 w § 3 zdanie drugie skreśla się;
+- **33)** w art. 109 dodaje się § 3 w brzmieniu: „
+
+§ 3. Jeżeli z powodu nieobecności w zakładzie pracy pracownik nie może być wysłuchany, bieg dwutygodniowego terminu przewidzianego w § 1 nie rozpoczyna się, a rozpoczęty ulega zawieszeniu do dnia stawienia się pracownika do pracy. ” ;
+
+- **34)** w art. 119: § 2 otrzymuje brzmienie: „
+    - **a)**
+
+§ 2. Jeżeli wysokość szkody nie przekracza kwoty najniższego wynagrodzenia pracowników uspołecznionych zakładów pracy albo stopień winy pracownika jest nieznaczny, kierownik zakładu pracy może – z własnej inicjatywy lub na wniosek zakładowej organizacji związkowej i za zgodą pracownika – zaniechać dochodzenia odszkodowania i zastosować wobec pracownika karę przewidzianą w art. 108; w takim wypadku nie stosuje się przepisów art. 109. ” , dodaje się § 3 w brzmieniu: „
+
+- **b)**
+
+§ 3. W wypadku określonym w § 2 pracownik nie ponosi skutków, jakie przepisy prawa wiążą z zastosowaniem kary przewidzianej w art. 108. ” ;
+
+- **35)** w art. 141 w § 2 dodaje się pkt 5 w brzmieniu: „
+- **5)** w zakładach pracy stosujących grupową organizację pracy, ” ;
+- **36)** w art. 163 w § 1 wyrazy „po zasięgnięciu opinii rady zakładowej” zastępuje się wyrazami „w uzgodnieniu z zakładową organizacją związkową”;
+- **37)** po art. 174 dodaje się art. 1741 w brzmieniu: „
 
 **Art. 1741.**
 
@@ -180,6 +259,12 @@ source: "eli-html"
 **Art. 5.** W ustawie z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 1980 r. Nr 9, poz. 26 i Nr 27, poz. 111, z 1982 r. Nr 7, poz. 55 i Nr 45, poz. 289, z 1983 r. Nr 41, poz. 185, z 1984 r. Nr 34, poz. 183, z 1986 r. Nr 47, poz. 228 oraz z 1987 r. Nr 21, poz. 123 i Nr 33, poz. 186) w art. 210 po wyrazach „Rzecznik Praw Obywatelskich” stawia się przecinek i dodaje wyrazy „a w sprawach z zakresu prawa pracy i ubezpieczeń społecznych, także Minister Pracy i Polityki Socjalnej oraz ogólnokrajowa organizacja międzyzwiązkową.”.
 
 **Art. 6.** W ustawie z dnia 25 września 1981 r. o przedsiębiorstwach państwowych (Dz. U. z 1987 r. Nr 35, poz. 201 i z 1989 r. Nr 10, poz. 57) wprowadza się następujące zmiany:
+
+- **1)** w art. 38 ust. 4 otrzymuje brzmienie: „
+
+4. Organ, do którego wniesiono sprzeciw, jest obowiązany rozpatrzyć go w ciągu dwóch tygodni. W razie nierozpatrzenia sprzeciwu w tym terminie, a także w razie nieuwzględnienia sprzeciwu, organowi, który go wniósł, przysługuje prawo zwrócenia się, w terminie dwóch tygodni, o rozstrzygnięcie do sądu. Od orzeczenia sądu nie przysługuje środek odwoławczy. ” ,
+
+- **2)** po art. 38 dodaje się art. 38a-38c w brzmieniu: „
 
 **Art. 38a.**
 

@@ -8,10 +8,10 @@ pos: 1820
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Warszawa, 25 września ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI 20 września sprawie rozkładu funkcjonariuszy Służby Państwa Na podstawie art. 81 ust. 6 ustawy 8 grudnia 2017 r . o Służbie Państwa (Dz. U. 138, 650, 730, 1544, 1562 1669) zarządza się, co następuje: § 1. Rozporządzenie określa rozkład funkcjonariuszy Służby Państwa, tryb udzielania wolnego zamian za służbę wymiarze przekraczającym 40 godzin tygodniowo, rodzaj organizację służby, sposób pełnienia dyżurów domowych, właściwość przełożonych do określenia harmonogramu służby, okoliczności uzasadniające przedłużenie ponad ustawowy wymiar oraz niezbędny czas wypoczynek funkcjonariusza służbie, sposób prowadzenia ewidencji oraz możliwość wprowadzenia odmiennego rozkładu tryb ustalania wolnego przypadku ogłoszenia mobilizacji lub czasie wojny.
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 20 września 2018 r. w sprawie rozkładu czasu służby funkcjonariuszy Służby Ochrony Państwa
 
 | Pole | Wartość |
 |---|---|
@@ -22,65 +22,185 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-09-20 |
 | Data wydania | 2018-09-25 |
+| Wejście w życie | 2018-10-10 |
 | Ostatnia zmiana | 2025-03-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001820) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1820/text.pdf) |
 
-§ 2. Użyte rozporządzeniu określenia oznaczają: funkcjonariusz funkcjonariusza Służby Państwa;
-2) Komendant SOP Komendanta Służby Państwa;
-pora nocna czas od godziny 22 do godziny 6 ;
-4) służba porze nocnej służbę pełnioną co najmniej 2 godziny porze nocnej;
-5) ustawa ustawę 8 grudnia 2017 o Służbie Państwa.
-§ 3. Funkcjonariusz pełni służbę rozkładzie służby: podstawowym;
-2) zmianowym;
+Treść rozporządzenia
+Na podstawie art. 81 ust. 6 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650, 730, 1544, 1562 i 1669) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa rozkład czasu służby funkcjonariuszy Służby Ochrony Państwa, tryb udzielania czasu wolnego w zamian za służbę w wymiarze przekraczającym 40 godzin tygodniowo, rodzaj i organizację służby, sposób pełnienia dyżurów domowych, właściwość przełożonych do określenia harmonogramu służby, okoliczności uzasadniające przedłużenie czasu służby ponad ustawowy wymiar oraz niezbędny czas na wypoczynek funkcjonariusza po służbie, sposób prowadzenia ewidencji czasu służby oraz możliwość wprowadzenia odmiennego rozkładu czasu służby i tryb ustalania czasu wolnego w przypadku ogłoszenia mobilizacji lub w czasie wojny.
+§ 2.
+Użyte w rozporządzeniu określenia oznaczają:
+1)
+funkcjonariusz – funkcjonariusza Służby Ochrony Państwa;
+2)
+Komendant SOP – Komendanta Służby Ochrony Państwa;
+3)
+pora nocna – czas od godziny 2200do godziny 600;
+4)
+służba w porze nocnej – służbę pełnioną co najmniej przez 2 godziny w porze nocnej;
+5)
+ustawa – ustawę z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa.
+§ 3.
+Funkcjonariusz pełni służbę w rozkładzie czasu służby:
+1)
+podstawowym;
+2)
+zmianowym;
+3)
 zadaniowym.
-§ 4. 1. Funkcjonariusz pełni służbę podstawowym rozkładzie 8 godzin dziennie, od poniedziałku do piątku godzinach od 8 do 16 , wyłączeniem dni ustawowo wolnych od pracy.
-2. Komendant SOP może określić inne niż wskazane ust. 1 godziny rozpoczęcia zakończenia podstawowym rozkładzie służby: przypadku uzasadnionym szczególnym charakterem realizowanych zadań;
-2) wniosek funkcjonariusza uzasadniony dojazdem do miejsca pełnienia lub sprawami rodzinnymi, jeżeli nie koliduje to realizowaniem zadań służbowych funkcjonariusza;
-sobotę, niedzielę albo święto, jeżeli jest to niezbędne ze względu charakter realizowanych zadań.
-6. W przypadku wystąpienia okoliczności określonych ust. 5 lub § 9 czas nieprzerwany wypoczynek zakończeniu może obejmować mniejszą liczbę godzin niż określone ust. 4, nie może być jednak krótszy niż 24 godziny. Przepis § 10 stosuje odpowiednio.
-7. Funkcjonariusz może pełnić służbę warunkach określonych ust. 5 nie częściej niż raz miesiącu.
-§ 5. 1. Funkcjonariusz pełni służbę zmianowym rozkładzie bez względu dzień tygodnia, zmiany trwające 8, 12 godzin lub 24 godziny, stanowiskach operacyjnej, dyżurnej lub ochrony obiektów.
-2. Funkcjonariusz może pełnić służbę zmianowym rozkładzie tylko raz ciągu dnia.
-3. Funkcjonariuszowi, który pełni służbę zmianowym rozkładzie zmiany trwające 8 lub 12 godzin, udziela każdym tygodniu nieprzerwany wypoczynek, nie krótszego niż 35 godzin, obejmującego co najmniej 11 godzin nieprzerwanego wypoczynku zmiany. W przypadku wystąpienia okoliczności określonych § 9 czas nieprzerwany wypoczynek może obejmować mniejszą liczbę godzin, nie może być jednak krótszy niż 24 godziny. Przepis § 10 stosuje odpowiednio.
-4. Funkcjonariuszowi, który pełni służbę zmianowym rozkładzie zmiany trwające 24 godziny, udziela 48 godzin nieprzerwany odpoczynek służby.
-5. Czas nieprzerwany odpoczynek udzielony funkcjonariuszowi, o którym mowa ust. 4, przypadku wystąpienia szczególnych potrzeb oraz przypadku, gdy nieobecność funkcjonariusza spowodowałaby poważne zakłócenia organizacji stanowiskach, o których mowa ust. 1, może obejmować mniej niż 48 godzin okres nie dłuższy niż miesiąc, jednak nie może być krótszy niż 24 godziny.
-§ 6. 1. W przypadku realizacji zadań służbowych polegających na: ochronie osób,
-2) pirotechniczno-radiologicznym wsparciu ochrony osób, wsparciu ochrony osób,
-4) wykonywaniu czynności operacyjno-rozpoznawczych stanowiskach wskazanych Komendanta SOP funkcjonariusz pełni służbę zadaniowym rozkładzie służby, którym czas rozpoczęcia zakończenia pełnionej jest różny, niezbędny do realizacji określonego zadania, uwzględnieniem prawa funkcjonariusza do wypoczynku nie krótszego niż 11 godzin zadania służbowego.
-2. Funkcjonariuszowi każdym tygodniu udziela nieprzerwany wypoczynek, nie krótszego niż 35 godzin, obejmującego co najmniej 11 godzin nieprzerwanego wypoczynku zadania służbowego.
-§ 7. 1. Funkcjonariusz, do którego obowiązków należy kierowanie pojazdem, może prowadzić pojazd do 10 godzin dobę.
-2. Po 6 godzinach nieprzerwanego prowadzenia pojazdu funkcjonariusz, do którego obowiązków należy kierowanie pojazdem, wykorzystuje przerwę trwającą co najmniej 30 minut.
-§ 8. 1. Do trwającej: do 8 godzin wlicza 20 minut przerwy;
-2) od 8 do 12 godzin wlicza 45 minut przerwy;
+§ 4.
+1.
+Funkcjonariusz pełni służbę w podstawowym rozkładzie czasu służby przez 8 godzin dziennie, od poniedziałku do piątku w godzinach od 815 do 1615, z wyłączeniem dni ustawowo wolnych od pracy.
+2.
+Komendant SOP może określić inne niż wskazane w ust. 1 godziny rozpoczęcia i zakończenia służby w podstawowym rozkładzie czasu służby:
+1)
+w przypadku uzasadnionym szczególnym charakterem realizowanych zadań;
+2)
+na wniosek funkcjonariusza uzasadniony dojazdem do miejsca pełnienia służby lub sprawami rodzinnymi, jeżeli nie koliduje to z realizowaniem zadań służbowych przez funkcjonariusza;
+3)
+w czasie mobilizacji lub wojny.
+3.
+W podstawowym rozkładzie czasu służby funkcjonariuszowi udziela się po zakończeniu służby w danym dniu czasu na nieprzerwany wypoczynek, nie krótszego jednak niż 11 godzin.
+4.
+Funkcjonariuszowi w każdym tygodniu udziela się czasu na nieprzerwany wypoczynek, nie krótszego jednak niż 35 godzin, obejmującego co najmniej 11 godzin nieprzerwanego wypoczynku po zakończeniu służby.
+5.
+W szczególnych przypadkach funkcjonariusz pełniący służbę w podstawowym rozkładzie czasu służby może być wyznaczony przez kierownika komórki organizacyjnej Służby Ochrony Państwa, w której pełni służbę, do pełnienia służby w sobotę, niedzielę albo święto, jeżeli jest to niezbędne ze względu na charakter realizowanych zadań.
+6.
+W przypadku wystąpienia okoliczności określonych w ust. 5 lub w § 9 czas na nieprzerwany wypoczynek po zakończeniu służby może obejmować mniejszą liczbę godzin niż określone w ust. 4, nie może być jednak krótszy niż 24 godziny. Przepis § 10 stosuje się odpowiednio.
+7.
+Funkcjonariusz może pełnić służbę w warunkach określonych w ust. 5 nie częściej niż raz w miesiącu.
+§ 5.
+1.
+Funkcjonariusz pełni służbę w zmianowym rozkładzie czasu służby bez względu na dzień tygodnia, na zmiany trwające 8, 12 godzin lub 24 godziny, na stanowiskach służby operacyjnej, służby dyżurnej lub ochrony obiektów.
+2.
+Funkcjonariusz może pełnić służbę w zmianowym rozkładzie czasu służby tylko raz w ciągu dnia.
+3.
+Funkcjonariuszowi, który pełni służbę w zmianowym rozkładzie czasu służby na zmiany trwające 8 lub 12 godzin, udziela się w każdym tygodniu czasu na nieprzerwany wypoczynek, nie krótszego niż 35 godzin, obejmującego co najmniej 11 godzin nieprzerwanego wypoczynku po zakończeniu zmiany. W przypadku wystąpienia okoliczności określonych w § 9 czas na nieprzerwany wypoczynek może obejmować mniejszą liczbę godzin, nie może być jednak krótszy niż 24 godziny. Przepis § 10 stosuje się odpowiednio.
+4.
+Funkcjonariuszowi, który pełni służbę w zmianowym rozkładzie czasu służby na zmiany trwające 24 godziny, udziela się 48 godzin na nieprzerwany odpoczynek po zakończeniu służby.
+5.
+Czas na nieprzerwany odpoczynek udzielony funkcjonariuszowi, o którym mowa w ust. 4, w przypadku wystąpienia szczególnych potrzeb służby oraz w przypadku, gdy nieobecność funkcjonariusza spowodowałaby poważne zakłócenia organizacji służby na stanowiskach, o których mowa w ust. 1, może obejmować mniej niż 48 godzin przez okres nie dłuższy niż miesiąc, jednak nie może być krótszy niż 24 godziny.
+§ 6.
+1.
+W przypadku realizacji zadań służbowych polegających na:
+1)
+ochronie osób,
+2)
+pirotechniczno-radiologicznym wsparciu ochrony osób,
+3)
+wsparciu ochrony osób,
+4)
+wykonywaniu czynności operacyjno-rozpoznawczych na stanowiskach wskazanych przez Komendanta SOP
+funkcjonariusz pełni służbę w zadaniowym rozkładzie czasu służby, w którym czas rozpoczęcia i zakończenia pełnionej służby jest różny, niezbędny do realizacji określonego zadania, z uwzględnieniem prawa funkcjonariusza do wypoczynku nie krótszego niż 11 godzin po zakończeniu zadania służbowego.
+2.
+Funkcjonariuszowi w każdym tygodniu udziela się czasu na nieprzerwany wypoczynek, nie krótszego niż 35 godzin, obejmującego co najmniej 11 godzin nieprzerwanego wypoczynku po zakończeniu zadania służbowego.
+§ 7.
+1.
+Funkcjonariusz, do którego obowiązków należy kierowanie pojazdem, może prowadzić pojazd do 10 godzin na dobę.
+2.
+Po 6 godzinach nieprzerwanego prowadzenia pojazdu funkcjonariusz, do którego obowiązków należy kierowanie pojazdem, wykorzystuje przerwę trwającą co najmniej 30 minut.
+§ 8.
+1.
+Do czasu służby trwającej:
+1)
+do 8 godzin – wlicza się 20 minut przerwy;
+2)
+od 8 do 12 godzin – wlicza się 45 minut przerwy;
+3)
+powyżej 12 godzin – wlicza się 60 minut przerwy.
+2.
+W uzasadnionych przypadkach przełożony funkcjonariusza może przedłużyć czas przerwy.
+3.
+Przerwy, o których mowa w ust. 1, mogą być dzielone. Czasu przerwy nie wlicza się do dobowego okresu wypoczynku.
+§ 9.
+1.
+Okolicznościami uzasadniającymi przedłużenie czasu służby ponad wymiar określony w art. 81 ust. 2 ustawy, w tym przedłużenie czasu służby w ramach wymiaru czasu służby obowiązującego funkcjonariusza, są:
+1)
+realizowanie rozpoczętych lub niecierpiących zwłoki czynności związanych z pełnieniem służby ochronnej, prowadzenie działań ochronnych, czynności z zakresu rozpoznania pirotechniczno-radiologicznego, czynności administracyjno-porządkowych lub operacyjno-rozpoznawczych;
+2)
+zapewnienie ciągłości służby na tych stanowiskach, na których jest wymagane utrzymanie pełnienia służby w sposób ciągły;
+3)
 realizowanie innych rozpoczętych czynności służbowych, które nie mogą być przerwane bez istotnego uszczerbku dla realizacji zadań służbowych.
-2. Przedłużenie funkcjonariusza ponad wymiar określony art. 81 ust. 2 ustawy nie może spowodować przekroczenia przeciętnego 48-godzinnego tygodniowego wymiaru przyjętym okresie rozliczeniowym.
-3. Decyzję o przedłużeniu ponad wymiar określony art. 81 ust. 2 ustawy podejmuje bezpośredni przełożony funkcjonariusza lub osoba pełniąca służbę dyżurną, za zgodą kierownika komórki organizacyjnej Służby Państwa.
-§ 10. 1. Czasu wolnego od zamian za służbę przekraczającą normę określoną art. 81 ust. 2 ustawy udziela tym samym wymiarze co wymiar poświęconego realizację zadań: urzędu ustalonych terminach, uwzględniając potrzeby służbowe;
-2) pisemny wniosek funkcjonariusza we wskazanych niego terminach, szczególności okresie bezpośrednio poprzedzającym urlop wypoczynkowy lub jego ukończeniu, jeżeli nie zakłóca to realizacji zadań służbowych.
-2. Czasu wolnego, o którym mowa ust. 1, udziela funkcjonariuszowi tym samym wymiarze co wymiar poświęconego realizację zadań służbowych, do końca okresu rozliczeniowego, nie później niż do zwolnienia ze służby: godzinach jeżeli czas ten nie przekracza liczby godzin, które funkcjonariusz jest obowiązany pełnić służbę danym dniu lub danej zmianie;
-2) dniach jeżeli czas ten przekracza liczbę godzin, które funkcjonariusz jest obowiązany pełnić służbę danym dniu lub danej zmianie.
-3. W przypadku udzielania wolnego, o którym mowa ust. 1, dniach każdy dzień jest równoważny 8 godzinom przekraczającej normę określoną art. 81 ust. 2 ustawy.
-§ 11. Okres rozliczeniowy trwa: od 1 stycznia do 30 czerwca;
-2) od 1 lipca do 31 grudnia.
-§ 12. 1. Kierownik komórki organizacyjnej Służby Państwa, której funkcjonariusz pełni służbę, może wyznaczyć funkcjonariusza do pełnienia dyżuru domowego, jeżeli wymagają tego potrzeby służby.
-2. Do pełnienia dyżuru domowego nie wyznacza funkcjonariusza niego pełnionej porze nocnej.
-3. W dniu zaplanowanego dyżuru domowego funkcjonariusz zapewnia kierownikowi komórki organizacyjnej Służby Państwa, o którym mowa ust. 1, albo osobom niego wskazanym możliwość skontaktowania nim celu polecenia pełnienia czynności służbowych oraz przebywa wybranym siebie miejscu, pozwalającym stawienie do godzinę zaplanowanego dyżuru domowego albo niezwłocznie, nie później niż 4 godziny od wezwania go do pełnienia tego dyżuru.
-4. W przypadku gdy funkcjonariusz nie wykonuje czasie dyżuru domowego żadnych poleconych czynności służbowych, czas dyżuru domowego zalicza do nieprzerwanego odpoczynku.
-5. Funkcjonariusz może pełnić dyżur domowy nie więcej niż 4 razy miesiącu, tym najwyżej raz dniu ustawowo wolnym od pracy. Czas trwania dyżuru domowego nie może przekroczyć 13 godzin, a czas trwania wszystkich dyżurów miesiącu łącznie 48 godzin.
-spania albo
-2) czas przejazdu wynosił nie mniej niż 8 godzin.
-2. W przypadku określonym ust. 1, którym czas nieprzerwany odpoczynek funkcjonariusza nie obejmuje 11 godzin, godzina rozpoczęcia funkcjonariusza ulega odpowiedniemu przesunięciu do godziny zakończenia przysługującego mu nieprzerwany wypoczynek. Okres między planowaną a faktyczną godziną rozpoczęcia wlicza do służby.
-3. Jeżeli wymagają tego ważne potrzeby służbowe, kierownik komórki organizacyjnej Służby Państwa może polecić podległemu funkcjonariuszowi niezwłoczne stawienie do pełnienia podróży służbowej.
-4. Pełnienie przypadku określonym ust. 3 jest równoznaczne przedłużeniem służby, o którym mowa § 9 ust. 1. W takim przypadku przepis § 10 stosuje odpowiednio.
-§ 15. 1. Wymiar ulega zmniejszeniu o liczbę godzin usprawiedliwionej nieobecności funkcjonariusza służbie przyjętym okresie rozliczeniowym.
-2. Po okresie usprawiedliwionej nieobecności służbie funkcjonariusz podejmuje służbę pierwszym dniu, który zgodnie harmonogramem jest jego dniem służby, chyba że kierownik komórki organizacyjnej Służby Państwa, której funkcjonariusz pełni służbę, zarządzi inaczej.
-§ 16. 1. Harmonogram określa kierownik komórki organizacyjnej Służby Państwa, której funkcjonariusz pełni służbę.
-2. Ewidencja funkcjonariusza jest prowadzona komórce organizacyjnej Służby Państwa, której funkcjonariusz pełni służbę. Ewidencja składa karty ewidencji funkcjonariusza, którą udostępnia funkcjonariuszowi jego żądanie.
-3. Kartę ewidencji funkcjonariusza prowadzi sposób ciągły, odrębnie dla każdego funkcjonariusza, możliwością jej udostępnienia żądanie funkcjonariusza, zawierając niej informacje o urlopach, zwolnieniach od zajęć służbowych innych usprawiedliwionych lub nieusprawiedliwionych nieobecnościach służbie oraz informacje o pełnionych dyżurach domowych, przedłużonym czasie otrzymanym tego tytułu czasie wolnym.
-4. Ewidencja funkcjonariusza może być prowadzona postaci elektronicznej zastosowaniem rozwiązań technicznych odpowiednich do ilości danych, które zapewniają właściwą rejestrację przechowywanie dokumentacji, jej używalności wiarygodności co najmniej do upływu okresu jej przechowywania.
-5. Ewidencję funkcjonariusza prowadzi sposób uniemożliwiający dostęp osobom nieupoważnionym do danych niej zawartych zapewniający rejestrację zmian poprawek.
-§ 17. 1. W przypadku ogłoszenia mobilizacji lub czasie wojny funkcjonariusz, bez względu obowiązujący go rozkład służby, polecenie bezpośredniego przełożonego okresie jednorazowo nie dłuższym niż tydzień pełni służbę czas niezbędny do realizacji ustawowych zadań Służby Państwa czasie mobilizacji lub wojny, zachowaniem prawa do wypoczynku wymiarze tygodniowym co najmniej 77 godzin.
-2. Przerwa pomiędzy kolejnymi okresami pełnienia sposób określony ust. 1 wynosi co najmniej tydzień.
-§ 18. Rozporządzenie wchodzi życie upływie 14 dni od ogłoszenia.
-Minister Spraw Wewnętrznych Administracji: wz. J. Zieliński
+2.
+Przedłużenie czasu służby funkcjonariusza ponad wymiar określony w art. 81 ust. 2 ustawy nie może spowodować przekroczenia przeciętnego 48-godzinnego tygodniowego wymiaru czasu służby w przyjętym okresie rozliczeniowym.
+3.
+Decyzję o przedłużeniu czasu służby ponad wymiar określony w art. 81 ust. 2 ustawy podejmuje bezpośredni przełożony funkcjonariusza lub osoba pełniąca służbę dyżurną, za zgodą kierownika komórki organizacyjnej Służby Ochrony Państwa.
+§ 10.
+1.
+Czasu wolnego od służby w zamian za służbę przekraczającą normę określoną w art. 81 ust. 2 ustawy udziela się w tym samym wymiarze co wymiar czasu poświęconego na realizację zadań:
+1)
+z urzędu w ustalonych terminach, uwzględniając potrzeby służbowe;
+2)
+na pisemny wniosek funkcjonariusza we wskazanych przez niego terminach, w szczególności w okresie bezpośrednio poprzedzającym urlop wypoczynkowy lub po jego ukończeniu, jeżeli nie zakłóca to realizacji zadań służbowych.
+2.
+Czasu wolnego, o którym mowa w ust. 1, udziela się funkcjonariuszowi w tym samym wymiarze co wymiar czasu poświęconego na realizację zadań służbowych, do końca okresu rozliczeniowego, nie później niż do dnia zwolnienia ze służby:
+1)
+w godzinach – jeżeli czas ten nie przekracza liczby godzin, przez które funkcjonariusz jest obowiązany pełnić służbę w danym dniu lub na danej zmianie;
+2)
+w dniach – jeżeli czas ten przekracza liczbę godzin, przez które funkcjonariusz jest obowiązany pełnić służbę w danym dniu lub na danej zmianie.
+3.
+W przypadku udzielania czasu wolnego, o którym mowa w ust. 1, w dniach – każdy dzień jest równoważny 8 godzinom służby przekraczającej normę określoną w art. 81 ust. 2 ustawy.
+§ 11.
+Okres rozliczeniowy czasu służby trwa:
+1)
+od 1 stycznia do 30 czerwca;
+2)
+od 1 lipca do 31 grudnia.
+§ 12.
+1.
+Kierownik komórki organizacyjnej Służby Ochrony Państwa, w której funkcjonariusz pełni służbę, może wyznaczyć funkcjonariusza do pełnienia dyżuru domowego, jeżeli wymagają tego potrzeby służby.
+2.
+Do pełnienia dyżuru domowego nie wyznacza się funkcjonariusza po zakończeniu przez niego służby pełnionej w porze nocnej.
+3.
+W dniu zaplanowanego dyżuru domowego funkcjonariusz zapewnia kierownikowi komórki organizacyjnej Służby Ochrony Państwa, o którym mowa w ust. 1, albo osobom przez niego wskazanym możliwość skontaktowania się z nim w celu polecenia pełnienia czynności służbowych oraz przebywa w wybranym przez siebie miejscu, pozwalającym na stawienie się do służby na godzinę zaplanowanego dyżuru domowego albo niezwłocznie, nie później niż 4 godziny od wezwania go do pełnienia tego dyżuru.
+4.
+W przypadku gdy funkcjonariusz nie wykonuje w czasie dyżuru domowego żadnych poleconych czynności służbowych, czas dyżuru domowego zalicza się do czasu nieprzerwanego odpoczynku.
+5.
+Funkcjonariusz może pełnić dyżur domowy nie więcej niż 4 razy w miesiącu, w tym najwyżej raz w dniu ustawowo wolnym od pracy. Czas trwania dyżuru domowego nie może przekroczyć 13 godzin, a czas trwania wszystkich dyżurów w miesiącu – łącznie 48 godzin.
+6.
+W zamian za wykonywanie poleconych czynności służbowych w czasie dyżuru domowego udziela się funkcjonariuszowi czasu wolnego w tym samym wymiarze co wymiar czasu poświęconego na ich realizację.
+§ 13.
+1.
+Wymiar czasu służby funkcjonariusza odbywającego szkolenie jest równoważny z wymiarem czasu określonym w programie szkolenia lub planie zajęć, z wyłączeniem szkolenia odbywanego w systemie skoszarowanym, z uwzględnieniem co najmniej 11 godzin nieprzerwanego wypoczynku.
+2.
+Wymiar czasu służby funkcjonariusza odbywającego podróż służbową lub szkolenie w systemie skoszarowanym jest równoważny z wymiarem czasu poświęconego na wykonywanie jego obowiązków z uwzględnieniem co najmniej 11 godzin nieprzerwanego wypoczynku.
+§ 14.
+1.
+Funkcjonariuszowi bezpośrednio po zakończeniu podróży służbowej przysługuje czas wolny od służby w wymiarze co najmniej 11 godzin, jeżeli:
+1)
+odbywał podróż służbową co najmniej 2 godziny w porze nocnej i nie korzystał z wagonu z miejscami do leżenia lub spania albo
+2)
+czas przejazdu wynosił nie mniej niż 8 godzin.
+2.
+W przypadku określonym w ust. 1, w którym czas na nieprzerwany odpoczynek funkcjonariusza nie obejmuje 11 godzin, godzina rozpoczęcia służby przez funkcjonariusza ulega odpowiedniemu przesunięciu do godziny zakończenia przysługującego mu czasu na nieprzerwany wypoczynek. Okres między planowaną a faktyczną godziną rozpoczęcia służby wlicza się do czasu służby.
+3.
+Jeżeli wymagają tego ważne potrzeby służbowe, kierownik komórki organizacyjnej Służby Ochrony Państwa może polecić podległemu funkcjonariuszowi niezwłoczne stawienie się do pełnienia służby po podróży służbowej.
+4.
+Pełnienie służby w przypadku określonym w ust. 3 jest równoznaczne z przedłużeniem czasu służby, o którym mowa w § 9 ust. 1. W takim przypadku przepis § 10 stosuje się odpowiednio.
+§ 15.
+1.
+Wymiar czasu służby ulega zmniejszeniu o liczbę godzin usprawiedliwionej nieobecności funkcjonariusza w służbie w przyjętym okresie rozliczeniowym.
+2.
+Po okresie usprawiedliwionej nieobecności w służbie funkcjonariusz podejmuje służbę w pierwszym dniu, który zgodnie z harmonogramem służby jest jego dniem służby, chyba że kierownik komórki organizacyjnej Służby Ochrony Państwa, w której funkcjonariusz pełni służbę, zarządzi inaczej.
+§ 16.
+1.
+Harmonogram służby określa kierownik komórki organizacyjnej Służby Ochrony Państwa, w której funkcjonariusz pełni służbę.
+2.
+Ewidencja czasu służby funkcjonariusza jest prowadzona w komórce organizacyjnej Służby Ochrony Państwa, w której funkcjonariusz pełni służbę. Ewidencja składa się z karty ewidencji czasu służby funkcjonariusza, którą udostępnia się funkcjonariuszowi na jego żądanie.
+3.
+Kartę ewidencji czasu służby funkcjonariusza prowadzi się w sposób ciągły, odrębnie dla każdego funkcjonariusza, z możliwością jej udostępnienia na żądanie funkcjonariusza, zawierając w niej informacje o urlopach, zwolnieniach od zajęć służbowych i innych usprawiedliwionych lub nieusprawiedliwionych nieobecnościach w służbie oraz informacje o pełnionych dyżurach domowych, przedłużonym czasie służby i otrzymanym z tego tytułu czasie wolnym.
+4.
+Ewidencja czasu służby funkcjonariusza może być prowadzona w postaci elektronicznej z zastosowaniem rozwiązań technicznych odpowiednich do ilości danych, które zapewniają właściwą rejestrację i przechowywanie dokumentacji, jej używalności i wiarygodności co najmniej do upływu okresu jej przechowywania.
+5.
+Ewidencję czasu służby funkcjonariusza prowadzi się w sposób uniemożliwiający dostęp osobom nieupoważnionym do danych w niej zawartych i zapewniający rejestrację zmian i poprawek.
+§ 17.
+1.
+W przypadku ogłoszenia mobilizacji lub w czasie wojny funkcjonariusz, bez względu na obowiązujący go rozkład czasu służby, na polecenie bezpośredniego przełożonego w okresie jednorazowo nie dłuższym niż tydzień pełni służbę przez czas niezbędny do realizacji ustawowych zadań Służby Ochrony Państwa w czasie mobilizacji lub wojny, z zachowaniem prawa do wypoczynku w wymiarze tygodniowym co najmniej 77 godzin.
+2.
+Przerwa pomiędzy kolejnymi okresami pełnienia służby w sposób określony w ust. 1 wynosi co najmniej tydzień.
+§ 18.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 97 i 225). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 9 stycznia 2004 r. w sprawie rozkładu czasu służby funkcjonariuszy Biura Ochrony Rządu (Dz. U. poz. 63), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 389 ust. 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650, 730, 1544, 1562 i 1669).
 

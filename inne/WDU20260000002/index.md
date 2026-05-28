@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o badaniach klinicznych produktów leczniczych stosowanych u ludzi
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 4 grudnia 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 stycznia 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-01-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000002) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/2/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 4 grudnia 2025 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o badaniach klinicznych produktów leczniczych stosowanych u ludzi
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 marca 2023 r. o badaniach klinicznych produktów leczniczych stosowanych u ludzi (Dz. U.
 poz. 605), z uwzględnieniem zmian wprowadzonych ustawą z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej (Dz. U. poz. 779) oraz zmian wynikających z przepisów ogłoszonych przed dniem 3 grudnia 2025 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
@@ -37,25 +37,239 @@ Art. 80–88. (pominięte)
 
 **Art. 81.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2022 r. poz. 1731, 1733, 2731 i 2770) wprowadza się następujące zmiany:
 
-**Art. 82.** W ustawie z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2022 r. poz. 2301) wprowadza się następujące zmiany:
+- **1)** uchyla się odnośnik nr do ustawy;
+- **2)** art. 23b dodaje się ust. 3 brzmieniu: „3. Podmiot przeprowadzający eksperyment medyczny nie może pobierać od jego uczestnika, przedstawiciela ustawowego uczestnika oraz osoby, której skutki eksperymentu mogą bezpośrednio dotknąć, opłat za udział tym eksperymencie.”;
+- **3)** art. 29 uchyla się ust. 2a–2c;
+- **4)** po art. 29a dodaje się art. 29b brzmieniu: „Art. 29b. Do eksperymentu medycznego będącego jednocześnie badaniem klinicznym rozumieniu art. ust. pkt rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 536/2014 z dnia 16 kwietnia 2014 r. sprawie badań klinicznych produktów leczniczych stosowanych u ludzi oraz uchylenia dyrektywy 2001/20/WE (Dz. Urz. UE L 158 z 27.05.2014, str. 1, z późn. zm. ) stosuje się przepisy ustawy z dnia 9 marca 2023 r. o badaniach klinicznych produktów leczniczych stosowanych u ludzi (Dz. U. poz. 605).”.
+- **1)** art. 1 ust. 1 pkt 1a po wyrazie „leczniczych” dodaje się wyraz „weterynaryjnych”;
+- **2)** art. 2:
+    - **a)** pkt i 2a otrzymują brzmienie: „2) badaniem klinicznym jest badanie kliniczne rozumieniu art. ust. pkt rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 536/2014 z dnia 16 kwietnia 2014 r. sprawie badań klinicznych produktów leczniczych stosowanych u ludzi oraz uchylenia dyrektywy 2001/20/WE (Dz. Urz. UE L 158 z 27.05.2014, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 536/2014”;
+
+- **2a)** badaczem jest lekarz weterynarii posiadający prawo wykonywania zawodu na terytorium Rzeczypospolitej Polskiej oraz wysokie kwalifikacje zawodowe, wiedzę naukową i doświadczenie pracy, niezbędne do prowadzenia badania klinicznego weterynaryjnego, odpowiedzialny za prowadzenie tego badania danym ośrodku; jeżeli badanie kliniczne weterynaryjne jest prowadzone przez zespół osób, badacz wyznaczony przez sponsora, za zgodą kierownika zakładu leczniczego dla zwierząt rozumieniu art. 5 ust. ustawy z dnia 18 grudnia 2003 r. o zakładach leczniczych dla zwierząt (Dz. U. z 2019 r. poz. 24), którym jest prowadzone badanie kliniczne weterynaryjne, jest kierownikiem zespołu odpowiedzialnym za prowadzenie tego badania danym ośrodku;”,
+    - **b)** pkt 2c otrzymuje brzmienie: „2c) badanym produktem leczniczym jest badany produkt leczniczy rozumieniu art. ust. pkt 5 rozporządzenia 536/2014;”,
+    - **c)** pkt 3 otrzymuje brzmienie: „3) działaniem niepożądanym badanego produktu leczniczego weterynaryjnego jest każde niekorzystne i niezamierzone działanie tego produktu, występujące po zastosowaniu jakiejkolwiek dawki tego produktu;”,
+    - **d)** pkt 3c otrzymuje brzmienie: „3c) ciężkim niepożądanym zdarzeniem po użyciu badanego produktu leczniczego weterynaryjnego jest zdarzenie, które bez względu na zastosowaną dawkę badanego produktu leczniczego weterynaryjnego powoduje zgon zwierzęcia, zagrożenie życia, konieczność hospitalizacji lub jej przedłużenie, trwały lub znaczny uszczerbek na zdrowiu lub jest chorobą, wadą wrodzoną lub uszkodzeniem płodu;”,
+    - **e)** pkt 6 otrzymuje brzmienie: „6) Dobrą Praktyką Kliniczną jest dobra praktyka kliniczna rozumieniu art. ust. pkt 30 rozporządzenia 536/2014;”,
+    - **f)** pkt 16 otrzymuje brzmienie: „16) niepożądanym zdarzeniem jest każde niekorzystne i niezamierzone zdarzenie wywołujące negatywne skutki u zwierzęcia, któremu podano produkt leczniczy lub produkt leczniczy weterynaryjny, lub badany produkt leczniczy weterynaryjny, chociażby nie miały one związku przyczynowego ze stosowaniem tego produktu;”,
+    - **g)** pkt 17 i 17a otrzymują brzmienie: „17) niespodziewanym działaniem niepożądanym jest każde negatywne działanie produktu leczniczego, którego charakter lub stopień nasilenia nie jest zgodny z danymi zawartymi odpowiedniej informacji o produkcie leczniczym dla produktów leczniczych badaniach klinicznych albo badaniach klinicznych weterynaryjnych najczęściej broszurze badacza, dla produktów leczniczych dopuszczonych do obrotu Charakterystyce Produktu Leczniczego albo Charakterystyce Produktu Leczniczego Weterynaryjnego;
+
+- **17a)** niespodziewanym ciężkim niepożądanym działaniem produktu leczniczego jest każde niepożądane działanie produktu leczniczego, którego charakter lub stopień nasilenia nie jest zgodny z danymi zawartymi odpowiedniej informacji o produkcie leczniczym:
+    - **a)** dla produktów leczniczych badaniach klinicznych albo badaniach klinicznych weterynaryjnych najczęściej broszurze badacza, które bez względu na zastosowaną dawkę produktu leczniczego powoduje zgon pacjenta, zagrożenie życia, konieczność hospitalizacji lub jej przedłużenie, trwały lub znaczny uszczerbek na zdrowiu lub inne działanie produktu leczniczego, które lekarz albo lekarz weterynarii według swojego stanu wiedzy uzna za ciężkie, lub jest chorobą, wadą wrodzoną lub uszkodzeniem płodu;”,
+    - **h)** pkt 37a po wyrazach „badania klinicznego” dodaje się wyraz „weterynaryjnego”,
+    - **i)** uchyla się pkt 40a,
+    - **j)** pkt 44 otrzymuje brzmienie: „44) zwolnieniem serii jest poświadczenie przez Osobę Wykwalifikowaną, że dana seria:
+    - **a)** produktu leczniczego została wytworzona i skontrolowana zgodnie z przepisami prawa oraz wymaganiami pozwolenia na dopuszczenie do obrotu lub
+    - **b)** badanego produktu leczniczego została wytworzona i skontrolowana zgodnie z przepisami prawa oraz wymaganiami pozwolenia na badanie kliniczne.”;
+
+- **3)** art. 2a dodaje się ust. 4 brzmieniu: „4. Ilekroć niniejszej ustawie jest mowa o zezwoleniu na wytwarzanie lub import produktu leczniczego, jeżeli dotyczy ono badanego produktu leczniczego, rozumie się przez to pozwolenie na wytwarzanie lub import badanego produktu leczniczego, o którym mowa art. 61 ust. 1 zdanie pierwsze rozporządzenia 536/2014.”;
+- **4)** art. 3 ust. 4:
+    - **a)** pkt 1–3 otrzymują brzmienie: „1) leki recepturowe oraz leki recepturowe stosowane jako badane produkty lecznicze;
+
+- **2)** leki apteczne oraz leki apteczne stosowane jako badane produkty lecznicze;
+- **3)** produkty radiofarmaceutyczne przygotowywane momencie stosowania upoważnionych podmiotach leczniczych, z dopuszczonych do obrotu generatorów, zestawów, radionuklidów i prekursorów, zgodnie z instrukcją wytwórcy, radionuklidy postaci zamkniętych źródeł promieniowania oraz badane produkty lecznicze radiofarmaceutyczne;”,
+    - **b)** pkt 5 otrzymuje brzmienie: „5) surowce farmaceutyczne nieprzeznaczone do sporządzania leków recepturowych i leków aptecznych oraz leków recepturowych i leków aptecznych stosowanych jako badane produkty lecznicze na zasadach określonych art. 61 ust. 5 lit. c rozporządzenia 536/2014;”;
+
+- **5)** art. 5 pkt 3 otrzymuje brzmienie: „3) badane produkty lecznicze wykorzystywane wyłącznie do badań klinicznych albo badane produkty lecznicze weterynaryjne wykorzystywane wyłącznie do badań klinicznych weterynaryjnych wpisanych do Centralnej Ewidencji Badań Klinicznych;”;
+- **6)** art. 10 ust. pkt 7 wyrazy „przepisach rozdziału 2a” zastępuje się wyrazami „rozporządzeniu 536/2014”;
+- **7)** art. 36u ust. 3 pkt 3 wyrazy „rozdziału 2a” zastępuje się wyrazami „rozporządzenia 536/2014”;
+- **8)** tytuł rozdziału 2a otrzymuje brzmienie: „Badania kliniczne weterynaryjne”;
+- **9)** art. 37a otrzymuje brzmienie: „Art. 37a. 1. Badania kliniczne weterynaryjne przeprowadza się zgodnie z zasadami określonymi rozporządzeniu 2019/6 i przepisami niniejszego rozdziału.
+
+2. Prezes Urzędu prowadzi Centralną Ewidencję Badań Klinicznych postaci systemu informatycznego.
+
+3. Centralna Ewidencja Badań Klinicznych oraz dokumenty przedłożone postępowaniu o wydanie pozwolenia na prowadzenie badania klinicznego weterynaryjnego wraz ze zmianami dotyczącymi tego pozwolenia są dostępne dla osób mających tym interes prawny, z zachowaniem przepisów o ochronie informacji niejawnych, o ochronie własności przemysłowej oraz o ochronie danych osobowych.”;
+
+- **10)** uchyla się art. 37b–37ag;
+    - **a)** po ust. 1 dodaje się ust. 1a–1i brzmieniu: „1a. Inspektor przeprowadza inspekcję badań klinicznych weterynaryjnych na podstawie upoważnienia Prezesa Urzędu, zawierającego co najmniej:
+
+- **1)** wskazanie podstawy prawnej;
+- **2)** oznaczenie organu;
+- **3)** datę i miejsce wystawienia;
+- **4)** imię i nazwisko inspektora upoważnionego do przeprowadzenia inspekcji oraz numer jego legitymacji służbowej;
+- **5)** oznaczenie podmiotu objętego inspekcją;
+- **6)** określenie zakresu przedmiotowego inspekcji;
+- **7)** wskazanie daty rozpoczęcia i przewidywany termin zakończenia inspekcji;
+- **8)** podpis osoby udzielającej upoważnienia;
+- **9)** pouczenie o prawach i obowiązkach podmiotu objętego inspekcją.
+
+1b. Inspekcja badań klinicznych weterynaryjnych może być przeprowadzana przed rozpoczęciem badania klinicznego, czasie jego prowadzenia lub po jego zakończeniu, szczególności jako część procedury weryfikacyjnej wniosku o dopuszczenie do obrotu produktu leczniczego weterynaryjnego lub po wydaniu pozwolenia na dopuszczenie do obrotu produktu leczniczego weterynaryjnego.
+
+1c. Inspekcję badań klinicznych weterynaryjnych przeprowadza się z urzędu wyłącznie na terytorium Rzeczypospolitej Polskiej.
+
+1d. Inspektor Inspekcji Badań Klinicznych przeprowadzający inspekcję badań klinicznych weterynaryjnych spełnia łącznie następujące wymagania:
+
+- **1)** posiada dyplom lekarza weterynarii, lekarza, tytuł zawodowy magistra farmacji albo tytuł zawodowy uzyskany na kierunkach studiów mających zastosowanie wykonywaniu zadań wynikających z realizacji inspekcji badań klinicznych;
+- **2)** posiada wiedzę zakresie zasad i procesów dotyczących rozwoju produktów leczniczych, badań klinicznych, dopuszczania do obrotu produktów leczniczych, zakresie organizacji systemu ochrony zdrowia oraz prawodawstwa dotyczącego badań klinicznych i udzielania pozwoleń na dopuszczanie do obrotu produktów leczniczych, jak również procedur i systemu przechowywania danych.
+
+1e. Prezes Urzędu zapewnia ustawiczne szkolenie inspektorów Inspekcji Badań Klinicznych odniesieniu do badań klinicznych weterynaryjnych.
+
+1f. W przypadku konieczności przeprowadzenia inspekcji badań klinicznych weterynaryjnych, podczas której jest niezbędne posiadanie przez inspektorów szczególnej wiedzy, innej niż określona ust. 1e, Prezes Urzędu może wyznaczyć ekspertów o takich kwalifikacjach, aby wspólnie z powołanymi inspektorami spełniali wymagania niezbędne do przeprowadzenia inspekcji badań klinicznych weterynaryjnych. Do eksperta stosuje się odpowiednio przepisy ust. 1b, 1e oraz 1h–1j.
+
+1g. Inspektorzy oraz eksperci są obowiązani do zachowania poufności danych udostępnianych im toku inspekcji badań klinicznych weterynaryjnych, jak również pozyskanych związku z jej przeprowadzaniem.
+
+1h. Inspektor oraz ekspert składają oświadczenie o braku konfliktu interesów ze sponsorem, badaczem lub innymi podmiotami podlegającymi inspekcji badań klinicznych oraz podmiotami będącymi członkami grupy kapitałowej, rozumieniu przepisów o ochronie konkurencji i konsumentów, do której należy sponsor lub badacz lub inny podmiot podlegający inspekcji badań klinicznych weterynaryjnych.
+
+1i. Oświadczenie, o którym mowa ust. 1h, jest uwzględniane przez Prezesa Urzędu przy wyznaczaniu inspektorów lub ekspertów do przeprowadzenia inspekcji badań klinicznych weterynaryjnych.”,
+
+- **b)** uchyla się ust. 2;
+- **12)** uchyla się art. 37al;
+- **13)** art. 51a po pkt 5 dodaje się pkt 5a brzmieniu: „5a) pomocniczych produktów leczniczych rozumieniu art. 65 rozporządzenia 536/2014, z wyłączeniem przepisów art. 38a, art. 42 ust. 1 pkt 9 lit. b, pkt 10–13 i ust. 1a, art. 42a oraz art. 48 ust. 5;”; Recepta farmaceutyczna określona zdaniu pierwszym jest podstawą zastosowania produktu leczniczego aptece ogólnodostępnej, której farmaceuta wystawił tę receptę.”;
+    - **a)** ust. 4 pkt 3 po wyrazach „recepty farmaceutycznej” dodaje się wyrazy „ , przypadku recepty farmaceutycznej wystawionej na podstawie ust. 4 nie jest wymagana przyczyna zastosowania”,
+    - **b)** po ust. 4 dodaje się ust. 4 brzmieniu: „4 . Receptę farmaceutyczną można również wystawić na produkt immunologiczny niezbędny do przeprowadzania szczepienia ochronnego przeciw grypie aptece ogólnodostępnej na podstawie art. 86 ust. 8a.
+
+- **15)** art. 115 ust. 1: UE L 238 z 16.09.2017, str. 44);”,
+    - **a)** pkt 6 otrzymuje brzmienie: „6) zapewnia stosowanie wytycznych Komisji Europejskiej zebranych unijnych procedurach inspekcji i wymiany informacji, o których mowa art. 3 ust. 1 dyrektywy Komisji (UE) 2017/1572 z dnia 15 września 2017 r. uzupełniającej dyrektywę 2001/83/WE Parlamentu Europejskiego i Rady odniesieniu do zasad i wytycznych dobrej praktyki wytwarzania produktów leczniczych stosowanych u ludzi (Dz. Urz.
+    - **b)** po pkt 6 dodaje się pkt 6a brzmieniu: „6a) wdraża i aktualizuje system jakości, o którym mowa art. 3 ust. 3 dyrektywy 2017/1572 Komisji (UE) z dnia 15 września 2017 r. uzupełniającej dyrektywę 2001/83/WE Parlamentu Europejskiego i Rady odniesieniu do zasad i wytycznych dobrej praktyki wytwarzania produktów leczniczych stosowanych u ludzi;”;
+
+- **16)** art. 126a ust. 1 i otrzymują brzmienie: „1. Kto wbrew przepisowi art. 37ah ust. 4 rozpoczyna lub prowadzi badanie kliniczne weterynaryjne, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+
+2. Kto prowadzi badanie kliniczne weterynaryjne po wydaniu decyzji o zawieszeniu badania klinicznego weterynaryjnego albo o wstrzymaniu badania klinicznego weterynaryjnego, podlega grzywnie.”.
 
 **Art. 83.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, 2674 i 2770) art. 131c ust. 3:
+
+- **1)** pkt 8 dodaje się przecinek i dodaje się pkt 9 brzmieniu: „9) koszty ujęte rocznym planie finansowym Funduszu Kompensacyjnego Badań Klinicznych, o którym mowa art. 41 ust. 5 ustawy z dnia 9 marca 2023 r. o badaniach klinicznych produktów leczniczych stosowanych u ludzi (Dz. U. poz. 605)”;
+- **2)** część wspólna otrzymuje brzmienie: „– po wyłączeniu planowanych transferów środków finansowych otrzymanych ze źródeł, o których mowa pkt 1–9.”.
 
 **Art. 84.** W ustawie z dnia 6 listopada 2008 r. o konsultantach ochronie zdrowia (Dz. U. z 2022 r. poz. 2524) art. 8c ust. 1 pkt 9 otrzymuje brzmienie: „9) prowadzi badania kliniczne rozumieniu art. ust. pkt rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 536/2014 z dnia 16 kwietnia 2014 r. sprawie badań klinicznych produktów leczniczych stosowanych u ludzi oraz uchylenia dyrektywy 2001/20/WE (Dz. Urz. UE L 158 z 27.05.2014, str. 1, z późn. zm. ), a jeżeli tak, to jakie;”.
 
 **Art. 85.** W ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2022 r. poz. 1876, 2280 i 2705) wprowadza się następujące zmiany:
 
+- **1)** art. 28 ust. 2a po pkt 1a dodaje się pkt 1b brzmieniu: „1b) związku z postępowaniem, o którym mowa art. 51 ust. 1 ustawy z dnia 9 marca 2023 r. o badaniach klinicznych produktów leczniczych stosowanych u ludzi (Dz. U. poz. 605), prowadzonym przez Rzecznika Praw Pacjenta;”;
+    - **a)** po pkt dodaje się pkt 2a brzmieniu: „2a) wykonywanie zadań określonych przepisach art. 41 ust. 2, 5 i 6, art. 42 ust. 5, art. 43, art. 45 ust. 3, art. 46 ust. 6, art. 47 ust. 4 i 5, art. 48 ust. 1, art. 49 ust. 4, 8 i 13, art. 50, art. 51 ust. 1–3, art. 52 ust. 1, art. 53 ust. 4, art. 54 ust. 2, art. 56 ust. i art. 57 ustawy z dnia 9 marca 2023 r. o badaniach klinicznych produktów leczniczych stosowanych u ludzi;”,
+    - **b)** po pkt 10a dodaje się pkt 10b brzmieniu: „10b) prowadzenie wykazu stowarzyszeń posiadających wpis do Krajowego Rejestru Sądowego zgodnie z ustawą z dnia 7 kwietnia 1989 r. Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261) oraz fundacji, o których mowa ustawie z dnia 6 kwietnia 1984 r. o fundacjach (Dz. U. z 2023 r. poz. 166), do których celów statutowych należy ochrona praw pacjenta, zwanego dalej „wykazem organizacji pacjentów”;”;
+
+- **3)** po art. 55 dodaje się art. 55a brzmieniu: „Art. 55a. 1. Rzecznik prowadzi wykaz organizacji pacjentów.
+
+2. Wykaz organizacji pacjentów zawiera:
+
+- **1)** nazwę organizacji pacjentów;
+- **2)** teren działania i siedzibę organizacji pacjentów;
+- **3)** cele i główne obszary działalności organizacji pacjentów, szczególności problemy zdrowotne, których działalność ta dotyczy;
+- **4)** organ uprawniony do reprezentowania organizacji pacjentów oraz imiona i nazwiska osób wchodzących jego skład;
+- **5)** sposób reprezentowania organizacji pacjentów;
+- **6)** informację, czy organizacja pacjentów należy do związku stowarzyszeń (federacji), a jeżeli tak, to do którego;
+- **7)** numer Krajowego Rejestru Sądowego, pod którym jest ujawniona organizacja pacjentów.
+
+3. Wykaz organizacji pacjentów jest prowadzony formie elektronicznej.
+
+4. Rzecznik dokonuje wpisu organizacji pacjentów do wykazu organizacji pacjentów na jej wniosek. Wpis nie podlega opłacie.
+
+5. Do wniosku o wpis do wykazu organizacji pacjentów organizacja pacjentów dołącza kopię statutu stowarzyszenia lub fundacji.
+
+6. Rzecznik udostępnia na stronie internetowej urzędu go obsługującego wzór wniosku o wpis do wykazu organizacji pacjentów.
+
+7. Rzecznik dokonuje zmiany danych zawartych wykazie organizacji pacjentów na podstawie informacji przekazanych przez organizację pacjentów. Organizacja pacjentów zawiadamia niezwłocznie Rzecznika o zmianie danych zawartych wykazie organizacji pacjentów, terminie nie dłuższym niż 30 dni od dnia zaistnienia zmiany. W przypadku niedopełnienia przez organizację pacjentów tego obowiązku Rzecznik może wykreślić organizację pacjentów z wykazu organizacji pacjentów.
+
+8. Organizacja pacjentów może złożyć wniosek o wykreślenie jej z wykazu organizacji pacjentów. Rzecznik dokonuje wykreślenia organizacji pacjentów z wykazu organizacji pacjentów niezwłocznie, terminie nie dłuższym niż 30 dni od dnia złożenia wniosku.
+
+9. Organizacja pacjentów wykreślona z wykazu organizacji pacjentów może złożyć ponowny wniosek o wpis do wykazu organizacji pacjentów.
+
+10. Wykaz organizacji pacjentów jest jawny. Wykaz organizacji pacjentów jest udostępniany Biuletynie Informacji Publicznej na stronie internetowej urzędu obsługującego Rzecznika.”.
+
 **Art. 86.** W ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2022 r. poz. 1657, 2280, 2674, 2705 i 2770) art. 19 po ust. 5b dodaje się ust. 5c brzmieniu: „5c. W przypadku przeprowadzenia szczepienia na podstawie recepty farmaceutycznej, o której mowa art. 96 ust. 4 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne, osoba poddana szczepieniu ponosi jedynie koszt, o którym mowa ust. 7.”.
 
-**Art. 87.** W ustawie z dnia 18 marca 2011 r. o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych (Dz. U. z 2022 r. poz. 2258) wprowadza się następujące zmiany:
+- **1)** art. 4 ust. 1 pkt 1 lit. f otrzymuje brzmienie: „f) prowadzenie inspekcji badań klinicznych zakresie zgodności tych badań z wymaganiami rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 536/2014 z dnia 16 kwietnia 2014 r. sprawie badań klinicznych produktów leczniczych stosowanych u ludzi oraz uchylenia dyrektywy 2001/20/WE, a przypadku badań klinicznych produktów leczniczych weterynaryjnych lub badanych produktów leczniczych weterynaryjnych z wymaganiami Dobrej Praktyki Klinicznej Weterynaryjnej,”;
+- **2)** po art. 4 dodaje się art. 4a brzmieniu: „Art. 4a. 1. Do zadań Prezesa Urzędu należy również udzielanie porady naukowej zakresie prowadzenia testów i badań niezbędnych do wykazania jakości, bezpieczeństwa lub skuteczności produktów leczniczych stosowanych u ludzi dotyczącej aspektów jakościowych, klinicznych, nieklinicznych, nadzoru nad bezpieczeństwem stosowania produktu leczniczego lub zagadnień metodologicznych zakresie prowadzonych lub planowanych badań, zwanej dalej „poradą naukową”.
+
+2. Prezes Urzędu odmawia udzielenia porady naukowej, jeżeli:
+
+- **1)** dotyczy ona stosowania przepisów prawa powszechnie obowiązującego regulującego kwestie dopuszczania do obrotu produktów leczniczych,
+- **2)** dotyczy ona kwestii uregulowanych wytycznych wydanych przez Komisję Europejską, Europejską Agencję Leków, Światową Organizację Zdrowia lub Międzynarodową konferencję ds. harmonizacji wymagań technicznych dla rejestracji produktów leczniczych stosowanych u ludzi (ICH),
+- **3)** podmiot odpowiedzialny wystąpił zakresie objętym wnioskiem o wydanie porady naukowej, o której mowa art. 57 rozporządzenia (WE) nr 726/2004 Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. ustanawiającego unijne procedury wydawania pozwoleń dla produktów leczniczych stosowanych u ludzi i nadzoru nad nimi oraz ustanawiającego Europejską Agencję Leków (Dz. Urz. UE L 136 z 30.04.2004, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 229, z późn. zm. ), do Europejskiej Agencji Leków lub z wnioskiem o udzielenie porady naukowej do innego właściwego organu państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym albo uzyskał tę poradę,
+- **4)** dotyczy ona postępowania toczącego się przed Prezesem Urzędu, Europejską Agencją Leków lub innym właściwym organem państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym,
+- **5)** przedstawiciel Rzeczypospolitej Polskiej pełni rolę sprawozdawcy procesie dopuszczenia do obrotu produktu leczniczego trwającej procedurze scentralizowanej, o której mowa przepisach rozporządzenia (WE) nr 726/2004 Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. ustanawiającego unijne procedury wydawania pozwoleń dla produktów leczniczych stosowanych u ludzi i nadzoru nad nimi oraz ustanawiającego Europejską Agencję Leków o czym informuje pisemnie podmiot zainteresowany otrzymaniem porady naukowej, zwany dalej „wnioskodawcą”.
+
+3. Wnioskodawca składa wniosek do Prezesa Urzędu. Wniosek zawiera:
+
+- **1)** imię i nazwisko lub nazwę oraz adres, numer telefonu i adres poczty elektronicznej wnioskodawcy oraz osoby upoważnionej, jeżeli dotyczy;
+- **2)** dane dotyczące produktu leczniczego, którego dotyczy wniosek, tym co najmniej nazwę substancji czynnej, wskazania do stosowania, kod ATC, rodzaj produktu, jego postać farmaceutyczną, moc i numer pozwolenia na dopuszczenie do obrotu, jeżeli dotyczy;
+- **3)** szczegółowy zakres porady naukowej i listę pytań wnioskodawcy będących przedmiotem wniosku wraz ze stanowiskiem wnioskodawcy sprawie i uzasadnieniem;
+- **4)** informacje zakresie określonym ust. 2. wnosi się na rachunek Urzędu. Opłata stanowi dochód budżetu państwa.
+
+5. Wysokość opłaty jest uzależniona od zakresu porady naukowej określonego we wniosku, o którym mowa ust. 3 pkt 3.
+
+6. Do wniosku, o którym mowa ust. 3, wnioskodawca dołącza dokumentację odpowiednią do zakresu porady naukowej określonego tym wniosku, dowód uiszczenia opłaty, o której mowa ust. 4, oraz kopie otrzymanych wcześniej porad naukowych, jeżeli dotyczy. Dokumenty dołączane do wniosku mogą być sporządzone języku polskim lub języku angielskim.
+
+7. W przypadku nieprzedstawienia dokumentów, o których mowa ust. 6, Prezes Urzędu wzywa wnioskodawcę do uzupełnienia informacji lub dokumentów wyznaczonym terminie. W przypadku ich nieuzupełnienia wyznaczonym terminie, Prezes Urzędu nie udziela porady naukowej, o czym informuje wnioskodawcę.
+
+8. Prezes Urzędu niezwłocznie informuje wnioskodawcę o złożeniu kompletnego wniosku, o którym mowa ust. 3.
+
+9. Porada naukowa jest udzielana na piśmie, terminie 90 dni od dnia poinformowania wnioskodawcy o złożeniu kompletnego wniosku, o którym mowa ust. 3.
+
+10. Porada naukowa nie jest wiążąca postępowaniach administracyjnych prowadzonych przed Prezesem Urzędu.
+
+11. Do osób udzielających porady naukowej stosuje się art. 9.
+
+12. Udostępnieniu trybie ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902) nie podlegają informacje dotyczące danych wnioskodawców i informacje, o których mowa ust. 3 pkt 3.
+
+13. Minister właściwy do spraw zdrowia określi, drodze rozporządzenia, szczegółowy zakres udzielanych przez Prezesa Urzędu porad naukowych, wysokość opłat pobieranych za ich udzielenie oraz wzór wniosku o udzielenie porady naukowej, uwzględniając zakres porad naukowych udzielanych innych państwach członkowskich Unii Europejskiej i państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronach umowy o Europejskim Obszarze Gospodarczym o zbliżonym produkcie krajowym brutto na jednego mieszkańca, nakład pracy związanej z udzieleniem porady i poziom kosztów ponoszonych przez Urząd oraz konieczność weryfikacji ewentualnego wystąpienia okoliczności wymienionych ust. 2.”;
+
+- **3)** po art. 9a dodaje się art. 9b brzmieniu: „Art. 9b. 1. Osoby, o których mowa art. 9 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 536/2014 z dnia 16 kwietnia 2014 r. sprawie badań klinicznych produktów leczniczych stosowanych u ludzi oraz uchylenia dyrektywy 2001/20/WE, składają oświadczenie zawierające informację o niepodleganiu niepożądanym wpływom oraz niezależności od sponsora i od badaczy biorących udział badaniu oraz od osób fizycznych lub prawnych finansujących dane badanie kliniczne produktu leczniczego. Osoby, o których mowa zdaniu pierwszym, nie mogą:
+- **1)** wykonywać działalności gospodarczej lub być członkami organów spółek handlowych lub przedstawicielami przedsiębiorców wykonujących działalność gospodarczą, zakresie prowadzenia badań klinicznych, z wyłączeniem pełnienia roli badacza oraz roli badacza będącego sponsorem badania niekomercyjnego;
+- **2)** być członkami organów spółdzielni, stowarzyszeń lub fundacji wykonujących działalność, o której mowa pkt 1;
+- **3)** posiadać akcji lub udziałów spółkach handlowych wykonujących działalność, o której mowa pkt 1, oraz udziałów spółdzielniach wykonujących działalność, o której mowa pkt 1;
+- **4)** być osobami odpowiedzialnymi za planowanie lub przeprowadzenie badania klinicznego będącego przedmiotem oceny organu;
+- **5)** uczestniczyć postępowaniach, o których mowa art. 9 ust. 1 ustawy z dnia 9 marca 2023 r. o badaniach klinicznych produktów leczniczych stosowanych u ludzi (Dz. U. poz. 605), lub uczestniczyć przeprowadzaniu tego badania klinicznego oraz wykonywać zajęcia zarobkowego na podstawie umowy o pracę, umowy zlecenia, umowy o dzieło lub innej umowy o podobnym charakterze zawartej z ośrodkiem badań klinicznych, którym ma być prowadzone badanie kliniczne, którego dotyczy ocena;
+- **6)** być zatrudnione podmiotach, o których mowa pkt 1–3. oraz Wiceprezesów Urzędu ministrowi właściwemu do spraw zdrowia:
+- **1)** przed zawarciem umowy o pracę, umowy zlecenia, umowy o dzieło lub innej umowy o podobnym charakterze;
+- **2)** terminie 14 dni od dnia powzięcia informacji o okolicznościach, o których mowa ust. 1.
+
+3. W przypadku stwierdzenia zaistnienia okoliczności, o których mowa ust. 1, osoba składająca oświadczenie podlega wyłączeniu z postępowań, o których mowa art. 9 ust. 1 ustawy z dnia 9 marca 2023 r. o badaniach klinicznych produktów leczniczych stosowanych u ludzi.
+
+4. Osoby, o których mowa art. 9 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 536/2014 z dnia 16 kwietnia 2014 r. sprawie badań klinicznych produktów leczniczych stosowanych u ludzi oraz uchylenia dyrektywy 2001/20/WE, składają na formularzu oświadczenie, o którym mowa ust. 1, pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+5. Oświadczenie, o którym mowa ust. 1, zawiera:
+
+- **1)** imię i nazwisko osoby składającej oświadczenie;
+- **2)** informację dotyczącą okoliczności, o których mowa ust. 1.
+
+6. W przypadku naruszenia obowiązków, o których mowa ust. 1 i 2, przepis art. 9 ust. 4 stosuje się odpowiednio.”.
 
 **Art. 88.** W ustawie z dnia 21 lutego 2019 r. o Agencji Badań Medycznych (Dz. U. z 2022 r. poz. 451) wprowadza się następujące zmiany:
+
+- **1)** art. pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 brzmieniu: „5) wspieraniu działalności Naczelnej Komisji Bioetycznej, o której mowa rozdziale 4 ustawy z dnia 9 marca 2023 r. o badaniach klinicznych produktów leczniczych stosowanych u ludzi (Dz. U. poz. 605);
+- **6)** inicjowaniu i rozwijaniu działań o charakterze edukacyjnym i szkoleniowym.”;
+- **2)** art. 15 ust. 1 pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 i 8 brzmieniu: „7) obsługa administracyjno-biurowa Naczelnej Komisji Bioetycznej, o której mowa rozdziale 4 ustawy z dnia 9 marca 2023 r. o badaniach klinicznych produktów leczniczych stosowanych u ludzi;
+- **8)** prowadzenie działań o charakterze edukacyjnym i szkoleniowym zakresie innowacji ochronie zdrowia, ze szczególnym uwzględnieniem badań naukowych i prac rozwojowych dziedzinie nauk medycznych i nauk o zdrowiu.”;
+- **3)** art. 21 uchyla się ust. 7;
+- **4)** art. 28 ust. 1: pkt 1–4;”,
+    - **a)** pkt 1 otrzymuje brzmienie: „1) dotacja celowa na realizację i finansowanie zadań, o których mowa art. 15 ust. 1 pkt 5 i 8 oraz ust.
+    - **b)** pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 brzmieniu: „5) wnoszone na rachunek bankowy Agencji opłaty, o których mowa art. 58 ust. ustawy z dnia 9 marca 2023 r. o badaniach klinicznych produktów leczniczych stosowanych u ludzi.”;
+
+- **5)** art. 45 ust. pkt 5–10 otrzymują brzmienie: „5) 953 405 tys. zł 2023 r.;
+- **6)** 1 260 923 tys. zł 2024 r.;
+- **7)** 1 354 937 tys. zł 2025 r.;
+- **8)** 1 361 460 tys. zł 2026 r.;
+- **9)** 1 421 731 tys. zł 2027 r.;
+- **10)** 1 478 300 tys. zł 2028 r.”.”; „Art. 45. Do opłat, o których mowa art. 58 ust. ustawy zmienianej art. 43, wniesionych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.” „Art. 58. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 8 ust. 1 pkt 1 i 3, art. 9 ust. 1 pkt 5 oraz art. 10, które wchodzą życie po upływie 36 miesięcy od dnia wejścia życie ustawy.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 9 marca 2023 r. o badaniach klinicznych produktów leczniczych stosowanych u ludzi
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
 
+- **1)** tryb postępowania przedmiocie wydania pozwolenia na badanie kliniczne produktu leczniczego stosowanego u ludzi, zwane dalej „badaniem klinicznym”, wydania pozwolenia na istotną zmianę badania klinicznego, wydania pozwolenia ograniczonego do aspektów objętych częścią I lub częścią II sprawozdania z oceny wniosku o pozwolenie na badanie kliniczne;
+- **2)** zadania Naczelnej Komisji Bioetycznej do spraw Badań Klinicznych, zwanej dalej „Naczelną Komisją Bioetyczną”, i tryb jej powoływania;
+- **3)** zasady i tryb wpisu na listę komisji bioetycznych uprawnionych do sporządzania oceny etycznej badań klinicznych, zwaną dalej „listą komisji bioetycznych”, i skreślenia z tej listy;
+- **4)** zasady i tryb przeprowadzania oceny etycznej badania klinicznego;
+- **5)** obowiązki sponsora, głównego badacza i badacza;
+- **6)** zasady odpowiedzialności cywilnej i karnej badacza oraz sponsora;
+- **7)** zasady organizacji i funkcjonowania Funduszu Kompensacyjnego Badań Klinicznych, zwanego dalej „Funduszem”;
+- **8)** wysokość i sposób uiszczania opłat związanych z badaniem klinicznym;
+- **9)** zasady finansowania świadczeń opieki zdrowotnej związanych z badaniem klinicznym;
+- **10)** zasady i tryb przeprowadzania inspekcji badania klinicznego.
+
 **Art. 2.** Ilekroć ustawie jest mowa o:
+
+- **1)** badaczu rozumie się przez to badacza rozumieniu art. ust. pkt 15 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 536/2014 z dnia 16 kwietnia 2014 r. sprawie badań klinicznych produktów leczniczych stosowanych u ludzi oraz uchylenia dyrektywy 2001/20/WE (Dz. Urz. UE L 158 z 27.05.2014, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 536/2014”;
+- **2)** badaniu klinicznym rozumie się przez to badanie kliniczne rozumieniu art. ust. pkt rozporządzenia 536/2014;
+- **3)** badanym produkcie leczniczym rozumie się przez to badany produkt leczniczy rozumieniu art. ust. pkt 5 rozporządzenia 536/2014;
+- **4)** głównym badaczu rozumie się przez to głównego badacza rozumieniu art. ust. pkt 16 rozporządzenia 536/2014;
+- **5)** istotnej zmianie rozumie się przez to istotną zmianę rozumieniu art. ust. pkt 13 rozporządzenia 536/2014;
+- **6)** portalu UE rozumie się przez to portal Unii Europejskiej, o którym mowa art. 80 rozporządzenia 536/2014;
+- **7)** protokole badania klinicznego rozumie się przez to protokół rozumieniu art. ust. pkt 22 rozporządzenia 536/2014;
+- **9)** świadomej zgodzie rozumie się przez to świadomą zgodę rozumieniu art. ust. pkt 21 rozporządzenia 536/2014;
+- **10)** uczestniku badania klinicznego rozumie się przez to uczestnika rozumieniu art. ust. pkt 17 rozporządzenia 536/2014;
+- **11)** zainteresowanym państwie członkowskim rozumie się przez to zainteresowane państwo członkowskie rozumieniu art. ust. pkt 12 rozporządzenia 536/2014.
 
 **Art. 3.**
 
@@ -64,6 +278,9 @@ Art. 80–88. (pominięte)
 2. Współsponsorzy mogą określić wzajemne prawa i obowiązki umowie zawartej formie pisemnej, z uwzględnieniem art. 72 ust. 1 rozporządzenia 536/2014.
 
 **Art. 4.** Zabrania się przeprowadzania badania klinicznego z udziałem:
+
+- **1)** żołnierza czynnej służbie wojskowej lub innej osoby pozostającej zależności hierarchicznej ograniczającej swobodę dobrowolnego wyrażania zgody;
+- **2)** osoby pozbawionej wolności albo poddanej detencji.
 
 **Art. 5.**
 
@@ -84,7 +301,7 @@ Art. 80–88. (pominięte)
 
 **Art. 6.**
 
-1. Dane uzyskane wyniku prowadzenia niekomercyjnego badania klinicznego nie mogą być wykorzystane celu uzyskania pozwolenia na dopuszczenie do obrotu produktu leczniczego, dokonania zmian udzielonym pozwoleniu, z wyjątkiem zmian pozwoleniu na dopuszczenie do obrotu produktu leczniczego zakresie bezpieczeństwa stosowania produktu leczniczego, lub celach marketingowych. pozwolenia na dopuszczenie do obrotu produktu leczniczego, dokonania zmian udzielonym pozwoleniu lub celach marketingowych.
+1. Dane uzyskane wyniku prowadzenia niekomercyjnego badania klinicznego nie mogą być wykorzystane celu uzyskania pozwolenia na dopuszczenie do obrotu produktu leczniczego, dokonania zmian udzielonym pozwoleniu, z wyjątkiem zmian pozwoleniu na dopuszczenie do obrotu produktu leczniczego zakresie bezpieczeństwa stosowania produktu leczniczego, lub celach marketingowych. cych wykorzystanie danych uzyskanych wyniku prowadzenia niekomercyjnego badania klinicznego celu uzyskania pozwolenia na dopuszczenie do obrotu produktu leczniczego, dokonania zmian udzielonym pozwoleniu lub celach marketingowych.
 
 3. Czynności prawne sprzeczne z ust. są nieważne z mocy prawa.
 
@@ -122,7 +339,7 @@ Art. 80–88. (pominięte)
 - **4)** cofnięcia pozwolenia na badanie kliniczne,
 - **5)** zawieszenia badania klinicznego,
 - **6)** podjęcia uprzednio zawieszonego badania klinicznego,
-- **7)** zobowiązania sponsora do zmiany dowolnego aspektu badania klinicznego przeprowadza się zgodnie z zasadami określonymi rozporządzeniu 536/2014 oraz ustawie i terminach nich określonych.
+- **7)** zobowiązania sponsora do zmiany dowolnego aspektu badania klinicznego przeprowadza się zgodnie z zasadami określonymi rozporządzeniu 536/2014 oraz ustawie i terminach nich określonych. tów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, zwanego dalej „Urzędem”.
 
 3. Wydanie albo odmowa wydania pozwolenia na badanie kliniczne, wydanie albo odmowa wydania pozwolenia na istotną zmianę badania klinicznego, wydanie albo odmowa wydania pozwolenia ograniczonego do aspektów objętych częścią I lub częścią II sprawozdania z oceny wniosku o pozwolenie na badanie kliniczne, cofnięcie pozwolenia na badanie kliniczne, zawieszenie badania klinicznego, podjęcie uprzednio zawieszonego badania klinicznego oraz zobowiązanie sponsora do zmiany dowolnego aspektu badania klinicznego, następują drodze decyzji Prezesa Urzędu.
 
@@ -263,7 +480,7 @@ Art. 80–88. (pominięte)
 5. W przypadku gdy ocenę etyczną badania klinicznego sporządza komisja bioetyczna, o której mowa art. 21 ust. 1 pkt 2, opłata, o której mowa art. 58 ust. 2, wnoszona na rachunek bankowy Agencji:
 
 - **1)** wysokości 60 % tej opłaty jest przeznaczana na wynagrodzenia członków zespołu opiniującego, o którym mowa art. 30 ust. 1, przedstawiciela, o którym mowa art. 30 ust. 3, i eksperta, o którym mowa art. 30 ust. 4 i 5, przypadku ich powołania; kwotę dzieli się równo między członków zespołu opiniującego, o którym mowa art. 30 ust. 1, przedstawiciela, o którym mowa art. 30 ust. 3, i eksperta, o którym mowa art. 30 ust. 4 i 5, przypadku ich powołania;
-- **2)** wysokości 25 % tej opłaty jest przeznaczana na koszty działalności Naczelnej Komisji Bioetycznej;
+- **2)** wysokości 25 % tej opłaty jest przeznaczana na koszty działalności Naczelnej Komisji Bioetycznej; ust. 1 pkt 2;
 - **3)** wysokości 3 % tej opłaty jest przeznaczana na wynagrodzenie przewodniczącego Naczelnej Komisji Bioetycznej, a % na wynagrodzenie jego zastępcy.
 
 6. Niewykorzystane danym roku budżetowym środki z opłat, o których mowa ust. 4 i 5, terminie do 31 stycznia roku następującego po danym roku budżetowym są przekazywane na Fundusz.
@@ -302,6 +519,19 @@ Art. 80–88. (pominięte)
 
 **Art. 19.** Komisja bioetyczna, która ubiega się o wpis na listę komisji bioetycznych, jest obowiązana do opracowania i stosowania regulaminu, który obejmuje co najmniej:
 
+- **1)** zakres i sposób obsługi biurowej komisji bioetycznej;
+- **2)** sposób współpracy z przedstawicielami, o których mowa art. 30 ust. 3, i ekspertami, o których mowa art. 30 ust. 4 i 5, na zasadach określonych tych przepisach oraz art. 32;
+- **3)** sposób doszkalania członków komisji bioetycznej;
+- **4)** obieg dokumentacji dotyczącej badania klinicznego trakcie sporządzania oceny etycznej badania klinicznego;
+- **5)** sposób komunikacji członków komisji bioetycznej trakcie sporządzania oceny etycznej badania klinicznego;
+- **6)** sposób współpracy z Naczelną Komisją Bioetyczną. przez komisje bioetyczne wpisane na listę komisji bioetycznych kryteriów, o których mowa art. 18 ust. 4. Weryfikacja jest dokonywana na podstawie dokumentów, o których mowa art. 18 ust. 3.
+
+2. Przewodniczący Naczelnej Komisji Bioetycznej skreśla komisję bioetyczną z listy komisji bioetycznych, jeżeli nie spełnia ona kryteriów, o których mowa art. 18 ust. 4, lub przypadku powtarzającego się niedotrzymywania terminów wyznaczonych na sporządzenie oceny etycznej badania klinicznego.
+
+3. W przypadku skreślenia komisji bioetycznej z listy komisji bioetycznych przewodniczący Naczelnej Komisji Bioetycznej wskazuje na piśmie warunki umożliwiające uzyskanie ponownego wpisu na tę listę.
+
+4. Komisja bioetyczna wpisana na listę komisji bioetycznych informuje pisemnie przewodniczącego Naczelnej Komisji Bioetycznej o zmianach, które mogą mieć wpływ na spełnianie kryteriów, o których mowa art. 18 ust. 4, terminie 14 dni od dnia zaistnienia takiej zmiany.
+
 #### Rozdział 5 Ocena etyczna badania klinicznego i współpraca Naczelnej Komisji Bioetycznej z Urzędem
 
 **Art. 21.**
@@ -320,6 +550,10 @@ Art. 80–88. (pominięte)
 
 **Art. 22.** Do zadań zespołu opiniującego Naczelnej Komisji Bioetycznej oraz zespołu opiniującego komisji bioetycznej, o których mowa art. 30 ust. 1, należy:
 
+- **1)** sporządzanie oceny etycznej badania klinicznego, objętego wnioskiem o wydanie pozwolenia na badanie kliniczne, uwzględniającej aspekty ujęte części I sprawozdania z oceny wniosku o pozwolenie na badanie kliniczne, o których mowa art. 6 ust. 1 lit. a, b oraz e rozporządzenia 536/2014, oraz aspekty ujęte części II sprawozdania z oceny wniosku o pozwolenie na badanie kliniczne, o których mowa art. 7 ust. 1 lit. a–c, e, f oraz h rozporządzenia 536/2014, wraz ze szczegółowym merytorycznym uzasadnieniem przypadku negatywnej oceny;
+- **2)** sporządzanie oceny etycznej istotnej zmiany badania klinicznego, objętej wnioskiem o wydanie pozwolenia na istotną zmianę badania klinicznego, uwzględniającej aspekty ujęte części I i II sprawozdania z oceny wniosku o pozwolenie na badanie kliniczne na użytek wniosku o wydanie pozwolenia na istotną zmianę badania klinicznego, zakresach wskazanych pkt 1, wraz ze szczegółowym merytorycznym uzasadnieniem przypadku negatywnej oceny;
+- **3)** współpraca z Naczelną Komisją Bioetyczną i wyznaczoną komisją bioetyczną, z której jest wybrany zespół, zakresie oceny etycznej badania klinicznego.
+
 **Art. 23.**
 
 1. Walidację wniosków złożonych zgodnie z przepisami rozdziału II i rozdziału III rozporządzenia 536/2014 przeprowadza Prezes Urzędu na zasadach określonych tym rozporządzeniu.
@@ -327,11 +561,7 @@ Art. 80–88. (pominięte)
 2. W zakresie czynności określonych art. 6 rozporządzenia 536/2014 Prezes Urzędu:
 
 - **1)** jest odpowiedzialny za przygotowanie sprawozdania z oceny objętej częścią I, przypadku gdy Rzeczpospolita Polska pełni rolę państwa sprawozdawcy, lub
-- **2)** bierze udział przygotowaniu sprawozdania z oceny objętej częścią I, przypadku gdy Rzeczpospolita Polska jest zainteresowanym państwem członkowskim.
-
-**Art. 24.**
-
-1. W przypadku badania klinicznego skierowanego do Rzeczypospolitej Polskiej, obejmującego jedno państwo członkowskie, ocena etyczna tego badania jest przekazywana do Prezesa Urzędu terminie nie dłuższym niż 35 dni od daty państwo członkowskie pełniące rolę sprawozdawcy, nieprzekraczającym 12 dni od dnia otrzymania wniosku o dodatkowe informacje. Ostateczna ocena etyczna badania klinicznego jest przekazywana Prezesowi Urzędu terminie 12 dni od dnia złożenia dodatkowych informacji przez sponsora.
+- **2)** bierze udział przygotowaniu sprawozdania z oceny objętej częścią I, przypadku gdy Rzeczpospolita Polska jest zainteresowanym państwem członkowskim. członkowskie, ocena etyczna tego badania jest przekazywana do Prezesa Urzędu terminie nie dłuższym niż 35 dni od daty walidacji wniosku. W przypadku pytań zespołu opiniującego, o którym mowa art. 30 ust. 1, Prezes Urzędu przekazuje je niezwłocznie sponsorowi. Sponsor przekazuje dodatkowe informacje, o które wnioskowano, terminie określonym przez państwo członkowskie pełniące rolę sprawozdawcy, nieprzekraczającym 12 dni od dnia otrzymania wniosku o dodatkowe informacje. Ostateczna ocena etyczna badania klinicznego jest przekazywana Prezesowi Urzędu terminie 12 dni od dnia złożenia dodatkowych informacji przez sponsora.
 
 2. W przypadku gdy badanie kliniczne jest skierowane do wielu państw, a Rzeczpospolita Polska pełni rolę państwa sprawozdawcy, ocena etyczna tego badania jest przekazywana do Prezesa Urzędu terminie nie dłuższym niż 21 dni od daty walidacji wniosku. W przypadku pytań zespołu opiniującego, o którym mowa art. 30 ust. 1, są one umieszczane przez Prezesa Urzędu raporcie przekazanym innym państwom do oceny skoordynowanej, o której mowa art. 6 ust. 5 lit. b rozporządzenia 536/2014. Przepis ust. 1 zdanie trzecie i czwarte stosuje się.
 
@@ -355,6 +585,9 @@ Art. 80–88. (pominięte)
 4. W przypadku gdy badanie kliniczne jest skierowane do wielu państw, a Rzeczpospolita Polska nie pełni roli państwa sprawozdawcy, ocena etyczna tego badania jest przekazywana do Prezesa Urzędu terminie nie dłuższym niż 25 dni od daty walidacji wniosku. W przypadku pytań zespołu opiniującego, o którym mowa art. 30 ust. 1, są one przekazywane państwu sprawozdawcy na etapie oceny skoordynowanej, o której mowa art. 18 ust. 4 lit. b rozporządzenia 536/2014. Przepis art. 25 zdanie czwarte i piąte stosuje się.
 
 **Art. 28.** W zakresie czynności określonych art. 20 rozporządzenia 536/2014 Prezes Urzędu jest odpowiedzialny za przygotowanie sprawozdania z oceny sprawie istotnej zmiany aspekcie objętym częścią II sprawozdania z oceny wniosku o pozwolenie na badanie kliniczne. Zainteresowane państwo członkowskie terminie 38 dni od dnia złożenia dokumentacji wniosku przygotowuje raport z części II dokumentacji. Ocena etyczna badania klinicznego jest przekazywana Prezesowi Urzędu terminie 30 dni od daty walidacji. Przepis art. 25 zdanie czwarte i piąte stosuje się.
+
+- **1)** elementem dokumentacji stanowiącej podstawę wydania decyzji Prezesa Urzędu wynikającą z art. 8, art. 14, art. 19 i art. 20 rozporządzenia 536/2014;
+- **2)** sporządzana języku polskim i języku angielskim na formularzach przygotowanych przez Komisję Europejską na potrzeby rozporządzenia 536/2014.
 
 **Art. 30.**
 
@@ -384,9 +617,40 @@ Art. 80–88. (pominięte)
 
 **Art. 31.** Zespół opiniujący, który sporządził dla danego badania klinicznego ocenę etyczną, o której mowa art. 22 pkt 1, jest wyznaczany do realizacji zadań określonych art. 22 pkt związanych z tym badaniem klinicznym. W przypadku gdy ocenę etyczną badania klinicznego sporządził zespół opiniujący wyznaczonej komisji bioetycznej, która została skreślona z listy komisji bioetycznych:
 
+- **1)** zadania określone art. 22 pkt wykonuje zespół opiniujący Naczelnej Komisji Bioetycznej albo zespół opiniujący innej wyznaczonej komisji bioetycznej;
+- **2)** przewodniczący komisji bioetycznej skreślonej z listy komisji bioetycznych przekazuje zespołowi opiniującemu, o którym mowa pkt 1, dokumenty i informacje niezbędne do realizacji zadań określonych art. 22 pkt terminie 3 dni roboczych od dnia otrzymania wniosku. linii prostej, przedstawiciel, o którym mowa art. 30 ust. 3, ekspert, o którym mowa art. 30 ust. 4 i 5, oraz osoba, z którą członek zespołu opiniującego, przedstawiciel lub ekspert pozostaje we wspólnym pożyciu, nie mogą:
+- **1)** wykonywać działalności gospodarczej lub być członkami organów spółek handlowych lub przedstawicielami przedsiębiorców wykonujących działalność gospodarczą, zakresie prowadzenia badań klinicznych, z wyłączeniem pełnienia roli badacza oraz roli badacza będącego sponsorem badania niekomercyjnego;
+- **2)** być członkami organów spółdzielni, stowarzyszeń lub fundacji wykonujących działalność, o której mowa pkt 1;
+- **3)** posiadać akcji lub udziałów spółkach handlowych wykonujących działalność, o której mowa pkt 1, oraz udziałów spółdzielniach wykonujących działalność, o której mowa pkt 1;
+- **4)** być osobami odpowiedzialnymi za planowanie lub przeprowadzenie badania klinicznego będącego przedmiotem oceny etycznej;
+- **5)** prowadzić badania klinicznego objętego postępowaniem sprawie sporządzenia oceny etycznej badania klinicznego lub uczestniczyć przeprowadzaniu tego badania klinicznego oraz być zatrudnieni ośrodku badań klinicznych, którym ma być prowadzone badanie kliniczne, którego dotyczy ocena;
+- **6)** być zatrudnieni podmiotach, o których mowa pkt 1–3.
+
+2. Oświadczenie o braku okoliczności określonych ust. 1, pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, zwane dalej „oświadczeniem”:
+
+- **1)** członek zespołu opiniującego składa przewodniczącemu Naczelnej Komisji Bioetycznej albo przewodniczącemu wyznaczonej komisji bioetycznej przed powołaniem skład zespołu;
+- **2)** przedstawiciel, o którym mowa art. 30 ust. 3, oraz ekspert, o którym mowa art. 30 ust. 4 i 5, składa przewodniczącemu Naczelnej Komisji Bioetycznej albo przewodniczącemu wyznaczonej komisji bioetycznej przed sporządzeniem opinii, o których mowa tych przepisach.
+
+3. Oświadczenie zawiera klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+4. W przypadku wątpliwości zakresie zgodności ze stanem faktycznym złożonego oświadczenia przewodniczący Naczelnej Komisji Bioetycznej lub wyznaczonej komisji bioetycznej przekazuje do Centralnego Biura Antykorupcyjnego oświadczenie do weryfikacji.
+
+5. W przypadku wystąpienia okoliczności, o których mowa ust. 1:
+
+- **1)** przewodniczący Naczelnej Komisji Bioetycznej lub wyznaczonej komisji bioetycznej odwołuje członka ze składu zespołu opiniującego takim przypadku powołuje się nowego członka zespołu opiniującego;
+- **2)** przewodniczący zespołu opiniującego zasięga opinii innego przedstawiciela, o którym mowa art. 30 ust. 3, lub eksperta, o którym mowa art. 30 ust. 4 i 5.
+
+6. Oświadczenie zawiera:
+
+- **1)** imię i nazwisko członka zespołu opiniującego, przedstawiciela, o którym mowa art. 30 ust. 3, oraz eksperta, o którym mowa art. 30 ust. 4 i 5;
+- **2)** informacje podmiotów wskazanych pkt 1 o niezachodzeniu okoliczności, o których mowa ust. 1, stosunku do tych podmiotów;
+- **3)** informację o niezachodzeniu okoliczności, o których mowa ust. 1, odniesieniu do małżonka, rodzeństwa, krewnych i powinowatych do drugiego stopnia linii prostej członka zespołu opiniującego, przedstawiciela, o którym mowa art. 30 ust. 3, oraz eksperta, o którym mowa art. 30 ust. 4 i 5, oraz do osoby, z którą członek zespołu opiniującego, przedstawiciel lub ekspert pozostaje we wspólnym pożyciu.
+
+7. Minister właściwy do spraw zdrowia określi, drodze rozporządzenia, wzór oświadczenia, biorąc pod uwagę zapewnienie przejrzystości działania zespołu opiniującego oraz przedstawicieli, o których mowa art. 30 ust. 3, i ekspertów, o których mowa art. 30 ust. 4 i 5.
+
 **Art. 33.**
 
-1. Zespół opiniujący przyjmuje ocenę etyczną badania klinicznego, drodze uchwały, większością 3/4 głosów głosowaniu jawnym. Członek zespołu opiniującego nie może wstrzymać się od głosowania. Nieosiągnięcie wymaganej większości głosów skutkuje negatywną oceną etyczną badania klinicznego. zamieszcza się decyzji Prezesa Urzędu.
+1. Zespół opiniujący przyjmuje ocenę etyczną badania klinicznego, drodze uchwały, większością 3/4 głosów głosowaniu jawnym. Członek zespołu opiniującego nie może wstrzymać się od głosowania. Nieosiągnięcie wymaganej większości głosów skutkuje negatywną oceną etyczną badania klinicznego. jętej uchwale, ma prawo do sporządzenia zdania odrębnego, które stanowi załącznik do uchwały. Zdania odrębnego nie zamieszcza się decyzji Prezesa Urzędu.
 
 3. Do uchwały, o której mowa ust. 1, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
 
@@ -522,7 +786,7 @@ Art. 80–88. (pominięte)
 
 4. Wniosek o zwrot wpłaty składa się do Rzecznika Praw Pacjenta postaci papierowej lub elektronicznej. Wniosek zawiera dane podmiotu ubiegającego się o zwrot wpłaty oraz powód zwrotu wpłaty, o którym mowa ust. 2, wraz z uzasadnieniem. Do wniosku dołącza się dowód uiszczenia wpłaty, o której mowa ust. 1.
 
-5. Rzecznik Praw Pacjenta dokonuje zwrotu wpłaty terminie 30 dni od dnia otrzymania kompletnego wniosku.
+5. Rzecznik Praw Pacjenta dokonuje zwrotu wpłaty terminie 30 dni od dnia otrzymania kompletnego wniosku. cych badany produkt leczniczy lub znajdujących się grupie kontrolnej i wynosi równowartość złotych:
 
 - **1)** do 20 osób 2000 euro;
 - **2)** od 21 do 50 osób 4000 euro;
@@ -843,6 +1107,20 @@ Art. 80–88. (pominięte)
 
 **Art. 62.** Inspekcja badań klinicznych obejmuje czynności określone art. 6 i art. 10 rozporządzenia wykonawczego Komisji (UE) 2017/556 z dnia 24 marca 2017 r. sprawie szczegółowych ustaleń dotyczących procedur inspekcji zakresie dobrej praktyki klinicznej na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 536/2014 (Dz. Urz. UE L 80 z 25.03.2017, str. 7), zwanego dalej „rozporządzeniem 2017/556”, mające na celu sprawdzenie:
 
+- **1)** zgodności prowadzonego badania klinicznego z pozwoleniem wydanym przez Prezesa Urzędu;
+- **2)** przestrzegania warunków pozwolenia, o którym mowa pkt 1;
+- **3)** realizacji, trakcie badania klinicznego, obowiązków wynikających z wymagań Dobrej Praktyki Klinicznej przez podmioty biorące udział badaniu;
+- **4)** wyrażenia przez uczestników badania klinicznego świadomej zgody;
+- **5)** warunków, jakich badanie kliniczne jest planowane, przeprowadzane, monitorowane i zapisywane;
+- **6)** wykorzystywanych badaniu klinicznym pomieszczeń i sprzętu;
+- **7)** zgodności prowadzenia badania klinicznego z protokołem badania klinicznego i z zaakceptowanymi zmianami tego protokołu przez Prezesa Urzędu;
+- **8)** sposobu dokumentowania danych i przechowywania dokumentacji dotyczącej badania klinicznego;
+- **9)** procedur zarządzania badaniem klinicznym;
+- **10)** wykonania zaleceń poinspekcyjnych zawartych raporcie z inspekcji badań klinicznych, o którym mowa art. 70 ust. 1, dotyczących wdrożenia przez sponsora lub badacza działań naprawczych i zapobiegawczych;
+- **11)** innych aspektów mających znaczenie dla oceny prawidłowości prowadzonego badania klinicznego. zgodnie z art. 3 ust. 1 tego rozporządzenia.
+
+2. Procedury, o których mowa art. 7 ust. 1 rozporządzenia 2017/556, Prezes Urzędu udostępnia publicznie Biuletynie Informacji Publicznej Urzędu go obsługującego.
+
 **Art. 64.**
 
 1. Inspekcja badań klinicznych może być przeprowadzana:
@@ -859,7 +1137,22 @@ Art. 80–88. (pominięte)
 
 **Art. 65.** Inspektor przeprowadza inspekcję badań klinicznych na podstawie upoważnienia Prezesa Urzędu zawierającego:
 
+- **1)** wskazanie podstawy prawnej;
+- **2)** oznaczenie organu;
+- **3)** datę i miejsce wystawienia;
+- **4)** imię i nazwisko inspektora upoważnionego do przeprowadzenia inspekcji oraz numer jego legitymacji służbowej;
+- **5)** oznaczenie podmiotu objętego inspekcją;
+- **6)** określenie zakresu przedmiotowego inspekcji;
+- **7)** wskazanie daty rozpoczęcia i przewidywanego terminu zakończenia inspekcji;
+- **8)** podpis osoby udzielającej upoważnienia;
+- **9)** pouczenie o prawach i obowiązkach podmiotu objętego inspekcją.
+
 **Art. 66.** Inspekcję badań klinicznych przeprowadza się zgodnie z planem inspekcji, który zawiera:
+
+- **1)** imię i nazwisko inspektora oraz eksperta, o którym mowa art. 74 ust. 1, jeżeli dotyczy;
+- **2)** oznaczenie podmiotu objętego inspekcją oraz określenie miejsc, których zostanie przeprowadzona inspekcja;
+- **3)** datę i godzinę rozpoczęcia inspekcji;
+- **4)** cel i zakres przedmiotowy inspekcji.
 
 **Art. 67.**
 
@@ -871,7 +1164,7 @@ Art. 80–88. (pominięte)
 
 1. Inspektor, nie później niż na 15 dni przed planowanym terminem rozpoczęcia inspekcji badań klinicznych, przekazuje za pomocą środków komunikacji elektronicznej podmiotowi objętemu inspekcją oraz sponsorowi plan inspekcji, o którym mowa art. 66, wraz z kopią upoważnienia wydanego przez Prezesa Urzędu, o którym mowa art. 65.
 
-2. Podmiot objęty inspekcją badań klinicznych może zgłosić zastrzeżenia do planu inspekcji, o którym mowa art. 66. Zastrzeżenia rozstrzyga się przed rozpoczęciem inspekcji badań klinicznych. Prawo do składania zastrzeżeń nie przysługuje przypadku inspekcji badań klinicznych przeprowadzanej bez zapowiedzi.
+2. Podmiot objęty inspekcją badań klinicznych może zgłosić zastrzeżenia do planu inspekcji, o którym mowa art. 66. Zastrzeżenia rozstrzyga się przed rozpoczęciem inspekcji badań klinicznych. Prawo do składania zastrzeżeń nie przysługuje przypadku inspekcji badań klinicznych przeprowadzanej bez zapowiedzi. przez Prezesa Urzędu, o którym mowa art. 65.
 
 2. Inspekcję badań klinicznych rozpoczyna spotkanie inspektora z osobami, o których mowa art. 70 ust. 5 pkt 5, mające na celu szczegółowe omówienie zakresu przedmiotowego inspekcji.
 
@@ -918,11 +1211,14 @@ Art. 80–88. (pominięte)
 
 1. W przypadku stwierdzonych i udokumentowanych raporcie z inspekcji badań klinicznych nieprawidłowości lub uchybień Prezes Urzędu, terminie 14 dni od dnia otrzymania od inspektora tego raportu, doręcza sponsorowi oraz badaczowi lub innemu podmiotowi objętemu inspekcją raport z inspekcji badań klinicznych wraz z wnioskiem o usunięcie stwierdzonych nieprawidłowości lub uchybień terminie nie dłuższym niż 30 dni od dnia otrzymania tego wniosku.
 
-2. W przypadku gdy rodzaj i zakres zaleceń poinspekcyjnych tego wymaga, Prezes Urzędu może wyznaczyć termin usunięcia stwierdzonych nieprawidłowości dłuższy niż 30 dni, jednak nie dłuższy niż 90 dni.
+2. W przypadku gdy rodzaj i zakres zaleceń poinspekcyjnych tego wymaga, Prezes Urzędu może wyznaczyć termin usunięcia stwierdzonych nieprawidłowości dłuższy niż 30 dni, jednak nie dłuższy niż 90 dni. poinspekcyjnych albo o przyczynach ich niewykonania.
 
 4. W przypadku gdy stwierdzone i udokumentowane raporcie z inspekcji badań klinicznych nieprawidłowości i uchybienia dotyczą finansowania świadczeń zdrowotnych ze środków publicznych, Prezes Urzędu, terminie 14 dni od dnia otrzymania tego raportu od inspektora, doręcza raport z inspekcji badań klinicznych Prezesowi Narodowego Funduszu Zdrowia.
 
 **Art. 72.** W przypadku organizowania inspekcji poza Unią Europejską, o którym mowa art. 7 ust. 1 lit. b rozporządzenia 2017/556:
+
+- **1)** osoby przeprowadzające inspekcję prowadzą działania zgodnie z ustawą;
+- **2)** dokumenty przekazywane podmiotowi objętemu inspekcją są sporządzane języku angielskim.
 
 **Art. 73.**
 
@@ -944,7 +1240,15 @@ Art. 80–88. (pominięte)
 
 **Art. 77.** Kto:
 
-**Art. 78.** Kto, prowadzi badanie kliniczne po wydaniu decyzji o zawieszeniu badania klinicznego lub cofnięciu pozwolenia na badanie kliniczne, podlega grzywnie. podlega karze grzywny. 2. Orzekanie sprawach o czyny, o których mowa ust. 1, następuje trybie przepisów ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, 1178 i 1661).
+- **1)** wbrew przepisom art. 28 ust. 1 lit. b oraz c, ust. i 3, art. 29–32 lub art. 35 rozporządzenia 536/2014, prowadzi badanie kliniczne bez świadomej zgody uczestnika badania klinicznego lub jego przedstawiciela ustawowego,
+- **2)** wbrew przepisom art. 31–33 rozporządzenia 536/2014 badaniu klinicznym stosuje zachęty lub gratyfikacje finansowe,
+- **3)** wbrew przepisowi art. 4 przeprowadza badanie kliniczne z udziałem żołnierza czynnej służbie wojskowej, innej osoby pozostającej zależności hierarchicznej ograniczającej swobodę dobrowolnego wyrażania zgody lub osoby pozbawionej wolności albo poddanej detencji,
+- **4)** dokonuje istotnych i mających wpływ na bezpieczeństwo uczestników badania klinicznego zmian protokole badania klinicznego lub dokumentacji składanej postępowaniu o wydanie pozwolenia na prowadzenie tego badania, bez pozwolenia określonego art. 19 lub art. 23 rozporządzenia 536/2014 lub wbrew jego warunkom,
+- **5)** narusza określony art. 6 ust. zakaz dokonywania czynności prawnych,
+- **6)** rozpoczyna lub prowadzi badania kliniczne bez wymaganej decyzji, o której mowa art. 8 rozporządzenia 536/2014, lub wbrew jej warunkom,
+- **7)** nie dokonuje zgłoszenia, o którym mowa art. 42 lub art. 52 rozporządzenia 536/2014, albo nie obejmuje zgłoszeniem wszystkich danych, o których mowa art. 42 ust. 1 tego rozporządzenia, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+
+**Art. 78.** Kto, prowadzi badanie kliniczne po wydaniu decyzji o zawieszeniu badania klinicznego lub cofnięciu pozwolenia na badanie kliniczne, podlega grzywnie. minów wskazanych tych przepisach, podlega karze grzywny. 2. Orzekanie sprawach o czyny, o których mowa ust. 1, następuje trybie przepisów ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, 1178 i 1661).
 
 #### Rozdział 12 Zmiany przepisach
 
@@ -982,7 +1286,7 @@ Art. 80–88. (pominięte)
 
 4. W okresie 3 miesięcy od dnia wejścia życie art. 81 pkt 1 i 3 koszty działalności Naczelnej Komisji Bioetycznej mogą być finansowane także z dotacji podmiotowej, o której mowa art. 28 ust. 1 pkt ustawy zmienianej art. 88.
 
-5. W roku 2023 maksymalny limit wydatków na koszty działalności Naczelnej Komisji Bioetycznej, o których mowa art. 17 ust. 3, wynosi 4,1 mln zł. W roku 2024 maksymalny limit wydatków na koszty, o których mowa art. 17 ust. 3, wynosi 2,3 mln zł.
+5. W roku 2023 maksymalny limit wydatków na koszty działalności Naczelnej Komisji Bioetycznej, o których mowa art. 17 ust. 3, wynosi 4,1 mln zł. W roku 2024 maksymalny limit wydatków na koszty, o których mowa art. 17 ust. 3, wynosi 2,3 mln zł. Rzecznika Praw Pacjenta będących konsekwencją wejścia życie art. 44–56 wynosi 1,0 mln zł, przy czym:
 
 - **1)** 2023 r. 0,1 mln zł;
 - **2)** 2024 r. 0,1 mln zł;
@@ -1013,4 +1317,8 @@ Art. 80–88. (pominięte)
 4. Organem właściwym do monitorowania wykorzystania limitu wydatków, o których mowa ust. 1 i 2, oraz wdrożenia mechanizmu korygującego, o którym mowa ust. 3, jest Rzecznik Praw Pacjenta.
 
 **Art. 93.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 15, art. 81 pkt 1 i 3, art. 88 pkt 1 zakresie art. pkt 5, pkt zakresie art. 15 ust. 1 pkt 7, pkt 4 lit. b oraz art. 91, które wchodzą życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 87 pkt 2, który wchodzi życie po upływie 3 miesięcy od dnia ogłoszenia.
+
 

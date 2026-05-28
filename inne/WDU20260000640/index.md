@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# o zmianie ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz ustawy o rachunkowości
-
-*USTAWA z dnia 27 marca 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 maja 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,19 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2026-03-27 |
 | Data wydania | 2026-05-13 |
-| Ostatnia zmiana | 2026-05-14 |
+| Wejście w życie | 2026-05-28 |
+| Ostatnia zmiana | 2026-05-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000640) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/640/text.pdf) |
 
+Poz. 640
+USTAWA z dnia 27 marca 2026 r.
+o zmianie ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz ustawy o rachunkowości
+
 **Art. 1.** W ustawie z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2025 r. poz. 1891) wprowadza się następujące zmiany:
+
+- **1)** uchyla się art. 136;
+- **2)** w art. 136a w ust. 4 skreśla się wyrazy „oraz w art. 136 ust. 1”;
+- **3)** w art. 182 w ust. 1 w pkt 4 skreśla się wyrazy „oraz art. 136”.
 
 **Art. 2.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2026 r. poz. 522) w art. 66 w ust. 6 pkt 1 otrzymuje brzmienie: „1) art. 69 ust. 6, 7 i 9, art. 70, art. 72 ust. 2 i art. 135 ust. 2 ustawy o biegłych rewidentach,”.
 

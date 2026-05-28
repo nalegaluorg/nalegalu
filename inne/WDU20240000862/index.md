@@ -8,10 +8,10 @@ pos: 862
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# dnia 15 maja 2024 r.
+# Ustawa z dnia 15 maja 2024 r. o zmianie ustawy o zasadach prowadzenia polityki rozwoju oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -22,18 +22,165 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2024-05-15 |
 | Data wydania | 2024-06-12 |
+| Wejście w życie | 2024-06-27 |
 | Ostatnia zmiana | 2024-06-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000862) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/862/text.pdf) |
 
-zmianie ustawy zasadach prowadzenia polityki rozwoju niektórych innych ustaw
+1.
+Projekt planu społeczno-klimatycznego opracowuje minister właściwy do spraw rozwoju regionalnego w porozumieniu z właściwymi ministrami i we współpracy z zarządami województw oraz partnerami społecznymi i gospodarczymi.
+2.
+Plan społeczno-klimatyczny jest przyjmowany przez Radę Ministrów, w drodze uchwały, na wniosek ministra właściwego do spraw rozwoju regionalnego, przed przekazaniem do Komisji Europejskiej zgodnie z art. 4 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/955 z dnia 10 maja 2023 r. w sprawie ustanowienia Społecznego Funduszu Klimatycznego i zmieniającego rozporządzenie (UE) 2021/1060.
+3.
+Przy opracowywaniu projektu planu społeczno-klimatycznego uwzględnia się strategie rozwoju, o których mowa w art. 9.
+4.
+Minister właściwy do spraw rozwoju regionalnego, po podjęciu przez Komisję Europejską decyzji wykonawczej, o której mowa w art. 17 ust. 1 rozporządzenia, o którym mowa w ust. 2:
+1)
+podaje tę decyzję do publicznej wiadomości na swojej stronie internetowej;
+2)
+ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” komunikat o adresie strony internetowej, o której mowa w pkt 1, a także o terminie, od którego decyzja, o której mowa w pkt 1, jest stosowana.
+5.
+Przepisy ust. 1–4 stosuje się odpowiednio w przypadku zmiany planu społeczno-klimatycznego.
+1.
+W zakresie, w jakim w ramach planu społeczno-klimatycznego jest udzielana pomoc publiczna w rozumieniu art. 107 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej lub pomoc de minimis , mają zastosowanie szczegółowe warunki i tryb udzielania pomocy.
+2.
+Pomoc, o której mowa w ust. 1, jest udzielana z zachowaniem zasady niedyskryminacji i przejrzystości, w zakresie niezbędnym do realizacji celów określonych w planie społeczno-klimatycznym.
+3.
+Podmiotami udzielającymi pomocy, o której mowa w ust. 1, są podmioty, o których mowa w art. 2 pkt 12 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej.
+4.
+Podmiotami udzielającymi pomocy mogą być również inne podmioty określone w przepisach wykonawczych wydanych na podstawie ust. 5.
+5.
+Minister właściwy do spraw rozwoju regionalnego może określić, w drodze rozporządzenia, szczegółowe przeznaczenie, warunki i tryb udzielania pomocy, o której mowa w ust. 1, a także podmioty udzielające tej pomocy, uwzględniając konieczność zapewnienia zgodności tej pomocy z rynkiem wewnętrznym, efektywnego i skutecznego jej wykorzystania oraz przejrzystości jej udzielania, w przypadku gdy odrębne przepisy nie określają szczegółowego przeznaczenia, warunków lub trybu udzielania tej pomocy.
+6.
+Szczegółowe przeznaczenie, warunki i tryb udzielania pomocy, o której mowa w ust. 1, nieobjętej przepisami wykonawczymi wydanymi na podstawie ust. 5, lub innymi przepisami określa umowa o dofinansowanie projektu, decyzja o dofinansowaniu projektu lub akt będący podstawą jej udzielenia.
+” .
 
-**Art. 1.** W ustawie dnia 6 grudnia 2006 r. zasadach prowadzenia polityki rozwoju (Dz. U. 2024 r. poz. 324) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2024 r. poz. 324) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 4 września 1997 r. działach administracji rządowej (Dz. U. 2022 r. poz. 2512, 2023 r. poz. 2029 2024 r. poz. 834) 23a 1 3 otrzymuje brzmienie: „3) opracowywania dokumentów programowych zakresu społeczno-gospodarczego, regionalnego przestrzennego rozwoju kraju, planów rozwojowych planów społeczno-klimatycznych, tym będących podstawą pozyskiwania środków rozwojowych Unii Europejskiej innych źródeł zagranicznych;”.
+- **1)** w art. 5 po pkt 7aa dodaje się pkt 7ab w brzmieniu: „ 7ab) plan społeczno-klimatyczny – dokument, o którym mowa w art. 4 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/955 z dnia 10 maja 2023 r. w sprawie ustanowienia Społecznego Funduszu Klimatycznego i zmieniającego rozporządzenie (UE) 2021/1060 (Dz. Urz. UE L 130 z 16.05.2023, str. 1), stanowiący podstawę realizacji środków i inwestycji objętych wsparciem ze środków Społecznego Funduszu Klimatycznego, o którym mowa w art. 1 tego rozporządzenia; ” ;
+- **2)** w art. 14le w ust. 3 pkt 4 otrzymuje brzmienie: „
+- **4)** wysokość środków przeznaczonych na realizację inwestycji wyrażoną: w złotych, w złotych lub w euro, w zależności od waluty, w jakiej przewidziano finansowanie inwestycji – w przypadku inwestycji realizowanych w formie, o której mowa w art. 14ll ust. 2 pkt 1 w tym wysokość środków przeznaczonych na wydatki ponoszone na realizację działań, o których mowa w pkt 2, przez instytucję odpowiedzialną za realizację inwestycji lub jednostkę wspierającą plan rozwojowy; ” ;
+    - **a)**
+    - **b)**
 
-**Art. 3.** W ustawie dnia 15 lipca 2020 r. zmianie ustawy zasadach prowadzenia polityki rozwoju niektórych innych ustaw (Dz. U. poz. 1378 2022 r. poz. 1079) wprowadza się następujące zmiany:
+- **3)** w art. 14lj: w ust. 1 w pkt 3 skreśla się wyrazy „- w zakresie inwestycji finansowanych w formie pożyczek, o których mowa w art. 14ll ust. 2 pkt 1”, w ust. 2 po pkt 9 dodaje się pkt 9a w brzmieniu: „
+    - **a)**
+    - **b)**
 
-**Art. 4.** W przypadku powierzenia przez instytucję realizację części zadań związanych realizacją B2.1.1, której załączniku decyzji wykonawczej Rady (UE), wydanej podstawie 20 1 Parlamentu Europejskiego Rady (UE) 2021/241 dnia 12 lutego 2021 r. ustanawiającego Instrument rzecz Odbudowy Zwiększania Odporności (Dz. Urz. UE L 57 18.02.2021, str. 17, późn. zm. ), Bankowi Gospodarstwa Krajowego jako jednostce wspierającej plan rozwojowy, zlecenia wypłaty, których 14lp 1 2 ustawy zmienianej 1, mogą obejmować również środki przeznaczone dla ostatecznych odbiorców wsparcia, zgodnie umową, której 14li 1 ustawy zmienianej 1.
+- **9a)** warunki i terminy zwrotu środków, w tym środków nieprawidłowo wykorzystanych lub pobranych w nadmiernej wysokości lub w sposób nienależny; ” ;
+- **4)** po art. 14lj dodaje się art. 14lja w brzmieniu: „ Art. 14lja.
 
-**Art. 5.** Ustawa wchodzi życie po upływie 14 dni dnia ogłoszenia.
+1. Podmioty realizujące zadania związane z realizacją inwestycji, o których mowa w art. 14ll ust. 2 pkt 1, mogą zaciągać zobowiązania w danym roku, zgodnie z umowami o objęcie przedsięwzięcia wsparciem zwrotnym zawartymi z ostatecznymi odbiorcami wsparcia, do wysokości środków przeznaczonych na realizację inwestycji określonej w porozumieniach, o których mowa w art. 14le ust. 2 pkt 2, jednak nie wyższej niż kwota, do której mogą być udzielane pożyczki w danym roku, określonej w ustawie budżetowej na ten rok, z uwzględnieniem art. 14ll ust. 7.
+
+2. Minister właściwy do spraw rozwoju regionalnego dokonuje podziału kwoty, do której mogą być udzielane pożyczki w danym roku, określonej w ustawie budżetowej na ten rok, na poszczególne inwestycje, o których mowa w art. 14ll ust. 2 pkt 1, informując o tym instytucje odpowiedzialne za realizację tych inwestycji oraz ministra właściwego do spraw finansów publicznych.
+
+3. Minister właściwy do spraw rozwoju regionalnego przedstawia ministrowi właściwemu do spraw finansów publicznych w terminie do 20. dnia miesiąca następującego po zakończeniu kwartału informację o wysokości zobowiązań wynikających z umów, o których mowa w ust. 1. ” ;
+
+- **5)** w art. 14ll: po ust. 6 dodaje się ust. 6a w brzmieniu: „
+    - **a)**
+
+6a. Minister właściwy do spraw finansów publicznych może udzielić zapewnienia finansowania z rezerwy celowej, o której mowa w ust. 4, zgodnie z art. 153 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, do kwoty wskazanej w ust. 6, jednak nie wyższej niż limit ustalony dla tych inwestycji, zgodnie z ust. 7a pkt 2. ” , ust. 7 otrzymuje brzmienie: „
+
+- **b)**
+
+7. Inwestycje, o których mowa w ust. 2 pkt 1, mogą być finansowane:
+
+- **1)** w złotych lub
+- **2)** w euro zgodnie z porozumieniami, o których mowa w art. 14le ust. 2 pkt 2, do wysokości kwot pożyczki, o której mowa w art. 6 ust. 1 lit. b rozporządzenia 2021/241, ustalonej z uwzględnieniem zasad określonych w ust. 7a-7c. ” , po ust. 7 dodaje się ust. 7a-7d w brzmieniu: „
+    - **c)**
+
+7a. Minister właściwy do spraw rozwoju regionalnego pisemnie:
+
+- **1)** określa, jaka część kwoty pożyczki, o której mowa w art. 6 ust. 1 lit. b rozporządzenia 2021/241, ma być przeznaczona na finansowanie inwestycji, o których mowa w ust. 2 pkt 1, w złotych, a jaka – w euro,
+- **2)** ustala dla instytucji odpowiedzialnej za realizację inwestycji limit środków na realizację inwestycji w formach, o których mowa w ust. 2 w terminie 14 dni od dnia przekazania środków pożyczki, o której mowa w art. 6 ust. 1 lit. b rozporządzenia 2021/241, na rachunek, o którym mowa w art. 14lm ust. 4.
+
+7b. Finansowanie inwestycji, o którym mowa w ust. 7 pkt 1, nie może przekroczyć kwoty w złotych stanowiącej równowartość kwoty pożyczki, o której mowa w art. 6 ust. 1 lit. b rozporządzenia 2021/241, przekazywanej na rachunek, o którym mowa w art. 14lm ust. 4, przeznaczonej na finansowanie inwestycji w złotych, przeliczonej według kursu średniego euro Narodowego Banku Polskiego ogłoszonego dwa dni operacyjne przed datą ich wpływu na rachunek, o którym mowa w art. 14lm ust. 1, przy czym przez dni operacyjne rozumie się dni robocze od poniedziałku do piątku, w których Narodowy Bank Polski przyjmuje i realizuje zlecenia płatnicze i inne dyspozycje posiadaczy rachunków bankowych.
+
+7c. Finansowanie inwestycji, o którym mowa w ust. 7 pkt 2, nie może przekroczyć kwoty pożyczki, o której mowa w art. 6 ust. 1 lit. b rozporządzenia 2021/241, przekazywanej na rachunek, o którym mowa w art. 14lm ust. 4, przeznaczonej na finansowanie inwestycji w euro.
+
+7d. Minister właściwy do spraw rozwoju regionalnego nadzoruje wykorzystanie limitów kwot pożyczki, o których mowa w ust. 7b i 7c. ” ;
+
+- **6)** w art. 14lm ust. 3 otrzymuje brzmienie: „
+
+3. Minister właściwy do spraw rozwoju regionalnego opracowuje corocznie harmonogram realizacji przychodów, rozchodów oraz dochodów w zakresie inwestycji finansowanych w formie, o której mowa w art. 14ll ust. 2 pkt 1, na dany rok budżetowy i przekazuje ten harmonogram ministrowi właściwemu do spraw finansów publicznych w terminie do dnia 10 grudnia roku poprzedzającego rok budżetowy. W trakcie roku budżetowego harmonogram podlega aktualizacji. ” ;
+
+- **7)** w art. 14ln w ust. 1 w pkt 2 lit. d otrzymuje brzmienie: „ Bankowi Gospodarstwa Krajowego lub Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej, ” ;
+    - **d)**
+
+- **8)** w art. 14lp: w ust. 1 pkt 3 otrzymuje brzmienie: „
+    - **a)**
+
+- **3)** Bankowi Gospodarstwa Krajowego lub Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej – jest zlecenie wypłaty wystawione przez instytucję odpowiedzialną za realizację inwestycji. ” , ust. 4 otrzymuje brzmienie: „
+    - **b)**
+
+4. Zlecenia wypłaty, o których mowa w ust. 1 pkt 3, dotyczą środków przekazanych zgodnie z umową, o której mowa w art. 14lj ust. 1 pkt 2 lub 3. ” ;
+
+- **9)** w art. 14lq: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Minister właściwy do spraw finansów publicznych przekazuje środki z budżetu państwa na realizację inwestycji finansowanej w formie, o której mowa w art. 14ll ust. 2 pkt 1:
+
+- **1)** na rachunki prowadzone w złotych – instytucjom odpowiedzialnym za realizację inwestycji,
+- **2)** na rachunek, o którym mowa w art. 14lm ust. 1 – ministrowi właściwemu do spraw rozwoju regionalnego w zależności od waluty, w jakiej inwestycja jest przewidziana do finansowania, zgodnie z porozumieniami, o których mowa w art. 14le ust. 2 pkt 2. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **b)**
+
+1a. Minister właściwy do spraw rozwoju regionalnego przekazuje na rachunki prowadzone w euro instytucjom odpowiedzialnym za realizację inwestycji środki otrzymane z budżetu państwa na realizację inwestycji finansowanej w formie, o której mowa w art. 14ll ust. 2 pkt 1, w euro zgodnie z porozumieniami, o których mowa w art. 14le ust. 2 pkt 2. ” , ust. 2 otrzymuje brzmienie: „
+
+- **c)**
+
+2. Podstawą dokonania przez ministra właściwego do spraw finansów publicznych wypłaty środków, o których mowa w art. 14ll ust. 2 pkt 1:
+
+- **1)** instytucji odpowiedzialnej za realizację inwestycji – jest zlecenie wypłaty wystawione przez instytucję odpowiedzialną za realizację inwestycji oraz każdorazowa zgoda ministra właściwego do spraw rozwoju regionalnego na dokonanie wypłaty;
+- **2)** ministrowi właściwemu do spraw rozwoju regionalnego – jest zlecenie wypłaty wystawione przez tego ministra. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **d)**
+
+2a. Wypłata środków, o których mowa w art. 14ll ust. 2 pkt 1, następuje zgodnie z harmonogramem, o którym mowa w art. 14lm ust. 3. ” , uchyla się ust. 3, po ust. 4 dodaje się ust. 4a i 4b w brzmieniu: „
+
+- **e)**
+- **f)**
+
+4a. Zlecenia wypłaty, o których mowa w ust. 2, uwzględniają środki planowane do przekazania przez instytucję odpowiedzialną za realizację inwestycji zgodnie z art. 14lr, w terminie dwóch dni roboczych od daty wpływu środków na rachunek instytucji odpowiedzialnej za realizację inwestycji. Środki niewykorzystane w terminie określonym w zdaniu pierwszym podlegają zwrotowi na rachunek ministra właściwego do spraw finansów publicznych, z którego zostały przekazane. Środki wypłacone w euro są zwracane za pośrednictwem rachunku ministra właściwego do spraw rozwoju regionalnego, z którego środki te zostały przekazane instytucji odpowiedzialnej za realizację inwestycji.
+
+4b. W przypadku zwrotu środków w złotych minister właściwy do spraw finansów publicznych informuje niezwłocznie ministra właściwego do spraw rozwoju regionalnego o kwocie środków zwróconych na jego rachunek przez instytucję odpowiedzialną za realizację inwestycji i o terminie ich zwrotu. ” , w ust. 5 pkt 2 otrzymuje brzmienie: „
+
+- **g)**
+- **2)** przygotowują dla ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw rozwoju regionalnego zapotrzebowania na środki oraz informacje o wykorzystaniu środków na rachunku własnym i środków przekazanych Bankowi Gospodarstwa Krajowego lub Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej zgodnie z art. 14lr pkt 2 i 3. ” ;
+- **10)** w art. 14ls w ust. 2 w pkt 2 po wyrazach „Bank Gospodarstwa Krajowego” dodaje się wyrazy „lub Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej”;
+- **11)** w art. 14lzi: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. Instytucja odpowiedzialna za realizację inwestycji przekazuje środki, o których mowa w ust. 1 pkt 2:
+
+- **1)** w złotych – na rachunek wskazany przez ministra właściwego do spraw finansów publicznych;
+- **2)** w euro – na rachunek wskazany przez ministra właściwego do spraw rozwoju regionalnego. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **b)**
+
+2a. Środki, o których mowa w ust. 2 pkt 2, minister właściwy do spraw rozwoju regionalnego przekazuje na rachunek wskazany przez ministra właściwego do spraw finansów publicznych. ” ;
+
+- **12)** art. 14lzj otrzymuje brzmienie: „ W celu realizacji, kontroli, audytu i ewaluacji reform i inwestycji na zasadach określonych w ustawie lub rozporządzeniu 2021/241 minister właściwy do spraw rozwoju regionalnego, instytucja odpowiedzialna za realizację reformy, instytucja odpowiedzialna za realizację inwestycji, jednostka wspierająca plan rozwojowy, Bank Gospodarstwa Krajowego, Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej oraz ostateczni odbiorcy wsparcia przetwarzają dane osobowe. ” ;
+- **13)** w art. 14lzl po wyrazach „jednostce wspierającej plan rozwojowy” dodaje się wyrazy „Bankowi Gospodarstwa Krajowego lub Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej”;
+- **14)** po rozdziale 2aa dodaje się rozdział 2ab w brzmieniu: „
+
+#### Rozdział 2ab Plan społeczno-klimatyczny
+
+**Art. 2.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512, z 2023 r. poz. 2029 oraz z 2024 r. poz. 834) w art. 23a w ust. 1 pkt 3 otrzymuje brzmienie: „
+
+- **3)** opracowywania dokumentów programowych z zakresu społeczno-gospodarczego, regionalnego i przestrzennego rozwoju kraju, planów rozwojowych oraz planów społeczno-klimatycznych, w tym będących podstawą do pozyskiwania środków rozwojowych z Unii Europejskiej i innych źródeł zagranicznych; ” .
+
+**Art. 3.** W ustawie z dnia 15 lipca 2020 r. o zmianie ustawy o zasadach prowadzenia polityki rozwoju oraz niektórych innych ustaw (Dz. U. poz. 1378 oraz z 2022 r. poz. 1079) wprowadza się następujące zmiany:
+
+- **1)** uchyla się art. 22;
+- **2)** po art. 22 dodaje się art. 22a w brzmieniu: „
+
+**Art. 22a.** Rada Ministrów przyjmuje koncepcję rozwoju kraju, o której mowa w art. 8a ustawy zmienianej w art. 1, w terminie do dnia 31 grudnia 2024 r. ” ;
+
+- **3)** w art. 31 ust. 1 otrzymuje brzmienie: „
+
+1. Strategie rozwoju województwa, o których mowa w art. 11 ust. 1 ustawy zmienianej w art. 5, tracą moc z dniem 31 grudnia 2026 r., jeżeli do tego dnia nie zostaną dostosowane do wymogów określonych w art. 11 ust. 1aa, 1c i 1ca ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą. ” ;
+
+- **4)** w art. 34 pkt 2 otrzymuje brzmienie: „
+- **2)** art. 1 pkt 40, który wchodzi w życie z dniem 1 stycznia 2027 r.; ” .
+
+**Art. 4.** W przypadku powierzenia przez instytucję odpowiedzialną za realizację inwestycji części zadań związanych z realizacją inwestycji B2.1.1, o której mowa w załączniku do decyzji wykonawczej Rady (UE), wydanej na podstawie art. 20 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/241 z dnia 12 lutego 2021 r. ustanawiającego Instrument na rzecz Odbudowy i Zwiększania Odporności (Dz. Urz. UE L 57 z 18.02.2021, str. 17, z późn. zm.), Bankowi Gospodarstwa Krajowego jako jednostce wspierającej plan rozwojowy, zlecenia wypłaty, o których mowa w art. 14lp ust. 1 pkt 2 ustawy zmienianej w art. 1, mogą obejmować również środki przeznaczone dla ostatecznych odbiorców wsparcia, zgodnie z umową, o której mowa w art. 14li ust. 1 ustawy zmienianej w art. 1.
+
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

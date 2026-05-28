@@ -1,0 +1,50 @@
+---
+title: Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 września 2015 r. zmieniające rozporządzenie w sprawie granicznej kontroli fitosanitarnej drewna opakowaniowego przeprowadzanej w sposób wyrywkowy
+address: WDU20150001577
+eli: DU/2015/1577
+publisher: DU
+year: 2015
+pos: 1577
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 24 września 2015 r. zmieniające rozporządzenie w sprawie granicznej kontroli fitosanitarnej drewna opakowaniowego przeprowadzanej w sposób wyrywkowy
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2015 poz. 1577 |
+| ISAP | WDU20150001577 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2015-09-24 |
+| Data wydania | 2015-10-09 |
+| Wejście w życie | 2015-10-24 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001577) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1577/text.pdf) |
+
+Treść rozporządzenia
+Załącznik – Przedmioty (towary) wprowadzane na terytorium Rzeczypospolitej Polskiej z Chińskiej Republiki Ludowej, w transporcie których zostało użyte drewno opakowaniowe, które jest poddawane granicznej kontroli fitosanitarnej z częstotliwością nie mniejszą niż 15 przesyłek na każde 100 przesyłek
+Treść rozporządzenia
+Na podstawie art. 22 ust. 1b ustawy z dnia 18 grudnia 2003 r. o ochronie roślin (Dz. U. z 2014 r. poz. 621, z późn. zm.) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 22 stycznia 2014 r. w sprawie granicznej kontroli fitosanitarnej drewna opakowaniowego przeprowadzanej w sposób wyrywkowy (Dz. U. poz. 147 oraz z 2015 r. poz. 237) wprowadza się następujące zmiany:
+1)
+w § 3 pkt 1 otrzymuje brzmienie:
+„
+1)
+25 przesyłek na każde 100 przesyłek, w transporcie których zostało użyte drewno opakowaniowe, wprowadzanych na terytorium Rzeczypospolitej Polskiej z państw trzecich, w których stwierdzono występowanie Bursaphelenchus xylophilus (Steiner et Bührer) Nickle et al., w tym 15 przesyłek na każde 100 przesyłek przedmiotów (towarów) pochodzących z Chińskiej Republiki Ludowej, określonych w załączniku nr 2 do rozporządzenia, w transporcie których zostało użyte drewno opakowaniowe;
+” ;
+2)
+uchyla się załącznik nr 1;
+3)
+załącznik nr 2 otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+2) Przepisy niniejszego rozporządzenia wdrażają postanowienia decyzji wykonawczej Komisji (UE) 2015/474/UE z dnia 18 marca 2015 r. zmieniającej decyzję wykonawczą 2013/92/UE w sprawie nadzoru, kontroli zdrowia roślin i środków, które należy podejmować w odniesieniu do drewnianych materiałów opakowaniowych faktycznie stosowanych w transporcie określonych towarów pochodzących z Chin (Dz. Urz. UE L 76 z 20.03.2015, str. 64). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone Dz. U. z 2014 r. poz. 822, 907 i 1662 oraz z 2015 r. poz. 211.
+Załącznik – Przedmioty (towary) wprowadzane na terytorium Rzeczypospolitej Polskiej z Chińskiej Republiki Ludowej, w transporcie których zostało użyte drewno opakowaniowe, które jest poddawane granicznej kontroli fitosanitarnej z częstotliwością nie mniejszą niż 15 przesyłek na każde 100 przesyłek
+Kod nomenklatury scalonej *) Opis 2514 00 00 Łupek, nawet wstępnie obrobiony lub tylko pocięty przez piłowanie lub inaczej na bloki lub płyty o kształcie prostokątnym (włączając kwadratowy) 2515 Marmur, trawertyn, ekausyna i pozostałe wapienne kamienie pomnikowe lub budowlane, o pozornej gęstości 2,5 lub większej, oraz alabaster, nawet wstępnie obrobione lub tylko pocięte, przez piłowanie lub inaczej, na bloki lub płyty o kształcie prostokątnym (włączając kwadratowy) 2516 Granit, porfir, bazalt, piaskowiec i pozostałe kamienie pomnikowe lub budowlane, nawet wstępnie obrobione lub tylko pocięte, przez piłowanie lub inaczej, na bloki lub płyty o kształcie prostokątnym (włączając kwadratowy) 6801 00 00 Kostki brukowe, płyty nawierzchniowe, krawężniki i płyty chodnikowe z kamienia naturalnego (z wyjątkiem łupków) 6802 Obrobione kamienie pomnikowe lub budowlane (z wyjątkiem łupków) i artykuły z nich, inne niż towary objęte pozycją 6801; kostki mozaikowe i tym podobne, z kamieni naturalnych (włącznie z łupkami), nawet na podłożu; sztucznie barwione ziarna, odłamki i proszek, z kamieni naturalnych (włącznie z łupkami) 6803 00 Obrobione łupki i artykuły z łupków lub z łupków aglomerowanych 6908 Płyty chodnikowe, kafle lub płytki ścienne, ceramiczne, szkliwione; kostki mozaikowe i temu podobne, nawet na podłożu, ceramiczne, szkliwione 7210 Wyroby walcowane płaskie z żeliwa lub stali niestopowej, o szerokości 600 mm lub większej, platerowane, powleczone lub pokryte *) Kod nomenklatury scalonej określony zgodnie z przepisami rozporządzenia Rady (EWG) nr 2658/87 z dnia 23 lipca 1987 r. w sprawie nomenklatury taryfowej i statystycznej oraz w sprawie Wspólnej Taryfy Celnej (Dz. Urz. WE L 256 z 07.09.1987, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 2, t. 2, str. 382, z późn. zm.).
+

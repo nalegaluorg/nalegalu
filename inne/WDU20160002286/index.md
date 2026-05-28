@@ -8,10 +8,10 @@ pos: 2286
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Warszawa, dnia 30 grudnia 2016 r.
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracjiz dnia 28 grudnia 2016 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania w sprawie uznania kwalifikacji do wykonywania zawodu detektywa
 
 | Pole | Wartość |
 |---|---|
@@ -22,104 +22,258 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-28 |
 | Data wydania | 2016-12-30 |
+| Wejście w życie | 2017-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002286) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2286/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI dnia 28 grudnia 2016 r.
-sprawie umiejętności toku postępowania sprawie uznania kwalifikacji do wykonywania zawodu detektywa Na podstawie art. 22 ustawy dnia 22 grudnia 2015 r. zasadach uznawania kwalifikacji zawodowych nabytych państwach członkowskich Unii Europejskiej (Dz. U. 2016 r. poz. 65) zarządza się, co następuje: 1 Przepisy ogólne Rozporządzenie określa:
-1) warunki, sposób tryb odbywania sposób tryb wykonywania nadzoru nad jego odbywaniem oceny umiejętności nabytych jego trakcie osobę, która złożyła wniosek, którym mowa art. 13 ust. 1 ustawy dnia 22 grudnia 2015 r. zasadach uznawania kwalifikacji zawodowych nabytych państwach członkowskich Unii Europejskiej, zwaną „wnioskodawcą”, sposób ustalania kosztów odbywania tryb pobierania zwrotu opłaty za jego odbywanie,
-2) warunki, sposób tryb przeprowadzania umiejętności oceny posiadanych wnioskodawcę umiejętności, sposób ustalania kosztów przeprowadzania umiejętności tryb pobierania zwrotu opłaty za jego przeprowadzenie toku postępowania sprawie uznania kwalifikacji zawodowych do wykonywania zawodu detektywa Rzeczypospolitej Polskiej, nabytych innych Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia Wolnym Handlu (EFTA) stronach umowy Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, zwanego „postępowaniem”.
-Ilekroć rozporządzeniu jest mowa „detektywie”, należy to rozumieć osobę posiadającą licencję, której mowa art. 4 ust. 1 ustawy dnia 6 lipca 2001 r. usługach detektywistycznych (Dz. U. 2014 r. poz. 273 822 2015 r. poz. 1893).
-4. Staż adaptacyjny rozpoczyna się terminie uzgodnionym wnioskodawcę przedsiębiorcą.
-zawiadamia organ prowadzący postępowanie terminie rozpoczęcia adaptacyjnego.
-3. Jeżeli staż adaptacyjny nie odbędzie się lub nie być kontynuowany przyczyn leżących po stronie przedsiębiorcy, przedsiębiorca niezwłocznie informuje tym fakcie wnioskodawcę organ prowadzący postępowanie.
-5. Staż adaptacyjny wnioskodawca odbywa zgodnie programem zwanym „programem”, ustalonym przedsiębiorcę, podstawie postanowienia, którym mowa art. 20 ust. 1 ustawy dnia 22 grudnia 2015 r. zasadach uznawania kwalifikacji zawodowych nabytych państwach członkowskich Unii Europejskiej, pod nadzorem wyznaczonego przedsiębiorcę opiekuna zwanego „opiekunem”.
-Opiekunem być wyłącznie osoba wykonująca zawód detektywa.
-6. Opiekun nie być zmieniany trakcie odbywania wnioskodawcę adaptacyjnego.
-Zmiana opiekuna następuje przypadku:
-1) braku możliwości dalszego pełnienia niego tej funkcji;
-2) cofnięcia mu licencji detektywa albo zawieszenia praw wynikających tej licencji.
-3. Zmiana opiekuna nastąpić przypadku:
-1) uzasadnionego wniosku wnioskodawcy złożonego nie później 2 miesiące przed zakończeniem adaptacyjnego;
-2) uzasadnionego wniosku opiekuna złożonego nie później 2 miesiące przed zakończeniem adaptacyjnego.
-4. W przypadku zmiany opiekuna przedsiębiorca niezwłocznie informuje tym wnioskodawcę organ prowadzący postępowanie.
-7. Do zadań opiekuna należy:
-1) określanie zadań dla wnioskodawcy;
-2) kontrolowanie prawidłowości wykonywania zadań powierzonych wnioskodawcy;
-3) udzielanie wnioskodawcy pomocy wykonywaniu powierzonych mu zadań;
-4) sporządzanie co najmniej raz kwartał oceny realizacji programu oceny wnioskodawcy zakresie wykonywania powierzonych mu zadań;
-5) sporządzanie opinii przebiegu zawodowych umiejętnościach wnioskodawcy.
-8. W trakcie odbywania wnioskodawca:
-1) przestrzega porządku organizacyjno-prawnego obowiązującego u przedsiębiorcy;
-2) realizuje program;
-3) prowadzi dziennik otrzymany od przedsiębiorcy.
-9. zawiera:
-1) pieczęć przedsiębiorcy, u którego odbywa się staż adaptacyjny;
-2) imię nazwisko wnioskodawcy;
-3) imię nazwisko opiekuna;
-4) datę rozpoczęcia adaptacyjnego;
-Nadzór, którym mowa ust. 1, polega na:
-1) kontroli:
-a) realizacji programu,
-b) obecności wnioskodawcy trakcie trwania
-c) prawidłowości prowadzenia dziennika
-d) postępów wnioskodawcy przysposobieniu do samodzielnego wykonywania zawodu detektywa;
-2) obserwacji weryfikacji wykonywania wnioskodawcę zadań powierzonych mu opiekuna.
-3. Organ prowadzący postępowanie informuje wnioskodawcę przedsiębiorcę upoważnieniu osoby, która jego imieniu sprawuje nadzór nad odbywaniem adaptacyjnego.
-4. Osoba, której mowa ust. 1, sporządza piśmie protokoły przeprowadzonych czynności, których mowa ust.
-11. Oceny umiejętności nabytych wnioskodawcę trakcie odbywania zwanej „oceną”, dokonuje zespół powołany organ prowadzący postępowanie, zwany „zespołem”, nie później terminie 14 dni od dnia zakończenia adaptacyjnego.
-W skład zespołu wchodzi od 3 do 6 osób, które posiadają wiedzę, umiejętności doświadczenie zakresie wynikającym programu.
-3. Zespół dokonuje oceny podstawie:
-1) dziennika adaptacyjnego;
-2) opinii, której mowa 7 pkt 5;
-3) protokołów, których mowa 10 ust. 4.
-4. Ocena zawiera stwierdzenie przygotowania wnioskodawcy do samodzielnego wykonywania zawodu detektywa albo braku takiego przygotowania uzasadnienie takiego stwierdzenia.
-5. Z przebiegu oceny sporządza się protokół, który podpisują członkowie zespołu dokonujący danej oceny.
-6. Zespół przekazuje ocenę wnioskodawcy organowi prowadzącemu postępowanie terminie 5 dni od dnia jej dokonania.
-12. Koszt odbywania ustala przedsiębiorca nie później 14 dni przed dniem rozpoczęcia mając uwadze program czas trwania tego stażu, uwzględnieniem wynagrodzenia opiekuna, a także rzeczywistych kosztów organizacyjno-technicznych, materiałów dydaktycznych pomocy naukowych zajęć szkoleniowych, niezbędnych do realizacji programu.
-13. uiszcza opłatę tytułu kosztów odbywania miesięcznie, równych ratach płatnych góry do 10. dnia miesiąca rachunek bankowy przedsiębiorcy wskazany opiekuna.
-Opłata tytułu kosztów odbywania być, za zgodą wnioskodawcy wyrażoną piśmie, potrącana jego wynagrodzenia.
-14. W przypadku rezygnacji wnioskodawcy odbywania rata opłaty, której mowa 13 ust. 1, podlega zwrotowi terminie 7 dni od dnia złożenia wnioskodawcę wniosku jej zwrot podany niego numer rachunku bankowego, po potrąceniu kosztów poniesionych przedsiębiorcę przygotowanie albo przygotowanie realizację adaptacyjnego.
-16. Organ prowadzący postępowanie informuje wnioskodawcę, nie później 21 dni przed dniem przeprowadzenia testu, o:
-1) terminie miejscu przeprowadzenia testu;
-2) szczegółowej tematyce testu;
-3) czasie trwania testu;
-4) wysokości opłaty za przeprowadzenie testu;
-5) numerze rachunku bankowego, który uiszcza się opłatę za przeprowadzenie testu.
-Termin przeprowadzenia ulec zmianie uzasadniony wniosek złożony do organu prowadzącego postępowanie wnioskodawcę terminie co najmniej 7 dni przed terminem, którym mowa ust. 1 pkt
-17. Test przeprowadza zespół egzaminacyjny powołany organ prowadzący postępowanie.
-Zespół egzaminacyjny składa się 3 do 6 osób, które wyróżniają się wiedzą teoretyczną praktyczną niezbędną do wykonywania zawodu detektywa.
-18. Do zadań zespołu egzaminacyjnego należy szczególności:
-1) przygotowanie testu;
-2) przeprowadzenie testu;
-3) dokonanie oceny posiadanych wnioskodawcę umiejętności.
-19. Przed przystąpieniem do wnioskodawca okazuje dokument potwierdzający jego tożsamość dowód uiszczenia opłaty, której mowa 28.
-20. Test składa się części pisemnej ustnej.
-3. Część ustna polega odpowiedzi wylosowany wnioskodawcę zestaw, który składa się nie więcej 10 pytań.
-4. Czas trwania nie przekroczyć 210 minut.
-21. Za prawidłową odpowiedź pytanie części pisemnej wnioskodawca otrzymuje 1 punkt, tym że przypadku gdy więcej jedna odpowiedź jest prawidłowa, żeby uzyskać punkt, należy wskazać wszystkie poprawne odpowiedzi.
-W części ustnej każda odpowiedź jest oceniana skali od 0 do 5 punktów zależności od stopnia prawidłowości udzielonej wnioskodawcę odpowiedzi wylosowane pytania.
-22. Wynik określa się jako pozytywny albo negatywny.
-Wynik uznaje się za pozytywny przypadku gdy wnioskodawca uzyskał co najmniej 70% punktów możliwych do uzyskania.
-23. Oceny umiejętności posiadanych wnioskodawcę dokonuje zespół egzaminacyjny terminie 7 dni od dnia przeprowadzenia testu.
-Dokonanie oceny polega sprawdzeniu ustaleniu jego wyniku.
-24. Niezwłocznie po dokonaniu oceny, której mowa 23, zespół egzaminacyjny sporządza protokół prze25. Zespół egzaminacyjny przekazuje nie później terminie 3 dni od dnia sporządzenia protokołu przeprowadzenia testu:
-1) wnioskodawcy informację wyniku testu;
-2) organowi prowadzącemu postępowanie egzemplarz protokołu.
-26. Nieprzystąpienie do testu, wyznaczonym terminie bez usprawiedliwienia uznaje się za rezygnację przystąpienia do testu.
-W przypadku nieprzystąpienia do ważnej przyczyny wnioskodawca terminie 7 dni od dnia, którym test miał być przeprowadzony, zwrócić się do organu prowadzącego postępowanie uzasadnionym wnioskiem ponowne wyznaczenie terminu testu.
-3. Przyczyną, której mowa ust. 2, jest zdarzenie lub okoliczność, które wnioskodawca nie miał wpływu, a które uniemożliwiły mu przystąpienie do testu.
-4. Oceny przyczyny nieprzystąpienia wnioskodawcę do wyznaczonym terminie organ prowadzący postępowanie dokonuje niezwłocznie.
-5. W przypadku uznania przyczyny nieprzystąpienia wnioskodawcę do wyznaczonym terminie za usprawiedliwioną organ prowadzący postępowanie ponownie wyznacza termin miejsce przeprowadzenia testu, informując nich wnioskodawcę nie później 14 dni przed wyznaczonym dniem przeprowadzenia kolejnego testu.
-27. Koszt przeprowadzenia ustala organ prowadzący postępowanie nie później 30 dni przed dniem przeprowadzenia testu, mając uwadze liczbę osób przystępujących do testu, uwzględnieniem rzeczywistych kosztów przygotowania przeprowadzenia oceny umiejętności posiadanych wnioskodawcę, a także kosztów organizacyjno-technicznych związanych przeprowadzeniem testu.
-28. nie później 14 dni przed dniem przeprowadzenia wpłaca jednorazową opłatę tytułu kosztów, których mowa 27, rachunek bankowy wskazany organ prowadzący postępowanie.
-29. Wnioskodawcy przysługuje zwrot opłaty, której mowa 28, przypadku złożenia niego, przed wyznaczonym dniem przeprowadzenia testu, rezygnacji przystąpienia do testu.
-Opłata, której mowa 28, jest zwracana niezwłocznie rachunek bankowy wnioskodawcy wysokości pomniejszonej rzeczywiste koszty poniesione organ prowadzący postępowanie przygotowanie koszty związane przelewem bankowym.
-30. W przypadku usprawiedliwionego nieprzystąpienia do wniesioną wnioskodawcę opłatę, której mowa 28, zalicza się poczet opłaty tytułu kosztów przeprowadzenia terminie, którym mowa 26 ust. 5.
-4 Przepis przejściowy końcowy
-31. Do testu, od których odbycia jest uzależnione wydanie decyzji sprawie uznania kwalifikacji podstawie postanowienia wydanego do dnia 31 grudnia 2016 r., stosuje się przepisy dotychczasowe.
-32. Rozporządzenie wchodzi życie dniem 1 stycznia 2017 r.
-Minister Spraw Wewnętrznych Administracji: wz. J. Zieliński
+Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Staż adaptacyjny Rozdział 3 – Test umiejętności Rozdział 4 – Przepis przejściowy i końcowy
+Treść rozporządzenia
+Na podstawie art. 22 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+warunki, sposób i tryb odbywania stażu adaptacyjnego, sposób i tryb wykonywania nadzoru nad jego odbywaniem oraz oceny umiejętności nabytych w jego trakcie przez osobę, która złożyła wniosek, o którym mowa w art. 13 ust. 1 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej, zwaną dalej „wnioskodawcą”, sposób ustalania kosztów odbywania stażu adaptacyjnego oraz tryb pobierania i zwrotu opłaty za jego odbywanie,
+2)
+warunki, sposób i tryb przeprowadzania testu umiejętności oraz oceny posiadanych przez wnioskodawcę umiejętności, sposób ustalania kosztów przeprowadzania testu umiejętności oraz tryb pobierania i zwrotu opłaty za jego przeprowadzenie
+w toku postępowania w sprawie uznania kwalifikacji zawodowych do wykonywania zawodu detektywa w Rzeczypospolitej Polskiej, nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub w Konfederacji Szwajcarskiej, zwanego dalej „postępowaniem”.
+§ 2.
+Ilekroć w rozporządzeniu jest mowa o „detektywie”, należy przez to rozumieć osobę posiadającą licencję, o której mowa w art. 4 ust. 1 ustawy z dnia 6 lipca 2001 r. o usługach detektywistycznych (Dz. U. z 2014 r. poz. 273 i 822 oraz z 2015 r. poz. 1893).
+§ 3.
+Wnioskodawca odbywa staż adaptacyjny u przedsiębiorcy wykonującego działalność gospodarczą w zakresie usług detektywistycznych, zwanego dalej „przedsiębiorcą”.
+§ 4.
+1.
+Staż adaptacyjny rozpoczyna się w terminie uzgodnionym przez wnioskodawcę z przedsiębiorcą.
+2.
+Wnioskodawca zawiadamia organ prowadzący postępowanie o terminie rozpoczęcia stażu adaptacyjnego.
+3.
+Jeżeli staż adaptacyjny nie odbędzie się lub nie może być kontynuowany z przyczyn leżących po stronie przedsiębiorcy, przedsiębiorca niezwłocznie informuje o tym fakcie wnioskodawcę i organ prowadzący postępowanie.
+§ 5.
+1.
+Staż adaptacyjny wnioskodawca odbywa zgodnie z programem stażu adaptacyjnego, zwanym dalej „programem”, ustalonym przez przedsiębiorcę, na podstawie postanowienia, o którym mowa w art. 20 ust. 1 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej, pod nadzorem wyznaczonego przez przedsiębiorcę opiekuna stażu adaptacyjnego, zwanego dalej „opiekunem”.
+2.
+Opiekunem może być wyłącznie osoba wykonująca zawód detektywa.
+§ 6.
+1.
+Opiekun nie może być zmieniany w trakcie odbywania przez wnioskodawcę stażu adaptacyjnego.
+2.
+Zmiana opiekuna następuje w przypadku:
+1)
+braku możliwości dalszego pełnienia przez niego tej funkcji;
+2)
+cofnięcia mu licencji detektywa albo zawieszenia praw wynikających z tej licencji.
+3.
+Zmiana opiekuna może nastąpić w przypadku:
+1)
+uzasadnionego wniosku wnioskodawcy złożonego nie później niż na 2 miesiące przed zakończeniem stażu adaptacyjnego;
+2)
+uzasadnionego wniosku opiekuna złożonego nie później niż na 2 miesiące przed zakończeniem stażu adaptacyjnego.
+4.
+W przypadku zmiany opiekuna przedsiębiorca niezwłocznie informuje o tym wnioskodawcę oraz organ prowadzący postępowanie.
+§ 7.
+Do zadań opiekuna należy:
+1)
+określanie zadań dla wnioskodawcy;
+2)
+kontrolowanie prawidłowości wykonywania zadań powierzonych wnioskodawcy;
+3)
+udzielanie wnioskodawcy pomocy w wykonywaniu powierzonych mu zadań;
+4)
+sporządzanie co najmniej raz na kwartał oceny realizacji programu oraz oceny wnioskodawcy w zakresie wykonywania powierzonych mu zadań;
+5)
+sporządzanie opinii o przebiegu stażu adaptacyjnego i zawodowych umiejętnościach wnioskodawcy.
+§ 8.
+W trakcie odbywania stażu adaptacyjnego wnioskodawca:
+1)
+przestrzega porządku organizacyjno-prawnego obowiązującego u przedsiębiorcy;
+2)
+realizuje program;
+3)
+prowadzi dziennik stażu adaptacyjnego, otrzymany od przedsiębiorcy.
+§ 9.
+1.
+Dziennik stażu adaptacyjnego zawiera:
+1)
+pieczęć przedsiębiorcy, u którego odbywa się staż adaptacyjny;
+2)
+imię i nazwisko wnioskodawcy;
+3)
+imię i nazwisko opiekuna;
+4)
+datę rozpoczęcia stażu adaptacyjnego;
+5)
+datę założenia dziennika;
+6)
+tygodniowy wykaz czynności wykonywanych przez wnioskodawcę oraz datę ich wykonania, potwierdzone podpisem opiekuna;
+7)
+oceny, o których mowa w § 7 pkt 4.
+2.
+Opiekun potwierdza w dzienniku stażu adaptacyjnego zgodność jego przebiegu z programem. Potwierdzenia dokonuje się po zakończeniu każdej części programu.
+§ 10.
+1.
+Organ prowadzący postępowanie sprawuje przez upoważnioną przez siebie osobę nadzór nad odbywaniem przez wnioskodawcę stażu adaptacyjnego.
+2.
+Nadzór, o którym mowa w ust. 1, polega na:
+1)
+kontroli:
+a)
+realizacji programu,
+b)
+obecności wnioskodawcy w trakcie trwania stażu adaptacyjnego,
+c)
+prawidłowości prowadzenia dziennika stażu adaptacyjnego,
+d)
+postępów wnioskodawcy w przysposobieniu do samodzielnego wykonywania zawodu detektywa;
+2)
+obserwacji i weryfikacji wykonywania przez wnioskodawcę zadań powierzonych mu przez opiekuna.
+3.
+Organ prowadzący postępowanie informuje wnioskodawcę i przedsiębiorcę o upoważnieniu osoby, która w jego imieniu sprawuje nadzór nad odbywaniem stażu adaptacyjnego.
+4.
+Osoba, o której mowa w ust. 1, sporządza na piśmie protokoły przeprowadzonych czynności, o których mowa w ust. 2.
+§ 11.
+1.
+Oceny umiejętności nabytych przez wnioskodawcę w trakcie odbywania stażu adaptacyjnego, zwanej dalej „oceną”, dokonuje zespół powołany przez organ prowadzący postępowanie, zwany dalej „zespołem”, nie później niż w terminie 14 dni od dnia zakończenia stażu adaptacyjnego.
+2.
+W skład zespołu wchodzi od 3 do 6 osób, które posiadają wiedzę, umiejętności i doświadczenie w zakresie wynikającym z programu.
+3.
+Zespół dokonuje oceny na podstawie:
+1)
+dziennika stażu adaptacyjnego;
+2)
+opinii, o której mowa w § 7 pkt 5;
+3)
+protokołów, o których mowa w § 10 ust. 4.
+4.
+Ocena zawiera stwierdzenie przygotowania wnioskodawcy do samodzielnego wykonywania zawodu detektywa albo braku takiego przygotowania oraz uzasadnienie takiego stwierdzenia.
+5.
+Z przebiegu oceny sporządza się protokół, który podpisują członkowie zespołu dokonujący danej oceny.
+6.
+Zespół przekazuje ocenę wnioskodawcy oraz organowi prowadzącemu postępowanie w terminie 5 dni od dnia jej dokonania.
+§ 12.
+Koszt odbywania stażu adaptacyjnego ustala przedsiębiorca nie później niż na 14 dni przed dniem rozpoczęcia stażu adaptacyjnego, mając na uwadze program i czas trwania tego stażu, z uwzględnieniem wynagrodzenia opiekuna, a także rzeczywistych kosztów organizacyjno-technicznych, materiałów dydaktycznych i pomocy naukowych oraz zajęć szkoleniowych, niezbędnych do realizacji programu.
+§ 13.
+1.
+Wnioskodawca uiszcza opłatę z tytułu kosztów odbywania stażu adaptacyjnego miesięcznie, w równych ratach płatnych z góry do 10. dnia miesiąca na rachunek bankowy przedsiębiorcy wskazany przez opiekuna.
+2.
+Opłata z tytułu kosztów odbywania stażu adaptacyjnego może być, za zgodą wnioskodawcy wyrażoną na piśmie, potrącana z jego wynagrodzenia.
+§ 14.
+1.
+W przypadku rezygnacji wnioskodawcy z odbywania stażu adaptacyjnego rata opłaty, o której mowa w § 13 ust. 1, podlega zwrotowi w terminie 7 dni od dnia złożenia przez wnioskodawcę wniosku o jej zwrot na podany przez niego numer rachunku bankowego, po potrąceniu kosztów poniesionych przez przedsiębiorcę na przygotowanie albo przygotowanie i realizację stażu adaptacyjnego.
+2.
+Jeżeli staż adaptacyjny nie odbędzie się lub nie może być kontynuowany z przyczyn leżących po stronie przedsiębiorcy, rata opłaty, o której mowa w § 13 ust. 1, podlega zwrotowi w terminie 7 dni od dnia złożenia przez wnioskodawcę wniosku o jej zwrot na podany przez niego numer rachunku bankowego.
+§ 15.
+Wnioskodawca po otrzymaniu postanowienia zobowiązującego go do przystąpienia do testu umiejętności, zwanego dalej „testem”, w celu przystąpienia do testu, występuje do organu prowadzącego postępowanie z wnioskiem o jego przeprowadzenie.
+§ 16.
+1.
+Organ prowadzący postępowanie informuje wnioskodawcę, nie później niż na 21 dni przed dniem przeprowadzenia testu, o:
+1)
+terminie i miejscu przeprowadzenia testu;
+2)
+szczegółowej tematyce testu;
+3)
+czasie trwania testu;
+4)
+wysokości opłaty za przeprowadzenie testu;
+5)
+numerze rachunku bankowego, na który uiszcza się opłatę za przeprowadzenie testu.
+2.
+Termin przeprowadzenia testu może ulec zmianie na uzasadniony wniosek złożony do organu prowadzącego postępowanie przez wnioskodawcę w terminie co najmniej 7 dni przed terminem, o którym mowa w ust. 1 pkt 1.
+§ 17.
+1.
+Test przeprowadza zespół egzaminacyjny powołany przez organ prowadzący postępowanie.
+2.
+Zespół egzaminacyjny składa się z 3 do 6 osób, które wyróżniają się wiedzą teoretyczną i praktyczną niezbędną do wykonywania zawodu detektywa.
+§ 18.
+Do zadań zespołu egzaminacyjnego należy w szczególności:
+1)
+przygotowanie testu;
+2)
+przeprowadzenie testu;
+3)
+dokonanie oceny posiadanych przez wnioskodawcę umiejętności.
+§ 19.
+Przed przystąpieniem do testu wnioskodawca okazuje dokument potwierdzający jego tożsamość oraz dowód uiszczenia opłaty, o której mowa w § 28.
+§ 20.
+1.
+Test składa się z części pisemnej i ustnej.
+2.
+3.
+4.
+Czas trwania testu nie może przekroczyć 210 minut.
+§ 21.
+1.
+Za prawidłową odpowiedź na pytanie w części pisemnej testu wnioskodawca otrzymuje 1 punkt, z tym że w przypadku gdy więcej niż jedna odpowiedź jest prawidłowa, żeby uzyskać punkt, należy wskazać wszystkie poprawne odpowiedzi.
+2.
+W części ustnej testu każda odpowiedź jest oceniana w skali od 0 do 5 punktów – w zależności od stopnia prawidłowości udzielonej przez wnioskodawcę odpowiedzi na wylosowane pytania.
+§ 22.
+1.
+Wynik testu określa się jako pozytywny albo negatywny.
+2.
+Wynik testu uznaje się za pozytywny w przypadku gdy wnioskodawca uzyskał co najmniej 70% punktów możliwych do uzyskania.
+§ 23.
+1.
+Oceny umiejętności posiadanych przez wnioskodawcę dokonuje zespół egzaminacyjny w terminie 7 dni od dnia przeprowadzenia testu.
+2.
+Dokonanie oceny polega na sprawdzeniu testu i ustaleniu jego wyniku.
+§ 24.
+1.
+Niezwłocznie po dokonaniu oceny, o której mowa w § 23, zespół egzaminacyjny sporządza protokół przeprowadzenia testu.
+2.
+Protokół przeprowadzenia testu zawiera w szczególności:
+1)
+datę i miejsce przeprowadzenia testu;
+2)
+czas rozpoczęcia i zakończenia testu;
+3)
+skład zespołu egzaminacyjnego;
+4)
+imię i nazwisko wnioskodawcy;
+5)
+wynik testu;
+6)
+podpisy członków zespołu egzaminacyjnego.
+§ 25.
+Zespół egzaminacyjny przekazuje nie później niż w terminie 3 dni od dnia sporządzenia protokołu przeprowadzenia testu:
+1)
+wnioskodawcy – informację o wyniku testu;
+2)
+organowi prowadzącemu postępowanie – egzemplarz protokołu.
+§ 26.
+1.
+Nieprzystąpienie do testu, w wyznaczonym terminie bez usprawiedliwienia uznaje się za rezygnację z przystąpienia do testu.
+2.
+W przypadku nieprzystąpienia do testu z ważnej przyczyny wnioskodawca w terminie 7 dni od dnia, w którym test miał być przeprowadzony, może zwrócić się do organu prowadzącego postępowanie z uzasadnionym wnioskiem o ponowne wyznaczenie terminu testu.
+3.
+Przyczyną, o której mowa w ust. 2, jest zdarzenie lub okoliczność, na które wnioskodawca nie miał wpływu, a które uniemożliwiły mu przystąpienie do testu.
+4.
+Oceny przyczyny nieprzystąpienia przez wnioskodawcę do testu w wyznaczonym terminie organ prowadzący postępowanie dokonuje niezwłocznie.
+5.
+W przypadku uznania przyczyny nieprzystąpienia przez wnioskodawcę do testu w wyznaczonym terminie za usprawiedliwioną organ prowadzący postępowanie ponownie wyznacza termin i miejsce przeprowadzenia testu, informując o nich wnioskodawcę nie później niż na 14 dni przed wyznaczonym dniem przeprowadzenia kolejnego testu.
+§ 27.
+Koszt przeprowadzenia testu ustala organ prowadzący postępowanie nie później niż na 30 dni przed dniem przeprowadzenia testu, mając na uwadze liczbę osób przystępujących do testu, z uwzględnieniem rzeczywistych kosztów przygotowania i przeprowadzenia testu oraz oceny umiejętności posiadanych przez wnioskodawcę, a także kosztów organizacyjno-technicznych związanych z przeprowadzeniem testu.
+§ 28.
+Wnioskodawca nie później niż na 14 dni przed dniem przeprowadzenia testu wpłaca jednorazową opłatę z tytułu kosztów, o których mowa w § 27, na rachunek bankowy wskazany przez organ prowadzący postępowanie.
+§ 29.
+1.
+Wnioskodawcy przysługuje zwrot opłaty, o której mowa w § 28, w przypadku złożenia przez niego, przed wyznaczonym dniem przeprowadzenia testu, rezygnacji z przystąpienia do testu.
+2.
+Opłata, o której mowa w § 28, jest zwracana niezwłocznie na rachunek bankowy wnioskodawcy w wysokości pomniejszonej o rzeczywiste koszty poniesione przez organ prowadzący postępowanie na przygotowanie testu oraz koszty związane z przelewem bankowym.
+§ 30.
+W przypadku usprawiedliwionego nieprzystąpienia do testu wniesioną przez wnioskodawcę opłatę, o której mowa w § 28, zalicza się na poczet opłaty z tytułu kosztów przeprowadzenia testu w terminie, o którym mowa w § 26 ust. 5.
+§ 31.
+Do stażu adaptacyjnego i testu, od których odbycia jest uzależnione wydanie decyzji w sprawie uznania kwalifikacji na podstawie postanowienia wydanego do dnia 31 grudnia 2016 r., stosuje się przepisy dotychczasowe.
+§ 32.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
+1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088, str. 22, Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60 oraz Dz. Urz. L 134 z 24.05.2016, str. 135). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 16 grudnia 2008 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania w sprawie o uznanie kwalifikacji do wykonywania zawodu detektywa (Dz. U. poz. 1585), które na podstawie art. 87 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) traci moc z dniem 31 grudnia 2016 r.
 
-## Część pisemna składa się nie więcej 80 pytań, których każde zawiera od trzech do pięciu propozycji odpowiedzi.
+#### Rozdział 1 Przepisy ogólne
+
+#### Rozdział 2 Staż adaptacyjny
+
+#### Rozdział 3 Test umiejętności
+
+## Część pisemna testu składa się z nie więcej niż 80 pytań, z których każde zawiera od trzech do pięciu propozycji odpowiedzi.
+
+## Część ustna testu polega na odpowiedzi na wylosowany przez wnioskodawcę zestaw, który składa się z nie więcej niż 10 pytań.
+
+#### Rozdział 4 Przepis przejściowy i końcowy
 

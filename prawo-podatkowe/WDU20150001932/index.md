@@ -8,12 +8,10 @@ pos: 1932
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw
-
-*USTAWA z dnia 9 października 2015 r.*
+# Ustawa z dnia 9 października 2015 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,49 +22,196 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-09 |
 | Data wydania | 2015-11-23 |
+| Wejście w życie | 2015-12-31 |
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001932) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1932/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 17: w ust. 1 w pkt 6 wprowadzenie do wyliczenia otrzymuje brzmienie: „ przychody z: ” , po ust. 1aa dodaje się ust. 1ab w brzmieniu: „ 1ab. Przychód określony w ust. 1 pkt 6:
+    - **a)**
+    - **b)**
+
+- **1)** z odpłatnego zbycia udziałów (akcji) oraz papierów wartościowych powstaje w momencie przeniesienia na nabywcę własności udziałów (akcji) oraz papierów wartościowych;
+- **2)** z realizacji praw wynikających z papierów wartościowych powstaje w momencie realizacji tych praw. ” ;
+- **2)** w art. 21 w ust. 1: pkt 77 otrzymuje brzmienie: „
+    - **a)**
+
+- **77)** równoważniki pieniężne za brak lokalu mieszkalnego, wypłacone: funkcjonariuszom Policji i Służby Więziennej, Agencji Bezpieczeństwa Wewnętrznego i Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Straży Granicznej, Służby Celnej, Biura Ochrony Rządu oraz strażakom Państwowej Straży Pożarnej, do wysokości nieprzekraczającej kwoty 2280 zł; ” , pkt 82 otrzymuje brzmienie: „
+    - **b)**
+
+- **82)** uposażenia funkcjonariuszy Organizacji Narodów Zjednoczonych, organizacji wyspecjalizowanych oraz innych międzynarodowych instytucji i organizacji, których Rzeczpospolita Polska jest członkiem i których statuty przewidują zwolnienie od podatku wypłacanych przez nie uposażeń, pod warunkiem posiadania przez podatnika dokumentów stwierdzających, że jest funkcjonariuszem takiej organizacji lub instytucji; ” ;
+- **3)** w art. 25 ust. 5a otrzymuje brzmienie: „
+
+5a. Posiadanie udziału w kapitale innego podmiotu, o którym mowa w ust. 1 i 4, oznacza sytuację, w której dany podmiot bezpośrednio lub pośrednio posiada w kapitale innego podmiotu udział nie mniejszy niż 25%. ” ;
+
+- **4)** w art. 25a: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Podatnicy:
+
+- **1)** prowadzący pozarolniczą działalność gospodarczą lub działy specjalne produkcji rolnej, którzy w roku podatkowym oraz w roku poprzedzającym rok podatkowy prowadzą i prowadzili księgi rachunkowe: dokonujący w roku podatkowym transakcji z podmiotami powiązanymi w rozumieniu art. 25 ust. 1 i 4, mających istotny wpływ na wysokość ich dochodu (straty), lub ujmujący w roku podatkowym w księgach rachunkowych inne zdarzenia, których warunki zostały ustalone (lub narzucone) z podmiotami powiązanymi w rozumieniu art. 25 ust. 1 i 4, mające istotny wpływ na wysokość ich dochodu (straty) których przychody lub koszty, w rozumieniu przepisów o rachunkowości, ustalone na podstawie prowadzonych ksiąg rachunkowych przekroczyły w roku poprzedzającym rok podatkowy równowartość 2 000 000 euro, lub
+    - **a)**
+    - **b)**
+
+- **2)** dokonujący, bezpośrednio lub pośrednio, zapłaty należności na rzecz podmiotu mającego miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, wynikających z transakcji lub innego zdarzenia ujętego w księgach rachunkowych, jeżeli łączna kwota (lub jej równowartość) wynikająca z umowy lub rzeczywiście zapłacona w roku podatkowym łączna kwota wymagalnych w roku podatkowym świadczeń przekracza równowartość 20 000 euro, lub
+- **3)** zawierający z podmiotem mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową: umowę spółki niebędącej osobą prawną, jeżeli łączna wartość wniesionych przez wspólników wkładów przekracza równowartość 20 000 euro lub umowę wspólnego przedsięwzięcia lub inną umowę o podobnym charakterze, w których wartość wspólnie realizowanego przedsięwzięcia określona w umowie, a w przypadku braku określenia w umowie tej wartości – przewidywana na dzień zawarcia umowy, przekracza równowartość 20 000 euro są obowiązani do sporządzenia dokumentacji podatkowej tych transakcji lub innych zdarzeń, zwanej dalej „dokumentacją podatkową”. ” , po ust. 1 dodaje się ust. 1a-1g w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **b)**
+
+1a. Podatnicy, o których mowa w ust. 1 pkt 1, są obowiązani do sporządzenia dokumentacji podatkowej również za rok podatkowy następujący po roku podatkowym, za który byli obowiązani sporządzić dokumentację podatkową, bez względu na wysokość osiągniętych, w roku podatkowym, za który byli obowiązani do sporządzenia dokumentacji podatkowej, przychodów lub poniesionych kosztów, w rozumieniu przepisów o rachunkowości.
+
+1b. Podatnicy rozpoczynający prowadzenie pozarolniczej działalności gospodarczej lub działów specjalnych produkcji rolnej, prowadzący w roku podatkowym księgi rachunkowe i dokonujący w roku podatkowym transakcji lub ujmujący w roku podatkowym w księgach rachunkowych inne zdarzenia, o których mowa w ust. 1 pkt 1, są obowiązani do sporządzenia dokumentacji podatkowej w roku rozpoczęcia prowadzenia tej działalności lub działów specjalnych produkcji rolnej, począwszy od miesiąca następującego po miesiącu, w którym przychody lub koszty, w rozumieniu przepisów o rachunkowości, ustalone na podstawie prowadzonych ksiąg rachunkowych przekroczyły równowartość 2 000 000 euro.
+
+1c. Za podatnika rozpoczynającego prowadzenie pozarolniczej działalności gospodarczej lub działy specjalne produkcji rolnej, o którym mowa w ust. 1b, uważa się podatnika, który nie prowadził pozarolniczej działalności gospodarczej lub działów specjalnych produkcji rolnej w roku poprzedzającym rok rozpoczęcia pozarolniczej działalności gospodarczej lub działów specjalnych produkcji rolnej.
+
+1d. Za transakcje lub inne zdarzenia mające istotny wpływ na wysokość dochodu (straty) podatnika, o których mowa w ust. 1 pkt 1, uznaje się transakcje lub inne zdarzenia jednego rodzaju, których łączna wartość przekracza w roku podatkowym równowartość 50 000 euro, z tym że w przypadku podatników, których przychody w rozumieniu przepisów o rachunkowości, w roku poprzedzającym rok podatkowy przekroczyły równowartość:
+
+- **1)** 2 000 000 euro, lecz nie więcej niż równowartość 20 000 000 euro – za takie transakcje lub inne zdarzenia uznaje się transakcje lub inne zdarzenia jednego rodzaju, których wartość przekracza w roku podatkowym kwotę stanowiącą równowartość kwoty 50 000 euro powiększoną o 5000 euro za każdy 1 000 000 euro przychodu powyżej 2 000 000 euro;
+- **2)** 20 000 000 euro, lecz nie więcej niż równowartość 100 000 000 euro – za takie transakcje lub inne zdarzenia uznaje się transakcje lub inne zdarzenia jednego rodzaju, których wartość przekracza w roku podatkowym kwotę stanowiącą równowartość kwoty 140 000 euro powiększoną o 45 000 euro za każde 10 000 000 euro przychodu powyżej 20 000 000 euro;
+- **3)** 100 000 000 euro – za takie transakcje lub inne zdarzenia uznaje się transakcje lub inne zdarzenia jednego rodzaju, których wartość w roku podatkowym przekracza kwotę stanowiącą równowartość kwoty 500 000 euro.
+
+1e. Za transakcje lub inne zdarzenia mające istotny wpływ na wysokość dochodu (straty) podatnika, o których mowa w ust. 1 pkt 1, uznaje się również zawartą w roku podatkowym:
+
+- **1)** umowę spółki niebędącej osobą prawną, w której łączna wartość wniesionych przez wspólników wkładów przekracza równowartość 50 000 euro lub
+- **2)** umowę wspólnego przedsięwzięcia lub inną umowę o podobnym charakterze, w której wartość wspólnie realizowanego przedsięwzięcia określona w umowie, a w przypadku braku określenia w umowie tej wartości – przewidywana na dzień zawarcia umowy, przekracza równowartość 50 000 euro.
+
+1f. W przypadku prowadzenia przez podatnika pozarolniczej działalności gospodarczej lub działów specjalnych produkcji rolnej w formie spółki niebędącej osobą prawną, jeżeli spółka niebędąca osobą prawną dokonuje transakcji lub innych zdarzeń, o których mowa w ust. 1 pkt 1, spełnienie warunku prowadzenia ksiąg rachunkowych i limit przychodów lub kosztów, o których mowa w ust. 1 pkt 1, ustala się dla tej spółki.
+
+1g. W przypadku, o którym mowa w ust. 1f, dokumentacja podatkowa może zostać sporządzona przez wyznaczonego wspólnika mającego siedzibę lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej. Wyznaczenie wspólnika nie zwalnia pozostałych wspólników z odpowiedzialności za nieprzedłożenie wymaganej dokumentacji podatkowej. ” , uchyla się ust. 2 i 2a, po ust. 2a dodaje się ust. 2b-2i w brzmieniu: „
+
+- **c)**
+- **d)**
+
+2b. Dokumentacja podatkowa obejmuje:
+
+- **1)** opis transakcji lub innych zdarzeń, o których mowa w ust. 1, w tym umów zarządzania płynnością, umów o podziale kosztów, dokonywanych pomiędzy podatnikiem, a w przypadku, o którym mowa w ust. 1f – spółką niebędącą osobą prawną, i podmiotami z nimi powiązanymi, zawierający: wskazanie rodzaju i przedmiotu tych transakcji lub innych zdarzeń, dane finansowe, w tym przepływy pieniężne, dotyczące tych transakcji lub innych zdarzeń, dane identyfikujące podmioty powiązane dokonujące tych transakcji lub ujmujące te zdarzenia, opis przebiegu tych transakcji lub innych zdarzeń, w tym funkcji wykonywanych przez podatnika, a w przypadku, o którym mowa w ust. 1f – spółkę niebędącą osobą prawną, i podmioty z nimi powiązane, angażowanych przez nich aktywów bilansowych i pozabilansowych, kapitału ludzkiego oraz ponoszonych ryzyk, wskazanie metody i sposobu kalkulacji dochodu (straty) podatnika wraz z uzasadnieniem ich wyboru, w tym algorytmu kalkulacji rozliczeń dotyczących tych transakcji lub innych zdarzeń oraz sposobu wyliczenia wartości rozliczeń wpływających na dochód (stratę) podatnika, a w przypadku, o którym mowa w ust. 1f – również pozostałych wspólników spółki niebędącej osobą prawną;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **2)** w przypadku podatników: których przychody lub koszty, w rozumieniu przepisów o rachunkowości, ustalone na podstawie prowadzonych ksiąg rachunkowych przekroczyły w roku poprzedzającym rok podatkowy równowartość 10 000 000 euro albo prowadzących pozarolniczą działalność gospodarczą lub działy specjalne produkcji rolnej w formie spółki niebędącej osobą prawną, której przychody lub koszty, w rozumieniu obowiązujących tę spółkę przepisów o rachunkowości, ustalone na podstawie prowadzonych ksiąg rachunkowych przekroczyły w poprzednim roku obrotowym w rozumieniu tych przepisów równowartość 10 000 000 euro poza opisem, o którym mowa w pkt 1, także opis analizy danych podmiotów niezależnych lub danych ustalonych z podmiotem niezależnym, uznanych za porównywalne do warunków ustalonych w transakcjach lub innych zdarzeniach, o których mowa w ust. 1, zwanej dalej „analizą danych porównawczych”, wykorzystanych do kalkulacji rozliczeń, o której mowa w pkt 1 lit. e, wraz z podaniem źródła tych danych;
+    - **a)**
+    - **b)**
+
+- **3)** opis danych finansowych podatnika, a w przypadku, o którym mowa w ust. 1f – spółki niebędącej osobą prawną, pozwalający na porównanie rozliczeń, o których mowa w pkt 1 lit. e, z danymi wynikającymi z zatwierdzonego sprawozdania finansowego, jeżeli obowiązek jego sporządzenia wynika z obowiązujących podatnika lub spółkę przepisów o rachunkowości;
+- **4)** informacje o podatniku, a w przypadku, o którym mowa w ust. 1f – o spółce niebędącej osobą prawną, obejmujące opis: struktury organizacyjnej i struktury zarządczej, przedmiotu i zakresu prowadzonej działalności gospodarczej, realizowanej strategii gospodarczej, w tym przeprowadzonych w roku podatkowym lub w roku poprzedzającym rok podatkowy przeniesień pomiędzy podmiotami powiązanymi istotnych ekonomicznie funkcji, aktywów lub ryzyk, mających wpływ na dochód (stratę) podatnika, otoczenia konkurencyjnego;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **5)** dokumenty, w szczególności: umowy, porozumienia zawarte pomiędzy podmiotami powiązanymi lub inne dokumenty, dotyczące transakcji lub innych zdarzeń, o których mowa w ust. 1, umowę spółki niebędącej osobą prawną, umowę wspólnego przedsięwzięcia lub umowy o podobnym charakterze, dokumentujące zasady przyznawania praw wspólnikom (stronom umowy) do udziału w zysku oraz uczestnictwa w stratach, porozumienia w sprawach podatku dochodowego zawarte z administracjami podatkowymi państw innych niż Rzeczpospolita Polska, dotyczące transakcji lub innych zdarzeń, o których mowa w ust. 1, w szczególności uprzednie porozumienia cenowe.
+    - **a)**
+    - **b)**
+
+2c. Analiza danych porównawczych powinna zawierać dane porównywalne o podmiotach mających siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, jeżeli dane są dla podatnika dostępne. W przypadku braku danych do przeprowadzenia analizy danych porównawczych, podatnik załącza do dokumentacji podatkowej opis zgodności warunków transakcji oraz innych zdarzeń, ustalonych z podmiotami powiązanymi, z warunkami, które ustaliłyby między sobą niezależne podmioty.
+
+2d. W przypadku podatników prowadzących pozarolniczą działalność gospodarczą lub działy specjalne produkcji rolnej w formie spółki niebędącej osobą prawną, jeżeli spółka ta tworzy wraz z podmiotami powiązanymi grupę kapitałową w rozumieniu przepisów o rachunkowości co najmniej dwóch podmiotów powiązanych oraz przychody tej spółki lub jej koszty, w rozumieniu przepisów o rachunkowości, przekroczyły w poprzednim roku obrotowym równowartość 20 000 000 euro, dokumentacja podatkowa powinna również zawierać informacje o grupie podmiotów powiązanych, w skład której wchodzi ta spółka, obejmujące w szczególności:
+
+- **1)** wskazanie podmiotu powiązanego, który sporządził informacje o grupie podmiotów powiązanych, wraz z podaniem daty składania przez niego rocznego zeznania podatkowego;
+- **2)** strukturę organizacyjną grupy podmiotów powiązanych;
+- **3)** opis zasad wyznaczania cen transakcyjnych (polityki cen transakcyjnych) stosowanych przez grupę podmiotów powiązanych;
+- **4)** opis przedmiotu i zakresu działalności gospodarczej prowadzonej przez grupę podmiotów powiązanych;
+- **5)** opis posiadanych, tworzonych, rozwijanych i wykorzystywanych w działalności gospodarczej przez grupę podmiotów powiązanych istotnych wartości niematerialnych;
+- **6)** opis sytuacji finansowej podmiotów tworzących grupę wraz ze sprawozdaniem skonsolidowanym podmiotów powiązanych tworzących grupę podmiotów powiązanych;
+- **7)** opis zawartych przez podmioty tworzące grupę podmiotów powiązanych porozumień w sprawach podatku dochodowego z administracjami podatkowymi państw innych niż Rzeczpospolita Polska, w tym jednostronnych uprzednich porozumień cenowych.
+
+2e. Obowiązek sporządzenia dokumentacji podatkowej w przypadku transakcji objętych decyzją w sprawie uznania prawidłowości wyboru i stosowania metody ustalania ceny transakcyjnej pomiędzy podmiotami powiązanymi w okresie, którego ta decyzja dotyczy, obejmuje informacje, o których mowa w ust. 2b pkt 1 lit. b, d i e.
+
+2f. W przypadku podatników, o których mowa w ust. 1, 1b, 5a i 5b, dokumentację podatkową w zakresie elementów wymienionych w ust. 2b sporządza się nie później niż do dnia upływu terminu określonego dla złożenia rocznego zeznania podatkowego, z tym że opis, o którym mowa w ust. 2b pkt 3, sporządza się w terminie 10 dni od dnia zatwierdzenia sprawozdania finansowego podatnika lub spółki niebędącej osobą prawną.
+
+2g. Dokumentacja podatkowa dotycząca kontynuowanych w kolejnym roku podatkowym transakcji lub innych zdarzeń, o których mowa w ust. 1 pkt 1, podlega okresowemu przeglądowi i aktualizacji, nie rzadziej niż raz na rok podatkowy, przed dniem upływu terminu określonego dla złożenia rocznego zeznania podatkowego za kolejne lata, w zakresie zawartych w niej informacji, z zastrzeżeniem ust. 2h.
+
+2h. Dokumentacja podatkowa obejmująca elementy wymienione w ust. 2b pkt 2 podlega w tym zakresie aktualizacji nie rzadziej niż co 3 lata, chyba że zmiana warunków ekonomicznych w stopniu znacznie wpływającym na analizę danych porównawczych uzasadnia dokonanie przeglądu w roku zaistnienia tej zmiany.
+
+2i. Informacje, o których mowa w ust. 2d, dołącza się do dokumentacji podatkowej w terminie do dnia złożenia rocznego zeznania podatkowego, o którym mowa w ust. 2d pkt 1. ” , uchyla się ust. 3 i 3a, po ust. 3c dodaje się ust. 3d w brzmieniu: „
+
+- **e)**
+- **f)**
+
+3d. Obowiązek sporządzenia dokumentacji podatkowej w przypadku podatników, o których mowa w ust. 1, 1b, 5a i 5b, nie ma zastosowania do transakcji, w których cena lub sposób określenia ceny przedmiotu takiej transakcji wynika z przepisów ustaw lub wydanych na ich podstawie aktów normatywnych. ” , ust. 4 otrzymuje brzmienie: „
+
+- **g)**
+
+4. Na żądanie organów podatkowych lub organów kontroli skarbowej podatnicy, o których mowa w ust. 1, 1b, 5a i 5b, są obowiązani do przedłożenia dokumentacji podatkowej w terminie 7 dni od dnia doręczenia tego żądania. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
+
+- **h)**
+
+4a. Organ podatkowy lub organ kontroli skarbowej może wystąpić do podatnika z żądaniem sporządzenia i przedłożenia dokumentacji podatkowej dla transakcji lub innych zdarzeń, których wartość nie przekracza limitów określonych w ust. 1d lub 1e, w przypadku zaistnienia okoliczności wskazujących na prawdopodobieństwo zaniżenia ich wartości w celu uniknięcia obowiązku sporządzenia dokumentacji podatkowej. Żądanie powinno wskazywać okoliczności świadczące o prawdopodobieństwie zaniżenia wartości transakcji lub innych zdarzeń. Podatnik jest obowiązany do sporządzenia i przedłożenia dokumentacji podatkowej, w terminie 30 dni od dnia doręczenia takiego żądania. ” , ust. 5 otrzymuje brzmienie: „
+
+- **i)**
+
+5. Wyrażone w euro wielkości, o których mowa w ust. 1, 1b, 1d, 1e, 2b i 2d, przelicza się na walutę polską po średnim kursie ogłaszanym przez Narodowy Bank Polski, obowiązującym w ostatnim dniu roboczym roku podatkowego poprzedzającego rok podatkowy, którego dotyczy dokumentacja podatkowa. ” , dodaje się ust. 7 i 8 w brzmieniu: „
+
+- **j)**
+
+7. Podatnicy, o których mowa w ust. 1, 1b, 5a i 5b, są obowiązani składać urzędom skarbowym oświadczenie o sporządzeniu dokumentacji podatkowej, do dnia upływu terminu określonego dla złożenia rocznego zeznania podatkowego, z tym że oświadczenie to nie dotyczy informacji, o których mowa w ust. 2d. W przypadku podatników, o których mowa w ust. 5a, oświadczenie może podpisać osoba upoważniona do reprezentowania zagranicznego zakładu na terytorium Rzeczypospolitej Polskiej.
+
+8. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowy zakres informacji wymienionych w ust. 2b i 2d, w celu ułatwienia podatnikom sporządzenia poprawnej dokumentacji podatkowej, uwzględniając wytyczne OECD w zakresie cen transferowych dla przedsiębiorstw wielonarodowych i administracji podatkowych. ” ;
+
+- **5)** w art. 30a ust. 10 otrzymuje brzmienie: „
+
+10. Jeżeli podatnik, o którym mowa w art. 3 ust. 1, osiąga przychody (dochody) określone w art. 44c ust. 1 pkt 4 lit. a-d ze źródeł przychodów położonych w Republice Austrii lub w państwie lub na terytorium, z którym Rzeczpospolita Polska jest związana umową w sprawie środków równoważnych do środków określonych w rozdziale 7a, podatek od tych przychodów (dochodów) zapłacony w Republice Austrii, w tym państwie lub na tym terytorium podlega odliczeniu od kwoty podatku obliczonego zgodnie z ust. 1 i 9. ” ;
+
+- **6)** w art. 30b ust. 5c otrzymuje brzmienie: „
+
+5c. Jeżeli podatnik, o którym mowa w art. 3 ust. 1, osiąga przychody (dochody) określone w art. 44c ust. 1 pkt 4 lit. e i f ze źródeł przychodów położonych w Republice Austrii lub w państwie lub na terytorium, z którym Rzeczpospolita Polska jest związana umową w sprawie środków równoważnych do środków określonych w rozdziale 7a, podatek od tych przychodów (dochodów) zapłacony w Republice Austrii, w tym państwie lub na tym terytorium podlega odliczeniu od kwoty podatku obliczonego zgodnie z ust. 1, 5a i 5b. ” ;
+
+- **7)** w art. 30d ust. 1 otrzymuje brzmienie: „
+
+1. Jeżeli organ podatkowy lub organ kontroli skarbowej określi, na podstawie art. 25, dochód podatnika w wysokości wyższej (stratę w wysokości niższej) niż zadeklarowana przez podatnika w związku z dokonaniem transakcji lub ujęciem innych zdarzeń, o których mowa w art. 25a, a podatnik nie przedłoży tym organom dokumentacji podatkowej – różnicę między dochodem zadeklarowanym przez podatnika a określonym przez te organy opodatkowuje się stawką 50%. ” ;
+
+- **8)** w art. 42 ust. 7 otrzymuje brzmienie: „
+
+7. W informacji, o której mowa w ust. 2 pkt 2, nie wykazuje się przychodów (dochodów) wymienionych w art. 44c ust. 1 pkt 4, dla których sporządza się informację, o której mowa w art. 44d ust. 1 i 3. ” ;
+
+- **9)** uchyla się art. 42c i art. 42d;
+- **10)** po rozdziale 7 dodaje się rozdział 7a w brzmieniu: „
+
+#### Rozdział 7a Informacje o wypłatach odsetek
 
 **Art. 44c.**
 
 1. Ilekroć w niniejszym rozdziale jest mowa o:
 
-- **1)** podmiocie wypłacającym – oznacza to podmiot gospodarczy mający siedzibę lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, który dokonuje wypłaty odsetek lub zabezpiecza wypłatę odsetek:
-    - **a)** bezpośrednio na rzecz faktycznego odbiorcy,
-    - **b)** na rzecz innego podmiotu gospodarczego, w tym swojego zagranicznego zakładu lub swojej spółki zależnej, mającego siedzibę lub zarząd poza terytorium Unii Europejskiej lub państwa lub terytorium, z którym Rzeczpospolita Polska jest związana umową w sprawie środków równoważnych do środków określonych w niniejszym rozdziale, i na podstawie dostępnych mu informacji może domniemywać, że ten podmiot gospodarczy dokona wypłaty odsetek lub zabezpieczy wypłatę odsetek bezpośrednio na rzecz faktycznego odbiorcy mającego miejsce zamieszkania dla celów podatkowych w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej;
+- **1)** podmiocie wypłacającym – oznacza to podmiot gospodarczy mający siedzibę lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, który dokonuje wypłaty odsetek lub zabezpiecza wypłatę odsetek: bezpośrednio na rzecz faktycznego odbiorcy, na rzecz innego podmiotu gospodarczego, w tym swojego zagranicznego zakładu lub swojej spółki zależnej, mającego siedzibę lub zarząd poza terytorium Unii Europejskiej lub państwa lub terytorium, z którym Rzeczpospolita Polska jest związana umową w sprawie środków równoważnych do środków określonych w niniejszym rozdziale, i na podstawie dostępnych mu informacji może domniemywać, że ten podmiot gospodarczy dokona wypłaty odsetek lub zabezpieczy wypłatę odsetek bezpośrednio na rzecz faktycznego odbiorcy mającego miejsce zamieszkania dla celów podatkowych w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej;
+    - **a)**
+    - **b)**
 
-- **2)** faktycznym odbiorcy – oznacza to osobę fizyczną, na rzecz której są dokonywane wypłaty odsetek lub dla której wypłata odsetek jest zabezpieczana, chyba że ta osoba udowodni, że:
-    - **a)** działa jako podmiot wypłacający lub
-    - **b)** działa w imieniu innego podmiotu i ujawni podmiotowi dokonującemu wypłaty lub zabezpieczającemu wypłatę odsetek nazwę, formę prawną, adres siedziby lub zarządu podmiotu, w którego imieniu działa, oraz adres miejsca jego faktycznego zarządu – jeżeli to miejsce znajduje się na terytorium innego państwa, lub
-    - **c)** działa w imieniu przedsięwzięcia i ujawni podmiotowi dokonującemu wypłaty odsetek lub zabezpieczającemu wypłatę odsetek nazwę, formę prawną, adres miejsca faktycznego zarządu przedsięwzięcia, oraz nazwę osoby prawnej lub imię i nazwisko osoby fizycznej, o których mowa w pkt 7 lit. b, lub
-    - **d)** działa w imieniu innej osoby fizycznej będącej faktycznym odbiorcą i ujawni tożsamość tej osoby fizycznej podmiotowi dokonującemu wypłaty odsetek lub zabezpieczającemu wypłatę odsetek;
+- **2)** faktycznym odbiorcy – oznacza to osobę fizyczną, na rzecz której są dokonywane wypłaty odsetek lub dla której wypłata odsetek jest zabezpieczana, chyba że ta osoba udowodni, że: działa jako podmiot wypłacający lub działa w imieniu innego podmiotu i ujawni podmiotowi dokonującemu wypłaty lub zabezpieczającemu wypłatę odsetek nazwę, formę prawną, adres siedziby lub zarządu podmiotu, w którego imieniu działa, oraz adres miejsca jego faktycznego zarządu – jeżeli to miejsce znajduje się na terytorium innego państwa, lub działa w imieniu przedsięwzięcia i ujawni podmiotowi dokonującemu wypłaty odsetek lub zabezpieczającemu wypłatę odsetek nazwę, formę prawną, adres miejsca faktycznego zarządu przedsięwzięcia, oraz nazwę osoby prawnej lub imię i nazwisko osoby fizycznej, o których mowa w pkt 7 lit. b, lub działa w imieniu innej osoby fizycznej będącej faktycznym odbiorcą i ujawni tożsamość tej osoby fizycznej podmiotowi dokonującemu wypłaty odsetek lub zabezpieczającemu wypłatę odsetek;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
-- **3)** pośrednim odbiorcy – oznacza to podmiot lub przedsięwzięcie, umieszczone na liście, o której mowa w ust. 6 pkt 1, lub inny podmiot lub przedsięwzięcie, mające miejsce faktycznego zarządu w państwie członkowskim Unii Europejskiej, które nie podlegają faktycznemu opodatkowaniu podatkiem dochodowym w tym państwie albo w państwie siedziby, i które otrzymują wypłatę odsetek lub którym wypłata odsetek jest zabezpieczana – chyba że każdy z nich udokumentuje podmiotowi wypłacającemu, że:
-    - **a)** jest instytucją wspólnego inwestowania:  zarejestrowaną lub działającą na podstawie przepisów państwa członkowskiego Unii Europejskiej lub innego państwa należącego do Europejskiego Obszaru Gospodarczego, lub  mającą siedzibę poza obszarem określonym w tiret pierwszym i niebędącą przedsiębiorstwem zbiorowego inwestowania,
-    - **b)** na podstawie zaświadczenia wydanego przez właściwy organ państwa członkowskiego Unii Europejskiej, w którym ma miejsce faktycznego zarządu, jest traktowany jako instytucja wspólnego inwestowania,
-    - **c)** jest instytucją prowadzącą działalność w zakresie gromadzenia oszczędności na cele emerytalne lub działalność ubezpieczeniową lub jest przedsiębiorstwem zarządzającym aktywami takiej instytucji,
-    - **d)** jest podmiotem zwolnionym z opodatkowania podatkiem dochodowym lub podatkiem majątkowym, prowadzącym wyłącznie działalność pożytku publicznego,
-    - **e)** jest wspólnym przedsięwzięciem obejmującym własność odsetek, w odniesieniu do której podmiot gospodarczy dokonujący wypłaty odsetek lub zabezpieczający wypłatę odsetek ustalił tożsamość i miejsce zamieszkania wszystkich faktycznych odbiorców, w wyniku czego ten podmiot gospodarczy jest podmiotem wypłacającym;
+- **3)** pośrednim odbiorcy – oznacza to podmiot lub przedsięwzięcie, umieszczone na liście, o której mowa w ust. 6 pkt 1, lub inny podmiot lub przedsięwzięcie, mające miejsce faktycznego zarządu w państwie członkowskim Unii Europejskiej, które nie podlegają faktycznemu opodatkowaniu podatkiem dochodowym w tym państwie albo w państwie siedziby, i które otrzymują wypłatę odsetek lub którym wypłata odsetek jest zabezpieczana – chyba że każdy z nich udokumentuje podmiotowi wypłacającemu, że: jest instytucją wspólnego inwestowania: – zarejestrowaną lub działającą na podstawie przepisów państwa członkowskiego Unii Europejskiej lub innego państwa należącego do Europejskiego Obszaru Gospodarczego, lub – mającą siedzibę poza obszarem określonym w tiret pierwszym i niebędącą przedsiębiorstwem zbiorowego inwestowania, na podstawie zaświadczenia wydanego przez właściwy organ państwa członkowskiego Unii Europejskiej, w którym ma miejsce faktycznego zarządu, jest traktowany jako instytucja wspólnego inwestowania, jest instytucją prowadzącą działalność w zakresie gromadzenia oszczędności na cele emerytalne lub działalność ubezpieczeniową lub jest przedsiębiorstwem zarządzającym aktywami takiej instytucji, jest podmiotem zwolnionym z opodatkowania podatkiem dochodowym lub podatkiem majątkowym, prowadzącym wyłącznie działalność pożytku publicznego, jest wspólnym przedsięwzięciem obejmującym własność odsetek, w odniesieniu do której podmiot gospodarczy dokonujący wypłaty odsetek lub zabezpieczający wypłatę odsetek ustalił tożsamość i miejsce zamieszkania wszystkich faktycznych odbiorców, w wyniku czego ten podmiot gospodarczy jest podmiotem wypłacającym;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
-- **4)** wypłacie odsetek – oznacza to:
-    - **a)** odsetki wypłacone, postawione do dyspozycji lub zapisane na rachunku, w tym skapitalizowane, związane z wierzytelnościami wszelkiego rodzaju, z wyjątkiem opłat z tytułu opóźnionej zapłaty, bez względu na to, czy są one zabezpieczone hipoteką lub czy wiąże się z nimi prawo do udziału w zyskach dłużnika, oraz, w szczególności przychód (dochód) ze skarbowych papierów wartościowych, z obligacji lub skryptów dłużnych, włącznie z premiami i nagrodami mającymi związek z takimi papierami wartościowymi, obligacjami i skryptami dłużnymi,
-    - **b)** przychód (dochód) wypłacony, uzyskany, w tym postawiony do dyspozycji, lub zapisany na rachunku, związany z papierami wartościowymi wszelkiego rodzaju, jeżeli nie uznaje się go bezpośrednio za wypłatę odsetek zgodnie z lit. a i c–e, oraz gdy:  zgodnie z warunkami zwrotu kapitału określonymi w dniu emisji inwestor otrzyma w terminie wykupu co najmniej 95% zainwestowanego kapitału, lub  warunki określone w dniu emisji przewidują związek, w wysokości co najmniej 95% dochodu z papieru wartościowego, z odsetkami lub dochodami, o których mowa w lit. a lub c–e,
-    - **c)** odsetki naliczone lub skapitalizowane w momencie sprzedaży, spłaty lub umorzenia wierzytelności, o których mowa w lit. a, oraz przychód (dochód) naliczony lub skapitalizowany w momencie sprzedaży, spłaty lub umorzenia papierów wartościowych, o których mowa w lit. b,
-    - **d)** przychód (dochód) uzyskany z wypłat odsetek, w rozumieniu lit. a–c, bezpośrednio lub za pośrednictwem pośredniego odbiorcy, wypłacany przez podmiot lub przedsięwzięcie, o których mowa w pkt 3 lit. a i b,
-    - **e)** przychód (dochód) uzyskany w związku ze sprzedażą, spłatą lub umorzeniem akcji, udziałów lub jednostek w podmiotach lub w przedsięwzięciach, o których mowa w pkt 3 lit. a i b, jeżeli te podmioty lub te przedsięwzięcia, zainwestowały bezpośrednio lub pośrednio przez inne takie podmioty, takie przedsięwzięcia lub przez podmioty pośredniczące, łącznie ponad 25% swoich aktywów, w wierzytelności, o których mowa w lit. a, lub w papiery wartościowe, o których mowa w lit. b, z wyłączeniem tych aktywów, które muszą posiadać jako zabezpieczenie na realizację swoich celów inwestycyjnych i w odniesieniu do których inwestor nie ma uprawnień,
-    - **f)** zysk z umowy ubezpieczenia na życie, jeżeli:  umowa ta obejmuje gwarancję zysku, lub  świadczenie wynikające z realizacji tej umowy jest w ponad 25% związane z wypłatami odsetek w rozumieniu lit. a–e;
+- **4)** wypłacie odsetek – oznacza to: odsetki wypłacone, postawione do dyspozycji lub zapisane na rachunku, w tym skapitalizowane, związane z wierzytelnościami wszelkiego rodzaju, z wyjątkiem opłat z tytułu opóźnionej zapłaty, bez względu na to, czy są one zabezpieczone hipoteką lub czy wiąże się z nimi prawo do udziału w zyskach dłużnika, oraz, w szczególności przychód (dochód) ze skarbowych papierów wartościowych, z obligacji lub skryptów dłużnych, włącznie z premiami i nagrodami mającymi związek z takimi papierami wartościowymi, obligacjami i skryptami dłużnymi, przychód (dochód) wypłacony, uzyskany, w tym postawiony do dyspozycji, lub zapisany na rachunku, związany z papierami wartościowymi wszelkiego rodzaju, jeżeli nie uznaje się go bezpośrednio za wypłatę odsetek zgodnie z lit. a i c-e, oraz gdy: – zgodnie z warunkami zwrotu kapitału określonymi w dniu emisji inwestor otrzyma w terminie wykupu co najmniej 95% zainwestowanego kapitału, lub – warunki określone w dniu emisji przewidują związek, w wysokości co najmniej 95% dochodu z papieru wartościowego, z odsetkami lub dochodami, o których mowa w lit. a lub c-e, odsetki naliczone lub skapitalizowane w momencie sprzedaży, spłaty lub umorzenia wierzytelności, o których mowa w lit. a, oraz przychód (dochód) naliczony lub skapitalizowany w momencie sprzedaży, spłaty lub umorzenia papierów wartościowych, o których mowa w lit. b, przychód (dochód) uzyskany z wypłat odsetek, w rozumieniu lit. a-c, bezpośrednio lub za pośrednictwem pośredniego odbiorcy, wypłacany przez podmiot lub przedsięwzięcie, o których mowa w pkt 3 lit. a i b, przychód (dochód) uzyskany w związku ze sprzedażą, spłatą lub umorzeniem akcji, udziałów lub jednostek w podmiotach lub w przedsięwzięciach, o których mowa w pkt 3 lit. a i b, jeżeli te podmioty lub te przedsięwzięcia, zainwestowały bezpośrednio lub pośrednio przez inne takie podmioty, takie przedsięwzięcia lub przez podmioty pośredniczące, łącznie ponad 25% swoich aktywów, w wierzytelności, o których mowa w lit. a, lub w papiery wartościowe, o których mowa w lit. b, z wyłączeniem tych aktywów, które muszą posiadać jako zabezpieczenie na realizację swoich celów inwestycyjnych i w odniesieniu do których inwestor nie ma uprawnień, zysk z umowy ubezpieczenia na życie, jeżeli: – umowa ta obejmuje gwarancję zysku, lub – świadczenie wynikające z realizacji tej umowy jest w ponad 25% związane z wypłatami odsetek w rozumieniu lit. a-e;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
 
-- **5)** zysku z umowy ubezpieczenia na życie – oznacza to:
-    - **a)** nadwyżkę kwoty wypłaconej przez ubezpieczyciela lub zakład ubezpieczeń z umowy ubezpieczenia na życie, także przed dniem wymagalności wypłaty, ponad sumę wszystkich płatności dokonanych na rzecz ubezpieczyciela lub zakładu ubezpieczeń na mocy tej samej umowy ubezpieczenia na życie,
-    - **b)** nadwyżkę wartości praw do świadczeń z tytułu umowy ubezpieczenia na życie ponad sumę wszystkich płatności dokonanych na rzecz ubezpieczyciela lub zakładu ubezpieczeń – w przypadku cesji, w całości lub w części, tych praw na rzecz osoby trzeciej,
-    - **c)** wypłatę dokonaną przez ubezpieczyciela lub zakład ubezpieczeń lub cesję praw do świadczeń z tytułu umowy ubezpieczenia na życie na rzecz osoby trzeciej, które nastąpiły przed końcem okresu 5 lat – w przypadku umowy ubezpieczenia na życie, która przewiduje wyłącznie wypłatę przez okres co najmniej 5 lat emerytury lub stałych okresowych świadczeń – z wyjątkiem kwot wypłaconych wyłącznie w związku ze śmiercią, niepełnosprawnością lub chorobą;
+- **5)** zysku z umowy ubezpieczenia na życie – oznacza to: nadwyżkę kwoty wypłaconej przez ubezpieczyciela lub zakład ubezpieczeń z umowy ubezpieczenia na życie, także przed dniem wymagalności wypłaty, ponad sumę wszystkich płatności dokonanych na rzecz ubezpieczyciela lub zakładu ubezpieczeń na mocy tej samej umowy ubezpieczenia na życie, nadwyżkę wartości praw do świadczeń z tytułu umowy ubezpieczenia na życie ponad sumę wszystkich płatności dokonanych na rzecz ubezpieczyciela lub zakładu ubezpieczeń – w przypadku cesji, w całości lub w części, tych praw na rzecz osoby trzeciej, wypłatę dokonaną przez ubezpieczyciela lub zakład ubezpieczeń lub cesję praw do świadczeń z tytułu umowy ubezpieczenia na życie na rzecz osoby trzeciej, które nastąpiły przed końcem okresu 5 lat – w przypadku umowy ubezpieczenia na życie, która przewiduje wyłącznie wypłatę przez okres co najmniej 5 lat emerytury lub stałych okresowych świadczeń z wyjątkiem kwot wypłaconych wyłącznie w związku ze śmiercią, niepełnosprawnością lub chorobą;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **6)** podmiocie gospodarczym – oznacza to instytucję kredytową lub finansową, inną osobę prawną, jednostkę organizacyjną niemającą osobowości prawnej lub osobę fizyczną, które w związku z prowadzoną działalnością gospodarczą dokonują wypłaty odsetek lub zabezpieczają wypłatę odsetek;
-- **7)** miejscu faktycznego zarządu – oznacza to:
-    - **a)** miejsce, w którym podejmowane są istotne decyzje dotyczące zarządzania podmiotem, lub miejsce, w którym podejmowana jest większość istotnych decyzji dotyczących zarządzania w odniesieniu do aktywów skutkujących wypłatą odsetek,
-    - **b)** w przypadku przedsięwzięcia:  miejsce zamieszkania osoby fizycznej będącej główną osobą odpowiedzialną za podejmowanie istotnych decyzji dotyczących zarządzania aktywami tego przedsięwzięcia lub będącej odpowiedzialną za podejmowanie największej części istotnych decyzji dotyczących zarządzania w odniesieniu do aktywów skutkujących wypłatą odsetek, lub  miejsce siedziby lub faktycznego zarządu osoby prawnej będącej główną osobą odpowiedzialną za zarządzanie aktywami lub będącej odpowiedzialną za podejmowanie największej części istotnych decyzji dotyczących zarządzania w odniesieniu do aktywów skutkujących wypłatą odsetek;
+- **7)** miejscu faktycznego zarządu – oznacza to: miejsce, w którym podejmowane są istotne decyzje dotyczące zarządzania podmiotem, lub miejsce, w którym podejmowana jest większość istotnych decyzji dotyczących zarządzania w odniesieniu do aktywów skutkujących wypłatą odsetek, w przypadku przedsięwzięcia: – miejsce zamieszkania osoby fizycznej będącej główną osobą odpowiedzialną za podejmowanie istotnych decyzji dotyczących zarządzania aktywami tego przedsięwzięcia lub będącej odpowiedzialną za podejmowanie największej części istotnych decyzji dotyczących zarządzania w odniesieniu do aktywów skutkujących wypłatą odsetek, lub – miejsce siedziby lub faktycznego zarządu osoby prawnej będącej główną osobą odpowiedzialną za zarządzanie aktywami lub będącej odpowiedzialną za podejmowanie największej części istotnych decyzji dotyczących zarządzania w odniesieniu do aktywów skutkujących wypłatą odsetek;
+    - **a)**
+    - **b)**
 
 - **8)** podleganiu faktycznemu opodatkowaniu – oznacza to podleganie obowiązkowi podatkowemu od całości swoich dochodów lub części tych dochodów przypadającej niebędącym rezydentami osobom uprawnionym do części dochodu podmiotu lub uczestnikom przedsięwzięcia, w tym od wypłat odsetek.
 
@@ -88,9 +233,7 @@ source: "isap-pdf"
 6. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
 
 - **1)** listę podmiotów i przedsięwzięć, które uznaje się za niepodlegające faktycznemu opodatkowaniu, do celów ustalenia pośredniego odbiorcy,
-- **2)** listę podmiotów i przedsięwzięć, które uznaje się za niepodlegające faktycznemu opodatkowaniu, do celów ustalenia podmiotu wypłacającego, o którym mowa ust. 2 – uwzględniając wymagania określone prawem Unii Europejskiej regulującym opodatkowanie dochodów z oszczędności w formie wypłacanych odsetek.
-
-**Art. 44d.**
+- **2)** listę podmiotów i przedsięwzięć, które uznaje się za niepodlegające faktycznemu opodatkowaniu, do celów ustalenia podmiotu wypłacającego, o którym mowa ust. 2 uwzględniając wymagania określone prawem Unii Europejskiej regulującym opodatkowanie dochodów z oszczędności w formie wypłacanych odsetek.
 
 1. Podmiot wypłacający, w terminie do końca miesiąca następującego po zakończeniu jego roku podatkowego, jest obowiązany przesłać, sporządzoną według ustalonego wzoru, informację dotyczącą wypłaty odsetek lub zabezpieczenia wypłaty odsetek:
 
@@ -99,22 +242,22 @@ source: "isap-pdf"
 
 2. W przypadku gdy podmiot wypłacający nie posiada informacji w zakresie:
 
-- **1)** kwoty przychodu (dochodu), o którym mowa w art. 44c ust. 1 pkt 4 lit. b, kwoty odsetek lub przychodu (dochodu), o którym mowa w art. 44c ust. 1 pkt 4 lit. c, oraz zysku, o którym mowa w art. 44c ust. 1 pkt 4 lit. f  wskazuje całość wypłaconej lub uzyskanej kwoty;
-- **2)** części przychodu (dochodu) uzyskanego z wypłat, o którym mowa w art. 44c ust. 1 pkt 4 lit. d i e  wskazuje cały przychód (dochód);
-- **3)** udziału aktywów zainwestowanych w wierzytelności, papiery wartościowe, akcje, udziały lub jednostki, o których mowa w art. 44c ust. 1 pkt 4 lit. e  przyjmuje, że udział aktywów wynosi ponad 25%, a w przypadku gdy podmiot wypłacający nie jest w stanie określić kwoty przychodu uzyskanego przez faktycznego odbiorcę  przyjmuje, że dochód odpowiada wpływom ze sprzedaży, spłaty lub umorzenia akcji, udziałów lub jednostek;
-- **4)** części, w jakiej świadczenie wynikające z realizacji umowy ubezpieczenia na życie jest związane z wypłatą odsetek w rozumieniu art. 44c ust. 1 pkt 4 lit. a–e  przyjmuje, że część ta wynosi ponad 25%.
+- **1)** kwoty przychodu (dochodu), o którym mowa w art. 44c ust. 1 pkt 4 lit. b, kwoty odsetek lub przychodu (dochodu), o którym mowa w art. 44c ust. 1 pkt 4 lit. c, oraz zysku, o którym mowa w art. 44c ust. 1 pkt 4 lit. f wskazuje całość wypłaconej lub uzyskanej kwoty;
+- **2)** części przychodu (dochodu) uzyskanego z wypłat, o którym mowa w art. 44c ust. 1 pkt 4 lit. d i e wskazuje cały przychód (dochód);
+- **3)** udziału aktywów zainwestowanych w wierzytelności, papiery wartościowe, akcje, udziały lub jednostki, o których mowa w art. 44c ust. 1 pkt 4 lit. e przyjmuje, że udział aktywów wynosi ponad 25%, a w przypadku gdy podmiot wypłacający nie jest w stanie określić kwoty przychodu uzyskanego przez faktycznego odbiorcę przyjmuje, że dochód odpowiada wpływom ze sprzedaży, spłaty lub umorzenia akcji, udziałów lub jednostek;
+- **4)** części, w jakiej świadczenie wynikające z realizacji umowy ubezpieczenia na życie jest związane z wypłatą odsetek w rozumieniu art. 44c ust. 1 pkt 4 lit. a-e przyjmuje, że część ta wynosi ponad 25%.
 
 3. Podmiot gospodarczy dokonujący wypłaty odsetek lub zabezpieczający wypłatę odsetek, na rzecz pośredniego odbiorcy mającego miejsce faktycznego zarządu w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej lub w państwie lub na terytorium zależnym lub terytorium stowarzyszonym Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej oraz Królestwa Niderlandów, z którym Rzeczpospolita Polska jest związana umową w sprawie środków równoważnych do środków określonych w niniejszym rozdziale:
 
-- **1)** sporządza, według ustalonego wzoru, informację obejmującą:
-    - **a)** nazwę i formę prawną pośredniego odbiorcy,
-    - **b)** miejsce faktycznego zarządu pośredniego odbiorcy,
-    - **c)** całkowitą kwotę wypłat odsetek wypłaconą lub zabezpieczoną na rzecz pośredniego odbiorcy,
-    - **d)** datę ostatniej wypłaty odsetek;
+- **1)** sporządza, według ustalonego wzoru, informację obejmującą: nazwę i formę prawną pośredniego odbiorcy, miejsce faktycznego zarządu pośredniego odbiorcy, całkowitą kwotę wypłat odsetek wypłaconą lub zabezpieczoną na rzecz pośredniego odbiorcy, datę ostatniej wypłaty odsetek;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
-- **2)** przesyła informację, o której mowa w pkt 1, w terminie do końca miesiąca następującego po zakończeniu jego roku podatkowego:
-    - **a)** pośredniemu odbiorcy,
-    - **b)** za pomocą środków komunikacji elektronicznej urzędowi skarbowemu, przy pomocy którego naczelnik urzędu skarbowego właściwy w sprawach opodatkowania osób zagranicznych wykonuje swoje zadania.
+- **2)** przesyła informację, o której mowa w pkt 1, w terminie do końca miesiąca następującego po zakończeniu jego roku podatkowego: pośredniemu odbiorcy, za pomocą środków komunikacji elektronicznej urzędowi skarbowemu, przy pomocy którego naczelnik urzędu skarbowego właściwy w sprawach opodatkowania osób zagranicznych wykonuje swoje zadania.
+    - **a)**
+    - **b)**
 
 4. Obowiązek sporządzenia i przesłania informacji, o której mowa w ust. 1, dotyczy również pośredniego odbiorcy, mającego miejsce faktycznego zarządu na terytorium Rzeczypospolitej Polskiej, a jeżeli pośredni odbiorca jest przedsięwzięciem – osoby fizycznej lub osoby prawnej określonej w art. 44c ust. 1 pkt 7 lit. b. Przepisy ust. 1 i 2 stosuje się odpowiednio.
 
@@ -133,65 +276,243 @@ source: "isap-pdf"
 
 10. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór informacji, o których mowa w ust. 1 i 3, z uwzględnieniem wymagań określonych przez Komisję Europejską dotyczących wspólnych formatów i praktycznych procedur niezbędnych do celów elektronicznej wymiany tych informacji, wraz z objaśnieniami co do sposobu wypełniania tych informacji oraz terminu i miejsca ich składania, w celu umożliwienia jednolitego i poprawnego przekazywania tych informacji przez podmiot wypłacający, pośredniego odbiorcę oraz podmiot gospodarczy, o którym mowa w ust. 3.
 
-**Art. 44e.**
-
 1. Sporządzając informację, o której mowa w art. 44d ust. 1, podmiot wypłacający:
 
-- **1)** ustala tożsamość faktycznego odbiorcy w zakresie:
-    - **a)** imienia i nazwiska, adresu zamieszkania, daty i miejsca urodzenia – na podstawie przedstawionego przez niego paszportu lub urzędowego dokumentu potwierdzającego tożsamość, a w przypadku gdy dane te nie są zawarte w wymienionych dokumentach – na podstawie innego dokumentu potwierdzającego tożsamość,
-    - **b)** numeru identyfikacji podatkowej lub jego odpowiednika, nadanego przez państwo członkowskie Unii Europejskiej, w którym faktyczny odbiorca ma miejsce zamieszkania dla celów podatkowych – na podstawie urzędowych dokumentów zawierających ten numer lub jego odpowiednik;
+- **1)** ustala tożsamość faktycznego odbiorcy w zakresie: imienia i nazwiska, adresu zamieszkania, daty i miejsca urodzenia – na podstawie przedstawionego przez niego paszportu lub urzędowego dokumentu potwierdzającego tożsamość, a w przypadku gdy dane te nie są zawarte w wymienionych dokumentach – na podstawie innego dokumentu potwierdzającego tożsamość, numeru identyfikacji podatkowej lub jego odpowiednika, nadanego przez państwo członkowskie Unii Europejskiej, w którym faktyczny odbiorca ma miejsce zamieszkania dla celów podatkowych – na podstawie urzędowych dokumentów zawierających ten numer lub jego odpowiednik;
+    - **a)**
+    - **b)**
 
 - **2)** przyjmuje, że faktyczny odbiorca ma miejsce zamieszkania dla celów podatkowych, w państwie lub na terytorium wskazanym w przedstawionym przez niego certyfikacie rezydencji, wydanym w okresie 3 lat poprzedzających dzień wypłaty odsetek lub dzień, w którym wypłata odsetek przysługiwała faktycznemu odbiorcy, o którym mowa w art. 44c ust. 3, pod warunkiem że okres ważności certyfikatu obejmuje odpowiednio dzień wypłaty odsetek lub dzień, w którym wypłata odsetek przysługiwała faktycznemu odbiorcy, a w razie nieprzedstawienia takiego certyfikatu – w państwie lub na terytorium, w którym ma on miejsce stałego zamieszkania;
-- **3)** ustala miejsce stałego zamieszkania, o którym mowa w pkt 2, na podstawie adresu zamieszkania ustalonego zgodnie z pkt 1 lit. a, a w przypadku faktycznego odbiorcy przedstawiającego paszport lub inny urzędowy dokument potwierdzający tożsamość wydany przez organy państwa lub terytorium, o których mowa w art. 44d ust. 1 pkt 1, który deklaruje, że ma miejsce zamieszkania dla celów podatkowych w innym państwie lub na innym terytorium, niż określone w art. 44d ust. 1 pkt 1 – na podstawie:
-    - **a)** przedstawionego przez niego certyfikatu rezydencji wydanego przez właściwy organ podatkowy zadeklarowanego państwa lub terytorium w okresie 3 lat, o którym mowa w pkt 2, a jeżeli faktyczny odbiorca nie przedstawi certyfikatu rezydencji, podmiot wypłacający uznaje, że państwem lub terytorium, w którym faktyczny odbiorca ma miejsce stałego zamieszkania jest państwo lub terytorium, które wydało paszport lub inny urzędowy dokument potwierdzający tożsamość,
-    - **b)** urzędowej dokumentacji, wskazującej miejsce zamieszkania dla celów podatkowych faktycznego odbiorcy, w związku z jego statusem dyplomatycznym lub innymi przywilejami ustalonymi zgodnie z prawem międzynarodowym, w innym państwie niż państwo, w którym ma miejsce stałego zamieszkania – jeżeli podmiot wypłacający dysponuje taką dokumentacją.
+- **3)** ustala miejsce stałego zamieszkania, o którym mowa w pkt 2, na podstawie adresu zamieszkania ustalonego zgodnie z pkt 1 lit. a, a w przypadku faktycznego odbiorcy przedstawiającego paszport lub inny urzędowy dokument potwierdzający tożsamość wydany przez organy państwa lub terytorium, o których mowa w art. 44d ust. 1 pkt 1, który deklaruje, że ma miejsce zamieszkania dla celów podatkowych w innym państwie lub na innym terytorium, niż określone w art. 44d ust. 1 pkt 1 – na podstawie: przedstawionego przez niego certyfikatu rezydencji wydanego przez właściwy organ podatkowy zadeklarowanego państwa lub terytorium w okresie 3 lat, o którym mowa w pkt 2, a jeżeli faktyczny odbiorca nie przedstawi certyfikatu rezydencji, podmiot wypłacający uznaje, że państwem lub terytorium, w którym faktyczny odbiorca ma miejsce stałego zamieszkania jest państwo lub terytorium, które wydało paszport lub inny urzędowy dokument potwierdzający tożsamość, urzędowej dokumentacji, wskazującej miejsce zamieszkania dla celów podatkowych faktycznego odbiorcy, w związku z jego statusem dyplomatycznym lub innymi przywilejami ustalonymi zgodnie z prawem międzynarodowym, w innym państwie niż państwo, w którym ma miejsce stałego zamieszkania – jeżeli podmiot wypłacający dysponuje taką dokumentacją.
+    - **a)**
+    - **b)**
 
 2. W odniesieniu do wypłat odsetek dokonanych lub zabezpieczonych na podstawie umów zawartych przed dniem 1 stycznia 2004 r., podmiot wypłacający może ustalić, na podstawie posiadanych informacji, tożsamość faktycznego odbiorcy tylko w zakresie imienia, nazwiska oraz adresu zamieszkania.
 
 3. W odniesieniu do wypłat odsetek dokonanych lub zabezpieczonych na podstawie umów zawartych w okresie od dnia 1 stycznia 2004 r. do dnia 30 czerwca 2015 r., a w przypadku braku umów – do wypłat odsetek dokonanych lub zabezpieczonych w okresie od dnia 1 stycznia 2004 r. do dnia 30 czerwca 2015 r., podmiot wypłacający ustala datę i miejsce urodzenia faktycznego odbiorcy wyłącznie w przypadku, gdy nie jest dostępny numer identyfikacji podatkowej lub jego odpowiednik.
 
-4. Jeżeli podmiot wypłacający ma uzasadnione wątpliwości, czy osoba fizyczna, której dokonuje wypłaty odsetek lub dla której wypłata odsetek jest zabezpieczona, jest faktycznym odbiorcą oraz gdy nie ma do niej zastosowania art. 44c ust. 1 pkt 2 lit. a–c, podejmuje czynności w celu ustalenia tożsamości faktycznego odbiorcy zgodnie z ust. 1. Jeżeli podmiot wypłacający nie jest w stanie ustalić tożsamości faktycznego odbiorcy, traktuje osobę fizyczną, której dokonuje wypłaty odsetek lub dla której wypłata odsetek jest zabezpieczona, jako faktycznego odbiorcę.
+4. Jeżeli podmiot wypłacający ma uzasadnione wątpliwości, czy osoba fizyczna, której dokonuje wypłaty odsetek lub dla której wypłata odsetek jest zabezpieczona, jest faktycznym odbiorcą oraz gdy nie ma do niej zastosowania art. 44c ust. 1 pkt 2 lit. a-c, podejmuje czynności w celu ustalenia tożsamości faktycznego odbiorcy zgodnie z ust. 1. Jeżeli podmiot wypłacający nie jest w stanie ustalić tożsamości faktycznego odbiorcy, traktuje osobę fizyczną, której dokonuje wypłaty odsetek lub dla której wypłata odsetek jest zabezpieczona, jako faktycznego odbiorcę.
 
 5. Podmiot gospodarczy będący instytucją obowiązaną, o której mowa w art. 44c ust. 2:
 
 - **1)** ustala formę prawną podmiotu lub przedsięwzięcia, o którym mowa w art. 44c ust. 2 pkt 1, oraz miejsce jego siedziby lub miejsce faktycznego zarządu – na podstawie danych ujawnionych przez osobę fizyczną działającą w imieniu tego podmiotu lub przedsięwzięcia, chyba że ten podmiot gospodarczy posiada wiarygodne informacje wskazujące na to, że dane ujawnione są nieprawdziwe lub niekompletne;
 - **2)** w przypadku gdy podmiot lub przedsięwzięcie, umieszczone na liście, o której mowa w art. 44c ust. 6 pkt 2, twierdzą, że podlegają faktycznemu opodatkowaniu, ten podmiot gospodarczy ustala okoliczność faktycznego opodatkowania – na podstawie ogólnie uznanych faktów lub dokumentów urzędowych przedstawionych przez ten podmiot lub przedsięwzięcie, lub tych dokumentów dostępnych w wyniku zastosowania środków bezpieczeństwa finansowego wobec klientów zgodnie z przepisami o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu; w ten sam sposób podmiot gospodarczy będący instytucją obowiązaną ustala, czy inne podmioty lub przedsięwzięcia, o których mowa w art. 44c ust. 2 pkt 1, podlegają faktycznemu opodatkowaniu.
 
-6. Jeżeli podmiot gospodarczy dokonuje lub zabezpiecza wypłatę odsetek na rzecz podmiotu lub przedsięwzięcia, umieszczonego na liście, o której mowa w art. 44c ust. 6 pkt 1, które twierdzą, że podlegają faktycznemu opodatkowaniu albo na rzecz innego podmiotu lub przedsięwzięcia, ten podmiot gospodarczy ustala okoliczność faktycznego opodatkowania – na potrzeby art. 44c ust. 1 pkt 3 – na podstawie ogólnie uznanych faktów lub dokumentów urzędowych przedstawionych przez podmiot lub przedsięwzięcie, lub tych dokumentów dostępnych w wyniku zastosowania środków bezpieczeństwa finansowego wobec klientów zgodnie z przepisami o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.”;
+6. Jeżeli podmiot gospodarczy dokonuje lub zabezpiecza wypłatę odsetek na rzecz podmiotu lub przedsięwzięcia, umieszczonego na liście, o której mowa w art. 44c ust. 6 pkt 1, które twierdzą, że podlegają faktycznemu opodatkowaniu albo na rzecz innego podmiotu lub przedsięwzięcia, ten podmiot gospodarczy ustala okoliczność faktycznego opodatkowania – na potrzeby art. 44c ust. 1 pkt 3 – na podstawie ogólnie uznanych faktów lub dokumentów urzędowych przedstawionych przez podmiot lub przedsięwzięcie, lub tych dokumentów dostępnych w wyniku zastosowania środków bezpieczeństwa finansowego wobec klientów zgodnie z przepisami o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu. ” ;
 
-- **11)** w art. 45 dodaje się ust. 9–11 w brzmieniu: „9. Podatnicy obowiązani do sporządzania dokumentacji podatkowej, jeżeli ich przychody lub koszty, w rozumieniu przepisów o rachunkowości, przekroczyły w roku podatkowym równowartość 10 000 000 euro, dołączają do rocznego zeznania podatkowego za rok podatkowy uproszczone sprawozdanie w sprawie transakcji z podmiotami powiązanymi lub innych zdarzeń zachodzących pomiędzy podmiotami powiązanymi, lub w związku z którymi zapłata należności dokonywana jest bezpośrednio lub pośrednio na rzecz podmiotu mającego miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową.
+- **11)** w art. 45 dodaje się ust. 9–11 w brzmieniu: „
+
+9. Podatnicy obowiązani do sporządzania dokumentacji podatkowej, jeżeli ich przychody lub koszty, w rozumieniu przepisów o rachunkowości, przekroczyły w roku podatkowym równowartość 10 000 000 euro, dołączają do rocznego zeznania podatkowego za rok podatkowy uproszczone sprawozdanie w sprawie transakcji z podmiotami powiązanymi lub innych zdarzeń zachodzących pomiędzy podmiotami powiązanymi, lub w związku z którymi zapłata należności dokonywana jest bezpośrednio lub pośrednio na rzecz podmiotu mającego miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową.
 
 10. Wyrażone w euro wielkości, o których mowa w ust. 9, przelicza się na walutę polską po średnim kursie ogłaszanym przez Narodowy Bank Polski, obowiązującym w ostatnim dniu roboczym roku podatkowego poprzedzającego rok podatkowy, za który jest składane sprawozdanie, o którym mowa w ust. 9.
 
-11. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór uproszczonego sprawozdania, o którym mowa w ust. 9, uwzględniając informacje dotyczące podmiotów powiązanych, rodzaju powiązań z tymi podmiotami, rodzaju i przedmiotu transakcji lub innych zdarzeń, zachodzących pomiędzy podmiotami powiązanymi, lub w związku z którymi zapłata należności dokonywana jest bezpośrednio lub pośrednio na rzecz podmiotu mającego miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, a także kierując się potrzebą ułatwienia podatnikom poprawnego sporządzenia tego sprawozdania.”.
+11. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór uproszczonego sprawozdania, o którym mowa w ust. 9, uwzględniając informacje dotyczące podmiotów powiązanych, rodzaju powiązań z tymi podmiotami, rodzaju i przedmiotu transakcji lub innych zdarzeń, zachodzących pomiędzy podmiotami powiązanymi, lub w związku z którymi zapłata należności dokonywana jest bezpośrednio lub pośrednio na rzecz podmiotu mającego miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, a także kierując się potrzebą ułatwienia podatnikom poprawnego sporządzenia tego sprawozdania. ” .
 
-**Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2012 r. poz. 1314, z późn. zm. ) w art. 11 uchyla się ust. 5.
+- **1)** w art. 9a: ust. 1 otrzymuje brzmienie: „
+    - **a)**
 
-**Art. 4.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613, z późn. zm. ) w art. 82 dodaje się § 1a w brzmieniu: „§ 1a. Przepisu § 1 pkt 2 nie stosuje się do podmiotów, o których mowa w § 1, obowiązanych do sporządzenia uproszczonego sprawozdania w sprawie transakcji z podmiotami powiązanymi lub innych zdarzeń zachodzących pomiędzy podmiotami powiązanymi, lub w związku z którymi zapłata należności dokonywana jest bezpośrednio lub pośrednio na rzecz podmiotu mającego miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, na podstawie przepisów art. 45 ust. 9 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz art. 27 ust. 5 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm. ). Wyłączenie, o którym mowa w zdaniu pierwszym, nie dotyczy podatników, o których mowa w art. 25a ust. 1 pkt 2 i 3 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz w art. 9a ust. 1 pkt 2 i 3 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych.”.
+1. Podatnicy:
 
-**Art. 5.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2013 r. poz. 186, z późn. zm. ) wprowadza się następujące zmiany:
+- **1)** których przychody lub koszty, w rozumieniu przepisów o rachunkowości, ustalone na podstawie prowadzonych ksiąg rachunkowych przekroczyły w roku poprzedzającym rok podatkowy równowartość 2 000 000 euro: dokonujący w roku podatkowym transakcji z podmiotami powiązanymi w rozumieniu art. 11 ust. 1 i 4, mających istotny wpływ na wysokość ich dochodu (straty), lub ujmujący w roku podatkowym w księgach rachunkowych inne zdarzenia, których warunki zostały ustalone (lub narzucone) z podmiotami powiązanymi w rozumieniu art. 11 ust. 1 i 4, mające istotny wpływ na wysokość ich dochodu (straty) lub
+    - **a)**
+    - **b)**
 
-**Art. 6.** W ustawie z dnia 23 lipca 2015 r. o zmianie ustawy o sporcie oraz ustawy o podatku dochodowym od osób fizycznych (Dz. U. poz. 1321) w art. 2 pkt 3 otrzymuje brzmienie: „3) po pkt 40d dodaje się pkt 40e w brzmieniu: „40e) świadczenie pieniężne ze środków budżetu państwa, przysługujące na podstawie art. 36 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2014 r. poz. 715 i 1321);”.”.
+- **2)** dokonujący, bezpośrednio lub pośrednio, zapłaty należności na rzecz podmiotu mającego miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, wynikających z transakcji lub innego zdarzenia ujętego w księgach rachunkowych, jeżeli łączna kwota (lub jej równowartość) wynikająca z umowy lub rzeczywiście zapłacona w roku podatkowym łączna kwota wymagalnych w roku podatkowym świadczeń przekracza równowartość 20 000 euro, lub
+- **3)** zawierający z podmiotem mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową: umowę spółki niebędącej osobą prawną, jeżeli łączna wartość wniesionych przez wspólników wkładów przekracza równowartość 20 000 euro lub umowę wspólnego przedsięwzięcia lub inną umowę o podobnym charakterze, w których wartość wspólnie realizowanego przedsięwzięcia określona w umowie, a w przypadku braku określenia w umowie tej wartości, przewidywana na dzień zawarcia umowy, przekracza równowartość 20 000 euro są obowiązani do sporządzenia dokumentacji podatkowej tych transakcji lub innych zdarzeń, zwanej dalej „dokumentacją podatkową”. ” , po ust. 1 dodaje się ust.1a-1g w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **b)**
 
-**Art. 7.** W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 1479) w art. 1 w pkt 80, w art. 138s pkt 2 otrzymuje brzmienie: „2) sposób prowadzenia ewidencji, o których mowa w art. 138a ust. 1, art. 138b, art. 138c, art. 138e–138l,”.
+1a. Podatnicy, o których mowa w ust. 1 pkt 1, są obowiązani do sporządzenia dokumentacji podatkowej również za rok podatkowy następujący po roku podatkowym, za który byli obowiązani sporządzić dokumentację podatkową, bez względu na wysokość osiągniętych, w roku podatkowym, za który byli obowiązani do sporządzenia dokumentacji podatkowej, przychodów lub poniesionych kosztów, w rozumieniu przepisów o rachunkowości.
+
+1b. Podatnicy rozpoczynający działalność, dokonujący w roku podatkowym transakcji lub ujmujący w roku podatkowym w księgach rachunkowych inne zdarzenia, o których mowa w ust. 1 pkt 1, są obowiązani do sporządzenia dokumentacji podatkowej w roku rozpoczęcia prowadzenia tej działalności, począwszy od miesiąca następującego po miesiącu, w którym przychody lub koszty, w rozumieniu przepisów o rachunkowości, ustalone na podstawie prowadzonych ksiąg rachunkowych przekroczyły równowartość 2 000 000 euro.
+
+1c. Za podatnika rozpoczynającego działalność nie uważa się podatnika, który został utworzony:
+
+- **1)** w wyniku przekształcenia, połączenia lub podziału podatników, albo
+- **2)** w wyniku przekształcenia spółki niebędącej osobą prawną, albo
+- **3)** przez osoby fizyczne, które wniosły na poczet kapitału nowo utworzonego podmiotu uprzednio prowadzone przez siebie przedsiębiorstwo albo składniki majątku tego przedsiębiorstwa o wartości przekraczającej łącznie równowartość w złotych kwoty co najmniej 10 000 euro, z tym że wartość tych składników oblicza się stosując odpowiednio art. 14.
+
+1d. Za transakcje lub inne zdarzenia mające istotny wpływ na wysokość dochodu (straty) podatnika, o których mowa w ust. 1 pkt 1, uznaje się transakcje lub inne zdarzenia jednego rodzaju, których łączna wartość przekracza w roku podatkowym równowartość 50 000 euro, z tym że w przypadku podatników, których przychody w rozumieniu przepisów o rachunkowości, w roku poprzedzającym rok podatkowy przekroczyły równowartość:
+
+- **1)** 2 000 000 euro, lecz nie więcej niż równowartość 20 000 000 euro – za takie transakcje lub inne zdarzenia uznaje się transakcje lub inne zdarzenia jednego rodzaju, których wartość przekracza w roku podatkowym kwotę stanowiącą równowartość kwoty 50 000 euro powiększoną o 5000 euro za każdy 1 000 000 euro przychodu powyżej 2 000 000 euro;
+- **2)** 20 000 000 euro, lecz nie więcej niż równowartość 100 000 000 euro – za takie transakcje lub inne zdarzenia uznaje się transakcje lub inne zdarzenia jednego rodzaju, których wartość przekracza w roku podatkowym kwotę stanowiącą równowartość kwoty 140 000 euro powiększoną o 45 000 euro za każde 10 000 000 euro przychodu powyżej 20 000 000 euro;
+- **3)** 100 000 000 euro – za takie transakcje lub inne zdarzenia uznaje się transakcje lub inne zdarzenia jednego rodzaju, których wartość w roku podatkowym przekracza kwotę stanowiącą równowartość kwoty 500 000 euro.
+
+1e. Za transakcje lub inne zdarzenia mające istotny wpływ na wysokość dochodu (straty) podatnika, o których mowa w ust. 1 pkt 1, uznaje się również zawartą w roku podatkowym:
+
+- **1)** umowę spółki niebędącej osobą prawną, w której łączna wartość wniesionych przez wspólników wkładów przekracza równowartość 50 000 euro lub
+- **2)** umowę wspólnego przedsięwzięcia lub inną umowę o podobnym charakterze, w której wartość wspólnie realizowanego przedsięwzięcia określona w umowie, a w przypadku braku określenia w umowie tej wartości, przewidywana na dzień zawarcia umowy, przekracza równowartość 50 000 euro.
+
+1f. W przypadku podatników uzyskujących przychody z udziału w spółce niebędącej osobą prawną, jeżeli spółka niebędąca osobą prawną dokonuje transakcji lub innych zdarzeń, o których mowa w ust. 1 pkt 1, spełnienie warunku prowadzenia ksiąg rachunkowych i limit przychodów lub kosztów, o których mowa w ust. 1 pkt 1, ustala się dla tej spółki.
+
+1g. W przypadku, o którym mowa w ust. 1f, dokumentacja podatkowa może zostać sporządzona przez wyznaczonego wspólnika mającego siedzibę lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej. Wyznaczenie wspólnika nie zwalnia pozostałych wspólników z odpowiedzialności za nieprzedłożenie wymaganej dokumentacji podatkowej. ” , uchyla się ust. 2 i 2a, po ust. 2a dodaje się ust. 2b-2i w brzmieniu: „
+
+- **c)**
+- **d)**
+
+2b. Dokumentacja podatkowa obejmuje:
+
+- **1)** opis transakcji lub innych zdarzeń, o których mowa w ust. 1, w tym umów zarządzania płynnością, umów o podziale kosztów, dokonywanych pomiędzy podatnikiem, a w przypadku, o którym mowa w ust. 1f – spółką niebędącą osobą prawną, i podmiotami z nimi powiązanymi, zawierający: wskazanie rodzaju i przedmiotu tych transakcji lub innych zdarzeń, dane finansowe, w tym przepływy pieniężne dotyczące tych transakcji lub innych zdarzeń, dane identyfikujące podmioty powiązane dokonujące tych transakcji lub ujmujące te zdarzenia, opis przebiegu tych transakcji lub innych zdarzeń, w tym funkcji wykonywanych przez podatnika, a w przypadku, o którym mowa w ust. 1f – spółkę niebędącą osobą prawną, i podmioty z nimi powiązane, angażowanych przez nich aktywów bilansowych i pozabilansowych, kapitału ludzkiego oraz ponoszonych ryzyk, wskazanie metody i sposobu kalkulacji dochodu (straty) podatnika wraz z uzasadnieniem ich wyboru, w tym algorytmu kalkulacji rozliczeń dotyczących tych transakcji lub innych zdarzeń oraz sposobu wyliczenia wartości rozliczeń wpływających na dochód (stratę) podatnika, a w przypadku, o którym mowa w ust. 1f – również pozostałych wspólników spółki niebędącej osobą prawną;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **2)** w przypadku podatników: których przychody lub koszty, w rozumieniu przepisów o rachunkowości, ustalone na podstawie prowadzonych ksiąg rachunkowych, przekroczyły w roku poprzedzającym rok podatkowy równowartość 10 000 000 euro albo posiadających udziały w spółce niebędącej osobą prawną, której przychody lub koszty, w rozumieniu obowiązujących tę spółkę przepisów o rachunkowości, ustalone na podstawie prowadzonych ksiąg rachunkowych przekroczyły w poprzednim roku obrotowym w rozumieniu tych przepisów równowartość 10 000 000 euro poza opisem, o którym mowa w pkt 1, także opis analizy danych podmiotów niezależnych lub danych ustalonych z podmiotem niezależnym, uznanych za porównywalne do warunków ustalonych w transakcjach lub innych zdarzeniach, o których mowa w ust. 1, zwanej dalej „analizą danych porównawczych”, wykorzystanych do kalkulacji rozliczeń, o której mowa w pkt 1 lit. e, wraz z podaniem źródła tych danych;
+    - **a)**
+    - **b)**
+
+- **3)** opis danych finansowych podatnika, a w przypadku, o którym mowa w ust. 1f – spółki niebędącej osobą prawną, pozwalający na porównanie rozliczeń, o których mowa w pkt 1 lit. e, z danymi wynikającymi z zatwierdzonego sprawozdania finansowego, jeżeli obowiązek jego sporządzenia wynika z obowiązujących podatnika lub spółkę przepisów o rachunkowości;
+- **4)** informacje o podatniku, a w przypadku, o którym mowa w ust. 1f – o spółce niebędącej osobą prawną, obejmujące opis: struktury organizacyjnej i struktury zarządczej, przedmiotu i zakresu prowadzonej działalności, realizowanej strategii gospodarczej, w tym przeprowadzonych w roku podatkowym lub w roku poprzedzającym rok podatkowy przeniesień pomiędzy podmiotami powiązanymi istotnych ekonomicznie funkcji, aktywów lub ryzyk, mających wpływ na dochód (stratę) podatnika, otoczenia konkurencyjnego;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **5)** dokumenty, w szczególności: umowy, porozumienia zawarte pomiędzy podmiotami powiązanymi lub inne dokumenty, dotyczące transakcji lub innych zdarzeń, o których mowa w ust. 1, umowę spółki niebędącej osobą prawną, umowę wspólnego przedsięwzięcia lub umowy o podobnym charakterze, dokumentujące zasady przyznawania praw wspólnikom (stronom umowy) do udziału w zysku oraz uczestnictwa w stratach, porozumienia w sprawach podatku dochodowego zawarte z administracjami podatkowymi państw innych niż Rzeczpospolita Polska, dotyczące transakcji lub innych zdarzeń, o których mowa w ust. 1, w szczególności uprzednie porozumienia cenowe.
+    - **a)**
+    - **b)**
+
+2c. Analiza danych porównawczych powinna zawierać dane porównywalne o podmiotach mających siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, jeżeli dane są dla podatnika dostępne. W przypadku braku danych do przeprowadzenia analizy danych porównawczych, podatnik załącza do dokumentacji podatkowej opis zgodności warunków transakcji oraz innych zdarzeń, ustalonych z podmiotami powiązanymi, z warunkami, które ustaliłyby między sobą niezależne podmioty.
+
+2d. Dokumentacja podatkowa powinna również zawierać informacje o grupie podmiotów powiązanych, w skład której wchodzi podatnik lub w przypadku, o którym mowa w ust. 1f – spółka niebędąca osobą prawną, w której podatnik uzyskuje przychody z udziału, jeżeli przychody tego podatnika albo tej spółki lub koszty, w rozumieniu przepisów o rachunkowości, przekroczyły w przypadku podatnika w roku poprzedzającym rok podatkowy, a w przypadku spółki niebędącej osobą prawną w poprzednim roku obrotowym w rozumieniu przepisów o rachunkowości, równowartość 20 000 000 euro. Informacje te obejmują w szczególności:
+
+- **1)** wskazanie podmiotu powiązanego, który sporządził informacje o grupie podmiotów powiązanych, wraz z podaniem daty składania przez niego zeznania podatkowego;
+- **2)** strukturę organizacyjną grupy podmiotów powiązanych;
+- **3)** opis zasad wyznaczania cen transakcyjnych (polityki cen transakcyjnych) stosowanych przez grupę podmiotów powiązanych;
+- **4)** opis przedmiotu i zakresu działalności prowadzonej przez grupę podmiotów powiązanych;
+- **5)** opis posiadanych, tworzonych, rozwijanych i wykorzystywanych w działalności przez grupę podmiotów powiązanych istotnych wartości niematerialnych;
+- **6)** opis sytuacji finansowej podmiotów tworzących grupę wraz ze sprawozdaniem skonsolidowanym podmiotów powiązanych tworzących grupę podmiotów powiązanych;
+- **7)** opis zawartych przez podmioty tworzące grupę podmiotów powiązanych porozumień w sprawach podatku dochodowego z administracjami podatkowymi państw innych niż Rzeczpospolita Polska, w tym jednostronnych uprzednich porozumień cenowych.
+
+2e. Obowiązek sporządzenia dokumentacji podatkowej w przypadku transakcji objętych decyzją w sprawie uznania prawidłowości wyboru i stosowania metody ustalania ceny transakcyjnej pomiędzy podmiotami powiązanymi, w okresie, którego ta decyzja dotyczy, obejmuje informacje, o których mowa w ust. 2b pkt 1 lit. b, d i e.
+
+2f. W przypadku podatników, o których mowa w ust. 1, 1b, 5a i 5b, dokumentację podatkową w zakresie elementów wymienionych w ust. 2b sporządza się nie później niż do dnia upływu terminu określonego dla złożenia rocznego zeznania podatkowego, z tym że opis, o którym mowa w ust. 2b pkt 3, sporządza się w terminie 10 dni od dnia zatwierdzenia sprawozdania finansowego podatnika lub spółki niebędącej osobą prawną.
+
+2g. Dokumentacja podatkowa dotycząca kontynuowanych w kolejnym roku podatkowym transakcji lub innych zdarzeń, o których mowa w ust. 1 pkt 1, podlega okresowemu przeglądowi i aktualizacji, nie rzadziej niż raz na rok podatkowy, przed dniem upływu terminu określonego dla złożenia zeznania podatkowego za kolejne lata, w zakresie zawartych w niej informacji, z zastrzeżeniem ust. 2h.
+
+2h. Dokumentacja podatkowa obejmująca elementy wymienione w ust. 2b pkt 2 podlega w tym zakresie aktualizacji nie rzadziej niż co 3 lata, chyba że zmiana warunków ekonomicznych w stopniu znacznie wpływającym na analizę danych porównawczych uzasadnia dokonanie przeglądu w roku zaistnienia tej zmiany.
+
+2i. Informacje, o których mowa w ust. 2d, dołącza się do dokumentacji podatkowej w terminie do dnia złożenia zeznania podatkowego, o którym mowa w ust. 2d pkt 1. ” , uchyla się ust. 3 i 3a, po ust. 3c dodaje się ust. 3d w brzmieniu: „
+
+- **e)**
+- **f)**
+
+3d. Obowiązek sporządzenia dokumentacji podatkowej w przypadku podatników, o których mowa w ust. 1, 1b, 5a i 5b, nie ma zastosowania do transakcji, w których cena lub sposób określenia ceny przedmiotu takiej transakcji wynika z przepisów ustaw lub wydanych na ich podstawie aktów normatywnych. ” , ust. 4 otrzymuje brzmienie: „
+
+- **g)**
+
+4. Na żądanie organów podatkowych lub organów kontroli skarbowej podatnicy, o których mowa w ust. 1, 1b, 5a i 5b, są obowiązani do przedłożenia dokumentacji podatkowej w terminie 7 dni od dnia doręczenia tego żądania. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
+
+- **h)**
+
+4a. Organ podatkowy lub organ kontroli skarbowej może wystąpić do podatnika z żądaniem sporządzenia i przedłożenia dokumentacji podatkowej dla transakcji lub innych zdarzeń, których wartość nie przekracza limitów określonych w ust. 1d lub 1e, w przypadku zaistnienia okoliczności wskazujących na prawdopodobieństwo zaniżenia ich wartości w celu uniknięcia obowiązku sporządzenia dokumentacji podatkowej. Żądanie powinno wskazywać okoliczności świadczące o prawdopodobieństwie zaniżenia wartości transakcji lub innych zdarzeń. Podatnik jest obowiązany do sporządzenia i przedłożenia dokumentacji podatkowej, w terminie 30 dni od dnia doręczenia takiego żądania. ” , ust. 5 otrzymuje brzmienie: „
+
+- **i)**
+
+5. Wyrażone w euro wielkości, o których mowa w ust. 1, 1b, 1d, 1e, 2b i 2d, przelicza się na walutę polską po średnim kursie ogłaszanym przez Narodowy Bank Polski, obowiązującym w ostatnim dniu roboczym roku podatkowego poprzedzającego rok podatkowy, którego dotyczy dokumentacja podatkowa. ” , dodaje się ust. 7 i 8 w brzmieniu: „
+
+- **j)**
+
+7. Podatnicy, o których mowa w ust. 1, 1b, 5a i 5b, są obowiązani składać urzędom skarbowym oświadczenie o sporządzeniu dokumentacji podatkowej, do dnia upływu terminu określonego dla złożenia rocznego zeznania podatkowego, z tym że oświadczenie to nie dotyczy informacji, o których mowa w ust. 2d. W przypadku podatników, o których mowa w ust. 5a, oświadczenie może podpisać osoba upoważniona do reprezentowania zagranicznego zakładu na terytorium Rzeczypospolitej Polskiej.
+
+8. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowy zakres informacji, wymienionych w ust. 2b i 2d, w celu ułatwienia podatnikom sporządzenia poprawnej dokumentacji podatkowej, uwzględniając wytyczne OECD w zakresie cen transferowych dla przedsiębiorstw wielonarodowych i administracji podatkowych. ” ;
+
+- **2)** w art. 11 ust. 5a otrzymuje brzmienie: „
+
+5a. Posiadanie udziału w kapitale innego podmiotu, o którym mowa w ust. 1 i 4, oznacza sytuację, w której dany podmiot bezpośrednio lub pośrednio posiada w kapitale innego podmiotu udział nie mniejszy niż 25%. ” ;
+
+- **3)** w art. 19 ust. 4 otrzymuje brzmienie: „
+
+4. Jeżeli organ podatkowy lub organ kontroli skarbowej określi, na podstawie art. 11, dochód podatnika w wysokości wyższej (stratę w wysokości niższej) niż zadeklarowana przez podatnika w związku z dokonaniem transakcji lub ujęciem innych zdarzeń, o których mowa w art. 9a, a podatnik nie przedłoży tym organom dokumentacji podatkowej – różnicę między dochodem zadeklarowanym przez podatnika a określonym przez te organy opodatkowuje się stawką 50%. ” ;
+
+- **4)** po art. 22b dodaje się art. 22c w brzmieniu: „
+
+**Art. 22c.**
+
+1. Przepisów art. 20 ust. 3 oraz art. 22 ust. 4 nie stosuje się, jeżeli:
+
+- **1)** osiągnięcie dochodów (przychodów) z dywidend oraz innych przychodów z tytułu udziału w zyskach osób prawnych następuje w związku z zawarciem umowy lub dokonaniem innej czynności prawnej, lub wielu powiązanych czynności prawnych, których głównym lub jednym z głównych celów było uzyskanie zwolnienia od podatku dochodowego na podstawie art. 20 ust. 3 lub art. 22 ust. 4, a uzyskanie tego zwolnienia nie skutkuje wyłącznie wyeliminowaniem podwójnego opodatkowania tych dochodów (przychodów), oraz
+- **2)** czynności, o których mowa w pkt 1, nie mają rzeczywistego charakteru.
+
+2. Dla celów ust. 1 uznaje się, że umowa lub inna czynność prawna nie ma rzeczywistego charakteru w zakresie, w jakim nie jest dokonywana z uzasadnionych przyczyn ekonomicznych. W szczególności dotyczy to sytuacji, gdy w drodze czynności, o których mowa w ust. 1, przenoszona jest własność udziałów (akcji) spółki wypłacającej dywidendę lub spółka osiąga przychód (dochód), wypłacany następnie w formie dywidendy lub innego przychodu z tytułu udziału w zyskach osób prawnych. ” ;
+
+- **5)** w art. 26 po ust. 3a dodaje się ust. 3aa w brzmieniu: „ 3aa. W informacji, o której mowa w ust. 3 pkt 2, nie wykazuje się przychodów (dochodów) wymienionych w art. 44c ust. 1 pkt 4 ustawy o podatku dochodowym od osób fizycznych, dla których sporządza się informację, o której mowa w art. 44d ust. 3 ustawy o podatku dochodowym od osób fizycznych. ” ;
+- **6)** w art. 27 dodaje się ust. 5–9 w brzmieniu: „
+
+5. Podatnicy obowiązani do sporządzania dokumentacji podatkowej, jeżeli ich przychody lub koszty, w rozumieniu przepisów o rachunkowości, przekroczyły w roku podatkowym równowartość 10 000 000 euro, dołączają do zeznania podatkowego za rok podatkowy uproszczone sprawozdanie w sprawie transakcji z podmiotami powiązanymi lub innych zdarzeń zachodzących pomiędzy podmiotami powiązanymi, lub w związku z którymi zapłata należności dokonywana jest bezpośrednio lub pośrednio na rzecz podmiotu mającego miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową.
+
+6. Podmioty krajowe, o których mowa w art. 11 ust. 1 pkt 1 i ust. 4, które:
+
+- **1)** spełniają kryteria jednostki dominującej oraz nie spełniają kryteriów jednostki zależnej, w rozumieniu przepisów ustawy o rachunkowości,
+- **2)** są jednostką konsolidującą sprawozdanie finansowe w rozumieniu przepisów o rachunkowości,
+- **3)** posiadają poza terytorium Rzeczypospolitej Polskiej zagraniczny zakład lub jedną lub więcej jednostek zależnych w rozumieniu przepisów ustawy o rachunkowości,
+- **4)** których skonsolidowane przychody w rozumieniu przepisów o rachunkowości, na terytorium Rzeczypospolitej Polskiej oraz poza jej terytorium, przekroczyły w poprzednim roku podatkowym równowartość 750 000 000 euro przekazują do urzędu skarbowego sprawozdanie o wysokości dochodów i zapłaconego podatku oraz miejscach prowadzenia działalności, jednostek zależnych i zagranicznych zakładów należących do grupy kapitałowej, w roku podatkowym, w terminie 12 miesięcy od dnia zakończenia roku podatkowego podmiotu krajowego, za który jest składane sprawozdanie.
+
+7. Wyrażone w euro wielkości, o których mowa w ust. 5 i 6, przelicza się na walutę polską po średnim kursie ogłaszanym przez Narodowy Bank Polski, obowiązującym w ostatnim dniu roboczym roku podatkowego poprzedzającego rok podatkowy, za który jest składane sprawozdanie, o którym mowa w ust. 5 i 6.
+
+8. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór uproszczonego sprawozdania, o którym mowa w ust. 5, uwzględniając informacje dotyczące podmiotów powiązanych, rodzaju powiązań z tymi podmiotami, rodzaju i przedmiotu transakcji lub innych zdarzeń, zachodzących pomiędzy podmiotami powiązanymi, lub w związku z którymi zapłata należności dokonywana jest bezpośrednio lub pośrednio na rzecz podmiotu mającego miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, a także kierując się potrzebą ułatwienia podatnikom poprawnego sporządzenia tego sprawozdania.
+
+9. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór sprawozdania, o którym mowa w ust. 6, sporządzanego w celu:
+
+- **1)** analizy ryzyka zaniżenia dochodu do opodatkowania w obszarze cen transakcyjnych,
+- **2)** wymiany informacji z właściwymi władzami państw obcych,
+- **3)** ułatwienia podatnikom sporządzenia poprawnego sprawozdania uwzględniający treść ustaleń w zakresie wzoru sprawozdania podjętych przez OECD dotyczących dokumentacji cen transakcyjnych. ” ;
+- **7)** w załączniku nr 4 lp. 27 otrzymuje brzmienie: 27 Rumunia Spółki prawa rumuńskiego, określane jako: „societăţi pe acţiuni”, „societăţi în comandită pe acţiuni”, „societăţi cu răspundere limitată”, „societăţi în nume colectiv”, „societăţi în comandită simplă”
+
+**Art. 3.** W ustawie z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2012 r. poz. 1314, z późn. zm.) w art. 11 uchyla się ust. 5.
+
+**Art. 4.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613, z późn. zm.) w art. 82 dodaje się § 1a w brzmieniu: „
+
+§ 1a. Przepisu § 1 pkt 2 nie stosuje się do podmiotów, o których mowa w § 1, obowiązanych do sporządzenia uproszczonego sprawozdania w sprawie transakcji z podmiotami powiązanymi lub innych zdarzeń zachodzących pomiędzy podmiotami powiązanymi, lub w związku z którymi zapłata należności dokonywana jest bezpośrednio lub pośrednio na rzecz podmiotu mającego miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, na podstawie przepisów art. 45 ust. 9 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz art. 27 ust. 5 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.). Wyłączenie, o którym mowa w zdaniu pierwszym, nie dotyczy podatników, o których mowa w art. 25a ust. 1 pkt 2 i 3 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz w art. 9a ust. 1 pkt 2 i 3 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych. ” .
+
+**Art. 5.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2013 r. poz. 186, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 53 § 30b otrzymuje brzmienie: „
+
+§ 30b. Użyte w rozdziale 6 kodeksu określenia: „podmiot wypłacający”, „podmiot gospodarczy” oraz „pośredni odbiorca” mają znaczenie nadane im w rozdziale 7a ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.). ” ;
+
+- **2)** w art. 80 § 2 otrzymuje brzmienie: „
+
+§ 2. Płatnik, podmiot, o którym mowa w art. 41 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, niepełniący funkcji płatnika, podmiot wypłacający, podmiot gospodarczy lub pośredni odbiorca, który wbrew obowiązkowi nie składa w terminie podatnikowi lub właściwemu organowi wymaganej informacji podatkowej lub informacji, o których mowa w art. 42 ust. 2 pkt 2 lub art. 44d ust. 1, 3, 5 lub 7 powołanej ustawy, podlega karze grzywny do 180 stawek dziennych. ” .
+
+**Art. 6.** W ustawie z dnia 23 lipca 2015 r. o zmianie ustawy o sporcie oraz ustawy o podatku dochodowym od osób fizycznych (Dz. U. poz. 1321) w art. 2 pkt 3 otrzymuje brzmienie: „
+
+- **3)** po pkt 40d dodaje się pkt 40e w brzmieniu: „
+- **40e)** świadczenie pieniężne ze środków budżetu państwa, przysługujące na podstawie art. 36 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2014 r. poz. 715 i 1321);”. ” . ” .
+
+**Art. 7.** W ustawie z dnia 24 lipca 2015 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 1479) w art. 1 w pkt 80, w art. 138s pkt 2 otrzymuje brzmienie: „
+
+- **2)** sposób prowadzenia ewidencji, o których mowa w art. 138a ust. 1, art. 138b, art. 138c, art. 138e-138l, ” .
 
 **Art. 8.** Przepisy art. 21 ust. 1 pkt 77 i 82 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, mają zastosowanie do dochodów osiągniętych od dnia 1 stycznia 2016 r.
 
 **Art. 9.**
 
-1. Przepisy art. 30a ust. 10, art. 30b ust. 5c, art. 42 ust. 7 oraz art. 44c– 44e ustawy zmienianej w art. 1, art. 22c i art. 26 ust. 3aa ustawy zmienianej w art. 2, oraz art. 53 § 30b i art. 80 § 2 ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, mają zastosowanie do dochodów osiągniętych od dnia 1 stycznia 2016 r. Do dochodów osiągniętych przed dniem 1 stycznia 2016 r. mają zastosowanie przepisy ustaw zmienianych w art. 1, art. 3 i art. 5 w brzmieniu obowiązującym przed dniem 31 grudnia 2015 r.
+1. Przepisy art. 30a ust. 10, art. 30b ust. 5c, art. 42 ust. 7 oraz art. 44c-44e ustawy zmienianej w art. 1, art. 22c i art. 26 ust. 3aa ustawy zmienianej w art. 2, oraz art. 53 § 30b i art. 80 § 2 ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, mają zastosowanie do dochodów osiągniętych od dnia 1 stycznia 2016 r. Do dochodów osiągniętych przed dniem 1 stycznia 2016 r. mają zastosowanie przepisy ustaw zmienianych w art. 1, art. 3 i art. 5 w brzmieniu obowiązującym przed dniem 31 grudnia 2015 r.
 
 2. Podatnicy podatku dochodowego od osób prawnych, których rok podatkowy jest inny niż kalendarzowy, stosują przepisy art. 22c ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, do dochodów osiągniętych od pierwszego dnia roku podatkowego rozpoczynającego się po dniu 31 grudnia 2015 r.
 
-**Art. 10.** Przepisy art. 25 ust. 5a, art. 25a ust. 1–1g, 2b–2i, 3d, 4, 4a, 5, 7 i 8, art. 30d ust. 1 i art. 45 ust. 9 i 10 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, oraz art. 9a ust. 1–1g, 2b–2i, 3d, 4, 4a, 5, 7 i 8, art. 11 ust. 5a, art. 19 ust. 4 i art. 27 ust. 5 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, stosuje się od roku podatkowego rozpoczynającego się po dniu 31 grudnia 2016 r.
+**Art. 10.** Przepisy art. 25 ust. 5a, art. 25a ust. 1–1g, 2b-2i, 3d, 4, 4a, 5, 7 i 8, art. 30d ust. 1 i art. 45 ust. 9 i 10 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, oraz art. 9a ust. 1–1g, 2b-2i, 3d, 4, 4a, 5, 7 i 8, art. 11 ust. 5a, art. 19 ust. 4 i art. 27 ust. 5 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, stosuje się od roku podatkowego rozpoczynającego się po dniu 31 grudnia 2016 r.
 
 **Art. 11.** Do transakcji oraz innych zdarzeń rozpoczętych i niezakończonych przed dniem 1 stycznia 2017 r. stosuje się przepisy ustaw zmienianych w art. 1 i art. 2, w brzmieniu nadanym niniejszą ustawą, w zakresie tej części transakcji lub innych zdarzeń, które są realizowane po dniu 31 grudnia 2016 r.
 
-**Art. 12.** (uchylony)
+**Art. 12.**
+
+1. Przepis art. 27 ust. 6 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, stosuje się od roku podatkowego rozpoczynającego się po dniu 31 grudnia 2015 r., z zastrzeżeniem ust. 2.
+
+2. Obowiązek sporządzenia i przekazania sprawozdania, o którym mowa w art. 27 ust. 6 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, za rok podatkowy rozpoczynający się po dniu 31 grudnia 2015 r., nie później jednak niż przed dniem 1 stycznia 2017 r., w przypadku spełnienia warunków wskazanych w art. 27 ust. 6 pkt 1–3 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, powstaje, jeżeli skonsolidowane przychody, o których mowa w art. 27 ust. 6 pkt 4 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, przekroczyły równowartość 750 000 000 euro za ten rok podatkowy.
 
 **Art. 13.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 42c ust. 9 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem 31 grudnia 2015 r., zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 44d ust. 10 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 31 grudnia 2016 r.
 
 **Art. 14.** Ustawa wchodzi w życie z dniem 31 grudnia 2015 r., z wyjątkiem:
+
+- **1)** art. 6 i art. 7, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 1 pkt 1 i 2, art. 2 pkt 6 w zakresie dotyczącym art. 27 ust. 6, 7 i 9, art. 8 oraz art. 12, które wchodzą w życie z dniem 1 stycznia 2016 r.;
+- **3)** art. 1 pkt 3, 4, 7 i 11, art. 2 pkt 1, 2, 3 i 6 w zakresie dotyczącym art. 27 ust. 5 i 8, art. 4, art. 10 oraz art. 11, które wchodzą w życie z dniem 1 stycznia 2017 r.
+
 

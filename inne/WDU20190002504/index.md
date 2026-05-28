@@ -8,10 +8,10 @@ pos: 2504
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 grudnia ROZPORZĄDZENIE MINISTRA CYFRYZACJI dnia 20 grudnia sprawie zakresu danych udostępnianych podmiotom obowiązanym przekazywania danych centralnej pojazdów wymagań technicznych jakościowych danych wprowadzanych tej Na podstawie art. 80bb ust. 4 dnia 20 czerwca 1997 Prawo o ruchu drogowym 2018 1990, późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa:
+# Rozporządzenie Ministra Cyfryzacjiz dnia 20 grudnia 2019 r. w sprawie zakresu danych udostępnianych podmiotom obowiązanym do przekazywania danych do centralnej ewidencji pojazdów oraz wymagań technicznych i jakościowych danych wprowadzanych do tej ewidencji
 
 | Pole | Wartość |
 |---|---|
@@ -22,46 +22,109 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2019-12-20 |
 | Data wydania | 2019-12-27 |
+| Wejście w życie | 2020-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002504) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2504/text.pdf) |
 
-1) zakres danych, których dostęp podmiotom wymienionym art. 80ba ust. 1 dnia 20 czerwca 1997 Prawo o ruchu drogowym, zwanej dalej „ustawą”;
-2) wymagania techniczne jakościowe zakresie danych wprowadzanych centralnej pojazdów, zwanej dalej „ewidencją”, tryb sposób ich wprowadzania.
-§ 2. Użyte rozporządzeniu określenia oznaczają:
-1) obiekt obiekt rozumieniu przepisów wydanych na podstawie art. 18 dnia 17 lutego 2005 o informatyzacji działalności podmiotów realizujących zadania publiczne 700, 730, 848, 1590 2294);
-2) schemat zasilania strukturę danych cech informacyjnych obiektów przekazywanych ewidencji;
-3) suma kontrolna zestaw danych generowany system teleinformatyczny obsługujący ewidencję, potwierdzający aktualność danych zgromadzonych ewidencji.
-§ 3. Dostęp danych, o których mowa art. 80b ust. 1 ustawy, zakresie:
-1) 1–16, 17, 18 20 organom właściwym sprawach rejestracji pojazdów,
-2) 1–6, 8–8b, 10, 11, 13 14 zakładom ubezpieczeń,
-3) 1–4, 8–8b, 10, 13–15a, 21 22 Policji, 1–4, 8–8b, 10, 13, 15, 15a, 21 22 Inspekcji Transportu Drogowego, Żandarmerii Wojskowej, Straży Granicznej, Krajowej Administracji Skarbowej Służbie Celno-Skarbowej,
-5) 1 8, wyłączeniem danych osobowych, 8b, 9–11, 13, 15, 15a, 18, 21 22 stacjom kontroli pojazdów,
-6) 1–4 7 Ministrowi Sprawiedliwości,
-9) 16a marszałkowi województwa,
-10) 8a, 8b, 9a 15a podmiotowi uprawnionemu, o którym mowa art. 80s ust. 2 ustawy, któremu wydano decyzję o profesjonalnej rejestracji pojazdów przy czym dane te są zweryfikowane rejestrze PESEL REGON, przypadku ich przekazywania tych rejestrów.
-§ 4. Wprowadzanie danych następuje sposób przewidziany schematem zasilania, określonym udostępnionym zgodnie przepisami wydanymi na podstawie art. 18 dnia 17 lutego 2005 o informatyzacji działalności podmiotów realizujących zadania publiczne, który wraz aktualizacjami dotyczącymi go informacjami, tym terminem rozpoczęcia jego obowiązywania, jest publikowany na portalu informacyjnym obsługującym system teleinformatyczny administratora danych informacji zgromadzonych ewidencji, zachowaniem czasu niezbędnego na dostosowanie po stronie podmiotów obowiązanych wprowadzania danych ewidencji.
-§ 5. 1. Dane zgromadzone są opatrzone sumą kontrolną.
-2. Pobrane dane obiektu zawierają identyfikator, który wraz sumą kontrolną, dołączany jest każdorazowo wprowadzanych danych.
-3. W przypadku, gdy dane obiektu są wprowadzane po raz pierwszy, identyfikator suma kontrolna są generowane system po wprowadzeniu danych.
-§ 6. 1. Jeżeli wprowadzane są dane dotyczące więcej niż jednego obiektu, podmiot obowiązany wprowadzania danych wskazuje, którego obiektu dotyczą wprowadzane dane.
-2. Dane wprowadzane ewidencji:
-1) dotyczące osoby nieposiadającej numeru PESEL niefigurującej muszą być zgodne dokumentem potwierdzającym tożsamość tej osoby;
-2) dotyczące podmiotu nieposiadającego numeru REGON niefigurującego muszą być zgodne danymi zawartymi dokumentach przedstawionych ten podmiot.
-§ 7. 1. Przy wprowadzaniu danych informacji używa danych słownikowych udostępnianych system teleinformatyczny obsługujący ewidencję.
-2. Podmiot obowiązany wprowadzania danych może zgłosić administratorowi danych informacji zgromadzonych konieczność uzupełnienia danych słownikowych. Zgłoszenia dokonuje za pośrednictwem systemu teleinformatycznego obsługującego ewidencję albo systemu teleinformatycznego obsługującego zadania realizowane ten podmiot.
-3. W przypadku konieczności uzupełnienia danych słownikowych administrator danych informacji zgromadzonych uzupełnia te dane, nie później niż terminie 3 dni roboczych od dnia zgłoszenia.
-4. W przypadku braku konieczności uzupełnienia danych słownikowych administrator danych informacji zgromadzonych niezwłocznie, nie później niż terminie 3 dni roboczych od dnia zgłoszenia, powiadamia podmiot, o którym mowa ust. 2, o danej słownikowej, której należy użyć.
-§ 8. Poprawne wprowadzenie danych jest potwierdzane komunikatem systemu teleinformatycznego obsługującego ewidencję, którego wygenerowanie wymaga:
-1) wskazania sumy kontrolnej, zastrzeżeniem § 5 ust. 3;
-2) wskazania obiektu, którego dane dotyczą;
-3) wskazania danych zakresie wymaganym zgodnie art. 80ba ust. 1 ustawy;
-gowym niektórych innych ustaw 957 730);
-2) 2 dostęp danych, o których mowa art. 80b ust. 1 1–6, 8–8b, 10, 11, 13 14 ustawy, od dnia określonego komunikacie, o którym mowa art. 13 ust. 4 dnia 24 lipca 2015 o zmianie Prawo o ruchu drogowym niektórych innych ustaw 1273, późn. zm. );
-3) 6 dostęp danych, o których mowa art. 80b ust. 1 1–4 7 ustawy, od dnia określonego komunikacie, o którym mowa art. 9 ust. 2 dnia 9 maja 2018 o zmianie Prawo o ruchu drogowym niektórych innych ustaw;
-1–5 7 dostęp danych, o których mowa art. 80b ust. 1 8b ustawy, po upływie 2 miesięcy od dnia ogłoszenia ministra właściwego spraw informatyzacji informacji, o której mowa art. 7 dnia 24 listopada 2017 o zmianie Prawo o ruchu drogowym niektórych innych ustaw 2018 79, 650 957 53);
-5) 1, 5 7 dostęp danych, o których mowa art. 80b ust. 1 11 ustawy, od dnia określonego komunikacie, o którym mowa art. 13 ust. 4 dnia 24 lipca 2015 o zmianie Prawo o ruchu drogowym niektórych innych ustaw;
-6) 8 dostęp danych, o których mowa art. 80b ust. 1 1, 2, 5, 8, 9, 13, 15 16 ustawy, od dnia określonego komunikacie, o którym mowa art. 7 ust. 2 dnia 9 maja 2018 o zmianie Prawo o ruchu drogowym niektórych innych ustaw;
-7) 9 dostęp danych, o których mowa art. 80b ust. 1 16a ustawy, od dnia określonego komunikacie, o którym mowa art. 11 ust. 2 dnia 9 maja 2018 o zmianie Prawo o ruchu drogowym niektórych innych ustaw;
-8) 10 dostęp danych, o których mowa art. 80b ust. 1 8a, 8b, 9a 15a ustawy, po upływie 2 miesięcy od dnia ogłoszenia ministra właściwego spraw informatyzacji informacji, o której mowa art. 7 dnia 24 listopada 2017 o zmianie Prawo o ruchu drogowym niektórych innych ustaw.
-§ 10. Rozporządzenie wchodzi życie dniem 1 stycznia 2020 Minister Cyfryzacji: M. Zagórski
+Treść rozporządzenia
+Na podstawie art. 80bb ust. 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2018 r. poz. 1990, z późn. zm.) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+zakres danych, do których zapewnia się dostęp podmiotom wymienionym w art. 80ba ust. 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, zwanej dalej „ustawą”;
+2)
+wymagania techniczne i jakościowe w zakresie danych wprowadzanych do centralnej ewidencji pojazdów, zwanej dalej „ewidencją”, oraz tryb i sposób ich wprowadzania.
+§ 2.
+Użyte w rozporządzeniu określenia oznaczają:
+1)
+obiekt – obiekt w rozumieniu przepisów wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2019 r. poz. 700, 730, 848, 1590 i 2294);
+2)
+schemat zasilania – strukturę danych cech informacyjnych obiektów przekazywanych do ewidencji;
+3)
+suma kontrolna – zestaw danych generowany przez system teleinformatyczny obsługujący ewidencję, potwierdzający aktualność danych zgromadzonych w ewidencji.
+§ 3.
+Dostęp do danych, o których mowa w art. 80b ust. 1 ustawy, w zakresie:
+1)
+pkt 1–16, 17, 18 i 20 – zapewnia się organom właściwym w sprawach rejestracji pojazdów,
+2)
+pkt 1–6, 8–8b, 10, 11, 13 i 14 – zapewnia się zakładom ubezpieczeń,
+3)
+pkt 1–4, 8–8b, 10, 13–15a, 21 i 22 – zapewnia się Policji,
+4)
+pkt 1–4, 8–8b, 10, 13, 15, 15a, 21 i 22 – zapewnia się Inspekcji Transportu Drogowego, Żandarmerii Wojskowej, Straży Granicznej, Krajowej Administracji Skarbowej i Służbie Celno-Skarbowej,
+5)
+pkt 1 i 8, z wyłączeniem danych osobowych, oraz pkt 8b, 9–11, 13, 15, 15a, 18, 21 i 22 – zapewnia się stacjom kontroli pojazdów,
+6)
+pkt 1–4 i 7 – zapewnia się Ministrowi Sprawiedliwości,
+7)
+pkt 1–6, 8–8b, 10, 11, 13 i 14 – zapewnia się Ubezpieczeniowemu Funduszowi Gwarancyjnemu,
+8)
+pkt 1, 2, 5, 8, 9, 13, 15 i 16 – zapewnia się stacjom demontażu i punktom zbierania pojazdów,
+9)
+pkt 16a – zapewnia się marszałkowi województwa,
+10)
+pkt 8a, 8b, 9a i 15a – zapewnia się podmiotowi uprawnionemu, o którym mowa w art. 80s ust. 2 ustawy, któremu wydano decyzję o profesjonalnej rejestracji pojazdów
+przy czym dane te są zweryfikowane w rejestrze PESEL i REGON, w przypadku ich przekazywania z tych rejestrów.
+§ 4.
+Wprowadzanie danych do ewidencji następuje w sposób przewidziany schematem zasilania, określonym i udostępnionym zgodnie z przepisami wydanymi na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, który wraz z aktualizacjami oraz z dotyczącymi go informacjami, w tym terminem rozpoczęcia jego obowiązywania, jest publikowany na portalu informacyjnym obsługującym system teleinformatyczny ewidencji przez administratora danych i informacji zgromadzonych w ewidencji, z zachowaniem czasu niezbędnego na dostosowanie po stronie podmiotów obowiązanych do wprowadzania danych do ewidencji.
+§ 5.
+1.
+Dane zgromadzone w ewidencji są opatrzone sumą kontrolną.
+2.
+Pobrane dane obiektu zawierają identyfikator, który wraz z sumą kontrolną, dołączany jest każdorazowo do wprowadzanych danych.
+3.
+W przypadku, gdy dane obiektu są wprowadzane do ewidencji po raz pierwszy, identyfikator i suma kontrolna są generowane przez system po wprowadzeniu danych.
+§ 6.
+1.
+Jeżeli do ewidencji wprowadzane są dane dotyczące więcej niż jednego obiektu, podmiot obowiązany do wprowadzania danych do ewidencji wskazuje, którego obiektu dotyczą wprowadzane dane.
+2.
+Dane wprowadzane do ewidencji:
+1)
+dotyczące osoby nieposiadającej numeru PESEL i niefigurującej w ewidencji muszą być zgodne z dokumentem potwierdzającym tożsamość tej osoby;
+2)
+dotyczące podmiotu nieposiadającego numeru REGON i niefigurującego w ewidencji muszą być zgodne z danymi zawartymi w dokumentach przedstawionych przez ten podmiot.
+§ 7.
+1.
+Przy wprowadzaniu danych i informacji do ewidencji używa się danych słownikowych udostępnianych przez system teleinformatyczny obsługujący ewidencję.
+2.
+Podmiot obowiązany do wprowadzania danych do ewidencji może zgłosić administratorowi danych i informacji zgromadzonych w ewidencji konieczność uzupełnienia danych słownikowych. Zgłoszenia dokonuje się za pośrednictwem systemu teleinformatycznego obsługującego ewidencję albo systemu teleinformatycznego obsługującego zadania realizowane przez ten podmiot.
+3.
+W przypadku konieczności uzupełnienia danych słownikowych administrator danych i informacji zgromadzonych w ewidencji uzupełnia te dane, nie później niż w terminie 3 dni roboczych od dnia zgłoszenia.
+4.
+W przypadku braku konieczności uzupełnienia danych słownikowych administrator danych i informacji zgromadzonych w ewidencji niezwłocznie, nie później niż w terminie 3 dni roboczych od dnia zgłoszenia, powiadamia podmiot, o którym mowa w ust. 2, o danej słownikowej, której należy użyć.
+§ 8.
+Poprawne wprowadzenie danych do ewidencji jest potwierdzane komunikatem z systemu teleinformatycznego obsługującego ewidencję, którego wygenerowanie wymaga:
+1)
+wskazania sumy kontrolnej, z zastrzeżeniem § 5 ust. 3;
+2)
+wskazania obiektu, którego dane dotyczą;
+3)
+wskazania danych w zakresie wymaganym zgodnie z art. 80ba ust. 1 ustawy;
+4)
+użycia aktualnego schematu zasilania;
+5)
+użycia danych osób albo podmiotów zgodnie z danymi w rejestrze PESEL lub REGON, z zastrzeżeniem § 6 ust. 2;
+6)
+użycia danych zgodnych z danymi słownikowymi udostępnianymi przez system teleinformatyczny obsługujący ewidencję.
+§ 9.
+Podmiotom, o których mowa w § 3:
+1)
+pkt 1 – dostęp do danych, o których mowa w art. 80b ust. 1 pkt 7 ustawy, zapewnia się od dnia określonego w komunikacie, o którym mowa w art. 9 ust. 2 ustawy z dnia 9 maja 2018 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 957 oraz z 2019 r. poz. 730);
+2)
+pkt 2 – dostęp do danych, o których mowa w art. 80b ust. 1 pkt 1–6, 8–8b, 10, 11, 13 i 14 ustawy, zapewnia się od dnia określonego w komunikacie, o którym mowa w art. 13 ust. 4 ustawy z dnia 24 lipca 2015 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1273, z późn. zm.);
+3)
+pkt 6 – dostęp do danych, o których mowa w art. 80b ust. 1 pkt 1–4 i 7 ustawy, zapewnia się od dnia określonego w komunikacie, o którym mowa w art. 9 ust. 2 ustawy z dnia 9 maja 2018 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw;
+4)
+pkt 1–5 i 7 – dostęp do danych, o których mowa w art. 80b ust. 1 pkt 8b ustawy, zapewnia się po upływie 2 miesięcy od dnia ogłoszenia przez ministra właściwego do spraw informatyzacji informacji, o której mowa w art. 7 ustawy z dnia 24 listopada 2017 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. z 2018 r. poz. 79, 650 i 957 oraz z 2019 r. poz. 53);
+5)
+pkt 1, 5 i 7 – dostęp do danych, o których mowa w art. 80b ust. 1 pkt 11 ustawy, zapewnia się od dnia określonego w komunikacie, o którym mowa w art. 13 ust. 4 ustawy z dnia 24 lipca 2015 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw;
+6)
+pkt 8 – dostęp do danych, o których mowa w art. 80b ust. 1 pkt 1, 2, 5, 8, 9, 13, 15 i 16 ustawy, zapewnia się od dnia określonego w komunikacie, o którym mowa w art. 7 ust. 2 ustawy z dnia 9 maja 2018 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw;
+7)
+pkt 9 – dostęp do danych, o których mowa w art. 80b ust. 1 pkt 16a ustawy, zapewnia się od dnia określonego w komunikacie, o którym mowa w art. 11 ust. 2 ustawy z dnia 9 maja 2018 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw;
+8)
+pkt 10 – dostęp do danych, o których mowa w art. 80b ust. 1 pkt 8a, 8b, 9a i 15a ustawy, zapewnia się po upływie 2 miesięcy od dnia ogłoszenia przez ministra właściwego do spraw informatyzacji informacji, o której mowa w art. 7 ustawy z dnia 24 listopada 2017 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw.
+§ 10.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.
+1) Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 2270). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870, 1123, 1180, 1466, 1501, 1556, 1579, 1818, 2020 i 2202. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 2183 i 2281, z 2016 r. poz. 352 i 2001, z 2017 r. poz. 379, 777 i 1926 oraz z 2018 r. poz. 957. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Cyfryzacji z dnia 5 lipca 2019 r. w sprawie zakresu danych udostępnianych podmiotom obowiązanym do przekazywania danych do centralnej ewidencji pojazdów oraz wymagań technicznych i jakościowych danych wprowadzanych do tej ewidencji (Dz. U. poz. 1268), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, na podstawie art. 3 ust. 2 ustawy z dnia 15 marca 2019 r. o zmianie ustawy – Prawo o ruchu drogowym oraz ustawy – Kodeks karny (Dz. U. poz. 870).
 

@@ -8,10 +8,10 @@ pos: 1287
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 sierpnia 2016 r.
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 12 sierpnia 2016 r. zmieniające rozporządzenie w sprawie warunków wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą pracownikom jednostek doradztwa rolniczego
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,19 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2016-08-12 |
 | Data wydania | 2016-08-19 |
+| Wejście w życie | 2016-08-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001287) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1287/text.pdf) |
 
-Poz. 1287 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 12 sierpnia 2016 r.
-zmieniające rozporządzenie w sprawie warunków wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą pracownikom jednostek doradztwa rolniczego Na podstawie art. 6 ust. 7 ustawy z dnia 22 października 2004 r. o jednostkach doradztwa rolniczego (Dz. U.
-z 2016 r. poz. 356 i 1176) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 4 stycznia 2005 r. w sprawie warunków wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą pracownikom jednostek doradztwa rolniczego (Dz. U. z 2014 r. poz. 1124) § 11 otrzymuje brzmienie: „§ 11. Wysokość wynagrodzenia miesięcznego oraz wysokość świadczeń dodatkowych, zgodnie z przepisami o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi, dla dyrektora i zastępcy dyrektora jednostki doradztwa rolniczego ustala minister właściwy do spraw rozwoju wsi.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: K. Jurgiel
+Treść rozporządzenia
+Na podstawie art. 6 ust. 7 ustawy z dnia 22 października 2004 r. o jednostkach doradztwa rolniczego (Dz. U. z 2016 r. poz. 356 i 1176) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 4 stycznia 2005 r. w sprawie warunków wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą pracownikom jednostek doradztwa rolniczego (Dz. U. z 2014 r. poz. 1124) § 11 otrzymuje brzmienie:
+„
+§ 11.
+Wysokość wynagrodzenia miesięcznego oraz wysokość świadczeń dodatkowych, zgodnie z przepisami o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi, dla dyrektora i zastępcy dyrektora jednostki doradztwa rolniczego ustala minister właściwy do spraw rozwoju wsi.
+” .
+§ 2.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).
 

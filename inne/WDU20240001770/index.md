@@ -8,12 +8,10 @@ pos: 1770
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach ich przemieszczania się przez to terytorium oraz zasadach udzielania pomocy wojskom sojuszniczym i organizacjom międzynarodowym
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 listopada 2024 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 27 listopada 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach ich przemieszczania się przez to terytorium oraz zasadach udzielania pomocy wojskom sojuszniczym i organizacjom międzynarodowym
 
 | Pole | Wartość |
 |---|---|
@@ -27,12 +25,16 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-12-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001770) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1770/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach ich przemieszczania się przez to terytorium oraz zasadach udzielania pomocy wojskom sojuszniczym i organizacjom międzynarodowym (Dz. U. z 2023 r. poz. 807), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 26 lipca 2024 r.
-o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (Dz. U. poz. 1248) oraz zmian wynikających z przepisów ogłoszonych przed dniem 20 listopada 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 13 ustawy z dnia 26 lipca 2024 r. o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (Dz. U. poz. 1248), który stanowi: „Art. 13. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 9 i art. 10, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”.
-Marszałek Sejmu: S. Hołownia
-USTAWA z dnia 23 września 1999 r.
-o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach ich przemieszczania się przez to terytorium oraz zasadach udzielania pomocy wojskom sojuszniczym i organizacjom międzynarodowym
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach ich przemieszczania się przez to terytorium oraz zasadach udzielania pomocy wojskom sojuszniczym i organizacjom międzynarodowym
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach ich przemieszczania się przez to terytorium oraz zasadach udzielania pomocy wojskom sojuszniczym i organizacjom międzynarodowym (Dz. U. z 2023 r. poz. 807), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 26 lipca 2024 r. o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (Dz. U. poz. 1248) oraz zmian wynikających z przepisów ogłoszonych przed dniem 20 listopada 2024 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 13 ustawy z dnia 26 lipca 2024 r. o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (Dz. U. poz. 1248), który stanowi:
+„
+
+**Art. 13.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 9 i art. 10, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach ich przemieszczania się przez to terytorium oraz zasadach udzielania pomocy wojskom sojuszniczym i organizacjom międzynarodowym
 
 **Art. 1.**
 
@@ -42,17 +44,23 @@ o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach
 
 **Art. 2.** W rozumieniu ustawy poniższe określenia oznaczają:
 
+- **1)** wojska obce – żołnierzy wojsk obcych i personel cywilny im towarzyszący;
+- **2)** żołnierze wojsk obcych – żołnierzy należących do lądowych, morskich lub powietrznych wojsk państwa obcego albo pozostających pod dowództwem organizacji międzynarodowej, przebywających na terytorium Rzeczypospolitej Polskiej w celu wykonania określonych zadań;
+- **3)** personel cywilny – pracowników cywilnych zatrudnionych w wojskach państwa obcego albo wojskach pozostających pod dowództwem organizacji międzynarodowej, towarzyszących tym wojskom na terytorium Rzeczypospolitej Polskiej;
+- **4)** strona wysyłająca – państwo, do którego należą wojska obce, albo organizację międzynarodową, pod której dowództwem wojska te pozostają;
+- **5)** organy wojskowe strony wysyłającej – organy wojskowe państwa albo organizacji międzynarodowej, które na mocy prawa tego państwa, statutu organizacji międzynarodowej lub umowy międzynarodowej są właściwe względem żołnierzy wojsk obcych lub ich personelu cywilnego.
+
 **Art. 3.**
 
 1. Zgodę na pobyt wojsk obcych na terytorium Rzeczypospolitej Polskiej, zwaną dalej „zgodą”, wydają:
 
-- **1)** Minister Obrony Narodowej:
-    - **a)** w przypadku wojsk Państw-Stron Traktatu Północnoatlantyckiego, sporządzonego w Waszyngtonie dnia 4 kwietnia 1949 r., wojsk pozostających pod dowództwem organów Organizacji Traktatu Północnoatlantyckiego albo wojsk uczestniczących w szkoleniu w ramach Partnerstwa dla Pokoju, jeżeli okres ich pobytu nie przekracza trzech miesięcy,
-    - **b)** po zasięgnięciu opinii zainteresowanych ministrów w przypadku wojsk państw obcych albo wojsk pozostających pod dowództwem organów organizacji międzynarodowych innych niż wymienione w lit. a, pod warunkiem że okres ich pobytu nie przekracza trzech miesięcy, liczebność tysiąca osób, a pobyt ma na celu udział w szkoleniu wojskowym, o ile właściwe organy tych państw albo organizacji międzynarodowych uznają zasady pobytu (status) ich wojsk wynikające z ustawy oraz złożą zobowiązanie, że ich wojska będą przestrzegały prawa polskiego;
+- **1)** Minister Obrony Narodowej: w przypadku wojsk Państw-Stron Traktatu Północnoatlantyckiego, sporządzonego w Waszyngtonie dnia 4 kwietnia 1949 r., wojsk pozostających pod dowództwem organów Organizacji Traktatu Północnoatlantyckiego albo wojsk uczestniczących w szkoleniu w ramach Partnerstwa dla Pokoju, jeżeli okres ich pobytu nie przekracza trzech miesięcy, po zasięgnięciu opinii zainteresowanych ministrów – w przypadku wojsk państw obcych albo wojsk pozostających pod dowództwem organów organizacji międzynarodowych innych niż wymienione w lit. a, pod warunkiem że okres ich pobytu nie przekracza trzech miesięcy, liczebność – tysiąca osób, a pobyt ma na celu udział w szkoleniu wojskowym, o ile właściwe organy tych państw albo organizacji międzynarodowych uznają zasady pobytu (status) ich wojsk wynikające z ustawy oraz złożą zobowiązanie, że ich wojska będą przestrzegały prawa polskiego;
+    - **a)**
+    - **b)**
 
-- **2)** Rada Ministrów na czas określony:
-    - **a)** w przypadku wojsk, o których mowa w pkt 1 lit. a, jeżeli okres ich pobytu przekracza trzy miesiące albo jeżeli jej przedmiotem jest przedłużenie pobytu,
-    - **b)** w przypadku wojsk państw obcych albo wojsk pozostających pod dowództwem organów organizacji międzynarodowych innych niż wymienione w pkt 1 lit. a, w innych przypadkach niż te, o których mowa w pkt 1 lit. b, lub w przypadku przedłużenia pobytu, o ile właściwe organy tych państw albo organizacji międzynarodowych uznają zasady pobytu (status) ich wojsk wynikające z ustawy oraz złożą zobowiązanie, że ich wojska będą przestrzegały prawa polskiego.
+- **2)** Rada Ministrów na czas określony: w przypadku wojsk, o których mowa w pkt 1 lit. a, jeżeli okres ich pobytu przekracza trzy miesiące albo jeżeli jej przedmiotem jest przedłużenie pobytu, w przypadku wojsk państw obcych albo wojsk pozostających pod dowództwem organów organizacji międzynarodowych innych niż wymienione w pkt 1 lit. a, w innych przypadkach niż te, o których mowa w pkt 1 lit. b, lub w przypadku przedłużenia pobytu, o ile właściwe organy tych państw albo organizacji międzynarodowych uznają zasady pobytu (status) ich wojsk wynikające z ustawy oraz złożą zobowiązanie, że ich wojska będą przestrzegały prawa polskiego.
+    - **a)**
+    - **b)**
 
 1a. Minister Obrony Narodowej może upoważnić w przypadkach, o których mowa w ust. 1 pkt 1 lit. a, dowódców rodzajów Sił Zbrojnych, Dowódcę Komponentu Wojsk Obrony Cyberprzestrzeni oraz Szefa Inspektoratu Wsparcia Sił Zbrojnych do wyrażania zgody w sytuacji:
 
@@ -66,8 +74,6 @@ o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach
 3. Zgoda może być wyrażona również w porozumieniu zawartym z właściwymi organami państwa wysyłającego albo z organem organizacji międzynarodowej, pod którego dowództwem wojska te pozostają.
 
 4. O wyrażeniu zgody zawiadamia się niezwłocznie Prezydenta Rzeczypospolitej Polskiej, Marszałków Sejmu i Senatu oraz inne zainteresowane organy władzy publicznej.
-
-**Art. 3a.**
 
 1. Zgodę na pobyt wojsk obcych na terytorium Rzeczypospolitej Polskiej w ramach wzmocnienia wojskowego Sił Zbrojnych Rzeczypospolitej Polskiej lub wojsk Państw-Stron Traktatu Północnoatlantyckiego przez stronę wysyłającą w operacjach wojskowych prowadzonych na terytorium Rzeczypospolitej Polskiej w czasie pokoju wydaje Prezydent Rzeczypospolitej Polskiej na wniosek Ministra Obrony Narodowej skierowany po uzyskaniu zgody Prezesa Rady Ministrów.
 
@@ -168,11 +174,7 @@ o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach
 
 5. Do udziału w pracach komisji można zaprosić przedstawicieli właściwych organów wojskowych strony wysyłającej.
 
-**Art. 12.** Do szkód wyrządzonych przez wojska obce albo żołnierzy wojsk obcych lub ich personel cywilny żołnierzom lub pracownikom cywilnym Sił Zbrojnych Rzeczypospolitej Polskiej stosuje się odpowiednio art. 11 ust. 1.
-
-**Art. 13.**
-
-1. Podczas pobytu na terytorium Rzeczypospolitej Polskiej żołnierze wojsk obcych w czasie wykonywania zadań służbowych:
+**Art. 12.** Do szkód wyrządzonych przez wojska obce albo żołnierzy wojsk obcych lub ich personel cywilny żołnierzom lub pracownikom cywilnym Sił Zbrojnych Rzeczypospolitej Polskiej stosuje się odpowiednio art. 11 ust. 1. 1. Podczas pobytu na terytorium Rzeczypospolitej Polskiej żołnierze wojsk obcych w czasie wykonywania zadań służbowych:
 
 - **1)** powinni nosić umundurowanie wojsk, do których należą;
 - **2)** są uprawnieni, na podstawie rozkazu wydanego przez organy wojskowe strony wysyłającej, do posiadania i noszenia broni;
@@ -185,8 +187,6 @@ o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach
 - **1)** na terenie obozów, obiektów lub innych nieruchomości, w których wojska obce są zakwaterowane;
 - **2)** w czasie ich przemieszczania się w związku z wykonywaniem zadań związanych z realizacją celów określonych w zgodzie;
 - **3)** w czasie ćwiczeń wojsk obcych.
-
-**Art. 13a.**
 
 1. Na wniosek właściwych organów wojskowych strony wysyłającej żołnierze wojsk obcych mogą być wyposażani w broń i amunicję stanowiące uzbrojenie Sił Zbrojnych Rzeczypospolitej Polskiej.
 
@@ -235,7 +235,7 @@ o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach
 
 3. Jeżeli przepisy wymagają wydania specjalnych zezwoleń na przewóz materiałów niebezpiecznych, wnioski o wydanie takich zezwoleń są kierowane do właściwych organów za pośrednictwem Ministra Obrony Narodowej.
 
-4. Do wojsk obcych poruszających się po drogach na terytorium Rzeczypospolitej Polskiej mają zastosowanie przepisy ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251) odnoszące się do ruchu pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej.
+4. Do wojsk obcych poruszających się po drogach na terytorium Rzeczypospolitej Polskiej mają zastosowanie przepisy ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251) odnoszące się do ruchu pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej.
 
 5. Zwalnia się od obowiązku zawarcia umowy ubezpieczenia określonego w art. 4 pkt 1 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2023 r. poz. 2500 oraz z 2024 r. poz. 1565) wojska obce, których status jest określony w umowach międzynarodowych ratyfikowanych za uprzednią zgodą wyrażoną w ustawie.
 
@@ -255,15 +255,13 @@ o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach
 
 1. Poligony wojskowe pozostające w trwałym zarządzie lub w posiadaniu na podstawie innego tytułu prawnego Ministra Obrony Narodowej mogą być udostępniane wojskom obcym, nieodpłatnie lub odpłatnie, w celu przeprowadzania ćwiczeń wyłącznie z udziałem ich własnych jednostek lub ćwiczeń wspólnych z jednostkami wojskowymi Sił Zbrojnych Rzeczypospolitej Polskiej.
 
-2. Ćwiczenia, o których mowa w ust. 1, mogą być przeprowadzane również na takich samych zasadach jak ćwiczenia Sił Zbrojnych Rzeczypospolitej Polskiej w polskiej przestrzeni powietrznej oraz na polskich śródlądowych drogach wodnych, morskich wodach wewnętrznych i morzu terytorialnym.
+2. Ćwiczenia, o których mowa w ust. 1, mogą być przeprowadzane również – na takich samych zasadach jak ćwiczenia Sił Zbrojnych Rzeczypospolitej Polskiej – w polskiej przestrzeni powietrznej oraz na polskich śródlądowych drogach wodnych, morskich wodach wewnętrznych i morzu terytorialnym.
 
 3. Rada Ministrów określi, w drodze rozporządzenia, sposób obliczania i rozliczania opłat wnoszonych przez wojska obce w związku z udostępnieniem im poligonów wojskowych. Rozporządzenie to określi w szczególności:
 
 - **1)** wydatki wchodzące w skład kosztów korzystania z poligonów;
 - **2)** dokumenty sporządzane przy obliczaniu i rozliczaniu kosztów;
 - **3)** tryb przekazywania środków finansowych wnoszonych przez wojska obce.
-
-**Art. 23a.**
 
 1. Wsparcie przez państwo-gospodarza, zwane dalej „HNS”, jest realizowane w oparciu o priorytety obronne i rzeczywiste możliwości Rzeczypospolitej Polskiej i obejmuje:
 
@@ -275,17 +273,13 @@ o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach
 
 2. HNS realizowane jest odpłatnie, bezpłatnie lub na zasadzie wzajemności, zgodnie z ustaleniami wynikającymi z międzynarodowych porozumień HNS.
 
-3. Finansowanie i rozliczanie HNS następuje na zasadach określonych w art. 137 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530 i 1572).
+3. Finansowanie i rozliczanie HNS następuje na zasadach określonych w art. 137 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530 i 1572). Tworzy się Centralną Bazę Danych (CBD HNS) służącą do gromadzenia danych o potencjale i zasobach przewidywanych do wykorzystania w ramach HNS. Minister Obrony Narodowej odpowiada za koordynację HNS w Rzeczypospolitej Polskiej. Dowódca Generalny Rodzajów Sił Zbrojnych, Dowódca Operacyjny Rodzajów Sił Zbrojnych, Dowódca Wojsk Obrony Terytorialnej, Dowódca Komponentu Wojsk Obrony Cyberprzestrzeni, Szef Inspektoratu Wsparcia Sił Zbrojnych oraz inni dyrektorzy (dowódcy, szefowie, komendanci) komórek i jednostek organizacyjnych resortu obrony narodowej realizują zadania HNS. W ramach HNS ministrowie przez podległe ministerstwa, podporządkowane i nadzorowane jednostki organizacyjne oraz przedsiębiorców, dla których są organami założycielskimi, a także wojewodowie przez urzędy wojewódzkie, podporządkowane i nadzorowane jednostki organizacyjne oraz przedsiębiorców, dla których są organami założycielskimi, a ponadto poprzez organy samorządu terytorialnego, organizacje społeczne oraz przedsiębiorców niebędących jednostkami organizacyjnymi podporządkowanymi lub nadzorowanymi przez ministrów:
 
-**Art. 23b.** Tworzy się Centralną Bazę Danych (CBD HNS) służącą do gromadzenia danych o potencjale i zasobach przewidywanych do wykorzystania w ramach HNS.
-
-**Art. 23c.** Minister Obrony Narodowej odpowiada za koordynację HNS w Rzeczypospolitej Polskiej.
-
-**Art. 23d.** Dowódca Generalny Rodzajów Sił Zbrojnych, Dowódca Operacyjny Rodzajów Sił Zbrojnych, Dowódca Wojsk Obrony Terytorialnej, Dowódca Komponentu Wojsk Obrony Cyberprzestrzeni, Szef Inspektoratu Wsparcia Sił Zbrojnych oraz inni dyrektorzy (dowódcy, szefowie, komendanci) komórek i jednostek organizacyjnych resortu obrony narodowej realizują zadania HNS.
-
-**Art. 23e.** W ramach HNS ministrowie przez podległe ministerstwa, podporządkowane i nadzorowane jednostki organizacyjne oraz przedsiębiorców, dla których są organami założycielskimi, a także wojewodowie przez urzędy wojewódzkie, podporządkowane i nadzorowane jednostki organizacyjne oraz przedsiębiorców, dla których są organami założycielskimi, a ponadto poprzez organy samorządu terytorialnego, organizacje społeczne oraz przedsiębiorców niebędących jednostkami organizacyjnymi podporządkowanymi lub nadzorowanymi przez ministrów:
-
-**Art. 23f.**
+- **1)** ujmują problematykę HNS w procesie planowania i realizacji pozamilitarnych przygotowań obronnych państwa;
+- **2)** współdziałają w zakresie gromadzenia, przetwarzania, aktualizowania i wymiany informacji zawartych w CBD HNS;
+- **3)** biorą udział w opracowywaniu i negocjowaniu umów oraz porozumień HNS w obszarze wynikającym z zakresu ich właściwości;
+- **4)** udzielają uzgodnionego wsparcia, a także utrzymują w gotowości do działania zadeklarowane siły i środki na potrzeby wojsk sojuszniczych i organizacji międzynarodowych;
+- **5)** wyznaczają w swoich urzędach Punkty Kontaktowe HNS (PK HNS) jako etatowe albo nieetatowe komórki pełniące funkcję koordynatora zadań HNS i odpowiadają za szkolenie ich obsad w zakresie HNS.
 
 1. Ministrowie i wojewodowie wyznaczają w podległych urzędach pełnomocnika ds. HNS.
 
@@ -304,8 +298,6 @@ o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach
 - **1)** organizację i funkcjonowanie Centralnego Punktu Kontaktowego HNS (CPK HNS) jako komórki resortu obrony narodowej koordynującej HNS w układzie narodowym i sojuszniczym;
 - **2)** organizację i zarządzanie CBD HNS.
 
-**Art. 23g.**
-
 1. Powołuje się Narodowy Komitet Koordynacyjny HNS (NKK HNS), do którego zadań należy analiza i ocena HNS, a także przedstawianie wniosków i rekomendacji Radzie Ministrów za pośrednictwem Ministra Obrony Narodowej.
 
 2. NKK HNS jest organem kolegialnym, w skład którego wchodzą pełnomocnicy ministrów i wojewodów ds. HNS.
@@ -321,11 +313,19 @@ o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach
 - **3)** opracowanie Regulaminu NKK HNS regulującego zakres i tryb pracy Komitetu;
 - **4)** przedstawianie Ministrowi Obrony Narodowej wniosków z prac Komitetu.
 
-6. Przewodniczącemu NKK HNS przysługuje prawo zapraszania do prac Komitetu przedstawicieli innych instytucji i jednostek organizacyjnych pełniących ważną rolę w realizacji zadań HNS.
+6. Przewodniczącemu NKK HNS przysługuje prawo zapraszania do prac Komitetu przedstawicieli innych instytucji i jednostek organizacyjnych pełniących ważną rolę w realizacji zadań HNS. Ministrowie kierujący działami administracji rządowej udostępniają CPK HNS informacje i dane dla potrzeb HNS, dotyczące:
 
-**Art. 23h.** Ministrowie kierujący działami administracji rządowej udostępniają CPK HNS informacje i dane dla potrzeb HNS, dotyczące:
+- **1)** w dziale energia: możliwości zaopatrywania i przechowywania paliw i produktów naftowych, gazu oraz energii;
+- **2)** w dziale finanse publiczne: aktualnych uregulowań celnych i podatkowych;
+- **3)** w dziale gospodarka morska: infrastruktury portów morskich i transportu morskiego, w tym możliwości przeładunkowych w portach morskich oraz stanu i możliwości transportowych floty morskiej;
+- **4)** w dziale żegluga śródlądowa: infrastruktury portów i przeładowni rzecznych oraz czynnych przepraw promowych;
+- **5)** w dziale gospodarka wodna: możliwości osłony hydrometeorologicznej, infrastruktury śródlądowych dróg wodnych oraz budowli wodnych związanych z ujęciem, uzdatnianiem i dystrybucją wody;
+- **6)** w dziale transport: sieci infrastruktury transportowej, zasobów środków transportowych w poszczególnych gałęziach transportu i możliwości ich wykorzystania, sił i środków wyznaczonych do prowadzenia osłony technicznej sieci transportowej znaczenia obronnego;
+- **7)** w dziale sprawy wewnętrzne: przejść granicznych, zdolności prewencyjnej dla zapewnienia osłony wojsk sojuszniczych i organizacji międzynarodowych w rejonach rozmieszczenia i na trasach przemieszczania się po terytorium RP;
+- **8)** w dziale środowisko: zasobów oraz terenów możliwych do wykorzystania dla potrzeb HNS;
+- **9)** w dziale zdrowie: podmiotów leczniczych, centrów krwiodawstwa i krwiolecznictwa oraz zasobów krwi.
 
 **Art. 24.** (pominięty)
 
-**Art. 25.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia .
+**Art. 25.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

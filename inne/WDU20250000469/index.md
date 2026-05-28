@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu nowych inwestycji
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 24 marca 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 kwietnia 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-04-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000469) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/469/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 24 marca 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu nowych inwestycji
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 10 maja 2018 r. o wspieraniu nowych inwestycji (Dz. U. z 2024 r. poz. 459), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 20 grudnia 2024 r. o Radzie Fiskalnej (Dz. U. z 2025 r. poz. 39) oraz zmian wynikających z przepisów ogłoszonych przed dniem 19 marca 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 55 ustawy z dnia 20 grudnia 2024 r. o Radzie Fiskalnej (Dz. U. z 2025 r. poz. 39), który stanowi: „Art. 55. Ustawa wchodzi w życie z dniem 15 lutego 2025 r., z wyjątkiem:
 1) art. 32–34, art. 35 pkt 1–4, pkt 10, pkt 12 lit. a, pkt 13 i pkt 14 lit. a, art. 36 pkt 1–6, art. 37–39 oraz art. 53, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
@@ -41,6 +41,19 @@ Art. 35–38. (pominięte)
 **Art. 1.** Ustawa określa zasady udzielania przedsiębiorcom wsparcia na realizację nowych inwestycji, organ właściwy w sprawach wspierania nowych inwestycji oraz jego kompetencje i tryb działania, a także zadania zarządzających obszarami odpowiedzialnych za wspieranie nowych inwestycji.
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** nowa inwestycja:
+    - **a)** inwestycję w rzeczowe aktywa trwałe lub wartości niematerialne i prawne związane z założeniem nowego zakładu, zwiększeniem zdolności produkcyjnej istniejącego zakładu, dywersyfikacją produkcji zakładu przez wprowadzenie produktów uprzednio nieprodukowanych w zakładzie lub zasadniczą zmianą dotyczącą procesu produkcyjnego istniejącego zakładu lub
+    - **b)** nabycie aktywów należących do zakładu, który został zamknięty lub zostałby zamknięty, gdyby zakup nie nastąpił, przy czym aktywa nabywane są przez przedsiębiorcę niezwiązanego ze sprzedawcą i wyklucza się samo nabycie akcji lub udziałów przedsiębiorstwa;
+
+- **2)** obszar tereny określone w przepisach wydanych na podstawie art. 5 ust. 3, na których zarządzający obszarem wykonuje zadania określone ustawą;
+- **3)** przedsiębiorca przedsiębiorcę w rozumieniu art. 4 ust. 1 i 2 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871 oraz z 2025 r. poz. 222);
+- **4)** zarządzający obszarem zarządzającego specjalną strefą ekonomiczną ustanowioną na podstawie przepisów ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2023 r. poz. 1604);
+- **5)** kryteria jakościowe warunki zgodności ze średniookresową strategią rozwoju kraju, o której mowa w ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2025 r. poz. 198), szczegółowo określone w przepisach wydanych na podstawie art. 14 ust. 3 pkt 3;
+- **6)** kryteria ilościowe minimalne koszty inwestycji uzależnione od poziomu bezrobocia w powiecie, w którym ma być realizowana nowa inwestycja, szczegółowo określone w przepisach wydanych na podstawie art. 14 ust. 3 pkt 2; w przypadku gdy inwestycja jest położona w więcej niż jednym powiecie, poziom bezrobocia ustala się na podstawie tego powiatu, w którym znajdzie się większa część terenu, na którym zostanie zlokalizowana nowa inwestycja;
+- **7)** koszty kwalifikowane nowej inwestycji poniesione w okresie ważności decyzji o wsparciu:
+    - **a)** koszty inwestycji kwalifikujące się do objęcia pomocą publiczną z tytułu nowej inwestycji, z wyłączeniem kosztów poniesionych na samochody osobowe, środki transportu lotniczego, tabor pływający oraz inne składniki majątku służące głównie celom osobistym przedsiębiorcy, a w przypadku przedsiębiorcy będącego spółką handlową głównie celom osobistym jej wspólnika albo akcjonariusza, pomniejszone o naliczony podatek od towarów i usług oraz o podatek akcyzowy, jeżeli możliwość ich odliczeń wynika z odrębnych przepisów, lub
+    - **b)** dwuletnie koszty pracy poniesione przez przedsiębiorcę na tworzenie określonej liczby nowych miejsc pracy, przez określony czas, w związku z realizacją nowej inwestycji, jakie mogą być uwzględnione przy określaniu maksymalnej pomocy publicznej.
 
 **Art. 3.**
 

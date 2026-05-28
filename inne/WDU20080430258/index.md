@@ -22,10 +22,51 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2008-01-10 |
 | Data wydania | 2008-03-14 |
+| Wejście w życie | 2008-03-14 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080430258) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/258/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych (Dz. U. z 2002 r. Nr 187, poz. 1567, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 w ust. 1: pkt 7 i 8 otrzymują brzmienie: „
+    - **a)**
+
+- **7)** badaniu i ocenie weterynaryjnej jakości pasz i pasz leczniczych oraz warunków ich wytwarzania i dystrybucji;
+- **8)** stosowaniu produktów leczniczych weterynaryjnych wydawanych z przepisu lekarza weterynarii; ” , dodaje się pkt 9 w brzmieniu: „
+    - **b)**
+
+- **9)** wydawaniu recept na produkty lecznicze, z wyłączeniem produktów leczniczych weterynaryjnych, które będą stosowane u zwierząt. ” ;
+- **2)** po art. 1 dodaje się art. 1a w brzmieniu: „
+
+1. Obywatelom państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państw członkowskich Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, zwanych dalej „państwami członkowskimi”, którzy uzyskali w tych państwach, poza granicami Rzeczypospolitej Polskiej, kwalifikacje do wykonywania zawodu lekarza weterynarii, kwalifikacje te uznaje się na zasadach określonych w ustawie.
+
+2. Obywatelom państw członkowskich, których kwalifikacje zostały uznane, prawo wykonywania zawodu lekarza weterynarii na terytorium Rzeczypospolitej Polskiej przysługuje na takich samych zasadach jak osobom, które uzyskały kwalifikacje do jego wykonywania na terytorium Rzeczypospolitej Polskiej.
+
+3. Ilekroć w ustawie jest mowa o obywatelach państw członkowskich rozumie się przez to także członków ich rodzin w rozumieniu przepisów ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. Nr 144, poz. 1043 oraz z 2007 r. Nr 120, poz. 818) oraz obywateli państw trzecich posiadających zezwolenie na pobyt rezydenta długoterminowego WE w rozumieniu przepisów ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach (Dz. U. z 2006 r. Nr 234, poz. 1694 oraz z 2007 r. Nr 120, poz. 818 i Nr 165, poz. 1170). ” ;
+
+- **3)** w art. 2 ust. 1 i 2 otrzymują brzmienie: „
+
+1. Okręgowa rada lekarsko-weterynaryjna przyznaje, na wniosek, z zastrzeżeniem ust. 2 oraz art. 2a, prawo wykonywania zawodu lekarza weterynarii osobie, która:
+
+- **1)** jest obywatelem polskim lub obywatelem innego państwa członkowskiego;
+- **2)** posiada: dyplom lekarza weterynarii wydany przez polską szkołę wyższą albo dyplom lub inny dokument potwierdzający kwalifikacje do wykonywania zawodu lekarza weterynarii spełniające minimalne wymagania w zakresie kształcenia określone w przepisach Unii Europejskiej dotyczących uznawania kwalifikacji zawodowych, wydany przez właściwe organy innego niż Rzeczpospolita Polska państwa członkowskiego, wymieniony w wykazie, o którym mowa w art. 2f, albo dyplom lekarza weterynarii wydany przez właściwe organy innego państwa niż państwo członkowskie, jeżeli dyplom ten potwierdza kwalifikacje do wykonywania zawodu lekarza weterynarii spełniające minimalne wymagania w zakresie kształcenia określone w przepisach Unii Europejskiej dotyczących uznawania kwalifikacji zawodowych oraz został uznany w Rzeczypospolitej Polskiej za równoważny dokumentom wymienionym w wykazie, o którym mowa w art. 2f;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **3)** posiada pełną zdolność do czynności prawnych;
+- **4)** jest zdolna, ze względu na stan zdrowia, wykonywać zawód lekarza weterynarii;
+- **5)** wykazuje nienaganną postawę etyczną;
+- **6)** nie została pozbawiona praw publicznych prawomocnym wyrokiem sądu.
+
+2. Lekarzowi weterynarii będącemu obywatelem państwa członkowskiego, spełniającemu warunki, o których mowa w ust. 1, okręgowa rada lekarsko-weterynaryjna przyznaje prawo wykonywania zawodu lekarza weterynarii, jeżeli:
+
+- **1)** przedstawi zaświadczenie wydane przez właściwe organy państwa członkowskiego, że: posiada na terytorium tego państwa prawo wykonywania zawodu lekarza weterynarii, które nie zostało zawieszone, ani którego nie został pozbawiony, nie toczy się przeciwko niemu postępowanie w sprawie pozbawienia albo zawieszenia prawa wykonywania zawodu lekarza weterynarii;
+    - **a)**
+    - **b)**
+
+- **2)** złoży oświadczenie, że włada językiem polskim w mowie i piśmie w zakresie niezbędnym do wykonywania zawodu lekarza weterynarii. ” ;
+- **4)** art. 2a-2c otrzymują brzmienie: „
 
 **Art. 2a.**
 
@@ -153,4 +194,7 @@ source: "eli-html"
 **Art. 34b.** Do dnia poprzedzającego dzień, o którym mowa w art. 9 ust. 3 akapit pierwszy rozporządzenia nr 21/2004, owce i kozy przeznaczone do handlu mogą być znakowane w sposób określony dla owiec i kóz nieprzeznaczonych do handlu. ” .
 
 **Art. 3.** Ustawa wchodzi w życie z dniem ogłoszenia.
+
+- **1)** Przepisy ustawy wdrażają postanowienia dyrektywy 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, z późn. zm.). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2052, z 2003 r. Nr 59, poz. 532 i Nr 208, poz. 2018 oraz z 2004 r. Nr 11, poz. 95.
+
 

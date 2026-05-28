@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# o księgach wieczystych i hipotece
-
-*USTAWA z dnia 6 lipca 1982 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 marca 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -26,6 +24,19 @@ source: "isap-pdf"
 | Data wydania | 2025-03-18 |
 | Ostatnia zmiana | 2026-04-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000341) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/341/text.pdf) |
+
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 6 marca 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o księgach wieczystych i hipotece
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2023 r. poz. 1984), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U. poz. 1222) oraz zmian wynikających z przepisów ogłoszonych przed dniem 5 marca 2025 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 124 ustawy z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U. poz. 1222), który stanowi: „Art. 124. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
+1) art. 1, art. 39 pkt 11 lit. b w zakresie art. 16a ust. 4 pkt 2c i 2d, art. 46 pkt 5, art. 52 pkt 1, art. 63, art. 68 ust. 2, art. 80 ust. 3 i 5–8 oraz art. 120, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+2) art. 44 pkt 9 w zakresie art. 20 ust. 1 pkt 2 lit. b, który wchodzi w życie z dniem 1 grudnia 2024 r.;
+3) art. 39 pkt 24 i 27, które wchodzą w życie z dniem 1 stycznia 2025 r.;
+4) art. 39 pkt 31, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;
+5) art. 49 i art. 106, które wchodzą w życie z dniem 18 października 2024 r.”.
+Marszałek Sejmu: S. Hołownia
+USTAWA z dnia 6 lipca 1982 r.
+o księgach wieczystych i hipotece
 
 ### DZIAŁ I Księgi wieczyste
 
@@ -60,6 +71,12 @@ source: "isap-pdf"
 3. Jeżeli do dokonania rozporządzenia potrzebny jest wpis w księdze wieczystej, chwila złożenia wniosku o wpis jest rozstrzygająca dla oceny dobrej lub złej wiary nabywcy. Jednakże gdy rozporządzenie dochodzi do skutku dopiero po dokonaniu wpisu, rozstrzyga dzień, w którym rozporządzenie doszło do skutku.
 
 **Art. 7.** Rękojmia wiary publicznej ksiąg wieczystych nie działa przeciwko:
+
+- **1)** prawom obciążającym nieruchomość z mocy ustawy, niezależnie od wpisu;
+- **2)** prawu dożywocia;
+- **3)** służebnościom ustanowionym na podstawie decyzji właściwego organu administracji rządowej albo jednostki samorządu terytorialnego;
+- **4)** służebnościom drogi koniecznej albo ustanowionym w związku z przekroczeniem granicy przy wznoszeniu budynku lub innego urządzenia;
+- **5)** służebnościom przesyłu.
 
 **Art. 8.** Rękojmię wiary publicznej ksiąg wieczystych wyłącza wzmianka o wniosku, skardze na orzeczenie referendarza sądowego, apelacji lub skardze kasacyjnej oraz ostrzeżenie dotyczące niezgodności stanu prawnego ujawnionego w księdze wieczystej z rzeczywistym stanem prawnym nieruchomości.
 
@@ -124,7 +141,7 @@ source: "isap-pdf"
 - **6)** wybudowanie budynku i przeniesienie własności lokalu użytkowego, albo
 - **7)** przeniesienie własności lokalu użytkowego, albo
 - **8)** wybudowanie budynku i przeniesienie ułamkowej części własności lokalu użytkowego, albo
-- **9)** przeniesienie ułamkowej części własności lokalu użytkowego – oraz roszczenia przyszłego, bieg terminu do wykreślenia takich roszczeń liczy się od dnia, w którym stały się one wymagalne.
+- **9)** przeniesienie ułamkowej części własności lokalu użytkowego oraz roszczenia przyszłego, bieg terminu do wykreślenia takich roszczeń liczy się od dnia, w którym stały się one wymagalne.
 
 **Art. 20.**
 
@@ -196,23 +213,23 @@ source: "isap-pdf"
 
 1. Podstawą oznaczenia nieruchomości w księdze wieczystej są dane katastru nieruchomości .
 
-2. Podstawą oznaczenia lokalu w księdze wieczystej jest zaświadczenie o położeniu i powierzchni lokalu, wydane przez spółdzielnię mieszkaniową, a domu jednorodzinnego – zaświadczenie wydane przez spółdzielnię oraz dane katastru nieruchomości .
+2. Podstawą oznaczenia lokalu w księdze wieczystej jest zaświadczenie o położeniu i powierzchni lokalu, wydane przez spółdzielnię mieszkaniową, a domu jednorodzinnego zaświadczenie wydane przez spółdzielnię oraz dane katastru nieruchomości .
 
-3. O założeniu księgi wieczystej, o której mowa w art. 24 , oraz o wpisie hipoteki do tej księgi sąd prowadzący księgę wieczystą zawiadamia spółdzielnię. <4. Do danych ujawnianych w księdze wieczystej nie stosuje się przepisów art. 48a ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2024 r. poz. 1799 oraz z 2025 r. poz. 1792).>
+3. O założeniu księgi wieczystej, o której mowa w art. 24 , oraz o wpisie hipoteki do tej księgi sąd prowadzący księgę wieczystą zawiadamia spółdzielnię.
 
 **Art. 27.**
 
-1. W razie niezgodności danych katastru nieruchomości z oznaczeniem nieruchomości w księdze wieczystej sąd rejonowy dokonuje – na wniosek właściciela nieruchomości lub wieczystego użytkownika – sprostowania oznaczenia nieruchomości na podstawie danych katastru nieruchomości .
+1. W razie niezgodności danych katastru nieruchomości z oznaczeniem nieruchomości w księdze wieczystej sąd rejonowy dokonuje na wniosek właściciela nieruchomości lub wieczystego użytkownika sprostowania oznaczenia nieruchomości na podstawie danych katastru nieruchomości .
 
 2. Sprostowanie, o którym mowa w ust. 1, może być dokonane także z urzędu, na skutek bezpośredniego sprawdzenia danych w bazie danych katastru nieruchomości lub zawiadomienia jednostki prowadzącej kataster nieruchomości .
 
-3. Do zawiadomienia, o którym mowa w ust. 2, dołącza się wypis z operatu katastralnego, a gdy jest to niezbędne – także wyrys z mapy katastralnej lub inny dokument stanowiący podstawę sprostowania oznaczenia nieruchomości.
+3. Do zawiadomienia, o którym mowa w ust. 2, dołącza się wypis z operatu katastralnego, a gdy jest to niezbędne także wyrys z mapy katastralnej lub inny dokument stanowiący podstawę sprostowania oznaczenia nieruchomości.
 
 4. Organ prowadzący kataster nieruchomości zapewni nieodpłatnie sądom prowadzącym księgi wieczyste, w celu sprawdzenia oznaczenia nieruchomości, bezpośredni dostęp do bazy danych katastru nieruchomości poprzez zintegrowany system informacji o nieruchomościach.
 
 **Art. 28.** Przy każdej księdze wieczystej prowadzi się akta księgi wieczystej. Do akt tych składa się dokumenty i pisma dotyczące nieruchomości.
 
-**Art. 29.** Wpis w księdze wieczystej ma moc wsteczną od chwili złożenia wniosku o dokonanie wpisu, a w wypadku wszczęcia postępowania z urzędu – od chwili wszczęcia tego postępowania.
+**Art. 29.** Wpis w księdze wieczystej ma moc wsteczną od chwili złożenia wniosku o dokonanie wpisu, a w wypadku wszczęcia postępowania z urzędu od chwili wszczęcia tego postępowania.
 
 **Art. 30.** (uchylony)
 
@@ -242,7 +259,7 @@ source: "isap-pdf"
 
 **Art. 36.**
 
-1. Sądy, organy administracji rządowej i jednostek samorządu terytorialnego, a także notariusze sporządzający akty poświadczenia dziedziczenia, jeżeli nie złożyli wniosku, o którym mowa w art. 95j § 2 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2024 r. poz. 1001 oraz z 2025 r. poz. 479, 1669 i 1793), w dniu sporządzenia aktu poświadczenia dziedziczenia, zawiadamiają sąd właściwy do prowadzenia księgi wieczystej o każdej zmianie właściciela nieruchomości, dla której jest założona księga wieczysta.
+1. Sądy, organy administracji rządowej i jednostek samorządu terytorialnego oraz notariusze sporządzający akty poświadczenia dziedziczenia zawiadamiają sąd właściwy do prowadzenia księgi wieczystej o każdej zmianie właściciela nieruchomości, dla której założona jest księga wieczysta.
 
 2. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór zawiadomienia, o którym mowa w ust. 1.
 
@@ -285,7 +302,7 @@ source: "isap-pdf"
 
 3. Odpisy, wyciągi i zaświadczenia, o których mowa w ust. 2, wydawane przez Centralną Informację mają moc dokumentów wydawanych przez sąd.
 
-4. W przypadku złożenia za pośrednictwem systemu teleinformatycznego wniosku o wydanie dokumentów, o których mowa w ust. 2, Centralna Informacja umożliwia pobranie tych dokumentów w postaci dokumentów elektronicznych pozwalających na samodzielne sporządzenie wydruków za pośrednictwem systemu teleinformatycznego. Pobrane dokumenty elektroniczne oraz ich wydruki mają moc dokumentów wydawanych przez sąd, jeżeli posiadają cechy umożliwiające ich weryfikację z danymi zawartymi w centralnej bazie danych ksiąg wieczystych.
+4. W przypadku złożenia za pośrednictwem systemu teleinformatycznego wniosku o wydanie dokumentów, o których mowa w ust. 2, Centralna Informacja umożliwia samodzielne wydrukowanie tych dokumentów za pośrednictwem systemu teleinformatycznego. Wydruki tych dokumentów mają moc dokumentów wydawanych przez sąd, jeżeli posiadają cechy umożliwiające ich weryfikację z danymi zawartymi w centralnej bazie danych ksiąg wieczystych.
 
 5. Centralna Informacja umożliwia, za pośrednictwem systemu teleinformatycznego, przeglądanie ksiąg wieczystych.
 
@@ -320,7 +337,9 @@ source: "isap-pdf"
 - **21)** Żandarmeria Wojskowa;
 - **22)** Komisja do spraw reprywatyzacji nieruchomości warszawskich;
 - **23)** organy Krajowej Administracji Skarbowej;
-- **24)** Krajowy Zasób Nieruchomości; [25) Ubezpieczeniowy Fundusz Gwarancyjny w zakresie związanym z realizacją zadań określonych w rozdziale 8 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym;] <25) Ubezpieczeniowy Fundusz Gwarancyjny w celach, o których mowa w art. 51 ust. 4 pkt 2 i art. 56d ust. 2 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym;> 25a) Spółka Celowa, o której mowa w art. 2 pkt 10 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, w zakresie realizacji zadań wymienionych w art. 17 tej ustawy;
+- **24)** Krajowy Zasób Nieruchomości;
+- **25)** Ubezpieczeniowy Fundusz Gwarancyjny w zakresie związanym z realizacją zadań określonych w rozdziale 8 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym;
+- **25a)** Spółka Celowa, o której mowa w art. 2 pkt 10 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, w zakresie realizacji zadań wymienionych w art. 17 tej ustawy;
 - **25b)** PKP Polskie Linie Kolejowe Spółka Akcyjna w celu wykonywania zadań związanych z realizacją Inwestycji oraz Inwestycji Towarzyszącej, o których mowa w ustawie z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym;
 - **25c)** Generalny Dyrektor Dróg Krajowych i Autostrad;
 - **25d)** minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa;
@@ -362,25 +381,28 @@ source: "isap-pdf"
 - **3)** wzory wniosków składanych do Centralnej Informacji, w tym zakres danych we wniosku składanym za pośrednictwem systemu teleinformatycznego,
 - **4)** tryb postępowania z wnioskami i sposób pobierania od nich opłaty,
 - **5)** tryb przeglądania księgi wieczystej,
-- **6)** cechy dokumentów elektronicznych oraz wydruków tych dokumentów, mających moc dokumentów wydawanych przez sąd, oraz sposób i tryb ich weryfikacji z danymi zawartymi w centralnej bazie danych ksiąg wieczystych,
+- **6)** cechy dokumentów mających moc dokumentów wydawanych przez sąd, wydrukowanych samodzielnie oraz sposób i tryb ich weryfikacji z danymi zawartymi w centralnej bazie danych ksiąg wieczystych,
 - **7)** warunki techniczne i organizacyjne wykonania decyzji, o której mowa w ust. 13,
-- **8)** tryb, sposób i kryteria wyszukiwania ksiąg wieczystych – uwzględniając zasadę jawności ksiąg wieczystych i powszechność dostępu do nich, szybkość postępowania, zakres danych zawartych we wniosku, konieczność zapewnienia możliwości i sprawności weryfikacji pobranego dokumentu elektronicznego oraz samodzielnie wydrukowanego dokumentu z danymi zawartymi w centralnej bazie danych ksiąg wieczystych oraz konieczność zapewnienia ochrony centralnej bazy danych ksiąg wieczystych przed nieuprawnionym dostępem osób trzecich, a także treść i strukturę księgi wieczystej.
+- **8)** tryb, sposób i kryteria wyszukiwania ksiąg wieczystych uwzględniając zasadę jawności ksiąg wieczystych i powszechność dostępu do nich, szybkość postępowania, zakres danych zawartych we wniosku, konieczność zapewnienia możliwości weryfikacji samodzielnie wydrukowanego dokumentu z danymi zawartymi w centralnej bazie danych ksiąg wieczystych oraz konieczność zapewnienia ochrony centralnej bazy danych ksiąg wieczystych przed nieuprawnionym dostępem osób trzecich, a także treść i strukturę księgi wieczystej.
 
 **Art. 36⁵.**
 
 1. Centralna Informacja pobiera opłaty od wniosków o wydanie odpisu księgi wieczystej, wyciągu z księgi wieczystej, zaświadczenia o zamknięciu księgi wieczystej oraz od wniosku o wyszukanie ksiąg wieczystych.
 
-2. Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, wysokość opłat, o których mowa w ust. 1, uwzględniając potrzebę pokrycia kosztów administracyjnych oraz zróżnicowania opłat od wniosków o uzyskanie poszczególnych dokumentów w zależności od sposobu złożenia wniosku, sposobu doręczenia dokumentów oraz postaci wydawanego dokumentu, a także konieczność realizacji ustawowych zadań przez podmiot wnioskujący o wyszukanie ksiąg wieczystych.
+2. Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, wysokość opłat, o których mowa w ust. 1, uwzględniając potrzebę pokrycia kosztów administracyjnych oraz zróżnicowania opłat od wniosków o uzyskanie poszczególnych dokumentów w zależności od sposobu złożenia wniosku, sposobu doręczenia dokumentów oraz samodzielnego wydruku dokumentów, o którym mowa w art. 36 ust. 4, a także konieczność realizacji ustawowych zadań przez podmiot wnioskujący o wyszukanie ksiąg wieczystych.
 
 3. Nie pobiera się opłat od wniosków o wydanie odpisu księgi wieczystej, wyciągu z księgi wieczystej, zaświadczenia o zamknięciu księgi wieczystej oraz wniosku o wyszukanie ksiąg wieczystych złożonego przez podmioty, o których mowa w art. 36 ust. 8 pkt 1–6, 7a, 8–17, 19, 22, 24 i 28, lub organ administracji rządowej. Art. 37–57. (uchylone)
 
 **Art. 58.** Minister Sprawiedliwości określi, w drodze rozporządzenia:
 
+- **1)** sądy rejonowe prowadzące księgi wieczyste oraz obszary ich właściwości miejscowej,
+- **2)** czynności, które przy prowadzeniu i przechowywaniu ksiąg wieczystych mogą spełniać samodzielnie pracownicy sądowi uwzględniając zasady sprawności, racjonalności i szybkiego działania sądu oraz zasadę jawności ksiąg wieczystych.
+
 **Art. 58¹.** (uchylony)
 
 **Art. 58².** (uchylony)
 
-#### Rozdział 3
+#### Rozdział 3 (uchylony)
 
 ### DZIAŁ II Hipoteka
 
@@ -432,7 +454,7 @@ source: "isap-pdf"
 
 3. Administrator hipoteki zawiera umowę o ustanowienie hipoteki oraz wykonuje prawa i obowiązki wierzyciela hipotecznego we własnym imieniu, lecz na rachunek wierzycieli, których wierzytelności są objęte zabezpieczeniem. W umowie ustanawiającej hipotekę należy określić zakres zabezpieczenia poszczególnych wierzytelności oraz przedsięwzięcie, którego sfinansowaniu służą.
 
-4. Do ustanowienia hipoteki na rzecz administratora hipoteki nie stosuje się art. 95 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646, 1685 i 1863 oraz z 2025 r. poz. 146 i 222).
+4. Do ustanowienia hipoteki na rzecz administratora hipoteki nie stosuje się art. 95 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2024 r. poz. 1646, 1685 i 1863 oraz z 2025 r. poz. 146 i 222).
 
 5. W księdze wieczystej jako wierzyciela hipotecznego wpisuje się administratora hipoteki. Na wniosek wierzycieli, których wierzytelności są objęte zabezpieczeniem, sąd dokonuje zmiany wpisu administratora hipoteki.
 
@@ -624,7 +646,7 @@ source: "isap-pdf"
 
 **Art. 101¹¹.** Przepisów niniejszego oddziału nie stosuje się do hipoteki na wierzytelności hipotecznej.
 
-#### Rozdział 2
+#### Rozdział 2 (uchylony)
 
 #### Rozdział 2 Hipoteka na wierzytelności hipotecznej
 
@@ -651,6 +673,12 @@ source: "isap-pdf"
 2. Jeżeli nieruchomość jest własnością Skarbu Państwa, hipoteka przymusowa może być ustanowiona w wypadkach przewidzianych w przepisach ustawowych.
 
 **Art. 110.** Hipotekę przymusową można uzyskać także na podstawie:
+
+- **1)** postanowienia sądu o udzieleniu zabezpieczenia;
+- **2)** postanowienia prokuratora;
+- **3)** decyzji administracyjnej, o ile przepisy szczególne tak stanowią, chociażby decyzja nie była ostateczna;
+- **4)** dokumentu zabezpieczenia, o którym mowa w art. 3 pkt 1 ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. z 2023 r. poz. 2009);
+- **5)** zarządzenia zabezpieczenia określonego w przepisach o postępowaniu egzekucyjnym w administracji albo zarządzenia zabezpieczenia określonego w ustawie, o której mowa w pkt 4.
 
 **Art. 110¹.** Wierzyciel może żądać wpisu hipoteki przymusowej na sumę nie wyższą niż wynikająca z treści dokumentu stanowiącego podstawę jej wpisu do księgi wieczystej. Jeżeli z dokumentu tego nie wynika wysokość sumy hipoteki, suma hipoteki nie może przewyższać więcej niż o połowę zabezpieczonej wierzytelności wraz z roszczeniami o świadczenia uboczne określonymi w dokumencie stanowiącym podstawę wpisu hipoteki na dzień złożenia wniosku o wpis hipoteki.
 
@@ -692,11 +720,11 @@ source: "isap-pdf"
 
 **Art. 118.** Przepisy niniejszej ustawy o zakresie obciążenia hipoteką oraz o ochronie hipoteki stosuje się także do hipotek, długów gruntowych i długów rentowych istniejących w dniu wejścia w życie tej ustawy.
 
-**Art. 119.** Listy hipoteczne, a także listy długów gruntowych i rentowych w rozumieniu kodeksu cywilnego niemieckiego, wydane przed dniem wejścia w życie dekretu z dnia 11 października 1946 r. – Prawo rzeczowe, pozostają w mocy, jeżeli zostały zarejestrowane w trybie przewidzianym w dekrecie z dnia 10 grudnia 1946 r. o rejestracji i umarzaniu listów hipotecznych, listów długów gruntowych i rentowych, wydanych przed dniem 1 września 1939 r. (Dz. U. z 1947 r. poz. 19).
+**Art. 119.** Listy hipoteczne, a także listy długów gruntowych i rentowych w rozumieniu kodeksu cywilnego niemieckiego, wydane przed dniem wejścia w życie dekretu z dnia 11 października 1946 r. Prawo rzeczowe, pozostają w mocy, jeżeli zostały zarejestrowane w trybie przewidzianym w dekrecie z dnia 10 grudnia 1946 r. o rejestracji i umarzaniu listów hipotecznych, listów długów gruntowych i rentowych, wydanych przed dniem 1 września 1939 r. (Dz. U. z 1947 r. poz. 19).
 
 **Art. 120.** (uchylony)
 
-**Art. 121.** Na obszarze byłej mocy obowiązującej prawa o ustalaniu własności dóbr nieruchomych, o przywilejach i hipotekach z 1818 r. – prawa, które nie mogły być wpisane do księgi wieczystej ze względu na brak zgody wierzycieli hipotecznych, lecz zostały ujawnione przez zastrzeżenia, mogą być wpisane bez tej zgody z pierwszeństwem wynikającym z zastrzeżenia ujawnionego w księdze dotychczasowej.
+**Art. 121.** Na obszarze byłej mocy obowiązującej prawa o ustalaniu własności dóbr nieruchomych, o przywilejach i hipotekach z 1818 r. prawa, które nie mogły być wpisane do księgi wieczystej ze względu na brak zgody wierzycieli hipotecznych, lecz zostały ujawnione przez zastrzeżenia, mogą być wpisane bez tej zgody z pierwszeństwem wynikającym z zastrzeżenia ujawnionego w księdze dotychczasowej.
 
 **Art. 122.** Jeżeli ograniczenie możności rozporządzenia nieruchomością lub prawami rzeczowymi na nieruchomości, które przestało być wiążące, jest nadal wpisane w księdze wieczystej, wykreślenie jego może nastąpić z urzędu.
 
@@ -720,12 +748,17 @@ source: "isap-pdf"
 
 1. Minister Sprawiedliwości, w drodze rozporządzenia, wyda:
 
-- **1)** szczegółowe przepisy o prowadzeniu ksiąg wieczystych założonych po dniu wejścia w życie dekretu z dnia 11 października 1946 r. – Prawo o księgach wieczystych;
+- **1)** szczegółowe przepisy o prowadzeniu ksiąg wieczystych założonych po dniu wejścia w życie dekretu z dnia 11 października 1946 r. Prawo o księgach wieczystych;
 - **2)** szczegółowe przepisy o prowadzeniu zbioru dokumentów oraz o postępowaniu w tych sprawach.
 
-2. Minister Sprawiedliwości, w drodze rozporządzenia, może określić termin utraty mocy prawnej ksiąg wieczystych założonych przed dniem wejścia w życie dekretu z dnia 11 października 1946 r. – Prawo o księgach wieczystych, zasady prowadzenia tych ksiąg do czasu utraty przez nie mocy prawnej, zasady zakładania nowych ksiąg wieczystych dla nieruchomości, których księgi wieczyste utraciły moc prawną, oraz zasady zwalniania od opłat sądowych w sprawach związanych z utratą mocy prawnej ksiąg wieczystych.
+2. Minister Sprawiedliwości, w drodze rozporządzenia, może określić termin utraty mocy prawnej ksiąg wieczystych założonych przed dniem wejścia w życie dekretu z dnia 11 października 1946 r. Prawo o księgach wieczystych, zasady prowadzenia tych ksiąg do czasu utraty przez nie mocy prawnej, zasady zakładania nowych ksiąg wieczystych dla nieruchomości, których księgi wieczyste utraciły moc prawną, oraz zasady zwalniania od opłat sądowych w sprawach związanych z utratą mocy prawnej ksiąg wieczystych.
 
 **Art. 126.** Tracą moc:
+
+- **1)** dekret z dnia 11 października 1946 r. Prawo o księgach wieczystych (Dz. U. poz. 320 oraz z 1950 r. poz. 349);
+- **2)** utrzymane w mocy przez art. III pkt 3 oraz art. XVII ustawy z dnia 23 kwietnia 1964 r. Przepisy wprowadzające kodeks cywilny (Dz. U. poz. 94 oraz z 1974 r. poz. 142) art. 14–27, 190–249, 290–293, 295 oraz w zakresie ksiąg wieczystych i hipoteki art. 114, 115, 118–120, 122–126 i 300 § 2 dekretu z dnia 11 października 1946 r. Prawo rzeczowe (Dz. U. poz. 319, z 1950 r. poz. 312, z 1954 r. poz. 184, z 1961 r. poz. 159, z 1962 r. poz. 166 oraz z 1964 r. poz. 94);
+- **3)** utrzymane w mocy przez art. III pkt 4 oraz art. XVIII ustawy z dnia 23 kwietnia 1964 r. Przepisy wprowadzające kodeks cywilny (Dz. U. poz. 94 oraz z 1974 r. poz. 142) w zakresie ksiąg wieczystych i hipoteki art. XIX–XXV, XXXVII, XXXVIII, XL–XLVI, L i LIV–LXIII dekretu z dnia 11 października 1946 r. Przepisy wprowadzające prawo rzeczowe i prawo o księgach wieczystych (Dz. U. poz. 321, z 1950 r. poz. 349, z 1953 r. poz. 113, z 1960 r. poz. 311 oraz z 1964 r. poz. 94);
+- **4)** ustawa z dnia 16 listopada 1964 r. o przekazaniu państwowym biurom notarialnym prowadzenia ksiąg wieczystych (Dz. U. poz. 278).
 
 **Art. 127.** Do czasu wydania przepisów wykonawczych na podstawie niniejszej ustawy obowiązują przepisy dotychczasowe, jeżeli nie są sprzeczne z przepisami tej ustawy.
 

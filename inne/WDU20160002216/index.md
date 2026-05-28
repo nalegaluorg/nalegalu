@@ -8,10 +8,10 @@ pos: 2216
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Warszawa, dnia 29 grudnia 2016 r.
+# Rozporządzenie Ministra Zdrowiaz dnia 21 grudnia 2016 r. w sprawie rocznej informacji o zrealizowanych lub podjętych zadaniach z zakresu zdrowia publicznego
 
 | Pole | Wartość |
 |---|---|
@@ -22,16 +22,28 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-21 |
 | Data wydania | 2016-12-29 |
+| Wejście w życie | 2017-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002216) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2216/text.pdf) |
 
-Poz. 2216 RozpoRządzenie MinistRa zdRowia dnia 21 grudnia 2016 r.
-sprawie rocznej informacji zrealizowanych lub podjętych zadaniach zakresu zdrowia publicznego Na podstawie art. 12 ust. 11 ustawy dnia 11 września 2015 r. zdrowiu publicznym (Dz. U. poz. 1916 oraz 2016 r.
-poz. 2003) zarządza się, co następuje: § 1. Rozporządzenie określa:
-1) sposób przekazywania rocznej informacji zrealizowanych lub podjętych ubiegłym roku zadaniach zakresu zdrowia publicznego, których mowa art. 12 ust. 1 2 ustawy dnia 11 września 2015 r. zdrowiu publicznym;
-2) wzór dokumentu zawierającego roczną informację, której mowa pkt 1.
-§ 2. 1. Roczną informację zrealizowanych lub podjętych ubiegłym roku zadaniach zakresu zdrowia publicznego przekazuje się postaci pisemnej lub elektronicznej zgodnie ze wzorem określonym załączniku do rozporządzenia.
-2. Roczną informację postaci elektronicznej przekazuje się poprzez transmisję danych lub na informatycznym nośniku danych.
-§ 3. Rozporządzenie wchodzi życie dniem 1 stycznia 2017 r.
-Minister Zdrowia: K. Radziwiłł 
+Treść rozporządzenia
+Załącznik – Roczna informacja o zrealizowanych lub podjętych zadaniach z zakresu zdrowia publicznego (wzór)
+Treść rozporządzenia
+Na podstawie art. 12 ust. 11 ustawy z dnia 11 września 2015 r. o zdrowiu publicznym (Dz. U. poz. 1916 oraz z 2016 r. poz. 2003) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+sposób przekazywania rocznej informacji o zrealizowanych lub podjętych w ubiegłym roku zadaniach z zakresu zdrowia publicznego, o których mowa w art. 12 ust. 1 i 2 ustawy z dnia 11 września 2015 r. o zdrowiu publicznym;
+2)
+wzór dokumentu zawierającego roczną informację, o której mowa w pkt 1.
+§ 2.
+1.
+Roczną informację o zrealizowanych lub podjętych w ubiegłym roku zadaniach z zakresu zdrowia publicznego przekazuje się w postaci pisemnej lub elektronicznej zgodnie ze wzorem określonym w załączniku do rozporządzenia.
+2.
+Roczną informację w postaci elektronicznej przekazuje się poprzez transmisję danych lub na informatycznym nośniku danych.
+§ 3.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
+1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).
+Załącznik – Roczna informacja o zrealizowanych lub podjętych zadaniach z zakresu zdrowia publicznego (wzór)
+patrz oryginał
 

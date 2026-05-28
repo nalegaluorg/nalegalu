@@ -2,11 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 1 lipca 2005 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw*
 
-Łącznie: **2** orzeczeń
-
-## art. 4 (1)
-
-- 2009-06-25 | SN | [I UK 32/09](https://www.saos.org.pl/judgments/90462) | Wyrok ★
+Łącznie: **1** orzeczeń
 
 ## art. 5 (1)
 

@@ -8,12 +8,10 @@ pos: 2017
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zastawie rejestrowym i rejestrze zastawów
-
-*USTAWA z dnia 6 grudnia 1996 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 3 października 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zastawie rejestrowym i rejestrze zastawów
 
 | Pole | Wartość |
 |---|---|
@@ -27,7 +25,25 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-01-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002017) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2017/text.pdf) |
 
-Art. 45–49. (pominięte)
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów Rozdział 1 – Przepisy ogólne Rozdział 1a – Ustanowienie zastawu rejestrowego Rozdział 2 – Przedmiot zastawu rejestrowego Rozdział 3 – Prawa i obowiązki zastawcy i zastawnika Rozdział 4 – Zbieg obciążeń Rozdział 5 – Przeniesienie i wygaśnięcie zastawu rejestrowego Rozdział 6 – Zaspokojenie zastawnika Rozdział 7 – (uchylony) Rozdział 8 – Rejestr zastawów Rozdział 9 – Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów (Dz. U. z 2017 r. poz. 1278), z uwzględnieniem zmian wprowadzonych ustawą z dnia 26 stycznia 2018 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw (Dz. U. poz. 398 i 650) oraz zmian wynikających z przepisów ogłoszonych przed dniem 2 października 2018 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje odnośnika nr 1 oraz art. 53 i art. 55 ustawy z dnia 26 stycznia 2018 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw (Dz. U. poz. 398 i 650), które stanowią: „ 1) Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2017/1132 z dnia 14 czerwca 2017 r. w sprawie niektórych aspektów prawa spółek (Dz. Urz. UE L 169 z 30.06.2017, str. 46–127). ”
+„
+Art. 45–49.
+(pominięte)
+
+**Art. 53.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 43a ustawy zmienianej w art. 12 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 43a ustawy zmienianej w art. 12, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż do dnia 31 grudnia 2018 r. ” „
+
+**Art. 55.** Ustawa wchodzi w życie z dniem 15 marca 2018 r., z wyjątkiem:
+
+- **1)** art. 7 pkt 2–4, art. 30, art. 44 oraz art. 54, które wchodzą w życie z dniem 9 kwietnia 2018 r.;
+- **2)** art. 1 pkt 13 w zakresie dodawanego art. 19e ust. 5, art. 1 pkt 14 lit. b w zakresie dodawanego ust. 1g, art. 8, art. 9, art. 10 pkt 1–5, art. 16, art. 17 pkt 2, art. 31, art. 50 oraz art. 51, które wchodzą w życie z dniem 1 października 2018 r.;
+- **3)** art. 1 pkt 16, 17, pkt 18 w zakresie dodawanego art. 21c, pkt 23, pkt 30 w zakresie uchylenia art. 55 i art. 57, art. 3 pkt 19, art. 4–6, art. 13, art. 18–20, art. 21 pkt 1, 4 i 6, art. 24, art. 25, art. 28, art. 29 pkt 1, art. 41 ust. 2 oraz art. 45, które wchodzą w życie z dniem 1 lutego 2019 r.;
+- **4)** art. 1 pkt 2, pkt 5 lit. a w zakresie zmienianego pkt 3, pkt 7, 9, 11 i pkt 13 w zakresie dodawanego art. 19d oraz art. 19e ust. 4, art. 3 pkt 12, pkt 13 lit. c i e, pkt 14 w zakresie dodawanego art. 6943a, pkt 15 lit. c i d, pkt 18, art. 7 pkt 1, art. 17 pkt 7 i 8, art. 40 oraz art. 43, które wchodzą w życie z dniem 1 marca 2020 r. ” . Załącznik – Tekst jednolity ustawy z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -68,7 +84,7 @@ Art. 45–49. (pominięte)
 
 - **1)** wierzytelności przysługującej dwóm lub więcej wierzycielom,
 - **2)** dwóch lub więcej wierzytelności wynikających z umów,
-- **3)** wierzytelności objętej układem w postępowaniu upadłościowym albo restrukturyzacyjnym – jeden z wierzycieli wskazany w umowie zawartej z pozostałymi wierzycielami lub w układzie, może być upoważniony do zabezpieczenia zastawem rejestrowym wierzytelności przysługujących pozostałym wierzycielom i do wykonywania we własnym imieniu, ale na ich rachunek, praw i obowiązków zastawnika wynikających z umowy zastawniczej i przepisów prawa (administrator zastawu).
+- **3)** wierzytelności objętej układem w postępowaniu upadłościowym albo restrukturyzacyjnym jeden z wierzycieli wskazany w umowie zawartej z pozostałymi wierzycielami lub w układzie, może być upoważniony do zabezpieczenia zastawem rejestrowym wierzytelności przysługujących pozostałym wierzycielom i do wykonywania we własnym imieniu, ale na ich rachunek, praw i obowiązków zastawnika wynikających z umowy zastawniczej i przepisów prawa (administrator zastawu).
 
 2. Przepis ust. 1 stosuje się również w przypadku przeniesienia części wierzytelności zabezpieczonej zastawem rejestrowym na inną osobę.
 
@@ -78,9 +94,7 @@ Art. 45–49. (pominięte)
 
 **Art. 5.** Zastawem rejestrowym można zabezpieczyć wierzytelność pieniężną wyrażoną w pieniądzu polskim lub walucie obcej.
 
-**Art. 6.** Zastaw rejestrowy może zabezpieczać dwie lub więcej wierzytelności wynikające z umów przysługujących jednemu wierzycielowi. Wierzytelności te określa umowa zastawnicza.
-
-**Art. 6a.** Zastaw rejestrowy zabezpiecza odsetki, roszczenia uboczne wskazane przez strony w umowie zastawniczej oraz koszty zaspokojenia zastawnika mieszczące się w sumie wymienionej we wpisie zastawu.
+**Art. 6.** Zastaw rejestrowy może zabezpieczać dwie lub więcej wierzytelności wynikające z umów przysługujących jednemu wierzycielowi. Wierzytelności te określa umowa zastawnicza. Zastaw rejestrowy zabezpiecza odsetki, roszczenia uboczne wskazane przez strony w umowie zastawniczej oraz koszty zaspokojenia zastawnika mieszczące się w sumie wymienionej we wpisie zastawu.
 
 #### Rozdział 2 Przedmiot zastawu rejestrowego
 
@@ -100,7 +114,7 @@ Art. 45–49. (pominięte)
 - **4)** wierzytelności;
 - **5)** prawa na dobrach niematerialnych;
 - **6)** prawa z papierów wartościowych;
-- **7)** prawa z niebędących papierami wartościowymi instrumentów finansowych w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2017 r. poz. 1768, z późn. zm. ).
+- **7)** prawa z niebędących papierami wartościowymi instrumentów finansowych w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2017 r. poz. 1768, z późn. zm.).
 
 3. Zastaw rejestrowy może być ustanowiony także wówczas, gdy zastawca nabędzie przedmiot zastawu w przyszłości. Obciążenie zastawem rejestrowym takiego przedmiotu zastawu staje się skuteczne z chwilą jego nabycia przez zastawcę.
 
@@ -146,6 +160,9 @@ Art. 45–49. (pominięte)
 
 **Art. 13.** Zbycie przedmiotu zastawu rejestrowego powoduje wygaśnięcie tego zastawu, jeżeli:
 
+- **1)** nabywca nie wiedział i przy zachowaniu należytej staranności nie mógł wiedzieć o istnieniu zastawu rejestrowego w chwili wydania mu rzeczy lub przejścia na niego prawa obciążonego zastawem rejestrowym albo
+- **2)** rzecz obciążoną zastawem rejestrowym zalicza się do rzeczy zbywanych zwykle w zakresie działalności gospodarczej zastawcy i rzecz ta została wydana nabywcy, chyba że nabywca nabył rzecz w celu pokrzywdzenia zastawnika.
+
 **Art. 14.**
 
 1. W umowie zastawniczej dopuszczalne jest zastrzeżenie, przez które zastawca zobowiązuje się względem zastawnika, że przed wygaśnięciem zastawu rejestrowego nie dokona zbycia lub obciążenia przedmiotu zastawu.
@@ -180,9 +197,7 @@ Art. 45–49. (pominięte)
 
 3. Jeżeli w terminie, o którym mowa w ust. 2 pkt 2, nie powstanie stosunek prawny, z którego wynika nowa wierzytelność zabezpieczona zastawem rejestrowym, zastaw rejestrowy wygasa z upływem tego terminu, a zastawnik ma obowiązek niezwłocznego dokonania czynności niezbędnych do złożenia wniosku o wykreślenie zastawu z rejestru zastawów.
 
-4. W przypadku określonym w ust. 3, wniosek o wykreślenie zastawu może złożyć zastawnik lub zastawca, który dołącza do wniosku pisemne oświadczenie zastawnika o wyrażeniu zgody na wykreślenie zastawu.
-
-**Art. 18a.** Zastaw rejestrowy wygasa i podlega wykreśleniu z rejestru zastawów po upływie dwudziestu lat od chwili wpisu, chyba że strony postanowią o utrzymaniu zastawu na czas dalszy, nie dłuższy niż dziesięć lat, i do rejestru zastawów zostanie złożona zmiana umowy zastawniczej. Sąd dokonuje wykreślenia z urzędu.
+4. W przypadku określonym w ust. 3, wniosek o wykreślenie zastawu może złożyć zastawnik lub zastawca, który dołącza do wniosku pisemne oświadczenie zastawnika o wyrażeniu zgody na wykreślenie zastawu. Zastaw rejestrowy wygasa i podlega wykreśleniu z rejestru zastawów po upływie dwudziestu lat od chwili wpisu, chyba że strony postanowią o utrzymaniu zastawu na czas dalszy, nie dłuższy niż dziesięć lat, i do rejestru zastawów zostanie złożona zmiana umowy zastawniczej. Sąd dokonuje wykreślenia z urzędu.
 
 **Art. 19.**
 
@@ -194,19 +209,17 @@ Art. 45–49. (pominięte)
 
 - **1)** zastawnika;
 - **2)** zastawcy, który dołącza do wniosku pisemne oświadczenie zastawnika o wygaśnięciu wierzytelności zabezpieczonej zastawem rejestrowym lub zrzeczeniu się tego zabezpieczenia albo prawomocny wyrok sądu ustalający wygaśnięcie zastawu rejestrowego;
-- **3)** osoby, która nabyła przedmiot zastawu rejestrowego i która dołączyła do wniosku:
-    - **a)** oświadczenie zastawnika o wyrażeniu zgody na wykreślenie zastawu rejestrowego z rejestru zastawów albo
-    - **b)** zaświadczenie komornika lub innego organu egzekucyjnego o nabyciu przedmiotu zastawu rejestrowego w postępowaniu egzekucyjnym, albo
-    - **c)** zaświadczenie sędziego komisarza o nabyciu przedmiotu zastawu rejestrowego w postępowaniu upadłościowym, albo
-    - **d)** prawomocne orzeczenie stwierdzające nieistnienie zastawu rejestrowego lub wskazała jego oznaczenie, gdy nie była stroną w sprawie.
+- **3)** osoby, która nabyła przedmiot zastawu rejestrowego i która dołączyła do wniosku: oświadczenie zastawnika o wyrażeniu zgody na wykreślenie zastawu rejestrowego z rejestru zastawów albo zaświadczenie komornika lub innego organu egzekucyjnego o nabyciu przedmiotu zastawu rejestrowego w postępowaniu egzekucyjnym, albo zaświadczenie sędziego komisarza o nabyciu przedmiotu zastawu rejestrowego w postępowaniu upadłościowym, albo prawomocne orzeczenie stwierdzające nieistnienie zastawu rejestrowego lub wskazała jego oznaczenie, gdy nie była stroną w sprawie.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 #### Rozdział 6 Zaspokojenie zastawnika
 
 **Art. 20.** Wierzytelność zabezpieczona zastawem rejestrowym podlega zaspokojeniu z przedmiotu tego zastawu z pierwszeństwem przed innymi wierzytelnościami, chyba że przepis szczególny stanowi inaczej.
 
-**Art. 21.** Zaspokojenie zastawnika z przedmiotu zastawu rejestrowego następuje w drodze sądowego postępowania egzekucyjnego, o ile przepisy niniejszej ustawy nie stanowią inaczej.
-
-**Art. 21a.** Od chwili zajęcia przedmiotu zastawu rejestrowego przez komornika lub inny organ egzekucyjny zastawnik nie może podejmować czynności mających na celu zaspokojenie na podstawie przepisów art. 22–27.
+**Art. 21.** Zaspokojenie zastawnika z przedmiotu zastawu rejestrowego następuje w drodze sądowego postępowania egzekucyjnego, o ile przepisy niniejszej ustawy nie stanowią inaczej. Od chwili zajęcia przedmiotu zastawu rejestrowego przez komornika lub inny organ egzekucyjny zastawnik nie może podejmować czynności mających na celu zaspokojenie na podstawie przepisów art. 22–27.
 
 **Art. 22.**
 
@@ -322,7 +335,7 @@ Art. 45–49. (pominięte)
 
 2. Przez wpis rozumie się także wykreślenie wpisu.
 
-3. Rozpoznając wniosek o wpis, sąd bada jedynie treść i formę wniosku oraz dokumentów stanowiących podstawę wpisu w zakresie danych podlegających wpisowi. Sąd oddala wniosek o wpis, jeżeli treść dokumentów stanowiących jego podstawę oczywiście narusza prawo. <4. Do danych obejmujących miejsce zamieszkania (siedzibę) i adres nie stosuje się przepisów art. 48a ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2024 r. poz. 1799 oraz z 2025 r. poz. 1792).>
+3. Rozpoznając wniosek o wpis, sąd bada jedynie treść i formę wniosku oraz dokumentów stanowiących podstawę wpisu w zakresie danych podlegających wpisowi. Sąd oddala wniosek o wpis, jeżeli treść dokumentów stanowiących jego podstawę oczywiście narusza prawo.
 
 **Art. 41.**
 
@@ -340,9 +353,7 @@ Art. 45–49. (pominięte)
 
 5. Od postanowienia w przedmiocie wpisu do rejestru zastawów przysługuje apelacja.
 
-6. Od postanowień innych niż określone w ust. 5 przysługuje zażalenie.
-
-**Art. 41a.** W razie dokonania wpisu zastawu rejestrowego na cywilnym statku powietrznym lub prawach własności przemysłowej, sąd niezwłocznie przesyła do organu prowadzącego rejestr cywilnych statków powietrznych lub organu prowadzącego rejestr danego prawa własności przemysłowej odpis postanowienia o wpisie zastawu rejestrowego wraz z nadanym numerem pozycji rejestru zastawów, celem ujawnienia tego zastawu we właściwym rejestrze.
+6. Od postanowień innych niż określone w ust. 5 przysługuje zażalenie. W razie dokonania wpisu zastawu rejestrowego na cywilnym statku powietrznym lub prawach własności przemysłowej, sąd niezwłocznie przesyła do organu prowadzącego rejestr cywilnych statków powietrznych lub organu prowadzącego rejestr danego prawa własności przemysłowej odpis postanowienia o wpisie zastawu rejestrowego wraz z nadanym numerem pozycji rejestru zastawów, celem ujawnienia tego zastawu we właściwym rejestrze.
 
 **Art. 42.**
 
@@ -368,7 +379,10 @@ Art. 45–49. (pominięte)
 
 **Art. 43.** Minister Sprawiedliwości określa:
 
-**Art. 43a.** Minister Sprawiedliwości określi, w drodze rozporządzenia, warunki organizacyjno-techniczne dotyczące formy wniosków i dokumentów oraz ich składania do sądów prowadzących rejestr zastawów i do centralnej informacji o zastawach rejestrowych za pośrednictwem systemu teleinformatycznego, a także orzeczeń, odpisów, zaświadczeń i informacji doręczanych wnioskodawcom przez sądy oraz centralną informację za pośrednictwem systemu teleinformatycznego, kierując się potrzebą ułatwienia i upowszechnienia dostępu do rejestru zastawów.
+- **1)** w drodze rozporządzenia, szczegółową organizację i sposób prowadzenia rejestru zastawów;
+- **2)** w drodze rozporządzenia, ustrój i organizację centralnej informacji o zastawach rejestrowych oraz szczegółowe zasady udzielania informacji oraz wydawania odpisów i zaświadczeń;
+- **3)** w porozumieniu z Ministrem Finansów , w drodze rozporządzenia, wysokość opłat za udzielanie informacji oraz wydawanie odpisów i zaświadczeń przez centralną informację o zastawach rejestrowych;
+- **4)** w drodze zarządzenia, sposób i tryb przekazywania przez sądy danych do centralnej informacji o zastawach rejestrowych. Minister Sprawiedliwości określi, w drodze rozporządzenia, warunki organizacyjno-techniczne dotyczące formy wniosków i dokumentów oraz ich składania do sądów prowadzących rejestr zastawów i do centralnej informacji o zastawach rejestrowych za pośrednictwem systemu teleinformatycznego, a także orzeczeń, odpisów, zaświadczeń i informacji doręczanych wnioskodawcom przez sądy oraz centralną informację za pośrednictwem systemu teleinformatycznego, kierując się potrzebą ułatwienia i upowszechnienia dostępu do rejestru zastawów.
 
 **Art. 44.** Do postępowania rejestrowego stosuje się przepisy Kodeksu postępowania cywilnego o postępowaniu nieprocesowym, z uwzględnieniem przepisów niniejszej ustawy.
 
@@ -388,5 +402,5 @@ Art. 45–49. (pominięte)
 
 2. Do nadania klauzuli wykonalności bankowym tytułom egzekucyjnym oraz prowadzenia egzekucji według Kodeksu postępowania cywilnego na podstawie tych tytułów nie jest wymagane oświadczenie dłużnika o poddaniu się egzekucji, jeżeli czynność bankowa, z której wynika wierzytelność banku, została dokonana przed dniem wejścia w życie niniejszej ustawy.
 
-**Art. 52.** Ustawa wchodzi w życie z dniem 1 stycznia 1998 r., z wyjątkiem przepisów art. 42 ust. 1 i 2 oraz art. 43, które wchodzą w życie z dniem ogłoszenia .
+**Art. 52.** Ustawa wchodzi w życie z dniem 1 stycznia 1998 r., z wyjątkiem przepisów art. 42 ust. 1 i 2 oraz art. 43, które wchodzą w życie z dniem ogłoszenia.
 

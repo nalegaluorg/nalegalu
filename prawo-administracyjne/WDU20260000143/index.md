@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy Prawo o postępowaniu przed sądami administracyjnymi
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 stycznia 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 lutego 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-02-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000143) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/143/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 stycznia 2026 r.
+sprawie ogłoszenia jednolitego tekstu ustawy Prawo o postępowaniu przed sądami administracyjnymi
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r.
 poz. 935), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 6 listopada 2024 r. o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych (Dz. U. poz. 1685),
@@ -40,7 +40,22 @@ poz. 1427),
 
 **Art. 31.** „2. Do wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy postępowań, o których mowa w:
 
+- **1)** ustawie zmienianej art. 3 stosuje się przepisy tej ustawy brzmieniu dotychczasowym;
+- **2)** ustawie zmienianej art. 8 stosuje się przepisy tej ustawy brzmieniu dotychczasowym;
+- **3)** ustawie zmienianej art. 9 stosuje się przepisy tej ustawy brzmieniu dotychczasowym;
+- **4)** ustawie zmienianej art. 12 stosuje się przepisy tej ustawy brzmieniu dotychczasowym;
+- **5)** ustawie zmienianej art. 13 stosuje się przepisy tej ustawy brzmieniu dotychczasowym;
+- **6)** ustawie zmienianej art. 14 stosuje się przepisy tej ustawy brzmieniu dotychczasowym;
+- **8)** ustawie zmienianej art. 17 stosuje się przepisy tej ustawy brzmieniu dotychczasowym;
+- **9)** ustawie zmienianej art. 20 stosuje się przepisy tej ustawy brzmieniu dotychczasowym;
+- **10)** ustawie zmienianej art. 30 stosuje się przepisy tej ustawy brzmieniu dotychczasowym.” „Art. 39. Do postępowań sądowoadministracyjnych wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje się art. 239 1 pkt 2 ustawy zmienianej art. 15, brzmieniu nadanym niniejszą ustawą.” „Art. 48. Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
+- **1)** art. 6, art. 11, art. 18, art. 22, art. 24 pkt 4, 7 i 9, art. 38 oraz art. 40 ust. 1 i 2, które wchodzą życie z dniem 1 stycznia 2026 r.;
+- **2)** art. 28 oraz art. 44, które wchodzą życie po upływie 9 miesięcy od dnia ogłoszenia.”;
+- **3)** art. 2 i art. 3 ustawy z dnia 12 września 2025 r. o zmianie ustawy Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. poz. 1427), które stanowią: „Art. 2. Do postępowań prowadzonych na podstawie ustawy zmienianej art. 1, wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe, z tym że do zażaleń uwzględnionych od dnia wejścia życie niniejszej ustawy stosuje się przepis art. 232 1 pkt 2 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
+
 **Art. 3.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.”;
+
+- **4)** art. 32 ustawy z dnia 4 grudnia 2025 r. o zmianie ustawy o doradztwie podatkowym oraz ustawy Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. poz. 1882), który stanowi: „Art. 32. Ustawa wchodzi życie z dniem 1 marca 2026 r., z wyjątkiem art. 1 pkt 12 lit. a i b, pkt 13 lit. i, pkt 14, pkt 15 lit. a zakresie art. 23 ust. 1 pkt 1 lit. b, pkt 16 lit. a, c, d i e, pkt 17, 18, 20 i 25, art. 21, art. 26 oraz art. 28, które wchodzą życie z dniem 1 lipca 2026 r.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi
 
 ### DZIAŁ I Przepisy wstępne
 
@@ -75,6 +90,15 @@ poz. 1427),
 
 **Art. 5.** Sądy administracyjne nie są właściwe sprawach:
 
+- **1)** wynikających z nadrzędności i podległości organizacyjnej stosunkach między organami administracji publicznej;
+- **2)** wynikających z podległości służbowej między przełożonymi i podwładnymi;
+- **3)** odmowy mianowania na stanowiska lub powołania do pełnienia funkcji organach administracji publicznej, chyba że obowiązek mianowania lub powołania wynika z przepisów prawa;
+- **4)** wiz wydawanych przez ministra właściwego do spraw zagranicznych lub konsulów, z wyjątkiem wiz:
+    - **a)** o których mowa art. 2 pkt 2–5 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 810/2009 z dnia 13 lipca 2009 r. ustanawiającego Wspólnotowy Kodeks Wizowy (kodeks wizowy) (Dz. Urz. UE L 243 z 15.09.2009, str. 1, z późn. zm. ),
+    - **b)** wydawanych cudzoziemcowi będącemu członkiem rodziny obywatela państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2025 r. poz. 1164 i 1794);
+
+- **5)** zezwoleń na przekraczanie granicy ramach małego ruchu granicznego wydawanych przez konsulów.
+
 **Art. 6.** Sąd administracyjny razie uzasadnionej potrzeby udziela stronom występującym sprawie bez adwokata, radcy prawnego, doradcy podatkowego lub rzecznika patentowego niezbędnych pouczeń co do czynności procesowych i skutków ich zaniedbań.
 
 **Art. 7.** Sąd administracyjny powinien podejmować czynności zmierzające do szybkiego załatwienia sprawy i dążyć do jej rozstrzygnięcia na pierwszym posiedzeniu.
@@ -83,7 +107,7 @@ poz. 1427),
 
 1. Prokurator oraz Rzecznik Praw Obywatelskich mogą wziąć udział każdym toczącym się postępowaniu, a także wnieść skargę, skargę kasacyjną, zażalenie oraz skargę o wznowienie postępowania, jeżeli według ich oceny wymagają tego ochrona praworządności lub praw człowieka i obywatela. W takim przypadku przysługują im prawa strony.
 
-2. Rzecznik Praw Dziecka może wziąć udział każdym toczącym się postępowaniu, a także wnieść skargę, skargę kasacyjną, zażalenie oraz skargę o wznowienie postępowania, jeżeli według jego oceny wymaga tego ochrona praw dziecka. W takim przypadku przysługują mu prawa strony. ochrona praw mikroprzedsiębiorcy, małego lub średniego przedsiębiorcy rozumieniu ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826). W takim przypadku przysługują mu prawa strony.
+2. Rzecznik Praw Dziecka może wziąć udział każdym toczącym się postępowaniu, a także wnieść skargę, skargę kasacyjną, zażalenie oraz skargę o wznowienie postępowania, jeżeli według jego oceny wymaga tego ochrona praw dziecka. W takim przypadku przysługują mu prawa strony. wnieść skargę, skargę kasacyjną, zażalenie oraz skargę o wznowienie postępowania, jeżeli według jego oceny wymaga tego ochrona praw mikroprzedsiębiorcy, małego lub średniego przedsiębiorcy rozumieniu ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826). W takim przypadku przysługują mu prawa strony.
 
 **Art. 9.** Organizacja społeczna, zakresie swojej działalności statutowej, może brać udział postępowaniu przypadkach określonych niniejszej ustawie.
 
@@ -128,7 +152,7 @@ poz. 1427),
 3. Sąd administracyjny celu doręczania pism postępowaniu przekształca postać otrzymanych od stron pism:
 
 - **1)** przypadku otrzymanego pisma formie dokumentu elektronicznego, przez sporządzenie uwierzytelnionego wydruku, z zachowaniem wymogów określonych przepisach wydanych na podstawie art. 16 ust. 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, jeżeli strona nie stosuje środków komunikacji elektronicznej do odbioru pism;
-- **2)** przypadku otrzymania pisma postaci papierowej, poprzez sporządzenie uwierzytelnionej kopii formie dokumentu elektronicznego, jeżeli strona stosuje środki komunikacji elektronicznej do odbioru pism.
+- **2)** przypadku otrzymania pisma postaci papierowej, poprzez sporządzenie uwierzytelnionej kopii formie dokumentu elektronicznego, jeżeli strona stosuje środki komunikacji elektronicznej do odbioru pism. których lub za pośrednictwem których składane są pisma formie dokumentu elektronicznego.
 
 5. Sąd, doręczając stronie pierwsze pismo sprawie formie innej niż forma dokumentu elektronicznego, informuje stronę o warunkach wnoszenia oraz doręczania pism przez sąd za pomocą środków komunikacji elektronicznej.
 
@@ -275,7 +299,7 @@ poz. 1427),
 
 - **1)** organy administracji rządowej,
 - **2)** państwowe jednostki organizacyjne nieposiadające osobowości prawnej,
-- **3)** Skarb Państwa czynności postępowaniu podejmuje Prokuratoria Generalna Rzeczypospolitej Polskiej. interesów Rzeczypospolitej Polskiej.
+- **3)** Skarb Państwa czynności postępowaniu podejmuje Prokuratoria Generalna Rzeczypospolitej Polskiej. Rzeczypospolitej Polskiej, jeżeli z uwagi na przedmiot postępowania może zachodzić potrzeba ochrony ważnych praw lub interesów Rzeczypospolitej Polskiej.
 
 4. Za konsula czynności postępowaniu podejmuje minister właściwy do spraw zagranicznych.
 
@@ -333,6 +357,10 @@ poz. 1427),
 
 **Art. 36.** Pełnomocnictwo może być:
 
+- **1)** ogólne do prowadzenia spraw przed sądami administracyjnymi;
+- **2)** do prowadzenia poszczególnych spraw;
+- **3)** do niektórych tylko czynności postępowaniu.
+
 **Art. 37.**
 
 1. Pełnomocnik obowiązany jest przy pierwszej czynności procesowej dołączyć do akt sprawy pełnomocnictwo z podpisem mocodawcy lub wierzytelny odpis pełnomocnictwa. Adwokat, radca prawny, rzecznik patentowy, a także doradca podatkowy mogą sami uwierzytelnić odpis udzielonego im pełnomocnictwa oraz odpisy innych dokumentów wykazujących ich umocowanie. Sąd może razie wątpliwości zażądać urzędowego poświadczenia podpisu strony. Złożenie dokumentu wykazującego umocowanie lub jego uwierzytelnionego odpisu nie jest wymagane, jeżeli stwierdzenie przez sąd umocowania jest możliwe na podstawie wykazu lub innego rejestru, do którego sąd ma dostęp drogą elektroniczną.
@@ -343,7 +371,7 @@ poz. 1427),
 
 2. W toku sprawy pełnomocnictwo może być udzielone ustnie na posiedzeniu sądu przez oświadczenie złożone przez stronę i wciągnięte do protokołu.
 
-3. (uchylony)
+3. (uchylony) elektronicznym, podpisem zaufanym albo podpisem osobistym.
 
 **Art. 37a.**
 
@@ -352,6 +380,11 @@ poz. 1427),
 **Art. 38.** Za stronę, która nie może się podpisać, podpisuje pełnomocnictwo osoba przez nią upoważniona, z wymienieniem przyczyny, dla której strona sama się nie podpisała.
 
 **Art. 39.** Pełnomocnictwo ogólne lub do prowadzenia poszczególnych spraw obejmuje z samego prawa umocowanie do:
+
+- **1)** wszystkich łączących się ze sprawą czynności postępowaniu, nie wyłączając skargi o wznowienie postępowania i postępowania wywołanego jej wniesieniem;
+- **2)** udzielenia dalszego pełnomocnictwa na zasadach określonych odrębnych przepisach;
+- **3)** cofnięcia skargi całości lub części, jeżeli czynności te nie zostały wyłączone danym pełnomocnictwie;
+- **4)** odbioru kosztów postępowania.
 
 **Art. 40.** Zakres, czas trwania i skutki umocowania szerszego niż pełnomocnictwo, o którym mowa art. 36, ocenia się według treści pełnomocnictwa oraz przepisów prawa cywilnego.
 
@@ -418,7 +451,7 @@ poz. 1427),
 
 1. Do pisma strony należy dołączyć jego odpisy i odpisy załączników dla doręczenia ich stronom, a ponadto, jeżeli sądzie nie złożono załączników oryginale, po jednym odpisie każdego załącznika do akt sądowych.
 
-2. Odpisami rozumieniu 1 mogą być także uwierzytelnione fotokopie bądź uwierzytelnione wydruki poczty elektronicznej. dokumentów stronom, które nie stosują środków komunikacji elektronicznej do odbioru pism, sąd sporządza kopie dokumentów elektronicznych postaci uwierzytelnionych wydruków, z zachowaniem wymogów określonych przepisach wydanych na podstawie art. 16 ust. 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+2. Odpisami rozumieniu 1 mogą być także uwierzytelnione fotokopie bądź uwierzytelnione wydruki poczty elektronicznej. W przypadku pism i załączników wnoszonych postaci elektronicznej odpisów nie dołącza się. W celu doręczania dokumentów stronom, które nie stosują środków komunikacji elektronicznej do odbioru pism, sąd sporządza kopie dokumentów elektronicznych postaci uwierzytelnionych wydruków, z zachowaniem wymogów określonych przepisach wydanych na podstawie art. 16 ust. 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
 4. Sąd, doręczając odpisy pism i załączników formie innej niż forma dokumentu elektronicznego, informuje stronę o warunkach wnoszenia pism oraz ich doręczania przez sąd za pomocą środków komunikacji elektronicznej.
 
@@ -494,7 +527,7 @@ poz. 1427),
 
 **Art. 54.**
 
-1. Skargę do sądu administracyjnego wnosi się za pośrednictwem organu, którego działanie, bezczynność lub przewlekłe prowadzenie postępowania jest przedmiotem skargi. odpowiednio.
+1. Skargę do sądu administracyjnego wnosi się za pośrednictwem organu, którego działanie, bezczynność lub przewlekłe prowadzenie postępowania jest przedmiotem skargi. Skargę postaci elektronicznej wnosi się na adres do doręczeń elektronicznych tego organu. Przepis art. 49a stosuje się odpowiednio.
 
 2. Organ, o którym mowa 1, przekazuje skargę sądowi wraz z kompletnymi i uporządkowanymi aktami sprawy i odpowiedzią na skargę, postaci papierowej lub elektronicznej, terminie trzydziestu dni od dnia jej otrzymania. Skargę wniesioną za pośrednictwem konsula oraz skargę na decyzję wydaną przez ministra właściwego do spraw zagranicznych zakresie spraw uregulowanych ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach, minister właściwy do spraw zagranicznych przekazuje sądowi wraz z kompletnymi i uporządkowanymi aktami sprawy i odpowiedzią na skargę terminie sześćdziesięciu dni od dnia jej otrzymania odpowiednio przez ministra właściwego do spraw zagranicznych albo konsula.
 
@@ -590,6 +623,10 @@ poz. 1427),
 
 **Art. 62.** Przewodniczący wydziału lub wyznaczony sędzia:
 
+- **1)** zarządza skompletowanie akt niezbędnych do rozpoznania sprawy, a razie potrzeby także innych dowodów;
+- **2)** wskazuje skład sędziowski orzekający sprawie, wyznaczony sposób, o którym mowa art. 17;
+- **3)** wyznacza termin posiedzenia niejawnego lub rozprawy, którym sprawa ma być rozpoznana.
+
 #### Rozdział 3 Wniosek o wszczęcie postępowania
 
 **Art. 63.** Jeżeli ustawy tak stanowią, postępowanie sądowe wszczyna się na wniosek.
@@ -664,7 +701,7 @@ poz. 1427),
 - **1)** wpisany do bazy adresów elektronicznych, a przypadku pełnomocnika na adres do doręczeń elektronicznych wskazany piśmie, albo
 - **2)** powiązany z kwalifikowaną usługą rejestrowanego doręczenia elektronicznego, za pomocą której wniesiono pismo, jeżeli adres do doręczeń elektronicznych strony nie został wpisany do bazy adresów elektronicznych.
 
-2. Doręczenia, o którym mowa 1, można dokonać wobec strony będącej osobą fizyczną tylko wtedy, gdy wniosła ona pismo z adresu do doręczeń elektronicznych albo wskazała ten adres jako adres do doręczeń. Nie dotyczy to doręczeń dla przedsiębiorców wpisanych do Centralnej Ewidencji i Informacji o Działalności Gospodarczej. skich, Rzecznikowi Praw Dziecka i Rzecznikowi Małych i Średnich Przedsiębiorców następuje na adres do doręczeń elektronicznych danego podmiotu wpisany do bazy adresów elektronicznych.
+2. Doręczenia, o którym mowa 1, można dokonać wobec strony będącej osobą fizyczną tylko wtedy, gdy wniosła ona pismo z adresu do doręczeń elektronicznych albo wskazała ten adres jako adres do doręczeń. Nie dotyczy to doręczeń dla przedsiębiorców wpisanych do Centralnej Ewidencji i Informacji o Działalności Gospodarczej. wania zaskarżono, a także uczestniczącym postępowaniu przed sądem prokuratorowi, Rzecznikowi Praw Obywatelskich, Rzecznikowi Praw Dziecka i Rzecznikowi Małych i Średnich Przedsiębiorców następuje na adres do doręczeń elektronicznych danego podmiotu wpisany do bazy adresów elektronicznych.
 
 4. W przypadku doręczenia sposób, o którym mowa 1, doręczenie jest skuteczne dniu wystawienia dowodu otrzymania, o którym mowa art. 41 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.
 
@@ -799,7 +836,7 @@ poz. 1427),
 
 2. Uprawnionemu przez kilku uczestników postępowania do odbioru pism postępowaniu sądowym doręcza się po jednym egzemplarzu dla każdego uczestnika.
 
-3. Jeżeli jest kilku pełnomocników jednej strony, sąd doręcza pismo tylko jednemu z nich.
+3. Jeżeli jest kilku pełnomocników jednej strony, sąd doręcza pismo tylko jednemu z nich. chce uczynić, doręczający sam oznacza datę doręczenia oraz przyczyny braku podpisu.
 
 1a. Potwierdzenie odbioru pisma formie dokumentu elektronicznego następuje sposób określony art. 74a 5 lub 10.
 
@@ -893,6 +930,14 @@ poz. 1427),
 
 **Art. 93.** W zawiadomieniu o posiedzeniu oznacza się:
 
+- **1)** imię, nazwisko albo nazwę i siedzibę zawiadamianego oraz adres zawiadamianego;
+- **2)** sąd oraz miejsce i czas posiedzenia;
+- **3)** skarżącego oraz przedmiot sprawy;
+- **4)** cel posiedzenia;
+- **5)** skutki niestawiennictwa. waniem wymagań dotyczących bezpieczeństwa, gdy czynności sądowe muszą być wykonane innym miejscu albo gdy odbycie posiedzenia poza budynkiem sądowym ułatwia przeprowadzenie sprawy lub przyczynia się znacznie do zaoszczędzenia kosztów.
+
+2. Przewodniczący może zarządzić przeprowadzenie posiedzenia jawnego przy użyciu urządzeń technicznych umożliwiających jego przeprowadzenie na odległość. W takim przypadku uczestnicy mogą brać udział posiedzeniu sądowym, gdy przebywają budynku innego sądu albo zakładzie karnym lub areszcie śledczym, gdy są pozbawieni wolności, i tam dokonywać czynności procesowych, a przebieg czynności procesowych transmituje się z sali sądowej sądu prowadzącego postępowanie do miejsca pobytu uczestników postępowania oraz z miejsca pobytu uczestników postępowania do sali sądowej sądu prowadzącego postępowanie. W miejscu przebywania osoby pozbawionej wolności czynnościach procesowych bierze udział przedstawiciel administracji zakładu karnego lub aresztu śledczego oraz może wziąć udział pełnomocnik, jeżeli został ustanowiony, i tłumacz, jeżeli osoba pozbawiona wolności nie włada dostatecznie językiem polskim.
+
 **Art. 95.**
 
 1. Na posiedzenia jawne wstęp na salę sądową mają poza stronami i osobami wezwanymi tylko osoby pełnoletnie. Przewodniczący może zezwolić na obecność na posiedzeniu małoletnim.
@@ -939,7 +984,7 @@ poz. 1427),
 
 **Art. 102.** Przebieg czynności protokołowanych może być ponadto utrwalony za pomocą aparatury dźwiękowej, o czym należy przed uruchomieniem aparatury uprzedzić wszystkie osoby uczestniczące czynności.
 
-**Art. 103.** Strony mogą żądać sprostowania lub uzupełnienia protokołu na następnym posiedzeniu, niepóźniej jednak niż terminie trzydziestu dni od dnia posiedzenia, z którego sporządzono protokół. Od zarządzenia przewodniczącego strony mogą odwołać się do sądu terminie siedmiu dni od doręczenia im zarządzenia. zamieścić załączniku do protokołu. Gdy stronę zastępuje adwokat, radca prawny, doradca podatkowy lub rzecznik patentowy, przewodniczący może zażądać złożenia takiego załącznika wyznaczonym terminie.
+**Art. 103.** Strony mogą żądać sprostowania lub uzupełnienia protokołu na następnym posiedzeniu, niepóźniej jednak niż terminie trzydziestu dni od dnia posiedzenia, z którego sporządzono protokół. Od zarządzenia przewodniczącego zamieścić załączniku do protokołu. Gdy stronę zastępuje adwokat, radca prawny, doradca podatkowy lub rzecznik patentowy, przewodniczący może zażądać złożenia takiego załącznika wyznaczonym terminie.
 
 **Art. 105.** Strony mogą toku posiedzenia, a jeżeli nie były obecne, na najbliższym posiedzeniu, zwrócić uwagę sądu na uchybienia przepisom postępowania, wnosząc o wpisanie zastrzeżenia do protokołu. Stronie, która zastrzeżenia nie zgłosiła, nie przysługuje prawo powoływania się na takie uchybienia dalszym toku postępowania, chyba że chodzi o przepisy postępowania, których naruszenie sąd powinien wziąć pod rozwagę z urzędu, albo gdy strona uprawdopodobni, iż nie zgłosiła zastrzeżeń bez swojej winy.
 
@@ -1031,11 +1076,17 @@ poz. 1427),
 
 1. Na podstawie ustaleń dokonanych postępowaniu mediacyjnym, organ uchyla lub zmienia zaskarżony akt albo wykonuje lub podejmuje inną czynność stosownie do okoliczności sprawy zakresie swojej właściwości i kompetencji.
 
-2. Jeżeli strony nie dokonają ustaleń co do sposobu załatwienia sprawy, podlega ona rozpoznaniu przez sąd. Skargę sąd rozpoznaje łącznie ze skargą wniesioną sprawie na akt lub czynność, której przeprowadzono postępowanie mediacyjne.
+2. Jeżeli strony nie dokonają ustaleń co do sposobu załatwienia sprawy, podlega ona rozpoznaniu przez sąd. wódzkiego sądu administracyjnego terminie trzydziestu dni od dnia doręczenia aktu albo wykonania lub podjęcia czynności. Skargę sąd rozpoznaje łącznie ze skargą wniesioną sprawie na akt lub czynność, której przeprowadzono postępowanie mediacyjne.
 
 2. Jeżeli skarga na akt lub czynność wydane lub podjęte na podstawie ustaleń, o których mowa art. 117 1, nie zostanie wniesiona albo skarga ta zostanie oddalona, sąd umarza postępowanie sprawie, której przeprowadzono postępowanie mediacyjne.
 
 **Art. 119.** Sprawa może być rozpoznana trybie uproszczonym, jeżeli:
+
+- **1)** decyzja lub postanowienie są dotknięte wadą nieważności, o której mowa art. 156 1 Kodeksu postępowania administracyjnego lub innych przepisach albo wydane zostały z naruszeniem prawa dającym podstawę do wznowienia postępowania;
+- **2)** strona zgłosi wniosek o skierowanie sprawy do rozpoznania trybie uproszczonym, a żadna z pozostałych stron terminie czternastu dni od zawiadomienia o złożeniu wniosku nie zażąda przeprowadzenia rozprawy;
+- **3)** przedmiotem skargi jest postanowienie wydane postępowaniu administracyjnym, na które służy zażalenie albo kończące postępowanie, a także postanowienie rozstrzygające sprawę co do istoty oraz postanowienia wydane postępowaniu egzekucyjnym i zabezpieczającym, na które służy zażalenie;
+- **4)** przedmiotem skargi jest bezczynność lub przewlekłe prowadzenie postępowania;
+- **5)** decyzja została wydana postępowaniu uproszczonym, o którym mowa dziale II rozdziale 14 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
 
 **Art. 120.** W trybie uproszczonym sąd rozpoznaje sprawy na posiedzeniu niejawnym składzie trzech sędziów.
 
@@ -1246,7 +1297,7 @@ poz. 1427),
 
 1. Sąd, uwzględniając sprzeciw od decyzji, uchyla decyzję całości, jeżeli stwierdzi naruszenie art. 138 2 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego. Sąd może ponadto orzec z urzędu albo na wniosek strony o wymierzeniu organowi grzywny wysokości określonej art. 154 6.
 
-2. W przypadku nieuwzględnienia sprzeciwu od decyzji sąd oddala sprzeciw.
+2. W przypadku nieuwzględnienia sprzeciwu od decyzji sąd oddala sprzeciw. wienie przedmiocie grzywny przysługuje zażalenie.
 
 4. Przepisy 1–3 stosuje się odpowiednio przypadku wniesienia sprzeciwu od postanowienia.
 
@@ -1380,6 +1431,9 @@ poz. 1427),
 
 **Art. 174.** Skargę kasacyjną można oprzeć na następujących podstawach:
 
+- **1)** naruszeniu prawa materialnego przez błędną jego wykładnię lub niewłaściwe zastosowanie;
+- **2)** naruszeniu przepisów postępowania, jeżeli uchybienie to mogło mieć istotny wpływ na wynik sprawy.
+
 **Art. 175.**
 
 1. Skarga kasacyjna powinna być sporządzona przez adwokata lub radcę prawnego, z zastrzeżeniem 2–3.
@@ -1423,7 +1477,7 @@ poz. 1427),
 
 **Art. 178a.** Wojewódzki sąd administracyjny umorzy na posiedzeniu niejawnym postępowanie kasacyjne, jeżeli strona skutecznie cofnęła skargę kasacyjną przed jej przedstawieniem wraz z aktami sprawy Naczelnemu Sądowi Administracyjnemu. Na postanowienie przysługuje zażalenie.
 
-**Art. 179.** Strona, która nie wniosła skargi kasacyjnej, może wnieść do wojewódzkiego sądu administracyjnego odpowiedź na skargę kasacyjną terminie czternastu dni od doręczenia jej skargi kasacyjnej. Po upływie terminu na wniesienie odpowiedzi lub po zarządzeniu doręczenia odpowiedzi wnoszącemu skargę kasacyjną, wojewódzki sąd administracyjny niezwłocznie przedstawi skargę kasacyjną wraz z odpowiedzią i aktami sprawy Naczelnemu Sądowi Administracyjnemu. usprawiedliwione, uchyla zaskarżony wyrok lub postanowienie rozstrzygając na wniosek strony także o zwrocie kosztów postępowania kasacyjnego i na tym samym posiedzeniu ponownie rozpoznaje sprawę. Od wydanego orzeczenia przysługuje skarga kasacyjna.
+**Art. 179.** Strona, która nie wniosła skargi kasacyjnej, może wnieść do wojewódzkiego sądu administracyjnego odpowiedź na skargę kasacyjną terminie czternastu dni od doręczenia jej skargi kasacyjnej. Po upływie terminu na wniesienie odpowiedzi lub po zarządzeniu doręczenia odpowiedzi wnoszącemu skargę kasacyjną, wojewódzki sąd administracyjny niezwłocznie przedstawi skargę kasacyjną wraz z odpowiedzią i aktami sprawy Naczelnemu Sądowi Administracyjnemu. administracyjny stwierdzi, że sprawie zachodzi nieważność postępowania albo podstawy skargi kasacyjnej są oczywiście usprawiedliwione, uchyla zaskarżony wyrok lub postanowienie rozstrzygając na wniosek strony także o zwrocie kosztów postępowania kasacyjnego i na tym samym posiedzeniu ponownie rozpoznaje sprawę. Od wydanego orzeczenia przysługuje skarga kasacyjna.
 
 **Art. 180.** Naczelny Sąd Administracyjny na posiedzeniu niejawnym odrzuci skargę kasacyjną, jeżeli ulegała ona odrzuceniu przez wojewódzki sąd administracyjny, albo zwróci ją temu sądowi celu usunięcia dostrzeżonych braków.
 
@@ -1474,7 +1528,7 @@ poz. 1427),
 
 1. Jeżeli przy rozpoznawaniu skargi kasacyjnej wyłoni się zagadnienie prawne budzące poważne wątpliwości, Naczelny Sąd Administracyjny może odroczyć rozpoznanie sprawy i przedstawić to zagadnienie do rozstrzygnięcia składowi siedmiu sędziów tego Sądu.
 
-2. Uchwała składu siedmiu sędziów Naczelnego Sądu Administracyjnego jest danej sprawie wiążąca.
+3. Naczelny Sąd Administracyjny składzie siedmiu sędziów może przejąć sprawę do rozpoznania.
 
 **Art. 188.** Naczelny Sąd Administracyjny razie uwzględnienia skargi kasacyjnej, uchylając zaskarżone orzeczenie, rozpoznaje skargę, jeżeli uzna, że istota sprawy jest dostatecznie wyjaśniona.
 
@@ -1516,7 +1570,7 @@ poz. 1427),
 
 **Art. 195.**
 
-1. Akta sprawy wraz z zażaleniem wojewódzki sąd administracyjny przedstawia Naczelnemu Sądowi Administracyjnemu po doręczeniu zażalenia pozostałym stronom. Odpowiedź na zażalenie może być wniesiona wprost do Naczelnego Sądu Administracyjnego terminie siedmiu dni od doręczenia zażalenia. Administracyjnemu, uchylić zaskarżone postanowienie i miarę potrzeby sprawę rozpoznać na nowo. Od ponownie wydanego postanowienia przysługują środki odwoławcze na zasadach ogólnych.
+1. Akta sprawy wraz z zażaleniem wojewódzki sąd administracyjny przedstawia Naczelnemu Sądowi Administracyjnemu po doręczeniu zażalenia pozostałym stronom. Odpowiedź na zażalenie może być wniesiona wprost do Naczelnego Sądu Administracyjnego terminie siedmiu dni od doręczenia zażalenia. cyjny, który wydał zaskarżone postanowienie, może na posiedzeniu niejawnym, nie przesyłając akt Naczelnemu Sądowi Administracyjnemu, uchylić zaskarżone postanowienie i miarę potrzeby sprawę rozpoznać na nowo. Od ponownie wydanego postanowienia przysługują środki odwoławcze na zasadach ogólnych.
 
 3. Jeżeli postępowanie zażaleniowe stało się bezprzedmiotowe przed przedstawieniem zażalenia wraz z aktami sprawy Naczelnemu Sądowi Administracyjnemu, wojewódzki sąd administracyjny na posiedzeniu niejawnym umarza to postępowanie. Na postanowienie przysługuje zażalenie.
 
@@ -1552,13 +1606,19 @@ poz. 1427),
 
 **Art. 203.** Stronie, która wniosła skargę kasacyjną, należy się zwrot poniesionych przez nią niezbędnych kosztów postępowania kasacyjnego:
 
+- **1)** od organu jeżeli wyniku uwzględnienia skargi kasacyjnej został uchylony wyrok sądu pierwszej instancji oddalający skargę;
+- **2)** od skarżącego jeżeli wyniku uwzględnienia skargi kasacyjnej został uchylony wyrok sądu pierwszej instancji uwzględniający skargę.
+
 **Art. 204.** W razie oddalenia skargi kasacyjnej strona, która wniosła skargę kasacyjną, obowiązana jest zwrócić niezbędne koszty postępowania kasacyjnego poniesione przez:
+
+- **1)** organ jeżeli zaskarżono skargą kasacyjną wyrok sądu pierwszej instancji oddalający skargę;
+- **2)** skarżącego jeżeli zaskarżono skargą kasacyjną wyrok sądu pierwszej instancji uwzględniający skargę.
 
 **Art. 205.**
 
 1. Do niezbędnych kosztów postępowania prowadzonego przez stronę osobiście lub przez pełnomocnika, który nie jest adwokatem lub radcą prawnym, zalicza się poniesione przez stronę koszty sądowe, koszty przejazdów do sądu strony lub pełnomocnika oraz równowartość zarobku lub dochodu utraconego wskutek stawiennictwa sądzie.
 
-2. Do niezbędnych kosztów postępowania strony reprezentowanej przez adwokata lub radcę prawnego zalicza się ich wynagrodzenie, jednak niewyższe niż stawki opłat określone odrębnych przepisach i wydatki jednego adwokata lub radcy prawnego, koszty sądowe oraz koszty nakazanego przez sąd osobistego stawiennictwa strony. sprawach cywilnych (Dz. U. z 2025 r. poz. 1228).
+2. Do niezbędnych kosztów postępowania strony reprezentowanej przez adwokata lub radcę prawnego zalicza się ich wynagrodzenie, jednak niewyższe niż stawki opłat określone odrębnych przepisach i wydatki jednego adwokata lub radcy prawnego, koszty sądowe oraz koszty nakazanego przez sąd osobistego stawiennictwa strony. i wypłaca według zasad określonych przepisach działu 2 tytułu III ustawy z dnia 28 lipca 2005 r. o kosztach sądowych sprawach cywilnych (Dz. U. z 2025 r. poz. 1228).
 
 4. Przepisy 2 i 3 stosuje się odpowiednio do strony reprezentowanej przez doradcę podatkowego, rzecznika patentowego lub Prokuratorię Generalną Rzeczypospolitej Polskiej.
 
@@ -1593,6 +1653,9 @@ poz. 1427),
 2. Opłaty sądowe są dochodami budżetu państwa.
 
 **Art. 213.** Do wydatków zalicza się szczególności:
+
+- **1)** należności tłumaczy i kuratorów ustanowionych danej sprawie;
+- **2)** koszty ogłoszeń oraz diety i koszty podróży należne sędziom i pracownikom sądowym z powodu wykonania czynności sądowych poza budynkiem sądowym, określone odrębnych przepisach.
 
 **Art. 214.**
 
@@ -1741,7 +1804,7 @@ poz. 1427),
 
 2. Nie mają obowiązku uiszczania opłat sądowych organizacje pożytku publicznego, działające na podstawie przepisów o działalności pożytku publicznego i o wolontariacie, sprawach własnych, z wyjątkiem spraw dotyczących prowadzonej przez te organizacje działalności gospodarczej, a także organizacje pozarządowe oraz podmioty wymienione art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2025 r. poz. 1338) sprawach własnych dotyczących realizacji zleconego zadania publicznego na podstawie przepisów o działalności pożytku publicznego i o wolontariacie.
 
-**Art. 240.** Rada Ministrów może, drodze rozporządzenia, zwolnić organizacje społeczne od obowiązku uiszczania wpisu ich własnych sprawach, a także cofnąć to zwolnienie. Dotyczyć to powinno zwolnienia sprawach prowadzonych związku z działalnością naukową, oświatową, kulturalną, dobroczynną oraz pomocy i opieki społecznej. sądowych, jak i ponoszenia wydatków.
+**Art. 240.** Rada Ministrów może, drodze rozporządzenia, zwolnić organizacje społeczne od obowiązku uiszczania wpisu ich własnych sprawach, a także cofnąć to zwolnienie. Dotyczyć to powinno zwolnienia sprawach prowadzonych związku z działalnością naukową, oświatową, kulturalną, dobroczynną oraz pomocy i opieki społecznej. stracyjnego bez określenia zakresu tego zwolnienia oznacza całkowite zwolnienie z obowiązku wnoszenia zarówno opłat sądowych, jak i ponoszenia wydatków.
 
 **Art. 242.** Wydatki za stronę zwolnioną od kosztów sądowych wykładane są z części budżetu sądu administracyjnego, zakresie tego zwolnienia.
 
@@ -1789,7 +1852,7 @@ poz. 1427),
 
 **Art. 247.** Prawo pomocy nie przysługuje stronie razie oczywistej bezzasadności jej skargi.
 
-**Art. 248.** Przyznanie prawa pomocy nie zwalnia strony od obowiązku zwrotu kosztów postępowania, jeżeli obowiązek taki wynika z innych przepisów.
+**Art. 248.** Przyznanie prawa pomocy nie zwalnia strony od obowiązku zwrotu kosztów postępowania, jeżeli obowiązek taki wynika z innych przepisów. podstawie których je przyznano, nie istniały lub przestały istnieć.
 
 **Art. 249a.** Jeżeli strona cofnie wniosek lub rozpoznanie wniosku stało się zbędne, postępowanie sprawie przyznania prawa pomocy umarza się.
 
@@ -1828,6 +1891,8 @@ poz. 1427),
 **Art. 255.** Jeżeli oświadczenie strony zawarte we wniosku, o którym mowa art. 252, okaże się niewystarczające do oceny jej rzeczywistego stanu majątkowego i możliwości płatniczych oraz stanu rodzinnego lub budzi wątpliwości, strona jest obowiązana złożyć na wezwanie, zakreślonym terminie, dodatkowe oświadczenie lub przedłożyć dokumenty źródłowe dotyczące jej stanu majątkowego, dochodów lub stanu rodzinnego.
 
 **Art. 256.** Rada Ministrów określi, drodze rozporządzenia:
+
+- **1)** wzór i sposób udostępniania urzędowego formularza, o którym mowa art. 252 2, odpowiadającego wymaganiom przewidzianym dla pism strony, szczególnym wymaganiom postępowania o przyznaniu prawa pomocy, zawierającego niezbędne pouczenie co do sposobu jego wypełnienia i skutków niedostosowania się do określonych wymagań oraz klauzulę, o której mowa art. 252 1a; o majątku, dochodach i stanie rodzinnym; dokumentami tymi mogą być szczególności odpisy zeznań podatkowych, wyciągi lub wykazy z posiadanych rachunków bankowych, tym kont i lokat dewizowych, wypisy z rejestrów urzędowych, odpis aktualnych bilansów oraz zaświadczenia o wysokości wynagrodzeń, honorariów i innych należności i otrzymywanych świadczeń.
 
 **Art. 257.** Wniosek o przyznanie prawa pomocy, który nie został złożony na urzędowym formularzu lub którego braków strona nie uzupełniła zakreślonym terminie, pozostawia się bez rozpoznania.
 
@@ -1908,11 +1973,14 @@ poz. 1427),
 
 **Art. 271.** Można żądać wznowienia postępowania z powodu nieważności:
 
+- **1)** jeżeli składzie sądu uczestniczyła osoba nieuprawniona albo jeżeli orzekał sędzia wyłączony z mocy ustawy, a strona przed uprawomocnieniem się orzeczenia nie mogła domagać się wyłączenia;
+- **2)** jeżeli strona nie miała zdolności sądowej lub procesowej albo nie była należycie reprezentowana lub jeżeli wskutek naruszenia przepisów prawa była pozbawiona możności działania; nie można jednak żądać wznowienia, jeżeli przed uprawomocnieniem się orzeczenia niemożność działania ustała lub brak reprezentacji był podniesiony drodze zarzutu albo strona potwierdziła dokonane czynności procesowe.
+
 **Art. 272.**
 
 1. Można żądać wznowienia postępowania również przypadku, gdy Trybunał Konstytucyjny orzekł o niezgodności aktu normatywnego z Konstytucją, umową międzynarodową lub z ustawą, na podstawie którego zostało wydane orzeczenie.
 
-2. W sytuacji określonej 1 skargę o wznowienie postępowania wnosi się terminie trzech miesięcy od dnia wejścia życie orzeczenia Trybunału Konstytucyjnego. Jeżeli chwili wydania orzeczenia Trybunału Konstytucyjnego orzeczenie sądowe nie było jeszcze prawomocne na skutek wniesienia środka odwoławczego, który został następnie odrzucony, termin biegnie od dnia doręczenia postanowienia o odrzuceniu. że termin do wniesienia skargi o wznowienie postępowania biegnie od dnia publikacji sentencji orzeczenia Trybunału Sprawiedliwości Unii Europejskiej Dzienniku Urzędowym Unii Europejskiej.
+2. W sytuacji określonej 1 skargę o wznowienie postępowania wnosi się terminie trzech miesięcy od dnia wejścia życie orzeczenia Trybunału Konstytucyjnego. Jeżeli chwili wydania orzeczenia Trybunału Konstytucyjnego orzeczenie sądowe nie było jeszcze prawomocne na skutek wniesienia środka odwoławczego, który został następnie odrzucony, termin biegnie od dnia doręczenia postanowienia o odrzuceniu. wiedliwości Unii Europejskiej, które ma wpływ na treść wydanego orzeczenia. Przepis 2 stosuje się odpowiednio, z tym że termin do wniesienia skargi o wznowienie postępowania biegnie od dnia publikacji sentencji orzeczenia Trybunału Sprawiedliwości Unii Europejskiej Dzienniku Urzędowym Unii Europejskiej.
 
 3. Można żądać wznowienia postępowania również przypadku, gdy potrzeba taka wynika z rozstrzygnięcia organu międzynarodowego działającego na podstawie umowy międzynarodowej ratyfikowanej przez Rzeczpospolitą Polską. Przepis 2 stosuje się odpowiednio, z tym że termin do wniesienia skargi o wznowienie postępowania biegnie od dnia doręczenia stronie lub jej pełnomocnikowi rozstrzygnięcia organu międzynarodowego.
 
@@ -1953,7 +2021,7 @@ poz. 1427),
 
 2. Po ponownym rozpoznaniu sprawy sąd oddala skargę o wznowienie albo ją uwzględnia stosując odpowiednio przepisy o postępowaniu przed sądem, który wznowił postępowanie lub uchyla zaskarżone orzeczenie i skargę odrzuca lub postępowanie umarza.
 
-3. W przypadku, o którym mowa art. 273 3, sąd uchyla jedno z orzeczeń dotyczących tej samej sprawy, utrzymując mocy inne prawomocne orzeczenie, albo uchyla wszystkie prawomocne orzeczenia dotyczące tej samej sprawy i orzeka co do istoty sprawy albo przekazuje sprawę właściwemu wojewódzkiemu sądowi administracyjnemu do rozpoznania i rozstrzygnięcia o tej sprawie.
+3. W przypadku, o którym mowa art. 273 3, sąd uchyla jedno z orzeczeń dotyczących tej samej sprawy, utrzymując mocy inne prawomocne orzeczenie, albo uchyla wszystkie prawomocne orzeczenia dotyczące tej samej sprawy i orzeka co do istoty sprawy albo przekazuje sprawę właściwemu wojewódzkiemu sądowi administracyjnemu do rozpoznania i rozstrzygnięcia o tej sprawie. orzekania postępowaniu ze skargi o wznowienie postępowania.
 
 **Art. 284.** Wniesienie skargi o wznowienie postępowania nie tamuje wykonania zaskarżonego orzeczenia. W razie uprawdopodobnienia, że zgłaszającemu wniosek grozi niepowetowana szkoda, sąd może wstrzymać wykonanie orzeczenia. Postanowienie może być wydane na posiedzeniu niejawnym. Na postanowienie przysługuje zażalenie.
 
@@ -2000,7 +2068,7 @@ poz. 1427),
 
 2. W razie stwierdzenia niezachowania warunków formalnych określonych art. 285e 2, przewodniczący wzywa o poprawienie lub uzupełnienie skargi.
 
-3. Skargę nieopłaconą, skargę wniesioną z naruszeniem art. 175 1 oraz skargę, której braków strona nie uzupełniła terminie, sąd odrzuca na posiedzeniu niejawnym. stracyjny przedstawia niezwłocznie akta sprawy Naczelnemu Sądowi Administracyjnemu.
+3. Skargę nieopłaconą, skargę wniesioną z naruszeniem art. 175 1 oraz skargę, której braków strona nie uzupełniła terminie, sąd odrzuca na posiedzeniu niejawnym. a gdy skargę wniósł Prokurator Generalny lub Rzecznik Praw Obywatelskich obydwu stronom, wojewódzki sąd administracyjny przedstawia niezwłocznie akta sprawy Naczelnemu Sądowi Administracyjnemu.
 
 **Art. 285h.**
 
@@ -2054,7 +2122,7 @@ poz. 1427),
 
 2. Jeżeli właściwy byłby Naczelny Sąd Administracyjny, Sąd ten przekaże sprawę sądowi pierwszej instancji, chyba że chodzi o odtworzenie tylko akt tego Sądu.
 
-3. Postępowanie razie zaginięcia lub zniszczenia akt sprawie prawomocnie zakończonej przeprowadza sąd, którym sprawa toczyła się pierwszej instancji. lub ich odpisy się znajdują.
+3. Postępowanie razie zaginięcia lub zniszczenia akt sprawie prawomocnie zakończonej przeprowadza sąd, którym sprawa toczyła się pierwszej instancji. świadczone odpisy znajdujące się posiadaniu zgłaszającego wniosek oraz wskazać znane mu miejsca, których dokumenty lub ich odpisy się znajdują.
 
 **Art. 292.**
 

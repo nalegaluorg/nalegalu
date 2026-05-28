@@ -8,12 +8,10 @@ pos: 261
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# 1. Na podstawie 16 ust. 3 lipca 2000 o ogłaszaniu aktów normatywnych niektórych innych aktów prawnych 2011 Nr 197, 1172 Nr 232, 1378) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra 28 maja 2004 określenia danych zawartych dokumencie płatniczym przekazywanym zarządzającego do Nr 123, 1299), uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra lutego 2012 zmieniającym rozporządzenie określenia danych zawartych dokumencie płatniczym przekazywanym zarządzającego do 132).
-
-*OBWIESZCZENIE MINISTRA PRACY I POLITYKI SPOŁECZNEJ 6 lutego 2013 ogłoszenia jednolitego tekstu rozporządzenia Ministra określenia danych zawartych dokumencie płatniczym przekazywanym zarządzającego do*
+# Obwieszczenie Ministra Pracy i Polityki Społecznejz dnia 6 lutego 2013 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Polityki Społecznej w sprawie określenia zakresu danych zawartych w dokumencie płatniczym przekazywanym przez zarządzającego do Zakładu Ubezpieczeń Społecznych
 
 | Pole | Wartość |
 |---|---|
@@ -27,25 +25,60 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000261) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/261/text.pdf) |
 
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje rozporządzenia Ministra lutego 2012 zmieniającego rozporządzenie określenia danych zawartych dokumencie płatniczym przekazywanym zarządzającego do
-132), który stanowi: „§ 2. Rozporządzenie wchodzi życie dniem ogłoszenia.”.
-Minister Społecznej: W. Kosiniak-Kamysz określenia danych zawartych dokumencie płatniczym przekazywanym zarządzającego do Na podstawie 45 ust. 4 kwietnia 2004 o pracowniczych programach emerytalnych Nr 116, 1207, późn. zm. ) zarządza się, co następuje:
-1. Rozporządzenie określa szczegółowy zakres danych podawanych zarządzającego na dokumencie płatniczym przypadku przekazywania do 30% sumy składek podstawowych wpłaconych do pracowniczego programu emerytalnego oraz sposób tryb przeliczania kwoty przekazanych składek na podstawę wymiaru świadczenia, jeżeli emerytura uczestnika lub osoby uprawnionej ma być obliczona od podstawy wymiaru.
-2. Ilekroć rozporządzeniu jest mowa o:
-1) zarządzającym należy to rozumieć zarządzającego określonego pkt 9 kwietnia 2004 o pracowniczych programach emerytalnych, zwanej dalej „ustawą”, lub likwidatora tego zarządzającego;
-2) oddziale należy to rozumieć terenową jednostkę organizacyjną właściwą ze względu na miejsce zamieszkania uczestnika;
-3) uczestniku należy to rozumieć osobę fizyczną określoną pkt 11 ustawy;
-4) kwocie składki należy to rozumieć 30% sumy składek podstawowych wpłaconych do pracowniczego programu emerytalnego.
-3. 1. Zarządzający przekazujący do kwotę składki podaje na dokumencie płatniczym „Polecenie przelewu/wpłata gotówkowa” następujące dane:
-1) polu „nazwa odbiorcy” nazwę oddziału Zakładu;
-2) polu „nr rachunku odbiorcy” numer rachunku bankowego wskazany oddział Zakładu;
-3) polu „kwota” kwotę składki;
-4) polu „nr rachunku zleceniodawcy” numer rachunku bankowego zarządzającego;
-5) polu „nazwa zleceniodawcy” nazwę, numer identyfikacji podatkowej (NIP) oraz adres zarządzającego;
-6) polu „tytułem”:
-a) imię nazwisko, numer PESEL uczestnika, a jeżeli uczestnikowi nie nadano tego numeru, podaje się serię numer dowodu osobistego lub paszportu,
-b) identyfikator płatności PPE.
-podstawy wymiaru.
-3. Kwotę uzyskaną wyniku przeliczenia, o którym mowa ust. 1, uwzględnia się przy ustalaniu podstawy wymiaru emerytury doliczenie tej kwoty do podstawy wymiaru składek na ubezpieczenie emerytalne za miesiąc, którym kwota składki przekazana została do oddziału Zakładu.
-5. Rozporządzenie wchodzi życie dniem czerwca 2004
+Treść obwieszczenia
+Załącznik – Tekst jednolity rozporządzenia Ministra Polityki Społecznej z dnia 28 maja 2004 r. w sprawie określenia zakresu danych zawartych w dokumencie płatniczym przekazywanym przez zarządzającego do Zakładu Ubezpieczeń Społecznych
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Polityki Społecznej z dnia 28 maja 2004 r. w sprawie określenia zakresu danych zawartych w dokumencie płatniczym przekazywanym przez zarządzającego do Zakładu Ubezpieczeń Społecznych (Dz. U. Nr 123, poz. 1299), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 2 lutego 2012 r. zmieniającym rozporządzenie w sprawie określenia zakresu danych zawartych w dokumencie płatniczym przekazywanym przez zarządzającego do Zakładu Ubezpieczeń Społecznych (Dz. U. poz. 132).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 2 lutego 2012 r. zmieniającego rozporządzenie w sprawie określenia zakresu danych zawartych w dokumencie płatniczym przekazywanym przez zarządzającego do Zakładu Ubezpieczeń Społecznych (Dz. U. poz. 132), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+” .
+Załącznik – Tekst jednolity rozporządzenia Ministra Polityki Społecznej z dnia 28 maja 2004 r. w sprawie określenia zakresu danych zawartych w dokumencie płatniczym przekazywanym przez zarządzającego do Zakładu Ubezpieczeń Społecznych
+Na podstawie art. 45 ust. 4 ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych (Dz. U. Nr 116, poz. 1207, z późn. zm.) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa szczegółowy zakres danych podawanych przez zarządzającego na dokumencie płatniczym w przypadku przekazywania do Zakładu Ubezpieczeń Społecznych 30% sumy składek podstawowych wpłaconych do pracowniczego programu emerytalnego oraz sposób i tryb przeliczania kwoty przekazanych składek na podstawę wymiaru świadczenia, jeżeli emerytura uczestnika lub osoby uprawnionej ma być obliczona od podstawy wymiaru.
+§ 2.
+Ilekroć w rozporządzeniu jest mowa o:
+1)
+zarządzającym – należy przez to rozumieć zarządzającego określonego w art. 2 pkt 9 ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych, zwanej dalej „ustawą”, lub likwidatora tego zarządzającego;
+2)
+oddziale Zakładu – należy przez to rozumieć terenową jednostkę organizacyjną Zakładu Ubezpieczeń Społecznych właściwą ze względu na miejsce zamieszkania uczestnika;
+3)
+uczestniku – należy przez to rozumieć osobę fizyczną określoną w art. 2 pkt 11 ustawy;
+4)
+kwocie składki – należy przez to rozumieć 30% sumy składek podstawowych wpłaconych do pracowniczego programu emerytalnego.
+§ 3.
+1.
+Zarządzający przekazujący do Zakładu Ubezpieczeń Społecznych kwotę składki podaje na dokumencie płatniczym „Polecenie przelewu/wpłata gotówkowa” następujące dane:
+1)
+w polu „nazwa odbiorcy” – nazwę oddziału Zakładu;
+2)
+w polu „nr rachunku odbiorcy” – numer rachunku bankowego wskazany przez oddział Zakładu;
+3)
+w polu „kwota” – kwotę składki;
+4)
+w polu „nr rachunku zleceniodawcy” – numer rachunku bankowego zarządzającego;
+5)
+w polu „nazwa zleceniodawcy” – nazwę, numer identyfikacji podatkowej (NIP) oraz adres zarządzającego;
+6)
+w polu „tytułem”:
+a)
+imię i nazwisko, numer PESEL uczestnika, a jeżeli uczestnikowi nie nadano tego numeru, podaje się serię i numer dowodu osobistego lub paszportu,
+b)
+identyfikator płatności – PPE.
+2.
+Potwierdzoną za zgodność z oryginałem kopię dokumentu płatniczego, o którym mowa w ust. 1, zarządzający przekazuje uczestnikowi listem poleconym.
+§ 4.
+1.
+Kwotę składki przelicza się przez podzielenie jej przez 19,52%. Uzyskaną kwotę zaokrągla się w górę do pełnych groszy.
+2.
+Kwotę składki podlegającą przeliczeniu ustala się na podstawie dokumentu płatniczego, o którym mowa w § 3 ust. 1, dołączonego przez uczestnika do wniosku o emeryturę, której wysokość zgodnie z odrębnymi przepisami obliczana jest od podstawy wymiaru.
+3.
+Kwotę uzyskaną w wyniku przeliczenia, o którym mowa w ust. 1, uwzględnia się przy ustalaniu podstawy wymiaru emerytury przez doliczenie tej kwoty do podstawy wymiaru składek na ubezpieczenie emerytalne za miesiąc, w którym kwota składki przekazana została do oddziału Zakładu.
+§ 5.
+Rozporządzenie wchodzi w życie z dniem 1 czerwca 2004 r.
+1) Obecnie działem administracji rządowej – zabezpieczenie społeczne kieruje Minister Pracy i Polityki Społecznej, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Pracy i Polityki Społecznej (Dz. U. Nr 248, poz. 1485). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 143, poz. 1202, z 2006 r. Nr 157, poz. 1119, z 2008 r. Nr 220, poz. 1432, z 2010 r. Nr 18, poz. 98 oraz z 2011 r. Nr 75, poz. 398 i Nr 171, poz. 1016. 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 2 lutego 2012 r. zmieniającego rozporządzenie w sprawie określenia zakresu danych zawartych w dokumencie płatniczym przekazywanym przez zarządzającego do Zakładu Ubezpieczeń Społecznych (Dz. U. poz. 132), które weszło w życie z dniem 7 lutego 2012 r.
 

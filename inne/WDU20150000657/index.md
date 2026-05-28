@@ -8,10 +8,10 @@ pos: 657
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Warszawa, dnia 13 maja 2015 r.
+# Rozporządzenie Ministra Środowiskaz dnia 5 maja 2015 r. w sprawie sprawozdania o wydajności recyklingu procesu recyklingu zużytych baterii i zużytych akumulatorów
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,23 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2015-05-05 |
 | Data wydania | 2015-05-13 |
+| Wejście w życie | 2015-05-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000657) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/657/text.pdf) |
 
-Skład ogólny materiału wejściowego Pierwiastki lub związki nienależące do frakcji wejściowych Zanieczyszczenia [%] Zewnętrzna osłona zestawu [%] Woda [%] Inne [%] Pierwiastki lub związki należące do frakcji wejściowych Masa wejściowa kadmu [Mg/r] Masa wejściowa niklu [Mg/r] Masa wejściowa żelaza [Mg/r] Masa wejściowa tworzyw sztucznych [Mg/r] Masa wejściowa elektrolitu [Mg/r] Masa wejściowa, ogółem [Mg/r] Masa wyjściowa, ogółem [Mg/r] Masa wyjściowa kadmu [Mg/r] Wydajność recyklingu [%] Stopień recyklingu kadmu [%] Pierwiastki lub związki nienależące do frakcji wejściowych Zanieczyszczenia [%] Zewnętrzna osłona zestawu [%] Woda [%] Inne [%] Pierwiastki lub związki należące do frakcji wejściowych Masa wejściowa metali [Mg/r] Masa wejściowa rtęci [Mg/r] Masa wejściowa węgla [Mg/r] Masa wejściowa tworzyw sztucznych [Mg/r] Masa wejściowa elektrolitu [Mg/r] Masa wejściowa, ogółem [Mg/r] Masa wyjściowa, ogółem [Mg/r] Wydajność recyklingu [%] Dział 4. Dane osoby sporządzającej sprawozdanie Imię Nazwisko Telefon służbowy Faks służbowy E-mail służbowy Data Podpis pieczęć marszałka województwa żelaza, włókna ze złomu elektronicznego, stopione aluminium.
-Z dokładnością do dwóch miejsc po przecinku.
-Stosunek masy wyjściowej ogółem do masy wejściowej ogółem.
-Stosunek masy wyjściowej ołowiu do masy wejściowej ołowiu.
-Stosunek masy wyjściowej kadmu do masy wejściowej kadmu.
-Jeżeli posiada.
-Wymóg opatrzenia pieczęcią dotyczy sprawozdania w postaci papierowej.
+Treść rozporządzenia
+Załącznik – Sprawozdanie o wydajności recyklingu procesu recyklingu zużytych baterii i zużytych akumulatorów (wzór)
+Treść rozporządzenia
+Na podstawie art. 16 ust. 2 ustawy z dnia 29 sierpnia 2014 r. o zmianie ustawy o bateriach i akumulatorach oraz niektórych innych ustaw (Dz. U. poz. 1322) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa wzór sprawozdania o wydajności recyklingu procesu recyklingu zużytych baterii i zużytych akumulatorów oraz sposób jego przekazywania.
+§ 2.
+1.
+Wzór sprawozdania o wydajności recyklingu procesu recyklingu zużytych baterii i zużytych akumulatorów jest określony w załączniku do rozporządzenia.
+2.
+Sprawozdanie o wydajności recyklingu procesu recyklingu zużytych baterii i zużytych akumulatorów jest przekazywane w postaci papierowej albo elektronicznej, jako dokument elektroniczny w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2014 r. poz. 1114), opatrzony bezpiecznym podpisem elektronicznym weryfikowanym za pomocą ważnego kwalifikowanego certyfikatu w rozumieniu art. 3 pkt 12 ustawy z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. z 2013 r. poz. 262 oraz z 2014 r. poz. 1662).
+§ 3.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Załącznik – Sprawozdanie o wydajności recyklingu procesu recyklingu zużytych baterii i zużytych akumulatorów (wzór)
+patrz oryginał
 

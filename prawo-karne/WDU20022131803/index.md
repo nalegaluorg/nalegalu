@@ -8,10 +8,10 @@ pos: 1803
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# z zmieniająca ustawę o podatku ustawę o oznaczaniu wyrobów W ustawie z dnia 8 stycznia akcyzowym (Dz.U. Nr 11, 132, poz. 670, z 1995 r. Nr poz. 640, z 1997 r. Nr 111, 141, poz. 943 i Nr 162, poz.
+# Ustawa z dnia 4 grudnia 2002 r. zmieniająca ustawę o podatku od towarów i usług oraz o podatku akcyzowym, ustawę o oznaczaniu wyrobów znakami skarbowymi akcyzy oraz ustawę – Kodeks karny skarbowy
 
 | Pole | Wartość |
 |---|---|
@@ -22,608 +22,198 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2002-12-04 |
 | Data wydania | 2002-12-16 |
+| Wejście w życie | 2003-01-01 |
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022131803) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1803/text.pdf) |
 
-1999 r. Nr 50, poz. 499, Nr Nr 105, poz. 1107, z 2001 r.
-poz. 639, Nr 80, poz. 858, Nr z 2002 r. Nr 19, poz. 185, 169, poz. 1387) wprowadza
-1) w art. 4:
-a) użyte w pkt 1 i w się wyrazami „o statystyce
-b) pkt 12 otrzymuje brzmienie: „12) działalności rolniczej zwierzęcą, w szkółkarskiego, warzywniczą, ozdobnych, grzybów materiału zarodowego produkcję zwierzęcą ryb słodkowodnych uprawy w szklarniach grzybów i ich chów drobiu zwierząt futerkowych entomofagów, i chów innych produktów gospodarki okrągłego z (PKWiU 02.01.42-00.11),”;
-2) w art. 6 w ust. 8b: „c) świadczenia załącznika
-b) pkt 3 otrzymuje brzmienie: „3) wystawienia tytułu sprzedaży
-22.13) oraz sowych telefonicznych,
-60.10), nut, nie później jednak wydawnictw, wystawienia później niż sprzedaży
-c) pkt 12 otrzymuje brzmienie: „12) otrzymania na drukowaniu
-22.13) oraz adresowych telefonicznych, nut, map odrębnych niż 90 dnia
-3) w art. 9 po ust. 9 dodaje „9a. Na wniosek potwierdzenia, od towarów i usług.
-jak i osoba trzecia
-4) w art. 14 ust. 7a otrzymuje „7a. Podatnik, który z tego zwolnienia, miesiąca, w którym zwolnienia, ponownie
-1.”;
-5) w art. 21 po ust. 2a dodaje „2b. Przepisów ust.
-podatku jest uzasadniona ust. 3.”;
-6) po art. 32 dodaje się art.
-„Art. 32a. 1. Podatnik
-1) udostępnić odpis mowa
+## Załącznik nr 1 — – Wykaz towarów opodatkowanych stawką podatku w wysokości 3%
+
+## Załącznik nr 2 — – Wykaz usług, których świadczenie jest zwolnione od podatku
+
+## Załącznik nr 3 — – Wykaz towarów i usług, których sprzedaż lub świadczenie jest objęte stawką podatku w wysokości 7%
+
+## Załącznik nr 4 — – Wykaz materiałów i usług (robót budowlanych), których sprzedaż jest objęta stawką podatku w wysokości 7%
+
+## Załącznik nr 5 — – Wykaz wyrobów akcyzowych
+
+## Załącznik nr 6 — – Wykaz towarów, od których sprzedaży przysługuje zryczałtowany zwrot podatku od towarów i usług
+
+Art. 1.
+W ustawie z dnia 8 stycznia 1993 r. o podatku od towarów i usług oraz o podatku akcyzowym (Dz. U. Nr 11, poz. 50, Nr 28, poz. 127 i Nr 129, poz. 599, z 1994 r. Nr 132, poz. 670, z 1995 r. Nr 44, poz. 231 i Nr 142, poz. 702 i 703, z 1996 r. Nr 137, poz. 640, z 1997 r. Nr 111, poz. 722, Nr 123, poz. 776 i 780, Nr 137, poz. 926, Nr 141, poz. 943 i Nr 162, poz. 1104, z 1998 r. Nr 139, poz. 905 i Nr 161, poz. 1076, z 1999 r. Nr 50, poz. 499, Nr 57, poz. 596 i Nr 95, poz. 1100, z 2000 r. Nr 68, poz. 805 i Nr 105, poz. 1107, z 2001 r. Nr 12, poz. 92, Nr 39, poz. 459, Nr 56, poz. 580, Nr 63, poz. 639, Nr 80, poz. 858, Nr 90, poz. 995, Nr 106, poz. 1150 i Nr 122, poz. 1324 oraz z 2002 r. Nr 19, poz. 185, Nr 41, poz. 365, Nr 86, poz. 794, Nr 153, poz. 1272 i Nr 169, poz. 1387) wprowadza się następujące zmiany:
+1)
+w art. 4:
 a)
+użyte w pkt 1 i w pkt 2 w lit. a wyrazy „o statystyce państwowej” zastępuje się wyrazami „o statystyce publicznej”,
 b)
-2. Podatnik którym mowa
-3. W przypadku potwierdzenie uzyska zawiadomił u niego odliczenie którym mowa ust. 5-8 nie stosuje
-7) po art. 35 dodaje się art.
-„Art. 35a. Sprzedawca 19 i 21 załącznika dowodu nabywcę, obowiązek
-8) w art. 40a ust. 1 otrzymuje „1. W rozliczeniach szybkoobrotowych - 23.20.15-00.10)podatnicy działalność rolniczą rolniczego, zwani bony paliwowe.”;
-9) w art. 50:
-a) w ust. 5: - w pkt 1 lit. a otrzymuje „a) książek (PKWiU zasięgu telefonicznych, nut, map odrębnych - w pkt 3 lit. a i b „a) książek zasięgu telefonicznych, nut, map odrębnych symbolami
-b) w ust. 5c pkt 1 otrzymuje „1) sprzedaży symbol rozumieniu szkolnictwie
-10) w art. 51 ust. 3 otrzymuje „3. Przez obiekty pkt 2 lit. c, zamieszkania, Budowlanych: o dwóch mieszkaniach zbiorowego zamieszkania związków wyznaniowych, rezydencje biskupie.”;
-11) w art. 54 ust. 1 otrzymuje „1. Towary i 2, niewymienione statystyce publicznej, 18 ust. 1.”.
-W ustawie z dnia 2 grudnia akcyzy (Dz.U. Nr 127, poz.
-Nr 83, poz. 931 oraz z 2000 następujące zmiany:
-1) w art. 1 ust. 1 otrzymuje „1. Ustawa określa zwanymi dalej symbolem o statystyce publicznej:
-1) produkty
-2) preparaty mineralnych, (PKWiU
-3) oleje do
-4) napoje alkoholowe (PKWiU
-5) wina gronowe jabłecznik, napoje zawierające świeżych aromatycznymi
-7) inne niż alkoholu
-8) cygara, tytoniu (PKWiU
-90.20).”;
-2) art. 26 otrzymuje brzmienie: „Art. 26. Rada Ministrów podlegających Polską Klasyfikacją Nomenklaturą W ustawie z dnia 10 września 930, z 2000 r. Nr 60, poz. 703, 1149 oraz z 2002 r. Nr 41,
-1178) w art. 62 § 3 otrzymuje „§ 3. Kto wbrew przepisom akcyzowym ustawy
-1) nie przechowuje
-2) nie zawiadomi przechowywania prowadzeniem - podlega karze grzywny Załączniki nr 1-3, 5, 6 i 8 określone w załącznikach do Zmiany w klasyfikacjach statystyce publicznej oraz wprowadzone po dniu wejścia wysokości opodatkowania akcyzowym.
-W przypadku gdy po dniu wejścia ustawy, o której mowa w towarów, usług oraz obiektów zmiany dotychczas stosowanych akcyzowego albo prowadziłyby Ustawa wchodzi w życie z dniem „Załącznik nr 1 Poz.
-1. ex 01.11 Zboża, ziemniaki, (PKWiU 01.11.32), naturalnego
-2. ex 01.12 Warzywa, specjalne (PKWiU ex
-3. 01.13.1 Winogrona
-4. ex 01.13.23 Owoce pozostałe;
-01.13.23-00.30), osobno nie wymienionych
-5. 01.13.24-00.10 Orzechy laskowe
-6. 01.13.24-00.20 Orzechy włoskie
-7. ex 01.13.40-00.90 Rośliny przyprawowe
-8. ex 01.2 Zwierzęta żywe
-1) wełny
-00.22,
-2) sierści
-3) skór ex01.25.33-00.00)
-9. 02 Produkty gospodarki
-00.11), faszyny
-00.30)
-10. 05 Ryby i inne
-11. ex 14.30.13-90.10 Surowce mineralne ziemia ogrodnicza
-12. 15.11.1 Mięso i podroby
-13. 15.11.21 Wełna szarpana
-14. ex 15.11.3 Tłuszcz wołowy, oraz tłuszczy
-15. ex 15.11.4 Odpady zwierzęce,
-16. 15.12 Mięso pozostałe
-17. ex 15.20 Ryby i produkty zakonserwowanych
-14.20, -14.9, innych wodnych ryb, skorupiaków,
-18. ex 15.33.30-00.22, Obierki, liście
-15.33.30-00.3 Odpady - słoma
-15.33.30-00.80 Żołędzie i kasztany
-19. 15.41.11 Oleje i tłuszcze wyłączeniem
-15.41.11-30.21), pozostałych, niemodyfikowanych
-20. 15.42.13-30 Tłuszcze i oleje
-21. 15.51.11 Mleko płynne
-22. 15.71.20 Grysik i granulki
-23. 15.89.12 Jaja bez skorupek
-24. ex 24.15.60 Nawozy zwierzęce
-00.40), oraz
-25. ex 24.41.60-50.20 Krew zwierzęca
-26. 36.62.11-10 Miotły i szczotki,
-27. 36.63.77-30.1 Materiały rzeźbiarskie
-28. 36.63.77-40.10 Materiały rzeźbiarskie
-29. Wyroby rękodzieła ludowego i artystycznego grawerskich, medalierskich i mebli) Część I Wyroby rękodzieła ludowego ex 28.61.1 Wyroby nożownicze ex 28.63.14 Zawiasy, zamocowania, nieszlachetnych ex 28.75.24 Statuetki i pozostałe ex 28.75.27 Wyroby z metali
-28.75.27-43.30 Wyroby kowalstwa
-28.75.27-59.81 Wyroby brązownicze ex 31.50.2 Lampy i sprzęt ex 33.50.26 Koperty do ex 36.22.14 Wyroby wykonane półszlachetnych, ex 36.61.10 Biżuteria sztuczna Część II Wyroby rękodzieła ludowego ex 26.21.11 Zastawy stołowe, ex 26.21.12 Zastawy stołowe, ex 26.21.13 Statuetki i inne ex 26.25.12 Wyroby ceramiczne ex 31.50.2 Lampy i sprzęt ex 33.50.26 Koperty do ex 36.61.10 Biżuteria sztuczna ex 36.63.61-39 Fajki i cybuchy ex 36.63.61-50 Cygarniczki ex 92.31.10-00.22 Rzeźby, posągi ex 92.31.10-00.42 Wyroby artystyczne Część III Wyroby rękodzieła ludowego ex 26.13.12 Kieliszki i szklanki ex 26.13.13 Wyroby ze szkła ex 26.15.24 Części szklane ex 26.15.26 Wyroby szklane, ex 36.61.10-90.1 Biżuteria sztuczna ex 92.31.10-00.43 Wyroby artystyczne Część IV Wyroby rękodzieła ludowego ex 20.40.12-50.10 Beczki i komplety ex 20.40.12-50.20 Beczki i komplety ex 20.40.12-50.30 Baryłki do płynów ex 20.51.12 Przybory stołowe ex 20.51.13 Intarsje i inkrustacje ex 20.51.14 Ramy do obrazów, ex 20.52.15 Wyroby ze słomy słomy izolacyjnych roślinnych), ex 21.22.11-50 Serwetki i obrusy ex 21.22.12-90 Wyroby do wymienione ex 21.25.14-77 Wyroby z papieru ex 22.22.20-17.00 Pamiętniki ex 22.22.20-80 Albumy na próbki ex 36.61.10-90.91 Biżuteria sztuczna, ex 36.63.61-35.10 Fajki i cybuchy ex 36.63.61-50 Cygarniczki Część V Wyroby rękodzieła ludowego ex 17.20.10 Tkaniny (z wyjątkiem ex 17.20.20 Tkaniny bawełniane ex 17.20.40 Tkaniny z okrywą,
-17.20.40-70 ex 17.40.11 Koce (z wyjątkiem ex 17.40.12 Bielizna pościelowa ex 17.40.13 Bielizna stołowa ex 17.40.14 Bielizna do ex 17.40.15 Zasłony (łącznie ex 17.40.16 Wyroby wyposażenia gobelinów itp.
-ex 17.51.11 Dywany i inne ex 17.51.12 Dywany i inne ex 17.51.13 Dywany i inne ex 17.51.14 Dywany i pozostałe ex 17.54.11 Taśmy i wyroby ex 17.54.12 Tiul i inne tkaniny ex 17.54.13 Hafty w sztukach, Część VI Wyroby rękodzieła ludowego ex 17.40.12 Bielizna pościelowa ex 17.40.13 Bielizna stołowa ex 17.71 Wyroby pończosznicze ex 17.72 Pulowery, swetry ex 18.22 Ubiory wierzchnie ex 18.23 Bielizna, z wyłączeniem ex 18.24 Odzież i dodatki kąpielowych rodzajów odzieży Część VII Wyroby rękodzieła ludowego ex 18.10.10 Odzież ze skóry ex 18.30.12 Odzież, dodatki ex 19.20.11 Wyroby rymarskie ex 19.20.14-50.00 Wyroby ze skór ex 19.30 Obuwie ex 92.31.10-00.46 Wyroby artystyczne Część VIII Wyroby rękodzieła ex 33.20.32-55.00 Przyrządy traserskie ex 36.30.12-90.20 Mandoliny i ex 36.30.12-90.30 Banjo ex 36.30.12-90.90 Instrumenty ex 36.63.7 Wyroby, gdzie ex 92.31.10-00.12 Obrazy, rysunki, ex 92.31.10-00.22 Rzeźby, posągi Objaśnienia: ex - dotyczy tylko i wyłącznie danego „Załącznik nr 2 Poz.
-1. ex 01.4 Usługi związane działalności
-2. ex 02.02.10 Usługi związane
-3. ex 05.00.50 Usługi związane
-4. 55.23.11 Usługi świadczone
-5. ex 55.23.15 Usługi krótkotrwałego pracowniczych,
-6. ex 60.2 Usługi transportu siły ludzkiej,
-7. ex 64.11 Usługi świadczone
-8. ex 64.20.1 Usługi transmisji kształcenia Akademii
-9. Sekcja J ex (65-67) Usługi pośrednictwa
-1) działalności
-2) usług polegających
-3) usług doradztwa
-10. ex 70.20.11 Usługi w zakresie wynajmu lokali
-11. ex 70.32.11 Usługi w zakresie mieszkalnych
-12. 71.31.10 Usługi wynajmu
-13. ex 72.40.10 Usługi baz
-14. 73 Usługi naukowo-badawcze
-15. ex 74.20.52 Usługi architektonicznego estetykę parków,
-16. ex 74.30 Usługi w zakresie w zakresie
-17. 74.11 Usługi dezynfekcji
-18. ex 75 Usługi w zakresie
-1) usług izb
-2) usług wykonywanych ubezpieczeń
-19. 80 Usługi w zakresie
-20. ex 85 Usługi w zakresie poza placówkami
-21. ex 90.00.12 Usługi w zakresie
-22. 91 Usługi świadczone
-23. ex 92 Usługi związane
-1) usług
-2) działalności
-3) usług
-24. 93.03 Usługi pogrzebowe
-25. ex 93.04.10 Usługi związane Objaśnienia: ex - dotyczy tylko i wyłącznie danej „Załącznik nr 3 Poz
-1. ex 01.12.21-00.4 Grzybnia –
-01.22.32-00.52 Włosie końskie,
-01.22.32-00.90 Sierść zwierzęca
-2. 10.30.10-00.3 Surowiec i
-3. 10.30.10-00.4 Wyroby torfowe
-4. 14.12.20-10.22 Kreda mielona,
-14.12.20-10.23 Kreda mielona,
-14.12.20-30.40 Mączka dolomitowa
-5. 15.11.30-50.10 Smalec i pozostały przez ludzi
-15.11.30-50.40 Smalec i pozostały
-15.11.30-70.10 Tłuszcz wołowy, spożywanych
-6. ex 15.11.4 Odpady zwierzęce,
-7. 15.13.13-00.10 Mączki, grysiki
-15.20.17 Mączki, grysiki ludzi
-8. 15.33.30-00.90 Odpady z
-9. 15.41.11-90.20 Tłuszcze i
-15.41.11-90.40 Tłuszcze i
-10. ex 15.7 Pasza dla zwierząt
-11. 15.96.20-00.10 Wywar
-12. ex 19.10.50 Odpady ze
-13. 24.13.11-20.10 Siarka sublimowana
-14. 24.14.15 Pochodne
-1) 1,
-2) Pochodne
-24.14.15-59),
-3) DDT
-15. 24.14.64-50 Podpuszczka
-16. 24.15.10-75.30 Amoniak ciekły
-24.15.10-77.20 Woda amoniakalna
-17. ex 24.15.30 Nawozy azotowe, cyjanamidu
-24.15.40 Nawozy fosforowe, ex 24.15.50 Nawozy potasowe,
-24.15.60-00.1 Mączki nawozowe ex 24.15.60-00.90 Nawozy zwierzęce
-24.15.70-70.20 Saletra sodowa ex 24.15.80 Nawozy, gdzie
-18. ex 24.2 Pestycydy
-19. 24.62.10-20.10 Albumina
-24.62.10-20.20 Albumina
-24.62.10-30 Żelatyna i
-20. 26.52.10 Wapno
-21. 28.21.11-39 Zbiorniki do
-28.21.11-56.00 Silosy zbożowe
-28.62.10 Narzędzia nożyc do drobiu
-28.62.50-63 Noże i ostrza
-28.75.27-25.10 Skrzynki małe
-28.75.27-31.30 Drabiny specjalne
-29.22.16-30.40 Wyciągi pionowe
-29.22.16-50.40 Urządzenia
-29.22.17-10 Wyciągi i
-29.22.17-50.20 Przenośniki
-29.22.17-50.30 Przenośniki
-29.22.17-70.23 Przenośniki
-29.22.17-70.24 Przenośniki
-29.22.17-95.28 Przenośniki
-29.22.17-95.53 Przenośniki
-29.22.17-95.66 Przenośniki
-29.22.18-50 Ładowarki
-29.22.19-30.55 Części maszyn
-29.22.19-30.56 Części do
-29.23.30-90.30 Części maszyn
-29.24.53-30.50 Części urządzeń ex 29.31 Ciągniki rolnicze ex 29.32 Maszyny dla ex29.32.20), domowych ex 29.40.51-50.1 Piły łańcuchowe
-29.53.15-50 Suszarki do
-29.53.21-30.10 Części dojarek
-34.20.23-00.93 Przyczepy
-35.50.10-00.93 Wózki ręczne
-22. 36.63.77-40.50 Żelatyna nieutwardzona,
-23. 15.89.20-00.11 Soki i ekstrakty
-24. 17.54.31 Wata z materiałów przemiału rozdrobnionych
-25. 20.51.14-50.91 Elementy
-26. 21.22.12-10.10 Podpaski higieniczne
-21.22.12-10.20 Tampony
-21.22.12-10.30 Wata celulozowa
-27. 21.22.12-30.20 Pieluszki i
-28. 24.14.51-39.10 Cysteina, cystyna
-29.
-30.
-ex 24.4
-24.64.11-30.10 ex 24.64.11-50.20 Substancje
-1) krwi
-2) kwasu
-3) amidów
-4) związków
-5) pirazolonów
-6) propionianów Film i płyty Film fotograficzny Błony rentgenowskie
-31. 24.66.42-10.60 Testy i odczynniki
-24.66.42-30.30 Materiały
-24.66.42-30.40 Materiały
-24.66.42-30.90 Pasty modelarskie ex 24.66.42-70.00 Gotowe pożywki ex 24.66.48-63.00 Produkty i
-32. ex 25.13.30 Przewody,
-33. 25.13.60-30.00 Rękawice
-34. 25.13.71 Wyroby higieniczne
-35. 28.74.12-50.50 Nity ze stali
-36. 29.23.30-90.50 Części do
-37. 29.56.12-50.73 Maszyny poligraficzne
-30.01.12-00.31 Maszyny do
-30.02.16-00.10 Urządzenia
-38. ex 33.10.15-11 Strzykawki ex 33.10.15-13.00 Igły metalowe ex 33.10.15-17.10 Igły (z wyjątkiem
-39. ex 33.10.15-33.00 Przyrządy
-40. ex 33.10.15-63.00 Aparatura
-41. ex 33.10.17 Sztuczne stawy;
-indziej nie urazowej i ex 33.10.18 Aparaty słuchowe;
-sklasyfikowane
-33.10.18-50.00) ex 33.40.11 Soczewki kontaktowych
-42. ex 34.10.2 Samochody
-43. 35.43.11 Wózki inwalidzkie
-44. bez względu na Produkty uzdrowisk symbol 1) środki
-2) środki
-3) środki
-45. bez względu na Wyroby rehabilitacyjne symbol rehabilitacyjną
-46. bez względu na Wyroby farmaceutyczne symbol odrębnych
-47. 01.11.32 Arachidy (orzeszki
-48. ex 01.25.33-00.00 Skóry surowe wyłącznie
-49. 15.11.22 Skóry i skórki
-50. 15.11.23 Skóry i skórki
-51. ex 15.11.3 Tłuszcz wołowy,
-52. ex 15.13.1 Konserwy podrobów
-53. ex 15.20.14 Ryby przyrządzone
-12.9, -13.4,
-59.00
-54. 15.20.16 Skorupiaki,
-55. ex 15.3 Owoce i warzywa powstałych
-56. 15.41.12, Oleje i tłuszcze
-15.41.13, z nasion i
-15.41.3,
-15.42.11,
-15.42.12,
-15.42.13-50,
-15.42.20-50.2 ,
-15.43
-57. ex 15.5 Produkty mleczarskie
-58. 15.6 Produkty przemiału
-59. 15.81.1 Pieczywo,
-60. ex 15.83 Cukier - z
-50.10)
-61. 15.84.24 Owoce, orzechy,
-62. 15.85 Makaron,
-63. 15.86.12-70 Cykoria palona,
-64. ex 15.87.12 Sosy, mieszanki
-65. 15.88 Przetwory
-66. 15.89.11 Zupy i buliony
-67. ex 15.89.14 Produkty spożywcze
-68. 15.89.20-00.2
-15.89.20-00.3 Substancje Śluzy i zagęszczacze
-69. 15.98.11-50.30 Lód naturalny
-15.98.11-50.40 Lód sztuczny
-70. 15.98.12-50.10 Napoje owocowe
-15.98.12-50.20 Napoje owocowo-warzywne,
-15.98.12-50.50 Nektary
-71. 15.98.12-70 Napoje bezalkoholowe
-72. 24.14.64-70 Enzymy; preparaty
-73. ex 24.66.41 Peptony, substancje
-74. ex 24.66.42-70 Gotowe pożywki
-75. ex 17.20.20 Tkaniny bawełniane
-76. ex 17.54.31-50.40 Wyroby opatrunkowe
-77. ex 17.7 Wyroby dziane ex 18.2 Odzież i dodatki w tym pieluchy
-79. 19.20.12-10.49 Tornistry z
-80. ex 19.3 Obuwie - wyłącznie
-81. 21.22.12-30.10 Pieluszki,
-82. ex 21.23.13-59.00 Papier i tektura papier milimetrowy
-22.22.20-15.30 Szkicowniki
-22.22.20-19.00 Dzienniki
-22.22.20-30 Zeszyty szkolne
-22.22.20-50.20 Teczki, bloki,
-22.22.20-50.30 Okładki papierowe ex 22.22.20-90 Bibuły, okładki charakterze
-24.30.23-50.10 Akwarele
-24.30.23-70.10 Akwarele
-83. ex 24.52.14 Pudry kosmetyczne
-84. ex 24.52.15-00.50 Kosmetyki
-85. 24.66.42-30.20 Plastelina
-86. 25.13.73-21.00 Gumki do
-87. 25.24.10-00.71 Śliniaczki
-88. 25.24.27-00.21 Okładki z
-89. 25.24.27-00.91 Piórniki szkolne
-90. 28.61.13-30.20 Temperówki
-91. Podgrzewacze
-92. ex 33.20.32-53 Zestawy kreślarskie
-93. ex 33.20.33-59.90 Pozostałe
-94. ex 36.63.24 Ołówki, kredki,
-95. 36.63.25-10.00 Tabliczki i
-96. 36.63.72-30 Wózki dziecięce
-97. ex 36.63.74-00 Przyrządy, pomoce naukowe
-98. bez względu na Butelki dla symbol
-99. 20.10.40-05.30 Brykiety z
-100. ex 22.11 Książki, nuty teleksów i
-101. 22.12 i 22.13 Gazety, magazyny
-102. 36.30.1 Instrumenty
-103. ex 11.20.11 Usługi wiertnicze podstawie
-104. ex 33.10.92-00.00 Usługi napraw zakresie napraw
-105. 41.00.20 Usługi w zakresie
-106. 45.21.2 Roboty ogólnobudowlane
-107. 45.23.1 Roboty ogólnobudowlane
-108. ex 55 Usługi hoteli
-1) usług świadczonych
-2) usług hoteli
-3) sprzedaży piwa i
-5) sprzedaży stanie
-109. 60.10.1 Usługi w zakresie
-110. 60.21 Usługi pasażerskiego
-111. 60.22.12 Usługi w zakresie
-112. ex 60.23 Usługi pasażerskiego ludzkiej
-113. 61.10.1 Usługi morskiego
-114. 61.20.1 Usługi wodnego
-115. 61.20.3 Usługi wynajmowania
-116. 62.10.1 Przewozy
-117. 62.20.1 Przewozy
-118. ex 62.20.3 Usługi wynajmowania lotniczego
-119. 63.21.22-00.10 Usługi pobierania
-120. 63.3 Usługi organizatorów zakwaterowania
-121. ex 64.20.1 Usługi transmisji wymienieni
-122. ex 74.20.7 Usługi naukowe
-1) usług geologicznych,
-2) geodezyjno-kartograficznych
-123. ex 74.40.1 Usługi reklamowe działalności
-124. 74.70.15 Usługi czyszczenia
-125. 90.00.11 Usługi w zakresie
-126. ex 90.00.12 Usługi w zakresie
-127. 90.00.2 Usługi w zakresie
-128. 90.00.30 Oczyszczanie
-129. bez względu na Usługi związane symbol
-130. bez względu na Usługi związane symbol
-131. bez względu na Usługi związane symbol leśnego i ogrodniczego
-132. bez względu na symbol Usługi ratownictwa
-133. bez względu na Usługi związane symbol zlecenia, pośrednictwa,
-134. bez względu na Usługi napraw symbol Objaśnienia: ex - dotyczy tylko i wyłącznie danego „Załącznik nr 5 Poz.
-1. ex 14.21 Żwir i piasek
-2. 20.10.10-73.00 Klepki, listwy
-3. 20.10.10-77.20 Listwy dębowe
-20.10.10-77.30 Deszczułki posadzkowe
-20.10.10-78.1 Deszczułki posadzkowe
-20.10.10-78.20 Listwy przyścienne
-20.10.10-78.90 Klepki, listwy
-20.10.21-10.1
-20.10.21-10.20 ex 20.10.21-10.30 ex 20.10.21-10.90 Tarcica podłogowa Listwy przyścienne Kostka brukowa Drewno iglaste wyłączeniem ex 20.10.21-53.20 Kostka brukowa ex 20.10.21-53.90 Drewno liściaste
-20.10.21-55.00 Klepki, listwy
-4. 20.30.11 Okna i drzwi,
-20.30.12-15.00 Płyty parkietowe
-20.30.12-19 Płyty parkietowe
-20.30.20-02.10 Komplety elementów innej)
-5. ex 21.24.11 Tapety papierowe
-6. 23.20.32-00.20 Asfalty drogowe
-23.20.32-00.30 Asfalty drogowe
-23.20.32-00.4 Asfalty przemysłowe
-23.20.32-00.5 Asfalty specjalne
-7. 24.30.22-53.10 Kity szklarskie
-24.30.22-53.20 Kity budowlane
-8. 24.30.22-60.00 Nieogniotrwałe
-9. ex 24.62.10-70 Produkty odpowiednie mniejszej butadienu ex 24.62.10-80 Spoiwa na bazie sprzedaży detalicznej butadienu ex 24.62.10-90 Gotowe kleje nie wymienione
-10. ex 25.21.2 Rury, przewody
-11. ex 25.21.41-20.00 Komórkowe
-25.21.41-50.20 Płyty komórkowe
-25.21.42-30.10 Płyty faliste
-12. ex 25.23 Wyroby z tworzyw
-25.23.2), zbiorników zastosowań
-13. 25.24.28-40.00 Perforowane
-14. ex 26.11 Szkło płaskie ex 26.12 Szkło płaskie
-15. 26.14.12 Arkusze cienkie, bezalkalicznych
-16. ex 26.15.12 Płyty chodnikowe, w formach;
-wyłączeniem
-17. 26.22 Wyroby sanitarne
-19. ex 26.40 Cegły, dachówki (PKWiU 26.40.13-00.7)
-20. 26.5 Cement, wapno
-21. ex 26.6 Wyroby z betonu
-1) płyt kamiennych
-2) wyrobów okładzinowych
-22. 26.82.11-50.10 Papier z azbestu
-26.82.11-50.20 Płyty pilśniowe
-23. 26.82.12 Wyroby z asfaltu
-26.82.13-00.1 Mieszanki mineralno-bitumiczne
-26.82.13-00.6 Masy i roztwory
-24. 26.82.16-10
-26.82.16-20
-26.82.16-30 Wełna mineralna Wermikulit wyłączeniem Mieszaniny
-25. ex 27.10.40 Wyroby walcowane
-26. 27.10.50 Sztaby i pręty, ex 27.10.60 Sztaby i pręty ex 27.10.70 Kątowniki, kształtowniki na gorąco
-27. 27.10.82-50.00 Materiały używane
-27.21.10 Rury, przewody
-27.21.20 Złącza odlewane, ex 27.22.10 Rury, przewody gotowych
-27.31 Sztaby, pręty (PKWiU 27.31.20-10)
-27.33 Wyroby formowane
-27.34 Drut
-27.42.24 Blachy grube, ex 27.44.26 Miedziane: rurowych ze
-28. ex 28.11.10 Budynki prefabrykowane pawilonowych,
-29. 28.11.23-40 Pozostałe konstrukcje rdzeniem izolującym
-30. 28.11.23-50.3 Elementy budowlane
-31. 28.11.23-50.4 Elementy budowlane
-32. 28.11.23-50.5 Segmenty budynków
-28.11.23-62.3 Segmenty budynków
-33. 28.11.23-62.72 Elementy konstrukcyjne
-34. ex 28.11.23-62.79 Elementy konstrukcyjne konstrukcyjnych
-35. 28.11.23-62.8 Elementy konstrukcji
-36. 28.11.23-63 Elementy budowlane
-37. 28.11.23-64 Elementy ramowe
-38. 28.11.23-66 Konstrukcje
-39. 28.11.23-76 Elementy budowlane
-40. 28.11.23-79 Płyty i elementy jachtowych
-42. ex 28.21.11-21.00 Konstrukcje izolowane cieplnie oczyszczalniach ex 28.21.11-22.00 Konstrukcje od środka zbiorniki w ex 28.21.11-23 Konstrukcje wyłącznie wymienniki ex 28.21.11-33 Konstrukcje wyrównawcze ex 28.21.11-51 Konstrukcje c.o. i c.w., zasobniki
-43. 28.22.11-30 Grzejniki nieelektryczne
-28.22.11-50 Grzejniki nieelektryczne
-44. 28.22.12 Kotły centralnego
-28.22.13-00.00 Części kotłów
-28.30.12 Instalacje pomocnicze pary
-45. 28.30.13 Części wytwornic
-46. 28.63.11-30.00 Kłódki z metali
-28.63.12-30.00 Zamki w rodzaju
-28.63.12-50 Zamki w rodzaju -50.50) ex 28.63.13 Okucia zamykające wyłącznie okucia ex 28.63.14 Zawiasy, zamocowania, nieszlachetnych
-28.71.11-00.30 Pojemniki metalowe
-28.71.12-01.41 Pojemniki metalowe
-28.71.12-01.42 Pojemniki metalowe
-28.71.12-03.51 Pojemniki na
-28.71.12-03.52 Pojemniki na ex 28.71.12-03.53 Pojemniki metalowe ex 28.72.12-50.90 Pojemniki z wyłącznie pojemniki ex 28.72.12-70.90 Pojemniki sztywne
-28.72.13-70.70 Korki, pokrywki
-47. 28.73.11-31.50 Sploty i linki
-48. 28.73.12-70.13 Przewody gołe ex 28.73.12-70.30 Przewody gołe
-49. ex 28.73.13-20 Kraty, siatki przecięciach, ex 28.73.13-30 Kraty, siatki ex 28.73.13-43 Kraty, siatki siatek z drutu ex 28.73.13-44 Kraty, siatki wyłączeniem ex 28.73.13-45 Kraty, siatki wyłączeniem
-50. ex 28.74.11 Elementy złączne
-51. 28.75.11-10 Zlewy i umywalki
-28.75.11-21.00 Wanny żeliwne
-28.75.11-25 Wanny stalowe
-28.75.11-31.1 Wyroby sanitarne
-28.75.11-31.2 Wyroby sanitarne
-28.75.11-31.4 Wyroby sanitarne
-28.75.11-31.50 Wyroby sanitarne
-28.75.11-31.86 Syfony umywalkowe
-28.75.11-35.10 Syfony umywalkowe
-28.75.11-37.20 Syfony umywalkowe dalszej obróbki)
-53. 28.75.27-25.40 Pojemniki druciane
-54. 28.75.27-31.10 Drabiny (elementy
-28.75.27-31.90 Szczeble ze
-55. 28.75.27-37.1 Osłony instalacji
-28.75.27-37.2 Elementy instalacji
-28.75.27-37.3 Elementy budowlane
-28.75.27-37.4 Elementy budowlane
-56. 28.75.27-53.10 Grzejniki z aluminium
-57. 28.75.27-55.1 Osłony instalacji
-28.75.27-55.2 Okładziny elewacyjne
-28.75.27-55.3 Elementy instalacji
-58. 28.75.27-59.30 Osprzęt centralnego
-59. 28.75.27-87.1 Znaki informacyjne
-28.75.27-87.2 Znaki informacyjne
-60. 29.11.3 Części silników sferoidalnego
-61. 29.12.24-80.41 Hydrofory
-62. 29.12.41-30.50 Zespoły i części
-29.12.41-70.1 Zespoły i części
-63. bez względu na Armatura metalowa symbol - armatura z - zasuwy, - zawory, - przepustnice,
-64. 29.21.11 Palniki piecowe;
-29.21.14-30.00 Części palników
-65. 29.24.12-30.3 Urządzenia
-29.24.12-70.33 Filtry przykotłowe
-66. 29.71.25-30 Ogrzewacze
-29.71.25-50 Ogrzewacze
-67. ex 29.71.28-10 Kuchnie i kuchenki ex 29.72.11-13 Urządzenia restauracyjnych
-29.72.12-33.10 Piece grzewcze
-29.72.12-33.20 Piece uniwersalne
-29.72.12-70.10 Piece stałopalne,
-29.72.12-70.20 Piece żeliwne ex 29.72.20 Części pieców, części sprzętu
-68. ex 31.20.21-50.30 Bezpieczniki równym ex 31.20.31-70.1 Urządzenia ex 31.20.31-70.2 Urządzenia napięcia
-31.20.32-03.20 Rozdzielnice
-31.20.32-05.20
-69. ex 31.20.40-30.9 Tablice, panele,
-05.90, pozostałe ex 31.20.40-90.30 Części i wyposażenie rozdzielczych
-70. ex 31.30.13-71.1 Przewody elektryczne elektroenergetyczne ex 31.30.13-73.1 Przewody elektryczne ex 31.30.13-75.1 uzbrojone i Przewody elektryczne przewodu większej innych niż instalacyjne,
-71. 31.30.13-71.39 Przewody elektryczne elektroenergetyczne
-31.30.13-73.39 Przewody elektryczne mm – kable
-31.30.13-73.40 Przewody elektryczne, mm – kable elektroenergetyczne
-31.30.13-75.39 Przewody elektryczne przewodu większej
-72. 31.30.14 Przewody elektryczne, przenośnych, (PKWiU 31.30.14-00.9)
-73. 31.50.24-00.1 Tablice i gabloty
-74. ex 31.50.25-11 Oprawy oświetleniowe wody ex 31.50.25-12 Oprawy oświetleniowe przed wnikaniem ex 31.50.25-31 Oprawy oświetleniowe ex 31.50.25-32 Oprawy oświetleniowe stałych ex 31.50.25-39 Oprawy oświetleniowe
-31.50.34-07.1 Oprawy oświetleniowe
-75. ex 31.62.14-50.1 Elementy izolacyjne ceramicznych) rozdzielczych
-76. ex 33.20.52-83.00 Przyrządy do ex 33.20.52-89.00 Przyrządy do przyrządy do
-77. 33.20.63-30 Gazomierze
-33.20.63-50.1 Wodomierze
-33.20.63-70.2 Liczniki elektryczne
-78. 33.20.70-15.00 Termostaty
-33.20.70-19.00 Termostaty
-33.20.70-50.42 Reduktory membranowe
-79. ex 36.63.40-00.2 Wykładziny
-80. bez względu na Urządzenia symbol ciepła oraz zdalnego
-81. bez względu na Panele podłogowe symbol wiórowej
-82. bez względu na Membrany (przepony) symbol nacięcia względnie
-83. bez względu na symbol Usługi i roboty budownictwu
-84. bez względu na Usługi i roboty symbol
-85. bez względu na Usługi w zakresie symbol urządzeń melioracyjnych, symbol 1) Budynki wyznaniowych
-2) Budynki
-3) Budynki
-4) Budynki
-5) Ogólnodostępne
-6) Budynki
-7) Budynki
-8) Budynki
-9) Budynki
-10) Budynki
-11) Pozostałe publicznej Objaśnienia: ex - dotyczy tylko i wyłącznie danego „Załącznik nr 6 Poz.
-1. 14.50.10-00.00 Bitum i ex23.20 Produkty domieszki ex24.66.31-57 Preparaty do obróbki
-24.66.31-79.10
-24.66.31-79.20
-24.66.31-79.30
-24.66.32-70 ex24.66.33-30.00 ex24.66.48-13.00
-36.63.64-00.00 Smary Preparaty Smary Dodatki Płyny hamulcowe produkty Sulfoniany Paliwa
-2. uchylona 2a 40.10.1 Energia
-3. ex29.60.13-50 Broń palna ex29.60.13-70.00 broń myśliwska ex29.60.13-90.90 Broń palna Broń pozostała,
-4. bez względu na Wyposażenie symbol - rulety - stoły - automaty - maszyny - elektroniczne
-5. 34.10.2 Samochody
-6. ex35.12.1 Łodzie
-7. bez względu na Sprzęt symbol
-8. 14.4 Sól
-9. 24.52.11
-24.52.12
-24.52.13-00.00 ex24.52.14-00.00
-24.52.15-00.10
-24.52.19-50.00
-24.52.19-90.10
-24.52.19-90.3
-24.52.19-90.60
-24.52.19-90.90 Perfumy Kosmetyki Kosmetyki Pudry kosmetyczne Pozostałe Dezodoranty Preparaty Środki Preparaty Kosmetyki
-10. uchylona
-11. ex36.50.41-00.00 Karty do
-12. ex18.24.43-33.00 Kapelusze
-18.30.11-50.2 Skóry futerkowe ex18.30.12 Odzież, skór zwierząt
-13. 15.91 Napoje
-15.92 Alkohol
-14. 15.93 Wina gronowe
-15.94 Napoje
-15.95 Wermut
-15. 15.96 Piwo słodowe
-15.98.12-50.30 Piwo bezalkoholowe
-16. uchylona
-17. 16.00.11
-16.00.12-30
-16.00.12-90.20 Cygara, Tytoń do Tytoń do
-18. ex35.12.1 Łodzie dotyczy
-19. bez względu na Pozostałe symbol bezalkoholowych,
-20. skreślona
-21. bez względu na Gaz wykorzystywany symbol Objaśnienia: ex – dotyczy tylko i wyłącznie danego „Załącznik nr 8 Wykaz towarów, Poz
-1. ex 01.11 Zboża, ziemniaki, (PKWiU 01.11.32), bawełny i odziarnionych
-01.11.80) oraz
-2. ex 01.12 Warzywa, specjalne (PKWiU ex 01.12.21-00.49)
-3. 01.13.1 Winogrona
-4. ex 01.13.23 Owoce pozostałe;
-01.12.23-00.30), osobno nie wymienionych
-5. 01.13.24-00.10 Orzechy laskowe
-6. 01.13.24-00.20 Orzechy włoskie
-7. ex01.13.40-00.90 Rośliny przyprawowe
-8. ex 01.2 Zwierzęta żywe
-1) wełny
-00.22,
-2) sierści
-3) skór surowych ex01.25.33-00.00)
-9. ex 02 Produkty gospodarki
-00.11) i faszyny
-10. ex 05 Ryby i inne produkty
-1) ryb morskich
-2) skorupiaków
-3) mączek,
-4) ostryg
-5) bezkręgowców
-6) produktów
-11. ex14.30.13-90.10 Surowce mineralne ziemia ogrodnicza
-12. ex15.11.13-30.90 Tusze i półtusze ex15.11.14-30.90
-13. 15.11.21 Wełna szarpana
-14. ex 15.11.4 Odpady zwierzęce,
-15. 15.12.13-00.3 do
-15.12.13-00.90 Mięso pozostałe
-16. 15.20.11-90.1, Mięso i filety
-15.20.11-90.3,
-15.20.12-30,
-15.20.12-70.1,
-15.20.12-90.10
-17. ex15.33.30-00.22 Obierki, liście
-15.33.30-00.3 Odpady (słoma
-15.33.30-00.80 Żołędzie i kasztany
-18. 15.71.20 Grysik i granulki
-19. ex 24.15.60 Nawozy zwierzęce
-00.40), oraz podłoży
-20. 36.62.11-10 Miotły i szczotki,
-21. 36.63.77-40.10 Materiały rzeźbiarskie Objaśnienia: ex - dotyczy tylko i wyłącznie danego
+pkt 12 otrzymuje brzmienie:
+„
+12)
+działalności rolniczej – rozumie się przez to produkcję roślinną i zwierzęcą, w tym również produkcję materiału siewnego, szkółkarskiego, hodowlanego oraz reprodukcyjnego, produkcję warzywniczą, gruntową, szklarniową i pod folią, produkcję roślin ozdobnych, grzybów uprawnych i sadowniczą, hodowlę i produkcję materiału zarodowego zwierząt, ptactwa i owadów użytkowych, produkcję zwierzęcą typu przemysłowego lub fermowego oraz hodowlę ryb słodkowodnych i pozostałych zwierząt wodnych żywych, a także uprawy w szklarniach i ogrzewanych tunelach foliowych, uprawy grzybów i ich grzybni, uprawy roślin „in vitro”, fermową hodowlę i chów drobiu rzeźnego i nieśnego, wylęgarnie drobiu, hodowlę i chów zwierząt futerkowych i laboratoryjnych, hodowlę dżdżownic, hodowlę entomofagów, hodowlę jedwabników, prowadzenie pasiek oraz hodowlę i chów innych zwierząt poza gospodarstwem rolnym oraz sprzedaż produktów gospodarki leśnej i łowieckiej, z wyjątkiem drewna okrągłego z drzew tropikalnych (PKWiU 02.01.13) oraz bambusa (PKWiU 02.01.42–00.11),
+” ;
+2)
+w art. 6 w ust. 8b:
+a)
+w pkt 1 lit. c otrzymuje brzmienie:
+„
+c)
+świadczenia usług wymienionych w poz. 105 i poz. 125–128 załącznika nr 3 do ustawy,
+” ,
+b)
+pkt 3 otrzymuje brzmienie:
+„
+3)
+wystawienia faktury lub otrzymania całości lub części zapłaty z tytułu sprzedaży gazet, magazynów, czasopism (PKWiU 22.12 i 22.13) oraz książek (PKWiU ex 22.11) – z wyłączeniem książek adresowych o zasięgu krajowym, regionalnym i lokalnym, książek telefonicznych, teleksów i telefaksów (PKWiU 22.11.20–60.10), nut, map i ulotek – nie wcześniej jednak niż w dniu wydania i nie później niż 60 dnia od dnia wydania tych towarów; jeżeli jednak umowa sprzedaży przewiduje rozliczenie zwrotów wydawnictw, obowiązek podatkowy powstaje z chwilą wystawienia faktury dokumentującej faktyczną sprzedaż, nie później niż po upływie 120 dni od pierwszego dnia przekazania do sprzedaży tych wydawnictw,
+” ,
+c)
+pkt 12 otrzymuje brzmienie:
+„
+12)
+otrzymania całości lub części zapłaty z tytułu usług polegających na drukowaniu gazet, magazynów, czasopism (PKWiU 22.12 i 22.13) oraz książek (PKWiU ex 22.11) – z wyłączeniem książek adresowych o zasięgu krajowym, regionalnym i lokalnym, książek telefonicznych, teleksów i telefaksów (PKWiU 22.11.20–60.10), nut, map i ulotek – oznaczonych stosowanymi na podstawie odrębnych przepisów symbolami ISBN i ISSN, nie później jednak niż 90 dnia od dnia wykonania usługi,
+” ;
+3)
+w art. 9 po ust. 9 dodaje się ust. 9a w brzmieniu:
+„
+9a.
+Na wniosek zainteresowanego urząd skarbowy jest obowiązany do potwierdzenia, czy podatnik jest zarejestrowanym podatnikiem podatku od towarów i usług. Zainteresowanym może być zarówno sam podatnik, jak i osoba trzecia mająca interes prawny w złożeniu wniosku.
+” ;
+4)
+w art. 14 ust. 7a otrzymuje brzmienie:
+„
+7a.
+Podatnik, który utracił prawo do zwolnienia od podatku lub zrezygnował z tego zwolnienia, może dopiero po upływie 3 lat, licząc od końca miesiąca, w którym utracił prawo do zwolnienia lub zrezygnował z tego zwolnienia, ponownie skorzystać ze zwolnienia określonego w ust. 1 pkt 1.
+” ;
+5)
+w art. 21 po ust. 2a dodaje się ust. 2b w brzmieniu:
+„
+2b.
+Przepisów ust. 2a nie stosuje się, jeżeli wysokość zwrotu różnicy podatku jest uzasadniona nabyciem towarów i usług, o których mowa w ust. 3.
+” ;
+6)
+po art. 32 dodaje się art. 32a w brzmieniu:
+„
+Art. 32a.
+1.
+Podatnik wystawiający fakturę VAT, na pisemne żądanie nabywcy towaru lub usługi, ma obowiązek:
+1)
+udostępnić do wglądu oryginał lub uwierzytelniony notarialnie odpis potwierdzenia zgłoszenia rejestracyjnego, o którym mowa w art. 9,
+2)
+umożliwić, w zakresie sprzedaży towarów na rzecz nabywcy:
+a)
+wgląd w dowody księgowe oraz ewidencję, o której mowa w art. 27,
+b)
+otrzymanie kopii deklaracji dla podatku od towarów i usług, w tej części, która dokumentuje jej złożenie za okres, w którym powstał obowiązek podatkowy u podatnika będącego sprzedawcą.
+2.
+Podatnik ma obowiązek potwierdzić odbiór pisemnego żądania, o którym mowa w ust. 1.
+3.
+W przypadku gdy nabywca towaru lub usługi posiada potwierdzenie odbioru żądania, o którym mowa w ust. 2, a nie uzyska od podatnika informacji, o których mowa w ust. 1, i zawiadomił o tym właściwy urząd skarbowy, przed rozpoczęciem u niego kontroli, a w trakcie tej kontroli stwierdzone zostanie odliczenie podatku z faktur wystawionych przez podatnika, o którym mowa w ust. 1, niepotwierdzonych kopią, przepisów art. 27 ust. 5–8 w części dotyczącej ustalenia dodatkowego zobowiązania nie stosuje się.
+” ;
+7)
+po art. 35 dodaje się art. 35a w brzmieniu:
+„
+Art. 35a.
+Sprzedawca wyrobów akcyzowych wymienionych w poz. 1, 13, 14, 19 i 21 załącznika nr 6 do ustawy może żądać od nabywcy okazania dowodu tożsamości lub innego dokumentu identyfikującego nabywcę, w przypadkach gdy przepisy nakładają na nabywcę obowiązek złożenia oświadczenia o przeznaczeniu tych wyrobów.
+” ;
+8)
+w art. 40a ust. 1 otrzymuje brzmienie:
+„
+1.
+W rozliczeniach należności za nabyte oleje napędowe do szybkoobrotowych silników z zapłonem samoczynnym (paliwo dieslowe – PKWiU 23.20.15–00.10) podatnicy podatku rolnego prowadzący działalność rolniczą będący właścicielami co najmniej jednego ciągnika rolniczego, zwani dalej „podatnikami podatku rolnego”, mogą stosować bony paliwowe.
+” ;
+9)
+w art. 50:
+a)
+w ust. 5:
+– w pkt 1 lit. a otrzymuje brzmienie: „ a) książek (PKWiU ex 22.11) – z wyłączeniem książek adresowych o zasięgu krajowym, regionalnym i lokalnym, książek telefonicznych, teleksów i telefaksów (PKWiU 22.11.20–60.10), nut, map i ulotek – oznaczonych stosowanymi na podstawie odrębnych przepisów symbolami ISBN, ” ,
+– w pkt 3 lit. a i b otrzymują brzmienie: „ a) książek (PKWiU ex 22.11) – z wyłączeniem książek adresowych o zasięgu krajowym, regionalnym i lokalnym, książek telefonicznych, teleksów i telefaksów (PKWiU 22.11.20–60.10), nut, map i ulotek – oznaczonych stosowanymi na podstawie odrębnych przepisów symbolami ISBN, b) gazet, magazynów i czasopism (PKWiU 22.12 i 22.13) – oznaczonych stosowanymi na podstawie odrębnych przepisów symbolami ISSN, ” ,
+b)
+w ust. 5c pkt 1 otrzymuje brzmienie:
+„
+1)
+sprzedaży w kraju sprzętu komputerowego (bez względu na symbol PKWiU) przeznaczonego dla szkół i przedszkoli, w rozumieniu odpowiednio przepisów o systemie oświaty, o szkolnictwie wyższym oraz o wyższych szkołach zawodowych,
+” ;
+10)
+w art. 51 ust. 3 otrzymuje brzmienie:
+„
+3.
+Przez obiekty budownictwa mieszkaniowego, o których mowa w ust. 1 pkt 2 lit. c), rozumie się budynki mieszkalne rodzinne stałego zamieszkania, sklasyfikowane w Polskiej Klasyfikacji Obiektów Budowlanych: 111 – Budynki mieszkalne jednorodzinne, 112 – Budynki o dwóch mieszkaniach i wielomieszkaniowe, ex 113 – Budynki zbiorowego zamieszkania – wyłącznie: budynki Kościołów i innych związków wyznaniowych, klasztory, domy zakonne, plebanie, kurie i rezydencje biskupie.
+” ;
+11)
+w art. 54 ust. 1 otrzymuje brzmienie:
+„
+1.
+Towary i usługi będące przedmiotem czynności, o których mowa w art. 2, niewymienione w klasyfikacjach wydanych na podstawie przepisów o statystyce publicznej, podlegają opodatkowaniu stawką określoną w art. 18 ust. 1.
+” .
+Art. 2.
+W ustawie z dnia 2 grudnia 1993 r. o oznaczaniu wyrobów znakami skarbowymi akcyzy (Dz. U. Nr 127, poz. 584, z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 770, z 1999 r. Nr 83, poz. 931 oraz z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1323) wprowadza się następujące zmiany:
+1)
+w art. 1 ust. 1 otrzymuje brzmienie:
+„
+1.
+Ustawa określa obowiązek oznaczania znakami skarbowymi akcyzy, zwanymi dalej „znakami akcyzy”, następujących wyrobów oznaczonych symbolem PKWiU według klasyfikacji wydanej na podstawie przepisów o statystyce publicznej:
+1)
+produkty rafinacji ropy naftowej (PKWiU 23.20),
+2)
+preparaty zawierające w masie 70% lub więcej olejów mineralnych, jeżeli nie stanowią zasadniczego ich składnika (PKWiU 24.66.31–57.10),
+3)
+oleje do różnych celów (PKWiU 24.66.31–57.80),
+4)
+napoje alkoholowe destylowane (PKWiU 15.91), alkohol etylowy (PKWiU 15.92),
+5)
+wina gronowe (PKWiU 15.93), napoje fermentowane (np. jabłecznik, wino z gruszek, miód pitny), pozostałe, mieszane napoje zawierające alkohol (PKWiU 15.94), wermut i inne wina ze świeżych winogron przyprawione roślinami lub substancjami aromatycznymi (PKWiU 15.95),
+6)
+piwo słodowe (PKWiU 15.96.1),
+7)
+inne niż wymienione w pkt 4 i 5 napoje alkoholowe o zawartości alkoholu powyżej 1,2% bez względu na symbol PKWiU,
+8)
+cygara, również z obciętymi końcami, cygaretki i papierosy z tytoniu lub namiastek tytoniu (PKWiU 16.00.11), tytoń do palenia (PKWiU 16.00.12–30), tytoń do żucia i tabaka (PKWiU 16.00.12–90.20).
+” ;
+2)
+art. 26 otrzymuje brzmienie:
+„
+Art. 26.
+Rada Ministrów określi, w drodze rozporządzenia, wykaz wyrobów podlegających obowiązkowi oznaczania znakami akcyzy, objętych Polską Klasyfikacją Wyrobów i Usług oraz Polską Scaloną Nomenklaturą Towarową Handlu Zagranicznego.
+” .
+Art. 3.
+W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. Nr 83, poz. 930, z 2000 r. Nr 60, poz. 703 i Nr 62, poz. 717, z 2001 r. Nr 11, poz. 82 i Nr 106, poz. 1149 oraz z 2002 r. Nr 41, poz. 365, Nr 74, poz. 676, Nr 89, poz. 804 i Nr 141, poz. 1178) w art. 62 § 3 otrzymuje brzmienie:
+„
+§ 3.
+Kto wbrew przepisom o podatku od towarów i usług oraz o podatku akcyzowym lub ustawy – Ordynacja podatkowa:
+1)
+nie przechowuje kopii wystawionej faktury lub rachunku,
+2)
+nie zawiadomi właściwego organu podatkowego o miejscu przechowywania ksiąg podatkowych oraz dokumentów związanych z ich prowadzeniem
+podlega karze grzywny do 720 stawek dziennych.
+” .
+Art. 4.
+Załączniki nr 1–3, 5, 6 i 8 do ustawy, o której mowa w art. 1, otrzymują brzmienie określone w załącznikach do niniejszej ustawy.
+Art. 5.
+Zmiany w klasyfikacjach statystycznych wydanych na podstawie przepisów o statystyce publicznej oraz w kluczach powiązań pomiędzy tymi klasyfikacjami, wprowadzone po dniu wejścia w życie niniejszej ustawy, nie powodują zmian wysokości opodatkowania podatkiem od towarów i usług oraz podatkiem akcyzowym.
+Art. 6.
+W przypadku gdy po dniu wejścia w życie niniejszej ustawy wprowadzone zmiany do ustawy, o której mowa w art. 1, dotyczące nowych oznaczeń klasyfikacyjnych towarów, usług oraz obiektów budowlanych (PKWiU, PKOB) prowadziłyby do zmiany dotychczas stosowanych stawek podatku od towarów i usług lub podatku akcyzowego albo prowadziłyby do zwolnienia od podatku lub opodatkowania, podatnik stosuje stawki lub zwolnienie określone w ustawie, o której mowa w art. 1, w brzmieniu obowiązującym na dzień 31 grudnia 2002 r.
+Art. 7.
+Ustawa wchodzi w życie z dniem 1 stycznia 2003 r.
+
+## Załącznik nr 1 — – Wykaz towarów opodatkowanych stawką podatku w wysokości 3%
+
+Poz. Symbol PKWiU Nazwa towaru lub usługi (grupy towarów lub usług) 1. ex 01.11 Zboża, ziemniaki, rośliny przemysłowe i produkty roślinne rolnictwa pozostałe – z wyłączeniem arachidów (orzeszków ziemnych) (PKWiU 01.11.32), bawełny i odziarnionych produktów roślinnych dla przemysłu włókienniczego (PKWiU ex 01.11.7), kauczuku naturalnego (PKWiU 01.11.80) oraz ziół suszonych sortowanych całych 2. ex 01.12 Warzywa, specjalne rośliny ogrodnicze; produkty szkółkarskie, z wyłączeniem podłoży do uprawy grzybów zawierających grzybnie (PKWiU ex 01.12.21–00.49) 3. 01.13.1 Winogrona 4. ex 01.13.23 Owoce pozostałe; ziarna chleba świętojańskiego – z wyłączeniem ziarna chleba świętojańskiego i chleba świętojańskiego (PKWiU 01.13.23–00.30), papaji (PKWiU 01.13.23–00.50), owoców kiwi (PKWiU 01.13.23–00.60) i owoców południowych pozostałych osobno nie wymienionych (PKWiU ex 01.13.23–00.90) 5. 01.13.24–00.10 Orzechy laskowe 6. 01.13.24–00.20 Orzechy włoskie 7. ex 01.13.40–00.90 Rośliny przyprawowe pozostałe – wyłącznie surowce roślin zielarskich oraz nasiona roślin przyprawowych 8. ex 01.2 Zwierzęta żywe i produkty pochodzenia zwierzęcego – z wyłączeniem: 1) wełny (sierści) pranej i włosia surowego pogarbarskiego oraz preparowanego (PKWiU 01.22.31–00.20, 01.22.32–00.12, -00.22, -00.32, -00.42, ex-00.51, -00.52), 2) sierści zwierzęcej cienkiej lub grubej, niezgrzeblonej i nieczesanej pozostałej (PKWiU 01.22.32–00.90), 3) skór surowych świńskich półgarbowanych oraz poubojowych i zakonserwowanych dla przemysłu garbarskiego (PKWiU ex 01.25.33–00.00) 9. 02 Produkty gospodarki leśnej – z wyłączeniem drewna surowego nieobrobionego (PKWiU 02.01.1), bambusa (PKWiU 02.01.42–00.11), faszyny wiklinowej (PKWiU 02.01.42–00.18) i materiałów roślinnych do produkcji mioteł lub szczotek (PKWiU 02.01.42–00.30) 10. 05 Ryby i inne produkty rybołówstwa i rybactwa 11. ex 14.30.13–90.10 Surowce mineralne plastyczne pozostałe, gdzie indziej nie sklasyfikowane (w tym ziemia ogrodnicza i ziemia humus) – wyłącznie ziemia ogrodnicza i ziemia humus 12. 15.11.1 Mięso i podroby jadalne wołowe, wieprzowe, kozie, końskie, z osłów i mułów 13. 15.11.21 Wełna szarpana 14. ex 15.11.3 Tłuszcz wołowy, barani, kozi, wieprzowy i z drobiu – z wyłączeniem tłuszczy technicznych (PKWiU 15.11.30–50.10, -50.40, -70.10) oraz tłuszczy solonych, wędzonych i suszonych wymienionych w załączniku nr 3 15. ex 15.11.4 Odpady zwierzęce, niejadalne – z wyłączeniem odpadów utylizacyjnych wymienionych w załączniku nr 3 16. 15.12 Mięso pozostałe (w tym drobiowe i królicze), świeże, konserwowane oraz produkty uboczne uboju 17. ex 15.20 Ryby i produkty rybne przetworzone i zakonserwowane (łącznie z marynatami) – z wyłączeniem ryb przyrządzonych i zakonserwowanych w inny sposób i kawioru (PKWiU 15.20.14–11.20, -11.30, -11.9, -12.4, -12.5, -12.9, -13.4, -13.5, -13.9, -14.1, -14.20, -14.9, -15.4, -15.5, -15.90, -16.4, -16.5, -16.90, -17.00, -19.7, -19.8, -19.9, -30, -51.00, -59.00), skorupiaków, mięczaków i innych wodnych bezkręgowców, przetworzonych lub zakonserwowanych (PKWiU 15.20.16) oraz mączek, grysików i granulek z ryb, skorupiaków, mięczaków i innych wodnych bezkręgowców, nie nadających się do spożycia przez ludzi (PKWiU 15.20.17) 18. ex 15.33.30–00.22,15.33.30–00.315.33.30–00.80 Obierki, liście i strużyny z warzyw – wyłącznie liście i odpady roślin okopowych i warzyw Odpady – słoma roślin strączkowych, motylkowych i oleistych (z wyłączeniem lnu i konopi) Żołędzie i kasztany 19. 15.41.11 Oleje i tłuszcze zwierzęce, surowe i rafinowane, z wyjątkiem tłuszczy wołowych, owczych, kozich, wieprzowych i drobiowych – z wyłączeniem stearyny smalcowej do zastosowań przemysłowych (PKWiU 15.41.11–30.11), stearyny smalcowej pozostałej (PKWiU 15.41.11–30.21), oleiny (PKWiU 15.41.11–30.31), tłuszczy i olejów zwierzęcych wraz z frakcjami niemodyfikowanych chemicznie pozostałych, rafinowanych, technicznych (PKWiU 15.41.11–90.20), tłuszczy i olejów zwierzęcych innych wraz z frakcjami niemodyfikowanych chemicznie pozostałych, nierafinowanych, technicznych (PKWiU 15.41.11–90.40) 20. 15.42.13–30 Tłuszcze i oleje zwierzęce wraz z frakcjami, utwardzone, itp. 21. 15.51.11 Mleko płynne przetworzone 22. 15.71.20 Grysik i granulki z lucerny (alfalfa) 23. 15.89.12 Jaja bez skorupek oraz żółtka jaj, świeże lub zakonserwowane; białka jajek 24. ex 24.15.60 Nawozy zwierzęce lub roślinne, gdzie indziej nie sklasyfikowane – z wyłączeniem mączek nawozowych (PKWiU 24.15.60–00.1, -00.40), oraz podłoży do uprawy grzybów (PKWiU ex 24.15.60–00.90) 25. ex 24.41.60–50.20 Krew zwierzęca wyłącznie do celów farmaceutycznych 26. 36.62.11–10 Miotły i szczotki, ze związanych razem gałęzi lub innych materiałów roślinnych 27. 36.63.77–30.1 Materiały rzeźbiarskie pochodzenia zwierzęcego 28. 36.63.77–40.10 Materiały rzeźbiarskie obrobione, roślinne 29. Wyroby rękodzieła ludowego i artystycznego atestowane przez krajowe komisje artystyczne i etnograficzne (bez wyrobów jubilerskich, złotniczych, grawerskich, medalierskich i mebli) – wyłącznie: Część I Wyroby rękodzieła ludowego i artystycznego z metalu – wyłącznie: ex 28.61.1 Wyroby nożownicze ex 28.63.14 Zawiasy, zamocowania, obsady i podobne wyroby do pojazdów mechanicznych, drzwi, okien, mebli itp., wykonane z metali nieszlachetnych ex 28.75.24 Statuetki i pozostałe wyroby dekoracyjne oraz ramki do fotografii, obrazków itp., ramki z lusterkami, wykonane z metali pospolitych ex 28.75.27 Wyroby z metali pospolitych pozostałe, gdzie indziej nie sklasyfikowane 28.75.27–43.30 Wyroby kowalstwa artystycznego 28.75.27–59.81 Wyroby brązownicze i kowalstwa artystycznego ex 31.50.2 Lampy i sprzęt oświetleniowy ex 33.50.26 Koperty do zegarków, obudowy do zegarków i ich części ex 36.22.14 Wyroby wykonane z metali szlachetnych pozostałe; wyroby z pereł naturalnych lub hodowlanych, kamieni szlachetnych lub półszlachetnych, z wyłączeniem katalizatorów, w postaci drucianej tkaniny lub siatki, z platyny (PKWiU 36.22.14–70.00) ex 36.61.10 Biżuteria sztuczna Część II Wyroby rękodzieła ludowego i artystycznego z ceramiki – wyłącznie: ex 26.21.11 Zastawy stołowe, naczynia kuchenne i inne artykuły gospodarstwa domowego oraz artykuły toaletowe z porcelany ex 26.21.12 Zastawy stołowe, naczynia kuchenne i inne artykuły gospodarstwa domowego (poza porcelaną) ex 26.21.13 Statuetki i inne dekoracyjne wyroby ceramiczne ex 26.25.12 Wyroby ceramiczne pozostałe, poza budowlanymi, gdzie indziej nie sklasyfikowane ex 31.50.2 Lampy i sprzęt oświetleniowy ex 33.50.26 Koperty do zegarków, obudowy do zegarków i ich części ex 36.61.10 Biżuteria sztuczna ex 36.63.61–39 Fajki i cybuchy z innych materiałów ex 36.63.61–50 Cygarniczki do papierosów i cygar oraz ich części, części fajek ex 92.31.10–00.22 Rzeźby, posągi z dowolnego materiału, oryginalne, współczesne ex 92.31.10–00.42 Wyroby artystyczne z ceramiki, współczesne Część III Wyroby rękodzieła ludowego i artystycznego ze szkła – wyłącznie: ex 26.13.12 Kieliszki i szklanki poza szklano-ceramicznymi ex 26.13.13 Wyroby ze szkła w rodzaju używanych do celów stołowych, kuchennych, toaletowych, biurowych, do dekoracji wnętrz itp. ex 26.15.24 Części szklane do lamp i osprzętu oświetleniowego, podświetlane płyty z nazwami firm itp. ex 26.15.26 Wyroby szklane, gdzie indziej nie sklasyfikowane ex 36.61.10–90.1 Biżuteria sztuczna szklana ex 92.31.10–00.43 Wyroby artystyczne ze szkła, współczesne Część IV Wyroby rękodzieła ludowego i artystycznego z drewna, wikliny, słomy, rogożyny, trzciny, łuby oraz papieru – wyłącznie: ex 20.40.12–50.10 Beczki i komplety beczkowe z drewna iglastego ex 20.40.12–50.20 Beczki i komplety beczkowe z drewna liściastego ex 20.40.12–50.30 Baryłki do płynów drewniane ex 20.51.12 Przybory stołowe i kuchenne drewniane ex 20.51.13 Intarsje i inkrustacje drewniane, kasety drewniane na biżuterię lub sztućce, statuetki i inne ozdoby drewniane ex 20.51.14 Ramy do obrazów, fotografii, luster lub podobnych przedmiotów drewniane i pozostałe artykuły z drewna ex 20.52.15 Wyroby ze słomy lub innych materiałów używanych do wyplatania; wyroby koszykarskie lub plecionkarskie, z wyłączeniem mat ze słomy izolacyjnych dla budownictwa (PKWiU 20.52.15–30.40) oraz wyrobów z materiałów do wyplatania pozostałych (z wyjątkiem roślinnych), gdzie indziej nie sklasyfikowanych (PKWiU 20.52.15–59.00) ex 21.22.11–50 Serwetki i obrusy z papieru, waty celulozowej lub bibułki tissue ex 21.22.12–90 Wyroby do użytku domowego, sanitarne lub do użytku szpitalnego z papieru, waty celulozowej lub bibułki tissue, gdzie indziej nie wymienione ex 21.25.14–77 Wyroby z papieru lub tektury o odpowiednim kształcie i formacie, pozostałe ex 22.22.20–17.00 Pamiętniki ex 22.22.20–80 Albumy na próbki lub do kolekcji, z papieru lub tektury ex 36.61.10–90.91 Biżuteria sztuczna, pozostała z drewna ex 36.63.61–35.10 Fajki i cybuchy z drewna lub korzenia – o charakterze pamiątkarskim ex 36.63.61–50 Cygarniczki do papierosów i cygar oraz ich części, części fajek Część V Wyroby rękodzieła ludowego i artystycznego włókiennicze – wyłącznie: ex 17.20.10 Tkaniny (z wyjątkiem tkanin specjalnych) z włókien naturalnych innych niż bawełniane ex 17.20.20 Tkaniny bawełniane (z wyjątkiem tkanin specjalnych) ex 17.20.40 Tkaniny z okrywą, tkaniny ręcznikowe (w tym frotte) i inne specjalne, z wyłączeniem gazy (bez zaliczonej do 17.54.11–30) – PKWiU 17.20.40–70 oraz tkanin z włókien szklanych (łącznie z taśmami tkanymi) – PKWiU 17.20.40–90 ex 17.40.11 Koce (z wyjątkiem elektrycznych) i pledy turystyczne ex 17.40.12 Bielizna pościelowa ex 17.40.13 Bielizna stołowa ex 17.40.14 Bielizna do celów toaletowych i kuchennych ex 17.40.15 Zasłony (łącznie z draperiami), rolety; zasłony lub lambrekiny łóżkowe ex 17.40.16 Wyroby wyposażenia wnętrz pozostałe, gdzie indziej nie sklasyfikowane; zestawy tkanin i przędzy do wykonywania dywaników, gobelinów itp. ex 17.51.11 Dywany i inne włókiennicze wykładziny podłogowe, wiązane ex 17.51.12 Dywany i inne włókiennicze wykładziny podłogowe tkane ex 17.51.13 Dywany i inne włókiennicze wykładziny podłogowe, igłowane ex 17.51.14 Dywany i pozostałe włókiennicze wykładziny podłogowe, gdzie indziej nie sklasyfikowane (w tym z filcu) ex 17.54.11 Taśmy i wyroby wykończeniowe itp. ex 17.54.12 Tiul i inne tkaniny siatkowe; koronki w sztukach, w taśmach lub w postaci motywu ex 17.54.13 Hafty w sztukach, taśmach lub w postaci motywu Część VI Wyroby rękodzieła ludowego i artystycznego odzieżowe – wyłącznie: ex 17.40.12 Bielizna pościelowa ex 17.40.13 Bielizna stołowa ex 17.71 Wyroby pończosznicze ex 17.72 Pulowery, swetry i podobne wyroby dziane ex 18.22 Ubiory wierzchnie pozostałe, z wyłączeniem odzieży używanej i innych używanych wyrobów włókienniczych (PKWiU 18.22.4) ex 18.23 Bielizna, z wyłączeniem biustonoszy, pasów, gorsetów, szelek, podwiązek i podobnych wyrobów oraz ich części (PKWiU 18.23.25) ex 18.24 Odzież i dodatki odzieżowe pozostałe, gdzie indziej nie sklasyfikowane, z wyłączeniem dresów, ubiorów narciarskich, strojów kąpielowych i innej odzieży, z dzianin (PKWiU 18.24.12) oraz dresów, ubiorów narciarskich i strojów kąpielowych; pozostałych rodzajów odzieży z tkanin (PKWiU 18.24.22) Część VII Wyroby rękodzieła ludowego i artystycznego skórzane – wyłącznie: ex 18.10.10 Odzież ze skóry lub skóry wtórnej ex 18.30.12 Odzież, dodatki odzieżowe oraz inne wyroby wykonane ze skór futerkowych (z wyjątkiem nakryć głowy) ex 19.20.11 Wyroby rymarskie przeznaczone dla każdego rodzaju zwierząt, wykonane z dowolnego materiału ex 19.20.14–50.00 Wyroby ze skór lub skóry wtórnej, gdzie indziej nie sklasyfikowane ex 19.30 Obuwie ex 92.31.10–00.46 Wyroby artystyczne ze skóry, współczesne Część VIII Wyroby rękodzieła ludowego i artystycznego osobno nie wymienione – wyłącznie: ex 33.20.32–55.00 Przyrządy traserskie ex 36.30.12–90.20 Mandoliny i mandole ex 36.30.12–90.30 Banjo ex 36.30.12–90.90 Instrumenty muzyczne strunowe pozostałe, gdzie indziej nie sklasyfikowane ex 36.63.7 Wyroby, gdzie indziej nie sklasyfikowane ex 92.31.10–00.12 Obrazy, rysunki, pastele, grafiki, plakaty, druki reklamowe wykonane ręcznie, współczesne ex 92.31.10–00.22 Rzeźby, posągi z dowolnego materiału oryginalne, współczesne Objaśnienia: ex – dotyczy tylko i wyłącznie danego wyrobu z danego grupowania.
+
+## Załącznik nr 2 — – Wykaz usług, których świadczenie jest zwolnione od podatku
+
+Poz. Symbol PKWiU Nazwa usługi (grupy usług) 1. ex 01.4 Usługi związane z rolnictwem oraz chowem i hodowlą zwierząt, z wyjątkiem usług weterynaryjnych, podkuwania koni i działalności schronisk dla zwierząt 2. ex 02.02.10 Usługi związane z leśnictwem i pozyskiwaniem drewna, z wyłączeniem patrolowania lasów 3. ex 05.00.50 Usługi związane z rybołówstwem i rybactwem, z wyłączeniem usług związanych z rybołówstwem morskim 4. 55.23.11 Usługi świadczone przez obozowiska dla dzieci 5. ex 55.23.15 Usługi krótkotrwałego zakwaterowania pozostałe, gdzie indziej nie sklasyfikowane – wyłącznie usługi w zakresie hoteli pracowniczych, burs, internatów, domów akademickich 6. ex 60.2 Usługi transportu lądowego pozostałe – wyłącznie w zakresie usług taksówkowych, przewozów pasażerskich z wykorzystaniem siły ludzkiej, usług dorożek konnych i przewozów przesyłek pocztowych 7. ex 64.11 Usługi świadczone przez pocztę państwową 8. ex 64.20.1 Usługi transmisji danych i wiadomości – wyłącznie usługi dostępu do sieci Internet świadczone na rzecz szkół, zakładów kształcenia nauczycieli, placówek oświatowych, szkół wyższych, wyższych szkół zawodowych i placówek naukowych Polskiej Akademii Nauk 9. Sekcja J ex (65–67) Usługi pośrednictwa finansowego, z wyłączeniem: 1) działalności lombardów, z wyjątkiem usług świadczonych przez banki, 2) usług polegających na oddaniu w odpłatne użytkowanie rzeczy, 3) usług doradztwa finansowego i maklerów (PKWiU 67.13.10–00.20) 10. ex 70.20.11 Usługi w zakresie wynajmowania lub dzierżawienia nieruchomości o charakterze mieszkalnym na własny rachunek, z wyłączeniem wynajmu lokali w budynkach mieszkalnych na cele inne niż mieszkaniowe 11. ex 70.32.11 Usługi w zakresie zarządzania nieruchomościami mieszkalnymi, świadczone na zlecenie, z wyłączeniem wyceny nieruchomości mieszkalnych 12. 71.31.10 Usługi wynajmu lub dzierżawy maszyn i urządzeń rolniczych, bez obsługi 13. ex 72.40.10 Usługi baz danych – wyłącznie w zakresie informacji naukowej, technicznej i ekonomicznej 14. 73 Usługi naukowo-badawcze 15. ex 74.20.52 Usługi architektonicznego kształtowania krajobrazu, z wyłączeniem usług planistycznych i konstrukcyjnych zapewniających estetykę parków, terenów mieszkalnych czy komercyjnych 16. ex 74.30 Usługi w zakresie badań i analiz technicznych – wyłącznie w zakresie wód, ścieków, powietrza i gleby, usług probierczych i usług w zakresie miar 17. 74.70.11 Usługi dezynfekcji i tępienia szkodników 18. ex 75 Usługi w zakresie administracji publicznej, obrony narodowej, obowiązkowych ubezpieczeń społecznych, z wyłączeniem: 1) usług izb wytrzeźwień, 2) usług wykonywanych na podstawie umów cywilnoprawnych; wyłączenie nie dotyczy usług w zakresie obowiązkowych ubezpieczeń społecznych 19. 80 Usługi w zakresie edukacji 20. ex 85 Usługi w zakresie ochrony zdrowia i opieki społecznej, z wyłączeniem usług paramedycznych oraz mierzenia ciśnienia tętniczego poza placówkami ochrony zdrowia 21. ex 90.00.12 Usługi w zakresie opróżniania szamb – wyłącznie usługi szaletów publicznych 22. 91 Usługi świadczone przez organizacje członkowskie, gdzie indziej nie sklasyfikowane (wyłącznie statutowe) 23. ex 92 Usługi związane z kulturą, rekreacją i sportem – z wyłączeniem: 1) usług związanych z taśmami wideo oraz z wszelkimi filmami reklamowymi i promocyjnymi, 2) działalności agencji informacyjnych, 3) usług wydawania książek i prasy 24. 93.03 Usługi pogrzebowe i pokrewne 25. ex 93.04.10 Usługi związane z poprawą kondycji fizycznej – wyłącznie usługi łaziennicze Objaśnienia: ex – dotyczy tylko i wyłącznie danej usługi z danego grupowania.
+
+## Załącznik nr 3 — – Wykaz towarów i usług, których sprzedaż lub świadczenie jest objęte stawką podatku w wysokości 7%
+
+Poz. Symbol PKWiU Nazwa towaru lub usługi (grupy towarów lub usług) I. Towary związane z gospodarką rolną i leśną 1. ex 01.12.21–00.4 Grzybnia – wyłącznie podłoże do uprawy grzybów zawierające grzybnie 01.22.32–00.52 Włosie końskie, kozie, bydlęce preparowane 01.22.32–00.90 Sierść zwierzęca cienka lub gruba, niezgrzeblona i nieczesana, pozostała, z wyłączeniem surowców przemysłu wełnianego 2. 10.30.10–00.3 Surowiec i półfabrykaty do produkcji torfu dla celów rolniczych 3. 10.30.10–00.4 Wyroby torfowe dla celów rolniczych 4. 14.12.20–10.22 Kreda mielona, pastewna 14.12.20–10.23 Kreda mielona, nawozowa 14.12.20–30.40 Mączka dolomitowa 5. 15.11.30–50.10 Smalec i pozostały tłuszcz wieprzowy wytapiany – do zastosowań przemysłowych innych niż produkcja artykułów spożywanych przez ludzi 15.11.30–50.40 Smalec i pozostały tłuszcz drobiowy wytapiany, niejadalny 15.11.30–70.10 Tłuszcz wołowy, owczy lub kozi, surowy lub wytapiany, do zastosowań przemysłowych innych niż produkcja artykułów spożywanych przez ludzi 6. ex 15.11.4 Odpady zwierzęce, niejadalne – wyłącznie odpady utylizacyjne 7. 15.13.13–00.10 Mączki, grysiki i granulki z mięsa i podrobów, nienadające się do spożycia przez człowieka 15.20.17 Mączki, grysiki i granulki z ryb, skorupiaków, mięczaków i innych wodnych bezkręgowców, nienadające się do spożycia przez ludzi 8. 15.33.30–00.90 Odpady z roślin pozostałych przeznaczone do spożycia przez zwierzęta, gdzie indziej nie wymienione, pozostałe 9. 15.41.11–90.20 Tłuszcze i oleje zwierzęce wraz z frakcjami, niemodyfikowane chemicznie pozostałe, rafinowane, techniczne 15.41.11–90.40 Tłuszcze i oleje zwierzęce inne wraz z frakcjami, niemodyfikowane chemicznie pozostałe, nierafinowane, techniczne 10. ex 15.7 Pasza dla zwierząt – z wyłączeniem grysików i granulek z lucerny (alfalfa) – PKWiU 15.71.20 11. 15.96.20–00.10 Wywar 12. ex 19.10.50 Odpady ze skór wyprawionych, pył, proszek i mączka skórzana – z wyłączeniem odpadków skór garbowanych (bezwłosowych) 13. 24.13.11–20.10 Siarka sublimowana lub strącona 14. 24.14.15 Pochodne węglowodorów pozostałe – wyłącznie: 1) 1, 2, 3, 4, 5, 6-heksachlorocykloheksan (PKWiU 24.14.15–53), 2) Pochodne chlorowcowane węglowodorów cykloalkanowych, cykloakenowych, cykloterpenowych pozostałe (PKWiU 24.14.15–59), 3) DDT (1,1,1-trichloro-2,2-bis(p-chlorofenylo)etan) (PKWiU 24.14.15–75.20) 15. 24.14.64–50 Podpuszczka i jej koncentraty 16. 24.15.10–75.30 Amoniak ciekły nawozowy 24.15.10–77.20 Woda amoniakalna nawozowa 17. ex 24.15.30 Nawozy azotowe, mineralne lub chemiczne, z wyłączeniem amidów kwasów alifatycznych i ich pochodnych, związków azotu oraz cyjanamidu wapniowego 24.15.40 Nawozy fosforowe, mineralne lub chemiczne ex 24.15.50 Nawozy potasowe, mineralne lub chemiczne, z wyłączeniem chlorku potasowego 24.15.60–00.1 Mączki nawozowe ex 24.15.60–00.90 Nawozy zwierzęce lub roślinne pozostałe osobno nie wymienione – wyłącznie podłoże do upraw grzybów, bez wsianej grzybni 24.15.70–70.20 Saletra sodowa nawozowa ex 24.15.80 Nawozy, gdzie indziej niesklasyfikowane, z wyłączeniem związków azotu 18. ex 24.2 Pestycydy i inne środki agrochemiczne, z wyłączeniem wyrobów chemii gospodarczej (PKWiU ex 24.20.14) 19. 24.62.10–20.10 Albumina techniczna 24.62.10–20.20 Albumina mleka 24.62.10–30 Żelatyna i jej pochodne (z wyjątkiem klejów kazeinowych) 20. 26.52.10 Wapno 21. 28.21.11–39 Zbiorniki do przewozu nawozów płynnych o pojemności większej lub równej 300 l 28.21.11–56.00 Silosy zbożowe 28.62.10 Narzędzia ręczne w rodzaju stosowanych w rolnictwie, ogrodnictwie lub leśnictwie, z wyłączeniem sekatorów jednoręcznych – nożyc do drobiu (PKWiU 28.62.10–50.20) 28.62.50–63 Noże i ostrza tnące do maszyn rolniczych, ogrodniczych lub stosowanych w leśnictwie 28.75.27–25.10 Skrzynki małe i wybiegi dla drobiu 28.75.27–31.30 Drabiny specjalne do zbioru nasion, ze stali 29.22.16–30.40 Wyciągi pionowe i pochyłe dla gospodarki hodowlanej i podwórzowej, pozostałe 29.22.16–50.40 Urządzenia do mechanizacji za- i wyładunku w gospodarce hodowlanej i podwórzowej z napędem nieelektrycznym – pozostałe 29.22.17–10 Wyciągi i przenośniki pneumatyczne do pracy w rolnictwie 29.22.17–50.20 Przenośniki kubełkowe (czerpakowe) do załadunku kolumn i parników dla przetwórstwa paszowego 29.22.17–50.30 Przenośniki kubełkowe (czerpakowe) do transportu pionowego ziarna 29.22.17–70.23 Przenośniki do załadunku kolumn i parników w przetwórstwie paszowym 29.22.17–70.24 Przenośniki taśmowe dla gospodarki hodowlanej i podwórzowej 29.22.17–95.28 Przenośniki zgarniakowe do transportu ziarna w magazynach 29.22.17–95.53 Przenośniki śrubowe (ślimakowe) dla gospodarki hodowlanej i podwórzowej 29.22.17–95.66 Przenośniki wibracyjne do ziarna, nawozów mineralnych i innych materiałów ziarnistych 29.22.18–50 Ładowarki i ładowacze do pracy w rolnictwie 29.22.19–30.55 Części maszyn i urządzeń transportowych dla gospodarki hodowlanej 29.22.19–30.56 Części do ładowaczy rolniczych 29.23.30–90.30 Części maszyn i urządzeń do przygotowywania pasz i dla hodowli (do parników, warników itp.) 29.24.53–30.50 Części urządzeń do rozpraszania i rozpylania cieczy i proszków dla rolnictwa i ogrodnictwa (PKWiU 29.32.40) ex 29.31 Ciągniki rolnicze – z wyłączeniem ciągników gąsienicowych, półgąsienicowych, nośników narzędzi i podwozi samojezdnych ex 29.32 Maszyny dla rolnictwa i leśnictwa pozostałe – z wyłączeniem maszyn i sprzętu do pielęgnacji terenów przydomowych (PKWiU ex 29.32.20), maszyn do sortowania, czyszczenia i prześwietlania jaj (PKWiU ex 29.32.61–30), klatek ozdobnych dla zwierząt domowych (PKWiU 29.32.65–50.46) ex 29.40.51–50.1 Piły łańcuchowe spalinowe ręczne – wyłącznie dla rolnictwa i leśnictwa 29.53.15–50 Suszarki do produktów rolniczych 29.53.21–30.10 Części dojarek mechanicznych 34.20.23–00.93 Przyczepy i naczepy do ciągników rolniczych, z wyjątkiem samowyładowczych i samozaładowczych 35.50.10–00.93 Wózki ręczne metalowe (w tym taczki) 22. 36.63.77–40.50 Żelatyna nieutwardzona, obrobiona oraz wyroby z żelatyny nieutwardzonej, obrobionej II. Towary związane z ochroną zdrowia 23. 15.89.20–00.11 Soki i ekstrakty roślinne – z opium 24. 17.54.31 Wata z materiałów włókienniczych i wyroby z tego rodzaju waty, kłaczki włókiennicze, puch włókienniczy, resztki włókien z przemiału – z wyłączeniem waty konfekcyjnej (PKWiU 17.54.31–50.10), kosmyków włókienniczych i proszku oraz rozdrobnionych resztek włókien (PKWiU 17.54.31–50.80) 25. 20.51.14–50.91 Elementy składowe i wymienne do wyrobów ortopedycznych, rehabilitacyjnych i protetycznych drewniane 26. 21.22.12–10.10 Podpaski higieniczne z papieru, waty celulozowej lub bibułki tissue 21.22.12–10.20 Tampony higieniczne z papieru, waty celulozowej lub bibułki tissue 21.22.12–10.30 Wata celulozowa paczkowana 27. 21.22.12–30.20 Pieluszki i podobne artykuły sanitarne dla dorosłych 28. 24.14.51–39.10 Cysteina, cystyna i ich pochodne 29. ex 24.4 Substancje farmaceutyczne, chemikalia lecznicze i produkty botaniczne – z wyłączeniem: 1) krwi zwierzęcej wyłącznie do celów farmaceutycznych (PKWiU ex 24.41.60–50.20), 2) kwasu salicylowego i jego soli (PKWiU 24.41.10–30), 3) amidów cyklicznych, ich pochodnych i ich soli (PKWiU 24.41.20–70.10), 4) związków węglowodorów szeregu benzenu inne (PKWiU ex 24.41.32–00.90), 5) pirazolonów i pochodnych (PKWiU ex 24.41.31–30.90), 6) propionianów i salicylanów (PKWiU ex 24.41.10–70.90) 30. 24.64.11–30.10 Film i płyty fotograficzne płaskie do promieni rentgenowskich, do stosowania w medycynie, dentystyce i weterynarii ex 24.64.11–50.20 Film fotograficzny w rolkach do promieni rentgenowskich, do zastosowań nieprzemysłowych – wyłącznie medyczny Błony rentgenowskie diagnostyczne nie sklasyfikowane w grupowaniach PKWiU: 24.64.11–30.10 i 24.64.11–50.20 31. 24.66.42–10.60 Testy i odczynniki diagnostyczne, medyczne 24.66.42–30.30 Materiały formierskie dentystyczne na bazie wosku, w opakowaniach do sprzedaży detalicznej 24.66.42–30.40 Materiały formierskie dentystyczne na bazie gipsu 24.66.42–30.90 Pasty modelarskie i pozostałe preparaty; preparaty do stosowania w dentystyce na bazie gipsu, pozostałe ex 24.66.42–70.00 Gotowe pożywki do hodowli mikroorganizmów – wyłącznie dla farmacji ex 24.66.48–63.00 Produkty i preparaty do użytku farmaceutycznego i chirurgicznego, z wyłączeniem wyrobów z ceramiki szlachetnej 32. ex 25.13.30 Przewody, rury i węże z gumy (z wyjątkiem ebonitowych) – wyłącznie węże medyczne 33. 25.13.60–30.00 Rękawice chirurgiczne 34. 25.13.71 Wyroby higieniczne i farmaceutyczne (w tym odciągacze do mleka), z kauczuku wulkanizowanego, innego niż ebonit 35. 28.74.12–50.50 Nity ze stali do wyrobów ortopedycznych, rehabilitacyjnych i protetycznych 36. 29.23.30–90.50 Części do narzędzi, przyrządów, aparatów i urządzeń medycyny ogólnej (do sterylizacji narzędzi, dezynfekcji, wyjaławiania, itp.) 37. 29.56.12–50.73 Maszyny poligraficzne do pisma Braille'a 30.01.12–00.31 Maszyny do pisania dla niewidomych 30.02.16–00.10 Urządzenia komputerowe do pisma Braille'a (dla ociemniałych) 38. ex 33.10.15–11 Strzykawki używane w lecznictwie, chirurgii, stomatologii lub weterynarii – z wyłączeniem strzykawek weterynaryjnych ex 33.10.15–13.00 Igły metalowe do zastrzyków stosowane w lecznictwie – z wyłączeniem igieł weterynaryjnych i okulistycznych ex 33.10.15–17.10 Igły (z wyjątkiem metalowych igieł do zastrzyków lub zakładania szwów) – z wyłączeniem igieł weterynaryjnych i okulistycznych 39. ex 33.10.15–33.00 Przyrządy i aparatura do pomiaru ciśnienia krwi – z wyłączeniem mierników ciśnienia krwi do intensywnego nadzoru 40. ex 33.10.15–63.00 Aparatura do transfuzji – z wyłączeniem aparatów do przetaczania krwi szklanych 41. ex 33.10.17 Sztuczne stawy; przyrządy, aparaty i protezy ortopedyczne; sztuczne zęby; protezy dentystyczne; protezy innych części ciała, gdzie indziej nie sklasyfikowane – z wyłączeniem szyn do kończyn, zestawów do zespolenia kości, przyrządów i aparatów do chirurgii urazowej i ortopedii, śrub regulacyjnych ortodontycznych ex 33.10.18 Aparaty słuchowe; stymulatory serca; ich części; części i akcesoria protez i przyrządów ortopedycznych, gdzie indziej nie sklasyfikowane – z wyłączeniem części do aparatów słuchowych (PKWiU 33.10.18–39.00) oraz stymulatorów serca (PKWiU 33.10.18–50.00) ex 33.40.11 Soczewki kontaktowe; soczewki okularowe ze szkła; soczewki okularowe z innych materiałów – z wyłączeniem soczewek kontaktowych i soczewek okularowych z innych materiałów niż szkło 42. ex 34.10.2 Samochody osobowe – wyłącznie samochody osobowe Fiat 126 przystosowane fabrycznie dla inwalidów 43. 35.43.11 Wózki inwalidzkie 44. bez względu na symbol PKWiU Produkty uzdrowisk (bez napojów mineralnych) – wyłącznie: 1) środki do kąpieli leczniczych: sól jodobromowa, szlam i ług, 2) środki do okładów leczniczych, w tym kostki borowinowe, 3) środki skoncentrowane do kuracji pitnej, w tym tabletki „ZUBER” 45. bez względu na symbol PKWiU Wyroby rehabilitacyjne (z wyłączeniem obuwia na stopy wrażliwe) posiadające właściwe atesty, stwierdzające ich działalność rehabilitacyjną upoważnionych do tego jednostek 46. bez względu na symbol PKWiU Wyroby farmaceutyczne oraz farmaceutyczne zielarskie, inne niż wymienione w poz. 29, uznane za farmaceutyczne na podstawie odrębnych przepisów III. Wyroby przemysłu spożywczego 47. 01.11.32 Arachidy (orzeszki ziemne) 48. ex 01.25.33–00.00 Skóry surowe innych zwierząt, gdzie indziej nie sklasyfikowane (świeże lub zakonserwowane, lecz dalej nie obrobione) – wyłącznie skóry świńskie 49. 15.11.22 Skóry i skórki bydlęce lub ze zwierząt jednokopytnych, surowe 50. 15.11.23 Skóry i skórki owcze lub jagnięce, kozie lub koźlęce, surowe 51. ex 15.11.3 Tłuszcz wołowy, wieprzowy, barani, kozi i z drobiu – wyłącznie tłuszcze spożywcze solone, wędzone i suszone 52. ex 15.13.1 Konserwy i przetwory z mięsa, podrobów mięsnych lub krwi – z wyłączeniem niejadalnych mączek, grysików i granulek z mięsa i podrobów (PKWiU 15.13.13–00.10) 53. ex 15.20.14 Ryby przyrządzone lub zakonserwowane w inny sposób; kawior – dotyczy wyłącznie 15.20.14–11.20, -11.30, -11.9, -12.4, -12.5, -12.9, -13.4, -13.5, -13.9, -14.1, -14.20, -14.9, -15.4, -15.5, -15.90, -16.4, -16.5, -16.90, -17.00, -19.7, -19.8, -19.9, -30, -51.00, -59.00 54. 15.20.16 Skorupiaki, mięczaki i inne wodne bezkręgowce, przyrządzone lub zakonserwowane 55. ex 15.3 Owoce i warzywa przetworzone i zakonserwowane – z wyłączeniem odpadów powstałych przy produkcji rolnej oraz odpadów powstałych w placówkach żywienia zbiorowego 56. 15.41.12, 15.41.13, 15.41.3, 15.42.11, 15.42.12, 15.42.13–50, 15.42.20–50.2, 15.43 Oleje i tłuszcze roślinne, makuchy i inne stałe pozostałości po ekstrakcji tłuszczów i olejów pochodzenia roślinnego, mąka i grysik z nasion i owoców oleistych, margaryna i podobne tłuszcze jadalne 57. ex 15.5 Produkty mleczarskie – z wyłączeniem mleka płynnego przetworzonego (PKWiU 15.51.11) 58. 15.6 Produkty przemiału zbóż, skrobie i produkty skrobiowe 59. 15.81.1 Pieczywo, wyroby piekarskie i ciastkarskie, świeże 60. ex 15.83 Cukier – z wyłączeniem cukru zawierającego dodatek środków aromatyzujących lub barwiących (PKWiU 15.83.13–30 i 15.83.13–50.10) 61. 15.84.24 Owoce, orzechy, skórki z owoców i inne części roślin konserwowane cukrem 62. 15.85 Makaron, kluski i podobne produkty mączne 63. 15.86.12–70 Cykoria palona, pozostałe palone namiastki kawy oraz ich ekstrakty, esencje i koncentraty 64. ex 15.87.12 Sosy, mieszanki przyprawowe, mąka i grysik z gorczycy oraz gotowa musztarda- z wyłączeniem musztardy (PKWiU 15.87.12–55) 65. 15.88 Przetwory homogenizowane oraz żywność dietetyczna 66. 15.89.11 Zupy i buliony oraz przetwory z nich 67. ex 15.89.14 Produkty spożywcze pozostałe, gdzie indziej nie sklasyfikowane – z wyłączeniem ekstraktów słodowych (PKWiU 15.89.14–30.1) 68. 15.89.20–00.2 Substancje pektynowe, pektyniany i pektyny 15.89.20–00.3 Śluzy i zagęszczacze pochodzące z produktów roślinnych, w tym modyfikowane 69. 15.98.11–50.30 Lód naturalny 15.98.11–50.40 Lód sztuczny 70. 15.98.12–50.10 Napoje owocowe pitne 15.98.12–50.20 Napoje owocowo-warzywne, również warzywne 15.98.12–50.50 Nektary 71. 15.98.12–70 Napoje bezalkoholowe zawierające tłuszcz mlekowy, pozostałe 72. 24.14.64–70 Enzymy; preparaty enzymatyczne (gdzie indziej nie wymienione ani nie włączone) 73. ex 24.66.41 Peptony, substancje białkowe i ich pochodne, gdzie indziej nie sklasyfikowane; proszek skórzany – wyłącznie izolaty białkowe 74. ex 24.66.42–70 Gotowe pożywki do hodowli mikroorganizmów – wyłącznie podłoże mikrobiologiczne mleczarskie IV. Towary dla dzieci 75. ex 17.20.20 Tkaniny bawełniane (z wyjątkiem tkanin specjalnych) – wyłącznie na pieluszki 76. ex 17.54.31–50.40 Wyroby opatrunkowe i higieniczne z waty i watowo-gazowe – wyłącznie pieluszki 77. ex 17.7 Wyroby dziane – wyłącznie dla dzieci do 150 cm wzrostu 78. ex 18.2 Odzież i dodatki odzieżowe, z wyjątkiem odzieży skórzanej – wyłącznie dla dzieci do 150 cm wzrostu, w tym pieluchy bawełniane oraz artykuły mundurowe dla zuchów i harcerzy 79. 19.20.12–10.49 Tornistry z materiałów pozostałych 80. ex 19.3 Obuwie – wyłącznie obuwie o numeracji metrycznej do 23 cm 81. 21.22.12–30.10 Pieluszki, wkładki do pieluch i podobne artykuły sanitarne dla niemowląt 82. ex 21.23.13–59.00 Papier i tektura pozostałe, stosowane do pisania, druku lub innych celów graficznych, gdzie indziej nie wymienione – wyłącznie papier milimetrowy i nutowy 22.22.20–15.30 Szkicowniki 22.22.20–19.00 Dzienniki i podobne wyroby pozostałe, gdzie indziej nie wymienione 22.22.20–30 Zeszyty szkolne i bruliony 22.22.20–50.20 Teczki, bloki, szkicowniki i wkłady do nich 22.22.20–50.30 Okładki papierowe ex 22.22.20–90 Bibuły, okładki na książki i inne artykuły piśmiennicze z papieru – z wyłączeniem laurek, dyplomów i galanterii papierniczej o charakterze pamiątkarskim 24.30.23–50.10 Akwarele szkolne w kompletach 24.30.23–70.10 Akwarele szkolne w guziczkach luzem 83. ex 24.52.14 Pudry kosmetyczne i higieniczne – wyłącznie dla dzieci do lat 3 84. ex 24.52.15–00.50 Kosmetyki do pielęgnacji ciała – płyny, kremy również dla niemowląt – wyłącznie dla dzieci do lat 3 85. 24.66.42–30.20 Plastelina 86. 25.13.73–21.00 Gumki do wycierania 87. 25.24.10–00.71 Śliniaczki z folii z tworzyw sztucznych 88. 25.24.27–00.21 Okładki z tworzyw sztucznych 89. 25.24.27–00.91 Piórniki szkolne 90. 28.61.13–30.20 Temperówki do ołówków i ostrza do nich 91. Podgrzewacze do butelek dla niemowląt 92. ex 33.20.32–53 Zestawy kreślarskie – wyłącznie zestawy szkolne 93. ex 33.20.33–59.90 Pozostałe ręczne przyrządy do pomiaru długości, gdzie indziej nie wymienione – wyłącznie przybory szkolne 94. ex 36.63.24 Ołówki, kredki, grafity, pastele, węgle rysunkowe, kredy do pisania lub rysowania, kredy krawieckie – wyłącznie przybory szkolne 95. 36.63.25–10.00 Tabliczki i tablice do pisania, kreślenia i rysowania 96. 36.63.72–30 Wózki dziecięce 97. ex 36.63.74–00 Przyrządy, aparaty i modele przeznaczone wyłącznie do celów pokazowych (wystawienniczych, edukacyjnych itp.) – wyłącznie pomoce naukowe oraz specjalistyczny sprzęt szkolny i przedszkolny 98. bez względu na symbol PKWiU Butelki dla niemowląt V. Towary inne 99. 20.10.40–05.30 Brykiety z trocin 100. ex 22.11 Książki, nuty i mapy – z wyłączeniem: książek adresowych o zasięgu krajowym, regionalnym, lokalnym; książek telefonicznych, teleksów i telefaksów (PKWiU 22.11.20–60.10), i ulotek 101. 22.12 i 22.13 Gazety, magazyny i czasopisma 102. 36.30.1 Instrumenty muzyczne i ich części (w tym akcesoria muzyczne) VI. Usługi 103. ex 11.20.11 Usługi wiertnicze związane z wydobywaniem ropy naftowej i gazu ziemnego – z wyłączeniem usług objętych stawką 0% na podstawie odrębnych przepisów 104. ex 33.10.92–00.00 Usługi napraw i konserwacji urządzeń i sprzętu medycznego, w tym chirurgicznego oraz rehabilitacyjnego – wyłącznie usługi w zakresie napraw aparatów dla słabo słyszących 105. 41.00.20 Usługi w zakresie rozprowadzania wody 106. 45.21.2 Roboty ogólnobudowlane związane z budową obiektów mostowych, tuneli i przejść podziemnych 107. 45.23.1 Roboty ogólnobudowlane związane z budową autostrad, dróg kołowych i szynowych oraz pasów startowych 108. ex 55 Usługi hoteli i restauracji, z wyłączeniem: 1) usług świadczonych przez obozowiska dla dzieci (PKWiU 55.23.11), 2) usług hoteli pracowniczych, burs, internatów, domów akademickich (PKWiU ex 55.23.15), 3) sprzedaży napojów alkoholowych o zawartości alkoholu powyżej 1,2 % oraz napojów alkoholowych będących mieszaniną piwa i napojów bezalkoholowych, w których zawartość alkoholu przekracza 0,5%, 4) sprzedaży kawy i herbaty (wraz z dodatkami), napojów bezalkoholowych gazowanych, wód mineralnych, a także sprzedaży w stanie nie przetworzonym innych towarów opodatkowanych stawką 22% 109. 60.10.1 Usługi w zakresie kolejowych przewozów pasażerskich międzymiastowych 110. 60.21 Usługi pasażerskiego transportu rozkładowego lądowego pozostałe 111. 60.22.12 Usługi w zakresie wynajmowania samochodów osobowych z kierowcą 112. ex 60.23 Usługi pasażerskiego transportu lądowego pozostałe – z wyłączeniem usług dorożek konnych oraz przewozów z wykorzystaniem ludzkiej lub zwierzęcej siły pociągowej (PKWiU 60.23.13) 113. 61.10.1 Usługi morskiego i przybrzeżnego transportu pasażerskiego 114. 61.20.1 Usługi wodnego śródlądowego transportu pasażerskiego 115. 61.20.3 Usługi wynajmowania statków śródlądowych z załogą; usługi holowania i pchania w wodnym transporcie śródlądowym 116. 62.10.1 Przewozy lotnicze rozkładowe pasażerskie 117. 62.20.1 Przewozy lotnicze pozarozkładowe pasażerskie 118. ex 62.20.3 Usługi wynajmowania środków transportu lotniczego z załogą – wyłącznie usługi wynajmowania pasażerskich środków transportu lotniczego 119. 63.21.22–00.10 Usługi pobierania opłat za przejazd autostradą 120. 63.3 Usługi organizatorów i pośredników turystycznych – z wyłączeniem usług pośrednictwa w sprzedaży biletów, miejsc zakwaterowania i wycieczek z kompleksowym programem imprez (PKWiU 63.30.12) 121. ex 64.20.1 Usługi transmisji danych i wiadomości – wyłącznie usługi dostępu do sieci Internet świadczone na rzecz innych usługobiorców niż wymienieni w załączniku nr 2 w poz. 8 122. ex 74.20.7 Usługi naukowe i techniczne doradztwa związanego z problematyką inżynierską – wyłącznie w zakresie: 1) usług geologicznych, 2) geodezyjno-kartograficznych 123. ex 74.40.1 Usługi reklamowe – wyłącznie usługi zamieszczania ogłoszeń prasowych zleconych przez osoby fizyczne nie prowadzące działalności gospodarczej 124. 74.70.15 Usługi czyszczenia pieców i kominów 125. 90.00.11 Usługi w zakresie odprowadzania, oczyszczania i likwidacji ścieków 126. ex 90.00.12 Usługi w zakresie opróżniania szamb – z wyłączeniem usług szaletów publicznych 127. 90.00.2 Usługi w zakresie wywozu i zagospodarowywania śmieci i odpadów 128. 90.00.30 Oczyszczanie dróg kołowych, ulic, placów i innych terenów, usuwanie śniegu i lodu 129. bez względu na symbol PKWiU Usługi związane z maszynami, urządzeniami i narzędziami dla gospodarki rolnej, leśnej i ogrodniczej 130. bez względu na symbol PKWiU Usługi związane z ciągnikami uniwersalnymi rolniczymi 131. bez względu na symbol PKWiU Usługi związane z naprawą i regeneracją zespołów i części do ciągników uniwersalnych rolniczych oraz do sprzętu rolniczego, leśnego i ogrodniczego 132. bez względu na symbol PKWiU Usługi ratownictwa górniczego 133. bez względu na symbol PKWiU Usługi związane ze sprzedażą towarów, wymienionych w poz. 29, 31 i 46, wykonywane na podstawie umowy agencyjnej lub zlecenia, pośrednictwa, komisu lub innych umów o podobnym charakterze 134. bez względu na symbol PKWiU Usługi napraw i konserwacji wyrobów ortopedycznych, rehabilitacyjnych i protetycznych z pozycji 25, 35, 41, 43 i 45 Objaśnienia: ex – dotyczy tylko i wyłącznie danego wyrobu/usługi z danego grupowania.
+
+## Załącznik nr 4 — – Wykaz materiałów i usług (robót budowlanych), których sprzedaż jest objęta stawką podatku w wysokości 7%
+
+Poz. Symbol PKWiU Nazwa towaru lub usługi ( grupy towaru lub usług) 1. ex 14.21 Żwir i piasek – wyłącznie kruszywo budowlane, bez kruszywa z żużla wielkopiecowego 2. 20.10.10–73.00 Klepki, listwy i fryzy do parkietów, nie łączone (z drewna tropikalnego) 3. 20.10.10–77.20 Listwy dębowe do parkietów 20.10.10–77.30 Deszczułki posadzkowe lite dębowe 20.10.10–78.1 Deszczułki posadzkowe lite z drewna liściastego pozostałe 20.10.10–78.20 Listwy przyścienne z drewna liściastego pozostałe 20.10.10–78.90 Klepki, listwy i fryzy na parkiet wykonane z drewna liściastego, pozostałe 20.10.21–10.1 Tarcica podłogowa strugana iglasta 20.10.21–10.20 Listwy przyścienne z drewna iglastego ex 20.10.21–10.30 Kostka brukowa z drewna iglastego – z wyłączeniem nasyconej ex 20.10.21–10.90 Drewno iglaste kształtowane w sposób ciągły (łącznie z klepkami i listwami na parkiet nie połączonymi), pozostałe – z wyłączeniem nasyconego ex 20.10.21–53.20 Kostka brukowa z drewna liściastego – z wyłączeniem nasyconej ex 20.10.21–53.90 Drewno liściaste kształtowane w sposób ciągły (bez klepek, listew na parkiet), pozostałe – z wyłączeniem nasyconego 20.10.21–55.00 Klepki, listwy i fryzy na parkiet wykonane z drewna liściastego (obrobione) 4. 20.30.11 Okna i drzwi, ościeżnice i progi drewniane 20.30.12–15.00 Płyty parkietowe z drewna, do podłóg mozaikowych 20.30.12–19 Płyty parkietowe z drewna, pozostałe 20.30.20–02.10 Komplety elementów budynków mieszkalnych i letnich z drewna (konstrukcji gwoździowej, klejowej, gwoździowo-klejowej, litej i innej) 5. ex 21.24.11 Tapety papierowe i inne okładziny ścienne; papier transparentowy do okien – z wyłączeniem papieru transparentowego do okien 6. 23.20.32–00.20 Asfalty drogowe stałe 23.20.32–00.30 Asfalty drogowe upłynnione 23.20.32–00.4 Asfalty przemysłowe 23.20.32–00.5 Asfalty specjalne – z wyłączeniem ekstraktów z rafinacji selektywnej olejów (PKWiU 23.20.32–00.55) 7. 24.30.22–53.10 Kity szklarskie 24.30.22–53.20 Kity budowlane uszczelniające 8. 24.30.22–60.00 Nieogniotrwałe preparaty powierzchniowe 9. ex 24.62.10–70 Produkty odpowiednie do stosowania jako kleje lub spoiwa, przeznaczone do sprzedaży detalicznej, w opakowaniach o masie mniejszej lub równej 1 kg – wyłącznie kleje winylowe: na bazie polioctanu winylu, z pochodnych winylowych i z kopolimerów butadienu ex 24.62.10–80 Spoiwa na bazie kauczuku lub tworzyw sztucznych (łącznie ze sztucznymi żywicami) w opakowaniach przeznaczonych do sprzedaży detalicznej – wyłącznie kleje winylowe: na bazie polioctanu winylu, z pochodnych winylowych i z kopolimerów butadienu ex 24.62.10–90 Gotowe kleje i inne gotowe spoiwa w opakowaniach o masie powyżej 1 kg przeznaczone do sprzedaży detalicznej, gdzie indziej nie wymienione – wyłącznie kleje winylowe: na bazie polioctanu winylu, z pochodnych winylowych i z kopolimerów butadienu 10. ex 25.21.2 Rury, przewody i węże oraz ich osprzęt z tworzyw sztucznych – z wyłączeniem węży i sztucznych jelit do kiełbas 11. ex 25.21.41–20.00 Komórkowe płyty, taśmy, folie z polimerów styrenu – wyłącznie płyty z polistyrenu spienionego (styropianu) 25.21.41–50.20 Płyty komórkowe z poliuretanów 25.21.42–30.10 Płyty faliste z poliestrów 12. ex 25.23 Wyroby z tworzyw sztucznych dla budownictwa – z wyłączeniem budynków prefabrykowanych z tworzyw sztucznych (PKWiU 25.23.2), zbiorników kadzi, cystern i podobnych pojemników o pojemności powyżej 300 l, z tworzyw sztucznych do innych zastosowań (PKWiU ex 25.23.13), stolarki okrętowej (PKWiU 25.23.14–50.2, 25.23.14–50.50) 13. 25.24.28–40.00 Perforowane kubły i podobne artykuły do filtrowania wody przy wejściu do ścieków 14. ex 26.11 Szkło płaskie – wyłącznie szkło budowlane ex 26.12 Szkło płaskie profilowane i poddane dalszej obróbce – wyłącznie szkło budowlane 15. 26.14.12 Arkusze cienkie, maty, materace, tektura i inne artykuły z włókien szklanych, poza tkaninami – z wyłączeniem mat szklanych bezalkalicznych (PKWiU 26.14.12–10.20) 16. ex 26.15.12 Płyty chodnikowe, cegły, płytki do wykładania podłóg, ścian, dachów i inne artykuły ze szkła sprasowanego lub ukształtowanego w formach; szyby ze szkła ołowiowego itp.; szkło wielokomórkowe i piankowe w blokach, płytach i podobnych formach – z wyłączeniem witraży 17. 26.22 Wyroby sanitarne ceramiczne 18. 26.30.1 Płytki ceramiczne (ścienne, podłogowe, kafle itp.) i płyty chodnikowe 19. ex 26.40 Cegły, dachówki i pozostałe ceramiczne materiały budowlane – z wyłączeniem przewodów kwasoodpornych kamionkowych (PKWiU 26.40.13–00.7) oraz przewodów digestoryjnych kamionkowych (PKWiU 26.40.13–00.8) 20. 26.5 Cement, wapno i gips 21. ex 26.6 Wyroby z betonu i gipsu, z wyłączeniem: 1) płyt kamiennych surowych, 2) wyrobów ze sztucznego kamienia „Lastrico”, w tym pomników i nagrobków – z wyjątkiem: płyt parapetowych, płyt okładzinowych stopni schodowych i ścian oraz wykładzin posadzkowych 22. 26.82.11–50.10 Papier z azbestu lub mieszanin na bazie azbestu lub azbestu i węglanu magnezowego 26.82.11–50.20 Płyty pilśniowe z azbestu lub mieszanin na bazie azbestu lub azbestu i węglanu magnezowego 23. 26.82.12 Wyroby z asfaltu i podobnych materiałów 26.82.13–00.1 Mieszanki mineralno-bitumiczne 26.82.13–00.6 Masy i roztwory asfaltowe hydroizolacyjne 24. 26.82.16–10 Wełna mineralna luzem i wyroby izolacji termicznej i akustycznej z wełny mineralnej 26.82.16–20 Wermikulit porowaty, iły porowate, żużel spieniony i podobne porowate materiały mineralne łącznie z ich mieszaninami – z wyłączeniem żużla spienionego (PKWiU 26.82.16–20.30) 26.82.16–30 Mieszaniny i wyroby z materiałów izolujących cieplnie lub akustycznie, gdzie indziej nie sklasyfikowane 25. ex 27.10.40 Wyroby walcowane płaskie ze stali – wyłącznie wyroby płaskie walcowane na zimno i powlekane 26. 27.10.50 Sztaby i pręty, walcowane na gorąco, w nieregularnie zwijanych kręgach ex 27.10.60 Sztaby i pręty pozostałe, z wyłączeniem prętów i profili grubych ex 27.10.70 Kątowniki, kształtowniki i profile ze stali niestopowej poddane obróbce polegającej jedynie na walcowaniu na gorąco, ciągnieniu na gorąco lub wyciskaniu na gorąco, z wyłączeniem prętów i profili grubych 27. 27.10.82–50.00 Materiały używane w kolejnictwie walcowane na gorąco, inne niż szyny 27.21.10 Rury, przewody rurowe, profile i tuleje z żeliwa 27.21.20 Złącza odlewane, z żeliwa ex 27.22.10 Rury, przewody rurowe, profile drążone i tuleje stalowe, z wyłączeniem półwyrobów z rurowni nie zaliczanych do wyrobów gotowych 27.31 Sztaby, pręty i profile ciągnione lub obrobione na zimno – z wyłączeniem profili obrobionych na zimno ze stali niestopowej (PKWiU 27.31.20–10) 27.32 Wyroby walcowane na zimno płaskie 27.33 Wyroby formowane na zimno 27.34 Drut 27.42.24 Blachy grube, blachy cienkie i taśma z aluminium o grubości większej niż 0,2 mm ex 27.44.26 Miedziane: rury, przewody rurowe oraz złącza do rur lub przewodów rurowych, z miedzi, z wyłączeniem rur i przewodów rurowych ze stopów miedzi (PKWiU 27.44.26–30.2) oraz armatury przemysłowej z miedzi i stopów miedzi 28. ex 28.11.10 Budynki prefabrykowane z metalu – z wyłączeniem konstrukcji stalowych budynków jednokondygnacyjnych, halowych i pawilonowych, szkieletów budynków i budowli dwu- i wielokondygnacyjnych, konstrukcji nośnych budowlanych aluminiowych 29. 28.11.23–40 Pozostałe konstrukcje złożone głównie z arkuszy: panele złożone z dwóch ścian z profilowanego (żeberkowanego) arkusza z rdzeniem izolującym 30. 28.11.23–50.3 Elementy budowlane z blachy profilowanej stalowe 31. 28.11.23–50.4 Elementy budowlane z blachy płaskiej stalowe 32. 28.11.23–50.5 Segmenty budynków i obiektów budowlanych przenośnych z metalu, bezszkieletowe 28.11.23–62.3 Segmenty budynków i obiektów budowlanych przenośnych, z metalu, szkieletowe 33. 28.11.23–62.72 Elementy konstrukcyjne zbrojeń żelbetów 34. ex 28.11.23–62.79 Elementy konstrukcyjne stalowe (bez ślusarki budowlanej) pozostałe, osobno nie wymienione, dotyczące wyłącznie elementów konstrukcyjnych z blach stalowych, ocynkowanych i powlekanych 35. 28.11.23–62.8 Elementy konstrukcji nośnych kotłów, schodów, pomostów, opancerzenia, izolacji i obmurowań 36. 28.11.23–63 Elementy budowlane stalowe, pozostałe 37. 28.11.23–64 Elementy ramowe budowlane stalowe 38. 28.11.23–66 Konstrukcje stalowe lekkie do wyposażenia obiektów inwentarskich 39. 28.11.23–76 Elementy budowlane 40. 28.11.23–79 Płyty i elementy warstwowe budowlane oraz segmenty ścienne wypełnione płytą warstwową 41. ex 28.12.10 Elementy metalowe stolarki budowlanej – z wyłączeniem drzwi, okien i iluminatorów okrętowych, świetlików i iluminatorów jachtowych 42. ex 28.21.11–21.00 Konstrukcje zbiornikowo-cylindryczne stalowe na ciecze o pojemności większej lub równej 300 l wykładane od środka lub izolowane cieplnie – wyłącznie wymienniki ciepła i naczynia wyrównawcze c.o. i c.w., zasobniki ciepłej wody, zbiorniki w oczyszczalniach ścieków ex 28.21.11–22.00 Konstrukcje zbiornikowo-cylindryczne zbiorników teleskopowych do cieczy o pojemności większej lub równej 300 l wykładane od środka lub izolowane cieplnie – wyłącznie wymienniki ciepła i naczynia wyrównawcze c.o. i c.w., zasobniki ciepłej wody, zbiorniki w oczyszczalniach ścieków ex 28.21.11–23 Konstrukcje zbiornikowe kształtowe do cieczy o pojemności większej lub równej 300 l wykładane lub izolowane cieplnie wyłącznie wymienniki ciepła i naczynia wyrównawcze c.o. i c.w., zasobniki ciepłej wody, zbiorniki w oczyszczalniach ścieków ex 28.21.11–33 Konstrukcje zbiornikowe stalowe do cieczy o pojemności większej lub równej 300 l – wyłącznie wymienniki ciepła i naczynia wyrównawcze c.o. i c.w., zasobniki ciepłej wody, zbiorniki w oczyszczalniach ścieków ex 28.21.11–51 Konstrukcje zbiornikowe stalowe o pojemności większej lub równej 300 l – wyłącznie wymienniki ciepła i naczynia wyrównawcze c.o. i c.w., zasobniki ciepłej wody, zbiorniki w oczyszczalniach ścieków 43. 28.22.11–30 Grzejniki nieelektryczne i ich części z żeliwa 28.22.11–50 Grzejniki nieelektryczne i ich części ze stali 44. 28.22.12 Kotły centralnego ogrzewania, z wyłączeniem kotłów parowych, pozostałych (PKWiU 28.22.12–00.60) 28.22.13–00.00 Części kotłów centralnego ogrzewania 28.30.12 Instalacje pomocnicze do stosowania wraz z kotłami; kondensatory do zespołów energetycznych na parę wodną lub inne rodzaje pary 45. 28.30.13 Części wytwornic pary 46. 28.63.11–30.00 Kłódki z metali nieszlachetnych (budowlane) 28.63.12–30.00 Zamki w rodzaju używanych do drzwi, bębenkowe 28.63.12–50 Zamki w rodzaju używanych do drzwi, pozostałe, z wyłączeniem zamków elektronicznych i szyfrowych (PKWiU 28.63.12–50.40, -50.50) ex 28.63.13 Okucia zamykające i ościeżnice z okuciami zamykającymi, zawierające zamki; ich części; klucze sprzedawane oddzielnie – wyłącznie okucia budowlane ex 28.63.14 Zawiasy, zamocowania, obsady i podobne wyroby do pojazdów mechanicznych, drzwi, okien, mebli itp., wykonane z metali nieszlachetnych – wyłącznie okucia budowlane 28.71.11–00.30 Pojemniki metalowe – o pojemności 50–300 l 28.71.12–01.41 Pojemniki metalowe na śmieci ocynkowane o grubości ścianki równej lub mniejszej niż 0,5 mm 28.71.12–01.42 Pojemniki metalowe na śmieci lakierowane o grubości ścianki równej lub mniejszej niż 0,5 mm ex 28.71.12–01.43 Pojemniki metalowe skrzynkowe o grubości ścianki równej lub mniejszej niż 0,5 mm – wyłącznie pojemniki na śmieci 28.71.12–03.51 Pojemniki na śmieci ocynkowane metalowe o grubości ścianki równej lub większej niż 0,5 mm 28.71.12–03.52 Pojemniki na śmieci lakierowane metalowe o grubości ścianki równej lub większej niż 0,5 mm ex 28.71.12–03.53 Pojemniki metalowe skrzynkowe o grubości ścianki równej lub większej niż 0,5 mm – wyłącznie pojemniki na śmieci ex 28.72.12–50.90 Pojemniki z aluminium, o pojemności większej lub równej 50 l i mniejszej niż 300 l pozostałe, gdzie indziej nie wymienione – wyłącznie pojemniki na śmieci ex 28.72.12–70.90 Pojemniki sztywne rurowe z aluminium o pojemności mniejszej niż 50 l, pozostałe – wyłącznie pojemniki na śmieci 28.72.13–70.70 Korki, pokrywki i wieczka z metali nieszlachetnych pozostałe do pojemników metalowych na śmieci 47. 28.73.11–31.50 Sploty i linki do konstrukcji sprężonych ze stali nierdzewnej, nie izolowane elektrycznie 48. 28.73.12–70.13 Przewody gołe napowietrzne z aluminium ex 28.73.12–70.30 Przewody gołe z rdzeniem stalowym, z aluminium – wyłącznie przewody napowietrzne 49. ex 28.73.13–20 Kraty, siatki i ogrodzenia o wielkości oczek 100 cm2 i więcej, z drutu stalowego o przekroju 3 mm i więcej, spawane na przecięciach, z wyłączeniem siatek z drutu ex 28.73.13–30 Kraty, siatki i ogrodzenia, spawane na przecięciach, z drutu stalowego, pozostałe, z wyłączeniem siatek z drutu ex 28.73.13–43 Kraty, siatki i ogrodzenia, nie spawane na przecięciach, z drutu stalowego, nie powlekane tworzywem sztucznym, z wyłączeniem siatek z drutu ex 28.73.13–44 Kraty, siatki i ogrodzenia, nie spawane na przecięciach, z drutu stalowego, nie powlekane tworzywem sztucznym, pozostałe, z wyłączeniem siatek z drutu ex 28.73.13–45 Kraty, siatki i ogrodzenia, nie spawane na przecięciach, z drutu stalowego, pokrywane tworzywem sztucznym, pozostałe, z wyłączeniem siatek z drutu 50. ex 28.74.11 Elementy złączne ze stali gwintowane, gdzie indziej nie sklasyfikowane – wyłącznie okucia budowlane łączące 51. 28.75.11–10 Zlewy i umywalki ze stali nierdzewnej 28.75.11–21.00 Wanny żeliwne (również emaliowane) 28.75.11–25 Wanny stalowe (z wyjątkiem żeliwnych) 28.75.11–31.1 Wyroby sanitarne żeliwne, emaliowane, pozostałe 28.75.11–31.2 Wyroby sanitarne żeliwne, nieemaliowane 28.75.11–31.4 Wyroby sanitarne przemysłowe z blachy emaliowanej 28.75.11–31.50 Wyroby sanitarne przemysłowe, ze stali nierdzewnej, pozostałe 28.75.11–31.86 Syfony umywalkowe i pisuarowe, ze stali 28.75.11–35.10 Syfony umywalkowe i pisuarowe, z miedzi 28.75.11–37.20 Syfony umywalkowe i pisuarowe, z aluminium 52. ex 28.75.27–13.00 Wyroby i odlewy z żeliwa nieciągliwego, gdzie indziej nie wymienione, z wyłączeniem odlewów żeliwnych (półfabrykatów do dalszej obróbki) 53. 28.75.27–25.40 Pojemniki druciane – wyłącznie na śmieci 54. 28.75.27–31.10 Drabiny (elementy budowlane komunikacji), ze stali 28.75.27–31.90 Szczeble ze stali, pozostałe 55. 28.75.27–37.1 Osłony instalacji budowlanych, ze stali 28.75.27–37.2 Elementy instalacji budowlanych odwadniających, ze stali 28.75.27–37.3 Elementy budowlane wyposażeniowe, do czyszczenia obuwia, ze stali 28.75.27–37.4 Elementy budowlane wyposażeniowe, ze stali pozostałe 56. 28.75.27–53.10 Grzejniki z aluminium 57. 28.75.27–55.1 Osłony instalacji budowlanych, aluminiowe 28.75.27–55.2 Okładziny elewacyjne budowlane, aluminiowe 28.75.27–55.3 Elementy instalacji budowlanych odwadniających, aluminiowe 58. 28.75.27–59.30 Osprzęt centralnego ogrzewania z miedzi i stopów miedzi 59. 28.75.27–87.1 Znaki informacyjne i elementy informacyjne, budowlane, z aluminium 28.75.27–87.2 Znaki informacyjne i elementy informacyjne, budowlane, ze stali 60. 29.11.3 Części silników i turbin – z wyłączeniem odlewów maszynowych z żeliwa zwykłego i odlewów maszynowych z żeliwa sferoidalnego (PKWiU 29.11.31–00.10 i 29.11.31–00.20) 61. 29.12.24–80.41 Hydrofory 62. 29.12.41–30.50 Zespoły i części maszyn parowych tłokowych 29.12.41–70.1 Zespoły i części silników odrzutowych i turbinowych 63. bez względu na symbol PKWiU Armatura metalowa przemysłowa – wyłącznie: – armatura z żeliwa szarego, – zasuwy, – zawory, – przepustnice Armatura metalowa sieci domowej 64. 29.21.11 Palniki piecowe; mechaniczne ruszty i kraty, mechaniczne urządzenia do usuwania popiołu itd. 29.21.14–30.00 Części palników piecowych na paliwo ciekłe, stałe lub gaz; części rusztów mechanicznych 65. 29.24.12–30.3 Urządzenia i aparatura do przygotowywania wody kotłowej 29.24.12–70.33 Filtry przykotłowe oleju 66. 29.71.25–30 Ogrzewacze wody elektryczne o działaniu natychmiastowym (ogrzewacze przepływowe) 29.71.25–50 Ogrzewacze wody elektryczne inne niż natychmiastowe 67. ex 29.71.28–10 Kuchnie i kuchenki domowe, z wyłączeniem kuchenek elektrycznych ex 29.72.11–13 Urządzenia do gotowania, podgrzewacze płytowe na gaz, z żeliwa lub stali, z wyłączeniem piekarników gazowych i kuchni restauracyjnych gazowych 29.72.12–33.10 Piece grzewcze gazowe 29.72.12–33.20 Piece uniwersalne 29.72.12–70.10 Piece stałopalne, gdzie indziej nie wymienione 29.72.12–70.20 Piece żeliwne przenośne, gdzie indziej nie wymienione ex 29.72.20 Części pieców, kuchenek, podgrzewaczy płytowych i podobnego, nieelektrycznego sprzętu domowego, z wyłączeniem zespołów i części sprzętu do gotowania i ogrzewania nieelektrycznego (PKWiU 29.72.20–00.99) 68. ex 31.20.21–50.30 Bezpieczniki wielkiej mocy do napięć mniejszych lub równych 1000 V, dla prądów o natężeniu większym niż 10 A, a mniejszym lub równym 63 A – wyłącznie podstawy i wkładki bezpiecznikowe niskiego napięcia ex 31.20.31–70.1 Urządzenia sterownicze, na napięcie mniejsze lub równe 1000 V – wyłącznie urządzenia sterownicze niskiego napięcia ex 31.20.31–70.2 Urządzenia rozdzielcze i tablice licznikowe, na napięcie mniejsze lub równe 1000 V – wyłącznie urządzenia rozdzielcze niskiego napięcia 31.20.32–03.20 Rozdzielnice prefabrykowane napowietrzne 31.20.32–05.20 69. ex 31.20.40–30.9 Tablice, panele, konsole, pulpity, szafy i inne układy wsporcze dla wyrobów objętych pozycjami od 31.20.31–30.00 do 31.20.32–05.90, pozostałe – wyłącznie dla rozdzielni prefabrykowanych napowietrznych (PKWiU 31.20.32–03.20, -05.20) ex 31.20.40–90.30 Części i wyposażenie aparatury rozdzielczej, łączeniowej i zabezpieczającej niskiego napięcia – wyłącznie części do urządzeń rozdzielczych i sterowniczych niskiego napięcia 70. ex 31.30.13–71.1 Przewody elektryczne wyposażone w złączki, na napięcie większe niż 80 V, a mniejsze lub równe 1000 V – przewody elektroenergetyczne do układania na stałe – z wyłączeniem przewodów grzejnych i innych niż instalacyjne, uzbrojone i kabelkowe ex 31.30.13–73.1 Przewody elektryczne nie wyposażone w złączki, na napięcie równe 1000 V, o średnicy pojedynczego przewodu większej niż 0,51 mm – przewody elektroenergetyczne do układania na stałe – z wyłączeniem przewodów grzejnych i innych niż instalacyjne, uzbrojone i kabelkowe ex 31.30.13–75.1 Przewody elektryczne nie wyposażone w złączki, na napięcie większe niż 80 V, a mniejsze niż 1000 V, o średnicy pojedynczego przewodu większej niż 0,51 mm – przewody elektroenergetyczne do układania na stałe – z wyłączeniem przewodów grzejnych i innych niż instalacyjne, uzbrojone i kabelkowe 71. 31.30.13–71.39 Przewody elektryczne wyposażone w złączki na napięcie większe niż 80 V, a mniejsze lub równe 1000 V – kable elektroenergetyczne z żyłami miedzianymi – pozostałe 31.30.13–73.39 Przewody elektryczne nie wyposażone w złączki, na napięcie równe 1000 V, o średnicy pojedynczego przewodu większej niż 0,51 mm – kable elektroenergetyczne z żyłami miedzianymi – pozostałe 31.30.13–73.40 Przewody elektryczne, nie wyposażone w złączki, na napięcie równe 1000 V, o średnicy pojedynczego przewodu większej niż 0,51 mm – kable elektroenergetyczne z żyłami aluminiowymi 31.30.13–75.39 Przewody elektryczne nie wyposażone w złączki na napięcie większe niż 80 V, a mniejsze niż 1000 V, o średnicy pojedynczego przewodu większej niż 0,51 mm – kable elektroenergetyczne z żyłami miedzianymi – pozostałe 72. 31.30.14 Przewody elektryczne, do napięć powyżej 1000 V – z wyłączeniem kabli elektroenergetycznych do odbiorników ruchomych i przenośnych, górniczych (PKWiU 31.30.14–00.50), przewodów i kabli elektrycznych na napięcie przekraczające 1 kV pozostałych (PKWiU 31.30.14–00.9) 73. 31.50.24–00.1 Tablice i gabloty informacyjne budowlane podświetlane 74. ex 31.50.25–11 Oprawy oświetleniowe (z wyjątkiem reflektorów) mieszkaniowe do żarówek – z wyłączeniem zabezpieczonych przed wnikaniem wody ex 31.50.25–12 Oprawy oświetleniowe (z wyjątkiem reflektorów) mieszkaniowe, do żarówek halogenowych – z wyłączeniem zabezpieczonych przed wnikaniem wody ex 31.50.25–31 Oprawy oświetleniowe przemysłowe (≥IP20) do żarówek – wyłącznie oprawy oświetleniowe przemysłowe do żarówek stałych ex 31.50.25–32 Oprawy oświetleniowe przemysłowe (≥IP20), do świetlówek – wyłącznie oprawy oświetleniowe przemysłowe do świetlówek stałych ex 31.50.25–39 Oprawy oświetleniowe przemysłowe (≥IP20), pozostałe – wyłącznie oprawy oświetleniowe przemysłowe do rtęciówek 31.50.34–07.1 Oprawy oświetleniowe zewnętrzne do oświetlania przemysłowych terenów otwartych 75. ex 31.62.14–50.1 Elementy izolacyjne do aparatury rozdzielczej, łączeniowej i zabezpieczającej (z wyjątkiem wykonanych z tworzyw sztucznych i ceramicznych) – wyłącznie części do urządzeń rozdzielczych wysokiego napięcia prefabrykowanych oraz części do urządzeń rozdzielczych i sterowniczych niskiego napięcia 76. ex 33.20.52–83.00 Przyrządy do pomiaru lub kontroli parametrów cieczy lub gazów elektroniczne, pozostałe – wyłącznie ciepłomierze i przyrządy do pomiaru ilości ciepła pozostałe (podzielniki kosztów) ex 33.20.52–89.00 Przyrządy do pomiaru lub kontroli parametrów cieczy lub gazów pozostałe, osobno nie wymienione – wyłącznie ciepłomierze i przyrządy do pomiaru ilości ciepła pozostałe (podzielniki kosztów) 77. 33.20.63–30 Gazomierze 33.20.63–50.1 Wodomierze 33.20.63–70.2 Liczniki elektryczne prądu zmiennego 78. 33.20.70–15.00 Termostaty elektroniczne (z wyjątkiem lotniczych) 33.20.70–19.00 Termostaty pozostałe (z wyjątkiem lotniczych) 33.20.70–50.42 Reduktory membranowe 79. ex 36.63.40–00.2 Wykładziny podłogowe z podłożem – z wyłączeniem wykładzin podłogowych gumowych 80. bez względu na symbol PKWiU Urządzenia do automatycznej regulacji i sterowania wyłącznie urządzenia i zestawy urządzeń do automatycznej regulacji dostaw ciepła oraz zdalnego sterowania pracą systemów ciepłowniczych, a także części do tych urządzeń 81. bez względu na symbol PKWiU Panele podłogowe i listwy przypodłogowe laminowane, wykonane na bazie płyty pilśniowej HDF, MDF lub na bazie płyty wiórowej 82. bez względu na symbol PKWiU Membrany (przepony) paroprzepuszczalne pod pokrycia dachowe, z polietylenu, posiadające zbrojenie, specjalną perforację lub nacięcia względnie wykonane z włókien syntetycznych 83. bez względu na symbol PKWiU Usługi i roboty związane z bieżącą konserwacją obiektów budownictwa mieszkaniowego i infrastruktury towarzyszącej budownictwu mieszkaniowemu 84. bez względu na symbol PKWiU Usługi i roboty budowlane związane z budową, remontami i bieżącą konserwacją wysypisk śmieci (PKOB ex 2420) 85. bez względu na symbol PKWiU Usługi w zakresie budownictwa specjalistycznego w obiektach użytkowanych, a także usługi (roboty) związane z budową urządzeń melioracyjnych, przeciwpowodziowych i deszczownianych 86. bez względu na symbol PKWiU Budowa, remonty i bieżąca konserwacja budynków: 1) budynki zbiorowego zamieszkania (PKOB ex 1130) – z wyłączeniem budynków stałego zamieszkania kościelnych i związków wyznaniowych 2) budynki hoteli (PKOB ex 1211) – z wyłączeniem samodzielnych restauracji i barów 3) budynki zakwaterowania turystycznego pozostałe (PKOB 1212) 4) budynki łączności, dworców i terminali (PKOB ex 1241) – wyłącznie budynki stacji nadawczych radia i telewizji 5) ogólnodostępne obiekty kulturalne (PKOB 1261) 6) budynki muzeów i bibliotek (PKOB 1262) 7) budynki szkół i instytucji badawczych (PKOB 1263) 8) budynki szpitali i zakładów opieki medycznej (PKOB ex 1264) – z wyłączeniem klinik weterynaryjnych i stacji unasienniania 9) budynki kultury fizycznej (PKOB 1265) 10) budynki przeznaczone do sprawowania kultu religijnego i czynności religijnych (PKOB 1272) 11) pozostałe budynki niemieszkalne, gdzie indziej nie wymienione (PKOB ex 1274) – wyłącznie obiekty miejskie użyteczności publicznej takie jak wiaty autobusowe, toalety publiczne, łaźnie itp. Objaśnienia: ex – dotyczy tylko i wyłącznie danego wyrobu/usługi z danego grupowania.
+
+## Załącznik nr 5 — – Wykaz wyrobów akcyzowych
+
+Poz. Symbol PKWiU Nazwa towaru lub usługi (grupy towarów lub usług) 1. 14.50.10–00.00 Bitum i asfalt naturalny, asfalty i skały asfaltowe ex 23.20 Produkty rafinacji ropy naftowej oraz wszystkie towary przeznaczone do użycia jako paliwa silnikowe albo jako dodatki lub domieszki do paliw silnikowych, bez względu na symbol PKWiU ex 24.66.31–57 Preparaty smarowe, o zawartości olejów z ropy naftowej w masie mniejszej niż 70%, pozostałe – z wyłączeniem preparatów do obróbki materiałów włókienniczych 24.66.31–79.10 Smary plastyczne ogólnego przeznaczenia, pozostałe 24.66.31–79.20 Preparaty do smarowania maszyn, urządzeń i pojazdów, pozostałe 24.66.31–79.30 Smary o specjalnym przeznaczeniu 24.66.32–70 Dodatki do olejów smarowych ex 24.66.33–30.00 Płyny hamulcowe hydrauliczne i podobne płyny o zawartości olejów z ropy naftowej w masie mniejszej niż 70% – wyłącznie produkty przerobu ropy naftowej ex 24.66.48–13.00 Sulfoniany z ropy naftowej, nierozpuszczalne w wodzie – wyłącznie produkty przerobu ropy naftowej 36.63.64–00.00 Paliwa płynne lub upłynnione w pojemnikach do zapalniczek o pojemności mniejszej lub równej 300 cm3 2. uchylona 2a 40.10.1 Energia elektryczna 3. ex 29.60.13–50ex 29.60.13–70.00 Broń palna ładowana przez lufę, strzelby i karabinki sportowe, myśliwskie lub przeznaczone do strzelania do celu – wyłącznie broń myśliwska ex 29.60.13–90.90 Broń palna działająca na zasadzie odpalania ładunku prochowego, gdzie indziej nie wymieniona – wyłącznie broń myśliwska Broń pozostała, gdzie indziej nie wymieniona – wyłącznie broń gazowa 4. bez względu na symbol PKWiU Wyposażenie specjalistyczne obiektów działalności rozrywkowej osobno nie wymienione: – rulety wraz ze stołami do rulety – stoły do gry w karty – automaty hazardowe – maszyny i urządzenia losujące – elektroniczne maszyny i urządzenia do gry 5. 34.10.2 Samochody osobowe 6. ex 35.12.1 Łodzie wycieczkowe i sportowe – wyłącznie jachty pełnomorskie 7. bez względu na symbol PKWiU Sprzęt elektroniczny wysokiej klasy oraz kamery wideo 8. 14.4 Sól 9. 24.52.11 Perfumy i wody toaletowe 24.52.12 Kosmetyki upiększające do ust i oczu 24.52.13–00.00 Kosmetyki do manicure i pedicure ex 24.52.14–00.00 Pudry kosmetyczne i higieniczne – z wyłączeniem przeznaczonych dla dzieci 24.52.15–00.10 Pozostałe kosmetyki upiększające do twarzy 24.52.19–50.00 Dezodoranty osobiste i preparaty przeciwpotowe 24.52.19–90.10 Preparaty do higieny intymnej 24.52.19–90.3 Środki higieniczne kosmetyczne, gdzie indziej nie wymienione 24.52.19–90.60 Preparaty toaletowe dla zwierząt 24.52.19–90.90 Kosmetyki i wyroby perfumeryjne, pozostałe, gdzie indziej nie sklasyfikowane 10. uchylona 11. ex 36.50.41–00.00 Karty do gry – z wyłączeniem kart do gry dla dzieci 12. ex 18.24.43–33.00 Kapelusze i inne nakrycia głowy ze skór futerkowych – wyłącznie ze skór zwierząt szlachetnych 18.30.11–50.2 Skóry futerkowe całe, garbowane lub wykończone ze zwierząt szlachetnych ex 18.30.12 Odzież, dodatki odzieżowe oraz inne wyroby wykonane ze skór futerkowych (z wyłączeniem nakryć głowy) – wyłącznie ze skór zwierząt szlachetnych 13. 15.91 Napoje alkoholowe destylowane 15.92 Alkohol etylowy 14. 15.93 Wina gronowe 15.94 Napoje fermentowane (np. jabłecznik, wino z gruszek, miód pitny), pozostałe, mieszane napoje zawierające alkohol 15.95 Wermut i inne wina ze świeżych winogron przyprawione roślinami lub substancjami aromatycznymi 15. 15.96 Piwo słodowe – w tym pozostałości i odpady browarne i gorzelniane 15.98.12–50.30 Piwo bezalkoholowe 16. uchylona 17. 16.00.11 Cygara, również z obciętymi końcami, cygaretki i papierosy z tytoniu lub namiastek tytoniu 16.00.12–30 Tytoń do palenia 16.00.12–90.20 Tytoń do żucia i tabaka 18. ex 35.12.1 Łodzie wycieczkowe i sportowe – wyłącznie łodzie żaglowe, łodzie z silnikiem i łodzie z dostosowaniem do silników, nie dotyczy jachtów pełnomorskich 19. bez względu na symbol PKWiU Pozostałe napoje alkoholowe o zawartości alkoholu powyżej 1,2% oraz napoje alkoholowe będące mieszaniną piwa i napojów bezalkoholowych, w których zawartość alkoholu przekracza 0,5% 20. skreślona 21. bez względu na symbol PKWiU Gaz wykorzystywany do napędu pojazdów samochodowych oraz napełniania butli turystycznych o masie do 5 kg. Objaśnienia: ex – dotyczy tylko i wyłącznie danego wyrobu/usługi z danego grupowania.
+
+## Załącznik nr 6 — – Wykaz towarów, od których sprzedaży przysługuje zryczałtowany zwrot podatku od towarów i usług
+
+Poz. Symbol PKWiU Nazwa towaru lub usługi (grupy towarów lub usług) 1. ex 01.11 Zboża, ziemniaki, rośliny przemysłowe i produkty roślinne rolnictwa pozostałe – z wyłączeniem arachidów (orzeszków ziemnych) (PKWiU 01.11.32), bawełny i odziarnionych produktów roślinnych dla przemysłu włókienniczego (PKWiU ex 01.11.7), kauczuku naturalnego (PKWiU 01.11.80) oraz ziół suszonych sortowanych całych 2. ex 01.12 Warzywa, specjalne rośliny ogrodnicze; produkty szkółkarskie, z wyłączeniem podłoży do uprawy grzybów zawierających grzybnie (PKWiU ex 01.12.21–00.49) 3. 01.13.1 Winogrona 4. ex 01.13.23 Owoce pozostałe; ziarna chleba świętojańskiego – z wyłączeniem ziarna chleba świętojańskiego i chleba świętojańskiego (PKWiU 01.12.23–00.30), papaji (PKWiU 01.13.23–00.50) owoców kiwi (PKWiU 01.13.23–00.60) i owoców południowych pozostałych osobno nie wymienionych 5. 01.13.24–00.10 Orzechy laskowe 6. 01.13.24–00.20 Orzechy włoskie 7. ex 01.13.40–00.90 Rośliny przyprawowe pozostałe – wyłącznie surowce roślin zielarskich oraz nasiona roślin przyprawowych 8. ex 01.2 Zwierzęta żywe i produkty pochodzenia zwierzęcego – z wyłączeniem: 1) wełny (sierści) pranej i włosia surowego pogarbarskiego oraz preparowanego (PKWiU 01.22.31–00.20, 01.22.32–00.12, -00.22, -00.32, -00.42, -00.5), 2) sierści zwierzęcej cienkiej lub grubej, niezgrzeblonej i nieczesanej pozostałej (PKWiU 01.22.32–00.90), 3) skór surowych świńskich półgarbowanych, poubojowych i zakonserwowanych dla przemysłu garbarskiego (PKWiU ex 01.25.33–00.00) 9. ex 02 Produkty gospodarki leśnej – z wyłączeniem drewna okrągłego z drzew tropikalnych (PKWiU 02.01.13), bambusa (PKWiU 02.01.42–00.11) i faszyny wiklinowej (PKWiU 02.01.42–00.18) 10. ex 05 Ryby i inne produkty rybołówstwa i rybactwa – z wyłączeniem: 1) ryb morskich świeżych i chłodzonych (PKWiU 05.00.12–02), 2) skorupiaków morskich żywych, świeżych lub chłodzonych (PKWiU ex 05.00.21), 3) mączek, grysików i granulek ze skorupiaków nadających się do spożycia przez ludzi (PKWiU 05.00.21–00.30), 4) ostryg (PKWiU 05.00.22), 5) bezkręgowców żyjących w wodzie; żywych, świeżych lub schłodzonych pozostałych (PKWiU 05.00.23), 6) produktów połowów pozostałych (PKWiU 05.00.3) 11. ex 14.30.13–90.10 Surowce mineralne plastyczne pozostałe, gdzie indziej nie sklasyfikowane (w tym ziemia ogrodnicza i ziemia humus) – wyłącznie ziemia ogrodnicza i ziemia humus 12. ex 15.11.13–30.90 ex 15.11.14–30.90 Tusze i półtusze wieprzowe pozostałe – wyłącznie tusze dzików przeznaczone do spożycia 13. 15.11.21 Wełna szarpana 14. ex 15.11.4 Odpady zwierzęce, niejadalne (z wyłączeniem utylizacyjnych) – wyłącznie odpady przy hodowli i z gospodarki łowieckiej 15. 15.12.13–00.3 do15.12.13–00.90 Mięso pozostałe świeże, chłodzone lub mrożone oraz produkty uboczne uboju – wyłącznie mięso z dziczyzny z wyłączeniem dzików 16. 15.20.11–90.1,15.20.11–90.3,15.20.12–30,15.20.12–70.1,15.20.12–90.10 Mięso i filety z ryb słodkowodnych świeże, chłodzone i mrożone 17. ex 15.33.30–00.22 Obierki, liście i strużyny z warzyw – wyłącznie liście i odpady roślin okopowych i warzyw Odpady (słoma roślin strączkowych, motylkowych i oleistych, z wyłączeniem lnu i konopi) 15.33.30–00.3 15.33.30–00.80 Żołędzie i kasztany 18. 15.71.20 Grysik i granulki z lucerny (alfalfa) 19. ex 24.15.60 Nawozy zwierzęce lub roślinne, gdzie indziej nie sklasyfikowane – z wyłączeniem mączek nawozowych (PKWiU 24.15.60–00.1, -00.40), oraz podłoży do uprawy grzybów, bez wsianej grzybni (PKWiU ex 24.15.60–00.90) 20. 36.62.11–10 Miotły i szczotki, ze związanych razem gałęzi lub innych materiałów roślinnych 21. 36.63.77–40.10 Materiały rzeźbiarskie obrobione, roślinne Objaśnienia: ex – dotyczy tylko i wyłącznie danego wyrobu z danego grupowania.
 

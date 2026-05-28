@@ -8,12 +8,10 @@ pos: 254
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o stosunku Państwa do Kościoła Zielonoświątkowego w Rzeczypospolitej Polskiej
-
-*USTAWA z dnia 20 lutego 1997 r.*
+# Ustawa z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Zielonoświątkowego w Rzeczypospolitej Polskiej
 
 | Pole | Wartość |
 |---|---|
@@ -24,16 +22,19 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1997-02-20 |
 | Data wydania | 1997-04-26 |
+| Wejście w życie | 1997-05-11 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970410254) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/254/text.pdf) |
+
+Załącznik – Wykaz osób prawnych Kościoła Zielonoświątkowego w Rzeczypospolitej Polskiej
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
 
-1. Ustawa określa stosunek Państwa do Kościoła Zielonoświątkowego w Rzeczypospolitej Polskiej, zwanego dalej „Kościołem”, oraz jego sytuację prawną i majątkową.
+1. Ustawa określa stosunek Państwa do Kościoła Zielonoświątkowego w Rzeczypospolitej Polskiej, zwanego dalej „Kościołem”, oraz jego sytuację prawą i majątkową.
 
-2. W sprawach odnoszących się do Kościoła, nieuregulowanych w ustawie, stosuje się powszechnie obowiązujące przepisy prawa.
+2. W sprawach odnoszących się do Kościoła, nie uregulowanych w ustawie, stosuje się powszechnie obowiązujące przepisy prawa.
 
 3. Wszelkie zmiany niniejszej ustawy wymagają uprzedniej opinii Prezydium Naczelnej Rady Kościoła.
 
@@ -57,34 +58,34 @@ source: "isap-pdf"
 
 2. Osobowość prawną posiadają:
 
-- **1)** Kościół jako całość;
-- **2)** okręgi;
-- **3)** zbory;
-- **4)** seminaria i szkoły teologiczne;
-- **5)** duszpasterstwa;
-- **6)** misje;
-- **7)** wydawnictwa;
-- **8)** kościelne studia radiowe i telewizyjne;
+- **1)** Kościół jako całość,
+- **2)** okręgi,
+- **3)** zbory,
+- **4)** seminaria i szkoły teologiczne,
+- **5)** duszpasterstwa,
+- **6)** misje,
+- **7)** wydawnictwa,
+- **8)** kościelne studia radiowe i telewizyjne,
 - **9)** ośrodki kościelne.
 
 3. Organami osób prawnych wymienionych w ust. 2 są:
 
-- **1)** dla Kościoła jako całości:
-    - **a)** Synod Kościoła,
-    - **b)** Naczelna Rada Kościoła,
-    - **c)** Prezydium Naczelnej Rady Kościoła,
-    - **d)** Prezbiter Naczelny;
+- **1)** dla Kościoła jako całości: Synod Kościoła, Naczelna Rada Kościoła, Prezydium Naczelnej Rady Kościoła, Prezbiter Naczelny,
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
-- **2)** dla okręgu – prezbiter okręgowy;
-- **3)** dla zboru – pastor;
-- **4)** dla seminarium i szkoły teologicznej – rektor;
+- **2)** dla okręgu – prezbiter okręgowy,
+- **3)** dla zboru – pastor,
+- **4)** dla seminarium i szkoły teologicznej – rektor,
 - **5)** dla osób prawnych wymienionych w ust. 2 pkt 5–9 – dyrektor.
 
 4. W sprawach majątkowych Kościół jako całość reprezentuje Prezydium Naczelnej Rady Kościoła. Do składania oświadczeń woli są uprawnieni: Prezbiter Naczelny, jego zastępca lub członek Prezydium.
 
 5. Zmiana nazwy grup osób prawnych, o których mowa w ust. 2 pkt 2–9, może być dokonana przepisami wewnętrznymi Kościoła. Zmiany te, na wniosek Naczelnej Rady Kościoła, Minister Spraw Wewnętrznych i Administracji ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
-**Art. 5.** Inne jednostki organizacyjne Kościoła mogą, na wniosek Naczelnej Rady Kościoła, uzyskać osobowość prawną w drodze rozporządzenia Ministra Spraw Wewnętrznych i Administracji .
+**Art. 5.** Inne jednostki organizacyjne Kościoła mogą, na wniosek Naczelnej Rady Kościoła, uzyskać osobowość prawną w drodze rozporządzenia Ministra Spraw Wewnętrznych i Administracji.
 
 **Art. 6.**
 
@@ -92,27 +93,27 @@ source: "isap-pdf"
 
 2. Właściwym organem jest:
 
-- **1)** dla osób prawnych wymienionych w art. 4 ust. 2 pkt 2 i 4–9 – Minister Spraw Wewnętrznych i Administracji ;
+- **1)** dla osób prawnych wymienionych w art. 4 ust. 2 pkt 2 i 4–9 – Minister Spraw Wewnętrznych i Administracji,
 - **2)** dla zborów – wojewoda.
 
 3. Powiadomienie powinno zawierać nazwę kościelnej osoby prawnej, jej organów, siedzibę, a w odniesieniu do okręgów i zborów – także ich zasięg terytorialny.
 
 4. Właściwa władza kościelna powiadamia niezwłocznie organ wymieniony w ust. 2 o:
 
-- **1)** zmianach dotyczących nazwy i siedziby kościelnej osoby prawnej oraz o zmianie jej granic;
+- **1)** zmianach dotyczących nazwy i siedziby kościelnej osoby prawnej oraz o zmianie jej granic,
 - **2)** połączeniu, podziale i zniesieniu kościelnych osób prawnych.
 
 5. Odpis powiadomienia, o którym mowa w ust. 3 i 4, z umieszczonym na nim potwierdzeniem jego przyjęcia, jest dowodem uzyskania osobowości prawnej.
 
 6. O powołaniu i odwołaniu osoby sprawującej funkcje organu osoby prawnej władza kościelna powiadamia właściwy organ administracji rządowej. Powiadomienie obejmuje imię i nazwisko, obywatelstwo oraz miejsce zamieszkania danej osoby.
 
-**Art. 7.** Jednostki organizacyjne nieposiadające osobowości prawnej działają w ramach tych kościelnych osób prawnych, które je powołały, lub wskazanych uchwałą Naczelnej Rady Kościoła.
+**Art. 7.** Jednostki organizacyjne nie posiadające osobowości prawnej działają w ramach tych kościelnych osób prawnych, które je powołały, lub wskazanych uchwałą Naczelnej Rady Kościoła.
 
 **Art. 8.** Kościelna osoba prawna nie odpowiada za zobowiązania innej kościelnej osoby prawnej.
 
-**Art. 9.** Wydawnictwa kościelne, zakłady wytwórcze, usługowe i handlowe, zakłady charytatywno-opiekuńcze, szkoły, placówki oświatowo-wychowawcze oraz opiekuńczo-wychowawcze nieposiadające osobowości prawnej działają w ramach kościelnych osób prawnych, które je powołały, lub wskazanych uchwałą Naczelnej Rady Kościoła.
+**Art. 9.** Wydawnictwa kościelne, zakłady wytwórcze, usługowe i handlowe, zakłady charytatywno-opiekuńcze, szkoły, placówki oświatowo-wychowawcze oraz opiekuńczo-wychowawcze nie posiadające osobowości prawnej działają w ramach kościelnych osób prawnych, które je powołały, lub wskazanych uchwałą Naczelnej Rady Kościoła.
 
-**Art. 10.** Przed utworzeniem jednostki organizacyjnej Kościoła poza granicami Rzeczypospolitej Polskiej Naczelna Rada Kościoła zasięga opinii Ministra Spraw Wewnętrznych i Administracji . Niezgłoszenie zastrzeżeń w terminie 60 dni od daty powiadomienia uważa się za wyrażenie zgody.
+**Art. 10.** Przed utworzeniem jednostki organizacyjnej Kościoła poza granicami Rzeczypospolitej Polskiej Naczelna Rada Kościoła zasięga opinii Ministra Spraw Wewnętrznych i Administracji. Niezgłoszenie zastrzeżeń w terminie 60 dni od daty powiadomienia uważa się za wyrażenie zgody.
 
 #### Rozdział 3 Działalność Kościoła
 
@@ -120,24 +121,18 @@ source: "isap-pdf"
 
 1. Kościół swobodnie organizuje i sprawuje kult publiczny.
 
-2. Organizowanie imprez o charakterze religijnym na drogach publicznych wymaga uzgodnienia, w zakresie bezpieczeństwa ruchu drogowego, z właściwymi organami administracji rządowej lub samorządowej.
+2. Organizowanie imprez o charakterze religijnym na drogach publicznych wymaga uzgodnienia, w zakresie bezpieczeństwa ruchu drogowego, z właściwymi organami administracji rządowej bądź organami samorządu terytorialnego.
 
 3. Przepisu ust. 2 nie stosuje się do konduktów pogrzebowych odbywających się stosownie do miejscowego zwyczaju.
 
 4. Religijne uroczystości pogrzebowe i nabożeństwa za zmarłych mogą być sprawowane na cmentarzach komunalnych przy zachowaniu obowiązujących przepisów porządkowych.
 
-**Art. 11a.**
-
-1. Małżeństwo zawarte w formie przewidzianej Prawem Wewnętrznym Kościoła wywołuje skutki cywilne, jeżeli odpowiada wymaganiom określonym w Kodeksie rodzinnym i opiekuńczym.
-
-2. Osobę duchowną, przed którą składa się oświadczenia o zawarciu małżeństwa, określa Prawo Wewnętrzne Kościoła.
-
 **Art. 12.**
 
-1. Wierni Kościoła mają prawo do zwolnień od pracy i nauki na czas obejmujący następujące święta religijne niebędące dniami ustawowo wolnymi od pracy:
+1. Wierni Kościoła mają prawo do zwolnień od pracy i nauki na czas obejmujący następujące święta religijne nie będące dniami ustawowo wolnymi od pracy:
 
-- **1)** Wielki Piątek;
-- **2)** Wniebowstąpienie Pańskie;
+- **1)** Wieki Piątek,
+- **2)** Wniebowstąpienie Pańskie,
 - **3)** drugi dzień Pięćdziesiątnicy.
 
 2. Zwolnienie od pracy lub nauki w odniesieniu do świąt religijnych, o których mowa w ust. 1, następuje na zasadach określonych w powszechnie obowiązujących przepisach prawa.
@@ -146,7 +141,7 @@ source: "isap-pdf"
 
 1. Kościół prowadzi konfesyjne nauczanie religii w szkołach publicznych na zasadach i w trybie przewidzianych w odrębnych przepisach.
 
-2. (uchylony)
+2. Oceny z religii wystawiane w punktach katechetycznych są umieszczane na świadectwach wydawanych przez szkoły publiczne.
 
 **Art. 14.**
 
@@ -154,7 +149,7 @@ source: "isap-pdf"
 
 2. Do nauczycieli, wychowawców i pracowników zatrudnionych w szkołach i innych placówkach oświatowo-wychowawczych i opiekuńczo-wychowawczych, a także seminariach duchownych i instytutach misyjnych prowadzonych przez Kościół stosuje się odpowiednio przepisy dotyczące uprawnień nauczycieli, wychowawców i pracowników zatrudnionych w szkołach i placówkach publicznych.
 
-3. Uczącym się w szkołach wymienionych w ust. 1 i 2 przysługują świadczenia opieki zdrowotnej finansowane ze środków publicznych oraz ulgi w opłatach za przejazdy środkami publicznego transportu zbiorowego na równi z uczniami szkół publicznych.
+3. Uczącym się w szkołach wymienionych w ust. 1 i 2 przysługują świadczenia publicznych zakładów opieki zdrowotnej oraz ulgi w opłatach za przejazdy środkami publicznego transportu zbiorowego na równi z uczniami szkół publicznych.
 
 **Art. 15.**
 
@@ -170,9 +165,9 @@ source: "isap-pdf"
 
 3. Osobom pozostającym w stosunku pracy w szkołach, o których mowa w ust. 1 oraz w art. 15 ust. 2, przysługują na równi z odpowiednimi pracownikami państwowych szkół wyższych świadczenia:
 
-- **1)** publicznych zakładów opieki zdrowotnej;
+- **1)** publicznych zakładów opieki zdrowotnej,
 - **2)** ubezpieczenia społecznego oraz
-- **3)** zaopatrzenia emerytalnego pracowników i ich rodzin . Nauczycielom przysługują ponadto ulgi w opłatach za przejazdy środkami publicznego transportu zbiorowego na równi z nauczycielami akademickimi.
+- **3)** zaopatrzenia emerytalnego pracowników i ich rodzin. Nauczycielom przysługują ponadto ulgi w opłatach za przejazdy środkami publicznego transportu zbiorowego na równi z nauczycielami akademickimi.
 
 4. Poręcza się Kościołowi prawo do kształcenia kadr duchownych w Chrześcijańskiej Akademii Teologicznej w Warszawie w zakresie teologii zielonoświątkowej.
 
@@ -196,7 +191,7 @@ source: "isap-pdf"
 
 **Art. 19.**
 
-1. Wiernym przebywającym w podmiotach leczniczych wykonujących działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne w rozumieniu przepisów o działalności leczniczej, w zakładach wychowawczo-opiekuńczych, poprawczych i karnych oraz osobom tymczasowo aresztowanym zapewnia się prawo do wykonywania praktyk religijnych oraz korzystania z posług religijnych.
+1. Wiernym przebywającym w szpitalach, prewentoriach i sanatoriach, w zakładach wychowawczo-opiekuńczych, poprawczych i karnych oraz osobom tymczasowo aresztowanym zapewnia się prawo do wykonywania praktyk religijnych oraz korzystania z posług religijnych.
 
 2. Przepis ust. 1 stosuje się również do dzieci i młodzieży korzystających z zorganizowanych form wypoczynku.
 
@@ -204,7 +199,7 @@ source: "isap-pdf"
 
 4. Nabożeństwa dla osób, o których mowa w ust. 1, odbywają się w odpowiednio przystosowanych pomieszczeniach udostępnianych na ten cel przez kierowników właściwych instytucji prowadzonych przez administrację rządową lub samorządową.
 
-5. Minister właściwy do spraw oświaty i wychowania, minister właściwy do spraw zdrowia, minister właściwy do spraw zabezpieczenia społecznego i Minister Sprawiedliwości, po zasięgnięciu opinii Naczelnej Rady Kościoła, określą, w drodze rozporządzenia, sposób organizowania nauczania kościelnego, nabożeństw i wykonywania innych praktyk religijnych właściwych dla wyznania zielonoświątkowego dzieciom i młodzieży przebywającym w zakładach opiekuńczych i wychowawczych, w podmiotach leczniczych wykonujących działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne oraz korzystającym ze zorganizowanego odpoczynku, uwzględniając zapewnienie dostępu wiernych do wykonywania praktyk religijnych oraz korzystania z posług religijnych.
+5. Minister Edukacji Narodowej oraz Minister Zdrowia i Opieki Społecznej w porozumieniu z Naczelną Radą Kościoła określą, w drodze rozporządzenia, szczegółowe zasady organizowania nauczania kościelnego, nabożeństw i wykonywania innych praktyk religijnych właściwych dla wyznania zielonoświątkowego dzieciom i młodzieży przebywającym w zakładach opiekuńczych i wychowawczych, w sanatoriach, prewentoriach i szpitalach oraz korzystającym z zorganizowanego odpoczynku.
 
 **Art. 20.**
 
@@ -214,8 +209,8 @@ source: "isap-pdf"
 
 3. Do organizacji zielonoświątkowych stosuje się przepisy prawa o stowarzyszeniach, z tym że:
 
-- **1)** władzy kościelnej przysługuje prawo cofnięcia aprobaty, o której mowa w ust. 1;
-- **2)** wystąpienie do sądu z wnioskiem o rozwiązanie stowarzyszenia wymaga opinii władzy kościelnej;
+- **1)** władzy kościelnej przysługuje prawo cofnięcia aprobaty, o której mowa w ust. 1,
+- **2)** wystąpienie do sądu w wnioskiem o rozwiązanie stowarzyszenia wymaga opinii władzy kościelnej,
 - **3)** w przypadku likwidacji organizacji zielonoświątkowej do jej majątku stosuje się odpowiednio przepisy Prawa Wewnętrznego Kościoła.
 
 **Art. 21.** Kościelne osoby prawne mają prawo prowadzenia właściwej dla każdej z nich działalności charytatywno-opiekuńczej.
@@ -228,7 +223,7 @@ source: "isap-pdf"
 
 3. Na wniosek kościelnej osoby prawnej miejscowe plany zagospodarowania przestrzennego obejmują także inwestycje sakralne i kościelne oraz zielonoświątkowe cmentarze wyznaniowe.
 
-**Art. 23.** Grunty stanowiące własność Skarbu Państwa lub własność jednostek samorządu terytorialnego, przeznaczone w miejscowych planach zagospodarowania przestrzennego na potrzeby Kościoła, na wniosek kościelnych osób prawnych mogą być im oddawane w wieczyste użytkowanie lub sprzedawane.
+**Art. 23.** Grunty stanowiące własność Skarbu Państwa lub własność gminy, przeznaczone w miejscowych planach zagospodarowania przestrzennego na potrzeby Kościoła, na wniosek kościelnych osób prawnych mogą być im oddawane w wieczyste użytkowanie lub sprzedawane.
 
 **Art. 24.** Nie pobiera się opłat za użytkowanie wieczyste gruntów oddanych na potrzeby zakładów charytatywno-opiekuńczych i punktów katechetycznych.
 
@@ -256,26 +251,29 @@ source: "isap-pdf"
 
 3. Zwolnienie od opodatkowania podatkiem od nieruchomości obejmuje nieruchomości lub ich części przeznaczone na cele mieszkalne duchownych, jeżeli:
 
-- **1)** są one wpisane do rejestru zabytków;
-- **2)** służą jako internaty przy szkołach i seminariach teologicznych, domy duchownych emerytów i wdów po nich;
+- **1)** są one wpisane do rejestru zabytków,
+- **2)** służą jako internaty przy szkołach i seminariach teologicznych, domy duchownych emerytów i wdów po nich,
 - **3)** znajdują się w budynkach administracyjnych okręgów i Naczelnej Rady Kościoła.
 
 4. Nabywanie i zbywanie rzeczy i praw majątkowych przez kościelne osoby prawne w drodze czynności prawnych oraz spadkobrania, zapisu i zasiedzenia jest zwolnione od opłaty skarbowej, jeżeli ich przedmiotem są:
 
-- **1)** rzeczy i prawa nieprzeznaczone do działalności gospodarczej;
+- **1)** rzeczy i prawa nie przeznaczone do działalności gospodarczej,
 - **2)** sprowadzane z zagranicy maszyny, urządzenia i materiały poligraficzne oraz papier.
 
 5. Darowizny na kościelną działalność charytatywno-opiekuńczą pochodzące od osób fizycznych są wyłączone z podstawy opodatkowania darczyńców podatkiem dochodowym, jeżeli kościelna osoba prawna przedstawi darczyńcy pokwitowanie odbioru oraz – w okresie dwóch lat od dnia przekazania darowizny – sprawozdanie o przeznaczeniu jej na tę działalność.
 
 6. Nabywanie i zbywanie rzeczy oraz praw majątkowych, o których mowa w ust. 4, jest zwolnione od opłat sądowych, z wyłączeniem opłat kancelaryjnych.
 
-**Art. 30.** Zwalnia się z należności celnych przywozowych towary przeznaczone na cele charytatywno-opiekuńcze i oświatowo-wychowawcze oraz towary o charakterze kulturalnym przeznaczone na cele kultu, przywożone dla Kościoła i jego osób prawnych, w granicach i na warunkach określonych w rozporządzeniu Rady (WE) nr 1186/2009 z dnia 16 listopada 2009 r. ustanawiającym wspólnotowy system zwolnień celnych (Dz. Urz. UE L 324 z 10.12.2009, str. 23).
+**Art. 30.** Wolne od opłat celnych są przesyłane z zagranicy dla Kościoła i jego osób prawnych dary:
+
+- **1)** przeznaczone na cele kultowe, charytatywno-opiekuńcze i oświatowo-wychowawcze, z wyjątkiem wyrobów akcyzowych oraz samochodów osobowych,
+- **2)** maszyny, urządzenia i materiały poligraficzne oraz papier.
 
 **Art. 31.**
 
 1. Kościelne osoby prawne mają prawo do zbierania ofiar na cele religijne, kościelną działalność charytatywno-opiekuńczą, naukową, oświatowo-wychowawczą oraz na utrzymanie duchownych i ich rodzin, a także komisji działających przy tych kościelnych osobach prawnych.
 
-2. Zbiórki wymienione w ust. 1 nie wymagają zgłoszenia, jeżeli odbywają się w obrębie terenów kościelnych, kaplic oraz w miejscach i okolicznościach zwyczajowo przyjętych, w sposób tradycyjnie ustalony.
+2. Zbiórki wymienione w ust. 1 nie wymagają zezwolenia, jeżeli odbywają się w obrębie terenów kościelnych, kaplic oraz w miejscach i okolicznościach zwyczajowo przyjętych, w sposób tradycyjnie ustalony.
 
 **Art. 32.**
 
@@ -283,7 +281,7 @@ source: "isap-pdf"
 
 2. Niezależnie od nadzoru państwowego, nadzór nad działalnością fundacji sprawuje kościelna osoba prawna będąca fundatorem lub wskazana w statucie fundacji.
 
-3. W razie stwierdzenia nieprawidłowości w zarządzaniu fundacją, właściwy organ zwraca się do kościelnej osoby prawnej sprawującej nadzór nad fundacją, wyznaczając termin nie krótszy niż 3 miesiące na spowodowanie usunięcia nieprawidłowości. Po bezskutecznym upływie tego terminu można zastosować środki określone w przepisach o fundacjach.
+3. W razie stwierdzenia nieprawidłowości w zarządzaniu fundacją, właściwy organ zwraca się do kościelnej osoby prawnej sprawującej nadzór na fundacją, wyznaczając termin nie krótszy niż 3 miesiące na spowodowanie usunięcia nieprawidłowości. Po bezskutecznym upływie tego terminu można zastosować środki określone w przepisach o fundacjach.
 
 4. W razie konieczności poddania fundacji zarządowi przymusowemu, w myśl przepisów o fundacjach, zarząd ten będzie sprawowała kościelna osoba prawna wyznaczona przez Naczelną Radę Kościoła.
 
@@ -305,10 +303,10 @@ source: "isap-pdf"
 
 **Art. 36.**
 
-1. Na wniosek kościelnych osób prawnych wojewoda lub inny organ wykonujący w imieniu Skarbu Państwa prawa wynikające z własności nieruchomości albo organy jednostek samorządu terytorialnego w zakresie swoich właściwości – mogą nieodpłatnie przekazać Kościołowi lub jego osobom prawnym własność nieruchomości lub ich części:
+1. Na wniosek kościelnych osób prawnych wojewoda lub inny organ wykonujący w imieniu Skarbu Państwa prawa wynikające z własności nieruchomości albo organy gmin w zakresie swoich właściwości – mogą nieodpłatnie przekazać Kościołowi lub jego osobom prawnym własność nieruchomości lub ich części:
 
-- **1)** jeżeli są one niezbędne do sprawowania kultu religijnego lub działalności kościelnych osób prawnych w zakresie charytatywno-opiekuńczym lub oświatowo-wychowawczym;
-- **2)** w celu utworzenia lub powiększenia gospodarstwa rolnego zborów działających na Ziemiach Zachodnich i Północnych o powierzchni do 15 ha użytków rolnych łącznie dla jednego zboru.
+- **1)** jeżeli są one niezbędne do sprawowania kultu religijnego lub działalności kościelnych osób prawnych w zakresie charytatywno-opiekuńczym lub oświatowo-wychowawczym,
+- **2)** w celu utworzenia lub powiększenia gospodarstwa rolnego zborów działających na Ziemiach Zachodnich i Północnych, o powierzchni do 15 ha użytków rolnych łącznie dla jednego zboru.
 
 2. Przepis art. 35 ust. 3 stosuje się odpowiednio.
 
@@ -320,5 +318,13 @@ source: "isap-pdf"
 
 2. Wykaz kościelnych osób prawnych istniejących w dniu wejścia w życie ustawy określa załącznik do ustawy.
 
-**Art. 38.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia . Załącznik WYKAZ OSÓB PRAWNYCH KOŚCIOŁA ZIELONOŚWIĄTKOWEGO W RZECZYPOSPOLITEJ POLSKIEJ I. Okręgi i zbory
+**Art. 38.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Załącznik – Wykaz osób prawnych Kościoła Zielonoświątkowego w Rzeczypospolitej Polskiej I. Okręgi i zbory
+
+- **1)** Okręg Centralny Zbór „Betel” Aleksandrów Kujawski Zbór Konin Zbór Łódź Zbór „Immanuel” Łódź Zbór Pabianice Zbór Piotrków Trybunalski Zbór „Dobra Nowina” Pruszków Zbór „Zbór Romów” Warszawa Zbór Warszawa-Wola Zbór „Nowe Życie” Warszawa Zbór Stołeczny Warszawa Zbór „Jezus Nadchodzi” Warszawa Zbór „Maranatha” Włocławek
+- **2)** Okręg Południowy Zbór Będzin Zbór „Filadelfia” Bielsko-Biała Zbór Busko-Zdrój Zbór „Elim” Cieszyn Zbór „Hosanna” Częstochowa Zbór „Betel” Dębica Zbór „Arka” Gliwice Zbór „Syloe” Gorlice Zbór Hażlach Zbór „Oaza Miłości” Jastrzębie-Zdrój Zbór „Betel” Jaworzno Zbór „Betania” Katowice Zbór „Betlejem” Kraków Zbór „Zbór Boży” Kraków Zbór Kraków-Nowa-Huta Zbór „Słowo Życia” Krzeszowice Zbór Nowy Sącz Zbór „Elim” Nowy Targ Zbór „Arka” Olkusz Zbór „Salem” Oświęcim Zbór „Betezda” Racibórz Zbór „Betel” Rybnik Zbór „Jeruzalem” Skarżysko-Kamienna Zbór „Syloe” Skawina Zbór „Betel” Starachowice Zbór Tarnowskie Góry Zbór Tarnów Zbór „Betel” Ustroń Zbór „Syloe” Wisła-Czarne Zbór Wisła-Głębce Zbór „Elim” Żory Zbór Żywiec
+- **3)** Okręg Zachodni Zbór „Dobra Nowina” Bolesławiec Zbór „Społeczność Zielonoświątkowa” Brzeg Zbór Bystrzyca Kłodzka Zbór Bytom Odrzański Zbór „Betezda” Dzierżoniów Zbór „Centrum Ewangelii” Głogów Zbór „Dobra Nowina” Głogów Zbór „Betel” Głubczyce Zbór Gryfów Śląski Zbór „Betlejem” Gubin Zbór Janowice Wielkie Zbór Jarocin Zbór Jawor Zbór Jelenia Góra Zbór Kalisz Zbór „Jeruzalem” Kamienna Góra Zbór Kędzierzyn-Koźle Zbór „Betlejem” Kietrz Zbór Kluczbork Zbór Kożuchów Zbór Krotoszyn Zbór „Anastasis” Legnica Zbór Leszno Zbór „Filadelfia” Lubań Śląski Zbór Lublin Zbór „Betania” Lwówek Śląski Zbór Łęknica Zbór Milicz Zbór „Kanaan” Namysłów Zbór Nowa Sól Zbór „Nowe Życie” Nowa Sól Zbór Nysa Zbór Oleśnica Zbór „Ostoja” Opole Zbór Ostrów Wielkopolski Zbór Poznań Zbór „Syloe” Prudnik Zbór Sobótka Zbór „Salem” Strzegom Zbór Sulechów Zbór Świdnica Zbór Świebodzin Zbór Wałbrzych Zbór Wierzbica Dolna Zbór „Na Miłej” Wrocław Zbór „Chrześcijańska Społeczność” Ząbkowice Śląskie Zbór „Nadzieja” Zdzieszowice Zbór „Emaus” Zielona Góra Zbór Żary
+- **4)** Okręg Pomorski Zbór „Genezaret” Barlinek Zbór Białogard Zbór Broczyna Zbór „Nowe Życie” Bytów Zbór Chodzież Zbór „Samaria” Człuchów Zbór Goleniów Zbór „Betezda” Gorzów Wielkopolski Zbór Gryfino Zbór „Nowe Życie” Kostrzyn Zbór „Betel” Koszalin Zbór Lębork Zbór Miastko Zbór „Betlejem” Piła Zbór Police Zbór „Syloe” Pyrzyce Zbór Słupsk Zbór Stargard Szczeciński Zbór „Betania” Szczecin Zbór „Betel” Szczecinek Zbór Świdwin Zbór Trzcianka Zbór Ustka
+- **5)** Okręg Północny Zbór „Słowo Życia” Biskupiec Zbór „Betel” Bydgoszcz Zbór „Nowe Życie” Elbląg Zbór Frombork Zbór Gdańsk Zbór „Nowe Życie” Gdańsk Zbór Gdynia Zbór „Eklezja” Gdynia Zbór Giżycko Zbór „Betel” Gołdap Zbór „Betezda” Iława Zbór Inowrocław Zbór „Betel” Kętrzyn Zbór Kościerzyna Zbór Kwidzyn Zbór „Słowo Życia” Łomża Zbór Malbork Zbór „Emaus” Mikołajki Zbór „Syloe” Morąg Zbór Mrągowo Zbór „Słowo Pojednania” Olsztyn Zbór Suwałki Zbór „Betel” Szczytno Zbór Tczew Zbór Toruń
+- **6)** Okręg Wschodni Zbór Białopole Zbór Białowieża Zbór Białystok Zbór „Dobra Nowina” Białystok Zbór Bielsk Podlaski Zbór Brylińce Zbór Brzeżawa Zbór Chełm Zbór Dubicze Cerkiewne Zbór Hajnówka Zbór Hniszów Zbór Jarosław Zbór „Logos” Krosno Zbór Lubartów Zbór „Oaza” Lublin Zbór Mielec Zbór Nowosady Zbór „Nazaret” Przemyśl Zbór „Emaus” Rzeszów Zbór „Agape” Siedlce Zbór Siedliszcze Zbór Stalowa Wola Zbór „Zwiastun” Tarnobrzeg Zbór Terespol Zbór Zamość II. Seminaria Warszawskie Seminarium Teologiczne Misyjne Seminarium Biblijne Seminarium Teologiczne w Ustroniu Chrześcijański Uniwersytet „Vision” Instytut Korespondencyjny „Uniwersytet ICI” III. Duszpasterstwa Służba Katechetyczna Duszpasterstwo Młodzieży IV. Misje Misja Krajowa Misja Zagraniczna Misja Wśród Uzależnionych od Narkotyków „Teen Challenge” Misja „Chrześcijańska Rodzina” Misja Wśród Uzależnionych od Alkoholu „Nowa Nadzieja” Misja Więzienna Chrześcijańska Misja Społeczna Chrześcijańska Misja Kobiet Misja Charytatywna V. Wydawnictwa Miesięcznik „Chrześcijanin” Instytut Wydawniczy „Agape” Instytut im. T. B. Barratta VI. Kościelne studia radiowe i telewizyjne Misja Radiowa „Słowo Ewangelii” Centrum Telewizyjne „Charyzma” VII. Ośrodki Chrześcijański Ośrodek dla Osób Uzależnionych „En-Gedi” Broczyna Chrześcijański Ośrodek dla Osób Uzależnionych „Nowa Nadzieja” Janowice Wielkie Kościelny Ośrodek Rekolekcyjny „Patmos” Wiele Kościelny Ośrodek Rekolekcyjny Boguszów-Gorce Dom Rekolekcyjny „Betezda” Czchów Dom Rekolekcyjny „Betel” Szczytno.
+
 

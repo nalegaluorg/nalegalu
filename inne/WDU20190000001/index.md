@@ -8,10 +8,10 @@ pos: 1
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Warszawa, 2 stycznia 2019 ROZPORZĄDZENIE MINISTRA FINANSÓW 31 grudnia sprawie zamknięć Na podstawie art. 65 ust. 5 ustawy 16 listopada 2016 Krajowej Administracji Skarbowej (Dz. U.
+# Rozporządzenie Ministra Finansówz dnia 31 grudnia 2018 r. w sprawie zamknięć urzędowych
 
 | Pole | Wartość |
 |---|---|
@@ -22,83 +22,194 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-31 |
 | Data wydania | 2019-01-02 |
+| Wejście w życie | 2019-01-02 |
 | Ostatnia zmiana | 2024-07-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000001) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1/text.pdf) |
 
-poz. 508, późn. zm. ) zarządza się, co następuje:
-1) szczegółowy zakres i tryb nakładania i zdejmowania zamknięć urzędowych;
-2) rodzaje lub formy zamknięć przypadki, których stosowane są określone rodzaje zamknięć urzędowych;
-3) rodzaje podmiotów upoważnionych przez dyrektora izby administracji skarbowej lub naczelnika urzędu celno-skarbowego nakładania i zdejmowania zamknięć i warunki, które te podmioty muszą spełniać.
-1) ze względu na warunki procedury celnej, celu zapewnienia tożsamości towarów lub ich identyfikacji;
-2) wobec towarów objętych procedurą składowania celnego, które są przemieszczane przypadkach określonych art. 219 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 9 października 2013 ustanawiającego unijny kodeks celny (Dz. 269 10.10.2013, 1, późn. zm. ), zwanego dalej „unijnym kodeksem celnym”;
-3) wobec towarów czasowo składowanych, które są przemieszczane przypadkach określonych art. 148 ust. 5 unijnego kodeksu celnego;
-4) wobec towarów wprowadzonych na obszar celny Unii Europejskiej, które przemieszczają się trasą przewozu wyznaczoną na podstawie art. 15 ust. 2 ustawy 19 marca 2004 Prawo celne (Dz. U. poz. 167, 1544, 1669, 1697, 2227 i 2244);
-lub pracownika urzędu celno-skarbowego, zwanego dalej „pracownikiem”;
-8) celu zabezpieczenia dokumentacji związanej urządzeniami, wyrobami i towarami lub czynnościami podlegającymi kontroli celno-skarbowej;
-9) wobec towarów, co których istnieje uzasadnione podejrzenie, że mogą zostać usunięte spod dozoru celnego;
-10) przypadku przywozu na obszar celny Unii Europejskiej lub wywozu tego obszaru towarów transportem przesyłowym, takim jak rurociągi, gazociągi i sieć energetyczna;
-11) wobec napojów alkoholowych i wyrobów tytoniowych znajdujących się na statkach, które wpłynęły na obszar celny Unii Europejskiej;
-12) wobec towarów objętych systemem monitorowania przewozu, którym 9 marca 2017 systemie monitorowania drogowego i kolejowego przewozu towarów (Dz. U. poz. 2332).
-2. W przypadku, którym ust. pkt 11, można odstąpić od nakładania zamknięć pod warunkiem, że ilość napojów alkoholowych lub wyrobów tytoniowych zgodnie dokumentami przedstawionymi przez agenta statku lub danymi zawartymi systemie informatycznym służącym awizacji towarów znajdujących się na statkach morskich, wpływających polskich portów morskich, jest niewielka i nie stanowi ilości handlowej.
-§ 3. W przypadku wykonywania kontroli celno-skarbowej, której art. 54 ust. pkt 3 i 3a i ust. 2 pkt 1a ustawy 16 listopada 2016 Krajowej Administracji Skarbowej, zwanej dalej „ustawą”, zamknięcia urzędowe mogą być nakładane na każde urządzenie będące jej przedmiotem.
-§ 4. W przypadku, którym § 2 ust. pkt 10, zamknięcia urzędowe są nakładane na przyrządy pomiarowe wskazujące ilość przywożonych lub wywożonych towarów, przed rozpoczęciem ich eksploatacji.
-§ 5. Zamknięcia urzędowe mogą być nakładane każdym miejscu, którym znajdują się kontrolowane towary, wyroby, urządzenia, pomieszczenia, naczynia, kontenery lub środki transportu.
-§ 6. Zamknięcia urzędowe są zdejmowane przypadku, gdy ustanie przyczyna ich nałożenia celu przeprowadzenia kontroli celno-skarbowej.
-2. Zdjęte zamknięcia urzędowe nie mogą zostać ponownie nałożone, wyjątkiem zamknięć, których § 10 ust. pkt 4.
-§ 7. Przed zdjęciem zamknięć funkcjonariusz, pracownik lub podmiot upoważniony, którym rozdziale 4, sprawdza prawidłowość ich nałożenia czy nie one naruszone, usunięte lub zniszczone.
-2. W przypadku stwierdzenia przez podmiot upoważniony, którym rozdziale 4, nieprawidłowości nałożenia, naruszenia, usunięcia lub zniszczenia zamknięć podmiot ten zawiadamia tym fakcie odpowiednio dyrektora izby administracji skarbowej lub naczelnika urzędu celno-skarbowego udzielającego upoważnienia nakładania zamknięć urzędowych.
-3. W przypadku, którym ust. 2, podmiot upoważniony, którym rozdziale 4, może zdjąć zamknięcia urzędowe odpowiednio za zgodą dyrektora izby administracji skarbowej lub naczelnika urzędu celno-skarbowego udzielającego upoważnienia nakładania zamknięć urzędowych.
-§ 8. W przypadku zdjęcia zamknięć przez funkcjonariusza lub pracownika, po zakończeniu czynności kontrolnych nakłada on nowe zamknięcia urzędowe, a przypadkach, których § 10 ust. pkt 4, ponownie nakłada zamknięcia urzędowe, chyba że istnieją przyczyny, których § 6 ust.
-§ 9. Nałożenie zdjęcie zamknięć dokumentuje się przypadku kontroli celno-skarbowej, zakresie: towarów objętych ograniczeniami lub zakazami ‒ dokumencie wymaganym przy obejmowaniu towaru procedurą celną lub powrotnym wywozem;
-3) przestrzegania przepisów regulujących urządzanie i prowadzenie gier hazardowych, których 19 listopada 2009 grach hazardowych (Dz. U. poz. 165, 650, 723, 1629 i 2354), a także zgodności tej działalności ze zgłoszeniem, udzieloną koncesją lub zezwoleniem zatwierdzonym regulaminem ‒ protokole czynności kontrolnych spisie zamknięć urzędowych, prowadzonym przez podmiot podlegający kontroli celno-skarbowej;
-4) przestrzegania przepisów regulujących posiadanie automatów gier hazardowych, których 19 listopada 2009 grach hazardowych protokole czynności kontrolnych spisie zamknięć urzędowych, prowadzonym przez podmiot podlegający kontroli celno-skarbowej;
-5) produkcji i obrotu automatami gier hazardowych, których 19 listopada 2009 grach hazardowych protokole czynności kontrolnych spisie zamknięć urzędowych, prowadzonym przez podmiot podlegający kontroli celno-skarbowej;
-6) kontroli przewozu towarów, której 9 marca 2017 systemie monitorowania drogowego i kolejowego przewozu towarów odpowiednio w:
-a) protokole kontroli, przypadku nałożenia zamknięć urzędowych,
-b) rejestrze zgłoszeń, przypadku nałożenia lub usunięcia zamknięć urzędowych,
-c) potwierdzeniu usunięcia zamknięć urzędowych.
-2. Spis zamknięć urzędowych, którym ust. pkt i 3–5, dokumenty, których ust. 1, zawierają informacje miejscu, dacie, liczbie, rodzaju i cechach identyfikacyjnych nałożonych i zdjętych zamknięć podpis funkcjonariusza lub pracownika, który nakładał i zdejmował te zamknięcia, a przypadku spisu zamknięć także podpis osoby odpowiedzialnej za wykonywanie powierzonych jej, przez podmiot podlegający kontroli, obowiązków zakresie objętym kontrolą celno-skarbową.
-1) plomby ołowiane lub innych metali bądź ich stopów, dużej plastyczności, odporne na zwykłe zużycie lub przypadkowe naruszenie, wraz elementami mocującymi plombę;
-2) plomby stosowane jako specjalny rodzaj zamknięć, których art. 317 ust. 2 rozporządzenia wykonawczego Komisji (UE) 2015/2447 24 listopada 2015 ustanawiającego szczegółowe zasady wykonania niektórych przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 ustanawiającego unijny kodeks celny (Dz. 343 29.12.2015, 558, późn. zm. );
-3) pieczęcie, stemple inne znaki, których wzory określone przepisach odrębnych;
-4) plomby elektroniczne wykorzystujące technologie pozycjonowania satelitarnego i transmisji danych, wraz elementami mocującymi plombę.
-2. Zamknięcia urzędowe, których ust. 1:
-1) pkt i 3, są stosowane przypadku:
-a) gdy nakładanie lub zdejmowanie tych zamknięć wynika przepisów innych niż określone pkt 2 i 3,
-e) zabezpieczenia tożsamości towarów, wyrobów, urządzeń podlegających kontroli,
-f) zabezpieczenia przed dostępem osób nieuprawnionych środków transportu, kontenerów, których są przewożone lub magazynowane towary, wyroby lub urządzenia podlegające kontroli;
-2) pkt 2, są stosowane przypadku korzystania pozwolenia, którym art. 233 ust. 4 lit. c unijnego kodeksu celnego;
-3) pkt 4, są stosowane przypadku, którym art. 15 ustawy 9 marca 2017 systemie monitorowania drogowego i kolejowego przewozu towarów.
-§ 11. Zamknięcia urzędowe, których § 10 ust. 1:
-1) pkt 1, nakłada się formie plomby zaciśniętej na elemencie mocującym przy użyciu plombownicy na towarze, urządzeniu, naczyniu, pomieszczeniu, środku transportu lub opakowaniu,
-2) pkt 2, nakłada się formie plomby na elemencie mocującym na towarze, urządzeniu, naczyniu, pomieszczeniu, środku transportu, kontenerze lub opakowaniu,
-3) pkt 3, nakłada się formie odciśnięcia pieczęci, stempla lub innego znaku na urządzeniu, naczyniu, pomieszczeniu, środku transportu lub opakowaniu,
-4) pkt 4, nakłada się formie plomby elektronicznej na elemencie mocującym na towarze, urządzeniu, naczyniu, pomieszczeniu, środku transportu lub opakowaniu tak, aby po nałożeniu były łatwo dostępne kontroli celno-skarbowej i rozpoznania aby każda próba ich naruszenia, manipulacji nimi lub ich usunięcia pozostawiała widoczne ślady, a przypadku zamknięć urzędowych, których § 10 ust. pkt 4, wzbudzała alarm i zapisywana była pamięci plomby elektronicznej.
-2. Zamknięcia urzędowe, których § 10 ust. pkt 1–3, są nakładane:
-1) bezpośrednio lub
-2) użyciem odpowiednich cięgien spinających: szpagatu drucikiem, drutu lub żyłki syntetycznej nawiniętą na nie spiralą metalową lub podobnym dwuskładnikowym elementem.
-3. Zamknięcia urzędowe, których § 10 ust. pkt 4, są nakładane bezpośrednio lub użyciem odpowiednich linek spinających.
-4. Zamknięcia urzędowe są opatrzone znakami identyfikacyjnymi określonymi przepisach odrębnych, uniemożliwiającymi ich sfałszowanie lub podrobienie, a przypadku zamknięć urzędowych, których § 10 ust. pkt 4, dodatkowo umożliwiającymi ich identyfikację systemie, którym 9 marca 2017 systemie monitorowania drogowego i kolejowego przewozu towarów.
-§ 12. Zamknięciami urzędowymi są też inne niż wymienione § 10 ust. rodzaje zamknięć, nałożone przez właściwe organy, również innych państw.
-1) pkt 1, pod warunkiem że podmiot ten:
-2. Naczelnik urzędu celno-skarbowego może upoważnić nakładania i zdejmowania zamknięć urzędowych, których § 10 ust. pkt 1, również:
-1) podmiot leczniczy i aptekę używające alkoholu etylowego celów medycznych, pod warunkiem że użycie ciągu roku nie przekracza ilości 3000 dm alkoholu etylowego 100% vol. stanie nieskażonym 20 000 dm alkoholu etylowego 100% vol. stanie skażonym przypadku przyjęcia przesyłki alkoholu etylowego,
-2) podmiot używający alkoholu etylowego wyłącznie:
-a) jako próbki analiz, niezbędnych prób produkcyjnych lub celów naukowych,
-b) badań naukowych pod warunkiem że użycie ciągu roku nie przekracza ilości 3000 dm alkoholu etylowego 100% vol. stanie nieskażonym 20 000 dm alkoholu etylowego 100% vol. stanie skażonym ‒ przypadku przyjęcia przesyłki alkoholu etylowego,
-3) podmiot zużywający alkohol etylowy ilościach nieprzekraczających ciągu roku 1000 dm alkoholu etylowego 100% vol. stanie nieskażonym lub 3000 dm alkoholu etylowego 100% vol. stanie skażonym ‒ przypadku przyjęcia przesyłki alkoholu etylowego,
-4) podmiot, który dokonuje:
-a) odbioru lub wysyłki wyrobów akcyzowych bez udziału funkcjonariusza lub pracownika, pod warunkiem posiadania przez taki podmiot zatwierdzonych akt weryfikacyjnych, których art. 109 ust. ustawy, spełnienia przez niego warunków uzyskania zwolnienia obowiązku składania zabezpieczenia akcyzowego, których art. 64 ust. ustawy 6 grudnia 2008 podatku akcyzowym,
-b) przyjęcia przesyłki alkoholu etylowego, który został skażony obecności funkcjonariusza lub pracownika obowiązane przestrzegania przepisów prawa podatkowego zakresie produkcji, przemieszczania i zużycia wyrobów akcyzowych, szczególności ich wytwarzania, uszlachetniania, przerabiania, skażania, rozlewu, przyjmowania, magazynowania, wydawania, przewozu i niszczenia, zakresie stosowania znaków akcyzy i oznaczania znakami akcyzy tych wyrobów.
-3. Podmioty, których ust. i 2, mogą uzyskać upoważnienie nakładania i zdejmowania zamknięć urzędowych, pod warunkiem opracowania i wdrożenia procedury ewidencjonowania nałożonych i zdjętych zamknięć urzędowych procedury przekazywania naczelnikowi urzędu celno-skarbowego informacji nałożeniu lub zdjęciu zamknięć urzędowych, uwzględnieniem informacji liczbie, rodzaju i cechach identyfikacyjnych tych zamknięć.
+Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Szczegółowy zakres i tryb nakładania i zdejmowania zamknięć urzędowych Rozdział 3 – Rodzaje lub formy zamknięć urzędowych oraz przypadki, w których stosowane są określone rodzaje zamknięć urzędowych Rozdział 4 – Rodzaje podmiotów upoważnionych do nakładania i zdejmowania zamknięć urzędowych i warunki, które te podmioty muszą spełniać Rozdział 5 – Przepis końcowy
+Treść rozporządzenia
+Na podstawie art. 65 ust. 5 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2018 r. poz. 508, z późn. zm.) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+szczegółowy zakres i tryb nakładania i zdejmowania zamknięć urzędowych;
+2)
+rodzaje lub formy zamknięć urzędowych oraz przypadki, w których stosowane są określone rodzaje zamknięć urzędowych;
+3)
+rodzaje podmiotów upoważnionych przez dyrektora izby administracji skarbowej lub naczelnika urzędu celno-skarbowego do nakładania i zdejmowania zamknięć urzędowych i warunki, które te podmioty muszą spełniać.
+§ 2.
+1.
+Zamknięcia urzędowe są nakładane, gdy jest to niezbędne:
+1)
+ze względu na warunki procedury celnej, w celu zapewnienia tożsamości towarów lub ich identyfikacji;
+2)
+wobec towarów objętych procedurą składowania celnego, które są przemieszczane w przypadkach określonych w art. 219 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm.), zwanego dalej „unijnym kodeksem celnym”;
+3)
+wobec towarów czasowo składowanych, które są przemieszczane w przypadkach określonych w art. 148 ust. 5 unijnego kodeksu celnego;
+4)
+wobec towarów wprowadzonych na obszar celny Unii Europejskiej, które przemieszczają się trasą przewozu wyznaczoną na podstawie art. 15 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2018 r. poz. 167, 1544, 1669, 1697, 2227 i 2244);
+5)
+w celu wyeliminowania dostępu do alkoholu etylowego i jego par, w gorzelni, w której stosuje się system zamkniętego magazynu, polegający na nałożeniu zamknięć urzędowych na urządzenia produkcyjne i magazynowe alkoholu etylowego;
+6)
+w przypadku pobrania próbki towarów lub wyrobów akcyzowych w celu ich zbadania;
+7)
+w przypadku gdy wysyłka wyrobów akcyzowych, z wyjątkiem wyrobów energetycznych objętych kontrolą celno-skarbową, odbywa się w obecności funkcjonariusza Służby Celno-Skarbowej, zwanego dalej „funkcjonariuszem”, lub pracownika urzędu celno-skarbowego, zwanego dalej „pracownikiem”;
+8)
+w celu zabezpieczenia dokumentacji związanej z urządzeniami, wyrobami i towarami lub czynnościami podlegającymi kontroli celno-skarbowej;
+9)
+wobec towarów, co do których istnieje uzasadnione podejrzenie, że mogą zostać usunięte spod dozoru celnego;
+10)
+w przypadku przywozu na obszar celny Unii Europejskiej lub wywozu z tego obszaru towarów transportem przesyłowym, takim jak rurociągi, gazociągi i sieć energetyczna;
+11)
+wobec napojów alkoholowych i wyrobów tytoniowych znajdujących się na statkach, które wpłynęły na obszar celny Unii Europejskiej;
+12)
+wobec towarów objętych systemem monitorowania przewozu, o którym mowa w ustawie z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów (Dz. U. z 2018 r. poz. 2332).
+2.
+W przypadku, o którym mowa w ust. 1 pkt 11, można odstąpić od nakładania zamknięć urzędowych pod warunkiem, że ilość napojów alkoholowych lub wyrobów tytoniowych zgodnie z dokumentami przedstawionymi przez agenta statku lub danymi zawartymi w systemie informatycznym służącym do awizacji towarów znajdujących się na statkach morskich, wpływających do polskich portów morskich, jest niewielka i nie stanowi ilości handlowej.
+§ 3.
+W przypadku wykonywania kontroli celno-skarbowej, o której mowa w art. 54 ust. 1 pkt 3 i 3a i ust. 2 pkt 1a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, zwanej dalej „ustawą”, zamknięcia urzędowe mogą być nakładane na każde urządzenie będące jej przedmiotem.
+§ 4.
+W przypadku, o którym mowa w § 2 ust. 1 pkt 10, zamknięcia urzędowe są nakładane na przyrządy pomiarowe wskazujące ilość przywożonych lub wywożonych towarów, przed rozpoczęciem ich eksploatacji.
+§ 5.
+Zamknięcia urzędowe mogą być nakładane w każdym miejscu, w którym znajdują się kontrolowane towary, wyroby, urządzenia, pomieszczenia, naczynia, kontenery lub środki transportu.
+§ 6.
+1.
+Zamknięcia urzędowe są zdejmowane w przypadku, gdy ustanie przyczyna ich nałożenia oraz w celu przeprowadzenia kontroli celno-skarbowej.
+2.
+Zdjęte zamknięcia urzędowe nie mogą zostać ponownie nałożone, z wyjątkiem zamknięć, o których mowa w § 10 ust. 1 pkt 4.
+§ 7.
+1.
+Przed zdjęciem zamknięć urzędowych funkcjonariusz, pracownik lub podmiot upoważniony, o którym mowa w rozdziale 4, sprawdza prawidłowość ich nałożenia oraz czy nie zostały one naruszone, usunięte lub zniszczone.
+2.
+W przypadku stwierdzenia przez podmiot upoważniony, o którym mowa w rozdziale 4, nieprawidłowości nałożenia, naruszenia, usunięcia lub zniszczenia zamknięć urzędowych podmiot ten zawiadamia o tym fakcie odpowiednio dyrektora izby administracji skarbowej lub naczelnika urzędu celno-skarbowego udzielającego upoważnienia do nakładania zamknięć urzędowych.
+3.
+W przypadku, o którym mowa w ust. 2, podmiot upoważniony, o którym mowa w rozdziale 4, może zdjąć zamknięcia urzędowe odpowiednio za zgodą dyrektora izby administracji skarbowej lub naczelnika urzędu celno-skarbowego udzielającego upoważnienia do nakładania zamknięć urzędowych.
+§ 8.
+W przypadku zdjęcia zamknięć urzędowych przez funkcjonariusza lub pracownika, po zakończeniu czynności kontrolnych nakłada on nowe zamknięcia urzędowe, a w przypadkach, o których mowa w § 10 ust. 1 pkt 4, ponownie nakłada zamknięcia urzędowe, chyba że istnieją przyczyny, o których mowa w § 6 ust. 1.
+§ 9.
+1.
+Nałożenie oraz zdjęcie zamknięć urzędowych dokumentuje się w przypadku kontroli celno-skarbowej, w zakresie:
+1)
+przestrzegania przepisów prawa podatkowego w zakresie produkcji, przemieszczania i zużycia wyrobów akcyzowych, w szczególności ich wytwarzania, uszlachetniania, przerabiania, skażania, rozlewu, przyjmowania, magazynowania, wydawania, przewozu i niszczenia, oraz w zakresie stosowania znaków akcyzy i oznaczania znakami akcyzy tych wyrobów – w krajowym systemie teleinformatycznym służącym do obsługi przemieszczania wyrobów akcyzowych albo dokumentach mających zastosowanie do przemieszczania wyrobów akcyzowych, o których mowa w przepisach ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2018 r. poz. 1114, z późn. zm.), a także w protokole z czynności kontrolnych, o ile taki protokół został sporządzony, oraz w spisie zamknięć urzędowych prowadzonym przez podmiot podlegający kontroli celno-skarbowej;
+2)
+przestrzegania przepisów prawa celnego oraz innych przepisów związanych z przywozem i wywozem towarów w obrocie między obszarem celnym Unii Europejskiej a państwami trzecimi, w szczególności przepisów dotyczących towarów objętych ograniczeniami lub zakazami – w dokumencie wymaganym przy obejmowaniu towaru procedurą celną lub powrotnym wywozem;
+3)
+przestrzegania przepisów regulujących urządzanie i prowadzenie gier hazardowych, o których mowa w ustawie z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2018 r. poz. 165, 650, 723, 1629 i 2354), a także zgodności tej działalności ze zgłoszeniem, udzieloną koncesją lub zezwoleniem oraz zatwierdzonym regulaminem – w protokole z czynności kontrolnych oraz w spisie zamknięć urzędowych, prowadzonym przez podmiot podlegający kontroli celno-skarbowej;
+4)
+przestrzegania przepisów regulujących posiadanie automatów do gier hazardowych, o których mowa w ustawie z dnia 19 listopada 2009 r. o grach hazardowych – w protokole z czynności kontrolnych oraz w spisie zamknięć urzędowych, prowadzonym przez podmiot podlegający kontroli celno-skarbowej;
+5)
+produkcji i obrotu automatami do gier hazardowych, o których mowa w ustawie z dnia 19 listopada 2009 r. o grach hazardowych – w protokole z czynności kontrolnych oraz w spisie zamknięć urzędowych, prowadzonym przez podmiot podlegający kontroli celno-skarbowej;
+6)
+kontroli przewozu towarów, o której mowa w ustawie z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów – odpowiednio w:
+a)
+protokole z kontroli, w przypadku nałożenia zamknięć urzędowych,
+b)
+rejestrze zgłoszeń, w przypadku nałożenia lub usunięcia zamknięć urzędowych,
+c)
+potwierdzeniu usunięcia zamknięć urzędowych.
+2.
+Spis zamknięć urzędowych, o którym mowa w ust. 1 pkt 1 i 3–5, oraz dokumenty, o których mowa w ust. 1, zawierają informacje o miejscu, dacie, liczbie, rodzaju i cechach identyfikacyjnych nałożonych i zdjętych zamknięć urzędowych oraz podpis funkcjonariusza lub pracownika, który nakładał i zdejmował te zamknięcia, a w przypadku spisu zamknięć urzędowych także podpis osoby odpowiedzialnej za wykonywanie powierzonych jej, przez podmiot podlegający kontroli, obowiązków w zakresie objętym kontrolą celno-skarbową.
+§ 10.
+1.
+Stosuje się następujące rodzaje zamknięć urzędowych:
+1)
+plomby ołowiane lub z innych metali bądź ich stopów, o dużej plastyczności, odporne na zwykłe zużycie lub przypadkowe naruszenie, wraz z elementami mocującymi plombę;
+2)
+plomby stosowane jako specjalny rodzaj zamknięć, o których mowa w art. 317 ust. 2 rozporządzenia wykonawczego Komisji (UE) 2015/2447 z dnia 24 listopada 2015 r. ustanawiającego szczegółowe zasady wykonania niektórych przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 ustanawiającego unijny kodeks celny (Dz. Urz. UE L 343 z 29.12.2015, str. 558, z późn. zm.);
+3)
+pieczęcie, stemple oraz inne znaki, których wzory zostały określone w przepisach odrębnych;
+4)
+plomby elektroniczne wykorzystujące technologie pozycjonowania satelitarnego i transmisji danych, wraz z elementami mocującymi plombę.
+2.
+Zamknięcia urzędowe, o których mowa w ust. 1:
+1)
+pkt 1 i 3, są stosowane w przypadku:
+a)
+gdy nakładanie lub zdejmowanie tych zamknięć urzędowych wynika z przepisów innych niż określone w pkt 2 i 3,
+b)
+potwierdzenia tożsamości towaru zgłoszonego do procedury celnej oraz powrotnego wywozu lub procedury zawieszenia poboru podatku akcyzowego,
+c)
+zabezpieczenia urządzeń, pomieszczeń i naczyń wykorzystywanych do prowadzenia działalności podlegającej kontroli celno-skarbowej przed ich naruszeniem lub zmianą oraz przed dostępem osób nieuprawnionych,
+d)
+zabezpieczenia autentyczności dokumentacji związanej z urządzeniami, wyrobami i towarami lub czynnościami podlegającymi kontroli,
+e)
+zabezpieczenia tożsamości towarów, wyrobów, urządzeń podlegających kontroli,
+f)
+zabezpieczenia przed dostępem osób nieuprawnionych do środków transportu, kontenerów, w których są przewożone lub magazynowane towary, wyroby lub urządzenia podlegające kontroli;
+2)
+pkt 2, są stosowane w przypadku korzystania z pozwolenia, o którym mowa w art. 233 ust. 4 lit. c unijnego kodeksu celnego;
+3)
+pkt 4, są stosowane w przypadku, o którym mowa w art. 15 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów.
+§ 11.
+1.
+Zamknięcia urzędowe, o których mowa w § 10 ust. 1:
+1)
+pkt 1, nakłada się w formie plomby zaciśniętej na elemencie mocującym przy użyciu plombownicy na towarze, urządzeniu, naczyniu, pomieszczeniu, środku transportu lub opakowaniu,
+2)
+pkt 2, nakłada się w formie plomby na elemencie mocującym na towarze, urządzeniu, naczyniu, pomieszczeniu, środku transportu, kontenerze lub opakowaniu,
+3)
+pkt 3, nakłada się w formie odciśnięcia pieczęci, stempla lub innego znaku na urządzeniu, naczyniu, pomieszczeniu, środku transportu lub opakowaniu,
+4)
+pkt 4, nakłada się w formie plomby elektronicznej na elemencie mocującym na towarze, urządzeniu, naczyniu, pomieszczeniu, środku transportu lub opakowaniu
+tak, aby po nałożeniu były łatwo dostępne do kontroli celno-skarbowej i rozpoznania oraz aby każda próba ich naruszenia, manipulacji nimi lub ich usunięcia pozostawiała widoczne ślady, a w przypadku zamknięć urzędowych, o których mowa w § 10 ust. 1 pkt 4, wzbudzała alarm i zapisywana była w pamięci plomby elektronicznej.
+2.
+Zamknięcia urzędowe, o których mowa w § 10 ust. 1 pkt 1–3, są nakładane:
+1)
+bezpośrednio lub
+2)
+z użyciem odpowiednich cięgien spinających: szpagatu z drucikiem, drutu lub żyłki syntetycznej z nawiniętą na nie spiralą metalową lub podobnym dwuskładnikowym elementem.
+3.
+Zamknięcia urzędowe, o których mowa w § 10 ust. 1 pkt 4, są nakładane bezpośrednio lub z użyciem odpowiednich linek spinających.
+4.
+Zamknięcia urzędowe są opatrzone znakami identyfikacyjnymi określonymi w przepisach odrębnych, uniemożliwiającymi ich sfałszowanie lub podrobienie, a w przypadku zamknięć urzędowych, o których mowa w § 10 ust. 1 pkt 4, dodatkowo umożliwiającymi ich identyfikację w systemie, o którym mowa w ustawie z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów.
+§ 12.
+Zamknięciami urzędowymi są też inne niż wymienione w § 10 ust. 1 rodzaje zamknięć, nałożone przez właściwe organy, również innych państw.
+§ 13.
+Dyrektor izby administracji skarbowej może upoważnić podmiot obowiązany do przestrzegania przepisów prawa celnego oraz innych przepisów związanych z przywozem i wywozem towarów w obrocie między obszarem celnym Unii Europejskiej a państwami trzecimi, w szczególności przepisów dotyczących towarów objętych ograniczeniami lub zakazami, do nakładania lub zdejmowania zamknięć urzędowych, o których mowa w § 10 ust. 1:
+1)
+pkt 1, pod warunkiem że podmiot ten:
+a)
+jest uprawniony do przedstawienia towarów w innym miejscu niż urząd celno-skarbowy lub
+b)
+został zwolniony z obowiązku przedstawienia towarów;
+2)
+pkt 2, pod warunkiem posiadania przez ten podmiot pozwolenia na stosowanie specjalnego rodzaju zamknięć, w rozumieniu art. 233 ust. 4 lit. c unijnego kodeksu celnego.
+§ 14.
+1.
+Naczelnik urzędu celno-skarbowego może upoważnić do nakładania lub zdejmowania zamknięć urzędowych, o których mowa w § 10 ust. 1 pkt 1, podmiot obowiązany do przestrzegania przepisów regulujących urządzanie i prowadzenie gier hazardowych, o których mowa w ustawie z dnia 19 listopada 2009 r. o grach hazardowych, a także zgodność tej działalności ze zgłoszeniem, udzieloną koncesją lub zezwoleniem oraz zatwierdzonym regulaminem, pod warunkiem posiadania przez ten podmiot odpowiednio audiowizyjnego systemu kontroli gier służącego kontroli przebiegu i prowadzenia gier albo systemu rejestrującego i archiwizującego, o których mowa odpowiednio w art. 15b ust. 1 i art. 15ba ust. 1 ustawy z dnia 19 listopada 2009 r. o grach hazardowych.
+2.
+Naczelnik urzędu celno-skarbowego może upoważnić do nakładania i zdejmowania zamknięć urzędowych, o których mowa w § 10 ust. 1 pkt 1, również:
+1)
+podmiot leczniczy i aptekę używające alkoholu etylowego do celów medycznych, pod warunkiem że użycie w ciągu roku nie przekracza ilości 3000 dm3alkoholu etylowego 100% vol. w stanie nieskażonym oraz 20 000 dm3alkoholu etylowego 100% vol. w stanie skażonym – w przypadku przyjęcia przesyłki alkoholu etylowego,
+2)
+podmiot używający alkoholu etylowego wyłącznie:
+a)
+jako próbki do analiz, do niezbędnych prób produkcyjnych lub do celów naukowych,
+b)
+do badań naukowych
+pod warunkiem że użycie w ciągu roku nie przekracza ilości 3000 dm3alkoholu etylowego 100% vol. w stanie nieskażonym oraz 20 000 dm3alkoholu etylowego 100% vol. w stanie skażonym – w przypadku przyjęcia przesyłki alkoholu etylowego,
+3)
+podmiot zużywający alkohol etylowy w ilościach nieprzekraczających w ciągu roku 1000 dm3alkoholu etylowego 100% vol. w stanie nieskażonym lub 3000 dm3alkoholu etylowego 100% vol. w stanie skażonym – w przypadku przyjęcia przesyłki alkoholu etylowego,
+4)
+podmiot, który dokonuje:
+a)
+odbioru lub wysyłki wyrobów akcyzowych bez udziału funkcjonariusza lub pracownika, pod warunkiem posiadania przez taki podmiot zatwierdzonych akt weryfikacyjnych, o których mowa w art. 109 ust. 1 ustawy, oraz spełnienia przez niego warunków do uzyskania zwolnienia z obowiązku składania zabezpieczenia akcyzowego, o których mowa w art. 64 ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym,
+b)
+przyjęcia przesyłki alkoholu etylowego, który został skażony w obecności funkcjonariusza lub pracownika
+obowiązane do przestrzegania przepisów prawa podatkowego w zakresie produkcji, przemieszczania i zużycia wyrobów akcyzowych, w szczególności ich wytwarzania, uszlachetniania, przerabiania, skażania, rozlewu, przyjmowania, magazynowania, wydawania, przewozu i niszczenia, oraz w zakresie stosowania znaków akcyzy i oznaczania znakami akcyzy tych wyrobów.
+3.
+Podmioty, o których mowa w ust. 1 i 2, mogą uzyskać upoważnienie do nakładania i zdejmowania zamknięć urzędowych, pod warunkiem opracowania i wdrożenia procedury ewidencjonowania nałożonych i zdjętych zamknięć urzędowych oraz procedury przekazywania naczelnikowi urzędu celno-skarbowego informacji o nałożeniu lub zdjęciu zamknięć urzędowych, z uwzględnieniem informacji o liczbie, rodzaju i cechach identyfikacyjnych tych zamknięć.
+§ 15.
+Rozporządzenie wchodzi w życie z dniem 2 stycznia 2019 r.
+1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 1000, 1039, 1499, 1544, 1577, 1654, 2193, 2245 i 2354. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 287 z 29.10.2013, str. 90, Dz. Urz. UE L 267 z 30.09.2016, str. 2, Dz. Urz. UE L 354 z 23.12.2016, str. 32 oraz Dz. Urz. UE L 42 z 18.02.2017, str. 43. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1039, 1356, 1629, 1697, 2227, 2244, 2354 i 2538. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 87 z 02.04.2016 str. 35, Dz. Urz. UE L 101 z 13.04.2017, str. 200, Dz. Urz. UE L 149 z 13.06.2017, str. 19, Dz. Urz. UE L 101 z 20.04.2018, str. 22, Dz. Urz. UE L 157 z 20.06.2018, str. 27 oraz Dz. Urz. UE L 317 z 14.12.2018, str. 57. 6) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 22 lutego 2018 r. w sprawie zamknięć urzędowych (Dz. U. poz. 434), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z aaadnia 9 listopada 2018 r. o zmianie aaaustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354).
 
-#### Rozdział Przepisy ogólne § Rozporządzenie określa:
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Szczegółowy zakres i tryb nakładania i zdejmowania zamknięć § 2. Zamknięcia urzędowe są nakładane, gdy jest to niezbędne:
+#### Rozdział 2 Szczegółowy zakres i tryb nakładania i zdejmowania zamknięć urzędowych
 
-#### Rozdział 3 Rodzaje lub formy zamknięć przypadki, których stosowane są określone rodzaje zamknięć § 10. Stosuje się następujące rodzaje zamknięć urzędowych:
+#### Rozdział 3 Rodzaje lub formy zamknięć urzędowych oraz przypadki, w których stosowane są określone rodzaje zamknięć urzędowych
 
-#### Rozdział 4 Rodzaje podmiotów upoważnionych nakładania i zdejmowania zamknięć i warunki, które te podmioty muszą spełniać § 13. Dyrektor izby administracji skarbowej może upoważnić podmiot obowiązany przestrzegania przepisów prawa celnego innych przepisów związanych przywozem i wywozem towarów obrocie między obszarem celnym Unii Europejskiej a państwami trzecimi, szczególności przepisów dotyczących towarów objętych ograniczeniami lub zakazami, nakładania lub zdejmowania zamknięć urzędowych, których § 10 ust. 1:
+#### Rozdział 4 Rodzaje podmiotów upoważnionych do nakładania i zdejmowania zamknięć urzędowych i warunki, które te podmioty muszą spełniać
 
-#### Rozdział 5 Przepis końcowy § 15. Rozporządzenie wchodzi życie dniem 2 stycznia 2019 Minister Finansów: wz. L. Skiba
+#### Rozdział 5 Przepis końcowy
 

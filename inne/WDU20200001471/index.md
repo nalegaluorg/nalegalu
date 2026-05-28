@@ -8,12 +8,10 @@ pos: 1471
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# sprawie tworzenia działania komitetów portach lotniczych Na podstawie art. 67 ust. 6 ustawy dnia 3 lipca 2002 r. Prawo lotnicze (Dz. U. 2019 r. poz. 1580 1495 oraz 2020 r. poz. 284 1378) zarządza się, co następuje:
-
-*ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY dnia 13 sierpnia 2020 r.*
+# Rozporządzenie Ministra Infrastrukturyz dnia 13 sierpnia 2020 r. w sprawie tworzenia i działania komitetów w portach lotniczych
 
 | Pole | Wartość |
 |---|---|
@@ -24,89 +22,224 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2020-08-13 |
 | Data wydania | 2020-08-28 |
+| Wejście w życie | 2020-09-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001471) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1471/text.pdf) |
 
-§ 2. Ilekroć rozporządzeniu jest mowa o:
-1) bezwzględnej większości głosów rozumie się to więcej niż połowę głosów oddanych, przy czym głosy rozumie się głosy „za”, „przeciw” oraz „wstrzymujące się”, oddane podczas głosowania sposób zgodny rozporządzeniem regulaminem działania
-2) Prezesie Urzędu rozumie się to Prezesa Urzędu Lotnictwa Cywilnego;
-3) rozporządzeniu nr 95/93 rozumie się to rozporządzenie Rady (EWG) nr 95/93 dnia 18 stycznia 1993 r.
-sprawie wspólnych zasad przydzielania czasu na start lądowanie portach lotniczych Wspólnoty (Dz. Urz.
-WE L 14 22.01.1993, str. 1, późn. zm. Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 2, str. 3);
-4) ustawie rozumie się to ustawę dnia 3 lipca 2002 r. Prawo lotnicze;
-2. Komitet koordynacyjny finansuje swoją działalność własnych środków, zastrzeżeniem § 12.
-§ 4. 1. Posiedzenie założycielskie zwołuje zarządzający lotniskiem, zawiadamiając:
-1) Prezesa Urzędu,
-2) podmioty, o których mowa art. 5 ust. 1 zdaniu trzecim rozporządzenia nr 95/93,
-3) koordynatora rozkładów lotów przypadku gdy koordynator rozkładów lotów został powołany dla danego portu lotniczego o terminie miejscu posiedzenia założycielskiego, co najmniej 21 dni przed wyznaczonym terminem posiedzenia założycielskiego, formie pisemnej postaci papierowej za pomocą poczty elektronicznej.
-2. posiedzeniu założycielskim uczestniczą przedstawiciele członków koordynacyjnego upoważnieni ich reprezentacji, którzy najpóźniej 3 dni robocze przed rozpoczęciem posiedzenia założycielskiego składają zarządzającemu lotniskiem wniosek, o którym mowa § 5 ust. 1, formie pisemnej postaci papierowej za pomocą poczty elektronicznej. Wniosek złożony za pomocą poczty elektronicznej powinien być złożony również postaci papierowej, najpóźniej dniu posiedzenia założycielskiego.
-3. Podmioty, o których mowa art. 5 ust. 1 zdaniu trzecim rozporządzenia nr 95/93, mogą przed wyznaczonym terminem posiedzenia założycielskiego zgłaszać zarządzającemu lotniskiem, formie pisemnej postaci papierowej za pomocą poczty elektronicznej, kandydatury na stanowisko koordynacyjnego.
-4. Do czasu wyboru jego funkcję pełni przedstawiciel zarządzającego lotniskiem albo upoważniony przedstawiciel członka wyznaczony zarządzającego lotniskiem.
-5. Porządek obrad posiedzenia założycielskiego ustalają członkowie koordynacyjnego na początku posiedzenia założycielskiego, zastrzeżeniem że pierwszym punktem porządku obrad jest wybór koordynacyjnego.
-6. Bezpośrednio po wyborze osoba dotychczas pełniąca funkcję przewodniczącego zgodnie ust. 4, przekazuje przewodniczącemu listę członków koordynacyjnego, listę przedstawicieli członków upoważnionych ich reprezentacji ramach działalności oraz dokumenty zebrane zarządzającego lotniskiem związku działalnością tego komitetu. Przekazanie dokumentacji następuje na podstawie protokołu zdawczo-odbiorczego.
-7. Do czasu wyznaczenia sekretarza jego funkcję pełni przedstawiciel zarządzającego lotniskiem albo upoważniony przedstawiciel członka wskazany Prezesa Urzędu.
-§ 5. 1. Wpisu na listę członków oraz wykreślenia tej listy dokonuje przewodniczący na pisemny wniosek podmiotu ubiegającego się o członkostwo albo rezygnującego członkostwa.
-2. Członkostwo komitecie koordynacyjnym jest dobrowolne.
-3. Nie można odmówić członkostwa komitecie koordynacyjnym wnioskodawcy będącemu podmiotem, o którym mowa art. 5 ust. 1 zdaniu trzecim rozporządzenia nr 95/93.
-bezwzględną większością głosów na posiedzeniu komitetu.
-3. Kandydatury na funkcję są zgłaszane formie pisemnej postaci papierowej za pomocą poczty elektronicznej sekretarza koordynacyjnego, co najmniej 10 dni przed wyznaczonym terminem posiedzenia, podczas którego jest planowany jego wybór, zastrzeżeniem § 4 ust. 3.
-4. Przewodniczącym zostaje kandydat, który uzyskał największą liczbę głosów spośród wszystkich zgłoszonych kandydatów.
-5. przypadku gdy złożona została tylko jedna kandydatura na funkcję koordynacyjnego, kandydata uważa się za wybranego, jeżeli głosowaniu uzyskał więcej niż połowę oddanych głosów.
-6. przypadku gdy nie wpłynie żadna kandydatura na funkcję albo przypadku gdy kandydat, o którym mowa ust. 5, nie uzyskał więcej niż połowy oddanych głosów, dotychczasowy przewodniczący pełni funkcję następną kadencję, pod warunkiem wyrażenia niego zgody na jej pełnienie.
-7. przypadku braku zgody, o której mowa ust. 6, funkcję pełni wskazany zarządzającego lotniskiem upoważniony przedstawiciel członka koordynacyjnego, czasu kolejnego wyboru, o którym mowa ust. 3, jednak nie dłużej niż trwa kadencja, o której mowa ust. 2.
-8. Do zadań należy szczególności:
-1) opracowanie projektu regulaminu działania
-2) zwoływanie prowadzenie posiedzeń
-3) reprezentowanie na zewnątrz;
-4) opracowywanie porządku obrad posiedzeń
-5) opracowywanie rocznych raportów prac wraz wnioskami.
-§ 7. 1. Pracę wspiera sekretarz koordynacyjnego.
-2. Sekretarza wyznacza przewodniczący spośród przedstawicieli członków koordynacyjnego.
-3. Do zadań sekretarza należy:
-1) prowadzenie listy członków koordynacyjnego, tym jej aktualizacja;
-2) powiadamianie członków o miejscu terminie posiedzenia;
-3) sporządzanie przekazywanie członkom protokołów posiedzeń koordynacyjnego, wraz uchwałami podjętymi na tych posiedzeniach;
-4) prowadzenie listy osób uprawnionych głosowania wraz liczbą głosów przysługujących każdemu członkowi koordynacyjnego;
-5) przechowywanie dokumentacji związanej pracami koordynacyjnego.
-§ 8. Komitet koordynacyjny obraduje na posiedzeniach, których sporządza się protokół.
-§ 9. 1. Posiedzenie zwołuje przewodniczący koordynacyjnego, nie rzadziej niż
-3. Każdy członek jest uprawniony jednego głosu.
-4. Regulamin działania może:
-1) zawierać odmienne postanowienia zakresie podziału głosów przy podejmowaniu uchwał, jednak liczba głosów przysługujących jednemu członkowi nie może być większa niż 49% wszystkich oddanych głosów;
-2) określać zakres przedmiotowy rozstrzygnięć, które inicjatywy członków będą podejmowane drodze głosowania korespondencyjnego, oraz sposób ich podejmowania.
-5. Przewodniczący dokonuje liczenia głosów informuje o wynikach głosowania.
-§ 11. 1. Komitet koordynacyjny przyjmuje swój regulamin działania.
-2. Komitet koordynacyjny swej działalności uwzględnia wytyczne zasady zawarte aktualnej wersji Worldwide Slot Guidelines oraz uwarunkowania lokalne dotyczące funkcjonowania danego portu lotniczego.
-§ 12. Zarządzający lotniskiem, dla którego utworzono komitet koordynacyjny, zapewnia obsługę organizacyjno-techniczną lokalową tego niezbędną jego działania zakresie określonym niniejszym rozporządzeniem oraz ponosi uzasadnione koszty tej obsługi.
-2. Zarządzający lotniskiem publikuje informację o terminie, miejscu oraz porządku obrad posiedzenia założycielskiego lotniczych, co najmniej 21 dni przed wyznaczonym terminem posiedzenia założycielskiego, na stronie internetowej portu lotniczego.
-3. Do czasu wyboru pierwszego lotniczych sekretarza przewoźników lotniczych ich funkcję pełni przedstawiciel zarządzającego lotniskiem.
-4. Porządek obrad posiedzenia założycielskiego ustalają członkowie lotniczych na początku posiedzenia założycielskiego, zastrzeżeniem że pierwszym punktem porządku obrad jest wybór komitetu lotniczych.
-§ 14. 1. Prawo członkostwa komitecie lotniczych mają użytkownicy portu lotniczego. Do lotniczych stosuje się odpowiednio przepisy § 3 § 5 ust. 1, 2 4.
-2. pracach lotniczych, bez prawa głosu, może uczestniczyć organizacja zrzeszająca użytkowników portu lotniczego członków komitetu.
-3. Użytkownik portu lotniczego może pisemnie upoważnić organizację zrzeszającą użytkowników portu lotniczego, której ten użytkownik należy, działania jego imieniu na jego rzecz podczas prac lotniczych, szczególności głosowania.
-§ 15. 1. Pracami lotniczych kieruje przewodniczący lotniczych wybrany ten komitet.
-3) reprezentowanie na zewnątrz, szczególności przekazywanie stanowiska zakresie spraw zadań podejmowanych ramach
-4) opracowywanie porządku obrad posiedzeń
-5) opracowywanie rocznych raportów prac wraz wnioskami.
-§ 16. Do sekretarza lotniczych stosuje się przepisy § 7.
-§ 17. 1. Komitet lotniczych obraduje na posiedzeniach, których sporządza się protokół.
-2. Komitet lotniczych podejmuje rozstrzygnięcia formie uchwał zwykłą większością głosów.
-3. przypadku uzyskania równej liczby głosów decydujący jest głos lotniczych.
-4. Każdy członek jest uprawniony jednego głosu.
-5. przypadku prowadzenia konsultacji komitetem lotniczych dotyczących wyboru podmiotów wykonujących obsługę naziemną konkursie, o którym mowa art. 179 ust. 8 pkt 2 ustawy, użytkownik portu lotniczego ubiegający się o wybór tym konkursie nie ma prawa głosu.
-6. Regulamin działania lotniczych może zawierać odmienne postanowienia zakresie podziału głosów przy podejmowaniu uchwał, jednak liczba głosów przysługujących jednemu członkowi nie może być większa niż 49% wszystkich oddanych głosów. zakresie zasad głosowania regulamin działania lotniczych zawiera postanowienia wykluczające konflikt interesów, jaki mógłby wynikać członkostwa komitecie przewoźników lotniczych użytkownika portu lotniczego wykonującego własną obsługę naziemną danym porcie lotniczym.
-§ 18. Komitet lotniczych przyjmuje swój regulamin działania.
-§ 19. Zarządzający lotniskiem, dla którego utworzono komitet lotniczych, zapewnia obsługę organizacyjno-techniczną lokalową tego niezbędną jego działania zakresie określonym niniejszym rozporządzeniem oraz ponosi uzasadnione koszty tej obsługi.
-2. Regulaminy działania komitetów, o których mowa ust. 1, przyjęte przed dniem wejścia życie niniejszego rozporządzenia podlegają dostosowaniu wymogów określonych tym rozporządzeniu terminie 6 miesięcy od dnia jego wejścia życie.
-3. Postanowienia regulaminów działania komitetów, o których mowa ust. 1, przyjętych przed dniem wejścia życie niniejszego rozporządzenia, sprzeczne jego przepisami, tracą moc dniem jego wejścia życie.
-§ 21. Rozporządzenie wchodzi życie po upływie 30 dni od dnia ogłoszenia.
-Minister Infrastruktury: wz. A. Bittel
+Treść rozporządzenia Rozdział 1 – Przepisy ogólne Rozdział 2 – Komitet koordynacyjny Rozdział 3 – Komitet przewoźników lotniczych Rozdział 4 – Przepisy dostosowujące i przejściowe oraz przepis końcowy
+Treść rozporządzenia
+Na podstawie art. 67 ust. 6 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2019 r. poz. 1580 i 1495 oraz z 2020 r. poz. 284 i 1378) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa szczegółowy sposób i tryb tworzenia i działania komitetu koordynacyjnego oraz komitetu przewoźników lotniczych.
+§ 2.
+Ilekroć w rozporządzeniu jest mowa o:
+1)
+bezwzględnej większości głosów – rozumie się przez to więcej niż połowę głosów oddanych, przy czym przez głosy rozumie się głosy „za”, „przeciw” oraz „wstrzymujące się”, oddane podczas głosowania w sposób zgodny z rozporządzeniem lub regulaminem działania komitetu;
+2)
+Prezesie Urzędu – rozumie się przez to Prezesa Urzędu Lotnictwa Cywilnego;
+3)
+rozporządzeniu nr 95/93 – rozumie się przez to rozporządzenie Rady (EWG) nr 95/93 z dnia 18 stycznia 1993 r. w sprawie wspólnych zasad przydzielania czasu na start lub lądowanie w portach lotniczych Wspólnoty (Dz. Urz. WE L 14 z 22.01.1993, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 2, str. 3);
+4)
+ustawie – rozumie się przez to ustawę z dnia 3 lipca 2002 r. – Prawo lotnicze;
+5)
+użytkowniku portu lotniczego – rozumie się przez to każdą osobę fizyczną lub prawną odpowiedzialną za przewóz pasażerów, poczty lub ładunków drogą lotniczą, do lub z danego portu lotniczego;
+6)
+Worldwide Slot Guidelines- rozumie się przez to dokument określający standardy w zakresie koordynacji i organizacji rozkładów lotów w portach lotniczych wydawany przez Zrzeszenie Międzynarodowego Transportu Lotniczego (IATA), będące organizacją przewoźników lotniczych, powołane dnia 19 kwietnia 1945 r. w Hawanie;
+7)
+zwykłej większości głosów – rozumie się przez to więcej głosów „za” niż głosów „przeciw” oddanych podczas głosowania w sposób zgodny z rozporządzeniem lub regulaminem działania komitetu.
+§ 3.
+1.
+Nazwa komitetu koordynacyjnego zawiera nazwę portu lotniczego, w którym tworzy się ten komitet.
+2.
+Komitet koordynacyjny finansuje swoją działalność z własnych środków, z zastrzeżeniem § 12.
+§ 4.
+1.
+Posiedzenie założycielskie komitetu koordynacyjnego zwołuje zarządzający lotniskiem, zawiadamiając:
+1)
+Prezesa Urzędu,
+2)
+podmioty, o których mowa w art. 5 ust. 1 zdaniu trzecim rozporządzenia nr 95/93,
+3)
+koordynatora rozkładów lotów – w przypadku gdy koordynator rozkładów lotów został powołany dla danego portu lotniczego
+o terminie i miejscu posiedzenia założycielskiego, co najmniej 21 dni przed wyznaczonym terminem posiedzenia założycielskiego, w formie pisemnej w postaci papierowej lub za pomocą poczty elektronicznej.
+2.
+W posiedzeniu założycielskim komitetu koordynacyjnego uczestniczą przedstawiciele członków komitetu koordynacyjnego upoważnieni do ich reprezentacji, którzy najpóźniej 3 dni robocze przed rozpoczęciem posiedzenia założycielskiego składają zarządzającemu lotniskiem wniosek, o którym mowa w § 5 ust. 1, w formie pisemnej w postaci papierowej lub za pomocą poczty elektronicznej. Wniosek złożony za pomocą poczty elektronicznej powinien być złożony również w postaci papierowej, najpóźniej w dniu posiedzenia założycielskiego.
+3.
+Podmioty, o których mowa w art. 5 ust. 1 zdaniu trzecim rozporządzenia nr 95/93, mogą przed wyznaczonym terminem posiedzenia założycielskiego komitetu koordynacyjnego zgłaszać zarządzającemu lotniskiem, w formie pisemnej w postaci papierowej lub za pomocą poczty elektronicznej, kandydatury na stanowisko przewodniczącego komitetu koordynacyjnego.
+4.
+Do czasu wyboru przewodniczącego komitetu koordynacyjnego jego funkcję pełni przedstawiciel zarządzającego lotniskiem albo upoważniony przedstawiciel członka komitetu koordynacyjnego wyznaczony przez zarządzającego lotniskiem.
+5.
+Porządek obrad posiedzenia założycielskiego komitetu koordynacyjnego ustalają członkowie komitetu koordynacyjnego na początku posiedzenia założycielskiego, z zastrzeżeniem że pierwszym punktem porządku obrad jest wybór przewodniczącego komitetu koordynacyjnego.
+6.
+Bezpośrednio po wyborze przewodniczącego komitetu koordynacyjnego osoba dotychczas pełniąca funkcję przewodniczącego zgodnie z ust. 4, przekazuje przewodniczącemu komitetu koordynacyjnego listę członków komitetu koordynacyjnego, listę przedstawicieli członków komitetu koordynacyjnego upoważnionych do ich reprezentacji w ramach działalności komitetu koordynacyjnego oraz dokumenty zebrane przez zarządzającego lotniskiem w związku z działalnością tego komitetu. Przekazanie dokumentacji następuje na podstawie protokołu zdawczo-odbiorczego.
+7.
+Do czasu wyznaczenia sekretarza komitetu koordynacyjnego jego funkcję pełni przedstawiciel zarządzającego lotniskiem albo upoważniony przedstawiciel członka komitetu koordynacyjnego wskazany przez Prezesa Urzędu.
+§ 5.
+1.
+Wpisu na listę członków komitetu koordynacyjnego oraz wykreślenia z tej listy dokonuje przewodniczący komitetu na pisemny wniosek podmiotu ubiegającego się o członkostwo albo rezygnującego z członkostwa.
+2.
+Członkostwo w komitecie koordynacyjnym jest dobrowolne.
+3.
+Nie można odmówić członkostwa w komitecie koordynacyjnym wnioskodawcy będącemu podmiotem, o którym mowa w art. 5 ust. 1 zdaniu trzecim rozporządzenia nr 95/93.
+4.
+W posiedzeniach komitetu koordynacyjnego uczestniczą przedstawiciele członków tego komitetu, działający na podstawie pisemnych upoważnień jego członków.
+5.
+W pracach komitetu koordynacyjnego, jako obserwatorzy bez prawa głosu, mogą uczestniczyć:
+1)
+przedstawiciele Prezesa Urzędu;
+2)
+przedstawiciele koordynatora rozkładów lotów;
+3)
+eksperci wskazani przez Prezesa Urzędu.
+§ 6.
+1.
+Pracami komitetu koordynacyjnego kieruje przewodniczący komitetu.
+2.
+Kadencja przewodniczącego komitetu koordynacyjnego trwa 2 lata. Przewodniczący komitetu koordynacyjnego może zostać odwołany z pełnionej funkcji przed upływem kadencji w wyniku uchwały podjętej przez członków komitetu koordynacyjnego bezwzględną większością głosów na posiedzeniu komitetu.
+3.
+Kandydatury na funkcję przewodniczącego komitetu koordynacyjnego są zgłaszane w formie pisemnej w postaci papierowej lub za pomocą poczty elektronicznej do sekretarza komitetu koordynacyjnego, co najmniej 10 dni przed wyznaczonym terminem posiedzenia, podczas którego jest planowany jego wybór, z zastrzeżeniem § 4 ust. 3.
+4.
+Przewodniczącym komitetu koordynacyjnego zostaje kandydat, który uzyskał największą liczbę głosów spośród wszystkich zgłoszonych kandydatów.
+5.
+W przypadku gdy złożona została tylko jedna kandydatura na funkcję przewodniczącego komitetu koordynacyjnego, kandydata uważa się za wybranego, jeżeli w głosowaniu uzyskał więcej niż połowę oddanych głosów.
+6.
+W przypadku gdy nie wpłynie żadna kandydatura na funkcję przewodniczącego komitetu koordynacyjnego albo w przypadku gdy kandydat, o którym mowa w ust. 5, nie uzyskał więcej niż połowy oddanych głosów, dotychczasowy przewodniczący komitetu pełni funkcję przewodniczącego komitetu przez następną kadencję, pod warunkiem wyrażenia przez niego zgody na jej pełnienie.
+7.
+W przypadku braku zgody, o której mowa w ust. 6, funkcję przewodniczącego komitetu koordynacyjnego pełni wskazany przez zarządzającego lotniskiem upoważniony przedstawiciel członka komitetu koordynacyjnego, do czasu kolejnego wyboru, o którym mowa w ust. 3, jednak nie dłużej niż trwa kadencja, o której mowa w ust. 2.
+8.
+Do zadań przewodniczącego komitetu koordynacyjnego należy w szczególności:
+1)
+opracowanie projektu regulaminu działania komitetu;
+2)
+zwoływanie i prowadzenie posiedzeń komitetu;
+3)
+reprezentowanie komitetu na zewnątrz;
+4)
+opracowywanie porządku obrad posiedzeń komitetu;
+5)
+opracowywanie rocznych raportów z prac komitetu wraz z wnioskami.
+§ 7.
+1.
+Pracę przewodniczącego komitetu koordynacyjnego wspiera sekretarz komitetu koordynacyjnego.
+2.
+Sekretarza komitetu koordynacyjnego wyznacza przewodniczący komitetu koordynacyjnego spośród przedstawicieli członków komitetu koordynacyjnego.
+3.
+Do zadań sekretarza komitetu koordynacyjnego należy:
+1)
+prowadzenie listy członków komitetu koordynacyjnego, w tym jej aktualizacja;
+2)
+powiadamianie członków komitetu koordynacyjnego o miejscu i terminie posiedzenia;
+3)
+sporządzanie i przekazywanie członkom komitetu koordynacyjnego protokołów z posiedzeń komitetu koordynacyjnego, wraz z uchwałami podjętymi na tych posiedzeniach;
+4)
+prowadzenie listy osób uprawnionych do głosowania wraz z liczbą głosów przysługujących każdemu członkowi komitetu koordynacyjnego;
+5)
+przechowywanie dokumentacji związanej z pracami komitetu koordynacyjnego.
+§ 8.
+Komitet koordynacyjny obraduje na posiedzeniach, z których sporządza się protokół.
+§ 9.
+1.
+Posiedzenie komitetu koordynacyjnego zwołuje przewodniczący komitetu koordynacyjnego, nie rzadziej niż raz na 12 miesięcy, z własnej inicjatywy lub na uzasadniony wniosek członka komitetu koordynacyjnego.
+2.
+W przypadku odmowy zwołania posiedzenia komitetu koordynacyjnego na uzasadniony wniosek członka komitetu koordynacyjnego, przewodniczący komitetu koordynacyjnego przedstawia na piśmie uzasadnienie odmowy.
+3.
+W przypadku niezwołania posiedzenia komitetu koordynacyjnego przez przewodniczącego komitetu koordynacyjnego w terminie określonym w ust. 1, zarządzający lotniskiem w formie pisemnej zobowiązuje przewodniczącego do jego zwołania.
+4.
+Sekretarz komitetu koordynacyjnego powiadamia członków komitetu koordynacyjnego o miejscu i terminie posiedzenia, co najmniej 21 dni przed wyznaczonym terminem posiedzenia.
+§ 10.
+1.
+Komitet koordynacyjny podejmuje rozstrzygnięcia w formie uchwał zwykłą większością głosów.
+2.
+W przypadku uzyskania równej liczby głosów decyduje głos przewodniczącego komitetu koordynacyjnego.
+3.
+Każdy członek komitetu koordynacyjnego jest uprawniony do jednego głosu.
+4.
+Regulamin działania komitetu koordynacyjnego może:
+1)
+zawierać odmienne postanowienia w zakresie podziału głosów przy podejmowaniu uchwał, jednak liczba głosów przysługujących jednemu członkowi nie może być większa niż 49% wszystkich oddanych głosów;
+2)
+określać zakres przedmiotowy rozstrzygnięć, które z inicjatywy przewodniczącego komitetu koordynacyjnego lub członków komitetu koordynacyjnego będą podejmowane w drodze głosowania korespondencyjnego, oraz sposób ich podejmowania.
+5.
+Przewodniczący komitetu koordynacyjnego dokonuje liczenia głosów i informuje o wynikach głosowania.
+§ 11.
+1.
+Komitet koordynacyjny przyjmuje swój regulamin działania.
+2.
+Komitet koordynacyjny w swej działalności uwzględnia wytyczne i zasady zawarte w aktualnej wersji Worldwide Slot Guidelines oraz uwarunkowania lokalne dotyczące funkcjonowania danego portu lotniczego.
+§ 12.
+Zarządzający lotniskiem, dla którego utworzono komitet koordynacyjny, zapewnia obsługę organizacyjno-techniczną i lokalową tego komitetu niezbędną do jego działania w zakresie określonym niniejszym rozporządzeniem oraz ponosi uzasadnione koszty tej obsługi.
+§ 13.
+1.
+W przypadku gdy w danym porcie lotniczym powstaje obowiązek utworzenia komitetu przewoźników lotniczych, zarządzający lotniskiem zwołuje bez zbędnej zwłoki posiedzenie założycielskie komitetu przewoźników lotniczych.
+2.
+Zarządzający lotniskiem publikuje informację o terminie, miejscu oraz porządku obrad posiedzenia założycielskiego komitetu przewoźników lotniczych, co najmniej 21 dni przed wyznaczonym terminem posiedzenia założycielskiego, na stronie internetowej portu lotniczego.
+3.
+Do czasu wyboru pierwszego przewodniczącego komitetu przewoźników lotniczych i sekretarza komitetu przewoźników lotniczych ich funkcję pełni przedstawiciel zarządzającego lotniskiem.
+4.
+Porządek obrad posiedzenia założycielskiego ustalają członkowie komitetu przewoźników lotniczych na początku posiedzenia założycielskiego, z zastrzeżeniem że pierwszym punktem porządku obrad jest wybór przewodniczącego komitetu przewoźników lotniczych.
+§ 14.
+1.
+Prawo członkostwa w komitecie przewoźników lotniczych mają użytkownicy portu lotniczego. Do komitetu przewoźników lotniczych stosuje się odpowiednio przepisy § 3 i § 5 ust. 1, 2 i 4.
+2.
+W pracach komitetu przewoźników lotniczych, bez prawa głosu, może uczestniczyć organizacja zrzeszająca użytkowników portu lotniczego – członków komitetu.
+3.
+Użytkownik portu lotniczego może pisemnie upoważnić organizację zrzeszającą użytkowników portu lotniczego, do której ten użytkownik należy, do działania w jego imieniu i na jego rzecz podczas prac komitetu przewoźników lotniczych, w szczególności do głosowania.
+§ 15.
+1.
+Pracami komitetu przewoźników lotniczych kieruje przewodniczący komitetu przewoźników lotniczych wybrany przez ten komitet.
+2.
+Przewodniczącym komitetu przewoźników lotniczych zostaje kandydat, który uzyskał największą liczbę głosów spośród wszystkich zgłoszonych kandydatur. Kandydatury są zgłaszane do sekretarza komitetu przewoźników lotniczych.
+3.
+Przewodniczący komitetu przewoźników lotniczych może zostać odwołany w wyniku uchwały podjętej przez członków komitetu bezwzględną większością głosów.
+4.
+W przypadku odwołania przewodniczącego komitetu przewoźników lotniczych, jego rezygnacji z pełnienia funkcji lub braku możliwości pełnienia tej funkcji z innych przyczyn, do czasu wyboru przewodniczącego komitetu przewoźników lotniczych w sposób określony w ust. 2, funkcję przewodniczącego komitetu przewoźników lotniczych pełni sekretarz komitetu przewoźników lotniczych.
+5.
+Do zadań przewodniczącego komitetu przewoźników lotniczych należy w szczególności:
+1)
+opracowanie projektu regulaminu działania komitetu;
+2)
+zwoływanie i prowadzenie posiedzeń komitetu;
+3)
+reprezentowanie komitetu na zewnątrz, w szczególności przez przekazywanie stanowiska komitetu w zakresie spraw i zadań podejmowanych w ramach komitetu;
+4)
+opracowywanie porządku obrad posiedzeń komitetu;
+5)
+opracowywanie rocznych raportów z prac komitetu wraz z wnioskami.
+§ 16.
+Do sekretarza komitetu przewoźników lotniczych stosuje się przepisy § 7.
+§ 17.
+1.
+Komitet przewoźników lotniczych obraduje na posiedzeniach, z których sporządza się protokół.
+2.
+Komitet przewoźników lotniczych podejmuje rozstrzygnięcia w formie uchwał zwykłą większością głosów.
+3.
+W przypadku uzyskania równej liczby głosów decydujący jest głos przewodniczącego komitetu przewoźników lotniczych.
+4.
+Każdy członek komitetu koordynacyjnego jest uprawniony do jednego głosu.
+5.
+W przypadku prowadzenia konsultacji z komitetem przewoźników lotniczych dotyczących wyboru podmiotów wykonujących obsługę naziemną w konkursie, o którym mowa w art. 179 ust. 8 pkt 2 ustawy, użytkownik portu lotniczego ubiegający się o wybór w tym konkursie nie ma prawa głosu.
+6.
+Regulamin działania komitetu przewoźników lotniczych może zawierać odmienne postanowienia w zakresie podziału głosów przy podejmowaniu uchwał, jednak liczba głosów przysługujących jednemu członkowi nie może być większa niż 49% wszystkich oddanych głosów. W zakresie zasad głosowania regulamin działania komitetu przewoźników lotniczych zawiera postanowienia wykluczające konflikt interesów, jaki mógłby wynikać z członkostwa w komitecie przewoźników lotniczych użytkownika portu lotniczego wykonującego własną obsługę naziemną w danym porcie lotniczym.
+§ 18.
+Komitet przewoźników lotniczych przyjmuje swój regulamin działania.
+§ 19.
+Zarządzający lotniskiem, dla którego utworzono komitet przewoźników lotniczych, zapewnia obsługę organizacyjno-techniczną i lokalową tego komitetu niezbędną do jego działania w zakresie określonym niniejszym rozporządzeniem oraz ponosi uzasadnione koszty tej obsługi.
+§ 20.
+1.
+Komitety koordynacyjne oraz komitety przewoźników lotniczych, powołane na podstawie przepisów dotychczasowych, stają się odpowiednio komitetami koordynacyjnymi oraz komitetami przewoźników lotniczych w rozumieniu niniejszego rozporządzenia.
+2.
+Regulaminy działania komitetów, o których mowa w ust. 1, przyjęte przed dniem wejścia w życie niniejszego rozporządzenia podlegają dostosowaniu do wymogów określonych w tym rozporządzeniu w terminie 6 miesięcy od dnia jego wejścia w życie.
+3.
+Postanowienia regulaminów działania komitetów, o których mowa w ust. 1, przyjętych przed dniem wejścia w życie niniejszego rozporządzenia, sprzeczne z jego przepisami, tracą moc z dniem jego wejścia w życie.
+§ 21.
+Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+1) Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2257). 2) Niniejsze rozporządzenie: 1) w zakresie swojej regulacji wdraża dyrektywę Rady 96/67/WE z dnia 15 października 1996 r. w sprawie dostępu do rynku usług obsługi naziemnej w portach lotniczych Wspólnoty (Dz. Urz. WE L 272 z 25.10.1996, str. 36 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 2, str. 496 oraz Dz. Urz. UE L 284 z 21.10.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 1, t. 4, str. 447); 2) służy stosowaniu rozporządzenia Rady (EWG) nr 95/93 z dnia 18 stycznia 1993 r. w sprawie wspólnych zasad przydzielania czasu na start lub lądowanie w portach lotniczych Wspólnoty (Dz. Urz. WE L 14 z 22.01.1993, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 2, str. 3, Dz. Urz. UE L 142 z 31.05.2002, str. 3 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 6, str. 252, Dz. Urz. UE L 221 z 04.09.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 415, Dz. Urz. UE L 138 z 30.04.2004, str. 50 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 171, Dz. Urz. UE L 167 z 29.06.2009, str. 24 oraz Dz. Urz. UE L 99 z 31.03.2020, str. 1). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. WE L 142 z 31.05.2002, str. 3 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 6, str. 252, Dz. Urz. UE L 221 z 04.09.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 415, Dz. Urz. UE L 138 z 30.04.2004, str. 50 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 171, Dz. Urz. UE L 167 z 29.06.2009, str. 24 oraz Dz. Urz. UE L 99 z 31.03.2020, str. 1. 4) Dostępny pod adresem https://www.iata.org/policy/slots/Pages/slot-guidelines.aspx. 5) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 30 kwietnia 2004 r. w sprawie tworzenia i działania komitetów oraz współdziałania i konsultacji w porcie lotniczym (Dz. U. poz. 1088), które na podstawie art. 18 ustawy z dnia 14 grudnia 2018 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. z 2019 r. poz. 235) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
 
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa szczegółowy sposób tryb tworzenia działania oraz komitetu lotniczych.
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Komitet koordynacyjny § 3. 1. Nazwa zawiera nazwę portu lotniczego, którym tworzy się ten komitet.
+#### Rozdział 2 Komitet koordynacyjny
 
-#### Rozdział 3 Komitet lotniczych § 13. 1. przypadku gdy danym porcie lotniczym powstaje obowiązek utworzenia lotniczych, zarządzający lotniskiem zwołuje bez zbędnej zwłoki posiedzenie założycielskie lotniczych.
+#### Rozdział 3 Komitet przewoźników lotniczych
 
-#### Rozdział 4 Przepisy dostosowujące przejściowe oraz przepis końcowy § 20. 1. Komitety koordynacyjne oraz komitety lotniczych, powołane na podstawie przepisów dotychczasowych, stają się odpowiednio komitetami koordynacyjnymi oraz komitetami lotniczych rozumieniu niniejszego rozporządzenia.
+#### Rozdział 4 Przepisy dostosowujące i przejściowe oraz przepis końcowy
 

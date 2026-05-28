@@ -22,10 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-25 |
 | Data wydania | 2015-11-18 |
+| Wejście w życie | 2016-05-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001893) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1893/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 10 w ust. 4 pkt 4 otrzymuje brzmienie: „
+- **4)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada; ” ;
+- **2)** po art. 16 dodaje się art. 16a w brzmieniu: „
 
 **Art. 16a.**
 
@@ -84,7 +89,26 @@ source: "eli-html"
 
 **Art. 26a.** Minister właściwy do spraw gospodarki może żądać od organu gminy udostępnienia dokumentów związanych z wnioskami o wpis do CEIDG złożonymi w sposób określony w art. 26 ust. 2. ” ;
 
+- **8)** w art. 27: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Wpis do CEIDG jest dokonywany, jeżeli wniosek jest poprawny. ” , w ust. 2: – pkt 1 otrzymuje brzmienie: „ 1) niezawierający danych, o których mowa w art. 25 ust. 1, lub ” , – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) zawierający dane, o których mowa w art. 25 ust. 1, niezgodne z przepisami prawa, lub ” , – pkt 6 otrzymuje brzmienie: „ 6) niepodpisany, lub ” , – dodaje się pkt 7 w brzmieniu: „ 7) złożony przez osobę nieuprawnioną. ” , w ust. 4 dodaje się zdanie drugie w brzmieniu: „ Przepis art. 33a stosuje się odpowiednio. ” , ust. 8 i 9 otrzymują brzmienie: „
+
+- **b)**
+- **c)**
+- **d)**
+
+8. Wniosek o wpis do CEIDG składany w sposób określony w art. 26 ust. 2 pkt 1 opatrzony jest własnoręcznym podpisem osoby uprawnionej.
+
+9. Wniosek o wpis do CEIDG składany w sposób określony w art. 26 ust. 2 pkt 2 opatrzony jest własnoręcznym podpisem osoby uprawnionej, którego własnoręczność poświadczona jest przez notariusza. ” ;
+
+- **9)** art. 28 otrzymuje brzmienie: „
+
 **Art. 28.** CEIDG przesyła odpowiednie dane zawarte we wniosku o wpis do CEIDG, o których mowa w art. 25 ust. 5, za pośrednictwem elektronicznej platformy usług administracji publicznej lub innych środków komunikacji elektronicznej, niezwłocznie, nie później niż w dniu roboczym następującym po dokonaniu wpisu, do właściwego naczelnika urzędu skarbowego wskazanego przez przedsiębiorcę, a po uzyskaniu informacji o nadanym numerze identyfikacji podatkowej (NIP) do:
+
+- **1)** Głównego Urzędu Statystycznego,
+- **2)** Zakładu Ubezpieczeń Społecznych albo Kasy Rolniczego Ubezpieczenia Społecznego wraz z informacją o dokonaniu wpisu do CEIDG i nadanym numerze identyfikacji podatkowej (NIP). ” ;
+- **10)** po art. 29 dodaje się art. 29a w brzmieniu: „
 
 **Art. 29a.**
 
@@ -154,6 +178,55 @@ source: "eli-html"
 
 **Art. 33.** Domniemywa się, że dane wpisane do CEIDG są prawdziwe. Osoba fizyczna wpisana do CEIDG ponosi odpowiedzialność za szkodę wyrządzoną zgłoszeniem do CEIDG nieprawdziwych danych, jeżeli podlegały obowiązkowi wpisu na jej wniosek, a także niezgłoszeniem danych podlegających obowiązkowi wpisu do CEIDG w ustawowym terminie albo brakiem zgłoszenia zmian danych objętych wpisem, chyba że szkoda nastąpiła wskutek siły wyższej albo wyłącznie z winy poszkodowanego lub osoby trzeciej, za którą osoba wpisana do CEIDG nie ponosi odpowiedzialności. ” ;
 
+- **14)** po art. 33 dodaje się art. 33a w brzmieniu: „
+
+1. Minister właściwy do spraw gospodarki doręcza pisma, przedsiębiorcy wpisanemu do CEIDG, wyłącznie na adres do doręczeń podany we wpisie do CEIDG.
+
+2. Jeżeli przedsiębiorca, o którym mowa w ust. 1, nie dokona zmiany wpisu do CEIDG w przypadku zmiany adresu do doręczeń, doręczenie pisma pod dotychczasowym adresem ma skutek prawny.
+
+3. Wezwanie, o którym mowa w art. 35 ust. 1a, obejmujące swoją treścią żądanie dokonania zmiany wpisu do CEIDG w zakresie adresu do doręczeń, doręcza się na adres zamieszkania przedsiębiorcy i adresy, pod którymi jest wykonywana działalność gospodarcza, jeżeli są inne niż adres do doręczeń. ” ;
+
+- **15)** w art. 34: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Dane zawarte w CEIDG nie mogą być z niej usunięte, chyba że przepisy prawa stanowią inaczej. Wykreślenie przedsiębiorcy z CEIDG nie oznacza usunięcia danych z wpisu do CEIDG. ” , w ust. 2: – uchyla się pkt 1, 1a i 3, – pkt 5 otrzymuje brzmienie: „ 5) gdy wpis został dokonany z naruszeniem prawa. ” , dodaje się ust. 4–8 w brzmieniu: „
+
+- **b)**
+- **c)**
+
+4. Minister właściwy do spraw gospodarki na potrzeby prowadzonego postępowania korzysta z danych zawartych w rejestrze PESEL.
+
+5. CEIDG wykreśla przedsiębiorcę niezwłocznie, nie później niż w terminie 7 dni:
+
+- **1)** w przypadku niezłożenia wniosku o wpis do CEIDG informacji o wznowieniu wykonywania działalności gospodarczej przed upływem 24 miesięcy od dnia zawieszenia wykonywania działalności gospodarczej;
+- **2)** gdy w CEIDG została zgłoszona informacja o prawomocnym orzeczeniu zakazu prowadzenia działalności gospodarczej, z wyłączeniem orzeczenia zakazu prowadzenia określonej działalności gospodarczej;
+- **3)** po wprowadzeniu do systemu teleinformatycznego informacji o zgonie przedsiębiorcy.
+
+6. Do czynności, o których mowa w ust. 5, nie stosuje się przepisów Kodeksu postępowania administracyjnego.
+
+7. Informacje, o których mowa w art. 25 ust. 1 pkt 16–18, usuwa się z CEIDG po otrzymaniu informacji, o których mowa w art. 31 ust. 6 i 7, a także po upływie okresu, na jaki orzeczono zakaz prowadzenia działalności gospodarczej zgłoszony do CEIDG przez sąd upadłościowy na podstawie art. 31 ust. 5 pkt 1.
+
+8. CEIDG przekazuje drogą elektroniczną niezwłocznie, nie później niż następnego dnia roboczego od dnia wykreślenia przedsiębiorcy z CEIDG, informacje o dokonaniu wykreślenia, o którym mowa w ust. 5, do Centralnego Rejestru Podmiotów – Krajowej Ewidencji Podatników, Głównego Urzędu Statystycznego, Zakładu Ubezpieczeń Społecznych, Kasy Rolniczego Ubezpieczenia Społecznego oraz do organów, o których mowa w art. 37 ust. 5. ” ;
+
+- **16)** w art. 35: po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+
+1a. W przypadku powzięcia przez ministra właściwego do spraw gospodarki informacji o braku tytułu prawnego do nieruchomości wskazanej we wpisie do CEIDG, której adres określono zgodnie z art. 25 ust. 1 pkt 5, minister właściwy do spraw gospodarki wzywa przedsiębiorcę do przedstawienia tytułu prawnego do nieruchomości, o którym mowa w art. 16a ust. 1, lub dokonania odpowiedniej zmiany wpisu w tym zakresie, w terminie 7 dni od dnia doręczenia wezwania. ” , po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „
+
+- **b)**
+
+2a. Jeżeli mimo wezwania, o którym mowa w ust. 1a, przedsiębiorca nie przedstawi tytułu prawnego do nieruchomości, o którym mowa w art. 16a ust. 1, lub nie dokona zmiany swojego wpisu w zakresie adresu, o którym mowa w art. 25 ust. 1 pkt 5, minister właściwy do spraw gospodarki wykreśla, w drodze decyzji administracyjnej, przedsiębiorcę z CEIDG.
+
+2b. Na wniosek osoby, której dane adresowe zostały dopisane do CEIDG bez tytułu prawnego do nieruchomości, której adres dotyczy, po dokonaniu wykreślenia, o którym mowa w ust. 2a, dane te nie są publikowane w CEIDG. ” , dodaje się ust. 4 i 5 w brzmieniu: „
+
+- **c)**
+
+4. Podmiot publiczny prowadzący rejestr publiczny może poinformować CEIDG o danych i informacjach zawartych w CEIDG niezgodnych z informacjami wynikającymi z jego rejestru publicznego.
+
+5. W przypadku gdy wpis do CEIDG jest niezgodny z treścią złożonego wniosku o wpis do CEIDG, przekształconego przez organ gminy w trybie art. 26 ust. 4, organ gminy niezwłocznie ponownie przekształca ten wniosek z wyjątkiem danych dopisanych z urzędu. ” ;
+
+- **17)** po art. 36 dodaje się art. 36a w brzmieniu: „
+
 **Art. 36a.**
 
 1. Jeżeli wpis do CEIDG przedsiębiorcy wykreślonego z tej ewidencji zawiera oczywiste błędy, niezgodności z treścią wniosku przedsiębiorcy lub stanem faktycznym wynikającym z innych rejestrów publicznych, zmian tego wpisu mogą dokonywać:
@@ -216,103 +289,379 @@ source: "eli-html"
 
 **Art. 2.** W ustawie z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2015 r. poz. 1286) w art. 18 w ust. 5 pkt 3 otrzymuje brzmienie: „
 
+- **3)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada, oraz numer identyfikacji podatkowej (NIP); ” .
+
 **Art. 3.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 9a: w ust. 1 zdanie drugie otrzymuje brzmienie: „ Wniosek lub oświadczenie o zastosowanie form opodatkowania określonych w ustawie o zryczałtowanym podatku dochodowym podatnicy mogą złożyć na podstawie przepisów o swobodzie działalności gospodarczej. ” , ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2. Podatnicy mogą wybrać sposób opodatkowania dochodów z pozarolniczej działalności gospodarczej na zasadach określonych w art. 30c. W tym przypadku są obowiązani do złożenia właściwemu naczelnikowi urzędu skarbowego do dnia 20 stycznia roku podatkowego pisemnego oświadczenia o wyborze tego sposobu opodatkowania. Jeżeli podatnik rozpoczyna prowadzenie pozarolniczej działalności gospodarczej w trakcie roku podatkowego, pisemne oświadczenie składa właściwemu naczelnikowi urzędu skarbowego, nie później niż w dniu uzyskania pierwszego przychodu. Oświadczenie o wyborze opodatkowania dochodów z pozarolniczej działalno ści gospodarczej na zasadach określonych w art. 30c podatnicy mogą złożyć na podstawie przepisów o swobodzie działalności gospodarczej. ” , w ust. 4 dodaje się zdanie drugie w brzmieniu: „ Zawiadomienie o rezygnacji ze sposobu opodatkowania, o którym mowa w ust. 2, podatnik może złożyć na podstawie przepisów o swobodzie działalności gospodarczej. ” ;
+
+- **c)**
+- **2)** w art. 24a: po ust. 3 dodaje się ust. 3a-3c w brzmieniu: „
+    - **a)**
+
+3a. Podatnicy, którzy rozpoczynają prowadzenie działalności gospodarczej albo w poprzednim roku podatkowym byli opodatkowani na podstawie ustawy o zryczałtowanym podatku dochodowym lub prowadzili księgi rachunkowe, są obowiązani zawiadomić w formie pisemnej naczelnika urzędu skarbowego właściwego według miejsca zamieszkania podatnika o prowadzeniu księgi w terminie 20 dni od dnia jej założenia. Jeżeli działalność jest prowadzona w formie spółki cywilnej osób fizycznych, spółki jawnej osób fizycznych lub spółki partnerskiej, zawiadomienie składają wszyscy wspólnicy naczelnikowi urzędu skarbowego właściwemu według miejsca zamieszkania każdego z nich.
+
+3b. Jeżeli na zlecenie podatnika prowadzenie księgi zostało powierzone biuru rachunkowemu, podatnik jest obowiązany w terminie 7 dni od dnia zawarcia umowy z biurem rachunkowym zawiadomić o tym naczelnika urzędu skarbowego, któremu zostało złożone zawiadomienie o prowadzeniu księgi, wskazując nazwę i adres biura, miejsce (adres) prowadzenia oraz przechowywania księgi i dowodów związanych z jej prowadzeniem. Jeżeli działalność gospodarcza jest prowadzona w formie spółki cywilnej osób fizycznych, spółki jawnej osób fizycznych lub spółki partnerskiej, zawiadomienie składają wszyscy wspólnicy naczelnikowi urzędu skarbowego właściwemu według miejsca zamieszkania każdego z nich.
+
+3c. Zawiadomienie o prowadzeniu księgi oraz zawiadomienie o zawarciu z biurem rachunkowym umowy o prowadzenie księgi mogą być złożone na podstawie przepisów o swobodzie działalności gospodarczej. ” , w ust. 5 dodaje się zdanie trzecie w brzmieniu: „ Zawiadomienie o prowadzeniu ksiąg rachunkowych może być złożone na podstawie przepisów o swobodzie działalności gospodarczej. ” ;
+
+- **b)**
+- **3)** w art. 44: w ust. 3i dodaje się zdanie czwarte w brzmieniu: „ Zawiadomienie o wyborze kwartalnego sposobu wpłacania zaliczek oraz zawiadomienie o rezygnacji z kwartalnego sposobu wpłacania zaliczek mogą być złożone na podstawie przepisów o swobodzie działalności gospodarczej. ” , w ust. 6d dodaje się zdanie drugie w brzmieniu: „ Zawiadomienie, o którym mowa w ust. 6c pkt 1, oraz zawiadomienie o rezygnacji z uproszczonej formy wpłacania zaliczek mogą być złożone na podstawie przepisów o swobodzie działalności gospodarczej. ” .
+    - **a)**
+    - **b)**
 
 **Art. 4.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm.) w art. 2 w ust. 2 dodaje się zdanie trzecie w brzmieniu: „ Osoby fizyczne lub wspólnicy spółek cywilnych osób fizycznych mogą złożyć zawiadomienie na podstawie przepisów o swobodzie działalności gospodarczej. ” .
 
 **Art. 5.** W ustawie z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2012 r. poz. 591, z późn. zm.) w art. 42 w ust. 3:
 
+- **1)** pkt 2 otrzymuje brzmienie: „
+- **2)** numer identyfikacji podatkowej (NIP) oraz informacje o jego unieważnieniu lub uchyleniu; ” ;
+- **2)** pkt 5 otrzymuje brzmienie: „
+- **5)** daty: powstania podmiotu, rozpoczęcia działalności, zawieszenia i wznowienia działalności, wpisu do ewidencji lub rejestru, orzeczenia o ogłoszeniu upadłości, zakończenia postępowania upadłościowego, zakończenia działalności albo trwałego zakończenia działalności w przypadku osób fizycznych wpisanych do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, skreślenia z ewidencji lub rejestru, wpisu oraz skreślenia z rejestru podmiotów; ” .
+
 **Art. 6.** W ustawie z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2012 r. poz. 1314, z późn. zm.) w art. 15 w ust. 1b dodaje się zdanie drugie w brzmieniu: „ W przypadku osób fizycznych wpisanych do Centralnej Ewidencji i Informacji o Działalności Gospodarczej i wykonujących działalność gospodarczą również nie są objęte tajemnicą skarbową dane: nazwa (firma), adresy, pod którymi jest wykonywana działalność gospodarcza, w tym adres głównego miejsca wykonywania działalności, oraz przedmiot wykonywanej działalności określony według obowiązujących standardów klasyfikacyjnych. ” .
 
 **Art. 7.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2015 r. poz. 464 i 1633) w art. 19c w ust. 3 pkt 7 otrzymuje brzmienie: „
 
+- **7)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile organizator kształcenia taki numer posiada, oraz numer identyfikacji podatkowej (NIP); ” .
+
 **Art. 8.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 9a w ust. 5 pkt 2 otrzymuje brzmienie: „
+- **2)** oświadczenie następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oświadczam, że dane zawarte w informacji, o której mowa w art. 9a ust. 5 pkt 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, są zgodne z prawdą.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań. ” ;
+- **2)** w art. 9e1 pkt 2 otrzymuje brzmienie: „
+- **2)** do wytworzenia energii elektrycznej z biogazu rolniczego wykorzystano wyłącznie surowce i produkty, o których mowa w art. 2 pkt 2 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii; ” ;
+- **3)** w art. 33 w ust. 1 pkt 1 otrzymuje brzmienie: „
+- **1)** ma siedzibę lub miejsce zamieszkania na terytorium państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Turcji; ” ;
+- **4)** w art. 35 w ust. 1 pkt 6 otrzymuje brzmienie: „
+- **6)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada, lub numer równoważnego rejestru państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Turcji oraz numer identyfikacji podatkowej (NIP). ” ;
+- **5)** w art. 37 w ust. 1 pkt 7 otrzymuje brzmienie: „
+- **7)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada, lub numer równoważnego rejestru państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Turcji oraz numer identyfikacji podatkowej (NIP). ” .
 
 **Art. 9.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.) wprowadza się następujące zmiany:
 
+- **1)** w art. 75ab w ust. 1 pkt 2 otrzymuje brzmienie: „
+- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada; ” ;
+- **2)** w art. 83a w ust. 3 pkt 2 otrzymuje brzmienie: „
+- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada, oraz numer identyfikacji podatkowej (NIP); ” .
+
 **Art. 10.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2015 r. poz. 1142) w art. 38 w pkt 1 lit. e otrzymuje brzmienie: „
+
+oznaczenie jego poprzedniego numeru rejestru sądowego, ” .
+
+- **e)**
 
 **Art. 11.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2015 r. poz. 121, z późn. zm.) po art. 36a dodaje się art. 36b w brzmieniu: „ 1. Osoby, o których mowa w art. 6 ust. 1 pkt 5, będące przedsiębiorcami w rozumieniu przepisów o swobodzie działalności gospodarczej na podstawie tych przepisów mogą dokonywać zgłoszeń, o których mowa w art. 36 ust. 1 i 11, lub zmiany danych wykazanych w tych zgłoszeniach, z wyjątkiem zmiany danych, o których mowa w art. 36 ust. 14. 2. Za dzień dokonania zgłoszeń, o których mowa w art. 36 ust. 1 i 11, lub zmiany danych wykazanych w tych zgłoszeniach uważa się dzień złożenia wniosku o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej wraz z żądaniem dokonania tych zgłoszeń lub zmiany danych wykazanych w zgłoszeniach na podstawie przepisów o swobodzie działalności gospodarczej. ” .
 
 **Art. 12.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 144, poz. 930, z późn. zm.) wprowadza się następujące zmiany:
 
+- **1)** w art. 9: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Pisemne oświadczenie o wyborze opodatkowania w formie ryczałtu od przychodów ewidencjonowanych na dany rok podatkowy podatnik składa naczelnikowi urzędu skarbowego właściwemu według miejsca zamieszkania podatnika, nie później niż do dnia 20 stycznia roku podatkowego. Jeżeli podatnik rozpoczyna prowadzenie pozarolniczej działalności gospodarczej w trakcie roku podatkowego, pisemne oświadczenie składa naczelnikowi urzędu skarbowego właściwemu według miejsca zamieszkania podatnika, nie później niż w dniu uzyskania pierwszego przychodu. Oświadczenie o wyborze opodatkowania w formie ryczałtu od przychodów ewidencjonowanych na dany rok podatkowy podatnik może złożyć na podstawie przepisów o swobodzie działalności gospodarczej. Jeżeli do dnia 20 stycznia roku podatkowego podatnik nie zgłosił likwidacji działalności gospodarczej lub nie dokonał wyboru innej formy opodatkowania, uważa się, że nadal prowadzi działalność opodatkowaną w formie ryczałtu od przychodów ewidencjonowanych. ” , w ust. 2 zdanie drugie otrzymuje brzmienie: „ Wspólnicy spółki cywilnej osób fizycznych mogą złożyć oświadczenie o wyborze opodatkowania w formie ryczałtu od przychodów ewidencjonowanych na podstawie przepisów o swobodzie działalności gospodarczej. ” ;
+
+- **b)**
+- **2)** w art. 15 w ust. 4 dodaje się zdanie trzecie w brzmieniu: „ Podatnik może złożyć zawiadomienie na podstawie przepisów o swobodzie działalności gospodarczej. ” ;
+- **3)** w art. 21 w ust. 1c dodaje się zdanie trzecie w brzmieniu: „ Podatnik może złożyć zawiadomienie na podstawie przepisów o swobodzie działalności gospodarczej. ” ;
+- **4)** w art. 29: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Wniosek o zastosowanie opodatkowania w formie karty podatkowej, według ustalonego wzoru, na dany rok podatkowy, podatnik składa właściwemu naczelnikowi urzędu skarbowego, nie później niż do dnia 20 stycznia roku podatkowego. Jeżeli podatnik rozpoczyna działalność, wniosek o zastosowanie opodatkowania w formie karty podatkowej składa właściwemu naczelnikowi urzędu skarbowego przed rozpoczęciem działalności. Jeżeli do dnia 20 stycznia roku podatkowego podatnik nie zgłosił likwidacji działalności gospodarczej lub nie dokonał wyboru innej formy opodatkowania, uważa się, że prowadzi nadal działalność opodatkowaną w tej formie. W przypadku prowadzenia pozarolniczej działalności gospodarczej w formie spółki cywilnej wniosek o zastosowanie opodatkowania w formie karty podatkowej składa jeden ze wspólników. Wniosek o zastosowanie opodatkowania w formie karty podatkowej podatnik może dołączyć do wniosku o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej składanego na podstawie przepisów o swobodzie działalności gospodarczej. ” , w ust. 2 dodaje się zdanie drugie w brzmieniu: „ Oświadczenie to, wraz z wnioskiem o zastosowanie opodatkowania w formie karty podatkowej, podatnik może dołączyć do wniosku o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, o którym mowa w ust. 1. ” .
+
+- **b)**
+
 **Art. 13.** W ustawie z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2014 r. poz. 1512 oraz z 2015 r. poz. 1505) w art. 5 w ust. 1 pkt 2 otrzymuje brzmienie: „
+
+- **2)** w przypadku przedsiębiorców – numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym oraz numer identyfikacji podatkowej (NIP), o ile podmiot takie numery posiada; ” .
 
 **Art. 14.** W ustawie z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2015 r. poz. 678 i 1505) w art. 12 w ust. 3 pkt 1a otrzymuje brzmienie: „
 
+- **1a)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile zgłaszający taki numer posiada, oraz numer identyfikacji podatkowej (NIP); ” .
+
 **Art. 15.** W ustawie z dnia 18 stycznia 2001 r. o wyścigach konnych (Dz. U. z 2015 r. poz. 642) w art. 16:
+
+- **1)** w ust. 4 pkt 2 otrzymuje brzmienie: „
+- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym lub numer identyfikacji podatkowej (NIP), chyba że podmiot nie posiada takich numerów; ” ;
+- **2)** w ust. 7 pkt 2 otrzymuje brzmienie: „
+- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym lub numer identyfikacji podatkowej (NIP), chyba że podmiot nie posiada takich numerów; ” . W ustawie z dnia 2 marca 2001 r. o wyrobie alkoholu etylowego oraz wytwarzaniu wyrobów tytoniowych (Dz. U. z 2015 r. poz. 103) w art. 5 w ust. 2 pkt 2 otrzymuje brzmienie: „
+- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada; ” .
 
 **Art. 17.** W ustawie z dnia 7 czerwca 2001 r. o leśnym materiale rozmnożeniowym (Dz. U. z 2015 r. poz. 1092) w art. 45 w ust. 2 pkt 6 otrzymuje brzmienie: „
 
+- **6)** numer dostawcy w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile taki numer posiada, oraz numer identyfikacji podatkowej (NIP). ” .
+
 **Art. 18.** W ustawie z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2015 r. poz. 139) w art. 17 w ust. 1 pkt 8 otrzymuje brzmienie: „
+
+- **8)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada, oraz numer identyfikacji podatkowej (NIP); ” .
 
 **Art. 19.** W ustawie z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2012 r. poz. 1017 oraz z 2013 r. poz. 1650) wprowadza się następujące zmiany:
 
+- **1)** w art. 12 w ust. 1 pkt 2 otrzymuje brzmienie: „
+- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym albo informację o wpisie do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, o ile przedsiębiorca taki numer albo taką informację posiada; ” ;
+- **2)** w art. 14 w ust. 1 pkt 3 otrzymuje brzmienie: „
+- **3)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym albo informację o wpisie do Centralnej Ewidencji i Informacji o Działalności Gospodarczej oraz numer identyfikacji podatkowej (NIP); ” .
+
 **Art. 20.** W ustawie z dnia 6 lipca 2001 r. o usługach detektywistycznych (Dz. U. z 2014 r. poz. 273 i 822) wprowadza się następujące zmiany:
+
+- **1)** w art. 16 w ust. 1 pkt 2 otrzymuje brzmienie: „
+- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym albo informację o wpisie do Centralnej Ewidencji i Informacji o Działalności Gospodarczej; ” ;
+- **2)** w art. 19 pkt 5 otrzymuje brzmienie: „
+- **5)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym albo informację o wpisie do Centralnej Ewidencji i Informacji o Działalności Gospodarczej; ” .
 
 **Art. 21.** W ustawie z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej (Dz. U. z 2014 r. poz. 1384 i 1491 oraz z 2015 r. poz. 1087) w art. 19 w ust. 3 pkt 2 otrzymuje brzmienie: „
 
+- **2)** nazwę (firmę), formę organizacyjno-prawną, siedzibę i adres podmiotu, który prowadzi laboratorium, oraz numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym albo w innym właściwym rejestrze, o ile podmiot taki numer posiada, a także numer identyfikacji podatkowej (NIP). ” .
+
 **Art. 22.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2013 r. poz. 1414, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 21 ust. 3 otrzymuje brzmienie: „
+
+3. Po upływie okresu, o którym mowa w ust. 1 pkt 1, zezwolenie przedłuża się, na wniosek przedsiębiorcy, na okres nieprzekraczający 5 lat, o ile nie zaistniały okoliczności, o których mowa w art. 23 ust. 1 pkt 2 i art. 24 ust. 4. ” ;
+
+- **2)** w art. 33 ust. 3 otrzymuje brzmienie: „
+
+3. Zaświadczenie, o którym mowa w ust. 1, zawiera: oznaczenie przedsiębiorcy, jego siedzibę (miejsce zamieszkania) i adres, numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada, albo numer identyfikacji podatkowej (NIP), rodzaj i zakres wykonywania przewozów drogowych na potrzeby własne oraz rodzaj i liczbę pojazdów samochodowych. ” ;
+
+- **3)** w art. 39g w ust. 4 pkt 2 otrzymuje brzmienie: „
+- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym – o ile jest wymagany; ” ;
+- **4)** w art. 80 w ust. 2 w pkt 2 lit. c otrzymuje brzmienie: „ numer identyfikacji podatkowej (NIP), ” .
+    - **c)**
 
 **Art. 23.** W ustawie z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. z 2013 r. poz. 262 oraz z 2014 r. poz. 1662) wprowadza się następujące zmiany:
 
+- **1)** w art. 24 w ust. 2 pkt 4 otrzymuje brzmienie: „
+- **4)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile wnioskodawca taki numer posiada, oraz zaświadczenie albo oświadczenie o braku wpisu w rejestrze dłużników niewypłacalnych w Krajowym Rejestrze Sądowym; ” ;
+- **2)** w art. 26 w ust. 1 pkt 2 otrzymuje brzmienie: „
+- **2)** sposób reprezentacji kwalifikowanego podmiotu świadczącego usługi certyfikacyjne oraz numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile kwalifikowany podmiot świadczący usługi certyfikacyjne taki numer posiada, oraz numer identyfikacji podatkowej (NIP); ” .
+
 **Art. 24.** W ustawie z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2015 r. poz. 1100) w art. 14 w ust. 1 pkt 2a otrzymuje brzmienie: „
+
+- **2a)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada, oraz numer identyfikacji podatkowej (NIP); ” .
 
 **Art. 25.** W ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2013 r. poz. 1393, z późn. zm.) wprowadza się następujące zmiany:
 
+- **1)** w art. 95a w ust. 3 pkt 2 otrzymuje brzmienie: „
+- **2)** oznaczenie formy prawnej i numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym albo w innym właściwym rejestrze, o ile przedsiębiorca taki numer posiada; ” ;
+- **2)** w art. 166 w ust. 2 pkt 2 otrzymuje brzmienie: „
+- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada; ” ;
+- **3)** w art. 175 w ust. 1 pkt 2 otrzymuje brzmienie: „
+- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada; ” . W ustawie z dnia 27 lipca 2002 r. – Prawo dewizowe (Dz. U. z 2012 r. poz. 826, z 2013 r. poz. 1036 oraz z 2015 r. poz. 855) w art. 17 w ust. 1 pkt 2 otrzymuje brzmienie: „
+- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada; ” .
+
 **Art. 27.** W ustawie z dnia 23 listopada 2002 r. o Sądzie Najwyższym (Dz. U. z 2013 r. poz. 499, z późn. zm.) w art. 60 § 2 otrzymuje brzmienie: „
+
+§ 2. Z wnioskiem, o którym mowa w § 1, mogą wystąpić również Rzecznik Praw Obywatelskich i Prokurator Generalny oraz, w zakresie swojej właściwości, Rzecznik Praw Dziecka, Przewodniczący Rady Dialogu Społecznego, Przewodniczący Komisji Nadzoru Finansowego i Rzecznik Finansowy. ” . W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2015 r. poz. 1297, z późn. zm.) w art. 48 w ust. 2 pkt 2 otrzymuje brzmienie: „
+
+- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada; ” . W ustawie z dnia 22 maja 2003 r. o pośrednictwie ubezpieczeniowym (Dz. U. z 2014 r. poz. 1450 oraz z 2015 r. poz. 1844) w art. 28 w ust. 4 pkt 2 otrzymuje brzmienie: „
+- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada, oraz numer identyfikacji podatkowej (NIP); ” .
 
 **Art. 30.** W ustawie z dnia 18 grudnia 2003 r. o zakładach leczniczych dla zwierząt (Dz. U. z 2015 r. poz. 1047) w art. 17:
 
+- **1)** ust. 1 otrzymuje brzmienie: „
+
+1. Podmiot ubiegający się o wpis do ewidencji spełnia wymogi określone w art. 5–11, a także posiada wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego. ” ;
+
+- **2)** w ust. 3 pkt 7 otrzymuje brzmienie: „
+- **7)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada, oraz numer identyfikacji podatkowej (NIP). ” .
+
 **Art. 31.** W ustawie z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. z 2012 r. poz. 633, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 22 w ust. 5 pkt 4 otrzymuje brzmienie: „
+- **4)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada; ” ;
+- **2)** w art. 31 w ust. 10e pkt 3 otrzymuje brzmienie: „
+- **3)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile producent cukru taki numer posiada; ” . W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2015 r. poz. 163, z późn. zm.) w art. 57:
+- **1)** w ust. 3a pkt 2 otrzymuje brzmienie: „
+- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym albo wskazanie dokumentu określającego status prawny podmiotu; ” ;
+- **2)** w ust. 3b w pkt 4 lit. a otrzymuje brzmienie: „ dokumenty potwierdzające status prawny podmiotu, w przypadku gdy nie podlega wpisowi do rejestru przedsiębiorców w Krajowym Rejestrze Sądowym lub do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, ” . W ustawie z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2015 r. poz. 858, 1649 i 1844) w art. 26 ust. 7 otrzymuje brzmienie: „
+    - **a)**
+
+7. We wniosku o ustanowienie wolnego obszaru celnego lub składu wolnocłowego należy podać numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile wnioskodawca taki numer posiada, oraz numer identyfikacji podatkowej (NIP). Nie jest wymagane potwierdzanie tych danych dokumentami. ” .
 
 **Art. 34.** W ustawie z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2015 r. poz. 1172) w art. 26 w ust. 2a pkt 3 otrzymuje brzmienie: „
 
+- **3)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile wnioskodawca taki numer posiada, oraz numer identyfikacji podatkowej (NIP); ” .
+
 **Art. 35.** W ustawie z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U. z 2013 r. poz. 50, z późn. zm.) w art. 4 w ust. 3 pkt 1a otrzymuje brzmienie: „
+
+- **1a)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile wnioskodawca taki numer posiada; ” . W ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, z późn. zm.) wprowadza się następujące zmiany:
+- **1)** w art. 10 w ust. 4 pkt 3 i 4 otrzymują brzmienie: „
+- **3)** numer identyfikacji podatkowej (NIP);
+- **4)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym lub innym właściwym rejestrze prowadzonym w państwie członkowskim lub innym państwie określonym w ust. 1, o ile przedsiębiorca taki numer posiada; ” ;
+- **2)** w art. 60a w ust. 1a w pkt 2 lit. b otrzymuje brzmienie: „ numer identyfikacyjny REGON lub numer identyfikacji podatkowej (NIP), lub numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym lub innym właściwym rejestrze prowadzonym w państwie członkowskim, ” .
+    - **b)**
 
 **Art. 37.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2015 r. poz. 581, z późn. zm.) w art. 74 dodaje się ust. 3 w brzmieniu: „ 3. Osoby, o których mowa w art. 66 ust. 1 pkt 1 lit. c, będące przedsiębiorcami w rozumieniu przepisów o swobodzie działalności gospodarczej, na podstawie tych przepisów mogą dokonywać zgłoszenia do ubezpieczenia zdrowotnego, zgłoszenia do ubezpieczenia zdrowotnego członków rodziny, zgłoszenia wyrejestrowania z ubezpieczenia zdrowotnego lub zmiany danych wykazanych w tych zgłoszeniach. ” .
 
 **Art. 38.** W ustawie z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2015 r. poz. 793) w art. 40 w ust. 3 pkt 2 otrzymuje brzmienie: „
 
+- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym albo innym właściwym rejestrze, o ile bank tkanek i komórek taki numer posiada, oraz numer identyfikacji podatkowej (NIP); ” . W ustawie z dnia 7 lipca 2005 r. o działalności lobbingowej w procesie stanowienia prawa (Dz. U. Nr 169, poz. 1414, z późn. zm.) wprowadza się następujące zmiany:
+- **1)** w art. 10 w ust. 3 pkt 2 otrzymuje brzmienie: „
+- **2)** w przypadku przedsiębiorców wykonujących zawodową działalność lobbingową – numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile taki numer posiadają, oraz numer identyfikacji podatkowej (NIP). ” ;
+- **2)** w art. 11 w ust. 2 pkt 2 otrzymuje brzmienie: „
+- **2)** w przypadku przedsiębiorców wykonujących zawodową działalność lobbingową – numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile taki numer posiadają, oraz numer identyfikacji podatkowej (NIP). ” .
+
 **Art. 40.** W ustawie z dnia 29 lipca 2005 r. o systemie tachografów cyfrowych (Dz. U. Nr 180, poz. 1494, z późn. zm.) w art. 6 w ust. 3 pkt 1a otrzymuje brzmienie: „
+
+- **1a)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile wnioskodawca taki numer posiada; ” .
 
 **Art. 41.** W ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2012 r. poz. 124 oraz z 2015 r. poz. 28 i 875) w art. 27 w ust. 2 pkt 3 otrzymuje brzmienie: „
 
+- **3)** numer wpisu oferenta do rejestru przedsiębiorców w Krajowym Rejestrze Sądowym albo innego właściwego rejestru oraz numer identyfikacji podatkowej (NIP), o ile oferent takie numery posiada; ” .
+
 **Art. 42.** W ustawie z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego (Dz. U. z 2014 r. poz. 1577) w art. 21:
+
+- **1)** w ust. 2 pkt 1a otrzymuje brzmienie: „
+- **1a)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym albo numer identyfikacji podatkowej (NIP), albo numer identyfikacyjny w ewidencji gospodarstw rolnych w rozumieniu przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności – w przypadku pomieszczeń gospodarstwa, z wyłączeniem gospodarstw rybackich, o ile wnioskodawca takie numery posiada; ” ;
+- **2)** w ust. 3 w pkt 5 lit. b otrzymuje brzmienie: „ wpisu do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, ” .
+    - **b)**
 
 **Art. 43.** W ustawie z dnia 22 lipca 2006 r. o paszach (Dz. U. z 2014 r. poz. 398) wprowadza się następujące zmiany:
 
+- **1)** w art. 10 w ust. 2 pkt 1a otrzymuje brzmienie: „
+- **1a)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym albo numer identyfikacyjny w ewidencji gospodarstw rolnych w rozumieniu przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, o ile wnioskodawca taki numer posiada; ” ;
+- **2)** w art. 20 w ust. 3 pkt 1a otrzymuje brzmienie: „
+- **1a)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile wnioskodawca taki numer posiada; ” .
+
 **Art. 44.** W ustawie z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2015 r. poz. 594) wprowadza się następujące zmiany:
+
+- **1)** w art. 35 w ust. 2 pkt 1a otrzymuje brzmienie: „
+- **1a)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile producent wody taki numer posiada; ” ;
+- **2)** w art. 64 w ust. 2 pkt 1a otrzymuje brzmienie: „
+- **1a)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile wnioskodawca taki numer posiada; ” .
 
 **Art. 45.** W ustawie z dnia 18 października 2006 r. o wyrobie napojów spirytusowych oraz o rejestracji i ochronie oznaczeń geograficznych napojów spirytusowych (Dz. U. z 2013 r. poz. 144 oraz z 2015 r. poz. 978) w art. 6 w ust. 2 pkt 2 otrzymuje brzmienie: „
 
+- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada; ” .
+
 **Art. 46.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2015 r. poz. 783, z późn. zm.) w załączniku do ustawy w części I w ust. 35 w kolumnie 4 pkt 1 otrzymuje brzmienie: „
+
+- **1)** imiona i nazwisko, numer PESEL lub, gdy ten nie został nadany, numer paszportu, dowodu osobistego lub innego dokumentu potwierdzającego tożsamość, adres zamieszkania, numer identyfikacji podatkowej (NIP), numer w rejestrze przedsiębiorców, firmę przedsiębiorcy, pod którą wykonywana jest działalność gospodarcza, siedzibę i adres – w przypadku agenta ubezpieczeniowego będącego osobą fizyczną ” .
 
 **Art. 47.** W ustawie z dnia 10 lipca 2007 r. o nawozach i nawożeniu (Dz. U. z 2015 r. poz. 625) w art. 4 w ust. 3a pkt 4 otrzymuje brzmienie: „
 
+- **4)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile wnioskodawca taki numer posiada; ” .
+
 **Art. 48.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2014 r. poz. 752, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 49 ust. 3 i 4 otrzymują brzmienie: „
+
+3. Wniosek o wydanie zezwolenia na prowadzenie składu podatkowego powinien zawierać dane dotyczące podmiotu oraz prowadzonej przez niego działalności gospodarczej, w szczególności imię i nazwisko lub nazwę podmiotu, adres jego siedziby lub zamieszkania, numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile podmiot taki numer posiada, numer identyfikacyjny REGON, numer identyfikacji podatkowej (NIP), adres poczty elektronicznej oraz określenie rodzaju i zakresu działalności, która będzie prowadzona w składzie podatkowym, jak również wskazanie planowanej lokalizacji składu podatkowego, proponowanego zabezpieczenia akcyzowego oraz liczby już prowadzonych przez podmiot składów podatkowych.
+
+4. Przepis ust. 3 w zakresie numeru w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym nie ma zastosowania do rolników występujących z wnioskiem o wydanie zezwolenia na prowadzenie składu podatkowego, w którym będą wykonywane, zgodnie z ustawą z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych, wyłącznie czynności polegające na wytwarzaniu na własny użytek estru lub czystego oleju roślinnego, o których mowa w art. 2 ust. 1 pkt 11 lit. c tej ustawy. ” ;
+
+- **2)** w art. 54 ust. 2 otrzymuje brzmienie: „
+
+2. Wniosek o wydanie zezwolenia wyprowadzenia powinien zawierać dane dotyczące podmiotu oraz prowadzonej przez niego działalności gospodarczej, w szczególności imię i nazwisko lub nazwę podmiotu, adres jego siedziby lub zamieszkania, numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile podmiot taki numer posiada, numer identyfikacyjny REGON, numer identyfikacji podatkowej (NIP), adres poczty elektronicznej oraz określenie rodzaju wyrobów akcyzowych, a także adres, pod którym jest zlokalizowany skład podatkowy, z którego będzie następowało wyprowadzanie wyrobów akcyzowych poza procedurą zawieszenia poboru akcyzy, oraz numer akcyzowy tego składu podatkowego. ” ;
+
+- **3)** w art. 56 ust. 2 otrzymuje brzmienie: „
+
+2. Wniosek, o którym mowa w ust. 1, powinien zawierać dane dotyczące podmiotu oraz prowadzonej przez niego działalności gospodarczej, w szczególności imię i nazwisko lub nazwę podmiotu, adres jego siedziby lub zamieszkania, numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile podmiot taki numer posiada, numer identyfikacyjny REGON, numer identyfikacji podatkowej (NIP), adres poczty elektronicznej oraz określenie zakresu działalności, która będzie prowadzona przez podmiot, a także proponowane zabezpieczenie akcyzowe. ” ;
+
+- **4)** w art. 57: w ust. 3 pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** dane dotyczące podmiotu oraz prowadzonej przez niego działalności gospodarczej, w szczególności imię i nazwisko lub nazwę podmiotu, adres jego siedziby lub zamieszkania, numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile podmiot taki numer posiada, numer identyfikacyjny REGON oraz numer identyfikacji podatkowej (NIP), adres poczty elektronicznej, a także planowaną lokalizację miejsca odbioru wyrobów akcyzowych; ” , w ust. 3a pkt 1 otrzymuje brzmienie: „
+    - **b)**
+
+- **1)** dane dotyczące podmiotu oraz prowadzonej przez niego działalności gospodarczej, w szczególności imię i nazwisko lub nazwę podmiotu, adres jego siedziby lub zamieszkania, numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile podmiot taki numer posiada, numer identyfikacyjny REGON oraz numer identyfikacji podatkowej (NIP), adres poczty elektronicznej, a także planowaną lokalizację miejsca odbioru wyrobów akcyzowych; ” ;
+- **5)** w art. 62a w ust. 2 pkt 1 otrzymuje brzmienie: „
+- **1)** dane dotyczące podmiotu oraz prowadzonej przez niego działalności gospodarczej, w szczególności imię i nazwisko lub nazwę podmiotu, adres jego siedziby lub zamieszkania, numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile podmiot taki numer posiada, numer identyfikacyjny REGON, numer identyfikacji podatkowej (NIP) oraz adres poczty elektronicznej; ” ;
+- **6)** w art. 81 ust. 2 otrzymuje brzmienie: „
+
+2. Wniosek, o którym mowa w ust. 1, powinien zawierać dane dotyczące sprzedawcy i prowadzonej przez niego działalności gospodarczej, w szczególności imię i nazwisko lub nazwę sprzedawcy, adres jego siedziby lub zamieszkania, określenie rodzaju prowadzonej działalności gospodarczej, dane identyfikacyjne przedstawiciela podatkowego, w szczególności imię i nazwisko lub nazwę przedstawiciela podatkowego, adres jego siedziby lub zamieszkania, numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedstawiciel podatkowy taki numer posiada, numer identyfikacyjny REGON oraz numer identyfikacji podatkowej (NIP), adres poczty elektronicznej, a także rodzaj wyrobów akcyzowych, które będą nabywane wewnątrzwspólnotowo. ” .
 
 **Art. 49.** W ustawie z dnia 4 marca 2010 r. o świadczeniu usług na terytorium Rzeczypospolitej Polskiej (Dz. U. Nr 47, poz. 278, z późn. zm.) wprowadza się następujące zmiany:
 
+- **1)** w art. 4 ust. 1 otrzymuje brzmienie: „
+
+1. Usługodawca z innego państwa członkowskiego może czasowo świadczyć usługi na zasadach określonych w przepisach Traktatu o funkcjonowaniu Unii Europejskiej albo w postanowieniach umów regulujących swobodę świadczenia usług bez konieczności uzyskania wpisu do rejestru przedsiębiorców w Krajowym Rejestrze Sądowym albo Centralnej Ewidencji i Informacji o Działalności Gospodarczej. ” ;
+
+- **2)** w art. 10 w ust. 1 pkt 2 otrzymuje brzmienie: „
+- **2)** organ rejestrowy i numer w rejestrze, w którym usługodawca jest zarejestrowany jako przedsiębiorca, albo informację o wpisie do Centralnej Ewidencji i Informacji o Działalności Gospodarczej; ” .
+
 **Art. 50.** W ustawie z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2015 r. poz. 1440, 1753 i 1890) wprowadza się następujące zmiany:
+
+- **1)** w art. 28: w ust. 2 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada, oraz numer identyfikacji podatkowej (NIP); ” , ust. 7 otrzymuje brzmienie: „
+    - **b)**
+
+7. Do wniosku o zmianę zaświadczenia, o którym mowa w ust. 6, dołącza się poświadczoną przez operatora za zgodność z oryginałem kserokopię odpisu z rejestru przedsiębiorców w Krajowym Rejestrze Sądowym. ” ;
+
+- **2)** w art. 30 w ust. 3 pkt 5 otrzymuje brzmienie: „
+- **5)** odpis z rejestru przedsiębiorców w Krajowym Rejestrze Sądowym. ” ;
+- **3)** w art. 34 w ust. 3 pkt 2 otrzymuje brzmienie: „
+- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada, oraz numer identyfikacji podatkowej (NIP); ” ;
+- **4)** w art. 40 w ust. 1 w pkt 1 lit. c otrzymuje brzmienie: „ numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada, oraz numer identyfikacji podatkowej (NIP); ” ;
+    - **c)**
+
+- **5)** w art. 64 w ust. 1 pkt 1 otrzymuje brzmienie: „
+- **1)** nie wystąpił do właściwego organizatora z wnioskiem o zmianę treści zaświadczenia, o którym mowa w art. 28 ust. 1, lub potwierdzenia, o którym mowa w art. 30 ust. 1, w przypadku wszelkich zmian dotyczących: oznaczenia przedsiębiorcy, jego siedziby (miejsca zamieszkania) lub adresu, numeru w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile operator lub przewoźnik taki numer posiada, numeru identyfikacji podatkowej (NIP), nie później niż w terminie 14 dni od dnia ich powstania, ” .
 
 **Art. 51.** W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2015 r. poz. 155, z późn. zm.) wprowadza się następujące zmiany:
 
+- **1)** w art. 28 w ust. 4 pkt 2 otrzymuje brzmienie: „
+- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym – o ile taki numer jest wymagany; ” ;
+- **2)** w art. 85 w ust. 4 pkt 2 otrzymuje brzmienie: „
+- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym – o ile taki numer jest wymagany; ” ;
+- **3)** w art. 115 w ust. 2 pkt 2 otrzymuje brzmienie: „
+- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym – o ile taki numer przedsiębiorca posiada; ” .
+
 **Art. 52.** W ustawie z dnia 1 kwietnia 2011 r. – Prawo probiercze (Dz. U. Nr 92, poz. 529) wprowadza się następujące zmiany:
+
+- **1)** w art. 19 w ust. 4 pkt 4 otrzymuje brzmienie: „
+- **4)** odpis z Krajowego Rejestru Sądowego, numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON) oraz numer identyfikacji podatkowej (NIP) – w przypadku podmiotów i wytwórców, o których mowa w art. 18 ust. 2, o ile takie numery posiadają; ” ;
+- **2)** w art. 20 w ust. 1 pkt 5 otrzymuje brzmienie: „
+- **5)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym oraz numer identyfikacji podatkowej (NIP) – w przypadku podmiotów i wytwórców, o których mowa w art. 18 ust. 2, o ile takie numery posiadają; ” ;
+- **3)** w art. 34 w ust. 4 pkt 4 otrzymuje brzmienie: „
+- **4)** odpis z Krajowego Rejestru Sądowego, jeżeli podmiot jest wpisany do tego rejestru; ” .
 
 **Art. 53.** W ustawie z dnia 12 maja 2011 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina (Dz. U. z 2014 r. poz. 1104 oraz z 2015 r. poz. 1419) w art. 20 w ust. 3 w pkt 2 lit. a otrzymuje brzmienie: „
 
+w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada, ” .
+
+- **a)**
+
 **Art. 54.** W ustawie z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących (Dz. U. Nr 135, poz. 789, z późn. zm.) w art. 45 w ust. 2 pkt 2 otrzymuje brzmienie: „
+
+- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada, oraz numer identyfikacji podatkowej (NIP); ” .
 
 **Art. 55.** W ustawie z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2014 r. poz. 1435, z późn. zm.) w art. 76 w ust. 1 pkt 3 otrzymuje brzmienie: „
 
+- **3)** numer wpisu do rejestru przedsiębiorców w Krajowym Rejestrze Sądowym – w przypadku podmiotu podlegającego obowiązkowi takiego wpisu; ” .
+
 **Art. 56.** W ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2014 r. poz. 873, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 12a w ust. 2 w pkt 2 lit. b otrzymuje brzmienie: „ numer identyfikacji podatkowej (NIP). ” ;
+    - **b)**
+
+- **2)** w art. 122 w ust. 1 w pkt 1 lit. b otrzymuje brzmienie: „ numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile wnioskodawca taki numer posiada, oraz numer identyfikacji podatkowej (NIP), ” ;
+    - **b)**
+
+- **3)** w art. 136 w pkt 2 lit. b otrzymuje brzmienie: „ numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile biuro usług płatniczych taki numer posiada, oraz numer identyfikacji podatkowej (NIP), ” .
+    - **b)**
 
 **Art. 57.** W ustawie z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. Nr 227, poz. 1367 i Nr 244, poz. 1454 oraz z 2015 r. poz. 1273) wprowadza się następujące zmiany:
 
+- **1)** w art. 50 w ust. 7 pkt 2 otrzymuje brzmienie: „
+- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile podmiot taki numer posiada; ” ;
+- **2)** w art. 52 w ust. 6 pkt 2 otrzymuje brzmienie: „
+- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym oraz numer identyfikacji podatkowej (NIP), o ile podmiot takie numery posiada; ” .
+
 **Art. 58.** W ustawie z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2015 r. poz. 1401 i 1830) wprowadza się następujące zmiany:
 
+- **1)** w art. 1 w ust. 2 pkt 3 otrzymuje brzmienie: „
+- **3)** w przypadku rozwiązań określonych w art. 5–7, art. 10–19, art. 23, art. 26–29, art. 33 i art. 36 – warunki lub okres ich stosowania lub termin na dokonanie określonych czynności, nie dłuższy niż 12 miesięcy ” ;
+- **2)** w art. 4 w ust. 3 zdanie drugie otrzymuje brzmienie: „ W oświadczeniu podaje się także informację o posiadaniu lub braku ubezpieczenia, z tytułu którego jest możliwe uzyskanie odszkodowania, a także informację o numerze w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym oraz o numerze identyfikacji podatkowej (NIP), o ile podmiot takie numery posiada. ” .
+
 **Art. 59.** W ustawie z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. poz. 1512 oraz z 2013 r. poz. 865) w art. 84 w ust. 3 pkt 2 otrzymuje brzmienie: „
+
+- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada; ” .
 
 **Art. 60.** Przedsiębiorcy, którzy do dnia wejścia w życie niniejszej ustawy nie dokonali zmian wpisu do Centralnej Ewidencji i Informacji o Działalności Gospodarczej lub wykreślenia z tej ewidencji, o których mowa w art. 30 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, w przypadku gdy obowiązek taki powstał przed dniem wejścia w życie niniejszej ustawy, mogą złożyć wnioski o zmianę wpisu lub wykreślenie w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
@@ -356,11 +705,61 @@ source: "eli-html"
 
 **Art. 71.** Wnioski złożone przed dniem wejścia w życie niniejszej ustawy na podstawie:
 
+- **1)** art. 10 ust. 1 i art. 49 ust. 1 ustawy zmienianej w art. 1,
+- **2)** art. 18 ust. 2 ustawy zmienianej w art. 2,
+- **3)** art. 35 ust. 1 ustawy zmienianej w art. 8,
+- **4)** art. 75ab ust. 1 i art. 83a ust. 3 ustawy zmienianej w art. 9,
+- **5)** art. 5 ust. 1 ustawy zmienianej w art. 13,
+- **6)** art. 16 ust. 4 ustawy zmienianej w art. 15,
+- **7)** art. 5 ust. 1 ustawy zmienianej w art. 16,
+- **8)** art. 16 ust. 2 ustawy zmienianej w art. 18,
+- **9)** art. 12 ust. 1 ustawy zmienianej w art. 19,
+- **10)** art. 16 ust. 1 ustawy zmienianej w art. 20,
+- **11)** art. 19 ust. 2 ustawy zmienianej w art. 21,
+- **12)** art. 39g ust. 4 ustawy zmienianej w art. 22,
+- **13)** art. 24 ust. 1 ustawy zmienianej w art. 23,
+- **14)** art. 14 ust. 1 ustawy zmienianej w art. 24,
+- **15)** art. 95a ust. 1 ustawy zmienianej w art. 25,
+- **16)** art. 17 ust. 1 ustawy zmienianej w art. 26,
+- **17)** art. 48 ust. 1 ustawy zmienianej w art. 28,
+- **18)** art. 28 ust. 3 ustawy zmienianej w art. 29,
+- **19)** art. 17 ust. 2 ustawy zmienianej w art. 30,
+- **20)** art. 22 ust. 3 i art. 31 ust. 10b ustawy zmienianej w art. 31,
+- **21)** art. 57 ust. 3 pkt 3 ustawy zmienianej w art. 32,
+- **22)** art. 26 ust. 1 ustawy zmienianej w art. 33,
+- **23)** art. 26 ust. 2 pkt 1 ustawy zmienianej w art. 34,
+- **24)** art. 4 ust. 1 ustawy zmienianej w art. 35,
+- **25)** art. 10 ust. 4 ustawy zmienianej w art. 36,
+- **26)** art. 6 ust. 2 ustawy zmienianej w art. 40,
+- **27)** art. 21 ust. 1 ustawy zmienianej w art. 42,
+- **28)** art. 10 ust. 1 i art. 20 ust. 2 ustawy zmienianej w art. 43,
+- **29)** art. 35 ust. 1 oraz art. 64 ust. 1 i 1a ustawy zmienianej w art. 44,
+- **30)** art. 6 ust. 1 ustawy zmienianej w art. 45,
+- **31)** art. 4 ust. 3 ustawy zmienianej w art. 47,
+- **32)** art. 49 ust. 1, art. 54 ust. 1, art. 56 ust. 1, art. 57 ust. 1, art. 62a ust. 1 i art. 81 ust. 1 ustawy zmienianej w art. 48,
+- **33)** art. 28 ust. 4, art. 85 ust. 4 i art. 115 ust. 2 ustawy zmienianej w art. 51,
+- **34)** art. 19 ust. 4 ustawy zmienianej w art. 52,
+- **35)** art. 20 ust. 2 ustawy zmienianej w art. 53,
+- **36)** art. 76 ust. 1 ustawy zmienianej w art. 55,
+- **37)** art. 122 ust. 1 ustawy zmienianej w art. 56,
+- **38)** art. 50 ust. 7 ustawy zmienianej w art. 57 uznaje się za wnioski złożone zgodnie z wymogami ustaw wymienionych w pkt 1–38 w brzmieniu dotychczasowym.
+
 **Art. 72.** Koncesje i zaświadczenia wydane przed dniem wejścia w życie niniejszej ustawy zgodnie z:
+
+- **1)** art. 33 ust. 1 i art. 37 ust. 1 ustawy zmienianej w art. 8,
+- **2)** art. 14 ust. 1 ustawy zmienianej w art. 19,
+- **3)** art. 33 ust. 3 ustawy zmienianej w art. 22 w brzmieniu dotychczasowym, uznaje się za zgodne z przepisami ustaw zmienianych w art. 8, art. 19 i art. 22 w brzmieniu nadanym niniejszą ustawą. Zgłoszenia dokonane przed dniem wejścia w życie niniejszej ustawy zgodnie z:
+- **1)** art. 12 ust. 3 ustawy zmienianej w art. 14,
+- **2)** art. 11 ust. 2 ustawy zmienianej w art. 39,
+- **3)** art. 84 ust. 3 ustawy zmienianej w art. 59 w brzmieniu dotychczasowym, uznaje się za zgodne z przepisami ustaw zmienianych w art. 14, art. 39 i art. 59 w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 74.** Informacje zawarte w ewidencjach, rejestrach i wykazach na podstawie dotychczasowych przepisów uznaje się za zgodne z przepisami ustaw zmienianych w art. 5, art. 7, art. 10, art. 15, art. 17, art. 20, art. 23, art. 29, art. 38, art. 39, art. 50, art. 52, art. 56 i art. 57, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 75.** Zgłoszeń w sposób określony w:
+
+- **1)** art. 25 ust. 5 pkt 9 ustawy zmienianej w art. 1,
+- **2)** art. 36b ustawy zmienianej w art. 11,
+- **3)** art. 74 ust. 3 ustawy zmienianej w art. 37 można dokonywać po upływie 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 76.** Przepis art. 28 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w zakresie przesyłania przez Centralną Ewidencję i Informację o Działalności Gospodarczej zgłoszeń, o których mowa w art. 25 ust. 5 pkt 9 ustawy zmienianej w art. 1, stosuje się po upływie 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 

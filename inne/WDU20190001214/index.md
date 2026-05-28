@@ -8,12 +8,10 @@ pos: 1214
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym
-
-*USTAWA z dnia 13 czerwca 2019 r.*
+# Ustawa z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym
 
 | Pole | Wartość |
 |---|---|
@@ -24,14 +22,19 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2019-06-13 |
 | Data wydania | 2019-07-01 |
-| Ostatnia zmiana | 2026-05-14 |
+| Wejście w życie | 2019-08-01 |
+| Ostatnia zmiana | 2026-05-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001214) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1214/text.pdf) |
 
-Art. 143–153. (pominięte)
+Treść ustawy Dział I – Przepisy ogólne Dział II – Zasady koncesjonowania działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym Dział III – Wykonywanie działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym Rozdział 1 – Przepisy ogólne Rozdział 2 – Wykonywanie działalności gospodarczej w zakresie wytwarzania materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym Rozdział 3 – Wykonywanie działalności gospodarczej w zakresie obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym Dział IV – System Rejestracji Broni Dział V – Kontrola działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym Dział VI – Oczyszczanie terenów z materiałów wybuchowych i niebezpiecznych Dział VII – Przepisy karne oraz przepisy o karach administracyjnych Dział VIII – Przepisy zmieniające, przejściowe, dostosowujące i końcowe Rozdział 1 – Przepisy zmieniające Rozdział 2 – Przepisy przejściowe, dostosowujące i końcowe
+Załącznik – Kategorie i podkategorie strzeleckiej broni palnej i amunicji do strzeleckiej broni palnej
 
-### DZIAŁ I Przepisy ogólne
+### Dział I Przepisy ogólne
 
 **Art. 1.** Ustawa określa zasady:
+
+- **1)** podejmowania i wykonywania przez przedsiębiorców działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym oraz kontroli tej działalności;
+- **2)** oczyszczania terenów z materiałów wybuchowych i niebezpiecznych.
 
 **Art. 2.**
 
@@ -43,60 +46,57 @@ Art. 143–153. (pominięte)
 
 1. W rozumieniu ustawy:
 
-- **1)** amunicja – oznacza:
-    - **a)** nabój scalony do strzeleckiej broni palnej,
-    - **b)** naboje do broni palnej innej niż strzelecka broń palna, pociski kierowane, pociski rakietowe, miny, bomby, granaty, torpedy, głowice, zapalniki, ładunki, lonty i środki pozoracji pola walki,
-    - **c)** inne środki przeznaczone do niszczenia lub obezwładniania osób lub obiektów, a także do celów pozoracyjnych, ćwiczebnych, szkolno-treningowych, badań lub sportowych,
-    - **d)** komponenty amunicji zawierające materiały wybuchowe, chemiczne środki obezwładniające lub zapalające albo inne substancje, których działanie zagraża życiu lub zdrowiu, a także materiał wybuchowy miotający w postaci prochu,
-    - **e)** komponenty amunicji niezawierające materiałów wybuchowych: korpusy pocisków amunicji artyleryjskiej, łuski amunicji artyleryjskiej, kadłuby min, elementy układów napędowych, naprowadzania i sterowania pocisków rakietowych, bomb lotniczych i głębinowych, torped i imitatorów celów;
+- **1)** amunicja – oznacza: nabój scalony do strzeleckiej broni palnej, naboje do broni palnej innej niż strzelecka broń palna, pociski kierowane, pociski rakietowe, miny, bomby, granaty, torpedy, głowice, zapalniki, ładunki, lonty i środki pozoracji pola walki, inne środki przeznaczone do niszczenia lub obezwładniania osób lub obiektów, a także do celów pozoracyjnych, ćwiczebnych, szkolno-treningowych, badań lub sportowych, komponenty amunicji zawierające materiały wybuchowe, chemiczne środki obezwładniające lub zapalające albo inne substancje, których działanie zagraża życiu lub zdrowiu, a także materiał wybuchowy miotający w postaci prochu;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
-- **2)** broń – jest to broń palna, o której mowa w pkt 3, oraz inne rodzaje broni w rozumieniu art. 4 ust. 1 pkt 2–4 ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2022 r. poz. 2516 oraz z 2023 r. poz. 535, 803 i 1030), a także inne urządzenia i narzędzia przeznaczone do niszczenia lub obezwładniania celów;
-- **2a)** broń alarmowa i sygnałowa – jest to urządzenie z uchwytem na nabój, przeznaczone wyłącznie do strzelania ślepymi nabojami oraz do wystrzeliwania substancji drażniących, innych substancji aktywnych lub pirotechnicznych nabojów sygnalizacyjnych, służące do alarmowania lub sygnalizowania;
+- **2)** broń – jest to broń palna, o której mowa w pkt 3, oraz inne rodzaje broni w rozumieniu art. 4 ust. 1 pkt 2–4 ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2019 r. poz. 284), a także inne urządzenia i narzędzia przeznaczone do niszczenia lub obezwładniania celów;
 - **3)** broń palna – jest to broń, w której do miotania pocisku lub substancji drażniących, innych substancji aktywnych lub nabojów pirotechnicznych lub do wytwarzania efektów dźwiękowo-wizualnych jest wykorzystywana energia produktów powstałych w wyniku reakcji chemicznej ładunku miotającego;
 - **4)** istotne części – oznaczają lufę, zamek, bęben nabojowy, szkielet lub komorę zamkową strzeleckiej broni palnej, odpowiednio do przyjętych rozwiązań technicznych danego modelu broni;
 - **5)** istotne części artyleryjskiej broni palnej – oznaczają lufę, komorę zamkową lub nasadę zamkową oraz zamek, przeznaczone do broni palnej wyposażonej w lufę o najmniejszej średnicy części prowadzącej przewodu lufy wynoszącej co najmniej 20 mm;
 - **6)** kaliber – jest to parametr broni określony wartością wyrażoną w jednostkach długości albo wagomiarowo, zawartą w oznaczeniu naboju scalonego przeznaczonego dla danej broni, a w przypadku broni rozdzielnego ładowania – wyrażoną w jednostkach długości albo wagomiarowo najmniejsza średnica części prowadzącej przewodu lufy;
 - **7)** lufa – oznacza istotną część broni, w której pociskowi w trakcie strzału nadawana jest prędkość i kierunek ruchu;
 - **8)** ładunek miotający – jest to materiał wybuchowy lub kombinacja materiałów wybuchowych, w ilości określonej dla danego rodzaju amunicji, które w wyniku reakcji chemicznej wytwarzają produkty gazowe zdolne do miotania pocisku lub chemicznego środka obezwładniającego lub do wytwarzania efektów dźwiękowo-wizualnych;
-- **9)** materiały wybuchowe – są to:
-    - **a)** substancje chemiczne stałe lub ciekłe albo mieszaniny tych substancji, które pod wpływem bodźców zewnętrznych są zdolne do gwałtownej reakcji chemicznej, której towarzyszy wydzielanie produktów gazowych o takiej temperaturze i ciśnieniu i z taką szybkością, że mogą powodować zniszczenia w otaczającym środowisku, a także wyroby wypełnione materiałem wybuchowym, z wyłączeniem amunicji,
-    - **b)** materiały pirotechniczne – materiały lub mieszaniny materiałów przewidzianych do wytwarzania efektów cieplnych, świetlnych, dźwiękowych, gazu, dymu lub kombinacji tych efektów, w wyniku bezdetonacyjnej, samopodtrzymującej się reakcji chemicznej, a także wyroby wypełnione materiałem pirotechnicznym,
-    - **c)** plastyczne materiały wybuchowe – materiały wybuchowe, których opis jest przedstawiony w części 1. „Opis materiałów wybuchowych” w ust. I załącznika technicznego do Konwencji w sprawie znakowania plastycznych materiałów wybuchowych w celu ich wykrywania, podpisanej w Montrealu dnia 1 marca 1991 r. (Dz. U. z 2007 r. poz. 948);
+- **9)** materiały wybuchowe – są to: substancje chemiczne stałe lub ciekłe albo mieszaniny tych substancji, które pod wpływem bodźców zewnętrznych są zdolne do gwałtownej reakcji chemicznej, której towarzyszy wydzielanie produktów gazowych o takiej temperaturze i ciśnieniu i z taką szybkością, że mogą powodować zniszczenia w otaczającym środowisku, a także wyroby wypełnione materiałem wybuchowym, z wyłączeniem amunicji, materiały pirotechniczne – materiały lub mieszaniny materiałów przewidzianych do wytwarzania efektów cieplnych, świetlnych, dźwiękowych, gazu, dymu lub kombinacji tych efektów, w wyniku bezdetonacyjnej, samopodtrzymującej się reakcji chemicznej, a także wyroby wypełnione materiałem pirotechnicznym, plastyczne materiały wybuchowe – materiały wybuchowe, których opis jest przedstawiony w części 1. „Opis materiałów wybuchowych” w ust. I załącznika technicznego do Konwencji w sprawie znakowania plastycznych materiałów wybuchowych w celu ich wykrywania, podpisanej w Montrealu dnia 1 marca 1991 r. (Dz. U. z 2007 r. poz. 948);
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **10)** replika broni czarnoprochowej – jest to strzelecka broń palna rozdzielnego ładowania, przystosowana do strzelania wyłącznie przy wykorzystaniu prochu czarnego, odwzorowująca broń wytworzoną przed 1900 r., z zachowaniem jej funkcjonalności;
 - **11)** strzelecka broń palna – jest to przenośna broń palna wyposażona w lufę, która jest przeznaczona do miotania pocisku lub może zostać przerobiona tak, aby miotała pocisk w wyniku działania energii produktów uzyskanych z reakcji chemicznej ładunku miotającego, o najmniejszej średnicy części prowadzącej przewodu lufy poniżej 20 mm, z wyjątkiem granatników i broni sygnałowej, przy czym przedmiot uznaje się za możliwy do przerobienia w celu miotania pocisku w wyniku działania energii produktów uzyskanych z reakcji chemicznej ładunku miotającego, jeżeli ma wygląd broni palnej oraz ze względu na swoją budowę lub materiał, z którego jest wykonany, może zostać przerobiony w tym celu;
 - **12)** technologia o przeznaczeniu wojskowym lub policyjnym – są to informacje niezbędne do rozwoju, produkcji lub używania danego wyrobu o przeznaczeniu wojskowym lub policyjnym, mające postać danych technologicznych lub pomocy technicznej rozumianej jako przekazanie danych technologicznych;
 - **13)** wyroby o przeznaczeniu wojskowym lub policyjnym – są to wyroby zaprojektowane dla celów wojskowych lub policyjnych;
-- **14)** zniszczenie – jest to odzysk albo unieszkodliwianie, w rozumieniu przepisów ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2022 r. poz. 699, z późn. zm. ), broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym, a także czynności prowadzące do niszczenia lub utylizacji materiałów wybuchowych.
+- **14)** zniszczenie – jest to odzysk albo unieszkodliwianie, w rozumieniu przepisów ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2019 r. poz. 701 i 730), broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym, a także czynności prowadzące do niszczenia lub utylizacji materiałów wybuchowych.
 
 2. Jeżeli przepisy ustawy nie stanowią inaczej, do istotnych części stosuje się przepisy dotyczące strzeleckiej broni palnej, a do istotnych części artyleryjskiej broni palnej stosuje się przepisy dotyczące broni palnej innej niż strzelecka broń palna.
 
 **Art. 4.** Ustawy nie stosuje się do:
 
-**Art. 4a.** Przepisów ustawy nie stosuje się do Rządowej Agencji Rezerw Strategicznych wykonującej zadania w zakresie tworzenia, utrzymywania i udostępnienia rezerw strategicznych oraz zadania na podstawie art. 29 i art. 32 ustawy z dnia 17 grudnia 2020 r. o rezerwach strategicznych (Dz. U. z 2023 r. poz. 294).
+- **1)** broni historycznej, to jest broni palnej rozdzielnego ładowania, przystosowanej do strzelania wyłącznie przy wykorzystaniu prochu czarnego, wytworzonej przed 1900 r.;
+- **2)** broni palnej wpisanej do inwentarza muzealiów, o którym mowa w art. 21 ust. 1 i 1a ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2019 r. poz. 917), lub wpisanej do rejestru zabytków albo na Listę Skarbów Dziedzictwa lub ujętej w wojewódzkiej ewidencji zabytków, o których mowa odpowiednio w art. 8 ust. 1, art. 14a oraz art. 22 ust. 2 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2018 r. poz. 2067 i 2245 oraz z 2019 r. poz. 730);
+- **3)** atrap broni niezdolnych do miotania pocisków z wykorzystaniem energii produktów powstałych w wyniku reakcji chemicznej ładunku miotającego i przekrojów broni służących do prezentacji sposobu działania mechanizmów broni – jeżeli nie zawierają istotnych części, które można wykorzystać zgodnie z ich przeznaczeniem w broni palnej.
 
 **Art. 5.** Wykonywanie działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym jest dozwolone wyłącznie po spełnieniu warunków określonych w ustawie.
 
 **Art. 6.** Działalność gospodarczą w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym prowadzi się w sposób zapewniający ochronę życia i zdrowia ludzi, mienia oraz środowiska.
 
-### DZIAŁ II Zasady koncesjonowania działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym
+### Dział II Zasady koncesjonowania działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym
 
 **Art. 7.**
 
 1. Wykonywanie działalności gospodarczej w zakresie:
 
 - **1)** wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami o przeznaczeniu wojskowym lub policyjnym,
-- **2)** obrotu technologią o przeznaczeniu wojskowym lub policyjnym – wymaga uzyskania koncesji.
+- **2)** obrotu technologią o przeznaczeniu wojskowym lub policyjnym wymaga uzyskania koncesji.
 
 2. Nie wymaga uzyskania koncesji obrót:
 
-- **1)** wyrobami pirotechnicznymi, o których mowa w art. 62c ust. 1 pkt 1 lit. a–c, pkt 2 lit. a oraz pkt 3 lit. a ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2022 r. poz. 2378);
-- **2)** bronią palną pozbawioną cech użytkowych w rozumieniu ustawy oraz wyrobami o przeznaczeniu wojskowym lub policyjnym, pozbawionymi cech użytkowych w rozumieniu ustawy;
-- **3)** bronią alarmową i sygnałową.
+- **1)** wyrobami pirotechnicznymi, o których mowa w art. 62c ust. 1 pkt 1 lit. a-c, pkt 2 lit. a oraz pkt 3 lit. a ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2019 r. poz. 45, 55 i 60);
+- **2)** bronią palną pozbawioną cech użytkowych w rozumieniu ustawy oraz wyrobami o przeznaczeniu wojskowym lub policyjnym, pozbawionymi cech użytkowych w rozumieniu ustawy.
 
 3. Rada Ministrów określi, w drodze rozporządzenia, klasyfikację rodzajów materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym, na których wytwarzanie lub obrót jest wymagane uzyskanie koncesji, uwzględniając aktualną wiedzę techniczną z zakresu wytwarzania materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym oraz konieczność ich wyczerpującego sklasyfikowania.
-
-4. Kategorie i podkategorie strzeleckiej broni palnej i amunicji do strzeleckiej broni palnej są określone w załączniku do ustawy.
 
 **Art. 8.**
 
@@ -118,27 +118,27 @@ Art. 143–153. (pominięte)
 
 1. Koncesji udziela się:
 
-- **1)** przedsiębiorcy, będącemu osobą fizyczną, jeżeli: poz. 2123), oraz istotnych zaburzeń funkcjonowania psychologicznego, które stanowiłyby przeszkodę do wykonywania lub kierowania działalnością gospodarczą w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym,
-    - **a)** posiada obywatelstwo: – polskie, – innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, – innego państwa, jeżeli otrzymał na terytorium Rzeczypospolitej Polskiej zezwolenie na pobyt stały lub zezwolenie na pobyt rezydenta długoterminowego Unii Europejskiej albo na zasadzie wzajemności, o ile umowy międzynarodowe, których Rzeczpospolita Polska jest stroną, nie stanowią inaczej,
-    - **b)** ukończył 21 lat,
-    - **c)** posiada co najmniej wykształcenie średnie lub średnie branżowe,
-    - **d)** posiada przygotowanie zawodowe do wykonywania lub kierowania działalnością gospodarczą w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, którego zakres odpowiada co najmniej zakresowi planowanej działalności gospodarczej,
-    - **e)** ma pełną zdolność do czynności prawnych,
-    - **f)** nie wykazuje zaburzeń psychicznych, o których mowa w ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2022 r.
-    - **g)** nie był skazany prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe,
-    - **h)** nie jest prowadzone przeciwko niemu postępowanie w sprawach o umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+- **1)** przedsiębiorcy, będącemu osobą fizyczną, jeżeli: posiada obywatelstwo: – polskie, – innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, – innego państwa, jeżeli otrzymał na terytorium Rzeczypospolitej Polskiej zezwolenie na pobyt stały lub zezwolenie na pobyt rezydenta długoterminowego Unii Europejskiej albo na zasadzie wzajemności, o ile umowy międzynarodowe, których Rzeczpospolita Polska jest stroną, nie stanowią inaczej, ukończył 21 lat, posiada co najmniej wykształcenie średnie lub średnie branżowe, posiada przygotowanie zawodowe do wykonywania lub kierowania działalnością gospodarczą w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, którego zakres odpowiada co najmniej zakresowi planowanej działalności gospodarczej, ma pełną zdolność do czynności prawnych, nie wykazuje zaburzeń psychicznych, o których mowa w ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2018 r. poz. 1878 oraz z 2019 r. poz. 730), oraz istotnych zaburzeń funkcjonowania psychologicznego, które stanowiłyby przeszkodę do wykonywania lub kierowania działalnością gospodarczą w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, nie był skazany prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe, nie jest prowadzone przeciwko niemu postępowanie w sprawach o umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
 
 - **2)** przedsiębiorcy innemu niż osoba fizyczna, jeżeli co najmniej dwie osoby będące członkami organu zarządzającego przedsiębiorstwa albo członek organu zarządzającego przedsiębiorstwa i ustanowiony przez ten organ do kierowania działalnością określoną w koncesji prokurent lub pełnomocnik spełniają warunki określone w pkt 1, z tym że warunki, o których mowa w pkt 1 lit. g i h, dotyczą także wspólników spółki, członków organu zarządzającego, prokurentów oraz udziałowców lub akcjonariuszy posiadających co najmniej 20% udziałów lub akcji;
-- **3)** przedsiębiorcy, który:
-    - **a)** nie jest wpisany do rejestru dłużników niewypłacalnych Krajowego Rejestru Sądowego oraz nie jest ujawniony w Krajowym Rejestrze Zadłużonych,
-    - **b)** spełnia warunki techniczne i organizacyjne zapewniające prawidłowe wykonywanie działalności gospodarczej określonej w koncesji.
+- **3)** przedsiębiorcy, który: nie jest wpisany do rejestru dłużników niewypłacalnych Krajowego Rejestru Sądowego oraz nie jest ujawniony w Centralnym Rejestrze Restrukturyzacji i Upadłości, spełnia warunki techniczne i organizacyjne zapewniające prawidłowe wykonywanie działalności gospodarczej określonej w koncesji.
+    - **a)**
+    - **b)**
 
 2. Koncesji na wykonywanie działalności gospodarczej w zakresie wytwarzania i obrotu strzelecką bronią palną i istotnymi częściami udziela się przedsiębiorcy, który ponadto spełnia wymagania techniczne i organizacyjne umożliwiające prowadzenie ewidencji w Systemie Rejestracji Broni, o którym mowa w dziale IV, zwanym dalej „SRB”.
 
 3. Wymaganie, o którym mowa w ust. 1:
 
 - **1)** pkt 1 lit. c – nie dotyczy rusznikarzy oraz przedsiębiorców wykonujących działalność gospodarczą w zakresie wytwarzania i obrotu replikami broni czarnoprochowej;
-- **2)** pkt 3 lit. b – nie dotyczy przedsiębiorców wykonujących działalność gospodarczą w zakresie obrotu bez prawa magazynowania oraz mikroprzedsiębiorców, w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641 i 803), wykonujących działalność gospodarczą w zakresie wytwarzania i obrotu replikami broni czarnoprochowej.
+- **2)** pkt 3 lit. b – nie dotyczy przedsiębiorców wykonujących działalność gospodarczą w zakresie obrotu bez prawa magazynowania oraz mikroprzedsiębiorców, w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. poz. 646, 1479, 1629, 1633 i 2212), wykonujących działalność gospodarczą w zakresie wytwarzania i obrotu replikami broni czarnoprochowej.
 
 **Art. 11.**
 
@@ -158,7 +158,7 @@ Art. 143–153. (pominięte)
 
 5. Instytucją upoważnioną, o której mowa w ust. 1, może być podmiot posiadający kompetencje i potencjał dydaktyczny w zakresie, o którym mowa w ust. 2, związek z działalnością objętą zakresem ustawy oraz specjalistyczne uprawnienia, w tym w dziedzinie certyfikacji, w szczególności instytut badawczy lub szkoła wyższa.
 
-6. Szkolenie, o którym mowa w ust. 1, jest odpłatne. Opłata za szkolenie nie może przekraczać wysokości 1/2 przeciętnego wynagrodzenia, ogłaszanego na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251), zwanego dalej „przeciętnym wynagrodzeniem”.
+6. Szkolenie, o którym mowa w ust. 1, jest odpłatne. Opłata za szkolenie nie może przekraczać wysokości 1/2 przeciętnego wynagrodzenia, ogłaszanego na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2018 r. poz. 1270 i 2245 oraz z 2019 r. poz. 39, 730 i 752), zwanego dalej „przeciętnym wynagrodzeniem”.
 
 7. Minister właściwy do spraw gospodarki, w porozumieniu z ministrem właściwym do spraw wewnętrznych oraz Ministrem Obrony Narodowej, określi, w drodze rozporządzenia:
 
@@ -166,7 +166,7 @@ Art. 143–153. (pominięte)
 - **2)** szczegółowy zakres szkolenia, sposób jego dokumentowania i szczegółowe warunki jego prowadzenia, z uwzględnieniem możliwości prowadzenia ćwiczeń praktycznych,
 - **3)** sposób przygotowania egzaminu sprawdzającego oraz zakres, szczegółowe warunki i sposób jego przeprowadzania,
 - **4)** wzór zaświadczenia potwierdzającego ukończenie szkolenia,
-- **5)** wysokość opłat za szkolenie – biorąc pod uwagę zróżnicowanie zakresu szkolenia w zależności od rodzaju planowanej działalności gospodarczej, zapewnienie czytelności zaświadczenia oraz adekwatność opłaty do kosztów organizacji szkolenia.
+- **5)** wysokość opłat za szkolenie biorąc pod uwagę zróżnicowanie zakresu szkolenia w zależności od rodzaju planowanej działalności gospodarczej, zapewnienie czytelności zaświadczenia oraz adekwatność opłaty do kosztów organizacji szkolenia.
 
 **Art. 12.**
 
@@ -249,32 +249,32 @@ Art. 143–153. (pominięte)
 - **4)** określenie rodzaju i zakresu działalności gospodarczej, na którą ma być udzielona koncesja;
 - **5)** wnioskowany okres, na jaki ma być udzielona koncesja;
 - **6)** planowaną datę rozpoczęcia koncesjonowanej działalności gospodarczej;
-- **7)** dane osobowe przedsiębiorcy, o którym mowa w art. 10 ust. 1 pkt 1, a w przypadku przedsiębiorcy, o którym mowa w art. 10 ust. 1 pkt 2, dane członków organu zarządzającego przedsiębiorcy, prokurentów, pełnomocników uprawnionych do kierowania koncesjonowaną działalnością gospodarczą oraz będących osobami fizycznymi wspólników, a także udziałowców i akcjonariuszy posiadających co najmniej 20% udziałów lub akcji przedsiębiorcy:
-    - **a)** imię i nazwisko,
-    - **b)** datę i miejsce urodzenia,
-    - **c)** obywatelstwo,
-    - **d)** numer PESEL, a w przypadku osoby posiadającej obywatelstwo innego państwa – serię i numer paszportu lub w stosunku do obywateli innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym – serię i numer innego dokumentu potwierdzającego obywatelstwo i tożsamość,
-    - **e)** adres miejsca stałego pobytu;
+- **7)** dane osobowe przedsiębiorcy, o którym mowa w art. 10 ust. 1 pkt 1, a w przypadku przedsiębiorcy, o którym mowa w art. 10 ust. 1 pkt 2, dane członków organu zarządzającego przedsiębiorcy, prokurentów, pełnomocników uprawnionych do kierowania koncesjonowaną działalnością gospodarczą oraz będących osobami fizycznymi wspólników, a także udziałowców i akcjonariuszy posiadających co najmniej 20% udziałów lub akcji przedsiębiorcy: imię i nazwisko, datę i miejsce urodzenia, obywatelstwo, numer PESEL, a w przypadku osoby posiadającej obywatelstwo innego państwa – serię i numer paszportu lub w stosunku do obywateli innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym – serię i numer innego dokumentu potwierdzającego obywatelstwo i tożsamość, adres miejsca stałego pobytu;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
-- **8)** listę udziałowców lub akcjonariuszy oraz wielkość posiadanych przez nich udziałów lub wielkość znacznych pakietów akcji, o których mowa w przepisach rozdziału 4 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2022 r. poz. 2554 oraz z 2023 r. poz. 825);
+- **8)** listę udziałowców lub akcjonariuszy oraz wielkość posiadanych przez nich udziałów lub wielkość znacznych pakietów akcji, o których mowa w przepisach rozdziału 4 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2019 r. poz. 623);
 - **9)** wskazanie osób uprawnionych do wykonywania lub kierowania koncesjonowaną działalnością gospodarczą.
 
 2. We wniosku o udzielenie albo zmianę koncesji składa się oświadczenie:
 
-- **1)** o braku decyzji o niedopuszczalności wykonywania praw z udziałów lub akcji, na podstawie przepisów ustawy z dnia 24 lipca 2015 r. o kontroli niektórych inwestycji (Dz. U. z 2023 r. poz. 415);
+- **1)** o braku decyzji o niedopuszczalności wykonywania praw z udziałów lub akcji, na podstawie przepisów ustawy z dnia 24 lipca 2015 r. o kontroli niektórych inwestycji (Dz. U. z 2017 r. poz. 1857 oraz z 2019 r. poz. 492);
 - **2)** o spełnianiu przesłanki, o której mowa w art. 10 ust. 2;
 - **3)** przedsiębiorcy, o którym mowa w art. 10 ust. 1 pkt 1, oraz osób uprawnionych do kierowania koncesjonowaną działalnością gospodarczą, o posiadaniu pełnej zdolności do czynności prawnych;
 - **4)** osób i podmiotów wymienionych w art. 10 ust. 1 pkt 1 i 2, że nie są prowadzone przeciwko nim postępowania, o których mowa w art. 10 ust. 1 pkt 1 lit. h;
-- **5)** o braku wpisu przedsiębiorcy w rejestrze dłużników niewypłacalnych w Krajowym Rejestrze Sądowym lub ujawnienia w Krajowym Rejestrze Zadłużonych – w przypadku zmiany koncesji.
+- **5)** o braku wpisu przedsiębiorcy w rejestrze dłużników niewypłacalnych w Krajowym Rejestrze Sądowym lub ujawnienia w Centralnym Rejestrze Restrukturyzacji i Upadłości – w przypadku zmiany koncesji.
 
 3. Do wniosku o udzielenie albo zmianę koncesji dołącza się:
 
-- **1)** zaświadczenie o braku wpisu przedsiębiorcy w rejestrze dłużników niewypłacalnych w Krajowym Rejestrze Sądowym lub ujawnienia w Krajowym Rejestrze Zadłużonych – w przypadku udzielenia, rozszerzenia zakresu lub przedłużenia okresu ważności koncesji;
+- **1)** zaświadczenie o braku wpisu przedsiębiorcy w rejestrze dłużników niewypłacalnych w Krajowym Rejestrze Sądowym lub ujawnienia w Centralnym Rejestrze Restrukturyzacji i Upadłości – w przypadku udzielenia, rozszerzenia zakresu lub przedłużenia okresu ważności koncesji;
 - **2)** opinię, o której mowa w art. 16 ust. 1;
 - **3)** zaświadczenie komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej albo szefa delegatury Wojskowej Ochrony Przeciwpożarowej – w przypadku komórek i jednostek organizacyjnych podległych lub nadzorowanych przez Ministra Obrony Narodowej, państwowego powiatowego inspektora sanitarnego oraz wojewódzkiego inspektora ochrony środowiska, stwierdzające, że obiekty budowlane i urządzenia techniczne przeznaczone do wykonywania koncesjonowanej działalności gospodarczej spełniają wymagania określone odpowiednio w przepisach o ochronie przeciwpożarowej, sanitarnych i ochronie środowiska – w przypadku wykonywania działalności gospodarczej w zakresie wytwarzania lub obrotu z prawem magazynowania, a w przypadku mikroprzedsiębiorców, w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, wykonujących działalność gospodarczą w zakresie wytwarzania i obrotu replikami broni czarnoprochowej – tylko zaświadczenie komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej;
 - **4)** zaświadczenia o niekaralności osób i podmiotów wymienionych w art. 10 ust. 1 pkt 1 i 2 za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
 - **5)** dokumenty potwierdzające posiadane wykształcenie i przygotowanie zawodowe przedsiębiorcy, o którym mowa w art. 10 ust. 1 pkt 1, oraz osób uprawnionych do kierowania koncesjonowaną działalnością gospodarczą;
-- **6)** orzeczenie lekarskie i orzeczenie psychologiczne, o których mowa w art. 12 ust. 2 i 3, dotyczące przedsiębiorcy, o którym mowa w art. 10 ust. 1 pkt 1, oraz osób uprawnionych do kierowania koncesjonowaną działalnością gospodarczą, wydane nie wcześniej niż na 3 miesiące przed dniem złożenia wniosku;
+- **6)** orzeczenie lekarskie i orzeczenie psychologiczne, o których mowa w art. 12 ust. 2 i 3, dla przedsiębiorcy, o którym mowa w art. 10 ust. 1 pkt 1, oraz osób uprawnionych do kierowania koncesjonowaną działalnością gospodarczą;
 - **7)** dowód zapłaty opłaty skarbowej.
 
 4. Dokumenty, o których mowa w ust. 3, przedsiębiorca składa w formie oryginału, uwierzytelnionej kopii lub poświadczonego tłumaczenia.
@@ -307,20 +307,12 @@ Art. 143–153. (pominięte)
 - **2)** wnioskodawca nie spełnił warunków określonych w promesie;
 - **3)** wystąpiły okoliczności, o których mowa w art. 22 ust. 1 pkt 1 i ust. 2.
 
-5. W przypadku śmierci przedsiębiorcy, w okresie ważności promesy nie można odmówić udzielenia koncesji na wykonywanie działalności gospodarczej określonej w promesie właścicielowi przedsiębiorstwa w spadku w rozumieniu art. 3 ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz.
+5. W przypadku śmierci przedsiębiorcy, w okresie ważności promesy nie można odmówić udzielenia koncesji na wykonywanie działalności gospodarczej określonej w promesie właścicielowi przedsiębiorstwa w spadku w rozumieniu art. 3 ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej (Dz. U. poz. 1629) albo, jeżeli przedsiębiorca był wspólnikiem spółki cywilnej, innemu wspólnikowi tej spółki, jeżeli osoba ta przedłoży pisemną zgodę właścicieli przedsiębiorstwa w spadku na udzielenie jej tej koncesji, chyba że:
 
-- **170)** albo, jeżeli przedsiębiorca był wspólnikiem spółki cywilnej, innemu wspólnikowi tej spółki, jeżeli osoba ta przedłoży pisemną zgodę właścicieli przedsiębiorstwa w spadku na udzielenie jej tej koncesji, chyba że:
 - **1)** uległy zmianie dane zawarte we wniosku o udzielenie promesy inne niż dane osoby, która złożyła wniosek o udzielenie promesy;
 - **2)** właściciel przedsiębiorstwa w spadku albo wspólnik spółki cywilnej, który złożył wniosek o udzielenie koncesji, nie spełnił warunków określonych w promesie;
 - **3)** właściciel przedsiębiorstwa w spadku albo wspólnik spółki cywilnej, który złożył wniosek o udzielenie koncesji, nie spełnił określonych w ustawie warunków wykonywania działalności gospodarczej określonej w koncesji;
 - **4)** wystąpiły okoliczności, o których mowa w art. 22 ust. 1 pkt 1.
-
-6. W okresie ważności promesy nie można odmówić udzielenia koncesji na wykonywanie działalności gospodarczej określonej w promesie nabywcy przedsiębiorstwa w rozumieniu art. 45b ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw, jeżeli przedłoży on pisemną zgodę przedsiębiorcy, któremu udzielono promesy oraz pozostałych nabywców przedsiębiorstwa na udzielenie mu tej koncesji, chyba że:
-
-- **1)** uległy zmianie dane zawarte we wniosku o udzielenie promesy inne niż dane osoby, która złożyła wniosek o udzielenie promesy;
-- **2)** nabywcy przedsiębiorstwa, który złożył wniosek o udzielenie koncesji, nie spełnił warunków określonych w promesie;
-- **3)** nabywcy przedsiębiorstwa, który złożył wniosek o udzielenie koncesji, nie spełnił określonych w ustawie warunków wykonywania działalności gospodarczej objętej koncesją;
-- **4)** jest to uzasadnione zagrożeniem obronności lub bezpieczeństwa państwa albo porządku publicznego.
 
 **Art. 20.** Za udzielenie koncesji lub jej zmianę oraz za udzielenie promesy lub jej zmianę pobiera się opłatę skarbową.
 
@@ -365,11 +357,11 @@ Art. 143–153. (pominięte)
 - **1)** wydano prawomocne orzeczenie zakazujące przedsiębiorcy wykonywania koncesjonowanej działalności gospodarczej;
 - **2)** jest to uzasadnione ze względu na zagrożenie obronności lub bezpieczeństwa państwa albo porządku publicznego;
 - **3)** przedsiębiorca nie podjął wykonywania działalności gospodarczej określonej w koncesji w terminie określonym w art. 27 ust. 1 pkt 1 lub zaprzestał wykonywania działalności gospodarczej określonej w koncesji;
-- **4)** przedsiębiorca inny niż osoba fizyczna przestał spełniać warunki określone w art. 10 ust. 1 pkt 2 w zakresie posiadania co najmniej dwóch osób będących członkami organu zarządzającego przedsiębiorstwa albo dwóch osób, z których jedna jest członkiem organu zarządzającego przedsiębiorstwa, a druga uprawnionym do kierowania działalnością określoną w koncesji prokurentem lub pełnomocnikiem, spełniających warunki określone w art. 10 ust. 1 pkt 1 i pomimo wezwania organu koncesyjnego w terminie 3 miesięcy nie spełnił tych warunków;
-- **5)** przedsiębiorca przestał spełniać warunki określone w art. 10 ust. 1:
-    - **a)** pkt 1 lit. g,
-    - **b)** pkt 2 – w zakresie spełniania przez osoby w nim wymienione warunku, o którym mowa w art. 10 ust. 1 pkt 1 lit. g,
-    - **c)** pkt 3 lit. a;
+- **4)** przedsiębiorca inny niż osoba fizyczna przestał spełniać warunki określone w art. 10 ust. 1 pkt 2 w zakresie posiadania co najmniej dwóch osób uprawnionych do kierowania działalnością gospodarczą określoną w koncesji, spełniających warunki z art. 10 ust. 1 pkt 1, z których co najmniej jedna jest członkiem organu zarządzającego, a druga członkiem tego organu, prokurentem lub pełnomocnikiem uprawnionym do kierowania działalnością określoną w koncesji i pomimo wezwania organu koncesyjnego w terminie 6 miesięcy nie spełnił tych warunków;
+- **5)** przedsiębiorca przestał spełniać warunki określone w art. 10 ust. 1: pkt 1 lit. g, pkt 2 – w zakresie spełniania przez osoby w nim wymienione warunku, o którym mowa w art. 10 ust. 1 pkt 1 lit. g, pkt 3 lit. a;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **6)** przedsiębiorca przestał spełniać warunek, o którym mowa w art. 10 ust. 1 pkt 1 lit. f lub pkt 2 w zakresie spełniania przez osoby uprawnione do kierowania działalnością gospodarczą określoną w koncesji warunku, o którym mowa w art. 10 ust. 1 pkt 1 lit. f;
 - **7)** przedsiębiorca uniemożliwia przeprowadzenie kontroli przez uprawnione organy.
@@ -397,7 +389,7 @@ Art. 143–153. (pominięte)
 
 **Art. 26.** Organ wydający decyzję lub postanowienie w postępowaniu toczącym się na podstawie art. 8 ust. 1 może odstąpić od uzasadnienia faktycznego, jeżeli wymagają tego względy obronności lub bezpieczeństwa państwa.
 
-### DZIAŁ III Wykonywanie działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym
+### Dział III Wykonywanie działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -407,19 +399,19 @@ Art. 143–153. (pominięte)
 
 - **1)** podjąć działalność gospodarczą określoną w koncesji w terminie 6 miesięcy od daty rozpoczęcia działalności wpisanej do koncesji;
 - **2)** zawiadomić organ koncesyjny o podjęciu albo o zaprzestaniu wykonywania działalności gospodarczej określonej w koncesji w terminie 14 dni od dnia podjęcia albo zaprzestania wykonywania tej działalności;
-- **3)** zawiadomić organ koncesyjny, w terminie 14 dni, o zmianie:
-    - **a)** firmy, nazwy lub formy prawnej wykonywanej działalności gospodarczej,
-    - **b)** imienia, nazwiska lub obywatelstwa przedsiębiorcy będącego osobą fizyczną oraz osób, o których mowa w lit. d i e,
-    - **c)** siedziby, adresu siedziby lub adresu miejsca wykonywania działalności gospodarczej, a także miejsca stałego pobytu przedsiębiorcy będącego osobą fizyczną,
-    - **d)** składu organu zarządzającego lub prokurentów, a także pełnomocników uprawnionych do kierowania działalnością gospodarczą określoną w koncesji,
-    - **e)** wspólników, a także udziałowców i akcjonariuszy posiadających co najmniej 20% udziałów lub akcji przedsiębiorcy,
-    - **f)** w zakresie wypełniania przez osoby i podmioty, o których mowa w lit. d i e, oraz przez przedsiębiorcę będącego osobą fizyczną, warunków określonych w art. 10 ust. 1 pkt 1 lit. e–h,
-    - **g)** w zakresie wypełniania przez przedsiębiorcę warunku, o którym mowa w art. 10 ust. 1 pkt 3 lit. a,
-    - **h)** firmy lub nazwy niebędącego osobą fizyczną wspólnika, udziałowca lub akcjonariusza przedsiębiorcy,
-    - **i)** stanu faktycznego, na podstawie którego zostały wydane opinie, o których mowa w art. 16 ust. 1, oraz zaświadczenia, o których mowa w art. 17 ust. 3 pkt 3, w szczególności zmianie stosowanej technologii, zmianach konstrukcyjnych obiektu i zmianach lokalizacji części produkcyjnej lub magazynowej,
-    - **j)** skutkującej przejściem koncesji z mocy prawa na inny podmiot, w szczególności w rezultacie łączenia, podziałów i przekształceń spółek prawa handlowego, sprzedaży przedsiębiorstwa lub jego zorganizowanej części wraz z koncesją albo wniesienia koncesji jako niematerialnego składnika przedsiębiorstwa aportem do spółki prawa handlowego na pokrycie udziałów lub akcji tej spółki,
-    - **k)** dotyczącej otwarcia likwidacji, wszczęcia postępowania upadłościowego, likwidacji lub ogłoszenia upadłości przedsiębiorcy,
-    - **l)** dotyczącej zawieszenia lub wznowienia wykonywania działalności gospodarczej.
+- **3)** zawiadomić organ koncesyjny, w terminie 14 dni, o zmianie: firmy, nazwy lub formy prawnej wykonywanej działalności gospodarczej, imienia, nazwiska lub obywatelstwa przedsiębiorcy będącego osobą fizyczną oraz osób, o których mowa w lit. d i e, siedziby, adresu siedziby lub adresu miejsca wykonywania działalności gospodarczej, a także miejsca stałego pobytu przedsiębiorcy będącego osobą fizyczną, składu organu zarządzającego lub prokurentów, a także pełnomocników uprawnionych do kierowania działalnością gospodarczą określoną w koncesji, wspólników, a także udziałowców i akcjonariuszy posiadających co najmniej 20% udziałów lub akcji przedsiębiorcy, w zakresie wypełniania przez osoby i podmioty, o których mowa w lit. d i e, oraz przez przedsiębiorcę będącego osobą fizyczną, warunków określonych w art. 10 ust. 1 pkt 1 lit. e-h, w zakresie wypełniania przez przedsiębiorcę warunku, o którym mowa w art. 10 ust. 1 pkt 3 lit. a, firmy lub nazwy niebędącego osobą fizyczną wspólnika, udziałowca lub akcjonariusza przedsiębiorcy, stanu faktycznego, na podstawie którego zostały wydane opinie, o których mowa w art. 16 ust. 1, oraz zaświadczenia, o których mowa w art. 17 ust. 3 pkt 3, w szczególności zmianie stosowanej technologii, zmianach konstrukcyjnych obiektu i zmianach lokalizacji części produkcyjnej lub magazynowej, skutkującej przejściem koncesji z mocy prawa na inny podmiot, w szczególności w rezultacie łączenia, podziałów i przekształceń spółek prawa handlowego, sprzedaży przedsiębiorstwa lub jego zorganizowanej części wraz z koncesją albo wniesienia koncesji jako niematerialnego składnika przedsiębiorstwa aportem do spółki prawa handlowego na pokrycie udziałów lub akcji tej spółki, dotyczącej otwarcia likwidacji, wszczęcia postępowania upadłościowego, likwidacji lub ogłoszenia upadłości przedsiębiorcy, dotyczącej zawieszenia lub wznowienia wykonywania działalności gospodarczej.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
+    - **k)**
+    - **l)**
 
 2. W przypadku zmiany danych, o których mowa w ust. 1 pkt 3, wpisanych do koncesji, przedsiębiorca jest obowiązany złożyć wniosek o zmianę koncesji.
 
@@ -427,7 +419,7 @@ Art. 143–153. (pominięte)
 
 1. Bezpośrednio do pracy przy wytwarzaniu materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym może być dopuszczona jedynie osoba, która:
 
-- **1)** spełnia wymagania, o których mowa w art. 10 ust. 1 pkt 1 lit. e–g, a w przypadku pracowników młodocianych, w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2022 r. poz. 1510, 1700 i 2140 oraz z 2023 r. poz. 240 i 641), zatrudnionych jako rusznikarze lub przy wytwarzaniu replik broni czarnoprochowej, wymagania, o których mowa w art. 10 ust. 1 pkt 1 lit. f oraz g;
+- **1)** spełnia wymagania, o których mowa w art. 10 ust. 1 pkt 1 lit. e-g, a w przypadku pracowników młodocianych, w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2019 r. poz. 1040 i 1043), zatrudnionych jako rusznikarze lub przy wytwarzaniu replik broni czarnoprochowej, wymagania, o których mowa w art. 10 ust. 1 pkt 1 lit. f oraz g;
 - **2)** ma ukończone 18 lat, a w przypadku rusznikarzy oraz pracy przy wytwarzaniu replik broni czarnoprochowej – również osoba będąca pracownikiem młodocianym w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
 - **3)** posiada pozytywną opinię Policji, a w przypadku obywatela innego państwa – organu odpowiedniego szczebla i kompetencji w tym państwie właściwego ze względu na miejsce stałego pobytu.
 
@@ -437,7 +429,7 @@ Art. 143–153. (pominięte)
 
 1. Bezpośrednio do pracy przy obrocie materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym może być dopuszczona jedynie osoba, która:
 
-- **1)** spełnia wymagania, o których mowa w art. 10 ust. 1 pkt 1 lit. e–g;
+- **1)** spełnia wymagania, o których mowa w art. 10 ust. 1 pkt 1 lit. e-g;
 - **2)** ma ukończone 18 lat;
 - **3)** posiada pozytywną opinię Policji, a w przypadku obywatela innego państwa – organu odpowiedniego szczebla i kompetencji w tym państwie właściwego ze względu na miejsce stałego pobytu.
 
@@ -447,13 +439,13 @@ Art. 143–153. (pominięte)
 
 1. Przy zatrudnieniu oraz w trakcie trwania zatrudnienia przedsiębiorca jest obowiązany weryfikować spełnianie przez pracownika wymagań, o których mowa w art. 28 ust. 1 i art. 29 ust. 1.
 
-2. W celu weryfikacji, przed dopuszczeniem pracownika do pracy, o której mowa w art. 28 ust. 1 i art. 29 ust. 1, przedsiębiorca odbiera od pracownika dokumenty potwierdzające spełnianie wymagań określonych w art. 10 ust. 1 pkt 1 lit. e–g, art. 28 ust. 1 pkt 2 i art. 29 ust. 1 pkt 2 oraz występuje o wydanie opinii, o której mowa w art. 28 ust. 1 pkt 3 i art. 29 ust. 1 pkt 3. Spełnienie wymagań określonych w art. 10 ust. 1 pkt 1 lit. g potwierdza się zaświadczeniem z Krajowego Rejestru Karnego.
+2. W celu weryfikacji, przed dopuszczeniem pracownika do pracy, o której mowa w art. 28 ust. 1 i art. 29 ust. 1, przedsiębiorca odbiera od pracownika dokumenty potwierdzające spełnianie wymagań określonych w art. 10 ust. 1 pkt 1 lit. e-g, art. 28 ust. 1 pkt 2 i art. 29 ust. 1 pkt 2 oraz występuje o wydanie opinii, o której mowa w art. 28 ust. 1 pkt 3 i art. 29 ust. 1 pkt 3. Spełnienie wymagań określonych w art. 10 ust. 1 pkt 1 lit. g potwierdza się zaświadczeniem z Krajowego Rejestru Karnego.
 
 3. Pracownik jest obowiązany niezwłocznie poinformować przedsiębiorcę o braku spełnienia wymagań, o których mowa w art. 10 ust. 1 pkt 1 lit. e i g.
 
 4. Przedsiębiorca, raz na 5 lat, występuje o aktualną opinię, o której mowa w art. 28 ust. 1 pkt 3 i art. 29 ust. 1 pkt 3, dotyczącą pracownika.
 
-5. W przypadku powzięcia wątpliwości co do spełniania przez pracownika wymagań, o których mowa w art. 10 ust. 1 pkt 1 lit. e–g, w trakcie trwania zatrudnienia pracownika, przedsiębiorca może ponownie zażądać od pracownika aktualnych dokumentów potwierdzających spełnianie wymagań.
+5. W przypadku powzięcia wątpliwości co do spełniania przez pracownika wymagań, o których mowa w art. 10 ust. 1 pkt 1 lit. e-g, w trakcie trwania zatrudnienia pracownika, przedsiębiorca może ponownie zażądać od pracownika aktualnych dokumentów potwierdzających spełnianie wymagań.
 
 **Art. 31.**
 
@@ -478,13 +470,11 @@ Art. 143–153. (pominięte)
 
 3. Rodzaje obiektów magazynowych klasyfikuje się w zależności od rodzaju i ilości przechowywanych w nich materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym, a także celu i miejsca ich przechowywania.
 
-3a. W obiekcie magazynowym, w którym przechowuje się materiały wybuchowe, broń, amunicję oraz wyroby i technologie o przeznaczeniu wojskowym lub policyjnym, nie prowadzi się innej działalności gospodarczej.
-
 4. Minister właściwy do spraw gospodarki, w porozumieniu z ministrem właściwym do spraw wewnętrznych oraz Ministrem Obrony Narodowej, po zasięgnięciu opinii Szefa Agencji Bezpieczeństwa Wewnętrznego, określi, w drodze rozporządzenia:
 
 - **1)** klasyfikację rodzajów obiektów magazynowych,
 - **2)** wymagania organizacyjne i techniczne obiektów magazynowych, w których są przechowywane materiały wybuchowe, broń, amunicja oraz wyroby i technologia o przeznaczeniu wojskowym lub policyjnym, w tym szczegółowe wymogi prowadzenia kart kwalifikacyjnych obiektu magazynowego,
-- **3)** szczegółowe wymagania dla pomieszczeń, w których są przechowywane materiały wybuchowe, broń, amunicja oraz wyroby i technologia o przeznaczeniu wojskowym lub policyjnym, w tym warunki lokalizacyjne i niezbędne zabezpieczenie techniczne tych pomieszczeń oraz ich zabezpieczenie przed dostępem osób nieuprawnionych, wraz z zapewnieniem kontroli i ewidencjonowania dostępu do tych pomieszczeń – uwzględniając potrzebę zapewnienia bezpieczeństwa przechowywanych towarów oraz ochrony życia i zdrowia ludzi, mienia oraz środowiska, zróżnicowanie rodzajów pomieszczeń, w których mogą być przechowywane te towary, oraz zróżnicowania zagrożeń dla życia i zdrowia ludzi, mienia oraz środowiska ze względu na właściwości przechowywanych towarów.
+- **3)** szczegółowe wymagania dla pomieszczeń, w których są przechowywane materiały wybuchowe, broń, amunicja oraz wyroby i technologia o przeznaczeniu wojskowym lub policyjnym, w tym warunki lokalizacyjne i niezbędne zabezpieczenie techniczne tych pomieszczeń oraz ich zabezpieczenie przed dostępem osób nieuprawnionych, wraz z zapewnieniem kontroli i ewidencjonowania dostępu do tych pomieszczeń uwzględniając potrzebę zapewnienia bezpieczeństwa przechowywanych towarów oraz ochrony życia i zdrowia ludzi, mienia oraz środowiska, zróżnicowanie rodzajów pomieszczeń, w których mogą być przechowywane te towary, oraz zróżnicowania zagrożeń dla życia i zdrowia ludzi, mienia oraz środowiska ze względu na właściwości przechowywanych towarów.
 
 **Art. 34.** Umowa cywilnoprawna, której przedmiotem są materiały wybuchowe, broń, amunicja oraz wyroby i technologia o przeznaczeniu wojskowym lub policyjnym, wymaga potwierdzenia na piśmie albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, w którym należy wskazać wszystkie istotne postanowienia umowy.
 
@@ -494,7 +484,7 @@ Art. 143–153. (pominięte)
 
 2. W przypadku odmowy zawarcia transakcji, o której mowa w ust. 1, przedsiębiorca dokonuje zgłoszenia nie później niż następnego dnia po odmowie zawarcia transakcji.
 
-3. Informacje dotyczące transakcji, o których mowa w ust. 1, przetwarza się na zasadach określonych w art. 14 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z późn. zm. ). W razie potrzeby Komendant Główny Policji bezzwłocznie przekazuje informacje o takich transakcjach Szefowi Agencji Bezpieczeństwa Wewnętrznego.
+3. Informacje dotyczące transakcji, o których mowa w ust. 1, przetwarza się na zasadach określonych w art. 14 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2019 r. poz. 161, 125 i 1091). W razie potrzeby Komendant Główny Policji bezzwłocznie przekazuje informacje o takich transakcjach Szefowi Agencji Bezpieczeństwa Wewnętrznego.
 
 4. Komendant Główny Policji podaje do publicznej wiadomości, w tym udostępnia w Biuletynie Informacji Publicznej, numer telefonu oraz adres poczty elektronicznej, na które zgłasza się transakcje oraz odmowy zawarcia transakcji, o których mowa w ust. 1.
 
@@ -512,7 +502,7 @@ Art. 143–153. (pominięte)
 
 - **1)** zabezpieczyć wytworzone i zgromadzone materiały wybuchowe, broń, amunicję, wyroby oraz technologię o przeznaczeniu wojskowym lub policyjnym, na zasadach określonych w art. 33 ust. 1 oraz w przepisach wydanych na podstawie art. 33 ust. 4;
 - **2)** zbyć materiały wybuchowe, broń, amunicję, wyroby oraz technologię o przeznaczeniu wojskowym lub policyjnym;
-- **3)** przekazać ewidencje, o których mowa w art. 47 ust. 1 i art. 59 ust. 1, organowi koncesyjnemu w terminie 3 miesięcy od dnia uprawomocnienia się tej decyzji.
+- **3)** przekazać ewidencje, o których mowa w art. 47 ust. 1 i art. 59 ust. 1, organowi koncesyjnemu w terminie 30 dni od dnia zakończenia działalności.
 
 2. Ewidencje przekazywane organowi koncesyjnemu porządkuje się chronologicznie i przekazuje się wraz ze spisem zawartości. W przypadku stwierdzenia braków w ewidencji albo niezgodności ze spisem zawartości, organ koncesyjny wzywa przedsiębiorcę do uzupełnienia braków w terminie 14 dni.
 
@@ -536,7 +526,7 @@ Art. 143–153. (pominięte)
 
 1. Materiały wybuchowe, broń, amunicja oraz wyroby o przeznaczeniu wojskowym lub policyjnym, przed uruchomieniem ich produkcji, podlegają ocenie pod względem spełnienia wymogów, o których mowa w art. 38.
 
-2. Potwierdzenie pozytywnej oceny następuje na zasadach określonych w ustawie z dnia 17 listopada 2006 r. o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa (Dz. U. z 2022 r. poz. 747).
+2. Potwierdzenie pozytywnej oceny następuje na zasadach określonych w ustawie z dnia 17 listopada 2006 r. o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa (Dz. U. z 2018 r. poz. 114).
 
 3. Przepisów ust. 1 i 2 nie stosuje się do działalności gospodarczej wykonywanej przez rusznikarzy w zakresie wytwarzania istotnych części niezbędnych do przerobienia, naprawy i remontu strzeleckiej broni palnej oraz działalności w zakresie wytwarzania replik broni czarnoprochowej.
 
@@ -574,11 +564,11 @@ Art. 143–153. (pominięte)
 - **4)** sposoby prowadzenia działań ratowniczych, powiadamiania i współdziałania z zewnętrznymi służbami ratowniczymi i innymi podmiotami oraz zasady postępowania po zakończeniu tych działań;
 - **5)** zasady ewakuacji ludzi i mienia z miejsc wystąpienia zdarzeń stwarzających zagrożenie dla życia lub zdrowia ludzi, mienia i środowiska.
 
-3. Plan, o którym mowa w ust. 1, uzgadnia się z właściwymi ze względu na miejsce wykonywania działalności gospodarczej komendantami powiatowymi (miejskimi) Państwowej Straży Pożarnej, a w przypadku jednostki organizacyjnej podległej Ministrowi Obrony Narodowej lub przez niego nadzorowanej, wykonującej działalność gospodarczą – również z właściwym terytorialnie szefem delegatury Wojskowej Ochrony Przeciwpożarowej.
+3. Plan, o którym mowa w ust. 1, uzgadnia się z właściwymi ze względu na miejsce wykonywania działalności gospodarczej komendantami powiatowymi (miejskimi) Państwowej Straży Pożarnej, a w przypadku gdy organem założycielskim przedsiębiorcy jest Minister Obrony Narodowej – również z właściwym terytorialnie szefem delegatury Wojskowej Ochrony Przeciwpożarowej.
 
 4. Plan, o którym mowa w ust. 1, uzgadnia się z właściwym ze względu na miejsce wykonywania działalności gospodarczej komendantem wojewódzkim (Stołecznym) Policji, a w zakresie zagrożeń o charakterze terrorystycznym z właściwym terytorialnie dyrektorem delegatury Agencji Bezpieczeństwa Wewnętrznego albo z Szefem Agencji Bezpieczeństwa Wewnętrznego w przypadku, gdy nie występuje dla danego terytorium właściwy dyrektor delegatury Agencji Bezpieczeństwa Wewnętrznego.
 
-5. W przypadku jednostki organizacyjnej podległej Ministrowi Obrony Narodowej lub przez niego nadzorowanej wykonującej działalność gospodarczą, plan, o którym mowa w ust. 1, uzgadnia się z właściwym ze względu na miejsce wykonywania działalności gospodarczej komendantem oddziału Żandarmerii Wojskowej, a w zakresie zagrożeń o charakterze terrorystycznym z Szefem Służby Kontrwywiadu Wojskowego.
+5. W przypadku gdy organem założycielskim przedsiębiorcy jest Minister Obrony Narodowej, plan, o którym mowa w ust. 1, uzgadnia się z właściwym ze względu na miejsce wykonywania działalności gospodarczej komendantem oddziału Żandarmerii Wojskowej, a w zakresie zagrożeń o charakterze terrorystycznym z Szefem Służby Kontrwywiadu Wojskowego.
 
 6. Przedsiębiorca przesyła uzgodniony plan, o którym mowa w ust. 1, organom, o których mowa odpowiednio w ust. 3–5.
 
@@ -594,7 +584,7 @@ Art. 143–153. (pominięte)
 
 **Art. 44.**
 
-1. Każdy egzemplarz broni palnej, w tym strzeleckiej broni palnej, i każda istotna część podlegają oznakowaniu przez wytwórcę niezwłocznie po wytworzeniu.
+1. Każdy egzemplarz broni palnej, w tym strzeleckiej broni palnej, lub każda istotna część podlegają oznakowaniu przez wytwórcę niezwłocznie po wytworzeniu.
 
 2. Strzelecką broń palną oznakowuje się niepowtarzalnym, czytelnym i trwałym oznakowaniem, które obejmuje:
 
@@ -603,25 +593,9 @@ Art. 143–153. (pominięte)
 - **3)** numer seryjny i rok wytworzenia, jeśli nie został zawarty w numerze seryjnym;
 - **4)** model – w miarę możliwości.
 
-2a. Minimalna wielkość czcionki użytej do oznakowania wynosi 1,6 mm. W przypadku gdy rozmiar istotnej części nie pozwala na użycie czcionki tej wielkości, dopuszczalne jest użycie mniejszej czcionki. 2aa. Minimalna głębokość oznakowania wynosi 0,0762 mm.
-
-2b. Do oznakowywania stosuje się alfabet łaciński i cyfry arabskie.
-
-2c. Oznakowanie nanosi się, wykorzystując techniki:
-
-- **1)** głębokiego grawerowania laserowego;
-- **2)** grawerowania klasycznego;
-- **3)** cechowania ręcznego z użyciem stempli lub numeratorów;
-- **4)** znakowania mikropunktowego.
-
-2d. W przypadku szkieletów i komór zamkowych strzeleckiej broni palnej wykonanych z materiałów niemetalowych, w szczególności z polimerów syntetycznych lub żywic syntetycznych oraz ich kompozytów wzmocnionych włóknami, w szczególności włóknami węglowymi lub szklanymi, oznakowania dokonuje się przez:
-
-- **1)** umieszczenie oznakowania na metalowej płytce osadzanej na stałe w materiale szkieletu lub komory zamkowej w taki sposób, że płytki nie można łatwo usunąć, a jej usunięcie powoduje zniszczenie części szkieletu lub komory zamkowej;
-- **2)** zastosowanie techniki ubytkowej, z zachowaniem wymogów wielkości oznakowania określonych w ust. 2a.
-
 3. Oznakowanie, o którym mowa w ust. 2, umieszcza się na szkielecie, komorze zamkowej lub zamku strzeleckiej broni palnej.
 
-4. Istotne części oznakowuje się w sposób wskazany w ust. 2–2d, a w przypadku gdy rozmiar istotnej części nie pozwala na umieszczenie na niej pełnego oznakowania, oznakowuje się ją co najmniej numerem seryjnym lub kodem alfanumerycznym albo cyfrowym.
+4. Istotne części oznakowuje się w sposób wskazany w ust. 2, a w przypadku gdy rozmiar istotnej części nie pozwala na umieszczenie na niej pełnego oznakowania, oznakowuje się ją co najmniej numerem seryjnym lub kodem alfanumerycznym albo cyfrowym.
 
 5. Broń palną inną niż strzelecka broń palna oznakowuje się niepowtarzalnym, czytelnym i trwałym oznakowaniem, które obejmuje co najmniej:
 
@@ -634,11 +608,15 @@ Art. 143–153. (pominięte)
 
 1. Plastyczne materiały wybuchowe podlegają znakowaniu niezwłocznie po ich wytworzeniu.
 
-2. Znakowanie plastycznego materiału wybuchowego następuje przez równomierne rozmieszczenie w nim materiału znakującego, rozumianego jako jedna z substancji wymienionych w części 2. „Materiały znakujące” załącznika technicznego do Konwencji, o której mowa w art. 3 ust. 1 pkt 9 lit. c, dodanego w ilości wskazanej w tej części załącznika technicznego.
+2. Znakowanie plastycznego materiału wybuchowego następuje przez równomierne rozmieszczenie w nim materiału znakującego, rozumianego jako jedna z substancji wymienionych w części 2. „Materiały znakujące” załącznika technicznego do Konwencji, o której mowa w art. 3 ust. 1 pkt 8 lit. c, dodanego w ilości wskazanej w tej części załącznika technicznego.
 
-3. Znakowaniu nie podlegają plastyczne materiały wybuchowe przechowywane lub stosowane w sposób określony w części 1 ust. II załącznika technicznego do Konwencji, o której mowa w art. 3 ust. 1 pkt 9 lit. c.
+3. Znakowaniu nie podlegają plastyczne materiały wybuchowe przechowywane lub stosowane w sposób określony w części 1 ust. II załącznika technicznego do Konwencji, o której mowa w art. 3 ust. 1 pkt 8 lit. c.
 
 **Art. 46.** Podstawowe opakowanie jednostkowe amunicji do strzeleckiej broni palnej podlega oznakowaniu przez wytwórcę niezwłocznie po wytworzeniu. Oznakowanie obejmuje:
+
+- **1)** nazwę wytwórcy;
+- **2)** numer identyfikacyjny partii;
+- **3)** kaliber i typ amunicji.
 
 **Art. 47.**
 
@@ -663,160 +641,6 @@ Art. 143–153. (pominięte)
 
 7. Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw gospodarki oraz Ministrem Obrony Narodowej, po zasięgnięciu opinii Szefa Agencji Bezpieczeństwa Wewnętrznego, określi, w drodze rozporządzenia, szczegółowy sposób ewidencjonowania materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym, wytworzonych oraz przyjętych do remontu, naprawy, przerobienia, oznakowania, pozbawienia cech użytkowych lub zniszczenia, w tym dokumenty stanowiące podstawę wpisu do ewidencji, sposób prowadzenia i szczegółowy zakres danych zawartych w ewidencji i tych dokumentach, mając na względzie potrzebę zapewnienia pełnej rejestracji i jednoznacznej identyfikacji materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym, wytworzonych oraz przyjętych do remontu, naprawy, przerobienia, oznakowania, pozbawienia cech użytkowych oraz zniszczenia.
 
-##### Oddział 1a Broń alarmowa i sygnałowa
-
-**Art. 47a.**
-
-1. Broni alarmowej i sygnałowej nie uznaje się za strzelecką broń palną, jeżeli została wytworzona zgodnie ze specyfikacjami technicznymi mającymi na celu zapewnienie, aby nie można było jej przerobić tak, aby miotała pocisk w wyniku działania ładunku miotającego, a w szczególności gdy:
-
-- **1)** lufa jest skonstruowana w taki sposób, aby nie mogła zostać usunięta lub zmieniona bez znacznego uszkodzenia lub zniszczenia urządzenia;
-- **2)** w lufie umieszczono niemożliwe do usunięcia przegrody;
-- **3)** komora nabojowa jest przesunięta, przechylona lub rozłożona w taki sposób, aby uniemożliwić miotanie z urządzenia pocisku z załadowanej w nim amunicji.
-
-2. Minister właściwy do spraw wewnętrznych, po zasięgnięciu opinii Szefa Agencji Bezpieczeństwa Wewnętrznego, określi, w drodze rozporządzenia, specyfikacje techniczne, jakie powinno spełniać urządzenie, aby zostało uznane za broń alarmową i sygnałową, mające na celu zapewnienie, aby urządzenia takiego nie można było przerobić tak, aby miotało pocisk w wyniku działania ładunku miotającego, uwzględniając aktualną wiedzę techniczną i normy dotyczące wytwarzania broni i amunicji.
-
-**Art. 47b.**
-
-1. Broń alarmową i sygnałową uznaje się za niezdolną do przerobienia tak, aby miotała pocisk w wyniku działania ładunku miotającego, jeżeli podmiot uprawniony zweryfikował zgodność wytworzenia danego typu lub modelu broni ze specyfikacjami technicznymi i wydał dla danego typu lub modelu broni świadectwo broni alarmowej i sygnałowej.
-
-2. Podmiotem uprawnionym do weryfikacji i wydania świadectwa broni alarmowej i sygnałowej może być podmiot posiadający potencjał naukowy i techniczny, specjalistyczną wiedzę i doświadczenie w zakresie zasad budowy i eksploatacji broni palnej, ustalania rodzajów, typów, modeli broni palnej oraz ustalania ich zdatności do oddania strzału, prowadzący badania urządzeń miotających produkcji przemysłowej i samodziałowej.
-
-**Art. 47c.**
-
-1. Świadectwo broni alarmowej i sygnałowej uprawnia przedsiębiorcę do wprowadzania do obrotu broni alarmowej i sygnałowej określonego typu lub modelu.
-
-2. Do urządzeń, które nie spełniają wymogów, o których mowa w art. 47a, i dla których nie wydano świadectwa broni alarmowej i sygnałowej, stosuje się przepisy dotyczące strzeleckiej broni palnej.
-
-3. Każda zmiana w dokumentacji technicznej lub technologii wykonania broni alarmowej i sygnałowej podlega ponownemu opiniowaniu przez podmiot uprawniony do weryfikacji oraz wydania świadectwa broni alarmowej i sygnałowej.
-
-4. Weryfikacja i wydanie świadectwa broni alarmowej i sygnałowej jest odpłatne. Opłata wynosi nie więcej niż wysokość przeciętnego wynagrodzenia.
-
-5. Podmiot uprawniony przekazuje do rejestru broni alarmowej i sygnałowej, o którym mowa w art. 47l, poświadczoną kopię świadectwa broni alarmowej i sygnałowej.
-
-6. Świadectwa broni alarmowej i sygnałowej wydawane przez podmiot uprawniony są przez niego przechowywane przez okres 20 lat od dnia wydania opinii.
-
-**Art. 47d.** Urządzenie wytworzone w państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub w państwie trzecim uznaje się za broń alarmową i sygnałową jeżeli zostało wydane dla tego urządzenia świadectwo broni alarmowej i sygnałowej lub równorzędny dokument o nieuznaniu go za strzelecką broń palną przez podmiot uprawniony przez państwo członkowskie Unii Europejskiej, państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym lub Konfederację Szwajcarską do wydania takiej opinii.
-
-**Art. 47e.**
-
-1. Broń alarmową i sygnałową oznakowuje się, umieszczając na jej szkielecie niepowtarzalne, czytelne i trwałe oznakowanie, które obejmuje:
-
-- **1)** symbol literowy „BAS”, który umieszcza się w bezpośredniej bliskości nazwy wytwórcy lub oznaczenia handlowego, przy użyciu tej samej techniki;
-- **2)** imię i nazwisko lub nazwę wytwórcy lub oznaczenie handlowe;
-- **3)** państwo lub miejsce wytworzenia, zgodnie z rozporządzeniem 1106/2012;
-- **4)** typ lub model;
-- **5)** kaliber;
-- **6)** numer seryjny i rok wytworzenia.
-
-2. Na komorze nabojowej, zamku pistoletu, bębnie nabojowym lub zamku, odpowiednio do przyjętych rozwiązań technicznych dla danego typu lub modelu broni alarmowej i sygnałowej, umieszcza się numer seryjny.
-
-3. Do oznakowania broni alarmowej i sygnałowej stosuje się odpowiednio przepisy art. 44 ust. 2a–2d dotyczące oznakowania strzeleckiej broni palnej oraz art. 57 ust. 1.
-
-**Art. 47f.**
-
-1. Przedsiębiorca wykonujący działalność gospodarczą w zakresie wytwarzania broni alarmowej i sygnałowej ewidencjonuje wytworzoną i przeznaczoną do obrotu broń alarmową i sygnałową oddzielnie dla każdego typu lub modelu określonego w wydanym dla tej broni świadectwie broni alarmowej i sygnałowej, zgodnie z numerem seryjnym naniesionym na tej broni oraz numerem świadectwa broni alarmowej i sygnałowej dla tej broni.
-
-2. W ewidencji broni alarmowej i sygnałowej, o której mowa w ust. 1, gromadzi się następujące dane:
-
-- **1)** numer seryjny urządzenia;
-- **2)** datę jego wytworzenia lub przekazania do obrotu;
-- **3)** numer świadectwa broni alarmowej i sygnałowej oraz datę sprzedaży;
-- **4)** imię i nazwisko wprowadzającego dane urządzenie do ewidencji.
-
-3. Ewidencję, o której mowa w ust. 1, prowadzi się w formie księgi ewidencyjnej.
-
-4. Przedsiębiorca wykonujący działalność gospodarczą w zakresie wytwarzania broni alarmowej i sygnałowej przechowuje dokumentację techniczną, na podstawie której wytworzył dany typ lub model broni.
-
-5. Przedsiębiorca przechowuje świadectwa broni alarmowej i sygnałowej wydane dla wytwarzanej przez niego broni.
-
-6. Ewidencje, o których mowa w ust. 1, świadectwa broni alarmowej i sygnałowej łącznie z dokumentacją techniczną przechowywane są przez okres 20 lat od dnia wydania tego świadectwa.
-
-7. W przypadku wydania ostatecznej decyzji cofającej koncesję przedsiębiorca jest obowiązany przekazać organowi koncesyjnemu ewidencje, o których mowa w ust. 1, uporządkowane chronologicznie ze spisem zawartości, w terminie 30 dni od dnia otrzymania tej decyzji.
-
-**Art. 47g.**
-
-1. Przedsiębiorca dokonujący sprzedaży broni alarmowej i sygnałowej jest obowiązany wydać nabywcy kopię świadectwa broni alarmowej i sygnałowej.
-
-2. Na wydawanej kopii świadectwa broni alarmowej i sygnałowej przedsiębiorca umieszcza oznaczenie przedsiębiorcy dokonującego sprzedaży oraz numer seryjny broni alarmowej i sygnałowej.
-
-**Art. 47h.** Minister właściwy do spraw wewnętrznych, po zasięgnięciu opinii Szefa Agencji Bezpieczeństwa Wewnętrznego, określi, w drodze rozporządzenia:
-
-**Art. 47i.**
-
-1. Podmiot uprawniony, o którym mowa w art. 47b ust. 1, przeprowadza kontrolę wytworzonych na terytorium Rzeczypospolitej Polskiej lub sprowadzonych na terytorium Rzeczypospolitej Polskiej spoza terytorium Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub państwa trzeciego modeli, typów lub egzemplarzy urządzeń, o których mowa w art. 47a ust. 1, w zakresie spełniania przez nie wymogów, o których mowa w art. 47a.
-
-2. Podmiot uprawniony przeprowadza kontrolę:
-
-- **1)** z własnej inicjatywy – w odniesieniu do urządzeń będących w posiadaniu przedsiębiorcy wykonującego działalność gospodarczą w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym;
-- **2)** na wniosek służb bezpieczeństwa i porządku publicznego, których zadania obejmują zwalczanie przestępstw związanych z nielegalnym wytwarzaniem i posiadaniem broni – w odniesieniu do urządzeń będących w posiadaniu tych służb.
-
-3. Kontrola może być prowadzona wspólnie z organami innych państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej wykonującymi w nich zadania określone w art. 47b ust. 1.
-
-4. Do przeprowadzenia kontroli wspólnie z organami innych państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej podmiot uprawniony powołuje zespół kontrolny. Powołując zespół kontrolny, podmiot uprawniony wyznacza jego kierownika, który koordynuje przebieg czynności kontrolnych oraz sporządza protokół kontroli.
-
-**Art. 47j.**
-
-1. Kontrola jest wykonywana na podstawie upoważnienia do przeprowadzenia kontroli wydanego przez podmiot uprawniony.
-
-2. Kontrolę przeprowadza się w siedzibie podmiotu uprawnionego.
-
-3. Z przeprowadzonej kontroli sporządza się protokół kontroli, który zawiera:
-
-- **1)** imię i nazwisko kontrolującego albo kontrolujących;
-- **2)** datę rozpoczęcia i zakończenia czynności kontrolnych;
-- **3)** wskazanie zakresu kontroli;
-- **4)** opis stwierdzonego w toku kontroli stanu faktycznego, w tym stwierdzonych nieprawidłowości;
-- **5)** jeżeli przedmiotem kontroli jest urządzenie, o którym mowa w art. 47a ust. 1, będące w posiadaniu przedsiębiorcy wykonującego działalność gospodarczą w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym – także:
-    - **a)** oznaczenie przedsiębiorcy dokonującego sprzedaży,
-    - **b)** typ, model oraz numer seryjny urządzenia,
-    - **c)** datę wytworzenia urządzenia lub przekazania go do obrotu,
-    - **d)** numer świadectwa broni alarmowej i sygnałowej oraz datę jej sprzedaży.
-
-4. Kontrolujący może utrwalić przebieg kontroli za pomocą technik fotograficznych i audiowizualnych. Nośniki obrazu i dźwięku, na których utrwalono przebieg kontroli, załącza się do protokołu kontroli. Niezależnie od sporządzenia protokołu, ustalenia dotyczące urządzenia będącego przedmiotem kontroli dokonane w toku kontroli utrwala się w wynikach kontroli w formie pisemnej.
-
-5. Wyniki kontroli przekazuje się Komendantowi Głównemu Policji, a wyniki kontroli stwierdzające niespełnienie przez urządzenie wymogów, o których mowa w art. 47a, również organowi koncesyjnemu.
-
-**Art. 47k.**
-
-1. Jeżeli przedmiotem kontroli jest urządzenie, o którym mowa w art. 47a ust. 1, będące w posiadaniu przedsiębiorcy wykonującego działalność gospodarczą w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym:
-
-- **1)** podmiot uprawniony zawiadamia przedsiębiorcę o planowanej kontroli na 7 dni przed planowanym terminem jej przeprowadzenia;
-- **2)** przedsiębiorca przekazuje w sposób uzgodniony z podmiotem uprawnionym urządzenie, o którym mowa w art. 47a ust. 1, wraz z dokumentacją techniczną podmiotowi uprawnionemu;
-- **3)** przedsiębiorca udziela na żądanie podmiotu uprawnionego ustnych i pisemnych wyjaśnień mających związek z zakresem kontroli.
-
-2. Koszty przekazania urządzenia do kontroli ponosi przedsiębiorca, o którym mowa w ust. 1.
-
-3. Kontrolę wykonuje się w sposób sprawny i możliwie niezakłócający funkcjonowania przedsiębiorcy. Urządzenie, o którym mowa w art. 47a ust. 1, oraz dokumentację techniczną zwraca się przedsiębiorcy bezzwłocznie po zakończeniu kontroli.
-
-4. Podmiot uprawniony może wezwać przedsiębiorcę, o którym mowa w ust. 1, do usunięcia nieprawidłowości w zakresie niespełniania przez urządzenie wymogów, o których mowa w art. 47a, stwierdzonych w toku kontroli.
-
-5. Jeżeli przedmiotem kontroli jest urządzenie, o którym mowa w art. 47a ust. 1, przekazane przez służby bezpieczeństwa i porządku publicznego, o których mowa w art. 47i ust. 2 pkt 2, przepisy ust. 1 pkt 2 i 3 oraz ust. 2 i 3 stosuje się odpowiednio.
-
-**Art. 47l.**
-
-1. Komendant Główny Policji prowadzi rejestr broni alarmowej i sygnałowej.
-
-2. W rejestrze broni alarmowej i sygnałowej gromadzi się:
-
-- **1)** wydane, ważne oraz wycofane świadectwa broni alarmowej i sygnałowej dla danych typów lub modeli broni, otrzymane od podmiotów uprawnionych do weryfikacji i wydawania świadectw broni alarmowej i sygnałowej;
-- **2)** świadectwa broni alarmowej i sygnałowej, która może być wprowadzona do obrotu na terytorium Rzeczypospolitej Polskiej, wydane przez podmioty uprawnione innych państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej.
-
-**Art. 47m.**
-
-1. Komendant Główny Policji prowadzi Krajowy Punkt Kontaktowy do Spraw Broni Alarmowej i Sygnałowej, zwany dalej „Punktem Kontaktowym”.
-
-2. Do zadań Punktu Kontaktowego należy:
-
-- **1)** wykonywanie zadań Komendanta Głównego Policji w zakresie prowadzenia rejestru broni alarmowej i sygnałowej;
-- **2)** ewidencjonowanie wyników kontroli, o których mowa w art. 47j ust. 4;
-- **3)** przekazywanie punktom kontaktowym utworzonym w innych państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, na ich wniosek, informacji z rejestru broni alarmowej i sygnałowej, informacji o wynikach kontroli, o której mowa w art. 47j ust. 4, oraz występowanie z wnioskami o udzielenie takich informacji;
-- **4)** ewidencjonowanie oświadczeń przedsiębiorców, o których mowa w art. 47n;
-- **5)** prowadzenie elektronicznej skrzynki pocztowej oraz publikowanie na stronie internetowej Punktu Kontaktowego informacji w zakresie swojego działania, w języku polskim oraz w jednym, innym niż język polski, języku oficjalnym Unii Europejskiej.
-
-3. Komendant Główny Policji może powierzyć wykonywanie zadań Punktu Kontaktowego podległej sobie jednostce organizacyjnej.
-
-**Art. 47n.** Przedsiębiorcy wytwarzający broń alarmową i sygnałową przekazują do Punktu Kontaktowego oświadczenia o:
-
 ##### Oddział 2 Pozbawianie cech użytkowych broni palnej i wyrobów o przeznaczeniu wojskowym lub policyjnym
 
 **Art. 48.**
@@ -827,7 +651,7 @@ Art. 143–153. (pominięte)
 
 3. Pozbawienie cech użytkowych wymaga poświadczenia przez podmiot, o którym mowa w art. 50 ust. 1.
 
-**Art. 49.** Strzelecką broń palną pozbawia się cech użytkowych zgodnie z przepisami rozporządzenia wykonawczego Komisji (UE) 2015/2403 z dnia 15 grudnia 2015 r. ustanawiającego wspólne wytyczne dotyczące norm i technik pozbawiania broni cech użytkowych w celu zagwarantowania, że broń pozbawiona cech użytkowych trwale nie nadaje się do użytku (Dz. Urz. UE L 333 z 19.12.2015, str. 62, z późn. zm. ), zwanego dalej „rozporządzeniem 2015/2403”.
+**Art. 49.** Strzelecką broń palną pozbawia się cech użytkowych zgodnie z przepisami rozporządzenia wykonawczego Komisji (UE) 2015/2403 z dnia 15 grudnia 2015 r. ustanawiającego wspólne wytyczne dotyczące norm i technik pozbawiania broni cech użytkowych w celu zagwarantowania, że broń pozbawiona cech użytkowych trwale nie nadaje się do użytku (Dz. Urz. UE L 333 z 19.12.2015, str. 62, z późn. zm.), zwanego dalej „rozporządzeniem 2015/2403”.
 
 **Art. 50.**
 
@@ -838,6 +662,12 @@ Art. 143–153. (pominięte)
 3. Weryfikacja zgodności pozbawienia strzeleckiej broni palnej cech użytkowych jest odpłatna. Opłata za dokonanie weryfikacji wynosi nie więcej niż 1/10 przeciętnego wynagrodzenia.
 
 **Art. 51.** Minister właściwy do spraw wewnętrznych, w porozumieniu z Ministrem Obrony Narodowej, po zasięgnięciu opinii Szefa Agencji Bezpieczeństwa Wewnętrznego, określi, w drodze rozporządzenia:
+
+- **1)** podmioty uprawnione do weryfikacji i poświadczenia, że strzelecka broń palna została pozbawiona cech użytkowych oraz do oznakowania strzeleckiej broni palnej pozbawionej cech użytkowych,
+- **2)** tryb postępowania ze strzelecką bronią palną przekazaną w celu pozbawienia cech użytkowych,
+- **3)** tryb postępowania ze strzelecką bronią palną przekazaną w celu przeprowadzenia weryfikacji zgodności pozbawienia broni cech użytkowych ze specyfikacjami technicznymi,
+- **4)** tryb i formę oznakowania i poświadczenia pozbawienia strzeleckiej broni palnej cech użytkowych oraz indywidualny znak graficzny identyfikujący podmiot poświadczający właściwe pozbawienie cech użytkowych,
+- **5)** wysokość opłaty za weryfikację zgodności pozbawienia strzeleckiej broni palnej cech użytkowych mając na względzie potencjał naukowo-badawczy podmiotów uprawnionych dający gwarancję należytego wykonywania zleconych czynności, sprawne przeprowadzanie procedury pozbawiania broni cech użytkowych i jej rzetelne dokumentowanie, adekwatność opłaty do kosztów dokonanej weryfikacji oraz rozdzielenie zadań i osób wykonujących pozbawianie broni palnej cech użytkowych od zadań związanych z weryfikacją sposobu pozbawienia cech użytkowych.
 
 **Art. 52.**
 
@@ -867,6 +697,12 @@ Art. 143–153. (pominięte)
 
 **Art. 54.** Minister Obrony Narodowej, w porozumieniu z ministrem właściwym do spraw wewnętrznych, po zasięgnięciu opinii Szefa Agencji Bezpieczeństwa Wewnętrznego, określi, w drodze rozporządzenia:
 
+- **1)** szczegółowy sposób pozbawiania innej broni i wyrobów cech użytkowych,
+- **2)** tryb i sposób weryfikacji pozbawienia cech użytkowych i oznakowania innej broni i wyrobów pozbawionych cech użytkowych oraz zakres danych umieszczanych w ewidencji,
+- **3)** podmioty uprawnione do poświadczania pozbawienia cech użytkowych innej broni i wyrobów oraz zatwierdzania specyfikacji technicznej, przypisując odrębnie dla każdego podmiotu zakres, w jakim podmiot poświadcza pozbawienie cech użytkowych innej broni i wyrobów lub zatwierdza specyfikacje techniczne,
+- **4)** wysokość opłaty za zatwierdzenie specyfikacji technicznej i opłaty za poświadczenie pozbawienia innej broni i wyrobów cech użytkowych,
+- **5)** wzór świadectwa pozbawienia cech użytkowych innej broni i wyrobów mając na względzie zastosowanie przy pozbawianiu cech użytkowych właściwej procedury gwarantującej bezpieczeństwo nabywców innej broni i wyrobów pozbawionych cech użytkowych, adekwatność opłaty do kosztów dokonanej czynności oraz zawarcie we wzorze świadectwa danych pozwalających na jednoznaczną identyfikację innej broni lub wyrobów jako pozbawionych cech użytkowych.
+
 #### Rozdział 3 Wykonywanie działalności gospodarczej w zakresie obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym
 
 ##### Oddział 1 Obrót materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym
@@ -875,13 +711,11 @@ Art. 143–153. (pominięte)
 
 **Art. 56.**
 
-1. Do obrotu na terytorium Rzeczypospolitej Polskiej wprowadza się wyłącznie broń palną, w tym strzelecką broń palną, i istotne części, oznakowane zgodnie z art. 44.
+1. Do obrotu na terytorium Rzeczypospolitej Polskiej wprowadza się wyłącznie broń, w tym strzelecką broń palną i istotne części, oznakowaną zgodnie z art. 44.
 
-2. Oznakowanie broni palnej, w tym strzeleckiej broni palnej, i istotnych części, przekazywanych z zapasów państwowych formacji uzbrojonych zawiera dodatkowo oznaczenie pozwalające na identyfikację podmiotu przekazującego w postaci oznakowania dwiema albo trzema drukowanymi literami ich skróconej nazwy.
+2. Oznakowanie broni, w tym strzeleckiej broni palnej i istotnych części, przekazywanej z zapasów państwowych formacji uzbrojonych, zawiera dodatkowo oznaczenie pozwalające na identyfikację podmiotu przekazującego.
 
 3. Importowaną broń palną, w tym strzelecką broń palną i istotne części, na których nie umieszczono niepowtarzalnego, czytelnego i trwałego oznakowania odpowiadającego oznakowaniu, o którym mowa w art. 44, oznakowuje się lub uzupełnia oznakowanie przed ich wprowadzeniem do obrotu na terytorium Rzeczypospolitej Polskiej, niezwłocznie po przywozie do Unii Europejskiej.
-
-4. Strzelecka broń palna i jej istotne części oznakowane cyrylicą lub alfabetem greckim oraz rzymskim systemem liczbowym mogą być przedmiotem obrotu, jeżeli ich oznakowanie jest zgodne z art. 44 ust. 2–2aa, 2c i 2d.
 
 **Art. 57.**
 
@@ -918,7 +752,7 @@ Art. 143–153. (pominięte)
 7. Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw gospodarki oraz Ministrem Obrony Narodowej, po zasięgnięciu opinii Szefa Agencji Bezpieczeństwa Wewnętrznego, określi, w drodze rozporządzenia, szczegółowy sposób ewidencjonowania, w tym dokumenty stanowiące podstawę wpisu do ewidencji, sposób prowadzenia i szczegółowy zakres danych zawartych w ewidencjach i w tych dokumentach:
 
 - **1)** przeznaczonych do obrotu oraz przyjętych na przechowanie lub w komis materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym, a także zawartych transakcji mających za przedmiot obrót tymi towarami koncesjonowanymi,
-- **2)** zawartych transakcji w zakresie pośrednictwa – mając na względzie potrzebę zapewnienia pełnej rejestracji obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym i ich jednoznacznej identyfikacji oraz rejestracji zawartych transakcji, w tym transakcji w zakresie pośrednictwa, potrzebę pełnej rejestracji i jednoznacznej identyfikacji tych towarów koncesjonowanych w przypadku ich przyjęcia na przechowanie lub w komis.
+- **2)** zawartych transakcji w zakresie pośrednictwa mając na względzie potrzebę zapewnienia pełnej rejestracji obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym i ich jednoznacznej identyfikacji oraz rejestracji zawartych transakcji, w tym transakcji w zakresie pośrednictwa, potrzebę pełnej rejestracji i jednoznacznej identyfikacji tych towarów koncesjonowanych w przypadku ich przyjęcia na przechowanie lub w komis.
 
 **Art. 60.** Sprzedaży materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym dokonuje się na podstawie dokumentu uprawniającego do nabycia.
 
@@ -928,10 +762,10 @@ Art. 143–153. (pominięte)
 
 2. Materiały wybuchowe sprzedaje się:
 
-- **1)** przedsiębiorcy, instytutowi badawczemu lub podmiotowi, o którym mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, 1088 i 1234), którzy przedłożą:
-    - **a)** koncesję na wykonywanie działalności gospodarczej w zakresie wytwarzania lub obrotu materiałami wybuchowymi,
-    - **b)** koncesję na wykonywanie działalności gospodarczej w zakresie wytwarzania amunicji,
-    - **c)** pozwolenie na nabywanie, przechowywanie lub używanie materiałów wybuchowych wydane odpowiednio przez wojewodę lub inny organ uprawniony do wydania takiego pozwolenia na podstawie odrębnych przepisów;
+- **1)** przedsiębiorcy, instytutowi badawczemu lub podmiotowi, o którym mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.), którzy przedłożą: koncesję na wykonywanie działalności gospodarczej w zakresie wytwarzania lub obrotu materiałami wybuchowymi, koncesję na wykonywanie działalności gospodarczej w zakresie wytwarzania amunicji, pozwolenie na nabywanie, przechowywanie lub używanie materiałów wybuchowych wydane odpowiednio przez wojewodę lub inny organ uprawniony do wydania takiego pozwolenia na podstawie odrębnych przepisów;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **2)** Siłom Zbrojnym Rzeczypospolitej Polskiej, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Policji, Agencji Wywiadu, Agencji Bezpieczeństwa Wewnętrznego, Centralnemu Biuru Antykorupcyjnemu, Straży Granicznej, Służbie Celno-Skarbowej, Służbie Więziennej, Służbie Ochrony Państwa, Straży Marszałkowskiej, Państwowej Straży Pożarnej oraz innym państwowym formacjom uzbrojonym, w odniesieniu do których dostęp do materiałów wybuchowych regulują odrębne przepisy – po okazaniu dokumentu uprawniającego do ich nabycia;
 - **3)** innym podmiotom, których dostęp do materiałów wybuchowych regulują odrębne przepisy – na warunkach w nich określonych.
@@ -947,10 +781,9 @@ Art. 143–153. (pominięte)
 
 4. Amunicję sprzedaje się:
 
-- **1)** osobom fizycznym, przedsiębiorcom oraz innym podmiotom na podstawie:
-    - **a)** legitymacji posiadacza broni lub świadectwa broni,
-    - **b)** zaświadczenia wydanego odpowiednio przez właściwy organ Policji lub organ wojskowy, uprawniającego do nabycia określonego rodzaju oraz liczby egzemplarzy broni wraz z amunicją do tej broni,
-    - **c)** kopii świadectwa broni alarmowej i sygnałowej uprawniającej do nabycia określonego typu amunicji;
+- **1)** osobom fizycznym, przedsiębiorcom oraz innym podmiotom na podstawie: legitymacji posiadacza broni lub świadectwa broni, zaświadczenia wydanego odpowiednio przez właściwy organ Policji lub organ wojskowy, uprawniającego do nabycia określonego rodzaju oraz liczby egzemplarzy broni wraz z amunicją do tej broni;
+    - **a)**
+    - **b)**
 
 - **2)** cudzoziemcom – na warunkach określonych w ustawie z dnia 21 maja 1999 r. o broni i amunicji;
 - **3)** przedsiębiorcom, którzy przedłożą koncesję na wykonywanie działalności gospodarczej w zakresie obrotu amunicją – zgodnie z zakresem koncesji;
@@ -968,17 +801,16 @@ Art. 143–153. (pominięte)
 8. Wyroby o przeznaczeniu wojskowym lub policyjnym sprzedaje się:
 
 - **1)** przedsiębiorcom posiadającym koncesję na wykonywanie działalności gospodarczej w zakresie wytwarzania lub obrotu wyrobami o przeznaczeniu wojskowym lub policyjnym;
-- **2)** Siłom Zbrojnym Rzeczypospolitej Polskiej, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Policji, Agencji Wywiadu, Agencji Bezpieczeństwa Wewnętrznego, Centralnemu Biuru Antykorupcyjnemu, Straży Granicznej, Służbie Celno-Skarbowej, Służbie Więziennej, Służbie Ochrony Państwa, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Morskiej Służbie Poszukiwania i Ratownictwa, Straży Ochrony Kolei oraz innym państwowym formacjom uzbrojonym, w odniesieniu do których dostęp do takich wyrobów regulują odrębne przepisy – po okazaniu dokumentu uprawniającego do ich nabycia;
-- **2a)** zarządcom lub dzierżawcom obwodów łowieckich oraz członkom Polskiego Związku Łowieckiego posiadającym pozwolenie na broń do celów łowieckich, a także uprawnienia do wykonywania polowania – wyłącznie w zakresie tłumików dźwięku (huku);
+- **2)** Siłom Zbrojnym Rzeczypospolitej Polskiej, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Policji, Agencji Wywiadu, Agencji Bezpieczeństwa Wewnętrznego, Centralnemu Biuru Antykorupcyjnemu, Straży Granicznej, Służbie Celno-Skarbowej, Służbie Więziennej, Służbie Ochrony Państwa, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Straży Ochrony Kolei oraz innym państwowym formacjom uzbrojonym, w odniesieniu do których dostęp do takich wyrobów regulują odrębne przepisy – po okazaniu dokumentu uprawniającego do ich nabycia;
 - **3)** innym podmiotom, których dostęp do wyrobów o przeznaczeniu wojskowym lub policyjnym regulują odrębne przepisy – na warunkach w nich określonych.
 
 9. Kamizelki kuloodporne, hełmy wojskowe i policyjne, ochraniacze twarzy, kończyn i innych części ciała sprzedaje się także przedsiębiorcom, którzy posiadają koncesję na wykonywanie działalności gospodarczej w zakresie usług ochrony osób i mienia, oraz przedsiębiorcom albo jednostkom organizacyjnym, którzy na podstawie odrębnych przepisów powołały wewnętrzne służby ochrony, oraz szkołom kształcącym w zawodzie pracownika ochrony fizycznej osób i mienia, a także przedsiębiorcom prowadzącym działalność szkoleniową dla osób ubiegających się o wpis na listę kwalifikowanych pracowników ochrony fizycznej.
 
 10. Technologię o przeznaczeniu wojskowym lub policyjnym sprzedaje się:
 
-- **1)** przedsiębiorcom, którzy przedłożą koncesję na wykonywanie działalności gospodarczej w zakresie:
-    - **a)** obrotu określoną technologią o przeznaczeniu wojskowym lub policyjnym,
-    - **b)** wytwarzania wyrobów o przeznaczeniu wojskowym lub policyjnym, których dotyczy dana technologia;
+- **1)** przedsiębiorcom, którzy przedłożą koncesję na wykonywanie działalności gospodarczej w zakresie: obrotu określoną technologią o przeznaczeniu wojskowym lub policyjnym, wytwarzania wyrobów o przeznaczeniu wojskowym lub policyjnym, których dotyczy dana technologia;
+    - **a)**
+    - **b)**
 
 - **2)** Siłom Zbrojnym Rzeczypospolitej Polskiej, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Policji, Agencji Wywiadu, Agencji Bezpieczeństwa Wewnętrznego, Centralnemu Biuru Antykorupcyjnemu, Straży Granicznej, Służbie Celno-Skarbowej, Służbie Więziennej, Służbie Ochrony Państwa, Straży Marszałkowskiej i Państwowej Straży Pożarnej, po okazaniu dokumentu uprawniającego do ich nabycia oraz innym państwowym formacjom uzbrojonym, w odniesieniu do których dostęp do takiej technologii regulują przepisy odrębne – po okazaniu dokumentu uprawniającego do ich nabycia;
 - **3)** innym podmiotom, których dostęp do technologii o przeznaczeniu wojskowym lub policyjnym regulują odrębne przepisy – na warunkach w nich określonych.
@@ -991,41 +823,45 @@ Art. 143–153. (pominięte)
 
 - **1)** materiałów wybuchowych podmiotom wymienionym w art. 61 ust. 2 pkt 1 – komendanta wojewódzkiego Policji właściwego ze względu na siedzibę nabywcy,
 - **2)** broni palnej innej niż strzelecka broń palna, na posiadanie której jest wymagane pozwolenie, osobom fizycznym, przedsiębiorcom albo innym podmiotom wymienionym w art. 61 ust. 3 pkt 1–4 i 6 – komendanta wojewódzkiego Policji właściwego ze względu na miejsce stałego pobytu albo siedzibę nabywcy albo organ wojskowy, który wydał zaświadczenie uprawniające do nabycia broni,
-- **3)** strzeleckiej broni palnej lub istotnych części osobom fizycznym, przedsiębiorcom albo innym podmiotom wymienionym w art. 61 ust. 3 pkt 1–4 i 6 w przypadku określonym w art. 119 ust. 1 – komendanta wojewódzkiego Policji właściwego ze względu na miejsce stałego pobytu albo siedzibę nabywcy albo organ wojskowy, który wydał zaświadczenie uprawniające do nabycia strzeleckiej broni palnej lub istotnych części – w terminie 5 dni roboczych.
+- **3)** strzeleckiej broni palnej lub istotnych części osobom fizycznym, przedsiębiorcom albo innym podmiotom wymienionym w art. 61 ust. 3 pkt 1–4 i 6 w przypadku określonym w art. 119 ust. 1 – komendanta wojewódzkiego Policji właściwego ze względu na miejsce stałego pobytu albo siedzibę nabywcy albo organ wojskowy, który wydał zaświadczenie uprawniające do nabycia strzeleckiej broni palnej lub istotnych części w terminie 5 dni roboczych.
 
 2. Informacja o dokonanej sprzedaży zawiera:
 
-- **1)** dane identyfikujące sprzedawcę:
-    - **a)** imię i nazwisko oraz adres miejsca stałego pobytu albo firmę lub nazwę przedsiębiorcy i adres siedziby,
-    - **b)** numer koncesji,
-    - **c)** numer identyfikacji podatkowej (NIP);
+- **1)** dane identyfikujące sprzedawcę: imię i nazwisko oraz adres miejsca stałego pobytu albo firmę lub nazwę przedsiębiorcy i adres siedziby, numer koncesji, numer identyfikacji podatkowej (NIP);
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **2)** dane identyfikujące nabywcę:
-    - **a)** imię i nazwisko oraz adres miejsca stałego pobytu albo firmę lub nazwę przedsiębiorcy albo podmiotu i adres siedziby,
-    - **b)** numer koncesji – jeżeli dotyczy,
-    - **c)** numer identyfikacji podatkowej (NIP) – w przypadku nabywcy innego niż osoba fizyczna,
-    - **d)** numer identyfikacji podatkowej (NIP) albo numer PESEL, a jeżeli nie został nadany – nazwę, serię i numer dokumentu tożsamości oraz organ, który wydał dokument tożsamości – w przypadku gdy nabywcą jest osoba fizyczna;
+- **2)** dane identyfikujące nabywcę: imię i nazwisko oraz adres miejsca stałego pobytu albo firmę lub nazwę przedsiębiorcy albo podmiotu i adres siedziby, numer koncesji – jeżeli dotyczy, numer identyfikacji podatkowej (NIP) – w przypadku nabywcy innego niż osoba fizyczna, numer identyfikacji podatkowej (NIP) albo numer PESEL, a jeżeli nie został nadany – nazwę, serię i numer dokumentu tożsamości oraz organ, który wydał dokument tożsamości – w przypadku gdy nabywcą jest osoba fizyczna;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
-- **3)** dane identyfikujące osobę upoważnioną do odbioru materiałów wybuchowych albo broni:
-    - **a)** imię i nazwisko,
-    - **b)** nazwę oraz serię i numer dokumentu tożsamości, a także organ wydający dokument tożsamości,
-    - **c)** dane identyfikujące dokument uprawniający do odbioru materiałów wybuchowych albo broni: nazwę, datę i numer dokumentu oraz oznaczenie wystawcy dokumentu;
+- **3)** dane identyfikujące osobę upoważnioną do odbioru materiałów wybuchowych albo broni: imię i nazwisko, nazwę oraz serię i numer dokumentu tożsamości, a także organ wydający dokument tożsamości, dane identyfikujące dokument uprawniający do odbioru materiałów wybuchowych albo broni: nazwę, datę i numer dokumentu oraz oznaczenie wystawcy dokumentu;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **4)** datę i miejsce sprzedaży;
-- **5)** dane identyfikujące:
-    - **a)** materiały wybuchowe: – nazwę handlową materiału wybuchowego, – oznaczenie producenta, – numer partii, – rok produkcji, – masę materiału wybuchowego, – dodatkowe oznaczenia fabryczne materiału stosowane przez producenta,
-    - **b)** broń palną inną niż strzelecka broń palna, na posiadanie której jest wymagane pozwolenie: – oznakowanie, – państwo wytworzenia zgodnie z rozporządzeniem 1106/2012, – kaliber, – markę, – (uchylone)
-    - **c)** strzelecką broń palną oraz istotne części: – oznakowanie, – kaliber, – markę, – kategorię, podkategorię i typ, – oznakowanie istotnych części, jeżeli jest inne od oznakowania na szkielecie lub komorze zamkowej broni, – określenie istotnej części – spośród wymienionych w art. 3 ust. 1 pkt 4 – będące przedmiotem sprzedaży;
+- **5)** dane identyfikujące: materiały wybuchowe: – nazwę handlową materiału wybuchowego, – oznaczenie producenta, – numer partii, – rok produkcji, – masę materiału wybuchowego, – dodatkowe oznaczenia fabryczne materiału stosowane przez producenta, broń palną inną niż strzelecka broń palna, na posiadanie której jest wymagane pozwolenie: – oznakowanie, – państwo wytworzenia zgodnie z rozporządzeniem 1106/2012, – kaliber, – markę, – kategorię, podkategorię i typ, strzelecką broń palną oraz istotne części: – oznakowanie, – kaliber, – markę, – kategorię, podkategorię i typ, – oznakowanie istotnych części, jeżeli jest inne od oznakowania na szkielecie lub komorze zamkowej broni, – określenie istotnej części – spośród wymienionych w art. 3 ust. 1 pkt 4 – będące przedmiotem sprzedaży;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **6)** dane identyfikujące dokument uprawniający do nabycia: nazwę, datę i numer dokumentu, oraz oznaczenie wystawcy dokumentu.
 
 **Art. 64.** Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw gospodarki, określi, w drodze rozporządzenia, wzory informacji o sprzedaży:
 
+- **1)** materiałów wybuchowych,
+- **2)** broni palnej innej niż strzelecka broń palna, na posiadanie której jest wymagane pozwolenie,
+- **3)** strzeleckiej broni palnej i istotnych części mając na względzie konieczność zapewnienia skutecznej kontroli obrotu materiałami wybuchowymi, bronią palną, w tym strzelecką bronią palną i istotnymi częściami, na terytorium Rzeczypospolitej Polskiej, także w przypadku braku możliwości ewidencjonowania transakcji obrotu dotyczących strzeleckiej broni palnej i istotnych części w SRB.
+
 **Art. 65.**
 
 1. Nabywanie materiałów wybuchowych, broni, w tym strzeleckiej broni palnej, istotnych części, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym od przedsiębiorców nieposiadających koncesji na obrót tymi towarami jest zakazane, z wyjątkiem przypadków, o których mowa w art. 7 ust. 2.
 
-2. Wyroby, o których mowa w art. 62c ust. 1 pkt 1 lit. a–c, pkt 2 lit. a oraz pkt 3 lit. a ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego, oraz broń, na posiadanie której nie jest wymagane pozwolenie na broń, mogą być sprzedawane wyłącznie osobom pełnoletnim, po okazaniu dokumentu stwierdzającego tożsamość.
+2. Wyroby, o których mowa w art. 62c ust. 1 pkt 1 lit. a-c, pkt 2 lit. a oraz pkt 3 lit. a ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego, oraz broń, na posiadanie której nie jest wymagane pozwolenie na broń, mogą być sprzedawane wyłącznie osobom pełnoletnim, po okazaniu dokumentu stwierdzającego tożsamość.
 
 **Art. 66.**
 
@@ -1057,11 +893,15 @@ Art. 143–153. (pominięte)
 - **3)** broni zastępczej – na czas naprawy lub remontu broni;
 - **4)** osobom posiadającym pozwolenie na dany rodzaj broni – do prób i testów przed zakupem, na okres nie dłuższy niż 14 dni.
 
-3. Zakaz, o którym mowa w ust. 1, nie dotyczy również użyczenia i najmu wyrobów o przeznaczeniu wojskowym i policyjnym na podstawie art. 55 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2022 r. poz. 2061).
+3. Zakaz, o którym mowa w ust. 1, nie dotyczy również użyczenia i najmu wyrobów o przeznaczeniu wojskowym i policyjnym na podstawie art. 55 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2018 r. poz. 2308 oraz z 2019 r. poz. 492).
 
 ##### Oddział 2 Przemieszczanie przez przedsiębiorców strzeleckiej broni palnej, istotnych części i amunicji do strzeleckiej broni palnej
 
 **Art. 69.** Przemieszczanie strzeleckiej broni palnej przez przedsiębiorcę w ramach wykonywanej działalności gospodarczej:
+
+- **1)** na terytorium Rzeczypospolitej Polskiej – jako państwa docelowego transakcji z państwa członkowskiego Unii Europejskiej lub państwa trzeciego traktowanego na równi z tymi państwami na podstawie umowy Rady Unii Europejskiej z państwami trzecimi w sprawie włączenia tych państw we wprowadzenie w życie, stosowanie i rozwój dorobku Schengen,
+- **2)** z terytorium Rzeczypospolitej Polskiej – jako państwa początkowego Unii Europejskiej transakcji do innego państwa członkowskiego,
+- **3)** z państwa członkowskiego Unii Europejskiej początkowego transakcji lub przez kolejne państwa członkowskie, przez terytorium Rzeczypospolitej Polskiej do innego państwa członkowskiego Unii Europejskiej wymaga poświadczonej zgody przewozowej, urzędowo poświadczonej kopii uprzedniej zgody przewozowej lub urzędowo poświadczonej kopii decyzji o zwolnieniu z obowiązku każdorazowego poświadczania zgód przewozowych, zwanej dalej „decyzją o zwolnieniu” – w przypadku jej wydania.
 
 **Art. 70.** Przepisy dotyczące przemieszczania strzeleckiej broni palnej stosuje się do przemieszczania nieumieszczonych w broni istotnych części oraz amunicji do strzeleckiej broni palnej.
 
@@ -1109,7 +949,7 @@ Art. 143–153. (pominięte)
 
 **Art. 74.**
 
-1. Organ koncesyjny, na wniosek przedsiębiorcy, może, w drodze decyzji, zwolnić przedsiębiorcę dokonującego przemieszczenia strzeleckiej broni palnej z terytorium Rzeczypospolitej Polskiej jako państwa początkowego transakcji z obowiązku każdorazowego poświadczania zgody przewozowej przez komendanta wojewódzkiego Policji, jeżeli przedsiębiorca udokumentuje stosowanie przez co najmniej 3 lata wewnętrznego systemu kontroli, o którym mowa w art. 11 ust. 1 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2022 r. poz. 1666 oraz z 2023 r. poz. 185).
+1. Organ koncesyjny, na wniosek przedsiębiorcy, może, w drodze decyzji, zwolnić przedsiębiorcę dokonującego przemieszczenia strzeleckiej broni palnej z terytorium Rzeczypospolitej Polskiej jako państwa początkowego transakcji z obowiązku każdorazowego poświadczania zgody przewozowej przez komendanta wojewódzkiego Policji, jeżeli przedsiębiorca udokumentuje stosowanie przez co najmniej 3 lata wewnętrznego systemu kontroli, o którym mowa w art. 11 ust. 1 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2019 r. poz. 953).
 
 2. Organ koncesyjny przekazuje kopię decyzji o zwolnieniu komendantowi wojewódzkiemu Policji właściwemu ze względu na siedzibę przedsiębiorcy, o którym mowa w ust. 1, oraz Komendantowi Głównemu Straży Granicznej.
 
@@ -1197,7 +1037,7 @@ Art. 143–153. (pominięte)
 5. Do wniosku, o którym mowa w ust. 3, eksporter dołącza:
 
 - **1)** oświadczenie o posiadaniu koncesji na wykonywanie działalności gospodarczej w zakresie obrotu towarami objętymi wnioskiem;
-- **2)** w przypadku gdy wnioskodawca jest przedsiębiorcą będącym osobą fizyczną – oświadczenie, że nie był karany za czyn stanowiący przestępstwo wymienione w art. 2 ust. 2 decyzji ramowej Rady 2002/584/WSiSW z dnia 13 czerwca 2002 r. w sprawie europejskiego nakazu aresztowania i procedury wydawania osób między Państwami Członkowskimi (Dz. Urz. UE L 190 z 18.07.2002, str. 1, z późn. zm. ) lub za jakikolwiek inny czyn, jeżeli stanowi on przestępstwo zagrożone karą pozbawienia wolności od lat 4, a w przypadku gdy wnioskodawca jest przedsiębiorcą innym niż osoba fizyczna – oświadczenie osób reprezentujących osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, że nie były karane za taki czyn;
+- **2)** w przypadku gdy wnioskodawca jest przedsiębiorcą będącym osobą fizyczną – oświadczenie, że nie był karany za czyn stanowiący przestępstwo wymienione w art. 2 ust. 2 decyzji ramowej Rady 2002/584/WSiSW z dnia 13 czerwca 2002 r. w sprawie europejskiego nakazu aresztowania i procedury wydawania osób między Państwami Członkowskimi (Dz. Urz. UE L 190 z 18.07.2002, str. 1, z późn. zm.) lub za jakikolwiek inny czyn, jeżeli stanowi on przestępstwo zagrożone karą pozbawienia wolności od lat 4, a w przypadku gdy wnioskodawca jest przedsiębiorcą innym niż osoba fizyczna – oświadczenie osób reprezentujących osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, że nie były karane za taki czyn;
 - **3)** oryginał albo uwierzytelnioną kopię umowy zawartej z odbiorcą w państwie trzecim dotyczącej wywozu towarów objętych wnioskiem;
 - **4)** dokumenty, w formie oryginału albo uwierzytelnionej kopii, potwierdzające, że właściwy organ państwa trzeciego przywozu zezwolił na przywóz towarów objętych wnioskiem;
 - **5)** uwierzytelnione kopie pisemnych wniosków eksportera do właściwych organów państw trzecich tranzytu o wydanie oświadczeń o braku zastrzeżeń w odniesieniu do tranzytu przez ich terytorium towarów objętych wnioskiem – jeżeli eksporter planuje taki tranzyt;
@@ -1254,11 +1094,14 @@ Art. 143–153. (pominięte)
 
 **Art. 90.** Organem właściwym do wypełniania obowiązku, o którym mowa w art. 4 ust. 3, art. 7, art. 11 ust. 2 i 3, art. 13 ust. 1 i 3 oraz art. 19 rozporządzenia 258/2012, jest minister właściwy do spraw gospodarki.
 
-**Art. 91.** W przypadkach wskazanych w art. 9 ust. 2 rozporządzenia 258/2012, wywóz broni palnej, części, istotnych komponentów lub amunicji odbywa się według procedur określonych w przepisach celnych, w urzędzie celno-skarbowym wyznaczonym zgodnie z art. 92.
+**Art. 91.** Wprzypadkach wskazanych w art. 9 ust. 2 rozporządzenia 258/2012, wywóz broni palnej, części, istotnych komponentów lub amunicji odbywa się według procedur określonych w przepisach celnych, w urzędzie celno-skarbowym wyznaczonym zgodnie z art. 92.
 
 **Art. 92.** Wywóz broni palnej, części, istotnych komponentów oraz amunicji jest realizowany w wyznaczonych urzędach celno-skarbowych, wymienionych w wykazie określonym w rozporządzeniu wydanym na podstawie art. 20 ust. 2 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa.
 
 **Art. 93.** Przedsiębiorca dokonujący wywozu broni palnej, części, istotnych komponentów oraz amunicji podlega kontroli organu udzielającego zezwolenie oraz urzędów celno-skarbowych pod względem:
+
+- **1)** przestrzegania zgodności rzeczywistego wywozu z zezwoleniem, w tym weryfikacji transakcji po jej dokonaniu;
+- **2)** prawidłowości prowadzenia ewidencji, o której mowa w art. 89 ust. 3.
 
 **Art. 94.**
 
@@ -1267,8 +1110,6 @@ Art. 143–153. (pominięte)
 2. W przypadku gdy właściwe organy państwa trzeciego wywozu tego wymagają, minister właściwy do spraw gospodarki, w ramach poświadczenia oświadczenia końcowego użytkownika, może uznać ograniczenia i warunki związane z obrotem bronią palną, częściami i istotnymi komponentami lub amunicją określone przez te organy.
 
 3. Minister właściwy do spraw gospodarki odmawia poświadczenia oświadczenia końcowego użytkownika, jeżeli nie mogą być spełnione warunki i ograniczenia określone przez właściwe organy państwa trzeciego wywozu.
-
-4. Do wydania certyfikatu importowego lub poświadczenia oświadczenia końcowego użytkownika stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803) dotyczące wydawania decyzji.
 
 **Art. 95.**
 
@@ -1309,6 +1150,10 @@ Art. 143–153. (pominięte)
 
 **Art. 98.** Przedsiębiorca dokonujący przywozu spoza obszaru celnego Unii Europejskiej broni palnej, części i istotnych komponentów lub amunicji w celu otrzymania certyfikatu importowego lub poświadczenia oświadczenia końcowego użytkownika jest obowiązany do:
 
+- **1)** wprowadzenia wymienionych w certyfikacie broni palnej, części i istotnych komponentów lub amunicji na terytorium Rzeczypospolitej Polskiej i niezwłocznego powiadomienia ministra właściwego do spraw gospodarki o zmianach w warunkach kontraktu;
+- **2)** złożenia oświadczenia, że jest świadomy, że wyprowadzenie z terytorium Rzeczypospolitej Polskiej, zmiana końcowego użytkownika lub deklarowanego końcowego wykorzystania broni palnej, części i istotnych komponentów lub amunicji wymagają uprzedniej zgody właściwego organu;
+- **3)** umożliwienia przeprowadzenia przez ministra właściwego do spraw gospodarki, przy ewentualnym udziale przedstawicieli władz państwa zagranicznego eksportera, kontroli zgodności wykorzystania broni palnej, części i istotnych komponentów lub amunicji z deklaracją zawartą we wniosku, w miejscu ich wykorzystania w całym okresie pozostawania na terytorium Rzeczypospolitej Polskiej.
+
 **Art. 99.**
 
 1. Certyfikat importowy oraz poświadczenie oświadczenia końcowego użytkownika są dokumentami przeznaczonymi do okazania właściwym władzom państw trzecich i zaświadczają o wiarygodności podmiotu i o objęciu kontrolą przez właściwe organy Rzeczypospolitej Polskiej transakcji w zakresie przywozu spoza obszaru celnego Unii Europejskiej broni palnej, części i istotnych komponentów lub amunicji.
@@ -1326,10 +1171,10 @@ Art. 143–153. (pominięte)
 - **4)** oznaczenie zagranicznego dostawcy i adres siedziby lub miejsca zamieszkania;
 - **5)** nazwę i opis broni palnej, części i istotnych komponentów lub amunicji, Kod Nomenklatury Scalonej CN, oznakowanie, ilość i wartość towarów będących przedmiotem transakcji;
 - **6)** opis ostatecznego wykorzystania broni palnej, części i istotnych komponentów lub amunicji, o których mowa w pkt 5;
-- **7)** oświadczenia, że przedsiębiorca:
-    - **a)** zobowiązał się, że wprowadzi wymienione w certyfikacie broń palną, części i istotne komponenty lub amunicję na terytorium Rzeczypospolitej Polskiej i niezwłocznie powiadomi ministra właściwego do spraw gospodarki o zmianach w warunkach kontraktu na przywóz tych towarów,
-    - **b)** jest świadomy, że wyprowadzenie z terytorium Rzeczypospolitej Polskiej, zmiana końcowego użytkownika lub deklarowanego końcowego wykorzystania broni palnej, części i istotnych komponentów lub amunicji wymagają uprzedniej zgody właściwego organu,
-    - **c)** zobowiązał się, w uzgodnieniu z końcowym użytkownikiem, do umożliwienia przeprowadzenia przez ministra właściwego do spraw gospodarki, przy ewentualnym udziale przedstawicieli władz państwa zagranicznego dostawcy, kontroli zgodności wykorzystania broni palnej, części i istotnych komponentów lub amunicji z deklaracją zawartą we wniosku, w miejscu ich wykorzystania w całym okresie pozostawania na terytorium Rzeczypospolitej Polskiej;
+- **7)** oświadczenia, że przedsiębiorca: zobowiązał się, że wprowadzi wymienione w certyfikacie broń palną, części i istotne komponenty lub amunicję na terytorium Rzeczypospolitej Polskiej i niezwłocznie powiadomi ministra właściwego do spraw gospodarki o zmianach w warunkach kontraktu na przywóz tych towarów, jest świadomy, że wyprowadzenie z terytorium Rzeczypospolitej Polskiej, zmiana końcowego użytkownika lub deklarowanego końcowego wykorzystania broni palnej, części i istotnych komponentów lub amunicji wymagają uprzedniej zgody właściwego organu, zobowiązał się, w uzgodnieniu z końcowym użytkownikiem, do umożliwienia przeprowadzenia przez ministra właściwego do spraw gospodarki, przy ewentualnym udziale przedstawicieli władz państwa zagranicznego dostawcy, kontroli zgodności wykorzystania broni palnej, części i istotnych komponentów lub amunicji z deklaracją zawartą we wniosku, w miejscu ich wykorzystania w całym okresie pozostawania na terytorium Rzeczypospolitej Polskiej;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **8)** informację, że certyfikat importowy traci ważność, o ile nie został przedstawiony właściwym władzom zagranicznym w terminie 6 miesięcy od dnia jego wydania.
 
@@ -1341,7 +1186,7 @@ Art. 143–153. (pominięte)
 
 1. Przedsiębiorca, który otrzymał certyfikat importowy, jest uprawniony, w terminie 30 dni od dnia zwolnienia do procedury dopuszczenia do obrotu broni palnej, części i istotnych komponentów lub amunicji, wystąpić do naczelnika urzędu celno-skarbowego właściwego ze względu na siedzibę końcowego użytkownika tych towarów z wnioskiem o wydanie certyfikatu weryfikacji dostawy stwierdzającego, że towar objęty certyfikatem został przez tego przedsiębiorcę faktycznie i w sposób zgodny z przepisami prawa wprowadzony na terytorium Rzeczypospolitej Polskiej.
 
-2. Do wydania certyfikatu weryfikacji dostawy stosuje się odpowiednio przepisy działu VII ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+2. Do wydania certyfikatu weryfikacji dostawy stosuje się odpowiednio przepisy działu VII ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096 oraz z 2019 r. poz. 60, 730 i 1133).
 
 3. Przedsiębiorca, o którym mowa w ust. 1, jest obowiązany zwrócić właściwemu organowi celno-skarbowemu koszty poniesione przez ten organ w toku postępowania w sprawie wydania certyfikatu weryfikacji dostawy.
 
@@ -1356,7 +1201,7 @@ Art. 143–153. (pominięte)
 
 6. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór certyfikatu weryfikacji dostawy oraz sposób prowadzenia ewidencji wydanych certyfikatów, mając na uwadze zapewnienie możliwości weryfikacji wydanych certyfikatów.
 
-### DZIAŁ IV System Rejestracji Broni
+### Dział IV System Rejestracji Broni
 
 **Art. 102.**
 
@@ -1424,7 +1269,7 @@ Art. 143–153. (pominięte)
 - **7)** oznakowanie istotnych części, jeżeli jest inne od oznakowania na szkielecie, zamku lub komorze zamkowej broni;
 - **8)** określenie rodzaju istotnej części – spośród wymienionych w art. 3 ust. 1 pkt 4 – w profilu dotyczącym istotnej części.
 
-3. (uchylony)
+3. Kategorie i podkategorie strzeleckiej broni palnej i amunicji do strzeleckiej broni palnej są określone w załączniku do ustawy.
 
 **Art. 108.** Przedsiębiorca, o którym mowa w art. 104, organ właściwy do wydawania pozwoleń na broń oraz zaświadczeń uprawniających do nabycia broni oraz organ właściwy do wydawania świadectw pozbawienia strzeleckiej broni palnej cech użytkowych wprowadzają do SRB historię broni, w zakresie wskazanym w art. 109.
 
@@ -1488,11 +1333,11 @@ Art. 143–153. (pominięte)
 - **3)** dacie wydania i nazwie organu poświadczającego zgodę przewozową w przypadku zbycia do innego państwa członkowskiego Unii Europejskiej oraz dacie wydania i nazwie organu poświadczającego uprzednią zgodę przewozową nabywcy broni;
 - **4)** dacie wydania, numerze i nazwie organu wydającego zgodę na wywóz strzeleckiej broni palnej z terytorium Rzeczypospolitej Polskiej, o której mowa w ustawie z dnia 21 maja 1999 r. o broni i amunicji;
 - **5)** przyjęciu strzeleckiej broni palnej do depozytu na podstawie ustawy z dnia 21 maja 1999 r. o broni i amunicji oraz o miejscu składowania tej broni w depozycie, a także o zniszczeniu, sprzedaży, przekazaniu na rzecz Skarbu Państwa lub zwrocie broni z depozytu, w tym dacie ich dokonania;
-- **6)** wydaniu karty rejestracyjnej broni pozbawionej cech użytkowych oraz jej posiadaczu:
-    - **a)** dacie wydania,
-    - **b)** serii i numerze,
-    - **c)** organie wydającym kartę rejestracyjną broni,
-    - **d)** imieniu i nazwisku, adresie miejsca stałego pobytu, numerze PESEL, a gdy nie został nadany – nazwie, serii, numerze i dacie wydania dokumentu potwierdzającego tożsamość oraz organie, który wydał dokument;
+- **6)** wydaniu karty rejestracyjnej broni pozbawionej cech użytkowych oraz jej posiadaczu: dacie wydania, serii i numerze, organie wydającym kartę rejestracyjną broni, imieniu i nazwisku, adresie miejsca stałego pobytu, numerze PESEL, a gdy nie został nadany – nazwie, serii, numerze i dacie wydania dokumentu potwierdzającego tożsamość oraz organie, który wydał dokument;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **7)** zgłoszonym użyczeniu strzeleckiej broni palnej innemu posiadaczowi równorzędnego pozwolenia na broń, adresie miejsca przechowywania tej broni oraz imieniu i nazwisku biorącego broń w użyczenie;
 - **8)** zmianie adresu miejsca przechowywania broni.
@@ -1517,6 +1362,12 @@ Art. 143–153. (pominięte)
 - **3)** dane określone w ust. 2 i 9 – jeżeli dokonał pozbawienia strzeleckiej broni palnej cech użytkowych.
 
 **Art. 110.** Dane zbywcy, nabywcy oraz osoby upoważnionej do przekazania, odbioru oraz przyjęcia strzeleckiej broni palnej albo istotnych części obejmują:
+
+- **1)** imię i nazwisko osoby fizycznej lub przedsiębiorcy będącego osobą fizyczną albo firmę lub nazwę przedsiębiorcy innego niż osoba fizyczna lub innego podmiotu uprawnionego do nabycia strzeleckiej broni palnej lub istotnych części;
+- **2)** adres miejsca stałego pobytu osoby fizycznej lub przedsiębiorcy będącego osobą fizyczną albo adres siedziby przedsiębiorcy innego niż osoba fizyczna lub innego podmiotu uprawnionego do nabycia strzeleckiej broni palnej lub istotnych części;
+- **3)** numer PESEL, a w przypadku gdy nie został nadany – nazwę, serię i numer dokumentu tożsamości, a także organ wydający dokument tożsamości, albo numer identyfikacji podatkowej (NIP) – jeżeli posiada;
+- **4)** numer i datę wydania koncesji – jeżeli dotyczy;
+- **5)** numer w Krajowym Rejestrze Sądowym – jeżeli dotyczy.
 
 **Art. 111.**
 
@@ -1578,11 +1429,69 @@ Art. 143–153. (pominięte)
 
 **Art. 121.** Uprawnionymi do dostępu do SRB są:
 
-### DZIAŁ V Kontrola działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym
+- **1)** przedsiębiorca, któremu została udzielona koncesja w zakresie wytwarzania lub obrotu strzelecką bronią palną lub istotnymi częściami, w celu: prowadzenia ewidencji w SRB, odczytu i pobrania zaświadczeń z wykazu zaświadczeń uprawniających do nabycia broni, odczytu informacji z rejestru koncesji udzielonych w zakresie wytwarzania i obrotu strzelecką bronią palną, odczytu informacji z rejestru świadectw pozbawienia strzeleckiej broni palnej cech użytkowych;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **2)** Komendant Główny Policji w celu przyjmowania zgłoszeń o transakcjach, o których mowa w art. 35 ust. 1;
+- **3)** Komendant Główny Policji i komendanci wojewódzcy Policji w celu: realizacji obowiązków określonych w art. 107–109 i art. 111, weryfikacji danych wpisanych przez przedsiębiorców do ewidencji strzeleckiej broni palnej i istotnych części, prowadzenia działań kontrolnych w zakresie określonym w niniejszej ustawie i ustawie z dnia 21 maja 1999 r. o broni i amunicji, w związku z posiadaniem broni palnej, dostępu do danych zbiorczych i statystycznych;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **4)** Komendant Główny Żandarmerii Wojskowej i komendanci oddziałów Żandarmerii Wojskowej w celu: realizacji obowiązków określonych w art. 107–109 i art. 111, weryfikacji danych wpisanych przez przedsiębiorców do ewidencji strzeleckiej broni palnej i istotnych części, prowadzenia działań kontrolnych w zakresie określonym w ustawie z dnia 21 maja 1999 r. o broni i amunicji, w związku z posiadaniem broni palnej, dostępu do danych zbiorczych i statystycznych;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **5)** podmioty uprawnione do weryfikacji i poświadczenia, że strzelecka broń palna została pozbawiona cech użytkowych, oraz oznakowania strzeleckiej broni palnej pozbawionej cech użytkowych w celu: prowadzenia ewidencji w SRB w zakresie pozbawiania strzeleckiej broni palnej cech użytkowych, realizacji obowiązków określonych w art. 112, weryfikacji danych wpisanych przez przedsiębiorców do ewidencji strzeleckiej broni palnej i istotnych części w odniesieniu do pozbawienia broni cech użytkowych, dostępu do danych zbiorczych i statystycznych;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **6)** organ koncesyjny w celu: realizacji obowiązków administratora systemu, realizacji obowiązków określonych w art. 103 ust. 2, art. 104 ust. 2, art. 113, art. 115, art. 116 i art. 118, prowadzenia działań kontrolnych w zakresie określonym w ustawie, dostępu do danych zbiorczych i statystycznych;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **7)** minister właściwy do spraw gospodarki w celu: prowadzenia działań kontrolnych w zakresie określonym w ustawie, dostępu do danych zbiorczych i statystycznych;
+    - **a)**
+    - **b)**
+
+- **8)** Policja w celu realizacji zadań ustawowych Policji;
+- **9)** Żandarmeria Wojskowa w celu realizacji zadań ustawowych Żandarmerii Wojskowej;
+- **10)** Agencja Wywiadu w celu realizacji zadań ustawowych Agencji Wywiadu;
+- **11)** Agencja Bezpieczeństwa Wewnętrznego w celu realizacji zadań ustawowych Agencji Bezpieczeństwa Wewnętrznego;
+- **12)** Służba Kontrwywiadu Wojskowego w celu realizacji zadań ustawowych Służby Kontrwywiadu Wojskowego;
+- **13)** Służba Wywiadu Wojskowego w celu realizacji zadań ustawowych Służby Wywiadu Wojskowego;
+- **14)** Centralne Biuro Antykorupcyjne w celu realizacji zadań ustawowych Centralnego Biura Antykorupcyjnego;
+- **15)** Straż Graniczna w celu realizacji zadań ustawowych Straży Granicznej;
+- **16)** Służba Celno-Skarbowa w celu realizacji zadań ustawowych Służby Celno-Skarbowej;
+- **17)** Służba Ochrony Państwa w celu realizacji zadań ustawowych Służby Ochrony Państwa.
+
+### Dział V Kontrola działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym
 
 **Art. 122.** Do kontroli działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 **Art. 123.** Przedsiębiorca wykonujący działalność gospodarczą w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym podlega kontroli, którą sprawują:
+
+- **1)** organ koncesyjny – w zakresie: zgodności wykonywanej działalności gospodarczej z wydaną koncesją, przestrzegania warunków wykonywania działalności gospodarczej, oceny wykonywanej działalności gospodarczej z punktu widzenia obronności lub bezpieczeństwa państwa albo porządku publicznego;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** minister właściwy do spraw gospodarki – w zakresie sposobu i zgodności z przepisami ustawy realizacji transakcji dokonanych na podstawie zezwoleń, certyfikatów importowych oraz poświadczonych oświadczeń końcowego użytkownika, o których mowa w art. 97 i art. 98;
+- **3)** inne organy państwowe: wyspecjalizowane w kontroli danego rodzaju działalności, upoważnione przez organ koncesyjny – w zakresie wskazanym przez ten organ, w zakresie swojej właściwości i kompetencji określonych w odrębnych przepisach;
+    - **a)**
+    - **b)**
+
+- **4)** komendanci wojewódzcy Policji – w zakresie określonym w pkt 1, w odniesieniu do wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, a także ich przechowywania i ewidencjonowania.
 
 **Art. 124.**
 
@@ -1614,11 +1523,18 @@ Art. 143–153. (pominięte)
 
 4. Kontrolujący może utrwalić przebieg kontroli za pomocą technik fotograficznych i audiowizualnych. Nośniki obrazu i dźwięku, na których utrwalono przebieg kontroli, załącza się do protokołu kontroli.
 
-5. Jeżeli protokół kontroli zawiera ustalenia dające podstawę do wszczęcia postępowania w sprawie cofnięcia koncesji, organy określone w art. 123 pkt 2– 4 przekazują kopię tego protokołu organowi koncesyjnemu w terminie 14 dni od dnia zakończenia kontroli.
+5. Jeżeli protokół kontroli zawiera ustalenia dające podstawę do wszczęcia postępowania w sprawie cofnięcia koncesji, organy określone w art. 123 pkt 2–4 przekazują kopię tego protokołu organowi koncesyjnemu w terminie 14 dni od dnia zakończenia kontroli.
 
 **Art. 127.** Osoby upoważnione do przeprowadzenia kontroli są uprawnione do:
 
+- **1)** swobodnego wstępu na teren nieruchomości, obiektów, lokali lub ich części, gdzie jest wykonywana działalność gospodarcza określona w koncesji, w tym na teren obszarów i obiektów, w których są przechowywane materiały wybuchowe, broń, amunicja oraz wyroby i technologia o przeznaczeniu wojskowym lub policyjnym;
+- **2)** żądania ustnych lub pisemnych wyjaśnień, okazania dokumentów lub innych nośników informacji oraz udostępnienia danych i przedmiotów mających związek z zakresem kontroli;
+- **3)** sporządzania lub żądania sporządzenia niezbędnych do kontroli kopii, odpisów lub wyciągów z dokumentów oraz zestawień i obliczeń.
+
 **Art. 128.** Kontrolowany przedsiębiorca ma obowiązek:
+
+- **1)** zapewnienia osobom upoważnionym do przeprowadzenia kontroli warunków niezbędnych do sprawnego przeprowadzenia kontroli, w szczególności przez zapewnienie niezwłocznego przedstawiania żądanych dokumentów, terminowego udzielania ustnych i pisemnych wyjaśnień w sprawach objętych kontrolą oraz, w miarę możliwości, oddzielnego pomieszczenia;
+- **2)** sporządzania niezbędnych do kontroli kopii dokumentów, w tym wydruków z nośników informacji, a także informatycznych nośników danych, wskazanych przez osobę upoważnioną do przeprowadzenia kontroli.
 
 **Art. 129.**
 
@@ -1626,7 +1542,7 @@ Art. 143–153. (pominięte)
 
 2. Organ uprawniony do przeprowadzenia kontroli, w przypadku posiadania informacji o możliwych nieprawidłowościach w wykonywanej działalności gospodarczej określonej w koncesji, może wezwać przedsiębiorcę do złożenia pisemnych wyjaśnień oraz przekazania dokumentów w celu zweryfikowania posiadanych informacji oraz ustalenia, czy przedsiębiorca spełnia warunki wykonywania działalności gospodarczej określonej w koncesji.
 
-### DZIAŁ VI Oczyszczanie terenów z materiałów wybuchowych i niebezpiecznych
+### Dział VI Oczyszczanie terenów z materiałów wybuchowych i niebezpiecznych
 
 **Art. 130.**
 
@@ -1636,13 +1552,13 @@ Art. 143–153. (pominięte)
 
 3. Oczyszczanie terenów z materiałów wybuchowych i niebezpiecznych wykonują przedsiębiorcy prowadzący działalność gospodarczą w tym zakresie. Oczyszczanie terenów z materiałów wybuchowych i niebezpiecznych pochodzenia wojskowego mogą wykonywać Siły Zbrojne Rzeczypospolitej Polskiej.
 
-4. Przedsiębiorca wykonujący oczyszczanie terenu z materiałów wybuchowych i niebezpiecznych jest obowiązany do zwrotu kosztów oczyszczania tego terenu z materiałów wybuchowych i niebezpiecznych pochodzenia wojskowego, poniesionych przez jednostkę Sił Zbrojnych Rzeczypospolitej Polskiej z tytułu specjalistycznych usług wojskowych w rozumieniu art. 11a ustawy z dnia 25 maja 2001 r. o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 161) .
+4. Przedsiębiorca wykonujący oczyszczanie terenu z materiałów wybuchowych i niebezpiecznych jest obowiązany do zwrotu kosztów oczyszczania tego terenu z materiałów wybuchowych i niebezpiecznych pochodzenia wojskowego, poniesionych przez jednostkę Sił Zbrojnych Rzeczypospolitej Polskiej z tytułu specjalistycznych usług wojskowych w rozumieniu art. 11a ustawy z dnia 25 maja 2001 r. o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2018 r. poz. 37 i 1669 oraz z 2019 r. poz. 14).
 
 **Art. 131.** Wojewodowie, w porozumieniu z Szefem Inspektoratu Wsparcia Sił Zbrojnych, wyznaczą miejsca przeznaczone do niszczenia znalezionych materiałów wybuchowych i niebezpiecznych.
 
 **Art. 132.** Rada Ministrów określi, w drodze rozporządzenia, szczegółowe warunki oczyszczania terenów z materiałów wybuchowych i niebezpiecznych oraz tryb i sposób zgłaszania i sposób zabezpieczania tych materiałów, w tym zakres udziału Sił Zbrojnych Rzeczypospolitej Polskiej w oczyszczaniu terenów, oraz sposób i tryb wyznaczania miejsc przeznaczonych do niszczenia materiałów wybuchowych i niebezpiecznych, mając na względzie ochronę życia lub zdrowia ludzkiego, mienia oraz środowiska naturalnego.
 
-### DZIAŁ VII Przepisy karne oraz przepisy o karach administracyjnych
+### Dział VII Przepisy karne oraz przepisy o karach administracyjnych
 
 **Art. 133.**
 
@@ -1680,12 +1596,6 @@ Art. 143–153. (pominięte)
 
 2. Tej samej karze podlega, kto dopuszcza się czynu, o którym mowa w ust. 1, działając w imieniu lub interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
 
-**Art. 136a.**
-
-1. Kto, będąc przedsiębiorcą sprzedaje broń alarmową i sygnałową, nie przekazując nabywcy kopii świadectwa broni alarmowej i sygnałowej wydanego dla tego typu lub modelu broni potwierdzającego, że ta broń nie została uznana za broń palną, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-2. Tej samej karze podlega, kto dopuszcza się czynu, o którym mowa w ust. 1, działając w imieniu lub interesie osoby fizycznej, osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
-
 **Art. 137.**
 
 1. Kto, wykonując działalność gospodarczą w zakresie wytwarzania i obrotu strzelecką bronią palną, nie dopełnia obowiązku ewidencjonowania tej broni, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 3.
@@ -1714,13 +1624,390 @@ Art. 143–153. (pominięte)
 
 **Art. 142.** Przedsiębiorcy, który nie wykonuje obowiązku, o którym mowa w art. 62, art. 89 ust. 3 albo art. 97, minister właściwy do spraw gospodarki może wymierzyć, w drodze decyzji, karę pieniężną w wysokości do 50 000 zł.
 
-### DZIAŁ VIII Przepisy zmieniające, przejściowe, dostosowujące i końcowe
+### Dział VIII Przepisy zmieniające, przejściowe, dostosowujące i końcowe
 
 #### Rozdział 1 Przepisy zmieniające
+
+**Art. 143.** W ustawie z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2019 r. poz. 284) wprowadza się następujące zmiany:
+
+- **1)** w art. 3 w pkt 1 po wyrazach „Służby Wywiadu Wojskowego” dodaje się wyrazy „funkcjonariuszy oddelegowanych do Biura Nadzoru Wewnętrznego,”;
+- **2)** uchyla się art. 6a;
+- **3)** w art. 10a: w ust. 5 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** danych identyfikacyjnych broni palnej wraz ze wskazaniem kategorii broni palnej; ” , w ust. 8 uchyla się pkt 1;
+    - **b)**
+
+- **4)** w art. 15 w ust. 6 i w art. 16 w ust. 2 wyrazy „Biura Ochrony Rządu” zastępuje się wyrazami „Służby Ochrony Państwa”;
+- **5)** w art. 43a ust. 3 otrzymuje brzmienie: „
+
+3. W zakresie nieuregulowanym niniejszą ustawą do przemieszczania broni między obywatelami państw członkowskich Unii Europejskiej stosuje się odpowiednio przepisy działu III rozdziału 3 oddziału 2 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. poz. 1214), z wyłączeniem art. 72, art. 74, art. 75, art. 76 ust. 2, art. 77, art. 78 oraz art. 80. ” .
+
+**Art. 144.** W ustawie z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2019 r. poz. 953) wprowadza się następujące zmiany:
+
+- **1)** w art. 21c ust. 4 otrzymuje brzmienie: „
+
+4. W przypadku przywozu lub transferu wewnątrzunijnego na terytorium Rzeczypospolitej Polskiej towarów i technologii związanych z ochroną informacji niejawnych podmiot zamieszkujący albo mający siedzibę na terytorium Rzeczypospolitej Polskiej jest obowiązany dołączyć do zgłoszenia kopię koncesji na wykonywanie działalności w zakresie obrotu towarami i technologiami o przeznaczeniu wojskowym lub policyjnym, o której mowa w ustawie z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. poz. 1214), o ile jest wymagana. ” ;
+
+- **2)** w art. 21g w ust. 2 pkt 3 otrzymuje brzmienie: „
+- **3)** numer koncesji na obrót uzbrojeniem, o której mowa w ustawie z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym. ” .
+
+**Art. 145.** W ustawie z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2019 r. poz. 45, 55 i 60) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 ust. 5 otrzymuje brzmienie: „
+
+5. Przepisów ustawy, z wyjątkiem art. 9 ust. 9, nie stosuje się do amunicji. ” ;
+
+- **2)** w art. 3: uchyla się pkt 1, w pkt 15 część wspólna otrzymuje brzmienie: „ – na terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, która odbiera materiały wybuchowe przeznaczone do użytku cywilnego, z wyłączeniem wyrobów pirotechnicznych; ” , pkt 26 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **26)** przemieszczaniu – należy przez to rozumieć każde rzeczywiste przekazanie materiałów wybuchowych przeznaczonych do użytku cywilnego, z wyłączeniem wyrobów pirotechnicznych, w ramach państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym i Konfederacji Szwajcarskiej, z wyjątkiem przekazania w obrębie jednej i tej samej lokalizacji; ” ;
+- **3)** w art. 4 ust. 3 otrzymuje brzmienie: „
+
+3. Klasyfikacji substancji lub wyrobu jako materiału wybuchowego przeznaczonego do użytku cywilnego oraz nadania mu kodu klasyfikacyjnego dokonują jednostki organizacyjne upoważnione przez ministra właściwego do spraw gospodarki, na podstawie art. 9 ust. 2 ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2019 r. poz. 382, 534, 730 i 1123), do prowadzenia badań, klasyfikacji oraz określania warunków dopuszczania do przewozu materiałów niebezpiecznych klas 1, 4.1 i 9, wymienionych w załączniku A. ” ;
+
+- **4)** uchyla się art. 6;
+- **5)** art. 7 otrzymuje brzmienie: „ Zasady wykonywania działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi przeznaczonymi do użytku cywilnego określają przepisy ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. poz. 1214). ” ;
+- **6)** w art. 7a ust. 1 otrzymuje brzmienie: „
+
+1. Materiały wybuchowe przeznaczone do użytku cywilnego przechowuje się w pomieszczeniach spełniających wymagania określone w przepisach wydanych na podstawie art. 33 ust. 4 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym. ” ;
+
+- **7)** w art. 9 w ust. 3 pkt 3 otrzymuje brzmienie: „
+- **3)** posiada pomieszczenia spełniające wymagania określone w przepisach wydanych na podstawie art. 33 ust. 4 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym; ” ;
+- **8)** w art. 15 w ust. 1 pkt 3 i 4 otrzymują brzmienie: „
+- **3)** określenie celu nabycia materiałów wybuchowych przeznaczonych do użytku cywilnego, zakresu prac, do jakich będą one używane, a także szczegółowych warunków bezpieczeństwa przy prowadzeniu tych prac;
+- **4)** określenie rodzajów materiałów wybuchowych przeznaczonych do użytku cywilnego lub wytwarzanych materiałów wybuchowych metodą in situ , przez podanie ich nazw handlowych i numerów rozpoznawczych ustalonych przez Organizację Narodów Zjednoczonych oraz kodów klasyfikacyjnych, określonych w załączniku A; ” ;
+- **9)** w art. 18: w ust. 1 pkt 5 i 6 otrzymują brzmienie: „
+    - **a)**
+
+- **5)** zapewnić bezpieczne przechowywanie materiałów wybuchowych przeznaczonych do użytku cywilnego lub materiałów wybuchowych znalezionych podczas oczyszczania terenów, zgodnie z wymaganiami określonymi w przepisach wydanych na podstawie art. 33 ust. 4 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym albo wydanych na podstawie art. 21 ust. 4;
+- **6)** prowadzić ewidencję nabytych, zużytych, przechowywanych i zbytych materiałów wybuchowych przeznaczonych do użytku cywilnego wraz ze wskazaniem nazwy producenta oraz alfanumerycznego kodu, w rozumieniu art. 62va ust. 2, lub znalezionych i zniszczonych materiałów wybuchowych podczas wykonywania działalności gospodarczej w zakresie oczyszczania terenów ze wskazaniem nazwy producenta oraz alfanumerycznego kodu, o ile występuje; ” , ust. 1c otrzymuje brzmienie: „
+    - **b)**
+
+1c. Materiały wybuchowe przeznaczone do użytku cywilnego nabywane, przechowywane lub używane w związku z wykonywaniem działalności gospodarczej, o której mowa w art. 10 ust. 2, ewidencjonuje się zgodnie z przepisami art. 115 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2019 r. poz. 868) oraz przepisami wydanymi na podstawie art. 120 ust. 2 tej ustawy. ” , w ust. 2 pkt 1 otrzymuje brzmienie: „
+
+- **c)**
+- **1)** pełnej rejestracji materiałów wybuchowych przeznaczonych do użytku cywilnego nabytych, zużytych, przechowywanych i zbytych, a także materiałów wybuchowych znalezionych i zniszczonych podczas wykonywania działalności gospodarczej w zakresie oczyszczania terenów; ” ;
+- **10)** w art. 20 ust. 7 otrzymuje brzmienie: „
+
+7. Przepisów art. 19 pkt 2 nie stosuje się do osób, które posiadają kwalifikacje określone w ustawie z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze. ” ;
+
+- **11)** w art. 24 w ust. 4 w pkt 3 lit. a otrzymuje brzmienie: „ koncesję na wytwarzanie materiałów wybuchowych albo obrót tymi materiałami – w przypadku przedsiębiorcy albo jednostki naukowej albo ” ;
+    - **a)**
+
+- **12)** w art. 25: pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** w przypadku gdy odbiorcą jest przedsiębiorca albo jednostka naukowa – kopię koncesji na wytwarzanie materiałów wybuchowych albo obrót tymi materiałami; ” , pkt 3 otrzymuje brzmienie: „
+    - **b)**
+
+- **3)** kopię deklaracji zgodności dla materiałów wybuchowych przeznaczonych do użytku cywilnego wraz z jej tłumaczeniem dokonanym z języka obcego na język polski przez tłumacza przysięgłego. ” ;
+- **13)** w art. 27 ust. 2 otrzymuje brzmienie: „
+
+2. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, wzór wniosku o wydanie zgody na przemieszczanie materiałów wybuchowych przeznaczonych do użytku cywilnego, mając na celu kompletność zawartych we wniosku informacji oraz ujednolicenie i ułatwienie poprawnego sporządzenia wniosku. ” ;
+
+- **14)** w art. 28 w pkt 3 lit. a otrzymuje brzmienie: „ koncesję na wytwarzanie materiałów wybuchowych albo obrót tymi materiałami – w przypadku przedsiębiorcy albo jednostki naukowej albo ” ;
+    - **a)**
+
+- **15)** w art. 29 w ust. 2 pkt 1 otrzymuje brzmienie: „
+- **1)** została cofnięta koncesja na wytwarzanie materiałów wybuchowych albo obrót tymi materiałami albo został cofnięty dokument wewnątrzwspólnotowego przemieszczania materiałów wybuchowych; ” ;
+- **16)** po art. 35 dodaje się art. 35a w brzmieniu: „ Przemieszczane przez przedsiębiorcę albo jednostkę naukową materiały wybuchowe przeznaczone do użytku cywilnego podlegają ewidencjonowaniu na podstawie art. 59 ust. 1–3 i 6 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym oraz przepisów wykonawczych wydanych na podstawie art. 59 ust. 7 tej ustawy. ” ;
+- **17)** uchyla się art. 37–41;
+- **18)** art. 62v otrzymuje brzmienie: „
+
+1. Producent materiału wybuchowego przeznaczonego do użytku cywilnego, z wyjątkiem wytwarzanego materiału wybuchowego metodą in situ , jest obowiązany do:
+
+- **1)** zapewnienia, że materiał wybuchowy przeznaczony do użytku cywilnego został zaprojektowany i wytworzony zgodnie z wymaganiami bezpieczeństwa;
+- **2)** sporządzenia dokumentacji technicznej materiału wybuchowego przeznaczonego do użytku cywilnego;
+- **3)** zlecenia jednostce notyfikowanej przeprowadzenia procedury oceny zgodności zgodnie z przepisami wydanymi na podstawie art. 2g ust. 1;
+- **4)** w przypadku wykazania zgodności materiału wybuchowego przeznaczonego do użytku cywilnego z wymaganiami bezpieczeństwa – sporządzenia deklaracji zgodności i umieszczenia na tym materiale: oznakowania CE w sposób widoczny, czytelny i trwały, numeru identyfikacyjnego jednostki notyfikowanej zaangażowanej na etapie kontroli produkcji umieszczonego za oznakowaniem CE według wskazań tej jednostki, jeżeli numeru identyfikacyjnego nie umieściła wcześniej sama jednostka notyfikowana, w stosownych przypadkach znaków wskazujących na szczególne zagrożenie lub zastosowanie materiału wybuchowego przeznaczonego do użytku cywilnego;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **5)** w przypadku gdy umieszczenie oznakowania, numeru lub znaków, o których mowa w pkt 4, nie jest możliwe ze względu na wielkość, kształt lub właściwości materiału wybuchowego przeznaczonego do użytku cywilnego – umieszczenia oznakowania, numeru lub znaków na opakowaniu jednostkowym lub na dokumentach towarzyszących;
+- **6)** w przypadku materiałów wybuchowych przeznaczonych do użytku cywilnego transportowanych i dostarczanych bez opakowania lub na ciężarówkach z zamontowanymi pompami w celu bezpośredniego wyładowania do otworu strzałowego – umieszczenia na dokumentach towarzyszących oznakowania CE;
+- **7)** umieszczenia na materiale wybuchowym przeznaczonym do użytku cywilnego oraz na najmniejszej jednostce jego opakowania jednoznacznego oznaczenia, o którym mowa w art. 62va ust. 1, lub, w przypadkach wskazanych w art. 62va ust. 5 i 7, jednoznacznego oznaczenia obejmującego niektóre jego elementy;
+- **8)** znakowania plastycznych materiałów wybuchowych przeznaczonych do użytku cywilnego przez równomierne rozmieszczenie w nim materiału znakującego, rozumianego jako jedna z substancji wymienionych w części 2. „Materiały znakujące” załącznika technicznego do Konwencji, dodanego w ilości wskazanej w tej części załącznika technicznego, z tym że znakowaniu nie podlegają plastyczne materiały wybuchowe przechowywane lub stosowane w sposób określony w części 1 ust. II lit. a-c załącznika technicznego do Konwencji;
+- **9)** dołączenia do materiału wybuchowego przeznaczonego do użytku cywilnego instrukcji obsługi oraz informacji dotyczących bezpieczeństwa, sporządzonych w jasnej, zrozumiałej i czytelnej formie, w języku polskim;
+- **10)** stosowania procedury mającej na celu zapewnienie zgodności produkcji seryjnej materiału wybuchowego przeznaczonego do użytku cywilnego z wymaganiami bezpieczeństwa, w tym również w przypadku wprowadzenia zmian w projekcie i cechach charakterystycznych materiału, a także zmian w normach zharmonizowanych lub innych dokumentach określających wymagania techniczne, w odniesieniu do których jest deklarowana zgodność tego materiału;
+- **11)** oznaczenia obiektu produkcyjnego, w którym wytwarzane są materiały wybuchowe przeznaczone do użytku cywilnego, trzycyfrowym kodem;
+- **12)** prowadzenia rejestru jednoznacznych oznaczeń, o których mowa w pkt 7, zgodnie z wymaganiami określonymi w art. 62vc;
+- **13)** przechowywania danych zamieszczonych w rejestrze jednoznacznych oznaczeń, o którym mowa w pkt 12, przez okres 10 lat, licząc od dnia dostarczenia materiału wybuchowego przeznaczonego do użytku cywilnego lub do momentu zużycia lub unieszkodliwienia tego materiału, o ile jest znany. Obowiązek przechowywania danych nie wygasa mimo zaprzestania wykonywania działalności w zakresie sprzedaży materiałów wybuchowych przeznaczonych do użytku cywilnego, których jednoznaczne oznaczenie jest przechowywane w rejestrze jednoznacznych oznaczeń;
+- **14)** przechowywania dokumentacji technicznej, o której mowa w pkt 2, oraz deklaracji zgodności przez okres 10 lat od dnia wprowadzenia do obrotu materiału wybuchowego przeznaczonego do użytku cywilnego;
+- **15)** w przypadku stwierdzenia, że wprowadzony do obrotu materiał wybuchowy przeznaczony do użytku cywilnego jest niezgodny z wymaganiami ustawy, lub powzięcia wątpliwości w tym zakresie – niezwłocznego podjęcia środków naprawczych w celu zapewnienia zgodności tego materiału lub jego wycofania z obrotu, lub odzyskania, stosownie do okoliczności;
+- **16)** niezwłocznego informowania organów nadzoru rynku, o których mowa w art. 62zc ust. 4, a także organów nadzoru rynku w pozostałych państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym i Konfederacji Szwajcarskiej, w których materiał wybuchowy przeznaczony do użytku cywilnego został udostępniony, o materiałach stwarzających zagrożenie dla bezpieczeństwa, przez podawanie szczegółowych informacji, w szczególności o niezgodności tych materiałów z wymaganiami ustawy oraz o podjętych środkach naprawczych;
+- **17)** udostępnienia, na żądanie organów nadzoru rynku, o których mowa w art. 62zc, informacji i dokumentów, w postaci papierowej lub elektronicznej, w języku polskim, koniecznych do wykazania zgodności materiału wybuchowego przeznaczonego do użytku cywilnego z wymaganiami ustawy oraz współpracy z tymi organami we wszelkich działaniach ukierunkowanych na usunięcie zagrożeń, jakie stwarza ten materiał;
+- **18)** przekazywania, na żądanie uprawnionych organów i służb państwowych, danych zamieszczonych w rejestrze jednoznacznych oznaczeń, w trybie określonym w art. 62vc ust. 9–12.
+
+2. Obowiązki, o których mowa w ust. 1 pkt 1–11, producent materiału wybuchowego przeznaczonego do użytku cywilnego wykonuje przed wprowadzeniem tego materiału do obrotu.
+
+3. Przepisu ust. 1 pkt 7 nie stosuje się w przypadku:
+
+- **1)** wytworzonych materiałów wybuchowych przeznaczonych do użytku cywilnego, które są przedmiotem wywozu poza terytorium państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym oraz Konfederacji Szwajcarskiej i zostały oznaczone zgodnie z przepisami państwa przeznaczenia;
+- **2)** materiałów wybuchowych przeznaczonych do użytku cywilnego transportowanych i dostarczanych bez opakowania lub na ciężarówkach z zamontowanymi pompami w celu bezpośredniego wyładowania do otworu strzałowego;
+- **3)** materiałów wybuchowych przeznaczonych do użytku cywilnego wytworzonych metodą in situ ;
+- **4)** materiałów wybuchowych przeznaczonych do użytku cywilnego charakteryzujących się niskim stopniem zagrożenia, takich jak: lonty będące niedetonującymi urządzeniami zapalającymi o kształcie sznura, lonty prochowe, które składają się z rdzenia z drobnoziarnistego prochu czarnego otoczonego elastyczną tkaniną, z jednym lub kilkoma zewnętrznymi pokryciami zabezpieczającymi i które po zapaleniu palą się w określonym tempie bez zewnętrznego efektu wybuchowego, spłonki kapsułkowe, które składają się z kapsułki metalowej lub z tworzywa sztucznego, zawierającej niewielką ilość mieszaniny inicjującej, łatwo zapalającej się przy uderzeniu, i które są stosowane jako elementy zapalające w nabojach do broni strzeleckiej lub w spłonkach nabojowych do ładunków miotających. ” ;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **19)** po art. 62v dodaje się art. 62va-62ve w brzmieniu: „
+
+1. Jednoznaczne oznaczenie umieszczane na materiale wybuchowym przeznaczonym do użytku cywilnego oraz na najmniejszej jednostce jego opakowania obejmuje nazwę producenta, alfanumeryczny kod oraz oznaczenie do odczytu elektronicznego.
+
+2. Alfanumeryczny kod składa się z:
+
+- **1)** dwóch liter wskazujących państwo członkowskie Unii Europejskiej, państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym lub Konfederację Szwajcarską, w którym ma siedzibę producent lub importer materiału wybuchowego;
+- **2)** trzech cyfr stanowiących kod oznaczenia obiektu produkcyjnego;
+- **3)** kombinacji liter i cyfr stanowiących jednoznaczny kod produktu i informację logistyczną sporządzoną przez przedsiębiorcę, który w państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej wytwarza materiał wybuchowy.
+
+3. Oznaczenie państwa producenta lub importera materiału wybuchowego przeznaczonego do użytku cywilnego mającego siedzibę na terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej powinno być zgodne z kodem nazw państw oraz ich jednostek organizacyjnych określonym w Polskiej Normie PN-ISO 3166–1:2008 w części pierwszej: Kody krajów.
+
+4. Oznaczenie do odczytu elektronicznego zawiera informacje zawarte w alfanumerycznym kodzie. Oznaczenie to umieszcza się na materiale wybuchowym przeznaczonym do użytku cywilnego w formie kodu kreskowego lub kodu matrycowego.
+
+5. W przypadku materiałów wybuchowych przeznaczonych do użytku cywilnego, które są zbyt małe, aby umieścić na nich jednoznaczny kod produktu i informację logistyczną, o których mowa w ust. 2 pkt 3, na materiale umieszcza się jednoznaczne oznaczenie obejmujące:
+
+- **1)** dwie litery wskazujące państwo członkowskie Unii Europejskiej, państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym lub Konfederację Szwajcarską, w którym ma siedzibę producent lub importer materiału wybuchowego;
+- **2)** trzy cyfry stanowiące kod oznaczenia obiektu produkcyjnego;
+- **3)** oznaczenie do odczytu elektronicznego.
+
+6. W przypadku gdy umieszczenie jednoznacznego oznaczenia zgodnie z ust. 5 jest technicznie niemożliwe z uwagi na wielkość, kształt lub właściwości materiału wybuchowego przeznaczonego do użytku cywilnego, jednoznaczne oznaczenie umieszcza się na najmniejszej jednostce opakowania.
+
+7. Na spłonkach lub pobudzaczach wybuchowych, których wielkość, kształt lub właściwości uniemożliwiają umieszczenie jednoznacznego oznaczenia zgodnie z ust. 5, umieszcza się jednoznaczne oznaczenie obejmujące:
+
+- **1)** dwie litery wskazujące państwo członkowskie Unii Europejskiej, państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym lub Konfederację Szwajcarską, w którym ma siedzibę producent lub importer materiału wybuchowego;
+- **2)** trzy cyfry stanowiące kod oznaczenia obiektu produkcyjnego. Liczbę spłonek i pobudzaczy wybuchowych umieszcza się na najmniejszej jednostce opakowania przez bezpośredni nadruk.
+
+8. W przypadku lontów detonujących, których wielkość, kształt lub właściwości uniemożliwiają umieszczenie jednoznacznego oznaczenia zgodnie z ust. 5, jednoznaczne oznaczenie umieszcza się na motku lub szpuli.
+
+9. W przypadku materiałów wybuchowych przeznaczonych do użytku cywilnego o niskim stopniu zagrożenia, zamiast jednoznacznego oznaczenia, na materiale, a jeżeli nie jest to możliwe z uwagi na małe rozmiary, kształt lub właściwości materiału wybuchowego, na opakowaniu lub dokumentach towarzyszących, umieszcza się informacje umożliwiające identyfikację tego materiału, w tym w szczególności: nazwę typu, zarejestrowaną nazwę handlową, zarejestrowany znak towarowy, o ile taki posiada, numer partii lub serii, a także nazwę producenta oraz adres jego siedziby albo miejsca zamieszkania; dane kontaktowe są podawane w języku polskim.
+
+10. Jednoznaczne oznaczenie umieszcza się na materiale wybuchowym przeznaczonym do użytku cywilnego w sposób czytelny i trwały w postaci bezpośredniego nadruku, pieczęci lub przytwierdzonej etykiety samoprzylepnej.
+
+11. Przedsiębiorca może dołączyć do materiałów wybuchowych przeznaczonych do użytku cywilnego do wykorzystania przez odbiorców tych materiałów dodatkowe wyraźnie oznaczone etykiety samoprzylepne będące kopią oryginalnych etykiet zawierających jednoznaczne oznaczenie. Na kopii oryginalnej etykiety zawierającej jednoznaczne oznaczenie przedsiębiorca umieszcza pod kodem kreskowym lub matrycowym wyraz „KOPIA”.
+
+12. Najmniejszą jednostkę opakowania zapieczętowuje się.
+
+13. W przypadku gdy materiał wybuchowy przeznaczony do użytku cywilnego, który został oznaczony jednoznacznym oznaczeniem, podlega dalszemu procesowi produkcyjnemu, nie jest wymagane ponowne jego oznaczenie jednoznacznym oznaczeniem, o ile pierwotne oznaczenie zostało zachowane i jest czytelne.
+
+1. Kod oznaczenia obiektu produkcyjnego, o którym mowa w art. 62va ust. 2 pkt 2, nadaje, w drodze decyzji, minister właściwy do spraw gospodarki, na wniosek przedsiębiorcy.
+
+2. Wniosek, o którym mowa w ust. 1, zawiera:
+
+- **1)** oznaczenie przedsiębiorcy wnioskującego o nadanie kodu oznaczenia obiektu produkcyjnego, jego numer identyfikacji podatkowej (NIP), adres jego siedziby lub miejsca zamieszkania oraz dane kontaktowe;
+- **2)** oznaczenie koncesji na wykonywanie działalności gospodarczej posiadanej przez wnioskodawcę;
+- **3)** rodzaj wytwarzanych materiałów wybuchowych przeznaczonych do użytku cywilnego;
+- **4)** nazwę oraz adres obiektu produkcyjnego.
+
+3. Do wniosku, o którym mowa w ust. 1, dołącza się uwierzytelnioną kopię dokumentu uprawniającego przedsiębiorcę posiadającego obiekt produkcyjny objęty wnioskiem zlokalizowany poza terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej do wytwarzania materiałów wybuchowych przeznaczonych do użytku cywilnego, wydanego przez właściwy organ państwa, na terytorium którego obiekt ten się znajduje.
+
+4. W przypadku gdy kolejny numer kodu oznaczenia obiektu produkcyjnego składa się z cyfr w liczbie mniejszej niż trzy, poprzedza się go odpowiednią liczbą zer.
+
+5. Kod oznaczenia obiektu produkcyjnego umieszcza się w widocznym miejscu na tym obiekcie.
+
+6. Wniosek może być złożony za pośrednictwem środków komunikacji elektronicznej, po opatrzeniu kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym.
+
+7. Minister właściwy do spraw gospodarki prowadzi rejestr obiektów produkcyjnych, którym nadał kod oznaczenia obiektu produkcyjnego.
+
+8. Rejestr obiektów produkcyjnych, o którym mowa w ust. 7, zawiera następujące informacje:
+
+- **1)** oznaczenie przedsiębiorcy wnioskującego o nadanie kodu oznaczenia obiektu produkcyjnego, jego numer identyfikacji podatkowej (NIP), adres jego siedziby lub miejsca zamieszkania oraz dane kontaktowe;
+- **2)** oznaczenie koncesji na wykonywanie działalności gospodarczej posiadanej przez wnioskodawcę;
+- **3)** rodzaj wytwarzanych materiałów wybuchowych przeznaczonych do użytku cywilnego;
+- **4)** nazwę oraz adres obiektu produkcyjnego;
+- **5)** oznaczenie dokumentu uprawniającego przedsiębiorcę posiadającego obiekt produkcyjny zlokalizowany poza terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej do wytwarzania materiałów wybuchowych przeznaczonych do użytku cywilnego, wydanego przez właściwy organ państwa, na terytorium którego obiekt ten się znajduje;
+- **6)** nadany kod oznaczenia obiektu produkcyjnego;
+- **7)** oznaczenie decyzji ministra właściwego do spraw gospodarki w sprawie nadania kodu oznaczenia obiektu produkcyjnego.
+
+9. Wnioskodawca jest obowiązany zgłaszać ministrowi właściwemu do spraw gospodarki zmiany dotyczące danych zawartych we wniosku w terminie 7 dni od dnia ich powstania.
+
+10. W przypadku dokumentów dołączanych do wniosku sporządzonych w języku obcym należy dołączyć dokonane przez tłumacza przysięgłego tłumaczenia tych dokumentów na język polski.
+
+1. Rejestr jednoznacznych oznaczeń, o którym mowa w art. 62v ust. 1 pkt 12, art. 62x ust. 1 pkt 7 oraz art. 62y ust. 1 pkt 3, zawiera informacje o:
+
+- **1)** jednoznacznym oznaczeniu materiału wybuchowego przeznaczonego do użytku cywilnego;
+- **2)** osobie fizycznej lub prawnej lub jednostce organizacyjnej nieposiadającej osobowości prawnej, która sprawuje nadzór nad materiałem wybuchowym przeznaczonym do użytku cywilnego;
+- **3)** miejscu przechowywania materiału wybuchowego przeznaczonego do użytku cywilnego w okresie, gdy jest on w posiadaniu przedsiębiorcy lub pod jego nadzorem, dopóki nie zostanie przekazany innemu przedsiębiorcy, zużyty lub unieszkodliwiony.
+
+2. W zakresie dotyczącym:
+
+- **1)** osoby fizycznej – rejestr jednoznacznych oznaczeń zawiera: imię i nazwisko, numer PESEL lub serię i numer dokumentu tożsamości, adres miejsca zamieszkania, dane kontaktowe;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **2)** osoby prawnej – rejestr jednoznacznych oznaczeń zawiera: nazwę, numer z Krajowego Rejestru Sądowego, numer identyfikacji podatkowej (NIP) albo numer identyfikacyjny używany w państwie siedziby, adres siedziby, imię i nazwisko, stanowisko oraz dane kontaktowe osoby upoważnionej do reprezentowania tej osoby prawnej w zakresie dotyczącym rejestru jednoznacznych oznaczeń.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+3. Rejestr jednoznacznych oznaczeń jest prowadzony w formie pisemnej.
+
+4. Załącznikiem do rejestru jednoznacznych oznaczeń jest ewidencja materiałów wybuchowych przeznaczonych do użytku cywilnego wraz z dokumentami stanowiącymi podstawę do dokonania wpisów w tej ewidencji.
+
+5. W celu zapewnienia ochrony danych zgromadzonych w rejestrze jednoznacznych oznaczeń przed przypadkowym lub celowym uszkodzeniem lub zniszczeniem przedsiębiorca:
+
+- **1)** wskazuje osoby upoważnione do prowadzenia tego rejestru;
+- **2)** określa zasady udostępniania pozostałym pracownikom danych zawartych w tym rejestrze;
+- **3)** zapewnia przechowywanie tego rejestru w sejfie lub w pomieszczeniu zabezpieczonym przed swobodnym dostępem osób innych niż wskazane w pkt 1. W przypadku prowadzenia rejestru w sposób, o którym mowa w ust. 6, przedsiębiorca tworzy zapasowe kopie przechowywanych dokumentów oraz zabezpiecza stanowisko komputerowe, na którym rejestr jest prowadzony, przed nieautoryzowanym dostępem.
+
+6. Prowadzenie rejestru jednoznacznych oznaczeń wyłącznie z wykorzystaniem systemu elektronicznego jest dopuszczalne jedynie pod warunkiem stosowania rozwiązań systemowych umożliwiających:
+
+- **1)** ochronę zgromadzonych danych i ich zapasowych kopii przed przypadkowym lub celowym uszkodzeniem lub zniszczeniem;
+- **2)** ochronę zgromadzonych danych przed kradzieżą, zmianą i dostępem osób nieupoważnionych, w tym kradzieżą, zmianą lub dostępem za pomocą wirusów lub programów szpiegujących;
+- **3)** weryfikację zgromadzonych danych na podstawie przechowywanej przez przedsiębiorcę dokumentacji ewidencyjnej.
+
+7. Przedsiębiorca przynajmniej raz do roku sprawdza prawidłowość prowadzenia rejestru jednoznacznych oznaczeń, w szczególności pod względem bezpieczeństwa danych w nim zawartych oraz poprawności gromadzenia tych danych.
+
+8. Rejestr jednoznacznych oznaczeń może stanowić ewidencja materiałów wybuchowych przeznaczonych do użytku cywilnego prowadzona w sposób określony w przepisach wydanych na podstawie:
+
+- **1)** art. 47 ust. 7 oraz art. 59 ust. 7 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym – przez przedsiębiorców wykonujących działalność gospodarczą w zakresie wytwarzania materiałów wybuchowych przeznaczonych do użytku cywilnego lub obrotu takimi materiałami, albo
+- **2)** art. 120 ust. 2 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze – przez przedsiębiorców wykonujących działalność w zakresie wydobywania kopalin ze złóż, albo
+- **3)** art. 18 ust. 2 – przez przedsiębiorców albo jednostki naukowe, prowadzących prace z użyciem materiałów wybuchowych przeznaczonych do użytku cywilnego poza górnictwem na podstawie pozwolenia wojewody – pod warunkiem uwzględnienia w niej informacji, o których mowa w ust. 1.
+
+9. Dane zgromadzone w rejestrze jednoznacznych oznaczeń są udostępniane upoważnionemu pracownikowi organu lub służby państwowej w zakresie wynikającym z przedstawionego upoważnienia tego organu lub służby.
+
+10. Żądanie udostępnienia danych, o których mowa w ust. 9, przedkłada się przedsiębiorcy lub osobie przez niego upoważnionej do udostępniania danych, także poza godzinami pracy tej osoby.
+
+11. Dane, o których mowa w ust. 9, są udostępniane niezwłocznie, pisemnie lub w formie elektronicznej, zgodnie z żądaniem organu lub służby państwowej.
+
+12. Informację zawierającą imię, nazwisko, adres miejsca zamieszkania oraz dane kontaktowe osoby upoważnionej do udostępniania danych, o której mowa w ust. 10, przedsiębiorca przekazuje pisemnie lub w postaci elektronicznej, z zachowaniem przepisów o ochronie danych osobowych, komendantowi wojewódzkiemu Policji, właściwemu ze względu na siedzibę tego przedsiębiorcy.
+
+1. Producent wytwarzanego materiału wybuchowego metodą in situ jest obowiązany do:
+
+- **1)** zapewnienia, że wytwarzany materiał wybuchowy metodą in situ będzie wytwarzany zgodnie z wymaganiami bezpieczeństwa;
+- **2)** sporządzenia dokumentacji technicznej wytwarzanego materiału wybuchowego metodą in situ ;
+- **3)** zlecenia jednostce notyfikowanej przeprowadzenia procedury oceny zgodności zgodnie z przepisami wydanymi na podstawie art. 2g ust. 1;
+- **4)** w przypadku wykazania zgodności wytwarzanego materiału wybuchowego metodą in situ z wymaganiami bezpieczeństwa, sporządzenia deklaracji zgodności i umieszczenia oznakowania CE na dokumentach towarzyszących;
+- **5)** sporządzenia w jasnej, zrozumiałej i czytelnej formie, w języku polskim instrukcji obsługi oraz informacji dotyczących bezpieczeństwa, uwzględniających specyfikę wytwarzanego materiału wybuchowego metodą in situ ;
+- **6)** przechowywania dokumentacji technicznej, o której mowa w pkt 2, oraz deklaracji zgodności, przez okres 10 lat od dnia wytworzenia materiału wybuchowego metodą in situ ;
+- **7)** udostępnienia, na żądanie organów nadzoru rynku, o których mowa w art. 62zc, informacji i dokumentów, w postaci papierowej lub elektronicznej, w języku polskim, koniecznych do wykazania zgodności wytwarzanego materiału wybuchowego metodą in situ z wymaganiami ustawy.
+
+2. Obowiązki, o których mowa w ust. 1 pkt 1–5, producent wytwarzanego materiału wybuchowego metodą in situ wykonuje przed wytworzeniem tego materiału. Minister właściwy do spraw gospodarki, w porozumieniu z ministrem właściwym do spraw wewnętrznych, po zasięgnięciu opinii Szefa Agencji Bezpieczeństwa Wewnętrznego, określi, w drodze rozporządzenia:
+
+- **1)** szczegółowe wymagania w zakresie jednoznacznego oznaczenia materiału wybuchowego przeznaczonego do użytku cywilnego oraz jego opakowania,
+- **2)** wzór wniosku o nadanie kodu oznaczenia obiektu produkcyjnego biorąc pod uwagę konieczność zapewnienia możliwości pełnej identyfikacji oraz identyfikowalności każdego materiału wybuchowego przeznaczonego do użytku cywilnego pozostającego w obrocie na terytorium Rzeczypospolitej Polskiej w celu ograniczenia ryzyka wykorzystania tego materiału w działaniach przestępczych, w tym terrorystycznych. ” ;
+- **20)** w art. 62w w ust. 2 w pkt 2 lit. b otrzymuje brzmienie: „ sporządzenia dokumentacji technicznej, o której mowa w art. 62v ust. 1 pkt 2 i art. 62vd ust. 1 pkt 2. ” ;
+    - **b)**
+
+- **21)** art. 62x i art. 62y otrzymują brzmienie: „
+
+1. Importer materiału wybuchowego przeznaczonego do użytku cywilnego jest obowiązany do:
+
+- **1)** wprowadzania do obrotu wyłącznie materiałów wybuchowych przeznaczonych do użytku cywilnego zgodnych z wymaganiami bezpieczeństwa;
+- **2)** w przypadku stwierdzenia niezgodności z wymaganiami ustawy materiału wybuchowego przeznaczonego do użytku cywilnego albo powzięcia wątpliwości w tym zakresie – wprowadzenia do obrotu takiego materiału po zapewnieniu jego zgodności;
+- **3)** zapewnienia, że producent materiału wybuchowego przeznaczonego do użytku cywilnego: przeprowadził procedurę oceny zgodności z wymaganiami bezpieczeństwa i umieścił na tym materiale oznakowanie CE w sposób widoczny, czytelny i trwały, sporządził dokumentację techniczną, o której mowa w art. 62v ust. 1 pkt 2, dołączył do materiału wymagane dokumenty;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **4)** zapewnienia, że producent materiału wybuchowego przeznaczonego do użytku cywilnego umieścił na tym materiale, na najmniejszej jednostce jego opakowania lub dokumentach towarzyszących oznaczenia zgodnie z art. 62va;
+- **5)** umieszczenia na materiale wybuchowym przeznaczonym do użytku cywilnego swojej nazwy, adresu siedziby albo miejsca zamieszkania, a w przypadku, o którym mowa w art. 62z, zarejestrowanej nazwy handlowej lub zarejestrowanego znaku towarowego, o ile taki posiada, w języku polskim; w przypadku gdy umieszczenie na materiale wybuchowym tych danych nie jest możliwe, umieszcza się je na opakowaniu jednostkowym lub na dokumentach towarzyszących;
+- **6)** zapewnienia dołączenia do materiału wybuchowego przeznaczonego do użytku cywilnego instrukcji obsługi oraz informacji dotyczących bezpieczeństwa, w języku polskim;
+- **7)** prowadzenia rejestru jednoznacznych oznaczeń wprowadzonych do obrotu materiałów wybuchowych przeznaczonych do użytku cywilnego, zgodnie z wymaganiami określonymi w art. 62vc;
+- **8)** przechowywania danych zamieszczonych w rejestrze jednoznacznych oznaczeń, o którym mowa w pkt 7, przez okres 10 lat, licząc od dnia dostarczenia materiału wybuchowego przeznaczonego do użytku cywilnego lub do momentu zużycia lub unieszkodliwienia tego materiału, o ile jest znany. Obowiązek przechowywania danych nie wygasa mimo zaprzestania wykonywania działalności w zakresie sprzedaży materiałów wybuchowych przeznaczonych do użytku cywilnego, których jednoznaczne oznaczenie jest przechowywane w rejestrze jednoznacznych oznaczeń;
+- **9)** w przypadku stwierdzenia, przed wprowadzeniem do obrotu materiału wybuchowego przeznaczonego do użytku cywilnego, że materiał ten jest niezgodny z wymaganiami bezpieczeństwa i stwarza zagrożenie dla bezpieczeństwa, albo powzięcia wątpliwości w tym zakresie – poinformowania o takim materiale producenta oraz organów nadzoru rynku, o których mowa w art. 62zc ust. 4;
+- **10)** zapewnienia, że w okresie, gdy ponosi odpowiedzialność za materiał wybuchowy przeznaczony do użytku cywilnego, warunki przechowywania i transportu tego materiału nie wpływają ujemnie na zgodność materiału z wymaganiami bezpieczeństwa;
+- **11)** przechowywania kopii deklaracji zgodności oraz zapewnienia dostępności dokumentacji technicznej przez okres 10 lat od dnia wprowadzenia do obrotu materiału wybuchowego przeznaczonego do użytku cywilnego, w celu udostępnienia tych dokumentów na żądanie organów nadzoru rynku;
+- **12)** w przypadku uznania, że wprowadzony do obrotu materiał wybuchowy przeznaczony do użytku cywilnego jest niezgodny z wymaganiami ustawy, lub powzięcia wątpliwości w tym zakresie – podjęcia niezwłocznie koniecznych środków naprawczych w celu zapewnienia zgodności tego materiału lub jego wycofania z obrotu, lub odzyskania, stosownie do okoliczności;
+- **13)** niezwłocznego informowania organów nadzoru rynku, o których mowa w art. 62zc ust. 4, a także organów nadzoru rynku w pozostałych państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym i Konfederacji Szwajcarskiej, w których materiał wybuchowy przeznaczony do użytku cywilnego został udostępniony, o materiałach stwarzających zagrożenie dla bezpieczeństwa, przez podawanie szczegółowych informacji, w szczególności o niezgodności tych materiałów z wymaganiami ustawy oraz o środkach naprawczych podjętych w celu zapewnienia tej zgodności;
+- **14)** udostępnienia, na żądanie organów nadzoru rynku, o których mowa w art. 62zc, informacji i dokumentów, w postaci papierowej lub elektronicznej, w języku polskim, koniecznych do wykazania zgodności materiału wybuchowego przeznaczonego do użytku cywilnego z wymaganiami bezpieczeństwa, a w przypadku stwierdzenia, że wprowadzony do obrotu materiał stwarza zagrożenie, współpracy z tymi organami we wszelkich działaniach ukierunkowanych na usunięcie zagrożeń, jakie stwarza ten materiał;
+- **15)** przekazywania, na żądanie uprawnionych organów i służb państwowych, danych zamieszczonych w rejestrze jednoznacznych oznaczeń, o którym mowa w pkt 8, w trybie określonym w art. 62vc ust. 9–12.
+
+2. Obowiązki, o których mowa w ust. 1 pkt 3–9, importer materiału wybuchowego przeznaczonego do użytku cywilnego wykonuje przed wprowadzeniem tego materiału do obrotu.
+
+1. Dystrybutor materiałów wybuchowych przeznaczonych do użytku cywilnego działa z należytą starannością w odniesieniu do wymagań ustawy i jest obowiązany do:
+
+- **1)** sprawdzenia, że: na materiale wybuchowym przeznaczonym do użytku cywilnego albo na najmniejszej jednostce opakowania lub dołączonych dokumentach zostało umieszczone oznakowanie CE, w sposób widoczny, czytelny i trwały, oraz numer identyfikacyjny jednostki notyfikowanej, do materiału wybuchowego przeznaczonego do użytku cywilnego zostały dołączone wymagane dokumenty, do materiału wybuchowego przeznaczonego do użytku cywilnego została dołączona instrukcja obsługi oraz informacje dotyczące bezpieczeństwa, w języku polskim, na materiale wybuchowym przeznaczonym do użytku cywilnego oraz na najmniejszej jednostce jego opakowania zostało umieszczone jednoznaczne oznaczenie zgodnie z art. 62va, a w przypadku, o którym mowa w art. 62z, na materiale zostały umieszczone informacje, o których mowa w art. 62x ust. 1 pkt 5;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **2)** w przypadku wystąpienia niezgodności materiału wybuchowego przeznaczonego do użytku cywilnego z wymaganiami bezpieczeństwa albo powzięcia wątpliwości w tym zakresie – nieudostępniania na rynku materiału wybuchowego przeznaczonego do użytku cywilnego do czasu zapewnienia zgodności tego materiału;
+- **3)** prowadzenia rejestru jednoznacznych oznaczeń udostępnionych materiałów wybuchowych przeznaczonych do użytku cywilnego, zgodnie z wymaganiami określonymi w art. 62vc;
+- **4)** przechowywania danych zamieszczonych w rejestrze jednoznacznych oznaczeń, o którym mowa w pkt 3, przez okres 10 lat, licząc od dnia dostarczenia materiału wybuchowego przeznaczonego do użytku cywilnego lub do momentu zużycia lub unieszkodliwienia tego materiału, o ile jest znany. Obowiązek przechowywania danych nie wygasa mimo zaprzestania wykonywania działalności w zakresie sprzedaży materiałów wybuchowych przeznaczonych do użytku cywilnego, których jednoznaczne oznaczenie jest przechowywane w rejestrze jednoznacznych oznaczeń;
+- **5)** zapewnienia, że w okresie, gdy ponosi odpowiedzialność za materiał wybuchowy przeznaczony do użytku cywilnego, warunki przechowywania i transportu tego materiału nie wpływają ujemnie na zgodność materiału z wymaganiami bezpieczeństwa;
+- **6)** w przypadku uznania, że udostępniony na rynku materiał wybuchowy przeznaczony do użytku cywilnego jest niezgodny z wymaganiami ustawy, lub powzięcia wątpliwości w tym zakresie – podjęcia niezwłocznie koniecznych środków naprawczych w celu zapewnienia zgodności tego materiału lub jego wycofania z obrotu, lub odzyskania, stosownie do okoliczności;
+- **7)** niezwłocznego informowania producenta lub importera oraz organów nadzoru rynku, o których mowa w art. 62zc ust. 4, a także organów nadzoru rynku w pozostałych państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym i Konfederacji Szwajcarskiej, w których materiał wybuchowy przeznaczony do użytku cywilnego został przez niego udostępniony, o materiałach stwarzających zagrożenie dla bezpieczeństwa, przez podawanie szczegółowych informacji, w szczególności o niezgodności tych materiałów z wymaganiami bezpieczeństwa oraz o środkach naprawczych podjętych w celu zapewnienia tej zgodności;
+- **8)** udostępniania, na żądanie organów nadzoru rynku, o których mowa w art. 62zc, informacji i dokumentów, w postaci papierowej lub elektronicznej, w języku polskim, koniecznych do wykazania zgodności materiału wybuchowego przeznaczonego do użytku cywilnego z wymaganiami ustawy oraz współpracy z tymi organami we wszelkich działaniach ukierunkowanych na usunięcie zagrożeń, jakie stwarzają materiały wprowadzone do obrotu niespełniające wymagań;
+- **9)** przekazywania, na żądanie uprawnionych organów i służb państwowych, danych zamieszczonych w rejestrze jednoznacznych oznaczeń, o którym mowa w pkt 3, w trybie określonym w art. 62vc ust. 9–12.
+
+2. Obowiązki, o których mowa w ust. 1 pkt 1, dystrybutor materiału wybuchowego przeznaczonego do użytku cywilnego wykonuje przed udostępnieniem tego materiału na rynku. ” ;
+
+- **22)** art. 62za otrzymuje brzmienie: „ Na żądanie organów nadzoru rynku, o których mowa w art. 62zc, podmioty gospodarcze muszą udostępniać dane pozwalające zidentyfikować każdy podmiot gospodarczy, który im dostarczył, lub każdy podmiot, któremu dostarczyły materiał wybuchowy przeznaczony do użytku cywilnego, w przypadku, o którym mowa w art. 62v ust. 1 pkt 6 i art. 62va ust. 9. Informacje, o których mowa w zdaniu pierwszym, podmioty gospodarcze są obowiązane udostępniać w okresie 10 lat od dnia dostarczenia im lub dostarczenia przez te podmioty tego materiału. ” ;
+- **23)** w art. 62zc ust. 5 otrzymuje brzmienie: „
+
+5. Kontrolę i postępowania, o których mowa w ust. 1 i 4, prowadzi się zgodnie z przepisami ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku, z tym że za niezgodności formalne uważa się niezgodności polegające na naruszeniu przez podmiot gospodarczy obowiązków, o których mowa w art. 62v ust. 1 pkt 2, 4–9 i 14, art. 62x ust. 1 pkt 3–6 i 11 oraz art. 62y ust. 1 pkt 1. ” ;
+
+- **24)** w art. 63 ust. 1 otrzymuje brzmienie: „
+
+1. Kto dokonuje przemieszczenia materiałów wybuchowych przeznaczonych do użytku cywilnego bez wymaganej zgody, o której mowa w art. 24, podlega karze pozbawienia wolności od 6 miesięcy do lat 3. ” ;
+
+- **25)** po art. 65c dodaje się art. 65ca i art. 65cb w brzmieniu: „ Producent albo importer, który wprowadza do obrotu materiał wybuchowy przeznaczony do użytku cywilnego, zgodny z wymaganiami bezpieczeństwa, bez jednoznacznego oznaczenia, o którym mowa w art. 62va ust. 1, 5 lub 7, albo dystrybutor, który udostępnia na rynku ten materiał, zgodny z wymaganiami bezpieczeństwa, bez jednoznacznego oznaczenia, podlega karze pieniężnej w wysokości do 20 000 zł. Producent albo importer, który wprowadza do obrotu materiał wybuchowy przeznaczony do użytku cywilnego, zgodny z wymaganiami bezpieczeństwa, bez umieszczenia na nim informacji zgodnie z art. 62va ust. 9, albo dystrybutor, który udostępnia na rynku ten materiał, zgodny z wymaganiami bezpieczeństwa, bez umieszczenia na nim informacji zgodnie z art. 62va ust. 9, podlega karze pieniężnej w wysokości do 20 000 zł. ” ;
+- **26)** po art. 65d dodaje się art. 65da i art. 65db w brzmieniu: „
+
+1. Producent materiału wybuchowego przeznaczonego do użytku cywilnego, który nie dopełnia obowiązków w zakresie prowadzenia rejestru jednoznacznych oznaczeń tego materiału, podlega karze pieniężnej w wysokości do 20 000 zł.
+
+2. Importer wprowadzanego do obrotu materiału wybuchowego przeznaczonego do użytku cywilnego, który nie dopełnia obowiązków w zakresie prowadzenia rejestru jednoznacznych oznaczeń tego materiału, podlega karze pieniężnej w wysokości do 20 000 zł.
+
+3. Dystrybutor udostępnionego na rynku materiału wybuchowego przeznaczonego do użytku cywilnego, który nie dopełnia obowiązków w zakresie prowadzenia rejestru jednoznacznych oznaczeń tego materiału, podlega karze pieniężnej w wysokości do 20 000 zł. Producent wprowadzanego do obrotu materiału wybuchowego przeznaczonego do użytku cywilnego, który nie dopełnia obowiązków w zakresie oznaczenia obiektu produkcyjnego, w którym są wytwarzane te materiały, trzycyfrowym kodem, podlega karze pieniężnej w wysokości do 20 000 zł. ” .
+
+**Art. 146.** W ustawie z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. z 2019 r. poz. 628) w art. 16 w ust. 1 w pkt 1 lit. h otrzymuje brzmienie: „
+
+art. 133, art. 136 i art. 139 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. poz. 1214), ” .
+
+- **h)**
+
+**Art. 147.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2019 r. poz. 710 i 730) w art. 60 po ust. 5 dodaje się ust. 5a i 5b w brzmieniu: „ 5a. Broń palną, amunicję oraz wyroby o przeznaczeniu wojskowym lub policyjnym straż ochrony kolei nabywa na podstawie dokumentu uprawniającego do nabycia, wydanego przez komendanta wojewódzkiego Policji na wniosek właściwego komendanta straży ochrony kolei. 5b. Komendant straży ochrony kolei może przydzielić funkcjonariuszowi straży ochrony kolei broń palną wraz z amunicją. ” .
+
+**Art. 148.** W ustawie z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2019 r. poz. 868) w art. 115 w ust. 7 pkt 6 otrzymuje brzmienie: „
+
+- **6)** zapewnić prowadzenie rejestru jednoznacznych oznaczeń środków strzałowych zgodnie z art. 62vc ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego. ” .
+
+**Art. 149.** W ustawie z dnia 26 czerwca 2014 r. o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa (Dz. U. z 2017 r. poz. 2031 oraz z 2018 r. poz. 1669) w art. 2 pkt 4 otrzymuje brzmienie: „
+
+- **4)** offsetobiorca – podmiot wykonujący działalność gospodarczą w zakresie, o którym mowa w art. 7 ust. 1 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. poz. 1214), z miejscem zamieszkania albo siedzibą na terytorium Rzeczypospolitej Polskiej, a także jednostkę sektora finansów publicznych oraz podmiot, o którym mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce; ” .
+
+**Art. 150.** W ustawie z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2018 r. poz. 2308 oraz z 2019 r. poz. 492) w art. 7 w ust. 1 pkt 10 otrzymuje brzmienie: „
+
+- **10)** wytwarzanie, przechowywanie i obrót materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, o których mowa w ustawie z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. poz. 1214); ” .
+
+**Art. 151.** Wustawie z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2019 r. poz. 1079) w art. 12 w ust. 1 pkt 10 otrzymuje brzmienie: „
+
+- **10)** art. 7 ust. 1 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. poz. 1214); ” .
+
+**Art. 152.** W ustawie z dnia 26 stycznia 2018 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw (Dz. U. poz. 398 i 650 oraz z 2019 r. poz. 55) wprowadza się następujące zmiany:
+
+- **1)** uchyla się art. 18;
+- **2)** w art. 55 wyrazy „art. 18–20” zastępuje się wyrazami „art. 19, art. 20”.
+
+**Art. 153.** W ustawie z dnia 6 grudnia 2018 r. o Krajowym Rejestrze Zadłużonych (Dz. U. z 2019 r. poz. 55 i 912) wprowadza się następujące zmiany:
+
+- **1)** w art. 25 pkt 5 otrzymuje brzmienie: „
+- **5)** art. 19 i art. 20 otrzymują brzmienie: „ W ustawie z dnia 6 lipca 2001 r. o usługach detektywistycznych (Dz. U. z 2018 r. poz. 2163 oraz z 2019 r. poz. 55 i 730) w art. 15 pkt 2 otrzymuje brzmienie: „
+- **2)** nie jest wpisany do rejestru dłużników niewypłacalnych Krajowego Rejestru Sądowego oraz nie jest ujawniony w Krajowym Rejestrze Zadłużonych; ” . W ustawie z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2019 r. poz. 45, 55 i 60) wprowadza się następujące zmiany:
+- **1)** w art. 11: w ust. 1 w pkt 1 lit. e otrzymuje brzmienie: „ nie jest wpisany do rejestru dłużników niewypłacalnych Krajowego Rejestru Sądowego i nie jest ujawniony w Krajowym Rejestrze Zadłużonych, ” , w ust. 2 pkt 1 otrzymuje brzmienie: „
+    - **a)**
+    - **e)**
+    - **b)**
+
+- **1)** nie jest wpisany do rejestru dłużników niewypłacalnych Krajowego Rejestru Sądowego i nie jest ujawniony w Krajowym Rejestrze Zadłużonych; ” ;
+- **2)** w art. 14 w ust. 2 pkt 5 otrzymuje brzmienie: „
+- **5)** odpis albo oświadczenie o braku wpisu w rejestrze dłużników niewypłacalnych Krajowego Rejestru Sądowego i braku ujawnienia w Krajowym Rejestrze Zadłużonych;”.”. ” ; ” ; ” ;
+- **2)** po art. 26 dodaje się art. 26a w brzmieniu: „ W ustawie z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. poz. 1214) w art. 10 w ust. 1 w pkt 3 w lit. a, w art. 17 w ust. 2 w pkt 5 oraz w ust. 3 w pkt 1 wyrazy „w Centralnym Rejestrze Restrukturyzacji i Upadłości” zastępuje się wyrazami „w Krajowym Rejestrze Zadłużonych”. ” .
 
 #### Rozdział 2 Przepisy przejściowe, dostosowujące i końcowe
 
 **Art. 154.** Ilekroć w niniejszym rozdziale jest mowa o:
+
+- **1)** ustawie poprzedniej – rozumie się przez to ustawę z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2018 r. poz. 2037 oraz z 2019 r. poz. 55);
+- **2)** ustawie nowej – rozumie się przez to niniejszą ustawę.
 
 **Art. 155.** Do dnia wejścia w życie przepisów działu IV ustawy nowej przedsiębiorcy wykonujący działalność gospodarczą w zakresie obrotu strzelecką bronią palną są obowiązani poinformować o każdej dokonanej sprzedaży strzeleckiej broni palnej lub istotnych części osobom fizycznym, przedsiębiorcom albo innym podmiotom wymienionym w art. 61 ust. 3 pkt 1–4 i 6 ustawy nowej komendanta wojewódzkiego Policji właściwego ze względu na miejsce stałego pobytu albo siedzibę nabywcy albo organ wojskowy, który wydał zaświadczenie uprawniające do nabycia strzeleckiej broni palnej lub istotnych części, w terminie 5 dni roboczych, zgodnie ze wzorem określonym w przepisach wykonawczych wydanych na podstawie art. 64 ustawy nowej.
 
@@ -1766,15 +2053,15 @@ Art. 143–153. (pominięte)
 
 **Art. 164.** Decyzje wojewodów wyznaczające miejsca przeznaczone do niszczenia znalezionych materiałów wybuchowych i niebezpiecznych na podstawie art. 25a ust. 3 ustawy poprzedniej zachowują moc.
 
-**Art. 165.** Oznaczenie materiałów wybuchowych na zasadach określonych w art. 23a ustawy poprzedniej oraz rejestr jednoznacznych oznaczeń, o którym mowa w art. 29a ustawy poprzedniej, uznaje się za spełniające wymagania określone odpowiednio w art. 62v, art. 62x i art. 62y ustawy zmienianej w art. 145 , w brzmieniu nadanym ustawą nową.
+**Art. 165.** Oznaczenie materiałów wybuchowych na zasadach określonych w art. 23a ustawy poprzedniej oraz rejestr jednoznacznych oznaczeń, o którym mowa w art. 29a ustawy poprzedniej, uznaje się za spełniające wymagania określone odpowiednio w art. 62v, art. 62x i art. 62y ustawy zmienianej w art. 145, w brzmieniu nadanym ustawą nową.
 
 **Art. 166.**
 
-1. Do postępowań w sprawie o nadanie kodu oznaczenia obiektu produkcyjnego, w którym są wytwarzane materiały wybuchowe przeznaczone do użytku cywilnego, wszczętych i niezakończonych przed dniem wejścia w życie przepisów wydanych na podstawie art. 62ve ustawy zmienianej w art. 145 , stosuje się przepisy dotychczasowe.
+1. Do postępowań w sprawie o nadanie kodu oznaczenia obiektu produkcyjnego, w którym są wytwarzane materiały wybuchowe przeznaczone do użytku cywilnego, wszczętych i niezakończonych przed dniem wejścia w życie przepisów wydanych na podstawie art. 62ve ustawy zmienianej w art. 145, stosuje się przepisy dotychczasowe.
 
 2. Decyzje ministra właściwego do spraw gospodarki dotyczące nadania kodu oznaczenia obiektu produkcyjnego wydane na podstawie art. 23a ust. 4 ustawy poprzedniej zachowują moc.
 
-3. Rejestr obiektów produkcyjnych, o którym mowa w art. 23a ust. 5 ustawy poprzedniej, uznaje się za rejestr obiektów produkcyjnych, którym nadano kod oznaczenia obiektu produkcyjnego, o którym mowa w art. 62vb ust. 7 ustawy zmienianej w art. 145 , i prowadzi dalej na zasadach w niej określonych.
+3. Rejestr obiektów produkcyjnych, o którym mowa w art. 23a ust. 5 ustawy poprzedniej, uznaje się za rejestr obiektów produkcyjnych, którym nadano kod oznaczenia obiektu produkcyjnego, o którym mowa w art. 62vb ust. 7 ustawy zmienianej w art. 145, i prowadzi dalej na zasadach w niej określonych.
 
 **Art. 167.** Do postępowań w sprawie o uzyskanie zgody na przemieszczanie materiałów wybuchowych przeznaczonych do użytku cywilnego oraz amunicji, wszczętych na podstawie art. 24 ust. 2 lub art. 37 ust. 2 ustawy zmienianej w art. 145 i niezakończonych przed dniem wejścia w życie ustawy nowej, stosuje się przepisy dotychczasowe.
 
@@ -1784,7 +2071,18 @@ Art. 143–153. (pominięte)
 
 **Art. 170.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
-**Art. 171.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 10a ust. 8 pkt 2 ustawy zmienianej w art. 143 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 10a ust. 8 pkt 2 ustawy zmienianej w art. 143 , jednak nie dłużej niż przez 18 miesięcy od dnia wejścia w życie przepisów działu IV ustawy nowej.
+- **1)** art. 9 ust. 4 ustawy poprzedniej zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 16 ust. 6 ustawy nowej,
+- **2)** art. 10 ustawy poprzedniej zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 11 ust. 7 ustawy nowej,
+- **3)** art. 13 ustawy poprzedniej zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 17 ust. 10 ustawy nowej,
+- **4)** art. 19b ust. 2 ustawy poprzedniej zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 54 ustawy nowej,
+- **5)** art. 21 ust. 2 ustawy poprzedniej zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 42 ust. 8 ustawy nowej,
+- **6)** art. 23a ust. 9 ustawy poprzedniej zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 62ve ustawy zmienianej w art. 145,
+- **7)** art. 24 ust. 2 i art. 33 ust. 2 ustawy poprzedniej zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 33 ust. 4 ustawy nowej,
+- **8)** art. 35d ust. 5 i art. 35k ust. 3 ustawy poprzedniej zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 82 ustawy nowej,
+- **9)** art. 18 ust. 2 ustawy zmienianej w art. 145 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 18 ust. 2 ustawy zmienianej w art. 145 w brzmieniu nadanym niniejszą ustawą,
+- **10)** art. 27 ust. 2 ustawy zmienianej w art. 145 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 27 ust. 2 ustawy zmienianej w art. 145 w brzmieniu nadanym niniejszą ustawą jednak nie dłużej niż przez 18 miesięcy od dnia wejścia w życie ustawy.
+
+**Art. 171.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 10a ust. 8 pkt 2 ustawy zmienianej w art. 143 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 10a ust. 8 pkt 2 ustawy zmienianej w art. 143, jednak nie dłużej niż przez 18 miesięcy od dnia wejścia w życie przepisów działu IV ustawy nowej.
 
 **Art. 172.**
 
@@ -1817,5 +2115,69 @@ Art. 143–153. (pominięte)
 
 **Art. 174.** Traci moc ustawa z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2018 r. poz. 2037 oraz z 2019 r. poz. 55).
 
-**Art. 175.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia , z wyjątkiem przepisów art. 10 ust. 2, art. 17 ust. 2 pkt 2, art. 47 ust. 4 i 5, art. 59 ust. 4 i 5, art. 63 ust. 1 pkt 3, działu IV, art. 143 pkt 3, art. 171 oraz załącznika do ustawy, które wchodzą w życie z dniem 14 grudnia 2019 r. Załącznik do ustawy z dnia 13 czerwca 2019 r. (Dz. U. z 2023 r. poz.
+**Art. 175.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem przepisów art. 10 ust. 2, art. 17 ust. 2 pkt 2, art. 47 ust. 4 i 5, art. 59 ust. 4 i 5, art. 63 ust. 1 pkt 3, działu IV, art. 143 pkt 3, art. 171 oraz załącznika do ustawy, które wchodzą w życie z dniem 14 grudnia 2019 r. Załącznik – Kategorie i podkategorie strzeleckiej broni palnej i amunicji do strzeleckiej broni palnej Do celów niniejszego załącznika określenie:
+
+- **1)** „krótka strzelecka broń palna” oznacza strzelecką broń palną z lufą, której długość nie przekracza 30 cm lub której całkowita długość nie przekracza 60 centymetrów;
+- **2)** „długa strzelecka broń palna” oznacza każdą strzelecką broń palną inną niż krótka strzelecka broń palna;
+- **3)** „samoczynna strzelecka broń palna” oznacza strzelecką broń palną, która ładuje się automatycznie po każdorazowym wystrzeleniu naboju i która może wystrzelić więcej niż jeden nabój przy jednym naciśnięciu spustu;
+- **4)** „samopowtarzalna strzelecka broń palna” oznacza strzelecką broń palną, która ładuje się automatycznie po każdorazowym wystrzeleniu naboju i która może wystrzelić tylko jeden nabój przy jednym naciśnięciu spustu;
+- **5)** „powtarzalna strzelecka broń palna” oznacza strzelecką broń palną, która po wystrzeleniu naboju może zostać ponownie naładowana ręcznie z magazynka lub cylindra;
+- **6)** „jednostrzałowa strzelecka broń palna” oznacza strzelecką broń palną bez magazynka, którą ładuje się przed każdorazowym strzałem przez ręczny załadunek naboju do komory lub wgłębienia na ładunek w części zamkowej lufy;
+- **7)** „amunicja z pociskami penetrującymi” oznacza amunicję do użytku wojskowego z pociskami osłoniętymi i posiadającymi rdzeń penetrujący;
+- **8)** „amunicja z pociskami wybuchającymi” oznacza amunicję do użytku wojskowego z pociskami zawierającymi ładunek eksplodujący przy uderzeniu;
+- **9)** „amunicja z pociskami zapalającymi” oznacza amunicję do użytku wojskowego z pociskami zawierającymi mieszaninę chemiczną, która ulega zapaleniu przy kontakcie z powietrzem lub przy uderzeniu. Kategoria A
+
+1. Wojskowe pociski wybuchowe i granatniki.
+
+2. Samoczynna strzelecka broń palna.
+
+3. Strzelecka broń palna ukryta pod postacią innego przedmiotu.
+
+4. Amunicja z pociskami penetrującymi, wybuchowymi lub zapalającymi oraz pociski dla takiej amunicji.
+
+5. Amunicja do pistoletów i rewolwerów z pociskami rozprężnymi oraz pociski dla takiej amunicji, z wyjątkiem amunicji stosowanej do celów myśliwskich lub sportowych, dla osób uprawnionych do korzystania z niej.
+
+6. Samoczynna strzelecka broń palna, która została przerobiona na samopowtarzalną strzelecką broń palną.
+
+7. Każdy z poniższych rodzajów samopowtarzalnej strzeleckiej broni palnej centralnego zapłonu:
+
+- **1)** krótka strzelecka broń palna, pozwalająca na wystrzeliwanie ponad 21 nabojów bez przeładowania, jeżeli mechanizm ładujący o pojemności przekraczającej 20 nabojów stanowi część tej broni lub jeżeli odłączalny mechanizm ładujący o pojemności przekraczającej 20 nabojów jest do niej wprowadzony;
+- **2)** długa strzelecka broń palna, pozwalająca na wystrzeliwanie ponad 11 nabojów bez przeładowania, jeżeli mechanizm ładujący o pojemności przekraczającej 10 nabojów stanowi część tej broni lub jeżeli odłączalny mechanizm ładujący o pojemności przekraczającej 10 nabojów jest do niej wprowadzony.
+
+8. Samopowtarzalna długa strzelecka broń palna (strzelecka broń palna, która jest pierwotnie przeznaczona do strzelania z ramienia), którą można zmniejszyć do długości mniejszej niż 60 cm bez utraty funkcjonalności dzięki zastosowaniu kolby składanej lub teleskopowej lub kolby, którą można usunąć bez użycia narzędzi.
+
+9. Każda strzelecka broń palna sklasyfikowana w niniejszej kategorii, która została przerobiona na broń do strzelania ślepymi nabojami, wystrzeliwania substancji drażniących, innych substancji aktywnych lub nabojów pirotechnicznych albo na broń salutacyjną lub akustyczną. Kategoria B
+
+1. Krótka strzelecka broń palna powtarzalna.
+
+2. Krótka strzelecka broń palna jednostrzałowa centralnego zapłonu.
+
+3. Krótka strzelecka broń palna jednostrzałowa bocznego zapłonu, której całkowita długość nie przekracza 28 cm.
+
+4. Samopowtarzalna długa strzelecka broń palna, której mechanizm ładujący i komora mogą łącznie pomieścić więcej niż 3 naboje w przypadku strzeleckiej broni palnej bocznego zapłonu, a ponad 3, lecz mniej niż 12 nabojów w przypadku strzeleckiej broni palnej centralnego zapłonu.
+
+5. Samopowtarzalna krótka strzelecka broń palna inna niż broń kategorii A wymieniona w pkt 7 ppkt 1.
+
+6. Samopowtarzalna długa strzelecka broń palna kategorii A wymieniona w pkt 7 ppkt 2, której mechanizm ładujący i komora nie mogą razem pomieścić więcej niż 3 naboje, w przypadku gdy mechanizm ładujący jest odłączalny lub w przypadku gdy nie jest pewne, czy broni tej nie można przerobić za pomocą zwykłych narzędzi na broń, której mechanizm ładujący i komora mogą pomieścić łącznie więcej niż 3 naboje.
+
+7. Powtarzalna i samopowtarzalna strzelecka długa broń palna z lufą o gładkim przewodzie, której długość nie przekracza 60 cm.
+
+8. Każda strzelecka broń palna sklasyfikowana w niniejszej kategorii po przerobieniu jej na broń do strzelania ślepymi nabojami, wystrzeliwania substancji drażniących, innych substancji aktywnych lub nabojów pirotechnicznych albo na broń salutacyjną lub akustyczną.
+
+9. Samopowtarzalna strzelecka broń palna do użytku cywilnego, która jest podobna do broni z mechanizmami automatycznymi (samoczynnej) inna niż broń kategorii A wymieniona w pkt 6, 7 lub 8. Kategoria C
+
+1. Powtarzalna długa strzelecka broń palna inna niż broń kategorii B wymieniona w pkt 7.
+
+2. Długa strzelecka broń palna jednostrzałowa z lufą bruzdowaną.
+
+3. Samopowtarzalna długa strzelecka broń palna inna niż kategorii A lub B.
+
+4. Jednostrzałowa krótka strzelecka broń palna bocznego zapłonu, której całkowita długość przekracza 28 cm.
+
+5. Każda strzelecka broń palna sklasyfikowana w niniejszej kategorii po przerobieniu jej na broń do strzelania ślepymi nabojami, wystrzeliwania substancji drażniących, innych substancji aktywnych lub nabojów pirotechnicznych albo na broń salutacyjną lub akustyczną.
+
+6. Strzelecka broń palna kategorii A, B i C, która została pozbawiona cech użytkowych zgodnie z ustawą.
+
+7. Jednostrzałowa długa strzelecka broń palna z lufą o gładkim przewodzie, wprowadzana do obrotu od dnia 14 września 2018 r.
+
 

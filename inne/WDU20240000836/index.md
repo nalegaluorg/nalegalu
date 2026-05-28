@@ -8,12 +8,10 @@ pos: 836
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# zmieniające rozporządzenie sprawie trybu likwidacji funduszy inwestycyjnych Na podstawie art. 252 ustawy z dnia 27 maja 2004 r. funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2023 r. poz. 681, 825, 1723 i 1941) zarządza się, co następuje:
-
-*ROZPORZĄDZENIE RADY MINISTRÓW z dnia 21 maja 2024 r.*
+# Rozporządzenie Rady Ministrówz dnia 21 maja 2024 r. zmieniające rozporządzenie w sprawie trybu likwidacji funduszy inwestycyjnych
 
 | Pole | Wartość |
 |---|---|
@@ -24,43 +22,172 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2024-05-21 |
 | Data wydania | 2024-06-05 |
+| Wejście w życie | 2024-06-06 |
 | Ostatnia zmiana | 2024-06-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000836) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/836/text.pdf) |
 
-1. W rozporządzeniu Rady Ministrów z dnia 21 czerwca 2005 r. sprawie trybu likwidacji funduszy inwestycyjnych (Dz. U. poz. 963 oraz z 2006 r. poz. 827) wprowadza następujące zmiany:
-1) 1 otrzymuje brzmienie: „§ 1. 1. Otwarcie likwidacji inwestycyjnego, zwanego dalej „funduszem”, następuje z dniem:
-1) podjęcia przez właściwy organ towarzystwa funduszy inwestycyjnych, zwanego dalej „towarzystwem”, uchwały likwidacji ostatniego istniejącego subfunduszu przypadku, którym mowa art. 165 4 ustawy z dnia 27 maja 2004 r. funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, zwanej dalej „ustawą”;
-2) wystąpienia jednej z przesłanek, których mowa art. 169u 1, art. 228 1cg albo art. 246 1 ustawy.
-2. W przypadku, którym mowa w:
-1) art. 246 2 ustawy, otwarcie likwidacji następuje z dniem, którym decyzja Komisji Nadzoru Finansowego, zwanej dalej „Komisją”, odmowie udzielenia zgody, której mowa tym przepisie, stała ostateczna;
-2) art. 246 2a ustawy, jeżeli decyzja Komisji odmowie wydania zezwolenia, którym mowa art. 169p 1 albo art. 169s 1 ustawy, stała ostateczna dniu rozwiązania podstawowego, otwarcie likwidacji następuje z dniem, którym decyzja ta stała ostateczna.”;
-2) 2 2 otrzymuje brzmienie: „2. W przypadku gdy rozwiązanie następuje z przyczyn, których mowa w:
-1) art. 228 1cg ustawy, depozytariusz informuje wystąpieniu przesłanki rozwiązania niezwłocznie: likwidatora przypadku gdy jest nim podmiot inny niż depozytariusz,
-b) towarzystwo, które reprezentowało fundusz dnia wydania decyzji ograniczającej zakres wykonywanej działalności zarządzania alternatywnymi funduszami inwestycyjnymi;
-2) art. 246 1 pkt 2 ustawy, depozytariusz informuje wystąpieniu przesłanki rozwiązania niezwłocznie:
-2) przypadku gdy likwidatorem jest podmiot inny niż towarzystwo przekazuje to ogłoszenie towarzystwu, które jako ostatnie reprezentowało fundusz.”,
-b) 2 dodaje 2a–2c brzmieniu: „2a. Towarzystwo, którym mowa 2 pkt 2, niezwłocznie otrzymaniu ogłoszenia otwarciu likwidacji zamieszcza je na swojej publicznie dostępnej stronie oraz udostępnia sposób określony statucie likwidowanego dla ogłaszania zmian statutu tego funduszu.
-2b. Ogłoszenie otwarciu likwidacji opublikowane lub zamieszczone na stronie jest udostępniane dnia zakończenia likwidacji funduszu.
-2c. Przepisu 2 pkt 2 nie stosuje przypadku, którym mowa art. 68 1 ustawy. W przypadku określonym zdaniu pierwszym depozytariusz oprócz publikacji ogłoszenia otwarciu likwidacji na swojej publicznie dostępnej stronie udostępnia to ogłoszenie sposób określony statucie likwidowanego dla ogłaszania zmian statutu tego funduszu.”,
-c) 3: we wprowadzeniu wyrazy „ogłoszeniu, którym mowa 2,” zastępuje wyrazami „ogłoszeniu otwarciu likwidacji funduszu”, pkt 5 wyrazy „od dnia ostatniego ogłoszenia” zastępuje wyrazami „od dnia publikacji ogłoszenia”, pkt 7 wyrazy „od dnia ostatniego ogłoszenia” zastępuje wyrazami „od dnia publikacji ogłoszenia”, uchyla pkt 8, pkt 8 dodaje pkt 8a i 8b brzmieniu: „8a) adres publicznie dostępnej strony likwidatora, na której będą publikowane informacje związane z likwidacją funduszu, tym sprawozdanie finansowe na dzień otwarcia likwidacji, zbadane sprawozdanie finansowe na dzień otwarcia likwidacji, a przypadku gdy: likwidacja trwa ponad 6 miesięcy również półroczna informacja stanie likwidacji,
-b) likwidacja nie może być zakończona terminie określonym ogłoszeniu otwarciu likwidacji również ogłoszenie nowej dacie zakończenia likwidacji, z podaniem przyczyn niezakończenia likwidacji terminie;
-8b) wskazanie dnia publikacji ogłoszenia na publicznie dostępnej stronie likwidatora;”,
-d) 4 we wprowadzeniu wyrazy „ogłoszeniu, którym mowa 2,” zastępuje wyrazami „ogłoszeniu otwarciu likwidacji funduszu”,
-e) 5 we wprowadzeniu wyrazy „ogłoszeniu, którym mowa 2,” zastępuje wyrazami „ogłoszeniu otwarciu likwidacji funduszu”,
-f) 6 we wprowadzeniu wyrazy „ogłoszeniu, którym mowa 2,” zastępuje wyrazami „ogłoszeniu otwarciu likwidacji funduszu”,
-g) 7 i 8 otrzymują brzmienie: „7. Ogłoszenie otwarciu likwidacji jest również udostępniane miejscach zbywania jednostek uczestnictwa oraz punktach obsługi klientów domów maklerskich i banków prowadzących działalność makler5) 7 3 i 4 otrzymują brzmienie: „3. Likwidator, niezwłocznie sporządzeniu sprawozdania finansowego, którym mowa 1 lub 2:
-1) przekazuje sprawozdanie firmie audytorskiej celu przeprowadzenia badania tego sprawozdania;
-2) przekazuje kopię sprawozdania depozytariuszowi;
-3) publikuje sprawozdanie na stronie wskazanej ogłoszeniu otwarciu likwidacji funduszu.
-4. Likwidator, niezwłocznie zbadaniu sprawozdania finansowego, którym mowa 1 lub 2, publikuje zbadane sprawozdanie finansowe wraz ze sprawozdaniem z badania na stronie wskazanej ogłoszeniu otwarciu likwidacji funduszu.”;
-6) 9: 1 skreśla wyrazy „i przedstawia Komisji”,
-b) 2 wyrazy „likwidator informuje dodatkowo Komisję” zastępuje wyrazami „informacje, których mowa 1, zawierają również informację”,
-c) 3 wprowadzenie otrzymuje brzmienie: „Informacje, których mowa 1, zawierają również:”,
-d) 5 otrzymuje brzmienie: „5. Likwidator przekazuje informacje, których mowa 1–3, towarzystwu, a przypadku, którym mowa art. 68 1 ustawy, jeżeli likwidatorem jest podmiot inny niż depozytariusz depozytariuszowi.”;
-7) uchyla 10;
-8) 11 1 otrzymuje brzmienie: „1. W przypadku gdy likwidacja trwa ponad 6 miesięcy, likwidator sporządza informacje półroczne stanie likwidacji i publikuje je na stronie wskazanej ogłoszeniu otwarciu likwidacji funduszu.”;
-9) 12 otrzymuje brzmienie: „§ 12. W przypadku gdy likwidacja nie może być zakończona terminie określonym ogłoszeniu otwarciu likwidacji funduszu, likwidator, co najmniej na 5 dni przed upływem tego terminu, publikuje na stronie wskazanej ogłoszeniu otwarciu likwidacji ogłoszenie nowej dacie zakończenia likwidacji, z podaniem przyczyn niezakończenia likwidacji terminie.”;
-10) 14: 2 otrzymuje brzmienie: „2. Likwidator przekazuje sprawozdanie, którym mowa 1, firmie audytorskiej celu przeprowadzenia badania tego sprawozdania niezwłocznie jego sporządzeniu.”,
-b) uchyla 3,
-c) 4 otrzymuje brzmienie: „4. Likwidator składa sądu rejestrowego wniosek wykreślenie z rejestru funduszy inwestycyjnych terminie 7 dni od dnia sporządzenia sprawozdania z badania sprawozdania finansowego, którym Prezes Rady Ministrów: D. Tusk
+Treść rozporządzenia
+Na podstawie art. 252 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2023 r. poz. 681, 825, 1723 i 1941) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Rady Ministrów z dnia 21 czerwca 2005 r. w sprawie trybu likwidacji funduszy inwestycyjnych (Dz. U. poz. 963 oraz z 2006 r. poz. 827) wprowadza się następujące zmiany:
+1)
+§ 1 otrzymuje brzmienie:
+„
+§ 1.
+1.
+Otwarcie likwidacji funduszu inwestycyjnego, zwanego dalej „funduszem”, następuje z dniem:
+1)
+podjęcia przez właściwy organ towarzystwa funduszy inwestycyjnych, zwanego dalej „towarzystwem”, uchwały o likwidacji ostatniego istniejącego subfunduszu – w przypadku, o którym mowa w art. 165 ust. 4 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, zwanej dalej „ustawą”;
+2)
+wystąpienia jednej z przesłanek, o których mowa w art. 169u ust. 1, art. 228 ust. 1cg albo art. 246 ust. 1 ustawy.
+2.
+W przypadku, o którym mowa w:
+1)
+art. 246 ust. 2 ustawy, otwarcie likwidacji funduszu następuje z dniem, w którym decyzja Komisji Nadzoru Finansowego, zwanej dalej „Komisją”, o odmowie udzielenia zgody, o której mowa w tym przepisie, stała się ostateczna;
+2)
+art. 246 ust. 2a ustawy, jeżeli decyzja Komisji o odmowie wydania zezwolenia, o którym mowa w art. 169p ust. 1 albo art. 169s ust. 1 ustawy, stała się ostateczna po dniu rozwiązania funduszu podstawowego, otwarcie likwidacji funduszu następuje z dniem, w którym decyzja ta stała się ostateczna.
+” ;
+2)
+w § 2 ust. 2 otrzymuje brzmienie:
+„
+2.
+W przypadku gdy rozwiązanie funduszu następuje z przyczyn, o których mowa w:
+1)
+art. 228 ust. 1cg ustawy, depozytariusz informuje o wystąpieniu przesłanki rozwiązania funduszu niezwłocznie:
+a)
+likwidatora funduszu – w przypadku gdy jest nim podmiot inny niż depozytariusz,
+b)
+towarzystwo, które reprezentowało fundusz do dnia wydania decyzji ograniczającej zakres wykonywanej działalności zarządzania alternatywnymi funduszami inwestycyjnymi;
+2)
+art. 246 ust. 1 pkt 2 ustawy, depozytariusz informuje o wystąpieniu przesłanki rozwiązania funduszu niezwłocznie:
+a)
+likwidatora funduszu – w przypadku gdy jest nim podmiot inny niż depozytariusz,
+b)
+towarzystwo, które reprezentowało fundusz do dnia wydania decyzji o cofnięciu zezwolenia na wykonywanie działalności lub do dnia wygaśnięcia takiego zezwolenia.
+” ;
+3)
+w § 5:
+a)
+ust. 2 otrzymuje brzmienie:
+„
+2.
+Likwidator funduszu publikuje ogłoszenie o otwarciu likwidacji funduszu na swojej publicznie dostępnej stronie internetowej oraz:
+1)
+w przypadku gdy likwidatorem funduszu jest towarzystwo – udostępnia to ogłoszenie w sposób określony w statucie likwidowanego funduszu dla ogłaszania zmian statutu tego funduszu;
+2)
+w przypadku gdy likwidatorem funduszu jest podmiot inny niż towarzystwo – przekazuje to ogłoszenie towarzystwu, które jako ostatnie reprezentowało fundusz.
+” ,
+b)
+po ust. 2 dodaje się ust. 2a-2c w brzmieniu:
+„
+2a.
+Towarzystwo, o którym mowa w ust. 2 pkt 2, niezwłocznie po otrzymaniu ogłoszenia o otwarciu likwidacji funduszu zamieszcza je na swojej publicznie dostępnej stronie internetowej oraz udostępnia w sposób określony w statucie likwidowanego funduszu dla ogłaszania zmian statutu tego funduszu.
+2b.
+Ogłoszenie o otwarciu likwidacji funduszu opublikowane lub zamieszczone na stronie internetowej jest udostępniane do dnia zakończenia likwidacji funduszu.
+2c.
+Przepisu ust. 2 pkt 2 nie stosuje się w przypadku, o którym mowa w art. 68 ust. 1 ustawy. W przypadku określonym w zdaniu pierwszym depozytariusz oprócz publikacji ogłoszenia o otwarciu likwidacji funduszu na swojej publicznie dostępnej stronie internetowej udostępnia to ogłoszenie w sposób określony w statucie likwidowanego funduszu dla ogłaszania zmian statutu tego funduszu.
+” ,
+c)
+w ust. 3:
+– we wprowadzeniu do wyliczenia wyrazy „ogłoszeniu, o którym mowa w ust. 2,” zastępuje się wyrazami „ogłoszeniu o otwarciu likwidacji funduszu”,
+– w pkt 5 wyrazy „od dnia ostatniego ogłoszenia” zastępuje się wyrazami „od dnia publikacji ogłoszenia”,
+– w pkt 7 wyrazy „od dnia ostatniego ogłoszenia” zastępuje się wyrazami „od dnia publikacji ogłoszenia”,
+– uchyla się pkt 8,
+– po pkt 8 dodaje się pkt 8a i 8b w brzmieniu: „ 8a) adres publicznie dostępnej strony internetowej likwidatora, na której będą publikowane informacje związane z likwidacją funduszu, w tym sprawozdanie finansowe na dzień otwarcia likwidacji, zbadane sprawozdanie finansowe na dzień otwarcia likwidacji, a w przypadku gdy: a) likwidacja trwa ponad 6 miesięcy – również półroczna informacja o stanie likwidacji, b) likwidacja funduszu nie może być zakończona w terminie określonym w ogłoszeniu o otwarciu likwidacji funduszu – również ogłoszenie o nowej dacie zakończenia likwidacji, z podaniem przyczyn niezakończenia likwidacji w terminie; 8b) wskazanie dnia publikacji ogłoszenia na publicznie dostępnej stronie internetowej likwidatora; ” ,
+d)
+w ust. 4 we wprowadzeniu do wyliczenia wyrazy „ogłoszeniu, o którym mowa w ust. 2,” zastępuje się wyrazami „ogłoszeniu o otwarciu likwidacji funduszu”,
+e)
+w ust. 5 we wprowadzeniu do wyliczenia wyrazy „ogłoszeniu, o którym mowa w ust. 2,” zastępuje się wyrazami „ogłoszeniu o otwarciu likwidacji funduszu”,
+f)
+w ust. 6 we wprowadzeniu do wyliczenia wyrazy „ogłoszeniu, o którym mowa w ust. 2,” zastępuje się wyrazami „ogłoszeniu o otwarciu likwidacji funduszu”,
+g)
+ust. 7 i 8 otrzymują brzmienie:
+„
+7.
+Ogłoszenie o otwarciu likwidacji funduszu jest również udostępniane w miejscach zbywania jednostek uczestnictwa oraz w punktach obsługi klientów domów maklerskich i banków prowadzących działalność maklerską, w których były przyjmowane zapisy na nabycie certyfikatów inwestycyjnych.
+8.
+Likwidator publikuje ogłoszenie o otwarciu likwidacji funduszu w terminie 14 dni od dnia otwarcia likwidacji funduszu.
+” ,
+h)
+uchyla się ust. 9;
+4)
+w § 6:
+a)
+w ust. 1 we wprowadzeniu do wyliczenia po wyrazach „art. 68 ust. 1” dodaje się wyrazy „i art. 228 ust. 1cf”,
+b)
+ust. 2 otrzymuje brzmienie:
+„
+2.
+Przekazanie dokumentów i nośników informacji, o których mowa w ust. 1, następuje w terminie 14 dni od dnia otwarcia likwidacji funduszu.
+” ,
+c)
+w ust. 3 po wyrazach „art. 68 ust. 1” dodaje się wyrazy „i art. 228 ust. 1cf”;
+5)
+w § 7 ust. 3 i 4 otrzymują brzmienie:
+„
+3.
+Likwidator, niezwłocznie po sporządzeniu sprawozdania finansowego, o którym mowa w ust. 1 lub 2:
+1)
+przekazuje sprawozdanie firmie audytorskiej w celu przeprowadzenia badania tego sprawozdania;
+2)
+przekazuje kopię sprawozdania depozytariuszowi;
+3)
+publikuje sprawozdanie na stronie internetowej wskazanej w ogłoszeniu o otwarciu likwidacji funduszu.
+4.
+Likwidator, niezwłocznie po zbadaniu sprawozdania finansowego, o którym mowa w ust. 1 lub 2, publikuje zbadane sprawozdanie finansowe wraz ze sprawozdaniem z badania na stronie internetowej wskazanej w ogłoszeniu o otwarciu likwidacji funduszu.
+” ;
+6)
+w § 9:
+a)
+w ust. 1 skreśla się wyrazy „i przedstawia Komisji”,
+b)
+w ust. 2 wyrazy „likwidator informuje dodatkowo Komisję” zastępuje się wyrazami „informacje, o których mowa w ust. 1, zawierają również informację”,
+c)
+w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Informacje, o których mowa w ust. 1, zawierają również: ” ,
+d)
+ust. 5 otrzymuje brzmienie:
+„
+5.
+Likwidator przekazuje informacje, o których mowa w ust. 1–3, towarzystwu, a w przypadku, o którym mowa w art. 68 ust. 1 ustawy, jeżeli likwidatorem jest podmiot inny niż depozytariusz – depozytariuszowi.
+” ;
+7)
+uchyla się § 10;
+8)
+w § 11 ust. 1 otrzymuje brzmienie:
+„
+1.
+W przypadku gdy likwidacja funduszu trwa ponad 6 miesięcy, likwidator sporządza informacje półroczne o stanie likwidacji funduszu i publikuje je na stronie internetowej wskazanej w ogłoszeniu o otwarciu likwidacji funduszu.
+” ;
+9)
+§ 12 otrzymuje brzmienie:
+„
+§ 12.
+W przypadku gdy likwidacja funduszu nie może być zakończona w terminie określonym w ogłoszeniu o otwarciu likwidacji funduszu, likwidator, co najmniej na 5 dni przed upływem tego terminu, publikuje na stronie internetowej wskazanej w ogłoszeniu o otwarciu likwidacji funduszu ogłoszenie o nowej dacie zakończenia likwidacji, z podaniem przyczyn niezakończenia likwidacji w terminie.
+” ;
+10)
+w § 14:
+a)
+ust. 2 otrzymuje brzmienie:
+„
+2.
+Likwidator przekazuje sprawozdanie, o którym mowa w ust. 1, firmie audytorskiej w celu przeprowadzenia badania tego sprawozdania niezwłocznie po jego sporządzeniu.
+” ,
+b)
+uchyla się ust. 3,
+c)
+ust. 4 otrzymuje brzmienie:
+„
+4.
+Likwidator składa do sądu rejestrowego wniosek o wykreślenie funduszu z rejestru funduszy inwestycyjnych w terminie 7 dni od dnia sporządzenia sprawozdania z badania sprawozdania finansowego, o którym mowa w ust. 2.
+” ,
+d)
+uchyla się ust. 5 i 6;
+11)
+w § 15 w ust. 1 po wyrazach „o którym mowa w art. 68 ust. 1 ustawy” dodaje się wyrazy „, jeżeli likwidatorem jest podmiot inny niż depozytariusz”;
+12)
+w § 17 w zdaniu drugim wyrazy „§ 6 i 8–12” zastępuje się wyrazami „§ 6, § 8, § 9, § 11 i § 12”.
+§ 2.
+Do likwidacji funduszu inwestycyjnego otwartej przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe, z tym że dokumenty i informacje, o których mowa w § 5 ust. 9, § 7 ust. 3 i 4, § 9 ust. 1 i 2, § 10 oraz § 14 ust. 2, 3, 5 i 6 rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym, dotyczące okresów i zdarzeń przypadających od dnia wejścia w życie niniejszego rozporządzenia, sporządza się i przekazuje Komisji Nadzoru Finansowego zgodnie z przepisami wydanymi na podstawie art. 225 ust. 3 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi.
+§ 3.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

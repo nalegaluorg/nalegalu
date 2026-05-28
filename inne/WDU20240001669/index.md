@@ -8,12 +8,10 @@ pos: 1669
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o dokumentach publicznych
-
-*USTAWA z dnia 22 listopada 2018 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 7 listopada 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dokumentach publicznych
 
 | Pole | Wartość |
 |---|---|
@@ -27,7 +25,29 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-01-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001669) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1669/text.pdf) |
 
-Art. 59–71. (pominięte)
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych Rozdział 1 – Przepisy ogólne Rozdział 2 – Kategorie dokumentów publicznych i minimalne zabezpieczenia tych dokumentów przed fałszerstwem Rozdział 3 – Zasady opracowywania wzoru dokumentu publicznego Rozdział 4 – Wytwarzanie blankietów dokumentów publicznych Rozdział 5 – Kontrola wytwórców blankietów dokumentów publicznych Rozdział 6 – Obowiązki emitenta dokumentu publicznego i funkcjonariusza publicznego Rozdział 7 – Przechowywanie blankietów dokumentów publicznych oraz dokumentów publicznych Rozdział 8 – Rejestr Dokumentów Publicznych Rozdział 9 – Komisja Rozdział 10 – Przepis karny Rozdział 11 – Zmiany w przepisach Rozdział 12 – Przepisy przejściowe, dostosowujące i końcowe
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2024 r. poz. 564), z uwzględnieniem zmian wprowadzonych:
+1)
+ustawą z dnia 28 czerwca 2024 r. o zmianie ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami, ustawy o dokumentach publicznych oraz ustawy o pomocy państwa w oszczędzaniu na cele mieszkaniowe (Dz. U. poz. 1081),
+2)
+ustawą z dnia 24 lipca 2024 r. o zmianie ustawy o dokumentach publicznych (Dz. U. poz. 1155)
+oraz zmian wynikających z przepisów ogłoszonych przed dniem 22 października 2024 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+1)
+art. 4 ustawy z dnia 28 czerwca 2024 r. o zmianie ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami, ustawy o dokumentach publicznych oraz ustawy o pomocy państwa w oszczędzaniu na cele mieszkaniowe (Dz. U. poz. 1081), który stanowi:
+„
+Art. 59–71.
+(pominięte)
+
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 2, który wchodzi w życie z dniem ogłoszenia. ” ;
+
+- **2)** art. 2 ustawy z dnia 24 lipca 2024 r. o zmianie ustawy o dokumentach publicznych (Dz. U. poz. 1155), który stanowi: „
+
+**Art. 2.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -39,23 +59,21 @@ Art. 59–71. (pominięte)
 
 3. Minister właściwy do spraw wewnętrznych, zwany dalej „Ministrem”, kształtuje politykę bezpieczeństwa dokumentów publicznych oraz zapewnia funkcjonowanie systemu bezpieczeństwa dokumentów publicznych.
 
-**Art. 2.**
-
 1. Użyte w niniejszej ustawie określenia oznaczają:
 
 - **1)** blankiet dokumentu publicznego – niespersonalizowany lub niezindywidualizowany dokument publiczny;
-- **2)** dokument publiczny – dokument, który służy do identyfikacji osób, rzeczy lub potwierdza stan prawny lub prawa osób posługujących się takim dokumentem, zabezpieczony przed fałszerstwem i:
-    - **a)** wytwarzany według wzoru określonego w przepisach prawa powszechnie obowiązującego albo
-    - **b)** którego wzór graficzny i forma zostały zatwierdzone przez podmiot realizujący zadania publiczne uprawniony na podstawie odrębnych przepisów i który jest zgodny z wymogami dla blankietu tego dokumentu określonymi w przepisach prawa powszechnie obowiązującego;
+- **2)** dokument publiczny – dokument, który służy do identyfikacji osób, rzeczy lub potwierdza stan prawny lub prawa osób posługujących się takim dokumentem, zabezpieczony przed fałszerstwem i: wytwarzany według wzoru określonego w przepisach prawa powszechnie obowiązującego albo którego wzór graficzny i forma zostały zatwierdzone przez podmiot realizujący zadania publiczne uprawniony na podstawie odrębnych przepisów i który jest zgodny z wymogami dla blankietu tego dokumentu określonymi w przepisach prawa powszechnie obowiązującego;
+    - **a)**
+    - **b)**
 
-- **3)** emitent dokumentu publicznego – organ administracji publicznej:
-    - **a)** upoważniony na podstawie przepisów prawa powszechnie obowiązującego do określenia wzoru dokumentu publicznego lub właściwy do wprowadzenia do obrotu prawnego dokumentu publicznego, którego wzór został określony w przepisach prawa Unii Europejskiej lub prawa międzynarodowego,
-    - **b)** który określa w przepisach prawa powszechnie obowiązującego wymogi dla blankietu dokumentu publicznego, o którym mowa w pkt 2 lit. b, z tym że obowiązki określone w art. 14 i art. 34–39 wykonuje upoważniony na podstawie przepisów prawa powszechnie obowiązującego podmiot realizujący zadania publiczne, który zatwierdza wzór graficzny i formę tego dokumentu;
+- **3)** emitent dokumentu publicznego – organ administracji publicznej: upoważniony na podstawie przepisów prawa powszechnie obowiązującego do określenia wzoru dokumentu publicznego lub właściwy do wprowadzenia do obrotu prawnego dokumentu publicznego, którego wzór został określony w przepisach prawa Unii Europejskiej lub prawa międzynarodowego, który określa w przepisach prawa powszechnie obowiązującego wymogi dla blankietu dokumentu publicznego, o którym mowa w pkt 2 lit. b, z tym że obowiązki określone w art. 14 i art. 34–39 wykonuje upoważniony na podstawie przepisów prawa powszechnie obowiązującego podmiot realizujący zadania publiczne, który zatwierdza wzór graficzny i formę tego dokumentu;
+    - **a)**
+    - **b)**
 
 - **4)** indywidualizacja dokumentu publicznego – nadanie blankietowi dokumentu publicznego przez jego wytwórcę cech jednoznacznie wyróżniających go spośród blankietów dokumentów publicznych tego samego rodzaju;
-- **5)** personalizacja dokumentu publicznego – naniesienie przez uprawniony podmiot na blankiet dokumentu publicznego w warstwie graficznej lub elektronicznej danych osoby, rzeczy lub innych danych wymaganych dla danego dokumentu publicznego;
+- **5)** personalizacja dokumentu publicznego – naniesienie na blankiet dokumentu publicznego danych osoby, rzeczy lub innych charakterystycznych elementów przez uprawniony podmiot;
 - **6)** replika dokumentu publicznego – odwzorowanie lub kopię wielkości od 75 % do 120 % oryginału o cechach autentyczności dokumentu publicznego lub blankietu dokumentu publicznego, z wyłączeniem kserokopii lub wydruku komputerowego dokumentu publicznego wykonanych do celów urzędowych, służbowych lub zawodowych określonych na podstawie odrębnych przepisów lub na użytek osoby, dla której dokument publiczny został wydany;
-- **7)** (uchylony)
+- **7)** Spółka – jednoosobową spółkę Skarbu Państwa, której przedmiotem działalności jest wytwarzanie blankietów dokumentów i druków zabezpieczonych, mającą siedzibę oraz zakład produkcyjny, w którym są wytwarzane blankiety dokumentów publicznych, na terytorium Rzeczypospolitej Polskiej;
 - **8)** wzorzec dokumentu publicznego – wykonany na zlecenie emitenta dokumentu publicznego, spersonalizowany lub zindywidualizowany fikcyjnymi danymi, blankiet dokumentu publicznego z naniesionym w sposób trwały oznaczeniem „WZORZEC” oraz „SPECIMEN”;
 - **9)** wzór dokumentu publicznego – wzór blankietu dokumentu publicznego odzwierciedlający rzeczywisty wygląd tego dokumentu, w tym elementy graficzne i jawne zabezpieczenia przed fałszerstwem, określony w przepisach prawa powszechnie obowiązującego.
 
@@ -77,9 +95,7 @@ Art. 59–71. (pominięte)
 - **8)** podejmuje działania mające na celu podnoszenie poziomu edukacji w zakresie wiedzy o możliwościach i sposobach rozpoznawania sfałszowanych dokumentów publicznych;
 - **9)** kontroluje wytwórców blankietów dokumentów publicznych.
 
-2. Zadania, o których mowa w ust. 1 pkt 1–8, Minister wykonuje przy pomocy Komisji do spraw dokumentów publicznych, zwanej dalej „Komisją”.
-
-**Art. 4.** Minister zamieszcza na swojej stronie internetowej informacje o sposobach weryfikacji autentyczności dokumentów publicznych.
+2. Zadania, o których mowa w ust. 1 pkt 1–8, Minister wykonuje przy pomocy Komisji do spraw dokumentów publicznych, zwanej dalej „Komisją”. Minister zamieszcza na swojej stronie internetowej informacje o sposobach weryfikacji autentyczności dokumentów publicznych.
 
 #### Rozdział 2 Kategorie dokumentów publicznych i minimalne zabezpieczenia tych dokumentów przed fałszerstwem
 
@@ -93,10 +109,9 @@ Art. 59–71. (pominięte)
 - **2)** dokumenty paszportowe;
 - **3)** książeczka żeglarska, o której mowa w art. 10 ust. 1 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. z 2023 r. poz. 2257);
 - **4)** dokumenty wydawane na podstawie art. 44 ust. 1 oraz art. 83 ust. 1 ustawy z dnia 28 listopada 2014 r. – Prawo o aktach stanu cywilnego (Dz. U. z 2023 r. poz. 1378 i 1615);
-- **5)** dokumenty wydawane cudzoziemcowi na podstawie art. 37 oraz art. 226 pkt 1‒ 3 i 5 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2024 r. poz. 769 i 1222);
+- **5)** dokumenty wydawane cudzoziemcowi na podstawie art. 37 oraz art. 226 pkt 1–3 i 5 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2024 r. poz. 769 i 1222);
 - **6)** dokumenty wydawane członkom misji dyplomatycznych i urzędów konsularnych państw obcych oraz innym osobom zrównanym z nimi na podstawie ustaw, umów lub powszechnie ustalonych zwyczajów międzynarodowych, a także dokumenty wydawane członkom ich rodzin pozostającym z nimi we wspólnocie domowej na podstawie art. 61 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach;
-- **7)** dokument wydawany obywatelowi Unii Europejskiej na podstawie art. 48 ust. 1 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2024 r. poz.
-- **633)** ;
+- **7)** dokument wydawany obywatelowi Unii Europejskiej na podstawie art. 48 ust. 1 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2024 r. poz. 633);
 - **8)** dokumenty wydawane członkowi rodziny obywatela Unii Europejskiej na podstawie art. 30 ust. 1 oraz art. 48 ust. 2 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin;
 - **9)** dokumenty wydawane cudzoziemcowi na podstawie art. 89i ust. 1 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2023 r. poz. 1504 oraz z 2024 r. poz. 854);
 - **9a)** tymczasowe zaświadczenie tożsamości cudzoziemca wydawane przez Szefa Urzędu do Spraw Cudzoziemców;
@@ -123,21 +138,20 @@ Art. 59–71. (pominięte)
 - **30)** karta do tachografu, o której mowa w art. 2 pkt 4 ustawy z dnia 5 lipca 2018 r. o tachografach (Dz. U. z 2024 r. poz. 1037);
 - **31)** zaświadczenie ADR, o którym mowa w art. 2 pkt 10 ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2024 r. poz. 643);
 - **31a)** dokument rejestracyjny, o którym mowa w art. 4 ust. 1 ustawy z dnia 12 kwietnia 2018 r. o rejestracji jachtów i innych jednostek pływających o długości do 24 m (Dz. U. z 2024 r. poz. 1536);
-- **32)** legitymacje służbowe:
-    - **a)** policjantów,
-    - **b)** funkcjonariuszy Straży Granicznej,
-    - **c)** funkcjonariuszy Służby Ochrony Państwa,
-    - **d)** funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego,
-    - **e)** funkcjonariuszy Agencji Wywiadu,
-    - **f)** funkcjonariuszy Centralnego Biura Antykorupcyjnego,
-    - **g)** funkcjonariuszy Służby Kontrwywiadu Wojskowego i żołnierzy zawodowych wyznaczonych na stanowiska służbowe w Służbie Kontrwywiadu Wojskowego,
-    - **h)** funkcjonariuszy Służby Wywiadu Wojskowego i żołnierzy zawodowych wyznaczonych na stanowiska służbowe w Służbie Wywiadu Wojskowego,
-    - **i)** funkcjonariuszy i pracowników Służby Więziennej,
-    - **j)** funkcjonariuszy Służby Celno-Skarbowej,
-    - **k)** osób zatrudnionych w jednostkach organizacyjnych Krajowej Administracji Skarbowej,
-    - **l)** inspektorów Inspekcji Transportu Drogowego,
-    - **m)** żołnierzy Żandarmerii Wojskowej,
-    - **n)** pracowników Urzędu Komisji Nadzoru Finansowego;
+- **32)** legitymacje służbowe: policjantów, funkcjonariuszy Straży Granicznej, funkcjonariuszy Służby Ochrony Państwa, funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, funkcjonariuszy Agencji Wywiadu, funkcjonariuszy Centralnego Biura Antykorupcyjnego, funkcjonariuszy Służby Kontrwywiadu Wojskowego i żołnierzy zawodowych wyznaczonych na stanowiska służbowe w Służbie Kontrwywiadu Wojskowego, funkcjonariuszy Służby Wywiadu Wojskowego i żołnierzy zawodowych wyznaczonych na stanowiska służbowe w Służbie Wywiadu Wojskowego, funkcjonariuszy i pracowników Służby Więziennej, funkcjonariuszy Służby Celno-Skarbowej, osób zatrudnionych w jednostkach organizacyjnych Krajowej Administracji Skarbowej, inspektorów Inspekcji Transportu Drogowego, żołnierzy Żandarmerii Wojskowej;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
+    - **k)**
+    - **l)**
+    - **m)**
 
 - **33)** karta kwalifikacji kierowcy.
 
@@ -169,9 +183,7 @@ Art. 59–71. (pominięte)
 
 5. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wykaz minimalnych zabezpieczeń przed fałszerstwem wymaganych dla dokumentów publicznych poszczególnych kategorii, uwzględniając kategorie dokumentów publicznych, dla których są ustalone, materiały, z których te dokumenty są wykonane, funkcje, jakie pełnią, oraz możliwość weryfikacji autentyczności dokumentów publicznych w pierwszym, drugim i trzecim stopniu weryfikacji autentyczności.
 
-6. (uchylony)
-
-**Art. 7a.** Przepisu art. 7 nie stosuje się do papierowych kart tożsamości wydawanych w razie ogłoszenia mobilizacji i w czasie wojny.
+6. (uchylony) Przepisu art. 7 nie stosuje się do papierowych kart tożsamości wydawanych w razie ogłoszenia mobilizacji i w czasie wojny.
 
 **Art. 8.** Emitent dokumentu publicznego, w uzgodnieniu z Komisją, może wprowadzić, poza minimalnymi zabezpieczeniami przed fałszerstwem wymaganymi dla dokumentów publicznych danej kategorii, dodatkowe zabezpieczenia przed fałszerstwem.
 
@@ -191,7 +203,7 @@ Art. 59–71. (pominięte)
 
 4. Emitent dokumentu publicznego może, w szczególnie uzasadnionych przypadkach, zgłosić Komisji potrzebę określenia wzoru dokumentu publicznego w terminie krótszym niż wskazany w ust. 3.
 
-5. Przy opracowywaniu wzoru dokumentu publicznego, o którym mowa w art. 5 ust. 2, Komisja i emitent dokumentu publicznego współpracują z wytwórcą wyłącznym w zakresie ustalenia warunków technicznych i produkcyjnych.
+5. Przy opracowywaniu wzoru dokumentu publicznego, o którym mowa w art. 5 ust. 2, Komisja i emitent dokumentu publicznego współpracują ze Spółką w zakresie ustalenia warunków technicznych i produkcyjnych.
 
 **Art. 12.**
 
@@ -201,9 +213,7 @@ Art. 59–71. (pominięte)
 
 3. Przewodniczący Zespołu przedstawia Komisji do zatwierdzenia rekomendację, o której mowa w ust. 1 albo 2, uzgodnioną z organem, o którym mowa w art. 11 ust. 2, albo emitentem dokumentu publicznego.
 
-4. Komisja zatwierdza albo odrzuca rekomendację, o której mowa w ust. 1 albo
-
-2. W przypadku odrzucenia rekomendacji Komisja przekazuje wytyczne do jej zmiany.
+4. Komisja zatwierdza albo odrzuca rekomendację, o której mowa w ust. 1 albo 2. W przypadku odrzucenia rekomendacji Komisja przekazuje wytyczne do jej zmiany.
 
 **Art. 13.**
 
@@ -217,41 +227,36 @@ Art. 59–71. (pominięte)
 
 **Art. 15.** Przepisy niniejszego rozdziału stosuje się do:
 
+- **1)** (uchylony)
+- **2)** wprowadzania dodatkowych zabezpieczeń dokumentów publicznych przed fałszerstwem.
+
 **Art. 16.** Przepisów niniejszego rozdziału nie stosuje się do dokumentów publicznych, których wzór oraz zakres wymaganych zabezpieczeń przed fałszerstwem został określony w przepisach prawa Unii Europejskiej lub prawa międzynarodowego.
 
 #### Rozdział 4 Wytwarzanie blankietów dokumentów publicznych
 
-**Art. 16a.**
-
-1. W celu zagwarantowania bezpieczeństwa państwa oraz porządku publicznego, w tym objęcia procesu wytwarzania lub personalizacji dokumentów publicznych nadzorem krajowej władzy bezpieczeństwa, a także ochrony informacji dotyczących współdziałania systemów niezbędnych do wytworzenia dokumentów publicznych z systemami, rejestrami i ewidencjami państwowymi, Polskiej Wytwórni Papierów Wartościowych Spółce Akcyjnej z siedzibą w Warszawie, zwanej dalej „wytwórcą wyłącznym”, powierza się prawo wyłączne określone w art. 17 w zakresie niektórych dokumentów publicznych wymienionych w art. 5 ust. 2.
-
-2. Rada Ministrów określi, w drodze rozporządzenia, wykaz dokumentów publicznych, do których wytwarzania, indywidualizacji lub personalizacji prawo wyłączne, określone w art. 17, powierza się wytwórcy wyłącznemu, oraz zakres tego powierzenia, uwzględniając kryteria określone w ust. 1.
-
 **Art. 17.**
 
-1. Prawo wyłączne obejmuje wytwarzanie blankietów dokumentów publicznych, o których mowa w art. 5 ust. 2 pkt 16, 17, 19 i 32 lit. a–e, g, h oraz m, lub blankietów dokumentów publicznych określonych w przepisach wydanych na podstawie art. 16a ust. 2. Prawo wyłączne może obejmować również indywidualizację lub personalizację dokumentów publicznych, o ile następują w procesie wytwarzania blankietów dokumentów publicznych.
+1. Blankiety dokumentów publicznych, o których mowa w art. 5 ust. 2, wytwarza Spółka.
 
-2. Wytwórca wyłączny jest obowiązany posiadać aktualny, certyfikowany i nadzorowany przez niezależną jednostkę certyfikującą system zarządzania bezpieczeństwem potwierdzony aktualnym certyfikatem zgodności z normą ISO
+2. Spółka jest obowiązana posiadać aktualny, certyfikowany i nadzorowany przez niezależną jednostkę certyfikującą system zarządzania bezpieczeństwem potwierdzony certyfikatem zgodności z normą ISO 14298:2013.
 
-14298.
+3. Spółka jest obowiązana do ochrony informacji niejawnych oznaczonych klauzulą „tajne”, o której mowa w ustawie z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2024 r. poz. 632 i 1222), oraz informacji niejawnych międzynarodowych o klauzuli „Secret UE/EU Secret”.
 
-3. Wytwórca wyłączny jest obowiązany posiadać świadectwo bezpieczeństwa przemysłowego potwierdzające zdolność do zapewnienia ochrony informacji niejawnych oznaczonych klauzulą „tajne” lub wyższą oraz odrębne świadectwo potwierdzające zdolność do ochrony informacji niejawnych o klauzuli stanowiącej zagraniczny odpowiednik klauzuli „tajne”.
+4. Blankiety dokumentów publicznych, o których mowa w art. 5 ust. 2 pkt 32, mogą być wytwarzane przez Agencję Bezpieczeństwa Wewnętrznego.
 
-4. Wytwórca wyłączny wytwarza blankiety dokumentów publicznych odpłatnie.
+5. Spółka wytwarza blankiety dokumentów publicznych odpłatnie.
 
-5. Cena wytworzenia blankietów dokumentów publicznych wymienionych w ust. 1 jest ustalana w umowie zawieranej między emitentem dokumentu publicznego a wytwórcą wyłącznym, z uwzględnieniem zasad handlowych i interesu publicznego.
+6. Cena wytworzenia blankietów dokumentów publicznych, o których mowa w art. 5 ust. 2, jest ustalana w umowie zawieranej między emitentem dokumentu publicznego a Spółką, z uwzględnieniem zasad handlowych i interesu publicznego.
 
-6. Blankiety dokumentów publicznych, o których mowa w art. 5 ust. 2 pkt 32, mogą być wytwarzane przez Agencję Bezpieczeństwa Wewnętrznego, mając na względzie konieczność zagwarantowania bezpieczeństwa państwa i ochronę danych osobowych funkcjonariuszy.
-
-**Art. 18.** Blankiety dokumentów publicznych, o których mowa w art. 5 ust. 3 i 4, są wytwarzane przez wytwórcę wyłącznego albo inne podmioty, których przedmiotem działalności jest wytwarzanie blankietów dokumentów i druków zabezpieczonych, które spełniają wymagania dotyczące bezpieczeństwa wytwarzania blankietów dokumentów publicznych określone w art. 19 i w przepisach wydanych na podstawie art. 21, a w przypadku wykonywania umowy wymagającej dostępu do informacji niejawnych o klauzuli „poufne” lub wyższej posiadają odpowiednie świadectwo bezpieczeństwa przemysłowego.
+**Art. 18.** Blankiety dokumentów publicznych, o których mowa w art. 5 ust. 3 i 4, są wytwarzane przez Spółkę albo inne podmioty, których przedmiotem działalności jest wytwarzanie blankietów dokumentów i druków zabezpieczonych, które spełniają wymagania dotyczące bezpieczeństwa wytwarzania blankietów dokumentów publicznych określone w art. 19 i w przepisach wydanych na podstawie art. 21, a w przypadku wykonywania umowy wymagającej dostępu do informacji niejawnych o klauzuli „poufne” lub wyższej posiadają odpowiednie świadectwo bezpieczeństwa przemysłowego.
 
 **Art. 19.**
 
-1. Przy wytwarzaniu blankietów dokumentów publicznych u wytwórcy wyłącznego oraz w innych podmiotach, o których mowa w art. 18, zatrudnia się osoby, które nie były skazane za przestępstwo umyślne przeciwko wiarygodności dokumentów, obrotowi gospodarczemu i bezpieczeństwu powszechnemu.
+1. Przy wytwarzaniu blankietów dokumentów publicznych w Spółce oraz innych podmiotach, o których mowa w art. 18, zatrudnia się osoby, które nie były skazane za przestępstwo umyślne przeciwko wiarygodności dokumentów, obrotowi gospodarczemu i bezpieczeństwu powszechnemu.
 
 2. Osoba ubiegająca się o zatrudnienie składa oświadczenie o niekaralności w zakresie, o którym mowa w ust. 1. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń. Pracownicy składają oświadczenia raz na trzy lata.
 
-3. Wytwórca wyłączny oraz inne podmioty, o których mowa w art. 18, dysponują potencjałem technicznym i technologicznym, który umożliwia realizację zleceń oraz zapewnia bezpieczeństwo wytwarzania blankietów dokumentów publicznych, w tym:
+3. Spółka oraz inne podmioty, o których mowa w art. 18, dysponują potencjałem technicznym i technologicznym, który umożliwia realizację zleceń oraz zapewnia bezpieczeństwo wytwarzania blankietów dokumentów publicznych, w tym:
 
 - **1)** bezpieczeństwo dokumentacji technicznej;
 - **2)** ewidencjonowanie i rozliczanie materiałów i innych elementów używanych do wytwarzania blankietów dokumentów publicznych, półproduktów oraz blankietów dokumentów publicznych na poszczególnych etapach procesu wytwarzania;
@@ -264,9 +269,13 @@ Art. 59–71. (pominięte)
 - **9)** prowadzenie ewidencji pracowników zatrudnionych przy wytwarzaniu blankietów dokumentów publicznych;
 - **10)** szkolenia pracowników zatrudnionych przy wytwarzaniu blankietów dokumentów publicznych w zakresie wymagań związanych z bezpieczeństwem wytwarzania tych blankietów.
 
-4. Podmioty inne niż wytwórca wyłączny, o których mowa w art. 18, opracowują wewnętrzne zasady bezpieczeństwa wytwarzania blankietów dokumentów publicznych i prowadzą dokumentację potwierdzającą stosowanie tych zasad. Na żądanie Ministra lub emitenta dokumentu publicznego podmioty te przedstawiają tę dokumentację.
+4. Podmioty inne niż Spółka, o których mowa w art. 18, opracowują wewnętrzne zasady bezpieczeństwa wytwarzania blankietów dokumentów publicznych i prowadzą dokumentację potwierdzającą stosowanie tych zasad. Na żądanie Ministra lub emitenta dokumentu publicznego podmioty te przedstawiają tę dokumentację.
 
-**Art. 20.** Wytwórca wyłączny oraz inne podmioty, o których mowa w art. 18, współdziałają z:
+**Art. 20.** Spółka oraz inne podmioty, o których mowa w art. 18, współdziałają z:
+
+- **1)** Szefem Agencji Bezpieczeństwa Wewnętrznego w zakresie sporządzania dokumentów, o których mowa w art. 35 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2024 r. poz. 812, 1222 i 1562);
+- **2)** Szefem Służby Wywiadu Wojskowego w zakresie sporządzania dokumentów, o których mowa w art. 39 ust. 4 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2024 r. poz. 1405);
+- **3)** organami, służbami i instytucjami państwowymi, o których mowa w art. 35 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, w zakresie sporządzania dokumentów.
 
 **Art. 21.** Minister właściwy do spraw wewnętrznych po zasięgnięciu opinii Szefa Agencji Bezpieczeństwa Wewnętrznego określi, w drodze rozporządzenia, szczegółowe wymagania w zakresie bezpieczeństwa wytwarzania blankietów dokumentów publicznych, o których mowa w art. 5 ust. 3 i 4, w tym szczegółowe wewnętrzne zasady bezpieczeństwa wytwarzania blankietów dokumentów publicznych, mając na uwadze potrzebę ochrony materiałów i innych elementów używanych do wytwarzania blankietów dokumentów publicznych, półproduktów oraz wytworzonych blankietów dokumentów publicznych przed dostępem osób nieuprawnionych i utratą, a także konieczność prowadzenia przejrzystej ewidencji materiałów i innych elementów używanych do wytwarzania blankietów dokumentów publicznych, półproduktów i blankietów dokumentów publicznych na poszczególnych etapach procesu wytwarzania oraz ewidencji dostępu do pomieszczeń, w których są wytwarzane i przechowywane blankiety dokumentów publicznych, materiały i inne elementy używane do wytwarzania blankietów dokumentów publicznych oraz półprodukty.
 
@@ -276,8 +285,8 @@ Art. 59–71. (pominięte)
 
 1. Minister i Szef Agencji Bezpieczeństwa Wewnętrznego wspólnie przeprowadzają kontrolę:
 
-- **1)** wytwórcy wyłącznego w zakresie posiadania systemu zarządzania bezpieczeństwem potwierdzonego certyfikatem zgodności z normą ISO 14298;
-- **2)** podmiotów, o których mowa w art. 18, innych niż wytwórca wyłączny w zakresie, o którym mowa w art. 19, oraz w zakresie spełniania przez te podmioty warunków określonych w przepisach wydanych na podstawie art. 21.
+- **1)** wytwórcy blankietów dokumentów publicznych, o którym mowa w art. 17 ust. 1, w zakresie posiadania systemu zarządzania bezpieczeństwem potwierdzonego certyfikatem zgodności z normą ISO 14298:2013 oraz w zakresie spełniania warunku wytwarzania blankietów dokumentów publicznych w zakładzie produkcyjnym na terytorium Rzeczypospolitej Polskiej;
+- **2)** podmiotów, o których mowa w art. 18, innych niż Spółka w zakresie, o którym mowa w art. 19, oraz w zakresie spełniania przez te podmioty warunków określonych w przepisach wydanych na podstawie art. 21.
 
 2. Do kontroli, o której mowa w ust. 1, w zakresie nieuregulowanym w niniejszej ustawie stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236 i 1222).
 
@@ -364,7 +373,7 @@ Art. 59–71. (pominięte)
 
 1. Emitent dokumentu publicznego, najpóźniej w dniu wejścia w życie przepisu określającego wzór dokumentu publicznego, zamieszcza na swojej stronie internetowej pliki graficzne i dane dotyczące dokumentu publicznego, o których mowa w art. 46 ust. 2 pkt 1–3.
 
-2. Emitent dokumentu publicznego przekazuje Ministrowi, drogą elektroniczną, dane, o których mowa w art. 46 ust. 2 pkt 1, pkt 2 lit. a–c, pkt 3 i 5, oraz, na zabezpieczonym informatycznym nośniku danych, dane, o których mowa w art. 46 ust. 2 pkt 4, w terminie, o którym mowa w ust. 1.
+2. Emitent dokumentu publicznego przekazuje Ministrowi, drogą elektroniczną, dane, o których mowa w art. 46 ust. 2 pkt 1, pkt 2 lit. a-c, pkt 3 i 5, oraz, na zabezpieczonym informatycznym nośniku danych, dane, o których mowa w art. 46 ust. 2 pkt 4, w terminie, o którym mowa w ust. 1.
 
 3. Emitent dokumentu publicznego przekazuje Ministrowi informację, o której mowa w art. 46 ust. 2 pkt 2 lit. d, najpóźniej w dniu zakończenia wydawania dokumentu publicznego danego wzoru.
 
@@ -383,6 +392,10 @@ Art. 59–71. (pominięte)
 **Art. 37.** Emitent dokumentu publicznego przekazuje Ministrowi dokument publiczny zwrócony przez posiadacza tego dokumentu wskazującego na jego uszkodzenie w wyniku wady technicznej, celem dokonania oceny jakości tego dokumentu.
 
 **Art. 38.** Emitent dokumentu publicznego współdziała z:
+
+- **1)** Szefem Agencji Bezpieczeństwa Wewnętrznego w zakresie sporządzania dokumentów, o których mowa w art. 35 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu;
+- **2)** Szefem Służby Wywiadu Wojskowego w zakresie sporządzania dokumentów, o których mowa w art. 39 ust. 4 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego;
+- **3)** organami, służbami i instytucjami państwowymi, o których mowa w art. 35 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, w zakresie sporządzania dokumentów.
 
 **Art. 39.**
 
@@ -449,20 +462,20 @@ Art. 59–71. (pominięte)
 2. W Rejestrze gromadzi się:
 
 - **1)** pliki graficzne zawierające widok ogólny wzorca dokumentu publicznego oraz jego elementy charakterystyczne;
-- **2)** opis dokumentu publicznego zawierający w szczególności:
-    - **a)** datę wprowadzenia wzoru do obrotu prawnego,
-    - **b)** datę rozpoczęcia wydawania dokumentu publicznego danego wzoru,
-    - **c)** okres ważności dokumentu publicznego,
-    - **d)** datę zakończenia wydawania dokumentu danego wzoru;
+- **2)** opis dokumentu publicznego zawierający w szczególności: datę wprowadzenia wzoru do obrotu prawnego, datę rozpoczęcia wydawania dokumentu publicznego danego wzoru, okres ważności dokumentu publicznego, datę zakończenia wydawania dokumentu danego wzoru;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **3)** pliki graficzne obrazujące elementy zabezpieczeń przed fałszerstwem przeznaczone do weryfikacji autentyczności dokumentu publicznego pierwszego i drugiego stopnia, wraz z opisem sposobu dokonywania tej weryfikacji;
 - **4)** nazwy zabezpieczeń przed fałszerstwem przeznaczonych do dokonywania weryfikacji autentyczności dokumentu publicznego trzeciego stopnia, z wyłączeniem informacji niejawnych, o których mowa w ustawie z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych;
 - **5)** informacje dotyczące wytwórcy lub wytwórców dokumentów publicznych, wielkości ich nakładu oraz wykazu oznaczeń indywidualnych dokumentów publicznych;
-- **6)** informacje o przypadkach fałszerstw dokumentów publicznych dotyczące:
-    - **a)** oznaczenia sprawy i organu ją prowadzącego,
-    - **b)** miejsca i daty ujawnienia sfałszowanego dokumentu, w tym nazwę miejscowości, w której nastąpiło ujawnienie, ze wskazaniem powiatu i województwa,
-    - **c)** ujawnionych ośrodków fałszerskich,
-    - **d)** rodzaju sfałszowanego dokumentu publicznego, jego cech charakterystycznych i liczby sfałszowanych dokumentów publicznych.
+- **6)** informacje o przypadkach fałszerstw dokumentów publicznych dotyczące: oznaczenia sprawy i organu ją prowadzącego, miejsca i daty ujawnienia sfałszowanego dokumentu, w tym nazwę miejscowości, w której nastąpiło ujawnienie, ze wskazaniem powiatu i województwa, ujawnionych ośrodków fałszerskich, rodzaju sfałszowanego dokumentu publicznego, jego cech charakterystycznych i liczby sfałszowanych dokumentów publicznych.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 3. W Rejestrze mogą być gromadzone skany cech charakterystycznych sfałszowanych dokumentów publicznych oraz opisy dokonanych fałszerstw.
 
@@ -484,7 +497,7 @@ Art. 59–71. (pominięte)
 
 4. Szef Agencji Bezpieczeństwa Wewnętrznego może odstąpić od sporządzenia uzasadnienia opinii, o której mowa w ust. 3, w części lub w całości, jeżeli wymagają tego względy bezpieczeństwa państwa.
 
-5. Minister może wyrazić zgodę na udostępnienie danych i informacji, o których mowa w art. 46 ust. 2 pkt 6 lit. d oraz ust. 3, na uzasadniony wniosek wytwórcy wyłącznego.
+5. Minister może wyrazić zgodę na udostępnienie danych i informacji, o których mowa w art. 46 ust. 2 pkt 6 lit. d oraz ust. 3, na uzasadniony wniosek Spółki.
 
 #### Rozdział 9 Komisja
 
@@ -584,9 +597,7 @@ Art. 59–71. (pominięte)
 
 1b. Termin określony w komunikacie nie może być późniejszy niż dzień 1 października 2025 r.
 
-2. Wydawane na podstawie przepisów dotychczasowych dokumenty publiczne zachowują ważność. Dokumenty publiczne, których termin został określony, zachowują ważność do upływu tego terminu.
-
-**Art. 73a.** Blankiety papierowych kart tożsamości, które nie spełniają wymagań odnośnie do minimalnych zabezpieczeń określonych w niniejszej ustawie, sporządzone na podstawie przepisów wydanych odpowiednio na podstawie art. 137c ust. 6 ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2022 r. poz. 536 i 974) oraz na podstawie art. 54a ust. 5 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2021 r. poz. 372 i 1728) mogą być wydawane do wyczerpania ich zapasów.
+2. Wydawane na podstawie przepisów dotychczasowych dokumenty publiczne zachowują ważność. Dokumenty publiczne, których termin został określony, zachowują ważność do upływu tego terminu. Blankiety papierowych kart tożsamości, które nie spełniają wymagań odnośnie do minimalnych zabezpieczeń określonych w niniejszej ustawie, sporządzone na podstawie przepisów wydanych odpowiednio na podstawie art. 137c ust. 6 ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2022 r. poz. 536 i 974) oraz na podstawie art. 54a ust. 5 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2021 r. poz. 372 i 1728) mogą być wydawane do wyczerpania ich zapasów.
 
 **Art. 74.** Wykonane przed dniem wejścia w życie niniejszej ustawy, na zlecenie emitenta dokumentu publicznego, spersonalizowane lub zindywidualizowane fikcyjnymi danymi blankiety dokumentów publicznych z naniesionym w sposób trwały oznaczeniem „SPECIMEN” albo „WZÓR” mogą być wykorzystane do czasu wyczerpania ich zapasów.
 
@@ -612,5 +623,14 @@ Art. 59–71. (pominięte)
 
 **Art. 79.** W okresie 5 lat od dnia wejścia w życie niniejszej ustawy przez doświadczenie, o którym mowa w art. 36 ust. 2, art. 48 ust. 3 i art. 49 ust. 4, należy rozumieć doświadczenie zdobyte w obszarze dokumentów, które służą do identyfikacji osób, rzeczy lub potwierdzają stan prawny lub prawa osób posługujących się takim dokumentem, zabezpieczonych przed fałszerstwem.
 
-**Art. 80.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia , z wyjątkiem:
+**Art. 80.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** (uchylony)
+- **2)** art. 3 ust. 1 pkt 7 i art. 45–48, które wchodzą w życie po upływie 18 miesięcy od dnia ogłoszenia;
+- **3)** art. 5 ust. 2 pkt 27 w zakresie, w jakim dotyczy profesjonalnego dowodu rejestracyjnego, i art. 71, które wchodzą w życie z dniem 11 lipca 2019 r.;
+- **4)** art. 17 ust. 2 i art. 22–33, które wchodzą w życie z dniem 1 sierpnia 2019 r.;
+- **5)** art. 42, który wchodzi w życie po upływie 24 miesięcy od dnia ogłoszenia;
+- **6)** art. 67, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.
+- **1)** Ze zmianą wprowadzoną przez art. 2 ustawy z dnia 28 czerwca 2024 r. o zmianie ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami, ustawy o dokumentach publicznych oraz ustawy o pomocy państwa w oszczędzaniu na cele mieszkaniowe (Dz. U. poz. 1081); wszedł w życie z dniem 19 lipca 2024 r. 2) W brzmieniu ustalonym przez art. 1 ustawy z dnia 24 lipca 2024 r. o zmianie ustawy o dokumentach publicznych (Dz. U. poz. 1155), która weszła w życie z dniem 2 sierpnia 2024 r. 3) Ustawa została ogłoszona w dniu 11 stycznia 2019 r.
+
 

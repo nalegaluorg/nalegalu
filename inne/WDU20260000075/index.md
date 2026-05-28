@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 stycznia 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 stycznia 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-01-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000075) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/75/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 stycznia 2026 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst ustawy z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym (Dz. U. z 2017 r.
 poz. 823), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 9 lipca 2025 r. o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym (Dz. U. poz. 1021) oraz zmian wynikających z przepisów ogłoszonych przed dniem 16 stycznia 2026 r.
 2. Podany załączniku niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 ustawy z dnia 9 lipca 2025 r. o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym (Dz. U. poz. 1021), który stanowi: „Art. 2. Ustawa wchodzi życie pierwszego dnia miesiąca następującego po upływie 3 miesięcy od dnia ogłoszenia.”.
@@ -118,11 +118,16 @@ o mniejszościach narodowych i etnicznych oraz o języku regionalnym
 
 **Art. 8.** Osoby należące mniejszości mają szczególności prawo do:
 
+- **1)** swobodnego posługiwania się językiem mniejszości życiu prywatnym i publicznie;
+- **2)** rozpowszechniania i wymiany informacji języku mniejszości;
+- **3)** zamieszczania języku mniejszości informacji o charakterze prywatnym;
+- **4)** nauki języka mniejszości lub języku mniejszości.
+
 **Art. 9.**
 
 1. Przed organami gminy, obok języka urzędowego, może być używany, jako język pomocniczy, język mniejszości.
 
-2. Język pomocniczy może być używany jedynie gminach, których liczba mieszkańców gminy należących mniejszości, której język ma być używany jako język pomocniczy, jest nie mniejsza niż 20 % ogólnej liczby mieszkańców gminy i które zostały wpisane Urzędowego Rejestru Gmin, których używany jest język pomocniczy, zwanego dalej „Urzędowym Rejestrem”.
+2. Język pomocniczy może być używany jedynie gminach, których liczba mieszkańców gminy należących mniejszości, której język ma być używany jako język pomocniczy, jest nie mniejsza niż 20 % ogólnej liczby mieszkańców gminy i które zostały wpisane Urzędowego Rejestru Gmin, których używany jest język pomocniczy, zwanego dalej „Urzędowym Rejestrem”. prawo do:
 
 - **1)** zwracania się organów gminy języku pomocniczym formie pisemnej lub ustnej;
 - **2)** uzyskiwania, na wyraźny wniosek, odpowiedzi także języku pomocniczym formie pisemnej lub ustnej.
@@ -166,7 +171,7 @@ o mniejszościach narodowych i etnicznych oraz o języku regionalnym
 - **1)** urzędowych nazw miejscowości i obiektów fizjograficznych,
 - **2)** nazw ulic ustalonych języku polskim na podstawie odrębnych przepisów.
 
-2. Dodatkowe nazwy, o których mowa ust. 1, mogą być używane jedynie na obszarze gmin wpisanych prowadzonego przez ministra właściwego spraw wyznań religijnych oraz mniejszości narodowych i etnicznych Rejestru gmin, na których obszarze używane są nazwy języku mniejszości, zwanego dalej „Rejestrem gmin”. Wpisu Rejestru gmin dokonuje minister właściwy spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na wniosek rady gminy, na której obszarze nazwy te mają być używane, z zastrzeżeniem ust. 7 i art. 13 ust. 1–7.
+2. Dodatkowe nazwy, o których mowa ust. 1, mogą być używane jedynie na obszarze gmin wpisanych prowadzonego przez ministra właściwego spraw wyznań religijnych oraz mniejszości narodowych i etnicznych Rejestru gmin, na których obszarze używane są nazwy języku mniejszości, zwanego dalej „Rejestrem gmin”. Wpisu Rejestru gmin dokonuje minister właściwy spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na wniosek rady gminy, na której obszarze nazwy te mają być używane, z zastrzeżeniem ust. 7 i art. 13 ust. 1–7. władze Trzeciej Rzeszy Niemieckiej lub Związku Socjalistycznych Republik Radzieckich.
 
 4. Dodatkowe nazwy, o których mowa ust. 1, mogą być wprowadzone na terenie całej gminy lub poszczególnych miejscowościach.
 
@@ -202,7 +207,7 @@ o mniejszościach narodowych i etnicznych oraz o języku regionalnym
 
 6. Dodatkową nazwę miejscowości lub obiektu fizjograficznego języku mniejszości uważa się za ustaloną, jeżeli została wpisana Rejestru gmin.
 
-7. Wpisu, o którym mowa ust. 6, dokonuje minister właściwy spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, po uzyskaniu pozytywnej opinii Komisji Nazw Miejscowości i Obiektów Fizjograficznych. z tego Rejestru, jeżeli będzie nawiązywała nazwy z okresu 1933–1945, nadanej przez władze Trzeciej Rzeszy Niemieckiej lub Związku Socjalistycznych Republik Radzieckich.
+7. Wpisu, o którym mowa ust. 6, dokonuje minister właściwy spraw wyznań religijnych oraz mniejszości narodowych i etnicznych, po uzyskaniu pozytywnej opinii Komisji Nazw Miejscowości i Obiektów Fizjograficznych. Rejestru gmin dodatkowej nazwy miejscowości lub obiektu fizjograficznego języku mniejszości lub wykreśli nazwę z tego Rejestru, jeżeli będzie nawiązywała nazwy z okresu 1933–1945, nadanej przez władze Trzeciej Rzeszy Niemieckiej lub Związku Socjalistycznych Republik Radzieckich.
 
 9. Na odmowę dokonania wpisu, o którym mowa ust. 6, i na wykreślenie, o którym mowa ust. 8, radzie gminy przysługuje skarga sądu administracyjnego.
 
@@ -370,7 +375,7 @@ o mniejszościach narodowych i etnicznych oraz o języku regionalnym
 
 5. Poszczególne mniejszości, o których mowa art. 2, oraz społeczność posługująca się językiem, o którym mowa art. 19, zgłaszają ministrowi właściwemu spraw wyznań religijnych oraz mniejszości narodowych i etnicznych swoich kandydatów na członków Komisji Wspólnej reprezentujących daną mniejszość lub społeczność posługującą się językiem, o którym mowa art. 19, liczbie określonej dla tej mniejszości lub dla tej społeczności odpowiednio ust. 1 pkt 2 albo pkt 3, terminie 90 dni od dnia otrzymania zawiadomienia, o którym mowa ust. 3.
 
-6. Jeżeli terminie określonym ust. 5 któraś z mniejszości lub społeczność posługująca się językiem, o którym mowa art. 19, nie zgłosi swoich kandydatów lub zgłosi liczbę kandydatów inną niż określona odpowiednio dla tej mniejszości ust. 1 pkt 2, a dla społeczności ust. 1 pkt 3, wówczas minister właściwy spraw wyznań religijnych oraz mniejszości narodowych i etnicznych przedstawia tej mniejszości lub społeczności zaopiniowania swoich kandydatów na członków Komisji Wspólnej reprezentujących tę mniejszość lub społeczność. W przypadku niewyrażenia przez mniejszość lub społeczność opinii terminie 30 dni od dnia przedstawienia przez ministra właściwego spraw wyznań religijnych oraz mniejszości narodowych i etnicznych kandydatów, wymóg uzyskania opinii uznaje się za spełniony. mowa ust. 1 pkt 1, oraz mniejszości lub społeczność posługującą się językiem, o którym mowa art. 19, z zastrzeżeniem ust. 6, a także kandydata na sekretarza Komisji Wspólnej.
+6. Jeżeli terminie określonym ust. 5 któraś z mniejszości lub społeczność posługująca się językiem, o którym mowa art. 19, nie zgłosi swoich kandydatów lub zgłosi liczbę kandydatów inną niż określona odpowiednio dla tej mniejszości ust. 1 pkt 2, a dla społeczności ust. 1 pkt 3, wówczas minister właściwy spraw wyznań religijnych oraz mniejszości narodowych i etnicznych przedstawia tej mniejszości lub społeczności zaopiniowania swoich kandydatów na członków Komisji Wspólnej reprezentujących tę mniejszość lub społeczność. W przypadku niewyrażenia przez mniejszość lub społeczność opinii terminie 30 dni od dnia przedstawienia przez ministra właściwego spraw wyznań religijnych oraz mniejszości narodowych i etnicznych kandydatów, wymóg uzyskania opinii uznaje się za spełniony. i etnicznych wskazuje jako kandydatów na członków Komisji Wspólnej jedynie osoby zgłoszone przez organy, o których mowa ust. 1 pkt 1, oraz mniejszości lub społeczność posługującą się językiem, o którym mowa art. 19, z zastrzeżeniem ust. 6, a także kandydata na sekretarza Komisji Wspólnej.
 
 **Art. 25.**
 
@@ -416,7 +421,7 @@ o mniejszościach narodowych i etnicznych oraz o języku regionalnym
 
 1. Obsługę organizacyjno-techniczną prac Komisji Wspólnej zapewnia urząd obsługujący ministra właściwego spraw wyznań religijnych oraz mniejszości narodowych i etnicznych.
 
-2. Koszty funkcjonowania Komisji Wspólnej są pokrywane z budżetu państwa z części, której dysponentem jest minister właściwy spraw wyznań religijnych oraz mniejszości narodowych i etnicznych. Komisji Wspólnej, będącego przedstawicielem tych mniejszości i społeczności, zapewnia Kancelaria Sejmu.
+2. Koszty funkcjonowania Komisji Wspólnej są pokrywane z budżetu państwa z części, której dysponentem jest minister właściwy spraw wyznań religijnych oraz mniejszości narodowych i etnicznych. szości oraz przedstawicieli społeczności posługującej się językiem, o którym mowa art. 19, tym współprzewodniczącego Komisji Wspólnej, będącego przedstawicielem tych mniejszości i społeczności, zapewnia Kancelaria Sejmu.
 
 2. Koszty związane z obsługą, o której mowa ust. 1, są pokrywane z budżetu państwa ze środków, których dysponentem jest Szef Kancelarii Sejmu.
 

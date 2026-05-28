@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o podatku od spadków i darowizn
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 marca 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 kwietnia 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-04-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000478) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/478/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 marca 2026 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o podatku od spadków i darowizn
 1. Na podstawie 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2024 r. poz. 1837), z uwzględnieniem stanu prawnego na dzień 19 marca 2026 r. oraz zmian wprowadzonych:
 1) ustawą z dnia 21 maja 2025 r. o zmianie niektórych ustaw celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (Dz. U. poz. 769);
 2) ustawą z dnia 25 lipca 2025 r. o zmianie ustawy o podatku od spadków i darowizn (Dz. U. poz. 1064);
@@ -40,6 +40,13 @@ source: "isap-pdf"
 **Art. 3.** Przepis 19 ust. 7 ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, stosuje się do zbywanych lub obciążanych rzeczy lub praw majątkowych nabytych po dniu 31 grudnia 2006 r.
 
 **Art. 4.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.”;
+
+- **3)** 2 i 3 ustawy z dnia 21 listopada 2025 r. o zmianie ustawy o podatku od spadków i darowizn (Dz. U. poz. 1854), które stanowią: „Art. 2. 1. Przepisy 4c i 17a ust. 1a ustawy zmienianej 1 mają zastosowanie do nabycia własności rzeczy lub praw majątkowych, które nastąpiło:
+- **2)** przed dniem wejścia życie niniejszej ustawy o ile termin do zgłoszenia tego nabycia określony 4a ust. 1 pkt 1 i ust. 2 oraz 4b ust. 1 pkt 1 ustawy zmienianej 1 nie upłynął do dnia wejścia życie niniejszej ustawy.
+
+2. Przepisy 6 ust. 1 pkt 1 i ust. 1c ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, mają zastosowanie do nabycia własności rzeczy lub praw majątkowych drodze dziedziczenia, przypadku którego uprawomocnienie się orzeczenia sądu stwierdzającego nabycie spadku, zarejestrowanie aktu poświadczenia dziedziczenia, wydanie europejskiego poświadczenia spadkowego lub wydanie dokumentu stwierdzającego nabycie spadku przez inny niż sąd organ państwa obcego nastąpiło od dnia wejścia życie niniejszej ustawy.
+
+3. Przepis 17a ust. 1 ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, ma zastosowanie do nabycia własności rzeczy lub praw majątkowych, z tytułu którego obowiązek podatkowy, tym także obowiązek podatkowy, o którym mowa 6 ust. 4 ustawy zmienianej 1, powstał od dnia wejścia życie niniejszej ustawy.
 
 **Art. 3.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 28 lipca 1983 r. o podatku od spadków i darowizn
 
@@ -60,9 +67,25 @@ source: "isap-pdf"
 
 **Art. 1a.** Przepisy ustawy o nieodpłatnym zniesieniu współwłasności stosuje się odpowiednio do nieodpłatnego:
 
+- **1)** nabycia własności rzeczy wspólnej (wspólnego prawa majątkowego) albo jej części przez niektórych dotychczasowych współwłaścicieli na dalszą współwłasność;
+- **2)** wyodrębnienia własności lokali na rzecz niektórych lub wszystkich współwłaścicieli.
+
 **Art. 2.** Nabycie własności rzeczy znajdujących się za granicą lub praw majątkowych wykonywanych za granicą podlega podatkowi, jeżeli chwili otwarcia spadku lub zawarcia umowy darowizny nabywca był obywatelem polskim lub miał miejsce stałego pobytu na terytorium Rzeczypospolitej Polskiej.
 
 **Art. 3.** Podatkowi nie podlega:
+
+- **1)** nabycie własności rzeczy ruchomych znajdujących się na terytorium Rzeczypospolitej Polskiej lub praw majątkowych podlegających wykonaniu na terytorium Rzeczypospolitej Polskiej, jeżeli dniu nabycia ani nabywca, ani też spadkodawca lub darczyńca nie byli obywatelami polskimi i nie mieli miejsca stałego pobytu lub siedziby na terytorium Rzeczypospolitej Polskiej;
+- **2)** nabycie drodze spadku, zapisu windykacyjnego lub darowizny praw autorskich i praw pokrewnych, praw do projektów wynalazczych, znaków towarowych i wzorów zdobniczych oraz wierzytelności wynikających z nabycia tych praw;
+- **3)** (uchylony)
+- **4)** nabycie drodze dziedziczenia środków z pracowniczego programu emerytalnego;
+- **4a)** nabycie drodze dziedziczenia środków z pracowniczego planu kapitałowego, o którym mowa ustawie z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. z 2026 r. poz. 192);
+- **5)** nabycie drodze spadku środków zgromadzonych na rachunku zmarłego członka otwartego funduszu emerytalnego;
+- **6)** nabycie drodze spadku środków zgromadzonych na indywidualnym koncie emerytalnym oraz na indywidualnym koncie zabezpieczenia emerytalnego;
+- **6a)** nabycie drodze spadku środków zgromadzonych na subkoncie OIPE rozumieniu 2 pkt 9 ustawy z dnia 7 lipca 2023 r. o ogólnoeuropejskim indywidualnym produkcie emerytalnym (Dz. U. poz. 1843) oraz na subkoncie rozumieniu 2 pkt 23 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1238 z dnia 20 czerwca 2019 r. sprawie ogólnoeuropejskiego indywidualnego produktu emerytalnego (OIPE) (Dz. Urz. UE L 198 z 25.07.2019, str. 1) prowadzonym zgodnie z przepisami obowiązującymi na terytorium innego niż Rzeczpospolita Polska państwa
+- **7)** nabycie drodze spadku kwoty składek zewidencjonowanych na subkoncie, o którym mowa 40a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2026 r. poz. 199 i 252);
+- **8)** nabycie nieodpłatnej renty, o której mowa 29c ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U. z 2024 r. poz. 1747 oraz z 2025 r. poz. 1531);
+- **9)** nabycie własności rzeczy lub praw majątkowych będących przedmiotem świadczenia, o którym mowa 2 ust. 2 ustawy z dnia 26 stycznia 2023 r. o fundacji rodzinnej (Dz. U. poz. 326 i 825), oraz stanowiących mienie otrzymane związku z rozwiązaniem fundacji rodzinnej albo fundacji rodzinnej organizacji;
+- **10)** nabycie przez nauczycieli laptopów, laptopów przeglądarkowych oraz bony na zakup laptopów lub laptopów przeglądarkowych otrzymanych ramach wsparcia, o którym mowa ustawie z dnia 7 lipca 2023 r. o wsparciu rozwoju kompetencji cyfrowych nauczycieli (Dz. U. z 2024 r. poz. 1771).
 
 **Art. 4.**
 

@@ -21,6 +21,7 @@ source: "isap-pdf"
 | Status | obowiązujący |
 | W mocy | tak |
 | Data ogłoszenia | 1993-04-26 |
+| Wejście w życie | 1994-03-01 |
 | Ostatnia zmiana | 2014-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19941240607) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1994/607/text.pdf) |
 

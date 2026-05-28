@@ -8,12 +8,10 @@ pos: 151
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o nadaniu Akademii Medycznej w Lublinie nazwy „Akademia Medyczna w Lublinie imienia Profesora Feliksa Skubiszewskiego”
-
-*USTAWA z dnia 4 grudnia 2002 r.*
+# Ustawa z dnia 4 grudnia 2002 r. o nadaniu Akademii Medycznej w Lublinie nazwy „Akademia Medyczna w Lublinie imienia Profesora Feliksa Skubiszewskiego”
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2002-12-04 |
 | Data wydania | 2003-02-04 |
+| Wejście w życie | 2003-02-19 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030170151) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/151/text.pdf) |
 

@@ -8,10 +8,10 @@ pos: 2843
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ Warszawa, dnia 30 WZÓR ŚWIADECTWO JAKOŚCI
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 23 grudnia 2022 r. w sprawie wzoru świadectwa jakości paliw stałych
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,21 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-23 |
 | Data wydania | 2022-12-30 |
+| Wejście w życie | 2022-12-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002843) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2843/text.pdf) |
 
-1. Świadectwo paliw stałych nr ……………..
-2. Oznaczenie przedsiębiorcy wystawiającego świadectwo sprzedaży, jeżeli jest inny niż adres siedziby przedsiębiorcy.
-3. Numer identyfikacji podatkowej (NIP) przedsiębiorcy identyfikacyjny w krajowym rejestrze urzędowym został nadany, albo numer identyfikacyjny w odpowiednim
-4. Określenie rodzaju paliwa stałego, dla którego jest wystawiane
-5. Wskazanie systemu certyfikacji lub innego dokumentu rodzaj paliwa stałego, dla którego jest wystawiane określone w przepisach wydanych na podstawie art.
-monitorowania i kontrolowania paliw.
-6. Wskazanie wartości parametrów paliwa stałego, dla informacja o wymaganiach jakościowych dla paliwa - zgodnie z przepisami wydanymi na podstawie o systemie monitorowania i kontrolowania
-7.
-Parametr Symbol Jednostka Zawartość popiołu A % Zawartość siarki S całkowitej % Zawartość części lotnych V % Wartość opałowa Q MJ/kg Zdolność spiekania RI Wymiar ziarna - mm Zawartość podziarna - % Zawartość nadziarna - % Zawartość wilgoci całkowitej W %
-9. Oświadczam, że paliwo stałe, dla którego jest wystawiane określone w przepisach wydanych na podstawie art.
-monitorowania i kontrolowania paliw.
-10. Data i miejsce 11. Podpis przedsiębiorcy wystawienia świadectwa. osoby upoważnionej
+Treść rozporządzenia
+Załącznik – Świadectwo jakości paliw stałych (wzór)
+Treść rozporządzenia
+Na podstawie art. 6e ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. z 2022 r. poz. 1315, 1576, 1967, 2411 i 2687) zarządza się, co następuje:
+§ 1.
+Określa się wzór świadectwa jakości paliw stałych, który stanowi załącznik do rozporządzenia.
+§ 2.
+Traci moc rozporządzenie Ministra Energii z dnia 27 września 2018 r. w sprawie wzoru świadectwa jakości paliw stałych (Dz. U. poz. 1892).
+§ 3.
+Rozporządzenie wchodzi w życie z dniem 31 grudnia 2022 r.
+1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
+Załącznik – Świadectwo jakości paliw stałych (wzór)
+patrz oryginał
 

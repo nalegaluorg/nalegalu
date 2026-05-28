@@ -8,12 +8,10 @@ pos: 1241
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o bezpieczeństwie i ratownictwie w górach i na zorganizowanych terenach narciarskich
-
-*USTAWA z dnia 18 sierpnia 2011 r.*
+# Ustawa z dnia 18 sierpnia 2011 r. o bezpieczeństwie i ratownictwie w górach i na zorganizowanych terenach narciarskich
 
 | Pole | Wartość |
 |---|---|
@@ -24,16 +22,35 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2011-08-18 |
 | Data wydania | 2011-09-30 |
+| Wejście w życie | 2011-12-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112081241) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1241/text.pdf) |
-
-Art. 47–51. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
 
+- **1)** podmioty uprawnione do wykonywania ratownictwa górskiego i ratownictwa na zorganizowanych terenach narciarskich, zakres ich obowiązków i uprawnień oraz zasady finansowania ich działalności;
+- **2)** obowiązki osób przebywających w górach oraz na zorganizowanych terenach narciarskich, a w szczególności uprawiających sport, rekreację lub turystykę;
+- **3)** podmioty odpowiedzialne za zapewnienie bezpieczeństwa osobom przebywającym w górach i na zorganizowanych terenach narciarskich;
+- **4)** warunki bezpieczeństwa osób przebywających w górach oraz na zorganizowanych terenach narciarskich, a w szczególności uprawiających tam sport, rekreację lub turystykę;
+- **5)** nadzór i kontrolę nad ratownictwem górskim.
+
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** górach – rozumie się przez to obszar Beskidu Niskiego, Beskidu Wyspowego, Beskidu Średniego, Beskidu Sądeckiego, Beskidu Żywieckiego, Beskidu Małego, Beskidu Śląskiego, Bieszczadów, Gorców, Pienin, Sudetów Wschodnich, Sudetów Środkowych, Sudetów Zachodnich, Tatr, pasma Spisko-Gubałowskiego oraz Wyżyny Krakowsko-Wieluńskiej z wyłączeniem obszarów jednostek osadniczych i dróg publicznych;
+- **2)** parkach narciarskich – rozumie się przez to tereny, na których znajdują się obiekty przeznaczone do wykonywania ewolucji akrobatycznych na nartach i snowboardzie, w szczególności takie jak skocznie, rynny, poręcze;
+- **3)** pólkach ćwiczebnych – rozumie się przez to tereny przeznaczone w szczególności do nauczania narciarstwa lub snowboardingu;
+- **4)** narciarskiej trasie biegowej – rozumie się przez to tereny wyznaczone i odpowiednio oznakowane, przeznaczone do uprawiania narciarstwa biegowego o szerokości co najmniej 3 m;
+- **5)** narciarskiej trasie zjazdowej – rozumie się przez to tereny przeznaczone do uprawiania narciarstwa i snowboardingu, zapewniające istnienie wolnej przestrzeni do zjazdu, odpowiedniej do stopnia trudności narciarskiej trasy zjazdowej i zdolności przewozowej urządzeń transportu linowego i taśmowego przeznaczonych do transportu osób, przy których się znajdują;
+- **6)** nartostradzie – rozumie się przez to tereny przeznaczone do uprawiania narciarstwa zjazdowego i snowboardingu, o szerokości co najmniej 3 m, służące w szczególności do komunikacji pomiędzy: narciarskimi trasami zjazdowymi, zorganizowanymi terenami narciarskimi, stacjami urządzeń transportu linowego i taśmowego przeznaczonych do transportu osób, oraz trasy dojazdowe do dróg, parkingów i obiektów użyteczności publicznej;
+- **7)** ratownictwie górskim – rozumie się przez to organizowanie i udzielanie pomocy osobom, które uległy wypadkowi lub są narażone na niebezpieczeństwo utraty życia lub zdrowia w górach oraz transportowanie zwłok z gór;
+- **8)** ratownictwie narciarskim – rozumie się przez to organizowanie i udzielanie pomocy osobom, które uległy wypadkowi lub są narażone na niebezpieczeństwo utraty życia lub zdrowia na zorganizowanych terenach narciarskich;
+- **9)** ratowniku górskim – rozumie się przez to osobę spełniającą wymagania określone w ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. Nr 191, poz. 1410, z późn. zm.) dla lekarza systemu, pielęgniarki systemu, ratownika medycznego lub ratownika oraz posiadającą uprawnienia ratownicze lub instruktorskie w zakresie ratownictwa górskiego oraz specjalistyczną wiedzę z zakresu technik ratownictwa górskiego i topografii obszaru, na którym działa dany podmiot uprawniony do wykonywania ratownictwa górskiego, zatrudnioną lub pełniącą służbę w tym podmiocie lub będącą członkiem tego podmiotu;
+- **10)** ratowniku narciarskim – rozumie się przez to osobę spełniającą wymagania określone w ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym dla lekarza systemu, pielęgniarki systemu, ratownika medycznego lub ratownika lub posiadającą ważne zaświadczenie o ukończeniu kursu w zakresie kwalifikowanej pierwszej pomocy, o którym mowa w art. 13 ust. 1 pkt 3 tej ustawy, oraz ukończyła szkolenie w zakresie transportu osób potrzebujących pomocy na zorganizowanych terenach narciarskich, organizowane przez podmioty uprawnione do wykonywania ratownictwa górskiego;
+- **11)** wypadku – rozumie się przez to nagłe zdarzenie lub zachorowanie, którego następstwem jest naruszenie czynności narządu ciała lub rozstrój zdrowia osoby przebywającej w górach lub na zorganizowanych terenach narciarskich;
+- **12)** zarządzającym zorganizowanym terenem narciarskim – rozumie się przez to osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej będącą właścicielem, użytkownikiem, najemcą, dzierżawcą lub posiadającą inny tytuł prawny do zorganizowanego terenu narciarskiego lub urządzeń transportu linowego lub taśmowego przeznaczonych do transportu osób, przy których znajduje się zorganizowany teren narciarski;
+- **13)** zorganizowanym terenie narciarskim – rozumie się przez to ogólnie udostępnione i odpowiednio naśnieżone lub z odpowiednio przygotowanym sztucznym podłożem, oznaczone i zabezpieczone tereny przeznaczone do uprawiania narciarstwa lub snowboardingu, znajdujące się przy urządzeniach transportu linowego lub taśmowego przeznaczonych do transportu osób, a także narciarskie trasy biegowe oraz parki narciarskie i pólka ćwiczebne.
 
 #### Rozdział 2 Bezpieczeństwo w górach
 
@@ -50,11 +67,17 @@ Art. 47–51. (pominięte)
 
 **Art. 4.** Osoby przebywające w górach obowiązane są do zachowania należytej staranności w celu ochrony życia i zdrowia własnego oraz innych osób, a w szczególności:
 
+- **1)** zapoznania się z zasadami korzystania z danego terenu, obiektu lub urządzenia i ich przestrzegania;
+- **2)** stosowania się do znaków nakazu i zakazu umieszczanych przez podmioty, o których mowa w art. 3 ust. 1;
+- **3)** zapoznania się oraz dostosowania swoich planów aktywności do umiejętności, aktualnych warunków atmosferycznych, prognozy pogody, komunikatu lawinowego dla danego obszaru i zastosowania się do zaleceń i ograniczeń wynikających z ogłoszonego stopnia zagrożenia lawinowego oraz z panujących i przewidywanych warunków atmosferycznych;
+- **4)** użytkowania sprzętu odpowiedniego do rodzaju podejmowanej aktywności, sprawnego technicznie i zgodnie z jego przeznaczeniem i zasadami użycia;
+- **5)** bezzwłocznego informowania podmiotów uprawnionych do wykonywania ratownictwa górskiego o zaistniałym wypadku lub zaginięciu osoby oraz o innych zdarzeniach nadzwyczajnych mogących mieć wpływ na bezpieczeństwo osób.
+
 #### Rozdział 3 Podmioty uprawnione do wykonywania ratownictwa górskiego, zakres ich obowiązków i uprawnień oraz zasady finansowania ich działalności
 
 **Art. 5.**
 
-1. Ratownictwo górskie mogą wykonywać podmioty, które uzyskały zgodę ministra właściwego do spraw wewnętrznych na wykonywanie ratownictwa górskiego oraz wpis do rejestru jednostek współpracujących z systemem Państwowe Ratownictwo Medyczne, o którym mowa w art. 17 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, zwane dalej „podmiotami uprawnionymi do wykonywania ratownictwa górskiego”.
+1. Ratownictwo górskie mogą wykonywać Górskie Ochotnicze Pogotowie Ratunkowe, Tatrzańskie Ochotnicze Pogotowie Ratunkowe oraz inne podmioty, jeżeli uzyskały zgodę ministra właściwego do spraw wewnętrznych, zwane dalej „podmiotami uprawnionymi do wykonywania ratownictwa górskiego”.
 
 2. Minister właściwy do spraw wewnętrznych, w drodze decyzji administracyjnej, udziela zgody, o której mowa w ust. 1, na wniosek podmiotu ubiegającego się o jej udzielenie pod warunkiem, że podmiot ten:
 
@@ -66,20 +89,24 @@ Art. 47–51. (pominięte)
 
 - **1)** nazwę podmiotu, siedzibę i jego adres;
 - **2)** informację o obszarze działania, na którym ma być wykonywane ratownictwo górskie;
-- **3)** wykaz ratowników górskich wraz z dokumentami potwierdzającymi spełnianie przez nich warunków określonych w art. 2 pkt 9;
+- **3)** informację o liczbie ratowników górskich oraz posiadanych przez nich kwalifikacji przydatnych w ratownictwie górskim;
 - **4)** wykaz sprzętu specjalistycznego, środków transportu i łączności;
 - **5)** informację o źródłach finansowania planowanej działalności.
 
-3a. Decyzja, o której mowa w ust. 2, wygasa, jeżeli podmiot uprawniony do wykonywania ratownictwa górskiego, który uzyskał zgodę, o której mowa w ust. 1, w terminie 6 miesięcy od dnia jej wydania nie został wpisany do rejestru jednostek współpracujących z systemem Państwowe Ratownictwo Medyczne, o którym mowa w art. 17 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym.
-
 4. Minister właściwy do spraw wewnętrznych, w drodze decyzji administracyjnej:
 
-- **1)** cofa zgodę, o której mowa w ust. 1, jeżeli podmiot uprawniony do wykonywania ratownictwa górskiego, któremu taka zgoda została udzielona, przestał spełniać warunki, o których mowa w ust. 2, lub został wykreślony z rejestru jednostek współpracujących z systemem Państwowe Ratownictwo Medyczne, o którym mowa w art. 17 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, lub
+- **1)** cofa zgodę, o której mowa w ust. 1, jeżeli podmiot, któremu taka zgoda została udzielona, przestał spełniać warunki, o których mowa w ust. 2, lub
 - **2)** może cofnąć zgodę, jeżeli podmiot, któremu taka zgoda została udzielona, nie usunął w wymaganym terminie nieprawidłowości mających istotny wpływ na wykonywanie ratownictwa górskiego stwierdzonych protokołem kontroli.
 
-5. Minister właściwy do spraw wewnętrznych zawiadamia wojewodę właściwego do dokonania wpisu do rejestru jednostek współpracujących z systemem Państwowe Ratownictwo Medyczne, o którym mowa w art. 17 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, o cofnięciu zgody, o której mowa w ust. 1.
-
 **Art. 6.** W ramach ratownictwa górskiego podejmowane są działania ratownicze polegające w szczególności na:
+
+- **1)** przyjęciu zgłoszenia o wypadku lub innym zdarzeniu;
+- **2)** dotarciu na miejsce wypadku z wyposażeniem ratowniczym;
+- **3)** udzieleniu kwalifikowanej pierwszej pomocy;
+- **4)** zabezpieczeniu i ewakuacji osób przebywających w górach z terenów stanowiących zagrożenie dla życia i zdrowia;
+- **5)** transporcie osób, które uległy wypadkowi lub są narażone na niebezpieczeństwo utraty życia lub zdrowia do miejsca, gdzie jest możliwe podjęcie medycznych czynności ratunkowych przez jednostki systemu Państwowe Ratownictwo Medyczne, o których mowa w art. 32 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, po uprzednim uzgodnieniu miejsca przekazania osoby, której udzielono pomocy w ramach działań ratowniczych, z dyspozytorem jednostki systemu Państwowe Ratownictwo Medyczne;
+- **6)** poszukiwaniu osób zaginionych w górach;
+- **7)** transporcie zwłok z gór.
 
 **Art. 7.**
 
@@ -119,12 +146,12 @@ Art. 47–51. (pominięte)
 - **1)** osobie, której udzielono pomocy w ramach działań ratowniczych, oraz
 - **2)** Policji, prokuraturze, sądom, dyrektorowi parku narodowego i zakładom ubezpieczeń w związku z prowadzonym przez nie postępowaniem.
 
-6. Dane osobowe, o których mowa w ust. 3, podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazywaniu polegającym co najmniej na:
-
-- **1)** dopuszczeniu do przetwarzania danych osobowych wyłącznie osób posiadających pisemne upoważnienie wydane przez administratora danych;
-- **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w poufności.
-
 **Art. 8.** Podmioty uprawnione do wykonywania ratownictwa górskiego współdziałają przy wykonywaniu ratownictwa górskiego, a w czasie prowadzenia działań ratowniczych mogą żądać pomocy od:
+
+- **1)** organów administracji rządowej i samorządowej;
+- **2)** innych jednostek współpracujących z systemem Państwowe Ratownictwo Medyczne;
+- **3)** jednostek podległych lub nadzorowanych przez ministra właściwego do spraw wewnętrznych i Ministra Obrony Narodowej;
+- **4)** Państwowego Gospodarstwa Leśnego Lasy Państwowe, dyrekcji parków narodowych lub dyrekcji parków krajobrazowych.
 
 **Art. 9.**
 
@@ -141,81 +168,15 @@ Art. 47–51. (pominięte)
 
 2. Zwolnienie pracownika ze świadczenia pracy w razie konieczności udziału w działaniach ratowniczych oraz na czas wypoczynku po zakończonej akcji ratowniczej następuje na podstawie pisemnego zaświadczenia wystawionego przez podmiot uprawniony do wykonywania ratownictwa górskiego określającego czas trwania akcji ratowniczej i czas wypoczynku, który nie może być dłuższy niż 12 godzin na dobę.
 
-3. Za czas zwolnienia ze świadczenia pracy pracownik zachowuje prawo do wynagrodzenia ustalonego w sposób określony w przepisach wydanych na podstawie art. 297 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2022 r. poz. 1510, 1700 i 2140 oraz z 2023 r. poz. 240 i 641).
+3. Za czas zwolnienia ze świadczenia pracy pracownik zachowuje prawo do wynagrodzenia ustalonego w sposób określony w przepisach wydanych na podstawie art. 297 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.).
 
 **Art. 11.**
 
-1. Ratownik górski i ratownik narciarski przy wykonywaniu działań ratowniczych korzystają z ochrony przewidzianej w ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138, 1726, 1855, 2339 i 2600 oraz z 2023 r. poz. 289) dla funkcjonariuszy publicznych.
+1. Ratownik górski i ratownik narciarski przy wykonywaniu działań ratowniczych korzystają z ochrony przewidzianej w ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.) dla funkcjonariuszy publicznych.
 
 2. W przypadku gdy wykonywane przez ratownika górskiego lub ratownika narciarskiego działania ratownicze polegają na udzieleniu pierwszej pomocy, kwalifikowanej pierwszej pomocy lub podjęciu medycznych czynności ratunkowych, może on poświęcić dobra osobiste innej osoby, inne niż życie lub zdrowie, a także dobra majątkowe, w zakresie, w jakim jest to niezbędne dla ratowania życia lub zdrowia osoby znajdującej się w stanie nagłego zagrożenia zdrowotnego.
 
-**Art. 11a.**
-
-1. Ratownikowi górskiemu przysługuje świadczenie ratownicze w wysokości 200 złotych, pod warunkiem że:
-
-- **1)** osiągnął 65. rok życia – w przypadku mężczyzn oraz 60. rok życia – w przypadku kobiet oraz
-- **2)** przez co najmniej 25 lat – w przypadku mężczyzn oraz 20 lat – w przypadku kobiet wykonywał działania ratownicze podejmowane w ramach ratownictwa górskiego jako członek podmiotu uprawnionego do wykonywania ratownictwa górskiego i nie był zatrudniony do wykonywania tych działań.
-
-2. Wysokość świadczenia ratowniczego, o którym mowa w ust. 1, podlega corocznej waloryzacji na zasadach określonych w przepisach ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych (Dz. U. z 2023 r. poz. 194 i
-
-- **658)** .
-
-3. Do okresu, o którym mowa w ust. 1 pkt 2, ratownikowi górskiemu wlicza się okres wykonywania przed dniem 1 stycznia 2012 r. działań ratowniczych podejmowanych w ramach ratownictwa górskiego jako członek specjalistycznej organizacji ratowniczej – Górskiego Ochotniczego Pogotowia Ratunkowego lub Tatrzańskiego Ochotniczego Pogotowia Ratunkowego, o ile nie był zatrudniony do wykonywania tych działań.
-
-4. Przy ustalaniu okresu, o którym mowa w ust. 1 pkt 2, nie jest wymagane zachowanie ciągłości wykonywania działań ratowniczych, pod warunkiem że działania ratownicze były wykonywane co najmniej raz w roku.
-
-**Art. 11b.**
-
-1. Przyznanie prawa do świadczenia ratowniczego, jego wypłata oraz obsługa następuje na zasadach określonych w art. 16 ust. 6 oraz art. 17–22 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych.
-
-2. Wraz z wnioskiem w sprawie przyznania świadczenia ratowniczego należy przedłożyć dokumenty potwierdzające spełnienie warunków, o których mowa w art. 11a ust. 1 pkt 2 i ust. 3.
-
-3. Spełnienie warunku, o którym mowa w art. 11a ust. 1 pkt 2, potwierdza zaświadczenie o okresach wykonywania działań ratowniczych podejmowanych w ramach ratownictwa górskiego wydane przez podmiot uprawniony do wykonywania ratownictwa górskiego.
-
-4. Na żądanie organu przyznającego w rozumieniu ustawy, o której mowa w ust. 1, podmiot uprawniony do wykonywania ratownictwa górskiego przedkłada dokumenty, na podstawie których wydał zaświadczenie, o którym mowa w ust. 3.
-
-5. Podmiot uprawniony do wykonywania ratownictwa górskiego jest zobowiązany do wskazania na piśmie przyczyn, z powodu których nie jest możliwe wydanie zaświadczenia, o którym mowa w ust. 3.
-
-6. W przypadku wskazanym w ust. 5 spełnienie warunku, o którym mowa w art. 11a ust. 1 pkt 2, potwierdza się na podstawie pisemnych oświadczeń 3 ratowników górskich, którzy wykonywali działania ratownicze w ramach ratownictwa górskiego z osobą ubiegającą się o przyznanie świadczenia ratowniczego.
-
-7. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
-
-8. Podmiot uprawniony do wykonywania ratownictwa górskiego potwierdza fakt wykonywania działań ratowniczych podejmowanych w ramach ratownictwa górskiego przez ratownika górskiego składającego oświadczenie, o którym mowa w ust. 6, w okresach wskazanych w tym oświadczeniu.
-
-9. W przypadku, o którym mowa w art. 11a ust. 3, zaświadczenie o okresach wykonywania działań ratowniczych podejmowanych w ramach ratownictwa górskiego wydaje Górskie Ochotnicze Pogotowie Ratunkowe lub Tatrzańskie Ochotnicze Pogotowie Ratunkowe. Przepisy ust. 2–8 stosuje się odpowiednio.
-
-**Art. 11c.**
-
-1. Świadczenie, o którym mowa w art. 11a ust. 1, przysługuje również członkowi specjalistycznej organizacji ratowniczej – Górskiego Ochotniczego Pogotowia Ratunkowego lub Tatrzańskiego Ochotniczego Pogotowia Ratunkowego, który przed dniem 1 stycznia 2012 r.:
-
-- **1)** osiągnął 65. rok życia – w przypadku mężczyzn oraz 60. rok życia – w przypadku kobiet oraz
-- **2)** przez co najmniej 25 lat – w przypadku mężczyzn oraz 20 lat – w przypadku kobiet wykonywał działania ratownicze podejmowane w ramach ratownictwa górskiego i nie był zatrudniony do wykonywania tych działań.
-
-2. Przepisy art. 11a ust. 3 i art. 11b stosuje się.
-
-**Art. 11d.** Ratownikowi górskiemu, który przy wykonywaniu działań ratowniczych podejmowanych w ramach ratownictwa górskiego doznał uszczerbku na zdrowiu lub poniósł szkodę w mieniu, oraz członkom jego rodziny przysługują świadczenia, o których mowa w art. 13 i art. 14 ustawy, o której mowa w art. 11b ust. 1.
-
-**Art. 11e.**
-
-1. Członkom rodziny ratownika górskiego, którego śmierć nastąpiła w związku z wykonywaniem działań ratowniczych podejmowanych w ramach ratownictwa górskiego w warunkach zagrażających życiu i zdrowiu, przysługuje świadczenie pieniężne na zasadach określonych w ustawie z dnia 8 lutego 2023 r. o świadczeniu pieniężnym przysługującym członkom rodziny funkcjonariuszy lub żołnierzy zawodowych, których śmierć nastąpiła w związku ze służbą albo podjęciem poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia (Dz. U. poz. 658).
-
-2. Do ustalenia wysokości świadczenia pieniężnego stosuje się obowiązujące na dzień 31 grudnia roku poprzedzającego datę złożenia wniosku przeciętne uposażenie, o którym mowa w art. 85 ust. 3 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2022 r. poz. 1969 oraz z 2023 r. poz. 240, 347 i 641).
-
-3. Prawo do świadczenia pieniężnego oraz jego wysokość ustala w formie decyzji organ emerytalny określony przez ministra właściwego do spraw wewnętrznych.
-
-4. Świadczenie pieniężne wypłaca organ emerytalny, o którym mowa w ust. 3.
-
-5. Do spraw załatwianych w formie decyzji, o której mowa w ust. 3, stosuje się odpowiednio przepisy art. 5, art. 7, art. 8 ust. 2 i 5–11, art. 9 ust. 2, art. 10 i art. 11 ustawy, o której mowa w ust. 1.
-
-6. Do wniosku o przyznanie świadczenia pieniężnego załącza się:
-
-- **1)** zaświadczenie podmiotu uprawnionego do wykonywania ratownictwa górskiego potwierdzające, że śmierć ratownika górskiego nastąpiła wskutek okoliczności, o których mowa w ust. 1;
-- **2)** aktualny odpis aktu stanu cywilnego potwierdzający zaistnienie okoliczności uzasadniających złożenie wniosku;
-- **3)** inny dokument urzędowy potwierdzający zaistnienie okoliczności innych niż wymienione w pkt 1 i 2 uzasadniających złożenie wniosku.
-
-**Art. 11f.** W razie zbiegu prawa do świadczenia pieniężnego, o którym mowa w art. 11e, z prawem do emerytury lub renty, lub uposażenia w stanie spoczynku, lub uposażenia rodzinnego przewidzianych w odrębnych przepisach wypłaca się świadczenie wyższe albo wybrane przez członka rodziny, o którym mowa w art. 3 ustawy, o której mowa w art. 11e ust. 1, jeżeli przepisy szczególne nie stanowią inaczej. Wybór świadczenia pieniężnego nie pozbawia osoby uprawnionej innych świadczeń i uprawnień przysługujących emerytom i rencistom przewidzianych w odrębnych przepisach.
-
-**Art. 12.** (uchylony)
+**Art. 12.** Ratownik górski i ratownik narciarski, posiadający uprawnienia ratownika medycznego, o którym mowa w art. 10 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, przy wykonywaniu działań ratowniczych mogą wykonywać medyczne czynności ratunkowe w zakresie określonym na podstawie art. 11 ust. 2 tej ustawy.
 
 **Art. 13.**
 
@@ -241,13 +202,13 @@ Art. 47–51. (pominięte)
 
 **Art. 17.**
 
-1. Wykonywanie zadań z zakresu ratownictwa górskiego przez podmioty uprawnione do wykonywania ratownictwa górskiego następuje na podstawie powierzenia realizacji zadań publicznych, o którym mowa w art. 11 ust. 1 pkt 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2023 r. poz. 571) w zakresie określonym w umowie. Przepisy art. 11a–art. 11c tej ustawy stosuje się odpowiednio.
+1. Wykonywanie zadań z zakresu ratownictwa górskiego przez podmioty uprawnione do wykonywania ratownictwa górskiego następuje na podstawie powierzenia realizacji zadań publicznych, o którym mowa w art. 11 ust. 1 pkt 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2010 r. Nr 234, poz. 1536 oraz z 2011 r. Nr 112, poz. 654, Nr 149, poz. 887 i Nr 205, poz. 1211) w zakresie określonym w umowie. Przepisy art. 11a-art. 11c tej ustawy stosuje się odpowiednio.
 
 2. Zadania z zakresu ratownictwa górskiego powierzane i finansowane są przez ministra właściwego do spraw wewnętrznych w ramach dotacji celowych przyznawanych z części budżetu państwa, której jest dysponentem.
 
 3. Jednostki samorządu terytorialnego mogą udzielać dotacji celowych podmiotom uprawnionym do wykonywania ratownictwa górskiego na finansowanie zadań w zakresie ratownictwa górskiego nieobjętych umową, o której mowa w ust. 1.
 
-4. Opłaty za wstęp do parku narodowego lub na niektóre jego obszary, o których mowa w art. 12 ust. 3 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2022 r. poz. 916, 1726, 2185 i 2375), przekazuje się w wysokości 15% wpływów pomniejszonych o należny podatek od towarów i usług za każdy kwartał podmiotom uprawnionym do wykonywania ratownictwa górskiego na obszarze, na którym znajduje się określony park narodowy, z przeznaczeniem na dofinansowanie zadań w zakresie ratownictwa górskiego nieobjętych umową, o której mowa w ust. 1.
+4. Opłaty pobierane za wstęp i udostępnienie wejścia do parku narodowego lub krajobrazowego znajdującego się w górach, oraz za wstęp na jego wszelkie ścieżki edukacyjne i biletowane obiekty, przekazuje się w wysokości 15% wpływów za każdy kwartał podmiotom uprawnionym do wykonywania ratownictwa górskiego na obszarze, na którym znajduje się określony park narodowy lub krajobrazowy, z przeznaczeniem na dofinansowanie zadań w zakresie ratownictwa górskiego nieobjętych umową, o której mowa w ust. 1.
 
 5. Dotacje, o których mowa w ust. 2 i 3, udzielane są z pominięciem otwartego konkursu ofert.
 
@@ -316,6 +277,9 @@ Art. 47–51. (pominięte)
 
 **Art. 23.** Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw kultury fizycznej oraz ministrem właściwym do spraw transportu określi, w drodze rozporządzenia:
 
+- **1)** dopuszczalne obciążenie narciarskiej trasy zjazdowej oraz sposób jego obliczania,
+- **2)** szczegółowe warunki oświetlania zorganizowanych terenów narciarskich mając na uwadze konieczność zapewnienia bezpieczeństwa osób korzystających z tych terenów.
+
 **Art. 24.**
 
 1. Narciarskie trasy zjazdowe, biegowe oraz nartostrady nie mogą krzyżować się z drogami publicznymi oraz trasami urządzeń transportu linowego osób o niskim prowadzeniu liny lub urządzeń transportu taśmowego przeznaczonych do transportu osób.
@@ -338,7 +302,7 @@ Art. 47–51. (pominięte)
 - **2)** miejsca prowadzonych prac konserwacyjnych, zabiegów sztucznego naśnieżania oraz stabilizacji pokrywy śnieżnej,
 - **3)** miejsca w pobliżu podpór, urządzeń transportu linowego i taśmowego przeznaczonych do transportu osób,
 - **4)** granice narciarskich tras zjazdowych i nartostrad,
-- **5)** miejsca szczególnie niebezpieczne o trudnym do przewidzenia ukształtowaniu – oznacza się właściwym znakiem ostrzegawczym oraz zabezpiecza w taki sposób by nie stwarzały zagrożenia dla osób przebywających na tych terenach.
+- **5)** miejsca szczególnie niebezpieczne o trudnym do przewidzenia ukształtowaniu oznacza się właściwym znakiem ostrzegawczym oraz zabezpiecza w taki sposób by nie stwarzały zagrożenia dla osób przebywających na tych terenach.
 
 2. Przeszkody sztuczne, a w szczególności urządzenia transportu taśmowego, podpory urządzeń transportu linowego, słupy oświetleniowe, urządzenia naśnieżające, pojazdy mechaniczne znajdujące się w odległości mniejszej niż 2 m od granicy trasy zjazdowej lub nartostrady są odpowiednio zabezpieczone.
 
@@ -378,6 +342,12 @@ Art. 47–51. (pominięte)
 
 **Art. 31.** Osoby uprawiające narciarstwo lub snowboarding na zorganizowanym terenie narciarskim obowiązane są do zachowania należytej staranności w celu ochrony życia i zdrowia własnego oraz innych osób, a w szczególności:
 
+- **1)** zapoznania się z zasadami korzystania z danego terenu, obiektu lub urządzenia i ich przestrzegania;
+- **2)** stosowania się do znaków nakazu i zakazu umieszczanych przez zarządzającego zorganizowanym terenem narciarskim;
+- **3)** zjeżdżania z szybkością dostosowaną do swoich umiejętności oraz stopnia trudności i stanu trasy, warunków atmosferycznych i natężenia ruchu;
+- **4)** użytkowania sprawnego technicznie sprzętu narciarskiego i snowboardowego odpowiedniego do rodzaju podejmowanej aktywności, zgodnie z jego przeznaczeniem i zasadami użycia;
+- **5)** bezzwłocznego informowania ratowników narciarskich o zaistniałym wypadku lub zaginięciu osoby oraz o innych zdarzeniach nadzwyczajnych mogących mieć wpływ na bezpieczeństwo osób.
+
 #### Rozdział 5 Podmioty uprawnione do wykonywania ratownictwa narciarskiego na zorganizowanych terenach narciarskich, zakres ich obowiązków i uprawnień oraz zasady finansowania ich działalności
 
 **Art. 32.**
@@ -387,6 +357,13 @@ Art. 47–51. (pominięte)
 2. Zarządzający zorganizowanym terenem narciarskim, w drodze umowy, może zlecić wykonywanie ratownictwa narciarskiego podmiotowi uprawnionemu do wykonywania ratownictwa górskiego.
 
 **Art. 33.** W ramach ratownictwa narciarskiego podejmowane są działania ratownicze polegające w szczególności na:
+
+- **1)** przyjęciu zgłoszenia o wypadku;
+- **2)** dotarciu na miejsce wypadku z wyposażeniem ratowniczym;
+- **3)** udzieleniu kwalifikowanej pierwszej pomocy;
+- **4)** zabezpieczeniu miejsca wypadku;
+- **5)** ewakuacji osób z terenów stanowiących zagrożenie dla życia lub zdrowia;
+- **6)** transporcie osób, które uległy wypadkowi lub są narażone na niebezpieczeństwo utraty życia lub zdrowia, do miejsca, gdzie jest możliwe podjęcie medycznych czynności ratunkowych przez jednostki systemu Państwowe Ratownictwo Medyczne, o których mowa w art. 32 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, po uprzednim uzgodnieniu miejsca przekazania z dyspozytorem jednostki systemu Państwowe Ratownictwo Medyczne.
 
 **Art. 34.**
 
@@ -468,8 +445,7 @@ Art. 47–51. (pominięte)
 - **3)** przeprowadzania oględzin majątku należącego do podmiotu uprawnionego do wykonywania ratownictwa górskiego objętego kontrolą;
 - **4)** sprawdzania przebiegu określonych czynności;
 - **5)** żądania od kierownika i pracowników podmiotu uprawnionego do wykonywania ratownictwa górskiego objętego kontrolą ustnych i pisemnych wyjaśnień;
-- **6)** zabezpieczania dowodów;
-- **7)** przetwarzania danych osobowych, w tym danych dotyczących stanu zdrowia, osób, którym udzielono pomocy w ramach działań ratowniczych.
+- **6)** zabezpieczania dowodów.
 
 3. Wszystkie czynności w imieniu podmiotu uprawnionego do wykonywania ratownictwa górskiego objętego kontrolą wykonuje jego kierownik lub osoba przez niego wyznaczona.
 
@@ -517,9 +493,41 @@ Art. 47–51. (pominięte)
 
 2. Kto, mając obowiązek opieki lub nadzoru nad osobą do ukończenia 16 roku życia, dopuszcza do uprawiania narciarstwa zjazdowego lub snowboardingu przez tę osobę, na zorganizowanym terenie narciarskim, bez kasku konstrukcyjnie do tego przeznaczonego, podlega karze grzywny.
 
-**Art. 46.** Postępowanie w sprawach określonych w art. 45 prowadzi się na podstawie ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
+**Art. 46.** Postępowanie w sprawach określonych w art. 45 prowadzi się na podstawie ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2008 r. Nr 133, poz. 848, z późn. zm.).
 
 #### Rozdział 8 Przepisy zmieniające, przejściowe i końcowe
+
+**Art. 47.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 6 w ust. 1 po pkt 7 dodaje się pkt 7a w brzmieniu: „
+- **7a)** ratownik górski podczas wykonywania czynności związanych z prowadzeniem akcji ratowniczej; ” ;
+- **2)** w art. 53 w ust. 1 po pkt 10c dodaje się pkt 10d i 10e w brzmieniu: „
+- **10d)** podmiotów uprawnionych do wykonywania zadań z zakresu ratownictwa górskiego;
+- **10e)** Służby Parku Narodowego; ” .
+
+**Art. 48.** W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2010 r. Nr 234, poz. 1536 oraz z 2011 r. Nr 112, poz. 654, Nr 149, poz. 887 i Nr 205, poz. 1211) art. 11c otrzymuje brzmienie: „ Minister właściwy do spraw wewnętrznych, w przypadkach dotyczących zadań z zakresu ochrony ludności i ratownictwa, może zlecać podmiotom uprawnionym do wykonywania ratownictwa górskiego, o których mowa w art. 5 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie i ratownictwie w górach i na zorganizowanych terenach narciarskich (Dz. U. Nr 208, poz. 1241), podmiotom uprawnionym do wykonywania ratownictwa wodnego, o których mowa w art. 12 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych (Dz. U. Nr 208, poz. 1240), jednostkom ochrony przeciwpożarowej, o których mowa w art. 15 pkt 6 i 7 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2009 r. Nr 178, poz. 1380 oraz z 2010 r. Nr 57, poz. 353), oraz Polskiemu Czerwonemu Krzyżowi realizację zadań publicznych z pominięciem otwartego konkursu ofert. Przepisy art. 43, art. 47 oraz art. 151 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych stosuje się odpowiednio. ” .
+
+**Art. 49.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 12 ust. 9 otrzymuje brzmienie: „
+
+9. Opłaty, o których mowa w ust. 3, są dochodami budżetu państwa albo przychodami instytucji gospodarki budżetowej, o ile instytucja ta zostanie utworzona zgodnie z art. 23 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm.), i są przeznaczone na tworzenie i utrzymanie infrastruktury turystycznej i edukacyjnej parku narodowego oraz na ochronę przyrody i dofinansowanie zadań w zakresie ratownictwa górskiego na podstawie art. 17 ust. 4 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie i ratownictwie w górach i na zorganizowanych terenach narciarskich (Dz. U. Nr 208, poz. 1241). ” ;
+
+- **2)** w art. 15 dodaje się ust. 6 w brzmieniu: „
+
+6. Organizowanie i prowadzenie szkoleń ratowników górskich i psów ratowniczych, w tym psów lawinowych, na obszarze parku narodowego poza terenami udostępnionymi na podstawie art. 12 ust. 2, przez podmioty uprawnione do wykonywania ratownictwa górskiego na danym obszarze, wymaga uzgodnienia z dyrektorem parku narodowego. ” .
+
+**Art. 50.** W ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. Nr 191, poz. 1410, z późn. zm.) w art. 15 ust. 1 otrzymuje brzmienie: „ 1. Jednostkami współpracującymi z systemem są służby ustawowo powołane do niesienia pomocy osobom w stanie nagłego zagrożenia zdrowotnego, w szczególności: jednostki organizacyjne Państwowej Straży Pożarnej, jednostki ochrony przeciwpożarowej włączone do krajowego systemu ratowniczo-gaśniczego, podmioty uprawnione do wykonywania ratownictwa górskiego na podstawie przepisów ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie i ratownictwie w górach i na zorganizowanych terenach narciarskich (Dz. U. Nr 208, poz. 1241), podmioty uprawnione do wykonywania ratownictwa wodnego na podstawie przepisów ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych (Dz. U. Nr 208, poz. 1240), inne jednostki podległe lub nadzorowane przez ministra właściwego do spraw wewnętrznych i Ministra Obrony Narodowej. ” .
+
+**Art. 51.** W ustawie z dnia 25 czerwca 2010 r. o sporcie (Dz. U. Nr 127, poz. 857, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 39: uchyla się ust. 1 i 2, uchyla się ust. 5;
+    - **a)**
+    - **b)**
+
+- **2)** w art. 40: uchyla się ust. 1, uchyla się ust. 3 i 4.
+    - **a)**
+    - **b)**
 
 **Art. 52.** W okresie roku od dnia wejścia w życie niniejszej ustawy ratownictwo narciarskie może wykonywać ratownik, ratownik medyczny, lekarz systemu, pielęgniarka systemu w rozumieniu przepisów ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym lub osoba posiadająca ważne zaświadczenie o ukończeniu kursu w zakresie kwalifikowanej pierwszej pomocy.
 
@@ -531,5 +539,5 @@ Art. 47–51. (pominięte)
 
 **Art. 54.** Do dnia uzyskania zgody, o której mowa w art. 5 ust. 1, nie dłużej jednak niż do 24 miesięcy od dnia wejścia w życie niniejszej ustawy, za podmioty uprawnione do wykonywania ratownictwa górskiego uznaje się Górskie Ochotnicze Pogotowie Ratunkowe i Tatrzańskie Ochotnicze Pogotowie Ratunkowe.
 
-**Art. 55.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia , z wyjątkiem art. 50 i art. 51, które wchodzą w życie z dniem 2 stycznia 2012 r.
+**Art. 55.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 50 i art. 51, które wchodzą w życie z dniem 2 stycznia 2012 r.
 

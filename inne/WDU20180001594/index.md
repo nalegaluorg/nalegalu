@@ -8,10 +8,10 @@ pos: 1594
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 21 sierpnia 2018 OBWIESZCZENIE MINISTRA INWESTYCJI I ROZWOJU sierpnia 2018 ogłoszenia jednolitego tekstu Infrastruktury Rozwoju udzielania pomocy inwestycyjnej na kulturę zachowanie dziedzictwa kulturowego ramach regionalnych programów operacyjnych na lata 2014–2020
+# Obwieszczenie Ministra Inwestycji i Rozwojuz dnia 2 sierpnia 2018 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury i Rozwoju w sprawie udzielania pomocy inwestycyjnej na kulturę i zachowanie dziedzictwa kulturowego w ramach regionalnych programów operacyjnych na lata 2014–2020
 
 | Pole | Wartość |
 |---|---|
@@ -25,34 +25,84 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001594) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1594/text.pdf) |
 
-1. Na 16 ust. 3 ustawy 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych U. 2017 1523) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst Infrastruktury Rozwoju 28 sierpnia 2015 udzielania pomocy inwestycyjnej na kulturę zachowanie dziedzictwa kulturowego ramach regionalnych programów operacyjnych na lata 2014–2020 U. 1364), uwzględnieniem zmiany wprowadzonej rozporządzeniem Rozwoju Finansów 4 stycznia 2018 zmieniającym rozporządzenie udzielania pomocy inwestycyjnej na kulturę zachowanie dziedzictwa kulturowego ramach regionalnych programów operacyjnych na lata 2014–2020 U. 52).
-2. Podany załączniku niniejszego obwieszczenia tekst jednolity nie obejmuje § § 3 rozporządzenia Rozwoju Finansów 4 stycznia 2018 zmieniającego rozporządzenie udzielania pomocy inwestycyjnej na kulturę zachowanie dziedzictwa kulturowego ramach regionalnych programów operacyjnych na lata 2014–2020 U. 52), które stanowią: „§ 2. 1. Do umów zawartych decyzji dofinansowaniu projektu podjętych przed dniem wejścia życie niniejszego rozporządzenia, na których udzielono pomocy, stosuje się przepisy dotychczasowe.
-2. Do wniosków udzielenie pomocy złożonych przed dniem wejścia życie niniejszego stosuje się przepisy zmienianego § 1, brzmieniu nadanym niniejszym rozporządzeniem.
-3. Wnioski, których mowa ust. 2, wymagające uzupełnienia zakresie wynikającym przepisów rozporządzenia zmienianego § 1, brzmieniu nadanym niniejszym rozporządzeniem, uzupełnia się na wezwanie podmiotu udzielającego pomocy terminie wyznaczonym przez ten podmiot, nie krótszym niż 14 dni od otrzymania wezwania.
-§ 3. Rozporządzenie wchodzi życie dniem następującym po dniu ogłoszenia.”.
-Rozwoju: J. Kwieciński ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY I ROZWOJU 28 sierpnia 2015 udzielania pomocy inwestycyjnej na kulturę zachowanie dziedzictwa kulturowego ramach regionalnych programów operacyjnych na lata 2014–2020 Na 27 ust. 4 ustawy 11 lipca 2014 zasadach realizacji programów zakresie polityki spójności finansowanych perspektywie finansowej 2014–2020 U. 2018 1431 1544) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowe przeznaczenie, warunki tryb udzielania przedsiębiorcom, ramach regionalnych programów operacyjnych na lata 2014–2020, pomocy inwestycyjnej na kulturę zachowanie dziedzictwa kulturowego, zwanej dalej „pomocą”, której mają zastosowanie przepisy Komisji (UE) nr 651/2014 17 czerwca 2014 uznającego niektóre rodzaje pomocy za zgodne rynkiem wewnętrznym zastosowaniu 107 108 Traktatu Urz. UE L 187 26.06.2014, str. 1), zwanego dalej „rozporządzeniem nr 651/2014”, a także podmioty udzielające tej pomocy.
-§ 2. 1. Przepisów nie stosuje się pomocy, której mowa ust. lit. c d, ust. 3 lit. a–d, ust. 4 lit. c ust. 5 nr 651/2014.
-2. Przepisów nie stosuje się również przypadkach, których mowa 53 ust. 10 nr 651/2014.
-§ 3. Ilekroć rozporządzeniu jest mowa przedsiębiorcy, oznacza to przedsiębiorstwo rozumieniu załącznika I nr 651/2014.
-§ 4. Pomoc nie może zostać udzielona ani wypłacona przedsiębiorcy, na którym ciąży obowiązek zwrotu pomocy publicznej, wynikający decyzji Komisji Europejskiej uznającej taką pomoc za niezgodną prawem oraz rynkiem wewnętrznym.
-§ 5. 1. Podmiotami udzielającymi pomocy, poza podmiotami określonymi 27 ust. ustawy 11 lipca 2014 zasadach realizacji programów zakresie polityki spójności finansowanych perspektywie finansowej 2014–2020, zwanej dalej „ustawą”, mogą być również: partner projektu, którym mowa 33 ust. ustawy;
-2) podmiot wdrażający instrument finansowy, którym mowa 28 ust. ustawy.
-2. W przypadku gdy podmiotem udzielającym pomocy jest beneficjent rozumieniu pkt ustawy lub partner projektu, którym mowa 33 ust. ustawy, którzy nie są jednocześnie podmiotem wdrażającym instrument finansowy, którym mowa 28 ust. ustawy, pomoc może być udzielona, jeżeli możliwość jej udzielenia przewiduje umowa dofinansowanie projektu rozumieniu pkt 26 lit. a albo lit. b ustawy albo decyzja dofinansowaniu projektu rozumieniu pkt ustawy.
-§ 6. Pomoc ma na celu wspieranie rozwoju gospodarczego społecznego województwa objętego regionalnym programem operacyjnym na lata 2014–2020 jest udzielana na kulturę zachowanie dziedzictwa kulturowego.
-§ 7. Pomoc jest udzielana: zgodnie 5 ust. nr 651/2014;
-2) formach na warunkach, których mowa 5 ust. lit. a–c nr 651/2014;
-3) na pokrycie kosztów kwalifikowalnych, których mowa 53 ust. 4 oraz ust. 9 zdanie trzecie nr 651/2014.
-§ 8. 1. Wartość dopuszczalnej pomocy ustala się zgodnie 53 ust. 6 oraz ust. 9 zdanie pierwsze drugie rozporządzenia nr 651/2014.
-2. W przypadku pomocy nieprzekraczającej równowartości mln euro wartość dopuszczalnej pomocy może zostać ustalona zgodnie 53 ust. 8 nr 651/2014.
-3. Do obliczania wartości pomocy kosztów kwalifikowalnych stosuje się 7 ust. 1–3 nr 651/2014.
-§ 9. Pomoc podlega kumulacji na zasadach określonych 8 nr 651/2014.
-§ 10. W przypadku, którym mowa 4 ust. lit. nr 651/2014, pomoc stanowi pomoc indywidualną podlegającą notyfikacji Komisji Europejskiej może być udzielona po jej zatwierdzeniu przez Komisję Europejską.
-§ 11. 1. Przedsiębiorca składa wniosek udzielenie pomocy, zwany dalej „wnioskiem”, podmiotu udzielającego pomocy.
-2. Wniosek zawiera: informacje wskazane 6 ust. zdanie drugie nr 651/2014;
-2) inne informacje, wskazane przez podmiot udzielający pomocy, niezbędne dokonania oceny wniosku.
-3. Do wniosku przedsiębiorca załącza dokumenty przygotowane zgodnie przepisami wydanymi na 37 ust. 6 ustawy 30 kwietnia 2004 postępowaniu sprawach dotyczących pomocy publicznej U. 2018
-362).
-4. Po przeprowadzeniu oceny wniosku pomoc może być udzielona przedsiębiorcy na umowy albo decyzji dofinansowaniu projektu rozumieniu pkt ustawy.
-§ 12. Pomoc jest udzielana końca okresu dostosowawczego, którym mowa 58 ust. 4 zdanie pierwsze, związku 59 nr 651/2014.
-§ 13. Rozporządzenie wchodzi życie dniem następującym po dniu ogłoszenia .
+Treść obwieszczenia
+Załącznik – Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 28 sierpnia 2015 r. w sprawie udzielania pomocy inwestycyjnej na kulturę i zachowanie dziedzictwa kulturowego w ramach regionalnych programów operacyjnych na lata 2014–2020
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 28 sierpnia 2015 r. w sprawie udzielania pomocy inwestycyjnej na kulturę i zachowanie dziedzictwa kulturowego w ramach regionalnych programów operacyjnych na lata 2014–2020 (Dz. U. poz. 1364), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Rozwoju i Finansów z dnia 4 stycznia 2018 r. zmieniającym rozporządzenie w sprawie udzielania pomocy inwestycyjnej na kulturę i zachowanie dziedzictwa kulturowego w ramach regionalnych programów operacyjnych na lata 2014–2020 (Dz. U. poz. 52).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Rozwoju i Finansów z dnia 4 stycznia 2018 r. zmieniającego rozporządzenie w sprawie udzielania pomocy inwestycyjnej na kulturę i zachowanie dziedzictwa kulturowego w ramach regionalnych programów operacyjnych na lata 2014–2020 (Dz. U. poz. 52), które stanowią:
+„
+§ 2.
+1.
+Do umów zawartych i decyzji o dofinansowaniu projektu podjętych przed dniem wejścia w życie niniejszego rozporządzenia, na podstawie których udzielono pomocy, stosuje się przepisy dotychczasowe.
+2.
+Do wniosków o udzielenie pomocy złożonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
+3.
+Wnioski, o których mowa w ust. 2, wymagające uzupełnienia w zakresie wynikającym z przepisów rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, uzupełnia się na wezwanie podmiotu udzielającego pomocy w terminie wyznaczonym przez ten podmiot, nie krótszym niż 14 dni od dnia otrzymania wezwania.
+§ 3.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+” .
+1) Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – rozwój regionalny, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175).
+Załącznik – Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 28 sierpnia 2015 r. w sprawie udzielania pomocy inwestycyjnej na kulturę i zachowanie dziedzictwa kulturowego w ramach regionalnych programów operacyjnych na lata 2014–2020
+Na podstawie art. 27 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2018 r. poz. 1431 i 1544) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przedsiębiorcom, w ramach regionalnych programów operacyjnych na lata 2014–2020, pomocy inwestycyjnej na kulturę i zachowanie dziedzictwa kulturowego, zwanej dalej „pomocą”, do której mają zastosowanie przepisy rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1), zwanego dalej „rozporządzeniem nr 651/2014”, a także podmioty udzielające tej pomocy.
+§ 2.
+1.
+Przepisów rozporządzenia nie stosuje się do pomocy, o której mowa w art. 1 ust. 2 lit. c i d, ust. 3 lit. a-d, ust. 4 lit. c i ust. 5 rozporządzenia nr 651/2014.
+2.
+Przepisów rozporządzenia nie stosuje się również w przypadkach, o których mowa w art. 53 ust. 10 rozporządzenia nr 651/2014.
+§ 3.
+Ilekroć w rozporządzeniu jest mowa o przedsiębiorcy, oznacza to przedsiębiorstwo w rozumieniu art. 1 załącznika I do rozporządzenia nr 651/2014.
+§ 4.
+Pomoc nie może zostać udzielona ani wypłacona przedsiębiorcy, na którym ciąży obowiązek zwrotu pomocy publicznej, wynikający z decyzji Komisji Europejskiej uznającej taką pomoc za niezgodną z prawem oraz z rynkiem wewnętrznym.
+§ 5.
+1.
+Podmiotami udzielającymi pomocy, poza podmiotami określonymi w art. 27 ust. 2 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020, zwanej dalej „ustawą”, mogą być również:
+1)
+partner projektu, o którym mowa w art. 33 ust. 1 ustawy;
+2)
+podmiot wdrażający instrument finansowy, o którym mowa w art. 28 ust. 2 ustawy.
+2.
+W przypadku gdy podmiotem udzielającym pomocy jest beneficjent w rozumieniu art. 2 pkt 1 ustawy lub partner projektu, o którym mowa w art. 33 ust. 1 ustawy, którzy nie są jednocześnie podmiotem wdrażającym instrument finansowy, o którym mowa w art. 28 ust. 2 ustawy, pomoc może być udzielona, jeżeli możliwość jej udzielenia przewiduje umowa o dofinansowanie projektu w rozumieniu art. 2 pkt 26 lit. a albo lit. b ustawy albo decyzja o dofinansowaniu projektu w rozumieniu art. 2 pkt 2 ustawy.
+§ 6.
+Pomoc ma na celu wspieranie rozwoju gospodarczego i społecznego województwa objętego regionalnym programem operacyjnym na lata 2014–2020 i jest udzielana na kulturę i zachowanie dziedzictwa kulturowego.
+§ 7.
+Pomoc jest udzielana:
+1)
+zgodnie z art. 5 ust. 1 rozporządzenia nr 651/2014;
+2)
+w formach i na warunkach, o których mowa w art. 5 ust. 2 lit. a-c rozporządzenia nr 651/2014;
+3)
+na pokrycie kosztów kwalifikowalnych, o których mowa w art. 53 ust. 4 oraz ust. 9 zdanie trzecie rozporządzenia nr 651/2014.
+§ 8.
+1.
+Wartość dopuszczalnej pomocy ustala się zgodnie z art. 53 ust. 6 oraz ust. 9 zdanie pierwsze i drugie rozporządzenia nr 651/2014.
+2.
+W przypadku pomocy nieprzekraczającej równowartości 2 mln euro wartość dopuszczalnej pomocy może zostać ustalona zgodnie z art. 53 ust. 8 rozporządzenia nr 651/2014.
+3.
+Do obliczania wartości pomocy i kosztów kwalifikowalnych stosuje się art. 7 ust. 1–3 rozporządzenia nr 651/2014.
+§ 9.
+Pomoc podlega kumulacji na zasadach określonych w art. 8 rozporządzenia nr 651/2014.
+§ 10.
+W przypadku, o którym mowa w art. 4 ust. 1 lit. z rozporządzenia nr 651/2014, pomoc stanowi pomoc indywidualną podlegającą notyfikacji Komisji Europejskiej i może być udzielona po jej zatwierdzeniu przez Komisję Europejską.
+§ 11.
+1.
+Przedsiębiorca składa wniosek o udzielenie pomocy, zwany dalej „wnioskiem”, do podmiotu udzielającego pomocy.
+2.
+Wniosek zawiera:
+1)
+informacje wskazane w art. 6 ust. 2 zdanie drugie rozporządzenia nr 651/2014;
+2)
+inne informacje, wskazane przez podmiot udzielający pomocy, niezbędne do dokonania oceny wniosku.
+3.
+Do wniosku przedsiębiorca załącza dokumenty przygotowane zgodnie z przepisami wydanymi na podstawie art. 37 ust. 6 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2018 r. poz. 362).
+4.
+Po przeprowadzeniu oceny wniosku pomoc może być udzielona przedsiębiorcy na podstawie umowy albo decyzji o dofinansowaniu projektu w rozumieniu art. 2 pkt 2 ustawy.
+§ 12.
+Pomoc jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4 zdanie pierwsze, w związku z art. 59 rozporządzenia nr 651/2014.
+§ 13.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+1) Obecnie działem administracji rządowej – rozwój regionalny kieruje Minister Inwestycji i Rozwoju, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Rozwoju i Finansów z dnia 4 stycznia 2018 r. zmieniającego rozporządzenie w sprawie udzielania pomocy inwestycyjnej na kulturę i zachowanie dziedzictwa kulturowego w ramach regionalnych programów operacyjnych na lata 2014–2020 (Dz. U. poz. 52), które weszło w życie z dniem 11 stycznia 2018 r. 3) Rozporządzenie zostało ogłoszone w dniu 11 września 2015 r.
 

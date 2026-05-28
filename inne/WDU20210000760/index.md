@@ -8,12 +8,10 @@ pos: 760
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy o wstrzymaniu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa oraz o zmianie niektórych ustaw
-
-*USTAWA z dnia 17 marca 2021 r.*
+# Ustawa z dnia 17 marca 2021 r. o zmianie ustawy o wstrzymaniu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa oraz o zmianie niektórych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,28 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2021-03-17 |
 | Data wydania | 2021-04-23 |
+| Wejście w życie | 2021-04-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000760) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/760/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 14 kwietnia 2016 r. o wstrzymaniu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa oraz o zmianie niektórych ustaw (Dz. U. z 2018 r. poz. 869) wprowadza się następujące zmiany:
+
+- **1)** art. 1 otrzymuje brzmienie: „ W okresie 10 lat od dnia wejścia w życie ustawy wstrzymuje się sprzedaż nieruchomości, ich części oraz udziałów we współwłasności nieruchomości wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa. ” ;
+- **2)** w art. 2: w ust. 1 w pkt 4 kropkę zastępuje się przecinkiem, dodaje się wyraz „lub” i dodaje się pkt 5 w brzmieniu: „
+    - **a)**
+
+- **5)** udziałów we współwłasności nieruchomości, o których mowa w pkt 1–4. ” , ust. 2 otrzymuje brzmienie: „
+    - **b)**
+
+2. Minister właściwy do spraw rozwoju wsi, na wniosek Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa, może wyrazić zgodę na sprzedaż nieruchomości, ich części lub udziałów we współwłasności nieruchomości, innych niż wymienione w ust. 1, jeżeli jest to uzasadnione względami społeczno-gospodarczymi. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+
+- **c)**
+
+2a. We wniosku o wyrażenie zgody, o której mowa w ust. 2, Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa w szczególności wskazuje, jakie względy społeczno-gospodarcze uzasadniają sprzedaż nieruchomości, ich części lub udziałów we współwłasności nieruchomości. ” , ust. 3 otrzymuje brzmienie: „
+
+- **d)**
+
+3. Sprzedaż nieruchomości, ich części lub udziałów we współwłasności nieruchomości, innych niż wymienione w ust. 1, bez zgody, o której mowa w ust. 2, w okresie 10 lat od dnia wejścia w życie ustawy, jest nieważna. ” .
 
 **Art. 2.** Do wniosków Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa, o których mowa w art. 2 ust. 2 ustawy zmienianej w art. 1, złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 

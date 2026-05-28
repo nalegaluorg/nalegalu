@@ -8,12 +8,10 @@ pos: 884
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# 1) szczegółowe warunki otrzymywania świadczeń zdrowotnej niezakwalifikowanych jako świadczenia gwarantowane odpłatnych świadczeń zdrowotnej, zwanych dalej „świadczeniami zdrowotnej”, przez uprawnionych żołnierzy pracowników, także po ich zwolnieniu ze służby ustaniu umowy o pracę, związku urazami chorobami nabytymi podczas wykonywania zadań poza granicami państwa weteranów poszkodowanych zakresie leczenia urazów chorób nabytych podczas wykonywania zadań poza granicami państwa weteranów poszkodowanych, których ustalony procentowy uszczerbek na zdrowiu wynosi co najmniej 30%, zwanych dalej „osobami uprawnionymi”;
-
-*ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ dnia 6 maja 2021 sprawie świadczeń zdrowotnej niezakwalifikowanych jako świadczenia gwarantowane odpłatnych świadczeń zdrowotnej udzielanych uprawnionym żołnierzom pracownikom weteranom poszkodowanym Na podstawie art. 42 ust. 2a ustawy dnia 27 sierpnia 2004 o świadczeniach zdrowotnej finansowanych ze środków publicznych (Dz. U. 2020 1398, późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa:*
+# Rozporządzenie Ministra Obrony Narodowejz dnia 6 maja 2021 r. w sprawie świadczeń opieki zdrowotnej niezakwalifikowanych jako świadczenia gwarantowane oraz odpłatnych świadczeń opieki zdrowotnej udzielanych uprawnionym żołnierzom lub pracownikom oraz weteranom poszkodowanym
 
 | Pole | Wartość |
 |---|---|
@@ -24,44 +22,115 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2021-05-06 |
 | Data wydania | 2021-05-11 |
+| Wejście w życie | 2021-05-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000884) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/884/text.pdf) |
 
-2) tryb postępowania sprawach otrzymywania świadczeń zdrowotnej;
-3) sposób tryb finansowania ponoszonych kosztów świadczeń zdrowotnej.
-§ 2. Świadczenie zdrowotnej zleca lekarz specjalista realizujący postępowanie diagnostyczno-lecznicze u osób uprawnionych po stwierdzeniu potrzeby udzielenia świadczenia zdrowotnej.
-§ 3. 1. Osoba uprawniona otrzymuje świadczenia zdrowotnej na podstawie wniosku złożonego dyrektora departamentu Ministerstwa Obrony Narodowej właściwego spraw zdrowia.
-2. Wniosek zawiera:
-1) nazwisko imię (imiona) uprawnionej;
-2) PESEL uprawnionej;
-3) serię dowodu osobistego, paszportu innego dokumentu stwierdzającego tożsamość przypadku która nie ma nadanego numeru PESEL;
-4) adres zamieszkania, adres korespondencji telefonu;
-5) legitymacji poszkodowanej albo legitymacji weterana poszkodowanego;
-6) rachunku bankowego przypadku, o którym mowa ust. 3 pkt 2;
-4) kopię zlecenia na otrzymanie świadczeń zdrowotnej finansowanych przez Ministra Obrony Narodowej;
-5) oświadczenie uprawnionej o niekorzystaniu, zakresie kwoty objętej wnioskiem, dofinansowania ze środków pochodzących innych źródeł niż budżetu państwa części, której dysponentem jest Minister Obrony Narodowej odniesieniu otrzymywanych świadczeń zdrowotnych rzeczowych.
-§ 4. Dane dokumenty, o których mowa § 3 ust. 2 ust. 3 pkt 1, są przechowywane zgodnie zasadami wskazanymi art. 29 ustawy dnia 6 listopada 2008 o prawach pacjenta Rzeczniku Praw Pacjenta (Dz. U. 2020 849).
-§ 5. Finansowanie kosztów świadczeń zdrowotnej odbywa się przez:
-1) zwrot kosztów poniesionych przez osobę uprawnioną;
-2) przekazanie środków świadczeniodawcy.
-§ 6. Dyrektor departamentu Ministerstwa Obrony Narodowej właściwego spraw zdrowia rozpatruje wniosek terminie 30 dni od dnia jego wpływu.
-§ 7. 1. W przypadku, o którym mowa § 5 pkt 2, dyrektor departamentu Ministerstwa Obrony Narodowej właściwego spraw zdrowia po rozpatrzeniu wniosku sporządza zaświadczenie o wysokości finansowania, które zawiera:
-1) datę wystawienia oznaczenie numeru ewidencyjnego;
-2) datę złożenia wniosku;
-3) nazwisko imię (imiona) uprawnionej;
-4) PESEL uprawnionej;
-5) serię dowodu osobistego, paszportu innego dokumentu stwierdzającego tożsamość przypadku która nie ma nadanego numeru PESEL;
-6) nazwę adres rachunku bankowego podmiotu realizującego świadczenia zdrowotnej;
-7) kwotę przewidzianą przekazania na rachunek bankowy świadczeniodawcy udzielającego świadczenia zdrowotnej;
-8) podpis dyrektora departamentu Ministerstwa Obrony Narodowej właściwego spraw zdrowia upoważnionej.
-2. Zaświadczenie o wysokości finansowania jest przekazywane uprawnionej świadczeniodawcy.
-§ 8. 1. Świadczeniodawca otrzymuje środki finansowe za udzielone świadczenia zdrowotnej danym miesiącu, na podstawie faktury wraz załączonym wykazem udzielonych świadczeń zdrowotnej, przekazanych dyrektorowi departamentu Ministerstwa Obrony Narodowej właściwego spraw zdrowia.
-2. Świadczeniodawca przekazuje fakturę wraz załączonym wykazem, o którym mowa ust. 1, terminie ostatniego dnia każdego miesiąca, za miesiąc poprzedni.
-3. Wykaz udzielonych świadczeń zdrowotnej zawiera:
-1) nazwisko imię (imiona) uprawnionej;
-2) PESEL której udzielono świadczenia zdrowotnej;
-albo faktury za udzielone świadczenia zdrowotnej otrzymanej od świadczeniodawcy są przekazywane na wskazany rachunek bankowy odpowiednio uprawnionej albo świadczeniodawcy terminie 30 dni od dnia otrzymania tych dokumentów przez dyrektora departamentu Ministerstwa Obrony Narodowej właściwego spraw zdrowia ich sprawdzenia pod względem merytorycznym finansowym.
-5. W przypadku dokonania korekty dokumentów, o których mowa ust. 4, osoba uprawniona albo świadczeniodawca składają te dokumenty dyrektora departamentu Ministerstwa Obrony Narodowej właściwego spraw zdrowia, wraz ze szczegółowym uzasadnieniem przyczyny sporządzenia korekty, niezwłocznie po stwierdzeniu nieprawidłowości.
-§ 9. Rozporządzenie wchodzi życie dniem następującym po dniu ogłoszenia.
-Minister Obrony Narodowej: up. W. Skurkiewicz
+Treść rozporządzenia
+Na podstawie art. 42 ust. 2a ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, z późn. zm.) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+szczegółowe warunki otrzymywania świadczeń opieki zdrowotnej niezakwalifikowanych jako świadczenia gwarantowane oraz odpłatnych świadczeń opieki zdrowotnej, zwanych dalej „świadczeniami opieki zdrowotnej”, przez uprawnionych żołnierzy lub pracowników, także po ich zwolnieniu ze służby lub ustaniu umowy o pracę, w związku z urazami i chorobami nabytymi podczas wykonywania zadań poza granicami państwa i weteranów poszkodowanych w zakresie leczenia urazów i chorób nabytych podczas wykonywania zadań poza granicami państwa oraz weteranów poszkodowanych, których ustalony procentowy uszczerbek na zdrowiu wynosi co najmniej 30%, zwanych dalej „osobami uprawnionymi”;
+2)
+tryb postępowania w sprawach otrzymywania świadczeń opieki zdrowotnej;
+3)
+sposób i tryb finansowania ponoszonych kosztów świadczeń opieki zdrowotnej.
+§ 2.
+Świadczenie opieki zdrowotnej zleca lekarz specjalista realizujący postępowanie diagnostyczno-lecznicze u osób uprawnionych po stwierdzeniu potrzeby udzielenia świadczenia opieki zdrowotnej.
+§ 3.
+1.
+Osoba uprawniona otrzymuje świadczenia opieki zdrowotnej na podstawie wniosku złożonego do dyrektora departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia.
+2.
+Wniosek zawiera:
+1)
+nazwisko i imię (imiona) osoby uprawnionej;
+2)
+numer PESEL osoby uprawnionej;
+3)
+serię i numer dowodu osobistego, paszportu lub innego dokumentu stwierdzającego tożsamość – w przypadku osoby uprawnionej, która nie ma nadanego numeru PESEL;
+4)
+adres zamieszkania, adres do korespondencji i numer telefonu;
+5)
+numer legitymacji osoby poszkodowanej albo numer legitymacji weterana poszkodowanego;
+6)
+numer rachunku bankowego osoby uprawnionej, w przypadku, o którym mowa w ust. 3 pkt 2;
+7)
+adres oraz numer rachunku bankowego świadczeniodawcy udzielającego świadczeń opieki zdrowotnej, w przypadku, o którym mowa w ust. 3 pkt 3.
+3.
+Do wniosku dołącza się:
+1)
+opinię o stanie zdrowia wystawioną przez lekarza specjalistę zlecającego świadczenie opieki zdrowotnej, z której wynika potrzeba otrzymania świadczeń opieki zdrowotnej przez osobę uprawnioną;
+2)
+imienną fakturę lub rachunek za otrzymane świadczenia opieki zdrowotnej – w przypadku ubiegania się o zwrot poniesionych kosztów;
+3)
+ofertę podmiotu realizującego dane świadczenie opieki zdrowotnej, określającą przewidywany koszt, a także przewidywany termin realizacji zlecenia, albo fakturę lub rachunek za zrealizowane świadczenie opieki zdrowotnej;
+4)
+kopię zlecenia na otrzymanie świadczeń opieki zdrowotnej finansowanych przez Ministra Obrony Narodowej;
+5)
+oświadczenie osoby uprawnionej o niekorzystaniu, w zakresie kwoty objętej wnioskiem, z dofinansowania ze środków pochodzących z innych źródeł niż z budżetu państwa z części, której dysponentem jest Minister Obrony Narodowej – w odniesieniu do otrzymywanych świadczeń zdrowotnych rzeczowych.
+§ 4.
+Dane i dokumenty, o których mowa w § 3 ust. 2 oraz ust. 3 pkt 1, są przechowywane zgodnie z zasadami wskazanymi w art. 29 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2020 r. poz. 849).
+§ 5.
+Finansowanie kosztów świadczeń opieki zdrowotnej odbywa się przez:
+1)
+zwrot kosztów poniesionych przez osobę uprawnioną;
+2)
+przekazanie środków świadczeniodawcy.
+§ 6.
+Dyrektor departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia rozpatruje wniosek w terminie do 30 dni od dnia jego wpływu.
+§ 7.
+1.
+W przypadku, o którym mowa w § 5 pkt 2, dyrektor departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia po rozpatrzeniu wniosku sporządza zaświadczenie o wysokości finansowania, które zawiera:
+1)
+datę wystawienia oraz oznaczenie numeru ewidencyjnego;
+2)
+datę złożenia wniosku;
+3)
+nazwisko i imię (imiona) osoby uprawnionej;
+4)
+numer PESEL osoby uprawnionej;
+5)
+serię i numer dowodu osobistego, paszportu lub innego dokumentu stwierdzającego tożsamość – w przypadku osoby uprawnionej, która nie ma nadanego numeru PESEL;
+6)
+nazwę i adres oraz numer rachunku bankowego podmiotu realizującego świadczenia opieki zdrowotnej;
+7)
+kwotę przewidzianą do przekazania na rachunek bankowy świadczeniodawcy udzielającego świadczenia opieki zdrowotnej;
+8)
+podpis dyrektora departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia lub osoby upoważnionej.
+2.
+Zaświadczenie o wysokości finansowania jest przekazywane do osoby uprawnionej oraz do świadczeniodawcy.
+§ 8.
+1.
+Świadczeniodawca otrzymuje środki finansowe za udzielone świadczenia opieki zdrowotnej w danym miesiącu, na podstawie faktury wraz z załączonym wykazem udzielonych świadczeń opieki zdrowotnej, przekazanych dyrektorowi departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia.
+2.
+Świadczeniodawca przekazuje fakturę wraz z załączonym wykazem, o którym mowa w ust. 1, w terminie do ostatniego dnia każdego miesiąca, za miesiąc poprzedni.
+3.
+Wykaz udzielonych świadczeń opieki zdrowotnej zawiera:
+1)
+nazwisko i imię (imiona) osoby uprawnionej;
+2)
+numer PESEL osoby uprawnionej, której udzielono świadczenia opieki zdrowotnej;
+3)
+serię i numer dowodu osobistego, paszportu lub innego dokumentu stwierdzającego tożsamość – w przypadku osoby uprawnionej, której udzielono świadczenia opieki zdrowotnej, która nie ma nadanego numeru PESEL;
+4)
+datę (okres) udzielenia świadczenia opieki zdrowotnej;
+5)
+rodzaj i zakres udzielonego świadczenia opieki zdrowotnej;
+6)
+liczbę udzielonych świadczeń opieki zdrowotnej;
+7)
+cenę udzielonego świadczenia opieki zdrowotnej;
+8)
+wartość świadczeń opieki zdrowotnej stanowiącą iloczyn liczby świadczeń i ich ceny;
+9)
+datę wystawienia i numer faktury;
+10)
+podpis świadczeniodawcy.
+4.
+Środki finansowe w wysokości wynikającej z faktury imiennej lub rachunku otrzymanych od osoby uprawnionej albo faktury za udzielone świadczenia opieki zdrowotnej otrzymanej od świadczeniodawcy są przekazywane na wskazany rachunek bankowy odpowiednio osoby uprawnionej albo świadczeniodawcy w terminie 30 dni od dnia otrzymania tych dokumentów przez dyrektora departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia oraz ich sprawdzenia pod względem merytorycznym i finansowym.
+5.
+W przypadku dokonania korekty dokumentów, o których mowa w ust. 4, osoba uprawniona albo świadczeniodawca składają te dokumenty do dyrektora departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia, wraz ze szczegółowym uzasadnieniem przyczyny sporządzenia korekty, niezwłocznie po stwierdzeniu nieprawidłowości.
+§ 9.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

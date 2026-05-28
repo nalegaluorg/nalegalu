@@ -1,0 +1,366 @@
+---
+title: Ustawa z dnia 9 listopada 2018 r. o zmianie ustawy o dozorze technicznym
+address: WDU20180002518
+eli: DU/2018/2518
+publisher: DU
+year: 2018
+pos: 2518
+act_type: Ustawa
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Ustawa z dnia 9 listopada 2018 r. o zmianie ustawy o dozorze technicznym
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2018 poz. 2518 |
+| ISAP | WDU20180002518 |
+| Typ aktu | Ustawa |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2018-11-09 |
+| Data wydania | 2018-12-31 |
+| Wejście w życie | 2019-01-01 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002518) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2518/text.pdf) |
+
+**Art. 1.** W ustawie z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2018 r. poz. 1351 i 1356) wprowadza się następujące zmiany:
+
+- **1)** w art. 4 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5–7 w brzmieniu: „
+- **5)** modernizacji – należy przez to rozumieć zespół czynności niebędących wytworzeniem nowego urządzenia technicznego, zmieniających cechy urządzenia technicznego, w szczególności jego: konstrukcję lub zastosowane w nim materiały, lub parametry techniczne, lub automatykę zabezpieczającą lub jej podzespoły bez istotnych zmian jego charakterystyki lub przeznaczenia i niepowodujących wzrostu zagrożenia związanego z jego eksploatacją;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **6)** naprawie – należy przez to rozumieć zespół czynności mających na celu przywrócenie stanu zdatności użytkowej urządzenia technicznego, w tym wykonywanych metodami chemicznymi, bez wprowadzania zmian w konstrukcji lub parametrów technicznych;
+- **7)** konserwacji – należy przez to rozumieć zespół czynności wykonywanych w celu utrzymania stanu zdatności użytkowej urządzenia technicznego, prowadzonych zgodnie z instrukcją eksploatacji, niebędących naprawą urządzenia. ” ;
+- **2)** w art. 7 po ust. 2 dodaje się ust. 2a w brzmieniu: „
+
+2a. W sprawach należących do zakresu działania Urzędu Dozoru Technicznego dotyczących urządzeń technicznych lub urządzeń w elektrowniach jądrowych organem właściwym w rozumieniu przepisów Kodeksu postępowania administracyjnego jest Prezes Urzędu, a organem wyższego stopnia – minister właściwy do spraw energii. ” ;
+
+- **3)** w art. 8: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Wytwarzanie urządzeń technicznych odbywa się na podstawie dokumentacji technicznej uzgodnionej z organem właściwej jednostki dozoru technicznego w zakresie zgodności tej dokumentacji z warunkami technicznymi dozoru technicznego, chyba że przepisy szczególne stanowią inaczej. ” , w ust. 5a wyrazy „Minister właściwy do spraw gospodarki” zastępuje się wyrazami „Minister właściwy do spraw energii”, ust. 6 otrzymuje brzmienie: „
+
+- **b)**
+- **c)**
+
+6. Jeżeli dla urządzenia technicznego nie ma określonych warunków technicznych dozoru technicznego, warunki te są uzgadniane z organem właściwej jednostki dozoru technicznego. ” ;
+
+- **4)** w art. 9: ust. 3a otrzymuje brzmienie: „
+    - **a)**
+
+3a. Prezes Urzędu Dozoru Technicznego, Dyrektor Transportowego Dozoru Technicznego i Szef Wojskowego Dozoru Technicznego, każdy w zakresie swojej właściwości, określą wzór wniosku, o którym mowa w ust. 2, w formie dokumentu elektronicznego w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2017 r. poz. 570 oraz z 2018 r. poz. 1000, 1544 i 1669). ” , dodaje się ust. 5 w brzmieniu: „
+
+- **b)**
+
+5. Decyzja, o której mowa w ust. 1, wydana przez organ właściwej jednostki dozoru technicznego uprawnia do wytwarzania, naprawiania lub modernizacji objętych tą decyzją urządzeń technicznych oraz materiałów i elementów, o których mowa w ust. 1, również w przypadku gdy ze względu na miejsce instalacji, eksploatacji lub wykorzystania dozór techniczny nad urządzeniem technicznym jest wykonywany przez inną jednostkę dozoru technicznego, jeżeli technologia wytwarzania, naprawy lub modernizacji urządzenia technicznego jest zgodna z tą decyzją. ” ;
+
+- **5)** w art. 14 dodaje się ust. 5 i 6 w brzmieniu: „
+
+5. Decyzja, o której mowa w ust. 4, podlega wykonaniu z dniem jej doręczenia eksploatującemu lub osobie przez niego upoważnionej.
+
+6. Na podstawie negatywnych wyników badań i wykonanych czynności sprawdzających, o których mowa w ust. 2, w przypadku braku decyzji zezwalającej na eksploatację urządzenia, organ właściwej jednostki dozoru technicznego, w drodze decyzji, odmawia wydania decyzji zezwalającej na eksploatację urządzenia. ” ;
+
+- **6)** art. 15a otrzymuje brzmienie: „
+
+**Art. 15a.**
+
+1. W przypadku zmiany eksploatującego urządzenie techniczne, nowy eksploatujący wstępuje we wszystkie prawa i obowiązki poprzedniego eksploatującego wynikające z decyzji, o której mowa w art. 14 ust. 1, pod warunkiem że:
+
+- **1)** od dnia przeprowadzenia ostatniego badania urządzenia technicznego nie wprowadzono zmian dotyczących jego eksploatacji, które są określone w warunkach technicznych dozoru technicznego;
+- **2)** nowy eksploatujący złoży oświadczenie o spełnianiu warunku, o którym mowa w pkt 1, i poinformuje organ właściwej jednostki dozoru technicznego o zmianie eksploatującego urządzenie techniczne.
+
+2. Przepisu ust. 1 nie stosuje się do decyzji zezwalających na eksploatację urządzeń technicznych objętych przepisami ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2018 r. poz. 169, 650, 1481 i 1629). ” ;
+
+- **7)** w art. 17: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Dokonanie naprawy lub modernizacji urządzenia technicznego, z wyjątkiem urządzeń, o których mowa w art. 15 ust. 1, wymaga uprzedniego uzgodnienia z organem właściwej jednostki dozoru technicznego. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+- **b)**
+
+1a. Modernizacja urządzenia technicznego odbywa się na podstawie dokumentacji technicznej uzgodnionej z organem właściwej jednostki dozoru technicznego w zakresie zgodności tej dokumentacji z warunkami technicznymi dozoru technicznego, chyba że przepisy szczególne stanowią inaczej. ” ;
+
+- **8)** art. 19 otrzymuje brzmienie: „
+
+**Art. 19.**
+
+1. Eksploatujący urządzenie techniczne jest obowiązany niezwłocznie zawiadomić organ właściwej jednostki dozoru technicznego o każdym niebezpiecznym uszkodzeniu urządzenia technicznego lub nieszczęśliwym wypadku związanym z jego eksploatacją.
+
+2. Organy administracji publicznej, które wykonują czynności w związku z niebezpiecznym uszkodzeniem urządzenia technicznego lub nieszczęśliwym wypadkiem związanym z jego eksploatacją, przekazują właściwej jednostce dozoru technicznego, niezwłocznie po ich powzięciu, informacje obejmujące co najmniej:
+
+- **1)** datę i miejsce zdarzenia;
+- **2)** wskazanie eksploatującego urządzenie techniczne;
+- **3)** numer ewidencyjny i numer fabryczny urządzenia technicznego;
+- **4)** okoliczności zdarzenia. ” ;
+- **9)** w art. 22: po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „
+    - **a)**
+
+3a. Zaświadczenia kwalifikacyjne osób, o których mowa w ust. 3, są wydawane na czas określony nie krótszy niż 5 lat i nie dłuższy niż 10 lat, w zależności od rodzaju urządzenia technicznego, stopnia trudności w jego obsłudze i konserwacji oraz stopnia zagrożenia, które może spowodować.
+
+3b. Zaświadczenie kwalifikacyjne wydane przez organ właściwej jednostki dozoru technicznego potwierdza kwalifikacje osób, o których mowa w ust. 2 i 3, również w przypadku gdy ze względu na miejsce instalacji, eksploatacji lub wykorzystania urządzenia technicznego dozór techniczny nad tym urządzeniem jest wykonywany przez inną jednostkę dozoru technicznego. ” , ust. 4 otrzymuje brzmienie: „
+
+- **b)**
+
+4. W razie nieprzestrzegania przez osoby wymienione w ust. 2 i 3 warunków technicznych dozoru technicznego oraz norm i przepisów prawnych w tym zakresie, organ właściwej jednostki dozoru technicznego cofa, w drodze decyzji, uprawnienia kwalifikacyjne wynikające z zaświadczenia kwalifikacyjnego wydanego osobom, o których mowa w ust. 2 i 3. ” ;
+
+- **10)** w art. 23: po ust. 1 dodaje się ust. 1a-1c w brzmieniu: „
+    - **a)**
+
+1a. Wniosek o sprawdzenie kwalifikacji osób, o których mowa w art. 22 ust. 2 i 3, zawiera następujące dane: imię i nazwisko osoby zainteresowanej sprawdzeniem kwalifikacji, jej adres do korespondencji, numer PESEL, a w przypadku braku numeru PESEL – rodzaj i numer dokumentu potwierdzającego tożsamość oraz datę urodzenia i obywatelstwo.
+
+1b. Do wniosku o sprawdzenie kwalifikacji osób, o których mowa w art. 22 ust. 3, dołącza się dodatkowo:
+
+- **1)** informację o wykształceniu osoby zainteresowanej sprawdzeniem kwalifikacji;
+- **2)** informację o miejscu, w którym będzie przeprowadzone postępowanie, o którym mowa w ust. 1;
+- **3)** informację o zakresie sprawdzanych kwalifikacji i rodzaj urządzenia technicznego;
+- **4)** zgodę: właściciela lub upoważnionego przedstawiciela na wykorzystanie jego urządzenia technicznego w trakcie postępowania, o którym mowa w ust. 1, kierownika jednostki organizacyjnej, w której będzie możliwe przeprowadzenie postępowania, o którym mowa w ust. 1;
+    - **a)**
+    - **b)**
+
+- **5)** kopie zaświadczeń poświadczających inne kwalifikacje lub uprawnienia, jeśli są wymagane na podstawie odrębnych przepisów.
+
+1c. Sprawdzenie kwalifikacji osób, o których mowa w art. 22 ust. 2 i 3, dotyczy osób, które ukończyły 18 lat oraz władają językiem polskim w stopniu umożliwiającym przeprowadzenie postępowania, o którym mowa w ust. 1, oraz zrozumienie zasad jego przeprowadzenia albo zapewnią udział tłumacza przysięgłego. ” , po ust. 2 dodaje się ust. 2a-2e w brzmieniu: „
+
+- **b)**
+
+2a. Przedłużenie okresu ważności zaświadczenia kwalifikacyjnego osób, o których mowa w art. 22 ust. 3, jest bezpłatne i następuje na wniosek.
+
+2b. Wniosek, o którym mowa w ust. 2a, zawiera dane osoby zainteresowanej przedłużeniem okresu ważności zaświadczenia kwalifikacyjnego wymienione w ust. 1a oraz numer i zakres zaświadczenia kwalifikacyjnego będącego przedmiotem tego wniosku.
+
+2c. Warunkiem przedłużenia okresu ważności zaświadczenia kwalifikacyjnego jest:
+
+- **1)** złożenie wniosku, o którym mowa w ust. 2a, nie później niż w terminie 3 miesięcy przed dniem upływu okresu ważności tego zaświadczenia;
+- **2)** wykonywanie czynności w zakresie określonym w zaświadczeniu kwalifikacyjnym przez co najmniej 3 lata w okresie ostatnich 5 lat ważności zaświadczenia.
+
+2d. Do wniosku, o którym mowa w ust. 2a, należy dołączyć oświadczenie osoby zainteresowanej przedłużeniem okresu ważności zaświadczenia kwalifikacyjnego o wykonywaniu czynności w zakresie określonym w tym zaświadczeniu przez co najmniej 3 lata w okresie ostatnich 5 lat ważności zaświadczenia, składane pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. W oświadczeniu umieszcza się klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+2e. Do zaświadczeń kwalifikacyjnych, których okres ważności przedłużono na wniosek, o którym mowa w ust. 2a, przepisy art. 22 ust. 3b stosuje się. ” , w ust. 3 dodaje się zdanie drugie w brzmieniu: „ Do wniosku dołącza się potwierdzenie dokonania opłaty za sprawdzenie kwalifikacji osób, o których mowa w art. 22 ust. 2 i 3. ” , w ust. 4 zdanie pierwsze otrzymuje brzmienie: „ Opłaty, o których mowa w ust. 3, pobierane są w wysokości 3,75% kwoty przeciętnego wynagrodzenia w gospodarce narodowej, ogłaszanej przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2018 r. poz. 1270 i 2245), obowiązującej w dniu złożenia wniosku. ” , ust. 5 otrzymuje brzmienie: „
+
+- **c)**
+- **d)**
+- **e)**
+
+5. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia:
+
+- **1)** sposób i tryb sprawdzania kwalifikacji wymaganych przy obsłudze i konserwacji urządzeń technicznych, biorąc pod uwagę potrzebę zapewnienia możliwości właściwego sprawdzenia umiejętności teoretycznych i praktycznych osób przystępujących do sprawdzenia kwalifikacji,
+- **2)** sposób i tryb przedłużania okresu ważności zaświadczeń kwalifikacyjnych,
+- **3)** rodzaje urządzeń technicznych, przy których obsłudze i konserwacji wymagane jest posiadanie kwalifikacji,
+- **4)** okresy ważności zaświadczeń kwalifikacyjnych,
+- **5)** wzór wniosku o sprawdzenie kwalifikacji wymaganych przy obsłudze i konserwacji urządzeń technicznych,
+- **6)** wzór wniosku o przedłużenie okresu ważności zaświadczenia kwalifikacyjnego,
+- **7)** wzór zaświadczenia kwalifikacyjnego wymaganego przy obsłudze i konserwacji urządzeń technicznych uwzględniając zakres zaświadczenia kwalifikacyjnego, rodzaje urządzeń technicznych i stopień zagrożenia związanego z ich eksploatacją. ” ;
+- **11)** art. 26 otrzymuje brzmienie: „
+
+**Art. 26.** Przedsiębiorca, u którego są wykonywane czynności dozoru technicznego, jest obowiązany:
+
+- **1)** zapewnić warunki do bezpiecznego i sprawnego ich wykonania, w tym obecność konserwującego i obsługującego, jeżeli jest wymagana, oraz
+- **2)** przedstawić dokumenty i udzielić informacji koniecznych do prawidłowego wykonania tych czynności, na żądanie inspektora. ” ;
+- **12)** w art. 31 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
+
+2. Przedsiębiorca, u którego są wykonywane czynności dozoru technicznego, jest obowiązany na polecenie inspektora do wykonania czynności przy urządzeniu technicznym lub urządzeniu do odzyskiwania par paliwa. ” ;
+
+- **13)** art. 33 otrzymuje brzmienie: „
+
+**Art. 33.**
+
+1. Inspektor sporządza w postaci papierowej lub elektronicznej protokół wykonania czynności dozoru technicznego.
+
+2. Przedsiębiorca, u którego wykonywane są czynności dozoru technicznego, lub osoba przez niego upoważniona potwierdza odbiór protokołu.
+
+3. Przedsiębiorca, u którego wykonywane są czynności dozoru technicznego, przechowuje w postaci papierowej lub elektronicznej zbiór protokołów dotyczących danego urządzenia technicznego lub urządzenia do odzyskiwania par paliwa, zwany „księgą rewizyjną urządzenia”. ” ;
+
+- **14)** w art. 37 pkt 12 otrzymuje brzmienie: „
+- **12)** współpraca z organami państwowymi, właściwymi organami innych państw, instytucjami polskimi i zagranicznymi, w zakresie zagadnień dotyczących bezpiecznego funkcjonowania urządzeń technicznych; ” ;
+- **15)** w art. 38: ust. 3 i 4 otrzymują brzmienie: „
+    - **a)**
+
+3. Prezes sporządza roczne sprawozdanie z działalności UDT i przedstawia je ministrowi właściwemu do spraw gospodarki w terminie do dnia 31 maja każdego roku, w celu jego zatwierdzenia.
+
+4. Wiceprezesów UDT, w liczbie nie większej niż dwóch, powołuje na wniosek Prezesa spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru i odwołuje minister właściwy do spraw gospodarki. ” , dodaje się ust. 7–9 w brzmieniu: „
+
+- **b)**
+
+7. Wiceprezes UDT pełni obowiązki Prezesa do czasu powołania nowego Prezesa.
+
+8. W przypadku powołania dwóch Wiceprezesów UDT, Wiceprezesa UDT pełniącego obowiązki Prezesa wskazuje minister właściwy do spraw gospodarki.
+
+9. W przypadku nieobsadzenia stanowiska Wiceprezesa UDT obowiązki Prezesa pełni, do czasu powołania nowego Prezesa, pracownik zajmujący kierownicze stanowisko w UDT, wskazany przez ministra właściwego do spraw gospodarki. ” ;
+
+- **16)** art. 39 i art. 40 otrzymują brzmienie: „
+
+**Art. 39.**
+
+1. W skład UDT wchodzą:
+
+- **1)** Centrala UDT;
+- **2)** oddziały terenowe UDT, zwane dalej „oddziałami UDT”.
+
+2. Dyrektorów w Centrali UDT oraz dyrektorów oddziałów UDT powołuje i odwołuje Prezes UDT.
+
+**Art. 40.** UDT wykonuje dozór techniczny nad urządzeniami technicznymi objętymi przepisami ustawy oraz nad urządzeniami do odzyskiwania par paliwa, z wyłączeniem urządzeń podlegających dozorowi technicznemu specjalistycznych jednostek dozoru technicznego. ” ;
+
+- **17)** po art. 40 dodaje się art. 40a w brzmieniu: „
+
+1. UDT udostępnia organom administracji publicznej, na ich wniosek, informacje z prowadzonej ewidencji eksploatowanych urządzeń technicznych w zakresie dotyczącym urządzenia technicznego oraz wydanych decyzji, o których mowa w art. 14 ust. 1 i 6 oraz art. 18 ust. 1.
+
+2. Informacje, o których mowa w ust. 1, są przekazywane w terminie 30 dni od daty wpływu wniosku do UDT. ” ;
+
+- **18)** art. 41 otrzymuje brzmienie: „
+
+**Art. 41.**
+
+1. Minister właściwy do spraw gospodarki, w drodze zarządzenia, nadaje UDT statut.
+
+2. Minister właściwy do spraw gospodarki, wydając zarządzenie, o którym mowa w ust. 1, określi w szczególności organizację wewnętrzną UDT, siedziby oddziałów UDT oraz sposób udzielania pełnomocnictw, kierując się potrzebą zapewnienia sprawnego działania UDT. ” ;
+
+- **19)** w art. 44 w ust. 1: pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** wykonywanie zadań określonych w ustawie z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych; ” , pkt 6 otrzymuje brzmienie: „
+    - **b)**
+
+- **6)** wykonywanie zadań, o których mowa w art. 37 pkt 1 i 8–16 oraz art. 40a ust. 1, w zakresie urządzeń określonych w pkt 1; ” , w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11–14 w brzmieniu: „
+    - **c)**
+
+- **11)** inicjowanie działalności mającej na celu zwiększanie bezpieczeństwa publicznego w transporcie;
+- **12)** współpraca z jednostkami dozoru technicznego w zakresie wykonywania dozoru technicznego;
+- **13)** inicjowanie działalności normalizacyjnej, współudział w opracowywaniu lub opracowywanie projektów warunków technicznych dozoru technicznego oraz norm określających zasady i warunki bezpiecznej pracy urządzeń technicznych, o których mowa w art. 54 ust. 1;
+- **14)** występowanie z wnioskami o zmianę wysokości opłat za czynności jednostek dozoru technicznego w zakresie urządzeń technicznych, o których mowa w art. 54 ust. 1. ” ;
+- **20)** w art. 45 ust. 3 otrzymuje brzmienie: „
+
+3. Dyrektor TDT sporządza roczne sprawozdanie z działalności TDT i przedstawia je ministrowi właściwemu do spraw transportu w terminie do dnia 31 maja każdego roku, w celu jego zatwierdzenia. ” ;
+
+- **21)** art. 46 i art. 47 otrzymują brzmienie: „
+
+**Art. 46.**
+
+1. W skład TDT wchodzą:
+
+- **1)** Biuro TDT;
+- **2)** oddziały terenowe TDT, zwane dalej „oddziałami TDT”.
+
+2. Oddziałami TDT kierują kierownicy, powoływani i odwoływani przez Dyrektora TDT.
+
+3. Dyrektor TDT wykonuje zadania, o których mowa w art. 44, przy pomocy Biura TDT i oddziałów TDT.
+
+**Art. 47.**
+
+1. Minister właściwy do spraw transportu, w drodze zarządzenia, nadaje TDT statut.
+
+2. Minister właściwy do spraw transportu, wydając zarządzenie, o którym mowa w ust. 1, określi w szczególności organizację wewnętrzną TDT, siedziby oddziałów TDT i zasady udzielania pełnomocnictw, kierując się potrzebą zapewnienia sprawnego działania TDT. ” ;
+
+- **22)** w art. 50 w ust. 1: pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** wykonywanie dozoru technicznego nad urządzeniami technicznymi oraz urządzeniami do odzyskiwania par paliwa zainstalowanymi i eksploatowanymi w: jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych, jednostkach sił zbrojnych państw obcych przebywających na terytorium Rzeczypospolitej Polskiej; ” , pkt 3 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **b)**
+
+- **3)** współpraca z innymi instytucjami w zakresie zagadnień dotyczących bezpiecznej pracy urządzeń, o których mowa w pkt 1; ” ;
+- **23)** w art. 51 ust. 3 otrzymuje brzmienie: „
+
+3. Szef WDT sporządza roczne sprawozdanie z działalności WDT i przedstawia je Ministrowi Obrony Narodowej w terminie do dnia 31 maja każdego roku, w celu jego zatwierdzenia. ” ;
+
+- **24)** art. 52 i art. 53 otrzymują brzmienie: „
+
+**Art. 52.**
+
+1. W skład WDT wchodzą:
+
+- **1)** Biuro WDT;
+- **2)** delegatury WDT, zwane dalej „delegaturami”.
+
+2. Biurem WDT i delegaturami kierują szefowie powoływani i odwoływani, na wniosek Szefa WDT, przez Ministra Obrony Narodowej.
+
+**Art. 53.** Minister Obrony Narodowej określi, w drodze rozporządzenia, szczegółowy zakres działania WDT, jego organizację wewnętrzną, siedziby Biura WDT i delegatur, uwzględniając cele działalności WDT oraz potrzebę sprawnego realizowania zadań. ” ;
+
+- **25)** w art. 55 ust. 4 otrzymuje brzmienie: „
+
+4. Minister właściwy do spraw gospodarki ustala wynagrodzenie Prezesa UDT oraz Wiceprezesów UDT zgodnie z przepisami ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. z 2018 r. poz. 1252 i 2215). ” ;
+
+- **26)** w art. 56 uchyla się ust. 2;
+- **27)** art. 58–60 otrzymują brzmienie: „
+
+**Art. 58.**
+
+1. Roczne sprawozdanie finansowe UDT zatwierdza minister właściwy do spraw gospodarki.
+
+2. Prezes UDT przedstawia ministrowi właściwemu do spraw gospodarki sprawozdanie, o którym mowa w ust. 1, wraz ze sprawozdaniem z badania, w terminie do dnia 31 maja każdego roku.
+
+**Art. 59.**
+
+1. UDT tworzy następujące fundusze:
+
+- **1)** fundusz podstawowy;
+- **2)** fundusz rezerwowy;
+- **3)** zakładowy fundusz nagród.
+
+2. Fundusz podstawowy odzwierciedla wartość majątku UDT.
+
+3. Fundusz rezerwowy zwiększa się o zysk netto oraz zmniejsza się o stratę netto UDT, z zastrzeżeniem art. 60.
+
+4. Zakładowy fundusz nagród wynosi 8,5% funduszu płac.
+
+**Art. 60.** Zysk netto UDT przeznacza się na:
+
+- **1)** fundusz rezerwowy – 70%;
+- **2)** wpłatę do budżetu – 30%. ” ;
+- **28)** po art. 60 dodaje się art. 60a w brzmieniu: „
+
+1. Roczne sprawozdanie finansowe UDT podlega badaniu przez firmę audytorską.
+
+2. Minister właściwy do spraw gospodarki dokonuje wyboru firmy audytorskiej. ” ;
+
+- **29)** w art. 61: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. TDT prowadzi samodzielną gospodarkę finansową. Przepisy art. 55 ust. 2 i 3, art. 55a-55d, art. 57, art. 59, art. 60 oraz art. 60a ust. 1 stosuje się odpowiednio. ” , ust. 4 otrzymuje brzmienie: „
+
+- **b)**
+
+4. Roczne sprawozdanie finansowe TDT zatwierdza minister właściwy do spraw transportu. ” , dodaje się ust. 5 i 6 w brzmieniu: „
+
+- **c)**
+
+5. Dyrektor TDT przedstawia ministrowi właściwemu do spraw transportu sprawozdanie, o którym mowa w ust. 4, wraz ze sprawozdaniem z badania, w terminie do dnia 31 maja każdego roku.
+
+6. Minister właściwy do spraw transportu dokonuje wyboru firmy audytorskiej. ” ;
+
+- **30)** art. 65 otrzymuje brzmienie: „
+
+**Art. 65.** Postępowanie w sprawach określonych w art. 64 następuje w trybie określonym w przepisach Kodeksu postępowania w sprawach o wykroczenia. ” .
+
+**Art. 2.** Do modernizacji urządzenia technicznego rozpoczętej i niezakończonej do dnia wejścia w życie niniejszej ustawy zgodnie z art. 17 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, stosuje się przepisy dotychczasowe.
+
+**Art. 3.**
+
+1. Zaświadczenia kwalifikacyjne wydane przed dniem 1 czerwca 2019 r. osobom, o których mowa w art. 22 ust. 3 ustawy zmienianej w art. 1, zachowują ważność przez okres 5 lat, chyba że przed upływem tego terminu zostaną cofnięte na podstawie art. 22 ust. 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+2. Zaświadczenia kwalifikacyjne wydane po przeprowadzeniu postępowania kwalifikacyjnego wszczętego i niezakończonego przed dniem 1 czerwca 2019 r. osobom, o których mowa w art. 22 ust. 3 ustawy zmienianej w art. 1, zachowują ważność przez okres 5 lat, chyba że przed upływem tego terminu zostaną cofnięte na podstawie art. 22 ust. 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+**Art. 4.** Do postępowań wszczętych i niezakończonych przed dniem 1 czerwca 2019 r. na podstawie art. 22 ust. 4 ustawy zmienianej w art. 1, art. 23 ust. 1 ustawy zmienianej w art. 1 oraz w przypadku złożenia wniosku o przeprowadzenie ponownego sprawdzenia kwalifikacji stosuje się przepisy dotychczasowe.
+
+**Art. 5.**
+
+1. Zawieszone na podstawie art. 22 ust. 4 pkt 1 ustawy zmienianej w art. 1, zaświadczenie kwalifikacyjne, w odniesieniu do którego nie złożono wniosku o przeprowadzenie ponownego sprawdzenia kwalifikacji przed dniem 1 czerwca 2019 r., traci ważność po upływie roku od tego dnia.
+
+2. W okresie, o którym mowa w ust. 1, dopuszcza się złożenie wniosku o przeprowadzenie ponownego sprawdzenia kwalifikacji. W takim przypadku do ponownego sprawdzenia kwalifikacji stosuje się przepisy dotychczasowe.
+
+**Art. 6.** Przepisy art. 38 ust. 3, art. 45 ust. 3, art. 51 ust. 3, art. 58 i art. 61 ust. 4 i 5 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się po raz pierwszy do sprawozdań z działalności oraz sprawozdań finansowych sporządzonych za 2018 r.
+
+**Art. 7.** Wydzielenie Centrali Urzędu Dozoru Technicznego, Biura Transportowego Dozoru Technicznego i Biura Wojskowego Dozoru Technicznego zgodnie odpowiednio z art. 39 ust. 1 pkt 1, art. 46 ust. 1 pkt 1 i art. 52 ust. 1 pkt 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą nie wpływa na stosunki pracy osób zatrudnionych w tych jednostkach dozoru technicznego w dniu wejścia w życie niniejszej ustawy.
+
+**Art. 8.**
+
+1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 41 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 41 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 47 i art. 53 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 47 i art. 53 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 9.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem art. 1 pkt 9 lit. a w zakresie art. 22 ust. 3a, lit. b, pkt 10 lit. a-c oraz lit. e, które wchodzą w życie z dniem 1 czerwca 2019 r.
+

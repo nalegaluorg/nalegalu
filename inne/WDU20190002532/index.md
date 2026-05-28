@@ -1,0 +1,146 @@
+---
+title: "Rozporządzenie Ministra Zdrowia z dnia 23 grudnia 2019 r. zmieniające rozporządzenie w sprawie zakresu niezbędnych informacji przetwarzanych przez świadczeniodawców, szczegółowego sposobu rejestrowania tych informacji oraz ich przekazywania podmiotom zobowiązanym do finansowania świadczeń ze środków publicznych"
+address: WDU20190002532
+eli: DU/2019/2532
+publisher: DU
+year: 2019
+pos: 2532
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Rozporządzenie Ministra Zdrowiaz dnia 23 grudnia 2019 r. zmieniające rozporządzenie w sprawie zakresu niezbędnych informacji przetwarzanych przez świadczeniodawców, szczegółowego sposobu rejestrowania tych informacji oraz ich przekazywania podmiotom zobowiązanym do finansowania świadczeń ze środków publicznych
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2019 poz. 2532 |
+| ISAP | WDU20190002532 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2019-12-23 |
+| Data wydania | 2019-12-30 |
+| Wejście w życie | 2020-01-01 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002532) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2532/text.pdf) |
+
+Treść rozporządzenia
+
+## Załącznik nr 1 — – Tekst załącznika
+
+## Załącznik nr 2 — – Tekst załącznika
+
+## Załącznik nr 3 — – Tekst załącznika
+
+## Załącznik nr 4 — – Tekst załącznika
+
+Treść rozporządzenia
+Na podstawie art. 190 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm.) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Ministra Zdrowia z dnia 26 czerwca 2019 r. w sprawie zakresu niezbędnych informacji przetwarzanych przez świadczeniodawców, szczegółowego sposobu rejestrowania tych informacji oraz ich przekazywania podmiotom zobowiązanym do finansowania świadczeń ze środków publicznych (Dz. U. poz. 1207) wprowadza się następujące zmiany:
+1)
+w § 1 w ust. 2 pkt 4 otrzymuje brzmienie:
+„
+4)
+przepustka – okresowe przebywanie świadczeniobiorcy poza zakładem leczniczym podmiotu leczniczego w trakcie stacjonarnego leczenia: psychiatrycznego i uzależnień, długoterminowego, paliatywnego i hospicyjnego, uzdrowiskowego lub rehabilitacji leczniczej bez dokonywania z niego wypisu, po wyrażeniu zgody przez tego świadczeniobiorcę albo przez jego rodzica, albo opiekuna prawnego oraz przez zakład leczniczy podmiotu leczniczego, w którym przebywa świadczeniobiorca.
+” ;
+2)
+w § 3:
+a)
+w ust. 1:
+– pkt 2 otrzymuje brzmienie: „ 2) kod świadczenia, który stanowi kod jednostki statystycznej określonej zgodnie z załącznikiem nr 1 do rozporządzenia, zwany dalej „kodem świadczenia; ”” ,
+– pkt 22 otrzymuje brzmienie: „ 22) identyfikator zdarzenia medycznego przetwarzanego w systemie informacji w rozumieniu art. 2 pkt 18 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2019 r. poz. 408, 730, 1590 i 1905), o którym mowa w przepisach wykonawczych wydanych na podstawie art. 11 ust. 4a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia. ” ,
+b)
+w ust. 2 pkt 6 otrzymuje brzmienie:
+„
+6)
+informację, czy w okresie trwania hospitalizacji doszło do zakażenia szpitalnego w rozumieniu art. 2 pkt 33 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2019 r. poz. 1239 i 1495) wraz ze wskazaniem – jeżeli jest możliwa do ustalenia – przyczyny choroby według Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów Zdrowotnych Rewizja Dziesiąta.
+” ;
+3)
+w § 6 w ust. 3 pkt 3–5 otrzymują brzmienie:
+„
+3)
+dane, o których mowa w § 3 ust. 1 pkt 6 i 22, a w przypadku gdy jednostką statystyczną, o której mowa w § 3 ust. 1 pkt 2, jest porada – dodatkowo także dane, o których mowa w § 3 ust. 1 pkt 3;
+4)
+informację o masie ciała i wzroście świadczeniobiorcy – co najmniej raz w danym roku kalendarzowym;
+5)
+informację dotyczącą używania przez świadczeniobiorcę, który ukończył 15 rok życia, wyrobów tytoniowych, zgodnie z kodem określonym w tabeli nr 18 załącznika nr 3 do rozporządzenia – co najmniej raz w danym roku kalendarzowym.
+” ;
+4)
+w § 8:
+a)
+w ust. 1:
+– pkt 5 otrzymuje brzmienie: „ 5) rozpoznanie lub powód przyjęcia; wpisanie rozpoznania jest obowiązkowe, jeżeli można je ustalić na podstawie skierowania, które jest podstawą dokonania wpisu; dodatkowo w przypadku skierowania na cykl zabiegów z zakresu fizjoterapii ambulatoryjnej – rozpoznanie obejmuje kod jednostki chorobowej według Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów Zdrowotnych Rewizja Dziesiąta; ” ,
+– w pkt 6 lit. b otrzymuje brzmienie: „ b) informacja o rezerwacji terminu – w przypadku gdy świadczeniobiorca wybrał termin późniejszy niż wskazany przez świadczeniodawcę oraz w przypadku, o którym mowa w art. 20 ust. 9b ustawy, ” ,
+b)
+w ust. 2 w pkt 5 lit. b otrzymuje brzmienie:
+„
+b)
+informacja o rezerwacji terminu – w przypadku gdy świadczeniobiorca wybrał termin późniejszy niż wskazany przez świadczeniodawcę oraz w przypadku, o którym mowa w art. 20 ust. 9b ustawy,
+” ,
+c)
+w ust. 4 po pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu:
+„
+5)
+informację o udzielaniu świadczeń dzieciom, jeżeli część VIII systemu resortowych kodów identyfikacyjnych komórki organizacyjnej, w której prowadzony jest harmonogram przyjęć, wskazuje na udzielanie świadczeń osobom dorosłym, a komórka udziela świadczeń także dzieciom.
+” ,
+d)
+w ust. 5 pkt 1 otrzymuje brzmienie:
+„
+1)
+pkt 1–3 i 5 – co miesiąc, nie później niż w terminie dziesięciu dni od zakończenia miesiąca;
+” ;
+5)
+załącznik nr 1 otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
+6)
+w załączniku nr 3 do rozporządzenia:
+a)
+tabela nr 13 otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia,
+b)
+tabela nr 14 otrzymuje brzmienie określone w załączniku nr 3 do niniejszego rozporządzenia,
+c)
+tabela nr 16 otrzymuje brzmienie określone w załączniku nr 4 do niniejszego rozporządzenia;
+7)
+w załączniku nr 9 część VI otrzymuje brzmienie:
+„
+VI.
+Świadczenia gwarantowane z zakresu leczenia szpitalnego oraz świadczeń wysokospecjalistycznych:
+1)
+wideotorakoskopowa ablacja w ciężkim, niepoddającym się leczeniu farmakologicznemu migotaniu przedsionków;
+2)
+operacje wad wrodzonych serca i wielkich naczyń u dzieci do ukończenia 1 roku życia, z wyłączeniem operacji izolowanego przewodu tętniczego Botalla;
+3)
+operacja wad serca i aorty piersiowej w krążeniu pozaustrojowym;
+4)
+przezskórne lub z innego dostępu wszczepianie zastawek serca;
+5)
+kardiologiczne zabiegi interwencyjne u dzieci do lat 18, w tym przezskórne zamykanie przecieków z użyciem zestawów zamykających;
+6)
+mechaniczne wspomaganie serca sztucznymi komorami;
+7)
+przezcewnikowa nieoperacyjna naprawa zastawki mitralnej u chorych wysokiego ryzyka.
+” .
+§ 2.
+Dane, o których mowa w § 8 ust. 4 pkt 5 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, są przekazywane po raz pierwszy za marzec 2020 r.
+§ 3.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.
+1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473.
+
+## Załącznik nr 1 — – Tekst załącznika
+
+Kody jednostek statystycznych świadczeń Lp. Jednostka statystyczna Objaśnienie Nazwa Kod 1 Pobyt w oddziale szpitalnym 1 Świadczenie udzielone w oddziale szpitalnym na rzecz pacjenta formalnie przyjętego do podmiotu leczniczego, z wyjątkiem świadczeń uznanych za leczenie jednego dnia. 2 Leczenie jednego dnia 2 Świadczenie udzielone w oddziale szpitalnym przez świadczeniodawcę na rzecz pacjenta przyjętego z intencją wypisania go w ciągu 24 godzin. W przypadku gdy leczenie trwa dłużej niż 24 godziny, świadczenie jest kwalifikowane jako pobyt w oddziale szpitalnym. 3 Pobyt 3 Świadczenie w zakładzie opiekuńczo-leczniczym, zakładzie pielęgnacyjno-opiekuńczym, sanatorium, prewentorium, hostelu lub innym niewymienionym z nazwy podmiocie leczniczym przeznaczonym dla osób, których stan zdrowia wymaga udzielania całodobowych świadczeń zdrowotnych w odpowiednim stałym pomieszczeniu, trwające co najmniej jedną noc. 4 Porada 4 Świadczenie udzielone w warunkach ambulatoryjnych, w tym w warunkach domowych, przez lekarza, lekarza dentystę lub psychologa. 5 Porada patronażowa 5 Pierwsza porada lekarza wykonywana w okresie 1–4 tygodnia życia dziecka, w celu określenia stanu zdrowia noworodka oraz edukacji rodziców w zakresie jego pielęgnacji i żywienia, wykonywana w warunkach domowych albo ambulatoryjnych. 6 Wizyta 6 Świadczenie udzielone w warunkach ambulatoryjnych, w tym w warunkach domowych, przez osobę wykonującą inny zawód medyczny niż lekarz, lekarz dentysta, psycholog. 7 Wizyta patronażowa 7 Wizyta położnej lub pielęgniarki mająca na celu monitorowanie stanu zdrowia położnicy i noworodka/niemowlęcia oraz edukację rodziców w zakresie jego pielęgnacji i żywienia, wykonywana w warunkach domowych. 8 Cykl leczenia 8 Świadczenie udzielone w warunkach ambulatoryjnych, w tym w warunkach domowych, z intencją wykonania określonego zestawu procedur medycznych w określonym czasie. 9 Badanie 9 Badanie laboratoryjne oraz badanie diagnostyczne obrazowe i nieobrazowe. 10 Sesja 10 Oddziaływanie terapeutyczne zarówno indywidualne, jak i zbiorowe w zakresie zdrowia psychicznego i uzależnień. 11 Osoba leczona 11 Jednostka ta powinna być podawana tylko wtedy, gdy świadczeniu nie można przyporządkować żadnej innej jednostki statystycznej. 12 Wyjazd ratowniczy 12 Medyczne czynności ratunkowe udzielone przez zespół ratownictwa medycznego, inne niż przyporządkowane do jednostki statystycznej o kodzie 13. 13 Akcja ratownicza 13 Medyczne czynności ratunkowe wykonywane przez wodne pogotowie ratunkowe albo ratownictwo górskie. 14 Transport sanitarny 14 Transportowanie pacjenta do i od świadczeniodawcy niepołączone lub połączone z udzielaniem świadczenia w trakcie przewozu (w tym neonatologiczny zespół wyjazdowy N oraz zespół transportu medycznego). 15 Transport lotniczy 15 Transportowanie pacjenta do i od świadczeniodawcy niepołączone lub połączone z udzielaniem świadczenia w trakcie przelotu. 16 Hemodializa 16 Jednostka stosowana w przypadku hemodializy, hemofiltracji lub hemodiafiltracji w ramach planowego leczenia nerkozastępczego. 17 Bilans zdrowia 17 Profilaktyczne badania lekarskie dzieci i młodzieży prowadzone w określonych grupach wieku, które zostały wybrane ze względu na specyfikę rozwoju lub etap edukacji. Badania te służą identyfikacji problemów zdrowotnych dziecka w celu wczesnego wykrycia: – zaburzeń w stanie jego zdrowia oraz rozwoju i zaplanowania leczenia, – problemów społecznych dziecka i jego rodziny oraz zaplanowania niezbędnych działań diagnostycznych lub leczniczych. 18 Wyrób medyczny 18 Wyroby medyczne znajdujące się w wykazie określonym w przepisach wydanych na podstawie art. 38 ust. 4 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2019 r. poz. 784, z późn. zm.). 19 Szczepienie 19 Szczepienia finansowane ze środków publicznych (dotyczy szczepień zawartych w Programie Szczepień Ochronnych, o którym mowa w przepisach o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi). 20 Badanie (test) przesiewowe 20 Badanie lekarskie lub pielęgniarskie lub położnej mające na celu: identyfikację grup ryzyka, wczesne wykrycie objawów chorobowych, podjęcie w porę odpowiedniego postępowania kompensacyjnego lub leczniczego, aby zahamować rozwój choroby lub zmniejszyć negatywne jej skutki. 21 Świadczenie profilaktyczne 21 Obejmuje pozostałe badania profilaktyczne, nieprzyporządkowane jednostkom statystycznym o kodzie 5, 7, 17, 19 i 20. 22 Osoba objęta opieką koordynowaną 22 Dotyczy pacjentów objętych wyodrębnioną formą koordynowanej opieki zdrowotnej.
+
+## Załącznik nr 2 — – Tekst załącznika
+
+Tabela nr 13. Kod tytułu uprawnienia dodatkowego Podstawa prawna dodatkowego uprawnienia Rodzaj i zakres uprawnienia Kategoria Kod 1 2 3 4 I. Prawo do świadczeń opieki zdrowotnej niezakwalifikowanych jako świadczenia gwarantowane art. 42 ust. 1 ustawy świadczenia opieki zdrowotnej, niezakwalifikowane jako świadczenia gwarantowane oraz odpłatne świadczenia opieki zdrowotnej, w związku z urazami i chorobami nabytymi podczas wykonywania zadań poza granicami państwa uprawniony żołnierz lub pracownik, także po zwolnieniu ze służby lub ustaniu umowy o pracę 42MON art. 42 ust. 1a ustawy świadczenia opieki zdrowotnej, niezakwalifikowane jako świadczenia gwarantowane oraz odpłatne świadczenia opieki zdrowotnej, w związku z urazami i chorobami nabytymi podczas wykonywania zadań poza granicami państwa weteran poszkodowany żołnierz 42WŻ funkcjonariusz i zwolniony ze służby funkcjonariusz Policji, Straży Granicznej, Biura Ochrony Rządu, Służby Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu oraz strażak i zwolniony ze służby strażak Państwowej Straży Pożarnej 42WF świadczenia opieki zdrowotnej, niezakwalifikowane jako świadczenia gwarantowane oraz odpłatne świadczenia opieki zdrowotnej weteran poszkodowany, którego ustalony procentowy uszczerbek na zdrowiu wynosi co najmniej 30% żołnierz 42WŻ30 funkcjonariusz i zwolniony ze służby funkcjonariusz Policji, Straży Granicznej, Biura Ochrony Rządu, Służby Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu oraz strażak i zwolniony ze służby strażak Państwowej Straży Pożarnej 42WF30 art. 42 ust. 2 ustawy świadczenia opieki zdrowotnej, niezakwalifikowane jako świadczenia gwarantowane oraz odpłatne świadczenia opieki zdrowotnej, w związku z urazami i chorobami nabytymi podczas wykonywania zadań poza granicami państwa funkcjonariusz Policji, Straży Granicznej, Biura Ochrony Rządu, Służby Ochrony Państwa, strażak Państwowej Straży Pożarnej, a także pracownik tych służb, po zwolnieniu ze służby lub ustaniu umowy o pracę, zwolniony ze służby funkcjonariusz Agencji Bezpieczeństwa Wewnętrznego, zwolniony ze służby funkcjonariusz Agencji Wywiadu 42MSW II. Prawo do wyrobów medycznych art. 47 ust. 1 ustawy bezpłatne wyroby medyczne inwalida wojenny 47IB inwalida wojskowy 47IW cywilna niewidoma ofiara działań wojennych 47CN osoba represjonowana 47OR art. 47 ust. 1a ustawy wyroby medyczne bez uwzględnienia okresów użytkowania, w liczbie wskazanej w zleceniu przez osobę uprawnioną do jego wystawienia świadczeniobiorca do 18. roku życia, u którego stwierdzono ciężkie i nieodwracalne upośledzenie albo nieuleczalną chorobę zagrażającą życiu, które powstały w prenatalnym okresie rozwoju dziecka lub w czasie porodu 47DN art. 47 ust. 1b ustawy wyroby medyczne bez uwzględnienia okresów użytkowania, w liczbie wskazanej w zleceniu przez osobę uprawnioną do jego wystawienia świadczeniobiorca posiadający orzeczenie o znacznym stopniu niepełnosprawności 47ZN świadczeniobiorca posiadający orzeczenie o niepełnosprawności łącznie ze wskazaniami: konieczności stałej lub długotrwałej opieki lub pomocy innej osoby w związku ze znacznie ograniczoną możliwością samodzielnej egzystencji oraz konieczności stałego współudziału na co dzień opiekuna dziecka w procesie jego leczenia, rehabilitacji i edukacji 47ZND art. 47 ust. 2 ustawy bezpłatne wyroby medyczne w zakresie leczenia urazów lub chorób nabytych podczas wykonywania zadań poza granicami państwa uprawniony żołnierz lub pracownik 47MON art. 47 ust. 2a ustawy bezpłatne wyroby medyczne w zakresie leczenia urazów lub chorób nabytych podczas wykonywania zadań poza granicami państwa weteran poszkodowany żołnierz 472AŻ funkcjonariusz i zwolniony ze służby funkcjonariusz Policji, Straży Granicznej, Biura Ochrony Rządu, Służby Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu oraz strażak i zwolniony ze służby strażak Państwowej Straży Pożarnej 472AF bezpłatne wyroby medyczne weteran poszkodowany, którego ustalony procentowy uszczerbek na zdrowiu wynosi co najmniej 30% żołnierz 472AŻ30 funkcjonariusz i zwolniony ze służby funkcjonariusz Policji, Straży Granicznej, Biura Ochrony Rządu, Służby Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu oraz strażak i zwolniony ze służby strażak Państwowej Straży Pożarnej 472AF30 III. Prawo do korzystania poza kolejnością ze świadczeń opieki zdrowotnej art. 24a ustawy prawo do korzystania poza kolejnością ze świadczeń opieki zdrowotnej, o których mowa w art. 20 ustawy, w zakresie leczenia urazów i chorób nabytych podczas wykonywania zadań poza granicami państwa uprawniony żołnierz lub pracownik 24A art. 24b ustawy prawo do korzystania poza kolejnością ze świadczeń opieki zdrowotnej, o których mowa w art. 20 ustawy, w zakresie leczenia urazów i chorób nabytych podczas wykonywania zadań poza granicami państwa weteran żołnierz 24BŻ poszkodowany funkcjonariusz i zwolniony ze służby funkcjonariusz Policji, Straży Granicznej, Biura Ochrony Rządu, Służby Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu oraz strażak i zwolniony ze służby strażak Państwowej Straży Pożarnej 24BF art. 24c ustawy prawo do korzystania poza kolejnością ze stacjonarnych i całodobowych świadczeń opieki zdrowotnej innych niż te, o których mowa w art. 20 ustawy, w zakresie leczenia urazów i chorób nabytych podczas wykonywania zadań poza granicami państwa weteran poszkodowany żołnierz 24CŻ funkcjonariusz i zwolniony ze służby funkcjonariusz Policji, Straży Granicznej, Biura Ochrony Rządu, Służby Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu oraz strażak i zwolniony ze służby strażak Państwowej Straży Pożarnej 24CF art. 47c ustawy albo art. 23 ust. 1 ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2019 r. poz. 1405) prawo do korzystania poza kolejnością ze świadczeń opieki zdrowotnej świadczeniobiorca, który posiada tytuł „Zasłużonego Honorowego Dawcy Krwi”, „Dawcy Przeszczepu” lub „Zasłużonego Dawcy Przeszczepu” 47CZ inwalida wojenny 47CIB inwalida wojskowy kombatant 47CIW 47CK kobieta w ciąży 47CC świadczeniobiorca do 18. roku życia, u którego stwierdzono ciężkie i nieodwracalne upośledzenie albo nieuleczalną chorobę zagrażającą życiu, które powstały w prenatalnym okresie rozwoju dziecka lub w czasie porodu 47CDN świadczeniobiorca posiadający orzeczenie o znacznym stopniu niepełnosprawności 47CZN świadczeniobiorca posiadający orzeczenie o niepełnosprawności łącznie ze wskazaniami: konieczności stałej lub długotrwałej opieki lub pomocy innej osoby w związku ze znacznie ograniczoną możliwością samodzielnej egzystencji oraz konieczności stałego współudziału na co dzień opiekuna dziecka w procesie jego leczenia, rehabilitacji i edukacji 47CZND działacz opozycji antykomunistycznej osoba represjonowana z powodów politycznych 47COA 47CRP osoba deportowana do pracy przymusowej 47CPP uprawnieni żołnierze lub pracownicy, których ustalony procentowy uszczerbek na zdrowiu wynosi co najmniej 30% 47C10 weterani poszkodowani, których ustalony procentowy uszczerbek na zdrowiu wynosi co najmniej 30%. 47C11 IV. Prawo do ambulatoryjnych świadczeń specjalistycznych bez wymaganego skierowania art. 57 ust. 2 pkt 10 ustawy prawo do ambulatoryjnych świadczeń specjalistycznych bez wymaganego skierowania inwalida wojenny 57IB inwalida wojskowy 57IW kombatant 57K osoba represjonowana 57OR działacz opozycji antykomunistycznej 57OA osoba represjonowana z powodów politycznych 57RP osoba deportowana do pracy przymusowej 57PP żołnierz zastępczej służby wojskowej 57ZS art. 57 ust. 2 pkt 10a ustawy prawo do ambulatoryjnych świadczeń specjalistycznych bez wymaganego skierowania cywilna niewidoma ofiara działań wojennych 57CN art. 57 ust. 2 pkt 12 ustawy prawo do ambulatoryjnych świadczeń specjalistycznych bez wymaganego skierowania, w zakresie leczenia urazów lub chorób nabytych podczas wykonywania zadań poza granicami państwa uprawniony żołnierz lub pracownik 57MON prawo do ambulatoryjnych świadczeń specjalistycznych bez wymaganego skierowania uprawniony żołnierz lub pracownik, którego ustalony procentowy uszczerbek na zdrowiu wynosi co najmniej 30% 57MON30 art. 57 ust. 2 pkt 13 ustawy prawo do ambulatoryjnych świadczeń specjalistycznych bez wymaganego skierowania, w zakresie leczenia urazów lub chorób nabytych podczas wykonywania zadań poza granicami państwa weteran poszkodowany żołnierz 57Ż funkcjonariusz i zwolniony ze służby funkcjonariusz Policji, Straży Granicznej, Biura Ochrony Rządu, Służby Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu oraz strażak i zwolniony ze służby strażak Państwowej Straży Pożarnej 57F prawo do ambulatoryjnych świadczeń specjalistycznych bez wymaganego skierowania weteran poszkodowany, którego ustalony procentowy uszczerbek na zdrowiu wynosi co najmniej 30% żołnierz 57Ż30 funkcjonariusz i zwolniony ze służby funkcjonariusz Policji, Straży Granicznej, Biura Ochrony Rządu, Służby Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu oraz strażak i zwolniony ze służby strażak Państwowej Straży Pożarnej 57F30 art. 57 ust. 2 pkt 14 ustawy prawo do ambulatoryjnych świadczeń specjalistycznych bez wymaganego skierowania osoba posiadająca zaświadczenie, o którym mowa w art. 47 ust. 1a ustawy 57CP świadczeniobiorca posiadający orzeczenie o znacznym stopniu niepełnosprawności 57ZN świadczeniobiorca posiadający orzeczenie o niepełnosprawności łącznie ze wskazaniami: konieczności stałej lub długotrwałej opieki lub pomocy innej osoby w związku ze znacznie ograniczoną możliwością samodzielnej egzystencji oraz konieczności stałego współudziału na co dzień opiekuna dziecka w procesie jego leczenia, rehabilitacji i edukacji 57ZND art. 57 ust. 2 pkt 15 ustawy prawo do ambulatoryjnych świadczeń specjalistycznych psychologicznych, psychoterapeutycznych i środowiskowych bez wymaganego skierowania dzieci i młodzież 57M V. Pozostałe uprawnienia dla dzieci, młodzieży i kobiet w okresie ciąży i połogu oraz osób niepełnosprawnych art. 31 ust. 3 ustawy oraz dodatkowe świadczenia zdrowotne lekarza dentysty oraz dzieci i młodzież do ukończenia 18. roku życia 31D przepisy wydane na podstawie art. 31d ustawy określające świadczenia gwarantowane z zakresu leczenia stomatologicznego materiały stomatologiczne stosowane przy udzielaniu tych świadczeń, zakwalifikowane jako świadczenia gwarantowane kobieta w ciąży i w okresie połogu 31C dzieci i młodzież niepełnosprawna do ukończenia 16. roku życia oraz dzieci i młodzież niepełnosprawna w stopniu umiarkowanym i znacznym od ukończenia 16. do ukończenia 18. roku życia 31N osoba niepełnosprawna w stopniu umiarkowanym i znacznym, która ukończyła 18. rok życia 31N18 art. 3 ustawy z dnia 9 maja 2018 r. o szczególnych rozwiązaniach wspierających osoby o znacznym stopniu niepełnosprawności (Dz. U. poz. 932) w związku z art. 136 ust. 2 pkt 1a ustawy świadczenia z zakresu rehabilitacji leczniczej świadczeniobiorca posiadający orzeczenie o znacznym stopniu niepełnosprawności ZSN świadczeniobiorca posiadający orzeczenie o niepełnosprawności łącznie ze wskazaniami: konieczności stałej lub długotrwałej opieki lub pomocy innej osoby w związku ze znacznie ograniczoną możliwością samodzielnej egzystencji oraz konieczności stałego współudziału na co dzień opiekuna dziecka w procesie jego leczenia, rehabilitacji i edukacji ZSND art. 34 ust. 3 w związku z art. 35 ust. 4 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2019 r. poz. 1127, z późn. zm.) prawo do objęcia dodatkową opieką pielęgnacyjną przez przedstawiciela ustawowego lub opiekuna faktycznego przez jego pobyt w podmiocie leczniczym wykonującym działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne bez konieczności ponoszenia kosztów tego pobytu osoby małoletniej 34M osoby posiadającej orzeczenie o znacznym stopniu niepełnosprawności 34N VI. Prawo do diagnostyki onkologicznej lub leczenia onkologicznego na podstawie karty diagnostyki i leczenia onkologicznego art. 32a ustawy prawo do diagnostyki onkologicznej lub leczenia onkologicznego na podstawie karty diagnostyki i leczenia onkologicznego osoba, której wystawiono kartę diagnostyki i leczenia onkologicznego 32aDILO VII. Prawo do świadczeń opieki zdrowotnej, skierowanych do kobiet w ciąży powikłanej oraz dzieci, u których zdiagnozowano ciężkie i nieodwracalne upośledzenie albo nieuleczalną chorobę zagrażającą życiu, które powstały w prenatalnym okresie rozwoju lub w czasie porodu art. 7 ust. 1 ustawy z dnia 4 listopada 2016 r. o wsparciu kobiet w ciąży i rodzin „Za życiem” (Dz. U. z 2019 r. poz. 473, z późn. zm.) prawo do świadczeń opieki zdrowotnej, skierowanych do kobiet w ciąży powikłanej oraz dzieci, u których zdiagnozowano ciężkie i nieodwracalne upośledzenie albo nieuleczalną chorobę zagrażającą życiu, które powstały w prenatalnym okresie rozwoju lub w czasie porodu kobieta w ciąży powikłanej ZZC dziecko, u którego zdiagnozowano ciężkie i nieodwracalne upośledzenie albo nieuleczalną chorobę zagrażającą życiu, które powstały w prenatalnym okresie rozwoju lub w czasie porodu ZZDN
+
+## Załącznik nr 3 — – Tekst załącznika
+
+Tabela nr 14. Kod przyczyny zmiany terminu w harmonogramie przyjęć Lp. Przyczyna Kod Przyczyny mające zastosowanie przy zmianie terminu w harmonogramie przyjęć, w tym na liście oczekujących 1 Termin wpisany przez pomyłkę 1 2 Termin przypada na dzień wolny od pracy 2 3 Względy medyczne – przyśpieszenie terminu 3 4 Względy medyczne – czasowe odroczenie terminu 4 5 Na wniosek osoby wpisanej w harmonogram przyjęć 5 6 Z przyczyn leżących po stronie świadczeniodawcy 7 7 Brak kompletu badań 8 8 Inna przyczyna 10 9 Aktualizacja terminu w wyniku rezygnacji innych pacjentów 11 10 Nieobecność lekarza 13 11 Osoba wpisana do harmonogramu przyjęć nie kwalifikowała się do leczenia ze względów medycznych w terminie pierwotnie wyznaczonym 14 12 Zmiana kategorii, o której mowa w art. 19a ust. 4 pkt 3 ustawy 16 Przyczyny mające zastosowanie wyłącznie przy zmianie terminu na liście oczekujących 13 Przesunięcie wszystkich osób na liście oczekujących (grupowe) 6 14 Aktualizacja terminu wyznaczonego pierwotnie z dokładnością do tygodnia 9 15 Nieprawidłowa kategoria medyczna podana podczas rejestracji 12 16 Osoba skorzystała z możliwości, o której mowa w art. 20 ust. 9a ustawy 15
+
+## Załącznik nr 4 — – Tekst załącznika
+
+Tabela nr 16. Kod przyczyny skreślenia z harmonogramu przyjęć Lp. Wyszczególnienie Kod Przyczyny mające zastosowanie przy skreślaniu z harmonogramu przyjęć, w tym z listy oczekujących 1 Wykonanie świadczenia przez danego świadczeniodawcę 1 2 Powiadomienie o rezygnacji przez osobę wpisaną w harmonogramie przyjęć 2 3 Zaprzestanie wykonywania świadczenia danego rodzaju przez danego świadczeniodawcę 3 4 Zgon osoby wpisanej w harmonogramie przyjęć 6 5 Niezgłoszenie się przez osobę wpisaną w harmonogramie przyjęć w ustalonym terminie udzielenia świadczenia 8 6 Osoba wpisana w harmonogramie przyjęć została omyłkowo wpisana 11 7 Osoba wpisana w harmonogramie przyjęć nie kwalifikuje się do leczenia ze względów medycznych 12 8 Inna przyczyna 9 Przyczyny mające zastosowanie wyłącznie przy skreślaniu z listy oczekujących 9 Przeniesienie osoby wpisanej na listę oczekujących na inną listę oczekujących u danego świadczeniodawcy 5 10 Informacja potwierdzona przez Narodowy Fundusz Zdrowia, że osoba znajduje się na liście oczekujących na to samo świadczenie u innego świadczeniodawcy 7 11 Niedostarczenie oryginału skierowania w terminie 14 dni od dnia wpisania na listę oczekujących 10 12 Osobie wpisanej na listę oczekujących zmieniono kategorię, o której mowa w art. 19a ust. 4 pkt 3 ustawy, na inną niż osoba oczekująca 13
+

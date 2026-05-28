@@ -8,12 +8,10 @@ pos: 2722
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# zmianie ustawy paszach oraz ustawy odpadach
-
-*USTAWA z dnia 1 grudnia 2022 r.*
+# Ustawa z dnia 1 grudnia 2022 r. o zmianie ustawy o paszach oraz ustawy o odpadach
 
 | Pole | Wartość |
 |---|---|
@@ -24,101 +22,182 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-01 |
 | Data wydania | 2022-12-22 |
+| Wejście w życie | 2023-01-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002722) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2722/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 22 lipca 2006 r. paszach (Dz. U. z 2021 r. poz. 278 oraz z 2022 r. poz. 1570) wprowadza następujące zmiany:
+**Art. 1.** W ustawie z dnia 22 lipca 2006 r. o paszach (Dz. U. z 2021 r. poz. 278 oraz z 2022 r. poz. 1570) wprowadza się następujące zmiany:
 
-**Art. 16b.**
+- **1)** w odnośniku nr 1 do ustawy: w ust. 1 w pkt 17 kropkę na końcu zastępuje się średnikiem i dodaje się pkt 18 w brzmieniu: „
+    - **a)**
+
+- **18)** rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/4 z dnia 11 grudnia 2018 r. w sprawie wytwarzania, wprowadzania na rynek i stosowania paszy leczniczej, zmieniającego rozporządzenie (WE) nr 183/2005 Parlamentu Europejskiego i Rady oraz uchylającego dyrektywę Rady 90/167/EWG (Dz. Urz. UE L 4 z 07.01.2019, str. 1 oraz Dz. Urz. UE L 108 z 07.04.2022, str. 69). ” , w ust. 2 uchyla się pkt 2;
+    - **b)**
+
+- **2)** w art. 1: w pkt 1: – we wprowadzeniu do wyliczenia po wyrazach „żywieniu zwierząt,” dodaje się wyrazy „a także w zakresie wytwarzania, wprowadzania do obrotu i stosowania pasz leczniczych oraz urzędowej kontroli tych pasz,”, – w lit. e na końcu dodaje się przecinek i lit. f w brzmieniu: „ f) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/4 z dnia 11 grudnia 2018 r. w sprawie wytwarzania, wprowadzania na rynek i stosowania paszy leczniczej, zmieniającego rozporządzenie (WE) nr 183/2005 Parlamentu Europejskiego i Rady oraz uchylającego dyrektywę Rady 90/167/EWG (Dz. Urz. UE L 4 z 07.01.2019, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2019/4 ”” , uchyla się pkt 4;
+    - **a)**
+    - **b)**
+
+- **3)** w art. 3a w pkt 1 i 2 skreśla się wyrazy „art. 17,”;
+- **4)** w art. 4: pkt 9 otrzymuje brzmienie: „
+    - **a)**
+
+- **9)** pasza lecznicza – paszę leczniczą w rozumieniu art. 3 ust. 2 lit. a rozporządzenia 2019/4; ” , w pkt 22 kropkę na końcu zastępuje się średnikiem i dodaje się pkt 23 w brzmieniu: „
+    - **b)**
+
+- **23)** produkt pośredni – produkt pośredni w rozumieniu art. 3 ust. 2 lit. b rozporządzenia 2019/4. ” ;
+- **5)** w art. 10 w ust. 2 w pkt 2 lit. b otrzymuje brzmienie: „ lokalizacji zakładu, w którym ma być wykonywana działalność, a w przypadku mobilnej wytwórni pasz – marki, modelu oraz numeru rejestracyjnego pojazdu służącego do wytwarzania pasz leczniczych lub numeru identyfikacyjnego (VIN), lub numeru seryjnego nadanego przez producenta tego pojazdu. ” ;
+    - **b)**
+
+- **6)** art. 16 otrzymuje brzmienie: „
+
+**Art. 16.**
+
+1. Wojewódzki lekarz weterynarii, jeżeli ustawa nie stanowi inaczej, jest właściwym organem w rozumieniu rozporządzenia 2019/4 oraz właściwym organem w rozumieniu rozporządzenia 2017/625 w zakresie dotyczącym urzędowych kontroli i innych czynności urzędowych w odniesieniu do pasz leczniczych.
+
+2. Wojewódzki lekarz weterynarii wydaje decyzje administracyjne w sprawie zatwierdzenia zakładów, o których mowa w art. 13 ust. 1 rozporządzenia 2019/4.
+
+3. Wniosek o zatwierdzenie zakładu, o którym mowa w art. 13 ust. 1 rozporządzenia 2019/4, składa się do wojewódzkiego lekarza weterynarii właściwego ze względu na miejsce położenia tego zakładu, a w przypadku podmiotów wytwarzających paszę w mobilnych wytwórniach pasz w rozumieniu art. 3 ust. 2 lit. f rozporządzenia 2019/4 – ze względu na siedzibę wnioskodawcy.
+
+4. Wniosek o zatwierdzenie zakładu, o którym mowa w art. 13 ust. 1 rozporządzenia 2019/4, składa się w terminie co najmniej 30 dni przed dniem rozpoczęcia planowanej działalności. Do wniosku o zatwierdzenie zakładu, o którym mowa w art. 13 ust. 1 rozporządzenia 2019/4, stosuje się przepisy art. 10 ust. 2 i 3.
+
+5. Wojewódzki lekarz weterynarii, wydając decyzję administracyjną o zatwierdzeniu zakładu, o którym mowa w art. 13 ust. 1 rozporządzenia 2019/4, nadaje temu zakładowi indywidualny numer identyfikacyjny, o którym mowa w art. 19 ust. 2 rozporządzenia nr 183/2005. ” ;
+
+- **7)** po art. 16 dodaje się art. 16a i art. 16b w brzmieniu: „ Powiatowy lekarz weterynarii jest właściwym organem do przyjmowania zawiadomień, o których mowa w art. 13 ust. 4 rozporządzenia 2019/4. Właściwość powiatowego lekarza weterynarii ustala się ze względu na miejsce, w którym pasza lecznicza jest wprowadzana do obrotu.
 
 1. Wojewódzki lekarz weterynarii prowadzi, na obszarze swojej właściwości:
 
-- **1)** rejestr, którym 9 rozporządzenia nr 183/2005, zakresie zakładów zatwierdzonych zgodnie z 13 1 rozporządzenia 2019/4;
-- **2)** wykaz zakładów zatwierdzonych zgodnie z 13 1 rozporządzenia 2019/4.
+- **1)** rejestr, o którym mowa w art. 9 rozporządzenia nr 183/2005, w zakresie zakładów zatwierdzonych zgodnie z art. 13 ust. 1 rozporządzenia 2019/4;
+- **2)** wykaz zakładów zatwierdzonych zgodnie z art. 13 ust. 1 rozporządzenia 2019/4.
 
-2. Wojewódzki lekarz weterynarii przekazuje Głównemu Lekarzowi Weterynarii informacje i dane zawarte wykazie zakładów zatwierdzonych zgodnie z 13 1 rozporządzenia 2019/4, tym informacje każdej zmianie stanu faktycznego lub prawnego ujawnionego tym wykazie.
+2. Wojewódzki lekarz weterynarii przekazuje Głównemu Lekarzowi Weterynarii informacje i dane zawarte w wykazie zakładów zatwierdzonych zgodnie z art. 13 ust. 1 rozporządzenia 2019/4, w tym informacje o każdej zmianie stanu faktycznego lub prawnego ujawnionego w tym wykazie.
 
-3. Główny Lekarz Weterynarii prowadzi krajowy wykaz zakładów, którym 19 2 rozporządzenia nr 183/2005, zakresie zakładów zatwierdzonych zgodnie z 13 1 rozporządzenia 2019/4, na podstawie informacji i danych, których 2.
+3. Główny Lekarz Weterynarii prowadzi krajowy wykaz zakładów, o którym mowa w art. 19 ust. 2 rozporządzenia nr 183/2005, w zakresie zakładów zatwierdzonych zgodnie z art. 13 ust. 1 rozporządzenia 2019/4, na podstawie informacji i danych, o których mowa w ust. 2.
 
-4. Główny Lekarz Weterynarii ogłasza zgodnie z 19 7 rozporządzenia nr 183/2005 wykaz, którym 3, na stronie internetowej administrowanej przez Główny Inspektorat Weterynarii.”;
+4. Główny Lekarz Weterynarii ogłasza zgodnie z art. 19 ust. 7 rozporządzenia nr 183/2005 wykaz, o którym mowa w ust. 3, na stronie internetowej administrowanej przez Główny Inspektorat Weterynarii. ” ;
 
-- **8)** uchyla 17–19;
-- **9)** 20 1 i 2 otrzymują brzmienie: „1. Warunkiem rozpoczęcia wykonywania działalności przez podmioty, których 13 2 lit. b i c oraz 5 rozporządzenia 2019/4, z wyłączeniem posiadaczy zwierząt futerkowych, jest uzyskanie wpisu na listę prowadzoną zgodnie z 19 1 rozporządzenia nr 183/2005 przez wojewódzkiego lekarza weterynarii właściwego ze względu na:
-- **1)** miejsce wykonywania działalności – przypadku podmiotów, których 13 2:
-    - **a)** lit. b rozporządzenia 2019/4,
-    - **b)** lit. c rozporządzenia 2019/4, które jedynie transportują pasze lecznicze lub produkty pośrednie wyłącznie zaplombowanych opakowaniach lub pojemnikach;
+- **8)** uchyla się art. 17–19;
+- **9)** w art. 20 ust. 1 i 2 otrzymują brzmienie: „
 
-- **2)** lokalizację miejsca, którym mają być przechowywane pasze lecznicze lub produkty pośrednie – przypadku podmiotów, których 13:
-    - **a)** 2 lit. c rozporządzenia 2019/4, z wyłączeniem podmiotów, których pkt 1 lit. b, dzenia 2019/4, z wyłączeniem posiadaczy zwierząt futerkowych;
+1. Warunkiem rozpoczęcia wykonywania działalności przez podmioty, o których mowa w art. 13 ust. 2 lit. b i c oraz ust. 5 rozporządzenia 2019/4, z wyłączeniem posiadaczy zwierząt futerkowych, jest uzyskanie wpisu na listę prowadzoną zgodnie z art. 19 ust. 1 rozporządzenia nr 183/2005 przez wojewódzkiego lekarza weterynarii właściwego ze względu na:
 
-- **2)** prowadzenia dokumentacji określonych sekcji 6 1 i 2 lit. e–i załącznika I do rozporządzenia 2019/4 – przypadku podmiotów, których 13 2 lit. b i c oraz 5 rozporządzenia 2019/4, z wyłączeniem posiadaczy zwierząt futerkowych.”;
-- **10)** 21 otrzymuje brzmienie: „Art. 21. 1. Wojewódzki lekarz weterynarii właściwy ze względu na miejsce wykonywania działalności albo ze względu na lokalizację miejsca, którym mają być przechowywane pasze lecznicze lub produkty pośrednie, wydaje decyzję administracyjną sprawie wpisu na listę, której 20 1.
+- **1)** miejsce wykonywania działalności – w przypadku podmiotów, o których mowa w art. 13 ust. 2: lit. b rozporządzenia 2019/4, lit. c rozporządzenia 2019/4, które jedynie transportują pasze lecznicze lub produkty pośrednie wyłącznie w zaplombowanych opakowaniach lub pojemnikach;
+    - **a)**
+    - **b)**
 
-2. Wojewódzki lekarz weterynarii, wydając decyzję administracyjną wpisie na listę, której 20 1, nadaje podmiotowi indywidualny numer identyfikacyjny, którym 19 2 rozporządzenia nr 183/2005.
+- **2)** lokalizację miejsca, w którym mają być przechowywane pasze lecznicze lub produkty pośrednie – w przypadku podmiotów, o których mowa w art. 13: ust. 2 lit. c rozporządzenia 2019/4, z wyłączeniem podmiotów, o których mowa w pkt 1 lit. b, ust. 5 rozporządzenia 2019/4.
+    - **a)**
+    - **b)**
 
-3. Wojewódzki lekarz weterynarii odmawia, drodze decyzji administracyjnej, wpisu na listę, której 20 1, jeżeli z wniosku, którym 20 2, wynika, że podmiot nie zapewni spełnienia wymogów, których 20 2.
+2. Wpisu na listę, o której mowa w ust. 1, dokonuje się na wniosek podmiotu, który zapewni spełnienie wymogów dotyczących:
 
-4. Wojewódzki lekarz weterynarii skreśla, drodze decyzji administracyjnej, podmiot z listy, której 20 1, jeżeli wyniku kontroli zostanie stwierdzone, że podmiot ten nie spełnia wymogów, których 20 2.
+- **1)** przechowywania lub transportu pasz leczniczych lub produktów pośrednich określonych w sekcji 5 załącznika I do rozporządzenia 2019/4 – w przypadku podmiotów, o których mowa w art. 13 ust. 2 lit. c oraz ust. 5 rozporządzenia 2019/4, z wyłączeniem posiadaczy zwierząt futerkowych;
+- **2)** prowadzenia dokumentacji określonych w sekcji 6 ust. 1 i ust. 2 lit. e-i załącznika I do rozporządzenia 2019/4 – w przypadku podmiotów, o których mowa w art. 13 ust. 2 lit. b i c oraz ust. 5 rozporządzenia 2019/4, z wyłączeniem posiadaczy zwierząt futerkowych. ” ;
+- **10)** art. 21 otrzymuje brzmienie: „
 
-5. Lista, której 20 1, zawiera indywidualny numer identyfikacyjny, którym 19 2 rozporządzenia nr 183/2005, oraz dane, których 10 2 pkt 1.
+**Art. 21.**
 
-6. Podmioty, których 13 2 lit. b i c oraz 5 rozporządzenia 2019/4, z wyłączeniem posiadaczy zwierząt futerkowych, powiadamiają właściwego wojewódzkiego lekarza weterynarii wszelkich zmianach zakresie ich działalności, a także każdym przypadku zamknięcia zakładu.
+1. Wojewódzki lekarz weterynarii właściwy ze względu na miejsce wykonywania działalności albo ze względu na lokalizację miejsca, w którym mają być przechowywane pasze lecznicze lub produkty pośrednie, wydaje decyzję administracyjną w sprawie wpisu na listę, o której mowa w art. 20 ust. 1.
 
-7. Wojewódzki lekarz weterynarii przekazuje Głównemu Lekarzowi Weterynarii informacje i dane zawarte na liście, której 20 1, tym informacje każdej zmianie stanu faktycznego lub prawnego ujawnionego na tej liście.
+2. Wojewódzki lekarz weterynarii, wydając decyzję administracyjną o wpisie na listę, o której mowa w art. 20 ust. 1, nadaje podmiotowi indywidualny numer identyfikacyjny, o którym mowa w art. 19 ust. 2 rozporządzenia nr 183/2005.
 
-8. Główny Lekarz Weterynarii prowadzi zgodnie z 19 1 rozporządzenia nr 183/2005 krajową listę podmiotów, których 13 2 lit. b i c oraz 5 rozporządzenia 2019/4, z wyłączeniem posiadaczy zwierząt futerkowych, na podstawie informacji i danych, których 7.
+3. Wojewódzki lekarz weterynarii odmawia, w drodze decyzji administracyjnej, wpisu na listę, o której mowa w art. 20 ust. 1, jeżeli z wniosku, o którym mowa w art. 20 ust. 2, wynika, że podmiot nie zapewni spełnienia wymogów, o których mowa w art. 20 ust. 2.
 
-9. Główny Lekarz Weterynarii ogłasza zgodnie z 19 7 rozporządzenia nr 183/2005 krajową listę, której 8, na stronie internetowej administrowanej przez Główny Inspektorat Weterynarii.”;
+4. Wojewódzki lekarz weterynarii skreśla, w drodze decyzji administracyjnej, podmiot z listy, o której mowa w art. 20 ust. 1, jeżeli w wyniku kontroli zostanie stwierdzone, że podmiot ten nie spełnia wymogów, o których mowa w art. 20 ust. 2.
 
-- **11)** po 21 dodaje 21a brzmieniu: „Art. 21a. Wojewódzki lekarz weterynarii przeprowadza urzędowe kontrole podmiotów, których 13 2:
-- **1)** lit. c oraz 5 rozporządzenia 2019/4, z wyłączeniem posiadaczy zwierząt futerkowych, zakresie spełnienia wymogów dotyczących:
-    - **a)** przechowywania lub transportu pasz leczniczych lub produktów pośrednich określonych sekcji 5 załącznika I do rozporządzenia 2019/4,
-    - **b)** prowadzenia dokumentacji określonych sekcji 6 1 i 2 lit. e–i załącznika I do rozporządzenia 2019/4;
+5. Lista, o której mowa w art. 20 ust. 1, zawiera indywidualny numer identyfikacyjny, o którym mowa w art. 19 ust. 2 rozporządzenia nr 183/2005, oraz dane, o których mowa w art. 10 ust. 2 pkt 1.
 
-- **2)** lit. b rozporządzenia 2019/4, zakresie spełnienia wymogów dotyczących prowadzenia dokumentacji określonych sekcji 6 1 i 2 lit. e–i załącznika I do rozporządzenia 2019/4.”;
-- **12)** uchyla 22;
-- **1)** 1 i 2 lit. c rozporządzenia 2019/4, są obowiązane przyjąć niezużyte lub przeterminowane pasze lecznicze od podmiotów, których 13 2 lit. a i 5 rozporządzenia 2019/4;
-- **2)** 5 rozporządzenia 2019/4, z wyłączeniem posiadaczy zwierząt futerkowych, są obowiązane przyjąć niezużyte lub przeterminowane pasze lecznicze od posiadaczy zwierząt domowych.
+6. Podmioty, o których mowa w art. 13 ust. 2 lit. b i c oraz ust. 5 rozporządzenia 2019/4, z wyłączeniem posiadaczy zwierząt futerkowych, powiadamiają właściwego wojewódzkiego lekarza weterynarii o wszelkich zmianach w zakresie ich działalności, a także o każdym przypadku zamknięcia zakładu.
 
-4. Podmioty, których 13 1, 2 lit. c oraz 5 rozporządzenia 2019/4, z wyłączeniem posiadaczy zwierząt futerkowych, mogą przechowywać niezużyte lub przeterminowane pasze lecznicze lub produkty pośrednie nie dłużej niż 30 dni.
+7. Wojewódzki lekarz weterynarii przekazuje Głównemu Lekarzowi Weterynarii informacje i dane zawarte na liście, o której mowa w art. 20 ust. 1, w tym informacje o każdej zmianie stanu faktycznego lub prawnego ujawnionego na tej liście.
 
-5. Niezużyte lub przeterminowane pasze lecznicze oraz produkty pośrednie stanowią odpady weterynaryjne rozumieniu 3 pkt 11 ustawy z dnia 14 grudnia 2012 r. odpadach (Dz. U. z 2022 r. poz. 699, 1250, 1726, 2127 i 2722).
+8. Główny Lekarz Weterynarii prowadzi zgodnie z art. 19 ust. 1 rozporządzenia nr 183/2005 krajową listę podmiotów, o których mowa w art. 13 ust. 2 lit. b i c oraz ust. 5 rozporządzenia 2019/4, z wyłączeniem posiadaczy zwierząt futerkowych, na podstawie informacji i danych, o których mowa w ust. 7.
 
-6. Koszty gospodarowania odpadami weterynaryjnymi rozumieniu 3 pkt 11 ustawy z dnia 14 grudnia 2012 r. odpadach będącymi niezużytymi lub przeterminowanymi paszami leczniczymi oraz produktami pośrednimi są ponoszone przez:
+9. Główny Lekarz Weterynarii ogłasza zgodnie z art. 19 ust. 7 rozporządzenia nr 183/2005 krajową listę, o której mowa w ust. 8, na stronie internetowej administrowanej przez Główny Inspektorat Weterynarii. ” ;
 
-- **1)** podmioty, których 13 2 lit. a i 5 rozporządzenia 2019/4, które przekazały niezużyte lub przeterminowane pasze lecznicze zgodnie z 1;
-- **2)** posiadaczy zwierząt domowych, którzy przekazali niezużyte lub przeterminowane pasze lecznicze zgodnie z 2.
+- **11)** po art. 21 dodaje się art. 21a w brzmieniu: „ Wojewódzki lekarz weterynarii przeprowadza urzędowe kontrole podmiotów, o których mowa w art. 13 ust. 2:
+- **1)** lit. c oraz ust. 5 rozporządzenia 2019/4, z wyłączeniem posiadaczy zwierząt futerkowych, w zakresie spełnienia wymogów dotyczących: przechowywania lub transportu pasz leczniczych lub produktów pośrednich określonych w sekcji 5 załącznika I do rozporządzenia 2019/4, prowadzenia dokumentacji określonych w sekcji 6 ust. 1 i ust. 2 lit. e-i załącznika I do rozporządzenia 2019/4;
+    - **a)**
+    - **b)**
 
-7. Minister właściwy do spraw rolnictwa przeprowadza konsultacje, których 18 akapit drugi rozporządzenia 2019/4.
+- **2)** lit. b rozporządzenia 2019/4, w zakresie spełnienia wymogów dotyczących prowadzenia dokumentacji określonych w sekcji 6 ust. 1 i ust. 2 lit. e-i załącznika I do rozporządzenia 2019/4. ” ;
+- **12)** uchyla się art. 22;
+- **13)** po art. 22 dodaje się art. 22a w brzmieniu: „
+
+**Art. 22a.**
+
+1. Podmioty, o których mowa w art. 13 ust. 2 lit. a i ust. 5 rozporządzenia 2019/4, są obowiązane przekazać niezużyte lub przeterminowane pasze lecznicze podmiotom, o których mowa w art. 13 ust. 1 lub ust. 2 lit. c rozporządzenia 2019/4, od których została nabyta pasza lecznicza, a w przypadku braku takiej możliwości – innym podmiotom, o których mowa w art. 13 ust. 1 lub ust. 2 lit. c rozporządzenia 2019/4.
+
+2. Posiadacze zwierząt domowych są obowiązani przekazać niezużyte lub przeterminowane pasze lecznicze podmiotom, o których mowa w art. 13 ust. 5 rozporządzenia 2019/4, z wyłączeniem posiadaczy zwierząt futerkowych.
+
+3. Podmioty, o których mowa w art. 13:
+
+- **1)** ust. 1 i ust. 2 lit. c rozporządzenia 2019/4, są obowiązane przyjąć niezużyte lub przeterminowane pasze lecznicze od podmiotów, o których mowa w art. 13 ust. 2 lit. a i ust. 5 rozporządzenia 2019/4;
+- **2)** ust. 5 rozporządzenia 2019/4, z wyłączeniem posiadaczy zwierząt futerkowych, są obowiązane przyjąć niezużyte lub przeterminowane pasze lecznicze od posiadaczy zwierząt domowych.
+
+4. Podmioty, o których mowa w art. 13 ust. 1, ust. 2 lit. c oraz ust. 5 rozporządzenia 2019/4, z wyłączeniem posiadaczy zwierząt futerkowych, mogą przechowywać niezużyte lub przeterminowane pasze lecznicze lub produkty pośrednie nie dłużej niż 30 dni.
+
+5. Niezużyte lub przeterminowane pasze lecznicze oraz produkty pośrednie stanowią odpady weterynaryjne w rozumieniu art. 3 pkt 11 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2022 r. poz. 699, 1250, 1726, 2127 i 2722).
+
+6. Koszty gospodarowania odpadami weterynaryjnymi w rozumieniu art. 3 pkt 11 ustawy z dnia 14 grudnia 2012 r. o odpadach będącymi niezużytymi lub przeterminowanymi paszami leczniczymi oraz produktami pośrednimi są ponoszone przez:
+
+- **1)** podmioty, o których mowa w art. 13 ust. 2 lit. a i ust. 5 rozporządzenia 2019/4, które przekazały niezużyte lub przeterminowane pasze lecznicze zgodnie z ust. 1;
+- **2)** posiadaczy zwierząt domowych, którzy przekazali niezużyte lub przeterminowane pasze lecznicze zgodnie z ust. 2.
+
+7. Minister właściwy do spraw rolnictwa przeprowadza konsultacje, o których mowa w art. 18 akapit drugi rozporządzenia 2019/4.
 
 8. Główny Lekarz Weterynarii umieszcza, na stronie internetowej administrowanej przez Główny Inspektorat Weterynarii, listę podmiotów, którym można przekazać niezużyte lub przeterminowane pasze lecznicze oraz produkty pośrednie.
 
-9. Lista, której 8, zawiera indywidualny numer identyfikacyjny, którym 19 2 rozporządzenia nr 183/2005, oraz dane, których 10 2 pkt 1.”;
+9. Lista, o której mowa w ust. 8, zawiera indywidualny numer identyfikacyjny, o którym mowa w art. 19 ust. 2 rozporządzenia nr 183/2005, oraz dane, o których mowa w art. 10 ust. 2 pkt 1. ” ;
 
-- **14)** 53 1:
-    - **a)** pkt 18–21 otrzymują brzmienie: „18) będąc podmiotem, którym 13 1 rozporządzenia 2019/4, wytwarza, przechowuje, transportuje lub wprowadza do obrotu pasze lecznicze lub produkty pośrednie niezgodnie z wymogami określonymi 5, 6 1 i 7 1 i 4 rozporządzenia 2019/4 oraz załączniku I do rozporządzenia 2019/4,
+- **14)** w art. 53 w ust. 1: pkt 18–21 otrzymują brzmienie: „
+    - **a)**
 
-- **19)** będąc podmiotem, którym 13 2 lit. c rozporządzenia 2019/4, przechowuje lub transportuje pasze lecznicze lub produkty pośrednie niezgodnie z wymogami określonymi sekcji 5 załącznika I do rozporządzenia 2019/4, lub nie prowadzi dokumentacji zgodnie z wymogami określonymi sekcji 6 1 i 2 lit. e–i załącznika I do rozporządzenia 2019/4,
-- **20)** będąc podmiotem, którym 13 2 lit. b rozporządzenia 2019/4, nie prowadzi dokumentacji zgodnie z wymogami określonymi sekcji 6 1 i 2 lit. e–i załącznika I do rozporządzenia 2019/4,
-- **21)** nie znakuje wprowadzonych do obrotu materiałów paszowych lub mieszanek paszowych albo znakuje je niezgodnie z wymaganiami określonymi 15–21 rozporządzenia nr 767/2009,”,
-    - **b)** po pkt 21 dodaje pkt 21a brzmieniu: „21a) nie znakuje wprowadzanych do obrotu pasz leczniczych lub produktów pośrednich albo znakuje je niezgodnie z wymogami określonymi 9 rozporządzenia 2019/4,”,
-    - **c)** pkt 28 otrzymuje brzmienie
+- **18)** będąc podmiotem, o którym mowa w art. 13 ust. 1 rozporządzenia 2019/4, wytwarza, przechowuje, transportuje lub wprowadza do obrotu pasze lecznicze lub produkty pośrednie niezgodnie z wymogami określonymi w art. 5, art. 6 ust. 1 i art. 7 ust. 1 i 4 rozporządzenia 2019/4 oraz w załączniku I do rozporządzenia 2019/4,
+- **19)** będąc podmiotem, o którym mowa w art. 13 ust. 2 lit. c rozporządzenia 2019/4, przechowuje lub transportuje pasze lecznicze lub produkty pośrednie niezgodnie z wymogami określonymi w sekcji 5 załącznika I do rozporządzenia 2019/4, lub nie prowadzi dokumentacji zgodnie z wymogami określonymi w sekcji 6 ust. 1 i ust. 2 lit. e-i załącznika I do rozporządzenia 2019/4,
+- **20)** będąc podmiotem, o którym mowa w art. 13 ust. 2 lit. b rozporządzenia 2019/4, nie prowadzi dokumentacji zgodnie z wymogami określonymi w sekcji 6 ust. 1 i ust. 2 lit. e-i załącznika I do rozporządzenia 2019/4,
+- **21)** nie znakuje wprowadzonych do obrotu materiałów paszowych lub mieszanek paszowych albo znakuje je niezgodnie z wymaganiami określonymi w art. 15–21 rozporządzenia nr 767/2009, ” , po pkt 21 dodaje się pkt 21a w brzmieniu: „
+    - **b)**
 
-- **36)** będąc podmiotem, którym 13 1 i 2 lit. c rozporządzenia 2019/4, nie przyjmuje niezużytych lub przeterminowanych pasz leczniczych od podmiotów, których 13 2 lit. a i 5 rozporządzenia 2019/4,
-- **37)** będąc podmiotem, którym 13 5 rozporządzenia 2019/4, z wyłączeniem posiadaczy zwierząt futerkowych, nie przyjmuje niezużytych lub przeterminowanych pasz leczniczych od posiadaczy zwierząt domowych,
-- **38)** reklamuje paszę leczniczą lub produkty pośrednie lub dystrybuuje paszę leczniczą celach promocyjnych z naruszeniem 11 rozporządzenia 2019/4”;
-- **15)** 65 wyrazy „1 stycznia 2023 r.” zastępuje wyrazami „1 stycznia 2025 r.”.
+- **21a)** nie znakuje wprowadzanych do obrotu pasz leczniczych lub produktów pośrednich albo znakuje je niezgodnie z wymogami określonymi w art. 9 rozporządzenia 2019/4, ” , pkt 28 otrzymuje brzmienie „
+    - **c)**
 
-**Art. 2.** W ustawie z dnia 14 grudnia 2012 r. odpadach (Dz. U. z 2022 r. poz. 699, 1250, 1726 i 2127) wprowadza następujące zmiany:
+- **28)** wprowadza do obrotu pasze niezgodnie z warunkami określonymi w art. 11, art. 13 lub art. 14 rozporządzenia nr 767/2009, ” , w pkt 32 na końcu dodaje się przecinek i pkt 33–38 w brzmieniu: „
+    - **d)**
 
-**Art. 3.** Do postępowań sprawie zatwierdzenia zakładu na podstawie 16 ustawy zmienianej 1, brzmieniu dotychczasowym, wszczętych i niezakończonych wydaniem ostatecznej decyzji administracyjnej sprawie zatwierdzenia zakładu przed dniem wejścia życie niniejszej ustawy, stosuje przepisy ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą.
+- **33)** nie składa powiatowemu lekarzowi weterynarii zawiadomienia, o którym mowa w art. 13 ust. 4 rozporządzenia 2019/4,
+- **34)** będąc podmiotem, o którym mowa w art. 13 ust. 2 lit. a lub ust. 5 rozporządzenia 2019/4, nie przekazuje niezużytych lub przeterminowanych pasz leczniczych zgodnie z art. 22a ust. 1,
+- **35)** będąc posiadaczem zwierząt domowych, nie przekazuje niezużytych lub przeterminowanych pasz leczniczych zgodnie z art. 22a ust. 2,
+- **36)** będąc podmiotem, o którym mowa w art. 13 ust. 1 i ust. 2 lit. c rozporządzenia 2019/4, nie przyjmuje niezużytych lub przeterminowanych pasz leczniczych od podmiotów, o których mowa w art. 13 ust. 2 lit. a i ust. 5 rozporządzenia 2019/4,
+- **37)** będąc podmiotem, o którym mowa w art. 13 ust. 5 rozporządzenia 2019/4, z wyłączeniem posiadaczy zwierząt futerkowych, nie przyjmuje niezużytych lub przeterminowanych pasz leczniczych od posiadaczy zwierząt domowych,
+- **38)** reklamuje paszę leczniczą lub produkty pośrednie lub dystrybuuje paszę leczniczą w celach promocyjnych z naruszeniem art. 11 rozporządzenia 2019/4 ” ;
+- **15)** w art. 65 wyrazy „1 stycznia 2023 r.” zastępuje się wyrazami „1 stycznia 2025 r.”.
+
+**Art. 2.** W ustawie z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2022 r. poz. 699, 1250, 1726 i 2127) wprowadza się następujące zmiany:
+
+- **1)** w art. 45: w ust. 1 w pkt 11 kropkę na końcu zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „
+    - **a)**
+
+- **12)** podmiot: zajmujący się wytwarzaniem, przechowywaniem, transportem lub wprowadzaniem na rynek pasz leczniczych lub produktów pośrednich, który jedynie transportuje lub przechowuje pasze lecznicze lub produkty pośrednie wyłącznie w zaplombowanych opakowaniach lub pojemnikach, prowadzący handel detaliczny paszami leczniczymi dla zwierząt domowych który zbiera niezużyte lub przeterminowane pasze lecznicze lub produkty pośrednie od podmiotów, które jedynie kupują, przechowują lub transportują pasze lecznicze do stosowania wyłącznie w swoim gospodarstwie, od posiadaczy zwierząt futerkowych oraz posiadaczy zwierząt domowych. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **b)**
+
+2a. Podmiot, o którym mowa w ust. 1 pkt 12, jest obowiązany posiadać umowę zawartą w formie pisemnej pod rygorem nieważności z posiadaczem odpadów posiadającym odpowiednio zezwolenie na zbieranie odpadów lub zezwolenie na przetwarzanie odpadów wymienionych w ust. 1 pkt 12. ” ;
+
+- **2)** w art. 66 w ust. 4 pkt 3 otrzymuje brzmienie: „
+- **3)** podmiotów, o których mowa w art. 45 ust. 1 pkt 1 i 12; ” .
+
+**Art. 3.** Do postępowań w sprawie zatwierdzenia zakładu na podstawie art. 16 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, wszczętych i niezakończonych wydaniem ostatecznej decyzji administracyjnej w sprawie zatwierdzenia zakładu przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 4.**
 
-1. Lista, której 20 1 pkt 2 ustawy zmienianej 1, brzmieniu dotychczasowym, staje listą rozumieniu 21 8 ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą.
+1. Lista, o której mowa w art. 20 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, staje się listą w rozumieniu art. 21 ust. 8 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-2. Do postępowań sprawach wpis na listę, której 20 1 pkt 2 ustawy zmienianej 1, brzmieniu dotychczasowym, i sprawach skreślenie z tej listy, wszczętych i niezakończonych wydaniem ostatecznej decyzji administracyjnej sprawie wpisu na tę listę i skreślenia z tej listy przed dniem wejścia życie niniejszej ustawy, stosuje przepisy ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą.
+2. Do postępowań w sprawach o wpis na listę, o której mowa w art. 20 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, i w sprawach o skreślenie z tej listy, wszczętych i niezakończonych wydaniem ostatecznej decyzji administracyjnej w sprawie wpisu na tę listę i skreślenia z tej listy przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-3. Wnioski wpis na listę, której 20 1 pkt 2 ustawy zmienianej 1, brzmieniu dotychczasowym, złożone do Głównego Lekarza Weterynarii przekazuje właściwemu wojewódzkiemu lekarzowi weterynarii terminie 14 dni od dnia wejścia życie niniejszej ustawy. Właściwość wojewódzkiego lekarza weterynarii ustala zgodnie
+3. Wnioski o wpis na listę, o której mowa w art. 20 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, złożone do Głównego Lekarza Weterynarii przekazuje się właściwemu wojewódzkiemu lekarzowi weterynarii w terminie 14 dni od dnia wejścia w życie niniejszej ustawy. Właściwość wojewódzkiego lekarza weterynarii ustala się zgodnie z art. 20 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 15, który wchodzi w życie z dniem 1 stycznia 2023 r.
 

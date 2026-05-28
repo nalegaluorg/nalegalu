@@ -8,10 +8,10 @@ pos: 1919
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 października 2017 r.
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 12 października 2017 r. w sprawie wyznaczenia organu do prowadzenia Rejestru Zastawów Skarbowych
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,15 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2017-10-12 |
 | Data wydania | 2017-10-16 |
+| Wejście w życie | 2017-10-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001919) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1919/text.pdf) |
 
-Poz. 1919 ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 12 października 2017 r.
-w sprawie wyznaczenia organu do prowadzenia Rejestru Zastawów Skarbowych Na podstawie art. 43 § 5 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, 648, 768, 935, 1428 i 1537) zarządza się, co następuje: § 1. Wyznacza się Naczelnika Trzeciego Urzędu Skarbowego w Szczecinie do prowadzenia Rejestru Zastawów Skarbowych.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rozwoju i Finansów: wz. W. Janczyk
+Treść rozporządzenia
+Na podstawie art. 43 § 5 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, 648, 768, 935, 1428 i 1537) zarządza się, co następuje:
+§ 1.
+Wyznacza się Naczelnika Trzeciego Urzędu Skarbowego w Szczecinie do prowadzenia Rejestru Zastawów Skarbowych.
+§ 2.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 

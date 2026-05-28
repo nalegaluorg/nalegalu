@@ -8,10 +8,10 @@ pos: 860
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 maja 2021 OBWIESZCZENIE MINISTRA FINANSÓW, FUNDUSZY I POLITYKI REGIONALNEJ dnia 26 kwietnia 2021 ogłoszenia jednolitego tekstu Finansów Służby Celno-Skarbowej wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową
+# Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 26 kwietnia 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie oddelegowania funkcjonariusza Służby Celno-Skarbowej do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową
 
 | Pole | Wartość |
 |---|---|
@@ -25,62 +25,159 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000860) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/860/text.pdf) |
 
-1. Na podstawie art. 16 ust. 3 ustawy dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych niektórych innych aktów prawnych 2019 1461) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst Finansów dnia 21 grudnia 2018 Służby Celno-Skarbowej wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową 2488), uwzględnieniem zmiany wprowadzonej rozporządzeniem dnia 17 grudnia 2020 zmieniającym rozporządzenie Służby Celno-Skarbowej wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową 2295).
-2. Podany załączniku niniejszego obwieszczenia tekst jednolity nie obejmuje 2 dnia 17 grudnia 2020 zmieniającego rozporządzenie Służby Celno-Skarbowej wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową 2295), który stanowi: „§ 2. Rozporządzenie wchodzi życie dniem 1 stycznia 2021 r.”.
-Minister Regionalnej: T. Kościński ROZPORZĄDZENIE MINISTRA FINANSÓW dnia 21 grudnia 2018 Służby Celno-Skarbowej wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową Na podstawie art. 163 ust. 2 ustawy dnia 16 listopada 2016 o Krajowej Administracji Skarbowej 2021 422, 464, 694, 802 815) zarządza się, co następuje:
-1. Rozporządzenie określa: podmioty uprawnione występowania wnioskiem o oddelegowanie Służby Celno-Skarbowej, zwanego dalej „funkcjonariuszem”, wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową, zwane dalej „podmiotami oddelegowania”;
-2) warunki tryb wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową, zwanego dalej „oddelegowaniem”;
-3) tryb postępowania przypadku zmiany warunków funkcjonariusza, tym zakresie ustalania wypłaty uposażenia oraz prawa urlopu;
-4) tryb odwołania oddelegowania.
-2. Podmiotem jest: urząd zapewniający obsługę organu administracji publicznej, reprezentowany przez:
-a) dyrektora generalnego urzędu,
-b) urzędu − urzędach, których nie tworzy się dyrektora generalnego;
-2) państwowa jednostka budżetowa podległa ministrowi właściwemu spraw budżetu, finansów publicznych instytucji finansowych lub przez niego nadzorowana, reprezentowana przez tej jednostki.
-3. 1. Podmiot występuje wnioskiem o oddelegowanie.
-2. Wniosek o oddelegowanie zawiera szczególności: nazwę podmiotu oddelegowania;
-2) proponowane funkcjonariuszowi stanowisko oraz wysokość uposażenia;
-3) kwalifikacje wymagane zajmowania proponowanego stanowiska;
-4) zakres wykonywanych zadań obowiązków proponowanym stanowisku;
-5) proponowany okres oddelegowania;
-6) uzasadnienie.
-3. Wniosek o oddelegowanie może zawierać imię nazwisko proponowanego oddelegowania.
-4. Kierownik może odmówić uwzględnienia wniosku o oddelegowanie, jeżeli jest to uzasadnione potrzebami Krajowej Administracji Skarbowej.
-oświadczenia formie pisemnej postaci papierowej albo elektronicznej.
-2. Funkcjonariusz jest obowiązany złożyć oświadczenie, o którym mowa ust. 1, terminie 14 dni od dnia zapoznania się treścią wniosku o oddelegowanie. Niezłożenie oświadczenia wyznaczonym terminie uznaje się za odmowę wyrażenia zgody oddelegowanie.
-6. 1. Kierownik zawiera podmiotem porozumienie oddelegowania, zwane dalej „porozumieniem”, które określa szczególności: datę zawarcia porozumienia;
-2) imię nazwisko wyznaczonego oddelegowania;
-3) nazwę podmiotu oddelegowania;
-4) miejsce oddelegowania;
-5) okres oddelegowania;
-6) stanowisko, które będzie zajmował funkcjonariusz wyznaczony oddelegowania;
-7) zakres zadań obowiązków wyznaczonego oddelegowania;
-8) zobowiązanie podmiotu wypłacania funkcjonariuszowi wyznaczonemu oddelegowania, okresie oddelegowania, uposażenia wysokości określonej we wniosku oraz innych świadczeń, o których mowa art. 163 ust. 1b ustawy dnia 16 listopada 2016 o Krajowej Administracji Skarbowej.
-2. Funkcjonariusza wyznaczonego zapoznaje się treścią porozumienia terminie 7 dni od dnia podpisania porozumienia.
-7. 1. Po zapoznaniu treścią porozumienia kierownik oddelegowuje funkcjonariusza wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową.
-2. Oddelegowanie następuje formie pisemnej postaci papierowej albo elektronicznej określa szczególności: odwołanie dotychczas zajmowanego służbowego;
-2) nazwę podmiotu oddelegowania;
-3) miejsce oddelegowania;
-4) okres oddelegowania;
-5) stanowisko, które funkcjonariusz zostaje oddelegowany;
-6) zakres zadań obowiązków oddelegowanego funkcjonariusza;
-7) wysokość uposażenia.
-8. 1. Oddelegowany funkcjonariusz wykonuje obowiązki korzysta uprawnień, jakie przysługują pracownikowi podmiotu albo funkcjonariuszowi podmiotu oddelegowania, zatrudnionemu albo pełniącemu służbę równorzędnym stanowisku.
-2. Do oddelegowanego stosuje się przepisy, które mają zastosowanie pracownika podmiotu oddelegowania albo podmiotu oddelegowania, zatrudnionego albo pełniącego służbę równorzędnym stanowisku, szczególności przepisy regulaminów pracy albo służby, przepisy dotyczące obowiązków pracodawcy pracownika podmiotu podmiotu oddelegowania, wyróżnień, odpowiedzialności materialnej funkcjonariuszy podmiotu albo pracowników podmiotu oddelegowania, czasu pracy albo służby, bezpieczeństwa higieny pracy albo służby, a także przyznawania nagród, wyłączeniem pozostałych przepisów wynagrodzeń albo uposażeń oraz innych świadczeń należności pieniężnych wynikających ze stosunku pracy albo stosunku służbowego.
-11. Do zmiany warunków oddelegowania, tym zmiany zakresie ustalania wypłaty uposażenia oraz przedłużenia okresu oddelegowania, przepisy 3–6 stosuje się odpowiednio.
-12. 1. Kierownik może odwołać oddelegowania: urzędu, przypadku:
-a) zwolnienia ze służby,
-b) gdy jest to uzasadnione potrzebami Krajowej Administracji Skarbowej;
-2) uzasadniony wniosek:
-a) podmiotu oddelegowania,
-b) oddelegowanego funkcjonariusza.
-2. Kierownik odwołuje przypadku wniosku podmiotu o zmianę warunków oddelegowania, jeżeli: odmówi uwzględnienia wniosku o zmianę warunków lub
-2) oddelegowany funkcjonariusz odmówi wyrażenia zgody zmianę warunków oddelegowania.
-3. Odwołanie następuje formie pisemnej postaci papierowej albo elektronicznej.
-4. Odwołanie następuje: nie później niż dniu zwolnienia ze służby określonym decyzji o zwolnieniu ze służby − przypadku, o którym mowa ust. 1 pkt 1 lit. a;
-2) nie wcześniej niż upływem 30 dni od dnia doręczenia oddelegowanemu funkcjonariuszowi odwołania przypadkach, o których mowa ust. 1 pkt 1 lit. b pkt 2 oraz ust. 2.
-5. Kierownik zawiadamia podmiot o odwołaniu oddelegowania nie później niż 7 dni przed dniem, którym następuje odwołanie oddelegowania.
-13. 1. Po upływie okresu, który nastąpiło oddelegowanie, funkcjonariusz jest obowiązany zgłosić się służby jednostce Krajowej Administracji Skarbowej, której pełnił służbę przed oddelegowaniem, pierwszym dniu roboczym następującym po upływie okresu albo pierwszym dniu roboczym następującym po dniu, którym nastąpiło odwołanie oddelegowania.
-2. W przypadku gdy odwołanie następuje dniu zwolnienia ze służby określonym decyzji o zwolnieniu ze służby, przepisu ust. 1 nie stosuje się.
-14. Porozumienia o oddelegowaniu zawarte przed dniem wejścia życie pozostają mocy.
-15. Rozporządzenie wchodzi życie dniem 2 stycznia 2019
+Treść obwieszczenia
+Załącznik – Rozporządzenie Ministra Finansów z dnia 21 grudnia 2018 r. w sprawie oddelegowania funkcjonariusza Służby Celno-Skarbowej do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 21 grudnia 2018 r. w sprawie oddelegowania funkcjonariusza Służby Celno-Skarbowej do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową (Dz. U. poz. 2488), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 17 grudnia 2020 r. zmieniającym rozporządzenie w sprawie oddelegowania funkcjonariusza Służby Celno-Skarbowej do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową (Dz. U. poz. 2295).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 17 grudnia 2020 r. zmieniającego rozporządzenie w sprawie oddelegowania funkcjonariusza Służby Celno-Skarbowej do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową (Dz. U. poz. 2295), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.
+” .
+1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
+Załącznik – Rozporządzenie Ministra Finansów z dnia 21 grudnia 2018 r. w sprawie oddelegowania funkcjonariusza Służby Celno-Skarbowej do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową
+Na podstawie art. 163 ust. 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2021 r. poz. 422, 464, 694, 802 i 815) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+podmioty uprawnione do występowania z wnioskiem o oddelegowanie funkcjonariusza Służby Celno-Skarbowej, zwanego dalej „funkcjonariuszem”, do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową, zwane dalej „podmiotami oddelegowania”;
+2)
+warunki i tryb oddelegowania do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową, zwanego dalej „oddelegowaniem”;
+3)
+tryb postępowania w przypadku zmiany warunków oddelegowania funkcjonariusza, w tym w zakresie ustalania i wypłaty uposażenia oraz prawa do urlopu;
+4)
+tryb odwołania funkcjonariusza z oddelegowania.
+§ 2.
+Podmiotem oddelegowania jest:
+1)
+urząd zapewniający obsługę organu administracji publicznej, reprezentowany przez:
+a)
+dyrektora generalnego urzędu,
+b)
+kierownika urzędu – w urzędach, w których nie tworzy się stanowiska dyrektora generalnego;
+2)
+państwowa jednostka budżetowa podległa ministrowi właściwemu do spraw budżetu, finansów publicznych i instytucji finansowych lub przez niego nadzorowana, reprezentowana przez kierownika tej jednostki.
+§ 3.
+1.
+Podmiot oddelegowania występuje do kierownika jednostki organizacyjnej z wnioskiem o oddelegowanie.
+2.
+Wniosek o oddelegowanie zawiera w szczególności:
+1)
+nazwę podmiotu oddelegowania;
+2)
+proponowane funkcjonariuszowi stanowisko oraz wysokość uposażenia;
+3)
+kwalifikacje wymagane do zajmowania proponowanego stanowiska;
+4)
+zakres wykonywanych zadań i obowiązków na proponowanym stanowisku;
+5)
+proponowany okres oddelegowania;
+6)
+uzasadnienie.
+3.
+Wniosek o oddelegowanie może zawierać imię i nazwisko funkcjonariusza proponowanego do oddelegowania.
+§ 4.
+Kierownik jednostki organizacyjnej może odmówić uwzględnienia wniosku o oddelegowanie, jeżeli jest to uzasadnione potrzebami Krajowej Administracji Skarbowej.
+§ 5.
+1.
+Funkcjonariusz wyznaczony do oddelegowania zostaje zapoznany przez kierownika jednostki organizacyjnej z treścią wniosku o oddelegowanie i wyraża zgodę bądź odmawia wyrażenia zgody na oddelegowanie przez złożenie oświadczenia w formie pisemnej w postaci papierowej albo elektronicznej.
+2.
+Funkcjonariusz jest obowiązany złożyć oświadczenie, o którym mowa w ust. 1, w terminie 14 dni od dnia zapoznania się z treścią wniosku o oddelegowanie. Niezłożenie oświadczenia w wyznaczonym terminie uznaje się za odmowę wyrażenia zgody na oddelegowanie.
+§ 6.
+1.
+Kierownik jednostki organizacyjnej zawiera z podmiotem oddelegowania porozumienie w sprawie oddelegowania, zwane dalej „porozumieniem”, które określa w szczególności:
+1)
+datę zawarcia porozumienia;
+2)
+imię i nazwisko funkcjonariusza wyznaczonego do oddelegowania;
+3)
+nazwę podmiotu oddelegowania;
+4)
+miejsce oddelegowania;
+5)
+okres oddelegowania;
+6)
+stanowisko, które będzie zajmował funkcjonariusz wyznaczony do oddelegowania;
+7)
+zakres zadań i obowiązków funkcjonariusza wyznaczonego do oddelegowania;
+8)
+zobowiązanie podmiotu oddelegowania do wypłacania funkcjonariuszowi wyznaczonemu do oddelegowania, w okresie oddelegowania, uposażenia w wysokości określonej we wniosku oraz innych świadczeń, o których mowa w art. 163 ust. 1b ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
+2.
+Funkcjonariusza wyznaczonego do oddelegowania zapoznaje się z treścią porozumienia w terminie 7 dni od dnia podpisania porozumienia.
+§ 7.
+1.
+Po zapoznaniu funkcjonariusza z treścią porozumienia kierownik jednostki organizacyjnej oddelegowuje funkcjonariusza do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową.
+2.
+Oddelegowanie następuje w formie pisemnej w postaci papierowej albo elektronicznej i określa w szczególności:
+1)
+odwołanie funkcjonariusza z dotychczas zajmowanego stanowiska służbowego;
+2)
+nazwę podmiotu oddelegowania;
+3)
+miejsce oddelegowania;
+4)
+okres oddelegowania;
+5)
+stanowisko, na które funkcjonariusz zostaje oddelegowany;
+6)
+zakres zadań i obowiązków oddelegowanego funkcjonariusza;
+7)
+wysokość uposażenia.
+§ 8.
+1.
+Oddelegowany funkcjonariusz wykonuje obowiązki i korzysta z uprawnień, jakie przysługują pracownikowi podmiotu oddelegowania albo funkcjonariuszowi podmiotu oddelegowania, zatrudnionemu albo pełniącemu służbę na równorzędnym stanowisku.
+2.
+Do oddelegowanego funkcjonariusza stosuje się przepisy, które mają zastosowanie do pracownika podmiotu oddelegowania albo funkcjonariusza podmiotu oddelegowania, zatrudnionego albo pełniącego służbę na równorzędnym stanowisku, w szczególności przepisy regulaminów pracy albo służby, przepisy dotyczące obowiązków pracodawcy i pracownika podmiotu oddelegowania i funkcjonariusza podmiotu oddelegowania, wyróżnień, odpowiedzialności materialnej funkcjonariuszy podmiotu oddelegowania albo pracowników podmiotu oddelegowania, czasu pracy albo służby, bezpieczeństwa i higieny pracy albo służby, a także przyznawania nagród, z wyłączeniem pozostałych przepisów w sprawie wynagrodzeń albo uposażeń oraz innych świadczeń i należności pieniężnych wynikających ze stosunku pracy albo stosunku służbowego.
+§ 9.
+1.
+Świadczenia i należności pieniężne niewymienione w art. 163 ust. 1b ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej przyznaje i wypłaca funkcjonariuszowi kierownik jednostki organizacyjnej, w której oddelegowany funkcjonariusz pełnił służbę przed oddelegowaniem.
+2.
+W przypadku gdy oddelegowanemu funkcjonariuszowi podmiot oddelegowania nie wypłacił dodatkowego wynagrodzenia rocznego lub nagrody rocznej albo wypłacił je w wysokości niższej od należnej, kierownik jednostki organizacyjnej, w której oddelegowany funkcjonariusz pełnił służbę przed oddelegowaniem, wypłaca funkcjonariuszowi wyrównanie.
+§ 10.
+Urlopu udziela podmiot oddelegowania, który informuje kierownika jednostki organizacyjnej o wymiarze urlopu udzielonego funkcjonariuszowi w okresie oddelegowania.
+§ 11.
+Do zmiany warunków oddelegowania, w tym zmiany w zakresie ustalania i wypłaty uposażenia oraz przedłużenia okresu oddelegowania, przepisy § 3–6 stosuje się odpowiednio.
+§ 12.
+1.
+Kierownik jednostki organizacyjnej może odwołać funkcjonariusza z oddelegowania:
+1)
+z urzędu, w przypadku:
+a)
+zwolnienia funkcjonariusza ze służby,
+b)
+gdy jest to uzasadnione potrzebami Krajowej Administracji Skarbowej;
+2)
+na uzasadniony wniosek:
+a)
+podmiotu oddelegowania,
+b)
+oddelegowanego funkcjonariusza.
+2.
+Kierownik jednostki organizacyjnej odwołuje funkcjonariusza z oddelegowania w przypadku wniosku podmiotu oddelegowania o zmianę warunków oddelegowania, jeżeli:
+1)
+odmówi uwzględnienia wniosku o zmianę warunków oddelegowania lub
+2)
+oddelegowany funkcjonariusz odmówi wyrażenia zgody na zmianę warunków oddelegowania.
+3.
+Odwołanie funkcjonariusza z oddelegowania następuje w formie pisemnej w postaci papierowej albo elektronicznej.
+4.
+Odwołanie funkcjonariusza z oddelegowania następuje:
+1)
+nie później niż w dniu zwolnienia ze służby określonym w decyzji o zwolnieniu ze służby – w przypadku, o którym mowa w ust. 1 pkt 1 lit. a;
+2)
+nie wcześniej niż z upływem 30 dni od dnia doręczenia oddelegowanemu funkcjonariuszowi odwołania – w przypadkach, o których mowa w ust. 1 pkt 1 lit. b i pkt 2 oraz ust. 2.
+5.
+Kierownik jednostki organizacyjnej zawiadamia podmiot oddelegowania o odwołaniu funkcjonariusza z oddelegowania nie później niż 7 dni przed dniem, w którym następuje odwołanie z oddelegowania.
+§ 13.
+1.
+Po upływie okresu, na który nastąpiło oddelegowanie, funkcjonariusz jest obowiązany zgłosić się do służby w jednostce organizacyjnej Krajowej Administracji Skarbowej, w której pełnił służbę przed oddelegowaniem, w pierwszym dniu roboczym następującym po upływie okresu oddelegowania albo w pierwszym dniu roboczym następującym po dniu, w którym nastąpiło odwołanie z oddelegowania.
+2.
+W przypadku gdy odwołanie funkcjonariusza z oddelegowania następuje w dniu zwolnienia funkcjonariusza ze służby określonym w decyzji o zwolnieniu ze służby, przepisu ust. 1 nie stosuje się.
+§ 14.
+Porozumienia o oddelegowaniu zawarte przed dniem wejścia w życie rozporządzenia pozostają w mocy.
+§ 15.
+Rozporządzenie wchodzi w życie z dniem 2 stycznia 2019 r.
+1) Obecnie działem administracji rządowej – finanse publiczne kieruje Minister Finansów, Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 17 grudnia 2020 r. zmieniającego rozporządzenie w sprawie oddelegowania funkcjonariusza Służby Celno-Skarbowej do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową (Dz. U. poz. 2295), które weszło w życie z dniem 1 stycznia 2021 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 27 lutego 2018 r. w sprawie oddelegowania funkcjonariusza Służby Celno-Skarbowej do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową (Dz. U. poz. 451), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 2354).
 

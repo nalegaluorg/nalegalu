@@ -8,12 +8,10 @@ pos: 13
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o stosunku Państwa do Kościoła Zielonoświątkowego w Rzeczypospolitej Polskiej
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 10 grudnia 2014 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 10 grudnia 2014 r. w sprawie ogłoszenia jednolitego tekstu ustawy o stosunku Państwa do Kościoła Zielonoświątkowego w Rzeczypospolitej Polskiej
 
 | Pole | Wartość |
 |---|---|
@@ -27,26 +25,60 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000013) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/13/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Zielonoświątkowego w Rzeczypospolitej Polskiej (Dz. U. Nr 41, poz. 254), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 6 lutego 1997 r. o powszechnym ubezpieczeniu zdrowotnym (Dz. U. Nr 28, poz. 153 oraz z 1998 r.
-Nr 117, poz. 756),
-2) ustawą z dnia 26 czerwca 1997 r. o zmianie ustawy o gwarancjach wolności sumienia i wyznania oraz o zmianie niektórych ustaw (Dz. U. z 1998 r. Nr 59, poz. 375),
-3) ustawą z dnia 24 lipca 1998 r. o zmianie niektórych ustaw określających kompetencje organów administracji publicznej w związku z reformą ustrojową państwa (Dz. U. Nr 106, poz. 668),
-4) ustawą z dnia 29 kwietnia 2010 r. o zmianie ustawy Prawo celne oraz niektórych innych ustaw (Dz. U. Nr 106, poz. 673),
-5) ustawą z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. Nr 112, poz. 654),
-6) ustawą z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych (Dz. U. poz. 498) oraz zmian wynikających z przepisów ogłoszonych przed dniem 8 grudnia 2014 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 172 ustawy z dnia 6 lutego 1997 r. o powszechnym ubezpieczeniu zdrowotnym (Dz. U. Nr 28, poz. 153 oraz z 1998 r. Nr 117, poz. 756), który stanowi: „Art. 172. Ustawa wchodzi w życie z dniem 1 stycznia 1999 r., z wyjątkiem art. 167 i 168, które wchodzą w życie z dniem ogłoszenia.”;
-2) art. 15 i art. 17 ustawy z dnia 26 czerwca 1997 r. o zmianie ustawy o gwarancjach wolności sumienia i wyznania oraz o zmianie niektórych ustaw (Dz. U. z 1998 r. Nr 59, poz. 375), które stanowią: „Art. 15. Pozostają w mocy wpisy do rejestru kościołów i innych związków wyznaniowych dokonane na podstawie przepisów dotychczasowych, w szczególności nie jest wymagane uzupełnienie listy osób zgłaszających.” „Art. 17. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-3) art. 150 ustawy z dnia 24 lipca 1998 r. o zmianie niektórych ustaw określających kompetencje organów administracji publicznej w związku z reformą ustrojową państwa (Dz. U. Nr 106, poz. 668), który stanowi: „Art. 150. Ustawa wchodzi w życie z dniem 1 stycznia 1999 r., z wyjątkiem art. 26, art. 128 pkt 2, art. 139 pkt 1 i 10, art. 145 ust. 2 i 4, art. 146 ust. 2 i 4 oraz art. 147 ust. 2 i 3, które wchodzą w życie z dniem ogłoszenia, i art. 34 pkt 1, art. 36 pkt 23, art. 48 pkt 1 i 3, art. 84, art. 97 pkt 1–3, 5–10 i 12–36 oraz art. 139 pkt 9 lit. a), które wchodzą w życie z dniem 1 stycznia 2000 r.”;
-4) art. 16 ustawy z dnia 29 kwietnia 2010 r. o zmianie ustawy Prawo celne oraz niektórych innych ustaw (Dz. U.
-Nr 106, poz. 673), który stanowi: „Art. 16. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-5) odnośnika nr 2 i art. 221 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. Nr 112, poz. 654), które stanowią: „ Przepisy niniejszej ustawy wdrażają postanowienia dyrektywy 2003/88/WE Parlamentu Europejskiego i Rady z dnia 4 listopada 2003 r. dotyczącej niektórych aspektów organizacji czasu pracy (Dz. Urz. UE L 299 z 18.11.2003; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 4, str. 381).” art. 106 ust. 2 zdanie trzecie, ust. 3 pkt 13, ust. 4 pkt 11 i ust. 5, art. 148 pkt 6 oraz art. 172 pkt 10, które wchodzą w życie z dniem 1 stycznia 2012 r.”;
-6) art. 40 i art. 43 ustawy z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych (Dz. U. poz. 498), które stanowią: „Art. 40. 1. Do postępowań w sprawie wydania pozwolenia na przeprowadzenie zbiórki publicznej wszczętych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
-2. Pozwolenia na przeprowadzenie zbiórki publicznej wydane przed dniem wejścia w życie niniejszej ustawy zachowują ważność przez okres, na jaki zostały udzielone, niezbędny do realizacji celu zbiórki i przedstawienia jej wyników.” „Art. 43. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.”.
-Marszałek Sejmu: R. Sikorski
-USTAWA z dnia 20 lutego 1997 r.
-o stosunku Państwa do Kościoła Zielonoświątkowego w Rzeczypospolitej Polskiej
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Zielonoświątkowego w Rzeczypospolitej Polskiej Rozdział 1 – Przepisy ogólne Rozdział 2 – Osoby prawne Kościoła i ich organy Rozdział 3 – Działalność Kościoła Rozdział 4 – Sprawy majątkowe Kościoła Rozdział 5 – Przepisy przejściowe i końcowe
+Załącznik – Wykaz osób prawnych Kościoła Zielonoświątkowego w Rzeczypospolitej Polskiej
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Zielonoświątkowego w Rzeczypospolitej Polskiej (Dz. U. Nr 41, poz. 254), z uwzględnieniem zmian wprowadzonych:
+1)
+ustawą z dnia 6 lutego 1997 r. o powszechnym ubezpieczeniu zdrowotnym (Dz. U. Nr 28, poz. 153 oraz z 1998 r. Nr 117, poz. 756),
+2)
+ustawą z dnia 26 czerwca 1997 r. o zmianie ustawy o gwarancjach wolności sumienia i wyznania oraz o zmianie niektórych ustaw (Dz. U. z 1998 r. Nr 59, poz. 375),
+3)
+ustawą z dnia 24 lipca 1998 r. o zmianie niektórych ustaw określających kompetencje organów administracji publicznej – w związku z reformą ustrojową państwa (Dz. U. Nr 106, poz. 668),
+4)
+ustawą z dnia 29 kwietnia 2010 r. o zmianie ustawy – Prawo celne oraz niektórych innych ustaw (Dz. U. Nr 106, poz. 673),
+5)
+ustawą z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. Nr 112, poz. 654),
+6)
+ustawą z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych (Dz. U. poz. 498)
+oraz zmian wynikających z przepisów ogłoszonych przed dniem 8 grudnia 2014 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+1)
+art. 172 ustawy z dnia 6 lutego 1997 r. o powszechnym ubezpieczeniu zdrowotnym (Dz. U. Nr 28, poz. 153 oraz z 1998 r. Nr 117, poz. 756), który stanowi:
+„
+
+**Art. 172.** Ustawa wchodzi w życie z dniem 1 stycznia 1999 r., z wyjątkiem art. 167 i 168, które wchodzą w życie z dniem ogłoszenia. ” ;
+
+- **2)** art. 15 i art. 17 ustawy z dnia 26 czerwca 1997 r. o zmianie ustawy o gwarancjach wolności sumienia i wyznania oraz o zmianie niektórych ustaw (Dz. U. z 1998 r. Nr 59, poz. 375), które stanowią: „
+
+**Art. 15.** Pozostają w mocy wpisy do rejestru kościołów i innych związków wyznaniowych dokonane na podstawie przepisów dotychczasowych, w szczególności nie jest wymagane uzupełnienie listy osób zgłaszających. ” „
+
+**Art. 17.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
+
+- **3)** art. 150 ustawy z dnia 24 lipca 1998 r. o zmianie niektórych ustaw określających kompetencje organów administracji publicznej – w związku z reformą ustrojową państwa (Dz. U. Nr 106, poz. 668), który stanowi: „
+
+**Art. 150.** Ustawa wchodzi w życie z dniem 1 stycznia 1999 r., z wyjątkiem art. 26, art. 128 pkt 2, art. 139 pkt 1 i 10, art. 145 ust. 2 i 4, art. 146 ust. 2 i 4 oraz art. 147 ust. 2 i 3, które wchodzą w życie z dniem ogłoszenia, i art. 34 pkt 1, art. 36 pkt 23, art. 48 pkt 1 i 3, art. 84, art. 97 pkt 1–3, 5–10 i 12–36 oraz art. 139 pkt 9 lit. a), które wchodzą w życie z dniem 1 stycznia 2000 r. ” ;
+
+- **4)** art. 16 ustawy z dnia 29 kwietnia 2010 r. o zmianie ustawy – Prawo celne oraz niektórych innych ustaw (Dz. U. Nr 106, poz. 673), który stanowi: „
+
+**Art. 16.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
+
+- **5)** odnośnika nr 2 i art. 221 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. Nr 112, poz. 654), które stanowią: „  Przepisy niniejszej ustawy wdrażają postanowienia dyrektywy 2003/88/WE Parlamentu Europejskiego i Rady z dnia 4 listopada 2003 r. dotyczącej niektórych aspektów organizacji czasu pracy (Dz. Urz. UE L 299 z 18.11.2003; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 4, str. 381). ” „
+
+**Art. 221.** Ustawa wchodzi w życie z dniem 1 lipca 2011 r., z wyjątkiem art. 17 ust. 2 i 3, art. 25, art. 88 ust. 3, art. 106 ust. 2 zdanie trzecie, ust. 3 pkt 13, ust. 4 pkt 11 i ust. 5, art. 148 pkt 6 oraz art. 172 pkt 10, które wchodzą w życie z dniem 1 stycznia 2012 r. ” ;
+
+- **6)** art. 40 i art. 43 ustawy z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych (Dz. U. poz. 498), które stanowią: „
+
+**Art. 40.**
+
+1. Do postępowań w sprawie wydania pozwolenia na przeprowadzenie zbiórki publicznej wszczętych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+
+2. Pozwolenia na przeprowadzenie zbiórki publicznej wydane przed dniem wejścia w życie niniejszej ustawy zachowują ważność przez okres, na jaki zostały udzielone, niezbędny do realizacji celu zbiórki i przedstawienia jej wyników. ” „
+
+**Art. 43.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Zielonoświątkowego w Rzeczypospolitej Polskiej
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -90,16 +122,16 @@ o stosunku Państwa do Kościoła Zielonoświątkowego w Rzeczypospolitej Polski
 
 3. Organami osób prawnych wymienionych w ust. 2 są:
 
-- **1)** dla Kościoła jako całości:
-    - **a)** Synod Kościoła,
-    - **b)** Naczelna Rada Kościoła,
-    - **c)** Prezydium Naczelnej Rady Kościoła,
-    - **d)** Prezbiter Naczelny;
+- **1)** dla Kościoła jako całości: Synod Kościoła, Naczelna Rada Kościoła, Prezydium Naczelnej Rady Kościoła, Prezbiter Naczelny;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
-- **2)** dla okręgu prezbiter okręgowy;
-- **3)** dla zboru pastor;
-- **4)** dla seminarium i szkoły teologicznej rektor;
-- **5)** dla osób prawnych wymienionych w ust. 2 pkt 5–9 dyrektor.
+- **2)** dla okręgu – prezbiter okręgowy;
+- **3)** dla zboru – pastor;
+- **4)** dla seminarium i szkoły teologicznej – rektor;
+- **5)** dla osób prawnych wymienionych w ust. 2 pkt 5–9 – dyrektor.
 
 4. W sprawach majątkowych Kościół jako całość reprezentuje Prezydium Naczelnej Rady Kościoła. Do składania oświadczeń woli są uprawnieni: Prezbiter Naczelny, jego zastępca lub członek Prezydium.
 
@@ -113,10 +145,10 @@ o stosunku Państwa do Kościoła Zielonoświątkowego w Rzeczypospolitej Polski
 
 2. Właściwym organem jest:
 
-- **1)** dla osób prawnych wymienionych w art. 4 ust. 2 pkt 2 i 4–9 Minister Spraw Wewnętrznych i Administracji ;
-- **2)** dla zborów wojewoda.
+- **1)** dla osób prawnych wymienionych w art. 4 ust. 2 pkt 2 i 4–9 – Minister Spraw Wewnętrznych i Administracji ;
+- **2)** dla zborów – wojewoda.
 
-3. Powiadomienie powinno zawierać nazwę kościelnej osoby prawnej, jej organów, siedzibę, a w odniesieniu do okręgów i zborów także ich zasięg terytorialny.
+3. Powiadomienie powinno zawierać nazwę kościelnej osoby prawnej, jej organów, siedzibę, a w odniesieniu do okręgów i zborów – także ich zasięg terytorialny.
 
 4. Właściwa władza kościelna powiadamia niezwłocznie organ wymieniony w ust. 2 o:
 
@@ -147,9 +179,7 @@ o stosunku Państwa do Kościoła Zielonoświątkowego w Rzeczypospolitej Polski
 
 4. Religijne uroczystości pogrzebowe i nabożeństwa za zmarłych mogą być sprawowane na cmentarzach komunalnych przy zachowaniu obowiązujących przepisów porządkowych.
 
-**Art. 11a.**
-
-- **3)** 1. Małżeństwo zawarte w formie przewidzianej Prawem Wewnętrznym Kościoła wywołuje skutki cywilne, jeżeli odpowiada wymaganiom określonym w Kodeksie rodzinnym i opiekuńczym.
+1. Małżeństwo zawarte w formie przewidzianej Prawem Wewnętrznym Kościoła wywołuje skutki cywilne, jeżeli odpowiada wymaganiom określonym w Kodeksie rodzinnym i opiekuńczym.
 
 2. Osobę duchowną, przed którą składa się oświadczenia o zawarciu małżeństwa, określa Prawo Wewnętrzne Kościoła.
 
@@ -177,15 +207,11 @@ o stosunku Państwa do Kościoła Zielonoświątkowego w Rzeczypospolitej Polski
 
 3. Uczącym się w szkołach wymienionych w ust. 1 i 2 przysługują świadczenia opieki zdrowotnej finansowane ze środków publicznych oraz ulgi w opłatach za przejazdy środkami publicznego transportu zbiorowego na równi z uczniami szkół publicznych.
 
-**Art. 15.**
-
 1. Kościół ma prawo do zakładania i prowadzenia seminariów teologicznych i instytutów misyjnych, w których kształci według własnego programu kandydatów na duchownych oraz osoby świeckie przygotowujące się do realizacji misji Kościoła.
 
 2. Warszawskie Seminarium Teologiczne jest wyższą szkołą teologiczną uprawnioną do nadawania absolwentom tytułu zawodowego licencjata teologii. Tytuł ten jest równoważny z tytułem zawodowym licencjata nadawanym przez państwowe szkoły wyższe.
 
-**Art. 16.**
-
-1. Kościół ma prawo do zakładania i prowadzenia szkół wyższych. Status prawny tych szkół, a także tryb i zakres uznawania przez Państwo stopni i tytułów nadawanych przez te szkoły regulują umowy między Ministrem Edukacji Narodowej a Naczelną Radą Kościoła.
+1. Kościół ma prawo do zakładania i prowadzenia szkół wyższych. Status prawny tych szkół, a także tryb i zakres uznawania przez Państwo stopni i tytułów nadawanych przez te szkoły regulują umowy między Ministrem Edukacji Narodowej  a Naczelną Radą Kościoła.
 
 2. Studentom szkół, o których mowa w ust. 1 oraz w art. 15 ust. 2, przysługują świadczenia publicznych zakładów opieki zdrowotnej oraz ulgi w opłatach za przejazdy środkami publicznego transportu zbiorowego na równi ze studentami państwowych szkół wyższych.
 
@@ -197,8 +223,6 @@ o stosunku Państwa do Kościoła Zielonoświątkowego w Rzeczypospolitej Polski
 
 4. Poręcza się Kościołowi prawo do kształcenia kadr duchownych w Chrześcijańskiej Akademii Teologicznej w Warszawie w zakresie teologii zielonoświątkowej.
 
-**Art. 17.**
-
 1. Studenci teologii otrzymują na czas studiów odroczenie odbywania zasadniczej służby wojskowej, w razie zaś ogłoszenia mobilizacji i w czasie wojny mogą być przeznaczeni, stosownie do potrzeb sił zbrojnych, do służby sanitarnej lub służby w obronie cywilnej.
 
 2. Nie powołuje się absolwentów studiów, o których mowa w ust. 1, do odbywania przeszkolenia wojskowego w okresie przygotowań do ordynacji w ciągu dwóch lat od zakończenia studiów.
@@ -209,7 +233,7 @@ o stosunku Państwa do Kościoła Zielonoświątkowego w Rzeczypospolitej Polski
 
 **Art. 18.**
 
-1. Żołnierzom pełniącym czynną służbę wojskową zapewnia się możliwość uczestniczenia poza terenem jednostek wojskowych w nabożeństwach i czynnościach religijnych w niedziele i w dni świąteczne Kościoła, jeżeli w miejscowości stacjonowania jednostki wojskowej lub w jej pobliżu znajduje się zbór i jeżeli nie koliduje to z ważnymi obowiązkami służbowymi.
+1. Żołnierzom pełniącym czynną służbę wojskową zapewnia się możliwość uczestniczenia – poza terenem jednostek wojskowych – w nabożeństwach i czynnościach religijnych w niedziele i w dni świąteczne Kościoła, jeżeli w miejscowości stacjonowania jednostki wojskowej lub w jej pobliżu znajduje się zbór i jeżeli nie koliduje to z ważnymi obowiązkami służbowymi.
 
 2. Opiekę duszpasterską na terenie jednostek wojskowych dla żołnierzy, o których mowa w ust. 1, zapewniają duchowni Kościoła w terminach uzgodnionych z dowódcami jednostek.
 
@@ -249,7 +273,7 @@ o stosunku Państwa do Kościoła Zielonoświątkowego w Rzeczypospolitej Polski
 
 3. Na wniosek kościelnej osoby prawnej miejscowe plany zagospodarowania przestrzennego obejmują także inwestycje sakralne i kościelne oraz zielonoświątkowe cmentarze wyznaniowe.
 
-**Art. 23.** Grunty stanowiące własność Skarbu Państwa lub własność jednostek samorządu terytorialnego , przeznaczone w miejscowych planach zagospodarowania przestrzennego na potrzeby Kościoła, na wniosek kościelnych osób prawnych mogą być im oddawane w wieczyste użytkowanie lub sprzedawane.
+**Art. 23.** Grunty stanowiące własność Skarbu Państwa lub własność jednostek samorządu terytorialnego, przeznaczone w miejscowych planach zagospodarowania przestrzennego na potrzeby Kościoła, na wniosek kościelnych osób prawnych mogą być im oddawane w wieczyste użytkowanie lub sprzedawane.
 
 **Art. 24.** Nie pobiera się opłat za użytkowanie wieczyste gruntów oddanych na potrzeby zakładów charytatywno-opiekuńczych i punktów katechetycznych.
 
@@ -273,7 +297,7 @@ o stosunku Państwa do Kościoła Zielonoświątkowego w Rzeczypospolitej Polski
 
 1. Majątek i przychody kościelnych osób prawnych podlegają ogólnym przepisom podatkowym, z wyjątkami określonymi w ust. 2–5.
 
-2. Kościelne osoby prawne są zwolnione od opodatkowania podatkiem od nieruchomości nieruchomości lub ich części przeznaczonych na cele niemieszkalne, z wyjątkiem części przeznaczonej na wykonywanie działalności gospodarczej.
+2. Kościelne osoby prawne są zwolnione od opodatkowania podatkiem od nieruchomości – nieruchomości lub ich części przeznaczonych na cele niemieszkalne, z wyjątkiem części przeznaczonej na wykonywanie działalności gospodarczej.
 
 3. Zwolnienie od opodatkowania podatkiem od nieruchomości obejmuje nieruchomości lub ich części przeznaczone na cele mieszkalne duchownych, jeżeli:
 
@@ -286,13 +310,11 @@ o stosunku Państwa do Kościoła Zielonoświątkowego w Rzeczypospolitej Polski
 - **1)** rzeczy i prawa nieprzeznaczone do działalności gospodarczej;
 - **2)** sprowadzane z zagranicy maszyny, urządzenia i materiały poligraficzne oraz papier.
 
-5. Darowizny na kościelną działalność charytatywno-opiekuńczą pochodzące od osób fizycznych są wyłączone z podstawy opodatkowania darczyńców podatkiem dochodowym, jeżeli kościelna osoba prawna przedstawi darczyńcy pokwitowanie odbioru oraz w okresie dwóch lat od dnia przekazania darowizny sprawozdanie o przeznaczeniu jej na tę działalność.
+5. Darowizny na kościelną działalność charytatywno-opiekuńczą pochodzące od osób fizycznych są wyłączone z podstawy opodatkowania darczyńców podatkiem dochodowym, jeżeli kościelna osoba prawna przedstawi darczyńcy pokwitowanie odbioru oraz – w okresie dwóch lat od dnia przekazania darowizny – sprawozdanie o przeznaczeniu jej na tę działalność.
 
 6. Nabywanie i zbywanie rzeczy oraz praw majątkowych, o których mowa w ust. 4, jest zwolnione od opłat sądowych, z wyłączeniem opłat kancelaryjnych.
 
-**Art. 30.**
-
-- **12)** Zwalnia się z należności celnych przywozowych towary przeznaczone na cele charytatywno-opiekuńcze i oświatowo-wychowawcze oraz towary o charakterze kulturalnym przeznaczone na cele kultu, przywożone dla Kościoła i jego osób prawnych, w granicach i na warunkach określonych w rozporządzeniu Rady (WE) nr 1186/2009 z dnia 16 listopada 2009 r. ustanawiającym wspólnotowy system zwolnień celnych (Dz. Urz. UE L 324 z 10.12.2009, str. 23).
+**Art. 30.** Zwalnia się z należności celnych przywozowych towary przeznaczone na cele charytatywno-opiekuńcze i oświatowo-wychowawcze oraz towary o charakterze kulturalnym przeznaczone na cele kultu, przywożone dla Kościoła i jego osób prawnych, w granicach i na warunkach określonych w rozporządzeniu Rady (WE) nr 1186/2009 z dnia 16 listopada 2009 r. ustanawiającym wspólnotowy system zwolnień celnych (Dz. Urz. UE L 324 z 10.12.2009, str. 23).
 
 **Art. 31.**
 
@@ -328,7 +350,7 @@ o stosunku Państwa do Kościoła Zielonoświątkowego w Rzeczypospolitej Polski
 
 **Art. 36.**
 
-1. Na wniosek kościelnych osób prawnych wojewoda lub inny organ wykonujący w imieniu Skarbu Państwa prawa wynikające z własności nieruchomości albo organy jednostek samorządu terytorialnego w zakresie swoich właściwości mogą nieodpłatnie przekazać Kościołowi lub jego osobom prawnym własność nieruchomości lub ich części:
+1. Na wniosek kościelnych osób prawnych wojewoda lub inny organ wykonujący w imieniu Skarbu Państwa prawa wynikające z własności nieruchomości albo organy jednostek samorządu terytorialnego w zakresie swoich właściwości – mogą nieodpłatnie przekazać Kościołowi lub jego osobom prawnym własność nieruchomości lub ich części:
 
 - **1)** jeżeli są one niezbędne do sprawowania kultu religijnego lub działalności kościelnych osób prawnych w zakresie charytatywno-opiekuńczym lub oświatowo-wychowawczym;
 - **2)** w celu utworzenia lub powiększenia gospodarstwa rolnego zborów działających na Ziemiach Zachodnich i Północnych o powierzchni do 15 ha użytków rolnych łącznie dla jednego zboru.
@@ -343,5 +365,14 @@ o stosunku Państwa do Kościoła Zielonoświątkowego w Rzeczypospolitej Polski
 
 2. Wykaz kościelnych osób prawnych istniejących w dniu wejścia w życie ustawy określa załącznik do ustawy.
 
-**Art. 38.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia . WYKAZ OSÓB PRAWNYCH KOŚCIOŁA ZIELONOŚWIĄTKOWEGO W RZECZYPOSPOLITEJ POLSKIEJ I. Okręgi i zbory
+**Art. 38.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+- **1)** Obecnie: minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych na podstawie art. 4 ust. 1, art. 5 pkt 25 i art. 30 pkt 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2013 r. poz. 743 i 984 oraz z 2014 r. poz. 496, 829, 915, 932 i 1533), która weszła w życie z dniem 1 kwietnia 1999 r. 2) W brzmieniu ustalonym przez art. 123 pkt 1 ustawy z dnia 24 lipca 1998 r. o zmianie niektórych ustaw określających kompetencje organów administracji publicznej – w związku z reformą ustrojową państwa (Dz. U. Nr 106, poz. 668), która weszła w życie z dniem 1 stycznia 1999 r. 3) Dodany przez art. 13 pkt 1 ustawy z dnia 26 czerwca 1997 r. o zmianie ustawy o gwarancjach wolności sumienia i wyznania oraz o zmianie niektórych ustaw (Dz. U. z 1998 r. Nr 59, poz. 375), która weszła w życie z dniem 30 maja 1998 r. 4) Przez art. 13 pkt 2 ustawy, o której mowa w odnośniku 3. 5) W brzmieniu ustalonym przez art. 151 pkt 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. Nr 112, poz. 654), która weszła w życie z dniem 1 lipca 2011 r. 6) Obecnie: minister właściwy do spraw szkolnictwa wyższego na podstawie art. 4 ust. 1 i art. 5 pkt 21 ustawy, o której mowa w odnośniku 1. 7) Utracił moc z dniem 1 stycznia 1999 r. na podstawie art. 170 pkt 39 ustawy z dnia 6 lutego 1997 r. o powszechnym ubezpieczeniu zdrowotnym (Dz. U. Nr 28, poz. 153 oraz z 1998 r. Nr 117, poz. 756) w zakresie uregulowanym niniejszą ustawą. 8) Obecnie: emerytury i renty z Funduszu Ubezpieczeń Społecznych na podstawie art. 192 i art. 195 pkt 5 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2013 r. poz. 1440, 1717 i 1734 oraz z 2014 r. poz. 496, 567, 683, 684 i 1682). 9) W brzmieniu ustalonym przez art. 151 pkt 2 lit. a ustawy, o której mowa w odnośniku 5. 10) W brzmieniu ustalonym przez art. 151 pkt 2 lit. b ustawy, o której mowa w odnośniku 5. 11) Ze zmianą wprowadzoną przez art. 123 pkt 2 ustawy, o której mowa w odnośniku 2. 12) W brzmieniu ustalonym przez art. 14 ustawy z dnia 29 kwietnia 2010 r. o zmianie ustawy – Prawo celne oraz niektórych innych ustaw (Dz. U. Nr 106, poz. 673), która weszła w życie z dniem 1 lipca 2010 r. 13) W brzmieniu ustalonym przez art. 35 ustawy z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych (Dz. U. poz. 498), która weszła w życie z dniem 18 lipca 2014 r. 14) Ustawa została ogłoszona w dniu 26 kwietnia 1997 r. Załącznik – Wykaz osób prawnych Kościoła Zielonoświątkowego w Rzeczypospolitej Polskiej I. Okręgi i zbory
+- **1)** Okręg Centralny Zbór „Betel” Aleksandrów Kujawski Zbór Konin Zbór Łódź Zbór „Immanuel” Łódź Zbór Pabianice Zbór Piotrków Trybunalski Zbór „Dobra Nowina” Pruszków Zbór „Zbór Romów” Warszawa Zbór Warszawa-Wola Zbór „Nowe Życie” Warszawa Zbór Stołeczny Warszawa Zbór „Jezus Nadchodzi” Warszawa Zbór „Maranatha” Włocławek
+- **2)** Okręg Południowy Zbór Będzin Zbór „Filadelfia” Bielsko-Biała Zbór Busko-Zdrój Zbór „Elim” Cieszyn Zbór „Hosanna” Częstochowa Zbór „Betel” Dębica Zbór „Arka” Gliwice Zbór „Syloe” Gorlice Zbór Hażlach Zbór „Oaza Miłości” Jastrzębie-Zdrój Zbór „Betel” Jaworzno Zbór „Betania” Katowice Zbór „Betlejem” Kraków Zbór „Zbór Boży” Kraków Zbór Kraków-Nowa Huta Zbór „Słowo Życia” Krzeszowice Zbór Nowy Sącz Zbór „Elim” Nowy Targ Zbór „Arka” Olkusz Zbór „Salem” Oświęcim Zbór „Betezda” Racibórz Zbór „Betel” Rybnik Zbór „Jeruzalem” Skarżysko-Kamienna Zbór „Syloe” Skawina Zbór „Betel” Starachowice Zbór Tarnowskie Góry Zbór Tarnów Zbór „Betel” Ustroń Zbór „Syloe” Wisła-Czarne Zbór Wisła-Głębce Zbór „Elim” Żory Zbór Żywiec
+- **3)** Okręg Zachodni Zbór „Dobra Nowina” Bolesławiec Zbór „Społeczność Zielonoświątkowa” Brzeg Zbór Bystrzyca Kłodzka Zbór Bytom Odrzański Zbór „Betezda” Dzierżoniów Zbór „Centrum Ewangelii” Głogów Zbór „Dobra Nowina” Głogów Zbór „Betel” Głubczyce Zbór Gryfów Śląski Zbór „Betlejem” Gubin Zbór Janowice Wielkie Zbór Jarocin Zbór Jawor Zbór Jelenia Góra Zbór Kalisz Zbór „Jeruzalem” Kamienna Góra Zbór Kędzierzyn-Koźle Zbór „Betlejem” Kietrz Zbór Kluczbork Zbór Kożuchów Zbór Krotoszyn Zbór „Anastasis” Legnica Zbór Leszno Zbór „Filadelfia” Lubań Śląski Zbór Lubin Zbór „Betania” Lwówek Śląski Zbór Łęknica Zbór Milicz Zbór „Kanaan” Namysłów Zbór Nowa Sól Zbór „Nowe Życie” Nowa Sól Zbór Nysa Zbór Oleśnica Zbór „Ostoja” Opole Zbór Ostrów Wielkopolski Zbór Poznań Zbór „Syloe” Prudnik Zbór Sobótka Zbór „Salem” Strzegom Zbór Sulechów Zbór Świdnica Zbór Świebodzin Zbór Wałbrzych Zbór Wierzbica Dolna Zbór „Na Miłej” Wrocław Zbór „Chrześcijańska Społeczność” Ząbkowice Śląskie Zbór „Nadzieja” Zdzieszowice Zbór „Emaus” Zielona Góra Zbór Żary
+- **4)** Okręg Pomorski Zbór „Genezaret” Barlinek Zbór Białogard Zbór Broczyna Zbór „Nowe Życie” Bytów Zbór Chodzież Zbór „Samaria” Człuchów Zbór Goleniów Zbór „Betezda” Gorzów Wielkopolski Zbór Gryfino Zbór „Nowe Życie” Kostrzyn Zbór „Betel” Koszalin Zbór Lębork Zbór Miastko Zbór „Betlejem” Piła Zbór Police Zbór „Syloe” Pyrzyce Zbór Słupsk Zbór Stargard Szczeciński Zbór „Betania” Szczecin Zbór „Betel” Szczecinek Zbór Świdwin Zbór Trzcianka Zbór Ustka
+- **5)** Okręg Północny Zbór „Słowo Życia” Biskupiec Zbór „Betel” Bydgoszcz Zbór „Nowe Życie” Elbląg Zbór Frombork Zbór Gdańsk Zbór „Nowe Życie” Gdańsk Zbór Gdynia Zbór „Eklezja” Gdynia Zbór Giżycko Zbór „Betel” Gołdap Zbór „Betezda” Iława Zbór Inowrocław Zbór „Betel” Kętrzyn Zbór Kościerzyna Zbór Kwidzyn Zbór „Słowo Życia” Łomża Zbór Malbork Zbór „Emaus” Mikołajki Zbór „Syloe” Morąg Zbór Mrągowo Zbór „Słowo Pojednania” Olsztyn Zbór Suwałki Zbór „Betel” Szczytno Zbór Tczew Zbór Toruń
+- **6)** Okręg Wschodni Zbór Białopole Zbór Białowieża Zbór Białystok Zbór „Dobra Nowina” Białystok Zbór Bielsk Podlaski Zbór Brylińce Zbór Brzeżawa Zbór Chełm Zbór Dubicze Cerkiewne Zbór Hajnówka Zbór Hniszów Zbór Jarosław Zbór „Logos” Krosno Zbór Lubartów Zbór „Oaza” Lubin Zbór Mielec Zbór Nowosady Zbór „Nazaret” Przemyśl Zbór „Emaus” Rzeszów Zbór „Agape” Siedlce Zbór Siedliszcze Zbór Stalowa Wola Zbór „Zwiastun” Tarnobrzeg Zbór Terespol Zbór Zamość II. Seminaria Warszawskie Seminarium Teologiczne Misyjne Seminarium Biblijne Seminarium Teologiczne w Ustroniu Chrześcijański Uniwersytet „Vision” Instytut Korespondencyjny „Uniwersytet ICI” III. Duszpasterstwa Służba Katechetyczna Duszpasterstwo Młodzieży IV. Misje Misja Krajowa Misja Zagraniczna Misja Wśród Uzależnionych od Narkotyków „Teen Challenge” Misja „Chrześcijańska Rodzina” Misja Wśród Uzależnionych od Alkoholu „Nowa Nadzieja” Misja Więzienna Chrześcijańska Misja Społeczna Chrześcijańska Misja Kobiet Misja Charytatywna V. Wydawnictwa Miesięcznik „Chrześcijanin” Instytut Wydawniczy „Agape” Instytut im. T.B. Barratta VI. Kościelne studia radiowe i telewizyjne Misja Radiowa „Słowo Ewangelii” Centrum Telewizyjne „Charyzma” VII. Ośrodki Chrześcijański Ośrodek dla Osób Uzależnionych „En-Gedi” Broczyna Chrześcijański Ośrodek dla Osób Uzależnionych „Nowa Nadzieja” Janowice Wielkie Kościelny Ośrodek Rekolekcyjny „Patmos” Wiele Kościelny Ośrodek Rekolekcyjny Boguszów-Gorce Dom Rekolekcjny „Betezda” Czchów Dom Rekolekcyjny „Betel” Szczytno.
+
 

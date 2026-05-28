@@ -8,10 +8,10 @@ pos: 226
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 3 lutego 2021 OBWIESZCZENIE MINISTRA ZDROWIA 22 stycznia 2021 sprawie ogłoszenia jednolitego tekstu rozporządzenia sprawie informacji
+# Obwieszczenie Ministra Zdrowiaz dnia 22 stycznia 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej
 
 | Pole | Wartość |
 |---|---|
@@ -25,33 +25,74 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000226) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/226/text.pdf) |
 
-1. Na podstawie art. 16 ust. 3 ustawy 20 lipca 2000 ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. 2019 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia 17 października 2014 sprawie informacji (Dz. 1474), uwzględnieniem zmian wprowadzonych:
-1) rozporządzeniem 30 października 2019 zmieniającym sprawie informacji (Dz. 2230);
-2) rozporządzeniem 1 grudnia 2020 zmieniającym sprawie informacji (Dz. 2130).
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia 30 października 2019 zmieniającego sprawie informacji (Dz. 2230), który stanowi: „§ 2. Rozporządzenie wchodzi życie po upływie 14 dni od ogłoszenia.”;
-2) § 2 rozporządzenia 1 grudnia 2020 zmieniającego sprawie informacji (Dz. 2130), który stanowi: „§ 2. Rozporządzenie wchodzi życie dniem następującym po dniu ogłoszenia.”.
-Minister Zdrowia: A. Niedzielski ROZPORZĄDZENIE MINISTRA ZDROWIA 17 października 2014 sprawie informacji Na podstawie art. 8a ust. 2 pkt 2 ustawy 14 marca 1985 (Dz. 2021
-195) zarządza się, co następuje: § 1. Rozporządzenie określa:
-1) wykaz informacji Sanitarnej, zwanych dalej „informacjami”;
-2) zasady zarządzania przez Głównego Inspektora Sanitarnego wymianą informacji.
-§ 2. Wykaz informacji obejmuje następujące systemy:
-1) System Nadzoru Epidemiologicznego nad Chorobami Zakaźnymi;
-2) Krajowy System Wczesnego Ostrzegania i Reagowania dla Chorób Zakaźnych;
-2a) System Ewidencji (SEPIS);
-3) (uchylony);
-4) System Monitoringu Jakości Wody Przeznaczonej do Spożycia przez Ludzi;
-5) System Monitoringu Jakości Wody Kąpieliskach;
-6) Bazę Danych Urządzeń Radiologicznych;
-7) Bazę Danych Źródeł Wytwarzających Pola Elektromagnetyczne na Stanowiskach Pracy (PEM 2005.PL);
-8) System Wczesnego Ostrzegania Niebezpiecznej Żywności i Paszach (RASFF) Polsce;
-9) Elektroniczny System Nadzoru nad Dystrybucją Szczepionek (ESNDS);
-10) System Monitorowania Informacji Środkach Zastępczych i Nowych Substancjach Psychoaktywnych (SMIOD).
-§ 3. Główny Inspektor Sanitarny zarządza wymianą informacji systemów, których mowa § 2, przez:
-1) zbieranie danych;
-2) zapewnianie ciągłej, wielostronnej i szybkiej danych sposób, który zapewni kompletność i niezbędną jakość informacji;
-3) określanie jednolitych zasad oceny ryzyka sanitarnego i epidemiologicznego;
-4) organizowanie specjalistycznych szkoleń gromadzenia i przetwarzania danych tych systemach oraz ich obsługi;
-5) administrowanie i utrzymywanie centralnych baz danych tych systemów, wyłączeniem systemu, którym mowa § 2 pkt 8.
-§ 4. Rozporządzenie wchodzi życie po upływie 14 dni od ogłoszenia .
+Treść obwieszczenia
+Załącznik – Rozporządzenie Ministra Zdrowia z dnia 17 października 2014 r. w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 17 października 2014 r. w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. poz. 1474), z uwzględnieniem zmian wprowadzonych:
+1)
+rozporządzeniem Ministra Zdrowia z dnia 30 października 2019 r. zmieniającym rozporządzenie w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. poz. 2230);
+2)
+rozporządzeniem Ministra Zdrowia z dnia 1 grudnia 2020 r. zmieniającym rozporządzenie w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. poz. 2130).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
+1)
+§ 2 rozporządzenia Ministra Zdrowia z dnia 30 października 2019 r. zmieniającego rozporządzenie w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. poz. 2230), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+” ;
+2)
+§ 2 rozporządzenia Ministra Zdrowia z dnia 1 grudnia 2020 r. zmieniającego rozporządzenie w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. poz. 2130), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+” .
+Załącznik – Rozporządzenie Ministra Zdrowia z dnia 17 października 2014 r. w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej
+Na podstawie art. 8a ust. 2 pkt 2 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2021 r. poz. 195) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+wykaz systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej, zwanych dalej „informacjami”;
+2)
+zasady zarządzania przez Głównego Inspektora Sanitarnego wymianą informacji.
+§ 2.
+Wykaz systemów wymiany informacji obejmuje następujące systemy:
+1)
+System Nadzoru Epidemiologicznego nad Chorobami Zakaźnymi;
+2)
+Krajowy System Wczesnego Ostrzegania i Reagowania dla Chorób Zakaźnych;
+2a)
+System Ewidencji Państwowej Inspekcji Sanitarnej (SEPIS);
+3)
+(uchylony);
+4)
+System Monitoringu Jakości Wody Przeznaczonej do Spożycia przez Ludzi;
+5)
+System Monitoringu Jakości Wody w Kąpieliskach;
+6)
+Bazę Danych Urządzeń Radiologicznych;
+7)
+Bazę Danych Źródeł Wytwarzających Pola Elektromagnetyczne na Stanowiskach Pracy (PEM 2005.PL);
+8)
+System Wczesnego Ostrzegania o Niebezpiecznej Żywności i Paszach (RASFF) w Polsce;
+9)
+Elektroniczny System Nadzoru nad Dystrybucją Szczepionek (ESNDS);
+10)
+System Monitorowania Informacji o Środkach Zastępczych i Nowych Substancjach Psychoaktywnych (SMIOD).
+§ 3.
+Główny Inspektor Sanitarny zarządza wymianą informacji w zakresie systemów, o których mowa w § 2, przez:
+1)
+zbieranie danych;
+2)
+zapewnianie ciągłej, wielostronnej i szybkiej wymiany danych w sposób, który zapewni kompletność i niezbędną jakość informacji;
+3)
+określanie jednolitych zasad oceny ryzyka sanitarnego i epidemiologicznego;
+4)
+organizowanie specjalistycznych szkoleń w zakresie gromadzenia i przetwarzania danych w tych systemach oraz ich obsługi;
+5)
+administrowanie i utrzymywanie centralnych baz danych tych systemów, z wyłączeniem systemu, o którym mowa w § 2 pkt 8.
+§ 4.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541). 2) Dodany przez § 1 rozporządzenia Ministra Zdrowia z dnia 1 grudnia 2020 r. zmieniającego rozporządzenie w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. poz. 2130), które weszło w życie z dniem 2 grudnia 2020 r. 3) Przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 30 października 2019 r. zmieniającego rozporządzenie w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. poz. 2230), które weszło w życie z dniem 30 listopada 2019 r. 4) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 5) Rozporządzenie zostało ogłoszone w dniu 29 października 2014 r. 6) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 13 sierpnia 2010 r. w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. poz. 1095), które utraciło moc z dniem 4 marca 2014 r. na podstawie art. 4 ust. 1 ustawy z dnia 13 lipca 2012 r. o zmianie ustawy o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi oraz ustawy o Państwowej Inspekcji Sanitarnej (Dz. U. poz. 892).
 

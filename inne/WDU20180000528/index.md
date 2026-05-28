@@ -1,0 +1,154 @@
+---
+title: "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 6 marca 2018 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania \"Rolnictwo ekologiczne\" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020"
+address: WDU20180000528
+eli: DU/2018/528
+publisher: DU
+year: 2018
+pos: 528
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 6 marca 2018 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Rolnictwo ekologiczne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2018 poz. 528 |
+| ISAP | WDU20180000528 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2018-03-06 |
+| Data wydania | 2018-03-13 |
+| Wejście w życie | 2018-03-15 |
+| Ostatnia zmiana | 2025-06-18 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000528) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/528/text.pdf) |
+
+Treść rozporządzenia
+Załącznik – Współczynnik przeliczania zwierząt na DJP na potrzeby spełniania warunku posiadania zwierząt i przyznawania płatności ekologicznej w ramach pakietu 5. uprawy paszowe na gruntach ornych w okresie konwersji, pakietu 11. uprawy paszowe na gruntach ornych po okresie konwersji, pakietu 6. trwałe użytki zielone w okresie konwersji i pakietu 12. trwałe użytki zielone po okresie konwersji
+Treść rozporządzenia
+Na podstawie art. 45 ust. 1 pkt 1 i ust. 2 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2017 r. poz. 562, 624, 892, 935 i 1475 oraz z 2018 r. poz. 311) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 13 marca 2015 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Rolnictwo ekologiczne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 370, z późn. zm.) wprowadza się następujące zmiany:
+1)
+w § 12 po ust. 4 dodaje się ust. 4a w brzmieniu:
+„
+4a.
+W przypadku gdy rolnik realizuje pakiet wymieniony w § 4 ust. 1 pkt 5 jednocześnie z pakietem wymienionym w § 4 ust. 1 pkt 11, a powierzchnia ustalona zgodnie z ust. 4 jest mniejsza od powierzchni gruntów ornych zadeklarowanych we wniosku o przyznanie płatności ekologicznej w ramach tych pakietów, płatność ekologiczna w pierwszej kolejności przysługuje do tej powierzchni, na której jest realizowany pakiet wymieniony w § 4 ust. 1 pkt 5.
+” ;
+2)
+w § 19:
+a)
+ust. 1 otrzymuje brzmienie:
+„
+1.
+Do wniosku o przyznanie płatności ekologicznej rolnik dołącza materiał graficzny, o którym mowa w art. 72 ust. 3 rozporządzenia nr 1306/2013, udostępniony przez Agencję.
+” ,
+b)
+w ust. 5b pkt 2 otrzymuje brzmienie:
+„
+2)
+kolejnej płatności ekologicznej z tytułu realizacji zobowiązania ekologicznego w ramach wariantów wymienionych w § 4 ust. 1 pkt 4 lit. b i pkt 10 lit. b – w przypadku gdy na gruncie, na którym realizuje te warianty:
+a)
+dokonał zmiany uprawianej rośliny w ramach tych wariantów na inną roślinę, która może być uprawiana w ramach tych wariantów, lub zastąpił dotychczas uprawianą roślinę nową rośliną tego samego gatunku, lub
+b)
+w roku poprzednim była uprawiana roślina w ramach zobowiązania, o którym mowa w § 4 ust. 2 pkt 1, inna niż roślina objęta płatnością ekologiczną w ramach tych wariantów
+” ;
+3)
+po § 31 dodaje się § 31a w brzmieniu:
+„
+§ 31a.
+W przypadku stwierdzenia uchybienia w przestrzeganiu przez rolnika wymogów w ramach zobowiązania ekologicznego, w celu zastosowania art. 35 ust. 4 rozporządzenia nr 640/2014, płatność ekologiczna podlega zwrotowi, a do ustalenia wysokości tego zwrotu przepisy § 30 ust. 1–9 oraz 12 i 13 stosuje się odpowiednio, z tym że w przypadku uchybienia określonego w § 30:
+1)
+ust. 1 w odniesieniu do:
+a)
+wymogów określonych w ust. 1 i 1b załącznika nr 2 do rozporządzenia – iloczyn współczynnika dotkliwości i trwałości danego uchybienia wynosi 1%,
+b)
+pozostałych wymogów, z wyjątkiem wymogów określonych w ust. 2 pkt 1 lit. f i pkt 2 lit. i załącznika nr 2 do rozporządzenia – iloczyn współczynnika dotkliwości i trwałości danego uchybienia wynosi dla roku realizacji zobowiązania ekologicznego poprzedzającego:
+– rok realizacji tego zobowiązania, w odniesieniu do którego stwierdzono dane uchybienie – 50%,
+– o 2 lata rok realizacji tego zobowiązania, w odniesieniu do którego stwierdzono dane uchybienie – 30%,
+– o 3 lata rok realizacji tego zobowiązania, w odniesieniu do którego stwierdzono dane uchybienie – 10%,
+– o 4 lata rok realizacji tego zobowiązania, w odniesieniu do którego stwierdzono dane uchybienie – 5%
+– iloczynu współczynnika dotkliwości i trwałości tego uchybienia określonego w załączniku nr 10 do rozporządzenia;
+2)
+ust. 1a – iloczyn współczynnika dotkliwości i trwałości danego uchybienia wynosi dla roku realizacji zobowiązania ekologicznego poprzedzającego:
+a)
+rok realizacji tego zobowiązania, w odniesieniu do którego stwierdzono dane uchybienie – 50%,
+b)
+o 2 lata rok realizacji tego zobowiązania, w odniesieniu do którego stwierdzono dane uchybienie – 30%,
+c)
+o 3 lata rok realizacji tego zobowiązania, w odniesieniu do którego stwierdzono dane uchybienie – 10%,
+d)
+o 4 lata rok realizacji tego zobowiązania, w odniesieniu do którego stwierdzono dane uchybienie – 5%
+iloczynu współczynnika dotkliwości i trwałości tego uchybienia określonego w załączniku nr 10 do rozporządzenia;
+3)
+ust. 4 – wysokość tego zwrotu wynosi 1% płatności ekologicznej, która przysługiwałaby do powierzchni gruntów, o której mowa w § 30 ust. 4, gdyby takie uchybienie nie wystąpiło;
+4)
+ust. 5 – wysokość tego zwrotu wynosi 1% płatności ekologicznej, która przysługiwałaby, gdyby takie uchybienie nie wystąpiło;
+5)
+ust. 7 – wysokość tego zwrotu wynosi 1% płatności ekologicznej, która przysługiwałaby, gdyby takie uchybienie nie wystąpiło;
+6)
+ust. 12 – wysokość tego zwrotu wynosi 1% płatności ekologicznej, która przysługiwałaby do obszaru objętego zobowiązaniem ekologicznym, o którym mowa w § 30 ust. 12, gdyby takie uchybienie nie wystąpiło;
+7)
+ust. 13 – wysokość tego zwrotu wynosi 1% płatności ekologicznej, która przysługiwałaby do obszaru objętego zobowiązaniem ekologicznym, o którym mowa w § 30 ust. 13, gdyby takie uchybienie nie wystąpiło.
+” ;
+4)
+po § 32c dodaje się § 32d w brzmieniu:
+„
+§ 32d.
+1.
+Przy ustalaniu spełniania warunków określonych w § 9 ust. 3 pkt 2 i ust. 4 za 2017 r. bierze się pod uwagę zwierzęta:
+1)
+posiadane przez rolnika lub jego małżonka w okresie od dnia 15 marca do dnia 30 września 2017 r., w odniesieniu do których rolnik lub jego małżonek dokonali wymaganych na podstawie przepisów o systemie identyfikacji i rejestracji zwierząt zgłoszeń do rejestru:
+a)
+zwierząt gospodarskich oznakowanych, o którym mowa w przepisach o systemie identyfikacji i rejestracji zwierząt – w przypadku bydła, kóz i owiec,
+b)
+koniowatych, o którym mowa w przepisach o systemie identyfikacji i rejestracji zwierząt, wskazane w zaświadczeniu wydanym przez podmiot prowadzący rejestr koniowatych, na formularzu opracowanym i udostępnionym przez Agencję – w przypadku koni;
+2)
+posiadane przez rolnika lub jego małżonka w okresie od dnia:
+a)
+przeprowadzenia kontroli, o której mowa w art. 65 ust. 1 rozporządzenia Komisji (WE) nr 889/2008 z dnia 5 września 2008 r. ustanawiającego szczegółowe zasady wdrażania rozporządzenia Rady (WE) nr 834/2007 w sprawie produkcji ekologicznej i znakowania produktów ekologicznych w odniesieniu do produkcji ekologicznej, znakowania i kontroli, w roku poprzedzającym rok złożenia wniosku o przyznanie płatności ekologicznej do dnia przeprowadzenia kontroli w roku złożenia wniosku o przyznanie tej płatności – w przypadku świń utrzymywanych przez rolnika lub jego małżonka, którzy zostali objęci systemem kontroli, o którym mowa w art. 27 rozporządzenia nr 834/2007, nie później niż w roku poprzedzającym rok złożenia wniosku o przyznanie płatności ekologicznej,
+b)
+objęcia systemem kontroli, o którym mowa w art. 27 rozporządzenia nr 834/2007, w roku złożenia wniosku o przyznanie płatności ekologicznej do dnia przeprowadzenia kontroli w roku złożenia wniosku o przyznanie tej płatności – w przypadku świń utrzymywanych przez rolnika lub jego małżonka, którzy zostali objęci systemem kontroli, o którym mowa w art. 27 rozporządzenia nr 834/2007, w roku złożenia wniosku o przyznanie płatności ekologicznej;
+3)
+wymienione w wykazie, o którym mowa w art. 17 ust. 1 pkt 1 ustawy z dnia 25 czerwca 2009 r. o rolnictwie ekologicznym, posiadane przez rolnika lub jego małżonka w okresie od dnia:
+a)
+przeprowadzenia kontroli, o której mowa w art. 65 ust. 1 rozporządzenia Komisji (WE) nr 889/2008 z dnia 5 września 2008 r. ustanawiającego szczegółowe zasady wdrażania rozporządzenia Rady (WE) nr 834/2007 w sprawie produkcji ekologicznej i znakowania produktów ekologicznych w odniesieniu do produkcji ekologicznej, znakowania i kontroli, w roku poprzedzającym rok złożenia wniosku o przyznanie płatności ekologicznej do dnia przeprowadzenia kontroli w roku złożenia wniosku o przyznanie tej płatności – w przypadku zwierząt innych niż wymienione w pkt 1 i 2, utrzymywanych przez rolnika lub jego małżonka, którzy zostali objęci systemem kontroli, o którym mowa w art. 27 rozporządzenia nr 834/2007, nie później niż w roku poprzedzającym rok złożenia wniosku o przyznanie płatności ekologicznej,
+b)
+objęcia systemem kontroli, o którym mowa w art. 27 rozporządzenia nr 834/2007, w roku złożenia wniosku o przyznanie płatności ekologicznej do dnia przeprowadzenia kontroli w roku złożenia wniosku o przyznanie tej płatności – w przypadku zwierząt innych niż wymienione w pkt 1 i 2, utrzymywanych przez rolnika lub jego małżonka, którzy zostali objęci systemem kontroli, o którym mowa w art. 27 rozporządzenia nr 834/2007, w roku złożenia wniosku o przyznanie płatności ekologicznej.
+” ;
+5)
+w załączniku nr 1 do rozporządzenia część I tabeli otrzymuje brzmienie: I. WYMOGI DOTYCZĄCE STOSOWANIA NAWOZÓW Niestosowanie w danym roku dawki odchodów zwierzęcych wykorzystywanych rolniczo zawierającej więcej niż 170 kg azotu w czystym składniku na 1 ha użytków rolnych – art. 105 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566 i 2180). Stwierdzono zastosowanie w danym roku dawki odchodów zwierzęcych wykorzystywanych rolniczo zawierającej więcej niż 170 kg azotu w czystym składniku na 1 ha użytków rolnych. Obszar objęty zobowiązaniem w ramach pakietów i ich wariantów 80% 1,25 100%
+6)
+w załączniku nr 5 do rozporządzenia:
+a)
+w ust. 1 pkt 1 otrzymuje brzmienie:
+„
+1)
+bydło domowe (Bos taurus) oraz bawoły domowe (Bubalus bubalis);
+” ,
+b)
+w ust. 2 pkt 1 otrzymuje brzmienie:
+„
+1)
+bydło domowe (Bos taurus) oraz bawoły domowe (Bubalus bubalis);
+” ;
+7)
+załącznik nr 6 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia;
+8)
+w załączniku nr 10 do rozporządzenia w tabeli w części III wiersz drugi otrzymuje brzmienie: Drzew w okresie owocowania lub na podkładkach karłowych lub półkarłowych, których uprawa jest prowadzona nie krócej niż rok, jest mniej, niż jest wymagane więcej niż o 10%, lecz nie więcej niż o 20%. 20% 1,5 30%
+§ 2.
+Do przyznawania i zwrotu pomocy finansowej w ramach działania „Rolnictwo ekologiczne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, w sprawach objętych postępowaniami:
+1)
+wszczętymi i niezakończonymi ostateczną decyzją przed dniem wejścia w życie niniejszego rozporządzenia,
+2)
+zakończonymi ostateczną decyzją wydaną na podstawie przepisów dotychczasowych, w przypadku gdy zostały wznowione od dnia wejścia w życie niniejszego rozporządzenia
+stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym, z tym że do postępowań wszczętych po dniu 14 marca 2017 r., lecz przed dniem wejścia w życie niniejszego rozporządzenia, § 32d rozporządzenia zmienianego w § 1, część I tabeli zawartej w załączniku nr 1 do rozporządzenia zmienianego w § 1 oraz wiersz drugi w części III tabeli zawartej w załączniku nr 10 do rozporządzenia zmienianego w § 1 stosuje się w brzmieniu nadanym niniejszym rozporządzeniem.
+§ 3.
+Rozporządzenie wchodzi w życie z dniem 15 marca 2018 r., z wyjątkiem § 1 pkt 4, 5 i 8, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
+1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2325). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 983, z 2016 r. poz. 343, 610 i 1270 oraz z 2017 r. poz. 807 i 1775.
+Załącznik – Współczynnik przeliczania zwierząt na DJP na potrzeby spełniania warunku posiadania zwierząt i przyznawania płatności ekologicznej w ramach pakietu 5. uprawy paszowe na gruntach ornych w okresie konwersji, pakietu 11. uprawy paszowe na gruntach ornych po okresie konwersji, pakietu 6. trwałe użytki zielone w okresie konwersji i pakietu 12. trwałe użytki zielone po okresie konwersji
+Lp. Rodzaj zwierząt Współczynnik przeliczania zwierząt na DJP Konie 1 Ogiery, klacze, wałachy 1,2 2 Źrebaki powyżej 2 lat 1 3 Źrebaki powyżej 1 roku do 2 lat 0,8 4 Źrebaki powyżej 6 miesięcy do 1 roku 0,5 5 Źrebięta do 6 miesięcy 0,3 Bydło oraz bawoły domowe 6 Buhaje 1,4 7 Krowy 1 8 Jałówki cielne 1 9 Jałówki powyżej 1 roku 0,8 10 Jałówki powyżej 6 miesięcy do 1 roku 0,3 11 Opasy powyżej 1 roku 0,8 12 Opasy powyżej 6 miesięcy do 1 roku 0,3 13 Cielęta do 6 miesięcy 0,15 Kozy 14 Kozy matki 0,15 15 Koźlęta do 3,5 miesięcy 0,05 16 Koźlęta powyżej 3,5 miesięcy do 1,5 roku 0,08 17 Pozostałe kozy 0,1 Świnie 18 Świnie 0,3 Owce 19 Owce powyżej 1,5 roku 0,1 20 Tryki powyżej 1,5 roku 0,12 21 Jagnięta do 3,5 miesięcy 0,05 22 Tryczki 0,08 23 Maciorki 0,1 Drób 24 Kury, kaczki 0,004 25 Gęsi 0,008 26 Indyki 0,024 27 Perlice 0,003 Inne 28 Jelenie szlachetne 0,29 29 Jelenie sika (wschodnie) 0,12 30 Daniele 0,12 31 Króliki 0,007
+

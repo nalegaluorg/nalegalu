@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy prawie autorskim i prawach pokrewnych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 6 grudnia 2024 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 stycznia 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-01-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000024) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/24/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 6 grudnia 2024 r.
+sprawie ogłoszenia jednolitego tekstu ustawy prawie autorskim i prawach pokrewnych
 1. Na podstawie 16 ust. zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 4 lutego 1994 r. prawie autorskim i prawach pokrewnych (Dz. U. z 2022 r. poz. 2509), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U. poz. 1222),
 2) ustawą z dnia 26 lipca 2024 r. zmianie ustawy prawie autorskim i prawach pokrewnych, ustawy ochronie baz danych oraz ustawy zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi (Dz. U. poz. 1254) oraz zmian wynikających z przepisów ogłoszonych przed dniem 3 grudnia 2024 r.
@@ -66,11 +66,21 @@ Do obowiązujących dniu wejścia życie niniejszej ustawy umów przeniesienie a
 
 4. Ochrona przysługuje twórcy niezależnie od spełnienia jakichkolwiek formalności.
 
-**Art. 1.** Opracowanie cudzego utworu, szczególności tłumaczenie, przeróbka, adaptacja, jest przedmiotem prawa autorskiego bez uszczerbku dla prawa do utworu pierwotnego. Rozporządzanie i korzystanie z opracowania zależy od zezwolenia twórcy utworu pierwotnego (prawo zależne), chyba że autorskie prawa majątkowe do utworu pierwotnego wygasły. W przypadku baz danych spełniających cechy utworu zezwolenie twórcy jest konieczne także na sporządzenie opracowania. 3. Twórca utworu pierwotnego może cofnąć zezwolenie, jeżeli ciągu pięciu lat od jego udzielenia opracowanie nie zostało rozpowszechnione. Wypłacone twórcy wynagrodzenie nie podlega zwrotowi. 4. Za opracowanie nie uważa się utworu, który powstał wyniku inspiracji cudzym utworem. 5. Na egzemplarzach opracowania należy wymienić twórcę i tytuł utworu pierwotnego. uszczerbku dla praw do wykorzystanych utworów.
+**Art. 1.** Opracowanie cudzego utworu, szczególności tłumaczenie, przeróbka, adaptacja, jest przedmiotem prawa autorskiego bez uszczerbku dla prawa do utworu pierwotnego. Rozporządzanie i korzystanie z opracowania zależy od zezwolenia twórcy utworu pierwotnego (prawo zależne), chyba że autorskie prawa majątkowe do utworu pierwotnego wygasły. W przypadku baz danych spełniających cechy utworu zezwolenie twórcy jest konieczne także na sporządzenie opracowania. 3. Twórca utworu pierwotnego może cofnąć zezwolenie, jeżeli ciągu pięciu lat od jego udzielenia opracowanie nie zostało rozpowszechnione. Wypłacone twórcy wynagrodzenie nie podlega zwrotowi. 4. Za opracowanie nie uważa się utworu, który powstał wyniku inspiracji cudzym utworem. 5. Na egzemplarzach opracowania należy wymienić twórcę i tytuł utworu pierwotnego. jeżeli zawierają niechronione materiały, ile przyjęty nich dobór, układ lub zestawienie ma twórczy charakter, bez uszczerbku dla praw do wykorzystanych utworów.
 
 **Art. 4.** Nie stanowią przedmiotu prawa autorskiego:
 
+- **1)** akty normatywne lub ich urzędowe projekty;
+- **2)** urzędowe dokumenty, materiały, znaki i symbole;
+- **3)** opublikowane opisy patentowe lub ochronne;
+- **4)** proste informacje prasowe.
+
 **Art. 5.** Przepisy ustawy stosuje się do utworów:
+
+- **1)** których twórca lub współtwórca jest obywatelem polskim lub ) których twórca jest obywatelem państwa członkowskiego Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia Wolnym Handlu (EFTA) stron umowy Europejskim Obszarze Gospodarczym, lub
+- **2)** które zostały opublikowane po raz pierwszy na terytorium Rzeczypospolitej Polskiej albo równocześnie na tym terytorium i za granicą, lub
+- **3)** które zostały opublikowane po raz pierwszy języku polskim, lub
+- **4)** które są chronione na podstawie umów międzynarodowych, zakresie, jakim ich ochrona wynika z tych umów.
 
 **Art. 6.**
 
@@ -84,7 +94,7 @@ Do obowiązujących dniu wejścia życie niniejszej ustawy umów przeniesienie a
 - **6)** wprowadzeniem utworu do obrotu jest publiczne udostępnienie jego oryginału albo egzemplarzy drogą przeniesienia ich własności dokonanego uprawnionego lub za jego zgodą;
 - **7)** najmem egzemplarzy utworu jest ich przekazanie do ograniczonego czasowo korzystania celu bezpośredniego lub pośredniego uzyskania korzyści majątkowej;
 - **8)** użyczeniem egzemplarzy utworu jest ich przekazanie do ograniczonego czasowo korzystania, niemające na celu bezpośredniego lub pośredniego uzyskania korzyści majątkowej;
-- **9)** odtworzeniem utworu jest jego publiczne udostępnienie przy pomocy nośników dźwięku, obrazu lub dźwięku i obrazu, na których utwór został zapisany, albo urządzeń służących do odbioru programu radiowego lub telewizyjnego, którym utwór jest nadawany, albo urządzeń umożliwiających korzystanie z utworu publicznie udostępnionego taki sposób, aby każdy mógł mieć do niego dostęp miejscu i czasie siebie wybranym; z naruszeniem prawa;
+- **9)** odtworzeniem utworu jest jego publiczne udostępnienie przy pomocy nośników dźwięku, obrazu lub dźwięku i obrazu, na których utwór został zapisany, albo urządzeń służących do odbioru programu radiowego lub telewizyjnego, którym utwór jest nadawany, albo urządzeń umożliwiających korzystanie z utworu publicznie udostępnionego taki sposób, aby każdy mógł mieć do niego dostęp miejscu i czasie siebie wybranym; zapobieganie działaniom lub ograniczenie działań umożliwiających korzystanie z utworów lub artystycznych wykonań z naruszeniem prawa;
 - **11)** skutecznymi technicznymi zabezpieczeniami są techniczne zabezpieczenia umożliwiające podmiotom uprawnionym kontrolę nad korzystaniem z chronionego utworu lub artystycznego wykonania poprzez zastosowanie kodu dostępu lub mechanizmu zabezpieczenia, szczególności szyfrowania, zakłócania lub każdej innej transformacji utworu lub artystycznego wykonania lub mechanizmu kontroli zwielokrotniania, które spełniają cel ochronny;
 - **12)** informacjami na temat zarządzania prawami są informacje identyfikujące utwór, twórcę, podmiot praw autorskich lub informacje warunkach eksploatacji utworu, ile zostały one dołączone do egzemplarza utworu lub są przekazywane związku z jego rozpowszechnianiem, tym kody identyfikacyjne;
 - **13)** instytucją oświatową są jednostki organizacyjne, których 2 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2024 r. poz. 737, 854, 1562 i 1635), szkoły polskie, których 4 29d tej oraz szkoły podoficerskie, ośrodki szkolenia lub centra szkolenia, których 91 ust. 1a–3 i ust. 2 ustawy z dnia 11 marca 2022 r. obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, 834, 1089, 1222, 1248 i 1585), a także Centralna Komisja Egzaminacyjna, 9a ust. ustawy z dnia 7 września 1991 r. systemie oświaty (Dz. U. z 2024 r. poz. 750, 854 i 1473), oraz okręgowe komisje egzaminacyjne, których 9c ust. tej ustawy;
@@ -103,7 +113,7 @@ Do obowiązujących dniu wejścia życie niniejszej ustawy umów przeniesienie a
     - **a)** powstała wyniku działania niezbędnego celu zapewnienia beneficjentowi równie skutecznego i wygodnego dostępu do utworu jak ten, z którego korzysta osoba bez dysfunkcji, których 18,
     - **b)** sporządzona z kopii, lit. a;
 
-- **21)** instytucją dziedzictwa kulturowego jest biblioteka, muzeum, archiwum oraz instytucja kultury, statutowym zadaniem jest gromadzenie, ochrona i upowszechnianie zbiorów dziedzictwa filmowego lub fonograficznego; gólności wzorce, tendencje i korelacje;
+- **21)** instytucją dziedzictwa kulturowego jest biblioteka, muzeum, archiwum oraz instytucja kultury, statutowym zadaniem jest gromadzenie, ochrona i upowszechnianie zbiorów dziedzictwa filmowego lub fonograficznego; lizowania tekstów i danych postaci cyfrowej celu wygenerowania określonych informacji, obejmujących szczególności wzorce, tendencje i korelacje;
 - **23)** usługodawcą jest usługodawca rozumieniu 2 6 ustawy z dnia 18 lipca 2002 r. świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513);
 - **24)** usługobiorcą jest usługobiorca rozumieniu 2 7 ustawy z dnia 18 lipca 2002 r. świadczeniu usług drogą elektroniczną;
 - **25)** dostawcą usług udostępniania treści online jest usługodawca, którego głównym przedmiotem działalności jest przechowywanie i udzielanie publicznego dostępu do znacznej liczby utworów lub przedmiotów praw pokrewnych zamieszczanych usługobiorców, które to utwory lub przedmioty praw pokrewnych są niego organizowane i promowane celach zarobkowych; za takich dostawców nie uznaje się szczególności dostawców takich usług, jak niedziałające celach zarobkowych encyklopedie internetowe, repozytoria naukowe i edukacyjne, platformy tworzenia otwartego oprogramowania i platformy wymiany otwartego oprogramowania, dostawców usług komunikacji elektronicznej, internetowych platform handlowych oraz usług chmurze dla przedsiębiorstw i usług chmurze obliczeniowej, które umożliwiają usługobiorcom zamieszczanie treści na własny użytek;
@@ -119,7 +129,7 @@ Do obowiązujących dniu wejścia życie niniejszej ustawy umów przeniesienie a
 
 3. W przypadku gdy sygnał przekazujący utwór jest kodowany sposób uniemożliwiający jego powszechny i nieograniczony odbiór, jest to rozpowszechnianie, rozumieniu ust. 1, pod warunkiem równoczesnego udostępnienia organizację radiową lub telewizyjną, lub za jej zgodą, środków do odbioru tego sygnału.
 
-4. Satelitą jest sztuczny satelita Ziemi działający pasmach częstotliwości, które na mocy przepisów ustawy z dnia 12 lipca 2024 r. Prawo komunikacji elektronicznej (Dz. U. poz. 1221) są przeznaczone dla celów emisji sygnałów przeznaczonych do publicznego odbioru lub dla zamkniętej komunikacji pomiędzy dwoma punktami, przy czym odbiór sygnałów obu tych przypadkach musi odbywać się porównywalnych warunkach.
+4. Satelitą jest sztuczny satelita Ziemi działający pasmach częstotliwości, które na mocy przepisów ustawy z dnia 12 lipca 2024 r. Prawo komunikacji elektronicznej (Dz. U. poz. 1221) są przeznaczone dla celów emisji sygnałów przeznaczonych do publicznego odbioru lub dla zamkniętej komunikacji pomiędzy dwoma punktami, przy czym odbiór sygnałów obu tych przypadkach musi odbywać się porównywalnych warunkach. przewodowy utworów:
 
 - **1)** zawartych audycjach radiowych,
 - **2)** zawartych audycjach telewizyjnych charakterze informacyjnym, publicystycznym lub będących jej własnymi produkcjami całości nią finansowanymi,
@@ -149,7 +159,7 @@ Do obowiązujących dniu wejścia życie niniejszej ustawy umów przeniesienie a
 
 5. Do autorskich praw majątkowych przysługujących współtwórcom stosuje się odpowiednio przepisy Kodeksu cywilnego współwłasności częściach ułamkowych.
 
-**Art. 10.** Jeżeli twórcy połączyli swoje odrębne utwory celu wspólnego rozpowszechniania, każdy z nich może żądać od pozostałych twórców udzielenia zezwolenia na rozpowszechnianie tak powstałej całości, chyba że istnieje słuszna podstawa odmowy, a umowa nie stanowi inaczej. Przepisy 9 ust. 2–4 stosuje się odpowiednio. com. Domniemywa się, że producentowi lub wydawcy przysługuje prawo do tytułu.
+**Art. 10.** Jeżeli twórcy połączyli swoje odrębne utwory celu wspólnego rozpowszechniania, każdy z nich może żądać od pozostałych twórców udzielenia zezwolenia na rozpowszechnianie tak powstałej całości, chyba że istnieje słuszna podstawa odmowy, a umowa nie stanowi inaczej. Przepisy 9 ust. 2–4 stosuje się odpowiednio. dycznej, przysługują producentowi lub wydawcy, a do poszczególnych części mających samodzielne znaczenie ich twórcom. Domniemywa się, że producentowi lub wydawcy przysługuje prawo do tytułu.
 
 **Art. 12.**
 
@@ -176,6 +186,12 @@ Do obowiązujących dniu wejścia życie niniejszej ustawy umów przeniesienie a
 ##### Oddział Autorskie prawa osobiste
 
 **Art. 16.** Jeżeli ustawa nie stanowi inaczej, autorskie prawa osobiste chronią nieograniczoną czasie i niepodlegającą zrzeczeniu się lub zbyciu więź twórcy z utworem, a szczególności prawo do:
+
+- **1)** autorstwa utworu;
+- **2)** oznaczenia utworu swoim nazwiskiem lub pseudonimem albo do udostępniania go anonimowo;
+- **3)** nienaruszalności treści i formy utworu oraz jego rzetelnego wykorzystania;
+- **4)** decydowania pierwszym udostępnieniu utworu publiczności;
+- **5)** nadzoru nad sposobem korzystania z utworu. Autorskie prawa majątkowe
 
 **Art. 17.** Jeżeli ustawa nie stanowi inaczej, twórcy przysługuje wyłączne prawo do korzystania z utworu i rozporządzania nim na wszystkich polach eksploatacji oraz do wynagrodzenia za korzystanie z utworu.
 
@@ -272,7 +288,7 @@ Do obowiązujących dniu wejścia życie niniejszej ustawy umów przeniesienie a
 
 1. Organizacji radiowej lub telewizyjnej wolno ramach własnych audycji archiwalnych nadawać i udostępniać publicznie utwory taki sposób, aby każdy mógł mieć do nich dostęp miejscu i czasie siebie wybranym, a także zwielokrotniać je celu takiego użytku, wyłącznie na podstawie umowy zawartej z właściwą organizacją zbiorowego zarządzania prawami autorskimi, chyba że prawo do takiego korzystania przysługuje danej organizacji radiowej lub telewizyjnej na podstawie ustawy lub odrębnej umowy. Przepis 21 ust. 2 stosuje się odpowiednio. Własną audycją archiwalną, ust. 1, jest audycja wytworzona daną organizację radiową lub telewizyjną, na jej zamówienie lub zlecenie, albo koprodukcji z nią, przed dniem stycznia 2003 r.
 
-**Art. 21³.** Posiadaczom urządzeń służących do odbioru programu radiowego lub telewizyjnego wolno publicznie odtwarzać nadawane nim utwory wyłącznie na podstawie umowy zawartej z właściwą organizacją zbiorowego zarządzania prawami autorskimi, chyba że ich odtwarzanie następuje na podstawie odrębnej umowy. utworu taki sposób, aby każdy mógł mieć do niego dostęp miejscu i czasie siebie wybranym.
+**Art. 21³.** Posiadaczom urządzeń służących do odbioru programu radiowego lub telewizyjnego wolno publicznie odtwarzać nadawane nim utwory wyłącznie na podstawie umowy zawartej z właściwą organizacją zbiorowego zarządzania prawami autorskimi, chyba że ich odtwarzanie następuje na podstawie odrębnej umowy. twórcy opracowania takiego utworu, są uprawnieni do stosownego wynagrodzenia z tytułu publicznego udostępniania utworu taki sposób, aby każdy mógł mieć do niego dostęp miejscu i czasie siebie wybranym.
 
 **Art. 22.** (uchylony)
 
@@ -300,6 +316,15 @@ Do obowiązujących dniu wejścia życie niniejszej ustawy umów przeniesienie a
 
 **Art. 22⁴.** Dostawca usług udostępniania treści online udostępnia uprawnionemu, na jego żądanie:
 
+- **1)** informacje na temat stosowanej niego praktyki zakresie współpracy z uprawnionymi, 22 ;
+- **2)** informacje na temat wykorzystywania utworów, co do których uzyskał zgodę uprawnionego na ich publiczne udostępnienie, niezbędne do określenia wysokości wynagrodzenia należnego uprawnionemu od dostawcy usług udostępniania treści online. środków komunikacji elektronicznej, przypadku uniemożliwienia dostępu do utworu zamieszczonego usługobiorcę, zablokowania dostępu do tego utworu lub jego usunięcia. Skarga nie podlega opłacie i jest rozpatrywana bez zbędnej zwłoki, wyłącznie na podstawie zamieszczonych niej informacji i załączonych do niej dokumentów oraz informacji i żądań uprawnionego, których 22 ust. 2 i 3.
+
+3. W przypadku uznania skargi za uzasadnioną dostawca usług udostępniania treści online niezwłocznie umożliwia dostęp do utworu, odblokowuje dostęp do utworu lub przywraca usunięty utwór oraz niezwłocznie informuje usługobiorcę pozytywnym rozpatrzeniu skargi. Skargę uważa się za uzasadnioną szczególności wtedy, gdy zamieszczenie utworu nastąpiło za zgodą uprawnionego lub na podstawie przepisów dozwolonym użytku.
+
+4. W przypadku uznania skargi za nieuzasadnioną dostawca usług udostępniania treści online niezwłocznie informuje tym usługobiorcę i przedstawia pisemne uzasadnienie faktyczne i prawne.
+
+5. Uznanie skargi za nieuzasadnioną nie może nastąpić sposób zautomatyzowany.
+
 **Art. 22⁶.**
 
 1. Działania dostawcy usług udostępniania treści online oraz uprawnionego, których 22 –22 , nie mogą prowadzić do identyfikacji indywidualnych usługobiorców ani do przetwarzania ich danych osobowych, chyba że przepisy odrębne stanowią inaczej. Dostawca usług udostępniania treści online informuje usługobiorcę warunkach korzystania ze swoich usług, tym możliwości korzystania z utworów na podstawie przepisów dozwolonym użytku.
@@ -315,6 +340,9 @@ Do obowiązujących dniu wejścia życie niniejszej ustawy umów przeniesienie a
 1. Bez zezwolenia twórcy wolno nieodpłatnie korzystać z już rozpowszechnionego utworu zakresie własnego użytku osobistego. Przepis ten nie upoważnia do budowania według cudzego utworu architektonicznego i architektoniczno-urbanistycznego oraz do korzystania z elektronicznych baz danych spełniających cechy utworu, chyba że dotyczy to własnego użytku naukowego niezwiązanego z celem zarobkowym. Zakres własnego użytku osobistego obejmuje korzystanie z pojedynczych egzemplarzy utworów krąg osób pozostających związku osobistym, szczególności pokrewieństwa, powinowactwa lub stosunku towarzyskiego.
 
 **Art. 23.** Nie wymaga zezwolenia twórcy tymczasowe zwielokrotnienie, charakterze przejściowym lub incydentalnym, niemające samodzielnego znaczenia gospodarczego, a stanowiące integralną i niezbędną część procesu technologicznego, którego celem jest wyłącznie umożliwienie:
+
+- **1)** przekazu utworu systemie teleinformatycznym pomiędzy osobami trzecimi pośrednika lub
+- **2)** zgodnego z prawem korzystania z utworu.
 
 **Art. 23².**
 
@@ -362,7 +390,7 @@ Do obowiązujących dniu wejścia życie niniejszej ustawy umów przeniesienie a
 
 **Art. 27.**
 
-- **16)** 1. Instytucje oświatowe oraz podmioty, których 7 ust. 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. Prawo szkolnictwie wyższym i nauce, mogą na potrzeby zilustrowania treści przekazywanych celach dydaktycznych lub celu prowadzenia działalności naukowej korzystać z rozpowszechnionych utworów oryginale i tłumaczeniu, tym zwielokrotniać rozpowszechnione drobne utwory lub fragmenty większych utworów nieprzekraczające 25 % objętości utworu, pod warunkiem że korzystanie to nie ma charakteru zarobkowego oraz odbywa się na odpowiedzialność tych instytucji lub podmiotów, na ich terenie lub innym miejscu, lub za pośrednictwem bezpiecznego środowiska elektronicznego dostępnego, dzięki zastosowaniu procedur uwierzytelniających, tylko dla uczących się i nauczających lub prowadzących działalność naukową danej instytucji lub danym podmiocie. skim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia Wolnym Handlu (EFTA) stronie umowy Europejskim Obszarze Gospodarczym, którym dana instytucja oświatowa lub dany podmiot mają siedzibę.
+- **16)** 1. Instytucje oświatowe oraz podmioty, których 7 ust. 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. Prawo szkolnictwie wyższym i nauce, mogą na potrzeby zilustrowania treści przekazywanych celach dydaktycznych lub celu prowadzenia działalności naukowej korzystać z rozpowszechnionych utworów oryginale i tłumaczeniu, tym zwielokrotniać rozpowszechnione drobne utwory lub fragmenty większych utworów nieprzekraczające 25 % objętości utworu, pod warunkiem że korzystanie to nie ma charakteru zarobkowego oraz odbywa się na odpowiedzialność tych instytucji lub podmiotów, na ich terenie lub innym miejscu, lub za pośrednictwem bezpiecznego środowiska elektronicznego dostępnego, dzięki zastosowaniu procedur uwierzytelniających, tylko dla uczących się i nauczających lub prowadzących działalność naukową danej instytucji lub danym podmiocie. pośrednictwem bezpiecznego środowiska elektronicznego, sposób określony ust. 1, odbywa się państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia Wolnym Handlu (EFTA) stronie umowy Europejskim Obszarze Gospodarczym, którym dana instytucja oświatowa lub dany podmiot mają siedzibę.
 
 **Art. 27.**
 
@@ -399,13 +427,21 @@ Do obowiązujących dniu wejścia życie niniejszej ustawy umów przeniesienie a
 
 **Art. 30.** (uchylony)
 
-**Art. 30.** Do baz danych spełniających cechy utworu nie stosuje się 27 i 28. władze publiczne, jeżeli nie łączy się z tym osiąganie pośrednio lub bezpośrednio korzyści majątkowej. Wolno nieodpłatnie publicznie wykonywać lub odtwarzać przy pomocy urządzeń lub nośników znajdujących się tym samym miejscu co publiczność rozpowszechnione utwory podczas imprez szkolnych oraz akademickich, jeżeli nie łączy się z tym osiąganie pośrednio lub bezpośrednio korzyści majątkowej i artyści wykonawcy oraz osoby odtwarzające utwory nie otrzymują wynagrodzenia. 3. Przepisów ust. i 2 nie stosuje się do korzystania z utworów podczas imprez reklamowych, promocyjnych i wyborczych.
+**Art. 31.**
+
+1. Wolno korzystać z utworów podczas ceremonii religijnych oraz oficjalnych uroczystości organizowanych władze publiczne, jeżeli nie łączy się z tym osiąganie pośrednio lub bezpośrednio korzyści majątkowej. Wolno nieodpłatnie publicznie wykonywać lub odtwarzać przy pomocy urządzeń lub nośników znajdujących się tym samym miejscu co publiczność rozpowszechnione utwory podczas imprez szkolnych oraz akademickich, jeżeli nie łączy się z tym osiąganie pośrednio lub bezpośrednio korzyści majątkowej i artyści wykonawcy oraz osoby odtwarzające utwory nie otrzymują wynagrodzenia.
+
+3. Przepisów ust. i 2 nie stosuje się do korzystania z utworów podczas imprez reklamowych, promocyjnych i wyborczych.
 
 **Art. 32.**
 
 1. Właściciel egzemplarza utworu plastycznego może go wystawiać publicznie, jeżeli nie łączy się z tym osiąganie korzyści majątkowych. W razie podjęcia decyzji zniszczeniu oryginalnego egzemplarza utworu plastycznego znajdującego się miejscu publicznie dostępnym, właściciel jest obowiązany złożyć twórcy utworu lub jego bliskim ofertę sprzedaży, jeżeli porozumienie się z nim, celem złożenia oferty, jest możliwe. Górną granicę ceny określa wartość materiałów. Jeżeli sprzedaż nie jest możliwa, właściciel jest obowiązany umożliwić twórcy sporządzenie kopii bądź zależnie od rodzaju utworu stosownej dokumentacji.
 
 **Art. 33.** Wolno rozpowszechniać:
+
+- **1)** utwory wystawione na stałe na ogólnie dostępnych drogach, ulicach, placach lub ogrodach, jednakże nie do tego samego użytku;
+- **2)** (uchylony)
+- **3)** encyklopediach i atlasach opublikowane utwory plastyczne i fotograficzne, ile nawiązanie porozumienia z twórcą celem uzyskania jego zezwolenia napotyka trudne do przezwyciężenia przeszkody. Twórcy przysługuje wówczas prawo do wynagrodzenia.
 
 **Art. 33.**
 
@@ -439,6 +475,9 @@ Do obowiązujących dniu wejścia życie niniejszej ustawy umów przeniesienie a
 5. Postanowienia umów zawartych między uprawnionym, któremu przysługują autorskie prawa majątkowe, a beneficjentem, osobą działającą jego imieniu lub upoważnionym podmiotem sprzeczne z ust. lub 2 są nieważne.
 
 **Art. 35b.** Upoważniony podmiot podejmuje:
+
+- **1)** z zachowaniem należytej staranności działania, których 35a ust. 2, i utrwala ich przebieg;
+- **2)** odpowiednie działania służące zniechęcaniu do niedozwolonego zwielokrotniania i rozpowszechniania kopii utworów dostępnych formatach.
 
 **Art. 35c.**
 
@@ -493,7 +532,7 @@ Do obowiązujących dniu wejścia życie niniejszej ustawy umów przeniesienie a
 
 **Art. 35².**
 
-1. Wynagrodzenie za użyczanie przysługuje po złożeniu podmiot, którym 28 ust. 5, pisemnego oświadczenia woli otrzymywania wynagrodzenia za użyczanie, zwanego dalej „oświadczeniem”. Oświadczenie składa się organizacji zbiorowego zarządzania, 35 ust. 1. Oświadczenie wywołuje skutki danym roku, jeżeli zostanie złożone terminie do dnia 31 sierpnia danego roku. Złożone oświadczenie wywołuje skutki latach następnych do momentu jego cofnięcia. twa narodowego na swojej stronie podmiotowej Biuletynie Informacji Publicznej, ogłaszają informację możliwości składania oświadczeń.
+1. Wynagrodzenie za użyczanie przysługuje po złożeniu podmiot, którym 28 ust. 5, pisemnego oświadczenia woli otrzymywania wynagrodzenia za użyczanie, zwanego dalej „oświadczeniem”. Oświadczenie składa się organizacji zbiorowego zarządzania, 35 ust. 1. Oświadczenie wywołuje skutki danym roku, jeżeli zostanie złożone terminie do dnia 31 sierpnia danego roku. Złożone oświadczenie wywołuje skutki latach następnych do momentu jego cofnięcia. 35 ust. 1, na swojej stronie internetowej oraz minister właściwy do spraw kultury i ochrony dziedzictwa narodowego na swojej stronie podmiotowej Biuletynie Informacji Publicznej, ogłaszają informację możliwości składania oświadczeń.
 
 4. Wysokość wynagrodzenia za użyczanie należnego danym roku kalendarzowym poszczególnym podmiotom, których 28 ust. 5, jest określana organizację zbiorowego zarządzania, 35 ust. 1, proporcjonalnie do liczby użyczeń egzemplarzy utworów tych podmiotów biblioteki publiczne roku poprzednim, oraz oparciu oświadczenia złożone te podmioty terminie do dnia 31 sierpnia danego roku kalendarzowego i latach poprzednich.
 
@@ -508,6 +547,13 @@ Do obowiązujących dniu wejścia życie niniejszej ustawy umów przeniesienie a
 1. Podstawę do obliczenia wysokości wynagrodzenia za użyczanie, które przypada poszczególnym podmiotom, których 28 ust. 5, stanowią informacje dotyczące użyczeń egzemplarzy utworów danym roku kalendarzowym, przekazywane biblioteki publiczne ujęte wykazie, którym 35 2, organizacji zbiorowego zarządzania, 35 ust. 1, oraz ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego, terminie 3 miesięcy od zakończenia roku kalendarzowego, za który następuje wypłata wynagrodzenia za użyczanie. Na podstawie informacji, których ust. 1, organizacja zbiorowego zarządzania, 35 ust. 1, dokonuje proporcjonalnego podziału kwoty przekazanej na wynagrodzenie za użyczanie należne poszczególnym podmiotom, których 28 ust. 5, a następnie, nie później niż do końca danego roku kalendarzowego dokonuje jego wypłaty.
 
 **Art. 35⁴.** Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, po zasięgnięciu opinii organizacji zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi, stowarzyszeń twórców, organizacji zrzeszających biblioteki publiczne oraz właściwych izb gospodarczych, określi, drodze rozporządzenia:
+
+- **1)** procedurę podziału i wypłaty wynagrodzenia za użyczanie, mając na uwadze liczbę użyczeń egzemplarzy utworów pozostających zbiorach bibliotek publicznych oraz rodzaje kosztów, których 35 ust. 9, a także konieczność zapewnienia, aby koszty te były uzasadnione i udokumentowane a wydatki dokonywane sposób efektywny i przejrzysty;
+- **2)** zakres informacji, których 35 ust. 1, oraz wykaz bibliotek publicznych obowiązanych do ich przekazywania, mając na uwadze konieczność szacunkowego określenia liczby użyczeń egzemplarzy utworów pozostających zbiorach bibliotek publicznych z uwzględnieniem wpływu kryterium geograficznego, tym wielkości miejscowości, których działają wskazane biblioteki publiczne, na zróżnicowanie tej liczby;
+- **3)** wymagany zakres informacji, zawartych oświadczeniu, którym 35 ust. 1, mając na uwadze konieczność przekazania organizacji zbiorowego zarządzania, 35 ust. 1, danych umożliwiających wypłatę wynagrodzenia za użyczanie, tym imienia i nazwiska lub pseudonimu twórcy lub nazwy innego podmiotu, którym 28 ust. 5, oraz numeru rachunku bankowego, na który ma zostać wypłacone to wynagrodzenie;
+- **4)** wymagany zakres informacji umieszczanych ogłoszeniu konkursie, którym 35 ust. 2, mając na uwadze, że minimalny zakres tych informacji ma obejmować co najmniej warunki uczestnictwa konkursie, termin składania ofert i kryteria ich oceny;
+- **5)** zakres dokumentacji konkursowej, mając na uwadze, że zakres tej dokumentacji ma co najmniej określać warunki uczestnictwa konkursie, którym 35 ust. 2, wymagania, jakim ma odpowiadać oferta i kryteria oceny ofert;
+- **6)** tryb postępowania konkursowego, mając na uwadze jego przejrzystość, rzetelność i obiektywność. Dozwolony użytek utworów osieroconych
 
 **Art. 35⁵.**
 
@@ -583,11 +629,15 @@ Do obowiązujących dniu wejścia życie niniejszej ustawy umów przeniesienie a
 
 **Art. 35¹⁴.** Przepisy oddziałów 6 i 6 nie mają zastosowania do zbioru utworów, co do którego wyniku działań, których 35 , stwierdzono, że składa się głównej mierze z:
 
+- **1)** utworów audiowizualnych, których producenci mają siedzibę albo miejsce stałego pobytu państwie innym niż państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia Wolnym Handlu (EFTA) strona umowy Europejskim Obszarze Gospodarczym,
+- **2)** utworów innych niż utwory audiowizualne, opublikowanych po raz pierwszy albo przypadku braku publikacji nadanych po raz pierwszy państwie, którym 1,
+- **3)** utworów, do których autorskie prawa majątkowe przysługują obywatelom państwa, którym 1, jeżeli mimo podjęcia działań, których 35 , nie można było ustalić tego państwa zgodnie z i 2 chyba że istnieje organizacja zbiorowego zarządzania reprezentatywna odniesieniu do utworów, pól eksploatacji oraz kategorii uprawnionych tego państwa.
+
 **Art. 35¹⁵.** Korzystanie, którym 35 i 35 ust. 1, jest dozwolone, jeżeli nie odbywa się celu osiągnięcia bezpośredniej lub pośredniej korzyści majątkowej. Instytucje dziedzictwa kulturowego mogą uzyskiwać przychody z takiego korzystania, ile zostaną one przeznaczone na pokrycie bezpośrednich kosztów digitalizacji, rozpowszechniania utworów uznanych za niedostępne handlu lub kosztów uzyskania licencji na korzystanie z tych utworów.
 
 **Art. 35¹⁶.**
 
-1. Instytucja dziedzictwa kulturowego zainteresowana korzystaniem z utworów niedostępnych handlu lub organizacja zbiorowego zarządzania zainteresowana zawarciem umowy licencji niewyłącznej, 67 ust. 2, uprawniającej do takiego korzystania składa wniosek do ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego dokonanie rejestracji tego podmiotu portalu utworów niedostępnych handlu prowadzonym Urząd Unii Europejskiej ds. Własności Intelektualnej ramach Europejskiego Obserwatorium do spraw Naruszeń Praw Własności Intelektualnej, zwanym dalej „portalem”. Wniosek jest składany za pomocą systemu teleinformatycznego służącego do obsługi portalu. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego niezwłocznie rejestruje wnioskodawcę portalu.
+1. Instytucja dziedzictwa kulturowego zainteresowana korzystaniem z utworów niedostępnych handlu lub organizacja zbiorowego zarządzania zainteresowana zawarciem umowy licencji niewyłącznej, 67 ust. 2, uprawniającej do takiego korzystania składa wniosek do ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego dokonanie rejestracji tego podmiotu portalu utworów niedostępnych handlu prowadzonym Urząd Unii Europejskiej ds. Własności Intelektualnej ramach Europejskiego Obserwatorium do spraw Naruszeń Praw Własności Intelektualnej, zwanym dalej „portalem”. Wniosek jest składany za pomocą systemu teleinformatycznego służącego do obsługi portalu. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego niezwłocznie rejestruje wnioskodawcę portalu. wnioskodawcy portalu lub dokonania zmiany wpisu przypadku, gdy:
 
 - **1)** wniosek nie pochodzi od podmiotu, którym ust. 1;
 - **2)** wniosek dotyczy korzystania z utworu wykraczającego poza zakres zezwolenia wnioskodawcy na zbiorowe zarządzanie prawami autorskimi lub prawami pokrewnymi lub określony statutem zakres działalności instytucji dziedzictwa kulturowego.
@@ -616,7 +666,14 @@ Do obowiązujących dniu wejścia życie niniejszej ustawy umów przeniesienie a
 
 ##### Oddział 6 Korzystanie z utworów niedostępnych handlu na podstawie umowy licencji niewyłącznej zawartej z reprezentatywną organizacją zbiorowego zarządzania
 
-**Art. 35¹⁹.** Na zasadach określonych niniejszym oddziale i oddziale 6 instytucje dziedzictwa kulturowego mogą korzystać z utworów niedostępnych handlu, znajdujących się na stałe ich zbiorach, na podstawie umowy licencji niewyłącznej, 67 ust. 2, zawartej z reprezentatywną organizacją zbiorowego zarządzania, 5 ust. 2a ustawy zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi. talu następujące dane:
+**Art. 35¹⁹.** Na zasadach określonych niniejszym oddziale i oddziale 6 instytucje dziedzictwa kulturowego mogą korzystać z utworów niedostępnych handlu, znajdujących się na stałe ich zbiorach, na podstawie umowy licencji niewyłącznej, 67 ust. 2, zawartej z reprezentatywną organizacją zbiorowego zarządzania, 5 ust. 2a ustawy zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi. niedostępnego handlu i na sześć miesięcy przed jego rozpowszechnieniem na podstawie 35 , zamieszcza tym portalu następujące dane:
+
+- **1)** imię i nazwisko oraz pseudonim twórcy albo wzmiankę anonimowości ile są dostępne;
+- **2)** imię i nazwisko albo nazwę uprawnionego, któremu zakresie pól eksploatacji objętych umową licencji niewyłącznej, 35 , przysługują autorskie prawa majątkowe do utworu ile są dostępne;
+- **3)** tytuł utworu, a przypadku jego braku inne informacje umożliwiające jego identyfikację ile są dostępne;
+- **4)** imię i nazwisko albo nazwę producenta lub wydawcy utworu ile są dostępne;
+- **5)** informację zakresie korzystania, do którego uprawnia umowa licencji niewyłącznej, 35 , zawarta z instytucją dziedzictwa kulturowego i objętych nią terytoriach;
+- **6)** nazwy, siedziby, adresy oraz adresy poczty elektronicznej stron umowy licencji niewyłącznej, 35 . W przypadku zawarcia organizację zbiorowego zarządzania kolejnej umowy licencji niewyłącznej, 35 , dotyczącej tego samego utworu i uprawnionego organizacja zbiorowego zarządzania uzupełnia wpis portalu dane, których ust. 5 i 6, dotyczące tej umowy. Rozpowszechnianie na podstawie tej umowy można rozpocząć po upływie sześciu miesięcy od dnia uzupełnienia wpisu portalu.
 
 **Art. 35²¹.**
 
@@ -630,11 +687,24 @@ Do obowiązujących dniu wejścia życie niniejszej ustawy umów przeniesienie a
 
 **Art. 35²³.** Instytucja dziedzictwa kulturowego zarejestrowana portalu przed rozpoczęciem zwielokrotniania utworu niedostępnego handlu i na sześć miesięcy przed dniem jego publicznego udostępnienia na podstawie 35 ust. zamieszcza tym portalu następujące dane:
 
+- **1)** imię i nazwisko oraz pseudonim twórcy albo wzmiankę anonimowości ile są dostępne;
+- **2)** imię i nazwisko albo nazwę uprawnionego, któremu zakresie pól eksploatacji wymienionych 35 ust. przysługują autorskie prawa majątkowe do utworu ile są dostępne;
+- **3)** tytuł utworu, a przypadku jego braku inne informacje umożliwiające jego identyfikację ile są dostępne;
+- **4)** imię i nazwisko albo nazwę producenta lub wydawcy utworu ile są dostępne;
+- **5)** informację zakresie korzystania z utworu niedostępnego handlu i terytoriach objętych tym korzystaniem;
+- **6)** swój adres i siedzibę oraz adres poczty elektronicznej.
+
 **Art. 35.** Uznaje się, że korzystanie, którym 35 ust. 1, ma miejsce wyłącznie państwie członkowskim Unii Europejskiej albo państwie członkowskim Europejskiego Porozumienia Wolnym Handlu (EFTA) stronie umowy Europejskim Obszarze Gospodarczym, którym korzystająca instytucja dziedzictwa kulturowego ma siedzibę.
 
 **Art. 35²⁵.** Do korzystania, którym niniejszym oddziale, stosuje się przepisy 34 i 35. Czas trwania autorskich praw majątkowych
 
 **Art. 36.** Z zastrzeżeniem wyjątków przewidzianych ustawie, autorskie prawa majątkowe gasną z upływem lat siedemdziesięciu:
+
+- **1)** od śmierci twórcy, a do utworów współautorskich od śmierci współtwórcy, który przeżył pozostałych;
+- **2)** odniesieniu do utworu, którego twórca nie jest znany od daty pierwszego rozpowszechnienia, chyba że pseudonim nie pozostawia wątpliwości co do tożsamości autora lub jeżeli autor ujawnił swoją tożsamość;
+- **3)** odniesieniu do utworu, do którego autorskie prawa majątkowe przysługują z mocy ustawy innej osobie niż twórca od daty rozpowszechnienia utworu, a gdy utwór nie został rozpowszechniony od daty jego ustalenia;
+- **4)** odniesieniu do utworu audiowizualnego od śmierci najpóźniej zmarłej z wymienionych osób: głównego reżysera, autora scenariusza, autora dialogów, kompozytora muzyki skomponowanej do utworu audiowizualnego;
+- **5)** odniesieniu do utworu słowno-muzycznego, jeżeli utwór słowny i utwór muzyczny zostały stworzone specjalnie dla danego utworu słowno-muzycznego od śmierci później zmarłej z wymienionych osób: autora utworu słownego albo kompozytora utworu muzycznego.
 
 **Art. 37.** Jeżeli bieg terminu wygaśnięcia autorskich praw majątkowych rozpoczyna się od rozpowszechnienia utworu, a utwór rozpowszechniono częściach, odcinkach, fragmentach lub wkładkach, bieg terminu liczy się oddzielnie od daty rozpowszechnienia każdej z wymienionych części.
 
@@ -665,7 +735,7 @@ Do obowiązujących dniu wejścia życie niniejszej ustawy umów przeniesienie a
 
 1. Jeżeli z umowy nie wynika, że przeniesienie autorskich praw majątkowych lub udzielenie licencji nastąpiło nieodpłatnie, twórcy przysługuje prawo do wynagrodzenia. Wynagrodzenie musi być godziwe i odpowiednie do zakresu udzielonego prawa, charakteru i zakresu korzystania oraz korzyści wynikających z korzystania z utworu.
 
-3. Domniemywa się, że wynagrodzenie proporcjonalne do przychodów z korzystania z utworu spełnia wymogi, których ust. Przepisu ust. nie stosuje się do umów korzystanie z utworów zawieranych z organizacją zbiorowego zarządzania prawami autorskimi albo z niezależnym podmiotem zarządzającym, którym 2 ust. 3 ustawy zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi.
+3. Domniemywa się, że wynagrodzenie proporcjonalne do przychodów z korzystania z utworu spełnia wymogi, których ust. autorskich praw majątkowych lub licencjobiorcy, twórca może żądać stosownego podwyższenia wynagrodzenia sąd. Przepisu ust. nie stosuje się do umów korzystanie z utworów zawieranych z organizacją zbiorowego zarządzania prawami autorskimi albo z niezależnym podmiotem zarządzającym, którym 2 ust. 3 ustawy zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi.
 
 **Art. 45.** Jeżeli umowa nie stanowi inaczej, twórcy przysługuje odrębne wynagrodzenie za korzystanie z utworu na każdym odrębnym polu eksploatacji.
 
@@ -695,9 +765,13 @@ Do obowiązujących dniu wejścia życie niniejszej ustawy umów przeniesienie a
 
 **Art. 48.**
 
-1. Jeżeli wynagrodzenie twórcy jest określone procentowo od ceny sprzedaży egzemplarzy utworu, a cena ta ulega podwyższeniu, twórcy należy się umówiony procent od egzemplarzy sprzedanych po podwyższonej cenie. Jednostronne obniżenie ceny sprzedaży egzemplarzy przed upływem roku od przystąpienia do rozpowszechniania utworu nie wpływa na wysokość wynagrodzenia. Strony mogą przedłużyć ten termin. Następca prawny, choćby nabył całość autorskich praw majątkowych, nie może, bez zgody twórcy, czynić zmian utworze, chyba że są one spowodowane oczywistą koniecznością, a twórca nie miałby słusznej podstawy im się sprzeciwić. Dotyczy to odpowiednio utworów, których czas ochrony autorskich praw majątkowych upłynął.
+1. Jeżeli wynagrodzenie twórcy jest określone procentowo od ceny sprzedaży egzemplarzy utworu, a cena ta ulega podwyższeniu, twórcy należy się umówiony procent od egzemplarzy sprzedanych po podwyższonej cenie. Jednostronne obniżenie ceny sprzedaży egzemplarzy przed upływem roku od przystąpienia do rozpowszechniania utworu nie wpływa na wysokość wynagrodzenia. Strony mogą przedłużyć ten termin. znaczeniem utworu oraz przyjętymi zwyczajami. Następca prawny, choćby nabył całość autorskich praw majątkowych, nie może, bez zgody twórcy, czynić zmian utworze, chyba że są one spowodowane oczywistą koniecznością, a twórca nie miałby słusznej podstawy im się sprzeciwić. Dotyczy to odpowiednio utworów, których czas ochrony autorskich praw majątkowych upłynął.
 
 **Art. 50.** Odrębne pola eksploatacji stanowią szczególności:
+
+- **1)** zakresie utrwalania i zwielokrotniania utworu wytwarzanie określoną techniką egzemplarzy utworu, tym techniką drukarską, reprograficzną, zapisu magnetycznego oraz techniką cyfrową;
+- **2)** zakresie obrotu oryginałem albo egzemplarzami, na których utwór utrwalono wprowadzanie do obrotu, użyczenie lub najem oryginału albo egzemplarzy;
+- **3)** zakresie rozpowszechniania utworu sposób inny niż określony 2 publiczne wykonanie, wystawienie, wyświetlenie, odtworzenie oraz nadawanie i reemitowanie, a także publiczne udostępnianie utworu taki sposób, aby każdy mógł mieć do niego dostęp miejscu i czasie siebie wybranym.
 
 **Art. 51.**
 
@@ -731,7 +805,7 @@ Do obowiązujących dniu wejścia życie niniejszej ustawy umów przeniesienie a
 
 3. Jeżeli odstąpienie od umowy lub jej wypowiedzenie następuje po przyjęciu utworu, skuteczność odstąpienia lub wypowiedzenia może być drugą stronę umowy uzależniona od zabezpieczenia kosztów poniesionych nią związku z zawartą umową. Nie można jednak żądać zwrotu kosztów, gdy zaniechanie rozpowszechniania jest następstwem okoliczności, za które twórca nie ponosi odpowiedzialności.
 
-4. Przepisu ust. nie stosuje się do utworów architektonicznych i architektoniczno-urbanistycznych, audiowizualnych oraz utworów zamówionych zakresie ich eksploatacji utworze audiowizualnym. uzgodnionym terminie, twórca może wyznaczyć mu dodatkowy termin na rozpowszechnienie utworu, nie krótszy niż sześć miesięcy, z zastrzeżeniem że razie bezskutecznego upływu tego terminu będzie uprawniony do odstąpienia od umowy lub jej wypowiedzenia. Niezależnie od terminu uzgodnionego umowie, twórca może odstąpić od umowy lub ją wypowiedzieć, jeżeli nabywca autorskich praw majątkowych lub licencjobiorca, któremu udzielono licencji wyłącznej, 67 ust. 2, zobowiązany do rozpowszechnienia utworu nie przystąpi do jego rozpowszechnienia terminie pięciu lat, a przypadku utworów architektonicznych, architektoniczno-urbanistycznych i urbanistycznych terminie dwudziestu lat od dnia przeniesienia autorskich praw majątkowych lub udzielenia licencji wyłącznej, 67 ust. Przed odstąpieniem od umowy lub jej wypowiedzeniem twórca wyznacza dodatkowy termin na rozpowszechnienie utworu, nie krótszy niż sześć miesięcy.
+4. Przepisu ust. nie stosuje się do utworów architektonicznych i architektoniczno-urbanistycznych, audiowizualnych oraz utworów zamówionych zakresie ich eksploatacji utworze audiowizualnym. 67 ust. 2, zobowiązany do rozpowszechnienia utworu nie przystąpi do jego rozpowszechnienia uzgodnionym terminie, twórca może wyznaczyć mu dodatkowy termin na rozpowszechnienie utworu, nie krótszy niż sześć miesięcy, z zastrzeżeniem że razie bezskutecznego upływu tego terminu będzie uprawniony do odstąpienia od umowy lub jej wypowiedzenia. Niezależnie od terminu uzgodnionego umowie, twórca może odstąpić od umowy lub ją wypowiedzieć, jeżeli nabywca autorskich praw majątkowych lub licencjobiorca, któremu udzielono licencji wyłącznej, 67 ust. 2, zobowiązany do rozpowszechnienia utworu nie przystąpi do jego rozpowszechnienia terminie pięciu lat, a przypadku utworów architektonicznych, architektoniczno-urbanistycznych i urbanistycznych terminie dwudziestu lat od dnia przeniesienia autorskich praw majątkowych lub udzielenia licencji wyłącznej, 67 ust. Przed odstąpieniem od umowy lub jej wypowiedzeniem twórca wyznacza dodatkowy termin na rozpowszechnienie utworu, nie krótszy niż sześć miesięcy.
 
 3. Twórca, który udzielił licencji wyłącznej, 67 ust. 2, może po upływie dodatkowego terminu na rozpowszechnienie utworu, którym ust. i 2, zamiast wypowiedzieć umowę, udzielić licencji innym osobom. Licencja wyłączna staje się wówczas licencją niewyłączną, 67 ust.
 
@@ -804,7 +878,7 @@ Do obowiązujących dniu wejścia życie niniejszej ustawy umów przeniesienie a
 
 **Art. 71.** Producent może bez zgody twórców utworu audiowizualnego dokonywać tłumaczeń na różne wersje językowe.
 
-**Art. 72.** (uchylony)
+**Art. 72.** (uchylony) wizualnego.
 
 **Art. 73.**
 
@@ -946,6 +1020,11 @@ Do obowiązujących dniu wejścia życie niniejszej ustawy umów przeniesienie a
 
 **Art. 89.** Jeżeli okresie, którym 89 ust. 1, nastąpiła publikacja lub inne rozpowszechnienie artystycznego wykonania utrwalonego na fonogramie, prawo, którym 86 ust. 2 oraz ust. 2, wygasa z upływem siedemdziesięciu lat od tego zdarzenia, a gdy miały miejsce obydwa od tego z nich, które miało miejsce wcześniej.
 
+- **1)** dokonane zostały obywatela polskiego albo osobę zamieszkałą na terytorium Rzeczypospolitej Polskiej lub ) dokonane zostały obywatela państwa członkowskiego Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia Wolnym Handlu (EFTA) stron umowy Europejskim Obszarze Gospodarczym, lub
+- **2)** zostały ustalone po raz pierwszy na terytorium Rzeczypospolitej Polskiej, lub
+- **3)** zostały opublikowane po raz pierwszy na terytorium Rzeczypospolitej Polskiej, lub
+- **4)** są chronione na podstawie umów międzynarodowych, zakresie, jakim ich ochrona wynika z tych umów.
+
 **Art. 91.** Domniemywa się, że kierownik zespołu jest umocowany do reprezentowania praw do zespołowego artystycznego wykonania. Domniemanie to stosuje się odpowiednio do części artystycznego wykonania mających samodzielne znaczenie.
 
 **Art. 92.** Do artystycznych wykonań stosuje się odpowiednio przepisy 8–10, 12, 18, 21–21 , 41–45, 47–49, 52–55, 57–59, 62–68, 71 i art.78.
@@ -1010,7 +1089,7 @@ Do obowiązujących dniu wejścia życie niniejszej ustawy umów przeniesienie a
 
 8. Artysta wykonawca lub organizacja zbiorowego zarządzania, ust. 4, mogą domagać się od producenta fonogramu udzielenia wszelkich informacji oraz udostępnienia dokumentów niezbędnych do określenia wysokości należnego im dodatkowego wynagrodzenia, którym ust. 1, i jego wypłaty.
 
-9. Organizacja zbiorowego zarządzania, ust. 4, ma prawo przeznaczyć z dodatkowego wynagrodzenia, którym ust. 1, nie więcej niż 10 % jego wartości na pokrycie ponoszonych nią uzasadnionych i udokumentowanych kosztów dochodzenia oraz wypłaty tego wynagrodzenia. drodze rozporządzenia:
+9. Organizacja zbiorowego zarządzania, ust. 4, ma prawo przeznaczyć z dodatkowego wynagrodzenia, którym ust. 1, nie więcej niż 10 % jego wartości na pokrycie ponoszonych nią uzasadnionych i udokumentowanych kosztów dochodzenia oraz wypłaty tego wynagrodzenia. wego zarządzania prawami pokrewnymi do artystycznych wykonań oraz organizacji producentów fonogramów, określi, drodze rozporządzenia:
 
 - **1)** sposób pobierania dodatkowego wynagrodzenia, którym ust. 1, dokonywania z niego potrąceń oraz jego wypłaty, mając na uwadze konieczność zapewnienia, aby pobór i wypłata tego wynagrodzenia były dokonywane sposób efektywny i przejrzysty, a potrącenia były uzasadnione i udokumentowane;
 - **2)** wymagany zakres informacji umieszczanych ogłoszeniu konkursie, którym ust. 4, mając na uwadze, że minimalny zakres tych informacji ma obejmować co najmniej warunki uczestnictwa konkursie, termin składania ofert i kryteria ich oceny;
@@ -1021,17 +1100,32 @@ Do obowiązujących dniu wejścia życie niniejszej ustawy umów przeniesienie a
 
 **Art. 96.** Przepisy ustawy stosuje się do fonogramów i wideogramów:
 
+- **1)** których producent ma na terytorium Rzeczypospolitej Polskiej miejsce zamieszkania lub siedzibę, lub ) których producent ma na terytorium Europejskiego Obszaru Gospodarczego miejsce zamieszkania lub siedzibę, lub
+- **2)** które są chronione na podstawie umów międzynarodowych, zakresie, jakim ich ochrona wynika z tych umów.
+
 ##### Oddział 3 Prawa do nadań programów
 
 **Art. 97.** Bez uszczerbku dla praw twórców, artystów wykonawców, producentów fonogramów i wideogramów, organizacji radiowej lub telewizyjnej przysługuje wyłączne prawo do rozporządzania i korzystania ze swoich nadań programów zakresie:
+
+- **1)** utrwalania;
+- **2)** zwielokrotniania określoną techniką;
+- **3)** nadawania inną organizację radiową lub telewizyjną;
+- **4)** reemitowania;
+- **5)** wprowadzania do obrotu ich utrwaleń;
+- **6)** odtwarzania miejscach dostępnych za opłatą wstępu;
+- **7)** udostępniania ich utrwaleń taki sposób, aby każdy mógł mieć do nich dostęp miejscu i czasie siebie wybranym.
 
 **Art. 98.** Prawo, którym 97, gaśnie z upływem pięćdziesięciu lat następujących po roku pierwszego nadania programu.
 
 **Art. 99.** Przepisy ustawy stosuje się do nadań programów:
 
+- **1)** organizacji radiowej i telewizyjnej, która ma siedzibę na terytorium Rzeczypospolitej Polskiej lub
+- **2)** organizacji radiowej i telewizyjnej, która ma siedzibę na terytorium Europejskiego Obszaru Gospodarczego;
+- **3)** które są chronione na podstawie umów międzynarodowych, zakresie, jakim ich ochrona wynika z tych umów.
+
 ##### Oddział 3 Prawa do pierwszych wydań oraz wydań naukowych i krytycznych
 
-**Art. 99.** Wydawcy, który jako pierwszy sposób zgodny z prawem opublikował lub inny sposób rozpowszechnił utwór, którego czas ochrony już wygasł, a jego egzemplarze nie były jeszcze publicznie udostępniane, przysługuje wyłączne prawo do rozporządzania tym utworem i korzystania z niego na wszystkich polach eksploatacji okres dwudziestu pięciu lat od daty pierwszej publikacji lub rozpowszechnienia. kresie, którym 50 i 2, okres trzydziestu lat od daty publikacji.
+**Art. 99.** Wydawcy, który jako pierwszy sposób zgodny z prawem opublikował lub inny sposób rozpowszechnił utwór, którego czas ochrony już wygasł, a jego egzemplarze nie były jeszcze publicznie udostępniane, przysługuje wyłączne prawo do rozporządzania tym utworem i korzystania z niego na wszystkich polach eksploatacji okres dwudziestu pięciu lat od daty pierwszej publikacji lub rozpowszechnienia. naukowe, niebędące utworem, przysługuje wyłączne prawo do rozporządzania takim wydaniem i korzystania z niego zakresie, którym 50 i 2, okres trzydziestu lat od daty publikacji.
 
 **Art. 99³.** Przepisy 99 i 99 stosuje się odpowiednio do utworów i tekstów, które ze względu na czas ich powstania lub charakter nigdy nie były objęte ochroną prawa autorskiego.
 
@@ -1073,7 +1167,7 @@ Do obowiązujących dniu wejścia życie niniejszej ustawy umów przeniesienie a
 
 **Art. 99⁹.**
 
-1. Twórcy utworów zamieszczonych publikacji prasowej mają prawo do 50 % wynagrodzenia należnego wydawcy z tytułu korzystania z prawa, którym 99 ust. Wynagrodzenie, którym ust. 1, wydawca wypłaca twórcy nie później niż terminie 30 dni od dnia otrzymania tego wynagrodzenia wydawcę. członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia Wolnym Handlu (EFTA) strony umowy Europejskim Obszarze Gospodarczym.
+1. Twórcy utworów zamieszczonych publikacji prasowej mają prawo do 50 % wynagrodzenia należnego wydawcy z tytułu korzystania z prawa, którym 99 ust. Wynagrodzenie, którym ust. 1, wydawca wypłaca twórcy nie później niż terminie 30 dni od dnia otrzymania tego wynagrodzenia wydawcę. na terytorium Rzeczypospolitej Polskiej, oraz wydawcy, który ma miejsce zamieszkania albo siedzibę na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia Wolnym Handlu (EFTA) strony umowy Europejskim Obszarze Gospodarczym.
 
 **Art. 99¹¹.**
 
@@ -1110,7 +1204,7 @@ Do obowiązujących dniu wejścia życie niniejszej ustawy umów przeniesienie a
 
 **Art. 99¹⁴.**
 
-1. Strona ma prawo złożenia do sądu wniosku zatwierdzenie ugody zawartej przed mediatorem i nadanie jej klauzuli wykonalności zgodnie z 183 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego. Do wniosku strona dołącza protokół z przeprowadzonej mediacji. Do ugody zatwierdzonej sąd stosuje się 183 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego. korzystanie z prawa, którym 99 ust. 2, lub sposobie ustalenia wysokości tego wynagrodzenia. Wniosek wydanie orzeczenia zawiera informacje i dane, których 99 ust. 4, oraz określa zakres żądania. Wniosek zawiera również inne, będące posiadaniu strony, dane i informacje niezbędne do wydania orzeczenia.
+1. Strona ma prawo złożenia do sądu wniosku zatwierdzenie ugody zawartej przed mediatorem i nadanie jej klauzuli wykonalności zgodnie z 183 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego. Do wniosku strona dołącza protokół z przeprowadzonej mediacji. Do ugody zatwierdzonej sąd stosuje się 183 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego. od dnia doręczenia protokołu z przeprowadzonej mediacji, wniosek wydanie orzeczenia wysokości wynagrodzenia za korzystanie z prawa, którym 99 ust. 2, lub sposobie ustalenia wysokości tego wynagrodzenia. Wniosek wydanie orzeczenia zawiera informacje i dane, których 99 ust. 4, oraz określa zakres żądania. Wniosek zawiera również inne, będące posiadaniu strony, dane i informacje niezbędne do wydania orzeczenia.
 
 3. Orzeczenie wysokości wynagrodzenia obejmuje okres od dnia rozpoczęcia korzystania usługodawcę z publikacji prasowej zakresie objętym prawem, którym 99 ust. 2, do dnia wydania orzeczenia.
 
@@ -1149,7 +1243,7 @@ Do obowiązujących dniu wejścia życie niniejszej ustawy umów przeniesienie a
 
 4. Prezes UKE przekazuje właściwemu sądowi akta sprawy wraz ze sprzeciwem.
 
-5. Sprawa ze sprzeciwu jest sprawą własności intelektualnej.
+5. Sprawa ze sprzeciwu jest sprawą własności intelektualnej. orzeczenia Prezesa UKE do czasu rozstrzygnięcia sprawy.
 
 7. Sprzeciw może dotyczyć całości orzeczenia albo jego części lub rozstrzygnięcia kosztach.
 
@@ -1189,7 +1283,7 @@ Do obowiązujących dniu wejścia życie niniejszej ustawy umów przeniesienie a
 
 1. Kto przywłaszcza sobie autorstwo albo wprowadza błąd co do autorstwa całości lub części cudzego utworu albo artystycznego wykonania, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 3. Tej samej karze podlega, kto rozpowszechnia bez podania nazwiska lub pseudonimu twórcy cudzy utwór wersji oryginalnej albo postaci opracowania, artystyczne wykonanie albo publicznie zniekształca taki utwór, artystyczne wykonanie, fonogram, wideogram lub nadanie.
 
-3. Kto celu osiągnięcia korzyści majątkowej inny sposób niż określony ust. lub 2 narusza cudze prawa autorskie lub prawa pokrewne określone 16, 17, 18, 19 ust. 1, 19 , 86, 94 ust. 4 lub 97, albo nie wykonuje obowiązków określonych 19 ust. 2 lub 20 ust. 1–4, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku. podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat Jeżeli sprawca dopuszcza się czynu określonego ust. celu osiągnięcia korzyści majątkowej, podlega karze pozbawienia wolności do lat 3.
+3. Kto celu osiągnięcia korzyści majątkowej inny sposób niż określony ust. lub 2 narusza cudze prawa autorskie lub prawa pokrewne określone 16, 17, 18, 19 ust. 1, 19 , 86, 94 ust. 4 lub 97, albo nie wykonuje obowiązków określonych 19 ust. 2 lub 20 ust. 1–4, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku. postaci opracowania, artystyczne wykonanie, fonogram, wideogram lub nadanie, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat Jeżeli sprawca dopuszcza się czynu określonego ust. celu osiągnięcia korzyści majątkowej, podlega karze pozbawienia wolności do lat 3.
 
 3. Jeżeli sprawca uczynił sobie z popełniania przestępstwa określonego ust. stałe źródło dochodu albo działalność przestępną, określoną ust. 1, organizuje lub nią kieruje, podlega karze pozbawienia wolności od 6 miesięcy do lat 5.
 

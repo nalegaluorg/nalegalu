@@ -22,10 +22,40 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1990-03-23 |
 | Data wydania | 1990-04-06 |
+| Wejście w życie | 1990-04-06 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900210126) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/126/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. Nr 24, poz. 151, z 1975 r. Nr 16, poz. 91 oraz z 1982 r. Nr 30, poz. 210 i Nr 45, poz. 289) wprowadza się następujące zmiany:
+
+- **1)** w art. 2: w § 1: – pkt 1 otrzymuje brzmienie: „ 1) podatki, opłaty i inne należności, do których stosuje się przepisy o zobowiązaniach podatkowych, oraz grzywny i kary pieniężne, a także inne należności pieniężne pozostające w zakresie właściwości organów administracji państwowej lub przekazane do egzekucji administracyjnej na podstawie przepisu szczególnego, ” – dodaje się nowy pkt 2 w brzmieniu: „ 2) wpłaty na rzecz funduszy celowych utworzonych na podstawie odrębnych przepisów ” , – dotychczasowy pkt 2 otrzymuje oznaczenie pkt 3, w § 2 wyrazy „albo komisję arbitrażową” oraz „lub komisja arbitrażowa” skreśla się;
+    - **a)**
+    - **b)**
+
+- **2)** w art. 6 dotychczasowy przepis oznacza się jako § 1 i dodaje się § 2 w brzmieniu: „
+
+§ 2. Minister Finansów określi sposób postępowania wierzycieli należności pieniężnych przy podejmowaniu czynności, o których mowa w § 1. ” ;
+
+- **3)** w art. 8 w § 1: w pkt 1 po wyrazie „ubranie” wyraz „codzienne” i po wyrazie „członków” wyraz „jego” skreśla się, w pkt 2 po wyrazie „członków” wyraz „jego” skreśla się, w pkt 3 po wyrazie „członków” wyraz „jego” skreśla się, pkt 4 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **4)** narzędzia i inne przedmioty niezbędne do pracy zarobkowej wykonywanej osobiście przez zobowiązanego oraz surowce niezbędne dla niego do jego pracy na okres siedmiu dni, ” pkt 6 i 7 otrzymują brzmienie: „
+    - **e)**
+
+- **6)** pieniądze w kwocie, która odpowiada kwocie najniższego wynagrodzenia miesięcznego pracowników zatrudnionych w uspołecznionych zakładach pracy,
+- **7)** wkłady oszczędnościowe złożone w bankach, na zasadach i w wysokości określonej przepisami prawa bankowego, ” w pkt 8 po wyrazach „papiery osobiste” dodaje się wyrazy „po jednej obrączce zobowiązanego i jego współmałżonka, wykonanej z metali szlachetnych,”;
+    - **f)**
+
+- **4)** w art. 8:. dodaje się nowy § 2 w brzmieniu: „
+    - **a)**
+
+§ 2. Za przedmioty niezbędne zobowiązanemu i członkom jego rodziny w rozumieniu § 1 pkt 1 nie uważa się w szczególności: – mebli stylowych i stylizowanych, – telewizorów do odbioru programu w kolorze, – radioodbiorników stereofonicznych i urządzeń nagłośniających, – gramofonów stereofonicznych, – magnetofonów i magnetowidów, – komputerów i urządzeń peryferyjnych, chyba że są niezbędne zobowiązanemu do wykonywania zawodu, – futer ze skór szlachetnych, – dywanów wełnianych i ze skór naturalnych, – porcelany, szkła ozdobnego i kryształów, – sztućców z metali szlachetnych, – dzieł sztuki. ” , dotychczasowy § 2 otrzymuje oznaczenie § 3;
+
+- **b)**
+- **5)** art. 9 otrzymuje brzmienie: „
 
 **Art. 9.**
 
@@ -74,6 +104,16 @@ source: "eli-html"
 
 **Art. 23.** Terenowy organ administracji państwowej o właściwości szczególnej do spraw finansowych stopnia podstawowego może wstrzymać czynności egzekucyjne dotyczące prowadzonej, na terenie objętym właściwością miejscową tego organu, egzekucji administracyjnej należności pieniężnych rolników tam zamieszkałych, jeżeli zachodzi oczywisty błąd co do egzekwowanego obowiązku lub co do osoby zobowiązanego albo zaistniała nowa lub nieznana organowi egzekucyjnemu, albo przez ten organ nie rozpatrzona okoliczność uzasadniająca przyznanie ulgi albo zawieszenie lub umorzenie postępowania egzekucyjnego. O wstrzymaniu czynności egzekucyjnych terenowy organ zawiadomi niezwłocznie organ egzekucyjny, który postanowi co do dalszego postępowania. ” ;
 
+- **12)** w art. 25 w § 3 wyrazy „lub arbitrażowych” oraz „lub orzeczenie arbitrażowe zaopatrzone w zarządzenie egzekucyjne prezesa komisji arbitrażowej” skreśla się;
+- **13)** w art. 26 w § 1: w pkt 3 po wyrazie „wymagalny” dodaje się wyrazy „a także określenie wysokości egzekwowanej należności pieniężnej”, dodaje się pkt 6 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **6)** pouczenie zobowiązanego o skutkach niezawiadomienia organu egzekucyjnego o zmianie miejsca pobytu. ” ;
+- **14)** w art. 31 w § 1 nawias i wyraz „arbitrażowego” skreśla się;
+- **15)** w art. 32 w pkt 3 wyrazy „lub arbitrażowego” skreśla się;
+- **16)** dodaje się art. 34a i 34b w brzmieniu: „
+
 **Art. 34a.**
 
 § 1. Organ egzekucyjny może żądać od uczestników postępowania złożenia wyjaśnień oraz zasięgać od organów administracji państwowej i instytucji informacji niezbędnych do prowadzenia egzekucji.
@@ -91,6 +131,27 @@ source: "eli-html"
 - **17)** art. 40 otrzymuje brzmienie: „
 
 **Art. 40.** Jeżeli w postępowaniu dotyczącym egzekucji należności pieniężnej zostało zgłoszone, zgodnie z art. 35 § 1, żądanie wyłączenia spod egzekucji rzeczy lub prawa majątkowego z tej przyczyny, że znajduje się we władaniu innej osoby na podstawie umowy zastawu lub prawa użytkowania ustanowionego w wyniku umowy o dożywocie, a żądanie to nie zostało uwzględnione, wierzytelność zabezpieczona zastawem oraz wartość prawa użytkowania podlega zaspokojeniu z kwoty uzyskanej z egzekucji, z uwzględnieniem prawa pierwszeństwa zaspokojenia przysługującego z mocy ustawy należności pieniężnych. ” ;
+
+- **18)** w art. 43: § 1 otrzymuje brzmienie: „
+    - **a)**
+
+§ 1. Organ egzekucyjny i egzekutor może w razie potrzeby wezwać, w pilnych przypadkach także ustnie, pomocy organu spraw wewnętrznych, jeżeli natrafił na opór, który uniemożliwia lub utrudnia przeprowadzenie egzekucji, albo jeżeli istnieje uzasadnione przypuszczenie, że na taki opór natrafi. Jeżeli opór stawia żołnierz w czynnej służbie wojskowej, należy wezwać pomocy właściwego organu wojskowego, chyba że zwłoka grozi udaremnieniem egzekucji, a na miejscu nie ma organu wojskowego. ” , w § 2 w pkt 1 wyrazy „organów Milicji Obywatelskiej” zastępuje się wyrazami „organów spraw wewnętrznych”;
+
+- **b)**
+- **19)** w art. 45 § 4 i 5 otrzymują brzmienie: „
+
+§ 4. Przeszukanie odzieży powinno być dokonane tylko przez osobę tej samej płci co osoba przeszukiwana.
+
+§ 5. Przeszukanie odzieży na żołnierzu w czynnej służbie wojskowej lub. funkcjonariuszu organu spraw wewnętrznych przeprowadza w obecności egzekutora osoba wyznaczona przez ich przełożonego. ” ;
+
+- **20)** art. 46 skreśla się;
+- **21)** w art. 48: § 2 otrzymuje brzmienie: „
+    - **a)**
+
+§ 2. W obrębie budynków wojskowych i zajmowanych przez organy spraw wewnętrznych oraz na okrętach wojennych można dokonywać czynności egzekucyjnych tylko po uprzednim zawiadomieniu właściwego komendanta i w asyście wyznaczonego organu wojskowego lub organu spraw wewnętrznych. ” , w § 3 w pkt 2 wyrazy „organów Milicji Obywatelskiej” zastępuje się wyrazami „organów spraw wewnętrznych”;
+
+- **b)**
+- **22)** art. 52 otrzymuje brzmienie: „
 
 **Art. 52.**
 
@@ -119,6 +180,25 @@ source: "eli-html"
 - **28)** art. 63 otrzymuje brzmienie: „
 
 **Art. 63.** Minister Finansów określi, w drodze rozporządzenia, wysokość opłat za poszczególne czynności egzekucyjne, sposób ustalania i dokumentowania wydatków związanych z postępowaniem egzekucyjnym oraz umarzania kosztów egzekucyjnych. ” ;
+
+- **29)** dodaje się art. 63a w brzmieniu: „
+
+§ 1. Wierzyciel jest obowiązany do uiszczenia opłaty od kwot ściągniętych egzekucyjnie, a także wpłaconych w wyniku zastosowania środków egzekucyjnych.
+
+§ 2. Opłata wynosi 5% od kwot określonych w § 1 i przypada na rzecz tego organu, który dokonał ściągnięcia należności pieniężnej lub zastosował środki egzekucyjne, w wyniku których należność została zapłacona. ” ;
+
+- **30)** w art. 64 dodaje się pkt 2b w brzmieniu: „
+- **2b)** egzekucja ze świadczeń z zaopatrzenia emerytalnego oraz z ubezpieczenia społecznego (art. 75a) ” ;
+- **31)** w art. 67 w § 1 wyrazy „organ egzekucyjny” zastępuje się wyrazem „wierzyciel”;
+- **32)** w art. 73: § 1 otrzymuje brzmienie: „
+    - **a)**
+
+§ 1. Jeżeli właściciel, kierownik zakładu pracy lub wyznaczony pracownik nie złożył zestawienia i oświadczenia przewidzianego w art. 69 § 3 lub złożył je niezgodnie z prawdą, zaniedbał zawiadomienia, o którym mowa w art. 70, art. 71 § 3 i art. 72 § 1, lub nie przekazał dokumentów zajęcia wynagrodzenia nowemu zakładowi pracy zobowiązanego pomimo tego, że nowy zakład pracy jest mu znany, albo wypłacił zajętą część wynagrodzenia zobowiązanemu – podlega ukaraniu przez organ prowadzący egzekucję z wynagrodzenia, grzywną w wysokości do 50000 zł. Grzywna może być powtarzana w razie uchylenia się od wykonania, w dodatkowo wyznaczonych terminach, obowiązków wynikających z zajęcia. ” , § 2 skreśla się, dotychczasowe § 3 i 4 otrzymują oznaczenie § 2 i 3;
+
+- **b)**
+- **c)**
+- **33)** po art. 75 dodaje się wyrazy „Rozdział 2a. Egzekucja ze świadczeń z zaopatrzenia emerytalnego oraz z ubezpieczenia społecznego”;
+- **34)** dodaje się art. 75a w brzmieniu: „
 
 **Art. 75a.**
 
@@ -194,7 +274,23 @@ source: "eli-html"
 
 **Art. 107.** Przepisów art. 101–106 nie stosuje się do sprzedaży walut obcych. Zajęte waluty obce organ egzekucyjny sprzedaje bankom dewizowym posiadającym uprawnienie dewizowe do ich skupu. To samo dotyczy sprzedaży zajętego złota, platyny i srebra, z wyjątkiem wyrobów użytkowych z tych metali. ” ;
 
+- **46)** rozdział 6 otrzymuje tytuł: „Szczególne zasady egzekucji należności pieniężnych”;
+- **47)** art. 109 otrzymuje brzmienie: „
+
 **Art. 109.** Gdy zobowiązanym do uiszczenia należności pieniężnej jest jednostka budżetowa lub zakład budżetowy, wierzyciel w celu otrzymania tej należności składa tytuł wykonawczy bezpośrednio tej państwowej jednostce organizacyjnej, z której działalnością wiąże się egzekwowana należność. Jednostka ta jest obowiązana bezzwłocznie należność uiścić. Jeżeli należność nie zostanie uiszczona w ciągu siedmiu dni od daty złożenia tytułu wykonawczego, jednostka nadrzędna zobowiązanego, na wniosek wierzyciela, zarządzi pokrycie należności ze środków zobowiązanego. ” ;
+
+- **48)** w art. 110: § 1 otrzymuje brzmienie: „
+    - **a)**
+
+§ 1. Gdy zobowiązanym do uiszczenia należności pieniężnych jest osoba prawna lub inna niż określona w art. 109 państwowa jednostka organizacyjna nie posiadająca osobowości prawnej – egzekucję należności przeprowadza się z jej rachunku bankowego. ” , w § 2 zdanie drugie skreśla się, c). § 3 i 4 skreśla się;
+
+- **b)**
+- **49)** w art. 118: w § 2 liczbę „2.000” zastępuje się liczbą „300.000”, a liczbę „10.000” – liczbą „1.500.000”. w § 3 liczbę „10.000” zastępuje się liczbą „1.500.000”, a liczbę „100.000” – liczbą „15.000.000”;
+    - **a)**
+    - **b)**
+
+- **50)** w art. 144 wyrazy „w drodze licytacji” skreśla się, a powołanie „art. 103–104” zastępuje się powołaniem „art. 101–104”;
+- **51)** art. 150 otrzymuje brzmienie: „
 
 **Art. 150.**
 
@@ -225,6 +321,8 @@ source: "eli-html"
 - **56)** art. 170 otrzymuje brzmienie: „
 
 **Art. 170.** Pozostają w mocy przepisy art. 64 i 65 ustawy z dnia 10 kwietnia 1974 r. – Prawo lokalowe (Dz. U. z 1987 r. Nr 30, poz. 165, z 1989 r. Nr 10, poz. 57, Nr 20, poz. 108, Nr 34, poz. 178, Nr 35, poz. 192 i z 1990 r. Nr 4, poz. 19). ” ;
+
+- **57)** art. 171 skreśla się.
 
 **Art. 2.** Postępowanie egzekucyjne i zabezpieczające wszczęte przed wejściem w życie niniejszej ustawy prowadzi się w myśl przepisów tej ustawy.
 

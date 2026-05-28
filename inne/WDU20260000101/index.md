@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Centrum Nauki
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 stycznia 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 stycznia 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-01-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000101) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/101/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 stycznia 2026 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Centrum Nauki
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Nauki (Dz. U. z 2023 r. poz. 153), z uwzględnieniem zmian wprowadzonych ustawą z dnia 4 kwietnia 2025 r. o zmianie ustawy o Narodowym Centrum Nauki (Dz. U. poz. 631) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 stycznia 2026 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 i art. 3 ustawy z dnia 4 kwietnia 2025 r. o zmianie ustawy o Narodowym Centrum Nauki (Dz. U. poz. 631), które stanowią: „Art. 2. 1. W terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy Dyrektor Narodowego Centrum Nauki, zwanego dalej „Centrum”, ustali regulamin wynagradzania Koordynatorów Dyscyplin i pracowników Biura Centrum, zwany dalej „regulaminem”, i przekaże go do zatwierdzenia ministrowi właściwemu do spraw szkolnictwa wyższego i nauki, zwanemu dalej „Ministrem”.
 2. Minister zatwierdzi regulamin albo zgłosi zastrzeżenia odnośnie do jego treści w terminie miesiąca od dnia otrzymania regulaminu.
@@ -57,9 +57,22 @@ source: "isap-pdf"
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
 
+- **1)** badaniach podstawowych należy przez to rozumieć badania podstawowe w rozumieniu art. 4 ust. 2 pkt 1 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. );
+- **2)** projektach badawczych należy przez to rozumieć przedsięwzięcia mające na celu wykonanie w ustalonym okresie badań podstawowych o tematyce określonej przez wnioskodawcę, realizowane na podstawie umowy o realizację i finansowanie projektu;
+- **3)** (uchylony)
+- **4)** doświadczonym naukowcu należy przez to rozumieć osobę posiadającą stopień naukowy doktora, która w okresie 10 lat przed rokiem wystąpienia z wnioskiem o przyznanie środków finansowych na badania naukowe lub prace rozwojowe:
+    - **a)** opublikowała co najmniej pięć publikacji w renomowanych czasopismach naukowych polskich lub zagranicznych,
+    - **b)** kierowała realizacją projektów badawczych,
+    - **c)** spełnia co najmniej trzy z poniższych kryteriów: była w komitecie naukowym przynajmniej jednej uznanej konferencji międzynarodowej, opublikowała co najmniej jedną monografię, wygłosiła prezentacje na uznanych konferencjach międzynarodowych, zdobyła międzynarodową nagrodę albo wyróżnienie, jest lub była członkiem uznanych stowarzyszeń, międzynarodowych organizacji naukowych lub akademii, ma inne istotne osiągnięcia w nauce, a w przypadku działalności naukowej w zakresie twórczości i sztuki osobę, która jest autorem dzieł artystycznych o międzynarodowym znaczeniu lub istotnych dla kultury polskiej oraz brała aktywny udział w międzynarodowych wystawach, festiwalach, wydarzeniach artystycznych, plastycznych, muzycznych, teatralnych i filmowych;
+
+- **5)** Koordynatorze Dyscyplin należy przez to rozumieć pracownika Centrum odpowiadającego za organizację prac Zespołów Ekspertów i przeprowadzanie konkursów na realizację projektów badawczych w jednej dyscyplinie naukowej lub w grupie kilku dyscyplin naukowych, w tym w szczególności za zapewnienie ich właściwego, bezstronnego i rzetelnego przebiegu.
+
 #### Rozdział 2 Organy i organizacja Centrum
 
 **Art. 3.** Organami Centrum są:
+
+- **1)** Dyrektor Centrum, zwany dalej „Dyrektorem”;
+- **2)** Rada Centrum, zwana dalej „Radą”.
 
 **Art. 4.**
 
@@ -265,6 +278,20 @@ source: "isap-pdf"
 
 **Art. 18.** Do zadań Rady należy:
 
+- **1)** określanie maksymalnie trzydziestu dyscyplin lub grup dyscyplin, w ramach których będą ogłaszane i przeprowadzane konkursy na realizację projektów badawczych;
+- **2)** określanie priorytetowych obszarów badań podstawowych zgodnych ze strategią rozwoju kraju;
+- **3)** ustalanie wysokości środków finansowych przeznaczonych na realizację projektów badawczych w ramach poszczególnych dyscyplin lub grup dyscyplin;
+- **4)** określanie tematyki projektów badawczych i warunków przeprowadzania konkursów na ich realizację;
+- **5)** ogłaszanie konkursów na finansowanie stypendiów doktorskich i staży po uzyskaniu stopnia naukowego doktora;
+- **6)** ocena merytoryczna wykonania zadań realizowanych przez Dyrektora, jego zastępców oraz Koordynatorów Dyscyplin;
+- **7)** wybór spośród wybitnych naukowców polskich i zagranicznych Zespołów Ekspertów odpowiedzialnych za ocenę wniosków złożonych w konkursach oraz wybór Zespołów Ekspertów odpowiedzialnych za ocenę merytoryczną związaną z rozliczeniem przyznanych środków;
+- **8)** powołanie Komisji Odwoławczej, złożonej z członków Rady, w celu rozpatrywania odwołań od decyzji Dyrektora w sprawach określonych w art. 33 ust. 2;
+- **9)** powoływanie, na wniosek Dyrektora, zewnętrznego audytora do oceny pracy Zespołów Ekspertów lub Koordynatorów Dyscyplin;
+- **10)** opiniowanie rocznych planów i sprawozdań, o których mowa w art. 11 ust. 5 i 6;
+- **11)** zatwierdzanie rocznych planów i sprawozdań, o których mowa w art. 11 ust. 7;
+- **12)** wyrażanie zgody na rozporządzanie przez Dyrektora majątkiem Centrum powyżej wartości określonej w statucie;
+- **13)** wykonywanie innych zadań wynikających z przepisów ustawy.
+
 **Art. 19.** Obsługę administracyjną Centrum prowadzi Biuro Centrum.
 
 **Art. 19a.**
@@ -409,6 +436,12 @@ source: "isap-pdf"
 3. Dyrektor określa szczegółowy tryb sporządzania ocen wniosków przez Zespoły Ekspertów.
 
 **Art. 31.** Koordynator Dyscyplin zamieszcza na stronie podmiotowej Centrum w Biuletynie Informacji Publicznej informacje o wnioskach złożonych w konkursach na realizację projektów badawczych i wynikach tych konkursów zawierające:
+
+- **1)** tytuł złożonego wniosku;
+- **2)** imię i nazwisko kierownika projektu badawczego oraz nazwę albo imię i nazwisko podmiotu, o którym mowa w art. 27 ust. 1, będącego wnioskodawcą;
+- **3)** pozycję na liście rankingowej uzyskaną przez projekt badawczy skierowany do finansowania;
+- **4)** wysokość środków finansowych proponowanych do przyznania na poszczególny projekt badawczy przez Koordynatora Dyscyplin i przyznanych przez Dyrektora;
+- **5)** nazwę podmiotu realizującego, który zobowiązany jest zatrudnić wnioskodawcę w przypadku gdy wnioskodawca jest osobą fizyczną.
 
 **Art. 32.**
 

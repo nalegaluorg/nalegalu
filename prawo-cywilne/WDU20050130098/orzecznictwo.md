@@ -2,15 +2,10 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 22 grudnia 2004 r. o zmianie ustawy - Kodeks postępowania cywilnego oraz ustawy - Prawo o ustroju sądów powszechnych*
 
-Łącznie: **160** orzeczeń
-(pominięto 4 orzeczeń sądów rejonowych)
+Łącznie: **141** orzeczeń
 
-## art. 1 (9)
+## art. 1 (5)
 
-- 2010-02-09 | TK | [SK 10/09](https://www.saos.org.pl/judgments/109740) | Wyrok ★
-- 2015-06-09 | TK | [Ts 308/13](https://www.saos.org.pl/judgments/207052) | Postanowienie ★
-- 2014-04-07 | TK | [Ts 308/13](https://www.saos.org.pl/judgments/206637) | Postanowienie ★
-- 2012-02-01 | TK | [Ts 215/11](https://www.saos.org.pl/judgments/111338) | Postanowienie ★
 - 2005-11-09 | TK | [Ts 171/05](https://www.saos.org.pl/judgments/107462) | Postanowienie ★
 - 2005-05-24 | TK | [Ts 130/04](https://www.saos.org.pl/judgments/107412) | Postanowienie ★
 - 2007-01-12 | SN | [IV CSK 318/06](https://www.saos.org.pl/judgments/84979) | Wyrok ★
@@ -22,14 +17,8 @@ Orzeczenia powołujące: *Ustawa z dnia 22 grudnia 2004 r. o zmianie ustawy - Ko
 - 2005-03-31 | TK | [SK 26/02](https://www.saos.org.pl/judgments/107256) | Wyrok ★
 - 2005-06-14 | SN | [V CK 746/04](https://www.saos.org.pl/judgments/163342) | Postanowienie
 
-## art. 3 (125)
+## art. 3 (119)
 
-- 2009-12-08 | TK | [SK 34/08](https://www.saos.org.pl/judgments/160085) | Wyrok ★
-- 2011-12-20 | TK | [Ts 284/09](https://www.saos.org.pl/judgments/206308) | Postanowienie ★
-- 2011-10-14 | TK | [Ts 284/09](https://www.saos.org.pl/judgments/206307) | Postanowienie ★
-- 2010-12-21 | TK | [Ts 57/09](https://www.saos.org.pl/judgments/206281) | Postanowienie ★
-- 2010-10-06 | TK | [Ts 219/09](https://www.saos.org.pl/judgments/110039) | Postanowienie ★
-- 2010-03-04 | TK | [Ts 219/09](https://www.saos.org.pl/judgments/110037) | Postanowienie ★
 - 2007-07-03 | TK | [SK 4/07](https://www.saos.org.pl/judgments/108143) | Postanowienie ★
 - 2006-07-19 | TK | [Ts 171/05](https://www.saos.org.pl/judgments/107903) | Postanowienie ★
 - 2005-11-09 | TK | [Ts 171/05](https://www.saos.org.pl/judgments/107462) | Postanowienie ★
@@ -150,17 +139,12 @@ Orzeczenia powołujące: *Ustawa z dnia 22 grudnia 2004 r. o zmianie ustawy - Ko
 - 2005-03-04 | SN | [III CZ 135/04](https://www.saos.org.pl/judgments/163051) | Postanowienie
 - 2005-02-09 | SN | [III CK 431/04](https://www.saos.org.pl/judgments/162989) | Postanowienie
 
-## art. 4 (1)
-
-- 2009-12-08 | TK | [SK 34/08](https://www.saos.org.pl/judgments/160085) | Wyrok ★
-
 ## art. 5 (1)
 
 - 2005-07-13 | SN | [I CK 832/04](https://www.saos.org.pl/judgments/163438) | Wyrok ★
 
-## art. 6 (3)
+## art. 6 (2)
 
-- 2010-12-02 | SN | [I CSK 111/10](https://www.saos.org.pl/judgments/93561) | Wyrok ★
 - 2006-03-03 | SN | [II CK 428/05](https://www.saos.org.pl/judgments/164084) | Wyrok ★
 - 2005-01-12 | SN | [I CK 457/04](https://www.saos.org.pl/judgments/162891) | Wyrok ★
 
@@ -230,10 +214,8 @@ Orzeczenia powołujące: *Ustawa z dnia 22 grudnia 2004 r. o zmianie ustawy - Ko
 
 - 2005-07-07 | SN | [IV CK 28/05](https://www.saos.org.pl/judgments/163406) | Wyrok ★
 
-## art. 391 § 2 (3)
+## art. 391 § 2 (1)
 
-- 2009-05-20 | SN | [II CSK 84/09](https://www.saos.org.pl/judgments/90268) | Postanowienie
-- 2009-04-21 | SN | [II CSK 116/09](https://www.saos.org.pl/judgments/90089) | Postanowienie
 - 2008-04-16 | SN | [II CSK 53/08](https://www.saos.org.pl/judgments/87879) | Postanowienie
 
 ## art. 393(3) § 1 (1)
@@ -256,10 +238,8 @@ Orzeczenia powołujące: *Ustawa z dnia 22 grudnia 2004 r. o zmianie ustawy - Ko
 
 - 2006-05-16 | SN | [I UK 284/05](https://www.saos.org.pl/judgments/84320) | Wyrok ★
 
-## art. 398(21) (3)
+## art. 398(21) (1)
 
-- 2009-05-20 | SN | [II CSK 84/09](https://www.saos.org.pl/judgments/90268) | Postanowienie
-- 2009-04-21 | SN | [II CSK 116/09](https://www.saos.org.pl/judgments/90089) | Postanowienie
 - 2008-04-16 | SN | [II CSK 53/08](https://www.saos.org.pl/judgments/87879) | Postanowienie
 
 ## art. 417 (1)
@@ -278,23 +258,11 @@ Orzeczenia powołujące: *Ustawa z dnia 22 grudnia 2004 r. o zmianie ustawy - Ko
 
 - 2005-04-28 | SN | [III CK 526/04](https://www.saos.org.pl/judgments/163210) | Postanowienie
 
-## § 1 (1)
-
-- 2010-06-02 | TK | [SK 38/09](https://www.saos.org.pl/judgments/109762) | Wyrok ★
-
-## § 2 (2)
+## § 2 (1)
 
 - 2005-10-21 | SN | [III CK 161/05](https://www.saos.org.pl/judgments/163637) | Wyrok ★
-- 2009-03-25 | SN | [V CZ 14/09](https://www.saos.org.pl/judgments/89956) | Postanowienie
 
 ## § 23 (1)
 
 - 2005-04-13 | SN | [V CK 532/04](https://www.saos.org.pl/judgments/163169) | Postanowienie
-
-## (ogólnie) (4)
-
-- 2015-08-27 | SO | [I ACa 185/15](https://www.saos.org.pl/judgments/181181) | Wyrok
-- 2013-06-26 | SO | [III AUa 445/13](https://www.saos.org.pl/judgments/15988) | Wyrok
-- 2018-09-24 | SO | [VI ACa 567/18](https://www.saos.org.pl/judgments/361349) | Postanowienie
-- 2019-05-09 | SO | [I C 3836/18](https://www.saos.org.pl/judgments/396660) | Wyrok
 

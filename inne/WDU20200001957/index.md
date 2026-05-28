@@ -8,12 +8,10 @@ pos: 1957
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o Polskiej Agencji Kosmicznej
-
-*USTAWA z dnia 26 września 2014 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 21 października 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Polskiej Agencji Kosmicznej
 
 | Pole | Wartość |
 |---|---|
@@ -27,21 +25,40 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-04-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001957) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1957/text.pdf) |
 
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 26 września 2014 r. o Polskiej Agencji Kosmicznej Rozdział 1 – Przepisy ogólne Rozdział 2 – Organizacja i działalność Agencji Rozdział 3 – Gospodarka Agencji Rozdział 4 – Zmiany w przepisach obowiązujących, przepisy dostosowujące i końcowe
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 26 września 2014 r. o Polskiej Agencji Kosmicznej (Dz. U. z 2019 r. poz. 1793), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284) oraz zmian wynikających z przepisów ogłoszonych przed dniem 20 października 2020 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 103 ust. 1 i art. 114 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), które stanowią:
+
+**Art. 103.** „1. W terminie 30 dni od dnia wejścia w życie niniejszej ustawy skład:
+
+- **1)** Krajowej Rady Bezpieczeństwa Ruchu Drogowego, o której mowa w art. 140b ust. 1 ustawy zmienianej w art. 15,
+- **2)** Rady Ochrony i Ułatwień Lotnictwa Cywilnego, o której mowa w art. 19 ust. 1 ustawy zmienianej w art. 28,
+- **3)** Rady do Spraw Monitoringu Żywności i Żywienia, o której mowa w art. 87 ust. 1 ustawy zmienianej w art. 47,
+- **4)** Rady Narodowego Centrum Badań i Rozwoju, o której mowa w art. 3 pkt 2 ustawy zmienianej w art. 68,
+- **5)** Rady Programowej Współpracy Rozwojowej, o której mowa w art. 15 ust. 1 ustawy zmienianej w art. 74,
+- **6)** Komisji do spraw Środków Ochrony Roślin, o której mowa w art. 13 ust. 1 ustawy zmienianej w art. 76,
+- **7)** Rady Polskiej Agencji Kosmicznej, o której mowa w art. 5 pkt 2 ustawy zmienianej w art. 78,
+- **8)** Komitetu Konsultacyjnego, o którym mowa w art. 13 ust. 1 ustawy zmienianej w art. 83,
+- **9)** Rady Centrum Łukasiewicz, o której mowa w art. 10 pkt 2 ustawy zmienianej w art. 92,
+- **10)** Rady Żeglugi Śródlądowej, o której mowa w art. 44 ust. 1 ustawy zmienianej w art. 96 uzupełnia się o przedstawiciela ministra właściwego do spraw klimatu, przy czym w przypadku organów kadencyjnych uzupełnienie ich składu następuje do końca kadencji. ” „
+
+**Art. 114.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 106 ust. 4, art. 107 ust. 2 i art. 108 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 26 września 2014 r. o Polskiej Agencji Kosmicznej
+
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
 
 1. Tworzy się Polską Agencję Kosmiczną, zwaną dalej „Agencją”.
 
-2. Agencja jest agencją wykonawczą w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm. ).
+2. Agencja jest agencją wykonawczą w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.).
 
 3. Siedzibą Agencji jest miasto Gdańsk.
 
 4. Agencja może posiadać oddziały terenowe.
-
-5. Agencja i jej oddziały terenowe używają wizerunku orła ustalonego dla godła Rzeczypospolitej Polskiej oraz pieczęci urzędowej.
-
-6. Agencja może posługiwać się nazwą w języku angielskim w brzmieniu „Polish Space Agency” oraz skrótem „POLSA”.
 
 **Art. 2.** Agencja podlega ministrowi właściwemu do spraw gospodarki.
 
@@ -53,46 +70,37 @@ source: "isap-pdf"
 - **2)** badań;
 - **3)** użytkowania przestrzeni kosmicznej;
 - **4)** rozwoju techniki kosmicznej, w tym inżynierii satelitarnej;
-- **5)** wykorzystania badań i ich wyników do celów użytkowych, gospodarczych, obronnych, bezpieczeństwa państwa i naukowych;
-- **6)** wykorzystania danych satelitarnych w gospodarce, administracji, nauce, edukacji, obronności i w celu zapewnienia bezpieczeństwa państwa.
+- **5)** wykorzystania badań i ich wyników do celów użytkowych, gospodarczych, obronnych, bezpieczeństwa państwa i naukowych.
 
 2. Do zadań Agencji należy w szczególności:
 
-- **1)** inicjowanie, przygotowywanie oraz wdrażanie założeń, we współpracy z właściwymi organami administracji państwowej, głównych kierunków badań i programów rozwoju o istotnym znaczeniu dla interesu narodowego i gospodarki państwa w dziedzinie badania i użytkowania przestrzeni kosmicznej;
-- **1a)** opracowywanie rekomendacji, we współpracy z właściwymi organami administracji państwowej, lub propozycji stanowisk na wniosek właściwych organów administracji państwowej, w celu zapewnienia spójności polskiej polityki kosmicznej;
+- **1)** inicjowanie, przygotowywanie oraz wdrażanie założeń, głównych kierunków badań i programów rozwoju o istotnym znaczeniu dla interesu narodowego i gospodarki państwa w dziedzinie badania i użytkowania przestrzeni kosmicznej;
 - **2)** (uchylony)
 - **3)** (uchylony)
-- **4)** identyfikowanie i analizowanie, we współpracy z właściwymi organami administracji państwowej, wyzwań i problemów współpracy międzynarodowej w dziedzinie badania i użytkowania przestrzeni kosmicznej;
+- **4)** identyfikowanie i analizowanie, we współpracy z właściwymi ministrami, wyzwań i problemów współpracy międzynarodowej w dziedzinie badania i użytkowania przestrzeni kosmicznej;
 - **5)** reprezentowanie Rzeczypospolitej Polskiej na arenie międzynarodowej – na podstawie i w zakresie określonym w upoważnieniu udzielonym przez właściwe organy administracji państwowej – w sprawach należących do właściwości Agencji;
 - **6)** (uchylony)
 - **7)** współdziałanie z Polskim Komitetem Normalizacyjnym, właściwymi organami państwa i organizacjami międzynarodowymi w zakresie tworzenia definicji, norm i specyfikacji technicznych z zakresu techniki kosmicznej, w tym inżynierii satelitarnej;
 - **8)** sprawowanie doradztwa w dziedzinie użytkowania przestrzeni kosmicznej oraz udział w europejskim procesie harmonizacji technologii kosmicznych i satelitarnych w charakterze wsparcia eksperckiego;
 - **9)** wspieranie organów państwa w sprawach dotyczących polityki kosmicznej, w tym przygotowywanie i udostępnianie tym organom analiz i raportów z zakresu badań przestrzeni kosmicznej oraz jej użytkowania w różnych sektorach gospodarki, a także w obszarach obronności i bezpieczeństwa państwa;
-- **10)** (uchylony)
+- **10)** prowadzenie rejestru obiektów znajdujących się w przestrzeni kosmicznej na zasadach określonych w Konwencji o rejestracji obiektów wypuszczonych w przestrzeń kosmiczną, otwartej do podpisania w Nowym Jorku dnia 14 stycznia 1975 r. (Dz. U. z 1979 r. poz. 22);
 - **11)** uczestniczenie, na wniosek właściwych organów państwa, w procesie konsultacji dotyczących polskiej aktywności w dziedzinie badań i użytkowania przestrzeni kosmicznej, w szczególności przez wskazywanie doradców i ekspertów do polskich delegacji i przedstawicielstw w instytucjach Unii Europejskiej, Europejskiej Agencji Kosmicznej, Europejskiej Organizacji Eksploatacji Satelitów Meteorologicznych (EUMETSAT), Europejskiej Agencji Obrony (EDA), Europejskiej Organizacji Badań Astronomicznych na Półkuli Południowej (ESO), Organizacji Traktatu Północnoatlantyckiego (NATO), Komitetu Organizacji Narodów Zjednoczonych do spraw Pokojowego Wykorzystania Przestrzeni Kosmicznej (UN COPUOS) i innych organizacji międzynarodowych;
 - **12)** podejmowanie oraz wspieranie działań na arenie międzynarodowej na rzecz promocji polskiej gospodarki i myśli naukowej w dziedzinie użytkowania przestrzeni kosmicznej;
 - **13)** prowadzenie działalności informacyjnej i promocyjnej w dziedzinie użytkowania przestrzeni kosmicznej;
 - **14)** prowadzenie działalności edukacyjnej w zakresie badania i użytkowania przestrzeni kosmicznej, a także wspieranie organizacji i przedsięwzięć promujących sprzyjające warunki dla prowadzenia badań naukowych i prac rozwojowych w dziedzinie użytkowania przestrzeni kosmicznej;
-- **15)** identyfikowanie i analizowanie, we współpracy z krajowymi i zagranicznymi uczelniami i instytucjami badawczymi, potrzeb kształcenia na poziomie wyższym specjalistów w zakresie użytkowania przestrzeni kosmicznej i wspieranie kształcenia ekspertów w dziedzinie techniki kosmicznej, w szczególności inżynierii satelitarnej;
-- **16)** wykonywanie zadań określonych przez Ministra Obrony Narodowej lub inny organ administracji rządowej, uzgodnionych z ministrem właściwym do spraw gospodarki, w tym dotyczących:
-    - **a)** satelitarnej obserwacji powierzchni Ziemi,
-    - **b)** prowadzenia Narodowego Systemu Bezpieczeństwa Kosmicznego, obejmującego: – stałą obserwację i monitorowanie przestrzeni kosmicznej, w tym pozyskiwanie, przechowywanie, przetwarzanie i udostępnianie informacji o aktualnej sytuacji w przestrzeni kosmicznej, w szczególności w celu wykrywania, identyfikacji i analizy zagrożeń, – zawiadamianie i przekazywanie właściwym organom lub podmiotom informacji o zagrożeniach w przestrzeni kosmicznej, w tym mogących mieć wpływ na infrastrukturę kosmiczną lub naziemną, terytorium Rzeczypospolitej Polskiej oraz ludzi, – udzielanie wsparcia właściwym organom w zakresie sposobu wykorzystania przekazanych informacji o zagrożeniach w przestrzeni kosmicznej,
-    - **c)** nawigacji i łączności satelitarnej, w szczególności prowadzenia krajowego systemu monitorowania zakłóceń sygnałów Globalnego Systemu Nawigacji Satelitarnej (GNSS),
-    - **d)** technologii rakietowych,
-    - **e)** bezpieczeństwa i obronności państwa;
-
-- **17)** pełnienie funkcji krajowego administratora danych satelitarnych;
-- **18)** monitorowanie działalności kosmicznej, o której mowa w ustawie z dnia 13 lutego 2026 r. o działalności kosmicznej (Dz. U. poz. 465), oraz zagrożeń dla tej działalności, w tym przy wykorzystaniu Narodowego Systemu Bezpieczeństwa Kosmicznego, o którym mowa w pkt 16 lit. b.
+- **15)** identyfikowanie i analizowanie, we współpracy z ministrem właściwym do spraw szkolnictwa wyższego i nauki, potrzeb kształcenia na poziomie wyższym specjalistów w zakresie użytkowania przestrzeni kosmicznej i wspieranie kształcenia ekspertów w dziedzinie techniki kosmicznej, w szczególności inżynierii satelitarnej, w kooperacji z krajowymi i zagranicznymi uczelniami i instytucjami badawczymi;
+- **16)** wykonywanie zadań z zakresu obronności i bezpieczeństwa państwa określonych przez Ministra Obrony Narodowej lub inny organ administracji rządowej, uzgodnionych z ministrem właściwym do spraw gospodarki, w tym dotyczących: satelitarnej obserwacji powierzchni Ziemi, obserwacji przestrzeni kosmicznej, nawigacji i łączności satelitarnej, analiz zagrożeń w przestrzeni kosmicznej, technologii rakietowych.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 3. Przy realizacji swoich zadań Agencja współdziała z innymi organami i instytucjami państwa.
-
-3a. Przy realizacji zadania, o którym mowa w ust. 2 pkt 16 lit. b, Agencja wykorzystuje dane i informacje, w tym dane sensoryczne, przekazane lub udostępnione jej przez organy i podmioty krajowe, zagraniczne i międzynarodowe. W przypadku gdy te dane i informacje mają charakter niejawny, podlegają ochronie zgodnie z przepisami o ochronie informacji niejawnych.
 
 4. W celu realizacji swoich zadań Agencja może tworzyć zakłady i laboratoria, a także zawierać porozumienia o współpracy z podmiotami publicznymi i prywatnymi oraz przekazywać im – w ramach tych porozumień – doświadczenie i wiedzę z zakresu użytkowania przestrzeni kosmicznej.
 
 5. Realizacja zadań, o których mowa w ust. 2 pkt 16, jest finansowana ze środków budżetu państwa, których dysponentem jest organ określający zakres realizowanych zadań.
-
-**Art. 3a.**
 
 1. Agencja może udzielać wsparcia w związku z realizacją zadań określonych w art. 3 ust. 2 pkt 1, 8 i 12–14, w szczególności z przeznaczeniem na:
 
@@ -121,28 +129,9 @@ source: "isap-pdf"
 - **1)** osobie albo podmiotowi, o których mowa w ust. 3, jeżeli nie wykonały albo nienależycie wykonały w istotnym stopniu projekt realizowany na zlecenie Agencji, organizacji międzynarodowych, o których mowa w art. 3 ust. 2 pkt 11, oraz innych organizacji, których działalność jest związana z zakresem spraw należących do zadań Agencji, co doprowadziło do rozwiązania umowy, na podstawie której realizowały projekt lub zasądzenia odszkodowania;
 - **2)** osobom, wobec których prawomocnie orzeczono naruszenie zasad etyki w nauce, o których mowa w art. 112 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2020 r. poz. 1796), art. 56 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2020 r. poz. 1383) i art. 287 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2020 r. poz. 85, 374, 695, 875 i 1086).
 
-5. Wsparcie jest udzielane na wniosek, do którego dołącza się oświadczenie o braku przesłanek uniemożliwiających udzielenie wsparcia określonych w ust. 4 składane pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 Kodeksu karnego oświadczam, że nie zachodzą przesłanki uniemożliwiające udzielenie przez Polską Agencję Kosmiczną wsparcia, o których mowa w art. 3a ust. 4 ustawy z dnia 26 września 2014 r. o Polskiej Agencji Kosmicznej (Dz. U. z 2020 r. poz. 000).”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+5. Wsparcie jest udzielane na wniosek, do którego dołącza się oświadczenie o braku przesłanek uniemożliwiających udzielenie wsparcia określonych w ust. 4 składane pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 Kodeksu karnego oświadczam, że nie zachodzą przesłanki uniemożliwiające udzielenie przez Polską Agencję Kosmiczną wsparcia, o których mowa w art. 3a ust. 4 ustawy z dnia 26 września 2014 r. o Polskiej Agencji Kosmicznej (Dz. U. z 2020 r. poz. 1957).”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
 6. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, szczegółowe przeznaczenie oraz szczegółowe warunki i tryb udzielania wsparcia przez Agencję, mając na względzie efektywne i skuteczne wykorzystanie tego wsparcia oraz zapewnienie przejrzystości jego udzielania w ramach pomocy publicznej, pomocy de minimis i pomocy niestanowiącej pomocy publicznej oraz pomocy de minimis, a także potrzebę uzyskania informacji niezbędnych do udzielenia wsparcia.
-
-**Art. 3b.**
-
-1. Agencja pełni funkcję krajowego administratora danych satelitarnych, z wyłączeniem:
-
-- **1)** danych pozyskiwanych w wyniku działalności kosmicznej prowadzonej przez jednostki podległe Ministrowi Obrony Narodowej lub przez niego nadzorowane, dla których administratorem jest Minister Obrony Narodowej;
-- **2)** usług regulowanych, w tym satelitarnej usługi publicznej o regulowanym dostępie europejskiego systemu nawigacji satelitarnej Galileo oraz usług rządowej łączności satelitarnej GOVSATCOM i usług bezpiecznej łączności satelitarnej.
-
-2. Przez dane satelitarne rozumie się dane wysyłane przez obiekty kosmiczne w rozumieniu art. 2 pkt 4 ustawy z dnia 13 lutego 2026 r. o działalności kosmicznej lub pozyskiwane za ich pośrednictwem.
-
-3. Do zadań krajowego administratora danych satelitarnych należy:
-
-- **1)** uruchomienie krajowego interoperacyjnego systemu odbioru, przechowywania, przetwarzania i udostępniania danych satelitarnych wraz z niezbędną infrastrukturą, zwanego dalej „Narodowym Systemem Informacji Satelitarnej”, utrzymywanie tego systemu, jego prowadzenie i bieżące nim administrowanie;
-- **2)** aktualizowanie oraz powiększanie zasobów Narodowego Systemu Informacji Satelitarnej;
-- **3)** pozyskiwanie i udostępnianie w Narodowym Systemie Informacji Satelitarnej produktów i usług powstałych z wykorzystaniem danych satelitarnych;
-- **4)** upowszechnianie wiedzy o danych satelitarnych i propagowanie ich wykorzystania, w tym organizowanie szkoleń dla zainteresowanych podmiotów;
-- **5)** pełnienie funkcji punktu kontaktowego dla podmiotów administracji publicznej w celu pozyskania danych satelitarnych;
-- **6)** wspieranie podmiotów administracji publicznej oraz służb im podległych w zakresie wykorzystania danych satelitarnych w zarządzaniu kryzysowym w rozumieniu art. 2 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122, z późn. zm. );
-- **7)** integrowanie potencjału sektora komercyjnego z potrzebami podmiotów administracji publicznej.
 
 **Art. 4.**
 
@@ -153,6 +142,9 @@ source: "isap-pdf"
 #### Rozdział 2 Organizacja i działalność Agencji
 
 **Art. 5.** Organami Agencji są:
+
+- **1)** Prezes Agencji;
+- **2)** Rada Agencji.
 
 **Art. 6.**
 
@@ -171,11 +163,6 @@ source: "isap-pdf"
 
 1. Organem wykonawczym i zarządzającym Agencji jest Prezes Agencji.
 
-1a. Prezes Agencji wykonuje zadania, o których mowa w ustawie z dnia 13 lutego 2026 r. o działalności kosmicznej, w tym prowadzi:
-
-- **1)** postępowania w sprawach, o których mowa w tej ustawie, w szczególności w sprawach zezwolenia na wykonywanie działalności kosmicznej;
-- **2)** Krajowy Rejestr Obiektów Kosmicznych, o którym mowa w art. 44 ust. 1 tej ustawy, i dokonuje wpisów do tego rejestru oraz występuje z wnioskiem do ministra spraw zagranicznych o przekazanie Sekretarzowi Generalnemu Organizacji Narodów Zjednoczonych informacji o obiektach kosmicznych wpisanych do tego rejestru na zasadach określonych w Konwencji o rejestracji obiektów wypuszczonych w przestrzeń kosmiczną, otwartej do podpisania w Nowym Jorku dnia 14 stycznia 1975 r. (Dz. U. z 1979 r. poz. 22).
-
 2. Do zadań Prezesa Agencji należy w szczególności:
 
 - **1)** opracowywanie projektów rocznych i pięcioletnich planów działalności Agencji;
@@ -185,12 +172,9 @@ source: "isap-pdf"
 - **5)** sprawowanie zarządu majątkiem Agencji;
 - **6)** opracowywanie projektów aktów prawnych w zakresie objętym ustawą i uzgadnianie ich w trybie określonym w regulaminie prac Rady Ministrów;
 - **7)** opiniowanie projektów aktów prawnych dotyczących materii określonej ustawą opracowywanych przez uprawnione organy;
-- **8)** przedstawianie ministrowi właściwemu do spraw gospodarki corocznych sprawozdań z działalności Agencji oraz ocen stanu rozwoju badań i użytkowania przestrzeni kosmicznej w Polsce, w terminie do końca marca roku następującego po okresie sprawozdawczym;
-- **9)** informowanie właściwych organów lub podmiotów o stwierdzonych przez Agencję zagrożeniach związanych z naruszeniem warunków zezwolenia na wykonywanie działalności kosmicznej lub ustawy z dnia 13 lutego 2026 r. o działalności kosmicznej oraz o zagrożeniach w przestrzeni kosmicznej, w tym mogących mieć wpływ na infrastrukturę kosmiczną lub naziemną, terytorium Rzeczypospolitej Polskiej oraz ludzi.
+- **8)** przedstawianie ministrowi właściwemu do spraw gospodarki corocznych sprawozdań z działalności Agencji oraz ocen stanu rozwoju badań i użytkowania przestrzeni kosmicznej w Polsce, w terminie do końca marca roku następującego po okresie sprawozdawczym.
 
 3. Prezes Agencji jest uprawniony do samodzielnego dokonywania czynności prawnych w imieniu Agencji. Do dokonywania czynności prawnych Prezes Agencji może ustanowić pełnomocników, którzy działają w zakresie umocowania.
-
-4. Prezes Agencji jest organem egzekucyjnym w zakresie egzekucji administracyjnej obowiązków o charakterze niepieniężnym wskazanych w przepisach ustawy z dnia 13 lutego 2026 r. o działalności kosmicznej.
 
 **Art. 8.**
 
@@ -216,9 +200,9 @@ source: "isap-pdf"
 
 3a. Nieprzedstawienie opinii, o której mowa w ust. 3, w terminie 2 tygodni od dnia otrzymania wystąpienia o opinię jest równoznaczne z przedstawieniem opinii pozytywnej.
 
-4. W przypadku odwołania Prezesa Agencji albo jego śmierci, minister właściwy do spraw gospodarki powierza wiceprezesowi albo innej osobie spełniającej kryteria określone w art. 15 ust. 1 pełnienie obowiązków Prezesa Agencji na okres niedłuższy niż 3 miesiące, z możliwością jednorazowego przedłużenia tego okresu o kolejne 3 miesiące.
+4. W przypadku odwołania Prezesa Agencji minister właściwy do spraw gospodarki powierza wiceprezesowi albo innej osobie spełniającej kryteria określone w art. 15 ust. 1 pełnienie obowiązków Prezesa Agencji, na okres nie dłuższy niż 3 miesiące, z możliwością jednorazowego przedłużenia tego okresu o kolejne 3 miesiące.
 
-5. W przypadku niepowołania Prezesa Agencji w terminie 6 miesięcy od dnia odwołania dotychczasowego Prezesa Agencji albo jego śmierci, minister właściwy do spraw gospodarki powierza kolejnemu wiceprezesowi albo innej osobie spełniającej kryteria określone w art. 15 ust. 1 pełnienie obowiązków Prezesa Agencji na okres niedłuższy niż 3 miesiące, z możliwością jednorazowego przedłużenia tego okresu o kolejne 3 miesiące.
+5. W przypadku niepowołania Prezesa Agencji w terminie 6 miesięcy od dnia odwołania dotychczasowego Prezesa Agencji, minister właściwy do spraw gospodarki powierza kolejnemu wiceprezesowi albo innej osobie spełniającej kryteria określone w art. 15 ust. 1 pełnienie obowiązków Prezesa Agencji, na okres nie dłuższy niż 3 miesiące, z możliwością jednorazowego przedłużenia tego okresu o kolejne 3 miesiące.
 
 6. Osoba pełniąca obowiązki Prezesa Agencji przestaje pełnić swoją funkcję z dniem powołania Prezesa Agencji.
 
@@ -326,9 +310,9 @@ source: "isap-pdf"
 
 - **1)** przygotowywanie i przedstawianie Prezesowi Agencji propozycji dotyczących priorytetów tematycznych i głównych kierunków rozwoju działalności Agencji z uwzględnieniem w szczególności ochrony polskiego interesu narodowego;
 - **2)** przygotowywanie i przedstawianie Prezesowi Agencji projektów strategicznych programów badań i prac rozwojowych w dziedzinie przestrzeni kosmicznej;
-- **3)** opiniowanie projektów rocznych i pięcioletnich planów działalności oraz projektów zmian tych planów;
+- **3)** opiniowanie projektów rocznych i pięcioletnich planów działania oraz projektów zmian tych planów;
 - **4)** opiniowanie projektów aktów normatywnych dotyczących zakresu działalności Agencji;
-- **5)** okresowa ocena wykonywania rocznych planów działalności Agencji;
+- **5)** okresowa ocena wykonywania rocznych planów działania Agencji;
 - **6)** analizowanie efektywności działań podejmowanych przez Agencję;
 - **7)** opiniowanie sprawozdań z działalności Agencji;
 - **8)** nadzór nad gospodarką finansową Agencji;
@@ -351,9 +335,9 @@ source: "isap-pdf"
 
 **Art. 14.**
 
-1. W skład Rady Agencji wchodzą osoby wskazane przez organy, o których mowa w ust. 2, oraz po 4 przedstawicieli nauki i przemysłu, o uznanych osiągnięciach naukowych lub gospodarczych wybranych z uwagi na wiedzę merytoryczną i kompetencje w dziedzinach aktywności Agencji.
+1. W skład Rady Agencji wchodzą przedstawiciele administracji rządowej powołani zgodnie z ust. 2 oraz po 4 przedstawicieli nauki i przemysłu, o uznanych osiągnięciach naukowych lub gospodarczych wybranych z uwagi na wiedzę merytoryczną i kompetencje w dziedzinach aktywności Agencji.
 
-2. Minister właściwy do spraw gospodarki powołuje do członkostwa w Radzie Agencji jedną osobę oraz po jednej osobie wskazanej przez:
+2. Minister właściwy do spraw gospodarki powołuje do członkostwa w Radzie Agencji jedną osobę jako swojego przedstawiciela oraz po jednym przedstawicielu na wniosek:
 
 - **1)** Szefa Kancelarii Prezesa Rady Ministrów,
 - **2)** Ministra Obrony Narodowej,
@@ -365,9 +349,9 @@ source: "isap-pdf"
 - **8)** ministra właściwego do spraw rolnictwa,
 - **9)** ministra właściwego do spraw środowiska,
 - **10)** ministra właściwego do spraw transportu,
-- **11)** ministra właściwego do spraw klimatu – posiadających wiedzę z zakresu spraw należących do właściwości Agencji.
+- **11)** ministra właściwego do spraw klimatu pełniących funkcję co najmniej dyrektora departamentu oraz posiadających wiedzę z zakresu spraw należących do właściwości Agencji.
 
-2a. W przypadku gdy minister kieruje więcej niż jednym działem administracji rządowej wymienionym w ust. 2, do członkostwa w Radzie Agencji wyznacza jedną osobę.
+2a. W przypadku gdy minister kieruje więcej niż jednym działem administracji rządowej wymienionym w ust. 2, do członkostwa w Radzie Agencji wyznacza jednego przedstawiciela.
 
 3. (uchylony)
 
@@ -387,25 +371,19 @@ source: "isap-pdf"
 
 7. Kadencja członka Rady Agencji trwa 5 lat i rozpoczyna się z dniem powołania.
 
-8. Członkostwo w Radzie Agencji wygasa z dniem:
-
-- **1)** upływu kadencji członka Rady Agencji;
-- **2)** śmierci członka Rady Agencji;
-- **3)** odwołania członka Rady Agencji;
-- **4)** rezygnacji z członkostwa w Radzie Agencji.
+8. Członkostwo w Radzie Agencji wygasa w przypadku upływu kadencji członka Rady Agencji, śmierci członka Rady Agencji, jego odwołania albo rezygnacji.
 
 9. Minister właściwy do spraw gospodarki odwołuje członka Rady Agencji z własnej inicjatywy, na wniosek organu, który go wyznaczył, lub na wniosek Przewodniczącego Rady Agencji. Minister właściwy do spraw gospodarki odwołuje członka Rady Agencji w przypadku:
 
 - **1)** niewykonywania obowiązków członka Rady Agencji;
 - **2)** utraty autorytetu dającego rękojmię prawidłowej realizacji zadań Rady Agencji;
 - **3)** choroby uniemożliwiającej sprawowanie funkcji członka Rady Agencji;
-- **4)** (uchylony)
-- **5)** konieczności zapewnienia składu Rady zgodnego z ust. 2a;
-- **6)** złożenia wniosku o jego odwołanie, z przyczyn innych niż wskazane w pkt 1–3 i 5, przez organ, który go wyznaczył.
+- **4)** zaprzestania spełniania wymogu, o którym mowa w ust. 2;
+- **5)** konieczności zapewnienia składu Rady zgodnego z ust. 2a.
 
 10. Członek Rady Agencji może być wybrany na maksymalnie 2 kadencje.
 
-11. Do kandydatów na członków Rady Agencji nie stosuje się wymogu posiadania pozytywnej opinii Rady do spraw spółek z udziałem Skarbu Państwa i państwowych osób prawnych, o której mowa w art. 24 pkt 1 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2020 r. poz. 735), oraz wymogów wymienionych w art. 19 ust. 1 pkt 1 lit. a–j tej ustawy.
+11. Do kandydatów na członków Rady Agencji nie stosuje się wymogu posiadania pozytywnej opinii Rady do spraw spółek z udziałem Skarbu Państwa i państwowych osób prawnych, o której mowa w art. 24 pkt 1 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2020 r. poz. 735), oraz wymogów wymienionych w art. 19 ust. 1 pkt 1 lit. a-j tej ustawy.
 
 **Art. 15.**
 
@@ -442,7 +420,7 @@ source: "isap-pdf"
 
 2. Do czasu zatwierdzenia rocznego planu działalności i planu finansowego Agencja działa na podstawie projektów tych planów.
 
-3. W razie konieczności zmiany planu działalności w trakcie roku obrotowego, Prezes Agencji przekazuje zmieniony plan działalności wraz z opinią Rady Agencji do zatwierdzenia ministrowi właściwemu do spraw gospodarki.
+3. W razie konieczności zmiany planu działania w trakcie roku obrotowego, Prezes Agencji przekazuje zmieniony plan działania wraz z opinią Rady Agencji do zatwierdzenia ministrowi właściwemu do spraw gospodarki.
 
 #### Rozdział 3 Gospodarka Agencji
 
@@ -456,18 +434,18 @@ source: "isap-pdf"
 
 1. Przychodami Agencji są:
 
-- **1)** dotacje celowe z budżetu państwa przeznaczone na:
-    - **a)** realizację zadań Agencji, w tym na współfinansowanie programów i projektów finansowanych z udziałem środków europejskich,
-    - **b)** finansowanie lub dofinansowanie inwestycji Agencji;
+- **1)** dotacje celowe z budżetu państwa przeznaczone na: realizację zadań Agencji, w tym na współfinansowanie programów i projektów finansowanych z udziałem środków europejskich, finansowanie lub dofinansowanie inwestycji Agencji;
+    - **a)**
+    - **b)**
 
-- **2)** środki pochodzące z funduszy Unii Europejskiej;
+- **2)** środki pochodzące z funduszy Unii Europejskiej, przeznaczone na realizację zadań Agencji;
 - **3)** dotacje podmiotowe z budżetu państwa przeznaczone na dofinansowanie bieżącej działalności Agencji, w tym zarządzania realizacją zadań, o których mowa w art. 3;
-- **4)** przychody z prowadzonej działalności, w tym z tytułu odpłatności za usługi świadczone przez Agencję lub wydawane przez nią publikacje, w szczególności:
-    - **a)** umowy o doradztwo lub zarządzanie z instytucjami badawczymi, uniwersyteckimi i podmiotami gospodarczymi, działającymi w dziedzinie badania i użytkowania przestrzeni kosmicznej i zwracającymi się do Agencji z zadaniami tego rodzaju,
-    - **b)** umowy rozwojowo-badawcze zawierane przez Agencję ze zlecającymi organami publicznymi i przedsiębiorcami,
-    - **c)** umowy udziału w międzynarodowych programach rozwojowo-badawczych,
-    - **d)** wynagrodzenie za świadczone usługi edukacyjne lub doradcze,
-    - **e)** komercjalizacji wyników wdrażanych działań i projektów;
+- **4)** przychody z prowadzonej działalności, w tym z tytułu odpłatności za usługi świadczone przez Agencję lub wydawane przez nią publikacje, w szczególności: umowy o doradztwo lub zarządzanie z instytucjami badawczymi, uniwersyteckimi i podmiotami gospodarczymi, działającymi w dziedzinie badania i użytkowania przestrzeni kosmicznej i zwracającymi się do Agencji z zadaniami tego rodzaju, umowy rozwojowo-badawcze zawierane przez Agencję ze zlecającymi organami publicznymi i przedsiębiorcami, umowy udziału w międzynarodowych programach rozwojowo-badawczych, wynagrodzenie za świadczone usługi edukacyjne, doradcze, określone przez prawo, komercjalizacji wyników wdrażanych działań i projektów;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 - **5)** dobrowolne wpłaty i zapisy;
 - **6)** odsetki od wolnych środków przekazanych w depozyt zgodnie z przepisami o finansach publicznych;
@@ -517,7 +495,7 @@ source: "isap-pdf"
 11. Prezes Agencji przedstawia ministrowi właściwemu do spraw gospodarki do zatwierdzenia:
 
 - **1)** sprawozdanie finansowe Agencji wraz ze sprawozdaniem z badania,
-- **2)** roczne sprawozdanie z działalności Agencji – za rok ubiegły w terminie do dnia 31 marca następnego roku; do sprawozdań dołącza się opinię Rady Agencji.
+- **2)** roczne sprawozdanie z działalności Agencji za rok ubiegły w terminie do dnia 31 marca następnego roku; do sprawozdań dołącza się opinię Rady Agencji.
 
 12. Minister właściwy do spraw gospodarki zatwierdza zaopiniowane i przedstawione mu przez Prezesa Agencji sprawozdania, o których mowa w ust. 11, nie później niż w terminie 3 miesięcy od dnia ich otrzymania.
 
@@ -529,23 +507,6 @@ source: "isap-pdf"
 
 **Art. 21.**
 
-1. Prezes Rady Ministrów określi składniki majątkowe i niemajątkowe stanowiące majątek Agencji w drodze decyzji wydanej nie później niż w terminie 3 miesięcy od dnia wejścia w życie ustawy.
+1.
 
-2. Decyzja, o której mowa w ust. 1, stanowi podstawę do wpisania do ksiąg wieczystych i rejestrów tytułu prawnego Agencji do określonych w decyzji składników majątkowych i niemajątkowych.
-
-3. Agencja przejmuje składniki majątkowe, o których mowa w ust. 1, na utworzenie funduszu statutowego.
-
-**Art. 22.**
-
-1. Do czasu powołania Prezesa Agencji zgodnie z art. 8, Prezes Rady Ministrów po zasięgnięciu opinii ministra właściwego do spraw gospodarki powołuje Prezesa Agencji bez przeprowadzenia konkursu, w terminie 14 dni od dnia ogłoszenia ustawy, jednak nie dłużej niż na 6 miesięcy.
-
-2. Prezes Agencji, o którym mowa w ust. 1, do czasu powołania Prezesa Agencji zgodnie z art. 8, jest uprawniony do podejmowania wszelkich działań przygotowawczych i organizacyjnych niezbędnych do utworzenia Agencji oraz jej funkcjonowania.
-
-3. Do czasu utworzenia Agencji koszty związane z wynagrodzeniem i działalnością Prezesa Agencji pokrywa Kancelaria Prezesa Rady Ministrów.
-
-**Art. 23.** Plan działania Agencji w pierwszym roku obrotowym jej działalności, Prezes Agencji, po zasięgnięciu opinii ministra właściwego do spraw gospodarki, przedstawia Prezesowi Rady Ministrów w terminie miesiąca od dnia powołania Rady Agencji. Jeśli do tego czasu Rada Agencji nie zostanie powołana, Prezes Agencji przedstawia plan działania Agencji bez opinii Rady Agencji.
-
-**Art. 24.** W terminie 3 miesięcy od dnia wejścia w życie ustawy, Prezes Rady Ministrów powołuje członków pierwszej Rady Agencji.
-
-**Art. 25.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia , z wyjątkiem art. 22, który wchodzi w życie z dniem ogłoszenia.
 

@@ -8,12 +8,10 @@ pos: 2705
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych
-
-*USTAWA z dnia 1 grudnia 2022 r.*
+# Ustawa z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,9 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-01 |
 | Data wydania | 2022-12-21 |
+| Wejście w życie | 2023-06-22 |
 | Ostatnia zmiana | 2025-11-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002705) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2705/text.pdf) |
-
-Art. 206–217. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -50,13 +47,25 @@ Art. 206–217. (pominięte)
 
 **Art. 2.** Zawód ratownika medycznego może wykonywać osoba, która:
 
+- **1)** posiada pełną zdolność do czynności prawnych;
+- **2)** posiada stan zdrowia pozwalający na wykonywanie zawodu ratownika medycznego;
+- **3)** posiada znajomość języka polskiego w mowie i w piśmie w zakresie niezbędnym do wykonywania zawodu ratownika medycznego;
+- **4)** spełnia następujące wymagania: rozpoczęła przed dniem 1 października 2019 r. studia na kierunku (specjalności) ratownictwo medyczne lub medycyna ratunkowa i uzyskała tytuł zawodowy licencjata lub magistra na tym kierunku (tej specjalności) lub rozpoczęła po roku akademickim 2018/2019 studia przygotowujące do wykonywania zawodu ratownika medycznego, prowadzone zgodnie z przepisami wydanymi na podstawie art. 68 ust. 3 pkt 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm.), i uzyskała tytuł zawodowy licencjata lub magistra, lub rozpoczęła przed dniem 1 marca 2013 r. naukę w publicznej szkole policealnej lub niepublicznej szkole policealnej o uprawnieniach szkoły publicznej i uzyskała dyplom potwierdzający uzyskanie tytułu zawodowego ratownika medycznego albo dyplom potwierdzający kwalifikacje zawodowe w zawodzie ratownik medyczny, lub posiada dyplom wydany w państwie innym niż państwo członkowskie, uznany w Rzeczypospolitej Polskiej zgodnie z przepisami ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce za równoważny z dyplomem i tytułem zawodowym, o którym mowa w lit. a lub b, i uzyskała prawo pobytu na terytorium Rzeczypospolitej Polskiej zgodnie z przepisami ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2021 r. poz. 2354, z późn. zm.) albo ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2021 r. poz. 1697), lub posiada kwalifikacje do wykonywania zawodu ratownika medycznego uznane w Rzeczypospolitej Polskiej na podstawie przepisów ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2021 r. poz. 1646 oraz z 2022 r. poz. 1616), lub posiada kwalifikacje uzyskane przed dniem 1 stycznia 2021 r. w Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej uznane w Rzeczypospolitej Polskiej na podstawie przepisów ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej przez Krajową Radę Ratowników Medycznych zwaną dalej „Krajową Radą”;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+
+- **5)** swoim dotychczasowym zachowaniem daje rękojmię prawidłowego wykonywania zawodu ratownika medycznego, w szczególności nie była skazana prawomocnym wyrokiem sądu za umyślne przestępstwo ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe;
+- **6)** posiada prawo wykonywania zawodu ratownika medycznego.
+
 **Art. 3.**
 
-1. Obowiązek, o którym mowa w art. 2 pkt 3, uważa się za spełniony, jeżeli osoba ukończyła studia na kierunku (specjalności) ratownictwo medyczne lub medycyna ratunkowa lub studia przygotowujące do wykonywania zawodu ratownika medycznego – prowadzone w języku polskim lub publiczną szkołę policealną lub niepubliczną szkołę policealną o uprawnieniach szkoły publicznej – kształcące w języku polskim albo uzyskała dokument potwierdzający znajomość języka polskiego w mowie i w piśmie w zakresie niezbędnym do wykonywania zawodu ratownika medycznego na terytorium Rzeczypospolitej Polskiej, w szczególności gdy znajomość języka polskiego jest potwierdzona pozytywnym złożeniem egzaminu z języka polskiego zorganizowanego i przeprowadzonego przez Krajową Radę.
+1. Obowiązek, o którym mowa w art. 2 pkt 3, uważa się za spełniony, jeżeli osoba ukończyła studia na kierunku (specjalności) ratownictwo medyczne lub medycyna ratunkowa lub studia przygotowujące do wykonywania zawodu ratownika medycznego – prowadzone w języku polskim lub publiczną szkołę policealną lub niepubliczną szkołę policealną o uprawnieniach szkoły publicznej – kształcące w języku polskim albo uzyskała dokument potwierdzający znajomość języka polskiego w mowie i w piśmie w zakresie niezbędnym do wykonywania zawodu ratownika medycznego na terytorium Rzeczypospolitej Polskiej, w szczególności gdy znajomość języka polskiego jest potwierdzona pozytywnym złożeniem egzaminu z języka polskiego zorganizowanego i przeprowadzonego przez Krajową Radę. 2. Krajowa Rada ocenia dokumenty potwierdzające znajomość języka polskiego, biorąc pod uwagę wymagany zakres znajomości języka polskiego w mowie i w piśmie niezbędny do wykonywania zawodu ratownika medycznego, określony w przepisach wydanych na podstawie art. 6.
 
-2. Krajowa Rada ocenia dokumenty potwierdzające znajomość języka polskiego, biorąc pod uwagę wymagany zakres znajomości języka polskiego w mowie i w piśmie niezbędny do wykonywania zawodu ratownika medycznego, określony w przepisach wydanych na podstawie art. 6.
-
-**Art. 4.** Opłatę za egzamin, o którym mowa w art. 3 ust. 1, ponosi osoba zdająca, a wpływy z tego tytułu stanowią przychód Krajowej Rady. Wysokość opłaty nie może być wyższa niż 30 % przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku za ubiegły rok, ogłaszanego w roku poprzedzającym rok, w którym osoba zdająca wnosi opłatę za egzamin, w drodze obwieszczenia, przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+**Art. 4.** Opłatę za egzamin, o którym mowa w art. 3 ust. 1, ponosi osoba zdająca, a wpływy z tego tytułu stanowią przychód Krajowej Rady. Wysokość opłaty nie może być wyższa niż 30% przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku za ubiegły rok, ogłaszanego w roku poprzedzającym rok, w którym osoba zdająca wnosi opłatę za egzamin, w drodze obwieszczenia, przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
 **Art. 5.**
 
@@ -64,15 +73,19 @@ Art. 206–217. (pominięte)
 
 2. Zaświadczenie, o którym mowa w ust. 1, zawiera:
 
-- **1)** dane osoby, która przystąpiła do egzaminu:
-    - **a)** imię (imiona) i nazwisko,
-    - **b)** datę i miejsce urodzenia;
+- **1)** dane osoby, która przystąpiła do egzaminu: imię (imiona) i nazwisko, datę i miejsce urodzenia;
+    - **a)**
+    - **b)**
 
 - **2)** dane dotyczące Krajowej Rady;
 - **3)** imię (imiona) i nazwisko Prezesa Krajowej Rady;
 - **4)** datę złożenia egzaminu.
 
 **Art. 6.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** zakres znajomości języka polskiego w mowie i w piśmie niezbędny do wykonywania zawodu ratownika medycznego,
+- **2)** sposób przeprowadzania egzaminu, o którym mowa w art. 3 ust. 1, oraz wzór zaświadczenia o pozytywnym złożeniu tego egzaminu,
+- **3)** wysokość opłaty za egzamin, o którym mowa w art. 3 ust. 1 uwzględniając zakres uprawnień zawodowych określonych w art. 33, prawidłowe przygotowanie i przebieg egzaminu, o którym mowa w art. 3 ust. 1, oraz koszty jego przeprowadzenia.
 
 **Art. 7.**
 
@@ -81,9 +94,9 @@ Art. 206–217. (pominięte)
 - **1)** posiada pełną zdolność do czynności prawnych;
 - **2)** jej stan zdrowia pozwala na wykonywanie zawodu ratownika medycznego;
 - **3)** posiada znajomość języka polskiego w mowie i w piśmie w zakresie niezbędnym do wykonywania zawodu ratownika medycznego;
-- **4)** posiada:
-    - **a)** dyplom wydany poza terytorium państw członkowskich potwierdzający uzyskanie tytułu zawodowego ratownika medycznego lub
-    - **b)** dokumenty potwierdzające co najmniej 3-letnie doświadczenie zawodowe w wykonywaniu zadań zawodowych, o których mowa w art. 33 ust. 1, uzyskane w okresie ostatnich 5 lat poprzedzających udzielenie zgody.
+- **4)** posiada: dyplom wydany poza terytorium państw członkowskich potwierdzający uzyskanie tytułu zawodowego ratownika medycznego lub dokumenty potwierdzające co najmniej 3-letnie doświadczenie zawodowe w wykonywaniu zadań zawodowych, o których mowa w art. 33 ust. 1, uzyskane w okresie ostatnich 5 lat poprzedzających udzielenie zgody.
+    - **a)**
+    - **b)**
 
 2. Minister właściwy do spraw zdrowia zamieszcza w Biuletynie Informacji Publicznej na swojej stronie podmiotowej wykaz dokumentów poświadczających spełnienie warunków, o których mowa w ust. 1 pkt 1–3 i pkt 4 lit. b.
 
@@ -132,6 +145,11 @@ Art. 206–217. (pominięte)
 
 **Art. 16.** Zgoda, o której mowa w art. 7 ust. 1, wygasa z mocy prawa w przypadku:
 
+- **1)** uzyskania prawa wykonywania zawodu ratownika medycznego na terytorium Rzeczypospolitej Polskiej na innej podstawie;
+- **2)** ubezwłasnowolnienia całkowitego albo częściowego ratownika medycznego;
+- **3)** złożenia przez ratownika medycznego oświadczenia o zrzeczeniu się wynikających z niej uprawnień;
+- **4)** śmierci ratownika medycznego.
+
 **Art. 17.**
 
 1. Na podstawie decyzji, o której mowa w art. 8 ust. 1, Krajowa Rada przyznaje w formie uchwały adresatowi tej decyzji prawo wykonywania zawodu ratownika medycznego, wydaje, w terminie 7 dni od dnia otrzymania decyzji i wniosku, o którym mowa w art. 23 ust. 4, dokument „Prawo wykonywania zawodu ratownika medycznego” oraz wpisuje ratownika medycznego do rejestru, o którym mowa w art. 137.
@@ -178,26 +196,26 @@ Art. 206–217. (pominięte)
 
 3. Do wniosku, o którym mowa w ust. 2, dołącza się:
 
-- **1)** w przypadku osób, o których mowa w art. 2 pkt 4 lit. a–c: poz. 671 oraz z 2023 r. poz. 1234 i 1941),
-    - **a)** oryginały lub notarialnie poświadczone kopie dokumentów potwierdzających spełnienie warunków, o których mowa w art. 2 pkt 4 lit. a–c,
-    - **b)** pisemne oświadczenie o następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia oświadczam, że posiadam pełną zdolność do czynności prawnych.”,
-    - **c)** wizerunek twarzy ratownika medycznego zgodny z zasadami określonymi w ustawie z dnia 6 sierpnia 2010 r. o dowodach osobistych (Dz. U. z 2022 r.
-    - **d)** zaświadczenie lekarskie o stanie zdrowia pozwalającym na wykonywanie zawodu ratownika medycznego;
+- **1)** w przypadku osób, o których mowa w art. 2 pkt 4 lit. a-c: oryginały lub notarialnie poświadczone kopie dokumentów potwierdzających spełnienie warunków, o których mowa w art. 2 pkt 4 lit. a-c, pisemne oświadczenie o następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia oświadczam, że posiadam pełną zdolność do czynności prawnych.”, wizerunek twarzy ratownika medycznego zgodny z zasadami określonymi w ustawie z dnia 6 sierpnia 2010 r. o dowodach osobistych (Dz. U. z 2022 r. poz. 671), zaświadczenie lekarskie o stanie zdrowia pozwalającym na wykonywanie zawodu ratownika medycznego;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
-- **2)** w przypadku osób, o których mowa w art. 2 pkt 4 lit. d:
-    - **a)** tłumaczone na język polski przez tłumacza przysięgłego oryginały lub notarialnie poświadczone kopie dokumentów, na podstawie których potwierdzono spełnienie warunków, o których mowa w art. 2 pkt 4 lit. d,
-    - **b)** pisemne oświadczenie o treści określonej w pkt 1 lit. b,
-    - **c)** wizerunek twarzy ratownika medycznego zgodny z zasadami określonymi w ustawie z dnia 6 sierpnia 2010 r. o dowodach osobistych,
-    - **d)** kopię dokumentu, na podstawie którego cudzoziemiec niebędący obywatelem państwa członkowskiego uzyskał prawo pobytu na terytorium Rzeczypospolitej Polskiej, lub innego dowodu potwierdzającego posiadanie przez cudzoziemca prawa pobytu na terytorium Rzeczypospolitej Polskiej,
-    - **e)** dokument potwierdzający znajomość języka polskiego w mowie i w piśmie w zakresie niezbędnym do wykonywania zawodu ratownika medycznego,
-    - **f)** zaświadczenie lekarskie o stanie zdrowia pozwalającym na wykonywanie zawodu ratownika medycznego;
+- **2)** w przypadku osób, o których mowa w art. 2 pkt 4 lit. d: tłumaczone na język polski przez tłumacza przysięgłego oryginały lub notarialnie poświadczone kopie dokumentów, na podstawie których potwierdzono spełnienie warunków, o których mowa w art. 2 pkt 4 lit. d, pisemne oświadczenie o treści określonej w pkt 1 lit. b, wizerunek twarzy ratownika medycznego zgodny z zasadami określonymi w ustawie z dnia 6 sierpnia 2010 r. o dowodach osobistych, kopię dokumentu, na podstawie którego cudzoziemiec niebędący obywatelem państwa członkowskiego uzyskał prawo pobytu na terytorium Rzeczypospolitej Polskiej, lub innego dowodu potwierdzającego posiadanie przez cudzoziemca prawa pobytu na terytorium Rzeczypospolitej Polskiej, dokument potwierdzający znajomość języka polskiego w mowie i w piśmie w zakresie niezbędnym do wykonywania zawodu ratownika medycznego, zaświadczenie lekarskie o stanie zdrowia pozwalającym na wykonywanie zawodu ratownika medycznego;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
 
-- **3)** w przypadku osób, o których mowa w art. 2 pkt 4 lit. e:
-    - **a)** oryginały lub notarialnie poświadczone kopie dokumentów potwierdzających spełnienie warunków, o których mowa w art. 2 pkt 4 lit. e,
-    - **b)** pisemne oświadczenie o treści określonej w pkt 1 lit. b,
-    - **c)** wizerunek twarzy ratownika medycznego zgodny z zasadami określonymi w ustawie z dnia 6 sierpnia 2010 r. o dowodach osobistych,
-    - **d)** dokument potwierdzający znajomość języka polskiego w mowie i w piśmie w zakresie niezbędnym do wykonywania zawodu ratownika medycznego,
-    - **e)** zaświadczenie lekarskie o stanie zdrowia pozwalającym na wykonywanie zawodu ratownika medycznego.
+- **3)** w przypadku osób, o których mowa w art. 2 pkt 4 lit. e: oryginały lub notarialnie poświadczone kopie dokumentów potwierdzających spełnienie warunków, o których mowa w art. 2 pkt 4 lit. e, pisemne oświadczenie o treści określonej w pkt 1 lit. b, wizerunek twarzy ratownika medycznego zgodny z zasadami określonymi w ustawie z dnia 6 sierpnia 2010 r. o dowodach osobistych, dokument potwierdzający znajomość języka polskiego w mowie i w piśmie w zakresie niezbędnym do wykonywania zawodu ratownika medycznego, zaświadczenie lekarskie o stanie zdrowia pozwalającym na wykonywanie zawodu ratownika medycznego.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 4. W przypadku osób, o których mowa w art. 7 ust. 1, wniosek zawiera następujące dane dotyczące osoby ubiegającej się o przyznanie prawa wykonywania zawodu ratownika medycznego:
 
@@ -223,9 +241,7 @@ Art. 206–217. (pominięte)
 
 2. W przypadku stwierdzenia braków formalnych Krajowa Rada w terminie 14 dni od dnia otrzymania dokumentów wzywa do ich uzupełnienia, w terminie 7 dni od dnia otrzymania wezwania, pod rygorem pozostawienia wniosku bez rozpoznania.
 
-**Art. 24a.** W przypadku uzasadnionych wątpliwości dotyczących autentyczności dyplomów, świadectw lub innych dokumentów, o których mowa w art. 2 pkt 4 lit. a– f, wydanych przez odpowiednie uczelnie, szkoły, władze i organizacje państwa członkowskiego Unii Europejskiej lub władze i organizacje państwa innego niż państwo członkowskie Unii Europejskiej, Krajowa Rada zwraca się do odpowiednich uczelni, szkół, władz lub organizacji tego państwa o potwierdzenie autentyczności dyplomów, świadectw lub innych dokumentów wydanych przez to państwo oraz o poświadczenie, że ratownik medyczny zamierzający wykonywać zawód na terytorium Rzeczypospolitej Polskiej uzyskał wykształcenie zgodne z przepisami obowiązującymi w określonym państwie członkowskim Unii Europejskiej lub w państwie innym niż państwo członkowskie Unii Europejskiej.
-
-**Art. 25.** Krajowa Rada może odmówić przyznania prawa wykonywania zawodu ratownika medycznego wyłącznie w przypadku, gdy stwierdzi, że osoba ubiegająca się o to prawo nie spełnia warunków, o których mowa w art. 2. Odmowa przyznania prawa wykonywania zawodu ratownika medycznego oraz stwierdzenie utraty tego prawa następują w drodze uchwały Krajowej Rady. Do uchwały Krajowej Rady stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) dotyczące decyzji administracyjnej.
+**Art. 25.** Krajowa Rada może odmówić przyznania prawa wykonywania zawodu ratownika medycznego wyłącznie w przypadku, gdy stwierdzi, że osoba ubiegająca się o to prawo nie spełnia warunków, o których mowa w art. 2. Odmowa przyznania prawa wykonywania zawodu ratownika medycznego oraz stwierdzenie utraty tego prawa następują w drodze uchwały Krajowej Rady. Do uchwały Krajowej Rady stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2022 r. poz. 2000 i 2185) dotyczące decyzji administracyjnej.
 
 **Art. 26.** Osoba, której przyznano prawo wykonywania zawodu ratownika medycznego, podlega wpisowi do rejestru, o którym mowa w art. 137. Ratownikowi medycznemu wpisanemu do rejestru, o którym mowa w art. 137, Krajowa Rada wydaje dokument „Prawo wykonywania zawodu ratownika medycznego”.
 
@@ -233,11 +249,25 @@ Art. 206–217. (pominięte)
 
 1. Wpis do rejestru, o którym mowa w art. 137, podlega opłacie.
 
-2. Wysokość opłaty określa Krajowa Rada. Wysokość opłaty nie może być wyższa niż 10 % przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku za ubiegły rok, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w drodze obwieszczenia, do dnia 15 stycznia każdego roku. Opłata stanowi przychód Krajowej Izby Ratowników Medycznych.
+2. Wysokość opłaty określa Krajowa Rada. Wysokość opłaty nie może być wyższa niż 10% przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku za ubiegły rok, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w drodze obwieszczenia, do dnia 15 stycznia każdego roku. Opłata stanowi przychód Krajowej Izby Ratowników Medycznych.
 
 3. Potwierdzenie wniesienia opłaty ratownik medyczny dołącza do wniosku, o którym mowa w art. 23 ust. 2 i 4.
 
-**Art. 28.** <1.> Dokument „Prawo wykonywania zawodu ratownika medycznego” zawiera:
+**Art. 28.** Dokument „Prawo wykonywania zawodu ratownika medycznego” zawiera:
+
+- **1)** nazwę dokumentu „Prawo wykonywania zawodu ratownika medycznego” oraz nazwę dokumentu w języku angielskim;
+- **2)** numer prawa wykonywania zawodu;
+- **3)** datę uzyskania prawa wykonywania zawodu;
+- **4)** termin jego ważności, jeżeli dotyczy;
+- **5)** wskazanie organu przyznającego prawo wykonywania zawodu;
+- **6)** imię (imiona) i nazwisko;
+- **7)** tytuł zawodowy;
+- **8)** wizerunek twarzy ratownika medycznego zgodny z zasadami określonymi w ustawie z dnia 6 sierpnia 2010 r. o dowodach osobistych;
+- **9)** numer seryjny dokumentu;
+- **10)** adnotację o następującej treści: „Prawo wykonywania zawodu jest dokumentem uprawniającym do wykonywania zawodu ratownika medycznego na terytorium Rzeczypospolitej Polskiej.”;
+- **11)** adnotację, że dane prawo wykonywania zawodu jest przyznane na podstawie zgody ministra właściwego do spraw zdrowia na okres 5 lat, jeżeli dotyczy;
+- **12)** wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej;
+- **13)** elementy zabezpieczające przed fałszerstwem, uwzględniające minimalne zabezpieczenia dla dokumentów publicznych kategorii drugiej określone w przepisach wydanych na podstawie art. 7 ust. 5 ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2022 r. poz. 1394 i 1415).
 
 **Art. 29.** Minister właściwy do spraw zdrowia może upoważnić Krajową Radę do wykonywania w jego imieniu zadań określonych w art. 11, art. 14, art. 34 ust. 2 i 3, art. 35, art. 36 ust. 1 oraz art. 37–39 ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych, a także do zawarcia umowy w sprawie wytwarzania blankietów dokumentów publicznych ze spółką w rozumieniu art. 2 ust. 1 pkt 7 tej ustawy albo innym podmiotem, o których mowa w art. 11 i art. 18 tej ustawy.
 
@@ -256,29 +286,34 @@ Art. 206–217. (pominięte)
 
 **Art. 32.** Prawo wykonywania zawodu ratownika medycznego wygasa w przypadku:
 
+- **1)** upływu 5 lat od dnia wydania zgody, o której mowa w art. 7 ust. 1;
+- **2)** wygaśnięcia zgody, o której mowa w art. 7 ust. 1;
+- **3)** złożenia przez ratownika medycznego oświadczenia o zrzeczeniu się uprawnień wynikających ze zgody, o której mowa w art. 7 ust. 1;
+- **4)** śmierci ratownika medycznego.
+
 #### Rozdział 3 Zasady i warunki wykonywania zawodu ratownika medycznego
 
 **Art. 33.**
 
 1. Wykonywanie zawodu ratownika medycznego polega na:
 
-- **1)** udzielaniu świadczeń zdrowotnych, w tym medycznych czynności ratunkowych w rozumieniu art. 3 pkt 4 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2025 r. poz. 91) udzielanych samodzielnie lub na zlecenie lekarza;
+- **1)** udzielaniu świadczeń zdrowotnych, w tym medycznych czynności ratunkowych w rozumieniu art. 3 pkt 4 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2022 r. poz. 1720 i 1733) udzielanych samodzielnie lub na zlecenie lekarza;
 - **2)** zabezpieczaniu osób znajdujących się w miejscu zdarzenia oraz podejmowaniu działań zapobiegających zwiększeniu się liczby osób w stanie nagłego zagrożenia zdrowotnego;
 - **3)** transportowaniu osób w stanie nagłego zagrożenia zdrowotnego;
 - **4)** udzielaniu wsparcia psychicznego w sytuacji powodującej stan nagłego zagrożenia zdrowotnego;
-- **5)** stwierdzaniu zgonu, do którego doszło podczas akcji medycznej, o której mowa w art. 40 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym.
+- **5)** stwierdzaniu zgonu, do którego doszło podczas akcji medycznej, o której mowa w art. 41 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym.
 
 2. Za wykonywanie zawodu ratownika medycznego uważa się również:
 
 - **1)** nauczanie zawodu ratownika medycznego oraz wykonywanie pracy na rzecz doskonalenia zawodowego ratowników medycznych i dyspozytorów medycznych;
 - **2)** organizowanie i prowadzenie zajęć z zakresu kwalifikowanej pierwszej pomocy, medycznych czynności ratunkowych oraz pierwszej pomocy w rozumieniu odpowiednio art. 3 pkt 2, 4 i 7 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym;
 - **3)** prowadzenie badań naukowych lub prac rozwojowych w zakresie ratownictwa medycznego;
-- **4)** kierowanie:
-    - **a)** ratownikami medycznymi,
-    - **b)** dyspozytorami medycznymi;
+- **4)** kierowanie: ratownikami medycznymi, dyspozytorami medycznymi;
+    - **a)**
+    - **b)**
 
 - **5)** zatrudnienie lub pełnienie służby na stanowiskach administracyjnych, na których wykonuje się czynności związane z przygotowywaniem i organizowaniem świadczeń zdrowotnych w zakresie ratownictwa medycznego lub nadzorem nad ich udzielaniem;
-- **6)** zatrudnienie lub pełnienie służby na stanowisku perfuzjonisty po ukończeniu kursu kwalifikacyjnego w zakresie perfuzji organizowanego przez Centrum Medycznego Kształcenia Podyplomowego, o którym mowa w ustawie z dnia 13 września 2018 r. o Centrum Medycznego Kształcenia Podyplomowego (Dz. U. z 2024 r. poz. 570 i 1897), zwane dalej „CMKP”, lub Polskie Stowarzyszenie Perfuzjonistów;
+- **6)** zatrudnienie lub pełnienie służby na stanowisku perfuzjonisty po ukończeniu kursu kwalifikacyjnego w zakresie perfuzji organizowanego przez Centrum Medyczne Kształcenia Podyplomowego, o którym mowa w ustawie z dnia 13 września 2018 r. o Centrum Medycznym Kształcenia Podyplomowego (Dz. U. z 2021 r. poz. 77), zwane dalej „CMKP”, lub Polskie Stowarzyszenie Perfuzjonistów;
 - **7)** sprawowanie funkcji z wyboru w organach samorządu ratowników medycznych lub wykonywanie pracy na rzecz tego samorządu w zakresie realizacji jego zadań.
 
 3. Warunkiem przystąpienia do kursu, o którym mowa w ust. 2 pkt 6, jest:
@@ -289,17 +324,44 @@ Art. 206–217. (pominięte)
 
 **Art. 34.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczegółowy zakres:
 
+- **1)** medycznych czynności ratunkowych, które mogą być udzielane przez ratownika medycznego samodzielnie lub na zlecenie lekarza,
+- **2)** świadczeń zdrowotnych innych niż medyczne czynności ratunkowe, które mogą być udzielane przez ratownika medycznego samodzielnie lub na zlecenie lekarza w jednostkach wymienionych w art. 36 pkt 1–5 i 12–15, z wyłączeniem podmiotów leczniczych będących jednostkami budżetowymi i jednostkami wojskowymi, dla których podmiotem tworzącym jest Minister Obrony Narodowej kierując się zakresem wiedzy i umiejętności nabytych przez ratownika medycznego w ramach kształcenia na studiach przygotowujących do wykonywania zawodu ratownika medycznego i kształcenia podyplomowego.
+
 **Art. 35.** Ratownik medyczny ma obowiązek wykonywać zawód zgodnie ze wskazaniami aktualnej wiedzy medycznej, z zasadami etyki zawodowej oraz z należytą starannością.
 
 **Art. 36.** Ratownik medyczny wykonuje zadania zawodowe, o których mowa w art. 33 ust. 1 pkt 1:
 
-**Art. 37.** Ratownik medyczny podczas wykonywania czynności, o których mowa w art. 33 ust. 1 oraz ust. 2 pkt 1, 2, 4 i 5, oraz w związku z ich wykonywaniem korzysta z ochrony przewidzianej dla funkcjonariuszy publicznych na zasadach określonych w ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17, 1228, 1907 i 1965).
+- **1)** w podmiotach leczniczych, o których mowa w art. 4 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2022 r. poz. 633, 655, 974, 1079 i 2280);
+- **2)** w ramach ratownictwa górskiego i ratownictwa narciarskiego w rozumieniu odpowiednio art. 2 pkt 7 i 8 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie i ratownictwie w górach i na zorganizowanych terenach narciarskich (Dz. U. z 2022 r. poz. 1425);
+- **3)** w ramach ratownictwa wodnego w rozumieniu art. 2 pkt 4 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych (Dz. U. z 2022 r. poz. 147);
+- **4)** w ramach ratownictwa górniczego, o którym mowa w art. 122 ust. 1 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2022 r. poz. 1072, 1261, 1504, 2185 i 2687);
+- **5)** w ramach Morskiej Służby Poszukiwania i Ratownictwa, o której mowa w art. 116 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2022 r. poz. 515, 1604, 2185 i 2687);
+- **6)** w jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych niebędących podmiotami leczniczymi;
+- **7)** w jednostkach ochrony przeciwpożarowej, o których mowa w art. 15 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2022 r. poz. 2057), włączonych do krajowego systemu ratowniczo-gaśniczego, podczas działań ratowniczych, ćwiczeń oraz szkoleń;
+- **8)** w ramach działań kontrterrorystycznych realizowanych przez służby podległe ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowane;
+- **9)** w ramach zadań Policji, o których mowa w art. 1 ust. 2 pkt 1–4 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882, z późn. zm.), oraz zadań realizowanych w Akademii Policji w Szczytnie i szkołach policyjnych, o których mowa w art. 4 ust. 3 pkt 1 tej ustawy;
+- **10)** w ramach zadań Służby Ochrony Państwa, o których mowa w art. 3 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2021 r. poz. 575, 1728 i 2333 oraz z 2022 r. poz. 655, 1115 i 2600);
+- **11)** w ramach zadań Straży Granicznej, o których mowa w art. 1 ust. 2 pkt 1–2a, 4–5b, 5d, 10, 12–14 i ust. 2a ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2022 r. poz. 1061, 1115, 1855 i 2600);
+- **12)** na lotniskach w związku z wymaganiami, o których mowa w przepisach wydanych na podstawie art. 85 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2022 r. poz. 1235, 1715, 1846, 2185 i 2642);
+- **13)** w ramach wykonywania transportu sanitarnego i transportu medycznego, o których mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561 i 2674);
+- **14)** w izbach wytrzeźwień, wchodząc w skład zmiany, o której mowa w przepisach wydanych na podstawie art. 423 ust. 5 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2021 r. poz. 1119 i 2469 oraz z 2022 r. poz. 24, 218, 1700 i 2185);
+- **15)** w ramach służby poszukiwania i ratownictwa lotniczego, o której mowa w art. 140a ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze;
+- **16)** w wyodrębnionych oddziałach prewencji, o których mowa w art. 4 ust. 3 pkt 2 ustawy z dnia 6 kwietnia 1990 r. o Policji, w Centralnym Pododdziale Kontrterrorystycznym Policji „BOA” oraz w samodzielnych pododdziałach kontrterrorystycznych Policji, o których mowa w art. 5c ust. 1 tej ustawy;
+- **17)** na stanowisku dyspozytora medycznego;
+- **18)** w ramach zadań Służby Więziennej, o których mowa w art. 2 ust. 2 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2022 r. poz. 2470).
+
+**Art. 37.** Ratownik medyczny podczas wykonywania czynności, o których mowa w art. 33 ust. 1 oraz ust. 2 pkt 1, 2, 4 i 5, oraz w związku z ich wykonywaniem korzysta z ochrony przewidzianej dla funkcjonariuszy publicznych na zasadach określonych w ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138, 1726, 1855, 2339 i 2600).
 
 **Art. 38.** Ratownik medyczny może wykonywać zawód:
 
+- **1)** w ramach umowy o pracę;
+- **2)** w ramach stosunku służbowego;
+- **3)** na podstawie umowy cywilnoprawnej;
+- **4)** w ramach porozumienia o wolontariacie.
+
 **Art. 39.**
 
-1. Jeżeli ratownik medyczny spełniający warunki, o których mowa w art. 2, nie wykonuje zawodu ratownika medycznego przez okres dłuższy niż 5 lat łącznie w okresie ostatnich 6 lat, a zamierza podjąć wykonywanie zawodu ratownika medycznego, jest obowiązany zawiadomić Krajową Radę i odbyć przeszkolenie. Koszty tego przeszkolenia ponosi ratownik medyczny.
+1. Jeżeli ratownik medyczny spełniający warunki, o których mowa w art. 2, nie wykonuje zawodu poprzez udzielanie świadczeń zdrowotnych, przez okres dłuższy niż 5 lat łącznie w okresie ostatnich 6 lat, a zamierza podjąć wykonywanie zawodu poprzez udzielanie świadczeń zdrowotnych, jest obowiązany zawiadomić Krajową Radę i odbyć przeszkolenie. Koszty tego przeszkolenia ponosi ratownik medyczny.
 
 2. Do kosztów przeszkolenia ratowników medycznych wykonujących zadania zawodowe w podmiotach leczniczych będących jednostkami budżetowymi albo jednostkami wojskowymi, dla których podmiotem tworzącym jest Minister Obrony Narodowej, oraz w jednostkach organizacyjnych, o których mowa w art. 36 pkt 6, przepis art. 76 stosuje się odpowiednio.
 
@@ -359,21 +421,21 @@ Art. 206–217. (pominięte)
 
 2. Karta indywidualna ratownika medycznego zawiera:
 
-- **1)** oznaczenie pacjenta, pozwalające na ustalenie jego tożsamości:
-    - **a)** imię (imiona) i nazwisko,
-    - **b)** datę urodzenia,
-    - **c)** oznaczenie płci,
-    - **d)** adres miejsca zamieszkania,
-    - **e)** numer PESEL, jeżeli został nadany, w przypadku noworodka – numer PESEL matki, a w przypadku osób, które nie mają nadanego numeru PESEL – rodzaj i numer dokumentu stwierdzającego tożsamość,
-    - **f)** imię (imiona) i nazwisko przedstawiciela ustawowego, jego numer telefonu oraz adres jego miejsca zamieszkania, w przypadku gdy pacjentem jest osoba małoletnia, całkowicie ubezwłasnowolniona lub niezdolna do świadomego wyrażenia zgody;
+- **1)** oznaczenie pacjenta, pozwalające na ustalenie jego tożsamości: imię (imiona) i nazwisko, datę urodzenia, oznaczenie płci, adres miejsca zamieszkania, numer PESEL, jeżeli został nadany, w przypadku noworodka – numer PESEL matki, a w przypadku osób, które nie mają nadanego numeru PESEL – rodzaj i numer dokumentu stwierdzającego tożsamość, imię (imiona) i nazwisko przedstawiciela ustawowego, jego numer telefonu oraz adres jego miejsca zamieszkania, w przypadku gdy pacjentem jest osoba małoletnia, całkowicie ubezwłasnowolniona lub niezdolna do świadomego wyrażenia zgody;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
 
 - **2)** oznaczenie podmiotu udzielającego świadczeń zdrowotnych, ze wskazaniem komórki organizacyjnej, w której udzielono świadczeń zdrowotnych;
 - **3)** wskazanie miejsca i czasu udzielenia świadczenia zdrowotnego;
 - **4)** dane z wywiadu medycznego;
 - **5)** opis stanu zdrowia pacjenta;
-- **6)** oświadczenie pacjenta o:
-    - **a)** niewyrażeniu zgody na udzielenie mu świadczenia zdrowotnego lub na przewiezienie go do szpitala,
-    - **b)** udzieleniu mu wyczerpujących informacji o jego stanie zdrowia i uzyskaniu odpowiedzi na zadawane przez niego pytania;
+- **6)** oświadczenie pacjenta o: niewyrażeniu zgody na udzielenie mu świadczenia zdrowotnego lub na przewiezienie go do szpitala, udzieleniu mu wyczerpujących informacji o jego stanie zdrowia i uzyskaniu odpowiedzi na zadawane przez niego pytania;
+    - **a)**
+    - **b)**
 
 - **7)** rozpoznanie;
 - **8)** opis udzielonych świadczeń zdrowotnych, w tym opis sposobu postępowania z pacjentem oraz zalecenia i uwagi;
@@ -382,9 +444,13 @@ Art. 206–217. (pominięte)
 
 3. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wzór karty indywidualnej ratownika medycznego, kierując się zakresem wiedzy i umiejętności nabytych przez ratownika medycznego oraz uwzględniając konieczność zapewnienia realizacji prawa dostępu do tej karty oraz rzetelnego jej prowadzenia.
 
-**Art. 54.** Do podmiotów, w których ratownik medyczny udziela świadczeń zdrowotnych, o których mowa w art. 36 pkt 2–16 i 18, stosuje się odpowiednio przepisy art. 23, art. 24 i art. 26–29 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581).
+**Art. 54.** Do podmiotów, w których ratownik medyczny udziela świadczeń zdrowotnych, o których mowa w art. 36 pkt 2–16 i 18, stosuje się odpowiednio przepisy art. 23, art. 24 i art. 26–29 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2022 r. poz. 1876 i 2280).
 
 **Art. 55.** Ratownik medyczny jest obowiązany do:
+
+- **1)** przestrzegania praw pacjenta, o których mowa w ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta;
+- **2)** udzielenia pacjentowi lub jego przedstawicielowi ustawowemu albo osobie wskazanej przez pacjenta informacji o stanie zdrowia pacjenta w zakresie świadczeń zdrowotnych udzielanych samodzielnie;
+- **3)** zgłoszenia Prezesowi Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych lub podmiotowi odpowiedzialnemu za wprowadzenie produktu leczniczego do obrotu działania niepożądanego produktu leczniczego zgodnie z ustawą z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2022 r. poz. 2301).
 
 **Art. 56.** Ratownik medyczny może po dokonaniu oceny stanu zdrowia pacjenta nie podejmować medycznych czynności ratunkowych albo nie udzielać świadczeń zdrowotnych, albo odstąpić od prowadzenia tych czynności albo udzielania tych świadczeń, jeżeli nie spowoduje to niebezpieczeństwa utraty życia, ciężkiego uszkodzenia ciała lub ciężkiego rozstroju zdrowia. Ratownik medyczny uzasadnia i odnotowuje w dokumentacji medycznej przyczyny niepodjęcia medycznych czynności ratunkowych albo nieudzielania świadczeń zdrowotnych, albo odstąpienia od prowadzenia tych czynności albo udzielania tych świadczeń.
 
@@ -434,7 +500,7 @@ Art. 206–217. (pominięte)
 - **2)** numer i datę wydanego zaświadczenia o ukończeniu wojskowo-medycznego kursu kwalifikacyjnego;
 - **3)** datę ukończenia wojskowo-medycznego kursu kwalifikacyjnego.
 
-**Art. 61.** Wojskowo-medyczny kurs kwalifikacyjny prowadzony w całości lub w części w jednostce organizacyjnej nadzorowanej przez Ministra Obrony Narodowej jest realizowany w trybie i na zasadach określonych odpowiednio w art. 38 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej albo art. 37 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534).
+**Art. 61.** Wojskowo-medyczny kurs kwalifikacyjny prowadzony w całości lub w części w jednostce organizacyjnej nadzorowanej przez Ministra Obrony Narodowej jest realizowany w trybie i na zasadach określonych odpowiednio w art. 38 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej albo art. 37 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2022 r. poz. 498).
 
 **Art. 62.** Wojskowo-medyczny kurs kwalifikacyjny kończy się egzaminem z zakresu wiedzy i umiejętności objętych programem tego kursu. Warunkiem przystąpienia do egzaminu jest zaliczenie wszystkich zajęć teoretycznych i praktycznych oraz uzyskanie pozytywnego wyniku podczas zajęć teoretycznych i praktycznych kursu.
 
@@ -450,10 +516,10 @@ Art. 206–217. (pominięte)
 - **2)** datę i miejsce wydania zaświadczenia;
 - **3)** numer zaświadczenia;
 - **4)** nazwę ukończonego wojskowo-medycznego kursu kwalifikacyjnego;
-- **5)** dane uczestnika wojskowo-medycznego kursu kwalifikacyjnego:
-    - **a)** imię (imiona) i nazwisko,
-    - **b)** numer PESEL, a w przypadku jego braku – serię i numer paszportu albo innego dokumentu stwierdzającego tożsamość,
-    - **c)** stopień wojskowy;
+- **5)** dane uczestnika wojskowo-medycznego kursu kwalifikacyjnego: imię (imiona) i nazwisko, numer PESEL, a w przypadku jego braku – serię i numer paszportu albo innego dokumentu stwierdzającego tożsamość, stopień wojskowy;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **6)** datę ukończenia wojskowo-medycznego kursu kwalifikacyjnego;
 - **7)** zakres umiejętności nabytych w ramach wojskowo-medycznego kursu kwalifikacyjnego;
@@ -463,7 +529,20 @@ Art. 206–217. (pominięte)
 
 **Art. 64.** Minister Obrony Narodowej w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia:
 
+- **1)** ramowe programy wojskowo-medycznych kursów kwalifikacyjnych,
+- **2)** kwalifikacje kadry dydaktycznej,
+- **3)** szczegółowe wymogi dla podmiotów prowadzących wojskowo-medyczne kursy kwalifikacyjne,
+- **4)** skład i tryb powoływania komisji egzaminacyjnej oraz sposób przeprowadzania egzaminów kończących wojskowo-medyczny kurs kwalifikacyjny,
+- **5)** sposób oceniania osób podchodzących do egzaminów w ramach wojskowo-medycznych kursów kwalifikacyjnych,
+- **6)** okres ważności zaświadczenia, o którym mowa w art. 63 ust. 1, w odniesieniu do poszczególnych wojskowo-medycznych kursów kwalifikacyjnych,
+- **7)** wzór zaświadczenia o ukończeniu wojskowo-medycznego kursu kwalifikacyjnego uwzględniając zakres wiedzy i umiejętności niezbędnych do udzielania świadczeń zdrowotnych, o których mowa w przepisach wydanych na podstawie art. 65 pkt 2 lit. b, oraz mając na uwadze potrzebę przeszkolenia ratowników medycznych w liczbie niezbędnej do sprawnego funkcjonowania jednostek podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych, a także zapewnienie jednolitych standardów postępowania, przestrzegania obowiązujących procedur oraz przejrzystości dokumentowania i zaliczania realizacji wojskowo-medycznego kursu kwalifikacyjnego.
+
 **Art. 65.** Minister Obrony Narodowej w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** tryb przekazywania lekarzowi przez ratownika medycznego, o którym mowa w art. 58 ust. 1, informacji o stanie zdrowia pacjenta i udzielonych mu świadczeniach zdrowotnych,
+- **2)** szczegółowy zakres świadczeń opieki zdrowotnej udzielanych przez ratownika medycznego, o którym mowa w art. 58 ust. 1: samodzielnie lub na zlecenie lekarza, samodzielnie, w warunkach sytuacji kryzysowych i przy zabezpieczeniu medycznym działań jednostek, o których mowa w art. 58 ust. 2 kierując się zakresem wiedzy i umiejętności nabytych w ramach kształcenia na studiach przygotowujących do wykonywania zawodu ratownika medycznego i kształcenia podyplomowego oraz uwzględniając specyfikę zagrożeń wynikających z charakteru służby.
+    - **a)**
+    - **b)**
 
 **Art. 66.**
 
@@ -522,10 +601,10 @@ Art. 206–217. (pominięte)
 - **1)** oznaczenie podmiotu prowadzącego medyczny kurs kwalifikacyjny ministra właściwego do spraw wewnętrznych;
 - **2)** numer zaświadczenia;
 - **3)** datę i miejsce wydania zaświadczenia;
-- **4)** dane uczestnika medycznego kursu kwalifikacyjnego ministra właściwego do spraw wewnętrznych:
-    - **a)** imię (imiona) i nazwisko,
-    - **b)** numer PESEL,
-    - **c)** stopień służbowy;
+- **4)** dane uczestnika medycznego kursu kwalifikacyjnego ministra właściwego do spraw wewnętrznych: imię (imiona) i nazwisko, numer PESEL, stopień służbowy;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **5)** datę ukończenia medycznego kursu kwalifikacyjnego ministra właściwego do spraw wewnętrznych;
 - **6)** dzień złożenia egzaminu;
@@ -535,9 +614,22 @@ Art. 206–217. (pominięte)
 
 **Art. 71.** Odnowienie uprawnień wynikających z medycznego kursu kwalifikacyjnego ministra właściwego do spraw wewnętrznych polega na:
 
+- **1)** przystąpieniu do egzaminu z zakresu wiedzy i umiejętności objętych medycznym kursem kwalifikacyjnym ministra właściwego do spraw wewnętrznych, a w przypadku nieuzyskania pozytywnego wyniku egzaminu – odbyciu medycznego kursu kwalifikacyjnego ministra właściwego do spraw wewnętrznych i uzyskaniu pozytywnego wyniku egzaminu;
+- **2)** ponownym odbyciu medycznego kursu kwalifikacyjnego ministra właściwego do spraw wewnętrznych po upływie 6 lat od jego ukończenia i uzyskaniu pozytywnego wyniku egzaminu z zakresu wiedzy i umiejętności objętych programem medycznego kursu kwalifikacyjnego ministra właściwego do spraw wewnętrznych.
+
 **Art. 72.** Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw zdrowia oraz Ministrem Sprawiedliwości określi, w drodze rozporządzenia, wykaz świadczeń opieki zdrowotnej, które mogą być udzielane przez ratownika medycznego w podmiotach, o których mowa w art. 36 pkt 7–11, 16 i 18:
 
+- **1)** samodzielnie – niezależnie od ukończenia medycznego kursu kwalifikacyjnego ministra właściwego do spraw wewnętrznych,
+- **2)** samodzielnie – w przypadku realizacji zadań służbowych w warunkach zagrożenia wystąpieniem zdarzenia o charakterze terrorystycznym, w obszarach katastrof, klęsk żywiołowych i w strefie działań wojennych,
+- **3)** pod nadzorem lekarza lub w porozumieniu z lekarzem kierując się zakresem wiedzy i umiejętności nabytych w ramach kształcenia na studiach przygotowujących do wykonywania zawodu ratownika medycznego i podyplomowego oraz uwzględniając specyfikę zagrożeń wynikających z charakteru służby oraz zakresu zadań realizowanych przez te służby.
+
 **Art. 73.** Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** ramowy program medycznego kursu kwalifikacyjnego ministra właściwego do spraw wewnętrznych,
+- **2)** kwalifikacje kadry dydaktycznej,
+- **3)** szczegółowe wymagania dla podmiotów prowadzących medyczny kurs kwalifikacyjny ministra właściwego do spraw wewnętrznych,
+- **4)** skład i tryb powoływania komisji egzaminacyjnej oraz sposób przeprowadzania egzaminów kończących medyczny kurs kwalifikacyjny ministra właściwego do spraw wewnętrznych,
+- **5)** wzór zaświadczenia o ukończeniu medycznego kursu kwalifikacyjnego ministra właściwego do spraw wewnętrznych uwzględniając zakres wiedzy i umiejętności niezbędnych do udzielania świadczeń opieki zdrowotnej, o których mowa w art. 66 ust. 1 pkt 2 i 3, oraz mając na uwadze potrzebę przeszkolenia ratowników medycznych w liczbie niezbędnej do sprawnego funkcjonowania służb podległych ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowanych, a także zapewnienie jednolitych standardów postępowania, przestrzegania obowiązujących procedur oraz przejrzystości dokumentowania i zatwierdzania realizacji kursu kwalifikacyjnego.
 
 #### Rozdział 4 Ustawiczny rozwój zawodowy
 
@@ -555,9 +647,9 @@ Art. 206–217. (pominięte)
 
 **Art. 78.** Ratownikowi medycznemu realizującemu ustawiczny rozwój zawodowy przysługuje, na jego wniosek, urlop szkoleniowy w wymiarze do 6 dni roboczych rocznie, płatny według zasad obowiązujących przy obliczaniu wynagrodzenia za urlop wypoczynkowy. Termin urlopu szkoleniowego jest uzgadniany każdorazowo z pracodawcą. Ratownik medyczny ma obowiązek niezwłocznie przedstawić pracodawcy dokument poświadczający jego udział w formach ustawicznego rozwoju zawodowego.
 
-**Art. 79.** Żołnierzowi zawodowemu wykonującemu zadania zawodowe ratownika medycznego w podmiotach, o których mowa w art. 36 pkt 1 i 6, realizującemu ustawiczny rozwój zawodowy przysługuje, na jego wniosek, urlop na ustawiczny rozwój zawodowy w wymiarze do 6 dni roboczych rocznie, z zachowaniem prawa do uposażenia wraz z dodatkami o charakterze stałym, przysługujących na podstawie przepisów ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, z późn. zm. ). Termin urlopu na ustawiczny rozwój zawodowy jest uzgadniany każdorazowo z dowódcą jednostki wojskowej. Ratownik medyczny ma obowiązek niezwłocznie przedstawić dowódcy jednostki wojskowej dokument poświadczający jego udział w formach ustawicznego rozwoju zawodowego.
+**Art. 79.** Żołnierzowi zawodowemu wykonującemu zadania zawodowe ratownika medycznego w podmiotach, o których mowa w art. 36 pkt 1 i 6, realizującemu ustawiczny rozwój zawodowy przysługuje, na jego wniosek, urlop na ustawiczny rozwój zawodowy w wymiarze do 6 dni roboczych rocznie, z zachowaniem prawa do uposażenia wraz z dodatkami o charakterze stałym, przysługujących na podstawie przepisów ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305). Termin urlopu na ustawiczny rozwój zawodowy jest uzgadniany każdorazowo z dowódcą jednostki wojskowej. Ratownik medyczny ma obowiązek niezwłocznie przedstawić dowódcy jednostki wojskowej dokument poświadczający jego udział w formach ustawicznego rozwoju zawodowego.
 
-**Art. 80.** Do urlopu szkoleniowego przysługującego strażakom Państwowej Straży Pożarnej stosuje się odpowiednio przepisy art. 71e ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2024 r. poz. 1443, 1473, 1717, 1871 i 1907).
+**Art. 80.** Do urlopu szkoleniowego przysługującego strażakom Państwowej Straży Pożarnej stosuje się odpowiednio przepisy art. 71e ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2022 r. poz. 1969).
 
 **Art. 81.**
 
@@ -582,10 +674,10 @@ Art. 206–217. (pominięte)
 
 4. Karta ustawicznego rozwoju zawodowego zawiera:
 
-- **1)** dane ratownika medycznego:
-    - **a)** imię (imiona) i nazwisko,
-    - **b)** datę urodzenia,
-    - **c)** numer prawa wykonywania zawodu;
+- **1)** dane ratownika medycznego: imię (imiona) i nazwisko, datę urodzenia, numer prawa wykonywania zawodu;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **2)** nazwę (firmę) i adres podmiotu, u którego ratownik medyczny wykonuje zawód;
 - **3)** datę rozpoczęcia okresu edukacyjnego;
@@ -604,7 +696,10 @@ Art. 206–217. (pominięte)
 
 **Art. 84.** Ratownik medyczny ma prawo do uzyskania dodatkowej wiedzy i dodatkowych umiejętności przez uczestnictwo w ramach kształcenia podyplomowego w:
 
-**Art. 85.** Szkolenie specjalizacyjne ratowników medycznych odbywa się na zasadach określonych w ustawie z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. z 2023 r. poz. 506 oraz z 2024 r. poz. 1897).
+- **1)** szkoleniu specjalizacyjnym;
+- **2)** kursach kwalifikacyjnych.
+
+**Art. 85.** Szkolenie specjalizacyjne ratowników medycznych odbywa się na zasadach określonych w ustawie z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty wdziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. z 2021 r. poz. 1297).
 
 **Art. 86.**
 
@@ -631,6 +726,10 @@ Art. 206–217. (pominięte)
 5. Dyrektor CMKP podaje do publicznej wiadomości zatwierdzony program kursu kwalifikacyjnego na stronie internetowej CMKP.
 
 **Art. 88.** Kurs kwalifikacyjny prowadzą uczelnie kształcące na kierunku ratownictwo medyczne oraz CMKP, z zastrzeżeniem art. 33 ust. 2 pkt 6, które zapewniają:
+
+- **1)** realizację programu kursu kwalifikacyjnego;
+- **2)** kadrę dydaktyczną posiadającą odpowiednie kwalifikacje;
+- **3)** bazę dydaktyczną dostosowaną do programu kursu kwalifikacyjnego.
 
 **Art. 89.**
 
@@ -662,7 +761,14 @@ Art. 206–217. (pominięte)
 
 **Art. 92.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
+- **1)** zakres problematyki kursów kwalifikacyjnych,
+- **2)** sposób i tryb odbywania i zaliczania kursu kwalifikacyjnego,
+- **3)** wzór zaświadczenia potwierdzającego odbycie kursu kwalifikacyjnego uwzględniając zakres wiedzy i umiejętności niezbędnych do wykonywania określonych świadczeń opieki zdrowotnej przez ratownika medycznego, mając na celu potrzebę ujednolicenia zasad weryfikacji wiedzy i umiejętności zdobytych podczas kursu kwalifikacyjnego, a także potwierdzenia odbycia tego kursu.
+
 **Art. 93.** Ratownik medyczny ma obowiązek ustawicznego rozwoju zawodowego przez udział w następujących formach doskonalenia zawodowego:
+
+- **1)** kursie doskonalącym;
+- **2)** samokształceniu.
 
 **Art. 94.**
 
@@ -686,6 +792,19 @@ Art. 206–217. (pominięte)
 6. Dyrektor CMKP podaje do publicznej wiadomości zatwierdzony program kursu doskonalącego w formie informacji na stronie internetowej CMKP.
 
 **Art. 95.** Kurs doskonalący mogą prowadzić podmioty, które:
+
+- **1)** realizują program kursu doskonalącego, o którym mowa w art. 94 ust. 2;
+- **2)** zapewniają kadrę dydaktyczną posiadającą kwalifikacje zgodne ze standardami, o których mowa w art. 94 ust. 2 pkt 6;
+- **3)** zapewniają bazę dydaktyczną zgodną ze standardami, o których mowa w art. 94 ust. 2 pkt 6, niezbędną do realizacji programu kursu, w tym do szkolenia praktycznego;
+- **4)** posiadają wewnętrzny system oceny jakości kształcenia;
+- **5)** prowadzą dokumentację związaną z organizacją i przebiegiem kształcenia, w szczególności przygotowują regulaminy organizacyjne kształcenia, protokoły postępowania kwalifikacyjnego oraz protokoły przebiegu sprawdzianów lub innych form zaliczenia danego rodzaju kształcenia;
+- **6)** prowadzą ewidencję wydanych zaświadczeń o ukończeniu danego rodzaju kształcenia obejmującą: dane osoby, która ukończyła kurs doskonalący: – imię (imiona) i nazwisko, – numer PESEL, a w przypadku jego braku – serię i numer paszportu albo innego dokumentu stwierdzającego tożsamość, – adres miejsca zamieszkania, rodzaj i nazwę kształcenia, nazwę (firmę) organizatora kształcenia, datę wydania i numer zaświadczenia;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **7)** uzyskały wpis na listę podmiotów uprawnionych do prowadzenia kursu doskonalącego.
 
 **Art. 96.** Podmiot uprawniony do prowadzenia kursu doskonalącego przed jego rozpoczęciem jest obowiązany uzyskać wpis na listę podmiotów uprawnionych do prowadzenia kursu doskonalącego.
 
@@ -760,9 +879,22 @@ Art. 206–217. (pominięte)
 
 **Art. 104.** Lista podmiotów uprawnionych do prowadzenia kursu doskonalącego zawiera następujące dane:
 
+- **1)** numer wpisu;
+- **2)** nazwę (firmę) podmiotu uprawnionego do prowadzenia kursu doskonalącego;
+- **3)** adres siedziby podmiotu uprawnionego do prowadzenia kursu doskonalącego;
+- **4)** adres do korespondencji, jeżeli jest inny niż adres siedziby;
+- **5)** numer telefonu oraz adres poczty elektronicznej, jeżeli dany podmiot je posiada.
+
 **Art. 105.** Dyrektor CMKP prostuje z urzędu wpis na listę podmiotów uprawnionych do prowadzenia kursu doskonalącego zawierający oczywiste błędy.
 
 **Art. 106.** Lista kursów doskonalących zawiera następujące dane:
+
+- **1)** numer kursu doskonalącego;
+- **2)** nazwę (firmę) podmiotu uprawnionego do prowadzenia kursu doskonalącego;
+- **3)** adres siedziby podmiotu uprawnionego do prowadzenia kursu doskonalącego;
+- **4)** adres do korespondencji, jeżeli jest inny niż adres siedziby;
+- **5)** numer telefonu oraz adres poczty elektronicznej, jeżeli dany podmiot je posiada;
+- **6)** termin i miejsce prowadzenia kursu doskonalącego.
 
 **Art. 107.**
 
@@ -783,7 +915,7 @@ Art. 206–217. (pominięte)
 
 **Art. 108.** Podmiot, który zrealizował kurs doskonalący, w terminie 7 dni od dnia zakończenia kursu przesyła do CMKP listę ratowników medycznych, którzy ukończyli kurs doskonalący, zawierającą ich imiona i nazwiska oraz numery prawa wykonywania zawodu ratownika medycznego, a także imię (imiona) i nazwisko kierownika kursu.
 
-**Art. 109.** Prowadzenie kursów doskonalących przez przedsiębiorcę jest działalnością regulowaną w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871).
+**Art. 109.** Prowadzenie kursów doskonalących przez przedsiębiorcę jest działalnością regulowaną w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2021 r. poz. 162 i 2105 oraz z 2022 r. poz. 24, 974 i 1570).
 
 **Art. 110.**
 
@@ -839,6 +971,14 @@ Art. 206–217. (pominięte)
 
 **Art. 116.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
+- **1)** formy ustawicznego rozwoju zawodowego, o których mowa w art. 93 pkt 2,
+- **2)** liczbę punktów edukacyjnych za poszczególne formy ustawicznego rozwoju zawodowego oraz dokumenty potwierdzające ich realizację, a także liczbę punktów niezbędnych do dopełnienia obowiązku ustawicznego rozwoju zawodowego,
+- **3)** sposób i tryb realizowania ustawicznego rozwoju zawodowego przez ratowników medycznych,
+- **4)** zakres doskonalenia zawodowego ratowników medycznych,
+- **5)** wzór wniosku o wpis na listę podmiotów uprawnionych do prowadzenia kursu doskonalącego oraz wzór wniosku o aktualizację wpisu,
+- **6)** sposób potwierdzania zrealizowania przez ratownika medycznego poszczególnych form ustawicznego rozwoju zawodowego oraz potwierdzenia przez Krajową Radę dopełnienia obowiązku ustawicznego rozwoju zawodowego przez ratownika medycznego,
+- **7)** wzór karty ustawicznego rozwoju zawodowego mając na celu zapewnienie jednolitości oraz przejrzystości wniosków, właściwej jakości ustawicznego rozwoju zawodowego oraz rzetelnego sposobu dokumentowania jego przebiegu.
+
 #### Rozdział 5 Samorząd ratowników medycznych
 
 **Art. 117.**
@@ -849,15 +989,28 @@ Art. 206–217. (pominięte)
 
 3. Samorząd jest niezależny w wykonywaniu swoich zadań i podlega wyłącznie przepisom prawa.
 
-4. Jednostką organizacyjną samorządu posiadającą osobowość prawną jest Krajowa Izba Ratowników Medycznych.
-
-4a. Siedzibę Krajowej Izby Ratowników Medycznych określa Krajowa Rada.
+4. Jednostką organizacyjną samorządu, posiadającą osobowość prawną, jest Krajowa Izba Ratowników Medycznych z siedzibą w Warszawie.
 
 5. Krajową Izbę Ratowników Medycznych tworzą ratownicy medyczni wpisani do rejestru, o którym mowa w art. 137.
 
 6. Nadzór nad działalnością samorządu sprawuje minister właściwy do spraw zdrowia w zakresie i formach określonych w ustawie.
 
 **Art. 118.** Do zadań samorządu należy:
+
+- **1)** sprawowanie pieczy nad należytym i sumiennym wykonywaniem zawodu ratownika medycznego;
+- **2)** ustanawianie zasad etyki zawodowej oraz dbanie o ich przestrzeganie;
+- **3)** przyznawanie prawa wykonywania zawodu oraz uznawanie kwalifikacji ratowników medycznych zgodnie z przepisami ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej;
+- **4)** wydawanie zaświadczeń potwierdzających kwalifikacje zawodowe na podstawie art. 9 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej;
+- **5)** zawieszanie i pozbawianie prawa wykonywania zawodu oraz ograniczanie zakresu czynności w wykonywaniu zawodu;
+- **6)** prowadzenie postępowania w przedmiocie odpowiedzialności zawodowej ratowników medycznych;
+- **7)** prowadzenie postępowania w przedmiocie niezdolności do wykonywania zawodu ratownika medycznego;
+- **8)** reprezentowanie ratowników medycznych oraz ochrona ich interesów zawodowych;
+- **9)** działanie na rzecz stałego podnoszenia kwalifikacji zawodowych przez ratowników medycznych;
+- **10)** udział w ustalaniu oraz aktualizacji standardów i wytycznych w ratownictwie medycznym;
+- **11)** edukacja zdrowotna i promocja zdrowia;
+- **12)** prowadzenie rejestru, o którym mowa w art. 137, oraz rejestru, o którym mowa w art. 144;
+- **13)** nadzór nad doskonaleniem zawodowym ratowników medycznych;
+- **14)** współpraca z samorządami zawodów medycznych i innymi organizacjami reprezentującymi zawody medyczne w kraju i za granicą oraz z organami państw członkowskich w zakresie spraw określonych w ustawie.
 
 **Art. 119.**
 
@@ -882,9 +1035,7 @@ Art. 206–217. (pominięte)
 
 1. Wybory do organów samorządu i na stanowiska w organach są równe, powszechne i odbywają się w głosowaniu tajnym.
 
-2. Czynne i bierne prawo wyborcze przysługuje wszystkim członkom samorządu, z wyjątkiem osób ukaranych karą, o której mowa w art. 179 ust. 1 pkt 5–
-
-7.
+2. Czynne i bierne prawo wyborcze przysługuje wszystkim członkom samorządu, z wyjątkiem osób ukaranych karą, o której mowa w art. 179 ust. 1 pkt 5–7.
 
 **Art. 122.**
 
@@ -930,6 +1081,14 @@ Art. 206–217. (pominięte)
 
 **Art. 126.** Do Krajowego Zjazdu należy:
 
+- **1)** wybór Prezesa Krajowej Rady;
+- **2)** wybór Krajowej Rady, Komisji Rewizyjnej, Sądu Dyscyplinarnego, Wyższego Sądu Dyscyplinarnego oraz Rzecznika Dyscyplinarnego i jego zastępców;
+- **3)** uchwalanie wytycznych działania samorządu i jego organów;
+- **4)** określenie zasad przeprowadzania wyborów do organów samorządu, liczby członków tych organów oraz trybu ich odwoływania, a także zasad podejmowania uchwał przez organy samorządu;
+- **5)** rozpatrywanie i zatwierdzanie sprawozdań Krajowej Rady, Komisji Rewizyjnej, Sądu Dyscyplinarnego, Wyższego Sądu Dyscyplinarnego i Rzecznika Dyscyplinarnego;
+- **6)** ustanawianie zasad etyki zawodowej i dbanie o ich przestrzeganie;
+- **7)** ustalanie podstawowych zasad gospodarki finansowej samorządu.
+
 **Art. 127.**
 
 1. Nadzwyczajny Krajowy Zjazd zwołuje Krajowa Rada:
@@ -953,6 +1112,18 @@ Art. 206–217. (pominięte)
 4. Prezydium Krajowej Rady działa w imieniu Krajowej Rady w sprawach określonych jej uchwałą, z wyjątkiem uchwalania budżetu.
 
 **Art. 129.** Do zakresu działania Krajowej Rady należy:
+
+- **1)** reprezentowanie samorządu wobec organów państwowych i samorządowych, sądów, podmiotu zobowiązanego do finansowania świadczeń opieki zdrowotnej ze środków publicznych w rozumieniu art. 14 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, instytucji i organizacji;
+- **2)** uznawanie kwalifikacji zawodowych ratowników medycznych oraz współpraca z organami państw członkowskich zgodnie z przepisami ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej;
+- **3)** wykonywanie uchwał Krajowego Zjazdu;
+- **4)** opiniowanie projektów aktów prawnych oraz przedstawianie wniosków dotyczących unormowań prawnych z zakresu ochrony zdrowia;
+- **5)** wykonywanie zadań określonych w art. 118 pkt 3–5, 7, 12 i 13;
+- **6)** uchwalanie budżetu Krajowej Rady i zatwierdzanie sprawozdań z jego wykonania oraz rozpatrywanie wniosków Komisji Rewizyjnej;
+- **7)** wybór Prezesa Krajowej Rady oraz Rzecznika Dyscyplinarnego, jeżeli ich mandat wygasł w okresie pomiędzy Krajowymi Zjazdami;
+- **8)** koordynowanie doskonalenia zawodowego ratowników medycznych;
+- **9)** uchwalanie regulaminów działalności samorządu i jego organów;
+- **10)** prowadzenie rejestru, o którym mowa w art. 137, oraz rejestru, o którym mowa w art. 144;
+- **11)** określanie wysokości składki członkowskiej i zasad jej podziału oraz wysokości opłat za wpis do rejestru, o którym mowa w art. 137, oraz opłat manipulacyjnych.
 
 **Art. 130.**
 
@@ -995,13 +1166,7 @@ Art. 206–217. (pominięte)
 
 1. Pracodawca bez zgody Krajowej Rady nie może wypowiedzieć ani rozwiązać umowy o pracę ani wypowiedzieć warunków pracy i płacy ratownikowi medycznemu pełniącemu funkcję z wyboru w organach samorządu, o których mowa w art. 119 ust. 1 pkt 2–6, w czasie jej pełnienia oraz w okresie 1 roku po ustaniu kadencji.
 
-2. Przepisu ust. 1 nie stosuje się w przypadkach określonych w art. 40, art. 41 i art. 43 pkt 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r. poz. 878, 1222, 1871 i 1965).
-
-**Art. 134a.**
-
-1. Na wniosek Krajowej Rady albo Prezesa Krajowej Rady pracodawca jest obowiązany zwolnić od pracy pracownika będącego ratownikiem medycznym, pełniącego funkcję z wyboru w organach samorządu, o których mowa w art. 119 ust. 1, lub wykonującego czynności na rzecz Krajowej Izby Ratowników Medycznych, bez zachowania prawa do wynagrodzenia.
-
-2. Krajowa Rada określa zasady i tryb kompensacji wynagrodzenia przez organy samorządu na czas zwolnień od pracy, o których mowa w ust. 1, oraz tryb zwrotu kosztów podróży i innych uzasadnionych wydatków poniesionych przez członka w związku z wykonywaniem czynności na rzecz Krajowej Izby Ratowników Medycznych.
+2. Przepisu ust. 1 nie stosuje się w przypadkach określonych w art. 40, art. 411 i art. 43 pkt 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2022 r. poz. 1510, 1700 i 2140).
 
 **Art. 135.**
 
@@ -1025,11 +1190,42 @@ Art. 206–217. (pominięte)
 
 1. Rejestr, o którym mowa w art. 137, jest prowadzony w systemie teleinformatycznym.
 
-2. Rejestr, o którym mowa w art. 137, jest rejestrem publicznym w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557 i 1717).
+2. Rejestr, o którym mowa w art. 137, jest rejestrem publicznym w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070 oraz z 2022 r. poz. 1087).
 
-**Art. 139.** Krajowa Rada jest administratorem danych w rejestrze, o którym mowa w art. 137, w tym jest administratorem danych osobowych w tym rejestrze w rozumieniu art. 4 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ).
+**Art. 139.** Krajowa Rada jest administratorem danych w rejestrze, o którym mowa w art. 137, w tym jest administratorem danych osobowych w tym rejestrze w rozumieniu art. 4 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.).
 
 **Art. 140.** Rejestr, o którym mowa w art. 137, zawiera następujące dane:
+
+- **1)** datę wpisu;
+- **2)** dane osobowe dotyczące ratownika medycznego: imię (imiona) i nazwisko, datę i miejsce urodzenia, numer PESEL, a w przypadku jego braku – serię i numer paszportu albo innego dokumentu stwierdzającego tożsamość, obywatelstwo, adres miejsca zamieszkania, adres do korespondencji, numer telefonu oraz adres poczty elektronicznej, jeżeli ją posiada;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+
+- **3)** dane dotyczące wykształcenia, w tym: nazwę i adres siedziby uczelni, numer i datę wydania dyplomu, tytuł zawodowy;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **4)** numer prawa wykonywania zawodu oraz termin, na jaki zostało przyznane;
+- **5)** informację o posiadaniu prawa wykonywania zawodu w innym państwie niż Rzeczpospolita Polska, jeżeli dotyczy;
+- **6)** informację o miejscu realizacji zadań zawodowych, z zastrzeżeniem art. 142 ust. 3;
+- **7)** informację o realizacji obowiązku doskonalenia zawodowego w danym okresie edukacyjnym, w tym informację o odbyciu kursu doskonalącego, o którym mowa w art. 94;
+- **8)** informację o odbyciu kursów, o których mowa w art. 58 ust. 2, art. 66 ust. 2, art. 84 pkt 2, oraz przeszkolenia, o którym mowa w art. 39 ust. 1, jeżeli dotyczy;
+- **9)** informację o uzyskaniu tytułu specjalisty w danej dziedzinie ochrony zdrowia;
+- **10)** datę wykreślenia z rejestru, o którym mowa w art. 137, wraz z podaniem przyczyny;
+- **11)** informację o ograniczeniu zakresu czynności w wykonywaniu zawodu ratownika medycznego;
+- **12)** informację o zawieszeniu w wykonywaniu zawodu;
+- **13)** oznaczenie orzeczenia sądu ratowników medycznych;
+- **14)** nazwę orzekającego sądu ratowników medycznych;
+- **15)** datę uprawomocnienia orzeczenia sądu ratowników medycznych;
+- **16)** rodzaj orzeczonej kary;
+- **17)** datę wykonania kary;
+- **18)** datę zatarcia kary;
+- **19)** informację o postanowieniach wydanych w trybie art. 173.
 
 **Art. 141.**
 
@@ -1043,15 +1239,11 @@ Art. 206–217. (pominięte)
 
 3. Ratownik medyczny jest obowiązany do niezwłocznego zawiadomienia Krajowej Rady o zmianach danych, o których mowa w art. 140, nie później niż w terminie 14 dni od dnia ich powstania.
 
-4. W przypadku wątpliwości co do aktualności danych zawartych w rejestrze, o którym mowa w art. 137, w szczególności dotyczących wygaśnięcia prawa wykonywania zawodu z przyczyny określonej w art. 32 pkt 4, Krajowa Rada może zwrócić się do podmiotów prowadzących zbiory meldunkowe, zbiory PESEL oraz ewidencję wydanych i utraconych dowodów osobistych o przekazanie danych niezbędnych do aktualizacji rejestru.
-
-5. Przekazanie danych, o których mowa w ust. 4, odbywa się w trybie udostępniania danych dla podmiotów określonych w art. 66 ust. 3 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych.
-
 **Art. 142.**
 
 1. Krajowa Rada udostępnia dane objęte rejestrem, o którym mowa w art. 137, do:
 
-- **1)** systemu informacji w ochronie zdrowia, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2023 r. poz. 2465 oraz z 2024 r. poz. 1897);
+- **1)** systemu informacji w ochronie zdrowia, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2022 r. poz. 1555 i 2280);
 - **2)** Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego.
 
 2. Rejestr, o którym mowa w art. 137, jest jawny w zakresie danych, o których mowa w art. 140 pkt 2 lit. a, pkt 3 lit. c i pkt 4–7 i 9, wraz z podaniem województwa, na którego terenie zamieszkuje ratownik medyczny.
@@ -1071,6 +1263,18 @@ Art. 206–217. (pominięte)
 **Art. 146.** Krajowa Rada jest administratorem danych w rejestrze, o którym mowa w art. 144, w tym jest administratorem danych osobowych w tym rejestrze w rozumieniu art. 4 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych).
 
 **Art. 147.** Rejestr, o którym mowa w art. 144, zawiera następujące dane:
+
+- **1)** datę wpisu;
+- **2)** dane osobowe dotyczące ratownika medycznego: imię (imiona) i nazwisko, obywatelstwo, datę urodzenia, numer PESEL, a w przypadku jego braku – serię i numer paszportu albo innego dokumentu stwierdzającego tożsamość;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **3)** nazwę i oznaczenie dokumentu potwierdzającego prawo wykonywania zawodu ratownika medycznego w państwie członkowskim;
+- **4)** miejsce, okres, formę i zakres świadczeń opieki zdrowotnej udzielanych w ramach tymczasowego i okazjonalnego wykonywania zawodu ratownika medycznego na terytorium Rzeczypospolitej Polskiej, jeżeli ich określenie jest możliwe;
+- **5)** datę wydania przez Krajową Radę zaświadczenia o spełnieniu obowiązku złożenia oświadczenia, o którym mowa w art. 18 ust. 1 pkt 1, oraz dokumentów, o których mowa w art. 18 ust. 1 pkt 2–4;
+- **6)** adres do korespondencji, numer telefonu oraz adres poczty elektronicznej, jeżeli posiada.
 
 **Art. 148.** Krajowa Rada dokonuje wpisu do rejestru, o którym mowa w art. 144, oraz wydaje ratownikowi medycznemu zaświadczenie o spełnieniu przez ratownika medycznego obowiązku złożenia oświadczenia, o którym mowa w art. 18 ust. 1 pkt 1, oraz dokumentów, o których mowa w art. 18 ust. 1 pkt 2–4. Wpis do rejestru oraz wydanie zaświadczenia są bezpłatne i nie mogą powodować opóźnień lub utrudnień w tymczasowym i okazjonalnym wykonywaniu zawodu.
 
@@ -1169,6 +1373,13 @@ Art. 206–217. (pominięte)
 **Art. 160.** Prawomocne rozstrzygnięcie sądu kształtujące prawo lub stosunek prawny jest wiążące dla organów prowadzących postępowanie w przedmiocie odpowiedzialności zawodowej.
 
 **Art. 161.** Postępowania w przedmiocie odpowiedzialności zawodowej ratowników medycznych nie wszczyna się, a wszczęte postępowania w tym przedmiocie umarza się, jeżeli:
+
+- **1)** czynu nie popełniono albo brak jest danych dostatecznie uzasadniających podejrzenie jego popełnienia;
+- **2)** czyn nie stanowi przewinienia zawodowego albo ustawy stanowią, że sprawca nie popełnia przewinienia zawodowego;
+- **3)** obwiniony zmarł;
+- **4)** nastąpiło ustanie karalności;
+- **5)** postępowanie w przedmiocie odpowiedzialności zawodowej ratowników medycznych co do tego samego czynu tej samej osoby zostało prawomocnie zakończone albo wcześniej wszczęte toczy się;
+- **6)** szkodliwość społeczna czynu jest znikoma.
 
 **Art. 162.**
 
@@ -1376,7 +1587,7 @@ Art. 206–217. (pominięte)
 
 2. Odwołanie wnosi się za pośrednictwem Sądu Dyscyplinarnego, który wydał zaskarżone orzeczenie.
 
-3. Cofnięcie odwołania przez składającą je stronę przed rozpoczęciem rozprawy odwoławczej wiąże Wyższy Sąd Dyscyplinarny, który pozostawia odwołanie bez rozpoznania, o ile nie zachodzą przesłanki z art. 439 § 1 pkt 1 i 2 oraz 5–10 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46).
+3. Cofnięcie odwołania przez składającą je stronę przed rozpoczęciem rozprawy odwoławczej wiąże Wyższy Sąd Dyscyplinarny, który pozostawia odwołanie bez rozpoznania, o ile nie zachodzą przesłanki z art. 439 § 1 pkt 1 i 2 oraz 5–10 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375, 1855, 2582 i 2600).
 
 **Art. 185.**
 
@@ -1421,9 +1632,9 @@ Art. 206–217. (pominięte)
 1. Postępowanie w przedmiocie odpowiedzialności zawodowej ratowników medycznych zakończone prawomocnym orzeczeniem sądu ratowników medycznych wznawia się, jeżeli:
 
 - **1)** w związku z postępowaniem dopuszczono się przestępstwa i istnieje uzasadniona podstawa do przyjęcia, że mogło to mieć wpływ na treść orzeczenia;
-- **2)** po wydaniu orzeczenia ujawnią się nowe fakty lub dowody nieznane przedtem sądowi ratowników medycznych wskazujące na to, że:
-    - **a)** obwiniony nie popełnił czynu albo jego czyn nie stanowił przewinienia zawodowego lub nie podlegał karze,
-    - **b)** sąd ratowników medycznych umorzył postępowanie, błędnie przyjmując, że obwiniony popełnił zarzucany mu czyn.
+- **2)** po wydaniu orzeczenia ujawnią się nowe fakty lub dowody nieznane przedtem sądowi ratowników medycznych wskazujące na to, że: obwiniony nie popełnił czynu albo jego czyn nie stanowił przewinienia zawodowego lub nie podlegał karze, sąd ratowników medycznych umorzył postępowanie, błędnie przyjmując, że obwiniony popełnił zarzucany mu czyn.
+    - **a)**
+    - **b)**
 
 2. Czyn, o którym mowa w ust. 1 pkt 1, musi być ustalony prawomocnym wyrokiem skazującym, chyba że orzeczenie takie nie może zapaść z przyczyn wymienionych w art. 17 § 1 pkt 4–11 lub w art. 22 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
 
@@ -1467,6 +1678,9 @@ Art. 206–217. (pominięte)
 
 **Art. 199.** Prawomocne orzeczenie sądu ratowników medycznych przewodniczący tego sądu doręcza:
 
+- **1)** Prezesowi Krajowej Rady do wykonania;
+- **2)** stronom i ministrowi właściwemu do spraw zdrowia.
+
 **Art. 200.**
 
 1. Ratownik medyczny zawieszony w prawie wykonywania zawodu nie może wykonywać tego zawodu w żadnej formie.
@@ -1493,6 +1707,9 @@ Art. 206–217. (pominięte)
 
 **Art. 204.** W sprawach nieuregulowanych w ustawie do postępowania w przedmiocie odpowiedzialności zawodowej stosuje się odpowiednio przepisy:
 
+- **1)** ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, z wyłączeniem przepisów o oskarżycielu prywatnym, przedstawicielu społecznym, o postępowaniu przygotowawczym oraz środkach przymusu z wyjątkiem przepisów o karze pieniężnej;
+- **2)** rozdziałów I-III i art. 53 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.
+
 #### Rozdział 8 Przepisy karne
 
 **Art. 205.**
@@ -1501,21 +1718,130 @@ Art. 206–217. (pominięte)
 
 2. Jeżeli sprawca czynu, o którym mowa w ust. 1, działa w celu osiągnięcia korzyści majątkowej albo wprowadza w błąd co do posiadania takiego uprawnienia, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
-3. Postępowanie w sprawach, o których mowa w ust. 1, toczy się według przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977 i 1544).
+3. Postępowanie w sprawach, o których mowa w ust. 1, toczy się według przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
 
 #### Rozdział 9 Zmiany w przepisach
+
+**Art. 206.** W ustawie z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 2020 r. poz. 1947) w art. 11:
+
+- **1)** ust. 1 otrzymuje brzmienie: „
+
+1. Zgon i jego przyczyna są ustalane przez:
+
+- **1)** lekarza leczącego chorego w ostatniej chorobie albo
+- **2)** kierownika zespołu ratownictwa medycznego, jeżeli zgon nastąpił w trakcie akcji medycznej, o której mowa w art. 41 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2022 r. poz. 1720 i 1733). ” ;
+- **2)** w ust. 7 wyrazy „Lekarze stwierdzający zgon i jego przyczyny obowiązani są” zastępuje się wyrazami „Osoby stwierdzające zgon i jego przyczyny, o których mowa w ust. 1, obowiązani są”.
+
+**Art. 207.** W ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2022 r. poz. 1720 i 1733) wprowadza się następujące zmiany:
+
+- **1)** tytuł rozdziału 2 otrzymuje brzmienie: „ Ratownicy ” ;
+- **2)** art. 10 otrzymuje brzmienie: „ Zawód ratownika medycznego wykonuje się na zasadach określonych w ustawie z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705). ” ;
+- **3)** uchyla się art. 10h-12h;
+- **4)** w art. 15 w ust. 4 wyrazy „art. 11 ust. 11 pkt 2,” zastępuje się wyrazami „art. 34 pkt 2 ustawy z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych,”;
+- **5)** w art. 31 w ust. 1 w pkt 3 średnik zastępuje się kropką i uchyla się pkt 4.
+
+**Art. 208.** W ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2022 r. poz. 1876 i 2280) art. 19 otrzymuje brzmienie: „ Zasady przeprowadzenia badania lub udzielenia innych świadczeń zdrowotnych przez lekarza, ratownika medycznego oraz pielęgniarkę systemu pomimo braku zgody albo wobec zgłoszenia sprzeciwu, o których mowa w art. 17 i art. 18, określają odpowiednio przepisy art. 33 i art. 34 ust. 6 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, art. 57 ustawy z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705) oraz art. 12a ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2022 r. poz. 2702 i 2705). ” .
+
+**Art. 209.** W ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2022 r. poz. 1657, 2280 i 2674) w art. 28 we wprowadzeniu do wyliczenia wyrazy „Lekarz lub felczer,” zastępuje się wyrazami „Lekarz, felczer lub kierownik zespołu ratownictwa medycznego,”.
+
+**Art. 210.** W ustawie z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2022 r. poz. 633, 655, 974, 1079 i 2280) w art. 5 w ust. 4 w pkt 2 skreśla się przecinek na końcu oraz uchyla się pkt 3.
+
+**Art. 211.** W ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2022 r. poz. 1555 i 2280) wprowadza się następujące zmiany:
+
+- **1)** w art. 3 w ust. 3: po pkt 8 dodaje się pkt 8a w brzmieniu: „
+    - **a)**
+
+- **8a)** Krajowa Rada Ratowników Medycznych, na podstawie ustawy z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705), w zakresie danych przetwarzanych w rejestrze ratowników medycznych oraz w rejestrze osób uprawnionych do wykonywania zawodu ratownika medycznego tymczasowo i okazjonalnie na terytorium Rzeczypospolitej Polskiej; ” , pkt 9 otrzymuje brzmienie: „
+    - **b)**
+
+- **9)** Centrum Medyczne Kształcenia Podyplomowego, na podstawie przepisów o zawodach lekarza i lekarza dentysty, zawodzie fizjoterapeuty, zawodach pielęgniarki i położnej, medycynie laboratoryjnej, zawodzie ratownika medycznego oraz samorządzie ratowników medycznych, a także zawodzie farmaceuty, w odniesieniu do danych określonych w tych przepisach; ” ;
+- **2)** w art. 17: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Tworzy się rejestr medyczny zwany Centralnym Wykazem Pracowników Medycznych zawierający dane dotyczące lekarzy, lekarzy dentystów, felczerów, starszych felczerów, pielęgniarek, położnych, diagnostów laboratoryjnych, fizjoterapeutów, farmaceutów oraz ratowników medycznych. ” , ust. 2c otrzymuje brzmienie: „
+
+- **b)**
+
+2c. Podmioty prowadzące rejestry dotyczące lekarzy, lekarzy dentystów, felczerów, starszych felczerów, pielęgniarek, położnych, diagnostów laboratoryjnych, fizjoterapeutów, farmaceutów oraz ratowników medycznych są obowiązane do przekazywania do Centralnego Wykazu Pracowników Medycznych danych swoich członków, o których mowa w ust. 2 pkt 1, 2, 4 i 9, w terminie jednego dnia roboczego od dnia powzięcia uchwały w sprawie wpisania pracownika medycznego na listę członków odpowiedniej izby, w celu ich identyfikacji i uwierzytelnienia w systemie informacji, a także w celu weryfikacji ich uprawnień zawodowych. ” ;
+
+- **3)** w art. 30: w ust. 2 uchyla się pkt 5, w ust. 2a w pkt 4 średnik zastępuje się kropką i uchyla się pkt 5.
+    - **a)**
+    - **b)**
+
+**Art. 212.** W ustawie z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2022 r. poz. 2702) wprowadza się następujące zmiany:
+
+- **1)** w art. 4: w ust. 1 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „
+    - **a)**
+
+- **8)** stwierdzaniu zgonu, do którego doszło podczas akcji medycznej, o której mowa w art. 41 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2022 r. poz. 1720, 1733 i 2705). ” , w ust. 2 w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 w brzmieniu: „
+    - **b)**
+
+- **13)** zatrudnienie lub pełnienie służby na stanowisku perfuzjonisty po ukończeniu kursu kwalifikacyjnego w zakresie perfuzji organizowanego przez Centrum Medyczne Kształcenia Podyplomowego, o którym mowa w ustawie z dnia 13 września 2018 r. o Centrum Medycznym Kształcenia Podyplomowego (Dz. U. z 2021 r. poz. 77), lub Polskie Stowarzyszenie Perfuzjonistów. ” , dodaje się ust. 3 i 4 w brzmieniu: „
+    - **c)**
+
+3. Warunkiem przystąpienia do kursu, o którym mowa w ust. 2 pkt 13, jest:
+
+- **1)** zatrudnienie w dziale lub zespole perfuzji funkcjonującym w danym podmiocie leczniczym przez minimum 2 lata;
+- **2)** wykonanie w okresie, o którym mowa w pkt 1, minimum 200 krążeń pozaustrojowych pod nadzorem uprawnionego perfuzjonisty;
+- **3)** przedstawienie opinii kierownika właściwej jednostki organizacyjnej podmiotu leczniczego o wykonaniu krążeń pozaustrojowych przez kandydata do kursu.
+
+4. Opinia, o której mowa w ust. 3 pkt 3, zawiera imię (imiona) i nazwisko kandydata wraz z podaniem numeru prawa wykonywania zawodu, a także imię i nazwisko osoby wystawiającej opinię z podaniem pełnionej przez nią funkcji. ” ;
+
+- **2)** po art. 12 dodaje się art. 12a w brzmieniu: „
+
+1. Pielęgniarka systemu w rozumieniu art. 3 pkt 6 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym wykonująca medyczne czynności ratunkowe może udzielić świadczeń zdrowotnych bez zgody pacjenta, jeżeli pacjent wymaga niezwłocznej pomocy, a ze względu na stan zdrowia lub wiek nie może wyrazić zgody ani nie ma możliwości porozumienia się z jego przedstawicielem ustawowym lub opiekunem faktycznym w rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2022 r. poz. 1876, 2280 i 2705).
+
+2. Okoliczności, o których mowa w ust. 1, pielęgniarka systemu odnotowuje w dokumentacji medycznej pacjenta. ” .
+
+**Art. 213.** W ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych (Dz. U. z 2022 r. poz. 147) w art. 15a w ust. 1 pkt 3 otrzymuje brzmienie: „
+
+- **3)** spełnia wymagania określone w: ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2022 r. poz. 1720, 1733 i 2705) dla lekarza systemu Państwowe Ratownictwo Medyczne i pielęgniarki systemu Państwowe Ratownictwo Medyczne realizujących doskonalenie zawodowe lub ratownika, ustawie z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705) dla ratownika medycznego realizującego doskonalenie zawodowe; ” .
+    - **a)**
+    - **b)**
+
+**Art. 214.** W ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie i ratownictwie w górach i na zorganizowanych terenach narciarskich (Dz. U. z 2022 r. poz. 1425) w art. 2 pkt 9 i 10 otrzymują brzmienie: „
+
+- **9)** ratowniku górskim – rozumie się przez to osobę posiadającą uprawnienia ratownicze lub instruktorskie w zakresie ratownictwa górskiego oraz specjalistyczną wiedzę z zakresu technik ratownictwa górskiego i topografii obszaru, na którym działa dany podmiot uprawniony do wykonywania ratownictwa górskiego, spełniającą wymagania określone w: ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2022 r. poz. 1720, 1733 i 2705) dla lekarza systemu i pielęgniarki systemu realizujących doskonalenie zawodowe lub ratownika, ustawie z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705) dla ratownika medycznego realizującego doskonalenie zawodowe zatrudnioną lub pełniącą służbę w tym podmiocie lub będącą członkiem tego podmiotu;
+    - **a)**
+    - **b)**
+
+- **10)** ratowniku narciarskim – rozumie się przez to osobę, która ukończyła szkolenie w zakresie transportu osób potrzebujących pomocy na zorganizowanych terenach narciarskich organizowane przez podmiot uprawniony do wykonywania ratownictwa górskiego, spełniającą wymagania określone w: ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym dla lekarza systemu i pielęgniarki systemu realizujących doskonalenie zawodowe lub ratownika, ustawie z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych dla ratownika medycznego realizującego doskonalenie zawodowe; ” .
+    - **a)**
+    - **b)**
+
+**Art. 215.** W ustawie z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego (Dz. U. z 2022 r. poz. 2175 i 2666) w art. 16b w ust. 4 pkt 2 otrzymuje brzmienie: „
+
+- **2)** lekarz systemu w rozumieniu art. 3 pkt 3 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2022 r. poz. 1720, 1733 i 2705), pielęgniarka systemu w rozumieniu art. 3 pkt 6 tej ustawy albo ratownik medyczny, który spełnia wymagania określone w ustawie z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705), którzy posiadają co najmniej dwuletnie doświadczenie zawodowe w zakresie wykonywania medycznych czynności ratunkowych w rozumieniu art. 3 pkt 4 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, albo ” .
+
+**Art. 216.** W ustawie z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. z 2021 r. poz. 1297) wprowadza się następujące zmiany:
+
+- **1)** w art. 8 dodaje się ust. 3 w brzmieniu: „
+
+3. Do szkolenia specjalizacyjnego w dziedzinie chirurgiczna asysta lekarza, o której mowa w przepisach wydanych na podstawie art. 46 pkt 1, może przystąpić także osoba, która:
+
+- **1)** posiada tytuł zawodowy licencjata po ukończeniu studiów na kierunku ratownictwo medyczne lub licencjata pielęgniarstwa po ukończeniu studiów na kierunku pielęgniarstwo oraz
+- **2)** wykonywała co najmniej przez 3 lata czynności zawodowe, o których mowa w art. 33 ust. 1 ustawy z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705) lub w art. 4 ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2022 r. poz. 2702 i 2705), pod warunkiem wystawienia przez podmiot leczniczy zaświadczenia potwierdzającego zapotrzebowanie w tym podmiocie leczniczym na osoby posiadające tę specjalizację, oraz
+- **3)** została zakwalifikowana do odbywania szkolenia specjalizacyjnego w postępowaniu kwalifikacyjnym. ” ;
+- **2)** w art. 11 w ust. 3 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „
+- **5)** zaświadczenia wystawionego przez podmiot leczniczy potwierdzającego zapotrzebowanie w tym podmiocie leczniczym na osoby posiadające specjalizację – w przypadku osób, o których mowa w art. 8 ust. 3 pkt 1;
+- **6)** dokumentu potwierdzającego okres wykonywania czynności zawodowych. ” ;
+- **3)** w art. 12 ust. 4 otrzymuje brzmienie: „
+
+4. Postępowanie kwalifikacyjne obejmuje ocenę spełniania warunków określonych w art. 8 ust. 1 pkt 1, w art. 8 ust. 2 pkt 1 i 2 albo w art. 8 ust. 3 pkt 1 i 2 oraz – w przypadku gdy liczba osób spełniających te warunki jest większa niż liczba miejsc szkoleniowych – postępowanie konkursowe. ” .
+
+**Art. 217.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2021 r. poz. 2095, z późn. zm.) uchyla się art. 7g.
 
 #### Rozdział 10 Przepisy przejściowe i przepis końcowy
 
 **Art. 218.**
 
-1. Osoby, które w okresie od dnia wejścia w życie ustawy do upływu 2 lat od dnia powołania Krajowej Rady Ratowników Medycznych spełniają łącznie warunki określone w art. 2 pkt 1–4, stają się ratownikami medycznymi w rozumieniu ustawy i przysługuje im prawo wykonywania zawodu.
+1. Osoby, które w dniu wejścia w życie ustawy spełniają łącznie warunki określone w art. 2 pkt 1–4, stają się ratownikami medycznymi w rozumieniu ustawy i przysługuje im prawo wykonywania zawodu.
 
-2. Osobom, które w okresie od dnia wejścia w życie ustawy do upływu 2 lat od dnia powołania Krajowej Rady Ratowników Medycznych uzyskały zgodę na wykonywanie zawodu ratownika medycznego na podstawie art. 10 ust. 3 ustawy zmienianej w art. 207 albo art. 7 ust. 1, przysługuje prawo wykonywania zawodu przez okres, na jaki została wydana zgoda.
+2. Osobom, które uzyskały zgodę na wykonywanie zawodu ratownika medycznego, o której mowa w art. 10 ust. 3 ustawy zmienianej w art. 207, przysługuje prawo wykonywania zawodu przez okres, na jaki została wydana zgoda.
 
-3. Osobom, o których mowa w ust. 1 i 2, wydaje się prawo wykonywania zawodu ratownika medycznego i wpisuje się te osoby do rejestru, o którym mowa w art. 137, na ich wniosek złożony nie później niż w terminie 4 lat od dnia powołania Krajowej Rady Ratowników Medycznych.
+3. Osobom, o których mowa w ust. 1 i 2, wydaje się prawo wykonywania zawodu ratownika medycznego i wpisuje się te osoby do rejestru, o którym mowa w art. 137, na ich wniosek złożony nie później niż w terminie 2 lat od dnia wejścia w życie ustawy.
 
-4. Osoby, o których mowa w ust. 1 i 2, mogą wykonywać zawód ratownika medycznego w okresie od dnia wejścia w życie ustawy do upływu 4 lat od dnia powołania Krajowej Rady Ratowników Medycznych bez uzyskania dokumentu „Prawo wykonywania zawodu ratownika medycznego” oraz wpisu do rejestru, o którym mowa w art. 137, a po upływie 4 lat – pod warunkiem złożenia wniosku, o którym mowa w ust. 3.
+4. Osoby, o których mowa w ust. 1 i 2, mogą wykonywać zawód ratownika medycznego w okresie 2 lat od dnia wejścia w życie ustawy bez uzyskania dokumentu „Prawo wykonywania zawodu ratownika medycznego” oraz wpisu do rejestru, o którym mowa w art. 137, a po upływie 2 lat – pod warunkiem złożenia wniosku, o którym mowa w ust. 3.
 
 5. W przypadku niezłożenia wniosku, o którym mowa w ust. 3, osoby te nie mogą wykonywać zawodu ratownika medycznego.
 
@@ -1541,24 +1867,6 @@ Art. 206–217. (pominięte)
 
 2. Ratownicy medyczni, którzy przed dniem wejścia w życie ustawy rozpoczęli okres edukacyjny, kontynuują go na nowych zasadach z zachowaniem dotychczasowych punktów edukacyjnych.
 
-**Art. 221a.**
-
-1. Ratownik medyczny samodzielnie pobiera kartę ustawicznego rozwoju zawodowego, o której mowa w art. 82 ust. 1, ze strony internetowej urzędu obsługującego ministra właściwego do spraw zdrowia w okresie nie dłuższym niż rok od dnia powołania Krajowej Rady Ratowników Medycznych.
-
-2. Ratownik medyczny przekazuje kartę ustawicznego rozwoju zawodowego lub kartę doskonalenia zawodowego w terminie nie dłuższym niż 30 dni od dnia zakończenia danego okresu rozliczeniowego pracodawcy, świadczeniodawcy lub zleceniodawcy, u którego ratownik medyczny wykonuje zawód, lub konsultantowi wojewódzkiemu w dziedzinie medycyny ratunkowej właściwemu ze względu na miejsce zamieszkania ratownika medycznego w celu potwierdzenia dopełnienia obowiązku doskonalenia zawodowego.
-
-3. Pracodawca, świadczeniodawca lub zleceniodawca, u którego ratownik medyczny wykonuje zawód, lub konsultant wojewódzki w dziedzinie medycyny ratunkowej właściwy ze względu na miejsce zamieszkania ratownika medycznego, potwierdza w okresie nie dłuższym niż rok od dnia powołania Krajowej Rady Ratowników Medycznych dopełnienie obowiązku doskonalenia zawodowego.
-
-4. Pracodawca, świadczeniodawca lub zleceniodawca, u którego ratownik medyczny wykonuje zawód, lub konsultant wojewódzki w dziedzinie medycyny ratunkowej, po dokonaniu potwierdzenia obowiązku doskonalenia zawodowego zwraca ratownikowi medycznemu kartę, o której mowa w ust. 2, w terminie nie dłuższym niż 60 dni od dnia jej przekazania.
-
-**Art. 221b.**
-
-1. Ratownik medyczny, któremu 5-letni okres edukacyjny zakończył się z dniem 31 grudnia 2023 r. w celu potwierdzenia dopełnienia obowiązku doskonalenia zawodowego przekazuje kartę ustawicznego rozwoju zawodowego lub kartę doskonalenia zawodowego, w terminie nie dłuższym niż 60 dni od dnia wejścia w życie niniejszych przepisów, pracodawcy, świadczeniodawcy albo zleceniodawcy, u którego ratownik medyczny wykonuje zawód, albo konsultantowi wojewódzkiemu w dziedzinie medycyny ratunkowej właściwemu ze względu na miejsce zamieszkania ratownika medycznego.
-
-2. Pracodawca, świadczeniodawca, zleceniodawca, u którego ratownik medyczny wykonuje zawód, albo konsultant wojewódzki w dziedzinie medycyny ratunkowej właściwy ze względu na miejsce zamieszkania ratownika medycznego potwierdza w okresie nie dłuższym niż do dnia 12 stycznia 2026 r. dopełnienie obowiązku doskonalenia zawodowego.
-
-3. Pracodawca, świadczeniodawca, zleceniodawca, u którego ratownik medyczny wykonuje zawód, albo konsultant wojewódzki w dziedzinie medycyny ratunkowej po dokonaniu potwierdzenia obowiązku doskonalenia zawodowego zwraca ratownikowi medycznemu kartę, o której mowa w ust. 1, w terminie nie dłuższym niż 60 dni od dnia jej przekazania.
-
 **Art. 222.**
 
 1. Kursy doskonalące rozpoczęte przed dniem wejścia w życie ustawy są realizowane na dotychczasowych zasadach.
@@ -1575,15 +1883,7 @@ Art. 206–217. (pominięte)
 
 **Art. 225.** Przeszkolenie, które jest realizowane w związku z przerwą w wykonywaniu zawodu ratownika medycznego, rozpoczęte i niezakończone przed dniem wejścia w życie ustawy jest realizowane na podstawie dotychczasowych przepisów.
 
-**Art. 225a.**
-
-1. Ratownik medyczny, który nie wykonuje zawodu ratownika medycznego przez udzielanie świadczeń zdrowotnych przez okres dłuższy niż 5 lat łącznie w okresie ostatnich 6 lat, a zamierza podjąć wykonywanie zawodu ratownika medycznego przez udzielanie świadczeń zdrowotnych, nie później niż przed upływem 2 lat od dnia powołania Krajowej Rady Ratowników Medycznych, jest obowiązany przez pierwsze 6 miesięcy udzielać świadczeń zdrowotnych pod nadzorem ratownika medycznego albo lekarza systemu, albo pielęgniarki systemu w rozumieniu odpowiednio art. 3 pkt 3 i 6 ustawy zmienianej w art. 207 , którzy posiadają co najmniej 2-letnie doświadczenie zawodowe w zespole ratownictwa medycznego lub w szpitalnym oddziale ratunkowym.
-
-2. Praca pod nadzorem jest realizowana w zespole ratownictwa medycznego lub w szpitalnym oddziale ratunkowym w wymiarze odpowiadającym pełnemu wymiarowi czasu pracy.
-
-3. Ratownik medyczny, który przed upływem 2 lat od dnia powołania Krajowej Rady Ratowników Medycznych, rozpoczął wykonywanie zawodu ratownika medycznego pod nadzorem ratownika medycznego albo lekarza systemu, albo pielęgniarki systemu w rozumieniu odpowiednio art. 3 pkt 3 i 6 ustawy zmienianej w art. 207 , kontynuuje je na zasadach określonych w ust. 1.
-
-**Art. 226.** Do postępowań w sprawach uznawania kwalifikacji zawodowych wszczętych i niezakończonych przed upływem roku od dnia powołania Krajowej Rady Ratowników Medycznych stosuje się przepisy dotychczasowe.
+**Art. 226.** Do postępowań w sprawach uznawania kwalifikacji zawodowych wszczętych i niezakończonych przed dniem wejścia w życie ustawy stosuje się przepisy dotychczasowe.
 
 **Art. 227.**
 
@@ -1618,11 +1918,9 @@ Art. 206–217. (pominięte)
 
 1. Opłata za wpis do spisu ratowników medycznych do czasu wyboru samorządu ratowników medycznych stanowi dochód budżetu państwa.
 
-2. Wysokość opłaty, o której mowa w ust. 1, nie może być większa niż 6 % przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku za ubiegły rok, ogłaszanego, w drodze obwieszczenia, przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, obowiązującego w dniu złożenia wniosku o wpis, zaokrąglonego w górę do pełnego złotego.
+2. Wysokość opłaty, o której mowa w ust. 1, nie może być większa niż 6% przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku za ubiegły rok, ogłaszanego, w drodze obwieszczenia, przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, obowiązującego w dniu złożenia wniosku o wpis, zaokrąglonego w górę do pełnego złotego.
 
 3. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wysokość opłaty za wpis do spisu ratowników medycznych, o której mowa w ust. 1, mając na uwadze koszty związane z dokonaniem wpisu.
-
-**Art. 231a.** Minister właściwy do spraw zdrowia może do dnia 31 grudnia 2026 r., w ramach środków budżetu państwa, z części, której jest dysponentem, dofinansować koszty związane z realizacją zadań samorządu ratowników medycznych. Dofinansowanie działalności samorządu ratowników medycznych ze środków publicznych realizowane w ramach dotacji nie może dotyczyć działalności tego samorządu o charakterze gospodarczym.
 
 **Art. 232.**
 
@@ -1632,9 +1930,9 @@ Art. 206–217. (pominięte)
 
 3. Z dniem ukonstytuowania się pierwszego Krajowego Zjazdu Ratowników Medycznych organy samorządu ratowników medycznych przejmują wszystkie swoje kompetencje, o których mowa w ustawie.
 
-4. (uchylony)
+4. Postępowania w przedmiocie przyznania prawa wykonywania zawodu i wpisu do rejestru, o którym mowa w art. 137, wszczęte i niezakończone przed dniem ukonstytuowania się Krajowego Zjazdu Ratowników Medycznych są kontynuowane przez Krajową Radę Ratowników Medycznych. Rozstrzygnięcia podjęte przez Komitet zachowują ważność.
 
 **Art. 233.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 11b ust. 12 i 13 ustawy zmienianej w art. 207 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 72 i art. 73 ustawy, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie ustawy.
 
-**Art. 234.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia , z wyjątkiem art. 217 oraz art. 227–232, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 234.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem art. 217 oraz art. 227–232, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
 

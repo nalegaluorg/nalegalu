@@ -8,10 +8,10 @@ pos: 1722
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 grudnia 2014 r.
+# Ustawa z dnia 7 listopada 2014 r. o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych oraz ustawy o bezpieczeństwie żywności i żywienia
 
 | Pole | Wartość |
 |---|---|
@@ -22,114 +22,238 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2014-11-07 |
 | Data wydania | 2014-12-04 |
+| Wejście w życie | 2014-12-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001722) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1722/text.pdf) |
 
-USTAWA z dnia 7 listopada 2014 r.
-o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych oraz ustawy o bezpieczeństwie żywności i żywienia
-
 **Art. 1.** W ustawie z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2014 r. poz. 669, 1146 i 1662) wprowadza się następujące zmiany:
 
-**Art. 15c.** Minister właściwy do spraw rynków rolnych jest organem właściwym do przekazywania Komisji Europejskiej informacji, o których mowa częściach B i C załącznika II do rozporządzenia nr 1249/2008.
+- **1)** odnośnik nr 1 do ustawy otrzymuje brzmienie: „
+- **1)** Przepisy niniejszej ustawy: 1) wykonują postanowienia: a) rozporządzenia (WE) nr 882/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie kontroli urzędowych przeprowadzanych w celu sprawdzenia zgodności z prawem paszowym i żywnościowym oraz regułami dotyczącymi zdrowia zwierząt i dobrostanu zwierząt (Dz. Urz. UE L 165 z 30.04.2004, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 200), b) rozporządzenia Komisji (WE) nr 1249/2008 z dnia 10 grudnia 2008 r. ustanawiającego szczegółowe zasady wdrożenia wspólnotowych skal klasyfikacji tusz wołowych, wieprzowych i baranich oraz raportowania ich cen (Dz. Urz. UE L 337 z 16.12.2008, str. 3, z późn. zm.), c) rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1169/2011 z dnia 25 października 2011 r. w sprawie przekazywania konsumentom informacji na temat żywności, zmiany rozporządzeń Parlamentu Europejskiego i Rady (WE) nr 1924/2006 i (WE) nr 1925/2006 oraz uchylenia dyrektywy Komisji 87/250/EWG, dyrektywy Rady 90/496/EWG, dyrektywy Komisji 1999/10/WE, dyrektywy 2000/13/WE Parlamentu Europejskiego i Rady, dyrektyw Komisji 2002/67/WE i 2008/5/WE oraz rozporządzenia Komisji (WE) nr 608/2004 (Dz. Urz. UE L 304 z 22.11.2011, str. 18, z późn. zm.), rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549), e) rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.); 2) wdrażają postanowienia: a) dyrektywy Rady 89/396/EWG z dnia 14 czerwca 1989 r. w sprawie wskazówek lub oznakowań identyfikacyjnych partii towaru, do której należy dany środek spożywczy (Dz. Urz. WE L 186 z 30.06.1989, str. 21, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 10, str. 1), b) dyrektywy Rady 91/238/EWG z dnia 22 kwietnia 1991 r. zmieniającej dyrektywę 89/396/EWG w sprawie wskazówek lub oznakowań identyfikacyjnych partii towaru, do której należy dany środek spożywczy (Dz. Urz. WE L 107 z 27.04.1991, str. 50; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 10, str. 275), c) dyrektywy Rady 92/11/EWG z dnia 3 marca 1992 r. zmieniającej dyrektywę 89/396/EWG w sprawie wskazówek lub oznakowań identyfikacyjnych partii towaru, do której należy dany środek spożywczy (Dz. Urz. WE L 65 z 11.03.1992, str. 32; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 11, str. 81). ” ;
+    - **d)**
 
-**Art. 15d.**
+- **2)** w art. 2 pkt 3 otrzymuje brzmienie: „
+- **3)** sprzedaży artykułów rolno-spożywczych dokonywanej przez ich producentów w gospodarstwie bezpośrednio konsumentom finalnym z wyłączeniem wyrobów winiarskich objętych wspólną organizacją rynku wina oraz fermentowanych napojów winiarskich; ” ;
+- **3)** w art. 3: uchyla się pkt 6, w pkt 10: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ artykuł rolno-spożywczy zafałszowany – produkt, którego skład jest niezgodny z przepisami dotyczącymi jakości handlowej poszczególnych artykułów rolno-spożywczych, albo produkt, w którym zostały wprowadzone zmiany, w tym zmiany dotyczące oznakowania, mające na celu ukrycie jego rzeczywistego składu lub innych właściwości, jeżeli niezgodności te lub zmiany w istotny sposób naruszają interesy konsumentów finalnych, w szczególności jeżeli: ” , – w lit. c na końcu kropkę zastępuje się średnikiem, dodaje się pkt 11 w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **11)** konsument finalny – konsumenta finalnego, w rozumieniu art. 3 pkt 18 rozporządzenia (WE) nr 178/2002 Parlamentu Europejskiego i Rady z dnia 28 stycznia 2002 r. ustanawiającego ogólne zasady i wymagania prawa żywnościowego, powołującego Europejski Urząd ds. Bezpieczeństwa Żywności oraz ustanawiającego procedury w zakresie bezpieczeństwa żywności.”
+- **4)** w art. 6: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Artykuły rolno-spożywcze wprowadzane do obrotu są oznakowane co najmniej w języku polskim. ” , uchyla się ust. 2 i 3;
+
+- **b)**
+- **5)** w art. 7 uchyla się ust. 2;
+- **6)** w art. 12 w ust. 2: pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** rolników, w rozumieniu przepisów o ubezpieczeniu społecznym rolników, w zakresie prowadzonej działalności rolniczej, z wyłączeniem działalności polegającej na znakowaniu i pakowaniu jaj; ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
+    - **b)**
+
+- **1a)** producentów i przedsiębiorców wyrabiających wino z winogron pozyskanych z upraw winorośli położonych na terytorium Rzeczypospolitej Polskiej, o których mowa w art. 28 ustawy z dnia 12 maja 2011 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina (Dz. U. z 2014 r. poz. 1104); ” ;
+- **7)** w art. 15 pkt 1 otrzymuje brzmienie: „
+- **1)** w porozumieniu z ministrem właściwym do spraw zdrowia określi sposób znakowania i szczegółowy zakres informacji podawanych w oznakowaniu poszczególnych rodzajów środków spożywczych, w tym środków spożywczych: bez opakowań przeznaczonych do sprzedaży konsumentowi finalnemu lub zakładom żywienia zbiorowego w rozumieniu art. 2 ust. 2 lit. d rozporządzenia Parlamentu Europejskiego i Rady nr 1169/2011 z dnia 25 października 2011 r. w sprawie przekazywania konsumentom informacji na temat żywności, zmiany rozporządzeń Parlamentu Europejskiego i Rady (WE) nr 1924/2006 i (WE) nr 1925/2006 oraz uchylenia dyrektywy Komisji 87/250/EWG, dyrektywy Rady 90/496/EWG, dyrektywy Komisji 1999/10/WE, dyrektywy 2000/13/WE Parlamentu Europejskiego i Rady, dyrektyw Komisji 2002/67/WE i 2008/5/WE oraz rozporządzenia Komisji (WE) nr 608/2004 (Dz. Urz. UE L 304 z 22.11.2011, str. 18, z późn. zm.), pakowanych przy sprzedaży, ” ;
+    - **a)**
+    - **b)**
+
+- **8)** w art. 15a: w ust. 3 w pkt 3 lit. a otrzymuje brzmienie: „ nie więcej niż 75 sztuk bydła w wieku od 8. miesiąca życia tygodniowo średniorocznie lub ” , w ust. 3d pkt 2 otrzymuje brzmienie: „
+    - **a)**
+    - **a)**
+    - **b)**
+
+- **2)** w poszczególnych kategoriach oraz klasach uformowania i otłuszczenia – w odniesieniu do tusz bydła w wieku od 8. miesiąca życia, jeżeli poddawał tusze klasyfikacji; ” ;
+- **9)** po art. 15a dodaje się art. 15b-15d w brzmieniu: „
+
+**Art. 15b.**
+
+1. Technika automatycznej klasyfikacji tusz wołowych, o której mowa w art. 9 ust. 1 rozporządzenia Komisji (WE) nr 1249/2008 z dnia 10 grudnia 2008 r. ustanawiającego szczegółowe zasady wdrożenia wspólnotowych skal klasyfikacji tusz wołowych, wieprzowych i baranich oraz raportowania ich cen (Dz. Urz. UE L 337 z 16.12.2008, str. 3, z późn. zm.), zwanego dalej „rozporządzeniem nr 1249/2008”, wymaga zatwierdzenia przez ministra właściwego do spraw rynków rolnych dokonywanego na wniosek podmiotu zainteresowanego.
+
+2. Wniosek, o którym mowa w ust. 1, zawiera:
+
+- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę podmiotu zainteresowanego, z tym że w przypadku gdy podmiotem zainteresowanym jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+- **2)** określenie rzeźni, w której zostanie przeprowadzony test certyfikacyjny, o którym mowa w części A załącznika II do rozporządzenia nr 1249/2008;
+- **3)** wskazanie typu urządzenia do automatycznej klasyfikacji tusz wołowych, nazwę producenta tego urządzenia i rok jego produkcji.
+
+3. Minister właściwy do spraw rynków rolnych niezwłocznie przekazuje wniosek, o którym mowa w ust. 1, Głównemu Inspektorowi Jakości Handlowej Artykułów Rolno-Spożywczych, który:
+
+- **1)** przygotowuje informacje, o których mowa w części B załącznika II do rozporządzenia nr 1249/2008;
+- **2)** organizuje test certyfikacyjny, o którym mowa w części A załącznika II do rozporządzenia nr 1249/2008;
+- **3)** przygotowuje informacje, o których mowa w tiret pierwsze-trzecie części C załącznika II do rozporządzenia nr 1249/2008.
+
+4. Główny Inspektor Jakości Handlowej Artykułów Rolno-Spożywczych niezwłocznie przekazuje ministrowi właściwemu do spraw rynków rolnych informacje, o których mowa w części B załącznika II do rozporządzenia nr 1249/2008 i tiret pierwsze-trzecie części C załącznika II do rozporządzenia nr 1249/2008.
+
+5. Minister właściwy do spraw rynków rolnych przekazuje instytutowi badawczemu prowadzącemu badania i analizy związane z jakością żywności informacje, o których mowa w tiret pierwsze-trzecie części C załącznika II do rozporządzenia nr 1249/2008.
+
+6. Instytut, o którym mowa w ust. 5, przeprowadza analizę ilościową wyników testu certyfikacyjnego, o której mowa w tiret czwarte części C załącznika II do rozporządzenia nr 1249/2008, oraz ocenę dokładności technik automatycznej klasyfikacji, o których mowa w tiret piąte części C załącznika II do rozporządzenia nr 1249/2008, i niezwłocznie przekazuje ministrowi właściwemu do spraw rynków rolnych wyniki tej analizy i oceny.
+
+7. Minister właściwy do spraw rynków rolnych zatwierdza, w drodze decyzji, technikę automatycznej klasyfikacji tusz wołowych, jeżeli wyniki analizy i oceny, o których mowa w ust. 6, spełniają wymagania określone w części A załącznika II do rozporządzenia nr 1249/2008.
+
+8. Minister właściwy do spraw rynków rolnych przekazuje kopię decyzji, o której mowa w ust. 7, Głównemu Inspektorowi Jakości Handlowej Artykułów Rolno-Spożywczych. Minister właściwy do spraw rynków rolnych jest organem właściwym do przekazywania Komisji Europejskiej informacji, o których mowa w częściach B i C załącznika II do rozporządzenia nr 1249/2008.
 
 1. Podmiot zainteresowany zatwierdzeniem techniki automatycznej klasyfikacji tusz wołowych ponosi koszty zatwierdzenia tej techniki, które obejmują:
 
-- **1)** przygotowanie informacji, o których mowa części B załącznika II do rozporządzenia nr 1249/2008;
-- **2)** organizację i przeprowadzenie testu certyfikacyjnego, o którym mowa części A załącznika II do rozporządzenia nr 1249/2008;
-- **3)** przeprowadzenie analizy wyników testu certyfikacyjnego, o którym mowa części A załącznika II do rozporządzenia nr 1249/2008;
-- **4)** przygotowanie informacji, o których mowa tiret pierwsze–trzecie części C załącznika II do rozporządzenia nr 1249/2008;
-- **5)** przeprowadzenie analizy ilościowej wyników testu certyfikacyjnego, o której mowa tiret czwarte części C załącznika II do rozporządzenia nr 1249/2008, oraz oceny dokładności technik automatycznej klasyfikacji, o których mowa tiret piąte części C załącznika II do rozporządzenia nr 1249/2008.
+- **1)** przygotowanie informacji, o których mowa w części B załącznika II do rozporządzenia nr 1249/2008;
+- **2)** organizację i przeprowadzenie testu certyfikacyjnego, o którym mowa w części A załącznika II do rozporządzenia nr 1249/2008;
+- **3)** przeprowadzenie analizy wyników testu certyfikacyjnego, o którym mowa w części A załącznika II do rozporządzenia nr 1249/2008;
+- **4)** przygotowanie informacji, o których mowa w tiret pierwsze-trzecie części C załącznika II do rozporządzenia nr 1249/2008;
+- **5)** przeprowadzenie analizy ilościowej wyników testu certyfikacyjnego, o której mowa w tiret czwarte części C załącznika II do rozporządzenia nr 1249/2008, oraz oceny dokładności technik automatycznej klasyfikacji, o których mowa w tiret piąte części C załącznika II do rozporządzenia nr 1249/2008.
 
 2. Podmiot zainteresowany zatwierdzeniem techniki automatycznej klasyfikacji tusz wołowych uiszcza opłatę obejmującą koszty, o których mowa w:
 
-- **1)** ust. 1 1–4, na rachunek bankowy wskazany przez Głównego Inspektora Jakości Handlowej Artykułów Rolno-Spożywczych;
-- **2)** ust. 1 5, na rachunek bankowy wskazany przez instytut, o którym mowa art. 15b ust. 5.”;
-- **10)** art. 17 ust. 1 1:
-    - **a)** lit. e i f otrzymują brzmienie: „e) kontrola artykułów rolno-spożywczych oznakowanych chronionymi nazwami pochodzenia, chronionymi oznaczeniami geograficznymi albo nazwami gwarantowanych tradycyjnych specjalności, zarejestrowanymi na podstawie przepisów o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych, lub nazwami odwołującymi się do zarejestrowanych chronionych nazw pochodzenia, chronionych oznaczeń geograficznych albo gwarantowanych tradycyjnych specjalności oraz współpraca z jednostkami sprawującymi taką kontrolę innych państwach,
-    - **f)** kontrola wyrobów winiarskich oznakowanych chronionymi nazwami pochodzenia lub chronionymi oznaczeniami geograficznymi, zarejestrowanymi na podstawie przepisów o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina, lub nazwami odwołującymi się do zarejestrowanych chronionych nazw pochodzenia lub chronionych oznaczeń geograficznych oraz współpraca z jednostkami sprawującymi taką kontrolę innych państwach,”,
-    - **b)** dodaje się lit. g brzmieniu: „g) kontrola napojów spirytusowych oznakowanych chronionymi oznaczeniami geograficznymi, zarejestrowanymi na podstawie przepisów o wyrobie napojów spirytusowych oraz o rejestracji i ochronie oznaczeń geograficznych napojów spirytusowych, lub nazwami odwołującymi się do zarejestrowanych chronionych oznaczeń geograficznych oraz współpraca z jednostkami sprawującymi taką kontrolę innych państwach;”;
+- **1)** ust. 1 pkt 1–4, na rachunek bankowy wskazany przez Głównego Inspektora Jakości Handlowej Artykułów Rolno-Spożywczych;
+- **2)** ust. 1 pkt 5, na rachunek bankowy wskazany przez instytut, o którym mowa w art. 15b ust. 5. ” ;
+- **10)** w art. 17 w ust. 1 w pkt 1: lit. e i f otrzymują brzmienie: „ kontrola artykułów rolno-spożywczych oznakowanych chronionymi nazwami pochodzenia, chronionymi oznaczeniami geograficznymi albo nazwami gwarantowanych tradycyjnych specjalności, zarejestrowanymi na podstawie przepisów o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych, lub nazwami odwołującymi się do zarejestrowanych chronionych nazw pochodzenia, chronionych oznaczeń geograficznych albo gwarantowanych tradycyjnych specjalności oraz współpraca z jednostkami sprawującymi taką kontrolę w innych państwach, kontrola wyrobów winiarskich oznakowanych chronionymi nazwami pochodzenia lub chronionymi oznaczeniami geograficznymi, zarejestrowanymi na podstawie przepisów o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina, lub nazwami odwołującymi się do zarejestrowanych chronionych nazw pochodzenia lub chronionych oznaczeń geograficznych oraz współpraca z jednostkami sprawującymi taką kontrolę w innych państwach, ” , dodaje się lit. g w brzmieniu: „ kontrola napojów spirytusowych oznakowanych chronionymi oznaczeniami geograficznymi, zarejestrowanymi na podstawie przepisów o wyrobie napojów spirytusowych oraz o rejestracji i ochronie oznaczeń geograficznych napojów spirytusowych, lub nazwami odwołującymi się do zarejestrowanych chronionych oznaczeń geograficznych oraz współpraca z jednostkami sprawującymi taką kontrolę w innych państwach; ” ;
+    - **a)**
+    - **e)**
+    - **f)**
+    - **b)**
+    - **g)**
 
-- **11)** art. 17a otrzymuje brzmienie: „Art. 17a. 1. Inspekcja sprawuje nadzór zakresie jakości handlowej określonej przepisami Unii Europejskiej odnoszącymi się do:
+- **11)** art. 17a otrzymuje brzmienie: „
+
+**Art. 17a.**
+
+1. Inspekcja sprawuje nadzór w zakresie jakości handlowej określonej przepisami Unii Europejskiej odnoszącymi się do:
+
 - **1)** mięsa drobiowego;
+- **2)** jaj;
 - **3)** tusz wieprzowych;
 - **4)** tusz wołowych;
 - **5)** tusz innych zwierząt;
-- **6)** mięsa pochodzącego z bydła wieku poniżej 12. miesiąca życia.
+- **6)** mięsa pochodzącego z bydła w wieku poniżej 12. miesiąca życia.
 
-2. Nadzór, o którym mowa ust. 1, jest sprawowany z uwzględnieniem art. 17 ust. 3.
+2. Nadzór, o którym mowa w ust. 1, jest sprawowany z uwzględnieniem art. 17 ust. 3.
 
-3. Minister właściwy do spraw rynków rolnych ogłosi, drodze obwieszczenia, wykaz przepisów Unii Europejskiej, o których mowa ust. 1.”;
+3. Minister właściwy do spraw rynków rolnych ogłosi, w drodze obwieszczenia, wykaz przepisów Unii Europejskiej, o których mowa w ust. 1. ” ;
 
-- **12)** art. 17c otrzymuje brzmienie: „Art. 17c. 1. Inspekcja prowadzi kontrole prawidłowości dokonanych transakcji finansowanych z Europejskiego Funduszu Rolniczego Gwarancji, realizowanych ramach Wspólnej Polityki Rolnej, z wyłączeniem refundacji eksportowych, zwane dalej „kontrolami”.
+- **12)** art. 17c otrzymuje brzmienie: „
 
-2. Kontrole są prowadzone na zasadach określonych rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającym rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549), zwanym dalej „rozporządzeniem nr 1306/2013”.
+1. Inspekcja prowadzi kontrole prawidłowości dokonanych transakcji finansowanych z Europejskiego Funduszu Rolniczego Gwarancji, realizowanych w ramach Wspólnej Polityki Rolnej, z wyłączeniem refundacji eksportowych, zwane dalej „kontrolami”.
 
-3. Prezes Agencji Rynku Rolnego oraz Prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa, celu przeprowadzenia przez Inspekcję kontroli, przekazują Głównemu Inspektorowi Jakości Handlowej Artykułów Rolno-Spożywczych informacje i dokumenty dotyczące transakcji, o których mowa ust. 1.
+2. Kontrole są prowadzone na zasadach określonych w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającym rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549), zwanym dalej „rozporządzeniem nr 1306/2013”.
+
+3. Prezes Agencji Rynku Rolnego oraz Prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa, w celu przeprowadzenia przez Inspekcję kontroli, przekazują Głównemu Inspektorowi Jakości Handlowej Artykułów Rolno-Spożywczych informacje i dokumenty dotyczące transakcji, o których mowa w ust. 1.
 
 4. Minister właściwy do spraw rolnictwa i minister właściwy do spraw rynków rolnych są organami właściwymi do:
 
-- **1)** przeprowadzania analizy ryzyka zakresie prawidłowości dokonanych transakcji finansowanych z Europejskiego Funduszu Rolniczego Gwarancji, realizowanych ramach Wspólnej Polityki Rolnej, z wyłączeniem refundacji eksportowych;
-- **2)** opracowywania projektu rocznego programu kontroli, o którym mowa art. 84 rozporządzenia nr 1306/2013, oraz projektu sprawozdania rocznego, o którym mowa art. 86 rozporządzenia nr 1306/2013, zakresie określonym ust. 1;
+- **1)** przeprowadzania analizy ryzyka w zakresie prawidłowości dokonanych transakcji finansowanych z Europejskiego Funduszu Rolniczego Gwarancji, realizowanych w ramach Wspólnej Polityki Rolnej, z wyłączeniem refundacji eksportowych;
+- **2)** opracowywania projektu rocznego programu kontroli, o którym mowa w art. 84 rozporządzenia nr 1306/2013, oraz projektu sprawozdania rocznego, o którym mowa w art. 86 rozporządzenia nr 1306/2013, w zakresie określonym w ust. 1;
 - **3)** przekazywania Głównemu Inspektorowi Jakości Handlowej Artykułów Rolno-Spożywczych listy przedsiębiorstw, u których zostanie przeprowadzona kontrola.
 
-5. W zakresie określonym ust. 4 1 i 2 Główny Inspektor Jakości Handlowej Artykułów Rolno-Spożywczych, Prezes Agencji Rynku Rolnego oraz Prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa przekazują ministrowi właściwemu do spraw rolnictwa i ministrowi właściwemu do spraw rynków rolnych informacje i wyjaśnienia.
+5. W zakresie określonym w ust. 4 pkt 1 i 2 Główny Inspektor Jakości Handlowej Artykułów Rolno-Spożywczych, Prezes Agencji Rynku Rolnego oraz Prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa przekazują ministrowi właściwemu do spraw rolnictwa i ministrowi właściwemu do spraw rynków rolnych informacje i wyjaśnienia.
 
-6. W zakresie nieuregulowanym rozporządzeniu nr 1306/2013, do przeprowadzania kontroli stosuje się odpowiednio przepisy art. 24–28.
+6. W zakresie nieuregulowanym w rozporządzeniu nr 1306/2013, do przeprowadzania kontroli stosuje się odpowiednio przepisy art. 24–28.
 
-7. Główny Inspektor Jakości Handlowej Artykułów Rolno-Spożywczych przekazuje ministrowi właściwemu do spraw rolnictwa i ministrowi właściwemu do spraw rynków rolnych protokół z kontroli oraz dokumentację dotyczącą tej kontroli, terminie 30 dni roboczych od dnia otrzymania tych dokumentów.”;
+7. Główny Inspektor Jakości Handlowej Artykułów Rolno-Spożywczych przekazuje ministrowi właściwemu do spraw rolnictwa i ministrowi właściwemu do spraw rynków rolnych protokół z kontroli oraz dokumentację dotyczącą tej kontroli, w terminie 30 dni roboczych od dnia otrzymania tych dokumentów. ” ;
 
-- **13)** art. 17d: „6) sprawdzanie sposobu produkcji artykułu rolno-spożywczego lub prawidłowości przebiegu procesu technologicznego.”;
-    - **a)** ust. 5 otrzymuje brzmienie: „5. Wojewódzki inspektor jakości handlowej artykułów rolno-spożywczych niezwłocznie przekazuje informacje, o których mowa ust. 4 2, Głównemu Inspektorowi Jakości Handlowej Artykułów Rolno-Spożywczych.”,
-    - **b)** uchyla się ust. 8,
-    - **c)** dodaje się ust. 10 brzmieniu: „10. Główny Inspektor Jakości Handlowej Artykułów Rolno-Spożywczych informuje właściwe organy zainteresowanych państw członkowskich Unii Europejskiej o podmiotach, które uzyskały zwolnienie zgodnie z art. 11 ust. 2 lit. a rozporządzenia nr 589/2008.”;
+- **13)** w art. 17d: ust. 5 otrzymuje brzmienie: „
+    - **a)**
 
-- **15)** art. 24:
-    - **a)** 1 otrzymuje brzmienie: „1) wstępu na teren oraz do obiektów i pomieszczeń kontrolowanych jednostek oraz poruszania się na tym terenie i tych obiektach i pomieszczeniach;”,
-    - **b)** po 1 dodaje się 1a brzmieniu: „1a) wstępu do środków transportu kontrolowanych jednostek i przeprowadzania ich oględzin;”,
-    - **c)** 4 kropkę zastępuje się średnikiem i dodaje się 5 i 6 brzmieniu: „5) żądania sporządzenia kserokopii i urzędowego tłumaczenia na język polski dokumentów sporządzonych języku obcym związanych z przedmiotem kontroli;
+5. Wojewódzki inspektor jakości handlowej artykułów rolno-spożywczych niezwłocznie przekazuje informacje, o których mowa w ust. 4 pkt 2, Głównemu Inspektorowi Jakości Handlowej Artykułów Rolno-Spożywczych. ” , uchyla się ust. 8, dodaje się ust. 10 w brzmieniu: „
 
-- **6)** legitymowania osób przebywających na terenie jednostki kontrolowanej trakcie przeprowadzanej kontroli.”;
-- **16)** art. 26 ust. 1 otrzymuje brzmienie: „1. Dokumenty, artykuły rolno-spożywcze i inne przedmioty mające związek z kontrolą oraz pomieszczenia, których dokonuje się czynności kontrolnych, o których mowa art. 23 ust. 2, mogą być zabezpieczone sposób określony art. 27.”;
-- **17)** art. 29 ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Wykonując zadania, o których mowa art. 17 ust. 1 1 lit. a i e–g, wojewódzki inspektor, drodze decyzji, może:”;
-- **18)** art. 32:
-    - **a)** ust. 1 1 otrzymuje brzmienie: „1) Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych, tym krajowych laboratoriach referencyjnych, o których mowa art. 33 rozporządzenia (WE) nr 882/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. sprawie kontroli urzędowych przeprowadzanych celu sprawdzenia zgodności z prawem paszowym i żywnościowym oraz regułami dotyczącymi zdrowia zwierząt i dobrostanu zwierząt (Dz. Urz. UE L 165 z 30.04.2004, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 200);”,
-    - **b)** dodaje się ust. 5 brzmieniu: „5. Minister właściwy do spraw rynków rolnych wyznacza, drodze rozporządzenia, krajowe laboratoria referencyjne zakresie jakości handlowej artykułów rolno-spożywczych oraz określa przedmiot i rodzaje badań przeprowadzanych przez te laboratoria, mając na względzie zapewnienie rzetelności i obiektywności wyników badań przeprowadzanych przez te laboratoria.”;
+- **b)**
+- **c)**
 
-- **19)** art. 40: ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.), zwanego dalej „rozporządzeniem nr 1308/2013”, albo prowadzi ją niezgodnie z tymi przepisami,”,
-    - **a)** ust. 2 1 otrzymuje brzmienie: „1) nie prowadzi klasyfikacji jaj zgodnie z art. 4 rozporządzenia nr 589/2008 oraz II części VI załącznika VII do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r.
-    - **b)** ust. 4 otrzymuje brzmienie: „4. Kto:
+10. Główny Inspektor Jakości Handlowej Artykułów Rolno-Spożywczych informuje właściwe organy zainteresowanych państw członkowskich Unii Europejskiej o podmiotach, które uzyskały zwolnienie zgodnie z art. 11 ust. 2 lit. a rozporządzenia nr 589/2008. ” ;
 
-- **1)** prowadząc rzeźnię: wprowadzającego szczegółowe przepisy wykonawcze do rozporządzenia Rady (WE) nr 1234/2007
-    - **a)** nie prowadzi lub nie przechowuje dokumentacji albo prowadzi lub przechowuje ją niezgodnie z przepisami art. 12 ust. 1 rozporządzenia Komisji (WE) nr 543/2008 z dnia 16 czerwca 2008 r.
-    - **b)** nie prowadzi systematycznej kontroli zawartości wody wchłoniętej albo prowadzi ją niezgodnie z przepisami art. 16 ust. 1–3 i art. 20 ust. 3 rozporządzenia nr 543/2008 lub nie podejmuje czynności określonych art. 16 ust. 1–3 i art. 20 ust. 3 rozporządzenia nr 543/2008,
+- **14)** w art. 23 w ust. 2 pkt 6 otrzymuje brzmienie: „
+- **6)** sprawdzanie sposobu produkcji artykułu rolno-spożywczego lub prawidłowości przebiegu procesu technologicznego. ” ;
+- **15)** w art. 24: pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** wstępu na teren oraz do obiektów i pomieszczeń kontrolowanych jednostek oraz poruszania się na tym terenie i w tych obiektach i pomieszczeniach; ” , po pkt 1 dodaje się pkt 1a w brzmieniu: „
+    - **b)**
+
+- **1a)** wstępu do środków transportu kontrolowanych jednostek i przeprowadzania ich oględzin; ” , w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „
+    - **c)**
+
+- **5)** żądania sporządzenia kserokopii i urzędowego tłumaczenia na język polski dokumentów sporządzonych w języku obcym związanych z przedmiotem kontroli;
+- **6)** legitymowania osób przebywających na terenie jednostki kontrolowanej w trakcie przeprowadzanej kontroli. ” ;
+- **16)** w art. 26 ust. 1 otrzymuje brzmienie: „
+
+1. Dokumenty, artykuły rolno-spożywcze i inne przedmioty mające związek z kontrolą oraz pomieszczenia, w których dokonuje się czynności kontrolnych, o których mowa w art. 23 ust. 2, mogą być zabezpieczone w sposób określony w art. 27. ” ;
+
+- **17)** w art. 29 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wykonując zadania, o których mowa w art. 17 ust. 1 pkt 1 lit. a i e-g, wojewódzki inspektor, w drodze decyzji, może: ” ;
+- **18)** w art. 32: w ust. 1 pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych, w tym w krajowych laboratoriach referencyjnych, o których mowa w art. 33 rozporządzenia (WE) nr 882/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie kontroli urzędowych przeprowadzanych w celu sprawdzenia zgodności z prawem paszowym i żywnościowym oraz regułami dotyczącymi zdrowia zwierząt i dobrostanu zwierząt (Dz. Urz. UE L 165 z 30.04.2004, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 200); ” , dodaje się ust. 5 w brzmieniu: „
+    - **b)**
+
+5. Minister właściwy do spraw rynków rolnych wyznacza, w drodze rozporządzenia, krajowe laboratoria referencyjne w zakresie jakości handlowej artykułów rolno-spożywczych oraz określa przedmiot i rodzaje badań przeprowadzanych przez te laboratoria, mając na względzie zapewnienie rzetelności i obiektywności wyników badań przeprowadzanych przez te laboratoria. ” ;
+
+- **19)** w art. 40: w ust. 2 pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** nie prowadzi klasyfikacji jaj zgodnie z art. 4 rozporządzenia nr 589/2008 oraz pkt II części VI załącznika VII do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.), zwanego dalej „rozporządzeniem nr 1308/2013”, albo prowadzi ją niezgodnie z tymi przepisami, ” , ust. 4 otrzymuje brzmienie: „
+    - **b)**
+
+4. Kto:
+
+- **1)** prowadząc rzeźnię: nie prowadzi lub nie przechowuje dokumentacji albo prowadzi lub przechowuje ją niezgodnie z przepisami art. 12 ust. 1 rozporządzenia Komisji (WE) nr 543/2008 z dnia 16 czerwca 2008 r. wprowadzającego szczegółowe przepisy wykonawcze do rozporządzenia Rady (WE) nr 1234/2007 w sprawie niektórych norm handlowych w odniesieniu do mięsa drobiowego (Dz. Urz. UE L 157 z 17.06.2008, str. 46, z późn. zm.), zwanego dalej „rozporządzeniem nr 543/2008”, nie prowadzi systematycznej kontroli zawartości wody wchłoniętej albo prowadzi ją niezgodnie z przepisami art. 16 ust. 1–3 i art. 20 ust. 3 rozporządzenia nr 543/2008 lub nie podejmuje czynności określonych w art. 16 ust. 1–3 i art. 20 ust. 3 rozporządzenia nr 543/2008,
+    - **a)**
+    - **b)**
 
 - **2)** będąc producentem, nie prowadzi lub nie przechowuje dokumentacji albo prowadzi lub przechowuje ją niezgodnie z przepisami art. 12 ust. 2 rozporządzenia nr 543/2008,
 - **3)** prowadząc zakład wylęgu drobiu, nie prowadzi lub nie przechowuje dokumentacji albo prowadzi lub przechowuje ją niezgodnie z przepisami art. 12 ust. 4 rozporządzenia nr 543/2008,
-- **4)** prowadząc rzeźnię:
-    - **a)** wprowadza do obrotu kurczaki mrożone lub głęboko mrożone, o zawartości wody przekraczającej wartości nieuniknione ze względów technologicznych, oznaczone za pomocą metody analizy opisanej załączniku VI lub załączniku VII rozporządzenia nr 543/2008,
-    - **b)** wprowadza do obrotu kurczaki mrożone lub głęboko mrożone, oraz: nie pobiera próbek celu monitorowania wchłaniania wody procesie schładzania oraz zawartości wody kurczakach mrożonych lub głęboko mrożonych, nie rejestruje lub nie przechowuje przez okres jednego roku wyników kontroli, o której mowa art. 15 ust. 2 tiret drugie rozporządzenia nr 543/2008, nie oznakowuje każdej partii sposób umożliwiający ustalenie daty produkcji lub nie zamieszcza daty produkcji partii dokumentacji produkcji,
-    - **c)** nie wykonuje czynności, o których mowa art. 20 ust. 2 rozporządzenia nr 543/2008 podlega karze grzywny.”,
-    - **c)** ust. 4b: 2 lit. a i b otrzymują brzmienie: „a) części B załącznika IV do rozporządzenia nr 1308/2013 lub
-    - **b)** art. 22 i art. 23 oraz załączniku IV do rozporządzenia nr 1249/2008,”, 3: lit. a i b otrzymują brzmienie: „a) części A załącznika IV do rozporządzenia nr 1308/2013 lub
-    - **b)** art. 2 i art. 13 oraz załączniku I i III do rozporządzenia nr 1249/2008, lub”, uchyla się lit. d,
-    - **d)** ust. 4c: 1 otrzymuje brzmienie: „1) nie poddaje klasyfikacji lub ustalaniu masy tusz wieprzowych zgodnie z wymaganiami określonymi części B załącznika IV do rozporządzenia nr 1308/2013 lub art. 21 i art. 22 rozporządzenia nr 1249/2008,”, 4 otrzymuje brzmienie: „4) nie znakuje tusz wieprzowych zgodnie z art. 21 rozporządzenia nr 1249/2008,”,
-    - **e)** ust. 4d: 1: lit. a i b otrzymują brzmienie: „a) części A załącznika IV do rozporządzenia nr 1308/2013,
-    - **b)** art. 6, art. 7 i art. 10 rozporządzenia nr 1249/2008 lub załączniku I do tego rozporządzenia,”, uchyla się lit. c, „3) nie przekazuje dostawcom zwierząt wyników klasyfikacji tusz wołowych zgodnie z art. 7 ust. 2 rozporządzenia nr 1249/2008,
+- **4)** prowadząc rzeźnię: wprowadza do obrotu kurczaki mrożone lub głęboko mrożone, o zawartości wody przekraczającej wartości nieuniknione ze względów technologicznych, oznaczone za pomocą metody analizy opisanej w załączniku VI lub w załączniku VII rozporządzenia nr 543/2008, wprowadza do obrotu kurczaki mrożone lub głęboko mrożone, oraz: – nie pobiera próbek w celu monitorowania wchłaniania wody w procesie schładzania oraz zawartości wody w kurczakach mrożonych lub głęboko mrożonych, – nie rejestruje lub nie przechowuje przez okres jednego roku wyników kontroli, o której mowa w art. 15 ust. 2 tiret drugie rozporządzenia nr 543/2008, – nie oznakowuje każdej partii w sposób umożliwiający ustalenie daty produkcji lub nie zamieszcza daty produkcji partii w dokumentacji produkcji, nie wykonuje czynności, o których mowa w art. 20 ust. 2 rozporządzenia nr 543/2008 podlega karze grzywny. ” , w ust. 4b: – w pkt 2 lit. a i b otrzymują brzmienie: „ a) części B załącznika IV do rozporządzenia nr 1308/2013 lub b) art. 22 i art. 23 oraz załączniku IV do rozporządzenia nr 1249/2008, ” , – w pkt 3: – – lit. a i b otrzymują brzmienie: „ a) części A załącznika IV do rozporządzenia nr 1308/2013 lub b) art. 2 i art. 13 oraz załączniku I i III do rozporządzenia nr 1249/2008, lub ” , – – uchyla się lit. d, w ust. 4c: – pkt 1 otrzymuje brzmienie: „ 1) nie poddaje klasyfikacji lub ustalaniu masy tusz wieprzowych zgodnie z wymaganiami określonymi w części B załącznika IV do rozporządzenia nr 1308/2013 lub w art. 21 i art. 22 rozporządzenia nr 1249/2008, ” , – pkt 4 otrzymuje brzmienie: „ 4) nie znakuje tusz wieprzowych zgodnie z art. 21 rozporządzenia nr 1249/2008, ” , w ust. 4d: – w pkt 1: – – lit. a i b otrzymują brzmienie: „ a) części A załącznika IV do rozporządzenia nr 1308/2013, b) art. 6, art. 7 i art. 10 rozporządzenia nr 1249/2008 lub załączniku I do tego rozporządzenia, ” , – – uchyla się lit. c, – pkt 3 i 4 otrzymują brzmienie: „ 3) nie przekazuje dostawcom zwierząt wyników klasyfikacji tusz wołowych zgodnie z art. 7 ust. 2 rozporządzenia nr 1249/2008, 4) nie znakuje tusz wołowych zgodnie z art. 6 rozporządzenia nr 1249/2008, ” , – w pkt 5 na końcu dodaje się przecinek i dodaje się pkt 6 i 7 w brzmieniu: „ 6) nie dopełnia obowiązku, o którym mowa w art. 10 ust. 1 lit. b rozporządzenia nr 1249/2008, 7) stosuje do klasyfikacji tusz wołowych technikę automatycznej klasyfikacji, która nie uzyskała zatwierdzenia na podstawie art. 15b ust. 7 ” , ust. 4e otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
 
-- **4)** nie znakuje tusz wołowych zgodnie z art. 6 rozporządzenia nr 1249/2008,”, 5 na końcu dodaje się przecinek i dodaje się 6 i 7 brzmieniu: „6) nie dopełnia obowiązku, o którym mowa art. 10 ust. 1 lit. b rozporządzenia nr 1249/2008,
-- **7)** stosuje do klasyfikacji tusz wołowych technikę automatycznej klasyfikacji, która nie uzyskała zatwierdzenia na podstawie art. 15b ust. 7”,
-    - **f)** ust. 4e otrzymuje brzmienie: „4e. Kto:
+4e. Kto:
 
-- **1)** prowadząc rzeźnię, nie klasyfikuje bydła wieku poniżej 12. miesiąca życia zgodnie z II części I załącznika VII do rozporządzenia nr 1308/2013,
-- **2)** nie znakuje zgodnie z III i IV części I załącznika VII do rozporządzenia nr 1308/2013 mięsa z I części I załącznika VII do tego rozporządzenia podlega karze grzywny.”.
+- **1)** prowadząc rzeźnię, nie klasyfikuje bydła w wieku poniżej 12. miesiąca życia zgodnie z pkt II części I załącznika VII do rozporządzenia nr 1308/2013,
+- **2)** nie znakuje zgodnie z pkt III i IV części I załącznika VII do rozporządzenia nr 1308/2013 mięsa z pkt I części I załącznika VII do tego rozporządzenia podlega karze grzywny. ” .
 
-**Art. 2.** W ustawie z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2010 r. Nr 136, poz. 914, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2010 r. Nr 136, poz. 914, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 3.** Rolnicy prowadzący działalność zakresie znakowania i pakowania jaj przed dniem wejścia życie niniejszej ustawy dokonują zgłoszenia prowadzenia tej działalności wojewódzkiemu inspektorowi jakości handlowej artykułów rolno-spożywczych, terminie 3 miesięcy od dnia wejścia życie niniejszej ustawy.
+- **1)** w odnośniku nr 1 do ustawy: w zakresie dotyczącym rozporządzeń: – uchyla się pkt 12, – w pkt 53 kropkę zastępuje się średnikiem i dodaje się pkt 54 w brzmieniu: „ 54) rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1169/2011 z dnia 25 października 2011 r. w sprawie przekazywania konsumentom informacji na temat żywności, zmiany rozporządzeń Parlamentu Europejskiego i Rady (WE) nr 1924/2006 i (WE) nr 1925/2006 oraz uchylenia dyrektywy Komisji 87/250/EWG, dyrektywy Rady 90/496/EWG, dyrektywy Komisji 1999/10/WE, dyrektywy 2000/13/WE Parlamentu Europejskiego i Rady, dyrektyw Komisji 2002/67/WE i 2008/5/WE oraz rozporządzenia Komisji (WE) nr 608/2004 (Dz. Urz. UE L 304 z 22.11.2011, str. 18, z późn. zm.). ” , w zakresie dotyczącym dyrektyw uchyla się pkt 8–10, 13, 18–21, 28 i 32;
+    - **a)**
+    - **b)**
 
-**Art. 4.** Przepisy wykonawcze wydane na podstawie art. 15 1 ustawy zmienianej art. 1 oraz art. 50 ust. 1 ustawy zmienianej art. 2 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 15 1 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 4 miesiące od dnia wejścia życie niniejszej ustawy.
+- **2)** w art. 3 w ust. 3: pkt 7 otrzymuje brzmienie: „
+    - **a)**
 
-**Art. 5.** Ustawa wchodzi życie z dniem 13 grudnia 2014 r.
+- **7)** data minimalnej trwałości – datę w rozumieniu art. 2 ust. 2 lit. r rozporządzenia Parlamentu Europejskiego i Rady nr 1169/2011 z dnia 25 października 2011 r. w sprawie przekazywania konsumentom informacji na temat żywności, zmiany rozporządzeń Parlamentu Europejskiego i Rady (WE) nr 1924/2006 i (WE) nr 1925/2006 oraz uchylenia dyrektywy Komisji 87/250/EWG, dyrektywy Rady 90/496/EWG, dyrektywy Komisji 1999/10/WE, dyrektywy 2000/13/WE Parlamentu Europejskiego i Rady, dyrektyw Komisji 2002/67/WE i 2008/5/WE oraz rozporządzenia Komisji (WE) nr 608/2004 (Dz. Urz. UE L 304 z 22.11.2011, str. 18, z późn. zm.), zwanego dalej „rozporządzeniem nr 1169/2011”; ” , pkt 19 otrzymuje brzmienie: „
+    - **b)**
+
+- **19)** opakowany środek spożywczy – żywność opakowaną w rozumieniu art. 2 ust. 2 lit. e rozporządzenia nr 1169/2011; ” , pkt 33 i 34 otrzymują brzmienie: „
+    - **c)**
+
+- **33)** składnik odżywczy – składnik odżywczy w rozumieniu art. 2 ust. 2 lit. s rozporządzenia nr 1169/2011;
+- **34)** składnik żywności – składnik w rozumieniu art. 2 ust. 2 lit. f rozporządzenia nr 1169/2011; ” , w pkt 45 wprowadzenie do wyliczenia otrzymuje brzmienie: „ środek spożywczy zafałszowany – środek spożywczy, którego skład lub inne właściwości zostały zmienione, a konsument nie został o tym poinformowany w sposób określony w przepisach rozporządzenia nr 1169/2011, albo środek spożywczy, w którym zostały wprowadzone zmiany mające na celu ukrycie jego rzeczywistego składu lub innych właściwości; środek spożywczy jest środkiem spożywczym zafałszowanym, w szczególności jeżeli: ” , pkt 47 otrzymuje brzmienie: „
+    - **d)**
+    - **e)**
+
+- **47)** termin przydatności do spożycia – termin, o którym mowa w art. 24 rozporządzenia nr 1169/2011; ” , pkt 55 otrzymuje brzmienie: „
+    - **f)**
+
+- **55)** zakład żywienia zbiorowego – zakład żywienia zbiorowego w rozumieniu art. 2 ust. 2 lit. d rozporządzenia nr 1169/2011; ” ;
+- **3)** w art. 27 uchyla się ust. 4;
+- **4)** w art. 45 uchyla się ust. 1 i 2;
+- **5)** uchyla się art. 46 i art. 47;
+- **6)** w art. 48 uchyla się ust. 1;
+- **7)** uchyla się art. 49;
+- **8)** w art. 50 uchyla się ust. 1;
+- **9)** uchyla się art. 51;
+- **10)** w art. 103 w ust. 1: pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** nie przestrzega wymagań w zakresie znakowania środków spożywczych, w tym w zakresie prezentacji, reklamy i promocji, określonych w art. 33 ust. 3 i 4, art. 45 ust. 3 i 4, art. 48 ust. 2 i 3 oraz art. 52a, a także wymagań w tym zakresie określonych w przepisach wydanych na podstawie art. 14 ust. 2 pkt 3, art. 22 ust. 1 pkt 3, art. 26 ust. 1 pkt 4, art. 27 ust. 6 pkt 2, art. 39 pkt 3 i art. 44 pkt 2, ” , w pkt 1b dodaje się lit. c w brzmieniu: „ rozporządzenia nr 1169/2011, ” .
+    - **b)**
+    - **c)**
+
+**Art. 3.** Rolnicy prowadzący działalność w zakresie znakowania i pakowania jaj przed dniem wejścia w życie niniejszej ustawy dokonują zgłoszenia prowadzenia tej działalności wojewódzkiemu inspektorowi jakości handlowej artykułów rolno-spożywczych, w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 4.** Przepisy wykonawcze wydane na podstawie art. 15 pkt 1 ustawy zmienianej w art. 1 oraz art. 50 ust. 1 ustawy zmienianej w art. 2 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 15 pkt 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 4 miesiące od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 5.** Ustawa wchodzi w życie z dniem 13 grudnia 2014 r.
 

@@ -1,43 +1,42 @@
 {
-  "generated_at": "2026-05-26T03:51:57Z",
+  "generated_at": "2026-05-28T17:57:41Z",
   "acts": {
-    "published": 13591,
-    "rejected": 495,
-    "total_in_db": 13988
+    "published": 16649,
+    "rejected": 5958,
+    "total_in_db": 19614
   },
   "content": {
-    "total_body_chars": 458239478,
-    "total_articles": 192290,
-    "avg_body_chars": 33716,
-    "avg_articles": 14.1
+    "total_body_chars": 387089268,
+    "total_articles": 131289,
+    "avg_body_chars": 23250,
+    "avg_articles": 7.9
   },
   "sources": {
-    "isap-pdf": 13127,
-    "eli-html": 418,
-    "unknown": 46
+    "eli-html": 15785,
+    "isap-pdf": 864
   },
   "domains": {
-    "inne": 12900,
-    "prawo-podatkowe": 173,
-    "prawo-karne": 115,
-    "prawo-cywilne": 104,
-    "prawo-pracy": 51,
-    "prawo-ochrony-srodowiska": 50,
-    "prawo-administracyjne": 46,
-    "prawo-budowlane": 30,
-    "prawo-bankowe": 24,
-    "prawo-energetyczne": 23,
-    "prawo-handlowe": 20,
-    "prawo-zamowien": 19,
-    "prawo-upadlosciowe": 14,
-    "prawo-ochrony-danych": 8,
-    "prawo-morskie": 6,
-    "prawo-telekomunikacyjne": 6,
-    "prawo-konstytucyjne": 2
+    "inne": 15817,
+    "prawo-podatkowe": 186,
+    "prawo-karne": 149,
+    "prawo-cywilne": 137,
+    "prawo-pracy": 63,
+    "prawo-ochrony-srodowiska": 62,
+    "prawo-administracyjne": 59,
+    "prawo-budowlane": 42,
+    "prawo-energetyczne": 34,
+    "prawo-bankowe": 27,
+    "prawo-handlowe": 24,
+    "prawo-upadlosciowe": 17,
+    "prawo-zamowien": 12,
+    "prawo-morskie": 7,
+    "prawo-ochrony-danych": 7,
+    "prawo-telekomunikacyjne": 5,
+    "prawo-konstytucyjne": 1
   },
   "quality": {
-    "quality_gate_blocked": 397,
-    "rejected_scans": 0,
-    "rejected_other": 495
+    "quality_gate_blocked": 42,
+    "rejected_scans": 59,
+    "rejected_other": 5899
   }
 }

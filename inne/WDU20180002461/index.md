@@ -8,10 +8,10 @@ pos: 2461
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 grudnia 2018 r.
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 21 grudnia 2018 r. w sprawie wzoru legitymacji służbowej i wzoru oznaki służbowej inspektora rybołówstwa morskiego
 
 | Pole | Wartość |
 |---|---|
@@ -22,17 +22,31 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-21 |
 | Data wydania | 2018-12-29 |
+| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002461) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2461/text.pdf) |
 
-## Załącznik nr 1 — WZÓR LEGITYMACJI SŁUŻBOWEJ INSPEKTORA RYBOŁÓWSTWA MORSKIEGO Administracja Rybołówstwa Morskiego Sea Fisheries Administration GŁÓWNY INSPEKTORAT RYBOŁÓWSTWA MORSKIEGO GENERAL SEA FISHERIES INSPECTORATE Data wydania: ……….……….. Data ważności: ……………… Awers RZECZPOSPOLITA POLSKA Republic of Poland Legitymacja służbowa nr ...
+Treść rozporządzenia
 
-Professional identity card No. …..
-Imię / Name Nazwisko / Surname ……………. ……………………… Rewers Opis: Awers legitymacji: orzeł w koronie w kolorze białym według wzoru określonego dla godła Rzeczypospolitej Polskiej na tle w kolorze czerwonym, miejsce na fotografię o wymiarach 22 x 28 mm, napisy w kolorze białym na tle w kolorze niebieskim (RAL 5005 Signal blue): „RZECZPOSPOLITA POLSKA / Republic of Poland”, „Legitymacja służbowa nr / Professional identity card No.”, obok linia kropek, „Imię / Name”, poniżej linia kropek, „Nazwisko / Surname”, poniżej linia kropek.
-Rewers legitymacji: napisy w kolorze białym na tle w kolorze niebieskim (RAL 5005 Signal blue): Administracja Rybołówstwa Morskiego / Sea Fisheries Administration, GŁÓWNY INSPEKTORAT RYBOŁÓWSTWA MORSKIEGO / GENERAL SEA FISHERIES INSPECTORATE, „Na podstawie ustawy z dnia 19 grudnia 2014 r. o rybołówstwie morskim (Dz. U.
-z 2018 r. poz. 514, z późn. zm.) inspektor rybołówstwa morskiego jest uprawniony do wykonywania czynności określonych w art. 109–112 ustawy. / On the basis of the Act of 19 December 2014 on sea fisheries (Journal of Laws 2018, item 514, as amended) inspector of sea fisheries has the right to perform duties defined in art.
-109–112.”, „Data wydania / Date of issue”, obok linia kropek (w formacie dd.mm.rrrr), „Data ważności / Valid till”, obok linia kropek (w formacie dd.mm.rrrr).
-Wymiary legitymacji: format CR80: wysokość: 54 mm, szerokość: 86 mm.
-Rodzaj materiału i zabezpieczeń: legitymacja wydrukowana na PVC bez możliwości naniesienia jakichkolwiek zmian.
-WZÓR OZNAKI SŁUŻBOWEJ INSPEKTORA RYBOŁÓWSTWA MORSKIEGO Opis: Oznaka służbowa inspektora rybołówstwa morskiego jest wykonana z blachy stalowej nierdzewnej i posiada zapinkę. Pośrodku oznaki służbowej umieszczone jest godło Rzeczypospolitej Polskiej. Godło otacza napis „ADMINISTRACJA RYBOŁÓWSTWA MORSKIEGO”. Poniżej godła znajduje się ramka w kształcie prostokąta, w której jest wytłoczony numer legitymacji służbowej inspektora rybołówstwa morskiego.
+## Załącznik nr 1 — – Wzór legitymacji służbowej inspektora rybołówstwa morskiego
+
+## Załącznik nr 2 — – Wzór oznaki służbowej inspektora rybołówstwa morskiego
+
+Treść rozporządzenia
+Na podstawie art. 108 ust. 3 ustawy z dnia 19 grudnia 2014 r. o rybołówstwie morskim (Dz. U. z 2018 r. poz. 514, 650, 2245 i 2340) zarządza się, co następuje:
+§ 1.
+Wzór legitymacji służbowej inspektora rybołówstwa morskiego określa załącznik nr 1 do rozporządzenia.
+§ 2.
+Wzór oznaki służbowej inspektora rybołówstwa morskiego określa załącznik nr 2 do rozporządzenia.
+§ 3.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
+1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – rybołówstwo, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 10 listopada 2016 r. w sprawie wzoru legitymacji służbowej i wzoru oznaki służbowej inspektora rybołówstwa morskiego (Dz. U. poz. 1970), które traci moc z dniem 1 stycznia 2019 r. na podstawie art. 36 ustawy z dnia 9 listopada 2018 r. o zmianie ustawy o rybołówstwie morskim oraz niektórych innych ustaw (Dz. U. poz. 2340).
+
+## Załącznik nr 1 — – Wzór legitymacji służbowej inspektora rybołówstwa morskiego
+
+patrz oryginał
+
+## Załącznik nr 2 — – Wzór oznaki służbowej inspektora rybołówstwa morskiego
+
+patrz oryginał Opis: Oznaka służbowa inspektora rybołówstwa morskiego jest wykonana z blachy stalowej nierdzewnej i posiada zapinkę. Pośrodku oznaki służbowej umieszczone jest godło Rzeczypospolitej Polskiej. Godło otacza napis „ADMINISTRACJA RYBOŁÓWSTWA MORSKIEGO”. Poniżej godła znajduje się ramka w kształcie prostokąta, w której jest wytłoczony numer legitymacji służbowej inspektora rybołówstwa morskiego.
 

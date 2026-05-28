@@ -8,10 +8,10 @@ pos: 1257
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 16 sierpnia
+# Ustawa z dnia 7 lipca 2016 r. o zmianie ustawy o transporcie kolejowym oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -22,30 +22,97 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2016-07-07 |
 | Data wydania | 2016-08-16 |
+| Wejście w życie | 2016-08-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001257) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1257/text.pdf) |
 
-USTAWA zmianie transporcie kolejowym niektórych innych ustaw
+**Art. 1.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2015 r. poz. 1297, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie 28 marca 2003 transporcie kolejowym (Dz. U. 1297, późn. zm. ) wprowadza si nast puj ą ce zmiany:
+- **1)** w art. 9o dodaje się ust. 11–14 w brzmieniu: „
 
-**Art. 2.** W ustawie 27 sierpnia 2009 finansach publicznych (Dz. U. 885, późn. zm. ) art. 5 4 otrzymuje brzmienie: „4. Rada Ministrów może określić, drodze rozporządzenia, środki publiczne niezaliczane do środków, których 3 pkt 5c 6, termin, którym środki te powinny być wydatkowane, uwzględniając źródło ich pochodzenia, przeznaczenie beneficjentów tych środków.”.
+11. W przypadku zbycia własności lub prawa użytkowania wieczystego nieruchomości innej niż wymieniona w ust. 8, objętej wnioskiem o wydanie decyzji o ustaleniu lokalizacji linii kolejowej, po doręczeniu zawiadomienia, o którym mowa w ust. 6, nabywca i zbywca są zobowiązani do zgłoszenia właściwemu wojewodzie danych nowego właściciela lub użytkownika wieczystego w terminie 7 dni od dnia zbycia. Brak terminowego dokonania powyższego zgłoszenia i prowadzenie postępowania bez udziału nowego właściciela lub użytkownika wieczystego nie stanowi podstawy do wznowienia postępowania na podstawie art. 145 § 1 pkt 4 Kodeksu postępowania administracyjnego.
 
-**Art. 3.** W ustawie 8 listopada zmianie finansach publicznych niektórych innych ustaw (Dz. U. 1646 2014 911) uchyla art. 12.
+12. Z dniem doręczenia zawiadomienia, o którym mowa w ust. 6, w odniesieniu do nieruchomości objętych wnioskiem o wydanie decyzji o ustaleniu lokalizacji linii kolejowej, do czasu ostatecznego zakończenia postępowania w sprawie wydania takiej decyzji, nie wydaje się decyzji o pozwoleniu na budowę dla innych inwestycji, a toczące się postępowania w tych sprawach podlegają zawieszeniu do czasu ostatecznego zakończenia postępowania w sprawie wydania decyzji o ustaleniu lokalizacji linii kolejowej.
+
+13. W przypadku zgłoszenia zamiaru wykonywania robót budowlanych wszczęcie postępowania w przedmiocie wydania decyzji o ustaleniu lokalizacji linii kolejowej zobowiązuje właściwy organ administracji architektoniczno-budowlanej do wniesienia sprzeciwu od zgłoszenia.
+
+14. Przepisów ust. 12 i 13 nie stosuje się do postępowań dotyczących inwestycji celu publicznego, których przygotowanie i realizacja następuje za zgodą podmiotu, na wniosek którego wszczęto postępowanie w przedmiocie wydania decyzji o ustaleniu lokalizacji linii kolejowej. ” ;
+
+- **2)** po art. 9o dodaje się art. 9oa w brzmieniu: „ Art. 9oa.
+
+1. Podmioty zarządzające sieciami uzbrojenia terenu uzgadniają usunięcie kolizji przebiegu sieci z inwestycją dotyczącą linii kolejowej w terminie 14 dni od dnia otrzymania wniosku PLK S.A. lub właściwej jednostki samorządu terytorialnego.
+
+2. Brak uzgodnienia w terminie określonym w ust. 1 oznacza zgodę na usunięcie kolizji w sposób i na warunkach zaproponowanych przez PLK S.A. lub właściwą jednostkę samorządu terytorialnego. ” ;
+
+- **3)** w art. 9q: ust. 4 otrzymuje brzmienie: „
+    - **a)**
+
+4. Przepisy ust. 2–3 stosuje się odpowiednio do doręczenia i zawiadamiania stron o wydaniu decyzji o ustaleniu lokalizacji linii kolejowej wydanej przez organ drugiej instancji, a także decyzji wydanych na podstawie art. 145, art. 155, art. 156 i art. 161–163 Kodeksu postępowania administracyjnego. ” , dodaje się ust. 7 w brzmieniu: „
+
+- **b)**
+
+7. Do zmiany decyzji o ustaleniu lokalizacji linii kolejowej stosuje się odpowiednio przepis art. 155 Kodeksu postępowania administracyjnego, z zastrzeżeniem że zgodę wyraża wyłącznie strona, która złożyła wniosek o wydanie decyzji o ustaleniu lokalizacji linii kolejowej. ” ;
+
+- **4)** w art. 9s: ust. 3b otrzymuje brzmienie: „
+    - **a)**
+
+3b. PLK S.A. nabywają z mocy prawa z dniem, w którym decyzja o ustaleniu lokalizacji linii kolejowej stała się ostateczna, prawo użytkowania wieczystego nieruchomości gruntowych nabytych z mocy prawa przez Skarb Państwa lub stanowiących jego własność, z wyłączeniem nieruchomości, o których mowa w ust. 3e, oraz prawo własności budynków, innych urządzeń i lokali znajdujących się na tych nieruchomościach. ” , ust. 8 otrzymuje brzmienie: „
+
+- **b)**
+
+8. Z dniem, w którym decyzja o ustaleniu lokalizacji linii kolejowej stała się ostateczna, PLK S.A. lub właściwa jednostka samorządu terytorialnego uzyskuje prawo do dysponowania nieruchomościami, o których mowa w ust. 3 i 3b, na cele budowlane w rozumieniu przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2016 r. poz. 290, 961, 1165 i 1250), zwanej dalej „Prawem budowlanym”, z uwzględnieniem art. 9w ust. 4. ” ;
+
+- **5)** w art. 9y dodaje się ust. 7 i 8 w brzmieniu: „
+
+7. Jeżeli przemawia za tym interes społeczny lub gospodarczy, Skarb Państwa albo jednostka samorządu terytorialnego mogą zrzec się w całości lub w części prawa do odszkodowania za nieruchomości, o których mowa w art. 9q ust. 1 pkt 7, w formie pisemnej, pod rygorem nieważności. Oświadczenie to może zostać złożone jedynie do czasu wydania ostatecznej decyzji o ustaleniu odszkodowania.
+
+8. W przypadku zrzeczenia się prawa do odszkodowania za nieruchomości, o których mowa w ust. 1:
+
+- **1)** przed wszczęciem postępowania ustalającego wysokość odszkodowania – postępowania nie wszczyna się;
+- **2)** w trakcie postępowania ustalającego wysokość odszkodowania – postępowanie umarza się. ” ;
+- **6)** w art. 25e po ust. 1a dodaje się ust. 1b w brzmieniu: „
+
+1b. W przypadku podsystemu strukturalnego, który wymaga uzyskania nowego zezwolenia na dopuszczenie do eksploatacji po modernizacji, podsystem ten może być eksploatowany na parametrach technicznych i eksploatacyjnych sprzed jej rozpoczęcia do czasu uzyskania zezwolenia na dopuszczenie do eksploatacji, jednak nie dłużej niż przez okres 9 miesięcy od zakończenia modernizacji. Szczegółowe zasady i warunki tej eksploatacji zarządca określa w swoim systemie zarządzania bezpieczeństwem. ” ;
+
+- **7)** w art. 38c: ust. 6 otrzymuje brzmienie: „
+    - **a)**
+
+6. W terminie do dnia 31 maja każdego roku minister właściwy do spraw transportu, w porozumieniu z ministrem właściwym do spraw finansów publicznych oraz w zakresie projektów realizowanych z udziałem środków europejskich z ministrem właściwym do spraw rozwoju regionalnego, składa Radzie Ministrów sprawozdanie z wykonania planu realizacji programu wieloletniego za rok poprzedni. Sprawozdanie podaje się do publicznej wiadomości przez ogłoszenie jego treści w Biuletynie Informacji Publicznej urzędu zapewniającego obsługę ministra właściwego do spraw transportu. ” , dodaje się ust. 7 i 8 w brzmieniu: „
+
+- **b)**
+
+7. Zakres sprawozdania, o którym mowa w ust. 6, jest określony w programie, o którym mowa w ust. 1. Sprawozdanie zawiera w szczególności:
+
+- **1)** dane o wykonaniu finansowym i rzeczowym realizowanych inwestycji,
+- **2)** zaktualizowane zestawienie wszystkich źródeł finansowania programu w podziale na lata realizacji programu.
+
+8. Rada Ministrów, poprzez przyjęcie sprawozdania, wyraża zgodę na aktualizację programu w zakresie wskazanym w sprawozdaniu, z zastrzeżeniem że aktualizacja ta nie może zwiększyć łącznego limitu wydatków z budżetu państwa na realizację programu. Przepisy art. 48 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2016 r. poz. 353, 831, 961 i 1250) stosuje się odpowiednio. Nie stosuje się przepisów art. 18, 19 i 19a ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju. ” ;
+
+- **8)** po art. 57 dodaje się art. 57a w brzmieniu: „
+
+**Art. 57a.**
+
+1. W przypadkach szczególnie uzasadnionych dopuszcza się odstępstwo od odległości i warunków dopuszczających usytuowanie drzew i krzewów określonych w przepisach wydanych na podstawie art. 54. Odstępstwo nie może powodować zagrożenia bezpieczeństwa ruchu kolejowego ani zakłócać działania urządzeń służących do prowadzenia tego ruchu.
+
+2. Zgody na odstępstwo, o którym mowa w ust. 1, udziela starosta w drodze postanowienia, po uzgodnieniu właściwego zarządcy, mając na uwadze bezpieczeństwo ruchu kolejowego. ” .
+
+**Art. 2.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.) w art. 5 ust. 4 otrzymuje brzmienie: „ 4. Rada Ministrów może określić, w drodze rozporządzenia, środki publiczne niezaliczane do środków, o których mowa w ust. 3 pkt 5c i 6, oraz termin, w którym środki te powinny być wydatkowane, uwzględniając źródło ich pochodzenia, przeznaczenie oraz beneficjentów tych środków. ” .
+
+**Art. 3.** W ustawie z dnia 8 listopada 2013 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1646 oraz z 2014 r. poz. 911) uchyla się art. 12.
 
 **Art. 4.**
 
-1. Program rzeczowo-finansowy wykorzystania środków Funduszu Kolejowego latach 2014–2019, zatwierdzony podstawie art. 12 zmienianej art. 3, traci moc dniem wejścia życie niniejszej ustawy.
+1. Program rzeczowo-finansowy wykorzystania środków Funduszu Kolejowego w latach 2014–2019, zatwierdzony na podstawie art. 12 ustawy zmienianej w art. 3, traci moc z dniem wejścia w życie niniejszej ustawy.
 
-2. Plany finansowe Funduszu Kolejowego rok 2017, uzgodnione podstawie art. 9a 16 grudnia 2005 Funduszu Kolejowym (Dz. U. 2115 615), zachowuj ą moc okres, jaki zostały przyjęte.
+2. Plany finansowe Funduszu Kolejowego na rok 2016 i 2017, uzgodnione na podstawie art. 9a ustawy z dnia 16 grudnia 2005 r. o Funduszu Kolejowym (Dz. U. z 2015 r. poz. 2115 oraz z 2016 r. poz. 615), zachowują moc na okres, na jaki zostały przyjęte.
 
-**Art. 5.** Zarządcy infrastruktury kolejowej dostosują swoje systemy zarządzania bezpieczeństwem do przepisów ustawy terminie 3 miesięcy od jej wejścia życie.
+**Art. 5.** Zarządcy infrastruktury kolejowej dostosują swoje systemy zarządzania bezpieczeństwem do przepisów ustawy w terminie 3 miesięcy od dnia jej wejścia w życie.
 
 **Art. 6.**
 
-1. Do postępowań administracyjnych prowadzonych podstawie zmienianej art. 1, wszczętych niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje przepisy zmienianej art. 1 brzmieniu dotychczasowym.
+1. Do postępowań administracyjnych prowadzonych na podstawie ustawy zmienianej w art. 1, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu dotychczasowym.
 
-2. Do postępowań, których 1, wniosek uprawnionego podmiotu, stosuje przepisy art. 9q 7, art. 9s 3b 8 art. 9y 7–8 zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
+2. Do postępowań, o których mowa w ust. 1, na wniosek uprawnionego podmiotu, stosuje się przepisy art. 9q ust. 7, art. 9s ust. 3b i 8 oraz art. 9y ust. 7–8 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 7.** Ustawa wchodzi życie po upływie 14 dni od ogłoszenia.
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

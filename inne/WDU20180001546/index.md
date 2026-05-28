@@ -8,12 +8,10 @@ pos: 1546
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o ustanowieniu Medalu Stulecia Odzyskanej Niepodległości Parlament Rzeczypospolitej Polskiej, dostrzegając potrzebę uhonorowania obywateli polskich, którzy od czasu odzyskania niepodległości przez Państwo Polskie w 1918 r. przyczyniali się do budowania i wzmacniania suwerenności, niepodległości, kulturowej tożsamości i materialnej pomyślności Rzeczypospolitej, na pamiątkę stulecia odrodzenia Państwa Polskiego, uchwala niniejszą ustawę.
-
-*USTAWA z dnia 15 czerwca 2018 r.*
+# Ustawa z dnia 15 czerwca 2018 r. o ustanowieniu Medalu Stulecia Odzyskanej Niepodległości
 
 | Pole | Wartość |
 |---|---|
@@ -24,21 +22,25 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-06-15 |
 | Data wydania | 2018-08-10 |
+| Wejście w życie | 2018-08-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001546) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1546/text.pdf) |
+
+Załącznik – Odznaka Medalu Stulecia Odzyskanej Niepodległości (wzór)
+Parlament Rzeczypospolitej Polskiej, dostrzegając potrzebę uhonorowania obywateli polskich, którzy od czasu odzyskania niepodległości przez Państwo Polskie w 1918 r. przyczyniali się do budowania i wzmacniania suwerenności, niepodległości, kulturowej tożsamości i materialnej pomyślności Rzeczypospolitej, na pamiątkę stulecia odrodzenia Państwa Polskiego, uchwala niniejszą ustawę.
 
 **Art. 1.** Ustanawia się odznaczenie: Medal Stulecia Odzyskanej Niepodległości, zwany dalej „Medalem”, jako dowód wdzięczności oraz wyraz szacunku dla osób, które położyły szczególne zasługi w służbie Państwu i społeczeństwu.
 
 **Art. 2.**
 
-1. Medal jest odznaczeniem o charakterze pamiątkowym, nadawanym obywatelom polskim w okresie trwania Narodowych Obchodów Setnej Rocznicy Odzyskania Niepodległości Rzeczypospolitej Polskiej w latach 2018–2022.
+1. Medal jest odznaczeniem o charakterze pamiątkowym, nadawanym obywatelom polskim w okresie trwania Narodowych Obchodów Setnej Rocznicy Odzyskania Niepodległości Rzeczypospolitej Polskiej w latach 2018–2021.
 
 2. Medal jest nadawany osobom żyjącym, które poprzez:
 
 - **1)** pełnienie nienagannej służby publicznej – cywilnej lub wojskowej,
 - **2)** walkę o niepodległość oraz działalność na rzecz przemian demokratycznych,
 - **3)** aktywną działalność zawodową i społeczną,
-- **4)** twórczość naukową, literacką i artystyczną – przyczyniły się do odzyskania lub umacniania suwerenności Rzeczypospolitej Polskiej, w tym w szczególności budowania wspólnoty obywatelskiej Polaków i poczucia tożsamości narodowej, rozwoju nauki, rozsławiania dobrego imienia Rzeczypospolitej Polskiej poprzez kulturę i sztukę, rozwoju społecznego i umacniania więzi z Polakami za granicą oraz budowania dobrobytu gospodarczego Rzeczypospolitej Polskiej.
+- **4)** twórczość naukową, literacką i artystyczną przyczyniły się do odzyskania lub umacniania suwerenności Rzeczypospolitej Polskiej, w tym w szczególności budowania wspólnoty obywatelskiej Polaków i poczucia tożsamości narodowej, rozwoju nauki, rozsławiania dobrego imienia Rzeczypospolitej Polskiej poprzez kulturę i sztukę, rozwoju społecznego i umacniania więzi z Polakami za granicą oraz budowania dobrobytu gospodarczego Rzeczypospolitej Polskiej.
 
 **Art. 3.**
 
@@ -58,9 +60,5 @@ source: "isap-pdf"
 
 **Art. 5.** Osoba odznaczona otrzymuje nieodpłatnie odznakę nadanego jej Medalu wraz z legitymacją potwierdzającą nadanie Medalu.
 
-**Art. 6.** Prezydent Rzeczypospolitej Polskiej określi, w drodze rozporządzenia:
-
-**Art. 7.** W sprawach nieuregulowanych w ustawie stosuje się przepisy ustawy z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. z 2020 r. poz. 138).
-
-**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia . Załącznik do ustawy z dnia 15 czerwca 2018 r.
+**Art. 6.**
 

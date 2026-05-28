@@ -8,12 +8,10 @@ pos: 1438
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy - Kodeks postępowania cywilnego oraz niektórych innych ustaw
-
-*USTAWA z dnia 28 lipca 2005 r.*
+# Ustawa z dnia 28 lipca 2005 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,121 +22,222 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2005-07-28 |
 | Data wydania | 2005-09-09 |
+| Wejście w życie | 2005-12-10 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051721438) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1438/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego (Dz.U. Nr 43, poz. 296, z późn. zm. ) wprowadza się następujące zmiany:
+6)
+w rozdziale 1 działu II tytułu VI księgi pierwszej części pierwszej po tytule rozdziału dodaje się oddział 1 w brzmieniu:
+„
+8)
+po art. 202 dodaje się art. 2021 w brzmieniu:
+„
 
-**Art. 183¹.**
+**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.) wprowadza się następujące zmiany:
 
-1. Mediacja jest dobrowolna.
+- **1)** art. 10 otrzymuje brzmienie: „
 
-2. Mediację prowadzi się na podstawie umowy o mediację albo postanowienia sądu kierującego strony do mediacji. Umowa może być zawarta także przez wyrażenie przez stronę zgody na mediację, gdy druga strona złożyła wniosek, o którym mowa art. 183 1.
+**Art. 10.** W sprawach, w których zawarcie ugody jest dopuszczalne, sąd powinien w każdym stanie postępowania dążyć do ich ugodowego załatwienia. W tych sprawach strony mogą także zawrzeć ugodę przed mediatorem. ” ;
 
-3. W umowie o mediację strony określają szczególności przedmiot mediacji, osobę mediatora albo sposób wyboru mediatora.
+- **2)** po art. 98 dodaje się art. 981 w brzmieniu: „
 
-4. Mediację prowadzi się przed wszczęciem postępowania, a za zgodą stron także toku sprawy.
+**Art. 981.**
 
-**Art. 183².**
+§ 1. Do niezbędnych kosztów procesu zalicza się koszty mediacji prowadzonej na skutek skierowania przez sąd.
 
-1. Mediatorem może być osoba fizyczna mająca pełną zdolność do czynności prawnych, korzystająca pełni z praw publicznych.
+§ 2. Jeżeli postępowanie cywilne zostało wszczęte w ciągu trzech miesięcy od dnia zakończenia mediacji, która nie została zakończona ugodą albo zawarta ugoda nie została zatwierdzona przez sąd, do niezbędnych kosztów procesu zalicza się także koszty mediacji w wysokości nieprzekraczającej czwartej części wpisu.
 
-2. Mediatorem nie może być sędzia. Nie dotyczy to sędziów stanie spoczynku.
+§ 3. Do określenia kosztów mediacji stosuje się odpowiednio art. 98 § 2 i 3.
 
-3. Organizacje społeczne i zawodowe mogą prowadzić listy stałych mediatorów oraz tworzyć ośrodki mediacyjne. Wpis na lilistach stałych mediatorów oraz o ośrodkach mediacyjnych przekazuje się prezesowi sądu okręgowego.
+§ 4. Minister Sprawiedliwości określi, w drodze rozporządzenia, wysokość wynagrodzenia mediatora za prowadzenie postępowania mediacyjnego wszczętego na podstawie skierowania sądu i wydatki mediatora podlegające zwrotowi, biorąc pod uwagę rodzaj sprawy i wartość przedmiotu sporu oraz niezbędne wydatki związane z prowadzeniem mediacji. ” ;
 
-4. Stały mediator może odmówić prowadzenia mediacji tylko z ważnych powodów, o których jest obowiązany niezwłocznie powiadomić strony, a jeżeli strony do mediacji skierował sąd również sąd.
+- **3)** w art. 103 § 2 otrzymuje brzmienie: „
 
-**Art. 183³.** Mediator powinien zachować bezstronność przy prowadzeniu mediacji.
+§ 2. Przepis § 1 dotyczy zwłaszcza kosztów powstałych wskutek uchylenia się od wyjaśnień lub złożenia wyjaśnień niezgodnych z prawdą, zatajenia lub opóźnionego powołania dowodów, a także nieusprawiedliwionej odmowy poddania się mediacji, na którą strona uprzednio wyraziła zgodę. ” ;
 
-**Art. 183⁴.**
+- **4)** po art. 104 dodaje się art. 1041 w brzmieniu: „
 
-1. Postępowanie mediacyjne nie jest jawne.
+**Art. 1041.** Koszty mediacji prowadzonej na skutek skierowania przez sąd i zakończonej ugodą znosi się wzajemnie, jeżeli strony nie postanowiły inaczej. ” ;
 
-2. Mediator jest obowiązany zachować tajemnicy fakty, o których dowiedział się związku z prowadzeniem mediacji, chyba że strony zwolnią go z tego obowiązku.
+- **5)** tytuł rozdziału 1 działu II tytułu VI księgi pierwszej części pierwszej otrzymuje brzmienie: „
 
-3. Bezskuteczne jest powoływanie się toku postępowania przed sądem lub sądem polubownym na propozycje ugodowe, propozycje wzajemnych ustępstw lub inne oświadczenia składane postępowaniu mediacyjnym.
+#### Rozdział 1. Mediacja i postępowanie pojednawcze”;
 
-**Art. 183⁵.** Mediator ma prawo do wynagrodzenia i zwrotu wydatków związanych z przeprowadzeniem mediacji, chyba że wyraził zgodę na prowadzenie mediacji bez wynagrodzenia. Wynagrodzenie i zwrot wydatków obciążają strony.
+##### Oddział 1. Mediacja
 
-**Art. 183⁶.**
+**Art. 1831.**
 
-1. Wszczęcie mediacji przez stronę następuje z chwilą doręczenia mediatorowi wniosku o przeprowadzenie mediacji, z dołączonym dowodem doręczenia jego odpisu drugiej stronie.
+§ 1. Mediacja jest dobrowolna.
 
-2. Mimo doręczenia wniosku, o którym mowa 1, mediacja nie zostaje wszczęta, jeżeli:
+§ 2. Mediację prowadzi się na podstawie umowy o mediację albo postanowienia sądu kierującego strony do mediacji. Umowa może być zawarta także przez wyrażenie przez stronę zgody na mediację, gdy druga strona złożyła wniosek, o którym mowa w art. 1836 § 1.
 
-- **1)** stały mediator, terminie tygodnia od dnia doręczenia mu wniosku o przeprowadzenie mediacji, odmówił przeprowadzenia mediacji,
-- **2)** strony zawarły umowę o mediację, której wskazano jako mediatora osobę niebędącą stałym mediatorem, a osoba ta, terminie tygodnia od dnia doręczenia jej wniosku o przeprowadzenie mediacji, odmówiła przeprowadzenia mediacji,
-- **3)** strony zawarły umowę o mediację bez wskazania mediatora i osoba, do której strona zwróciła się o przeprowadzenie mediacji, terminie tygodnia od dnia doręczenia jej wniosku o przeprowadzenie mediacji, nie wyraziła zgody na przeprowadzenie mediacji albo druga strona terminie tygodnia nie wyraziła zgody na osobę mediatora,
+§ 3. W umowie o mediację strony określają w szczególności przedmiot mediacji, osobę mediatora albo sposób wyboru mediatora.
+
+§ 4. Mediację prowadzi się przed wszczęciem postępowania, a za zgodą stron także w toku sprawy.
+
+**Art. 1832.**
+
+§ 1. Mediatorem może być osoba fizyczna mająca pełną zdolność do czynności prawnych, korzystająca w pełni z praw publicznych.
+
+§ 2. Mediatorem nie może być sędzia. Nie dotyczy to sędziów w stanie spoczynku.
+
+§ 3. Organizacje społeczne i zawodowe mogą prowadzić listy stałych mediatorów oraz tworzyć ośrodki mediacyjne. Wpis na listę wymaga wyrażonej na piśmie zgody mediatora. Informację o listach stałych mediatorów oraz o ośrodkach mediacyjnych przekazuje się prezesowi sądu okręgowego.
+
+§ 4. Stały mediator może odmówić prowadzenia mediacji tylko z ważnych powodów, o których jest obowiązany niezwłocznie powiadomić strony, a jeżeli strony do mediacji skierował sąd – również sąd.
+
+**Art. 1833.** Mediator powinien zachować bezstronność przy prowadzeniu mediacji.
+
+**Art. 1834.**
+
+§ 1. Postępowanie mediacyjne nie jest jawne.
+
+§ 2. Mediator jest obowiązany zachować w tajemnicy fakty, o których dowiedział się w związku z prowadzeniem mediacji, chyba że strony zwolnią go z tego obowiązku.
+
+§ 3. Bezskuteczne jest powoływanie się w toku postępowania przed sądem lub sądem polubownym na propozycje ugodowe, propozycje wzajemnych ustępstw lub inne oświadczenia składane w postępowaniu mediacyjnym.
+
+**Art. 1835.** Mediator ma prawo do wynagrodzenia i zwrotu wydatków związanych z przeprowadzeniem mediacji, chyba że wyraził zgodę na prowadzenie mediacji bez wynagrodzenia. Wynagrodzenie i zwrot wydatków obciążają strony.
+
+**Art. 1836.**
+
+§ 1. Wszczęcie mediacji przez stronę następuje z chwilą doręczenia mediatorowi wniosku o przeprowadzenie mediacji, z dołączonym dowodem doręczenia jego odpisu drugiej stronie.
+
+§ 2. Mimo doręczenia wniosku, o którym mowa w § 1, mediacja nie zostaje wszczęta, jeżeli:
+
+- **1)** stały mediator, w terminie tygodnia od dnia doręczenia mu wniosku o przeprowadzenie mediacji, odmówił przeprowadzenia mediacji,
+- **2)** strony zawarły umowę o mediację, w której wskazano jako mediatora osobę niebędącą stałym mediatorem, a osoba ta, w terminie tygodnia od dnia doręczenia jej wniosku o przeprowadzenie mediacji, odmówiła przeprowadzenia mediacji,
+- **3)** strony zawarty umowę o mediację bez wskazania mediatora i osoba, do której strona zwróciła się o przeprowadzenie mediacji, w terminie tygodnia od dnia doręczenia jej wniosku o przeprowadzenie mediacji, nie wyraziła zgody na przeprowadzenie mediacji albo druga strona w terminie tygodnia nie wyraziła zgody na osobę mediatora,
 - **4)** strony nie zawarły umowy o mediację, a druga strona nie wyraziła zgody na mediację.
 
-**Art. 183⁷.** Wniosek o przeprowadzenie mediacji zawiera oznaczenie stron, dokładnie określone żądanie, przytoczenie okoliczności uzasadniających żądanie, podpis strony oraz wymienienie załączników. Jeżeli strony zawarły umowę o mediację na piśmie, do wniosku dołącza się odpis tej umowy. na rozprawę może skierować strony do mediacji. Po zamknięciu tego posiedzenia sąd może skierować strony do mediacji tylko na zgodny wniosek stron. 2. Sąd może skierować strony do mediacji tylko raz toku postępowania. 3. Postanowienie może być wydane na posiedzeniu niejawnym. Mediacji nie prowadzi się, jeżeli strona terminie tygodnia od dnia ogłoszenia lub doręczenia jej postanowienia o skierowaniu do mediacji nie wyraziła zgody na mediację. 4. Przepisu 1 nie stosuje się sprawach rozpoznawanych postępowaniu nakazowym, upominawczym i uproszczonym.
+**Art. 1837.** Wniosek o przeprowadzenie mediacji zawiera oznaczenie stron, dokładnie określone żądanie, przytoczenie okoliczności uzasadniających żądanie, podpis strony oraz wymienienie załączników. Jeżeli strony zawarły umowę o mediację na piśmie, do wniosku dołącza się odpis tej umowy.
 
-**Art. 183⁹.** Kierując strony do mediacji, sąd wyznacza mediatora; jednakże strony mogą wybrać innego mediatora. Na zgodny wniosek stron sąd może upoważnić mediatora do zapoznania się z aktami sprawy.
+**Art. 1838.**
 
-**Art. 183¹⁰.**
+§ 1. Sąd aż do zamknięcia pierwszego posiedzenia wyznaczonego na rozprawę może skierować strony do mediacji. Po zamknięciu tego posiedzenia sąd może skierować strony do mediacji tylko na zgodny wniosek stron.
 
-1. Kierując strony do mediacji, sąd wyznacza czas jej trwania na okres do miesiąca, chyba że strony zgodnie wniosły o wyznaczenie dłuższego terminu na przeprowadzenie mediacji. W trakcie mediacji termin na jej przeprowadzenie może być przedłużony na zgodny wniosek stron.
+§ 2. Sąd może skierować strony do mediacji tylko raz w toku postępowania.
 
-2. Przewodniczący wyznacza rozprawę po upływie terminu, o którym mowa 1, a przed jego upływem, jeżeli choć jedna ze stron oświadczy, że nie wyraża zgody na mediację.
+§ 3. Postanowienie może być wydane na posiedzeniu niejawnym. Mediacji nie prowadzi się, jeżeli strona w terminie tygodnia od dnia ogłoszenia lub doręczenia jej postanowienia o skierowaniu do mediacji nie wyraziła zgody na mediację.
 
-**Art. 183¹¹.** Mediator niezwłocznie ustala termin i miejsce posiedzenia mediacyjnego. Wyznaczenie posiedzenia mediacyjnego nie jest wymagane, jeżeli strony zgodzą się na przeprowadzenie mediacji bez posiedzenia mediacyjnego.
+§ 4. Przepisu § 1 nie stosuje się w sprawach rozpoznawanych w postępowaniu nakazowym, upominawczym i uproszczonym.
 
-**Art. 183¹².**
+**Art. 1839.** Kierując strony do mediacji, sąd wyznacza mediatora; jednakże strony mogą wybrać innego mediatora. Na zgodny wniosek stron sąd może upoważnić mediatora do zapoznania się z aktami sprawy.
 
-1. Z przebiegu mediacji sporządza się protokół, którym oznacza się miejsce i czas przeprowadzenia mediacji, a także imię, nazwisko (nazwę) i adresy stron, imię i nazwisko oraz adres mediatora, a ponadto wynik mediacji. Protokół podpisuje mediator.
+**Art. 18310.**
 
-2. Jeżeli strony zawarły ugodę przed mediatorem, ugodę zamieszcza się protokole albo załącza się do niego. Strony podpisują ugodę. Niemożność podpisania ugody mediator stwierdza protokole.
+§ 1. Kierując strony do mediacji, sąd wyznacza czas jej trwania na okres do miesiąca, chyba że strony zgodnie wniosły o wyznaczenie dłuższego terminu na przeprowadzenie mediacji. W trakcie mediacji termin na jej przeprowadzenie może być przedłużony na zgodny wniosek stron.
 
-3. Mediator doręcza stronom odpis protokołu.
+§ 2. Przewodniczący wyznacza rozprawę po upływie terminu, o którym mowa w § 1, a przed jego upływem, jeżeli choć jedna ze stron oświadczy, że nie wyraża zgody na mediację.
 
-**Art. 183¹³.**
+**Art. 18311.** Mediator niezwłocznie ustala termin i miejsce posiedzenia mediacyjnego. Wyznaczenie posiedzenia mediacyjnego nie jest wymagane, jeżeli strony zgodzą się na przeprowadzenie mediacji bez posiedzenia mediacyjnego.
 
-1. Po zawarciu ugody mediator niezwłocznie składa protokół sądzie, który byłby właściwy do rozpoznania sprawy według właściwości ogólnej lub wyłącznej.
+**Art. 18312.**
 
-2. W razie skierowania przez sąd sprawy do mediacji mediator składa protokół sądzie rozpoznającym sprawę.
+§ 1. Z przebiegu mediacji sporządza się protokół, w którym oznacza się miejsce i czas przeprowadzenia mediacji, a także imię, nazwisko (nazwę) i adresy stron, imię i nazwisko oraz adres mediatora, a ponadto wynik mediacji. Protokół podpisuje mediator.
 
-**Art. 183¹⁴.**
+§ 2. Jeżeli strony zawarły ugodę przed mediatorem, ugodę zamieszcza się w protokole albo załącza się do niego. Strony podpisują ugodę. Niemożność podpisania ugody mediator stwierdza w protokole.
 
-1. Jeżeli zawarto ugodę przed mediatorem, sąd, o którym mowa art. 183 , na wniosek strony niezwłocznie przeprowadza postępowanie co do zatwierdzenia ugody zawartej przed mediatorem. twierdza ją przez nadanie jej klauzuli wykonalności; przeciwnym przypadku sąd zatwierdza ugodę postanowieniem na posiedzeniu niejawnym.
+§ 3. Mediator doręcza stronom odpis protokołu.
 
-3. Sąd odmawia nadania klauzuli wykonalności albo zatwierdzenia ugody zawartej przed mediatorem, całości lub części, jeżeli ugoda jest sprzeczna z prawem lub zasadami współżycia społecznego albo zmierza do obejścia prawa, a także gdy jest niezrozumiała lub zawiera sprzeczności.
+**Art. 18313.**
 
-**Art. 183¹⁵.**
+§ 1. Po zawarciu ugody mediator niezwłocznie składa protokół w sądzie, który byłby właściwy do rozpoznania sprawy według właściwości ogólnej lub wyłącznej.
 
-1. Ugoda zawarta przed mediatorem ma po jej zatwierdzeniu przez sąd moc prawną ugody zawartej przed sądem.
+§ 2. W razie skierowania przez sąd sprawy do mediacji mediator składa protokół w sądzie rozpoznającym sprawę.
 
-2. Przepis 1 nie uchybia przepisom o szczególnej formie czynności prawnej.”;
+**Art. 18314.**
 
-- **7)** rozdziale 1 działu II tytułu VI księgi pierwszej części pierwszej przed art. 184 wprowadza się oznaczenie i tytuł oddziału: „Oddział 2. Postępowanie pojednawcze”;
-- **8)** po art. 202 dodaje się art. 202 brzmieniu: „Art. 202 . Jeżeli strony przed wszczęciem postępowania sądowego zawarły umowę o mediację, sąd kieruje strony do mediacji na zarzut pozwanego zgłoszony przed wdaniem się spór co do istoty sprawy.”;
-- **9)** po art. 259 dodaje się art. 259 brzmieniu: „Art. 259 . Mediator nie może być świadkiem co do faktów, o których dowiedział się związku z prowadzeniem mediacji, chyba że strony zwolnią go z obowiązku zachowania tajemnicy mediacji.”;
-- **10)** art. 355 2 otrzymuje brzmienie: „§ 2. Postanowienie o umorzeniu postępowania może zapaść na posiedzeniu niejawnym, jeżeli powód cofnął ze skutkiem prawnym pozew piśmie procesowym albo gdy strony zawarły ugodę przed mediatorem, którą zatwierdził sąd.”;
-- **11)** art. 394 1 po pkt 10 dodaje się pkt 10 brzmieniu: „10 ) zatwierdzenie ugody zawartej przed mediatorem.”;
-- **12)** art. 436 otrzymuje brzmienie: „Art. 436. 1. Jeżeli istnieją widoki na utrzymanie małżeństwa, sąd może skierować strony do mediacji. Skierowanie to jest możliwe także wtedy, gdy postępowanie zostało zawieszone.
+§ 1. Jeżeli zawarto ugodę przed mediatorem, sąd, o którym mowa w art. 18313, na wniosek strony niezwłocznie przeprowadza postępowanie co do zatwierdzenia ugody zawartej przed mediatorem.
 
-2. Przepisy o mediacji stosuje się odpowiednio, z tym że przedmiotem mediacji może być także pojednanie małżonków.
+§ 2. Jeżeli ugoda podlega wykonaniu w drodze egzekucji, sąd zatwierdza ją przez nadanie jej klauzuli wykonalności; w przeciwnym przypadku sąd zatwierdza ugodę postanowieniem na posiedzeniu niejawnym.
 
-3. Mediatorami mogą być także kuratorzy sądowi oraz osoby wskazane przez rodzinne ośrodki diagnostyczno-konsultacyjne.
+§ 3. Sąd odmawia nadania klauzuli wykonalności albo zatwierdzenia ugody zawartej przed mediatorem, w całości lub części, jeżeli ugoda jest sprzeczna z prawem lub zasadami współżycia społecznego albo zmierza do obejścia prawa, a także gdy jest niezrozumiała lub zawiera sprzeczności.
 
-4. Jeżeli strony nie uzgodniły osoby mediatora, sąd kieruje je do mediacji prowadzonej przez mediatora, o którym mowa 3, albo do stałego mediatora posiadającego wiedzę teoretyczną i sprawach rodzinnych.”;
+**Art. 18315.**
+
+§ 1. Ugoda zawarta przed mediatorem ma po jej zatwierdzeniu przez sąd moc prawną ugody zawartej przed sądem.
+
+§ 2. Przepis § 1 nie uchybia przepisom o szczególnej formie czynności prawnej. ” ;
+
+- **7)** w rozdziale 1 działu II tytułu VI księgi pierwszej części pierwszej przed art. 184 wprowadza się oznaczenie i tytuł oddziału: „
+
+##### Oddział 2. Postępowanie pojednawcze”;
+
+**Art. 2021.** Jeżeli strony przed wszczęciem postępowania sądowego zawarły umowę o mediację, sąd kieruje strony do mediacji na zarzut pozwanego zgłoszony przed wdaniem się w spór co do istoty sprawy. ” ;
+
+- **9)** po art. 259 dodaje się art. 2591 w brzmieniu: „
+
+**Art. 2591.** Mediator nie może być świadkiem co do faktów, o których dowiedział się w związku z prowadzeniem mediacji, chyba że strony zwolnią go z obowiązku zachowania tajemnicy mediacji. ” ;
+
+- **10)** w art. 355 § 2 otrzymuje brzmienie: „
+
+§ 2. Postanowienie o umorzeniu postępowania może zapaść na posiedzeniu niejawnym, jeżeli powód cofnął ze skutkiem prawnym pozew w piśmie procesowym albo gdy strony zawarły ugodę przed mediatorem, którą zatwierdził sąd. ” ;
+
+- **11)** w art. 394 w § 1 po pkt 10 dodaje się pkt 101 w brzmieniu: „
+- **101)** zatwierdzenie ugody zawartej przed mediatorem, ” ;
+- **12)** art. 436 otrzymuje brzmienie: „
+
+**Art. 436.**
+
+§ 1. Jeżeli istnieją widoki na utrzymanie małżeństwa, sąd może skierować strony do mediacji. Skierowanie to jest możliwe także wtedy, gdy postępowanie zostało zawieszone.
+
+§ 2. Przepisy o mediacji stosuje się odpowiednio, z tym że przedmiotem mediacji może być także pojednanie małżonków.
+
+§ 3. Mediatorami mogą być także kuratorzy sądowi oraz osoby wskazane przez rodzinne ośrodki diagnostyczno-konsultacyjne.
+
+§ 4. Jeżeli strony nie uzgodniły osoby mediatora, sąd kieruje je do mediacji prowadzonej przez mediatora, o którym mowa w § 3, albo do stałego mediatora posiadającego wiedzę teoretyczną i umiejętności praktyczne w zakresie prowadzenia mediacji w sprawach rodzinnych. ” ;
 
 - **13)** uchyla się art. 437 i 438;
-- **14)** po art. 445 dodaje się art. 445 brzmieniu: „Art. 445 . W każdym stanie sprawy o rozwód lub separację sąd może skierować strony do mediacji celu ugodowego załatwienia spornych kwestii dotyczących zaspokojenia potrzeb rodziny, alimentów, sposobu sprawowania władzy rodzicielskiej, kontaktów z dziećmi oraz spraw majątkowych podlegających rozstrzygnięciu wyroku orzekającym rozwód lub separację. Przepisy art. 436 3 i 4 stosuje się odpowiednio.”;
-- **15)** po art. 570 dodaje się art. 570 brzmieniu: „Art. 570 . W sprawie, której zawarcie ugody jest dopuszczalne, sąd może skierować uczestników do mediacji. Przedmiotem mediacji może być także określenie sposobu wykonywania władzy rodzicielskiej. Jeżeli uczestnicy postępowania nie uzgodnili osoby mediatora, sąd kieruje ich do mediacji prowadzonej przez mediatora, o którym mowa art. 436 3, albo do stałego mediatora posiadającego wiedzę teoretyczną i umiejętności praktyczne zakresie prowadzenia mediacji sprawach rodzinnych.”;
-- **16)** art. 777 1 po pkt 2 dodaje się pkt 2 brzmieniu: „2 ) ugoda przed mediatorem,”;
-- **17)** art. 954 otrzymuje brzmienie: „Art. 954. Obwieszczenie o licytacji doręcza się:
-- **1)** uczestnikom postępowania;
-- **2)** organowi gminy, urzędowi skarbowemu miejsca położenia nieruchomości oraz organom ubezpieczeń społecznych z wezwaniem, aby najpóźniej terminie licytacji zgłosiły zestawienie podatków i innych danin publicznych, należnych do dnia licytacji.”;
-- **18)** art. 999 uchyla się 3;
-- **19)** art. 1060:
-    - **a)** dodaje się 1 brzmieniu: „§ 1 . W sprawach o naprawienie szkody wyrządzonej przez wydanie ustawy, rozporządzenia Rady Ministrów lub rozporządzenia innego organu konstytucyjnie do tego powołanego, niezgodnych z Konstytucją, ratyfikowaną umową międzynarodową lub ustawą, a także sprawie o naprawienie szkody wyrządzonej przez niewydanie takiego aktu normatywnego, którego obowiązek wydania przewiduje przepis prawa, wierzyciel - wskazując na tytuł egzekucyjny - wzywa do spełnienia świadczenia bezpośrednio ministra właściwego do spraw Skarbu Państwa, który jest obowiązany spełnić niezwłocznie świadczenie stwierdzone tytułem egzekucyjnym ze środków utworzonej ramach budżetu państwa rezerwy celowej.”, „W przypadku, o którym mowa 1 egzekucję prowadzi się z rachunków bankowych służących do obsługi centralnego rachunku bieżącego budżetu państwa.”.
+- **14)** po art. 4451 dodaje się art. 4452 w brzmieniu: „
 
-**Art. 2.** W ustawie z dnia 23 kwietnia 1964 r. - Kodeks cywilny (Dz.U. Nr 16, poz. 93, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 4452.** W każdym stanie sprawy o rozwód lub separację sąd może skierować strony do mediacji w celu ugodowego załatwienia spornych kwestii dotyczących zaspokojenia potrzeb rodziny, alimentów, sposobu sprawowania władzy rodzicielskiej, kontaktów z dziećmi oraz spraw majątkowych podlegających rozstrzygnięciu w wyroku orzekającym rozwód lub separację. Przepisy art. 436 § 3 i 4 stosuje się odpowiednio. ” ;
 
-**Art. 3.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym administracji (Dz.U. z 2002 r. Nr 110, poz. 968 z późn. zm. ) wprowadza się następujące zmiany: „2) właściwej jednostce samorządu terytorialnego oraz organom ubezpieczeń społecznych z wezwaniem, aby najpóźniej dniu licytacji zgłosiły zestawienie podatków i innych danin publicznych, należnych na dzień licytacji,”;
+- **15)** po art. 5701 dodaje się art. 5702 w brzmieniu: „
 
-**Art. 4.** W ustawie z dnia 13 czerwca 1967 r. o kosztach sądowych sprawach cywilnych (Dz.U. z 2002 r. Nr 9, poz. 88, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 5702.** W sprawie, w której zawarcie ugody jest dopuszczalne, sąd może skierować uczestników do mediacji. Przedmiotem mediacji może być także określenie sposobu wykonywania władzy rodzicielskiej. Jeżeli uczestnicy postępowania nie uzgodnili osoby mediatora, sąd kieruje ich do mediacji prowadzonej przez mediatora, o którym mowa w art. 436 § 3, albo do stałego mediatora posiadającego wiedzę teoretyczną i umiejętności praktyczne w zakresie prowadzenia mediacji w sprawach rodzinnych. ” ;
 
-**Art. 5.** Ustawa wchodzi życie po upływie trzech miesięcy od dnia ogłoszenia.
+- **16)** w art. 777 w § 1 po pkt 2 dodaje się pkt 21 w brzmieniu: „
+- **21)** ugoda przed mediatorem, ” ;
+- **17)** art. 954 otrzymuje brzmienie: „
+
+**Art. 954.** Obwieszczenie o licytacji doręcza się:
+
+- **1)** uczestnikom postępowania,
+- **2)** organowi gminy, urzędowi skarbowemu miejsca położenia nieruchomości oraz organom ubezpieczeń społecznych z wezwaniem, aby najpóźniej w terminie licytacji zgłosiły zestawienie podatków i innych danin publicznych, należnych do dnia licytacji. ” ;
+- **18)** w art. 999 uchyla się § 3;
+- **19)** w art. 1060: dodaje się § 11 w brzmieniu: „
+    - **a)**
+
+§ 11. W sprawach o naprawienie szkody wyrządzonej przez wydanie ustawy, rozporządzenia Rady Ministrów lub rozporządzenia innego organu konstytucyjnie do tego powołanego, niezgodnych z Konstytucją, ratyfikowaną umową międzynarodową lub ustawą, a także w sprawie o naprawienie szkody wyrządzonej przez niewydanie takiego aktu normatywnego, którego obowiązek wydania przewiduje przepis prawa, wierzyciel – wskazując na tytuł egzekucyjny – wzywa do spełnienia świadczenia bezpośrednio ministra właściwego do spraw Skarbu Państwa, który jest obowiązany spełnić niezwłocznie świadczenie stwierdzone tytułem egzekucyjnym ze środków utworzonej w ramach budżetu państwa rezerwy celowej. ” , w § 2 dodaje się drugie zdanie w brzmieniu: „ W przypadku, o którym mowa w § 11, egzekucję prowadzi się z rachunków bankowych służących do obsługi centralnego rachunku bieżącego budżetu państwa. ” .
+
+- **b)**
+
+**Art. 2.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 123 w § 1 po pkt 2 kropkę zastępuje się przecinkiem i dodaje się pkt 3 w brzmieniu: „
+- **3)** przez wszczęcie mediacji. ” ;
+- **2)** w art. 124 § 2 otrzymuje brzmienie: „
+
+§ 2. W razie przerwania przedawnienia przez czynność w postępowaniu przed sądem lub innym organem powołanym do rozpoznawania spraw lub egzekwowania roszczeń danego rodzaju albo przed sądem polubownym albo przez wszczęcie mediacji, przedawnienie nie biegnie na nowo, dopóki postępowanie to nie zostanie zakończone. ” ;
+
+- **3)** w art. 125 § 1 otrzymuje brzmienie: „
+
+§ 1. Roszczenie stwierdzone prawomocnym orzeczeniem sądu lub innego organu powołanego do rozpoznawania spraw danego rodzaju albo orzeczeniem sądu polubownego, jak również roszczenie stwierdzone ugodą zawartą przed sądem albo przed sądem polubownym albo ugodą zawartą przed mediatorem i zatwierdzoną przez sąd, przedawnia się z upływem lat dziesięciu, chociażby termin przedawnienia roszczeń tego rodzaju był krótszy. Jeżeli stwierdzone w ten sposób roszczenie obejmuje świadczenia okresowe, roszczenie o świadczenia okresowe należne w przyszłości ulega przedawnieniu trzyletniemu. ” .
+
+**Art. 3.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2002 r. Nr 110, poz. 968, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 110w w § 4 pkt 2 otrzymuje brzmienie: „
+- **2)** właściwej jednostce samorządu terytorialnego oraz organom ubezpieczeń społecznych z wezwaniem, aby najpóźniej w dniu licytacji zgłosiły zestawienie podatków i innych danin publicznych, należnych na dzień licytacji, ” ;
+- **2)** w art. 112b uchyla się § 5.
+
+**Art. 4.** W ustawie z dnia 13 czerwca 1967 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2002 r. Nr 9, poz. 88, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** po art. 4 dodaje się art. 41 w brzmieniu: „
+
+**Art. 41.** Koszty mediacji nie stanowią wydatków. ” ;
+
+- **2)** po art. 36 dodaje się art. 361 w brzmieniu: „
+
+**Art. 361.** Jeżeli w toku postępowania zawarto ugodę przed mediatorem, sąd z urzędu zwraca stronie 3/4 uiszczonego wpisu. ” .
+
+**Art. 5.** Ustawa wchodzi w życie po upływie trzech miesięcy od dnia ogłoszenia.
 

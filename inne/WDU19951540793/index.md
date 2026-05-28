@@ -8,10 +8,10 @@ pos: 793
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# zmieniającaustawęozmianieKodeksupostępowaniakarnego , ustawyo wojskowych , ustawyoopłatachwsprawachkarnychiustawy 0 postę Wustawiezdnia 29 czerwca 1995 r . ozmianieKodeksupostępowaniakarneg ustrojusądówwojskowych , ustawyoopłatachwsprawachkarnychiustawyo wsprawachnieletnich ( D z . U . N r 89 , p o z . 443 ) wprowadzasięnastępującezm " A r t . 10 a . 1 . Wsprawach , wktórychłącznyczastymczasowegoareszt określonewart . 222 $ 21 S 3 Kodeksupostępowaniakarneg „ A r t . 11 . UstawawchodziwżyciezdniemIstycznia 1996 r ., ztym
+# Ustawa z dnia 1 grudnia 1995 r. zmieniająca ustawę o zmianie Kodeksu postępowania karnego, ustawy o ustroju sądów wojskowych, ustawy o opłatach w sprawach karnych i ustawy o postępowaniu w sprawach nieletnich
 
 | Pole | Wartość |
 |---|---|
@@ -22,6 +22,23 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1995-12-01 |
 | Data wydania | 1995-12-30 |
+| Wejście w życie | 1996-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19951540793) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1995/793/text.pdf) |
+
+**Art. 1.** W ustawie z dnia 29 czerwca 1995 r. o zmianie Kodeksu postępowania karnego, ustawy o ustroju sądów wojskowych, ustawy o opłatach w sprawach karnych i ustawy o postępowaniu w sprawach nieletnich (Dz. U. Nr 89, poz. 443) wprowadza się następujące zmiany:
+
+- **1)** po art. 10 dodaje się art. 10a w brzmieniu: „
+
+**Art. 10a.**
+
+1. W sprawach, w których łączny czas tymczasowego aresztowania, zastosowanego przed dniem 4 sierpnia 1996 r., przekracza terminy określone w art. 222 § 2 pkt 2 i § 3 Kodeksu postępowania karnego w brzmieniu nadanym art. 1 pkt 20, tymczasowe aresztowanie zostaje utrzymane do czasu rozpoznania przez Sąd Najwyższy wniosku o przedłużenie stosowania tego środka na podstawie art. 222 § 4 Kodeksu postępowania karnego.
+
+2. W sprawach określonych w ust. 1, w razie niezłożenia wniosku o przedłużenie stosowania tymczasowego aresztowania, areszt tymczasowy należy uchylić nie później niż z dniem 1 stycznia 1997 r. ” ;
+
+- **2)** art. 11 otrzymuje brzmienie: „
+
+**Art. 11.** Ustawa wchodzi w życie z dniem 1 stycznia 1996 r., z tym że zmiany zawarte w art. 1 odnoszące się do tymczasowego aresztowania wchodzą w życie z dniem 4 sierpnia 1996 r., z zastrzeżeniem art. 10a. ”
+
+**Art. 2.** Ustawa wchodzi w życie z dniem 1 stycznia 1996 r.
 

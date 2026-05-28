@@ -24,7 +24,8 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2021-10-01 |
 | Data wydania | 2021-11-25 |
-| Ostatnia zmiana | 2026-05-12 |
+| Wejście w życie | 2022-05-27 |
+| Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002133) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2133/text.pdf) |
 
 Art. 12‒14. (pominięte)
@@ -504,8 +505,10 @@ Art. 12‒14. (pominięte)
 - **2)** opłat prowizyjnych z tytułu gwarancji;
 - **3)** wpływów z tytułu odzyskanych przez BGK kwot wypłaconych gwarancji;
 - **4)** wpływów z tytułu zwrotu kwot, o których mowa w art. 17 ust. 1 i 2 ustawy z dnia 26 maja 2023 r. o pomocy państwa w oszczędzaniu na cele mieszkaniowe oraz art. 8 ust. 7 i art. 9b ust. 12;
-- **5)** odsetek z tytułu oprocentowania środków Rządowego Funduszu Mieszkaniowego;
+- **5)** odsetek od wolnych środków Rządowego Funduszu Mieszkaniowego przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426 i 635);
 - **6)** wpływów z innych tytułów.
+
+3a. Wolne środki Rządowego Funduszu Mieszkaniowego w walutach obcych mogą być lokowane w bankach.
 
 4. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa zawiera z BGK umowę określającą:
 

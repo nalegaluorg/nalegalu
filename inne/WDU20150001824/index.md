@@ -22,12 +22,18 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-11 |
 | Data wydania | 2015-11-06 |
+| Wejście w życie | 2015-12-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001824) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1824/text.pdf) |
 
 **Art. 1.** Ustawa określa uprawnienia do mienia Funduszu Wczasów Pracowniczych, utworzonego na podstawie ustawy z dnia 21 kwietnia 1988 r. o Funduszu Wczasów Pracowniczych (Dz. U. Nr 11, poz. 84 oraz z 1992 r. Nr 21, poz. 85), zwanego dalej „Funduszem”, oraz zasady ich realizacji.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** mieniu Funduszu – należy przez to rozumieć przedsiębiorstwo w rozumieniu art. 551 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2014 r. poz. 121, z późn. zm.) należące do Funduszu według stanu na dzień 31 sierpnia 1997 r.;
+- **2)** Spółce – należy przez to rozumieć spółkę działającą pod firmą „Fundusz Wczasów Pracowniczych spółka z ograniczoną odpowiedzialnością”, wpisaną do rejestru przedsiębiorców przez Sąd Rejonowy dla m.st. Warszawy w Warszawie XIII Wydział Gospodarczy Krajowego Rejestru Sądowego pod numerem 0000041798;
+- **3)** udziałach w Spółce – należy przez to rozumieć udziały w spółce działającej pod firmą „Fundusz Wczasów Pracowniczych spółka z ograniczoną odpowiedzialnością”, wpisanej do rejestru przedsiębiorców przez Sąd Rejonowy dla m.st. Warszawy w Warszawie XIII Wydział Gospodarczy Krajowego Rejestru Sądowego pod numerem 0000041798, pokryte wkładem niepieniężnym w postaci mienia Funduszu;
+- **4)** reprezentatywnych organizacjach związkowych – należy przez to rozumieć utworzone przed dniem wejścia w życie ustawy ogólnokrajowe związki zawodowe, ogólnokrajowe zrzeszenia związków zawodowych i ogólnokrajowe organizacje międzyzwiązkowe, spełniające kryteria, o których mowa w art. 23 ust. 2 ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. poz. 1240).
 
 **Art. 3.**
 

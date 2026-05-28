@@ -8,10 +8,10 @@ pos: 2240
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 listopada 2019 r.
+# Rozporządzenie Ministra Przedsiębiorczości i Technologiiz dnia 13 listopada 2019 r. w sprawie szczegółowych wymagań w zakresie jednoznacznego oznaczenia materiałów wybuchowych przeznaczonych do użytku cywilnego oraz wzoru wniosku o nadanie kodu oznaczenia obiektu produkcyjnego
 
 | Pole | Wartość |
 |---|---|
@@ -22,49 +22,46 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2019-11-13 |
 | Data wydania | 2019-11-18 |
+| Wejście w życie | 2019-12-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002240) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2240/text.pdf) |
 
-rozporządzenie ministra przedsiębiorczości i technologii dnia 13 listopada 2019 r.
-sprawie szczegółowych wymagań zakresie jednoznacznego oznaczenia materiałów wybuchowych przeznaczonych użytku cywilnego wzoru o nadanie kodu oznaczenia obiektu produkcyjnego Na podstawie art. 62ve ustawy dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych użytku cywilnego (Dz. U. 2019 r. poz. 45, 55, 60 i 1214) zarządza się, co następuje: § 1. Rozporządzenie określa: szczegółowe wymagania zakresie jednoznacznego oznaczenia materiału wybuchowego przeznaczonego użytku cywilnego jego opakowania;
-2) wzór o nadanie kodu oznaczenia obiektu produkcyjnego.
-§ 2. 1. W przypadku materiałów wybuchowych przeznaczonych użytku cywilnego postaci: nabojów jednoznaczne oznaczenie umieszcza się na etykiecie samoprzylepnej przez bezpośredni nadruk na każdym naboju, a dodatkową etykietę samoprzylepną zawierającą jednoznaczne oznaczenie umieszcza się na każdym opakowaniu nabojami; przedsiębiorca oprócz tego może zastosować pasywny obojętny identyfikator elektroniczny dołączony każdego naboju podobny identyfikator elektroniczny umieszczony na każdym opakowaniu nabojami;
-2) spłonek jednoznaczne oznaczenie umieszcza się na etykiecie samoprzylepnej przez bezpośredni nadruk pieczęć na powłoce każdej spłonki, a dodatkową etykietę samoprzylepną zawierającą jednoznaczne oznaczenie umieszcza się na każdym opakowaniu ze spłonkami; przedsiębiorca oprócz tego może zastosować pasywny obojętny identyfikator elektroniczny dołączony każdej spłonki podobny identyfikator elektroniczny umieszczony na każdym opakowaniu ze spłonkami;
-3) zapalników elektrycznych, nieelektrycznych i elektronicznych jednoznaczne oznaczenie umieszcza się na etykiecie samoprzylepnej na przewodach tulei zapalnika albo etykiecie samoprzylepnej postaci bezpośredniego nadruku pieczęci na łusce każdego zapalnika, a dodatkową etykietę samoprzylepną zawierającą jednoznaczne oznaczenie umieszcza się na każdym opakowaniu zapalnikami; przedsiębiorca oprócz tego może zastosować pasywny obojętny identyfikator elektroniczny dołączony każdego zapalnika podobny identyfikator elektroniczny umieszczony na każdym opakowaniu zapalnikami;
-4) zapłonników i pobudzaczy wybuchowych jednoznaczne oznaczenie umieszcza się na etykiecie samoprzylepnej przez bezpośredni nadruk na każdym zapłonniku pobudzaczu wybuchowym, a dodatkową etykietę samoprzylepną zawierającą jednoznaczne oznaczenie umieszcza się na każdym opakowaniu zapłonnikami pobudzaczami wybuchowymi; przedsiębiorca oprócz tego może zastosować pasywny obojętny identyfikator elektroniczny dołączony każdego zapłonnika pobudzacza wybuchowego podobny identyfikator elektroniczny umieszczony na każdym opakowaniu zapłonnikami pobudzaczami wybuchowymi;
-5) lontów detonujących jednoznaczne oznaczenie umieszcza się na etykiecie samoprzylepnej przez bezpośredni nadruk na zwoju lontu; jednoznaczne oznaczenie umieszcza się co pięć metrów na zewnętrznej powłoce lontu detonującego albo na plastikowej wytłaczanej wewnętrznej warstwie znajdującej się bezpośrednio pod oplotem zewnętrznym lontu; dodatkową etykietę samoprzylepną zawierającą jednoznaczne oznaczenie umieszcza się na każdym opakowaniu lontem detonującym; przedsiębiorca oprócz tego może zastosować pasywny obojętny identyfikator elektroniczny umieszczony wewnątrz lontu detonującego podobny identyfikator elektroniczny umieszczony na każdym opakowaniu lontem detonującym.
-2. W przypadku materiałów wybuchowych przeznaczonych użytku cywilnego składających się dwóch składników jednoznaczne oznaczenie umieszcza się na etykiecie samoprzylepnej przez bezpośredni nadruk na najmniejszej jednostce opakowania zawierającej obydwa składniki.
-3. W przypadku materiałów wybuchowych przeznaczonych użytku cywilnego umieszczonych w: workach jednoznaczne oznaczenie umieszcza się na etykiecie samoprzylepnej przez bezpośredni nadruk na każdym worku; przedsiębiorca oprócz tego może zastosować pasywny obojętny identyfikator elektroniczny dołączony każdego worka;
-2) puszkach i bębnach jednoznaczne oznaczenie umieszcza się na etykiecie samoprzylepnej poprzez bezpośredni nadruk na każdej puszce bębnie zawierającym materiał wybuchowy; przedsiębiorca oprócz tego może zastosować pasywny obojętny identyfikator elektroniczny dołączony każdej puszki bębna zawierającego materiał wybuchowy.
-§ 3. Wzór o nadanie kodu oznaczenia obiektu produkcyjnego stanowi załącznik rozporządzenia.
-§ 4. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.
-Minister Przedsiębiorczości i Techologii: J. Emilewicz WZÓR Załącznik rozporządzenia Ministra Przedsiębiorczości i Technologii dnia 13 listopada 2019 r. (poz. …) WNIOSEK o nadanie kodu oznaczenia obiektu produkcyjnego, którym wytwarzane są materiały wybuchowe przeznaczone użytku cywilnego I. Oznaczenie przedsiębiorcy wnioskującego o nadanie kodu oznaczenia obiektu produkcyjnego
-1. Nazwa przedsiębiorcy: ……………………………………………………………………...
-2. Numer identyfikacji podatkowej (NIP) przedsiębiorcy: ……………………………………
-3. Adres siedziby przedsiębiorcy albo miejsca prowadzenia działalności gospodarczej, albo miejsca zamieszkania (w przypadku przedsiębiorcy będącego osobą fizyczną): Miejscowość i kod pocztowy: ……………………………………………………..……
-2) Ulica, numer domu, numer lokalu: …………………………………………………..….
-3) Numer telefonu, numer faksu, e-mail przedsiębiorcy: ………………………………….
-………………………………………………………………………………………………
-4) Imię i nazwisko osoby kontaktu: ………….………………………………………… II. Oznaczenie koncesji na wykonywanie działalności gospodarczej posiadanej przez wnioskodawcę
-1. Numer koncesji: ……………………………………………………………………………
-2. Rok wydania koncesji: …………………………………………………………………….
-3. Zakres koncesji: …………………………………..……………………………………….
-……………………………………………………………………………………………….…..
-…………………………………………………………………………………………………...
-III. Nazwa i adres obiektu produkcyjnego
-1. Nazwa obiektu produkcyjnego: ……………………………………………………………..
-…………………………………………………………………………………………………..
-2. Adres obiektu produkcyjnego: Miejscowość i kod pocztowy: ……………………………………………………..……
-2) Ulica, numer domu, numer lokalu: ……………………………………………………..
-3) Państwo: ……………...…………………………………….…………………………...
-IV. Rodzaj materiałów wybuchowych przeznaczonych użytku cywilnego wytwarzanych obiekcie produkcyjnym będącym przedmiotem wniosku: Numer Lp. Rodzaj wytwarzanych rozpoznawczy materiałów wybuchowych ustalony przez ONZ Kod klasyfikacyjny Nazwa handlowa
+Treść rozporządzenia
+Załącznik – Wniosek o nadanie kodu oznaczenia obiektu produkcyjnego, w którym wytwarzane są materiały wybuchowe przeznaczone do użytku cywilnego (wzór)
+Treść rozporządzenia
+Na podstawie art. 62ve ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2019 r. poz. 45, 55, 60 i 1214) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+szczegółowe wymagania w zakresie jednoznacznego oznaczenia materiału wybuchowego przeznaczonego do użytku cywilnego oraz jego opakowania;
+2)
+wzór wniosku o nadanie kodu oznaczenia obiektu produkcyjnego.
+§ 2.
 1.
+W przypadku materiałów wybuchowych przeznaczonych do użytku cywilnego w postaci:
+1)
+nabojów – jednoznaczne oznaczenie umieszcza się na etykiecie samoprzylepnej lub przez bezpośredni nadruk na każdym naboju, a dodatkową etykietę samoprzylepną zawierającą jednoznaczne oznaczenie umieszcza się na każdym opakowaniu z nabojami; przedsiębiorca oprócz tego może zastosować pasywny obojętny identyfikator elektroniczny dołączony do każdego naboju oraz podobny identyfikator elektroniczny umieszczony na każdym opakowaniu z nabojami;
+2)
+spłonek – jednoznaczne oznaczenie umieszcza się na etykiecie samoprzylepnej lub przez bezpośredni nadruk lub pieczęć na powłoce każdej spłonki, a dodatkową etykietę samoprzylepną zawierającą jednoznaczne oznaczenie umieszcza się na każdym opakowaniu ze spłonkami; przedsiębiorca oprócz tego może zastosować pasywny obojętny identyfikator elektroniczny dołączony do każdej spłonki oraz podobny identyfikator elektroniczny umieszczony na każdym opakowaniu ze spłonkami;
+3)
+zapalników elektrycznych, nieelektrycznych i elektronicznych – jednoznaczne oznaczenie umieszcza się na etykiecie samoprzylepnej na przewodach lub tulei zapalnika albo etykiecie samoprzylepnej lub w postaci bezpośredniego nadruku lub pieczęci na łusce każdego zapalnika, a dodatkową etykietę samoprzylepną zawierającą jednoznaczne oznaczenie umieszcza się na każdym opakowaniu z zapalnikami; przedsiębiorca oprócz tego może zastosować pasywny obojętny identyfikator elektroniczny dołączony do każdego zapalnika oraz podobny identyfikator elektroniczny umieszczony na każdym opakowaniu z zapalnikami;
+4)
+zapłonników i pobudzaczy wybuchowych – jednoznaczne oznaczenie umieszcza się na etykiecie samoprzylepnej lub przez bezpośredni nadruk na każdym zapłonniku lub pobudzaczu wybuchowym, a dodatkową etykietę samoprzylepną zawierającą jednoznaczne oznaczenie umieszcza się na każdym opakowaniu z zapłonnikami lub pobudzaczami wybuchowymi; przedsiębiorca oprócz tego może zastosować pasywny obojętny identyfikator elektroniczny dołączony do każdego zapłonnika lub pobudzacza wybuchowego oraz podobny identyfikator elektroniczny umieszczony na każdym opakowaniu z zapłonnikami lub pobudzaczami wybuchowymi;
+5)
+lontów detonujących – jednoznaczne oznaczenie umieszcza się na etykiecie samoprzylepnej lub przez bezpośredni nadruk na zwoju lontu; jednoznaczne oznaczenie umieszcza się co pięć metrów na zewnętrznej powłoce lontu detonującego albo na plastikowej wytłaczanej wewnętrznej warstwie znajdującej się bezpośrednio pod oplotem zewnętrznym lontu; dodatkową etykietę samoprzylepną zawierającą jednoznaczne oznaczenie umieszcza się na każdym opakowaniu z lontem detonującym; przedsiębiorca oprócz tego może zastosować pasywny obojętny identyfikator elektroniczny umieszczony wewnątrz lontu detonującego oraz podobny identyfikator elektroniczny umieszczony na każdym opakowaniu z lontem detonującym.
 2.
-(..) Określony załączniku A Umowy europejskiej dotyczącej międzynarodowego przewozu drogowego towarów niebezpiecznych (ADR), sporządzonej Genewie dnia 30 września 1957 r. (Dz. U. 2019 r.
-poz. 769).
-W razie potrzeby dodać kolejne wiersze.
-Oświadczam, że informacje podane we są zgodne prawdą.
-.......................................................................................................................................................
-(data czytelny podpis wnioskodawcy osoby upoważnionej ) Wymóg opatrzenia podpisem dotyczy wniosków składanych postaci papierowej. Wniosek składany za pośrednictwem środków komunikacji elektronicznej należy złożyć zgodnie art. 62vb ust. 6 ustawy dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych użytku cywilnego (Dz. U.
-2019 r. poz. 45, późn. zm.).
+W przypadku materiałów wybuchowych przeznaczonych do użytku cywilnego składających się z dwóch składników jednoznaczne oznaczenie umieszcza się na etykiecie samoprzylepnej lub przez bezpośredni nadruk na najmniejszej jednostce opakowania zawierającej obydwa składniki.
+3.
+W przypadku materiałów wybuchowych przeznaczonych do użytku cywilnego umieszczonych w:
+1)
+workach – jednoznaczne oznaczenie umieszcza się na etykiecie samoprzylepnej lub przez bezpośredni nadruk na każdym worku; przedsiębiorca oprócz tego może zastosować pasywny obojętny identyfikator elektroniczny dołączony do każdego worka;
+2)
+puszkach i bębnach – jednoznaczne oznaczenie umieszcza się na etykiecie samoprzylepnej lub poprzez bezpośredni nadruk na każdej puszce lub bębnie zawierającym materiał wybuchowy; przedsiębiorca oprócz tego może zastosować pasywny obojętny identyfikator elektroniczny dołączony do każdej puszki lub bębna zawierającego materiał wybuchowy.
+§ 3.
+Wzór wniosku o nadanie kodu oznaczenia obiektu produkcyjnego stanowi załącznik do rozporządzenia.
+§ 4.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+1) Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości i Technologii (Dz. U. poz. 93). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Komisji 2008/43/WE z dnia 4 kwietnia 2008 r. w sprawie ustanowienia systemu oznaczania i śledzenia materiałów wybuchowych przeznaczonych do użytku cywilnego, zgodnie z dyrektywą Rady 93/15/EWG (Dz. Urz. UE L 94 z 05.04.2008, str. 8 oraz Dz. Urz. UE L 50 z 23.02.2012, str. 18) i dyrektywę Komisji 2012/4/UE z dnia 22 lutego 2012 r. zmieniającą dyrektywę Komisji 2008/43/WE w sprawie ustanowienia systemu oznaczania i śledzenia materiałów wybuchowych przeznaczonych do użytku cywilnego, zgodnie z dyrektywą Rady 93/15/EWG (Dz. Urz. UE L 50 z 23.02.2012, str. 18). 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 2 listopada 2012 r. w sprawie jednoznacznego oznaczenia materiałów wybuchowych przeznaczonych do użytku cywilnego, oznaczania obiektów produkcyjnych oraz rejestru oznaczeń (Dz. U. poz. 1231), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 170 pkt 6 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. poz. 1214 i 1495).
+Załącznik – Wniosek o nadanie kodu oznaczenia obiektu produkcyjnego, w którym wytwarzane są materiały wybuchowe przeznaczone do użytku cywilnego (wzór)
+patrz oryginał
 

@@ -2,8 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 10 grudnia 1998 r. o zmianie ustaw: o zakładach opieki zdrowotnej, o zawodzie lekarza, o zawodach pielęgniarki i położnej, o szkolnictwie wyższym oraz o zmianie niektórych innych ustaw.*
 
-Łącznie: **4** orzeczeń
-(pominięto 1 orzeczeń sądów rejonowych)
+Łącznie: **3** orzeczeń
 
 ## art. 25 (1)
 
@@ -16,8 +15,4 @@ Orzeczenia powołujące: *Ustawa z dnia 10 grudnia 1998 r. o zmianie ustaw: o za
 ## art. 100 (1)
 
 - 2004-05-12 | SN | [I PK 610/03](https://www.saos.org.pl/judgments/82658) | Wyrok ★
-
-## (ogólnie) (1)
-
-- 2019-01-22 | SO | [VII U 813/18](https://www.saos.org.pl/judgments/428876) | Wyrok
 

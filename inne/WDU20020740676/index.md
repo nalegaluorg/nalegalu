@@ -24,7 +24,8 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2002-05-24 |
 | Data wydania | 2002-06-14 |
-| Ostatnia zmiana | 2026-05-05 |
+| Wejście w życie | 2002-06-29 |
+| Ostatnia zmiana | 2026-05-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020740676) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.pdf) |
 
 Art. 154–220. (pominięte)

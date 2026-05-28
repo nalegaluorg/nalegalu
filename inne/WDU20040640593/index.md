@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2004-03-12 |
 | Data wydania | 2004-04-15 |
+| Wejście w życie | 2004-05-01 |
 | Ostatnia zmiana | 2026-05-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040640593) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/593/text.pdf) |
 
@@ -45,7 +46,9 @@ Art. 135–143. (pominięte)
 
 1. Pomoc społeczna wspiera osoby i rodziny w wysiłkach zmierzających do zaspokojenia niezbędnych potrzeb i umożliwia im życie w warunkach odpowiadających godności człowieka.
 
-2. Zadaniem pomocy społecznej jest zapobieganie sytuacjom, o których mowa w art. 2 ust. 1, przez podejmowanie działań zmierzających do życiowego usamodzielnienia osób i rodzin oraz ich integracji ze środowiskiem. okoliczności uzasadniających udzielenie pomocy.
+2. Zadaniem pomocy społecznej jest zapobieganie sytuacjom, o których mowa w art. 2 ust. 1, przez podejmowanie działań zmierzających do życiowego usamodzielnienia osób i rodzin oraz ich integracji ze środowiskiem.
+
+3. Rodzaj, forma i rozmiar świadczenia powinny być odpowiednie do okoliczności uzasadniających udzielenie pomocy.
 
 4. Potrzeby osób i rodzin korzystających z pomocy powinny zostać uwzględnione, jeżeli odpowiadają celom i mieszczą się w możliwościach pomocy społecznej.
 
@@ -77,7 +80,8 @@ Art. 135–143. (pominięte)
 
 3. Za dochód uważa się sumę miesięcznych przychodów z miesiąca poprzedzającego złożenie wniosku lub w przypadku utraty dochodu z miesiąca, w którym wniosek został złożony, bez względu na tytuł i źródło ich uzyskania, jeżeli ustawa nie stanowi inaczej, pomniejszoną o:
 
-- **1)** miesięczne obciążenie podatkiem dochodowym od osób fizycznych i koszty uzyskania przychodu; opieki zdrowotnej finansowanych ze środków publicznych oraz ubezpieczenia społeczne określone w odrębnych przepisach;
+- **1)** miesięczne obciążenie podatkiem dochodowym od osób fizycznych i koszty uzyskania przychodu;
+- **2)** składki na ubezpieczenie zdrowotne określone w przepisach o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ubezpieczenia społeczne określone w odrębnych przepisach;
 - **3)** kwotę alimentów świadczonych na rzecz innych osób.
 
 4. Do dochodu ustalonego zgodnie z ust. 3 nie wlicza się:
@@ -87,33 +91,33 @@ Art. 135–143. (pominięte)
 - **3)** pomocy materialnej mającej charakter socjalny albo motywacyjny, przyznawanej na podstawie przepisów o systemie oświaty;
 - **4)** wartości świadczenia w naturze;
 - **5)** świadczenia przysługującego bezrobotnemu na podstawie przepisów ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia z tytułu wykonywania prac społecznie użytecznych;
-- **5a)** świadczenia pieniężnego, o którym mowa w ustawie z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych (Dz. U. z 2024 r. poz. 906), i pomocy pieniężnej, o której mowa w art. 19 ust. 2 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2022 r. poz. 2039), w art. 7a ust. 2 ustawy z dnia 2 września 1994 r. o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych (Dz. U. z 2021 r. poz. 1774), w art. 5a ust. 2 ustawy z dnia 31 maja 1996 r. o osobach deportowanych do pracy przymusowej oraz osadzonych w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich (Dz. U. z 2021 r. poz. 1818), w art. 10a ust. 2 ustawy z dnia 16 listopada 2006 r. o świadczeniu pieniężnym i uprawnieniach przysługujących cywilnym niewidomym ofiarom działań wojennych (Dz. U. z 2021 r. poz. 1820) oraz w art. 10 ust. 2 ustawy z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych;
+- **5a)** świadczenia pieniężnego, o którym mowa w ustawie z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych (Dz. U. z 2024 r. poz. 906 oraz z 2026 r. poz. 566), i pomocy pieniężnej, o której mowa w art. 19 ust. 2 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2022 r. poz. 2039 oraz z 2026 r. poz. 26), w art. 7a ust. 2 ustawy z dnia 2 września 1994 r. o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych (Dz. U. z 2021 r. poz. 1774), w art. 5a ust. 2 ustawy z dnia 31 maja 1996 r. o osobach deportowanych do pracy przymusowej oraz osadzonych w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich (Dz. U. z 2021 r. poz. 1818), w art. 10a ust. 2 ustawy z dnia 16 listopada 2006 r. o świadczeniu pieniężnym i uprawnieniach przysługujących cywilnym niewidomym ofiarom działań wojennych (Dz. U. z 2021 r. poz. 1820 oraz z 2026 r. poz. 26) oraz w art. 10 ust. 2 ustawy z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych;
 - **6)** dochodu z powierzchni użytków rolnych poniżej 1 ha przeliczeniowego;
-- **7)** świadczenia wychowawczego, o którym mowa w ustawie z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U. z 2024 r. poz. 1576 oraz z 2025 r. poz. 619); 7 września 2007 r. o Karcie Polaka (Dz. U. z 2023 r. poz. 192 oraz z 2025 r. poz.
-- **621)** ;
+- **7)** świadczenia wychowawczego, o którym mowa w ustawie z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U. z 2026 r. poz.
+- **508)** ;
+- **8)** świadczenia pieniężnego, o którym mowa w art. 8a ust. 1 ustawy z dnia 7 września 2007 r. o Karcie Polaka (Dz. U. z 2026 r. poz. 76);
 - **9)** świadczenia pieniężnego przyznawanego na podstawie art. 9 ustawy z dnia 22 listopada 2018 r. o grobach weteranów walk o wolność i niepodległość Polski (Dz. U. poz. 2529);
-- **10)** nagrody specjalnej Prezesa Rady Ministrów przyznawanej na podstawie art. 31a ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2025 r. poz. 780);
-- **11)** pomocy finansowej przyznawanej repatriantom, o której mowa w ustawie z dnia 9 listopada 2000 r. o repatriacji (Dz. U. z 2022 r. poz. 1105 oraz z 2025 r. poz. 620 i 921);
+- **10)** nagrody specjalnej Prezesa Rady Ministrów przyznawanej na podstawie art. 31a ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2025 r. poz. 780 oraz z 2026 r. poz. 160);
+- **11)** pomocy finansowej przyznawanej repatriantom, o której mowa w ustawie z dnia 9 listopada 2000 r. o repatriacji (Dz. U. z 2026 r. poz. 90);
 - **12)** środków finansowych przyznawanych w ramach działań podejmowanych przez organy publiczne, mających na celu poprawę jakości powietrza lub ochronę środowiska naturalnego;
-- **13)** zwrotu kosztów, o których mowa w art. 39a ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2025 r. poz. 1043);
+- **13)** zwrotu kosztów, o których mowa w art. 39a ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2025 r. poz. 1043, z późn. zm. );
 - **14)** (uchylony)
 - **15)** (uchylony)
-- **16)** kwotę dodatku energetycznego, o którym mowa w art. 5c ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, z późn. zm. );
-- **17)** kwotę dodatku osłonowego, o którym mowa w art. 2 ust. 1 ustawy z dnia 17 grudnia 2021 r. o dodatku osłonowym (Dz. U. z 2024 r. poz. 953);
+- **16)** kwotę dodatku energetycznego, o którym mowa w art. 5c ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2026 r. poz. 43 i 516);
+- **17)** kwotę dodatku osłonowego, o którym mowa w art. 2 ust. 1 ustawy z dnia 17 grudnia 2021 r. o dodatku osłonowym (Dz. U. z 2026 r. poz. 77);
 - **18)** kwoty dodatku węglowego, o którym mowa w art. 2 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym (Dz. U. z 2024 r. poz. 1207);
-- **19)** kwotę dodatku dla gospodarstw domowych z tytułu wykorzystywania niektórych źródeł ciepła, o którym mowa w art. 1 pkt 2 ustawy z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw (Dz. U. z 2024 r. poz. 1509 oraz z 2025 r. poz. 290 i
-- **759)** ;
-- **20)** kwoty dodatku elektrycznego, o którym mowa w art. 27 ust. 1 ustawy z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z 2025 r. poz. 565);
-- **21)** kwoty bonu energetycznego, o którym mowa w art. 2 ustawy z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego (Dz. U. poz. 859 i 1831 oraz z 2025 r. poz. 290);
-- **22)** świadczeń „aktywny rodzic”, o których mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic” (Dz. U. poz. 858 oraz z 2025 r. poz. 619 i 1083);
-- **23)** kwoty bonu ciepłowniczego, o którym mowa w ustawie z dnia 12 września 2025 r. o bonie ciepłowniczym oraz o zmianie niektórych ustaw w celu ograniczenia wysokości cen energii elektrycznej (Dz. U. poz. 1302).
+- **19)** kwotę dodatku dla gospodarstw domowych z tytułu wykorzystywania niektórych źródeł ciepła, o którym mowa w art. 1 pkt 2 ustawy z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw (Dz. U. z 2024 r. poz. 1509 oraz z 2025 r. poz. 290 i 759);
+- **20)** kwoty dodatku elektrycznego, o którym mowa w art. 27 ust. 1 ustawy z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej (Dz. U. z 2024 r. poz. 1288 i 1831 oraz z 2025 r. poz. 565 i 1812);
+- **21)** kwoty bonu energetycznego, o którym mowa w art. 2 ustawy z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego (Dz. U. z 2026 r. poz. 21);
+- **22)** świadczeń „aktywny rodzic”, o których mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic” (Dz. U. z 2026 r. poz. 532);
+- **23)** kwoty bonu ciepłowniczego, o którym mowa w ustawie z dnia 12 września 2025 r. o bonie ciepłowniczym oraz o zmianie niektórych ustaw w celu ograniczenia wysokości cen energii elektrycznej (Dz. U. poz. 1302 oraz z 2026 r. poz. 32).
 
-4a. W przypadku dochodu ustalonego zgodnie z ust. 3 i 4 na potrzeby ustalenia prawa do świadczenia pieniężnego oraz opłaty wnoszonej przez osoby, o których mowa w art. 61 ust. 2 pkt 2, w dochodzie osoby lub rodziny nie uwzględnia się świadczenia uzupełniającego, o którym mowa w art. 1 ust. 1 ustawy z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. z 2024 r. poz. 1649).
+4a. W przypadku dochodu ustalonego zgodnie z ust. 3 i 4 na potrzeby ustalenia prawa do świadczenia pieniężnego oraz opłaty wnoszonej przez osoby, o których mowa w art. 61 ust. 2 pkt 2, w dochodzie osoby lub rodziny nie uwzględnia się świadczenia uzupełniającego, o którym mowa w art. 1 ust. 1 ustawy z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. z 2024 r. poz. 1649, z 2025 r. poz. 1302 oraz z 2026 r. poz. 26).
 
 5. W stosunku do osób prowadzących pozarolniczą działalność gospodarczą:
 
 - **1)** opodatkowaną podatkiem dochodowym od osób fizycznych na zasadach określonych w przepisach o podatku dochodowym od osób fizycznych – za dochód przyjmuje się przychód z tej działalności pomniejszony o koszty uzyskania przychodu, obciążenie podatkiem należnym określonym w przepisach o podatku dochodowym od osób fizycznych i składkami na ubezpieczenie zdrowotne określonymi w przepisach o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, związane z prowadzeniem tej działalności oraz odliczonymi od dochodu składkami na ubezpieczenia społeczne niezaliczonymi do kosztów uzyskania przychodów, określonymi w odrębnych przepisach, z tym że dochód ustala się, dzieląc kwotę dochodu z działalności gospodarczej wykazanego w zeznaniu podatkowym złożonym za poprzedni rok kalendarzowy przez liczbę miesięcy, w których podatnik prowadził działalność, a jeżeli nie prowadził działalności, za dochód przyjmuje się kwotę zadeklarowaną w oświadczeniu tej osoby;
-- **2)** opodatkowaną na zasadach określonych w przepisach o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby osoby.
+- **2)** opodatkowaną na zasadach określonych w przepisach o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne – za dochód przyjmuje się kwotę zadeklarowaną w oświadczeniu tej osoby.
 
 6. W sytuacji gdy podatnik łączy przychody z działalności gospodarczej z innymi przychodami lub rozlicza się wspólnie z małżonkiem, przez podatek należny, o którym mowa w ust. 5 pkt 1, rozumie się podatek wyliczony w takiej proporcji, w jakiej pozostaje dochód podatnika z pozarolniczej działalności gospodarczej wynikający z deklaracji podatkowych do sumy wszystkich wykazanych w nich dochodów.
 
@@ -133,8 +137,9 @@ Art. 135–143. (pominięte)
 
 10. Dochody z pozarolniczej działalności gospodarczej i z ha przeliczeniowych oraz z innych źródeł sumuje się.
 
-11. W przypadku uzyskania w ciągu 12 miesięcy poprzedzających miesiąc złożenia wniosku lub w okresie pobierania świadczenia z pomocy społecznej dochodu jednorazowego przekraczającego pięciokrotnie kwoty: samotnie gospodarującej,
+11. W przypadku uzyskania w ciągu 12 miesięcy poprzedzających miesiąc złożenia wniosku lub w okresie pobierania świadczenia z pomocy społecznej dochodu jednorazowego przekraczającego pięciokrotnie kwoty:
 
+- **1)** kryterium dochodowego osoby samotnie gospodarującej, w przypadku osoby samotnie gospodarującej,
 - **2)** kryterium dochodowego rodziny, w przypadku osoby w rodzinie – kwotę tego dochodu rozlicza się w równych częściach na 12 kolejnych miesięcy, poczynając od miesiąca, w którym dochód został wypłacony.
 
 12. W przypadku uzyskania jednorazowo dochodu należnego za dany okres, kwotę tego dochodu uwzględnia się w dochodzie osoby lub rodziny przez okres, za który uzyskano ten dochód.
@@ -154,13 +159,13 @@ Art. 135–143. (pominięte)
 
 4. Rada Dialogu Społecznego uzgadnia kryteria dochodowe w terminie do dnia 15 czerwca danego roku kalendarzowego.
 
-5. Kwota stanowiąca podstawę ustalenia wysokości pomocy pieniężnej na usamodzielnienie, na kontynuowanie nauki i pomocy na zagospodarowanie w formie rzeczowej, kwoty minimalnego i maksymalnego świadczenia pieniężnego na utrzymanie i pokrycie wydatków związanych z nauką języka polskiego dla cudzoziemców, którzy uzyskali w Rzeczypospolitej Polskiej status uchodźcy, ochronę uzupełniającą lub zezwolenie na pobyt czasowy udzielone w związku z okolicznością, o której mowa w art. 159 ust. 1 pkt 1 lit. c lub d ustawy z dnia 12 grudnia 2013 r. w terminach weryfikacji kryteriów dochodowych o 50 % sumy kwot, o które wzrosły kryterium dochodowe osoby samotnie gospodarującej i kryterium dochodowe na osobę w rodzinie.
+5. Kwota stanowiąca podstawę ustalenia wysokości pomocy pieniężnej na usamodzielnienie, na kontynuowanie nauki i pomocy na zagospodarowanie w formie rzeczowej, kwoty minimalnego i maksymalnego świadczenia pieniężnego na utrzymanie i pokrycie wydatków związanych z nauką języka polskiego dla cudzoziemców, którzy uzyskali w Rzeczypospolitej Polskiej status uchodźcy, ochronę uzupełniającą lub zezwolenie na pobyt czasowy udzielone w związku z okolicznością, o której mowa w art. 159 ust. 1 pkt 1 lit. c lub d ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, a także maksymalna kwota zasiłku stałego ulegają zmianie w terminach weryfikacji kryteriów dochodowych o 50 % sumy kwot, o które wzrosły kryterium dochodowe osoby samotnie gospodarującej i kryterium dochodowe na osobę w rodzinie.
 
 6. Kwota dochodu z 1 ha przeliczeniowego ulega zmianie w terminach weryfikacji kryteriów dochodowych o 25 % sumy kwot, o które wzrosły kryterium dochodowe osoby samotnie gospodarującej i kryterium dochodowe na osobę w rodzinie.
 
 7. Minister właściwy do spraw zabezpieczenia społecznego ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, zweryfikowane kryteria dochodowe oraz kwoty, o których mowa w ust. 5 i 6, do dnia 15 lipca w roku, w którym przeprowadza się weryfikację.
 
-8. W przypadku gdy Rada Dialogu Społecznego nie uzgodni w przewidzianym terminie kryteriów dochodowych, Rada Ministrów ustala nie niższe niż w przedstawionej propozycji kryteria dochodowe oraz kwoty, o których mowa w ust. 5 i 6, w drodze rozporządzenia, w terminie do dnia 15 lipca danego roku.
+8. W przypadku gdy Rada Dialogu Społecznego nie uzgodni w przewidzianym terminie kryteriów dochodowych, Rada Ministrów ustala nieniższe niż w przedstawionej propozycji kryteria dochodowe oraz kwoty, o których mowa w ust. 5 i 6, w drodze rozporządzenia, w terminie do dnia 15 lipca danego roku.
 
 8a. Zweryfikowane kryteria dochodowe oraz kwoty, o których mowa w ust. 5 i 6, obowiązują od dnia 1 stycznia roku następującego po roku, w którym jest przeprowadzana weryfikacja.
 
@@ -168,7 +173,9 @@ Art. 135–143. (pominięte)
 
 **Art. 10.**
 
-1. Przy ustalaniu prawa do zasiłków stałego i okresowego w składzie rodziny nie uwzględnia się dzieci wychowywanych w rodzinie zastępczej lub rodzinnym domu dziecka oraz pełnoletnich wychowanków rodziny zastępczej lub rodzinnego domu dziecka, a do dochodu rodziny nie wlicza się ich dochodów oraz świadczeń na pokrycie kosztów ich utrzymania i dodatków przyznanych na podstawie przepisów o wspieraniu rodziny i systemie pieczy zastępczej. pieniężnej na kontynuowanie nauki do dochodu nie wlicza się pomocy pieniężnej, o której mowa w art. 88 ust. 1.
+1. Przy ustalaniu prawa do zasiłków stałego i okresowego w składzie rodziny nie uwzględnia się dzieci wychowywanych w rodzinie zastępczej lub rodzinnym domu dziecka oraz pełnoletnich wychowanków rodziny zastępczej lub rodzinnego domu dziecka, a do dochodu rodziny nie wlicza się ich dochodów oraz świadczeń na pokrycie kosztów ich utrzymania i dodatków przyznanych na podstawie przepisów o wspieraniu rodziny i systemie pieczy zastępczej.
+
+2. Przy ustalaniu prawa do pomocy pieniężnej na usamodzielnienie oraz pomocy pieniężnej na kontynuowanie nauki do dochodu nie wlicza się pomocy pieniężnej, o której mowa w art. 88 ust. 1.
 
 3. (uchylony)
 
@@ -187,7 +194,7 @@ Art. 135–143. (pominięte)
 
 3. W przypadku odmowy przyznania albo ograniczenia wysokości lub rozmiaru świadczeń z pomocy społecznej należy uwzględnić sytuację osób będących na utrzymaniu osoby ubiegającej się o świadczenie lub korzystającej ze świadczeń.
 
-**Art. 12.** W przypadku stwierdzonych przez pracownika socjalnego dysproporcji między udokumentowaną wysokością dochodu a sytuacją majątkową osoby lub rodziny, wskazującą, że osoba ta lub rodzina jest w stanie przezwyciężyć trudną sytuację życiową, wykorzystując własne zasoby majątkowe, w szczególności przedmiotów majątkowych lub nieruchomości, można odmówić przyznania świadczenia.
+**Art. 12.** W przypadku stwierdzonych przez pracownika socjalnego dysproporcji między udokumentowaną wysokością dochodu a sytuacją majątkową osoby lub rodziny, wskazującą, że osoba ta lub rodzina jest w stanie przezwyciężyć trudną sytuację życiową, wykorzystując własne zasoby majątkowe, w szczególności w przypadku posiadania znacznych zasobów finansowych, wartościowych przedmiotów majątkowych lub nieruchomości, można odmówić przyznania świadczenia.
 
 **Art. 13.**
 
@@ -197,13 +204,13 @@ Art. 135–143. (pominięte)
 
 2. Osobie tymczasowo aresztowanej zawiesza się prawo do świadczeń z pomocy społecznej. Za okres tymczasowego aresztowania nie udziela się świadczeń.
 
-3. Przepisów ust. 1 i 2 nie stosuje się do świadczenia w formie pracy socjalnej. Praca socjalna może być świadczona na rzecz osoby, której pozostało nie więcej niż 3 miesiące do planowanego opuszczenia zakładu karnego albo aresztu śledczego.
+3. Przepisów ust. 1 i 2 nie stosuje się do świadczenia w formie pracy socjalnej. Praca socjalna może być świadczona na rzecz osoby, której pozostało niewięcej niż 3 miesiące do planowanego opuszczenia zakładu karnego albo aresztu śledczego.
 
 4. Praca socjalna na rzecz osoby, o której mowa w ust. 3, jest świadczona przez pracownika socjalnego zatrudnionego w zakładzie karnym, w areszcie śledczym lub w gminie właściwej miejscowo ze względu na deklarowane przez tę osobę miejsce jej zamieszkania. W przypadku osoby bezdomnej stosuje się przepis art. 101 ust. 2.
 
 5. W szczególnie uzasadnionych przypadkach, na wniosek pracownika socjalnego gminy właściwej do świadczenia pracy socjalnej na rzecz osoby, o której mowa w ust. 3, pracownik socjalny gminy właściwej ze względu na miejsce położenia zakładu karnego lub aresztu śledczego jest obowiązany do udzielenia pomocy temu pracownikowi.
 
-**Art. 14.** W sprawach nieuregulowanych w ustawie stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769), jeżeli ustawa nie stanowi inaczej.
+**Art. 14.** W sprawach nieuregulowanych w ustawie stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691), jeżeli ustawa nie stanowi inaczej.
 
 #### Rozdział 2 Zadania pomocy społecznej
 
@@ -237,10 +244,11 @@ Art. 135–143. (pominięte)
 - **2)** prognozę zmian w zakresie objętym strategią;
 - **3)** określenie:
     - **a)** celów strategicznych projektowanych zmian,
+    - **b)** kierunków niezbędnych działań,
     - **c)** sposobu realizacji strategii oraz jej ram finansowych,
     - **d)** wskaźników realizacji działań.
 
-3. Strategia, o której mowa w ust. 1, opracowana przez gminę i powiat określa usługi społeczne w zakresie, o którym mowa w art. 2 ust. 1 pkt 1–14 ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych, oraz zadania publiczne, o których mowa w art. 4 ust. 1 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491, 1761 i 1940), zlecane w trybach, o których mowa w tej ustawie.
+3. Strategia, o której mowa w ust. 1, opracowana przez gminę i powiat określa usługi społeczne w zakresie, o którym mowa w art. 2 ust. 1 pkt 1–14 ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych, oraz zadania publiczne, o których mowa w art. 4 ust. 1 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2025 r. poz. 1338), zlecane w trybach, o których mowa w tej ustawie.
 
 **Art. 17.**
 
@@ -256,7 +264,8 @@ Art. 135–143. (pominięte)
 - **8)** przyznawanie zasiłków celowych w formie biletu kredytowanego;
 - **9)** opłacanie składek na ubezpieczenia emerytalne i rentowe za osobę, która zrezygnuje z zatrudnienia w związku z koniecznością sprawowania bezpośredniej, osobistej opieki nad długotrwale lub ciężko chorym członkiem rodziny oraz wspólnie niezamieszkującymi matką, ojcem lub rodzeństwem;
 - **10)** praca socjalna;
-- **11)** organizowanie i świadczenie usług opiekuńczych, w tym specjalistycznych, w miejscu zamieszkania, z wyłączeniem specjalistycznych usług opiekuńczych dla osób z zaburzeniami psychicznymi oraz usług sąsiedzkich; wspomaganych;
+- **11)** organizowanie i świadczenie usług opiekuńczych, w tym specjalistycznych, w miejscu zamieszkania, z wyłączeniem specjalistycznych usług opiekuńczych dla osób z zaburzeniami psychicznymi oraz usług sąsiedzkich;
+- **12)** prowadzenie i zapewnienie miejsc w mieszkaniach treningowych lub wspomaganych;
 - **13)** (uchylony)
 - **14)** dożywianie dzieci;
 - **15)** sprawienie pogrzebu, w tym osobom bezdomnym;
@@ -277,7 +286,8 @@ Art. 135–143. (pominięte)
 - **3)** prowadzenie i zapewnienie miejsc w domach pomocy społecznej i ośrodkach wsparcia o zasięgu gminnym oraz kierowanie do nich osób wymagających opieki;
 - **3a)** opracowanie i realizacja projektów socjalnych;
 - **3b)** przyznawanie i realizacja usług wsparcia krótkoterminowego w domach pomocy społecznej;
-- **4)** podejmowanie innych zadań z zakresu pomocy społecznej wynikających z rozeznanych potrzeb gminy, w tym tworzenie i realizacja programów osłonowych; pracy oraz informacji o wolnych miejscach pracy, upowszechniania informacji o usługach poradnictwa zawodowego i o szkoleniach.
+- **4)** podejmowanie innych zadań z zakresu pomocy społecznej wynikających z rozeznanych potrzeb gminy, w tym tworzenie i realizacja programów osłonowych;
+- **5)** współpraca z powiatowym urzędem pracy w zakresie upowszechniania ofert pracy oraz informacji o wolnych miejscach pracy, upowszechniania informacji o usługach poradnictwa zawodowego i o szkoleniach.
 
 **Art. 18.**
 
@@ -294,7 +304,9 @@ Art. 135–143. (pominięte)
 - **9)** wypłacanie wynagrodzenia za sprawowanie opieki;
 - **10)** zapewnienie utrzymania oraz rozwoju systemu teleinformatycznego, a także sporządzanie sprawozdawczości i przekazywanie jej właściwemu wojewodzie, w formie dokumentu elektronicznego, z zastosowaniem systemu teleinformatycznego.
 
-2. Środki na realizację i obsługę zadań, o których mowa w ust. 1 pkt 1–9, zapewnia budżet państwa. budżet państwa.
+2. Środki na realizację i obsługę zadań, o których mowa w ust. 1 pkt 1 –9, zapewnia budżet państwa.
+
+2a. Środki na realizację zadania, o którym mowa w ust. 1 pkt 10, zapewnia budżet państwa.
 
 3. Koszty obsługi zadania, o którym mowa w ust. 1 pkt 9, wynoszą 1,5 % otrzymanej dotacji celowej na wypłacanie wynagrodzeń za sprawowanie opieki.
 
@@ -307,7 +319,8 @@ Art. 135–143. (pominięte)
 - **1)** pomoc cudzoziemcom, którzy uzyskali w Rzeczypospolitej Polskiej status uchodźcy, ochronę uzupełniającą lub zezwolenie na pobyt czasowy udzielone w związku z okolicznością, o której mowa w art. 159 ust. 1 pkt 1 lit. c lub d ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, w zakresie indywidualnego programu integracji, oraz opłacanie za te osoby składek na ubezpieczenie zdrowotne określonych w przepisach o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
 - **2)** prowadzenie i rozwój infrastruktury ośrodków wsparcia dla osób z zaburzeniami psychicznymi;
 - **3)** realizacja zadań wynikających z rządowych programów pomocy społecznej, mających na celu ochronę poziomu życia osób, rodzin i grup społecznych oraz rozwój specjalistycznego wsparcia;
-- **4)** udzielanie cudzoziemcom i osobom, o których mowa w art. 5a, pomocy w zakresie interwencji kryzysowej; sporządzanie sprawozdawczości i przekazywanie jej właściwemu wojewodzie, w formie dokumentu elektronicznego, z zastosowaniem systemu teleinformatycznego.
+- **4)** udzielanie cudzoziemcom i osobom, o których mowa w art. 5a, pomocy w zakresie interwencji kryzysowej;
+- **4a)** zapewnienie utrzymania oraz rozwoju systemu teleinformatycznego, a także sporządzanie sprawozdawczości i przekazywanie jej właściwemu wojewodzie, w formie dokumentu elektronicznego, z zastosowaniem systemu teleinformatycznego.
 - **5)** (uchylony)
 - **6)** (uchylony)
 
@@ -334,7 +347,7 @@ Art. 135–143. (pominięte)
 - **7)** opracowywanie i finansowanie programów osłonowych;
 - **7a)** finansowe wspieranie programów w określonym przez ministra obszarze pomocy społecznej, realizowanych przez jednostki samorządu terytorialnego lub podmioty uprawnione, o których mowa w art. 25 ust. 1;
 - **8)** (uchylony)
-- **9)** określanie zadań administracji publicznej w zakresie utrzymania i rozwoju systemu teleinformatycznego w jednostkach organizacyjnych pomocy sprawowanie nadzoru nad funkcjonowaniem tego systemu;
+- **9)** określanie zadań administracji publicznej w zakresie utrzymania i rozwoju systemu teleinformatycznego w jednostkach organizacyjnych pomocy społecznej w województwach, przekazywanie środków na finansowanie oraz sprawowanie nadzoru nad funkcjonowaniem tego systemu;
 - **10)** współdziałanie z organizacjami pozarządowymi.
 
 1a. Do wyboru programów, o których mowa w ust. 1 pkt 7a, stosuje się odpowiednio przepisy ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie.
@@ -345,11 +358,13 @@ Art. 135–143. (pominięte)
 
 3. Minister właściwy do spraw zabezpieczenia społecznego, w porozumieniu z ministrem właściwym do spraw informatyzacji, określi, w drodze rozporządzenia:
 
-- **1)** opis systemów teleinformatycznych, o których mowa w art. 18 ust. 1 pkt 10, art. 20 ust. 1 pkt 4a, art. 21 pkt 7 i art. 22 pkt 12, stosowanych w jednostkach organizacyjnych pomocy społecznej, zawierający strukturę systemu, wymaganą minimalną funkcjonalność systemu oraz zakres komunikacji między elementami struktury systemu, w tym zestawienie struktur dokumentów elektronicznych, formatów danych oraz protokołów komunikacyjnych i szyfrujących, o których mowa w art. 13 ust. 2 pkt 2 lit. a ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557 i 1717 oraz z 2025 r. poz. 1006 i 1019),
+- **1)** opis systemów teleinformatycznych, o których mowa w art. 18 ust. 1 pkt 10, art. 20 ust. 1 pkt 4a, art. 21 pkt 7 i art. 22 pkt 12, stosowanych w jednostkach organizacyjnych pomocy społecznej, zawierający strukturę systemu, wymaganą minimalną funkcjonalność systemu oraz zakres komunikacji między elementami struktury systemu, w tym zestawienie struktur dokumentów elektronicznych, formatów danych oraz protokołów komunikacyjnych i szyfrujących, o których mowa w art. 13 ust. 2 pkt 2 lit. a ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703 oraz z 2026 r. poz. 160),
 - **2)** wymagania standaryzujące w zakresie bezpieczeństwa, wydajności i rozwoju systemu,
 - **3)** sposób postępowania w zakresie stwierdzania zgodności oprogramowania z opisem systemu – mając na uwadze zapewnienie jednorodności zakresu i rodzaju danych, która umożliwi ich scalanie w zbiór centralny, a także zachowanie zgodności z minimalnymi wymaganiami i sposobem stwierdzania zgodności oprogramowania, określonymi na podstawie ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
-4. W przypadku gdy realizacja zadań określonych w ustawie jest związana z przekazywaniem informacji za pomocą systemu teleinformatycznego, podmioty obowiązane do przekazywania tych informacji na podstawie ustawy używają oprogramowania, które jest zgodne z wymaganiami określonymi przez ministra właściwego do spraw zabezpieczenia społecznego w przepisach wydanych na podstawie ust. 3. rejestr centralny obejmujący dane dotyczące jednostek organizacyjnych pomocy społecznej, w tym dane o każdym czynie, o którym mowa w art. 222, art. 223 lub art. 226 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383), popełnionym wobec pracownika socjalnego, a także dane dotyczące osób i rodzin ubiegających się o świadczenia z pomocy społecznej lub korzystających z tych świadczeń oraz form udzielonej pomocy społecznej, gromadzone przez jednostki organizacyjne pomocy społecznej na podstawie przepisów ustawy, oraz przetwarza te dane w celu realizacji zadań, o których mowa w ust. 1. Jednostki organizacyjne pomocy społecznej przekazują dane do rejestru centralnego, wykorzystując oprogramowanie, o którym mowa w ust. 4.
+4. W przypadku gdy realizacja zadań określonych w ustawie jest związana z przekazywaniem informacji za pomocą systemu teleinformatycznego, podmioty obowiązane do przekazywania tych informacji na podstawie ustawy używają oprogramowania, które jest zgodne z wymaganiami określonymi przez ministra właściwego do spraw zabezpieczenia społecznego w przepisach wydanych na podstawie ust. 3.
+
+4a. Minister właściwy do spraw zabezpieczenia społecznego prowadzi i rozwija rejestr centralny obejmujący dane dotyczące jednostek organizacyjnych pomocy społecznej, w tym dane o każdym czynie, o którym mowa w art. 222, art. 223 lub art. 226 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872), popełnionym wobec pracownika socjalnego, a także dane dotyczące osób i rodzin ubiegających się o świadczenia z pomocy społecznej lub korzystających z tych świadczeń oraz form udzielonej pomocy społecznej, gromadzone przez jednostki organizacyjne pomocy społecznej na podstawie przepisów ustawy, oraz przetwarza te dane w celu realizacji zadań, o których mowa w ust. 1. Jednostki organizacyjne pomocy społecznej przekazują dane do rejestru centralnego, wykorzystując oprogramowanie, o którym mowa w ust. 4.
 
 5. Minister właściwy do spraw zabezpieczenia społecznego, realizując zadania określone w ustawie związane z przekazywaniem informacji za pomocą środków komunikacji elektronicznej, uwzględnia zasadę równego traktowania wszystkich powszechnie użytkowanych w kraju systemów operacyjnych oraz uwzględnia potrzebę umożliwienia wszystkim podmiotom obowiązanym do przechowywania informacji w formie dokumentu elektronicznego, stosowania oprogramowania dostosowanego do używanych systemów teleinformatycznych.
 
@@ -370,6 +385,7 @@ Art. 135–143. (pominięte)
 - **2)** dacie urodzenia;
 - **3)** adresie miejsca zamieszkania lub pobytu lub zameldowania na pobyt stały;
 - **4)** miejscu zamieszkania lub pobytu;
+- **5)** numerze PESEL;
 - **6)** numerze dokumentu potwierdzającego tożsamość;
 - **7)** płci;
 - **8)** stanie cywilnym;
@@ -394,9 +410,10 @@ Art. 135–143. (pominięte)
 
 3. Prawo dostępu do informacji, o których mowa w ust. 2, oraz ich przetwarzania mają:
 
-- **1)** ośrodek pomocy społecznej oraz powiatowe centrum pomocy rodzinie – w celu weryfikacji danych dotyczących osób ubiegających się o świadczenia z pomocy społecznej, osób korzystających z tych świadczeń oraz członków ich rodzin; status uchodźcy, ochronę uzupełniającą lub zezwolenie na pobyt czasowy udzielone w związku z okolicznością, o której mowa w art. 159 ust. 1 pkt 1 lit. c lub d ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach – w celu koordynowania działań w zakresie integracji cudzoziemców;
-- **3)** organ właściwy, o którym mowa w art. 3 pkt 11 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2024 r. poz. 323, 858, 1615 i 1871 oraz z 2025 r. poz. 619 i 620), i wojewoda – w celu weryfikacji danych dotyczących osób ubiegających się o świadczenia rodzinne, osób pobierających świadczenia rodzinne oraz członków ich rodzin;
-- **4)** organ właściwy dłużnika, o którym mowa w art. 2 pkt 9 ustawy z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2025 r. poz. 438 i 620), i organ właściwy wierzyciela, o którym mowa w art. 2 pkt 10 tej ustawy – w celu weryfikacji danych dotyczących osób ubiegających się o świadczenia z funduszu alimentacyjnego, osób pobierających świadczenia z funduszu alimentacyjnego i członków ich rodzin oraz danych dotyczących dłużników alimentacyjnych;
+- **1)** ośrodek pomocy społecznej oraz powiatowe centrum pomocy rodzinie – w celu weryfikacji danych dotyczących osób ubiegających się o świadczenia z pomocy społecznej, osób korzystających z tych świadczeń oraz członków ich rodzin;
+- **2)** wojewoda w stosunku do osób, które uzyskały w Rzeczypospolitej Polskiej status uchodźcy, ochronę uzupełniającą lub zezwolenie na pobyt czasowy udzielone w związku z okolicznością, o której mowa w art. 159 ust. 1 pkt 1 lit. c lub d ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach – w celu koordynowania działań w zakresie integracji cudzoziemców;
+- **3)** organ właściwy, o którym mowa w art. 3 pkt 11 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2025 r. poz. 1208 oraz z 2026 r. poz. 203), i wojewoda – w celu weryfikacji danych dotyczących osób ubiegających się o świadczenia rodzinne, osób pobierających świadczenia rodzinne oraz członków ich rodzin;
+- **4)** organ właściwy dłużnika, o którym mowa w art. 2 pkt 9 ustawy z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2026 r. poz. 79), i organ właściwy wierzyciela, o którym mowa w art. 2 pkt 10 tej ustawy – w celu weryfikacji danych dotyczących osób ubiegających się o świadczenia z funduszu alimentacyjnego, osób pobierających świadczenia z funduszu alimentacyjnego i członków ich rodzin oraz danych dotyczących dłużników alimentacyjnych;
 - **4a)** (uchylony)
 - **5)** Zakład Ubezpieczeń Społecznych – w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie wychowawcze, o którym mowa w ustawie z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci, osób pobierających to świadczenie oraz członków ich rodzin;
 - **6)** organ realizujący świadczenie dobry start – w celu weryfikacji danych dotyczących osób ubiegających się o to świadczenie, osób pobierających to świadczenie oraz członków ich rodzin;
@@ -404,7 +421,7 @@ Art. 135–143. (pominięte)
 
 3a. Prawo dostępu do informacji, o których mowa w ust. 2 pkt 19, oraz ich przetwarzania ma także minister właściwy do spraw zabezpieczenia społecznego w celu umożliwienia podmiotom wymienionym w ust. 3 weryfikacji danych dotyczących osób ubiegających się o świadczenia z pomocy społecznej, osób korzystających z tych świadczeń oraz członków ich rodzin.
 
-3b. Minister właściwy do spraw zabezpieczenia społecznego, w celu realizacji zadania, o którym mowa w ust. 3a, przekazuje drogą elektroniczną jednostkom w ust. 2 pkt 19 lit. a i b.
+3b. Minister właściwy do spraw zabezpieczenia społecznego, w celu realizacji zadania, o którym mowa w ust. 3a, przekazuje drogą elektroniczną jednostkom organizacyjnym Zakładu Ubezpieczeń Społecznych informacje, o których mowa w ust. 2 pkt 19 lit. a i b.
 
 4. Minister właściwy do spraw zabezpieczenia społecznego przechowuje informacje w rejestrze centralnym, o którym mowa w art. 23 ust. 4a, przez okres 10 lat od dnia zaprzestania udzielania świadczeń, z wyjątkiem informacji dotyczących osób, którym świadczenie nie zostało przyznane, które przechowuje się przez okres 1 roku od dnia, w którym decyzja w sprawie świadczenia stała się ostateczna, lub od dnia pozostawienia wniosku o ustalenie prawa do świadczenia bez rozpatrzenia.
 
@@ -424,7 +441,9 @@ Art. 135–143. (pominięte)
 
 4. Dofinansowanie wynagrodzeń, o którym mowa w ust. 3, może być wypłacane także w formie dodatku motywacyjnego.
 
-5. Program, o którym mowa w ust. 3, Rada Ministrów przyjmuje w drodze uchwały. z budżetu państwa.
+5. Program, o którym mowa w ust. 3, Rada Ministrów przyjmuje w drodze uchwały.
+
+6. Program, o którym mowa w ust. 3, jest finansowany z dotacji celowej z budżetu państwa.
 
 7. Do udzielania dotacji celowej z budżetu państwa na realizację programu, o którym mowa w ust. 3, stosuje się przepis art. 115 ust. 2.
 
@@ -452,7 +471,9 @@ Art. 135–143. (pominięte)
 
 5. Do zlecania zadań, o których mowa w ust. 1, stosuje się przepisy ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie.
 
-6. Zlecenie realizacji zadań z zakresu pomocy społecznej, o którym mowa w ust. 1, nie wyłącza możliwości zawierania umów o partnerstwie publiczno-prywatnym w rozumieniu ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 1637), których przedmiotem jest budowa, miesięcznego kosztu utrzymania w domu pomocy społecznej nie wlicza się wynagrodzenia partnera prywatnego za budowę, remont, utrzymanie i wyposażenie domu pomocy społecznej.
+6. Zlecenie realizacji zadań z zakresu pomocy społecznej, o którym mowa w ust. 1, nie wyłącza możliwości zawierania umów o partnerstwie publiczno-prywatnym w rozumieniu ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 1637 oraz z 2026 r. poz.
+
+- **426)** , których przedmiotem jest budowa, remont, utrzymanie lub wyposażenie domów pomocy społecznej. Do średniego miesięcznego kosztu utrzymania w domu pomocy społecznej nie wlicza się wynagrodzenia partnera prywatnego za budowę, remont, utrzymanie i wyposażenie domu pomocy społecznej.
 
 7. Podmioty uprawnione, którym zlecono realizację zadania z zakresu pomocy społecznej, a w przypadku wykonywania zleconego zadania poprzez jednostki organizacyjne pomocy społecznej – te jednostki, są administratorami danych osobowych przetwarzanych w celu udzielania świadczeń z pomocy społecznej przez te podmioty i jednostki.
 
@@ -484,6 +505,26 @@ Art. 135–143. (pominięte)
 
 **Art. 36.** Świadczeniami z pomocy społecznej są:
 
+**Art. 37.**
+
+1. Zasiłek stały przysługuje:
+
+- **1)** pełnoletniej osobie samotnie gospodarującej, niezdolnej do pracy z powodu wieku lub całkowicie niezdolnej do pracy, jeżeli jej dochód jest niższy od kryterium dochodowego osoby samotnie gospodarującej;
+- **2)** pełnoletniej osobie pozostającej w rodzinie, niezdolnej do pracy z powodu wieku lub całkowicie niezdolnej do pracy, jeżeli jej dochód, jak również dochód na osobę w rodzinie są niższe od kryterium dochodowego na osobę w rodzinie.
+
+2. Zasiłek stały ustala się w wysokości:
+
+- **1)** w przypadku osoby samotnie gospodarującej – różnicy między kwotą stanowiącą 130 % kryterium dochodowego osoby samotnie gospodarującej a dochodem tej osoby, z tym że kwota zasiłku nie może być wyższa niż 1000 zł miesięcznie;
+- **2)** w przypadku osoby w rodzinie – różnicy między kwotą stanowiącą 130 % kryterium dochodowego na osobę w rodzinie a dochodem na osobę w rodzinie.
+
+3. Kwota zasiłku stałego nie może być niższa niż 100 zł miesięcznie.
+
+4. W przypadku zbiegu uprawnień do zasiłku stałego i renty socjalnej, świadczenia pielęgnacyjnego, specjalnego zasiłku opiekuńczego, dodatku z tytułu samotnego wychowywania dziecka i utraty prawa do zasiłku dla bezrobotnych na skutek upływu ustawowego okresu jego pobierania lub zasiłku dla opiekuna, zasiłek stały nie przysługuje.
+
+5. Osobę przebywającą w domu pomocy społecznej lub ubiegającą się o przyjęcie do niego uznaje się za osobę samotnie gospodarującą, jeżeli przed przyjęciem do domu pomocy społecznej lub rozpoczęciem oczekiwania na miejsce w takim domu była uprawniona do zasiłku stałego.
+
+6. Przy ustalaniu uprawnienia oraz wysokości zasiłku stałego do dochodu nie wlicza się kwoty zasiłku okresowego.
+
 **Art. 38.**
 
 1. Zasiłek okresowy przysługuje w szczególności ze względu na długotrwałą chorobę, niepełnosprawność, bezrobocie, możliwość utrzymania lub nabycia uprawnień do świadczeń z innych systemów zabezpieczenia społecznego:
@@ -493,7 +534,7 @@ Art. 135–143. (pominięte)
 
 2. Zasiłek okresowy ustala się:
 
-- **1)** w przypadku osoby samotnie gospodarującej – do wysokości różnicy między kryterium dochodowym osoby samotnie gospodarującej a dochodem tej osoby, dochodowego na osobę w rodzinie;
+- **1)** w przypadku osoby samotnie gospodarującej – do wysokości różnicy między kryterium dochodowym osoby samotnie gospodarującej a dochodem tej osoby, z tym że miesięczna kwota zasiłku nie może być wyższa niż kwota kryterium dochodowego na osobę w rodzinie;
 - **2)** w przypadku rodziny – do wysokości różnicy między kryterium dochodowym rodziny a dochodem tej rodziny.
 
 3. Kwota zasiłku okresowego ustalona zgodnie z ust. 2 nie może być niższa niż 50 % różnicy między:
@@ -503,9 +544,9 @@ Art. 135–143. (pominięte)
 
 4. Kwota zasiłku okresowego nie może być niższa niż 20 zł miesięcznie.
 
-4a. W przypadku podjęcia zatrudnienia przez osobę objętą kontraktem socjalnym pobierającą zasiłek okresowy, może być on wypłacany nadal niezależnie od dochodu, do dnia wynikającego z decyzji przyznającej zasiłek okresowy, nie dłużej jednak niż do 2 miesięcy od dnia, w którym osoba została zatrudniona.
+4a. W przypadku podjęcia zatrudnienia przez osobę objętą kontraktem socjalnym pobierającą zasiłek okresowy, może być on wypłacany nadal niezależnie od dochodu, do dnia wynikającego z decyzji przyznającej zasiłek okresowy, niedłużej jednak niż do 2 miesięcy od dnia, w którym osoba została zatrudniona.
 
-4b. Zasiłek okresowy jest wypłacany niezależnie od dochodu w sytuacji określonej w ust. 4a nie częściej niż raz na 2 lata.
+4b. Zasiłek okresowy jest wypłacany niezależnie od dochodu w sytuacji określonej w ust. 4a nieczęściej niż raz na 2 lata.
 
 5. Okres, na jaki jest przyznawany zasiłek okresowy, ustala ośrodek pomocy społecznej na podstawie okoliczności sprawy.
 
@@ -523,7 +564,9 @@ Art. 135–143. (pominięte)
 
 **Art. 39a.**
 
-1. Zasiłek celowy może być przyznany również w celu realizacji postanowień kontraktu socjalnego. dochodu, przez okres do 2 miesięcy od dnia, w którym osoba objęta kontraktem socjalnym, w trakcie jego realizacji, stała się osobą zatrudnioną.
+1. Zasiłek celowy może być przyznany również w celu realizacji postanowień kontraktu socjalnego.
+
+2. Zasiłek celowy, o którym mowa w ust. 1, może być wypłacany niezależnie od dochodu, przez okres do 2 miesięcy od dnia, w którym osoba objęta kontraktem socjalnym, w trakcie jego realizacji, stała się osobą zatrudnioną.
 
 **Art. 40.**
 
@@ -549,7 +592,8 @@ Art. 135–143. (pominięte)
 - **2)** dokumentu potwierdzającego koszty pogrzebu, a jeżeli rachunki zostały złożone w banku lub Zakładzie Ubezpieczeń Społecznych – kopie rachunków, potwierdzone przez bank za zgodność z oryginałem;
 - **3)** oświadczenia o pokryciu kosztów pogrzebu albo o zobowiązaniu się do ich pokrycia, w całości albo w części;
 - **4)** oświadczenia, że po osobie zmarłej nie wypłacono świadczenia od innej instytucji lub osoby oraz że zmarły członek rodziny nie posiadał środków finansowych pozwalających na pokrycie zwiększonych kosztów pogrzebu;
-- **5)** zobowiązania się osoby ubiegającej się o zasiłek do zwrotu części albo całości kwoty zasiłku: instytucji lub osoby, z wyłączeniem zasiłku pogrzebowego,
+- **5)** zobowiązania się osoby ubiegającej się o zasiłek do zwrotu części albo całości kwoty zasiłku:
+    - **a)** jeżeli tej osobie zostanie wypłacone po osobie zmarłej świadczenie od innej instytucji lub osoby, z wyłączeniem zasiłku pogrzebowego,
     - **b)** z masy spadkowej, jeżeli osoba ta jest spadkobiercą;
 
 - **6)** informacji o numerze posiadanego rachunku bankowego, jeżeli wypłata zasiłku ma być dokonana na rachunek bankowy.
@@ -566,13 +610,13 @@ Art. 135–143. (pominięte)
 
 **Art. 42.**
 
-1. Za osobę, która zrezygnuje z zatrudnienia w związku z koniecznością sprawowania bezpośredniej, osobistej opieki nad długotrwale lub ciężko chorym członkiem rodziny oraz wspólnie niezamieszkującymi matką, ojcem lub rodzeństwem, ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrum usług społecznych, opłaca składkę na ubezpieczenia emerytalne i rentowe od kwoty kryterium dochodowego na osobę w rodzinie, jeżeli dochód na osobę w rodzinie osoby opiekującej się nie przekracza 150 % kwoty kryterium dochodowego na osobę w rodzinie i osoba opiekująca się nie podlega obowiązkowo ubezpieczeniom Dotyczy to również osób, które w związku z koniecznością sprawowania opieki pozostają na bezpłatnym urlopie.
+1. Za osobę, która zrezygnuje z zatrudnienia w związku z koniecznością sprawowania bezpośredniej, osobistej opieki nad długotrwale lub ciężko chorym członkiem rodziny oraz wspólnie niezamieszkującymi matką, ojcem lub rodzeństwem, ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrum usług społecznych, opłaca składkę na ubezpieczenia emerytalne i rentowe od kwoty kryterium dochodowego na osobę w rodzinie, jeżeli dochód na osobę w rodzinie osoby opiekującej się nie przekracza 150 % kwoty kryterium dochodowego na osobę w rodzinie i osoba opiekująca się nie podlega obowiązkowo ubezpieczeniom emerytalnemu i rentowym z innych tytułów lub nie otrzymuje emerytury albo renty. Dotyczy to również osób, które w związku z koniecznością sprawowania opieki pozostają na bezpłatnym urlopie.
 
 2. Przez ojca i matkę, o których mowa w ust. 1, należy rozumieć również ojca i matkę współmałżonka.
 
-3. Konieczność sprawowania bezpośredniej, osobistej opieki nad osobami, o których mowa w ust. 1, stwierdza lekarz ubezpieczenia zdrowotnego w zaświadczeniu wydanym nie wcześniej niż na 14 dni przed złożeniem wniosku o przyznanie świadczenia.
+3. Konieczność sprawowania bezpośredniej, osobistej opieki nad osobami, o których mowa w ust. 1, stwierdza lekarz ubezpieczenia zdrowotnego w zaświadczeniu wydanym niewcześniej niż na 14 dni przed złożeniem wniosku o przyznanie świadczenia.
 
-4. Składka na ubezpieczenia emerytalne i rentowe w wysokości określonej przepisami o systemie ubezpieczeń społecznych jest opłacana przez okres sprawowania opieki, nie dłużej jednak niż przez okres niezbędny do uzyskania okresu ubezpieczenia (składkowego i nieskładkowego) wynoszącego 20 lat dla kobiet i 25 lat dla mężczyzn.
+4. Składka na ubezpieczenia emerytalne i rentowe w wysokości określonej przepisami o systemie ubezpieczeń społecznych jest opłacana przez okres sprawowania opieki, niedłużej jednak niż przez okres niezbędny do uzyskania okresu ubezpieczenia (składkowego i nieskładkowego) wynoszącego 20 lat dla kobiet i 25 lat dla mężczyzn.
 
 5. Składka na ubezpieczenia emerytalne i rentowe nie przysługuje osobie, która w dniu złożenia wniosku o przyznanie świadczenia:
 
@@ -591,7 +635,7 @@ Art. 135–143. (pominięte)
 
 4. Pożyczka może być umorzona w całości lub w części, jeżeli przyczyni się to do szybszego osiągnięcia celów pomocy społecznej.
 
-5. Pomoc w formie rzeczowej w celu ekonomicznego usamodzielnienia następuje przez udostępnienie maszyn i narzędzi pracy stwarzających możliwość niepełnosprawnym.
+5. Pomoc w formie rzeczowej w celu ekonomicznego usamodzielnienia następuje przez udostępnienie maszyn i narzędzi pracy stwarzających możliwość zorganizowania własnego warsztatu pracy oraz urządzeń ułatwiających pracę niepełnosprawnym.
 
 6. Przedmioty, o których mowa w ust. 5, są udostępniane na podstawie umowy użyczenia.
 
@@ -620,7 +664,9 @@ Art. 135–143. (pominięte)
 
 **Art. 46.**
 
-1. Poradnictwo specjalistyczne, w szczególności prawne, psychologiczne i rodzinne, jest świadczone osobom i rodzinom, które mają trudności lub wykazują potrzebę wsparcia w rozwiązywaniu swoich problemów życiowych, bez względu na posiadany dochód. o obowiązujących przepisach z zakresu prawa rodzinnego i opiekuńczego, zabezpieczenia społecznego, ochrony praw lokatorów.
+1. Poradnictwo specjalistyczne, w szczególności prawne, psychologiczne i rodzinne, jest świadczone osobom i rodzinom, które mają trudności lub wykazują potrzebę wsparcia w rozwiązywaniu swoich problemów życiowych, bez względu na posiadany dochód.
+
+2. Poradnictwo prawne realizuje się przez udzielanie informacji o obowiązujących przepisach z zakresu prawa rodzinnego i opiekuńczego, zabezpieczenia społecznego, ochrony praw lokatorów.
 
 3. Poradnictwo psychologiczne realizuje się przez procesy diagnozowania, profilaktyki i terapii.
 
@@ -644,7 +690,7 @@ Art. 135–143. (pominięte)
 
 3a. Cudzoziemcom i osobom, o których mowa w art. 5a, można udzielić schronienia na okres ważności zaświadczenia, o którym mowa w art. 170 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub na okres ważności zaświadczenia, o którym mowa w art. 41a ust. 1 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin, lub na okres ważności zezwolenia, o którym mowa w art. 176 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach.
 
-4. Matki z małoletnimi dziećmi oraz kobiety w ciąży doznające przemocy domowej lub znajdujące się w innej sytuacji kryzysowej mogą w ramach interwencji kryzysowej znaleźć schronienie i wsparcie w domach dla matek z małoletnimi z małoletnimi dziećmi albo inne osoby sprawujące opiekę prawną nad dziećmi.
+4. Matki z małoletnimi dziećmi oraz kobiety w ciąży doznające przemocy domowej lub znajdujące się w innej sytuacji kryzysowej mogą w ramach interwencji kryzysowej znaleźć schronienie i wsparcie w domach dla matek z małoletnimi dziećmi i kobiet w ciąży. Do tych domów mogą być również przyjmowani ojcowie z małoletnimi dziećmi albo inne osoby sprawujące opiekę prawną nad dziećmi.
 
 5. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, standard obowiązujących podstawowych usług świadczonych przez domy dla matek z małoletnimi dziećmi i kobiet w ciąży oraz tryb kierowania i przyjmowania do takich domów, uwzględniając możliwości odizolowania ubiegających się o pomoc osób od osoby stosującej przemoc domową i przezwyciężenia sytuacji kryzysowej.
 
@@ -662,7 +708,7 @@ Art. 135–143. (pominięte)
 
 2c. W szczególnie uzasadnionych przypadkach osobom bezdomnym, o których mowa w ust. 2b, zapewnia się posiłek lub całodzienne wyżywienie, świadczone w schronisku dla osób bezdomnych z usługami opiekuńczymi.
 
-2d. W szczególnie uzasadnionych przypadkach dopuszcza się przyznanie tymczasowego schronienia w schronisku dla osób bezdomnych z usługami opiekuńczymi osobom bezdomnym, które posiadają decyzję o skierowaniu do domu społecznej, jednak nie dłużej niż przez 4 miesiące.
+2d. W szczególnie uzasadnionych przypadkach dopuszcza się przyznanie tymczasowego schronienia w schronisku dla osób bezdomnych z usługami opiekuńczymi osobom bezdomnym, które posiadają decyzję o skierowaniu do domu pomocy społecznej, przez okres oczekiwania na umieszczenie w domu pomocy społecznej, jednak niedłużej niż przez 4 miesiące.
 
 2e. Jeżeli w schronisku dla osób bezdomnych z usługami opiekuńczymi są przewidziane miejsca dla osób niewymagających usług opiekuńczych, osobie bezdomnej zdolnej do samoobsługi i niewymagającej usług opiekuńczych może być przyznane tymczasowe schronienie w schronisku dla osób bezdomnych z usługami opiekuńczymi. W takim przypadku świadczenie usług osobom bezdomnym zdolnym do samoobsługi i niewymagającym usług opiekuńczych następuje z zastosowaniem przepisów ust. 2, 2a i 2g oraz standardów przewidzianych dla schronisk dla osób bezdomnych.
 
@@ -680,7 +726,7 @@ Art. 135–143. (pominięte)
 - **1)** pracowników socjalnych;
 - **2)** opiekunów posiadających:
     - **a)** kwalifikacje do wykonywania zawodu pielęgniarki, ratownika medycznego, opiekuna w domu pomocy społecznej, opiekuna osoby starszej, asystenta osoby niepełnosprawnej, opiekunki środowiskowej, opiekuna medycznego lub
-    - **b)** co najmniej wykształcenie zasadnicze branżowe lub zasadnicze zawodowe, udokumentowane co najmniej roczne doświadczenie zawodowe polegające wlekle chorym lub osobom w podeszłym wieku oraz ukończone szkolenie z zakresu udzielania pierwszej pomocy.
+    - **b)** co najmniej wykształcenie zasadnicze branżowe lub zasadnicze zawodowe, udokumentowane co najmniej roczne doświadczenie zawodowe polegające na świadczeniu usług opiekuńczych osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku oraz ukończone szkolenie z zakresu udzielania pierwszej pomocy.
 
 3. Noclegownia zapewnia schronienie osobom bezdomnym, świadcząc tymczasową pomoc w postaci miejsca noclegowego, w ramach której umożliwia spędzenie nocy w warunkach gwarantujących ochronę życia i zdrowia.
 
@@ -701,7 +747,9 @@ Art. 135–143. (pominięte)
 
 7. W szczególnie uzasadnionych przypadkach dopuszcza się przebywanie w noclegowni, schronisku dla osób bezdomnych oraz schronisku dla osób bezdomnych z usługami opiekuńczymi osób pod wpływem alkoholu lub substancji psychoaktywnych.
 
-8. Pomoc przyznawana w formie tymczasowego schronienia w ogrzewalni lub noclegowni nie wymaga przeprowadzenia rodzinnego wywiadu środowiskowego oraz wydania decyzji administracyjnej, a wydatki poniesione za udzieloną pomoc nie podlegają zwrotowi. bezdomnych z usługami opiekuńczymi i ogrzewalnia, w celu zaspokojenia niezbędnych potrzeb życiowych związanych z udzielaniem schronienia, powinny spełniać minimalne standardy podstawowych usług i minimalne standardy obiektów, w tym w zakresie odpowiednich warunków higienicznych i sanitarnych oraz odpowiednich warunków do odpoczynku, określone w przepisach wydanych na podstawie ust. 14.
+8. Pomoc przyznawana w formie tymczasowego schronienia w ogrzewalni lub noclegowni nie wymaga przeprowadzenia rodzinnego wywiadu środowiskowego oraz wydania decyzji administracyjnej, a wydatki poniesione za udzieloną pomoc nie podlegają zwrotowi.
+
+8a. Noclegownia, schronisko dla osób bezdomnych, schronisko dla osób bezdomnych z usługami opiekuńczymi i ogrzewalnia, w celu zaspokojenia niezbędnych potrzeb życiowych związanych z udzielaniem schronienia, powinny spełniać minimalne standardy podstawowych usług i minimalne standardy obiektów, w tym w zakresie odpowiednich warunków higienicznych i sanitarnych oraz odpowiednich warunków do odpoczynku, określone w przepisach wydanych na podstawie ust. 14.
 
 9. W sytuacji kryzysowej występującej na skalę masową przyznanie tymczasowego schronienia może nastąpić z pominięciem standardów, o których mowa w ust. 8a, oraz w innej formie niż określona w ust. 1.
 
@@ -723,7 +771,9 @@ Art. 135–143. (pominięte)
 
 - **1)** prowadząca placówkę;
 - **2)** zlecająca na podstawie art. 25 ust. 1 zadanie prowadzenia placówki;
-- **3)** która zawarła umowę z podmiotem niepublicznym na zakup usługi udzielenia tymczasowego schronienia w odpowiedniej formie, w placówce prowadzonej przez podmiot niepubliczny. w terminie 14 dni od dnia ich powstania.
+- **3)** która zawarła umowę z podmiotem niepublicznym na zakup usługi udzielenia tymczasowego schronienia w odpowiedniej formie, w placówce prowadzonej przez podmiot niepubliczny.
+
+11c. Gmina zgłasza wojewodzie wszelkie zmiany danych objętych rejestrem w terminie 14 dni od dnia ich powstania.
 
 11d. Wojewoda na bieżąco aktualizuje zgłoszone dane w rejestrze.
 
@@ -753,7 +803,7 @@ Art. 135–143. (pominięte)
 
 **Art. 49.**
 
-1. Osoba bezdomna może zostać objęta indywidualnym programem wychodzenia z bezdomności, polegającym na wspieraniu osoby bezdomnej niowych, oraz pomocy w uzyskaniu zatrudnienia.
+1. Osoba bezdomna może zostać objęta indywidualnym programem wychodzenia z bezdomności, polegającym na wspieraniu osoby bezdomnej w rozwiązywaniu jej problemów życiowych, w szczególności rodzinnych i mieszkaniowych, oraz pomocy w uzyskaniu zatrudnienia.
 
 2. Indywidualny program wychodzenia z bezdomności jest opracowywany przez pracownika socjalnego ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – przez pracownika socjalnego centrum usług społecznych, wraz z osobą bezdomną i podlega zatwierdzeniu przez kierownika ośrodka, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – przez dyrektora centrum usług społecznych.
 
@@ -765,7 +815,7 @@ Art. 135–143. (pominięte)
 
 6. Indywidualny program wychodzenia z bezdomności powinien uwzględniać sytuację osoby bezdomnej oraz zapewniać szczególne wspieranie osobie aktywnie uczestniczącej w wychodzeniu z bezdomności.
 
-7. Indywidualny program wychodzenia z bezdomności, stosownie do potrzeb osoby bezdomnej, może uwzględniać wszelkie środki pomocy, jakimi dysponuje ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia centrum usług społecznych, realizujące program.
+7. Indywidualny program wychodzenia z bezdomności, stosownie do potrzeb osoby bezdomnej, może uwzględniać wszelkie środki pomocy, jakimi dysponuje ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrum usług społecznych, realizujące program.
 
 8. Za osobę bezdomną objętą indywidualnym programem wychodzenia z bezdomności ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrum usług społecznych, opłaca składkę na ubezpieczenie zdrowotne na zasadach określonych w przepisach o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 
@@ -789,7 +839,8 @@ Art. 135–143. (pominięte)
 
 - **1)** jest pełnoletnia;
 - **2)** nie jest członkiem rodziny osoby, na rzecz której są świadczone usługi sąsiedzkie;
-- **3)** nie jest oddzielnie zamieszkującym małżonkiem, wstępnym ani zstępnym osoby, na rzecz której są świadczone usługi sąsiedzkie; względem psychofizycznym do świadczenia takich usług;
+- **3)** nie jest oddzielnie zamieszkującym małżonkiem, wstępnym ani zstępnym osoby, na rzecz której są świadczone usługi sąsiedzkie;
+- **4)** złożyła organizatorowi usług sąsiedzkich oświadczenie o zdolności pod względem psychofizycznym do świadczenia takich usług;
 - **5)** zamieszkuje w najbliższej okolicy osoby, na rzecz której są świadczone usługi sąsiedzkie;
 - **6)** ukończyła szkolenie z zakresu udzielania pierwszej pomocy;
 - **7)** została zaakceptowana przez osobę, na rzecz której są świadczone usługi sąsiedzkie;
@@ -805,9 +856,13 @@ Art. 135–143. (pominięte)
 
 6b. Rada gminy może postanowić o rozszerzeniu katalogu osób, o których mowa w ust. 1 i 2, o osoby, dla których wsparcie w postaci usług sąsiedzkich będzie miało charakter uzupełniający opiekę sprawowaną przez rodzinę, a także wspólnie niezamieszkującego małżonka, wstępnych i zstępnych.
 
-7. Minister właściwy do spraw zabezpieczenia społecznego w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, rodzaje specjalistycznych usług opiekuńczych i kwalifikacje osób świadczących te usługi oraz warunki i tryb ustalania i pobierania opłat za specjalistyczne usługi opiekuńcze świadczone osobom z zaburzeniami psychicznymi, jak również warunki częściowego lub całkowitego zwolnienia z tych opłat, ze względu na szczególne potrzeby osób korzystających z usług, uwzględniając sytuację materialną tych osób. mowa w art. 50 ust. 1 i 2, w szczególności gdy doszło do nagłego pogorszenia stanu zdrowia lub gdy objęcie osób usługami opiekuńczymi lub specjalistycznymi usługami opiekuńczymi wynika z konieczności zapewnienia takim osobom odpowiedniej opieki, usługi te mogą być przyznane w trybie pilnym.
+7. Minister właściwy do spraw zabezpieczenia społecznego w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, rodzaje specjalistycznych usług opiekuńczych i kwalifikacje osób świadczących te usługi oraz warunki i tryb ustalania i pobierania opłat za specjalistyczne usługi opiekuńcze świadczone osobom z zaburzeniami psychicznymi, jak również warunki częściowego lub całkowitego zwolnienia z tych opłat, ze względu na szczególne potrzeby osób korzystających z usług, uwzględniając sytuację materialną tych osób.
 
-2. Przyznanie usług w trybie pilnym następuje niezwłocznie po przeprowadzeniu rodzinnego wywiadu środowiskowego, a wydanie decyzji o przyznaniu usług oraz decyzji ustalającej odpłatność za przyznane usługi może nastąpić po rozpoczęciu ich rzeczywistego świadczenia, nie później jednak niż w terminie 10 dni od dnia rozpoczęcia świadczenia usług.
+**Art. 50a.**
+
+1. W szczególnie uzasadnionych przypadkach osobom, o których mowa w art. 50 ust. 1 i 2, w szczególności gdy doszło do nagłego pogorszenia stanu zdrowia lub gdy objęcie osób usługami opiekuńczymi lub specjalistycznymi usługami opiekuńczymi wynika z konieczności zapewnienia takim osobom odpowiedniej opieki, usługi te mogą być przyznane w trybie pilnym.
+
+2. Przyznanie usług w trybie pilnym następuje niezwłocznie po przeprowadzeniu rodzinnego wywiadu środowiskowego, a wydanie decyzji o przyznaniu usług oraz decyzji ustalającej odpłatność za przyznane usługi może nastąpić po rozpoczęciu ich rzeczywistego świadczenia, niepóźniej jednak niż w terminie 10 dni od dnia rozpoczęcia świadczenia usług.
 
 **Art. 51.**
 
@@ -825,7 +880,7 @@ Art. 135–143. (pominięte)
 
 1. Ośrodkami wsparcia dla osób z zaburzeniami psychicznymi są: środowiskowy dom samopomocy lub klub samopomocy dla osób z zaburzeniami psychicznymi, zwanych dalej „uczestnikami”, które w wyniku upośledzenia niektórych funkcji organizmu lub zdolności adaptacyjnych wymagają pomocy do życia w środowisku rodzinnym i społecznym, w szczególności w celu zwiększania zaradności i samodzielności życiowej, a także ich integracji społecznej.
 
-2. Środowiskowy dom samopomocy świadczy usługi w ramach indywidualnych lub zespołowych treningów samoobsługi i treningów umiejętności społecznych, czynności dnia codziennego i funkcjonowania w życiu społecznym.
+2. Środowiskowy dom samopomocy świadczy usługi w ramach indywidualnych lub zespołowych treningów samoobsługi i treningów umiejętności społecznych, polegających na nauce, rozwijaniu lub podtrzymywaniu umiejętności w zakresie czynności dnia codziennego i funkcjonowania w życiu społecznym.
 
 3. Okres korzystania z miejsca całodobowego pobytu w środowiskowym domu samopomocy nie może być jednorazowo dłuższy niż 3 miesiące, z możliwością przedłużenia do 6 miesięcy w uzasadnionych przypadkach, przy czym maksymalny okres pobytu całodobowego osoby w roku kalendarzowym nie może być dłuższy niż 8 miesięcy.
 
@@ -849,7 +904,9 @@ Art. 135–143. (pominięte)
 
 3. Odpłatność za usługi całodobowe w ośrodkach wsparcia dla osób z zaburzeniami psychicznymi ustala się w wysokości 70 % dochodu osoby korzystającej z usług, proporcjonalnie do okresu jej pobytu.
 
-4. Odpłatność, o której mowa w ust. 3, nie może być wyższa niż średnia miesięczna kwota dotacji na jednego uczestnika, o której mowa w art. 51c ust. 3, wyliczona dla ośrodka wsparcia, w którym osoba przebywa. psychicznymi i decyzję ustalającą odpłatność za korzystanie z usług całodobowych w tych ośrodkach wydaje właściwy organ jednostki samorządu terytorialnego prowadzącej lub zlecającej prowadzenie ośrodka wsparcia dla osób z zaburzeniami psychicznymi.
+4. Odpłatność, o której mowa w ust. 3, nie może być wyższa niż średnia miesięczna kwota dotacji na jednego uczestnika, o której mowa w art. 51c ust. 3, wyliczona dla ośrodka wsparcia, w którym osoba przebywa.
+
+5. Decyzję o skierowaniu do ośrodka wsparcia dla osób z zaburzeniami psychicznymi i decyzję ustalającą odpłatność za korzystanie z usług całodobowych w tych ośrodkach wydaje właściwy organ jednostki samorządu terytorialnego prowadzącej lub zlecającej prowadzenie ośrodka wsparcia dla osób z zaburzeniami psychicznymi.
 
 6. Organ, o którym mowa w ust. 5, może zwolnić osoby zobowiązane do odpłatności za usługi całodobowe w ośrodkach wsparcia, na ich wniosek, częściowo lub całkowicie z tej odpłatności. Przepis art. 64 stosuje się odpowiednio.
 
@@ -859,18 +916,22 @@ Art. 135–143. (pominięte)
 
 1. Jednostka samorządu terytorialnego może, w uzgodnieniu z wojewodą, utworzyć ośrodek wsparcia dla osób z zaburzeniami psychicznymi lub uruchomić nowe miejsca w takim ośrodku, z uwzględnieniem możliwości ich sfinansowania ze środków budżetu państwa.
 
-2. Miesięczną kwotę dotacji z budżetu państwa na pokrycie bieżących kosztów prowadzenia ośrodków wsparcia dla osób z zaburzeniami psychicznymi ustala wojewoda jako iloczyn aktualnej liczby osób korzystających z usług w tych ośrodkach oraz średniej miesięcznej wojewódzkiej kwoty dotacji na jednego uczestnika, nie wyższą jednak niż średnia miesięczna kwota dotacji wyliczona dla województwa.
+2. Miesięczną kwotę dotacji z budżetu państwa na pokrycie bieżących kosztów prowadzenia ośrodków wsparcia dla osób z zaburzeniami psychicznymi ustala wojewoda jako iloczyn aktualnej liczby osób korzystających z usług w tych ośrodkach oraz średniej miesięcznej wojewódzkiej kwoty dotacji na jednego uczestnika, niewyższą jednak niż średnia miesięczna kwota dotacji wyliczona dla województwa.
 
 3. Wojewoda corocznie ustala średnią miesięczną wojewódzką kwotę dotacji na jednego uczestnika ośrodka wsparcia dla osób z zaburzeniami psychicznymi, w tym:
 
-- **1)** dla środowiskowych domów samopomocy w wysokości nie niższej niż 250 % kryterium dochodowego, o którym mowa w art. 8 ust. 1 pkt 1;
-- **2)** dla klubów samopomocy dla osób z zaburzeniami psychicznymi, w wysokości nie niższej niż 80 % kryterium dochodowego, o którym mowa w art. 8 ust. 1 pkt 1.
+- **1)** dla środowiskowych domów samopomocy w wysokości nieniższej niż 250 % kryterium dochodowego, o którym mowa w art. 8 ust. 1 pkt 1;
+- **2)** dla klubów samopomocy dla osób z zaburzeniami psychicznymi, w wysokości nieniższej niż 80 % kryterium dochodowego, o którym mowa w art. 8 ust. 1 pkt 1.
 
-4. Kwota dotacji ustalana zgodnie z ust. 2 może być zwiększona, nie więcej jednak niż o 20 %, w zależności od liczby uczestników oraz zakresu, jakości i rodzaju świadczonych usług.
+4. Kwota dotacji ustalana zgodnie z ust. 2 może być zwiększona, niewięcej jednak niż o 20 %, w zależności od liczby uczestników oraz zakresu, jakości i rodzaju świadczonych usług.
 
-5. Kwota dotacji ustalana zgodnie z ust. 3 pkt 1 może być zwiększona, nie więcej niż o 30 %, na uczestników z niepełnosprawnościami sprzężonymi lub spektrum autyzmu, którzy posiadają orzeczenie o znacznym stopniu niepełnosprawności wraz ze wskazaniem konieczności stałej lub długotrwałej opieki lub pomocy innej osoby w związku ze znacznie ograniczoną możliwością samodzielnej egzystencji. w miejscu zamieszkania osoba wymagająca z powodu wieku lub niepełnosprawności pomocy innych osób może korzystać z usług opiekuńczych i bytowych w formie rodzinnego domu pomocy.
+5. Kwota dotacji ustalana zgodnie z ust. 3 pkt 1 może być zwiększona, niewięcej niż o 30 %, na uczestników z niepełnosprawnościami sprzężonymi lub spektrum autyzmu, którzy posiadają orzeczenie o znacznym stopniu niepełnosprawności wraz ze wskazaniem konieczności stałej lub długotrwałej opieki lub pomocy innej osoby w związku ze znacznie ograniczoną możliwością samodzielnej egzystencji.
 
-2. Rodzinny dom pomocy stanowi formę usług opiekuńczych i bytowych świadczonych całodobowo przez osobę fizyczną lub podmiot uprawniony dla nie mniej niż trzech i nie więcej niż ośmiu zamieszkujących wspólnie osób wymagających z powodu wieku lub niepełnosprawności wsparcia w tej formie.
+**Art. 52.**
+
+1. W przypadku braku możliwości zapewnienia usług opiekuńczych w miejscu zamieszkania osoba wymagająca z powodu wieku lub niepełnosprawności pomocy innych osób może korzystać z usług opiekuńczych i bytowych w formie rodzinnego domu pomocy.
+
+2. Rodzinny dom pomocy stanowi formę usług opiekuńczych i bytowych świadczonych całodobowo przez osobę fizyczną lub podmiot uprawniony dla niemniej niż trzech i niewięcej niż ośmiu zamieszkujących wspólnie osób wymagających z powodu wieku lub niepełnosprawności wsparcia w tej formie.
 
 2a. Rodzinny dom pomocy jest prowadzony na podstawie umowy zawartej przez osobę fizyczną albo podmiot uprawniony z gminą właściwą ze względu na miejsce położenia rodzinnego domu pomocy.
 
@@ -882,7 +943,7 @@ Art. 135–143. (pominięte)
 
 1. Osobie pełnoletniej, która ze względu na trudną sytuację życiową, wiek, niepełnosprawność lub chorobę potrzebuje wsparcia w codziennym funkcjonowaniu, ale nie wymaga usług w zakresie świadczonym przez jednostkę całodobowej opieki, w szczególności osobie z zaburzeniami psychicznymi, osobie bezdomnej, osobie opuszczającej pieczę zastępczą w rozumieniu przepisów o wspieraniu rodziny i systemie pieczy zastępczej, młodzieżowy ośrodek wychowawczy, okręgowy ośrodek wychowawczy, zakład poprawczy, schronisko dla nieletnich, a także cudzoziemcowi, który uzyskał w Rzeczypospolitej Polskiej status uchodźcy, ochronę uzupełniającą lub zezwolenie na pobyt czasowy udzielone w związku z okolicznością, o której mowa w art. 159 ust. 1 pkt 1 lit. c lub d ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, może być przyznane wsparcie w mieszkaniu treningowym lub wspomaganym.
 
-2. Mieszkania, o których mowa w ust. 1, są formą pomocy społecznej przygotowującą, przy wsparciu specjalistów, osoby w nich przebywające do funkcjonowaniu.
+2. Mieszkania, o których mowa w ust. 1, są formą pomocy społecznej przygotowującą, przy wsparciu specjalistów, osoby w nich przebywające do prowadzenia niezależnego życia lub wspierającą te osoby w codziennym funkcjonowaniu.
 
 3. Mieszkania, o których mowa w ust. 1, mogą być prowadzone przez:
 
@@ -904,7 +965,7 @@ Art. 135–143. (pominięte)
 
 9. Wsparcie w mieszkaniu wspomaganym jest przyznawane na czas określony, a w przypadku osób, które posiadają orzeczenie o znacznym lub umiarkowanym stopniu niepełnosprawności, a także w szczególnie uzasadnionych przypadkach w stosunku do innych osób – może zostać przyznane na czas nieokreślony.
 
-10. Udzielenie wsparcia w mieszkaniu treningowym lub wspomaganym prowadzonym przez gminę albo powiat, inne niż gmina albo powiat właściwe do wydania decyzji, o której mowa w ust. 11, albo na ich zlecenie jest możliwe po zawarciu porozumienia między gminą kierującą albo powiatem kierującym z gminą lub zlecającymi ich prowadzenie.
+10. Udzielenie wsparcia w mieszkaniu treningowym lub wspomaganym prowadzonym przez gminę albo powiat, inne niż gmina albo powiat właściwe do wydania decyzji, o której mowa w ust. 11, albo na ich zlecenie jest możliwe po zawarciu porozumienia między gminą kierującą albo powiatem kierującym z gminą prowadzącą albo powiatem prowadzącym mieszkanie treningowe lub wspomagane lub zlecającymi ich prowadzenie.
 
 10a. W przypadku mieszkańca domu pomocy społecznej, który w celu przygotowania do prowadzenia niezależnego życia rezygnuje z pobytu w domu, gminą kierującą tego mieszkańca do mieszkania treningowego lub wspomaganego, przez okres 3 lat od daty uchylenia decyzji kierującej do domu pomocy społecznej, jest gmina, która skierowała go do domu pomocy społecznej.
 
@@ -923,7 +984,9 @@ Art. 135–143. (pominięte)
 - **9)** zasady i sposób realizacji programu usamodzielniania osoby korzystającej ze wsparcia; w przypadku gdy stan osoby wskazuje na brak możliwości usamodzielnienia, programu usamodzielnienia nie sporządza się;
 - **10)** skutki nieprzestrzegania postanowień, o których mowa w pkt 6–8.
 
-12a. Odpłatność, o której mowa w ust. 12 pkt 4, mieszkańca domu pomocy społecznej, o którym mowa w ust. 10a, nie może być wyższa niż 30 % dochodu tej osoby. domu pomocy społecznej, o którym mowa w ust. 10a, korzystającego ze wsparcia w mieszkaniu treningowym lub wspomaganym, a kosztem pobytu w mieszkaniu treningowym lub wspomaganym, pokrywa gmina kierująca do domu pomocy społecznej.
+12a. Odpłatność, o której mowa w ust. 12 pkt 4, mieszkańca domu pomocy społecznej, o którym mowa w ust. 10a, nie może być wyższa niż 30 % dochodu tej osoby.
+
+12b. Różnicę pomiędzy odpłatnością, o której mowa w ust. 12 pkt 4, mieszkańca domu pomocy społecznej, o którym mowa w ust. 10a, korzystającego ze wsparcia w mieszkaniu treningowym lub wspomaganym, a kosztem pobytu w mieszkaniu treningowym lub wspomaganym, pokrywa gmina kierująca do domu pomocy społecznej.
 
 13. Kwalifikacja osoby ubiegającej się o pobyt w mieszkaniu treningowym lub wspomaganym odbywa się na podstawie dokumentów potwierdzających spełnianie przesłanek, o których mowa w ust. 1. Rodzinnego wywiadu środowiskowego nie przeprowadza się.
 
@@ -942,7 +1005,7 @@ Art. 135–143. (pominięte)
     - **b)** formę organizacyjno-prawną;
 
 - **4)** liczbę miejsc w mieszkaniu treningowym lub wspomaganym;
-- **5)** w przypadku mieszkania treningowego lub wspomaganego, w którym przebywają osoby skierowane na podstawie zawartego porozumienia, o którym zumienie, oraz liczbę miejsc w mieszkaniu treningowym lub wspomaganym, których dotyczy porozumienie.
+- **5)** w przypadku mieszkania treningowego lub wspomaganego, w którym przebywają osoby skierowane na podstawie zawartego porozumienia, o którym mowa w ust. 10 – dane identyfikujące gminę lub powiat, z którymi zawarto porozumienie, oraz liczbę miejsc w mieszkaniu treningowym lub wspomaganym, których dotyczy porozumienie.
 
 18. Zgłoszenia do rejestru dokonuje podmiot prowadzący mieszkanie treningowe lub wspomagane.
 
@@ -963,7 +1026,9 @@ Art. 135–143. (pominięte)
 
 **Art. 53a.**
 
-1. Wynagrodzenie za sprawowanie opieki wypłaca się w wysokości ustalonej przez sąd. Wynagrodzenie to obliczone w stosunku miesięcznym nie może przekraczać 1/10 przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw, bez wypłat nagród z zysku, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego za okres poprzedzający dzień przyznania wynagrodzenia. wymaga przeprowadzenia rodzinnego wywiadu środowiskowego oraz wydania decyzji administracyjnej.
+1. Wynagrodzenie za sprawowanie opieki wypłaca się w wysokości ustalonej przez sąd. Wynagrodzenie to obliczone w stosunku miesięcznym nie może przekraczać 1/10 przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw, bez wypłat nagród z zysku, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego za okres poprzedzający dzień przyznania wynagrodzenia.
+
+2. Udzielenie świadczeń w postaci wynagrodzenia za sprawowanie opieki nie wymaga przeprowadzenia rodzinnego wywiadu środowiskowego oraz wydania decyzji administracyjnej.
 
 #### Rozdział 2 Domy pomocy społecznej
 
@@ -975,9 +1040,13 @@ Art. 135–143. (pominięte)
 
 2a. W przypadku gdy przewidywany termin oczekiwania na umieszczenie w domu pomocy społecznej danego typu zlokalizowanym najbliżej miejsca zamieszkania osoby kierowanej wynosi ponad 3 miesiące, osobę, o której mowa w ust. 1, kieruje się na jej wniosek do domu pomocy społecznej tego samego typu zlokalizowanego jak najbliżej miejsca zamieszkania osoby kierowanej, w którym przewidywany termin oczekiwania na umieszczenie jest krótszy niż 3 miesiące.
 
-3. Osoba wymagająca wzmożonej opieki medycznej kierowana jest na podstawie art. 33a ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, z późn. zm. ) do zakładu opiekuńczo-leczniczego lub pielęgnacyjno-opiekuńczego.
+3. Osoba wymagająca wzmożonej opieki medycznej kierowana jest na podstawie art. 33a ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461, 1537 i 1739 oraz z 2026 r. poz. 26 i 203) do zakładu opiekuńczo-leczniczego lub pielęgnacyjno-opiekuńczego.
 
-4. W przypadku gdy osoba bezwzględnie wymagająca pomocy lub jej przedstawiciel ustawowy nie wyrażają zgody na umieszczenie w domu pomocy społecznej lub po umieszczeniu wycofają swoją zgodę, ośrodek pomocy społecznej, centrum usług społecznych, o którym mowa w ustawie z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych, lub dom pomocy społecznej są obowiązane do zawiadomienia o tym właściwego sądu, a jeżeli osoba taka nie ma przedstawiciela ustawowego lub opiekuna – prokuratora. skierowania do domu pomocy społecznej spełniają jednocześnie osoby pozostające w związku małżeńskim lub rodzic z pełnoletnim dzieckiem, osoby te można skierować do jednego domu pomocy społecznej pomimo zakwalifikowania każdej z tych osób do różnych typów domów pomocy społecznej.
+4. W przypadku gdy osoba bezwzględnie wymagająca pomocy lub jej przedstawiciel ustawowy nie wyrażają zgody na umieszczenie w domu pomocy społecznej lub po umieszczeniu wycofają swoją zgodę, ośrodek pomocy społecznej, centrum usług społecznych, o którym mowa w ustawie z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych, lub dom pomocy społecznej są obowiązane do zawiadomienia o tym właściwego sądu, a jeżeli osoba taka nie ma przedstawiciela ustawowego lub opiekuna – prokuratora.
+
+**Art. 54a.**
+
+1. W szczególnie uzasadnionych przypadkach, gdy przesłanki skierowania do domu pomocy społecznej spełniają jednocześnie osoby pozostające w związku małżeńskim lub rodzic z pełnoletnim dzieckiem, osoby te można skierować do jednego domu pomocy społecznej pomimo zakwalifikowania każdej z tych osób do różnych typów domów pomocy społecznej.
 
 2. Kierowanie do odpowiedniego domu pomocy społecznej w sytuacji, o której mowa w ust. 1, uwzględnia konieczność zapewnienia właściwej opieki osobie wymagającej bardziej specjalistycznych usług.
 
@@ -991,19 +1060,19 @@ Art. 135–143. (pominięte)
 
 2a. Dom pomocy społecznej może określić zasady zgłaszania przez mieszkańców domu personelowi tego domu wyjść poza jego teren.
 
-2b. W przypadku gdy brak opieki zagraża życiu lub poważnie zagraża zdrowiu mieszkańca domu będącego osobą z zaburzeniami psychicznymi, dyrektor lub kierownik tego domu może ograniczyć możliwość samodzielnego opuszczania przez tego mieszkańca terenu domu pomocy społecznej na podstawie zaświadczenia lekarza wydanego na czas oznaczony, nie dłuższy niż 6 miesięcy, wskazującego zasadność takiego ograniczenia.
+2b. W przypadku gdy brak opieki zagraża życiu lub poważnie zagraża zdrowiu mieszkańca domu będącego osobą z zaburzeniami psychicznymi, dyrektor lub kierownik tego domu może ograniczyć możliwość samodzielnego opuszczania przez tego mieszkańca terenu domu pomocy społecznej na podstawie zaświadczenia lekarza wydanego na czas oznaczony, niedłuższy niż 6 miesięcy, wskazującego zasadność takiego ograniczenia.
 
-2c. Ograniczenie może być wydane na czas oznaczony wskazany w zaświadczeniu lekarza, nie dłuższy niż 6 miesięcy.
+2c. Ograniczenie może być wydane na czas oznaczony wskazany w zaświadczeniu lekarza, niedłuższy niż 6 miesięcy.
 
 2d. Ograniczenie jest wydawane w formie pisemnej i zawiera wskazanie osoby, której to ograniczenie dotyczy, okresu, na jaki jest wydane, uzasadnienie ograniczenia oraz pouczenie o prawie do złożenia wniosku o uchylenie ograniczenia do sądu opiekuńczego, w którego okręgu znajduje się dom pomocy społecznej.
 
-2e. Ograniczenie doręcza się mieszkańcowi domu, a gdy jest on osobą ubezwłasnowolnioną całkowicie, również jego przedstawicielowi ustawowemu. mieszkańca domu o prawie do złożenia wniosku o uchylenie ograniczenia.
+2e. Ograniczenie doręcza się mieszkańcowi domu, a gdy jest on osobą ubezwłasnowolnioną całkowicie, również jego przedstawicielowi ustawowemu. Doręczając ograniczenie, dyrektor lub kierownik domu pomocy społecznej poucza mieszkańca domu o prawie do złożenia wniosku o uchylenie ograniczenia.
 
 2f. Informację o ograniczeniu dyrektor lub kierownik domu pomocy społecznej przesyła do sądu opiekuńczego, w którego okręgu znajduje się ten dom, w terminie 3 dni od dnia doręczenia ograniczenia mieszkańcowi domu.
 
 2g. Mieszkaniec domu, w tym również mieszkaniec ubezwłasnowolniony, jego przedstawiciel ustawowy, małżonek, krewny w linii prostej, rodzeństwo oraz osoba sprawująca nad nim faktyczną opiekę mogą wystąpić do sądu opiekuńczego, w którego okręgu znajduje się dom pomocy społecznej, z wnioskiem o uchylenie ograniczenia.
 
-2h. W sprawach określonych w ust. 2d sąd opiekuńczy orzeka niezwłocznie po przeprowadzeniu rozprawy. Rozprawa powinna się odbyć nie później niż w terminie 14 dni od dnia wpływu wniosku o uchylenie ograniczenia.
+2h. W sprawach określonych w ust. 2d sąd opiekuńczy orzeka niezwłocznie po przeprowadzeniu rozprawy. Rozprawa powinna się odbyć niepóźniej niż w terminie 14 dni od dnia wpływu wniosku o uchylenie ograniczenia.
 
 2i. Za szkodę wyrządzoną przez niezgodne z prawem działanie w zakresie ograniczenia możliwości samodzielnego opuszczania terenu domu pomocy społecznej przez jego mieszkańca odpowiedzialność ponosi podmiot prowadzący dom pomocy społecznej lub, w przypadku domu pomocy społecznej prowadzonego na zlecenie, odpowiedzialność solidarną ponoszą jednostka samorządu terytorialnego oraz podmiot prowadzący dom pomocy społecznej na jej zlecenie.
 
@@ -1015,7 +1084,9 @@ Art. 135–143. (pominięte)
 
 2. Podmiot prowadzący dom pomocy społecznej zgłasza wojewodzie informację o zamiarze świadczenia przez dom usług wsparcia krótkoterminowego, o których mowa w ust. 1, ze wskazaniem liczby miejsc przeznaczonych na usługi wsparcia dziennego i całodobowego, w terminie 14 dni od dnia ich powstania.
 
-3. Usługi wsparcia krótkoterminowego mogą być przyznane osobie, która ze względu na wiek, chorobę lub niepełnosprawność wymaga doraźnej pomocy w formie pobytu całodobowego lub w formie dziennej, ze względu na czasowe ograniczenie możliwości zapewnienia właściwego wsparcia w miejscu zamieszkania przez osoby na co dzień sprawujące opiekę nad tą osobą. osoby wymagającej wsparcia oraz jej indywidualnych potrzeb.
+3. Usługi wsparcia krótkoterminowego mogą być przyznane osobie, która ze względu na wiek, chorobę lub niepełnosprawność wymaga doraźnej pomocy w formie pobytu całodobowego lub w formie dziennej, ze względu na czasowe ograniczenie możliwości zapewnienia właściwego wsparcia w miejscu zamieszkania przez osoby na co dzień sprawujące opiekę nad tą osobą.
+
+4. Rodzaj i zakres usług wsparcia krótkoterminowego są uzależnione od sytuacji osoby wymagającej wsparcia oraz jej indywidualnych potrzeb.
 
 5. Usługi wsparcia krótkoterminowego realizowane w formie pobytu całodobowego są adekwatne do zakresu usług realizowanych przez dom pomocy społecznej na rzecz jego mieszkańców, z uwzględnieniem indywidualnych potrzeb osób korzystających z tej formy wsparcia.
 
@@ -1023,17 +1094,17 @@ Art. 135–143. (pominięte)
 
 **Art. 55b.**
 
-1. Usługi wsparcia krótkoterminowego realizowane w formie pobytu całodobowego mogą być przyznane na czas określony nie dłuższy niż 30 dni w roku kalendarzowym, z możliwością przedłużenia pobytu w szczególnie uzasadnionych przypadkach o nie więcej niż kolejne 30 dni w roku kalendarzowym.
+1. Usługi wsparcia krótkoterminowego realizowane w formie pobytu całodobowego mogą być przyznane na czas określony niedłuższy niż 30 dni w roku kalendarzowym, z możliwością przedłużenia pobytu w szczególnie uzasadnionych przypadkach o niewięcej niż kolejne 30 dni w roku kalendarzowym.
 
-2. Usługi wsparcia krótkoterminowego realizowane w formie dziennej mogą być przyznane w wymiarze nie mniejszym niż 4 godziny dziennie i nie większym niż 12 godzin dziennie, nie większym niż 30 dni w roku kalendarzowym, z możliwością przedłużenia wsparcia w szczególnie uzasadnionych przypadkach o nie więcej niż kolejne 30 dni w roku kalendarzowym.
+2. Usługi wsparcia krótkoterminowego realizowane w formie dziennej mogą być przyznane w wymiarze niemniejszym niż 4 godziny dziennie i niewiększym niż 12 godzin dziennie, niewiększym niż 30 dni w roku kalendarzowym, z możliwością przedłużenia wsparcia w szczególnie uzasadnionych przypadkach o niewięcej niż kolejne 30 dni w roku kalendarzowym.
 
-3. Osoba może korzystać z usług wsparcia krótkoterminowego w danym roku kalendarzowym zarówno w formie pobytu całodobowego, jak i w formie dziennej, jednak łącznie dla obydwu form nie dłużej niż 60 dni w roku kalendarzowym.
+3. Osoba może korzystać z usług wsparcia krótkoterminowego w danym roku kalendarzowym zarówno w formie pobytu całodobowego, jak i w formie dziennej, jednak łącznie dla obydwu form niedłużej niż 60 dni w roku kalendarzowym.
 
 4. Wniosek o przyznanie pomocy w formie usług wsparcia krótkoterminowego składa się w ośrodku pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – w centrum usług społecznych, właściwym ze względu na miejsce zamieszkania osoby wymagającej wsparcia.
 
 5. Do wniosku, o którym mowa w ust. 4, dołącza się oświadczenie o sytuacji osobistej i dochodowej osoby ubiegającej się o usługi wsparcia krótkoterminowego, a także dokumenty umożliwiające stwierdzenie okoliczności, o których mowa w art. 55a ust. 3, oraz wskazujące na rodzaj i zakres wsparcia, którego wymaga ta osoba.
 
-6. Oświadczenie, o którym mowa w ust. 5, składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Składający oświadczenie zawiera w nim klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta oświadczeń.
+6. Oświadczenie, o którym mowa w ust. 5, składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Składający oświadczenie zawiera w nim klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
 7. W postępowaniu o przyznanie prawa do usług wsparcia krótkoterminowego nie przeprowadza się rodzinnego wywiadu środowiskowego, chyba że powstaną wątpliwości co do zgodności ze stanem faktycznym treści oświadczenia, o którym mowa w ust. 5.
 
@@ -1059,6 +1130,9 @@ Art. 135–143. (pominięte)
 - **1)** wypadkach;
 - **2)** samouszkodzeniach;
 - **3)** obrażeniach ciała.
+
+3. Rejestr, o którym mowa w ust. 1, zawiera również:
+
 - **1)** imię i nazwisko osoby zgłaszającej;
 - **2)** datę zgłoszenia;
 - **3)** opis i miejsce zdarzenia;
@@ -1068,13 +1142,13 @@ Art. 135–143. (pominięte)
 
 5. Do przyjmowania i weryfikacji zgłoszeń o zdarzeniach nadzwyczajnych oraz podejmowania działań następczych mogą być dopuszczone wyłącznie osoby posiadające pisemne upoważnienie dyrektora lub kierownika domu pomocy społecznej.
 
-6. Zanonimizowane informacje, o których mowa w ust. 2 i 3, dyrektor lub kierownik domu pomocy społecznej przekazuje wójtowi (burmistrzowi, prezydentowi miasta), staroście jednostki samorządu terytorialnego prowadzącej dom pomocy społecznej lub zlecającej jego prowadzenie lub marszałkowi województwa w przypadku regionalnych domów pomocy społecznej – nie rzadziej niż raz na kwartał.
+6. Zanonimizowane informacje, o których mowa w ust. 2 i 3, dyrektor lub kierownik domu pomocy społecznej przekazuje wójtowi (burmistrzowi, prezydentowi miasta), staroście jednostki samorządu terytorialnego prowadzącej dom pomocy społecznej lub zlecającej jego prowadzenie lub marszałkowi województwa w przypadku regionalnych domów pomocy społecznej – nierzadziej niż raz na kwartał.
 
 7. Wójt (burmistrz, prezydent miasta), starosta lub marszałek województwa po otrzymaniu informacji, o których mowa w ust. 6, niezwłocznie weryfikuje przekazane informacje w celu analizy i oceny zasadności podjętych działań następczych.
 
-8. Wójt (burmistrz, prezydent miasta), starosta lub marszałek województwa przekazuje wojewodzie informację zbiorczą o zgłoszeniach o zdarzeniach nadzwyczajnych i podjętych działaniach następczych nie rzadziej niż raz na kwartał.
+8. Wójt (burmistrz, prezydent miasta), starosta lub marszałek województwa przekazuje wojewodzie informację zbiorczą o zgłoszeniach o zdarzeniach nadzwyczajnych i podjętych działaniach następczych nierzadziej niż raz na kwartał.
 
-9. Informacja zbiorcza o zgłoszeniach o zdarzeniach nadzwyczajnych i podjętych działaniach następczych jest przekazywana przez wojewodę ministrowi właściwemu do spraw zabezpieczenia społecznego nie rzadziej niż raz na kwartał, za pomocą systemu teleinformatycznego, do rejestru centralnego, o którym mowa w art. 23 ust. 4a.
+9. Informacja zbiorcza o zgłoszeniach o zdarzeniach nadzwyczajnych i podjętych działaniach następczych jest przekazywana przez wojewodę ministrowi właściwemu do spraw zabezpieczenia społecznego nierzadziej niż raz na kwartał, za pomocą systemu teleinformatycznego, do rejestru centralnego, o którym mowa w art. 23 ust. 4a.
 
 **Art. 56.** Domy pomocy społecznej, w zależności od tego, dla kogo są przeznaczone, dzielą się na następujące typy domów, dla:
 
@@ -1108,8 +1182,9 @@ Art. 135–143. (pominięte)
 - **2)** spełnia standardy, o których mowa w art. 55 ust. 1 i 2;
 - **3)** złoży wniosek o wydanie zezwolenia na prowadzenie domu pomocy społecznej.
 
-3a. Wniosek o zezwolenie na prowadzenie domu pomocy społecznej zawiera: fizycznej także dane osobowe (imię i nazwisko, adres zamieszkania, numer telefonu i numer PESEL, o ile osoba taki posiada);
+3a. Wniosek o zezwolenie na prowadzenie domu pomocy społecznej zawiera:
 
+- **1)** nazwę podmiotu, jego siedzibę, adres i numer telefonu, a w przypadku osoby fizycznej także dane osobowe (imię i nazwisko, adres zamieszkania, numer telefonu i numer PESEL, o ile osoba taki posiada);
 - **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym albo wskazanie dokumentu określającego status prawny podmiotu;
 - **3)** numer identyfikacji podatkowej (NIP);
 - **4)** numer identyfikacyjny REGON;
@@ -1129,7 +1204,7 @@ Art. 135–143. (pominięte)
     - **d)** zaświadczenie albo oświadczenie o niezaleganiu z płatnościami wobec urzędu skarbowego i składkami do Zakładu Ubezpieczeń Społecznych oraz
     - **e)** zaświadczenie albo oświadczenie o niekaralności za przestępstwo popełnione umyślnie osoby, która będzie kierowała domem.
 
-3c. Oświadczenia, o których mowa w ust. 3b pkt 4 lit. d i e, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula zeznań.
+3c. Oświadczenia, o których mowa w ust. 3b pkt 4 lit. d i e, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
 
 4. Zezwolenie wydaje się po przeprowadzeniu wizytacji obiektu, w którym usytuowany jest dom pomocy społecznej.
 
@@ -1154,7 +1229,8 @@ Art. 135–143. (pominięte)
 8. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia:
 
 - **1)** sposób funkcjonowania określonych typów domów pomocy społecznej i obowiązujący standard podstawowych usług świadczonych przez domy pomocy społecznej,
-- **2)** wzór wniosku o wydanie zezwolenia na prowadzenie domu pomocy społecznej, pomocy społecznej – uwzględniając indywidualne potrzeby i możliwości psychofizyczne mieszkańców domów oraz osób kierowanych do domów pomocy społecznej.
+- **2)** wzór wniosku o wydanie zezwolenia na prowadzenie domu pomocy społecznej,
+- **3)** tryb kierowania i przyjmowania osób ubiegających się o przyjęcie do domu pomocy społecznej – uwzględniając indywidualne potrzeby i możliwości psychofizyczne mieszkańców domów oraz osób kierowanych do domów pomocy społecznej.
 
 **Art. 57a.**
 
@@ -1178,7 +1254,9 @@ Art. 135–143. (pominięte)
 
 2. Dom pomocy społecznej umożliwia i organizuje mieszkańcom pomoc w korzystaniu ze świadczeń zdrowotnych przysługujących im na podstawie odrębnych przepisów.
 
-3. Dom pomocy społecznej pokrywa opłaty ryczałtowe i częściową odpłatność do wysokości limitu ceny, przewidziane w przepisach o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych. pielęgnacyjne w zakresie wykraczającym poza uprawnienia wynikające z przepisów o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+3. Dom pomocy społecznej pokrywa opłaty ryczałtowe i częściową odpłatność do wysokości limitu ceny, przewidziane w przepisach o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+
+4. Dom pomocy społecznej może pokryć wydatki ponoszone na niezbędne usługi pielęgnacyjne w zakresie wykraczającym poza uprawnienia wynikające z przepisów o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 
 **Art. 59.**
 
@@ -1194,15 +1272,17 @@ Art. 135–143. (pominięte)
 
 6. W przypadku regionalnego domu pomocy społecznej, o którym mowa w art. 56 pkt 7, decyzję o skierowaniu do domu pomocy społecznej i decyzję ustalającą opłatę mieszkańca domu za jego pobyt w domu pomocy społecznej wydaje organ gminy właściwej dla tej osoby w dniu jej kierowania do domu pomocy społecznej. Decyzję o umieszczeniu w regionalnym domu pomocy społecznej wydaje marszałek województwa.
 
-7. Decyzję o skierowaniu oraz o umieszczeniu w domu pomocy społecznej, o którym mowa w art. 56 pkt 7, wydaje się na czas określony nie dłuższy niż 12 miesięcy, z możliwością przedłużenia do 18 miesięcy w uzasadnionych przypadkach.
+7. Decyzję o skierowaniu oraz o umieszczeniu w domu pomocy społecznej, o którym mowa w art. 56 pkt 7, wydaje się na czas określony niedłuższy niż 12 miesięcy, z możliwością przedłużenia do 18 miesięcy w uzasadnionych przypadkach.
 
 **Art. 60.**
 
 1. Pobyt w domu pomocy społecznej jest odpłatny do wysokości średniego miesięcznego kosztu utrzymania mieszkańca, z zastrzeżeniem ust. 3.
 
-- **1)** w domu pomocy społecznej o zasięgu gminnym – ustala wójt (burmistrz, prezydent miasta) i ogłasza w wojewódzkim dzienniku urzędowym, nie później niż do dnia 31 marca każdego roku;
-- **2)** w domu pomocy społecznej o zasięgu powiatowym – ustala starosta i ogłasza w wojewódzkim dzienniku urzędowym, nie później niż do dnia 31 marca każdego roku;
-- **3)** w regionalnym domu pomocy społecznej – ustala marszałek województwa i ogłasza w wojewódzkim dzienniku urzędowym, nie później niż do dnia 31 marca każdego roku.
+2. Średni miesięczny koszt utrzymania mieszkańca:
+
+- **1)** w domu pomocy społecznej o zasięgu gminnym – ustala wójt (burmistrz, prezydent miasta) i ogłasza w wojewódzkim dzienniku urzędowym, niepóźniej niż do dnia 31 marca każdego roku;
+- **2)** w domu pomocy społecznej o zasięgu powiatowym – ustala starosta i ogłasza w wojewódzkim dzienniku urzędowym, niepóźniej niż do dnia 31 marca każdego roku;
+- **3)** w regionalnym domu pomocy społecznej – ustala marszałek województwa i ogłasza w wojewódzkim dzienniku urzędowym, niepóźniej niż do dnia 31 marca każdego roku.
 
 3. Ogłoszony średni miesięczny koszt utrzymania mieszkańca w domu pomocy społecznej, o którym mowa w ust. 2, może być niższy niż obliczony zgodnie z art. 6 pkt 15, jednak pod warunkiem zapewnienia realizacji zadań na poziomie obowiązującego standardu.
 
@@ -1217,11 +1297,12 @@ Art. 135–143. (pominięte)
 1. Obowiązani do wnoszenia opłaty za pobyt w domu pomocy społecznej są w kolejności:
 
 - **1)** mieszkaniec domu, a w przypadku osób małoletnich przedstawiciel ustawowy z dochodów dziecka,
+- **2)** małżonek, zstępni przed wstępnymi,
 - **3)** gmina, z której osoba została skierowana do domu pomocy społecznej – przy czym osoby i gmina określone w pkt 2 i 3 nie mają obowiązku wnoszenia opłat, jeżeli mieszkaniec domu ponosi pełną odpłatność.
 
 2. Opłatę za pobyt w domu pomocy społecznej wnoszą:
 
-- **1)** mieszkaniec domu, nie więcej jednak niż 70 % swojego dochodu, a w przypadku osób małoletnich przedstawiciel ustawowy z dochodów dziecka, nie więcej niż 70 % tego dochodu;
+- **1)** mieszkaniec domu, niewięcej jednak niż 70 % swojego dochodu, a w przypadku osób małoletnich przedstawiciel ustawowy z dochodów dziecka, niewięcej niż 70 % tego dochodu;
 - **2)** małżonek, zstępni przed wstępnymi – zgodnie z umową zawartą w trybie art. 103 ust. 2:
     - **a)** w przypadku osoby samotnie gospodarującej, jeżeli dochód jest wyższy niż 300 % kryterium dochodowego osoby samotnie gospodarującej, jednak kwota dochodu pozostająca po wniesieniu opłaty nie może być niższa niż 300 % tego kryterium,
     - **b)** w przypadku osoby w rodzinie, jeżeli posiadany dochód na osobę jest wyższy niż 300 % kryterium dochodowego na osobę w rodzinie, z tym że kwota dochodu pozostająca po wniesieniu opłaty nie może być niższa niż 300 % kryterium dochodowego na osobę w rodzinie;
@@ -1236,7 +1317,7 @@ Art. 135–143. (pominięte)
 
 2d. W przypadku odmowy przez osoby, o których mowa w ust. 1 pkt 2, zawarcia umowy, o której mowa w art. 103 ust. 2, wysokość ich opłaty za pobyt mieszkańca domu w domu pomocy społecznej ustala w drodze decyzji organ gminy właściwej zgodnie z art. 59 ust. 1, z uwzględnieniem ograniczeń, o których mowa w ust. 2 pkt 2 i art. 103 ust. 2.
 
-2e. W przypadku odmowy przez osoby, o których mowa w ust. 1 pkt 2, zawarcia umowy, o której mowa w art. 103 ust. 2, oraz niewyrażenia zgody na przeprowadzenie domu w domu pomocy społecznej ustala, w drodze decyzji, organ gminy właściwej zgodnie z art. 59 ust. 1, w wysokości różnicy między średnim kosztem utrzymania w domu pomocy społecznej a opłatą wnoszoną przez mieszkańca domu i opłatami wnoszonymi przez inne osoby obowiązane, o których mowa w ust. 1 pkt 2.
+2e. W przypadku odmowy przez osoby, o których mowa w ust. 1 pkt 2, zawarcia umowy, o której mowa w art. 103 ust. 2, oraz niewyrażenia zgody na przeprowadzenie rodzinnego wywiadu środowiskowego, wysokość ich opłaty za pobyt mieszkańca domu w domu pomocy społecznej ustala, w drodze decyzji, organ gminy właściwej zgodnie z art. 59 ust. 1, w wysokości różnicy między średnim kosztem utrzymania w domu pomocy społecznej a opłatą wnoszoną przez mieszkańca domu i opłatami wnoszonymi przez inne osoby obowiązane, o których mowa w ust. 1 pkt 2.
 
 2f. Wysokość opłaty za pobyt mieszkańca domu w domu pomocy społecznej, o której mowa w ust. 2e, ustala się proporcjonalnie do liczby osób obowiązanych do jej wnoszenia.
 
@@ -1253,11 +1334,17 @@ Art. 135–143. (pominięte)
 
 2. Osoby, o których mowa w art. 61 ust. 1 pkt 2 i ust. 2a, wnoszą opłatę ustaloną zgodnie z art. 61 ust. 2 pkt 2 i ust. 2c do kasy lub na rachunek bankowy gminy, z której mieszkaniec domu został skierowany; opłatę tę gmina wraz z opłatą, o której mowa w art. 61 ust. 2 pkt 3, przekazuje na rachunek bankowy właściwego domu pomocy społecznej.
 
-3. Opłaty, o których mowa w ust. 1 i 2, przeznacza się na utrzymanie domu pomocy społecznej. opłat za pobyt w domu pomocy społecznej, jeżeli mieszkaniec domu przebywa u tej osoby, nie ponoszą opłat za okres nieobecności mieszkańca domu nieprzekraczającej 21 dni w roku kalendarzowym.
+3. Opłaty, o których mowa w ust. 1 i 2, przeznacza się na utrzymanie domu pomocy społecznej.
+
+**Art. 63.**
+
+1. Mieszkaniec domu, a także inna osoba obowiązana do wnoszenia opłat za pobyt w domu pomocy społecznej, jeżeli mieszkaniec domu przebywa u tej osoby, nie ponoszą opłat za okres nieobecności mieszkańca domu nieprzekraczającej 21 dni w roku kalendarzowym.
 
 2. Za małoletniego mieszkańca domu nie wnosi się opłaty z jego dochodu i dochodu osób obowiązanych do wnoszenia opłaty w okresie jego nieobecności nieprzekraczającej 70 dni w roku kalendarzowym, jeżeli w tym czasie przebywa w domu rodzinnym.
 
 **Art. 64.** Osoby wnoszące opłatę lub obowiązane do wnoszenia opłaty za pobyt mieszkańca domu w domu pomocy społecznej można zwolnić z tej opłaty częściowo lub całkowicie, na ich wniosek, po przeprowadzeniu rodzinnego wywiadu środowiskowego, w szczególności jeżeli:
+
+**Art. 64a.** Osobę obowiązaną do wnoszenia opłaty za pobyt mieszkańca domu w domu pomocy społecznej zwalnia się całkowicie z tej opłaty, na jej wniosek, pod warunkiem że przedstawi prawomocne orzeczenie sądu o pozbawieniu tego mieszkańca władzy rodzicielskiej nad tą osobą i oświadczy, że władza rodzicielska nie została przywrócona lub prawomocne orzeczenie sądu o skazaniu tego mieszkańca za umyślne przestępstwo ścigane z oskarżenia publicznego popełnione na szkodę osoby obowiązanej do wnoszenia opłaty, jej zstępnego, małoletniego lub pełnoletniego nieporadnego ze względu na wiek, stan psychiczny lub fizyczny rodzeństwa lub jej rodzica, chyba że skazanie uległo zatarciu. Zwolnienia te obejmują zstępnych osoby zwolnionej z opłaty za pobyt mieszkańca domu w domu pomocy społecznej.
 
 **Art. 64b.**
 
@@ -1269,7 +1356,9 @@ Art. 135–143. (pominięte)
 
 1. Do domów pomocy społecznej prowadzonych przez podmioty niepubliczne, o których mowa w art. 57 ust. 1 pkt 2–4, jeżeli nie są one prowadzone na zlecenie organu jednostki samorządu terytorialnego, nie stosuje się przepisów art. 55b, art. 55c ust. 6–8 oraz art. 59–64b.
 
-1a. W przypadku domów pomocy społecznej, o których mowa w ust. 1, wydatki, o których mowa w art. 58 ust. 1, 3 i 4, mogą zostać uregulowane odmiennie w umowie stanowiącej podstawę pobytu mieszkańca w domu pomocy społecznej lub w regulaminie domu pomocy społecznej. prowadzące domy pomocy społecznej, o których mowa w ust. 1, przekazują wojewodzie nie rzadziej niż raz na kwartał.
+1a. W przypadku domów pomocy społecznej, o których mowa w ust. 1, wydatki, o których mowa w art. 58 ust. 1, 3 i 4, mogą zostać uregulowane odmiennie w umowie stanowiącej podstawę pobytu mieszkańca w domu pomocy społecznej lub w regulaminie domu pomocy społecznej.
+
+1b. Zanonimizowane informacje, o których mowa w art. 55c ust. 2 i 3, podmioty prowadzące domy pomocy społecznej, o których mowa w ust. 1, przekazują wojewodzie nierzadziej niż raz na kwartał.
 
 2. W przypadku braku miejsc w domu pomocy społecznej o zasięgu gminnym lub powiatowym gmina może kierować osoby tego wymagające do domu pomocy społecznej, który nie jest prowadzony na zlecenie wójta (burmistrza, prezydenta miasta) lub starosty. W takim przypadku stosuje się odpowiednio art. 59 ust. 1 i art. 61–64b, z tym że wysokość opłaty za pobyt w takim domu określa umowa zawarta przez gminę z podmiotem prowadzącym dom.
 
@@ -1281,21 +1370,22 @@ Art. 135–143. (pominięte)
 
 1. Działalność gospodarcza w zakresie prowadzenia placówki zapewniającej całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku może być prowadzona po uzyskaniu zezwolenia wojewody.
 
-1a. Uzyskania zezwolenia, o którym mowa w ust. 1, wymaga również prowadzenie placówki zapewniającej całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku przez usługodawcę z państwa członkowskiego w rozumieniu ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 89, 619 i 621).
+1a. Uzyskania zezwolenia, o którym mowa w ust. 1, wymaga również prowadzenie placówki zapewniającej całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku przez usługodawcę z państwa członkowskiego w rozumieniu ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 89, 619, 621 i 1794 oraz z 2026 r. poz. 507).
 
 2. Wojewoda wydaje zezwolenie, jeżeli podmiot o nie występujący:
 
 - **1)** spełnia warunki określone w niniejszej ustawie;
 - **2)** spełnia standardy, o których mowa w art. 68;
-- **3)** przedstawi: 418 i 1080),
+- **3)** przedstawi: z 2026 r. poz. 524),
     - **a)** wniosek o zezwolenie,
-    - **b)** dokumenty potwierdzające tytuł prawny do nieruchomości, na której jest usytuowany dom, użytkowania obiektu budowlanego określonego w kategorii XI załącznika do ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz.
+    - **b)** dokumenty potwierdzające tytuł prawny do nieruchomości, na której jest usytuowany dom,
+    - **c)** zaświadczenie organu nadzoru budowlanego potwierdzające możliwość użytkowania obiektu budowlanego określonego w kategorii XI załącznika do ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U.
     - **d)** koncepcję prowadzenia placówki,
     - **e)** informację o sposobie finansowania placówki i niezaleganiu z płatnościami wobec urzędu skarbowego i składkami do Zakładu Ubezpieczeń Społecznych,
     - **f)** informację z Krajowego Rejestru Karnego o niekaralności osoby, która będzie kierowała placówką, i zaświadczenie, że ze względu na stan zdrowia jest ona zdolna do prowadzenia placówki,
     - **g)** oświadczenie, że nie został prawomocnie ukarany za czyny, o których mowa w art. 130 ust. 4–6, w okresie 5 lat poprzedzających dzień złożenia wniosku o wydanie zezwolenia na prowadzenie placówki;
 
-- **4)** nie został prawomocnie ukarany za czyny, o których mowa w art. 130 ust. 4–6, w okresie 5 lat poprzedzających dzień złożenia wniosku o wydanie zezwolenia na prowadzenie placówki.
+- **4)** nie został prawomocnie ukarany za czyny, o których mowa w art. 130 ust. 4– 6, w okresie 5 lat poprzedzających dzień złożenia wniosku o wydanie zezwolenia na prowadzenie placówki.
 
 2a. Oświadczenie, o którym mowa w ust. 2 pkt 3 lit. g, składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu uprawnionego do odebrania oświadczenia o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
 
@@ -1307,7 +1397,10 @@ Art. 135–143. (pominięte)
 - **4)** przeznaczenie placówki;
 - **5)** liczbę miejsc przeznaczonych dla mieszkańców placówki;
 - **6)** czas, na jaki zostało wydane zezwolenie na prowadzenie placówki;
-- **7)** numer decyzji i datę wydania zezwolenia na prowadzenie placówki. o której mowa w ust. 1:
+- **7)** numer decyzji i datę wydania zezwolenia na prowadzenie placówki.
+
+3a. Jeżeli podmiot, któremu wydano zezwolenie na prowadzenie placówki, o której mowa w ust. 1:
+
 - **1)** przestał spełniać warunki określone w ustawie,
 - **2)** przestał spełniać standardy, o których mowa w art. 68,
 - **3)** nie przedstawi na żądanie wojewody w wyznaczonym terminie aktualnych dokumentów, o których mowa w ust. 2 pkt 3 – wojewoda wyznacza dodatkowy termin na spełnienie warunków lub standardów albo na dostarczenie wymaganych dokumentów.
@@ -1334,12 +1427,13 @@ Art. 135–143. (pominięte)
 - **2)** bytowych zapewniających:
     - **a)** miejsce pobytu,
     - **b)** wyżywienie,
+    - **c)** utrzymanie czystości.
 
 2. Sposób świadczenia usług powinien uwzględniać stan zdrowia, sprawność fizyczną i intelektualną oraz indywidualne potrzeby i możliwości osoby przebywającej w placówce, a także prawa człowieka, w tym w szczególności prawo do godności, wolności, intymności i poczucia bezpieczeństwa.
 
-2a. W przypadku gdy brak opieki zagraża życiu lub poważnie zagraża zdrowiu osoby przebywającej w placówce, będącej osobą z zaburzeniami psychicznymi, osoba kierująca tą placówką może ograniczyć możliwość samodzielnego opuszczania przez tę osobę terenu placówki na podstawie zaświadczenia lekarza wydanego na czas oznaczony, nie dłuższy niż 6 miesięcy, wskazującego zasadność takiego ograniczenia.
+2a. W przypadku gdy brak opieki zagraża życiu lub poważnie zagraża zdrowiu osoby przebywającej w placówce, będącej osobą z zaburzeniami psychicznymi, osoba kierująca tą placówką może ograniczyć możliwość samodzielnego opuszczania przez tę osobę terenu placówki na podstawie zaświadczenia lekarza wydanego na czas oznaczony, niedłuższy niż 6 miesięcy, wskazującego zasadność takiego ograniczenia.
 
-2b. Ograniczenie może być wydane na czas oznaczony wskazany w zaświadczeniu lekarza, nie dłuższy niż 6 miesięcy.
+2b. Ograniczenie może być wydane na czas oznaczony wskazany w zaświadczeniu lekarza, niedłuższy niż 6 miesięcy.
 
 2c. Ograniczenie jest wydawane w formie pisemnej i zawiera wskazanie osoby, której to ograniczenie dotyczy, okresu, na jaki jest wydane, uzasadnienie ograniczenia oraz pouczenie o prawie do złożenia wniosku o uchylenie ograniczenia do sądu opiekuńczego, w którego okręgu znajduje się placówka.
 
@@ -1349,12 +1443,13 @@ Art. 135–143. (pominięte)
 
 2f. Osoba przebywająca w placówce, w tym również osoba ubezwłasnowolniona, jej przedstawiciel ustawowy, małżonek, krewny w linii prostej, rodzeństwo oraz osoba sprawująca nad nią faktyczną opiekę mogą wystąpić do sądu opiekuńczego, w którego okręgu znajduje się placówka, z wnioskiem o uchylenie ograniczenia.
 
-2g. W sprawach określonych w ust. 2c sąd opiekuńczy orzeka niezwłocznie po przeprowadzeniu rozprawy. Rozprawa powinna się odbyć nie później niż w terminie 14 dni od dnia wpływu wniosku o uchylenie ograniczenia.
+2g. W sprawach określonych w ust. 2c sąd opiekuńczy orzeka niezwłocznie po przeprowadzeniu rozprawy. Rozprawa powinna się odbyć niepóźniej niż w terminie 14 dni od dnia wpływu wniosku o uchylenie ograniczenia.
 
 2h. Za szkodę wyrządzoną przez niezgodne z prawem działanie w zakresie ograniczenia możliwości samodzielnego opuszczania terenu placówki przez osobę w niej przebywającą odpowiedzialność ponosi podmiot prowadzący placówkę.
 
-3. Usługi opiekuńcze powinny zapewniać: się, jedzeniu, myciu i kąpaniu;
+3. Usługi opiekuńcze powinny zapewniać:
 
+- **1)** pomoc w czynnościach życia codziennego, w miarę potrzeby pomoc w ubieraniu się, jedzeniu, myciu i kąpaniu;
 - **2)** organizację czasu wolnego;
 - **3)** pomoc w zakupie odzieży i obuwia;
 - **4)** pielęgnację w chorobie oraz pomoc w korzystaniu ze świadczeń zdrowotnych.
@@ -1363,9 +1458,9 @@ Art. 135–143. (pominięte)
 
 - **1)** budynek i jego otoczenie – bez barier architektonicznych;
 - **2)** w budynkach wielokondygnacyjnych bez dźwigów osobowych – pokoje mieszkalne oraz pomieszczenia wymienione w ust. 5 usytuowane na parterze;
-- **3)** pokoje mieszkalne – nie więcej niż trzyosobowe, z tym że:
-    - **a)** pokój jednoosobowy – nie mniejszy niż 9 m ,
-    - **b)** pokój dwu- i trzyosobowy – o powierzchni nie mniejszej niż po 6 m na osobę,
+- **3)** pokoje mieszkalne – niewięcej niż trzyosobowe, z tym że:
+    - **a)** pokój jednoosobowy – niemniejszy niż 9 m ,
+    - **b)** pokój dwu- i trzyosobowy – o powierzchni niemniejszej niż po 6 m na osobę,
     - **c)** pokoje mieszkalne – wyposażone w łóżko lub tapczan, szafę, stół, krzesła i szafkę nocną dla każdej osoby,
     - **d)** pokój mieszkalny uznaje się za spełniający wymaganą normę, o której mowa w lit. a i b, jeśli odstępstwo od wymaganej powierzchni nie jest większe niż 5 %.
 
@@ -1375,19 +1470,20 @@ Art. 135–143. (pominięte)
 
 - **1)** pokój dziennego pobytu służący jako jadalnia;
 - **2)** pomieszczenie pomocnicze do prania i suszenia;
-- **3)** jedną łazienkę dla nie więcej niż pięciu osób i jedną toaletę dla nie więcej niż czterech osób, wyposażone w uchwyty ułatwiające osobom mniej sprawnym korzystanie z tych pomieszczeń, z tym że jeśli liczba osób leżących przekracza 50 % ogólnej liczby mieszkańców, dopuszcza się zmniejszenie liczby tych pomieszczeń o 25 %.
+- **3)** jedną łazienkę dla niewięcej niż pięciu osób i jedną toaletę dla niewięcej niż czterech osób, wyposażone w uchwyty ułatwiające osobom mniej sprawnym korzystanie z tych pomieszczeń, z tym że jeśli liczba osób leżących przekracza 50 % ogólnej liczby mieszkańców, dopuszcza się zmniejszenie liczby tych pomieszczeń o 25 %.
 
-5a. Placówki mieszczące się w budynkach wpisanych do rejestru zabytków są obowiązane spełnić warunki, o których mowa w ust. 4 i 5, w zakresie, w jakim nie narusza to przepisów ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907).
+5a. Placówki mieszczące się w budynkach wpisanych do rejestru zabytków są obowiązane spełnić warunki, o których mowa w ust. 4 i 5, w zakresie, w jakim nie narusza to przepisów ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907, z 2025 r. poz. 1168 i 1673 oraz z 2026 r. poz. 483).
 
-6. Placówka, o której mowa w ust. 1, powinna zapewnić: wskazaniem lekarza;
+6. Placówka, o której mowa w ust. 1, powinna zapewnić:
 
-- **2)** przerwę między posiłkami nie krótszą niż 4 godziny, przy czym ostatni posiłek nie powinien być podawany wcześniej niż o godzinie 18;
+- **1)** co najmniej 3 posiłki dziennie, w tym posiłki dietetyczne, zgodnie ze wskazaniem lekarza;
+- **2)** przerwę między posiłkami niekrótszą niż 4 godziny, przy czym ostatni posiłek nie powinien być podawany wcześniej niż o godzinie 18;
 - **3)** dostęp do drobnych posiłków i napojów między posiłkami;
 - **4)** możliwość spożywania posiłków w pokoju mieszkalnym, w razie potrzeby karmienie;
 - **5)** środki higieny osobistej, środki czystości, przybory toaletowe i inne przedmioty niezbędne do higieny osobistej;
-- **6)** sprzątanie pomieszczeń, w miarę potrzeby, nie rzadziej niż raz dziennie.
+- **6)** sprzątanie pomieszczeń, w miarę potrzeby, nierzadziej niż raz dziennie.
 
-7. Wymóg, o którym mowa w ust. 4 pkt 2, nie ma zastosowania do placówek, w których przebywa nie więcej niż 5 osób, jeżeli placówki te są wyposażone w urządzenie do przemieszczania osób niepełnosprawnych, a łazienki i toalety znajdują się na tej samej kondygnacji, na której znajdują się pokoje mieszkalne.
+7. Wymóg, o którym mowa w ust. 4 pkt 2, nie ma zastosowania do placówek, w których przebywa niewięcej niż 5 osób, jeżeli placówki te są wyposażone w urządzenie do przemieszczania osób niepełnosprawnych, a łazienki i toalety znajdują się na tej samej kondygnacji, na której znajdują się pokoje mieszkalne.
 
 8. W jednym budynku placówki nie może przebywać więcej niż 100 osób, którym jest zapewniana opieka całodobowa.
 
@@ -1399,7 +1495,7 @@ Art. 135–143. (pominięte)
 
 **Art. 69.**
 
-1. W przypadku prowadzenia przez podmioty, o których mowa w art. 57 ust. 1 pkt 2, w ramach działalności statutowej, placówek zapewniających deszłym wieku, stosuje się art. 67 ust. 1–3c i art. 68–68c.
+1. W przypadku prowadzenia przez podmioty, o których mowa w art. 57 ust. 1 pkt 2, w ramach działalności statutowej, placówek zapewniających całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku, stosuje się art. 67 ust. 1–3c i art. 68–68c.
 
 2. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, tryb postępowania w sprawach dotyczących wydawania i cofania zezwoleń na prowadzenie placówki zapewniającej całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku i wzór wniosku o zezwolenie, uwzględniając konieczność zapewnienia właściwej opieki osobom przebywającym w takich placówkach.
 
@@ -1443,6 +1539,8 @@ Art. 135–143. (pominięte)
 
 **Art. 83.** (uchylony)
 
+**Art. 84.** (uchylony)
+
 **Art. 85.** (uchylony)
 
 **Art. 85a.** (uchylony)
@@ -1475,21 +1573,27 @@ Art. 135–143. (pominięte)
 - **4)** w uzyskaniu zatrudnienia;
 - **5)** na zagospodarowanie – w formie rzeczowej.
 
-2. Pomoc, o której mowa w ust. 1, przysługuje osobie usamodzielnianej, w przypadku gdy skierowanie na pobyt całodobowy do domu pomocy społecznej, specjalnego ośrodka szkolno-wychowawczego, specjalnego ośrodka wychowawczego albo młodzieżowego ośrodka socjoterapii zapewniającego całodobową opiekę nastąpiło na podstawie orzeczenia sądu. nauki przysługuje osobie, która przebywała w domu pomocy społecznej, okręgowym ośrodku wychowawczym, zakładzie poprawczym, schronisku dla nieletnich, specjalnym ośrodku szkolno-wychowawczym, specjalnym ośrodku wychowawczym, młodzieżowym ośrodku socjoterapii zapewniającym całodobową opiekę albo młodzieżowym ośrodku wychowawczym co najmniej rok.
+2. Pomoc, o której mowa w ust. 1, przysługuje osobie usamodzielnianej, w przypadku gdy skierowanie na pobyt całodobowy do domu pomocy społecznej, specjalnego ośrodka szkolno-wychowawczego, specjalnego ośrodka wychowawczego albo młodzieżowego ośrodka socjoterapii zapewniającego całodobową opiekę nastąpiło na podstawie orzeczenia sądu.
+
+3. Pomoc pieniężna na usamodzielnienie i pomoc pieniężna na kontynuowanie nauki przysługuje osobie, która przebywała w domu pomocy społecznej, okręgowym ośrodku wychowawczym, zakładzie poprawczym, schronisku dla nieletnich, specjalnym ośrodku szkolno-wychowawczym, specjalnym ośrodku wychowawczym, młodzieżowym ośrodku socjoterapii zapewniającym całodobową opiekę albo młodzieżowym ośrodku wychowawczym co najmniej rok.
 
 4. Pomoc, o której mowa w ust. 1, przysługuje osobie usamodzielnianej opuszczającej dom pomocy społecznej, specjalny ośrodek szkolno-wychowawczy albo specjalny ośrodek wychowawczy, w przypadku gdy osoba ta jest zdolna do samodzielnej egzystencji.
 
-5. Pomoc, o której mowa w ust. 1, przysługuje osobie opuszczającej dom dla matek z małoletnimi dziećmi i kobiet w ciąży, jeżeli bezpośrednio przed przyjęciem do takiego domu przebywała co najmniej rok w rodzinie zastępczej, rodzinnym domu dziecka, placówce opiekuńczo-wychowawczej, regionalnej placówce opiekuńczoterapeutycznej, w domu pomocy społecznej, w okręgowym ośrodku wychowawczym, w zakładzie poprawczym, w schronisku dla nieletnich, w specjalnym ośrodku szkolnowychowawczym, w specjalnym ośrodku wychowawczym, w młodzieżowym ośrodku socjoterapii zapewniającym całodobową opiekę albo w młodzieżowym ośrodku wychowawczym.
+5. Pomoc, o której mowa w ust. 1, przysługuje osobie opuszczającej dom dla matek z małoletnimi dziećmi i kobiet w ciąży, jeżeli bezpośrednio przed przyjęciem do takiego domu przebywała co najmniej rok w rodzinie zastępczej, rodzinnym domu dziecka, placówce opiekuńczo-wychowawczej, regionalnej placówce opiekuńczo-terapeutycznej, w domu pomocy społecznej, w okręgowym ośrodku wychowawczym, w zakładzie poprawczym, w schronisku dla nieletnich, w specjalnym ośrodku szkolno-wychowawczym, w specjalnym ośrodku wychowawczym, w młodzieżowym ośrodku socjoterapii zapewniającym całodobową opiekę albo w młodzieżowym ośrodku wychowawczym.
 
 6. Warunkiem uzyskania pomocy, o której mowa w ust. 1, jest zobowiązanie się osoby usamodzielnianej do realizacji indywidualnego programu usamodzielnienia, opracowanego wspólnie z opiekunem usamodzielnienia, zatwierdzonego przez kierownika powiatowego centrum pomocy rodzinie.
 
-7. W realizacji indywidualnego programu usamodzielnienia osobę usamodzielnianą wspiera opiekun usamodzielnienia, którym może być pracownik socjalny powiatowego centrum pomocy rodzinie, wychowawca, psycholog lub pracownik socjalny domu pomocy społecznej, okręgowego ośrodka wychowawczego, zakładu poprawczego, schroniska dla nieletnich, specjalnego ośrodka szkolnowychowawczego, specjalnego ośrodka wychowawczego, młodzieżowego ośrodka socjoterapii zapewniającego całodobową opiekę, młodzieżowego ośrodka wychowawczego, albo inna osoba wskazana przez osobę usamodzielnianą.
+7. W realizacji indywidualnego programu usamodzielnienia osobę usamodzielnianą wspiera opiekun usamodzielnienia, którym może być pracownik socjalny powiatowego centrum pomocy rodzinie, wychowawca, psycholog lub pracownik socjalny domu pomocy społecznej, okręgowego ośrodka wychowawczego, zakładu poprawczego, schroniska dla nieletnich, specjalnego ośrodka szkolno-wychowawczego, specjalnego ośrodka wychowawczego, młodzieżowego ośrodka socjoterapii zapewniającego całodobową opiekę, młodzieżowego ośrodka wychowawczego, albo inna osoba wskazana przez osobę usamodzielnianą.
 
-8. W przypadku, gdy osoba usamodzielniana otrzymuje pomoc dla osób usamodzielnianych w rozumieniu przepisów o wspieraniu rodziny i systemie pieczy zastępczej pomoc, o której mowa w ust. 1, nie przysługuje. pieniężnej na usamodzielnienie oraz wartość pomocy na zagospodarowanie w formie rzeczowej ustala się od kwoty 1647 zł, zwanej dalej „podstawą”.
+8. W przypadku, gdy osoba usamodzielniana otrzymuje pomoc dla osób usamodzielnianych w rozumieniu przepisów o wspieraniu rodziny i systemie pieczy zastępczej pomoc, o której mowa w ust. 1, nie przysługuje.
+
+**Art. 89.**
+
+1. Wysokość pomocy pieniężnej na kontynuowanie nauki i pomocy pieniężnej na usamodzielnienie oraz wartość pomocy na zagospodarowanie w formie rzeczowej ustala się od kwoty 1647 zł, zwanej dalej „podstawą”.
 
 2. Pomoc pieniężna na kontynuowanie nauki w wysokości 30 % podstawy miesięcznie przysługuje osobie usamodzielnianej kontynuującej naukę w szkole podstawowej, szkole ponadpodstawowej, szkole wyższej, na kursach, jeśli ich ukończenie jest zgodne z indywidualnym programem usamodzielnienia, w zakładzie kształcenia nauczycieli lub u pracodawcy w celu przygotowania zawodowego.
 
-3. Pomoc, o której mowa w ust. 2, przyznaje się na czas nauki, do czasu jej ukończenia, nie dłużej jednak niż do ukończenia przez osobę usamodzielnianą 25 lat.
+3. Pomoc, o której mowa w ust. 2, przyznaje się na czas nauki, do czasu jej ukończenia, niedłużej jednak niż do ukończenia przez osobę usamodzielnianą 25 lat.
 
 4. (uchylony)
 
@@ -1504,7 +1608,8 @@ Art. 135–143. (pominięte)
 
 - **1)** istnieje uzasadnione przypuszczenie, że pomoc pieniężna zostanie wykorzystana niezgodnie z celem, na jaki została przyznana;
 - **2)** osoba usamodzielniana przed osiągnięciem pełnoletności opuściła samowolnie dom pomocy społecznej dla dzieci i młodzieży niepełnosprawnych intelektualnie, dom dla matek z małoletnimi dziećmi i kobiet w ciąży lub okręgowy ośrodek wychowawczy, zakład poprawczy, schronisko dla nieletnich, specjalny ośrodek szkolno-wychowawczy, specjalny ośrodek wychowawczy, młodzieżowy ośrodek socjoterapii zapewniający całodobową opiekę lub młodzieżowy ośrodek wychowawczy;
-- **3)** osoba usamodzielniana porzuci naukę umożliwiającą jej przygotowanie zawodowe i nie podejmie zatrudnienia; jej zatrudnienia;
+- **3)** osoba usamodzielniana porzuci naukę umożliwiającą jej przygotowanie zawodowe i nie podejmie zatrudnienia;
+- **4)** osoba usamodzielniana porzuci pracę i uchyla się od podjęcia proponowanego jej zatrudnienia;
 - **5)** osoba usamodzielniana została skazana prawomocnym wyrokiem za popełnienie przestępstwa z winy umyślnej.
 
 8. Pomocy pieniężnej na kontynuowanie nauki zaprzestaje się udzielać w przypadku, gdy osoba usamodzielniana:
@@ -1527,7 +1632,9 @@ Art. 135–143. (pominięte)
 
 1. Pomocy pieniężnej na usamodzielnienie i pomocy pieniężnej na kontynuowanie nauki udziela starosta powiatu właściwego ze względu na miejsce zamieszkania dziecka przed skierowaniem do placówki, o której mowa w art. 88 ust. 1.
 
-2. Pomocy w uzyskaniu odpowiednich warunków mieszkaniowych, w tym w mieszkaniu treningowym lub wspomaganym, w uzyskaniu zatrudnienia oraz na zagospodarowanie w formie rzeczowej udziela starosta właściwy ze względu na miejsce osiedlenia się osoby usamodzielnianej. wspomaganym i korzystająca ze świadczonego w nim wsparcia jest obowiązana do ponoszenia częściowych kosztów utrzymania tego mieszkania proporcjonalnie do swoich dochodów. W uzasadnionych przypadkach starosta może ją zwolnić z ponoszenia opłat.
+2. Pomocy w uzyskaniu odpowiednich warunków mieszkaniowych, w tym w mieszkaniu treningowym lub wspomaganym, w uzyskaniu zatrudnienia oraz na zagospodarowanie w formie rzeczowej udziela starosta właściwy ze względu na miejsce osiedlenia się osoby usamodzielnianej.
+
+3. Osoba usamodzielniana zamieszkująca w mieszkaniu treningowym lub wspomaganym i korzystająca ze świadczonego w nim wsparcia jest obowiązana do ponoszenia częściowych kosztów utrzymania tego mieszkania proporcjonalnie do swoich dochodów. W uzasadnionych przypadkach starosta może ją zwolnić z ponoszenia opłat.
 
 4. Minister właściwy do spraw zabezpieczenia społecznego w porozumieniu z Ministrem Sprawiedliwości określi, w drodze rozporządzenia:
 
@@ -1548,7 +1655,9 @@ Art. 135–143. (pominięte)
 1. Cudzoziemcowi, który:
 
 - **1)** uzyskał w Rzeczypospolitej Polskiej status uchodźcy lub ochronę uzupełniającą lub
-- **2)** przybywa na terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia na pobyt czasowy udzielonego w związku z okolicznością, o której mowa w art. 159 ust. 1 pkt 1 lit. c lub d ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach – zwanemu dalej w niniejszym rozdziale „cudzoziemcem”, udziela się pomocy mającej na celu wspieranie procesu jego integracji, zwanej dalej „pomocą dla cudzoziemca”. zamieszkania cudzoziemca.
+- **2)** przybywa na terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia na pobyt czasowy udzielonego w związku z okolicznością, o której mowa w art. 159 ust. 1 pkt 1 lit. c lub d ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach – zwanemu dalej w niniejszym rozdziale „cudzoziemcem”, udziela się pomocy mającej na celu wspieranie procesu jego integracji, zwanej dalej „pomocą dla cudzoziemca”.
+
+2. Pomocy dla cudzoziemca udziela starosta właściwy ze względu na miejsce zamieszkania cudzoziemca.
 
 3. Pomocy dla cudzoziemca udziela się na wniosek cudzoziemca złożony do starosty, za pośrednictwem powiatowego centrum pomocy rodzinie, w terminie 60 dni od dnia uzyskania przez cudzoziemca w Rzeczypospolitej Polskiej statusu uchodźcy lub ochrony uzupełniającej lub uzyskania przez niego zezwolenia na pobyt czasowy udzielonego w związku z okolicznością, o której mowa w art. 159 ust. 1 pkt 1 lit. c lub d ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach.
 
@@ -1571,15 +1680,16 @@ Art. 135–143. (pominięte)
 - **1)** decyzji o odmowie nadania statusu uchodźcy, w której udzielono cudzoziemcowi ochrony uzupełniającej;
 - **2)** karty pobytu wydanej w związku z udzieleniem ochrony uzupełniającej.
 
-7a. W przypadku cudzoziemca, który przybywa na terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia na pobyt czasowy udzielonego w związku z okolicznością, o której mowa w art. 159 ust. 1 pkt 1 lit. c lub d ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, do wniosku należy dołączyć kopie: o której mowa w art. 159 ust. 1 pkt 1 lit. c lub d ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach;
+7a. W przypadku cudzoziemca, który przybywa na terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia na pobyt czasowy udzielonego w związku z okolicznością, o której mowa w art. 159 ust. 1 pkt 1 lit. c lub d ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, do wniosku należy dołączyć kopie:
 
+- **1)** decyzji o zezwoleniu na pobyt czasowy udzielonym w związku z okolicznością, o której mowa w art. 159 ust. 1 pkt 1 lit. c lub d ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach;
 - **2)** karty pobytu wydanej w związku z uzyskaniem zezwolenia na pobyt czasowy udzielonego w związku z okolicznością, o której mowa w art. 159 ust. 1 pkt 1 lit. c lub d ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach.
 
 8. Cudzoziemiec dołącza do wniosku także inne dokumenty będące w jego posiadaniu, które mogą pomóc w opracowaniu programu integracji.
 
 9. Pomoc dla cudzoziemca przysługuje począwszy od miesiąca kalendarzowego, w którym cudzoziemiec złożył wniosek.
 
-10. Pomoc dla cudzoziemca, który przebywał w ośrodku dla cudzoziemców w rozumieniu ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 223, 389, 619 i 621), przysługuje, począwszy od miesiąca kalendarzowego, w którym cudzoziemiec opuścił ośrodek.
+10. Pomoc dla cudzoziemca, który przebywał w ośrodku dla cudzoziemców w rozumieniu ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej, przysługuje, począwszy od miesiąca kalendarzowego, w którym cudzoziemiec opuścił ośrodek.
 
 11. (uchylony)
 
@@ -1593,12 +1703,13 @@ Art. 135–143. (pominięte)
 
 **Art. 92.**
 
-1. Pomocy dla cudzoziemca udziela się w okresie nie dłuższym niż 12 miesięcy i obejmuje ona:
+1. Pomocy dla cudzoziemca udziela się w okresie niedłuższym niż 12 miesięcy i obejmuje ona:
 
-- **1)** świadczenia pieniężne w wysokości od 446 zł do 1175 zł miesięcznie na osobę przeznaczone na: 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **1)** świadczenia pieniężne w wysokości od 446 zł do 1175 zł miesięcznie na osobę przeznaczone na:
     - **a)** utrzymanie, w szczególności na pokrycie wydatków na żywność, odzież, obuwie, środki higieny osobistej oraz opłaty mieszkaniowe,
     - **b)** pokrycie wydatków związanych z nauką języka polskiego;
 
+- **2)** opłacanie składki na ubezpieczenie zdrowotne określonej w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
 - **3)** pracę socjalną;
 - **4)** poradnictwo specjalistyczne, w tym poradnictwo prawne, psychologiczne i rodzinne;
 - **5)** udzielanie informacji oraz wsparcia w kontaktach z innymi instytucjami, w szczególności z instytucjami rynku pracy, ze środowiskiem lokalnym oraz organizacjami pozarządowymi;
@@ -1619,10 +1730,12 @@ Art. 135–143. (pominięte)
     - **d)** prowadzenia z cudzoziemcem pracy socjalnej,
     - **e)** innych uzgodnionych z cudzoziemcem działań wynikających z indywidualnej sytuacji życiowej cudzoziemca,
     - **f)** wskazania pracownika, zwanego dalej „realizatorem programu”, uzgadniającego z cudzoziemcem program oraz wspierającego cudzoziemca w okresie realizacji tego programu;
+
+- **2)** cudzoziemca do:
     - **a)** wskazania miejsca zamieszkania,
     - **b)** zarejestrowania się w powiatowym urzędzie pracy w terminie ustalonym w programie oraz aktywnego poszukiwania pracy,
     - **c)** obowiązkowego uczestnictwa w kursach języka polskiego, w przypadku gdy zachodzi taka potrzeba,
-    - **d)** współdziałania oraz kontaktowania się z realizatorem programu w ustalonych terminach, nie rzadziej jednak niż 2 razy w miesiącu,
+    - **d)** współdziałania oraz kontaktowania się z realizatorem programu w ustalonych terminach, nierzadziej jednak niż 2 razy w miesiącu,
     - **e)** innych uzgodnionych z realizatorem programu działań wynikających z jego indywidualnej sytuacji życiowej,
     - **f)** przestrzegania zobowiązań przyjętych w programie.
 
@@ -1643,7 +1756,9 @@ Art. 135–143. (pominięte)
 - **1)** podjęcia pracy z możliwością zamieszkania na terenie innego powiatu;
 - **2)** uzyskania mieszkania na terenie innego powiatu;
 - **3)** łączenia rodzin cudzoziemców, jeżeli istnieje możliwość wspólnego zamieszkania;
-- **4)** konieczności zapewnienia specjalistycznego leczenia, wymagającego zmiany miejsca zamieszkania cudzoziemca lub członka jego rodziny. cudzoziemiec jest obowiązany złożyć w powiatowym centrum pomocy rodzinie realizującym program oświadczenie i dokumenty potwierdzające zaistniałą sytuację.
+- **4)** konieczności zapewnienia specjalistycznego leczenia, wymagającego zmiany miejsca zamieszkania cudzoziemca lub członka jego rodziny.
+
+5. W przypadku zaistnienia okoliczności, o których mowa w ust. 4, cudzoziemiec jest obowiązany złożyć w powiatowym centrum pomocy rodzinie realizującym program oświadczenie i dokumenty potwierdzające zaistniałą sytuację.
 
 6. W przypadku zmiany miejsca zamieszkania realizację programu przejmuje powiat właściwy ze względu na nowe miejsce zamieszkania cudzoziemca oraz:
 
@@ -1664,7 +1779,8 @@ Art. 135–143. (pominięte)
 1. Pomoc dla cudzoziemca może zostać wstrzymana w przypadku:
 
 - **1)** uporczywego, zawinionego niewykonywania przez cudzoziemca zobowiązań przyjętych w programie, w tym nieusprawiedliwionej nieobecności na kursach nauki języka polskiego – przez okres do 30 dni;
-- **2)** wykorzystywania pomocy w sposób niezgodny z celem, na jaki została przyznana – przez okres do 30 dni; życiowej – do czasu wyjaśnienia okoliczności udzielenia takich informacji;
+- **2)** wykorzystywania pomocy w sposób niezgodny z celem, na jaki została przyznana – przez okres do 30 dni;
+- **3)** udzielania przez cudzoziemca nieprawdziwych informacji o swojej sytuacji życiowej – do czasu wyjaśnienia okoliczności udzielenia takich informacji;
 - **4)** upływu 30 dni pobytu cudzoziemca w zakładzie opieki zdrowotnej – do czasu opuszczenia przez niego zakładu;
 - **5)** wszczęcia przeciwko cudzoziemcowi postępowania karnego – do czasu prawomocnego zakończenia postępowania.
 
@@ -1686,7 +1802,8 @@ Art. 135–143. (pominięte)
 
 - **1)** obowiązki powiatowego centrum pomocy rodzinie związane z przygotowaniem indywidualnego programu integracji,
 - **2)** wysokość świadczeń pieniężnych dla cudzoziemców w celu wspierania procesu ich integracji i termin ich wypłaty,
-- **3)** rodzaje dokumentów i oświadczeń potwierdzających konieczność zmiany przez cudzoziemców miejsca zamieszkania w okresie trwania indywidualnego programu integracji, odpowiednie do osiągnięcia celów integracji – uwzględniając sytuację osobistą i potrzeby cudzoziemca i jego rodziny oraz liczbę członków rodziny.
+- **3)** rodzaje dokumentów i oświadczeń potwierdzających konieczność zmiany przez cudzoziemców miejsca zamieszkania w okresie trwania indywidualnego programu integracji,
+- **4)** metody i sposoby monitorowania postępów cudzoziemców w ich integracji, odpowiednie do osiągnięcia celów integracji – uwzględniając sytuację osobistą i potrzeby cudzoziemca i jego rodziny oraz liczbę członków rodziny.
 
 #### Rozdział 6 Zasady odpłatności za świadczenia
 
@@ -1708,7 +1825,7 @@ Art. 135–143. (pominięte)
 
 1. Opłatę za pobyt w ośrodkach wsparcia i mieszkaniach treningowych lub wspomaganych ustala podmiot kierujący w uzgodnieniu z osobą kierowaną, uwzględniając przyznany zakres usług. Osoby nie ponoszą opłat, jeżeli dochód osoby samotnie gospodarującej lub dochód na osobę w rodzinie nie przekracza kwoty kryterium dochodowego.
 
-1a. W przypadku osoby bezdomnej skierowanej do schroniska dla osób bezdomnych albo schroniska dla osób bezdomnych z usługami opiekuńczymi nie ma zastosowania ust. 1 zdanie drugie. Jeżeli dochód osoby samotnie gospodarującej lub dochód na osobę w rodzinie nie przekracza kwoty kryterium dochodowego, opłata nie osobę w rodzinie osoby skierowanej do schroniska dla osób bezdomnych, a w przypadku schroniska dla osób bezdomnych z usługami opiekuńczymi nie może być wyższa niż 50 % tego dochodu.
+1a. W przypadku osoby bezdomnej skierowanej do schroniska dla osób bezdomnych albo schroniska dla osób bezdomnych z usługami opiekuńczymi nie ma zastosowania ust. 1 zdanie drugie. Jeżeli dochód osoby samotnie gospodarującej lub dochód na osobę w rodzinie nie przekracza kwoty kryterium dochodowego, opłata nie może być wyższa niż 30 % dochodu osoby samotnie gospodarującej lub dochodu na osobę w rodzinie osoby skierowanej do schroniska dla osób bezdomnych, a w przypadku schroniska dla osób bezdomnych z usługami opiekuńczymi nie może być wyższa niż 50 % tego dochodu.
 
 2. Opłatę za pobyt w domu dla matek z małoletnimi dziećmi i kobiet w ciąży ustala podmiot prowadzący, a w przypadku domów prowadzonych przez podmioty uprawnione – podmiot zlecający zadanie, uwzględniając warunki pobytu, w szczególności zakres przyznanych usług oraz obowiązki osoby przebywającej w domu.
 
@@ -1724,7 +1841,9 @@ Art. 135–143. (pominięte)
 
 2. Rada gminy określa, w drodze uchwały, szczegółowe warunki przyznawania usług wsparcia krótkoterminowego świadczonego w formie dziennej i w formie pobytu całodobowego oraz warunki odpłatności za te usługi oraz szczegółowe warunki częściowego lub całkowitego zwolnienia od opłat, jak również tryb ich pobierania.
 
-3. Usługi wsparcia krótkoterminowego są odpłatne do wysokości opłat, o których mowa w ust. 1. Osoba korzystająca z usług wsparcia krótkoterminowego nie ponosi opłat, jeżeli jej dochód nie przekracza kwoty kryterium dochodowego dla osoby samotnie gospodarującej. krótkoterminowego a opłatą za usługi, o której mowa w ust. 1, ponosi gmina, która przyznała osobie usługi wsparcia krótkoterminowego.
+3. Usługi wsparcia krótkoterminowego są odpłatne do wysokości opłat, o których mowa w ust. 1. Osoba korzystająca z usług wsparcia krótkoterminowego nie ponosi opłat, jeżeli jej dochód nie przekracza kwoty kryterium dochodowego dla osoby samotnie gospodarującej.
+
+4. Różnicę między ustaloną odpłatnością osoby korzystającej z usług wsparcia krótkoterminowego a opłatą za usługi, o której mowa w ust. 1, ponosi gmina, która przyznała osobie usługi wsparcia krótkoterminowego.
 
 **Art. 98.** Świadczenia nienależnie pobrane podlegają zwrotowi od osoby lub rodziny korzystającej ze świadczeń z pomocy społecznej, niezależnie od dochodu rodziny. Art. 104 ust. 4 stosuje się odpowiednio.
 
@@ -1742,7 +1861,9 @@ Art. 135–143. (pominięte)
 
 **Art. 100.**
 
-1. W postępowaniu w sprawie świadczeń z pomocy społecznej należy kierować się przede wszystkim dobrem osób korzystających z pomocy społecznej i ochroną ich dóbr osobistych. W szczególności nie należy podawać do wiadomości publicznej nazwisk osób korzystających z pomocy społecznej oraz rodzaju i zakresu przyznanego świadczenia. w ustawie przetwarzają dane osobowe osób, do których stosuje się ustawę, oraz członków ich rodzin w zakresie i celu niezbędnych do realizacji zadań wynikających z ustawy.
+1. W postępowaniu w sprawie świadczeń z pomocy społecznej należy kierować się przede wszystkim dobrem osób korzystających z pomocy społecznej i ochroną ich dóbr osobistych. W szczególności nie należy podawać do wiadomości publicznej nazwisk osób korzystających z pomocy społecznej oraz rodzaju i zakresu przyznanego świadczenia.
+
+2. Podmioty i osoby realizujące zadania w zakresie pomocy społecznej określone w ustawie przetwarzają dane osobowe osób, do których stosuje się ustawę, oraz członków ich rodzin w zakresie i celu niezbędnych do realizacji zadań wynikających z ustawy.
 
 3. W związku z przetwarzaniem danych osobowych w celu udzielenia świadczeń, o których mowa w art. 106 ust. 2, oraz w celu świadczenia usług w ośrodkach wsparcia, rodzinnych domach pomocy, mieszkaniach treningowych i wspomaganych oraz domach pomocy społecznej, wykonanie obowiązku, o którym mowa w art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), następuje przez zamieszczenie informacji, o których mowa w art. 13 ust. 1 i 2 tego rozporządzenia, w widocznym miejscu w budynku, w którym udzielane są świadczenia lub świadczone usługi.
 
@@ -1759,7 +1880,9 @@ Art. 135–143. (pominięte)
 
 **Art. 101.**
 
-1. Właściwość miejscową gminy ustala się według miejsca zamieszkania osoby ubiegającej się o świadczenie. miejsca zameldowania tej osoby na pobyt stały.
+1. Właściwość miejscową gminy ustala się według miejsca zamieszkania osoby ubiegającej się o świadczenie.
+
+2. W przypadku osoby bezdomnej właściwą miejscowo jest gmina ostatniego miejsca zameldowania tej osoby na pobyt stały.
 
 2a. W przypadku osoby przebywającej w placówce zapewniającej całodobową opiekę lub domu pomocy społecznej na podstawie umowy cywilnej właściwa miejscowo jest gmina miejsca zamieszkania tej osoby sprzed rozpoczęcia pobytu w tego typu placówce lub domu.
 
@@ -1781,7 +1904,7 @@ Art. 135–143. (pominięte)
 
 **Art. 103.**
 
-1. Kierownik ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – dyrektor centrum usług społecznych, oraz kierownik powiatowego centrum pomocy rodzinie może, w drodze umowy, ustalić na rzecz osoby ubiegającej się o przyznanie świadczenia. W tym przypadku nie stosuje się art. 96 ust. 1 pkt 3.
+1. Kierownik ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – dyrektor centrum usług społecznych, oraz kierownik powiatowego centrum pomocy rodzinie może, w drodze umowy, ustalić z małżonkiem, zstępnymi lub wstępnymi wysokość świadczonej przez nich pomocy na rzecz osoby ubiegającej się o przyznanie świadczenia. W tym przypadku nie stosuje się art. 96 ust. 1 pkt 3.
 
 2. Kierownik ośrodka pomocy społecznej albo dyrektor centrum usług społecznych, o którym mowa w ustawie z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych, ustala w drodze umowy z małżonkiem, zstępnymi przed wstępnymi mieszkańca domu wysokość wnoszonej przez nich opłaty za pobyt tego mieszkańca w domu pomocy społecznej, biorąc pod uwagę wysokość dochodów i możliwości.
 
@@ -1791,13 +1914,15 @@ Art. 135–143. (pominięte)
 
 1. Należności z tytułu wydatków na świadczenia z pomocy społecznej, z tytułu opłat określonych przepisami ustawy oraz z tytułu nienależnie pobranych świadczeń podlegają ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 
-2. W przypadku posiadania uprawnień do świadczeń pieniężnych z pomocy społecznej kwoty opłat, o których mowa w art. 97, oraz nienależnie pobranych świadczeń pieniężnych podlegają potrąceniu z bieżących wypłat, nie więcej jednak niż 50 % aktualnie pobieranego świadczenia.
+2. W przypadku posiadania uprawnień do świadczeń pieniężnych z pomocy społecznej kwoty opłat, o których mowa w art. 97, oraz nienależnie pobranych świadczeń pieniężnych podlegają potrąceniu z bieżących wypłat, niewięcej jednak niż 50 % aktualnie pobieranego świadczenia.
 
 3. Wysokość należności, o których mowa w ust. 1, podlegających zwrotowi oraz terminy ich zwrotu ustala się w drodze decyzji administracyjnej.
 
 4. W przypadkach szczególnie uzasadnionych, zwłaszcza jeżeli żądanie zwrotu wydatków na udzielone świadczenie, z tytułu opłat określonych w ustawie oraz z tytułu nienależnie pobranych świadczeń w całości lub w części stanowiłoby dla osoby zobowiązanej nadmierne obciążenie lub też niweczyłoby skutki udzielanej pomocy, właściwy organ, który wydał decyzję w sprawie zwrotu należności, o których mowa w ust. 1, na wniosek pracownika socjalnego lub osoby zainteresowanej, może odstąpić od żądania takiego zwrotu, umorzyć kwotę nienależnie pobranych świadczeń w całości lub w części, odroczyć termin płatności albo rozłożyć na raty.
 
-5. Należności, o których mowa w ust. 1, ulegają przedawnieniu z upływem 3 lat, licząc od dnia, w którym decyzja ustalająca te należności stała się ostateczna. rozłożenie spłaty należności na raty. Po przerwaniu biegu terminu przedawnienia biegnie on na nowo od dnia następującego po dniu ustalonym jako ostatni dzień spłaty odroczonej należności lub po dniu ustalonym jako ostatni dzień spłaty ostatniej raty należności.
+5. Należności, o których mowa w ust. 1, ulegają przedawnieniu z upływem 3 lat, licząc od dnia, w którym decyzja ustalająca te należności stała się ostateczna.
+
+6. Bieg przedawnienia przerywa odroczenie terminu płatności należności lub rozłożenie spłaty należności na raty. Po przerwaniu biegu terminu przedawnienia biegnie on na nowo od dnia następującego po dniu ustalonym jako ostatni dzień spłaty odroczonej należności lub po dniu ustalonym jako ostatni dzień spłaty ostatniej raty należności.
 
 7. Nie wydaje się decyzji o zwrocie nienależnie pobranych świadczeń, jeżeli od terminu ich pobrania upłynęło więcej niż 10 lat.
 
@@ -1805,11 +1930,11 @@ Art. 135–143. (pominięte)
 
 **Art. 105.**
 
-1. Jednostki sektora finansów publicznych, w tym sądy, Policja, Zakład Ubezpieczeń Społecznych, Kasa Rolniczego Ubezpieczenia Społecznego i organy administracji publicznej, a także kuratorzy sądowi, komornicy, pracodawcy, podmioty wykonujące działalność leczniczą, przedszkola, szkoły, placówki, poradnie i ośrodki, o których mowa w art. 2 pkt 1–8 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, szkoły wyższe, gminne komisje rozwiązywania problemów alkoholowych, organizacje pozarządowe, o których mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, oraz podmioty wymienione w art. 3 ust. 3 tej ustawy są obowiązani niezwłocznie, nie później jednak niż w terminie 7 dni od dnia otrzymania wniosku kierownika ośrodka pomocy społecznej, dyrektora centrum usług społecznych, o którym mowa w ustawie z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych, lub pracownika socjalnego udostępnić informacje, które mają znaczenie dla rozstrzygnięcia o przyznaniu lub wysokości świadczeń z pomocy społecznej, dla ustalenia wysokości odpłatności za świadczenia z pomocy społecznej lub dla weryfikacji uprawnień do świadczeń z pomocy społecznej, wysokości tych świadczeń lub odpłatności za te świadczenia.
+1. Jednostki sektora finansów publicznych, w tym sądy, Policja, Zakład Ubezpieczeń Społecznych, Kasa Rolniczego Ubezpieczenia Społecznego i organy administracji publicznej, a także kuratorzy sądowi, komornicy, pracodawcy, podmioty wykonujące działalność leczniczą, przedszkola, szkoły, placówki, poradnie i ośrodki, o których mowa w art. 2 pkt 1–8 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, szkoły wyższe, gminne komisje rozwiązywania problemów alkoholowych, organizacje pozarządowe, o których mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, oraz podmioty wymienione w art. 3 ust. 3 tej ustawy są obowiązani niezwłocznie, niepóźniej jednak niż w terminie 7 dni od dnia otrzymania wniosku kierownika ośrodka pomocy społecznej, dyrektora centrum usług społecznych, o którym mowa w ustawie z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych, lub pracownika socjalnego udostępnić informacje, które mają znaczenie dla rozstrzygnięcia o przyznaniu lub wysokości świadczeń z pomocy społecznej, dla ustalenia wysokości odpłatności za świadczenia z pomocy społecznej lub dla weryfikacji uprawnień do świadczeń z pomocy społecznej, wysokości tych świadczeń lub odpłatności za te świadczenia.
 
 2. Udostępnienie informacji gromadzonych przez publiczne służby zatrudnienia, które mają znaczenie dla rozstrzygnięcia o przyznaniu lub wysokości świadczeń z pomocy społecznej odbywa się na zasadach określonych w art. 51 ust. 4 pkt 12 i ust. 5 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.
 
-3. Kierownik ośrodka pomocy społecznej, dyrektor centrum usług społecznych, o którym mowa w ustawie z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych, lub pracownik socjalny mogą wystąpić, drogą elektroniczną, za pośrednictwem ministra właściwego do spraw zabezpieczenia społecznego, do jednostki organizacyjnej Zakładu Ubezpieczeń Społecznych w celu weryfikacji prawa do świadczeń z pomocy społecznej.
+3. Kierownik ośrodka pomocy społecznej, dyrektor centrum usług społecznych, o którym mowa w ustawie z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych, lub pracownik socjalny mogą wystąpić, drogą elektroniczną, za pośrednictwem ministra właściwego do spraw zabezpieczenia społecznego, do jednostki organizacyjnej Zakładu Ubezpieczeń Społecznych z wnioskiem o udostępnienie informacji, o których mowa w art. 23a ust. 2 pkt 19, w celu weryfikacji prawa do świadczeń z pomocy społecznej.
 
 **Art. 106.**
 
@@ -1827,7 +1952,7 @@ Art. 135–143. (pominięte)
 
 4. Decyzję administracyjną o przyznaniu lub odmowie przyznania świadczenia, z wyjątkiem decyzji o odmowie przyznania biletu kredytowanego oraz decyzji w sprawach cudzoziemców i osób, o których mowa w art. 5a, wydaje się po przeprowadzeniu rodzinnego wywiadu środowiskowego.
 
-5. Decyzję administracyjną zmienia się lub uchyla na niekorzyść strony bez jej zgody w przypadku zmiany przepisów prawa, zmiany sytuacji dochodowej lub osobistej strony, pobrania nienależnego świadczenia, a także można zmienić lub uchylić decyzję, jeżeli wystąpiły przesłanki, o których mowa w art. 11, art. 12 zgody.
+5. Decyzję administracyjną zmienia się lub uchyla na niekorzyść strony bez jej zgody w przypadku zmiany przepisów prawa, zmiany sytuacji dochodowej lub osobistej strony, pobrania nienależnego świadczenia, a także można zmienić lub uchylić decyzję, jeżeli wystąpiły przesłanki, o których mowa w art. 11, art. 12 i art. 107 ust. 5. Zmiana decyzji administracyjnej na korzyść strony nie wymaga jej zgody.
 
 6. Odwołanie od decyzji w sprawie świadczeń z pomocy społecznej może złożyć inna osoba za zgodą osoby ubiegającej się o świadczenie.
 
@@ -1840,7 +1965,9 @@ Art. 135–143. (pominięte)
 
 9. Jeżeli orzeczenie, o którym mowa w ust. 7, zostanie dostarczone w terminie 60 dni od dnia jego otrzymania, zawieszone postępowanie podejmuje się, a prawo do zasiłku stałego ustala się, począwszy od miesiąca, w którym złożono wniosek o przyznanie zasiłku stałego wraz z potwierdzeniem, o którym mowa w ust. 7. Do ustalenia kwoty zasiłku stałego za okres pobierania zasiłku okresowego w trakcie zawieszenia postępowania art. 37 ust. 6 nie stosuje się.
 
-10. Jeżeli orzeczenie, o którym mowa w ust. 7, zostanie dostarczone po upływie 60 dni od dnia jego otrzymania, zawieszone postępowanie podejmuje się, a prawo do zasiłku stałego ustala się, począwszy od miesiąca, w którym dostarczono orzeczenie. Do ustalenia kwoty zasiłku stałego za miesiąc, w którym dostarczono orzeczenie, o którym mowa w ust. 7, nie stosuje się art. 37 ust. 6 w przypadku pobierania zasiłku okresowego w trakcie zawieszenia postępowania. w terminie 3 lat od dnia zawieszenia postępowania lub powzięcia informacji o wydaniu orzeczenia zawieszone postępowanie podejmuje się z urzędu.
+10. Jeżeli orzeczenie, o którym mowa w ust. 7, zostanie dostarczone po upływie 60 dni od dnia jego otrzymania, zawieszone postępowanie podejmuje się, a prawo do zasiłku stałego ustala się, począwszy od miesiąca, w którym dostarczono orzeczenie. Do ustalenia kwoty zasiłku stałego za miesiąc, w którym dostarczono orzeczenie, o którym mowa w ust. 7, nie stosuje się art. 37 ust. 6 w przypadku pobierania zasiłku okresowego w trakcie zawieszenia postępowania.
+
+11. W przypadku niedostarczenia orzeczenia, o którym mowa w ust. 7, w terminie 3 lat od dnia zawieszenia postępowania lub powzięcia informacji o wydaniu orzeczenia zawieszone postępowanie podejmuje się z urzędu.
 
 **Art. 106a.**
 
@@ -1857,7 +1984,7 @@ Art. 135–143. (pominięte)
 1a. Rodzinny wywiad środowiskowy przeprowadza się również na podstawie:
 
 - **1)** art. 23 ust. 4aa ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych u osoby ubiegającej się o świadczenie pielęgnacyjne lub osoby pobierającej to świadczenie w celu weryfikacji wątpliwości dotyczących okoliczności związanej z niepodejmowaniem lub rezygnacją z zatrudnienia lub innej pracy zarobkowej oraz sprawowaniem faktycznej opieki nad osobą, na którą ubiega się lub pobiera świadczenie pielęgnacyjne;
-- **2)** art. 23 ust. 4e i 4f ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych u osoby ubiegającej się o specjalny zasiłek opiekuńczy lub osoby pobierającej to świadczenie w celu weryfikacji okoliczności dotyczących spełniania warunku niepodejmowania lub rezygnacji z zatrudnienia lub innej pracy zarobkowej oraz specjalny zasiłek opiekuńczy;
+- **2)** art. 23 ust. 4e i 4f ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych u osoby ubiegającej się o specjalny zasiłek opiekuńczy lub osoby pobierającej to świadczenie w celu weryfikacji okoliczności dotyczących spełniania warunku niepodejmowania lub rezygnacji z zatrudnienia lub innej pracy zarobkowej oraz sprawowania faktycznej opieki nad osobą, na którą ubiega się lub pobiera specjalny zasiłek opiekuńczy;
 - **3)** art. 15 ustawy z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci u osoby ubiegającej się o świadczenie wychowawcze lub osoby pobierającej to świadczenie w celu weryfikacji wątpliwości dotyczących sprawowania opieki nad dzieckiem, wydatkowania świadczenia wychowawczego niezgodnie z celem lub marnotrawienia świadczenia wychowawczego;
 - **4)** art. 7 ust. 1 ustawy z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów (Dz. U. z 2024 r. poz. 246);
 - **5)** (uchylony)
@@ -1871,9 +1998,9 @@ Art. 135–143. (pominięte)
 
 3a. Przy przeprowadzaniu rodzinnego wywiadu środowiskowego oraz świadczeniu pracy socjalnej w środowisku może uczestniczyć drugi pracownik socjalny. Rodzinny wywiad środowiskowy oraz świadczenie pracy socjalnej w środowisku może się odbywać w asyście funkcjonariusza Policji.
 
-3b. Kierownik ośrodka pomocy społecznej oraz dyrektor centrum usług społecznych, o którym mowa w ustawie z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych, na wniosek pracownika socjalnego ośrodka pomocy społecznej albo centrum usług społecznych lub z własnej inicjatywy, może wystąpić z wnioskiem do właściwego miejscowo komendanta Policji o asystę w trakcie przeprowadzania rodzinnego wywiadu środowiskowego lub świadczenia pracy socjalnej w środowisku. Właściwy miejscowo komendant Policji jest obowiązany do zapewnienia pracownikowi socjalnemu asysty Policji przy socjalnej w środowisku.
+3b. Kierownik ośrodka pomocy społecznej oraz dyrektor centrum usług społecznych, o którym mowa w ustawie z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych, na wniosek pracownika socjalnego ośrodka pomocy społecznej albo centrum usług społecznych lub z własnej inicjatywy, może wystąpić z wnioskiem do właściwego miejscowo komendanta Policji o asystę w trakcie przeprowadzania rodzinnego wywiadu środowiskowego lub świadczenia pracy socjalnej w środowisku. Właściwy miejscowo komendant Policji jest obowiązany do zapewnienia pracownikowi socjalnemu asysty Policji przy przeprowadzaniu rodzinnego wywiadu środowiskowego lub świadczeniu pracy socjalnej w środowisku.
 
-4. W przypadku ubiegania się o przyznanie świadczenia z pomocy społecznej po raz kolejny, a także gdy nastąpiła zmiana danych zawartych w wywiadzie, sporządza się aktualizację wywiadu. W przypadku osób korzystających ze stałych form pomocy aktualizację sporządza się, mimo braku zmiany danych, nie rzadziej niż co 6 miesięcy, a w przypadku osób przebywających w domach pomocy społecznej oraz w ośrodkach wsparcia dla osób z zaburzeniami psychicznymi – nie rzadziej niż co 12 miesięcy.
+4. W przypadku ubiegania się o przyznanie świadczenia z pomocy społecznej po raz kolejny, a także gdy nastąpiła zmiana danych zawartych w wywiadzie, sporządza się aktualizację wywiadu. W przypadku osób korzystających ze stałych form pomocy aktualizację sporządza się, mimo braku zmiany danych, nierzadziej niż co 6 miesięcy, a w przypadku osób przebywających w domach pomocy społecznej oraz w ośrodkach wsparcia dla osób z zaburzeniami psychicznymi – nierzadziej niż co 12 miesięcy.
 
 4a. Niewyrażenie zgody na przeprowadzenie rodzinnego wywiadu środowiskowego przez osoby lub rodziny ubiegające się o świadczenia z pomocy społecznej lub na jego aktualizację przez osoby lub rodziny korzystające ze świadczeń z pomocy społecznej stanowi podstawę do odmowy przyznania świadczenia, uchylenia decyzji o przyznaniu świadczenia lub wstrzymania świadczeń pieniężnych z pomocy społecznej.
 
@@ -1884,7 +2011,7 @@ Art. 135–143. (pominięte)
 - **1)** dowodu osobistego lub innego dokumentu stwierdzającego tożsamość;
 - **2)** skróconego odpisu aktu urodzenia dziecka lub książeczki zdrowia dziecka;
 - **3)** dokumentów określających status cudzoziemca w Rzeczypospolitej Polskiej;
-- **4)** decyzji właściwego organu w sprawie renty, emerytury, świadczenia przedemerytalnego lub zasiłku przedemerytalnego, emerytury pomostowej, nauczycielskiego świadczenia kompensacyjnego, uposażenia w stanie spoczynku, renty strukturalnej oraz renty socjalnej; [5) orzeczenia komisji do spraw inwalidztwa i zatrudnienia wydanego przed dniem 1 września 1997 r., orzeczenia lekarza orzecznika o niezdolności do pracy, niezdolności do samodzielnej egzystencji, orzeczenia komisji lekarskiej;] <5) orzeczenia komisji do spraw inwalidztwa i zatrudnienia wydanego przed dniem 1 września 1997 r., orzeczenia lekarza orzecznika o niezdolności do pracy, niezdolności do samodzielnej egzystencji, orzeczenia komisji samodzielnej egzystencji;>
+- **4)** decyzji właściwego organu w sprawie renty, emerytury, świadczenia przedemerytalnego lub zasiłku przedemerytalnego, emerytury pomostowej, nauczycielskiego świadczenia kompensacyjnego, uposażenia w stanie spoczynku, renty strukturalnej oraz renty socjalnej; [5) orzeczenia komisji do spraw inwalidztwa i zatrudnienia wydanego przed dniem 1 września 1997 r., orzeczenia lekarza orzecznika o niezdolności do pracy, niezdolności do samodzielnej egzystencji, orzeczenia komisji lekarskiej;] <5) orzeczenia komisji do spraw inwalidztwa i zatrudnienia wydanego przed dniem 1 września 1997 r., orzeczenia lekarza orzecznika o niezdolności do pracy, niezdolności do samodzielnej egzystencji, orzeczenia komisji lekarskiej, orzeczenia pielęgniarki lub pielęgniarza o niezdolności do samodzielnej egzystencji;>
 - **6)** orzeczenia o niepełnosprawności albo orzeczenia o stopniu niepełnosprawności;
 - **7)** zaświadczenia albo oświadczenia o wysokości wynagrodzenia z tytułu zatrudnienia, zawierającego informacje o wysokości potrąconej zaliczki na podatek dochodowy od osób fizycznych, kosztów uzyskania przychodu, składki na ubezpieczenie zdrowotne, składek na ubezpieczenia emerytalne i rentowe w części finansowanej przez ubezpieczonego oraz składki na ubezpieczenie chorobowe;
 - **8)** zaświadczenia albo oświadczenia o wysokości wynagrodzenia uzyskiwanego na podstawie umowy agencyjnej, umowy zlecenia, umowy o dzieło albo w okresie członkostwa w rolniczej spółdzielni produkcyjnej lub spółdzielni kółek rolniczych (usług rolniczych), zawierającego informacje o potrąconej zaliczce na podatek dochodowy od osób fizycznych, składki na ubezpieczenie zdrowotne, składek na ubezpieczenia emerytalne i rentowe w części finansowanej przez ubezpieczonego oraz składki na ubezpieczenie chorobowe;
@@ -1894,6 +2021,7 @@ Art. 135–143. (pominięte)
 - **11)** zaświadczenia urzędu gminy albo oświadczenia o powierzchni gospodarstwa rolnego w hektarach przeliczeniowych;
 - **12)** zaświadczenia albo oświadczenia o kontynuowaniu nauki w szkole podstawowej, szkole ponadpodstawowej lub szkole wyższej;
 - **13)** decyzji starosty o przyznaniu lub odmowie przyznania statusu bezrobotnego, utracie statusu bezrobotnego, o przyznaniu, odmowie przyznania, wstrzymaniu, wznowieniu wypłaty oraz utracie lub pozbawieniu prawa do zasiłku dla bezrobotnych, stypendium, dodatku aktywizacyjnego albo oświadczenia o pozostawaniu bezrobotnym lub poszukującym pracy;
+- **14)** decyzji Zakładu Ubezpieczeń Społecznych o ustaleniu kapitału początkowego;
 - **15)** zaświadczenia albo oświadczenia o zobowiązaniu do opłacania składki na ubezpieczenie społeczne rolników;
 - **15a)** dowodu opłacenia składki na ubezpieczenie społeczne rolników;
 - **15b)** dowodu opłacenia składki na ubezpieczenie społeczne przez osoby prowadzące pozarolniczą działalność gospodarczą;
@@ -1912,7 +2040,7 @@ Art. 135–143. (pominięte)
 
 5f. System teleinformatyczny, o którym mowa w ust. 5e, zapewnia, po zatwierdzeniu rodzinnego wywiadu środowiskowego, niezmienność i integralność danych uzyskanych od osoby, z którą został przeprowadzony rodzinny wywiad środowiskowy.
 
-5g. W przypadku wypełnienia kwestionariusza rodzinnego wywiadu środowiskowego w postaci elektronicznej, po zatwierdzeniu jego treści przez oświadczenie, w którym potwierdza zapoznanie się z treścią przeprowadzonego wywiadu, prawdziwość danych zawartych w wywiadzie oraz zapoznanie się z pouczeniem o odpowiedzialności karnej za składanie fałszywych zeznań.
+5g. W przypadku wypełnienia kwestionariusza rodzinnego wywiadu środowiskowego w postaci elektronicznej, po zatwierdzeniu jego treści przez pracownika socjalnego, osoba, z którą przeprowadza się wywiad, podpisuje oświadczenie, w którym potwierdza zapoznanie się z treścią przeprowadzonego wywiadu, prawdziwość danych zawartych w wywiadzie oraz zapoznanie się z pouczeniem o odpowiedzialności karnej za składanie fałszywych zeznań.
 
 5h. W oświadczeniu, o którym mowa w ust. 5g, pracownik socjalny przeprowadzający rodzinny wywiad środowiskowy wpisuje wygenerowaną automatycznie przez system teleinformatyczny, o którym mowa w ust. 5e, sygnaturę zatwierdzonego wywiadu w postaci elektronicznej. Wywiad ten po podpisaniu oświadczenia nie może być zmieniony w zakresie danych pozyskanych od osoby w trakcie przeprowadzanego wywiadu.
 
@@ -1928,7 +2056,9 @@ Art. 135–143. (pominięte)
 
 1. W celu określenia sposobu współdziałania w rozwiązywaniu problemów osoby lub rodziny znajdujących się w trudnej sytuacji życiowej pracownik socjalny zatrudniony w ośrodku pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – w centrum usług społecznych, lub w powiatowym centrum pomocy rodzinie może zawrzeć kontrakt socjalny z tą osobą lub rodziną, w celu wzmocnienia aktywności i samodzielności życiowej, zawodowej lub przeciwdziałania wykluczeniu społecznemu.
 
-1a. Kontrakt socjalny z osobą bezdomną zawiera pracownik socjalny ośrodka pomocy społecznej właściwego ze względu na miejsce pobytu osoby ubiegającej się o świadczenie, który odpowiada za realizację oraz ocenę realizacji działań zawartych w kontrakcie. W takim przypadku treść kontraktu socjalnego przed jego zawarciem uzgadnia się z pracownikiem socjalnym ośrodka pomocy społecznej właściwego ze względu na ostatnie miejsce zameldowania tej osoby na pobyt stały. którego są realizowane działania na rzecz wzmocnienia aktywności bezrobotnego, może być dokonywane na podstawie skierowania powiatowego urzędu pracy na zasadach określonych w art. 198 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.
+1a. Kontrakt socjalny z osobą bezdomną zawiera pracownik socjalny ośrodka pomocy społecznej właściwego ze względu na miejsce pobytu osoby ubiegającej się o świadczenie, który odpowiada za realizację oraz ocenę realizacji działań zawartych w kontrakcie. W takim przypadku treść kontraktu socjalnego przed jego zawarciem uzgadnia się z pracownikiem socjalnym ośrodka pomocy społecznej właściwego ze względu na ostatnie miejsce zameldowania tej osoby na pobyt stały.
+
+2. W przypadku bezrobotnych podpisanie kontraktu socjalnego, w ramach którego są realizowane działania na rzecz wzmocnienia aktywności bezrobotnego, może być dokonywane na podstawie skierowania powiatowego urzędu pracy na zasadach określonych w art. 198 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.
 
 3. Za osobę, z którą zawarto kontrakt socjalny, o której mowa w ust. 2, ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrum usług społecznych, opłaca składkę na ubezpieczenie zdrowotne na zasadach określonych w przepisach o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 
@@ -1940,7 +2070,7 @@ Art. 135–143. (pominięte)
 
 1. Podmiot prowadzący rachunek płatniczy oraz bank i spółdzielcza kasa oszczędnościowo-kredytowa prowadzące rachunek inny niż płatniczy, a także wydawca instrumentu płatniczego są obowiązani zwrócić z tych rachunków ośrodkowi pomocy społecznej, na wniosek kierownika ośrodka pomocy społecznej, kwoty świadczeń pomocy społecznej przekazane po dniu śmierci osoby uprawnionej na ten rachunek albo instrument płatniczy.
 
-2. Podmiot prowadzący rachunek płatniczy oraz bank i spółdzielcza kasa oszczędnościowo-kredytowa prowadzące rachunek inny niż płatniczy, a także wydawca instrumentu płatniczego są zwolnieni od wypłaty pełnej lub częściowej kwoty, o której mowa w ust. 1, jeżeli przed otrzymaniem wniosku kierownika ośrodka pomocy społecznej dokonali z tych rachunków wypłat innym osobom i w związku z tym wypłaty te nie pozwalają zrealizować wniosku w całości lub w części, oraz w terminie 30 dni od dnia otrzymania wniosku poinformują o tym kierownika ośrodka wypłat.
+2. Podmiot prowadzący rachunek płatniczy oraz bank i spółdzielcza kasa oszczędnościowo-kredytowa prowadzące rachunek inny niż płatniczy, a także wydawca instrumentu płatniczego są zwolnieni od wypłaty pełnej lub częściowej kwoty, o której mowa w ust. 1, jeżeli przed otrzymaniem wniosku kierownika ośrodka pomocy społecznej dokonali z tych rachunków wypłat innym osobom i w związku z tym wypłaty te nie pozwalają zrealizować wniosku w całości lub w części, oraz w terminie 30 dni od dnia otrzymania wniosku poinformują o tym kierownika ośrodka pomocy społecznej, wraz ze wskazaniem osób, na rzecz których dokonano tych wypłat.
 
 3. Zwrot kwot świadczeń, o którym mowa w ust. 1, uznaje się za zwrot świadczeń nienależnie pobranych.
 
@@ -1960,7 +2090,7 @@ Art. 135–143. (pominięte)
 
 5. Kierownik ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – dyrektor centrum usług społecznych, może wytaczać na rzecz obywateli powództwa o roszczenia alimentacyjne. W postępowaniu przed sądem stosuje się odpowiednio przepisy o udziale prokuratora w postępowaniu cywilnym.
 
-6. Ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrum usług społecznych, może kierować wnioski o ustalenie niezdolności do pracy, przepisami.
+6. Ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrum usług społecznych, może kierować wnioski o ustalenie niezdolności do pracy, niepełnosprawności i stopnia niepełnosprawności do organów określonych odrębnymi przepisami.
 
 7. Wójt (burmistrz, prezydent miasta) udziela kierownikowi ośrodka pomocy społecznej upoważnienia do wydawania decyzji administracyjnych w indywidualnych sprawach z zakresu pomocy społecznej należących do właściwości gminy, z zastrzeżeniem ust. 8a.
 
@@ -1972,7 +2102,9 @@ Art. 135–143. (pominięte)
 
 10. Rada gminy, biorąc pod uwagę potrzeby, o których mowa w ust. 9, opracowuje i kieruje do wdrożenia lokalne programy pomocy społecznej.
 
-11. Ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrum usług społecznych, zatrudnia pracowników socjalnych proporcjonalnie do liczby ludności gminy w stosunku jeden pracownik socjalny zatrudniony w pełnym wymiarze czasu pracy na 2000 mieszkańców lub proporcjonalnie do liczby rodzin i osób samotnie gospodarujących, objętych pracą socjalną w stosunku jeden pracownik socjalny zatrudniony w pełnym wymiarze czasu pracy na nie więcej niż 50 rodzin i osób samotnie gospodarujących. pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrum usług społecznych, zatrudnia w pełnym wymiarze czasu pracy nie mniej niż 3 pracowników socjalnych.
+11. Ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrum usług społecznych, zatrudnia pracowników socjalnych proporcjonalnie do liczby ludności gminy w stosunku jeden pracownik socjalny zatrudniony w pełnym wymiarze czasu pracy na 2000 mieszkańców lub proporcjonalnie do liczby rodzin i osób samotnie gospodarujących, objętych pracą socjalną w stosunku jeden pracownik socjalny zatrudniony w pełnym wymiarze czasu pracy na niewięcej niż 50 rodzin i osób samotnie gospodarujących.
+
+12. Ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrum usług społecznych, zatrudnia w pełnym wymiarze czasu pracy niemniej niż 3 pracowników socjalnych.
 
 **Art. 110a.**
 
@@ -2000,7 +2132,9 @@ Art. 135–143. (pominięte)
 
 **Art. 112.**
 
-1. Zadania pomocy społecznej w powiatach wykonują jednostki organizacyjne – powiatowe centra pomocy rodzinie. powiatu realizują miejskie ośrodki pomocy społecznej, które mogą być nazwane „miejskimi ośrodkami pomocy rodzinie”, a w przypadku przekształcenia miejskiego ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrum usług społecznych.
+1. Zadania pomocy społecznej w powiatach wykonują jednostki organizacyjne – powiatowe centra pomocy rodzinie.
+
+2. Zadania powiatowych centrów pomocy rodzinie w miastach na prawach powiatu realizują miejskie ośrodki pomocy społecznej, które mogą być nazwane „miejskimi ośrodkami pomocy rodzinie”, a w przypadku przekształcenia miejskiego ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrum usług społecznych.
 
 3. Kierownik powiatowego centrum pomocy rodzinie może wytaczać na rzecz obywateli powództwa o roszczenia alimentacyjne. W postępowaniu przed sądem stosuje się odpowiednio przepisy o udziale prokuratora w postępowaniu cywilnym.
 
@@ -2022,7 +2156,9 @@ Art. 135–143. (pominięte)
 
 11. (uchylony)
 
-12. Kierownik powiatowego centrum pomocy rodzinie składa radzie powiatu coroczne sprawozdanie z działalności centrum oraz przedstawia wykaz potrzeb w zakresie pomocy społecznej. opracowuje i wdraża lokalne programy pomocy społecznej.
+12. Kierownik powiatowego centrum pomocy rodzinie składa radzie powiatu coroczne sprawozdanie z działalności centrum oraz przedstawia wykaz potrzeb w zakresie pomocy społecznej.
+
+13. Rada powiatu na podstawie wykazu potrzeb, o którym mowa w ust. 12, opracowuje i wdraża lokalne programy pomocy społecznej.
 
 **Art. 112a.**
 
@@ -2048,13 +2184,15 @@ Art. 135–143. (pominięte)
 
 **Art. 113c.** Jednostka organizacyjna pomocy społecznej zapewniająca całodobowe usługi nie może się mieścić w jednym budynku z:
 
+**Art. 114.** (uchylony)
+
 **Art. 115.**
 
 1. Jednostki samorządu terytorialnego mogą otrzymywać dotacje celowe z budżetu państwa na dofinansowanie zadań własnych z zakresu pomocy społecznej, przy czym wysokość dotacji nie może przekroczyć 80 % kosztów realizacji zadania, z zastrzeżeniem ust. 2.
 
-2. Jeżeli środki przeznaczone na dotację, o której mowa w ust. 1, pochodzą z programów rządowych, programów resortowych, pożyczek, o których mowa w art. 5 ust. 1 pkt 4 lit. d ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530, 1572, 1717, 1756 i 1907 oraz z 2025 r. poz. 39) lub służą wypłacie zasiłków celowych na pokrycie wydatków powstałych w wyniku zdarzenia losowego, wysokość dotacji może przekroczyć 80 % kosztów realizacji zadania.
+2. Jeżeli środki przeznaczone na dotację, o której mowa w ust. 1, pochodzą z programów rządowych, programów resortowych, pożyczek, o których mowa w art. 5 ust. 1 pkt 4 lit. d ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426) lub służą wypłacie zasiłków celowych na pokrycie wydatków powstałych w wyniku zdarzenia losowego, wysokość dotacji może przekroczyć 80 % kosztów realizacji zadania.
 
-**Art. 115a.** Zadania określone w ustawie mogą być finansowane ze środków Funduszu Solidarnościowego, na zasadach określonych w ustawie z dnia 23 października 2018 r. o Funduszu Solidarnościowym (Dz. U. z 2024 r. poz. 1848).
+**Art. 115a.** Zadania określone w ustawie mogą być finansowane ze środków Funduszu Solidarnościowego, na zasadach określonych w ustawie z dnia 23 października 2018 r. o Funduszu Solidarnościowym (Dz. U. z 2024 r. poz.
 
 #### Rozdział 2 Pracownicy socjalni
 
@@ -2073,7 +2211,9 @@ Art. 135–143. (pominięte)
     - **f)** socjologia,
     - **g)** nauki o rodzinie;
 
-- **4)** ukończyła studia podyplomowe z zakresu metodyki i metodologii pracy socjalnej w uczelni realizującej studia na kierunku praca socjalna lub w zakresie pracy socjalnej, po uprzednim ukończeniu studiów na jednym z kierunków, o których mowa w pkt 3. z ministrem właściwym do spraw szkolnictwa wyższego określi, w drodze rozporządzenia, wymagane umiejętności, wykaz przedmiotów, minimalny wymiar zajęć dydaktycznych oraz zakres i wymiar praktyk zawodowych dla specjalności przygotowującej do zawodu pracownika socjalnego, realizowanej w szkołach wyższych na kierunkach wymienionych w ust. 1, kierując się koniecznością odpowiedniego przygotowania absolwentów do wykonywania zawodu pracownika socjalnego.
+- **4)** ukończyła studia podyplomowe z zakresu metodyki i metodologii pracy socjalnej w uczelni realizującej studia na kierunku praca socjalna lub w zakresie pracy socjalnej, po uprzednim ukończeniu studiów na jednym z kierunków, o których mowa w pkt 3.
+
+1a. Minister właściwy do spraw zabezpieczenia społecznego w porozumieniu z ministrem właściwym do spraw szkolnictwa wyższego określi, w drodze rozporządzenia, wymagane umiejętności, wykaz przedmiotów, minimalny wymiar zajęć dydaktycznych oraz zakres i wymiar praktyk zawodowych dla specjalności przygotowującej do zawodu pracownika socjalnego, realizowanej w szkołach wyższych na kierunkach wymienionych w ust. 1, kierując się koniecznością odpowiedniego przygotowania absolwentów do wykonywania zawodu pracownika socjalnego.
 
 1b. Minister właściwy do spraw zabezpieczenia społecznego w porozumieniu z ministrem właściwym do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia, minimalne wymogi programowe dla studiów podyplomowych z zakresu metodyki i metodologii pracy socjalnej w uczelni realizującej studia na kierunku praca socjalna lub w zakresie pracy socjalnej, z uwzględnieniem tematyki wykładów oraz minimalnej liczby godzin ich trwania, biorąc pod uwagę kwalifikacje i umiejętności niezbędne dla prawidłowego wykonywania zawodu pracownika socjalnego.
 
@@ -2088,7 +2228,9 @@ Art. 135–143. (pominięte)
 
 1. Przy ministrze właściwym do spraw zabezpieczenia społecznego działa Centralna Komisja Egzaminacyjna do spraw stopni specjalizacji zawodowej pracowników socjalnych, zwana dalej „Komisją”, której członków powołuje i odwołuje minister.
 
-2. W związku z wykonywaniem czynności wynikających z ust. 3 członkom Komisji przysługują diety oraz inne należności za czas podróży, na zasadach określonych w przepisach dotyczących podróży służbowych pracowników na obszarze kraju. pokrywane z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw zabezpieczenia społecznego.
+2. W związku z wykonywaniem czynności wynikających z ust. 3 członkom Komisji przysługują diety oraz inne należności za czas podróży, na zasadach określonych w przepisach dotyczących podróży służbowych pracowników na obszarze kraju.
+
+2a. Koszty działalności Komisji, w tym wynagrodzenia członków Komisji, są pokrywane z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw zabezpieczenia społecznego.
 
 3. Do zadań Komisji należy w szczególności:
 
@@ -2102,7 +2244,9 @@ Art. 135–143. (pominięte)
 - **8)** opiniowanie spraw spornych dotyczących pracy komisji regionalnych;
 - **8a)** przeprowadzanie postępowania oraz egzaminu w zakresie uzyskiwania certyfikatu superwizora pracy socjalnej w terminie wyznaczonym przez Komisję oraz informowanie osób ubiegających się o dopuszczenie do egzaminu na superwizora pracy socjalnej o terminie egzaminu;
 - **8b)** opiniowanie dla ministra właściwego do spraw zabezpieczenia społecznego programów szkoleń dla superwizorów pracy socjalnej i przedstawianie informacji na temat zasobów jednostek, o których mowa w art. 121a ust. 4;
-- **9)** nadawanie certyfikatu superwizora pracy socjalnej i prowadzenie rejestru wydanych certyfikatów. i udostępniany w Biuletynie Informacji Publicznej na stronie internetowej urzędu obsługującego ministra właściwego do spraw zabezpieczenia społecznego.
+- **9)** nadawanie certyfikatu superwizora pracy socjalnej i prowadzenie rejestru wydanych certyfikatów.
+
+3a. Rejestr wydanych certyfikatów superwizora pracy socjalnej jest jawny i udostępniany w Biuletynie Informacji Publicznej na stronie internetowej urzędu obsługującego ministra właściwego do spraw zabezpieczenia społecznego.
 
 4. Za egzamin, o którym mowa w ust. 3 pkt 1, w tym za egzamin poprawkowy, osoby przystępujące do egzaminu wnoszą opłatę w wysokości 10 % przeciętnego wynagrodzenia w gospodarce narodowej w poprzednim roku kalendarzowym.
 
@@ -2120,7 +2264,7 @@ Art. 135–143. (pominięte)
 
 1c. Koszty działalności regionalnych komisji egzaminacyjnych, w tym wynagrodzenia członków komisji, pokrywa urząd marszałkowski, a w przypadku, o którym mowa w ust. 1a, regionalny ośrodek polityki społecznej albo podmiot, którego organem prowadzącym jest samorząd województwa.
 
-1d. Obsługę administracyjno-techniczną regionalnej komisji egzaminacyjnej zapewnia marszałek danego województwa, a w przypadku, o którym mowa w ust. 1a, podmiotem, którego organem prowadzącym jest samorząd województwa.
+1d. Obsługę administracyjno-techniczną regionalnej komisji egzaminacyjnej zapewnia marszałek danego województwa, a w przypadku, o którym mowa w ust. 1a, dyrektor regionalnego ośrodka polityki społecznej albo osoba kierująca innym podmiotem, którego organem prowadzącym jest samorząd województwa.
 
 2. Do zadań regionalnych komisji egzaminacyjnych należy:
 
@@ -2144,7 +2288,8 @@ Art. 135–143. (pominięte)
 - **2)** dokonywanie analizy, diagnozy i oceny zjawisk indywidualnych i społecznych, a także formułowanie opinii w zakresie zapotrzebowania na świadczenia z pomocy społecznej oraz kwalifikowanie do uzyskania tych świadczeń;
 - **3)** udzielanie informacji, wskazówek, porad i pomocy w zakresie rozwiązywania spraw życiowych osobom, rodzinom, grupom i społecznościom, które dzięki tej pomocy będą zdolne samodzielnie rozwiązywać problemy będące przyczyną ich trudnej sytuacji lub zaspokajać niezbędne potrzeby życiowe;
 - **4)** pomoc w uzyskaniu dla osób lub rodzin będących w trudnej sytuacji życiowej specjalistycznego poradnictwa, terapii lub innych form pomocy w zakresie możliwości rozwiązywania problemów przez właściwe instytucje państwowe, samorządowe i organizacje pozarządowe;
-- **5)** udzielanie pomocy zgodnie z zasadami etyki zawodowej; w zaspokajaniu niezbędnych potrzeb życiowych osób, rodzin, grup i środowisk społecznych;
+- **5)** udzielanie pomocy zgodnie z zasadami etyki zawodowej;
+- **6)** pobudzanie społecznej aktywności i inspirowanie działań samopomocowych w zaspokajaniu niezbędnych potrzeb życiowych osób, rodzin, grup i środowisk społecznych;
 - **7)** współpraca i współdziałanie z innymi specjalistami w celu przeciwdziałania i ograniczania problemów oraz skutków negatywnych zjawisk społecznych, łagodzenie konsekwencji ubóstwa;
 - **8)** inicjowanie nowych form pomocy osobom i rodzinom mającym trudną sytuację życiową oraz inspirowanie powołania instytucji świadczących usługi służące poprawie sytuacji takich osób i rodzin;
 - **9)** współuczestniczenie w inspirowaniu, opracowaniu, wdrożeniu oraz rozwijaniu regionalnych i lokalnych programów pomocy społecznej ukierunkowanych na podniesienie jakości życia;
@@ -2165,7 +2310,11 @@ Art. 135–143. (pominięte)
 
 2. Pracownicy socjalni mogą być również zatrudniani w podmiotach uprawnionych, o których mowa w art. 25 ust. 1.
 
-3. Pracownicy socjalni mogą być również zatrudniani przez podmioty realizujące zadania określone w przepisach o wspieraniu rodziny i systemie pieczy zastępczej. wykonywaniu swoich zadań w urzędach, instytucjach, podmiotach wykonujących działalność leczniczą i innych placówkach.
+3. Pracownicy socjalni mogą być również zatrudniani przez podmioty realizujące zadania określone w przepisach o wspieraniu rodziny i systemie pieczy zastępczej.
+
+**Art. 121.**
+
+1. Pracownik socjalny korzysta z prawa pierwszeństwa przy wykonywaniu swoich zadań w urzędach, instytucjach, podmiotach wykonujących działalność leczniczą i innych placówkach.
 
 1a. Organy i instytucje administracji publicznej, podmioty wykonujące działalność leczniczą i organizacje pozarządowe są obowiązane do udzielania pracownikowi socjalnemu pomocy w wykonywaniu jego zadań.
 
@@ -2179,7 +2328,7 @@ Art. 135–143. (pominięte)
 
 2d. Pracownikowi socjalnemu zatrudnionemu w samorządowej jednostce organizacyjnej pomocy społecznej, pokrzywdzonemu przestępstwem, o którym mowa w art. 222, art. 223 lub art. 226 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, w związku z wykonywaniem czynności służbowych przysługuje, na jego wniosek, bezpłatna ochrona prawna w postępowaniu karnym, w którym uczestniczy w charakterze pokrzywdzonego lub oskarżyciela posiłkowego.
 
-2e. Ochronę prawną, o której mowa w ust. 2d, zapewnia samorządowa jednostka organizacyjna pomocy społecznej, w której jest zatrudniony pracownik socjalny, a jeżeli jednostka ta nie ma zapewnionej obsługi prawnej realizowanej przez radców gminy, starostwo powiatowe lub urząd marszałkowski.
+2e. Ochronę prawną, o której mowa w ust. 2d, zapewnia samorządowa jednostka organizacyjna pomocy społecznej, w której jest zatrudniony pracownik socjalny, a jeżeli jednostka ta nie ma zapewnionej obsługi prawnej realizowanej przez radców prawnych lub adwokatów, ochronę prawną zapewnia właściwy miejscowo urząd gminy, starostwo powiatowe lub urząd marszałkowski.
 
 2f. W przypadku braku możliwości zapewnienia ochrony prawnej przez podmioty, o których mowa w ust. 2e, pracownikowi socjalnemu przysługuje zwrot kosztów ochrony prawnej, o której mowa w ust. 2d, w wysokości 50 % faktycznie poniesionych kosztów.
 
@@ -2195,9 +2344,9 @@ Art. 135–143. (pominięte)
 
 3. Pracownikowi socjalnemu zatrudnionemu w ośrodku pomocy społecznej, centrum usług społecznych, o którym mowa w ustawie z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych, lub w powiatowym centrum pomocy rodzinie, do którego obowiązków należy praca socjalna lub przeprowadzanie rodzinnych wywiadów środowiskowych, jeżeli przepracował nieprzerwanie i faktycznie co najmniej 3 lata, przysługuje raz na 2 lata dodatkowy urlop wypoczynkowy w wymiarze 10 dni roboczych.
 
-3a. Pracownikowi socjalnemu zatrudnionemu w pełnym wymiarze czasu pracy w samorządowych jednostkach organizacyjnych pomocy społecznej, do którego podstawowych obowiązków należy świadczenie pracy socjalnej lub przeprowadzanie rodzinnych wywiadów środowiskowych poza siedzibą jednostki, przysługuje wypłacany co miesiąc dodatek do wynagrodzenia w wysokości 400 zł. W przypadku zatrudnienia w mniejszym wymiarze czasu pracy dodatek przysługuje w wysokości proporcjonalnej do czasu pracy. wysokości wynagrodzenia pracownika zgodnie z art. 6 ust. 4 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773).
+3a. Pracownikowi socjalnemu zatrudnionemu w pełnym wymiarze czasu pracy w samorządowych jednostkach organizacyjnych pomocy społecznej, do którego podstawowych obowiązków należy świadczenie pracy socjalnej lub przeprowadzanie rodzinnych wywiadów środowiskowych poza siedzibą jednostki, przysługuje wypłacany co miesiąc dodatek do wynagrodzenia w wysokości 400 zł. W przypadku zatrudnienia w mniejszym wymiarze czasu pracy dodatek przysługuje w wysokości proporcjonalnej do czasu pracy. 3aa. Dodatek, o którym mowa w ust. 3a, nie jest uwzględniany przy obliczaniu wysokości wynagrodzenia pracownika zgodnie z art. 6 ust. 4 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773).
 
-3b. Pracownikowi socjalnemu przysługuje zwrot kosztów uczestnictwa w szkoleniach w zakresie specjalizacji zawodowej w zawodzie pracownika socjalnego, w kwocie nie mniejszej niż 50 % kosztów szkolenia.
+3b. Pracownikowi socjalnemu przysługuje zwrot kosztów uczestnictwa w szkoleniach w zakresie specjalizacji zawodowej w zawodzie pracownika socjalnego, w kwocie niemniejszej niż 50 % kosztów szkolenia.
 
 3c. Pracownikowi socjalnemu, do którego obowiązków należy świadczenie pracy socjalnej w środowisku lub przeprowadzanie rodzinnych wywiadów środowiskowych poza siedzibą jednostki, przysługuje zwrot kosztów przejazdów z miejsca pracy do miejsc wykonywania przez niego czynności zawodowych, w przypadku braku możliwości zapewnienia dojazdu środkami pozostającymi w dyspozycji zatrudniającego go pracodawcy.
 
@@ -2215,9 +2364,9 @@ Art. 135–143. (pominięte)
 
 3. Superwizorem pracy socjalnej może być osoba, która ukończyła szkolenie dla superwizorów pracy socjalnej, przystąpiła do egzaminu, zdała egzamin i uzyskała certyfikat superwizora pracy socjalnej.
 
-4. Szkolenie, o którym mowa w ust. 3, mogą realizować jednostki prowadzące kształcenie pracowników socjalnych lub szkolenia z zakresu I lub II stopnia doświadczeniem w tym zakresie po uzyskaniu zgody ministra właściwego do spraw zabezpieczenia społecznego na prowadzenie szkoleń dla superwizorów pracy socjalnej.
+4. Szkolenie, o którym mowa w ust. 3, mogą realizować jednostki prowadzące kształcenie pracowników socjalnych lub szkolenia z zakresu I lub II stopnia specjalizacji w zawodzie pracownik socjalny i wykazujące się co najmniej 3-letnim doświadczeniem w tym zakresie po uzyskaniu zgody ministra właściwego do spraw zabezpieczenia społecznego na prowadzenie szkoleń dla superwizorów pracy socjalnej.
 
-5. Warunkiem przystąpienia do szkolenia dla superwizorów pracy socjalnej jest złożenie wniosku o dopuszczenie do szkolenia dla superwizorów pracy socjalnej, a także wykazanie się posiadaniem wykształcenia uprawniającego do wykonywania zawodu pracownika socjalnego oraz tytułu zawodowego magistra uzyskanego po ukończeniu studiów na jednym z kierunków lub w zakresie: pedagogika, pedagogika specjalna, politologia, politologia i nauki społeczne, polityka społeczna, praca socjalna, psychologia, socjologia, nauki o rodzinie lub posiadaniem decyzji o uznaniu kwalifikacji w zawodzie regulowanym pracownika socjalnego na podstawie przepisów ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2023 r. poz. 334 oraz z 2025 r. poz. 619) oraz co najmniej 5-letnim stażem w jednostkach organizacyjnych pomocy społecznej lub wykazanie się udokumentowanym doświadczeniem w przeprowadzeniu co najmniej 500 godzin szkoleń dla pracowników socjalnych z zakresu umiejętności interpersonalnych i społecznych, metodyki pracy socjalnej, diagnozy socjalnej, warsztatu pracy pracownika socjalnego lub aksjologii pracy socjalnej w okresie ostatnich 5 lat przed złożeniem wniosku o dopuszczenie do szkolenia dla superwizorów pracy socjalnej.
+5. Warunkiem przystąpienia do szkolenia dla superwizorów pracy socjalnej jest złożenie wniosku o dopuszczenie do szkolenia dla superwizorów pracy socjalnej, a także wykazanie się posiadaniem wykształcenia uprawniającego do wykonywania zawodu pracownika socjalnego oraz tytułu zawodowego magistra uzyskanego po ukończeniu studiów na jednym z kierunków lub w zakresie: pedagogika, pedagogika specjalna, politologia, politologia i nauki społeczne, polityka społeczna, praca socjalna, psychologia, socjologia, nauki o rodzinie lub posiadaniem decyzji o uznaniu kwalifikacji w zawodzie regulowanym pracownika socjalnego na podstawie przepisów ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2026 r. poz. 166) oraz co najmniej 5-letnim stażem w jednostkach organizacyjnych pomocy społecznej lub wykazanie się udokumentowanym doświadczeniem w przeprowadzeniu co najmniej 500 godzin szkoleń dla pracowników socjalnych z zakresu umiejętności interpersonalnych i społecznych, metodyki pracy socjalnej, diagnozy socjalnej, warsztatu pracy pracownika socjalnego lub aksjologii pracy socjalnej w okresie ostatnich 5 lat przed złożeniem wniosku o dopuszczenie do szkolenia dla superwizorów pracy socjalnej.
 
 6. Za egzamin, o którym mowa w ust. 3, w tym za egzamin poprawkowy, osoby przystępujące wnoszą opłatę w wysokości 20 % przeciętnego wynagrodzenia w gospodarce narodowej w poprzednim roku kalendarzowym.
 
@@ -2228,7 +2377,8 @@ Art. 135–143. (pominięte)
 - **3)** sposób szkolenia dla superwizorów pracy socjalnej,
 - **4)** sposób wnoszenia odpłatności za postępowanie związane z uzyskaniem certyfikatu, w tym za egzamin i egzamin poprawkowy,
 - **5)** organizację i sposób przeprowadzania egzaminu,
-- **6)** wzór certyfikatu superwizora pracy socjalnej, prowadzenie szkolenia dla superwizorów pracy socjalnej,
+- **6)** wzór certyfikatu superwizora pracy socjalnej,
+- **7)** warunki, jakie powinny spełniać podmioty ubiegające się o uzyskanie zgody na prowadzenie szkolenia dla superwizorów pracy socjalnej,
 - **8)** sposób i warunki nadawania podmiotom ubiegającym się o uzyskanie zgody na prowadzenie szkolenia dla superwizorów pracy socjalnej uprawnień do prowadzenia szkoleń dla superwizorów pracy socjalnej,
 - **9)** wymagania dotyczące kadry dydaktycznej szkolenia dla superwizorów pracy socjalnej,
 - **10)** sposób prowadzenia nadzoru merytorycznego nad szkoleniami dla superwizorów pracy socjalnej,
@@ -2247,7 +2397,7 @@ Art. 135–143. (pominięte)
 2. Wyższy stopień awansu zawodowego można nadać po spełnieniu warunku odpowiedniego minimalnego poziomu wykształcenia oraz stażu pracy w zawodzie pracownika socjalnego, które ustala się dla:
 
 - **1)** starszego pracownika socjalnego – jako wykształcenie wyższe lub studia podyplomowe lub wykształcenie średnie uprawniające, zgodnie z przepisami ustawy, do wykonywania zawodu pracownika socjalnego oraz posiadanie 2-letniego stażu pracy;
-- **2)** specjalisty pracy socjalnej – jako wykształcenie wyższe lub studia podyplomowe uprawniające, zgodnie z przepisami ustawy, do wykonywania zawodu wykształcenie średnie uprawniające, zgodnie z przepisami ustawy, do wykonywania zawodu pracownika socjalnego i posiadanie specjalizacji I stopnia w zawodzie pracownik socjalny oraz posiadanie 3-letniego stażu pracy;
+- **2)** specjalisty pracy socjalnej – jako wykształcenie wyższe lub studia podyplomowe uprawniające, zgodnie z przepisami ustawy, do wykonywania zawodu pracownika socjalnego oraz posiadanie 3-letniego stażu pracy lub jako wykształcenie średnie uprawniające, zgodnie z przepisami ustawy, do wykonywania zawodu pracownika socjalnego i posiadanie specjalizacji I stopnia w zawodzie pracownik socjalny oraz posiadanie 3-letniego stażu pracy;
 - **3)** starszego specjalisty pracy socjalnej lub starszego specjalisty pracy socjalnej – koordynatora – jako wykształcenie wyższe lub studia podyplomowe uprawniające, zgodnie z przepisami ustawy, do wykonywania zawodu pracownika socjalnego oraz posiadanie 5-letniego stażu pracy lub wykształcenie średnie uprawniające, zgodnie z przepisami ustawy, do wykonywania zawodu pracownika socjalnego i posiadanie specjalizacji II stopnia w zawodzie pracownik socjalny oraz posiadanie 5-letniego stażu pracy;
 - **4)** głównego specjalisty pracy socjalnej – jako wykształcenie wyższe lub studia podyplomowe uprawniające, zgodnie z przepisami ustawy, do wykonywania zawodu pracownika socjalnego i posiadanie specjalizacji II stopnia w zawodzie pracownik socjalny oraz posiadanie 6-letniego stażu pracy.
 
@@ -2261,7 +2411,9 @@ Art. 135–143. (pominięte)
 
 6a. Organem nadzorującym jednostkę organizacyjną pomocy społecznej, o którym mowa w ust. 6, jest odpowiednio wójt (burmistrz, prezydent miasta), starosta lub marszałek województwa.
 
-7. Organ nadzorujący, o którym mowa w ust. 6, analizuje treść zastrzeżenia i na piśmie informuje pracownika socjalnego oraz jego bezpośredniego przełożonego o podtrzymaniu lub zakwestionowaniu dokonanej oceny okresowej wraz z uzasadnieniem. przez bezpośredniego przełożonego pracownika socjalnego nie podlega zaskarżeniu.
+7. Organ nadzorujący, o którym mowa w ust. 6, analizuje treść zastrzeżenia i na piśmie informuje pracownika socjalnego oraz jego bezpośredniego przełożonego o podtrzymaniu lub zakwestionowaniu dokonanej oceny okresowej wraz z uzasadnieniem.
+
+8. Podtrzymanie przez organ nadzorujący oceny okresowej negatywnej wydanej przez bezpośredniego przełożonego pracownika socjalnego nie podlega zaskarżeniu.
 
 9. W przypadku zakwestionowania przez organ nadzorujący oceny okresowej negatywnej wydanej przez bezpośredniego przełożonego pracownika socjalnego ocena okresowa tego pracownika jest dokonywana ponownie.
 
@@ -2283,7 +2435,9 @@ Art. 135–143. (pominięte)
 
 4. (uchylony)
 
-5. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, minimum programowe specjalizacji z zakresu organizacji pomocy społecznej, podmioty uprawnione do prowadzenia specjalizacji i wymagania ich dotyczące, tryb nadawania tym podmiotom uprawnień do prowadzenia specjalizacji, a także tryb uzyskiwania specjalizacji, kierując się koniecznością zapewnienia sprawności i efektywności działania jednostek organizacyjnych pomocy społecznej. jednostkach organizacyjnych pomocy społecznej regulują przepisy o pracownikach samorządowych.
+5. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, minimum programowe specjalizacji z zakresu organizacji pomocy społecznej, podmioty uprawnione do prowadzenia specjalizacji i wymagania ich dotyczące, tryb nadawania tym podmiotom uprawnień do prowadzenia specjalizacji, a także tryb uzyskiwania specjalizacji, kierując się koniecznością zapewnienia sprawności i efektywności działania jednostek organizacyjnych pomocy społecznej.
+
+**Art. 123.** Prawa i obowiązki pracowników zatrudnionych w samorządowych jednostkach organizacyjnych pomocy społecznej regulują przepisy o pracownikach samorządowych.
 
 **Art. 123a.** (uchylony)
 
@@ -2302,7 +2456,7 @@ Art. 135–143. (pominięte)
 
 **Art. 125.**
 
-1. Rada Pomocy Społecznej składa się z nie więcej niż 20 osób reprezentujących jednostki organizacyjne pomocy społecznej, jednostki samorządu terytorialnego, wojewodów, organizacje społeczne i zawodowe, kościoły i inne związki wyznaniowe oraz środowiska naukowe.
+1. Rada Pomocy Społecznej składa się z niewięcej niż 20 osób reprezentujących jednostki organizacyjne pomocy społecznej, jednostki samorządu terytorialnego, wojewodów, organizacje społeczne i zawodowe, kościoły i inne związki wyznaniowe oraz środowiska naukowe.
 
 2. Przedstawicieli jednostek samorządu terytorialnego do udziału w pracach Rady Pomocy Społecznej rekomenduje Komisja Wspólna Rządu i Samorządu Terytorialnego.
 
@@ -2310,7 +2464,9 @@ Art. 135–143. (pominięte)
 
 4. Członkowie Rady Pomocy Społecznej pełnią swoje funkcje społecznie.
 
-5. Członkowie Rady Pomocy Społecznej korzystają ze zwolnień w pracy w celu uczestniczenia w posiedzeniach Rady i przysługuje im zwrot kosztów delegacji ze środków budżetu ministra właściwego do spraw zabezpieczenia społecznego. środków budżetu ministra właściwego do spraw zabezpieczenia społecznego.
+5. Członkowie Rady Pomocy Społecznej korzystają ze zwolnień w pracy w celu uczestniczenia w posiedzeniach Rady i przysługuje im zwrot kosztów delegacji ze środków budżetu ministra właściwego do spraw zabezpieczenia społecznego.
+
+6. Koszty związane z obsługą Rady Pomocy Społecznej są pokrywane ze środków budżetu ministra właściwego do spraw zabezpieczenia społecznego.
 
 7. Rada Pomocy Społecznej może, za zgodą ministra właściwego do spraw zabezpieczenia społecznego, zapraszać do współpracy ekspertów i inne osoby niebędące jej członkami. Do udziału osób zaproszonych w posiedzeniach Rady stosuje się odpowiednio ust. 5.
 
@@ -2319,6 +2475,8 @@ Art. 135–143. (pominięte)
 #### Rozdział 4 Nadzór i kontrola
 
 **Art. 126.** Wojewoda w związku z przeprowadzanym postępowaniem nadzorczym i kontrolnym ma prawo do:
+
+**Art. 126a.** W przypadku powzięcia wiadomości o prowadzeniu bez zezwolenia placówki zapewniającej całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku, przepis art. 126 stosuje się.
 
 **Art. 127.**
 
@@ -2332,7 +2490,7 @@ Art. 135–143. (pominięte)
 
 2. Na wniosek wojewody właściwy miejscowo komendant Policji jest obowiązany do zapewnienia zespołowi inspektorów pomocy Policji w toku wykonywanych przez nich czynności.
 
-**Art. 127b.** W wydziale właściwym do spraw pomocy społecznej urzędu wojewódzkiego w komórce organizacyjnej do spraw nadzoru i kontroli w pomocy społecznej zatrudnia się nie mniej niż 1 inspektora do spraw nadzoru i kontroli w pomocy społecznej na 25 jednostek organizacyjnych pomocy społecznej oraz placówek zapewniających całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku, działających w danym województwie.
+**Art. 127b.** W wydziale właściwym do spraw pomocy społecznej urzędu wojewódzkiego w komórce organizacyjnej do spraw nadzoru i kontroli w pomocy społecznej zatrudnia się niemniej niż 1 inspektora do spraw nadzoru i kontroli w pomocy społecznej na 25 jednostek organizacyjnych pomocy społecznej oraz placówek zapewniających całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku, działających w danym województwie.
 
 **Art. 128.**
 
@@ -2340,7 +2498,9 @@ Art. 135–143. (pominięte)
 
 2. Jednostka organizacyjna pomocy społecznej albo kontrolowana jednostka może, w terminie 7 dni od dnia otrzymania zaleceń pokontrolnych, zgłosić do nich zastrzeżenia.
 
-3. Wojewoda ustosunkowuje się do zastrzeżeń w terminie 14 dni od dnia ich doręczenia. organizacyjna pomocy społecznej albo kontrolowana jednostka w terminie 30 dni obowiązana jest do powiadomienia wojewody o realizacji zaleceń, uwag i wniosków.
+3. Wojewoda ustosunkowuje się do zastrzeżeń w terminie 14 dni od dnia ich doręczenia.
+
+4. W przypadku nieuwzględnienia przez wojewodę zastrzeżeń jednostka organizacyjna pomocy społecznej albo kontrolowana jednostka w terminie 30 dni obowiązana jest do powiadomienia wojewody o realizacji zaleceń, uwag i wniosków.
 
 5. W przypadku uwzględnienia przez wojewodę zastrzeżeń, o których mowa w ust. 2, jednostka organizacyjna pomocy społecznej albo kontrolowana jednostka w terminie 30 dni jest obowiązana do powiadomienia wojewody o realizacji zaleceń, uwag i wniosków, o których mowa w ust. 1, mając na uwadze zmiany wynikające z uwzględnionych przez wojewodę zastrzeżeń.
 
@@ -2352,15 +2512,17 @@ Art. 135–143. (pominięte)
 
 1. W przypadku niepodjęcia lub niewykonania czynności wynikających z zaleceń pokontrolnych, o których mowa w art. 128, mających na celu ograniczenie lub likwidację stwierdzonych istotnych uchybień lub nieprawidłowości w zakresie działań i usług objętych standardami, świadczonych przez jednostki organizacyjne pomocy społecznej albo kontrolowane jednostki, wojewoda może orzec o czasowym lub stałym cofnięciu zezwolenia na prowadzenie placówki.
 
-2. Jeżeli w wyniku przeprowadzonych czynności, o których mowa w art. 126, ujawnione zostały rażące zaniedbania lub zaniechania realizacji obowiązków ustawowych, wojewoda może wezwać jednostkę samorządu terytorialnego do wyznaczenia wykonawcy zastępczego, w terminie nie dłuższym niż dwa miesiące od dnia otrzymania wezwania.
+2. Jeżeli w wyniku przeprowadzonych czynności, o których mowa w art. 126, ujawnione zostały rażące zaniedbania lub zaniechania realizacji obowiązków ustawowych, wojewoda może wezwać jednostkę samorządu terytorialnego do wyznaczenia wykonawcy zastępczego, w terminie niedłuższym niż dwa miesiące od dnia otrzymania wezwania.
 
 3. W przypadku niewyznaczenia przez jednostkę samorządu terytorialnego wykonawcy zastępczego w terminie, o którym mowa w ust. 2, wojewoda może wystąpić do sądu administracyjnego ze skargą na bezczynność organu jednostki samorządu terytorialnego.
 
 **Art. 130.**
 
-1. Kto nie realizuje zaleceń pokontrolnych – podlega karze pieniężnej w wysokości od 500 do 12 000 zł. osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku, w której przebywa:
+1. Kto nie realizuje zaleceń pokontrolnych – podlega karze pieniężnej w wysokości od 500 do 12 000 zł.
 
-- **1)** nie więcej niż 10 osób – podlega karze pieniężnej w wysokości 10 000 zł;
+2. Kto bez zezwolenia prowadzi placówkę zapewniającą całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku, w której przebywa:
+
+- **1)** niewięcej niż 10 osób – podlega karze pieniężnej w wysokości 10 000 zł;
 - **2)** od 11 do 20 osób – podlega karze pieniężnej w wysokości 20 000 zł;
 - **3)** powyżej 20 osób – podlega karze pieniężnej w wysokości 30 000 zł.
 
@@ -2376,7 +2538,9 @@ Art. 135–143. (pominięte)
 
 **Art. 131.**
 
-1. Kary pieniężne, o których mowa w art. 130, wymierza, w drodze decyzji administracyjnej, wojewoda. uwagę rozmiar prowadzonej działalności, stopień, liczbę i społeczną szkodliwość stwierdzonych uchybień.
+1. Kary pieniężne, o których mowa w art. 130, wymierza, w drodze decyzji administracyjnej, wojewoda.
+
+2. Wysokość kary, o której mowa w art. 130 ust. 1, ustala wojewoda, biorąc pod uwagę rozmiar prowadzonej działalności, stopień, liczbę i społeczną szkodliwość stwierdzonych uchybień.
 
 3. Od decyzji, o której mowa w ust. 1, przysługuje odwołanie do ministra właściwego do spraw zabezpieczenia społecznego.
 
@@ -2393,7 +2557,11 @@ Art. 135–143. (pominięte)
 
 2. W przypadku nałożenia kary, o której mowa w art. 130 ust. 2, 4, 4a, 5 lub 6, wojewoda przedstawia osobom przebywającym w placówce oraz, w ramach posiadanych informacji, członkom rodziny, opiekunom prawnym, kuratorom osób przebywających w placówce wyciąg z rejestru placówek zapewniających całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku, z danymi teleadresowymi placówek z terenu województwa.
 
-3. W przypadku pilnej konieczności zapewnienia pomocy osobom przebywającym w placówce, w stosunku do której wojewoda wydał decyzję, o której mowa w art. 130 ust. 5 lub 6, wojewoda koordynuje działania zmierzające do zabezpieczenia niezbędnej pomocy osobom potrzebującym, przy udziale kierownika ośrodka pomocy społecznej albo dyrektora centrum usług społecznych, o którym mowa w ustawie z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych, gminy właściwej ze względu na położenie placówki. w systemie teleinformatycznym wykaz nałożonych kar, o których mowa w art. 130 ust. 2 i 4–6, oraz udostępnia dane z tego wykazu wojewodom do celów prowadzenia postępowań w zakresie nałożenia kary lub wydania albo cofnięcia zezwolenia na prowadzenie placówki zapewniającej całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku.
+3. W przypadku pilnej konieczności zapewnienia pomocy osobom przebywającym w placówce, w stosunku do której wojewoda wydał decyzję, o której mowa w art. 130 ust. 5 lub 6, wojewoda koordynuje działania zmierzające do zabezpieczenia niezbędnej pomocy osobom potrzebującym, przy udziale kierownika ośrodka pomocy społecznej albo dyrektora centrum usług społecznych, o którym mowa w ustawie z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych, gminy właściwej ze względu na położenie placówki.
+
+**Art. 131b.**
+
+1. Minister właściwy do spraw zabezpieczenia społecznego prowadzi w systemie teleinformatycznym wykaz nałożonych kar, o których mowa w art. 130 ust. 2 i 4–6, oraz udostępnia dane z tego wykazu wojewodom do celów prowadzenia postępowań w zakresie nałożenia kary lub wydania albo cofnięcia zezwolenia na prowadzenie placówki zapewniającej całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku.
 
 2. Dane, o których mowa w ust. 1, udostępnia się niezwłocznie w systemie teleinformatycznym lub środkami komunikacji elektronicznej obsługiwanymi przez system teleinformatyczny wykazu.
 
@@ -2430,7 +2598,8 @@ Art. 135–143. (pominięte)
 - **3)** zapewnia wykonanie ewaluacji Programu Operacyjnego, o których mowa w art. 16 i art. 17 rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym, oraz przedkłada wyniki tych ewaluacji Komisji Europejskiej;
 - **4)** opracowuje i przedkłada Komisji Europejskiej roczne i końcowe sprawozdania z realizacji Programu Operacyjnego;
 - **5)** dokonuje wyboru organizacji partnerskich w rozumieniu art. 2 pkt 3 rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym, zwanych dalej „organizacjami partnerskimi”, w sposób zapewniający spełnienie warunków, o których mowa w art. 32 ust. 3 tego rozporządzenia;
-- **6)** sporządza i udostępnia instytucji pośredniczącej, o której mowa w art. 134b ust. 1 pkt 1, oraz beneficjentom w rozumieniu art. 2 pkt 9 rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym wytyczne dotyczące realizacji Programu Operacyjnego, w tym wytyczne dotyczące spełnienia przez wydatki poniesione w ramach Programu Operacyjnego kryteriów kwalifikowalności: Pomocy Najbardziej Potrzebującym oraz z przepisami wykonawczymi do tego rozporządzenia,
+- **6)** sporządza i udostępnia instytucji pośredniczącej, o której mowa w art. 134b ust. 1 pkt 1, oraz beneficjentom w rozumieniu art. 2 pkt 9 rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym wytyczne dotyczące realizacji Programu Operacyjnego, w tym wytyczne dotyczące spełnienia przez wydatki poniesione w ramach Programu Operacyjnego kryteriów kwalifikowalności:
+    - **a)** zgodności z przepisami rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym oraz z przepisami wykonawczymi do tego rozporządzenia,
     - **b)** spójności z postanowieniami Programu Operacyjnego;
 
 - **7)** zawiera i rozlicza z Krajowym Ośrodkiem Wsparcia Rolnictwa, zwanym dalej „Krajowym Ośrodkiem”, umowę o:
@@ -2441,7 +2610,7 @@ Art. 135–143. (pominięte)
     - **a)** systemowe w Krajowym Ośrodku jako instytucji pośredniczącej w rozumieniu art. 2 pkt 13 rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym,
     - **b)** prawidłowości realizacji zadań przez beneficjentów w rozumieniu art. 2 pkt 9 rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym w ramach operacji finansowanych z Europejskiego Funduszu Pomocy Najbardziej Potrzebującym, zgodnie z systemem realizacji Programu Operacyjnego.
 
-2. Do kontroli, o których mowa w ust. 1 pkt 8, stosuje się odpowiednio przepisy art. 23 ust. 1, 1a, 2 i 4–10 oraz art. 25 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818), z tym że kontrole prawidłowości realizacji zadań przez beneficjentów mogą być przeprowadzane nie później niż do końca okresu ustalonego zgodnie z art. 51 ust. 1 rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym.
+2. Do kontroli, o których mowa w ust. 1 pkt 8, stosuje się odpowiednio przepisy art. 23 ust. 1, 1a, 2 i 4–10 oraz art. 25 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818), z tym że kontrole prawidłowości realizacji zadań przez beneficjentów mogą być przeprowadzane niepóźniej niż do końca okresu ustalonego zgodnie z art. 51 ust. 1 rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym.
 
 **Art. 134b.**
 
@@ -2450,8 +2619,9 @@ Art. 135–143. (pominięte)
 - **1)** instytucja pośrednicząca w rozumieniu art. 2 pkt 13 rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym;
 - **2)** beneficjent w rozumieniu art. 2 pkt 9 rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym.
 
-2. Do zadań Krajowego Ośrodka należy w szczególności: publicznego na dostawy artykułów spożywczych do magazynów organizacji partnerskich;
+2. Do zadań Krajowego Ośrodka należy w szczególności:
 
+- **1)** przygotowanie i przeprowadzenie postępowań o udzielenie zamówienia publicznego na dostawy artykułów spożywczych do magazynów organizacji partnerskich;
 - **2)** zawieranie z organizacjami partnerskimi i rozliczanie umów o dofinansowanie projektów, które określają szczegółowe warunki dofinansowania projektów zgodnie z art. 206 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
 - **3)** realizacja wypłat dla przedsiębiorców z tytułu zakupu żywności, o którym mowa w art. 26 ust. 2 lit. a rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym, wypłat dla organizacji partnerskich będących beneficjentami, z tytułu kosztów administracyjnych oraz kosztów transportu i magazynowania, o których mowa w art. 26 ust. 2 lit. c rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym, oraz kosztów środków towarzyszących, o których mowa w art. 26 ust. 2 lit. e rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym;
 - **4)** opracowanie procedur dokonywania czynności w ramach realizacji Programu Operacyjnego;
@@ -2460,8 +2630,9 @@ Art. 135–143. (pominięte)
 - **7)** sprawozdawczość do ministra właściwego do spraw zabezpieczenia społecznego;
 - **8)** realizacja działań w ramach informowania i komunikacji, o których mowa w art. 19 ust. 1 rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym.
 
-3. Do działań określonych w ust. 2 pkt 5 i 6 stosuje się odpowiednio art. 22 ust. 2 pkt 2 i 3, art. 24 ust. 1–6 i 8–10, art. 25 oraz art. 26 ust. 6 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020, z tym że na potrzeby realizacji zadań w ramach Programu Operacyjnego: pkt 16 rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym;
+3. Do działań określonych w ust. 2 pkt 5 i 6 stosuje się odpowiednio art. 22 ust. 2 pkt 2 i 3, art. 24 ust. 1–6 i 8–10, art. 25 oraz art. 26 ust. 6 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020, z tym że na potrzeby realizacji zadań w ramach Programu Operacyjnego:
 
+- **1)** nieprawidłowością indywidualną jest nieprawidłowość, o której mowa w art. 2 pkt 16 rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym;
 - **2)** nieprawidłowością systemową jest nieprawidłowość, o której mowa w art. 2 pkt 18 rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym;
 - **3)** w przypadku gdy kwoty nieprawidłowo poniesionych wydatków nie można określić, wartość korekty finansowej ustala się na podstawie art. 53 ust. 2 rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym.
 
@@ -2471,7 +2642,7 @@ Art. 135–143. (pominięte)
 
 6. Umowy, o których mowa w ust. 2 pkt 2, są zawierane po przedłożeniu przez organizacje partnerskie wniosków o dofinansowanie projektów z tytułu kosztów administracyjnych, transportu i magazynowania oraz wniosków o dofinansowanie projektów z tytułu środków towarzyszących, zawierających między innymi planowane do osiągnięcia w danym okresie wartości wskaźników dystrybucji artykułów spożywczych i wskaźników realizacji działań na rzecz włączenia społecznego, z uwzględnieniem wytycznych przekazanych przez instytucję zarządzającą.
 
-7. W przypadkach nieprawidłowej realizacji przez Krajowy Ośrodek zadań powierzonych zgodnie z ust. 4, nieprzestrzegania przepisów prawa lub działania niezgodnie z systemem realizacji Programu Operacyjnego, w tym z Programem Operacyjnym lub wytycznymi instytucji zarządzającej, a także zaistnienia Europejskiego Funduszu Pomocy Najbardziej Potrzebującym, zwanych dalej „uchybieniami”, minister właściwy do spraw zabezpieczenia społecznego może:
+7. W przypadkach nieprawidłowej realizacji przez Krajowy Ośrodek zadań powierzonych zgodnie z ust. 4, nieprzestrzegania przepisów prawa lub działania niezgodnie z systemem realizacji Programu Operacyjnego, w tym z Programem Operacyjnym lub wytycznymi instytucji zarządzającej, a także zaistnienia okoliczności, o których mowa w art. 55 ust. 1 rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym, zwanych dalej „uchybieniami”, minister właściwy do spraw zabezpieczenia społecznego może:
 
 - **1)** wydać Krajowemu Ośrodkowi rekomendacje wskazujące uchybienia, które powinny zostać usunięte, oraz wskazać termin na ich usunięcie;
 - **2)** zobowiązać Krajowy Ośrodek do podjęcia określonych działań naprawczych oraz wskazać termin ich wykonania;
@@ -2490,6 +2661,8 @@ Art. 135–143. (pominięte)
 
 1. Minister właściwy do spraw rozwoju regionalnego udziela desygnacji, zawiesza desygnację lub wycofuje desygnację w rozumieniu ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 na zasadach i w trybie określonych w tej ustawie, z tym że warunkiem uzyskania desygnacji przez instytucję zarządzającą, instytucję pośredniczącą i instytucję certyfikującą jest spełnienie kryteriów określonych w załączniku IV do rozporządzenia w sprawie Europejskiego Funduszu Pomocy Najbardziej Potrzebującym.
 
+2. W przypadku zawieszenia desygnacji:
+
 - **1)** podmiot, któremu zawieszono desygnację, przygotowuje i przedstawia ministrowi właściwemu do spraw rozwoju regionalnego plan działań naprawczych w terminie wskazanym przez tego ministra;
 - **2)** minister właściwy do spraw rozwoju regionalnego, po zasięgnięciu opinii komitetu do spraw desygnacji, wskazuje działania, których podmiot, któremu zawieszono desygnację, nie może wykonywać.
 
@@ -2503,7 +2676,7 @@ Art. 135–143. (pominięte)
 
 2. Przepis ust. 1 stosuje się odpowiednio w przypadku zmiany Programu Operacyjnego.
 
-3. Rada Ministrów może upoważnić ministra właściwego do spraw zabezpieczenia społecznego do dokonywania zmian Programu Operacyjnego w zakresie określonym w upoważnieniu. Minister właściwy do spraw zabezpieczenia społecznego informuje Radę Ministrów o dokonanych zmianach nie później niż w terminie miesiąca od dnia przekazania zmian do Komisji Europejskiej.
+3. Rada Ministrów może upoważnić ministra właściwego do spraw zabezpieczenia społecznego do dokonywania zmian Programu Operacyjnego w zakresie określonym w upoważnieniu. Minister właściwy do spraw zabezpieczenia społecznego informuje Radę Ministrów o dokonanych zmianach niepóźniej niż w terminie miesiąca od dnia przekazania zmian do Komisji Europejskiej.
 
 4. Minister właściwy do spraw zabezpieczenia społecznego ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” komunikat o:
 
@@ -2513,7 +2686,7 @@ Art. 135–143. (pominięte)
 
 **Art. 134i.** (uchylony)
 
-**Art. 134j.** Do organizacji partnerskich mogą być dostarczane wyłącznie produkty wyprodukowane na terytorium Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy niebędących stronami umowy o Europejskim Obszarze Gospodarczym, które mogą korzystać ze swobody przedsiębiorczości na podstawie umów zawartych przez te państwa ze Wspólnotą Europejską i jej państwami członkowskimi.
+**Art. 134j.** Do organizacji partnerskich mogą być dostarczane wyłącznie produkty wyprodukowane na terytorium Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub przez podmioty zagraniczne z państw niebędących stronami umowy o Europejskim Obszarze Gospodarczym, które mogą korzystać ze swobody przedsiębiorczości na podstawie umów zawartych przez te państwa ze Wspólnotą Europejską i jej państwami członkowskimi.
 
 **Art. 134k.** Do wyboru przez instytucję zarządzającą organizacji partnerskich stosuje się odpowiednio przepisy art. 37 ust. 1, ust. 3 pkt 1 i ust. 3a–7, art. 38 ust. 1 pkt 1, art. 39, art. 40 ust. 2, art. 41–44, art. 45 ust. 4–7, art. 46 ust. 1, 3 i 4, art. 50, art. 53 ust. 1 i ust. 2 pkt 1, art. 54, art. 57, art. 58 ust. 1 i ust. 2 pkt 1 oraz art. 59–67 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020, przy czym instytucją właściwą do wyboru organizacji partnerskich oraz do rozpatrzenia protestu jest minister właściwy do spraw zabezpieczenia społecznego.
 
@@ -2530,7 +2703,10 @@ Art. 135–143. (pominięte)
 2. Wypełnienie obowiązków informacyjnych określonych w przepisach o ochronie danych osobowych, w toku udzielania pomocy określonej w Programie Operacyjnym, następuje przez udostępnienie informacji o przetwarzaniu danych osobowych:
 
 - **1)** w przypadku organizacji partnerskich – w widocznym miejscu w budynku, w którym udzielana jest pomoc;
-- **2)** w przypadku Krajowego Ośrodka – w Biuletynie Informacji Publicznej na stronie podmiotowej Krajowego Ośrodka lub na jego stronie internetowej. danych osobowych polegają co najmniej na:
+- **2)** w przypadku Krajowego Ośrodka – w Biuletynie Informacji Publicznej na stronie podmiotowej Krajowego Ośrodka lub na jego stronie internetowej.
+
+3. Zabezpieczenia stosowane przez administratora danych w celu ochrony danych osobowych polegają co najmniej na:
+
 - **1)** dopuszczeniu do przetwarzania danych osobowych wyłącznie osób posiadających pisemne upoważnienie wydane przez administratora danych;
 - **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w tajemnicy.
 
@@ -2544,7 +2720,8 @@ Art. 135–143. (pominięte)
 
 - **1)** pełni funkcję instytucji zarządzającej Programem dotyczącym zwalczania deprywacji materialnej, zwanym dalej „Programem”, w rozumieniu art. 72 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej (Dz. Urz. UE L 231 z 30.06.2021, str. 159, z późn. zm. ), zwanego dalej „rozporządzeniem ogólnym”;
 - **2)** opracowuje treść Programu i przedkłada go do akceptacji Komisji Europejskiej;
-- **3)** opracowuje i przekazuje do Komisji Europejskiej dane zbiorcze z realizacji Programu, zgodnie z art. 42 ust. 1 rozporządzenia ogólnego, oraz końcowe sprawozdanie z wykonania Programu, zgodnie z art. 43 rozporządzenia ogólnego, oraz przeprowadza ewaluację Programu, zgodnie z art. 44 ust. 1 rozporządzenia ogólnego; którym mowa w art. 23 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1057 z dnia 24 czerwca 2021 r. ustanawiającego Europejski Fundusz Społeczny Plus (EFS+) oraz uchylającego rozporządzenie (UE) nr 1296/2013 (Dz. Urz. UE L 231 z 30.06.2021, str. 21, z późn. zm. ), zwanego dalej „rozporządzeniem EFS+”;
+- **3)** opracowuje i przekazuje do Komisji Europejskiej dane zbiorcze z realizacji Programu, zgodnie z art. 42 ust. 1 rozporządzenia ogólnego, oraz końcowe sprawozdanie z wykonania Programu, zgodnie z art. 43 rozporządzenia ogólnego, oraz przeprowadza ewaluację Programu, zgodnie z art. 44 ust. 1 rozporządzenia ogólnego;
+- **4)** przeprowadza ustrukturyzowane badanie odbiorców końcowych Programu, o którym mowa w art. 23 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1057 z dnia 24 czerwca 2021 r. ustanawiającego Europejski Fundusz Społeczny Plus (EFS+) oraz uchylającego rozporządzenie (UE) nr 1296/2013 (Dz. Urz. UE L 231 z 30.06.2021, str. 21, z późn. zm. ), zwanego dalej „rozporządzeniem EFS+”;
 - **5)** dokonuje wyboru beneficjentów-organizacji partnerskich dystrybuujących artykuły żywnościowe osobom korzystającym z pomocy określonej w Programie, zwanych dalej „beneficjentami-organizacjami partnerskimi”, w sposób zapewniający spełnienie warunków, o których mowa w art. 73 rozporządzenia ogólnego;
 - **6)** sporządza i udostępnia instytucji pośredniczącej, o której mowa w art. 134o ust. 1 pkt 1, oraz beneficjentom w rozumieniu art. 2 pkt 9 lit. a rozporządzenia ogólnego, wytyczne dotyczące realizacji Programu, w tym wytyczne dotyczące spełnienia przez wydatki poniesione w ramach Programu kryteriów kwalifikowalności danej operacji;
 - **7)** zawiera i rozlicza z Krajowym Ośrodkiem umowę o:
@@ -2554,11 +2731,11 @@ Art. 135–143. (pominięte)
 - **8)** zleca płatności, o których mowa w art. 188 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, oraz zleca wypłaty współfinansowania krajowego z budżetu państwa w ramach Programu na rzecz Krajowego Ośrodka;
 - **9)** przeprowadza kontrole:
     - **a)** systemowe w Krajowym Ośrodku jako instytucji pośredniczącej w rozumieniu art. 2 pkt 8 rozporządzenia ogólnego,
-    - **b)** prawidłowości realizacji zadań przez beneficjentów w rozumieniu art. 2 pkt 9 lit. a rozporządzenia ogólnego w ramach operacji finansowanych z udziałem środków Europejskiego Funduszu Społecznego Plus realizacji Programu;
+    - **b)** prawidłowości realizacji zadań przez beneficjentów w rozumieniu art. 2 pkt 9 lit. a rozporządzenia ogólnego w ramach operacji finansowanych z udziałem środków Europejskiego Funduszu Społecznego Plus przeznaczonych na zwalczanie deprywacji materialnej, zgodnie z systemem realizacji Programu;
 
 - **10)** nakłada korekty finansowe i odzyskuje kwoty podlegające zwrotowi na zasadach określonych w ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych albo w umowie o dofinansowanie projektu zgodnie z art. 206 ust. 2 tej ustawy oraz wydaje decyzje o zwrocie środków przeznaczonych na realizację programów, projektów lub zadań oraz decyzje o zapłacie odsetek, o których mowa odpowiednio w art. 207 ust. 9 i art. 189 ust. 3b ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
-2. Do kontroli, o których mowa w ust. 1 pkt 9, stosuje się odpowiednio przepisy art. 25 ust. 1–3 i 5–15 oraz art. 27 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079 oraz z 2024 r. poz. 1717).
+2. Do kontroli, o których mowa w ust. 1 pkt 9, stosuje się odpowiednio przepisy art. 25 ust. 1–3 i 5–15 oraz art. 27 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. z 2025 r. poz. 1733 i 1844).
 
 **Art. 134o.**
 
@@ -2569,11 +2746,11 @@ Art. 135–143. (pominięte)
 
 2. Do zadań Krajowego Ośrodka należy w szczególności:
 
-- **1)** przygotowanie i przeprowadzenie postępowań o udzielenie zamówienia publicznego na dostawy artykułów spożywczych do magazynów beneficjentóworganizacji partnerskich;
+- **1)** przygotowanie i przeprowadzenie postępowań o udzielenie zamówienia publicznego na dostawy artykułów spożywczych do magazynów beneficjentów-organizacji partnerskich;
 - **2)** zawieranie z beneficjentami-organizacjami partnerskimi i rozliczanie umów o dofinansowanie projektów, które określają szczegółowe warunki dofinansowania projektów zgodnie z art. 206 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
-- **3)** realizacja wypłat: 1 lit. a rozporządzenia EFS+, 22 ust. 1 lit. c rozporządzenia EFS+, – gromadzenia, transportu, magazynowania i dystrybucji darów żywnościowych oraz koszt bezpośrednio z tym związanych działań podnoszących świadomość społeczną, o których mowa w art. 22 ust. 1 lit. d rozporządzenia EFS+, rozporządzenia EFS+;
-    - **a)** dla wykonawców z tytułu zakupu żywności, o którym mowa w art. 22 ust.
-    - **b)** dla beneficjentów-organizacji partnerskich, z tytułu kosztów: – administracyjnych, transportu i magazynowania, o których mowa w art.
+- **3)** realizacja wypłat: 1 lit. d rozporządzenia EFS+, – środków towarzyszących, o których mowa w art. 22 ust. 1 lit. e rozporządzenia EFS+;
+    - **a)** dla wykonawców z tytułu zakupu żywności, o którym mowa w art. 22 ust. 1 lit. a rozporządzenia EFS+,
+    - **b)** dla beneficjentów-organizacji partnerskich, z tytułu kosztów: – administracyjnych, transportu i magazynowania, o których mowa w art. 22 ust. 1 lit. c rozporządzenia EFS+, – gromadzenia, transportu, magazynowania i dystrybucji darów żywnościowych oraz koszt bezpośrednio z tym związanych działań podnoszących świadomość społeczną, o których mowa w art. 22 ust.
 
 - **4)** opracowanie procedur dokonywania czynności w ramach realizacji Programu;
 - **5)** przeprowadzanie kontroli u beneficjentów-organizacji partnerskich w zakresie realizacji operacji finansowanych w ramach Programu;
@@ -2582,11 +2759,15 @@ Art. 135–143. (pominięte)
 - **8)** realizacja działań w ramach widoczności, przejrzystości i komunikacji, o których mowa w art. 46–48 rozporządzenia ogólnego;
 - **9)** zlecanie Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych badań laboratoryjnych próbek artykułów rolno-spożywczych na potrzeby realizacji operacji realizowanych w ramach Programu.
 
-3. Do działań określonych w ust. 2 pkt 5 i 6 stosuje się odpowiednio art. 24 ust. 2 pkt 2 lit. a, b i e, art. 25 ust. 1–3 oraz ust. 5–15, art. 26 ust. 1–6 oraz ust. 8 i 9, art. 27 i art. 28 ust. 7 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027.
+3. Do działań określonych w ust. 2 pkt 5 i 6 stosuje się odpowiednio art. 24 ust. 2 pkt 2 lit. a, b i e, art. 25 ust. 1–3 oraz ust. 5–15, art. 26 ust. 1–6 oraz ust. 8 i 9, art. 27 i art. 28 ust. 7 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–
+
+2027.
 
 4. Zadania, o których mowa w ust. 2, są wykonywane przez Krajowy Ośrodek na podstawie porozumienia o powierzeniu zadań instytucji pośredniczącej, zawartego z ministrem właściwym do spraw zabezpieczenia społecznego, zawierającego w szczególności zobowiązanie do stosowania wytycznych, o których mowa w art. 134n ust. 1 pkt 6.
 
-5. Powierzone zadania Krajowy Ośrodek wykonuje zgodnie z systemem realizacji Programu zawierającym warunki i procedury obowiązujące instytucje uczestniczące w realizacji Programu, obejmujące w szczególności zarządzanie, monitorowanie, sprawozdawczość, kontrolę, nakładanie korekt finansowych, odzyskiwanie kwot podlegających zwrotowi, ewaluację oraz sposób koordynacji działań podejmowanych przez instytucje. Podstawę systemu realizacji Programu mogą stanowić w szczególności przepisy prawa, wytyczne, o których mowa w art. 134n ust. 1 pkt 6, dokumenty określające system zarządzania i kontroli oraz procedury działania właściwych instytucji. beneficjentów-organizacje partnerskie wniosków:
+5. Powierzone zadania Krajowy Ośrodek wykonuje zgodnie z systemem realizacji Programu zawierającym warunki i procedury obowiązujące instytucje uczestniczące w realizacji Programu, obejmujące w szczególności zarządzanie, monitorowanie, sprawozdawczość, kontrolę, nakładanie korekt finansowych, odzyskiwanie kwot podlegających zwrotowi, ewaluację oraz sposób koordynacji działań podejmowanych przez instytucje. Podstawę systemu realizacji Programu mogą stanowić w szczególności przepisy prawa, wytyczne, o których mowa w art. 134n ust. 1 pkt 6, dokumenty określające system zarządzania i kontroli oraz procedury działania właściwych instytucji.
+
+6. Umowy, o których mowa w ust. 2 pkt 2, są zawierane po przedłożeniu przez beneficjentów-organizacje partnerskie wniosków:
 
 - **1)** o dofinansowanie projektów z tytułu kosztów administracyjnych, transportu i magazynowania,
 - **2)** o dofinansowanie projektów z tytułu środków towarzyszących,
@@ -2602,13 +2783,29 @@ Art. 135–143. (pominięte)
 
 **Art. 134q.** Minister właściwy do spraw finansów publicznych wykonuje funkcje:
 
+**Art. 134r.**
+
+1. Szef Krajowej Administracji Skarbowej wykonuje funkcje instytucji audytowej w rozumieniu art. 71 ust. 2 rozporządzenia ogólnego i prowadzi audyt w oparciu o ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2025 r. poz. 1131, 1423, 1820 i 1863 oraz z 2026 r. poz. 415 i 483).
+
+2. Audyt może być prowadzony w podmiotach i instytucjach Programu, w szczególności:
+
+- **1)** u ministra właściwego do spraw zabezpieczenia społecznego;
+- **2)** u ministra właściwego do spraw finansów publicznych;
+- **3)** w Krajowym Ośrodku;
+- **4)** u beneficjentów Programu;
+- **5)** u beneficjentów-organizacji partnerskich dystrybuujących artykuły żywnościowe osobom korzystającym z pomocy określonej w Programie.
+
+3. Audyt jest realizowany na zasadach stosowanych przy audycie krajowego programu operacyjnego i krajowego programu w rozumieniu przepisów ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
+
 **Art. 134s.**
 
 1. Do beneficjentów-organizacji partnerskich mogą być dostarczane wyłącznie produkty pochodzące z terytorium Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub od podmiotów zagranicznych z państw niebędących stronami umowy o Europejskim Obszarze Gospodarczym, które mogą korzystać ze swobody przedsiębiorczości na podstawie umów zawartych przez te państwa ze Wspólnotą Europejską i jej państwami członkowskimi.
 
 2. Wymogów, o których mowa w ust. 1, nie stosuje się do żywności dostarczanej do beneficjentów-organizacji partnerskich pochodzącej z darów żywnościowych, o których mowa w art. 22 ust. 1 lit. d rozporządzenia EFS+.
 
-**Art. 134t.** Do wyboru przez instytucję zarządzającą beneficjentów-organizacji partnerskich stosuje się odpowiednio przepisy art. 45–49, art. 51 ust. 1 pkt 3, 4 i 6–9, ust. 2 pkt 2 i 4, ust. 3–6 i ust. 8, art. 53, art. 54 ust. 1, art. 55, art. 56, art. 57 ust. 1 zdanie pierwsze i ust. 2–4, art. 58, art. 59, art. 63–65, art. 68, art. 69 ust. 1 i ust. 2 pkt 1 oraz art. 70–78 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021– 2027, przy czym instytucją właściwą do wyboru beneficjentów-organizacji partnerskich oraz do rozpatrzenia protestu jest minister właściwy do spraw zabezpieczenia społecznego. porozumieniu z ministrem właściwym do spraw rynków rolnych określi, w drodze rozporządzenia, szczegółowe przeznaczenie, warunki i tryb udzielania przez Krajowy Ośrodek wypłat w ramach Programu, uwzględniając konieczność realizacji celów w nim określonych, efektywnego i skutecznego wykorzystania pomocy finansowej oraz zapewnienia przejrzystości jej udzielania.
+**Art. 134t.** Do wyboru przez instytucję zarządzającą beneficjentów-organizacji partnerskich stosuje się odpowiednio przepisy art. 45–49, art. 51 ust. 1 pkt 3, 4 i 6–9, ust. 2 pkt 2 i 4, ust. 3–6 i ust. 8, art. 53, art. 54 ust. 1, art. 55, art. 56, art. 57 ust. 1 zdanie pierwsze i ust. 2–4, art. 58, art. 59, art. 63–65, art. 68, art. 69 ust. 1 i ust. 2 pkt 1 oraz art. 70–78 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027, przy czym instytucją właściwą do wyboru beneficjentów-organizacji partnerskich oraz do rozpatrzenia protestu jest minister właściwy do spraw zabezpieczenia społecznego.
+
+**Art. 134u.** Minister właściwy do spraw zabezpieczenia społecznego w porozumieniu z ministrem właściwym do spraw rynków rolnych określi, w drodze rozporządzenia, szczegółowe przeznaczenie, warunki i tryb udzielania przez Krajowy Ośrodek wypłat w ramach Programu, uwzględniając konieczność realizacji celów w nim określonych, efektywnego i skutecznego wykorzystania pomocy finansowej oraz zapewnienia przejrzystości jej udzielania.
 
 **Art. 134v.**
 
@@ -2630,7 +2827,7 @@ Art. 135–143. (pominięte)
 
 4. Podmioty i osoby realizujące zadania określone w Programie obowiązane są do zachowania w tajemnicy wszelkich informacji i danych, które uzyskały przy realizacji zadań.
 
-**Art. 134w.** Ośrodki pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centra usług społecznych, mogą przetwarzać, w tym przekazywać beneficjentom-organizacjom partnerskim, dane osobowe, o których mowa w art. 134v za zgodą tych osób.
+**Art. 134w.** Ośrodki pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centra usług społecznych, mogą przetwarzać, w tym przekazywać beneficjentom-organizacjom partnerskim, dane osobowe, o których mowa w art. 134v ust. 1, odbiorców końcowych zakwalifikowanych do pomocy określonej w Programie, za zgodą tych osób.
 
 ### DZIAŁ IV Przepisy zmieniające, przejściowe i końcowe
 
@@ -2646,7 +2843,7 @@ Art. 135–143. (pominięte)
 
 1. Do umów w sprawie zlecenia realizacji zadania z zakresu pomocy społecznej stosuje się dotychczasowe przepisy dotyczące zlecania zadań.
 
-2. Umowy w sprawie zlecenia realizacji zadania z zakresu pomocy społecznej zawarte przed dniem wejścia w życie ustawy zachowują moc do czasu ich wygaśnięcia lub rozwiązania, nie dłużej jednak niż do dnia 31 grudnia 2008 r.
+2. Umowy w sprawie zlecenia realizacji zadania z zakresu pomocy społecznej zawarte przed dniem wejścia w życie ustawy zachowują moc do czasu ich wygaśnięcia lub rozwiązania, niedłużej jednak niż do dnia 31 grudnia 2008 r.
 
 **Art. 147.**
 
@@ -2660,8 +2857,9 @@ Art. 135–143. (pominięte)
 - **1)** w przypadku osoby samotnie gospodarującej – 30 % różnicy między kryterium dochodowym osoby samotnie gospodarującej a dochodem tej osoby;
 - **2)** w przypadku rodziny – 20 % różnicy między kryterium dochodowym rodziny a dochodem rodziny.
 
-3. W 2006 r. i 2007 r. minimalna wysokość zasiłku okresowego wynosi: dochodowym osoby samotnie gospodarującej a dochodem tej osoby,
+3. W 2006 r. i 2007 r. minimalna wysokość zasiłku okresowego wynosi:
 
+- **1)** w przypadku osoby samotnie gospodarującej – 35 % różnicy między kryterium dochodowym osoby samotnie gospodarującej a dochodem tej osoby,
 - **2)** w przypadku rodziny – 25 % różnicy między kryterium dochodowym rodziny a dochodem rodziny – przy czym art. 8 ust. 2 stosuje się odpowiednio.
 
 4. W 2004 r. gminy otrzymują dotację celową z budżetu państwa na pokrycie wydatków na zasiłki okresowe w części określonej w ust. 1.
@@ -2680,11 +2878,13 @@ Art. 135–143. (pominięte)
 
 1. Z dniem wejścia w życie ustawy wygasają decyzje wydane na podstawie ustawy z dnia 29 listopada 1990 r. o pomocy społecznej (Dz. U. z 1998 r. poz. 414, z późn. zm. ), z wyjątkiem decyzji określonych w ust. 2 i 3 oraz art. 152 ust. 3 i art. 154 ust. 8 niniejszej ustawy.
 
-2. Decyzje przyznające świadczenia na podstawie art. 16, 17, 18, 21 oraz 31 ust. 6–10 ustawy z dnia 29 listopada 1990 r. o pomocy społecznej realizuje się według przepisów dotychczasowych, przez czas, na jaki te decyzje zostały wydane, nie dłużej niż do dnia 31 grudnia 2004 r.
+2. Decyzje przyznające świadczenia na podstawie art. 16, 17, 18, 21 oraz 31 ust. 6–10 ustawy z dnia 29 listopada 1990 r. o pomocy społecznej realizuje się według przepisów dotychczasowych, przez czas, na jaki te decyzje zostały wydane, niedłużej niż do dnia 31 grudnia 2004 r.
 
 3. Zachowują moc decyzje o skierowaniu do domu pomocy społecznej oraz decyzje o umieszczeniu w domu pomocy społecznej wydane przed dniem wejścia w życie niniejszej ustawy.
 
-**Art. 150.** Do spraw wszczętych i niezakończonych przed dniem wejścia w życie ustawy stosuje się przepisy niniejszej ustawy, z zastrzeżeniem art. 150a. 2004 r. organ właściwy nie wydał decyzji ostatecznej, stosuje się przepisy ustawy z dnia 29 listopada 1990 r. o pomocy społecznej.
+**Art. 150.** Do spraw wszczętych i niezakończonych przed dniem wejścia w życie ustawy stosuje się przepisy niniejszej ustawy, z zastrzeżeniem art. 150a.
+
+**Art. 150a.** Do spraw o przyznanie zasiłku stałego, w których do dnia 30 kwietnia 2004 r. organ właściwy nie wydał decyzji ostatecznej, stosuje się przepisy ustawy z dnia 29 listopada 1990 r. o pomocy społecznej.
 
 **Art. 151.**
 
@@ -2692,7 +2892,7 @@ Art. 135–143. (pominięte)
 
 2. Osoby umieszczone w domu pomocy społecznej dla matek z małoletnimi dziećmi i kobiet w ciąży przed dniem 1 stycznia 2004 r. oraz osoby skierowane do takiego domu przed dniem 1 stycznia 2004 r., po dniu 1 stycznia 2005 r. ponoszą odpłatność na dotychczasowych zasadach. Decyzje o odpłatności wydaje starosta powiatu prowadzącego dom.
 
-3. Powiat, który prowadzi lub zleca prowadzenie domów dla matek z małoletnimi dziećmi i kobiet w ciąży, przeznacza na utrzymanie osób, o których mowa w ust. 2, część środków pochodzących z dotacji celowej z budżetu państwa ustalonej dla domów pomocy społecznej na zasadach określonych w ustawie z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572 i 1717).
+3. Powiat, który prowadzi lub zleca prowadzenie domów dla matek z małoletnimi dziećmi i kobiet w ciąży, przeznacza na utrzymanie osób, o których mowa w ust. 2, część środków pochodzących z dotacji celowej z budżetu państwa ustalonej dla domów pomocy społecznej na zasadach określonych w ustawie z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572 i 1717 oraz z 2025 r. poz. 1659).
 
 **Art. 152.**
 
@@ -2702,11 +2902,13 @@ Art. 135–143. (pominięte)
 
 3. Zachowują moc zezwolenia na prowadzenie domu pomocy społecznej wydane przed dniem wejścia w życie ustawy.
 
-4. Zezwolenia warunkowe na prowadzenie domu pomocy społecznej zachowują moc nie dłużej niż do dnia 31 grudnia 2010 r.
+4. Zezwolenia warunkowe na prowadzenie domu pomocy społecznej zachowują moc niedłużej niż do dnia 31 grudnia 2010 r.
 
 5. Od dnia 1 stycznia 2009 r. organ gminy nie może kierować osób do domu pomocy społecznej prowadzonego na podstawie zezwolenia warunkowego.
 
-6. Opłata za pobyt w domu pomocy społecznej prowadzonym na podstawie zezwolenia warunkowego po dniu 31 grudnia 2007 r. nie może ulec podwyższeniu, aż do miesiąca, w którym zostanie wydane zezwolenie na prowadzenie domu pomocy społecznej. placówki zapewniające całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku, które w dniu wejścia w życie ustawy nie spełniają wymagań, o których mowa w art. 67 i 68, są obowiązane dostosować do tych wymagań placówki w terminie jednego roku od dnia wejścia w życie ustawy.
+6. Opłata za pobyt w domu pomocy społecznej prowadzonym na podstawie zezwolenia warunkowego po dniu 31 grudnia 2007 r. nie może ulec podwyższeniu, aż do miesiąca, w którym zostanie wydane zezwolenie na prowadzenie domu pomocy społecznej.
+
+**Art. 153.** Podmioty prowadzące w dniu wejścia w życie niniejszej ustawy placówki zapewniające całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku, które w dniu wejścia w życie ustawy nie spełniają wymagań, o których mowa w art. 67 i 68, są obowiązane dostosować do tych wymagań placówki w terminie jednego roku od dnia wejścia w życie ustawy.
 
 **Art. 154.** (uchylony)
 
@@ -2714,9 +2916,9 @@ Art. 135–143. (pominięte)
 
 1. Do osób umieszczonych w domu pomocy społecznej na podstawie skierowania wydanego przed dniem 1 stycznia 2004 r. stosuje się dotychczasowe przepisy o właściwości miejscowej gminy.
 
-2. Kwota dotacji celowej z budżetu państwa na domy pomocy społecznej wyliczona zgodnie z art. 53 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego może być w uzasadnionych przypadkach zmniejszona lub zwiększona, nie więcej jednak niż o 20 %, w zależności od znajdujących się w powiecie typów domów oraz uzyskanych dochodów z tytułu odpłatności za pobyt w domu, z zastrzeżeniem ust. 2a.
+2. Kwota dotacji celowej z budżetu państwa na domy pomocy społecznej wyliczona zgodnie z art. 53 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego może być w uzasadnionych przypadkach zmniejszona lub zwiększona, niewięcej jednak niż o 20 %, w zależności od znajdujących się w powiecie typów domów oraz uzyskanych dochodów z tytułu odpłatności za pobyt w domu, z zastrzeżeniem ust. 2a.
 
-2a. W przypadku powiatów prowadzących lub zlecających prowadzenie domów pomocy społecznej, o których mowa w art. 56 pkt 5, dotacja może być w uzasadnionych przypadkach zwiększona, nie więcej jednak niż o 50 %.
+2a. W przypadku powiatów prowadzących lub zlecających prowadzenie domów pomocy społecznej, o których mowa w art. 56 pkt 5, dotacja może być w uzasadnionych przypadkach zwiększona, niewięcej jednak niż o 50 %.
 
 3. W stosunku do osób umieszczonych w domu pomocy społecznej na podstawie skierowania wydanego przed dniem 1 stycznia 2004 r., decyzje zmieniające decyzje o odpłatności i o skierowaniu do domu pomocy społecznej wydaje starosta właściwy ze względu na położenie domu.
 
@@ -2726,7 +2928,9 @@ Art. 135–143. (pominięte)
 
 1a. Osoby, które przed dniem 1 maja 2004 r. ukończyły studia wyższe na kierunkach: pedagogika, psychologia, politologia, politologia i nauki społeczne lub socjologia, mogą wykonywać zawód pracownika socjalnego.
 
-2. Osoby kierujące placówkami opiekuńczo-wychowawczymi i ośrodkami adopcyjno-opiekuńczymi powinny ukończyć specjalizację nie później niż do końca 2005 r.; osobom tym zalicza się staż pracy w placówkach opiekuńczo-wychowawczych i ośrodkach adopcyjno-opiekuńczych. studia wyższe magisterskie na kierunkach: pedagogika, psychologia, politologia lub socjologia, mogą wykonywać zawód pracownika socjalnego.
+2. Osoby kierujące placówkami opiekuńczo-wychowawczymi i ośrodkami adopcyjno-opiekuńczymi powinny ukończyć specjalizację niepóźniej niż do końca 2005 r.; osobom tym zalicza się staż pracy w placówkach opiekuńczo-wychowawczych i ośrodkach adopcyjno-opiekuńczych.
+
+3. Osoby, które w okresie 3,5 roku od dnia wejścia w życie ustawy ukończą studia wyższe magisterskie na kierunkach: pedagogika, psychologia, politologia lub socjologia, mogą wykonywać zawód pracownika socjalnego.
 
 3a. Osoby, które przed dniem 1 maja 2004 r. rozpoczęły studia wyższe licencjackie lub wyższe magisterskie na kierunkach: pedagogika, psychologia, politologia lub socjologia, po uzyskaniu dyplomu ukończenia tych studiów mogą wykonywać zawód pracownika socjalnego.
 

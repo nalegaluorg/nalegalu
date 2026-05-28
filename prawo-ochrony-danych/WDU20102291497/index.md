@@ -8,12 +8,10 @@ pos: 1497
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy o ochronie danych osobowych oraz niektórych innych ustaw
-
-*USTAWA z dnia 29 października 2010 r.*
+# Ustawa z dnia 29 października 2010 r. o zmianie ustawy o ochronie danych osobowych oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,18 +22,32 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2010-10-29 |
 | Data wydania | 2010-12-06 |
+| Wejście w życie | 2011-03-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102291497) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1497/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2002 r. Nr 101, poz. 926, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2002 r. Nr 101, poz. 926, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym administracji (Dz. U. z 2005 r. Nr 229, poz. 1954, z późn. zm. ) wprowadza się następujące zmiany:
+- **1)** w art. 7 pkt 5 otrzymuje brzmienie: „
+- **5)** zgodzie osoby, której dane dotyczą – rozumie się przez to oświadczenie woli, którego treścią jest zgoda na przetwarzanie danych osobowych tego, kto składa oświadczenie; zgoda nie może być domniemana lub dorozumiana z oświadczenia woli o innej treści; zgoda może być odwołana w każdym czasie, ” ;
+- **2)** art. 12 otrzymuje brzmienie: „
 
-**Art. 3.** W ustawie z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym (Dz. U. z 2008 r. Nr 50, poz. 292, z 2009 r. Nr 53, poz. 432 Nr 168, poz. 1323 oraz z 2010 r. Nr 212, poz. 1385) art. 8 otrzymuje brzmienie: „Art. 8. 1. Zgromadzone zbiorach Rejestru dane osobowe mogą być przetwarzane wykorzystywane do badań naukowych, a także, po pozbawieniu tych danych informacji identyfikujących osobę, do celów statystycznych. 2. Udostępnione dane osobowe można wykorzystać wyłącznie zgodnie z przeznaczeniem, dla którego zostały udostępnione. 3. Administrator danych odmawia udostępnienia danych osobowych, jeżeli spowodowałoby to:
+**Art. 12.** Do zadań Generalnego Inspektora w szczególności należy:
 
-**Art. 4.** W ustawie z dnia 6 lipca 2001 r. o gromadzeniu, przetwarzaniu przekazywaniu informacji kryminalnych (Dz. U. z 2010 r. Nr 29, poz. 153 oraz Nr 167, poz. 1131 Nr 182, poz. 1228) art. 18 ust. 2 otrzymuje brzmienie: „2. W zakresie gromadzenia, przetwarzania udostępniania informacji kryminalnych stosuje się przepisy art. 12, art. 14-19, art. 26 ust. 1, art. 27 ust. 2 pkt 2, art. 32 ust. 1 pkt 1, 2, 4 6, art. 33 ust. 1, art. 34-39 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych.”.
+- **1)** kontrola zgodności przetwarzania danych z przepisami o ochronie danych osobowych,
+- **2)** wydawanie decyzji administracyjnych i rozpatrywanie skarg w sprawach wykonania przepisów o ochronie danych osobowych,
+- **3)** zapewnienie wykonania przez zobowiązanych obowiązków o charakterze niepieniężnym wynikających z decyzji, o których mowa w pkt 2, przez stosowanie środków egzekucyjnych przewidzianych w ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2005 r. Nr 229, poz. 1954, z późn. zm.),
+- **4)** prowadzenie rejestru zbiorów danych oraz udzielanie informacji o zarejestrowanych zbiorach,
+- **5)** opiniowanie projektów ustaw i rozporządzeń dotyczących ochrony danych osobowych,
+- **6)** inicjowanie i podejmowanie przedsięwzięć w zakresie doskonalenia ochrony danych osobowych,
+- **7)** uczestniczenie w pracach międzynarodowych organizacji i instytucji zajmujących się problematyką ochrony danych osobowych. ” ;
+- **3)** w art. 13: po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
 
-**Art. 5.** Do postępowań wszczętych niezakończonych na podstawie ustawy, o której mowa art. 1, przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+1a. Generalny Inspektor w przypadkach uzasadnionych charakterem i liczbą spraw z zakresu ochrony danych osobowych na danym terenie może wykonywać swoje zadania przy pomocy jednostek zamiejscowych Biura. ” , ust. 3 otrzymuje brzmienie: „
 
-**Art. 6.** Ustawa wchodzi życie po upływie 3 miesięcy od dnia ogłoszenia.
+- **b)**
+
+3.
+
 

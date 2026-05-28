@@ -8,12 +8,10 @@ pos: 169
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej
-
-*USTAWA z dnia 30 czerwca 1995 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 26 stycznia 2015 r. w sprawie ogłoszenia jednolitego tekstu ustawy o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej
 
 | Pole | Wartość |
 |---|---|
@@ -26,6 +24,63 @@ source: "isap-pdf"
 | Data wydania | 2015-01-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000169) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/169/text.pdf) |
+
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej Rozdział 1 – Przepisy ogólne Rozdział 2 – Osoby prawne Kościoła i ich organy Rozdział 3 – Działalność Kościoła Rozdział 4 – Sprawy majątkowe Rozdział 5 – Przepisy przejściowe i końcowe
+Załącznik – Wykaz osób prawnych Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej (Dz. U. Nr 97, poz. 480), z uwzględnieniem zmian wprowadzonych:
+1)
+ustawą z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557 i Nr 160, poz. 1083),
+2)
+ustawą z dnia 26 czerwca 1997 r. o zmianie ustawy o gwarancjach wolności sumienia i wyznania oraz o zmianie niektórych ustaw (Dz. U. z 1998 r. Nr 59, poz. 375),
+3)
+ustawą z dnia 24 lipca 1998 r. o zmianie niektórych ustaw określających kompetencje organów administracji publicznej – w związku z reformą ustrojową państwa (Dz. U. Nr 106, poz. 668),
+4)
+ustawą z dnia 29 kwietnia 2010 r. o zmianie ustawy – Prawo celne oraz niektórych innych ustaw (Dz. U. Nr 106, poz. 673),
+5)
+ustawą z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. Nr 112, poz. 654),
+6)
+ustawą z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych (Dz. U. poz. 498)
+oraz zmian wynikających z przepisów ogłoszonych przed dniem 21 stycznia 2015 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+1)
+art. 259 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557 i Nr 160, poz. 1083), który stanowi:
+„
+
+**Art. 259.** Ustawa wchodzi w życie z dniem 1 września 1998 r., z tym że przepisy art. 251–254 obowiązują nie dłużej niż przez 10 lat od dnia jej wejścia w życie. ” ;
+
+- **2)** art. 14, art. 15 i art. 17 ustawy z dnia 26 czerwca 1997 r. o zmianie ustawy o gwarancjach wolności sumienia i wyznania oraz o zmianie niektórych ustaw (Dz. U. z 1998 r. Nr 59, poz. 375), które stanowią: „
+
+**Art. 14.** Wnioski w sprawie wszczęcia postępowania regulacyjnego, o których mowa w art. 48a ustawy nowelizowanej w art. 3, w art. 26a ustawy nowelizowanej w art. 5 i w art. 42a ustawy nowelizowanej w art. 7, wnosi się w terminie 3 miesięcy od dnia wejścia w życie ustawy.
+
+**Art. 15.** Pozostają w mocy wpisy do rejestru kościołów i innych związków wyznaniowych dokonane na podstawie przepisów dotychczasowych, w szczególności nie jest wymagane uzupełnienie listy osób zgłaszających. ” „
+
+**Art. 17.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
+
+- **3)** art. 150 ustawy z dnia 24 lipca 1998 r. o zmianie niektórych ustaw określających kompetencje organów administracji publicznej – w związku z reformą ustrojową państwa (Dz. U. Nr 106, poz. 668), który stanowi: „
+
+**Art. 150.** Ustawa wchodzi w życie z dniem 1 stycznia 1999 r., z wyjątkiem art. 26, art. 128 pkt 2, art. 139 pkt 1 i 10, art. 145 ust. 2 i 4, art. 146 ust. 2 i 4 oraz art. 147 ust. 2 i 3, które wchodzą w życie z dniem ogłoszenia, i art. 34 pkt 1, art. 36 pkt 23, art. 48 pkt 1 i 3, art. 84, art. 97 pkt 1–3, 5–10 i 12–36 oraz art. 139 pkt 9 lit. a), które wchodzą w życie z dniem 1 stycznia 2000 r. ” ;
+
+- **4)** art. 16 ustawy z dnia 29 kwietnia 2010 r. o zmianie ustawy – Prawo celne oraz niektórych innych ustaw (Dz. U. Nr 106, poz. 673), który stanowi: „
+
+**Art. 16.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. ” ;
+
+- **5)** odnośnika nr 2 oraz art. 221 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. Nr 112, poz. 654), które stanowią: „ 2) Przepisy niniejszej ustawy wdrażają postanowienia dyrektywy 2003/88/WE Parlamentu Europejskiego i Rady z dnia 4 listopada 2003 r. dotyczącej niektórych aspektów organizacji czasu pracy (Dz. Urz. UE L 299 z 18.11.2003; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 4, str. 381). ” „
+
+**Art. 221.** Ustawa wchodzi w życie z dniem 1 lipca 2011 r., z wyjątkiem art. 17 ust. 2 i 3, art. 25, art. 88 ust. 3, art. 106 ust. 2 zdanie trzecie, ust. 3 pkt 13, ust. 4 pkt 11 i ust. 5, art. 148 pkt 6 oraz art. 172 pkt 10, które wchodzą w życie z dniem 1 stycznia 2012 r. ” ;
+
+- **6)** art. 40 i art. 43 ustawy z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych (Dz. U. poz. 498), które stanowią: „
+
+**Art. 40.**
+
+1. Do postępowań w sprawie wydania pozwolenia na przeprowadzenie zbiórki publicznej wszczętych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+
+2. Pozwolenia na przeprowadzenie zbiórki publicznej wydane przed dniem wejścia w życie niniejszej ustawy zachowują ważność przez okres, na jaki zostały udzielone, niezbędny do realizacji celu zbiórki i przedstawienia jej wyników. ” „
+
+**Art. 43.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -70,7 +125,7 @@ source: "isap-pdf"
 
 5. W sprawach majątkowych Kościół reprezentuje Rada Kościoła. Do składania oświadczeń woli w imieniu Kościoła są uprawnieni dwaj członkowie Prezydium Rady Kościoła działający łącznie.
 
-6. Zmiana nazwy grup osób prawnych lub poszczególnych osób prawnych, wymienionych w ust. 2 pkt 2–4, może być dokonana przepisami wewnątrzkościelnymi. Zmiany te, na wniosek Rady Kościoła, ogłasza Minister – Szef Urzędu Rady Ministrów w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+6. Zmiana nazwy grup osób prawnych lub poszczególnych osób prawnych, wymienionych w ust. 2 pkt 2–4, może być dokonana przepisami wewnątrzkościelnymi. Zmiany te, na wniosek Rady Kościoła, ogłasza Minister – Szef Urzędu Rady Ministrów  w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
 **Art. 6.** Inne jednostki organizacyjne Kościoła mogą, na wniosek Rady Kościoła, uzyskać osobowość prawną w drodze rozporządzenia Ministra – Szefa Urzędu Rady Ministrów .
 
@@ -110,8 +165,6 @@ source: "isap-pdf"
 
 5. Religijne uroczystości pogrzebowe i żałobne mogą być sprawowane na cmentarzach komunalnych przy zachowaniu obowiązujących przepisów porządkowych.
 
-**Art. 10a.**
-
 1. Małżeństwo zawarte w formie przewidzianej Prawem Wewnętrznym Kościoła wywołuje skutki cywilne, jeżeli odpowiada wymaganiom określonym w Kodeksie rodzinnym i opiekuńczym.
 
 2. Osobę duchowną, przed którą składa się oświadczenia o zawarciu małżeństwa, określa Prawo Wewnętrzne Kościoła.
@@ -139,15 +192,11 @@ source: "isap-pdf"
 
 3. Uczącym się w szkołach wymienionych w ust. 1 i 2 przysługują świadczenia opieki zdrowotnej finansowane ze środków publicznych oraz ulgi w opłatach za przejazdy środkami publicznego transportu zbiorowego na równi z uczniami szkół publicznych.
 
-**Art. 14.**
-
 1. Kościół ma prawo do zakładania i prowadzenia seminariów teologicznych i instytutów misyjnych, w których kształci według własnego programu kandydatów na duchownych oraz osoby świeckie przygotowujące się do realizacji misji Kościoła.
 
 2. Wyższe Baptystyczne Seminarium Teologiczne w Warszawie jest wyższą szkołą teologiczną uprawnioną do nadawania absolwentom tytułu zawodowego licencjata teologii baptystycznej. Tytuł ten jest równoważny z tytułem zawodowym licencjata nadawanym przez państwowe szkoły wyższe.
 
-**Art. 15.**
-
-1. Kościół ma prawo do zakładania i prowadzenia szkół wyższych. Status prawny tych szkół, a także tryb i zakres uznawania przez Państwo stopni i tytułów nadawanych przez te szkoły regulują umowy między Ministrem Edukacji Narodowej a Radą Kościoła.
+1. Kościół ma prawo do zakładania i prowadzenia szkół wyższych. Status prawny tych szkół, a także tryb i zakres uznawania przez Państwo stopni i tytułów nadawanych przez te szkoły regulują umowy między Ministrem Edukacji Narodowej  a Radą Kościoła.
 
 2. Studentom szkół, o których mowa w ust. 1 oraz w art. 14 ust. 2, przysługują świadczenia opieki zdrowotnej finansowane ze środków publicznych oraz ulgi w opłatach za przejazdy środkami publicznego transportu zbiorowego na równi ze studentami uczelni publicznych.
 
@@ -159,8 +208,6 @@ source: "isap-pdf"
 
 4. Poręcza się Kościołowi prawo do kształcenia kadr duchownych w Chrześcijańskiej Akademii Teologicznej w Warszawie w zakresie teologii baptystycznej, w ramach samodzielnej jednostki naukowo-dydaktycznej utworzonej zgodnie z ustawą o szkolnictwie wyższym.
 
-**Art. 16.**
-
 1. Studenci teologii otrzymują na czas studiów odroczenie odbywania zasadniczej służby wojskowej, zaś w razie ogłoszenia mobilizacji i w czasie wojny mogą być przeznaczeni, stosownie do potrzeb sił zbrojnych, do służby sanitarnej lub służby w obronie cywilnej.
 
 2. Nie powołuje się absolwentów studiów, o których mowa w ust. 1, do odbywania przeszkolenia wojskowego w okresie przygotowań do ordynacji w ciągu dwóch lat od zakończenia studiów.
@@ -168,8 +215,6 @@ source: "isap-pdf"
 3. Ordynowani duchowni są przenoszeni do rezerwy i nie odbywają ćwiczeń wojskowych w czasie pokoju. W razie ogłoszenia mobilizacji oraz w czasie wojny mogą być oni powołani jedynie do pełnienia funkcji kapelanów wojskowych.
 
 4. W razie ogłoszenia mobilizacji i w czasie wojny właściwe organy wojskowe, w porozumieniu z Radą Kościoła, zapewnią pozostawienie do duszpasterskiej obsługi ludności niezbędnej liczby duchownych spośród tych, którzy podlegają mobilizacji.
-
-**Art. 17.**
 
 1. Żołnierzom pełniącym czynną służbę wojskową zapewnia się możliwość uczestniczenia – poza terenem jednostek wojskowych – w nabożeństwach i czynnościach religijnych w niedziele i w dni świąteczne Kościoła, jeżeli w miejscowości stacjonowania jednostki wojskowej lub w jej pobliżu znajduje się zbór i jeżeli nie koliduje to z ważnymi obowiązkami służbowymi.
 
@@ -183,7 +228,7 @@ source: "isap-pdf"
 
 2. Dzieciom i młodzieży korzystającym z zorganizowanych form wypoczynku zapewnia się prawo do wykonywania praktyk religijnych, w szczególności do udziału w nabożeństwach.
 
-3. Minister Edukacji Narodowej oraz Minister Zdrowia i Opieki Społecznej , w porozumieniu z Radą Kościoła, określą, w drodze rozporządzenia, szczegółowe zasady organizowania nabożeństw i katechizacji oraz wykonywania innych praktyk religijnych, właściwych dla wyznania baptystycznego, dzieciom i młodzieży przebywającym w zakładach wychowawczych i opiekuńczych, w sanatoriach, prewentoriach i szpitalach oraz korzystającym z zorganizowanych form wypoczynku.
+3. Minister Edukacji Narodowej  oraz Minister Zdrowia i Opieki Społecznej , w porozumieniu z Radą Kościoła, określą, w drodze rozporządzenia, szczegółowe zasady organizowania nabożeństw i katechizacji oraz wykonywania innych praktyk religijnych, właściwych dla wyznania baptystycznego, dzieciom i młodzieży przebywającym w zakładach wychowawczych i opiekuńczych, w sanatoriach, prewentoriach i szpitalach oraz korzystającym z zorganizowanych form wypoczynku.
 
 **Art. 19.**
 
@@ -195,11 +240,11 @@ source: "isap-pdf"
 
 **Art. 20.**
 
-- **7)** 1. Osoby tymczasowo aresztowane mogą wykonywać praktyki religijne i uczestniczyć w nabożeństwach transmitowanych przez środki masowego przekazu oraz za zgodą organu, do którego dyspozycji pozostają, korzystać z indywidualnej posługi religijnej.
+1. Osoby tymczasowo aresztowane mogą wykonywać praktyki religijne i uczestniczyć w nabożeństwach transmitowanych przez środki masowego przekazu oraz za zgodą organu, do którego dyspozycji pozostają, korzystać z indywidualnej posługi religijnej.
 
 2. Osobom skazanym zapewnia się możliwość wykonywania praktyk religijnych, korzystania z posług religijnych oraz uczestniczenia w nabożeństwach w niedziele i święta w odpowiednio przystosowanym pomieszczeniu w zakładzie, w którym przebywają. Osobom, które nie mają możliwości uczestniczenia w nabożeństwach na terenie zakładu, należy umożliwić wysłuchanie nabożeństwa transmitowanego przez środki masowego przekazu.
 
-3. Nieletnim przebywającym w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich zapewnia się możliwość wykonywania praktyk religijnych, korzystania z katechizacji i posług religijnych, uczestniczenia w nabożeństwach w niedziele i święta. Nieletnim, którzy nie mają możliwości uczestniczenia w nabożeństwach, należy zapewnić możliwość wysłuchania nabożeństwa transmitowanego przez środki masowego przekazu.
+3. Nieletnim przebywającym w zakładach poprawczych i schroniskach dla nieletnich zapewnia się możliwość wykonywania praktyk religijnych, korzystania z katechizacji i posług religijnych, uczestniczenia w nabożeństwach w niedziele i święta. Nieletnim, którzy nie mają możliwości uczestniczenia w nabożeństwach, należy zapewnić możliwość wysłuchania nabożeństwa transmitowanego przez środki masowego przekazu.
 
 **Art. 21.**
 
@@ -226,7 +271,21 @@ source: "isap-pdf"
 
 **Art. 23.** Działalność charytatywno-opiekuńcza Kościoła obejmuje w szczególności:
 
+- **1)** prowadzenie zakładów dla sierot, starców, osób upośledzonych fizycznie lub umysłowo oraz innych kategorii osób potrzebujących opieki;
+- **2)** wykonywanie działalności leczniczej w rozumieniu przepisów o działalności leczniczej oraz prowadzenie aptek;
+- **3)** organizowanie pomocy sierotom, ofiarom wojennym, osobom dotkniętym klęskami żywiołowymi i epidemiami i znajdującym się w trudnym położeniu materialnym lub zdrowotnym oraz pozbawionym wolności;
+- **4)** prowadzenie żłobków, ochronek, burs i schronisk;
+- **5)** udzielanie pomocy w zapewnieniu wypoczynku dzieciom i młodzieży znajdującym się w potrzebie;
+- **6)** krzewienie idei pomocy bliźnim i postaw społecznych temu sprzyjających;
+- **7)** przekazywanie za granicę pomocy ofiarom klęsk żywiołowych i osobom znajdującym się w szczególnej potrzebie.
+
 **Art. 24.** Środki na realizację działalności charytatywno-opiekuńczej mogą pochodzić w szczególności z:
+
+- **1)** ofiar pieniężnych i w naturze oraz subwencji i dotacji;
+- **2)** spadków, zapisów i darowizn krajowych i zagranicznych;
+- **3)** dochodów z imprez i zbiórek publicznych;
+- **4)** odpłatności za usługi świadczone przez kościelne instytucje charytatywno-opiekuńcze;
+- **5)** innych dochodów Kościoła i jego osób prawnych, w tym z ich działalności gospodarczej.
 
 **Art. 25.**
 
@@ -246,7 +305,7 @@ source: "isap-pdf"
 
 2. Sposób realizacji uprawnień, o których mowa w ust. 1, określi porozumienie między Radą Kościoła a właściwą jednostką publicznej radiofonii i telewizji.
 
-3. Kościół może zakładać własne stacje radiowe i telewizyjne. Rozpowszechnianie programów radiowych i telewizyjnych wymaga uzyskania koncesji na zasadach określonych w ustawie z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2011 r. Nr 43, poz. 226, z późn. zm. ).
+3. Kościół może zakładać własne stacje radiowe i telewizyjne. Rozpowszechnianie programów radiowych i telewizyjnych wymaga uzyskania koncesji na zasadach określonych w ustawie z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2011 r. Nr 43, poz. 226, z późn. zm.).
 
 **Art. 30.** Kościół i jego osoby prawne mają prawo gromadzenia zbiorów bibliotecznych na cele wewnętrzne i publiczne.
 
@@ -321,8 +380,6 @@ source: "isap-pdf"
 
 5. Organ, który wydał decyzję ostateczną określoną w ust. 2, zawiadamia o niej organ, który zawiesił postępowanie, zwracając akta sprawy. Sąd lub właściwy organ umorzy zawieszone postępowanie.
 
-**Art. 40.**
-
 1. Na wniosek Kościoła i jego osób prawnych wszczyna się postępowanie w przedmiocie przywrócenia im własności upaństwowionych nieruchomości lub ich części, niepozostających w ich władaniu, o których mowa w art. 39 ust. 1 pkt 1, bez względu na podstawę prawną i tryb upaństwowienia, z wyłączeniem nieruchomości wywłaszczonych po 1945 r., za które odszkodowanie zostało podjęte.
 
 2. Jeżeli przywrócenie kościelnym osobom prawnym własności nieruchomości wymienionych w ust. 1 lub ich części nie jest możliwe, przedmiotem postępowania jest:
@@ -334,10 +391,10 @@ source: "isap-pdf"
 
 4. Regulacja nie może naruszać:
 
-- **1)** przepisów ustawy z dnia 3 stycznia 1946 r. o przejęciu na własność Państwa podstawowych gałęzi gospodarki narodowej (Dz. U. Nr 3, poz. 17, z późn. zm. );
+- **1)** przepisów ustawy z dnia 3 stycznia 1946 r. o przejęciu na własność Państwa podstawowych gałęzi gospodarki narodowej (Dz. U. Nr 3, poz. 17, z późn. zm.);
 - **2)** praw nabytych przez osoby trzecie, w szczególności przez inne kościoły i związki wyznaniowe.
 
-5. Majątek nieruchomy, przekazany na własność gminie w trybie ustawy z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. Nr 32, poz. 191, z późn. zm. ), podlega postępowaniu, o którym mowa w ust. 1–4.
+5. Majątek nieruchomy, przekazany na własność gminie w trybie ustawy z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. Nr 32, poz. 191, z późn. zm.), podlega postępowaniu, o którym mowa w ust. 1–4.
 
 **Art. 41.**
 
@@ -351,11 +408,7 @@ source: "isap-pdf"
 
 1. Decyzje, o których mowa w art. 40 ust. 1 i 2 pkt 1, stanowią podstawę do dokonania wpisów w księgach wieczystych i ewidencji gruntów. Przepis art. 39 ust. 3 stosuje się odpowiednio.
 
-2. Obowiązek zapłaty odszkodowania, o którym mowa w art. 40 ust. 2 pkt 2, ciąży na Skarbie Państwa reprezentowanym przez Ministra Finansów .
-
-**Art. 42a.** Wnioski kościelnych osób prawnych wniesione w trybie określonym w art. 40, w stosunku do których nie zostały zakończone postępowania administracyjne, na wniosek jednej ze stron w dotychczasowym postępowaniu stają się z mocy prawa przedmiotem postępowania regulacyjnego, określonego w dziale IIIa ustawy z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania (Dz. U. z 2005 r. Nr 231, poz. 1965, z późn. zm. ).
-
-**Art. 43.**
+2. Obowiązek zapłaty odszkodowania, o którym mowa w art. 40 ust. 2 pkt 2, ciąży na Skarbie Państwa reprezentowanym przez Ministra Finansów . Wnioski kościelnych osób prawnych wniesione w trybie określonym w art. 40, w stosunku do których nie zostały zakończone postępowania administracyjne, na wniosek jednej ze stron w dotychczasowym postępowaniu stają się z mocy prawa przedmiotem postępowania regulacyjnego, określonego w dziale IIIa ustawy z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania (Dz. U. z 2005 r. Nr 231, poz. 1965, z późn. zm.). oraz z 2011 r. Nr 112, poz. 654.
 
 1. Na wniosek Kościoła lub jego osób prawnych, wojewoda lub inny organ wykonujący w imieniu Skarbu Państwa prawa wynikające z własności nieruchomości albo organy jednostek samorządu terytorialnego w zakresie swoich właściwości – mogą nieodpłatnie przekazać Kościołowi lub jego osobom prawnym własność nieruchomości lub ich części:
 
@@ -372,5 +425,5 @@ source: "isap-pdf"
 
 2. Wykaz kościelnych osób prawnych istniejących w dniu wejścia w życie ustawy określa załącznik do ustawy.
 
-**Art. 45.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia . Załącznik WYKAZ OSÓB PRAWNYCH KOŚCIOŁA CHRZEŚCIJAN BAPTYSTÓW W RZECZYPOSPOLITEJ POLSKIEJ I. Okręgi i zbory 1. Okręg Białostocki Zbór Białowieża Zbór Białystok Zbór Bielsk Podlaski Zbór Dubicze Cerkiewne Zbór Hajnówka Zbór Kleszczele Zbór Narew Zbór Narewka Zbór Orla 2. Okręg Centralny Zbór Kielce Zbór Łódź Zbór Warszawa – Pierwszy Zbór w Warszawie Zbór Warszawa – Drugi Zbór w Warszawie Zbór Zelów Zbór Żyrardów 3. Okręg Dolnośląski Zbór Głogów Zbór Kalisz Zbór Kłodzko Zbór Wałbrzych Zbór Wrocław – Pierwszy Zbór we Wrocławiu Zbór Wrocław – Drugi Zbór we Wrocławiu Zbór Zgorzelec Zbór Zielona Góra 4. Okręg Gdański Zbór Bydgoszcz Zbór Elbląg Zbór Gdańsk Zbór Gdynia Zbór Malbork 5. Okręg Lubelski Zbór Chełm Zbór Lublin Zbór Rokitno Zbór Rudka 6. Okręg Mazurski Zbór Bartoszyce Zbór Ełk Zbór Giżycko Zbór Kętrzyn Zbór Olsztynek Zbór Ostróda Zbór Szczytno 7. Okręg Południowy Zbór Kraków Zbór Krowica Zbór Krynica Zbór Przemyśl Zbór Tarnów 8. Okręg Pomorski Zbór Chociwel Zbór Gorzów Wielkopolski Zbór Konin Zbór Koszalin Zbór Poznań Zbór Szczecin Zbór Szczecinek Zbór Świnoujście 9. Okręg Śląski Zbór Bielsko-Biała Zbór Bytom Zbór Chrzanów Zbór Katowice Zbór Orzesze Zbór Wisła Zbór Zabrze II. Seminaria Wyższe Baptystyczne Seminarium Teologiczne w Warszawie Biblijne Seminarium Teologiczne we Wrocławiu
+**Art. 45.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Załącznik – Wykaz osób prawnych Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej I. Okręg i i zbory 1. Okręg Białostocki Zbór Białowieża Zbór Białystok Zbór Bielsk Podlaski Zbór Dubicze Cerkiewne Zbór Hajnówka Zbór Kleszczele Zbór Narew Zbór Narewka Zbór Orla 2. Okręg Centralny Zbór Kielce Zbór Łódź Zbór Warszawa – Pierwszy Zbór w Warszawie Zbór Warszawa – Drugi Zbór w Warszawie Zbór Zelów Zbór Żyrardów 3. Okręg Dolnośląski Zbór Głogów Zbór Kalisz Zbór Kłodzko Zbór Wałbrzych Zbór Wrocław – Pierwszy Zbór we Wrocławiu Zbór Wrocław – Drugi Zbór we Wrocławiu Zbór Zgorzelec Zbór Zielona Góra 4. Okręg Gdański Zbór Bydgoszcz Zbór Elbląg Zbór Gdańsk Zbór Gdynia Zbór Malbork 5. Okręg Lubelski Zbór Chełm Zbór Lublin Zbór Rokitno Zbór Rudka 6. Okręg Mazurski Zbór Bartoszyce Zbór Ełk Zbór Giżycko Zbór Kętrzyn Zbór Olsztynek Zbór Ostróda Zbór Szczytno 7. Okręg Południowy Zbór Kraków Zbór Krowica Zbór Krynica Zbór Przemyśl Zbór Tarnów 8. Okręg Pomorski Zbór Chociwel Zbór Gorzów Wielkopolski Zbór Konin Zbór Koszalin Zbór Poznań Zbór Szczecin Zbór Szczecinek Zbór Świnoujście 9. Okręg Śląski Zbór Bielsko-Biała Zbór Bytom Zbór Chrzanów Zbór Katowice Zbór Orzesze Zbór Wisła Zbór Zabrze II. Seminaria Wyższe Baptystyczne Seminarium Teologiczne w Warszawie Biblijne Seminarium Teologiczne we Wrocławiu.
 

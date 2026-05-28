@@ -8,10 +8,10 @@ pos: 1118
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Dz. 2024 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 23 lipca 2024 sprawie ogłoszenia jednolitego tekstu utracie mocy prawnej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 23 lipca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o utracie mocy prawnej niektórych ksiąg wieczystych
 
 | Pole | Wartość |
 |---|---|
@@ -25,64 +25,71 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-07-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001118) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1118/text.pdf) |
 
-1. Na podstawie 16 ust. 1 zdanie pierwsze dnia 20 lipca 2000 ogłaszaniu aktów normatywnych i innych aktów prawnych 2019 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst dnia 17 lutego 1960 utracie mocy prawnej Nr 11, 67), uwzględnieniem zmian wprowadzonych:
-1) ustawą dnia 29 czerwca 1962 zmieniająca dekret wymianie gruntów Nr 39, 169),
-2) ustawą dnia 26 marca 1982 scalaniu gruntów Nr 11, 80),
-3) ustawą dnia 24 lutego 1989 zmianie scalaniu gruntów Nr 10, 55),
-4) ustawą dnia 24 lipca 1998 zmianie ustaw określających kompetencje organów administracji publicznej związku reformą ustrojową państwa Nr 106, 668),
-5) ustawą dnia 2 grudnia 2021 zmianie scalaniu i wymianie gruntów, utracie mocy prawnej
-32) zmian wynikających przepisów ogłoszonych przed dniem 18 lipca 2024
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity nie obejmuje:
-1) 4 dnia 29 czerwca 1962 zmieniająca dekret wymianie gruntów Nr 39, 169), który stanowi: „Art. 4. Ustawa wchodzi życie dniem ogłoszenia.”;
-2) 33 dnia 26 marca 1982 scalaniu gruntów Nr 11, 80), który stanowi: „Art. 33. Ustawa wchodzi życie dniem ogłoszenia.”;
-3) 5 dnia 24 lutego 1989 zmianie scalaniu gruntów Nr 10, 55), który stanowi: „Art. 5. Ustawa wchodzi życie dniem 1 czerwca 1989 r.”;
-4) 150 dnia 24 lipca 1998 zmianie ustaw określających kompetencje organów administracji publicznej związku reformą ustrojową państwa Nr 106, 668), który stanowi: „Art. 150. Ustawa wchodzi życie dniem 1 stycznia 1999 r., wyjątkiem 26, 128 pkt 2, 139 pkt 1 i 10, 145 ust. 2 i 4, 146 ust. 2 i 4 147 ust. 2 i 3, które wchodzą życie dniem ogłoszenia, i 34 pkt 1, 36 pkt 23, 48 pkt 1 i 3, 84, 97 pkt 1–3, 5–10 i 12–36 139 pkt 9 lit. a), które wchodzą życie dniem 1 stycznia 2000 r.”;
-5) 6 dnia 2 grudnia 2021 zmianie scalaniu i wymianie gruntów, utracie mocy prawnej który stanowi: „Art. 6. Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia, wyjątkiem 3 i 5, które wchodzą Marszałek Sejmu: S. Hołownia
-USTAWA dnia 17 lutego 1960 utracie mocy prawnej
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 17 lutego 1960 r. o utracie mocy prawnej niektórych ksiąg wieczystych
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 17 lutego 1960 r. o utracie mocy prawnej niektórych ksiąg wieczystych (Dz. U. Nr 11, poz. 67), z uwzględnieniem zmian wprowadzonych:
+1)
+ustawą z dnia 29 czerwca 1962 r. zmieniająca dekret o wymianie gruntów (Dz. U. Nr 39, poz. 169),
+2)
+ustawą z dnia 26 marca 1982 r. o scalaniu gruntów (Dz. U. Nr 11, poz. 80),
+3)
+ustawą z dnia 24 lutego 1989 r. o zmianie ustawy o scalaniu gruntów (Dz. U. Nr 10, poz. 55),
+4)
+ustawą z dnia 24 lipca 1998 r. o zmianie niektórych ustaw określających kompetencje organów administracji publicznej – w związku z reformą ustrojową państwa (Dz. U. Nr 106, poz. 668),
+5)
+ustawą z dnia 2 grudnia 2021 r. o zmianie ustawy o scalaniu i wymianie gruntów, ustawy o utracie mocy prawnej niektórych ksiąg wieczystych oraz ustawy o drogach publicznych (Dz. U. z 2022 r. poz. 32)
+oraz zmian wynikających z przepisów ogłoszonych przed dniem 18 lipca 2024 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+1)
+art. 4 ustawy z dnia 29 czerwca 1962 r. zmieniająca dekret o wymianie gruntów (Dz. U. Nr 39, poz. 169), który stanowi:
+„
+
+**Art. 4.** Ustawa wchodzi w życie z dniem ogłoszenia. ” ;
+
+- **2)** art. 33 ustawy z dnia 26 marca 1982 r. o scalaniu gruntów (Dz. U. Nr 11, poz. 80), który stanowi: „
+
+**Art. 33.** Ustawa wchodzi w życie z dniem ogłoszenia. ” ;
+
+- **3)** art. 5 ustawy z dnia 24 lutego 1989 r. o zmianie ustawy o scalaniu gruntów (Dz. U. Nr 10, poz. 55), który stanowi: „
+
+**Art. 5.** Ustawa wchodzi w życie z dniem 1 czerwca 1989 r. ” ;
+
+- **4)** art. 150 ustawy z dnia 24 lipca 1998 r. o zmianie niektórych ustaw określających kompetencje organów administracji publicznej – w związku z reformą ustrojową państwa (Dz. U. Nr 106, poz. 668), który stanowi: „
+
+**Art. 150.** Ustawa wchodzi w życie z dniem 1 stycznia 1999 r., z wyjątkiem art. 26, art. 128 pkt 2, art. 139 pkt 1 i 10, art. 145 ust. 2 i 4, art. 146 ust. 2 i 4 oraz art. 147 ust. 2 i 3, które wchodzą w życie z dniem ogłoszenia, i art. 34 pkt 1, art. 36 pkt 23, art. 48 pkt 1 i 3, art. 84, art. 97 pkt 1–3, 5–10 i 12–36 oraz art. 139 pkt 9 lit. a), które wchodzą w życie z dniem 1 stycznia 2000 r. ” ;
+
+- **5)** art. 6 ustawy z dnia 2 grudnia 2021 r. o zmianie ustawy o scalaniu i wymianie gruntów, ustawy o utracie mocy prawnej niektórych ksiąg wieczystych oraz ustawy o drogach publicznych (Dz. U. z 2022 r. poz. 32), który stanowi: „
+
+**Art. 6.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 3 i art. 5, które wchodzą w życie po upływie 7 dni od dnia ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 17 lutego 1960 r. o utracie mocy prawnej niektórych ksiąg wieczystych
 
 **Art. 1.**
 
-- **1)** 1. Prowadzone dotychczas wieczyste, założone przed dniem 1 stycznia 1947 dla nieruchomości ziemskich objętych postępowaniem scaleniowym lub wymianą gruntów, tracą moc prawną i podlegają zamknięciu chwilą podjęcia ostatecznej decyzji zatwierdzeniu projektu scalenia lub wymiany gruntów.
+1. Prowadzone dotychczas księgi wieczyste, założone przed dniem 1 stycznia 1947 r. dla nieruchomości ziemskich objętych postępowaniem scaleniowym lub wymianą gruntów, tracą moc prawną i podlegają zamknięciu z chwilą podjęcia ostatecznej decyzji o zatwierdzeniu projektu scalenia lub wymiany gruntów.
 
-2. Księgi wieczyste założone po dniu 1 stycznia 1947 dla nieruchomości ziemskich objętych scaleniem lub wymianą gruntów nie tracą mocy prawnej, jeżeli uwidoczniony nich stan jest zgodny ze stanem wykazanym ewidencji gruntów.
+2. Księgi wieczyste założone po dniu 1 stycznia 1947 r. dla nieruchomości ziemskich objętych scaleniem lub wymianą gruntów nie tracą mocy prawnej, jeżeli uwidoczniony w nich stan jest zgodny ze stanem wykazanym w ewidencji gruntów.
 
 **Art. 2.**
 
-1. Sąd prowadzący wieczyste dokonuje zamknięcia określonych 1 na skutek zawiadomienia właściwego starosty. Do zawiadomienia powinien być dołączony odpis decyzji zatwierdzeniu projektu scalenia lub odpowiedni wyciąg tego dokumentu sporządzone toku postępowania scaleniowego dokumenty pomiarowe (mapa i rejestr).
+1. Sąd prowadzący księgi wieczyste dokonuje zamknięcia ksiąg wieczystych określonych w art. 1 na skutek zawiadomienia właściwego starosty. Do zawiadomienia powinien być dołączony odpis decyzji o zatwierdzeniu projektu scalenia lub odpowiedni wyciąg z tego dokumentu oraz sporządzone w toku postępowania scaleniowego dokumenty pomiarowe (mapa i rejestr).
 
-2. Zamknięcie może nastąpić również na skutek zawiadomienia wpisanych nich właścicieli lub uczestników scalenia względnie wymiany gruntów, do którego zostaną załączone dokumenty określone ust. 1.
+2. Zamknięcie ksiąg wieczystych może nastąpić również na skutek zawiadomienia wpisanych w nich właścicieli lub uczestników scalenia względnie wymiany gruntów, do którego zostaną załączone dokumenty określone w ust. 1.
 
-3. O utracie mocy prawnej wieczystej i jej zamknięciu sąd zawiadamia urzędu wpisanego niej właściciela nieruchomości wszystkie inne osoby, na rzecz których figurują księdze wieczystej jakiekolwiek wpisy.
+3. O utracie mocy prawnej księgi wieczystej i o jej zamknięciu sąd zawiadamia z urzędu wpisanego w niej właściciela nieruchomości oraz wszystkie inne osoby, na rzecz których figurują w księdze wieczystej jakiekolwiek wpisy.
 
-**Art. 3.**
-
-- **4)** Dla nieruchomości, których wieczyste mocy 1 utraciły moc prawną, dla nieruchomości, które były objęte postępowaniem scaleniowym lub wymianą gruntów, a nie miały urządzonych wieczystych, lub których wieczyste zaginęły albo uległy zniszczeniu, zakłada się wieczyste urzędu.
-
-**Art. 4.**
-
-1. Dla nieruchomości wymienionych 3 zakłada się wieczyste według przepisów dotyczących zakładania dla nieruchomości, które nie miały urządzonych takich ksiąg, tą zmianą, iż termin do zgłaszania praw podlegających wskazaniu obwieszczeniu wynosi trzy miesiące.
-
-2. Podstawę wpisu prawa własności wpisu dotyczącego oznaczenia nieruchomości zakładanych księgach stanowi decyzja zatwierdzeniu projektu scalenia lub decyzja wymianie gruntów sporządzone toku postępowania scaleniowego lub postępowania wymianę gruntów dokumenty pomiarowe: mapa (plan) i rejestr gruntów (opis nieruchomości) operatu ewidencji gruntów.
-
-3. Jednocześnie wpisaniem zakładanej księdze wieczystej właściciela nieruchomości powinny być wpisane niej urzędu istniejące zamkniętej księdze wieczystej wpisy dotyczące użytkowania nieruchomości, służebności osobistych służebności gruntowych, które na skutek scalenia lub wymiany gruntów nie stały się bezprzedmiotowe, ciężarów realnych i pożyczek funduszów państwowych innych należności państwowych. Istnienie tych obciążeń powinno być stwierdzone toku postępowania scaleniowego lub postępowania wymianę gruntów i uwidocznione decyzji zatwierdzeniu projektu scalenia i decyzji wymianie gruntów. Inne wpisy, które figurowały dawniejszych księgach wieczystych, wciąga się tylko na wniosek osób uprawnionych lub właściciela nieruchomości.
-
-**Art. 5.** Tracą moc prawną i podlegają urzędu zamknięciu wieczyste nieruchomości, położonych na obszarze mocy obowiązującej dekretu dnia 27 lipca 1949 przejęciu na własność Państwa nie pozostających faktycznym władaniu właścicieli nieruchomości ziemskich, położonych powiatach województw białostockiego, lubelskiego, rzeszowskiego i krakowskiego 339) miejscowościach, które zostaną określone rozporządzeniu Ministra Sprawiedliwości wydanym porozumieniu Ministrem Rolnictwa. Nie dotyczy to tych nieruchomości położonych powyższych miejscowościach, które zostaną rozporządzeniu wyraźnie wymienione jako zachowujące nadal moc prawną.
-
-**Art. 6.**
-
-1. Do zakładania dla nieruchomości, położonych miejscowościach określonych rozporządzeniu przewidzianym 5, stosuje się przepisy 3 i 4 ust. 1, jeżeli wieczyste tych nieruchomości utraciły moc prawną zgodnie 5 bądź zaginęły lub uległy zniszczeniu albo jeżeli nieruchomości te nie miały wieczystych. Jednakże zakładanie dla nieruchomości, które zostały nabyte przez ich właścicieli od Państwa lub stanowią własność spadkobierców takich nabywców, odbywa się bez dokonywania obwieszczeń.
-
-2. Podstawą wpisu prawa własności wpisu dotyczącego oznaczenia nieruchomości zakładanych księgach i ciążących na nieruchomości obciążeń jest decyzja właściwego starosty nadaniu nieruchomości przez Państwo bądź też akt notarialny stwierdzający odpłatne nabycie nieruchomości od Państwa dokumenty pomiarowe: mapa (plan) i rejestr gruntów (opis nieruchomości) operatu ewidencji gruntów. Wydawanie tych decyzji jest zadaniem zakresu administracji rządowej.
+**Art. 3.** Dla nieruchomości, których księgi wieczyste z mocy art. 1 utraciły moc prawną, oraz dla nieruchomości, które były objęte postępowaniem scaleniowym lub wymianą gruntów, a nie miały urządzonych ksiąg wieczystych, lub których księgi wieczyste zaginęły albo uległy zniszczeniu, zakłada się księgi wieczyste z urzędu. 1. Dla nieruchomości wymienionych w art. 3 zakłada się księgi wieczyste według przepisów dotyczących zakładania ksiąg wieczystych dla nieruchomości, które nie miały urządzonych takich ksiąg, z tą zmianą, iż termin do zgłaszania praw podlegających wskazaniu w obwieszczeniu wynosi trzy miesiące. 2. Podstawę wpisu prawa własności oraz wpisu dotyczącego oznaczenia nieruchomości w zakładanych księgach wieczystych stanowi decyzja o zatwierdzeniu projektu scalenia lub decyzja o wymianie gruntów oraz sporządzone w toku postępowania scaleniowego lub postępowania o wymianę gruntów dokumenty pomiarowe: mapa (plan) i rejestr gruntów (opis nieruchomości) z operatu ewidencji gruntów. 3. Jednocześnie z wpisaniem w zakładanej księdze wieczystej właściciela nieruchomości powinny być wpisane w niej z urzędu istniejące w zamkniętej księdze wieczystej wpisy dotyczące użytkowania nieruchomości, służebności osobistych oraz służebności gruntowych, które na skutek scalenia lub wymiany gruntów nie stały się bezprzedmiotowe, ciężarów realnych i pożyczek z funduszów państwowych oraz innych należności państwowych. Istnienie tych obciążeń powinno być stwierdzone w toku postępowania scaleniowego lub postępowania o wymianę gruntów i uwidocznione w decyzji o zatwierdzeniu projektu scalenia i decyzji o wymianie gruntów. Inne wpisy, które figurowały w dawniejszych księgach wieczystych, wciąga się tylko na wniosek osób uprawnionych lub właściciela nieruchomości. Tracą moc prawną i podlegają z urzędu zamknięciu księgi wieczyste nieruchomości, położonych na obszarze mocy obowiązującej dekretu z dnia 27 lipca 1949 r. o przejęciu na własność Państwa nie pozostających w faktycznym władaniu właścicieli nieruchomości ziemskich, położonych w niektórych powiatach województw białostockiego, lubelskiego, rzeszowskiego i krakowskiego (Dz. U. poz. 339) w miejscowościach, które zostaną określone w rozporządzeniu Ministra Sprawiedliwości wydanym w porozumieniu z Ministrem Rolnictwa. Nie dotyczy to tych ksiąg wieczystych nieruchomości położonych w powyższych miejscowościach, które zostaną w rozporządzeniu wyraźnie wymienione jako zachowujące nadal moc prawną. 1. Do zakładania ksiąg wieczystych dla nieruchomości, położonych w miejscowościach określonych w rozporządzeniu przewidzianym w art. 5, stosuje się przepisy art. 3 i art. 4 ust. 1, jeżeli księgi wieczyste tych nieruchomości utraciły moc prawną zgodnie z art. 5 bądź zaginęły lub uległy zniszczeniu albo jeżeli nieruchomości te nie miały ksiąg wieczystych. Jednakże zakładanie ksiąg wieczystych dla nieruchomości, które zostały nabyte przez ich właścicieli od Państwa lub stanowią własność spadkobierców takich nabywców, odbywa się bez dokonywania obwieszczeń. 2. Podstawą wpisu prawa własności oraz wpisu dotyczącego oznaczenia nieruchomości w zakładanych księgach wieczystych i ciążących na nieruchomości obciążeń jest decyzja właściwego starosty o nadaniu nieruchomości przez Państwo bądź też akt notarialny stwierdzający odpłatne nabycie nieruchomości od Państwa oraz dokumenty pomiarowe: mapa (plan) i rejestr gruntów (opis nieruchomości) z operatu ewidencji gruntów. Wydawanie tych decyzji jest zadaniem z zakresu administracji rządowej.
 
 **Art. 7.**
 
-1. Przepisy 1–4 stosuje się również do tych nieruchomości, co do których postępowanie scaleniowe lub postępowanie wymianę gruntów jest toku dniu wejścia życie niniejszej ustawy.
+1. Przepisy art. 1–4 stosuje się również do ksiąg wieczystych tych nieruchomości, co do których postępowanie scaleniowe lub postępowanie o wymianę gruntów jest w toku w dniu wejścia w życie niniejszej ustawy.
 
-2. Przepisy 1–4 stosuje się także do nieruchomości, co do których postępowanie scaleniowe bądź postępowanie wymianę gruntów zostało przed dniem wejścia życie niniejszej zakończone, jednak stan prawny powstały wyniku scalenia lub wymiany gruntów nie został tych księgach dotychczas ujawniony.
+2. Przepisy art. 1–4 stosuje się także do ksiąg wieczystych nieruchomości, co do których postępowanie scaleniowe bądź postępowanie o wymianę gruntów zostało przed dniem wejścia w życie niniejszej ustawy zakończone, jednak stan prawny powstały w wyniku scalenia lub wymiany gruntów nie został w tych księgach dotychczas ujawniony.
 
-3. Jeżeli prawomocna decyzja zatwierdzeniu projektu scalenia lub wymianie gruntów nie odpowiada warunkom określonym 4 ust. 3, właściwy starosta wyda dodatkową decyzję ustalające te obciążenia, które zgodnie powołanym przepisem wymagają ujawnienia księgach wieczystych.
+3. Jeżeli prawomocna decyzja o zatwierdzeniu projektu scalenia lub o wymianie gruntów nie odpowiada warunkom określonym w art. 4 ust. 3, właściwy starosta wyda dodatkową decyzję ustalające te obciążenia, które zgodnie z powołanym przepisem wymagają ujawnienia w księgach wieczystych.
 
-**Art. 8.** Wnioski założenie dla nieruchomości, których tracą moc prawną według niniejszej ustawy, wnioski wpis obciążeń, które figurowały tych księgach, są wolne od wpisu sądowego.
+**Art. 8.** Wnioski o założenie ksiąg wieczystych dla nieruchomości, których księgi tracą moc prawną według niniejszej ustawy, oraz wnioski o wpis obciążeń, które figurowały w tych księgach, są wolne od wpisu sądowego.
 
 **Art. 9.** (uchylony)
 
@@ -90,5 +97,10 @@ USTAWA dnia 17 lutego 1960 utracie mocy prawnej
 
 **Art. 11.** Tracą moc:
 
-**Art. 12.** Ustawa wchodzi życie dniem ogłoszenia .
+- **1)** art. 45, 46 i 47 ust. 1 ustawy z dnia 31 lipca 1923 r. o scalaniu gruntów (Dz. U. z 1927 r. poz. 833 z późniejszymi zmianami);
+- **2)** art. 16 dekretu z dnia 16 sierpnia 1949 r. o wymianie gruntów (Dz. U. poz. 367);
+- **3)** ustawa z dnia 17 marca 1932 r. o postępowaniu uproszczonym przy regulowaniu stanu hipotecznego gruntów w związku ze scaleniem (Dz. U. poz. 392);
+- **4)** ustawa z dnia 21 marca 1931 r. o dowodach prawa własności do gruntów scalonych (Dz. U. poz. 340 z późniejszymi zmianami).
+
+**Art. 12.** Ustawa wchodzi w życie z dniem ogłoszenia.
 

@@ -8,12 +8,10 @@ pos: 1494
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych
-
-*USTAWA z dnia 25 września 2024 r.*
+# Ustawa z dnia 25 września 2024 r. o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2024-09-25 |
 | Data wydania | 2024-10-08 |
+| Wejście w życie | 2024-10-08 |
 | Ostatnia zmiana | 2024-10-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001494) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1494/text.pdf) |
 
@@ -53,7 +52,7 @@ source: "isap-pdf"
 
 3. Osobom niepełnosprawnym, o których mowa w ust. 1 i 2, przewodniczący powiatowego zespołu do spraw orzekania o niepełnosprawności wydaje zaświadczenie określające nowy termin ważności dotychczasowego orzeczenia o niepełnosprawności, uwzględniając przepisy art. 6bb ust. 1 ustawy zmienianej w art. 1.
 
-**Art. 5.** W decyzjach, o których mowa w art. 6b ust. 1 ustawy zmienianej w art. 1, wydanych w wyniku rozpatrzenia wniosków złożonych w okresie od dnia 1 stycznia 2025 r. do dnia 31 grudnia 2025 r., poziom potrzeby wsparcia, o którym mowa w art. 4b ust. 3 ustawy zmienianej w art. 1, ustala się od dnia złożenia wniosku.
+**Art. 5.** W decyzjach, o których mowa w art. 6b3 ust. 1 ustawy zmienianej w art. 1, wydanych w wyniku rozpatrzenia wniosków złożonych w okresie od dnia 1 stycznia 2025 r. do dnia 31 grudnia 2025 r., poziom potrzeby wsparcia, o którym mowa w art. 4b ust. 3 ustawy zmienianej w art. 1, ustala się od dnia złożenia wniosku.
 
 **Art. 6.** Ustawa wchodzi w życie z dniem ogłoszenia, z wyjątkiem art. 1 i art. 4, które wchodzą w życie z dniem ogłoszenia, z mocą od dnia 30 września 2024 r.
 

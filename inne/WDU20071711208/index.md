@@ -22,10 +22,53 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2007-08-23 |
 | Data wydania | 2007-09-20 |
+| Wejście w życie | 2007-10-05 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071711208) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1208/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 29 lipca 2005 r. o sporcie kwalifikowanym (Dz. U. Nr 155, poz. 1298, z 2006 r. Nr 64, poz. 448 i Nr 136, poz. 970 oraz z 2007 r. Nr 34, poz. 206) wprowadza się następujące zmiany:
+
+- **1)** w art. 2: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. Jednostki samorządu terytorialnego mogą wspierać, w tym finansowo, rozwój sportu kwalifikowanego, z zastrzeżeniem ust. 3. ” , dodaje się ust. 3 w brzmieniu: „
+
+- **b)**
+
+3. Organ stanowiący jednostki samorządu terytorialnego, w drodze uchwały, określi warunki i tryb wspierania, w tym finansowego, rozwoju sportu kwalifikowanego. ” ;
+
+- **2)** w art. 6: w ust. 2 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** odpis statutu lub umowy spółki – w przypadku klubu sportowego działającego jako osoba prawna; ” , uchyla się ust. 6;
+    - **b)**
+
+- **3)** w art. 8: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. Do wniosku, o którym mowa w ust. 1, należy dołączyć:
+
+- **1)** projekt statutu polskiego związku sportowego;
+- **2)** wyciąg z Krajowego Rejestru Sądowego albo z innego rejestru, albo z ewidencji właściwych dla formy organizacyjnej danego założyciela;
+- **3)** protokół zebrania założycielskiego, podpisany przez wszystkich założycieli;
+- **4)** wykaz klubów sportowych, wraz z adresami, prowadzących działalność w danej dyscyplinie sportu;
+- **5)** szczegółowy opis dyscypliny sportu;
+- **6)** informację o prowadzonych rozgrywkach lub systemie współzawodnictwa sportowego w danej dyscyplinie sportu;
+- **7)** informację o międzynarodowej organizacji danej dyscypliny sportu, systemie międzynarodowego współzawodnictwa sportowego oraz działających w tej dyscyplinie sportu międzynarodowych organizacjach sportowych;
+- **8)** zaświadczenie potwierdzające przynależność związku sportowego do międzynarodowej organizacji sportowej właściwej dla danej dyscypliny sportu, zrzeszającej krajowe organizacje sportowe co najmniej z 40 państw i co najmniej z 3 kontynentów, albo pisemne przyrzeczenie takiej międzynarodowej organizacji sportowej uzyskania przynależności do niej po utworzeniu polskiego związku sportowego;
+- **9)** informację o warunkach organizacyjnych i materialnych umożliwiających wykonywanie zadań polskiego związku sportowego. ” , ust. 3 otrzymuje brzmienie: „
+    - **b)**
+
+3. Minister właściwy do spraw kultury fizycznej i sportu odmawia wyrażenia zgody na utworzenie polskiego związku sportowego, gdy w danej dyscyplinie sportu działa już polski związek sportowy lub gdy wnioskodawca nie przedłoży dokumentów lub nie wykaże spełnienia warunków, o których mowa w ust. 2, albo gdy dana dyscyplina sportu nie znajduje się w wykazie, o którym mowa w art. 10. ” ;
+
+- **4)** w art. 12 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Do zadań polskiego związku sportowego należy: ” ;
+- **5)** w art. 13: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Polski związek sportowy może powołać spółkę kapitałową prawa handlowego do zarządzania sprawami związku dotyczącymi gospodarczego wykorzystania dóbr materialnych i niematerialnych przysługujących związkowi, na zasadach określonych w umowie zawartej między związkiem a spółką. ” , uchyla się ust. 4;
+
+- **b)**
+- **6)** art. 23 otrzymuje brzmienie: „
 
 **Art. 23.**
 
@@ -95,9 +138,16 @@ source: "eli-html"
 
 **Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. Nr 54, poz. 654, z późn. zm.) w art. 17 w ust. 1 pkt 5a otrzymuje brzmienie: „
 
+- **5a)** dochody klubów sportowych, o których mowa w ustawie z dnia 18 stycznia 1996 r. o kulturze fizycznej (Dz. U. z 2001 r. Nr 81, poz. 889, z późn. zm.), przeznaczone i wydatkowane w roku podatkowym lub w roku po nim następującym na szkolenie i współzawodnictwo sportowe dzieci i młodzieży w kategoriach wiekowych młodzików, juniorów młodszych, juniorów i młodzieżowców do 23 roku życia, w części niezaliczonej do kosztów uzyskania przychodów, ” .
+
 **Art. 3.** W ustawie z dnia 18 stycznia 1996 r. o kulturze fizycznej (Dz. U. z 2001 r. Nr 81, poz. 889, z późn. zm.) wprowadza się następujące zmiany:
 
+- **1)** uchyla się art. 10a;
+- **2)** art. 18b otrzymuje brzmienie: „
+
 **Art. 18b.** Zadania rady sportu na szczeblu wojewódzkim wykonuje wojewódzkie interdyscyplinarne stowarzyszenie będące członkiem Polskiej Federacji Sportu Młodzieżowego. ” ;
+
+- **3)** art. 53a otrzymuje brzmienie: „
 
 **Art. 53a.**
 
@@ -143,6 +193,12 @@ source: "eli-html"
 - **5)** wysokość opłat za przeprowadzenie egzaminu, o którym mowa w ust. 6, oraz za czynności związane z wydaniem dokumentu, o którym mowa w ust. 3, biorąc pod uwagę zakres uprawnień uzyskiwanych po zdaniu egzaminu, koszty poniesione przez właściwy polski związek sportowy oraz przepisy ust. 8. ” .
 
 **Art. 4.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. Nr 210, poz. 2135, z późn. zm.) w art. 27 wprowadza się następujące zmiany:
+
+- **1)** w ust. 1 pkt 8 otrzymuje brzmienie: „
+- **8)** wykonywanie badań z zakresu medycyny sportowej obejmujących dzieci i młodzież do ukończenia 21. roku życia uprawiających sport amatorski oraz zawodników pomiędzy 21. a 23. rokiem życia. ” ;
+- **2)** ust. 4 otrzymuje brzmienie: „
+
+4. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw kultury fizycznej i sportu, po zasięgnięciu opinii Prezesa Funduszu i Naczelnej Rady Lekarskiej, określi, w drodze rozporządzenia, zakres koniecznych badań lekarskich, częstotliwość ich przeprowadzania oraz tryb orzekania o zdolności do uprawiania określonej dyscypliny sportu przez dzieci i młodzież do ukończenia 21. roku życia oraz przez zawodników pomiędzy 21. a 23. rokiem życia, uwzględniając potrzebę szczególnej ochrony zdrowia dzieci i młodzieży. ” .
 
 **Art. 5.** Komisja do Zwalczania Dopingu w Sporcie, powołana na podstawie art. 51 ust. 2 ustawy wymienionej w art. 1, staje się Komisją w rozumieniu art. 51 tej ustawy, w brzmieniu nadanym niniejszą ustawą.
 

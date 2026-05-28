@@ -8,12 +8,10 @@ pos: 2223
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o szczególnych rozwiązaniach związanych z organizacją w Rzeczypospolitej Polskiej sesji Konferencji Stron Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu
-
-*USTAWA z dnia 10 stycznia 2018 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 21 listopada 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych rozwiązaniach związanych z organizacją w Rzeczypospolitej Polskiej sesji Konferencji Stron Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu
 
 | Pole | Wartość |
 |---|---|
@@ -27,31 +25,74 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002223) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2223/text.pdf) |
 
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 10 stycznia 2018 r. o szczególnych rozwiązaniach związanych z organizacją w Rzeczypospolitej Polskiej sesji Konferencji Stron Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu Rozdział 1 – Przepisy ogólne Rozdział 2 – Zadania Zespołu do spraw organizacji Konferencji COP24 Rozdział 3 – Zadania w zakresie organizacji Konferencji COP24 oraz pełnienia przez Rzeczpospolitą Polską funkcji Prezydencji Konferencji Stron Rozdział 4 – Zasady udzielania i realizacji zamówień związanych z organizacją Konferencji COP24 oraz pełnieniem przez Rzeczpospolitą Polską funkcji Prezydencji Konferencji Stron Rozdział 5 – Zasady finansowania organizacji Konferencji COP24 oraz innych działań związanych z realizacją celów Konwencji klimatycznej Rozdział 6 – Przepisy dostosowujące, przejściowe i końcowe
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 10 stycznia 2018 r. o szczególnych rozwiązaniach związanych z organizacją w Rzeczypospolitej Polskiej sesji Konferencji Stron Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu (Dz. U. poz. 319), z uwzględnieniem zmian wprowadzonych:
+1)
+ustawą z dnia 5 lipca 2018 r. o zmianie ustawy o zwalczaniu nieuczciwej konkurencji oraz niektórych innych ustaw (Dz. U. poz. 1637),
+2)
+ustawą z dnia 20 lipca 2018 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z organizacją w Rzeczypospolitej Polskiej sesji Konferencji Stron Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu (Dz. U. poz. 1495)
+oraz zmian wynikających z przepisów ogłoszonych przed dniem 20 listopada 2018 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+1)
+odnośnika nr 1 oraz art. 15 ust. 1 i art. 16 ustawy z dnia 5 lipca 2018 r. o zmianie ustawy o zwalczaniu nieuczciwej konkurencji oraz niektórych innych ustaw (Dz. U. poz. 1637), które stanowią: „ 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/943 z dnia 8 czerwca 2016 r. w sprawie ochrony niejawnego know-how i niejawnych informacji handlowych (tajemnic przedsiębiorstwa) przed ich bezprawnym pozyskiwaniem, wykorzystywaniem i ujawnianiem (Dz. Urz. UE L 157 z 15.06.2016, str. 1). ”
+Zespół do spraw organizacji Konferencji COP24, zwany dalej „Zespołem”, wykonuje następujące zadania związane z organizacją Konferencji COP24:
+1)
+koordynuje działania organów administracji publicznej związane z organizacją Konferencji COP24;
+2)
+monitoruje postęp przygotowań organizacji Konferencji COP24 oraz dokonuje okresowej oceny stanu tych przygotowań;
+3)
+nadzoruje realizację zadań związanych z organizacją Konferencji COP24.
+
+**Art. 15.** „1. Przepisy ustaw zmienianych w art. 1 i art. 3–14 w brzmieniu nadanym niniejszą ustawą stosuje się do oceny stanów faktycznych, zaistniałych po jej wejściu w życie. ” „
+
+**Art. 16.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia. ” ;
+
+- **2)** art. 2 i art. 3 ustawy z dnia 20 lipca 2018 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z organizacją w Rzeczypospolitej Polskiej sesji Konferencji Stron Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu (Dz. U. poz. 1495), które stanowią: „
+
+**Art. 2.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 30 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 30 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 3 miesiące od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 10 stycznia 2018 r. o szczególnych rozwiązaniach związanych z organizacją w Rzeczypospolitej Polskiej sesji Konferencji Stron Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu
+
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
 
-**Art. 2.** Ilekroć w ustawie jest mowa o:
+- **1)** zadania organów administracji publicznej oraz służb związane z organizacją Konferencji COP24, w szczególności w zakresie zapewnienia bezpieczeństwa i porządku publicznego, oraz pełnieniem przez Rzeczpospolitą Polską funkcji Prezydencji Konferencji Stron;
+- **2)** zasady udzielania i realizacji zamówień związanych z organizacją Konferencji COP24 oraz pełnieniem przez Rzeczpospolitą Polską funkcji Prezydencji Konferencji Stron;
+- **3)** zadania Zespołu do spraw organizacji Konferencji COP24 oraz Pełnomocnika Rządu do spraw Prezydencji Konferencji Stron;
+- **4)** zasady finansowania organizacji Konferencji COP24 oraz wykonywania zadań związanych z pełnieniem przez Rzeczpospolitą Polską funkcji Prezydencji Konferencji Stron;
+- **5)** sposób finansowania wsparcia udzielanego państwom rozwijającym się w zakresie łagodzenia zmian klimatu i adaptacji do skutków tych zmian wykonywanego w ramach realizacji celów Konwencji klimatycznej. Ilekroć w ustawie jest mowa o:
+- **1)** Konferencji COP24 – rozumie się przez to dwudziestą czwartą sesję Konferencji Stron Konwencji klimatycznej (UNFCCC COP24), czternastą sesję Konferencji Stron służącą jako spotkanie Stron Protokołu z Kioto (CMP14) oraz wznowioną pierwszą sesję Konferencji Stron służącą jako spotkanie Stron Porozumienia paryskiego (CMA1.3);
+- **2)** Konwencji klimatycznej – rozumie się przez to Ramową konwencję Narodów Zjednoczonych w sprawie zmian klimatu, sporządzoną w Nowym Jorku dnia 9 maja 1992 r. (Dz. U. z 1996 r. poz. 238);
+- **3)** Porozumieniu paryskim – rozumie się przez to Porozumienie paryskie do Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu, sporządzonej w Nowym Jorku dnia 9 maja 1992 r., przyjęte w Paryżu dnia 12 grudnia 2015 r. (Dz. U. z 2017 r. poz. 36);
+- **4)** Prezydencji Konferencji Stron – rozumie się przez to Prezydencję Konferencji Stron Konwencji klimatycznej, Prezydencję Konferencji Stron służącej jako spotkanie Stron Protokołu z Kioto oraz Prezydencję Konferencji Stron służącej jako spotkanie Stron Porozumienia paryskiego;
+- **5)** Protokole z Kioto – rozumie się przez to Protokół z Kioto do Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu, sporządzony w Kioto dnia 11 grudnia 1997 r. (Dz. U. z 2005 r. poz. 1684);
+- **6)** Sekretariacie – rozumie się przez to Sekretariat Konwencji klimatycznej, Protokołu z Kioto i Porozumienia paryskiego;
+- **7)** związku metropolitalnym – rozumie się przez to związek metropolitalny w województwie śląskim, o którym mowa w ustawie z dnia 9 marca 2017 r. o związku metropolitalnym w województwie śląskim (Dz. U. poz. 730).
 
 #### Rozdział 2 Zadania Zespołu do spraw organizacji Konferencji COP24
-
-**Art. 3.** Zespół do spraw organizacji Konferencji COP24, zwany dalej „Zespołem”, wykonuje następujące zadania związane z organizacją Konferencji COP24:
 
 **Art. 4.**
 
 1. W skład Zespołu wchodzą:
 
 - **1)** Przewodniczący Zespołu – minister właściwy do spraw środowiska albo wyznaczony przez niego przedstawiciel w randze sekretarza stanu albo podsekretarza stanu;
-- **2)** pozostali członkowie Zespołu:
-    - **a)** minister właściwy do spraw wewnętrznych albo wyznaczony przez niego przedstawiciel w randze sekretarza stanu albo podsekretarza stanu, aa) Pełnomocnik Rządu do spraw Prezydencji Konferencji Stron,
-    - **b)** minister właściwy do spraw zagranicznych albo wyznaczony przez niego przedstawiciel w randze sekretarza stanu albo podsekretarza stanu,
-    - **c)** Komendant Główny Policji albo wyznaczony przez niego Zastępca Komendanta Głównego Policji,
-    - **d)** Komendant Główny Państwowej Straży Pożarnej albo wyznaczony przez niego Zastępca Komendanta Głównego Państwowej Straży Pożarnej,
-    - **e)** Komendant Główny Straży Granicznej albo wyznaczony przez niego Zastępca Komendanta Głównego Straży Granicznej,
-    - **f)** Szef Agencji Bezpieczeństwa Wewnętrznego albo wyznaczony przez niego Zastępca Szefa Agencji Bezpieczeństwa Wewnętrznego,
-    - **g)** Wojewoda Śląski albo wyznaczony przez niego Wicewojewoda Śląski, ga) Marszałek Województwa Śląskiego albo wyznaczony przez niego Wicemarszałek Województwa Śląskiego albo członek Zarządu Województwa Śląskiego,
-    - **h)** Prezydent Miasta Katowice albo wyznaczony przez niego Wiceprezydent Miasta Katowice,
-    - **i)** członek zarządu związku metropolitalnego.
+- **2)** pozostali członkowie Zespołu: minister właściwy do spraw wewnętrznych albo wyznaczony przez niego przedstawiciel w randze sekretarza stanu albo podsekretarza stanu, Pełnomocnik Rządu do spraw Prezydencji Konferencji Stron, minister właściwy do spraw zagranicznych albo wyznaczony przez niego przedstawiciel w randze sekretarza stanu albo podsekretarza stanu, Komendant Główny Policji albo wyznaczony przez niego Zastępca Komendanta Głównego Policji, Komendant Główny Państwowej Straży Pożarnej albo wyznaczony przez niego Zastępca Komendanta Głównego Państwowej Straży Pożarnej, Komendant Główny Straży Granicznej albo wyznaczony przez niego Zastępca Komendanta Głównego Straży Granicznej, Szef Agencji Bezpieczeństwa Wewnętrznego albo wyznaczony przez niego Zastępca Szefa Agencji Bezpieczeństwa Wewnętrznego, Wojewoda Śląski albo wyznaczony przez niego Wicewojewoda Śląski, Prezydent Miasta Katowice albo wyznaczony przez niego Wiceprezydent Miasta Katowice, członek zarządu związku metropolitalnego.
+    - **a)**
+    - **aa)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **ga)** Marszałek Województwa Śląskiego albo wyznaczony przez niego Wicemarszałek Województwa Śląskiego albo członek Zarządu Województwa Śląskiego,
+    - **h)**
+    - **i)**
 
 2. Przewodniczący Zespołu może zapraszać do udziału w pracach Zespołu, na prawach członka, przedstawicieli innych organów administracji publicznej lub służb zaangażowanych w organizację Konferencji COP24.
 
@@ -76,9 +117,9 @@ source: "isap-pdf"
 - **5b)** zapewnia wsparcie finansowe dla działalności Specjalnego Wysłannika Ministra Spraw Zagranicznych do spraw Klimatu, nie dłużej jednak niż do dnia 31 grudnia 2019 r.;
 - **6)** zapewnia wsparcie organizacyjne oraz finansowe dla działalności Championa do spraw Działań Klimatycznych, o którym mowa w przepisach wydanych przez Konferencję Stron Konwencji klimatycznej, nie dłużej jednak niż do dnia 31 grudnia 2019 r.;
 - **7)** inicjuje, nadzoruje i organizuje działania informacyjne i promocyjne wraz z zapewnieniem obsługi medialnej w zakresie pełnienia przez Rzeczpospolitą Polską funkcji Prezydencji Konferencji Stron;
-- **8)** dokonuje w imieniu Rzeczypospolitej Polskiej wpłat na rzecz:
-    - **a)** organizacji międzynarodowych, instytucji, programów i funduszy wspierających realizację celów Prezydencji Konferencji Stron,
-    - **b)** Sekretariatu z tytułu organizacji Konferencji COP24 w Rzeczypospolitej Polskiej;
+- **8)** dokonuje w imieniu Rzeczypospolitej Polskiej wpłat na rzecz: organizacji międzynarodowych, instytucji, programów i funduszy wspierających realizację celów Prezydencji Konferencji Stron, Sekretariatu z tytułu organizacji Konferencji COP24 w Rzeczypospolitej Polskiej;
+    - **a)**
+    - **b)**
 
 - **9)** udziela wsparcia finansowego państwom niewymienionym w załączniku I do Konwencji klimatycznej w ramach współpracy międzynarodowej w zakresie spraw objętych tą konwencją.
 
@@ -90,13 +131,11 @@ source: "isap-pdf"
 
 5. Wykonanie zadań, o których mowa w ust. 1, może być wspierane przez:
 
-- **1)** organy i jednostki organizacyjne:
-    - **a)** podległe ministrowi właściwemu do spraw środowiska lub przez niego nadzorowane, a także utworzone przez jednostki nadzorowane osoby prawne, nad którymi sprawują one kontrolę w rozumieniu art. 67 ust. 1 pkt 12 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2018 r. poz. 1986),
-    - **b)** nadzorowane przez ministra właściwego do spraw gospodarki wodnej;
+- **1)** organy i jednostki organizacyjne: podległe ministrowi właściwemu do spraw środowiska lub przez niego nadzorowane, a także utworzone przez jednostki nadzorowane osoby prawne, nad którymi sprawują one kontrolę w rozumieniu art. 67 ust. 1 pkt 12 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2018 r. poz. 1986), nadzorowane przez ministra właściwego do spraw gospodarki wodnej;
+    - **a)**
+    - **b)**
 
-- **2)** uczelnie w rozumieniu ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183, z późn. zm. ) .
-
-**Art. 8a.**
+- **2)** uczelnie w rozumieniu ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183, z późn. zm.).
 
 1. Pełnomocnik Rządu do spraw Prezydencji Konferencji Stron, zwany dalej „Pełnomocnikiem”, wykonuje następujące zadania wynikające z pełnienia przez Rzeczpospolitą Polską funkcji Prezydencji Konferencji Stron:
 
@@ -108,8 +147,6 @@ source: "isap-pdf"
 2. Pełnomocnik wykonuje zadania, o których mowa w ust. 1, współdziałając z organami administracji rządowej, które są obowiązane do udzielania pomocy Pełnomocnikowi, w szczególności przez udostępnianie mu informacji i dokumentów niezbędnych do wykonywania zadań Pełnomocnika.
 
 3. Pełnomocnika powołuje i odwołuje Prezes Rady Ministrów.
-
-**Art. 8b.**
 
 1. Specjalny Wysłannik Ministra Spraw Zagranicznych do spraw Klimatu:
 
@@ -170,7 +207,7 @@ source: "isap-pdf"
 
 5. Przez gotowość do udzielania zwiększonej liczby świadczeń opieki zdrowotnej, o której mowa w ust. 2 pkt 1, rozumie się zapewnienie przez podmiot wykonujący działalność leczniczą zwiększonej liczby osób wykonujących zawód medyczny, produktów leczniczych, wyrobów medycznych oraz sprzętu i aparatury medycznej, niezbędnych do realizacji zadań zabezpieczenia medycznego Konferencji COP24.
 
-6. Zawarcie umowy, o której mowa w ust. 3, nie stanowi i nie narusza w zakresie określonym w ust. 2 pkt 1 i 2 wykonywania umowy o udzielanie świadczeń opieki zdrowotnej zawartej zgodnie z przepisami ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm. ) ani zasad finansowania świadczeń opieki zdrowotnej określonych w tej ustawie albo w przepisach odrębnych.
+6. Zawarcie umowy, o której mowa w ust. 3, nie stanowi i nie narusza w zakresie określonym w ust. 2 pkt 1 i 2 wykonywania umowy o udzielanie świadczeń opieki zdrowotnej zawartej zgodnie z przepisami ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm.) ani zasad finansowania świadczeń opieki zdrowotnej określonych w tej ustawie albo w przepisach odrębnych.
 
 **Art. 13.**
 
@@ -185,19 +222,20 @@ source: "isap-pdf"
 - **1)** dokonują wyboru podmiotu wykonującego zadanie zlecone odpowiednio na podstawie ust. 1 albo 2;
 - **2)** sprawują nadzór merytoryczny nad wykonaniem zadania zleconego odpowiednio na podstawie ust. 1 albo 2.
 
-**Art. 14.** Nie pobiera się opłaty konsularnej od przyjęcia i rozpatrzenia wniosku o wydanie wizy krajowej oraz wizy Schengen, składanego w związku z udziałem w Konferencji COP24, gdy zainteresowana osoba przedłoży wraz z tym wnioskiem potwierdzenie rejestracji jej udziału w Konferencji COP24 albo inny dokument potwierdzający udział w Konferencji COP24.
+**Art. 14.** Nie pobiera się opłaty konsularnej od przyjęcia i rozpatrzenia wniosku o wydanie wizy krajowej oraz wizy Schengen, składanego w związku z udziałem w Konferencji COP24, gdy zainteresowana osoba przedłoży wraz z tym wnioskiem potwierdzenie rejestracji jej udziału w Konferencji COP24 albo inny dokument potwierdzający udział w Konferencji COP24. Minister właściwy do spraw wewnętrznych:
 
-**Art. 15.** Minister właściwy do spraw wewnętrznych:
-
-**Art. 16.**
+- **1)** koordynuje działania służb zaangażowanych w organizację Konferencji COP24 w zakresie zapewnienia bezpieczeństwa i porządku publicznego, w szczególności w zakresie realizacji planu, o którym mowa w art. 16 ust. 1;
+- **2)** kieruje, w uzasadnionych przypadkach, do wsparcia Departamentu Bezpieczeństwa Narodów Zjednoczonych siły i środki będące w jego dyspozycji w celu zapewnienia bezpieczeństwa;
+- **3)** współpracuje z Departamentem Bezpieczeństwa Narodów Zjednoczonych i Sekretariatem w sprawach dotyczących bezpieczeństwa podczas Konferencji COP24 oraz wydarzeń poprzedzających Konferencję COP24;
+- **4)** współpracuje z Prezydentem Miasta Katowice w sprawach zapewnienia bezpieczeństwa i porządku publicznego podczas Konferencji COP24.
 
 1. Wojewoda Śląski, po konsultacji ze służbami i instytucjami zaangażowanymi w zapewnienie bezpieczeństwa podczas Konferencji COP24 oraz w porozumieniu ze służbami Departamentu Bezpieczeństwa Narodów Zjednoczonych, opracowuje plan zapewnienia bezpieczeństwa i porządku publicznego podczas Konferencji COP24 i przedkłada go ministrowi właściwemu do spraw wewnętrznych oraz do wiadomości ministrowi właściwemu do spraw środowiska, Komendantowi Głównemu Policji, Komendantowi Głównemu Państwowej Straży Pożarnej, Komendantowi Głównemu Straży Granicznej, Szefowi Agencji Bezpieczeństwa Wewnętrznego oraz Komendantowi Służby Ochrony Państwa, a także, w zakresie objętym właściwością, zarządcy dróg znajdujących się na obszarze objętym tym planem, nie później niż do dnia 1 października 2018 r., z zachowaniem przepisów dotyczących ochrony informacji niejawnych.
 
 2. Plan, o którym mowa w ust. 1, obejmuje co najmniej:
 
-- **1)** graficzny plan obiektu lub terenu, sporządzony odrębnie dla każdego obiektu lub terenu, w którym lub na którym mają się odbyć poszczególne wydarzenia w ramach Konferencji COP24, wraz z ich opisem, zawierający:
-    - **a)** dokładne oznaczenie strefy, która będzie pod bezpośrednim nadzorem lub kontrolą Departamentu Bezpieczeństwa Narodów Zjednoczonych,
-    - **b)** oznaczenie dróg dojazdu i dróg dojścia osób uczestniczących w tych wydarzeniach, dróg ewakuacyjnych oraz dróg dojazdowych dla pojazdów służb ratowniczych, Policji i innych służb odpowiedzialnych za zapewnienie bezpieczeństwa podczas Konferencji COP24;
+- **1)** graficzny plan obiektu lub terenu, sporządzony odrębnie dla każdego obiektu lub terenu, w którym lub na którym mają się odbyć poszczególne wydarzenia w ramach Konferencji COP24, wraz z ich opisem, zawierający: dokładne oznaczenie strefy, która będzie pod bezpośrednim nadzorem lub kontrolą Departamentu Bezpieczeństwa Narodów Zjednoczonych, oznaczenie dróg dojazdu i dróg dojścia osób uczestniczących w tych wydarzeniach, dróg ewakuacyjnych oraz dróg dojazdowych dla pojazdów służb ratowniczych, Policji i innych służb odpowiedzialnych za zapewnienie bezpieczeństwa podczas Konferencji COP24;
+    - **a)**
+    - **b)**
 
 - **2)** instrukcję postępowania w przypadku pożaru lub innego miejscowego zagrożenia w miejscu i w czasie poszczególnych wydarzeń w ramach Konferencji COP24, spełniającą wymagania określone w przepisach wydanych na podstawie art. 6 ust. 5 ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych (Dz. U. z 2018 r. poz. 1870);
 - **3)** instrukcję postępowania w sytuacjach kryzysowych innych niż wymienione w pkt 2;
@@ -216,13 +254,13 @@ source: "isap-pdf"
 - **1)** o osobach stwarzających zagrożenie dla bezpieczeństwa i porządku publicznego, w tym również poza granicami Rzeczypospolitej Polskiej, jeżeli istnieje uzasadnione przypuszczenie, że osoby te będą przebywać na terytorium Rzeczypospolitej Polskiej,
 - **2)** uzyskane lub przetwarzane przez inne organy, służby i instytucje państwowe, w tym również w wyniku wykonywania czynności operacyjno-rozpoznawczych,
 - **3)** uzyskane lub przetwarzane przez organy ścigania innych państw,
-- **4)** o osobach zarejestrowanych jako uczestnicy Konferencji COP24 lub współpracujących przy jej organizacji – także bez wiedzy i zgody osób, których dotyczą te dane, w terminie do dnia 31 stycznia 2019 r.
+- **4)** o osobach zarejestrowanych jako uczestnicy Konferencji COP24 lub współpracujących przy jej organizacji także bez wiedzy i zgody osób, których dotyczą te dane, w terminie do dnia 31 stycznia 2019 r.
 
-2. Do zakresu informacji, o których mowa w ust. 1, stosuje się odpowiednio przepisy art. 20 ust. 2b ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067, z późn. zm. ).
+2. Do zakresu informacji, o których mowa w ust. 1, stosuje się odpowiednio przepisy art. 20 ust. 2b ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067, z późn. zm.).
 
 **Art. 18.**
 
-1. Udostępnienie przez Policję informacji, o których mowa w art. 17 ust. 1, w celu zapewnienia bezpieczeństwa i porządku publicznego podczas Konferencji COP24, a także w celu zapobieżenia popełnianiu przestępstw i wykroczeń oraz wykrywania i ścigania ich sprawców, organom, służbom i instytucjom państwowym, w tym również odpowiednio zagranicznym i międzynarodowym, odbywa się na zasadach określonych w przepisach ustawy z dnia 6 kwietnia 1990 r. o Policji, ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2016 r. poz. 922 oraz z 2018 r. poz. 138 i 723) , ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2018 r. poz. 412, 650, 1000, 1083 i 1669), a także w umowach międzynarodowych, których Rzeczpospolita Polska jest stroną.
+1. Udostępnienie przez Policję informacji, o których mowa w art. 17 ust. 1, w celu zapewnienia bezpieczeństwa i porządku publicznego podczas Konferencji COP24, a także w celu zapobieżenia popełnianiu przestępstw i wykroczeń oraz wykrywania i ścigania ich sprawców, organom, służbom i instytucjom państwowym, w tym również odpowiednio zagranicznym i międzynarodowym, odbywa się na zasadach określonych w przepisach ustawy z dnia 6 kwietnia 1990 r. o Policji, ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2016 r. poz. 922 oraz z 2018 r. poz. 138 i 723), ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2018 r. poz. 412, 650, 1000, 1083 i 1669), a także w umowach międzynarodowych, których Rzeczpospolita Polska jest stroną.
 
 2. Policja udostępnia informacje, o których mowa w art. 17 ust. 1 pkt 2, po uzyskaniu zgody organu, służby lub instytucji, które te informacje uzyskały lub przetwarzały. Zgody udziela się, gdy udostępnienie tych informacji nie utrudni lub nie uniemożliwi realizacji zadań tego organu, służby lub instytucji.
 
@@ -241,7 +279,7 @@ source: "isap-pdf"
 
 **Art. 21.** Policja, w celu realizacji zadań, o których mowa w art. 17 ust. 1, na wniosek upoważnionego przedstawiciela Departamentu Bezpieczeństwa Narodów Zjednoczonych, może dokonywać sprawdzenia osoby współpracującej przy organizacji Konferencji COP24 w zakresie możliwości stwarzania przez tę osobę zagrożenia dla bezpieczeństwa i porządku publicznego podczas Konferencji COP24, z tym że sprawdzenia tej osoby w zakresie stwarzania przez nią zagrożenia o charakterze terrorystycznym dokonuje, na żądanie Policji, Agencja Bezpieczeństwa Wewnętrznego.
 
-**Art. 22.** Zabrania się od godz. 00 dnia 26 listopada 2018 r. do godz. 23 dnia 16 grudnia 2018 r. na terenie miasta Katowice uczestniczenia w zgromadzeniach spontanicznych, o których mowa w art. 3 ust. 2 ustawy z dnia 24 lipca 2015 r. – Prawo o zgromadzeniach (Dz. U. z 2018 r. poz. 408 i 1000).
+**Art. 22.** Zabrania się od godz. 0000 dnia 26 listopada 2018 r. do godz. 2359 dnia 16 grudnia 2018 r. na terenie miasta Katowice uczestniczenia w zgromadzeniach spontanicznych, o których mowa w art. 3 ust. 2 ustawy z dnia 24 lipca 2015 r. – Prawo o zgromadzeniach (Dz. U. z 2018 r. poz. 408 i 1000).
 
 **Art. 23.**
 
@@ -345,7 +383,7 @@ source: "isap-pdf"
 - **2)** pochodzących z fundacji lub z przedsięwzięć organizowanych na rzecz ochrony środowiska i gospodarki wodnej;
 - **3)** pochodzących z budżetu Unii Europejskiej oraz ze źródeł zagranicznych niepodlegających zwrotowi.
 
-4. Przekazanie środków, o których mowa w ust. 1, odbywa się w formie dotacji, o której mowa w art. 411 ust. 1 pkt 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2018 r. poz. 799, z późn. zm. ).
+4. Przekazanie środków, o których mowa w ust. 1, odbywa się w formie dotacji, o której mowa w art. 411 ust. 1 pkt 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2018 r. poz. 799, z późn. zm.).
 
 5. Środki, o których mowa w ust. 1, są przekazywane na podstawie umowy zawartej przez NFOŚiGW z:
 
@@ -353,11 +391,10 @@ source: "isap-pdf"
 - **2)** Instytutem Ochrony Środowiska – na sporządzanie analiz, ocen i opinii, o których mowa w art. 8 ust. 4, oraz udział w spotkaniach, o których mowa w art. 8 ust. 1 pkt 4,
 - **3)** organami, jednostkami i uczelniami, o których mowa w art. 8 ust. 5 – na udzielanie wsparcia, o którym mowa w tym przepisie,
 - **4)** Wojewodą Śląskim – na wykonywanie zadań, o których mowa w art. 12 ust. 1,
-- **5)** ministrem właściwym do spraw wewnętrznych – na wykonanie zadań, o których mowa w art. 15, oraz wypłacenie ekwiwalentu, o którym mowa w art. 29b ust. 1, 5a) Ministrem Obrony Narodowej – na wypłatę ekwiwalentu dla żołnierzy Żandarmerii Wojskowej, o którym mowa w art. 29b ust. 1,
+- **5)** ministrem właściwym do spraw wewnętrznych – na wykonanie zadań, o których mowa w art. 15, oraz wypłacenie ekwiwalentu, o którym mowa w art. 29b ust. 1,
+- **5a)** Ministrem Obrony Narodowej – na wypłatę ekwiwalentu dla żołnierzy Żandarmerii Wojskowej, o którym mowa w art. 29b ust. 1,
 - **6)** Prezydentem Miasta Katowice – na wykonywanie zadań, o których mowa w art. 23,
-- **7)** organizacjami pozarządowymi na wykonywanie zadań, o których mowa w art. 8 ust. 1 pkt 5 i 7 oraz art. 9 ust. 1 pkt 1, 2 i 6, oraz z ministrem właściwym do spraw środowiska jako zlecającym wykonanie tych zadań na podstawie art. 13 ust. 1 – na wyodrębniony rachunek bankowy, otwarty dla wykonania i rozliczenia tych zadań albo ich części lub rozliczenia ekwiwalentu, o którym mowa w art. 29b ust.
-
-1.
+- **7)** organizacjami pozarządowymi na wykonywanie zadań, o których mowa w art. 8 ust. 1 pkt 5 i 7 oraz art. 9 ust. 1 pkt 1, 2 i 6, oraz z ministrem właściwym do spraw środowiska jako zlecającym wykonanie tych zadań na podstawie art. 13 ust. 1 na wyodrębniony rachunek bankowy, otwarty dla wykonania i rozliczenia tych zadań albo ich części lub rozliczenia ekwiwalentu, o którym mowa w art. 29b ust. 1.
 
 6. Środki, o których mowa w ust. 3, są przekazywane na rachunek bankowy, o którym mowa w ust. 5.
 
@@ -371,11 +408,7 @@ source: "isap-pdf"
 
 11. Środki, o których mowa w ust. 10, są przekazywane na wyodrębniony rachunek bankowy, otwarty dla wykonania i rozliczenia tych zadań albo ich części.
 
-12. Przekazanie środków, o których mowa w ust. 10, odbywa się w formie dotacji, o której mowa w art. 411 ust. 1 pkt 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
-
-**Art. 29a.** Dochody osiągnięte w związku z organizacją Konferencji COP24 mogą zostać zaliczone na poczet kosztów związanych z organizacją Konferencji COP24.
-
-**Art. 29b.**
+12. Przekazanie środków, o których mowa w ust. 10, odbywa się w formie dotacji, o której mowa w art. 411 ust. 1 pkt 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska. Dochody osiągnięte w związku z organizacją Konferencji COP24 mogą zostać zaliczone na poczet kosztów związanych z organizacją Konferencji COP24.
 
 1. Funkcjonariuszom Policji, Państwowej Straży Pożarnej, Służby Ochrony Państwa, Straży Granicznej oraz żołnierzom Żandarmerii Wojskowej, w tym pełniącym służbę na przejściach granicznych, którzy w okresie od dnia 30 listopada 2018 r. do dnia 15 grudnia 2018 r., ze względu na realizację zadań bezpośrednio związanych z zapewnieniem bezpieczeństwa podczas Konferencji COP24, pełnili służbę w czasie przekraczającym ustawowo określoną normę czasu służby, przysługuje w zamian za ten czas zryczałtowany ekwiwalent pieniężny, zwany dalej „ekwiwalentem”.
 
@@ -388,7 +421,7 @@ source: "isap-pdf"
 - **1)** Policji nie stosuje się przepisu art. 33 ust. 3 ustawy z dnia 6 kwietnia 1990 r. o Policji;
 - **2)** Państwowej Straży Pożarnej nie stosuje się przepisów art. 10 ust. 1 pkt 12, art. 12 ust. 5 pkt 8, art. 13 ust. 6 pkt 17 i art. 35 ust. 10 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2018 r. poz. 1313, 1592 i 1669);
 - **3)** Służby Ochrony Państwa nie stosuje się przepisu art. 81 ust. 4 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650, 730, 1544, 1562 i 1669);
-- **4)** Straży Granicznej nie stosuje się przepisu art. 37 ust. 3 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2017 r. poz. 2365, z późn. zm. );
+- **4)** Straży Granicznej nie stosuje się przepisu art. 37 ust. 3 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2017 r. poz. 2365, z późn. zm.);
 - **5)** Żandarmerii Wojskowej nie stosuje się przepisu art. 60 ust. 2 ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2018 r. poz. 173 i 138).
 
 5. Stawkę godzinową ekwiwalentu za każdą rozpoczętą godzinę służby, o której mowa w ust. 1, ustala się w wysokości 1/172 przeciętnego uposażenia odpowiednio funkcjonariuszy Policji, Państwowej Straży Pożarnej, Służby Ochrony Państwa, Straży Granicznej oraz żołnierzy Żandarmerii Wojskowej, określonego według przepisów odrębnych dotyczących tych funkcjonariuszy albo żołnierzy jako wielokrotność kwoty bazowej.
@@ -396,6 +429,9 @@ source: "isap-pdf"
 6. Ekwiwalent przysługuje funkcjonariuszowi albo żołnierzowi Żandarmerii Wojskowej niezależnie od zajmowanego stanowiska służbowego, w tym również delegowanemu do pełnienia służby w innych instytucjach na podstawie odrębnych przepisów, w wymiarze odpowiadającym okresowi pełnienia służby przy realizacji zadań, o których mowa w ust. 1.
 
 **Art. 30.** Rada Ministrów określi, w drodze rozporządzenia, podział środków, o których mowa w art. 29 ust. 1, między podmioty:
+
+- **1)** wykonujące w całości lub w części zadania określone w art. 29 ust. 2,
+- **2)** wypłacające ekwiwalent kierując się potrzebą zapewnienia finansowania wykonywanych zadań w sposób umożliwiający ich prawidłowe wykonanie oraz racjonalnością wydatków.
 
 **Art. 31.**
 
@@ -405,19 +441,13 @@ source: "isap-pdf"
 
 **Art. 32.**
 
-1. NFOŚiGW przeznacza środki na udzielenie państwom rozwijającym się wsparcia w zakresie łagodzenia zmian klimatu i adaptacji do skutków tych zmian wykonywanego w ramach realizacji celów Konwencji klimatycznej, za pośrednictwem Zielonego Funduszu Klimatycznego, Funduszu Adaptacyjnego lub za pośrednictwem innych wielostronnych funduszy rozwojowych, w tym w drodze umów zawieranych z organizacjami powierniczymi tych funduszy, lub w drodze programów pomocy dwustronnej, w łącznej wysokości 30 000 000 zł.
+1. W 2018 r. NFOŚiGW przeznacza środki na udzielenie państwom rozwijającym się wsparcia w zakresie łagodzenia zmian klimatu i adaptacji do skutków tych zmian wykonywanego w ramach realizacji celów Konwencji klimatycznej, za pośrednictwem Zielonego Funduszu Klimatycznego lub Funduszu Adaptacyjnego, lub w drodze programów pomocy dwustronnej, w łącznej wysokości 30 000 000 zł.
 
 2. NFOŚiGW przekazuje środki, o których mowa w ust. 1, ministrowi właściwemu do spraw środowiska w formie dotacji, o której mowa w art. 411 ust. 1 pkt 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 
 3. Środki, o których mowa w ust. 1, są przekazywane na wyodrębniony rachunek bankowy na podstawie umowy zawartej przez NFOŚiGW z ministrem właściwym do spraw środowiska.
 
 4. Środki na rachunku bankowym, o którym mowa w ust. 3, wraz z odsetkami są przeznaczane wyłącznie na udzielenie wsparcia, o którym mowa w ust. 1, a także na pokrycie kosztów obsługi tego rachunku.
-
-5. Wsparcie, o którym mowa w ust. 1, następuje na podstawie umów zawieranych jako umowy międzynarodowe zgodnie z przepisami ustawy z dnia 14 kwietnia 2000 r. o umowach międzynarodowych (Dz. U. poz. 443, z 2002 r. poz. 1824, z 2010 r. poz. 1395 oraz z 2011 r. poz. 676) albo jako umowy prawa prywatnego.
-
-6. Zawarcie umowy prawa prywatnego wymaga uzyskania zgody Rady Ministrów.
-
-7. Umowa prawa prywatnego, w terminie 14 dni od dnia jej zawarcia, jest przekazywana Radzie Ministrów do wiadomości.
 
 **Art. 33.**
 
@@ -429,19 +459,11 @@ source: "isap-pdf"
 
 **Art. 34.** Tworzy się Zespół do spraw organizacji Konferencji COP24.
 
-**Art. 35.** Zespół, o którym mowa w art. 34, znosi się z dniem 31 marca 2019 r.
-
-**Art. 35a.**
-
-1. Ustanawia się Pełnomocnika Rządu do spraw Prezydencji Konferencji Stron.
-
-2. Pełnomocnik Rządu do spraw Prezydencji Konferencji Stron jest sekretarzem stanu w urzędzie obsługującym ministra właściwego do spraw środowiska.
-
-**Art. 35b.** Pełnomocnika, o którym mowa w art. 35a, znosi się z dniem 31 grudnia 2019 r.
+**Art. 35.** Zespół, o którym mowa w art. 34, znosi się z dniem 31 marca 2019 r. 1. Ustanawia się Pełnomocnika Rządu do spraw Prezydencji Konferencji Stron. 2. Pełnomocnik Rządu do spraw Prezydencji Konferencji Stron jest sekretarzem stanu w urzędzie obsługującym ministra właściwego do spraw środowiska. Pełnomocnika, o którym mowa w art. 35a, znosi się z dniem 31 grudnia 2019 r.
 
 **Art. 36.** Do postępowań o udzielenie zamówień realizowanych w związku z organizacją Konferencji COP24 oraz pełnieniem przez Rzeczpospolitą Polską funkcji Prezydencji Konferencji Stron, wszczętych a niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
 **Art. 37.** Ustawa obowiązuje do dnia 31 grudnia 2019 r.
 
-**Art. 38.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+**Art. 38.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

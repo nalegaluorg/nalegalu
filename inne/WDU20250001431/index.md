@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# Prawo lotnicze
-
-*USTAWA z dnia 3 lipca 2002 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 października 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,11 +25,22 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-05-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001431) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1431/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 26 września 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy Prawo lotnicze
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 3 lipca 2002 r. Prawo lotnicze (Dz. U. z 2023 r. poz. 2110), z uwzględnieniem zmian wprowadzonych:
+1) ustawą z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (Dz. U. poz. 731),
+2) ustawą z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U. poz. 1222),
+3) ustawą z dnia 5 grudnia 2024 r. o zmianie ustawy Prawo lotnicze (Dz. U. z 2025 r. poz. 31),
+4) ustawą z dnia 24 stycznia 2025 r. o zmianie ustawy Prawo lotnicze oraz niektórych innych ustaw (Dz. U. poz. 179),
+5) ustawą z dnia 7 marca 2025 r. o zmianie ustawy Prawo lotnicze (Dz. U. poz. 374),
+6) ustawą z dnia 21 maja 2025 r. o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (Dz. U. poz. 769) oraz zmian wynikających z przepisów ogłoszonych przed dniem 26 września 2025 r.
+2. Podany w załączniku do niniejszego obwieszczenia jednolity tekst ustawy nie obejmuje:
+1) art. 84–86 i art. 88 ustawy z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (Dz. U. poz. 731), które stanowią: „Art. 84. Przepisów ustawy nie stosuje się do produktów wprowadzonych do obrotu przed dniem wejścia w życie ustawy.
 Art. 156zd. 1. Osoba użytkująca system bezzałogowego statku powietrznego może zostać poddana sprawdzeniu, czy operacja jest wykonywana zgodnie z przepisami prawa, przez:
 1) funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Straży Granicznej, Służby Ochrony Państwa, Służby Celno-Skarbowej, Służby Więziennej, Straży Marszałkowskiej, inspektorów Biura Nadzoru Wewnętrznego, żołnierzy zawodowych wyznaczonych na stanowiska służbowe w Służbie Kontrwywiadu Wojskowego albo w Służbie Wywiadu Wojskowego, żołnierzy Żandarmerii Wojskowej oraz Sił Zbrojnych Rzeczypospolitej Polskiej, strażników straży gminnych (miejskich) oraz osoby upoważnione przez Prezesa Urzędu,
-2) strażników leśnych – na terenach lasów,
-3) funkcjonariuszy Straży Parku – na terenach parków narodowych,
-4) funkcjonariuszy Państwowej Straży Pożarnej – w przypadku gdy wykonywana operacja może stwarzać zagrożenie dla bezpieczeństwa funkcjonariuszy Państwowej Straży Pożarnej prowadzących działania ratowniczo-gaśnicze lub wykonujących inne obowiązki służbowe – w związku z realizacją zadań ustawowych.
+2) strażników leśnych na terenach lasów,
+3) funkcjonariuszy Straży Parku na terenach parków narodowych,
+4) funkcjonariuszy Państwowej Straży Pożarnej w przypadku gdy wykonywana operacja może stwarzać zagrożenie dla bezpieczeństwa funkcjonariuszy Państwowej Straży Pożarnej prowadzących działania ratowniczo-gaśnicze lub wykonujących inne obowiązki służbowe w związku z realizacją zadań ustawowych.
 2. Osoba użytkująca system bezzałogowego statku powietrznego jest obowiązana wykonywać polecenia wydawane przez osobę dokonującą sprawdzenia, o którym mowa w ust. 1.
 Art. 156ze. 1. Bezzałogowy statek powietrzny może zostać zniszczony albo unieruchomiony albo nad jego lotem może zostać przejęta kontrola, w przypadku gdy:
 1) przebieg operacji lub działanie bezzałogowego statku powietrznego:
@@ -45,13 +54,139 @@ f) utrudnia lub może utrudnić ruch lotniczy lub powoduje lub może spowodować
 a) chronionymi obiektami Sił Zbrojnych Rzeczypospolitej Polskiej oraz jednostek organizacyjnych podległych lub podporządkowanych Ministrowi Obrony Narodowej lub nadzorowanych przez Ministra Obrony Narodowej,
 b) obiektami, urządzeniami lub obszarami istotnymi dla bezpieczeństwa lub obronności państwa, bezpieczeństwa publicznego lub nienaruszalności granicy państwowej.
 2. Do zniszczenia albo unieruchomienia bezzałogowego statku powietrznego albo przejęcia kontroli nad jego lotem, w związku z realizacją zadań ustawowych, w przypadkach, o których mowa w:
-1) ust. 1 pkt 1 lit. a, b oraz d−f – są uprawnieni funkcjonariusze Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Straży Granicznej, Służby Ochrony Państwa, Służby Celno-Skarbowej, Służby Więziennej, Straży Marszałkowskiej, inspektorzy Biura Nadzoru Wewnętrznego, żołnierze zawodowi wyznaczeni na stanowiska służbowe w Służbie Kontrwywiadu Wojskowego albo Służbie Wywiadu Wojskowego, żołnierze Żandarmerii Wojskowej i Sił Zbrojnych Rzeczypospolitej Polskiej, pracownicy służby ochrony lotniska, strażnicy leśni, pracownicy ochrony specjalistycznych uzbrojonych formacji ochronnych, a także pracownicy wewnętrznych służb ochrony działających na terenach jednostek organizacyjnych podległych lub podporządkowanych Ministrowi Obrony Narodowej lub nadzorowanych przez Ministra Obrony Narodowej,
-2) ust. 1 pkt 1 lit. c – są uprawnieni funkcjonariusze Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Straży Granicznej, Służby Ochrony Państwa, żołnierze zawodowi wyznaczeni na stanowiska służbowe w Służbie Kontrwywiadu Wojskowego albo Służbie Wywiadu Wojskowego, żołnierze Żandarmerii Wojskowej, pracownicy ochrony specjalistycznych uzbrojonych formacji ochronnych, a także pracownicy wewnętrznych służb ochrony działających na terenach jednostek organizacyjnych podległych lub podporządkowanych Ministrowi Obrony Narodowej lub nadzorowanych przez Ministra Obrony Narodowej,
-3) ust. 1 pkt 2 lit. a – są uprawnieni żołnierze Sił Zbrojnych Rzeczypospolitej Polskiej oraz żołnierze Żandarmerii Wojskowej,
-4) ust. 1 pkt 2 lit. b – są uprawnieni żołnierze Sił Zbrojnych Rzeczypospolitej Polskiej, żołnierze Żandarmerii Wojskowej, żołnierze zawodowi wyznaczeni na stanowiska służbowe w Służbie Kontrwywiadu Wojskowego albo Służbie Wywiadu Wojskowego, funkcjonariusze Policji, Straży Granicznej, Służby Więziennej, Służby Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura Antykorupcyjnego, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Straży Marszałkowskiej, pracownicy ochrony specjalistycznych uzbrojonych formacji ochronnych, a także pracownicy wewnętrznych służb ochrony działających na terenach jednostek organizacyjnych podległych lub podporządkowanych Ministrowi Obrony Narodowej lub nadzorowanych przez Ministra Obrony Narodowej – na zasadach określonych w ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
+1) ust. 1 pkt 1 lit. a, b oraz d−f są uprawnieni funkcjonariusze Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Straży Granicznej, Służby Ochrony Państwa, Służby Celno-Skarbowej, Służby Więziennej, Straży Marszałkowskiej, inspektorzy Biura Nadzoru Wewnętrznego, żołnierze zawodowi wyznaczeni na stanowiska służbowe w Służbie Kontrwywiadu Wojskowego albo Służbie Wywiadu Wojskowego, żołnierze Żandarmerii Wojskowej i Sił Zbrojnych Rzeczypospolitej Polskiej, pracownicy służby ochrony lotniska, strażnicy leśni, pracownicy ochrony specjalistycznych uzbrojonych formacji ochronnych, a także pracownicy wewnętrznych służb ochrony działających na terenach jednostek organizacyjnych podległych lub podporządkowanych Ministrowi Obrony Narodowej lub nadzorowanych przez Ministra Obrony Narodowej,
+2) ust. 1 pkt 1 lit. c są uprawnieni funkcjonariusze Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Straży Granicznej, Służby Ochrony Państwa, żołnierze zawodowi wyznaczeni na stanowiska służbowe w Służbie Kontrwywiadu Wojskowego albo Służbie Wywiadu Wojskowego, żołnierze Żandarmerii Wojskowej, pracownicy ochrony specjalistycznych uzbrojonych formacji ochronnych, a także pracownicy wewnętrznych służb ochrony działających na terenach jednostek organizacyjnych podległych lub podporządkowanych Ministrowi Obrony Narodowej lub nadzorowanych przez Ministra Obrony Narodowej,
+3) ust. 1 pkt 2 lit. a są uprawnieni żołnierze Sił Zbrojnych Rzeczypospolitej Polskiej oraz żołnierze Żandarmerii Wojskowej,
+4) ust. 1 pkt 2 lit. b są uprawnieni żołnierze Sił Zbrojnych Rzeczypospolitej Polskiej, żołnierze Żandarmerii Wojskowej, żołnierze zawodowi wyznaczeni na stanowiska służbowe w Służbie Kontrwywiadu Wojskowego albo Służbie Wywiadu Wojskowego, funkcjonariusze Policji, Straży Granicznej, Służby Więziennej, Służby Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura Antykorupcyjnego, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Straży Marszałkowskiej, pracownicy ochrony specjalistycznych uzbrojonych formacji ochronnych, a także pracownicy wewnętrznych służb ochrony działających na terenach jednostek organizacyjnych podległych lub podporządkowanych Ministrowi Obrony Narodowej lub nadzorowanych przez Ministra Obrony Narodowej na zasadach określonych w ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
 3. Podmioty, o których mowa w ust. 2, w przypadkach wskazanych w ust. 1, są uprawnione do sprawdzenia spełnienia obowiązku zawarcia umowy ubezpieczenia, o którym mowa w art. 209 ust. 1 i 1a.
 4. Za szkody powstałe w wyniku zniszczenia albo unieruchomienia bezzałogowego statku powietrznego albo przejęcia kontroli nad jego lotem w przypadkach, o których mowa w ust. 1, odpowiada pilot bezzałogowego statku powietrznego lub operator systemu bezzałogowego statku powietrznego zniszczonego albo unieruchomionego albo nad którego lotem przejęto kontrolę.
 Art. 213–221. (pominięte)
+
+**Art. 85.**
+
+1. Umowy o oferowanie lub świadczenie usług zawarte przed dniem wejścia w życie ustawy mogą nadal obowiązywać w niezmienionej treści do dnia ich wygaśnięcia, jednak nie dłużej niż do dnia 28 czerwca 2030 r.
+
+2. Usługodawca może do dnia 28 czerwca 2030 r. oferować lub świadczyć usługi przy wykorzystaniu produktów niespełniających wymagań dostępności, które wykorzystywał w celu oferowania lub świadczenia usług tego samego rodzaju przed dniem wejścia w życie ustawy.
+
+3. Terminale niespełniające wymagań dostępności, wykorzystywane przez usługodawców do oferowania lub świadczenia usług przed dniem wejścia w życie ustawy, mogą być wykorzystywane do oferowania lub świadczenia usług tego samego rodzaju do upływu okresu ich ekonomicznej użyteczności, jednak nie dłużej niż przez okres 20 lat od dnia rozpoczęcia ich wykorzystywania.
+
+**Art. 86.** Przepisów ustawy nie stosuje się do stron internetowych i aplikacji mobilnych w odniesieniu do treści:
+
+- **1)** zarejestrowanych z wyprzedzeniem mediów zmiennych w czasie opublikowanych przed dniem wejścia w życie ustawy;
+- **2)** będących plikami dokumentów opublikowanymi przed dniem wejścia w życie ustawy;
+- **3)** zarchiwizowanych, które nie były aktualizowane ani edytowane od dnia wejścia w życie ustawy.” „Art. 88. Ustawa wchodzi w życie z dniem 28 czerwca 2025 r., z wyjątkiem art. 6 pkt 1, 2 i 5–9 oraz art. 39 pkt 6, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.”;
+- **2)** art. 124 ustawy z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U. poz. 1222), który stanowi: „Art. 124. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
+- **1)** art. 1, art. 39 pkt 11 lit. b w zakresie art. 16a ust. 4 pkt 2c i 2d, art. 46 pkt 5, art. 52 pkt 1, art. 63, art. 68 ust. 2, art. 80 ust. 3 i 5–8 oraz art. 120, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 44 pkt 9 w zakresie art. 20 ust. 1 pkt 2 lit. b, który wchodzi w życie z dniem 1 grudnia 2024 r.;
+- **3)** art. 39 pkt 24 i 27, które wchodzą w życie z dniem 1 stycznia 2025 r.;
+- **4)** art. 39 pkt 31, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;
+- **5)** art. 49 i art. 106, które wchodzą w życie z dniem 18 października 2024 r.”;
+- **3)** art. 2 i art. 3 ustawy z dnia 5 grudnia 2024 r. o zmianie ustawy Prawo lotnicze (Dz. U. z 2025 r. poz. 31), które stanowią: „Art. 2. Przepis art. 87 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, stosuje się do postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy.
+
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+
+- **4)** art. 20–33 ustawy z dnia 24 stycznia 2025 r. o zmianie ustawy Prawo lotnicze oraz niektórych innych ustaw (Dz. U. poz. 179), które stanowią: „Art. 20. Prezes Urzędu Lotnictwa Cywilnego zawiera z Polską Agencją Żeglugi Powietrznej porozumienie, o którym mowa w art. 21 ust. 2h ustawy zmienianej w art. 1, do dnia wejścia w życie niniejszej ustawy.
+
+**Art. 21.**
+
+1. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy dotyczących:
+
+- **1)** kontroli:
+    - **a)** podmiotów prowadzących działalność w zakresie lotnictwa cywilnego z użyciem bezzałogowych statków powietrznych w rozumieniu art. 2 pkt 1a ustawy zmienianej w art. 1, zwanych dalej „bezzałogowymi statkami powietrznymi”,
+    - **b)** użytkowników bezzałogowych statków powietrznych, w tym posiadających świadectwo kwalifikacji operatora bezzałogowych statków powietrznych, o którym mowa w przepisach ustawy zmienianej w art. 1, używanego w celach innych niż rekreacyjne lub sportowe,
+    - **c)** przedsiębiorców wykonujących działalność szkoleniową, o której mowa w art. 95a ust. 1 ustawy zmienianej w art. 1,
+
+- **2)** zezwoleń na wykonywanie lotów międzynarodowych, o których mowa w art. 149 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym stosuje się przepisy dotychczasowe.
+
+2. Do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 156d ust. 13 ustawy zmienianej w art. 1 w zakresie operacji wykonywanych z użyciem systemów bezzałogowych statków powietrznych zgodnie z krajowymi scenariuszami standardowymi, o których mowa w art. 156d ust. 3 ustawy zmienianej w art. 1, stosuje się przepisy dotychczasowe.
+
+3. Potwierdzenia odbioru i kompletności oświadczeń o wykonywaniu operacji zgodnie z krajowym scenariuszem standardowym , o którym mowa w art. 23 ust. 4 rozporządzenia wykonawczego Komisji (UE) 2019/947 z dnia 24 maja 2019 r. w sprawie przepisów i procedur dotyczących eksploatacji bezzałogowych statków powietrznych (Dz. Urz. UE L 152 z 11.06.2019, str. 45, z późn. zm. ), zwanego dalej „rozporządzeniem nr 2019/947/UE”, wydane przed dniem wejścia w życie niniejszej ustawy zachowują ważność przez okres, na jaki zostały wydane.
+
+**Art. 22.** Pozwolenia na wykonywanie lotów wydane przed dniem wejścia w życie niniejszej ustawy na podstawie art. 53a ust. 1 ustawy zmienianej w art. 1 dla bezzałogowych statków powietrznych kategorii specjalnej zachowują ważność przez okres, na jaki zostały wydane.
+
+**Art. 23.** Postępowania w sprawie o wydanie pozwolenia na wykonywanie lotów, o którym mowa w art. 53c ust. 1 ustawy zmienianej w art. 1, dla bezzałogowych statków powietrznych wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy umarza się.
+
+**Art. 24.** W terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy Prezes Urzędu Lotnictwa Cywilnego wykreśla z urzędu z rejestru cywilnych statków powietrznych, o którym mowa w art. 34 ustawy zmienianej w art. 1, bezzałogowe statki powietrzne wpisane do tego rejestru, których projektowanie, produkcja i konserwacja nie podlega certyfikacji, o której mowa w art. 40 rozporządzenia delegowanego Komisji (UE) 2019/945 z dnia 12 marca 2019 r. w sprawie systemów bezzałogowych statków powietrznych oraz operatorów systemów bezzałogowych statków powietrznych z państw trzecich (Dz. Urz. UE L 152 z 11.06.2019, str. 1, z późn. zm. ), oraz do których nie mają zastosowania przepisy działu III rozdziału 2 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
+
+**Art. 25.** Uprawnienia wynikające z decyzji administracyjnych wydanych przed dniem wejścia w życie niniejszej ustawy w przedmiocie konwersji, o której mowa w art. 21 ust. 2 rozporządzenia nr 2019/947/UE, zachowują ważność przez okres, na jaki zostały wydane.
+
+**Art. 26.**
+
+1. W terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy Prezes Urzędu Lotnictwa Cywilnego skreśla z urzędu z rejestru podmiotów szkolących, o którym mowa w art. 95a ust. 1 ustawy zmienianej w art. 1, podmioty szkolące wyłącznie w zakresie bezzałogowych statków powietrznych.
+
+2. W przypadku gdy podmiot wpisany do rejestru podmiotów szkolących, o którym mowa w art. 95a ust. 1 ustawy zmienianej w art. 1, prowadzi szkolenia również w zakresie innym niż w zakresie bezzałogowych statków powietrznych, Prezes Urzędu Lotnictwa Cywilnego dokonuje z urzędu, w terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy, adnotacji w rejestrze podmiotów szkolących, o którym mowa w art. 95a ust. 1 ustawy zmienianej w art. 1, o wykreśleniu uprawnienia dotyczącego szkolenia w zakresie bezzałogowych statków powietrznych.
+
+3. Uzyskane od Prezesa Urzędu Lotnictwa Cywilnego na podstawie przepisów rozporządzenia nr 2019/947/UE przed dniem wejścia w życie ustawy:
+
+- **1)** wyznaczenia do przeprowadzania:
+    - **a)** egzaminu z wiedzy teoretycznej, o którym mowa w UAS.OPEN.030 pkt 2 lit. c części A załącznika do rozporządzenia nr 2019/947/UE, lub
+    - **b)** egzaminu z wiedzy teoretycznej, o którym mowa w scenariuszu standardowym, o którym mowa w art. 5 ust. 5 rozporządzenia nr 2019/947/UE, lub
+    - **c)** egzaminu z wiedzy teoretycznej, o którym mowa w krajowym scenariuszu standardowym, o którym mowa w art. 23 ust. 4 rozporządzenia nr 2019/947/UE,
+
+- **2)** uznania lub wskazania do prowadzenia szkolenia praktycznego i oceny umiejętności praktycznych, o których mowa w dodatku 3 do załącznika do rozporządzenia nr 2019/947/UE zachowują ważność przez okres, na jaki zostały wydane.
+
+**Art. 27.** W terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy Prezes Urzędu Lotnictwa Cywilnego skreśla z urzędu z ewidencji, o której mowa w przepisach wydanych na podstawie art. 33 ust. 2 i 4 ustawy zmienianej w art. 1, bezzałogowe statki powietrzne wpisane do tej ewidencji.
+
+**Art. 28.**
+
+1. W terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy Polska Agencja Żeglugi Powietrznej wyznaczy strefy geograficzne, o których mowa w art. 156h ust. 1 pkt 1 ustawy zmienianej w art. 1, w odniesieniu do struktur przestrzeni powietrznej wyznaczonych na podstawie przepisów wydanych na podstawie art. 119 ust. 4 pkt 1 ustawy zmienianej w art. 1. Do czasu wyznaczenia tych stref geograficznych zasady wykonywania operacji z użyciem systemów bezzałogowych statków powietrznych w tych strukturach przestrzeni powietrznej określają strefy geograficzne wyznaczone przez Polską Agencję Żeglugi Powietrznej przed dniem wejścia w życie niniejszej ustawy.
+
+2. Do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 156k ustawy zmienianej w art. 1, strefy geograficzne dla systemów bezzałogowych statków powietrznych, o których mowa w art. 15 rozporządzenia nr 2019/947/UE, Polska Agencja Żeglugi Powietrznej wyznacza na podstawie przepisów dotychczasowych.
+
+**Art. 29.** Rejestr operatorów systemów bezzałogowych statków powietrznych prowadzony przed dniem wejścia w życie niniejszej ustawy przez Prezesa Urzędu Lotnictwa Cywilnego, z uwzględnieniem art. 14 ust. 1, 2, 4–6 i 8 rozporządzenia nr 2019/947/UE, z dniem wejścia w życie niniejszej ustawy staje się rejestrem operatorów systemów bezzałogowych statków powietrznych, o którym mowa w art. 156l ust. 1 ustawy zmienianej w art. 1.
+
+**Art. 30.**
+
+1. Prezes Urzędu Lotnictwa Cywilnego może udzielić Polskiej Agencji Żeglugi Powietrznej dotacji celowej z budżetu państwa na pokrycie kosztów utrzymania trwałości projektu „Usługi cyfrowe dla bezzałogowych statków powietrznych”, realizowanego przez Polską Agencję Żeglugi Powietrznej, Ministerstwo Infrastruktury i Urząd Lotnictwa Cywilnego przy wsparciu środków Unii Europejskiej w ramach Programu Operacyjnego Polska Cyfrowa 2014–2020, przez okres 5 lat od dnia zakończenia realizacji projektu.
+
+2. Sposób i tryb rozliczania i dokumentowania kosztów, o których mowa w ust. 1, określa umowa zawarta między Prezesem Urzędu Lotnictwa Cywilnego a Polską Agencją Żeglugi Powietrznej.
+
+**Art. 31.** Waloryzacji wysokości stawek opłat, o której mowa w art. 156j ust. 4 ustawy zmienianej w art. 1, dokonuje się po raz pierwszy w 2025 r. W przypadku wejścia w życie niniejszej ustawy po dniu ogłoszenia przez Prezesa Głównego Urzędu Statystycznego średniorocznego wskaźnika cen towarów i usług konsumpcyjnych ogółem w 2024 r., minister właściwy do spraw transportu ogłasza zwaloryzowane stawki opłat w terminie miesiąca od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 32.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 44 ust. 2 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 44 ust. 3 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 33.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1 pkt 3 lit. c, art. 7 i art. 20, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 1 pkt 25 i 26, które wchodzą w życie po upływie 9 miesięcy od dnia ogłoszenia.”;
+- **5)** art. 2–5 ustawy z dnia 7 marca 2025 r. o zmianie ustawy Prawo lotnicze (Dz. U. poz. 374), które stanowią: „Art. 2. 1. Obiekty budowlane, w tym tymczasowe obiekty budowlane, zlokalizowane na terytorium Rzeczypospolitej Polskiej oraz na obszarze wyłącznej strefy ekonomicznej Rzeczypospolitej Polskiej:
+- **1)** które przed dniem wejścia w życie niniejszej ustawy osiągnęły wysokość równą 50 m albo większą, ale mniejszą niż 100 m powyżej poziomu otaczającego terenu lub wody i nie zostały zgłoszone do właściwego organu nadzoru nad lotnictwem wojskowym,
+- **2)** w stosunku do których w dniu wejścia w życie niniejszej ustawy termin osiągnięcia wysokości 50 m powyżej poziomu otaczającego terenu lub wody jest krótszy niż termin określony w art. 87 ust. 2 ustawy zmienianej w art. 1 podlegają zgłoszeniu do Ministra Obrony Narodowej w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy, o ile nie zostały wpisane do ewidencji przeszkód lotniczych.
+
+2. Do zgłoszenia, o którym mowa w ust. 1, stosuje się przepisy art. 87 ust. 3 i ust. 4 pkt 1–5 ustawy zmienianej w art. 1.
+
+3. Kto nie zgłosi do Ministra Obrony Narodowej obiektu budowlanego zgodnie z obowiązkiem wynikającym z ust. 1, podlega grzywnie, karze ograniczenia wolności lub pozbawienia wolności do roku.
+
+**Art. 3.** Dane i informacje dotyczące obiektów budowlanych, o których mowa w art. 87 ust. 1 ustawy zmienianej w art. 1, zawarte w zgłoszeniach do właściwego organu nadzoru nad lotnictwem wojskowym dokonanych przed dniem wejścia w życie niniejszej ustawy włącza się do ewidencji, o której mowa w art. 87 ust. 5 ustawy zmienianej w art. 1.
+
+**Art. 4.**
+
+1. Podmioty, o których mowa w art. 87 ust. 3 ustawy zmienianej w art. 1, które przed dniem wejścia w życie niniejszej ustawy zgłosiły obiekty budowlane, o których mowa w art. 87 ust. 1 ustawy zmienianej w art. 1, do właściwego organu nadzoru nad lotnictwem wojskowym, albo następcy prawni tych podmiotów dokonują weryfikacji zgłoszonych danych i informacji.
+
+2. W przypadku gdy weryfikacja, o której mowa w ust. 1, wykaże, że obiekt budowlany nie spełnia wymagań, o których mowa w art. 87 ust. 1 ustawy zmienianej w art. 1, podmiot, o którym mowa w art. 87 ust. 3 ustawy zmienianej w art. 1, albo następca prawny tego podmiotu zawiadamiają o tym Ministra Obrony Narodowej w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy, w celu aktualizacji ewidencji, o której mowa w art. 87 ust. 5 ustawy zmienianej w art. 1.
+
+3. Zawiadomienia, o którym mowa w ust. 2, dokonuje się w formie dokumentów elektronicznych opatrzonych kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, a w przypadku braku możliwości złożenia kwalifikowanego podpisu elektronicznego, podpisu zaufanego albo podpisu osobistego w formie dokumentów elektronicznych oraz wydruku z własnoręcznym czytelnym podpisem. Przepisy art. 87 ust. 4 pkt 1–4 ustawy zmienianej w art. 1 stosuje się odpowiednio.
+
+4. Na podstawie zawiadomienia, o którym mowa w ust. 2, Minister Obrony Narodowej aktualizuje ewidencję, o której mowa w art. 87 ust. 5 ustawy zmienianej w art. 1.
+
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+
+- **6)** art. 31 i art. 48 ustawy z dnia 21 maja 2025 r. o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (Dz. U. poz. 769), które stanowią: „Art. 31. 1. Do spraw prowadzonych na podstawie ustawy zmienianej w art. 1, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
+
+2. Do wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy postępowań, o których mowa w:
+
+- **1)** ustawie zmienianej w art. 3 stosuje się przepisy tej ustawy w brzmieniu dotychczasowym;
+- **2)** ustawie zmienianej w art. 8 stosuje się przepisy tej ustawy w brzmieniu dotychczasowym;
+- **3)** ustawie zmienianej w art. 9 stosuje się przepisy tej ustawy w brzmieniu dotychczasowym;
+- **4)** ustawie zmienianej w art. 12 stosuje się przepisy tej ustawy w brzmieniu dotychczasowym;
+- **5)** ustawie zmienianej w art. 13 stosuje się przepisy tej ustawy w brzmieniu dotychczasowym;
+- **6)** ustawie zmienianej w art. 14 stosuje się przepisy tej ustawy w brzmieniu dotychczasowym;
+- **7)** ustawie zmienianej w art. 15 stosuje się przepisy tej ustawy w brzmieniu dotychczasowym, z wyjątkiem określonym w art. 39;
+- **8)** ustawie zmienianej w art. 17 stosuje się przepisy tej ustawy w brzmieniu dotychczasowym;
+- **9)** ustawie zmienianej w art. 20 stosuje się przepisy tej ustawy w brzmieniu dotychczasowym;
+- **10)** ustawie zmienianej w art. 30 stosuje się przepisy tej ustawy w brzmieniu dotychczasowym.” „Art. 48. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
+- **1)** art. 6, art. 11, art. 18, art. 22, art. 24 pkt 4, 7 i 9, art. 38 oraz art. 40 ust. 1 i 2, które wchodzą w życie z dniem 1 stycznia 2026 r.;
+- **2)** art. 28 oraz art. 44, które wchodzą w życie po upływie 9 miesięcy od dnia ogłoszenia.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 3 lipca 2002 r. Prawo lotnicze
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -67,16 +202,16 @@ Art. 213–221. (pominięte)
 
 4. Przepisów prawa lotniczego nie stosuje się do lotnictwa państwowego, z wyjątkiem przepisów:
 
-- **1)** art. 1 ust. 6, art. 2–9, art. 14, art. 17 ust. 17, ust. 22 pkt 2 i ust. 23, art. 35 ust. 2, art. 43, art. 59a ust. 6, art. 60, art. 66 ust. 1a–1d i 3, art. 66a, art. 66b, art. 68 ust. 2, 2e i 2f, art. 69 ust. 1–3, art. 74–76, art. 82 ust. 1 pkt 6–8, ust. 1a, 1b i 3–8, art. 87, art. 87 ust. 1–8 i 10, art. 87 , art. 87 , art. 87 ust. 1, 2, 4 i 5, art. 87 ust. 1– 4, art. 87 –87a, art. 89, art. 92, art. 93a ust. 1 pkt 5 i 7, art. 104 ust. 4–9, art. 119– 125, art. 128, art. 130, art. 133, art. 134 ust. 1–1f, art. 135 ust. 3 pkt 3, art. 135a ust. 2 pkt 8, art. 136, art. 137 ust. 1–4, art. 140–140e, art. 149a, art. 150, art. 156a, art. 156b ust. 2, art. 156h–156k, art. 156zd, art. 156ze, art. 193 ust. 5 oraz art. 207 ust. 8, z zastrzeżeniem ust. 5 – w odniesieniu do wojskowych statków powietrznych, załóg tych statków oraz lotnisk i lądowisk wojskowych;
-- **2)** art. 1 ust. 6, art. 2–9, art. 14, art. 17 ust. 17, ust. 22 pkt 2 i ust. 23, art. 35 ust. 2, art. 44, art. 59a ust. 6, art. 60, art. 66 ust. 3, art. 68 ust. 2, art. 69 ust. 1–3, art. 74– 76, art. 82 ust. 1 pkt 6–8, ust. 1a, 1b i 3–8, art. 87, art. 87 ust. 1–8 i 10, art. 87 , art. 87 ust. 1, 2, 4 i 5, art. 87 ust. 1–4, art. 87 – 87a, art. 92, art. 93a ust. 1 pkt 7, art. 94 ust. 2 pkt 2, art. 104 ust. 4–9, art. 119–125, art. 128, art. 130, art. 133, art. 134 ust. 1–1f, art. 136, art. 137 ust. 1–4, art. 140–140e, art. 150, art. 156a– 156ze, art. 193 ust. 5 oraz art. 207 ust. 8, z zastrzeżeniem ust. 5 – w odniesieniu do statków powietrznych lotnictwa służb porządku publicznego, załóg tych statków oraz lotnisk i lądowisk lotnictwa służb porządku publicznego;
-- **3)** art. 1 ust. 6, art. 2–9, art. 14, art. 35 ust. 2, art. 74–76, art. 87a, art. 93a ust. 1 pkt 7, art. 94 ust. 1 i ust. 2 pkt 2, art. 119–125, art. 128, art. 130, art. 133, art. 134 ust. 1–1f, art. 135 ust. 3, art. 136, art. 137 ust. 1–4, art. 140–140e, art. 150, art. 156a– 156ze oraz art. 207 ust. 8, z zastrzeżeniem ust. 5 – w odniesieniu do bezzałogowych statków powietrznych służb specjalnych, operatorów systemów bezzałogowych statków powietrznych oraz pilotów bezzałogowych statków powietrznych.
+- **1)** art. 1 ust. 6, art. 2–9, art. 14, art. 17 ust. 17, ust. 22 pkt 2 i ust. 23, art. 35 ust. 2, art. 43, art. 59a ust. 6, art. 60, art. 66 ust. 1a–1d i 3, art. 66a, art. 66b, art. 68 ust. 2, 2e i 2f, art. 69 ust. 1–3, art. 74–76, art. 82 ust. 1 pkt 6–8, ust. 1a, 1b i 3–8, art. 87, art. 87 ust. 1–8 i 10, art. 87 , art. 87 , art. 87 ust. 1, 2, 4 i 5, art. 87 ust. 1–4, art. 87 –87a, art. 89, art. 92, art. 93a ust. 1 pkt 5 i 7, art. 104 ust. 4–9, art. 119–125, art. 128, art. 130, art. 133, art. 134 ust. 1–1f, art. 135 ust. 3 pkt 3, art. 135a ust. 2 pkt 8, art. 136, art. 137 ust. 1–4, art. 140–140e, art. 149a, art. 150, art. 156a, art. 156b ust. 2, art. 156h–156k, art. 156zd, art. 156ze, art. 193 ust. 5 oraz art. 207 ust. 8, z zastrzeżeniem ust. 5 w odniesieniu do wojskowych statków powietrznych, załóg tych statków oraz lotnisk i lądowisk wojskowych;
+- **2)** art. 1 ust. 6, art. 2–9, art. 14, art. 17 ust. 17, ust. 22 pkt 2 i ust. 23, art. 35 ust. 2, art. 44, art. 59a ust. 6, art. 60, art. 66 ust. 3, art. 68 ust. 2, art. 69 ust. 1–3, art. 74–76, art. 82 ust. 1 pkt 6–8, ust. 1a, 1b i 3–8, art. 87, art. 87 ust. 1–8 i 10, art. 87 , art. 87 ust. 1, 2, 4 i 5, art. 87 ust. 1–4, art. 87 87a, art. 92, art. 93a ust. 1 pkt 7, art. 94 ust. 2 pkt 2, art. 104 ust. 4–9, art. 119–125, art. 128, art. 130, art. 133, art. 134 ust. 1–1f, art. 136, art. 137 ust. 1–4, art. 140–140e, art. 150, art. 156a–156ze, art. 193 ust. 5 oraz art. 207 ust. 8, z zastrzeżeniem ust. 5 w odniesieniu do statków powietrznych lotnictwa służb porządku publicznego, załóg tych statków oraz lotnisk i lądowisk lotnictwa służb porządku publicznego;
+- **3)** art. 1 ust. 6, art. 2–9, art. 14, art. 35 ust. 2, art. 74–76, art. 87a, art. 93a ust. 1 pkt 7, art. 94 ust. 1 i ust. 2 pkt 2, art. 119–125, art. 128, art. 130, art. 133, art. 134 ust. 1–1f, art. 135 ust. 3, art. 136, art. 137 ust. 1–4, art. 140–140e, art. 150, art. 156a–156ze oraz art. 207 ust. 8, z zastrzeżeniem ust. 5 w odniesieniu do bezzałogowych statków powietrznych służb specjalnych, operatorów systemów bezzałogowych statków powietrznych oraz pilotów bezzałogowych statków powietrznych.
 
 5. W przypadku wykorzystywania:
 
 - **1)** polskich i obcych państwowych statków powietrznych do prowadzenia działalności innej niż służba publiczna,
 - **2)** lotnisk lotnictwa państwowego do startów i lądowań cywilnych statków powietrznych oraz statków, o których mowa w pkt 1, przepisy ustawy stosuje się odpowiednio.
 
-6. Nadzór nad działalnością lotnictwa państwowego, z zastrzeżeniem przepisów ustawy, sprawują odpowiednio ministrowie właściwi ze względu na przynależność jednostki będącej właścicielem lub użytkownikiem danego statku powietrznego lub zarządzającej lotniskiem, a w przypadku bezzałogowych statków powietrznych służb specjalnych oraz bezzałogowych statków powietrznych używanych przez jednostki organizacyjne Policji, Straży Granicznej i Państwowej Straży Pożarnej oraz Służbę Ochrony Państwa – odpowiednio centralne organy administracji rządowej właściwe ze względu na przynależność jednostki będącej właścicielem lub użytkownikiem danego statku powietrznego lub zarządzającej lotniskiem.
+6. Nadzór nad działalnością lotnictwa państwowego, z zastrzeżeniem przepisów ustawy, sprawują odpowiednio ministrowie właściwi ze względu na przynależność jednostki będącej właścicielem lub użytkownikiem danego statku powietrznego lub zarządzającej lotniskiem, a w przypadku bezzałogowych statków powietrznych służb specjalnych oraz bezzałogowych statków powietrznych używanych przez jednostki organizacyjne Policji, Straży Granicznej i Państwowej Straży Pożarnej oraz Służbę Ochrony Państwa odpowiednio centralne organy administracji rządowej właściwe ze względu na przynależność jednostki będącej właścicielem lub użytkownikiem danego statku powietrznego lub zarządzającej lotniskiem.
 
 7. (uchylony)
 
@@ -84,13 +219,57 @@ Art. 213–221. (pominięte)
 
 **Art. 2.** W rozumieniu przepisów ustawy:
 
+- **1)** statkiem powietrznym jest urządzenie zdolne do unoszenia się w atmosferze na skutek oddziaływania powietrza innego niż oddziaływanie powietrza odbitego od podłoża;
+- **1a)** bezzałogowym statkiem powietrznym jest bezzałogowy statek powietrzny w rozumieniu art. 3 pkt 30 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1139 z dnia 4 lipca 2018 r. w sprawie wspólnych zasad w dziedzinie lotnictwa cywilnego i utworzenia Agencji Unii Europejskiej ds. Bezpieczeństwa Lotniczego oraz zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 2111/2005, (WE) nr 1008/2008, (UE) nr 996/2010, (UE) nr 376/2014 i dyrektywy Parlamentu Europejskiego i Rady 2014/30/UE i 2014/53/UE, a także uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 552/2004 i (WE) nr 216/2008 i rozporządzenie Rady (EWG) nr 3922/91 (Dz. Urz. UE L 212 z 22.08.2018, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem nr 2018/1139/UE”;
+- **1b)** systemem bezzałogowego statku powietrznego jest system bezzałogowego statku powietrznego w rozumieniu art. 2 pkt 1 rozporządzenia wykonawczego Komisji (UE) 2019/947 z dnia 24 maja 2019 r. w sprawie przepisów i procedur dotyczących eksploatacji bezzałogowych statków powietrznych (Dz. Urz. UE L 152 z 11.06.2019, str. 45, z późn. zm. );
+- **2)** polskim państwowym statkiem powietrznym jest:
+    - **a)** statek powietrzny używany przez Siły Zbrojne Rzeczypospolitej Polskiej (wojskowy statek powietrzny),
+    - **b)** statek powietrzny używany przez jednostki organizacyjne Policji, Straży Granicznej i Państwowej Straży Pożarnej oraz Służbę Ochrony Państwa (statek powietrzny lotnictwa służb porządku publicznego),
+    - **c)** bezzałogowy statek powietrzny używany przez służby specjalne, o których mowa w art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2025 r. poz. 902) (bezzałogowy statek powietrzny służb specjalnych);
+
+- **3)** użytkownikiem statku powietrznego jest jego właściciel lub inna osoba wpisana jako użytkownik do rejestru statków powietrznych;
+- **4)** lotniskiem jest wydzielony obszar na lądzie, wodzie lub innej powierzchni w całości lub w części przeznaczony do wykonywania startów, lądowań i naziemnego lub nawodnego ruchu statków powietrznych, wraz ze znajdującymi się w jego granicach obiektami i urządzeniami budowlanymi o charakterze trwałym, wpisany do rejestru lotnisk;
+- **5)** lądowiskiem jest obszar na lądzie, wodzie lub innej powierzchni, który może być w całości lub w części wykorzystywany do startów i lądowań naziemnego lub nawodnego ruchu statków powietrznych;
+- **6)** część lotnicza lotniska to obszar trwale przeznaczony do startów i lądowań statków powietrznych oraz do związanego z tym ruchu statków powietrznych, wraz z urządzeniami służącymi do obsługi tego ruchu, do którego dostęp jest kontrolowany;
+- **7)** zarządzającym lotniskiem jest podmiot, który został wpisany jako zarządzający do rejestru lotnisk cywilnych;
+- **8)** lądowaniem handlowym jest lądowanie w celu zabrania lub pozostawienia pasażerów, bagażu, towarów lub poczty, przewożonych odpłatnie;
+- **9)** lotem handlowym jest lot związany z lądowaniem handlowym;
+- **10)** lotem międzynarodowym jest lot, w trakcie którego następuje przekroczenie granicy państwowej;
+- **11)** lotem tranzytowym jest lot w przestrzeni powietrznej Rzeczypospolitej Polskiej, rozpoczynający się i kończący poza jej terytorium;
+- **12)** lotem długodystansowym jest jednoodcinkowy lot na dystansie, którego pokonanie wymaga minimum 8 godzin lotu statku powietrznego;
+- **13)** przewozem lotniczym jest lot lub seria lotów, w których przewozi się pasażerów, towary lub pocztę, za wynagrodzeniem, w tym na podstawie umowy o czasowym oddaniu lub wzięciu statku powietrznego do używania;
+- **14)** regularnym przewozem lotniczym jest przewóz lotniczy, jeżeli w każdym locie miejsca w statkach powietrznych przeznaczone do przewozu pasażerów, bagażu, towarów lub poczty są publicznie oferowane do nabycia, a przewóz jest wykonywany między tymi samymi punktami według opublikowanego rozkładu lotów albo w stałych odstępach czasu lub z częstotliwością wskazującą na regularność lotów;
+- **15)** przewozem czarterowym jest przewóz lotniczy dokonywany na podstawie umowy czarteru lotniczego, w której przewoźnik lotniczy oddaje do dyspozycji czarterującego określoną liczbę miejsc lub pojemność statku powietrznego w celu wykonania określonego przewozu pasażerów, bagażu, towarów lub poczty, wskazanych przez czarterującego;
+- **16)** przewoźnikiem lotniczym jest podmiot uprawniony do wykonywania przewozów lotniczych na podstawie koncesji w przypadku polskiego przewoźnika lotniczego, lub na podstawie odpowiedniego aktu właściwego organu obcego państwa w przypadku obcego przewoźnika lotniczego;
+- **17)** portem lotniczym jest lotnisko użytku publicznego wykorzystywane do lotów handlowych;
+- **18)** obowiązek użyteczności publicznej polega na zobowiązaniu:
+    - **a)** przewoźnika lotniczego do zapewnienia świadczenia usług przewozu lotniczego, spełniających określone wymogi co do ciągłości, regularności, zdolności przewozowej i taryf, których przewoźnik lotniczy nie spełniałby, kierując się jedynie interesem handlowym,
+    - **b)** zarządzającego lotniskiem do zapewnienia funkcjonowania lotniska, z zachowaniem określonych wymagań, których zarządzający lotniskiem nie spełniłby, kierując się jedynie interesem handlowym lub statutowym na warunkach określonych zgodnie z niniejszą ustawą;
+
+- **19)** EASA jest Agencją Unii Europejskiej ds. Bezpieczeństwa Lotniczego w rozumieniu rozporządzenia nr 2018/1139/UE;
+- **20)** aktem bezprawnej ingerencji w lotnictwie cywilnym jest bezprawny i celowy akt polegający na:
+    - **a)** użyciu w czasie lotu statku powietrznego przemocy wobec osoby znajdującej się na jego pokładzie, jeżeli akt ten może zagrozić bezpieczeństwu tego statku,
+    - **b)** zniszczeniu statku powietrznego albo spowodowaniu jego uszkodzeń, które uniemożliwiają lot lub mogą stanowić zagrożenie bezpieczeństwa tego statku,
+    - **c)** umieszczeniu na pokładzie statku powietrznego przedmiotu, urządzenia lub substancji, które mogą zagrozić zdrowiu lub życiu pasażerów lub załogi lub zniszczyć statek powietrzny albo spowodować jego uszkodzenia, mogące uniemożliwić jego lot lub stanowić zagrożenie bezpieczeństwa tego statku w czasie lotu,
+    - **d)** porwaniu statku powietrznego z załogą i pasażerami na pokładzie lub bez nich, również w celu użycia statku powietrznego jako narzędzia ataku terrorystycznego z powietrza,
+    - **e)** zniszczeniu albo uszkodzeniu lotniczych urządzeń naziemnych lub pokładowych, zakłóceniu ich działania lub użyciu przemocy wobec osoby obsługującej te urządzenia, w przypadku gdy powoduje to znaczne zakłócenie ruchu lotniczego lub zagrożenie bezpieczeństwa lotnictwa cywilnego,
+    - **f)** przekazaniu nieprawdziwej informacji, która powoduje zagrożenie osób i mienia w komunikacji lotniczej,
+    - **g)** zniszczeniu albo poważnym uszkodzeniu urządzeń na lotnisku, zakłóceniu ich działania lub użyciu przemocy wobec osoby obsługującej te urządzenia, w przypadku gdy powoduje to znaczne zakłócenie ruchu lotniczego lub funkcjonowania lotniska lub zagrożenie bezpieczeństwa lotnictwa cywilnego;
+
+- **21)** służbą ochrony lotniska jest wewnętrzna służba ochrony lub specjalistyczna uzbrojona formacja ochronna działająca na podstawie ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2025 r. poz. 532), realizująca zadania na rzecz ochrony lotnictwa cywilnego i podlegająca zarządzającemu lotniskiem;
+- **22)** państwem trzecim jest państwo inne niż państwo członkowskie Unii Europejskiej, Konfederacja Szwajcarska lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) strona umowy o Europejskim Obszarze Gospodarczym;
+- **23)** scentralizowaną infrastrukturę stanowią służące do wykonywania usług obsługi naziemnej elementy infrastruktury w porcie lotniczym, których złożoność, koszt lub wpływ na środowisko nie pozwala na podział lub powielenie;
+- **24)** operatorem systemu bezzałogowego statku powietrznego jest operator systemu bezzałogowego statku powietrznego w rozumieniu art. 2 pkt 2 rozporządzenia nr 2019/947/UE;
+- **25)** pilotem bezzałogowego statku powietrznego jest pilot bezzałogowego statku powietrznego w rozumieniu art. 3 pkt 31 rozporządzenia nr 2018/1139/UE;
+- **26)** rojem bezzałogowych statków powietrznych są operacje co najmniej dwóch bezzałogowych statków powietrznych, których ruch jest wzajemnie i automatycznie koordynowany, kontrolowane przez pilota bezzałogowego statku powietrznego za pośrednictwem jednego wyposażenia do zdalnego sterowania bezzałogowym statkiem powietrznym.
+
 #### Rozdział 2 Umowy i przepisy międzynarodowe
 
 **Art. 3.**
 
 1. Do stosunków prawnych z zakresu lotnictwa cywilnego stosuje się przepisy Prawa lotniczego, o ile wiążące Rzeczpospolitą Polską ratyfikowane umowy międzynarodowe nie stanowią inaczej.
 
-2. Wiążące uchwały organizacji międzynarodowych ustanowionych na podstawie ratyfikowanych umów międzynarodowych, w tym przyjęte przez Organizację Międzynarodowego Lotnictwa Cywilnego (ICAO) załączniki do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. poz. 212, z późn. zm. ), oraz ich zmiany, ogłaszane są bez zbędnej zwłoki wraz z oświadczeniami rządowymi dotyczącymi ich obowiązywania. Oświadczenia rządowe ogłaszane są w Dzienniku Ustaw Rzeczypospolitej Polskiej ze wskazaniem miejsca publikacji uchwał będących przedmiotem ogłoszenia.
+2. Wiążące uchwały organizacji międzynarodowych ustanowionych na podstawie ratyfikowanych umów międzynarodowych, w tym przyjęte przez Organizację Międzynarodowego Lotnictwa Cywilnego (ICAO) załączniki do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. poz. 212, z późn. zm. ), oraz ich zmiany, ogłaszane są bez zbędnej zwłoki wraz z oświadczeniami rządowymi dotyczącymi ich obowiązywania. Oświadczenia rządowe ogłaszane są w Dzienniku Rzeczypospolitej Polskiej ze wskazaniem miejsca publikacji uchwał będących przedmiotem ogłoszenia.
 
 3. Jeżeli wiążące Rzeczpospolitą Polską umowy międzynarodowe, w tym wiążące uchwały organizacji międzynarodowych ustanowionych tymi umowami, przewidują jednakowe traktowanie podmiotu polskiego i podmiotu obcego, minister właściwy do spraw transportu zapewni również w aktach wykonawczych do niniejszej ustawy jednakowe traktowanie tych podmiotów.
 
@@ -117,11 +296,11 @@ Art. 213–221. (pominięte)
 
 1. W ramach wykonywania zwierzchnictwa, o którym mowa w art. 4, w polskiej przestrzeni powietrznej zapewniane są służby żeglugi powietrznej zgodnie z:
 
-- **1)** przepisami prawa Unii Europejskiej dotyczącymi Jednolitej Europejskiej Przestrzeni Powietrznej, a w szczególności: UE L 96 z 31.03.2004, str. 20; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 41), Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 46);
-    - **a)** rozporządzeniem (WE) nr 549/2004 Parlamentu Europejskiego i Rady z dnia 10 marca 2004 r. ustanawiającym ramy tworzenia Jednolitej Europejskiej Przestrzeni Powietrznej (Dz. Urz. UE L 96 z 31.03.2004, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 23),
+- **1)** przepisami prawa Unii Europejskiej dotyczącymi Jednolitej Europejskiej Przestrzeni Powietrznej, a w szczególności: UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 23),
+    - **a)** rozporządzeniem (WE) nr 549/2004 Parlamentu Europejskiego i Rady z dnia 10 marca 2004 r. ustanawiającym ramy tworzenia Jednolitej Europejskiej Przestrzeni Powietrznej (Dz. Urz. UE L 96 z 31.03.2004, str. 1; Dz. Urz.
     - **b)** rozporządzeniem (WE) nr 550/2004 Parlamentu Europejskiego i Rady z dnia 10 marca 2004 r. w sprawie zapewnienia służb żeglugi powietrznej w Jednolitej Europejskiej Przestrzeni Powietrznej (Rozporządzenie w sprawie zapewniania służb) (Dz. Urz. UE L 96 z 31.03.2004, str. 10, z późn. zm.),
-    - **c)** rozporządzeniem (WE) nr 551/2004 Parlamentu Europejskiego i Rady z dnia 10 marca 2004 r. w sprawie organizacji i użytkowania przestrzeni powietrznej w Jednolitej Europejskiej Przestrzeni Powietrznej (Dz. Urz.
-    - **d)** rozporządzeniem (WE) nr 552/2004 Parlamentu Europejskiego i Rady z dnia 10 marca 2004 r. w sprawie interoperacyjności Europejskiej Sieci Zarządzania Ruchem Lotniczym (Dz. Urz. UE L 96 z 31.03.2004, str. 26;
+    - **c)** rozporządzeniem (WE) nr 551/2004 Parlamentu Europejskiego i Rady z dnia 10 marca 2004 r. w sprawie organizacji i użytkowania przestrzeni powietrznej w Jednolitej Europejskiej Przestrzeni Powietrznej (Dz. Urz. UE L 96 z 31.03.2004, str. 20; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 41),
+    - **d)** rozporządzeniem (WE) nr 552/2004 Parlamentu Europejskiego i Rady z dnia 10 marca 2004 r. w sprawie interoperacyjności Europejskiej Sieci Zarządzania Ruchem Lotniczym (Dz. Urz. UE L 96 z 31.03.2004, str. 26; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 46);
     - **e)** (uchylona)
 
 - **2)** umowami międzynarodowymi i przepisami międzynarodowymi;
@@ -137,9 +316,16 @@ Art. 213–221. (pominięte)
 
 **Art. 7.** W czasie lotu poza granicami polskiej przestrzeni powietrznej i w czasie przebywania na obszarze niepodlegającym zwierzchnictwu żadnego państwa polskie statki powietrzne oraz osoby i rzeczy na tych statkach podlegają prawu polskiemu, chyba że prawo to stanowi inaczej.
 
-**Art. 8.** Lot i manewrowanie statku powietrznego odbywają się zgodnie z przepisami obowiązującymi w granicach danego terytorium, a na obszarze niepodlegającym zwierzchnictwu żadnego państwa – zgodnie z przepisami międzynarodowymi.
+**Art. 8.** Lot i manewrowanie statku powietrznego odbywają się zgodnie z przepisami obowiązującymi w granicach danego terytorium, a na obszarze niepodlegającym zwierzchnictwu żadnego państwa zgodnie z przepisami międzynarodowymi.
 
 **Art. 9.** Polską ustawę karną stosuje się do obywateli polskich i cudzoziemców, którzy popełnili za granicą:
+
+- **1)** przestępstwo lub wykroczenie przeciwko Prawu lotniczemu, o których mowa w art. 210–212, jeżeli:
+    - **a)** sprawcą jest właściciel, użytkownik albo inny posiadacz bądź członek załogi polskiego statku powietrznego,
+    - **b)** sprawcą jest osoba mająca miejsce zamieszkania lub prowadząca przedsiębiorstwo w Rzeczypospolitej Polskiej, w tym członkowie władz takich przedsiębiorstw, będąca użytkownikiem obcego statku powietrznego, bądź członek załogi takiego statku,
+    - **c)** czyn został popełniony na polskim statku powietrznym albo na statku powietrznym, którego użytkownikiem jest osoba, o której mowa w lit. b;
+
+- **2)** przestępstwo lub wykroczenie przeciwko przepisom, o których mowa w art. 8, lub inne przestępstwo podlegające obowiązkowemu ściganiu zgodnie z międzynarodowymi umowami ratyfikowanymi przez Rzeczpospolitą Polską.
 
 **Art. 10.** (uchylony)
 
@@ -189,7 +375,7 @@ Art. 213–221. (pominięte)
 
 4. W skład Komisji wchodzą: przewodniczący, dwóch zastępców przewodniczącego, sekretarz i pozostali członkowie.
 
-5. W zakresie nawiązywania i rozwiązywania stosunku pracy do członków Komisji stosuje się przepisy ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277 i 807), z zastrzeżeniem przepisów niniejszej ustawy. Z dniem powołania z członkiem Komisji zostaje nawiązany stosunek pracy.
+5. W zakresie nawiązywania i rozwiązywania stosunku pracy do członków Komisji stosuje się przepisy ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277 i 807), z zastrzeżeniem przepisów niniejszej ustawy. Z dniem powołania z członkiem Komisji zostaje nawiązany stosunek pracy.
 
 6. Przewodniczącego Komisji powołuje minister właściwy do spraw transportu na okres 4 lat.
 
@@ -220,7 +406,7 @@ Art. 213–221. (pominięte)
     - **c)** ruchu lotniczego,
     - **d)** eksploatacji lotniczej;
 
-- **2)** inżynierowie – konstruktorzy lotniczy.
+- **2)** inżynierowie konstruktorzy lotniczy.
 
 15. Za specjalistów z danego zakresu uważa się osoby posiadające odpowiednie wykształcenie wyższe oraz udokumentowaną minimum pięcioletnią praktykę w danej dziedzinie.
 
@@ -404,18 +590,15 @@ Art. 213–221. (pominięte)
 - **25)** nadzorowanie prowadzenia przez zarządzających lotniskami ewidencji, o której mowa w art. 68 ust. 2 pkt 8, oraz analizowanie uzyskanych danych dla potrzeb związanych z działalnością Prezesa Urzędu;
 - **26)** nadzorowanie organizacji badań lotniczo-lekarskich;
 - **27)** przetwarzanie danych osobowych, w tym także danych medycznych oraz danych dotyczących skazań, orzeczeń o ukaraniu i mandatów karnych oraz danych osobowych przetwarzanych w systemach teleinformatycznych, o których mowa w art. 3b ust. 1 ustawy z dnia 8 grudnia 2006 r. o Polskiej Agencji Żeglugi Powietrznej (Dz. U. z 2025 r. poz. 1267), wyłącznie dla potrzeb rejestrów i postępowań określonych w ustawie oraz w ustawie z dnia 5 sierpnia 2022 r. o transporcie materiałów niebezpiecznych drogą powietrzną, zgodnie z przepisami o ochronie danych osobowych;
-- **28)** uzgadnianie projektów miejscowych planów zagospodarowania przestrzennego i projektów decyzji o warunkach zabudowy i zagospodarowania terenu oraz opiniowanie projektów planów ogólnych gmin i projektów planów zagospodarowania przestrzennego województwa, w zakresie przewidzianym w ustawie;
+- **28)** uzgadnianie projektów planów ogólnych gmin, projektów miejscowych planów zagospodarowania przestrzennego i projektów decyzji o warunkach zabudowy i zagospodarowania terenu oraz opiniowanie projektów planów zagospodarowania przestrzennego województwa, w zakresie przewidzianym w ustawie;
 - **29)** wykonywanie zadań określonych w art. 18 lit. a–e, g–k oraz m rozporządzenia nr 2019/947/UE;
-- **30)** autoryzacja jednostek oceniających zgodność systemów bezzałogowych statków powietrznych na zasadach określonych w ustawie z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2025 r. poz. 568) oraz notyfikowanie tych jednostek Komisji Europejskiej oraz innym państwom członkowskim Unii Europejskiej na zasadach określonych w sekcji 4 rozporządzenia delegowanego Komisji (UE) 2019/945 z dnia 12 marca 2019 r. w sprawie systemów bezzałogowych statków powietrznych oraz operatorów systemów bezzałogowych statków powietrznych z państw trzecich (Dz. Urz. UE L 152 z 11.06.2019, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem nr 2019/945/UE”;
-- **31)** sprawowanie nadzoru nad stosowaniem zharmonizowanych przepisów dotyczących upowszechniania i dostaw zrównoważonych paliw lotniczych (SAF) w rozumieniu art. 3 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/2405 z dnia 18 października 2023 r. w sprawie zapewnienia równych warunków działania dla zrównoważonego transportu lotniczego (ReFuelEU Aviation) (Dz. Urz. UE L 2023/2405 z 31.10.2023, z późn. zm. ), zwanego dalej „rozporządzeniem nr 2023/2405”, przez:
-    - **a)** operatorów statków powietrznych w rozumieniu art. 3 pkt 3 rozporządzenia nr 2023/2405 i osoby, o których mowa w art. 2 ust. 3 rozporządzenia nr 2023/2405, które dokonały powiadomienia, o którym mowa w tym przepisie, zwanych dalej „operatorami statków powietrznych”,
-    - **b)** organy zarządzające unijnymi portami lotniczymi w rozumieniu art. 3 pkt 2 rozporządzenia nr 2023/2405.
+- **30)** autoryzacja jednostek oceniających zgodność systemów bezzałogowych statków powietrznych na zasadach określonych w ustawie z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2025 r. poz. 568) oraz notyfikowanie tych jednostek Komisji Europejskiej oraz innym państwom członkowskim Unii Europejskiej na zasadach określonych w sekcji 4 rozporządzenia delegowanego Komisji (UE) 2019/945 z dnia 12 marca 2019 r. w sprawie systemów bezzałogowych statków powietrznych oraz operatorów systemów bezzałogowych statków powietrznych z państw trzecich (Dz. Urz. UE L 152 z 11.06.2019, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem nr 2019/945/UE”.
 
 2a. W zakresie, o którym mowa w ust. 2, Prezes Urzędu wykonuje uprawnienia państwa członkowskiego Unii Europejskiej, właściwego organu państwa członkowskiego oraz kompetentnej władzy państwa członkowskiego określone w rozporządzeniach i decyzjach Unii Europejskiej, niezastrzeżone w niniejszej ustawie, innych ustawach oraz umowach międzynarodowych na rzecz ministra właściwego do spraw transportu, innych organów administracji publicznej lub Polskiej Agencji Żeglugi Powietrznej.
 
 2b. W zakresie objętym rozporządzeniem nr 2018/1139/UE oraz rozporządzeniami delegowanymi lub wykonawczymi do niego, Prezes Urzędu, w drodze decyzji administracyjnej, rozstrzyga o odstępstwach od istotnych wymagań ustanowionych w tych rozporządzeniach, na warunkach określonych w art. 71 rozporządzenia nr 2018/1139/UE.
 
-2c. W sprawach, o których mowa w ust. 2b, Prezes Urzędu może, zgodnie z art. 49 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769), zawiadomić o decyzjach i innych czynnościach podjętych w toku postępowania w drodze obwieszczenia lub przez udostępnienie pisma w Biuletynie Informacji Publicznej na stronie podmiotowej Prezesa Urzędu.
+2c. W sprawach, o których mowa w ust. 2b, Prezes Urzędu może, zgodnie z art. 49 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769), zawiadomić o decyzjach i innych czynnościach podjętych w toku postępowania w drodze obwieszczenia lub przez udostępnienie pisma w Biuletynie Informacji Publicznej na stronie podmiotowej Prezesa Urzędu.
 
 2d. W zakresie, o którym mowa w art. 4 ust. 1 rozporządzenia wykonawczego Komisji (UE) nr 923/2012 z dnia 26 września 2012 r. ustanawiającego wspólne zasady w odniesieniu do przepisów lotniczych i operacyjnych dotyczących służb i procedur żeglugi powietrznej oraz zmieniającego rozporządzenie wykonawcze (WE) nr 1035/2011 oraz rozporządzenia (WE) nr 1265/2007, (WE) nr 1794/2006, (WE) nr 730/2006, (WE) nr 1033/2006 i (UE) nr 255/2010 (Dz. Urz. UE L 281 z 13.10.2012, str. 1), Prezes Urzędu, z urzędu albo na wniosek zainteresowanego podmiotu, w drodze decyzji administracyjnej, zwalnia z przestrzegania szczegółowych wymogów tego rozporządzenia.
 
@@ -442,22 +625,22 @@ Art. 213–221. (pominięte)
 
 **Art. 21a.**
 
-1. Wnioski o dokonanie czynności, o których mowa w art. 66e ust. 1, art. 145a ust. 1, art. 191 ust. 5 i art. 193 ust. 1 i 2, przedstawiane Prezesowi Urzędu dokumenty, o których mowa w art. 201a ust. 1 i 2, a także zawiadomienie Prezesa Urzędu, o którym mowa w art. 196b ust. 1, mogą być składane w języku angielskim.
+1. Wnioski o dokonanie czynności, o których mowa w art. 145a ust. 1, art. 191 ust. 5 i art. 193 ust. 1 i 2, przedstawiane Prezesowi Urzędu dokumenty, o których mowa w art. 201a ust. 1 i 2, a także zawiadomienie Prezesa Urzędu, o którym mowa w art. 196b ust. 1, mogą być składane w języku angielskim.
 
 2. Dokumenty:
 
 - **1)** dołączane w sprawach, o których mowa w ust. 1, art. 21 ust. 2b, art. 49, art. 52 ust. 2, art. 53 ust. 2, art. 53a ust. 1, art. 96 ust. 1 i art. 161 ust. 1,
-- **2)** określone w art. 37 ust. 3, art. 192a ust. 2 pkt 1 i art. 195 ust. 1 pkt 2 – mogą być składane w języku angielskim.
+- **2)** określone w art. 37 ust. 3, art. 192a ust. 2 pkt 1 i art. 195 ust. 1 pkt 2 mogą być składane w języku angielskim.
 
 3. W przypadkach, o których mowa w ust. 1 i 2, na żądanie Prezesa Urzędu podmiot przedkłada tłumaczenie wniosku, dokumentu lub zawiadomienia na język polski.
 
-4. Wnioski o dokonanie czynności, o których mowa w art. 66e ust. 1, art. 193 ust. 1 i 2, dokumenty, o których mowa w art. 201a ust. 1 i 2, a także zawiadomienie Prezesa Urzędu, o którym mowa w art. 196b ust. 1, mogą być kopiami.
+4. Wnioski o dokonanie czynności, o których mowa w art. 193 ust. 1 i 2, dokumenty, o których mowa w art. 201a ust. 1 i 2, a także zawiadomienie Prezesa Urzędu, o którym mowa w art. 196b ust. 1, mogą być kopiami.
 
 5. Dokumenty:
 
 - **1)** dołączane w sprawach, o których mowa w ust. 1, oraz w art. 21 ust. 2b,
 - **2)** określone w art. 192a ust. 2 pkt 1 oraz w art. 195 ust. 1 pkt 2,
-- **3)** określone w przepisach wydanych na podstawie art. 202 – mogą być kopiami.
+- **3)** określone w przepisach wydanych na podstawie art. 202 mogą być kopiami.
 
 **Art. 21b.**
 
@@ -512,9 +695,18 @@ Art. 213–221. (pominięte)
 
 **Art. 22c.** Minister właściwy do spraw transportu określi, w drodze rozporządzenia, z uwzględnieniem zasad udzielania i rozliczania dotacji oraz przepisów międzynarodowych i przepisów prawa Unii Europejskiej dotyczących pomocy publicznej:
 
+- **1)** szczegółowe warunki i tryb oraz kryteria rozdziału środków budżetowych przeznaczonych na dofinansowanie:
+    - **a)** zakupu sprzętu i urządzeń niezbędnych dla zapewnienia bezpieczeństwa działalności lotniczej i realizacji nadzoru w tym zakresie, o którym mowa w art. 22b,
+    - **b)** obowiązku użyteczności publicznej, o którym mowa w art. 183 i 197;
+
+- **2)** dokumenty, które należy dołączyć do wniosku o dofinansowanie;
+- **3)** terminy składania i rozpatrywania wniosków o dofinansowanie;
+- **4)** wzór wniosku o dofinansowanie;
+- **5)** szczegółowe warunki i tryb przekazywania i rozliczania dofinansowania.
+
 **Art. 23.**
 
-1. Prezes Urzędu wydaje Dziennik Urzędowy Urzędu Lotnictwa Cywilnego.
+1. Prezes Urzędu wydaje Urzędowy Urzędu Lotnictwa Cywilnego.
 
 2. W dzienniku urzędowym ogłasza się w szczególności:
 
@@ -546,14 +738,14 @@ Art. 213–221. (pominięte)
 
 - **1)** czynności wykonywane przez Prezesa Urzędu w związku z wydawaniem uprawnień wynikających z zezwoleń, promes, certyfikatów, świadectw, zaświadczeń, licencji oraz innych dokumentów określonych w niniejszej ustawie i jej przepisach wykonawczych, przepisach prawa Unii Europejskiej oraz przepisach międzynarodowych,
 - **2)** sprawowanie nadzoru nad instytucjami zapewniającymi służby żeglugi powietrznej,
-- **3)** sprawowanie nadzoru nad podmiotami posiadającymi certyfikat, innymi niż określone w pkt 2, w tym w zakresie działalności wykonywanej poza terytorium Rzeczypospolitej Polskiej, 3a) sprawowanie nadzoru nad podmiotami posiadającymi wykaz zatwierdzeń szczególnych, zgłaszającymi wykonywanie zarobkowych operacji specjalistycznych, zgłaszającymi wykonywanie operacji niezarobkowych skomplikowanym statkiem powietrznym z napędem silnikowym, posiadającymi zezwolenie na wykonywanie zarobkowych operacji specjalistycznych wysokiego ryzyka lub posiadającymi zezwolenie na wykonywanie zarobkowych operacji polegających na wykonywaniu lotów przeciwpożarowych i gaśniczych, 3b) sprawowanie nadzoru nad: 6 rozporządzenia nr 2019/947/UE, – posiadają uprawnienie do prowadzenia szkolenia praktycznego i oceny umiejętności praktycznych, o którym mowa w art. 156o ust. 1 pkt 2,
-    - **a)** operatorami systemów bezzałogowych statków powietrznych, którzy: – złożyli oświadczenie, o którym mowa w art. 5 ust. 5 rozporządzenia nr 2019/947/UE, lub oświadczenie o wykonywaniu operacji zgodnie z krajowym scenariuszem standardowym, – posiadają zezwolenie na operację, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE, – posiadają zezwolenie na operację, o którym mowa w art. 16 ust. 1 rozporządzenia nr 2019/947/UE, – posiadają certyfikat operatora lekkich systemów bezzałogowych statków powietrznych w rozumieniu art. 2 pkt 9 rozporządzenia nr 2019/947/UE (certyfikat LUC), – wykonują operacje w kategorii „certyfikowanej”, o której mowa w art.
+- **3)** sprawowanie nadzoru nad podmiotami posiadającymi certyfikat, innymi niż określone w pkt 2, w tym w zakresie działalności wykonywanej poza terytorium Rzeczypospolitej Polskiej, 3a) sprawowanie nadzoru nad podmiotami posiadającymi wykaz zatwierdzeń szczególnych, zgłaszającymi wykonywanie zarobkowych operacji specjalistycznych, zgłaszającymi wykonywanie operacji niezarobkowych skomplikowanym statkiem powietrznym z napędem silnikowym, posiadającymi zezwolenie na wykonywanie zarobkowych operacji specjalistycznych wysokiego ryzyka lub posiadającymi zezwolenie na wykonywanie zarobkowych operacji polegających na wykonywaniu lotów przeciwpożarowych i gaśniczych, 3b) sprawowanie nadzoru nad:
+    - **a)** operatorami systemów bezzałogowych statków powietrznych, którzy: złożyli oświadczenie, o którym mowa w art. 5 ust. 5 rozporządzenia nr 2019/947/UE, lub oświadczenie o wykonywaniu operacji zgodnie z krajowym scenariuszem standardowym, posiadają zezwolenie na operację, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE, posiadają zezwolenie na operację, o którym mowa w art. 16 ust. 1 rozporządzenia nr 2019/947/UE, posiadają certyfikat operatora lekkich systemów bezzałogowych statków powietrznych w rozumieniu art. 2 pkt 9 rozporządzenia nr 2019/947/UE (certyfikat LUC), wykonują operacje w kategorii „certyfikowanej”, o której mowa w art. 6 rozporządzenia nr 2019/947/UE, posiadają uprawnienie do prowadzenia szkolenia praktycznego i oceny umiejętności praktycznych, o którym mowa w art. 156o ust. 1 pkt 2,
     - **b)** wyznaczonymi podmiotami, o których mowa w art. 156n ust. 1,
     - **c)** uznanymi podmiotami, o których mowa w art. 156o ust. 1 pkt 1,
 
 - **4)** wydawane przez Prezesa Urzędu koncesje, zezwolenia, promesy, licencje, świadectwa, upoważnienia, zaświadczenia i inne dokumenty określone w Prawie lotniczym i w jego przepisach wykonawczych, przepisach prawa Unii Europejskiej oraz przepisach międzynarodowych,
 - **5)** przeprowadzane przez Prezesa Urzędu egzaminy,
-- **6)** sprawowanie nadzoru nad budową w pojedynczym egzemplarzu lotni, paralotni, spadochronu, motolotni lub ultralekkiego statku powietrznego – chyba, że są objęte obowiązkiem opłaty pobieranej przez EASA albo uiszczenia wpłaty, o której mowa w art. 26d.
+- **6)** sprawowanie nadzoru nad budową w pojedynczym egzemplarzu lotni, paralotni, spadochronu, motolotni lub ultralekkiego statku powietrznego chyba, że są objęte obowiązkiem opłaty pobieranej przez EASA albo uiszczenia wpłaty, o której mowa w art. 26d.
 
 2. Stawki opłat, o których mowa w ust. 1, określa załącznik nr 6 do ustawy, z zastrzeżeniem art. 26i.
 
@@ -561,20 +753,16 @@ Art. 213–221. (pominięte)
 
 4. Na podstawie wskaźnika, o którym mowa w ust. 3, minister właściwy do spraw transportu ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w terminie do dnia 15 lutego danego roku, w drodze obwieszczenia, stawki, o których mowa w ust. 2, zaokrąglając je w górę do pełnych złotych.
 
-5. Za czynności urzędowe, o których mowa w tabeli nr 1 część III podczęść
-
-3. 3 ust. 1 pkt 7, ust. 2 pkt 1, ust. 4 pkt 2 lit. d oraz podczęść
-
-3. 13 ust. 34 pkt 5 załącznika nr 6 do ustawy, Prezes Urzędu ustala, w drodze decyzji administracyjnej, wysokość opłaty lotniczej, biorąc pod uwagę rodzaj sprzętu lotniczego oraz lotniska będącego przedmiotem dokonywanej czynności urzędowej lub stopień skomplikowania czynności urzędowej.
+5. Za czynności urzędowe, o których mowa w tabeli nr 1 część III podczęść 3.3 ust. 1 pkt 7, ust. 2 pkt 1, ust. 4 pkt 2 lit. d oraz podczęść 3.13 ust. 34 pkt 5 załącznika nr 6 do ustawy, Prezes Urzędu ustala, w drodze decyzji administracyjnej, wysokość opłaty lotniczej, biorąc pod uwagę rodzaj sprzętu lotniczego oraz lotniska będącego przedmiotem dokonywanej czynności urzędowej lub stopień skomplikowania czynności urzędowej.
 
 6. Opłaty lotnicze za czynności określone w:
 
-- **1)** ust. 1 pkt 1, 4–6 – są pobierane od podmiotów występujących o dokonanie czynności lub wydanie dokumentów wymienionych w tych przepisach albo przystępujących do egzaminów, albo podmiotów, których czynność dotyczy;
-- **2)** ust. 1 pkt 2 – są pobierane od instytucji zapewniających służby żeglugi powietrznej;
-- **3)** ust. 1 pkt 3 – są pobierane od podmiotów, które uzyskały certyfikat;
-- **4)** ust. 1 pkt 3a – są pobierane od podmiotów posiadających wykaz zatwierdzeń szczególnych, zgłaszających wykonywanie zarobkowych operacji specjalistycznych, zgłaszających wykonywanie operacji niezarobkowych skomplikowanym statkiem powietrznym z napędem silnikowym, posiadających zezwolenie na wykonywanie zarobkowych operacji specjalistycznych wysokiego ryzyka lub posiadających zezwolenie na wykonywanie zarobkowych operacji polegających na wykonywaniu lotów przeciwpożarowych i gaśniczych;
-- **5)** ust. 1 pkt 3b – są pobierane od: 6 rozporządzenia nr 2019/947/UE, – posiadają uprawnienie do prowadzenia szkolenia praktycznego i oceny umiejętności praktycznych, o którym mowa w art. 156o ust. 1 pkt 2,
-    - **a)** operatorów systemów bezzałogowych statków powietrznych, którzy: – złożyli oświadczenie, o którym mowa w art. 5 ust. 5 rozporządzenia nr 2019/947/UE, lub oświadczenie o wykonywaniu operacji zgodnie z krajowym scenariuszem standardowym, – posiadają zezwolenie na operację, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE, – posiadają zezwolenie na operację, o którym mowa w art. 16 ust. 1 rozporządzenia nr 2019/947/UE, – posiadają certyfikat LUC, – wykonują operacje w kategorii „certyfikowanej”, o której mowa w art.
+- **1)** ust. 1 pkt 1, 4–6 są pobierane od podmiotów występujących o dokonanie czynności lub wydanie dokumentów wymienionych w tych przepisach albo przystępujących do egzaminów, albo podmiotów, których czynność dotyczy;
+- **2)** ust. 1 pkt 2 są pobierane od instytucji zapewniających służby żeglugi powietrznej;
+- **3)** ust. 1 pkt 3 są pobierane od podmiotów, które uzyskały certyfikat;
+- **4)** ust. 1 pkt 3a są pobierane od podmiotów posiadających wykaz zatwierdzeń szczególnych, zgłaszających wykonywanie zarobkowych operacji specjalistycznych, zgłaszających wykonywanie operacji niezarobkowych skomplikowanym statkiem powietrznym z napędem silnikowym, posiadających zezwolenie na wykonywanie zarobkowych operacji specjalistycznych wysokiego ryzyka lub posiadających zezwolenie na wykonywanie zarobkowych operacji polegających na wykonywaniu lotów przeciwpożarowych i gaśniczych;
+- **5)** ust. 1 pkt 3b są pobierane od:
+    - **a)** operatorów systemów bezzałogowych statków powietrznych, którzy: złożyli oświadczenie, o którym mowa w art. 5 ust. 5 rozporządzenia nr 2019/947/UE, lub oświadczenie o wykonywaniu operacji zgodnie z krajowym scenariuszem standardowym, posiadają zezwolenie na operację, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE, posiadają zezwolenie na operację, o którym mowa w art. 16 ust. 1 rozporządzenia nr 2019/947/UE, posiadają certyfikat LUC, wykonują operacje w kategorii „certyfikowanej”, o której mowa w art. 6 rozporządzenia nr 2019/947/UE, posiadają uprawnienie do prowadzenia szkolenia praktycznego i oceny umiejętności praktycznych, o którym mowa w art. 156o ust. 1 pkt 2,
     - **b)** wyznaczonych podmiotów, o których mowa w art. 156n ust. 1,
     - **c)** uznanych podmiotów, o których mowa w art. 156o ust. 1 pkt 1.
 
@@ -586,14 +774,14 @@ Art. 213–221. (pominięte)
 
 **Art. 26b.**
 
-1. Prezes Urzędu określa, na zasadzie wzajemności, z wyjątkiem przewoźników lotniczych pochodzących z państw członkowskich Unii Europejskiej oraz państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, w stosunku do obcego przewoźnika lotniczego opłatę lotniczą za zezwolenia na wykonywanie przewozu lotniczego w wysokości stawki zerowej, w przypadku gdy odpowiednie przepisy w państwie ustanowienia tego przewoźnika taką opłatę przewidują, a polscy przewoźnicy nie są zobowiązani do jej uiszczenia.
+1. Prezes Urzędu określa, na zasadzie wzajemności, z wyjątkiem przewoźników lotniczych pochodzących z państw członkowskich Unii Europejskiej oraz państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym, w stosunku do obcego przewoźnika lotniczego opłatę lotniczą za zezwolenia na wykonywanie przewozu lotniczego w wysokości stawki zerowej, w przypadku gdy odpowiednie przepisy w państwie ustanowienia tego przewoźnika taką opłatę przewidują, a polscy przewoźnicy nie są zobowiązani do jej uiszczenia.
 
 2. Do ulgi w opłatach lotniczych za egzaminy przeprowadzane przez Prezesa Urzędu są uprawnieni:
 
-- **1)** osoby, które nie ukończyły 21 lat – ulga w wysokości 25 % stawki opłaty lotniczej;
-- **2)** osoby uczące się, które nie ukończyły 25 lat – ulga w wysokości 50 % stawki opłaty lotniczej;
-- **3)** żołnierze odbywający obowiązkową zasadniczą służbę wojskową – ulga w wysokości 50 % stawki opłaty lotniczej;
-- **4)** osoby niepełnosprawne – ulga w wysokości 50 % stawki opłaty lotniczej.
+- **1)** osoby, które nie ukończyły 21 lat ulga w wysokości 25 % stawki opłaty lotniczej;
+- **2)** osoby uczące się, które nie ukończyły 25 lat ulga w wysokości 50 % stawki opłaty lotniczej;
+- **3)** żołnierze odbywający obowiązkową zasadniczą służbę wojskową ulga w wysokości 50 % stawki opłaty lotniczej;
+- **4)** osoby niepełnosprawne ulga w wysokości 50 % stawki opłaty lotniczej.
 
 **Art. 26c.** Wysokość opłaty lotniczej za czynności urzędowe polegające na wydaniu licencji lub świadectwa kwalifikacji po raz pierwszy w sytuacji, gdy licencję lub świadectwo kwalifikacji wydaje się z co najmniej jednym uprawnieniem, kategorią lub podkategorią, stanowi wyłącznie równowartość opłaty przewidzianej za wydanie danej licencji lub świadectwa kwalifikacji, niepowiększoną dodatkowo o opłatę lotniczą za uprawnienie, kategorię lub podkategorię, które muszą być wpisane do licencji lub świadectwa kwalifikacji.
 
@@ -629,7 +817,9 @@ Art. 213–221. (pominięte)
 
 1. Opłatę lotniczą, za sprawowanie bieżącego nadzoru, o której mowa w art. 26a ust. 1 pkt 2 i 3, za pierwszy rok posiadania certyfikatu, wnosi się w 12 miesiącu posiadania certyfikatu, najpóźniej do 30. dnia tego miesiąca.
 
-2. Opłatę, o której mowa w ust. 1, za każdy następny rok posiadania certyfikatu, wnosi się po upływie kolejnych 12 miesięcy liczonych od dnia uiszczenia tej opłaty za poprzedni rok sprawowania bieżącego nadzoru, nie później niż do 30. dnia tego miesiąca, w którym przypada płatność.
+2. Opłatę, o której mowa w ust. 1, za każdy następny rok posiadania certyfikatu, wnosi się po upływie kolejnych 12 miesięcy liczonych od dnia uiszczenia tej opłaty za poprzedni rok sprawowania bieżącego nadzoru, nie później niż do
+
+30. dnia tego miesiąca, w którym przypada płatność.
 
 3. W przypadku wydania certyfikatu na okres krótszy niż 12 miesięcy opłatę, o której mowa w ust. 1, wnosi się najpóźniej do 30. dnia ostatniego pełnego miesiąca ważności certyfikatu, w wysokości proporcjonalnej do liczby pełnych miesięcy kalendarzowych, na jakie certyfikat został wydany.
 
@@ -677,7 +867,7 @@ Art. 213–221. (pominięte)
 
 1. Opłatę lotniczą oraz wpłatę z tytułu zwrotu kosztów dodatkowych, o której mowa w art. 26j ust. 2, wnosi się na rachunek bankowy Urzędu lub poprzez wpłatę do kasy Urzędu.
 
-2. Uiszczając opłatę wnioskodawca lub podmiot nadzorowany wskazuje rodzaj czynności, za które wnosi opłatę, a w przypadku wpłaty z tytułu zwrotu kosztów dodatkowych – numer dokumentu obciążającego go tymi kosztami.
+2. Uiszczając opłatę wnioskodawca lub podmiot nadzorowany wskazuje rodzaj czynności, za które wnosi opłatę, a w przypadku wpłaty z tytułu zwrotu kosztów dodatkowych numer dokumentu obciążającego go tymi kosztami.
 
 **Art. 26l.**
 
@@ -693,9 +883,9 @@ Art. 213–221. (pominięte)
 
 2. Opłaty lotnicze oraz wpłata lotnicza stanowią dochód budżetu państwa.
 
-3. W zakresie nieuregulowanym w ustawie do opłat lotniczych i wpłaty lotniczej, stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ). Uprawnienia organów podatkowych określone w tych przepisach przysługują Prezesowi Urzędu.
+3. W zakresie nieuregulowanym w ustawie do opłat lotniczych i wpłaty lotniczej, stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ). Uprawnienia organów podatkowych określone w tych przepisach przysługują Prezesowi Urzędu.
 
-**Art. 26n.** Przepisy art. 26b–26m stosuje się do pobierania opłat lotniczych za czynności urzędowe dokonywane przez podmioty upoważnione przez Prezesa Urzędu na podstawie art. 22 ust. 3 niniejszej ustawy lub art. 1 pkt 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+**Art. 26n.** Przepisy art. 26b–26m stosuje się do pobierania opłat lotniczych za czynności urzędowe dokonywane przez podmioty upoważnione przez Prezesa Urzędu na podstawie art. 22 ust. 3 niniejszej ustawy lub art. 1 pkt 2 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
 
 #### Rozdział 3 Kontrola i postępowanie pokontrolne
 
@@ -728,9 +918,9 @@ Art. 213–221. (pominięte)
 - **1)** zabezpieczenia statku powietrznego, w celu niedopuszczenia do jego używania, jeżeli:
     - **a)** statek ten znajduje się w nieodpowiednim stanie technicznym, jest używany przez osoby nieuprawnione lub w przypadku gdy stwierdzono naruszenie zasad bezpiecznego użytkowania statków powietrznych,
     - **b)** statek ten zagrożony jest aktem bezprawnej ingerencji w lotnictwie cywilnym, zwanym dalej „aktem bezprawnej ingerencji”,
-    - **c)** nie okazano dokumentu stwierdzającego zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej lub stwierdzającego opłacenie składki tego ubezpieczenia – jeżeli obowiązek zawarcia umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej wynika z przepisów dotyczących ubezpieczeń w odniesieniu do przewoźników lotniczych i użytkowników statków powietrznych;
+    - **c)** nie okazano dokumentu stwierdzającego zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej lub stwierdzającego opłacenie składki tego ubezpieczenia jeżeli obowiązek zawarcia umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej wynika z przepisów dotyczących ubezpieczeń w odniesieniu do przewoźników lotniczych i użytkowników statków powietrznych;
 
-- **2)** zabezpieczenia lub przyjęcia do depozytu lotniczego urządzenia naziemnego, o którym mowa w art. 86, znajdującego się w nieodpowiednim stanie technicznym lub używanego przez osoby nieuprawnione – w celu niedopuszczenia do jego używania;
+- **2)** zabezpieczenia lub przyjęcia do depozytu lotniczego urządzenia naziemnego, o którym mowa w art. 86, znajdującego się w nieodpowiednim stanie technicznym lub używanego przez osoby nieuprawnione w celu niedopuszczenia do jego używania;
 - **2a)** zabezpieczenia lub przyjęcia do depozytu, w celu niedopuszczenia do jego używania, systemu bezzałogowego statku powietrznego znajdującego się w nieodpowiednim stanie technicznym lub używanego przez osoby nieuprawnione, lub używanego z naruszeniem zasad bezpiecznego użytkowania;
 - **3)** wstrzymania lub ograniczenia eksploatacji lotniska albo lądowiska lub ich części, jeżeli dalsza ich eksploatacja zagraża życiu lub zdrowiu ludzi albo zagraża bezpieczeństwu działalności lotniczej lub porządkowi publicznemu;
 - **4)** wstrzymania lub ograniczenia prowadzonej działalności szkoleniowej wykonywanej w ramach certyfikowanej organizacji szkolenia w przypadku stwierdzenia nieprawidłowości poziomu 1, o której mowa w ARA.GEN.350 lit. b załącznika VI do rozporządzenia Komisji (UE) nr 1178/2011 z dnia 3 listopada 2011 r. ustanawiającego wymagania techniczne i procedury administracyjne odnoszące się do załóg w lotnictwie cywilnym zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz. UE L 311 z 25.11.2011, str. 1, z późn. zm.), do czasu podjęcia przez tę organizację skutecznych działań naprawczych;
@@ -738,7 +928,7 @@ Art. 213–221. (pominięte)
 - **5)** wstrzymania lub ograniczenia prowadzonej działalności w ramach certyfikatu przewoźnika lotniczego, organizacji zgłaszających działalność oraz operacji specjalistycznych w przypadku stwierdzenia nieprawidłowości poziomu 1, o której mowa w ARO.GEN.350 lit. b załącznika II do rozporządzenia Komisji (UE) nr 965/2012 z dnia 5 października 2012 r. ustanawiającego wymagania techniczne i procedury administracyjne odnoszące się do operacji lotniczych zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz. UE L 296 z 25.10.2012, str. 1, z późn. zm.), do czasu podjęcia przez podmiot skutecznych działań naprawczych;
 - **6)** wstrzymania lub ograniczenia prowadzonej działalności w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, w ramach:
     - **a)** zezwolenia na operację albo
-    - **b)** certyfikatu LUC oraz oświadczenia, o którym mowa w art. 5 ust. 5 rozporządzenia nr 2019/947/UE, lub oświadczenia o wykonywaniu operacji zgodnie z krajowym scenariuszem standardowym – do czasu podjęcia przez podmiot skutecznych działań naprawczych.
+    - **b)** certyfikatu LUC oraz oświadczenia, o którym mowa w art. 5 ust. 5 rozporządzenia nr 2019/947/UE, lub oświadczenia o wykonywaniu operacji zgodnie z krajowym scenariuszem standardowym do czasu podjęcia przez podmiot skutecznych działań naprawczych.
 
 3b. Decyzji, o której mowa w ust. 3a, nadaje się rygor natychmiastowej wykonalności.
 
@@ -746,15 +936,15 @@ Art. 213–221. (pominięte)
 
 5. Czynności kontrolne przeprowadza się po doręczeniu upoważnienia do przeprowadzenia kontroli wydanego przez Prezesa Urzędu oraz po okazaniu, w celu ustalenia tożsamości:
 
-- **1)** legitymacji służbowej – w przypadku pracownika Urzędu;
-- **2)** dowodu tożsamości – w przypadku osoby niebędącej pracownikiem Urzędu.
+- **1)** legitymacji służbowej w przypadku pracownika Urzędu;
+- **2)** dowodu tożsamości w przypadku osoby niebędącej pracownikiem Urzędu.
 
 6. Prezes Urzędu może w formie pisemnej upoważnić pracowników Urzędu do wydawania, w jego imieniu, upoważnień, o których mowa w ust. 5.
 
 7. Kontrole niezapowiedziane statków powietrznych i ich załóg, systemów bezzałogowych statków powietrznych i ich operatorów oraz lotnisk przeprowadza się po okazaniu upoważnienia do przeprowadzenia kontroli wydanego przez Prezesa Urzędu oraz po okazaniu, w celu ustalenia tożsamości:
 
-- **1)** legitymacji służbowej – w przypadku pracownika Urzędu;
-- **2)** dowodu tożsamości – w przypadku osoby niebędącej pracownikiem Urzędu.
+- **1)** legitymacji służbowej w przypadku pracownika Urzędu;
+- **2)** dowodu tożsamości w przypadku osoby niebędącej pracownikiem Urzędu.
 
 8. Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia 2016/679, nie wpływa na przebieg i wynik kontroli prowadzonych przez Prezesa Urzędu na podstawie ustawy.
 
@@ -994,6 +1184,10 @@ Art. 213–221. (pominięte)
 
 **Art. 42.** Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
 
+- **1)** szczegółowe warunki prowadzenia rejestru statków, tryb składania wniosków o wpis do rejestru statków, zgłaszania zmiany danych rejestrowych, a także wzór świadectwa rejestracji oraz warunki jego ważności, z uwzględnieniem w szczególności rodzaju i charakterystyki statku powietrznego;
+- **2)** znaki rozpoznawcze oraz inne znaki i napisy umieszczane na statkach powietrznych, z uwzględnieniem ich opisu, sposobu i miejsca ich umieszczania;
+- **3)** sposób prowadzenia wykazu znaków rozpoznawczych wykorzystywanych do lotów przez statki powietrzne niewpisane do rejestru statków, w tym dane zamieszczane w wykazie, z uwzględnieniem możliwości weryfikacji tego wykazu.
+
 **Art. 43.**
 
 1. Minister Obrony Narodowej prowadzi rejestr wojskowych statków powietrznych.
@@ -1006,7 +1200,7 @@ Art. 213–221. (pominięte)
 
 **Art. 44.**
 
-1. Minister właściwy do spraw wewnętrznych prowadzi rejestr statków powietrznych lotnictwa służb porządku publicznego, z wyłączeniem rejestru bezzałogowych statków powietrznych.
+- **40)** 1. Minister właściwy do spraw wewnętrznych prowadzi rejestr statków powietrznych lotnictwa służb porządku publicznego, z wyłączeniem rejestru bezzałogowych statków powietrznych.
 
 2. Komendant Główny Policji, Komendant Główny Straży Granicznej, Komendant Główny Państwowej Straży Pożarnej oraz Komendant Służby Ochrony Państwa prowadzą odrębnie dla każdej ze służb rejestry bezzałogowych statków powietrznych używanych przez te służby.
 
@@ -1016,7 +1210,7 @@ Art. 213–221. (pominięte)
 
 **Art. 44a.**
 
-1. Szefowie służb specjalnych, o których mowa w art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, prowadzą rejestry statków powietrznych używanych przez te służby.
+- **41)** 1. Szefowie służb specjalnych, o których mowa w art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, prowadzą rejestry statków powietrznych używanych przez te służby.
 
 2. Szefowie służb specjalnych, o których mowa w art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, określą, w drodze zarządzeń, z uwzględnieniem wymogów dotyczących ochrony informacji niejawnych, odrębnie dla każdej ze służb specjalnych, sposób prowadzenia rejestru bezzałogowych statków powietrznych służb specjalnych, tryb dokonywania wpisów i wykreśleń w rejestrze oraz wzór rejestru, a także wzór wniosku o wpisanie do rejestru, zmianę danych w rejestrze lub wykreślenie z rejestru.
 
@@ -1038,7 +1232,7 @@ Art. 213–221. (pominięte)
 
 1. Dla statków powietrznych nieobjętych nadzorem EASA Prezes Urzędu, w drodze decyzji administracyjnej, wydaje zgodnie z wymaganiami Załącznika 8 do Konwencji, o której mowa w art. 3 ust. 2, dyrektywy zdatności określające obowiązki dla użytkowników i właścicieli statków powietrznych w zakresie ciągłej zdatności do lotu statku powietrznego.
 
-2. W sprawach, o których mowa w ust. 1, Prezes Urzędu może, zgodnie z art. 49 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, zawiadomić o decyzjach i innych czynnościach podjętych w toku postępowania w drodze obwieszczenia ogłaszanego w Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego.
+2. W sprawach, o których mowa w ust. 1, Prezes Urzędu może, zgodnie z art. 49 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, zawiadomić o decyzjach i innych czynnościach podjętych w toku postępowania w drodze obwieszczenia ogłaszanego w Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego.
 
 3. Decyzje, o których mowa w ust. 1, podlegają ogłoszeniu w Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego.
 
@@ -1085,15 +1279,15 @@ Art. 213–221. (pominięte)
 1. Dla statku powietrznego, silnika lub śmigła, przeznaczonego na eksport do państwa trzeciego, Prezes Urzędu stwierdza zgodność statku powietrznego, silnika lub śmigła z:
 
 - **1)** wymaganiami określonymi w certyfikacie typu wydanym albo uznanym przez:
-    - **a)** EASA – w przypadku statku powietrznego objętego nadzorem EASA,
-    - **b)** Prezesa Urzędu – w przypadku statku powietrznego nieobjętego nadzorem EASA,
+    - **a)** EASA w przypadku statku powietrznego objętego nadzorem EASA,
+    - **b)** Prezesa Urzędu w przypadku statku powietrznego nieobjętego nadzorem EASA,
 
-- **2)** przepisami prawa w zakresie ciągłej zdatności do lotu, z uwzględnieniem specjalnych wymagań państwa trzeciego – przez wydanie eksportowego świadectwa zdatności do lotu.
+- **2)** przepisami prawa w zakresie ciągłej zdatności do lotu, z uwzględnieniem specjalnych wymagań państwa trzeciego przez wydanie eksportowego świadectwa zdatności do lotu.
 
 2. Dla nowo budowanego statku powietrznego Prezes Urzędu stwierdza zgodność stanu technicznego statku powietrznego z wymaganiami określonymi w certyfikacie typu wydanym albo uznanym przez:
 
-- **1)** EASA – w przypadku statku powietrznego objętego nadzorem EASA,
-- **2)** Prezesa Urzędu – w przypadku statku powietrznego nieobjętego nadzorem EASA – przez wydanie eksportowego świadectwa zdatności do lotu.
+- **1)** EASA w przypadku statku powietrznego objętego nadzorem EASA,
+- **2)** Prezesa Urzędu w przypadku statku powietrznego nieobjętego nadzorem EASA przez wydanie eksportowego świadectwa zdatności do lotu.
 
 3. Wydanie eksportowego świadectwa zdatności do lotu następuje w drodze decyzji administracyjnej Prezesa Urzędu.
 
@@ -1111,7 +1305,7 @@ Art. 213–221. (pominięte)
 
 **Art. 52.**
 
-1. Zgodnie z art. 11 rozporządzenia nr 216/2008/WE uznaje się za ważne, na równi z odpowiednimi dokumentami wydanymi w Rzeczypospolitej Polskiej, certyfikaty wydane lub potwierdzone przez właściwy organ państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym.
+1. Zgodnie z art. 11 rozporządzenia nr 216/2008/WE uznaje się za ważne, na równi z odpowiednimi dokumentami wydanymi w Rzeczypospolitej Polskiej, certyfikaty wydane lub potwierdzone przez właściwy organ państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym.
 
 2. Prezes Urzędu może uznać, zgodnie z art. 12 rozporządzenia nr 216/2008/WE, za ważne, na równi z odpowiednimi dokumentami wydanymi w Rzeczypospolitej Polskiej, świadectwa zdatności do lotu, zezwolenia na lot statku powietrznego bez świadectwa zdatności do lotu oraz certyfikaty wydane lub potwierdzone przez właściwy organ obcego państwa.
 
@@ -1162,9 +1356,9 @@ Art. 213–221. (pominięte)
 
 1. Certyfikaty typu oraz uzupełniające certyfikaty typu, wydane przez Prezesa Urzędu dla statków powietrznych nieobjętych nadzorem EASA, Prezes Urzędu może, w drodze decyzji administracyjnej:
 
-- **1)** zawiesić na określony czas – jeżeli typ statku powietrznego, silnika lub śmigła przestał spełniać wymagania ustanowione przepisami prawa w zakresie ciągłej zdatności do lotu statku powietrznego;
-- **2)** cofnąć – jeżeli w okresie zawieszenia tego certyfikatu nie została przywrócona zgodność z przepisami prawa w zakresie ciągłej zdatności do lotu statku powietrznego;
-- **3)** zmienić – jeżeli wnioskujący o zmianę w certyfikacie typu lub uzupełniającym certyfikacie typu wykaże, że statek powietrzny, silnik lub śmigło spełnia wymagania ustanowione przepisami prawa w zakresie projektu typu.
+- **1)** zawiesić na określony czas jeżeli typ statku powietrznego, silnika lub śmigła przestał spełniać wymagania ustanowione przepisami prawa w zakresie ciągłej zdatności do lotu statku powietrznego;
+- **2)** cofnąć jeżeli w okresie zawieszenia tego certyfikatu nie została przywrócona zgodność z przepisami prawa w zakresie ciągłej zdatności do lotu statku powietrznego;
+- **3)** zmienić jeżeli wnioskujący o zmianę w certyfikacie typu lub uzupełniającym certyfikacie typu wykaże, że statek powietrzny, silnik lub śmigło spełnia wymagania ustanowione przepisami prawa w zakresie projektu typu.
 
 2. W zakresie niezastrzeżonym dla EASA, Prezes Urzędu uznaje certyfikat typu albo uzupełniający certyfikat typu, wydany zgodnie z Załącznikiem 8 do Konwencji, o której mowa w art. 3 ust. 2, o ile istnieje odpowiednio posiadacz certyfikatu typu albo uzupełniającego certyfikatu typu.
 
@@ -1218,7 +1412,7 @@ Art. 213–221. (pominięte)
 
 2b. W odniesieniu do lotnisk, którym przyznano odstępstwo, o którym mowa w art. 2 ust. 7 rozporządzenia nr 2018/1139/UE, nie stosuje się przepisów art. 55 ust. 5, art. 64a, art. 68 ust. 3 pkt 5 i 7, art. 77b, art. 84 ust. 2 pkt 3, art. 173 ust. 1 i art. 175 ust. 7 pkt 3, a w przypadku gdy lotniska takie obsługują nie więcej niż 5 000 000 pasażerów w ciągu roku, liczonych zgodnie z art. 77g ust. 1, nie stosuje się również przepisów art. 77, art. 77a i art. 77h ust. 1.
 
-3. Lotniskiem użytku wyłącznego jest lotnisko wykorzystywane przez zarządzającego tym lotniskiem, użytkowników lotniska wymienionych w dokumentacji rejestracyjnej tego lotniska oraz za zgodą zarządzającego lotniskiem – przez innych użytkowników lotniska.
+3. Lotniskiem użytku wyłącznego jest lotnisko wykorzystywane przez zarządzającego tym lotniskiem, użytkowników lotniska wymienionych w dokumentacji rejestracyjnej tego lotniska oraz za zgodą zarządzającego lotniskiem przez innych użytkowników lotniska.
 
 4. Z uwagi na rolę, w polityce rozwoju kraju, wyróżnia się lotniska lokalne (gminne, powiatowe) oraz ponadlokalne (regionalne, krajowe).
 
@@ -1231,7 +1425,7 @@ Art. 213–221. (pominięte)
 6. W przypadku gdy zarządzający lotniskiem użytku wyłącznego zapewnia:
 
 - **1)** funkcjonowanie na lotnisku służb państwowych działających na rzecz administracji publicznej lub służb lotnictwa państwowego,
-- **2)** starty i lądowania statków powietrznych wykonujących loty w celu ratowania życia lub zdrowia ludzi, poszukiwania i ratownictwa, zapobiegania skutkom klęsk żywiołowych lub ich usunięcia lub loty humanitarne – stanowi to świadczenie usług w ogólnym interesie gospodarczym w rozumieniu prawa Unii Europejskiej.
+- **2)** starty i lądowania statków powietrznych wykonujących loty w celu ratowania życia lub zdrowia ludzi, poszukiwania i ratownictwa, zapobiegania skutkom klęsk żywiołowych lub ich usunięcia lub loty humanitarne stanowi to świadczenie usług w ogólnym interesie gospodarczym w rozumieniu prawa Unii Europejskiej.
 
 7. Lotnisko użytku wyłącznego może zostać otwarte dla wszystkich statków powietrznych w terminach i godzinach ustalonych przez zarządzającego tym lotniskiem i podanych do publicznej wiadomości. Po dokonaniu wpisu do rejestru lotnisk zmiany w zakresie dostępności dla użytkowników lotnisko staje się lotniskiem użytku publicznego niepodlegającym certyfikacji, o ile nie podlega wymogom rozporządzenia nr 216/2008/WE.
 
@@ -1255,24 +1449,24 @@ Art. 213–221. (pominięte)
 
 - **1)** organ administracji publicznej Rzeczypospolitej Polskiej;
 - **2)** państwowa lub samorządowa jednostka organizacyjna;
-- **3)** spółka kapitałowa z siedzibą na terytorium Rzeczypospolitej Polskiej albo innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, której członek zarządu – w przypadku zarządu jednoosobowego, lub co najmniej dwóch członków zarządu – w przypadku zarządu wieloosobowego, posiadają znajomość języka polskiego, co wykazuje się złożeniem stosownego oświadczenia pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń;
-- **4)** stowarzyszenie lub podmiot, do którego odpowiednio stosuje się przepisy ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261), których przedmiotem działalności jest działalność lotnicza, utworzone zgodnie z przepisami prawa polskiego;
-- **5)** osoba fizyczna posiadająca miejsce stałego pobytu na terytorium Rzeczypospolitej Polskiej albo innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, a w przypadku gdy nie jest ona obywatelem polskim – również posiadająca znajomość języka polskiego lub zatrudniająca co najmniej jedną osobę upoważnioną do jej reprezentowania, posiadającą znajomość języka polskiego, co wykazuje złożeniem stosownego oświadczenia pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń.
+- **3)** spółka kapitałowa z siedzibą na terytorium Rzeczypospolitej Polskiej albo innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, której członek zarządu w przypadku zarządu jednoosobowego, lub co najmniej dwóch członków zarządu w przypadku zarządu wieloosobowego, posiadają znajomość języka polskiego, co wykazuje się złożeniem stosownego oświadczenia pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń;
+- **4)** stowarzyszenie lub podmiot, do którego odpowiednio stosuje się przepisy ustawy z dnia 7 kwietnia 1989 r. Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261), których przedmiotem działalności jest działalność lotnicza, utworzone zgodnie z przepisami prawa polskiego;
+- **5)** osoba fizyczna posiadająca miejsce stałego pobytu na terytorium Rzeczypospolitej Polskiej albo innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, a w przypadku gdy nie jest ona obywatelem polskim również posiadająca znajomość języka polskiego lub zatrudniająca co najmniej jedną osobę upoważnioną do jej reprezentowania, posiadającą znajomość języka polskiego, co wykazuje złożeniem stosownego oświadczenia pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-2a. Lotnisko użytku wyłącznego może założyć podmiot posiadający miejsce stałego pobytu lub siedzibę na terytorium Rzeczypospolitej Polskiej albo innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym.
+2a. Lotnisko użytku wyłącznego może założyć podmiot posiadający miejsce stałego pobytu lub siedzibę na terytorium Rzeczypospolitej Polskiej albo innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym.
 
 3. Do wniosku, o którym mowa w ust. 1, wnioskodawca jest obowiązany dołączyć:
 
 - **1)** dokumenty potwierdzające spełnienie przez wnioskodawcę wymogów, o których mowa w ust. 2 albo 2a;
 - **2)** wypis i wyrys z planu zagospodarowania przestrzennego województwa, o ile został uchwalony, oraz wypis i wyrys z miejscowego planu zagospodarowania przestrzennego dla terenu lotniska oraz obszarów go otaczających, znajdujących się w strefie jego oddziaływania, odpis decyzji o lokalizacji inwestycji celu publicznego, odpis decyzji o warunkach zabudowy, odpis decyzji o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego albo odpis decyzji o ustaleniu lokalizacji inwestycji w zakresie CPK w rozumieniu przepisów ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U. z 2024 r. poz. 1747);
-- **2a)** zatwierdzony przez ministra właściwego do spraw transportu plan generalny lotniska, o którym mowa w ust. 5 – w przypadku lotnisk użytku publicznego;
+- **2a)** zatwierdzony przez ministra właściwego do spraw transportu plan generalny lotniska, o którym mowa w ust. 5 w przypadku lotnisk użytku publicznego;
 - **3)** program wykorzystania lotniska;
 - **4)** prognozę i plan organizacji ruchu lotniczego na lotnisku i w jego rejonie ze wskazaniem sposobów uniknięcia kolizji z ruchem prowadzonym z istniejących już sąsiednich lotnisk;
 - **5)** projekt zagospodarowania terenu lotniska;
 - **6)** (uchylony)
 - **7)** dokumenty stwierdzające prawo dysponowania nieruchomością na cele budowy lotniska;
 - **8)** mapę z naniesionymi powierzchniami ograniczającymi przeszkody na lotnisku i w jego otoczeniu, z uwzględnieniem istniejących przeszkód lotniczych;
-- **8a)** w przypadku przedsięwzięć, dla których wydano decyzję o środowiskowych uwarunkowaniach w postępowaniu wymagającym udziału społeczeństwa – załącznik graficzny określający przewidywany teren, na którym będzie realizowane przedsięwzięcie, oraz przewidywany obszar, na który będzie oddziaływać przedsięwzięcie, o ile dołączenie tego załącznika było wymagane przez przepisy obowiązujące w dniu złożenia wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, w szczególności mapę, o której mowa w art. 74 ust. 1 pkt 3a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2024 r. poz. 1112, 1881 i 1940);
+- **8a)** w przypadku przedsięwzięć, dla których wydano decyzję o środowiskowych uwarunkowaniach w postępowaniu wymagającym udziału społeczeństwa załącznik graficzny określający przewidywany teren, na którym będzie realizowane przedsięwzięcie, oraz przewidywany obszar, na który będzie oddziaływać przedsięwzięcie, o ile dołączenie tego załącznika było wymagane przez przepisy obowiązujące w dniu złożenia wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, w szczególności mapę, o której mowa w art. 74 ust. 1 pkt 3a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2024 r. poz. 1112, 1881 i 1940);
 - **9)** profile pól wznoszenia i podejścia.
 - **10)** (uchylony)
 - **11)** (uchylony)
@@ -1287,7 +1481,7 @@ Art. 213–221. (pominięte)
 - **2)** informację dotyczącą planowanego rozwoju ruchu lotniczego (w podziale w szczególności na operacje regularne, czarterowe i lotnictwo ogólne, przewozy pasażerów i towarów);
 - **3)** koncepcję zapewniania służb żeglugi powietrznej;
 - **4)** koncepcję rozwoju przestrzennego wraz z zagospodarowaniem stref wokół lotniska;
-- **5)** informację dotyczącą przepustowości, z uwzględnieniem jej obecnych – w przypadku istniejących lotnisk – i przyszłych parametrów (w podziale na parametry dotyczące w szczególności dróg startowych, dróg kołowania, płyt postojowych, terminali, przestrzeni powietrznej, dróg dojazdowych do lotniska), w odniesieniu do zakładanego rozwoju ruchu i planowanych modernizacji lotniska;
+- **5)** informację dotyczącą przepustowości, z uwzględnieniem jej obecnych w przypadku istniejących lotnisk i przyszłych parametrów (w podziale na parametry dotyczące w szczególności dróg startowych, dróg kołowania, płyt postojowych, terminali, przestrzeni powietrznej, dróg dojazdowych do lotniska), w odniesieniu do zakładanego rozwoju ruchu i planowanych modernizacji lotniska;
 - **6)** informacje ekonomiczno-finansowe dotyczące w szczególności obecnej i planowanej struktury własnościowej, przewidywanych źródeł finansowania inwestycji, obecnej i przewidywanej rentowności i płynności podmiotu, planowanej wysokości opłat lotniskowych i przychodów z ich tytułu, z odniesieniem do całości planowanych przychodów podmiotu;
 - **7)** inne sprawy wybrane przez podmiot, o którym mowa w ust. 5.
 
@@ -1296,8 +1490,8 @@ Art. 213–221. (pominięte)
 8. Plan generalny po zaopiniowaniu przez Prezesa Urzędu w zakresie, o którym mowa w ust. 6 pkt 1–6, oraz po uzgodnieniu z:
 
 - **1)** (uchylony)
-- **2)** Ministrem Obrony Narodowej – w zakresie terenów zamkniętych w rozumieniu przepisów ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151 i 1824 oraz z 2025 r. poz. 1019),
-- **3)** ministrem właściwym do spraw rozwoju regionalnego – w zakresie zgodności z programami rządowymi dotyczącymi rozwoju kraju, w tym jego poszczególnych regionów – podlega zatwierdzeniu przez ministra właściwego do spraw transportu w zakresie zgodności z polityką transportową kraju.
+- **2)** Ministrem Obrony Narodowej w zakresie terenów zamkniętych w rozumieniu przepisów ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151 i 1824 oraz z 2025 r. poz. 1019),
+- **3)** ministrem właściwym do spraw rozwoju regionalnego w zakresie zgodności z programami rządowymi dotyczącymi rozwoju kraju, w tym jego poszczególnych regionów podlega zatwierdzeniu przez ministra właściwego do spraw transportu w zakresie zgodności z polityką transportową kraju.
 
 9. (uchylony)
 
@@ -1369,7 +1563,7 @@ Art. 213–221. (pominięte)
 6. Do rejestru lotnisk wpisuje się jako zarządzającego lotniskiem:
 
 - **1)** zakładającego lotnisko,
-- **2)** inny podmiot – na wniosek zakładającego lotnisko,
+- **2)** inny podmiot na wniosek zakładającego lotnisko,
 - **3)** podmiot, któremu przekazano zarządzanie lotniskiem, zgodnie z art. 70 ‒ jeżeli lotnisko spełnia warunki określone w art. 59a i art. 80a, a w przypadku lotniska, o którym mowa w art. 59a ust. 1 pkt 1 i 2 ‒ również w art. 174 ust. 2 i 3, a w przypadku lotniska, o którym mowa w art. 54 ust. 7 i art. 59a ust. 1 pkt 3 ‒ również w art. 55 ust. 2.
 
 7. Jeżeli dane podlegające wpisowi opierają się na dokumentach, dokumenty te powinny być dołączone do zgłoszenia w oryginałach albo poświadczonych notarialnie lub urzędowo odpisach, kopiach.
@@ -1378,9 +1572,9 @@ Art. 213–221. (pominięte)
 
 1. Potwierdzenie spełnienia wymagań związanych z eksploatacją i zarządzaniem lotniskiem użytku publicznego, z wyłączeniem lotnisk, o których mowa w art. 54 ust. 7, następuje poprzez wydanie certyfikatu zgodnie z wymaganiami określonymi w:
 
-- **1)** rozporządzeniu Komisji (UE) nr 139/2014 z dnia 12 lutego 2014 r. ustanawiającym wymagania oraz procedury administracyjne dotyczące lotnisk zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz. UE L 44 z 14.02.2014, str. 1), a w przypadku wydania na podstawie art. 3 ust. 4 pkt 4 przepisów dotyczących lotnisk także w tych przepisach – w przypadku lotnisk dla samolotów, o których mowa w art. 2 ust. 1 lit. e rozporządzenia nr 2018/1139/UE, ubiegających się o certyfikat, o którym mowa w art. 34 ust. 1 tego rozporządzenia;
-- **2)** przepisach wydanych na podstawie ust. 5, art. 83 ust. 1, art. 85 i art. 92 ust. 2 pkt 1 i 2 – w przypadku lotnisk, którym przyznano zwolnienie, o którym mowa w art. 2 ust. 7 rozporządzenia nr 2018/1139/UE, oraz lotnisk dla śmigłowców, o których mowa w art. 2 ust. 1 lit. e rozporządzenia nr 2018/1139/UE;
-- **3)** przepisach wydanych na podstawie ust. 6, art. 83 ust. 1, art. 85 i art. 92 ust. 2 pkt 1 i 2 – w przypadku lotnisk, dla których Prezes Urzędu wydał decyzję o ograniczonej certyfikacji.
+- **1)** rozporządzeniu Komisji (UE) nr 139/2014 z dnia 12 lutego 2014 r. ustanawiającym wymagania oraz procedury administracyjne dotyczące lotnisk zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz. UE L 44 z 14.02.2014, str. 1), a w przypadku wydania na podstawie art. 3 ust. 4 pkt 4 przepisów dotyczących lotnisk także w tych przepisach w przypadku lotnisk dla samolotów, o których mowa w art. 2 ust. 1 lit. e rozporządzenia nr 2018/1139/UE, ubiegających się o certyfikat, o którym mowa w art. 34 ust. 1 tego rozporządzenia;
+- **2)** przepisach wydanych na podstawie ust. 5, art. 83 ust. 1, art. 85 i art. 92 ust. 2 pkt 1 i 2 w przypadku lotnisk, którym przyznano zwolnienie, o którym mowa w art. 2 ust. 7 rozporządzenia nr 2018/1139/UE, oraz lotnisk dla śmigłowców, o których mowa w art. 2 ust. 1 lit. e rozporządzenia nr 2018/1139/UE;
+- **3)** przepisach wydanych na podstawie ust. 6, art. 83 ust. 1, art. 85 i art. 92 ust. 2 pkt 1 i 2 w przypadku lotnisk, dla których Prezes Urzędu wydał decyzję o ograniczonej certyfikacji.
 
 1a. Na wniosek zakładającego lotnisko, o którym mowa w art. 2 ust. 1 lit. e rozporządzenia nr 2018/1139/UE, albo zarządzającego takim lotniskiem Prezes Urzędu, w drodze decyzji administracyjnej, przyznaje zwolnienie, o którym mowa w art. 2 ust. 7 rozporządzenia nr 2018/1139/UE, jeżeli wnioskodawca spełnia warunki, o których mowa w tym przepisie.
 
@@ -1392,7 +1586,7 @@ Art. 213–221. (pominięte)
 - **2)** czas, w jakim mogą być obsługiwane loty na tym lotnisku;
 - **3)** charakterystykę techniczną statków powietrznych, jakie mogą lądować i startować z tego lotniska.
 
-3. Certyfikat, o którym mowa w ust. 1, wydaje się zgodnie z przepisami art. 160– 163a, z tym że dla lotnisk o ograniczonej certyfikacji warunkiem rozpoczęcia procesu certyfikacji jest uzyskanie decyzji, o której mowa w ust. 2.
+3. Certyfikat, o którym mowa w ust. 1, wydaje się zgodnie z przepisami art. 160–163a, z tym że dla lotnisk o ograniczonej certyfikacji warunkiem rozpoczęcia procesu certyfikacji jest uzyskanie decyzji, o której mowa w ust. 2.
 
 4. Potwierdzenie spełnienia wymagań związanych z eksploatacją i zarządzaniem lotniskiem użytku wyłącznego następuje poprzez złożenie oświadczenia przez zakładającego lotnisko lub zarządzającego lotniskiem o zgodności charakterystyk technicznych i infrastruktury lotniska oraz eksploatacji i zarządzania lotniskiem z wymaganiami określonymi w przepisach wydanych na podstawie ust. 7, po przeprowadzeniu przez Prezesa Urzędu z wynikiem pozytywnym kontroli sprawdzającej na lotnisku, zakończonej wydaniem decyzji administracyjnej.
 
@@ -1442,29 +1636,39 @@ Art. 213–221. (pominięte)
 
 **Art. 63.** Minister właściwy do spraw transportu, z uwzględnieniem przepisów międzynarodowych, określi, w drodze rozporządzenia:
 
+- **1)** szczegółowe zasady klasyfikacji lotnisk;
+- **2)** wzór rejestru lotnisk;
+- **3)** szczegółowe warunki i tryb prowadzenia rejestru lotnisk, z uwzględnieniem wymagań dotyczących dokumentacji rejestrowej;
+- **4)** zmiany cech lotniska, uwzględniając podział na zmiany:
+    - **a)** wymagające uzyskania zezwolenia Prezesa Urzędu,
+    - **b)** podlegające tylko wpisowi do rejestru lotnisk;
+
+- **5)** szczegółowe wymagania, jakie muszą spełnić zakładający lotniska i zarządzający lotniskami, w zależności od klasyfikacji lotnisk.
+- **6)** (uchylony)
+
 **Art. 64.**
 
-1. Kto zamierza nabyć lub objąć akcje lub udziały w spółce zakładającej lotnisko użytku publicznego albo spółce będącej założycielem lub właścicielem istniejącego lotniska użytku publicznego w ilości zapewniającej mu osiągnięcie lub przekroczenie odpowiednio 25 %, 33 % lub 49 % ogólnej liczby głosów na zgromadzeniu wspólników lub walnym zgromadzeniu lub podejmuje inne działania, w wyniku czego stanie się podmiotem dominującym w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2025 r. poz. 592) w podmiocie zakładającym lotnisko albo będącym założycielem lub właścicielem lotniska użytku publicznego, zawiadamia o tym ministra właściwego do spraw transportu – pod rygorem nieważności.
+1. Kto zamierza nabyć lub objąć akcje lub udziały w spółce zakładającej lotnisko użytku publicznego albo spółce będącej założycielem lub właścicielem istniejącego lotniska użytku publicznego w ilości zapewniającej mu osiągnięcie lub przekroczenie odpowiednio 25 %, 33 % lub 49 % ogólnej liczby głosów na zgromadzeniu wspólników lub walnym zgromadzeniu lub podejmuje inne działania, w wyniku czego stanie się podmiotem dominującym w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2025 r. poz. 592) w podmiocie zakładającym lotnisko albo będącym założycielem lub właścicielem lotniska użytku publicznego, zawiadamia o tym ministra właściwego do spraw transportu pod rygorem nieważności.
 
 2. Nie zawiadamia się ministra właściwego do spraw transportu, gdy działania, o których mowa w ust. 1, stanowią koncentrację o wymiarze wspólnotowym w rozumieniu rozporządzenia Rady (WE) nr 139/2004 z dnia 20 stycznia 2004 r. w sprawie kontroli koncentracji przedsiębiorstw (rozporządzenie WE w sprawie kontroli łączenia przedsiębiorstw) (Dz. Urz. WE L 24 z 29.01.2004, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 8, t. 3, str. 40). W takim przypadku do działań tych stosuje się przepisy tego rozporządzenia.
 
 3. Zawiadomienia, o którym mowa w ust. 1, dokonuje się przed zamierzonym podjęciem działań, o których mowa w ust. 1. Działania te mogą być podjęte, jeżeli w terminie 30 dni od dnia zawiadomienia minister właściwy do spraw transportu nie wyda zakazu, o którym mowa w ust. 4.
 
-4. Minister właściwy do spraw transportu może, w drodze decyzji administracyjnej, zakazać – pod rygorem nieważności – nabycia akcji lub udziałów w ilości zapewniającej osiągnięcie lub przekroczenie progów, o których mowa w ust. 1, lub podjęcia innych działań, o których mowa w ust. 1, ze względu na zagrożenie porządku publicznego i bezpieczeństwa publicznego.
+4. Minister właściwy do spraw transportu może, w drodze decyzji administracyjnej, zakazać pod rygorem nieważności nabycia akcji lub udziałów w ilości zapewniającej osiągnięcie lub przekroczenie progów, o których mowa w ust. 1, lub podjęcia innych działań, o których mowa w ust. 1, ze względu na zagrożenie porządku publicznego i bezpieczeństwa publicznego.
 
 **Art. 64a.**
 
-1. Kto zamierza nabyć lub objąć akcje lub udziały w spółce zarządzającej lotniskiem użytku publicznego w ilości zapewniającej mu osiągnięcie lub przekroczenie, bezpośrednio lub pośrednio, przez inne podmioty, większości głosów na zgromadzeniu wspólników lub walnym zgromadzeniu, także na podstawie porozumień z innymi osobami, lub podejmuje inne działania, w wyniku czego stanie się podmiotem dominującym w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych w podmiocie zarządzającym lotniskiem użytku publicznego, zawiadamia o tym ministra właściwego do spraw transportu – pod rygorem nieważności.
+1. Kto zamierza nabyć lub objąć akcje lub udziały w spółce zarządzającej lotniskiem użytku publicznego w ilości zapewniającej mu osiągnięcie lub przekroczenie, bezpośrednio lub pośrednio, przez inne podmioty, większości głosów na zgromadzeniu wspólników lub walnym zgromadzeniu, także na podstawie porozumień z innymi osobami, lub podejmuje inne działania, w wyniku czego stanie się podmiotem dominującym w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych w podmiocie zarządzającym lotniskiem użytku publicznego, zawiadamia o tym ministra właściwego do spraw transportu pod rygorem nieważności.
 
 2. Nie zawiadamia się ministra właściwego do spraw transportu, gdy działania, o których mowa w ust. 1, stanowią koncentrację o wymiarze wspólnotowym w rozumieniu rozporządzenia nr 139/2004/WE. W takim przypadku do działań tych stosuje się przepisy tego rozporządzenia.
 
 3. Zawiadomienia, o którym mowa w ust. 1, dokonuje się przed zamierzonym podjęciem działań, o których mowa w ust. 1. Działania te mogą być podjęte, jeżeli w terminie 30 dni od dnia zawiadomienia minister właściwy do spraw transportu nie wyda zakazu, o którym mowa w ust. 4.
 
-4. Minister właściwy do spraw transportu może, w drodze decyzji administracyjnej, zakazać – pod rygorem nieważności – nabycia lub objęcia akcji lub udziałów w ilości, o której mowa w ust. 1, lub podjęcia działań, o których mowa w ust. 1, ze względu na zagrożenie porządku publicznego i bezpieczeństwa publicznego, a także w przypadku gdy nabycie lub objęcie akcji lub udziałów nastąpiłoby przez podmiot inny niż:
+4. Minister właściwy do spraw transportu może, w drodze decyzji administracyjnej, zakazać pod rygorem nieważności nabycia lub objęcia akcji lub udziałów w ilości, o której mowa w ust. 1, lub podjęcia działań, o których mowa w ust. 1, ze względu na zagrożenie porządku publicznego i bezpieczeństwa publicznego, a także w przypadku gdy nabycie lub objęcie akcji lub udziałów nastąpiłoby przez podmiot inny niż:
 
 - **1)** organ administracji publicznej Rzeczypospolitej Polskiej;
 - **2)** państwowa lub samorządowa jednostka organizacyjna;
-- **3)** spółka kapitałowa z siedzibą na terytorium Rzeczypospolitej Polskiej albo innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym.
+- **3)** spółka kapitałowa z siedzibą na terytorium Rzeczypospolitej Polskiej albo innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym.
 
 **Art. 64b.**
 
@@ -1484,13 +1688,13 @@ Art. 213–221. (pominięte)
 5. Skutki czynności prawnej, o której mowa w ust. 1 lub 2, ulegają zawieszeniu:
 
 - **1)** na czas przysługujący ministrowi właściwemu do spraw transportu na wyrażenie sprzeciwu;
-- **2)** w razie złożenia wniosku o ponowne rozpatrzenie sprawy lub zaskarżenia ostatecznej decyzji ministra właściwego do spraw transportu na drodze sądowej – do chwili zmiany decyzji, jej uchylenia albo stwierdzenia nieważności.
+- **2)** w razie złożenia wniosku o ponowne rozpatrzenie sprawy lub zaskarżenia ostatecznej decyzji ministra właściwego do spraw transportu na drodze sądowej do chwili zmiany decyzji, jej uchylenia albo stwierdzenia nieważności.
 
 6. W przypadku złożenia wniosku o ponowne rozpatrzenie sprawy termin do załatwienia sprawy wynosi 14 dni roboczych od dnia otrzymania wniosku, zaś w przypadku zaskarżenia ostatecznej decyzji ministra właściwego do spraw transportu sąd wyznacza rozprawę w terminie 14 dni od dnia wniesienia skargi przez stronę.
 
 7. Ostateczna decyzja ministra właściwego do spraw transportu, w stosunku do której nie złożono wniosku o ponowne rozpatrzenie sprawy, której nie zaskarżono lub której nie uchylono, skutkuje nieważnością czynności prawnej od chwili jej dokonania. Dokonana czynność prawna, o której mowa w ust. 1 lub 2, o której zarząd spółki nie powiadomił w terminie określonym w ust. 3, jest nieważna.
 
-8. W przypadku rzeczywistej zmiany przez spółkę wykonywanego przedmiotu jej działalności, a także wydania uchwały o zmianie przeznaczenia lub zaniechania eksploatacji składnika mienia spółki podstawowego dla funkcjonowania lotniska, jeżeli zagraża to porządkowi publicznemu lub bezpieczeństwu publicznemu, przepisy ust. 1–7 stosuje się odpowiednio. Minister właściwy do spraw transportu, wyrażając sprzeciw, określa ponadto w decyzji zakres obowiązku kontynuacji dotychczasowej działalności przez spółkę, a w razie potrzeby – także odpowiedni termin przywrócenia dotychczasowej działalności przez spółkę.
+8. W przypadku rzeczywistej zmiany przez spółkę wykonywanego przedmiotu jej działalności, a także wydania uchwały o zmianie przeznaczenia lub zaniechania eksploatacji składnika mienia spółki podstawowego dla funkcjonowania lotniska, jeżeli zagraża to porządkowi publicznemu lub bezpieczeństwu publicznemu, przepisy ust. 1–7 stosuje się odpowiednio. Minister właściwy do spraw transportu, wyrażając sprzeciw, określa ponadto w decyzji zakres obowiązku kontynuacji dotychczasowej działalności przez spółkę, a w razie potrzeby także odpowiedni termin przywrócenia dotychczasowej działalności przez spółkę.
 
 9. W przypadkach, o których mowa w ust. 8, sprzeciw może być wyrażony przed zawiadomieniem przez zarząd spółki o tych zdarzeniach.
 
@@ -1571,42 +1775,6 @@ Art. 213–221. (pominięte)
 2. Wojskowe służby żeglugi powietrznej zapewnione na podstawie art. 7 ust. 5 rozporządzenia nr 550/2004/WE, spełniają wspólne wymogi dotyczące zapewniania służb żeglugi powietrznej określone na podstawie art. 6 rozporządzenia nr 550/2004/WE.
 
 3. Minister właściwy do spraw transportu może określić, w drodze rozporządzenia, środki, które należy podjąć w celu zapewnienia zgodności działań wojskowych służb żeglugi powietrznej ze wspólnymi wymogami dotyczącymi zapewniania służb żeglugi powietrznej określonymi na podstawie art. 6 rozporządzenia nr 550/2004/WE, z uwzględnieniem zasad współpracy instytucji zapewniających służby ruchu lotniczego z odpowiednimi służbami i organami wojskowymi oraz innymi organami państwowymi.
-
-**Art. 66c.** Prezes Urzędu, w drodze decyzji administracyjnej, rozstrzyga o traktowaniu portu lotniczego nieobjętego zakresem art. 3 pkt 1 rozporządzenia nr 2023/2405 jako unijnego portu lotniczego w rozumieniu art. 3 pkt 1 rozporządzenia nr 2023/2405 zgodnie z art. 2 ust. 2 akapit pierwszy tego rozporządzenia.
-
-**Art. 66d.** Prezes Urzędu, na wniosek zarządzającego lotniskiem będącym portem lotniczym nieobjętym zakresem art. 3 pkt 1 rozporządzenia nr 2023/2405, w drodze decyzji administracyjnej, rozstrzyga o traktowaniu tego portu lotniczego jako unijnego portu lotniczego w rozumieniu art. 3 pkt 1 rozporządzenia nr 2023/2405, jeżeli zostały spełnione wymagania, o których mowa w art. 6 ust. 1 tego rozporządzenia.
-
-**Art. 66e.**
-
-1. Prezes Urzędu, na wniosek operatora statku powietrznego, w drodze decyzji administracyjnej, rozstrzyga o tymczasowym zwolnieniu z obowiązku, o którym mowa w art. 5 ust. 1 rozporządzenia nr 2023/2405, albo o przedłużeniu zwolnienia z tego obowiązku, jeżeli zostały spełnione wymagania, o których mowa w art. 5 ust. 3 rozporządzenia nr 2023/2405, uwzględniając wytyczne, o których mowa w art. 5 ust. 11 tego rozporządzenia.
-
-2. Domniemywa się, że wniosek, o którym mowa w ust. 1, został złożony zgodnie z zasadami reprezentacji lub przez osobę należycie umocowaną.
-
-3. Operator statku powietrznego może złożyć wniosek, o którym mowa w ust. 1, również za pomocą systemu teleinformatycznego EASA dotyczącego zrównoważonego rozwoju, co jest równoznaczne ze złożeniem tego wniosku do Prezesa Urzędu.
-
-4. Decyzję administracyjną w przedmiocie tymczasowego zwolnienia albo przedłużenia tego zwolnienia, o których mowa w ust. 1, a także pisma w postępowaniu administracyjnym w tych sprawach doręcza się na adres poczty elektronicznej – w przypadku gdy wnioskodawca wskaże taki adres do doręczeń, albo w formie pisemnej lub za pomocą telefaksu.
-
-5. W sprawach dotyczących tymczasowego zwolnienia albo przedłużenia tego zwolnienia, o których mowa w ust. 1, nie stosuje się przepisu art. 32 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826 oraz z 2026 r. poz. 507).
-
-6. Prezes Urzędu cofa tymczasowe zwolnienie albo przedłużenie tego zwolnienia, o których mowa w ust. 1, w przypadku i na zasadach określonych w art. 5 ust. 9 rozporządzenia nr 2023/2405.
-
-**Art. 66f.**
-
-1. Prezes Urzędu, w ramach nadzoru nad realizacją obowiązku, o którym mowa w art. 5 ust. 1 rozporządzenia nr 2023/2405, może żądać od operatora statku powietrznego przedstawienia dokumentów lub informacji służących weryfikacji realizacji tego obowiązku.
-
-2. Dokumenty lub informacje, o których mowa w ust. 1, mogą być przekazywane w języku polskim lub angielskim. Na wniosek Prezesa Urzędu dokumenty i informacje przekazywane w innym języku powinny zostać przetłumaczone przez operatora statku powietrznego na język polski albo angielski.
-
-3. W celu wykazania realizacji obowiązku, o którym mowa w art. 5 ust. 1 rozporządzenia nr 2023/2405, operator statku powietrznego jest obowiązany przechowywać dokumenty lub informacje, o których mowa w ust. 1, przez okres 5 lat od ostatniego dnia roku, w którym lot został wykonany.
-
-**Art. 66g.** Informacje, o których mowa w art. 6 ust. 2 rozporządzenia nr 2023/2405, są przekazywane Prezesowi Urzędu w terminie 21 dni od dnia doręczenia wniosku, o którym mowa w tym przepisie.
-
-**Art. 66h.** Informacje, o których mowa w art. 6 ust. 4 rozporządzenia nr 2023/2405, są przekazywane zarządzającemu lotniskiem będącym unijnym portem lotniczym w rozumieniu art. 3 pkt 1 rozporządzenia nr 2023/2405 albo traktowanym jako unijny port lotniczy w rozumieniu tego przepisu przez podmiot zajmujący się obsługą paliwa w rozumieniu art. 3 pkt 20 rozporządzenia nr 2023/2405 lub przez operatora statku powietrznego na wniosek tego zarządzającego lotniskiem, w terminie 14 dni od dnia doręczenia tego wniosku.
-
-**Art. 66i.**
-
-1. Podmiot zajmujący się obsługą paliwa w rozumieniu art. 3 pkt 20 rozporządzenia nr 2023/2405 lub zarządzający lotniskiem będącym unijnym portem lotniczym w rozumieniu art. 3 pkt 1 rozporządzenia nr 2023/2405 albo traktowanym jako unijny port lotniczy w rozumieniu tego przepisu dostarczają operatorowi statku powietrznego, na jego żądanie, dokumenty lub informacje niezbędne do przygotowania przez niego zgodnie z art. 5 ust. 2 rozporządzenia nr 2023/2405 należytego uzasadnienia nieosiągnięcia progu określonego w art. 5 ust. 1 rozporządzenia nr 2023/2405, w terminie wskazanym przez operatora statku powietrznego, niekrótszym niż 21 dni.
-
-2. Wykaz dokumentów i informacji, o których mowa w ust. 1, określają wytyczne Komisji Europejskiej, o których mowa w art. 5 ust. 11 rozporządzenia nr 2023/2405.
 
 **Art. 67.**
 
@@ -1691,7 +1859,7 @@ Art. 213–221. (pominięte)
 
 1. Zadania koordynatora określa rozporządzenie nr 95/93/WE z dnia 18 stycznia 1993 r. w sprawie wspólnych zasad przydzielania czasu na start lub lądowanie w portach lotniczych Wspólnoty.
 
-2. Koordynator działa na własny rachunek i nie jest przedsiębiorcą w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
+2. Koordynator działa na własny rachunek i nie jest przedsiębiorcą w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, z późn. zm. ).
 
 2a. Koordynator działa w sposób niezależny, neutralny, niedyskryminacyjny i przejrzysty.
 
@@ -1707,8 +1875,8 @@ Art. 213–221. (pominięte)
 
 2. Opłaty za koordynację rozkładów lotów są wnoszone przez:
 
-- **1)** przewoźników lotniczych – za każdą wykonaną operację lotniczą, dla której zgodnie z przepisami rozporządzenia nr 95/93/WE przyznane zostały czasy na start lub lądowanie – w wysokości obliczonej zgodnie z przepisami wydanymi na podstawie art. 67g;
-- **2)** zarządzającego lotniskiem, w porcie lotniczym, w którym wprowadzono koordynację rozkładów lotów i powołano koordynatora – w łącznej wysokości 50 % budżetu koordynatora.
+- **1)** przewoźników lotniczych za każdą wykonaną operację lotniczą, dla której zgodnie z przepisami rozporządzenia nr 95/93/WE przyznane zostały czasy na start lub lądowanie w wysokości obliczonej zgodnie z przepisami wydanymi na podstawie art. 67g;
+- **2)** zarządzającego lotniskiem, w porcie lotniczym, w którym wprowadzono koordynację rozkładów lotów i powołano koordynatora w łącznej wysokości 50 % budżetu koordynatora.
 
 3. W przypadku, o którym mowa w art. 3 ust. 6 rozporządzenia nr 95/93/WE, opłatę za koordynację rozkładów lotów w wysokości budżetu koordynatora ponosi zarządzający lotniskiem w porcie lotniczym, w którym wprowadzono koordynację rozkładów lotów i powołano koordynatora na czas określony.
 
@@ -1748,12 +1916,20 @@ Art. 213–221. (pominięte)
 
 2. Koordynator lub zarządzający lotniskiem, w którym wprowadzono koordynację rozkładów lotów, zapewnia dostęp do posiadanego planu lotu Prezesowi Urzędu, podmiotom, o których mowa w art. 77 ust. 1, właściwym organom kontroli ruchu lotniczego oraz użytkownikom statków powietrznych. Art. 67fb. Zarządzający lotniskiem w porozumieniu z koordynatorem lub organizatorem rozkładów lotów przed każdym sezonem rozkładowym wyznacza parametry koordynacyjne, z uwzględnieniem przepisów rozporządzenia nr 95/93/WE, i przekazuje je koordynatorowi lub organizatorowi rozkładów lotów. Art. 67fc. Prezes Urzędu może zarezerwować czasy na start lub lądowanie w przypadkach, o których mowa w art. 9 rozporządzenia nr 95/93/WE. Art. 67fd. 1. Dotychczasowy koordynator albo organizator rozkładów lotów jest obowiązany, w ciągu 30 dni od dnia powołania nowego koordynatora albo organizatora rozkładów lotów, przekazać nieodpłatnie odpowiednio koordynatorowi albo organizatorowi rozkładów lotów posiadane przez siebie dane, w tym co najmniej odpowiednio:
 
-- **1)** koordynator rozkładów lotów – dane dotyczące monitoringu zgodności operacji z czasami na start lub lądowanie przydzielonymi dla tych operacji, a w przypadku toczącego się procesu koordynacji rozkładów lotów na kolejne sezony – także dane dotyczące otrzymanych zapytań o czasy na start lub lądowanie, przedstawionych przez koordynatora ofert oraz przyznanych czasów na start lub lądowanie,
-- **2)** organizator rozkładów lotów – dane dotyczące monitoringu zgodności operacji z zaleconymi rozkładami lotów oraz dane wspomagające ustalenie przydzielonych i wykorzystanych czasów na start lub lądowanie w przeszłości, pozwalające na sprawdzenie spełnienia warunków, o których mowa w art. 8 ust. 2 rozporządzenia nr 95/93/WE – oraz dokumenty niezbędne nowemu koordynatorowi albo organizatorowi rozkładów lotów w celu skutecznej koordynacji albo organizacji rozkładów lotów. Forma przekazania i format danych oraz dokumentów powinny uwzględniać możliwość przetwarzania i dalszego udostępniania tych danych oraz dokumentów przez nowego koordynatora albo organizatora rozkładów lotów.
+- **1)** koordynator rozkładów lotów dane dotyczące monitoringu zgodności operacji z czasami na start lub lądowanie przydzielonymi dla tych operacji, a w przypadku toczącego się procesu koordynacji rozkładów lotów na kolejne sezony także dane dotyczące otrzymanych zapytań o czasy na start lub lądowanie, przedstawionych przez koordynatora ofert oraz przyznanych czasów na start lub lądowanie,
+- **2)** organizator rozkładów lotów dane dotyczące monitoringu zgodności operacji z zaleconymi rozkładami lotów oraz dane wspomagające ustalenie przydzielonych i wykorzystanych czasów na start lub lądowanie w przeszłości, pozwalające na sprawdzenie spełnienia warunków, o których mowa w art. 8 ust. 2 rozporządzenia nr 95/93/WE oraz dokumenty niezbędne nowemu koordynatorowi albo organizatorowi rozkładów lotów w celu skutecznej koordynacji albo organizacji rozkładów lotów. Forma przekazania i format danych oraz dokumentów powinny uwzględniać możliwość przetwarzania i dalszego udostępniania tych danych oraz dokumentów przez nowego koordynatora albo organizatora rozkładów lotów.
 
 2. Przepis ust. 1 stosuje się odpowiednio w przypadkach, o których mowa w art. 67f ust. 1 i 2.
 
 **Art. 67g.** Minister właściwy do spraw transportu określi, w drodze rozporządzenia, sposób:
+
+- **1)** wprowadzenia oraz znoszenia koordynacji i organizacji rozkładów lotów mając na uwadze przepisy Unii Europejskiej w zakresie przyznawania czasów na start lub lądowanie w portach lotniczych, konieczność przeprowadzenia konsultacji z zainteresowanymi stronami oraz przejrzystość postępowania;
+- **2)** wyboru, powoływania oraz odwoływania koordynatora i organizatora rozkładów lotów oraz dokumenty i informacje, jakie powinny zostać złożone przez kandydata ubiegającego się o powołanie na koordynatora lub organizatora rozkładów lotów mając na uwadze przejrzystość procesu wyboru koordynatora i organizatora rozkładów lotów;
+- **3)** opracowywania i opiniowania projektu budżetu koordynatora i organizatora rozkładów lotów, termin złożenia projektu budżetu koordynatora i organizatora rozkładów lotów do zatwierdzenia oraz dokumenty i informacje, jakie powinny być złożone do tych projektów mając na uwadze przejrzystość procesu sporządzania budżetu;
+- **4)** obliczania wysokości opłat za koordynację i organizację rozkładów lotów wnoszonych przez przewoźników lotniczych mając na uwadze zasadę niedyskryminacji oraz dostępność informacji umożliwiających ustalenie wysokości opłat;
+- **5)** postępowania Prezesa Urzędu w przypadku zniesienia organizacji i koordynacji rozkładów lotów mając na uwadze przepisy Unii Europejskiej w zakresie przyznawania czasów na start lub lądowanie w portach lotniczych, konieczność przeprowadzenia konsultacji z zainteresowanymi stronami oraz przejrzystość postępowania;
+- **6)** wyznaczania parametrów koordynacyjnych mając na uwadze przepisy Unii Europejskiej w zakresie przyznawania czasów na start lub lądowanie w portach lotniczych oraz przejrzystość procesu wyznaczania tych parametrów;
+- **7)** obliczania rekompensaty, o której mowa w art. 67d ust. 4 mając na uwadze zasadę niedyskryminacji oraz dostępność informacji umożliwiających ustalenie wysokości rekompensaty.
 
 **Art. 68.**
 
@@ -1796,7 +1972,7 @@ Art. 213–221. (pominięte)
 - **1)** prowadzić eksploatację lotniska w sposób zapewniający ciągłość ruchu lotniczego;
 - **1a)** niezwłocznie zawiadamiać Prezesa Urzędu oraz instytucje zapewniające służby ruchu lotniczego, zgodnie z wymaganiami określonymi w art. 8 rozporządzenia nr 255/2010/UE, o wszystkich zdarzeniach mogących mieć wpływ na pojemność kontroli ruchu lotniczego lub zapotrzebowanie ruchu lotniczego, ich przyczynach i przewidywanym okresie trwania;
 - **2)** niezwłocznie zawiadamiać zainteresowanych o wydaniu zarządzenia o zamknięciu lotniska dla ruchu lotniczego lub wprowadzeniu odpowiednich ograniczeń w jego eksploatacji, ich przyczynach i przewidywanym okresie trwania;
-- **3)** posiadać system zarządzania bezpieczeństwem na lotniskach – w zakresie wymaganym przez przepisy międzynarodowe oraz przepisy wydane na podstawie art. 59a ust. 6;
+- **3)** posiadać system zarządzania bezpieczeństwem na lotniskach w zakresie wymaganym przez przepisy międzynarodowe oraz przepisy wydane na podstawie art. 59a ust. 6;
 - **4)** koordynować prace zespołu ochrony lotniska;
 - **5)** posiadać zaktualizowany plan generalny;
 - **6)** określić granicę części lotniczej lotniska podlegającą zatwierdzeniu przez Prezesa Urzędu;
@@ -1859,7 +2035,7 @@ Art. 213–221. (pominięte)
 - **1)** określenie portu lotniczego;
 - **2)** propozycję ograniczenia operacyjnego, które ma być wprowadzone w porcie lotniczym;
 - **3)** uzasadnienie określające cel środowiskowy, jaki ma zostać osiągnięty poprzez wprowadzenie ograniczenia operacyjnego wraz z przewidywanymi skutkami ekonomiczno-społecznymi dla regionu;
-- **4)** informacje o realizacji art. 6 ust. 2 lit. a–c rozporządzenia nr 598/2014/UE – w przypadku wniosku zarządzającego portem lotniczym.
+- **4)** informacje o realizacji art. 6 ust. 2 lit. a–c rozporządzenia nr 598/2014/UE w przypadku wniosku zarządzającego portem lotniczym.
 
 3. Jeżeli w trakcie postępowania prowadzonego na podstawie ust. 1 zostanie złożony wniosek o wprowadzenie ograniczeń operacyjnych dotyczący tego samego portu lotniczego, Prezes Urzędu zawiesza postępowanie wszczęte na podstawie tego wniosku do czasu zakończenia wcześniejszego postępowania, o czym informuje wnioskodawcę. W przypadku wniosków złożonych w tym samym dniu, jako pierwszy rozpatrywany jest wniosek, który wcześniej wpłynął do Prezesa Urzędu.
 
@@ -1898,6 +2074,11 @@ Art. 213–221. (pominięte)
 - **4)** wzór wniosków o wydanie zwolnień, o których mowa w art. 9 i art. 10 rozporządzenia nr 598/2014/UE.
 
 **Art. 71e.** Minister właściwy do spraw transportu, mając na względzie potrzebę ograniczenia lub zmniejszenia uciążliwości hałasu w porcie lotniczym, określi, w drodze rozporządzenia:
+
+- **1)** zakres informacji wymaganych do przeprowadzenia konsultacji w celu wprowadzenia ograniczeń operacyjnych, o których mowa w art. 2 ust. 6 rozporządzenia nr 598/2014/UE;
+- **2)** tryb i sposób prowadzenia konsultacji, o których mowa w art. 71b ust. 1;
+- **3)** katalog podmiotów uprawnionych do uczestnictwa w konsultacjach;
+- **4)** szczegółowy sposób oraz terminy, w jakich podmioty, o których mowa w art. 71b ust. 4, przekazują zarządzającemu portem lotniczym informacje określone zgodnie z pkt 1.
 
 **Art. 72.**
 
@@ -1950,7 +2131,7 @@ Art. 213–221. (pominięte)
 4a. Na lotniskach użytku publicznego, na których występują problemy dotyczące ochrony środowiska związane z ochroną:
 
 - **1)** powierzchni ograniczających przeszkody przed naruszeniem ich przez drzewa lub krzewy,
-- **2)** wzrokowych pomocy nawigacyjnych przed zakłóceniami ich funkcjonowania przez drzewa lub krzewy – zarządzający lotniskiem może ustalić dopłaty do opłat lotniskowych, o których mowa w ust. 1, albo wyodrębnić opłatę środowiskową. W takim przypadku zarządzający lotniskiem ma obowiązek utworzenia funduszu celowego w wysokości pobieranych dopłat albo opłat związanych z ochroną środowiska, którego środki są przeznaczane wyłącznie na pokrycie kosztów ochrony środowiska związanych z prowadzeniem działań zapobiegawczych, kosztów usuwania drzew lub krzewów oraz kosztów opinii biegłych, usług prawnych i zasądzonych odszkodowań z tym związanych.
+- **2)** wzrokowych pomocy nawigacyjnych przed zakłóceniami ich funkcjonowania przez drzewa lub krzewy zarządzający lotniskiem może ustalić dopłaty do opłat lotniskowych, o których mowa w ust. 1, albo wyodrębnić opłatę środowiskową. W takim przypadku zarządzający lotniskiem ma obowiązek utworzenia funduszu celowego w wysokości pobieranych dopłat albo opłat związanych z ochroną środowiska, którego środki są przeznaczane wyłącznie na pokrycie kosztów ochrony środowiska związanych z prowadzeniem działań zapobiegawczych, kosztów usuwania drzew lub krzewów oraz kosztów opinii biegłych, usług prawnych i zasądzonych odszkodowań z tym związanych.
 
 5. Środki funduszy, o których mowa w ust. 4 i 4a, są przechowywane na wyodrębnionych oprocentowanych rachunkach bankowych. Uzyskane odsetki bankowe powiększają środki tych funduszy.
 
@@ -1960,15 +2141,15 @@ Art. 213–221. (pominięte)
 
 1. Nie pobiera się opłat lotniskowych na lotniskach użytku publicznego od podmiotu realizującego w interesie publicznym zadania związane z wykonaniem lotu:
 
-- **1)** w celu zapobiegania skutkom klęsk żywiołowych lub ich usunięcia oraz ratowania życia lub zdrowia ludzkiego, chyba że lot ten jest wykonywany w ramach prowadzonej działalności gospodarczej – potwierdzonego:
-    - **a)** statusem lotu: – HOSP (lot statku powietrznego wykonywany w celu niesienia pomocy medycznej zgłoszony przez odpowiednie służby medyczne), lub – SAR (lot statku powietrznego wykonującego akcję poszukiwawczo-ratowniczą), lub – HUM (lot statku powietrznego biorącego udział w akcji humanitarnej), lub
+- **1)** w celu zapobiegania skutkom klęsk żywiołowych lub ich usunięcia oraz ratowania życia lub zdrowia ludzkiego, chyba że lot ten jest wykonywany w ramach prowadzonej działalności gospodarczej potwierdzonego:
+    - **a)** statusem lotu: HOSP (lot statku powietrznego wykonywany w celu niesienia pomocy medycznej zgłoszony przez odpowiednie służby medyczne), lub SAR (lot statku powietrznego wykonującego akcję poszukiwawczo-ratowniczą), lub HUM (lot statku powietrznego biorącego udział w akcji humanitarnej), lub
     - **b)** odpowiednią uwagą w planie lotu;
 
-- **2)** w przypadkach ochrony granic, zapewnienia bezpieczeństwa państwa lub porządku publicznego – potwierdzonego:
-    - **a)** statusem lotu: – STATE (lot państwowego i cywilnego statku powietrznego w misjach wojskowych, policyjnych, celnych lub Straży Granicznej), lub – GARDA (hasło, na jakie statek powietrzny wykonuje zadania związane z bezpieczeństwem powszechnym, porządkiem publicznym i ochroną granicy), lub
+- **2)** w przypadkach ochrony granic, zapewnienia bezpieczeństwa państwa lub porządku publicznego potwierdzonego:
+    - **a)** statusem lotu: STATE (lot państwowego i cywilnego statku powietrznego w misjach wojskowych, policyjnych, celnych lub Straży Granicznej), lub GARDA (hasło, na jakie statek powietrzny wykonuje zadania związane z bezpieczeństwem powszechnym, porządkiem publicznym i ochroną granicy), lub
     - **b)** odpowiednią uwagą w planie lotu;
 
-- **3)** wyłącznie w celu przewozu, w oficjalnej misji, panującego monarchy i jego najbliższej rodziny, głowy państwa, przewodniczącego parlamentu lub jego izby, szefa rządu lub osoby zajmującej stanowisko równorzędne – potwierdzonego:
+- **3)** wyłącznie w celu przewozu, w oficjalnej misji, panującego monarchy i jego najbliższej rodziny, głowy państwa, przewodniczącego parlamentu lub jego izby, szefa rządu lub osoby zajmującej stanowisko równorzędne potwierdzonego:
     - **a)** statusem lotu HEAD (lot polskiego statku powietrznego nadany przez Komendanta Służby Ochrony Państwa), lub
     - **b)** odpowiednią uwagą w planie lotu.
 
@@ -2000,7 +2181,7 @@ Art. 213–221. (pominięte)
 1. Na wniosek zarządzającego lotniskiem użytku publicznego minister właściwy do spraw transportu, po zasięgnięciu opinii Prezesa Urzędu, może w drodze decyzji administracyjnej:
 
 - **1)** ustanowić sieć portów lotniczych stanowiącą grupę lotnisk użytku publicznego zarządzanych przez tego samego zarządzającego, w ramach której wprowadza się wspólny system opłat lotniskowych, albo
-- **2)** wyrazić zgodę na zastosowanie przez zarządzającego lotniskiem użytku publicznego wspólnego systemu opłat lotniskowych na lotniskach użytku publicznego obsługujących to samo miasto lub konurbację – mając na uwadze konieczność realizacji zasad niedyskryminacji oraz uwzględniając istniejące programy, strategie i decyzje w zakresie polityki transportowej dotyczącej lotnictwa cywilnego.
+- **2)** wyrazić zgodę na zastosowanie przez zarządzającego lotniskiem użytku publicznego wspólnego systemu opłat lotniskowych na lotniskach użytku publicznego obsługujących to samo miasto lub konurbację mając na uwadze konieczność realizacji zasad niedyskryminacji oraz uwzględniając istniejące programy, strategie i decyzje w zakresie polityki transportowej dotyczącej lotnictwa cywilnego.
 
 2. Przed złożeniem wniosku, o którym mowa w ust. 1, zarządzający lotniskiem użytku publicznego przeprowadza konsultacje z przewoźnikami lotniczymi stale korzystającymi z tych lotnisk, planowanych do objęcia siecią portów lotniczych albo wspólnym systemem opłat lotniskowych lub podmiotami ich reprezentującymi, w szczególności działającymi na tych lotniskach komitetami przewoźników lotniczych lub stowarzyszeniami przewoźników lotniczych, dotyczące propozycji ustanowienia odpowiednio sieci portów lotniczych albo wspólnego systemu opłat lotniskowych.
 
@@ -2009,7 +2190,7 @@ Art. 213–221. (pominięte)
 4. W przypadku gdy co najmniej jedno z lotnisk planowanych do objęcia wspólnym systemem opłat lotniskowych dla lotnisk obsługujących to samo miasto lub konurbację:
 
 - **1)** obsługuje w ciągu roku więcej niż 5 000 000 pasażerów, albo
-- **2)** obsłużyło największą liczbę pasażerów spośród lotnisk użytku publicznego na terytorium Rzeczypospolitej Polskiej w roku kalendarzowym poprzedzającym złożenie wniosku o wyrażenie zgody na zastosowanie przez zarządzającego lotniskiem użytku publicznego wspólnego systemu opłat lotniskowych, jeżeli żadne lotnisko w Rzeczypospolitej Polskiej nie spełnia kryterium określonego w pkt 1 – minister właściwy do spraw transportu, nie później niż na miesiąc przed dniem wyrażenia zgody na zastosowanie wspólnego systemu opłat lotniskowych, przesyła do Komisji Europejskiej informację o planowanym wyrażeniu tej zgody.
+- **2)** obsłużyło największą liczbę pasażerów spośród lotnisk użytku publicznego na terytorium Rzeczypospolitej Polskiej w roku kalendarzowym poprzedzającym złożenie wniosku o wyrażenie zgody na zastosowanie przez zarządzającego lotniskiem użytku publicznego wspólnego systemu opłat lotniskowych, jeżeli żadne lotnisko w Rzeczypospolitej Polskiej nie spełnia kryterium określonego w pkt 1 minister właściwy do spraw transportu, nie później niż na miesiąc przed dniem wyrażenia zgody na zastosowanie wspólnego systemu opłat lotniskowych, przesyła do Komisji Europejskiej informację o planowanym wyrażeniu tej zgody.
 
 5. W przypadku, o którym mowa w ust. 4, zarządzający lotniskiem przeprowadza w stosunku do każdego z lotnisk planowanych do objęcia wspólnym systemem opłat konsultacje zgodnie z art. 77c.
 
@@ -2037,13 +2218,13 @@ Art. 213–221. (pominięte)
 
 8. Przepisy ust. 1–7 stosuje się odpowiednio do zmiany poszczególnych postanowień taryfy opłat lotniskowych.
 
-9. W przypadku nowo zakładanych lotnisk użytku publicznego przepisy ust. 1– 7 stosuje się, przy czym konsultacje, o których mowa w art. 77 ust. 1, prowadzone są z przewoźnikami lotniczymi, którzy planują wykonywanie operacji do lub z danego lotniska użytku publicznego w sezonie rozkładowym, w którym planowane jest wejście w życie taryfy opłat lotniskowych lub w pierwszym sezonie rozkładowym następującym po sezonie, w którym planowane jest wejście w życie opłat, i poinformowali o takich planach zarządzającego lotniskiem, lub z przedstawicielami tych przewoźników. Konsultacje, o których mowa w zdaniu poprzednim mogą zostać rozpoczęte już po złożeniu przez zarządzającego lotniskiem wniosku o wydanie certyfikatu, o którym mowa w art. 160 ust. 3 pkt 3, z zastrzeżeniem, iż tak konsultowane opłaty lotniskowe wejdą w życie nie wcześniej, niż po uzyskaniu przez tego zarządzającego wymaganych przepisami ustawy certyfikatów i zezwoleń.
+9. W przypadku nowo zakładanych lotnisk użytku publicznego przepisy ust. 1–7 stosuje się, przy czym konsultacje, o których mowa w art. 77 ust. 1, prowadzone są z przewoźnikami lotniczymi, którzy planują wykonywanie operacji do lub z danego lotniska użytku publicznego w sezonie rozkładowym, w którym planowane jest wejście w życie taryfy opłat lotniskowych lub w pierwszym sezonie rozkładowym następującym po sezonie, w którym planowane jest wejście w życie opłat, i poinformowali o takich planach zarządzającego lotniskiem, lub z przedstawicielami tych przewoźników. Konsultacje, o których mowa w zdaniu poprzednim mogą zostać rozpoczęte już po złożeniu przez zarządzającego lotniskiem wniosku o wydanie certyfikatu, o którym mowa w art. 160 ust. 3 pkt 3, z zastrzeżeniem, iż tak konsultowane opłaty lotniskowe wejdą w życie nie wcześniej, niż po uzyskaniu przez tego zarządzającego wymaganych przepisami ustawy certyfikatów i zezwoleń.
 
 10. Przepisów ust. 1–9 nie stosuje się do zarządzającego lotniskiem użytku publicznego obsługującym w ciągu roku nie więcej niż 5 000 000 pasażerów, które jest lotniskiem użytku publicznego obsługującym największą liczbę pasażerów na terytorium Rzeczypospolitej Polskiej.
 
 **Art. 77c.**
 
-1. Zarządzający lotniskiem użytku publicznego obsługującym w ciągu roku więcej niż 5 000 000 pasażerów albo – jeżeli żadne lotnisko użytku publicznego w Rzeczypospolitej Polskiej nie spełnia tego kryterium – lotniskiem użytku publicznego, które w roku kalendarzowym poprzedzającym rozpoczęcie konsultacji obsłużyło największą liczbę pasażerów spośród lotnisk na terytorium Rzeczypospolitej Polskiej, oprócz realizacji obowiązku prowadzenia konsultacji, o których mowa w art. 77 ust. 1, jest obowiązany do corocznego prowadzenia konsultacji z podmiotami, o których mowa w art. 77 ust. 1, dotyczących funkcjonowania systemu opłat lotniskowych, wysokości tych opłat oraz jakości usług świadczonych w zamian za opłaty lotniskowe. W ramach prowadzonych konsultacji zarządzający lotniskiem przekazuje podmiotom, o których mowa w art. 77 ust. 1, informacje dotyczące w szczególności metody ustalania opłat oraz związanych z opłatami kosztów i przychodów, w tym pochodzących ze środków publicznych, jak również usług i elementów infrastruktury udostępnianych w zamian za pobierane opłaty, w tym stopnia wykorzystania tej infrastruktury oraz prognoz dotyczących ruchu lotniczego i opłat, a także planów rozwoju infrastruktury i ich wpływu na przepustowość portu lotniczego.
+1. Zarządzający lotniskiem użytku publicznego obsługującym w ciągu roku więcej niż 5 000 000 pasażerów albo jeżeli żadne lotnisko użytku publicznego w Rzeczypospolitej Polskiej nie spełnia tego kryterium lotniskiem użytku publicznego, które w roku kalendarzowym poprzedzającym rozpoczęcie konsultacji obsłużyło największą liczbę pasażerów spośród lotnisk na terytorium Rzeczypospolitej Polskiej, oprócz realizacji obowiązku prowadzenia konsultacji, o których mowa w art. 77 ust. 1, jest obowiązany do corocznego prowadzenia konsultacji z podmiotami, o których mowa w art. 77 ust. 1, dotyczących funkcjonowania systemu opłat lotniskowych, wysokości tych opłat oraz jakości usług świadczonych w zamian za opłaty lotniskowe. W ramach prowadzonych konsultacji zarządzający lotniskiem przekazuje podmiotom, o których mowa w art. 77 ust. 1, informacje dotyczące w szczególności metody ustalania opłat oraz związanych z opłatami kosztów i przychodów, w tym pochodzących ze środków publicznych, jak również usług i elementów infrastruktury udostępnianych w zamian za pobierane opłaty, w tym stopnia wykorzystania tej infrastruktury oraz prognoz dotyczących ruchu lotniczego i opłat, a także planów rozwoju infrastruktury i ich wpływu na przepustowość portu lotniczego.
 
 2. Przepisu ust. 1 zdanie pierwsze nie stosuje się, jeżeli w trakcie ostatnich przeprowadzonych konsultacji, o których mowa w ust. 1 albo w art. 77 ust. 1, zawarte zostało porozumienie między zarządzającym lotniskiem a podmiotami, o których mowa w art. 77 ust. 1, w którym został określony inny termin prowadzenia konsultacji. W takim przypadku konsultacje prowadzone są w terminie określonym w tym porozumieniu.
 
@@ -2102,7 +2283,7 @@ Art. 213–221. (pominięte)
 1. Zarządzający lotniskiem użytku publicznego może zróżnicować wysokość opłat lotniskowych ze względu na:
 
 - **1)** jakość, zakres lub koszty dotyczące korzystania z obiektów, urządzeń lub poszczególnych usług świadczonych przez zarządzającego lotniskiem użytku publicznego na lotnisku, w tym w terminalach lub ich częściach, w celu zapewnienia podmiotom, o których mowa w art. 75 ust. 1, usług dostosowanych do ich indywidualnych potrzeb lub udostępnienia tym podmiotom przeznaczonego do danego celu terminalu lub jego części, lub
-- **2)** jakiekolwiek inne obiektywne i przejrzyste przesłanki – pod warunkiem zachowania zasad niedyskryminacji i równego traktowania.
+- **2)** jakiekolwiek inne obiektywne i przejrzyste przesłanki pod warunkiem zachowania zasad niedyskryminacji i równego traktowania.
 
 2. Dostęp do obiektów, urządzeń lub poszczególnych usług dostosowanych do indywidualnych potrzeb, o których mowa w ust. 1, jest otwarty dla podmiotów, o których mowa w art. 75 ust. 1, z zastrzeżeniem ust. 3.
 
@@ -2115,6 +2296,10 @@ Art. 213–221. (pominięte)
 6. Prezes Urzędu, z urzędu lub na wniosek, o którym mowa w ust. 5, w drodze decyzji administracyjnej, nakazuje zarządzającemu lotniskiem zmianę kryteriów, o których mowa w ust. 3, w przypadku uznania, iż nie spełniają one wymagań określonych w ust. 4.
 
 **Art. 77j.** Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
+
+- **1)** szczegółowe warunki, sposób i tryb prowadzenia konsultacji, o których mowa w art. 77 ust. 1 i art. 77c, w tym zakres przedstawianych informacji,
+- **2)** szczegółowe wymagania dotyczące ustalania taryfy opłat lotniskowych,
+- **3)** tryb zatwierdzania taryfy opłat lotniskowych i tryb jej publikacji kierując się zasadami niedyskryminacji, przejrzystości, powiązania opłat z kosztami udostępniania obiektów i urządzeń oraz usług, a także mając na uwadze konieczność zapewnienia efektywnego nadzoru nad opłatami lotniskowymi.
 
 **Art. 77k.**
 
@@ -2174,11 +2359,11 @@ Art. 213–221. (pominięte)
 - **6)** wnioskuje o dokonanie redukcyjnego odstrzału zwierzyny, stosownie do przepisów prawa łowieckiego, w przypadku zagrożenia bezpieczeństwa operacji lotniczych przez zwierzynę, gdy inne metody ochrony okazały się nieskuteczne;
 - **7)** wnioskuje o wydanie decyzji:
     - **a)** w sprawie usunięcia drzewa lub krzewu stanowiącego przeszkodę lotniczą do starosty właściwego dla nieruchomości, na której znajduje się przeszkoda lotnicza,
-    - **b)** w sprawie usunięcia przeszkody lotniczej, która nie jest obiektem budowlanym, drzewem lub krzewem, a stanowi zagrożenie bezpieczeństwa ruchu lotniczego, do: – Prezesa Urzędu – w przypadku lotniska wpisanego do rejestru lotnisk cywilnych, – Ministra Obrony Narodowej – w przypadku lotniska wpisanego wyłącznie do rejestru lotnisk i lądowisk wojskowych, – ministra właściwego do spraw wewnętrznych – w przypadku lotniska wpisanego wyłącznie do rejestru lotnisk i lądowisk lotnictwa służb porządku publicznego;
+    - **b)** w sprawie usunięcia przeszkody lotniczej, która nie jest obiektem budowlanym, drzewem lub krzewem, a stanowi zagrożenie bezpieczeństwa ruchu lotniczego, do: Prezesa Urzędu w przypadku lotniska wpisanego do rejestru lotnisk cywilnych, Ministra Obrony Narodowej w przypadku lotniska wpisanego wyłącznie do rejestru lotnisk i lądowisk wojskowych, ministra właściwego do spraw wewnętrznych w przypadku lotniska wpisanego wyłącznie do rejestru lotnisk i lądowisk lotnictwa służb porządku publicznego;
 
 - **8)** zawiadamia niezwłocznie:
-    - **a)** w przypadku stwierdzenia, że na terenie znajdującym się w granicach powierzchni ograniczających przeszkody są wznoszone lub znajdują się obiekty mogące stanowić przeszkody lotnicze albo że istniejące przeszkody lotnicze nie są oznakowane zgodnie z wymogami określonymi w przepisach wydanych na podstawie art. 92 ust. 2: – Prezesa Urzędu – w przypadku lotniska wpisanego do rejestru lotnisk cywilnych, – Ministra Obrony Narodowej – w przypadku lotniska wpisanego wyłącznie do rejestru lotnisk i lądowisk wojskowych, – ministra właściwego do spraw wewnętrznych – w przypadku lotniska wpisanego wyłącznie do rejestru lotnisk i lądowisk lotnictwa służb porządku publicznego,
-    - **b)** właściwy organ nadzoru budowlanego – w przypadku, o którym mowa w lit. a, w zakresie obiektów budowlanych oraz urządzeń związanych z prowadzoną budową.
+    - **a)** w przypadku stwierdzenia, że na terenie znajdującym się w granicach powierzchni ograniczających przeszkody są wznoszone lub znajdują się obiekty mogące stanowić przeszkody lotnicze albo że istniejące przeszkody lotnicze nie są oznakowane zgodnie z wymogami określonymi w przepisach wydanych na podstawie art. 92 ust. 2: Prezesa Urzędu w przypadku lotniska wpisanego do rejestru lotnisk cywilnych, Ministra Obrony Narodowej w przypadku lotniska wpisanego wyłącznie do rejestru lotnisk i lądowisk wojskowych, ministra właściwego do spraw wewnętrznych w przypadku lotniska wpisanego wyłącznie do rejestru lotnisk i lądowisk lotnictwa służb porządku publicznego,
+    - **b)** właściwy organ nadzoru budowlanego w przypadku, o którym mowa w lit. a, w zakresie obiektów budowlanych oraz urządzeń związanych z prowadzoną budową.
 
 1a. Zadania, o których mowa w ust. 1 pkt 6–8, w odniesieniu do lotnisk wpisanych wyłącznie do rejestru lotnisk i lądowisk wojskowych albo wpisanych wyłącznie do rejestru lotnisk i lądowisk lotnictwa służb porządku publicznego wykonuje jednostka organizacyjna zarządzająca lotniskiem wpisanym wyłącznie do rejestru lotnisk i lądowisk wojskowych albo wpisanym wyłącznie do rejestru lotnisk i lądowisk lotnictwa służb porządku publicznego.
 
@@ -2205,9 +2390,9 @@ Art. 213–221. (pominięte)
 
 8. W sprawie usunięcia przeszkody lotniczej, która nie jest obiektem budowlanym, drzewem lub krzewem, a stanowi zagrożenie bezpieczeństwa ruchu lotniczego, rozstrzyga, w drodze decyzji administracyjnej:
 
-- **1)** Prezes Urzędu – w przypadku lotniska wpisanego do rejestru lotnisk cywilnych;
-- **2)** Minister Obrony Narodowej – w przypadku lotniska wpisanego wyłącznie do rejestru lotnisk i lądowisk wojskowych;
-- **3)** minister właściwy do spraw wewnętrznych – w przypadku lotniska wpisanego wyłącznie do rejestru lotnisk i lądowisk lotnictwa służb porządku publicznego.
+- **1)** Prezes Urzędu w przypadku lotniska wpisanego do rejestru lotnisk cywilnych;
+- **2)** Minister Obrony Narodowej w przypadku lotniska wpisanego wyłącznie do rejestru lotnisk i lądowisk wojskowych;
+- **3)** minister właściwy do spraw wewnętrznych w przypadku lotniska wpisanego wyłącznie do rejestru lotnisk i lądowisk lotnictwa służb porządku publicznego.
 
 **Art. 83.**
 
@@ -2263,11 +2448,11 @@ Art. 213–221. (pominięte)
 2. Zarządzający lotniskiem obowiązany jest w szczególności:
 
 - **1)** opracować, z uwzględnieniem przepisów międzynarodowych, plan działania w sytuacji zagrożenia uzgodniony z:
-    - **a)** właściwym terenowo komendantem wojewódzkim Państwowej Straży Pożarnej – w przypadku portów lotniczych,
-    - **b)** komendantem powiatowym albo miejskim Państwowej Straży Pożarnej – w przypadku pozostałych lotnisk;
+    - **a)** właściwym terenowo komendantem wojewódzkim Państwowej Straży Pożarnej w przypadku portów lotniczych,
+    - **b)** komendantem powiatowym albo miejskim Państwowej Straży Pożarnej w przypadku pozostałych lotnisk;
 
 - **2)** (uchylony)
-- **3)** zorganizować i zapewnić funkcjonowanie służby ratowniczo-gaśniczej wyposażonej w sprzęt specjalistyczny – w przypadku lotniska użytku publicznego;
+- **3)** zorganizować i zapewnić funkcjonowanie służby ratowniczo-gaśniczej wyposażonej w sprzęt specjalistyczny w przypadku lotniska użytku publicznego;
 - **4)** utrzymywać niezbędne środki ratownicze i przeciwpożarowe.
 
 3. Lotniskowa służba ratowniczo-gaśnicza jest jednostką ochrony przeciwpożarowej w rozumieniu ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2025 r. poz. 188).
@@ -2281,6 +2466,10 @@ Art. 213–221. (pominięte)
 7. Plan, o którym mowa w ust. 2 pkt 1, w szczególności określa zasady koordynacji działań służb, o których mowa w ust. 6.
 
 **Art. 85.** Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, z uwzględnieniem przepisów międzynarodowych:
+
+- **1)** wymagania dotyczące przygotowania lotniska do sytuacji zagrożenia oraz planu działania w sytuacji zagrożenia, uwzględniając klasyfikację lotnisk przyjętą dla celów ratowniczo-gaśniczych;
+- **2)** zakres obowiązków podmiotów, o których mowa w art. 84 ust. 6, z uwzględnieniem zadań tych jednostek określonych odrębnymi przepisami oraz zadań zarządzającego lotniskiem w zakresie koordynacji;
+- **3)** warunki i program szkolenia służb ratowniczo-gaśniczych, o których mowa w art. 84 ust. 2 pkt 3, uwzględniając klasyfikację lotnisk przyjętą dla celów ratowniczo-gaśniczych.
 
 #### Rozdział 4 Otoczenie lotniska i lotnicze urządzenia naziemne
 
@@ -2307,7 +2496,7 @@ Art. 213–221. (pominięte)
 
 6. Zarządzający lotniskiem użytku publicznego oraz instytucje zapewniające służby ruchu lotniczego obowiązani są utrzymywać lotnicze urządzenia naziemne w pełnej sprawności technicznej oraz używać ich zgodnie z przeznaczeniem.
 
-7. Prezes Urzędu uzgadnia projekty miejscowych planów zagospodarowania przestrzennego i projekty decyzji o warunkach zabudowy i zagospodarowania terenu oraz opiniuje projekty planów ogólnych gmin i projekty planów zagospodarowania przestrzennego województwa, dla terenów, na których jest planowane lub znajduje się lotnicze urządzenie naziemne oraz wyznaczono powierzchnie ograniczające zabudowę, pod względem bezpieczeństwa ruchu lotniczego i prawidłowego funkcjonowania lotniczych urządzeń naziemnych.
+7. Prezes Urzędu uzgadnia projekty miejscowych planów zagospodarowania przestrzennego, projekty planów ogólnych gmin, projekty decyzji o warunkach zabudowy i zagospodarowania terenu oraz opiniuje projekty planów zagospodarowania przestrzennego województwa, dla terenów, na których jest planowane lub znajduje się lotnicze urządzenie naziemne oraz wyznaczono powierzchnie ograniczające zabudowę, pod względem bezpieczeństwa ruchu lotniczego i prawidłowego funkcjonowania lotniczych urządzeń naziemnych.
 
 8. W terminie 14 dni od dnia zatwierdzenia planu generalnego lotniska, zatwierdzenia zmiany planu generalnego lotniska, otrzymania decyzji o wpisie lotniczego urządzenia naziemnego do rejestru lotniczych urządzeń naziemnych, decyzji o pozwoleniu na budowę lotniczego urządzenia naziemnego, decyzji o wprowadzeniu zmian w systemie funkcjonalnym lub każdej innej decyzji o zmianie powierzchni ograniczających zabudowę, podmiot, o którym mowa w ust. 2, przekazuje do organu samorządu terytorialnego właściwego w sprawach planowania i zagospodarowania przestrzennego na terenie, na którym wyznaczono powierzchnie ograniczające zabudowę, oraz do wojewody właściwego miejscowo dla terenu, na którym wyznaczono powierzchnie ograniczające zabudowę, mapę w skali 1:25 000 z tymi powierzchniami, w celu uwzględnienia wskazanych ograniczeń wysokości zabudowy przy planowaniu przestrzennym.
 
@@ -2333,11 +2522,11 @@ Art. 213–221. (pominięte)
 
 3. Zgody na powstanie obiektu stałego o charakterze trwałym, którego wysokość przekracza wysokość wyznaczoną przez powierzchnie ograniczające przeszkody, udziela, w drodze decyzji administracyjnej:
 
-- **1)** Prezes Urzędu – w przypadku lotniska wpisanego do rejestru lotnisk cywilnych,
-- **2)** Minister Obrony Narodowej – w przypadku lotniska wpisanego wyłącznie do rejestru lotnisk i lądowisk wojskowych,
-- **3)** minister właściwy do spraw wewnętrznych – w przypadku lotniska wpisanego wyłącznie do rejestru lotnisk i lądowisk lotnictwa służb porządku publicznego – jeżeli uzna – po zasięgnięciu opinii odpowiednio zarządzającego lotniskiem albo jednostki organizacyjnej zarządzającej lotniskiem wpisanym wyłącznie do rejestru lotnisk i lądowisk wojskowych albo wpisanym wyłącznie do rejestru lotnisk i lądowisk lotnictwa służb porządku publicznego i instytucji zapewniającej służbę ruchu lotniczego, o ile taka służba funkcjonuje na lotnisku – że obiekt ten nie stanowi niedopuszczalnego zagrożenia dla ruchu statków powietrznych oraz zostaną spełnione warunki określone w przepisach wydanych na podstawie art. 92 ust. 2.
+- **1)** Prezes Urzędu w przypadku lotniska wpisanego do rejestru lotnisk cywilnych,
+- **2)** Minister Obrony Narodowej w przypadku lotniska wpisanego wyłącznie do rejestru lotnisk i lądowisk wojskowych,
+- **3)** minister właściwy do spraw wewnętrznych w przypadku lotniska wpisanego wyłącznie do rejestru lotnisk i lądowisk lotnictwa służb porządku publicznego jeżeli uzna po zasięgnięciu opinii odpowiednio zarządzającego lotniskiem albo jednostki organizacyjnej zarządzającej lotniskiem wpisanym wyłącznie do rejestru lotnisk i lądowisk wojskowych albo wpisanym wyłącznie do rejestru lotnisk i lądowisk lotnictwa służb porządku publicznego i instytucji zapewniającej służbę ruchu lotniczego, o ile taka służba funkcjonuje na lotnisku że obiekt ten nie stanowi niedopuszczalnego zagrożenia dla ruchu statków powietrznych oraz zostaną spełnione warunki określone w przepisach wydanych na podstawie art. 92 ust. 2.
 
-4. Dopuszcza się powstanie obiektu stałego o charakterze czasowym lub obiektu ruchomego przekraczającego wysokość wyznaczoną przez powierzchnie ograniczające przeszkody, jeżeli zostaną spełnione warunki określone w przepisach wydanych na podstawie art. 92 ust. 2 oraz lokalizacja obiektu zostanie uzgodniona odpowiednio z zarządzającym lotniskiem albo jednostką organizacyjną zarządzającą lotniskiem wpisanym wyłącznie do rejestru lotnisk i lądowisk wojskowych albo wpisanym wyłącznie do rejestru lotnisk i lądowisk lotnictwa służb porządku publicznego oraz z instytucją zapewniającą służbę ruchu lotniczego – o ile taka służba funkcjonuje na lotnisku.
+4. Dopuszcza się powstanie obiektu stałego o charakterze czasowym lub obiektu ruchomego przekraczającego wysokość wyznaczoną przez powierzchnie ograniczające przeszkody, jeżeli zostaną spełnione warunki określone w przepisach wydanych na podstawie art. 92 ust. 2 oraz lokalizacja obiektu zostanie uzgodniona odpowiednio z zarządzającym lotniskiem albo jednostką organizacyjną zarządzającą lotniskiem wpisanym wyłącznie do rejestru lotnisk i lądowisk wojskowych albo wpisanym wyłącznie do rejestru lotnisk i lądowisk lotnictwa służb porządku publicznego oraz z instytucją zapewniającą służbę ruchu lotniczego o ile taka służba funkcjonuje na lotnisku.
 
 **Art. 87¹.**
 
@@ -2359,9 +2548,9 @@ Art. 213–221. (pominięte)
 6. Zgłoszenia przeszkody lotniczej do Prezesa Urzędu, Ministra Obrony Narodowej oraz ministra właściwego do spraw wewnętrznych dokonuje:
 
 - **1)** właściciel nieruchomości, użytkownik wieczysty albo osoba, której przysługują ograniczone prawa rzeczowe do nieruchomości, w zależności od tego, kto faktycznie włada nieruchomością, na której znajduje się przeszkoda lotnicza;
-- **2)** zarządzający lotniskiem albo jednostka organizacyjna zarządzająca lotniskiem wpisanym wyłącznie do rejestru lotnisk i lądowisk wojskowych albo wpisanym wyłącznie do rejestru lotnisk i lądowisk lotnictwa służb porządku publicznego, w którego granicach powierzchni ograniczających przeszkody znajduje się przeszkoda lotnicza – w przypadku braku osoby, o której mowa w pkt 1, albo gdy miejsce pobytu tej osoby nie jest znane i nie jest możliwe do ustalenia na podstawie katastru nieruchomości w rozumieniu art. 2 pkt 8 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne; zarządzający lotniskiem ma prawo dostępu do nieruchomości, na której znajduje się przeszkoda lotnicza w granicach powierzchni ograniczających przeszkody, celem pomiaru i weryfikacji danych o tej przeszkodzie;
+- **2)** zarządzający lotniskiem albo jednostka organizacyjna zarządzająca lotniskiem wpisanym wyłącznie do rejestru lotnisk i lądowisk wojskowych albo wpisanym wyłącznie do rejestru lotnisk i lądowisk lotnictwa służb porządku publicznego, w którego granicach powierzchni ograniczających przeszkody znajduje się przeszkoda lotnicza w przypadku braku osoby, o której mowa w pkt 1, albo gdy miejsce pobytu tej osoby nie jest znane i nie jest możliwe do ustalenia na podstawie katastru nieruchomości w rozumieniu art. 2 pkt 8 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne; zarządzający lotniskiem ma prawo dostępu do nieruchomości, na której znajduje się przeszkoda lotnicza w granicach powierzchni ograniczających przeszkody, celem pomiaru i weryfikacji danych o tej przeszkodzie;
 - **3)** podmiot, który doprowadził do powstania obiektu, o którym mowa w art. 87 ust. 4;
-- **4)** podmiot, który uzyskał pozwolenie na wznoszenie lub wykorzystywanie sztucznych wysp, konstrukcji i urządzeń w polskich obszarach morskich, wydane na podstawie ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125 oraz z 2025 r. poz. 409) – w przypadku przedsięwzięć zlokalizowanych na obszarach morskich Rzeczypospolitej Polskiej.
+- **4)** podmiot, który uzyskał pozwolenie na wznoszenie lub wykorzystywanie sztucznych wysp, konstrukcji i urządzeń w polskich obszarach morskich, wydane na podstawie ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125 oraz z 2025 r. poz. 409) w przypadku przedsięwzięć zlokalizowanych na obszarach morskich Rzeczypospolitej Polskiej.
 
 7. W przypadku zmiany w zakresie informacji podlegających zgłoszeniu podmiot obowiązany do zgłoszenia przeszkody lotniczej przekazuje uaktualnione informacje do Prezesa Urzędu, Ministra Obrony Narodowej oraz ministra właściwego do spraw wewnętrznych.
 
@@ -2377,10 +2566,10 @@ Art. 213–221. (pominięte)
 
 2. Zgłoszenia, o którym mowa w ust. 1, dokonuje się nie później niż 2 miesiące przed dniem osiągnięcia przez obiekt budowlany wysokości 50 m powyżej poziomu otaczającego terenu lub wody.
 
-3. Zgłoszenia, o którym mowa w ust. 1, w formie dokumentów elektronicznych opatrzonych kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, a w przypadku braku możliwości złożenia kwalifikowanego podpisu elektronicznego, podpisu zaufanego albo podpisu osobistego – w formie dokumentów elektronicznych oraz wydruku z własnoręcznym czytelnym podpisem, dokonuje podmiot:
+3. Zgłoszenia, o którym mowa w ust. 1, w formie dokumentów elektronicznych opatrzonych kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, a w przypadku braku możliwości złożenia kwalifikowanego podpisu elektronicznego, podpisu zaufanego albo podpisu osobistego w formie dokumentów elektronicznych oraz wydruku z własnoręcznym czytelnym podpisem, dokonuje podmiot:
 
 - **1)** będący właścicielem nieruchomości, użytkownikiem wieczystym, osobą, której przysługują ograniczone prawa rzeczowe do nieruchomości, albo innym podmiotem władającym lub gospodarującym nieruchomością, na której znajduje się obiekt budowlany, w zależności od tego, kto faktycznie włada lub gospodaruje tą nieruchomością;
-- **2)** który uzyskał pozwolenie na wznoszenie lub wykorzystywanie sztucznych wysp, konstrukcji i urządzeń w polskich obszarach morskich, wydane na podstawie przepisów ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej – w przypadku przedsięwzięć zlokalizowanych na obszarach morskich Rzeczypospolitej Polskiej.
+- **2)** który uzyskał pozwolenie na wznoszenie lub wykorzystywanie sztucznych wysp, konstrukcji i urządzeń w polskich obszarach morskich, wydane na podstawie przepisów ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej w przypadku przedsięwzięć zlokalizowanych na obszarach morskich Rzeczypospolitej Polskiej.
 
 4. Zgłoszenie, o którym mowa w ust. 1, zawiera:
 
@@ -2403,13 +2592,13 @@ Art. 213–221. (pominięte)
 
 - **1)** zmiany w zakresie danych, o których mowa w ust. 4 pkt 1,
 - **2)** zmiany wysokości obiektu budowlanego, o którym mowa w ust. 1, skutkującej wygaśnięciem obowiązku jego zgłoszenia,
-- **3)** likwidacji obiektu budowlanego, o którym mowa w ust. 1 – podmiot, o którym mowa w ust. 3, niezwłocznie, jednak nie później niż w terminie 14 dni odpowiednio od dnia zaistnienia zmiany albo od dnia likwidacji obiektu budowlanego, zawiadamia o tym Ministra Obrony Narodowej, w celu aktualizacji ewidencji, o której mowa w ust. 5.
+- **3)** likwidacji obiektu budowlanego, o którym mowa w ust. 1 podmiot, o którym mowa w ust. 3, niezwłocznie, jednak nie później niż w terminie 14 dni odpowiednio od dnia zaistnienia zmiany albo od dnia likwidacji obiektu budowlanego, zawiadamia o tym Ministra Obrony Narodowej, w celu aktualizacji ewidencji, o której mowa w ust. 5.
 
 7. W przypadku, o którym mowa w ust. 6 pkt 1, zawiadomienie zawiera uaktualnione dane.
 
 8. Na podstawie zawiadomienia, o którym mowa w ust. 6, Minister Obrony Narodowej aktualizuje ewidencję, o której mowa w ust. 5.
 
-9. W przypadku gdy nie ma podmiotu, o którym mowa w ust. 3, albo gdy miejsce jego pobytu nie jest znane lub nie jest możliwe do ustalenia na podstawie katastru nieruchomości w rozumieniu art. 2 pkt 8 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, przedstawiciel Ministra Obrony Narodowej ma prawo dostępu do nieruchomości, na której znajduje się obiekt budowlany, o którym mowa w ust. 1, w celu pomiaru i weryfikacji danych i informacji, o których mowa w ust. 4 pkt 2–4, o tym obiekcie, a w przypadku stwierdzenia rozbieżności między stanem faktycznym a danymi i informacjami zawartymi w ewidencji, o której mowa w ust. 5, dokonuje się z urzędu jej aktualizacji.
+9. W przypadku gdy nie ma podmiotu, o którym mowa w ust. 3, albo gdy miejsce jego pobytu nie jest znane lub nie jest możliwe do ustalenia na podstawie katastru nieruchomości w rozumieniu art. 2 pkt 8 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne, przedstawiciel Ministra Obrony Narodowej ma prawo dostępu do nieruchomości, na której znajduje się obiekt budowlany, o którym mowa w ust. 1, w celu pomiaru i weryfikacji danych i informacji, o których mowa w ust. 4 pkt 2–4, o tym obiekcie, a w przypadku stwierdzenia rozbieżności między stanem faktycznym a danymi i informacjami zawartymi w ewidencji, o której mowa w ust. 5, dokonuje się z urzędu jej aktualizacji.
 
 10. Minister Obrony Narodowej może upoważnić kierownika podległej mu lub przez niego nadzorowanej jednostki organizacyjnej do załatwiania spraw związanych z obsługą zgłoszeń i zawiadomień dotyczących obiektów budowlanych, o których mowa w ust. 1, oraz do prowadzenia ewidencji, o której mowa w ust. 5.
 
@@ -2417,23 +2606,23 @@ Art. 213–221. (pominięte)
 
 1. Przeszkody lotnicze oznakowuje się, z uwzględnieniem przepisów wydanych na podstawie art. 92 ust. 2, chyba że nie podlegają oznakowaniu na podstawie tych przepisów albo zostały zwolnione z obowiązku oznakowania przez:
 
-- **1)** Ministra Obrony Narodowej – w przypadku:
-    - **a)** przeszkód lotniczych, o których mowa w art. 87 ust. 1 pkt 1 i 3 – w zakresie lotnisk wpisanych wyłącznie do rejestru lotnisk i lądowisk wojskowych,
+- **1)** Ministra Obrony Narodowej w przypadku:
+    - **a)** przeszkód lotniczych, o których mowa w art. 87 ust. 1 pkt 1 i 3 w zakresie lotnisk wpisanych wyłącznie do rejestru lotnisk i lądowisk wojskowych,
     - **b)** obiektów uznanych za przeszkody lotnicze przez Ministra Obrony Narodowej zgodnie z art. 87 ust. 1 pkt 4;
 
-- **2)** ministra właściwego do spraw wewnętrznych – w przypadku:
-    - **a)** przeszkód lotniczych, o których mowa w art. 87 ust. 1 pkt 1 i 3 – w zakresie lotnisk wpisanych wyłącznie do rejestru lotnisk i lądowisk lotnictwa służb porządku publicznego,
+- **2)** ministra właściwego do spraw wewnętrznych w przypadku:
+    - **a)** przeszkód lotniczych, o których mowa w art. 87 ust. 1 pkt 1 i 3 w zakresie lotnisk wpisanych wyłącznie do rejestru lotnisk i lądowisk lotnictwa służb porządku publicznego,
     - **b)** obiektów uznanych za przeszkody lotnicze przez ministra właściwego do spraw wewnętrznych zgodnie z art. 87 ust. 1 pkt 4;
 
-- **3)** Prezesa Urzędu – w przypadkach innych niż określone w pkt 1 i 2, z tym że zwolnienie z obowiązku oznakowania przeszkód lotniczych, o których mowa w art. 87 ust. 1 pkt 2, następuje po uzgodnieniu z Ministrem Obrony Narodowej i ministrem właściwym do spraw wewnętrznych.
+- **3)** Prezesa Urzędu w przypadkach innych niż określone w pkt 1 i 2, z tym że zwolnienie z obowiązku oznakowania przeszkód lotniczych, o których mowa w art. 87 ust. 1 pkt 2, następuje po uzgodnieniu z Ministrem Obrony Narodowej i ministrem właściwym do spraw wewnętrznych.
 
 2. Do oznakowania przeszkody lotniczej jest obowiązany:
 
 - **1)** właściciel nieruchomości, użytkownik wieczysty albo osoba, której przysługują ograniczone prawa rzeczowe do nieruchomości, w zależności od tego, kto faktycznie włada nieruchomością, na której znajduje się przeszkoda lotnicza;
-- **2)** zarządzający lotniskiem albo jednostka organizacyjna zarządzająca lotniskiem wpisanym wyłącznie do rejestru lotnisk i lądowisk wojskowych albo wpisanym wyłącznie do rejestru lotnisk i lądowisk lotnictwa służb porządku publicznego, w którego granicach powierzchni ograniczających przeszkody znajduje się przeszkoda lotnicza – w przypadku braku osoby, o której mowa w pkt 1, albo gdy miejsce pobytu tej osoby nie jest znane i nie jest możliwe do ustalenia na podstawie katastru nieruchomości w rozumieniu art. 2 pkt 8 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne;
+- **2)** zarządzający lotniskiem albo jednostka organizacyjna zarządzająca lotniskiem wpisanym wyłącznie do rejestru lotnisk i lądowisk wojskowych albo wpisanym wyłącznie do rejestru lotnisk i lądowisk lotnictwa służb porządku publicznego, w którego granicach powierzchni ograniczających przeszkody znajduje się przeszkoda lotnicza w przypadku braku osoby, o której mowa w pkt 1, albo gdy miejsce pobytu tej osoby nie jest znane i nie jest możliwe do ustalenia na podstawie katastru nieruchomości w rozumieniu art. 2 pkt 8 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne;
 - **3)** zarządzający lotniskiem albo jednostka organizacyjna zarządzająca lotniskiem wpisanym wyłącznie do rejestru lotnisk i lądowisk wojskowych albo wpisanym wyłącznie do rejestru lotnisk i lądowisk lotnictwa służb porządku publicznego, w którego granicach powierzchni ograniczających przeszkody znajduje się przeszkoda lotnicza, jeżeli obiekt wcześniej niebędący przeszkodą lotniczą stał się nią w wyniku budowy, rozbudowy lub zmiany cech lotniska;
-- **4)** wnioskodawca w sprawach, o których mowa w art. 87 ust. 1 pkt 4, a w przypadku gdy postępowanie zostało wszczęte z urzędu – posiadacz nieruchomości, na której znajduje się przeszkoda lotnicza;
-- **5)** podmiot, który uzyskał pozwolenie na wznoszenie lub wykorzystywanie sztucznych wysp, konstrukcji i urządzeń w polskich obszarach morskich, wydane na podstawie ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej – w przypadku przedsięwzięć zlokalizowanych na obszarach morskich Rzeczypospolitej Polskiej.
+- **4)** wnioskodawca w sprawach, o których mowa w art. 87 ust. 1 pkt 4, a w przypadku gdy postępowanie zostało wszczęte z urzędu posiadacz nieruchomości, na której znajduje się przeszkoda lotnicza;
+- **5)** podmiot, który uzyskał pozwolenie na wznoszenie lub wykorzystywanie sztucznych wysp, konstrukcji i urządzeń w polskich obszarach morskich, wydane na podstawie ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej w przypadku przedsięwzięć zlokalizowanych na obszarach morskich Rzeczypospolitej Polskiej.
 
 3. Prezes Urzędu, Minister Obrony Narodowej oraz minister właściwy do spraw wewnętrznych, w drodze decyzji administracyjnej, zwalnia z obowiązku oznakowania przeszkody lotniczej albo zezwala na zmianę sposobu lub rodzaju jej oznakowania, w przypadkach określonych w przepisach wydanych na podstawie art. 92 ust. 2, jeżeli nie spowoduje to obniżenia bezpieczeństwa żeglugi powietrznej lub wynika to ze względów technicznych przeszkody lotniczej.
 
@@ -2454,7 +2643,7 @@ Art. 213–221. (pominięte)
 2. Obowiązek i koszt usunięcia albo odpowiedniego przycięcia drzewa lub krzewu, o którym mowa w ust. 1, obciąża:
 
 - **1)** właściciela nieruchomości, użytkownika wieczystego albo osobę, której przysługują ograniczone prawa rzeczowe do nieruchomości, w zależności od tego, kto faktycznie włada nieruchomością, na której znajduje się taka przeszkoda;
-- **2)** zarządzającego lotniskiem albo jednostkę organizacyjną zarządzającą lotniskiem wpisanym wyłącznie do rejestru lotnisk i lądowisk wojskowych albo wpisanym wyłącznie do rejestru lotnisk i lądowisk lotnictwa służb porządku publicznego, w którego granicach powierzchni ograniczających przeszkody znajduje się przeszkoda, albo podmiot, o którym mowa w art. 82 ust. 2 – w przypadku braku osoby, o której mowa w pkt 1, albo gdy miejsce pobytu tej osoby nie jest znane i nie jest możliwe do ustalenia na podstawie katastru nieruchomości w rozumieniu art. 2 pkt 8 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne.
+- **2)** zarządzającego lotniskiem albo jednostkę organizacyjną zarządzającą lotniskiem wpisanym wyłącznie do rejestru lotnisk i lądowisk wojskowych albo wpisanym wyłącznie do rejestru lotnisk i lądowisk lotnictwa służb porządku publicznego, w którego granicach powierzchni ograniczających przeszkody znajduje się przeszkoda, albo podmiot, o którym mowa w art. 82 ust. 2 w przypadku braku osoby, o której mowa w pkt 1, albo gdy miejsce pobytu tej osoby nie jest znane i nie jest możliwe do ustalenia na podstawie katastru nieruchomości w rozumieniu art. 2 pkt 8 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne.
 
 3. W przypadku, o którym mowa w ust. 2 pkt 1, dla nieruchomości będących w zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe, zwanego dalej „Lasami Państwowymi”, na podstawie ustawy z dnia 28 września 1991 r. o lasach, Lasy Państwowe są obowiązane do dokonania nieodpłatnie usunięcia i uprzątnięcia drzewa lub krzewu w terminie ustalonym w odrębnym porozumieniu albo umowie z zarządzającym lotniskiem użytku publicznego albo podmiotem, o którym mowa w art. 82 ust. 2. Koszty usunięcia drzewa lub krzewu w wieku do 20 lat oraz ich uprzątnięcia z nieruchomości będących w zarządzie Lasów Państwowych ponosi zarządzający lotniskiem użytku publicznego albo podmiot, o którym mowa w art. 82 ust. 2.
 
@@ -2463,18 +2652,18 @@ Art. 213–221. (pominięte)
 5. W przypadku niewystąpienia z wnioskiem, o którym mowa w ust. 4, przez podmioty, o których mowa w ust. 2 pkt 1, starosta właściwy dla nieruchomości, na której znajduje się drzewo lub krzew, o którym mowa w ust. 1, wydaje, na wniosek zarządzającego lotniskiem albo jednostki organizacyjnej zarządzającej lotniskiem wpisanym wyłącznie do rejestru lotnisk i lądowisk wojskowych albo wpisanym wyłącznie do rejestru lotnisk i lądowisk lotnictwa służb porządku publicznego, zakładającego lotnisko, o którym mowa w art. 55 ust. 2 pkt 1–3, albo Polskiej Agencji Żeglugi Powietrznej, decyzję administracyjną zezwalającą na usunięcie albo odpowiednie przycięcie drzewa lub krzewu. Obowiązek i koszt usunięcia tego drzewa lub krzewu obciąża:
 
 - **1)** właściciela nieruchomości, użytkownika wieczystego albo osobę, której przysługują ograniczone prawa rzeczowe do nieruchomości, w zależności od tego, kto faktycznie włada nieruchomością, na której znajduje się taka przeszkoda;
-- **2)** wnioskującego o wydanie decyzji – w przypadku braku osób, o których mowa w pkt 1, albo gdy miejsce pobytu tych osób nie jest znane i nie jest możliwe do ustalenia na podstawie katastru nieruchomości w rozumieniu art. 2 pkt 8 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne.
+- **2)** wnioskującego o wydanie decyzji w przypadku braku osób, o których mowa w pkt 1, albo gdy miejsce pobytu tych osób nie jest znane i nie jest możliwe do ustalenia na podstawie katastru nieruchomości w rozumieniu art. 2 pkt 8 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne.
 
 **Art. 87⁵.**
 
 1. Jeżeli w wyniku budowy, rozbudowy lub zmiany cech lotniska obiekt naturalny w postaci drzewa lub krzewu stał się przeszkodą lotniczą, jego usunięcia lub odpowiedniego przycięcia po uzyskaniu decyzji starosty, o której mowa w art. 82 ust. 1 pkt 7 lit. a, dokonuje na własny koszt:
 
-- **1)** zakładający lotnisko – w przypadku budowy lotniska;
-- **2)** zarządzający lotniskiem albo jednostka organizacyjna zarządzająca lotniskiem wpisanym wyłącznie do rejestru lotnisk i lądowisk wojskowych albo wpisanym wyłącznie do rejestru lotnisk i lądowisk lotnictwa służb porządku publicznego – w przypadku rozbudowy lub zmiany cech lotniska. Decyzja starosty staje się wykonalna nie wcześniej niż w dniu, w którym można przystąpić do użytkowania obiektu lotniskowego zgodnie z art. 54 albo art. 55 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418 i 1080).
+- **1)** zakładający lotnisko w przypadku budowy lotniska;
+- **2)** zarządzający lotniskiem albo jednostka organizacyjna zarządzająca lotniskiem wpisanym wyłącznie do rejestru lotnisk i lądowisk wojskowych albo wpisanym wyłącznie do rejestru lotnisk i lądowisk lotnictwa służb porządku publicznego w przypadku rozbudowy lub zmiany cech lotniska. Decyzja starosty staje się wykonalna nie wcześniej niż w dniu, w którym można przystąpić do użytkowania obiektu lotniskowego zgodnie z art. 54 albo art. 55 ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2025 r. poz. 418 i 1080).
 
 2. Posiadacz nieruchomości zapewnia dostęp do nieruchomości w celu wykonania czynności związanych z usunięciem albo odpowiednim przycięciem drzewa lub krzewu. W przypadku nieudostępnienia nieruchomości przepisy art. 124b ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami stosuje się odpowiednio.
 
-3. W przypadku, o którym mowa w ust. 1, usunięcie drzewa lub krzewu albo jego odpowiednie przycięcie następuje za odszkodowaniem zakładającego lotnisko w przypadku budowy lotniska albo zarządzającego lotniskiem, Ministra Obrony Narodowej albo jednostki organizacyjnej zarządzającej lotniskiem wpisanym wyłącznie do rejestru lotnisk i lądowisk lotnictwa służb porządku publicznego w przypadku rozbudowy lub zmiany cech lotniska na rzecz właściciela, użytkownika wieczystego albo osoby, której przysługują ograniczone prawa rzeczowe do nieruchomości, w zależności od tego, kto faktycznie włada nieruchomością, na której znajduje się drzewo lub krzew, albo w przypadku ich braku – posiadacza nieruchomości. Wysokość odszkodowania ustala się w drodze umowy stron.
+3. W przypadku, o którym mowa w ust. 1, usunięcie drzewa lub krzewu albo jego odpowiednie przycięcie następuje za odszkodowaniem zakładającego lotnisko w przypadku budowy lotniska albo zarządzającego lotniskiem, Ministra Obrony Narodowej albo jednostki organizacyjnej zarządzającej lotniskiem wpisanym wyłącznie do rejestru lotnisk i lądowisk lotnictwa służb porządku publicznego w przypadku rozbudowy lub zmiany cech lotniska na rzecz właściciela, użytkownika wieczystego albo osoby, której przysługują ograniczone prawa rzeczowe do nieruchomości, w zależności od tego, kto faktycznie włada nieruchomością, na której znajduje się drzewo lub krzew, albo w przypadku ich braku posiadacza nieruchomości. Wysokość odszkodowania ustala się w drodze umowy stron.
 
 4. W przypadku braku umowy stron zawartej w terminie 3 miesięcy od dnia usunięcia albo odpowiedniego przycięcia drzewa lub krzewu wysokość odszkodowania, o którym mowa w ust. 3, ustala, z zastosowaniem zasad przewidzianych przy wywłaszczaniu nieruchomości, określonych w ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, starosta właściwy ze względu na miejsce, w którym znajdowało się drzewo lub krzew.
 
@@ -2482,28 +2671,32 @@ Art. 213–221. (pominięte)
 
 **Art. 87⁶.** Zabrania się:
 
+- **1)** w stosunku do lotnisk użytku publicznego, o których mowa w art. 59a ust. 1 pkt 1 i 2, oraz lotnisk wpisanych wyłącznie do rejestru lotnisk i lądowisk wojskowych:
+    - **a)** budowy lub rozbudowy obiektów budowlanych sprzyjających występowaniu zwierząt stwarzających zagrożenie dla ruchu statków powietrznych w odległości do 7 km od punktu odniesienia lotniska ujawnionego w rejestrze lotnisk,
+    - **b)** hodowania lub wypuszczania ptaków stwarzających zagrożenie dla ruchu statków powietrznych w odległości do 3 km od progu i końca drogi startowej lotniska i 1,5 km od osi drogi startowej lotniska, po obu stronach tej drogi;
+
+- **2)** w stosunku do lotnisk innych niż lotniska, o których mowa w art. 59a ust. 1 pkt 1 i 2:
+    - **a)** budowy lub rozbudowy obiektów budowlanych sprzyjających występowaniu zwierząt stwarzających zagrożenie dla ruchu statków powietrznych w odległości do 4 km od punktu odniesienia lotniska ujawnionego w rejestrze lotnisk,
+    - **b)** hodowania lub wypuszczania ptaków stwarzających zagrożenie dla ruchu statków powietrznych w odległości do 3 km od progu i końca drogi startowej lotniska i 1,5 km od osi drogi startowej lotniska, po obu stronach tej drogi.
+
 **Art. 87⁷.**
 
-1. W celu ochrony lotnisk przed działaniami i zdarzeniami, które mogą powodować niedopuszczalne zagrożenia dla ruchu statków powietrznych korzystających z lotniska, projekty miejscowych planów zagospodarowania przestrzennego i projekty decyzji o warunkach zabudowy i zagospodarowania terenu uzgadniają odpowiednio:
+1. W celu ochrony lotnisk przed działaniami i zdarzeniami, które mogą powodować niedopuszczalne zagrożenia dla ruchu statków powietrznych korzystających z lotniska, projekty planów ogólnych gminy, projekty miejscowych planów zagospodarowania przestrzennego i projekty decyzji o warunkach zabudowy i zagospodarowania terenu uzgadniają odpowiednio:
 
-- **1)** Prezes Urzędu – w przypadku lotniska cywilnego – dla terenów, na których:
+- **1)** Prezes Urzędu w przypadku lotniska cywilnego dla terenów, na których:
     - **a)** znajduje się lub jest planowane lotnisko zgodnie z zatwierdzonym planem generalnym,
     - **b)** wydano promesę zezwolenia, o której mowa w art. 57 ust. 1,
     - **c)** wydano zezwolenie, o którym mowa w art. 55 ust. 2,
     - **d)** wyznaczono powierzchnie ograniczające przeszkody zgodnie z art. 87 ust. 1;
 
-- **2)** terenowe organy wykonawcze Ministra Obrony Narodowej w sprawach rekrutacji, operacyjno-obronnych i administracji niezespolonej, o których mowa w art. 31 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080) – w przypadku lotniska wpisanego wyłącznie do rejestru lotnisk i lądowisk wojskowych;
-- **3)** minister właściwy do spraw wewnętrznych – w przypadku lotniska wpisanego wyłącznie do rejestru lotnisk i lądowisk służb porządku publicznego.
+- **2)** terenowe organy wykonawcze Ministra Obrony Narodowej w sprawach rekrutacji, operacyjno-obronnych i administracji niezespolonej, o których mowa w art. 31 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080) w przypadku lotniska wpisanego wyłącznie do rejestru lotnisk i lądowisk wojskowych;
+- **3)** minister właściwy do spraw wewnętrznych w przypadku lotniska wpisanego wyłącznie do rejestru lotnisk i lądowisk służb porządku publicznego.
 
 2. Organy, o których mowa w ust. 1, zgodnie z właściwością określoną w ust. 1, opiniują plany zagospodarowania przestrzennego województwa dla terenów, na których wyznaczono powierzchnie ograniczające przeszkody zgodnie z art. 87 ust. 1.
 
-2a. Organy, o których mowa w ust. 1, zgodnie z właściwością określoną w ust. 1, opiniują projekty planów ogólnych gminy.
-
 3. Zgodnie z właściwością określoną w ust. 1 organy wydają odpowiednio opinie inne niż opinie, o których mowa w ust. 2, dotyczące możliwości lokalizacji inwestycji ze względu na wysokość zabudowy.
 
-4. Uzgodnienie, o którym mowa w ust. 1 pkt 1 lit. a i d, obejmuje zgodność projektów miejscowych planów zagospodarowania przestrzennego i projektów decyzji o warunkach zabudowy i zagospodarowania terenu z postanowieniami planu generalnego w zakresie określonym w art. 55 ust. 6.
-
-5. Opiniowanie projektów planów ogólnych gminy w zakresie, o którym mowa w ust. 1 pkt 1 lit. a i d, obejmuje zgodność projektów planów ogólnych gminy z postanowieniami planu generalnego w zakresie określonym w art. 55 ust. 6.
+4. Uzgodnienie, o którym mowa w ust. 1 pkt 1 lit. a i d, obejmuje zgodność projektów planów ogólnych gminy, projektów miejscowych planów zagospodarowania przestrzennego i projektów decyzji o warunkach zabudowy i zagospodarowania terenu z postanowieniami planu generalnego w zakresie określonym w art. 55 ust. 6.
 
 **Art. 87⁸.**
 
@@ -2518,7 +2711,7 @@ Art. 213–221. (pominięte)
 
 1. Zabrania się emitowania lub powodowania emisji, w strefach przestrzeni powietrznej wykorzystywanej do żeglugi powietrznej wiązki lasera lub światła z innych źródeł w kierunku statku powietrznego w sposób mogący spowodować olśnienie, oślepienie lub wystąpienie poświaty i mogący stworzyć zagrożenie bezpieczeństwa statku powietrznego albo życia lub zdrowia załogi lub pasażerów na jego pokładzie.
 
-2. Na użycie lasera lub światła z innych źródeł w strefach, o których mowa w ust. 1, może zostać wydana zgoda przez Ministra Obrony Narodowej albo instytucję zapewniającą służbę ruchu lotniczego, zgodnie z właściwością określoną w przepisach wydanych na podstawie ust. 4 – jeżeli użycie to nie będzie zagrażało bezpieczeństwu statku powietrznego oraz życiu i zdrowiu załogi i pasażerów na jego pokładzie. Strefy, o których mowa w ust. 1, są nanoszone na mapę, która jest zamieszczana na stronie internetowej Urzędu, a także publikowana w Zintegrowanym Pakiecie Informacji Lotniczej, o którym mowa w art. 121 ust. 3.
+2. Na użycie lasera lub światła z innych źródeł w strefach, o których mowa w ust. 1, może zostać wydana zgoda przez Ministra Obrony Narodowej albo instytucję zapewniającą służbę ruchu lotniczego, zgodnie z właściwością określoną w przepisach wydanych na podstawie ust. 4 jeżeli użycie to nie będzie zagrażało bezpieczeństwu statku powietrznego oraz życiu i zdrowiu załogi i pasażerów na jego pokładzie. Strefy, o których mowa w ust. 1, są nanoszone na mapę, która jest zamieszczana na stronie internetowej Urzędu, a także publikowana w Zintegrowanym Pakiecie Informacji Lotniczej, o którym mowa w art. 121 ust. 3.
 
 3. Zgodę, o której mowa w ust. 2, wydaje się na wniosek złożony w terminie 14 dni przed planowanym użyciem lasera lub światła z innych źródeł.
 
@@ -2583,6 +2776,10 @@ Art. 213–221. (pominięte)
 
 **Art. 91.** Prezes Urzędu może w drodze decyzji administracyjnej wykreślić lotnicze urządzenie naziemne z rejestru urządzeń naziemnych:
 
+- **1)** na wniosek zarządzającego lotniczym urządzeniem naziemnym;
+- **2)** jeżeli urządzenie nie spełnia wymagań technicznych lub eksploatacyjnych, określonych na podstawie art. 92 ust. 1 pkt 3;
+- **3)** jeżeli trwale zaprzestano eksploatacji lotniczego urządzenia naziemnego.
+
 **Art. 92.**
 
 1. Minister właściwy do spraw transportu w porozumieniu z Ministrem Obrony Narodowej, ministrem właściwym do spraw wewnętrznych oraz ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, z uwzględnieniem zasad bezpiecznej eksploatacji lotniczych urządzeń naziemnych, funkcji lotniczych urządzeń naziemnych oraz bezpieczeństwa operacji lotniczych:
@@ -2635,9 +2832,7 @@ Art. 213–221. (pominięte)
 
 7. Odpowiedzialność za wybór lądowiska jako miejsca startu i lądowania statku powietrznego ponosi dowódca statku powietrznego.
 
-8. Do lądowisk zlokalizowanych na śródlądowych powierzchniowych wodach publicznych, morskich wodach wewnętrznych wraz z morskimi wodami wewnętrznymi Zatoki Gdańskiej i wodach morza terytorialnego nie stosuje się ust. 2–
-
-6.
+8. Do lądowisk zlokalizowanych na śródlądowych powierzchniowych wodach publicznych, morskich wodach wewnętrznych wraz z morskimi wodami wewnętrznymi Zatoki Gdańskiej i wodach morza terytorialnego nie stosuje się ust. 2–6.
 
 9. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, tryb zgłaszania do ewidencji lądowisk, w tym zakres opinii niezbędnych dla zgłoszenia lądowiska, tryb wykreślania z ewidencji lądowisk oraz wzór ewidencji lądowisk, uwzględniając konieczność zapewnienia bezpieczeństwa operacji lotniczych przez zgłaszających lądowiska oraz zakres danych niezbędnych do dokonania wpisu lub wykreślenia z ewidencji lądowisk.
 
@@ -2700,7 +2895,7 @@ Art. 213–221. (pominięte)
 - **2)** (uchylony)
 - **3)** mechanik lotniczy obsługi technicznej;
 - **4)** kontroler ruchu lotniczego;
-- **4a)** praktykant – kontroler ruchu lotniczego;
+- **4a)** praktykant kontroler ruchu lotniczego;
 - **5)** dyspozytor lotniczy.
 - **6)** (uchylony)
 - **7)** (uchylony) 6a. (uchylony)
@@ -2729,15 +2924,15 @@ Art. 213–221. (pominięte)
 
 3. W celu uzyskania świadectwa kwalifikacji członka personelu lotniczego osoba ubiegająca się o nie musi spełnić następujące wymagania w zakresie wieku lub wykształcenia:
 
-- **1)** pilot lotni – ukończone 15 lat;
-- **2)** pilot motolotni – ukończone 15 lat;
-- **3)** pilot paralotni – ukończone 15 lat;
-- **4)** pilot statku powietrznego o maksymalnej masie startowej (MTOM) do 495 kg – ukończone 16 lat;
-- **5)** skoczek spadochronowy – ukończone 16 lat;
+- **1)** pilot lotni ukończone 15 lat;
+- **2)** pilot motolotni ukończone 15 lat;
+- **3)** pilot paralotni ukończone 15 lat;
+- **4)** pilot statku powietrznego o maksymalnej masie startowej (MTOM) do 495 kg ukończone 16 lat;
+- **5)** skoczek spadochronowy ukończone 16 lat;
 - **6)** (uchylony)
-- **7)** mechanik poświadczenia obsługi statków powietrznych, o którym mowa w ust. 2 pkt 7 – ukończone 18 lat;
-- **8)** informator służby informacji powietrznej – ukończone 18 lat, posiadanie co najmniej wykształcenia średniego lub średniego branżowego;
-- **9)** informator lotniskowej służby informacji powietrznej – ukończone 18 lat, posiadanie co najmniej wykształcenia średniego lub średniego branżowego.
+- **7)** mechanik poświadczenia obsługi statków powietrznych, o którym mowa w ust. 2 pkt 7 ukończone 18 lat;
+- **8)** informator służby informacji powietrznej ukończone 18 lat, posiadanie co najmniej wykształcenia średniego lub średniego branżowego;
+- **9)** informator lotniskowej służby informacji powietrznej ukończone 18 lat, posiadanie co najmniej wykształcenia średniego lub średniego branżowego.
 
 3a. W przypadku gdy osoba ubiegająca się o świadectwo kwalifikacji członka personelu lotniczego, o którym mowa w ust. 2 pkt 1–4 i 6, jest małoletnia, warunkiem uzyskania takiego świadectwa jest zgoda opiekunów prawnych.
 
@@ -2745,13 +2940,13 @@ Art. 213–221. (pominięte)
 
 4a. Świadectwo kwalifikacji oraz inne dokumenty stwierdzające posiadane kwalifikacje, wydane dla specjalności, o których mowa w ust. 2, przez właściwy organ państwa obcego, wymagają uznania przez Prezesa Urzędu, z zastrzeżeniem ust. 4b.
 
-4b. Świadectwo kwalifikacji oraz inne dokumenty stwierdzające posiadane kwalifikacje, wydane dla specjalności, o których mowa w ust. 2 pkt 1–3, 6 i 7, przez właściwy organ lub uprawniony podmiot państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym nie wymagają uznania przez Prezesa Urzędu.
+4b. Świadectwo kwalifikacji oraz inne dokumenty stwierdzające posiadane kwalifikacje, wydane dla specjalności, o których mowa w ust. 2 pkt 1–3, 6 i 7, przez właściwy organ lub uprawniony podmiot państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym nie wymagają uznania przez Prezesa Urzędu.
 
 5. Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, dla poszczególnych rodzajów świadectw kwalifikacji, wymagania w zakresie sprawności psychicznej i fizycznej osób ubiegających się o świadectwo kwalifikacji lub posiadających świadectwo kwalifikacji, mając na uwadze wymagania wynikające z przepisów międzynarodowych i specyfiki uprawnień związanych z danym świadectwem kwalifikacji.
 
 **Art. 95a.**
 
-1. Wykonywanie działalności szkoleniowej w zakresie prowadzenia szkolenia personelu lotniczego w celu uzyskania świadectwa kwalifikacji członka personelu lotniczego oraz wpisywanych do niego uprawnień, z wyjątkiem prowadzenia szkolenia lotniczego w celu uzyskania świadectwa kwalifikacji informatora służby informacji powietrznej oraz informatora lotniskowej służby informacji powietrznej, jest działalnością regulowaną w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców i podlega wpisowi do rejestru podmiotów szkolących na podstawie pisemnego wniosku.
+1. Wykonywanie działalności szkoleniowej w zakresie prowadzenia szkolenia personelu lotniczego w celu uzyskania świadectwa kwalifikacji członka personelu lotniczego oraz wpisywanych do niego uprawnień, z wyjątkiem prowadzenia szkolenia lotniczego w celu uzyskania świadectwa kwalifikacji informatora służby informacji powietrznej oraz informatora lotniskowej służby informacji powietrznej, jest działalnością regulowaną w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców i podlega wpisowi do rejestru podmiotów szkolących na podstawie pisemnego wniosku.
 
 2. Działalność szkoleniową w zakresie objętym obowiązkiem wpisu do rejestru podmiotów szkolących może wykonywać przedsiębiorca, w tym przedsiębiorca z innego państwa członkowskiego Unii Europejskiej, który wykonuje działalność gospodarczą zgodnie z obowiązującymi w tym państwie przepisami, a na terytorium Rzeczypospolitej Polskiej czasowo oferuje lub świadczy usługę, który oświadcza, że wykonywanie działalności objętej wpisem do rejestru podmiotów szkolących nie zagraża bezpieczeństwu w ruchu lotniczym oraz bezpieczeństwu i porządkowi publicznemu.
 
@@ -2784,6 +2979,16 @@ Art. 213–221. (pominięte)
 
 **Art. 95b.** Prezes Urzędu odmawia wpisania podmiotu do rejestru podmiotów szkolących, jeżeli nie zostały spełnione wymagania określone w art. 95a ust. 2 i 3 oraz w przepisach wydanych na podstawie art. 95a ust. 4. Art. 95ba. 1. Prezes Urzędu wydaje decyzję administracyjną o zakazie wykonywania przez przedsiębiorcę działalności objętej wpisem, w przypadku gdy:
 
+- **1)** przedsiębiorca złożył oświadczenie, o którym mowa w art. 95a ust. 3 pkt 10, niezgodne ze stanem faktycznym;
+- **2)** przedsiębiorca nie usunął naruszeń warunków wymaganych prawem do wykonywania działalności regulowanej w wyznaczonym przez organ terminie;
+- **3)** stwierdzi rażące naruszenie warunków wymaganych prawem do wykonywania działalności regulowanej przez przedsiębiorcę.
+
+2. Decyzja, o której mowa w ust. 1, podlega natychmiastowemu wykonaniu.
+
+3. W przypadku wydania decyzji, o której mowa w ust. 1, Prezes Urzędu z urzędu wykreśla przedsiębiorcę z rejestru podmiotów szkolących. Art. 95bb. 1. Przedsiębiorca, którego wykreślono z rejestru podmiotów szkolących, może uzyskać ponowny wpis do tego rejestru nie wcześniej niż po upływie 3 lat od dnia wydania decyzji, o której mowa w art. 95ba ust. 1.
+
+2. Przepis ust. 1 stosuje się odpowiednio do przedsiębiorcy, który wykonywał działalność gospodarczą bez wpisu do rejestru podmiotów szkolących. Nie dotyczy to sytuacji określonej w art. 95aa ust. 2. Art. 95bc. Prezes Urzędu wykreśla przedsiębiorcę z rejestru podmiotów szkolących na jego wniosek, a także po uzyskaniu informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego o wykreśleniu przedsiębiorcy.
+
 **Art. 95c.** Przedsiębiorca jest obowiązany przechowywać, przez okres wykonywanej działalności szkoleniowej, wszystkie dokumenty niezbędne do wykazania, że spełnia warunki do wykonywania działalności objętej obowiązkiem wpisu do rejestru podmiotów szkolących.
 
 **Art. 95d.** Uprawnienia podmiotu szkolącego wynikające z dokonanego wpisu do rejestru nie przechodzą na podmioty powstałe w wyniku jego podziału albo łączenia się z innymi podmiotami.
@@ -2814,14 +3019,14 @@ Art. 213–221. (pominięte)
 
 6. Prezes Urzędu może zawiesić albo cofnąć świadectwo dopuszczenia do pracy w przypadku, o którym mowa w CC.CCA.110 lit. a załącznika V do rozporządzenia nr 1178/2011/UE.
 
-7. Zawieszenie albo cofnięcie świadectwa dopuszczenia do pracy sporządza się na piśmie i doręcza się na adres poczty elektronicznej – w przypadku gdy członek personelu pokładowego wskaże taki adres do doręczeń, albo w formie pisemnej lub za pomocą telefaksu.
+7. Zawieszenie albo cofnięcie świadectwa dopuszczenia do pracy sporządza się na piśmie i doręcza się na adres poczty elektronicznej w przypadku gdy członek personelu pokładowego wskaże taki adres do doręczeń, albo w formie pisemnej lub za pomocą telefaksu.
 
 **Art. 96.**
 
 1. Licencja może być wydana osobie, która łącznie spełnia następujące warunki:
 
 - **1)** korzysta w pełni z praw publicznych;
-- **2)** ma pełną zdolność do czynności prawnych albo uzyskała zgodę opiekunów prawnych – w przypadku osoby małoletniej;
+- **2)** ma pełną zdolność do czynności prawnych albo uzyskała zgodę opiekunów prawnych w przypadku osoby małoletniej;
 - **3)** (uchylony)
 - **4)** spełnia wymogi w zakresie wieku i wykształcenia;
 - **5)** odpowiada wymaganiom w zakresie sprawności psychicznej i fizycznej, określonym na podstawie art. 104 ust. 2, potwierdzonym orzeczeniem o zdolności lub niezdolności do wykonywania lotów i innych czynności lotniczych, o którym mowa w art. 110;
@@ -2832,24 +3037,24 @@ Art. 213–221. (pominięte)
 
 2. W celu uzyskania licencji członka personelu lotniczego osoba ubiegająca się o nią musi spełnić następujące wymagania dla poszczególnych specjalności w zakresie wieku:
 
-- **1)** pilot szybowcowy – ukończone 16 lat, a jeżeli z licencji wynika uprawnienie do wykonywania zawodowego czynności pilota – ukończone 18 lat;
-- **2)** pilot rekreacyjny samolotowy i śmigłowcowy – ukończone 17 lat;
-- **3)** pilot rekreacyjny szybowcowy i balonowy – ukończone 16 lat;
-- **4)** pilot turystyczny, bez względu na kategorię statku powietrznego, którego dotyczy licencja – ukończone 17 lat;
-- **5)** pilot zawodowy, bez względu na kategorię statku powietrznego, którego dotyczy licencja – ukończone 18 lat;
-- **6)** pilot liniowy, bez względu na kategorię statku powietrznego, którego dotyczy licencja – ukończone 21 lat;
-- **7)** pilot balonowy – ukończone 16 lat, a jeżeli z licencji wynika uprawnienie do wykonywania zawodowego czynności pilota – ukończone 18 lat;
-- **8)** mechanik lotniczy obsługi technicznej – ukończone 18 lat;
-- **9)** kontroler ruchu lotniczego – określone w rozporządzeniu Komisji (UE) nr 2015/340 z dnia 20 lutego 2015 r. ustanawiającym wymagania techniczne i procedury administracyjne dotyczące licencji i certyfikatów kontrolerów ruchu lotniczego zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008, zmieniającym rozporządzenie wykonawcze Komisji (UE) nr 923/2012 i uchylającym rozporządzenie Komisji (UE) nr 805/2011 (Dz. Urz. UE L 63 z 06.03.2015, str. 1);
-- **10)** praktykant – kontroler ruchu lotniczego – określone w rozporządzeniu nr 2015/340/UE;
-- **11)** dyspozytor lotniczy – ukończone 21 lat;
-- **12)** członek personelu lotniczego, o którym mowa w art. 94 ust. 9 – ukończone 16 lat;
-- **13)** pozostałe specjalności członków personelu lotniczego – ukończone 18 lat.
+- **1)** pilot szybowcowy ukończone 16 lat, a jeżeli z licencji wynika uprawnienie do wykonywania zawodowego czynności pilota ukończone 18 lat;
+- **2)** pilot rekreacyjny samolotowy i śmigłowcowy ukończone 17 lat;
+- **3)** pilot rekreacyjny szybowcowy i balonowy ukończone 16 lat;
+- **4)** pilot turystyczny, bez względu na kategorię statku powietrznego, którego dotyczy licencja ukończone 17 lat;
+- **5)** pilot zawodowy, bez względu na kategorię statku powietrznego, którego dotyczy licencja ukończone 18 lat;
+- **6)** pilot liniowy, bez względu na kategorię statku powietrznego, którego dotyczy licencja ukończone 21 lat;
+- **7)** pilot balonowy ukończone 16 lat, a jeżeli z licencji wynika uprawnienie do wykonywania zawodowego czynności pilota ukończone 18 lat;
+- **8)** mechanik lotniczy obsługi technicznej ukończone 18 lat;
+- **9)** kontroler ruchu lotniczego określone w rozporządzeniu Komisji (UE) nr 2015/340 z dnia 20 lutego 2015 r. ustanawiającym wymagania techniczne i procedury administracyjne dotyczące licencji i certyfikatów kontrolerów ruchu lotniczego zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008, zmieniającym rozporządzenie wykonawcze Komisji (UE) nr 923/2012 i uchylającym rozporządzenie Komisji (UE) nr 805/2011 (Dz. Urz. UE L 63 z 06.03.2015, str. 1);
+- **10)** praktykant kontroler ruchu lotniczego określone w rozporządzeniu nr 2015/340/UE;
+- **11)** dyspozytor lotniczy ukończone 21 lat;
+- **12)** członek personelu lotniczego, o którym mowa w art. 94 ust. 9 ukończone 16 lat;
+- **13)** pozostałe specjalności członków personelu lotniczego ukończone 18 lat.
 
 3. Prezes Urzędu:
 
 - **1)** wydaje, zmienia, zawiesza, przywraca, cofa lub wznawia ważność,
-- **2)** uznaje, zawiesza uznanie, przywraca uznanie albo cofa uznanie – licencji, świadectw kwalifikacji lub uprawnień do nich wpisywanych w drodze decyzji administracyjnej.
+- **2)** uznaje, zawiesza uznanie, przywraca uznanie albo cofa uznanie licencji, świadectw kwalifikacji lub uprawnień do nich wpisywanych w drodze decyzji administracyjnej.
 
 3a. Przedłużenia ważności licencji, świadectw kwalifikacji i uprawnień do nich wpisywanych dokonuje się w okresie ich ważności.
 
@@ -2859,11 +3064,11 @@ Art. 213–221. (pominięte)
 
 5. Licencja wydana lub potwierdzona przez właściwy organ państwa obcego wymaga uznania przez Prezesa Urzędu, z zastrzeżeniem ust. 5b.
 
-5a. Licencja wydana lub potwierdzona przez właściwy organ państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym w zakresie nieobjętym przepisami rozporządzenia nr 1178/2001/UE dla specjalności personelu lotniczego, o których mowa w art. 94 ust. 6 pkt 1, 3 i 5, jest uznawana w Rzeczypospolitej Polskiej za ważną na równi z licencją wydaną przez Prezesa Urzędu, chyba że wymagania stawiane przy jej wydaniu były łagodniejsze od stawianych w Rzeczypospolitej Polskiej.
+5a. Licencja wydana lub potwierdzona przez właściwy organ państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym w zakresie nieobjętym przepisami rozporządzenia nr 1178/2001/UE dla specjalności personelu lotniczego, o których mowa w art. 94 ust. 6 pkt 1, 3 i 5, jest uznawana w Rzeczypospolitej Polskiej za ważną na równi z licencją wydaną przez Prezesa Urzędu, chyba że wymagania stawiane przy jej wydaniu były łagodniejsze od stawianych w Rzeczypospolitej Polskiej.
 
 5b. Nie wymaga uznania przez Prezesa Urzędu licencja:
 
-- **1)** wydana lub potwierdzona przez właściwy organ państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, zgodnie z przepisami Załącznika 1 do Konwencji, o której mowa w art. 3 ust. 2, na podstawie której będą wykonywane niezarobkowe czynności lotnicze, w lotach VFR w dzień w załodze jednoosobowej;
+- **1)** wydana lub potwierdzona przez właściwy organ państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, zgodnie z przepisami Załącznika 1 do Konwencji, o której mowa w art. 3 ust. 2, na podstawie której będą wykonywane niezarobkowe czynności lotnicze, w lotach VFR w dzień w załodze jednoosobowej;
 - **2)** wydana lub potwierdzona przez właściwy organ państwa obcego, zgodnie z wymaganiami międzynarodowymi ustanowionymi przez Zrzeszenie Władz Lotniczych (JAA) albo Unię Europejską, z wyjątkiem licencji kontrolera ruchu lotniczego i praktykanta-kontrolera ruchu lotniczego, które uznaje się na zasadach określonych w przepisach prawa Unii Europejskiej dotyczących kwalifikacji personelu lotniczego.
 
 6. Zawieszenie licencji i wynikających z niej uprawnień lub niektórych wynikających z niej uprawnień ma charakter okresowy.
@@ -2936,7 +3141,9 @@ Art. 213–221. (pominięte)
 
 **Art. 101.** (uchylony)
 
-**Art. 102.** Prezes Urzędu prowadzi rejestr personelu lotniczego. Do rejestru nie wpisuje się osób, o których mowa w art. 94 ust. 2 pkt 2.
+**Art. 102.**
+
+- **56)** Prezes Urzędu prowadzi rejestr personelu lotniczego. Do rejestru nie wpisuje się osób, o których mowa w art. 94 ust. 2 pkt 2.
 
 **Art. 102a.**
 
@@ -2945,7 +3152,7 @@ Art. 213–221. (pominięte)
 2. Członkom załóg statków powietrznych niezależnie od urlopu wypoczynkowego przysługuje tyle dni wolnych od wszelkich zajęć, ile w przyjętym okresie rozliczeniowym przypada dni wolnych od pracy, w tym co najmniej:
 
 - **1)** 7 dni w porcie macierzystym w każdym miesiącu kalendarzowym, z których jeden dzień przypada w niedzielę lub święto,
-- **2)** 96 dni w porcie macierzystym w każdym roku kalendarzowym – z zastrzeżeniem art. 103b ust. 1.
+- **2)** 96 dni w porcie macierzystym w każdym roku kalendarzowym z zastrzeżeniem art. 103b ust. 1.
 
 **Art. 102b.**
 
@@ -3014,6 +3221,45 @@ Art. 213–221. (pominięte)
 4. Członkom załóg statków powietrznych, o których mowa w art. 103a, przysługują w każdym tygodniu co najmniej 24 godziny nieprzerwanego wypoczynku.
 
 **Art. 103c.** Minister właściwy do spraw transportu, w celu zachowania odpowiedniego poziomu bezpieczeństwa operacji lotniczych oraz zapobieżenia skutkom skumulowanego zmęczenia członków załóg, określi, w drodze rozporządzenia, w odniesieniu do członków załóg statków powietrznych, o których mowa w art. 103a:
+
+- **1)** maksymalny okres pełnienia czynności lotniczych;
+- **2)** przerwy w pełnieniu czynności lotniczych;
+- **3)** okresy wypoczynku należne w związku z pełnieniem czynności lotniczych;
+- **4)** ograniczenia czasu lotu;
+- **5)** formy pełnienia gotowości oraz warunki ich wliczania do czasu pracy. Art. 103ca. 1. Czas pracy członków załóg statków powietrznych w przewozie lotniczym przy użyciu samolotu wykonywanym taksówką powietrzną, w załodze jednoosobowej oraz w służbie ratownictwa medycznego określają przepisy części Q załącznika III do rozporządzenia nr 3922/91 w zakresie okresu służby, w tym w zakresie okresu pełnienia czynności lotniczych.
+
+2. Dyżur członków załóg statków powietrznych w przewozie lotniczym przy użyciu samolotu wykonywanym taksówką powietrzną, w załodze jednoosobowej oraz w służbie ratownictwa medycznego określają przepisy części Q załącznika III do rozporządzenia nr 3922/91 w zakresie gotowości oraz przepisy wydane na podstawie ust. 10.
+
+3. Okresy wypoczynku, określone w części Q załącznika III do rozporządzenia nr 3922/91, członków załóg statków powietrznych w przewozie lotniczym przy użyciu samolotu wykonywanym taksówką powietrzną, w załodze jednoosobowej oraz w służbie ratownictwa medycznego mogą być udzielane w dniach wolnych od pracy.
+
+4. Służba ratownictwa medycznego jest misją składającą się z dolotu, transportu i powrotu do portu macierzystego, wykonywaną przy użyciu samolotu zgodnie z certyfikatem przewoźnika lotniczego, której celem jest udzielenie pomocy medycznej w stanie nagłego zagrożenia zdrowia, kiedy zasadnicze znaczenie ma bezzwłoczny i szybki transport:
+
+- **1)** chorych lub rannych oraz innych osób, których to bezpośrednio dotyczy, lub
+- **2)** personelu medycznego, lub
+- **3)** materiałów biologicznych i materiałów lub urządzeń wykorzystywanych do udzielenia świadczeń zdrowotnych.
+
+5. Maksymalny okres pełnienia czynności lotniczych członka załogi w przewozie lotniczym przy użyciu samolotu w załodze jednoosobowej nie może przekraczać 10 godzin w ciągu kolejnych 24 godzin.
+
+6. Maksymalny okres pełnienia czynności lotniczych członka załogi w przewozie lotniczym przy użyciu samolotu w służbie ratownictwa medycznego nie może przekraczać 12 godzin w ciągu kolejnych 24 godzin.
+
+7. Okres pełnienia czynności lotniczych członków załóg statków powietrznych w przewozie lotniczym przy użyciu samolotu wykonywanym taksówką powietrzną, w załodze jednoosobowej oraz w służbie ratownictwa medycznego może zostać wydłużony zgodnie z warunkami określonymi w przepisach wydanych na podstawie ust. 10.
+
+8. Okres wypoczynku członków załóg statków powietrznych w przewozie lotniczym przy użyciu samolotu wykonywanym taksówką powietrzną, w załodze jednoosobowej oraz w służbie ratownictwa medycznego, należny w związku z pełnieniem czynności lotniczych, może zostać skrócony albo wydłużony, z zachowaniem wymagań określonych w art. 102a ust. 2 oraz w sposób określony w przepisach wydanych na podstawie ust. 10.
+
+9. Niezależnie od okresu wypoczynku, o którym mowa w ust. 8, członkom załóg statków powietrznych w przewozie lotniczym przy użyciu samolotu wykonywanym taksówką powietrzną, w załodze jednoosobowej oraz w służbie ratownictwa medycznego przysługuje wypoczynek dodatkowy jako kompensata wpływu różnic stref czasowych na członków załogi statku powietrznego, zgodnie z warunkami określonymi w przepisach wydanych na podstawie ust. 10.
+
+10. Minister właściwy do spraw transportu, mając na uwadze konieczność zachowania odpowiedniego poziomu bezpieczeństwa operacji lotniczych oraz zapobieżenia skutkom skumulowanego zmęczenia, a także uwzględniając przepisy części Q załącznika III do rozporządzenia nr 3922/91 oraz podczęści FTL załącznika III do rozporządzenia nr 965/2012/UE, określi, w drodze rozporządzenia, dla członków załóg w przewozie lotniczym przy użyciu samolotu:
+
+- **1)** wykonywanym taksówką powietrzną, w załodze jednoosobowej oraz w służbie ratownictwa medycznego:
+    - **a)** warunki i okresy wypoczynku należne w związku z pełnieniem czynności lotniczych oraz sposób skracania i wydłużania okresu wypoczynku,
+    - **b)** warunki i okresy wypoczynku dodatkowego stanowiącego kompensatę wpływu różnic stref czasowych na członków załogi statku powietrznego,
+    - **c)** formy i warunki pełnienia gotowości, jej limity oraz sposób wliczania gotowości do okresu służby i okresu pełnienia czynności lotniczych;
+
+- **2)** wykonywanym taksówką powietrzną oraz w służbie ratownictwa medycznego wydłużony okres pełnienia czynności lotniczych ze względu na zwiększenie składu personelu lotniczego w załodze wieloosobowej;
+- **3)** w załodze jednoosobowej oraz w służbie ratownictwa medycznego sposób wliczania czasu przemieszczania członka załogi w celu zajęcia stanowiska do okresu służby i okresu pełnienia czynności lotniczych;
+- **4)** wykonywanym taksówką powietrzną przerwy w pełnieniu czynności lotniczych oraz wydłużony okres pełnienia czynności lotniczych ze względu na zastosowaną przerwę;
+- **5)** w załodze jednoosobowej szczegółowy sposób określania okresu pełnienia czynności lotniczych w zależności od czasu zgłoszenia się do lotu oraz liczby odcinków;
+- **6)** w służbie ratownictwa medycznego wydłużony okres pełnienia czynności lotniczych ze względu na udział w akcji ratowniczej lub wystąpienie nieprzewidzianych okoliczności podczas operacji lotniczej.
 
 **Art. 103d.** W sprawach dotyczących czasu pracy członków załóg statków powietrznych, nieuregulowanych w przepisach art. 102a–103ca, stosuje się przepisy Kodeksu pracy.
 
@@ -3099,7 +3345,7 @@ Art. 213–221. (pominięte)
 
 2. (uchylony)
 
-3. Od orzeczenia lotniczo-lekarskiego wydanego przez centrum medycyny lotniczej lub lekarza orzecznika medycyny lotniczej osobie zainteresowanej przysługuje odwołanie do Naczelnego Lekarza w terminie 14 dni od dnia otrzymania orzeczenia. Do postępowania w sprawie odwołania stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+3. Od orzeczenia lotniczo-lekarskiego wydanego przez centrum medycyny lotniczej lub lekarza orzecznika medycyny lotniczej osobie zainteresowanej przysługuje odwołanie do Naczelnego Lekarza w terminie 14 dni od dnia otrzymania orzeczenia. Do postępowania w sprawie odwołania stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
 
 4. W przypadkach szczególnych prawo złożenia odwołania od orzeczenia, o którym mowa w ust. 3, przysługuje także Prezesowi Urzędu.
 
@@ -3192,7 +3438,7 @@ Art. 213–221. (pominięte)
 2. Certyfikat centrum medycyny lotniczej w zakresie:
 
 - **1)** świadectw kwalifikacji,
-- **2)** licencji wydawanych dla specjalności personelu lotniczego, o których mowa w art. 94 ust. 6 pkt 1 lit. j, k, r i s oraz pkt 5 – jest wydawany na czas nieokreślony.
+- **2)** licencji wydawanych dla specjalności personelu lotniczego, o których mowa w art. 94 ust. 6 pkt 1 lit. j, k, r i s oraz pkt 5 jest wydawany na czas nieokreślony.
 
 3. Wydanie certyfikatu centrum medycyny lotniczej następuje w drodze decyzji administracyjnej Prezesa Urzędu wydanej na wniosek Naczelnego Lekarza lub zainteresowanego podmiotu.
 
@@ -3312,6 +3558,15 @@ Art. 213–221. (pominięte)
 
 **Art. 118a.** Żegluga powietrzna w polskiej przestrzeni powietrznej oraz w przestrzeni powietrznej, która, w oparciu o art. 5 ust. 2, znalazła się w obszarze odpowiedzialności Rzeczypospolitej Polskiej jest realizowana zgodnie z:
 
+- **1)** przepisami prawa Unii Europejskiej dotyczącymi Jednolitej Europejskiej Przestrzeni Powietrznej, a w szczególności:
+    - **a)** rozporządzeniem nr 549/2004/WE,
+    - **b)** rozporządzeniem nr 550/2004/WE,
+    - **c)** rozporządzeniem nr 551/2004/WE,
+    - **d)** rozporządzeniem nr 552/2004/WE;
+
+- **2)** umowami międzynarodowymi i przepisami międzynarodowymi;
+- **3)** niniejszą ustawą i innymi ustawami.
+
 **Art. 119.**
 
 1. Polska przestrzeń powietrzna jest dostępna na równych prawach dla wszystkich jej użytkowników, a swoboda lotów w niej cywilnych statków powietrznych może być ograniczona wyłącznie na podstawie wyraźnego upoważnienia Prawa lotniczego, przy zachowaniu przepisów innych ustaw i wiążących Rzeczpospolitą Polską umów międzynarodowych, w tym uchwał organizacji międzynarodowych.
@@ -3339,7 +3594,7 @@ Art. 213–221. (pominięte)
 1. Instytucja zapewniająca służby ruchu lotniczego w przypadku niespełnienia przez użytkownika statku powietrznego wymagania lub warunku określonego w:
 
 - **1)** art. 144, art. 145a ust. 1, art. 193 ust. 1, art. 209 ust. 1, 2, 3 i 4,
-- **2)** art. 3 rozporządzenia Komisji (UE) nr 452/2014 z dnia 29 kwietnia 2014 r. ustanawiającego wymagania techniczne i procedury administracyjne dotyczące operacji lotniczych wykonywanych przez operatorów z państw trzecich zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008/WE (Dz. Urz. UE L 133 z 06.05.2014, str. 12) – nie zezwala na wlot statku powietrznego na terytorium Rzeczypospolitej Polskiej, o ile odmowa wlotu nie spowoduje bezpośredniego zagrożenia dla życia i zdrowia ludzi oraz bezpieczeństwa lotów.
+- **2)** art. 3 rozporządzenia Komisji (UE) nr 452/2014 z dnia 29 kwietnia 2014 r. ustanawiającego wymagania techniczne i procedury administracyjne dotyczące operacji lotniczych wykonywanych przez operatorów z państw trzecich zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008/WE (Dz. Urz. UE L 133 z 06.05.2014, str. 12) nie zezwala na wlot statku powietrznego na terytorium Rzeczypospolitej Polskiej, o ile odmowa wlotu nie spowoduje bezpośredniego zagrożenia dla życia i zdrowia ludzi oraz bezpieczeństwa lotów.
 
 2. W celu ustalenia okoliczności, czy wymagania lub warunki określone w przepisach wskazanych w ust. 1 zostały spełnione, instytucja zapewniająca służby ruchu lotniczego ma prawo żądać od podmiotu składającego plan lotu:
 
@@ -3402,8 +3657,8 @@ Art. 213–221. (pominięte)
 
 6. Minister właściwy do spraw transportu w porozumieniu z Ministrem Obrony Narodowej oraz ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, z uwzględnieniem umów i przepisów międzynarodowych:
 
-- **1)** przepisy ruchu lotniczego – w rozumieniu Załącznika 2 do Konwencji, o której mowa w art. 3 ust. 2, biorąc także pod uwagę bezpieczeństwo ruchu lotniczego oraz zakres informacji zawartych we wniosku, o którym mowa w art. 4 rozporządzenia nr 923/2012/UE, i dokumentów dołączanych do tego wniosku;
-- **2)** warunki i sposób działania służb ruchu lotniczego – w rozumieniu Załącznika 11 do Konwencji o międzynarodowym lotnictwie cywilnym.
+- **1)** przepisy ruchu lotniczego w rozumieniu Załącznika 2 do Konwencji, o której mowa w art. 3 ust. 2, biorąc także pod uwagę bezpieczeństwo ruchu lotniczego oraz zakres informacji zawartych we wniosku, o którym mowa w art. 4 rozporządzenia nr 923/2012/UE, i dokumentów dołączanych do tego wniosku;
+- **2)** warunki i sposób działania służb ruchu lotniczego w rozumieniu Załącznika 11 do Konwencji o międzynarodowym lotnictwie cywilnym.
 
 7. Minister Obrony Narodowej w porozumieniu z ministrem właściwym do spraw transportu określi, w drodze rozporządzenia, sposób współdziałania instytucji zapewniającej służby ruchu lotniczego z Siłami Powietrznymi Sił Zbrojnych Rzeczypospolitej Polskiej tak, aby zapewniona była szczególna rola systemu obrony powietrznej w zakresie przeciwdziałania zagrożeniom bezpieczeństwa państwa z powietrza w czasie pokoju.
 
@@ -3452,7 +3707,7 @@ Art. 213–221. (pominięte)
 
 - **1)** wyjątki od zakazów, o których mowa w ust. 1,
 - **2)** szczegółowe wymogi bezpieczeństwa podczas organizacji i prowadzenia pokazów,
-- **3)** szczegółowe warunki organizacji i prowadzenia pokazów oraz lotów próbnych i akrobacyjnych – z uwzględnieniem bezpieczeństwa lotów, osób zamieszkałych lub przebywających w osiedlach i skupiskach ludności, a także bezpieczeństwa mienia i osób przebywających na pokazach lotniczych, w zależności od rodzaju pokazu i liczby miejsc udostępnionych przez organizatora pokazów.
+- **3)** szczegółowe warunki organizacji i prowadzenia pokazów oraz lotów próbnych i akrobacyjnych z uwzględnieniem bezpieczeństwa lotów, osób zamieszkałych lub przebywających w osiedlach i skupiskach ludności, a także bezpieczeństwa mienia i osób przebywających na pokazach lotniczych, w zależności od rodzaju pokazu i liczby miejsc udostępnionych przez organizatora pokazów.
 
 2. Zabrania się dokonywania w czasie lotów zrzutów ze statku powietrznego, z wyjątkiem zrzutów dokonywanych na potrzeby:
 
@@ -3479,7 +3734,7 @@ Art. 213–221. (pominięte)
 
 1. Zabrania się używania obowiązujących w ruchu lotniczym znaków i sygnałów do celów niezwiązanych z tym ruchem, jak również używania ich w sposób mogący wprowadzić w błąd instytucje zapewniające służby ruchu lotniczego, cywilne i wojskowe lotniskowe organy służby ruchu lotniczego lub załogi statków powietrznych.
 
-2. Zabrania się używania przez osoby nieuprawnione nadawczych urządzeń radiowych działających w pasmach częstotliwości przeznaczonych zgodnie z przepisami wydanymi na podstawie art. 62 ust. 3 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221 oraz z 2025 r. poz. 637 i 820) dla łączności lotniczej oraz radiolokacji i radionawigacji lotniczej.
+2. Zabrania się używania przez osoby nieuprawnione nadawczych urządzeń radiowych działających w pasmach częstotliwości przeznaczonych zgodnie z przepisami wydanymi na podstawie art. 62 ust. 3 ustawy z dnia 12 lipca 2024 r. Prawo komunikacji elektronicznej (Dz. U. poz. 1221 oraz z 2025 r. poz. 637 i 820) dla łączności lotniczej oraz radiolokacji i radionawigacji lotniczej.
 
 **Art. 126.** (uchylony)
 
@@ -3537,7 +3792,7 @@ Art. 213–221. (pominięte)
 
 - **1)** szczegółowe warunki i tryb przekazywania informacji, o których mowa w ust. 1,
 - **2)** warunki zatwierdzenia, o którym mowa w art. 9 ust. 1 rozporządzenia nr 1034/2011/UE, oraz zatwierdzenia planowanych zmian, o których mowa w art. 9 ust. 2 tego rozporządzenia,
-- **3)** warunki zatwierdzenia, o którym mowa w art. 10 ust. 3 rozporządzenia nr 1034/2011/UE – mając na względzie zapewnienie bezpieczeństwa ruchu lotniczego oraz przepisy międzynarodowe.
+- **3)** warunki zatwierdzenia, o którym mowa w art. 10 ust. 3 rozporządzenia nr 1034/2011/UE mając na względzie zapewnienie bezpieczeństwa ruchu lotniczego oraz przepisy międzynarodowe.
 
 **Art. 128c.** Prezes Urzędu wydaje wytyczne w zakresie bezpieczeństwa, o których mowa w art. 13 rozporządzenia nr 1034/2011/UE, w drodze decyzji administracyjnej.
 
@@ -3565,8 +3820,8 @@ Art. 213–221. (pominięte)
 
 6. Nie pobiera się opłat nawigacyjnych za loty:
 
-- **1)** wykonywane zgodnie z przepisami dla lotów z widocznością (VFR – Visual Flight Rules);
-- **2)** mieszane – w których część lotu wykonywana jest zgodnie z przepisami dla lotów z widocznością (VFR), a pozostała część lotu wykonywana jest zgodnie z przepisami dla lotów według wskazań przyrządów (IFR – Instrument Flight Rules) – za część lotu wykonywaną w polskiej przestrzeni powietrznej wyłącznie zgodnie z przepisami VFR;
+- **1)** wykonywane zgodnie z przepisami dla lotów z widocznością (VFR Visual Flight Rules);
+- **2)** mieszane w których część lotu wykonywana jest zgodnie z przepisami dla lotów z widocznością (VFR), a pozostała część lotu wykonywana jest zgodnie z przepisami dla lotów według wskazań przyrządów (IFR Instrument Flight Rules) za część lotu wykonywaną w polskiej przestrzeni powietrznej wyłącznie zgodnie z przepisami VFR;
 - **3)** wykonywane przez statki powietrzne o maksymalnej masie startowej (MTOM) poniżej 2 ton;
 - **4)** wykonywane wyłącznie w celu przewozu, w oficjalnej misji, panującego monarchy i jego najbliższej rodziny, głów państw, szefów rządu oraz ministrów; we wszystkich tych przypadkach cel lotu musi być potwierdzony odpowiednim oznaczeniem statusu lotu lub uwagą w planie lotu;
 - **5)** poszukiwawczo-ratownicze, autoryzowane przez właściwy organ koordynacji systemu poszukiwania i ratownictwa;
@@ -3679,12 +3934,12 @@ Art. 213–221. (pominięte)
 - **2)** wysokości planowanych kosztów w rozbiciu według służb planowanych do zapewniania;
 - **3)** liczby operacji lotniczych wykonanych na lotniskach objętych strefą pobierania opłat terminalowych, o której mowa w art. 130e ust. 1, w okresie:
     - **a)** co najmniej ostatnich 3 lat albo
-    - **b)** zapewniania terminalowych służb żeglugi powietrznej – w przypadku gdy okres zapewniania tych służb był krótszy niż 3 lata – jeżeli instytucja zapewniająca służby ruchu lotniczego zapewniała terminalowe służby żeglugi powietrznej na tych lotniskach;
+    - **b)** zapewniania terminalowych służb żeglugi powietrznej w przypadku gdy okres zapewniania tych służb był krótszy niż 3 lata jeżeli instytucja zapewniająca służby ruchu lotniczego zapewniała terminalowe służby żeglugi powietrznej na tych lotniskach;
 
 - **4)** liczby operacji lotniczych planowanych w okresie, którego dotyczą proponowane stawki opłat terminalowych;
 - **5)** zrealizowanych kosztów zapewniania terminalowych służb żeglugi powietrznej na lotniskach objętych strefą pobierania opłat terminalowych, o której mowa w art. 130e ust. 1, w okresie:
     - **a)** co najmniej ostatnich 3 lat albo
-    - **b)** zapewniania terminalowych służb żeglugi powietrznej – w przypadku gdy okres zapewniania tych służb był krótszy niż 3 lata – jeżeli instytucja zapewniająca służby ruchu lotniczego zapewniała terminalowe służby żeglugi powietrznej na tych lotniskach;
+    - **b)** zapewniania terminalowych służb żeglugi powietrznej w przypadku gdy okres zapewniania tych służb był krótszy niż 3 lata jeżeli instytucja zapewniająca służby ruchu lotniczego zapewniała terminalowe służby żeglugi powietrznej na tych lotniskach;
 
 - **6)** konfiguracji stref pobierania opłat terminalowych w okresie, którego dotyczą proponowane stawki opłat terminalowych;
 - **7)** przeprowadzonych konsultacji w sprawie stawek.
@@ -3705,13 +3960,20 @@ Art. 213–221. (pominięte)
 
 **Art. 130g.** Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
 
+- **1)** strefy pobierania opłat trasowych, mając na uwadze przepisy Unii Europejskiej w zakresie Jednolitej Europejskiej Przestrzeni Powietrznej;
+- **2)** kryteria ustalania stref pobierania opłat terminalowych, biorąc pod uwagę treść programów i strategii rządowych dotyczących lotnictwa cywilnego oraz mając na uwadze przepisy Unii Europejskiej w zakresie Jednolitej Europejskiej Przestrzeni Powietrznej;
+- **3)** sposób konsultacji stref pobierania opłat terminalowych, biorąc pod uwagę konieczność zapewnienia przejrzystości ustalania tych stref oraz mając na uwadze przepisy Unii Europejskiej w zakresie Jednolitej Europejskiej Przestrzeni Powietrznej;
+- **4)** sposób konsultacji stawek opłat terminalowych oraz szczegółowy zakres informacji dołączanych do wniosku o zatwierdzenie stawek opłat terminalowych, biorąc pod uwagę konieczność zapewnienia przejrzystości ustalania stawek oraz mając na uwadze przepisy Unii Europejskiej w zakresie Jednolitej Europejskiej Przestrzeni Powietrznej;
+- **5)** procedurę przekazywania i zakres informacji niezbędnych do zatwierdzenia stawek opłat nawigacyjnych, biorąc pod uwagę konieczność zapewnienia przejrzystości kalkulacji kosztów i opłat oraz powiązanie wysokości należności z tytułu opłat z liczbą operacji lotniczych oraz mając na uwadze przepisy Unii Europejskiej w zakresie Jednolitej Europejskiej Przestrzeni Powietrznej;
+- **6)** sposób ustalania stawek opłat terminalowych nieobjętych zakresem stosowania przepisów, o których mowa w art. 130c ust. 1, w tym kosztów stanowiących podstawę ich ustalenia, biorąc pod uwagę zasadę niedyskryminacji.
+
 **Art. 130h.**
 
 1. Zadania państwa członkowskiego polegające na przyznaniu odstępstw określonych w:
 
 - **1)** art. 1 ust. 3 rozporządzenia nr 390/2013/UE,
 - **2)** art. 1 ust. 5 rozporządzenia nr 391/2013/UE,
-- **3)** art. 3 rozporządzenia nr 391/2013/UE – wykonuje minister właściwy do spraw transportu.
+- **3)** art. 3 rozporządzenia nr 391/2013/UE wykonuje minister właściwy do spraw transportu.
 
 2. Odstępstwa, o których mowa w ust. 1, może wprowadzić minister właściwy do spraw transportu, w drodze rozporządzenia, po zasięgnięciu opinii Prezesa Urzędu, przedstawicieli użytkowników przestrzeni powietrznej, o których mowa w art. 2 pkt 2 rozporządzenia nr 391/2013/UE, oraz instytucji zapewniających służby żeglugi powietrznej, mając na uwadze uwarunkowania operacyjne i kosztowe prowadzenia działalności przez podmioty, których koszty uwzględniane są w podstawach kosztowych stawek opłat nawigacyjnych.
 
@@ -3722,6 +3984,12 @@ Art. 213–221. (pominięte)
 **Art. 131.** (uchylony)
 
 **Art. 132.** Minister właściwy do spraw transportu określi, w drodze rozporządzenia, z uwzględnieniem przepisów międzynarodowych:
+
+- **1)** sposób i warunki zapewniania służby informacji lotniczej;
+- **2)** wymagania, którym powinny odpowiadać mapy lotnicze i inne wydawnictwa tej służby;
+- **3)** sposób i warunki udostępniania przez organy służby informacji lotniczej wydawnictw, o których mowa w pkt 2, oraz rozpowszechniania przez nią innych informacji;
+- **4)** zasady współdziałania służby informacji lotniczej z zarządzającymi lotniskami;
+- **5)** szczegółowe zasady działania telekomunikacji lotniczej.
 
 **Art. 133.** Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw gospodarki wodnej oraz Ministrem Obrony Narodowej określi, w drodze rozporządzenia, szczegółowe warunki i sposób zapewniania osłony meteorologicznej lotnictwa cywilnego, mając na względzie umowy i przepisy międzynarodowe oraz bezpieczeństwo ruchu lotniczego.
 
@@ -3759,11 +4027,11 @@ Art. 213–221. (pominięte)
 - **1)** jakakolwiek osoba doznała obrażeń ze skutkiem śmiertelnym lub poważnego obrażenia ciała w rezultacie:
     - **a)** znajdowania się na pokładzie danego statku powietrznego lub
     - **b)** bezpośredniego zetknięcia się z jakąkolwiek częścią statku powietrznego, w tym częścią, która oddzieliła się od danego statku powietrznego, lub
-    - **c)** bezpośredniego oddziaływania strumienia gazów albo powietrza, wywołanego przez statek powietrzny – z wyłączeniem tych przypadków, kiedy obrażenia ciała powstały z przyczyn naturalnych bądź w wyniku obrażeń zadanych samemu sobie lub przez inne osoby albo kiedy obrażeń ciała doznały osoby odbywające lot bez pozwolenia albo ukrywające się w miejscach, do których zwykle zamknięty jest dostęp dla pasażerów i członków załogi;
+    - **c)** bezpośredniego oddziaływania strumienia gazów albo powietrza, wywołanego przez statek powietrzny z wyłączeniem tych przypadków, kiedy obrażenia ciała powstały z przyczyn naturalnych bądź w wyniku obrażeń zadanych samemu sobie lub przez inne osoby albo kiedy obrażeń ciała doznały osoby odbywające lot bez pozwolenia albo ukrywające się w miejscach, do których zwykle zamknięty jest dostęp dla pasażerów i członków załogi;
 
 - **2)** statek powietrzny został uszkodzony lub nastąpiło zniszczenie jego konstrukcji, w rezultacie czego:
     - **a)** naruszona została trwałość konstrukcji, pogorszeniu uległy techniczne lub lotne charakterystyki statku powietrznego oraz
-    - **b)** wymagane jest przeprowadzenie poważnego remontu lub wymiana uszkodzonego elementu – z wyłączeniem przypadków przerwy w pracy silnika statku powietrznego albo jego uszkodzenia, jeśli uszkodzeniu uległ tylko silnik, jego osłony albo agregaty wspomagające albo gdy uszkodzone zostały łopaty śmigła, końcówki skrzydła, anteny, ogumienie kół, urządzenia hamowania, owiewki albo gdy na pokryciu są niewielkie wgniecenia albo przebicia;
+    - **b)** wymagane jest przeprowadzenie poważnego remontu lub wymiana uszkodzonego elementu z wyłączeniem przypadków przerwy w pracy silnika statku powietrznego albo jego uszkodzenia, jeśli uszkodzeniu uległ tylko silnik, jego osłony albo agregaty wspomagające albo gdy uszkodzone zostały łopaty śmigła, końcówki skrzydła, anteny, ogumienie kół, urządzenia hamowania, owiewki albo gdy na pokryciu są niewielkie wgniecenia albo przebicia;
 
 - **3)** statek powietrzny zaginął lub znajduje się w miejscu, do którego dostęp jest niemożliwy.
 
@@ -3802,7 +4070,7 @@ Art. 213–221. (pominięte)
 - **1)** statek powietrzny w chwili zdarzenia był używany przez osobę nieuprawnioną,
 - **2)** osoba używająca statku powietrznego była pod wpływem alkoholu lub środków odurzających,
 - **3)** statek powietrzny został zbudowany lub był użytkowany niezgodnie z obowiązującymi przepisami,
-- **4)** statek powietrzny był używany w wyniku przestępstwa, w szczególności uprowadzenia – Komisja może odstąpić od badania wypadku lub incydentu lotniczego, powiadamiając jednocześnie właściwe organy o podejrzeniu naruszenia przepisów karnych.
+- **4)** statek powietrzny był używany w wyniku przestępstwa, w szczególności uprowadzenia Komisja może odstąpić od badania wypadku lub incydentu lotniczego, powiadamiając jednocześnie właściwe organy o podejrzeniu naruszenia przepisów karnych.
 
 7. Komisja, w terminie 30 dni od dnia otrzymania informacji o zaistnieniu wypadku lotniczego, przesyła Prezesowi Urzędu raport wstępny. Raport wstępny z badania poważnego incydentu lotniczego przekazuje się w przypadku, gdy uzasadnione jest to względami bezpieczeństwa wykonywania lotów.
 
@@ -3932,6 +4200,14 @@ Art. 213–221. (pominięte)
 
 **Art. 139.** Minister właściwy do spraw transportu, mając na względzie poprawę stanu bezpieczeństwa lotniczego, określi, w drodze rozporządzenia, z uwzględnieniem przepisów międzynarodowych i innych wymagań właściwych organizacji międzynarodowych:
 
+- **1)** szczegółowy sposób postępowania przy badaniu wypadków i incydentów lotniczych;
+- **2)** warunki i tryb udostępniania oraz publikowania raportów końcowych i zaleceń Komisji;
+- **3)** warunki i tryb przekazywania i udostępniania raportów wstępnych i informacji o wypadkach i incydentach lotniczych;
+- **4)** sposób działania systemu obowiązkowego zgłaszania zdarzeń w lotnictwie cywilnym i sposób prowadzenia bazy danych o zdarzeniach lotniczych;
+- **5)** warunki i sposób działania systemu dobrowolnego zgłaszania o zdarzeniach lotniczych, jednostki lotnictwa cywilnego właściwe do przyjmowania takich poufnych zgłoszeń, sposób zapewnienia ochrony danych osobowych z tym związanych oraz formę i sposób udostępnienia tych informacji;
+- **6)** wykaz przykładowych zdarzeń podlegających obowiązkowemu zgłaszaniu;
+- **7)** wykaz przykładowych poważnych incydentów lotniczych.
+
 **Art. 140.**
 
 1. Badanie wypadków i poważnych incydentów lotniczych w lotnictwie państwowym zaistniałych na terytorium Rzeczypospolitej Polskiej i w polskiej przestrzeni powietrznej prowadzi Komisja Badania Wypadków Lotniczych Lotnictwa Państwowego, zwana dalej „Komisją Lotnictwa Państwowego”, powoływana przez Ministra Obrony Narodowej w porozumieniu z ministrem właściwym do spraw wewnętrznych na okres jednego roku.
@@ -3948,7 +4224,7 @@ Art. 213–221. (pominięte)
 
 2b. W skład Komisji Lotnictwa Państwowego powinni wchodzić specjaliści z zakresu: szkolenia lotniczego, techniki lotniczej, nawigacji, ruchu lotniczego, ratownictwa lotniczego, meteorologii, łączności, prawa lotniczego oraz medycyny.
 
-2c. Za specjalistów w danym zakresie uważa się osoby posiadające odpowiednie wykształcenie wyższe oraz udokumentowaną minimum pięcioletnią praktykę w danej dziedzinie, a w przypadku lekarzy – udokumentowaną specjalizację.
+2c. Za specjalistów w danym zakresie uważa się osoby posiadające odpowiednie wykształcenie wyższe oraz udokumentowaną minimum pięcioletnią praktykę w danej dziedzinie, a w przypadku lekarzy udokumentowaną specjalizację.
 
 2d. W pracach Komisji Lotnictwa Państwowego uczestniczą w miarę potrzeb eksperci.
 
@@ -4025,7 +4301,7 @@ Art. 213–221. (pominięte)
 - **2)** zakres planu ASAR i sposób jego opracowywania,
 - **3)** szczegółowe zadania cywilno-wojskowego ośrodka koordynacji poszukiwania i ratownictwa lotniczego,
 - **4)** szczegółowy sposób prowadzenia działań poszukiwawczo-ratowniczych,
-- **5)** sposób współdziałania z innymi podmiotami i jednostkami – mając na uwadze przepisy międzynarodowe oraz uprawnienia i obowiązki właściwych podmiotów i jednostek.
+- **5)** sposób współdziałania z innymi podmiotami i jednostkami mając na uwadze przepisy międzynarodowe oraz uprawnienia i obowiązki właściwych podmiotów i jednostek.
 
 **Art. 140e.**
 
@@ -4040,6 +4316,11 @@ Art. 213–221. (pominięte)
 **Art. 141.** Do lotów międzynarodowych stosuje się przepisy rozdziałów 1, 2 i 3 niniejszego działu ze zmianami wynikającymi z przepisów niniejszego rozdziału, z zachowaniem umów międzynarodowych.
 
 **Art. 142.** Przy wykonywaniu lotów międzynarodowych statek powietrzny jest obowiązany przestrzegać:
+
+- **1)** przepisów ruchu lotniczego właściwych dla obszaru, w którym ruch się odbywa;
+- **2)** zakazu przekraczania granic jakiegokolwiek państwa bez wymaganego zezwolenia;
+- **3)** zakazu używania statków powietrznych do działań bezprawnych;
+- **4)** poleceń organów państwa, w którego przestrzeni powietrznej lot się odbywa, a także poleceń otrzymanych od jego państwowego statku powietrznego.
 
 **Art. 143.** Międzynarodowe loty handlowe mogą być wykonywane przez polskiego przewoźnika lotniczego statkami powietrznymi, którymi dysponuje, zgodnie z przepisami działu X, z zastrzeżeniem umów międzynarodowych.
 
@@ -4056,7 +4337,7 @@ Art. 213–221. (pominięte)
 
 2. Przepisy ust. 1 stosuje się:
 
-- **1)** z zachowaniem przepisów określających zasady korzystania z polskiej przestrzeni powietrznej, a w przypadku konieczności lądowania statku powietrznego na terytorium Rzeczypospolitej Polskiej – korzystania wyłącznie z polskich lotnisk dopuszczonych do lotów międzynarodowych;
+- **1)** z zachowaniem przepisów określających zasady korzystania z polskiej przestrzeni powietrznej, a w przypadku konieczności lądowania statku powietrznego na terytorium Rzeczypospolitej Polskiej korzystania wyłącznie z polskich lotnisk dopuszczonych do lotów międzynarodowych;
 - **2)** z zastrzeżeniem warunków przewidzianych w umowach międzynarodowych.
 
 **Art. 145a.**
@@ -4064,13 +4345,13 @@ Art. 213–221. (pominięte)
 1. Prezes Urzędu, na wniosek użytkownika statku powietrznego, może, w drodze decyzji administracyjnej, wydać na czas określony tymczasowe zezwolenie na lot dla obcego statku powietrznego, w przypadku gdy statek:
 
 - **1)** nie posiada świadectwa zdatności do lotu,
-- **2)** wykonuje lot w warunkach nieprzewidzianych w świadectwie zdatności do lotu – jeżeli wykonanie lotu przez ten statek nie zagrozi bezpieczeństwu.
+- **2)** wykonuje lot w warunkach nieprzewidzianych w świadectwie zdatności do lotu jeżeli wykonanie lotu przez ten statek nie zagrozi bezpieczeństwu.
 
 2. Wniosek, o którym mowa w ust. 1, zawiera informacje określone w przepisach wydanych na podstawie ust. 5. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie ust. 5.
 
 3. Prezes Urzędu niezwłocznie przekazuje instytucji zapewniającej służby ruchu lotniczego kopię zezwolenia, o którym mowa w ust. 1.
 
-4. Wyłącza się z obowiązku uzyskania zezwolenia na lot, o którym mowa w ust. 1, statki powietrzne zarejestrowane w państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, które posiadają, wydane w państwie rejestracji, ważne dokumenty potwierdzające zdatność do lotu inne niż świadectwo zdatności do lotu.
+4. Wyłącza się z obowiązku uzyskania zezwolenia na lot, o którym mowa w ust. 1, statki powietrzne zarejestrowane w państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, które posiadają, wydane w państwie rejestracji, ważne dokumenty potwierdzające zdatność do lotu inne niż świadectwo zdatności do lotu.
 
 5. Minister właściwy do spraw transportu, uwzględniając konieczność zapewnienia bezpieczeństwa użytkowania statków powietrznych, określi, w drodze rozporządzenia:
 
@@ -4086,7 +4367,7 @@ Art. 213–221. (pominięte)
 
 3. Zezwolenie, o którym mowa w ust. 1, jest decyzją administracyjną doręczaną przy wykorzystaniu teleksowej lub elektronicznej łączności lotniczej.
 
-**Art. 147.** Prezes Urzędu może odstąpić, w niezbędnym zakresie, od wymagań Prawa lotniczego dotyczących zezwalania na loty – a organ ruchu lotniczego, w niezbędnym zakresie – od wymagań dotyczących planowania lotów cywilnych statków powietrznych, jeżeli lot jest związany z prowadzeniem akcji poszukiwawczo-ratowniczej, ratownictwa medycznego, z zapobieganiem skutkom klęsk żywiołowych lub ich usuwaniem lub z pomocą w razie katastrofy przemysłowej i komunikacyjnej albo jeżeli statek powietrzny znajduje się w niebezpieczeństwie lub też takie odstąpienie jest konieczne dla uniknięcia niebezpieczeństwa.
+**Art. 147.** Prezes Urzędu może odstąpić, w niezbędnym zakresie, od wymagań Prawa lotniczego dotyczących zezwalania na loty a organ ruchu lotniczego, w niezbędnym zakresie od wymagań dotyczących planowania lotów cywilnych statków powietrznych, jeżeli lot jest związany z prowadzeniem akcji poszukiwawczo-ratowniczej, ratownictwa medycznego, z zapobieganiem skutkom klęsk żywiołowych lub ich usuwaniem lub z pomocą w razie katastrofy przemysłowej i komunikacyjnej albo jeżeli statek powietrzny znajduje się w niebezpieczeństwie lub też takie odstąpienie jest konieczne dla uniknięcia niebezpieczeństwa.
 
 **Art. 148.**
 
@@ -4115,6 +4396,9 @@ Art. 213–221. (pominięte)
 **Art. 152.** W razie zaginięcia lub wypadku obcego cywilnego statku powietrznego upoważnione organy państwa przynależności statku oraz właściciel lub użytkownik tego statku mogą na terytorium Rzeczypospolitej Polskiej brać udział, za zgodą Prezesa Urzędu, w działaniach mających na celu odnalezienie statku lub udzielenie mu pomocy.
 
 **Art. 153.** Minister właściwy do spraw transportu określi, w drodze rozporządzenia, z uwzględnieniem umów i przepisów międzynarodowych, szczegółowe warunki dotyczące:
+
+- **1)** wykonywania lotów międzynarodowych przez obce cywilne statki powietrzne, w tym również formy i trybu składania oraz rozpatrywania wniosków o uzyskanie wymaganego zezwolenia w zależności od rodzaju tych lotów;
+- **2)** stałego pobytu polskich cywilnych statków powietrznych za granicą i obcych cywilnych statków powietrznych w Rzeczypospolitej Polskiej.
 
 **Art. 153a.** (uchylony)
 
@@ -4146,7 +4430,7 @@ Art. 213–221. (pominięte)
 
 1. W przypadku, o którym mowa w ARO.RAMP.140 lit. a załącznika II do rozporządzenia nr 965/2012/UE, Prezes Urzędu, w drodze zawiadomienia, zatrzymuje statek powietrzny na lotnisku albo lądowisku na terytorium Rzeczypospolitej Polskiej do czasu przywrócenia stanu zgodnego z umowami lub przepisami międzynarodowymi.
 
-2. Zawiadomienie, o którym mowa w ust. 1, doręcza się podmiotowi, któremu zatrzymano statek powietrzny, na adres poczty elektronicznej – w przypadku gdy podmiot wskaże taki adres do doręczeń, albo w formie pisemnej lub za pomocą telefaksu.
+2. Zawiadomienie, o którym mowa w ust. 1, doręcza się podmiotowi, któremu zatrzymano statek powietrzny, na adres poczty elektronicznej w przypadku gdy podmiot wskaże taki adres do doręczeń, albo w formie pisemnej lub za pomocą telefaksu.
 
 3. Podmiot, któremu zatrzymano statek powietrzny, może w terminie 14 dni od dnia otrzymania zawiadomienia, o którym mowa w ust. 1, złożyć do Prezesa Urzędu, za pomocą poczty elektronicznej z adresu wskazanego do doręczeń albo w formie pisemnej lub za pomocą telefaksu, sprzeciw wraz z uzasadnieniem.
 
@@ -4189,7 +4473,7 @@ Art. 213–221. (pominięte)
 
 3. Przepisy ust. 1 stosuje się również do polskich statków powietrznych wykonujących regularne przewozy lotnicze.
 
-### DZIAŁ VIA Bezzałogowe statki powietrzne
+### DZIAŁ VIA 65) Bezzałogowe statki powietrzne
 
 #### Rozdział 1 Wykonywanie operacji z użyciem systemu bezzałogowego statku powietrznego
 
@@ -4205,7 +4489,7 @@ Art. 213–221. (pominięte)
 
 - **1)** przez Siły Zbrojne Rzeczypospolitej Polskiej lub obce siły zbrojne lub
 - **2)** na potrzeby Sił Zbrojnych Rzeczypospolitej Polskiej lub obcych sił zbrojnych albo
-- **3)** przez Agencję Bezpieczeństwa Wewnętrznego, Agencję Wywiadu, Służbę Kontrwywiadu Wojskowego, Służbę Wywiadu Wojskowego, Żandarmerię Wojskową, Centralne Biuro Antykorupcyjne, Policję, Straż Graniczną, Państwową Straż Pożarną, Służbę Ochrony Państwa, Krajową Administrację Skarbową, Służbę Więzienną, Straż Leśną albo Inspekcję Ochrony Środowiska w celu realizacji zadań ustawowych – w polskiej przestrzeni powietrznej w wydzielonych elementach struktury przestrzeni powietrznej.
+- **3)** przez Agencję Bezpieczeństwa Wewnętrznego, Agencję Wywiadu, Służbę Kontrwywiadu Wojskowego, Służbę Wywiadu Wojskowego, Żandarmerię Wojskową, Centralne Biuro Antykorupcyjne, Policję, Straż Graniczną, Państwową Straż Pożarną, Służbę Ochrony Państwa, Krajową Administrację Skarbową, Służbę Więzienną, Straż Leśną albo Inspekcję Ochrony Środowiska w celu realizacji zadań ustawowych w polskiej przestrzeni powietrznej w wydzielonych elementach struktury przestrzeni powietrznej.
 
 5. Do wykonywania operacji z użyciem systemu bezzałogowego statku powietrznego wykonywanych według wskazań przyrządów (IFR) przez Siły Zbrojne Rzeczypospolitej Polskiej lub obce siły zbrojne lub na potrzeby Sił Zbrojnych Rzeczypospolitej Polskiej lub obcych sił zbrojnych w polskiej przestrzeni powietrznej nie stosuje się przepisów ust. 2–4 oraz przepisów rozporządzenia nr 2018/1139/UE i rozporządzenia nr 2019/947/UE.
 
@@ -4231,8 +4515,8 @@ Art. 213–221. (pominięte)
 
 11. Operacje, o których mowa w ust. 5, wykonuje się przy zachowaniu następujących warunków:
 
-- **1)** na podstawie porozumienia zawartego między właściwą instytucją zapewniającą służbę kontroli ruchu lotniczego a zainteresowanym podmiotem – w przypadku operacji wykonywanych w przestrzeni, o której mowa w ust. 10 pkt 1 i 2;
-- **2)** w sposób ustalony między właściwym organem wojskowym a zainteresowanym podmiotem – w przypadku operacji wykonywanych w przestrzeni, o której mowa w ust. 10 pkt 3–6;
+- **1)** na podstawie porozumienia zawartego między właściwą instytucją zapewniającą służbę kontroli ruchu lotniczego a zainteresowanym podmiotem w przypadku operacji wykonywanych w przestrzeni, o której mowa w ust. 10 pkt 1 i 2;
+- **2)** w sposób ustalony między właściwym organem wojskowym a zainteresowanym podmiotem w przypadku operacji wykonywanych w przestrzeni, o której mowa w ust. 10 pkt 3–6;
 - **3)** przez pilota bezzałogowego statku powietrznego posiadającego wiedzę i umiejętności w zakresie wykonywania lotów zgodnie z przepisami dla lotów według wskazań przyrządów (IFR).
 
 12. Porozumienie, o którym mowa w ust. 11 pkt 1, określa co najmniej:
@@ -4259,15 +4543,15 @@ Art. 213–221. (pominięte)
 
 3. Do systemów bezzałogowych statków powietrznych oraz do operacji wykonywanych z użyciem tych systemów w kategorii:
 
-- **1)** „otwartej”, o której mowa w art. 4 rozporządzenia nr 2019/947/UE, i „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE – nie stosuje się przepisów art. 31, art. 32, działu III rozdziałów 2 i 3, art. 123 oraz art. 160 ust. 3 pkt 6;
-- **2)** „certyfikowanej”, o której mowa w art. 6 rozporządzenia nr 2019/947/UE – nie stosuje się przepisów art. 47–49a, art. 50, art. 53a, art. 123 oraz art. 160 ust. 3 pkt 6 w zakresie projektowania.
+- **1)** „otwartej”, o której mowa w art. 4 rozporządzenia nr 2019/947/UE, i „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE nie stosuje się przepisów art. 31, art. 32, działu III rozdziałów 2 i 3, art. 123 oraz art. 160 ust. 3 pkt 6;
+- **2)** „certyfikowanej”, o której mowa w art. 6 rozporządzenia nr 2019/947/UE nie stosuje się przepisów art. 47–49a, art. 50, art. 53a, art. 123 oraz art. 160 ust. 3 pkt 6 w zakresie projektowania.
 
 **Art. 156c.**
 
 1. W kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, Prezes Urzędu wydaje zezwolenie na operację, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE, wykonywaną z użyciem:
 
 - **1)** jednego systemu bezzałogowego statku powietrznego albo
-- **2)** roju bezzałogowych statków powietrznych – na zasadach określonych w art. 12 ust. 1–4 rozporządzenia nr 2019/947/UE z uwzględnieniem UAS.SPEC.030, UAS.SPEC.040, UAS.SPEC.070 i UAS.SPEC.080 części B załącznika do rozporządzenia nr 2019/947/UE.
+- **2)** roju bezzałogowych statków powietrznych na zasadach określonych w art. 12 ust. 1–4 rozporządzenia nr 2019/947/UE z uwzględnieniem UAS.SPEC.030, UAS.SPEC.040, UAS.SPEC.070 i UAS.SPEC.080 części B załącznika do rozporządzenia nr 2019/947/UE.
 
 2. Zezwolenie na operację, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE, wydaje się na wniosek operatora systemu bezzałogowego statku powietrznego zawierający informacje wskazane w UAS.SPEC.030 pkt 3 części B załącznika do rozporządzenia nr 2019/947/UE, jeżeli zostały spełnione wymagania określone w art. 12 ust. 2 rozporządzenia nr 2019/947/UE oraz w UAS.SPEC.040 pkt 1 części B załącznika do rozporządzenia nr 2019/947/UE.
 
@@ -4279,7 +4563,7 @@ Art. 213–221. (pominięte)
 - **2)** dotyczy systemu zarządzania operatora systemu bezzałogowego statku powietrznego, w tym zmiany personelu wskazanego w zezwoleniu na operację;
 - **3)** wpływa na sprawozdanie z oceny ryzyka operacyjnego, o której mowa w art. 11 rozporządzenia nr 2019/947/UE;
 - **4)** wpływa na zasady i procedury, o których mowa w UAS.SPEC.050 pkt 1 lit. a części B załącznika do rozporządzenia nr 2019/947/UE;
-- **5)** dotyczy instrukcji operacyjnej operatora systemu bezzałogowego statku powietrznego, o której mowa w UAS.SPEC.030 pkt 3 lit. e części B załącznika do rozporządzenia nr 2019/947/UE – jeżeli jest wymagana.
+- **5)** dotyczy instrukcji operacyjnej operatora systemu bezzałogowego statku powietrznego, o której mowa w UAS.SPEC.030 pkt 3 lit. e części B załącznika do rozporządzenia nr 2019/947/UE jeżeli jest wymagana.
 
 5. Prezes Urzędu przedłuża ważność zezwolenia na operację, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE, w okresie ważności tego zezwolenia, na wniosek operatora systemu bezzałogowego statku powietrznego złożony nie później niż 30 dni przed końcem ważności zezwolenia, jeżeli nie uległy zmianie zakres, warunki i ograniczenia przedłużanego zezwolenia. W przypadku zezwoleń na operację, których termin ważności jest nie dłuższy niż 30 dni, operator systemu bezzałogowego statku powietrznego składa wniosek o przedłużenie nie później niż 12 dni przed końcem ważności tego zezwolenia.
 
@@ -4357,12 +4641,12 @@ Art. 213–221. (pominięte)
 2. Certyfikat LUC wydaje się:
 
 - **1)** jeżeli operator systemu bezzałogowego statku powietrznego spełnia warunki określone w UAS.LUC.020, UAS.LUC.030 i UAS.LUC.040 części C załącznika do rozporządzenia nr 2019/947/UE lub
-- **2)** w przypadku gdy operator systemu bezzałogowego statku powietrznego ubiega się o uzyskanie certyfikatu LUC do zatwierdzania własnych operacji w zakresie składania oświadczeń o operacji, o których mowa w UAS.LUC.060 pkt 2 lit. a części C załącznika do rozporządzenia nr 2019/947/UE – jeżeli operator systemu bezzałogowego statku powietrznego posiada potwierdzenie odbioru i kompletności oświadczenia:
+- **2)** w przypadku gdy operator systemu bezzałogowego statku powietrznego ubiega się o uzyskanie certyfikatu LUC do zatwierdzania własnych operacji w zakresie składania oświadczeń o operacji, o których mowa w UAS.LUC.060 pkt 2 lit. a części C załącznika do rozporządzenia nr 2019/947/UE jeżeli operator systemu bezzałogowego statku powietrznego posiada potwierdzenie odbioru i kompletności oświadczenia:
     - **a)** o którym mowa w art. 5 ust. 5 rozporządzenia nr 2019/947/UE, lub
-    - **b)** o wykonywaniu operacji zgodnie z krajowym scenariuszem standardowym – obejmującego operacje, które operator systemu bezzałogowego statku powietrznego zamierza zatwierdzać w ramach wnioskowanego certyfikatu LUC, lub
+    - **b)** o wykonywaniu operacji zgodnie z krajowym scenariuszem standardowym obejmującego operacje, które operator systemu bezzałogowego statku powietrznego zamierza zatwierdzać w ramach wnioskowanego certyfikatu LUC, lub
 
 - **3)** w przypadku gdy operator systemu bezzałogowego statku powietrznego ubiega się o uzyskanie certyfikatu LUC do zatwierdzania własnych operacji w zakresie zezwoleń na operację, o których mowa w UAS.LUC.060 pkt 2 lit. b części C załącznika do rozporządzenia nr 2019/947/UE, jeżeli:
-    - **a)** operator systemu bezzałogowego statku powietrznego uzyskał w ciągu 12 miesięcy przed dniem złożenia wniosku o uzyskanie certyfikatu LUC co najmniej pięć zezwoleń na operacje, o których mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE: – obejmujących operacje, które zamierza zatwierdzać w ramach wnioskowanego certyfikatu LUC, – do których została sporządzona ocena ryzyka operacyjnego, o której mowa w art. 11 rozporządzenia nr 2019/947/UE, – z których co najmniej dwa zezwolenia są ważne co najmniej przez okres 3 miesięcy od dnia złożenia wniosku o uzyskanie certyfikatu LUC, oraz
+    - **a)** operator systemu bezzałogowego statku powietrznego uzyskał w ciągu 12 miesięcy przed dniem złożenia wniosku o uzyskanie certyfikatu LUC co najmniej pięć zezwoleń na operacje, o których mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE: obejmujących operacje, które zamierza zatwierdzać w ramach wnioskowanego certyfikatu LUC, do których została sporządzona ocena ryzyka operacyjnego, o której mowa w art. 11 rozporządzenia nr 2019/947/UE, z których co najmniej dwa zezwolenia są ważne co najmniej przez okres 3 miesięcy od dnia złożenia wniosku o uzyskanie certyfikatu LUC, oraz
     - **b)** w procesie weryfikacji zezwoleń, o których mowa w lit. a, Prezes Urzędu nie stwierdził żadnych nieprawidłowości w ocenie ryzyka operacyjnego, o której mowa w art. 11 rozporządzenia nr 2019/947/UE, w tym nie wzywał operatora systemu bezzałogowego statku powietrznego do uzupełnienia braków.
 
 3. Prezes Urzędu zmienia certyfikat LUC na wniosek posiadacza certyfikatu LUC po spełnieniu wymagań określonych w UAS.LUC.070 części C załącznika do rozporządzenia nr 2019/947/UE.
@@ -4414,15 +4698,11 @@ Art. 213–221. (pominięte)
 
 1. Operacje z użyciem systemu bezzałogowego statku powietrznego w kategorii „otwartej”, o której mowa w art. 4 rozporządzenia nr 2019/947/UE, wykonuje się zgodnie z warunkami określonymi w art. 4 ust. 1 rozporządzenia nr 2019/947/UE oraz w przepisach wydanych na podstawie ust. 9 pkt 1.
 
-2. Operacje z użyciem systemu bezzałogowego statku powietrznego w kategorii „szczególnej”, w tym w ramach klubów lub stowarzyszeń modelarstwa lotniczego, wykonuje się zgodnie z warunkami określonymi w art. 5 ust. 1 rozporządzenia nr 2019/947/UE oraz w przepisach wydanych odpowiednio na podstawie ust. 9 pkt 2 albo
-
-3.
+2. Operacje z użyciem systemu bezzałogowego statku powietrznego w kategorii „szczególnej”, w tym w ramach klubów lub stowarzyszeń modelarstwa lotniczego, wykonuje się zgodnie z warunkami określonymi w art. 5 ust. 1 rozporządzenia nr 2019/947/UE oraz w przepisach wydanych odpowiednio na podstawie ust. 9 pkt 2 albo 3.
 
 3. Do operacji w zasięgu widoczności wzrokowej (VLOS) z użyciem systemu bezzałogowego statku powietrznego wykonywanych przez Agencję Bezpieczeństwa Wewnętrznego, Agencję Wywiadu, Służbę Kontrwywiadu Wojskowego, Służbę Wywiadu Wojskowego, Centralne Biuro Antykorupcyjne, Policję, Straż Graniczną, Państwową Straż Pożarną, Służbę Ochrony Państwa, Krajową Administrację Skarbową, Służbę Więzienną oraz Inspekcję Ochrony Środowiska, w celu realizacji zadań ustawowych, stosuje się wyłącznie przepisy wydane na podstawie ust. 9 pkt 4.
 
-4. Do operacji w zasięgu widoczności wzrokowej (VLOS) z użyciem systemu bezzałogowego statku powietrznego Państwowego Gospodarstwa Leśnego Lasy Państwowe, zarządzającego infrastrukturą krytyczną, podmiotu uprawnionego do wykonywania ratownictwa wodnego i podmiotu uprawnionego do wykonywania ratownictwa górskiego stosuje się wyłącznie przepisy wydane na podstawie ust. 9 pkt
-
-5.
+4. Do operacji w zasięgu widoczności wzrokowej (VLOS) z użyciem systemu bezzałogowego statku powietrznego Państwowego Gospodarstwa Leśnego Lasy Państwowe, zarządzającego infrastrukturą krytyczną, podmiotu uprawnionego do wykonywania ratownictwa wodnego i podmiotu uprawnionego do wykonywania ratownictwa górskiego stosuje się wyłącznie przepisy wydane na podstawie ust. 9 pkt 5.
 
 5. Do operacji w przestrzeni kontrolowanej, w której służba kontroli ruchu lotniczego jest zapewniana przez instytucję zapewniającą służby żeglugi powietrznej, wykonywanych poza zasięgiem widoczności wzrokowej (BVLOS) z użyciem systemu bezzałogowego statku powietrznego Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Żandarmerii Wojskowej, Centralnego Biura Antykorupcyjnego, Policji, Straży Granicznej, Państwowej Straży Pożarnej, Służby Ochrony Państwa, Krajowej Administracji Skarbowej, Straży Leśnej, podmiotu uprawnionego do wykonywania ratownictwa wodnego i podmiotu uprawnionego do wykonywania ratownictwa górskiego stosuje się wyłącznie przepisy wydane na podstawie ust. 9 pkt 6. Operacje te wykonuje się na podstawie porozumienia z Polską Agencją Żeglugi Powietrznej.
 
@@ -4444,9 +4724,9 @@ Art. 213–221. (pominięte)
 - **1)** warunki operacyjne wykonywania operacji z użyciem systemu bezzałogowego statku powietrznego w kategorii „otwartej”, o której mowa w art. 4 rozporządzenia nr 2019/947/UE,
 - **2)** warunki operacyjne wykonywania operacji z użyciem systemu bezzałogowego statku powietrznego oraz warunki eksploatacji systemu bezzałogowego statku powietrznego i wymagania dla tego systemu w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE,
 - **3)** warunki operacyjne wykonywania operacji z użyciem systemu bezzałogowego statku powietrznego w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, w ramach klubów lub stowarzyszeń modelarstwa lotniczego,
-- **4)** warunki operacyjne wykonywania operacji w zasięgu widoczności wzrokowej (VLOS) z użyciem systemu bezzałogowego statku powietrznego Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Żandarmerii Wojskowej, Centralnego Biura Antykorupcyjnego, Policji, Straży Granicznej, Państwowej Straży Pożarnej, Służby Ochrony Państwa, Krajowej Administracji Skarbowej, Służby Więziennej oraz Inspekcji Ochrony Środowiska, z uwzględnieniem specyfiki wykonywanych operacji w związku z zapewnieniem bezpieczeństwa publicznego i porządku publicznego, bezpieczeństwa państwa i obronności państwa, ochroną granicy państwowej, prowadzeniem działań poszukiwawczoratowniczych lub przeciwpożarowych, a także przeciwdziałaniem przestępczości środowiskowej oraz prowadzeniem kontroli podmiotów w tym zakresie,
+- **4)** warunki operacyjne wykonywania operacji w zasięgu widoczności wzrokowej (VLOS) z użyciem systemu bezzałogowego statku powietrznego Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Żandarmerii Wojskowej, Centralnego Biura Antykorupcyjnego, Policji, Straży Granicznej, Państwowej Straży Pożarnej, Służby Ochrony Państwa, Krajowej Administracji Skarbowej, Służby Więziennej oraz Inspekcji Ochrony Środowiska, z uwzględnieniem specyfiki wykonywanych operacji w związku z zapewnieniem bezpieczeństwa publicznego i porządku publicznego, bezpieczeństwa państwa i obronności państwa, ochroną granicy państwowej, prowadzeniem działań poszukiwawczo-ratowniczych lub przeciwpożarowych, a także przeciwdziałaniem przestępczości środowiskowej oraz prowadzeniem kontroli podmiotów w tym zakresie,
 - **5)** warunki operacyjne wykonywania operacji w zasięgu widoczności wzrokowej (VLOS) z użyciem systemu bezzałogowego statku powietrznego Państwowego Gospodarstwa Leśnego Lasy Państwowe, zarządzającego infrastrukturą krytyczną, podmiotu uprawnionego do wykonywania ratownictwa wodnego oraz podmiotu uprawnionego do wykonywania ratownictwa górskiego, z uwzględnieniem specyfiki wykonywanych operacji w związku z zapewnieniem bezpieczeństwa publicznego i porządku publicznego, bezpieczeństwa infrastruktury krytycznej, a także w związku z prowadzeniem działań poszukiwawczo-ratowniczych oraz prowadzeniem kontroli podmiotów w tym zakresie,
-- **6)** warunki operacyjne wykonywania operacji poza zasięgiem widoczności wzrokowej (BVLOS) z użyciem systemu bezzałogowego statku powietrznego Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Straży Granicznej, Państwowej Straży Pożarnej, Służby Ochrony Państwa, Żandarmerii Wojskowej, Krajowej Administracji Skarbowej, Straży Leśnej, podmiotu uprawnionego do wykonywania ratownictwa wodnego i podmiotu uprawnionego do wykonywania ratownictwa górskiego, z uwzględnieniem specyfiki wykonywanych operacji w związku z zapewnieniem bezpieczeństwa publicznego i porządku publicznego, bezpieczeństwa infrastruktury krytycznej, bezpieczeństwa państwa i obronności państwa, a także w związku z ochroną granicy państwowej, prowadzeniem działań poszukiwawczo-ratowniczych lub przeciwpożarowych, oraz przeciwdziałaniem przestępczości środowiskowej oraz prowadzeniem kontroli podmiotów w tym zakresie – uwzględniając przepisy Unii Europejskiej w zakresie systemów bezzałogowych statków powietrznych, zasady bezpiecznego korzystania z przestrzeni powietrznej, ochrony środowiska naturalnego i ochrony prywatności osób trzecich, a także podział na operacje wykonywane z użyciem systemów bezzałogowych statków powietrznych w kategorii „otwartej”, o której mowa w art. 4 rozporządzenia nr 2019/947/UE, oraz w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, w tym w ramach klubów lub stowarzyszeń modelarstwa lotniczego.
+- **6)** warunki operacyjne wykonywania operacji poza zasięgiem widoczności wzrokowej (BVLOS) z użyciem systemu bezzałogowego statku powietrznego Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Straży Granicznej, Państwowej Straży Pożarnej, Służby Ochrony Państwa, Żandarmerii Wojskowej, Krajowej Administracji Skarbowej, Straży Leśnej, podmiotu uprawnionego do wykonywania ratownictwa wodnego i podmiotu uprawnionego do wykonywania ratownictwa górskiego, z uwzględnieniem specyfiki wykonywanych operacji w związku z zapewnieniem bezpieczeństwa publicznego i porządku publicznego, bezpieczeństwa infrastruktury krytycznej, bezpieczeństwa państwa i obronności państwa, a także w związku z ochroną granicy państwowej, prowadzeniem działań poszukiwawczo-ratowniczych lub przeciwpożarowych, oraz przeciwdziałaniem przestępczości środowiskowej oraz prowadzeniem kontroli podmiotów w tym zakresie uwzględniając przepisy Unii Europejskiej w zakresie systemów bezzałogowych statków powietrznych, zasady bezpiecznego korzystania z przestrzeni powietrznej, ochrony środowiska naturalnego i ochrony prywatności osób trzecich, a także podział na operacje wykonywane z użyciem systemów bezzałogowych statków powietrznych w kategorii „otwartej”, o której mowa w art. 4 rozporządzenia nr 2019/947/UE, oraz w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, w tym w ramach klubów lub stowarzyszeń modelarstwa lotniczego.
 
 #### Rozdział 2 Strefy geograficzne dla systemów bezzałogowych statków powietrznych
 
@@ -4455,7 +4735,7 @@ Art. 213–221. (pominięte)
 1. Polska Agencja Żeglugi Powietrznej wyznacza strefy geograficzne:
 
 - **1)** z własnej inicjatywy, w przypadku konieczności zapewnienia bezpieczeństwa operacji wykonywanych z użyciem systemów bezzałogowych statków powietrznych,
-- **2)** na wniosek podmiotu uprawnionego do złożenia wniosku o wyznaczenie strefy geograficznej, złożony za pośrednictwem poczty elektronicznej lub systemu teleinformatycznego BSP, w sposób wskazany przez Polską Agencję Żeglugi Powietrznej, w terminie określonym w przepisach wydanych na podstawie art. 156k – z uwzględnieniem zakazów lub ograniczeń lotów określonych w przepisach wydanych na podstawie art. 119 ust. 4 i 5 oraz struktury przestrzeni powietrznej określonej w przepisach wydanych na podstawie art. 121 ust. 5.
+- **2)** na wniosek podmiotu uprawnionego do złożenia wniosku o wyznaczenie strefy geograficznej, złożony za pośrednictwem poczty elektronicznej lub systemu teleinformatycznego BSP, w sposób wskazany przez Polską Agencję Żeglugi Powietrznej, w terminie określonym w przepisach wydanych na podstawie art. 156k z uwzględnieniem zakazów lub ograniczeń lotów określonych w przepisach wydanych na podstawie art. 119 ust. 4 i 5 oraz struktury przestrzeni powietrznej określonej w przepisach wydanych na podstawie art. 121 ust. 5.
 
 2. W przypadku wprowadzenia ograniczenia lotów w części przestrzeni powietrznej zgodnie z przepisami wydanymi na podstawie art. 119 ust. 4 pkt 2 Polska Agencja Żeglugi Powietrznej wyznacza strefę geograficzną odpowiadającą wprowadzonemu ograniczeniu lotów w przestrzeni powietrznej.
 
@@ -4463,10 +4743,10 @@ Art. 213–221. (pominięte)
 
 4. Podmiotem uprawnionym do złożenia wniosku o wyznaczenie strefy geograficznej jest:
 
-- **1)** organ administracji publicznej, organ Sił Zbrojnych Rzeczypospolitej Polskiej, przewodniczący Komisji, przewodniczący Komisji Badania Wypadków Lotniczych Lotnictwa Państwowego, Dyrektor Generalny Państwowego Gospodarstwa Leśnego Lasy Państwowe, podmiot uprawniony do wykonywania ratownictwa wodnego, podmiot uprawniony do wykonywania ratownictwa górskiego i dyrektor Rządowego Centrum Bezpieczeństwa – w przypadku konieczności zabezpieczenia przestrzeni powietrznej w celu realizacji zadań ustawowych;
-- **2)** zarządzający infrastrukturą krytyczną, w tym lotniczą, morską, kolejową lub energetyczną, lub terenem górniczym – w przypadku konieczności zabezpieczenia przestrzeni powietrznej w celu wykonania obowiązków tego zarządzającego;
-- **3)** organizator ćwiczeń, treningów, zawodów, pokazów lotniczych lub przelotów okolicznościowych – w przypadku konieczności zabezpieczenia przestrzeni powietrznej na potrzeby wykonania lotów w czasie ćwiczeń, treningów, zawodów, pokazów lotniczych lub przelotów okolicznościowych;
-- **4)** operator systemu bezzałogowego statku powietrznego zamierzający wykonywać operację w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE – w przypadku gdy konieczność wyznaczenia strefy geograficznej wynika z zezwolenia na operację, o którym mowa w art. 12 ust. 2 albo art. 16 ust. 1 rozporządzenia nr 2019/947/UE, certyfikatu LUC, scenariusza standardowego, o którym mowa w art. 5 ust. 5 rozporządzenia nr 2019/947/UE, lub krajowego scenariusza standardowego;
+- **1)** organ administracji publicznej, organ Sił Zbrojnych Rzeczypospolitej Polskiej, przewodniczący Komisji, przewodniczący Komisji Badania Wypadków Lotniczych Lotnictwa Państwowego, Dyrektor Generalny Państwowego Gospodarstwa Leśnego Lasy Państwowe, podmiot uprawniony do wykonywania ratownictwa wodnego, podmiot uprawniony do wykonywania ratownictwa górskiego i dyrektor Rządowego Centrum Bezpieczeństwa w przypadku konieczności zabezpieczenia przestrzeni powietrznej w celu realizacji zadań ustawowych;
+- **2)** zarządzający infrastrukturą krytyczną, w tym lotniczą, morską, kolejową lub energetyczną, lub terenem górniczym w przypadku konieczności zabezpieczenia przestrzeni powietrznej w celu wykonania obowiązków tego zarządzającego;
+- **3)** organizator ćwiczeń, treningów, zawodów, pokazów lotniczych lub przelotów okolicznościowych w przypadku konieczności zabezpieczenia przestrzeni powietrznej na potrzeby wykonania lotów w czasie ćwiczeń, treningów, zawodów, pokazów lotniczych lub przelotów okolicznościowych;
+- **4)** operator systemu bezzałogowego statku powietrznego zamierzający wykonywać operację w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE w przypadku gdy konieczność wyznaczenia strefy geograficznej wynika z zezwolenia na operację, o którym mowa w art. 12 ust. 2 albo art. 16 ust. 1 rozporządzenia nr 2019/947/UE, certyfikatu LUC, scenariusza standardowego, o którym mowa w art. 5 ust. 5 rozporządzenia nr 2019/947/UE, lub krajowego scenariusza standardowego;
 - **5)** uznany podmiot, o którym mowa w art. 156o ust. 1 pkt 1, operator szkolący, o którym mowa w art. 156o ust. 4, i producent systemów bezzałogowych statków powietrznych w rozumieniu art. 3 pkt 13 rozporządzenia nr 2019/945/UE.
 
 5. W przypadkach określonych w przepisach wydanych na podstawie art. 156k wyznaczenie strefy geograficznej wymaga uzyskania pozytywnej opinii Prezesa Urzędu.
@@ -4502,9 +4782,9 @@ Art. 213–221. (pominięte)
 
 18. Po upływie okresu obowiązywania strefy geograficznej Polska Agencja Żeglugi Powietrznej, z własnej inicjatywy albo na wniosek podmiotu uprawnionego, na wniosek którego strefa geograficzna została wyznaczona, może ponownie wyznaczyć strefę geograficzną.
 
-19. Do przedłużania okresu obowiązywania strefy geograficznej oraz ponownego wyznaczania strefy geograficznej stosuje się przepis ust. 13, a w przypadku przedłużania okresu obowiązywania strefy geograficznej oraz ponownego wyznaczania strefy geograficznej na wniosek podmiotu uprawnionego – również przepisy ust. 14–16.
+19. Do przedłużania okresu obowiązywania strefy geograficznej oraz ponownego wyznaczania strefy geograficznej stosuje się przepis ust. 13, a w przypadku przedłużania okresu obowiązywania strefy geograficznej oraz ponownego wyznaczania strefy geograficznej na wniosek podmiotu uprawnionego również przepisy ust. 14–16.
 
-20. Polska Agencja Żeglugi Powietrznej jest uprawniona do zawieszania obowiązywania strefy geograficznej oraz do dokonywania w niej zmian, dotyczących określenia nowego obszaru strefy geograficznej, warunków wykonywania operacji w tej strefie lub okresu jej obowiązywania, w celu zapewnienia bezpieczeństwa ruchu lotniczego oraz efektywnej i ciągłej żeglugi powietrznej, w szczególności w związku z koniecznością zapewnienia bezpieczeństwa publicznego i porządku publicznego, bezpieczeństwa infrastruktury krytycznej, bezpieczeństwa państwa i obronności państwa, ochrony granicy państwowej oraz prowadzenia działań poszukiwawczoratowniczych lub przeciwpożarowych, z uwzględnieniem przepisów wydanych na podstawie art. 156g ust. 9 oraz art. 156k.
+20. Polska Agencja Żeglugi Powietrznej jest uprawniona do zawieszania obowiązywania strefy geograficznej oraz do dokonywania w niej zmian, dotyczących określenia nowego obszaru strefy geograficznej, warunków wykonywania operacji w tej strefie lub okresu jej obowiązywania, w celu zapewnienia bezpieczeństwa ruchu lotniczego oraz efektywnej i ciągłej żeglugi powietrznej, w szczególności w związku z koniecznością zapewnienia bezpieczeństwa publicznego i porządku publicznego, bezpieczeństwa infrastruktury krytycznej, bezpieczeństwa państwa i obronności państwa, ochrony granicy państwowej oraz prowadzenia działań poszukiwawczo-ratowniczych lub przeciwpożarowych, z uwzględnieniem przepisów wydanych na podstawie art. 156g ust. 9 oraz art. 156k.
 
 21. Czynności związane z wyznaczaniem strefy geograficznej, przedłużaniem okresu obowiązywania strefy geograficznej oraz ponownym wyznaczaniem strefy geograficznej, w tym złożenie wniosku o wyznaczenie strefy geograficznej, mogą być realizowane przy użyciu systemu teleinformatycznego, o którym mowa w art. 3b ust. 1 pkt 1 ustawy z dnia 8 grudnia 2006 r. o Polskiej Agencji Żeglugi Powietrznej.
 
@@ -4514,8 +4794,8 @@ Art. 213–221. (pominięte)
 
 2. Zakres informacji na temat stref geograficznych podawany do wiadomości publicznej obejmuje:
 
-- **1)** dane dotyczące wyznaczonych stref geograficznych – nazwę, obszar oraz okres obowiązywania;
-- **2)** nazwę podmiotu, który wnioskował o wyznaczenie danej strefy, oraz numer telefonu lub adres poczty elektronicznej tego podmiotu – z wyjątkiem stref geograficznych wyznaczanych w związku z zapewnieniem bezpieczeństwa publicznego i porządku publicznego, bezpieczeństwa infrastruktury krytycznej, bezpieczeństwa państwa lub obronności państwa, a także w związku z ochroną granicy państwowej oraz przeciwdziałaniem przestępczości środowiskowej i prowadzeniem kontroli podmiotów w tym zakresie.
+- **1)** dane dotyczące wyznaczonych stref geograficznych nazwę, obszar oraz okres obowiązywania;
+- **2)** nazwę podmiotu, który wnioskował o wyznaczenie danej strefy, oraz numer telefonu lub adres poczty elektronicznej tego podmiotu z wyjątkiem stref geograficznych wyznaczanych w związku z zapewnieniem bezpieczeństwa publicznego i porządku publicznego, bezpieczeństwa infrastruktury krytycznej, bezpieczeństwa państwa lub obronności państwa, a także w związku z ochroną granicy państwowej oraz przeciwdziałaniem przestępczości środowiskowej i prowadzeniem kontroli podmiotów w tym zakresie.
 
 3. Informacje na temat stref geograficznych, inne niż określone w ust. 2, Polska Agencja Żeglugi Powietrznej udostępnia na podstawie umowy zawartej między Polską Agencją Żeglugi Powietrznej a zainteresowanym podmiotem. Informacji nie udostępnia się w przypadku konieczności zapewnienia bezpieczeństwa publicznego i porządku publicznego, bezpieczeństwa infrastruktury krytycznej, bezpieczeństwa państwa, obronności państwa, ochrony granicy państwowej, a także przeciwdziałania przestępczości środowiskowej oraz prowadzenia kontroli podmiotów w tym zakresie.
 
@@ -4530,7 +4810,7 @@ Art. 213–221. (pominięte)
 - **1)** przeprowadzaniem wstępnej oceny wniosku o wyznaczenie strefy geograficznej, o którym mowa w art. 156h ust. 1 pkt 2,
 - **2)** wyznaczaniem strefy geograficznej,
 - **3)** przedłużaniem okresu obowiązywania strefy geograficznej,
-- **4)** ponownym wyznaczaniem strefy geograficznej – podlegają opłacie.
+- **4)** ponownym wyznaczaniem strefy geograficznej podlegają opłacie.
 
 2. Opłacie, o której mowa w ust. 1, nie podlegają czynności związane z realizacją wniosków składanych przez Dowódcę Generalnego Rodzajów Sił Zbrojnych, Dowódcę Operacyjnego Rodzajów Sił Zbrojnych, Dowódcę Wojsk Obrony Terytorialnej, Komendanta Głównego Żandarmerii Wojskowej, Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu, Szefa Służby Kontrwywiadu Wojskowego, Szefa Służby Wywiadu Wojskowego, Komendanta Służby Ochrony Państwa, Szefa Centralnego Biura Antykorupcyjnego, Dyrektora Generalnego Służby Więziennej, Komendanta Głównego Policji, Komendanta Głównego Straży Granicznej, Komendanta Głównego Państwowej Straży Pożarnej, Szefa Krajowej Administracji Skarbowej i dyrektora Rządowego Centrum Bezpieczeństwa.
 
@@ -4552,6 +4832,11 @@ Art. 213–221. (pominięte)
 
 **Art. 156k.** Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
 
+- **1)** rodzaje stref geograficznych wraz z ich maksymalnymi wymiarami przyjmowanymi na potrzeby dokonania oceny wstępnej wniosku o wyznaczenie strefy geograficznej oraz okresami ich obowiązywania, w tym rodzaje stref geograficznych, których wyznaczenie wymaga uzyskania pozytywnej opinii Prezesa Urzędu, z uwzględnieniem specyfiki wykonywania operacji z użyciem systemów bezzałogowych statków powietrznych, zasad bezpiecznego korzystania z przestrzeni powietrznej, struktury przestrzeni powietrznej oraz konieczności zapewnienia łatwości identyfikacji tych stref geograficznych;
+- **2)** szczegółowe warunki i sposób korzystania ze stref geograficznych przez wszystkich jej użytkowników, z uwzględnieniem specyfiki wykonywania operacji z użyciem systemów bezzałogowych statków powietrznych oraz zasad bezpiecznego korzystania ze stref geograficznych;
+- **3)** elementy wniosków o wyznaczenie strefy geograficznej, przedłużenie okresu obowiązywania strefy geograficznej i ponowne wyznaczenie strefy geograficznej, ich formę oraz sposób i tryb ich rozpatrywania, w tym termin składania wniosków, z uwzględnieniem konieczności zapewnienia przejrzystości przedstawianych informacji i efektywności wyznaczania stref geograficznych;
+- **4)** sposób uiszczania i rozliczania opłat, o których mowa w art. 156j ust. 1, z uwzględnieniem efektywności pobierania i przejrzystości rozliczania tych opłat.
+
 #### Rozdział 3 Rejestr operatorów systemów bezzałogowych statków powietrznych
 
 **Art. 156l.**
@@ -4572,7 +4857,7 @@ Art. 213–221. (pominięte)
 
 **Art. 156m.**
 
-1. Prezes Urzędu dokonuje w rejestrze operatorów na profilu operatora systemu bezzałogowego statku powietrznego, w tym na profilu pilota bezzałogowego statku powietrznego – jeżeli dotyczy, adnotacji dotyczącej:
+1. Prezes Urzędu dokonuje w rejestrze operatorów na profilu operatora systemu bezzałogowego statku powietrznego, w tym na profilu pilota bezzałogowego statku powietrznego jeżeli dotyczy, adnotacji dotyczącej:
 
 - **1)** wydania, zawieszenia albo cofnięcia potwierdzenia zaliczenia szkolenia i zdania egzaminu online, o którym mowa w art. 156p ust. 1 pkt 1;
 - **2)** wydania, zawieszenia albo cofnięcia certyfikatu kompetencji pilota bezzałogowego statku powietrznego, o którym mowa w art. 156p ust. 1 pkt 2;
@@ -4598,7 +4883,7 @@ Art. 213–221. (pominięte)
 - **2)** w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, zgodnie ze scenariuszem standardowym, o którym mowa w art. 5 ust. 5 rozporządzenia nr 2019/947/UE, lub zgodnie z krajowym scenariuszem standardowym złożył wniosek o zamiarze przeprowadzania egzaminu z wiedzy teoretycznej, o którym mowa w:
     - **a)** UAS.STS-01.020 pkt 2 lit. b dodatku 1 do załącznika do rozporządzenia nr 2019/947/UE lub
     - **b)** UAS.STS-02.020 pkt 9 lit. a dodatku 1 do załącznika do rozporządzenia nr 2019/947/UE, lub
-    - **c)** krajowym scenariuszu standardowym – jeżeli wnioskodawca spełnia wymagania określone w załączniku VI do rozporządzenia nr 2018/1139/UE.
+    - **c)** krajowym scenariuszu standardowym jeżeli wnioskodawca spełnia wymagania określone w załączniku VI do rozporządzenia nr 2018/1139/UE.
 
 2. Prezes Urzędu wyznacza podmiot albo odmawia wyznaczenia podmiotu w drodze decyzji administracyjnej. W decyzji administracyjnej określa się warunki oraz zakres wyznaczenia. Decyzja administracyjna może być wydana przy użyciu systemu teleinformatycznego BSP.
 
@@ -4615,7 +4900,7 @@ Art. 213–221. (pominięte)
 - **2)** przyznaje uprawnienie do prowadzenia szkolenia praktycznego i oceny umiejętności praktycznych operatorowi systemu bezzałogowego statku powietrznego, który w celu prowadzenia szkolenia praktycznego i oceny umiejętności praktycznych pilota bezzałogowego statku powietrznego do wykonywania operacji w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, złożył:
     - **a)** oświadczenie, o którym mowa w dodatku 4 do załącznika do rozporządzenia nr 2019/947/UE, lub
     - **b)** oświadczenie o zamiarze prowadzenia szkolenia praktycznego i oceny umiejętności praktycznych pilota bezzałogowego statku powietrznego zgodnie z krajowym scenariuszu standardowym, lub
-    - **c)** wniosek o zamiarze prowadzenia szkolenia praktycznego i oceny umiejętności praktycznych pilota bezzałogowego statku powietrznego w ramach uzyskanego przez tego operatora i ważnego na dzień prowadzenia szkolenia zezwolenia na operację, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE – jeżeli podmiot składający oświadczenie lub wniosek spełnia wymagania określone w dodatku 3 do załącznika do rozporządzenia nr 2019/947/UE.
+    - **c)** wniosek o zamiarze prowadzenia szkolenia praktycznego i oceny umiejętności praktycznych pilota bezzałogowego statku powietrznego w ramach uzyskanego przez tego operatora i ważnego na dzień prowadzenia szkolenia zezwolenia na operację, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE jeżeli podmiot składający oświadczenie lub wniosek spełnia wymagania określone w dodatku 3 do załącznika do rozporządzenia nr 2019/947/UE.
 
 2. Prezes Urzędu uznaje podmiot albo odmawia uznania podmiotu w drodze decyzji administracyjnej. W decyzji administracyjnej określa się warunki i zakres uznania. Decyzja administracyjna może być wydana przy użyciu systemu teleinformatycznego BSP.
 
@@ -4629,9 +4914,9 @@ Art. 213–221. (pominięte)
 
 1. Dokumentem potwierdzającym posiadanie kwalifikacji pilota bezzałogowego statku powietrznego i uprawniającym do wykonywania operacji z użyciem systemu bezzałogowego statku powietrznego jest:
 
-- **1)** potwierdzenie zaliczenia szkolenia i zdania egzaminu online – w przypadku wykonywania operacji w podkategorii A1 i A3 w kategorii „otwartej”, o której mowa w art. 4 rozporządzenia nr 2019/947/UE;
-- **2)** certyfikat kompetencji pilota bezzałogowego statku powietrznego, którego wzór określają przepisy wydane na podstawie ust. 2 – w przypadku wykonywania operacji w podkategorii A2 kategorii „otwartej”, o której mowa w art. 4 rozporządzenia nr 2019/947/UE;
-- **3)** certyfikat wiedzy teoretycznej, którego wzór określają przepisy wydane na podstawie ust. 2, oraz potwierdzenie ukończenia szkolenia praktycznego – w przypadku wykonywania operacji w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE.
+- **1)** potwierdzenie zaliczenia szkolenia i zdania egzaminu online w przypadku wykonywania operacji w podkategorii A1 i A3 w kategorii „otwartej”, o której mowa w art. 4 rozporządzenia nr 2019/947/UE;
+- **2)** certyfikat kompetencji pilota bezzałogowego statku powietrznego, którego wzór określają przepisy wydane na podstawie ust. 2 w przypadku wykonywania operacji w podkategorii A2 kategorii „otwartej”, o której mowa w art. 4 rozporządzenia nr 2019/947/UE;
+- **3)** certyfikat wiedzy teoretycznej, którego wzór określają przepisy wydane na podstawie ust. 2, oraz potwierdzenie ukończenia szkolenia praktycznego w przypadku wykonywania operacji w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE.
 
 2. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wzory certyfikatów, o których mowa w ust. 1 pkt 2 i 3, uwzględniając zalecenia EASA w tym zakresie.
 
@@ -4660,6 +4945,9 @@ Art. 213–221. (pominięte)
 7. Prezes Urzędu niezwłocznie po otrzymaniu informacji o wydaniu potwierdzenia zdania egzaminu z wiedzy teoretycznej wydaje osobie, która zdała ten egzamin, certyfikat kompetencji pilota bezzałogowego statku powietrznego, o którym mowa w art. 156p ust. 1 pkt 2. Certyfikat może być wydany przy użyciu systemu teleinformatycznego BSP.
 
 **Art. 156s.** Prezes Urzędu ogłasza w Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego w formie ogłoszenia:
+
+- **1)** zakres egzaminu z wiedzy teoretycznej, o którym mowa w UAS.OPEN.030 pkt 2 lit. c części A załącznika do rozporządzenia nr 2019/947/UE, do wykonywania operacji w podkategorii A2 kategorii „otwartej”, o której mowa w art. 4 rozporządzenia nr 2019/947/UE;
+- **2)** program szkolenia praktycznego oraz zakres egzaminu z wiedzy teoretycznej do wykonywania operacji w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE.
 
 **Art. 156t.**
 
@@ -4701,15 +4989,15 @@ Art. 213–221. (pominięte)
 
 1. W kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, potwierdzenie ukończenia szkolenia praktycznego przez pilota bezzałogowego statku powietrznego w odniesieniu do:
 
-- **1)** scenariusza standardowego, o którym mowa w art. 5 ust. 5 rozporządzenia nr 2019/947/UE, lub krajowego scenariusza standardowego – wydaje uznany podmiot albo operator szkolący;
-- **2)** zezwolenia na operację, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE – wydaje operator szkolący.
+- **1)** scenariusza standardowego, o którym mowa w art. 5 ust. 5 rozporządzenia nr 2019/947/UE, lub krajowego scenariusza standardowego wydaje uznany podmiot albo operator szkolący;
+- **2)** zezwolenia na operację, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE wydaje operator szkolący.
 
 2. Potwierdzenie ukończenia szkolenia praktycznego zawiera:
 
 - **1)** dane identyfikacyjne osoby szkolonej: imię i nazwisko, adres zamieszkania, numer rejestracyjny w rejestrze operatorów;
 - **2)** dane identyfikacyjne uznanego podmiotu albo operatora szkolącego: imię i nazwisko albo nazwę, adres do korespondencji, adres poczty elektronicznej, numer telefonu, numer decyzji administracyjnej, o której mowa w art. 156o ust. 2 albo 3;
 - **3)** rodzaj operacji, na które osoba szkolona uzyskała kwalifikacje;
-- **4)** imię i nazwisko osoby prowadzącej szkolenie praktyczne i ocenę umiejętności praktycznych – członka personelu uznanego podmiotu albo operatora szkolącego, posiadającego ważne poświadczenie, o którym mowa w art. 156u ust. 3;
+- **4)** imię i nazwisko osoby prowadzącej szkolenie praktyczne i ocenę umiejętności praktycznych członka personelu uznanego podmiotu albo operatora szkolącego, posiadającego ważne poświadczenie, o którym mowa w art. 156u ust. 3;
 - **5)** datę wydania potwierdzenia;
 - **6)** podpis uznanego podmiotu albo operatora szkolącego wydającego potwierdzenie.
 
@@ -4725,7 +5013,7 @@ Art. 213–221. (pominięte)
 
 - **1)** UAS.STS-01.020 pkt 2 lit. b dodatku 1 do załącznika do rozporządzenia nr 2019/947/UE lub
 - **2)** UAS.STS-02.020 pkt 9 lit. b dodatku 1 do załącznika do rozporządzenia nr 2019/947/UE, lub
-- **3)** krajowym scenariuszu standardowym – na zasadach określonych odpowiednio w scenariuszu standardowym, o którym mowa w art. 5 ust. 5 rozporządzenia nr 2019/947/UE, albo krajowym scenariuszu standardowym.
+- **3)** krajowym scenariuszu standardowym na zasadach określonych odpowiednio w scenariuszu standardowym, o którym mowa w art. 5 ust. 5 rozporządzenia nr 2019/947/UE, albo krajowym scenariuszu standardowym.
 
 2. Do egzaminu z wiedzy teoretycznej, o którym mowa w krajowym scenariuszu standardowym, może przystąpić osoba, która przedstawiła potwierdzenie ukończenia szkolenia praktycznego w odniesieniu do określonego w tym potwierdzeniu krajowego scenariusza standardowego.
 
@@ -4735,7 +5023,7 @@ Art. 213–221. (pominięte)
 
 - **1)** UAS.STS-01.020 pkt 2 dodatku 1 do załącznika do rozporządzenia nr 2019/947/UE lub
 - **2)** UAS.STS-02.020 pkt 9 dodatku 1 do załącznika do rozporządzenia nr 2019/947/UE, lub
-- **3)** krajowych scenariuszach standardowych – potwierdzenie zdania egzaminu z wiedzy teoretycznej.
+- **3)** krajowych scenariuszach standardowych potwierdzenie zdania egzaminu z wiedzy teoretycznej.
 
 2. Potwierdzenie zdania egzaminu z wiedzy teoretycznej zawiera:
 
@@ -4871,7 +5159,7 @@ Art. 213–221. (pominięte)
 - **3)** lotnisko użytku publicznego, o którym mowa w art. 59a ust. 1, i jego eksploatacja;
 - **4)** obsługa naziemna statków powietrznych wykonywana na rzecz przewoźników lotniczych w zakresie:
     - **a)** obsługi materiałów niebezpiecznych w rozumieniu Konwencji, o której mowa w art. 3 ust. 2,
-    - **b)** zaopatrywania statków powietrznych w materiały napędowe – z wyjątkiem wykonywanej przez przewoźników lotniczych obsługi naziemnej własnych statków powietrznych i ładunków;
+    - **b)** zaopatrywania statków powietrznych w materiały napędowe z wyjątkiem wykonywanej przez przewoźników lotniczych obsługi naziemnej własnych statków powietrznych i ładunków;
 
 - **5)** (uchylony)
 - **6)** projektowanie, produkcja i obsługa techniczna statków powietrznych i innego sprzętu lotniczego oraz zarządzanie ciągłą zdatnością do lotu statków powietrznych;
@@ -4882,8 +5170,8 @@ Art. 213–221. (pominięte)
 4. Sprawdzenie, o którym mowa w ust. 2, obejmuje:
 
 - **1)** organizację wykonywania określonej działalności, z uwzględnieniem bezpiecznej eksploatacji statków powietrznych, zawodowego przygotowania personelu kierowniczego, nadzorującego i wykonawczego, metod wykonywania działalności, programów szkolenia personelu, instrukcji wykonawczych, środków technicznych oraz ubezpieczenia odpowiedzialności cywilnej, którego obowiązek posiadania wynika z niniejszej ustawy;
-- **2)** w odniesieniu do przewozu lotniczego – także spełnienia wymagań niezbędnych do uzyskania zatwierdzeń szczególnych;
-- **3)** w odniesieniu do zarządzania lotniskami – zapewnienia bezpiecznego funkcjonowania lotniska;
+- **2)** w odniesieniu do przewozu lotniczego także spełnienia wymagań niezbędnych do uzyskania zatwierdzeń szczególnych;
+- **3)** w odniesieniu do zarządzania lotniskami zapewnienia bezpiecznego funkcjonowania lotniska;
 - **4)** zapewnienie innych warunków istotnych dla danego rodzaju działalności, związanych z zapewnieniem bezpieczeństwa lotnictwa i osób trzecich oraz ochrony, o której mowa w dziale IX, określonych w odrębnych przepisach.
 
 **Art. 160a.** (uchylony)
@@ -4892,7 +5180,7 @@ Art. 213–221. (pominięte)
 
 1. Certyfikację przeprowadza, na wniosek zainteresowanego podmiotu, Prezes Urzędu, chyba że przepisy Unii Europejskiej stanowią inaczej.
 
-1a. Prezes Urzędu, po złożeniu wniosku o wydanie certyfikatu lotniska, ustanawia podstawę certyfikacji, o której mowa w ADR.AR.C.020 załącznika II do rozporządzenia nr 139/2014/UE, dla lotnisk, o których mowa w art. 2 ust. 1 lit. e rozporządzenia nr 2018/1139/UE, i doręcza ją podmiotowi wnioskującemu o wydanie certyfikatu lotniska na adres poczty elektronicznej – w przypadku gdy wnioskodawca wskaże taki adres do doręczeń, albo w formie pisemnej lub za pomocą telefaksu.
+1a. Prezes Urzędu, po złożeniu wniosku o wydanie certyfikatu lotniska, ustanawia podstawę certyfikacji, o której mowa w ADR.AR.C.020 załącznika II do rozporządzenia nr 139/2014/UE, dla lotnisk, o których mowa w art. 2 ust. 1 lit. e rozporządzenia nr 2018/1139/UE, i doręcza ją podmiotowi wnioskującemu o wydanie certyfikatu lotniska na adres poczty elektronicznej w przypadku gdy wnioskodawca wskaże taki adres do doręczeń, albo w formie pisemnej lub za pomocą telefaksu.
 
 1b. Podmiot wnioskujący o wydanie certyfikatu lotniska, dla którego Prezes Urzędu ustanowił podstawę certyfikacji, może, w terminie 14 dni od dnia doręczenia tej podstawy, złożyć do Prezesa Urzędu, za pomocą poczty elektronicznej z adresu wskazanego do doręczeń albo w formie pisemnej lub za pomocą telefaksu, sprzeciw dotyczący jej zakresu wraz z uzasadnieniem.
 
@@ -4900,7 +5188,7 @@ Art. 213–221. (pominięte)
 
 2. W przypadku spełnienia przez podmiot wymagań ustanowionych przepisami prawa, odpowiednich dla danego rodzaju działalności, Prezes Urzędu wydaje certyfikat, w którym określa nazwę podmiotu, zakres prowadzonej działalności, warunki jej prowadzenia oraz termin, na jaki certyfikat jest wydawany.
 
-3. Certyfikat wydaje się na czas oznaczony, nie dłuższy jednak niż 12 miesięcy, jeżeli jest wydawany po raz pierwszy, i nie dłuższy niż 36 miesięcy – przy kolejnym przedłużeniu, jeżeli przepisy Unii Europejskiej nie stanowią inaczej.
+3. Certyfikat wydaje się na czas oznaczony, nie dłuższy jednak niż 12 miesięcy, jeżeli jest wydawany po raz pierwszy, i nie dłuższy niż 36 miesięcy przy kolejnym przedłużeniu, jeżeli przepisy Unii Europejskiej nie stanowią inaczej.
 
 4. Prezes Urzędu odmawia wydania certyfikatu, jeżeli stwierdzi, że wnioskodawca nie spełnił wymagań ustanowionych dla wnioskowanej działalności lotniczej.
 
@@ -4952,6 +5240,13 @@ Art. 213–221. (pominięte)
 **Art. 162b.** Nie wymaga uznania certyfikat wydany na podstawie przepisów Unii Europejskiej.
 
 **Art. 163.** Minister właściwy do spraw transportu określi, w drodze rozporządzenia, z uwzględnieniem przepisów prawa Unii Europejskiej w zakresie certyfikacji oraz w celu zapewnienia efektywności procesu certyfikacji:
+
+- **1)** szczegółowe wymagania, jakie powinien spełnić podmiot w procesie certyfikacji;
+- **2)** szczegółowy zakres i tryb prowadzenia procesu certyfikacji oraz dokumenty i informacje wymagane w tym procesie, w tym wydawania po raz pierwszy certyfikatu, rozszerzenia zakresu oraz przedłużania albo wznawiania jego ważności;
+- **3)** rodzaje i wzory certyfikatów dla poszczególnych rodzajów działalności, o których mowa w art. 160 ust. 3;
+- **4)** szczegółowe warunki i tryb uznawania certyfikatów zagranicznych, biorąc także pod uwagę postanowienia właściwych umów i przepisów międzynarodowych;
+- **5)** szczegółowe warunki zawieszania ważności certyfikatów, ograniczenia uprawnień z nich wynikających oraz cofania certyfikatów;
+- **6)** szczegółowe warunki sprawowania bieżącego nadzoru nad posiadaczami certyfikatu oraz wymagania programu naprawczego.
 
 **Art. 163a.** Przepisy art. 160–162 nie naruszają uprawnień w zakresie certyfikacji działalności, jeżeli zostały one zastrzeżone do kompetencji EASA.
 
@@ -5011,8 +5306,8 @@ Art. 213–221. (pominięte)
 
 4. Prezes Urzędu weryfikuje zgłoszenie zgodnie z wymaganiami określonymi w:
 
-- **1)** ORO.DEC.100 załącznika III oraz ARO.GEN.345 lit. b załącznika II do rozporządzenia nr 965/2012/UE – w przypadku operacji, o których mowa w ust. 1 pkt 1, albo
-- **2)** przepisach wydanych na podstawie art. 159 ust. 1 – w przypadku statków powietrznych kategorii specjalnej, o których mowa w art. 53a ust. 1, oraz statków powietrznych, o których mowa w art. 53a ust. 2 pkt 2.
+- **1)** ORO.DEC.100 załącznika III oraz ARO.GEN.345 lit. b załącznika II do rozporządzenia nr 965/2012/UE w przypadku operacji, o których mowa w ust. 1 pkt 1, albo
+- **2)** przepisach wydanych na podstawie art. 159 ust. 1 w przypadku statków powietrznych kategorii specjalnej, o których mowa w art. 53a ust. 1, oraz statków powietrznych, o których mowa w art. 53a ust. 2 pkt 2.
 
 5. Jeżeli weryfikacja, o której mowa w ust. 4, jest pozytywna, Prezes Urzędu informuje podmiot, o którym mowa w ust. 1, o przyjęciu zgłoszenia.
 
@@ -5028,7 +5323,11 @@ Art. 213–221. (pominięte)
 
 **Art. 164.**
 
-1. Koncesji na wykonywanie działalności gospodarczej w zakresie przewozu lotniczego udziela Prezes Urzędu zgodnie z przepisami rozporządzenia nr 1008/2008/WE. [1a. W przypadku przedsiębiorcy ubiegającego się o koncesję na wykonywanie działalności gospodarczej w zakresie przewozu lotniczego będącego spółką akcyjną warunek, o którym mowa w art. 4 lit. e i f rozporządzenia nr 1008/2008/WE, jest spełniony, jeżeli spółka akcyjna emituje więcej niż 50 % akcji imiennych. Warunek stosuje się odpowiednio do przewoźników lotniczych oraz do spółek akcyjnych będących udziałowcami albo akcjonariuszami.] 1b. Do przedsiębiorcy ubiegającego się o udzielenie koncesji na wykonywanie działalności gospodarczej w zakresie przewozu lotniczego obejmującego eksploatację statków powietrznych o maksymalnej masie startowej (MTOM) poniżej 10 ton lub o liczbie miejsc pasażerskich poniżej 20, zamierzającego wykonywać regularne przewozy lotnicze lub którego obrót przekracza 3 000 000 euro rocznie, nie stosuje się art. 5 ust. 1 i 2 rozporządzenia nr 1008/2008/WE.
+1. Koncesji na wykonywanie działalności gospodarczej w zakresie przewozu lotniczego udziela Prezes Urzędu zgodnie z przepisami rozporządzenia nr 1008/2008/WE.
+
+1a. W przypadku przedsiębiorcy ubiegającego się o koncesję na wykonywanie działalności gospodarczej w zakresie przewozu lotniczego będącego spółką akcyjną warunek, o którym mowa w art. 4 lit. e i f rozporządzenia nr 1008/2008/WE, jest spełniony, jeżeli spółka akcyjna emituje więcej niż 50 % akcji imiennych. Warunek stosuje się odpowiednio do przewoźników lotniczych oraz do spółek akcyjnych będących udziałowcami albo akcjonariuszami.
+
+1b. Do przedsiębiorcy ubiegającego się o udzielenie koncesji na wykonywanie działalności gospodarczej w zakresie przewozu lotniczego obejmującego eksploatację statków powietrznych o maksymalnej masie startowej (MTOM) poniżej 10 ton lub o liczbie miejsc pasażerskich poniżej 20, zamierzającego wykonywać regularne przewozy lotnicze lub którego obrót przekracza 3 000 000 euro rocznie, nie stosuje się art. 5 ust. 1 i 2 rozporządzenia nr 1008/2008/WE.
 
 2. Z obowiązku uzyskania koncesji jest zwolniony przedsiębiorca prowadzący działalność gospodarczą w zakresie:
 
@@ -5062,7 +5361,7 @@ Art. 213–221. (pominięte)
 
 - **1)** firmę koncesjonariusza i jego siedzibę albo miejsce zamieszkania osoby fizycznej,
 - **2)** zakres działalności gospodarczej objętej koncesją,
-- **3)** rodzaj przewozu lotniczego (pasażerowie, towar, poczta), typ przewozu lotniczego (regularny lub nieregularny) i rodzaj statków powietrznych, o których mowa w ust. 1 – biorąc pod uwagę zakres wniosku oraz zakres certyfikatu przewoźnika lotniczego.
+- **3)** rodzaj przewozu lotniczego (pasażerowie, towar, poczta), typ przewozu lotniczego (regularny lub nieregularny) i rodzaj statków powietrznych, o których mowa w ust. 1 biorąc pod uwagę zakres wniosku oraz zakres certyfikatu przewoźnika lotniczego.
 
 3. Przewoźnik lotniczy informuje Prezesa Urzędu, bez zbędnej zwłoki, o rozpoczęciu działalności objętej koncesją albo o zaprzestaniu prowadzenia tej działalności.
 
@@ -5114,13 +5413,20 @@ Art. 213–221. (pominięte)
 
 6. Prezes Urzędu cofa albo zawiesza koncesję bez zbędnej zwłoki w przypadku odpowiednio cofnięcia albo zawieszenia certyfikatu przewoźnika lotniczego oraz zmienia koncesję w zakresie wszystkich zmian wprowadzonych w tym certyfikacie.
 
-7. Do przewoźników lotniczych zajmujących się wyłącznie eksploatacją statków powietrznych o maksymalnej masie startowej (MTOM) poniżej 10 ton lub o liczbie miejsc pasażerskich poniżej 20, wykonujących regularne przewozy lotnicze lub których obrót przekracza 3 000 000 euro rocznie, stosuje się art. 8 ust. 4– 6 rozporządzenia nr 1008/2008/WE.
+7. Do przewoźników lotniczych zajmujących się wyłącznie eksploatacją statków powietrznych o maksymalnej masie startowej (MTOM) poniżej 10 ton lub o liczbie miejsc pasażerskich poniżej 20, wykonujących regularne przewozy lotnicze lub których obrót przekracza 3 000 000 euro rocznie, stosuje się art. 8 ust. 4–6 rozporządzenia nr 1008/2008/WE.
 
-**Art. 171b.** W celu dokonania szczegółowej oceny sytuacji finansowej, o której mowa w art. 9 ust. 2 rozporządzenia nr 1008/2008/WE, przewoźnik lotniczy przedstawia, na żądanie Prezesa Urzędu, dokumenty i informacje określone w treści żądania niezbędne dla oceny sytuacji finansowej przewoźnika, w szczególności informacje, o których mowa w załączniku I pkt 3 do rozporządzenia nr 1008/2008/WE. Art. 171ba. 1. W przypadku nieprzedłożenia na żądanie Prezesa Urzędu dokumentów, informacji lub oświadczeń potwierdzających spełnianie warunków wymaganych do uzyskania koncesji, Prezes Urzędu wzywa przewoźnika lotniczego do ich przedłożenia we wskazanym przez siebie terminie, a w przypadku ich nieprzedłożenia – zawiesza koncesję do czasu przedstawienia żądanych dokumentów, informacji lub oświadczeń, jednak nie dłużej niż na okres 3 miesięcy. 2. Jeżeli przewoźnik lotniczy nie przedłoży dokumentów lub informacji, o których mowa w ust. 1, w okresie, na jaki została zawieszona koncesja, Prezes Urzędu bez zbędnej zwłoki cofa koncesję. W czasie postępowania w sprawie cofnięcia koncesji koncesja pozostaje zawieszona do czasu przedłożenia dokumentów, informacji lub oświadczeń, o których mowa w ust. 1. Art. 171bb. Oświadczenia w postępowaniu o udzielenie albo zmianę koncesji składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń. Art. 171bc. Przewoźnik lotniczy posiadający koncesję na wykonywanie działalności gospodarczej w zakresie przewozu lotniczego z wykorzystaniem statków powietrznych bez ograniczenia maksymalnej masy startowej (MTOM) lub liczby miejsc pasażerskich może wystąpić do Prezesa Urzędu z wnioskiem o zmianę koncesji przez ograniczenie uprawnień do wykonywania działalności gospodarczej w zakresie przewozu lotniczego obejmującego eksploatację statków powietrznych o maksymalnej masie startowej (MTOM) poniżej 10 ton lub o liczbie miejsc pasażerskich poniżej 20.
+**Art. 171b.** W celu dokonania szczegółowej oceny sytuacji finansowej, o której mowa w art. 9 ust. 2 rozporządzenia nr 1008/2008/WE, przewoźnik lotniczy przedstawia, na żądanie Prezesa Urzędu, dokumenty i informacje określone w treści żądania niezbędne dla oceny sytuacji finansowej przewoźnika, w szczególności informacje, o których mowa w załączniku I pkt 3 do rozporządzenia nr 1008/2008/WE. Art. 171ba. 1. W przypadku nieprzedłożenia na żądanie Prezesa Urzędu dokumentów, informacji lub oświadczeń potwierdzających spełnianie warunków wymaganych do uzyskania koncesji, Prezes Urzędu wzywa przewoźnika lotniczego do ich przedłożenia we wskazanym przez siebie terminie, a w przypadku ich nieprzedłożenia zawiesza koncesję do czasu przedstawienia żądanych dokumentów, informacji lub oświadczeń, jednak nie dłużej niż na okres 3 miesięcy. 2. Jeżeli przewoźnik lotniczy nie przedłoży dokumentów lub informacji, o których mowa w ust. 1, w okresie, na jaki została zawieszona koncesja, Prezes Urzędu bez zbędnej zwłoki cofa koncesję. W czasie postępowania w sprawie cofnięcia koncesji koncesja pozostaje zawieszona do czasu przedłożenia dokumentów, informacji lub oświadczeń, o których mowa w ust. 1. Art. 171bb. Oświadczenia w postępowaniu o udzielenie albo zmianę koncesji składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń. Art. 171bc. Przewoźnik lotniczy posiadający koncesję na wykonywanie działalności gospodarczej w zakresie przewozu lotniczego z wykorzystaniem statków powietrznych bez ograniczenia maksymalnej masy startowej (MTOM) lub liczby miejsc pasażerskich może wystąpić do Prezesa Urzędu z wnioskiem o zmianę koncesji przez ograniczenie uprawnień do wykonywania działalności gospodarczej w zakresie przewozu lotniczego obejmującego eksploatację statków powietrznych o maksymalnej masie startowej (MTOM) poniżej 10 ton lub o liczbie miejsc pasażerskich poniżej 20.
 
 **Art. 171c.** Przewoźnik lotniczy jest obowiązany zgłaszać Prezesowi Urzędu wszelkie zmiany danych, o których mowa w art. 166 ust. 2, w terminie 14 dni od ich powstania.
 
 **Art. 172.** Minister właściwy do spraw transportu, w drodze rozporządzenia, określi:
+
+- **1)** wykaz dokumentów, informacji i oświadczeń potwierdzających spełnianie warunków, o których mowa w rozporządzeniu nr 1008/2008/WE, jakie jest obowiązany przedłożyć:
+    - **a)** przedsiębiorca ubiegający się o udzielenie koncesji,
+    - **b)** przewoźnik lotniczy na żądanie Prezesa Urzędu lub ubiegający się o zatwierdzenie albo zmianę koncesji z uwzględnieniem zakresu działalności gospodarczej objętej koncesją, rodzaju i typu przewozu lotniczego oraz rodzaju statków powietrznych,
+
+- **2)** wzór wniosku o udzielenie koncesji,
+- **3)** wzór informacji potwierdzających spełnianie warunków niezbędnych do utrzymania, zatwierdzenia albo zmiany koncesji mając na uwadze przejrzystość przedstawianych informacji oraz efektywność prowadzonego postępowania.
 
 #### Rozdział 2 Zezwolenia
 
@@ -5150,20 +5456,20 @@ Art. 213–221. (pominięte)
 
 - **1)** organ administracji publicznej Rzeczypospolitej Polskiej;
 - **2)** państwowa lub samorządowa jednostka organizacyjna;
-- **3)** spółka kapitałowa z siedzibą na terytorium Rzeczypospolitej Polskiej albo państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym.
+- **3)** spółka kapitałowa z siedzibą na terytorium Rzeczypospolitej Polskiej albo państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym.
 
 3. Zezwolenia udziela się przedsiębiorcy, o którym mowa w ust. 2, jeśli łącznie spełnia następujące warunki:
 
-- **1)** siedziba jego znajduje się na terytorium Rzeczypospolitej Polskiej albo innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym;
+- **1)** siedziba jego znajduje się na terytorium Rzeczypospolitej Polskiej albo innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym;
 - **2)** zarządzanie lotniskiem stanowi podstawowy rodzaj działalności wnioskodawcy, zgodnie z numerem identyfikacyjnym z krajowego rejestru podmiotów gospodarki narodowej, według Polskiej Klasyfikacji Działalności;
 - **3)** wnioskodawca jednocześnie nie zajmuje się działalnością w zakresie przewozu lotniczego;
 - **4)** sytuacja finansowa wnioskodawcy gwarantuje, że jest on w stanie sprostać zobowiązaniom finansowym związanym z wykonywaniem działalności, zgodnie z planem gospodarczym obejmującym co najmniej 2 lata działalności;
 - **5)** w przypadku wniosku o zezwolenie na zarządzanie lotniskiem współużytkowanym z wojskiem lub użytkowanym przez służby państwowe, udostępnionym na potrzeby lotnictwa cywilnego, uzyska zgodę tych służb na przejęcie zarządu lotniska i przedstawi stosowną umowę, określającą zasady i warunki udostępnienia tego lotniska;
 - **6)** w przypadku spółki z udziałem osób zagranicznych lub podmiotów zależnych od osób zagranicznych zezwolenie można otrzymać, jeżeli:
-    - **a)** w spółce tej przedsiębiorcy niezależni od osób zagranicznych zachowują: – nie mniej niż 51 % udziałów lub akcji w całkowitym kapitale założycielskim spółki, – decydujący wpływ na ilość głosów, skład, decyzje i kontrolę organów zarządzających spółki, dysponowanie majątkiem spółki oraz na prowadzenie jej działalności,
-    - **b)** nie zachodzi sytuacja, w której więcej niż połowa członków zarządu spółki jest jednocześnie członkami zarządu albo osobami pełniącymi funkcje kierownicze w podmiocie z udziałem osób zagranicznych lub w innym podmiocie pozostającym ze spółką w stosunku zależności – o ile umowy międzynarodowe ratyfikowane przez Rzeczpospolitą Polską z państwami członkowskimi Unii Europejskiej nie stanowią inaczej.
+    - **a)** w spółce tej przedsiębiorcy niezależni od osób zagranicznych zachowują: nie mniej niż 51 % udziałów lub akcji w całkowitym kapitale założycielskim spółki, decydujący wpływ na ilość głosów, skład, decyzje i kontrolę organów zarządzających spółki, dysponowanie majątkiem spółki oraz na prowadzenie jej działalności,
+    - **b)** nie zachodzi sytuacja, w której więcej niż połowa członków zarządu spółki jest jednocześnie członkami zarządu albo osobami pełniącymi funkcje kierownicze w podmiocie z udziałem osób zagranicznych lub w innym podmiocie pozostającym ze spółką w stosunku zależności o ile umowy międzynarodowe ratyfikowane przez Rzeczpospolitą Polską z państwami członkowskimi Unii Europejskiej nie stanowią inaczej.
 
-4. Przez osoby zagraniczne, o których mowa w ust. 3 pkt 6, rozumie się osoby niemające siedziby na terytorium Rzeczypospolitej Polskiej i innych państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej oraz państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym.
+4. Przez osoby zagraniczne, o których mowa w ust. 3 pkt 6, rozumie się osoby niemające siedziby na terytorium Rzeczypospolitej Polskiej i innych państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej oraz państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym.
 
 **Art. 175.**
 
@@ -5179,7 +5485,7 @@ Art. 213–221. (pominięte)
 - **1)** dokumenty określające status prawny wnioskodawcy (akt zawiązania osoby prawnej, wypis z właściwego rejestru), oświadczenie wnioskodawcy, że nie zgłoszono wniosku o ogłoszenie upadłości przedsiębiorcy oraz że nie znajduje się on w stanie likwidacji, oraz plan gospodarczy przedsiębiorstwa obejmujący co najmniej 2 lata działalności:
     - **a)** wykazujący w sposób wiarygodny, że przedsiębiorca jest w stanie wypełnić istniejące i prawdopodobne przyszłe zobowiązania finansowe w okresie 24 miesięcy od dnia rozpoczęcia działalności,
     - **b)** zawierający informacje dotyczące struktury kapitałowej, płynności finansowej przedsiębiorstwa, źródeł finansowania działalności, powiązań finansowych udziałowców lub akcjonariuszy z inną działalnością, prognoz przepływów finansowych związanych z wykonywaniem działalności
-    - **c)** (uchylona) – oraz dokument potwierdzający, że osobom zarządzającym działalnością przedsiębiorstwa nie cofnięto koncesji w okresie ostatnich 5 lat przed złożeniem wniosku oraz spełniają one wymóg dobrej reputacji, z tym że wymóg dobrej reputacji nie jest spełniony przez osoby, które zostały skazane prawomocnym wyrokiem sądu za przestępstwa umyślne karne skarbowe, przeciwko bezpieczeństwu w komunikacji, bezpieczeństwu powszechnemu, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi, prawom osób wykonujących pracę zarobkową, wiarygodności dokumentów, a także dokumenty potwierdzające, że przedsiębiorstwo jest objęte ubezpieczeniem od odpowiedzialności cywilnej za szkody związane z przewozem lotniczym i ruchem statków powietrznych;
+    - **c)** (uchylona) oraz dokument potwierdzający, że osobom zarządzającym działalnością przedsiębiorstwa nie cofnięto koncesji w okresie ostatnich 5 lat przed złożeniem wniosku oraz spełniają one wymóg dobrej reputacji, z tym że wymóg dobrej reputacji nie jest spełniony przez osoby, które zostały skazane prawomocnym wyrokiem sądu za przestępstwa umyślne karne skarbowe, przeciwko bezpieczeństwu w komunikacji, bezpieczeństwu powszechnemu, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi, prawom osób wykonujących pracę zarobkową, wiarygodności dokumentów, a także dokumenty potwierdzające, że przedsiębiorstwo jest objęte ubezpieczeniem od odpowiedzialności cywilnej za szkody związane z przewozem lotniczym i ruchem statków powietrznych;
 
 - **1a)** zatwierdzone sprawozdanie finansowe za poprzedni rok obrotowy, jeżeli przedsiębiorca prowadził działalność gospodarczą, oraz sprawozdanie z badania, jeżeli obowiązek badania sprawozdania finansowego wynika z przepisów o rachunkowości;
 - **2)** projekt zabezpieczenia obsługi ruchu lotniczego, systemu ratownictwa i ochrony przeciwpożarowej lotniska, osłony meteorologicznej lotnictwa cywilnego na lotnisku oraz zatwierdzony przez Prezesa Urzędu program ochrony lotniska przed aktami bezprawnej ingerencji;
@@ -5217,7 +5523,7 @@ Art. 213–221. (pominięte)
 
 - **1)** osobę wnioskodawcy, jego adres oraz siedzibę lub miejsce zamieszkania;
 - **2)** przedmiot działalności;
-- **3)** strukturę kapitałową przedsiębiorcy – w przypadku zezwolenia na zarządzanie lotniskiem użytku publicznego;
+- **3)** strukturę kapitałową przedsiębiorcy w przypadku zezwolenia na zarządzanie lotniskiem użytku publicznego;
 - **4)** miejsce wykonywania działalności;
 - **5)** termin rozpoczęcia działalności;
 - **6)** okres ważności zezwolenia;
@@ -5227,7 +5533,7 @@ Art. 213–221. (pominięte)
 
 - **1)** zachowywać warunki prowadzenia działalności określone w decyzjach administracyjnych Prezesa Urzędu;
 - **2)** zgłaszać Prezesowi Urzędu zmiany danych zawartych w wydanych przez Prezesa Urzędu decyzjach administracyjnych dotyczących tego podmiotu;
-- **3)** przekazywać do wiadomości Prezesa Urzędu, w terminie 7 miesięcy od zakończenia roku obrotowego, sprawozdanie z działalności oraz roczne sprawozdanie finansowe za poprzedni rok obrotowy, wraz ze sprawozdaniem z badania, jeżeli obowiązek sporządzania i poddania sprawozdania badaniu wynika z przepisów o rachunkowości, a na żądanie Prezesa Urzędu – inne informacje i dokumenty istotne dla oceny działalności przedsiębiorstwa w latach następnych;
+- **3)** przekazywać do wiadomości Prezesa Urzędu, w terminie 7 miesięcy od zakończenia roku obrotowego, sprawozdanie z działalności oraz roczne sprawozdanie finansowe za poprzedni rok obrotowy, wraz ze sprawozdaniem z badania, jeżeli obowiązek sporządzania i poddania sprawozdania badaniu wynika z przepisów o rachunkowości, a na żądanie Prezesa Urzędu inne informacje i dokumenty istotne dla oceny działalności przedsiębiorstwa w latach następnych;
 - **4)** zapewniać użycie właściwego, specjalistycznego sprzętu oraz powierzać czynności w zakresie prowadzonej działalności osobom posiadającym odpowiednie kwalifikacje;
 - **5)** zawiadamiać Prezesa Urzędu o zamierzonym zawieszeniu lub zakończeniu działalności;
 - **6)** umożliwić osobom uprawnionym przeprowadzanie kontroli działalności jego przedsiębiorstwa;
@@ -5239,6 +5545,18 @@ Art. 213–221. (pominięte)
 
 **Art. 176.** Obsługa naziemna obejmuje następujące kategorie usług wykonywanych w porcie lotniczym na rzecz przewoźników lotniczych i innych użytkowników statków powietrznych, zwanych dalej „użytkownikami”:
 
+- **1)** obsługę w zakresie administracji naziemnej i nadzoru;
+- **2)** obsługę pasażerów;
+- **3)** obsługę bagażu;
+- **4)** obsługę towarów lub poczty;
+- **5)** obsługę płytową;
+- **6)** obsługę statków powietrznych;
+- **7)** obsługę w zakresie zaopatrzenia statków powietrznych w materiały napędowe;
+- **8)** obsługę w zakresie utrzymania statków powietrznych;
+- **9)** obsługę w zakresie operacji lotniczych i czynności administracyjnych związanych z załogą;
+- **10)** transport naziemny;
+- **11)** obsługę w zakresie zaopatrzenia pokładowego statków powietrznych w żywność i napoje (catering).
+
 **Art. 176a.** Prezes Urzędu wydaje zezwolenie na kategorie usług, o których mowa w art. 176, lub rodzaje usług w poszczególnych kategoriach, określonych w przepisach wydanych na podstawie art. 182.
 
 **Art. 176b.**
@@ -5247,13 +5565,13 @@ Art. 213–221. (pominięte)
 
 2. Ograniczenia w liczbie podmiotów świadczących usługi obsługi naziemnej na rzecz osób trzecich może wprowadzić:
 
-- **1)** w portach lotniczych, w których w roku poprzedzającym rok wprowadzenia ograniczenia roczna wielkość ruchu jest równa lub większa niż 2 000 000 pasażerów lub 50 000 ton towarów – Prezes Urzędu, na zasadach określonych w art. 179;
-- **2)** w pozostałych portach lotniczych, mając na celu optymalizację zarządzania portem lotniczym – zarządzający lotniskiem.
+- **1)** w portach lotniczych, w których w roku poprzedzającym rok wprowadzenia ograniczenia roczna wielkość ruchu jest równa lub większa niż 2 000 000 pasażerów lub 50 000 ton towarów Prezes Urzędu, na zasadach określonych w art. 179;
+- **2)** w pozostałych portach lotniczych, mając na celu optymalizację zarządzania portem lotniczym zarządzający lotniskiem.
 
 3. Ograniczenia w liczbie przewoźników lotniczych, wykonujących własną obsługę naziemną statków powietrznych, załóg, pasażerów, bagażu, towarów lub poczty może wprowadzić:
 
-- **1)** w portach lotniczych, w których w roku poprzedzającym rok wprowadzenia ograniczenia roczna wielkość ruchu jest równa lub większa niż 1 000 000 pasażerów lub 25 000 ton towarów – Prezes Urzędu, na zasadach określonych w art. 179;
-- **2)** w pozostałych portach lotniczych, mając na celu optymalizację zarządzania portem lotniczym – zarządzający lotniskiem.
+- **1)** w portach lotniczych, w których w roku poprzedzającym rok wprowadzenia ograniczenia roczna wielkość ruchu jest równa lub większa niż 1 000 000 pasażerów lub 25 000 ton towarów Prezes Urzędu, na zasadach określonych w art. 179;
+- **2)** w pozostałych portach lotniczych, mając na celu optymalizację zarządzania portem lotniczym zarządzający lotniskiem.
 
 4. Do usług obsługi naziemnej, o której mowa w ust. 1, stosuje się przepisy ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2024 r. poz. 1616 oraz z 2025 r. poz. 794), z zastrzeżeniem przepisów niniejszej ustawy oraz przepisów międzynarodowych.
 
@@ -5268,9 +5586,9 @@ Art. 213–221. (pominięte)
 2. Zezwolenie na wykonywanie obsługi naziemnej może uzyskać:
 
 - **1)** zarządzający lotniskiem, łącznie z zezwoleniem na zarządzanie lotniskiem lub oddzielnie;
-- **2)** przewoźnik lotniczy posiadający koncesję udzieloną przez właściwy organ wydający koncesje państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym;
-- **2a)** przewoźnik lotniczy państwa trzeciego – jeżeli wynika to z umowy międzynarodowej;
-- **3)** przedsiębiorca, który posiada miejsce stałego pobytu lub siedzibę w państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym.
+- **2)** przewoźnik lotniczy posiadający koncesję udzieloną przez właściwy organ wydający koncesje państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym;
+- **2a)** przewoźnik lotniczy państwa trzeciego jeżeli wynika to z umowy międzynarodowej;
+- **3)** przedsiębiorca, który posiada miejsce stałego pobytu lub siedzibę w państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym.
 
 3. Zezwolenia udziela się przedsiębiorcy, o którym mowa w ust. 2, jeżeli spełnia wymagania dotyczące zdolności finansowej przedsiębiorstwa, bezpieczeństwa urządzeń i osób, ochrony lotnictwa, ochrony środowiska naturalnego oraz ubezpieczenia odpowiedzialności cywilnej. Sprawdzenie spełnienia tych wymagań może być dokonane w procesie certyfikacji, o której mowa w art. 160.
 
@@ -5286,7 +5604,7 @@ Art. 213–221. (pominięte)
 
 3. Sprawdzenie realizacji obowiązków, o których mowa w ust. 1 pkt 1 i w ust. 2, poddawane jest kontroli przez biegłego rewidenta, zatwierdzonego w drodze decyzji administracyjnej przez Prezesa Urzędu na wniosek podmiotu kontrolowanego.
 
-4. Sprawę zatwierdzenia biegłego rewidenta, o której mowa w ust. 3, uznaje się za załatwioną milcząco w sposób w całości uwzględniający żądanie podmiotu kontrolowanego występującego z wnioskiem, jeżeli w terminie 14 dni od daty doręczenia wniosku Prezes Urzędu nie wyda decyzji albo postanowienia, o których mowa w art. 122a § 2 pkt 1 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+4. Sprawę zatwierdzenia biegłego rewidenta, o której mowa w ust. 3, uznaje się za załatwioną milcząco w sposób w całości uwzględniający żądanie podmiotu kontrolowanego występującego z wnioskiem, jeżeli w terminie 14 dni od daty doręczenia wniosku Prezes Urzędu nie wyda decyzji albo postanowienia, o których mowa w art. 122a § 2 pkt 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
 
 **Art. 179.**
 
@@ -5310,7 +5628,7 @@ Art. 213–221. (pominięte)
 8. W przypadku ograniczenia, o którym mowa w ust. 1, wybór podmiotów wykonujących obsługę naziemną jest dokonywany w drodze konkursu organizowanego przez:
 
 - **1)** zarządzającego portem lotniczym, jeżeli podobnej usługi nie świadczy on sam oraz jeżeli nie ma bezpośredniej lub pośredniej kontroli nad podmiotem wykonującym takie usługi oraz nie posiada udziałów w żadnym takim podmiocie;
-- **2)** Prezesa Urzędu po konsultacji z zarządzającym portem lotniczym i komitetem przewoźników lotniczych użytkujących port lotniczy – w przypadkach innych niż określone w pkt 1.
+- **2)** Prezesa Urzędu po konsultacji z zarządzającym portem lotniczym i komitetem przewoźników lotniczych użytkujących port lotniczy w przypadkach innych niż określone w pkt 1.
 
 9. Organizujący konkurs w sprawie wyboru podmiotów wykonujących obsługę naziemną, przeprowadzając go ma obowiązek uwzględnić warunki określone w art. 180 ust. 4 pkt 1 i 2.
 
@@ -5360,6 +5678,12 @@ Art. 213–221. (pominięte)
 
 **Art. 182.** Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
 
+- **1)** szczegółowy wykaz rodzajów usług w poszczególnych kategoriach, o których mowa w art. 176,
+- **2)** szczegółowe warunki i tryb udzielania zezwoleń na wykonywanie obsługi naziemnej oraz dokumenty i informacje, jakie powinni przedstawić ubiegający się o zezwolenia, oraz warunki, jakie musi spełniać podmiot ubiegający się o zezwolenie,
+- **3)** szczegółowe warunki stosowane przy wprowadzaniu ograniczeń, o których mowa w art. 179 ust. 1,
+- **4)** szczegółowe warunki i sposób organizowania i przeprowadzania konkursu, o którym mowa w art. 179 ust. 8 w przypadku wprowadzenia ograniczeń,
+- **5)** szczegółowe warunki udostępniania i korzystania z infrastruktury lotniska oraz ustalania i pobierania opłat za dostęp do urządzeń i powierzchni lotniska oraz opłat za użytkowanie scentralizowanej infrastruktury mając na uwadze liczbę obsługiwanych w ciągu roku w danym porcie lotniczym pasażerów i ładunków, z uwzględnieniem umów i przepisów międzynarodowych.
+
 #### Rozdział 3 Przepisy szczególne
 
 **Art. 183.**
@@ -5373,9 +5697,9 @@ Art. 213–221. (pominięte)
 - **1)** dofinansowania zarządzającego lotniskiem przez wnioskującą jednostkę samorządu terytorialnego;
 - **2)** łącznych kosztów eksploatacji lotniska, bez amortyzacji.
 
-**Art. 184.** W sprawach lotniczej działalności gospodarczej nieuregulowanych w ustawie stosuje się przepisy ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
+**Art. 184.** W sprawach lotniczej działalności gospodarczej nieuregulowanych w ustawie stosuje się przepisy ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
 
-**Art. 185.** W sprawach lotniczej działalności gospodarczej nie mają zastosowania przepisy art. 494, art. 531 i art. 553 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96) ani przepisy ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz. 170).
+**Art. 185.** W sprawach lotniczej działalności gospodarczej nie mają zastosowania przepisy art. 494, art. 531 i art. 553 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96) ani przepisy ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz. 170).
 
 ### DZIAŁ IX Ochrona lotnictwa cywilnego
 
@@ -5391,7 +5715,7 @@ Art. 213–221. (pominięte)
 - **2)** posiłku na pokładzie statku powietrznego;
 - **3)** noclegu, o ile jest niezbędny, w wysokości ustalonej zgodnie z przepisami w sprawie wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce budżetowej z tytułu podróży służbowej poza granicami kraju wydanymi na podstawie art. 77 § 2 Kodeksu pracy.
 
-3. Należności, o których mowa w ust. 2 pkt 1 i 2, funkcjonariusze Straży Granicznej otrzymują od przewoźnika lotniczego w naturze na warunkach przewidzianych dla pasażerów danego lotu, a w przypadku lotów bez pasażerów – na warunkach przewidzianych dla załogi statku powietrznego.
+3. Należności, o których mowa w ust. 2 pkt 1 i 2, funkcjonariusze Straży Granicznej otrzymują od przewoźnika lotniczego w naturze na warunkach przewidzianych dla pasażerów danego lotu, a w przypadku lotów bez pasażerów na warunkach przewidzianych dla załogi statku powietrznego.
 
 4. Rada Ministrów określi, w drodze rozporządzenia, przypadki w jakich jest niezbędne zapewnienie funkcjonariuszom Straży Granicznej noclegu oraz sposób, tryb i terminy zwrotu przez przewoźnika lotniczego kosztów noclegu, o ile go nie zapewnił, uwzględniając konieczność:
 
@@ -5478,7 +5802,7 @@ Art. 213–221. (pominięte)
 
 17. Czynności nadzoru, o których mowa w ust. 3, mogą wykonywać osoby posiadające certyfikat operatora kontroli bezpieczeństwa, wpisane na listę, o której mowa w ust. 10.
 
-18. Prezes Urzędu może uznać certyfikat operatora kontroli bezpieczeństwa wydany w innym państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym lub przez Organizację Międzynarodowego Lotnictwa Cywilnego lub inną międzynarodową organizację lotniczą za ważny na równi z polskim certyfikatem operatora kontroli bezpieczeństwa, chyba że wymagania stawiane przy jego wydaniu były łagodniejsze od stawianych w Rzeczypospolitej Polskiej, po uprzednim przeprowadzeniu przez Prezesa Urzędu rozszerzonego sprawdzenia przeszłości z wynikiem pozytywnym.
+18. Prezes Urzędu może uznać certyfikat operatora kontroli bezpieczeństwa wydany w innym państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym lub przez Organizację Międzynarodowego Lotnictwa Cywilnego lub inną międzynarodową organizację lotniczą za ważny na równi z polskim certyfikatem operatora kontroli bezpieczeństwa, chyba że wymagania stawiane przy jego wydaniu były łagodniejsze od stawianych w Rzeczypospolitej Polskiej, po uprzednim przeprowadzeniu przez Prezesa Urzędu rozszerzonego sprawdzenia przeszłości z wynikiem pozytywnym.
 
 19. (uchylony)
 
@@ -5490,9 +5814,9 @@ Art. 213–221. (pominięte)
 
 1. Prezes Urzędu wyznacza zarejestrowanego agenta, o którym mowa w art. 186b ust. 1 pkt 2, w drodze decyzji administracyjnej, po sprawdzeniu spełnienia wymagań w zakresie ochrony lotnictwa cywilnego oraz po uzyskaniu informacji o braku negatywnych przesłanek dla ochrony lotnictwa cywilnego, zwanych dalej „negatywnymi przesłankami”, dotyczących osób:
 
-- **1)** reprezentujących sprawy spółek – w przypadku spółek osobowych;
-- **2)** wchodzących w skład zarządów i rad nadzorczych – w przypadku spółek kapitałowych;
-- **3)** reprezentujących sprawy zarejestrowanego agenta – w przypadku podmiotów innych niż określone w pkt 1 i 2.
+- **1)** reprezentujących sprawy spółek w przypadku spółek osobowych;
+- **2)** wchodzących w skład zarządów i rad nadzorczych w przypadku spółek kapitałowych;
+- **3)** reprezentujących sprawy zarejestrowanego agenta w przypadku podmiotów innych niż określone w pkt 1 i 2.
 
 1a. Decyzja, o której mowa w ust. 1, jest ostateczna.
 
@@ -5510,9 +5834,9 @@ Art. 213–221. (pominięte)
 
 1. Prezes Urzędu wyznacza zarejestrowanego dostawcę zaopatrzenia pokładowego, o którym mowa w art. 186b ust. 1 pkt 3, w drodze decyzji administracyjnej, po sprawdzeniu spełnienia wymagań w zakresie ochrony lotnictwa cywilnego oraz po uzyskaniu informacji o braku negatywnych przesłanek dotyczących osób:
 
-- **1)** reprezentujących sprawy spółek – w przypadku spółek osobowych;
-- **2)** wchodzących w skład zarządów i rad nadzorczych – w przypadku spółek kapitałowych;
-- **3)** reprezentujących sprawy zarejestrowanego dostawcy zaopatrzenia pokładowego – w przypadku podmiotów innych niż określone w pkt 1 i 2.
+- **1)** reprezentujących sprawy spółek w przypadku spółek osobowych;
+- **2)** wchodzących w skład zarządów i rad nadzorczych w przypadku spółek kapitałowych;
+- **3)** reprezentujących sprawy zarejestrowanego dostawcy zaopatrzenia pokładowego w przypadku podmiotów innych niż określone w pkt 1 i 2.
 
 1a. Decyzja, o której mowa w ust. 1, jest ostateczna.
 
@@ -5530,9 +5854,9 @@ Art. 213–221. (pominięte)
 
 1. Prezes Urzędu wyznacza znanego nadawcę na podstawie pkt 6.4.1 załącznika do rozporządzenia nr 2015/1998/UE, w drodze decyzji administracyjnej, po sprawdzeniu spełnienia wymagań w zakresie ochrony lotnictwa cywilnego oraz po uzyskaniu informacji o braku negatywnych przesłanek dotyczących osób:
 
-- **1)** reprezentujących sprawy spółek – w przypadku spółek osobowych;
-- **2)** wchodzących w skład zarządów i rad nadzorczych – w przypadku spółek kapitałowych;
-- **3)** reprezentujących sprawy znanego nadawcy – w przypadku podmiotów innych niż określone w pkt 1 i 2.
+- **1)** reprezentujących sprawy spółek w przypadku spółek osobowych;
+- **2)** wchodzących w skład zarządów i rad nadzorczych w przypadku spółek kapitałowych;
+- **3)** reprezentujących sprawy znanego nadawcy w przypadku podmiotów innych niż określone w pkt 1 i 2.
 
 1a. Decyzja, o której mowa w ust. 1, jest ostateczna.
 
@@ -5575,6 +5899,15 @@ Art. 213–221. (pominięte)
 
 **Art. 187.** Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw wewnętrznych ustala, w drodze rozporządzenia, po zasięgnięciu opinii Rady Ochrony i Ułatwień Lotnictwa Cywilnego, Krajowy Program Ochrony Lotnictwa Cywilnego, określający sposoby realizacji ochrony lotnictwa cywilnego, w tym dotyczące:
 
+- **1)** organizacji ochrony, działań zapobiegawczych i działań w przypadkach aktów bezprawnej ingerencji,
+- **2)** współpracy w tym zakresie organów administracji publicznej i służb odpowiedzialnych za bezpieczeństwo publiczne, zarządzających lotniskami, przewoźników lotniczych, innych podmiotów prowadzących działalność lotniczą oraz innych organów i służb publicznych, 2a) dokumentowania stwierdzonych przez Straż Graniczną poważnych uchybień i naruszeń przepisów oraz informowania o nich Prezesa Urzędu,
+- **3)** wykonywania zadań związanych z kontrolą bezpieczeństwa w lotnictwie cywilnym osób, bagażu, ładunków oraz przesyłek pocztowych, prowadzoną przez podmioty, o których mowa w art. 186b ust. 1,
+- **4)** współdziałania, o którym mowa w art. 186b ust. 2, 3 i 6,
+- **5)** wymogów, jakie muszą być spełnione przy wykorzystaniu psów podczas kontroli bezpieczeństwa,
+- **6)** sposobów przekazywania, gromadzenia i postępowania z informacjami, o których mowa w art. 186g ust. 1 i 2,
+- **7)** sposobu analizy ryzyka w przypadku odstąpienia od wspólnych podstawowych norm ochrony lotnictwa cywilnego i przyjęcia alternatywnych środków w zakresie ochrony,
+- **8)** wymogów w zakresie wyznaczania unijnych podmiotów zatwierdzających do spraw ochrony lotnictwa cywilnego z uwzględnieniem przepisów międzynarodowych oraz przepisów Unii Europejskiej dotyczących zasad ochrony lotnictwa cywilnego.
+
 **Art. 187a.**
 
 1. Lotniska, o których mowa w art. 59a ust. 1 pkt 1 i 2, posiadają ogrodzenie, które spełnia wymagania określone w przepisach wydanych na podstawie ust. 2.
@@ -5601,7 +5934,7 @@ Art. 213–221. (pominięte)
 
 1e. Decyzji, o której mowa w ust. 1c, może być nadany rygor natychmiastowej wykonalności.
 
-2. Koszty związane z realizacją zadań ochrony lotnictwa cywilnego ponoszone przez zarządzających lotniskami mogą być wliczone do opłat lotniskowych, a ponoszone przez organy zarządzania ruchem lotniczym – do opłat pobieranych przez te organy.
+2. Koszty związane z realizacją zadań ochrony lotnictwa cywilnego ponoszone przez zarządzających lotniskami mogą być wliczone do opłat lotniskowych, a ponoszone przez organy zarządzania ruchem lotniczym do opłat pobieranych przez te organy.
 
 3. Instytucja zapewniająca służby ruchu lotniczego jest obowiązana zapewnić ochronę lotniczych urządzeń naziemnych zgodnie z jej programem ochrony.
 
@@ -5726,7 +6059,7 @@ Art. 213–221. (pominięte)
 - **6)** warunki, sposób i tryb weryfikacji spełniania wymagań przez osoby kierowane na szkolenia związane z prowadzeniem kontroli bezpieczeństwa lub kontroli dostępu,
 - **7)** warunki wydania certyfikatu operatora kontroli bezpieczeństwa,
 - **8)** zakres danych ujętych na liście, o której mowa w art. 186b ust. 10, i sposób jego prowadzenia,
-- **9)** sposób sprawowania nadzoru przez Prezesa Urzędu nad realizacją szkoleń w zakresie ochrony lotnictwa cywilnego – mając na uwadze przepisy Unii Europejskiej w sprawie wspólnych zasad w dziedzinie ochrony lotnictwa cywilnego.
+- **9)** sposób sprawowania nadzoru przez Prezesa Urzędu nad realizacją szkoleń w zakresie ochrony lotnictwa cywilnego mając na uwadze przepisy Unii Europejskiej w sprawie wspólnych zasad w dziedzinie ochrony lotnictwa cywilnego.
 
 **Art. 189a.**
 
@@ -5741,7 +6074,7 @@ Art. 213–221. (pominięte)
 - **2)** wzór wniosku o wydanie CMC,
 - **3)** okres ważności oraz wzór CMC,
 - **4)** szczegółowy sposób postępowania przy wydawaniu CMC,
-- **5)** szczegółowy sposób postępowania przy utracie CMC lub utracie ważności posiadanego CMC – z uwzględnieniem przepisów Załącznika 9 do Konwencji, o której mowa w art. 3 ust. 2, oraz przepisów międzynarodowych.
+- **5)** szczegółowy sposób postępowania przy utracie CMC lub utracie ważności posiadanego CMC z uwzględnieniem przepisów Załącznika 9 do Konwencji, o której mowa w art. 3 ust. 2, oraz przepisów międzynarodowych.
 
 **Art. 189b.**
 
@@ -5753,21 +6086,21 @@ Art. 213–221. (pominięte)
 
 2. Standardowe sprawdzenie przeszłości przeprowadza się wobec osób:
 
-- **1)** prowadzących kontrolę bezpieczeństwa, kontrolę dostępu lub stosujących inne środki kontroli w zakresie ochrony – innych niż wymienione w art. 189c ust. 2 pkt 1 i 2,
+- **1)** prowadzących kontrolę bezpieczeństwa, kontrolę dostępu lub stosujących inne środki kontroli w zakresie ochrony innych niż wymienione w art. 189c ust. 2 pkt 1 i 2,
 - **2)** bezpośrednio nadzorujących osoby stosujące środki kontroli w zakresie ochrony, o których mowa w pkt 1,
 - **3)** mających dostęp bez eskorty do ładunku i poczty, poczty i materiałów przewoźnika lotniczego, zaopatrzenia pokładowego lub zaopatrzenia portu lotniczego, do których zastosowano wymagane środki kontroli w zakresie ochrony,
-- **4)** odpowiedzialnych za zapewnienie zgodności programu ochrony z przepisami prawa i jego wdrożenie w podmiocie prowadzącym działalność lotniczą (kierownicy do spraw ochrony) – innych niż wymienione w art. 189c ust. 2 pkt 5,
+- **4)** odpowiedzialnych za zapewnienie zgodności programu ochrony z przepisami prawa i jego wdrożenie w podmiocie prowadzącym działalność lotniczą (kierownicy do spraw ochrony) innych niż wymienione w art. 189c ust. 2 pkt 5,
 - **5)** biorących udział w przewozie ładunku i poczty, poczty i materiałów przewoźnika lotniczego, zaopatrzenia pokładowego lub zaopatrzenia portu lotniczego, do których zastosowano wymagane środki kontroli w zakresie ochrony,
 - **6)** zatrudnionych w strefie operacyjnej lotniska, zatrudnionych w punktach handlowych lub usługowych zlokalizowanych w strefie ogólnodostępnej lotniska albo wykonujących w tych strefach obowiązki związane z funkcjonowaniem lotniska,
-- **7)** mających uprawnienia administratora lub nieograniczony dostęp bez nadzoru do krytycznych systemów technologii informacyjno-komunikacyjnych i danych wykorzystywanych do celów ochrony lotnictwa cywilnego – z wyłączeniem osób podlegających rozszerzonemu sprawdzeniu przeszłości.
+- **7)** mających uprawnienia administratora lub nieograniczony dostęp bez nadzoru do krytycznych systemów technologii informacyjno-komunikacyjnych i danych wykorzystywanych do celów ochrony lotnictwa cywilnego z wyłączeniem osób podlegających rozszerzonemu sprawdzeniu przeszłości.
 
 3. Standardowe sprawdzenie przeszłości przeprowadza:
 
-- **1)** podmiot, na rzecz którego wykonywane są środki kontroli w zakresie ochrony – wobec osób wymienionych w ust. 2 pkt 1 i 2;
-- **2)** podmiot odpowiedzialny za zabezpieczenie ładunku i poczty, poczty i materiałów przewoźnika lotniczego, zaopatrzenia pokładowego i zaopatrzenia portu lotniczego – wobec osób wymienionych w ust. 2 pkt 3 i 5;
-- **3)** podmiot odpowiedzialny za wyznaczenie kierownika do spraw ochrony – wobec osób wymienionych w ust. 2 pkt 4;
-- **4)** zarządzający lotniskiem – wobec osób wymienionych w ust. 2 pkt 6;
-- **5)** podmiot korzystający z krytycznych systemów technologii informacyjno-komunikacyjnych – wobec osób wymienionych w ust. 2 pkt 7.
+- **1)** podmiot, na rzecz którego wykonywane są środki kontroli w zakresie ochrony wobec osób wymienionych w ust. 2 pkt 1 i 2;
+- **2)** podmiot odpowiedzialny za zabezpieczenie ładunku i poczty, poczty i materiałów przewoźnika lotniczego, zaopatrzenia pokładowego i zaopatrzenia portu lotniczego wobec osób wymienionych w ust. 2 pkt 3 i 5;
+- **3)** podmiot odpowiedzialny za wyznaczenie kierownika do spraw ochrony wobec osób wymienionych w ust. 2 pkt 4;
+- **4)** zarządzający lotniskiem wobec osób wymienionych w ust. 2 pkt 6;
+- **5)** podmiot korzystający z krytycznych systemów technologii informacyjno-komunikacyjnych wobec osób wymienionych w ust. 2 pkt 7.
 
 4. Standardowe sprawdzenie przeszłości przeprowadza się co najmniej raz na 3 lata.
 
@@ -5812,22 +6145,22 @@ Art. 213–221. (pominięte)
 
 3. Rozszerzone sprawdzenie przeszłości przeprowadza:
 
-- **1)** zarządzający lotniskiem – wobec osób:
+- **1)** zarządzający lotniskiem wobec osób:
     - **a)** o których mowa w ust. 2 pkt 1 i pkt 5 lit. a oraz pkt 10 lit. a,
     - **b)** bezpośrednio nadzorujących osoby stosujące środki kontroli w zakresie ochrony, o których mowa w ust. 2 pkt 1,
     - **c)** o których mowa w ust. 2 pkt 9, które są rekrutowane do pracy lub zatrudnione w służbie ochrony lotniska;
 
-- **2)** przewoźnik lotniczy – wobec osób, o których mowa w ust. 2 pkt 3, pkt 5 lit. b i pkt 10 lit. b;
-- **3)** Polska Agencja Żeglugi Powietrznej – wobec osób, o których mowa w ust. 2 pkt 5 lit. d, pkt 10 lit. d i pkt 11;
-- **4)** Prezes Urzędu – wobec osób, o których mowa w ust. 2 pkt 6–8;
-- **5)** podmiot kierujący na szkolenie – wobec osób, o których mowa w ust. 2 pkt 9, innych niż rekrutowane do pracy lub zatrudnione w służbie ochrony lotniska;
-- **6)** podmiot, na rzecz którego są wykonywane środki kontroli w zakresie ochrony – wobec osób:
+- **2)** przewoźnik lotniczy wobec osób, o których mowa w ust. 2 pkt 3, pkt 5 lit. b i pkt 10 lit. b;
+- **3)** Polska Agencja Żeglugi Powietrznej wobec osób, o których mowa w ust. 2 pkt 5 lit. d, pkt 10 lit. d i pkt 11;
+- **4)** Prezes Urzędu wobec osób, o których mowa w ust. 2 pkt 6–8;
+- **5)** podmiot kierujący na szkolenie wobec osób, o których mowa w ust. 2 pkt 9, innych niż rekrutowane do pracy lub zatrudnione w służbie ochrony lotniska;
+- **6)** podmiot, na rzecz którego są wykonywane środki kontroli w zakresie ochrony wobec osób:
     - **a)** o których mowa w ust. 2 pkt 2,
     - **b)** bezpośrednio nadzorujących osoby, o których mowa w ust. 2 pkt 2,
     - **c)** o których mowa w ust. 2 pkt 5 lit. c,
     - **d)** o których mowa w ust. 2 pkt 10 lit. c i e;
 
-- **7)** zarządzający lotniskiem innym niż port lotniczy – wobec osób, o których mowa w ust. 2 pkt 5 lit. e.
+- **7)** zarządzający lotniskiem innym niż port lotniczy wobec osób, o których mowa w ust. 2 pkt 5 lit. e.
 
 4. Rozszerzone sprawdzenie przeszłości przeprowadza się raz na 12 miesięcy, z wyjątkiem informacji o istnieniu negatywnych przesłanek albo o ich braku, udzielanych w trybie i na zasadach określonych w art. 189d–189g.
 
@@ -5838,13 +6171,13 @@ Art. 213–221. (pominięte)
 1. W ramach rozszerzonego sprawdzenia przeszłości:
 
 - **1)** podmiot przeprowadzający rozszerzone sprawdzenie przeszłości, o którym mowa w art. 189c ust. 3 pkt 1–4,
-- **2)** Prezes Urzędu, na wniosek podmiotu przeprowadzającego rozszerzone sprawdzenie przeszłości, o którym mowa w art. 189c ust. 3 pkt 5–7 – zwani dalej „podmiotami sprawdzającymi”, składają do komendanta oddziału Straży Granicznej właściwego miejscowo ze względu na siedzibę podmiotu sprawdzającego wniosek o udzielenie informacji o istnieniu negatywnych przesłanek albo o ich braku, zwany dalej „wnioskiem o sprawdzenie”.
+- **2)** Prezes Urzędu, na wniosek podmiotu przeprowadzającego rozszerzone sprawdzenie przeszłości, o którym mowa w art. 189c ust. 3 pkt 5–7 zwani dalej „podmiotami sprawdzającymi”, składają do komendanta oddziału Straży Granicznej właściwego miejscowo ze względu na siedzibę podmiotu sprawdzającego wniosek o udzielenie informacji o istnieniu negatywnych przesłanek albo o ich braku, zwany dalej „wnioskiem o sprawdzenie”.
 
 2. Wniosek o sprawdzenie oraz wniosek, o którym mowa w ust. 1 pkt 2, zawierają:
 
 - **1)** datę złożenia;
 - **2)** nazwę podmiotu sprawdzającego;
-- **3)** nazwę oddziału Straży Granicznej, do którego jest składany wniosek – w przypadku wniosku o sprawdzenie;
+- **3)** nazwę oddziału Straży Granicznej, do którego jest składany wniosek w przypadku wniosku o sprawdzenie;
 - **4)** podstawę prawną;
 - **5)** informacje dotyczące osoby podlegającej sprawdzeniu obejmujące:
     - **a)** imię i nazwisko,
@@ -5860,7 +6193,7 @@ Art. 213–221. (pominięte)
 
 3. W przypadku przeprowadzania rozszerzonego sprawdzenia przeszłości żołnierzy, funkcjonariuszy i pracowników służb państwowych, służb granicznych i policyjnych państw członkowskich Unii Europejskiej, wykonujących lub mających wykonywać zadania w ramach strefy zastrzeżonej lotniska albo zadania związane z ochroną ruchu lotniczego, wobec których przełożony potwierdził brak negatywnych przesłanek, nie występuje się z wnioskiem o sprawdzenie.
 
-4. Podmiot sprawdzający składa wniosek o sprawdzenie w formie pisemnej w postaci elektronicznej za pośrednictwem aplikacji dostępowej „Weryfikacja negatywnych przesłanek – Straż Graniczna”, zwanej dalej „aplikacją WNP-SG”.
+4. Podmiot sprawdzający składa wniosek o sprawdzenie w formie pisemnej w postaci elektronicznej za pośrednictwem aplikacji dostępowej „Weryfikacja negatywnych przesłanek Straż Graniczna”, zwanej dalej „aplikacją WNP-SG”.
 
 5. Podmiot sprawdzający może, w formie pisemnej, upoważnić pracownika tego podmiotu do składania w jego imieniu wniosku o sprawdzenie. W przypadku udzielenia upoważnienia podmiot sprawdzający informuje o tym, w formie pisemnej, komendanta oddziału Straży Granicznej właściwego miejscowo ze względu na siedzibę podmiotu sprawdzającego.
 
@@ -5891,8 +6224,7 @@ Art. 213–221. (pominięte)
 1. Komendant oddziału Straży Granicznej stwierdza istnienie negatywnych przesłanek w przypadku wystąpienia zagrożenia dla obronności lub bezpieczeństwa państwa i porządku publicznego albo powzięcia wiadomości o aktualnie prowadzonym postępowaniu karnym przeciwko osobie lub o skazaniu jej prawomocnym wyrokiem w związku z:
 
 - **1)** przestępstwem o charakterze terrorystycznym, przestępstwem przeciwko pokojowi, ludzkości oraz przestępstwem wojennym, przestępstwem przeciwko Rzeczypospolitej Polskiej, przestępstwem przeciwko obronności, przestępstwem przeciwko życiu i zdrowiu, przestępstwem przeciwko bezpieczeństwu powszechnemu, przestępstwem przeciwko bezpieczeństwu w komunikacji, przestępstwem przeciwko środowisku, przestępstwem przeciwko wolności, przestępstwem przeciwko wolności seksualnej i obyczajności, przestępstwem przeciwko rodzinie i opiece, przestępstwem przeciwko działalności instytucji państwowych oraz samorządu terytorialnego, przestępstwem przeciwko wymiarowi sprawiedliwości, przestępstwem przeciwko porządkowi publicznemu, przestępstwem przeciwko ochronie informacji, przestępstwem przeciwko wiarygodności dokumentów, przestępstwem przeciwko mieniu, przestępstwem przeciwko obrotowi gospodarczemu i interesom majątkowym w obrocie cywilnoprawnym, przestępstwem przeciwko obrotowi pieniędzmi i papierami wartościowymi, przestępstwem przeciwko zasadom dyscypliny wojskowej, przestępstwem przeciwko mieniu wojskowemu, przestępstwem skarbowym przeciwko obowiązkom celnym oraz zasadom obrotu z zagranicą towarami i usługami lub przestępstwem skarbowym przeciwko obowiązkom podatkowym i rozliczeniom z tytułu dotacji lub subwencji lub
-- **2)** przestępstwem określonym w ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646, z późn. zm. ), ustawie z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2023 r. poz. 1170), ustawie z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2023 r. poz.
-- **1582)** , ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2025 r. poz. 750, 905 i 924), ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907 oraz z 2025 r. poz. 1168), ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody, ustawie z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2023 r. poz. 1185), ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2023 r. poz. 1939), ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722, z późn. zm. ) lub ustawie z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2023 r. poz. 1743) – jeżeli przestępstwo to zostało popełnione umyślnie i górna granica ustawowego zagrożenia karą pozbawienia wolności za to przestępstwo wynosi co najmniej 3 lata.
+- **2)** przestępstwem określonym w ustawie z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2024 r. poz. 1646, z późn. zm. ), ustawie z dnia 30 czerwca 2000 r. Prawo własności przemysłowej (Dz. U. z 2023 r. poz. 1170), ustawie z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2023 r. poz. 1582), ustawie z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2025 r. poz. 750, 905 i 924), ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907 oraz z 2025 r. poz. 1168), ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody, ustawie z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2023 r. poz. 1185), ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2023 r. poz. 1939), ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722, z późn. zm. ) lub ustawie z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2023 r. poz. 1743) jeżeli przestępstwo to zostało popełnione umyślnie i górna granica ustawowego zagrożenia karą pozbawienia wolności za to przestępstwo wynosi co najmniej 3 lata.
 
 2. Komendant oddziału Straży Granicznej dokonuje ustaleń i udziela, w formie pisemnej, podmiotowi sprawdzającemu informacji o istnieniu negatywnych przesłanek albo o ich braku w terminie 30 dni od dnia otrzymania wniosku o sprawdzenie.
 
@@ -5916,7 +6248,7 @@ Art. 213–221. (pominięte)
 
 - **1)** na czas realizacji przez sprawdzaną osobę zadań, w związku z którymi było wymagane uzyskanie informacji o braku negatywnych przesłanek, jednak nie dłużej niż przez 5 lat od dnia udzielenia tej informacji przez komendanta oddziału Straży Granicznej;
 - **2)** do czasu uzyskania od komendanta oddziału Straży Granicznej informacji o istnieniu negatywnych przesłanek;
-- **3)** do czasu zakończenia procesu certyfikacji – w przypadku informacji dotyczącej osób kierowanych na szkolenie w celu uzyskania certyfikatu operatora kontroli bezpieczeństwa.
+- **3)** do czasu zakończenia procesu certyfikacji w przypadku informacji dotyczącej osób kierowanych na szkolenie w celu uzyskania certyfikatu operatora kontroli bezpieczeństwa.
 
 12. W przypadku gdy osoba podlegająca sprawdzeniu przeszłości nieprzerwanie realizuje zadania, w związku z którymi było wymagane uzyskanie informacji o braku negatywnych przesłanek, podmiot sprawdzający występuje z kolejnym wnioskiem o sprawdzenie nie wcześniej niż na 4 miesiące przed upływem ważności informacji, o którym mowa w ust. 11 pkt 1.
 
@@ -5936,7 +6268,7 @@ Art. 213–221. (pominięte)
 
 5. W przypadku gdy zawarte we wniosku o sprawdzenie dane osobowe osoby, której dotyczył wniosek o sprawdzenie, uległy zmianie, podmiot sprawdzający przekazuje komendantowi oddziału Straży Granicznej właściwemu miejscowo ze względu na siedzibę podmiotu sprawdzającego, w formie pisemnej w postaci papierowej, informację o aktualnych danych tej osoby w terminie 10 dni roboczych od dnia uzyskania informacji o zmianie. W przypadku gdy zmiana danych osobowych dotyczy osoby, wobec której rozszerzone sprawdzenie przeszłości przeprowadza podmiot, o którym mowa w art. 189c ust. 3 pkt 5 albo 6, przekazuje on Prezesowi Urzędu informację o aktualnych danych osobowych osoby, której dotyczył wniosek o sprawdzenie, w terminie 10 dni roboczych od dnia uzyskania informacji o zmianie.
 
-6. Podmiot sprawdzający przekazuje komendantowi oddziału Straży Granicznej właściwemu miejscowo ze względu na siedzibę podmiotu sprawdzającego kwartalną informację, zawierającą imię i nazwisko oraz numer wniosku o sprawdzenie, na temat osób objętych wnioskiem o sprawdzenie, które zakończyły zatrudnienie, realizację zadań lub utraciły uprawnienia, wobec których jest lub było wymagane przeprowadzenie rozszerzonego sprawdzenia przeszłości, albo informację o braku takich osób – w terminie do 20. dnia miesiąca następującego po upływie kwartału, którego dotyczy informacja.
+6. Podmiot sprawdzający przekazuje komendantowi oddziału Straży Granicznej właściwemu miejscowo ze względu na siedzibę podmiotu sprawdzającego kwartalną informację, zawierającą imię i nazwisko oraz numer wniosku o sprawdzenie, na temat osób objętych wnioskiem o sprawdzenie, które zakończyły zatrudnienie, realizację zadań lub utraciły uprawnienia, wobec których jest lub było wymagane przeprowadzenie rozszerzonego sprawdzenia przeszłości, albo informację o braku takich osób w terminie do 20. dnia miesiąca następującego po upływie kwartału, którego dotyczy informacja.
 
 7. W przypadku niewykonania przez podmiot sprawdzający obowiązku, o którym mowa w ust. 6, Komendant Główny Straży Granicznej może, na wniosek komendanta oddziału Straży Granicznej, do czasu wykonania tego obowiązku, zablokować możliwość składania wniosków o sprawdzenie przez ten podmiot lub wstrzymać udzielanie informacji wobec wniosków o sprawdzenie złożonych przez ten podmiot.
 
@@ -5981,17 +6313,17 @@ Art. 213–221. (pominięte)
 
 **Art. 190b.** Uprawnienia do wykonywania przewozu lotniczego, zwane dalej „prawami przewozowymi”, przyznane przez Prezesa Urzędu w upoważnieniu, o którym mowa w art. 191 ust. 2 i 5, lub zezwoleniu, o którym mowa w art. 193 ust. 1 i 2, są niezbywalne.
 
-**Art. 190c.** W sprawach objętych zezwoleniami na przewóz lotniczy, o których mowa w art. 194 ust. 1 pkt 1 i 2, nie stosuje się art. 32 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
+**Art. 190c.** W sprawach objętych zezwoleniami na przewóz lotniczy, o których mowa w art. 194 ust. 1 pkt 1 i 2, nie stosuje się art. 32 ust. 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
 
 **Art. 191.**
 
 1. Polski przewoźnik lotniczy może wykonywać przewozy lotnicze w zakresie i na warunkach określonych w certyfikacie przewoźnika lotniczego i koncesji, z zastrzeżeniem art. 192b.
 
-2. Przewoźnik lotniczy posiadający koncesję udzieloną przez państwo członkowskie Unii Europejskiej, Konfederację Szwajcarską lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym może wykonywać regularne przewozy lotnicze na określonych trasach lub obszarach między Rzecząpospolitą Polską a państwem trzecim, z zastrzeżeniem umów międzynarodowych i przepisów międzynarodowych oraz art. 192a, w zakresie i na warunkach określonych w certyfikacie przewoźnika lotniczego i koncesji, po uzyskaniu upoważnienia wydanego przez Prezesa Urzędu.
+2. Przewoźnik lotniczy posiadający koncesję udzieloną przez państwo członkowskie Unii Europejskiej, Konfederację Szwajcarską lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronę umowy o Europejskim Obszarze Gospodarczym może wykonywać regularne przewozy lotnicze na określonych trasach lub obszarach między Rzecząpospolitą Polską a państwem trzecim, z zastrzeżeniem umów międzynarodowych i przepisów międzynarodowych oraz art. 192a, w zakresie i na warunkach określonych w certyfikacie przewoźnika lotniczego i koncesji, po uzyskaniu upoważnienia wydanego przez Prezesa Urzędu.
 
 3. Przewoźnik lotniczy, o którym mowa w ust. 2, może wykonywać przewozy lotnicze na obszarze Europejskiego Obszaru Gospodarczego oraz na trasach do i z Konfederacji Szwajcarskiej, z zastrzeżeniem umów międzynarodowych i przepisów międzynarodowych, bez upoważnienia, o którym mowa w ust. 2.
 
-4. Przewoźnik lotniczy posiadający koncesję udzieloną przez państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym może wykonywać nieregularne przewozy lotnicze na określonych trasach lub obszarach między Rzecząpospolitą Polską a państwem trzecim bez upoważnienia, o którym mowa w ust. 2.
+4. Przewoźnik lotniczy posiadający koncesję udzieloną przez państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronę umowy o Europejskim Obszarze Gospodarczym może wykonywać nieregularne przewozy lotnicze na określonych trasach lub obszarach między Rzecząpospolitą Polską a państwem trzecim bez upoważnienia, o którym mowa w ust. 2.
 
 5. Przewoźnik lotniczy posiadający koncesję wydaną przez Konfederację Szwajcarską może wykonywać nieregularne przewozy lotnicze na trasach między Rzecząpospolitą Polską a państwem trzecim lub przewozy lotnicze na terytorium Rzeczypospolitej Polskiej, z zastrzeżeniem umów międzynarodowych i przepisów międzynarodowych, po uzyskaniu upoważnienia wydanego, na jego wniosek, przez Prezesa Urzędu. Do wydania upoważnienia stosuje się odpowiednio przepisy art. 194 ust. 1–4, art. 195 oraz przepisy wydane na podstawie art. 202. Do wniosku o wydanie upoważnienia dołącza się kopię koncesji przewoźnika lotniczego.
 
@@ -6000,7 +6332,7 @@ Art. 213–221. (pominięte)
 - **1)** nazwę przewoźnika lotniczego i jego siedzibę,
 - **2)** trasy lub obszar wykonywania przewozów lotniczych,
 - **3)** rodzaj przewozu lotniczego (przewóz pasażerów, towarów lub poczty),
-- **4)** warunki wykonywania przewozu lotniczego – biorąc pod uwagę zakres wniosku, koncesji i certyfikatu przewoźnika lotniczego.
+- **4)** warunki wykonywania przewozu lotniczego biorąc pod uwagę zakres wniosku, koncesji i certyfikatu przewoźnika lotniczego.
 
 7. Prezes Urzędu wydaje upoważnienie, o którym mowa w ust. 2, w przypadku gdy:
 
@@ -6016,7 +6348,7 @@ Art. 213–221. (pominięte)
 - **1)** przewoźnik lotniczy:
     - **a)** zawiadomił Prezesa Urzędu o planowanym ograniczeniu korzystania z przyznanych mu praw przewozowych,
     - **b)** nie rozpoczął wykonywania przewozów lotniczych z wykorzystaniem wszystkich przyznanych mu praw przewozowych do końca sezonu rozkładowego następującego po sezonie, od którego zostały mu przyznane te prawa,
-    - **c)** ograniczył wykonywanie przewozów lotniczych z wykorzystaniem przyznanych mu praw przewozowych w okresie dwóch kolejnych sezonów rozkładowych i nie wznowił ich w czasie kolejnego sezonu rozkładowego – chyba że ograniczenie wykonywania przewozów lotniczych było następstwem okoliczności, na które przewoźnik nie miał wpływu;
+    - **c)** ograniczył wykonywanie przewozów lotniczych z wykorzystaniem przyznanych mu praw przewozowych w okresie dwóch kolejnych sezonów rozkładowych i nie wznowił ich w czasie kolejnego sezonu rozkładowego chyba że ograniczenie wykonywania przewozów lotniczych było następstwem okoliczności, na które przewoźnik nie miał wpływu;
 
 - **2)** wynika to z oceny efektywności korzystania z przyznanych praw przewozowych, o której mowa w ust. 22, a posiadane prawa przewozowe mogą ulec ograniczeniu.
 
@@ -6033,7 +6365,7 @@ Art. 213–221. (pominięte)
     - **b)** nie stosuje się do przepisów dotyczących przewozu lotniczego lub warunków lub ograniczeń określonych w upoważnieniu,
     - **c)** przestał spełniać wymagania określone w art. 192a ust. 2, z zastrzeżeniem umów międzynarodowych i przepisów międzynarodowych,
     - **d)** nie rozpoczął wykonywania przewozów lotniczych z wykorzystaniem co najmniej jednego z przyznanych mu praw przewozowych do końca sezonu rozkładowego następującego po sezonie, od którego zostały mu przyznane te prawa,
-    - **e)** zaprzestał wykonywania przewozów lotniczych z wykorzystaniem przyznanych mu praw przewozowych w dwóch kolejnych sezonach rozkładowych i nie wznowił ich w czasie kolejnego sezonu rozkładowego – chyba że niewykonywanie przewozów lotniczych było następstwem okoliczności, na które przewoźnik lotniczy nie miał wpływu;
+    - **e)** zaprzestał wykonywania przewozów lotniczych z wykorzystaniem przyznanych mu praw przewozowych w dwóch kolejnych sezonach rozkładowych i nie wznowił ich w czasie kolejnego sezonu rozkładowego chyba że niewykonywanie przewozów lotniczych było następstwem okoliczności, na które przewoźnik lotniczy nie miał wpływu;
 
 - **2)** wynika to z oceny efektywności korzystania z przyznanych praw przewozowych, o której mowa w ust. 22.
 
@@ -6075,7 +6407,7 @@ Art. 213–221. (pominięte)
 
 - **1)** zakres informacji o wpłynięciu wniosku o wydanie upoważnienia podlegającej ogłoszeniu oraz sposób jej ogłaszania,
 - **2)** sposób przeprowadzania procedury konkursowej,
-- **3)** zakres dodatkowych informacji, jakie powinien zawierać uzupełniony wniosek o wydanie upoważnienia, oraz dokumenty, jakie powinny być dołączone do tego wniosku w celu przeprowadzenia procedury konkursowej – z uwzględnieniem umów międzynarodowych i porozumień stanowiących realizację tych umów lub przepisów międzynarodowych, przepisów Unii Europejskiej w zakresie negocjacji i wykonywania umów dotyczących usług lotniczych oraz z poszanowaniem zasady niedyskryminacji.
+- **3)** zakres dodatkowych informacji, jakie powinien zawierać uzupełniony wniosek o wydanie upoważnienia, oraz dokumenty, jakie powinny być dołączone do tego wniosku w celu przeprowadzenia procedury konkursowej z uwzględnieniem umów międzynarodowych i porozumień stanowiących realizację tych umów lub przepisów międzynarodowych, przepisów Unii Europejskiej w zakresie negocjacji i wykonywania umów dotyczących usług lotniczych oraz z poszanowaniem zasady niedyskryminacji.
 
 **Art. 191a.**
 
@@ -6110,7 +6442,7 @@ Art. 213–221. (pominięte)
 
 2. Przewoźnikiem lotniczym ustanowionym na terytorium Rzeczypospolitej Polskiej jest przewoźnik lotniczy, który:
 
-- **1)** posiada koncesję wydaną przez państwo członkowskie Unii Europejskiej, Konfederację Szwajcarską lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym;
+- **1)** posiada koncesję wydaną przez państwo członkowskie Unii Europejskiej, Konfederację Szwajcarską lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronę umowy o Europejskim Obszarze Gospodarczym;
 - **2)** posiada bazę operacyjną na terytorium Rzeczypospolitej Polskiej;
 - **3)** skutecznie i rzeczywiście wykonuje działalność w dziedzinie transportu lotniczego w ramach trwałych porozumień, zgodnie z rozporządzeniem (WE) nr 847/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie negocjacji i wykonania umów dotyczących usług lotniczych między Państwami Członkowskimi a państwami trzecimi (Dz. Urz. UE L 157 z 30.04.2004, str. 7; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 193);
 - **4)** stale utrzymuje personel odpowiedzialny za bezpieczeństwo i ochronę w Rzeczypospolitej Polskiej.
@@ -6124,7 +6456,7 @@ Art. 213–221. (pominięte)
 2. Cofnięcie wyznaczenia następuje:
 
 - **1)** w trybie i na warunkach określonych w umowie międzynarodowej;
-- **2)** w przypadku braku postanowień umownych w tym zakresie – w formie pisemnego powiadomienia właściwego organu państwa trzeciego przez Prezesa Urzędu o cofnięciu wyznaczenia, gdy cofnięto upoważnienie.
+- **2)** w przypadku braku postanowień umownych w tym zakresie w formie pisemnego powiadomienia właściwego organu państwa trzeciego przez Prezesa Urzędu o cofnięciu wyznaczenia, gdy cofnięto upoważnienie.
 
 3. O cofnięciu wyznaczenia Prezes Urzędu informuje na piśmie zainteresowanego przewoźnika lotniczego.
 
@@ -6150,9 +6482,9 @@ Art. 213–221. (pominięte)
 
 1. Wniosek o udzielenie zezwolenia, o którym mowa w art. 193 ust. 1 i 2, składa się przed zamierzonym rozpoczęciem wykonywania przewozów lotniczych w terminie nie krótszym niż:
 
-- **1)** 3 dni robocze – w przypadku przewozów lotniczych obejmujących nie więcej niż 9 nieregularnych lotów handlowych z lądowaniem na terytorium Rzeczypospolitej Polskiej;
-- **2)** 14 dni roboczych – w przypadku przewozów lotniczych stanowiących serię nieregularnych lotów handlowych obejmującą co najmniej 10 lotów;
-- **3)** 30 dni – w przypadku regularnych przewozów lotniczych.
+- **1)** 3 dni robocze w przypadku przewozów lotniczych obejmujących nie więcej niż 9 nieregularnych lotów handlowych z lądowaniem na terytorium Rzeczypospolitej Polskiej;
+- **2)** 14 dni roboczych w przypadku przewozów lotniczych stanowiących serię nieregularnych lotów handlowych obejmującą co najmniej 10 lotów;
+- **3)** 30 dni w przypadku regularnych przewozów lotniczych.
 
 2. W przypadkach przewozów lotniczych, o których mowa w ust. 1 pkt 1, niecierpiących zwłoki, uzasadnionych interesem publicznym lub społecznym, wniosek może być złożony bez zachowania terminu określonego w tym przepisie.
 
@@ -6168,14 +6500,14 @@ Art. 213–221. (pominięte)
 
 5. Do wniosku dołącza się:
 
-- **1)** dokumenty określające status prawny przewoźnika lotniczego oraz strukturę kapitałową i skuteczną kontrolę regulacyjną nad przewoźnikiem lotniczym – w przypadku regularnych przewozów lotniczych;
-- **2)** wyznaczenie przez właściwy organ obcego państwa do wykonywania przewozów lotniczych objętych wnioskiem – w przypadku gdy wymaga tego umowa międzynarodowa;
-- **3)** certyfikat przewoźnika lotniczego wraz ze związanymi specyfikacjami operacyjnymi, wydany przez właściwy organ obcego państwa, albo dokumenty im równoważne – na żądanie Prezesa Urzędu;
+- **1)** dokumenty określające status prawny przewoźnika lotniczego oraz strukturę kapitałową i skuteczną kontrolę regulacyjną nad przewoźnikiem lotniczym w przypadku regularnych przewozów lotniczych;
+- **2)** wyznaczenie przez właściwy organ obcego państwa do wykonywania przewozów lotniczych objętych wnioskiem w przypadku gdy wymaga tego umowa międzynarodowa;
+- **3)** certyfikat przewoźnika lotniczego wraz ze związanymi specyfikacjami operacyjnymi, wydany przez właściwy organ obcego państwa, albo dokumenty im równoważne na żądanie Prezesa Urzędu;
 - **4)** dokument ubezpieczenia stwierdzający zawarcie umowy ubezpieczenia odpowiedzialności cywilnej za szkody związane z eksploatacją statków powietrznych, przewozem lotniczym pasażerów, towarów lub poczty oraz w stosunku do osób trzecich;
-- **5)** umowę zawartą ze zleceniodawcą na wykonywanie nieregularnego przewozu lotniczego – na żądanie Prezesa Urzędu;
-- **6)** świadectwo zdatności do lotu statku powietrznego – na żądanie Prezesa Urzędu;
-- **7)** świadectwo zdatności w zakresie hałasu – na żądanie Prezesa Urzędu;
-- **8)** dokument zezwolenia, o którym mowa w art. 3 rozporządzenia nr 452/2014/UE, wydany przewoźnikowi lotniczemu przez EASA, obejmujący statki powietrzne wskazane we wniosku – na żądanie Prezesa Urzędu;
+- **5)** umowę zawartą ze zleceniodawcą na wykonywanie nieregularnego przewozu lotniczego na żądanie Prezesa Urzędu;
+- **6)** świadectwo zdatności do lotu statku powietrznego na żądanie Prezesa Urzędu;
+- **7)** świadectwo zdatności w zakresie hałasu na żądanie Prezesa Urzędu;
+- **8)** dokument zezwolenia, o którym mowa w art. 3 rozporządzenia nr 452/2014/UE, wydany przewoźnikowi lotniczemu przez EASA, obejmujący statki powietrzne wskazane we wniosku na żądanie Prezesa Urzędu;
 - **9)** dowód uiszczenia opłaty lotniczej, o ile jest wymagana.
 
 **Art. 195.**
@@ -6187,11 +6519,11 @@ Art. 213–221. (pominięte)
 - **3)** zapewniona jest możliwość obsługi lotów i przewozów lotniczych w polskich portach lotniczych;
 - **4)** jest to zgodne z postanowieniami umów międzynarodowych, porozumień stanowiących realizację tych umów, przepisów międzynarodowych lub z przepisami prawa Unii Europejskiej w zakresie przewozów lotniczych;
 - **5)** zostały spełnione warunki, o których mowa w art. 194 ust. 1–3 oraz 5;
-- **6)** jest to zgodne z decyzją ministra właściwego do spraw transportu, o której mowa w art. 195c ust. 3 lub 5, jeżeli z tej decyzji wynika możliwość wykonywania praw przewozowych objętych wnioskiem – w przypadku wydania takiej decyzji;
+- **6)** jest to zgodne z decyzją ministra właściwego do spraw transportu, o której mowa w art. 195c ust. 3 lub 5, jeżeli z tej decyzji wynika możliwość wykonywania praw przewozowych objętych wnioskiem w przypadku wydania takiej decyzji;
 - **7)** przewoźnik lotniczy nie znajduje się w wykazie, o którym mowa w rozporządzeniu nr 2111/2005/WE;
 - **8)** przewoźnik lotniczy zamierza wykonywać przewóz lotniczy przy użyciu statku powietrznego przewoźnika lotniczego nieznajdującego się w wykazie, o którym mowa w rozporządzeniu nr 2111/2005/WE;
 - **9)** Prezes Urzędu nie wprowadził zakazu, o którym mowa w art. 155d ust. 1;
-- **10)** przewoźnik lotniczy jest wyznaczony do wykonywania przewozów lotniczych na określonych trasach lub obszarach – w przypadku gdy wymaga tego umowa międzynarodowa;
+- **10)** przewoźnik lotniczy jest wyznaczony do wykonywania przewozów lotniczych na określonych trasach lub obszarach w przypadku gdy wymaga tego umowa międzynarodowa;
 - **11)** przewoźnik lotniczy jest odpowiednio certyfikowany przez właściwy organ państwa, w którym jest koncesjonowany.
 
 2. W zezwoleniu, o którym mowa w art. 193 ust. 1 i 2, określa się:
@@ -6199,8 +6531,8 @@ Art. 213–221. (pominięte)
 - **1)** firmę i siedzibę przewoźnika lotniczego;
 - **2)** trasy, na których mają być wykonywane przewozy lotnicze;
 - **3)** rodzaj przewozów lotniczych (przewóz pasażerów, towarów lub poczty);
-- **4)** numery rejsów, dni operacji lotniczych, typy statków powietrznych i ich znaki rejestracyjne, nazwę zleceniodawcy – w przypadku nieregularnych przewozów lotniczych;
-- **5)** warunki wykonywania przewozów lotniczych – w uzasadnionych przypadkach.
+- **4)** numery rejsów, dni operacji lotniczych, typy statków powietrznych i ich znaki rejestracyjne, nazwę zleceniodawcy w przypadku nieregularnych przewozów lotniczych;
+- **5)** warunki wykonywania przewozów lotniczych w uzasadnionych przypadkach.
 
 3. Prezes Urzędu, biorąc pod uwagę kwotę zadłużenia oraz okres zaległości, może odmówić wydania zezwolenia, o którym mowa w art. 193 ust. 1 i 2, w przypadku gdy istnieją zaległe płatności przewoźnika lotniczego:
 
@@ -6232,7 +6564,7 @@ Art. 213–221. (pominięte)
 - **1)** przedstawione przez przewoźnika lotniczego dokumenty je potwierdzają;
 - **2)** jest to zgodne z umowami międzynarodowymi lub porozumieniami stanowiącymi realizację tych umów lub z przepisami międzynarodowymi.
 
-9. Decyzje administracyjne w przedmiocie zezwolenia, o którym mowa w art. 193 ust. 1 i 2, a także pisma w postępowaniach administracyjnych w tym przedmiocie doręcza się na adres poczty elektronicznej – w przypadku gdy wnioskodawca wskaże taki adres do doręczeń, albo w formie pisemnej lub za pomocą telefaksu.
+9. Decyzje administracyjne w przedmiocie zezwolenia, o którym mowa w art. 193 ust. 1 i 2, a także pisma w postępowaniach administracyjnych w tym przedmiocie doręcza się na adres poczty elektronicznej w przypadku gdy wnioskodawca wskaże taki adres do doręczeń, albo w formie pisemnej lub za pomocą telefaksu.
 
 10. W wezwaniu do uzupełnienia wniosku w sprawach zezwoleń, o których mowa w art. 194 ust. 1 pkt 1 i 2 oraz ust. 2, Prezes Urzędu wskazuje termin do uzupełnienia tych braków. W przypadku niecierpiącym zwłoki treść wezwania może zostać ogłoszona ustnie i utrwalona w aktach sprawy w formie adnotacji.
 
@@ -6274,7 +6606,7 @@ Art. 213–221. (pominięte)
 
 2. Przewoźnik lotniczy z państwa trzeciego może prowadzić sprzedaż przewozów lotniczych na terytorium Rzeczypospolitej Polskiej po uzyskaniu zezwolenia Prezesa Urzędu wydawanego na wniosek tego przewoźnika, przy zachowaniu zasady wzajemności.
 
-2a. Przewoźnik lotniczy z państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym może prowadzić sprzedaż przewozów lotniczych na terytorium Rzeczypospolitej Polskiej na takich samych zasadach jak przedsiębiorca polski.
+2a. Przewoźnik lotniczy z państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym może prowadzić sprzedaż przewozów lotniczych na terytorium Rzeczypospolitej Polskiej na takich samych zasadach jak przedsiębiorca polski.
 
 3. Do wniosku, o którym mowa w ust. 2, należy dołączyć następujące dokumenty:
 
@@ -6282,8 +6614,8 @@ Art. 213–221. (pominięte)
 - **2)** zaświadczenie albo oświadczenie o nadaniu oddziałowi numeru identyfikacji podatkowej (NIP);
 - **3)** (uchylony)
 - **4)** określające podmiot reprezentujący przewoźnika lotniczego z państwa trzeciego na terytorium Rzeczypospolitej Polskiej, wskazujące jego:
-    - **a)** nazwisko i adres – w przypadku osoby fizycznej,
-    - **b)** nazwę, siedzibę i adres oraz status – w przypadku osoby prawnej albo spółki prawa handlowego nieposiadającej osobowości prawnej.
+    - **a)** nazwisko i adres w przypadku osoby fizycznej,
+    - **b)** nazwę, siedzibę i adres oraz status w przypadku osoby prawnej albo spółki prawa handlowego nieposiadającej osobowości prawnej.
 
 3a. Oświadczenia, o których mowa w ust. 3 pkt 1 i 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
 
@@ -6345,7 +6677,7 @@ Art. 213–221. (pominięte)
 1. Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw rozwoju regionalnego, po zasięgnięciu opinii Prezesa Urzędu oraz wojewody lub właściwej jednostki samorządu terytorialnego, może, w drodze rozporządzenia:
 
 - **1)** nałożyć obowiązek użyteczności publicznej w stosunku do regularnego przewozu lotniczego między dwoma portami lotniczymi położonymi na terytorium Rzeczypospolitej Polskiej lub między portem lotniczym położonym na terytorium Rzeczypospolitej Polskiej a innym portem lotniczym położonym na terytorium Unii Europejskiej,
-- **2)** określić okres oraz warunki wykonywania obowiązku użyteczności publicznej, o którym mowa w pkt 1 – z uwzględnieniem polityki państwa w zakresie rozwoju regionalnego oraz zasady niedyskryminacji między wspólnotowymi przewoźnikami lotniczymi.
+- **2)** określić okres oraz warunki wykonywania obowiązku użyteczności publicznej, o którym mowa w pkt 1 z uwzględnieniem polityki państwa w zakresie rozwoju regionalnego oraz zasady niedyskryminacji między wspólnotowymi przewoźnikami lotniczymi.
 
 2. Tryb oraz kryteria ustanawiania obowiązku użyteczności publicznej określa rozporządzenie nr 1008/2008/WE.
 
@@ -6358,8 +6690,8 @@ Art. 213–221. (pominięte)
 
 4. W celu przeprowadzenia analizy, o której mowa w ust. 3, minister właściwy do spraw transportu występuje do:
 
-- **1)** jednostki samorządu terytorialnego – o przedstawienie analizy sytuacji gospodarczej tej jednostki;
-- **2)** Prezesa Urzędu – o przedstawienie analizy istniejących i planowanych połączeń lotniczych oraz stosowanych taryf lotniczych na danej trasie.
+- **1)** jednostki samorządu terytorialnego o przedstawienie analizy sytuacji gospodarczej tej jednostki;
+- **2)** Prezesa Urzędu o przedstawienie analizy istniejących i planowanych połączeń lotniczych oraz stosowanych taryf lotniczych na danej trasie.
 
 5. Minister właściwy do spraw transportu przekazuje projekt rozporządzenia, o którym mowa w ust. 1, do Komisji Europejskiej oraz zainteresowanych państw członkowskich Unii Europejskiej.
 
@@ -6381,13 +6713,18 @@ Art. 213–221. (pominięte)
 
 **Art. 199.** Przewoźnik lotniczy oferujący publicznie swoje usługi nie może odmówić podjęcia przewozu pasażerowi i nadawcy, którzy poddali się obowiązującym przepisom i regulaminom przewozowym, chyba że:
 
+- **1)** przewóz jest zakazany lub ograniczony na podstawie obowiązujących przepisów;
+- **2)** przewóz jest niedopuszczalny ze względów bezpieczeństwa;
+- **3)** przewoźnik lotniczy nie dysponuje środkami potrzebnymi do wykonania danego przewozu;
+- **4)** przewóz wykracza poza zakres bieżącej działalności przewoźnika lotniczego.
+
 **Art. 200.**
 
 1. (uchylony)
 
 2. (uchylony)
 
-3. Szczegółowe zasady dotyczące postępowania w przypadkach, o których mowa w rozporządzeniu nr 261/2004/WE z dnia 11 lutego 2004 r. ustanawiającym wspólne zasady odszkodowania i pomocy dla pasażerów w przypadku odmowy przyjęcia na pokład albo odwołania lub dużego opóźnienia lotów, uchylającym rozporządzenie (EWG) nr 295/91, a w szczególności pierwszeństwa przyjmowania pasażerów, zwrotu opłaty za niewykonany przewóz, wysokości i sposobu wypłaty rekompensaty oraz świadczeń na rzecz pasażerów niezabranych do przewozu (Dz. Urz. UE L 46 z 17.02.2004, 1), powinny być określone w regulaminie, o którym mowa w art. 205 ust. 3, albo w przepisach przewoźnika wydanych i udostępnionych pasażerom.
+3. Szczegółowe zasady dotyczące postępowania w przypadkach, o których mowa w rozporządzeniu nr 261/2004/WE z dnia 11 lutego 2004 r. ustanawiającym wspólne zasady odszkodowania i pomocy dla pasażerów w przypadku odmowy przyjęcia na pokład albo odwołania lub dużego opóźnienia lotów, uchylającym rozporządzenie (EWG) nr 295/91, a w szczególności pierwszeństwa przyjmowania pasażerów, zwrotu opłaty za niewykonany przewóz, wysokości i sposobu wypłaty rekompensaty oraz świadczeń na rzecz pasażerów niezabranych do przewozu (Dz. Urz. UE L 46 z 17.02.2004, s. 1), powinny być określone w regulaminie, o którym mowa w art. 205 ust. 3, albo w przepisach przewoźnika wydanych i udostępnionych pasażerom.
 
 4. (uchylony)
 
@@ -6395,7 +6732,7 @@ Art. 213–221. (pominięte)
 
 **Art. 201a.**
 
-1. Przewoźnik lotniczy posiadający koncesję udzieloną przez państwo członkowskie Unii Europejskiej, Konfederację Szwajcarską lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym, wykonujący regularne przewozy lotnicze do, z oraz na terytorium Rzeczypospolitej Polskiej, jest obowiązany na żądanie Prezesa Urzędu przedstawić mu do wiadomości rozkład lotów, stosowany w przewozach lotniczych do, z oraz na terytorium Rzeczypospolitej Polskiej.
+1. Przewoźnik lotniczy posiadający koncesję udzieloną przez państwo członkowskie Unii Europejskiej, Konfederację Szwajcarską lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronę umowy o Europejskim Obszarze Gospodarczym, wykonujący regularne przewozy lotnicze do, z oraz na terytorium Rzeczypospolitej Polskiej, jest obowiązany na żądanie Prezesa Urzędu przedstawić mu do wiadomości rozkład lotów, stosowany w przewozach lotniczych do, z oraz na terytorium Rzeczypospolitej Polskiej.
 
 2. Przewoźnik lotniczy z państwa trzeciego, wykonujący regularne przewozy lotnicze, jest obowiązany przedstawić Prezesowi Urzędu, przed rozpoczęciem przewozów lotniczych lub przed każdym sezonem rozkładowym, rozkład lotów stosowany w przewozach lotniczych do, z oraz na terytorium Rzeczypospolitej Polskiej. Prezes Urzędu zatwierdza w przypadkach wskazanych w odpowiednich umowach międzynarodowych rozkład lotów z uwzględnieniem postanowień umów międzynarodowych, zgodnie z którymi wykonuje się przewozy lotnicze.
 
@@ -6488,7 +6825,7 @@ Art. 213–221. (pominięte)
 
 4. Minister właściwy do spraw transportu może, po zasięgnięciu opinii Prezesa Urzędu Ochrony Konkurencji i Konsumentów oraz organizacji przewoźników i przedsiębiorstw ubezpieczeniowych, wprowadzić do stosowania, w drodze rozporządzenia, postanowienia umów międzynarodowych w odniesieniu do przewozów lotniczych międzynarodowych niepodlegających tym umowom, a rozpoczynających się lub kończących na terytorium Rzeczypospolitej Polskiej oraz do przewozów lotniczych krajowych.
 
-### DZIAŁ Xa Ochrona praw pasażerów
+### DZIAŁ XA Ochrona praw pasażerów
 
 #### Rozdział 1 Postępowanie w sprawach pozasądowego rozwiązywania sporów pasażerskich
 
@@ -6496,8 +6833,8 @@ Art. 213–221. (pominięte)
 
 1. Przy Prezesie Urzędu działa Rzecznik Praw Pasażerów prowadzący postępowanie w sprawie pozasądowego rozwiązywania sporów pasażerskich między pasażerem a:
 
-- **1)** przewoźnikiem lotniczym – w zakresie roszczeń majątkowych wynikających z przepisów rozporządzenia nr 261/2004/WE,
-- **2)** przewoźnikiem lotniczym, organizatorem turystyki albo sprzedawcą biletów – w zakresie roszczeń majątkowych wynikających z przepisów rozporządzenia nr 2111/2005/WE – w przypadku lotów wykonywanych z lotnisk znajdujących się na terytorium Rzeczypospolitej Polskiej oraz lotów z krajów trzecich na te lotniska, obsługiwanych przez wspólnotowych przewoźników lotniczych.
+- **1)** przewoźnikiem lotniczym w zakresie roszczeń majątkowych wynikających z przepisów rozporządzenia nr 261/2004/WE,
+- **2)** przewoźnikiem lotniczym, organizatorem turystyki albo sprzedawcą biletów w zakresie roszczeń majątkowych wynikających z przepisów rozporządzenia nr 2111/2005/WE w przypadku lotów wykonywanych z lotnisk znajdujących się na terytorium Rzeczypospolitej Polskiej oraz lotów z krajów trzecich na te lotniska, obsługiwanych przez wspólnotowych przewoźników lotniczych.
 
 2. W zakresie, o którym mowa w ust. 1, Rzecznik Praw Pasażerów jest podmiotem uprawnionym do prowadzenia postępowania w sprawie pozasądowego rozwiązywania sporów konsumenckich w rozumieniu ustawy z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich (Dz. U. poz. 1823) oraz osobą prowadzącą to postępowanie w rozumieniu tej ustawy.
 
@@ -6528,8 +6865,8 @@ Art. 213–221. (pominięte)
 
 8. Datą wszczęcia postępowania, o którym mowa w ust. 1, jest dzień doręczenia Rzecznikowi Praw Pasażera skargi pasażera, obejmującej co najmniej elementy określone w art. 33 ust. 2 ustawy z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich, wniesionej nie wcześniej niż po upływie 30 dni od dnia złożenia reklamacji u:
 
-- **1)** przewoźnika lotniczego – w przypadku rozporządzenia nr 261/2004/WE;
-- **2)** przewoźnika lotniczego, organizatora turystyki albo sprzedawcy biletów – w przypadku rozporządzenia nr 2111/2005/WE.
+- **1)** przewoźnika lotniczego w przypadku rozporządzenia nr 261/2004/WE;
+- **2)** przewoźnika lotniczego, organizatora turystyki albo sprzedawcy biletów w przypadku rozporządzenia nr 2111/2005/WE.
 
 9. Skargę wnosi się w postaci papierowej na adres Urzędu albo w postaci elektronicznej za pośrednictwem elektronicznej platformy usług administracji publicznej (ePUAP) albo zamieszczonego na stronie podmiotowej Biuletynu Informacji Publicznej Urzędu formularza kontaktowego dedykowanego do składania skarg pasażera.
 
@@ -6558,7 +6895,7 @@ Art. 213–221. (pominięte)
 16. Rzecznik Praw Pasażera kończy postępowanie, o którym mowa w ust. 1, w przypadku gdy:
 
 - **1)** przewoźnik lotniczy lub organizator turystyki nie wyrazi zgody na udział w tym postępowaniu albo nie udzieli odpowiedzi w terminie 21 dni od dnia otrzymania pisma Rzecznika Praw Pasażerów informującego o wszczęciu postępowania,
-- **2)** nie dojdzie do rozwiązania sporu w terminie, o którym mowa w ust. 14 – o czym informuje strony sporu.
+- **2)** nie dojdzie do rozwiązania sporu w terminie, o którym mowa w ust. 14 o czym informuje strony sporu.
 
 17. Rzecznik Praw Pasażera odmawia prowadzenia postępowania, o którym mowa w ust. 1, w przypadku gdy:
 
@@ -6574,9 +6911,9 @@ Art. 213–221. (pominięte)
 
 1. Prezes Urzędu sprawuje nadzór nad przestrzeganiem:
 
-- **1)** rozporządzenia nr 261/2004/WE – przez przewoźników lotniczych,
-- **2)** rozporządzenia nr 2111/2005/WE – przez przewoźników lotniczych, organizatorów turystyki i sprzedawców biletów,
-- **3)** rozporządzenia nr 1107/2006/WE – przez przewoźników lotniczych, zarządzających lotniskami i organizatorów turystyki – zwanych dalej „podmiotami nadzorowanymi”.
+- **1)** rozporządzenia nr 261/2004/WE przez przewoźników lotniczych,
+- **2)** rozporządzenia nr 2111/2005/WE przez przewoźników lotniczych, organizatorów turystyki i sprzedawców biletów,
+- **3)** rozporządzenia nr 1107/2006/WE przez przewoźników lotniczych, zarządzających lotniskami i organizatorów turystyki zwanych dalej „podmiotami nadzorowanymi”.
 
 2. Prezes Urzędu przeprowadza postępowanie nadzorcze w zakresie, o którym mowa w ust. 1 pkt 1 i 2, także na pisemny wniosek Rzecznika Praw Pasażera wskazujący zaistnienie uzasadnionego podejrzenia naruszenia przepisów, o których mowa w ust. 1 pkt 1 i 2.
 
@@ -6588,8 +6925,8 @@ Art. 213–221. (pominięte)
 
 6. Prezes Urzędu powiadamia na piśmie podmiot nadzorowany o wynikach nadzoru, a w razie stwierdzenia nieprawidłowości:
 
-- **1)** wskazuje ich zakres i wyznacza termin do ich usunięcia – w przypadku naruszenia przepisów rozporządzenia nr 1107/2006/WE;
-- **2)** wskazuje ich zakres i poucza o treści art. 209uf – w przypadku naruszenia przepisów rozporządzenia nr 261/2006/WE lub rozporządzenia nr 2111/2005/WE.
+- **1)** wskazuje ich zakres i wyznacza termin do ich usunięcia w przypadku naruszenia przepisów rozporządzenia nr 1107/2006/WE;
+- **2)** wskazuje ich zakres i poucza o treści art. 209uf w przypadku naruszenia przepisów rozporządzenia nr 261/2006/WE lub rozporządzenia nr 2111/2005/WE.
 
 7. Podmiot nadzorowany, w terminie 14 dni od dnia powiadomienia o wynikach nadzoru, może zgłosić Prezesowi Urzędu pisemnie zastrzeżenia w tym zakresie wraz z uzasadnieniem.
 
@@ -6610,7 +6947,7 @@ Art. 213–221. (pominięte)
 1. Dochodzenie roszczeń majątkowych wynikających z przepisów:
 
 - **1)** rozporządzenia nr 261/2004/WE,
-- **2)** rozporządzenia nr 2111/2005/WE – przysługuje pasażerowi po wyczerpaniu postępowania reklamacyjnego.
+- **2)** rozporządzenia nr 2111/2005/WE przysługuje pasażerowi po wyczerpaniu postępowania reklamacyjnego.
 
 2. Postępowanie reklamacyjne uważa się za wyczerpane w przypadku, gdy przewoźnik lotniczy, organizator turystyki albo sprzedawca biletów rozpatrzył reklamację albo upłynął termin do jej rozpatrzenia. Reklamacja powinna być rozpatrzona w terminie 30 dni od dnia jej złożenia.
 
@@ -6622,7 +6959,7 @@ Art. 213–221. (pominięte)
 
 6. Przewoźnik lotniczy, organizator turystyki albo sprzedawca biletów przekazuje pasażerowi odpowiedź na reklamację w formie, w jakiej reklamacja została złożona. Jeżeli przewoźnik lotniczy, organizator turystyki albo sprzedawca biletów nie udzielił odpowiedzi na reklamację w terminie, o którym mowa w ust. 2, uważa się, że uznał reklamację.
 
-7. Roszczenia majątkowe pasażerów wynikające z przepisów, o których mowa w ust. 1, przedawniają się z upływem 1 roku od dnia wykonania przewozu, a w przypadku gdy przewóz nie został wykonany – od dnia, w którym miał być wykonany.
+7. Roszczenia majątkowe pasażerów wynikające z przepisów, o których mowa w ust. 1, przedawniają się z upływem 1 roku od dnia wykonania przewozu, a w przypadku gdy przewóz nie został wykonany od dnia, w którym miał być wykonany.
 
 8. Bieg przedawnienia roszczeń majątkowych zawiesza się na okres od dnia złożenia reklamacji do dnia udzielenia na nią odpowiedzi albo do dnia, w którym upłynął termin na jej rozpatrzenie.
 
@@ -6697,7 +7034,7 @@ Art. 213–221. (pominięte)
 
 8. Minister właściwy do spraw instytucji finansowych w porozumieniu z ministrem właściwym do spraw transportu określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia obowiązkowego, o którym mowa w ust. 1a, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc pod uwagę specyfikę operacji wykonywanych przez operatorów systemów bezzałogowych statków powietrznych.
 
-### DZIAŁ XIa Administracyjne kary pieniężne
+### DZIAŁ XIA Administracyjne kary pieniężne
 
 **Art. 209a.**
 
@@ -6706,6 +7043,9 @@ Art. 213–221. (pominięte)
 2. Wykaz naruszeń obowiązków, o których mowa w ust. 1, oraz wysokość kar pieniężnych za poszczególne naruszenia określa załącznik nr 1 do ustawy.
 
 **Art. 209b.** Podmiot nadzorowany:
+
+- **1)** wobec którego na podstawie informacji lub dokumentów uzyskanych w ramach nadzoru, o którym mowa w art. 205b ust. 1, stwierdzono rażące naruszenie przepisów prawa Unii Europejskiej, o których mowa w art. 205b ust. 1, lub
+- **2)** który nie usunął nieprawidłowości stwierdzonych w ramach nadzoru, o którym mowa w art. 205b ust. 1, w terminie wyznaczonym przez Prezesa Urzędu podlega karze pieniężnej w wysokości do 100 000 zł.
 
 **Art. 209c.**
 
@@ -6729,15 +7069,45 @@ Art. 213–221. (pominięte)
 
 **Art. 209g.** Przedsiębiorca prowadzący działalność gospodarczą w zakresie zarządzania lotniskiem użytku publicznego, który nie przedstawi w terminie określonym w art. 3 ust. 3 rozporządzenia nr 95/93/WE albo w terminie określonym przez Prezesa Urzędu w żądaniu, o którym mowa w art. 68 ust. 3 pkt 8, dokumentów stanowiących analizę przepustowości lotniska, o której mowa w art. 3 ust. 3 rozporządzenia nr 95/93/WE, podlega karze pieniężnej w wysokości zależnej od kodu referencyjnego lotniska:
 
+- **1)** 10 000 zł w przypadku kodu referencyjnego A;
+- **2)** 20 000 zł w przypadku kodu referencyjnego B;
+- **3)** 30 000 zł w przypadku kodu referencyjnego C;
+- **4)** 40 000 zł w przypadku kodu referencyjnego D;
+- **5)** 50 000 zł w przypadku kodu referencyjnego E.
+
 **Art. 209h.** Przedsiębiorca prowadzący działalność gospodarczą w zakresie zarządzania lotniskiem użytku publicznego, który nie udostępni Prezesowi Urzędu danych, o których mowa w art. 68 ust. 2 pkt 8, podlega karze pieniężnej w wysokości zależnej od liczby pasażerów obsłużonych w porcie lotniczym w roku poprzednim:
+
+- **1)** 2000 zł w przypadku obsłużenia do 100 000 pasażerów;
+- **2)** 4000 zł w przypadku obsłużenia od 100 001 do 500 000 pasażerów;
+- **3)** 6000 zł w przypadku obsłużenia od 500 001 do 1 000 000 pasażerów;
+- **4)** 8000 zł w przypadku obsłużenia od 1 000 001 do 5 000 000 pasażerów;
+- **5)** 10 000 zł w przypadku obsłużenia powyżej 5 000 000 pasażerów.
 
 **Art. 209i.** Przedsiębiorca wykonujący przewóz lotniczy bez wymaganej koncesji, o której mowa w art. 164, podlega karze pieniężnej w wysokości zależnej od rodzaju wykonywanego przewozu:
 
+- **1)** 40 000 zł w przypadku przewozu nieregularnego przy użyciu statków powietrznych o maksymalnej masie startowej (MTOM) poniżej 10 000 kg;
+- **2)** 60 000 zł w przypadku przewozu regularnego przy użyciu statków powietrznych o maksymalnej masie startowej (MTOM) poniżej 10 000 kg;
+- **3)** 80 000 zł w przypadku przewozu nieregularnego przy użyciu statków powietrznych o maksymalnej masie startowej (MTOM) co najmniej 10 000 kg;
+- **4)** 100 000 zł w przypadku przewozu regularnego przy użyciu statków powietrznych o maksymalnej masie startowej (MTOM) co najmniej 10 000 kg.
+
 **Art. 209j.** Przedsiębiorca prowadzący działalność gospodarczą w zakresie zarządzania lotniskiem użytku publicznego bez zezwolenia, o którym mowa w art. 173 ust. 1 pkt 1, podlega karze pieniężnej w wysokości zależnej od kodu referencyjnego lotniska:
+
+- **1)** 30 000 zł w przypadku kodu referencyjnego A;
+- **2)** 40 000 zł w przypadku kodu referencyjnego B;
+- **3)** 50 000 zł w przypadku kodu referencyjnego C;
+- **4)** 70 000 zł w przypadku kodu referencyjnego D;
+- **5)** 100 000 zł w przypadku kodu referencyjnego E.
 
 **Art. 209k.** Przedsiębiorca prowadzący działalność gospodarczą w zakresie świadczenia usług obsługi naziemnej bez zezwolenia, o którym mowa w art. 173 ust. 1 pkt 2, podlega karze pieniężnej w wysokości zależnej od rodzaju usługi obsługi naziemnej:
 
+- **1)** 20 000 zł w przypadku usług, o których mowa w art. 176 pkt 1, 2, 6 i 8–11;
+- **2)** 50 000 zł w przypadku usług, o których mowa w art. 176 pkt 3–5 i 7.
+
 **Art. 209l.** Przedsiębiorca prowadzący działalność gospodarczą w zakresie:
+
+- **1)** zarządzania lotniskiem użytku publicznego, który nie przedstawił w terminie rocznego sprawozdania finansowego, o którym mowa w art. 175 ust. 7 pkt 3,
+- **2)** wykonywania przewozu lotniczego za naruszenie obowiązków, o których mowa w art. 8 ust. 4 rozporządzenia nr 1008/2008/WE,
+- **3)** służb żeglugi powietrznej za naruszenie obowiązków, o których mowa w pkt 9 załącznika nr 1 do rozporządzenia nr 1035/2011/UE podlega karze pieniężnej w wysokości do 0,5 % obrotu przedsiębiorstwa osiągniętego w roku poprzednim, nieprzekraczającej kwoty 50 000 zł.
 
 **Art. 209m.**
 
@@ -6746,6 +7116,9 @@ Art. 213–221. (pominięte)
 2. Przedsiębiorca prowadzący działalność gospodarczą w zakresie zarządzania lotniskiem użytku publicznego lub inny podmiot dysponujący elementami scentralizowanej infrastruktury, który bezpodstawnie uniemożliwia lub utrudniania korzystanie ze scentralizowanej infrastruktury przez podmioty do tego uprawnione, o których mowa w art. 180 ust. 3, podlega karze pieniężnej w wysokości nie większej niż 2 % obrotu przedsiębiorstwa osiągniętego w roku rozliczeniowym poprzedzającym rok nałożenia kary, nie mniej niż 25 000 zł.
 
 **Art. 209n.** Przewoźnik lotniczy wykonujący przewóz lotniczy bez zezwolenia, o którym mowa w art. 193 ust. 1 lub 2, lub upoważnienia, o którym mowa w art. 191 ust. 2 lub 5, podlega karze pieniężnej w wysokości zależnej od podmiotu wykonującego przewóz:
+
+- **1)** 10 000 zł w przypadku przewoźnika lotniczego posiadającego koncesję udzieloną przez państwo członkowskie Unii Europejskiej, Konfederację Szwajcarską lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronę umowy o Europejskim Obszarze Gospodarczym;
+- **2)** 20 000 zł w przypadku przewoźnika lotniczego z państwa trzeciego.
 
 **Art. 209o.**
 
@@ -6763,15 +7136,18 @@ Art. 213–221. (pominięte)
 
 **Art. 209s.** Kto wykonuje działalność w lotnictwie cywilnym bez:
 
+- **1)** ważnego certyfikatu, o którym mowa w art. 160 ust. 1,
+- **2)** wykazu zatwierdzeń szczególnych, zgłoszenia wykonywania zarobkowych operacji specjalistycznych, zgłoszenia wykonywania operacji niezarobkowych skomplikowanym statkiem powietrznym z napędem silnikowym, zezwolenia na wykonywanie zarobkowych operacji specjalistycznych wysokiego ryzyka lub zezwolenia na wykonywanie zarobkowych operacji polegających na wykonywaniu lotów przeciwpożarowych i gaśniczych podlega karze w wysokości do 20 000 zł.
+
 **Art. 209t.** Kto wykonuje działalność w lotnictwie cywilnym z przekroczeniem uprawnień wynikających z posiadanego certyfikatu, o którym mowa w art. 160 ust. 1, wykazu zatwierdzeń szczególnych, zgłoszenia wykonywania zarobkowych operacji specjalistycznych, zgłoszenia wykonywania operacji niezarobkowych skomplikowanym statkiem powietrznym z napędem silnikowym, zezwolenia na wykonywanie zarobkowych operacji specjalistycznych wysokiego ryzyka lub zezwolenia na wykonywanie zarobkowych operacji polegających na wykonywaniu lotów przeciwpożarowych i gaśniczych, podlega karze do 10 000 zł.
 
 **Art. 209u.**
 
 1. Przedsiębiorca prowadzący działalność gospodarczą w zakresie wykonywania przewozu lotniczego, który wbrew obowiązkowi, o którym mowa w art. 202a:
 
-- **1)** nie przekazał informacji – podlega karze pieniężnej w wysokości 22 500 zł,
-- **2)** przekazał informację nieprawdziwą – podlega karze pieniężnej w wysokości 18 000 zł,
-- **3)** przekazał informację niepełną – podlega karze pieniężnej w wysokości 13 500 zł – za każdy lot, w którym odpowiednio nie przekazał informacji, przekazał informację nieprawdziwą lub przekazał informację niepełną.
+- **1)** nie przekazał informacji podlega karze pieniężnej w wysokości 22 500 zł,
+- **2)** przekazał informację nieprawdziwą podlega karze pieniężnej w wysokości 18 000 zł,
+- **3)** przekazał informację niepełną podlega karze pieniężnej w wysokości 13 500 zł za każdy lot, w którym odpowiednio nie przekazał informacji, przekazał informację nieprawdziwą lub przekazał informację niepełną.
 
 2. Kary pieniężne, o których mowa w ust. 1, Prezes Urzędu wymierza na uzasadniony wniosek komendanta placówki Straży Granicznej właściwego ze względu na miejsce przekroczenia granicy państwowej przez pasażerów statku powietrznego. Do wniosku tego komendant dołącza akta sprawy wraz z niezbędnymi dowodami. Art. 209ua. Podmiot zarządzający przepływem ruchu lotniczego, o którym mowa w art. 2 pkt 5 rozporządzenia nr 255/2010/UE, który narusza obowiązek określony w art. 67fa ust. 1, podlega karze pieniężnej w wysokości do 50 000 zł. Art. 209ub. Koordynator, o którym mowa w art. 67b, lub zarządzający lotniskiem, który narusza obowiązek określony w art. 67fa ust. 2, podlega karze pieniężnej w wysokości do 50 000 zł. Art. 209uc. Zarządzający lotniskiem, który narusza obowiązek określony w art. 68 ust. 3 pkt 1a, podlega karze pieniężnej w wysokości do 50 000 zł. Art. 209ud. 1. Użytkownik statku powietrznego, który celowo i co najmniej dwukrotnie w okresie 6 miesięcy, w odniesieniu do tego samego portu lotniczego, wykonuje operacje lotnicze w terminach znacznie różniących się od przydzielonych czasów na start lub lądowanie, bez uzyskania przydzielonych czasów na start lub lądowanie lub wykorzystuje czasy na start lub lądowanie w sposób znacznie różniący się od sposobu wskazanego w chwili przydzielenia, gdy powoduje to zakłócenia w porcie lotniczym lub operacjach lotniczych, podlega karze pieniężnej w wysokości do 100 000 zł.
 
@@ -6781,7 +7157,7 @@ Art. 213–221. (pominięte)
 
 2. Wykaz obowiązków i warunków, o których mowa w ust. 1, oraz wysokość kar pieniężnych za poszczególne naruszenia określa załącznik nr 5a do ustawy. Art. 209ul. Podmiot, który nie usunął niezgodności stwierdzonych w ramach kontroli, o której mowa w art. 29b ust. 7, dotyczących wykonania obowiązków określonych w art. 188e ust. 1, podlega karze pieniężnej w wysokości do 5000 zł. Art. 209um. 1. Przewoźnik lotniczy, który narusza obowiązki lub warunki wynikające z przepisów art. 23 rozporządzenia nr 1008/2008/WE, podlega karze pieniężnej w wysokości do 20 000 zł.
 
-2. Wykaz naruszeń obowiązków, o których mowa w ust. 1, oraz wysokość kar pieniężnych za poszczególne naruszenia określa załącznik nr 5b do ustawy. Art. 209un. 1. Kto wykonuje operacje z użyciem systemu bezzałogowego statku powietrznego niezgodnie z warunkami wykonywania operacji w danej strefie geograficznej, podlega karze pieniężnej w wysokości 10 000 zł za każde naruszenie.
+2. Wykaz naruszeń obowiązków, o których mowa w ust. 1, oraz wysokość kar pieniężnych za poszczególne naruszenia określa załącznik nr 5b do ustawy. Art. 209un. 76) 1. Kto wykonuje operacje z użyciem systemu bezzałogowego statku powietrznego niezgodnie z warunkami wykonywania operacji w danej strefie geograficznej, podlega karze pieniężnej w wysokości 10 000 zł za każde naruszenie.
 
 2. Operator systemu bezzałogowego statku powietrznego, który nie zarejestrował się w rejestrze operatorów, w przypadkach określonych w art. 14 ust. 5 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 10 000 zł.
 
@@ -6817,31 +7193,13 @@ Art. 213–221. (pominięte)
 
 18. Operator systemu bezzałogowego statku powietrznego, który wykonuje operację z użyciem systemu bezzałogowego statku powietrznego z naruszeniem art. 14 ust. 7 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 15 000 zł.
 
-19. Operator systemu bezzałogowego statku powietrznego, który wykonuje operację z użyciem systemu bezzałogowego statku powietrznego z naruszeniem art. 14 ust. 8 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 300 zł. Art. 209uo. 1. Operator statku powietrznego, który narusza obowiązek, o którym mowa w art. 5 ust. 1 rozporządzenia nr 2023/2405, podlega karze pieniężnej w złotych w wysokości dwukrotności kwoty stanowiącej iloczyn rocznej średniej ceny paliwa lotniczego za tonę i łącznej rocznej niezatankowanej ilości w rozumieniu art. 3 pkt 26 rozporządzenia nr 2023/2405 paliwa lotniczego określonej w sprawozdaniu, o którym mowa w art. 8 rozporządzenia nr 2023/2405, za rok poprzedzający.
-
-2. Prezes Urzędu ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego oraz udostępnia w Biuletynie Informacji Publicznej na swojej stronie podmiotowej roczną średnią cenę paliwa lotniczego za tonę oraz metodykę zastosowaną do ustalania tej ceny, na podstawie informacji podawanych przez EASA zgodnie z art. 13 ust. 1 rozporządzenia nr 2023/2405, w terminie do dnia 31 grudnia każdego roku, za poprzedni rok kalendarzowy. Roczną średnią cenę paliwa lotniczego za tonę ustala się w złotych według średniego kursu euro ogłaszanego przez Narodowy Bank Polski w tabeli kursów na dzień 31 stycznia każdego roku, a w przypadku gdy w tym roku Narodowy Bank Polski nie ogłasza średniego kursu euro w dniu 31 stycznia – według średniego kursu euro ogłoszonego w najbliższej po tej dacie tabeli kursów Narodowego Banku Polskiego, w roku ogłoszenia obwieszczenia.
-
-3. Prezes Urzędu umarza postępowanie w sprawie nałożenia kary pieniężnej, o której mowa w ust. 1, jeżeli operator statku powietrznego udowodni, że nie zrealizował obowiązku, o którym mowa w art. 5 ust. 1 rozporządzenia nr 2023/2405, w wyniku okoliczności, o których mowa w art. 12 ust. 2 rozporządzenia nr 2023/2405.
-
-4. Operator statku powietrznego, który nie przedstawił Prezesowi Urzędu sprawozdania, o którym mowa w art. 8 rozporządzenia nr 2023/2405, podlega karze pieniężnej w wysokości do 100 000 zł.
-
-5. Zarządzający lotniskiem będącym unijnym portem lotniczym w rozumieniu art. 3 pkt 1 rozporządzenia nr 2023/2405 albo traktowanym jako unijny port lotniczy w rozumieniu tego przepisu, który w terminie, o którym mowa w art. 66g, nie przekaże Prezesowi Urzędu informacji, o których mowa w art. 6 ust. 2 rozporządzenia nr 2023/2405, podlega karze pieniężnej w wysokości do 10 000 zł.
-
-6. Zarządzający lotniskiem będącym unijnym portem lotniczym w rozumieniu art. 3 pkt 1 rozporządzenia nr 2023/2405 albo traktowanym jako unijny port lotniczy w rozumieniu tego przepisu, który nie podjął wszelkich niezbędnych działań, o których mowa w art. 6 ust. 3 tego rozporządzenia, podlega karze pieniężnej w wysokości do 50 000 zł.
-
-7. Podmiot zajmujący się obsługą paliwa w rozumieniu art. 3 pkt 20 rozporządzenia nr 2023/2405 lub operator statku powietrznego, który na żądanie zarządzającego lotniskiem będącym unijnym portem lotniczym w rozumieniu art. 3 pkt 1 rozporządzenia nr 2023/2405 albo traktowanym jako unijny port lotniczy w rozumieniu tego przepisu nie przekaże temu zarządzającemu lotniskiem w terminie, o którym mowa w art. 66h, posiadanych informacji, o których mowa w art. 6 ust. 4 rozporządzenia nr 2023/2405, podlega karze pieniężnej w wysokości do 10 000 zł.
-
-8. Karę pieniężną, o której mowa w ust. 7, Prezes Urzędu wymierza po uzyskaniu od zarządzającego lotniskiem będącym unijnym portem lotniczym w rozumieniu art. 3 pkt 1 rozporządzenia nr 2023/2405 albo traktowanym jako unijny port lotniczy w rozumieniu tego przepisu pisemnego zawiadomienia o naruszeniu obowiązku, o którym mowa w ust. 7. Do zawiadomienia ten zarządzający lotniskiem dołącza dokumenty potwierdzające naruszenie obowiązku, o którym mowa w ust. 7, wraz z opisem tego naruszenia.
-
-9. Podmiot zajmujący się obsługą paliwa w rozumieniu art. 3 pkt 20 rozporządzenia nr 2023/2405 lub zarządzający lotniskiem będącym unijnym portem lotniczym w rozumieniu art. 3 pkt 1 rozporządzenia nr 2023/2405 albo traktowanym jako unijny port lotniczy w rozumieniu tego przepisu, który nie dostarczy operatorowi statku powietrznego w terminie określonym zgodnie z art. 66i ust. 1 dokumentów lub informacji niezbędnych do przygotowania przez tego operatora zgodnie z art. 5 ust. 2 rozporządzenia nr 2023/2405 należytego uzasadnienia nieosiągnięcia progu określonego w art. 5 ust. 1 rozporządzenia nr 2023/2405, podlega karze pieniężnej w wysokości do 10 000 zł.
-
-10. Karę pieniężną, o której mowa w ust. 9, Prezes Urzędu wymierza po uzyskaniu od operatora statku powietrznego pisemnego zawiadomienia o naruszeniu obowiązku, o którym mowa w ust. 9. Do zawiadomienia operator statku powietrznego dołącza dokumenty potwierdzające naruszenie obowiązku, o którym mowa w ust. 9, wraz z opisem tego naruszenia.
+19. Operator systemu bezzałogowego statku powietrznego, który wykonuje operację z użyciem systemu bezzałogowego statku powietrznego z naruszeniem art. 14 ust. 8 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 300 zł.
 
 **Art. 209w.**
 
-1. Kary pieniężne, o których mowa w art. 209a–209un oraz art. 209uo ust. 1, 4–7 i 9, nakłada Prezes Urzędu w drodze decyzji administracyjnej.
+1. Kary pieniężne, o których mowa w art. 209a–209un, nakłada Prezes Urzędu w drodze decyzji administracyjnej.
 
-2. Nakładając kary pieniężne, o których mowa w art. 209a ust. 2, art. 209b, art. 209c ust. 2 w zakresie naruszeń, o których mowa w pkt 3.2–3.6, 3.9 i 3.10 załącznika nr 3 do ustawy, art. 209e, art. 209f, art. 209l, art. 209m, art. 209ua–209uf, art. 209ul, art. 209um lub art. 209uo ust. 4–7 i 9, Prezes Urzędu bierze pod uwagę:
+2. Nakładając kary pieniężne, o których mowa w art. 209a ust. 2, art. 209b, art. 209c ust. 2 w zakresie naruszeń, o których mowa w pkt 3.2–3.6, 3.9 i 3.10 załącznika nr 3 do ustawy, art. 209e, art. 209f, art. 209l, art. 209m, art. 209ua–209uf, art. 209ul lub art. 209um, Prezes Urzędu bierze pod uwagę:
 
 - **1)** wagę i okoliczności naruszenia prawa;
 - **2)** częstotliwość niedopełniania w przeszłości obowiązku albo naruszania zakazu tego samego rodzaju co niedopełnienie obowiązku albo naruszenie zakazu, w następstwie którego ma być nałożona kara;
@@ -6853,10 +7211,6 @@ Art. 213–221. (pominięte)
 
 4. W przypadku stwierdzenia naruszenia, o którym mowa w art. 209h albo art. 209m, Prezes Urzędu, w drodze decyzji administracyjnej, określa zakres naruszenia oraz termin jego usunięcia pod rygorem nałożenia kary pieniężnej określonej w tych przepisach w przypadku nieusunięcia naruszenia w wyznaczonym terminie.
 
-5. Karę pieniężną, o której mowa w art. 209uo ust. 1, 4–7 i 9, uiszcza się w terminie 14 dni od dnia uprawomocnienia się decyzji o jej wymierzeniu na rachunek bankowy Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
-
-6. Prezes Urzędu przekazuje Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej informację o wymierzonej karze pieniężnej, o której mowa w art. 209uo ust. 1, 4–7 i 9, w terminie 14 dni od dnia uprawomocnienia się decyzji o jej wymierzeniu.
-
 **Art. 209x.**
 
 1. Zarządzający lotniskiem, który wbrew obowiązkowi określonemu w art. 68 ust. 4 nie zapewnia fizycznego oddzielenia pasażerów lotów wewnętrznych określonych w art. 2 pkt 3 rozporządzenia 2016/399/UE od pasażerów innych lotów podlegających odprawie granicznej, podlega karze pieniężnej w wysokości 20 000 zł.
@@ -6866,20 +7220,16 @@ Art. 213–221. (pominięte)
 3. Karę pieniężną, o której mowa w ust. 1 i 2, nakłada w drodze decyzji administracyjnej komendant placówki Straży Granicznej właściwy dla miejsca położenia lotniska międzynarodowego, na którym jest utworzone lotnicze przejście graniczne. Art. 209xa. 1. Zarządzający lotniskiem, przewoźnik lotniczy i Polska Agencja Żeglugi Powietrznej, którzy:
 
 - **1)** nie realizują obowiązku określonego w art. 189f ust. 5 zdanie pierwsze,
-- **2)** realizując obowiązek określony w art. 189f ust. 6, przekazują informację nieprawdziwą lub niepełną za dany kwartał – podlegają karze pieniężnej w wysokości od 2000 do 20 000 zł.
+- **2)** realizując obowiązek określony w art. 189f ust. 6, przekazują informację nieprawdziwą lub niepełną za dany kwartał podlegają karze pieniężnej w wysokości od 2000 do 20 000 zł.
 
 2. Karę pieniężną, o której mowa w ust. 1, nakłada, w drodze decyzji administracyjnej, Komendant Główny Straży Granicznej po stwierdzeniu uchybień w ramach kontroli. Art. 209xb. 1. Podmiot, na którego wniosek Prezes Urzędu występuje o informację o istnieniu negatywnych przesłanek, który:
 
 - **1)** nie realizuje obowiązku określonego w art. 189f ust. 5 zdanie drugie,
-- **2)** nie realizuje obowiązku określonego w art. 189f ust. 8 lub realizując ten obowiązek, przekazuje informację nieprawdziwą lub niepełną za dany kwartał – podlega karze pieniężnej w wysokości od 2000 do 20 000 zł.
+- **2)** nie realizuje obowiązku określonego w art. 189f ust. 8 lub realizując ten obowiązek, przekazuje informację nieprawdziwą lub niepełną za dany kwartał podlega karze pieniężnej w wysokości od 2000 do 20 000 zł.
 
 2. Karę pieniężną, o której mowa w ust. 1, nakłada, w drodze decyzji administracyjnej, Prezes Urzędu po stwierdzeniu uchybień w ramach kontroli, o której mowa w art. 29b ust. 7.
 
-**Art. 209y.**
-
-1. Należności z tytułu kar pieniężnych stanowią dochód budżetu państwa, z wyjątkiem należności z tytułu kar pieniężnych, o których mowa w art. 209uo ust. 1, 4–7 i 9, które stanowią przychód Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
-
-2. Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej przedstawia ministrowi właściwemu do spraw transportu, ministrowi właściwemu do spraw klimatu i Prezesowi Urzędu informację o wpłatach z tytułu kar pieniężnych, o których mowa w art. 209uo ust. 1, 4–7 i 9, dokonanych w danym roku kalendarzowym, do dnia 31 marca roku następującego po roku, którego dotyczy informacja.
+**Art. 209y.** Należności z tytułu kar pieniężnych stanowią dochód budżetu państwa.
 
 ### DZIAŁ XII Przepisy karne
 
@@ -6901,7 +7251,7 @@ Art. 213–221. (pominięte)
 - **12)** (uchylony)
 - **13)** działając we własnym imieniu lub za osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, nie zgłasza zaistniałego zdarzenia, o którym mowa w art. 137 ust. 4 ustawy
 - **14)** (uchylony)
-- **15)** (uchylony) – podlega karze grzywny.
+- **15)** (uchylony) podlega karze grzywny.
 
 2. Tej samej karze podlega, kto, nie dopełniając ciążącego na nim obowiązku, dopuszcza do popełnienia czynów określonych w ust. 1.
 
@@ -6927,7 +7277,7 @@ Art. 213–221. (pominięte)
     - **b)** uniemożliwia lub utrudnia wykonywanie przez członków Komisji lub osoby, o których mowa w art. 136 ust. 3 i 3a, czynności, o których mowa w art. 136 ust. 1 i 2,
 
 - **11)** (uchylony)
-- **12)** wbrew zakazom określonym w art. 87a emituje lub powoduje emisję wiązki lasera lub światła z innych źródeł w kierunku statku powietrznego w sposób mogący spowodować olśnienie, oślepienie lub wystąpienie poświaty i w rezultacie stworzyć zagrożenie dla bezpieczeństwa statku powietrznego lub zdrowia załogi i pasażerów na jego pokładzie – podlega grzywnie, karze ograniczenia wolności lub pozbawienia wolności do roku.
+- **12)** wbrew zakazom określonym w art. 87a emituje lub powoduje emisję wiązki lasera lub światła z innych źródeł w kierunku statku powietrznego w sposób mogący spowodować olśnienie, oślepienie lub wystąpienie poświaty i w rezultacie stworzyć zagrożenie dla bezpieczeństwa statku powietrznego lub zdrowia załogi i pasażerów na jego pokładzie podlega grzywnie, karze ograniczenia wolności lub pozbawienia wolności do roku.
 
 2. Tym samym karom podlega, kto, nie dopełniając ciążącego na nim obowiązku, dopuszcza do popełnienia czynów określonych w ust. 1.
 
@@ -6943,15 +7293,15 @@ Art. 213–221. (pominięte)
 
 - **2)** wbrew art. 116 ust. 1 wnosi lub używa na pokładzie statku powietrznego broni palnej, broni gazowej lub materiałów wybuchowych,
 - **3)** wbrew art. 125 ust. 1 ustawy używa obowiązujących w ruchu lotniczym znaków i sygnałów do celów niezwiązanych z tym ruchem albo w sposób mogący wprowadzić w błąd organy służby ruchu lotniczego lub załogi statków powietrznych,
-- **4)** wbrew art. 125 ust. 2 używa nadawczych urządzeń radiowych działających w pasmach częstotliwości wyznaczonych na podstawie przepisów art. 62 ust. 3 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej dla łączności lotniczej oraz radiolokacji i radionawigacji lotniczej,
+- **4)** wbrew art. 125 ust. 2 używa nadawczych urządzeń radiowych działających w pasmach częstotliwości wyznaczonych na podstawie przepisów art. 62 ust. 3 ustawy z dnia 12 lipca 2024 r. Prawo komunikacji elektronicznej dla łączności lotniczej oraz radiolokacji i radionawigacji lotniczej,
 - **5)** uszkadza lub czyni niezdolnym do użycia lotnisko albo znajdujące się na lotnisku lub poza nim urządzenia służące dla potrzeb ruchu lotniczego,
-- **6)** używając jakiegokolwiek urządzenia, substancji lub broni, niszczy lub poważnie uszkadza znajdujące się na lotnisku i niewykonujące operacji lotniczych statki powietrzne albo powoduje przerwę w działalności tego lotniska, zagrażając bezpieczeństwu tego lotniska – podlega karze pozbawienia wolności do lat 5.
+- **6)** używając jakiegokolwiek urządzenia, substancji lub broni, niszczy lub poważnie uszkadza znajdujące się na lotnisku i niewykonujące operacji lotniczych statki powietrzne albo powoduje przerwę w działalności tego lotniska, zagrażając bezpieczeństwu tego lotniska podlega karze pozbawienia wolności do lat 5.
 
 2. Tej samej karze podlega, kto, nie dopełniając ciążącego na nim obowiązku, dopuszcza do popełnienia czynów określonych w ust. 1.
 
 3. Jeżeli sprawca działa nieumyślnie, podlega grzywnie, karze ograniczenia wolności lub pozbawienia wolności do roku.
 
-**Art. 212a.** Nie podlega karze za przestępstwa nieumyślne określone w dziale XII ustawy oraz w art. 174 § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383) oraz wykroczenia nieumyślne określone w dziale XII ustawy, z wyjątkiem art. 210 ust. 1 pkt 1–3a, zgłaszający zdarzenie lotnicze w ramach obowiązkowego lub dobrowolnego systemu zgłaszania zdarzeń, o których mowa w art. 135a i art. 135c, lub osoba wymieniona w zgłoszeniu, jeżeli o przestępstwie albo o wykroczeniu organy ścigania zostały zawiadomione w związku z tym zgłoszeniem, zanim organy te dowiedziały się o tym przestępstwie lub wykroczeniu.
+**Art. 212a.** Nie podlega karze za przestępstwa nieumyślne określone w dziale XII ustawy oraz w art. 174 § 2 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2025 r. poz. 383) oraz wykroczenia nieumyślne określone w dziale XII ustawy, z wyjątkiem art. 210 ust. 1 pkt 1–3a, zgłaszający zdarzenie lotnicze w ramach obowiązkowego lub dobrowolnego systemu zgłaszania zdarzeń, o których mowa w art. 135a i art. 135c, lub osoba wymieniona w zgłoszeniu, jeżeli o przestępstwie albo o wykroczeniu organy ścigania zostały zawiadomione w związku z tym zgłoszeniem, zanim organy te dowiedziały się o tym przestępstwie lub wykroczeniu.
 
 ### DZIAŁ XIII Zmiany w przepisach obowiązujących, przepisy przejściowe, dostosowujące i końcowe
 
@@ -6989,6 +7339,9 @@ Art. 213–221. (pominięte)
 
 **Art. 225a.** Do dnia 29 marca 2012 r., przepisów art. 71c ust. 1 nie stosuje się do obcych cywilnych samolotów zarejestrowanych we właściwych rejestrach państw rozwijających się spełniających łącznie następujące warunki:
 
+- **1)** wykonywały operacje lotnicze w porcie lotniczym położonym na terytorium państwa członkowskiego Unii Europejskiej w okresie od dnia 1 stycznia 1996 r. do dnia 31 grudnia 2001 r.;
+- **2)** w okresie, o którym mowa w pkt 1, były zarejestrowane we właściwym rejestrze państwa rozwijającego się i nadal są użytkowane przez osobę fizyczną zamieszkałą w tym kraju, jednostkę organizacyjną nieposiadającą osobowości prawnej lub osobę prawną z siedzibą w tym kraju.
+
 **Art. 226.**
 
 1. Z dniem wejścia w życie ustawy minister właściwy do spraw transportu przekazuje Prezesowi Urzędu, wraz z aktami, sprawy, które przechodzą do zakresu jego działania i nie zostały zakończone do tego dnia.
@@ -7019,7 +7372,1355 @@ Art. 213–221. (pominięte)
 
 #### Rozdział 3 Przepisy końcowe
 
-**Art. 231.** Traci moc ustawa z dnia 31 maja 1962 r. – Prawo lotnicze (Dz. U. poz. 153, z późn. zm. ).
+**Art. 231.** Traci moc ustawa z dnia 31 maja 1962 r. Prawo lotnicze (Dz. U. poz. 153, z późn. zm. ).
 
-**Art. 232.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia , z wyjątkiem art. 226 ust. 3 i art. 228 ust. 1, które wchodzą w życie z dniem ogłoszenia ustawy.
+**Art. 232.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia , z wyjątkiem art. 226 ust. 3 i art. 228 ust. 1, które wchodzą w życie z dniem ogłoszenia ustawy. Lp. Wyszczególnienie naruszeń Wysokość kary w zł I II III 1. Naruszenie przepisów rozporządzenia wykonawczego Komisji (UE) nr 2015/1998 z dnia 5 listopada 2015 r. ustanawiającego szczegółowe środki w celu wprowadzenia w życie wspólnych podstawowych norm ochrony lotnictwa cywilnego 1.1. Naruszenie obowiązków, o których mowa w pkt 1.1.1, pkt 1.1.2.2 zdanie drugie, pkt 1.1.2.3 30 000 i pkt 1.1.3.3 załącznika do rozporządzenia 1.2. Naruszenie obowiązków, o których mowa w pkt 1.2.1.1‒1.2.2.6, pkt 1.2.3.1‒1.2.3.4, 50 000 pkt 1.2.3.7, pkt 1.2.6.3, pkt 1.2.6.7‒1.2.7.5 załącznika do rozporządzenia 1.3. Naruszenie obowiązków, o których mowa w pkt 1.3.1.1‒1.3.1.6, pkt 1.3.2.1 i pkt 1.3.2.2 50 000 załącznika do rozporządzenia 1.4. Naruszenie obowiązków, o których mowa w pkt 1.4.1.1, pkt 1.4.1.2, pkt 1.4.2.1 i pkt 1.4.4.1 załącznika do rozporządzenia 50 000 1.5. Naruszenie obowiązków, o których mowa w pkt 1.5 załącznika do rozporządzenia 30 000 1.6. Naruszenie obowiązków, o których mowa w pkt 3.1.1.1, pkt 3.1.1.3 i pkt 3.1.3 załącznika do 50 000 rozporządzenia 1.7. Naruszenie obowiązków, o których mowa w pkt 3.2.1.1, pkt 3.2.2.1‒3.2.2.4 załącznika do 30 000 rozporządzenia 1.8. Naruszenie obowiązków, o których mowa w pkt 4.1.1.1‒4.1.1.6, pkt 4.1.1.9, pkt 4.1.1.10 50 000 zdanie pierwsze, drugie i czwarte, pkt 4.1.1.11, pkt 4.1.2.1‒4.1.2.9, pkt 4.1.2.11 i pkt 4.1.3.1 załącznika do rozporządzenia 1.9. Naruszenie obowiązków, o których mowa w pkt 4.4 załącznika do rozporządzenia 50 000 1.10. Naruszenie obowiązków, o których mowa w pkt 5.1.1‒5.1.4 i pkt 5.1.7 załącznika do rozpo- 50 000 rządzenia 1.11. Naruszenie obowiązków, o których mowa w pkt 5.2.1 i pkt 5.2.2 załącznika do rozporządzenia 30 000 1.12. Naruszenie obowiązków, o których mowa w pkt 5.3.1.1‒5.3.2.1 załącznika do rozporządzenia 20 000 1.13. Naruszenie obowiązków, o których mowa w pkt 5.4 załącznika do rozporządzenia 50 000 1.14. Naruszenie obowiązków, o których mowa w pkt 6.2.1.1, pkt 6.2.1.2, pkt 6.2.1.4‒6.2.1.6 załącznika do rozporządzenia 50 000 1.15. Naruszenie obowiązków, o których mowa w pkt 6.3.1.3, pkt 6.3.2.1‒6.3.2.3, pkt 6.3.2.5, 30 000 pkt 6.3.2.6 lit. a, b, d‒g, pkt 6.3.2.7 zdanie pierwsze, pkt 6.3.2.8 i pkt 6.3.2.9 zdanie pierwsze załącznika do rozporządzenia 1.16. Naruszenie obowiązków, o których mowa w pkt 6.4.1.3, pkt 6.4.2.1 i pkt 6.4.2.2 załącznika 30 000 do rozporządzenia 1.17. Naruszenie obowiązków, o których mowa w pkt 6.5.1, pkt 6.5.3 i pkt 6.5.4 załącznika do roz- 30 000 porządzenia 1.18. Naruszenie obowiązków, o których mowa w pkt 6.6 załącznika do rozporządzenia 30 000 1.19. Naruszenie obowiązków, o których mowa w pkt 6.8.3 i pkt 6.8.5.4 załącznika do rozporzą- 30 000 dzenia 1.20. Naruszenie obowiązków, o których mowa w pkt 7.1.1 i pkt 7.1.2 załącznika do rozporządzenia 30 000 1.21. Naruszenie obowiązków, o których mowa w pkt 7.2 załącznika do rozporządzenia 30 000 1.22. Naruszenie obowiązków, o których mowa w pkt 8.1.1.1, pkt 8.1.1.2, pkt 8.1.2.1, pkt 8.1.2.3, 50 000 pkt 8.1.4.1‒8.1.4.3, pkt 8.1.4.4 zdanie drugie i trzecie, pkt 8.1.4.5‒8.1.4.7, pkt 8.1.5.1 i pkt 8.1.5.2 załącznika do rozporządzenia 1.23. Naruszenie obowiązków, o których mowa w pkt 8.3.1 i pkt 8.3.2 załącznika do rozporządzenia 30 000 1.24. Naruszenie obowiązków, o których mowa w pkt 9.1.1.1, pkt 9.1.1.3, pkt 9.1.2.1, pkt 9.1.2.3, 50 000 pkt 9.1.3.1‒9.1.3.3, pkt 9.1.3.4 zdanie drugie i trzecie, pkt 9.1.3.5‒9.1.3.7 i pkt 9.1.4 załącznika do rozporządzenia 1.25. Naruszenie obowiązków, o których mowa w pkt 9.3.1 i pkt 9.3.2 załącznika do rozporządzenia 30 000 1.26. Naruszenie obowiązków, o których mowa w pkt 11.1.1‒11.1.3, pkt 11.1.5‒11.1.8 załącznika 30 000 do rozporządzenia 1.27. Naruszenie obowiązków, o których mowa w pkt 11.2.1.11, pkt 11.2.1.2, pkt 11.2.1.4, 30 000 pkt 11.2.2‒11.2.7 załącznika do rozporządzenia 1.28. Naruszenie obowiązków, o których mowa w pkt 11.3 załącznika do rozporządzenia 30 000 1.29. Naruszenie obowiązków, o których mowa w pkt 11.4 załącznika do rozporządzenia 30 000 1.30. Naruszenie obowiązków, o których mowa w pkt 11.5.1 i pkt 11.5.2 załącznika do rozporzą- 30 000 dzenia 1.31. Naruszenie obowiązków, o których mowa w pkt 12.1.1, pkt 12.1.2.2‒12.1.4 załącznika do rozporządzenia 50 000 1.32. Naruszenie obowiązków, o których mowa w pkt 12.2.2 i pkt 12.2.4 załącznika do rozporzą- 30 000 dzenia 1.33. Naruszenie obowiązków, o których mowa w pkt 12.4.1, pkt 12.4.2.1, pkt 12.4.2.5‒12.4.2.9 50 000 załącznika do rozporządzenia 1.34. Naruszenie obowiązków, o których mowa w pkt 12.5.1.1 zdanie pierwsze, czwarte‒siódme, 30 000 pkt 12.5.1.2‒12.5.1.4, pkt 12.5.2.1‒12.5.2.4 załącznika do rozporządzenia 1.35. Naruszenie obowiązków, o których mowa w pkt 12.6.1 i pkt 12.6.2 załącznika do rozporzą- 50 000 dzenia 1.36. Naruszenie obowiązków, o których mowa w pkt 12.7.1, pkt 12.7.2.2 załącznika do rozporzą- 50 000 dzenia 1.37. Naruszenie obowiązków, o których mowa w pkt 12.9.1.1, pkt 12.9.1.2, pkt 12.9.1.4‒12.9.1.6, 30 000 pkt 12.9.1.8, pkt 12.9.2.2‒12.9.2.8, pkt 12.9.3.1, pkt 12.9.3.3‒12.9.3.6, pkt 12.9.3.8‒12.9.3.11, pkt 12.9.3.13 i pkt 12.9.3.15 załącznika do rozporządzenia 1.38. Naruszenie obowiązków, o których mowa w pkt 12.11.1 akapity 3‒5, pkt 12.11.2.1, pkt 12.12.1, 50 000 pkt 12.12.2.2‒12.12.2.4 załącznika do rozporządzenia 2. Naruszenie przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 300/2008 z dnia 11 marca 2008 r. w sprawie wspólnych zasad w dziedzinie ochrony lotnictwa cywilnego i uchylającego rozporządzenie (WE) nr 2320/2002 2.1. Naruszenie obowiązków, o których mowa w art. 12 10 000 2.2. Naruszenie obowiązków, o których mowa w art. 13 10 000 2.3. Naruszenie obowiązków, o których mowa w art. 14 10 000 Lp. Wyszczególnienie naruszeń Wysokość kary w zł I II III 1 Naruszenia przepisów rozporządzenia (WE) nr 550/2004 Parlamentu Europejskiego i Rady z dnia 10 marca 2004 r. w sprawie zapewniania służb nawigacji lotniczej w Jednolitej Europejskiej Przestrzeni Powietrznej 1.1 Utrudnianie przez instytucję zapewniającą służby żeglugi powietrznej prac państwowej wła- 20 000 dzy nadzorującej polegających na weryfikowaniu spełniania przez tę instytucję wymogów rozporządzenia 1.2 Naruszenie przez instytucję zapewniającą służby żeglugi powietrznej obowiązku, o którym 40 000 mowa w art. 12 ust. 1 1.3 Naruszenie przez instytucję zapewniającą służby żeglugi powietrznej obowiązku, o którym 40 000 mowa w art. 12 ust. 2 1.4 Naruszenie przez instytucję zapewniającą służby żeglugi powietrznej obowiązku, o którym 20 000 mowa w art. 12 ust. 3 1.5 Naruszenie przez instytucję zapewniającą służby żeglugi powietrznej obowiązku, o którym 20 000 mowa w art. 13 ust. 1 1.6 Naruszenie przez instytucję zapewniającą służby żeglugi powietrznej obowiązku, o którym 20 000 mowa w art. 13 ust. 2 2 Naruszenia przepisów rozporządzenia (WE) nr 552/2004 Parlamentu Europejskiego i Rady z dnia 10 marca 2004 r. w sprawie interoperacyjności Europejskiej Sieci Zarządzania Ruchem Lotniczym 2.1 Naruszenie przez instytucję zapewniającą służby żeglugi powietrznej obowiązku, o którym 20 000 mowa w art. 6 ust. 2 3 Naruszenia przepisów rozporządzenia Komisji (UE) nr 255/2010 z dnia 25 marca 2010 r. ustanawiającego wspólne zasady zarządzania przepływem ruchu lotniczego 3.1 Naruszenie przez instytucję zapewniającą służby żeglugi powietrznej obowiązku, o którym 20 000 mowa w art. 6 ust. 3 3.2 Naruszenie przez instytucję zapewniającą służby żeglugi powietrznej obowiązku, o którym od 5000 mowa w art. 6 ust. 4 do 10 000 3.3 Naruszenie przez instytucję zapewniającą służby żeglugi powietrznej obowiązku przekazania którejkolwiek z informacji, o których mowa w art. 6 ust. 5 od 10 000 do 20 000 3.4 Naruszenie przez instytucję zapewniającą służby żeglugi powietrznej któregokolwiek z obo- od 15 000 wiązków, o których mowa w art. 6 ust. 6 do 30 000 3.5 Naruszenie przez użytkownika statku powietrznego obowiązku, o którym mowa w art. 9 ust. 2 od 5000 do 50 000 3.6 Naruszenie przez instytucję zapewniającą służby żeglugi powietrznej lub zarządzającego lot- od 10 000 niskiem obowiązku, o którym mowa w art. 10 ust. 2 do 20 000 3.7 Naruszenie przez instytucję zapewniającą służby żeglugi powietrznej obowiązku przekazywania przez organ ATS informacji o braku zgodności przestrzegania przydziałów czasu na start wynikających z ATFM w porcie lotniczym odlotu na poziomie 80 % lub poniżej w ciągu roku oraz o działaniach podjętych w celu zapewnienia przestrzegania przydziałów czasu na start wynikających z ATFM, o którym mowa w art. 11 ust. 1 10 000 3.8 Naruszenie przez instytucję zapewniającą służby żeglugi powietrznej obowiązku, o którym 10 000 mowa w art. 11 ust. 2 3.9 Naruszenie przez strony, o których mowa w art. 1 ust. 3 rozporządzenia Komisji (UE) nr 255/2010, od 10 000 obowiązku, o którym mowa w art. 14 ust. 1 lit. a lub b, polegającego na zapoznaniu członków do 20 000 personelu zaangażowanych w ATFM z przepisami rozporządzenia, odpowiedniego ich przeszkolenia i zapewnienia posiadania przez nich odpowiednich kompetencji do wykonywania powierzonych im zadań 3.10 Naruszenie przez strony, o których mowa w art. 1 ust. 3 rozporządzenia Komisji (UE) nr 255/2010, od 10 000 obowiązku, o którym mowa w art. 14 ust. 2 lit. a, b lub c, polegającego na: do 20 000
+
+- **a)** opracowaniu i przechowywaniu podręczników obsługi zawierających konieczne instrukcje i informacje umożliwiające ich personelowi stosowanie przepisów rozporządzenia Komisji (UE) nr 255/2010,
+- **b)** zagwarantowaniu, że podręczniki, o których mowa w lit. a, są spójne, dostępne i aktualizowane, a ich aktualizacja i dystrybucja podlega odpowiedniemu zarządzaniu w zakresie jakości i konfiguracji dokumentów,
+- **c)** zagwarantowaniu, że metody pracy i procedury operacyjne są zgodne z rozporządzeniem Komisji (UE) nr 255/2010 Lp. Wyszczególnienie naruszeń Wysokość kary w zł I II III 1 Naruszenie przepisów rozporządzenia Komisji (UE) nr 1321/2014 z dnia 26 listopada 2014 r. w sprawie ciągłej zdatności do lotu statków powietrznych oraz wyrobów lotniczych, części i wyposażenia, a także w sprawie zatwierdzeń udzielanych organizacjom i personelowi zaangażowanym w takie zadania
+
+1. 1 Naruszenie obowiązków, o których mowa w pkt M.A.202 załącznika Nr I 500
+
+1. 2 Naruszenie obowiązków, o których mowa w pkt M.A.301 załącznika Nr I od 1000 do 5000
+
+1. 2a Naruszenie obowiązków, o których mowa w pkt M.A. 302 (a), (b), (g) załącznika Nr I 500
+
+1. 2b Naruszenie obowiązków, o których mowa w pkt M.A. 303 załącznika Nr I 1000
+
+1. 3 Naruszenie obowiązków, o których mowa w pkt M.A.304 załącznika Nr I od 2000 do 5000
+
+1. 4 Naruszenie obowiązków, o których mowa w pkt M.A.305 (a), (e), (f) załącznika Nr I 2000
+
+1. 4a Naruszenie obowiązków, o których mowa w pkt M.A. 306 załącznika Nr I 3000
+
+1. 5 Naruszenie obowiązków, o których mowa w pkt M.A.401 (a) załącznika Nr I 2000
+
+1. 6 Naruszenie obowiązków, o których mowa w pkt M.A.402 (b) załącznika Nr I 1000
+
+1. 7 Naruszenie obowiązków, o których mowa w pkt M.A.501 załącznika Nr I 3000
+
+1. 8 Naruszenie obowiązków, o których mowa w pkt M.A.502 załącznika Nr I 5000
+
+1. 9 Naruszenie obowiązków, o których mowa w pkt M.A.503 załącznika Nr I 5000
+
+1. 10 Naruszenie obowiązków, o których mowa w pkt M.A.612 załącznika Nr I 5000
+
+1. 11 Naruszenie obowiązków, o których mowa w pkt M.A.613 (a) załącznika Nr I 5000
+
+1. 12 Naruszenie obowiązków, o których mowa w pkt M.A.614 załącznika Nr I 2000
+
+1. 13 Naruszenie obowiązków, o których mowa w pkt M.A.617 załącznika Nr I 2000
+
+1. 14 Naruszenie obowiązków, o których mowa w pkt M.A.619 (c) załącznika Nr I 5000
+
+1. 15 Naruszenie obowiązków, o których mowa w pkt M.A.709 (a) załącznika Nr I 2000
+
+1. 16 Naruszenie obowiązków, o których mowa w pkt M.A.710 (e), (h) załącznika Nr I 10 000
+
+1. 17 Naruszenie obowiązków, o których mowa w pkt M.A.713 załącznika Nr I 2000
+
+1. 18 Naruszenie obowiązków, o których mowa w pkt M.A.714 załącznika Nr I 2000
+
+1. 19 Naruszenie obowiązków, o których mowa w pkt M.A.716 (c) załącznika Nr I 5000
+
+1. 20 Naruszenie obowiązków, o których mowa w pkt M.A.803 (c) załącznika Nr I 2000
+
+1. 21 Naruszenie obowiązków, o których mowa w pkt M.A.902 (b) załącznika Nr I 10 000
+
+1. 22 Naruszenie obowiązków, o których mowa w pkt M.A.905 (c) załącznika Nr I 5000
+
+1. 23 Naruszenie obowiązków, o których mowa w pkt 145.A.40 (b) załącznika Nr II 1000
+
+1. 24 Naruszenie obowiązków, o których mowa w pkt 145.A.42 (b), (c) załącznika Nr II 5000
+
+1. 25 Naruszenie obowiązków, o których mowa w pkt 145.A.45 (a) załącznika Nr II 5000
+
+1. 26 Naruszenie obowiązków, o których mowa w pkt 145.A.50 (a), (d), (f) załącznika Nr II 10 000
+
+1. 27 Naruszenie obowiązków, o których mowa w pkt 145.A.55 (a) załącznika Nr II 10 000
+
+1. 28 Naruszenie obowiązków, o których mowa w pkt 145.A.60 (a) załącznika Nr II 500
+
+1. 29 Naruszenie obowiązków, o których mowa w pkt 145.A.80 załącznika Nr II 10 000
+
+1. 30 Naruszenie obowiązków, o których mowa w pkt 145.A.85 załącznika Nr II 2000
+
+1. 31 Naruszenie obowiązków, o których mowa w pkt 145.A.95 (c) załącznika Nr II 5000
+
+1. 32 Naruszenie obowiązków, o których mowa w pkt 66.A.20 (a) załącznika Nr III 2000
+
+1. 33 Naruszenie obowiązków, o których mowa w pkt 66.A.20 (b) załącznika Nr III 2000
+
+1. 34 Naruszenie obowiązku, o którym mowa w pkt 66.A.45 (b) załącznika Nr III 2000
+
+1. 35 Naruszenie obowiązków, o których mowa w pkt 147.A.100 (a) i (b) załącznika Nr IV 5000
+
+1. 36 Naruszenie obowiązku, o którym mowa w pkt 147.A.100 (e) załącznika Nr IV 5000
+
+1. 37 Naruszenie obowiązku, o którym mowa w pkt 147.A.100 (f) załącznika Nr IV 5000
+
+1. 38 Naruszenie obowiązku, o którym mowa w pkt 147.A.100 (i) załącznika Nr IV 5000
+
+1. 39 Naruszenie obowiązku, o którym mowa w pkt 147.A.105 (a) załącznika Nr IV 5000
+
+1. 40 Naruszenie obowiązku, o którym mowa w pkt 147.A.105 (b) załącznika Nr IV 5000
+
+1. 41 Naruszenie obowiązku, o którym mowa w pkt 147.A.105 (g) załącznika Nr IV 5000
+
+1. 42 Naruszenie obowiązku, o którym mowa w pkt 147.A.105 (h) załącznika Nr IV 5000
+
+1. 43 Naruszenie obowiązku, o którym mowa w pkt 147.A.110 (a) załącznika Nr IV 5000
+
+1. 44 Naruszenie obowiązku, o którym mowa w pkt 147.A.110 (b) załącznika Nr IV 5000
+
+1. 45 Naruszenie obowiązku, o którym mowa w pkt 147.A.125 załącznika Nr IV 10 000
+
+1. 46 Naruszenie obowiązku, o którym mowa w pkt 147.A.130 (a) załącznika Nr IV 5000
+
+1. 47 Naruszenie obowiązku, o którym mowa w pkt 147.A.130 (b) załącznika Nr IV 10 000
+
+1. 48 Naruszenie obowiązku, o którym mowa w pkt 147.A.135 (a) załącznika Nr IV 10 000
+
+1. 49 Naruszenie obowiązku, o którym mowa w pkt 147.A.140 (b) załącznika Nr IV 5000
+
+1. 50 Naruszenie obowiązku, o którym mowa w pkt 147.A.145 (b) i (c) załącznika Nr IV 5000
+
+1. 51 Naruszenie obowiązków, o których mowa w pkt 147.A.145 (d) załącznika Nr IV 10 000
+
+1. 52 Naruszenie obowiązków, o których mowa w pkt 147.A.150 załącznika Nr IV 5000
+
+1. 53 Naruszenie obowiązków, o których mowa w pkt 147.A. załącznika Nr IV 10 000
+
+1. 54 Naruszenie obowiązku, o którym mowa w pkt 147.A.300 załącznika Nr IV 10 000 2 Naruszenie przepisów rozporządzenia Komisji (UE) nr 748/2012 z dnia 3 sierpnia 2012 r. ustanawiającego przepisy wykonawcze dotyczące certyfikacji statków powietrznych i związanych z nimi wyrobów, części i akcesoriów w zakresie zdatności do lotu i ochrony środowiska oraz dotyczące certyfikacji organizacji projektujących i produkujących
+
+2. 1 Naruszenie obowiązków, o których mowa w pkt 21.A.2 od 1000 do 5000
+
+2. 2 Naruszenie obowiązków, o których mowa w pkt 21.A.3A 1000
+
+2. 3 Naruszenie obowiązków, o których mowa w pkt 21.A.44 od 1000 do 5000
+
+2. 4 Naruszenie obowiązków, o których mowa w pkt 21.A.61, 21.A.107, 21.A.120A, 21.A.120B 3000 lub 21.A.449
+
+2. 5 Naruszenie obowiązków, o których mowa w pkt 21.A.129 5000
+
+2. 6 Naruszenie obowiązków, o których mowa w pkt 21.A.165 10 000
+
+2. 7 Naruszenie obowiązków, o których mowa w pkt 21.A.177 10 000
+
+2. 8 Naruszenie obowiązków, o których mowa w pkt 21.A.181 (a) ppkt 1 i 2 5000
+
+2. 9 Naruszenie obowiązków, o których mowa w pkt 21.A.265 10 000
+
+2. 10 Naruszenie obowiązków, o których mowa w pkt 21.A.723 (a), (b) 10 000
+
+2. 11 Naruszenie obowiązków, o których mowa w pkt 21.A.727 5000
+
+2. 12 Naruszenie obowiązków, o których mowa w pkt 21.A.804 lub 21.A.805 lub 21.A.807 od 1000 do 5000 Lp. Wyszczególnienie naruszeń Wysokość kary w zł I II III Naruszenie przepisów rozporządzenia Komisji (UE) nr 965/2012 z dnia 5 października 2012 r. ustanawiającego wymagania techniczne i procedury administracyjne odnoszące się do operacji lotniczych zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008
+
+1. Użytkowanie statku powietrznego niezgodnie z zatwierdzonym wykazem wyposażenia 5000 Minimalnego (MEL) lub z przekroczeniem jego ograniczeń
+
+2. Wykonywanie operacji lotniczych bez posiadania zatwierdzenia szczególnego wpisanego 10 000 do specyfikacji operacyjnej AOC albo wykazu zatwierdzeń szczególnych
+
+3. (uchylony)
+
+4. (uchylony)
+
+5. (uchylony)
+
+6. Skasowanie zapisów rejestratorów pokładowych, co stanowi naruszenie obowiązku, o którym 10 000 mowa w CAT.GEN.MPA.105 lit. a pkt 10 załącznika IV
+
+7. Nieprzekazanie do Prezesa Urzędu informacji, o których mowa w CAT.OP.MPA.315 załącz- 5000 nika IV Lp. Wyszczególnienie naruszeń Wysokość kary w zł I II III Naruszenie przepisów rozporządzenia Komisji (UE) nr 139/2014 ustanawiającego wymagania oraz procedury administracyjne dotyczące lotnisk zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008
+
+1. Nieuzyskanie zatwierdzenia Prezesa Urzędu przed wprowadzeniem zmiany mającej wpływ 10 000 na warunki certyfikatu, podstawę certyfikacji oraz wyposażenie lotniska o kluczowym znaczeniu dla bezpieczeństwa lub mającej wpływ na elementy systemu zarządzania wykorzystywanego przez zarządzającego lotniskiem, wbrew ADR.OR.B.040 lit. a i b załącznika III
+
+2. W przypadku wystąpienia na lotnisku stanu zagrażającego bezpieczeństwu niepodjęcie nie- 20 000 zwłocznie wszelkich niezbędnych działań w celu zapewnienia, by części lotniska stanowiące zagrożenie dla bezpieczeństwa nie były wykorzystywane przez statki powietrzne, wbrew obowiązkowi określonemu w ADR.OR.C.005 lit. d załącznika III
+
+3. Niewykazanie wdrożenia działań naprawczych w terminie uzgodnionym z Prezesem Urzędu, wbrew obowiązkowi określonemu w ADR.OR.C.20 lit. c załącznika III 10 000
+
+4. Niewdrożenie środków bezpieczeństwa, w tym wytycznych bezpieczeństwa wskazanych 20 000 przez Prezesa Urzędu, wbrew obowiązkowi określonemu w ADR.OR.C.025 załącznika III Lp. Wyszczególnienie naruszeń Wysokość kary w zł I II III Naruszenie przepisów rozporządzenia nr 1008/2008/WE Parlamentu Europejskiego i Rady z dnia 24 września 2008 r. w sprawie wspólnych zasad wykonywania przewozów lotniczych na terenie Wspólnoty
+
+1. Naruszenie obowiązku zawierania obowiązujących warunków przewozu lotniczego, o których do 12 000 mowa w art. 23 ust. 1 zdanie 1, w oferowanych lub opublikowanych taryfach lotniczych i stawkach lotniczych
+
+2. Naruszenie obowiązku wskazywania w ofercie lub publikacji ostatecznej ceny, którą należy do 20 000 zapłacić, o której mowa w art. 23 ust. 1 zdanie 2
+
+3. Naruszenie obowiązków, o których mowa w art. 23 ust. 1 lit. a–d, polegające na nieujawnia- do 16 000 niu, o ile występują, kwot wymienionych w art. 23 ust. 1 lit. a–d
+
+4. Naruszenie obowiązków, o których mowa w art. 23 ust. 1 lit. a–d, polegające na podawaniu informacji o poszczególnych częściach składowych ceny w sposób łączny, jako jedną kwotę należną do 8000
+
+5. Naruszenie obowiązku, o którym mowa w art. 23 ust. 1, polegające na nieprzekazywaniu infor- do 8000 macji o dodatkowych dopłatach do ceny na początku procesu rezerwacji w sposób wyraźny, przejrzysty i umożliwiający wyrażenie przez klienta zgody na zasadzie opcjonalnej (opt-in) OBJAŚNIENIA TERMINÓW UŻYTYCH W ZAŁĄCZNIKU Ilekroć w załączniku nr 6 jest mowa o:
+
+- **1)** certyfikacie AHAC (Airport Handling Agent Certificate) należy przez to rozumieć certyfikat agenta obsługi naziemnej;
+- **2)** certyfikacie AMO (Approved Maintenance Organization) należy przez to rozumieć certyfikat jednostki obsługi technicznej i napraw;
+- **3)** certyfikacie AOC (Air Operation Certificate) należy przez to rozumieć certyfikat przewoźnika lotniczego;
+- **3a)** certyfikacie ATO (Approved Training Organization) należy przez to rozumieć certyfikat podmiotu prowadzącego działalność szkoleniową w zakresie lotnictwa cywilnego upoważniający do prowadzenia szkolenia członków personelu lotniczego wchodzącego w skład załóg statków powietrznych, z wyjątkiem specjalności, o których mowa w art. 94 ust. 6 pkt 1 lit. j, k, r oraz s ustawy;
+- **4)** (uchylony)
+- **5)** certyfikacie CAMO (Continuing Airworthiness Management Organization) należy przez to rozumieć certyfikat zarządzania ciągłą zdatnością do lotu;
+- **6)** (uchylony) 6a) certyfikacie ATCO TO (ATCO TO Air Traffic Controller Training Organisation) należy przez to rozumieć certyfikat organizacji szkolącej kontrolerów ruchu lotniczego potwierdzający zdolność podmiotu do prowadzenia szkolenia kontrolerów ruchu lotniczego, o których mowa w art. 94 ust. 6 pkt 4 i 4a ustawy, w zakresie wymaganym do uzyskania licencji oraz wpisywanych do niej uprawnień;
+- **6b)** certyfikacie FISP TO (FISP TO Flight Information Service Personnel Training Organisation) należy przez to rozumieć certyfikat organizacji szkolącej personel służb informacji powietrznej potwierdzający zdolność podmiotu do prowadzenia szkolenia personelu służb informacji powietrznej, o którym mowa w art. 95 ust. 2 pkt 8 i 9 ustawy, w zakresie wymaganym do uzyskania świadectwa kwalifikacji oraz wpisywanych do niego uprawnień;
+- **7)** certyfikacie CTO (Certified Training Organization) należy przez to rozumieć certyfikat podmiotu prowadzącego działalność szkoleniową w zakresie lotnictwa cywilnego upoważniający do prowadzenia szkolenia członków personelu lotniczego w zakresie wymaganym do uzyskania licencji pilota wiatrakowcowego turystycznego, pilota wiatrakowcowego zawodowego, nawigatora lotniczego, mechanika pokładowego, dyspozytora lotniczego lub uprawnień wpisywanych do tych licencji;
+- **8)** certyfikacie FSTD (Flight Simulation Training Device) należy przez to rozumieć certyfikat kwalifikacji szkoleniowego urządzenia symulacji lotów, o którym mowa w rozporządzeniu Komisji (UE) nr 1178/2011 z dnia 3 listopada 2011 r. ustanawiającym wymagania techniczne i procedury administracyjne odnoszące się do załóg w lotnictwie cywilnym zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008;
+- **9)** (uchylony)
+- **10)** certyfikacie POA (Production Organization Approval) należy przez to rozumieć certyfikat jednostki produkującej wyroby, części i akcesoria;
+- **11)** certyfikacie MTO (Approved Maintenance Training and Examination Organization) należy przez to rozumieć certyfikat podmiotu prowadzącego działalność szkoleniową lub organizacyjną w zakresie lotnictwa cywilnego upoważniający do prowadzenia szkolenia członków personelu lotniczego w zakresie wymaganym do uzyskania licencji lub uprawnień wpisywanych do licencji mechanika lotniczego obsługi technicznej;
+- **11a)** certyfikacie LUC należy przez to rozumieć certyfikat operatora lekkich systemów bezzałogowych statków powietrznych w rozumieniu art. 2 pkt 9 rozporządzenia nr 2019/947/UE;
+- **12)** (uchylony)
+- **13)** ICAO należy przez to rozumieć Organizację Międzynarodowego Lotnictwa Cywilnego;
+- **14)** Konwencji należy przez to rozumieć Konwencję, o której mowa w art. 3 ust. 2 ustawy;
+- **15)** licencji Part-66 należy przez to rozumieć licencję na obsługę techniczną statku powietrznego, wydaną zgodnie z załącznikiem III Część 66 do rozporządzenia Komisji (UE) nr 1321/2014 z dnia 26 listopada 2014 r. w sprawie ciągłej zdatności do lotu statków powietrznych oraz wyrobów lotniczych, części i wyposażenia, a także w sprawie zatwierdzeń udzielanych organizacjom i personelowi zaangażowanym w takie zadania;
+- **16)** IFR (Instrument Flight Rules) należy przez to rozumieć przepisy wykonywania lotów według wskazań przyrządów;
+- **17)** VFR (Visual Flight Rules) należy przez to rozumieć przepisy dla lotów z widocznością;
+- **18)** Part-21 należy przez to rozumieć część 21 załącznika I do rozporządzenia Komisji (UE) nr 748/2012 z dnia 3 sierpnia 2012 r. ustanawiającego przepisy wykonawcze dotyczące certyfikacji statków powietrznych i związanych z nimi wyrobów, części i akcesoriów w zakresie zdatności do lotu i ochrony środowiska oraz dotyczące certyfikacji organizacji projektujących i produkujących;
+- **19)** Part-66 należy przez to rozumieć Część 66 załącznika III do rozporządzenia nr 1321/2014/UE;
+- **20)** Part-145 należy przez to rozumieć Część 145 załącznika II do rozporządzenia nr 1321/2014/UE;
+- **21)** Part-147 należy przez to rozumieć Część 147 załącznika IV do rozporządzenia nr 1321/2014/UE;
+- **22)** Part M/F należy przez to rozumieć Część M podsekcję F załącznika I do rozporządzenia nr 1321/2014/UE;
+- **23)** Part M/G należy przez to rozumieć Część M podsekcję G załącznika I do rozporządzenia nr 1321/2014/UE;
+- **24)** PL-6 należy przez to rozumieć szczegółowe zasady dotyczące bezpieczeństwa eksploatacji statków powietrznych lotnictwa ogólnego i usługowego oraz obowiązków ich użytkowników zawarte w przepisach wydanych na podstawie art. 159 ust. 1 ustawy;
+- **25)** poświadczeniu ARC (Airworthiness Review Certificate) należy przez to rozumieć poświadczenie przeglądu zdatności do lotu statku powietrznego;
+- **26)** Prezesie Urzędu należy przez to rozumieć Prezesa Urzędu Lotnictwa Cywilnego;
+- **27)** rozporządzeniu 216/2008/WE należy przez to rozumieć rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 216/2008 z dnia 20 lutego 2008 r. w sprawie wspólnych zasad w zakresie lotnictwa cywilnego i utworzenia Europejskiej Agencji Bezpieczeństwa Lotniczego oraz uchylające dyrektywę Rady 91/670/EWG, rozporządzenie (WE) nr 1592/2002 i dyrektywę 2004/36/WE;
+- **28)** rozporządzeniu 3922/91/EWG należy przez to rozumieć rozporządzenie Rady EWG nr 3922/91 z dnia 16 grudnia 1991 r. w sprawie harmonizacji wymagań technicznych i procedur administracyjnych w dziedzinie lotnictwa cywilnego;
+- **28a)** rozporządzeniu nr 965/2012/UE należy przez to rozumieć rozporządzenie Komisji (UE) nr 965/2012 z dnia 5 października 2012 r. ustanawiające wymagania techniczne i procedury administracyjne odnoszące się do operacji lotniczych zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008;
+- **28b)** rozporządzeniu nr 139/2014/UE należy przez to rozumieć rozporządzenie (UE) Komisji nr 139/2014 z dnia 12 lutego 2014 r. ustanawiające wymagania oraz procedury administracyjne dotyczące lotnisk zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008;
+- **28c)** rozporządzeniu nr 2019/947/UE należy przez to rozumieć rozporządzenie wykonawcze Komisji (UE) 2019/947 z dnia 24 maja 2019 r. w sprawie przepisów i procedur dotyczących eksploatacji bezzałogowych statków powietrznych;
+- **29)** FFS (Full Flight Simulator) należy przez to rozumieć kompletny symulator lotu stanowiący pełnowymiarową replikę kabiny samolotu, włącznie z zabudową pełnego wyposażenia oraz instalacją programów komputerowych niezbędnych do odwzorowania konkretnego typu, rodzaju, modelu lub serii samolotu w warunkach na ziemi i w locie, z systemem wizualizacji zapewniającym widok na zewnątrz kabiny pilotów oraz system odwzorowywania ruchu;
+- **30)** FTD (Flight Training Device) należy przez to rozumieć urządzenie do szkolenia lotniczego stanowiące pełnowymiarową replikę przyrządów samolotów, jego wyposażenia, paneli i sterownic w otwartej lub zamkniętej kabinie załogi, zawierającą niezbędne wyposażenie i programy komputerowe reprezentujące odwzorowywany samolot w warunkach na ziemi i w locie bez systemu odwzorowywania ruchu lub systemu wizualizacji;
+- **31)** FNTP (Flight and Navigation Procedures Trainer) należy przez to rozumieć urządzenie do ćwiczenia procedur lotu i nawigacyjnych, które przedstawia kabinę i otoczenie włącznie z zabudową pełnego wyposażenia oraz instalacją programów komputerowych niezbędnych do odwzorowania danej klasy samolotu w warunkach na ziemi i w locie w takim stopniu, że systemy te działają tak jak systemy samolotu;
+- **32)** BITD (Basic Instrument Training Device) należy przez to rozumieć urządzenie do podstawowego szkolenia w lotach według wskazań przyrządów, które przedstawia stanowisko ucznia pilota w danej klasie samolotów przy wykorzystaniu tablicy przyrządów na bazie ekranu i sprężynowego urządzenia sterowania lotem, stanowiące platformę szkoleniową co najmniej w aspekcie proceduralnym lotu według wskazań przyrządów;
+- **33)** OTD (Other Training Devices) należy przez to rozumieć inne urządzenia szkoleniowe wykorzystywane do celów szkoleniowych, jeśli środowisko kabiny załogi nie jest konieczne.
+- **34)** (uchylony)
+- **35)** (uchylony)
+- **36)** (uchylony)
+- **37)** (uchylony)
+- **38)** (uchylony)
+- **39)** (uchylony) OPŁATY LOTNICZE Tabela nr 1 Wykaz czynności urzędowych i wysokość stawki opłaty lotniczej za koncesje, zezwolenia, promesy, licencje, certyfikaty, świadectwa, zaświadczenia i inne dokumenty Część I Koncesje i zezwolenia
+
+1. 1. Koncesje Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2
+
+1. W zakresie koncesji na przewóz lotniczy:
+
+- **1)** przyznanie uprawnień do wykonywania regularnego przewozu 6000 z wykorzystaniem statków powietrznych bez ograniczenia maksymalnej masy startowej (MTOM) i liczby miejsc pasażerskich
+- **2)** przyznanie uprawnień do wykonywania regularnego przewozu 4000 z wykorzystaniem statków powietrznych o maksymalnej masie startowej (MTOM) poniżej 10 000 kg lub liczbie miejsc pasażerskich poniżej 20
+- **3)** przyznanie uprawnień do wykonywania nieregularnego przewozu 5000 z wykorzystaniem statków powietrznych bez ograniczenia maksymalnej masy startowej (MTOM) i liczby miejsc pasażerskich
+- **4)** przyznanie uprawnień do wykonywania nieregularnego przewozu 2000 z wykorzystaniem statków powietrznych o maksymalnej masie startowej (MTOM) poniżej 10 000 kg lub liczbę miejsc pasażerskich poniżej 20
+- **5)** zmiana koncesji 10 % wynikającej z uprawnień stawki lub sumy stawek określonych w pkt 1–4
+
+2. Wydanie promesy koncesji na przewóz lotniczy 50 % stawki lub sumy stawek określonych w ust. 1 pkt 1–4, z uwzględnieniem zakresu uprawnień objętych promesą
+
+3. Związane z nadzorem nad koncesjonariuszami:
+
+- **1)** wyrażenie zgody na prowadzenie operacji przez wspólnotowego 2000 przewoźnika lotniczego leasingującego od innego przedsiębiorstwa statek powietrzny z załogą zarejestrowany w państwie niebędącym członkiem Konfederacji Szwajcarskiej, państwem członkowskim UE lub państwem członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym
+- **2)** zmiana decyzji w sprawie wyrażenia zgody na prowadzenie opera- 1000 cji przez wspólnotowego przewoźnika lotniczego leasingującego od innego przedsiębiorstwa statek powietrzny z załogą zarejestrowany w państwie niebędącym członkiem Konfederacji Szwajcarskiej, państwem członkowskim UE lub państwem członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, w zakresie:
+    - **a)** okresu na jaki została wyrażona zgoda
+    - **b)** przyznanych decyzją uprawnień
+
+- **3)** inne czynności związane ze zmianą decyzji w sprawie wyrażenia zgody na prowadzenie operacji przez wspólnotowego przewoźnika lotniczego leasingującego od innego przedsiębiorstwa statek powietrzny z załogą zarejestrowany w państwie niebędącym członkiem Konfederacji Szwajcarskiej, państwem członkowskim UE lub państwem członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym) 200
+
+1. 2. Zezwolenia Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2
+
+1. W zakresie zezwolenia na zarządzanie lotniskiem użytku publicznego:
+
+- **1)** przyznanie uprawnienia do zarządzania lotniskiem użytku publicz- 6000 nego
+- **2)** czynności związane ze zmianą zezwolenia na zarządzanie lotniskiem 600 użytku publicznego
+
+2. Promesa zezwolenia na zarządzanie lotniskiem użytku publicznego 3000
+
+3. W zakresie zezwolenia na obsługę naziemną na lotnisku użytku publicznego:
+
+- **1)** przyznanie uprawnień do wykonywania usług obsługi naziemnej na danym lotnisku użytku publicznego:
+    - **a)** w kat. 1 ogólne usługi administracyjno-gospodarcze 1000 wykonywane w interesie użytkowników
+    - **b)** w kat. 2 obsługa pasażerów 1000
+    - **c)** w kat. 3 obsługa bagażu 600
+    - **d)** w kat. 4 obsługa ładunków (towarów i poczty) 1000
+    - **e)** w kat. 5 obsługa płytowa statków powietrznych 1000
+    - **f)** w kat. 6 obsługa kabinowa statków powietrznych 1000
+    - **g)** w kat. 7 obsługa w zakresie zaopatrzenia statków po- 6000 wietrznych w paliwo, smary i inne materiały techniczne
+    - **h)** w kat. 8 obsługa techniczno-administracyjna statków po- 1000 wietrznych
+    - **i)** w kat. 9 obsługa operacyjna lotu i administracyjna załóg 1000 statków powietrznych
+    - **j)** w kat. 10 transport naziemny 1000
+    - **k)** w kat. 11 obsługa w zakresie zaopatrzenia pokładowego 1000 statków powietrznych
+
+- **2)** przyznanie uprawnień do wykonywania własnej obsługi naziem- 1000 nej na danym lotnisku użytku publicznego za każdą z kategorii określonych w ust. 3 pkt 1
+- **3)** czynności związane ze zmianą zezwolenia na obsługę naziemną 10 % stawki lub sumy stawek określonych na danym lotnisku użytku publicznego w pkt 1 i 2, z uwzględnieniem zakresu przyznanych uprawnień
+
+4. W zakresie zezwolenia na prawa sprzedaży:
+
+- **1)** zezwolenie na prowadzenie przez obcego przewoźnika lotniczego 6000 sprzedaży przewozów lotniczych na terytorium Rzeczypospolitej Polskiej
+- **2)** czynności związane ze zmianą zezwolenia na prowadzenie przez obcego przewoźnika lotniczego sprzedaży przewozów lotniczych na terytorium Rzeczypospolitej Polskiej 600
+
+5. Rozpatrzenie wniosku o wydanie upoważnienia na wykonywanie prze- 2093 wozów lotniczych na określonych trasach lub obszarach polskiemu przewoźnikowi lotniczemu lub przewoźnikowi lotniczemu posiadającemu koncesję udzieloną przez państwo członkowskie Unii Europejskiej, Konfederację Szwajcarską lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronę umowy o Europejskim Obszarze Gospodarczym
+
+6. (uchylony)
+
+7. Rozpatrzenie wniosku o wydanie zezwolenia na wykonywanie przez przewoźnika lotniczego z państwa trzeciego przewozów lotniczych do, z lub na terytorium Rzeczypospolitej Polskiej:
+
+- **1)** regularnych (zezwolenie eksploatacyjne) 20 927
+- **2)** nieregularnych (10 lub więcej nieregularnych lotów handlowych 15 695 w jednym sezonie rozkładowym zezwolenie ogólne)
+
+8. Rozpatrzenie wniosku o wydanie zezwolenia pojedynczego na wykonywanie przez przewoźnika lotniczego z państwa trzeciego przewozów 0 lotniczych do, z lub na terytorium Rzeczypospolitej Polskiej.
+
+9. Rozpatrzenie wniosku o zmianę lub dokonanie z urzędu zmiany 0 w upoważnieniu lub zezwoleniu, wskazanych w ust. 5–10
+
+10. Rozpatrzenie wniosku o wydanie zezwolenia pojedynczego na wyko- 15 695 nanie dziesiątego lub kolejnych nieregularnych lotów handlowych, obejmujących lądowanie handlowe na terytorium Rzeczypospolitej Polskiej, w danym sezonie rozkładowym dla przewoźnika lotniczego z państwa trzeciego.
+
+11. Rozpatrzenie wniosku o uznanie certyfikatu kompetencji pilota bez- 1000 załogowego statku powietrznego lub certyfikatu operatora systemu bezzałogowego statku powietrznego zgodnie z rozporządzeniem nr 2019/947/UE lub równoważnego dokumentu do celów operacji międzynarodowych z użyciem systemu bezzałogowego statku powietrznego przez operatora systemu bezzałogowego statku powietrznego z państwa trzeciego oraz jego uznanie
+
+12. Rozpatrzenie wniosku i wydanie decyzji w przedmiocie potwierdze- 1500 nia, o którym mowa w art. 13 ust. 2 rozporządzenia nr 2019/947/UE
+
+13. Rozpatrzenie wniosku i wydanie decyzji w przedmiocie zezwolenia, 500 o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE, na operację w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, wykonywaną z użyciem jednego systemu bezzałogowego statku powietrznego
+
+14. Rozpatrzenie wniosku i wydanie decyzji w przedmiocie zezwolenia, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE, na operację w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, wykonywane rojem bezzałogowych statków powietrznych 1000
+
+15. Wydanie potwierdzenia odbioru i kompletności oświadczenia, o któ- 50 rym mowa w art. 156d ust. 4 ustawy, za każdy krajowy scenariusz standardowy
+
+16. Wydanie potwierdzenia odbioru i kompletności oświadczenia, o któ- 50 rym mowa w art. 5 ust. 5 rozporządzenia nr 2019/947/UE, za każdy scenariusz standardowy, o którym mowa w dodatku 1 do załącznika do rozporządzenia nr 2019/947/UE
+
+17. Rozpatrzenie wniosku i wydanie decyzji w przedmiocie zezwolenia na 50 operację, o którym mowa w art. 16 ust. 1 rozporządzenia nr 2019/947/UE
+
+18. Rozpatrzenie wniosku i wydanie decyzji w przedmiocie zmiany, o któ- 500 rej mowa w art. 156c ust. 4, zezwolenia na operację, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE, wskazanego w ust. 13 i 14
+
+19. Rozpatrzenie wniosku i wydanie decyzji w przedmiocie przedłużenia 250 ważności zezwolenia na operację, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE, wskazanego w ust. 13 i 14
+
+20. Rozpatrzenie wniosku o pojedynczą zmianę w potwierdzeniu wskaza- 10 nym w ust. 15 i 16
+
+21. Rozpatrzenie wniosku o pojedynczą zmianę w zezwoleniu wskazanym 15 w ust. 17 Część II Licencje i świadectwa kwalifikacji
+
+2. 1. Licencje i świadectwa kwalifikacji mechaników obsługi technicznej Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2
+
+1. Wydanie licencji mechanika lotniczego obsługi technicznej po raz 200 pierwszy lub jej przywrócenie
+
+2. Każde następne wydanie licencji, o której mowa w ust. 1, bez względu 100 na zakres wpisanych kategorii lub podkategorii
+
+3. Wpisanie nowego uprawnienia do licencji, o której mowa w ust. 1, 108 za każde uprawnienie, wznowienie ważności uprawnienia lub przywrócenie jego ważności
+
+4. Uznanie licencji, o której mowa w ust. 1, wydanej przez właściwy organ 1000 obcego państwa
+
+5. Wydanie licencji mechanika lotniczego obsługi technicznej Part-66 po raz pierwszy z wpisaną jedną kategorią lub podkategorią w zakresie:
+
+- **1)** B1.1, B1.3, B2, C 300
+- **2)** B1.2, B1.4 200
+- **3)** pozostałych kategorii lub podkategorii 100
+
+6. Przedłużenie ważności licencji mechanika lotniczego obsługi technicz- 200 nej Part-66, niezależnie od uprawnień wpisanych do licencji
+
+7. Przywrócenie licencji mechanika lotniczego obsługi technicznej Part- 200 -66 bez względu na zakres wpisanych kategorii lub podkategorii
+
+8. Wpisanie do licencji mechanika lotniczego obsługi technicznej Part-66 uprawnienia, typu statku powietrznego lub grupy statków powietrznych:
+
+- **1)** za każde uprawnienie 100
+- **2)** za typ w każdej kategorii lub podkategorii 100
+- **3)** za każdą grupę 100
+
+9. Wpisanie drugiej i każdej kolejnej kategorii lub podkategorii do licencji mechanika lotniczego obsługi technicznej Part-66 w zakresie:
+
+- **1)** B1.1, B1.3, B2, C 100
+- **2)** B1.2, B1.4 100
+- **3)** innych kategorii lub podkategorii 50
+
+10. Wydanie duplikatu licencji mechanika lotniczego obsługi technicznej 40 Part-66 lub wprowadzenie w licencji zmian danych adresowych
+
+11. Zniesienie ograniczenia obsługowego w licencji mechanika lotniczego 100 obsługi technicznej Part-66
+
+12. Konwersja kwalifikacji krajowych do licencji mechanika lotniczego 100 obsługi technicznej Part-66
+
+13. Wydanie świadectwa kwalifikacji mechanika poświadczania obsługi 100 statków powietrznych po raz pierwszy lub jego przywrócenie
+
+14. Każde następne wydanie świadectwa kwalifikacji mechanika poświad- 100 czania obsługi statków powietrznych
+
+15. Wpisanie nowego uprawnienia do świadectwa kwalifikacji mechanika poświadczania obsługi statków powietrznych, za każde uzyskane uprawnienie, wznowienie ważności uprawnienia, przywrócenie ważności uprawnienia 100
+
+16. Uznanie świadectwa kwalifikacji mechanika poświadczania obsługi 1000 statków powietrznych wydanego przez właściwy organ obcego państwa
+
+17. Wydanie duplikatu świadectwa kwalifikacji mechanika poświadczania 40 obsługi statków powietrznych lub wprowadzenie do niego zmian danych adresowych
+
+2. 2. Licencje i świadectwa kwalifikacji pozostałych członków personelu lotniczego Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2
+
+1. Wydanie licencji po raz pierwszy lub jej przywrócenie dla:
+
+- **1)** pilota samolotowego rekreacyjnego, pilota samolotowego tury- 66 stycznego, pilota śmigłowcowego rekreacyjnego, pilota śmigłowcowego turystycznego, pilota wiatrakowcowego, pilota balonowego rekreacyjnego, pilota balonowego, pilota szybowcowego rekreacyjnego, pilota szybowcowego, pilota sterowcowego
+- **2)** pilota samolotowego zawodowego, pilota śmigłowcowego zawodowego, pilota wiatrakowcowego zawodowego, pilota sterowcowego zawodowego, nawigatora lotniczego, mechanika pokładowego 108
+- **3)** pilota samolotowego liniowego, pilota śmigłowcowego liniowego, 215 dyspozytora lotniczego, praktykanta-kontrolera ruchu lotniczego, kontrolera ruchu lotniczego
+
+2. Każde następne wydanie licencji:
+
+- **1)** pilota samolotowego rekreacyjnego, pilota samolotowego turystycz- 44 nego, pilota śmigłowcowego rekreacyjnego, pilota śmigłowcowego turystycznego, pilota wiatrakowcowego, pilota balonowego rekreacyjnego, pilota balonowego, pilota szybowcowego rekreacyjnego, pilota sterowcowego
+- **2)** pilota samolotowego zawodowego, pilota śmigłowcowego zawodo- 108 wego, pilota wiatrakowcowego zawodowego, pilota sterowcowego zawodowego, nawigatora lotniczego, mechanika pokładowego
+- **3)** pilota samolotowego liniowego, pilota śmigłowcowego liniowego, 162 praktykanta-kontrolera ruchu lotniczego, kontrolera ruchu lotniczego, dyspozytora lotniczego
+
+3. Wpisanie nowego uprawnienia do licencji za każde uzyskane uprawnienie, wznowienie ważności uprawnienia, przywrócenie ważności uprawnienia:
+
+- **1)** pilota balonowego rekreacyjnego, pilota balonowego, pilota szybow- 44 cowego rekreacyjnego, pilota szybowcowego
+- **2)** pilota samolotowego rekreacyjnego, pilota samolotowego turystycz- 44 nego, pilota śmigłowcowego rekreacyjnego, pilota śmigłowcowego turystycznego, pilota wiatrakowcowego, pilota sterowcowego
+- **3)** pilota samolotowego zawodowego, pilota śmigłowcowego zawodo- 108 wego, pilota wiatrakowcowego zawodowego, pilota sterowcowego zawodowego, nawigatora lotniczego, mechanika pokładowego
+- **4)** pilota samolotowego liniowego, pilota śmigłowcowego liniowego, 215 dyspozytora lotniczego, praktykanta-kontrolera ruchu lotniczego, kontrolera ruchu lotniczego
+
+4. Uznanie licencji wydanej przez właściwy organ obcego państwa:
+
+- **1)** pilota samolotowego rekreacyjnego, pilota samolotowego turystycz- 108 nego, pilota śmigłowcowego rekreacyjnego, pilota śmigłowcowego turystycznego, pilota wiatrakowcowego, pilota balonowego rekreacyjnego, pilota balonowego, pilota szybowcowego rekreacyjnego, pilota szybowcowego turystycznego, pilota sterowcowego
+- **2)** pilota samolotowego zawodowego, pilota śmigłowcowego zawodo- 1068 wego, pilota wiatrakowcowego zawodowego, pilota sterowcowego zawodowego, nawigatora lotniczego, mechanika pokładowego
+- **3)** pilota samolotowego liniowego, pilota śmigłowcowego liniowego, 1603 dyspozytora lotniczego, praktykanta-kontrolera ruchu lotniczego, kontrolera ruchu lotniczego
+
+5. Wydanie duplikatu licencji, o której mowa w ust. 1, lub wprowadzenie 44 do niej zmian danych adresowych
+
+6. Wydanie świadectwa kwalifikacji po raz pierwszy lub jego przywrócenie dla:
+
+- **1)** pilota lotni, pilota paralotni, pilota motolotni, pilota statku powietrznego o maksymalnej masie startowej (MTOM) do 495 kg, skoczka spadochronowego 44
+- **2)** informatora służby informacji powietrznej lub informatora lotnisko- 44 wej służby informacji powietrznej
+
+7. Każde następne wydanie świadectwa kwalifikacji dla:
+
+- **1)** pilota lotni, pilota paralotni, pilota motolotni, pilota statku po- 44 wietrznego o maksymalnej masie startowej (MTOM) do 495 kg, skoczka spadochronowego
+- **2)** informatora służby informacji powietrznej lub informatora lotnisko- 44 wej służby informacji powietrznej
+
+8. Wpisanie nowego uprawnienia do świadectwa kwalifikacji, za każde uzys- 43 kane uprawnienie, wznowienie ważności uprawnienia, przywrócenie ważności uprawnienia
+
+9. Uznanie świadectwa kwalifikacji wydanego przez właściwy organ obcego 108 państwa
+
+10. Wydanie duplikatu świadectwa kwalifikacji lub wprowadzenie do niego 44 zmian danych adresowych Część III Certyfikaty, świadectwa, zaświadczenia i inne dokumenty
+
+3. 1. Certyfikacja podmiotów w zakresie szkolenia lotniczego Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2
+
+1. Przeprowadzenie procesu certyfikacji i wydanie certyfikatu ATO lub Opłata podstawowa CTO po raz pierwszy lub wznowienie ważności certyfikatu CTO nieważ- 449 nego dłużej niż 12 miesięcy w zakresie: zwiększona o opłatę za poszczególne wskazane specjalności
+
+- **1)** pilot samolotowy rekreacyjny 148
+- **2)** pilot samolotowy turystyczny 151
+- **3)** pilot samolotowy zawodowy 300
+- **4)** pilot samolotowy liniowy 748
+- **5)** pilot śmigłowcowy rekreacyjny 148
+- **6)** pilot śmigłowcowy turystyczny 151
+- **7)** pilot śmigłowcowy zawodowy 300
+- **8)** pilot śmigłowcowy liniowy 748
+- **9)** pilot wiatrakowcowy turystyczny 151
+- **10)** pilot wiatrakowcowy zawodowy 449
+- **11)** pilot sterowcowy turystyczny 151
+- **12)** pilot sterowcowy zawodowy 300
+- **13)** pilot balonowy rekreacyjny 148
+- **14)** pilot balonowy 151
+- **15)** pilot szybowcowy rekreacyjny 148
+- **16)** pilot szybowcowy 151
+- **17)** nawigator lotniczy 300
+- **18)** mechanik pokładowy 300
+- **19)** pilot ultralekkiego statku powietrznego 151
+- **20)** pilot wiatrakowca ultralekkiego 151
+- **21)** pilot motolotni 151
+- **22)** instruktor 300
+
+2. Przeprowadzenie procesu certyfikacji i wydanie certyfikatu CTO, Opłata podstawowa ATCO TO lub FISP TO w zakresie wymaganym dla uzyskania licencji 300 lotniczej lub wznowienie ważności certyfikatu nieważnego dłużej niż zwiększona o opłatę za poszczególne 12 miesięcy w zakresie: specyfikacje
+
+- **1)** kontroler ruchu lotniczego 748
+- **2)** dyspozytor lotniczy 449
+- **3)** informator służby informacji powietrznej 449
+- **4)** praktykant-kontroler ruchu lotniczego 748
+
+3. Przeprowadzenie procesu certyfikacji na rozszerzenie zakresu certyfikatu ATO, CTO, ATCO TO lub FISP TO i wydanie nowego certyfikatu w zakresie: Opłata podstawowa 162 zwiększona o opłatę za poszczególne wskazane specjalności
+
+- **1)** pilot samolotowy rekreacyjny 108
+- **2)** pilot samolotowy turystyczny 108
+- **3)** pilot samolotowy zawodowy 269
+- **4)** pilot samolotowy liniowy 535
+- **5)** pilot śmigłowcowy rekreacyjny 108
+- **6)** pilot śmigłowcowy turystyczny 108
+- **7)** pilot śmigłowcowy zawodowy 269
+- **8)** pilot śmigłowcowy liniowy 535
+- **9)** pilot wiatrakowcowy turystyczny 108
+- **10)** pilot wiatrakowcowy zawodowy 428
+- **11)** pilot sterowcowy turystyczny 108
+- **12)** pilot sterowcowy zawodowy 269
+- **13)** pilot balonowy rekreacyjny 108
+- **14)** pilot balonowy 108
+- **15)** pilot szybowcowy rekreacyjny 108
+- **16)** pilot szybowcowy 108
+- **17)** nawigator lotniczy 162
+- **18)** mechanik pokładowy 162
+- **19)** kontroler ruchu lotniczego 696
+- **20)** dyspozytor lotniczy 535
+- **21)** informator służby informacji powietrznej 428
+- **22)** praktykant-kontroler ruchu lotniczego 696
+- **23)** pilot ultralekkiego statku powietrznego 108
+- **24)** pilot wiatrakowca ultralekkiego 108
+- **25)** pilot motolotni 108
+- **26)** instruktor 215
+- **27)** informator lotniskowej służby informacji powietrznej 428
+
+4. Przeprowadzenie procesu uznania certyfikatu organizacji szkoleniowej Opłata podstawowa lotniczej albo dokumentu równoważnego wydanego przez inne państwo 5337 na podstawie wymagań ICAO w zakresie: zwiększona o opłatę za poszczególne specjalności
+
+- **1)** pilota paralotni, pilota lotni, uprawnienia na klasę samolotów jedno- 108 silnikowych, uprawnienia do wykonywania lotów nocnych VFR, za każdą wskazaną specjalność uprawnienia na motoszybowiec, uprawnienia na klasę balonu, upraw- lub uprawnienie nienia do wykonywania lotów z napędem, uprawnienia do wykonywania lotów na motoparalotni
+- **2)** pilota samolotowego, pilota sterowcowego, pilota ultralekkiego 215 statku powietrznego, pilota śmigłowca o maksymalnej masie startowej za każdą wskazaną specjalność (MTOM) nie większej niż 600 kg, pilota wiatrakowca ultralekkiego, pilota motolotni, pilota balonu wolnego, pilota szybowcowego
+- **3)** uprawnienia do lotów z pasażerem, uprawnienia do zarobkowego 322 wykonywania czynności dowódcy balonu wolnego na gaz, uprawnie- za każde wskazane uprawnienie nia do zarobkowego wykonywania czynności dowódcy balonu wolnego na ogrzane powietrze
+- **4)** specjalności nawigatora lotniczego, mechanika pokładowego, radio- 428 operatora pokładowego, uprawnienia na klasę samolotów wielo- za każdą wskazaną specjalność silnikowych lub uprawnienie
+- **5)** specjalności instruktora 535 za każde wskazane uprawnienie
+- **6)** uprawnienia do lotów IFR, uprawnienia pilota doświadczalnego 748 za każde wskazane uprawnienie
+- **7)** specjalności pilota zawodowego, uprawnienia na typ samolotu z załogą jednoosobową (wpisywany do licencji), uprawnienia na typ śmigłowca jednosilnikowy z załogą jednoosobową 855 za każdą wskazaną specjalność lub uprawnienie
+- **8)** specjalności pilota liniowego, informatora służby informacji powietrz- 1603 nej, informatora lotniskowej służby informacji powietrznej, dyspozy- za każdą specjalność lub uprawnienie tora lotniczego, uprawnienia na typ śmigłowca wielosilnikowy z załogą jednoosobową
+- **9)** specjalności praktykanta-kontrolera ruchu lotniczego i kontrolera ru- 2135 chu lotniczego
+- **10)** uprawnienia na typ samolotu z załogą wieloosobową, uprawnienia 3202 na typ śmigłowca z załogą wieloosobową za każdą specjalność lub uprawnienie
+
+5. Przeprowadzenie procesu certyfikacji urządzenia do szkolenia lotniczego i wydanie certyfikatu po raz pierwszy albo przywrócenie ważności certyfikatu dla:
+
+- **1)** BITD 535
+- **2)** FNPT 535
+- **3)** FTD 855
+- **4)** FFS 855
+
+6. Przeprowadzanie procesu certyfikacji na rozszerzenie zakresu certyfi- 2135 katu FTD dla wszystkich uprawnień lub specjalności
+
+7. Wydanie certyfikatu kwalifikacji szkoleniowego urządzenia symulacji 535 lotu (FSTD) za każde zatwierdzenie
+
+8. Przeprowadzenie procesu certyfikacji MTO Part-147 po raz pierwszy i wydanie certyfikatu zatwierdzenia albo przywrócenie jego ważności w zakresie do prowadzenia szkoleń podstawowych i egzaminowania, za każdą kategorię lub podkategorię:
+
+- **1)** B1.1, B1.3, B2 748
+- **2)** B1.2, B1.4 642
+- **3)** inne kategorie lub podkategorie 535
+
+9. Przeprowadzenie procesu certyfikacji MTO Part-147 po raz pierwszy i wydanie certyfikatu zatwierdzenia albo przywrócenie jego ważności w zakresie do prowadzenia szkoleń i egzaminowania, za każdy typ statku powietrznego w poszczególnych kategoriach lub podkategoriach:
+
+- **1)** B1.1, B1.3, B2 375
+- **2)** B1.2, B1.4 322
+- **3)** inne kategorie lub podkategorie 269
+
+10. Przeprowadzanie procesu certyfikacji MTO Part-147 po raz pierwszy i wydanie certyfikatu zatwierdzenia albo przywrócenie jego ważności w zakresie do prowadzenia egzaminów, za każdy typ statku powietrznego w poszczególnych kategoriach lub podkategoriach:
+
+- **1)** B1.2, B1.4 647
+- **2)** innych kategoriach 535
+
+11. Przeprowadzenie procesu certyfikacji MTO w zakresie obsługi tech- opłata podstawowa nicznej statków powietrznych innych niż samoloty i śmigłowce oraz sa- 322 molotów i śmigłowców, o których mowa w załączniku I do rozporzą- zwiększona o opłatę za każdą specjalność dzenia nr 2018/1139/UE, i wydanie certyfikatu na:
+
+- **1)** statek powietrzny jako całość 535
+- **2)** płatowiec 269
+- **3)** silnik 269
+- **4)** awionikę 269
+
+12. Rozszerzenie zakresu certyfikatu MTO Part-147:
+
+- **1)** za każdą kategorię 215
+- **2)** za każdy typ statku powietrznego:
+    - **a)** szkolenie i egzaminowanie 428
+    - **b)** egzaminowanie 322
+
+13. Rozszerzenie zakresu certyfikatu MTO 322
+
+14. Wpisanie do rejestru podmiotów szkolących i wydanie zaświadczenia 162 o wpisie
+
+15. Rozszerzenie wpisu do rejestru podmiotów szkolących i wydanie za- 108 świadczenia o wpisie
+
+16. Przeprowadzenie procesu zaliczenia wiedzy i kwalifikacji lotniczych 50 do egzaminów z modułów Part-66 za każdą kategorię i podkategorię licencji Part-66
+
+3. 2. Rejestracja statków powietrznych Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2
+
+1. Rezerwacja znaków rozpoznawczych 30
+
+2. Przedłużenie rezerwacji znaków rozpoznawczych 20
+
+3. Przeprowadzenie postępowania o wpisanie statku powietrznego do rejestru cywilnych statków powietrznych lub ewidencji statków powietrznych i wydanie świadectwa rejestracji lub ewidencji:
+
+- **1)** lotni, motolotni, paralotni, balonów, spadochronów 50
+- **2)** szybowców, motoszybowców, statków powietrznych kategorii 70 specjalnej
+- **3)** samolotów i śmigłowców o maksymalnej masie startowej (MTOM):
+    - **a)** do 1000 kg 100
+    - **b)** od 1000 kg do 5700 kg 300
+    - **c)** od 5700 kg do 20 000 kg 800
+    - **d)** powyżej 20 000 kg 2000
+
+4. Wydanie duplikatu lub wymiana świadectwa rejestracji lub świadec- 30 twa ewidencji dokonana na wniosek jego posiadacza
+
+5. Wydanie zaświadczenia o wykreśleniu statku powietrznego z rejestru lub ewidencji albo wydanie zaświadczenia o niewpisaniu statku powietrznego do rejestru lub ewidencji 50
+
+6. Wydanie wyciągu z rejestru cywilnych statków powietrznych lub 300 z ewidencji statków powietrznych
+
+7. Przeprowadzenie postępowania o wydanie zgody na wpis do rejestru cy- 80 wilnych statków powietrznych zgodnie z art. 35 ustawy
+
+8. Zaakceptowanie umowy o czasowym oddaniu statku powietrznego 100 do używania osobie innej niż właściciel
+
+9. Przydział kodu adresowego transpondera MODE-S 200
+
+10. Dokonanie wpisu zastawu cywilnego lub rejestrowego w świadectwie 100 rejestracji lub świadectwie ewidencji
+
+3. 2a. Rejestracja operatorów systemów bezzałogowych statków powietrznych Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2
+
+1. Wydanie zaświadczenia o wykreśleniu operatora systemu bezzałogo- 25 wego statku powietrznego z rejestru operatorów systemów bezzałogowych statków powietrznych
+
+3. 3. Certyfikacja sprzętu lotniczego (Type Certificate) Rodzaj czynności urzędowej Wysokość stawki w zł 1 2
+
+1. Przeprowadzenie procesu certyfikacji i wydanie dokumentu zdatności równoważnego certyfikatowi typu (nie obejmuje czynności, za które pobierane są opłaty wnoszone na rzecz EASA) dla:
+
+- **1)** samolotów o maksymalnej masie startowej (MTOM):
+    - **a)** do 1000 kg (w tym ultralekkie) 1500
+    - **b)** od 1000 kg do 5700 kg 3200
+    - **c)** od 5700 kg do 20 000 kg 8000
+    - **d)** powyżej 20 000 kg 18 000
+
+- **2)** wiropłatów jak dla samolotów
+- **3)** sterowców 4000
+- **4)** motoszybowców 1500
+- **5)** szybowców 1000
+- **6)** balonów załogowych 1000
+- **7)** statków powietrznych kategorii specjalnej 500–3000
+- **8)** spadochronów 500
+- **9)** silników lotniczych o maksymalnej mocy startowej lub dopuszczalnym ciągu:
+    - **a)** do 75 kW 800
+    - **b)** od 75 kW do 375 kW lub 10 000 N 1200
+    - **c)** od 375 kW do 750 kW lub od 10 000 N do 50 000 N 3500
+    - **d)** powyżej 750 kW lub 50 000 N 8000
+
+- **10)** silników do motoszybowców, samolotów ultralekkich lub moto- 300 lotni
+- **11)** śmigieł:
+    - **a)** o skoku stałym lub nastawnym na ziemi 600
+    - **b)** o skoku zmiennym 2000
+
+- **12)** motolotni 400
+- **13)** lotni 80
+- **14)** paralotni 60
+- **15)** wydanie uzupełniającego certyfikatu typu (STC) dla samolotów i wiropłatów o maksymalnej masie startowej (MTOM):
+    - **a)** do 1000 kg (w tym ultralekkie) 300
+    - **b)** od 1000 kg do 5700 kg 1000
+    - **c)** od 5700 kg do 20 000 kg 2000
+    - **d)** powyżej 20 000 kg 5000
+
+2. Przeprowadzenie procesu certyfikacji i wydanie orzeczenia typu dla następującego sprzętu lotniczego:
+
+- **1)** urządzenia ratownicze dla konstrukcji ultralekkich, lotni, moto- 200–600 lotni i paralotni
+- **2)** zaczepy do holowania szybowców i transparentów 100
+- **3)** uprzęże do lotni i paralotni 60
+
+3. Zmiany i uzupełnienia certyfikacji sprzętu lotniczego 50 % stawki określonej w ust. 1 lub 2
+
+4. Zatwierdzanie biuletynów zdatności lub dokumentacji technicznej statków powietrznych i wyposażenia istotnych dla bezpieczeństwa lotniczego:
+
+- **1)** programów prób na ziemi oraz programów prób w locie dla:
+    - **a)** samolotów i wiropłatów o maksymalnej masie startowej (MTOM): do 1000 kg (w tym ultralekkie) 100 od 1000 kg do 5700 kg 300 od 5700 kg do 20 000 kg 500 powyżej 20 000 kg 1000
+    - **b)** pozostałych rodzajów statków powietrznych 100
+
+- **2)** instrukcji użytkowania w locie dla:
+    - **a)** samolotów i śmigłowców o maksymalnej masie startowej (MTOM): do 1000 kg (w tym ultralekkie) 300 od 1000 kg do 5700 kg 500 od 5700 kg do 20 000 kg 2000 powyżej 20 000 kg 8000
+    - **b)** motoszybowców i szybowców 200
+    - **c)** sterowców i balonów załogowych 500
+    - **d)** statków powietrznych kategorii specjalnej 50–800
+    - **e)** spadochronów 50
+    - **f)** motolotni, lotni i paralotni 50
+
+- **3)** instrukcji obsługi technicznej dla:
+    - **a)** samolotów i śmigłowców o maksymalnej masie startowej (MTOM): do 1000 kg (w tym ultralekkie) 200 od 1000 kg do 5700 kg 500 od 5700 kg do 20 000 kg 1000 powyżej 20 000 kg 3000
+    - **b)** pozostałych statków powietrznych i silników 100
+
+- **4)** głównego wykazu wyposażenia minimalnego (MMEL) dla statków powietrznych o maksymalnej masie startowej (MTOM):
+    - **a)** do 5700 kg 500
+    - **b)** powyżej 5700 kg 1000
+
+5. Zmiany w dokumentacji technicznej 50 % stawki określonej w ust. 4
+
+6. Szczególne przypadki certyfikacji:
+
+- **1)** uznanie dokumentów zdatności wydanych przez władze lotnicze innych państw:
+    - **a)** dla samolotów i wiropłatów o maksymalnej masie startowej (MTOM): do 1000 kg (w tym ultralekkie) 200 od 1000 kg do 5700 kg 500 od 5700 kg do 20 000 kg 1000 powyżej 20 000 kg 6000
+    - **b)** dla pozostałych rodzajów statków powietrznych 100
+
+- **2)** wydanie świadectw zgodności z normą hałasu, wibracji oraz zanieczyszczeniem ziemi, wody i powietrza dla:
+    - **a)** samolotów i wiropłatów o maksymalnej masie startowej (MTOM): do 5700 kg 500 powyżej 5700 kg 2000
+    - **b)** pozostałych rodzajów statków powietrznych 300
+
+- **3)** wydanie świadectwa zgodności z normą hałasu, wibracji oraz za- 300 nieczyszczenia ziemi, wody i powietrza dla importowanych statków powietrznych
+- **4)** (uchylony)
+
+3. 4. Zdatność do lotu statków powietrznych Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2
+
+1. Przeprowadzenie procesu oceny zdatności do lotu statku powietrznego i wydanie świadectwa zdatności do lotu lub dokumentu równoważnego po raz pierwszy dla:
+
+- **1)** samolotów i wiropłatów o maksymalnej masie startowej (MTOM):
+    - **a)** do 1000 kg (w tym ultralekkie) 300
+    - **b)** od 1000 kg do 2730 kg 900
+    - **c)** od 2730 kg do 20 000 kg 3000
+    - **d)** powyżej 20 000 kg 10 000
+
+- **2)** sterowców 400
+- **3)** szybowców 120
+- **4)** motoszybowców 250
+- **5)** balonów załogowych 250
+- **6)** spadochronów osobowych 120
+- **7)** spadochronów ratunkowych 200
+
+2. Przedłużanie i odnawianie świadectw zdatności do lotu lub dokumentu równoważnego dla statków powietrznych, wykonanie przeglądu zdatności do lotu i wydanie poświadczenia ARC 75 % opłaty określonej w ust. 1
+
+3. Wydanie poświadczenia ARC w oparciu o rekomendację organizacji 10 % opłaty określonej w ust. 1 CAMO (wg Part-M/G z przywilejem M.A.711(b)) obejmuje to kontrole Prezesa Urzędu, zatwierdzanie wszelkiego typu dokumentacji i ich zmian
+
+4. Wystawienie eksportowego świadectwa zdatności do lotu statku powietrznego lub dokumentu równoważnego dla elementu wyposażenia:
+
+- **1)** samoloty i wiropłaty o maksymalnej masie startowej (MTOM):
+    - **a)** do 2730 kg 100
+    - **b)** od 2730 kg do 5700 kg 300
+    - **c)** od 5700 kg do 20 000 kg 500
+    - **d)** powyżej 20 000 kg 1500
+
+- **2)** sterowce 200
+- **3)** motoszybowce 100
+- **4)** szybowce 50
+- **5)** balony załogowe 50
+- **6)** spadochrony osobowe 30
+- **7)** spadochrony ratunkowe 80
+
+5. Wystawienie świadectw oględzin dla statków powietrznych będących w próbach:
+
+- **1)** samoloty i wiropłaty o maksymalnej masie startowej (MTOM):
+    - **a)** do 1000 kg (w tym ultralekkie) 200
+    - **b)** od 1000 kg do 5700 kg 300
+    - **c)** od 5700 kg do 20 000 kg 700
+    - **d)** powyżej 20 000 kg 2000
+
+- **2)** szybowce 55
+- **3)** motoszybowce 100
+- **4)** inne (w szczególności sterowce, balony) 200
+
+6. Wydanie duplikatu dokumentów, o których mowa w ust. 1–5 i 7 55
+
+7. Wydanie zezwolenia na wykonanie lotu przez statek powietrzny niemający ważnego świadectwa zdatności do lotu o maksymalnej masie startowej (MTOM):
+
+- **1)** do 1000 kg 100
+- **2)** od 1000 kg do 5700 kg 300
+- **3)** od 5700 kg do 20 000 kg 1000
+- **4)** powyżej 20 000 kg 3000
+
+8. Zatwierdzenie personelu przeglądu zdatności do lotu statku powietrz- 300 nego wykonującego przeglądy zdatności do lotu na podstawie rozporządzenia nr 1321/2014/UE pkt M.A.901 (g)
+
+3. 5. Certyfikacja jednostek produkujących wyroby, części i akcesoria Rodzaj czynności urzędowej Zakres prac A1 Samo- A2 Samoloty duże loty małe A3 Śmig- A4 Śmigłowce łowce małe duże A5 AutoB1 Silniki żyra turbinowe A6 Szybowce A7 Motoszybowce A8 Balony załogowe A9 Sterowce A11 Samoloty klasy VLA A12 Inne B2 Silniki tłokowe B3 APU D2 Wydawanie pozwolenia na lot B4 Śmigła C1 Akcesoria C2 Części D1 Czynności obsługowe Wysokość stawki w zł
+
+1. Przeprowadzenie procesu certyfikacji i wydanie certyfikatu 2000 1000 500 POA po raz pierwszy lub wznowienie ważności zatwierdzenia nieważnego dłużej niż 12 miesięcy
+
+2. Rozszerzenie zakresu zatwierdzenia:
+
+- **1)** Rozszerzenie zakresu prac 840 420 140
+- **2)** Rozszerzenie o inne typy wyrobów jak za zatwierdzenie zmiany znaczącej (ust. 3) w zatwierdzonym zakresie prac
+
+3. Zatwierdzenie zmian znaczących w organizacji posiadającej 25 % wartości opłaty jak za certyfikację zatwierdzenie (ust. 1)
+
+4. Wydanie zgody na produkcję wyrobów, części lub akcesoriów 50 % wartości opłaty jak za certyfikację bez przeprowadzenia procesu certyfikacji i wydania certyfikatu (ust. 1) POA
+
+3. 6. Certyfikacja jednostek obsługi technicznej sprzętu lotniczego i zarządzania ciągłą zdatnością do lotu Rodzaj czynności urzędowej Wysokość stawki w zł
+
+1. Przeprowadzenie procesu certyfikacji i wydanie certyfikatu AMO po raz pierwszy lub wznowienie certyfikatu nieważnego dłużej niż 12 miesięcy, dla jednostki:
+
+- **1)** spełniającej wymagania PART-145
+    - **a)** w klasie statki powietrzne A1 A2 A3 A4 3000 1500 1500 1100
+    - **b)** w klasie silniki B1 B2 B3 2250 1100 750
+    - **c)** w klasie podzespoły 450 za każdą kategorię
+    - **d)** w klasie badania nieniszczące 450
+
+- **2)** spełniającej wymagania PART M/F
+    - **a)** w klasie statki powietrzne A1 A2 A3 A4 1100 1100 750
+    - **b)** w klasie silniki B1 B2 B3 1500 750 450
+    - **c)** w klasie podzespoły 300 za każdą kategorię
+    - **d)** w klasie badania nieniszczące 300
+
+- **3)** spełniającej wymagania PL-6
+    - **a)** w klasie statki powietrzne A1 A2 A3 A4 750 750 450
+    - **b)** w klasie silniki B1 B2 B3 900 500 300
+    - **c)** w klasie podzespoły 200 za każdą kategorię
+    - **d)** w klasie badania nieniszczące 200
+
+2. Przeprowadzenie procesu certyfikacji jednostki zarządzania ciągłą zdatnością do lotu i wydanie certyfikatu CAMO po raz pierwszy lub wznowienie certyfikatu nieważnego dłużej niż 12 miesięcy:
+
+- **1)** spełniającej wymagania PART M/G w zakresie uprawnień A1 A2 A3 A4 określonych w pkt M.A.711(a) 3000 1500 1500 500
+- **2)** spełniającej wymagania PART M/G w zakresie uprawnień 2000 1000 700 400 określonych w pkt M.A.711(b)
+- **3)** spełniającej wymagania PART M/G w zakresie uprawnień 1500 700 500 250 określonych w pkt M.A.711(c)
+- **4)** spełniającej wymagania PL-6 600 400 200
+
+3. Rozszerzenie zakresu certyfikatu AMO o nową kategorię Stawka jak w ust. 1 w zakresie dodanych kategorii
+
+4. Rozszerzenie zakresu certyfikatu CAMO o nową kategorię Stawka jak w ust. 2 w zakresie dodanych kategorii Kategorie: A1 samoloty o maksymalnej masie startowej (MTOM) powyżej 5700 kg A2 samoloty o maksymalnej masie startowej (MTOM) 5700 kg i poniżej A3 śmigłowce A4 statki powietrzne inne niż kategoria A1, A2 i A3 B1 silniki turbinowe B2 silniki tłokowe B3 silniki pomocnicze APU
+
+3. 7. Uznawanie certyfikatów wydanych przez nadzory obcych państw Rodzaj czynności urzędowej Wysokość stawki w zł Wielkość jednostki organizacyjnej M Ś D
+
+1. Uznanie certyfikatu AOC lub dokumentu równoważnego 500 1500 4500
+
+2. Uznanie certyfikatu AMO lub dokumentu równoważnego Opłata lotnicza jak w podczęści 3.6. ust. 1 pkt 3
+
+3. Uznanie certyfikatu CAMO lub dokumentu równoważnego Opłata lotnicza jak w podczęści 3.6. ust. 2 pkt 4
+
+4. Uznanie certyfikatu symulatora lotu oraz urządzeń treningo- 300 500 1000 wych
+
+3. 8. Certyfikacja i rejestracja lotnisk Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2
+
+1. Przeprowadzenie postępowania o wydanie promesy zezwolenia na założenie lotniska użytku publicznego i wydanie promesy:
+
+- **1)** o literze kodu A, B 5000
+- **2)** o literze kodu C, D, E 25 000
+
+2. Przeprowadzenie postępowania o wydanie promesy zezwolenia na założenie lotniska użytku wyłącznego i wydanie promesy:
+
+- **1)** o literze kodu A, B 1500
+- **2)** o literze kodu C, D, E 3000
+
+3. Przeprowadzenie postępowania o wydanie zezwolenia na założenie lotniska użytku publicznego i wydanie zezwolenia:
+
+- **1)** o literze kodu A, B 10 000
+- **2)** o literze kodu C, D, E 40 000
+
+4. Przeprowadzenie postępowania o wydanie zezwolenia na założenie lotniska użytku wyłącznego i wydanie zezwolenia:
+
+- **1)** o literze kodu A, B 2000
+- **2)** o literze kodu C, D, E 4000
+
+5. Przeprowadzenie postępowania o wpisanie lotniska użytku publicznego do rejestru lotnisk cywilnych i wydanie zaświadczenia o wpisie:
+
+- **1)** o literze kodu A, B 7000
+- **2)** o literze kodu C, D, E 30 000
+
+6. Przeprowadzenie postępowania o wpisanie lotniska użytku wyłącznego do rejestru lotnisk cywilnych i wydanie zaświadczenia o wpisie:
+
+- **1)** o literze kodu A, B 2500
+- **2)** o literze kodu C, D, E 5000
+
+7. Wydanie zaświadczenia o wpisie lotniska do rejestru lotnisk cywil- 100 nych
+
+8. Przeprowadzenie postępowania o dokonanie zmiany w rejestrze lotnisk cywilnych 300
+
+9. Wydanie zmienionego zaświadczenia o wpisie lotniska do rejestru lot- 100 nisk cywilnych
+
+10. Zatwierdzenie instrukcji operacyjnej nowo zakładanego lotniska użytku publicznego:
+
+- **1)** o literze kodu A 8000
+- **2)** o literze kodu B 16 000
+- **3)** o literze kodu C 24 000
+- **4)** o literze kodu D 32 000
+- **5)** o literze kodu E 40 000
+
+11. Zatwierdzenie instrukcji operacyjnej nowo zakładanego lotniska użytku wyłącznego:
+
+- **1)** o literze kodu A 500
+- **2)** o literze kodu B 1600
+- **3)** o literze kodu C 2700
+- **4)** o literze kodu D 3800
+- **5)** o literze kodu E 5000
+
+12. Przeprowadzenie postępowania o wydanie zezwolenia na wprowadzenie pojedynczej zmiany eksploatacyjnej i technicznej cech lotniska użytku publicznego:
+
+- **1)** o literze kodu A, B 1300
+- **2)** o literze kodu C, D, E 2600
+
+13. Przeprowadzenie postępowania o wydanie zezwolenia na wprowadzenie 200 pojedynczej zmiany eksploatacyjnej i technicznej cech lotniska użytku wyłącznego o literze kodu A, B, C, D, E
+
+14. Przeprowadzenie postępowania o wpisanie lądowiska do ewidencji lądo- 1000 wisk i wydanie zaświadczenia
+
+15. Wydanie zaświadczenia o wpisie lądowiska do ewidencji lądowisk 100
+
+16. Wydanie duplikatu zaświadczenia o wpisie lądowiska do ewidencji lądo- 300 wisk lub o wpisie lotniczego urządzenia naziemnego do rejestru lotniczych urządzeń naziemnych
+
+17. Wydanie zgody na odstępstwo od wymogów dotyczących powierzchni 2670 ograniczających przeszkody
+
+18. Przeprowadzenie procesu certyfikacji lotniska:
+
+- **1)** o literze kodu A 10 000
+- **2)** o literze kodu B 20 000
+- **3)** o literze kodu C 30 000
+- **4)** o literze kodu D 40 000
+- **5)** o literze kodu E 50 000
+
+19. Przeprowadzenie procesu certyfikacji rozszerzającego zakres uprawnień wynikających z procesu certyfikacji, o wykonywanie operacji:
+
+- **1)** lądowania w warunkach ograniczonej widzialności (LVO) dla:
+    - **a)** kategorii II (CAT II) 20 000
+    - **b)** kategorii III A (CAT III A) 30 000
+    - **c)** kategorii III B (CAT III B) 40 000
+    - **d)** kategorii III C (CAT III C) 55 000
+
+- **2)** startów przy ograniczonej widzialności (LVTO) 20 000
+
+20. Przeprowadzenie procesu certyfikacji lotniska przedłużającego waż- 50 % stawki określonej w ust. 18 ność certyfikatu lotniska
+
+21. Przeprowadzenie procesu certyfikacji, o którym mowa w ust. 19, prze- 50 % opłaty określonej dłużającego ważność uprawnień w ust. 19
+
+22. Przeprowadzenie procesu certyfikacji wznawiającego ważność certyfi- 50 % stawki określonej w ust. 18 katu, który był nieważny dłużej niż 12 miesięcy
+
+23. Przeprowadzenie procesu certyfikacji, o którym mowa w ust. 19, 50 % stawki określonej w ust. 19 wznawiającego ważność uprawnień, które były nieważne dłużej niż 12 miesięcy
+
+24. Przeprowadzenie procesu certyfikacji wznawiającego ważność certyfikatu, 25 % stawki określonej w ust. 18 który był cofnięty, zawieszony lub nieważny dłużej niż 6 miesięcy, ale nie dłużej niż 12 miesięcy
+
+25. Przeprowadzenie procesu certyfikacji, o którym mowa w ust. 19, 25 % stawki określonej w ust. 19 wznawiającego ważność uprawnień, które były cofnięte, zawieszone lub nieważne dłużej niż 6 miesięcy, ale nie dłużej niż 12 miesięcy
+
+26. Przeprowadzenie postępowania w sprawie wydania odstępstwa, o którym mowa w ADR.OPS.B.029 lit. g załącznika IV do rozporządzenia nr 139/2014/UE 15 000
+
+3. 9. Certyfikacja zarobkowego transportu lotniczego oraz wydawanie zatwierdzeń szczególnych (zgodnie z rozporządzeniem nr 965/2012/UE) Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2
+
+1. Przeprowadzenie procesu certyfikacji i wydanie certyfikatu AOC po raz opłata podstawowa pierwszy lub wznowienie ważności certyfikatu AOC nieważnego dłużej niż 12 miesięcy: 5000 zwiększona o opłatę za
+
+- **1)** przewóz pasażerów i ich bagażu 5000
+- **2)** przewóz towarów i poczty 5000
+- **3)** przewóz sanitarny i medyczny 5000
+
+2. Przeprowadzenie procesu wznowienia ważności certyfikatu AOC, który był 75 % opłaty wyliczonej zgodnie cofnięty, zawieszony nie dłużej niż 12 miesięcy z ust. 1
+
+3. Przeprowadzenie procesu związanego z wydaniem zatwierdzenia szczególnego dla każdego egzemplarza statku powietrznego:
+
+- **1)** na operacje przy ograniczonej widzialności (LVO):
+    - **a)** kategorii II (CAT II) 2135
+    - **b)** kategorii IIIA (CAT IIIA) 2135
+    - **c)** kategorii IIIB (CAT IIIB) 2135
+    - **d)** kategorii IIIC (CAT IIIC) 4270
+    - **e)** operacja poza standardem w kategorii II (OTS CAT II) 2000
+    - **f)** operacja poniżej standardu w kategorii I (LTS CAT I) 2000
+    - **g)** wykonywanie startów przy ograniczonej widzialności (LVTO) 1068
+    - **h)** operacja podejścia z wykorzystaniem systemów polepszających widzenie (EVS), dla której wykorzystuje się możliwość wykonywania operacji przy 2000 minimach widzialności wzdłuż drogi startowej (RVR) zmniejszonych o nie więcej niż jedną trzecią publikowanych RVR
+
+- **2)** na operacje z określonymi specyfikacjami minimalnych osiągów nawigacyjnych (MNPS) 2135
+- **3)** na operacje o wydłużonym zasięgu samolotami dwusilnikowymi (ETOPS) 4270
+- **4)** na operacje z nawigacją w oparciu o charakterystyki systemów (PBN) za każdą 2000 wpisywaną specyfikację PBN
+- **5)** na operacje w przestrzeni powietrznej ze zredukowanymi minimami separacji 3202 pionowej (RVSM)
+- **6)** na operacje śmigłowcowe z użyciem systemu noktowizyjnego (NVIS) 2000
+- **7)** na operacje śmigłowcowe z ładunkiem na zaczepie zewnętrznym (HHO) 2000
+- **8)** na każde inne zatwierdzenia szczególne, o których mowa w dodatku II do za- 1000 łącznika II (Part-ARO) rozporządzenia nr 965/2012/UE przypis 20
+
+4. Przeprowadzenie procesu związanego z wydaniem zatwierdzenia szczególnego dla organizacji:
+
+- **1)** na transport materiałów niebezpiecznych (DG) 4270
+- **2)** na upoważnienie do prowadzenia szkoleń personelu pokładowego zgodnie 2000 z podczęścią CC (Part-CC) załącznika III do rozporządzenia nr 965/2012/UE
+- **3)** na upoważnienie do wydawania świadectw dopuszczenia do pracy personelu pokładowego zgodnie z podczęścią CC (Part-CC) załącznika III do rozporzą- 2000 dzenia nr 965/2012/UE
+- **4)** na operacje śmigłowcowych służb ratownictwa medycznego (HEMS) 5000
+
+3. 10. (uchylona)
+
+3. 11. Certyfikacja obsługi naziemnej w portach lotniczych Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł Wielkość jednostki organizacyjnej M Ś D 1 2 3 4
+
+1. Przeprowadzenie procesu certyfikacji i wydanie certyfikatu AHAC po raz pierwszy lub po upływie 12 miesięcy od daty wygaśnięcia certy- 980 2100 3100 fikatu lub jego zawieszenia w zakresie zaopatrywania statków powietrznych w materiały napędowe
+
+2. Przeprowadzenie procesu certyfikacji AHAC w zakresie obsługi towarów niebezpiecznych po raz pierwszy lub wznowienie ważności cer- 1068 1603 2135 tyfikatu nieważnego dłużej niż 12 miesięcy (z prawem spedycji drogą lotniczą)
+
+3. 12. Certyfikacja służb żeglugi powietrznej Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2
+
+1. Przeprowadzenie procesu certyfikacji i wydanie certyfikatu instytucji zapewniającej służby żeglugi powietrznej, odpowiednio do:
+
+- **1)** służby kontroli obszaru (ACC Area Control Service) 20 000
+- **2)** służby kontroli zbliżania (APP Approach Control Service) 10 000
+- **3)** służby kontroli lotniska (TWR Aerodrome Control Service) 10 000
+- **4)** służby informacji powietrznej (FIS Flight Information Service) 10 000
+- **5)** służby lotniskowej informacji powietrznej (AFIS Aerodrome Flight 1000 Information Service)
+- **6)** służby łączności (COM Communication Service) 1000
+- **7)** służby nawigacji (NAV Navigation Service) 2000
+- **8)** służby dozorowania (SUR Surveillance Service) 4000
+- **9)** służby przetwarzania i zobrazowania danych (DP Data Processing) 10 000
+- **10)** służby informacji lotniczej (AIS Aeronautical Information Service) 10 000
+- **11)** służby lub organu zapewniającego informacje meteorologiczne 10 000
+
+2. Przeprowadzenie procesu z wniosku o przedłużenie ważności certyfikatu do 50 % opłaty określonej w ust. 1, nie więcej niż 5000
+
+3. 13. Inne certyfikaty, zaświadczenia, zatwierdzenia, zezwolenia oraz dokumenty Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2
+
+1. (uchylony)
+
+2. (uchylony) 2a. Przeprowadzenie procesu certyfikacji i wydanie certyfikatu AOC (krajowego) po raz pierwszy lub wznowienie ważności certyfikatu 5289 AOC (krajowego) nieważnego dłużej niż 12 miesięcy 2b. Przeprowadzenie procesu wznowienia ważności certyfikatu AOC (krajowego), który był cofnięty albo zawieszony nie dłużej niż 12 mie- 75 % opłaty określonej w ust. 2a sięcy 2c. Rozpatrzenie wniosku o przedłużenie ważności certyfikatu AOC 75 % opłaty określonej w ust. 2a (krajowego) 2d. Zmiana w certyfikacie lub specyfikacji AOC (krajowym albo wyda- Wielkość jednostki organizacyjnej nym zgodnie z rozporządzeniem nr 965/2012/UE), niezwiązana z dodaniem statku powietrznego M Ś D 115 227 453 2e. Dodanie statku powietrznego i związana z tym zmiana w certyfikacie W zależności od maksymalnej masy startowej AOC (krajowym albo wydanym zgodnie z rozporządzeniem (MTOM) statku powietrznego nr 965/2012/UE) do 10 ton włącz- więcej niż 10 ton nie 227 568
+
+3. (uchylony)
+
+4. Akceptacja pilota do przeprowadzania kontroli typu line-check 100
+
+5. Wydanie decyzji w sprawie zwolnień oraz odstępstw od przepisów 10 000 art. 8 ust. 2 i 3 rozporządzenia 3922/91/EWG
+
+6. Zatwierdzenie umowy o czasowym oddaniu statku powietrznego do 2000 używania w oparciu o art. 83 bis Konwencji i przekazanie nadzoru od lub do organu nadzoru innego państwa
+
+7. (uchylony)
+
+8. Wydanie zgody na wykonywanie lotów w strefach, o których mowa 800 w przepisach wydanych na podstawie art. 119 ust. 4 pkt 1 ustawy
+
+9. Wydanie certyfikatu operatora kontroli bezpieczeństwa 150
+
+10. Wydanie identyfikatora członka załogi (Crew Member Certificate 50 CMC) 10a. Wydanie certyfikatu wewnętrznego audytora kontroli jakości w zakre- 200 sie ochrony lotnictwa cywilnego
+
+11. Wydanie certyfikatu centrum medycyny lotniczej 1000
+
+12. Wydanie certyfikatu dla lekarza orzecznika medycyny lotniczej 215
+
+13. Przeprowadzenie procesu zatwierdzenia programu ochrony lotniska 2000 użytku publicznego
+
+14. Przeprowadzenie procesu zatwierdzenia programu ochrony lotniska 500 użytku wyłącznego
+
+15. Przeprowadzenie procesu zatwierdzenia programu ochrony przewoź- 1000 nika lotniczego wykonującego przewóz regularny
+
+16. Przeprowadzenie procesu zatwierdzenia programu ochrony przewoź- 500 nika lotniczego wykonującego przewóz nieregularny
+
+17. Przeprowadzenie procesu zatwierdzenia programu ochrony podmiotu świadczącego obsługę naziemną 250
+
+18. Przeprowadzenie procesu zatwierdzenia programu ochrony służby 450 żeglugi powietrznej lub organu zapewniającego osłonę meteorologiczną
+
+19. Przeprowadzenie procesu zatwierdzenia programu ochrony podmiotu 300 wykonującego inną działalność gospodarczą
+
+20. Przeprowadzenie procesu zatwierdzenia zmiany lub aktualizacji pro- 600 gramu ochrony lotniska użytku publicznego
+
+21. Zatwierdzenie programu ochrony podmiotu zapewniającego osłonę meteo- 500 rologiczną lotnictwa cywilnego
+
+22. Zatwierdzenie programu ochrony zarejestrowanego agenta 450
+
+23. Zatwierdzenie programu ochrony zarejestrowanego dostawcy zaopa- 450 trzenia pokładowego
+
+24. Wyznaczenie znanego nadawcy ładunków i poczty 250
+
+25. Kontrola w siedzibie zarejestrowanego agenta/zarejestrowanego dostawcy 250 lub znanego nadawcy (w zakresie ładunków i poczty)
+
+26. Ponowne wyznaczenie znanego nadawcy w zakresie ładunków i poczty 120 po upływie 5 lat od wyznaczenia, o którym mowa w ust. 24
+
+27. Przeprowadzenie procesu zatwierdzenia zmiany lub aktualizacji programu 150 ochrony innego lotniska
+
+28. Przeprowadzenie procesu zatwierdzenia zmiany lub aktualizacji programu 300 ochrony przewoźnika wykonującego loty regularne
+
+29. Przeprowadzenie procesu zatwierdzenia zmiany lub aktualizacji programu 150 ochrony przewoźnika wykonującego loty nieregularne
+
+30. Zatwierdzenie zmiany lub aktualizacji programu ochrony innych pod- 50 miotów prowadzących lotniczą działalność gospodarczą
+
+31. Przeprowadzenie procesu zatwierdzenia programu szkolenia z zakresu 200 ochrony lotnictwa cywilnego
+
+32. Wydanie opinii o możliwości lokalizacji inwestycji ze względu na wysokość zabudowy, o ile przepisy prawa nie nakładają obowiązku 1068 zajęcia stanowiska przez Prezesa Urzędu
+
+33. Wydanie zezwolenia na przeprowadzenie pokazu lotniczego Opłata podstawowa 150 zwiększona o 50 za każdy dzień wykonywania pokazów dla każdego statku powietrznego używanego w pokazach
+
+34. Przeprowadzenie procesu wpisu lub zmiany do rejestru lotniczych urządzeń naziemnych i wydanie zaświadczenia o wpisie lub zmianie dla każdego z poniższych urządzeń:
+
+- **1)** urządzenia łączności (w urządzeniach połączonych opłaty sumują się):
+    - **a)** naziemne radiostacje lotnicze 800
+    - **b)** system łączności głosowej VCS 800
+    - **c)** system transmisji danych G/G 800
+
+- **2)** urządzenie radionawigacyjne (w urządzeniach połączonych opłaty sumują się):
+    - **a)** ILS, MLS 3000
+    - **b)** VOR/DVOR 2000
+    - **c)** NDB 1000
+    - **d)** DME 500
+    - **e)** D/GPS (GBAS) 2000
+
+- **3)** urządzenia dozorowania (w urządzeniach połączonych opłaty sumują się)
+    - **a)** radar pierwotny dozorowania (PSR) 1500
+    - **b)** radar wtórny dozorowania (MSSR) 1500
+    - **c)** radar kontroli płyty lotniska 1000
+    - **d)** system multilateracyjny WAM 1500
+    - **e)** system multilateracyjny LAM 1500
+
+- **4)** system przetwarzania i zobrazowania danych 5000
+- **5)** wzrokowe pomoce nawigacyjne (systemy świetlne) 800–1000
+- **6)** automatyczne systemy pomiarowe parametrów meteorologicznych
+    - **a)** AWOS dla I kat. precyzyjnego podejścia 1000
+    - **b)** AWOS dla II kat. precyzyjnego podejścia 1000
+    - **c)** AWOS dla III kat. precyzyjnego podejścia 1000
+    - **d)** AWOS dla potrzeb AFIS 500
+
+35. Wydanie zaświadczenia o zmianie wpisu w rejestrze lotniczych urządzeń naziemnych każde z urządzeń lub systemów wymienionych w ust. 34 200
+
+36. Wydanie duplikatu zaświadczenia o zmianie wpisu w rejestrze lotniczych urządzeń naziemnych każde zaświadczenie 100
+
+37. Wydanie zaświadczenia o wpisie do rejestru radiobikonów za każdy radiobikon 50
+
+38. Wyznaczenie unijnego podmiotu zatwierdzającego do spraw ochrony lotnictwa cywilnego 300
+
+39. Przeprowadzenie przez Prezesa Urzędu wizji lokalnej w celu potwierdzenia wdrożenia w ramach zatwierdzenia unijnych środków ochrony lotnictwa w odniesieniu do odpowiednich przewozów ładunków wykony- 20 000 wanych przez przewoźnika lotniczego przewożącego ładunki i pocztę z krajów trzecich oraz do zarejestrowanych agentów z krajów trzecich
+
+40. Rozpatrzenie wniosku o wydanie zezwolenia na wykonywanie zarobkowych operacji specjalistycznych wysokiego ryzyka statkiem po- 2116 wietrznym kategorii specjalnej, o którym mowa w art. 53a ust. 1, lub statkiem powietrznym, o którym mowa w art. 53a ust. 2 pkt 2
+
+41. Rozpatrzenie wniosku o wydanie zezwolenia na wykonywanie zarobkowych operacji polegających na wykonywaniu lotów przeciwpożaro- 2116 wych i gaśniczych
+
+42. Wniosek o zmianę zezwolenia na wykonywanie zarobkowych operacji specjalistycznych wysokiego ryzyka statkiem powietrznym kategorii specjalnej, o którym mowa w art. 53a ust. 1, lub statkiem powietrznym, o którym mowa w art. 53a ust. 2 pkt 2, bez względu na ilość i zakres zmian 1058
+
+43. Wniosek o zmianę zezwolenia na wykonywanie zarobkowych operacji polegających na wykonywaniu lotów przeciwpożarowych i gaśni- 1058 czych, bez względu na ilość i zakres zmian
+
+44. Rozpatrzenie wniosku oraz wydanie decyzji administracyjnej w przed- Opłata podstawowa 5000 zwiększona miocie certyfikatu LUC o opłatę za poszczególny wskazany poziom ryzyka:
+
+1. SAIL I 2500
+
+2. SAIL II 2500
+
+3. SAIL III 3000
+
+4. SAIL IV 3000
+
+5. SAIL V 3500
+
+6. SAIL VI 3500
+
+45. Rozpatrzenie wniosku o pojedynczą zmianę do certyfikatu LUC, o której mowa w UAS.LUC.070 części C rozporządzenia nr 2019/947/UE, 1000 oraz jego wydanie
+
+46. Rozpatrzenie wniosku o zamiarze przeprowadzania egzaminu z wiedzy teoretycznej do wykonywania operacji w podkategorii A2 kategorii 600 „otwartej”, o której mowa w art. 4 rozporządzenia nr 2019/947/UE, oraz wyznaczenie podmiotu
+
+47. Rozpatrzenie wniosku o zamiarze przeprowadzania egzaminu z wiedzy teoretycznej do wykonywania operacji w kategorii „szczególnej”, 1000 o której mowa w art. 5 rozporządzenia nr 2019/947/UE, oraz wyznaczenie podmiotu
+
+48. Rozpatrzenie, złożonego przez operatora systemu bezzałogowego statku powietrznego ubiegającego się o przyznanie uprawnienia do prowadzenia szkolenia praktycznego i oceny umiejętności praktycznych, oświadczenia, o którym mowa w dodatku 4 do załącznika do rozporządzenia nr 2019/947/UE, lub oświadczenia o zamiarze prowadzenia szkolenia praktycznego i oceny umiejętności praktycznych zgodnie z krajowym scenariuszem standardowym za każdy scenariusz 400
+
+49. Rozpatrzenie wniosku o zamiarze prowadzenia szkolenia praktycznego i oceny umiejętności praktycznych w ramach zezwolenia na ope- 400 rację, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE
+
+50. Rozpatrzenie, złożonego przez podmiot ubiegający się o uznanie, oświadczenia, o którym mowa w dodatku 6 do załącznika do rozporządzenia nr 2019/947/UE lub oświadczenia o zamiarze prowadzenia 400 szkolenia praktycznego i oceny umiejętności praktycznych zgodnie z krajowym scenariuszem standardowym za każdy scenariusz
+
+3. 14. Inne certyfikaty, zaświadczenia, zatwierdzenia oraz dokumenty wydane zgodnie z rozporządzeniem nr 965/2012/UE Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2
+
+1. Zmiana w certyfikacie AOC, specyfikacjach operacyjnych lub W zależności od maksymalnej masy startowej w wykazie zatwierdzeń szczególnych w zakresie wykazu statków (MTOM) powietrznych statku powietrznego do 10 ton włącznie więcej niż 10 ton 215 535
+
+2. Zmiana w certyfikacie AOC lub specyfikacjach operacyjnych, 1000 z wyjątkiem zmian, o których mowa w ust. 1
+
+3. Zatwierdzenie szkoleniowego urządzenia symulacji lotu (FSTD) do 1000 prowadzenia szkoleń i sprawdzeń u posiadacza certyfikatu AOC
+
+4. Postępowanie w sprawie wydania zwolnienia na podstawie art. 71 ust. 1 rozporządzenia nr 2018/1139/UE w zakresie podmiotów objętych 10 674 rozporządzeniem nr 965/2012/UE
+
+5. Zatwierdzenie indywidualnego programu określającego czas lotu 10 000 na podstawie ARO.OPS.235 rozporządzenia nr 965/2012/UE
+
+6. Zatwierdzenie umowy leasingu statku powietrznego, o której mowa w ARO.OPS.110 albo w ARO.OPS.155 w podczęści OPS 1000 załącznika II do rozporządzenia nr 965/2012/UE (dry-lease, wet-lease)
+
+7. Zatwierdzenie w zakresie bezpieczeństwa umowy w sprawie dzie- 1000 lenia oznaczeń linii z przewoźnikiem z państwa trzeciego
+
+8. Przyjęcie zgłoszenia wykonywania operacji niezarobkowych 500 skomplikowanym statkiem powietrznym z napędem silnikowym
+
+9. Przyjęcie zgłoszenia wykonywania zarobkowych operacji specja- 500 listycznych
+
+10. Zgłoszenie zawierające zmiany w zgłoszeniu wykonywania operacji niezarobkowych skomplikowanym statkiem powietrznym 200 z napędem silnikowym albo wykonywania zarobkowych operacji specjalistycznych
+
+11. Rozpatrzenie wniosku o wydanie zezwolenia na wykonywanie za- 2000 robkowych operacji specjalistycznych wysokiego ryzyka
+
+12. Wniosek o zmianę zezwolenia na wykonywanie zarobkowych operacji specjalistycznych wysokiego ryzyka, bez względu na 1000 ilość i zakres zmian
+
+13. Zatwierdzenie alternatywnych sposobów spełnienia wymagań 2000
+
+14. Zatwierdzenie listy minimalnego wyposażenia lub zmiany tej listy, 2000 bez względu na ilość i zakres zmian Tabela nr 2 Wykaz egzaminów na licencje i świadectwa kwalifikacji oraz wysokość stawek opłaty lotniczej związanej z egzaminami Część I Egzaminy
+
+1. 1. Egzaminy teoretyczne oraz teoretyczno-praktyczne na licencje i świadectwa kwalifikacji oraz uprawnienia do nich wpisywane Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2
+
+1. Przeprowadzenie egzaminu teoretycznego kandydatów na członków personelu lotniczego oraz członków personelu lotniczego na licencję: 215
+
+- **1)** praktykanta-kontrolera ruchu lotniczego 322
+- **2)** pilota samolotowego rekreacyjnego, pilota samolotowego turystycznego, pilota śmigłowcowego rekreacyjnego, pilota śmigłowcowego turystycznego, pilota wiatrakowcowego turystycznego, pilota balonowego rekreacyjnego, pilota balo- 428 nowego, pilota szybowcowego rekreacyjnego, pilota szybowcowego, mechanika lotniczego obsługi technicznej
+- **3)** pilota samolotowego zawodowego, pilota śmigłowcowego zawodowego, pilota wiatrakowcowego zawodowego, pilota sterowcowego zawodowego, nawigatora 1068 lotniczego, mechanika pokładowego, dyspozytora lotniczego
+- **4)** pilota samolotowego liniowego, pilota śmigłowcowego liniowego
+
+2. Przeprowadzenie egzaminu teoretycznego lub egzaminu teoretyczno-praktycznego kandydata na mechanika lotniczego obsługi technicznej Part-66:
+
+- **1)** za egzamin z każdego modułu Part-66: od M1 do M17 215
+- **2)** za każdy egzamin powtórkowy z niezaliczonego modułu Part-66 322
+- **3)** za egzamin teoretyczno-praktyczny na typ statku powietrznego o maksymalnej 322 masie startowej (MTOM) nieprzekraczającej 5700 kg za każdą kategorię
+
+3. Przeprowadzenie egzaminu teoretycznego kandydatów na członków personelu lotniczego oraz członków personelu lotniczego na dodatkowe uprawnienie w zakresie wykonywanych czynności lotniczych, za każde nowe uprawnienie wpisywane do licencji:
+
+- **1)** zawodowej, liniowej 215
+- **2)** do pozostałych licencji 162
+
+4. Przeprowadzenie egzaminu teoretycznego kandydatów na członków personelu 55 lotniczego oraz członków personelu lotniczego na świadectwo kwalifikacji
+
+5. Przeprowadzenie egzaminu teoretycznego kandydatów na członków personelu lotniczego oraz członków personelu lotniczego na dodatkowe uprawnienie w za- 162 kresie wykonywanych czynności lotniczych, za każde nowe uprawnienie wpisywane do świadectwa kwalifikacji
+
+6. Przeprowadzenie cząstkowego egzaminu teoretycznego na uznanie licencji albo egzaminu wskazanego w decyzji o zawieszeniu lub ograniczeniu licencji albo 108 świadectwa kwalifikacji
+
+7. Przeprowadzenie komisyjnego egzaminu teoretycznego, za każdy przedmiot 322
+
+1. 2. Egzaminy praktyczne na licencje, świadectwa kwalifikacji i uprawnienia wpisywane do licencji lub świadectw kwalifikacji oraz inne egzaminy praktyczne Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2
+
+1. Przeprowadzenie egzaminu praktycznego kandydatów na członków personelu lotniczego oraz członków personelu lotniczego na licencję:
+
+- **1)** pilota samolotowego rekreacyjnego 855
+- **2)** pilota samolotowego turystycznego 855
+- **3)** pilota śmigłowcowego rekreacyjnego 855
+- **4)** pilota śmigłowcowego turystycznego 855
+- **5)** pilota wiatrakowcowego turystycznego 855
+- **6)** pilota samolotowego zawodowego 2135
+- **7)** pilota śmigłowcowego zawodowego 2135
+- **8)** pilota wiatrakowcowego zawodowego 1068
+- **9)** pilota sterowcowego zawodowego 1068
+- **10)** pilota samolotowego liniowego 3202
+- **11)** pilota śmigłowcowego liniowego 3202
+- **12)** pilota balonowego rekreacyjnego 535
+- **13)** pilota balonowego 535
+- **14)** pilota szybowcowego rekreacyjnego 108
+- **15)** pilota szybowcowego 108
+- **16)** nawigatora lotniczego 1603
+- **17)** mechanika pokładowego 1068
+- **18)** kontrolera ruchu lotniczego 2670
+- **19)** dyspozytora lotniczego 1068
+- **20)** mechanika lotniczego obsługi technicznej 1068
+- **21)** praktykanta-kontrolera ruchu lotniczego 1068
+
+2. Przeprowadzenie egzaminu praktycznego kandydatów na uprawnienia w zakresie znajomości lotniczego języka angielskiego, języka polskiego, egzaminu na przedłużenie ważności tego uprawnienia zgodnie z wymaganiami Załącznika 1 do 765 Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. oraz egzaminu wykazującego biegłość językową, o której mowa w ADR.OPS.B.029 załącznika IV do rozporządzenia nr 139/2014/UE
+
+3. Przeprowadzenie egzaminu praktycznego lub oceny kompetencji kandydatów na członków personelu lotniczego oraz członków personelu lotniczego na dodat- 322 kowe uprawnienie w zakresie wykonywanych czynności lotniczych, za każde nowe uprawnienie wpisywane do licencji
+
+4. Przeprowadzenie egzaminu praktycznego kandydatów na członków personelu lotniczego oraz członków personelu lotniczego na świadectwo kwalifikacji dla:
+
+- **1)** pilota lotni 66
+- **2)** pilota paralotni 44
+- **3)** pilota motolotni i motoparalotni 66
+- **4)** pilota statku powietrznego o maksymalnej masie startowej (MTOM) do 495 kg 66
+- **5)** (uchylony)
+- **6)** skoczka spadochronowego 44
+- **7)** (uchylony)
+- **8)** pilota wiatrakowca ultralekkiego 66
+- **9)** mechanika poświadczenia obsługi statku powietrznego 108
+- **10)** informatora służby informacji powietrznej 108
+- **11)** informatora lotniskowej służby informacji powietrznej 66
+
+5. Przeprowadzenie egzaminu praktycznego kandydatów na członków personelu lotniczego oraz członków personelu lotniczego na dodatkowe uprawnienie w zakresie wykonywanych czynności lotniczych, za każde nowe uprawnienie wpisywane do świadectwa kwalifikacji 108
+
+6. Przeprowadzenie egzaminu praktycznego, kontroli umiejętności lub oceny kompetencji:
+
+- **1)** na przedłużenie ważności uprawnienia wpisanego do licencji, za każde przedłu- 108 żane uprawnienie
+- **2)** na wznowienie ważności uprawnienia wpisywanego do licencji, za każde wzna- 315 wiane uprawnienie
+- **3)** w zakresie wykonywanych czynności egzaminacyjnych wymaganych przepisami 315 rozporządzenia 1178/2011/UE
+
+7. Przeprowadzenie egzaminu praktycznego na przedłużenie lub wznowienie waż- 55 ności uprawnienia wpisywanego do świadectwa kwalifikacji, za każde przedłużane lub wznawiane uprawnienie Część II Zaświadczenia oraz poświadczenie zgodności dokumentu z oryginałem
+
+2. 1. Zaświadczenia i poświadczenia Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2
+
+1. Wydanie zaświadczenia o zdanym egzaminie na licencję 30
+
+2. Wydanie zaświadczenia potwierdzającego uczestnictwo kandydata w egzaminach 15 Część I Nadzór nad instytucjami zapewniającymi służby żeglugi powietrznej Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2
+
+1. Sprawowanie bieżącego nadzoru nad instytucją posiadającą certyfikat w zakresie poniższych obszarów:
+
+- **1)** służby kontroli obszaru (ACC Area Control Service) 20 000
+- **2)** służby kontroli zbliżania (APP Approach Control Service) 10 000
+- **3)** służby kontroli lotniska (TWR Aerodrome Control Service) 10 000
+- **4)** służby informacji powietrznej (FIS Flight Information Service) 10 000
+- **5)** służby lotniskowej informacji powietrznej (AFIS Aerodrome Flight Information Service) 2000
+- **6)** służby łączności (COM Communication Service) 1000
+- **7)** służby nawigacji (NAV Navigation Service) 2000
+- **8)** służby dozorowania (SUR Surveillance Service) 4000
+- **9)** służby przetwarzania i zobrazowania danych (DP Data Pro- 10 000 cessing)
+- **10)** służby informacji lotniczej (AIS Aeronautical Information 10 000 Service)
+
+2. Sprawowanie bieżącego nadzoru nad instytucją posiadającą 5000 certyfikat w zakresie służby meteorologicznej/organ służby Część II Nadzór nad eksploatacją lotnisk Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2 Sprawowanie bieżącego nadzoru nad bezpieczną eksploatacją posiadacza certyfikatu lotniska:
+
+- **1)** o literze kodu A 5000
+- **2)** o literze kodu B 15 000
+- **3)** o literze kodu C 30 000
+- **4)** o literze kodu D 40 000
+- **5)** o literze kodu E 55 000 Tabela nr 3 Wykaz czynności urzędowych i wysokość stawek opłaty lotniczej za sprawowanie bieżącego nadzoru nad lotnictwem cywilnym Część III Nadzór nad posiadaczami certyfikatu AOC, certyfikatu AHAC, zezwolenia na wykonywanie zarobkowych operacji specjalistycznych wysokiego ryzyka statkiem powietrznym kategorii specjalnej, o którym mowa w art. 53a ust. 1, lub statkiem powietrznym, o którym mowa w art. 53a ust. 2 pkt 2, oraz zezwolenia na wykonywanie zarobkowych operacji polegających na wykonywaniu lotów przeciwpożarowych i gaśniczych Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2
+
+1. Sprawowanie bieżącego nadzoru nad posiadaczem certyfikatu Opłata podstawowa w wysokości AOC i wpisanymi do niego zezwoleniami specjalnymi: 100 %opłaty określonej w tabeli nr 1 część III podczęść 3.9. ust. 1 zwiększona o opłatę za każde zezwolenie wpisane do certyfikatu
+
+- **1)** na operacje w każdych warunkach meteorologicznych 1000 AWO od E1 do E5
+- **2)** na operacje w przestrzeniach MNPS E6 800
+- **3)** na operacje o wydłużonym zasięgu samolotami dwusilni- 3000 kowymi ETOPS E7
+- **4)** na operacje nawigacji obszarowej RNAV E8 500
+- **5)** na operacje w przestrzeniach RVSM E9 600
+- **6)** na przewóz materiałów niebezpiecznych DGR E11 800
+- **7)** na śmigłowcowe operacje przybrzeżne E12 1000
+- **8)** na operacje transportu pilotów morskich E13 1000
+
+2. Przeprowadzenie procesu uznania certyfikatu przewoźnika lot- 4000 niczego wydanego przez państwa obce z wyłączeniem państw członkowskich Unii Europejskiej, Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym oraz Konfederacji Szwajcarskiej
+
+3. (uchylony)
+
+4. (uchylony)
+
+5. Sprawowanie bieżącego nadzoru nad posiadaczem certyfikatu AHAC w zakresie:
+
+- **1)** obsługi ładunków (towarów poczty) kat. 4 (ogólne usługi administracyjno-gospodarcze wykonywane w interesie użytkowników) w portach lotniczych, w których ruch roboczy wynosi:
+    - **a)** do 1 000 000 pasażerów lub do 25 000 ton ładunku 30
+    - **b)** od 1 000 000 do 2 000 000 pasażerów lub od 25 000 40 do 50 000 ton ładunku
+    - **c)** od 2 000 000 do 5 000 000 pasażerów lub od 50 000 60 do 125 000 ton ładunku
+    - **d)** od 5 000 000 do 10 000 000 pasażerów lub od 125 000 120 do 250 000 ton ładunku
+    - **e)** powyżej 10 000 000 pasażerów lub powyżej 250 000 ton 230 ładunku
+
+- **2)** obsługi dotyczącej zaopatrzenia statków powietrznych w paliwo, smary i inne materiały techniczne kat. 7 (obsługa w zakresie zaopatrzenia statków powietrznych w paliwo, smary i inne materiały techniczne) w portach lotniczych, w których ruch roboczy wynosi:
+    - **a)** do 1 000 000 pasażerów lub do 25 000 ton ładunku 60
+    - **b)** od 1 000 000 do 2 000 000 pasażerów lub od 25 000 120 do 50 000 ton ładunku
+    - **c)** od 2 000 000 do 5 000 000 pasażerów lub od 50 000 230 do 125 000 ton ładunku
+    - **d)** od 5 000 000 do 10 000 000 pasażerów lub od 125 000 580 do 250 000 ton ładunku
+    - **e)** powyżej 10 000 000 pasażerów lub powyżej 250 000 ton 700 ładunku
+
+6. Sprawowanie bieżącego nadzoru nad posiadaczem zezwolenia na wykonywanie zarobkowych operacji specjalistycznych wysokiego ryzyka statkiem powietrznym kategorii specjalnej, o którym mowa w art. 53a ust. 1, lub statkiem powietrznym, o którym mowa w art. 53a ust. 2 pkt 2 5289
+
+7. Sprawowanie bieżącego nadzoru nad posiadaczem zezwolenia na wykonywanie zarobkowych operacji polegających na wyko- 5289 nywaniu lotów przeciwpożarowych i gaśniczych Część IIIa Nadzór nad rynkiem przewozów lotniczych oraz inną działalnością gospodarczą w lotnictwie cywilnym, zgodnie z rozporządzeniem nr 965/2012/UE Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2
+
+1. Sprawowanie bieżącego nadzoru nad posiadaczem certyfikatu AOC Opłata podstawowa w wysokości 100 % opłaty podstawowej określonej w tabeli nr 1 część III podczęść 3.9.1 ust. 1
+
+2. Sprawowanie bieżącego nadzoru nad wydanymi zatwierdzeniami szczególnymi (dla przewoźników AOC oraz pozostałych użytkowników):
+
+- **1)** na operacje przy ograniczonej widzialności (LVO) za każde zezwolenie 1068
+- **2)** na operacje z określonymi specyfikacjami minimalnych osiągów nawigacyjnych (MNPS) 1068
+- **3)** na operacje o wydłużonym zasięgu samolotami dwusilnikowymi ETOPS 3202
+- **4)** na operacje z nawigacją w oparciu o charakterystyki systemów (PBN) za każdą spe- 500 cyfikację PBN
+- **5)** na operacje w przestrzeni powietrznej ze zredukowanymi minimami separacji pionowej 1000 (RVSM)
+- **6)** na operacje śmigłowcowe z użyciem systemu noktowizyjnego (NVIS) 1000
+- **7)** na operacje śmigłowcowe z ładunkiem na zaczepie zewnętrznym (HHO) 1000
+- **8)** na operacje śmigłowcowych służb ratownictwa medycznego (HEMS) 2000
+- **9)** na inne zatwierdzenia szczególne wpisywane do specyfikacji operacyjnej, o których 1000 mowa w Dodatku II w Part-ARO przypis 20 za każde zezwolenie
+- **10)** na transport materiałów niebezpiecznych DG 1000
+- **11)** na upoważnienie do szkolenia personelu pokładowego zgodnie z podczęścią CC 1000 (Part-CC) załącznika III do rozporządzenia nr 965/2012/UE
+- **12)** na upoważnienie do wydawania świadectw dopuszczenia do pracy personelu pokładowego 1000 zgodnie z podczęścią CC (Part-CC) załącznika III do rozporządzenia nr 965/2012/UE
+
+3. Sprawowanie bieżącego nadzoru nad zgłaszającymi wykonywanie zarobkowych ope- 2000 racji specjalistycznych
+
+4. Sprawowanie bieżącego nadzoru nad zgłaszającymi wykonywanie operacji niezarob- 2000 kowych skomplikowanym statkiem powietrznym z napędem silnikowym
+
+5. Sprawowanie bieżącego nadzoru nad posiadaczami zezwolenia na wykonywanie za- 5000 robkowych operacji specjalistycznych wysokiego ryzyka, w tym wykonywania zarobkowych operacji specjalistycznych Część IV Sprawowanie bieżącego nadzoru nad posiadaczami certyfikatu ATO, CTO, ATCO TO, FISP TO oraz MTO Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2
+
+1. Sprawowanie bieżącego nadzoru nad posiadaczem certyfikatu ATO, CTO, ATCO TO lub FISP TO:
+
+- **1)** ATO 750
+- **2)** CTO, ATCO TO lub FISP TO 428
+
+2. Sprawowanie bieżącego nadzoru nad posiadaczem certyfikatu MTO Part-147 szkolą- 1047 cego na kategorię lub podkategorię
+
+3. Sprawowanie bieżącego nadzoru nad organizacjami szkoleniowymi mechaników lotni- 524 czych obsługi technicznej innych niż organizacje MTO Part-147 Część V Sprawowanie bieżącego nadzoru nad posiadaczami certyfikatu AMO, POA, CAMO Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2
+
+1. Sprawowanie bieżącego nadzoru nad posiadaczami certyfikatu AMO:
+
+- **1)** spełniającymi wymagania PART-145
+    - **a)** w klasie statki powietrzne A1 A2 A3 A4 1500 750 750 550
+    - **b)** w klasie silniki B1 B2 B3 1125 550 375
+    - **c)** w klasie podzespoły 225 za każdą kategorię
+    - **d)** w klasie badania nieniszczące 225
+
+- **2)** spełniającymi wymagania PART M/F
+    - **a)** w klasie statki powietrzne A1 A2 A3 A4 550 550 375
+    - **b)** w klasie silniki B1 B2 B3 750 375 225
+    - **c)** w klasie podzespoły 150 za każdą kategorię
+    - **d)** w klasie badania nieniszczące 150
+
+- **3)** spełniającymi wymagania PL-6
+    - **a)** w klasie statki powietrzne A1 A2 A3 A4 375 375 225
+    - **b)** w klasie silniki B1 B2 B3 450 250 150
+    - **c)** w klasie podzespoły 110
+    - **d)** w klasie badania nieniszczące 110
+
+2. Sprawowanie bieżącego nadzoru nad posiadaczami certyfikatu CAMO:
+
+- **1)** spełniającymi wymagania PART M/G w zakresie upraw- A1 A2 A3 A4 nień określonych w pkt M.A.711(a) 1500 750 750 250
+- **2)** spełniającymi wymagania PART M/G w zakresie upraw- 1000 500 350 200 nień określonych w pkt M.A.711(b)
+- **3)** spełniającymi wymagania PART M/G w zakresie upraw- 750 350 250 125 nień określonych w pkt M.A.711(c)
+- **4)** spełniającymi wymagania PL-6 300 200 100
+
+3. Sprawowanie bieżącego nadzoru nad posiadaczem certyfikatu 50 % wartości opłaty jak za certyfikację POA (tabela nr 1 część III podczęść 3.5.)
+
+4. Sprawowanie bieżącego nadzoru nad posiadaczem certyfikatu 250 dotyczącego projektowania, produkcji i obsługi
+
+5. Sprawowanie bieżącego nadzoru nad budową w pojedynczym 250 egzemplarzu: lotni, paralotni, spadochronu, motolotni lub ultralekkiego statku powietrznego
+
+6. Sprawowanie bieżącego nadzoru nad posiadaczem certyfikatu 150 dotyczącego obsługi sprzętu spadochronowego, motolotni lub ultralekkich statków powietrznych Część VI Sprawowanie bieżącego nadzoru nad działalnością centrów medycyny lotniczej i lekarzy orzeczników medycyny lotniczej Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2
+
+1. Sprawowanie bieżącego nadzoru nad działalnością centrum medycyny lotniczej 1068
+
+2. Sprawowanie bieżącego nadzoru nad działalnością lekarza orzecznika medycyny lotniczej 215 Część VII Sprawowanie bieżącego nadzoru nad operatorami systemów bezzałogowych statków powietrznych oraz podmiotami prowadzącymi szkolenia praktyczne i ocenę umiejętności praktycznych pilotów bezzałogowych statków powietrznych Rodzaj czynności urzędowej Wysokość stawki w zł 1 2
+
+1. Sprawowanie bieżącego nadzoru nad operatorem systemu bezzałogowego statku powietrznego, który złożył oświadczenie o wykonywaniu operacji w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, zgodnie z krajowym scenariuszem standardowym lub scenariuszem standardowym, o którym mowa w art. 5 ust. 5 rozporządzenia nr 2019/947/UE 0
+
+2. Sprawowanie bieżącego nadzoru nad operatorem systemu bezzałogowego statku 1000 powietrznego, który posiada zezwolenie, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE
+
+3. Sprawowanie bieżącego nadzoru nad operatorem systemu bezzałogowego statku 0 powietrznego, który posiada zezwolenie na operację, o którym mowa w art. 16 ust. 1 rozporządzenia nr 2019/947/UE
+
+4. Sprawowanie bieżącego nadzoru nad operatorem systemu bezzałogowego statku 5000 powietrznego, który posiada certyfikat LUC
+
+5. Sprawowanie bieżącego nadzoru nad wyznaczonym podmiotem, o którym mowa 500 w art. 156n ust. 1
+
+6. Sprawowanie bieżącego nadzoru nad uznanym podmiotem, o którym mowa w art. 156o 400 ust. 1 pkt 1
+
+7. Sprawowanie bieżącego nadzoru nad operatorem systemu bezzałogowego statku po- 400 wietrznego posiadającym uprawnienie, o którym mowa w art. 156o ust. 1 pkt 2 Przypisy: OPŁATY ZA CZYNNOŚCI ZWIĄZANE Z WYZNACZANIEM STREF GEOGRAFICZNYCH DLA SYSTEMÓW BEZZAŁOGOWYCH STATKÓW POWIETRZNYCH, PRZEDŁUŻANIEM OKRESU ICH OBOWIĄZYWANIA I ICH PONOWNYM WYZNACZANIEM
+
+1. Opłata za przeprowadzenie wstępnej oceny wniosku 112 zł od każdego wniosku o wyznaczenie strefy o wyznaczenie strefy geograficznej geograficznej
+
+2. Opłata za wyznaczenie strefy geograficznej:
+
+- **1)** w przypadku gdy wnioskodawca występuje jednocześ- 390 zł za każdą strefę geograficzną nie o wyznaczenie od 1 strefy geograficznej do 10 stref geograficznych lub w przypadku gdy w wyniku przeprowadzenia wstępnej oceny wniosku o wyznaczenie strefy geograficznej wnioskodawca zostaje wezwany do zmiany wniosku, tak aby dotyczył on wyznaczenia do 10 stref geograficznych
+- **2)** w przypadku gdy wnioskodawca występuje jednocześnie o wyznaczenie od 11 do 49 stref geograficznych lub w przypadku gdy w wyniku przeprowadzenia wstępnej oceny wniosku o wyznaczenie strefy geograficznej wnioskodawca zostaje wezwany do zmiany wniosku, tak aby dotyczył on wyznaczenia od 11 do 49 stref geograficznych 257 zł za każdą strefę geograficzną
+- **3)** w przypadku gdy wnioskodawca występuje jednocześ- 156 zł za każdą strefę geograficzną nie o wyznaczenie powyżej 49 stref geograficznych lub w przypadku gdy w wyniku przeprowadzenia wstępnej oceny wniosku o wyznaczenie strefy geograficznej wnioskodawca zostaje wezwany do zmiany wniosku, tak aby dotyczył on wyznaczenia powyżej 49 stref geograficznych
+
+3. Opłata za przedłużenie okresu obowiązywania strefy geograficznej:
+
+- **1)** w przypadku gdy wnioskodawca występuje jednocześ- 101 zł za każdą strefę geograficzną nie o przedłużenie okresów obowiązywania od 1 strefy geograficznej do 10 stref geograficznych
+- **2)** w przypadku gdy wnioskodawca występuje jednocześ- 78 zł za każdą strefę geograficzną nie o przedłużenie okresów obowiązywania od 11 do 49 stref geograficznych
+- **3)** w przypadku gdy wnioskodawca występuje jednocześ- 39 zł za każdą strefę geograficzną nie o przedłużenie okresów obowiązywania powyżej 49 stref geograficznych
+
+4. Opłata za ponowne wyznaczenie strefy geograficznej:
+
+- **1)** w przypadku gdy wnioskodawca występuje jednocześ- 190 zł za każdą strefę geograficzną nie o ponowne wyznaczenie od 1 strefy geograficznej do 10 stref geograficznych
+- **2)** w przypadku gdy wnioskodawca występuje jednocześ- 129 zł za każdą strefę geograficzną nie o ponowne wyznaczenie od 11 do 49 stref geograficznych
+- **3)** w przypadku gdy wnioskodawca występuje jednocześnie o ponowne wyznaczenie powyżej 49 stref geograficznych 78 zł za każdą strefę geograficzną
+
 

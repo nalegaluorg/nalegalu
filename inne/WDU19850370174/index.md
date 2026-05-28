@@ -22,12 +22,15 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1985-07-31 |
 | Data wydania | 1985-08-21 |
+| Wejście w życie | 1986-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19850370174) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1985/174/text.pdf) |
 
 W celu umocnienia nowych zasad funkcjonowania gospodarki oraz usprawnienia mechanizmów reformy gospodarczej w dostosowaniu do obiektywnych uwarunkowań i potrzeb dalszego rozwoju społeczno-gospodarczego kraju stanowi się, co następuje:
 
 **Art. 1.** W ustawie z dnia 26 lutego 1982 r. o cenach (Dz. U. z 1984 r. Nr 13, poz. 59) wprowadza się następujące zmiany:
+
+- **1)** art. 8 otrzymuje brzmienie: „
 
 **Art. 8.**
 
@@ -110,6 +113,17 @@ W celu umocnienia nowych zasad funkcjonowania gospodarki oraz usprawnienia mecha
 - **3)** sprzedawcy lub sprzedaży – rozumie się przez to odpowiednio wykonawcę obiektu budowlanego i roboty budowlanej, wykonawcę prac geologicznych oraz wykonawcę usługi lub wykonanie obiektu budowlanego i roboty budowlanej, wykonanie prac geologicznych oraz świadczenie usługi. ”
 
 **Art. 2.** W ustawie z dnia 26 lutego 1982 r. o opodatkowaniu jednostek gospodarki uspołecznionej (Dz. U. z 1984 r. Nr 16, poz. 75 i z 1985 r. Nr 12, poz. 50) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 w ust. 1 w pkt 9 przecinek na końcu skreśla się i dodaje wyrazy „oraz Naczelnej Rady Spółdzielczej i Centralnego Związku Rzemiosła,”;
+- **2)** w art. 3 w ust. 1 w pkt 4 po wyrazie „dochodowy” stawia się przecinek i dodaje pkt 5 w brzmieniu: „
+- **5)** podatek od ponadnormatywnych wypłat wynagrodzeń, ” ;
+- **3)** w art. 6 w ust. 2 kropkę na końcu zastępuje się przecinkiem i dodaje pkt 4 w brzmieniu: „
+- **4)** celów produkcyjnych, w wypadkach określonych przez Ministra Finansów w tabeli stawek podatku obrotowego. ” ;
+- **4)** w art. 15 ust. 8 otrzymuje brzmienie: „
+
+8. Minister Finansów ustala podlegającą publikacji tabelę (taryfę) stawek podatku obrotowego, z tym że w tabeli tej nie uwzględnia się stawek dla wyrobów przemysłu spirytusowego i drożdżowego, produktów ropopochodnych oraz metali szlachetnych i produktów z tych metali. ” ;
+
+- **5)** po art. 29 dodaje się rozdział 3a w brzmieniu: „
 
 #### Rozdział 3a Podatek od ponadnormatywnych wypłat wynagrodzeń
 
@@ -201,9 +215,36 @@ W celu umocnienia nowych zasad funkcjonowania gospodarki oraz usprawnienia mecha
 
 **Art. 40.** Podatek dochodowy, po uwzględnieniu obowiązujących ulg w tym podatku, nie może być niższy niż 20% podstawy opodatkowania. ” ;
 
+- **11)** w art. 42 po wyrazach „sprzedaż na eksport” dodaje się wyrazy „oszczędność surowców, materiałów, paliw i energii oraz zagospodarowanie surowców wtórnych,”;
+- **12)** w art. 45 w ust. 1 pkt 1 otrzymuje brzmienie: „
+- **1)** szczegółowe zasady obliczania podatków oraz terminy i tryb ich płatności, z wyjątkiem podatku od ponadnormatywnych wypłat wynagrodzeń, ” ;
+- **13)** w art. 48 w ust. 1 wyrazy „do 1985 r.” zastępuje się wyrazami „do 1990 r.”;
+- **14)** dodaje się art. 53 w brzmieniu: „
+
 **Art. 53.** Podatek od ponadnormatywnych wypłat wynagrodzeń stanowi dochód budżetu centralnego. ”
 
 **Art. 3.** W ustawie z dnia 26 lutego 1982 r. o gospodarce finansowej przedsiębiorstw państwowych (Dz. U. z 1984 r. Nr 16, poz. 74, Nr 26, poz. 129, Nr 34, poz. 181 i Nr 54, poz. 275) wprowadza się następujące zmiany:
+
+- **1)** w art. 5 w ust. 3 wyrazy „należny odpis na Państwowy Fundusz Aktywizacji Zawodowej” zastępuje się wyrazami „należna wpłata podatku od ponadnormatywnych wypłat wynagrodzeń, o którym mowa w art. 29a ust. 1 ustawy z dnia 26 lutego 1982 r. o opodatkowaniu jednostek gospodarki uspołecznionej (Dz. U. z 1984 r. Nr 16, poz. 75 i z 1985 r. Nr 12, poz. 50 oraz Nr 37, poz. 174).”;
+- **2)** w art. 7: w ust. 2 po wyrazach „fundusz załogi” stawia się przecinek i dodaje wyrazy „fundusz efektów wdrożeniowych”, ust. 4 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+4. Przedsiębiorstwo gromadzi na odrębnych rachunkach bankowych środki funduszu efektów wdrożeniowych oraz zakładowych funduszów socjalnego i mieszkaniowego. ” ,
+
+- **3)** w art. 8 ust. 1 i 2 otrzymują brzmienie: „
+
+1. Fundusz rezerwowy tworzy się z odpisów z zysku do podziału. Odpis na ten fundusz nie może być niższy niż 10% zysku do podziału pomniejszonego o kwotę ulg w podatku dochodowym, jeżeli w decyzjach o ich przyznaniu ustalono obowiązek przeznaczenia ich na określone cele. Przedsiębiorstwo może zaniechać odpisów na fundusz rezerwowy, gdy stan tego funduszu przekroczy równowartość 4% kosztów działalności eksploatacyjnej przedsiębiorstwa w roku sprawozdawczym.
+
+2. Przedsiębiorstwo przeznacza fundusz rezerwowy na pokrycie straty, o której mowa w art. 3 ust. 1, oraz na spłatę podatku od ponadnormatywnych wypłat wynagrodzeń, nie znajdującego pokrycia w zysku do podziału. ” ;
+
+- **4)** w art. 9: w ust. 2 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** koszty i dochody z tytułu likwidacji lub sprzedaży środków trwałych, ” , w ust. 4 dodaje się zdanie w brzmieniu: „ Z pozostałej części funduszu rozwoju mogą być również udzielane pożyczki innym przedsiębiorstwom państwowym lub innym jednostkom gospodarki uspołecznionej na zasadach określonych w art. 34a. ” ;
+    - **b)**
+
+- **5)** po art. 9 dodaje się art. 9a w brzmieniu: „
 
 **Art. 9a.**
 
@@ -250,15 +291,62 @@ W celu umocnienia nowych zasad funkcjonowania gospodarki oraz usprawnienia mecha
 
 **Art. 4.** W ustawie z dnia 26 lutego 1982 r. o planowaniu społeczno-gospodarczym (Dz. U. Nr 7, poz. 51 i z 1983 r. Nr 71, poz. 318) wprowadza się następujące zmiany:
 
+- **1)** w art. 10 w ust. 2 pkt 1 i 2 otrzymują brzmienie: „
+- **1)** podstawowe cele i kierunki polityki społeczno-gospodarczej,
+- **2)** szczegółowe ustalenia planu, ” ;
+- **2)** w art. 17 w ust. 2 kropkę na końcu tego ustępu zastępuje się przecinkiem i dodaje się pkt 4 w brzmieniu: „
+- **4)** przekształceń strukturalnych w gospodarce narodowej. ” ;
+- **3)** w art. 33: w ust. 1 na końcu po wyrazie „zaopatrzenia” dodaje się wyrazy „oraz do wprowadzenia w drodze rozporządzenia opłat na rzecz budżetu państwa od jednostek gospodarczych naruszających przepisy dotyczące zaopatrzenia materiałowo-technicznego, przy równoczesnym określeniu wysokości opłat i trybu ich pobierania oraz organów powołanych do orzekania w tych sprawach.”, ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2. W celu zapewnienia wykonania najważniejszych zadań w dziedzinie warunków życia ludności, obronności kraju oraz rozwoju gospodarki Rada Ministrów w latach 1986–1990 może:
+
+- **1)** określać priorytety realizacyjne w formie zamówień rządowych i programów operacyjnych oraz ustalać rodzaj i zakres gwarancji zaopatrzeniowych i preferencji finansowych dla jednostek gospodarczych, które uczestniczą w ich realizacji,
+- **2)** w szczególnie uzasadnionych wypadkach – jeżeli przedsiębiorstwo państwowe, mimo udzielenia gwarancji zaopatrzeniowych, odmawia zawarcia umowy o realizację zamówienia rządowego bądź programu operacyjnego mieszczącego się w profilu jego działalności – upoważnić organ założycielski do nałożenia na to przedsiębiorstwo obowiązku zawarcia takiej umowy; upoważnienie takie może być również udzielone właściwemu organowi w stosunku do spółdzielni lub innej jednostki gospodarki uspołecznionej,
+- **3)** ustalić w drodze rozporządzenia – po konsultacji z Ogólnopolskim Porozumieniem Związków Zawodowych – wykaz zakładów pracy o podstawowym znaczeniu dla gospodarki narodowej lub obronności kraju oraz użyteczności publicznej, w których stosuje się podwyższony wymiar czasu pracy do 8 godzin na dobę i 46 godzin na tydzień. Praca wykonywana ponad normy czasu pracy określone zgodnie z przepisami prawa pracy stanowi pracę w godzinach nadliczbowych. Godziny przepracowane w dodatkowe dni wolne od pracy nie podlegają wliczeniu do liczby godzin nadliczbowych, dopuszczalnej w myśl art. 133 § 2 Kodeksu pracy. ” , dodaje się ust. 3 w brzmieniu: „
+    - **c)**
+
+3. Po upływie każdego roku stosowania reglamentacji oraz priorytetów realizacyjnych, o których mowa w ust. 1 i 2, Rada Ministrów przedstawia Sejmowi sprawozdanie o wynikach stosowania reglamentacji oraz priorytetów realizacyjnych wraz z programem ograniczenia zakresu ich stosowania, łącznie ze sprawozdaniem, o którym mowa w art. 27 ust. 1 pkt 3. ”
+
 **Art. 5.** W ustawie z dnia 29 czerwca 1983 r. o poprawie gospodarki przedsiębiorstwa państwowego oraz o jego upadłości (Dz. U. Nr 36, poz. 165) wprowadza się następujące zmiany:
+
+- **1)** art. 4 otrzymuje brzmienie: „ Postępowanie wewnętrzne mające na celu poprawę gospodarki przedsiębiorstwa wszczyna się, gdy:
+- **1)** występuje zagrożenie, że płatne z zysku zobowiązania przedsiębiorstwa wobec budżetu przewyższą zysk bilansowy przedsiębiorstwa, lub
+- **2)** zagrożona jest zdolność przedsiębiorstwa do sfinansowania ze środków funduszu rozwoju lub innych funduszów o podobnym charakterze co najmniej: spłaty kredytów bankowych wraz z należnymi odsetkami w wysokości i terminach ustalonych w umowach kredytowych, terminowego pokrywania płatności związanych z przygotowywanymi lub realizowanymi inwestycjami finansowanymi ze środków funduszu rozwoju lub innych funduszów o podobnym charakterze, a także z ich udziałem, terminowej spłaty innych zobowiązań zaciągniętych przez przedsiębiorstwo, obciążających fundusz rozwoju lub fundusze o podobnym charakterze. ” ;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** w art. 7 pkt 1 otrzymuje brzmienie: „
+- **1)** przedsięwzięcia zmierzające do likwidacji zagrożeń, o których mowa w art. 4, oraz do osiągnięcia wyniku finansowego zapewniającego możliwości rozwoju przedsiębiorstwa, ” ;
+- **3)** art. 12 otrzymuje brzmienie: „
 
 **Art. 12.** Po otrzymaniu zawiadomienia, że wyniki działalności przedsiębiorstwa wskazują na konieczność podjęcia postępowania wewnętrznego, o którym mowa w art. 4, organ założycielski może powołać komisję przewidzianą w art. 50 ustawy z dnia 25 września 1981 r. o przedsiębiorstwach państwowych (Dz. U. Nr 24, poz. 122, z 1982 r. Nr 45, poz. 289, z 1983 r. Nr 36, poz. 165 i Nr 39, poz. 176 oraz z 1984 r. Nr 45, poz. 242 i Nr 54, poz. 275). ” ;
 
+- **4)** w art. 16 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
+
+2. Organ założycielski może także ustanowić zarząd komisaryczny, jeżeli organy przedsiębiorstwa mimo wezwania, o którym mowa w art. 5 ust. 3, nie wszczęły postępowania wewnętrznego, a komisja, o której mowa w art. 12, uznała takie postępowanie za niezbędne. ”
+
 **Art. 6.** W ustawie z dnia 29 grudnia 1983 r. o Państwowym Funduszu Aktywizacji Zawodowej (Dz. U. Nr 75, poz. 334) wprowadza się następujące zmiany:
 
+- **1)** art. 2 otrzymuje brzmienie: „ Dochodami funduszu są:
+- **1)** dotacje z budżetu centralnego,
+- **2)** środki pochodzące z innych źródeł, uzyskiwane na podstawie odrębnych przepisów. ” ;
+- **2)** art. 3–5 skreśla się;
+- **3)** art. 7 otrzymuje brzmienie: „
+
 **Art. 7.** Pozostałość środków funduszu na koniec roku przechodzi na rok następny. ” ;
+
+- **4)** art. 21 i 22 skreśla się;
+- **5)** art. 23 i 24 otrzymują brzmienie: „
 
 **Art. 23.** Środki finansowe, należności i zobowiązania Funduszu według stanu na koniec 1985 r. przejmuje budżet Państwa.
 
 **Art. 24.** Przy ustalaniu obciążeń za lata 1984 i 1985 stosuje się dotychczasowe przepisy ” 1. Minister do Spraw Cen ogłosi w Dzienniku Ustaw jednolity tekst ustawy z dnia 26 lutego 1982 r. o cenach, z uwzględnieniem zmian wynikających z przepisów ogłoszonych przed dniem wydania jednolitego tekstu i z zastosowaniem ciągłej numeracji artykułów, ustępów i punktów. 2. Minister Finansów ogłosi w Dzienniku Ustaw jednolite teksty:
+
+- **1)** ustawy z dnia 26 lutego 1982 r. o gospodarce finansowej przedsiębiorstw państwowych,
+- **2)** ustawy z dnia 26 lutego 1982 r. o opodatkowaniu jednostek gospodarki uspołecznionej,
+- **3)** ustawy z dnia 29 czerwca 1983 r. o poprawie gospodarki przedsiębiorstwa państwowego oraz o jego upadłości, z uwzględnieniem zmian wynikających z przepisów ogłoszonych przed dniem wydania jednolitych tekstów i z zastosowaniem ciągłej numeracji rozdziałów, artykułów, ustępów i punktów. Ustawa wchodzi w życie z dniem 1 stycznia 1986 r.
+
 

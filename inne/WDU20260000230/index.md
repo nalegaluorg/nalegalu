@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 17 lutego 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 lutego 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-02-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000230) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/230/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 17 lutego 2026 r.
+sprawie ogłoszenia jednolitego tekstu ustawy wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi
 1. Na podstawie 16 ust. zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 16 września 2011 r. wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi (Dz. U. z 2023 r. poz. 783), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 9 maja 2025 r. zmianie ustawy Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 820),
 2) ustawą z dnia 7 listopada 2025 r. zmianie ustawy wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi (Dz. U.
@@ -42,7 +42,7 @@ poz. 820), który stanowi: „Art. 34. Ustawa wchodzi życie po upływie 30 dni 
 
 **Art. 5.** Dotychczasowe przepisy wykonawcze wydane na podstawie 10 ustawy zmienianej zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie 10 ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż 12 miesięcy od dnia wejścia życie niniejszej ustawy.
 
-**Art. 6.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem 11 zakresie 11c, który wchodzi życie z dniem 12 czerwca 2027 r.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 16 września 2011 r. wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi
+**Art. 6.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem 11 zakresie 11c, który wchodzi życie z dniem 12 czerwca 2027 r.”. USTAWA z dnia 16 września 2011 r. wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi
 
 #### Rozdział Przepisy ogólne
 
@@ -74,11 +74,38 @@ poz. 820), który stanowi: „Art. 34. Ustawa wchodzi życie po upływie 30 dni 
 
 **Art. 1.** Przepisy ustawy stosuje się odpowiednio do wymiany informacji krajowe biuro do spraw odzyskiwania mienia, którym decyzji Rady 2007/845/WSiSW z dnia 6 grudnia 2007 r. dotyczącej współpracy pomiędzy biurami ds. odzyskiwania mienia państwach członkowskich dziedzinie wykrywania i identyfikacji korzyści pochodzących z przestępstwa lub innego mienia związanego z przestępstwem (Dz. Urz. UE L 332 z 18.12.2007, str. 103). Podmiotami uprawnionymi do wymiany informacji za pośrednictwem krajowego biura do spraw odzyskiwania mienia są podmioty, których ust. 2, oraz:
 
+- **1)** minister właściwy do spraw finansów publicznych;
+- **2)** (uchylony)
+- **3)** (uchylony)
+- **4)** prokurator.
+
 **Art. 2a.**
 
 1. Przepisy ustawy stosuje się odpowiednio do wymiany informacji podmioty, których ust. 2, z wyznaczonymi właściwymi organami celu przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu. W ramach wymiany informacji, ust. 1, podmioty, których ust. 2, mogą przekazywać wyznaczonym właściwym organom informacje finansowe, których 2 ust. 2 10a ustawy z dnia marca 2018 r. przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, oraz analizy finansowe, których 2 ust. 2 1a tej a także występować do wyznaczonych właściwych organów przekazanie informacji pochodzących od jednostki analityki finansowej z państwa pochodzenia tego organu.
 
 **Art. 3.** Ilekroć ustawie jest o:
+
+- **1)** pseudonimizacji rozumie się to przetworzenie danych osobowych taki sposób, aby nie można ich było już przypisać konkretnej osobie, dane dotyczą, bez użycia dodatkowych informacji, pod warunkiem że takie dodatkowe informacje są przechowywane osobno i są objęte środkami technicznymi i organizacyjnymi uniemożliwiającymi ich przypisanie zidentyfikowanej lub możliwej do zidentyfikowania osobie fizycznej;
+- **2)** (uchylony)
+- **3)** informacji rozumie się to wszelkie treści dotyczące co najmniej jednej osoby fizycznej lub prawnej, faktów lub okoliczności istotnych dla podmiotów uprawnionych do celów wykonywania nie zadań na podstawie przepisów odrębnych zakresie zapobiegania przestępstwom lub przestępstwom skarbowym, ich wykrywania lub prowadzenia postępowań przygotowawczych ich sprawie, tym dane wywiadowcze dotyczące tych przestępstw;
+- **3a)** informacjach dostępnych rozumie się to informacje przechowywane bazie danych, do których dostęp bezpośredni posiada punkt kontaktowy lub upoważniony podmiot uprawniony, do którego zwrócono się informacje, oraz informacje, do których punkt kontaktowy lub upoważniony podmiot uprawniony, do którego zwrócono się informacje, posiada dostęp pośredni;
+- **3b)** informacjach dostępnych bezpośrednio rozumie się to informacje przechowywane bazie danych, do których bezpośredni dostęp posiada punkt kontaktowy lub upoważniony podmiot uprawniony, do którego zwrócono się informacje;
+- **3c)** informacjach dostępnych pośrednio rozumie się to informacje, które punkt kontaktowy lub upoważniony podmiot uprawniony, do którego zwrócono się informacje, może uzyskać od innych organów lub podmiotów;
+- **3d)** danych osobowych rozumie się to dane osobowe, których 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. sprawie ochrony osób fizycznych związku z przetwarzaniem danych osobowych i sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie ochronie danych osobowych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. );
+- **4)** organach ścigania państw członkowskich Unii Europejskiej rozumie się to organy państw członkowskich Unii Europejskiej oraz państw niebędących państwami członkowskimi Unii Europejskiej stosujących przepisy dorobku Schengen, które są uprawnione tych państwach do wykrywania i ścigania sprawców przestępstw lub przestępstw skarbowych oraz zapobiegania przestępczości i jej zwalczania, oraz każdy organ, który uczestniczy we wspólnych podmiotach utworzonych co najmniej dwa państwa członkowskie Unii Europejskiej celu zapobiegania przestępstwom lub przestępstwom skarbowym, ich wykrywania i ścigania;
+- **4a)** wyznaczonym organie ścigania rozumie się to organ ścigania państwa członkowskiego Unii Europejskiej upoważniony do:
+    - **a)** składania wniosków udzielenie informacji bezpośrednio do punktu kontaktowego lub upoważnionego podmiotu uprawnionego,
+    - **b)** udzielania odpowiedzi na wnioski składane punkt kontaktowy lub upoważniony podmiot uprawniony;
+
+- **4b)** upoważnionym podmiocie uprawnionym rozumie się to podmiot uprawniony upoważniony do składania wniosków udzielenie informacji do punktu kontaktowego państwa członkowskiego Unii Europejskiej lub bezpośrednio do wyznaczonego organu ścigania;
+- **5)** państwie trzecim rozumie się to państwo niebędące państwem członkowskim Unii Europejskiej i niestosujące przepisy dorobku Schengen;
+- **6)** podmiotach uprawnionych rozumie się to podmioty, których ust. 2 oraz 2 ust. 2;
+- **6a)** przestępstwie katalogowym rozumie się to przestępstwo, którym 2 ust. 2 decyzji ramowej Rady 2002/584/WSiSW z dnia 13 czerwca 2002 r. sprawie europejskiego nakazu aresztowania i procedury wydawania osób między państwami członkowskimi (Dz. Urz. WE L 190 z 18.07.2002, str. 1, z późn. zm. Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 6, str. 34), oraz przestępstwo, którym 3 ust. i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/794 z dnia 11 maja 2016 r. sprawie Agencji Unii Europejskiej ds. Współpracy Organów Ścigania (Europol), zastępującego i uchylającego decyzje Rady 2009/371/WSiSW, 2009/934/WSiSW, 2009/935/WSiSW, 2009/936/WSiSW i 2009/968/WSiSW (Dz. Urz. UE L 135 z 24.05.2016, str. 53, z późn. zm. ), zwanego dalej „rozporządzeniem (UE) 2016/794”;
+- **7)** (uchylony)
+- **8)** wymianie rozumie się to przekazywanie, udostępnianie, uzyskiwanie lub otrzymywanie informacji organy ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencje Unii Europejskiej, organizacje międzynarodowe lub podmioty uprawnione;
+- **9)** organizacji międzynarodowej rozumie się to organizację i organy jej podlegające działające na podstawie prawa międzynarodowego publicznego lub inny organ powołany drodze umowy między co najmniej dwoma państwami lub na podstawie takiej umowy;
+- **10)** agencji Unii Europejskiej rozumie się to agencję Unii Europejskiej zajmującą się zapobieganiem i zwalczaniem przestępczości;
+- **11)** wyznaczonych właściwych organach rozumie się to organy państw członkowskich Unii Europejskiej wyznaczone na podstawie przepisów wdrażających 3 ust. 2 dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/1153 z dnia 20 czerwca 2019 r. ustanawiającej zasady ułatwiające korzystanie z informacji finansowych i innych informacji celu zapobiegania niektórym przestępstwom, ich wykrywania, prowadzenia dochodzeń ich sprawie lub ich ścigania oraz uchylającej decyzję Rady 2000/642/WSiSW (Dz. Urz. UE L 186 z 11.07.2019, str. 122).
 
 #### Rozdział 2 Punkt kontaktowy
 
@@ -104,6 +131,15 @@ poz. 820), który stanowi: „Art. 34. Ustawa wchodzi życie po upływie 30 dni 
 5. Ustawa nie narusza przepisów odrębnych organizacji i zadaniach innych punktów kontaktowych niż wymieniony ust. 1.
 
 **Art. 5.** Do zadań punktu kontaktowego należy:
+
+- **1)** przyjmowanie i ocenianie wniosków udzielenie informacji składanych podmioty, których ust. 1, oraz udzielanie odpowiedzi na te wnioski;
+- **2)** przekazywanie wniosków udzielenie informacji składanych podmioty, których ust. 1, podmiotom uprawnionym, zgodnie z ich właściwością, celu udzielenia odpowiedzi na te wnioski;
+- **3)** ocenianie i przekazywanie podmiotom, których ust. 1, wniosków udzielenie informacji składanych podmioty uprawnione oraz przekazywanie dodatkowych informacji lub wyjaśnień, które wystąpiły podmioty, których ust. 1;
+- **3a)** zwracanie się do podmiotów uprawnionych uzupełnienie lub poprawienie wniosku udzielenie informacji;
+- **4)** udzielanie informacji z własnej inicjatywy podmiotom, których ust. 1;
+- **4a)** odmawianie udzielenia informacji oraz, razie potrzeby, zwracanie się do podmiotów, których ust. 1, uzupełnienie wniosku udzielenie informacji lub przekazanie wyjaśnień zakresie niezbędnym do rozpatrzenia tego wniosku;
+- **5)** koordynowanie wymiany informacji;
+- **6)** przetwarzanie, tym przechowywanie, informacji wymienianych oparciu niniejszą ustawę.
 
 **Art. 6.**
 
@@ -501,6 +537,13 @@ poz. 820), który stanowi: „Art. 34. Ustawa wchodzi życie po upływie 30 dni 
 **Art. 25b.** W zakresie, jakim związku z wymianą informacji, 2a ust. 2, podmioty, których ust. 2, dokonują bezpośredniej wymiany informacji z wyznaczonymi właściwymi organami, podmioty te prowadzą rejestry zakresie wynikającym z 25a. Przepisy 25a ust. 2–4 stosuje się odpowiednio.
 
 **Art. 25c.** Organy prowadzące rejestry na podstawie 25a i 25b przekazują terminie 4 miesięcy od dnia zakończenia roku kalendarzowego ministrowi właściwemu do spraw finansów publicznych dane za zakończony rok dotyczące informacji zgromadzonych tych rejestrach, obejmujące szczególności informacje o:
+
+- **1)** liczbie złożonych wniosków informacje wraz ze wskazaniem organu składającego;
+- **2)** sposobie rozpatrzenia wniosku informacje;
+- **3)** średnim czasie rozpatrzenia wniosku informacje;
+- **4)** liczbie spraw dotyczących przestępstwa obejmującego co najmniej jedną z form przestępczości, załączniku I do rozporządzenia (UE) 2016/794, których po przekazaniu odpowiedzi na wniosek wszczęte zostało postępowanie przygotowawcze zakresie, jakim informacje te są dostępne dla organu prowadzącego rejestr;
+- **5)** liczbie osób, wobec których sporządzono akt oskarżenia dotyczący przestępstwa obejmującego co najmniej jedną z form przestępczości, załączniku I do rozporządzenia (UE) 2016/794, oraz liczbie osób skazanych za takie przestępstwa zakresie, jakim informacje te są dostępne dla organu prowadzącego rejestr;
+- **6)** zasobach ludzkich lub informatycznych zaangażowanych organy prowadzące rejestry na podstawie 25a i 25b do obsługi wniosków informacje składanych związku z wymianą informacji, 2a ust.
 
 **Art. 26.** W sprawach nieuregulowanych niniejszej ustawie stosuje się przepisy ustawy z dnia 14 grudnia 2018 r. ochronie danych osobowych przetwarzanych związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2023 r. poz. 1206).
 

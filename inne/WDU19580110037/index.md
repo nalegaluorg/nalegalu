@@ -22,6 +22,7 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 1958-02-25 |
 | Data wydania | 1958-03-08 |
+| Wejście w życie | 1958-03-08 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19580110037) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1958/37/text.pdf) |
 
@@ -102,6 +103,11 @@ source: "eli-html"
 2. Decyzje ministrów, których właściwość określona została w ust. 1 pkt 2, podlegają uzgodnieniu z właściwymi centralnymi organizacjami jednostek sprawujących zarząd przymusowy.
 
 **Art. 17.** Postanowienia niniejszej ustawy stosuje się również do:
+
+- **1)** zakładów elektrycznych, objętych w zarząd na podstawie art. 6 i 7 ustawy z dnia 4 lipca 1947 r. o planowej gospodarce energetycznej (Dz. U. Nr 52, poz. 271),
+- **2)** przedsiębiorstw, innego mienia, których władanie osoby uprawnione utraciły w okresie do dnia 31 grudnia 1954 r. i które pozostają w faktycznym władaniu państwowych jednostek organizacyjnych, chyba że to władanie opiera się na tytule prawnym wynikającym z przepisów szczególnych innych, aniżeli wymienione w art. 1 lub pkt 1 niniejszego artykułu.
+    - **a)**
+    - **b)**
 
 **Art. 18.** Mienie, o którym mowa w art. 17 pkt 2 lit. b), podlega zwrotowi na rzecz właściciela w trybie określonym w art. 5 ust. 1 oraz art. 7. Nie podlegają zwrotowi maszyny, urządzenia produkcyjne oraz inne mienie ruchome, jak również nieruchomości lub ich części, które zostały trwale włączone do czynnych przedsiębiorstw albo są niezbędne dla zaspokojenia społecznych potrzeb socjalnych i kulturalnych.
 

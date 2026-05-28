@@ -8,12 +8,10 @@ pos: 2005
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy – Prawo oświatowe oraz niektórych innych ustaw
-
-*USTAWA z dnia 30 sierpnia 2023 r.*
+# Ustawa z dnia 30 sierpnia 2023 r. o zmianie ustawy – Prawo oświatowe oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +22,259 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2023-08-30 |
 | Data wydania | 2023-09-26 |
-| Ostatnia zmiana | 2026-04-30 |
+| Wejście w życie | 2023-09-27 |
+| Ostatnia zmiana | 2026-05-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002005) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2005/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 r. poz. 900, 1672 i 1718) wprowadza się następujące zmiany:
 
-**Art. 44c.**
+- **1)** w art. 2 pkt 4 otrzymuje brzmienie: „
+- **4)** placówki kształcenia ustawicznego, centra kształcenia zawodowego oraz branżowe centra umiejętności, umożliwiające uzyskanie i uzupełnienie wiedzy, umiejętności i kwalifikacji zawodowych lub zmianę kwalifikacji zawodowych; ” ;
+- **2)** w art. 4: pkt 15 otrzymuje brzmienie: „
+    - **a)**
+
+- **15)** placówce rolniczej – należy przez to rozumieć placówki kształcenia ustawicznego i centra kształcenia zawodowego, o których mowa w art. 2 pkt 4, umożliwiające uzyskanie i uzupełnienie wiedzy, umiejętności oraz kwalifikacji zawodowych lub zmianę kwalifikacji zawodowych wyłącznie w zawodach, dla których zgodnie z klasyfikacją zawodów szkolnictwa branżowego, o której mowa w pkt 24a, ministrem właściwym jest minister właściwy do spraw rolnictwa, minister właściwy do spraw rozwoju wsi lub minister właściwy do spraw rynków rolnych; ” , w pkt 30 po wyrazach „umiejętności i kwalifikacji zawodowych” dodaje się wyrazy „lub zmianę kwalifikacji zawodowych”, po pkt 30 dodaje się pkt 30a i 30b w brzmieniu: „
+    - **b)**
+    - **c)**
+
+- **30a)** branżowym centrum umiejętności – należy przez to rozumieć placówkę kształcenia, szkolenia i egzaminowania o zasięgu ogólnokrajowym, ukierunkowaną branżowo w zakresie jednej z dziedzin zawodowych określonych w przepisach wydanych na podstawie art. 46c ust. 1, integrującą szkoły prowadzące kształcenie zawodowe, placówki kształcenia ustawicznego, centra kształcenia zawodowego, uczelnie oraz podmioty, o których mowa w art. 3 ust. 1a, które prowadzą działalność w zakresie tej dziedziny zawodowej, oraz prowadzącą działalność: edukacyjno-szkoleniową, wspierającą współpracę szkół, placówek i uczelni z pracodawcami, innowacyjno-rozwojową upowszechniającą wiedzę i nowe technologie oraz transformację ekologiczną i cyfrową, wspierającą realizację doradztwa zawodowego dla uczniów i aktywizację zawodową studentów, doktorantów i absolwentów studiów skierowaną w szczególności do uczniów, studentów, doktorantów, nauczycieli, nauczycieli akademickich oraz pracowników, w zakresie tej dziedziny zawodowej;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **30b)** organizacji branżowej właściwej dla danej dziedziny zawodowej – należy przez to rozumieć organizację o zasięgu ogólnokrajowym, posiadającą osobowość prawną, prowadzącą działalność statutową w zakresie jednej z dziedzin zawodowych określonych w przepisach wydanych na podstawie art. 46c ust. 1, zrzeszającą: osoby prawne prowadzące działalność w zakresie tej dziedziny zawodowej lub osoby fizyczne posiadające wykształcenie związane z tą dziedziną zawodową lub wykonujące zawód związany z tą dziedziną zawodową lub zawód pokrewny do tego zawodu działającą odpowiednio na podstawie ustawy z dnia 23 maja 1991 r. o organizacjach pracodawców (Dz. U. z 2022 r. poz. 97), ustawy z dnia 30 maja 1989 r. o izbach gospodarczych (Dz. U. z 2019 r. poz. 579), ustawy z dnia 22 marca 1989 r. o rzemiośle (Dz. U. z 2020 r. poz. 2159), ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261) lub ustawy regulującej funkcjonowanie samorządu zawodowego, w tym samorządu zawodu zaufania publicznego oraz samorządu zawodu służby publicznej, z tym że w przypadku stowarzyszenia działającego na podstawie ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach stowarzyszenie to musi być wpisane do Krajowego Rejestru Sądowego; ” , w pkt 31 po wyrazach „umiejętności i kwalifikacji zawodowych” dodaje się wyrazy „lub zmiany kwalifikacji zawodowych”, po pkt 35c dodaje się pkt 35d w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **d)**
+    - **e)**
+
+- **35d)** branżowym szkoleniu zawodowym – należy przez to rozumieć specjalistyczne szkolenie, którego łączny wymiar w odniesieniu do uczniów wynosi co najmniej 15 godzin i którego program nauczania uwzględnia wiedzę lub umiejętności zawodowe w zakresie jednej z dziedzin zawodowych określonych w przepisach wydanych na podstawie art. 46c ust. 1, przydatne do wykonywania zawodu, w tym kształtujące umiejętności cyfrowe i umiejętności związane z transformacją ekologiczną; ” ;
+- **3)** w art. 8: po ust. 3 dodaje się ust. 3a-3e w brzmieniu: „
+    - **a)**
+
+3a. Branżowe centra umiejętności mogą być zakładane i prowadzone po zawarciu porozumienia między organem lub osobą, o których mowa w ust. 2, albo ministrem, o którym mowa w ust. 7–11 i 13a-14a, zakładającymi branżowe centrum umiejętności a organizacją branżową właściwą dla danej dziedziny zawodowej, mającego na celu objęcie branżowego centrum umiejętności wsparciem merytorycznym, kadrowym i organizacyjnym przez tę organizację branżową w zakresie działalności, o których mowa w art. 4 pkt 30a, prowadzonych przez branżowe centrum umiejętności.
+
+3b. W porozumieniu, o którym mowa w ust. 3a, określa się w szczególności sposób i formy wspierania działalności, o których mowa w art. 4 pkt 30a, zakres i formy zaangażowania stron porozumienia w realizację zadań, o których mowa w przepisach wydanych na podstawie art. 117 ust. 5, oraz sposób monitorowania przez każdą ze stron porozumienia realizacji tych zadań, a także sposób rozwiązywania sporów wynikających z porozumienia oraz warunki i tryb rozwiązania porozumienia, z tym że termin wypowiedzenia porozumienia nie może być krótszy niż 6 miesięcy.
+
+3c. Organizacja branżowa właściwa dla danej dziedziny zawodowej może wspomagać materialnie branżowe centrum umiejętności, którego dotyczy porozumienie, o którym mowa w ust. 3a, w zakresie działalności, o których mowa w art. 4 pkt 30a, prowadzonych przez branżowe centrum umiejętności.
+
+3d. Przepisów ust. 3a-3c nie stosuje się w przypadku, gdy branżowe centrum umiejętności zakłada i prowadzi organizacja branżowa właściwa dla danej dziedziny zawodowej.
+
+3e. W przypadku gdy porozumienie, o którym mowa w ust. 3a, jest zawierane między jednostką samorządu terytorialnego a organizacją branżową właściwą dla danej dziedziny zawodowej, w jednostce samorządu terytorialnego zadanie związane z zawarciem porozumienia, o którym mowa w ust. 3a, wykonuje odpowiednio: wójt (burmistrz, prezydent miasta), starosta, marszałek województwa. ” , w ust. 7 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+
+- **b)**
+- **3)** publiczne branżowe centra umiejętności prowadzące działalność w dziedzinach zawodowych określonych w przepisach wydanych na podstawie art. 46c ust. 1, do których przyporządkowano co najmniej jeden zawód, dla którego zgodnie z klasyfikacją zawodów szkolnictwa branżowego ministrem właściwym jest minister właściwy do spraw rolnictwa. ” , ust. 8–12 otrzymują brzmienie: „
+    - **c)**
+
+8. Minister właściwy do spraw środowiska może zakładać i prowadzić:
+
+- **1)** publiczne szkoły leśne;
+- **2)** publiczne branżowe centra umiejętności prowadzące działalność w dziedzinach zawodowych określonych w przepisach wydanych na podstawie art. 46c ust. 1, do których przyporządkowano co najmniej jeden zawód, dla którego zgodnie z klasyfikacją zawodów szkolnictwa branżowego ministrem właściwym jest minister właściwy do spraw środowiska.
+
+9. Minister właściwy do spraw gospodarki morskiej może zakładać i prowadzić:
+
+- **1)** publiczne szkoły morskie;
+- **2)** publiczne branżowe centra umiejętności prowadzące działalność w dziedzinach zawodowych określonych w przepisach wydanych na podstawie art. 46c ust. 1, do których przyporządkowano co najmniej jeden zawód, dla którego zgodnie z klasyfikacją zawodów szkolnictwa branżowego ministrem właściwym jest minister właściwy do spraw gospodarki morskiej.
+
+10. Minister właściwy do spraw żeglugi śródlądowej może zakładać i prowadzić:
+
+- **1)** publiczne szkoły żeglugi śródlądowej;
+- **2)** publiczne branżowe centra umiejętności prowadzące działalność w dziedzinach zawodowych określonych w przepisach wydanych na podstawie art. 46c ust. 1, do których przyporządkowano co najmniej jeden zawód, dla którego zgodnie z klasyfikacją zawodów szkolnictwa branżowego ministrem właściwym jest minister właściwy do spraw żeglugi śródlądowej.
+
+11. Minister właściwy do spraw rybołówstwa może zakładać i prowadzić:
+
+- **1)** publiczne szkoły rybołówstwa;
+- **2)** publiczne branżowe centra umiejętności prowadzące działalność w dziedzinach zawodowych określonych w przepisach wydanych na podstawie art. 46c ust. 1, do których przyporządkowano co najmniej jeden zawód, dla którego zgodnie z klasyfikacją zawodów szkolnictwa branżowego ministrem właściwym jest minister właściwy do spraw rybołówstwa.
+
+12. Minister Sprawiedliwości może zakładać i prowadzić publiczne szkoły i placówki, z wyjątkiem branżowych centrów umiejętności, w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich oraz publiczne szkoły i placówki, z wyjątkiem branżowych centrów umiejętności, przy zakładach karnych i aresztach śledczych. Szkoły i placówki przy zakładach karnych i aresztach śledczych działają w ramach ich struktury. ” , po ust. 13 dodaje się ust. 13a w brzmieniu: „
+
+- **d)**
+
+13a. Minister właściwy do spraw wewnętrznych może zakładać i prowadzić publiczne branżowe centra umiejętności prowadzące działalność w dziedzinach zawodowych określonych w przepisach wydanych na podstawie art. 46c ust. 1, do których przyporządkowano co najmniej jeden zawód, dla którego zgodnie z klasyfikacją zawodów szkolnictwa branżowego ministrem właściwym jest minister właściwy do spraw wewnętrznych. ” , ust. 14 otrzymuje brzmienie: „
+
+- **e)**
+
+14. Minister właściwy do spraw zdrowia może zakładać i prowadzić:
+
+- **1)** publiczną placówkę doskonalenia nauczycieli przedmiotów zawodowych o zasięgu ogólnokrajowym w zakresie nauczania w zawodach, dla których zgodnie z klasyfikacją zawodów szkolnictwa branżowego ministrem właściwym jest minister właściwy do spraw zdrowia;
+- **2)** publiczne branżowe centra umiejętności prowadzące działalność w dziedzinach zawodowych określonych w przepisach wydanych na podstawie art. 46c ust. 1, do których przyporządkowano co najmniej jeden zawód, dla którego zgodnie z klasyfikacją zawodów szkolnictwa branżowego ministrem właściwym jest minister właściwy do spraw zdrowia. ” , ust. 14a otrzymuje brzmienie: „
+    - **f)**
+
+14a. Ministrowie właściwi do spraw zawodów określonych w klasyfikacji zawodów szkolnictwa branżowego niewymienieni w ust. 4–14 mogą zakładać i prowadzić:
+
+- **1)** publiczne szkoły prowadzące kształcenie zawodowe oraz placówki kształcenia ustawicznego i centra kształcenia zawodowego, o których mowa w art. 2 pkt 4, kształcące wyłącznie w zawodach, dla których ci ministrowie są właściwi;
+- **2)** publiczne branżowe centra umiejętności prowadzące działalność w dziedzinach zawodowych określonych w przepisach wydanych na podstawie art. 46c ust. 1, do których przyporządkowano co najmniej jeden zawód, dla którego zgodnie z klasyfikacją zawodów szkolnictwa branżowego ci ministrowie są właściwi. ” , ust. 16 otrzymuje brzmienie: „
+    - **g)**
+
+16. Zakładanie i prowadzenie publicznych szkół podstawowych specjalnych, szkół ponadpodstawowych, w tym integracyjnych oraz z oddziałami integracyjnymi lub specjalnymi, szkół sportowych, szkół mistrzostwa sportowego, placówek, o których mowa w art. 2 pkt 3 i 5–8, oraz placówek kształcenia ustawicznego i centrów kształcenia zawodowego, o których mowa w art. 2 pkt 4, z wyjątkiem szkół i placówek o znaczeniu regionalnym i ponadregionalnym, należy do zadań własnych powiatu, z zastrzeżeniem ust. 6. ” , po ust. 21a dodaje się ust. 21b w brzmieniu: „
+
+- **h)**
+
+21b. Prowadzenie publicznych branżowych centrów umiejętności może być przekazywane w drodze porozumienia zawieranego między właściwym ministrem a jednostką samorządu terytorialnego. Przepisy ust. 3a-3c, 3e i 21 stosuje się odpowiednio. ” , ust. 22 otrzymuje brzmienie: „
+
+- **i)**
+
+22. Zakładanie i prowadzenie publicznych placówek doskonalenia nauczycieli, bibliotek pedagogicznych, szkół i placówek, o których mowa w art. 2 pkt 3 i 5–8, oraz placówek kształcenia ustawicznego i centrów kształcenia zawodowego, o których mowa w art. 2 pkt 4, o znaczeniu regionalnym lub ponadregionalnym, należy do zadań samorządu województwa, z zastrzeżeniem ust. 6, 22a i 25. ” , po ust. 22 dodaje się ust. 22a w brzmieniu: „
+
+- **j)**
+
+22a. Zakładanie i prowadzenie publicznych branżowych centrów umiejętności należy do zadań własnych powiatu. ” ;
+
+- **4)** po art. 8 dodaje się art. 8a w brzmieniu: „
+
+**Art. 8a.**
+
+1. Minister właściwy do spraw oświaty i wychowania ogłasza konkurs mający na celu wyłonienie branżowych centrów umiejętności tworzących ogólnopolską sieć branżowych centrów umiejętności oraz rozwój tej sieci.
+
+2. Konkurs, o którym mowa w ust. 1, jest ogłaszany w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw oświaty i wychowania nie rzadziej niż raz na 5 lat.
+
+3. Wnioski w ramach konkursu, o którym mowa w ust. 1, mogą składać:
+
+- **1)** organy prowadzące branżowe centrum umiejętności w zakresie jednej z dziedzin zawodowych, o których mowa w ust. 5 pkt 1;
+- **2)** organy prowadzące: szkołę prowadzącą kształcenie zawodowe kształcącą w co najmniej jednym zawodzie szkolnictwa branżowego przyporządkowanym do dziedziny zawodowej określonej w przepisach wydanych na podstawie art. 46c ust. 1 lub centrum kształcenia zawodowego kształcące w co najmniej jednym zawodzie szkolnictwa branżowego przyporządkowanym do dziedziny zawodowej określonej w przepisach wydanych na podstawie art. 46c ust. 1 zamierzające założyć branżowe centrum umiejętności w zakresie jednej z dziedzin zawodowych, o których mowa w ust. 5 pkt 1; w tym przypadku do wniosku dołącza się pisemne zobowiązanie do zawarcia porozumienia, o którym mowa w art. 8 ust. 3a;
+    - **a)**
+    - **b)**
+
+- **3)** organizacja branżowa właściwa dla danej dziedziny zawodowej, prowadząca działalność w zakresie jednej z dziedzin zawodowych, o których mowa w ust. 5 pkt 1, przez co najmniej 2 lata przed datą ogłoszenia konkursu, zamierzająca założyć branżowe centrum umiejętności w zakresie jednej z dziedzin zawodowych, o których mowa w ust. 5 pkt 1.
+
+4. Przy ocenie wniosku złożonego w ramach konkursu, o którym mowa w ust. 1, uwzględnia się w szczególności:
+
+- **1)** spełnienie warunków udziału w konkursie określonych w ust. 3 oraz szczegółowych warunków udziału w konkursie określonych w regulaminie konkursu zgodnie z ust. 5 pkt 2;
+- **2)** poziom merytoryczny wniosku;
+- **3)** adekwatność działań opisanych we wniosku do określonych w regulaminie konkursu szczegółowych kryteriów oceny wniosków.
+
+5. Regulamin konkursu, o którym mowa w ust. 1, określa w szczególności:
+
+- **1)** katalog dziedzin zawodowych określonych w przepisach wydanych na podstawie art. 46c ust. 1, których dotyczy konkurs;
+- **2)** szczegółowe warunki udziału w konkursie;
+- **3)** tryb przeprowadzenia konkursu, w tym tryb odwoławczy;
+- **4)** szczegółowe kryteria oceny wniosków odnoszące się do poziomu merytorycznego oraz adekwatności działań opisanych we wniosku, o których mowa w ust. 4 pkt 2 i 3;
+- **5)** wzór wniosku składanego w ramach konkursu, w tym warunki formalne dotyczące wniosku.
+
+6. Zakres danych wymaganych i przetwarzanych w ramach konkursu, o którym mowa w ust. 1, musi być zgodny z zasadami dotyczącymi przetwarzania danych osobowych, o których mowa w art. 5 ust. 1 lit. a-c rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35).
+
+7. Branżowe centra umiejętności wyłonione w konkursie, o którym mowa w ust. 1, tworzą ogólnopolską sieć branżowych centrów umiejętności, z zastrzeżeniem art. 46c ust. 3.
+
+8. Minister właściwy do spraw oświaty i wychowania ogłasza ogólnopolską sieć branżowych centrów umiejętności, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+
+9. Minister właściwy do spraw oświaty i wychowania może zlecać zadania związane z ogłoszeniem konkursu, o którym mowa w ust. 1, na podstawie umowy, jednostce podległej temu ministrowi lub przez niego nadzorowanej lub podmiotowi prowadzącemu statutową działalność oświatową lub naukową. ” ;
+
+- **5)** w art. 11 w ust. 2 w pkt 2 po wyrazach „art. 8 ust. 16” dodaje się wyrazy „i 22a”;
+- **6)** w art. 26 ust. 4 otrzymuje brzmienie: „
+
+4. Przepisów ust. 1–3 nie stosuje się do przedszkoli, szkół dla dorosłych, branżowych szkół II stopnia, szkół policealnych, policealnych szkół artystycznych i branżowych centrów umiejętności. ” ;
+
+- **7)** po art. 44a dodaje się art. 44b-44d w brzmieniu: „
+
+**Art. 44b.**
+
+1. Minister właściwy do spraw oświaty i wychowania może prowadzić system teleinformatyczny – Portal Edukacji i Nauki, zwany dalej „Portalem”.
+
+2. Portal stanowi ujednolicony punkt dostępu do usług i narzędzi z zakresu oświaty i wychowania oraz szkolnictwa wyższego i nauki, wykorzystujący dane udostępniane i gromadzone przez podmioty wykonujące zadania z zakresu oświaty i wychowania oraz szkolnictwa wyższego i nauki w rejestrach publicznych, systemach teleinformatycznych, ewidencjach, bazach danych oraz innych zasobach informatycznych.
+
+3. Minister właściwy do spraw oświaty i wychowania, we współpracy z ministrem właściwym do spraw szkolnictwa wyższego i nauki, zapewnia funkcjonowanie Portalu, w tym:
+
+- **1)** zapewnia ochronę przed nieuprawnionym dostępem do Portalu;
+- **2)** zapewnia integralność danych w Portalu;
+- **3)** umożliwia dokonywanie aktualizacji danych w Portalu;
+- **4)** przeciwdziała uszkodzeniom Portalu;
+- **5)** zapewnia rozliczalność działań dokonywanych na danych przetwarzanych w Portalu.
+
+4. W Portalu tworzy się konto internetowe, zwane dalej „Kontem”, dla:
+
+- **1)** nauczycieli i nauczycieli akademickich,
+- **2)** osób zatrudnionych w podmiotach systemu szkolnictwa wyższego i nauki, prowadzących działalność naukową,
+- **3)** studentów i absolwentów studiów,
+- **4)** osób ubiegających się o stopień doktora lub doktora habilitowanego oraz osób posiadających stopień doktora lub doktora habilitowanego,
+- **5)** uczniów, a w przypadku uczniów niepełnoletnich – także ich rodziców,
+- **6)** absolwentów szkół ponadpodstawowych, o których mowa w art. 18 ust. 1 pkt 2,
+- **7)** osób zatrudnionych w jednostkach systemu oświaty i systemu szkolnictwa wyższego i nauki, które będą po stronie tych jednostek uczestniczyć w świadczeniu usług, o których mowa w ust. 7,
+- **8)** innych osób posiadających uzasadniony interes w posiadaniu Konta, w tym osób, które nie posiadają numeru PESEL i których tożsamość jest potwierdzana na podstawie dokumentu tożsamości zwanych dalej „użytkownikami”.
+
+5. Dostęp do danych przetwarzanych w Portalu posiadają:
+
+- **1)** podmioty wykonujące zadania z zakresu oświaty i wychowania, o których mowa w art. 2;
+- **2)** podmioty, o których mowa w art. 3 ust. 1 i 1a;
+- **3)** Centralna Komisja Egzaminacyjna i okręgowe komisje egzaminacyjne;
+- **4)** podmioty tworzące system szkolnictwa wyższego i nauki – w zakresie osób zatrudnionych lub kształcących się w danym podmiocie – w celu efektywnego i prawidłowego wykonywania swoich zadań;
+- **5)** Rada Doskonałości Naukowej – w zakresie danych osób ubiegających się o stopień doktora habilitowanego – w celu wykonywania zadań statutowych Rady Doskonałości Naukowej;
+- **6)** jednostki organizacyjne podległe ministrowi właściwemu do spraw oświaty i wychowania lub przez niego nadzorowane;
+- **7)** minister właściwy do spraw szkolnictwa wyższego i nauki oraz jednostki organizacyjne podległe temu ministrowi lub przez niego nadzorowane – w celu realizacji polityki naukowej państwa;
+- **8)** jednostki współpracujące z podmiotami, o których mowa w pkt 1–6, na mocy porozumień lub umów;
+- **9)** organy prowadzące jednostki systemu oświaty i systemu szkolnictwa wyższego i nauki.
+
+6. Dostęp do danych przetwarzanych w Portalu posiadają również, w zakresie swoich danych, osoby, o których mowa w ust. 4.
+
+7. Minister właściwy do spraw oświaty i wychowania oraz minister właściwy do spraw szkolnictwa wyższego i nauki za pośrednictwem Konta świadczą usługi umożliwiające:
+
+- **1)** zapewnienie użytkownikowi Konta, a w przypadku użytkownika niepełnoletniego – także jego rodzicom, dostępu do informacji dotyczących użytkownika zgromadzonych w innych systemach teleinformatycznych prowadzonych przez podmioty wykonujące zadania z zakresu oświaty i wychowania oraz szkolnictwa wyższego i nauki;
+- **2)** składanie oświadczeń, wniosków oraz innych dokumentów do jednostek systemu oświaty lub podmiotów systemu szkolnictwa wyższego i nauki oraz udzielanie upoważnień;
+- **3)** gromadzenie dokumentacji przez jednostki systemu oświaty oraz podmioty systemu szkolnictwa wyższego i nauki, jeżeli nie jest to zastrzeżone dla sposobów i miejsc określonych w odrębnych przepisach;
+- **4)** generowanie elektronicznych poświadczeń dyplomów ukończenia studiów i suplementów, dyplomów doktorskich i dyplomów habilitacyjnych;
+- **5)** przekazywanie informacji zgromadzonych w systemach prowadzonych przez podmioty wykonujące zadania z zakresu oświaty i wychowania oraz szkolnictwa wyższego i nauki do innych podmiotów na potrzeby realizacji usług udostępnianych i świadczonych przez Portal.
+
+8. Dostęp do danych dla podmiotów, o których mowa w ust. 5 pkt 1–3, 6, 8 i 9, jest realizowany w celu wykonywania przez nie zadań wymienionych w art. 1.
+
+9. Dostęp do danych użytkownika dla podmiotów innych niż wymienione w ust. 5 w celu wykonywania zadań innych niż wymienione w ust. 8 wymaga odrębnej zgody tego użytkownika.
+
+10. Dokumentacja, o której mowa w ust. 7 pkt 2, może być składana za pośrednictwem Portalu, jeżeli sposób jej złożenia nie jest zastrzeżony dla trybów określonych w odrębnych przepisach.
+
+11. Dostęp do Konta następuje za pośrednictwem Portalu po uwierzytelnieniu w sposób określony w art. 20a ust. 1 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz. 57, 1123, 1234 i 1703) lub w sposób określony w art. 4 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. poz. 1234).
+
+12. Minister właściwy do spraw oświaty i wychowania w porozumieniu z ministrem właściwym do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia:
+
+- **1)** wykaz rejestrów publicznych, systemów teleinformatycznych, ewidencji, baz danych lub innych zasobów informatycznych, z których administrator Portalu może pobrać dane, oraz jednostek organizacyjnych podległych ministrowi właściwemu do spraw oświaty i wychowania lub ministrowi właściwemu do spraw szkolnictwa wyższego i nauki lub nadzorowanych przez tych ministrów prowadzących te rejestry publiczne, systemy teleinformatyczne, ewidencje, bazy danych lub inne zasoby informatyczne,
+- **2)** warunki korzystania z Konta, w tym sposób uwierzytelniania użytkowników w Portalu,
+- **3)** wykaz oświadczeń, wniosków, upoważnień oraz innych dokumentów, które mogą być składane do jednostek systemu oświaty lub podmiotów systemu szkolnictwa wyższego i nauki,
+- **4)** wykaz dokumentacji gromadzonej w Portalu przez jednostki systemu oświaty oraz podmioty systemu szkolnictwa wyższego i nauki mając na uwadze adekwatność zakresu danych do potrzeb związanych z usługami świadczonymi w Portalu oraz uwarunkowania pozwalające na zapewnienie możliwości pobierania tych danych.
+
+13. Minister właściwy do spraw oświaty i wychowania może powierzyć obsługę organizacyjno-techniczną Portalu, w tym wykonanie niektórych lub wszystkich zadań związanych z prowadzeniem Portalu, jednostce organizacyjnej podległej temu ministrowi lub przez niego nadzorowanej, lub – za zgodą ministra właściwego do spraw szkolnictwa wyższego i nauki – jednostce organizacyjnej podległej ministrowi właściwemu do spraw szkolnictwa wyższego i nauki lub przez niego nadzorowanej. Minister właściwy do spraw oświaty i wychowania zapewnia środki finansowe na wykonywanie zadań związanych z obsługą organizacyjno-techniczną Portalu. W zakresie funkcjonalności Portalu związanych ze szkolnictwem wyższym i nauką finansowanie może zapewnić również minister właściwy do spraw szkolnictwa wyższego i nauki.
+
+14. Informację o miejscu udostępnienia Portalu minister właściwy do spraw oświaty i wychowania oraz minister właściwy do spraw szkolnictwa wyższego i nauki zamieszczają na stronie internetowej urzędów obsługujących tych ministrów.
+
+15. Zakres danych użytkowników, przetwarzanych w Portalu, obejmuje:
+
+- **1)** dane ucznia: imię (imiona) i nazwisko, informacje o: uczęszczaniu ucznia do szkoły lub placówki oraz oddziale, semestrze i klasie, do której uczeń uczęszcza, numer PESEL, adres poczty elektronicznej, o ile go posiada;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **2)** dane absolwenta: imię (imiona) i nazwisko, numer PESEL, adres poczty elektronicznej, o ile go posiada, datę (rok) uzyskania świadectwa dojrzałości, nazwę okręgowej komisji egzaminacyjnej, która wydała świadectwo dojrzałości, wyniki egzaminu maturalnego z poszczególnych przedmiotów w części pisemnej i części ustnej, informację o poziomie egzaminu maturalnego z poszczególnych przedmiotów;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+
+- **3)** dane nauczyciela: imię (imiona) i nazwisko, numer PESEL, a w przypadku nauczyciela nieposiadającego numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość oraz datę urodzenia, informacje o zatrudnieniu nauczyciela w szkole lub placówce oraz nazwie i adresie siedziby tej szkoły lub placówki, adres poczty elektronicznej, o ile go posiada;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **4)** dane innej osoby: imię (imiona) i nazwisko, adres poczty elektronicznej, numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość oraz datę urodzenia;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **5)** dane nauczycieli akademickich, innych osób prowadzących zajęcia, osób prowadzących działalność naukową oraz osób biorących udział w jej prowadzeniu, o których mowa w art. 343 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, a także adresy poczty elektronicznej tych osób;
+- **6)** dane dotyczące studentów, o których mowa w art. 344 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, a także adresy poczty elektronicznej tych osób;
+- **7)** dane osób ubiegających się o stopień doktora, o których mowa w art. 345 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, a także adresy poczty elektronicznej tych osób;
+- **8)** dane osób ubiegających się o stopień doktora habilitowanego, o których mowa w art. 348 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, a także adresy poczty elektronicznej tych osób;
+- **9)** dane, o których mowa w art. 347 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce;
+- **10)** dane dotyczące dyplomów cyfrowych, o których mowa w art. 347a ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
+
+16. Administratorem danych przetwarzanych w Portalu jest minister właściwy do spraw oświaty i wychowania. Dokonując powierzenia, o którym mowa w ust. 13, minister właściwy do spraw oświaty i wychowania może powierzyć danej jednostce również pełnienie roli administratora Portalu.
+
+17. Ilekroć w przepisach odrębnych jest mowa o konieczności przedstawienia certyfikatu, dyplomu lub innego dokumentu potwierdzającego ukończenie studiów albo nabycie kwalifikacji, należy przez to rozumieć również możliwość przedstawienia poświadczenia wygenerowanego za pośrednictwem Portalu. W tym przypadku w aktach przechowuje się certyfikat, dyplom lub dokument, w wersji cyfrowej wygenerowanej za pośrednictwem Portalu.
+
+18. Dokument wygenerowany za pośrednictwem Portalu uznaje się za równoważny z certyfikatem, dyplomem lub innym dokumentem potwierdzającym ukończenie studiów albo nabycie kwalifikacji.
+
+19. Użytkowanie Portalu jest dobrowolne i bezpłatne.
 
 1. Dokumenty, o których mowa w art. 44b ust. 7 pkt 2–5, składa się za pośrednictwem Portalu w postaci elektronicznej.
 
@@ -39,128 +284,375 @@ source: "isap-pdf"
 
 4. Doręczenie pism może nastąpić za zgodą użytkownika na Konto w Portalu.
 
-**Art. 44d.**
-
 1. Minister właściwy do spraw oświaty i wychowania w celu gromadzenia i przechowywania danych niezbędnych do udostępniania użytkownikowi wyników egzaminu maturalnego z poszczególnych przedmiotów w części pisemnej i części ustnej lub wygenerowania w postaci elektronicznej potwierdzenia ukończenia studiów albo nabytych kwalifikacji może tworzyć i prowadzić w systemie teleinformatycznym Portfel Poświadczeń Cyfrowych.
 
 2. Portfel Poświadczeń Cyfrowych udostępnia się za pośrednictwem Portalu.
 
-3. Minister właściwy do spraw oświaty i wychowania może zlecić prowadzenie Portfela Poświadczeń Cyfrowych, w tym administrowanie tym Portfelem, podmiotom, o których mowa w art. 44b ust. 13.”;
+3. Minister właściwy do spraw oświaty i wychowania może zlecić prowadzenie Portfela Poświadczeń Cyfrowych, w tym administrowanie tym Portfelem, podmiotom, o których mowa w art. 44b ust. 13. ” ;
 
-- **8)** po art. 46b dodaje się art. 46c w brzmieniu: „Art. 46c. 1. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, wykaz dziedzin zawodowych wraz z przyporządkowanymi do nich zawodami określonymi w klasyfikacji zawodów szkolnictwa branżowego, uwzględniając potrzeby rynku pracy oraz specyfikę poszczególnych zawodów szkolnictwa branżowego i ich powiązanie z daną dziedziną zawodową.
+- **8)** po art. 46b dodaje się art. 46c w brzmieniu: „
+
+**Art. 46c.**
+
+1. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, wykaz dziedzin zawodowych wraz z przyporządkowanymi do nich zawodami określonymi w klasyfikacji zawodów szkolnictwa branżowego, uwzględniając potrzeby rynku pracy oraz specyfikę poszczególnych zawodów szkolnictwa branżowego i ich powiązanie z daną dziedziną zawodową.
 
 2. Minister właściwy do spraw oświaty i wychowania informuje organy prowadzące branżowe centra umiejętności tworzące ogólnopolską sieć branżowych centrów umiejętności, o której mowa w art. 8a ust. 7, o zamiarze usunięcia dziedziny zawodowej lub zawodu przyporządkowanego do danej dziedziny zawodowej z wykazu, o którym mowa w ust. 1, z co najmniej rocznym wyprzedzeniem.
 
 3. Branżowe centrum umiejętności, które prowadziło działalność w dziedzinie zawodowej usuniętej z wykazu, o którym mowa w ust. 1, przestaje z dniem usunięcia tej dziedziny zawodowej z wykazu, o którym mowa w ust. 1, wchodzić w skład ogólnopolskiej sieci branżowych centrów umiejętności, o której mowa w art. 8a ust. 7.
 
-4. W przypadku określonym w ust. 3 organ prowadzący branżowe centrum umiejętności likwiduje to centrum lub przekształca to centrum w inną placówkę lub szkołę prowadzącą kształcenie zawodowe.”;
+4. W przypadku określonym w ust. 3 organ prowadzący branżowe centrum umiejętności likwiduje to centrum lub przekształca to centrum w inną placówkę lub szkołę prowadzącą kształcenie zawodowe. ” ;
 
 - **9)** w art. 47 w ust. 1 w pkt 3 w lit. e wyrazy „kwalifikacji rynkowej” zastępuje się wyrazami „kwalifikacji wolnorynkowej lub kwalifikacji sektorowej”;
-- **10)** w art. 53 w ust. 2 zdanie pierwsze otrzymuje brzmienie: „Minister właściwy do spraw rolnictwa sprawuje nadzór pedagogiczny nad publicznymi szkołami rolniczymi, placówkami rolniczymi, branżowymi centrami umiejętności i placówkami doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych, przez siebie prowadzonymi, minister właściwy do spraw środowiska – nad publicznymi szkołami leśnymi i branżowymi centrami umiejętności przez siebie prowadzonymi, a minister właściwy do spraw zdrowia – nad publiczną placówką doskonalenia nauczycieli przedmiotów zawodowych o zasięgu ogólnokrajowym przez siebie prowadzoną.”;
-- **11)** w art. 80 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W branżowym centrum umiejętności działa rada branżowego centrum umiejętności.”;
-- **12)** w art. 81:
-    - **a)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. W skład rady branżowego centrum umiejętności wchodzi co najmniej:
+- **10)** w art. 53 w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Minister właściwy do spraw rolnictwa sprawuje nadzór pedagogiczny nad publicznymi szkołami rolniczymi, placówkami rolniczymi, branżowymi centrami umiejętności i placówkami doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych, przez siebie prowadzonymi, minister właściwy do spraw środowiska – nad publicznymi szkołami leśnymi i branżowymi centrami umiejętności przez siebie prowadzonymi, a minister właściwy do spraw zdrowia – nad publiczną placówką doskonalenia nauczycieli przedmiotów zawodowych o zasięgu ogólnokrajowym przez siebie prowadzoną. ” ;
+- **11)** w art. 80 po ust. 1 dodaje się ust. 1a w brzmieniu: „
 
-- **1)** po jednym przedstawicielu:
-    - **a)** powiatowej rady rynku pracy właściwej ze względu na siedzibę branżowego centrum umiejętności,
-    - **b)** wojewódzkiej rady rynku pracy właściwej ze względu na siedzibę branżowego centrum umiejętności,
-    - **c)** organu prowadzącego branżowe centrum umiejętności;
+1a. W branżowym centrum umiejętności działa rada branżowego centrum umiejętności. ” ;
 
-- **2)** po dwóch przedstawicieli:
-    - **a)** organizacji pracodawców, samorządu gospodarczego, innej organizacji gospodarczej, stowarzyszenia lub samorządu zawodowego lub sektorowej rady do spraw kompetencji, właściwych dla danej dziedziny zawodowej określonej w przepisach wydanych na podstawie art. 46c ust. 1,
-    - **b)** pracodawców, w tym przedsiębiorców, o których mowa w art. 7 ust. 1 pkt 1–3 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641, 803 i 1414), właściwych dla danej dziedziny zawodowej określonej w przepisach wydanych na podstawie art. 46c ust. 1,
-    - **c)** wybranych spośród osób prowadzących zajęcia w branżowym centrum umiejętności.”,
-    - **b)** w ust. 6 wyrazy „ust. 1” zastępuje się wyrazami „ust. 1 albo 4a”,
-    - **c)** dodaje się ust. 15 w brzmieniu: „15. W branżowych centrach umiejętności przepisów ust. 1, 9 i 13 nie stosuje się.”;
+- **12)** w art. 81: po ust. 4 dodaje się ust. 4a w brzmieniu: „
+    - **a)**
 
-- **13)** w art. 88:
-    - **a)** po ust. 2a dodaje się ust. 2b w brzmieniu: „2b. Akt założycielski publicznego branżowego centrum umiejętności, oprócz danych wymienionych w ust. 1, określa także filie podporządkowane organizacyjnie branżowemu centrum umiejętności oraz zawiera nazwę dziedziny zawodowej, w zakresie której będzie funkcjonowało to centrum, i wskazanie organizacji branżowej właściwej dla danej dziedziny zawodowej, która jest organem zakładającym to centrum lub z którą organ zakładający to centrum zawarł porozumienie, o którym mowa w art. 8 ust. 3a.”,
-    - **b)** w ust. 5 w zdaniu pierwszym po wyrazach „aktu założycielskiego i statutu” dodaje się przecinek i wyrazy „a w przypadku branżowego centrum umiejętności – również wraz z poświadczoną za zgodność z oryginałem kopią porozumienia, o którym mowa w ust. 2b”;
+4a. W skład rady branżowego centrum umiejętności wchodzi co najmniej:
 
-- **14)** w art. 89 po ust. 8 dodaje się ust. 8a w brzmieniu: „8a. W przypadku likwidacji publicznego branżowego centrum umiejętności, o której mowa w art. 46c ust. 4, przepisów ust. 1–5 nie stosuje się.”;
-- **15)** w art. 91 po ust. 10 dodaje się ust. 10a w brzmieniu: „10a. Przepisów ust. 9 i 10 nie stosuje się w przypadku włączenia do zespołu albo wyłączenia z zespołu centrum kształcenia zawodowego, placówki kształcenia ustawicznego lub branżowego centrum umiejętności.”;
-- **16)** art. 111a otrzymuje brzmienie: „Art. 111a. 1. W skład publicznej placówki kształcenia ustawicznego mogą wchodzić szkoły dla dorosłych, branżowe szkoły II stopnia lub szkoły policealne.
+- **1)** po jednym przedstawicielu: powiatowej rady rynku pracy właściwej ze względu na siedzibę branżowego centrum umiejętności, wojewódzkiej rady rynku pracy właściwej ze względu na siedzibę branżowego centrum umiejętności, organu prowadzącego branżowe centrum umiejętności;
+    - **a)**
+    - **b)**
+    - **c)**
 
-2. Publiczna placówka kształcenia ustawicznego, publiczne centrum kształcenia zawodowego i publiczne branżowe centrum umiejętności mogą posiadać filie, które są organizacyjnie podporządkowane odpowiednio placówce lub centrum.”;
+- **2)** po dwóch przedstawicieli: organizacji pracodawców, samorządu gospodarczego, innej organizacji gospodarczej, stowarzyszenia lub samorządu zawodowego lub sektorowej rady do spraw kompetencji, właściwych dla danej dziedziny zawodowej określonej w przepisach wydanych na podstawie art. 46c ust. 1, pracodawców, w tym przedsiębiorców, o których mowa w art. 7 ust. 1 pkt 1–3 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641, 803 i 1414), właściwych dla danej dziedziny zawodowej określonej w przepisach wydanych na podstawie art. 46c ust. 1, wybranych spośród osób prowadzących zajęcia w branżowym centrum umiejętności. ” , w ust. 6 wyrazy „ust. 1” zastępuje się wyrazami „ust. 1 albo 4a”, dodaje się ust. 15 w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **b)**
+    - **c)**
 
-- **17)** w art. 117:
-    - **a)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) formach pozaszkolnych realizowanych przez publiczne i niepubliczne placówki kształcenia ustawicznego, centra kształcenia zawodowego i branżowe centra umiejętności oraz publiczne i niepubliczne szkoły prowadzące kształcenie zawodowe, z zastrzeżeniem ust. 2 pkt 3 i 4.”,
-    - **b)** w ust. 1a: – po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) branżowe szkolenie zawodowe;”, – pkt 5 otrzymuje brzmienie: „5) kurs, inny niż wymienione w pkt 1–3, umożliwiający uzyskiwanie i uzupełnianie wiedzy, umiejętności i kwalifikacji zawodowych lub zmianę kwalifikacji zawodowych.”,
-    - **c)** ust. 2b otrzymuje brzmienie: „2b. Kursy kompetencji ogólnych mogą być prowadzone przez publiczne i niepubliczne placówki kształcenia ustawicznego i centra kształcenia zawodowego.”,
-    - **d)** w ust. 2c w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) publiczne i niepubliczne branżowe centra umiejętności.”,
-    - **e)** po ust. 2c dodaje się ust. 2d i 2e w brzmieniu: „2d. Branżowe szkolenia zawodowe mogą być prowadzone przez publiczne i niepubliczne branżowe centra umiejętności.
+15. W branżowych centrach umiejętności przepisów ust. 1, 9 i 13 nie stosuje się. ” ;
 
-2e. Kursy, o których mowa w ust. 1a pkt 5, mogą być prowadzone przez publiczne i niepubliczne placówki kształcenia ustawicznego, centra kształcenia zawodowego i branżowe centra umiejętności.”,
+- **13)** w art. 88: po ust. 2a dodaje się ust. 2b w brzmieniu: „
+    - **a)**
 
-- **f)** w ust. 5: – pkt 1 otrzymuje brzmienie: „1) rodzaje publicznych placówek kształcenia ustawicznego oraz zadania publicznych placówek kształcenia ustawicznego, centrów kształcenia zawodowego oraz branżowych centrów umiejętności,”, – w pkt 4 wyrazy „pkt 1–4” zastępuje się wyrazami „pkt 1–4a”, – w pkt 6 wyrazy „pkt 2, 3 i 5” zastępuje się wyrazami „pkt 2, 3, 4a i 5”,
-- **g)** ust. 7 otrzymuje brzmienie: „7. Publiczne szkoły, placówki i centra, o których mowa w ust. 1, mogą pobierać opłaty za kształcenie prowadzone w formach pozaszkolnych, o których mowa w ust. 1a pkt 2, 3, 4a i 5. Opłat nie pobiera się od uczniów szkół prowadzących kształcenie zawodowe, uczestniczących w branżowych szkoleniach zawodowych.”;
-- **18)** w art. 118:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Placówka kształcenia ustawicznego i centrum kształcenia zawodowego mogą uzyskać akredytację na kształcenie ustawiczne prowadzone w formie pozaszkolnej, o której mowa w art. 117 ust. 1a pkt 1– 4, a w przypadku formy pozaszkolnej, o której mowa w art. 117 ust. 1a pkt 5 – jeżeli kształcenie w tej formie jest prowadzone w oparciu o programy określone na podstawie przepisów dotyczących uzyskiwania i uzupełniania wiedzy, umiejętności i kwalifikacji zawodowych lub zmiany kwalifikacji zawodowych.”,
-    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Branżowe centrum umiejętności może uzyskać akredytację na kształcenie ustawiczne prowadzone w formie pozaszkolnej, o której mowa w art. 117 ust. 1a pkt 4 i 4a, a w przypadku formy pozaszkolnej, o której mowa w art. 117 ust. 1a pkt 5 – jeżeli kształcenie w tej formie jest prowadzone w oparciu o programy określone na podstawie przepisów dotyczących uzyskiwania i uzupełniania wiedzy, umiejętności i kwalifikacji zawodowych lub zmiany kwalifikacji zawodowych.”,
-    - **c)** w ust. 3 w pkt 8 kropkę zastępuje się przecinkiem i dodaje się pkt 9 w brzmieniu: „9) prowadzi dokumentację kształcenia ustawicznego w danej formie pozaszkolnej zgodnie z przepisami wydanymi na podstawie art. 117 ust. 5.”,
-    - **d)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. W przypadku cofnięcia akredytacji, o którym mowa w ust. 5, podmiot, któremu cofnięto akredytację, może ubiegać się o ponowne przyznanie akredytacji na kształcenie ustawiczne w formie pozaszkolnej, na której prowadzenie kurator oświaty cofnął akredytację, nie wcześniej niż po upływie roku od dnia cofnięcia tej akredytacji.”,
-    - **e)** ust. 9 otrzymuje brzmienie: „9. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółowe warunki i tryb przyznawania, odmowy przyznania oraz cofania akredytacji na kształcenie ustawiczne w formach pozaszkolnych podmiotom, o których mowa w ust. 1, 1a, 8 i 8a, skład i sposób działania zespołu, o którym mowa w ust. 4a, oraz zadania przewodniczącego tego zespołu, a także wzory dokumentów stosowanych w postępowaniu o uzyskanie akredytacji, uwzględniając udział w zespole w szczególności przedstawicieli wojewódzkiego lub powiatowego urzędu pracy oraz organizacji pracodawców.”;
+2b. Akt założycielski publicznego branżowego centrum umiejętności, oprócz danych wymienionych w ust. 1, określa także filie podporządkowane organizacyjnie branżowemu centrum umiejętności oraz zawiera nazwę dziedziny zawodowej, w zakresie której będzie funkcjonowało to centrum, i wskazanie organizacji branżowej właściwej dla danej dziedziny zawodowej, która jest organem zakładającym to centrum lub z którą organ zakładający to centrum zawarł porozumienie, o którym mowa w art. 8 ust. 3a. ” , w ust. 5 w zdaniu pierwszym po wyrazach „aktu założycielskiego i statutu” dodaje się przecinek i wyrazy „a w przypadku branżowego centrum umiejętności – również wraz z poświadczoną za zgodność z oryginałem kopią porozumienia, o którym mowa w ust. 2b”;
+
+- **b)**
+- **14)** w art. 89 po ust. 8 dodaje się ust. 8a w brzmieniu: „
+
+8a. W przypadku likwidacji publicznego branżowego centrum umiejętności, o której mowa w art. 46c ust. 4, przepisów ust. 1–5 nie stosuje się. ” ;
+
+- **15)** w art. 91 po ust. 10 dodaje się ust. 10a w brzmieniu: „
+
+10a. Przepisów ust. 9 i 10 nie stosuje się w przypadku włączenia do zespołu albo wyłączenia z zespołu centrum kształcenia zawodowego, placówki kształcenia ustawicznego lub branżowego centrum umiejętności. ” ;
+
+- **16)** art. 111a otrzymuje brzmienie: „
+
+**Art. 111a.**
+
+1. W skład publicznej placówki kształcenia ustawicznego mogą wchodzić szkoły dla dorosłych, branżowe szkoły II stopnia lub szkoły policealne.
+
+2. Publiczna placówka kształcenia ustawicznego, publiczne centrum kształcenia zawodowego i publiczne branżowe centrum umiejętności mogą posiadać filie, które są organizacyjnie podporządkowane odpowiednio placówce lub centrum. ” ;
+
+- **17)** w art. 117: w ust. 1 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** formach pozaszkolnych realizowanych przez publiczne i niepubliczne placówki kształcenia ustawicznego, centra kształcenia zawodowego i branżowe centra umiejętności oraz publiczne i niepubliczne szkoły prowadzące kształcenie zawodowe, z zastrzeżeniem ust. 2 pkt 3 i 4. ” , w ust. 1a: – po pkt 4 dodaje się pkt 4a w brzmieniu: „ 4a) branżowe szkolenie zawodowe; ” , – pkt 5 otrzymuje brzmienie: „ 5) kurs, inny niż wymienione w pkt 1–3, umożliwiający uzyskiwanie i uzupełnianie wiedzy, umiejętności i kwalifikacji zawodowych lub zmianę kwalifikacji zawodowych. ” , ust. 2b otrzymuje brzmienie: „
+    - **b)**
+    - **c)**
+
+2b. Kursy kompetencji ogólnych mogą być prowadzone przez publiczne i niepubliczne placówki kształcenia ustawicznego i centra kształcenia zawodowego. ” , w ust. 2c w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+
+- **d)**
+- **3)** publiczne i niepubliczne branżowe centra umiejętności. ” , po ust. 2c dodaje się ust. 2d i 2e w brzmieniu: „
+    - **e)**
+
+2d. Branżowe szkolenia zawodowe mogą być prowadzone przez publiczne i niepubliczne branżowe centra umiejętności.
+
+2e. Kursy, o których mowa w ust. 1a pkt 5, mogą być prowadzone przez publiczne i niepubliczne placówki kształcenia ustawicznego, centra kształcenia zawodowego i branżowe centra umiejętności. ” , w ust. 5: – pkt 1 otrzymuje brzmienie: „ 1) rodzaje publicznych placówek kształcenia ustawicznego oraz zadania publicznych placówek kształcenia ustawicznego, centrów kształcenia zawodowego oraz branżowych centrów umiejętności, ” , – w pkt 4 wyrazy „pkt 1–4” zastępuje się wyrazami „pkt 1–4a”, – w pkt 6 wyrazy „pkt 2, 3 i 5” zastępuje się wyrazami „pkt 2, 3, 4a i 5”, ust. 7 otrzymuje brzmienie: „
+
+- **f)**
+- **g)**
+
+7. Publiczne szkoły, placówki i centra, o których mowa w ust. 1, mogą pobierać opłaty za kształcenie prowadzone w formach pozaszkolnych, o których mowa w ust. 1a pkt 2, 3, 4a i 5. Opłat nie pobiera się od uczniów szkół prowadzących kształcenie zawodowe, uczestniczących w branżowych szkoleniach zawodowych. ” ;
+
+- **18)** w art. 118: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Placówka kształcenia ustawicznego i centrum kształcenia zawodowego mogą uzyskać akredytację na kształcenie ustawiczne prowadzone w formie pozaszkolnej, o której mowa w art. 117 ust. 1a pkt 1–4, a w przypadku formy pozaszkolnej, o której mowa w art. 117 ust. 1a pkt 5 – jeżeli kształcenie w tej formie jest prowadzone w oparciu o programy określone na podstawie przepisów dotyczących uzyskiwania i uzupełniania wiedzy, umiejętności i kwalifikacji zawodowych lub zmiany kwalifikacji zawodowych. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+- **b)**
+
+1a. Branżowe centrum umiejętności może uzyskać akredytację na kształcenie ustawiczne prowadzone w formie pozaszkolnej, o której mowa w art. 117 ust. 1a pkt 4 i 4a, a w przypadku formy pozaszkolnej, o której mowa w art. 117 ust. 1a pkt 5 – jeżeli kształcenie w tej formie jest prowadzone w oparciu o programy określone na podstawie przepisów dotyczących uzyskiwania i uzupełniania wiedzy, umiejętności i kwalifikacji zawodowych lub zmiany kwalifikacji zawodowych. ” , w ust. 3 w pkt 8 kropkę zastępuje się przecinkiem i dodaje się pkt 9 w brzmieniu: „
+
+- **c)**
+- **9)** prowadzi dokumentację kształcenia ustawicznego w danej formie pozaszkolnej zgodnie z przepisami wydanymi na podstawie art. 117 ust. 5. ” , po ust. 5 dodaje się ust. 5a w brzmieniu: „
+    - **d)**
+
+5a. W przypadku cofnięcia akredytacji, o którym mowa w ust. 5, podmiot, któremu cofnięto akredytację, może ubiegać się o ponowne przyznanie akredytacji na kształcenie ustawiczne w formie pozaszkolnej, na której prowadzenie kurator oświaty cofnął akredytację, nie wcześniej niż po upływie roku od dnia cofnięcia tej akredytacji. ” , ust. 9 otrzymuje brzmienie: „
+
+- **e)**
+
+9. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółowe warunki i tryb przyznawania, odmowy przyznania oraz cofania akredytacji na kształcenie ustawiczne w formach pozaszkolnych podmiotom, o których mowa w ust. 1, 1a, 8 i 8a, skład i sposób działania zespołu, o którym mowa w ust. 4a, oraz zadania przewodniczącego tego zespołu, a także wzory dokumentów stosowanych w postępowaniu o uzyskanie akredytacji, uwzględniając udział w zespole w szczególności przedstawicieli wojewódzkiego lub powiatowego urzędu pracy oraz organizacji pracodawców. ” ;
 
 - **19)** w art. 120 w ust. 1 wyrazy „a także w centrach kształcenia zawodowego” zastępuje się wyrazami „a także w branżowych centrach umiejętności, centrach kształcenia zawodowego”;
-- **20)** w art. 122a:
-    - **a)** w ust. 1 wyraz „rynkowej” zastępuje się wyrazami „wolnorynkowej lub kwalifikacji sektorowej”,
-    - **b)** w ust. 3 w pkt 1–3 wyraz „rynkowej” zastępuje się wyrazami „wolnorynkowej lub kwalifikacji sektorowej”;
+- **20)** w art. 122a: w ust. 1 wyraz „rynkowej” zastępuje się wyrazami „wolnorynkowej lub kwalifikacji sektorowej”, w ust. 3 w pkt 1–3 wyraz „rynkowej” zastępuje się wyrazami „wolnorynkowej lub kwalifikacji sektorowej”;
+    - **a)**
+    - **b)**
 
-- **21)** w art. 168:
-    - **a)** w ust. 4 w pkt 2 w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „c) branżowego centrum umiejętności – wskazanie organizacji branżowej właściwej dla danej dziedziny zawodowej, z którą osoba zamierzająca prowadzić to centrum zawarła porozumienie, o którym mowa w art. 8 ust. 3a; do zgłoszenia dołącza się kopię porozumienia poświadczoną za zgodność z oryginałem;”,
-    - **b)** w ust. 11 po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) w przypadku branżowego centrum umiejętności – nazwę organizacji branżowej, o której mowa w ust. 4 pkt 2 lit. c;”;
+- **21)** w art. 168: w ust. 4 w pkt 2 w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „ branżowego centrum umiejętności – wskazanie organizacji branżowej właściwej dla danej dziedziny zawodowej, z którą osoba zamierzająca prowadzić to centrum zawarła porozumienie, o którym mowa w art. 8 ust. 3a; do zgłoszenia dołącza się kopię porozumienia poświadczoną za zgodność z oryginałem; ” , w ust. 11 po pkt 4 dodaje się pkt 4a w brzmieniu: „
+    - **a)**
+    - **c)**
+    - **b)**
 
-- **22)** w art. 172 w ust. 2 po pkt 4e dodaje się pkt 4f w brzmieniu: „4f) organizację branżową właściwą dla danej dziedziny zawodowej, z którą organ prowadzący branżowe centrum umiejętności zawarł porozumienie, o którym mowa w art. 8 ust. 3a, jeżeli organizacja ta nie jest organem prowadzącym to centrum – w przypadku branżowego centrum umiejętności;”;
-- **23)** w art. 172a dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Przepisy wydane na podstawie art. 117 ust. 5 stosuje się również do niepublicznych placówek kształcenia ustawicznego, centrów kształcenia zawodowego i branżowych centrów umiejętności.”.
+- **4a)** w przypadku branżowego centrum umiejętności – nazwę organizacji branżowej, o której mowa w ust. 4 pkt 2 lit. c; ” ;
+- **22)** w art. 172 w ust. 2 po pkt 4e dodaje się pkt 4f w brzmieniu: „
+- **4f)** organizację branżową właściwą dla danej dziedziny zawodowej, z którą organ prowadzący branżowe centrum umiejętności zawarł porozumienie, o którym mowa w art. 8 ust. 3a, jeżeli organizacja ta nie jest organem prowadzącym to centrum – w przypadku branżowego centrum umiejętności; ” ;
+- **23)** w art. 172a dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
+
+2. Przepisy wydane na podstawie art. 117 ust. 5 stosuje się również do niepublicznych placówek kształcenia ustawicznego, centrów kształcenia zawodowego i branżowych centrów umiejętności. ” .
 
 **Art. 2.** W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2023 r. poz. 984, 1234, 1586 i 1672) wprowadza się następujące zmiany:
 
+- **1)** w art. 3 pkt 7 otrzymuje brzmienie: „
+- **7)** szkoleniu branżowym – rozumie się przez to obowiązkową formę doskonalenia zawodowego nauczycieli teoretycznych przedmiotów zawodowych i nauczycieli praktycznej nauki zawodu, zatrudnionych w szkołach prowadzących kształcenie zawodowe w rozumieniu art. 4 pkt 28a lit. a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe oraz placówkach kształcenia ustawicznego i centrach kształcenia zawodowego, o których mowa w art. 2 pkt 4 tej ustawy, mającą na celu doskonalenie umiejętności i kwalifikacji zawodowych potrzebnych do wykonywania pracy i realizowaną odpowiednio w branżowych centrach umiejętności, u pracodawców lub w indywidualnych gospodarstwach rolnych, których działalność jest związana z nauczanym zawodem. ” ;
+- **2)** w art. 42 w ust. 2e wyrazy „placówkach i centrach” zastępuje się wyrazami „placówkach kształcenia ustawicznego i centrach kształcenia zawodowego”;
+- **3)** w art. 70c: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Nauczyciele teoretycznych przedmiotów zawodowych i nauczyciele praktycznej nauki zawodu, zatrudnieni w szkołach prowadzących kształcenie zawodowe w rozumieniu art. 4 pkt 28a lit. a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe oraz placówkach kształcenia ustawicznego i centrach kształcenia zawodowego, o których mowa w art. 2 pkt 4 tej ustawy, są obowiązani doskonalić umiejętności i kwalifikacje zawodowe potrzebne do wykonywania pracy przez uczestniczenie w szkoleniach branżowych realizowanych w trzyletnich cyklach, w łącznym wymiarze 40 godzin w cyklu. ” , w ust. 2: – pkt 3 otrzymuje brzmienie: „ 3) zatrudnionych w indywidualnych gospodarstwach rolnych, których działalność jest związana z nauczanym zawodem, lub ” , – dodaje się pkt 4 w brzmieniu: „ 4) realizujących wyłącznie obowiązkowe zajęcia edukacyjne z zakresu danej części efektów kształcenia obejmującej język obcy zawodowy, określonej w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy – Prawo oświatowe. ” , w ust. 5 po wyrazach „na szkolenie branżowe odpowiednio” dodaje się wyrazy „w branżowym centrum umiejętności,”, w ust. 9 po wyrazach „potwierdzoną przez” dodaje się wyrazy „dyrektora branżowego centrum umiejętności,”;
+
+- **b)**
+- **c)**
+- **d)**
+- **4)** w art. 91b w ust. 2d wyrazy „placówkach i centrach” zastępuje się wyrazami „placówkach kształcenia ustawicznego i centrach kształcenia zawodowego”.
+
 **Art. 3.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2022 r. poz. 2230 oraz z 2023 r. poz. 1234) wprowadza się następujące zmiany:
 
+- **1)** w art. 9fa w ust. 2 w części wspólnej wyrazy „a od roku 2022 w wysokości 76 zł,” zastępuje się wyrazami „w roku 2022 w wysokości 76 zł, a od roku 2023 w wysokości 97 zł,”;
+- **2)** w art. 11 w ust. 1 wyrazy „placówki kształcenia ustawicznego i centra kształcenia zawodowego” zastępuje się wyrazami „placówki i centra, o których mowa w art. 2 pkt 4 ustawy – Prawo oświatowe”;
+- **3)** w art. 22ab w ust. 2 pkt 1 otrzymuje brzmienie: „
+- **1)** do danego języka obcego nowożytnego oraz języka łacińskiego w danej klasie, biorąc pod uwagę poziomy nauczania języków obcych nowożytnych lub poziomy nauczania języka łacińskiego – w przypadku klas IV-VIII szkoły podstawowej i szkoły ponadpodstawowej; ” ;
+- **4)** w art. 44o: w ust. 4 w pkt 2 wyrazy „ust. 8 i art. 44zzzga” zastępuje się wyrazami „ust. 4a i 8 oraz art. 44zzzga i art. 44zzzgb”, po ust. 4 dodaje się ust. 4a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+4a. Warunek, o którym mowa w ust. 4 pkt 2, nie dotyczy ucznia, który posiada certyfikat kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie, w którym kształci się, odpowiadającej kwalifikacji, z zakresu której jest przeprowadzany egzamin zawodowy w danej klasie. ” ;
+
+- **5)** w art. 44q w ust. 1 w pkt 3 wyrazy „art. 44zzzga” zastępuje się wyrazami „art. 44zzzga i art. 44zzzgb”;
+- **6)** w art. 44z: w ust. 1 w pkt 2 wyrazy „art. 44zzzga” zastępuje się wyrazami „ust. 1a, art. 44zzzga i art. 44zzzgb”, po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+1a. Warunek, o którym mowa w ust. 1 pkt 2, nie dotyczy słuchacza, który posiada certyfikat kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie, w którym kształci się, odpowiadającej kwalifikacji, z zakresu której jest przeprowadzany egzamin zawodowy w danym semestrze. ” ;
+
+- **7)** w art. 44za w ust. 3 w pkt 2 wyrazy „art. 44zzzga” zastępuje się wyrazami „art. 44zzzga i art. 44zzzgb”;
+- **8)** w art. 44zw dodaje się ust. 4 w brzmieniu: „
+
+4. W szczególnych przypadkach zdrowotnych, uniemożliwiających uczniowi lub słuchaczowi przystąpienie do egzaminu ósmoklasisty, dyrektor okręgowej komisji egzaminacyjnej, na udokumentowany wniosek dyrektora szkoły, może zwolnić ucznia lub słuchacza z obowiązku przystąpienia do tego egzaminu. Dyrektor szkoły składa wniosek w porozumieniu z rodzicami ucznia lub ze słuchaczem. ” ;
+
+- **9)** w art. 44zzd w ust. 2 w pkt 2 lit. b otrzymuje brzmienie: „ język obcy nowożytny albo język łaciński, ” ;
+    - **b)**
+
+- **10)** w art. 44zzf: w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Absolwent szkoły ponadpodstawowej dwujęzycznej lub oddziału dwujęzycznego w szkole ponadpodstawowej ogólnodostępnej na egzaminie maturalnym z matematyki, zdawanej jako przedmiot obowiązkowy, rozwiązuje w języku polskim zadania egzaminacyjne przygotowane dla absolwentów zdających egzamin maturalny w języku polskim oraz może rozwiązać w języku obcym nowożytnym będącym drugim językiem nauczania dodatkowe zadania egzaminacyjne przygotowane w tym języku. ” , w ust. 3 zdanie pierwsze otrzymuje brzmienie: „ Absolwent szkoły ponadpodstawowej dwujęzycznej lub oddziału dwujęzycznego w szkole ponadpodstawowej ogólnodostępnej na egzaminie maturalnym z przedmiotów: biologia, chemia, fizyka, geografia i historia, zdawanych jako przedmioty dodatkowe, rozwiązuje w języku polskim zadania egzaminacyjne przygotowane dla absolwentów zdających egzamin maturalny w języku polskim oraz może rozwiązać w języku obcym nowożytnym będącym drugim językiem nauczania dodatkowe zadania egzaminacyjne przygotowane w tym języku. ” ;
+    - **a)**
+    - **b)**
+
+- **11)** w art. 44zzh: w ust. 3 wyrazy „w języku obcym” zastępuje się wyrazami „w języku obcym nowożytnym”, ust. 5 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+5. W przypadku gdy uczeń lub słuchacz uzyskał tytuł laureata lub finalisty olimpiady przedmiotowej z danego przedmiotu, w tym z danego języka obcego nowożytnego albo języka łacińskiego, przewodniczący zespołu egzaminacyjnego, o którym mowa w art. 44zzs ust. 3, na wniosek ucznia lub słuchacza, złożony nie później niż na 2 tygodnie przed terminem egzaminu maturalnego, informuje okręgową komisję egzaminacyjną o zmianie przedmiotu lub wyborze nowego przedmiotu, w tym o zmianie języka obcego nowożytnego albo języka łacińskiego, lub o zmianie poziomu egzaminu z języka obcego nowożytnego, wskazanych w deklaracji, o której mowa w art. 44zzi. ” ;
+
+- **12)** w art. 44zzn: ust. 5 otrzymuje brzmienie: „
+    - **a)**
+
+5. Absolwent, o którym mowa w ust. 1, przystępujący ponownie do egzaminu maturalnego może wybrać jako przedmiot obowiązkowy:
+
+- **1)** inny język obcy nowożytny niż język obcy nowożytny, który zdawał poprzednio, albo język łaciński – w przypadku gdy poprzednio przystępował do egzaminu maturalnego z języka obcego nowożytnego jako przedmiotu obowiązkowego;
+- **2)** język obcy nowożytny – jeżeli poprzednio przystępował do egzaminu maturalnego z języka łacińskiego jako przedmiotu obowiązkowego. ” , po ust. 5 dodaje się ust. 5a i 5b w brzmieniu: „
+    - **b)**
+
+5a. W przypadku, o którym mowa w ust. 5 pkt 1, gdy absolwent, o którym mowa w ust. 1, przystępując ponownie do egzaminu maturalnego, wybierze jako przedmiot obowiązkowy język łaciński i zda ten egzamin, na świadectwie dojrzałości wpisuje się tylko wynik części pisemnej egzaminu maturalnego z języka łacińskiego.
+
+5b. W przypadku, o którym mowa w ust. 5 pkt 2, gdy absolwent, o którym mowa w ust. 1, przystępując ponownie do egzaminu maturalnego, wybierze jako przedmiot obowiązkowy język obcy nowożytny, przystępuje do tego egzaminu zarówno w części ustnej, jak i w części pisemnej. ” ;
+
+- **13)** art. 44zzo otrzymuje brzmienie: „
+
+1. Absolwent, który uzyskał świadectwo dojrzałości po zdaniu egzaminu maturalnego, ma prawo ponownie przystąpić do egzaminu maturalnego, w części pisemnej albo w części pisemnej i w części ustnej, z wybranego przedmiotu albo wybranych przedmiotów, z których jest przeprowadzany egzamin maturalny, zgodnie z przepisami obowiązującymi w roku, w którym ponownie przystępuje do egzaminu maturalnego, w tym do rozwiązywania dodatkowych zadań egzaminacyjnych, o których mowa w art. 44zzf ust. 2 i 3.
+
+2. Absolwent, o którym mowa w ust. 1, który:
+
+- **1)** podwyższył wynik egzaminu maturalnego z danego przedmiotu lub przedmiotów,
+- **2)** podwyższył wynik egzaminu maturalnego z dodatkowych zadań egzaminacyjnych, o których mowa w art. 44zzf ust. 2 i 3,
+- **3)** przystąpił do egzaminu maturalnego z przedmiotu lub przedmiotów dodatkowych, z których wcześniej nie zdawał egzaminu maturalnego,
+- **4)** przystąpił do egzaminu maturalnego z dodatkowych zadań egzaminacyjnych, o których mowa w art. 44zzf ust. 2 i 3, z których wcześniej nie zdawał egzaminu maturalnego otrzymuje aneks do świadectwa dojrzałości wydany przez okręgową komisję egzaminacyjną. ” ;
+- **14)** w art. 44zzp ust. 1 otrzymuje brzmienie: „
+
+1. Absolwent, który posiada:
+
+- **1)** świadectwo dojrzałości uzyskane po zdaniu egzaminu dojrzałości przeprowadzanego dla absolwentów ponadpodstawowych szkół średnich,
+- **2)** dyplom IB (International Baccalaureate) wydany przez organizację International Baccalaureate Organization w Genewie i uzyskany po zakończeniu kształcenia w oddziale międzynarodowym, o którym mowa w art. 4 pkt 12 ustawy – Prawo oświatowe ma prawo przystąpić do egzaminu maturalnego, w części pisemnej albo w części pisemnej i w części ustnej, z wybranego przedmiotu albo wybranych przedmiotów, z których jest przeprowadzany egzamin maturalny, zgodnie z przepisami obowiązującymi w roku, w którym przystępuje do egzaminu maturalnego. ” ;
+- **15)** w art. 44zzq po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+1a. Opłata za egzamin maturalny, o której mowa w ust. 1, jest wnoszona wyłącznie za przystąpienie do egzaminu maturalnego w terminie głównym. ” ;
+
+- **16)** w art. 44zzr w ust. 7 w pkt 2 wyrazy „języka obcego nowożytnego” zastępuje się wyrazami „języka obcego nowożytnego, języka łacińskiego”;
+- **17)** w art. 44zzzd po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „
+
+3a. Zadania egzaminacyjne w części pisemnej egzaminu zawodowego są wybierane losowo dla każdego zdającego z bazy zadań egzaminacyjnych prowadzonej przez Centralną Komisję Egzaminacyjną, z wykorzystaniem algorytmu ustalonego przez Centralną Komisję Egzaminacyjną.
+
+3b. Zadania egzaminacyjne w bazie zadań egzaminacyjnych i algorytm, o którym mowa w ust. 3a, nie są podawane do publicznej wiadomości. ” ;
+
+- **18)** po art. 44zzzga dodaje się art. 44zzzgb w brzmieniu: „ W szczególnych przypadkach zdrowotnych, uniemożliwiających uczniowi lub słuchaczowi, o którym mowa w art. 44zzzb ust. 3 pkt 1 i 2, przystąpienie do egzaminu zawodowego, dyrektor okręgowej komisji egzaminacyjnej, na udokumentowany wniosek dyrektora szkoły, może zwolnić tego ucznia lub słuchacza z obowiązku przystąpienia do egzaminu zawodowego lub jego części. Dyrektor szkoły składa wniosek w porozumieniu z uczniem lub ze słuchaczem, a w przypadku niepełnoletniego ucznia lub słuchacza – z jego rodzicami. ” ;
+- **19)** w art. 44zzzo w ust. 7 wyrazy „art. 44zzzga ust. 4” zastępuje się wyrazami „art. 44zzzga ust. 4 lub art. 44zzzgb”;
+- **20)** w art. 44zzzu w ust. 1 w pkt 1 wyrazy „art. 44zzzga ust. 4” zastępuje się wyrazami „art. 44zzzga ust. 4 lub art. 44zzzgb”.
+
 **Art. 4.** W ustawie z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2022 r. poz. 2267 oraz z 2023 r. poz. 1586) w art. 28:
+
+- **1)** w ust. 5 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „
+- **3)** prowadzeniem branżowych centrów umiejętności niewchodzących w skład ogólnopolskiej sieci branżowych centrów umiejętności, o której mowa w art. 8a ust. 7 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe. ” ;
+- **2)** w ust. 6 w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 i 11 w brzmieniu: „
+- **10)** liczby uczniów lub słuchaczy szkół prowadzących kształcenie zawodowe objętych branżowym szkoleniem zawodowym realizowanym przez branżowe centra umiejętności wchodzące w skład ogólnopolskiej sieci branżowych centrów umiejętności, o której mowa w art. 8a ust. 7 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe;
+- **11)** liczby branżowych centrów umiejętności wchodzących w skład ogólnopolskiej sieci branżowych centrów umiejętności, o której mowa w art. 8a ust. 7 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe. ” .
 
 **Art. 5.** W ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2022 r. poz. 1648, 1933 i 2581 oraz z 2023 r. poz. 1394 i 1703) w art. 81 w ust. 5 w pkt 4 po wyrazach „centrów kształcenia zawodowego,” dodaje się wyrazy „branżowych centrów umiejętności,”.
 
 **Art. 6.** W ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2022 r. poz. 2597 oraz z 2023 r. poz. 185, 1234, 1672 i 1718) wprowadza się następujące zmiany:
 
-**Art. 7.** W ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2023 r. poz. 1666) w art. 74 w ust. 2 pkt 3 otrzymuje brzmienie: „3) szkoły ponadpodstawowe, centra kształcenia zawodowego i branżowe centra umiejętności, umożliwiające uzyskanie i uzupełnienie wiedzy, umiejętności i kwalifikacji zawodowych lub zmianę kwalifikacji zawodowych, w tym ośrodki prowadzące działalność szkoleniową w państwach członkowskich Unii Europejskiej lub państwach trzecich”.
+- **1)** w art. 7 w ust. 1 po pkt 23 dodaje się pkt 23a i 23b w brzmieniu: „
+- **23a)** nazwa i adres siedziby organizacji branżowej właściwej dla danej dziedziny zawodowej, o której mowa w art. 4 pkt 30b ustawy – Prawo oświatowe, z którą organ prowadzący branżowe centrum umiejętności zawarł porozumienie, o którym mowa w art. 8 ust. 3a ustawy – Prawo oświatowe;
+- **23b)** informacja o włączeniu i dacie włączenia branżowego centrum umiejętności do ogólnopolskiej sieci branżowych centrów umiejętności, o której mowa w art. 8a ust. 7 ustawy – Prawo oświatowe; ” ;
+- **2)** w art. 8 w pkt 2c lit. c otrzymuje brzmienie: „ placówek kształcenia ustawicznego, centrów kształcenia zawodowego oraz branżowych centrów umiejętności – liczba form pozaszkolnych kształcenia ustawicznego, z wyłączeniem kwalifikacyjnych kursów zawodowych, kursów umiejętności zawodowych, turnusów dokształcania teoretycznego oraz branżowych szkoleń zawodowych, według rodzajów tych form, oraz liczba uczestników tych form, ” ;
+    - **c)**
 
-**Art. 8.** W ustawie z dnia 19 grudnia 2014 r. o rybołówstwie morskim (Dz. U. z 2023 r. poz. 475 i 1273) w art. 84 w ust. 2 pkt 3 otrzymuje brzmienie: „3) centrum kształcenia zawodowego lub branżowego centrum umiejętności, umożliwiających uzyskanie i uzupełnienie wiedzy, umiejętności i kwalifikacji zawodowych lub zmianę kwalifikacji zawodowych w zakresie rybołówstwa morskiego, których siedziba znajduje się na terytorium Rzeczypospolitej Polskiej.”.
+- **3)** po art. 19a dodaje się art. 19b w brzmieniu: „
+
+**Art. 19b.** Dane dziedzinowe w związku z kształceniem ustawicznym ucznia szkoły ponadpodstawowej prowadzącej kształcenie zawodowe w branżowym centrum umiejętności obejmują:
+
+- **1)** uczestniczenie w turnusie dokształcania teoretycznego młodocianych pracowników;
+- **2)** datę rozpoczęcia i datę zakończenia turnusu dokształcania teoretycznego młodocianych pracowników;
+- **3)** uczestniczenie w branżowym szkoleniu zawodowym;
+- **4)** datę rozpoczęcia i datę zakończenia branżowego szkolenia zawodowego;
+- **5)** wypadki, którym uległ uczeń, będąc pod opieką branżowego centrum umiejętności, z określeniem rodzaju wypadku, miejsca, w którym zdarzył się wypadek, rodzaju zajęć, w czasie których wypadek miał miejsce, oraz przyczyny wypadku. ” ;
+- **4)** w art. 29 w ust. 2 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „
+- **6)** ukończone szkolenia branżowe, o których mowa w art. 3 pkt 7 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela. ” ;
+- **5)** w art. 40 w ust. 2 wyrazy „placówki kształcenia ustawicznego oraz centra kształcenia zawodowego” zastępuje się wyrazami „placówki kształcenia ustawicznego, centra kształcenia zawodowego oraz branżowe centra umiejętności”;
+- **6)** w art. 42 po pkt 6a dodaje się pkt 6b w brzmieniu: „
+- **6b)** dane, o których mowa w art. 19b – branżowe centra umiejętności; ” ;
+- **7)** w art. 43 w ust. 2 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „
+- **6)** ukończenie szkolenia branżowego, o którym mowa w art. 3 pkt 7 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela – przekazuje szkoła lub placówka oświatowa, w której nauczyciel jest zatrudniony. ” ;
+- **8)** po art. 60a dodaje się art. 60aa w brzmieniu: „ Art. 60aa. Dane ucznia oraz dane nauczyciela, o których mowa odpowiednio w art. 44b ust. 15 pkt 1 lit. a-c oraz pkt 3 lit. a-c ustawy – Prawo oświatowe, są pozyskiwane z bazy danych SIO do bazy danych Portalu, o którym mowa w art. 44b ust. 1 ustawy – Prawo oświatowe, w celu zapewnienia możliwości korzystania z usług, o których mowa w art. 44b ust. 7 ustawy – Prawo oświatowe. ” ;
+- **9)** w art. 62 po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+1a. Dane dziedzinowe dotyczące wyników egzaminu maturalnego absolwenta mogą być również przekazywane na jego konto w Portalu, o którym mowa w art. 44b ust. 1 ustawy – Prawo oświatowe, do celów rekrutacji absolwenta na studia wyższe, na wniosek absolwenta. ” .
+
+**Art. 7.** W ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2023 r. poz. 1666) w art. 74 w ust. 2 pkt 3 otrzymuje brzmienie: „
+
+- **3)** szkoły ponadpodstawowe, centra kształcenia zawodowego i branżowe centra umiejętności, umożliwiające uzyskanie i uzupełnienie wiedzy, umiejętności i kwalifikacji zawodowych lub zmianę kwalifikacji zawodowych, w tym ośrodki prowadzące działalność szkoleniową w państwach członkowskich Unii Europejskiej lub państwach trzecich ” . W ustawie z dnia 19 grudnia 2014 r. o rybołówstwie morskim (Dz. U. z 2023 r. poz. 475 i 1273) w art. 84 w ust. 2 pkt 3 otrzymuje brzmienie: „
+- **3)** centrum kształcenia zawodowego lub branżowego centrum umiejętności, umożliwiających uzyskanie i uzupełnienie wiedzy, umiejętności i kwalifikacji zawodowych lub zmianę kwalifikacji zawodowych w zakresie rybołówstwa morskiego, których siedziba znajduje się na terytorium Rzeczypospolitej Polskiej. ” .
 
 **Art. 9.** W ustawie z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2020 r. poz. 226) wprowadza się następujące zmiany:
 
-**Art. 15b.**
+- **1)** w art. 2: po pkt 8 dodaje się pkt 8a w brzmieniu: „
+    - **a)**
 
-1. Wniosek, o którym mowa w art. 15a, zawiera:
+- **8a)** objętość kwalifikacji – orientacyjny nakład pracy, określony w godzinach, potrzebny do nabycia wszystkich efektów uczenia się wymaganych dla kwalifikacji wolnorynkowej lub sektorowej, z uwzględnieniem kształcenia lub szkolenia, lub samodzielnego uczenia się mającego na celu przygotowanie do nabycia tej kwalifikacji; ” , pkt 9 otrzymuje brzmienie: „
+    - **b)**
 
-- **1)** dane podmiotu, o którym mowa w art. 15a:
-    - **a)** nazwę,
-    - **b)** siedzibę i adres,
-    - **c)** numer w Krajowym Rejestrze Sądowym (KRS),
-    - **d)** imiona i nazwiska oraz stanowiska osób uprawnionych do reprezentowania, w przypadku podmiotu będącego osobą prawną lub jednostką organizacyjną niebędącą osobą prawną, której odrębna ustawa przyznaje zdolność prawną,
-    - **e)** adres elektroniczny osoby składającej wniosek w imieniu podmiotu, o którym mowa w art. 15a;
+- **9)** kwalifikacje cząstkowe – kwalifikacje wyodrębnione w zawodzie, o których mowa w art. 4 pkt 34 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 r. poz. 900, 1672, 1718 i 2005), kwalifikacje nadawane po ukończeniu studiów podyplomowych, o których mowa w art. 160 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, kwalifikacje nadawane po ukończeniu innych form kształcenia, o których mowa w art. 162 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, w art. 2 ust. 2 pkt 3 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2020 r. poz. 1796) i w art. 2 ust. 3 pkt 2 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2022 r. poz. 498 oraz z 2023 r. poz. 1672), oraz kursów i szkoleń, o których mowa w art. 4 pkt 6 ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz (Dz. U. z 2020 r. poz. 2098 oraz z 2023 r. poz. 1672), a także kwalifikacje uregulowane, kwalifikacje sektorowe, kwalifikacje rzemieślnicze i kwalifikacje wolnorynkowe; ” , pkt 11 otrzymuje brzmienie: „
+    - **c)**
 
-- **2)** informacje ogólne o kwalifikacji sektorowej:
-    - **a)** nazwę kwalifikacji sektorowej,
-    - **b)** informacje obejmujące przykładowe: – działania i zadania, które potrafi wykonywać osoba posiadająca daną kwalifikację sektorową, – grupy osób, do których dana kwalifikacja sektorowa w szczególności jest kierowana, – możliwości wykorzystania kwalifikacji sektorowej i dalszego rozwoju osobistego lub zawodowego w danej branży lub sektorze, w tym możliwości ubiegania się o inne kwalifikacje i uprawnienia,
-    - **c)** propozycję dotyczącą przypisania poziomu Polskiej Ramy Kwalifikacji do danej kwalifikacji sektorowej i propozycję odniesienia do poziomu Sektorowych Ram Kwalifikacji, jeżeli Sektorowe Ramy Kwalifikacji dla danych sektorów lub branż są włączone do Zintegrowanego Systemu Kwalifikacji,
-    - **d)** objętość kwalifikacji sektorowej;
+- **11)** kwalifikacje wolnorynkowe – kwalifikacje nieuregulowane odrębnymi przepisami, odpowiadające na potrzeby społeczne lub potrzeby rynku pracy, nadawane przez podmioty prowadzące działalność gospodarczą, którym zostało nadane uprawnienie do certyfikowania danej kwalifikacji wolnorynkowej na podstawie art. 41 ust. 1, dla których dokumentem potwierdzającym nadanie kwalifikacji jest certyfikat kwalifikacji wolnorynkowej; ” , po pkt 11 dodaje się pkt 11a i 11b w brzmieniu: „
+    - **d)**
 
-- **3)** uzasadnienie celowości włączenia kwalifikacji sektorowej do Zintegrowanego Systemu Kwalifikacji:
-    - **a)** zgodność kwalifikacji sektorowej z rozpoznanymi potrzebami danej branży lub sektora,
-    - **b)** podobieństwa i różnice w odniesieniu do kwalifikacji o zbliżonym charakterze, w szczególności kwalifikacji włączonych do Zintegrowanego Systemu Kwalifikacji,
-    - **c)** inne przesłanki potwierdzające zgodność kwalifikacji sektorowej z rozpoznanymi potrzebami danej branży lub sektora;
+- **11a)** kwalifikacje rzemieślnicze – kwalifikacje nadawane przez izby rzemieślnicze po przeprowadzeniu egzaminów w zawodach, o których mowa w art. 3 ust. 3a ustawy z dnia 22 marca 1989 r. o rzemiośle (Dz. U. z 2020 r. poz. 2159), dla których dokumentami potwierdzającymi nadanie kwalifikacji są dyplomy mistrza i świadectwa czeladnicze;
+- **11b)** kwalifikacje sektorowe – kwalifikacje o charakterze zawodowym nieuregulowane odrębnymi przepisami, odpowiadające na potrzeby danej branży lub sektora i uwzględniające ich specyfikę, nadawane przez podmioty prowadzące działalność statutową w obszarze danej branży lub sektora, którym zostało nadane uprawnienie do certyfikowania danej kwalifikacji sektorowej na podstawie art. 41 ust. 1, dla których dokumentem potwierdzającym nadanie kwalifikacji jest certyfikat kwalifikacji sektorowej; ” , po pkt 12 dodaje się pkt 12a w brzmieniu: „
+    - **e)**
 
-- **4)** informacje o efektach uczenia się i wymaganiach dotyczących walidacji:
-    - **a)** efekty uczenia się wymagane dla danej kwalifikacji sektorowej opisane zgodnie z art. 9 ust. 1 pkt 1,
-    - **b)** ramowe wymagania dotyczące metod przeprowadzania walidacji, osób przeprowadzających walidację, warunków organizacyjnych i materialnych niezbędnych do prawidłowego i bezpiecznego przeprowadzania walidacji;
+- **12a)** kwalifikacje włączone do Zintegrowanego Systemu Kwalifikacji – kwalifikacje pełne i cząstkowe, którym został przypisany poziom Polskiej Ramy Kwalifikacji i które zostały włączone do Zintegrowanego Systemu Kwalifikacji odpowiednio na podstawie art. 12, art. 13, art. 25, art. 37, art. 38 lub art. 40; ” ;
+- **2)** w art. 8: pkt 1 otrzymuje brzmienie: „
+    - **a)**
 
-- **5)** informacje uzupełniające o kwalifikacji sektorowej:
-    - **a)** informację o możliwości przygotowania do uzyskania kwalifikacji sektorowej w ramach obowiązkowych zajęć edukacyjnych, o których mowa w art. 109 ust. 1 pkt 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe w związku z art. 47 ust. 1 pkt 3 lit. e tej ustawy, lub w ramach kursu umiejętności zawodowych, o którym mowa w art. 4 pkt 35a tej ustawy, lub możliwości jej wykorzystania w celu potwierdzania dodatkowych umiejętności zawodowych określonych w przepisach wydanych na podstawie art. 46 ust. 1 tej ustawy,
-    - **b)** w razie potrzeby: – warunki, jakie musi spełnić osoba przystępująca do walidacji, – inne, poza pozytywnym wynikiem walidacji, warunki uzyskania kwalifikacji sektorowej,
-    - **c)** okres ważności certyfikatu kwalifikacji sektorowej i warunki przedłużenia ważności certyfikatu albo informację, że ważność certyfikatu jest bezterminowa,
-    - **d)** kod Międzynarodowej Standardowej Klasyfikacji Edukacji (ISCED),
-    - **e)** kod Polskiej Klasyfikacji Działalności (PKD).
+- **1)** świadectwo ukończenia sześcioletniej szkoły podstawowej i świadectwo ukończenia sześcioletniej ogólnokształcącej szkoły muzycznej I stopnia – potwierdza nadanie kwalifikacji na poziomie 1 Polskiej Ramy Kwalifikacji; ” , po pkt 2 dodaje się pkt 2a w brzmieniu: „
+    - **b)**
+
+- **2a)** świadectwo ukończenia szkoły muzycznej I stopnia i świadectwo ukończenia ośmioletniej ogólnokształcącej szkoły muzycznej I stopnia – potwierdza nadanie kwalifikacji na poziomie 3 Polskiej Ramy Kwalifikacji; ” ;
+- **3)** w art. 9: w ust. 1 w pkt 1 lit. c otrzymuje brzmienie: „ poszczególne efekty uczenia się pogrupowane w zestawy efektów uczenia się wraz z kryteriami weryfikacji tych efektów; ” , w ust. 2 wyrazy „kwalifikacji w zawodzie, o której mowa w art. 3 pkt 19 ustawy z dnia 7 września 1991 r. o systemie oświaty” zastępuje się wyrazami „kwalifikacji wyodrębnionej w zawodzie, o której mowa w art. 4 pkt 34 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe”;
+    - **a)**
+    - **c)**
+    - **b)**
+
+- **4)** w art. 11 w ust. 3 w pkt 6 po wyrazach „Rady Interesariuszy Zintegrowanego Systemu Kwalifikacji” dodaje się przecinek i wyrazy „zwanej dalej „Radą Interesariuszy”,”;
+- **5)** w art. 12 wyrazy „kwalifikacje w zawodach, o których mowa w art. 3 pkt 19 ustawy z dnia 7 września 1991 r. o systemie oświaty” zastępuje się wyrazami „kwalifikacje wyodrębnione w zawodzie, o których mowa w art. 4 pkt 34 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe”;
+- **6)** art. 14 otrzymuje brzmienie: „
+
+**Art. 14.** Podmiot prowadzący zorganizowaną działalność w obszarze gospodarki, rynku pracy, edukacji lub szkoleń może wystąpić do ministra właściwego z wnioskiem o włączenie kwalifikacji wolnorynkowej do Zintegrowanego Systemu Kwalifikacji. ” ;
+
+- **7)** w art. 15: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Wniosek, o którym mowa w art. 14, zawiera:
+
+- **1)** dane podmiotu, o którym mowa w art. 14: nazwę lub firmę albo imię i nazwisko, w przypadku osoby fizycznej, siedzibę i adres albo adres zamieszkania oraz adres do doręczeń, w przypadku osoby fizycznej, numer identyfikacji podatkowej (NIP), numer PESEL lub, w przypadku osoby zagranicznej, o której mowa w art. 3 pkt 5 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 470), inny numer przypisany do celów identyfikacji podatkowej w kraju siedziby lub zamieszkania, numer w Krajowym Rejestrze Sądowym (KRS), o ile został nadany, imiona i nazwiska oraz stanowiska osób uprawnionych do reprezentowania, w przypadku podmiotu będącego osobą prawną lub jednostką organizacyjną niebędącą osobą prawną, której odrębna ustawa przyznaje zdolność prawną, adres elektroniczny osoby składającej wniosek w imieniu podmiotu, o którym mowa w art. 14;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+
+- **2)** informacje ogólne o kwalifikacji wolnorynkowej: nazwę kwalifikacji wolnorynkowej, informacje obejmujące przykładowe: – działania i zadania, które potrafi wykonywać osoba posiadająca daną kwalifikację wolnorynkową, – grupy osób, do których dana kwalifikacja wolnorynkowa w szczególności jest kierowana, – możliwości wykorzystania kwalifikacji wolnorynkowej i dalszego rozwoju osobistego lub zawodowego, w tym możliwości ubiegania się o inne kwalifikacje i uprawnienia w danej dziedzinie zawodowej, propozycję dotyczącą przypisania poziomu Polskiej Ramy Kwalifikacji do danej kwalifikacji wolnorynkowej i propozycję odniesienia do poziomu Sektorowych Ram Kwalifikacji, jeżeli Sektorowe Ramy Kwalifikacji dla danych sektorów lub branż są włączone do Zintegrowanego Systemu Kwalifikacji, objętość kwalifikacji wolnorynkowej;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **3)** uzasadnienie celowości włączenia kwalifikacji wolnorynkowej do Zintegrowanego Systemu Kwalifikacji: zgodność kwalifikacji wolnorynkowej z rozpoznanymi potrzebami społecznymi lub potrzebami rynku pracy, popartą danymi wynikającymi z analizy potrzeb rynku pracy i grup osób, do których dana kwalifikacja w szczególności jest kierowana, podobieństwa i różnice w odniesieniu do kwalifikacji o zbliżonym charakterze, w szczególności kwalifikacji włączonych do Zintegrowanego Systemu Kwalifikacji, inne przesłanki potwierdzające zgodność kwalifikacji wolnorynkowej z rozpoznanymi potrzebami rynku pracy i grup osób, do których dana kwalifikacja wolnorynkowa w szczególności jest kierowana;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **4)** informacje o efektach uczenia się i wymaganiach dotyczących walidacji: efekty uczenia się wymagane dla danej kwalifikacji wolnorynkowej opisane zgodnie z art. 9 ust. 1 pkt 1, ramowe wymagania dotyczące metod przeprowadzania walidacji, osób przeprowadzających walidację, warunków organizacyjnych i materialnych niezbędnych do prawidłowego i bezpiecznego przeprowadzania walidacji;
+    - **a)**
+    - **b)**
+
+- **5)** informacje uzupełniające o kwalifikacji wolnorynkowej: informację o możliwości przygotowania do uzyskania kwalifikacji wolnorynkowej w ramach obowiązkowych zajęć edukacyjnych, o których mowa w art. 109 ust. 1 pkt 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe w związku z art. 47 ust. 1 pkt 3 lit. e tej ustawy, lub w ramach kursu umiejętności zawodowych, o którym mowa w art. 4 pkt 35a tej ustawy, lub możliwości jej wykorzystania w celu potwierdzania dodatkowych umiejętności zawodowych określonych w przepisach wydanych na podstawie art. 46 ust. 1 tej ustawy, w razie potrzeby: – warunki, jakie musi spełnić osoba przystępująca do walidacji, – inne, poza pozytywnym wynikiem walidacji, warunki uzyskania kwalifikacji wolnorynkowej, okres ważności certyfikatu kwalifikacji wolnorynkowej i warunki przedłużenia ważności certyfikatu albo informację, że ważność nadanego certyfikatu jest bezterminowa, kod Międzynarodowej Standardowej Klasyfikacji Edukacji (ISCED), kod Polskiej Klasyfikacji Działalności (PKD). ” , w ust. 2 w pkt 2 wyraz „rynkowej” zastępuje się wyrazem „wolnorynkowej”, w ust. 4 w zdaniu pierwszym i trzecim wyraz „zeznań” zastępuje się wyrazem „oświadczeń”;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **b)**
+    - **c)**
+
+- **8)** po art. 15 dodaje się art. 15a i art. 15b w brzmieniu: „
+
+**Art. 15a.** Organizacja o zasięgu ogólnokrajowym prowadząca działalność statutową w obszarze danej branży lub danego sektora, działająca odpowiednio na podstawie ustawy z dnia 23 maja 1991 r. o organizacjach pracodawców (Dz. U. z 2022 r. poz. 97), ustawy z dnia 30 maja 1989 r. o izbach gospodarczych (Dz. U. z 2019 r. poz. 579), ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261), ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2022 r. poz. 1599 i 2185 oraz z 2023 r. poz. 1617, 1688 i 1718) lub ustawy regulującej funkcjonowanie samorządu zawodowego, w tym samorządu zawodu zaufania publicznego oraz samorządu zawodu służby publicznej, lub sektorowa rada do spraw kompetencji działająca na podstawie ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2023 r. poz. 462 i 1672) może wystąpić do ministra właściwego z wnioskiem o włączenie kwalifikacji sektorowej do Zintegrowanego Systemu Kwalifikacji, z tym że w przypadku stowarzyszenia działającego na podstawie ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach z wnioskiem tym może wystąpić stowarzyszenie wpisane do Krajowego Rejestru Sądowego. 1. Wniosek, o którym mowa w art. 15a, zawiera:
+
+- **1)** dane podmiotu, o którym mowa w art. 15a: nazwę, siedzibę i adres, numer w Krajowym Rejestrze Sądowym (KRS), imiona i nazwiska oraz stanowiska osób uprawnionych do reprezentowania, w przypadku podmiotu będącego osobą prawną lub jednostką organizacyjną niebędącą osobą prawną, której odrębna ustawa przyznaje zdolność prawną, adres elektroniczny osoby składającej wniosek w imieniu podmiotu, o którym mowa w art. 15a;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **2)** informacje ogólne o kwalifikacji sektorowej: nazwę kwalifikacji sektorowej, informacje obejmujące przykładowe: – działania i zadania, które potrafi wykonywać osoba posiadająca daną kwalifikację sektorową, – grupy osób, do których dana kwalifikacja sektorowa w szczególności jest kierowana, – możliwości wykorzystania kwalifikacji sektorowej i dalszego rozwoju osobistego lub zawodowego w danej branży lub sektorze, w tym możliwości ubiegania się o inne kwalifikacje i uprawnienia, propozycję dotyczącą przypisania poziomu Polskiej Ramy Kwalifikacji do danej kwalifikacji sektorowej i propozycję odniesienia do poziomu Sektorowych Ram Kwalifikacji, jeżeli Sektorowe Ramy Kwalifikacji dla danych sektorów lub branż są włączone do Zintegrowanego Systemu Kwalifikacji, objętość kwalifikacji sektorowej;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **3)** uzasadnienie celowości włączenia kwalifikacji sektorowej do Zintegrowanego Systemu Kwalifikacji: zgodność kwalifikacji sektorowej z rozpoznanymi potrzebami danej branży lub sektora, podobieństwa i różnice w odniesieniu do kwalifikacji o zbliżonym charakterze, w szczególności kwalifikacji włączonych do Zintegrowanego Systemu Kwalifikacji, inne przesłanki potwierdzające zgodność kwalifikacji sektorowej z rozpoznanymi potrzebami danej branży lub sektora;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **4)** informacje o efektach uczenia się i wymaganiach dotyczących walidacji: efekty uczenia się wymagane dla danej kwalifikacji sektorowej opisane zgodnie z art. 9 ust. 1 pkt 1, ramowe wymagania dotyczące metod przeprowadzania walidacji, osób przeprowadzających walidację, warunków organizacyjnych i materialnych niezbędnych do prawidłowego i bezpiecznego przeprowadzania walidacji;
+    - **a)**
+    - **b)**
+
+- **5)** informacje uzupełniające o kwalifikacji sektorowej: informację o możliwości przygotowania do uzyskania kwalifikacji sektorowej w ramach obowiązkowych zajęć edukacyjnych, o których mowa w art. 109 ust. 1 pkt 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe w związku z art. 47 ust. 1 pkt 3 lit. e tej ustawy, lub w ramach kursu umiejętności zawodowych, o którym mowa w art. 4 pkt 35a tej ustawy, lub możliwości jej wykorzystania w celu potwierdzania dodatkowych umiejętności zawodowych określonych w przepisach wydanych na podstawie art. 46 ust. 1 tej ustawy, w razie potrzeby: – warunki, jakie musi spełnić osoba przystępująca do walidacji, – inne, poza pozytywnym wynikiem walidacji, warunki uzyskania kwalifikacji sektorowej, okres ważności certyfikatu kwalifikacji sektorowej i warunki przedłużenia ważności certyfikatu albo informację, że ważność certyfikatu jest bezterminowa, kod Międzynarodowej Standardowej Klasyfikacji Edukacji (ISCED), kod Polskiej Klasyfikacji Działalności (PKD).
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 2. Do wniosku, o którym mowa w art. 15a, dołącza się:
 
@@ -170,40 +662,54 @@ source: "isap-pdf"
 
 3. Oświadczenie, o którym mowa w ust. 2 pkt 2, uwierzytelnia się przy użyciu mechanizmów określonych w art. 20a ust. 1 albo 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
-4. Oświadczenie, o którym mowa w ust. 2 pkt 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń.”;
+4. Oświadczenie, o którym mowa w ust. 2 pkt 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń. ” ;
 
 - **9)** w art. 16 w ust. 1 wyrazy „art. 14 ust. 1” zastępuje się wyrazami „art. 14 i art. 15a”;
-- **10)** w art. 17 w ust. 1:
-    - **a)** w zdaniu pierwszym wyrazy „art. 14 ust. 1” zastępuje się wyrazami „art. 14 i art. 15a”,
-    - **b)** zdanie czwarte otrzymuje brzmienie: „Opłata nie podlega zwrotowi, z wyjątkiem przypadku gdy wniosek pozostawia się bez rozpatrzenia zgodnie z art. 18 ust. 5a lub art. 18a.”;
+- **10)** w art. 17 w ust. 1: w zdaniu pierwszym wyrazy „art. 14 ust. 1” zastępuje się wyrazami „art. 14 i art. 15a”, zdanie czwarte otrzymuje brzmienie: „ Opłata nie podlega zwrotowi, z wyjątkiem przypadku gdy wniosek pozostawia się bez rozpatrzenia zgodnie z art. 18 ust. 5a lub art. 18a. ” ;
+    - **a)**
+    - **b)**
 
-- **11)** w art. 18:
-    - **a)** w ust. 1 wyrazy „art. 14 ust. 1” zastępuje się wyrazami „art. 14 i art. 15a”,
-    - **b)** ust. 2 otrzymuje brzmienie: „2. Ocena formalna wniosku obejmuje:
+- **11)** w art. 18: w ust. 1 wyrazy „art. 14 ust. 1” zastępuje się wyrazami „art. 14 i art. 15a”, ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2. Ocena formalna wniosku obejmuje:
 
 - **1)** w przypadku wniosku, o którym mowa w art. 14 – ocenę zgodności wniosku z wymaganiami, o których mowa w art. 15, art. 16 i art. 17 ust. 1;
-- **2)** w przypadku wniosku, o którym mowa w art. 15a – ocenę zgodności wniosku z wymaganiami, o których mowa w art. 15b, art. 16 i art. 17 ust. 1;”,
-    - **c)** w ust. 3 w zdaniu drugim wyrazy „art. 14 ust. 1” zastępuje się wyrazami „art. 14 i art. 15a”,
-    - **d)** w ust. 4 w zdaniu pierwszym wyrazy „w art. 14 ust. 1” zastępuje się wyrazami „odpowiednio w art. 14 i art. 15a”,
-    - **e)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Wniosek, o którym mowa w art. 14 i art. 15a, złożony przez podmiot niewymieniony odpowiednio w art. 14 lub art. 15a pozostawia się bez rozpatrzenia.”;
+- **2)** w przypadku wniosku, o którym mowa w art. 15a – ocenę zgodności wniosku z wymaganiami, o których mowa w art. 15b, art. 16 i art. 17 ust. 1; ” , w ust. 3 w zdaniu drugim wyrazy „art. 14 ust. 1” zastępuje się wyrazami „art. 14 i art. 15a”, w ust. 4 w zdaniu pierwszym wyrazy „w art. 14 ust. 1” zastępuje się wyrazami „odpowiednio w art. 14 i art. 15a”, po ust. 5 dodaje się ust. 5a w brzmieniu: „
+    - **c)**
+    - **d)**
+    - **e)**
 
-- **12)** po art. 18 dodaje się art. 18a w brzmieniu: „Art. 18a. W przypadku gdy w uzasadnieniu celowości włączenia kwalifikacji wolnorynkowej lub kwalifikacji sektorowej do Zintegrowanego Systemu Kwalifikacji, o którym mowa w art. 15 ust. 1 pkt 3 lub art. 15b ust. 1 pkt 3, wykazano znaczne podobieństwa do kwalifikacji już funkcjonujących w Zintegrowanym Systemie Kwalifikacji, minister właściwy może pozostawić wniosek, o którym mowa w art. 14 i art. 15a, bez rozpatrzenia.”;
-- **13)** art. 19 otrzymuje brzmienie: „Art. 19. 1. Minister właściwy przekazuje podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji do publikacji na portalu Zintegrowanego Systemu Kwalifikacji informację o rozpoczęciu procedury rozpatrywania wniosku o włączenie do Zintegrowanego Systemu Kwalifikacji danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej.
+5a. Wniosek, o którym mowa w art. 14 i art. 15a, złożony przez podmiot niewymieniony odpowiednio w art. 14 lub art. 15a pozostawia się bez rozpatrzenia. ” ;
+
+- **12)** po art. 18 dodaje się art. 18a w brzmieniu: „
+
+**Art. 18a.** W przypadku gdy w uzasadnieniu celowości włączenia kwalifikacji wolnorynkowej lub kwalifikacji sektorowej do Zintegrowanego Systemu Kwalifikacji, o którym mowa w art. 15 ust. 1 pkt 3 lub art. 15b ust. 1 pkt 3, wykazano znaczne podobieństwa do kwalifikacji już funkcjonujących w Zintegrowanym Systemie Kwalifikacji, minister właściwy może pozostawić wniosek, o którym mowa w art. 14 i art. 15a, bez rozpatrzenia. ” ;
+
+- **13)** art. 19 otrzymuje brzmienie: „
+
+1. Minister właściwy przekazuje podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji do publikacji na portalu Zintegrowanego Systemu Kwalifikacji informację o rozpoczęciu procedury rozpatrywania wniosku o włączenie do Zintegrowanego Systemu Kwalifikacji danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej.
 
 2. Minister właściwy przeprowadza konsultacje wniosku, o którym mowa w art. 14, ze środowiskami, których dotyczy kwalifikacja wolnorynkowa objęta tym wnioskiem.
 
-3. Minister właściwy przekazuje do wiadomości Radzie Interesariuszy oraz odpowiednim sektorowym radom do spraw kompetencji wniosek, o którym mowa w art. 14 i art. 15a.”;
+3. Minister właściwy przekazuje do wiadomości Radzie Interesariuszy oraz odpowiednim sektorowym radom do spraw kompetencji wniosek, o którym mowa w art. 14 i art. 15a. ” ;
 
 - **14)** uchyla się art. 20;
-- **15)** art. 21 otrzymuje brzmienie: „Art. 21. 1. Minister właściwy powołuje zespół ekspertów w celu:
+- **15)** art. 21 otrzymuje brzmienie: „
+
+**Art. 21.**
+
+1. Minister właściwy powołuje zespół ekspertów w celu:
+
 - **1)** sporządzenia opinii dotyczącej celowości włączenia danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej do Zintegrowanego Systemu Kwalifikacji oraz
 - **2)** wydania rekomendacji dotyczącej przypisania poziomu Polskiej Ramy Kwalifikacji do danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej.
 
 2. W skład zespołu ekspertów, o którym mowa w ust. 1, wchodzą co najmniej trzy osoby, w tym:
 
-- **1)** co najmniej dwie osoby posiadające:
-    - **a)** doświadczenie w zakresie wykonywania zadań, które potrafi wykonywać osoba posiadająca odpowiednio daną kwalifikację wolnorynkową lub daną kwalifikację sektorową, nauczania wykonywania tych zadań lub oceniania wykonania tych zadań,
-    - **b)** wiedzę na temat aktualnych i prognozowanych kierunków rozwoju dziedziny, której dana kwalifikacja dotyczy;
+- **1)** co najmniej dwie osoby posiadające: doświadczenie w zakresie wykonywania zadań, które potrafi wykonywać osoba posiadająca odpowiednio daną kwalifikację wolnorynkową lub daną kwalifikację sektorową, nauczania wykonywania tych zadań lub oceniania wykonania tych zadań, wiedzę na temat aktualnych i prognozowanych kierunków rozwoju dziedziny, której dana kwalifikacja dotyczy;
+    - **a)**
+    - **b)**
 
 - **2)** co najmniej jedna osoba posiadająca wiedzę na temat standardów opisywania kwalifikacji, zasad włączania kwalifikacji do Zintegrowanego Systemu Kwalifikacji oraz przypisywania poziomu Polskiej Ramy Kwalifikacji do kwalifikacji.
 
@@ -220,9 +726,11 @@ source: "isap-pdf"
 
 7. Zespoły ekspertów, o których mowa w ust. 1 i 6, działają na posiedzeniach, które są dokumentowane.
 
-8. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, tryb pracy zespołów ekspertów, o których mowa w ust. 1 i 6, w tym sposób przygotowania opinii, o której mowa w ust. 1 pkt 1, sposób porównywania efektów uczenia się wymaganych dla kwalifikacji z charakterystykami poziomów Polskiej Ramy Kwalifikacji i przygotowania rekomendacji, o której mowa w ust. 1 pkt 2 i ust. 6, oraz sposób dokumentowania prac tych zespołów, uwzględniając konieczność zapewnienia rzetelnego i sprawnego sporządzenia opinii i wydania rekomendacji oraz rzetelnego dokumentowania prac tych zespołów.”;
+8. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, tryb pracy zespołów ekspertów, o których mowa w ust. 1 i 6, w tym sposób przygotowania opinii, o której mowa w ust. 1 pkt 1, sposób porównywania efektów uczenia się wymaganych dla kwalifikacji z charakterystykami poziomów Polskiej Ramy Kwalifikacji i przygotowania rekomendacji, o której mowa w ust. 1 pkt 2 i ust. 6, oraz sposób dokumentowania prac tych zespołów, uwzględniając konieczność zapewnienia rzetelnego i sprawnego sporządzenia opinii i wydania rekomendacji oraz rzetelnego dokumentowania prac tych zespołów. ” ;
 
-- **16)** po art. 21 dodaje się art. 21a i art. 21b w brzmieniu: „Art. 21a. 1. W przypadku gdy opinia zespołu ekspertów, o której mowa w art. 21 ust. 1 pkt 1, jest pozytywna minister właściwy przedkłada rekomendację, o której mowa w art. 21 ust. 1 pkt 2, do opinii Rady Interesariuszy.
+- **16)** po art. 21 dodaje się art. 21a i art. 21b w brzmieniu: „
+
+1. W przypadku gdy opinia zespołu ekspertów, o której mowa w art. 21 ust. 1 pkt 1, jest pozytywna minister właściwy przedkłada rekomendację, o której mowa w art. 21 ust. 1 pkt 2, do opinii Rady Interesariuszy.
 
 2. W przypadku gdy opinia zespołu ekspertów, o której mowa w art. 21 ust. 1 pkt 1, jest negatywna minister właściwy może przedłożyć rekomendację, o której mowa w art. 21 ust. 1 pkt 2, do opinii Rady Interesariuszy.
 
@@ -236,28 +744,37 @@ source: "isap-pdf"
 
 7. W przypadku, o którym mowa w art. 21 ust. 6, odpowiednio uczelnie, instytuty naukowe Polskiej Akademii Nauk i instytuty badawcze przedkładają rekomendację, o której mowa w art. 21 ust. 6, do opinii Rady Interesariuszy. Rada Interesariuszy sporządza opinię i przekazuje ją ministrowi koordynatorowi Zintegrowanego Systemu Kwalifikacji. Przepisy ust. 4–6 stosuje się odpowiednio.
 
-**Art. 21b.**
-
 1. Minister właściwy na podstawie:
 
 - **1)** opinii i rekomendacji, o których mowa w art. 21 ust. 1, i rekomendacji, o której mowa w art. 21a ust. 6,
-- **2)** wyników konsultacji, o których mowa w art. 19 ust. 2 – dokonuje oceny celowości włączenia odpowiednio kwalifikacji wolnorynkowej lub kwalifikacji sektorowej opisanej we wniosku, o którym mowa w art. 14 lub art. 15a, do Zintegrowanego Systemu Kwalifikacji.
+- **2)** wyników konsultacji, o których mowa w art. 19 ust. 2 dokonuje oceny celowości włączenia odpowiednio kwalifikacji wolnorynkowej lub kwalifikacji sektorowej opisanej we wniosku, o którym mowa w art. 14 lub art. 15a, do Zintegrowanego Systemu Kwalifikacji.
 
 2. Na podstawie oceny, o której mowa w ust. 1, minister właściwy:
 
 - **1)** pozytywnie rozpatruje wniosek, o którym mowa odpowiednio w art. 14 lub art. 15a, określa ostateczny opis kwalifikacji wolnorynkowej lub kwalifikacji sektorowej obejmujący informacje, o których mowa w art. 15 ust. 1 pkt 2–5 albo w art. 15b ust. 1 pkt 2–5, oraz przypisuje do danej kwalifikacji poziom Polskiej Ramy Kwalifikacji zgodnie z rekomendacją zespołu ekspertów, o której mowa odpowiednio w art. 21 ust. 1 pkt 2 lub art. 21a ust. 6, albo
-- **2)** negatywnie rozpatruje wniosek, o którym mowa odpowiednio w art. 14 lub art. 15a, i odmawia włączenia danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej do Zintegrowanego Systemu Kwalifikacji.”;
-- **17)** art. 22 otrzymuje brzmienie: „Art. 22. 1. Podczas ustalania właściwości ministra, o którym mowa w art. 18 ust. 3, konsultacji wniosku, o których mowa w art. 19 ust. 2, sporządzania opinii i rekomendacji, o których mowa w art. 21 ust. 1, oraz dokonywania oceny, o której mowa w art. 21b ust. 1, odpowiednio podmiot prowadzący Zintegrowany Rejestr Kwalifikacji, minister właściwy oraz zespół ekspertów, o którym mowa w art. 21 ust. 1, współpracują z podmiotem, o którym mowa odpowiednio w art. 14 i art. 15a.
+- **2)** negatywnie rozpatruje wniosek, o którym mowa odpowiednio w art. 14 lub art. 15a, i odmawia włączenia danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej do Zintegrowanego Systemu Kwalifikacji. ” ;
+- **17)** art. 22 otrzymuje brzmienie: „
+
+**Art. 22.**
+
+1. Podczas ustalania właściwości ministra, o którym mowa w art. 18 ust. 3, konsultacji wniosku, o których mowa w art. 19 ust. 2, sporządzania opinii i rekomendacji, o których mowa w art. 21 ust. 1, oraz dokonywania oceny, o której mowa w art. 21b ust. 1, odpowiednio podmiot prowadzący Zintegrowany Rejestr Kwalifikacji, minister właściwy oraz zespół ekspertów, o którym mowa w art. 21 ust. 1, współpracują z podmiotem, o którym mowa odpowiednio w art. 14 i art. 15a.
 
 2. Współpraca, o której mowa w ust. 1, polega w szczególności na:
 
 - **1)** informowaniu podmiotu, o którym mowa odpowiednio w art. 14 i art. 15a, o przekazaniu wniosku do ministra właściwego lub o przekazaniu wniosku do innego ministra;
 - **2)** przekazywaniu podmiotowi, o którym mowa odpowiednio w art. 14 i art. 15a, wniosków z konsultacji ze środowiskami, o których mowa w art. 19 ust. 2, dotyczących danej kwalifikacji, które wpływają do ministra właściwego;
 - **3)** przekazywaniu przez ministra właściwego podmiotowi, o którym mowa odpowiednio w art. 14 i art. 15a, uwag i propozycji zmian zgłoszonych przez zespół ekspertów, o którym mowa w art. 21 ust. 1;
-- **4)** konsultowaniu z podmiotem, o którym mowa odpowiednio w art. 14 i art. 15a, korekt doskonalących daną kwalifikację proponowanych przez zespół ekspertów, o którym mowa w art. 21 ust. 1.”;
-- **18)** w art. 23 ust. 1 otrzymuje brzmienie: „1. Minister właściwy niezwłocznie informuje podmiot, o którym mowa odpowiednio w art. 14 i art. 15a, o pozytywnym lub negatywnym rozpatrzeniu wniosku. W przypadku negatywnego rozpatrzenia wniosku minister właściwy przedstawia jego uzasadnienie, odwołując się w szczególności do oceny, o której mowa w art. 21b ust. 1.”;
+- **4)** konsultowaniu z podmiotem, o którym mowa odpowiednio w art. 14 i art. 15a, korekt doskonalących daną kwalifikację proponowanych przez zespół ekspertów, o którym mowa w art. 21 ust. 1. ” ;
+- **18)** w art. 23 ust. 1 otrzymuje brzmienie: „
+
+1. Minister właściwy niezwłocznie informuje podmiot, o którym mowa odpowiednio w art. 14 i art. 15a, o pozytywnym lub negatywnym rozpatrzeniu wniosku. W przypadku negatywnego rozpatrzenia wniosku minister właściwy przedstawia jego uzasadnienie, odwołując się w szczególności do oceny, o której mowa w art. 21b ust. 1. ” ;
+
 - **19)** w art. 24 wyrazy „art. 14 ust. 1” zastępuje się wyrazami „art. 14 i art. 15a”;
-- **20)** art. 25–27 otrzymują brzmienie: „Art. 25. 1. Minister właściwy w drodze obwieszczenia włącza odpowiednio kwalifikację wolnorynkową lub kwalifikację sektorową do Zintegrowanego Systemu Kwalifikacji. Obwieszczenie podlega ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+- **20)** art. 25–27 otrzymują brzmienie: „
+
+**Art. 25.**
+
+1. Minister właściwy w drodze obwieszczenia włącza odpowiednio kwalifikację wolnorynkową lub kwalifikację sektorową do Zintegrowanego Systemu Kwalifikacji. Obwieszczenie podlega ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
 2. Obwieszczenie, o którym mowa w ust. 1, zawiera informacje o:
 
@@ -268,10 +785,10 @@ source: "isap-pdf"
 - **5)** warunkach, jakie musi spełnić osoba przystępująca do walidacji, jeżeli zostały określone, albo informację o braku takich warunków;
 - **6)** innych, poza pozytywnym wynikiem walidacji, warunkach uzyskania kwalifikacji wolnorynkowej lub kwalifikacji sektorowej, jeżeli zostały określone, albo informację o braku takich warunków;
 - **7)** okresie ważności certyfikatu kwalifikacji wolnorynkowej lub certyfikatu kwalifikacji sektorowej, bezterminowym lub określonym, oraz warunkach przedłużenia ważności, jeżeli okres ważności certyfikatu został określony;
-- **8)** w razie potrzeby, dodatkowych wymaganiach wynikających ze specyfiki kwalifikacji wolnorynkowej lub kwalifikacji sektorowej, dotyczących:
-    - **a)** zakresu i częstotliwości ewaluacji wewnętrznej, o których mowa w art. 64 ust. 1 i 2,
-    - **b)** zakresu i częstotliwości sporządzania raportów z zewnętrznego zapewniania jakości, o których mowa w art. 68 ust. 1 i 2,
-    - **c)** zakresu i częstotliwości składania sprawozdań z działalności, o których mowa w art. 76 ust. 1–3;
+- **8)** w razie potrzeby, dodatkowych wymaganiach wynikających ze specyfiki kwalifikacji wolnorynkowej lub kwalifikacji sektorowej, dotyczących: zakresu i częstotliwości ewaluacji wewnętrznej, o których mowa w art. 64 ust. 1 i 2, zakresu i częstotliwości sporządzania raportów z zewnętrznego zapewniania jakości, o których mowa w art. 68 ust. 1 i 2, zakresu i częstotliwości składania sprawozdań z działalności, o których mowa w art. 76 ust. 1–3;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **9)** w razie potrzeby, dodatkowych warunkach, które muszą spełniać podmioty ubiegające się o uprawnienie do certyfikowania na podstawie art. 41 ust. 1;
 - **10)** terminie dokonywania przeglądu kwalifikacji, z uwzględnieniem terminu, o którym mowa w art. 27 ust. 1.
@@ -297,40 +814,51 @@ source: "isap-pdf"
 - **2)** w drodze obwieszczenia dokonuje modyfikacji danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej;
 - **3)** w drodze obwieszczenia nadaje kwalifikacji wolnorynkowej lub kwalifikacji sektorowej status kwalifikacji archiwalnej, jeżeli w okresie pięciu lat poprzedzających dokonanie przeglądu nie został wydany żaden certyfikat kwalifikacji wolnorynkowej lub certyfikat kwalifikacji sektorowej.
 
-5. Obwieszczenia, o których mowa w ust. 4 pkt 2 i 3, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.”;
+5. Obwieszczenia, o których mowa w ust. 4 pkt 2 i 3, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”. ” ;
 
-- **21)** w art. 28:
-    - **a)** we wprowadzeniu do wyliczenia wyrazy „danej kwalifikacji rynkowej” zastępuje się wyrazami „kwalifikacji wolnorynkowej lub kwalifikacji sektorowej”,
-    - **b)** w pkt 3 skreśla się wyraz „rynkowej”;
+- **21)** w art. 28: we wprowadzeniu do wyliczenia wyrazy „danej kwalifikacji rynkowej” zastępuje się wyrazami „kwalifikacji wolnorynkowej lub kwalifikacji sektorowej”, w pkt 3 skreśla się wyraz „rynkowej”;
+    - **a)**
+    - **b)**
 
-- **22)** w art. 29:
-    - **a)** w ust. 1 wyrazy „Otrzymanie przez daną kwalifikację rynkową” zastępuje się wyrazami „Nadanie kwalifikacji wolnorynkowej lub kwalifikacji sektorowej”;
-    - **b)** ust. 2 i 3 otrzymują brzmienie: „2. Osobom, które w dniu ogłoszenia obwieszczenia, o którym mowa w art. 27 ust. 4 pkt 3, rozpoczęły walidację w danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej wydaje się certyfikat kwalifikacji wolnorynkowej lub certyfikat kwalifikacji sektorowej, jeżeli wynik walidacji jest pozytywny.
+- **22)** w art. 29: w ust. 1 wyrazy „Otrzymanie przez daną kwalifikację rynkową” zastępuje się wyrazami „Nadanie kwalifikacji wolnorynkowej lub kwalifikacji sektorowej”; ust. 2 i 3 otrzymują brzmienie: „
+    - **a)**
+    - **b)**
 
-3. Nadanie kwalifikacji wolnorynkowej lub kwalifikacji sektorowej statusu kwalifikacji archiwalnej nie powoduje unieważnienia certyfikatów kwalifikacji wolnorynkowej lub certyfikatów kwalifikacji sektorowej, które zostały wydane przed dniem ogłoszenia obwieszczenia, o którym mowa w art. 27 ust. 4 pkt 3.”;
+2. Osobom, które w dniu ogłoszenia obwieszczenia, o którym mowa w art. 27 ust. 4 pkt 3, rozpoczęły walidację w danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej wydaje się certyfikat kwalifikacji wolnorynkowej lub certyfikat kwalifikacji sektorowej, jeżeli wynik walidacji jest pozytywny.
+
+3. Nadanie kwalifikacji wolnorynkowej lub kwalifikacji sektorowej statusu kwalifikacji archiwalnej nie powoduje unieważnienia certyfikatów kwalifikacji wolnorynkowej lub certyfikatów kwalifikacji sektorowej, które zostały wydane przed dniem ogłoszenia obwieszczenia, o którym mowa w art. 27 ust. 4 pkt 3. ” ;
 
 - **23)** uchyla się art. 30–35;
-- **24)** w art. 36: 14 i art. 15a”;
-    - **a)** w ust. 1: – w pkt 1 wyrazy „art. 14 ust. 1 i art. 31 ust. 1” zastępuje się wyrazami „art. 14 i art. 15a”, – pkt 2 otrzymuje brzmienie: „2) dokonywania przeglądu kwalifikacji wolnorynkowej lub kwalifikacji sektorowej włączonej do Zintegrowanego Systemu Kwalifikacji, o którym mowa w art. 27 ust. 1 i 3”,
-    - **b)** w ust. 2 wyrazy „art. 14 ust. 1 i art. 31 ust. 1” zastępuje się wyrazami „art.
+- **24)** w art. 36: w ust. 1: – w pkt 1 wyrazy „art. 14 ust. 1 i art. 31 ust. 1” zastępuje się wyrazami „art. 14 i art. 15a”, – pkt 2 otrzymuje brzmienie: „ 2) dokonywania przeglądu kwalifikacji wolnorynkowej lub kwalifikacji sektorowej włączonej do Zintegrowanego Systemu Kwalifikacji, o którym mowa w art. 27 ust. 1 i 3 ” , w ust. 2 wyrazy „art. 14 ust. 1 i art. 31 ust. 1” zastępuje się wyrazami „art. 14 i art. 15a”;
+    - **a)**
+    - **b)**
 
-- **25)** w art. 37:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Kwalifikacje rzemieślnicze mogą być włączone do Zintegrowanego Systemu Kwalifikacji przez ministra właściwego na wniosek Związku Rzemiosła Polskiego. Przepisy art. 15 i art. 16 stosuje się odpowiednio.”,
-    - **b)** w ust. 2 wyrazy „art. 17–25” zastępuje się wyrazami „art. 17–19 i art. 21– 25”,
-    - **c)** w ust. 3 wyrazy „kwalifikacji cząstkowych, o których mowa w ust. 1,” zastępuje się wyrazami „kwalifikacji rzemieślniczych”,
-    - **d)** ust. 4 otrzymuje brzmienie: „4. Zewnętrzne zapewnianie jakości walidacji i certyfikowania kwalifikacji rzemieślniczych prowadzonych przez izby rzemieślnicze wykonuje Związek Rzemiosła Polskiego.”,
-    - **e)** ust. 5 otrzymuje brzmienie: „5. Kwalifikację rzemieślniczą uznaje się za funkcjonującą w Zintegrowanym Systemie Kwalifikacji z dniem ogłoszenia obwieszczenia, o którym mowa w art. 25 ust. 1.”,
-    - **f)** w ust. 6 wyrazy „kwalifikacji cząstkowej, o której mowa w ust. 1,” zastępuje się wyrazami „kwalifikacji rzemieślniczej”,
-    - **g)** ust. 7 otrzymuje brzmienie: „7. Do kwalifikacji rzemieślniczych stosuje się odpowiednio przepisy art. 26–29, art. 36, art. 47 ust. 1, 4 i 5, art. 48–50, art. 63–71 i art. 75–80.”;
+- **25)** w art. 37: ust. 1 otrzymuje brzmienie: „
+    - **a)**
 
-- **26)** w art. 38:
-    - **a)** w ust. 1: – we wprowadzeniu do wyliczenia skreśla się wyraz „określono”, – pkt 1 i 2 otrzymują brzmienie: „1) jest możliwe przypisanie poziomu Polskiej Ramy Kwalifikacji do tej kwalifikacji;
+1. Kwalifikacje rzemieślnicze mogą być włączone do Zintegrowanego Systemu Kwalifikacji przez ministra właściwego na wniosek Związku Rzemiosła Polskiego. Przepisy art. 15 i art. 16 stosuje się odpowiednio. ” , w ust. 2 wyrazy „art. 17–25” zastępuje się wyrazami „art. 17–19 i art. 21–25”, w ust. 3 wyrazy „kwalifikacji cząstkowych, o których mowa w ust. 1,” zastępuje się wyrazami „kwalifikacji rzemieślniczych”, ust. 4 otrzymuje brzmienie: „
 
-- **2)** w przepisach odrębnych są określone:
-    - **a)** wymagania dotyczące walidacji,
-    - **b)** instytucje uprawnione do certyfikowania kwalifikacji uregulowanej lub warunki uzyskania uprawnienia do certyfikowania kwalifikacji uregulowanej;”, – uchyla się pkt 3 i 4, – pkt 5 otrzymuje brzmienie: „5) w przepisach odrębnych jest określony sposób zapewniania jakości nadawania kwalifikacji;”, – uchyla się pkt 6, – pkt 7 otrzymuje brzmienie: „7) w przepisach odrębnych są określone warunki, które musi spełnić osoba przystępująca do walidacji.”, – uchyla się pkt 8,
-    - **b)** w ust. 2 zdanie drugie otrzymuje brzmienie: „Przepisy art. 21 i art. 21a stosuje się odpowiednio.”,
-    - **c)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Obwieszczenie, o którym mowa w ust. 3, zawiera:
+- **b)**
+- **c)**
+- **d)**
+
+4. Zewnętrzne zapewnianie jakości walidacji i certyfikowania kwalifikacji rzemieślniczych prowadzonych przez izby rzemieślnicze wykonuje Związek Rzemiosła Polskiego. ” , ust. 5 otrzymuje brzmienie: „
+
+- **e)**
+
+5. Kwalifikację rzemieślniczą uznaje się za funkcjonującą w Zintegrowanym Systemie Kwalifikacji z dniem ogłoszenia obwieszczenia, o którym mowa w art. 25 ust. 1. ” , w ust. 6 wyrazy „kwalifikacji cząstkowej, o której mowa w ust. 1,” zastępuje się wyrazami „kwalifikacji rzemieślniczej”, ust. 7 otrzymuje brzmienie: „
+
+- **f)**
+- **g)**
+
+7. Do kwalifikacji rzemieślniczych stosuje się odpowiednio przepisy art. 26–29, art. 36, art. 47 ust. 1, 4 i 5, art. 48–50, art. 63–71 i art. 75–80. ” ;
+
+- **26)** w art. 38: w ust. 1: – we wprowadzeniu do wyliczenia skreśla się wyraz „określono”, – pkt 1 i 2 otrzymują brzmienie: „ 1) jest możliwe przypisanie poziomu Polskiej Ramy Kwalifikacji do tej kwalifikacji; 2) w przepisach odrębnych są określone: a) wymagania dotyczące walidacji, b) instytucje uprawnione do certyfikowania kwalifikacji uregulowanej lub warunki uzyskania uprawnienia do certyfikowania kwalifikacji uregulowanej; ” , – uchyla się pkt 3 i 4, – pkt 5 otrzymuje brzmienie: „ 5) w przepisach odrębnych jest określony sposób zapewniania jakości nadawania kwalifikacji; ” , – uchyla się pkt 6, – pkt 7 otrzymuje brzmienie: „ 7) w przepisach odrębnych są określone warunki, które musi spełnić osoba przystępująca do walidacji. ” , – uchyla się pkt 8, w ust. 2 zdanie drugie otrzymuje brzmienie: „ Przepisy art. 21 i art. 21a stosuje się odpowiednio. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+3a. Obwieszczenie, o którym mowa w ust. 3, zawiera:
 
 - **1)** informację o nazwie kwalifikacji uregulowanej;
 - **2)** informację o poziomie Polskiej Ramy Kwalifikacji przypisanym do kwalifikacji uregulowanej oraz o odniesieniu do poziomu odpowiednich Sektorowych Ram Kwalifikacji, jeżeli Sektorowe Ramy Kwalifikacji dla danych sektorów lub branż są włączone do Zintegrowanego Systemu Kwalifikacji;
@@ -339,66 +867,81 @@ source: "isap-pdf"
 - **5)** informację o warunkach, jakie musi spełnić osoba przystępująca do walidacji;
 - **6)** informacje o innych, poza pozytywnym wynikiem walidacji, warunkach uzyskania kwalifikacji uregulowanej, jeżeli zostały określone, albo informację o braku takich warunków;
 - **7)** informację o okresie ważności dokumentu potwierdzającego nadanie kwalifikacji i warunkach przedłużenia ważności dokumentu, lub informację, że ważność tego dokumentu jest bezterminowa;
-- **8)** informację o instytucjach uprawnionych do certyfikowania kwalifikacji uregulowanej lub warunkach uzyskania uprawnienia do certyfikowania kwalifikacji uregulowanej.”,
-    - **d)** w ust. 4 wyraz „Rejestru” zastępuje się wyrazem „Systemu”;
+- **8)** informację o instytucjach uprawnionych do certyfikowania kwalifikacji uregulowanej lub warunkach uzyskania uprawnienia do certyfikowania kwalifikacji uregulowanej. ” , w ust. 4 wyraz „Rejestru” zastępuje się wyrazem „Systemu”;
+    - **d)**
 
 - **27)** uchyla się art. 39;
-- **28)** w art. 40:
-    - **a)** w ust. 1 wyrazy „form kształcenia” zastępuje się wyrazami „innych form kształcenia”,
-    - **b)** w ust. 2 wyrazy „art. 26–36” zastępuje się wyrazami „art. 26–29 i art. 36”;
+- **28)** w art. 40: w ust. 1 wyrazy „form kształcenia” zastępuje się wyrazami „innych form kształcenia”, w ust. 2 wyrazy „art. 26–36” zastępuje się wyrazami „art. 26–29 i art. 36”;
+    - **a)**
+    - **b)**
 
-- **29)** tytuł rozdziału 4 otrzymuje brzmienie: „Wymogi dotyczące podmiotów przeprowadzających walidację i certyfikowanie kwalifikacji wolnorynkowych i kwalifikacji sektorowych włączonych do Zintegrowanego Systemu Kwalifikacji oraz zasady uzyskiwania uprawnień do certyfikowania”;
-- **30)** w art. 41: 25 ust. 2 pkt 9”, – w pkt 3 wyraz „zawiesił” zastępuje się wyrazami „nie zawiesił”,
-    - **a)** w ust. 1: – we wprowadzeniu do wyliczenia wyrazy „kwalifikacji rynkowej” zastępuje się wyrazami „kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej”, – w pkt 2 wyrazy „art. 26 ust. 1 pkt 1, art. 34 ust. 1 i art. 35 ust. 3” zastępuje się wyrazami „art. 26”,
-    - **b)** w ust. 2: – we wprowadzeniu do wyliczenia wyrazy „kwalifikacji rynkowej” zastępuje się wyrazami „kwalifikacji wolnorynkowej”, – pkt 1 otrzymuje brzmienie: „1) zapewnia warunki kadrowe, organizacyjne i materialne umożliwiające przeprowadzenie walidacji zgodnie z ramowymi wymaganiami, o których mowa w art. 25 ust. 2 pkt 4;”, – w pkt 2 wyrazy „art. 25 ust. 2 pkt 7” zastępuje się wyrazami „art.
-    - **c)** dodaje się ust. 3 w brzmieniu: „3. Z wnioskiem o nadanie uprawnienia do certyfikowania danej kwalifikacji sektorowej może wystąpić podmiot, o którym mowa w art. 15a, jeżeli:
+- **29)** tytuł rozdziału 4 otrzymuje brzmienie: „ Wymogi dotyczące podmiotów przeprowadzających walidację i certyfikowanie kwalifikacji wolnorynkowych i kwalifikacji sektorowych włączonych do Zintegrowanego Systemu Kwalifikacji oraz zasady uzyskiwania uprawnień do certyfikowania ” ;
+- **30)** w art. 41: w ust. 1: – we wprowadzeniu do wyliczenia wyrazy „kwalifikacji rynkowej” zastępuje się wyrazami „kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej”, – w pkt 2 wyrazy „art. 26 ust. 1 pkt 1, art. 34 ust. 1 i art. 35 ust. 3” zastępuje się wyrazami „art. 26”, w ust. 2: – we wprowadzeniu do wyliczenia wyrazy „kwalifikacji rynkowej” zastępuje się wyrazami „kwalifikacji wolnorynkowej”, – pkt 1 otrzymuje brzmienie: „ 1) zapewnia warunki kadrowe, organizacyjne i materialne umożliwiające przeprowadzenie walidacji zgodnie z ramowymi wymaganiami, o których mowa w art. 25 ust. 2 pkt 4; ” , – w pkt 2 wyrazy „art. 25 ust. 2 pkt 7” zastępuje się wyrazami „art. 25 ust. 2 pkt 9”, – w pkt 3 wyraz „zawiesił” zastępuje się wyrazami „nie zawiesił”, dodaje się ust. 3 w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+3. Z wnioskiem o nadanie uprawnienia do certyfikowania danej kwalifikacji sektorowej może wystąpić podmiot, o którym mowa w art. 15a, jeżeli:
 
 - **1)** zapewnia warunki kadrowe, organizacyjne i materialne umożliwiające przeprowadzenie walidacji zgodnie z ramowymi wymaganiami, o których mowa w art. 25 ust. 2 pkt 4;
 - **2)** spełnia dodatkowe warunki określone w art. 25 ust. 2 pkt 9;
 - **3)** nie zakończył lub nie zawiesił prowadzenia działalności statutowej lub w stosunku do którego nie została otwarta likwidacja lub nie ogłoszono jego upadłości;
-- **4)** nie posiada zaległości z tytułu podatków, składek na ubezpieczenie społeczne, ubezpieczenie zdrowotne oraz na Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych, o ile jest obowiązany do ich opłacania.”;
-- **31)** w art. 42:
-    - **a)** w ust. 1: – we wprowadzeniu do wyliczenia wyrazy „art. 41 ust. 2” zastępuje się wyrazami „art. 41 ust. 2 i 3”, – w pkt 1: – – we wprowadzeniu do wyliczenia wyrazy „art. 41 ust. 2” zastępuje się wyrazami „art. 41 ust. 2 i 3”, – – lit. a i b otrzymują brzmienie: „a) nazwę podmiotu,
-    - **b)** siedzibę i adres,”, – – w lit. c wyrazy „(NIP), numer PESEL” zastępuje się wyrazem „(NIP)”, – – lit. e–g otrzymują brzmienie: „e) numer w Krajowym Rejestrze Sądowym (KRS), o ile został nadany,
-    - **f)** imiona i nazwiska oraz stanowiska osób uprawnionych do reprezentowania w przypadku podmiotu będącego osobą prawną lub jednostką organizacyjną niebędącą osobą prawną, której odrębna ustawa przyznaje zdolność prawną,
-    - **g)** adres elektroniczny osoby składającej wniosek w imieniu podmiotu, o którym mowa w art. 41 ust. 2 i 3;”, – pkt 2 i 3 otrzymują brzmienie: „2) wskazanie odpowiednio kwalifikacji wolnorynkowej lub kwalifikacji sektorowej, której dotyczy wniosek;
+- **4)** nie posiada zaległości z tytułu podatków, składek na ubezpieczenie społeczne, ubezpieczenie zdrowotne oraz na Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych, o ile jest obowiązany do ich opłacania. ” ;
+- **31)** w art. 42: w ust. 1: – we wprowadzeniu do wyliczenia wyrazy „art. 41 ust. 2” zastępuje się wyrazami „art. 41 ust. 2 i 3”, – w pkt 1: – – we wprowadzeniu do wyliczenia wyrazy „art. 41 ust. 2” zastępuje się wyrazami „art. 41 ust. 2 i 3”, – – lit. a i b otrzymują brzmienie: „ a) nazwę podmiotu, b) siedzibę i adres, ” , – – w lit. c wyrazy „(NIP), numer PESEL” zastępuje się wyrazem „(NIP)”, – – lit. e-g otrzymują brzmienie: „ e) numer w Krajowym Rejestrze Sądowym (KRS), o ile został nadany, f) imiona i nazwiska oraz stanowiska osób uprawnionych do reprezentowania w przypadku podmiotu będącego osobą prawną lub jednostką organizacyjną niebędącą osobą prawną, której odrębna ustawa przyznaje zdolność prawną, g) adres elektroniczny osoby składającej wniosek w imieniu podmiotu, o którym mowa w art. 41 ust. 2 i 3; ” , – pkt 2 i 3 otrzymują brzmienie: „ 2) wskazanie odpowiednio kwalifikacji wolnorynkowej lub kwalifikacji sektorowej, której dotyczy wniosek; 3) informacje o spełnianiu warunków kadrowych, organizacyjnych i materialnych umożliwiających przeprowadzenie walidacji zgodnie z ramowymi wymaganiami, o których mowa w art. 25 ust. 2 pkt 4, oraz o spełnianiu dodatkowych warunków, o których mowa w art. 25 ust. 2 pkt 9. ” , w ust. 2: – w pkt 1 lit. b otrzymuje brzmienie: „ b) odpowiednio „Oświadczam, że dane zawarte we wniosku o nadanie uprawnienia do certyfikowania kwalifikacji wolnorynkowej są zgodne z prawdą.” albo „Oświadczam, że dane zawarte we wniosku o nadanie uprawnienia do certyfikowania kwalifikacji sektorowej są zgodne z prawdą.”; ” , – w pkt 2 wyrazy „art. 44 ust. 1” zastępuje się wyrazami „art. 43 ust. 1 lub 1a”; w ust. 4 w zdaniu pierwszym i trzecim wyraz „zeznań” zastępuje się wyrazem „oświadczeń”;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **3)** informacje o spełnianiu warunków kadrowych, organizacyjnych i materialnych umożliwiających przeprowadzenie walidacji zgodnie z ramowymi wymaganiami, o których mowa w art. 25 ust. 2 pkt 4, oraz o spełnianiu dodatkowych warunków, o których mowa w art. 25 ust. 2 pkt 9.”,
-    - **b)** w ust. 2: – w pkt 1 lit. b otrzymuje brzmienie: „b) odpowiednio „Oświadczam, że dane zawarte we wniosku o nadanie uprawnienia do certyfikowania kwalifikacji wolnorynkowej są zgodne z prawdą.” albo „Oświadczam, że dane zawarte we wniosku o nadanie uprawnienia do certyfikowania kwalifikacji sektorowej są zgodne z prawdą.”;”, – w pkt 2 wyrazy „art. 44 ust. 1” zastępuje się wyrazami „art. 43 ust. 1 lub 1a”;
-    - **c)** w ust. 4 w zdaniu pierwszym i trzecim wyraz „zeznań” zastępuje się wyrazem „oświadczeń”;
+- **32)** w art. 43: w ust. 1 w zdaniu pierwszym wyrazy „art. 41 ust. 2” zastępuje się wyrazami „art. 41 ust. 2 i 3”, po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+    - **b)**
 
-- **32)** w art. 43:
-    - **a)** w ust. 1 w zdaniu pierwszym wyrazy „art. 41 ust. 2” zastępuje się wyrazami „art. 41 ust. 2 i 3”,
-    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W przypadku podmiotu, o którym mowa odpowiednio w art. 14 lub art. 15a, opłata za wniosek o nadanie uprawnienia do certyfikowania kwalifikacji wolnorynkowej lub kwalifikacji sektorowej, której dotyczył wniosek o włączenie kwalifikacji do Zintegrowanego Systemu Kwalifikacji, wynosi 50% kwoty, o której mowa w ust. 1. Opłata ta stanowi dochód budżetu państwa i nie podlega zwrotowi.”;
+1a. W przypadku podmiotu, o którym mowa odpowiednio w art. 14 lub art. 15a, opłata za wniosek o nadanie uprawnienia do certyfikowania kwalifikacji wolnorynkowej lub kwalifikacji sektorowej, której dotyczył wniosek o włączenie kwalifikacji do Zintegrowanego Systemu Kwalifikacji, wynosi 50% kwoty, o której mowa w ust. 1. Opłata ta stanowi dochód budżetu państwa i nie podlega zwrotowi. ” ;
 
-- **33)** w art. 44:
-    - **a)** w ust. 1 i w ust. 3 w zdaniu pierwszym wyrazy „art. 41 ust. 2” zastępuje się wyrazami „art. 41 ust. 2 i 3”,
-    - **b)** w ust. 2 wyrazy „ust. 1” zastępuje się wyrazami „ust. 1 i 1a”;
+- **33)** w art. 44: w ust. 1 i w ust. 3 w zdaniu pierwszym wyrazy „art. 41 ust. 2” zastępuje się wyrazami „art. 41 ust. 2 i 3”, w ust. 2 wyrazy „ust. 1” zastępuje się wyrazami „ust. 1 i 1a”;
+    - **a)**
+    - **b)**
 
-- **34)** w art. 46:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Instytucja certyfikująca wnosi kwartalną opłatę w wysokości 3% przychodów z opłat za walidację i certyfikowanie, jednak nie mniej niż 1 zł od wydanego certyfikatu kwalifikacji wolnorynkowej lub certyfikatu kwalifikacji sektorowej.”,
-    - **b)** dodaje się ust. 3 w brzmieniu: „3. Opłatę, o której mowa w ust. 1 i 2, wnosi się na rachunek bankowy wskazany przez ministra koordynatora Zintegrowanego Systemu Kwalifikacji na portalu Zintegrowanego Systemu Kwalifikacji. Opłata ta stanowi dochód budżetu państwa.”;
+- **34)** w art. 46: ust. 1 otrzymuje brzmienie: „
+    - **a)**
 
-- **35)** w art. 47:
-    - **a)** w ust. 1 i 2 wyrazy „z wymaganiami, o których mowa w art. 25 ust. 2 pkt 5” zastępuje się wyrazami „z ramowymi wymaganiami, o których mowa w art. 25 ust. 2 pkt 4”,
-    - **b)** ust. 4 otrzymuje brzmienie: „4. Instytucja certyfikująca prowadzi stronę internetową, na której udostępnia szczegółowe informacje o sposobie organizowania i przeprowadzania walidacji zgodnym z ramowymi wymaganiami, o których mowa w art. 25 ust. 2 pkt 4, oraz o aktualnie obowiązujących opłatach za walidację i certyfikowanie.”,
-    - **c)** dodaje się ust. 5 w brzmieniu: „5. Instytucja certyfikująca przekazuje podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji informację o adresie strony internetowej, o której mowa w ust. 4.”;
+1. Instytucja certyfikująca wnosi kwartalną opłatę w wysokości 3% przychodów z opłat za walidację i certyfikowanie, jednak nie mniej niż 1 zł od wydanego certyfikatu kwalifikacji wolnorynkowej lub certyfikatu kwalifikacji sektorowej. ” , dodaje się ust. 3 w brzmieniu: „
 
-- **36)** w art. 48:
-    - **a)** w ust. 1 i 2 wyrazy „kwalifikacji rynkowej” zastępuje się wyrazami „kwalifikacji wolnorynkowej lub kwalifikacji sektorowej”,
-    - **b)** ust. 3 otrzymuje brzmienie: „3. Osiągnięcia wymagane dla danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej mogą być poddawane walidacji w różnym miejscu i czasie, jeżeli wymagania dotyczące walidacji, o których mowa w art. 25 ust. 2 pkt 4, nie stanowią inaczej.”;
+- **b)**
+
+3. Opłatę, o której mowa w ust. 1 i 2, wnosi się na rachunek bankowy wskazany przez ministra koordynatora Zintegrowanego Systemu Kwalifikacji na portalu Zintegrowanego Systemu Kwalifikacji. Opłata ta stanowi dochód budżetu państwa. ” ;
+
+- **35)** w art. 47: w ust. 1 i 2 wyrazy „z wymaganiami, o których mowa w art. 25 ust. 2 pkt 5” zastępuje się wyrazami „z ramowymi wymaganiami, o których mowa w art. 25 ust. 2 pkt 4”, ust. 4 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+4. Instytucja certyfikująca prowadzi stronę internetową, na której udostępnia szczegółowe informacje o sposobie organizowania i przeprowadzania walidacji zgodnym z ramowymi wymaganiami, o których mowa w art. 25 ust. 2 pkt 4, oraz o aktualnie obowiązujących opłatach za walidację i certyfikowanie. ” , dodaje się ust. 5 w brzmieniu: „
+
+- **c)**
+
+5. Instytucja certyfikująca przekazuje podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji informację o adresie strony internetowej, o której mowa w ust. 4. ” ;
+
+- **36)** w art. 48: w ust. 1 i 2 wyrazy „kwalifikacji rynkowej” zastępuje się wyrazami „kwalifikacji wolnorynkowej lub kwalifikacji sektorowej”, ust. 3 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+3. Osiągnięcia wymagane dla danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej mogą być poddawane walidacji w różnym miejscu i czasie, jeżeli wymagania dotyczące walidacji, o których mowa w art. 25 ust. 2 pkt 4, nie stanowią inaczej. ” ;
 
 - **37)** w art. 49 w ust. 1–3 wyraz „rynkowej” zastępuje się wyrazami „wolnorynkowej lub danej kwalifikacji sektorowej”;
-- **38)** po art. 49 dodaje się art. 49a w brzmieniu: „Art. 49a. 1. Warunkiem wydania przez instytucję certyfikującą certyfikatu kwalifikacji wolnorynkowej lub certyfikatu kwalifikacji sektorowej jest potwierdzenie w drodze walidacji osiągnięcia wszystkich efektów uczenia się wymaganych dla danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej.
+- **38)** po art. 49 dodaje się art. 49a w brzmieniu: „
+
+**Art. 49a.**
+
+1. Warunkiem wydania przez instytucję certyfikującą certyfikatu kwalifikacji wolnorynkowej lub certyfikatu kwalifikacji sektorowej jest potwierdzenie w drodze walidacji osiągnięcia wszystkich efektów uczenia się wymaganych dla danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej.
 
 2. Certyfikat kwalifikacji wolnorynkowej i certyfikat kwalifikacji sektorowej zawierają:
 
 - **1)** nazwę dokumentu odpowiednio: „certyfikat kwalifikacji wolnorynkowej” albo „certyfikat kwalifikacji sektorowej”;
 - **2)** nazwę kwalifikacji odpowiednio wolnorynkowej lub sektorowej;
 - **3)** nazwę i siedzibę instytucji certyfikującej;
-- **4)** informacje dotyczące posiadacza certyfikatu:
-    - **a)** imię (imiona) i nazwisko,
-    - **b)** datę urodzenia;
+- **4)** informacje dotyczące posiadacza certyfikatu: imię (imiona) i nazwisko, datę urodzenia;
+    - **a)**
+    - **b)**
 
 - **5)** numer certyfikatu nadany przez instytucję certyfikującą;
 - **6)** znak graficzny określony w przepisach wydanych na podstawie art. 10 ust. 4;
@@ -416,47 +959,277 @@ source: "isap-pdf"
 
 5. Ewidencja, o której mowa w ust. 3, jest prowadzona w postaci papierowej lub elektronicznej. System informatyczny służący do prowadzenia ewidencji w postaci elektronicznej umożliwia eksport danych do formatu XML.
 
-6. Instytucja certyfikująca przechowuje protokoły z przeprowadzonej walidacji albo rozmowy, o której mowa w art. 49 ust. 3, przez okres 5 lat, licząc od dnia wystawienia certyfikatu kwalifikacji wolnorynkowej lub certyfikatu kwalifikacji sektorowej.”;
+6. Instytucja certyfikująca przechowuje protokoły z przeprowadzonej walidacji albo rozmowy, o której mowa w art. 49 ust. 3, przez okres 5 lat, licząc od dnia wystawienia certyfikatu kwalifikacji wolnorynkowej lub certyfikatu kwalifikacji sektorowej. ” ;
 
-- **39)** tytuł rozdziału 5 otrzymuje brzmienie: „Zapewnianie jakości walidacji i certyfikowania kwalifikacji wolnorynkowych i kwalifikacji sektorowych włączonych do Zintegrowanego Systemu Kwalifikacji”;
-- **40)** w art. 51:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Zewnętrzne zapewnianie jakości walidacji i certyfikowania kwalifikacji wolnorynkowych i kwalifikacji sektorowych prowadzonych przez instytucje certyfikujące, z wyjątkiem instytucji, o których mowa w ust. 1a, wykonuje podmiot prowadzący zorganizowaną działalność w obszarze gospodarki, rynku pracy, edukacji lub szkoleń, który został wpisany na listę podmiotów uprawnionych do pełnienia funkcji zewnętrznego zapewniania jakości wobec instytucji certyfikujących, zwaną dalej „listą”.”,
-    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Zewnętrzne zapewnianie jakości walidacji i certyfikowania kwalifikacji sektorowych prowadzonych przez instytucje certyfikujące będące podmiotami, o których mowa w art. 15a, które:
+- **39)** tytuł rozdziału 5 otrzymuje brzmienie: „ Zapewnianie jakości walidacji i certyfikowania kwalifikacji wolnorynkowych i kwalifikacji sektorowych włączonych do Zintegrowanego Systemu Kwalifikacji ” ;
+- **40)** w art. 51: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Zewnętrzne zapewnianie jakości walidacji i certyfikowania kwalifikacji wolnorynkowych i kwalifikacji sektorowych prowadzonych przez instytucje certyfikujące, z wyjątkiem instytucji, o których mowa w ust. 1a, wykonuje podmiot prowadzący zorganizowaną działalność w obszarze gospodarki, rynku pracy, edukacji lub szkoleń, który został wpisany na listę podmiotów uprawnionych do pełnienia funkcji zewnętrznego zapewniania jakości wobec instytucji certyfikujących, zwaną dalej „listą”. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+- **b)**
+
+1a. Zewnętrzne zapewnianie jakości walidacji i certyfikowania kwalifikacji sektorowych prowadzonych przez instytucje certyfikujące będące podmiotami, o których mowa w art. 15a, które:
 
 - **1)** są organami prowadzącymi branżowe centra umiejętności, o których mowa w art. 4 pkt 30a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, lub
-- **2)** zawarły porozumienia, o których mowa w art. 8 ust. 3a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe – wykonuje Instytut Badań Edukacyjnych w Warszawie.”;
+- **2)** zawarły porozumienia, o których mowa w art. 8 ust. 3a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe wykonuje Instytut Badań Edukacyjnych w Warszawie. ” ;
 - **41)** w art. 52 w ust. 2 wyrazy „kwalifikacji rynkowych” zastępuje się wyrazami „kwalifikacji wolnorynkowych lub kwalifikacji sektorowych”;
-- **42)** w art. 53:
-    - **a)** w ust. 2: – w pkt 3 wyrazy „kwalifikacje rynkowe” zastępuje się wyrazami „kwalifikacje wolnorynkowe lub kwalifikacje sektorowe”, – w pkt 5 wyraz „zawiesił” zastępuję się wyrazami „nie zawiesił”,
-    - **b)** w ust. 3 w pkt 3 wyrazy „kwalifikacji rynkowych” zastępuje się wyrazami „kwalifikacji wolnorynkowych lub kwalifikacji sektorowych”;
+- **42)** w art. 53: w ust. 2: – w pkt 3 wyrazy „kwalifikacje rynkowe” zastępuje się wyrazami „kwalifikacje wolnorynkowe lub kwalifikacje sektorowe”, – w pkt 5 wyraz „zawiesił” zastępuję się wyrazami „nie zawiesił”, w ust. 3 w pkt 3 wyrazy „kwalifikacji rynkowych” zastępuje się wyrazami „kwalifikacji wolnorynkowych lub kwalifikacji sektorowych”;
+    - **a)**
+    - **b)**
 
-- **43)** w art. 54:
-    - **a)** w ust. 1: – w pkt 1 lit. f otrzymuje brzmienie: „f) imiona i nazwiska oraz stanowiska osób uprawnionych do reprezentowania w przypadku podmiotu będącego osobą prawną lub jednostką organizacyjną niebędącą osobą prawną, której odrębna ustawa przyznaje zdolność prawną,”, – w pkt 2 wyrazy „kwalifikacji rynkowych” zastępuje się wyrazami „kwalifikacji wolnorynkowych lub kwalifikacji sektorowych”,
-    - **b)** w ust. 2 w pkt 2 w lit. c wyrazy „kwalifikacji rynkowej” zastępuje się wyrazami „kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej”,
-    - **c)** w ust. 4 w zdaniu pierwszym i trzecim wyraz „zeznań” zastępuje się wyrazem „oświadczeń”;
+- **43)** w art. 54: w ust. 1: – w pkt 1 lit. f otrzymuje brzmienie: „ f) imiona i nazwiska oraz stanowiska osób uprawnionych do reprezentowania w przypadku podmiotu będącego osobą prawną lub jednostką organizacyjną niebędącą osobą prawną, której odrębna ustawa przyznaje zdolność prawną, ” , – w pkt 2 wyrazy „kwalifikacji rynkowych” zastępuje się wyrazami „kwalifikacji wolnorynkowych lub kwalifikacji sektorowych”, w ust. 2 w pkt 2 w lit. c wyrazy „kwalifikacji rynkowej” zastępuje się wyrazami „kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej”, w ust. 4 w zdaniu pierwszym i trzecim wyraz „zeznań” zastępuje się wyrazem „oświadczeń”;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **44)** w art. 57 w ust. 2 w pkt 3 skreśla się wyrazy „Zintegrowanego Systemu Kwalifikacji”;
-- **45)** w art. 59:
-    - **a)** w ust. 1 po wyrazach „funkcję zewnętrznego zapewniania jakości” dodaje się przecinek i wyrazy „z wyjątkiem instytucji, o których mowa w art. 51 ust. 1a”,
-    - **b)** w ust. 2 wyrazy „kwalifikacji rynkowej” zastępuje się wyrazami „kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej”;
+- **45)** w art. 59: w ust. 1 po wyrazach „funkcję zewnętrznego zapewniania jakości” dodaje się przecinek i wyrazy „z wyjątkiem instytucji, o których mowa w art. 51 ust. 1a”, w ust. 2 wyrazy „kwalifikacji rynkowej” zastępuje się wyrazami „kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej”;
+    - **a)**
+    - **b)**
 
-- **46)** w art. 60:
-    - **a)** w ust. 1 po wyrazach „instytucji certyfikującej” dodaje się przecinek i wyrazy „z wyjątkiem instytucji, o których mowa w art. 51 ust. 1a”,
-    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Do powierzenia funkcji zewnętrznego zapewniania jakości stosuje się przepisy niniejszej ustawy oraz przepisy wydane na podstawie ust. 5.”,
-    - **c)** ust. 2 otrzymuje brzmienie: „2. Podmioty, którym powierzono funkcję zewnętrznego zapewniania jakości w odniesieniu do instytucji certyfikujących w danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej, z wyjątkiem Instytutu Badań Edukacyjnych w Warszawie, są obowiązane do współpracy w celu zapewnienia spójnego standardu jakości certyfikowania danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej.”;
+- **46)** w art. 60: w ust. 1 po wyrazach „instytucji certyfikującej” dodaje się przecinek i wyrazy „z wyjątkiem instytucji, o których mowa w art. 51 ust. 1a”, po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+    - **b)**
 
-- **47)** art. 61 i art. 62 otrzymują brzmienie: „Art. 61. Kwalifikację wolnorynkową lub kwalifikację sektorową uznaje się za funkcjonującą w Zintegrowanym Systemie Kwalifikacji, jeżeli w odniesieniu do tej kwalifikacji co najmniej jeden podmiot posiada uprawnienie do certyfikowania, o którym mowa w art. 41 ust. 1.
+1a. Do powierzenia funkcji zewnętrznego zapewniania jakości stosuje się przepisy niniejszej ustawy oraz przepisy wydane na podstawie ust. 5. ” , ust. 2 otrzymuje brzmienie: „
 
-**Art. 62.** Instytucja certyfikująca rozpoczyna certyfikowanie danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej od dnia nadania uprawnienia do certyfikowania, o którym mowa w art. 41 ust. 1.”;
+- **c)**
+
+2. Podmioty, którym powierzono funkcję zewnętrznego zapewniania jakości w odniesieniu do instytucji certyfikujących w danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej, z wyjątkiem Instytutu Badań Edukacyjnych w Warszawie, są obowiązane do współpracy w celu zapewnienia spójnego standardu jakości certyfikowania danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej. ” ;
+
+- **47)** art. 61 i art. 62 otrzymują brzmienie: „
+
+**Art. 61.** Kwalifikację wolnorynkową lub kwalifikację sektorową uznaje się za funkcjonującą w Zintegrowanym Systemie Kwalifikacji, jeżeli w odniesieniu do tej kwalifikacji co najmniej jeden podmiot posiada uprawnienie do certyfikowania, o którym mowa w art. 41 ust. 1.
+
+**Art. 62.** Instytucja certyfikująca rozpoczyna certyfikowanie danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej od dnia nadania uprawnienia do certyfikowania, o którym mowa w art. 41 ust. 1. ” ;
+
+- **48)** w art. 64: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Instytucja certyfikująca przeprowadza okresową ewaluację wewnętrzną dotyczącą nadawania kwalifikacji wolnorynkowych i kwalifikacji sektorowych włączonych przez ministrów właściwych do Zintegrowanego Systemu Kwalifikacji nie rzadziej niż raz na trzy lata. ” , w ust. 2 w pkt 2 wyrazy „wymaganiami, o których mowa w art. 25 ust. 2 pkt 5” zastępuje się wyrazami „ramowymi wymaganiami, o których mowa w art. 25 ust. 2 pkt 4”;
+
+- **b)**
+- **49)** w art. 65: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ W odniesieniu do każdej kwalifikacji wolnorynkowej i każdej kwalifikacji sektorowej instytucja certyfikująca w terminie 20 dni roboczych po zakończeniu każdego kwartału kalendarzowego jest obowiązana do przekazania podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji informacji o: ” , – w pkt 1 skreśla się wyraz „poszczególnych”, w ust. 2 wyrazy „dzień ich przekazania” zastępuje się wyrazami „ostatni dzień danego kwartału”, po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+2a. Do podmiotów nadających kwalifikacje rzemieślnicze nie stosuje się przepisów ust. 1 pkt 2–4. ” , uchyla się ust. 3;
+
+- **d)**
+- **50)** w art. 66 w pkt 2 wyrazy „ust. 2 pkt 1–3” zastępuje się wyrazami „ust. 2 i 3”;
+- **51)** w art. 68 w ust. 2 w pkt 1 wyrazy „ust. 2 pkt 1 i 2” zastępuje się wyrazami „ust. 2 i 3”;
+- **52)** w art. 69 w ust. 1: we wprowadzeniu do wyliczenia wyrazy „pkt 2 i 3” zastępuje się wyrazami „pkt 1 i 3”, w pkt 2 w lit. a wyrazy „wymagań, o których mowa w art. 25 ust. 2 pkt 5 i art. 41 ust. 2 pkt 1 i 2” zastępuje się wyrazami „ramowych wymagań, o których mowa w art. 25 ust. 2 pkt 4 i art. 41 ust. 2 i 3”;
+    - **a)**
+    - **b)**
+
+- **53)** w art. 70 wyrazy „ust. 2 pkt 1–3” zastępuje się wyrazami „ust. 2 i 3”;
+- **54)** w art. 71 w ust. 1 we wprowadzeniu do wyliczenia i w art. 73 w ust. 1 wyrazy „kwalifikacji rynkowych” zastępuje się wyrazami „kwalifikacji wolnorynkowych lub kwalifikacji sektorowych”;
+- **55)** w art. 72 w ust. 3 wyrazy „pkt 4 lit. a” zastępuje się wyrazami „pkt 7 lit. a”;
+- **56)** w art. 74 w ust. 1 w pkt 3 wyrazy „ust. 2 pkt 1–3” zastępuje się wyrazami „ust. 2 i 3”;
+- **57)** tytuł rozdziału 6 otrzymuje brzmienie: „ Nadzór nad walidacją i certyfikowaniem kwalifikacji wolnorynkowych i kwalifikacji sektorowych włączonych do Zintegrowanego Systemu Kwalifikacji ” ;
+- **58)** w art. 75 wyrazy „kwalifikacji rynkowych” zastępuje się wyrazami „kwalifikacji wolnorynkowych i kwalifikacji sektorowych włączonych przez ministrów właściwych do Zintegrowanego Systemu Kwalifikacji”;
+- **59)** w art. 76 w ust. 2 w pkt 1 wyrazy „art. 41 ust. 2 pkt 1 i 2” zastępuje się wyrazami „art. 41 ust. 2 pkt 1 i 2 lub ust. 3 pkt 1 i 2”;
+- **60)** w art. 77: w ust. 1: – w pkt 1 wyrazy „ust. 2 pkt 1 i 2” zastępuje się wyrazami „ust. 2 i 3”, – w pkt 2 skreśla się wyraz „gospodarczej”, ust. 2 i 3 otrzymują brzmienie: „
+    - **a)**
+    - **b)**
+
+2. Zakończenie lub zawieszenie prowadzenia przez instytucję certyfikującą działalności, o której mowa odpowiednio w art. 41 ust. 2 lub ust. 3 pkt 3, lub otwarcie wobec tej instytucji likwidacji albo ogłoszenie jej upadłości skutkuje wygaśnięciem z mocy prawa uprawnień nadanych jej do certyfikowania oraz wygaśnięciem z mocy prawa umowy, o której mowa w art. 60 ust. 1, w odniesieniu do tej instytucji certyfikującej.
+
+3. Instytucja certyfikująca jest obowiązana do niezwłocznego zawiadomienia podmiotu prowadzącego Zintegrowany Rejestr Kwalifikacji o zmianie danych, o których mowa w art. 83 ust. 1 pkt 6 lit. a, d oraz e, a także o udzieleniu upoważnienia, o którym mowa w art. 47 ust. 2. ” ;
+
+- **61)** w art. 80 w ust. 2: wprowadzenie do wyliczenia otrzymuje brzmienie: „ Minister właściwy cofa, w drodze decyzji administracyjnej, uprawnienie instytucji certyfikującej do certyfikowania danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej, jeżeli: ” , w pkt 2 wyrazy „ust. 2 pkt 2 i 3” zastępuje się wyrazami „ust. 2 i 3”;
+    - **a)**
+    - **b)**
+
+- **62)** po art. 82a dodaje się art. 82b w brzmieniu: „
+
+**Art. 82b.** W Zintegrowanym Rejestrze Kwalifikacji gromadzi i przetwarza się informacje:
+
+- **1)** o kwalifikacjach włączonych do Zintegrowanego Systemu Kwalifikacji;
+- **2)** zawarte: we wnioskach, o których mowa w art. 14, art. 15a, art. 41 ust. 2 i 3 i art. 53 ust. 2, w raportach i sprawozdaniach, o których mowa w art. 64 ust. 2, art. 68 ust. 1, art. 71 ust. 1 i art. 76 ust. 1 przekazanych do podmiotu prowadzącego Zintegrowany Rejestr Kwalifikacji. ” ;
+    - **a)**
+    - **b)**
+
+- **63)** w art. 83: ust. 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+1. W Zintegrowanym Rejestrze Kwalifikacji przetwarza i udostępnia się informacje o kwalifikacjach wolnorynkowych i kwalifikacjach sektorowych:
+
+- **1)** informacje ogólne o kwalifikacji: nazwę kwalifikacji, o której mowa w art. 25 ust. 2 pkt 1, przypisany poziom Polskiej Ramy Kwalifikacji do kwalifikacji, o którym mowa w art. 25 ust. 2 pkt 2, odniesienie do poziomu Sektorowych Ram Kwalifikacji, jeżeli Sektorowe Ramy Kwalifikacji dla danych sektorów lub branż zostały włączone do Zintegrowanego Systemu Kwalifikacji, o którym mowa w art. 25 ust. 2 pkt 2, kod Międzynarodowej Standardowej Klasyfikacji Edukacji (ISCED), o którym mowa w art. 15 ust. 1 pkt 5 lit. d i art. 15b ust. 1 pkt 5 lit. d, inne, poza pozytywnym wynikiem walidacji, warunki uzyskania kwalifikacji, o których mowa w art. 25 ust. 2 pkt 6, jeżeli zostały określone, albo informacja o braku takich warunków;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **2)** podstawowe informacje o kwalifikacji obejmujące: przykładowe działania i zadania, które potrafi wykonywać osoba posiadająca daną kwalifikację, o których mowa w art. 15 ust. 1 pkt 2 lit. b tiret pierwsze i art. 15b ust. 1 pkt 2 lit. b tiret pierwsze, przykładowe grupy osób, które mogą być szczególnie zainteresowane uzyskaniem danej kwalifikacji, o których mowa w art. 15 ust. 1 pkt 2 lit. b tiret drugie i art. 15b ust. 1 pkt 2 lit. b tiret drugie, przykładowe możliwości wykorzystania kwalifikacji i dalszego rozwoju, w tym możliwości ubiegania się o inne kwalifikacje i uprawnienia w danej dziedzinie, o których mowa w art. 15 ust. 1 pkt 2 lit. b tiret trzecie i art. 15b ust. 1 pkt 2 lit. b tiret trzecie, objętość kwalifikacji;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **3)** informacje o wymaganych efektach uczenia się, o których mowa w art. 25 ust. 2 pkt 3;
+- **4)** informacje dotyczące walidacji: warunki, które musi spełniać osoba przystępująca do walidacji, o których mowa w art. 25 ust. 2 pkt 5, jeżeli zostały określone, albo o braku takich warunków, ramowe wymagania dotyczące metod przeprowadzania walidacji, osób przeprowadzających walidację, warunków organizacyjnych i materialnych niezbędnych do prawidłowego i bezpiecznego przeprowadzania walidacji, o których mowa w art. 25 ust. 2 pkt 4, dodatkowe warunki, które muszą spełniać podmioty ubiegające się o uprawnienie do certyfikowania na podstawie art. 41 ust. 1, o których mowa w art. 25 ust. 2 pkt 9;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **5)** dodatkowe informacje dotyczące kwalifikacji: informację o aktualnym statusie kwalifikacji: kwalifikacja włączona do Zintegrowanego Systemu Kwalifikacji, kwalifikacja funkcjonująca w Zintegrowanym Systemie Kwalifikacji, kwalifikacja archiwalna oraz informacja o datach uzyskania poszczególnych statusów, nazwę i okres ważności certyfikatu kwalifikacji wolnorynkowej lub certyfikatu kwalifikacji sektorowej – bezterminowy albo określony, oraz warunki przedłużenia ważności, jeżeli okres ważności certyfikatu jest określony, zgodnie z art. 25 ust. 2 pkt 7, dodatkowe wymagania, o których mowa w art. 25 ust. 2 pkt 8, jeżeli zostały określone, termin dokonywania przeglądów kwalifikacji, o którym mowa w art. 27 ust. 1, i data ostatniego przeglądu kwalifikacji, nazwę podmiotu, który wystąpił z wnioskiem o włączenie kwalifikacji do Zintegrowanego Systemu Kwalifikacji, o którym mowa w art. 14 i art. 15a, kod kwalifikacji w Zintegrowanym Rejestrze Kwalifikacji, kod Polskiej Klasyfikacji Działalności (PKD), o którym mowa w art. 15 ust. 1 pkt 5 lit. e oraz art. 15b ust. 1 pkt 5 lit. e, wskazanie obwieszczenia, o którym mowa w art. 25 ust. 1, na podstawie którego włączono kwalifikację do Zintegrowanego Systemu Kwalifikacji;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+
+- **6)** informacje o instytucjach uprawnionych do certyfikowania kwalifikacji wolnorynkowej lub kwalifikacji sektorowej: dane, o których mowa w art. 42 ust. 1 pkt 1 lit. a-c i e, datę nadania uprawnienia do certyfikowania, datę cofnięcia uprawnienia do certyfikowania i datę wygaśnięcia tego uprawnienia, nazwy podmiotów upoważnionych przez poszczególne instytucje certyfikujące do przeprowadzania walidacji, o których mowa w art. 47 ust. 2, oraz ich siedziby i adresy, adres strony internetowej, o której mowa w art. 47 ust. 4;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+
+- **7)** informacje o podmiocie, któremu powierzono funkcję zewnętrznego zapewniania jakości wobec instytucji certyfikującej, o której mowa w pkt 6: dane, o których mowa w art. 54 ust. 1 pkt 1 lit. a-c, e i f, datę skreślenia z listy, datę podpisania, rozwiązania lub wygaśnięcia umowy, o której mowa w art. 60 ust. 1.
+    - **a)**
+    - **b)**
+    - **c)**
+
+2. W Zintegrowanym Rejestrze Kwalifikacji gromadzi i przetwarza się informacje o:
+
+- **1)** kwalifikacjach pełnych, o których mowa w art. 8 pkt 1–7a;
+- **2)** kwalifikacjach wyodrębnionych w zawodach, o których mowa w art. 4 pkt 34 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, w zakresie, o którym mowa w ust. 1 pkt 1 lit. a i b, pkt 3, pkt 4 lit. a, pkt 5 lit. b i pkt 6 lit. a. ” , ust. 5 otrzymuje brzmienie: „
+    - **b)**
+
+5. Przepis ust. 1 stosuje się odpowiednio do kwalifikacji uregulowanych, kwalifikacji rzemieślniczych i kwalifikacji nadawanych po ukończeniu innych form kształcenia, o których mowa w art. 162 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, art. 2 ust. 2 pkt 3 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk i art. 2 ust. 3 pkt 2 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych, oraz kursów i szkoleń, o których mowa w art. 4 pkt 6 ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz. ” ;
+
+- **64)** w art. 84: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Informacje o kwalifikacjach włączonych do Zintegrowanego Systemu Kwalifikacji, o których mowa w art. 83 ust. 1, minister właściwy przekazuje podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji odpowiednio wraz z informacjami, o których mowa w art. 60 ust. 4 i art. 80 ust. 4, z wyjątkiem informacji, o których mowa w art. 83 ust. 1 pkt 7 lit. b, które przekazuje minister koordynator Zintegrowanego Systemu Kwalifikacji wraz z informacjami, o których mowa w art. 74 ust. 4. ” , ust. 5–7 otrzymują brzmienie: „
+
+- **b)**
+
+5. Informacje o kwalifikacjach uregulowanych minister właściwy przekazuje podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji odpowiednio wraz z informacjami, o których mowa w art. 38 ust. 5.
+
+6. Informacje o kwalifikacjach rzemieślniczych minister właściwy przekazuje podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji odpowiednio wraz z informacjami, o których mowa w art. 37 ust. 6.
+
+7. Informacje o kwalifikacjach nadawanych po ukończeniu innych form kształcenia, o których mowa w art. 162 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, art. 2 ust. 2 pkt 3 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk i art. 2 ust. 3 pkt 2 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych, oraz kursów i szkoleń, o których mowa w art. 4 pkt 6 ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz, minister właściwy przekazuje podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji odpowiednio wraz z informacjami, o których mowa w art. 60 ust. 4 i art. 80 ust. 4, z wyjątkiem informacji, o których mowa w art. 83 ust. 1 pkt 7 lit. b, które przekazuje minister koordynator Zintegrowanego Systemu Kwalifikacji wraz z informacjami, o których mowa w art. 74 ust. 4. ” ;
+
+- **65)** w art. 87 w ust. 1: w ust. 1: – pkt 2 i 3 otrzymują brzmienie: „ 2) dokonywanie oceny formalnej wniosków, o których mowa w art. 14, art. 15a, art. 41 ust. 2 i 3 oraz art. 53 ust. 2; 3) wspomaganie podmiotów, o których mowa w art. 14 i art. 15a, w ustalaniu właściwości ministra do rozpatrzenia wniosków, o których mowa w art. 14 i art. 15a; ” , – w pkt 4 wyrazy „art. 14 ust. 1” zastępuje się wyrazami „art. 14 i art. 15a”, – pkt 5 otrzymuje brzmienie: „ 5) zawiadamianie podmiotów, które uzyskały uprawnienie do certyfikowania danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej, o modyfikacji danej kwalifikacji, o której mowa w art. 27 ust. 4 pkt 2, oraz o nadaniu danej kwalifikacji statusu kwalifikacji archiwalnej, o którym mowa w art. 27 ust. 4 pkt 3; ” , w ust. 2 wyrazy „Radzie Interesariuszy Zintegrowanego Systemu Kwalifikacji” zastępuje się wyrazami „Radzie Interesariuszy”;
+    - **a)**
+    - **b)**
+
+- **66)** w art. 89 w ust. 1: pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** wspomaganie ustalania właściwości ministrów do rozpatrzenia wniosków, o których mowa w art. 14 i art. 15a, w zakresie poszczególnych kwalifikacji wolnorynkowych i kwalifikacji sektorowych ” , w pkt 5 skreśla się wyrazy „Zintegrowanego Systemu Kwalifikacji”;
+    - **b)**
+
+- **67)** art. 90 otrzymuje brzmienie: „
+
+**Art. 90.** Przy ministrze koordynatorze Zintegrowanego Systemu Kwalifikacji działa Rada Interesariuszy, która jest organem opiniodawczo-doradczym tego ministra. ” ;
+
+- **68)** w art. 91 pkt 5 otrzymuje brzmienie: „
+- **5)** wyrażanie opinii, o których mowa w art. 11 ust. 3 pkt 6 i art. 21a ust. 3; ” ;
+- **69)** w art. 92 w pkt 5a wyraz „Szkół” zastępuje się wyrazem „Uczelni”;
+- **70)** w art. 93: po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+
+1a. Minister koordynator Zintegrowanego Systemu Kwalifikacji wyznacza przedstawicieli, o których mowa w art. 92 pkt 9, i powołuje ich w skład Rady Interesariuszy. Przedstawiciele, o których mowa w art. 92 pkt 9, mogą być powołani w skład Rady Interesariuszy na więcej niż jedną kadencję. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
+
+- **b)**
+
+4a. Minister koordynator Zintegrowanego Systemu Kwalifikacji może odwołać swojego przedstawiciela w Radzie Interesariuszy w trakcie kadencji. ” ;
+
+- **71)** w art. 95 ust. 5 otrzymuje brzmienie: „
+
+5. Do udziału w posiedzeniu, na którym Rada Interesariuszy opracowuje opinię, o której mowa w art. 11 ust. 3 pkt 6, są zapraszani przedstawiciele ministra właściwego, przedstawiciele zainteresowanej sektorowej rady do spraw kompetencji i przedstawiciele zainteresowanego podmiotu, o których mowa w art. 11 ust. 2. ” .
 
 **Art. 10.** W ustawie z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. z 2023 r. poz. 1400) wprowadza się następujące zmiany:
 
-**Art. 145b.**
+- **1)** w art. 2 w pkt 36 kropkę zastępuje się średnikiem i dodaje się pkt 37–39 w brzmieniu: „
+- **37)** branżowym centrum umiejętności – należy przez to rozumieć branżowe centrum umiejętności, które tworzy ogólnopolską sieć branżowych centrów umiejętności, o której mowa w art. 8a ust. 7 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe;
+- **38)** branżowym szkoleniu zawodowym – należy przez to rozumieć branżowe szkolenie zawodowe, o którym mowa w art. 4 pkt 35d ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, którego łączny wymiar wynosi nie mniej niż 15 godzin, a dzienny wymiar – średnio nie mniej niż 5 godzin, z wyłączeniem dni, w których to szkolenie nie jest prowadzone;
+- **39)** uczniu objętym branżowym szkoleniem zawodowym – należy przez to rozumieć ucznia technikum lub branżowej szkoły I stopnia lub słuchacza branżowej szkoły II stopnia lub szkoły policealnej uczestniczących w branżowym szkoleniu zawodowym. ” ;
+- **2)** po art. 29 dodaje się art. 29a w brzmieniu: „
+
+**Art. 29a.**
+
+1. Prowadzone przez osobę prawną niebędącą jednostką samorządu terytorialnego oraz osobę fizyczną branżowe centrum umiejętności otrzymuje z budżetu powiatu będącego dla tego centrum organem rejestrującym dotację w wysokości równej kwocie przewidzianej na dofinansowanie funkcjonowania tego centrum w części oświatowej subwencji ogólnej dla powiatu.
+
+2. Branżowe centra umiejętności, niezależnie od dotacji, o której mowa w ust. 1, otrzymują na każdego ucznia objętego branżowym szkoleniem zawodowym dotację z budżetu powiatu będącego dla tych centrów organem rejestrującym w wysokości równej kwocie przewidzianej na takiego ucznia w części oświatowej subwencji ogólnej dla powiatu.
+
+3. Wysokość dotacji, o której mowa w ust. 2, dla branżowych centrów umiejętności jest ustalana jako iloczyn kwoty przewidzianej na takiego ucznia objętego branżowym szkoleniem zawodowym w części oświatowej subwencji ogólnej dla powiatu oraz liczby dni trwania branżowego szkolenia zawodowego w tym centrum, z wyłączeniem dni, w których to szkolenie nie jest prowadzone, podzielony przez liczbę dni w roku budżetowym. Dotację ustala się w wysokości kwoty przewidzianej w części oświatowej subwencji ogólnej w roku budżetowym, w którym rozpoczyna się branżowe szkolenie zawodowe. ” ;
+
+- **3)** w art. 33: w ust. 1 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** przedszkole, inna forma wychowania przedszkolnego, szkoła, branżowe centrum umiejętności oraz placówka, o której mowa w art. 2 pkt 6–8 ustawy – Prawo oświatowe, przekażą dane do systemu informacji oświatowej według stanu na dzień 30 września roku bazowego – w przypadku dotacji, o których mowa w art. 15–21, art. 25, art. 26, art. 28–31a i art. 32; ” , w ust. 3 po wyrazie „szkół” dodaje się przecinek i wyrazy „branżowych centrów umiejętności”, w ust. 4 po wyrazie „szkołę” dodaje się przecinek i wyrazy „branżowe centrum umiejętności”;
+    - **b)**
+    - **c)**
+
+- **4)** w art. 34: w ust. 1 po wyrazie „szkoły” dodaje się przecinek i wyrazy „branżowego centrum umiejętności”, ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2. Dotacje, o których mowa w art. 15–21, art. 25 ust. 1–4 i 8, art. 26 ust. 1, 2 i 8, art. 28, art. 29, art. 29a ust. 2, art. 30 oraz art. 31 ust. 1, są przekazywane na każde dziecko objęte wczesnym wspomaganiem rozwoju, ucznia, wychowanka, uczestnika zajęć rewalidacyjno-wychowawczych, ucznia objętego branżowym szkoleniem zawodowym lub słuchacza kwalifikacyjnego kursu zawodowego, będącego w danym miesiącu roku budżetowego odpowiednio dzieckiem objętym wczesnym wspomaganiem rozwoju, uczniem, wychowankiem, uczestnikiem zajęć rewalidacyjno-wychowawczych, uczniem objętym branżowym szkoleniem zawodowym lub słuchaczem kwalifikacyjnego kursu zawodowego odpowiednio w placówce wychowywania przedszkolnego, szkole, branżowym centrum umiejętności lub placówce, o której mowa w art. 2 pkt 6–8 ustawy – Prawo oświatowe. ” ;
+
+- **5)** w art. 35: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Dotacje, o których mowa w art. 15–21, art. 25, art. 26, art. 28–31a i art. 32, są przeznaczone na dofinansowanie realizacji zadań placówek wychowania przedszkolnego, szkół lub placówek w zakresie kształcenia, wychowania i opieki, w tym kształcenia specjalnego i profilaktyki społecznej, z tym że dotacja, o której mowa w art. 29a ust. 1 i 2, jest przeznaczona na realizację zadań, o których mowa w przepisach wydanych na podstawie art. 117 ust. 5 ustawy – Prawo oświatowe. Dotacje mogą być wykorzystane wyłącznie na: ” , – w pkt 1 w lit. a w tiret pierwszym i drugim wyrazy „art. 30 ust. 3 pkt 4” zastępuje się wyrazami „art. 30 ust. 3 pkt 3”, w ust. 4 wyrazy „art. 28–31a” zastępuje się wyrazami „art. 28, art. 29, art. 30–31a”;
+    - **a)**
+    - **b)**
+
+- **6)** w art. 36: w ust. 4 w pkt 1 po wyrazach „uczestników zajęć rewalidacyjno-wychowawczych” dodaje się przecinek i wyrazy „uczniów objętych branżowym szkoleniem zawodowym”, ust. 6–8 otrzymują brzmienie: „
+    - **a)**
+    - **b)**
+
+6. W przypadku utrudniania lub udaremniania przez szkołę, o której mowa w art. 26 ust. 2, niepubliczne branżowe centrum umiejętności, niepubliczną placówkę, o której mowa w art. 2 pkt 3, 6, 8 i 10 ustawy – Prawo oświatowe, lub przez organ prowadzący tę szkołę, centrum lub placówkę czynności kontrolnych, o których mowa w ust. 2, organ dotujący wzywa dyrektora tej szkoły, centrum lub placówki lub organ prowadzący tę szkołę, centrum lub placówkę do zaprzestania tych działań w wyznaczonym terminie.
+
+7. Po bezskutecznym upływie terminu, o którym mowa w ust. 6, organ dotujący wstrzymuje, w drodze decyzji administracyjnej, przekazywanie szkole, o której mowa w art. 26 ust. 2, niepublicznemu branżowemu centrum umiejętności lub niepublicznej placówce, o której mowa w art. 2 pkt 3, 6, 8 i 10 ustawy – Prawo oświatowe, dotacji do dnia umożliwienia przeprowadzenia w tej szkole, centrum lub placówce czynności kontrolnych, o których mowa w ust. 2.
+
+8. Środki przekazane szkole, o której mowa w art. 26 ust. 2, niepublicznemu branżowemu centrum umiejętności lub niepublicznej placówce, o której mowa w art. 2 pkt 3, 6, 8 i 10 ustawy – Prawo oświatowe, za okres, którego dotyczyło wstrzymanie dotacji, mogą być wykorzystane wyłącznie na refundację wydatków związanych z realizacją zadań szkoły, centrum lub placówki, o których mowa w art. 35 ust. 1, poniesionych przez szkołę, centrum lub placówkę w okresie roku budżetowego, w którym dotacja została wstrzymana. Jeżeli okres wstrzymania dotacji przypada na więcej niż jeden rok budżetowy, przekazane środki mogą być wykorzystane proporcjonalnie do okresów wstrzymania dotacji w poszczególnych latach budżetowych. ” ;
+
+- **7)** w art. 37: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Jeżeli szkoła, o której mowa w art. 26 ust. 2, niepubliczne branżowe centrum umiejętności lub niepubliczna placówka, o której mowa w art. 2 pkt 3, 6, 8 i 10 ustawy – Prawo oświatowe: ” , – w pkt 2 wyrazy „wychowanków lub uczestników zajęć rewalidacyjno-wychowawczych” zastępuje się wyrazami „wychowanków, uczestników zajęć rewalidacyjno-wychowawczych lub uczniów objętych branżowym szkoleniem zawodowym”, – część wspólna otrzymuje brzmienie: „ – organ dotujący wzywa dyrektora szkoły, centrum lub placówki lub organ prowadzący tę szkołę, centrum lub placówkę do wykonania działań, o których mowa w pkt 1–3, w wyznaczonym terminie. ” , w ust. 2 wyrazy „szkole, o której mowa w art. 26 ust. 2” zastępuje się wyrazami „szkole, o której mowa w art. 26 ust. 2, niepublicznemu branżowemu centrum umiejętności”, ust. 3 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+3. Środki przekazane szkole, o której mowa w art. 26 ust. 2, niepublicznemu branżowemu centrum umiejętności lub niepublicznej placówce, o której mowa w art. 2 pkt 3, 6, 8 i 10 ustawy – Prawo oświatowe, za okres, którego dotyczyło wstrzymanie dotacji, mogą być wykorzystane wyłącznie na refundację wydatków związanych z realizacją zadań szkoły, centrum lub placówki, o których mowa w art. 35 ust. 1, poniesionych przez szkołę, centrum lub placówkę w okresie roku budżetowego, w którym dotacja została wstrzymana. Jeżeli okres wstrzymania dotacji przypada na więcej niż jeden rok budżetowy, przekazane środki mogą być wykorzystane proporcjonalnie do okresów wstrzymania dotacji w poszczególnych latach budżetowych. ” ;
+
+- **8)** w art. 38: w ust. 1 wyrazy „uczestników zajęć rewalidacyjno-wychowawczych” zastępuje się wyrazami „uczestników zajęć rewalidacyjno-wychowawczych, uczniów objętych branżowym szkoleniem zawodowym”, w ust. 2 wyrazy „uczestników zajęć rewalidacyjno-wychowawczych” zastępuje się wyrazami „uczestników zajęć rewalidacyjno-wychowawczych, uczniów objętych branżowym szkoleniem zawodowym”;
+    - **a)**
+    - **b)**
+
+- **9)** w art. 39 w ust. 1 pkt 2 otrzymuje brzmienie: „
+- **2)** art. 15, art. 16 ust. 3, art. 17 ust. 3 i 5, art. 18 ust. 3, art. 19 ust. 3 i 5, art. 20 ust. 1, art. 21 ust. 3, art. 25 ust. 1, 2, 4 i 5, art. 26 ust. 1, 2, 5 i 8, art. 29 ust. 1 i 2, art. 29a ust. 1 i 2, art. 30, art. 31 ust. 1 i 1a oraz art. 31a ust. 1 – w wysokości wyższej niż określona odpowiednio w art. 15, art. 16 ust. 3, art. 17 ust. 3 i 5, art. 18 ust. 3, art. 19 ust. 3 i 5, art. 20 ust. 1, art. 21 ust. 3, art. 25 ust. 1, 2, 4 i 5, art. 26 ust. 1, 2, 5 i 8, art. 29 ust. 1 i 2, art. 29a ust. 1 i 2, art. 30, art. 31 ust. 1 i 1a oraz art. 31a ust. 1; ” ;
+- **10)** w art. 43: ust. 4 i 5 otrzymują brzmienie: „
+    - **a)**
+
+4. Jeżeli wysokość dotacji, o której mowa w art. 15–21, art. 25 ust. 1–4 i 8, art. 26 ust. 1, 2 i 8, art. 28, art. 29, art. 29a ust. 2, art. 30, art. 31 ust. 1, art. 40 i art. 41, uległa zmianie, suma kolejnych przekazywanych części dotacji odpowiednio na dziecko objęte wczesnym wspomaganiem rozwoju, ucznia, wychowanka, uczestnika zajęć rewalidacyjno-wychowawczych, ucznia objętego branżowym szkoleniem zawodowym lub słuchacza kwalifikacyjnego kursu zawodowego, począwszy od pierwszego dnia obowiązywania zaktualizowanej kwoty dotacji, stanowi różnicę między wysokością dotacji, o której mowa odpowiednio w art. 15–21, art. 25 ust. 1–4 i 8, art. 26 ust. 1, 2 i 8, art. 28, art. 29, art. 29a ust. 2, art. 30, art. 31 ust. 1, art. 40 i art. 41, według stanu na pierwszy dzień obowiązywania zaktualizowanej kwoty dotacji, a sumą części dotacji przekazanych odpowiednio na dziecko objęte wczesnym wspomaganiem rozwoju, ucznia, wychowanka, uczestnika zajęć rewalidacyjno-wychowawczych, ucznia objętego branżowym szkoleniem zawodowym lub słuchacza kwalifikacyjnego kursu zawodowego od początku roku budżetowego do dnia poprzedzającego pierwszy dzień obowiązywania zaktualizowanej kwoty dotacji.
+
+5. W przypadku wyrównywania kwoty dotacji, o której mowa w art. 15–21, art. 25 ust. 1–4 i 8, art. 26 ust. 1, 2 i 8, art. 28, art. 29, art. 29a ust. 2, art. 30, art. 31 ust. 1, art. 40 i art. 41, zgodnie z ust. 4, średnia arytmetyczna kolejnych przekazywanych części dotacji odpowiednio na dziecko objęte wczesnym wspomaganiem rozwoju, ucznia, wychowanka, uczestnika zajęć rewalidacyjno-wychowawczych, ucznia objętego branżowym szkoleniem zawodowym lub słuchacza kwalifikacyjnego kursu zawodowego, począwszy od pierwszego dnia obowiązywania zaktualizowanej kwoty dotacji, może zwiększyć się maksymalnie o 50% albo zmniejszyć się maksymalnie o 25% średniej arytmetycznej części dotacji przekazanych odpowiednio na dziecko objęte wczesnym wspomaganiem rozwoju, ucznia, wychowanka, uczestnika zajęć rewalidacyjno-wychowawczych, ucznia objętego branżowym szkoleniem zawodowym lub słuchacza kwalifikacyjnego kursu zawodowego od początku roku budżetowego do dnia poprzedzającego pierwszy dzień obowiązywania zaktualizowanej kwoty dotacji. ” , dodaje się ust. 6 i 7 w brzmieniu: „
+
+- **b)**
+
+6. Jeżeli wysokość dotacji, o której mowa w art. 29a ust. 1, uległa zmianie, suma kolejnych przekazywanych części dotacji na branżowe centrum umiejętności, począwszy od pierwszego dnia obowiązywania zaktualizowanej kwoty dotacji, stanowi różnicę między wysokością dotacji, o której mowa w art. 29a ust. 1, według stanu na pierwszy dzień obowiązywania zaktualizowanej kwoty dotacji, a sumą części dotacji przekazanych na branżowe centrum umiejętności od początku roku budżetowego do dnia poprzedzającego pierwszy dzień obowiązywania zaktualizowanej kwoty dotacji.
+
+7. W przypadku wyrównywania kwoty dotacji, o której mowa w art. 29a ust. 1, zgodnie z ust. 6, średnia arytmetyczna kolejnych przekazywanych części dotacji na branżowe centrum umiejętności, począwszy od pierwszego dnia obowiązywania zaktualizowanej kwoty dotacji, może zwiększyć się maksymalnie o 50% albo zmniejszyć się maksymalnie o 25% średniej arytmetycznej części dotacji przekazanych na branżowe centrum umiejętności od początku roku budżetowego do dnia poprzedzającego pierwszy dzień obowiązywania zaktualizowanej kwoty dotacji. ” ;
+
+- **11)** po art. 145 dodaje się art. 145a-145j w brzmieniu: „
+
+**Art. 145a.**
+
+1. W latach 2025 i 2026 w budżecie państwa tworzy się rezerwę celową przeznaczoną na dofinansowanie funkcjonowania branżowych centrów umiejętności.
+
+2. Podziału rezerwy, o której mowa w ust. 1, dokonuje minister właściwy do spraw oświaty i wychowania w porozumieniu z ministrem właściwym do spraw finansów publicznych.
 
 1. Jednostka samorządu terytorialnego otrzymuje dotację celową z rezerwy, o której mowa w art. 145a ust. 1, na dofinansowanie funkcjonowania branżowych centrów umiejętności, o których mowa:
 
 - **1)** w art. 31 ust. 1 ustawy z dnia 30 sierpnia 2023 r. o zmianie ustawy – Prawo oświatowe oraz niektórych innych ustaw (Dz. U. poz. 2005), w okresach od dnia 1 października 2025 r. do dnia 31 grudnia 2025 r. oraz od dnia 1 stycznia 2026 r. do dnia 31 grudnia 2026 r.,
-- **2)** w art. 31 ust. 2 ustawy z dnia 30 sierpnia 2023 r. o zmianie ustawy – Prawo oświatowe oraz niektórych innych ustaw, w okresie od dnia 1 lipca 2026 r. do dnia 31 grudnia 2026 r. – dla których jest organem prowadzącym albo rejestrującym.
+- **2)** w art. 31 ust. 2 ustawy z dnia 30 sierpnia 2023 r. o zmianie ustawy – Prawo oświatowe oraz niektórych innych ustaw, w okresie od dnia 1 lipca 2026 r. do dnia 31 grudnia 2026 r. dla których jest organem prowadzącym albo rejestrującym.
 
 2. Dotacja, o której mowa w ust. 1, może być wykorzystana wyłącznie na pokrycie wydatków bieżących związanych z realizacją zadań, o których mowa w przepisach wydanych na podstawie art. 117 ust. 5 ustawy – Prawo oświatowe.
 
@@ -482,8 +1255,6 @@ source: "isap-pdf"
 
 13. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, tryb i sposób rozliczania dotacji, o której mowa w ust. 1, w tym sposób ustalania wysokości dotacji podlegającej zwrotowi, oraz wzór formularza rocznego rozliczenia wykorzystania dotacji, mając na celu zapewnienie jawności i przejrzystości gospodarowania środkami budżetu państwa.
 
-**Art. 145c.**
-
 1. W latach 2025 i 2026 prowadzone przez osoby prawne niebędące jednostkami samorządu terytorialnego oraz osoby fizyczne branżowe centra umiejętności otrzymują z budżetu powiatu będącego dla tych centrów organem rejestrującym dotację na dofinansowanie funkcjonowania branżowych centrów umiejętności w wysokości przekazanej w danym roku budżetowym przez wojewodę na dane branżowe centrum umiejętności.
 
 2. Dotację, o której mowa w ust. 1, otrzymują branżowe centra umiejętności, o których mowa:
@@ -491,35 +1262,29 @@ source: "isap-pdf"
 - **1)** w art. 31 ust. 1 ustawy z dnia 30 sierpnia 2023 r. o zmianie ustawy – Prawo oświatowe oraz niektórych innych ustaw, w okresach od dnia 1 października 2025 r. do dnia 31 grudnia 2025 r. oraz od dnia 1 stycznia 2026 r. do dnia 31 grudnia 2026 r.;
 - **2)** w art. 31 ust. 2 ustawy z dnia 30 sierpnia 2023 r. o zmianie ustawy – Prawo oświatowe oraz niektórych innych ustaw, w okresie od dnia 1 lipca 2026 r. do dnia 31 grudnia 2026 r.
 
-**Art. 145d.**
-
 1. Dotacja, o której mowa w art. 145c ust. 1, jest przekazywana na rachunek bankowy branżowego centrum umiejętności lub zespołu szkół lub placówek, w skład którego wchodzi to centrum.
 
 2. Dotację, o której mowa w art. 145c ust. 1, przekazuje się w częściach w terminie do 20. dnia każdego miesiąca, za który przysługuje dotacja zgodnie z art. 145c ust. 1. W przypadku dotacji na dofinansowanie funkcjonowania branżowych centrów umiejętności, o których mowa w art. 145b ust. 1 pkt 1, za okres od dnia 1 stycznia 2026 r. do dnia 31 grudnia 2026 r. pierwszą część tej dotacji przekazuje się niezwłocznie po zwiększeniu wydatków w części budżetu państwa będącej w dyspozycji wojewody, z wyrównaniem za okres od początku roku budżetowego. Część za marzec 2026 r. wynosi 2/13 wysokości dotacji ustalonej zgodnie z art. 145b ust. 6.
 
-**Art. 145e.**
-
 1. Dotacja, o której mowa w art. 145c ust. 1, jest przeznaczona na realizację zadań, o których mowa w przepisach wydanych na podstawie art. 117 ust. 5 ustawy – Prawo oświatowe. Dotacja ta może być wykorzystana wyłącznie na:
 
-- **1)** pokrycie wydatków bieżących branżowego centrum umiejętności, w tym na:
-    - **a)** roczne wynagrodzenie osoby fizycznej zatrudnionej na podstawie umowy o pracę w branżowym centrum umiejętności w przeliczeniu na maksymalny wymiar czasu pracy – w wysokości nieprzekraczającej: – 250% 12-krotnego średniego wynagrodzenia nauczyciela dyplomowanego, o którym mowa w art. 30 ust. 3 pkt 3 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela – w przypadku publicznego branżowego centrum umiejętności, – 150% 12-krotnego średniego wynagrodzenia nauczyciela dyplomowanego, o którym mowa w art. 30 ust. 3 pkt 3 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela – w przypadku niepublicznego branżowego centrum umiejętności,
-    - **b)** roczne wynagrodzenie osoby fizycznej zatrudnionej na podstawie umowy cywilnoprawnej w publicznym lub niepublicznym branżowym centrum umiejętności oraz osoby fizycznej prowadzącej publiczne lub niepubliczne branżowe centrum umiejętności, jeżeli pełni funkcję dyrektora tego centrum – w wysokości nieprzekraczającej odpowiednio kwot określonych w lit. a,
-    - **c)** sfinansowanie wydatków związanych z realizacją zadań organu prowadzącego, o których mowa w art. 10 ust. 1 ustawy – Prawo oświatowe;
+- **1)** pokrycie wydatków bieżących branżowego centrum umiejętności, w tym na: roczne wynagrodzenie osoby fizycznej zatrudnionej na podstawie umowy o pracę w branżowym centrum umiejętności w przeliczeniu na maksymalny wymiar czasu pracy – w wysokości nieprzekraczającej: – 250% 12-krotnego średniego wynagrodzenia nauczyciela dyplomowanego, o którym mowa w art. 30 ust. 3 pkt 3 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela – w przypadku publicznego branżowego centrum umiejętności, – 150% 12-krotnego średniego wynagrodzenia nauczyciela dyplomowanego, o którym mowa w art. 30 ust. 3 pkt 3 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela – w przypadku niepublicznego branżowego centrum umiejętności, roczne wynagrodzenie osoby fizycznej zatrudnionej na podstawie umowy cywilnoprawnej w publicznym lub niepublicznym branżowym centrum umiejętności oraz osoby fizycznej prowadzącej publiczne lub niepubliczne branżowe centrum umiejętności, jeżeli pełni funkcję dyrektora tego centrum – w wysokości nieprzekraczającej odpowiednio kwot określonych w lit. a, sfinansowanie wydatków związanych z realizacją zadań organu prowadzącego, o których mowa w art. 10 ust. 1 ustawy – Prawo oświatowe;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **2)** pokrycie wydatków na zakup środków trwałych oraz wartości niematerialnych i prawnych obejmujących:
-    - **a)** środki dydaktyczne, książki i inne zbiory biblioteczne niezbędne do realizacji statutowych zadań branżowego centrum umiejętności,
-    - **b)** meble,
-    - **c)** pozostałe środki trwałe oraz wartości niematerialne i prawne o wartości nieprzekraczającej wielkości określonej zgodnie z art. 16f ust. 3 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, dla których odpisy amortyzacyjne są uznawane za koszt uzyskania przychodu w 100% ich wartości w momencie oddania do używania.
+- **2)** pokrycie wydatków na zakup środków trwałych oraz wartości niematerialnych i prawnych obejmujących: środki dydaktyczne, książki i inne zbiory biblioteczne niezbędne do realizacji statutowych zadań branżowego centrum umiejętności, meble, pozostałe środki trwałe oraz wartości niematerialne i prawne o wartości nieprzekraczającej wielkości określonej zgodnie z art. 16f ust. 3 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, dla których odpisy amortyzacyjne są uznawane za koszt uzyskania przychodu w 100% ich wartości w momencie oddania do używania.
+    - **a)**
+    - **b)**
+    - **c)**
 
 2. Przez wydatki bieżące, o których mowa w ust. 1 pkt 1, należy rozumieć wydatki bieżące, o których mowa w art. 236 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
-3. Maksymalny wymiar czasu, o którym mowa w ust. 1 pkt 1 lit. a, oblicza się zgodnie z art. 130 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, z uwzględnieniem art. 29 § 1 tej ustawy.
+3. Maksymalny wymiar czasu, o którym mowa w ust. 1 pkt 1 lit. a, oblicza się zgodnie z art. 130 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, z uwzględnieniem art. 292§ 1 tej ustawy.
 
 4. Wynagrodzenie osoby fizycznej, która w tym samym branżowym centrum umiejętności otrzymuje jednocześnie wynagrodzenie, o którym mowa w ust. 1 pkt 1 lit. a i b, nie może łącznie przekroczyć wysokości określonych w ust. 1 pkt 1 lit. a.
 
 5. Dotacja, o której mowa w art. 145c ust. 1, może być wykorzystana wyłącznie na pokrycie wydatków związanych z realizacją zadań określonych w ust. 1, poniesionych w roku budżetowym, na który dotacja została udzielona, niezależnie od tego, którego roku dotyczą te zadania.
-
-**Art. 145f.**
 
 1. Powiat, o którym mowa w art. 145c ust. 1, może kontrolować prawidłowość wykorzystania dotacji udzielonej zgodnie z art. 145c ust. 1.
 
@@ -529,8 +1294,8 @@ source: "isap-pdf"
 
 4. Powiat, o którym mowa w ust. 1 – w związku z przeprowadzaniem kontroli prawidłowości wykorzystania dotacji przez branżowe centrum umiejętności – przetwarza dane osobowe:
 
-- **1)** uczestników form pozaszkolnych kształcenia ustawicznego prowadzonych przez branżowe centrum umiejętności zgodnie z art. 117 ust. 2c–2e ustawy – Prawo oświatowe,
-- **2)** osób fizycznych zatrudnionych, w tym na podstawie umowy cywilnoprawnej, w tym branżowym centrum umiejętności w związku z przeprowadzaniem kontroli w zakresie przeznaczania dotacji na wynagrodzenia, o których mowa w art. 145e ust. 1 pkt 1 lit. a i b oraz ust. 4 – w tym z wykorzystaniem systemów teleinformatycznych służących do gromadzenia danych osobowych.
+- **1)** uczestników form pozaszkolnych kształcenia ustawicznego prowadzonych przez branżowe centrum umiejętności zgodnie z art. 117 ust. 2c-2e ustawy – Prawo oświatowe,
+- **2)** osób fizycznych zatrudnionych, w tym na podstawie umowy cywilnoprawnej, w tym branżowym centrum umiejętności w związku z przeprowadzaniem kontroli w zakresie przeznaczania dotacji na wynagrodzenia, o których mowa w art. 145e ust. 1 pkt 1 lit. a i b oraz ust. 4 w tym z wykorzystaniem systemów teleinformatycznych służących do gromadzenia danych osobowych.
 
 5. Kontrola może obejmować okres, o którym mowa w art. 145c ust. 2, lub jego część.
 
@@ -538,37 +1303,172 @@ source: "isap-pdf"
 
 7. Po bezskutecznym upływie terminu, o którym mowa w ust. 6, powiat, o którym mowa w ust. 1, wstrzymuje, w drodze decyzji administracyjnej, przekazywanie niepublicznemu branżowemu centrum umiejętności dotacji do dnia umożliwienia przeprowadzenia w tym centrum czynności kontrolnych, o których mowa w ust. 2.
 
-8. Środki przekazane niepublicznemu branżowemu centrum umiejętności za okres, którego dotyczyło wstrzymanie dotacji, mogą być wykorzystane wyłącznie na refundację wydatków związanych z realizacją zadań centrum, o których mowa w art. 145e ust. 1, poniesionych przez to centrum w okresie, o którym mowa w art. 145c ust. 2.
-
-**Art. 145g.** Rada powiatu, w drodze uchwały, ustala tryb udzielania i rozliczania dotacji, o których mowa w art. 145c ust. 1, oraz tryb przeprowadzania kontroli prawidłowości ich wykorzystania, w tym zakres danych, które powinny być zawarte we wniosku o udzielenie dotacji i w rozliczeniu jej wykorzystania, oraz termin i sposób rozliczenia wykorzystania dotacji.
-
-**Art. 145h.** Rada powiatu, w drodze uchwały, może wyrazić zgodę na udzielenie dotacji, o której mowa w art. 145c ust. 1, w wysokości wyższej niż określona w art. 145c ust. 1. Rada powiatu w uchwale ustala okres udzielania tej dotacji w wyższej wysokości.
-
-**Art. 145i.** Czynności podejmowane przez powiat, o którym mowa w art. 145c ust. 1, w celu ustalenia wysokości lub przekazania dotacji, o których mowa w art. 145c ust. 1, stanowią czynności z zakresu administracji publicznej, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi.
-
-**Art. 145j.**
+8. Środki przekazane niepublicznemu branżowemu centrum umiejętności za okres, którego dotyczyło wstrzymanie dotacji, mogą być wykorzystane wyłącznie na refundację wydatków związanych z realizacją zadań centrum, o których mowa w art. 145e ust. 1, poniesionych przez to centrum w okresie, o którym mowa w art. 145c ust. 2. Rada powiatu, w drodze uchwały, ustala tryb udzielania i rozliczania dotacji, o których mowa w art. 145c ust. 1, oraz tryb przeprowadzania kontroli prawidłowości ich wykorzystania, w tym zakres danych, które powinny być zawarte we wniosku o udzielenie dotacji i w rozliczeniu jej wykorzystania, oraz termin i sposób rozliczenia wykorzystania dotacji. Rada powiatu, w drodze uchwały, może wyrazić zgodę na udzielenie dotacji, o której mowa w art. 145c ust. 1, w wysokości wyższej niż określona w art. 145c ust. 1. Rada powiatu w uchwale ustala okres udzielania tej dotacji w wyższej wysokości. Czynności podejmowane przez powiat, o którym mowa w art. 145c ust. 1, w celu ustalenia wysokości lub przekazania dotacji, o których mowa w art. 145c ust. 1, stanowią czynności z zakresu administracji publicznej, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi.
 
 1. Dotacja, o której mowa w art. 145c ust. 1, nie podlega egzekucji.
 
-2. Przepis ust. 1 nie dotyczy egzekucji prowadzonej w przypadku stwierdzenia, na podstawie ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, obowiązku zwrotu dotacji wykorzystanej niezgodnie z przeznaczeniem lub pobranej nienależnie.”.
+2. Przepis ust. 1 nie dotyczy egzekucji prowadzonej w przypadku stwierdzenia, na podstawie ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, obowiązku zwrotu dotacji wykorzystanej niezgodnie z przeznaczeniem lub pobranej nienależnie. ” .
 
-**Art. 11.** W ustawie z dnia 10 maja 2018 r. o wspieraniu nowych inwestycji (Dz. U. z 2023 r. poz. 74 i 1688) w art. 7 w ust. 2 w pkt 8 lit. a otrzymuje brzmienie: „a) ze szkołami ponadpodstawowymi, w szczególności ze szkołami prowadzącymi kształcenie zawodowe, placówkami kształcenia ustawicznego, centrami kształcenia zawodowego i branżowymi centrami umiejętności, o których mowa w art. 2 pkt 2 lit. b i pkt 4 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 r. poz. 900, 1672 i 1718),”.
+**Art. 11.** W ustawie z dnia 10 maja 2018 r. o wspieraniu nowych inwestycji (Dz. U. z 2023 r. poz. 74 i 1688) w art. 7 w ust. 2 w pkt 8 lit. a otrzymuje brzmienie: „
+
+ze szkołami ponadpodstawowymi, w szczególności ze szkołami prowadzącymi kształcenie zawodowe, placówkami kształcenia ustawicznego, centrami kształcenia zawodowego i branżowymi centrami umiejętności, o których mowa w art. 2 pkt 2 lit. b i pkt 4 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 r. poz. 900, 1672 i 1718), ” .
+
+- **a)**
 
 **Art. 12.** W ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, 1088, 1234, 1672 i 1872) wprowadza się następujące zmiany:
 
-**Art. 13.** W ustawie z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. z 2023 r. poz. 406 i 1641) w art. 85b w ust. 1 w zdaniu trzecim wyrazy „31 grudnia 2023 r.” zastępuje się wyrazami „31 grudnia 2024 r.”.
+- **1)** w art. 60 ust. 4 otrzymuje brzmienie: „
 
-**Art. 14.** W ustawie z dnia 12 maja 2022 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 1116) art. 14 otrzymuje brzmienie: „Art. 14. W roku szkolnym 2022/2023 i 2023/2024 absolwent, o którym mowa w art. 10 ust. 1, który przystąpił do egzaminu maturalnego ze wszystkich przedmiotów obowiązkowych w części ustnej i w części pisemnej oraz do co najmniej jednego przedmiotu dodatkowego w części pisemnej i nie zdał egzaminu maturalnego wyłącznie z jednego przedmiotu obowiązkowego w części ustnej albo w części pisemnej, może w tym samym roku przystąpić do egzaminu maturalnego z tego samego przedmiotu obowiązkowego odpowiednio w części ustnej albo w części pisemnej w terminie poprawkowym, z zastrzeżeniem art. 44zzm ust. 1a ustawy zmienianej w art. 1. Przepis art. 44zzm ust. 2 i 3 ustawy zmienianej w art. 1 stosuje się odpowiednio.”.
+4. Absolwent studiów wspólnych może otrzymać dyplom wspólny w postaci papierowej, spełniający wymagania określone w przepisach wydanych na podstawie art. 81 w zakresie, o którym mowa w art. 81 pkt 9. Przepisu art. 77 ust. 2b nie stosuje się. ” ;
 
-**Art. 15.** W przypadku założenia branżowego centrum umiejętności wyłonionego w drodze konkursu „Utworzenie i wsparcie funkcjonowania 120 branżowych centrów umiejętności (BCU), realizujących koncepcję centrów doskonałości zawodowej (CoVEs)” ogłoszonego przez ministra właściwego do spraw oświaty i wychowania w latach 2022 i 2023 przez jednostkę samorządu terytorialnego, do której zadań własnych nie należy prowadzenie branżowego centrum umiejętności, nie jest wymagane zawarcie porozumienia, o którym mowa w art. 8 ust. 17 ustawy zmienianej w art. 1.
+- **2)** w art. 77: ust. 1–2a otrzymują brzmienie: „
+    - **a)**
+
+1. Absolwent studiów otrzymuje dyplom ukończenia studiów na określonym kierunku i profilu potwierdzający wykształcenie wyższe oraz tytuł zawodowy:
+
+- **1)** licencjata, inżyniera albo równorzędny potwierdzający wykształcenie wyższe na tym samym poziomie – w przypadku studiów pierwszego stopnia;
+- **2)** magistra, magistra inżyniera albo równorzędny potwierdzający wykształcenie wyższe na tym samym poziomie – w przypadku studiów drugiego stopnia i jednolitych studiów magisterskich.
+
+2. Uczelnia wydaje absolwentowi, w terminie 30 dni od dnia ukończenia studiów, dyplom ukończenia studiów wraz z suplementem do dyplomu utrwalone w postaci elektronicznej oraz na wniosek studenta złożony do dnia ukończenia studiów utrwalone w postaci elektronicznej kolejne egzemplarze:
+
+- **1)** dyplomu w języku angielskim, francuskim, hiszpańskim, niemieckim, rosyjskim albo w innym języku obcym, w którym było prowadzone kształcenie na tych studiach;
+- **2)** suplementu do dyplomu w języku angielskim albo w innym języku obcym, w którym było prowadzone kształcenie na tych studiach.
+
+2a. Uczelnia wydaje, na wniosek absolwenta, utrwalone w postaci elektronicznej dodatkowy egzemplarz dyplomu ukończenia studiów lub dodatkowy egzemplarz suplementu do dyplomu, w języku polskim lub w języku obcym, o którym mowa w ust. 2, przy czym dla danego języka wydaje się tylko jeden egzemplarz w postaci elektronicznej. ” , po ust. 2a dodaje się ust. 2b-2f w brzmieniu: „
+
+- **b)**
+
+2b. Uczelnia wydaje, na wniosek studenta złożony do dnia ukończenia studiów, w terminie 30 dni od dnia ukończenia studiów, dyplom ukończenia studiów wraz z suplementem do dyplomu utrwalone w postaci papierowej oraz ich odpisy utrwalone w postaci papierowej:
+
+- **1)** odpis dyplomu w języku angielskim, francuskim, hiszpańskim, niemieckim albo w innym języku obcym, w którym było prowadzone kształcenie na tych studiach;
+- **2)** odpis suplementu do dyplomu w języku angielskim albo w innym języku obcym, w którym było prowadzone kształcenie na tych studiach.
+
+2c. W przypadku złożenia wniosku, o którym mowa w ust. 2b, przez absolwenta w terminie późniejszym niż dzień ukończenia studiów, dyplom wraz z suplementem, a także ich odpisy w języku obcym w postaci papierowej wydaje się niezwłocznie.
+
+2d. Wydanie dyplomu oraz jego suplementu utrwalonego w postaci papierowej, a także ich odpisów utrwalonych w postaci papierowej jest możliwe wyłącznie po zarejestrowaniu dyplomu oraz jego suplementu utrwalonego w postaci cyfrowej w repozytorium dyplomów elektronicznych, o którym mowa w art. 342 ust. 3 pkt 9.
+
+2e. Zakres danych ujętych w dyplomie ukończenia studiów i suplemencie do tego dyplomu utrwalonych w postaci elektronicznej i papierowej musi być tożsamy.
+
+2f. Dyplom ukończenia studiów, suplement do dyplomu oraz odpisy tych dokumentów dla studentów i absolwentów będących żołnierzami uczelnia wydaje wyłącznie w postaci papierowej. ” ;
+
+- **3)** w art. 81 w pkt 13 dodaje się przecinek i dodaje się pkt 14 w brzmieniu: „
+- **14)** niezbędne elementy dyplomu ukończenia studiów w postaci cyfrowej i dyplomu wspólnego w postaci cyfrowej ” ;
+- **4)** w art. 125 w ust. 3 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
+- **5)** w Centralnej Komisji Egzaminacyjnej lub okręgowej komisji egzaminacyjnej, o których mowa w przepisach o systemie oświaty. ” ;
+- **5)** art. 179 otrzymuje brzmienie: „
+
+**Art. 179.**
+
+1. Osoba, której nadano stopień doktora albo stopień doktora habilitowanego, otrzymuje odpowiednio dyplom doktorski utrwalony w postaci elektronicznej albo dyplom habilitacyjny utrwalony w postaci elektronicznej. Na wniosek tej osoby wydaje się odpis dyplomu utrwalony w postaci elektronicznej lub papierowej w języku angielskim, francuskim, hiszpańskim, niemieckim, lub łacinie.
+
+2. W przypadku, o którym mowa w art. 185 ust. 2, osoba, której nadano stopień doktora, otrzymuje wspólny dyplom doktorski utrwalony w postaci elektronicznej wydany przez podmioty systemu szkolnictwa wyższego i nauki nadające stopień doktora albo dyplom doktorski wydany przez jeden z podmiotów, wskazany w umowie.
+
+3. Jeżeli postępowanie w sprawie nadania stopnia doktora jest prowadzone z udziałem podmiotu zagranicznego, umowa, o której mowa w art. 185 ust. 2, może określać, że osoba, której nadano stopień doktora, otrzymuje dyplom doktorski utrwalony w postaci papierowej wydany przez ten podmiot oraz:
+
+- **1)** dyplom doktorski utrwalony w postaci elektronicznej wydany przez podmiot systemu szkolnictwa wyższego i nauki nadający stopień doktora albo
+- **2)** wspólny dyplom doktorski utrwalony w postaci elektronicznej wydany przez podmioty systemu szkolnictwa wyższego i nauki nadające stopień doktora albo dyplom doktorski utrwalony w postaci elektronicznej wydany przez jeden z tych podmiotów, wskazany w umowie.
+
+4. W przypadku wydania dyplomu wspólnego z podmiotem zagranicznym przepisu ust. 6 nie stosuje się.
+
+5. Podmiot systemu szkolnictwa wyższego i nauki wydaje, na wniosek osoby, której nadano stopień doktora albo stopień doktora habilitowanego, dyplom doktorski albo odpowiednio dyplom habilitacyjny w postaci papierowej.
+
+6. Wydanie dyplomu doktorskiego albo dyplomu habilitacyjnego utrwalonego w postaci papierowej przez podmiot systemu szkolnictwa wyższego i nauki jest możliwe wyłącznie po zarejestrowaniu dyplomu utrwalonego w postaci elektronicznej w repozytorium dyplomów elektronicznych, o którym mowa w art. 342 ust. 3 pkt 9.
+
+7. Zakres danych ujętych przez podmiot doktoryzujący w dyplomie doktorskim oraz przez podmiot habilitujący w dyplomie habilitacyjnym, utrwalonych w postaci elektronicznej i papierowej, musi być tożsamy.
+
+8. Przepisu ust. 6 nie stosuje się w przypadku wydawania dyplomu doktorskiego albo dyplomu habilitacyjnego dla osób będących żołnierzami.
+
+9. Dyplom doktorski albo dyplom habilitacyjny dla osób będących żołnierzami podmiot systemu szkolnictwa wyższego i nauki wydaje wyłącznie w postaci papierowej. ” ;
+
+- **6)** art. 181 otrzymuje brzmienie: „
+
+**Art. 181.** Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia:
+
+- **1)** niezbędne elementy dyplomu doktorskiego w postaci elektronicznej i papierowej,
+- **2)** niezbędne elementy dyplomu habilitacyjnego w postaci elektronicznej i papierowej,
+- **3)** sposób sporządzania duplikatów dyplomów w postaci papierowej i odpisów tych dyplomów w postaci papierowej,
+- **4)** sposób sporządzania kolejnych egzemplarzy dyplomów w językach obcych w postaci elektronicznej,
+- **5)** sposób dokonywania sprostowań w dyplomach i zmian danych osobowych, mając na uwadze konieczność zapewnienia kompletności i aktualności informacji zawartych w dyplomie doktorskim i dyplomie habilitacyjnym,
+- **6)** wzór legitymacji doktoranta i sposób potwierdzania jej ważności, mając na uwadze potrzebę poświadczenia statusu doktoranta,
+- **7)** sposób uwierzytelniania dokumentów, o których mowa w art. 180 ust. 1 i 1a, przeznaczonych do obrotu prawnego z zagranicą, mając na uwadze szczególne znaczenie dokumentów przeznaczonych do obrotu prawnego z zagranicą,
+- **8)** wysokość i sposób pobierania opłaty za uwierzytelnianie dokumentów, o których mowa w art. 180 ust. 1 i 1a, oraz wysokość opłaty za wydanie duplikatu dyplomu doktorskiego i dyplomu habilitacyjnego, a także odpisu tych dyplomów, w tym w języku obcym, mając na uwadze zapewnienie adekwatności wysokości opłat do kosztów mając na uwadze konieczność zapewnienia kompletności informacji zawartych w dyplomach, potrzebę poświadczenia statusu doktoranta oraz zapewnienia adekwatności wysokości opłat do kosztów, a także szczególne znaczenie dokumentów przeznaczonych do obrotu prawnego z zagranicą. ” ;
+- **7)** w art. 342 w ust. 3 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „
+- **9)** repozytorium dyplomów elektronicznych. ” ;
+- **8)** w art. 343 w ust. 5 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „
+- **5)** osobom, których dane gromadzone w wykazie dotyczą – w zakresie danych na temat własnej osoby. ” ;
+- **9)** w art. 344 w ust. 3 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „
+- **6)** osobom, których dane gromadzone w wykazie dotyczą – w zakresie danych na temat własnej osoby. ” ;
+- **10)** w art. 345: w ust. 3 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „
+    - **a)**
+
+- **6)** osobom, których dane gromadzone w wykazie dotyczą – w zakresie danych na temat własnej osoby. ” , ust. 4 otrzymuje brzmienie: „
+    - **b)**
+
+4. W celu upowszechniania wyników działalności naukowej dane, o których mowa w ust. 1 pkt 1, 3, 12, 13 i 16, są powszechnie dostępne. ” ;
+
+- **11)** po art. 347 dodaje się art. 347a w brzmieniu: „
+
+**Art. 347a.**
+
+1. Repozytorium dyplomów elektronicznych służy do:
+
+- **1)** obsługi procesu wydawania dyplomów ukończenia studiów wraz z suplementem oraz dyplomów doktorskich i habilitacyjnych w postaci elektronicznej, a także odpisów tych dokumentów;
+- **2)** zamieszczania, gromadzenia i udostępniania dyplomów ukończenia studiów wraz z suplementem oraz dyplomów doktorskich i habilitacyjnych w postaci elektronicznej, a także odpisów tych dokumentów.
+
+2. Repozytorium dyplomów elektronicznych obejmuje:
+
+- **1)** numer PESEL osoby, która ukończyła studia, uzyskała stopień doktora lub doktora habilitowanego, lub numer dokumentu tożsamości, dla osób nieposiadających numeru PESEL;
+- **2)** niezbędne elementy dyplomu ukończenia studiów oraz dane zawarte we wzorze suplementu do dyplomu, określone na podstawie przepisów wydanych na podstawie art. 81;
+- **3)** dodatkowe elementy dyplomu ukończenia studiów, określane przez uczelnię;
+- **4)** niezbędne elementy dyplomu doktorskiego oraz dyplomu habilitacyjnego, określone na podstawie przepisów wydanych na podstawie art. 181;
+- **5)** dodatkowe elementy dyplomu doktorskiego oraz dyplomu habilitacyjnego, określane przez podmiot systemu szkolnictwa wyższego i nauki, wydający dyplom.
+
+3. Rektor uczelni, dyrektor instytutu PAN lub dyrektor instytutu badawczego, wydaje dyplom ukończenia studiów wraz z suplementem, dyplom doktorski, dyplom habilitacyjny w postaci elektronicznej za pomocą narzędzi udostępnionych w repozytorium dyplomów elektronicznych, a następnie rejestruje ten dyplom.
+
+4. Dyplom ukończenia studiów wraz z suplementem, dyplom doktorski, dyplom habilitacyjny w postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym osoby upoważnionej do podpisania dokumentu, o której mowa w art. 349, oraz pieczęcią elektroniczną repozytorium dyplomów elektronicznych, zawierającą kwalifikowany znacznik czasu.
+
+5. Dyplom ukończenia studiów wraz z suplementem, dyplom doktorski, dyplom habilitacyjny w postaci elektronicznej uznaje się za zarejestrowany w repozytorium dyplomów elektronicznych z chwilą naniesienia pieczęci elektronicznej repozytorium dyplomów elektronicznych.
+
+6. Dyplom ukończenia studiów wraz z suplementem w postaci elektronicznej, dyplom doktorski w postaci elektronicznej, dyplom habilitacyjny w postaci elektronicznej, a także odpisy tych dokumentów w postaci elektronicznej, udostępniane są, odpowiednio, absolwentowi, osobie, której nadano stopień doktora lub doktora habilitowanego, w repozytorium dyplomów elektronicznych.
+
+7. Osoba, o której mowa w ust. 6, pobiera dyplom i suplement, a następnie potwierdza pobranie dyplomu i suplementu, w tym ich egzemplarzy w języku obcym, przez uwierzytelnienie za pośrednictwem Krajowego Węzła Identyfikacji Elektronicznej, o którym mowa w ustawie z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2021 r. poz. 1797 oraz z 2023 r. poz. 1234).
+
+8. Wnioski, o których mowa w art. 77 ust. 2–2b oraz art. 179 ust. 1 i 5, mogą być również złożone poprzez repozytorium dyplomów elektronicznych lub Portal, o którym mowa w art. 44b ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe.
+
+9. Za wydanie dyplomu i suplementu w postaci papierowej podmiot systemu szkolnictwa wyższego i nauki może pobierać opłatę.
+
+10. Dostęp do danych zawartych w repozytorium dyplomów elektronicznych przysługuje:
+
+- **1)** ministrowi – w zakresie niezbędnym do prawidłowego utrzymania i rozwoju repozytorium oraz systemów informatycznych współpracujących z tym repozytorium;
+- **2)** rektorom, rektorom uczelni prowadzonych przez kościoły i inne związki wyznaniowe, dyrektorom instytutów PAN, dyrektorom instytutów badawczych oraz dyrektorom instytutów międzynarodowych – w zakresie danych dotyczących studentów i osób ubiegających się o stopień doktora oraz doktora habilitowanego – w zakresie dyplomów wydanych przez dany podmiot;
+- **3)** osobie, której wydano dyplom lub świadectwo – w zakresie dotyczącym własnej osoby;
+- **4)** innym osobom lub podmiotom w zakresie danej osoby – za zgodą tej osoby.
+
+11. Wydruk dyplomu wydanego w postaci elektronicznej nie może być uznany w obrocie prawnym za równoważny z dyplomem w postaci elektronicznej lub dyplomem wydanym w postaci papierowej. ” ;
+
+- **12)** w art. 349 w ust. 1 po pkt 3 dodaje się pkt 3a w brzmieniu: „
+- **3a)** dane certyfikatu kwalifikowanego podpisu elektronicznego; ” ;
+- **13)** w art. 353 po pkt 3 dodaje się pkt 3a w brzmieniu: „
+- **3a)** szczegółowe wymagania techniczne dotyczące dyplomów ukończenia studiów wraz z suplementem, dyplomów doktorskich i dyplomów habilitacyjnych w postaci elektronicznej, a także sposób ich wydawania i wprowadzania tych dokumentów do repozytorium dyplomów elektronicznych oraz specyfikację formatu danych, ” ;
+- **14)** po art. 358a dodaje się art. 358b w brzmieniu: „
+
+**Art. 358b.**
+
+1. Minister właściwy do spraw oświaty i wychowania w porozumieniu z ministrem zapewnia ujednolicony punkt dostępu do usług i narzędzi z zakresu szkolnictwa wyższego i nauki za pośrednictwem Portalu, o którym mowa w art. 44b ust. 1 ustawy z dnia 16 grudnia 2016 r. – Prawo oświatowe, z wykorzystaniem danych udostępnianych i gromadzonych przez podmioty szkolnictwa wyższego i nauki w rejestrach publicznych, systemach teleinformatycznych, ewidencjach, bazach danych oraz innych zasobach informatycznych, za zgodą tych podmiotów.
+
+2. Przepisy art. 44b-44d ustawy z dnia 16 grudnia 2016 r. – Prawo oświatowe stosuje się odpowiednio w celu korzystania przez użytkownika z systemu, o którym mowa w art. 44b ust. 1 tej ustawy, oraz jego funkcjonalności w zakresie szkolnictwa wyższego i nauki.
+
+3. Portal, o którym mowa w ust. 1, generuje poświadczenia, o których mowa w art. 44b ust. 7 ustawy z dnia 16 grudnia 2016 r. – Prawo oświatowe, w zakresie uzyskanych dyplomów ukończenia studiów, w tym suplementów, dyplomów doktorskich i habilitacyjnych, a także dotyczące potwierdzenia statusu studenta lub doktoranta, na podstawie danych gromadzonych w Systemie POL-on. ” ;
+
+- **15)** po art. 376 dodaje się art. 376a w brzmieniu: „
+
+**Art. 376a.** Korespondencja w sprawach, o których mowa w art. 365 pkt 4 lit. a i b, pkt 5 i 7, może być doręczana przez dedykowany system teleinformatyczny służący do obsługi wniosków, wskazany przez ministra. ” .
+
+**Art. 13.** W ustawie z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. z 2023 r. poz. 406 i 1641) w art. 85b w ust. 1 w zdaniu trzecim wyrazy „31 grudnia 2023 r.” zastępuje się wyrazami „31 grudnia 2024 r.”. W ustawie z dnia 12 maja 2022 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 1116) art. 14 otrzymuje brzmienie: „ W roku szkolnym 2022/2023 i 2023/2024 absolwent, o którym mowa w art. 10 ust. 1, który przystąpił do egzaminu maturalnego ze wszystkich przedmiotów obowiązkowych w części ustnej i w części pisemnej oraz do co najmniej jednego przedmiotu dodatkowego w części pisemnej i nie zdał egzaminu maturalnego wyłącznie z jednego przedmiotu obowiązkowego w części ustnej albo w części pisemnej, może w tym samym roku przystąpić do egzaminu maturalnego z tego samego przedmiotu obowiązkowego odpowiednio w części ustnej albo w części pisemnej w terminie poprawkowym, z zastrzeżeniem art. 44zzm ust. 1a ustawy zmienianej w art. 1. Przepis art. 44zzm ust. 2 i 3 ustawy zmienianej w art. 1 stosuje się odpowiednio. ” . W przypadku założenia branżowego centrum umiejętności wyłonionego w drodze konkursu „Utworzenie i wsparcie funkcjonowania 120 branżowych centrów umiejętności (BCU), realizujących koncepcję centrów doskonałości zawodowej (CoVEs)” ogłoszonego przez ministra właściwego do spraw oświaty i wychowania w latach 2022 i 2023 przez jednostkę samorządu terytorialnego, do której zadań własnych nie należy prowadzenie branżowego centrum umiejętności, nie jest wymagane zawarcie porozumienia, o którym mowa w art. 8 ust. 17 ustawy zmienianej w art. 1.
 
 **Art. 16.** W roku 2023 dodatkowe wynagrodzenie roczne, o którym mowa w art. 143 ustawy zmienianej w art. 12, przysługujące za rok 2023, może zostać wypłacone w miesiącu grudniu tego roku.
 
-**Art. 17.** W roku 2024 środki finansowe przyznane na podstawie art. 71a ust. 1 ustawy z dnia 19 listopada 2020 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2021 (Dz. U. poz. 2400 oraz z 2021 r. poz. 1104 i 1901) mogą być przeznaczone przez uczelnie publiczne oraz uczelnie uprawnione do finansowania na zasadach określonych dla uczelni publicznych również na realizację zadań, o których mowa w art. 365 pkt 1 lit. a–c, pkt 2 lit. a–d oraz pkt 4 lit. a i b ustawy zmienianej w art. 12.
-
-**Art. 18.** W latach 2023–2028 ogólnopolską sieć branżowych centrów umiejętności, o której mowa w art. 8a ust. 7 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, tworzą branżowe centra umiejętności wyłonione w drodze konkursu „Utworzenie i wsparcie funkcjonowania 120 branżowych centrów umiejętności (BCU), realizujących koncepcję centrów doskonałości zawodowej (CoVEs)” ogłoszonego przez ministra właściwego do spraw oświaty i wychowania w latach 2022 i 2023, a w latach kolejnych również branżowe centra umiejętności wyłonione w drodze konkursu, o którym mowa w art. 8a ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, z zastrzeżeniem art. 46c ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
-
-**Art. 19.** Pierwszy wykaz dziedzin zawodowych, o którym mowa w art. 46c ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, obejmuje dziedziny określone na potrzeby konkursu „Utworzenie i wsparcie funkcjonowania 120 branżowych centrów umiejętności (BCU), realizujących koncepcję centrów doskonałości zawodowej (CoVEs)” ogłoszonego przez ministra właściwego do spraw oświaty i wychowania w latach 2022 i 2023.
+**Art. 17.** W roku 2024 środki finansowe przyznane na podstawie art. 71a ust. 1 ustawy z dnia 19 listopada 2020 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2021 (Dz. U. poz. 2400 oraz z 2021 r. poz. 1104 i 1901) mogą być przeznaczone przez uczelnie publiczne oraz uczelnie uprawnione do finansowania na zasadach określonych dla uczelni publicznych również na realizację zadań, o których mowa w art. 365 pkt 1 lit. a-c, pkt 2 lit. a-d oraz pkt 4 lit. a i b ustawy zmienianej w art. 12. W latach 2023–2028 ogólnopolską sieć branżowych centrów umiejętności, o której mowa w art. 8a ust. 7 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, tworzą branżowe centra umiejętności wyłonione w drodze konkursu „Utworzenie i wsparcie funkcjonowania 120 branżowych centrów umiejętności (BCU), realizujących koncepcję centrów doskonałości zawodowej (CoVEs)” ogłoszonego przez ministra właściwego do spraw oświaty i wychowania w latach 2022 i 2023, a w latach kolejnych również branżowe centra umiejętności wyłonione w drodze konkursu, o którym mowa w art. 8a ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, z zastrzeżeniem art. 46c ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą. Pierwszy wykaz dziedzin zawodowych, o którym mowa w art. 46c ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, obejmuje dziedziny określone na potrzeby konkursu „Utworzenie i wsparcie funkcjonowania 120 branżowych centrów umiejętności (BCU), realizujących koncepcję centrów doskonałości zawodowej (CoVEs)” ogłoszonego przez ministra właściwego do spraw oświaty i wychowania w latach 2022 i 2023.
 
 **Art. 20.**
 
@@ -576,13 +1476,9 @@ source: "isap-pdf"
 
 2. Do wniosku, o którym mowa w ust. 1, nie stosuje się przepisu art. 88 ust. 4 pkt 1 ustawy zmienianej w art. 1, w zakresie uzyskania pozytywnej opinii kuratora oświaty.
 
-**Art. 21.**
-
 1. Przepis art. 44zw ust. 4 ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, stosuje do egzaminu ósmoklasisty przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia ogólnego dla szkoły podstawowej, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 lit. b ustawy zmienianej w art. 1, począwszy od roku szkolnego 2024/2025.
 
 2. W roku szkolnym 2023/2024 przepis art. 44zw ust. 4 ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, stosuje się do egzaminu ósmoklasisty przeprowadzanego na podstawie wymagań egzaminacyjnych określonych w przepisach wydanych na podstawie art. 9 ust. 4 ustawy zmienianej w art. 14.
-
-**Art. 22.**
 
 1. Przepisy art. 44zzf ust. 2 i 3, art. 44zzo, art. 44zzp ust. 1 i art. 44zzq ust. 1a ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, stosuje się do egzaminu maturalnego przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia ogólnego, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 lit. c i d ustawy zmienianej w art. 1, począwszy od roku szkolnego 2024/2025.
 
@@ -600,13 +1496,18 @@ source: "isap-pdf"
 
 2. W roku szkolnym 2023/2024 przepisy art. 44zzo i art. 44zzq ust. 1a ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, stosuje się do egzaminu maturalnego przeprowadzanego na podstawie wymagań egzaminacyjnych określonych w przepisach wydanych na podstawie art. 21 ustawy zmienianej w art. 14.
 
-3. Przepisów art. 44zzd ust. 2 pkt 2 lit. b, art. 44zzf ust. 2 i 3, art. 44zzh ust. 3 i 5, art. 44zzn ust. 5–5b i art. 44zzr ust. 7 pkt 2 ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, nie stosuje się do egzaminu maturalnego przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia ogólnego, o której mowa w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2 lit. b ustawy zmienianej w art. 3, w brzmieniu obowiązującym przed dniem 1 września 2017 r.
+3. Przepisów art. 44zzd ust. 2 pkt 2 lit. b, art. 44zzf ust. 2 i 3, art. 44zzh ust. 3 i 5, art. 44zzn ust. 5–5b i art. 44zzr ust. 7 pkt 2 ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, nie stosuje się do egzaminu maturalnego przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia ogólnego, o której mowa w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2 lit. b ustawy zmienianej w art. 3, w brzmieniu obowiązującym przed dniem 1 września 2017 r. Przepisy art. 44zzzd ust. 3a i 3b, art. 44zzzgb, art. 44zzzo ust. 7 i art. 44zzzu ust. 1 pkt 1 ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, stosuje się do egzaminu zawodowego, począwszy od roku szkolnego 2023/2024.
 
-**Art. 25.** Przepisy art. 44zzzd ust. 3a i 3b, art. 44zzzgb, art. 44zzzo ust. 7 i art. 44zzzu ust. 1 pkt 1 ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, stosuje się do egzaminu zawodowego, począwszy od roku szkolnego 2023/2024.
+1. W 2025 r.:
 
-**Art. 26.** (uchylony)
+- **1)** przy podziale części oświatowej subwencji ogólnej dla jednostek samorządu terytorialnego, o którym mowa w art. 28 ust. 5 ustawy zmienianej w art. 4, uwzględnia się liczbę uczniów lub słuchaczy szkół prowadzących kształcenie zawodowe objętych branżowym szkoleniem zawodowym realizowanym przez branżowe centra umiejętności wyłonione w konkursie „Utworzenie i wsparcie funkcjonowania 120 branżowych centrów umiejętności (BCU), realizujących koncepcję centrów doskonałości zawodowej (CoVEs)” ogłoszonym przez ministra właściwego do spraw oświaty i wychowania w latach 2022 i 2023, których wsparcie funkcjonowania w ramach tego konkursu trwa nie dłużej niż do dnia 30 września 2025 r., oraz które tworzą ogólnopolską sieć branżowych centrów umiejętności, o której mowa w art. 8a ust. 7 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą;
+- **2)** podział części oświatowej subwencji ogólnej w zakresie branżowych szkoleń zawodowych realizowanych przez branżowe centra umiejętności wyłonione w konkursie „Utworzenie i wsparcie funkcjonowania 120 branżowych centrów umiejętności (BCU), realizujących koncepcję centrów doskonałości zawodowej (CoVEs)” ogłoszonym przez ministra właściwego do spraw oświaty i wychowania w latach 2022 i 2023, których wsparcie funkcjonowania w ramach tego konkursu trwa nie dłużej niż do dnia 30 września 2025 r., oraz które tworzą ogólnopolską sieć branżowych centrów umiejętności, o której mowa w art. 8a ust. 7 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, dotyczy okresu od dnia 1 października 2025 r. do dnia 31 grudnia 2025 r.
 
-**Art. 27.**
+2. W 2026 r.:
+
+- **1)** przy podziale części oświatowej subwencji ogólnej dla jednostek samorządu terytorialnego, o którym mowa w art. 28 ust. 5 ustawy zmienianej w art. 4, uwzględnia się liczbę uczniów lub słuchaczy szkół prowadzących kształcenie zawodowe objętych branżowym szkoleniem zawodowym realizowanym przez branżowe centra umiejętności wyłonione w konkursie „Utworzenie i wsparcie funkcjonowania 120 branżowych centrów umiejętności (BCU), realizujących koncepcję centrów doskonałości zawodowej (CoVEs)” ogłoszonym przez ministra właściwego do spraw oświaty i wychowania w latach 2022 i 2023, których wsparcie funkcjonowania w ramach tego konkursu zakończy się w okresie od dnia 1 października 2025 r. do dnia 30 czerwca 2026 r., oraz które tworzą ogólnopolską sieć branżowych centrów umiejętności, o której mowa w art. 8a ust. 7 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą;
+- **2)** podział części oświatowej subwencji ogólnej w zakresie branżowych szkoleń zawodowych realizowanych przez branżowe centra umiejętności wyłonione w konkursie „Utworzenie i wsparcie funkcjonowania 120 branżowych centrów umiejętności (BCU), realizujących koncepcję centrów doskonałości zawodowej (CoVEs)” ogłoszonym przez ministra właściwego do spraw oświaty i wychowania w latach 2022 i 2023, których wsparcie funkcjonowania w ramach tego konkursu trwa nie dłużej niż do dnia 30 września 2025 r., oraz które tworzą ogólnopolską sieć branżowych centrów umiejętności, o której mowa w art. 8a ust. 7 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, dotyczy okresu od dnia 1 stycznia 2026 r. do dnia 31 grudnia 2026 r.;
+- **3)** podział części oświatowej subwencji ogólnej w zakresie branżowych szkoleń zawodowych realizowanych przez branżowe centra umiejętności wyłonione w konkursie „Utworzenie i wsparcie funkcjonowania 120 branżowych centrów umiejętności (BCU), realizujących koncepcję centrów doskonałości zawodowej (CoVEs)” ogłoszonym przez ministra właściwego do spraw oświaty i wychowania w latach 2022 i 2023, których wsparcie funkcjonowania w ramach tego konkursu zakończy się w okresie od dnia 1 października 2025 r. do dnia 30 czerwca 2026 r., oraz które tworzą ogólnopolską sieć branżowych centrów umiejętności, o której mowa w art. 8a ust. 7 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, dotyczy okresu od dnia 1 lipca 2026 r. do dnia 31 grudnia 2026 r.
 
 1. Do wniosków o włączenie dotychczasowych kwalifikacji rynkowych do Zintegrowanego Systemu Kwalifikacji, o których mowa w art. 14 ust. 1 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym, które do dnia 31 grudnia 2023 r.:
 
@@ -654,8 +1555,6 @@ source: "isap-pdf"
 
 8. W przypadku uznania dotychczasowej kwalifikacji rynkowej, włączonej do Zintegrowanego Systemu Kwalifikacji, o której mowa w ust. 1, za kwalifikację sektorową, o której mowa w art. 2 pkt 11b ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą, uprawnienie do certyfikowania dotychczasowej kwalifikacji rynkowej, o którym mowa w art. 41 ust. 1 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym, posiadane przez podmiot, o którym mowa w ust. 1, staje się uprawnieniem do certyfikowania kwalifikacji sektorowej uwzględnionej w obwieszczeniu, o którym mowa w ust. 7.
 
-**Art. 29.**
-
 1. Dotychczasowe kwalifikacje rynkowe, o których mowa w ustawie zmienianej w art. 9, w brzmieniu dotychczasowym, włączone do Zintegrowanego Systemu Kwalifikacji do dnia 31 grudnia 2023 r., stają się z dniem 1 stycznia 2024 r. kwalifikacjami wolnorynkowymi, o których mowa w art. 2 pkt 11 ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą.
 
 2. Uprawnienia do nadawania dotychczasowych kwalifikacji rynkowych, o których mowa w ust. 1, stają się uprawnieniami do nadawania kwalifikacji wolnorynkowych, o których mowa w art. 2 pkt 11 ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą.
@@ -697,8 +1596,6 @@ source: "isap-pdf"
 
 2. Uchwały organu stanowiącego jednostki samorządu terytorialnego podjęte przed dniem 1 października 2025 r. na podstawie art. 38 ust. 1 ustawy zmienianej w art. 10, w brzmieniu dotychczasowym, zachowują moc do dnia wejścia w życie uchwał podjętych na podstawie art. 38 ust. 1 ustawy zmienianej w art. 10, w brzmieniu nadanym niniejszą ustawą, jeżeli w dniu 1 października 2025 r. dana jednostka samorządu terytorialnego nie jest organem rejestrującym, o którym mowa w art. 2 pkt 16 ustawy zmienianej w art. 10, dla branżowego centrum umiejętności.
 
-**Art. 33a.** Przepis art. 33 ust. 1 pkt 2 ustawy zmienianej w art. 10, w brzmieniu nadanym niniejszą ustawą, stosuje się po raz pierwszy do dotacji na 2026 r.
-
 **Art. 34.** Niepubliczne placówki kształcenia ustawicznego i centra kształcenia zawodowego prowadzące w dniu wejścia w życie niniejszej ustawy kształcenie ustawiczne w formach pozaszkolnych dostosują swoją działalność do przepisów wydanych na podstawie art. 117 ust. 5 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, do dnia 31 sierpnia 2024 r.
 
 **Art. 35.**
@@ -716,5 +1613,17 @@ source: "isap-pdf"
 
 **Art. 37.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
+- **1)** art. 47 ust. 1 pkt 3 ustawy zmienianej w art. 1 zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 47 ust. 1 pkt 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie art. 1 pkt 9 niniejszej ustawy, oraz mogą być zmieniane na podstawie tych przepisów;
+- **2)** art. 118 ust. 9 ustawy zmienianej w art. 1 zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 118 ust. 9 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy;
+- **3)** art. 21 ust. 8 ustawy zmienianej w art. 9 zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 21 ust. 8 ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie art. 9 niniejszej ustawy.
+
 **Art. 38.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
+
+- **1)** art. 3 pkt 1, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 1 stycznia 2023 r.;
+- **2)** art. 9, art. 27–30 i art. 37 pkt 3, które wchodzą w życie z dniem 1 stycznia 2024 r.;
+- **3)** art. 1 pkt 9 i 20 oraz art. 37 pkt 1, które wchodzą w życie z dniem 1 września 2024 r.;
+- **4)** art. 4 pkt 1 i pkt 2 w zakresie art. 28 ust. 6 pkt 10 oraz art. 10 pkt 1 i pkt 2 w zakresie art. 29a ust. 2 i 3, pkt 3–9, pkt 10 lit. a i pkt 11, które wchodzą w życie z dniem 1 stycznia 2025 r.;
+- **5)** art. 12 pkt 1–3 oraz 5–13, które wchodzą w życie z dniem 1 stycznia 2026 r.;
+- **6)** art. 4 pkt 2 w zakresie art. 28 ust. 6 pkt 11 oraz art. 10 pkt 2 w zakresie art. 29a ust. 1 i pkt 10 lit. b, które wchodzą w życie z dniem 1 stycznia 2027 r.
+
 

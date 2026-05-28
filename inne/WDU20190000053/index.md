@@ -8,12 +8,10 @@ pos: 53
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o dokumentach publicznych
-
-*USTAWA z dnia 22 listopada 2018 r.*
+# Ustawa z dnia 22 listopada 2018 r. o dokumentach publicznych
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,9 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-11-22 |
 | Data wydania | 2019-01-11 |
+| Wejście w życie | 2019-07-12 |
 | Ostatnia zmiana | 2026-01-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000053) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/53/text.pdf) |
-
-Art. 59–71. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -44,24 +41,30 @@ Art. 59–71. (pominięte)
 1. Użyte w niniejszej ustawie określenia oznaczają:
 
 - **1)** blankiet dokumentu publicznego – niespersonalizowany lub niezindywidualizowany dokument publiczny;
-- **2)** dokument publiczny – dokument, który służy do identyfikacji osób, rzeczy lub potwierdza stan prawny lub prawa osób posługujących się takim dokumentem, zabezpieczony przed fałszerstwem i:
-    - **a)** wytwarzany według wzoru określonego w przepisach prawa powszechnie obowiązującego albo
-    - **b)** którego wzór graficzny i forma zostały zatwierdzone przez podmiot realizujący zadania publiczne uprawniony na podstawie odrębnych przepisów i który jest zgodny z wymogami dla blankietu tego dokumentu określonymi w przepisach prawa powszechnie obowiązującego;
+- **2)** dokument publiczny – dokument, który służy do identyfikacji osób, rzeczy lub potwierdza stan prawny lub prawa osób posługujących się takim dokumentem, zabezpieczony przed fałszerstwem i: wytwarzany według wzoru określonego w przepisach prawa powszechnie obowiązującego albo którego wzór graficzny i forma zostały zatwierdzone przez podmiot realizujący zadania publiczne uprawniony na podstawie odrębnych przepisów i który jest zgodny z wymogami dla blankietu tego dokumentu określonymi w przepisach prawa powszechnie obowiązującego;
+    - **a)**
+    - **b)**
 
-- **3)** emitent dokumentu publicznego – organ administracji publicznej:
-    - **a)** upoważniony na podstawie przepisów prawa powszechnie obowiązującego do określenia wzoru dokumentu publicznego lub właściwy do wprowadzenia do obrotu prawnego dokumentu publicznego, którego wzór został określony w przepisach prawa Unii Europejskiej lub prawa międzynarodowego,
-    - **b)** który określa w przepisach prawa powszechnie obowiązującego wymogi dla blankietu dokumentu publicznego, o którym mowa w pkt 2 lit. b, z tym że obowiązki określone w art. 14 i art. 34–39 wykonuje upoważniony na podstawie przepisów prawa powszechnie obowiązującego podmiot realizujący zadania publiczne, który zatwierdza wzór graficzny i formę tego dokumentu;
+- **3)** emitent dokumentu publicznego – organ administracji publicznej: upoważniony na podstawie przepisów prawa powszechnie obowiązującego do określenia wzoru dokumentu publicznego lub właściwy do wprowadzenia do obrotu prawnego dokumentu publicznego, którego wzór został określony w przepisach prawa Unii Europejskiej lub prawa międzynarodowego, który określa w przepisach prawa powszechnie obowiązującego: – wymogi dla blankietu dokumentu publicznego, o którym mowa w pkt 2 lit. b, z tym że obowiązki określone w art. 14 i art. 34–39 wykonuje upoważniony na podstawie przepisów prawa powszechnie obowiązującego podmiot realizujący zadania publiczne, który zatwierdza wzór graficzny i formę tego dokumentu, – wzory jednolitych blankietów dokumentów publicznych, o których mowa w art. 5 ust. 2 pkt 10–14;
+    - **a)**
+    - **b)**
 
 - **4)** indywidualizacja dokumentu publicznego – nadanie blankietowi dokumentu publicznego przez jego wytwórcę cech jednoznacznie wyróżniających go spośród blankietów dokumentów publicznych tego samego rodzaju;
-- **5)** personalizacja dokumentu publicznego – naniesienie przez uprawniony podmiot na blankiet dokumentu publicznego w warstwie graficznej lub elektronicznej danych osoby, rzeczy lub innych danych wymaganych dla danego dokumentu publicznego;
-- **6)** replika dokumentu publicznego – odwzorowanie lub kopię wielkości od 75 % do 120 % oryginału o cechach autentyczności dokumentu publicznego lub blankietu dokumentu publicznego, z wyłączeniem kserokopii lub wydruku komputerowego dokumentu publicznego wykonanych do celów urzędowych, służbowych lub zawodowych określonych na podstawie odrębnych przepisów lub na użytek osoby, dla której dokument publiczny został wydany;
-- **7)** (uchylony)
-- **8)** wzorzec dokumentu publicznego – wykonany na zlecenie emitenta dokumentu publicznego, spersonalizowany lub zindywidualizowany fikcyjnymi danymi, blankiet dokumentu publicznego z naniesionym w sposób trwały oznaczeniem „WZORZEC” oraz „SPECIMEN”;
+- **5)** personalizacja dokumentu publicznego – naniesienie na blankiet dokumentu publicznego danych osoby, rzeczy lub innych charakterystycznych elementów przez uprawniony podmiot;
+- **6)** replika dokumentu publicznego – odwzorowanie lub kopię wielkości od 75% do 120% oryginału o cechach autentyczności dokumentu publicznego lub blankietu dokumentu publicznego, z wyłączeniem kserokopii lub wydruku komputerowego dokumentu publicznego wykonanych do celów urzędowych, służbowych lub zawodowych określonych na podstawie odrębnych przepisów lub na użytek osoby, dla której dokument publiczny został wydany;
+- **7)** Spółka – jednoosobową spółkę Skarbu Państwa, której przedmiotem działalności jest wytwarzanie blankietów dokumentów i druków zabezpieczonych, mającą siedzibę oraz zakład produkcyjny, w którym są wytwarzane blankiety dokumentów publicznych, na terytorium Rzeczypospolitej Polskiej;
+- **8)** wzorzec dokumentu publicznego – wykonany na zlecenie emitenta dokumentu publicznego, spersonalizowany lub zindywidualizowany fikcyjnymi danymi, blankiet dokumentu publicznego z naniesionym w sposób trwały oznaczeniem „WZORZEC” oraz „SPECIMEN”, a w przypadku dokumentów publicznych, o których mowa w art. 5 ust. 2 pkt 10–14, blankiet dokumentu publicznego niespersonalizowany i niezindywidualizowany fikcyjnymi danymi;
 - **9)** wzór dokumentu publicznego – wzór blankietu dokumentu publicznego odzwierciedlający rzeczywisty wygląd tego dokumentu, w tym elementy graficzne i jawne zabezpieczenia przed fałszerstwem, określony w przepisach prawa powszechnie obowiązującego.
 
 2. Dokumentem publicznym jest jego odpis, wypis, duplikat i wtórnik.
 
-3. (uchylony)
+3. Dokumentami publicznymi są także:
+
+- **1)** tytuły wykonawcze wydawane przez sądy lub referendarzy sądowych,
+- **2)** odpisy prawomocnych orzeczeń sądów, z których wynika nabycie, istnienie lub wygaśnięcie prawa, albo które odnoszą się do stanu cywilnego,
+- **3)** odpisy orzeczeń lub zaświadczenia stwierdzające uprawnienie do: reprezentacji danej osoby, dokonania czynności prawnej bądź zarządu określonym majątkiem, wydawane przez sądy,
+- **4)** odpisy postanowień sądów i referendarzy sądowych w przedmiocie nadania klauzuli wykonalności tytułom egzekucyjnym innym niż wymienione w art. 777 § 1 pkt 1 i 11 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 1360, z późn. zm.), gdy ich przedmiotem są tytuły egzekucyjne niepochodzące od sądu,
+- **5)** wypisy, odpisy i wyciągi dokumentów obejmujących czynności notarialne, o których mowa w art. 79 pkt 1–1b i 4, poświadczenia, o których mowa w art. 79 pkt 2, oraz protesty, o których mowa w art. 79 pkt 5 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2017 r. poz. 2291, z późn. zm.) dla których stosuje się jednolite blankiety dokumentów publicznych.
 
 **Art. 3.**
 
@@ -91,55 +94,49 @@ Art. 59–71. (pominięte)
 
 - **1)** dowód osobisty;
 - **2)** dokumenty paszportowe;
-- **3)** książeczka żeglarska, o której mowa w art. 10 ust. 1 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. z 2023 r. poz. 2257);
-- **4)** dokumenty wydawane na podstawie art. 44 ust. 1 oraz art. 83 ust. 1 ustawy z dnia 28 listopada 2014 r. – Prawo o aktach stanu cywilnego (Dz. U. z 2023 r. poz. 1378 i 1615);
-- **5)** dokumenty wydawane cudzoziemcowi na podstawie art. 37 oraz art. 226 pkt 1‒ 3 i 5 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2024 r. poz. 769 i 1222);
+- **3)** książeczka żeglarska, o której mowa w art. 10 ust. 1 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. z 2018 r. poz. 616 i 2245);
+- **4)** dokumenty wydawane na podstawie art. 44 ust. 1 oraz art. 83 ust. 1 ustawy z dnia 28 listopada 2014 r. – Prawo o aktach stanu cywilnego (Dz. U. z 2018 r. poz. 2224);
+- **5)** dokumenty wydawane cudzoziemcowi na podstawie art. 37 oraz art. 226 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2018 r. poz. 2094 i 2399);
 - **6)** dokumenty wydawane członkom misji dyplomatycznych i urzędów konsularnych państw obcych oraz innym osobom zrównanym z nimi na podstawie ustaw, umów lub powszechnie ustalonych zwyczajów międzynarodowych, a także dokumenty wydawane członkom ich rodzin pozostającym z nimi we wspólnocie domowej na podstawie art. 61 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach;
-- **7)** dokument wydawany obywatelowi Unii Europejskiej na podstawie art. 48 ust. 1 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2024 r. poz.
-- **633)** ;
+- **7)** dokument wydawany obywatelowi Unii Europejskiej na podstawie art. 48 ust. 1 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2017 r. poz. 900 oraz z 2018 r. poz. 650);
 - **8)** dokumenty wydawane członkowi rodziny obywatela Unii Europejskiej na podstawie art. 30 ust. 1 oraz art. 48 ust. 2 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin;
-- **9)** dokumenty wydawane cudzoziemcowi na podstawie art. 89i ust. 1 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2023 r. poz. 1504 oraz z 2024 r. poz. 854);
-- **9a)** tymczasowe zaświadczenie tożsamości cudzoziemca wydawane przez Szefa Urzędu do Spraw Cudzoziemców;
-- **10)** (uchylony)
-- **11)** (uchylony)
-- **12)** (uchylony)
-- **13)** (uchylony)
-- **14)** (uchylony)
+- **9)** dokumenty wydawane cudzoziemcowi na podstawie art. 55 ust. 1 oraz art. 89i ust. 1 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2018 r. poz. 1109, 1669 i 2399);
+- **10)** tytuły wykonawcze wydawane przez sądy lub referendarzy sądowych;
+- **11)** odpisy prawomocnych orzeczeń sądów, z których wynika nabycie, istnienie lub wygaśnięcie prawa, albo które odnoszą się do stanu cywilnego;
+- **12)** odpisy orzeczeń lub zaświadczenia stwierdzające uprawnienie do: reprezentacji danej osoby, dokonania czynności prawnej bądź zarządu określonym majątkiem, wydawane przez sądy;
+- **13)** odpisy postanowień sądów i referendarzy sądowych w przedmiocie nadania klauzuli wykonalności tytułom egzekucyjnym innym niż wymienione w art. 777 § 1 pkt 1 i 11 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, gdy ich przedmiotem są tytuły egzekucyjne niepochodzące od sądu;
+- **14)** wypisy, odpisy i wyciągi dokumentów obejmujących czynności notarialne, o których mowa w art. 79 pkt 1–1b i 4, poświadczenia, o których mowa w art. 79 pkt 2, oraz protesty, o których mowa w art. 79 pkt 5 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie;
 - **15)** certyfikat członka załogi statku powietrznego;
-- **16)** książeczki wojskowe wydawane osobom objętym ewidencją wojskową na podstawie art. 53 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, 834, 1089, 1222 i 1248);
-- **17)** legitymacje służbowe wydawane na podstawie art. 224 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny;
-- **18)** (uchylony)
-- **19)** karty tożsamości wydawane na podstawie art. 78 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny;
-- **20)** wpis w paszporcie, o którym mowa w art. 14 ust. 1 ustawy z dnia 27 stycznia 2022 r. o dokumentach paszportowych (Dz. U. z 2024 r. poz. 1063);
+- **16)** wojskowe dokumenty osobiste wydawane osobom objętym ewidencją wojskową na podstawie art. 54 ust. 1 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2018 r. poz. 1459, 1669, 2182 i 2245);
+- **17)** wojskowe dokumenty osobiste wydawane na podstawie art. 48 ust. 1 ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2018 r. poz. 173 i 138);
+- **18)** karty tożsamości wydawane na podstawie art. 137c ust. 1 ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych;
+- **19)** karty tożsamości wydawane na podstawie art. 54a ust. 1 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej;
+- **20)** wpis w paszporcie, o którym mowa w art. 19 ust. 1 ustawy z dnia 13 lipca 2006 r. o dokumentach paszportowych (Dz. U. z 2018 r. poz. 1919);
 - **21)** naklejka wizowa;
 - **22)** Karta Polaka;
 - **23)** legitymacja dokumentująca niepełnosprawność lub stopień niepełnosprawności;
 - **24)** Prawo wykonywania zawodu lekarza;
 - **25)** Prawo wykonywania zawodu lekarza dentysty;
 - **26)** prawo jazdy;
-- **27)** profesjonalny dowód rejestracyjny oraz dowód rejestracyjny pojazdu, z wyłączeniem dowodów rejestracyjnych pojazdów, o których mowa w art. 73 ust. 3 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251);
-- **28)** (uchylony)
+- **27)** profesjonalny dowód rejestracyjny oraz dowód rejestracyjny pojazdu, z wyłączeniem dowodów rejestracyjnych pojazdów, o których mowa w art. 73 ust. 3 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2018 r. poz. 1990, 2244 i 2322);
+- **28)** karta pojazdu;
 - **29)** pozwolenie czasowe, o którym mowa w art. 71 ust. 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym;
-- **30)** karta do tachografu, o której mowa w art. 2 pkt 4 ustawy z dnia 5 lipca 2018 r. o tachografach (Dz. U. z 2024 r. poz. 1037);
-- **31)** zaświadczenie ADR, o którym mowa w art. 2 pkt 10 ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2024 r. poz. 643);
-- **31a)** dokument rejestracyjny, o którym mowa w art. 4 ust. 1 ustawy z dnia 12 kwietnia 2018 r. o rejestracji jachtów i innych jednostek pływających o długości do 24 m (Dz. U. z 2024 r. poz. 1536);
-- **32)** legitymacje służbowe:
-    - **a)** policjantów,
-    - **b)** funkcjonariuszy Straży Granicznej,
-    - **c)** funkcjonariuszy Służby Ochrony Państwa,
-    - **d)** funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego,
-    - **e)** funkcjonariuszy Agencji Wywiadu,
-    - **f)** funkcjonariuszy Centralnego Biura Antykorupcyjnego,
-    - **g)** funkcjonariuszy Służby Kontrwywiadu Wojskowego i żołnierzy zawodowych wyznaczonych na stanowiska służbowe w Służbie Kontrwywiadu Wojskowego,
-    - **h)** funkcjonariuszy Służby Wywiadu Wojskowego i żołnierzy zawodowych wyznaczonych na stanowiska służbowe w Służbie Wywiadu Wojskowego,
-    - **i)** funkcjonariuszy i pracowników Służby Więziennej,
-    - **j)** funkcjonariuszy Służby Celno-Skarbowej,
-    - **k)** osób zatrudnionych w jednostkach organizacyjnych Krajowej Administracji Skarbowej,
-    - **l)** inspektorów Inspekcji Transportu Drogowego,
-    - **m)** żołnierzy Żandarmerii Wojskowej,
-    - **n)** pracowników Urzędu Komisji Nadzoru Finansowego;
-
-- **33)** karta kwalifikacji kierowcy.
+- **30)** karta do tachografu, o której mowa w art. 2 pkt 4 ustawy z dnia 5 lipca 2018 r. o tachografach (Dz. U. poz. 1480);
+- **31)** zaświadczenie ADR, o którym mowa w art. 2 pkt 10 ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2018 r. poz. 169, 650, 1481 i 1629);
+- **32)** legitymacje służbowe: policjantów, funkcjonariuszy Straży Granicznej, funkcjonariuszy Służby Ochrony Państwa, funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, funkcjonariuszy Agencji Wywiadu, funkcjonariuszy Centralnego Biura Antykorupcyjnego, funkcjonariuszy Służby Kontrwywiadu Wojskowego i żołnierzy zawodowych wyznaczonych na stanowiska służbowe w Służbie Kontrwywiadu Wojskowego, funkcjonariuszy Służby Wywiadu Wojskowego i żołnierzy zawodowych wyznaczonych na stanowiska służbowe w Służbie Wywiadu Wojskowego, funkcjonariuszy i pracowników Służby Więziennej, funkcjonariuszy Służby Celno-Skarbowej, osób zatrudnionych w jednostkach organizacyjnych Krajowej Administracji Skarbowej, inspektorów Inspekcji Transportu Drogowego, żołnierzy Żandarmerii Wojskowej.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
+    - **k)**
+    - **l)**
+    - **m)**
 
 3. Dokumentami publicznymi kategorii drugiej są dokumenty istotne ze względu na bezpieczeństwo państwa, bezpieczeństwo obrotu gospodarczego i prawnego, w tym dotyczące broni, międzynarodowego przewozu towarów niebezpiecznych, potwierdzające wykształcenie wyższe i specjalistyczne oraz świadectwa dojrzałości, inne niż wymienione w ust. 2.
 
@@ -169,15 +166,13 @@ Art. 59–71. (pominięte)
 
 5. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wykaz minimalnych zabezpieczeń przed fałszerstwem wymaganych dla dokumentów publicznych poszczególnych kategorii, uwzględniając kategorie dokumentów publicznych, dla których są ustalone, materiały, z których te dokumenty są wykonane, funkcje, jakie pełnią, oraz możliwość weryfikacji autentyczności dokumentów publicznych w pierwszym, drugim i trzecim stopniu weryfikacji autentyczności.
 
-6. (uchylony)
-
-**Art. 7a.** Przepisu art. 7 nie stosuje się do papierowych kart tożsamości wydawanych w razie ogłoszenia mobilizacji i w czasie wojny.
+6. Przepisów ust. 1 i 3 oraz przepisów wydanych na podstawie ust. 5 nie stosuje się do dokumentów publicznych, o których mowa w art. 5 ust. 2 pkt 10–14.
 
 **Art. 8.** Emitent dokumentu publicznego, w uzgodnieniu z Komisją, może wprowadzić, poza minimalnymi zabezpieczeniami przed fałszerstwem wymaganymi dla dokumentów publicznych danej kategorii, dodatkowe zabezpieczenia przed fałszerstwem.
 
-**Art. 9.** (uchylony)
+**Art. 9.** Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, wzory jednolitych blankietów dokumentów publicznych, o których mowa w art. 5 ust. 2 pkt 10–13, wraz z wykazem minimalnych zabezpieczeń przed fałszerstwem tych dokumentów, uwzględniając ich znaczenie dla bezpieczeństwa państwa, zakres informacji umieszczanych na tych dokumentach, sposób ich sporządzania oraz potrzebę ujednolicenia poszczególnych rodzajów dokumentów.
 
-**Art. 10.** (uchylony)
+**Art. 10.** Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw wewnętrznych, po zasięgnięciu opinii Krajowej Rady Notarialnej, określi, w drodze rozporządzenia, wzór jednolitego blankietu dokumentów publicznych, o których mowa w art. 5 ust. 2 pkt 14, wraz z wykazem minimalnych zabezpieczeń przed fałszerstwem tych dokumentów, uwzględniając ich znaczenie dla bezpieczeństwa państwa, zakres informacji umieszczanych na tych dokumentach oraz sposób ich sporządzania.
 
 #### Rozdział 3 Zasady opracowywania wzoru dokumentu publicznego
 
@@ -191,7 +186,7 @@ Art. 59–71. (pominięte)
 
 4. Emitent dokumentu publicznego może, w szczególnie uzasadnionych przypadkach, zgłosić Komisji potrzebę określenia wzoru dokumentu publicznego w terminie krótszym niż wskazany w ust. 3.
 
-5. Przy opracowywaniu wzoru dokumentu publicznego, o którym mowa w art. 5 ust. 2, Komisja i emitent dokumentu publicznego współpracują z wytwórcą wyłącznym w zakresie ustalenia warunków technicznych i produkcyjnych.
+5. Przy opracowywaniu wzoru dokumentu publicznego, o którym mowa w art. 5 ust. 2, Komisja i emitent dokumentu publicznego współpracują ze Spółką w zakresie ustalenia warunków technicznych i produkcyjnych.
 
 **Art. 12.**
 
@@ -201,9 +196,7 @@ Art. 59–71. (pominięte)
 
 3. Przewodniczący Zespołu przedstawia Komisji do zatwierdzenia rekomendację, o której mowa w ust. 1 albo 2, uzgodnioną z organem, o którym mowa w art. 11 ust. 2, albo emitentem dokumentu publicznego.
 
-4. Komisja zatwierdza albo odrzuca rekomendację, o której mowa w ust. 1 albo
-
-2. W przypadku odrzucenia rekomendacji Komisja przekazuje wytyczne do jej zmiany.
+4. Komisja zatwierdza albo odrzuca rekomendację, o której mowa w ust. 1 albo 2. W przypadku odrzucenia rekomendacji Komisja przekazuje wytyczne do jej zmiany.
 
 **Art. 13.**
 
@@ -217,41 +210,36 @@ Art. 59–71. (pominięte)
 
 **Art. 15.** Przepisy niniejszego rozdziału stosuje się do:
 
+- **1)** opracowywania jednolitych blankietów dokumentów publicznych, o których mowa w art. 5 ust. 2 pkt 10–14;
+- **2)** wprowadzania dodatkowych zabezpieczeń dokumentów publicznych przed fałszerstwem.
+
 **Art. 16.** Przepisów niniejszego rozdziału nie stosuje się do dokumentów publicznych, których wzór oraz zakres wymaganych zabezpieczeń przed fałszerstwem został określony w przepisach prawa Unii Europejskiej lub prawa międzynarodowego.
 
 #### Rozdział 4 Wytwarzanie blankietów dokumentów publicznych
 
-**Art. 16a.**
-
-1. W celu zagwarantowania bezpieczeństwa państwa oraz porządku publicznego, w tym objęcia procesu wytwarzania lub personalizacji dokumentów publicznych nadzorem krajowej władzy bezpieczeństwa, a także ochrony informacji dotyczących współdziałania systemów niezbędnych do wytworzenia dokumentów publicznych z systemami, rejestrami i ewidencjami państwowymi, Polskiej Wytwórni Papierów Wartościowych Spółce Akcyjnej z siedzibą w Warszawie, zwanej dalej „wytwórcą wyłącznym”, powierza się prawo wyłączne określone w art. 17 w zakresie niektórych dokumentów publicznych wymienionych w art. 5 ust. 2.
-
-2. Rada Ministrów określi, w drodze rozporządzenia, wykaz dokumentów publicznych, do których wytwarzania, indywidualizacji lub personalizacji prawo wyłączne, określone w art. 17, powierza się wytwórcy wyłącznemu, oraz zakres tego powierzenia, uwzględniając kryteria określone w ust. 1.
-
 **Art. 17.**
 
-1. Prawo wyłączne obejmuje wytwarzanie blankietów dokumentów publicznych, o których mowa w art. 5 ust. 2 pkt 16, 17, 19 i 32 lit. a–e, g, h oraz m, lub blankietów dokumentów publicznych określonych w przepisach wydanych na podstawie art. 16a ust. 2. Prawo wyłączne może obejmować również indywidualizację lub personalizację dokumentów publicznych, o ile następują w procesie wytwarzania blankietów dokumentów publicznych.
+1. Blankiety dokumentów publicznych, o których mowa w art. 5 ust. 2, wytwarza Spółka.
 
-2. Wytwórca wyłączny jest obowiązany posiadać aktualny, certyfikowany i nadzorowany przez niezależną jednostkę certyfikującą system zarządzania bezpieczeństwem potwierdzony aktualnym certyfikatem zgodności z normą ISO
+2. Spółka jest obowiązana posiadać aktualny, certyfikowany i nadzorowany przez niezależną jednostkę certyfikującą system zarządzania bezpieczeństwem potwierdzony certyfikatem zgodności z normą ISO 14298:2013.
 
-14298.
+3. Spółka jest obowiązana do ochrony informacji niejawnych oznaczonych klauzulą „tajne”, o której mowa w ustawie z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2018 r. poz. 412, 650, 1000, 1083 i 1669), oraz informacji niejawnych międzynarodowych o klauzuli „Secret UE/EU Secret”.
 
-3. Wytwórca wyłączny jest obowiązany posiadać świadectwo bezpieczeństwa przemysłowego potwierdzające zdolność do zapewnienia ochrony informacji niejawnych oznaczonych klauzulą „tajne” lub wyższą oraz odrębne świadectwo potwierdzające zdolność do ochrony informacji niejawnych o klauzuli stanowiącej zagraniczny odpowiednik klauzuli „tajne”.
+4. Blankiety dokumentów publicznych, o których mowa w art. 5 ust. 2 pkt 32, mogą być wytwarzane przez Agencję Bezpieczeństwa Wewnętrznego.
 
-4. Wytwórca wyłączny wytwarza blankiety dokumentów publicznych odpłatnie.
+5. Spółka wytwarza blankiety dokumentów publicznych odpłatnie.
 
-5. Cena wytworzenia blankietów dokumentów publicznych wymienionych w ust. 1 jest ustalana w umowie zawieranej między emitentem dokumentu publicznego a wytwórcą wyłącznym, z uwzględnieniem zasad handlowych i interesu publicznego.
+6. Cena wytworzenia blankietów dokumentów publicznych, o których mowa w art. 5 ust. 2, jest ustalana w umowie zawieranej między emitentem dokumentu publicznego a Spółką, z uwzględnieniem zasad handlowych i interesu publicznego, z tym że cena wytworzenia blankietu dokumentów publicznych, o których mowa w art. 5 ust. 2 pkt 14, jest ustalana w umowie zawieranej między Krajową Radą Notarialną a Spółką.
 
-6. Blankiety dokumentów publicznych, o których mowa w art. 5 ust. 2 pkt 32, mogą być wytwarzane przez Agencję Bezpieczeństwa Wewnętrznego, mając na względzie konieczność zagwarantowania bezpieczeństwa państwa i ochronę danych osobowych funkcjonariuszy.
-
-**Art. 18.** Blankiety dokumentów publicznych, o których mowa w art. 5 ust. 3 i 4, są wytwarzane przez wytwórcę wyłącznego albo inne podmioty, których przedmiotem działalności jest wytwarzanie blankietów dokumentów i druków zabezpieczonych, które spełniają wymagania dotyczące bezpieczeństwa wytwarzania blankietów dokumentów publicznych określone w art. 19 i w przepisach wydanych na podstawie art. 21, a w przypadku wykonywania umowy wymagającej dostępu do informacji niejawnych o klauzuli „poufne” lub wyższej posiadają odpowiednie świadectwo bezpieczeństwa przemysłowego.
+**Art. 18.** Blankiety dokumentów publicznych, o których mowa w art. 5 ust. 3 i 4, są wytwarzane przez Spółkę albo inne podmioty, których przedmiotem działalności jest wytwarzanie blankietów dokumentów i druków zabezpieczonych, które spełniają wymagania dotyczące bezpieczeństwa wytwarzania blankietów dokumentów publicznych określone w art. 19 i w przepisach wydanych na podstawie art. 21, a w przypadku wykonywania umowy wymagającej dostępu do informacji niejawnych o klauzuli „poufne” lub wyższej posiadają odpowiednie świadectwo bezpieczeństwa przemysłowego.
 
 **Art. 19.**
 
-1. Przy wytwarzaniu blankietów dokumentów publicznych u wytwórcy wyłącznego oraz w innych podmiotach, o których mowa w art. 18, zatrudnia się osoby, które nie były skazane za przestępstwo umyślne przeciwko wiarygodności dokumentów, obrotowi gospodarczemu i bezpieczeństwu powszechnemu.
+1. Przy wytwarzaniu blankietów dokumentów publicznych w Spółce oraz innych podmiotach, o których mowa w art. 18, zatrudnia się osoby, które nie były skazane za przestępstwo umyślne przeciwko wiarygodności dokumentów, obrotowi gospodarczemu i bezpieczeństwu powszechnemu.
 
 2. Osoba ubiegająca się o zatrudnienie składa oświadczenie o niekaralności w zakresie, o którym mowa w ust. 1. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń. Pracownicy składają oświadczenia raz na trzy lata.
 
-3. Wytwórca wyłączny oraz inne podmioty, o których mowa w art. 18, dysponują potencjałem technicznym i technologicznym, który umożliwia realizację zleceń oraz zapewnia bezpieczeństwo wytwarzania blankietów dokumentów publicznych, w tym:
+3. Spółka oraz inne podmioty, o których mowa w art. 18, dysponują potencjałem technicznym i technologicznym, który umożliwia realizację zleceń oraz zapewnia bezpieczeństwo wytwarzania blankietów dokumentów publicznych, w tym:
 
 - **1)** bezpieczeństwo dokumentacji technicznej;
 - **2)** ewidencjonowanie i rozliczanie materiałów i innych elementów używanych do wytwarzania blankietów dokumentów publicznych, półproduktów oraz blankietów dokumentów publicznych na poszczególnych etapach procesu wytwarzania;
@@ -264,9 +252,13 @@ Art. 59–71. (pominięte)
 - **9)** prowadzenie ewidencji pracowników zatrudnionych przy wytwarzaniu blankietów dokumentów publicznych;
 - **10)** szkolenia pracowników zatrudnionych przy wytwarzaniu blankietów dokumentów publicznych w zakresie wymagań związanych z bezpieczeństwem wytwarzania tych blankietów.
 
-4. Podmioty inne niż wytwórca wyłączny, o których mowa w art. 18, opracowują wewnętrzne zasady bezpieczeństwa wytwarzania blankietów dokumentów publicznych i prowadzą dokumentację potwierdzającą stosowanie tych zasad. Na żądanie Ministra lub emitenta dokumentu publicznego podmioty te przedstawiają tę dokumentację.
+4. Podmioty inne niż Spółka, o których mowa w art. 18, opracowują wewnętrzne zasady bezpieczeństwa wytwarzania blankietów dokumentów publicznych i prowadzą dokumentację potwierdzającą stosowanie tych zasad. Na żądanie Ministra lub emitenta dokumentu publicznego podmioty te przedstawiają tę dokumentację.
 
-**Art. 20.** Wytwórca wyłączny oraz inne podmioty, o których mowa w art. 18, współdziałają z:
+**Art. 20.** Spółka oraz inne podmioty, o których mowa w art. 18, współdziałają z:
+
+- **1)** Szefem Agencji Bezpieczeństwa Wewnętrznego w zakresie sporządzania dokumentów, o których mowa w art. 35 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2018 r. poz. 2387, 2245 i 2399);
+- **2)** Szefem Służby Wywiadu Wojskowego w zakresie sporządzania dokumentów, o których mowa w art. 39 ust. 4 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2017 r. poz. 1978 i 2405 oraz z 2018 r. poz. 650, 1544, 1669 i 2399);
+- **3)** organami, służbami i instytucjami państwowymi, o których mowa w art. 35 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, w zakresie sporządzania dokumentów.
 
 **Art. 21.** Minister właściwy do spraw wewnętrznych po zasięgnięciu opinii Szefa Agencji Bezpieczeństwa Wewnętrznego określi, w drodze rozporządzenia, szczegółowe wymagania w zakresie bezpieczeństwa wytwarzania blankietów dokumentów publicznych, o których mowa w art. 5 ust. 3 i 4, w tym szczegółowe wewnętrzne zasady bezpieczeństwa wytwarzania blankietów dokumentów publicznych, mając na uwadze potrzebę ochrony materiałów i innych elementów używanych do wytwarzania blankietów dokumentów publicznych, półproduktów oraz wytworzonych blankietów dokumentów publicznych przed dostępem osób nieuprawnionych i utratą, a także konieczność prowadzenia przejrzystej ewidencji materiałów i innych elementów używanych do wytwarzania blankietów dokumentów publicznych, półproduktów i blankietów dokumentów publicznych na poszczególnych etapach procesu wytwarzania oraz ewidencji dostępu do pomieszczeń, w których są wytwarzane i przechowywane blankiety dokumentów publicznych, materiały i inne elementy używane do wytwarzania blankietów dokumentów publicznych oraz półprodukty.
 
@@ -276,10 +268,10 @@ Art. 59–71. (pominięte)
 
 1. Minister i Szef Agencji Bezpieczeństwa Wewnętrznego wspólnie przeprowadzają kontrolę:
 
-- **1)** wytwórcy wyłącznego w zakresie posiadania systemu zarządzania bezpieczeństwem potwierdzonego certyfikatem zgodności z normą ISO 14298;
-- **2)** podmiotów, o których mowa w art. 18, innych niż wytwórca wyłączny w zakresie, o którym mowa w art. 19, oraz w zakresie spełniania przez te podmioty warunków określonych w przepisach wydanych na podstawie art. 21.
+- **1)** wytwórcy blankietów dokumentów publicznych, o którym mowa w art. 17 ust. 1, w zakresie posiadania systemu zarządzania bezpieczeństwem potwierdzonego certyfikatem zgodności z normą ISO 14298:2013 oraz w zakresie spełniania warunku wytwarzania blankietów dokumentów publicznych w zakładzie produkcyjnym na terytorium Rzeczypospolitej Polskiej;
+- **2)** podmiotów, o których mowa w art. 18, innych niż Spółka w zakresie, o którym mowa w art. 19, oraz w zakresie spełniania przez te podmioty warunków określonych w przepisach wydanych na podstawie art. 21.
 
-2. Do kontroli, o której mowa w ust. 1, w zakresie nieuregulowanym w niniejszej ustawie stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236 i 1222).
+2. Do kontroli, o której mowa w ust. 1, w zakresie nieuregulowanym w niniejszej ustawie stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. poz. 646, 1479, 1629, 1633 i 2212).
 
 3. Zadania organu kontroli wynikające z ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców wykonuje Minister.
 
@@ -362,13 +354,13 @@ Art. 59–71. (pominięte)
 
 **Art. 34.**
 
-1. Emitent dokumentu publicznego, najpóźniej w dniu wejścia w życie przepisu określającego wzór dokumentu publicznego, zamieszcza na swojej stronie internetowej pliki graficzne i dane dotyczące dokumentu publicznego, o których mowa w art. 46 ust. 2 pkt 1–3.
+1. Emitent dokumentu publicznego, najpóźniej w dniu wejścia w życie przepisu określającego wzór dokumentu publicznego, a w przypadku dokumentów, o których mowa w art. 5 ust. 2 pkt 10–14, wzór jednolitego blankietu dokumentów publicznych, zamieszcza na swojej stronie internetowej pliki graficzne i dane dotyczące dokumentu publicznego, o których mowa w art. 46 ust. 2 pkt 1–3.
 
-2. Emitent dokumentu publicznego przekazuje Ministrowi, drogą elektroniczną, dane, o których mowa w art. 46 ust. 2 pkt 1, pkt 2 lit. a–c, pkt 3 i 5, oraz, na zabezpieczonym informatycznym nośniku danych, dane, o których mowa w art. 46 ust. 2 pkt 4, w terminie, o którym mowa w ust. 1.
+2. Emitent dokumentu publicznego przekazuje Ministrowi, drogą elektroniczną, dane, o których mowa w art. 46 ust. 2 pkt 1, pkt 2 lit. a-c, pkt 3 i 5, oraz, na zabezpieczonym informatycznym nośniku danych, dane, o których mowa w art. 46 ust. 2 pkt 4, w terminie, o którym mowa w ust. 1.
 
 3. Emitent dokumentu publicznego przekazuje Ministrowi informację, o której mowa w art. 46 ust. 2 pkt 2 lit. d, najpóźniej w dniu zakończenia wydawania dokumentu publicznego danego wzoru.
 
-**Art. 35.** Emitent dokumentu publicznego, o którym mowa w art. 5 ust. 2 i 3, przekazuje wzorzec tego dokumentu Komendantowi Głównemu Policji, Komendantowi Głównemu Straży Granicznej, Szefowi Agencji Bezpieczeństwa Wewnętrznego, Szefowi Centralnego Biura Antykorupcyjnego oraz Ministrowi, najpóźniej w dniu wejścia w życie przepisu określającego wzór tego dokumentu publicznego.
+**Art. 35.** Emitent dokumentu publicznego, o którym mowa w art. 5 ust. 2 i 3, przekazuje wzorzec tego dokumentu Komendantowi Głównemu Policji, Komendantowi Głównemu Straży Granicznej, Szefowi Agencji Bezpieczeństwa Wewnętrznego, Szefowi Centralnego Biura Antykorupcyjnego oraz Ministrowi, najpóźniej w dniu wejścia w życie przepisu określającego wzór tego dokumentu publicznego, a w przypadku dokumentów, o których mowa w art. 5 ust. 2 pkt 10–14, wzór jednolitego blankietu dokumentu publicznego.
 
 **Art. 36.**
 
@@ -383,6 +375,10 @@ Art. 59–71. (pominięte)
 **Art. 37.** Emitent dokumentu publicznego przekazuje Ministrowi dokument publiczny zwrócony przez posiadacza tego dokumentu wskazującego na jego uszkodzenie w wyniku wady technicznej, celem dokonania oceny jakości tego dokumentu.
 
 **Art. 38.** Emitent dokumentu publicznego współdziała z:
+
+- **1)** Szefem Agencji Bezpieczeństwa Wewnętrznego w zakresie sporządzania dokumentów, o których mowa w art. 35 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu;
+- **2)** Szefem Służby Wywiadu Wojskowego w zakresie sporządzania dokumentów, o których mowa w art. 39 ust. 4 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego;
+- **3)** organami, służbami i instytucjami państwowymi, o których mowa w art. 35 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, w zakresie sporządzania dokumentów.
 
 **Art. 39.**
 
@@ -449,20 +445,20 @@ Art. 59–71. (pominięte)
 2. W Rejestrze gromadzi się:
 
 - **1)** pliki graficzne zawierające widok ogólny wzorca dokumentu publicznego oraz jego elementy charakterystyczne;
-- **2)** opis dokumentu publicznego zawierający w szczególności:
-    - **a)** datę wprowadzenia wzoru do obrotu prawnego,
-    - **b)** datę rozpoczęcia wydawania dokumentu publicznego danego wzoru,
-    - **c)** okres ważności dokumentu publicznego,
-    - **d)** datę zakończenia wydawania dokumentu danego wzoru;
+- **2)** opis dokumentu publicznego zawierający w szczególności: datę wprowadzenia wzoru do obrotu prawnego, datę rozpoczęcia wydawania dokumentu publicznego danego wzoru, okres ważności dokumentu publicznego, datę zakończenia wydawania dokumentu danego wzoru;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **3)** pliki graficzne obrazujące elementy zabezpieczeń przed fałszerstwem przeznaczone do weryfikacji autentyczności dokumentu publicznego pierwszego i drugiego stopnia, wraz z opisem sposobu dokonywania tej weryfikacji;
 - **4)** nazwy zabezpieczeń przed fałszerstwem przeznaczonych do dokonywania weryfikacji autentyczności dokumentu publicznego trzeciego stopnia, z wyłączeniem informacji niejawnych, o których mowa w ustawie z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych;
 - **5)** informacje dotyczące wytwórcy lub wytwórców dokumentów publicznych, wielkości ich nakładu oraz wykazu oznaczeń indywidualnych dokumentów publicznych;
-- **6)** informacje o przypadkach fałszerstw dokumentów publicznych dotyczące:
-    - **a)** oznaczenia sprawy i organu ją prowadzącego,
-    - **b)** miejsca i daty ujawnienia sfałszowanego dokumentu, w tym nazwę miejscowości, w której nastąpiło ujawnienie, ze wskazaniem powiatu i województwa,
-    - **c)** ujawnionych ośrodków fałszerskich,
-    - **d)** rodzaju sfałszowanego dokumentu publicznego, jego cech charakterystycznych i liczby sfałszowanych dokumentów publicznych.
+- **6)** informacje o przypadkach fałszerstw dokumentów publicznych dotyczące: oznaczenia sprawy i organu ją prowadzącego, miejsca i daty ujawnienia sfałszowanego dokumentu, w tym nazwę miejscowości, w której nastąpiło ujawnienie, ze wskazaniem powiatu i województwa, ujawnionych ośrodków fałszerskich, rodzaju sfałszowanego dokumentu publicznego, jego cech charakterystycznych i liczby sfałszowanych dokumentów publicznych.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 3. W Rejestrze mogą być gromadzone skany cech charakterystycznych sfałszowanych dokumentów publicznych oraz opisy dokonanych fałszerstw.
 
@@ -484,7 +480,7 @@ Art. 59–71. (pominięte)
 
 4. Szef Agencji Bezpieczeństwa Wewnętrznego może odstąpić od sporządzenia uzasadnienia opinii, o której mowa w ust. 3, w części lub w całości, jeżeli wymagają tego względy bezpieczeństwa państwa.
 
-5. Minister może wyrazić zgodę na udostępnienie danych i informacji, o których mowa w art. 46 ust. 2 pkt 6 lit. d oraz ust. 3, na uzasadniony wniosek wytwórcy wyłącznego.
+5. Minister może wyrazić zgodę na udostępnienie danych i informacji, o których mowa w art. 46 ust. 2 pkt 6 lit. d oraz ust. 3, na uzasadniony wniosek Spółki.
 
 #### Rozdział 9 Komisja
 
@@ -564,6 +560,152 @@ Art. 59–71. (pominięte)
 
 #### Rozdział 11 Zmiany w przepisach
 
+**Art. 59.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067, z późn. zm.) w art. 20a ust. 2 otrzymuje brzmienie. „ 2. Przy wykonywaniu czynności operacyjno-rozpoznawczych policjanci mogą posługiwać się dokumentami publicznymi w rozumieniu ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2019 r. poz. 53) lub innymi dokumentami, które uniemożliwiają ustalenie danych identyfikujących policjanta oraz środków, którymi posługuje się przy wykonywaniu zadań służbowych. ” .
+
+**Art. 60.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2017 r. poz. 2365, z późn. zm.) w art. 9c ust. 2 otrzymuje brzmienie: „ 2. Przy wykonywaniu czynności operacyjno-rozpoznawczych funkcjonariusze mogą posługiwać się dokumentami publicznymi w rozumieniu ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2019 r. poz. 53) lub innymi dokumentami, które uniemożliwiają ustalenie danych identyfikujących funkcjonariusza Straży Granicznej oraz środków, którymi posługuje się przy wykonywaniu zadań służbowych. ” .
+
+**Art. 61.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2018 r. poz. 1990, 2244 i 2322) wprowadza się następujące zmiany:
+
+- **1)** w art. 75a w ust. 1 wyrazy „art. 75aa-75d” zastąpić wyrazami „art. 75aa-75c”;
+- **2)** uchyla się art. 75d.
+
+**Art. 62.** W ustawie z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2018 r. poz. 430, 650, 1544 i 2399) w art. 40 ust. 2 otrzymuje brzmienie: „ 2. Wykonując czynności operacyjno-rozpoznawcze, żołnierze Żandarmerii Wojskowej mogą posługiwać się dokumentami publicznymi w rozumieniu ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2019 r. poz. 53) lub innymi dokumentami, które uniemożliwiają ustalenie danych pozwalających na identyfikację oraz środków, którymi posługują się, wykonując te czynności. ” .
+
+**Art. 63.** W ustawie z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2018 r. poz. 2387, 2245 i 2399) w art. 35:
+
+- **1)** ust. 2 otrzymuje brzmienie: „
+
+2. Przy wykonywaniu czynności operacyjno-rozpoznawczych funkcjonariusze Agencji mogą posługiwać się dokumentami publicznymi w rozumieniu ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2019 r. poz. 53) lub innymi dokumentami, które uniemożliwiają ustalenie danych identyfikujących funkcjonariusza oraz środków, którymi posługuje się przy wykonywaniu zadań służbowych. ” ;
+
+- **2)** ust. 4 otrzymuje brzmienie: „
+
+4. ABW, z zastrzeżeniem ust. 5, na wniosek upoważnionych organów, służb i instytucji państwowych, sporządza i wydaje dokumenty uniemożliwiające ustalenie danych identyfikujących funkcjonariuszy i pracowników tych organów, służb lub instytucji oraz osób udzielających im pomocy przy wykonywaniu czynności operacyjno-rozpoznawczych oraz środków, którymi posługują się przy wykonywaniu zadań służbowych, a także prowadzi centralny rejestr tych dokumentów. ” ;
+
+- **3)** po ust. 4 dodaje się ust. 4a w brzmieniu: „
+
+4a. Przy sporządzaniu i wydawaniu dokumentów, o których mowa w ust. 2 i 4, ABW może dokonywać zmiany danych i informacji zgromadzonych w rejestrach publicznych i ewidencjach prowadzonych przez organy administracji publicznej, służących uprawdopodobnieniu danych i informacji zawartych w tych dokumentach. ” ;
+
+- **4)** po ust. 5 dodaje się ust. 5a w brzmieniu: „
+
+5a. Przy sporządzaniu i wydawaniu dokumentów, o których mowa w ust. 2 i 4, Szef ABW może korzystać z pomocy emitenta dokumentu publicznego, o którym mowa w art. 2 ust. 1 pkt 3 ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych, Spółki, o której mowa w art. 17 ust. 1 tej ustawy, i podmiotów, o których mowa w art. 18 tej ustawy, innych niż Spółka. ” .
+
+**Art. 64.** W ustawie z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2018 r. poz. 1986 i 2215) wprowadza się następujące zmiany:
+
+- **1)** w art. 4 pkt 5c otrzymuje brzmienie: „
+- **5c)** zamówień dotyczących wytwarzania: blankietów dokumentów publicznych, o których mowa w art. 5 ust. 2 ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2019 r. poz. 53), oraz ich personalizacji lub indywidualizacji, znaków akcyzy, znaków legalizacyjnych i nalepek kontrolnych, o których mowa w ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2018 r. poz. 1990, 2244 i 2322 oraz z 2019 r. poz. 53), kart do głosowania, o których mowa w art. 40 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2018 r. poz. 754, 1000 i 1349) oraz w art. 20 ustawy z dnia 14 marca 2003 r. o referendum ogólnokrajowym (Dz. U. z 2015 r. poz. 318 oraz z 2017 r. poz. 850 i 1579), znaków holograficznych umieszczanych na zaświadczeniach o prawie do głosowania, o których mowa w art. 32 § 1 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy, układu mikroprocesorowego z oprogramowaniem służącym do zarządzania dokumentami publicznymi, systemów i baz informatycznych niezbędnych do zastosowania dokumentów publicznych, o których mowa w art. 5 ust. 2 ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych, zawierających warstwę elektroniczną, zgodnie z ich przeznaczeniem; ” ;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+
+- **2)** uchyla się art. 4aa.
+
+**Art. 65.** W ustawie z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2018 r. poz. 2104 i 2399) w art. 24 ust. 2 otrzymuje brzmienie: „ 2. Przy wykonywaniu czynności operacyjno-rozpoznawczych funkcjonariusze CBA mogą posługiwać się dokumentami publicznymi w rozumieniu ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2019 r. poz. 53) lub innymi dokumentami, które uniemożliwiają ustalenie danych identyfikujących funkcjonariusza oraz środków, którymi posługuje się przy wykonywaniu zadań służbowych. ” .
+
+**Art. 66.** W ustawie z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2017 r. poz. 1978 i 2405 oraz z 2018 r. poz. 650, 1544, 1669 i 2399) w art. 39:
+
+- **1)** ust. 2 otrzymuje brzmienie: „
+
+2. Przy wykonywaniu czynności operacyjno-rozpoznawczych funkcjonariusze SKW i SWW mogą posługiwać się dokumentami publicznymi w rozumieniu ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2019 r. poz. 53) lub innymi dokumentami, które uniemożliwiają ustalenie danych identyfikujących funkcjonariusza oraz środków, którymi posługuje się przy wykonywaniu zadań służbowych. ” ;
+
+- **2)** ust. 4 otrzymuje brzmienie: „
+
+4. SWW, na potrzeby uprawnionych organów, służb i instytucji państwowych, sporządza i wydaje dokumenty publiczne, o których mowa w art. 5 ust. 2 pkt 16–20 oraz pkt 32 lit. g i h ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych, i inne dokumenty wojskowe oraz dokumenty SKW i SWW, uniemożliwiające ustalenie danych identyfikujących żołnierzy, funkcjonariuszy albo pracowników tych organów, służb i instytucji, osób udzielających im pomocy przy wykonywaniu czynności operacyjno-rozpoznawczych oraz środków, którymi posługują się przy wykonywaniu zadań służbowych, a także prowadzi rejestr tych dokumentów. Sporządzanie i wydawanie dokumentów na potrzeby organów, służb i instytucji innych niż SWW następuje na ich wniosek. ” ;
+
+- **3)** po ust. 4a dodaje się ust. 4b i 4c w brzmieniu: „
+
+4b. Przy sporządzaniu i wydawaniu dokumentów, o których mowa w ust. 4, SWW może dokonywać zmiany danych i informacji zgromadzonych w rejestrach publicznych i ewidencjach prowadzonych przez organy administracji publicznej, służących uprawdopodobnieniu danych i informacji zawartych w tych dokumentach.
+
+4c. Przy sporządzaniu i wydawaniu dokumentów, o których mowa w ust. 4, Szef SWW może korzystać z pomocy emitenta dokumentu publicznego, o którym mowa w art. 2 ust. 1 pkt 3 ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych, Spółki, o której mowa w art. 17 ust. 1 tej ustawy, i podmiotów, o których mowa w art. 18 tej ustawy, innych niż Spółka. ” .
+
+**Art. 67.** W ustawie z dnia 6 sierpnia 2010 r. o dowodach osobistych (Dz. U. z 2017 r. poz. 1464 oraz z 2018 r. poz. 730) wprowadza się następujące zmiany:
+
+- **1)** w art. 46: w ust. 1 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 5a w brzmieniu: „
+    - **a)**
+
+- **5a)** przedstawienia przez posiadacza dowodu osobistego organowi gminy potwierdzenia złożenia organowi uprawnionemu do prowadzenia dochodzeń zawiadomienia o podejrzeniu nieuprawnionego wykorzystania danych osobowych posiadacza dowodu osobistego, w tym serii i numeru dowodu osobistego, albo przedstawienia dokumentu potwierdzającego wszczęcie z urzędu czynności przez ten organ, albo przedstawienia decyzji Prezesa Urzędu Ochrony Danych Osobowych stwierdzającej naruszenie przepisów o ochronie danych w zakresie bezpieczeństwa danych osobowych posiadacza dowodu osobistego, w tym serii i numeru dowodu osobistego. ” , w ust. 2 pkt 2 otrzymuje brzmienie: „
+    - **b)**
+
+- **2)** niezwłocznie – w przypadkach, o których mowa w ust. 1 pkt 2–4 i 5a. ” ;
+- **2)** w art. 47: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Posiadacz dowodu osobistego, którego dowód osobisty został utracony lub uszkodzony, zgłasza niezwłocznie, osobiście ten fakt organowi dowolnej gminy, a posiadacz dowodu osobistego przebywający poza terytorium Rzeczypospolitej Polskiej – dowolnemu konsulowi Rzeczypospolitej Polskiej. ” , ust. 3 otrzymuje brzmienie: „
+
+- **b)**
+
+3. Zgłoszenia utraty lub uszkodzenia dowodu osobistego konsulowi Rzeczypospolitej Polskiej można również dokonać w formie pisemnej za pomocą poczty lub telefaksu. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
+
+- **c)**
+
+4a. Zgłoszenia utraty lub uszkodzenia dowodu osobistego może dokonać pełnomocnik legitymujący się pełnomocnictwem szczególnym do dokonania zgłoszenia. ” , ust. 5 otrzymuje brzmienie: „
+
+- **d)**
+
+5. Posiadaczowi dowodu osobistego, który dokonał osobistego zgłoszenia organowi gminy lub konsulowi Rzeczypospolitej Polskiej utraty lub uszkodzenia dowodu osobistego, wydaje się zaświadczenie o utracie lub uszkodzeniu dowodu osobistego. ” ;
+
+- **3)** po art. 48 dodaje się art. 48a w brzmieniu: „
+
+1. W przypadku zawiadomienia organu uprawnionego do prowadzenia dochodzeń albo wszczęcia przez ten organ z urzędu czynności dotyczących nieuprawnionego wykorzystania danych osobowych posiadacza dowodu osobistego, albo wydania decyzji, o której mowa w art. 46 ust. 1 pkt 5a, posiadacz dowodu osobistego może zgłosić osobiście ten fakt organowi dowolnej gminy w celu unieważnienia posiadanego dowodu osobistego.
+
+2. Zgłoszenia, o którym mowa w ust. 1, dokonuje się na formularzu zgłoszenia nieuprawnionego wykorzystania danych osobowych.
+
+3. Przepisy art. 47 ust. 2, 4 i 4a stosuje się odpowiednio.
+
+4. Formularz, o którym mowa w ust. 2, zawiera:
+
+- **1)** dane, o których mowa w art. 28 pkt 1–6, oraz dane, o których mowa w art. 12 pkt 2 lit. a i b;
+- **2)** własnoręczny czytelny podpis zgłaszającego, a w przypadku formularza złożonego w formie dokumentu elektronicznego – kwalifikowany podpis elektroniczny lub podpis potwierdzony profilem zaufanym ePUAP.
+
+5. Składając formularz, o którym mowa w ust. 2, przedstawia się potwierdzenie złożenia organowi uprawnionemu do prowadzenia dochodzeń zawiadomienia o podejrzeniu nieuprawnionego wykorzystania danych osobowych zgłaszającego, w tym serii i numeru dowodu osobistego, dokument potwierdzający wszczęcie z urzędu czynności przez ten organ albo decyzję Prezesa Urzędu Ochrony Danych Osobowych stwierdzającą naruszenie przepisów o ochronie danych w zakresie bezpieczeństwa danych osobowych posiadacza dowodu osobistego, w tym serii i numeru dowodu osobistego. ” ;
+
+- **4)** w art. 49 dodaje się ust. 4–6 w brzmieniu: „
+
+4. Posiadacz dowodu osobistego zgłoszonego jako utracony w przypadku jego odnalezienia jest obowiązany niezwłocznie przekazać go organowi dowolnej gminy lub konsulowi Rzeczypospolitej Polskiej.
+
+5. Funkcjonariusz publiczny w przypadku stwierdzenia, że dowód osobisty okazany przez jego posiadacza został zgłoszony jako utracony, jest obowiązany zatrzymać ten dokument i przekazać organowi, który go wydał.
+
+6. Organy, o których mowa w ust. 3 i 4, przekazują dowód osobisty organowi, który go wydał. ” ;
+
+- **5)** w art. 50: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. W okresie ważności dowód osobisty unieważnia się w przypadkach, o których mowa w art. 46 ust. 1 pkt 2–5a, w przypadku utraty obywatelstwa polskiego, zgonu posiadacza dowodu osobistego oraz wydania decyzji o odmowie wydania dowodu osobistego, o której mowa w art. 32, jeżeli dowód został uprzednio wystawiony. ” , w ust. 3 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „
+
+- **b)**
+- **7)** z dniem zgłoszenia do organu dowolnej gminy nieuprawnionego wykorzystania danych osobowych, o którym mowa w art. 48a ust. 1. ” ;
+- **6)** w art. 51 w ust. 1 po pkt 1 dodaje się pkt 1a w brzmieniu: „
+- **1a)** organ gminy, do którego zgłoszono nieuprawnione wykorzystanie danych osobowych, o którym mowa w art. 48a ust. 1; ” ;
+- **7)** w art. 54: pkt 6 otrzymuje brzmienie: „
+    - **a)**
+
+- **6)** sposób i tryb postępowania w sprawach utraty, uszkodzenia, zgłoszenia nieuprawnionego wykorzystania danych osobowych, o którym mowa w art. 48a ust. 1, unieważnienia i zwrotu dowodu osobistego, ” , po pkt 11 dodaje się pkt 11a w brzmieniu: „
+    - **b)**
+
+- **11a)** wzór formularza zgłoszenia nieuprawnionego wykorzystania danych osobowych, ” ;
+- **8)** użyte w art. 46 w ust. 1 w pkt 5, w art. 49 w ust. 1 i 3 oraz w art. 50 w ust. 3 w pkt 1 w różnym przypadku wyrazy „placówka konsularna Rzeczypospolitej Polskiej” zastępuje się użytymi w odpowiednim przypadku wyrazami „konsul Rzeczypospolitej Polskiej”.
+
+**Art. 68.** W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2017 r. poz. 978, z późn. zm.) uchyla się art. 19.
+
+**Art. 69.** W ustawie z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2018 r. poz. 169, 650, 1481 i 1629) uchyla się art. 29.
+
+**Art. 70.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2018 r. poz. 508, z późn. zm.) w art. 131 ust. 2 otrzymuje brzmienie: „ 2. Funkcjonariusze wykonujący czynności operacyjno-rozpoznawcze przy wykonywaniu tych czynności mogą posługiwać się dokumentami publicznymi w rozumieniu ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2019 r. poz. 53) lub innymi dokumentami, które uniemożliwiają ustalenie danych ich identyfikujących oraz środków, którymi posługują się przy wykonywaniu zadań służbowych. ” .
+
+**Art. 71.** W ustawie z dnia 24 listopada 2017 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. z 2018 r. poz. 79, 650 i 957) wprowadza się następujące zmiany:
+
+- **1)** w art. 1: uchyla się pkt 7, w pkt 19 wyrazy „art. 132 ust. 1–3” zastępuje się wyrazami „art. 132 ust. 1–2 i 5–7”, w pkt 20 wyrazy „art. 132 ust. 1–3, 5 i 6” zastępuje się wyrazami „art. 132 ust. 1–2 i 5–7”;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** art. 2 otrzymuje brzmienie: „ W ustawie z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2018 r. poz. 618, 911 i 2077) po art. 96c dodaje się art. 96d w brzmieniu: „
+
+**Art. 96d.** Kto, działając w imieniu podmiotu uprawnionego, o którym mowa w art. 80s ust. 2 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, przekazuje osobie nieuprawnionej blankiet profesjonalnego dowodu rejestracyjnego lub profesjonalny dowód rejestracyjny, lub profesjonalną tablicę rejestracyjną, podlega karze grzywny.”. ” ; ” ;
+
+- **3)** uchyla się art. 9.
+
 #### Rozdział 12 Przepisy przejściowe, dostosowujące i końcowe
 
 **Art. 72.** Prace nad wzorami dokumentów publicznych rozpoczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy prowadzi się na podstawie przepisów dotychczasowych.
@@ -572,21 +714,10 @@ Art. 59–71. (pominięte)
 
 1. Dokumenty publiczne wydawane na podstawie przepisów dotychczasowych, wytwarzane według wzoru określonego w przepisach prawa powszechnie obowiązującego, które nie spełniają wymagań odnośnie do minimalnych zabezpieczeń określonych w niniejszej ustawie, mogą być nadal wydawane, nie dłużej jednak niż przez okres:
 
-- **1)** w przypadku dokumentów publicznych kategorii pierwszej i drugiej, z wyłączeniem dowodów rejestracyjnych pojazdów, o których mowa w art. 73 ust. 3 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, kart pojazdów, o których mowa w art. 77 tej ustawy, dokumentów podróży przewidzianych w Konwencji dotyczącej statusu uchodźców, sporządzonej w Genewie dnia 28 lipca 1951 r. (Dz. U. z 1991 r. poz. 515 i 516), o których mowa w art. 89i ust. 1 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej, oraz polskich dokumentów podróży dla cudzoziemca, o których mowa w art. 226 pkt 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, zaświadczeń, o których mowa w art. 34, art. 37 ust. 1, art. 41 ust. 1 i 3, art. 42 ust. 3 i 6 i art. 43 ust. 1 pkt 1 ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2024 r. poz. 485), oraz zgody, o której mowa w art. 43 ust. 1 pkt 2 tej ustawy, legitymacji posiadacza broni oraz legitymacji posiadacza terminowego pozwolenia na broń, o których mowa w przepisach wydanych na podstawie art. 31 ust. 1 oraz art. 39 ust. 3 tej ustawy, zaświadczenia uprawniającego do nabycia rodzaju i liczby egzemplarzy broni, o którym mowa w art. 12 ust. 2 tej ustawy, legitymacji osoby dopuszczonej do posiadania broni, o której mowa w art. 30 ust. 4 tej ustawy, świadectwa broni, o którym mowa w art. 9 ust. 8 tej ustawy, karty rejestracyjnej broni, o której mowa w art. 13 ust. 5 tej ustawy, zaświadczenia uprawniającego do nabycia broni lub amunicji, o którym mowa w przepisach wydanych na podstawie art. 44 tej ustawy, zgody na wywóz z terytorium Rzeczypospolitej Polskiej broni lub amunicji, a także książeczki żeglarskiej, o której mowa w art. 7 ust. 1 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu – trzech lat od dnia wejścia w życie niniejszej ustawy;
-- **2)** w przypadku dokumentów publicznych kategorii trzeciej – siedmiu lat od dnia wejścia w życie niniejszej ustawy;
-- **3)** w przypadku kart pojazdów, o których mowa w art. 77 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym – do dnia 3 września 2022 r.;
-- **4)** w przypadku dowodów rejestracyjnych pojazdów, o których mowa w art. 73 ust. 3 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym – do dnia poprzedzającego dzień określony w komunikacie, o którym mowa w ust. 1a;
-- **5)** w przypadku dokumentów podróży przewidzianych w Konwencji dotyczącej statusu uchodźców, sporządzonej w Genewie dnia 28 lipca 1951 r., o których mowa w art. 89i ust. 1 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej, oraz polskich dokumentów podróży dla cudzoziemca, o których mowa w art. 226 pkt 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach – do dnia 31 marca 2023 r.;
-- **6)** w przypadku zaświadczeń, o których mowa w art. 34, art. 37 ust. 1, art. 41 ust. 1 i 3, art. 42 ust. 3 i 6 i art. 43 ust. 1 pkt 1 ustawy z dnia 21 maja 1999 r. o broni i amunicji, oraz zgody, o której mowa w art. 43 ust. 1 pkt 2 tej ustawy, legitymacji posiadacza broni oraz legitymacji posiadacza terminowego pozwolenia na broń, o których mowa w przepisach wydanych na podstawie art. 31 ust. 1 oraz art. 39 ust. 3 tej ustawy, zaświadczenia uprawniającego do nabycia rodzaju i liczby egzemplarzy broni, o którym mowa w art. 12 ust. 2 tej ustawy, legitymacji osoby dopuszczonej do posiadania broni, o której mowa w art. 30 ust. 4 tej ustawy, świadectwa broni, o którym mowa w art. 9 ust. 8 tej ustawy, karty rejestracyjnej broni, o której mowa w art. 13 ust. 5 tej ustawy, zaświadczenia uprawniającego do nabycia broni lub amunicji, o którym mowa w przepisach wydanych na podstawie art. 44 tej ustawy, zgody na wywóz z terytorium Rzeczypospolitej Polskiej broni lub amunicji – do dnia 1 października 2024 r.;
-- **7)** w przypadku książeczki żeglarskiej, o której mowa w art. 7 ust. 1 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu – do momentu wykorzystania obecnego nakładu blankietów książeczek żeglarskich, nie później jednak niż do dnia 30 czerwca 2024 r.
-
-1a. Minister właściwy do spraw informatyzacji ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej komunikat określający termin wdrożenia rozwiązań technicznych umożliwiających wydawanie dowodów rejestracyjnych pojazdów, o których mowa w art. 73 ust. 3 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym zgodnie z art. 7.
-
-1b. Termin określony w komunikacie nie może być późniejszy niż dzień 1 października 2025 r.
+- **1)** w przypadku dokumentów publicznych kategorii pierwszej i drugiej – dwóch lat,
+- **2)** w przypadku dokumentów publicznych kategorii trzeciej – czterech lat od dnia wejścia w życie niniejszej ustawy.
 
 2. Wydawane na podstawie przepisów dotychczasowych dokumenty publiczne zachowują ważność. Dokumenty publiczne, których termin został określony, zachowują ważność do upływu tego terminu.
-
-**Art. 73a.** Blankiety papierowych kart tożsamości, które nie spełniają wymagań odnośnie do minimalnych zabezpieczeń określonych w niniejszej ustawie, sporządzone na podstawie przepisów wydanych odpowiednio na podstawie art. 137c ust. 6 ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2022 r. poz. 536 i 974) oraz na podstawie art. 54a ust. 5 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2021 r. poz. 372 i 1728) mogą być wydawane do wyczerpania ich zapasów.
 
 **Art. 74.** Wykonane przed dniem wejścia w życie niniejszej ustawy, na zlecenie emitenta dokumentu publicznego, spersonalizowane lub zindywidualizowane fikcyjnymi danymi blankiety dokumentów publicznych z naniesionym w sposób trwały oznaczeniem „SPECIMEN” albo „WZÓR” mogą być wykorzystane do czasu wyczerpania ich zapasów.
 
@@ -612,5 +743,13 @@ Art. 59–71. (pominięte)
 
 **Art. 79.** W okresie 5 lat od dnia wejścia w życie niniejszej ustawy przez doświadczenie, o którym mowa w art. 36 ust. 2, art. 48 ust. 3 i art. 49 ust. 4, należy rozumieć doświadczenie zdobyte w obszarze dokumentów, które służą do identyfikacji osób, rzeczy lub potwierdzają stan prawny lub prawa osób posługujących się takim dokumentem, zabezpieczonych przed fałszerstwem.
 
-**Art. 80.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia , z wyjątkiem:
+**Art. 80.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 2 ust. 1 pkt 3 lit. b tiret drugie i ust. 3, art. 5 ust. 2 pkt 10–14, art. 7 ust. 6, art. 9, art. 10, art. 15 pkt 1, art. 34 ust. 1 i art. 35 w zakresie, w jakim dotyczą dokumentów, o których mowa w art. 5 ust. 2 pkt 10–14, które wchodzą w życie po upływie 48 miesięcy od dnia ogłoszenia;
+- **2)** art. 3 ust. 1 pkt 7 i art. 45–48, które wchodzą w życie po upływie 18 miesięcy od dnia ogłoszenia;
+- **3)** art. 5 ust. 2 pkt 27 w zakresie, w jakim dotyczy profesjonalnego dowodu rejestracyjnego, i art. 71, które wchodzą w życie z dniem 11 lipca 2019 r.;
+- **4)** art. 17 ust. 2 i art. 22–33, które wchodzą w życie z dniem 1 sierpnia 2019 r.;
+- **5)** art. 42, który wchodzi w życie po upływie 24 miesięcy od dnia ogłoszenia;
+- **6)** art. 67, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.
+
 

@@ -11,7 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie utworzenia Państwowej Wyższej Szkoły Zawodowej w Lesznie.
+# 1) otwarte fundusze emerytalne, o których mowa wart. 76 ust. 1 pkt 3 ustawy,
 
 | Pole | Wartość |
 |---|---|
@@ -21,21 +21,50 @@ source: "isap-pdf"
 | Status | obowiązujący |
 | W mocy | tak |
 | Data ogłoszenia | 1999-06-15 |
+| Wejście w życie | 1999-06-30 |
 | Ostatnia zmiana | 2014-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990550576) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/576/text.pdf) |
 
-Na podstawie art. 10 ust. 1 ustawy z dnia 26 czerwca 1997 r. o wyższych szkołach zawodowych (Dz.U. Nr 96, poz. 590, z 1998 r. Nr 106, poz. 668) zarządza się, co następuje: § 1.
-1. Tworzy się z dniem 1 lipca 1999 r. państwową wyższą szkołę zawodową pod nazwą „Państwowa Wyższa Szkoła Zawodowa w Lesznie”, zwanej dalej „Uczelnią”.
-2. Siedzibą Uczelni jest miasto Leszno.
-§ 2.
-Uczelnia prowadzi następujące specjalności zawodowe:
-1) elektrotechnika z informatyką techniczną,
-2) eksploatacja i diagnostyka maszyn,
-3) produkcja i zarządzanie w rolnictwie,
-4) gimnastyka korekcyjno-kompensacyjna,
-5) edukacja zdrowotna,
-6) edukacja muzyczna z pedagogiką opiekuńczo-wychowawczą,
-7) edukacja muzyczna z muzyką estradową.
-§ 3.
-Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+2) Fundusz Pracy, o których mowa wart. 56 ust. 2a ustawy dnia 14 grudnia 1994 o zatrudnieniu bezro bociu (Dz. U. 1997 25, poz. 128, 28, poz. 153, 41, poz. 255, 63, poz. 403, 93, poz. 569, 107, poz. 692, 121, poz. 770 123, poz. 776 oraz 1998 66, poz. 431, 106, poz. 668, 108, poz. 684, 137, poz. 887 162, poz. 1112, 1118 1126),
+3) Fundusz Gwarantowanych Świadczeń Pracowniczych, o których mowa wart. 12 ust. 6 ustawy dnia 29 grudnia 1993 o ochronie pracowniczych w ra zie pracodawcy (Dz. U.
+1994 1, poz. 1, 1995 87, poz. 435, 1996 5, poz. 34, 1997 28, poz. 153 123, poz. 776 oraz
+2. 1. stosuje do dekla racji rozliczeniowych imiennych raportów nych oraz dokumentów za okres od stycznia 1999 nie do dnia w
+2. przez o których mowa w 1 pkt 1 lit. b), c), e), g) w pkt 2 lit. a), powanie
+3. wchodzi w dniem szenia, 1 pkt 4 w zakresie poniesionych kosztów poboru docho dzenia lub na Fundusz Reha bilitacji Osób który wchodzi cie dniem 1 stycznia 2000 Prezes Rady Ministrów: J. Buzek 575 ROZPORZĄDZENIE RADY MINISTRÓW dnia 15 czerwca 1999 w sprawie utworzenia Zawodowej w Na podstawie art. 10 ust. 1 ustawy dnia 26 czerw ca 1997 o zawodowych (Dz. U.
+96, poz. 590 1998 106, poz. 668) co
+1. 1. Tworzy dniem 1 lipca 1999 pod Zawodowa w dalej .
+2. Uczelni jest miasto Krosno.
+2. Uczelnia prowadzi za wodowe:
+1) polski,
+2) angielski,
+3) niemiecki,
+4) edukacja wczesnoszkolna,
+5) wychowanie fizyczne
+3. wchodzi w po 7 dni od dnia Prezes Rady Ministrów: J. Buzek 576 ROZPORZĄDZENIE RADY MINISTRÓW zdnia 15 czerwca 1999 w sprawie utworzenia Zawodowej w Lesznie.
+Na podstawie art. 10 ust. 1 ustawy dnia 26 czerw ca 1997 o zawodowych (Dz. U.
+96, poz. 590 1998 106, poz. 668) co wodowe:
+1) elektrotechnika
+2) eksploatacja diagnostyka maszyn,
+3) produkcja w rolnictwie,
+3. wchodzi w po 7 dni od dnia Prezes Rady Ministrów: J. Buzek 577 ROZPORZĄDZENIE RADY MINISTRÓW dnia 15 czerwca 1999 w sprawie utworzenia Zawodowej w Na podstawie art. 10 ust. 1 ustawy dnia 26 czerw ca 1997 o zawodowych (Dz. U.
+96, poz. 590 1998 106, poz. 668) co
+1. 1. Tworzy dniem 1 lipca 1999 pod Zawodowa w dalej .
+2. Uczelni jest miasto
+2. Uczelnia prowadzi
+1) za wodowe: angielski,
+2) niemiecki,
+3) pedagogika muzy
+4) edukacja wczesnoszkolna,
+5) matematyka
+3. wchodzi w po 7 dni od dnia Prezes Rady Ministrów: J. Buzek 578 RADY MINISTRÓW dnia 15 czerwca 1999 w sprawie utworzenia Zawodowej w Na podstawie art. 10 ust. 1 ustawy dnia 26 czerw ca 1997 o zawodowych (Dz. U.
+96, poz. 590 1998 106, poz. 668) co
+1. 1. Tworzy dniem 1 lipca 1999 pod Zawodowa w da lej
+2. Uczelni jest miasto
+2. Uczelnia prowadzi za wodowe:
+1) polski,
+2) angielski,
+3) francuski,
+4) organizacja ruchu turystycznego,
+5) pedagogika
+3. wchodzi w po 7 dni od dnia Prezes Rady Ministrów: J. Buzek
 

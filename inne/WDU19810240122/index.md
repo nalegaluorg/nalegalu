@@ -8,12 +8,10 @@ pos: 122
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o przedsiębiorstwach państwowych
-
-*USTAWA z dnia 25 września 1981 r.*
+# Ustawa z dnia 25 września 1981 r. o przedsiębiorstwach państwowych
 
 | Pole | Wartość |
 |---|---|
@@ -24,52 +22,61 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1981-09-25 |
 | Data wydania | 1981-09-30 |
+| Wejście w życie | 1981-10-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19810240122) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1981/122/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
 
-**Art. 1.** Przedsiębiorstwo państwowe jest samodzielnym, samorządnym i samofinansującym się przedsiębiorcą posiadającym osobowość prawną.
+**Art. 1.**
 
-**Art. 2.**
+1. Przedsiębiorstwo państwowe jest podstawową jednostką organizacyjną gospodarki narodowej, służącą zaspokajaniu potrzeb społecznych, tworzoną w celu osiągania efektywnych ekonomicznie wyników przez produkcję dóbr, świadczenie usług lub inną działalność.
+
+2. Przedsiębiorstwo jest samodzielną, samorządną i samofinansującą się jednostką gospodarczą, posiadającą osobowość prawną.
+
+**Art. 2.** Przedsiębiorstwo państwowe, gospodarując wydzieloną częścią mienia ogólnonarodowego, prowadzi samodzielnie działalność gospodarczą zgodnie z celami narodowego planu społeczno-gospodarczego.
+
+**Art. 3.** Przedsiębiorstwo państwowe stwarza warunki sprzyjające kształtowaniu się socjalistycznych stosunków pracy i zasad współżycia społecznego.
+
+**Art. 4.**
 
 1. Organy przedsiębiorstwa samodzielnie podejmują decyzje oraz organizują działalność we wszystkich sprawach przedsiębiorstwa, zgodnie z przepisami prawa i w celu wykonania zadań przedsiębiorstwa.
 
 2. Organy państwowe mogą podejmować decyzje w zakresie działalności przedsiębiorstwa państwowego tylko w wypadkach przewidzianych przepisami ustawowymi.
 
-**Art. 3.**
+**Art. 5.**
 
-1. Rada Ministrów, w drodze rozporządzenia, określi zakres stosowania przepisów ustawy do przedsiębiorstw państwowych podległych Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw gospodarki morskiej, ministrowi właściwemu do spraw finansów publicznych i Narodowemu Bankowi Polskiemu.
-
-1a. Rada Ministrów może określić, w drodze rozporządzenia, szczegółowe zasady i tryb działalności przedsiębiorstw, o których mowa w ust. 1, w sprawach, do których na podstawie ust. 1 nie stosuje się przepisów niniejszej ustawy.
+1. Rada Ministrów, w drodze rozporządzenia, określi zakres stosowania przepisów ustawy do przedsiębiorstw państwowych podległych Ministrowi Obrony Narodowej oraz Ministrowi Finansów, a także przedsiębiorstw podległych Ministrowi Sprawiedliwości, działających przy zakładach karnych.
 
 2. Rada Ministrów, w drodze rozporządzenia, określi również zakres stosowania przepisów ustawy do przedsiębiorstw państwowych wykonujących w całości lub w przeważającej części zadania dla potrzeb obronności i bezpieczeństwa Państwa, a także do wykonujących te zadania jednostek organizacyjnych innych przedsiębiorstw.
 
-**Art. 4.**
+**Art. 6.** Przepisów ustawy, z wyjątkiem przepisów o rejestrze przedsiębiorstw państwowych, nie stosuje się do:
 
-1. (uchylony)
-
-2. Przepisów ustawy, z wyjątkiem przepisów o Krajowym Rejestrze Sądowym, nie stosuje się do:
-
-- **1)** banków;
-- **2)** (uchylony)
-- **3)** państwowego przedsiębiorstwa użyteczności publicznej „Zakład Unieszkodliwiania Odpadów Promieniotwórczych”.
+- **1)** przedsiębiorstwa państwowego „Polskie Koleje Państwowe”,
+- **2)** przedsiębiorstwa państwowego „Polska Poczta, Telegraf i Telefon”,
+- **3)** przedsiębiorstwa państwowego „Polskie Linie Lotnicze LOT”,
+- **4)** Państwowego Zakładu Ubezpieczeń,
+- **5)** banków,
+- **6)** przedsiębiorstw państwowych tworzonych na podstawie art. 6 ust. 2 lit. a) ustawy z dnia 20 grudnia 1949 r. o państwowym gospodarstwie leśnym (Dz. U. Nr 63, poz. 494 z późniejszymi zmianami).
 
 #### Rozdział 2 Tworzenie przedsiębiorstw państwowych
 
-**Art. 5.** Przedsiębiorstwa państwowe mogą być tworzone jako:
+**Art. 7.** Przedsiębiorstwa państwowe mogą być tworzone jako:
 
-**Art. 6.**
+- **1)** przedsiębiorstwa działające na zasadach ogólnych,
+- **2)** przedsiębiorstwa użyteczności publicznej.
+
+**Art. 8.**
 
 1. Przedsiębiorstwa użyteczności publicznej mają przede wszystkim na celu bieżące i nieprzerwane zaspokajanie potrzeb ludności. W szczególności przedsiębiorstwa te mają na celu produkcję lub świadczenie usług w zakresie:
 
-- **1)** inżynierii sanitarnej;
-- **2)** komunikacji miejskiej;
-- **3)** zaopatrzenia ludności w energię elektryczną, gazową i cieplną;
-- **4)** zarządu państwowymi zasobami lokalowymi;
-- **5)** zarządu państwowymi terenami zielonymi;
-- **6)** (uchylony)
-- **7)** usług pogrzebowych i utrzymania urządzeń cmentarnych;
+- **1)** inżynierii sanitarnej,
+- **2)** komunikacji miejskiej,
+- **3)** zaopatrzenia ludności w energię elektryczną, gazową i cieplną,
+- **4)** zarządu państwowymi zasobami lokalowymi,
+- **5)** zarządu państwowymi terenami zielonymi,
+- **6)** zarządu uzdrowiskami,
+- **7)** usług pogrzebowych i utrzymania urządzeń cmentarnych,
 - **8)** usług kulturalnych.
 
 2. Organ założycielski, w granicach obowiązujących przepisów, określa zakres i warunki, na jakich przedsiębiorstwa użyteczności publicznej obowiązane są świadczyć usługi na rzecz ludności.
@@ -78,162 +85,161 @@ source: "isap-pdf"
 
 4. Rada Ministrów, w drodze rozporządzenia, określa warunki i zasady działania przedsiębiorstw użyteczności publicznej.
 
-**Art. 7.**
+**Art. 9.**
 
 1. Przedsiębiorstwa państwowe tworzą:
 
 - **1)** naczelne oraz centralne organy administracji państwowej,
-- **2)** Narodowy Bank Polski i banki państwowe, zwane w dalszych przepisach ustawy organami założycielskimi.
+- **2)** terenowe organy administracji państwowej na podstawie uchwały właściwej rady narodowej, zwane w dalszych przepisach ustawy organami założycielskimi.
 
-2. W uzasadnionych wypadkach inny organ państwowy niż organ określony w ust. 1 może utworzyć przedsiębiorstwo państwowe po porozumieniu z naczelnym lub centralnym organem administracji państwowej właściwym ze względu na rodzaj działalności tworzonego przedsiębiorstwa.
+2. Akt o utworzeniu przedsiębiorstwa określa jego nazwę, rodzaj, siedzibę i przedmiot działania.
 
-3. Akt o utworzeniu przedsiębiorstwa określa jego nazwę, rodzaj, siedzibę i przedmiot działania.
+3. Akt o utworzeniu przedsiębiorstwa użyteczności publicznej może określać również zasady i warunki powoływania zakładów, filii, oddziałów oraz innych wewnętrznych jednostek organizacyjnych przedsiębiorstwa, które sporządzają bilans.
 
-4. Akt o utworzeniu przedsiębiorstwa użyteczności publicznej może określać również zasady i warunki powoływania zakładów, filii, oddziałów oraz innych wewnętrznych jednostek organizacyjnych przedsiębiorstwa, które sporządzają bilans.
+**Art. 10.**
 
-**Art. 8.** (uchylony)
+1. Terenowe organy administracji państwowej, na podstawie uchwał zainteresowanych rad narodowych, mogą tworzyć wspólne przedsiębiorstwa państwowe.
 
-**Art. 9.**
+2. Rada Ministrów, w drodze rozporządzenia, określa warunki i tryb tworzenia przedsiębiorstw, o których mowa w ust. 1.
+
+**Art. 11.**
+
+1. Przedsiębiorstwa państwowe mogą utworzyć wspólne przedsiębiorstwo w drodze umowy.
+
+2. Podstawą zawarcia umowy o utworzeniu wspólnego przedsiębiorstwa państwowego są uchwały rad pracowniczych przedsiębiorstw zawierających umowę.
+
+3. Do utworzenia wspólnego przedsiębiorstwa stosuje się odpowiednio przepisy art. 9 ust. 2 i art. 12.
+
+4. Rada Ministrów, w drodze rozporządzenia, określi warunki i tryb tworzenia przedsiębiorstw, o których mowa w ust. 1.
+
+**Art. 12.**
 
 1. Utworzenie przedsiębiorstwa państwowego poprzedza postępowanie przygotowawcze, które ma na celu zbadanie i ocenę potrzeby oraz warunków utworzenia przedsiębiorstwa.
 
 2. Organ zamierzający utworzyć przedsiębiorstwo państwowe powołuje w tym celu zespół przygotowawczy, który dokonuje niezbędnych ustaleń i przedstawia swoją opinię.
 
+3. W skład zespołu przygotowawczego wchodzą przedstawiciele Ministra Finansów, banku, rady narodowej i terenowego organu administracji państwowej stopnia wojewódzkiego, właściwego naczelnego lub centralnego organu administracji państwowej, zainteresowanych związków zawodowych, właściwego stowarzyszenia naukowego, społeczno-zawodowego lub naukowo-technicznego oraz organizacji działających na rzecz ochrony środowiska.
+
+4. Organ zamierzający utworzyć przedsiębiorstwo państwowe może również powołać do składu zespołu przygotowawczego inne osoby niż określone w ust. 3.
+
 #### Rozdział 3 Przedsiębiorstwa mieszane
 
-**Art. 10.**
+**Art. 13.**
 
-1. Organy administracji państwowej mogą tworzyć i likwidować przedsiębiorstwa międzynarodowe wspólnie z innymi państwami.
+1. Organy administracji państwowej mogą tworzyć przedsiębiorstwa międzynarodowe wspólnie z innymi państwami.
 
-2. Warunki tworzenia i likwidowania oraz zasady funkcjonowania takich przedsiębiorstw określają porozumienia i umowy między zainteresowanymi państwami.
+2. Warunki tworzenia i zasady funkcjonowania takich przedsiębiorstw określają porozumienia i umowy między zainteresowanymi państwami.
 
-**Art. 11.** Przedsiębiorstwo państwowe może w celach gospodarczo uzasadnionych tworzyć jednostki gospodarcze, przewidziane w przepisach prawa.
+**Art. 14.**
+
+1. Przedsiębiorstwo państwowe może utworzyć w drodze umowy przedsiębiorstwo mieszane z podmiotem zagranicznym.
+
+2. Warunki tworzenia oraz zasady funkcjonowania przedsiębiorstw mieszanych z podmiotem zagranicznym określają odrębne przepisy ustawowe.
+
+**Art. 15.**
+
+1. Przedsiębiorstwo państwowe może utworzyć w drodze umowy przedsiębiorstwo mieszane z organizacją spółdzielczą.
+
+2. Podstawą zawarcia umowy przez przedsiębiorstwo państwowe z organizacją spółdzielczą w sprawie utworzenia przedsiębiorstwa mieszanego jest uchwała rady pracowniczej przedsiębiorstwa.
+
+3. Warunki tworzenia oraz zasady funkcjonowania przedsiębiorstw państwowo-spółdzielczych określają odrębne przepisy ustawowe.
+
+**Art. 16.**
+
+1. Przedsiębiorstwo państwowe może utworzyć w drodze umowy przedsiębiorstwo mieszane z organizacją społeczną ludu pracującego.
+
+2. Do przedsiębiorstw, o których mowa w ust. 1, stosuje się odpowiednio przepisy art. 15 ust. 2 i 3.
 
 #### Rozdział 4 Statut przedsiębiorstwa
 
-**Art. 12.**
+**Art. 17.**
 
 1. Statut przedsiębiorstwa reguluje strukturę organizacyjną przedsiębiorstwa oraz inne sprawy przewidziane w niniejszej ustawie.
 
 2. Statut uchwala ogólne zebranie pracowników na wniosek dyrektora przedsiębiorstwa.
 
-**Art. 13.**
+**Art. 18.**
 
 1. Zatwierdzenia przez organ założycielski wymagają statuty następujących przedsiębiorstw państwowych:
 
-- **1)** użyteczności publicznej;
-- **2)** handlu zagranicznego;
-- **3)** stacji radiowych i telewizyjnych, przemysłu teleelektronicznego, transportu samochodowego i budownictwa łączności;
+- **1)** użyteczności publicznej,
+- **2)** handlu zagranicznego,
+- **3)** stacji radiowych i telewizyjnych, przemysłu teleelektronicznego, transportu samochodowego i budownictwa łączności,
 - **4)** Państwowej Komunikacji Samochodowej oraz zakładów naprawczych taboru kolejowego.
-
-1a. W przedsiębiorstwie użyteczności publicznej, dla którego organem założycielskim jest wojewoda i którego działalność wykracza poza obszar województwa, statut zatwierdza wojewoda w porozumieniu z ministrem właściwym ze względu na przedmiot działalności przedsiębiorstwa.
 
 2. Podjęcie decyzji w sprawie zatwierdzenia statutu powinno nastąpić w możliwie krótkim terminie, nie dłuższym jednak niż 3 miesiące od przedłożenia statutu organowi założycielskiemu.
 
 #### Rozdział 5 Rejestr przedsiębiorstw państwowych
 
-**Art. 14.** Przedsiębiorstwo państwowe podlega obowiązkowi wpisu do Krajowego Rejestru Sądowego.
-
-**Art. 15.** (uchylony)
-
-**Art. 16.** Przedsiębiorstwo państwowe uzyskuje osobowość prawną z chwilą wpisania do Krajowego Rejestru Sądowego.
-
-**Art. 17.** (uchylony)
-
-#### Rozdział 6 Łączenie, podział, likwidacja i upadłość przedsiębiorstw
-
-**Art. 18.**
-
-1. Łączenie i podział przedsiębiorstwa państwowego utworzonego w trybie określonym w art. 7 zarządza organ założycielski z własnej inicjatywy, za zgodą rady pracowniczej bądź na wniosek rady pracowniczej przedsiębiorstwa lub na wniosek kierownika zakładu przedsiębiorstwa wielozakładowego, poparty przez radę pracowniczą zakładu lub nie mniej niż 50% załogi zakładu, w którym nie ma rady pracowniczej.
-
-2. W celu lepszego wykorzystania środków produkcji oraz poprawy efektywności gospodarki właściwy ze względu na przedmiot działania przedsiębiorstw minister może podejmować decyzje w sprawie podziału przedsiębiorstwa państwowego:
-
-- **1)** z własnej inicjatywy,
-- **2)** na wniosek organu założycielskiego lub rady pracowniczej przedsiębiorstwa,
-- **3)** na wniosek rady pracowniczej i kierownika zakładu sporządzającego bilans lub kierownika takiego zakładu, w którym nie ma rady pracowniczej, po zasięgnięciu opinii organu założycielskiego oraz organów przedsiębiorstwa. Od decyzji tych przysługuje sprzeciw na podstawie art. 63.
-
-**Art. 18a.**
-
-1. Likwidacja przedsiębiorstwa państwowego polega na zadysponowaniu jego składnikami materialnymi i niematerialnymi, o których mowa w art. 55 Kodeksu cywilnego, i wykreśleniu przedsiębiorstwa państwowego z Krajowego Rejestru Sądowego, po zaspokojeniu lub zabezpieczeniu wierzycieli.
-
-2. (uchylony)
-
-3. (uchylony)
-
 **Art. 19.**
 
-1. Likwidacja przedsiębiorstwa państwowego może nastąpić, jeżeli:
+1. Przedsiębiorstwo państwowe podlega wpisowi do rejestru przedsiębiorstw państwowych.
 
-- **1)** przedsiębiorstwo prowadzi działalność gospodarczą ze stratą w ciągu kolejnych sześciu miesięcy;
-- **1a)** (uchylony)
-- **2)** prawomocnym wyrokiem sądu lub ostateczną decyzją administracyjną zakazano przedsiębiorstwu działania we wszystkich dziedzinach objętych dotychczasowym przedmiotem działania, a przedsiębiorstwo nie podjęło działalności w innej dziedzinie;
-- **3)** z wnioskiem takim zwróci się zarząd komisaryczny;
-- **4)** ponad połowę aktywów ogółem przedsiębiorstwa łącznie:
-    - **a)** stanowią udziały, inne tytuły uczestnictwa w spółkach lub obligacje,
-    - **b)** oddano do używania innym osobom na podstawie umów prawa cywilnego.
+2. Organami rejestracyjnymi są sądy. Właściwość tych sądów, w trybie określonym w przepisach o ustroju sądów powszechnych, ustala Minister Sprawiedliwości.
 
-2. Decyzję o likwidacji podejmuje organ założycielski z własnej inicjatywy bądź na wniosek rady pracowniczej przedsiębiorstwa, o ile minister właściwy do spraw aktywów państwowych nie zgłosi sprzeciwu, wraz z uzasadnieniem, w terminie dwóch tygodni.
+**Art. 20.**
 
-**Art. 20.** Od decyzji organu założycielskiego, o której mowa w art. 19 ust. 2, radzie pracowniczej i dyrektorowi przedsiębiorstwa przysługuje sprzeciw w trybie art. 63.
+1. Do wniosku o wpis przedsiębiorstwa państwowego do rejestru przedsiębiorstw państwowych dołącza się: odpis aktu o utworzeniu przedsiębiorstwa, statut oraz inne dokumenty, których złożenia wymagają przepisy wydane na podstawie niniejszej ustawy oraz przepisy szczególne.
 
-**Art. 21.** Z chwilą postawienia przedsiębiorstwa państwowego w stan likwidacji:
+2. Organ rejestracyjny bada zgodność z prawem treści dokumentów stanowiących podstawę dokonania wpisu do rejestru.
 
-**Art. 22.**
+3. Rejestr przedsiębiorstw państwowych jest dostępny dla osób mających w tym interes prawny, z wyłączeniem danych objętych tajemnicą państwową i gospodarczą.
 
-1. Zamiar wraz z założeniami dokonania połączenia, podziału oraz likwidacji przedsiębiorstwa państwowego przedstawia się w formie pisemnej ogólnemu zebraniu pracowników lub radzie pracowniczej przedsiębiorstwa oraz związkom zawodowym działającym w przedsiębiorstwie w celu uzyskania opinii.
+**Art. 21.** Przedsiębiorstwo państwowe uzyskuje osobowość prawną z chwilą wpisania do rejestru.
 
-2. W wypadku wniosku o likwidację przedsiębiorstwa opinia może zawierać propozycje zmierzające do wyprowadzenia przedsiębiorstwa z trudnej sytuacji gospodarczej.
+**Art. 22.** Rada Ministrów, w drodze rozporządzenia, określi zasady i sposób prowadzenia rejestru przedsiębiorstw państwowych, dane podlegające wpisowi do tego rejestru, wymagania dla wniosku o wpis do rejestru, tryb postępowania przy dokonywaniu wpisów, zmian i skreśleń w rejestrze, zasady udostępniania rejestru oraz wypadki i warunki wydawania odpisów i wyciągów z tego rejestru.
+
+#### Rozdział 6 Łączenie, podział i likwidacja przedsiębiorstw
 
 **Art. 23.**
 
-1. Przed podjęciem decyzji o połączeniu, podziale lub likwidacji przedsiębiorstwa przeprowadza się postępowanie przygotowawcze.
+1. Łączenie, podział i likwidację przedsiębiorstwa państwowego, utworzonego w trybie określonym w art. 9, zarządza organ założycielski z własnej inicjatywy bądź na wniosek rady pracowniczej przedsiębiorstwa, z tym że łączenie i podział przedsiębiorstwa wymaga zgody rady pracowniczej przedsiębiorstwa.
 
-2. Do przeprowadzenia postępowania przygotowawczego organ założycielski powołuje zespół przygotowawczy. Zespół ten ma zbadać przyczyny, cel, potrzebę i warunki zamierzonych zmian organizacyjnych oraz przedstawić opinię, a w przypadku likwidacji – jej program.
+2. O łączeniu, podziale i likwidacji przedsiębiorstwa utworzonego przez zawarcie umowy stanowią wspólnie strony, które umowę zawarły.
 
-**Art. 24.** Przedsiębiorstwo państwowe może być postawione w stan upadłości.
+3. Rada Ministrów, w drodze rozporządzenia, określi warunki i tryb łączenia, podziału i likwidacji przedsiębiorstw państwowych.
 
-**Art. 24a.**
+**Art. 24.**
 
-1. Z dniem ogłoszenia upadłości przedsiębiorstwa państwowego:
+1. Projekt dokonania połączenia, podziału oraz likwidacji przedsiębiorstwa państwowego przedstawia się ogólnemu zebraniu pracowników lub radzie pracowniczej przedsiębiorstwa oraz związkom zawodowym działającym w przedsiębiorstwie w celu uzyskania opinii.
 
-- **1)** organ założycielski odwołuje dyrektora przedsiębiorstwa i wyznacza reprezentanta upadłego;
-- **2)** ulegają rozwiązaniu, z mocy prawa, organy samorządu załogi przedsiębiorstwa.
-
-2. Wynagrodzenie reprezentanta upadłego ustala sędzia komisarz, na wniosek organu założycielskiego, zgodnie z przepisami prawa upadłościowego.
-
-3. Wynagrodzenie reprezentanta upadłego wypłacane jest z funduszu masy upadłości i zaliczane do kosztów postępowania upadłościowego.
-
-**Art. 24b.** Z dniem ogłoszenia o wszczęciu postępowania upadłościowego wobec likwidowanego przedsiębiorstwa postępowanie likwidacyjne ulega zawieszeniu, a następnie, z dniem ogłoszenia upadłości, umorzeniu z mocy prawa.
-
-**Art. 24c.** W sprawach nieuregulowanych niniejszą ustawą mają zastosowanie przepisy prawa upadłościowego.
+2. W wypadku wniosku o likwidację przedsiębiorstwa opinia może zawierać propozycje zmierzające do wyprowadzenia przedsiębiorstwa z trudnej sytuacji gospodarczej.
 
 **Art. 25.**
 
-1. (uchylony)
+1. Przed podjęciem decyzji o połączeniu, podziale lub likwidacji przedsiębiorstwa przeprowadza się postępowanie przygotowawcze.
 
-2. (uchylony)
+2. Do przeprowadzenia postępowania przygotowawczego organ założycielski powołuje zespół przygotowawczy. Zespół ten ma zbadać przyczyny, cel, potrzebę i warunki zamierzonych zmian organizacyjnych oraz przedstawić opinię.
+
+3. Skład zespołu przygotowawczego określają przepisy art. 12 ust. 3 i 4.
+
+**Art. 26.**
+
+1. Przedsiębiorstwo państwowe może być postawione w stan upadłości.
+
+2. Warunki, zasady i tryb postępowania upadłościowego określają przepisy odrębnej ustawy.
 
 #### Rozdział 7 Organizacja przedsiębiorstwa państwowego
 
-**Art. 26.**
+**Art. 27.**
 
 1. Tworzenie zakładów i innych jednostek organizacyjnych przedsiębiorstwa państwowego, system kontroli wewnętrznej, stosunki prawne między jednostkami organizacyjnymi wchodzącymi w skład przedsiębiorstwa oraz zasady występowania w stosunkach prawnych z innymi jednostkami organizacyjnymi określa statut przedsiębiorstwa.
 
 2. W przedsiębiorstwie wielozakładowym zakres praw i obowiązków zakładów powinien odpowiadać charakterowi ich działalności oraz warunkom i potrzebom.
 
-**Art. 27.**
+**Art. 28.**
 
 1. Regulamin organizacyjny przedsiębiorstwa państwowego określa szczegółowo zakres działania, podział czynności i odpowiedzialność osób pełniących funkcje kierownicze i samodzielne w przedsiębiorstwie.
 
 2. Regulamin organizacyjny przedsiębiorstwa ustala dyrektor po zasięgnięciu opinii rady pracowniczej.
 
-**Art. 28.**
+**Art. 29.**
 
 1. Statut przedsiębiorstwa państwowego może przewidywać powołanie jako organów doradczych i opiniodawczych dyrektora – kolegium przedsiębiorstwa oraz rady techniczno-ekonomicznej.
 
 2. Członków tych organów powołuje dyrektor przedsiębiorstwa.
 
-**Art. 29.**
+**Art. 30.**
 
 1. Statut przedsiębiorstwa może przewidywać powołanie przez dyrektora przedsiębiorstwa komisji do rozstrzygania sporów majątkowych między jednostkami organizacyjnymi, wchodzącymi w skład przedsiębiorstwa.
 
@@ -243,114 +249,43 @@ source: "isap-pdf"
 
 #### Rozdział 8 Organy przedsiębiorstwa państwowego
 
-**Art. 30.** Organami przedsiębiorstwa państwowego są: ogólne zebranie pracowników (delegatów), rada pracownicza i dyrektor przedsiębiorstwa.
+**Art. 31.** Organami przedsiębiorstwa państwowego są: ogólne zebranie pracowników (delegatów), rada pracownicza i dyrektor przedsiębiorstwa.
 
-**Art. 31.** Kompetencje ogólnego zebrania pracowników (delegatów) i rady pracowniczej określa ustawa o samorządzie załogi przedsiębiorstwa państwowego.
+**Art. 32.** Kompetencje ogólnego zebrania pracowników (delegatów) i rady pracowniczej określa ustawa o samorządzie załogi przedsiębiorstwa państwowego.
 
-**Art. 32.**
+**Art. 33.**
 
 1. Dyrektor przedsiębiorstwa państwowego zarządza przedsiębiorstwem i reprezentuje je na zewnątrz.
 
 2. Dyrektor przedsiębiorstwa państwowego, działając zgodnie z przepisami prawa, podejmuje decyzje samodzielnie i ponosi za nie odpowiedzialność.
 
-**Art. 33.**
-
-1. Dyrektora przedsiębiorstwa państwowego powołuje rada pracownicza.
-
-2. W przedsiębiorstwach nowo organizowanych pierwszego dyrektora przedsiębiorstwa powołuje organ założycielski. W tym samym trybie organ założycielski może powołać dyrektora, jeżeli rada pracownicza przedsiębiorstwa w terminie 6 miesięcy nie wykorzystała uprawnień przewidzianych w ust. 1.
-
-3. Do czasu powołania dyrektora w przedsiębiorstwach nowo organizowanych organ założycielski może wyznaczyć tymczasowego kierownika przedsiębiorstwa na okres nie dłuższy niż 6 miesięcy. Przepis ten nie narusza uprawnienia, o którym mowa w zdaniu pierwszym ust. 2.
-
-**Art. 33a.** Organ uprawniony do powołania dyrektora może wyznaczyć tymczasowego kierownika przedsiębiorstwa również w innych przypadkach niż określone w art. 33 i 41, a w szczególności:
-
 **Art. 34.**
 
-1. Dyrektora przedsiębiorstwa użyteczności publicznej powołuje i odwołuje organ założycielski.
+1. Dyrektora przedsiębiorstwa państwowego powołuje i odwołuje organ założycielski bądź rada pracownicza. W stosunku do decyzji powołującej lub odwołującej dyrektora organom tym przysługuje wzajemnie prawo do zgłoszenia umotywowanego sprzeciwu w terminie nie przekraczającym dwóch tygodni.
 
-1a. W przedsiębiorstwie użyteczności publicznej, dla którego organem założycielskim jest wojewoda i którego działalność wykracza poza obszar województwa, dyrektora przedsiębiorstwa powołuje i odwołuje wojewoda w porozumieniu z ministrem właściwym ze względu na przedmiot działalności przedsiębiorstwa.
+2. Rada Ministrów, w drodze rozporządzenia, w porozumieniu ze związkami zawodowymi, ustali listę przedsiębiorstw o podstawowym znaczeniu dla gospodarki, w których dyrektora powołuje i odwołuje organ założycielski w trybie przewidzianym w ust. 1.
 
-2. Od decyzji organu założycielskiego, o której mowa w ust. 1 i 1a, przysługuje radzie pracowniczej sprzeciw w trybie art. 63.
+3. Dyrektora przedsiębiorstwa użyteczności publicznej powołuje i odwołuje organ założycielski w trybie przewidzianym w ust. 1.
+
+4. W wypadku nieuwzględnienia sprzeciwu organowi, który go wniósł, przysługuje prawo zwrócenia się o rozstrzygnięcie do sądu. Orzeczenie sądu jest ostateczne.
+
+5. W przedsiębiorstwach nowo organizowanych pierwszego dyrektora przedsiębiorstwa powołuje organ założycielski. W tym samym trybie następuje powołanie dyrektora, jeżeli rada pracownicza przedsiębiorstwa nie wykorzystała uprawnień przewidzianych w ust. 1 w terminie zapewniającym należytą ciągłość pracy przedsiębiorstwa.
+
+6. Dyrektora przedsiębiorstwa państwowego powołuje się na okres pięciu lat lub na czas nie określony.
 
 **Art. 35.**
 
-1. Dyrektora przedsiębiorstwa powołuje się spośród kandydatów wyłonionych w drodze konkursu. Powołanie dyrektora bez przeprowadzenia konkursu jest nieważne.
+1. Dyrektora przedsiębiorstwa państwowego powołuje się spośród kandydatów wyłanianych w drodze konkursu.
 
-2. W skład komisji konkursowej wchodzą trzy osoby wskazane przez organ założycielski i dwie wskazane przez radę pracowniczą.
+2. W celu przeprowadzenia konkursu organ uprawniony do powołania dyrektora tworzy komisję konkursową w składzie: trzech przedstawicieli rady pracowniczej oraz po jednym przedstawicielu: organu założycielskiego, banku finansującego działalność przedsiębiorstwa, związków zawodowych, organizacji politycznych, organizacji młodzieżowych oraz Naczelnej Organizacji Technicznej – działających w przedsiębiorstwie.
 
-3. Rada Ministrów, w drodze rozporządzenia, określa organizację i tryb przeprowadzania konkursu.
+3. Komisja konkursowa wyłania kandydatów, oceniając ich przydatność do kierowania danym przedsiębiorstwem ze względu na ich kwalifikacje fachowe, postawę moralną i społeczną oraz umiejętność współżycia z ludźmi.
 
-**Art. 36.** Dyrektora przedsiębiorstwa powołuje się na okres 5 lat lub na czas nieokreślony.
+4. Rada Ministrów, w drodze rozporządzenia, określa zasady przeprowadzania konkursu.
+
+**Art. 36.** Zastępcę dyrektora przedsiębiorstwa oraz głównego księgowego powołuje i odwołuje dyrektor przedsiębiorstwa za zgodą rady pracowniczej.
 
 **Art. 37.**
-
-1. Rada pracownicza może odwołać dyrektora przedsiębiorstwa za zgodą organu założycielskiego. Organ założycielski przedstawia stanowisko w terminie jednego miesiąca od dnia wystąpienia rady pracowniczej w tej sprawie.
-
-2. Odwołanie dyrektora bez zgody organu założycielskiego jest nieważne.
-
-3. (uchylony)
-
-4. W razie nieodwołania dyrektora przez radę pracowniczą z przyczyn, o których mowa w art. 42, dyrektora przedsiębiorstwa odwołuje organ założycielski.
-
-5. Od decyzji, o której mowa w ust. 4, przysługuje radzie pracowniczej sprzeciw w trybie art. 63.
-
-**Art. 37a.**
-
-1. Organ założycielski może odwołać dyrektora, jeżeli:
-
-- **1)** dyrektor w związku z pełnieniem funkcji dopuszcza się rażącego naruszenia prawa;
-- **2)** zaistniały przesłanki określone w art. 52 § 1 lub art. 53 § 1 Kodeksu pracy;
-- **3)** przedsiębiorstwo państwowe przez co najmniej 3 kolejne miesiące nie wypełnia wobec Skarbu Państwa zobowiązań z tytułu podatków.
-- **4)** (uchylony)
-
-2. Od decyzji o odwołaniu dyrektora z przyczyn określonych w ust. 1 radzie pracowniczej nie przysługuje sprzeciw w trybie art. 63.
-
-3. (uchylony)
-
-**Art. 38.** Jeżeli w stosunku do decyzji odwołującej dyrektora przedsiębiorstwa państwowego został zgłoszony sprzeciw, rozwiązanie stosunku pracy z odwołanym dyrektorem następuje w trybie i na zasadach określonych w art. 70–72 Kodeksu pracy po cofnięciu sprzeciwu przez organ, który go wniósł, albo oddaleniu przez sąd wniosku o uchylenie decyzji (uchwały) o odwołaniu dyrektora.
-
-**Art. 39.**
-
-1. W wypadku odwołania dyrektora przysługuje odprawa w wysokości trzykrotności miesięcznego wynagrodzenia.
-
-2. Odprawa nie przysługuje, gdy odwołanie nastąpiło:
-
-- **1)** na wniosek dyrektora;
-- **2)** z przyczyn określonych w art. 37a ust. 1;
-- **3)** z przyczyn uzasadniających rozwiązanie stosunku pracy bez wypowiedzenia z winy pracownika oraz przyczyn, o których mowa w art. 42;
-- **4)** w związku z likwidacją przedsiębiorstwa, podziałem bądź ogłoszeniem jego upadłości;
-- **5)** w związku z przejściem dyrektora na emeryturę lub rentę i nabyciem przez niego uprawnień do otrzymania jednorazowej odprawy pieniężnej z tego tytułu.
-
-3. Odprawa nie przysługuje, jeżeli po ustaniu stosunku pracy odwołany dyrektor powołany został na stanowisko tymczasowego kierownika przedsiębiorstwa lub przyjął obowiązki zarządcy komisarycznego bądź zarządcy przedsiębiorstwa.
-
-4. Odprawę wypłaca się w dniu rozwiązania stosunku pracy.
-
-**Art. 40.**
-
-1. Czynności prawne w zakresie stosunku pracy dyrektora przedsiębiorstwa wykonuje organ uprawniony do powołania dyrektora.
-
-2. Organ powołujący dyrektora przedsiębiorstwa państwowego proponuje warunki pracy i płacy osobom przystępującym do konkursu na dyrektora.
-
-**Art. 41.**
-
-1. Rada pracownicza uprawniona do powołania dyrektora może go zawiesić w czynnościach na okres nie dłuższy niż 6 miesięcy, jeżeli dalsze pełnienie przez niego funkcji zagraża podstawowym interesom przedsiębiorstwa. Na okres zawieszenia rada pracownicza wyznacza tymczasowego kierownika przedsiębiorstwa.
-
-2. Od decyzji o zawieszeniu służy dyrektorowi przedsiębiorstwa oraz organowi założycielskiemu sprzeciw w trybie art. 63. Wniesienie sprzeciwu nie wstrzymuje wykonania decyzji.
-
-3. W okresie zawieszenia dyrektor przedsiębiorstwa zachowuje prawo do dotychczasowego wynagrodzenia oraz inne uprawnienia wynikające ze stosunku pracy.
-
-**Art. 42.**
-
-1. Dyrektor przedsiębiorstwa państwowego, jego zastępca, główny księgowy, osoby zatrudnione na stanowiskach równorzędnych oraz członkowie rady pracowniczej nie mogą mieć udziałów lub akcji przedsiębiorców tworzonych przez to przedsiębiorstwo, a także pozostawać w nich w stosunku pracy, ani świadczyć pracy na ich rzecz na podstawie innego tytułu prawnego. Zakaz ten nie dotyczy członkostwa w radach nadzorczych.
-
-2. Naruszenie przepisu ust. 1 jest podstawą odwołania ze stanowiska lub wypowiedzenia stosunku pracy. Przepisu art. 6 ust. 1 ustawy z dnia 25 września 1981 r. o samorządzie załogi przedsiębiorstwa państwowego (Dz. U. z 2015 r. poz. 1543) nie stosuje się.
-
-3. Przepis ust. 1 nie narusza przepisów o szczególnych obowiązkach osób wykonujących kierownicze funkcje u przedsiębiorców.
-
-**Art. 43.** (uchylony)
-
-**Art. 44.** Zastępcę dyrektora przedsiębiorstwa oraz głównego księgowego powołuje i odwołuje dyrektor przedsiębiorstwa za zgodą rady pracowniczej.
-
-**Art. 45.**
 
 1. Rada pracownicza przedsiębiorstwa może wystąpić do organu założycielskiego z wnioskiem o odwołanie dyrektora przedsiębiorstwa powołanego przez ten organ, jeżeli dyrektor: – swoją działalnością poważnie narusza przepisy prawa, – swoją nieprawidłową pracą powoduje, że przedsiębiorstwo nie osiąga zadowalających wyników gospodarczych.
 
@@ -358,179 +293,116 @@ source: "isap-pdf"
 
 3. Organ, który otrzymał wniosek rady pracowniczej w sprawie określonej w ust. 1, zobowiązany jest w ciągu dwóch tygodni uwzględnić wniosek albo przeprowadzić postępowanie wyjaśniające. Jeżeli zarzuty w toku postępowania wyjaśniającego zostaną potwierdzone, organ założycielski obowiązany jest w ciągu siedmiu dni uwzględnić wniosek.
 
-4. W wypadku rozbieżności stanowisk w odniesieniu do wyników postępowania wyjaśniającego rada pracownicza może zgłosić sprzeciw, który podlega rozpatrzeniu w trybie art. 63.
-
-#### Rozdział 8a Umowa o zarządzanie przedsiębiorstwem
-
-**Art. 45a.**
-
-1. Organ założycielski może powierzyć zarządzanie przedsiębiorstwem państwowym osobie fizycznej lub prawnej.
-
-1a. Powierzenie zarządzania przedsiębiorstwem może nastąpić:
-
-- **1)** z inicjatywy organu założycielskiego za zgodą rady pracowniczej i ogólnego zebrania pracowników (delegatów) przedsiębiorstwa;
-- **2)** na wniosek rady pracowniczej przedsiębiorstwa za zgodą ogólnego zebrania pracowników (delegatów).
-
-1b. Z inicjatywą powierzenia zarządzania przedsiębiorstwem może wystąpić również zarządca komisaryczny, o ile istnieją przesłanki do uchylenia zarządu komisarycznego, o którym mowa w art. 69 ust. 1.
-
-1c. Wniosek zarządcy komisarycznego powinien być poparty:
-
-- **1)** pozytywnym wynikiem referendum przeprowadzonego w przedsiębiorstwie albo
-- **2)** pozytywną opinią działających w przedsiębiorstwie organizacji związkowych, pod warunkiem, że członkowie tych organizacji stanowią ponad połowę pracowników przedsiębiorstwa.
-
-2. Powierzenie zarządzania następuje w drodze umowy zawartej na czas oznaczony, nie krótszy niż trzy lata, między Skarbem Państwa reprezentowanym przez organ założycielski a zarządcą (umowa o zarządzanie przedsiębiorstwem).
-
-3. Umowa o zarządzanie przedsiębiorstwem powinna określać w szczególności:
-
-- **1)** obowiązki zarządcy w zakresie bieżącego zarządzania oraz zmian i usprawnień w przedsiębiorstwie;
-- **2)** zasady wynagradzania zarządcy, z uwzględnieniem przepisów ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. z 2019 r. poz. 2136);
-- **3)** kryteria oceny efektywności zarządzania;
-- **4)** odpowiedzialność za powierzone przedsiębiorstwo.
-
-4. Jeżeli zarządcą jest osoba prawna, umowa powinna przewidywać, kto w jej imieniu będzie dokonywał czynności zarządu.
-
-5. Zarządca, a w przypadku, o którym mowa w ust. 4, osoba działająca w jego imieniu, jest umocowany do składania wszelkich oświadczeń woli w imieniu zarządzanego przedsiębiorstwa.
-
-6. (uchylony)
-
-**Art. 45b.**
-
-1. Z chwilą objęcia obowiązków przez zarządcę:
-
-- **1)** organy samorządu załogi ulegają rozwiązaniu z mocy prawa;
-- **2)** organ założycielski odwołuje dyrektora przedsiębiorstwa;
-- **3)** zarządca przejmuje kompetencje dyrektora przedsiębiorstwa i organów samorządu załogi, z wyjątkiem:
-    - **a)** prawa sprzeciwu wobec decyzji organu założycielskiego,
-    - **b)** przyjmowania i zatwierdzania sprawozdania finansowego,
-    - **c)** dokonywania podziału na fundusze wygospodarowanego zysku przez przedsiębiorstwo oraz zasad wykorzystania tych funduszy.
-
-2. W przedsiębiorstwie państwowym, w którym zarządca objął swe obowiązki, organ założycielski ustanawia radę nadzorczą zgodnie z art. 59 i powierza jej wykonywanie stałego nadzoru nad działalnością przedsiębiorstwa.
-
-3. Pracownicy przedsiębiorstwa wybierają jedną trzecią składu rady nadzorczej. Przepisy o wyborze członków rady pracowniczej stosuje się odpowiednio.
-
-4. Kompetencje, o których mowa w ust. 1 pkt 3 lit. b i c, przejmuje organ założycielski. Organ założycielski może kompetencje te przekazać radzie nadzorczej.
-
-**Art. 45c.**
-
-1. Organ założycielski może rozwiązać ze skutkiem natychmiastowym umowę o zarządzanie przedsiębiorstwem, jeżeli:
-
-- **1)** zarządca w związku z zarządzaniem przedsiębiorstwem dopuszcza się rażącego naruszenia prawa;
-- **2)** przedsiębiorstwo państwowe przez co najmniej 3 kolejne miesiące nie wypełnia zobowiązań wobec Skarbu Państwa z tytułu podatków;
-- **3)** zarządca w sposób istotny naruszył postanowienia umowy o zarządzanie przedsiębiorstwem.
-- **4)** (uchylony)
-
-2. Niezwłocznie po ustaniu umowy o zarządzanie przedsiębiorstwem rada nadzorcza przedsiębiorstwa zarządza i przeprowadza wybory do organów samorządu załogi przedsiębiorstwa, chyba że zawarto umowę na dalszy okres.
-
-**Art. 45d.** (uchylony)
+4. W wypadku rozbieżności stanowisk w odniesieniu do wyników postępowania wyjaśniającego rada pracownicza może zgłosić sprzeciw, który podlega rozpatrzeniu w trybie art. 57.
 
 #### Rozdział 9 Mienie przedsiębiorstwa
 
-**Art. 46.**
+**Art. 38.**
 
-1. Organ założycielski wyposaża przedsiębiorstwo w środki niezbędne do prowadzenia działalności określonej w akcie prawnym o jego utworzeniu.
+1. Organ założycielski lub strony zawierające umowę o utworzeniu przedsiębiorstwa wspólnego wyposażają przedsiębiorstwo w środki niezbędne do prowadzenia działalności określonej w akcie prawnym o jego utworzeniu.
 
-2. Przedsiębiorstwo, gospodarując wydzielonym mu i nabytym mieniem, zapewnia jego ochronę.
+2. Przedsiębiorstwo, gospodarując wydzielonym mu i nabytym mieniem stanowiącym część mienia ogólnonarodowego, zapewnia jego ochronę.
 
-3. Przedsiębiorstwo państwowe sprzedaje mienie zaliczone, zgodnie z odrębnymi przepisami, do rzeczowego majątku trwałego w drodze publicznego przetargu.
+3. Przedsiębiorstwo państwowe wykonuje wszelkie uprawnienia w stosunku do mienia ogólnonarodowego będącego w jego dyspozycji, z wyjątkiem uprawnień wyłączonych przepisami ustawowymi.
 
-3a. W wypadku likwidacji przedsiębiorstwa państwowego:
+**Art. 39.** Przedsiębiorstwo państwowe występuje w obrocie we własnym imieniu i na własny rachunek.
 
-- **1)** sprzedaż środków trwałych może być również dokonana na podstawie oferty ogłoszonej publicznie bądź w wyniku rokowań podjętych na podstawie publicznego zaproszenia;
-- **2)** likwidator może, za zgodą organu założycielskiego, przekazać gminie (związkowi międzygminnemu) lub państwowej osobie prawnej mienie przedsiębiorstwa państwowego nieobjęte przepisami o zasadach przekazywania zakładowych budynków mieszkalnych przez przedsiębiorstwa państwowe, o ile wierzytelności zostały zabezpieczone.
+**Art. 40.**
 
-4. Rada Ministrów określi w drodze rozporządzenia zasady organizowania przetargu oraz warunki, w których dopuszcza się odstąpienie od przetargu.
+1. Organ założycielski nie może pozbawić przedsiębiorstwa państwowego składników wydzielonego mu lub nabytego przez przedsiębiorstwo mienia.
 
-**Art. 46a.**
+2. W razie określonej przepisami ustawowymi reorganizacji przedsiębiorstwa państwowego organ założycielski może wyłączyć część mienia i przekazać je innej państwowej jednostce organizacyjnej.
 
-1. Przedsiębiorstwo państwowe zgłasza organowi założycielskiemu zamiar dokonania czynności prawnej, mającej za przedmiot mienie przedsiębiorstwa zaliczone zgodnie z odrębnymi przepisami do rzeczowego lub finansowego majątku trwałego, polegającej na:
+**Art. 41.**
 
-- **1)** wniesieniu do spółki lub fundacji,
-- **2)** dokonaniu darowizny,
-- **3)** nieodpłatnym oddaniu do używania innym podmiotom w drodze umów prawa cywilnego; organ założycielski może, w terminie miesiąca od dnia otrzymania zgłoszenia, nie wyrazić zgody na dokonanie czynności prawnej objętej zamiarem.
+1. Przedsiębiorstwo państwowe odpowiada za swoje zobowiązania.
 
-1a. Przepis ust. 1 stosuje się w wypadku zamiaru dokonania czynności prawnej polegającej na sprzedaży przez przedsiębiorstwo akcji lub udziałów, z wyjątkiem akcji spółek dopuszczonych do publicznego obrotu.
+2. Przedsiębiorstwo państwowe nie odpowiada za zobowiązania Skarbu Państwa ani innych osób prawnych.
 
-1b. (uchylony) 1c. Przepis ust. 1 stosuje się w wypadku zamiaru wskazania przez przedsiębiorstwo państwowe swojego reprezentanta w zarządzie lub radzie nadzorczej spółki.
+3. Skarb Państwa nie odpowiada za zobowiązania przedsiębiorstwa państwowego.
 
-2. W przypadku niewyrażenia przez organ założycielski zgody na dokonanie czynności prawnych, o których mowa w ust. 1, organom przedsiębiorstwa przysługuje sprzeciw w trybie art. 63.
+**Art. 42.** W wypadku likwidacji przedsiębiorstwa o przeznaczeniu majątku decyduje organ założycielski.
 
-3. Do odpłatnego oddania mienia przedsiębiorstwa państwowego do używania innym podmiotom na podstawie umów prawa cywilnego stosuje się odpowiednio przepisy art. 46 ust. 3 i 4.
+**Art. 43.**
 
-**Art. 46b.** Czynności prawne, dokonane z naruszeniem przepisów art. 46 ust. 3–4, oraz czynności prawne, o których mowa w art. 46a ust. 1, 1a i 1c, dokonane pomimo niewyrażenia zgody przez organ założycielski, są nieważne.
+1. Przedsiębiorstwo państwowe, wykonując przysługujące mu w myśl art. 38 ust. 3 uprawnienia w stosunku do mienia ogólnonarodowego wydzielonego mu przy jego utworzeniu oraz nabytego w toku działalności, może zbywać środki trwałe innym jednostkom gospodarki uspołecznionej oraz ustanawiać na ich rzecz w stosunku do tych środków ograniczone prawa rzeczowe.
 
-**Art. 47.** Przedsiębiorstwo państwowe występuje w obrocie we własnym imieniu i na własny rachunek.
+2. W odniesieniu do statków morskich i rzecznych przedsiębiorstwo państwowe może je zbywać także innym niż określone w ust. 1 jednostkom organizacyjnym i osobom, a także obciążać je na rzecz tych jednostek organizacyjnych i osób hipoteką lub zastawem.
 
-**Art. 48.** Organ założycielski nie może pozbawić przedsiębiorstwa państwowego składników wydzielonego mu lub nabytego przez przedsiębiorstwo mienia, z zastrzeżeniem art. 18 ust. 1.
+3. Rada Ministrów, w drodze rozporządzenia, określi wypadki dopuszczające możliwość zbywania przez przedsiębiorstwa państwowe środków trwałych tych przedsiębiorstw innym jednostkom organizacyjnym niż określone w ust. 1, a także innym osobom; rozporządzenie określi także zasady, warunki i tryb zbywania mienia przedsiębiorstw tym jednostkom organizacyjnym i osobom.
 
-**Art. 49.**
-
-1. Z dniem wykreślenia przedsiębiorstwa państwowego z rejestru przedsiębiorców mienie pozostałe po tym przedsiębiorstwie przejmuje wojewoda.
-
-2. (uchylony)
-
-3. (uchylony)
-
-4. (uchylony)
-
-5. Mienie pozostałe po likwidacji przedsiębiorstwa państwowego, którego organem założycielskim był Minister Obrony Narodowej, podlega przekazaniu na zasadach i w trybie określonych w ustawie z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2022 r. poz. 2061).
-
-**Art. 49a.** Nabycie mienia na podstawie art. 46 ust. 3a i art. 49 ust. 1 następuje zgodnie z zasadami Kodeksu cywilnego i jest nieodpłatne.
+4. Czynność prawna dotycząca środków trwałych stanowiących mienie przedsiębiorstwa, sprzeczna z obowiązującymi przepisami, jest nieważna, chyba że nabywca nie wiedział, mimo dołożenia należytej staranności, że zbycie nastąpiło wbrew obowiązującym przepisom.
 
 #### Rozdział 10 Przedstawicielstwo przedsiębiorstwa
 
-**Art. 50.**
+**Art. 44.**
 
 1. Do dokonywania czynności prawnych samodzielnie w imieniu przedsiębiorstwa państwowego upoważniony jest dyrektor. Zastępcy dyrektora oraz pełnomocnicy przedsiębiorstwa działają w granicach ich umocowania.
 
-2. Jeżeli czynności prawne, dokonywane przez osoby określone w ust. 1, obejmują rozporządzanie prawem, którego wartość przekracza pięć tysięcy złotych, lub czynności te mogą spowodować powstanie zobowiązania przedsiębiorstwa do świadczenia o wartości powyżej pięciu tysięcy złotych, do skuteczności oświadczenia woli wymagane jest współdziałanie co najmniej dwóch osób.
+2. Jeżeli czynności prawne, dokonywane przez osoby określone w ust. 1, obejmują rozporządzanie prawem, którego wartość przekracza pięćset tysięcy złotych, lub czynności te mogą spowodować powstanie zobowiązania przedsiębiorstwa do świadczenia o wartości powyżej pięciuset tysięcy złotych, do skuteczności oświadczenia woli wymagane jest współdziałanie co najmniej dwóch osób.
 
-**Art. 51.**
+**Art. 45.**
 
 1. Pełnomocników ustanawia i odwołuje dyrektor przedsiębiorstwa.
 
 2. Udzielenie pełnomocnictwa wymaga formy pisemnej pod rygorem nieważności.
 
-3. Udzielenie i odwołanie pełnomocnictwa podlega ujawnieniu w Krajowym Rejestrze Sądowym. Nie dotyczy to pełnomocnictwa do dokonywania poszczególnych czynności oraz ustanawiania pełnomocników procesowych.
+3. Udzielenie i odwołanie pełnomocnictwa podlega ujawnieniu w rejestrze przedsiębiorstw państwowych. Nie dotyczy to pełnomocnictwa do dokonywania poszczególnych czynności oraz ustanawiania pełnomocników procesowych.
 
 #### Rozdział 11 Działalność przedsiębiorstwa
 
-**Art. 52.** (uchylony)
+**Art. 46.**
 
-**Art. 53.** Przedsiębiorstwo prowadzi działalność na zasadach racjonalnej gospodarki, samofinansowania oraz rachunku ekonomicznego.
+1. Przedsiębiorstwo państwowe prowadzi działalność na podstawie własnego planu. Zgodność planu przedsiębiorstwa z celami narodowego planu społeczno-gospodarczego osiągana jest w drodze stosowania ustaw wymienionych w art. 51 i przepisów art. 54.
 
-**Art. 54.**
+2. Plan wieloletni przedsiębiorstwa uchwala ogólne zebranie pracowników przedsiębiorstwa, a plan roczny – rada pracownicza przedsiębiorstwa, na wniosek dyrektora. Plan przedsiębiorstwa powinien uwzględniać możliwości i warunki działalności przedsiębiorstwa oraz interesy załogi.
+
+**Art. 47.** Przedsiębiorstwo prowadzi działalność na zasadach racjonalnej gospodarki, samofinansowania oraz rachunku ekonomicznego.
+
+**Art. 48.**
 
 1. Przedsiębiorstwo prowadzi rzetelną rachunkowość oraz sporządza na jej podstawie bilans.
 
 2. Bilans przedsiębiorstwa podlega weryfikacji przez państwowe organy kontroli na zasadach określonych w przepisach szczególnych.
 
-**Art. 55.**
+**Art. 49.**
 
-1. Przedsiębiorstwo państwowe może podjąć działalność w dziedzinie nieprzewidzianej w akcie o jego utworzeniu.
+1. Przedsiębiorstwo państwowe może podjąć działalność w dziedzinie nie przewidzianej w akcie o jego utworzeniu.
 
-2. Jeżeli podjęcie nowej działalności prowadzi do zaniechania lub znacznego ograniczenia działalności przewidzianej w akcie o utworzeniu przedsiębiorstwa, organ założycielski może zobowiązać przedsiębiorstwo do zaprzestania nowej działalności.
+2. Jeżeli podjęcie nowej działalności wymaga zaniechania lub znacznego ograniczenia działalności przewidzianej w akcie o utworzeniu przedsiębiorstwa, niezbędne jest uprzednie uzyskanie zgody organu założycielskiego.
 
-3. Podjęcie nowej działalności podlega ujawnieniu w Krajowym Rejestrze Sądowym.
+3. Podjęcie nowej działalności podlega ujawnieniu w rejestrze przedsiębiorstw państwowych.
 
-**Art. 56.**
+**Art. 50.**
 
 1. Dyrektor przedsiębiorstwa ma obowiązek zgłosić pisemnie radzie pracowniczej przedsiębiorstwa, bankowi finansującemu oraz organowi założycielskiemu, że przedsiębiorstwo prowadzi działalność gospodarczą ze stratą.
 
 2. W wypadku określonym w ust. 1, na wniosek rady pracowniczej przedsiębiorstwa lub z własnej inicjatywy, organ założycielski powoła komisję w celu zbadania i oceny stanu gospodarczego przedsiębiorstwa i przedstawienia wniosków.
 
-**Art. 57.** (uchylony)
+3. Po rozpatrzeniu wniosków komisji, zaopiniowanych przez radę pracowniczą, organ założycielski podejmuje decyzje wynikające z przepisów ustawy.
+
+**Art. 51.**
+
+1. Odrębne ustawy określają obowiązujące przedsiębiorstwo zasady:
+
+- **1)** planowania i sprawozdawczości statystycznej,
+- **2)** finansowania i opodatkowywania,
+- **3)** tworzenia i wykorzystywania funduszów,
+- **4)** ustalania cen.
+
+2. Uprawnienia i obowiązki przedsiębiorstwa wynikają również z przepisów innych ustaw niż określone w ust. 1.
 
 #### Rozdział 12 Nadzór nad przedsiębiorstwem państwowym
 
-**Art. 58.**
+**Art. 52.**
 
 1. Organ założycielski dokonuje kontroli i oceny działalności przedsiębiorstwa oraz pracy dyrektora.
 
 2. Organ założycielski ma prawo władczego wkraczania w sprawy przedsiębiorstwa tylko w wypadkach przewidzianych przepisami ustawowymi.
 
-**Art. 59.** Akt o utworzeniu przedsiębiorstwa może przewidzieć, że uprawnienia organu założycielskiego w zakresie nadzoru, określone w niniejszej ustawie, mogą być przekazane powołanej przez ten organ radzie nadzorczej.
+**Art. 53.** Akt o utworzeniu przedsiębiorstwa może przewidzieć, że uprawnienia organu założycielskiego w zakresie nadzoru, określone w niniejszej ustawie, mogą być przekazane powołanej przez ten organ radzie nadzorczej.
 
-**Art. 60.**
+**Art. 54.**
 
 1. Organ założycielski ma prawo nałożyć na przedsiębiorstwo obowiązek wprowadzenia do planu przedsiębiorstwa zadania lub wyznaczyć przedsiębiorstwu zadanie poza planem, jeżeli jest to niezbędne ze względu na potrzeby obrony kraju, w wypadku klęski żywiołowej bądź w celu wykonania zobowiązań międzynarodowych.
 
@@ -538,11 +410,17 @@ source: "isap-pdf"
 
 3. Wykonanie zadania następuje na podstawie umowy zawartej między przedsiębiorstwem a jednostką organizacyjną wskazaną przy nakładaniu zadania.
 
-**Art. 61.** Organ założycielski, w razie stwierdzenia, że decyzja dyrektora jest sprzeczna z prawem, wstrzymuje jej wykonanie oraz zobowiązuje dyrektora do jej zmiany lub cofnięcia.
+**Art. 55.** Organ założycielski, w razie stwierdzenia, że decyzja dyrektora jest sprzeczna z prawem, wstrzymuje jej wykonanie oraz zobowiązuje dyrektora do jej zmiany lub cofnięcia.
 
-**Art. 62.** (uchylony)
+**Art. 56.**
 
-**Art. 63.**
+1. Organ założycielski ma prawo zawiesić dyrektora przedsiębiorstwa w jego czynnościach w wypadku, gdy dalsze pełnienie przez niego funkcji stanowi istotne naruszenie prawa lub zagraża podstawowym interesom gospodarki narodowej. O podjętej decyzji organ założycielski powiadamia radę pracowniczą.
+
+2. W razie zawieszenia dyrektora przedsiębiorstwa w czynnościach, organ założycielski wyznacza tymczasowego kierownika przedsiębiorstwa na okres nie przekraczający sześciu miesięcy.
+
+3. Rada pracownicza i dyrektor przedsiębiorstwa mogą w stosunku do decyzji określonych w ust. 1 i 2 zgłosić sprzeciw, który podlega rozpatrzeniu w trybie przewidzianym w art. 57.
+
+**Art. 57.**
 
 1. Dyrektorowi przedsiębiorstwa oraz radzie pracowniczej przysługuje prawo wniesienia sprzeciwu w stosunku do decyzji podjętych wobec przedsiębiorstwa przez organ sprawujący nad nim nadzór.
 
@@ -550,7 +428,7 @@ source: "isap-pdf"
 
 3. W razie podtrzymania decyzji przez organ, do którego został skierowany sprzeciw, dyrektorowi przedsiębiorstwa oraz radzie pracowniczej przysługuje prawo wniesienia w ciągu siedmiu dni sprawy do sądu. Sąd w terminie czternastu dni wyznacza rozprawę.
 
-**Art. 64.**
+**Art. 58.**
 
 1. W razie doznania szkody z powodu wykonania decyzji organu sprawującego nadzór, przedsiębiorstwo może żądać od tego organu odszkodowania.
 
@@ -558,46 +436,77 @@ source: "isap-pdf"
 
 3. Z żądaniem odszkodowania może wystąpić dyrektor przedsiębiorstwa lub rada pracownicza przedsiębiorstwa.
 
-#### Rozdział 13 Postępowanie naprawcze
+#### Rozdział 13 Zrzeszenia przedsiębiorstw państwowych
 
-**Art. 65.**
+**Art. 59.** Przedsiębiorstwa państwowe mogą w celach ekonomicznie uzasadnionych tworzyć zrzeszenia.
 
-1. Jeżeli przedsiębiorstwo prowadzi działalność ze stratą, organ założycielski w porozumieniu z ministrem właściwym do spraw finansów publicznych może wszcząć postępowanie naprawcze, ustanawiając nad przedsiębiorstwem zarząd komisaryczny.
+**Art. 60.**
 
-1a. (uchylony) 1b. Od decyzji organu założycielskiego, o której mowa w ust. 1, nie przysługuje sprzeciw.
+1. Utworzenie zrzeszenia przedsiębiorstw państwowych następuje na podstawie umowy zawartej za zgodą rad pracowniczych przedsiębiorstw tworzących zrzeszenie oraz podlegającej zatwierdzeniu organów założycielskich. Organy założycielskie odmówią zatwierdzenia umowy, jeżeli jest ona niezgodna z przepisami ustawowymi.
 
-2. Zarząd komisaryczny ustanawia się na czas oznaczony.
+2. W wyjątkowym wypadku społecznie i gospodarczo niezbędnym Rada Ministrów, po zasięgnięciu opinii właściwych komisji sejmowych, może ustanowić obowiązek utworzenia zrzeszenia określonych przedsiębiorstw oraz zobowiązać te przedsiębiorstwa do zawarcia umowy o utworzeniu zrzeszenia na okres do pięciu lat.
 
-3. Ustanowienie zarządu komisarycznego i jego uchylenie podlega wpisowi do Krajowego Rejestru Sądowego.
+**Art. 61.**
 
-**Art. 66.**
+1. Umowa o utworzeniu zrzeszenia przedsiębiorstw określa nazwę zrzeszenia, nazwy przedsiębiorstw zrzeszonych, cel i przedmiot działania, organy zrzeszenia i środki niezbędne do realizacji jego celu.
 
-1. Organ założycielski wyznacza i odwołuje osobę sprawującą zarząd komisaryczny.
+2. Szczegółowy zakres działania zrzeszenia i jego organów określa statut zrzeszenia uchwalony przez radę zrzeszenia.
 
-2. Z chwilą ustanowienia zarządu komisarycznego organy przedsiębiorstwa ulegają rozwiązaniu. Organ założycielski odwołuje dyrektora przedsiębiorstwa.
+**Art. 62.**
 
-3. Osoba sprawująca zarząd komisaryczny przejmuje kompetencje organów przedsiębiorstwa, z wyjątkiem:
+1. Zrzeszenie przedsiębiorstw podlega wpisowi do rejestru przedsiębiorstw państwowych.
 
-- **1)** przyjmowania i zatwierdzania sprawozdania finansowego;
-- **2)** dokonywania podziału wygospodarowanego zysku przez przedsiębiorstwo na fundusze oraz zasad wykorzystania tych funduszy.
+2. Zrzeszenie przedsiębiorstw uzyskuje osobowość prawną z chwilą wpisania do rejestru.
 
-4. Kompetencje, o których mowa w ust. 3, przejmuje organ założycielski.
+**Art. 63.**
+
+1. Organem zarządzającym zrzeszeniem przedsiębiorstw państwowych jest rada zrzeszenia.
+
+2. Dyrektor i przedstawiciel rady pracowniczej przedsiębiorstwa należącego do zrzeszenia wchodzą w skład rady zrzeszenia.
+
+3. Rada zrzeszenia wybiera przewodniczącego spośród swoich członków.
+
+**Art. 64.**
+
+1. Organem wykonawczym rady zrzeszenia jest dyrektor powoływany i odwoływany przez radę zrzeszenia.
+
+2. Dyrektora zrzeszenia, o którym mowa w art. 60 ust. 2, powołuje się i odwołuje za zgodą organu sprawującego nadzór nad zrzeszeniem.
+
+3. Zakres działania dyrektora określa umowa lub statut zrzeszenia.
+
+4. Do powoływania dyrektora zrzeszenia przepis art. 35 stosuje się odpowiednio.
+
+**Art. 65.** Przedsiębiorstwo państwowe może za zgodą rady pracowniczej w trybie określonym w umowie bądź w statucie zrzeszenia wystąpić ze zrzeszenia, którego utworzenie nie wynikało z obowiązku nałożonego na podstawie art. 60 ust. 2.
+
+**Art. 66.** Rada Ministrów, w drodze rozporządzenia, określi tryb i warunki tworzenia zrzeszeń przedsiębiorstw państwowych, o których mowa w art. 60 ust. 2, oraz określi zakres nadzoru i organy powołane do jego sprawowania.
+
+#### Rozdział 14 Przepisy przejściowe i końcowe
 
 **Art. 67.**
 
-1. Osoba sprawująca zarząd komisaryczny niezwłocznie po jego ustanowieniu jest obowiązana przedstawić organowi założycielskiemu do zatwierdzenia program naprawy przedsiębiorstwa.
+1. Z dniem wejścia w życie ustawy organami założycielskimi przedsiębiorstw państwowych stają się naczelne, centralne lub terenowe organy administracji państwowej, które sprawowały nadzór nad tymi przedsiębiorstwami.
 
-2. Osoba sprawująca zarząd komisaryczny przedstawia organowi założycielskiemu co trzy miesiące sprawozdanie ze swojej działalności.
+2. Podmioty gospodarcze, wpisane w dniu wejścia w życie ustawy do rejestru przedsiębiorstw państwowych, stają się z mocy prawa przedsiębiorstwami państwowymi w rozumieniu niniejszej ustawy.
 
-**Art. 68.** Zasady sprawowania zarządu komisarycznego określa organ założycielski.
+3. Organy prowadzące dotychczas rejestr przedsiębiorstw przekażą ten rejestr wraz z należącą do niego dokumentacją, w terminie trzech miesięcy od daty wejścia w życie ustawy, właściwym sądom, ustalonym w trybie przepisu art. 19 ust. 2. Do dnia przekazania tego rejestru organy te prowadzą rejestr na dotychczasowych zasadach.
+
+4. Zjednoczenia przedsiębiorstw państwowych podlegają zniesieniu na zasadach oraz w trybie i terminie ustalonych przez Radę Ministrów.
+
+**Art. 68.**
+
+1. Dyrektorzy przedsiębiorstw państwowych w okresie jednego miesiąca od dnia wejścia w życie ustawy przedłożą ogólnym zebraniom załóg projekty statutów przedsiębiorstw.
+
+2. Ogólne zebrania załóg uchwalą statuty przedsiębiorstw w okresie jednego miesiąca od dnia przedłożenia projektu.
 
 **Art. 69.**
 
-1. Jeżeli ustaną przyczyny ustanowienia zarządu komisarycznego określone w art. 65 ust. 1, organ założycielski wyda zarządzenie o uchyleniu tego zarządu.
+1. Traci moc dekret z dnia 26 października 1950 r. o przedsiębiorstwach państwowych (Dz. U. z 1960 r. Nr 18, poz. 111).
 
-2. Organ założycielski może w każdym czasie uchylić zarząd komisaryczny i zarządzić likwidację przedsiębiorstwa, jeżeli dalsze wykonywanie programu, o którym mowa w art. 67 ust. 1, nie rokuje poprawy gospodarki przedsiębiorstwa.
+2. Przepisy wykonawcze, wydane na podstawie dekretu wymienionego w ust. 1, zachowują moc do czasu zastąpienia ich przepisami wydanymi na podstawie niniejszej ustawy, o ile nie są z nią sprzeczne.
 
-**Art. 70.** Koszty związane ze sprawowaniem zarządu komisarycznego obciążają przedsiębiorstwo państwowe. Art. 71–73. (uchylone)
+3. Do czasu wydania ustawy, o której mowa w art. 14 ust. 2, w sprawach tych stosuje się przepisy dotychczasowe.
 
-**Art. 74.** Uprawnienia ministra właściwego do spraw finansów publicznych określone w niniejszej ustawie wykonuje właściwy dyrektor izby administracji skarbowej, w wypadku gdy funkcje organu założycielskiego pełni wojewoda.
+4. Do czasu wydania ustaw przewidzianych w art. 51 ust. 1 oraz dostosowania ustaw wymienionych w tym przepisie do postanowień niniejszej ustawy do przedsiębiorstw państwowych stosuje się przepisy dotychczasowe ze zmianami wynikającymi z tej ustawy.
+
+**Art. 70.** Ustawa wchodzi w życie z dniem 1 października 1981 r.
 

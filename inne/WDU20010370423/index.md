@@ -8,12 +8,10 @@ pos: 423
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o utworzeniu Akademii Sztuk Pięknych w Katowicach
-
-*USTAWA z dnia 15 lutego 2001 r.*
+# Ustawa z dnia 15 lutego 2001 r. o utworzeniu Akademii Sztuk Pięknych w Katowicach
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2001-02-15 |
 | Data wydania | 2001-04-27 |
+| Wejście w życie | 2001-05-12 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010370423) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/423/text.pdf) |
 
@@ -67,5 +66,5 @@ source: "isap-pdf"
 
 **Art. 7.** Wybory do Senatu Akademii oraz wybory dziekanów i rad wydziałów zostaną przeprowadzone do dnia 30 września 2001 r. w trybie i na zasadach określonych w Statucie Akademii.
 
-**Art. 8.** Ustawa wchodzi w życie w terminie 14 dni od dnia ogłoszenia.
+**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 30 kwietnia 2004 świadczeniach przedemerytalnych (Dz. U. 2025 poz. 421), uwzględnieniem zmian wprowadzonych ustawą dnia 20 marca 2025 rynku pracy i służbach zatrudnienia (Dz. U. poz. 620) oraz zmian wynikających przepisów ogłoszonych przed dniem 22 stycznia 2026
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 26 stycznia 2026 sprawie ogłoszenia jednolitego tekstu ustawy świadczeniach przedemerytalnych*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 lutego 2026 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 26 stycznia 2026 sprawie ogłoszenia jednolitego tekstu ustawy świadczeniach przedemerytalnych
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-02-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000115) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/115/text.pdf) |
 
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 30 kwietnia 2004 świadczeniach przedemerytalnych (Dz. U. 2025 poz. 421), uwzględnieniem zmian wprowadzonych ustawą dnia 20 marca 2025 rynku pracy i służbach zatrudnienia (Dz. U. poz. 620) oraz zmian wynikających przepisów ogłoszonych przed dniem 22 stycznia 2026
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 461 ustawy dnia 20 marca 2025 rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), który stanowi: „Art. 461. Ustawa wchodzi życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia, wyjątkiem:
 1) art. 392 pkt 2 lit. b oraz art. 458, które wchodzą życie dniem następującym po dniu ogłoszenia;
 2) art. 106, art. 128 ust. 2, art. 203 oraz art. 300 ust. 3 pkt 11, które wchodzą życie dniem 1 stycznia 2026 r.”.
@@ -34,6 +33,9 @@ Marszałek Sejmu: W. Czarzasty
 USTAWA dnia 30 kwietnia 2004 świadczeniach przedemerytalnych
 
 **Art. 1.** Ustawa określa:
+
+- **1)** warunki nabywania i utraty prawa do świadczeń przedemerytalnych;
+- **2)** zasady wypłaty i finansowania świadczeń przedemerytalnych.
 
 **Art. 2.**
 
@@ -44,7 +46,7 @@ USTAWA dnia 30 kwietnia 2004 świadczeniach przedemerytalnych
 - **3)** do dnia ogłoszenia upadłości prowadziła nieprzerwanie i przez okres niekrótszy niż 24 miesiące pozarolniczą działalność, rozumieniu przepisów ustawy dnia 13 października 1998 systemie ubezpieczeń społecznych (Dz. U. 2025 poz. 350, późn. zm. ), zwanej dalej „ustawą systemie ubezpieczeń społecznych”, i za ten okres opłaciła składki na ubezpieczenia społeczne oraz do dnia ogłoszenia upadłości ukończyła co najmniej 56 lat kobieta i 61 lat mężczyzna i posiada okres uprawniający do emerytury, wynoszący co najmniej 20 lat dla kobiet i 25 lat dla mężczyzn, lub
 - **4)** zarejestrowała się we właściwym powiatowym urzędzie pracy ciągu 30 dni od dnia ustania prawa do renty tytułu niezdolności do pracy, pobieranej nieprzerwanie przez okres co najmniej 5 lat, i do dnia, którym ustało prawo do renty, ukończyła co najmniej 55 lat kobieta oraz 60 lat mężczyzna i osiągnęła okres uprawniający do emerytury, wynoszący co najmniej 20 lat dla kobiet i 25 lat dla mężczyzn, lub 4a) zarejestrowała się we właściwym powiatowym urzędzie pracy ciągu 60 dni od dnia ustania prawa do świadczenia pielęgnacyjnego lub specjalnego zasiłku opiekuńczego, których mowa ustawie dnia 28 listopada 2003 świadczeniach rodzinnych (Dz. U. 2025 poz. 1208), lub zasiłku dla opiekuna, którym mowa ustawie dnia 4 kwietnia 2014 ustaleniu i wypłacie zasiłków dla opiekunów (Dz. U. 2024 poz. 246), pobieranych nieprzerwanie przez okres co najmniej 365 dni, i do dnia, którym ustało prawo do świadczenia pielęgnacyjnego, specjalnego zasiłku opiekuńczego lub zasiłku dla opiekuna, ukończyła co najmniej 55 lat kobieta oraz 60 lat mężczyzna i osiągnęła okres uprawniający do emerytury, wynoszący co najmniej 20 lat dla kobiet i 25 lat dla mężczyzn, lub
 - **5)** do dnia rozwiązania stosunku pracy przyczyn dotyczących zakładu pracy, rozumieniu przepisów ustawy dnia 20 marca 2025 rynku pracy i służbach zatrudnienia, którym była zatrudniona przez okres niekrótszy niż 6 miesięcy, posiada okres uprawniający do emerytury, wynoszący co najmniej 35 lat dla kobiet i 40 lat dla mężczyzn, lub
-- **6)** do dnia 31 grudnia roku poprzedzającego rozwiązanie stosunku pracy lub stosunku służbowego, powodu likwidacji pracodawcy lub niewypłacalności pracodawcy, rozumieniu przepisów ochronie roszczeń pracowniczych razie niewypłacalności pracodawcy, u którego była zatrudniona lub pozostawała stosunku służbowym przez okres niekrótszy niż 6 miesięcy, posiadała okres uprawniający do emerytury wynoszący co najmniej 34 lata dla kobiet i 39 lat dla mężczyzn. (Dz. U. 2025 poz. 1749 oraz 2026 poz. 26), zwanej dalej „ustawą emeryturach i rentach FUS”.
+- **6)** do dnia 31 grudnia roku poprzedzającego rozwiązanie stosunku pracy lub stosunku służbowego, powodu likwidacji pracodawcy lub niewypłacalności pracodawcy, rozumieniu przepisów ochronie roszczeń pracowniczych razie niewypłacalności pracodawcy, u którego była zatrudniona lub pozostawała stosunku służbowym przez okres niekrótszy niż 6 miesięcy, posiadała okres uprawniający do emerytury wynoszący co najmniej 34 lata dla kobiet i 39 lat dla mężczyzn. art. 10 ust. 1 oraz art. 11 ustawy dnia 17 grudnia 1998 emeryturach i rentach Funduszu Ubezpieczeń Społecznych (Dz. U. 2025 poz. 1749 oraz 2026 poz. 26), zwanej dalej „ustawą emeryturach i rentach FUS”.
 
 3. Świadczenie przedemerytalne przysługuje osobie określonej ust. 1 po upływie co najmniej 180 dni pobierania zasiłku dla bezrobotnych, którym mowa ustawie dnia 20 marca 2025 rynku pracy i służbach zatrudnienia, jeżeli osoba ta spełnia łącznie następujące warunki:
 
@@ -121,7 +123,7 @@ USTAWA dnia 30 kwietnia 2004 świadczeniach przedemerytalnych
 
 2. Osoba pobierająca świadczenie przedemerytalne jest obowiązana niezwłocznie powiadomić organ rentowy osiąganiu przychodu oraz wysokości tego przychodu, a po zakończeniu roku rozliczeniowego, terminie do dnia 31 maja następnego roku, wysokości przychodu uzyskanego roku rozliczeniowym, uwzględnieniem przychodów uzyskanych kolejnych miesiącach tego roku.
 
-3. Obowiązek powiadomienia, którym mowa ust. 2, spoczywa odpowiednio na pracodawcy i zleceniodawcy lub innym płatniku składek, a przypadku osoby pełniącej służbę na właściwej jednostce organizacyjnej. nym roku rozliczeniowym:
+3. Obowiązek powiadomienia, którym mowa ust. 2, spoczywa odpowiednio na pracodawcy i zleceniodawcy lub innym płatniku składek, a przypadku osoby pełniącej służbę na właściwej jednostce organizacyjnej. Polskiej „Monitor Polski”, co najmniej na 7 dni roboczych przed najbliższym terminem waloryzacji, obowiązujące kolejnym roku rozliczeniowym:
 
 - **1)** dopuszczalną kwotę przychodu oraz graniczną kwotę przychodu, ustalone na podstawie przeciętnego miesięcznego wynagrodzenia roku kalendarzowym poprzedzającym termin waloryzacji, ogłoszonego do celów emerytalnych przez Prezesa Głównego Urzędu Statystycznego, zaokrągleniem do 10 groszy górę;
 - **2)** roczną dopuszczalną kwotę przychodu oraz roczną graniczną kwotę przychodu dla każdego roku rozliczeniowego, stanowiące odpowiednio dwunastokrotność kwot, których mowa pkt 1.
@@ -182,6 +184,9 @@ USTAWA dnia 30 kwietnia 2004 świadczeniach przedemerytalnych
 
 **Art. 11.** W sprawach nieuregulowanych ustawie stosuje się odpowiednio przepisy:
 
+- **1)** art. 78–81, art. 88–94, art. 98, art. 103 ust. 3, art. 114, art. 116 ust. 1b i 2, art. 117 ust. 1–4a, art. 118 ust. 1–5, art. 121, art. 122 ust. 1, art. 124, art. 125a, art. 128, art. 129 ust. 1, art. 130 ust. 2 i 3, art. 132, art. 133, art. 134 ust. 1 pkt 1, 2, 4 i 5 oraz ust. 2 pkt 2 i 3, art. 135, art. 136b–140, art. 141 ust. 1–3 i art. 142–144 ustawy emeryturach i rentach FUS, przy czym kwotę wolną od potrąceń i egzekucji ustala się według zasad określonych dla emerytury;
+- **2)** art. 80 pkt 1–4, art. 82, art. 84 ust. 1, 4a, 6–8e i 11 oraz art. 85 ustawy systemie ubezpieczeń społecznych.
+
 **Art. 12.**
 
 1. Świadczenia przedemerytalne i zasiłki pogrzebowe oraz koszty ich obsługi są finansowane ze środków Funduszu Pracy.
@@ -206,7 +211,7 @@ USTAWA dnia 30 kwietnia 2004 świadczeniach przedemerytalnych
 
 2. W terminie 14 dni od dnia przejęcia przez Zakład Ubezpieczeń Społecznych przyznawania i wypłaty świadczeń przedemerytalnych powiatowe urzędy pracy przekażą:
 
-- **1)** listy osób, którym zawieszono lub wstrzymano wypłatę świadczenia przedemerytalnego do dnia przejęcia przez Zakład Ubezpieczeń Społecznych przyznawania i wypłaty świadczeń przedemerytalnych, oraz osób niepobierających świadczenia przedemerytalnego przyczyn określonych art. 27 ust. 1 pkt 3–6 i ust. 2 ustawy dnia 14 grudnia 1994 zatrudnieniu i przeciwdziałaniu bezrobociu (Dz. U. 2003 poz. 514, późn. zm. ); znawania i wypłaty świadczeń przedemerytalnych;
+- **1)** listy osób, którym zawieszono lub wstrzymano wypłatę świadczenia przedemerytalnego do dnia przejęcia przez Zakład Ubezpieczeń Społecznych przyznawania i wypłaty świadczeń przedemerytalnych, oraz osób niepobierających świadczenia przedemerytalnego przyczyn określonych art. 27 ust. 1 pkt 3–6 i ust. 2 ustawy dnia 14 grudnia 1994 zatrudnieniu i przeciwdziałaniu bezrobociu (Dz. U. 2003 poz. 514, późn. zm. ); pomiędzy dniem wejścia życie niniejszej ustawy a dniem przejęcia przez Zakład Ubezpieczeń Społecznych przyznawania i wypłaty świadczeń przedemerytalnych;
 - **3)** informację dotyczącą ostatniego miejsca zatrudnienia osób uprawnionych do świadczeń przedemerytalnych refinansowanych części przez PKP SA, których mowa art. 58 ustawy wymienionej art. 18 .
 
 3. Dokumentacja, której mowa ust. 2 pkt 2, obejmuje:
@@ -246,7 +251,7 @@ USTAWA dnia 30 kwietnia 2004 świadczeniach przedemerytalnych
 - **1)** osoby pobierającej zasiłek przedemerytalny,
 - **2)** członka rodziny osoby, której mowa pkt 1, spełniającego warunki do uzyskania renty rodzinnej przysługuje zasiłek pogrzebowy na zasadach i wysokości określonych ustawie emeryturach i rentach FUS.
 
-2. Do zasiłku pogrzebowego, którym mowa ust. 1, art. 10 ust. 2 i 3 stosuje się odpowiednio.
+2. Do zasiłku pogrzebowego, którym mowa ust. 1, art. 10 ust. 2 i 3 stosuje się odpowiednio. mieniu organu rentowego.
 
 **Art. 28.**
 
@@ -275,7 +280,7 @@ USTAWA dnia 30 kwietnia 2004 świadczeniach przedemerytalnych
 
 3. Świadczenia przedemerytalne i zasiłki przedemerytalne przyznane przypadkach określonych ust. 2 przed dniem przejęcia przez Zakład Ubezpieczeń Społecznych przyznawania i wypłaty świadczeń przedemerytalnych stają się świadczeniami przedemerytalnymi i zasiłkami przedemerytalnymi rozumieniu ustawy.
 
-4. Dochodzenia zwrotu nienależnie pobranych zasiłków przedemerytalnych i świadczeń przedemerytalnych za okres przypadający przed dniem przejęcia przez Zakład Ubezpieczeń Społecznych przyznawania i wypłaty świadczeń przedemerytalnych dokonują powiatowe urzędy pracy według zasad określonych przepisach zatrudnieniu i przeciwdziałaniu bezrobociu. wynagrodzenia za pracę za okres, za który wypłacono świadczenie przedemerytalne lub zasiłek przedemerytalny Funduszu Pracy przed dniem przejęcia przez Zakład Ubezpieczeń Społecznych przyznawania i wypłaty świadczeń przedemerytalnych, Zakład Ubezpieczeń Społecznych oraz organy rentowe pobrane tego tytułu kwoty, wysokości uwzględniającej zaliczkę na podatek dochodowy od osób fizycznych i składkę na ubezpieczenie zdrowotne, zaliczają na poczet przyznanego świadczenia. Kwoty te traktuje się jak świadczenia wypłacane kwocie zaliczkowej rozumieniu ustawy emeryturach i rentach Funduszu Ubezpieczeń Społecznych.
+4. Dochodzenia zwrotu nienależnie pobranych zasiłków przedemerytalnych i świadczeń przedemerytalnych za okres przypadający przed dniem przejęcia przez Zakład Ubezpieczeń Społecznych przyznawania i wypłaty świadczeń przedemerytalnych dokonują powiatowe urzędy pracy według zasad określonych przepisach zatrudnieniu i przeciwdziałaniu bezrobociu. zasiłku chorobowego, świadczenia rehabilitacyjnego lub renty rodzinnej wysokości przekraczającej połowę minimalnego wynagrodzenia za pracę za okres, za który wypłacono świadczenie przedemerytalne lub zasiłek przedemerytalny Funduszu Pracy przed dniem przejęcia przez Zakład Ubezpieczeń Społecznych przyznawania i wypłaty świadczeń przedemerytalnych, Zakład Ubezpieczeń Społecznych oraz organy rentowe pobrane tego tytułu kwoty, wysokości uwzględniającej zaliczkę na podatek dochodowy od osób fizycznych i składkę na ubezpieczenie zdrowotne, zaliczają na poczet przyznanego świadczenia. Kwoty te traktuje się jak świadczenia wypłacane kwocie zaliczkowej rozumieniu ustawy emeryturach i rentach Funduszu Ubezpieczeń Społecznych.
 
 6. Kwota zaliczona na poczet przyznanego świadczenia nie może być wyższa niż ustalona za poszczególne miesiące okresu, którym mowa ust. 5, kwota emerytury, renty tytułu niezdolności do pracy, renty szkoleniowej, renty socjalnej, zasiłku chorobowego, świadczenia rehabilitacyjnego lub renty rodzinnej.
 

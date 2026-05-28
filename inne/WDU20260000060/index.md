@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi
-
-*USTAWA z dnia 27 maja 2004 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 stycznia 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,21 +25,47 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-04-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000060) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/60/text.pdf) |
 
-Art. 70zb. 1. Działalność określona w art. 70e ust. 1 nie wymaga uzyskania zezwolenia Komisji i może być wykonywana na podstawie wpisu do rejestru zarządzających ASI, jeżeli łączna wartość aktywów wchodzących w skład portfeli inwestycyjnych alternatywnych spółek inwestycyjnych, którymi zamierza zarządzać lub zarządza zarządzający ASI, nie przekracza, z uwzględnieniem art. 2 rozporządzenia 231/2013, wyrażonej w złotych równowartości kwoty 100 000 000 euro, a w przypadku gdy zarządzający ASI zarządza wyłącznie spółkami, które nie stosują dźwigni finansowej AFI i w których prawa uczestnictwa mogą być odkupione po co najmniej 5 latach od momentu ich nabycia – równowartości kwoty 500 000 000 euro.
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 grudnia 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2024 r. poz. 1034), z uwzględnieniem zmian wprowadzonych:
+1) ustawą z dnia 6 grudnia 2024 r. o zmianie ustawy o rachunkowości, ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw (Dz. U. poz. 1863),
+2) ustawą z dnia 20 grudnia 2024 r. o podmiotach obsługujących kredyty i nabywcach kredytów (Dz. U. z 2025 r. poz. 146),
+3) ustawą z dnia 9 maja 2025 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 820),
+4) ustawą z dnia 24 czerwca 2025 r. o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. poz. 935),
+5) ustawą z dnia 25 czerwca 2025 r. o zmianie niektórych ustaw w związku z zapewnieniem operacyjnej odporności cyfrowej sektora finansowego oraz emitowaniem europejskich zielonych obligacji (Dz. U. poz. 1069),
+6) ustawą z dnia 9 lipca 2025 r. o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. poz. 1161),
+7) ustawą z dnia 5 sierpnia 2025 r. o uchyleniu ustawy o Centralnej Informacji Emerytalnej (Dz. U. poz. 1216),
+8) ustawą z dnia 12 września 2025 r. o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. poz. 1408) oraz zmian wynikających z przepisów ogłoszonych przed dniem 4 grudnia 2025 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+1) art. 35 ustawy z dnia 6 grudnia 2024 r. o zmianie ustawy o rachunkowości, ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw (Dz. U. poz. 1863), który stanowi: „Art. 35. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+1) art. 12, który wchodzi w życie z dniem 1 stycznia 2025 r.;
+2) art. 3, który wchodzi w życie z dniem 1 kwietnia 2025 r.;
+3) art. 13, który wchodzi w życie z dniem 22 czerwca 2025 r.;
+4) art. 10, który wchodzi w życie z dniem 1 lipca 2025 r.”;
+2) art. 76 ustawy z dnia 20 grudnia 2024 r. o podmiotach obsługujących kredyty i nabywcach kredytów (Dz. U. z 2025 r.
+poz. 146), który stanowi: „Art. 76. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+1) art. 65, art. 67 i art. 75, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+2) art. 61 pkt 2 i art. 68, które wchodzą w życie po upływie 2 miesięcy od dnia ogłoszenia.”;
+3) art. 34 ustawy z dnia 9 maja 2025 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U.
+poz. 820), który stanowi: „Art. 34. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 27, art. 28 i art. 30, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.”;
+4) art. 2 ustawy z dnia 24 czerwca 2025 r. o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. poz. 935), który stanowi: „Art. 2. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+5) art. 20 ustawy z dnia 25 czerwca 2025 r. o zmianie niektórych ustaw w związku z zapewnieniem operacyjnej odporności cyfrowej sektora finansowego oraz emitowaniem europejskich zielonych obligacji (Dz. U. poz. 1069), który stanowi: „Art. 20. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
+6) art. 2 i art. 3 ustawy z dnia 9 lipca 2025 r. o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. poz. 1161), które stanowią: „Art. 2. Przepisy art. 208zzi ust. 8–11 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się po raz pierwszy do połączeń funduszy inwestycyjnych zamkniętych, o których mowa w art. 15 ust. 1a ustawy zmienianej w art. 1, których organem jest to samo towarzystwo funduszy inwestycyjnych, w przypadku których plan połączenia został sporządzony i podpisany najwcześniej w dniu wejścia w życie niniejszej ustawy.
+Art. 70zb. 1. Działalność określona w art. 70e ust. 1 nie wymaga uzyskania zezwolenia Komisji i może być wykonywana na podstawie wpisu do rejestru zarządzających ASI, jeżeli łączna wartość aktywów wchodzących w skład portfeli inwestycyjnych alternatywnych spółek inwestycyjnych, którymi zamierza zarządzać lub zarządza zarządzający ASI, nie przekracza, z uwzględnieniem art. 2 rozporządzenia 231/2013, wyrażonej w złotych równowartości kwoty 100 000 000 euro, a w przypadku gdy zarządzający ASI zarządza wyłącznie spółkami, które nie stosują dźwigni finansowej AFI i w których prawa uczestnictwa mogą być odkupione po co najmniej 5 latach od momentu ich nabycia równowartości kwoty 500 000 000 euro.
 2. Równowartość w złotych kwot określonych w ust. 1 ustala się przy zastosowaniu średniego kursu ogłoszonego przez Narodowy Bank Polski na ostatni dzień roboczy poprzedzający:
-1) dzień złożenia wniosku – w przypadku podmiotu ubiegającego się o wpis do rejestru zarządzających ASI;
-2) dzień przyjęty jako dzień obliczenia łącznej wartości aktywów wchodzących w skład portfeli inwestycyjnych alternatywnych spółek inwestycyjnych, którymi zarządza – w przypadku zarządzającego ASI wpisanego do rejestru zarządzających ASI.
+1) dzień złożenia wniosku w przypadku podmiotu ubiegającego się o wpis do rejestru zarządzających ASI;
+2) dzień przyjęty jako dzień obliczenia łącznej wartości aktywów wchodzących w skład portfeli inwestycyjnych alternatywnych spółek inwestycyjnych, którymi zarządza w przypadku zarządzającego ASI wpisanego do rejestru zarządzających ASI.
 3. Zarządzający ASI niezwłocznie informuje Komisję o przyjętym dniu obliczania łącznej wartości aktywów wchodzących w skład portfela inwestycyjnego alternatywnej spółki inwestycyjnej, którym zarządza, jak również o jego zmianie.
 4. Do zarządzającego ASI, który wykonuje działalność określoną w art. 70e ust. 1 bez zezwolenia Komisji, po uzyskaniu wpisu do rejestru zarządzających ASI nie stosuje się przepisów art. 70ba–70bd, art. 70d, art. 70f ust. 3–12, art. 70g–70j, art. 70l–70r oraz przepisów działów IIIb, IV i XII.
 5. Działalność określona w art. 70e ust. 1 może być wykonywana przez zarządzającego ASI, który spełnia warunki określone w ust. 1, na podstawie zezwolenia na wykonywanie działalności zarządzającego ASI, jeżeli wystąpi on o takie zezwolenie. W takim przypadku przepisu ust. 4 nie stosuje się.
 6. Rejestr zarządzających ASI prowadzi Komisja.
 Art. 70zc. 1. Komisja dokonuje wpisu zarządzającego ASI do rejestru zarządzających ASI na wniosek:
-1) spółki kapitałowej w organizacji – w przypadku gdy zamierza ona prowadzić działalność jako wewnętrznie zarządzający ASI;
-2) spółki kapitałowej, która ma być komplementariuszem alternatywnej spółki inwestycyjnej, zgodnie z jej umową albo statutem, przed zgłoszeniem tej spółki do sądu rejestrowego – w przypadku gdy zamierza ona prowadzić działalność jako zewnętrznie zarządzający ASI.
+1) spółki kapitałowej w organizacji w przypadku gdy zamierza ona prowadzić działalność jako wewnętrznie zarządzający ASI;
+2) spółki kapitałowej, która ma być komplementariuszem alternatywnej spółki inwestycyjnej, zgodnie z jej umową albo statutem, przed zgłoszeniem tej spółki do sądu rejestrowego w przypadku gdy zamierza ona prowadzić działalność jako zewnętrznie zarządzający ASI.
 2. Do wniosku, o którym mowa w ust. 1, z uwzględnieniem art. 5 rozporządzenia 231/2013, załącza się:
 1) statut lub umowę spółki;
 1a) statut lub umowę alternatywnej spółki inwestycyjnej, którą wnioskodawca zamierza zarządzać;
-2) odpis z rejestru przedsiębiorców – w przypadku spółki kapitałowej, o której mowa w art. 8b ust. 2 pkt 2;
+2) odpis z rejestru przedsiębiorców w przypadku spółki kapitałowej, o której mowa w art. 8b ust. 2 pkt 2;
 3) dane osobowe członków zarządu lub rady nadzorczej wnioskodawcy, jak również innych osób, które odpowiadają za wykonywaną przez wnioskodawcę działalność lub nią kierują, wraz z odpisem informacji z Krajowego Rejestru Karnego;
 4) opis alternatywnych spółek inwestycyjnych wraz ze wskazaniem nazw tych spółek, którymi wnioskodawca zamierza zarządzać, obejmujący:
 a) planowaną łączną wartość aktywów wchodzących w skład portfeli inwestycyjnych tych spółek,
@@ -55,11 +79,11 @@ b) opis polityki inwestycyjnej oraz strategii inwestycyjnej każdej z tych spó�
 4. Bieg terminów określonych w art. 169 i art. 325 § 1 Kodeksu spółek handlowych do zgłoszenia spółki do sądu rejestrowego ulega zawieszeniu na czas rozpatrywania wniosku, o którym mowa w ust. 1.
 Art. 70zd. 1. Wpisowi do rejestru zarządzających ASI podlega:
 1) firma (nazwa) i adres siedziby zarządzającego ASI;
-2) w przypadku zewnętrznie zarządzającego ASI – firma (nazwa) i adres siedziby każdej zarządzanej przez niego alternatywnej spółki inwestycyjnej;
-3) numer w Krajowym Rejestrze Sądowym zarządzającego ASI, a w przypadku zewnętrznie zarządzającego ASI – dodatkowo numer każdej zarządzanej przez niego alternatywnej spółki inwestycyjnej.
+2) w przypadku zewnętrznie zarządzającego ASI firma (nazwa) i adres siedziby każdej zarządzanej przez niego alternatywnej spółki inwestycyjnej;
+3) numer w Krajowym Rejestrze Sądowym zarządzającego ASI, a w przypadku zewnętrznie zarządzającego ASI dodatkowo numer każdej zarządzanej przez niego alternatywnej spółki inwestycyjnej.
 2. Rejestr zarządzających ASI jest jawny.
 3. Zewnętrznie zarządzający ASI wpisany do rejestru zarządzających ASI zgłasza do tego rejestru każdą alternatywną spółkę inwestycyjną, którą zamierza zarządzać, przekazując Komisji informację o jej firmie (nazwie) i adresie siedziby wraz z opisem jej polityki inwestycyjnej oraz strategii inwestycyjnej albo oświadczeniem, że polityka ta oraz strategia są zgodne z opisem, o którym mowa w art. 70zc ust. 2 pkt 4 lit. b, a także statut lub umowę tej spółki.
-4. Zarządzający ASI wpisany do rejestru zarządzających ASI niezwłocznie informuje Komisję o zmianie danych określonych w ust. 1, w tym o zaprzestaniu zarządzania alternatywną spółką inwestycyjną wpisaną do tego rejestru, a w przypadku gdy jest ono związane z przejęciem zarządzania alternatywną spółką inwestycyjną przez inny podmiot – wskazuje równocześnie firmę (nazwę) i adres siedziby tego podmiotu.
+4. Zarządzający ASI wpisany do rejestru zarządzających ASI niezwłocznie informuje Komisję o zmianie danych określonych w ust. 1, w tym o zaprzestaniu zarządzania alternatywną spółką inwestycyjną wpisaną do tego rejestru, a w przypadku gdy jest ono związane z przejęciem zarządzania alternatywną spółką inwestycyjną przez inny podmiot wskazuje równocześnie firmę (nazwę) i adres siedziby tego podmiotu.
 Art. 70ze. 1. Zarządzający ASI wpisany do rejestru zarządzających ASI zapewnia, z uwzględnieniem art. 2 ust. 6 oraz art. 3 rozporządzenia 231/2013, monitorowanie łącznej wartości aktywów wchodzących w skład portfeli inwestycyjnych alternatywnych spółek inwestycyjnych, którymi zarządza, oraz jej obliczanie co najmniej raz na 12 miesięcy.
 2. W przypadku gdy łączna wartość aktywów, o której mowa w ust. 1, przekroczy próg określony w art. 70zb ust. 1 i przekroczenie to nie będzie miało charakteru tymczasowego, o którym mowa w art. 4 rozporządzenia 231/2013, zarządzający ASI:
 1) niezwłocznie informuje Komisję o przekroczeniu;
@@ -81,17 +105,18 @@ Art. 70zf. 1. Komisja wykreśla zarządzającego ASI z rejestru zarządzających
 3. W przypadku wykreślenia zarządzającego ASI z rejestru zarządzających ASI zgodnie z ust. 1 pkt 1–3 przepisy art. 70x ust. 3 i 4 oraz art. 70y stosuje się odpowiednio.
 Art. 70zg. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, sposób prowadzenia rejestru zarządzających ASI przez Komisję, w tym sposób dokonywania wpisów oraz tryb jego udostępniania, uwzględniając zapewnienie sprawności postępowania.
 Art. 70zj. 1. Przepisy niniejszego działu stosuje się w przypadku przejęcia przez fundusz kontroli nad spółką nienotowaną na rynku regulowanym lub notowanym emitentem, z wyjątkiem przejęcia kontroli nad:
-1) mikroprzedsiębiorcą, małym przedsiębiorcą lub średnim przedsiębiorcą w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców;
+1) mikroprzedsiębiorcą, małym przedsiębiorcą lub średnim przedsiębiorcą w rozumieniu ustawy z dnia 6 marca 2018 r.
+Prawo przedsiębiorców;
 2) spółką celową specjalnego przeznaczenia, której przeważającym przedmiotem działalności jest nabywanie nieruchomości w celach inwestycyjnych i zarządzanie nimi.
 2. Przez użyte w niniejszym dziale określenia:
-1) spółka nienotowana na rynku regulowanym – rozumie się spółkę, której papiery wartościowe nie są dopuszczone do obrotu na rynku regulowanym;
-2) notowany emitent – rozumie się podmiot emitujący we własnym imieniu akcje lub inne papiery wartościowe o charakterze udziałowym dopuszczone do obrotu na rynku regulowanym;
-3) fundusz – rozumie się specjalistyczny fundusz inwestycyjny otwarty, fundusz inwestycyjny zamknięty, alternatywną spółkę inwestycyjną oraz unijny AFI, które są zarządzane przez odpowiednio towarzystwo albo zarządzającego ASI;
-4) porozumienie – rozumie się pisemne lub ustne porozumienie dotyczące nabywania, zbywania lub posiadania praw udziałowych w innym podmiocie, zgodnego wykonywania prawa głosu z posiadanych w nim praw udziałowych lub prowadzenia w nim trwałej polityki finansowej i operacyjnej;
-5) kontrola – rozumie się w odniesieniu do:
-a) spółki nienotowanej na rynku regulowanym – posiadanie więcej niż 50 % ogólnej liczby głosów w takiej spółce,
-b) notowanego emitenta – bycie podmiotem dominującym wobec takiego emitenta;
-6) przejęcie kontroli – rozumie się doprowadzenie do uzyskania kontroli:
+1) spółka nienotowana na rynku regulowanym rozumie się spółkę, której papiery wartościowe nie są dopuszczone do obrotu na rynku regulowanym;
+2) notowany emitent rozumie się podmiot emitujący we własnym imieniu akcje lub inne papiery wartościowe o charakterze udziałowym dopuszczone do obrotu na rynku regulowanym;
+3) fundusz rozumie się specjalistyczny fundusz inwestycyjny otwarty, fundusz inwestycyjny zamknięty, alternatywną spółkę inwestycyjną oraz unijny AFI, które są zarządzane przez odpowiednio towarzystwo albo zarządzającego ASI;
+4) porozumienie rozumie się pisemne lub ustne porozumienie dotyczące nabywania, zbywania lub posiadania praw udziałowych w innym podmiocie, zgodnego wykonywania prawa głosu z posiadanych w nim praw udziałowych lub prowadzenia w nim trwałej polityki finansowej i operacyjnej;
+5) kontrola rozumie się w odniesieniu do:
+a) spółki nienotowanej na rynku regulowanym posiadanie więcej niż 50 % ogólnej liczby głosów w takiej spółce,
+b) notowanego emitenta bycie podmiotem dominującym wobec takiego emitenta;
+6) przejęcie kontroli rozumie się doprowadzenie do uzyskania kontroli:
 a) indywidualnie przez fundusz,
 b) wspólnie przez więcej niż jeden fundusz zarządzany przez to samo towarzystwo albo tego samego zarządzającego ASI, gdy fundusze te łączy porozumienie,
 c) przez fundusz na podstawie porozumienia między towarzystwem lub zarządzającym ASI, które nim zarządzają, i co najmniej jednym innym towarzystwem, zarządzającym ASI lub zarządzającym z UE.
@@ -101,7 +126,7 @@ Art. 70zk. 1. Towarzystwo i zarządzający ASI każdorazowo zawiadamiają Komisj
 Art. 70zl. 1. O przejęciu przez fundusz kontroli nad spółką nienotowaną na rynku regulowanym towarzystwo albo zarządzający ASI, którzy zarządzają tym funduszem, zawiadamiają w terminie 10 dni roboczych od dnia przejęcia kontroli:
 1) Komisję;
 2) spółkę nienotowaną na rynku regulowanym, nad którą fundusz przejął kontrolę;
-3) wspólników lub akcjonariuszy spółki nienotowanej na rynku regulowanym, nad którą fundusz przejął kontrolę – w zakresie, w jakim dane o nich są dostępne towarzystwu albo zarządzającemu ASI.
+3) wspólników lub akcjonariuszy spółki nienotowanej na rynku regulowanym, nad którą fundusz przejął kontrolę w zakresie, w jakim dane o nich są dostępne towarzystwu albo zarządzającemu ASI.
 2. Zawiadomienie, o którym mowa w ust. 1, zawiera:
 1) informacje o liczbie udziałów w kapitale zakładowym spółki nienotowanej na rynku regulowanym posiadanych po przejęciu kontroli oraz o liczbie głosów wynikającej z posiadania akcji lub udziałów i ich procentowym udziale w ogólnej liczbie głosów;
 2) informacje o warunkach, na jakich przejęto kontrolę, w tym informacje o podmiotach, które w wyniku czynności prawnej dokonanej z przejmującym kontrolę będą uprawnione do wykonywania prawa głosu w spółce nienotowanej na rynku regulowanym;
@@ -110,15 +135,15 @@ Art. 70zl. 1. O przejęciu przez fundusz kontroli nad spółką nienotowaną na 
 5) opis sposobów zapobiegania powstawaniu konfliktów interesów pomiędzy towarzystwem, zarządzającym ASI oraz funduszem a spółką nienotowaną na rynku regulowanym albo wskazanie miejsca jego udostępnienia;
 6) opis zasad udostępniania informacji spółce nienotowanej na rynku regulowanym oraz innym podmiotom albo wskazanie miejsca jego udostępnienia.
 3. Towarzystwo oraz zarządzający ASI, o których mowa w ust. 1, dodatkowo przekazują:
-1) Komisji, w zawiadomieniu, o którym mowa w ust. 1, oraz uczestnikom albo inwestorom funduszu – informacje dotyczące źródeł pochodzenia środków finansowania działań, których skutkiem jest przejęcie kontroli;
-2) spółce nienotowanej na rynku regulowanym i wspólnikom albo akcjonariuszom, o których mowa w ust. 1 pkt 2 i 3, w zawiadomieniu, o którym mowa w ust. 1 – informacje o zamiarach dotyczących dalszego prowadzenia działalności tej spółki, w tym informacje mające istotny wpływ na stan zatrudnienia oraz warunki pracy i płacy w tej spółce.
+1) Komisji, w zawiadomieniu, o którym mowa w ust. 1, oraz uczestnikom albo inwestorom funduszu informacje dotyczące źródeł pochodzenia środków finansowania działań, których skutkiem jest przejęcie kontroli;
+2) spółce nienotowanej na rynku regulowanym i wspólnikom albo akcjonariuszom, o których mowa w ust. 1 pkt 2 i 3, w zawiadomieniu, o którym mowa w ust. 1 informacje o zamiarach dotyczących dalszego prowadzenia działalności tej spółki, w tym informacje mające istotny wpływ na stan zatrudnienia oraz warunki pracy i płacy w tej spółce.
 4. Towarzystwo oraz zarządzający ASI występują w zawiadomieniu, o którym mowa w ust. 1, skierowanym do spółki nienotowanej na rynku regulowanym, nad którą fundusz przejął kontrolę, o niezwłoczne:
 1) poinformowanie przedstawicieli pracowników spółki nienotowanej na rynku regulowanym, a w przypadku ich braku, pracowników tej spółki o przejęciu kontroli nad tą spółką,
-2) przekazanie przedstawicielom pracowników spółki nienotowanej na rynku regulowanym, a w przypadku ich braku, pracownikom tej spółki informacji, o których mowa w ust. 2, i udostępnienie im informacji, o których mowa w ust. 3 pkt 2, o ile z odrębnych przepisów nie wynikają ograniczenia w tym zakresie – zgodnie z przepisami prawa pracy i w sposób przyjęty u danego pracodawcy.
+2) przekazanie przedstawicielom pracowników spółki nienotowanej na rynku regulowanym, a w przypadku ich braku, pracownikom tej spółki informacji, o których mowa w ust. 2, i udostępnienie im informacji, o których mowa w ust. 3 pkt 2, o ile z odrębnych przepisów nie wynikają ograniczenia w tym zakresie zgodnie z przepisami prawa pracy i w sposób przyjęty u danego pracodawcy.
 Art. 70zm. 1. Towarzystwo albo zarządzający ASI, którzy zarządzają funduszem przejmującym kontrolę nad notowanym emitentem, niezwłocznie przekazują:
 1) Komisji,
 2) notowanemu emitentowi, nad którym fundusz przejął kontrolę,
-3) wspólnikom albo akcjonariuszom notowanego emitenta, nad którym fundusz przejął kontrolę – w zakresie, w jakim dane o nich są dostępne towarzystwu lub zarządzającemu ASI – informacje związane z przejęciem kontroli.
+3) wspólnikom albo akcjonariuszom notowanego emitenta, nad którym fundusz przejął kontrolę w zakresie, w jakim dane o nich są dostępne towarzystwu lub zarządzającemu ASI informacje związane z przejęciem kontroli.
 2. Informacje, o których mowa w ust. 1, obejmują:
 1) dane o towarzystwie albo zarządzającym ASI, którzy zarządzają funduszem przejmującym kontrolę;
 2) opis sposobów zapobiegania powstawaniu konfliktów interesów pomiędzy towarzystwem, zarządzającym ASI oraz funduszem a notowanym emitentem, albo wskazanie miejsca jego udostępnienia;
@@ -133,10 +158,10 @@ b) obniżenia kapitału zakładowego, umorzenia udziałów lub akcji, nabycia ud
 c) zwrotu dopłat, o których mowa w art. 179 § 1 Kodeksu spółek handlowych, w przypadku spółki z ograniczoną odpowiedzialnością;
 2) obowiązek podejmowania z zachowaniem należytej staranności działań mających na celu zapobieżenie skutkom określonym w pkt 1.
 3. Ograniczenia, o których mowa w ust. 2, nie dotyczą:
-1) wypłat, o których mowa w ust. 2 pkt 1 lit. a, dokonywanych przez spółkę nienotowaną na rynku regulowanym lub notowanego emitenta – w kwocie przekraczającej wartość różnicy między wartością aktywów netto z ostatniego rocznego sprawozdania finansowego tej spółki lub tego emitenta a wartością stanowiącą sumę wartości wpłaconej części kapitału zakładowego oraz wartości kapitału zapasowego i kapitałów rezerwowych, w zakresie, w jakim ustawa, statut albo umowa tej spółki lub tego emitenta pozwalają na użycie tych kapitałów;
-2) wypłat, o których mowa w ust. 2 pkt 1 lit. a, dokonywanych przez spółkę nienotowaną na rynku regulowanym lub notowanego emitenta – w zakresie, w jakim kwota przeznaczona do podziału między wspólników albo akcjonariuszy nie przekracza zysku za ostatni rok obrotowy, powiększonego o niepodzielone zyski z lat ubiegłych oraz o kwoty przeniesione z utworzonych z zysku kapitałów zapasowego i rezerwowych, które mogą być przeznaczone do podziału, oraz pomniejszonego o kwotę niepokrytych strat z lat ubiegłych, wartości bilansowej udziałów albo akcji własnych oraz o kwoty, które zgodnie z ustawą, statutem albo umową tej spółki lub tego emitenta powinny być przekazane z zysku za ostatni rok obrotowy na kapitał zapasowy lub kapitały rezerwowe;
-3) nabycia przez spółkę nienotowaną na rynku regulowanym lub notowanego emitenta lub na rzecz tej spółki lub tego emitenta udziałów albo akcji własnych – w zakresie, w jakim takie nabycie jest dopuszczalne na podstawie odrębnych przepisów, o ile wartość nabywanych udziałów albo akcji łącznie z wartością udziałów albo akcji uprzednio nabytych przez tę spółkę lub tego emitenta lub nabytych na jej rzecz lub na jego rzecz nie będzie przekraczać wartości różnicy pomiędzy wartością aktywów netto z ostatniego rocznego sprawozdania finansowego tej spółki lub tego emitenta a wartością stanowiącą sumę wartości wpłaconej części kapitału zakładowego oraz wartości kapitału zapasowego i kapitałów rezerwowych w zakresie, w jakim ustawa, statut albo umowa tej spółki pozwalają na użycie tych kapitałów;
-4) obniżenia kapitału zakładowego w granicach dozwolonych ustawą – jeżeli obniżenie kapitału zakładowego ma na celu wyrównanie poniesionych strat lub przeniesienie określonych kwot do kapitałów rezerwowych, pod warunkiem że w wyniku tej operacji wartość kapitałów rezerwowych nie przekroczy 10 % obniżonego kapitału zakładowego.
+1) wypłat, o których mowa w ust. 2 pkt 1 lit. a, dokonywanych przez spółkę nienotowaną na rynku regulowanym lub notowanego emitenta w kwocie przekraczającej wartość różnicy między wartością aktywów netto z ostatniego rocznego sprawozdania finansowego tej spółki lub tego emitenta a wartością stanowiącą sumę wartości wpłaconej części kapitału zakładowego oraz wartości kapitału zapasowego i kapitałów rezerwowych, w zakresie, w jakim ustawa, statut albo umowa tej spółki lub tego emitenta pozwalają na użycie tych kapitałów;
+2) wypłat, o których mowa w ust. 2 pkt 1 lit. a, dokonywanych przez spółkę nienotowaną na rynku regulowanym lub notowanego emitenta w zakresie, w jakim kwota przeznaczona do podziału między wspólników albo akcjonariuszy nie przekracza zysku za ostatni rok obrotowy, powiększonego o niepodzielone zyski z lat ubiegłych oraz o kwoty przeniesione z utworzonych z zysku kapitałów zapasowego i rezerwowych, które mogą być przeznaczone do podziału, oraz pomniejszonego o kwotę niepokrytych strat z lat ubiegłych, wartości bilansowej udziałów albo akcji własnych oraz o kwoty, które zgodnie z ustawą, statutem albo umową tej spółki lub tego emitenta powinny być przekazane z zysku za ostatni rok obrotowy na kapitał zapasowy lub kapitały rezerwowe;
+3) nabycia przez spółkę nienotowaną na rynku regulowanym lub notowanego emitenta lub na rzecz tej spółki lub tego emitenta udziałów albo akcji własnych w zakresie, w jakim takie nabycie jest dopuszczalne na podstawie odrębnych przepisów, o ile wartość nabywanych udziałów albo akcji łącznie z wartością udziałów albo akcji uprzednio nabytych przez tę spółkę lub tego emitenta lub nabytych na jej rzecz lub na jego rzecz nie będzie przekraczać wartości różnicy pomiędzy wartością aktywów netto z ostatniego rocznego sprawozdania finansowego tej spółki lub tego emitenta a wartością stanowiącą sumę wartości wpłaconej części kapitału zakładowego oraz wartości kapitału zapasowego i kapitałów rezerwowych w zakresie, w jakim ustawa, statut albo umowa tej spółki pozwalają na użycie tych kapitałów;
+4) obniżenia kapitału zakładowego w granicach dozwolonych ustawą jeżeli obniżenie kapitału zakładowego ma na celu wyrównanie poniesionych strat lub przeniesienie określonych kwot do kapitałów rezerwowych, pod warunkiem że w wyniku tej operacji wartość kapitałów rezerwowych nie przekroczy 10 % obniżonego kapitału zakładowego.
 Art. 208zc. 1. O ile nic innego nie wynika z przepisów niniejszego oddziału, do połączenia transgranicznego przez przejęcie funduszu krajowego oraz przez utworzenie funduszu zagranicznego stosuje się odpowiednio przepisy o połączeniu krajowym przez przejęcie, z wyłączeniem art. 208t ust. 4.
 2. Zgoda Komisji na połączenie funduszy, o której mowa w art. 208i ust. 1 pkt 2, oraz zgoda zgromadzenia uczestników, o której mowa w art. 208i ust. 1 pkt 4, w odniesieniu do krajowego funduszu przejmowanego są udzielane odpowiednio na:
 1) połączenie transgraniczne przez przejęcie funduszu krajowego albo
@@ -146,14 +171,14 @@ Art. 208zd. 1. Plan połączenia zawiera dodatkowo:
 1) wskazanie przepisów regulujących nabycie przez uczestników funduszy przejmowanych tytułów uczestnictwa funduszu przejmującego;
 2) wskazanie zasad przenoszenia aktywów funduszu przejmowanego do funduszu przejmującego;
 3) w przypadku połączenia transgranicznego przez utworzenie funduszu zagranicznego:
-a) statut, prospekt informacyjny funduszu przejmującego oraz: – kluczowe informacje – w przypadku udostępniania przez fundusz przejmujący kluczowych informacji wszystkim inwestorom albo – kluczowe informacje i kluczowe informacje dla inwestorów – w przypadku udostępniania przez fundusz przejmujący kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo – kluczowe informacje dla inwestorów – w przypadku zbywania przez fundusz przejmujący tytułów uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów,
-b) wskazanie wartości początkowej tytułu uczestnictwa funduszu przejmującego – w przypadku gdy przewiduje to prawo państwa macierzystego tego funduszu.
+a) statut, prospekt informacyjny funduszu przejmującego oraz: kluczowe informacje w przypadku udostępniania przez fundusz przejmujący kluczowych informacji wszystkim inwestorom albo kluczowe informacje i kluczowe informacje dla inwestorów w przypadku udostępniania przez fundusz przejmujący kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo kluczowe informacje dla inwestorów w przypadku zbywania przez fundusz przejmujący tytułów uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów,
+b) wskazanie wartości początkowej tytułu uczestnictwa funduszu przejmującego w przypadku gdy przewiduje to prawo państwa macierzystego tego funduszu.
 2. W przypadku połączenia transgranicznego przez utworzenie funduszu zagranicznego plan połączenia sporządzają i podpisują fundusze przejmowane i podmiot uprawniony do reprezentowania funduszu przejmującego zgodnie z prawem państwa macierzystego tego funduszu.
 Art. 208ze. 1. Do wniosku o udzielenie zgody:
 1) na połączenie transgraniczne przez przejęcie funduszu krajowego oraz przez utworzenie funduszu zagranicznego załącza się dodatkowo:
 a) statut,
 b) prospekt informacyjny funduszu przejmującego,
-c) następujące dokumenty: – kluczowe informacje – w przypadku udostępniania przez fundusz przejmujący kluczowych informacji wszystkim inwestorom albo – kluczowe informacje i kluczowe informacje dla inwestorów – w przypadku udostępniania przez fundusz przejmujący kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo – kluczowe informacje dla inwestorów – w przypadku zbywania przez fundusz przejmujący tytułów uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów – oraz zmiany tych dokumentów;
+c) następujące dokumenty: kluczowe informacje w przypadku udostępniania przez fundusz przejmujący kluczowych informacji wszystkim inwestorom albo kluczowe informacje i kluczowe informacje dla inwestorów w przypadku udostępniania przez fundusz przejmujący kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo kluczowe informacje dla inwestorów w przypadku zbywania przez fundusz przejmujący tytułów uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów oraz zmiany tych dokumentów;
 2) na połączenie transgraniczne przez utworzenie funduszu zagranicznego załącza się dodatkowo dokument informacyjny funduszu przejmującego, jeżeli jego sporządzenie przewiduje prawo państwa macierzystego tego funduszu.
 2. Dokument informacyjny funduszu przejmowanego powinien zawierać dodatkowo wskazanie różnic w zakresie zasad sprawozdawczości okresowej tego funduszu i funduszu przejmującego, informację o spodziewanym wpływie połączenia na sposób opodatkowania dochodów z inwestycji w fundusz, a także informację o dopłacie w środkach pieniężnych, jeżeli dokonanie takiej dopłaty przez fundusz przejmujący będzie konieczne. Dopłata nie może przewyższać 10 % wartości aktywów netto funduszu przejmowanego przypadających na jednostki uczestnictwa danego uczestnika.
 3. Do wniosku, o którym mowa w ust. 1, dołącza się także jego tłumaczenie oraz tłumaczenie załączonych do niego dokumentów na język urzędowy albo jeden z języków urzędowych państwa macierzystego funduszu przejmującego.
@@ -172,8 +197,7 @@ c) następujące dokumenty: – kluczowe informacje – w przypadku udostępnian
 5) fundusz przejmujący nie posiada uprawnienia do zbywania tytułów uczestnictwa na terytorium Rzeczypospolitej Polskiej lub na terytorium państw członkowskich, na terytorium których fundusz przejmowany zbywa jednostki uczestnictwa.
 9. Zgoda Komisji na połączenie transgraniczne przez przejęcie funduszu krajowego oraz przez utworzenie funduszu zagranicznego nie zawiera rozstrzygnięcia w przedmiocie zatwierdzenia dokumentu informacyjnego funduszu przejmującego.
 10. O wydaniu decyzji w sprawie wniosku, o którym mowa w ust. 1, Komisja informuje właściwy organ państwa macierzystego funduszu przejmującego.
-Art. 208zf. 1. Do ustalenia dnia obliczenia stosunku wymiany łączących się funduszy stosuje się przepisy prawa państwa macierzystego funduszu przejmującego.
-Obliczenie stosunku wymiany następuje w sposób określony w planie połączenia.
+Art. 208zf. 1. Do ustalenia dnia obliczenia stosunku wymiany łączących się funduszy stosuje się przepisy prawa państwa macierzystego funduszu przejmującego. Obliczenie stosunku wymiany następuje w sposób określony w planie połączenia.
 2. Niezwłocznie po przydzieleniu uczestnikom funduszu przejmowanego tytułów uczestnictwa funduszu przejmującego firma audytorska badająca sprawozdania finansowe funduszu przejmowanego dokonuje badania i wydaje opinię w przedmiocie prawidłowości:
 1) ostatecznej wyceny aktywów oraz ustalenia wartości aktywów netto łączących się funduszy oraz
 2) obliczenia stosunku wymiany oraz wysokości dopłat dla uczestników funduszu przejmowanego.
@@ -202,8 +226,8 @@ Art. 208zl. 1. O ile nic innego nie wynika z przepisów niniejszego oddziału, d
 Art. 208zm. Plan połączenia zawiera dodatkowo:
 1) wskazanie przepisów regulujących nabycie przez uczestników funduszy przejmowanych jednostek uczestnictwa funduszu przejmującego;
 2) wskazanie zasad przenoszenia aktywów funduszu przejmowanego do funduszu przejmującego.
-Art. 208zn. 1. Połączenie transgraniczne przez przejęcie funduszu zagranicznego dochodzi do skutku pod warunkiem uzyskania przez co najmniej jeden zagraniczny fundusz przejmowany zgody właściwych organów państwa macierzystego tego funduszu na połączenie oraz jeżeli jest to wymagane przepisami prawa jego państwa macierzystego – zgody właściwych organów tego funduszu na połączenie.
-2. Plan połączenia może przewidywać, że do skuteczności połączenia wymagane jest uzyskanie zgód, o których mowa w ust. 1, przez więcej niż jeden fundusz zagraniczny lub jeżeli w połączeniu bierze udział krajowy fundusz przejmowany – również uzyskanie przez ten fundusz zgody Komisji oraz zgody zgromadzenia uczestników na połączenie transgraniczne przez przejęcie funduszu zagranicznego.
+Art. 208zn. 1. Połączenie transgraniczne przez przejęcie funduszu zagranicznego dochodzi do skutku pod warunkiem uzyskania przez co najmniej jeden zagraniczny fundusz przejmowany zgody właściwych organów państwa macierzystego tego funduszu na połączenie oraz jeżeli jest to wymagane przepisami prawa jego państwa macierzystego zgody właściwych organów tego funduszu na połączenie.
+2. Plan połączenia może przewidywać, że do skuteczności połączenia wymagane jest uzyskanie zgód, o których mowa w ust. 1, przez więcej niż jeden fundusz zagraniczny lub jeżeli w połączeniu bierze udział krajowy fundusz przejmowany również uzyskanie przez ten fundusz zgody Komisji oraz zgody zgromadzenia uczestników na połączenie transgraniczne przez przejęcie funduszu zagranicznego.
 Art. 208zo. Niezwłocznie po podpisaniu planu połączenia krajowy fundusz przejmujący informuje Komisję o zamiarze połączenia, przedstawiając dokument informacyjny tego funduszu i plan połączenia.
 Art. 208zp. 1. Połączenie transgraniczne przez przejęcie funduszu zagranicznego wymaga zatwierdzenia przez Komisję dokumentu informacyjnego krajowego funduszu przejmującego. Zatwierdzenie dokumentu następuje w postępowaniu określonym w ust. 2–7 albo w postępowaniu w sprawie wydania zgody Komisji na połączenie transgraniczne przez przejęcie funduszu zagranicznego.
 2. Postępowanie w sprawie zatwierdzenia dokumentu informacyjnego krajowego funduszu przejmującego jest wszczynane w dniu otrzymania przez Komisję od właściwych organów państwa macierzystego zagranicznego funduszu przejmowanego, przetłumaczonych na język polski:
@@ -214,7 +238,7 @@ Art. 208zp. 1. Połączenie transgraniczne przez przejęcie funduszu zagraniczne
 3. W terminie 15 dni roboczych od dnia otrzymania wszystkich dokumentów, o których mowa w ust. 2, Komisja może zażądać od funduszu przejmującego zmiany lub rozszerzenia informacji zawartych w dokumencie informacyjnym, mając na celu zapewnienie należytej ochrony interesów uczestników krajowego funduszu przejmującego, w tym w szczególności zapewnienie im dostępu do informacji pozwalających należycie ocenić skutki planowanego połączenia.
 4. Komisja w terminie 20 dni roboczych od dnia otrzymania wszystkich dokumentów, o których mowa w ust. 2, w drodze decyzji:
 1) zatwierdza dokument informacyjny funduszu przejmującego albo
-2) odmawia jego zatwierdzenia – i informuje o swojej decyzji właściwe organy państwa macierzystego zagranicznego funduszu przejmowanego.
+2) odmawia jego zatwierdzenia i informuje o swojej decyzji właściwe organy państwa macierzystego zagranicznego funduszu przejmowanego.
 5. W przypadku, o którym mowa w ust. 3, bieg terminu, o którym mowa w ust. 4, rozpoczyna się w dniu następującym po dniu otrzymania przez Komisję żądanych informacji.
 6. Komisja może odmówić zatwierdzenia dokumentu informacyjnego krajowego funduszu przejmującego w przypadku nieudzielenia przez ten fundusz odpowiedzi zgodnie z żądaniem, o którym mowa w ust. 3, lub gdy poprawiony dokument informacyjny nie spełnia wymogów określonych w ustawie.
 7. Komisja informuje niezwłocznie właściwe organy państwa macierzystego zagranicznego funduszu przejmowanego o przesłaniu do funduszu krajowego żądania, o którym mowa w ust. 3.
@@ -225,7 +249,8 @@ Art. 208zs. 1. W przypadku połączenia transgranicznego przez przejęcie fundus
 Art. 208zt. 1. Niezwłocznie po przydzieleniu uczestnikom funduszu przejmowanego jednostek uczestnictwa funduszu przejmującego firma audytorska badająca sprawozdania finansowe funduszu przejmującego albo funduszu przejmowanego dokonuje badania i wydaje opinię w przedmiocie prawidłowości:
 1) ostatecznej wyceny aktywów oraz
 2) obliczenia stosunku wymiany.
-2. Fundusz przejmujący oraz fundusz przejmowany będący funduszem krajowym niezwłocznie publikują opinię, o której mowa w ust. 1, na stronach internetowych wskazanych w statucie funduszu oraz udostępniają ją bezpłatnie swoim uczestnikom. Fundusz przejmujący niezwłocznie przekazuje opinię Komisji.
+2. Fundusz przejmujący oraz fundusz przejmowany będący funduszem krajowym niezwłocznie publikują opinię, o której mowa w ust. 1, na stronach internetowych wskazanych w statucie funduszu oraz udostępniają ją bezpłatnie swoim uczestnikom.
+Fundusz przejmujący niezwłocznie przekazuje opinię Komisji.
 Art. 208zu. 1. Dniem połączenia jest pierwszy dzień roboczy następujący po dniu przydziału. Z tym dniem krajowy fundusz przejmujący, z zastrzeżeniem art. 205 ust. 2, wstępuje w prawa i obowiązki funduszu przejmowanego, w szczególności:
 1) aktywa i zobowiązania funduszu przejmowanego stają się aktywami i zobowiązaniami funduszu przejmującego;
 2) wpis uczestników funduszu przejmowanego do rejestru uczestników funduszu przejmującego wywołuje skutek prawny.
@@ -248,23 +273,24 @@ Art. 208zzb. 1. Zezwolenie na utworzenie funduszu inwestycyjnego, który ma być
 2) odmowie udzielenia krajowemu funduszowi przejmowanemu, bez którego zgodnie z planem połączenia połączenie nie dojdzie do skutku, zgody Komisji na połączenie transgraniczne przez utworzenie funduszu krajowego,
 3) braku zgody właściwego organu zagranicznego funduszu przejmowanego, bez którego zgodnie z planem połączenia połączenie to nie dojdzie do skutku, jeżeli zgoda taka jest wymagana przez prawo jego państwa macierzystego,
 4) podjęciu przez zgromadzenie uczestników krajowego funduszu przejmowanego, bez którego zgodnie z planem połączenia połączenie nie dojdzie do skutku, uchwały o niewyrażeniu zgody na połączenie,
-5) nieodbyciu się ważnego zgromadzenia uczestników krajowego funduszu przejmowanego, bez którego zgodnie z planem połączenia połączenie nie dojdzie do skutku, chyba że w terminie określonym w ust. 1 jest możliwe zwołanie kolejnego zgromadzenia uczestników tego funduszu przejmowanego – towarzystwo zmieni statut funduszu w zakresie, o którym mowa w art. 208zza ust. 1, dokona w prospekcie informacyjnym funduszu zmian niezbędnych do przeprowadzenia zapisów na jednostki uczestnictwa funduszu, przeprowadzi zapisy na jednostki uczestnictwa, dokona ich przydziału oraz złoży wniosek o wpisanie funduszu do rejestru funduszy inwestycyjnych. W takim przypadku art. 26 ust. 2–3, art. 27–29 i art. 30 ust. 1 i 3 stosuje się odpowiednio.
+5) nieodbyciu się ważnego zgromadzenia uczestników krajowego funduszu przejmowanego, bez którego zgodnie z planem połączenia połączenie nie dojdzie do skutku, chyba że w terminie określonym w ust. 1 jest możliwe zwołanie kolejnego zgromadzenia uczestników tego funduszu przejmowanego towarzystwo zmieni statut funduszu w zakresie, o którym mowa w art. 208zza ust. 1, dokona w prospekcie informacyjnym funduszu zmian niezbędnych do przeprowadzenia zapisów na jednostki uczestnictwa funduszu, przeprowadzi zapisy na jednostki uczestnictwa, dokona ich przydziału oraz złoży wniosek o wpisanie funduszu do rejestru funduszy inwestycyjnych.
+W takim przypadku art. 26 ust. 2–3, art. 27–29 i art. 30 ust. 1 i 3 stosuje się odpowiednio.
 Art. 208zzc. Plan połączenia zawiera dodatkowo:
 1) wskazanie przepisów regulujących nabycie przez uczestników funduszy przejmowanych jednostek uczestnictwa funduszu przejmującego;
 2) wskazanie zasad przenoszenia aktywów funduszu przejmowanego do funduszu przejmującego;
 3) statut, prospekt informacyjny funduszu przejmującego oraz:
-a) kluczowe informacje – w przypadku udostępniania przez ten fundusz kluczowych informacji wszystkim inwestorom albo
-b) kluczowe informacje i kluczowe informacje dla inwestorów – w przypadku udostępniania przez ten fundusz kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo
-c) kluczowe informacje dla inwestorów – w przypadku zbywania przez ten fundusz jednostek uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów.
+a) kluczowe informacje w przypadku udostępniania przez ten fundusz kluczowych informacji wszystkim inwestorom albo
+b) kluczowe informacje i kluczowe informacje dla inwestorów w przypadku udostępniania przez ten fundusz kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo
+c) kluczowe informacje dla inwestorów w przypadku zbywania przez ten fundusz jednostek uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów.
 Art. 208zzd. 1. Połączenie transgraniczne przez utworzenie funduszu krajowego dochodzi do skutku pod warunkiem uzyskania przez co najmniej:
-1) dwa zagraniczne fundusze przejmowane zgody właściwych organów państwa macierzystego zagranicznego funduszu przejmowanego na połączenie oraz, jeżeli jest to wymagane przez prawo państwa macierzystego danego funduszu – zgody właściwych organów tego funduszu na połączenie albo
+1) dwa zagraniczne fundusze przejmowane zgody właściwych organów państwa macierzystego zagranicznego funduszu przejmowanego na połączenie oraz, jeżeli jest to wymagane przez prawo państwa macierzystego danego funduszu zgody właściwych organów tego funduszu na połączenie albo
 2) jeden:
-a) zagraniczny fundusz przejmowany zgody właściwych organów państwa macierzystego zagranicznego funduszu przejmowanego na połączenie oraz, jeżeli jest to wymagane przez prawo jego państwa macierzystego – zgody właściwych organów tego funduszu na połączenie oraz
+a) zagraniczny fundusz przejmowany zgody właściwych organów państwa macierzystego zagranicznego funduszu przejmowanego na połączenie oraz, jeżeli jest to wymagane przez prawo jego państwa macierzystego zgody właściwych organów tego funduszu na połączenie oraz
 b) krajowy fundusz przejmowany zgody Komisji na połączenie transgraniczne przez utworzenie funduszu krajowego oraz zgody zgromadzenia uczestników na połączenie transgraniczne przez utworzenie funduszu krajowego.
 2. Plan połączenia może przewidywać, że do skuteczności połączenia wymagane jest uzyskanie zgód, o których mowa w ust. 1 pkt 1, przez więcej niż dwa fundusze zagraniczne lub zgód, o których mowa w ust. 1 pkt 2, przez więcej niż jeden fundusz zagraniczny lub więcej niż jeden krajowy fundusz przejmowany.
 Art. 208zze. 1. Fundusz przejmowany jest obowiązany niezwłocznie poinformować towarzystwo, które uzyskało zezwolenie na utworzenie funduszu, który ma być funduszem przejmującym, o tym, że:
-1) właściwe organy funduszu przejmowanego wyraziły zgodę na połączenie albo zgoda taka nie została udzielona – w przypadku zagranicznego funduszu przejmowanego, jeżeli zgoda taka jest wymagana przez prawo państwa macierzystego tego funduszu;
-2) nie odbyło się ważne zgromadzenie uczestników funduszu przejmowanego albo zgromadzenie to podjęło uchwałę o wyrażeniu zgody na połączenie albo o niewyrażeniu takiej zgody – w przypadku funduszu przejmowanego będącego funduszem krajowym.
+1) właściwe organy funduszu przejmowanego wyraziły zgodę na połączenie albo zgoda taka nie została udzielona w przypadku zagranicznego funduszu przejmowanego, jeżeli zgoda taka jest wymagana przez prawo państwa macierzystego tego funduszu;
+2) nie odbyło się ważne zgromadzenie uczestników funduszu przejmowanego albo zgromadzenie to podjęło uchwałę o wyrażeniu zgody na połączenie albo o niewyrażeniu takiej zgody w przypadku funduszu przejmowanego będącego funduszem krajowym.
 2. Komisja informuje towarzystwo, które uzyskało zezwolenie na utworzenie funduszu, który ma być funduszem przejmującym, o udzieleniu zagranicznemu funduszowi przejmowanemu przez właściwe organy jego państwa macierzystego zgody na połączenie albo o odmowie jej udzielenia oraz o udzieleniu krajowemu funduszowi przejmowanemu zgody na połączenie transgraniczne przez utworzenie funduszu krajowego albo odmowie jej udzielenia.
 Art. 208zzf. 1. Niezwłocznie po dokonaniu przydziału firma audytorska badająca sprawozdania finansowe funduszu przejmującego albo funduszu przejmowanego dokonuje badania i wydaje opinię w przedmiocie prawidłowości:
 1) ostatecznej wyceny aktywów oraz
@@ -278,43 +304,42 @@ Art. 208zzi. 1. Fundusze inwestycyjne zamknięte, o których mowa w art. 15 ust.
 2) utworzenie przez towarzystwo będące organem łączonych funduszy funduszu, o którym mowa w art. 15 ust. 1a, do którego wniesiony zostaje majątek dwóch lub więcej funduszy przejmowanych w zamian za przydzielenie uczestnikom funduszy przejmowanych certyfikatów inwestycyjnych nowo tworzonego funduszu.
 3. Przez fundusz przejmowany rozumie się fundusz, o którym mowa w art. 15 ust. 1a, którego majątek jest wnoszony do innego istniejącego lub do nowo tworzonego funduszu, w zamian za przydzielenie uczestnikom tego funduszu certyfikatów inwestycyjnych funduszu, do którego jest wnoszony ten majątek.
 4. Przez fundusz przejmujący rozumie się istniejący lub nowo tworzony fundusz, o którym mowa w art. 15 ust. 1a, do którego wnoszony jest majątek:
-1) funduszu przejmowanego – w przypadku, o którym mowa w ust. 2 pkt 1;
-2) dwóch lub więcej funduszy przejmowanych – w przypadku, o którym mowa w ust. 2 pkt 2.
+1) funduszu przejmowanego w przypadku, o którym mowa w ust. 2 pkt 1;
+2) dwóch lub więcej funduszy przejmowanych w przypadku, o którym mowa w ust. 2 pkt 2.
 4a. Fundusz może brać udział w połączeniu, o którym mowa w ust. 1, jeżeli struktura jego portfela inwestycyjnego została dostosowana do wymagań określonych w ustawie i statucie funduszu.
 4b. W przypadku gdy zgodnie z ostatnimi wycenami aktywów funduszu przejmowanego i funduszu przejmującego, dokonanymi zgodnie z art. 131, struktura portfela inwestycyjnego co najmniej jednego z tych funduszy nie była dostosowana do wymagań określonych w ustawie i statucie funduszu, połączenie, o którym mowa w ust. 2 pkt 1, może nastąpić, jeżeli według stanu na dzień wykreślenia funduszu przejmowanego z rejestru funduszy inwestycyjnych struktura portfela inwestycyjnego funduszu przejmującego będzie dostosowana do wymagań określonych w ustawie i statucie funduszu.
 4c. W przypadku gdy zgodnie z ostatnimi wycenami aktywów każdego z łączących się funduszy, dokonanymi zgodnie z art. 131, struktura portfela inwestycyjnego co najmniej jednego z tych funduszy nie była dostosowana do wymagań określonych w ustawie i statucie funduszu, połączenie, o którym mowa w ust. 2 pkt 2, może nastąpić, jeżeli według stanu na dzień wpisania nowo tworzonego funduszu do rejestru funduszy inwestycyjnych struktura portfela inwestycyjnego nowo tworzonego funduszu będzie dostosowana do wymagań określonych w ustawie i statucie funduszu.
 5. W połączeniu, o którym mowa w ust. 1, nie mogą brać udziału subfundusze wydzielone w funduszach, o których mowa w art. 15 ust. 1a, ani fundusze z wydzielonymi subfunduszami.
 6. Połączenie, o którym mowa w ust. 1, wymaga sporządzenia planu połączenia.
 7. Połączenie, o którym mowa w ust. 1, może nastąpić wyłącznie za uprzednio wyrażoną zgodą w formie uchwały zgromadzenia inwestorów:
-1) w przypadku, o którym mowa w ust. 2 pkt 1 – w funduszu przejmowanym i funduszu przejmującym;
-2) w przypadku, o którym mowa w ust. 2 pkt 2 – w funduszu przejmowanym.
+1) w przypadku, o którym mowa w ust. 2 pkt 1 w funduszu przejmowanym i funduszu przejmującym;
+2) w przypadku, o którym mowa w ust. 2 pkt 2 w funduszu przejmowanym.
 8. Zgoda, o której mowa w ust. 7, jest udzielana, jeżeli głosy za połączeniem oddali uczestnicy reprezentujący łącznie więcej niż połowę ogólnej liczby certyfikatów inwestycyjnych danego funduszu.
-9. Jeżeli w głosowaniu, o którym mowa w ust. 8, głosy oddali uczestnicy reprezentujący nie więcej niż połowę ogólnej liczby certyfikatów inwestycyjnych danego funduszu i nie wymaga to zmiany planu połączenia, towarzystwo może zwołać kolejne zgromadzenie inwestorów tego funduszu w celu uzyskania zgody zgromadzenia inwestorów na połączenie, co najmniej na 10 dni przed planowanym terminem ponownego zgromadzenia inwestorów. Zwołanie kolejnego zgromadzenia inwestorów wymaga przekazania przez towarzystwo zawiadomienia, o którym mowa w art. 208zzk ust. 1 pkt 1, zmienionego w zakresie, o którym mowa w art. 208zzk ust.
-3. Do kolejnego zgromadzenia inwestorów stosuje się przepis art. 208zzk ust. 8.
+9. Jeżeli w głosowaniu, o którym mowa w ust. 8, głosy oddali uczestnicy reprezentujący nie więcej niż połowę ogólnej liczby certyfikatów inwestycyjnych danego funduszu i nie wymaga to zmiany planu połączenia, towarzystwo może zwołać kolejne zgromadzenie inwestorów tego funduszu w celu uzyskania zgody zgromadzenia inwestorów na połączenie, co najmniej na 10 dni przed planowanym terminem ponownego zgromadzenia inwestorów. Zwołanie kolejnego zgromadzenia inwestorów wymaga przekazania przez towarzystwo zawiadomienia, o którym mowa w art. 208zzk ust. 1 pkt 1, zmienionego w zakresie, o którym mowa w art. 208zzk ust. 3. Do kolejnego zgromadzenia inwestorów stosuje się przepis art. 208zzk ust. 8.
 10. Kolejnego zgromadzenia inwestorów w celu wyrażenia zgody zgromadzenia inwestorów na połączenie nie zwołuje się w przypadku, gdy uchwała zgromadzenia inwestorów innego z funduszy objętych planem połączenia nie uzyskała wymaganej większości, a w głosowaniu, o którym mowa w ust. 8, głosy oddali uczestnicy reprezentujący więcej niż połowę ogólnej liczby certyfikatów inwestycyjnych tego funduszu.
 11. W przypadku gdy pomimo dwukrotnie prawidłowo zwołanego zgromadzenia inwestorów w głosowaniu, o którym mowa w ust. 8, głosy oddali uczestnicy reprezentujący nie więcej niż połowę ogólnej liczby certyfikatów inwestycyjnych danego funduszu, zgoda, o której mowa w ust. 7, jest udzielana, jeżeli głosy za połączeniem oddała więcej niż połowa uczestników obecnych lub reprezentowanych podczas każdego głosowania.
 Art. 208zzj. 1. Plan połączenia sporządzają i podpisują:
-1) fundusz przejmowany i fundusz przejmujący – w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 1;
-2) fundusze przejmowane i towarzystwo, w imieniu funduszu przejmującego – w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 2.
+1) fundusz przejmowany i fundusz przejmujący w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 1;
+2) fundusze przejmowane i towarzystwo, w imieniu funduszu przejmującego w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 2.
 2. Plan połączenia zawiera:
-1) w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 1 – wskazanie funduszu przejmowanego i funduszu przejmującego;
-2) w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 2 – wskazanie funduszy przejmowanych;
+1) w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 1 wskazanie funduszu przejmowanego i funduszu przejmującego;
+2) w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 2 wskazanie funduszy przejmowanych;
 3) wskazanie przyczyn i celu połączenia funduszy;
 4) analizę skutków połączenia dla możliwości prowadzenia przez fundusz przejmujący działalności zgodnie z przepisami ustawy i statutu oraz dla uczestników wszystkich funduszy biorących udział w połączeniu, w tym możliwości realizacji uprawnień uczestników wynikających z ustawy lub statutu funduszu;
 5) wskazanie metod i zasad dokonywania wyceny aktywów oraz ustalania wartości aktywów netto funduszy;
 6) wskazanie:
-a) w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 1 – metody obliczenia stosunku liczby certyfikatów inwestycyjnych, które zostaną przydzielone uczestnikowi w funduszu przejmującym, w stosunku do liczby certyfikatów inwestycyjnych posiadanych przez uczestnika w funduszu przejmowanym,
-b) w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 2 – początkowej wartości aktywów netto na certyfikat inwestycyjny funduszu przejmującego;
+a) w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 1 metody obliczenia stosunku liczby certyfikatów inwestycyjnych, które zostaną przydzielone uczestnikowi w funduszu przejmującym, w stosunku do liczby certyfikatów inwestycyjnych posiadanych przez uczestnika w funduszu przejmowanym,
+b) w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 2 początkowej wartości aktywów netto na certyfikat inwestycyjny funduszu przejmującego;
 7) wskazanie planowanego terminu połączenia;
 8) oświadczenia podmiotów określonych w ust. 1, z których wynika, że:
-a) w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 1: – zgodnie z ostatnimi wycenami aktywów funduszu przejmowanego i funduszu przejmującego, dokonanymi zgodnie z art. 131, struktura portfela inwestycyjnego każdego z tych funduszy została dostosowana do wymagań określonych w ustawie i statucie funduszu – w przypadku, o którym mowa w art. 208zzi ust. 4a, – struktura portfela inwestycyjnego funduszu przejmującego będzie dostosowana do wymagań określonych w ustawie i statucie funduszu według stanu na dzień wykreślenia funduszu przejmowanego z rejestru funduszy inwestycyjnych – w przypadku, o którym mowa w art. 208zzi ust. 4b,
-b) w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 2: – zgodnie z ostatnimi wycenami aktywów każdego z łączących się funduszy, dokonanymi zgodnie z art. 131, struktura portfela inwestycyjnego każdego z tych funduszy została dostosowana do wymagań określonych w ustawie i statucie funduszu – w przypadku, o którym mowa w art. 208zzi ust. 4a, – struktura portfela inwestycyjnego nowo tworzonego funduszu będzie dostosowana do wymagań określonych w ustawie i statucie funduszu według stanu na dzień wpisania nowo tworzonego funduszu do rejestru funduszy inwestycyjnych – w przypadku, o którym mowa w art. 208zzi ust. 4c.
+a) w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 1: zgodnie z ostatnimi wycenami aktywów funduszu przejmowanego i funduszu przejmującego, dokonanymi zgodnie z art. 131, struktura portfela inwestycyjnego każdego z tych funduszy została dostosowana do wymagań określonych w ustawie i statucie funduszu w przypadku, o którym mowa w art. 208zzi ust. 4a, struktura portfela inwestycyjnego funduszu przejmującego będzie dostosowana do wymagań określonych w ustawie i statucie funduszu według stanu na dzień wykreślenia funduszu przejmowanego z rejestru funduszy inwestycyjnych w przypadku, o którym mowa w art. 208zzi ust. 4b,
+b) w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 2: zgodnie z ostatnimi wycenami aktywów każdego z łączących się funduszy, dokonanymi zgodnie z art. 131, struktura portfela inwestycyjnego każdego z tych funduszy została dostosowana do wymagań określonych w ustawie i statucie funduszu w przypadku, o którym mowa w art. 208zzi ust. 4a, struktura portfela inwestycyjnego nowo tworzonego funduszu będzie dostosowana do wymagań określonych w ustawie i statucie funduszu według stanu na dzień wpisania nowo tworzonego funduszu do rejestru funduszy inwestycyjnych w przypadku, o którym mowa w art. 208zzi ust. 4c.
 3. Plan połączenia podlega badaniu przez biegłego rewidenta w zakresie poprawności i rzetelności.
 Art. 208zzk. 1. Nie później niż na 90 dni przed planowanym terminem połączenia towarzystwo:
 1) zawiadamia, na papierze lub innym trwałym nośniku informacji, uczestników funduszu przejmowanego, a w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 1, także uczestników funduszu przejmującego, o planowanym połączeniu;
 2) udostępnia uczestnikom funduszy biorących udział w połączeniu zbadany przez biegłego rewidenta plan połączenia oraz:
-a) statuty funduszy biorących udział w połączeniu – w przypadku, o którym mowa w art. 208zzi ust. 2 pkt 1,
-b) statuty funduszy przejmowanych oraz projekt statutu funduszu przejmującego – w przypadku, o którym mowa w art. 208zzi ust. 2 pkt 2,
+a) statuty funduszy biorących udział w połączeniu w przypadku, o którym mowa w art. 208zzi ust. 2 pkt 1,
+b) statuty funduszy przejmowanych oraz projekt statutu funduszu przejmującego w przypadku, o którym mowa w art. 208zzi ust. 2 pkt 2,
 c) ostatnie zbadane przez biegłego rewidenta sprawozdanie finansowe funduszy;
 3) zwołuje zgromadzenie inwestorów funduszu przejmowanego, a w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 1, także zgromadzenie inwestorów funduszu przejmującego, w celu uzyskania zgody zgromadzenia inwestorów na połączenie.
 2. Zawiadomienie, o którym mowa w ust. 1 pkt 1, jest wysyłane wraz z zawiadomieniem o zwołaniu zgromadzenia inwestorów w sposób określony dla zawiadomienia o zwołaniu zgromadzenia inwestorów.
@@ -327,11 +352,11 @@ c) ostatnie zbadane przez biegłego rewidenta sprawozdanie finansowe funduszy;
 5. Wykup certyfikatów inwestycyjnych, o którym mowa w ust. 3 pkt 1, następuje w dniu wyceny, o którym mowa w art. 208zzm ust. 3.
 6. Dzień, o którym mowa w ust. 3 pkt 1, do którego uczestnicy mają prawo żądać wykupu certyfikatów inwestycyjnych, należy wyznaczyć nie wcześniej niż 14. dnia po zgromadzeniu inwestorów, o którym mowa w art. 208zzi ust. 7, a w przypadku, o którym mowa w art. 208zzi ust. 9, nie wcześniej niż 10. dnia po zgromadzeniu inwestorów, o którym mowa w tym przepisie, i nie później niż w dniu poprzedzającym dzień wyceny, o którym mowa w art. 208zzm ust. 3.
 7. Jeżeli statut funduszu, o którym mowa w art. 15 ust. 1a, nie przewiduje działania zgromadzenia inwestorów, towarzystwo jest obowiązane do dokonania zmiany statutu funduszu w zakresie dotyczącym wprowadzenia zgromadzenia inwestorów w celu wyrażenia zgody na połączenie funduszy.
-8. Zgromadzenie inwestorów odbywa się nie wcześniej niż 60 dni przed planowanym terminem połączenia.
+8. Zgromadzenie inwestorów odbywa się nie wcześniej niż dni przed planowanym terminem połączenia.
 9. Niezwłocznie po podjęciu przez zgromadzenie inwestorów wszystkich funduszy objętych planem połączenia uchwały o wyrażeniu zgody na połączenie towarzystwo zgłasza do sądu rejestrowego planowane połączenie funduszy w celu wpisania do rejestru wzmianki o takiej uchwale. Zgłoszenie zawiera zaprotokołowaną przez notariusza uchwałę zgromadzenia inwestorów o wyrażeniu zgody na połączenie.
 10. Dniem połączenia jest:
-1) w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 1 – dzień wykreślenia funduszu przejmowanego z rejestru funduszy inwestycyjnych;
-2) w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 2 – dzień wpisania funduszu przejmującego do rejestru funduszy inwestycyjnych.
+1) w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 1 dzień wykreślenia funduszu przejmowanego z rejestru funduszy inwestycyjnych;
+2) w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 2 dzień wpisania funduszu przejmującego do rejestru funduszy inwestycyjnych.
 11. Po dniu połączenia:
 1) niedopuszczalne jest stwierdzenie nieważności uchwały zgromadzenia inwestorów o wyrażeniu zgody na połączenie;
 2) postępowanie w przedmiocie zaskarżenia uchwały zgromadzenia inwestorów o wyrażeniu zgody na połączenie umarza się.
@@ -344,16 +369,16 @@ Art. 208zzn. 1. Od dnia przydziału, o którym mowa w art. 208zzk ust. 3 pkt 2, 
 2. Przy dokonywaniu przydziału, o którym mowa w ust. 1, nie pobiera się opłat manipulacyjnych.
 3. W przypadku gdy przydzielona uczestnikowi liczba certyfikatów nie byłaby liczbą całkowitą, fundusz przejmujący zwraca uczestnikowi w środkach pieniężnych kwotę wynikającą z iloczynu nadwyżki ponad całkowitą liczbę certyfikatów oraz wartości aktywów netto funduszu przypadających na certyfikat inwestycyjny. Zwrot kwoty następuje w terminie 30 dni od dnia przydziału certyfikatów.
 Art. 208zzo. 1. W przypadku, o którym mowa w art. 208zzi ust. 4a:
-1) fundusz przejmujący jest obowiązany dostosować strukturę portfela inwestycyjnego do wymagań określonych w ustawie i statucie funduszu w terminie 12 miesięcy od dnia wykreślenia funduszu przejmowanego z rejestru funduszy inwestycyjnych – w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 1;
-2) nowo tworzony fundusz jest obowiązany dostosować strukturę portfela inwestycyjnego do wymagań określonych w ustawie i statucie funduszu w terminie, o którym mowa w art. 157 ust. 3 – w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 2.
-2. Fundusz przejmujący – w terminie 14 dni od dnia upływu terminu, o którym mowa w ust. 1 pkt 1, a nowo tworzony fundusz – w terminie 14 dni od dnia upływu terminu, o którym mowa w art. 157 ust. 3, jest obowiązany przekazać Komisji oświadczenie o dostosowaniu albo niedostosowaniu struktury portfela inwestycyjnego do wymagań określonych w ustawie i statucie funduszu.
-3. Do oświadczenia, o którym mowa w ust. 2, załącza się informację na temat struktury portfela inwestycyjnego funduszu przejmującego albo nowo tworzonego funduszu, a w przypadku niedostosowania struktury portfela inwestycyjnego do wymagań określonych w ustawie i statucie funduszu – również informację o przyczynach takiego niedostosowania.
+1) fundusz przejmujący jest obowiązany dostosować strukturę portfela inwestycyjnego do wymagań określonych w ustawie i statucie funduszu w terminie 12 miesięcy od dnia wykreślenia funduszu przejmowanego z rejestru funduszy inwestycyjnych w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 1;
+2) nowo tworzony fundusz jest obowiązany dostosować strukturę portfela inwestycyjnego do wymagań określonych w ustawie i statucie funduszu w terminie, o którym mowa w art. 157 ust. 3 w przypadku połączenia, o którym mowa w art. 208zzi ust. 2 pkt 2.
+2. Fundusz przejmujący w terminie 14 dni od dnia upływu terminu, o którym mowa w ust. 1 pkt 1, a nowo tworzony fundusz w terminie 14 dni od dnia upływu terminu, o którym mowa w art. 157 ust. 3, jest obowiązany przekazać Komisji oświadczenie o dostosowaniu albo niedostosowaniu struktury portfela inwestycyjnego do wymagań określonych w ustawie i statucie funduszu.
+3. Do oświadczenia, o którym mowa w ust. 2, załącza się informację na temat struktury portfela inwestycyjnego funduszu przejmującego albo nowo tworzonego funduszu, a w przypadku niedostosowania struktury portfela inwestycyjnego do wymagań określonych w ustawie i statucie funduszu również informację o przyczynach takiego niedostosowania.
 4. W przypadku niedostosowania struktury portfela inwestycyjnego do wymagań określonych w ustawie i statucie funduszu Komisja wzywa towarzystwo do usunięcia tej nieprawidłowości i wyznacza funduszowi w tym celu odpowiedni termin, biorąc pod uwagę aktualną strukturę portfela inwestycyjnego funduszu oraz przyczyny niedostosowania wskazane w informacjach, o których mowa w ust. 3.
 5. W przypadku nieusunięcia nieprawidłowości w terminie określonym w wezwaniu Komisja może nałożyć na towarzystwo karę pieniężną, o której mowa w art. 228 ust. 1c pkt 3.
 Art. 208zzoa. 1. W przypadku, o którym mowa w art. 208zzi ust. 4b, fundusz przejmujący jest obowiązany posiadać strukturę portfela inwestycyjnego zgodną z wymaganiami określonymi w ustawie i statucie funduszu według stanu na dzień wykreślenia funduszu przejmowanego z rejestru funduszy inwestycyjnych.
 2. W przypadku, o którym mowa w art. 208zzi ust. 4c, nowo tworzony fundusz jest obowiązany posiadać strukturę portfela inwestycyjnego zgodną z wymaganiami określonymi w ustawie i statucie funduszu według stanu na dzień wpisania nowo tworzonego funduszu do rejestru funduszy inwestycyjnych.
-3. Fundusz przejmujący – w terminie 14 dni od dnia wykreślenia funduszu przejmowanego z rejestru funduszy inwestycyjnych, a nowo tworzony fundusz – w terminie 14 dni od dnia wpisania nowo tworzonego funduszu do rejestru funduszy inwestycyjnych, jest obowiązany przekazać Komisji oświadczenie o dostosowaniu albo niedostosowaniu struktury portfela inwestycyjnego do wymagań określonych w ustawie i statucie funduszu.
-4. Do oświadczenia, o którym mowa w ust. 3, załącza się informację na temat struktury portfela inwestycyjnego funduszu przejmującego albo nowo tworzonego funduszu, a w przypadku niedostosowania struktury portfela inwestycyjnego do wymagań określonych w ustawie i statucie funduszu – również informację o przyczynach takiego niedostosowania.
+3. Fundusz przejmujący w terminie 14 dni od dnia wykreślenia funduszu przejmowanego z rejestru funduszy inwestycyjnych, a nowo tworzony fundusz w terminie 14 dni od dnia wpisania nowo tworzonego funduszu do rejestru funduszy inwestycyjnych, jest obowiązany przekazać Komisji oświadczenie o dostosowaniu albo niedostosowaniu struktury portfela inwestycyjnego do wymagań określonych w ustawie i statucie funduszu.
+4. Do oświadczenia, o którym mowa w ust. 3, załącza się informację na temat struktury portfela inwestycyjnego funduszu przejmującego albo nowo tworzonego funduszu, a w przypadku niedostosowania struktury portfela inwestycyjnego do wymagań określonych w ustawie i statucie funduszu również informację o przyczynach takiego niedostosowania.
 5. W przypadku niedostosowania struktury portfela inwestycyjnego do wymagań określonych w ustawie i statucie funduszu Komisja wzywa towarzystwo do usunięcia tej nieprawidłowości i wyznacza funduszowi w tym celu odpowiedni termin, biorąc pod uwagę aktualną strukturę portfela inwestycyjnego funduszu oraz przyczyny niedostosowania wskazane w informacjach, o których mowa w ust. 4.
 6. W przypadku nieusunięcia nieprawidłowości w terminie określonym w wezwaniu Komisja może nałożyć na towarzystwo karę pieniężną, o której mowa w art. 228 ust. 1c pkt 3.
 Art. 208zzp. 1. Towarzystwo składa do sądu wniosek o wykreślenie funduszu przejmowanego z rejestru funduszy inwestycyjnych.
@@ -370,6 +395,11 @@ Art. 208zzt. 1. Koszty związane z przygotowaniem i przeprowadzeniem połączeni
 2. Towarzystwo ponosi odpowiedzialność wobec uczestników zarządzanego przez siebie funduszu inwestycyjnego za szkodę wyrządzoną połączeniem funduszy.
 Art. 300–319. (pominięte)
 
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+
+- **7)** art. 15 ustawy z dnia 5 sierpnia 2025 r. o uchyleniu ustawy o Centralnej Informacji Emerytalnej (Dz. U. poz. 1216), który stanowi: „Art. 15. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 2 pkt 6, art. 3 pkt 2, art. 4 pkt 2 lit. c i pkt 3, art. 6 pkt 4, art. 7 pkt 5 i art. 12 pkt 2 lit. b, które wchodzą w życie z dniem 1 stycznia 2026 r.”;
+- **8)** art. 2 ustawy z dnia 12 września 2025 r. o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. poz. 1408), który stanowi: „Art. 2. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi
+
 ### DZIAŁ I Przepisy ogólne
 
 **Art. 1.** Ustawa określa zasady tworzenia i działania funduszy inwestycyjnych mających siedzibę na terytorium Rzeczypospolitej Polskiej oraz zasady prowadzenia na terytorium Rzeczypospolitej Polskiej działalności przez fundusze zagraniczne i spółki zarządzające.
@@ -381,21 +411,153 @@ Art. 300–319. (pominięte)
 2. Nie stanowi działalności zarządzania alternatywnymi funduszami inwestycyjnymi działalność:
 
 - **1)** zakładów ubezpieczeń prowadzona w zakresie uregulowanym przepisami ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2025 r. poz. 1526), w szczególności zarządzanie ubezpieczeniowymi funduszami kapitałowymi;
-- **2)** Zakładu Ubezpieczeń Społecznych i Prezesa Kasy Rolniczego Ubezpieczenia Społecznego – w zakresie zarządzania funduszami tworzącymi lub wspierającymi system zabezpieczenia społecznego, oraz działalność innych jednostek sektora finansów publicznych prowadzona w zakresie uregulowanym odrębnymi przepisami;
+- **2)** Zakładu Ubezpieczeń Społecznych i Prezesa Kasy Rolniczego Ubezpieczenia Społecznego w zakresie zarządzania funduszami tworzącymi lub wspierającymi system zabezpieczenia społecznego, oraz działalność innych jednostek sektora finansów publicznych prowadzona w zakresie uregulowanym odrębnymi przepisami;
 - **3)** funduszy emerytalnych i towarzystw emerytalnych prowadzona w zakresie uregulowanym przepisami ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2024 r. poz. 1113 oraz z 2025 r. poz. 1069, 1216 i 1425);
 - **4)** pracodawców prowadzących pracownicze programy emerytalne w zakresie uregulowanym przepisami ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych (Dz. U. z 2024 r. poz. 556 oraz z 2025 r. poz. 1216);
 - **5)** kościelnych osób prawnych oraz osób prawnych innych związków wyznaniowych w odniesieniu do działalności inwestycyjnej w ramach struktury organizacyjnej kościoła lub związku wyznaniowego;
 - **6)** banków centralnych;
-- **7)** Europejskiego Banku Centralnego, Europejskiego Banku Inwestycyjnego, Europejskiego Funduszu Inwestycyjnego, Banku Światowego, Międzynarodowego Funduszu Walutowego oraz innych instytucji międzynarodowych lub ponadnarodowych – jeżeli działalność zarządzania alternatywnymi funduszami inwestycyjnymi jest wykonywana w celu realizacji interesu publicznego;
+- **7)** Europejskiego Banku Centralnego, Europejskiego Banku Inwestycyjnego, Europejskiego Funduszu Inwestycyjnego, Banku Światowego, Międzynarodowego Funduszu Walutowego oraz innych instytucji międzynarodowych lub ponadnarodowych jeżeli działalność zarządzania alternatywnymi funduszami inwestycyjnymi jest wykonywana w celu realizacji interesu publicznego;
 - **8)** spółek holdingowych;
-- **9)** spółek kapitałowych w zakresie prowadzenia działalności jako podmioty emisyjne, o których mowa w art. 92a ust. 3 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646, z późn. zm. );
+- **9)** spółek kapitałowych w zakresie prowadzenia działalności jako podmioty emisyjne, o których mowa w art. 92a ust. 3 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2024 r. poz. 1646, z późn. zm. );
 - **10)** Krajowego Depozytu Papierów Wartościowych Spółki Akcyjnej oraz spółki, której Krajowy Depozyt Papierów Wartościowych Spółka Akcyjna przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 ustawy o obrocie instrumentami finansowymi;
-- **11)** izb rozliczeniowych, o których mowa w art. 68a ustawy o obrocie instrumentami finansowymi – w zakresie prowadzenia funduszy zabezpieczających płynność rozliczeń transakcji lub systemu gwarantującego prawidłowe wykonanie zobowiązań wynikających z transakcji;
-- **12)** giełdowych izb rozrachunkowych, o których mowa w art. 2 pkt 4 ustawy z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2025 r. poz. 1119) – w zakresie organizowania i zarządzania systemem gwarantującym prawidłowe wykonanie zobowiązań wynikających z transakcji;
-- **13)** kontrahenta centralnego (CCP) w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r. w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 201 z 27.07.2012, str. 1, z późn. zm.) – w zakresie prowadzenia funduszy na wypadek niewykonania zobowiązania, o których mowa w art. 42 tego rozporządzenia;
-- **14)** banków krajowych, spółdzielczych kas oszczędnościowo-kredytowych, firm inwestycyjnych i zakładów reasekuracji – prowadzona w zakresie uregulowanym odrębnymi przepisami.
+- **11)** izb rozliczeniowych, o których mowa w art. 68a ustawy o obrocie instrumentami finansowymi w zakresie prowadzenia funduszy zabezpieczających płynność rozliczeń transakcji lub systemu gwarantującego prawidłowe wykonanie zobowiązań wynikających z transakcji;
+- **12)** giełdowych izb rozrachunkowych, o których mowa w art. 2 pkt 4 ustawy z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2025 r. poz. 1119) w zakresie organizowania i zarządzania systemem gwarantującym prawidłowe wykonanie zobowiązań wynikających z transakcji;
+- **13)** kontrahenta centralnego (CCP) w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r. w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 201 z 27.07.2012, str. 1, z późn. zm.) w zakresie prowadzenia funduszy na wypadek niewykonania zobowiązania, o których mowa w art. 42 tego rozporządzenia;
+- **14)** banków krajowych, spółdzielczych kas oszczędnościowo-kredytowych, firm inwestycyjnych i zakładów reasekuracji prowadzona w zakresie uregulowanym odrębnymi przepisami.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** (uchylony) 1a) ustawie o obrocie instrumentami finansowymi rozumie się przez to ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722, z późn. zm. );
+- **1b)** ustawie o ofercie publicznej rozumie się przez to ustawę z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2025 r. poz. 592);
+- **1c)** ustawie o nadzorze nad rynkiem kapitałowym rozumie się przez to ustawę z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym (Dz. U. z 2024 r. poz. 1161 i 1222 oraz z 2025 r. poz. 146 i 1069);
+- **2)** ustawie o rachunkowości rozumie się przez to ustawę z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. );
+- **2a)** rozporządzeniu 584/2010 rozumie się przez to rozporządzenie Komisji (UE) nr 584/2010 z dnia 1 lipca 2010 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE w zakresie formatu i treści standardowego powiadomienia w formie pisemnej i zaświadczenia dotyczącego UCITS, wykorzystania łączności elektronicznej przez właściwe organy do celów powiadamiania oraz w zakresie procedur dotyczących kontroli na miejscu i dochodzeń oraz wymiany informacji między właściwymi organami (Dz. Urz. UE L 176 z 10.07.2010, str. 16);
+- **2b)** rozporządzeniu 231/2013 rozumie się przez to rozporządzenie delegowane Komisji (UE) nr 231/2013 z dnia 19 grudnia 2012 r. uzupełniające dyrektywę Parlamentu Europejskiego i Rady 2011/61/UE w odniesieniu do zwolnień, ogólnych warunków dotyczących prowadzenia działalności, depozytariuszy, dźwigni finansowej, przejrzystości i nadzoru (Dz. Urz. UE L 83 z 22.03.2013, str. 1);
+- **2c)** rozporządzeniu 345/2013 rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 345/2013 z dnia 17 kwietnia 2013 r. w sprawie europejskich funduszy venture capital (Dz. Urz. UE L 115 z 25.04.2013, str. 1);
+- **2d)** rozporządzeniu 346/2013 rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 346/2013 z dnia 17 kwietnia 2013 r. w sprawie europejskich funduszy na rzecz przedsiębiorczości społecznej (Dz. Urz. UE L 115 z 25.04.2013, str. 18);
+- **2e)** rozporządzeniu 2017/565 rozumie się przez to rozporządzenie delegowane Komisji (UE) 2017/565 z dnia 25 kwietnia 2016 r. uzupełniające dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE w odniesieniu do wymogów organizacyjnych i warunków prowadzenia działalności przez firmy inwestycyjne oraz pojęć zdefiniowanych na potrzeby tej dyrektywy (Dz. Urz. UE L 87 z 31.03.2017, str. 1, z późn. zm. );
+- **2f)** rozporządzeniu 2016/679 rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. );
+- **2g)** rozporządzeniu 2017/2402 rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2017/2402 z dnia 12 grudnia 2017 r. w sprawie ustanowienia ogólnych ram dla sekurytyzacji oraz utworzenia szczególnych ram dla prostych, przejrzystych i standardowych sekurytyzacji, a także zmieniające dyrektywy 2009/65/WE, 2009/138/WE i 2011/61/UE oraz rozporządzenia (WE) nr 1060/2009 i (UE) nr 648/2012 (Dz. Urz. UE L 347 z 28.12.2017, s. 35);
+- **2h)** rozporządzeniu 2017/1129 rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2017/1129 z dnia 14 czerwca 2017 r. w sprawie prospektu, który ma być publikowany w związku z ofertą publiczną papierów wartościowych lub dopuszczeniem ich do obrotu na rynku regulowanym oraz uchylenia dyrektywy 2003/71/WE (Dz. Urz. UE L 168 z 30.06.2017, str. 12);
+- **2i)** rozporządzeniu 694/2014 rozumie się przez to rozporządzenie delegowane Komisji (UE) nr 694/2014 z dnia 17 grudnia 2013 r. uzupełniające dyrektywę Parlamentu Europejskiego i Rady 2011/61/UE w odniesieniu do regulacyjnych standardów technicznych służących określeniu typów zarządzających alternatywnymi funduszami inwestycyjnymi (Dz. Urz. UE L 183 z 24.06.2014, str. 18);
+- **2j)** rozporządzeniu 2015/760 rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2015/760 z dnia 29 kwietnia 2015 r. w sprawie europejskich długoterminowych funduszy inwestycyjnych (Dz. Urz. UE L 123 z 19.05.2015, str. 98);
+- **2k)** rozporządzeniu 2019/1156 rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/1156 z dnia 20 czerwca 2019 r. w sprawie ułatwienia transgranicznej dystrybucji przedsiębiorstw zbiorowego inwestowania oraz zmiany rozporządzeń (UE) nr 345/2013, (UE) nr 346/2013 i (UE) nr 1286/2014 (Dz. Urz. UE L 188 z 12.07.2019, str. 55);
+- **2l)** rozporządzeniu 1286/2014 rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1286/2014 z dnia 26 listopada 2014 r. w sprawie dokumentów zawierających kluczowe informacje, dotyczących detalicznych produktów zbiorowego inwestowania i ubezpieczeniowych produktów inwestycyjnych (PRIIP) (Dz. Urz. UE L 352 z 09.12.2014, str. 1, z późn. zm. );
+- **2m)** rozporządzeniu 2022/2554 rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2022/2554 z dnia 14 grudnia 2022 r. w sprawie operacyjnej odporności cyfrowej sektora finansowego i zmieniające rozporządzenia (WE) nr 1060/2009, (UE) nr 648/2012, (UE) nr 600/2014, (UE) nr 909/2014 oraz (UE) 2016/1011 (Dz. Urz. UE L 333 z 27.12.2022, str. 1, z późn. zm. );
+- **3)** towarzystwie rozumie się przez to towarzystwo funduszy inwestycyjnych spółka akcyjna;
+- **3a)** zarządzającym ASI rozumie się przez to zarządzającego alternatywną spółką inwestycyjną;
+- **4)** Komisji rozumie się przez to Komisję Nadzoru Finansowego;
+- **5)** EEA rozumie się przez to Europejski Obszar Gospodarczy;
+- **6)** OECD rozumie się przez to Organizację Współpracy Gospodarczej i Rozwoju;
+- **7)** państwie członkowskim rozumie się przez to państwo inne niż Rzeczpospolita Polska, które jest członkiem Unii Europejskiej;
+- **8)** państwie goszczącym rozumie się przez to państwo inne niż Rzeczpospolita Polska, na terytorium którego towarzystwo albo zarządzający ASI zamierza wykonywać lub wykonuje działalność, lub na terytorium którego fundusz inwestycyjny zamierza zbywać lub zbywa jednostki uczestnictwa lub zamierza oferować lub oferuje certyfikaty inwestycyjne albo zarządzający ASI zamierza wprowadzać lub wprowadza alternatywną spółkę inwestycyjną do obrotu;
+- **9)** funduszu zagranicznym rozumie się przez to fundusz inwestycyjny otwarty lub spółkę inwestycyjną, które uzyskały zezwolenie właściwego organu w państwie członkowskim na prowadzenie działalności zgodnie z prawem wspólnotowym regulującym zasady zbiorowego inwestowania w papiery wartościowe;
+- **10)** spółce zarządzającej rozumie się przez to podmiot lub spółkę z siedzibą w państwie członkowskim, które uzyskały zezwolenie właściwego organu w państwie członkowskim na wykonywanie działalności w zakresie zarządzania funduszami prowadzącymi działalność zgodnie z prawem wspólnotowym regulującym zasady zbiorowego inwestowania w papiery wartościowe;
+- **10a)** alternatywnym funduszu inwestycyjnym rozumie się przez to instytucję wspólnego inwestowania, której przedmiotem działalności, w tym w ramach wydzielonego subfunduszu, jest zbieranie aktywów od wielu inwestorów w celu ich lokowania w interesie tych inwestorów zgodnie z określoną polityką inwestycyjną, niebędącą funduszem działającym zgodnie z prawem wspólnotowym regulującym zasady zbiorowego inwestowania w papiery wartościowe;
+- **10b)** unijnym AFI rozumie się przez to alternatywny fundusz inwestycyjny, który został zarejestrowany jako alternatywny fundusz inwestycyjny przez właściwy organ w państwie członkowskim lub uzyskał zezwolenie właściwego organu w państwie członkowskim na prowadzenie działalności jako alternatywny fundusz inwestycyjny, a w przypadku braku wymogu uzyskania zezwolenia lub rejestracji prowadząc taką działalność, ma siedzibę na terytorium państwa członkowskiego;
+- **10c)** zarządzającym z UE rozumie się przez to osobę prawną z siedzibą na terytorium państwa członkowskiego, która uzyskała zezwolenie właściwego organu w państwie członkowskim na wykonywanie działalności zarządzania alternatywnym funduszem inwestycyjnym zgodnie z prawem wspólnotowym regulującym działalność zarządzających alternatywnymi funduszami inwestycyjnymi;
+- **10d)** spółce holdingowej rozumie się przez to spółkę kapitałową, w tym spółkę europejską, która realizuje określoną branżową strategię biznesową przez spółki, w których posiada udziały lub akcje, lub jednostki zależne lub powiązane w rozumieniu ustawy o rachunkowości w celu generowania długoterminowego wzrostu wartości tej spółki lub jednostki, i która:
+    - **a)** wykonuje tę działalność w imieniu własnym i na własny rachunek, a jej akcje są dopuszczone do obrotu na rynku regulowanym lub
+    - **b)** nie została utworzona głównie w celu uzyskiwania przychodów dla inwestorów w drodze zbycia akcji lub udziałów w takich spółkach, jeżeli okoliczność ta jest wykazana w jej rocznym sprawozdaniu finansowym;
+
+- **11)** państwie macierzystym rozumie się przez to państwo członkowskie, na terytorium którego, w przypadku:
+    - **a)** spółki zarządzającej lub zarządzającego z UE podmiot ten ma siedzibę,
+    - **b)** funduszu zagranicznego podmiot ten uzyskał zezwolenie właściwego organu na prowadzenie działalności,
+    - **c)** unijnego AFI podmiot ten uzyskał po raz pierwszy zezwolenie lub został po raz pierwszy zarejestrowany, a w przypadku braku wymogu uzyskania zezwolenia lub rejestracji ma siedzibę;
+
+- **12)** prawie wspólnotowym rozumie się przez to akty prawne wydawane przez instytucje i organy Unii Europejskiej;
+- **13)** oddziale rozumie się przez to wyodrębnioną i samodzielną organizacyjnie część działalności gospodarczej, wykonywaną przez przedsiębiorcę poza siedzibą przedsiębiorcy lub głównym miejscem wykonywania działalności, przy czym za jeden oddział uważa się wszystkie jednostki organizacyjne:
+    - **a)** spółki zarządzającej albo zarządzającego z UE zlokalizowane na terytorium Rzeczypospolitej Polskiej,
+    - **b)** towarzystwa albo zarządzającego ASI zlokalizowane na terytorium państwa goszczącego;
+
+- **13a)** kliencie profesjonalnym rozumie się przez to podmiot, na którego rzecz jest lub ma być świadczona usługa, albo któremu proponowane jest nabycie jednostek uczestnictwa, objęcie certyfikatów inwestycyjnych albo nabycie lub objęcie praw uczestnictwa alternatywnej spółki inwestycyjnej, posiadający doświadczenie i wiedzę pozwalające na podejmowanie właściwych decyzji inwestycyjnych, jak również na właściwą ocenę ryzyka związanego z tymi decyzjami, który jest:
+    - **a)** bankiem krajowym, bankiem zagranicznym lub instytucją kredytową,
+    - **b)** firmą inwestycyjną,
+    - **c)** krajowym zakładem ubezpieczeń albo zagranicznym zakładem ubezpieczeń lub krajowym zakładem reasekuracji albo zagranicznym zakładem reasekuracji, w rozumieniu ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, prowadzącym działalność na terytorium Rzeczypospolitej Polskiej,
+    - **d)** funduszem inwestycyjnym, alternatywną spółką inwestycyjną lub inną instytucją wspólnego inwestowania, towarzystwem funduszy inwestycyjnych, zarządzającym ASI, spółką zarządzającą lub zarządzającym z UE,
+    - **e)** funduszem emerytalnym albo towarzystwem emerytalnym w rozumieniu ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych,
+    - **f)** towarowym domem maklerskim w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych,
+    - **g)** podmiotem zawierającym, w ramach prowadzonej działalności gospodarczej, na własny rachunek transakcje na rynkach kontraktów terminowych, opcji lub innych instrumentów pochodnych albo na rynkach pieniężnych wyłącznie w celu zabezpieczenia pozycji zajętych na tych rynkach lub działającym w tym celu na rachunek innych członków takich rynków, o ile odpowiedzialność za wykonanie zobowiązań wynikających z tych transakcji ponoszą uczestnicy rozliczający tych rynków,
+    - **h)** instytucją finansową inną niż wskazane w lit. a–g,
+    - **i)** inwestorem instytucjonalnym innym niż wskazany w lit. a–h, prowadzącym działalność regulowaną na rynku finansowym,
+    - **j)** podmiotem prowadzącym poza granicami Rzeczypospolitej Polskiej działalność na warunkach równoważnych z działalnością prowadzoną przez podmioty wskazane w lit. a–i,
+    - **k)** przedsiębiorcą spełniającym co najmniej dwa z poniższych wymogów, przy czym równowartość w złotych kwot wskazanych w euro jest obliczana przy zastosowaniu średniego kursu euro ogłoszonego przez Narodowy Bank Polski na dzień sporządzenia przez danego przedsiębiorcę sprawozdania finansowego: suma bilansowa tego przedsiębiorcy wynosi co najmniej równowartość w złotych 20 000 000 euro, osiągnięta przez tego przedsiębiorcę wartość przychodów ze sprzedaży wynosi co najmniej równowartość w złotych 40 000 000 euro, kapitał własny lub fundusz własny tego przedsiębiorcy wynosi co najmniej równowartość w złotych 2 000 000 euro,
+    - **l)** organem publicznym, który zarządza długiem publicznym, bankiem centralnym, Bankiem Światowym, Międzynarodowym Funduszem Walutowym, Europejskim Bankiem Centralnym, Europejskim Bankiem Inwestycyjnym lub inną organizacją międzynarodową pełniącą podobne funkcje,
+    - **m)** innym inwestorem instytucjonalnym, którego podstawowym przedmiotem działalności jest inwestowanie w instrumenty finansowe, w tym podmiotem zajmującym się sekurytyzacją aktywów lub zawieraniem innego rodzaju transakcji finansowych,
+    - **n)** podmiotem innym niż wskazane w lit. a–m, który jest traktowany jak klient profesjonalny;
+
+- **13b)** kliencie detalicznym rozumie się przez to podmiot, na którego rzecz jest lub ma być świadczona usługa, albo któremu proponowane jest nabycie jednostek uczestnictwa, objęcie certyfikatów inwestycyjnych albo nabycie lub objęcie praw uczestnictwa alternatywnej spółki inwestycyjnej, niebędący klientem profesjonalnym albo będący klientem profesjonalnym, którego traktuje się, świadcząc na jego rzecz usługi, albo proponując nabycie jednostek uczestnictwa, objęcie certyfikatów inwestycyjnych albo nabycie lub objęcie praw uczestnictwa alternatywnej spółki inwestycyjnej, jak klienta detalicznego;
+- **13c)** inwestorze indywidualnym rozumie się przez to inwestora indywidualnego, o którym mowa w art. 4 pkt 6 rozporządzenia 1286/2014;
+- **13d)** pośredniku rozumie się przez to:
+    - **a)** Krajowy Depozyt Papierów Wartościowych Spółkę Akcyjną,
+    - **b)** spółkę, której Krajowy Depozyt Papierów Wartościowych Spółka Akcyjna przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1 ustawy o obrocie instrumentami finansowymi,
+    - **c)** centralny depozyt papierów wartościowych w rozumieniu art. 2 ust. 1 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 909/2014 z dnia 23 lipca 2014 r. w sprawie usprawnienia rozrachunku papierów wartościowych w Unii Europejskiej i w sprawie centralnych depozytów papierów wartościowych, zmieniającego dyrektywy 98/26/WE i 2014/65/UE oraz rozporządzenie (UE) nr 236/2012 (Dz. Urz. UE L 257 z 29.08.2014, str. 1, z późn. zm. ), posiadający zezwolenie, o którym mowa w art. 16 tego rozporządzenia, oraz mający siedzibę na terytorium Rzeczypospolitej Polskiej,
+    - **d)** firmę inwestycyjną świadczącą usługi, o których mowa w art. 69 ust. 4 pkt 1 ustawy o obrocie instrumentami finansowymi,
+    - **e)** bank, o którym mowa w art. 119 ust. 1 ustawy o obrocie instrumentami finansowymi;
+
+- **14)** firmie inwestycyjnej rozumie się przez to firmę inwestycyjną w rozumieniu ustawy o obrocie instrumentami finansowymi;
+- **15)** banku krajowym rozumie się przez to bank, o którym mowa w art. 4 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe;
+- **16)** banku zagranicznym rozumie się przez to bank, o którym mowa w art. 4 ust. 1 pkt 2 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe;
+- **17)** instytucji kredytowej rozumie się przez to instytucję kredytową, o której mowa w art. 4 ust. 1 pkt 17 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe;
+- **17a)** instrumentach finansowych rozumie się przez to instrumenty finansowe, o których mowa w art. 2 ust. 1 ustawy o obrocie instrumentami finansowymi;
+- **18)** instrumentach pochodnych rozumie się przez to prawa majątkowe, których cena rynkowa zależy bezpośrednio lub pośrednio od ceny lub wartości papierów wartościowych, o których mowa w art. 3 pkt 1 lit. a ustawy o obrocie instrumentami finansowymi, oraz inne prawa majątkowe, których cena rynkowa bezpośrednio lub pośrednio zależy od kształtowania się ceny rynkowej walut obcych lub od zmiany wysokości stóp procentowych;
+- **19)** niewystandaryzowanych instrumentach pochodnych rozumie się przez to instrumenty pochodne, które są przedmiotem obrotu poza rynkiem zorganizowanym, a ich treść jest lub może być przedmiotem negocjacji między stronami;
+- **20)** bazie instrumentów pochodnych rozumie się przez to papiery wartościowe, instrumenty rynku pieniężnego lub inne prawa majątkowe, a także określone indeksy, kursy walut, stopy procentowe, stanowiące podstawę do ustalenia ceny instrumentu pochodnego lub niewystandaryzowanego instrumentu pochodnego;
+- **20a)** instrumentach pochodnych właściwych AFI rozumie się przez to instrumenty finansowe, o których mowa w art. 2 ust. 1 pkt 2 lit. c–i ustawy o obrocie instrumentami finansowymi, będące przedmiotem umów zawieranych przez alternatywną spółkę inwestycyjną lub unijny AFI zarządzany przez towarzystwo lub zarządzającego ASI;
+- **21)** instrumentach rynku pieniężnego rozumie się przez to papiery wartościowe lub prawa majątkowe inkorporujące wyłącznie wierzytelności pieniężne:
+    - **a)** o terminie realizacji praw nie dłuższym niż 397 dni liczonym od dnia ich wystawienia lub od dnia ich nabycia lub
+    - **b)** które regularnie podlegają dostosowaniu do bieżących warunków panujących na rynku pieniężnym w okresach nie dłuższych niż 397 dni, lub
+    - **c)** których ryzyko inwestycyjne, w tym ryzyko kredytowe i ryzyko stopy procentowej, odpowiada ryzyku instrumentów finansowych, o których mowa w lit. a lub b oraz co do których istnieje podaż i popyt umożliwiające ich nabywanie i zbywanie w sposób ciągły na warunkach rynkowych, przy czym przejściowa utrata płynności przez papier wartościowy lub prawo majątkowe nie powoduje utraty przez ten papier lub prawo statusu instrumentu rynku pieniężnego;
+
+- **21a)** krótkiej sprzedaży rozumie się przez to technikę inwestycyjną, która opiera się na założeniu osiągnięcia zysku w wyniku spadku cen określonych instrumentów finansowych od momentu realizacji zlecenia ich sprzedaży, jeżeli zostały one pożyczone w celu rozliczenia transakcji przez inwestora lub przez podmiot realizujący na rachunek inwestora zlecenie sprzedaży albo nabyte w tym celu przez jeden z tych podmiotów na podstawie umowy lub umów zobowiązujących zbywcę do dokonania w przyszłości odkupu od nabywcy takich samych instrumentów finansowych, do momentu wymagalności roszczenia o zwrot sprzedanych w ten sposób instrumentów finansowych, albo jeżeli zostały spełnione warunki, o których mowa odpowiednio w art. 12 lub art. 13 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 236/2012 z dnia 14 marca 2012 r. w sprawie krótkiej sprzedaży i wybranych aspektów dotyczących swapów ryzyka kredytowego (Dz. Urz. UE L 86 z 24.03.2012, str. 1);
+- **22)** rynku zorganizowanym rozumie się przez to wyodrębniony pod względem organizacyjnym i finansowym system obrotu działający regularnie i zapewniający jednakowe warunki zawierania transakcji oraz powszechny i równy dostęp do informacji o transakcjach, zgodnie z zasadami określonymi przez właściwe przepisy kraju, w którym obrót ten jest dokonywany, a w szczególności obrót zorganizowany, o którym mowa w ustawie o obrocie instrumentami finansowymi;
+- **22a)** rynku regulowanym rozumie się przez to rynek, o którym mowa w art. 14 ustawy o obrocie instrumentami finansowymi;
+- **22b)** alternatywnym systemie obrotu rozumie się przez to alternatywny system obrotu, o którym mowa w art. 3 pkt 2 ustawy o obrocie instrumentami finansowymi;
+- **23)** bliskich powiązaniach rozumie się przez to posiadanie bezpośrednio lub pośrednio ponad 20 % kapitału innego podmiotu lub prawa do wykonywania co najmniej 20 % głosów w organach innego podmiotu, lub sprawowanie przez podmiot kontroli, lub współkontroli nad innym podmiotem w zakresie określonym w art. 3 ust. 1 pkt 37 ustawy o rachunkowości;
+- **24)** grupie kapitałowej rozumie się przez to podmiot dominujący wraz z podmiotami od niego zależnymi;
+- **25)** podmiocie dominującym rozumie się przez to:
+    - **a)** podmiot dominujący w rozumieniu ustawy o ofercie publicznej,
+    - **b)** podmiot, który został uznany za podmiot dominujący na podstawie art. 2a;
+
+- **26)** podmiocie zależnym rozumie się przez to podmiot zależny w rozumieniu ustawy o ofercie publicznej;
+- **27)** zarządzaniu portfelem, w skład którego wchodzi jeden lub większa liczba instrumentów finansowych rozumie się przez to zarządzanie portfelem, w skład którego wchodzi jeden lub większa liczba instrumentów finansowych, w rozumieniu art. 75 ust. 1 ustawy o obrocie instrumentami finansowymi;
+- **28)** doradztwie inwestycyjnym rozumie się przez to doradztwo inwestycyjne w rozumieniu art. 76 ustawy o obrocie instrumentami finansowymi;
+- **28a)** wprowadzaniu alternatywnej spółki inwestycyjnej do obrotu rozumie się przez to:
+    - **a)** proponowanie objęcia nowych lub podwyższenia wartości nominalnej istniejących udziałów w przypadku spółki z ograniczoną odpowiedzialnością,
+    - **b)** proponowanie objęcia akcji nowej emisji, sprzedaż akcji własnych albo podwyższenie wartości nominalnej istniejących akcji w przypadku spółki akcyjnej i spółki komandytowo-akcyjnej,
+    - **c)** podejmowanie czynności związanych z przystąpieniem do spółki nowych komandytariuszy lub zwiększeniem wkładu dotychczasowych komandytariuszy w przypadku spółki komandytowej;
+
+- **28b)** prime brokerze rozumie się przez to bank krajowy, instytucję kredytową, firmę inwestycyjną lub inny podmiot podlegający wymogom ostrożnościowym wynikającym z przepisów prawa oraz nadzorowi właściwego organu nadzoru nad rynkiem finansowym, które oferują klientom profesjonalnym usługi polegające na:
+    - **a)** przyjmowaniu i przekazywaniu zleceń nabycia lub zbycia instrumentów finansowych,
+    - **b)** wykonywaniu zleceń, o których mowa w lit. a, na rachunek dającego zlecenie,
+    - **c)** udzielaniu pożyczek pieniężnych w celu dokonania transakcji, której przedmiotem jest jeden lub większa liczba instrumentów finansowych, jeżeli transakcja ma być dokonana za pośrednictwem banku krajowego, instytucji kredytowej lub firmy inwestycyjnej udzielającej pożyczki i które jednocześnie mogą świadczyć inne usługi, takie jak prowadzenie rachunków papierów wartościowych i rachunków zbiorczych oraz prowadzenie rachunków pieniężnych lub usługi udzielania pożyczek papierów wartościowych lub rozliczania i dokonywania rozrachunku transakcji;
+
+- **29)** (uchylony)
+- **30)** puli wierzytelności rozumie się przez to przynoszącą regularny dopływ kapitału grupę jednolitych rodzajowo wierzytelności, posiadanych i wyodrębnionych przez inicjatora przeniesienia ryzyka z wierzytelności, z których każda z wierzytelności stanowiących łącznie co najmniej 75 % grupy przynosi regularny dopływ kapitału oraz każda wierzytelność spełnia kryteria określone w statucie funduszu;
+- **31)** inicjatorze przeniesienia ryzyka z wierzytelności rozumie się przez to jednostkę samorządu terytorialnego, związek jednostek samorządu terytorialnego lub podmiot prowadzący działalność gospodarczą, zbywające funduszowi wierzytelności pulę wierzytelności albo zobowiązujące się do przekazywania funduszowi wierzytelności wszystkich świadczeń otrzymanych przez nie z określonej puli wierzytelności;
+- **32)** (uchylony)
+- **33)** danych osobowych rozumie się przez to imiona i nazwisko, datę i miejsce urodzenia, adres zamieszkania, a w przypadku obywateli Rzeczypospolitej Polskiej także numer PESEL;
+- **33a)** danych kontaktowych rozumie się przez to adres korespondencyjny, numer telefonu i adres poczty elektronicznej;
+- **34)** papierach wartościowych rozumie się przez to papiery wartościowe, o których mowa w art. 3 pkt 1 ustawy o obrocie instrumentami finansowymi, z wyłączeniem instrumentów pochodnych;
+- **35)** zdematerializowanych papierach wartościowych rozumie się przez to papiery wartościowe, o których mowa w art. 5 ust. 1 ustawy o obrocie instrumentami finansowymi;
+- **36)** (uchylony)
+- **37)** (uchylony)
+- **38)** ofercie publicznej rozumie się przez to ofertę publiczną papierów wartościowych, o której mowa w art. 2 lit. d rozporządzenia 2017/1129;
+- **39)** publicznym funduszu inwestycyjnym zamkniętym rozumie się przez to fundusz portfelowy, o którym mowa w art. 179 ust. 1, lub fundusz inwestycyjny zamknięty, którego certyfikaty inwestycyjne zostały dopuszczone do obrotu na rynku regulowanym lub wprowadzone do alternatywnego systemu obrotu lub zostały objęte lub nabyte w drodze oferty publicznej, z wyjątkiem oferty publicznej, która nie wymaga sporządzenia prospektu na podstawie:
+    - **a)** art. 1 ust. 4 lit. a rozporządzenia 2017/1129, o ile jest kierowana do mniej niż 150 osób będących inwestorami kwalifikowanymi, lub
+    - **b)** art. 1 ust. 4 lit. b rozporządzenia 2017/1129;
+
+- **40)** dniu roboczym rozumie się przez to każdy dzień od poniedziałku do piątku, z wyłączeniem dni ustawowo wolnych od pracy;
+- **41)** trwałym nośniku informacji rozumie się przez to każdy nośnik informacji umożliwiający przechowywanie przez czas niezbędny, wynikający z charakteru informacji oraz celu ich sporządzenia lub przekazania, zawartych na nim informacji w sposób uniemożliwiający ich zmianę lub pozwalający na odtworzenie informacji w wersji i formie, w jakiej zostały sporządzone lub przekazane;
+- **42)** całkowitej ekspozycji rozumie się przez to obliczoną uznanymi metodami, wyrażoną w walucie, w której wyceniane są aktywa funduszu inwestycyjnego otwartego, kwotę zaangażowania tego funduszu powstałego na skutek zawierania umów, których przedmiotem są instrumenty pochodne, lub innych umów stosowanych w celu zapewnienia sprawnego zarządzania portfelem inwestycyjnym funduszu inwestycyjnego otwartego;
+- **42a)** ekspozycji AFI rozumie się przez to obliczoną z uwzględnieniem art. 6–11 rozporządzenia 231/2013, wyrażoną w walucie, w której wyceniane są aktywa alternatywnego funduszu inwestycyjnego, kwotę zaangażowania tego funduszu uwzględniającą wszystkie aktywa i zobowiązania funduszu, instrumenty pochodne lub prawa majątkowe, o których mowa w art. 145 ust. 1 pkt 6, albo instrumenty pochodne właściwe AFI, pożyczki, których przedmiotem są środki pieniężne lub papiery wartościowe, oraz inne umowy wiążące się ze zwiększeniem zaangażowania funduszu, gdy ryzyko i korzyści wynikające z tych umów dotyczą tego funduszu;
+- **42b)** dźwigni finansowej AFI rozumie się przez to każdą metodę zwiększania ekspozycji AFI, w szczególności przez pożyczanie środków pieniężnych lub papierów wartościowych lub przez inwestycje w instrumenty pochodne lub prawa majątkowe, o których mowa w art. 145 ust. 1 pkt 6, albo instrumenty pochodne właściwe AFI;
+- **42c)** sprawozdaniu rocznym AFI rozumie się przez to sprawozdanie roczne alternatywnego funduszu inwestycyjnego;
+- **42d)** kluczowych informacjach rozumie się przez to dokument zawierający kluczowe informacje, o którym mowa w art. 1 rozporządzenia 1286/2014, który zawiera informacje dotyczące detalicznego produktu zbiorowego inwestowania, o którym mowa w art. 4 pkt 1 rozporządzenia 1286/2014;
+- **43)** przedsiębiorcy rozumie się przez to przedsiębiorcę, o którym mowa w ustawie z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480);
+- **44)** przedsiębiorcy zagranicznym rozumie się przez to przedsiębiorcę zagranicznego, o którym mowa w ustawie z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 89, 619 i 621);
+- **45)** rejestrze zarządzających EuVECA rozumie się przez to prowadzony przez Komisję, zgodnie z art. 14 rozporządzenia 345/2013, rejestr towarzystw i zarządzających ASI, uprawnionych do zarządzania alternatywnymi funduszami inwestycyjnymi posługującymi się nazwą „EuVECA”;
+- **46)** rejestrze zarządzających EuSEF rozumie się przez to prowadzony przez Komisję, zgodnie z art. 15 rozporządzenia 346/2013, rejestr towarzystw i zarządzających ASI, uprawnionych do zarządzania alternatywnymi funduszami inwestycyjnymi posługującymi się nazwą „EuSEF”.
 
 **Art. 2a.**
 
@@ -459,7 +621,7 @@ Art. 300–319. (pominięte)
 1. Uczestnikami funduszu inwestycyjnego są osoby fizyczne, osoby prawne i jednostki organizacyjne nieposiadające osobowości prawnej:
 
 - **1)** na rzecz których w rejestrze uczestników funduszu są zapisane jednostki uczestnictwa lub ich ułamkowe części albo 1a) wskazane w ewidencji osób uprawnionych z papierów wartościowych prowadzonej przez agenta emisji, o którym mowa w art. 7a ustawy o obrocie instrumentami finansowymi, albo
-- **2)** będące posiadaczami rachunku papierów wartościowych, na którym są zapisane certyfikaty inwestycyjne, albo będące osobami uprawnionymi z certyfikatów inwestycyjnych zapisanych na rachunku zbiorczym, albo 2a) wskazane w ewidencji uczestników funduszu jako posiadacze certyfikatów inwestycyjnych.
+- **2)** będące posiadaczami rachunku papierów wartościowych, na którym są zapisane certyfikaty inwestycyjne, albo będące osobami uprawnionymi z certyfikatów inwestycyjnych zapisanych na rachunku zbiorczym.
 - **3)** (uchylony)
 - **4)** (uchylony)
 
@@ -473,8 +635,8 @@ Art. 300–319. (pominięte)
 
 2. Do funduszu inwestycyjnego mogą być wniesione:
 
-- **1)** zdematerializowane papiery wartościowe – jeżeli statut funduszu tak stanowi, lub
-- **2)** inne niż zdematerializowane papiery wartościowe, udziały w spółkach z ograniczoną odpowiedzialnością lub prawa, o których mowa w art. 147 ust. 1 pkt 1 lit. a i b oraz pkt 2 – jeżeli ustawa oraz statut funduszu tak stanowią.
+- **1)** zdematerializowane papiery wartościowe jeżeli statut funduszu tak stanowi, lub
+- **2)** inne niż zdematerializowane papiery wartościowe, udziały w spółkach z ograniczoną odpowiedzialnością lub prawa, o których mowa w art. 147 ust. 1 pkt 1 lit. a i b oraz pkt 2 jeżeli ustawa oraz statut funduszu tak stanowią.
 
 3. Ilekroć w ustawie jest mowa o wpłatach, rozumie się przez to również wniesienie do funduszu praw majątkowych, o których mowa w ust. 2.
 
@@ -503,8 +665,8 @@ Art. 300–319. (pominięte)
 
 2. Zarządzającym ASI może być wyłącznie:
 
-- **1)** w przypadku określonym w art. 8a ust. 2 pkt 1 – spółka kapitałowa będąca alternatywną spółką inwestycyjną, prowadząca działalność jako wewnętrznie zarządzający ASI;
-- **2)** w przypadku określonym w art. 8a ust. 2 pkt 2 – spółka kapitałowa będąca komplementariuszem alternatywnej spółki inwestycyjnej, prowadząca działalność jako zewnętrznie zarządzający ASI.
+- **1)** w przypadku określonym w art. 8a ust. 2 pkt 1 spółka kapitałowa będąca alternatywną spółką inwestycyjną, prowadząca działalność jako wewnętrznie zarządzający ASI;
+- **2)** w przypadku określonym w art. 8a ust. 2 pkt 2 spółka kapitałowa będąca komplementariuszem alternatywnej spółki inwestycyjnej, prowadząca działalność jako zewnętrznie zarządzający ASI.
 
 3. Nie uznaje się za zarządzającego ASI osoby prawnej zarządzającej alternatywną spółką inwestycyjną, której jedynymi inwestorami są ta osoba prawna lub podmioty należące do tej samej, co ta osoba prawna, grupy kapitałowej w rozumieniu art. 3 ust. 1 pkt 44 ustawy o rachunkowości, pod warunkiem że żaden z tych inwestorów sam nie jest alternatywną spółką inwestycyjną ani unijnym AFI.
 
@@ -552,8 +714,8 @@ Art. 300–319. (pominięte)
 
 3. Wpłaty do funduszu lub wypłaty kwot należnych uczestnikom z tytułu wypłaty dochodów funduszu, wypłaty przychodów ze zbycia lokat, o których mowa w art. 198 ust. 1, odkupienia jednostek uczestnictwa lub wykupu certyfikatów inwestycyjnych mogą być dokonywane w walucie obcej, jeżeli:
 
-- **1)** aktywa funduszu są wyceniane, a zobowiązania funduszu ustalane w tej walucie obcej – w przypadku funduszu inwestycyjnego otwartego oraz specjalistycznego funduszu inwestycyjnego otwartego;
-- **2)** statut funduszu tak stanowi oraz określa warunki tych wpłat i wypłat – w przypadku funduszu inwestycyjnego zamkniętego.
+- **1)** aktywa funduszu są wyceniane, a zobowiązania funduszu ustalane w tej walucie obcej w przypadku funduszu inwestycyjnego otwartego oraz specjalistycznego funduszu inwestycyjnego otwartego;
+- **2)** statut funduszu tak stanowi oraz określa warunki tych wpłat i wypłat w przypadku funduszu inwestycyjnego zamkniętego.
 
 **Art. 13a.**
 
@@ -585,9 +747,9 @@ Art. 300–319. (pominięte)
 
 6. Jeżeli statut funduszu inwestycyjnego tak stanowi, fundusz inwestycyjny może zamiast oznaczenia rodzaju funduszu, zgodnie z ust. 3, używać w nazwie następującego skrótu:
 
-- **1)** „fio” – w przypadku funduszu inwestycyjnego otwartego;
-- **2)** „sfio” – w przypadku specjalistycznego funduszu inwestycyjnego otwartego;
-- **3)** „fiz” – w przypadku funduszu inwestycyjnego zamkniętego.
+- **1)** „fio” w przypadku funduszu inwestycyjnego otwartego;
+- **2)** „sfio” w przypadku specjalistycznego funduszu inwestycyjnego otwartego;
+- **3)** „fiz” w przypadku funduszu inwestycyjnego zamkniętego.
 
 **Art. 15.**
 
@@ -605,7 +767,7 @@ Art. 300–319. (pominięte)
     - **a)** art. 1 ust. 4 lit. a rozporządzenia 2017/1129, o ile jest kierowana do mniej niż 150 osób będących inwestorami kwalifikowanymi, lub
     - **b)** art. 1 ust. 4 lit. b rozporządzenia 2017/1129, oraz
 
-- **2)** które nie będą dopuszczone do obrotu na rynku regulowanym ani wprowadzone do alternatywnego systemu obrotu – nie wymaga wydania zezwolenia przez Komisję.
+- **2)** które nie będą dopuszczone do obrotu na rynku regulowanym ani wprowadzone do alternatywnego systemu obrotu nie wymaga wydania zezwolenia przez Komisję.
 
 2. Łączna wysokość wpłat, o których mowa w ust. 1 pkt 4, nie może być niższa niż 4 000 000 zł.
 
@@ -672,7 +834,7 @@ Art. 300–319. (pominięte)
 3. Wpisanie zmian związanych z przejęciem zarządzania funduszem inwestycyjnym przez inne towarzystwo oraz z przejęciem zarządzania funduszem inwestycyjnym i prowadzenia jego spraw przez spółkę zarządzającą albo zarządzającego z UE może nastąpić po okazaniu:
 
 - **1)** zezwolenia Komisji, o którym mowa odpowiednio w art. 238a ust. 2, art. 272b ust. 2 albo art. 276d ust. 2;
-- **2)** decyzji Prezesa Urzędu Ochrony Konkurencji i Konsumentów wyrażającej zgodę na przejęcie zarządzania funduszem inwestycyjnym albo przejęcie zarządzania funduszem inwestycyjnym i prowadzenie jego spraw albo oświadczenia towarzystwa o braku konieczności uzyskania takiej zgody – w przypadku gdy zamiar takiego przejęcia nie podlega zgłoszeniu Prezesowi Urzędu Ochrony Konkurencji i Konsumentów.
+- **2)** decyzji Prezesa Urzędu Ochrony Konkurencji i Konsumentów wyrażającej zgodę na przejęcie zarządzania funduszem inwestycyjnym albo przejęcie zarządzania funduszem inwestycyjnym i prowadzenie jego spraw albo oświadczenia towarzystwa o braku konieczności uzyskania takiej zgody w przypadku gdy zamiar takiego przejęcia nie podlega zgłoszeniu Prezesowi Urzędu Ochrony Konkurencji i Konsumentów.
 
 **Art. 18.**
 
@@ -683,23 +845,23 @@ Art. 300–319. (pominięte)
 - **1)** nazwę i rodzaj funduszu inwestycyjnego;
 - **2)** firmę, siedzibę i adres towarzystwa;
 - **3)** organy funduszu inwestycyjnego i sposób jego reprezentacji;
-- **3a)** zasady i tryb działania zgromadzenia uczestników – w przypadku funduszu inwestycyjnego otwartego oraz specjalistycznego funduszu inwestycyjnego otwartego;
-- **3b)** firmę, siedzibę i adres spółki zarządzającej albo zarządzającego z UE – w przypadku gdy towarzystwo zawarło umowę, o której mowa odpowiednio w art. 4 ust. 1a albo 1b;
+- **3a)** zasady i tryb działania zgromadzenia uczestników w przypadku funduszu inwestycyjnego otwartego oraz specjalistycznego funduszu inwestycyjnego otwartego;
+- **3b)** firmę, siedzibę i adres spółki zarządzającej albo zarządzającego z UE w przypadku gdy towarzystwo zawarło umowę, o której mowa odpowiednio w art. 4 ust. 1a albo 1b;
 - **4)** firmę, siedzibę i adres depozytariusza;
 - **4a)** (uchylony)
 - **5)** firmę (nazwę), siedzibę i adres podmiotu, któremu towarzystwo powierzyło wykonywanie obowiązków, o których mowa w art. 46 ust. 1–3a oraz w art. 46b;
 - **6)** czas trwania funduszu inwestycyjnego, jeżeli jest ograniczony;
 - **7)** łączną wysokość wpłat do funduszu inwestycyjnego, ustaloną zgodnie z art. 15 ust. 2 lub ust. 4;
 - **8)** rodzaje zdematerializowanych papierów wartościowych, które mogą być przedmiotem wpłat oraz terminy przyjmowania wpłat papierami wartościowymi;
-- **9)** rodzaje innych niż zdematerializowane papierów wartościowych, które mogą być przedmiotem wpłat na objęcie certyfikatów inwestycyjnych oraz wskazuje, czy udziały w spółkach z ograniczoną odpowiedzialnością lub prawa, o których mowa w art. 147 ust. 1 pkt 1 lit. a i b oraz pkt 2, mogą być przedmiotem wpłat na objęcie certyfikatów inwestycyjnych – w przypadku funduszu inwestycyjnego zamkniętego;
+- **9)** rodzaje innych niż zdematerializowane papierów wartościowych, które mogą być przedmiotem wpłat na objęcie certyfikatów inwestycyjnych oraz wskazuje, czy udziały w spółkach z ograniczoną odpowiedzialnością lub prawa, o których mowa w art. 147 ust. 1 pkt 1 lit. a i b oraz pkt 2, mogą być przedmiotem wpłat na objęcie certyfikatów inwestycyjnych w przypadku funduszu inwestycyjnego zamkniętego;
 - **10)** cel inwestycyjny funduszu inwestycyjnego albo subfunduszy;
 - **11)** zasady polityki inwestycyjnej funduszu inwestycyjnego;
 - **12)** zasady wypłacania dochodów funduszu inwestycyjnego uczestnikom funduszu, w przypadku gdy statut przewiduje wypłacanie tych dochodów bez odkupywania jednostek uczestnictwa;
-- **13)** zasady wypłacania uczestnikom funduszu inwestycyjnego zamkniętego dochodów funduszu – w przypadku gdy statut funduszu przewiduje wypłacanie tych dochodów;
+- **13)** zasady wypłacania uczestnikom funduszu inwestycyjnego zamkniętego dochodów funduszu w przypadku gdy statut funduszu przewiduje wypłacanie tych dochodów;
 - **14)** rodzaje, maksymalną wysokość, sposób kalkulacji i naliczania kosztów obciążających fundusz inwestycyjny, w tym w szczególności wynagrodzenie towarzystwa, oraz terminy, w których najwcześniej może nastąpić pokrycie poszczególnych rodzajów kosztów;
 - **15)** częstotliwość dokonywania wyceny aktywów funduszu inwestycyjnego, ustalania wartości aktywów netto funduszu inwestycyjnego oraz wartości aktywów netto przypadających na jednostkę uczestnictwa albo certyfikat inwestycyjny;
-- **15a)** metody i zasady dokonywania wyceny aktywów – w przypadku funduszu inwestycyjnego zamkniętego;
-- **15b)** wskazanie, że metody i zasady dokonywania wyceny aktywów funduszu opisane w prospekcie informacyjnym są zgodne z przepisami dotyczącymi rachunkowości funduszy inwestycyjnych – w przypadku funduszu inwestycyjnego otwartego oraz specjalistycznego funduszu inwestycyjnego otwartego;
+- **15a)** metody i zasady dokonywania wyceny aktywów w przypadku funduszu inwestycyjnego zamkniętego;
+- **15b)** wskazanie, że metody i zasady dokonywania wyceny aktywów funduszu opisane w prospekcie informacyjnym są zgodne z przepisami dotyczącymi rachunkowości funduszy inwestycyjnych w przypadku funduszu inwestycyjnego otwartego oraz specjalistycznego funduszu inwestycyjnego otwartego;
 - **16)** minimalną wysokość wpłaty do funduszu inwestycyjnego otwartego;
 - **17)** inne niż wynikające z ustawy prawa uczestników funduszu inwestycyjnego;
 - **18)** sposób udostępniania informacji o funduszu inwestycyjnym do publicznej wiadomości;
@@ -754,13 +916,13 @@ Art. 300–319. (pominięte)
 - **9)** odpisy z właściwego rejestru podmiotów, którym towarzystwo powierzyło wykonywanie czynności na podstawie umowy, o której mowa w art. 45a ust. 1;
 - **9a)** prospekt informacyjny funduszu portfelowego, o którym mowa w art. 179 ust. 1;
 - **10)** prospekt informacyjny funduszu inwestycyjnego otwartego albo specjalistycznego funduszu inwestycyjnego otwartego oraz:
-    - **a)** kluczowe informacje i oświadczenie towarzystwa o sporządzaniu kluczowych informacji w celu ich udostępniania inwestorom innym niż inwestorzy indywidualni – w przypadku udostępniania kluczowych informacji wszystkim inwestorom albo
-    - **b)** kluczowe informacje i kluczowe informacje dla inwestorów – w przypadku udostępniania kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo
-    - **c)** kluczowe informacje dla inwestorów – w przypadku zbywania jednostek uczestnictwa funduszu inwestycyjnego otwartego albo specjalistycznego funduszu inwestycyjnego otwartego wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów;
+    - **a)** kluczowe informacje i oświadczenie towarzystwa o sporządzaniu kluczowych informacji w celu ich udostępniania inwestorom innym niż inwestorzy indywidualni w przypadku udostępniania kluczowych informacji wszystkim inwestorom albo
+    - **b)** kluczowe informacje i kluczowe informacje dla inwestorów w przypadku udostępniania kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo
+    - **c)** kluczowe informacje dla inwestorów w przypadku zbywania jednostek uczestnictwa funduszu inwestycyjnego otwartego albo specjalistycznego funduszu inwestycyjnego otwartego wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów;
 
-- **10a)** informację dla klienta alternatywnego funduszu inwestycyjnego – w przypadku specjalistycznego funduszu inwestycyjnego otwartego lub funduszu inwestycyjnego zamkniętego, przy czym przepisy art. 222a ust. 5 i 6 stosuje się odpowiednio;
-- **11)** wskazanie inicjatora przeniesienia ryzyka z wierzytelności oraz podstawowych warunków umów zawartych przez towarzystwo w związku z procesem przeniesienia ryzyka z wierzytelności – w przypadku standaryzowanego funduszu wierzytelności;
-- **12)** oświadczenie firmy audytorskiej o zgodności metod i zasad wyceny aktywów funduszu opisanych w statucie z przepisami dotyczącymi rachunkowości funduszy inwestycyjnych, a także o zgodności i kompletności tych zasad z przyjętą przez fundusz polityką inwestycyjną – w przypadku funduszu inwestycyjnego zamkniętego;
+- **10a)** informację dla klienta alternatywnego funduszu inwestycyjnego w przypadku specjalistycznego funduszu inwestycyjnego otwartego lub funduszu inwestycyjnego zamkniętego, przy czym przepisy art. 222a ust. 5 i 6 stosuje się odpowiednio;
+- **11)** wskazanie inicjatora przeniesienia ryzyka z wierzytelności oraz podstawowych warunków umów zawartych przez towarzystwo w związku z procesem przeniesienia ryzyka z wierzytelności w przypadku standaryzowanego funduszu wierzytelności;
+- **12)** oświadczenie firmy audytorskiej o zgodności metod i zasad wyceny aktywów funduszu opisanych w statucie z przepisami dotyczącymi rachunkowości funduszy inwestycyjnych, a także o zgodności i kompletności tych zasad z przyjętą przez fundusz polityką inwestycyjną w przypadku funduszu inwestycyjnego zamkniętego;
 - **13)** oświadczenie biegłego rewidenta o prawidłowości i zgodności z profilem ryzyka inwestycyjnego i polityką inwestycyjną funduszu inwestycyjnego systemu zarządzania ryzykiem w towarzystwie, przyjętych metod pomiaru i monitorowania ryzyka, wyznaczania całkowitej ekspozycji albo ekspozycji AFI oraz systemu limitów wewnętrznych przyjętego dla funduszu inwestycyjnego, w przypadku gdy towarzystwo nie zarządza funduszem inwestycyjnym o takim profilu ryzyka inwestycyjnego i polityce inwestycyjnej jak fundusz, którego dotyczy wniosek, albo oświadczenie towarzystwa, że towarzystwo zarządza funduszem inwestycyjnym o takim profilu ryzyka inwestycyjnego i polityce inwestycyjnej.
 
 2. W przypadku wniosku towarzystwa o wydanie zezwolenia na utworzenie funduszu inwestycyjnego otwartego, co do którego towarzystwo zawarło umowę, o której mowa w art. 4 ust. 1a, załącza się dokumenty i informacje, określone w ust. 1 pkt 1, 2, 5, 7 i 10, a ponadto:
@@ -778,7 +940,7 @@ Art. 300–319. (pominięte)
 2. Komisja odmawia wydania zezwolenia, jeżeli:
 
 - **1)** osoby, o których mowa w art. 22 ust. 1 pkt 5–7, mogą wykonywać swoje obowiązki z naruszeniem zasad uczciwego obrotu lub w sposób nienależycie zabezpieczający interesy uczestników funduszu;
-- **2)** statut funduszu inwestycyjnego lub umowa z depozytariuszem, o której mowa w art. 15 ust. 1 pkt 2, nie uwzględniają należycie interesu uczestników funduszu, a w przypadku funduszu inwestycyjnego otwartego – statut funduszu zawiera postanowienia uniemożliwiające zbywanie jednostek uczestnictwa na terytorium Rzeczypospolitej Polskiej;
+- **2)** statut funduszu inwestycyjnego lub umowa z depozytariuszem, o której mowa w art. 15 ust. 1 pkt 2, nie uwzględniają należycie interesu uczestników funduszu, a w przypadku funduszu inwestycyjnego otwartego statut funduszu zawiera postanowienia uniemożliwiające zbywanie jednostek uczestnictwa na terytorium Rzeczypospolitej Polskiej;
 - **3)** towarzystwo nie zapewnia zarządzania w sposób należyty funduszem inwestycyjnym o takiej polityce inwestycyjnej i celach inwestycyjnych jak fundusz inwestycyjny, którego dotyczy wniosek;
 - **4)** wniosek lub załączone do niego dokumenty nie są zgodne pod względem treści z przepisami prawa lub ze stanem faktycznym.
 
@@ -824,18 +986,18 @@ Art. 300–319. (pominięte)
 
 6. Zmiana statutu funduszu inwestycyjnego, która wymaga zezwolenia Komisji, wchodzi w życie:
 
-- **1)** w terminie 3 miesięcy od dnia ogłoszenia o zmianie statutu lub od dnia ostatniego ogłoszenia, jeżeli statut przewiduje więcej niż jedno ogłoszenie – w przypadku zmiany statutu w zakresie, o którym mowa w ust. 1 pkt 1–6 lub ust. 2 pkt 1–3;
-- **2)** z dniem ogłoszenia – w przypadku zmiany statutu w zakresie, o którym mowa w ust. 1 pkt 7 lub ust. 2 pkt 4;
-- **3)** z dniem wykreślenia z rejestru funduszu inwestycyjnego podlegającego przekształceniu w nowy subfundusz istniejącego funduszu z wydzielonymi subfunduszami – w przypadku zmiany statutu w zakresie, o którym mowa w art. 241 ust. 2 pkt 1.
+- **1)** w terminie 3 miesięcy od dnia ogłoszenia o zmianie statutu lub od dnia ostatniego ogłoszenia, jeżeli statut przewiduje więcej niż jedno ogłoszenie w przypadku zmiany statutu w zakresie, o którym mowa w ust. 1 pkt 1–6 lub ust. 2 pkt 1–3;
+- **2)** z dniem ogłoszenia w przypadku zmiany statutu w zakresie, o którym mowa w ust. 1 pkt 7 lub ust. 2 pkt 4;
+- **3)** z dniem wykreślenia z rejestru funduszu inwestycyjnego podlegającego przekształceniu w nowy subfundusz istniejącego funduszu z wydzielonymi subfunduszami w przypadku zmiany statutu w zakresie, o którym mowa w art. 241 ust. 2 pkt 1.
 
 7. Komisja może zezwolić na skrócenie terminu określonego w ust. 6, jeżeli nie naruszy to interesu uczestników funduszu inwestycyjnego.
 
 8. Zmiana statutu funduszu inwestycyjnego, która nie wymaga zezwolenia Komisji, wchodzi w życie:
 
-- **1)** w terminie 3 miesięcy od dnia ogłoszenia o zmianie statutu – w przypadku zmiany statutu w zakresie, o którym mowa w art. 18 ust. 2 pkt 10 i 11, oraz w zakresie opłat manipulacyjnych, o których mowa w art. 86 ust. 2, jeżeli pobierane są przy odkupieniu jednostek uczestnictwa;
-- **1a)** z dniem ogłoszenia lub innym określonym przez zgromadzenie inwestorów – w przypadku zmiany statutu funduszu inwestycyjnego, który nie jest publicznym funduszem inwestycyjnym zamkniętym, na którą zgromadzenie inwestorów wyraziło zgodę;
-- **1b)** w terminie 30 dni od dnia ogłoszenia o zmianie statutu – w przypadku zmiany statutu w zakresie, o którym mowa w art. 18 ust. 2 pkt 2 i 3b, w związku z przejęciem zarządzania funduszem inwestycyjnym albo przejęciem zarządzania funduszem inwestycyjnym i prowadzenia jego spraw;
-- **2)** z dniem ogłoszenia – w pozostałych przypadkach.
+- **1)** w terminie 3 miesięcy od dnia ogłoszenia o zmianie statutu w przypadku zmiany statutu w zakresie, o którym mowa w art. 18 ust. 2 pkt 10 i 11, oraz w zakresie opłat manipulacyjnych, o których mowa w art. 86 ust. 2, jeżeli pobierane są przy odkupieniu jednostek uczestnictwa;
+- **1a)** z dniem ogłoszenia lub innym określonym przez zgromadzenie inwestorów w przypadku zmiany statutu funduszu inwestycyjnego, który nie jest publicznym funduszem inwestycyjnym zamkniętym, na którą zgromadzenie inwestorów wyraziło zgodę;
+- **1b)** w terminie 30 dni od dnia ogłoszenia o zmianie statutu w przypadku zmiany statutu w zakresie, o którym mowa w art. 18 ust. 2 pkt 2 i 3b, w związku z przejęciem zarządzania funduszem inwestycyjnym albo przejęciem zarządzania funduszem inwestycyjnym i prowadzenia jego spraw;
+- **2)** z dniem ogłoszenia w pozostałych przypadkach.
 
 8a. Zmiana statutu funduszu inwestycyjnego, o której mowa w ust. 8 pkt 1, mająca bezpośredni związek ze zmianami statutu funduszu wymagającymi uzyskania zezwolenia Komisji, o których mowa w ust. 1 lub 2, może wejść w życie w terminie wejścia w życie zmian statutu wymagających uzyskania zezwolenia Komisji, nie krótszym jednak niż 3 miesiące od dnia jej ogłoszenia.
 
@@ -845,13 +1007,13 @@ Art. 300–319. (pominięte)
 
 8d. W przypadku funduszu inwestycyjnego zamkniętego, który nie jest publicznym funduszem inwestycyjnym zamkniętym, termin, o którym mowa w ust. 8 pkt 1b, może zostać skrócony, o ile wszyscy uczestnicy takiego funduszu wyrazili na to zgodę w formie uchwały zgromadzenia inwestorów.
 
-9. Fundusz inwestycyjny zawiadamia Komisję o terminach dokonanych ogłoszeń oraz o treści ogłoszeń, załączając do zawiadomienia kopię wypisu aktu notarialnego zawierającego zmiany statutu oraz jednolity tekst statutu, a także składa wniosek do sądu rejestrowego o wpisanie do rejestru zmiany statutu, załączając do wniosku jego jednolity tekst wraz z informacją o dokonaniu ogłoszeń i o terminach ich dokonania, a w przypadkach, o których mowa w ust. 8 pkt 1a i ust. 8d – wraz z uchwałą zgromadzenia inwestorów.
+9. Fundusz inwestycyjny zawiadamia Komisję o terminach dokonanych ogłoszeń oraz o treści ogłoszeń, załączając do zawiadomienia kopię wypisu aktu notarialnego zawierającego zmiany statutu oraz jednolity tekst statutu, a także składa wniosek do sądu rejestrowego o wpisanie do rejestru zmiany statutu, załączając do wniosku jego jednolity tekst wraz z informacją o dokonaniu ogłoszeń i o terminach ich dokonania, a w przypadkach, o których mowa w ust. 8 pkt 1a i ust. 8d wraz z uchwałą zgromadzenia inwestorów.
 
 **Art. 25.** (uchylony)
 
 **Art. 26.**
 
-1. Przyjmowanie zapisów na jednostki uczestnictwa albo na certyfikaty inwestycyjne funduszu inwestycyjnego rozpoczyna się nie wcześniej niż w dniu następującym po dniu doręczenia zezwolenia na utworzenie funduszu, a w przypadku funduszu, o którym mowa w art. 15 ust. 1a – w terminie określonym w statucie funduszu. Termin przyjmowania zapisów nie może być dłuższy niż 2 miesiące.
+1. Przyjmowanie zapisów na jednostki uczestnictwa albo na certyfikaty inwestycyjne funduszu inwestycyjnego rozpoczyna się nie wcześniej niż w dniu następującym po dniu doręczenia zezwolenia na utworzenie funduszu, a w przypadku funduszu, o którym mowa w art. 15 ust. 1a w terminie określonym w statucie funduszu. Termin przyjmowania zapisów nie może być dłuższy niż 2 miesiące.
 
 2. Osoby zapisujące się na jednostki uczestnictwa albo na certyfikaty inwestycyjne dokonują wpłat do funduszu inwestycyjnego i otrzymują potwierdzenie wpłat w postaci elektronicznej pozwalającej na utrwalenie jego treści na trwałym nośniku informacji lub, na wniosek takiej osoby, w postaci papierowej.
 
@@ -861,12 +1023,12 @@ Art. 300–319. (pominięte)
 
 **Art. 27.**
 
-1. Towarzystwo prowadzi zapisy na certyfikaty inwestycyjne funduszu, o którym mowa w art. 15 ust. 1a, bezpośrednio lub za pośrednictwem firmy inwestycyjnej, banku krajowego wykonującego działalność, o której mowa w art. 70 ust. 2 ustawy o obrocie instrumentami finansowymi, lub krajowego oddziału instytucji kredytowej, uprawnionych do wykonywania działalności w zakresie oferowania instrumentów finansowych, a na jednostki uczestnictwa – bezpośrednio lub za pośrednictwem firmy inwestycyjnej, banku krajowego wykonującego działalność, o której mowa w art. 70 ust. 2 ustawy o obrocie instrumentami finansowymi, lub krajowego oddziału instytucji kredytowej, uprawnionych do wykonywania działalności w zakresie przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych.
+1. Towarzystwo prowadzi zapisy na certyfikaty inwestycyjne funduszu, o którym mowa w art. 15 ust. 1a, bezpośrednio lub za pośrednictwem firmy inwestycyjnej, banku krajowego wykonującego działalność, o której mowa w art. 70 ust. 2 ustawy o obrocie instrumentami finansowymi, lub krajowego oddziału instytucji kredytowej, uprawnionych do wykonywania działalności w zakresie oferowania instrumentów finansowych, a na jednostki uczestnictwa bezpośrednio lub za pośrednictwem firmy inwestycyjnej, banku krajowego wykonującego działalność, o której mowa w art. 70 ust. 2 ustawy o obrocie instrumentami finansowymi, lub krajowego oddziału instytucji kredytowej, uprawnionych do wykonywania działalności w zakresie przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych.
 
 2. Przy prowadzeniu zapisów na jednostki uczestnictwa towarzystwo udostępnia bezpłatnie prospekt informacyjny funduszu inwestycyjnego oraz:
 
-- **1)** kluczowe informacje – inwestorom indywidualnym, a w przypadku gdy towarzystwo przekazało Komisji oświadczenie o sporządzaniu kluczowych informacji w celu ich udostępniania inwestorom innym niż inwestorzy indywidualni – również inwestorom innym niż inwestorzy indywidualni;
-- **2)** kluczowe informacje dla inwestorów – inwestorom innym niż inwestorzy indywidualni, w przypadku gdy towarzystwo nie przekazało Komisji oświadczenia o sporządzaniu kluczowych informacji w celu ich udostępniania inwestorom innym niż inwestorzy indywidualni.
+- **1)** kluczowe informacje inwestorom indywidualnym, a w przypadku gdy towarzystwo przekazało Komisji oświadczenie o sporządzaniu kluczowych informacji w celu ich udostępniania inwestorom innym niż inwestorzy indywidualni również inwestorom innym niż inwestorzy indywidualni;
+- **2)** kluczowe informacje dla inwestorów inwestorom innym niż inwestorzy indywidualni, w przypadku gdy towarzystwo nie przekazało Komisji oświadczenia o sporządzaniu kluczowych informacji w celu ich udostępniania inwestorom innym niż inwestorzy indywidualni.
 
 3. Za zgodą Komisji towarzystwo może prowadzić zapisy na jednostki uczestnictwa za pośrednictwem podmiotu, o którym mowa w art. 32 ust. 2. W takim przypadku do wniosku, o którym mowa w art. 22, towarzystwo załącza umowę zawartą z tym podmiotem oraz dokumenty, o których mowa w art. 32 ust. 4, dotyczące tego podmiotu.
 
@@ -900,11 +1062,11 @@ Art. 300–319. (pominięte)
 
 7. Do wniosku, o którym mowa w ust. 6, należy dołączyć:
 
-- **1)** zezwolenie Komisji na utworzenie funduszu inwestycyjnego – w przypadku funduszu inwestycyjnego, którego utworzenie wymaga wydania przez Komisję zezwolenia;
+- **1)** zezwolenie Komisji na utworzenie funduszu inwestycyjnego w przypadku funduszu inwestycyjnego, którego utworzenie wymaga wydania przez Komisję zezwolenia;
 - **2)** statut funduszu inwestycyjnego;
 - **3)** statut towarzystwa tworzącego fundusz inwestycyjny oraz zaświadczenie albo oświadczenie o wpisie do rejestru przedsiębiorców;
 - **4)** listę członków zarządu towarzystwa zawierającą ich imiona i nazwiska oraz pełnioną funkcję;
-- **5)** oświadczenie depozytariusza o zebraniu wymaganych statutem wpłat oraz o zgodności sposobu ich zebrania z ustawą, statutem funduszu inwestycyjnego oraz – w przypadku funduszu inwestycyjnego, którego utworzenie wymaga wydania przez Komisję zezwolenia – z tym zezwoleniem.
+- **5)** oświadczenie depozytariusza o zebraniu wymaganych statutem wpłat oraz o zgodności sposobu ich zebrania z ustawą, statutem funduszu inwestycyjnego oraz w przypadku funduszu inwestycyjnego, którego utworzenie wymaga wydania przez Komisję zezwolenia z tym zezwoleniem.
 
 7a. Oświadczenie, o którym mowa w ust. 7 pkt 3, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
 
@@ -929,7 +1091,7 @@ Art. 300–319. (pominięte)
 - **2)** w którym decyzja Komisji o cofnięciu zezwolenia na utworzenie funduszu inwestycyjnego stała się ostateczna, lub
 - **3)** upływu terminu, o którym mowa w ust. 2 pkt 1 lub 2, lub
 - **4)** upływu 3 miesięcy od zakończenia terminu określonego w statucie funduszu inwestycyjnego, o którym mowa w art. 15 ust. 1a, na dokonanie zapisów na certyfikaty inwestycyjne, jeżeli towarzystwo zebrało wpłaty w wysokości określonej w statucie i nie złożyło wniosku o wpisanie funduszu inwestycyjnego do rejestru funduszy inwestycyjnych, lub
-- **5)** upływu terminu określonego w statucie funduszu inwestycyjnego, o którym mowa w art. 15 ust. 1a, na zebranie wpłat na certyfikaty inwestycyjne, jeżeli towarzystwo nie zebrało wpłat w wysokości i terminie określonych w statucie – zwraca wpłaty do funduszu inwestycyjnego, w tym przenosi prawa z papierów wartościowych, udziałów w spółkach z ograniczoną odpowiedzialnością oraz przenosi prawa, o których mowa w art. 147 ust. 1 pkt 1 lit. a i b oraz pkt 2, wraz z wartością otrzymanych pożytków i odsetkami naliczonymi przez depozytariusza za okres od dnia wpłaty na rachunek prowadzony przez depozytariusza do dnia wystąpienia jednej z przesłanek wymienionych w pkt 1–5, oraz pobrane opłaty manipulacyjne.
+- **5)** upływu terminu określonego w statucie funduszu inwestycyjnego, o którym mowa w art. 15 ust. 1a, na zebranie wpłat na certyfikaty inwestycyjne, jeżeli towarzystwo nie zebrało wpłat w wysokości i terminie określonych w statucie zwraca wpłaty do funduszu inwestycyjnego, w tym przenosi prawa z papierów wartościowych, udziałów w spółkach z ograniczoną odpowiedzialnością oraz przenosi prawa, o których mowa w art. 147 ust. 1 pkt 1 lit. a i b oraz pkt 2, wraz z wartością otrzymanych pożytków i odsetkami naliczonymi przez depozytariusza za okres od dnia wpłaty na rachunek prowadzony przez depozytariusza do dnia wystąpienia jednej z przesłanek wymienionych w pkt 1–5, oraz pobrane opłaty manipulacyjne.
 
 **Art. 31.**
 
@@ -974,7 +1136,7 @@ Art. 300–319. (pominięte)
 
 - **1)** statut, umowę spółki albo inny dokument określający formę prawną wnioskodawcy oraz zaświadczenie albo oświadczenie o wpisie do właściwego rejestru;
 - **2)** schemat i opis powiązań kapitałowych;
-- **3)** ostatnie sprawozdanie finansowe wraz ze sprawozdaniem z badania, a w przypadku braku sprawozdania finansowego – inne dokumenty i informacje przedstawiające rzetelnie aktualną sytuację finansową wnioskodawcy;
+- **3)** ostatnie sprawozdanie finansowe wraz ze sprawozdaniem z badania, a w przypadku braku sprawozdania finansowego inne dokumenty i informacje przedstawiające rzetelnie aktualną sytuację finansową wnioskodawcy;
 - **3a)** plan działalności określający zakres usług świadczonych przez podmiot;
 - **4)** wskazanie funduszy, których jednostki uczestnictwa lub tytuły uczestnictwa będą zbywane i odkupywane za pośrednictwem wnioskodawcy;
 - **5)** dokumenty określające sposób i warunki prowadzenia zbywania i odkupywania jednostek uczestnictwa lub tytułów uczestnictwa;
@@ -986,9 +1148,9 @@ Art. 300–319. (pominięte)
 - **11)** procedury zapobiegające ujawnieniu lub wykorzystaniu informacji stanowiących tajemnicę zawodową oraz procedury kontroli wewnętrznej;
 - **12)** zasady przechowywania i archiwizowania dokumentów związanych z prowadzeniem zbywania i odkupywania jednostek uczestnictwa lub tytułów uczestnictwa;
 - **13)** dane osobowe osób zarządzających podmiotem, o którym mowa w ust. 2, lub prowadzących sprawy tego podmiotu oraz osób nadzorujących działalność tego podmiotu, wraz z opisem ich kwalifikacji i doświadczeń zawodowych, oraz informacje z Krajowego Rejestru Karnego;
-- **14)** zaświadczenie o niezaleganiu w podatkach albo stwierdzające stan zaległości, wydane zgodnie z przepisami ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. );
-- **15)** kopię umowy o uczestnictwo w systemie rekompensat, zawartej pod warunkiem uzyskania zezwolenia, o którym mowa w ust. 2, z Krajowym Depozytem Papierów Wartościowych Spółką Akcyjną – w przypadku podmiotu, który podlega obowiązkowi uczestnictwa w systemie rekompensat, o którym mowa w ustawie o obrocie instrumentami finansowymi;
-- **16)** kopię umowy ubezpieczenia od odpowiedzialności cywilnej związanej z prowadzeniem działalności, o której mowa w ust. 2 – w przypadku podmiotu, o którym mowa w ust. 2d.
+- **14)** zaświadczenie o niezaleganiu w podatkach albo stwierdzające stan zaległości, wydane zgodnie z przepisami ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. );
+- **15)** kopię umowy o uczestnictwo w systemie rekompensat, zawartej pod warunkiem uzyskania zezwolenia, o którym mowa w ust. 2, z Krajowym Depozytem Papierów Wartościowych Spółką Akcyjną w przypadku podmiotu, który podlega obowiązkowi uczestnictwa w systemie rekompensat, o którym mowa w ustawie o obrocie instrumentami finansowymi;
+- **16)** kopię umowy ubezpieczenia od odpowiedzialności cywilnej związanej z prowadzeniem działalności, o której mowa w ust. 2 w przypadku podmiotu, o którym mowa w ust. 2d.
 
 4a. Do oświadczenia, o którym mowa w ust. 4 pkt 1, przepis art. 29 ust. 7a stosuje się odpowiednio.
 
@@ -1043,7 +1205,7 @@ Art. 300–319. (pominięte)
 - **3)** świadczeń pieniężnych i świadczeń niepieniężnych innych niż określone w pkt 1 i 2, jeżeli:
     - **a)** są one przyjmowane albo przekazywane w celu poprawienia jakości usługi świadczonej przez podmiot, o którym mowa w art. 32 ust. 2, na rzecz klienta,
     - **b)** ich przyjęcie lub przekazanie nie ma negatywnego wpływu na działanie przez podmiot, o którym mowa w art. 32 ust. 2, w sposób rzetelny i profesjonalny, zgodnie z zasadami uczciwego obrotu oraz zgodnie z najlepiej pojętymi interesami klienta tego podmiotu,
-    - **c)** informacja o świadczeniach, w tym o ich istocie i wysokości, a w przypadku gdy wysokość takich świadczeń nie może zostać oszacowana – o sposobie ustalania ich wysokości, została przekazana klientowi lub potencjalnemu klientowi w sposób rzetelny, dokładny i zrozumiały przed rozpoczęciem świadczenia usługi, przy czym warunek ten uznaje się za spełniony również w przypadku przekazania klientowi lub potencjalnemu klientowi informacji sporządzonej w formie ujednoliconej;
+    - **c)** informacja o świadczeniach, w tym o ich istocie i wysokości, a w przypadku gdy wysokość takich świadczeń nie może zostać oszacowana o sposobie ustalania ich wysokości, została przekazana klientowi lub potencjalnemu klientowi w sposób rzetelny, dokładny i zrozumiały przed rozpoczęciem świadczenia usługi, przy czym warunek ten uznaje się za spełniony również w przypadku przekazania klientowi lub potencjalnemu klientowi informacji sporządzonej w formie ujednoliconej;
 
 - **4)** świadczeń pieniężnych lub niepieniężnych przyjmowanych z tytułu usługi dystrybucji, o której mowa w art. 32d ust. 1.
 
@@ -1057,7 +1219,7 @@ Art. 300–319. (pominięte)
 - **2)** warunki techniczne i organizacyjne prowadzenia działalności, o której mowa w pkt 1, w tym funkcjonowania kontroli wewnętrznej,
 - **3)** tryb i warunki postępowania w zakresie przyjmowania lub przekazywania jakichkolwiek świadczeń pieniężnych lub niepieniężnych w związku z działalnością, o której mowa w art. 32 ust. 2 i 2b,
 - **4)** szczegółowe kryteria w zakresie spełniania przez osoby, o których mowa w ust. 3a, wymogów posiadania odpowiedniej wiedzy i kompetencji,
-- **5)** tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania przez osoby, o których mowa w ust. 3a, wymogów w zakresie posiadania odpowiedniej wiedzy i kompetencji oraz tryb i warunki postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji tych osób – kierując się koniecznością zapewnienia zasad uczciwego obrotu oraz należytego zabezpieczenia interesów uczestników lub potencjalnych uczestników, niezależnie od rodzaju podmiotu, za pośrednictwem którego nabywane lub zbywane są jednostki uczestnictwa, a także koniecznością zapobiegania występowaniu konfliktów interesów oraz zapewnienia bezpieczeństwa i ciągłości prowadzonej działalności, z uwzględnieniem wytycznych w zakresie zasad uznawania posiadania odpowiedniej wiedzy i kompetencji przez osoby wykonujące usługi maklerskie, wydanych przez Europejski Urząd Nadzoru Giełd i Papierów Wartościowych.
+- **5)** tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania przez osoby, o których mowa w ust. 3a, wymogów w zakresie posiadania odpowiedniej wiedzy i kompetencji oraz tryb i warunki postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji tych osób kierując się koniecznością zapewnienia zasad uczciwego obrotu oraz należytego zabezpieczenia interesów uczestników lub potencjalnych uczestników, niezależnie od rodzaju podmiotu, za pośrednictwem którego nabywane lub zbywane są jednostki uczestnictwa, a także koniecznością zapobiegania występowaniu konfliktów interesów oraz zapewnienia bezpieczeństwa i ciągłości prowadzonej działalności, z uwzględnieniem wytycznych w zakresie zasad uznawania posiadania odpowiedniej wiedzy i kompetencji przez osoby wykonujące usługi maklerskie, wydanych przez Europejski Urząd Nadzoru Giełd i Papierów Wartościowych.
 
 **Art. 32b.**
 
@@ -1071,9 +1233,7 @@ Art. 300–319. (pominięte)
 
 **Art. 32c.**
 
-1. Komisja prowadzi rejestr podmiotów, o których mowa w art. 32 ust.
-
-2.
+1. Komisja prowadzi rejestr podmiotów, o których mowa w art. 32 ust. 2.
 
 2. Rejestr, o którym mowa w ust. 1, zawiera:
 
@@ -1093,7 +1253,7 @@ Art. 300–319. (pominięte)
 - **2)** przyjmowania zleceń zbycia, odkupienia, zamiany lub konwersji jednostek uczestnictwa funduszu inwestycyjnego, w tym ich przekazywanie funduszowi;
 - **3)** przyjmowania od uczestników innych dyspozycji lub oświadczeń związanych z uczestnictwem w funduszu inwestycyjnym, w tym aktualizacji danych uczestnika lub jego pełnomocnika oraz ich przekazywanie funduszowi;
 - **4)** informowania uczestników funduszu o zasadach i terminach zbywania, odkupywania, zamiany lub konwersji jednostek uczestnictwa oraz o zasadach i terminach składania innych dyspozycji i oświadczeń związanych z uczestnictwem w funduszu inwestycyjnym, w tym udzielania lub odwoływania pełnomocnictw;
-- **5)** udostępniania osobom zapisującym się na jednostki uczestnictwa funduszu inwestycyjnego lub uczestnikom funduszu prospektu informacyjnego funduszu inwestycyjnego, kluczowych informacji dla inwestorów, kluczowych informacji albo informacji dla klienta alternatywnego funduszu inwestycyjnego, sprawozdań finansowych funduszu inwestycyjnego, a w przypadku funduszu z wydzielonymi subfunduszami – połączonych sprawozdań finansowych funduszu oraz sprawozdań jednostkowych subfunduszy.
+- **5)** udostępniania osobom zapisującym się na jednostki uczestnictwa funduszu inwestycyjnego lub uczestnikom funduszu prospektu informacyjnego funduszu inwestycyjnego, kluczowych informacji dla inwestorów, kluczowych informacji albo informacji dla klienta alternatywnego funduszu inwestycyjnego, sprawozdań finansowych funduszu inwestycyjnego, a w przypadku funduszu z wydzielonymi subfunduszami połączonych sprawozdań finansowych funduszu oraz sprawozdań jednostkowych subfunduszy.
 
 3. Do dnia wpisania funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego do rejestru funduszy inwestycyjnych stronami umowy o świadczenie usługi dystrybucji są towarzystwo oraz podmiot, o którym mowa w art. 32 ust. 1 pkt 2 lub 3, lub ust. 2. Z chwilą wpisania funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego do rejestru funduszy inwestycyjnych fundusz inwestycyjny wstępuje w prawa i obowiązki towarzystwa z tytułu zawartej umowy o świadczenie usługi dystrybucji, z wyjątkiem obowiązku zapłaty wynagrodzenia za świadczenie usługi dystrybucji.
 
@@ -1125,9 +1285,9 @@ Art. 300–319. (pominięte)
 
 2. Za czynności dokonane przez osoby fizyczne, o których mowa w ust. 1, odpowiadają, jak za działania własne, odpowiednio:
 
-- **1)** towarzystwo – w trybie art. 228 ust. 1, 1c i 1d;
+- **1)** towarzystwo w trybie art. 228 ust. 1, 1c i 1d;
 - **2)** (uchylony)
-- **3)** podmiot, o którym mowa w art. 32 ust. 2 – w trybie art. 233 ust. 1.
+- **3)** podmiot, o którym mowa w art. 32 ust. 2 w trybie art. 233 ust. 1.
 
 3. Za szkody poniesione przez osoby nabywające lub odkupujące jednostki uczestnictwa funduszu inwestycyjnego za pośrednictwem podmiotu, o którym mowa w art. 32 ust. 1 pkt 2 i 3 i ust. 2, podmiot ten odpowiada solidarnie z towarzystwem będącym organem funduszu albo ze spółką zarządzającą, jeżeli zarządza ona tym funduszem i prowadzi jego sprawy, chyba że szkoda jest wynikiem okoliczności, za które podmiot ten nie ponosi odpowiedzialności.
 
@@ -1145,9 +1305,7 @@ Art. 300–319. (pominięte)
 
 1. Oświadczenia woli składane w związku z nabywaniem lub żądaniem odkupienia przez fundusz inwestycyjny jednostek uczestnictwa, nabywaniem lub wykupem certyfikatów inwestycyjnych oraz inne oświadczenia woli związane z uczestnictwem w funduszu mogą być wyrażone w postaci elektronicznej z zachowaniem wymogów gwarantujących autentyczność i wiarygodność oświadczenia woli.
 
-2. Dokumenty związane z nabywaniem lub żądaniem odkupienia przez fundusz inwestycyjny jednostek uczestnictwa, nabywaniem lub wykupem certyfikatów inwestycyjnych oraz inne oświadczenia woli związane z uczestnictwem w funduszu mogą być sporządzane w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557 i 1717 oraz z 2025 r. poz. 1006, 1019, 1158 i
-
-- **1301)** , jeżeli dokumenty te będą w sposób należyty utworzone, utrwalone, przechowywane i zabezpieczone.
+2. Dokumenty związane z nabywaniem lub żądaniem odkupienia przez fundusz inwestycyjny jednostek uczestnictwa, nabywaniem lub wykupem certyfikatów inwestycyjnych oraz inne oświadczenia woli związane z uczestnictwem w funduszu mogą być sporządzane w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557 i 1717 oraz z 2025 r. poz. 1006, 1019, 1158 i 1301), jeżeli dokumenty te będą w sposób należyty utworzone, utrwalone, przechowywane i zabezpieczone.
 
 3. Jeżeli ustawa zastrzega dla czynności prawnej formę pisemną, uznaje się, że czynność dokonana w formie, o której mowa w ust. 1, spełnia wymagania formy pisemnej także wtedy, gdy forma pisemna została zastrzeżona pod rygorem nieważności.
 
@@ -1225,9 +1383,9 @@ Art. 300–319. (pominięte)
 5. W przypadku gdy spółka:
 
 - **1)** wraz z wnioskiem, o którym mowa w ust. 3, składa wniosek o zezwolenie na utworzenie specjalistycznego funduszu inwestycyjnego otwartego lub publicznego funduszu inwestycyjnego zamkniętego albo
-- **2)** zamierza utworzyć wyłącznie fundusz inwestycyjny, o którym mowa w art. 15 ust. 1a, albo zamierza wyłącznie zarządzać unijnym AFI lub alternatywnym funduszem inwestycyjnym z siedzibą w państwie należącym do EEA – nie stosuje się przepisu ust. 2.
+- **2)** zamierza utworzyć wyłącznie fundusz inwestycyjny, o którym mowa w art. 15 ust. 1a, albo zamierza wyłącznie zarządzać unijnym AFI lub alternatywnym funduszem inwestycyjnym z siedzibą w państwie należącym do EEA nie stosuje się przepisu ust. 2.
 
-6. Spółka ubiegająca się o uzyskanie zezwolenia na wykonywanie działalności przez towarzystwo może jednocześnie złożyć wniosek o udzielenie zezwolenia na wykonywanie działalności, o której mowa w art. 45 ust. 2 pkt 1 (zezwolenie na zarządzanie portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych), a wraz z tym wnioskiem – wniosek o udzielenie zezwolenia na wykonywanie działalności, o której mowa w art. 45 ust. 2 pkt 2 (zezwolenie na doradztwo inwestycyjne).
+6. Spółka ubiegająca się o uzyskanie zezwolenia na wykonywanie działalności przez towarzystwo może jednocześnie złożyć wniosek o udzielenie zezwolenia na wykonywanie działalności, o której mowa w art. 45 ust. 2 pkt 1 (zezwolenie na zarządzanie portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych), a wraz z tym wnioskiem wniosek o udzielenie zezwolenia na wykonywanie działalności, o której mowa w art. 45 ust. 2 pkt 2 (zezwolenie na doradztwo inwestycyjne).
 
 7. Spółka ubiegająca się o uzyskanie wraz z zezwoleniem na wykonywanie działalności przez towarzystwo zezwolenia na zarządzanie alternatywnymi funduszami inwestycyjnymi oraz zezwolenia na zarządzanie portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, może jednocześnie złożyć wniosek o udzielenie zezwolenia na wykonywanie działalności, o której mowa w art. 45 ust. 2a (zezwolenia na przyjmowanie i przekazywanie zleceń nabycia lub zbycia instrumentów finansowych).
 
@@ -1235,7 +1393,7 @@ Art. 300–319. (pominięte)
 
 1. Siedziba zarządu towarzystwa powinna znajdować się na terytorium Rzeczypospolitej Polskiej.
 
-2. W sprawach nieuregulowanych w ustawie do towarzystw stosuje się przepisy ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96), zwanej dalej „Kodeksem spółek handlowych”.
+2. W sprawach nieuregulowanych w ustawie do towarzystw stosuje się przepisy ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96), zwanej dalej „Kodeksem spółek handlowych”.
 
 **Art. 40.** Jednoosobowym założycielem towarzystwa może być wyłącznie osoba prawna.
 
@@ -1280,7 +1438,7 @@ Art. 300–319. (pominięte)
 1. Powołanie:
 
 - **1)** członka zarządu nadzorującego system zarządzania ryzykiem w towarzystwie,
-- **2)** członka zarządu nadzorującego podejmowanie decyzji inwestycyjnych dotyczących portfeli inwestycyjnych funduszy zarządzanych przez towarzystwo lub portfeli, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, zarządzanych przez towarzystwo – następuje za zgodą Komisji, z zastrzeżeniem art. 61 ust. 1e.
+- **2)** członka zarządu nadzorującego podejmowanie decyzji inwestycyjnych dotyczących portfeli inwestycyjnych funduszy zarządzanych przez towarzystwo lub portfeli, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, zarządzanych przez towarzystwo następuje za zgodą Komisji, z zastrzeżeniem art. 61 ust. 1e.
 
 2. Z wnioskiem o wyrażenie zgody, o której mowa w ust. 1, występuje rada nadzorcza towarzystwa, dołączając do wniosku informacje i oświadczenia osób wskazanych w tym przepisie, dotyczące:
 
@@ -1294,11 +1452,9 @@ Art. 300–319. (pominięte)
 
 3. Komisja odmawia wyrażenia zgody, o której mowa w ust. 1, jeżeli osoba, której dotyczy wniosek o wyrażenie zgody, nie spełnia wymogów określonych w art. 42 ust. 2–4, 6 i 7.
 
-4. Przepisu ust. 1 nie stosuje się do powołania na kolejną kadencję osób wymienionych w ust. 1, jeżeli osoby te spełniają wymogi określone w art. 42 ust. 2– 4, 6 i 7.
+4. Przepisu ust. 1 nie stosuje się do powołania na kolejną kadencję osób wymienionych w ust. 1, jeżeli osoby te spełniają wymogi określone w art. 42 ust. 2–4, 6 i 7.
 
-5. Decyzja, o której mowa w ust. 1, może określać termin, do którego powinno nastąpić powołanie lub powierzenie funkcji, o której mowa w ust. 1. W przypadku niedotrzymania tego terminu decyzja wygasa. Przepisu art. 162 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz.
-
-- **1691)** nie stosuje się.
+5. Decyzja, o której mowa w ust. 1, może określać termin, do którego powinno nastąpić powołanie lub powierzenie funkcji, o której mowa w ust. 1. W przypadku niedotrzymania tego terminu decyzja wygasa. Przepisu art. 162 § 3 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691) nie stosuje się.
 
 **Art. 43.** O powołaniu nowego członka zarządu, w przypadku którego nie jest wymagana zgoda Komisji, oraz o innych zmianach w składzie zarządu przewodniczący rady nadzorczej towarzystwa lub inna osoba wskazana w uchwale rady nadzorczej niezwłocznie zawiadamia Komisję. Do zawiadomienia o powołaniu nowego członka zarządu załącza się informacje i oświadczenia, o których mowa w art. 42b ust. 2.
 
@@ -1327,18 +1483,18 @@ Art. 300–319. (pominięte)
 
 - **1)** przyjmowanie i przekazywanie zleceń nabycia lub zbycia instrumentów finansowych, których przedmiotem są:
     - **a)** jednostki uczestnictwa funduszy inwestycyjnych otwartych zarządzanych przez inne towarzystwa lub tytuły uczestnictwa funduszy zagranicznych lub funduszy inwestycyjnych otwartych z siedzibą w państwach należących do EEA,
-    - **b)** jednostki uczestnictwa specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez inne towarzystwa – w przypadku gdy rozszerzyło przedmiot działalności zgodnie z ust. 1a;
+    - **b)** jednostki uczestnictwa specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez inne towarzystwa w przypadku gdy rozszerzyło przedmiot działalności zgodnie z ust. 1a;
 
 - **1a)** doradztwo inwestycyjne w odniesieniu do instrumentów finansowych, o których mowa w pkt 1;
 - **2)** pełnienie funkcji przedstawiciela funduszy zagranicznych, o którym mowa w art. 253 ust. 3 pkt 2.
 
-3a. W zakresie świadczenia usług, o których mowa w ust. 2, 2a, ust. 3 pkt 1 i 1a, do towarzystwa stosuje się odpowiednio art. 74b, art. 75, art. 76, art. 83a ust. 1a, 1b, 3a i 3c–4d oraz art. 83b–83j ustawy o obrocie instrumentami finansowymi, a także przepisy wydane na podstawie art. 94 ust. 1 pkt 1 tej ustawy, przepisy rozporządzenia 2017/565 oraz przepisy innych bezpośrednio stosowanych przepisów prawa Unii Europejskiej – w zakresie, w jakim regulują one sposób świadczenia tych usług.
+3a. W zakresie świadczenia usług, o których mowa w ust. 2, 2a, ust. 3 pkt 1 i 1a, do towarzystwa stosuje się odpowiednio art. 74b, art. 75, art. 76, art. 83a ust. 1a, 1b, 3a i 3c–4d oraz art. 83b–83j ustawy o obrocie instrumentami finansowymi, a także przepisy wydane na podstawie art. 94 ust. 1 pkt 1 tej ustawy, przepisy rozporządzenia 2017/565 oraz przepisy innych bezpośrednio stosowanych przepisów prawa Unii Europejskiej w zakresie, w jakim regulują one sposób świadczenia tych usług.
 
 4. Towarzystwo jest obowiązane zatrudniać co najmniej:
 
-- **1)** dwóch doradców inwestycyjnych – do wykonywania czynności zarządzania funduszami inwestycyjnymi, zarządzania zbiorczym portfelem papierów wartościowych oraz zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, z zastrzeżeniem ust. 5;
+- **1)** dwóch doradców inwestycyjnych do wykonywania czynności zarządzania funduszami inwestycyjnymi, zarządzania zbiorczym portfelem papierów wartościowych oraz zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, z zastrzeżeniem ust. 5;
 - **2)** (uchylony)
-- **3)** jednego maklera papierów wartościowych – do wykonywania czynności przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych.
+- **3)** jednego maklera papierów wartościowych do wykonywania czynności przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych.
 
 4a. Towarzystwo jest obowiązane zatrudniać osoby posiadające odpowiednią wiedzę i kompetencje w zakresie:
 
@@ -1362,7 +1518,7 @@ Art. 300–319. (pominięte)
 
 **Art. 45a.**
 
-1. Z zastrzeżeniem art. 47 ust. 6 oraz z uwzględnieniem art. 75– 82 rozporządzenia 231/2013, towarzystwo może, w drodze umowy zawartej w formie pisemnej, powierzyć przedsiębiorcy lub przedsiębiorcy zagranicznemu wykonywanie czynności związanych z działalnością prowadzoną przez to towarzystwo.
+1. Z zastrzeżeniem art. 47 ust. 6 oraz z uwzględnieniem art. 75–82 rozporządzenia 231/2013, towarzystwo może, w drodze umowy zawartej w formie pisemnej, powierzyć przedsiębiorcy lub przedsiębiorcy zagranicznemu wykonywanie czynności związanych z działalnością prowadzoną przez to towarzystwo.
 
 2. Powierzenie wykonywania czynności nie może prowadzić do zaprzestania faktycznego wykonywania działalności, o której mowa w art. 45, przez towarzystwo.
 
@@ -1393,12 +1549,12 @@ Art. 300–319. (pominięte)
 
 5. Zawarcie umowy, o której mowa w ust. 1, nie zwalnia towarzystwa z odpowiedzialności, o której mowa w art. 64 ust. 1.
 
-6. Za szkody spowodowane niewykonaniem lub nienależytym wykonaniem umowy, o której mowa w ust. 1, towarzystwo odpowiada wobec uczestników funduszu solidarnie z podmiotem, z którym zawarło umowę, a w przypadku przekazania lub dalszego przekazania wykonywania czynności związanych z działalnością prowadzoną przez towarzystwo innemu podmiotowi – również z tym podmiotem, chyba że szkoda jest wynikiem okoliczności, za które podmioty te nie ponoszą odpowiedzialności.
+6. Za szkody spowodowane niewykonaniem lub nienależytym wykonaniem umowy, o której mowa w ust. 1, towarzystwo odpowiada wobec uczestników funduszu solidarnie z podmiotem, z którym zawarło umowę, a w przypadku przekazania lub dalszego przekazania wykonywania czynności związanych z działalnością prowadzoną przez towarzystwo innemu podmiotowi również z tym podmiotem, chyba że szkoda jest wynikiem okoliczności, za które podmioty te nie ponoszą odpowiedzialności.
 
 7. Do umów, których przedmiotem są czynności niemające istotnego znaczenia dla prawidłowego wykonywania przez towarzystwo obowiązków określonych przepisami prawa, sytuacji finansowej towarzystwa, ciągłości lub stabilności prowadzenia przez towarzystwo działalności, o której mowa w art. 45, nie stosuje się przepisów ust. 6 oraz:
 
-- **1)** ust. 3 i 4 – w przypadku umów zawieranych przez towarzystwo;
-- **2)** ust. 4b i 4c – w przypadku przekazania lub dalszego przekazania wykonywania czynności związanych z działalnością prowadzoną przez towarzystwo.
+- **1)** ust. 3 i 4 w przypadku umów zawieranych przez towarzystwo;
+- **2)** ust. 4b i 4c w przypadku przekazania lub dalszego przekazania wykonywania czynności związanych z działalnością prowadzoną przez towarzystwo.
 
 8. Za umowy, których przedmiotem są czynności niemające istotnego znaczenia dla prawidłowego wykonywania przez towarzystwo obowiązków określonych przepisami prawa, sytuacji finansowej towarzystwa, ciągłości lub stabilności prowadzenia przez towarzystwo działalności, o której mowa w art. 45, uznaje się w szczególności umowy, których przedmiotem jest:
 
@@ -1412,7 +1568,7 @@ Art. 300–319. (pominięte)
 
 **Art. 46.**
 
-1. Umowa, o której mowa w art. 45a ust. 1, której przedmiotem jest zlecenie zarządzania portfelem inwestycyjnym funduszu lub jego częścią, może być, z uwzględnieniem art. 78 rozporządzenia 231/2013 – w przypadku specjalistycznego funduszu inwestycyjnego otwartego i funduszu inwestycyjnego zamkniętego, zawarta wyłącznie z:
+1. Umowa, o której mowa w art. 45a ust. 1, której przedmiotem jest zlecenie zarządzania portfelem inwestycyjnym funduszu lub jego częścią, może być, z uwzględnieniem art. 78 rozporządzenia 231/2013 w przypadku specjalistycznego funduszu inwestycyjnego otwartego i funduszu inwestycyjnego zamkniętego, zawarta wyłącznie z:
 
 - **1)** podmiotem prowadzącym działalność maklerską w zakresie zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, lub innym towarzystwem posiadającym zezwolenie, o którym mowa w art. 45 ust. 2 pkt 1;
 - **2)** podmiotem prowadzącym działalność maklerską w zakresie zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, mającym siedzibę w innym państwie członkowskim;
@@ -1444,7 +1600,7 @@ Art. 300–319. (pominięte)
 
 9. Towarzystwo nie może zlecić zarządzania portfelem inwestycyjnym funduszu lub częścią takiego portfela:
 
-- **1)** depozytariuszowi funduszu ani podmiotowi, któremu depozytariusz powierzył wykonywanie czynności związanych z prowadzoną przez niego działalnością – w przypadku specjalistycznego funduszu inwestycyjnego otwartego oraz funduszu inwestycyjnego zamkniętego;
+- **1)** depozytariuszowi funduszu ani podmiotowi, któremu depozytariusz powierzył wykonywanie czynności związanych z prowadzoną przez niego działalnością w przypadku specjalistycznego funduszu inwestycyjnego otwartego oraz funduszu inwestycyjnego zamkniętego;
 - **2)** podmiotowi, którego interesy mogą być sprzeczne z interesem towarzystwa lub interesem uczestników funduszu inwestycyjnego.
 
 10. Przepisy ust. 1–3a oraz ust. 9 stosuje się odpowiednio do przekazywania, o którym mowa w art. 45a ust. 4b, i dalszego przekazywania, o którym mowa w art. 45a ust. 4c, wykonywania czynności zarządzania portfelem inwestycyjnym specjalistycznego funduszu inwestycyjnego otwartego albo funduszu inwestycyjnego zamkniętego lub częścią tego portfela lub czynności, o których mowa w ust. 2.
@@ -1455,7 +1611,7 @@ Art. 300–319. (pominięte)
 
 - **1)** statut lub umowę spółki albo inny dokument określający formę prawną podmiotu, o którym mowa w art. 46 ust. 3a, wraz z odpisem z właściwego rejestru;
 - **2)** projekt umowy, o której mowa w art. 46 ust. 3a;
-- **3)** opis prowadzonej działalności oraz ostatnie sprawozdanie finansowe podmiotu, o którym mowa w art. 46 ust. 3a, wraz ze sprawozdaniem z badania, a w przypadku braku takiego sprawozdania – inne dokumenty i informacje przedstawiające rzetelnie aktualną sytuację finansową podmiotu, o którym mowa w art. 46 ust. 3a;
+- **3)** opis prowadzonej działalności oraz ostatnie sprawozdanie finansowe podmiotu, o którym mowa w art. 46 ust. 3a, wraz ze sprawozdaniem z badania, a w przypadku braku takiego sprawozdania inne dokumenty i informacje przedstawiające rzetelnie aktualną sytuację finansową podmiotu, o którym mowa w art. 46 ust. 3a;
 - **4)** schemat i opis powiązań kapitałowych podmiotu, o którym mowa w art. 46 ust. 3a;
 - **5)** opis posiadanych przez podmiot, o którym mowa w art. 46 ust. 3a, warunków technicznych i organizacyjnych do wykonywania umowy;
 - **6)** procedury zapobiegające ujawnieniu lub wykorzystaniu informacji stanowiących tajemnicę zawodową obowiązujące w podmiocie, o którym mowa w art. 46 ust. 3a;
@@ -1496,7 +1652,7 @@ Art. 300–319. (pominięte)
 
 - **1)** statut lub umowę spółki albo inny dokument określający formę prawną podmiotu, o którym mowa w art. 46b ust. 2, wraz z odpisem z właściwego rejestru;
 - **2)** projekt umowy, o której mowa w art. 46b ust. 2;
-- **3)** opis prowadzonej działalności oraz ostatnie sprawozdanie finansowe podmiotu, o którym mowa w art. 46b ust. 2, wraz ze sprawozdaniem z badania, a w przypadku braku takiego sprawozdania – inne dokumenty i informacje przedstawiające rzetelnie aktualną sytuację finansową podmiotu, o którym mowa w art. 46b ust. 2;
+- **3)** opis prowadzonej działalności oraz ostatnie sprawozdanie finansowe podmiotu, o którym mowa w art. 46b ust. 2, wraz ze sprawozdaniem z badania, a w przypadku braku takiego sprawozdania inne dokumenty i informacje przedstawiające rzetelnie aktualną sytuację finansową podmiotu, o którym mowa w art. 46b ust. 2;
 - **4)** schemat i opis powiązań kapitałowych podmiotu, o którym mowa w art. 46b ust. 2;
 - **5)** opis posiadanych przez podmiot, o którym mowa w art. 46b ust. 2, warunków technicznych i organizacyjnych do wykonywania umowy;
 - **6)** procedury zapobiegające ujawnieniu lub wykorzystaniu informacji stanowiących tajemnicę zawodową obowiązujące w podmiocie, o którym mowa w art. 46b ust. 2;
@@ -1555,7 +1711,7 @@ Art. 300–319. (pominięte)
 - **1)** w ramach zarządzania aktywami pracowniczego funduszu emerytalnego, o którym mowa w art. 152 ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych, lokuje, na podstawie ustaleń z pracowniczym funduszem emerytalnym i w jego imieniu, aktywa tego funduszu w dopuszczone do obrotu na rynku regulowanym akcje spółek,
 - **2)** zarządza funduszem inwestycyjnym, który, na podstawie ustaleń z pracowniczym funduszem emerytalnym, lokuje swoje aktywa w dopuszczone do obrotu na rynku regulowanym akcje spółek, i którego jednostki uczestnictwa lub certyfikaty inwestycyjne posiada pracowniczy fundusz emerytalny,
 - **3)** w ramach świadczenia na rzecz zakładu ubezpieczeń wykonującego działalność w zakresie ubezpieczeń, o których mowa w dziale I załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, lub na rzecz zakładu reasekuracji wykonującego działalność w zakresie reasekuracji ubezpieczeń, o których mowa w dziale I załącznika do tej ustawy, usługi zarządzania aktywami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, lokuje, na podstawie ustaleń z tym zakładem ubezpieczeń lub zakładem reasekuracji i w jego imieniu, aktywa tego zakładu ubezpieczeń lub tego zakładu reasekuracji, w dopuszczone do obrotu na rynku regulowanym akcje spółek,
-- **4)** zarządza funduszem inwestycyjnym, którego jednostki uczestnictwa lub certyfikaty inwestycyjne posiada zakład ubezpieczeń wykonujący działalność w zakresie ubezpieczeń, o których mowa w dziale I załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, lub zakład reasekuracji wykonujący działalność w zakresie reasekuracji ubezpieczeń, o których mowa w dziale I załącznika do tej ustawy, i który, na podstawie ustaleń z tym zakładem ubezpieczeń lub tym zakładem reasekuracji, lokuje swoje aktywa w dopuszczone do obrotu na rynku regulowanym akcje spółek – towarzystwo przekazuje corocznie, odpowiednio temu pracowniczemu funduszowi emerytalnemu, zakładowi ubezpieczeń lub zakładowi reasekuracji, informację dotyczącą zgodności przyjętej strategii inwestycyjnej i jej realizacji z ustaleniami, o których mowa w pkt 1–4, oraz sposobu, w jaki strategia ta i jej realizacja przyczyniają się do średnio- i długoterminowych wyników uzyskiwanych z aktywów tych podmiotów lub funduszy inwestycyjnych.
+- **4)** zarządza funduszem inwestycyjnym, którego jednostki uczestnictwa lub certyfikaty inwestycyjne posiada zakład ubezpieczeń wykonujący działalność w zakresie ubezpieczeń, o których mowa w dziale I załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, lub zakład reasekuracji wykonujący działalność w zakresie reasekuracji ubezpieczeń, o których mowa w dziale I załącznika do tej ustawy, i który, na podstawie ustaleń z tym zakładem ubezpieczeń lub tym zakładem reasekuracji, lokuje swoje aktywa w dopuszczone do obrotu na rynku regulowanym akcje spółek towarzystwo przekazuje corocznie, odpowiednio temu pracowniczemu funduszowi emerytalnemu, zakładowi ubezpieczeń lub zakładowi reasekuracji, informację dotyczącą zgodności przyjętej strategii inwestycyjnej i jej realizacji z ustaleniami, o których mowa w pkt 1–4, oraz sposobu, w jaki strategia ta i jej realizacja przyczyniają się do średnio- i długoterminowych wyników uzyskiwanych z aktywów tych podmiotów lub funduszy inwestycyjnych.
 
 2. Informacja, o której mowa w ust. 1, zawiera w szczególności opis:
 
@@ -1637,7 +1793,7 @@ Art. 300–319. (pominięte)
 - **5)** pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo,
 - **6)** przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych, których przedmiotem są jednostki uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez inne towarzystwa, tytuły uczestnictwa funduszy zagranicznych oraz funduszy inwestycyjnych otwartych z siedzibą w państwach należących do EEA,
 - **7)** wprowadzania do obrotu unijnych AFI,
-- **8)** pełnienia funkcji przedstawiciela funduszy zagranicznych – w sposób rzetelny i profesjonalny, z zachowaniem należytej staranności i zgodnie z zasadami uczciwego obrotu, a także w najlepiej pojętym interesie zarządzanych funduszy, uczestników tych funduszy oraz klientów towarzystwa oraz w celu zapewnienia stabilności i bezpieczeństwa rynku finansowego.
+- **8)** pełnienia funkcji przedstawiciela funduszy zagranicznych w sposób rzetelny i profesjonalny, z zachowaniem należytej staranności i zgodnie z zasadami uczciwego obrotu, a także w najlepiej pojętym interesie zarządzanych funduszy, uczestników tych funduszy oraz klientów towarzystwa oraz w celu zapewnienia stabilności i bezpieczeństwa rynku finansowego.
 
 2b. Towarzystwo, prowadząc działalność, o której mowa w ust. 2a, jest obowiązane w szczególności:
 
@@ -1671,6 +1827,21 @@ Art. 300–319. (pominięte)
 
 **Art. 48a.** Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia:
 
+- **1)** sposób, warunki i szczegółowy zakres działania systemu kontroli wewnętrznej, w tym systemu nadzoru zgodności działalności z prawem, systemu zarządzania ryzykiem oraz systemu audytu wewnętrznego w towarzystwie,
+- **2)** sposób prowadzenia ewidencji transakcji zawartych przez fundusze inwestycyjne otwarte oraz transakcji zawartych na rachunek własny towarzystwa lub rachunek własny towarzystwa prowadzony dla zbiorczego portfela papierów wartościowych, ewidencji zleceń składanych przez uczestników funduszy inwestycyjnych otwartych, a także ewidencji transakcji zawartych przez towarzystwo w ramach wykonywania usługi zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych,
+- **3)** pojęcie konfliktu interesów oraz szczegółowe wymagania dotyczące postępowania w zakresie konfliktów interesów, w tym zawierania transakcji przez pracowników, członków zarządu oraz rady nadzorczej towarzystwa albo przez inne osoby fizyczne pozostające z towarzystwem w stosunku zlecenia albo innym stosunku o podobnym charakterze, które mają dostęp do informacji dotyczących obecnych i planowanych lokat funduszy inwestycyjnych oraz aktywów nabywanych do portfeli klientów, dla których towarzystwo wykonuje usługi doradztwa inwestycyjnego albo zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych,
+- **4)** sposób dokumentowania źródeł będących podstawą decyzji inwestycyjnych oraz przechowywania i archiwizowania dokumentów i innych nośników informacji związanych z działalnością funduszy inwestycyjnych i towarzystwa,
+- **5)** szczegółowe wymagania w zakresie działania towarzystwa w najlepiej pojętym interesie funduszu inwestycyjnego otwartego oraz uczestników funduszu inwestycyjnego otwartego, w tym w zakresie wykonywania decyzji inwestycyjnych w zarządzaniu portfelami inwestycyjnymi funduszy inwestycyjnych oraz w zakresie składania zleceń nabycia lub zbycia instrumentów finansowych łącznie dla różnych funduszy inwestycyjnych zarządzanych przez towarzystwo oraz łącznie z innymi zleceniami składanymi przez towarzystwo, oraz przeprowadzania analiz przy doborze lokat funduszu inwestycyjnego,
+- **6)** (uchylony)
+- **7)** tryb i warunki postępowania towarzystwa w zakresie prowadzenia działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo, w tym w zakresie świadczenia usług, promowania świadczonych usług oraz kontaktów z klientami,
+- **8)** warunki techniczne i organizacyjne prowadzenia przez towarzystwo działalności, o której mowa w art. 48 ust. 2a,
+- **9)** szczegółowe kryteria w zakresie spełniania przez osoby, o których mowa w art. 45 ust. 4a, wymogów posiadania odpowiedniej wiedzy i kompetencji,
+- **10)** tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania przez osoby, o których mowa w art. 45 ust. 4a, wymogów w zakresie posiadania odpowiedniej wiedzy i kompetencji oraz tryb i warunki postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji tych osób oraz osób, o których mowa w art. 45 ust. 4b,
+- **11)** szczegółowe kryteria w zakresie spełniania przez osoby, o których mowa w art. 45 ust. 4d, wymogów posiadania odpowiedniej wiedzy, kompetencji i doświadczenia,
+- **12)** tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania przez osoby, o których mowa w art. 45 ust. 4d, wymogów w zakresie posiadania odpowiedniej wiedzy, kompetencji i doświadczenia oraz tryb i warunki postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji tych osób,
+- **13)** szczegółowe kryteria w zakresie spełniania przez członków zarządu i rady nadzorczej towarzystwa wymogu posiadania nieposzlakowanej opinii, wiedzy, kompetencji i doświadczenia, o których mowa w art. 42 ust. 4,
+- **14)** tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania przez członków zarządu i rady nadzorczej towarzystwa wymogu posiadania nieposzlakowanej opinii, wiedzy, kompetencji i doświadczenia, o których mowa w art. 42 ust. 4, oraz tryb i warunki postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji tych osób, o których mowa w art. 42 ust. 5 w celu zapewnienia ochrony interesu uczestników funduszy inwestycyjnych lub zbiorczych portfeli papierów wartościowych i klientów oraz dla zapewnienia prowadzenia przez towarzystwo stabilnej działalności, a także biorąc pod uwagę wytyczne w zakresie zasad uznawania posiadania odpowiedniej wiedzy i kompetencji przez osoby wykonujące usługi maklerskie, wydane przez Europejski Urząd Nadzoru Giełd i Papierów Wartościowych.
+
 **Art. 48b.**
 
 1. Towarzystwo wykonujące działalność w zakresie zarządzania funduszami inwestycyjnymi otwartymi, które zamierza rozszerzyć przedmiot swojej działalności o działalność określoną w art. 45 ust. 1a, jest obowiązane, w celu spełnienia warunków prowadzenia tej działalności, dostosować rozwiązania organizacyjne i techniczne oraz regulacje wewnętrzne przyjęte w związku z wykonywaniem działalności w zakresie zarządzania funduszami inwestycyjnymi otwartymi do wymogów ustawy oraz rozporządzenia 231/2013 w zakresie, w jakim dotyczą one działalności zarządzania alternatywnymi funduszami inwestycyjnymi.
@@ -1683,7 +1854,7 @@ Art. 300–319. (pominięte)
 
 - **1)** specjalistycznego funduszu inwestycyjnego otwartego stosującego zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego,
 - **2)** specjalistycznego funduszu inwestycyjnego otwartego stosującego zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego,
-- **3)** funduszu inwestycyjnego zamkniętego – wyliczona przy zastosowaniu metody określonej w art. 8 rozporządzenia 231/2013, nie przekraczała określonego w procedurach obowiązujących w towarzystwie limitu ekspozycji AFI.
+- **3)** funduszu inwestycyjnego zamkniętego wyliczona przy zastosowaniu metody określonej w art. 8 rozporządzenia 231/2013, nie przekraczała określonego w procedurach obowiązujących w towarzystwie limitu ekspozycji AFI.
 
 2. Towarzystwo, odrębnie dla każdego zarządzanego specjalistycznego funduszu inwestycyjnego otwartego lub funduszu inwestycyjnego zamkniętego, oblicza wartość ekspozycji AFI, w każdym dniu roboczym, co najmniej raz dziennie.
 
@@ -1701,7 +1872,7 @@ Art. 300–319. (pominięte)
 
 **Art. 50.**
 
-1. Towarzystwo ma obowiązek utrzymywania kapitału własnego na poziomie nie niższym niż 25 % różnicy pomiędzy wartością kosztów ogółem a wartością zmiennych kosztów dystrybucji poniesionych w poprzednim roku obrotowym, wykazanych w sprawozdaniach przekazywanych Komisji na podstawie art. 225 ust. 1, a jeżeli towarzystwo nie prowadziło działalności lub prowadziło ją krócej niż rok – na poziomie nie niższym niż 25 % różnicy pomiędzy wartością kosztów ogółem a wartością zmiennych kosztów dystrybucji określonych w analizie ekonomiczno-finansowej, o której mowa w art. 58 ust. 1 pkt 3, z zastrzeżeniem ust. 2 i 3.
+1. Towarzystwo ma obowiązek utrzymywania kapitału własnego na poziomie nie niższym niż 25 % różnicy pomiędzy wartością kosztów ogółem a wartością zmiennych kosztów dystrybucji poniesionych w poprzednim roku obrotowym, wykazanych w sprawozdaniach przekazywanych Komisji na podstawie art. 225 ust. 1, a jeżeli towarzystwo nie prowadziło działalności lub prowadziło ją krócej niż rok na poziomie nie niższym niż 25 % różnicy pomiędzy wartością kosztów ogółem a wartością zmiennych kosztów dystrybucji określonych w analizie ekonomiczno-finansowej, o której mowa w art. 58 ust. 1 pkt 3, z zastrzeżeniem ust. 2 i 3.
 
 2. Towarzystwo jest zobowiązane utrzymywać kapitały własne na poziomie nie niższym niż określony w art. 49.
 
@@ -1711,15 +1882,15 @@ Art. 300–319. (pominięte)
 
 4a. Towarzystwo prowadzące działalność w zakresie zarządzania alternatywnymi funduszami inwestycyjnymi ma obowiązek, z uwzględnieniem art. 12–15 rozporządzenia 231/2013:
 
-- **1)** zwiększać kapitał własny ustalony zgodnie z ust. 1–4 o kwotę dodatkową – odpowiednio do ryzyka roszczeń wobec towarzystwa z tytułu niewykonania lub nienależytego wykonania jego obowiązków związanych z zarządzaniem specjalistycznym funduszem inwestycyjnym otwartym lub funduszem inwestycyjnym zamkniętym albo
+- **1)** zwiększać kapitał własny ustalony zgodnie z ust. 1–4 o kwotę dodatkową odpowiednio do ryzyka roszczeń wobec towarzystwa z tytułu niewykonania lub nienależytego wykonania jego obowiązków związanych z zarządzaniem specjalistycznym funduszem inwestycyjnym otwartym lub funduszem inwestycyjnym zamkniętym albo
 - **2)** zawrzeć umowę ubezpieczenia odpowiedzialności cywilnej za szkody powstałe w wyniku niewykonania lub nienależytego wykonania jego obowiązków związanych z zarządzaniem specjalistycznym funduszem inwestycyjnym otwartym lub funduszem inwestycyjnym zamkniętym.
 
 5. O zmniejszeniu wartości kapitałów własnych poniżej poziomu określonego w ust. 1 i 4a oraz w przepisach wydanych na podstawie ust. 10 towarzystwo zawiadamia niezwłocznie Komisję.
 
 6. Jeżeli wartość kapitałów własnych towarzystwa nie zostanie w terminie 3 miesięcy, z zastrzeżeniem ust. 7, uzupełniona:
 
-- **1)** do poziomu wymaganego zgodnie z ust. 1–3 – Komisja może cofnąć zezwolenie na wykonywanie działalności przez towarzystwo;
-- **2)** do poziomu wymaganego zgodnie z ust. 4a – Komisja może cofnąć zezwolenie na zarządzanie alternatywnymi funduszami inwestycyjnymi.
+- **1)** do poziomu wymaganego zgodnie z ust. 1–3 Komisja może cofnąć zezwolenie na wykonywanie działalności przez towarzystwo;
+- **2)** do poziomu wymaganego zgodnie z ust. 4a Komisja może cofnąć zezwolenie na zarządzanie alternatywnymi funduszami inwestycyjnymi.
 
 7. Jeżeli w wyniku zmiany kursu euro wartość kapitału własnego towarzystwa ulegnie obniżeniu poniżej poziomu wymaganego zgodnie z ust. 1–3 oraz ust. 4a, towarzystwo jest obowiązane zwiększyć wartość kapitału własnego do wymaganego poziomu w terminie 6 miesięcy.
 
@@ -1757,7 +1928,9 @@ Art. 300–319. (pominięte)
 
 1. Kapitał zakładowy towarzystwa może pochodzić wyłącznie ze źródeł udokumentowanych. Środki na pokrycie kapitału zakładowego lub na nabycie akcji nie mogą pochodzić z pożyczki lub kredytu.
 
-2. Osoby obejmujące lub nabywające akcje towarzystwa są obowiązane do udokumentowania źródeł pochodzenia kwot wpłacanych na pokrycie kapitału zakładowego towarzystwa lub tytułem zapłaty ceny nabycia oraz do złożenia zaświadczenia o niezaleganiu w podatkach albo stwierdzającego stan zaległości, o którym mowa w art. 32 ust. 4 pkt 14. W przypadku nierezydentów niepodlegających obowiązkowi podatkowemu na terytorium Rzeczypospolitej Polskiej odpowiednie zaświadczenie powinno być wydane przez właściwy organ kontroli skarbowej państwa miejsca zamieszkania lub siedziby tych osób. [Art. 53. Akcje towarzystwa mogą być wyłącznie imienne, chyba że są zdematerializowane.]
+2. Osoby obejmujące lub nabywające akcje towarzystwa są obowiązane do udokumentowania źródeł pochodzenia kwot wpłacanych na pokrycie kapitału zakładowego towarzystwa lub tytułem zapłaty ceny nabycia oraz do złożenia zaświadczenia o niezaleganiu w podatkach albo stwierdzającego stan zaległości, o którym mowa w art. 32 ust. 4 pkt 14. W przypadku nierezydentów niepodlegających obowiązkowi podatkowemu na terytorium Rzeczypospolitej Polskiej odpowiednie zaświadczenie powinno być wydane przez właściwy organ kontroli skarbowej państwa miejsca zamieszkania lub siedziby tych osób.
+
+**Art. 53.** Akcje towarzystwa mogą być wyłącznie imienne, chyba że są zdematerializowane.
 
 **Art. 54.**
 
@@ -1799,24 +1972,24 @@ Art. 300–319. (pominięte)
 
 1. Podmiot składający zawiadomienie, o którym mowa w art. 54 ust. 1, przekazuje wraz z zawiadomieniem informację o posiadanych bezpośrednio lub pośrednio akcjach lub prawach z akcji towarzystwa, o którym mowa w art. 54 ust. 1, jak również o podmiotach dominujących tego podmiotu i zawartych przez ten podmiot porozumieniach oraz o pozostawaniu przez ten podmiot w stanach faktycznych lub prawnych pozwalających innym podmiotom na wykonywanie praw z akcji towarzystwa lub wykonywanie uprawnień podmiotu dominującego towarzystwa.
 
-2. Podmiot, o którym mowa w ust. 1, wskazuje w zawiadomieniu sposób realizacji zamiaru, którego dotyczy zawiadomienie oraz przedkłada dowody wskazujące na istnienie zamiaru objętego zawiadomieniem, w szczególności stosowną umowę lub porozumienie, a w przypadku gdy zamiar ma zostać zrealizowany na rynku regulowanym – stosowne oświadczenie w tym zakresie.
+2. Podmiot, o którym mowa w ust. 1, wskazuje w zawiadomieniu sposób realizacji zamiaru, którego dotyczy zawiadomienie oraz przedkłada dowody wskazujące na istnienie zamiaru objętego zawiadomieniem, w szczególności stosowną umowę lub porozumienie, a w przypadku gdy zamiar ma zostać zrealizowany na rynku regulowanym stosowne oświadczenie w tym zakresie.
 
 3. W przypadku gdy podmiot składający zawiadomienie jest:
 
 - **1)** zagranicznym zakładem ubezpieczeń lub zagranicznym zakładem reasekuracji w rozumieniu ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, instytucją kredytową, zagraniczną firmą inwestycyjną w rozumieniu ustawy o obrocie instrumentami finansowymi, spółką zarządzającą lub zarządzającym z UE, którzy uzyskali zezwolenie na wykonywanie działalności na terytorium państwa członkowskiego, lub
-- **2)** podmiotem dominującym lub podmiotem pozostającym w podobnym stosunku do zakładu ubezpieczeń lub zakładu reasekuracji w rozumieniu ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, instytucji kredytowej, zagranicznej firmy inwestycyjnej w rozumieniu ustawy o obrocie instrumentami finansowymi, spółki zarządzającej lub zarządzającego z UE, którzy uzyskali zezwolenie na wykonywanie działalności na terytorium państwa członkowskiego – zawiadomienie zawiera odpowiednią informację w tym zakresie, wskazującą w szczególności nazwę i siedzibę zagranicznego zakładu ubezpieczeń, zagranicznego zakładu reasekuracji, instytucji kredytowej, firmy inwestycyjnej, spółki zarządzającej lub zarządzającego z UE, o których mowa w pkt 2; jeżeli nie zachodzą okoliczności wymienione w pkt 1 i 2, zawiadomienie zawiera stosowne oświadczenie w tym zakresie.
+- **2)** podmiotem dominującym lub podmiotem pozostającym w podobnym stosunku do zakładu ubezpieczeń lub zakładu reasekuracji w rozumieniu ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, instytucji kredytowej, zagranicznej firmy inwestycyjnej w rozumieniu ustawy o obrocie instrumentami finansowymi, spółki zarządzającej lub zarządzającego z UE, którzy uzyskali zezwolenie na wykonywanie działalności na terytorium państwa członkowskiego zawiadomienie zawiera odpowiednią informację w tym zakresie, wskazującą w szczególności nazwę i siedzibę zagranicznego zakładu ubezpieczeń, zagranicznego zakładu reasekuracji, instytucji kredytowej, firmy inwestycyjnej, spółki zarządzającej lub zarządzającego z UE, o których mowa w pkt 2; jeżeli nie zachodzą okoliczności wymienione w pkt 1 i 2, zawiadomienie zawiera stosowne oświadczenie w tym zakresie.
 
 **Art. 54b.**
 
 1. Podmiot składający zawiadomienie, o którym mowa w art. 54 ust. 1, przedstawia wraz z zawiadomieniem informacje dotyczące:
 
-- **1)** identyfikacji podmiotu składającego zawiadomienie, osób zarządzających jego działalnością oraz osób przewidzianych do objęcia funkcji członków zarządu towarzystwa – o ile podmiot składający zawiadomienie planuje zmiany w tym zakresie;
+- **1)** identyfikacji podmiotu składającego zawiadomienie, osób zarządzających jego działalnością oraz osób przewidzianych do objęcia funkcji członków zarządu towarzystwa o ile podmiot składający zawiadomienie planuje zmiany w tym zakresie;
 - **2)** identyfikacji towarzystwa, o którym mowa w art. 54 ust. 1;
 - **3)** działalności zawodowej, gospodarczej lub statutowej podmiotu składającego zawiadomienie i osób, o których mowa w pkt 1, a w szczególności przedmiotu tej działalności, zakresu i miejsca jej prowadzenia oraz dotychczasowego jej przebiegu, a także wykształcenia posiadanego przez podmiot składający zawiadomienie, będący osobą fizyczną, i osób, o których mowa w pkt 1;
 - **4)** grupy, do której należy podmiot składający zawiadomienie, a w szczególności jej struktury, należących do niej podmiotów, prawnych i faktycznych powiązań kapitałowych, finansowych i osobowych z innymi podmiotami;
 - **5)** sytuacji ekonomiczno-finansowej podmiotu składającego zawiadomienie;
 - **6)** skazania za przestępstwo lub przestępstwo skarbowe, postępowań warunkowo umorzonych oraz zakończonych ukaraniem postępowań dyscyplinarnych jak również innych zakończonych postępowań administracyjnych i cywilnych, dotyczących podmiotu składającego zawiadomienie lub osób, o których mowa w pkt 1, mogących mieć wpływ na ocenę podmiotu składającego zawiadomienie w świetle kryteriów określonych w art. 54h ust. 2;
-- **7)** toczących się postępowań karnych o przestępstwo umyślne – z wyłączeniem przestępstw ściganych z oskarżenia prywatnego – lub postępowań w sprawie o przestępstwo skarbowe, jak również innych toczących się postępowań administracyjnych, dyscyplinarnych i cywilnych, mogących mieć wpływ na ocenę podmiotu składającego zawiadomienie w świetle kryteriów określonych w art. 54h ust. 2, a prowadzonych przeciwko podmiotowi składającemu zawiadomienie lub osobom, o których mowa w pkt 1, lub postępowań związanych z działalnością tego podmiotu lub tych osób;
+- **7)** toczących się postępowań karnych o przestępstwo umyślne z wyłączeniem przestępstw ściganych z oskarżenia prywatnego lub postępowań w sprawie o przestępstwo skarbowe, jak również innych toczących się postępowań administracyjnych, dyscyplinarnych i cywilnych, mogących mieć wpływ na ocenę podmiotu składającego zawiadomienie w świetle kryteriów określonych w art. 54h ust. 2, a prowadzonych przeciwko podmiotowi składającemu zawiadomienie lub osobom, o których mowa w pkt 1, lub postępowań związanych z działalnością tego podmiotu lub tych osób;
 - **8)** działań zmierzających do nabycia albo objęcia akcji lub praw z akcji w liczbie zapewniającej osiągnięcie lub przekroczenie poziomów określonych w art. 54 ust. 1 albo stania się podmiotem dominującym towarzystwa, a w szczególności docelowego udziału w ogólnej liczbie głosów na walnym zgromadzeniu towarzystwa, związanych z tym udziałem uprawnień, sposobu i źródeł finansowania nabycia albo objęcia akcji lub praw z akcji, zawartych w związku z tymi działaniami umów oraz działania w porozumieniu z innymi podmiotami;
 - **9)** zamiarów podmiotu składającego zawiadomienie w odniesieniu do przyszłej działalności towarzystwa, w szczególności w zakresie planów marketingowych, operacyjnych, finansowych oraz dotyczących organizacji i zarządzania, z uwzględnieniem zobowiązań, o których mowa w art. 54h ust. 3.
 
@@ -1853,7 +2026,7 @@ Art. 300–319. (pominięte)
 5. Komisja może, przed upływem 50. dnia roboczego terminu na doręczenie decyzji w przedmiocie sprzeciwu, pisemnie wezwać podmiot składający zawiadomienie do przekazania dodatkowych niezbędnych informacji lub dokumentów w terminie 20 dni roboczych od dnia otrzymania wezwania, a w przypadku gdy:
 
 - **1)** miejsce zamieszkania lub siedziba podmiotu składającego zawiadomienie znajduje się w państwie niebędącym państwem członkowskim lub nadzór nad nim sprawują władze nadzorcze państwa niebędącego państwem członkowskim lub
-- **2)** podmiot składający zawiadomienie nie jest podmiotem podlegającym nadzorowi ubezpieczeniowemu, nadzorowi nad rynkiem kapitałowym lub nadzorowi bankowemu sprawowanemu przez władze nadzorcze państwa członkowskiego – w wyznaczonym terminie, nie krótszym niż 20 i nie dłuższym niż 30 dni roboczych od dnia otrzymania wezwania, wskazując zakres żądanych informacji lub dokumentów.
+- **2)** podmiot składający zawiadomienie nie jest podmiotem podlegającym nadzorowi ubezpieczeniowemu, nadzorowi nad rynkiem kapitałowym lub nadzorowi bankowemu sprawowanemu przez władze nadzorcze państwa członkowskiego w wyznaczonym terminie, nie krótszym niż 20 i nie dłuższym niż 30 dni roboczych od dnia otrzymania wezwania, wskazując zakres żądanych informacji lub dokumentów.
 
 6. W przypadku wezwania, o którym mowa w ust. 5, następuje zawieszenie biegu terminu na doręczenie decyzji w przedmiocie sprzeciwu, od dnia wysłania wezwania do dnia otrzymania informacji lub dokumentów, nie dłużej jednak niż do upływu terminu na przekazanie informacji lub dokumentów.
 
@@ -1887,11 +2060,11 @@ Art. 300–319. (pominięte)
 
 **Art. 54i.**
 
-1. Komisja doręcza decyzję w przedmiocie sprzeciwu, o którym mowa w art. 54h ust. 1, w terminie 60 dni roboczych od dnia otrzymania zawiadomienia i wszystkich wymaganych informacji i dokumentów, nie później niż w terminie 2 dni roboczych od dnia jej wydania.
+1. Komisja doręcza decyzję w przedmiocie sprzeciwu, o którym mowa w art. 54h ust. 1, w terminie dni roboczych od dnia otrzymania zawiadomienia i wszystkich wymaganych informacji i dokumentów, nie później niż w terminie 2 dni roboczych od dnia jej wydania.
 
-2. Terminy przewidziane dla doręczenia decyzji kończącej postępowanie w przedmiocie zawiadomienia uważa się za zachowane, jeżeli przed ich upływem decyzja została nadana w placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456) albo placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej albo wysłana na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841).
+2. Terminy przewidziane dla doręczenia decyzji kończącej postępowanie w przedmiocie zawiadomienia uważa się za zachowane, jeżeli przed ich upływem decyzja została nadana w placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456) albo placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej albo wysłana na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841).
 
-**Art. 54j.** Podmiot składający zawiadomienie, o którym mowa w art. 54 ust. 1, może zrealizować zamiar objęty zawiadomieniem, jeżeli Komisja nie doręczy decyzji w przedmiocie sprzeciwu w terminie 60 dni roboczych, o którym mowa w art. 54i ust. 1, albo jeżeli przed upływem tego terminu Komisja wyda decyzję o stwierdzeniu braku podstaw do zgłoszenia sprzeciwu.
+**Art. 54j.** Podmiot składający zawiadomienie, o którym mowa w art. 54 ust. 1, może zrealizować zamiar objęty zawiadomieniem, jeżeli Komisja nie doręczy decyzji w przedmiocie sprzeciwu w terminie dni roboczych, o którym mowa w art. 54i ust. 1, albo jeżeli przed upływem tego terminu Komisja wyda decyzję o stwierdzeniu braku podstaw do zgłoszenia sprzeciwu.
 
 **Art. 54k.** W przypadku uchylenia przez sąd administracyjny decyzji w przedmiocie sprzeciwu termin, o którym mowa w art. 54i ust. 1, biegnie od dnia, w którym Komisji doręczono prawomocny wyrok sądu administracyjnego.
 
@@ -1902,14 +2075,14 @@ Art. 300–319. (pominięte)
 - **1)** z naruszeniem przepisu art. 54 ust. 1 albo
 - **2)** pomimo zgłoszenia przez Komisję sprzeciwu, o którym mowa w art. 54h ust. 1, albo
 - **3)** przed upływem terminu uprawniającego Komisję do zgłoszenia sprzeciwu, o którym mowa w art. 54h ust. 1, albo
-- **4)** po wyznaczonym przez Komisję terminie na nabycie albo objęcie akcji lub praw z akcji, o którym mowa w art. 54h ust. 5 – z akcji tych nie może być wykonywane prawo głosu, z zastrzeżeniem art. 54m.
+- **4)** po wyznaczonym przez Komisję terminie na nabycie albo objęcie akcji lub praw z akcji, o którym mowa w art. 54h ust. 5 z akcji tych nie może być wykonywane prawo głosu, z zastrzeżeniem art. 54m.
 
 2. W przypadku wykonywania uprawnień podmiotu dominującego towarzystwa:
 
 - **1)** z naruszeniem przepisu art. 54 ust. 1 albo
 - **2)** w przypadku zgłoszenia przez Komisję sprzeciwu, o którym mowa w art. 54h ust. 1, albo
 - **3)** przed upływem terminu uprawniającego Komisję do zgłoszenia sprzeciwu, o którym mowa w art. 54h ust. 1, albo
-- **4)** uzyskanych po upływie terminu, o którym mowa w art. 54h ust. 5 – członkowie zarządu towarzystwa powołani przez podmiot dominujący lub będący członkami zarządu, prokurentami lub osobami pełniącymi kierownicze funkcje w podmiocie dominującym nie mogą uczestniczyć w czynnościach z zakresu reprezentacji towarzystwa; w przypadku gdy nie można ustalić, którzy członkowie zarządu zostali powołani przez podmiot dominujący, powołanie zarządu jest bezskuteczne od dnia uzyskania przez ten podmiot uprawnień podmiotu dominującego towarzystwa, z zastrzeżeniem art. 54m.
+- **4)** uzyskanych po upływie terminu, o którym mowa w art. 54h ust. 5 członkowie zarządu towarzystwa powołani przez podmiot dominujący lub będący członkami zarządu, prokurentami lub osobami pełniącymi kierownicze funkcje w podmiocie dominującym nie mogą uczestniczyć w czynnościach z zakresu reprezentacji towarzystwa; w przypadku gdy nie można ustalić, którzy członkowie zarządu zostali powołani przez podmiot dominujący, powołanie zarządu jest bezskuteczne od dnia uzyskania przez ten podmiot uprawnień podmiotu dominującego towarzystwa, z zastrzeżeniem art. 54m.
 
 3. Uchwały walnego zgromadzenia towarzystwa podjęte z naruszeniem przepisu ust. 1 są nieważne, chyba że spełniają wymogi kworum oraz większości głosów bez uwzględnienia głosów nieważnych. W przypadkach, o których mowa w ust. 1, prawo wytoczenia powództwa o stwierdzenie nieważności uchwały walnego zgromadzenia przysługuje również Komisji. Przepis art. 425 Kodeksu spółek handlowych stosuje się odpowiednio.
 
@@ -1928,7 +2101,7 @@ Art. 300–319. (pominięte)
 10. Jeżeli podmiot, o którym mowa w art. 54 ust. 1, wypełni zobowiązanie, o którym mowa w art. 54h ust. 3, przed upływem terminu wskazanego w decyzji, o której mowa w ust. 7, Komisja wydaje decyzję o umorzeniu kary pieniężnej, o której mowa w ust. 7:
 
 - **1)** w całości albo
-- **2)** w części odpowiadającej niezapłaconym przyszłym ratom – w przypadku określonym w ust. 9.
+- **2)** w części odpowiadającej niezapłaconym przyszłym ratom w przypadku określonym w ust. 9.
 
 **Art. 54m.** W przypadku gdy wymagają tego interesy uczestników funduszy inwestycyjnych, zbiorczego portfela papierów wartościowych lub klientów, dla których towarzystwo wykonuje usługi doradztwa inwestycyjnego lub zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, a wnioskodawca wykaże, że nie zachodzi przesłanka, o której mowa w art. 54h ust. 1 pkt 3, Komisja może, w szczególnie uzasadnionych przypadkach, w drodze decyzji wydanej na wniosek akcjonariusza lub podmiotu dominującego towarzystwa, uchylić zakazy, o których mowa w art. 54l ust. 1 lub 2. Do wniosku wnioskodawca dołącza informacje, o których mowa w art. 54b ust. 1.
 
@@ -1988,9 +2161,9 @@ Art. 300–319. (pominięte)
 - **6)** (uchylony)
 - **7)** dane osobowe doradców inwestycyjnych, którzy zostaną zatrudnieni przez towarzystwo, wraz z opisem ich kwalifikacji i doświadczeń zawodowych oraz informacjami z Krajowego Rejestru Karnego, a także oświadczenia tych osób o wyrażeniu zgody na zatrudnienie;
 - **8)** ostatnie sprawozdanie finansowe wraz ze sprawozdaniem z badania w przypadku, gdy wnioskodawca wykonywał działalność w innej dziedzinie przed złożeniem wniosku;
-- **9)** w przypadku akcjonariuszy będących osobami fizycznymi, posiadających co najmniej 10 % ogólnej liczby głosów na walnym zgromadzeniu akcjonariuszy lub co najmniej 10 % udziału w kapitale zakładowym wnioskodawcy – dane osobowe tych osób, informacje o dotychczasowym przebiegu pracy zawodowej lub wykonywanej działalności gospodarczej;
-- **10)** w przypadku akcjonariuszy będących osobami prawnymi, posiadających co najmniej 10 % ogólnej liczby głosów na walnym zgromadzeniu akcjonariuszy lub co najmniej 10 % udziału w kapitale zakładowym wnioskodawcy – informację na temat wykonywanej działalności gospodarczej, aktualny odpis z właściwego rejestru oraz ostatnie sprawozdanie finansowe wraz ze sprawozdaniem z badania, jeżeli badanie jest wymagane przepisami prawa, a w przypadku braku takiego sprawozdania – inne dokumenty i informacje przedstawiające rzetelnie ich aktualną sytuację finansową;
-- **10a)** w przypadku akcjonariuszy będących jednostkami organizacyjnymi nieposiadającymi osobowości prawnej, posiadających co najmniej 10 % ogólnej liczby głosów na walnym zgromadzeniu akcjonariuszy lub co najmniej 10 % udziału w kapitale zakładowym wnioskodawcy – informację na temat wykonywanej działalności gospodarczej, aktualny odpis z właściwego rejestru oraz ostatnie sprawozdanie finansowe wraz ze sprawozdaniem z badania, jeżeli badanie jest wymagane przepisami prawa, a w przypadku braku takiego sprawozdania – inne dokumenty i informacje przedstawiające rzetelnie ich aktualną sytuację finansową;
+- **9)** w przypadku akcjonariuszy będących osobami fizycznymi, posiadających co najmniej 10 % ogólnej liczby głosów na walnym zgromadzeniu akcjonariuszy lub co najmniej 10 % udziału w kapitale zakładowym wnioskodawcy dane osobowe tych osób, informacje o dotychczasowym przebiegu pracy zawodowej lub wykonywanej działalności gospodarczej;
+- **10)** w przypadku akcjonariuszy będących osobami prawnymi, posiadających co najmniej 10 % ogólnej liczby głosów na walnym zgromadzeniu akcjonariuszy lub co najmniej 10 % udziału w kapitale zakładowym wnioskodawcy informację na temat wykonywanej działalności gospodarczej, aktualny odpis z właściwego rejestru oraz ostatnie sprawozdanie finansowe wraz ze sprawozdaniem z badania, jeżeli badanie jest wymagane przepisami prawa, a w przypadku braku takiego sprawozdania inne dokumenty i informacje przedstawiające rzetelnie ich aktualną sytuację finansową;
+- **10a)** w przypadku akcjonariuszy będących jednostkami organizacyjnymi nieposiadającymi osobowości prawnej, posiadających co najmniej 10 % ogólnej liczby głosów na walnym zgromadzeniu akcjonariuszy lub co najmniej 10 % udziału w kapitale zakładowym wnioskodawcy informację na temat wykonywanej działalności gospodarczej, aktualny odpis z właściwego rejestru oraz ostatnie sprawozdanie finansowe wraz ze sprawozdaniem z badania, jeżeli badanie jest wymagane przepisami prawa, a w przypadku braku takiego sprawozdania inne dokumenty i informacje przedstawiające rzetelnie ich aktualną sytuację finansową;
 - **11)** informacje o podmiotach dominujących i zależnych wobec akcjonariuszy posiadających co najmniej 10 % ogólnej liczby głosów na walnym zgromadzeniu akcjonariuszy lub 10 % udziału w kapitale zakładowym wnioskodawcy, obejmujące wskazanie ich firmy (nazwy) lub imienia i nazwiska, siedziby i adresu lub miejsca zamieszkania oraz opisu wykonywanej działalności gospodarczej;
 - **12)** odpisy z właściwych rejestrów podmiotów, którym towarzystwo zamierza powierzyć wykonywanie czynności na podstawie umowy, o której mowa w art. 45a ust. 1;
 - **12a)** oświadczenie biegłego rewidenta w przedmiocie, czy system zarządzania ryzykiem w towarzystwie będzie adekwatny do rozmiaru i charakteru prowadzonej działalności, zgodny z przepisami prawa, czy obejmuje cały zakres działalności towarzystwa oraz czy przyjęte metody pomiaru i monitorowania ryzyka, wyznaczania całkowitej ekspozycji albo ekspozycji AFI oraz system limitów wewnętrznych przyjęte dla każdego funduszu inwestycyjnego będą prawidłowe oraz zgodne z profilem ryzyka inwestycyjnego i polityką inwestycyjną danego funduszu;
@@ -2001,7 +2174,7 @@ Art. 300–319. (pominięte)
 - **17)** (uchylony)
 - **18)** (uchylony)
 - **19)** (uchylony)
-- **20)** oświadczenie o niewystępowaniu powiązań, o których mowa w art. 61 ust. 2, a w przypadku występowania takich powiązań – informację o powiązaniach obejmującą:
+- **20)** oświadczenie o niewystępowaniu powiązań, o których mowa w art. 61 ust. 2, a w przypadku występowania takich powiązań informację o powiązaniach obejmującą:
     - **a)** firmy (nazwy), siedziby i adresy spółek zarządzających, zagranicznych firm inwestycyjnych, instytucji kredytowych, podmiotów prowadzących działalność ubezpieczeniową na podstawie zezwolenia w państwie członkowskim oraz podmiotów prowadzących działalność reasekuracyjną na podstawie zezwolenia w państwie członkowskim, z którymi spółka jest powiązana,
     - **b)** określenie rodzaju powiązań,
     - **c)** wskazanie organów państw członkowskich, które udzieliły zezwolenia podmiotom, o których mowa w lit. a, oraz organów państw członkowskich, które nadzorują ich działalność.
@@ -2021,11 +2194,11 @@ Art. 300–319. (pominięte)
 
 - **2)** informacje o funduszach, jakimi spółka zamierza zarządzać, obejmujące:
     - **a)** strategie inwestycyjne funduszu,
-    - **b)** wskazanie funduszy bazowych – w przypadku zamiaru zarządzania funduszem, który jest funduszem funduszy,
+    - **b)** wskazanie funduszy bazowych w przypadku zamiaru zarządzania funduszem, który jest funduszem funduszy,
     - **c)** opis polityki towarzystwa w zakresie korzystania przez fundusz z dźwigni finansowej AFI,
     - **d)** profil ryzyka funduszu,
-    - **e)** wskazanie funduszu podstawowego oraz jego siedziby – w przypadku zamiaru zarządzania funduszem, który jest funduszem powiązanym,
-    - **f)** wskazanie państwa macierzystego – w przypadku zamiaru zarządzania unijnym AFI lub alternatywnym funduszem inwestycyjnym z siedzibą w państwie należącym do EEA;
+    - **e)** wskazanie funduszu podstawowego oraz jego siedziby w przypadku zamiaru zarządzania funduszem, który jest funduszem powiązanym,
+    - **f)** wskazanie państwa macierzystego w przypadku zamiaru zarządzania unijnym AFI lub alternatywnym funduszem inwestycyjnym z siedzibą w państwie należącym do EEA;
 
 - **3)** informacje o związanych z zarządzaniem funduszami czynnościach, których wykonywanie jest lub zostanie powierzone przedsiębiorcom lub przedsiębiorcom zagranicznym, obejmujące:
     - **a)** opis powierzanych czynności,
@@ -2043,22 +2216,22 @@ Art. 300–319. (pominięte)
     - **c)** informację dla klienta alternatywnego funduszu inwestycyjnego dotyczącą unijnego AFI lub funduszu, przy czym przepisy art. 222a ust. 5 i 6 stosuje się odpowiednio,
     - **d)** dane osobowe osób zatrudnionych w towarzystwie lub podmiotach, o których mowa w art. 46 ust. 1–3a oraz w art. 46b, które mają istotny wpływ na działalność unijnego AFI lub funduszu, w tym w szczególności na decyzje inwestycyjne unijnego AFI lub funduszu, wraz z opisem ich kwalifikacji i doświadczeń zawodowych oraz informacjami z Krajowego Rejestru Karnego;
 
-- **2)** w przypadku gdy spółka zamierza utworzyć fundusz inwestycyjny, o którym mowa w art. 15 ust. 1a – statut funduszu i warunki emisji oraz dane osobowe osób zatrudnionych w towarzystwie lub podmiotach, o których mowa w art. 46 ust. 1–3a oraz w art. 46b, które mają istotny wpływ na działalność funduszu, w tym w szczególności na decyzje inwestycyjne funduszu, wraz z opisem ich kwalifikacji i doświadczeń zawodowych oraz informacjami z Krajowego Rejestru Karnego.
+- **2)** w przypadku gdy spółka zamierza utworzyć fundusz inwestycyjny, o którym mowa w art. 15 ust. 1a statut funduszu i warunki emisji oraz dane osobowe osób zatrudnionych w towarzystwie lub podmiotach, o których mowa w art. 46 ust. 1–3a oraz w art. 46b, które mają istotny wpływ na działalność funduszu, w tym w szczególności na decyzje inwestycyjne funduszu, wraz z opisem ich kwalifikacji i doświadczeń zawodowych oraz informacjami z Krajowego Rejestru Karnego.
 
 **Art. 58b.** Do wniosku spółki o uzyskanie zezwolenia na utworzenie funduszu inwestycyjnego składanego jednocześnie z wnioskiem o uzyskanie zezwolenia na wykonywanie działalności przez towarzystwo lub o uzyskanie zezwolenia na zarządzanie alternatywnymi funduszami inwestycyjnymi załącza się informacje i dokumenty wymienione w art. 22 ust. 1 pkt 1–12.
 
 **Art. 59.**
 
-1. Przepisy art. 15 ust. 1 pkt 1 i 2, art. 31, art. 41–49 [, art. 52 i art. 53] <i art. 52> stosuje się odpowiednio do spółki akcyjnej ubiegającej się o uzyskanie zezwolenia na wykonywanie działalności przez towarzystwo lub zezwolenia na zarządzanie alternatywnymi funduszami inwestycyjnymi, z zastrzeżeniem ust. 2.
+1. Przepisy art. 15 ust. 1 pkt 1 i 2, art. 31, art. 41–49, art. 52 i art. 53 stosuje się odpowiednio do spółki akcyjnej ubiegającej się o uzyskanie zezwolenia na wykonywanie działalności przez towarzystwo lub zezwolenia na zarządzanie alternatywnymi funduszami inwestycyjnymi, z zastrzeżeniem ust. 2.
 
-2. Przepisu art. 52 nie stosuje się do spółki ubiegającej się o uzyskanie zezwolenia na wykonywanie działalności przez towarzystwo, jeżeli przed dniem złożenia wn osku spółka ta wykonywała działalność w innej dziedzinie. W takim przypadku do wniosku należy załączyć zaświadczenia wydane zgodnie z przepisami ustawy, o której mowa w art. 32 ust. 4 pkt 14, o niezaleganiu w podatkach albo stwierdzające stan zaległości akcjonariuszy tej spółki.
+2. Przepisu art. 52 nie stosuje się do spółki ubiegającej się o uzyskanie zezwolenia na wykonywanie działalności przez towarzystwo, jeżeli przed dniem złożenia wniosku spółka ta wykonywała działalność w innej dziedzinie. W takim przypadku do wniosku należy załączyć zaświadczenia wydane zgodnie z przepisami ustawy, o której mowa w art. 32 ust. 4 pkt 14, o niezaleganiu w podatkach albo stwierdzające stan zaległości akcjonariuszy tej spółki.
 
 **Art. 59a.**
 
 1. Do wniosku towarzystwa o uzyskanie zezwolenia na zarządzanie alternatywnymi funduszami inwestycyjnymi towarzystwo załącza:
 
 - **1)** dokumenty określone w art. 58 ust. 1 pkt 1, 2 i 3a, uwzględniające wykonywanie wnioskowanej działalności albo oświadczenie towarzystwa, że uprzednio złożone Komisji dokumenty uwzględniają jej wykonywanie;
-- **2)** dokumenty określone w art. 58 ust. 1 pkt 12 – w zakresie wnioskowanej działalności;
+- **2)** dokumenty określone w art. 58 ust. 1 pkt 12 w zakresie wnioskowanej działalności;
 - **3)** informacje i dokumenty określone w art. 58 ust. 1 pkt 4, 7 i 9–11 albo oświadczenie towarzystwa, że uprzednio złożone Komisji informacje i dokumenty są aktualne;
 - **4)** oświadczenie albo informację, o których mowa w art. 58 ust. 1 pkt 20, odnoszące się do powiązań z zarządzającym z UE;
 - **5)** informacje i dokumenty określone w art. 58 ust. 1 pkt 12a i art. 58a ust. 1.
@@ -2071,6 +2244,11 @@ Art. 300–319. (pominięte)
 **Art. 59b.** Towarzystwo, które zamierza zarządzać unijnym AFI lub alternatywnym funduszem inwestycyjnym z siedzibą w państwie należącym do EEA, w odniesieniu do których nie przekazało informacji zgodnie z art. 58a ust. 3 lub art. 59a ust. 2 pkt 2 przy ubieganiu się o zezwolenie na zarządzanie alternatywnymi funduszami inwestycyjnymi, niezwłocznie przekazuje Komisji informacje i dokumenty, o których mowa w art. 58a ust. 3 pkt 1 lit. a–c.
 
 **Art. 60.** Do wniosku o udzielenie zezwolenia na zarządzanie portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, zezwolenia na doradztwo inwestycyjne lub zezwolenia na przyjmowanie i przekazywanie zleceń nabycia lub zbycia instrumentów finansowych odpowiednio towarzystwo albo spółka ubiegająca się o uzyskanie zezwolenia załącza:
+
+- **1)** regulamin wykonywania działalności;
+- **2)** schemat oraz regulamin, o których mowa w art. 58 ust. 1 pkt 2, uwzględniające wykonywanie wnioskowanej działalności;
+- **3)** informację o liczbie doradców zatrudnionych do wykonywania wnioskowanej działalności;
+- **4)** kopię umowy o uczestnictwo w systemie rekompensat zawartej pod warunkiem uzyskania zezwolenia na zarządzanie portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, zezwolenia na doradztwo inwestycyjne lub zezwolenia na przyjmowanie i przekazywanie zleceń nabycia lub zbycia instrumentów finansowych, z Krajowym Depozytem Papierów Wartościowych Spółką Akcyjną.
 
 **Art. 61.**
 
@@ -2138,7 +2316,7 @@ Art. 300–319. (pominięte)
 
 - **1)** osoby, o których mowa w art. 22 ust. 1 pkt 5–7, mogą wykonywać swoje obowiązki z naruszeniem zasad uczciwego obrotu lub w sposób nienależycie zabezpieczający interes uczestników funduszu;
 - **2)** statut funduszu inwestycyjnego lub umowa z depozytariuszem nie uwzględniają należycie interesu uczestników funduszu;
-- **3)** statut funduszu inwestycyjnego zawiera postanowienia uniemożliwiające zbywanie jednostek uczestnictwa na terytorium Rzeczypospolitej Polskiej – w przypadku funduszu inwestycyjnego otwartego;
+- **3)** statut funduszu inwestycyjnego zawiera postanowienia uniemożliwiające zbywanie jednostek uczestnictwa na terytorium Rzeczypospolitej Polskiej w przypadku funduszu inwestycyjnego otwartego;
 - **4)** wniosek lub załączone do niego dokumenty nie są zgodne pod względem treści z przepisami prawa lub ze stanem faktycznym.
 
 6a. W przypadku odmowy wydania zezwolenia na utworzenie funduszu inwestycyjnego Komisja może wydać zezwolenie na wykonywanie działalności przez towarzystwo lub zezwolenie na zarządzanie alternatywnymi funduszami inwestycyjnymi.
@@ -2241,10 +2419,10 @@ Art. 300–319. (pominięte)
 - **6)** udziałów lub akcji spółek:
     - **a)** prowadzących rejestr uczestników funduszu inwestycyjnego, zarządzanych przez dane towarzystwo,
     - **b)** rozliczających transakcje zawierane na rynku regulowanym, jeżeli na skutek nabycia towarzystwo nie stanie się podmiotem dominującym wobec tych spółek,
-    - **c)** będących podmiotami, o których mowa w art. 32 ust. 2 – do wartości nieprzekraczającej łącznie 10 % kapitałów własnych towarzystwa;
+    - **c)** będących podmiotami, o których mowa w art. 32 ust. 2 do wartości nieprzekraczającej łącznie 10 % kapitałów własnych towarzystwa;
 
 - **7)** akcji spółek prowadzących rynek regulowany w rozumieniu przepisów ustawy o obrocie instrumentami finansowymi;
-- **8)** papierów wartościowych, walut, instrumentów pochodnych, praw majątkowych, o których mowa w art. 145 ust. 1 pkt 6, instrumentów rynku pieniężnego, jednostek uczestnictwa emitowanych przez instytucje wspólnego inwestowania z siedzibą za granicą – nabywanych do zbiorczego portfela papierów wartościowych;
+- **8)** papierów wartościowych, walut, instrumentów pochodnych, praw majątkowych, o których mowa w art. 145 ust. 1 pkt 6, instrumentów rynku pieniężnego, jednostek uczestnictwa emitowanych przez instytucje wspólnego inwestowania z siedzibą za granicą nabywanych do zbiorczego portfela papierów wartościowych;
 - **9)** akcji własnych towarzystwa nabywanych w celu umorzenia lub nabywanych w drodze egzekucji celem zaspokojenia roszczeń spółki, których nie można zaspokoić w inny sposób z majątku akcjonariusza.
 
 2a. W przypadku papierów wartościowych, o których mowa w ust. 2 pkt 1a, zobowiązania emitenta papierów wartościowych gwarantowanych przez Skarb Państwa muszą być objęte gwarancją Skarbu Państwa do wysokości 100 % pozostających do wypłaty świadczeń pieniężnych wynikających z wyemitowanych papierów wartościowych objętych gwarancją wraz ze 100 % należnych odsetek od tej kwoty i innych kosztów bezpośrednio związanych z tymi papierami wartościowymi.
@@ -2314,7 +2492,7 @@ Art. 300–319. (pominięte)
 
 4. Zmiany statutu, o których mowa w ust. 3, wchodzą w życie z dniem ogłoszenia.
 
-5. W przypadku, o którym mowa w ust. 1 lub 1c, towarzystwo, podmioty, o których mowa w art. 46 ust. 1–3a oraz w art. 46b, lub podmiot, któremu zlecono prowadzenie ksiąg rachunkowych funduszu lub dokonywanie wyceny aktywów funduszu, a w przypadku gdy na podstawie umowy, o której mowa w art. 4 ust. 1a albo 1b, funduszem inwestycyjnym zarządza i prowadzi jego sprawy spółka zarządzająca albo zarządzający z UE – także spółka zarządzająca albo zarządzający z UE, są obowiązane niezwłocznie wydać depozytariuszowi reprezentującemu fundusz dokumenty oraz inne nośniki informacji zawierające informacje dotyczące funduszu inwestycyjnego.
+5. W przypadku, o którym mowa w ust. 1 lub 1c, towarzystwo, podmioty, o których mowa w art. 46 ust. 1–3a oraz w art. 46b, lub podmiot, któremu zlecono prowadzenie ksiąg rachunkowych funduszu lub dokonywanie wyceny aktywów funduszu, a w przypadku gdy na podstawie umowy, o której mowa w art. 4 ust. 1a albo 1b, funduszem inwestycyjnym zarządza i prowadzi jego sprawy spółka zarządzająca albo zarządzający z UE także spółka zarządzająca albo zarządzający z UE, są obowiązane niezwłocznie wydać depozytariuszowi reprezentującemu fundusz dokumenty oraz inne nośniki informacji zawierające informacje dotyczące funduszu inwestycyjnego.
 
 6. Depozytariusz, reprezentując fundusz inwestycyjny w przypadku, o którym mowa w ust. 1 lub 1c, jest obowiązany do wykonywania czynności związanych z reprezentacją funduszu inwestycyjnego z zachowaniem należytej staranności oraz z uwzględnieniem interesu uczestników funduszu, w tym do niezwłocznego przejęcia dokumentów oraz innych nośników informacji dotyczących funduszu inwestycyjnego od towarzystwa lub innych podmiotów, w których posiadaniu takie dokumenty lub nośniki informacji się znajdują, do podejmowania niezwłocznie wszystkich niezbędnych czynności mających na celu ściągnięcie należności funduszu inwestycyjnego i zaspokojenie zobowiązań funduszu inwestycyjnego względem uczestników funduszu lub innego funduszu inwestycyjnego oraz do zapewnienia, aby fundusz inwestycyjny realizował w terminie zlecenia odkupienia jednostek uczestnictwa albo wykupu certyfikatów inwestycyjnych, o ile nastąpiło wznowienie odkupywania jednostek uczestnictwa funduszu lub została podjęta decyzja o wykupie certyfikatów inwestycyjnych.
 
@@ -2324,7 +2502,7 @@ Art. 300–319. (pominięte)
 
 1. Od dnia wydania decyzji o cofnięciu zezwolenia na wykonywanie działalności przez towarzystwo lub od dnia wygaśnięcia takiego zezwolenia, od dnia cofnięcia zezwolenia na zarządzanie alternatywnymi funduszami inwestycyjnymi lub od dnia wydania decyzji o usunięciu towarzystwa funduszy inwestycyjnych z ewidencji PPK, o której mowa w art. 63 ust. 4, 5 lub 7 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, zarządzanie specjalistycznym funduszem inwestycyjnym otwartym, będącym funduszem zdefiniowanej daty, o którym mowa w art. 38 tej ustawy, lub funduszem, o którym mowa w art. 39 tej ustawy, przejmuje wyznaczona instytucja finansowa, o której mowa w rozdziale 9 tej ustawy. Przepisów art. 238a ust. 1, ust. 2 pkt 1 i 2 oraz ust. 3, 4, 6 i 7 nie stosuje się.
 
-2. W przypadku, o którym mowa w ust. 1, towarzystwo, podmiot, o którym mowa w art. 46 ust. 1 oraz w art. 46b, lub podmiot, któremu zlecono prowadzenie ksiąg rachunkowych funduszu lub dokonywanie wyceny aktywów funduszu, a w przypadku gdy na podstawie umowy, o której mowa w art. 4 ust. 1b, tym funduszem zarządza i prowadzi jego sprawy zarządzający z UE – także zarządzający z UE, są obowiązane niezwłocznie wydać wyznaczonej instytucji finansowej dokumenty oraz inne nośniki informacji zawierające informacje dotyczące funduszu inwestycyjnego, o którym mowa w ust. 1.
+2. W przypadku, o którym mowa w ust. 1, towarzystwo, podmiot, o którym mowa w art. 46 ust. 1 oraz w art. 46b, lub podmiot, któremu zlecono prowadzenie ksiąg rachunkowych funduszu lub dokonywanie wyceny aktywów funduszu, a w przypadku gdy na podstawie umowy, o której mowa w art. 4 ust. 1b, tym funduszem zarządza i prowadzi jego sprawy zarządzający z UE także zarządzający z UE, są obowiązane niezwłocznie wydać wyznaczonej instytucji finansowej dokumenty oraz inne nośniki informacji zawierające informacje dotyczące funduszu inwestycyjnego, o którym mowa w ust. 1.
 
 3. Jeżeli w dniu wydania decyzji o cofnięciu zezwolenia na wykonywanie działalności przez towarzystwo lub w dniu wygaśnięcia takiego zezwolenia, w dniu cofnięcia zezwolenia na zarządzanie alternatywnymi funduszami inwestycyjnymi lub w dniu wydania decyzji o usunięciu towarzystwa funduszy inwestycyjnych z ewidencji PPK nie została wyznaczona, zgodnie z przepisami ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, wyznaczona instytucja finansowa, fundusz inwestycyjny, o którym mowa w ust. 1, jest reprezentowany i zarządzany przez depozytariusza funduszu.
 
@@ -2351,7 +2529,7 @@ Art. 300–319. (pominięte)
 - **3)** zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych,
 - **4)** doradztwa inwestycyjnego, 4a) przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych,
 - **5)** pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo, 5a) przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych, których przedmiotem są jednostki uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez inne towarzystwa, tytuły uczestnictwa funduszy zagranicznych oraz funduszy inwestycyjnych otwartych z siedzibą w państwach należących do EEA,
-- **6)** pełnienia funkcji przedstawiciela funduszy zagranicznych, o którym mowa w art. 253 ust. 3 pkt 2 – przez pięć lat od zakończenia roku, w którym sporządzono dany dokument lub inny nośnik informacji, chyba że odrębne przepisy wymagają ich dłuższego przechowywania.
+- **6)** pełnienia funkcji przedstawiciela funduszy zagranicznych, o którym mowa w art. 253 ust. 3 pkt 2 przez pięć lat od zakończenia roku, w którym sporządzono dany dokument lub inny nośnik informacji, chyba że odrębne przepisy wymagają ich dłuższego przechowywania.
 
 2. W przypadku likwidacji funduszu inwestycyjnego towarzystwo ma obowiązek przechowywać dokumenty i inne nośniki informacji, o których mowa w ust. 1, przez pięć lat od dnia rozwiązania funduszu.
 
@@ -2423,7 +2601,7 @@ Art. 300–319. (pominięte)
 5. Sprawozdanie, o którym mowa w ust. 3, może nie obejmować głosowań, które są mało istotne ze względu na ich przedmiot lub wielkość udziału alternatywnej spółki inwestycyjnej w spółce, o której mowa w ust. 1. Art. 70bb. Polityka, sprawozdanie oraz wyjaśnienia, o których mowa w art. 70ba ust. 1, 3 i 4, są publikowane na stronie internetowej zarządzającego ASI. Art. 70bc. 1. W przypadku gdy zarządzający ASI zarządza alternatywną spółką inwestycyjną, która:
 
 - **1)** na podstawie ustaleń z pracowniczym funduszem emerytalnym lokuje swoje aktywa w dopuszczone do obrotu na rynku regulowanym akcje spółek, i której prawa uczestnictwa posiada pracowniczy fundusz emerytalny,
-- **2)** na podstawie ustaleń z zakładem ubezpieczeń wykonującym działalność w zakresie ubezpieczeń, o których mowa w dziale I załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, lub z zakładem reasekuracji wykonującym działalność w zakresie reasekuracji ubezpieczeń, o których mowa w dziale I załącznika do tej ustawy, lokuje swoje aktywa w dopuszczone do obrotu na rynku regulowanym akcje spółek, i której prawa uczestnictwa posiada taki zakład ubezpieczeń lub taki zakład reasekuracji – zarządzający ASI przekazuje corocznie, odpowiednio temu pracowniczemu funduszowi emerytalnemu, zakładowi ubezpieczeń lub zakładowi reasekuracji, informację dotyczącą zgodności przyjętej strategii inwestycyjnej i jej realizacji z ustaleniami, o których mowa w pkt 1 i 2, oraz sposobu, w jaki strategia ta i jej realizacja przyczyniają się do średnio- i długoterminowych wyników uzyskiwanych odpowiednio z aktywów pracowniczego funduszu emerytalnego, zakładu ubezpieczeń lub zakładu reasekuracji lub z aktywów alternatywnej spółki inwestycyjnej.
+- **2)** na podstawie ustaleń z zakładem ubezpieczeń wykonującym działalność w zakresie ubezpieczeń, o których mowa w dziale I załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, lub z zakładem reasekuracji wykonującym działalność w zakresie reasekuracji ubezpieczeń, o których mowa w dziale I załącznika do tej ustawy, lokuje swoje aktywa w dopuszczone do obrotu na rynku regulowanym akcje spółek, i której prawa uczestnictwa posiada taki zakład ubezpieczeń lub taki zakład reasekuracji zarządzający ASI przekazuje corocznie, odpowiednio temu pracowniczemu funduszowi emerytalnemu, zakładowi ubezpieczeń lub zakładowi reasekuracji, informację dotyczącą zgodności przyjętej strategii inwestycyjnej i jej realizacji z ustaleniami, o których mowa w pkt 1 i 2, oraz sposobu, w jaki strategia ta i jej realizacja przyczyniają się do średnio- i długoterminowych wyników uzyskiwanych odpowiednio z aktywów pracowniczego funduszu emerytalnego, zakładu ubezpieczeń lub zakładu reasekuracji lub z aktywów alternatywnej spółki inwestycyjnej.
 
 2. Informacja, o której mowa w ust. 1, zawiera w szczególności opis:
 
@@ -2443,7 +2621,7 @@ Art. 300–319. (pominięte)
 
 - **1)** prawa uczestnictwa innej alternatywnej spółki inwestycyjnej lub innego unijnego AFI lub
 - **2)** prawa uczestnictwa więcej niż jednej innej alternatywnej spółki inwestycyjnej lub więcej niż jednego innego unijnego AFI, o ile stosują one identyczne strategie inwestycyjne, lub
-- **3)** inne niż określone w pkt 1 i 2 aktywa, których wartość odzwierciedla wartość praw uczestnictwa innej alternatywnej spółki inwestycyjnej lub innego unijnego AFI – uznaje się za alternatywną spółkę inwestycyjną lub unijny AFI działające jako AFI powiązany.
+- **3)** inne niż określone w pkt 1 i 2 aktywa, których wartość odzwierciedla wartość praw uczestnictwa innej alternatywnej spółki inwestycyjnej lub innego unijnego AFI uznaje się za alternatywną spółkę inwestycyjną lub unijny AFI działające jako AFI powiązany.
 
 2. Alternatywną spółkę inwestycyjną lub unijny AFI, o których mowa w ust. 1 pkt 1–3, uznaje się za AFI podstawowe.
 
@@ -2483,7 +2661,7 @@ Art. 300–319. (pominięte)
 1. Alternatywna spółka inwestycyjna może być wprowadzana do obrotu wśród:
 
 - **1)** klientów profesjonalnych;
-- **2)** klientów detalicznych – w przypadku gdy uzyskała zezwolenie, o którym mowa w art. 5 ust. 1 rozporządzenia 2015/760.
+- **2)** klientów detalicznych w przypadku gdy uzyskała zezwolenie, o którym mowa w art. 5 ust. 1 rozporządzenia 2015/760.
 
 2. (uchylony)
 
@@ -2497,7 +2675,7 @@ Art. 300–319. (pominięte)
 - **2)** firmę, siedzibę oraz adres depozytariusza alternatywnej spółki inwestycyjnej;
 - **3)** opis alternatywnej spółki inwestycyjnej lub informacje na jej temat, które zostały udostępnione jej inwestorom;
 - **4)** wskazanie siedziby AFI podstawowego, jeżeli alternatywna spółka inwestycyjna działa jako AFI powiązany;
-- **5)** informacje o procedurach ustanowionych w celu zapobiegania wprowadzaniu do obrotu alternatywnej spółki inwestycyjnej przez zarządzającego ASI lub podmioty działające na jego zlecenie wśród klientów detalicznych – w przypadku alternatywnej spółki inwestycyjnej, która nie uzyskała zezwolenia, o którym mowa w art. 5 ust. 1 rozporządzenia 2015/760;
+- **5)** informacje o procedurach ustanowionych w celu zapobiegania wprowadzaniu do obrotu alternatywnej spółki inwestycyjnej przez zarządzającego ASI lub podmioty działające na jego zlecenie wśród klientów detalicznych w przypadku alternatywnej spółki inwestycyjnej, która nie uzyskała zezwolenia, o którym mowa w art. 5 ust. 1 rozporządzenia 2015/760;
 - **6)** informacje, o których mowa w art. 222a ust. 2, w zakresie, w jakim nie są objęte informacjami, o których mowa w pkt 1–5 i w ust. 6.
 
 6. Do zawiadomienia, o którym mowa w ust. 4, załącza się regulacje wewnętrzne ASI.
@@ -2513,8 +2691,8 @@ Art. 300–319. (pominięte)
 
 10. Zarządzający ASI jest obowiązany informować Komisję o istotnych zmianach danych zawartych w zawiadomieniu, o którym mowa w ust. 4, i dołączonych do niego dokumentach:
 
-- **1)** w przypadku zmian planowanych – co najmniej na miesiąc przed dokonaniem zmian;
-- **2)** w przypadku zmian nieplanowanych – niezwłocznie, nie później jednak niż w terminie 2 dni roboczych, po powzięciu wiadomości o ich wystąpieniu.
+- **1)** w przypadku zmian planowanych co najmniej na miesiąc przed dokonaniem zmian;
+- **2)** w przypadku zmian nieplanowanych niezwłocznie, nie później jednak niż w terminie 2 dni roboczych, po powzięciu wiadomości o ich wystąpieniu.
 
 11. Komisja bez zbędnej zwłoki informuje zarządzającego ASI, jeżeli wskutek wprowadzenia planowanej zmiany zarządzanie alternatywną spółką inwestycyjną nie będzie zgodne z przepisami prawa.
 
@@ -2540,7 +2718,7 @@ Art. 300–319. (pominięte)
 
 - **1)** statut lub umowę spółki albo inny dokument określający formę prawną podmiotu, o którym mowa w ust. 6, wraz z odpisem z właściwego rejestru;
 - **2)** projekt umowy, o której mowa w ust. 6;
-- **3)** opis prowadzonej działalności oraz ostatnie sprawozdanie finansowe podmiotu, o którym mowa w ust. 6, wraz ze sprawozdaniem z badania, a w przypadku braku sprawozdania finansowego – inne dokumenty i informacje przedstawiające rzetelnie aktualną sytuację finansową podmiotu, o którym mowa w ust. 6;
+- **3)** opis prowadzonej działalności oraz ostatnie sprawozdanie finansowe podmiotu, o którym mowa w ust. 6, wraz ze sprawozdaniem z badania, a w przypadku braku sprawozdania finansowego inne dokumenty i informacje przedstawiające rzetelnie aktualną sytuację finansową podmiotu, o którym mowa w ust. 6;
 - **4)** schemat i opis powiązań kapitałowych podmiotu, o którym mowa w ust. 6;
 - **5)** opis posiadanych przez podmiot, o którym mowa w ust. 6, warunków technicznych i organizacyjnych do wykonywania umowy;
 - **6)** procedury zapobiegające ujawnieniu lub wykorzystaniu informacji stanowiących tajemnicę zawodową obowiązujące w podmiocie, o którym mowa w ust. 6;
@@ -2565,7 +2743,7 @@ Art. 300–319. (pominięte)
 
 - **1)** statut lub umowę spółki albo inny dokument określający formę prawną podmiotu, o którym mowa w ust. 6, wraz z odpisem z właściwego rejestru;
 - **2)** projekt umowy, o której mowa w ust. 6;
-- **3)** opis prowadzonej działalności oraz ostatnie sprawozdanie finansowe podmiotu, o którym mowa w ust. 6, wraz ze sprawozdaniem z badania, a w przypadku braku sprawozdania finansowego – inne dokumenty i informacje przedstawiające rzetelnie aktualną sytuację finansową podmiotu, o którym mowa w ust. 6;
+- **3)** opis prowadzonej działalności oraz ostatnie sprawozdanie finansowe podmiotu, o którym mowa w ust. 6, wraz ze sprawozdaniem z badania, a w przypadku braku sprawozdania finansowego inne dokumenty i informacje przedstawiające rzetelnie aktualną sytuację finansową podmiotu, o którym mowa w ust. 6;
 - **4)** schemat i opis powiązań kapitałowych podmiotu, o którym mowa w ust. 6;
 - **5)** opis posiadanych przez podmiot, o którym mowa w ust. 6, warunków technicznych i organizacyjnych do wykonywania umowy;
 - **6)** procedury zapobiegające ujawnieniu lub wykorzystaniu informacji stanowiących tajemnicę zawodową obowiązujące w podmiocie, o którym mowa w ust. 6;
@@ -2596,7 +2774,7 @@ Art. 300–319. (pominięte)
 
 15. Zawarcie umowy, o której mowa w ust. 1, lub umowy, o której mowa w ust. 5 i 6, nie zwalnia zarządzającego ASI z odpowiedzialności wobec alternatywnej spółki inwestycyjnej i jej inwestorów.
 
-16. Za szkody spowodowane niewykonaniem lub nienależytym wykonaniem umowy, o której mowa w ust. 1, zarządzający ASI odpowiada wobec inwestorów alternatywnej spółki inwestycyjnej solidarnie z podmiotem, z którym zawarł umowę, a w przypadku przekazania lub dalszego przekazania wykonywania czynności związanych z działalnością prowadzoną przez zarządzającego ASI innemu podmiotowi – również z tym podmiotem, chyba że szkoda jest wynikiem okoliczności, za które podmioty te nie ponoszą odpowiedzialności.
+16. Za szkody spowodowane niewykonaniem lub nienależytym wykonaniem umowy, o której mowa w ust. 1, zarządzający ASI odpowiada wobec inwestorów alternatywnej spółki inwestycyjnej solidarnie z podmiotem, z którym zawarł umowę, a w przypadku przekazania lub dalszego przekazania wykonywania czynności związanych z działalnością prowadzoną przez zarządzającego ASI innemu podmiotowi również z tym podmiotem, chyba że szkoda jest wynikiem okoliczności, za które podmioty te nie ponoszą odpowiedzialności.
 
 **Art. 70h.**
 
@@ -2651,7 +2829,7 @@ Art. 300–319. (pominięte)
 
 2. Zarządzający ASI, na wniosek klienta profesjonalnego oraz w zakresie określonym w takim wniosku, może traktować go jak klienta detalicznego. Zarządzający ASI może traktować klienta profesjonalnego jak klienta detalicznego również pomimo braku takiego wniosku w przypadku alternatywnej spółki inwestycyjnej, która uzyskała zezwolenie, o którym mowa w art. 5 ust. 1 rozporządzenia 2015/760.
 
-3. Osoba fizyczna może być uznana za klienta profesjonalnego, jeżeli wartość jej wkładu do alternatywnej spółki inwestycyjnej będzie nie mniejsza niż równowartość w złotych kwoty 60 000 euro.
+3. Osoba fizyczna może być uznana za klienta profesjonalnego, jeżeli wartość jej wkładu do alternatywnej spółki inwestycyjnej będzie nie mniejsza niż równowartość w złotych kwoty 000 euro.
 
 4. Środki na wniesienie przez osobę fizyczną wkładu lub udziału w przypadku, o którym mowa w ust. 3, nie mogą pochodzić z pożyczki, darowizny lub innej umowy o podobnym charakterze zawartej z alternatywną spółką inwestycyjną, zarządzającym ASI lub jednostką powiązaną z tymi podmiotami w rozumieniu przepisów ustawy o rachunkowości.
 
@@ -2671,11 +2849,11 @@ Art. 300–319. (pominięte)
 
 - **1)** zapewnić warunki techniczne i organizacyjne zapewniające bezpieczeństwo i ciągłość prowadzonej działalności oraz właściwe jej wykonywanie;
 - **1a)** stosować odpowiednie i współmierne rozwiązania techniczne i organizacyjne zapewniające bezpieczeństwo i kontrolę środowiska informatycznego i przetwarzania w nim danych, w tym w odniesieniu do sieci i systemów informatycznych ustanowionych i zarządzanych zgodnie z przepisami rozporządzenia 2022/2554;
-- **2)** zapobiegać powstawaniu konfliktów interesów, wykrywać takie konflikty, a w przypadku powstania takiego konfliktu – zapewnić ochronę interesu inwestorów alternatywnej spółki inwestycyjnej i unijnego AFI oraz ochronę informacji poufnych lub stanowiących tajemnicę zawodową;
+- **2)** zapobiegać powstawaniu konfliktów interesów, wykrywać takie konflikty, a w przypadku powstania takiego konfliktu zapewnić ochronę interesu inwestorów alternatywnej spółki inwestycyjnej i unijnego AFI oraz ochronę informacji poufnych lub stanowiących tajemnicę zawodową;
 - **3)** opracować i wdrożyć procedurę zapobiegającą ujawnieniu lub wykorzystaniu informacji poufnych lub stanowiących tajemnicę zawodową w celu zapobieżenia wykorzystywaniu lub ujawnianiu takich informacji przez osoby posiadające dostęp do tych informacji, w tym osoby kierujące działalnością zarządzającego ASI i uczestniczące w zarządzaniu portfelem inwestycyjnym alternatywnej spółki inwestycyjnej i unijnego AFI;
 - **4)** posiadać odpowiednią strukturę organizacyjną z wyraźnym podziałem funkcji, zadań i odpowiedzialności oraz obowiązków informacyjnych;
 - **5)** zatrudniać do wykonywania czynności z zakresu swojej działalności osoby posiadające niezbędną wiedzę i kwalifikacje;
-- **6)** opracować i wdrożyć procedury postępowania z reklamacjami inwestorów detalicznych alternatywnej spółki inwestycyjnej i unijnego AFI – w przypadku alternatywnej spółki inwestycyjnej, która uzyskała zezwolenie, o którym mowa w art. 5 ust. 1 rozporządzenia 2015/760;
+- **6)** opracować i wdrożyć procedury postępowania z reklamacjami inwestorów detalicznych alternatywnej spółki inwestycyjnej i unijnego AFI w przypadku alternatywnej spółki inwestycyjnej, która uzyskała zezwolenie, o którym mowa w art. 5 ust. 1 rozporządzenia 2015/760;
 - **7)** w odniesieniu do każdej alternatywnej spółki inwestycyjnej i unijnego AFI stosujących dźwignię finansową AFI stosować odpowiednie procedury zarządzania płynnością oraz opracować i wdrożyć procedury umożliwiające monitorowanie ryzyka utraty płynności, a także regularnie przeprowadzać testy warunków skrajnych obszaru płynności alternatywnej spółki inwestycyjnej i unijnego AFI w warunkach normalnej płynności oraz sytuacji nadzwyczajnych w zakresie płynności;
 - **8)** ewidencjonować transakcje zawierane w ramach zarządzania portfelem inwestycyjnym alternatywnej spółki inwestycyjnej i unijnego AFI, zlecenia nabycia lub odkupienia ich praw uczestnictwa, jak również ewidencjonować transakcje zawarte na rachunek własny;
 - **9)** przeprowadzać analizę przy doborze przedmiotu lokat alternatywnej spółki inwestycyjnej i unijnego AFI i zapewniać zgodność decyzji inwestycyjnych ze strategią inwestycyjną, celami i profilem ryzyka danej spółki lub unijnego AFI.
@@ -2706,13 +2884,13 @@ Art. 300–319. (pominięte)
 1. Kapitał początkowy na wykonywanie działalności:
 
 - **1)** zewnętrznie zarządzającego ASI wynosi co najmniej wyrażoną w złotych równowartość 125 000 euro,
-- **2)** wewnętrznie zarządzającego ASI wynosi co najmniej wyrażoną w złotych równowartość 300 000 euro – przy zastosowaniu średniego kursu ogłoszonego przez Narodowy Bank Polski na ostatni dzień roboczy poprzedzający dzień złożenia wniosku o uzyskanie zezwolenia na wykonywanie działalności przez zarządzającego ASI.
+- **2)** wewnętrznie zarządzającego ASI wynosi co najmniej wyrażoną w złotych równowartość 300 000 euro przy zastosowaniu średniego kursu ogłoszonego przez Narodowy Bank Polski na ostatni dzień roboczy poprzedzający dzień złożenia wniosku o uzyskanie zezwolenia na wykonywanie działalności przez zarządzającego ASI.
 
 2. Przez kapitał początkowy rozumie się sumę kapitału zakładowego w wielkości, w jakiej został wpłacony łącznie z premią emisyjną, niepodzielonego zysku z lat ubiegłych, a także zysku netto w trakcie zatwierdzania, o ile zysk ten wynika ze zbadanego przez biegłego rewidenta sprawozdania finansowego, oraz kapitału rezerwowego, pomniejszoną o niepokrytą stratę z lat ubiegłych.
 
 **Art. 70o.**
 
-1. Zarządzający ASI jest obowiązany do utrzymywania kapitału własnego na poziomie nie niższym niż 25 % różnicy pomiędzy wartością kosztów ogółem a wartością niektórych kosztów zmiennych poniesionych w poprzednim roku obrotowym, wykazanych w sprawozdaniach przekazywanych Komisji na podstawie art. 225 ust. 2a, a jeżeli zarządzający ASI nie prowadził działalności lub prowadził ją krócej niż rok – na poziomie nie niższym niż 25 % różnicy pomiędzy wartością kosztów ogółem a wartością niektórych kosztów zmiennych określonych w analizie ekonomiczno-finansowej, o której mowa w art. 70s ust. 3 pkt 7.
+1. Zarządzający ASI jest obowiązany do utrzymywania kapitału własnego na poziomie nie niższym niż 25 % różnicy pomiędzy wartością kosztów ogółem a wartością niektórych kosztów zmiennych poniesionych w poprzednim roku obrotowym, wykazanych w sprawozdaniach przekazywanych Komisji na podstawie art. 225 ust. 2a, a jeżeli zarządzający ASI nie prowadził działalności lub prowadził ją krócej niż rok na poziomie nie niższym niż 25 % różnicy pomiędzy wartością kosztów ogółem a wartością niektórych kosztów zmiennych określonych w analizie ekonomiczno-finansowej, o której mowa w art. 70s ust. 3 pkt 7.
 
 2. Zarządzający ASI jest obowiązany do utrzymywania kapitału własnego na poziomie nie niższym niż określony w art. 70n ust. 1.
 
@@ -2722,9 +2900,9 @@ Art. 300–319. (pominięte)
 
 5. Równowartość w złotych kwot wyrażonych w euro, o których mowa w ust. 3 i 4, ustala się przy zastosowaniu średniego kursu ogłoszonego przez Narodowy Bank Polski na ostatni dzień roboczy poprzedzający dzień wystąpienia zdarzenia.
 
-6. Zarządzający ASI jest obowiązany, z uwzględnieniem art. 12– 15 rozporządzenia 231/2013:
+6. Zarządzający ASI jest obowiązany, z uwzględnieniem art. 12–15 rozporządzenia 231/2013:
 
-- **1)** zwiększać kapitał własny ustalony zgodnie z ust. 1–4 o kwotę dodatkową – odpowiednio do ryzyka roszczeń wobec zarządzającego ASI z tytułu niewykonania lub nienależytego wykonania jego obowiązków związanych z zarządzaniem alternatywną spółką inwestycyjną, albo
+- **1)** zwiększać kapitał własny ustalony zgodnie z ust. 1–4 o kwotę dodatkową odpowiednio do ryzyka roszczeń wobec zarządzającego ASI z tytułu niewykonania lub nienależytego wykonania jego obowiązków związanych z zarządzaniem alternatywną spółką inwestycyjną, albo
 - **2)** zawrzeć umowę ubezpieczenia odpowiedzialności cywilnej za szkody powstałe w wyniku niewykonania lub nienależytego wykonania jego obowiązków związanych z zarządzaniem alternatywną spółką inwestycyjną.
 
 7. O zmniejszeniu wartości kapitału własnego poniżej poziomu określonego w ust. 1 zarządzający ASI zawiadamia niezwłocznie Komisję. Komisja może cofnąć zezwolenie na wykonywanie działalności przez zarządzającego ASI, jeżeli wartość jego kapitału własnego nie zostanie, w terminie 3 miesięcy, uzupełniona do wymaganego poziomu.
@@ -2737,7 +2915,7 @@ Art. 300–319. (pominięte)
 
 1. Aktywa zarządzającego ASI stanowiące pokrycie kapitału własnego, w wysokości określonej zgodnie z art. 70o, są lokowane w sposób zapewniający odpowiednią płynność i bezpieczeństwo.
 
-2. W przypadku wewnętrznie zarządzającego ASI ograniczenie, o którym mowa w ust. 1, dotyczy aktywów alternatywnej spółki inwestycyjnej – do wysokości określonej zgodnie z art. 70o.
+2. W przypadku wewnętrznie zarządzającego ASI ograniczenie, o którym mowa w ust. 1, dotyczy aktywów alternatywnej spółki inwestycyjnej do wysokości określonej zgodnie z art. 70o.
 
 **Art. 70q.**
 
@@ -2745,7 +2923,9 @@ Art. 300–319. (pominięte)
 
 2. Środki na pokrycie kapitału zakładowego zewnętrznie zarządzającego ASI lub na nabycie akcji nie mogą pochodzić z pożyczki lub kredytu.
 
-3. Środki na pokrycie kapitału zakładowego wewnętrznie zarządzającego ASI, do wysokości określonej w art. 70o ust. 1, lub na nabycie akcji nie mogą pochodzić z pożyczki lub kredytu. [4. Akcje zarządzającego ASI mogą być wyłącznie imienne, chyba że są zdematerializowane.]
+3. Środki na pokrycie kapitału zakładowego wewnętrznie zarządzającego ASI, do wysokości określonej w art. 70o ust. 1, lub na nabycie akcji nie mogą pochodzić z pożyczki lub kredytu.
+
+4. Akcje zarządzającego ASI mogą być wyłącznie imienne, chyba że są zdematerializowane.
 
 **Art. 70r.**
 
@@ -2772,22 +2952,22 @@ Art. 300–319. (pominięte)
 
 1. Wniosek o uzyskanie zezwolenia na wykonywanie działalności przez zarządzającego ASI może złożyć:
 
-- **1)** spółka kapitałowa w organizacji – w przypadku gdy zamierza ona prowadzić działalność jako wewnętrznie zarządzający ASI;
-- **2)** spółka kapitałowa, która ma być komplementariuszem alternatywnej spółki inwestycyjnej, zgodnie z jej umową albo statutem, przed zgłoszeniem tej spółki do sądu rejestrowego – w przypadku gdy zamierza ona prowadzić działalność jako zewnętrznie zarządzający ASI.
+- **1)** spółka kapitałowa w organizacji w przypadku gdy zamierza ona prowadzić działalność jako wewnętrznie zarządzający ASI;
+- **2)** spółka kapitałowa, która ma być komplementariuszem alternatywnej spółki inwestycyjnej, zgodnie z jej umową albo statutem, przed zgłoszeniem tej spółki do sądu rejestrowego w przypadku gdy zamierza ona prowadzić działalność jako zewnętrznie zarządzający ASI.
 
 2. Bieg terminów określonych w art. 169 i art. 325 § 1 Kodeksu spółek handlowych do zgłoszenia spółki do sądu rejestrowego ulega zawieszeniu na czas rozpatrywania wniosku, o którym mowa w ust. 1.
 
 3. Do wniosku spółki o uzyskanie zezwolenia na wykonywanie działalności przez zarządzającego ASI załącza się:
 
 - **1)** statut lub umowę spółki;
-- **2)** odpis z rejestru przedsiębiorców – w przypadku spółki kapitałowej, o której mowa w art. 8b ust. 2 pkt 2;
+- **2)** odpis z rejestru przedsiębiorców w przypadku spółki kapitałowej, o której mowa w art. 8b ust. 2 pkt 2;
 - **3)** dane osobowe członków zarządu i rady nadzorczej wraz z opisem ich kwalifikacji i doświadczeń zawodowych oraz informacje z Krajowego Rejestru Karnego, ze wskazaniem dwóch członków zarządu, którzy spełniają warunki określone w art. 70d ust. 3;
 - **4)** w przypadku akcjonariuszy posiadających co najmniej 10 % ogólnej liczby głosów na walnym zgromadzeniu lub co najmniej 10 % udziału w kapitale zakładowym wnioskodawcy, będących:
-    - **a)** osobami fizycznymi – dane osobowe tych osób, informacje o dotychczasowym przebiegu pracy zawodowej lub wykonywanej działalności gospodarczej, dane dotyczące wartości wniesionych przez nie wkładów, informacje o pochodzeniu środków na wniesienie wkładów, a także o przeprowadzeniu weryfikacji tych osób jako klientów profesjonalnych,
-    - **b)** osobami prawnymi albo jednostkami organizacyjnymi nieposiadającymi osobowości prawnej – informację na temat wykonywanej działalności gospodarczej, aktualny odpis z właściwego rejestru oraz ostatnie sprawozdanie finansowe wraz ze sprawozdaniem z badania, jeżeli badanie jest wymagane przepisami prawa, a w przypadku braku takiego sprawozdania – inne dokumenty i informacje przedstawiające rzetelnie ich aktualną sytuację finansową;
+    - **a)** osobami fizycznymi dane osobowe tych osób, informacje o dotychczasowym przebiegu pracy zawodowej lub wykonywanej działalności gospodarczej, dane dotyczące wartości wniesionych przez nie wkładów, informacje o pochodzeniu środków na wniesienie wkładów, a także o przeprowadzeniu weryfikacji tych osób jako klientów profesjonalnych,
+    - **b)** osobami prawnymi albo jednostkami organizacyjnymi nieposiadającymi osobowości prawnej informację na temat wykonywanej działalności gospodarczej, aktualny odpis z właściwego rejestru oraz ostatnie sprawozdanie finansowe wraz ze sprawozdaniem z badania, jeżeli badanie jest wymagane przepisami prawa, a w przypadku braku takiego sprawozdania inne dokumenty i informacje przedstawiające rzetelnie ich aktualną sytuację finansową;
 
 - **5)** informacje o podmiotach dominujących i podmiotach zależnych wobec akcjonariuszy posiadających co najmniej 10 % ogólnej liczby głosów na walnym zgromadzeniu lub co najmniej 10 % udziału w kapitale zakładowym wnioskodawcy, obejmujące wskazanie ich firmy (nazwy) lub imienia i nazwiska, siedziby i adresu lub miejsca zamieszkania oraz opis wykonywanej działalności gospodarczej;
-- **6)** ostatnie sprawozdanie finansowe wraz ze sprawozdaniem z badania – w przypadku spółki, o której mowa w art. 8b ust. 2 pkt 2, jeżeli wykonywała inną działalność przed złożeniem wniosku;
+- **6)** ostatnie sprawozdanie finansowe wraz ze sprawozdaniem z badania w przypadku spółki, o której mowa w art. 8b ust. 2 pkt 2, jeżeli wykonywała inną działalność przed złożeniem wniosku;
 - **7)** analizę ekonomiczno-finansową możliwości prowadzenia działalności przez okres roku;
 - **8)** regulamin zapobiegania ujawnianiu informacji, których wykorzystanie mogłoby naruszać interes inwestorów alternatywnej spółki inwestycyjnej lub interes nabywców papierów wartościowych będących przedmiotem oferty publicznej lub papierów wartościowych będących przedmiotem obrotu na rynku regulowanym;
 - **9)** opis polityki wynagrodzeń, o której mowa w art. 70j ust. 1;
@@ -2800,11 +2980,11 @@ Art. 300–319. (pominięte)
 
 - **12)** informacje o alternatywnych spółkach inwestycyjnych, jakimi wnioskodawca zamierza zarządzać, obejmujące:
     - **a)** strategie inwestycyjne alternatywnej spółki inwestycyjnej,
-    - **b)** wskazanie funduszy bazowych – w przypadku zamiaru zarządzania alternatywną spółką inwestycyjną, która jest funduszem funduszy,
+    - **b)** wskazanie funduszy bazowych w przypadku zamiaru zarządzania alternatywną spółką inwestycyjną, która jest funduszem funduszy,
     - **c)** opis polityki zarządzającego ASI w zakresie korzystania przez alternatywną spółkę inwestycyjną z dźwigni finansowej AFI,
     - **d)** profile ryzyka alternatywnej spółki inwestycyjnej,
-    - **e)** wskazanie AFI podstawowego oraz jego siedziby – w przypadku zamiaru zarządzania alternatywną spółką inwestycyjną, która działa jako AFI powiązany,
-    - **f)** wskazanie państwa macierzystego – w przypadku zamiaru zarządzania unijnym AFI lub alternatywną spółką inwestycyjną z siedzibą w państwie należącym do EEA;
+    - **e)** wskazanie AFI podstawowego oraz jego siedziby w przypadku zamiaru zarządzania alternatywną spółką inwestycyjną, która działa jako AFI powiązany,
+    - **f)** wskazanie państwa macierzystego w przypadku zamiaru zarządzania unijnym AFI lub alternatywną spółką inwestycyjną z siedzibą w państwie należącym do EEA;
 
 - **13)** informacje o związanych z zarządzaniem alternatywną spółką inwestycyjną czynnościach, których wykonywanie jest lub zostanie powierzone przedsiębiorcom lub przedsiębiorcom zagranicznym, obejmujące:
     - **a)** opis powierzanych czynności,
@@ -2814,7 +2994,7 @@ Art. 300–319. (pominięte)
 
 - **14)** odpisy z właściwych rejestrów podmiotów, którym wnioskodawca zamierza powierzyć wykonywanie czynności na podstawie umowy, o której mowa w art. 70g ust. 1;
 - **15)** informacje i dokumenty dotyczące danej alternatywnej spółki inwestycyjnej, którą wnioskodawca będzie zarządzać po uzyskaniu zezwolenia, obejmujące:
-    - **a)** umowę lub statut spółki będącej alternatywną spółką inwestycyjną – w przypadku gdy prowadzi ona działalność w formie określonej w art. 8a ust. 2 pkt 2,
+    - **a)** umowę lub statut spółki będącej alternatywną spółką inwestycyjną w przypadku gdy prowadzi ona działalność w formie określonej w art. 8a ust. 2 pkt 2,
     - **b)** regulacje wewnętrzne ASI,
     - **c)** informacje dla klienta alternatywnego funduszu inwestycyjnego, przy czym przepisy art. 222a ust. 5 i 6 stosuje się odpowiednio,
     - **d)** oświadczenie firmy audytorskiej o zgodności przyjętych w regulacjach wewnętrznych ASI metod i zasad wyceny aktywów alternatywnej spółki inwestycyjnej z przepisami dotyczącymi rachunkowości, a także o zgodności i kompletności tych zasad z przyjętą dla danej spółki strategią inwestycyjną,
@@ -2822,7 +3002,7 @@ Art. 300–319. (pominięte)
     - **f)** dane osobowe członków zarządu depozytariusza odpowiedzialnych za wykonywanie funkcji depozytariusza przez jego jednostkę organizacyjną wraz z opisem ich kwalifikacji i doświadczenia zawodowego,
     - **g)** dane osobowe osób wyznaczonych przez depozytariusza do wykonywania obowiązków określonych w umowie.
 
-4. Do wniosku o uzyskanie zezwolenia na wykonywanie działalności przez zarządzającego ASI spółka załącza dodatkowo oświadczenie o niewystępowaniu powiązań, o których mowa w art. 70t ust. 3, a w przypadku występowania takich powiązań – informację o powiązaniach obejmującą:
+4. Do wniosku o uzyskanie zezwolenia na wykonywanie działalności przez zarządzającego ASI spółka załącza dodatkowo oświadczenie o niewystępowaniu powiązań, o których mowa w art. 70t ust. 3, a w przypadku występowania takich powiązań informację o powiązaniach obejmującą:
 
 - **1)** firmy (nazwy), siedziby i adresy zarządzających z UE, spółek zarządzających, zagranicznych firm inwestycyjnych, instytucji kredytowych, podmiotów prowadzących działalność ubezpieczeniową na podstawie zezwolenia w państwie członkowskim oraz podmiotów prowadzących działalność reasekuracyjną na podstawie zezwolenia w państwie członkowskim, z którymi spółka jest powiązana;
 - **2)** określenie rodzaju powiązań;
@@ -2858,7 +3038,7 @@ Art. 300–319. (pominięte)
 
 1. Przepisy art. 70d, art. 70e, art. 70g, art. 70h, art. 70j, art. 70l, art. 70m, art. 70n, art. 70p i art. 70q stosuje się odpowiednio do spółki ubiegającej się o uzyskanie zezwolenia na wykonywanie działalności przez zarządzającego ASI.
 
-2. Przepisu art. 70q nie stosuje się do spółki, o której mowa w art. 8b ust. 2 pkt 2, ubiegającej się o uzyskanie zezwolenia na wykonywanie działalności przez zarządzającego ASI, jeżeli przed dniem złożenia wniosku spółka ta wykonywała działalność w innej dziedzinie. W takim przypadku do wniosku należy załączyć zaświadczenia o niezaleganiu w podatkach albo stwierdzające stan zaległości akcjonariuszy, wydane na podstawie ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
+2. Przepisu art. 70q nie stosuje się do spółki, o której mowa w art. 8b ust. 2 pkt 2, ubiegającej się o uzyskanie zezwolenia na wykonywanie działalności przez zarządzającego ASI, jeżeli przed dniem złożenia wniosku spółka ta wykonywała działalność w innej dziedzinie. W takim przypadku do wniosku należy załączyć zaświadczenia o niezaleganiu w podatkach albo stwierdzające stan zaległości akcjonariuszy, wydane na podstawie ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa.
 
 **Art. 70v.**
 
@@ -2874,7 +3054,7 @@ Art. 300–319. (pominięte)
 
 **Art. 70w.**
 
-1. Z zastrzeżeniem art. 238b, zewnętrznie zarządzający ASI powiadamia Komisję o każdej alternatywnej spółce inwestycyjnej, którą zamierza zarządzać, dołączając do powiadomienia dotyczące tej spółki informacje i dokumenty, o których mowa w art. 70s ust. 3 pkt 14 i 15, a w przypadku gdy byłyby one tożsame z dokumentem lub informacją uprzednio przekazanymi Komisji – oświadczenie o aktualności danego dokumentu lub informacji.
+1. Z zastrzeżeniem art. 238b, zewnętrznie zarządzający ASI powiadamia Komisję o każdej alternatywnej spółce inwestycyjnej, którą zamierza zarządzać, dołączając do powiadomienia dotyczące tej spółki informacje i dokumenty, o których mowa w art. 70s ust. 3 pkt 14 i 15, a w przypadku gdy byłyby one tożsame z dokumentem lub informacją uprzednio przekazanymi Komisji oświadczenie o aktualności danego dokumentu lub informacji.
 
 2. Zarządzający ASI może rozpocząć zarządzanie daną spółką po upływie miesiąca od dnia otrzymania przez Komisję kompletnego powiadomienia.
 
@@ -2888,7 +3068,7 @@ Art. 300–319. (pominięte)
 
 2. Od dnia wygaśnięcia zezwolenia na wykonywanie działalności przez zewnętrznie zarządzającego ASI lub od dnia wydania decyzji o cofnięciu tego zezwolenia alternatywna spółka inwestycyjna jest reprezentowana przez depozytariusza. W tym czasie spółka ta nie może być wprowadzana do obrotu, z zastrzeżeniem ust. 4.
 
-2a. W przypadku gdy zewnętrznie zarządzający ASI zawarł umowę, której przedmiotem jest zlecenie zarządzania portfelem inwestycyjnym alternatywnej spółki inwestycyjnej lub jego częścią, depozytariusz wchodzi w prawa i obowiązki wynikające z tej umowy z dniem wygaśnięcia zezwolenia na wykonywanie działalności przez zewnętrznie zarządzającego ASI lub z dniem wydania decyzji o cofnięciu tego zezwolenia. Jeżeli zewnętrznie zarządzający ASI takiej umowy nie zawarł, depozytariusz może zawrzeć taką umowę. Przepisy art. 70g ust. 5–8 i 11– 16 stosuje się odpowiednio.
+2a. W przypadku gdy zewnętrznie zarządzający ASI zawarł umowę, której przedmiotem jest zlecenie zarządzania portfelem inwestycyjnym alternatywnej spółki inwestycyjnej lub jego częścią, depozytariusz wchodzi w prawa i obowiązki wynikające z tej umowy z dniem wygaśnięcia zezwolenia na wykonywanie działalności przez zewnętrznie zarządzającego ASI lub z dniem wydania decyzji o cofnięciu tego zezwolenia. Jeżeli zewnętrznie zarządzający ASI takiej umowy nie zawarł, depozytariusz może zawrzeć taką umowę. Przepisy art. 70g ust. 5–8 i 11–16 stosuje się odpowiednio.
 
 3. Cofnięcie lub wygaśnięcie zezwolenia na wykonywanie działalności przez zarządzającego ASI powoduje rozwiązanie alternatywnej spółki inwestycyjnej prowadzącej działalność w formie określonej w art. 8a ust. 2 pkt 1, chyba że w terminie 3 miesięcy od dnia cofnięcia lub wygaśnięcia zezwolenia zostanie dokonana zmiana statutu alternatywnej spółki inwestycyjnej w zakresie przedmiotu jej działalności, w wyniku której spółka ta nie będzie wypełniać definicji alternatywnego funduszu inwestycyjnego.
 
@@ -2934,7 +3114,7 @@ Art. 300–319. (pominięte)
 
 **Art. 72.**
 
-1. Obowiązki depozytariusza wynikające z umowy o wykonywanie funkcji depozytariusza funduszu inwestycyjnego, z uwzględnieniem art. 83, art. 85– 90 i art. 92–97 rozporządzenia 231/2013 – w przypadku specjalistycznego funduszu inwestycyjnego otwartego i funduszu inwestycyjnego zamkniętego, obejmują:
+1. Obowiązki depozytariusza wynikające z umowy o wykonywanie funkcji depozytariusza funduszu inwestycyjnego, z uwzględnieniem art. 83, art. 85–90 i art. 92–97 rozporządzenia 231/2013 w przypadku specjalistycznego funduszu inwestycyjnego otwartego i funduszu inwestycyjnego zamkniętego, obejmują:
 
 - **1)** przechowywanie aktywów funduszu inwestycyjnego;
 - **2)** prowadzenie rejestru wszystkich aktywów funduszu inwestycyjnego;
@@ -2958,19 +3138,19 @@ Art. 300–319. (pominięte)
 
 **Art. 72a.**
 
-1. Depozytariusz jest obowiązany do wytoczenia powództwa na rzecz uczestników funduszu przeciwko towarzystwu z tytułu szkody spowodowanej niewykonaniem lub nienależytym wykonaniem obowiązków w zakresie zarządzania funduszem i jego reprezentacji, a w przypadku gdy na podstawie umowy, o której mowa w art. 4 ust. 1a albo 1b, funduszem inwestycyjnym zarządza i prowadzi jego sprawy spółka zarządzająca albo zarządzający z UE – przeciwko tej spółce albo przeciwko temu zarządzającemu z UE z tytułu szkody spowodowanej niewykonaniem lub nienależytym wykonaniem obowiązków w zakresie zarządzania tym funduszem i prowadzenia jego spraw należącym odpowiednio do kompetencji spółki zarządzającej albo zarządzającego z UE zgodnie z art. 272c ust. 1 albo z art. 276e ust. 1.
+1. Depozytariusz jest obowiązany do wytoczenia powództwa na rzecz uczestników funduszu przeciwko towarzystwu z tytułu szkody spowodowanej niewykonaniem lub nienależytym wykonaniem obowiązków w zakresie zarządzania funduszem i jego reprezentacji, a w przypadku gdy na podstawie umowy, o której mowa w art. 4 ust. 1a albo 1b, funduszem inwestycyjnym zarządza i prowadzi jego sprawy spółka zarządzająca albo zarządzający z UE przeciwko tej spółce albo przeciwko temu zarządzającemu z UE z tytułu szkody spowodowanej niewykonaniem lub nienależytym wykonaniem obowiązków w zakresie zarządzania tym funduszem i prowadzenia jego spraw należącym odpowiednio do kompetencji spółki zarządzającej albo zarządzającego z UE zgodnie z art. 272c ust. 1 albo z art. 276e ust. 1.
 
 2. Depozytariusz wytacza powództwo, o którym mowa w ust. 1, na wniosek uczestnika funduszu.
 
 3. Depozytariusz może udzielić pełnomocnictwa procesowego adwokatowi lub radcy prawnemu.
 
-4. Z uwzględnieniem art. 98 § 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568, z późn. zm. ), koszty procesu ponosi uczestnik funduszu, z wyjątkiem kosztów zastępstwa procesowego uczestnika, które w przypadku przegrania procesu ponosi depozytariusz.
+4. Z uwzględnieniem art. 98 § 1 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568, z późn. zm. ), koszty procesu ponosi uczestnik funduszu, z wyjątkiem kosztów zastępstwa procesowego uczestnika, które w przypadku przegrania procesu ponosi depozytariusz.
 
 5. W przypadku gdy depozytariusz stwierdzi brak podstaw do wytoczenia powództwa, jest obowiązany zawiadomić o tym uczestnika, nie później niż w terminie trzech tygodni od dnia złożenia wniosku przez uczestnika.
 
 6. Jeżeli z wnioskiem, o którym mowa w ust. 2, wystąpiło kilku uczestników funduszu inwestycyjnego, a szkoda każdego z uczestników spowodowana jest niewykonaniem lub nienależytym wykonaniem tych samych obowiązków towarzystwa, spółki zarządzającej albo zarządzającego z UE, i w ocenie depozytariusza zasadne jest wytoczenie powództwa także w imieniu innych uczestników funduszu, depozytariusz ogłasza zgodnie z określonym w statucie funduszu sposobem podawania informacji do publicznej wiadomości oraz na swojej stronie internetowej o zamiarze wytoczenia powództwa, o którym mowa w ust. 1, oraz o możliwości zgłaszania przez uczestników depozytariuszowi wniosków o wytoczenie takiego powództwa w terminie 2 miesięcy od dnia ogłoszenia.
 
-7. Depozytariusz może żądać od towarzystwa, a w przypadku gdy na podstawie umowy, o której mowa w art. 4 ust. 1a albo 1b, funduszem inwestycyjnym zarządza i prowadzi jego sprawy spółka zarządzająca albo zarządzający z UE – od spółki zarządzającej albo zarządzającego z UE, podmiotów, o których mowa w art. 45a lub art. 46, podmiotu, któremu zlecono prowadzenie ksiąg rachunkowych funduszu lub dokonywanie wyceny aktywów funduszu, biegłego rewidenta funduszu, agenta emisji prowadzącego zgodnie z art. 7a ustawy o obrocie instrumentami finansowymi ewidencję osób uprawnionych z certyfikatów inwestycyjnych oraz podmiotu prowadzącego rejestr uczestników albo ewidencję uczestników funduszu, albo rachunki papierów wartościowych albo rachunki zbiorcze, na których zapisywane są certyfikaty inwestycyjne, informacji niezbędnych do wytoczenia powództwa, o którym mowa w ust. 1.
+7. Depozytariusz może żądać od towarzystwa, a w przypadku gdy na podstawie umowy, o której mowa w art. 4 ust. 1a albo 1b, funduszem inwestycyjnym zarządza i prowadzi jego sprawy spółka zarządzająca albo zarządzający z UE od spółki zarządzającej albo zarządzającego z UE, podmiotów, o których mowa w art. 45a lub art. 46, podmiotu, któremu zlecono prowadzenie ksiąg rachunkowych funduszu lub dokonywanie wyceny aktywów funduszu, biegłego rewidenta funduszu, agenta emisji prowadzącego zgodnie z art. 7a ustawy o obrocie instrumentami finansowymi ewidencję osób uprawnionych z certyfikatów inwestycyjnych oraz podmiotu prowadzącego rejestr uczestników albo rachunki papierów wartościowych albo rachunki zbiorcze, na których zapisywane są certyfikaty inwestycyjne, informacji niezbędnych do wytoczenia powództwa, o którym mowa w ust. 1.
 
 **Art. 72b.**
 
@@ -2980,7 +3160,7 @@ Art. 300–319. (pominięte)
 
 3. Instrumenty finansowe inne niż wskazane w ust. 1 i 2 oraz inne aktywa funduszu inwestycyjnego, które ze względu na ich istotę nie mogą być przechowywane przez depozytariusza, są zapisywane przez depozytariusza w rejestrze aktywów funduszu.
 
-4. Depozytariusz jest obowiązany do weryfikowania uprawnień funduszu inwestycyjnego do aktywów, o których mowa w ust. 3, na podstawie informacji i dokumentów przekazanych przez towarzystwo lub fundusz, a jeżeli jest to możliwe – również na podstawie ksiąg wieczystych, rejestrów publicznych oraz innych ewidencji.
+4. Depozytariusz jest obowiązany do weryfikowania uprawnień funduszu inwestycyjnego do aktywów, o których mowa w ust. 3, na podstawie informacji i dokumentów przekazanych przez towarzystwo lub fundusz, a jeżeli jest to możliwe również na podstawie ksiąg wieczystych, rejestrów publicznych oraz innych ewidencji.
 
 5. W przypadku gdy środki pieniężne funduszu inwestycyjnego są przechowywane przez depozytariusza na rzecz funduszu na rachunku bankowym lub na rachunku pieniężnym służącym obsłudze rachunku papierów wartościowych prowadzonym w imieniu depozytariusza, na rachunkach tych nie mogą być przechowywane inne środki poza tymi, które są należne funduszowi.
 
@@ -3000,7 +3180,7 @@ Art. 300–319. (pominięte)
 
 **Art. 74.**
 
-1. Umowa o wykonywanie funkcji depozytariusza funduszu inwestycyjnego, z uwzględnieniem art. 83 rozporządzenia 231/2013 – w przypadku specjalistycznego funduszu inwestycyjnego otwartego i funduszu inwestycyjnego zamkniętego, określa szczegółowe obowiązki depozytariusza i funduszu inwestycyjnego oraz sposób ich wykonywania, w tym zasady wymiany informacji między funduszem inwestycyjnym a depozytariuszem, niezbędnych depozytariuszowi do wykonywania jego obowiązków, a także wynagrodzenie depozytariusza i sposób kalkulacji kosztów obciążających fundusz.
+1. Umowa o wykonywanie funkcji depozytariusza funduszu inwestycyjnego, z uwzględnieniem art. 83 rozporządzenia 231/2013 w przypadku specjalistycznego funduszu inwestycyjnego otwartego i funduszu inwestycyjnego zamkniętego, określa szczegółowe obowiązki depozytariusza i funduszu inwestycyjnego oraz sposób ich wykonywania, w tym zasady wymiany informacji między funduszem inwestycyjnym a depozytariuszem, niezbędnych depozytariuszowi do wykonywania jego obowiązków, a także wynagrodzenie depozytariusza i sposób kalkulacji kosztów obciążających fundusz.
 
 2. Umowa, o której mowa w ust. 1, nie może wyłączyć albo ograniczyć obowiązków depozytariusza określonych w ustawie.
 
@@ -3014,7 +3194,7 @@ Art. 300–319. (pominięte)
 
 4. W przypadku utraty instrumentu finansowego, o którym mowa w art. 72b ust. 1, stanowiącego aktywa funduszu inwestycyjnego lub aktywa funduszu, o którym mowa w art. 72b ust. 2, depozytariusz niezwłocznie zwraca funduszowi inwestycyjnemu taki sam instrument finansowy lub takie samo aktywo albo kwotę odpowiadającą wartości utraconego instrumentu finansowego lub aktywa.
 
-5. Depozytariusz może zwolnić się od odpowiedzialności, jeżeli wykaże, z uwzględnieniem art. 101 rozporządzenia 231/2013 – w przypadku specjalistycznego funduszu inwestycyjnego otwartego i funduszu inwestycyjnego zamkniętego, że utrata instrumentu finansowego lub aktywa funduszu nastąpiła z przyczyn od niego niezależnych.
+5. Depozytariusz może zwolnić się od odpowiedzialności, jeżeli wykaże, z uwzględnieniem art. 101 rozporządzenia 231/2013 w przypadku specjalistycznego funduszu inwestycyjnego otwartego i funduszu inwestycyjnego zamkniętego, że utrata instrumentu finansowego lub aktywa funduszu nastąpiła z przyczyn od niego niezależnych.
 
 6. Uczestnicy funduszu mogą dochodzić roszczeń od depozytariusza bezpośrednio lub po udzieleniu towarzystwu pełnomocnictwa za jego pośrednictwem.
 
@@ -3039,6 +3219,13 @@ Art. 300–319. (pominięte)
 **Art. 81.** Przechowywane przez depozytariusza aktywa funduszu inwestycyjnego albo wpłaty dokonane na rachunek, o którym mowa w art. 28 ust. 1 i art. 130 ust. 1, nie mogą być przedmiotem egzekucji kierowanej przeciwko depozytariuszowi oraz nie wchodzą do masy upadłości depozytariusza i nie mogą być objęte postępowaniem restrukturyzacyjnym.
 
 **Art. 81a.** W przypadku gdy towarzystwo będące organem funduszu inwestycyjnego zawarło umowę, o której mowa w art. 4 ust. 1a albo 1b, depozytariusz tego funduszu inwestycyjnego i spółka zarządzająca albo zarządzający z UE zawierają w formie pisemnej umowę dotyczącą współpracy i wymiany informacji, która powinna określać w szczególności:
+
+- **1)** opis zasad przechowywania aktywów funduszu w odniesieniu do poszczególnych klas aktywów funduszu inwestycyjnego;
+- **2)** opis postępowania w przypadku zmiany statutu funduszu inwestycyjnego, prospektu informacyjnego, prospektu emisyjnego, memorandum informacyjnego lub warunków emisji, w szczególności w zakresie odnoszącym się do obowiązków depozytariusza;
+- **3)** opis zasad wymiany informacji niezbędnych do prawidłowego wykonywania działalności spółki zarządzającej albo zarządzającego z UE oraz depozytariusza, z uwzględnieniem uprawnień depozytariusza do weryfikowania informacji przekazywanych przez spółkę zarządzającą albo zarządzającego z UE, w tym przeprowadzania przez depozytariusza wizyt w miejscu wykonywania działalności przez spółkę zarządzającą albo zarządzającego z UE;
+- **4)** opis zasad weryfikacji przez spółkę zarządzającą albo zarządzającego z UE wypełniania obowiązków przez depozytariusza;
+- **5)** obowiązki stron w zakresie przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu;
+- **6)** zasady zmiany umowy oraz jej rozwiązania.
 
 #### Rozdział 2 Depozytariusz alternatywnej spółki inwestycyjnej
 
@@ -3090,7 +3277,7 @@ Art. 300–319. (pominięte)
 
 3. Depozytariusz może udzielić pełnomocnictwa procesowego adwokatowi lub radcy prawnemu.
 
-4. Z uwzględnieniem art. 98 § 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, koszty procesu ponosi klient detaliczny, z wyjątkiem kosztów zastępstwa procesowego tego klienta, które w przypadku przegrania procesu ponosi depozytariusz.
+4. Z uwzględnieniem art. 98 § 1 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego, koszty procesu ponosi klient detaliczny, z wyjątkiem kosztów zastępstwa procesowego tego klienta, które w przypadku przegrania procesu ponosi depozytariusz.
 
 5. W przypadku gdy depozytariusz stwierdzi brak podstaw do wytoczenia powództwa, jest obowiązany zawiadomić o tym klienta detalicznego, nie później niż w terminie trzech tygodni od dnia złożenia wniosku przez tego klienta.
 
@@ -3106,7 +3293,7 @@ Art. 300–319. (pominięte)
 
 3. Instrumenty finansowe inne niż wskazane w ust. 1 i 2 oraz inne aktywa alternatywnej spółki inwestycyjnej, które ze względu na ich istotę nie mogą być przechowywane przez depozytariusza, są zapisywane przez depozytariusza w rejestrze aktywów alternatywnej spółki inwestycyjnej.
 
-4. Depozytariusz jest obowiązany do weryfikowania uprawnień alternatywnej spółki inwestycyjnej do aktywów, o których mowa w ust. 3, na podstawie informacji i dokumentów przekazanych przez tę spółkę lub zarządzającego ASI, a jeżeli jest to możliwe – również na podstawie ksiąg wieczystych, rejestrów publicznych oraz innych ewidencji.
+4. Depozytariusz jest obowiązany do weryfikowania uprawnień alternatywnej spółki inwestycyjnej do aktywów, o których mowa w ust. 3, na podstawie informacji i dokumentów przekazanych przez tę spółkę lub zarządzającego ASI, a jeżeli jest to możliwe również na podstawie ksiąg wieczystych, rejestrów publicznych oraz innych ewidencji.
 
 5. W przypadku gdy środki pieniężne alternatywnej spółki inwestycyjnej są przechowywane przez depozytariusza na rzecz tej spółki na rachunku bankowym lub na rachunku pieniężnym służącym obsłudze rachunku papierów wartościowych prowadzonym w imieniu depozytariusza, na rachunkach tych nie mogą być przechowywane inne środki poza tymi, które są należne alternatywnej spółce inwestycyjnej.
 
@@ -3142,7 +3329,7 @@ Art. 300–319. (pominięte)
 
 **Art. 81i.**
 
-1. Depozytariusz funduszu inwestycyjnego lub alternatywnej spółki inwestycyjnej może, w drodze umowy zawartej w formie pisemnej, powierzyć przedsiębiorcy lub przedsiębiorcy zagranicznemu, z uwzględnieniem art. 98 i art. 99 rozporządzenia 231/2013 – w przypadku specjalistycznego funduszu inwestycyjnego otwartego, funduszu inwestycyjnego zamkniętego oraz alternatywnej spółki inwestycyjnej, wykonywanie czynności w zakresie związanym z realizacją funkcji przechowywania aktywów funduszu albo alternatywnej spółki inwestycyjnej, w tym określonych odpowiednio w art. 72b ust. 1–4 albo w art. 81e ust. 1–4.
+1. Depozytariusz funduszu inwestycyjnego lub alternatywnej spółki inwestycyjnej może, w drodze umowy zawartej w formie pisemnej, powierzyć przedsiębiorcy lub przedsiębiorcy zagranicznemu, z uwzględnieniem art. 98 i art. 99 rozporządzenia 231/2013 w przypadku specjalistycznego funduszu inwestycyjnego otwartego, funduszu inwestycyjnego zamkniętego oraz alternatywnej spółki inwestycyjnej, wykonywanie czynności w zakresie związanym z realizacją funkcji przechowywania aktywów funduszu albo alternatywnej spółki inwestycyjnej, w tym określonych odpowiednio w art. 72b ust. 1–4 albo w art. 81e ust. 1–4.
 
 2. Depozytariusz może powierzyć wykonywanie czynności, o których mowa w ust. 1, jeżeli:
 
@@ -3151,14 +3338,14 @@ Art. 300–319. (pominięte)
 - **3)** wybór przedsiębiorcy lub przedsiębiorcy zagranicznego, któremu powierzył wykonywanie czynności, został dokonany przy zachowaniu należytej staranności;
 - **4)** przedsiębiorca lub przedsiębiorca zagraniczny, któremu powierzył wykonywanie czynności, stale spełnia następujące warunki:
     - **a)** stosuje rozwiązania techniczne i organizacyjne niezbędne do prawidłowego wykonania umowy, proporcjonalne do charakteru aktywów, które zostały mu powierzone,
-    - **b)** jeżeli powierzono mu przechowywanie aktywów, o których mowa w art. 72b ust. 1 albo art. 81e ust. 1 – posiada zezwolenie na wykonywanie czynności, o których mowa w art. 69 ust. 4 pkt 1 ustawy o obrocie instrumentami finansowymi, a w przypadku przedsiębiorcy zagranicznego – posiada zezwolenie na wykonywanie czynności w zakresie przedmiotu umowy, udzielone przez właściwy organ nadzoru w państwie macierzystym, o ile jest ono wymagane, i podlega w tym zakresie nadzorowi tego organu,
+    - **b)** jeżeli powierzono mu przechowywanie aktywów, o których mowa w art. 72b ust. 1 albo art. 81e ust. 1 posiada zezwolenie na wykonywanie czynności, o których mowa w art. 69 ust. 4 pkt 1 ustawy o obrocie instrumentami finansowymi, a w przypadku przedsiębiorcy zagranicznego posiada zezwolenie na wykonywanie czynności w zakresie przedmiotu umowy, udzielone przez właściwy organ nadzoru w państwie macierzystym, o ile jest ono wymagane, i podlega w tym zakresie nadzorowi tego organu,
     - **c)** przechowuje aktywa odpowiednio funduszu inwestycyjnego albo alternatywnej spółki inwestycyjnej odrębnie i w sposób umożliwiający niezwłoczną identyfikację danych aktywów jako aktywów danego funduszu albo spółki,
     - **d)** nie wykorzystuje aktywów funduszu inwestycyjnego albo alternatywnej spółki inwestycyjnej we własnym imieniu i na własny rachunek,
     - **e)** przestrzega zasad działania depozytariusza określonych w art. 9 ust. 2 i art. 10, a także odpowiednio w art. 72 ust. 4 i art. 72b ust. 1–4 oraz w art. 81c ust. 3 i art. 81e ust. 1–4;
 
 - **5)** prawo państwa innego niż Rzeczpospolita Polska, w którym przedsiębiorca lub przedsiębiorca zagraniczny będzie przechowywał aktywa funduszu inwestycyjnego albo alternatywnej spółki inwestycyjnej, bez względu na sposób tego przechowywania, zapewnia, że:
     - **a)** fundusz inwestycyjny albo alternatywna spółka inwestycyjna będą wyłącznie uprawnieni do tych aktywów oraz
-    - **b)** aktywa funduszu inwestycyjnego albo alternatywnej spółki inwestycyjnej: – nie mogą być przedmiotem egzekucji kierowanej przeciwko podmiotowi innemu niż ten fundusz inwestycyjny albo ta alternatywna spółka inwestycyjna, – nie mogą być objęte postępowaniem zabezpieczającym kierowanym przeciwko podmiotowi innemu niż ten fundusz inwestycyjny albo ta alternatywna spółka inwestycyjna, – nie wchodzą do masy upadłości podmiotu przechowującego aktywa funduszu inwestycyjnego albo alternatywnej spółki inwestycyjnej, – nie mogą być objęte postępowaniem restrukturyzacyjnym lub innym postępowaniem o podobnym charakterze prowadzonym przeciwko podmiotowi przechowującemu aktywa funduszu inwestycyjnego albo alternatywnej spółki inwestycyjnej lub innym podmiotom.
+    - **b)** aktywa funduszu inwestycyjnego albo alternatywnej spółki inwestycyjnej: nie mogą być przedmiotem egzekucji kierowanej przeciwko podmiotowi innemu niż ten fundusz inwestycyjny albo ta alternatywna spółka inwestycyjna, nie mogą być objęte postępowaniem zabezpieczającym kierowanym przeciwko podmiotowi innemu niż ten fundusz inwestycyjny albo ta alternatywna spółka inwestycyjna, nie wchodzą do masy upadłości podmiotu przechowującego aktywa funduszu inwestycyjnego albo alternatywnej spółki inwestycyjnej, nie mogą być objęte postępowaniem restrukturyzacyjnym lub innym postępowaniem o podobnym charakterze prowadzonym przeciwko podmiotowi przechowującemu aktywa funduszu inwestycyjnego albo alternatywnej spółki inwestycyjnej lub innym podmiotom.
 
 3. W przypadku gdy prawo państwa trzeciego wymaga, aby określone instrumenty finansowe były rejestrowane lub przechowywane przez mającego siedzibę w tym państwie trzecim przedsiębiorcę zagranicznego, który nie spełnia wymogów określonych w ust. 2 pkt 4 lit. b ani wymogów im równoważnych określonych w prawie wspólnotowym, depozytariusz może przekazać takiemu przedsiębiorcy zagranicznemu wykonywanie czynności w zakresie przechowywania aktywów, o których mowa w art. 72b ust. 1 albo art. 81e ust. 1, jedynie w zakresie, w jakim wymaga tego prawo tego państwa, oraz jeżeli są spełnione łącznie następujące warunki:
 
@@ -3244,9 +3431,7 @@ Art. 300–319. (pominięte)
 
 2. Statut funduszu inwestycyjnego otwartego określa maksymalną wysokość wynagrodzenia stałego towarzystwa za zarządzanie funduszem przypadającego na jednostki uczestnictwa kategorii, o których mowa w ust. 1.
 
-3. Kwoty przekazywane na rzecz podmiotów pośredniczących w zbywaniu lub odkupywaniu jednostek uczestnictwa, o których mowa w art. 32 ust. 1 i 2, w związku z wykonywanymi przez te podmioty czynnościami mającymi na celu poprawienie jakości usługi świadczonej na rzecz uczestnika lub potencjalnego uczestnika funduszu inwestycyjnego otwartego mogą być uwzględniane wyłącznie przy ustalaniu wynagrodzenia stałego towarzystwa za zarządzanie funduszem obciążającego aktywa funduszu przypadające na jednostki uczestnictwa kategorii, o której mowa w ust. 1 pkt
-
-2.
+3. Kwoty przekazywane na rzecz podmiotów pośredniczących w zbywaniu lub odkupywaniu jednostek uczestnictwa, o których mowa w art. 32 ust. 1 i 2, w związku z wykonywanymi przez te podmioty czynnościami mającymi na celu poprawienie jakości usługi świadczonej na rzecz uczestnika lub potencjalnego uczestnika funduszu inwestycyjnego otwartego mogą być uwzględniane wyłącznie przy ustalaniu wynagrodzenia stałego towarzystwa za zarządzanie funduszem obciążającego aktywa funduszu przypadające na jednostki uczestnictwa kategorii, o której mowa w ust. 1 pkt 2.
 
 4. Do kategorii jednostek uczestnictwa, o których mowa w ust. 1, przepisy art. 158 stosuje się odpowiednio.
 
@@ -3261,6 +3446,11 @@ Art. 300–319. (pominięte)
 4. W przypadku, o którym mowa w ust. 3, za zgodą i na warunkach określonych przez Komisję zbywanie jednostek uczestnictwa może zostać zawieszone na okres dłuższy niż 2 tygodnie, nieprzekraczający jednak 2 miesięcy.
 
 **Art. 85.** Z częstotliwością określoną w statucie, nie rzadziej jednak niż w każdym dniu zbywania lub odkupywania jednostek uczestnictwa, fundusz inwestycyjny otwarty dokonuje:
+
+- **1)** wyceny aktywów funduszu;
+- **2)** ustalenia wartości aktywów netto funduszu;
+- **3)** ustalenia ceny zbycia i odkupienia jednostek uczestnictwa;
+- **4)** ustalenia wartości aktywów netto funduszu na jednostkę uczestnictwa.
 
 **Art. 86.**
 
@@ -3326,7 +3516,7 @@ Art. 300–319. (pominięte)
 
 1. Zwołujący zgromadzenie uczestników przed przekazaniem uczestnikom zawiadomienia, o którym mowa w ust. 2, ogłasza o zwołaniu zgromadzenia uczestników, w sposób określony w statucie funduszu inwestycyjnego dla ogłaszania zmian statutu tego funduszu.
 
-2. Zgromadzenie uczestników zwołuje towarzystwo zarządzające funduszem inwestycyjnym otwartym, a jeżeli spółka zarządzająca zarządza funduszem inwestycyjnym otwartym i prowadzi jego sprawy – spółka zarządzająca, zawiadamiając o tym każdego uczestnika indywidualnie przesyłką poleconą lub na trwałym nośniku informacji, co najmniej na 21 dni przed planowanym terminem zgromadzenia uczestników, z zastrzeżeniem art. 222 ust. 4.
+2. Zgromadzenie uczestników zwołuje towarzystwo zarządzające funduszem inwestycyjnym otwartym, a jeżeli spółka zarządzająca zarządza funduszem inwestycyjnym otwartym i prowadzi jego sprawy spółka zarządzająca, zawiadamiając o tym każdego uczestnika indywidualnie przesyłką poleconą lub na trwałym nośniku informacji, co najmniej na 21 dni przed planowanym terminem zgromadzenia uczestników, z zastrzeżeniem art. 222 ust. 4.
 
 3. Zawiadomienie, o którym mowa w ust. 2, zawiera:
 
@@ -3364,7 +3554,7 @@ Art. 300–319. (pominięte)
 - **2)** uczestnikowi bezzasadnie niedopuszczonemu do udziału w zgromadzeniu uczestników;
 - **3)** uczestnikom, którzy nie byli obecni na zgromadzeniu uczestników, jedynie w przypadku wadliwego zwołania zgromadzenia uczestników.
 
-3. Przepisu art. 189 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego nie stosuje się.
+3. Przepisu art. 189 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego nie stosuje się.
 
 4. Prawo do wniesienia powództwa wygasa z upływem miesiąca od dnia powzięcia uchwały.
 
@@ -3455,7 +3645,7 @@ Art. 300–319. (pominięte)
     - **a)** emitowane, poręczone lub gwarantowane przez Skarb Państwa, Narodowy Bank Polski, jednostkę samorządu terytorialnego, właściwe centralne, regionalne lub lokalne władze publiczne państwa członkowskiego, albo przez bank centralny państwa członkowskiego, Europejski Bank Centralny, Unię Europejską lub Europejski Bank Inwestycyjny, państwo inne niż państwo członkowskie, albo, w przypadku państwa federalnego, przez jednego z członków federacji, albo przez organizację międzynarodową, do której należy co najmniej jedno państwo członkowskie, lub
     - **b)** emitowane, poręczone lub gwarantowane przez podmiot podlegający nadzorowi właściwego organu nadzoru nad rynkiem finansowym, zgodnie z kryteriami określonymi prawem wspólnotowym, albo przez podmiot podlegający i stosujący się do zasad, które są co najmniej tak rygorystyczne, jak określone prawem wspólnotowym, lub
     - **c)** emitowane przez podmiot, którego papiery wartościowe są w obrocie na rynku regulowanym, o którym mowa w pkt 1, lub
-    - **d)** emitowane przez inne podmioty określone w statucie funduszu, pod warunkiem że inwestycje w takie papiery wartościowe podlegają ochronie inwestora równoważnej do określonej w lit. a–c oraz emitent spełnia łącznie następujące warunki: – jest spółką, której kapitał własny wynosi co najmniej 10 000 000 euro, – publikuje roczne sprawozdania finansowe, zgodnie z przepisami prawa wspólnotowego, dotyczące rocznych sprawozdań finansowych niektórych rodzajów spółek, – należy do grupy kapitałowej, w skład której wchodzi co najmniej jedna spółka, której papiery wartościowe są przedmiotem obrotu na rynku regulowanym, – zajmuje się finansowaniem grupy, o której mowa w tiret trzecim, albo finansowaniem mechanizmów przekształcania długu w papiery wartościowe z wykorzystaniem bankowych narzędzi zapewnienia płynności;
+    - **d)** emitowane przez inne podmioty określone w statucie funduszu, pod warunkiem że inwestycje w takie papiery wartościowe podlegają ochronie inwestora równoważnej do określonej w lit. a–c oraz emitent spełnia łącznie następujące warunki: jest spółką, której kapitał własny wynosi co najmniej 10 000 000 euro, publikuje roczne sprawozdania finansowe, zgodnie z przepisami prawa wspólnotowego, dotyczące rocznych sprawozdań finansowych niektórych rodzajów spółek, należy do grupy kapitałowej, w skład której wchodzi co najmniej jedna spółka, której papiery wartościowe są przedmiotem obrotu na rynku regulowanym, zajmuje się finansowaniem grupy, o której mowa w tiret trzecim, albo finansowaniem mechanizmów przekształcania długu w papiery wartościowe z wykorzystaniem bankowych narzędzi zapewnienia płynności;
 
 - **5)** papiery wartościowe i instrumenty rynku pieniężnego, inne niż określone w pkt 1, 2 i 4, z tym że łączna wartość tych lokat nie może przewyższyć 10 % wartości aktywów funduszu.
 
@@ -3468,12 +3658,12 @@ Art. 300–319. (pominięte)
 - **1)** potencjalna strata funduszu wynikająca z lokaty w papier wartościowy jest ograniczona do zapłaconej za niego ceny;
 - **2)** są zbywalne bez ograniczeń oraz ich płynność pozwala na wypełnienie przez fundusz wymogu zbycia i odkupienia jednostek uczestnictwa na żądanie uczestnika funduszu;
 - **3)** jest możliwa ich wiarygodna wycena w oparciu o:
-    - **a)** dokładną, wiarygodną i regularnie ustalaną cenę rynkową lub cenę ustalaną przez niezależny od emitenta system wyceny – w przypadku papierów wartościowych, o których mowa w ust. 1 pkt 1 i 2,
-    - **b)** informacje regularnie dostarczane od emitenta lub ustalone na podstawie wiarygodnych badań inwestycyjnych – w przypadku papierów wartościowych, o których mowa w ust. 1 pkt 5;
+    - **a)** dokładną, wiarygodną i regularnie ustalaną cenę rynkową lub cenę ustalaną przez niezależny od emitenta system wyceny w przypadku papierów wartościowych, o których mowa w ust. 1 pkt 1 i 2,
+    - **b)** informacje regularnie dostarczane od emitenta lub ustalone na podstawie wiarygodnych badań inwestycyjnych w przypadku papierów wartościowych, o których mowa w ust. 1 pkt 5;
 
 - **4)** informacje na ich temat są dostępne:
-    - **a)** uczestnikom rynku, w sposób regularny, dokładny i wyczerpujący – w przypadku papierów wartościowych, o których mowa w ust. 1 pkt 1 i 2,
-    - **b)** funduszowi, w sposób regularny i dokładny – w przypadku papierów wartościowych, o których mowa w ust. 1 pkt 5;
+    - **a)** uczestnikom rynku, w sposób regularny, dokładny i wyczerpujący w przypadku papierów wartościowych, o których mowa w ust. 1 pkt 1 i 2,
+    - **b)** funduszowi, w sposób regularny i dokładny w przypadku papierów wartościowych, o których mowa w ust. 1 pkt 5;
 
 - **5)** ich nabycie jest zgodne z celami inwestycyjnymi i polityką inwestycyjną funduszu;
 - **6)** wynikające z nich ryzyko inwestycyjne jest należycie uwzględnione w procesie zarządzania ryzykiem inwestycyjnym funduszu.
@@ -3507,7 +3697,7 @@ Art. 300–319. (pominięte)
 
 4. Za odpowiednie informacje, o których mowa w ust. 3 pkt 2, uznaje się:
 
-- **1)** w przypadku instrumentów rynku pieniężnego, o których mowa w art. 93 ust. 1 pkt 4 lit. c i d, oraz instrumentów rynku pieniężnego emitowanych przez właściwe regionalne lub lokalne władze publiczne państwa członkowskiego albo przez organizację międzynarodową, a które nie są poręczone lub gwarantowane przez Skarb Państwa, państwo członkowskie albo w przypadku państwa federalnego będącego państwem członkowskim – przez jednego z członków federacji:
+- **1)** w przypadku instrumentów rynku pieniężnego, o których mowa w art. 93 ust. 1 pkt 4 lit. c i d, oraz instrumentów rynku pieniężnego emitowanych przez właściwe regionalne lub lokalne władze publiczne państwa członkowskiego albo przez organizację międzynarodową, a które nie są poręczone lub gwarantowane przez Skarb Państwa, państwo członkowskie albo w przypadku państwa federalnego będącego państwem członkowskim przez jednego z członków federacji:
     - **a)** informacje o emisji lub programie emisji, a także o sytuacji prawnej i finansowej emitenta przed emisją instrumentu rynku pieniężnego, które podlegają aktualizacji w sposób regularny oraz w każdym przypadku, gdy ma miejsce znaczące zdarzenie, oraz które są sprawdzane przez wyspecjalizowany i niezależny od emitenta podmiot, oraz
     - **b)** dostępne wiarygodne dane ilościowe dotyczące emisji lub programu emisji;
 
@@ -3515,7 +3705,7 @@ Art. 300–319. (pominięte)
     - **a)** informacje o emisji lub programie emisji lub o sytuacji prawnej i finansowej emitenta przed emisją instrumentu rynku pieniężnego, które podlegają aktualizacji w sposób regularny oraz w każdym przypadku, gdy ma miejsce znaczące zdarzenie, oraz
     - **b)** dostępne wiarygodne dane ilościowe dotyczące emisji lub programu emisji lub inne dane umożliwiające właściwą ocenę ryzyka kredytowego związanego z inwestycjami w takie instrumenty;
 
-- **3)** w przypadku instrumentów rynku pieniężnego, o których mowa w art. 93 ust. 1 pkt 4 lit. a, z wyjątkiem instrumentów emitowanych przez Narodowy Bank Polski, bank centralny państwa członkowskiego albo przez Europejski Bank Centralny oraz instrumentów rynku pieniężnego, o których mowa w pkt 1 – informacje o emisji lub programie emisji lub informacje o sytuacji prawnej i finansowej emitenta przed emisją instrumentu rynku pieniężnego.
+- **3)** w przypadku instrumentów rynku pieniężnego, o których mowa w art. 93 ust. 1 pkt 4 lit. a, z wyjątkiem instrumentów emitowanych przez Narodowy Bank Polski, bank centralny państwa członkowskiego albo przez Europejski Bank Centralny oraz instrumentów rynku pieniężnego, o których mowa w pkt 1 informacje o emisji lub programie emisji lub informacje o sytuacji prawnej i finansowej emitenta przed emisją instrumentu rynku pieniężnego.
 
 5. Za podmiot, o którym mowa w art. 93 ust. 1 pkt 4 lit. b, podlegający i stosujący się do zasad, które są co najmniej tak rygorystyczne jak określone prawem wspólnotowym, uznaje się podmiot, który:
 
@@ -3562,7 +3752,7 @@ Art. 300–319. (pominięte)
 - **6)** sposób wyznaczenia maksymalnego zaangażowania funduszu w instrumenty pochodne,
 - **7)** (uchylony)
 - **8)** warunki, jakie muszą spełniać uznane indeksy,
-- **9)** warunki, jakie muszą spełniać indeksy stanowiące bazę instrumentów pochodnych, w tym niewystandaryzowanych instrumentów pochodnych – w celu zapewnienia ochrony interesów uczestników funduszu inwestycyjnego otwartego.
+- **9)** warunki, jakie muszą spełniać indeksy stanowiące bazę instrumentów pochodnych, w tym niewystandaryzowanych instrumentów pochodnych w celu zapewnienia ochrony interesów uczestników funduszu inwestycyjnego otwartego.
 
 **Art. 94a.**
 
@@ -3650,9 +3840,9 @@ Art. 300–319. (pominięte)
     - **a)** instytucje te oferują publicznie tytuły uczestnictwa i umarzają je na żądanie uczestnika bezpośrednio lub pośrednio z aktywów tych instytucji albo zapewniają, że giełdowa wartość tytułów uczestnictwa tych instytucji nie różni się w znaczny sposób od wartości aktywów netto na tytuły uczestnictwa tych instytucji,
     - **b)** instytucje te podlegają nadzorowi właściwego organu nadzoru nad rynkiem finansowym lub kapitałowym państwa członkowskiego lub państwa należącego do OECD oraz zapewniona jest, na zasadzie wzajemności, współpraca Komisji z tym organem,
     - **c)** przepisy właściwe ze względu na siedzibę tych instytucji zapewniają ochronę interesów inwestorów w zakresie co najmniej takim, jak określoną w prawie wspólnotowym regulującym zasady zbiorowego inwestowania w papiery wartościowe,
-    - **d)** instytucje te są obowiązane do sporządzania rocznych i półrocznych sprawozdań finansowych – pod warunkiem że nie więcej niż 10 % wartości aktywów tych funduszy inwestycyjnych otwartych, funduszy portfelowych, o których mowa w art. 179 ust. 1, funduszy zagranicznych lub instytucji może być, zgodnie z ich statutem lub regulaminem, zainwestowana łącznie w jednostki uczestnictwa innych funduszy inwestycyjnych otwartych, certyfikaty inwestycyjne innych funduszy portfelowych, o których mowa w art. 179 ust. 1, oraz tytuły uczestnictwa innych funduszy zagranicznych i instytucji wspólnego inwestowania.
+    - **d)** instytucje te są obowiązane do sporządzania rocznych i półrocznych sprawozdań finansowych pod warunkiem że nie więcej niż 10 % wartości aktywów tych funduszy inwestycyjnych otwartych, funduszy portfelowych, o których mowa w art. 179 ust. 1, funduszy zagranicznych lub instytucji może być, zgodnie z ich statutem lub regulaminem, zainwestowana łącznie w jednostki uczestnictwa innych funduszy inwestycyjnych otwartych, certyfikaty inwestycyjne innych funduszy portfelowych, o których mowa w art. 179 ust. 1, oraz tytuły uczestnictwa innych funduszy zagranicznych i instytucji wspólnego inwestowania.
 
-2. Fundusz inwestycyjny otwarty nie może lokować więcej niż 20 % wartości swoich aktywów w jednostki uczestnictwa jednego funduszu inwestycyjnego otwartego, certyfikaty inwestycyjne jednego funduszu portfelowego, o którym mowa w art. 179 ust. 1, lub tytuły uczestnictwa funduszu zagranicznego lub tytuły uczestnictwa instytucji wspólnego inwestowania, o której mowa w ust. 1, a jeżeli ten fundusz inwestycyjny otwarty, fundusz portfelowy, o którym mowa w art. 179 ust. 1, fundusz zagraniczny lub instytucja wspólnego inwestowania jest funduszem z wydzielonymi subfunduszami lub funduszem lub instytucją składającą się z subfunduszy i każdy z subfunduszy stosuje inną politykę inwestycyjną – więcej niż 20 % wartości swoich aktywów w jednostki uczestnictwa, certyfikaty inwestycyjne lub tytuły uczestnictwa jednego subfunduszu. W przypadku lokat w jednostki uczestnictwa, certyfikaty inwestycyjne lub tytuły uczestnictwa jednego subfunduszu, o których mowa w zdaniu poprzednim, prospekt informacyjny funduszu powinien zawierać informację o dodatkowym ryzyku związanym z takimi lokatami funduszu.
+2. Fundusz inwestycyjny otwarty nie może lokować więcej niż 20 % wartości swoich aktywów w jednostki uczestnictwa jednego funduszu inwestycyjnego otwartego, certyfikaty inwestycyjne jednego funduszu portfelowego, o którym mowa w art. 179 ust. 1, lub tytuły uczestnictwa funduszu zagranicznego lub tytuły uczestnictwa instytucji wspólnego inwestowania, o której mowa w ust. 1, a jeżeli ten fundusz inwestycyjny otwarty, fundusz portfelowy, o którym mowa w art. 179 ust. 1, fundusz zagraniczny lub instytucja wspólnego inwestowania jest funduszem z wydzielonymi subfunduszami lub funduszem lub instytucją składającą się z subfunduszy i każdy z subfunduszy stosuje inną politykę inwestycyjną więcej niż 20 % wartości swoich aktywów w jednostki uczestnictwa, certyfikaty inwestycyjne lub tytuły uczestnictwa jednego subfunduszu. W przypadku lokat w jednostki uczestnictwa, certyfikaty inwestycyjne lub tytuły uczestnictwa jednego subfunduszu, o których mowa w zdaniu poprzednim, prospekt informacyjny funduszu powinien zawierać informację o dodatkowym ryzyku związanym z takimi lokatami funduszu.
 
 3. Łączna wartość lokat w certyfikaty inwestycyjne funduszy portfelowych, o których mowa w art. 179 ust. 1, oraz tytuły uczestnictwa instytucji wspólnego inwestowania inne niż jednostki uczestnictwa funduszy inwestycyjnych otwartych lub tytuły uczestnictwa funduszy zagranicznych nie może przewyższać 30 % wartości aktywów funduszu.
 
@@ -3676,9 +3866,9 @@ Art. 300–319. (pominięte)
 - **2)** wartość zabezpieczenia, wyceniona według metody przyjętej przez fundusz dla wyceny aktywów funduszu, będzie co najmniej równa wartości pożyczonych papierów wartościowych w każdym dniu wyceny aktywów funduszu do dnia zwrotu pożyczonych papierów wartościowych;
 - **3)** pożyczka zostanie udzielona na okres nie dłuższy niż 12 miesięcy;
 - **4)** zabezpieczenie mogące być przedmiotem zapisu na rachunkach funduszu będzie ewidencjonowane na rachunkach funduszu, a zabezpieczenie niemogące być przedmiotem zapisu na rachunkach funduszu będzie udokumentowane przez złożenie u depozytariusza prowadzącego rejestr aktywów funduszu odpowiednich dokumentów potwierdzających ustanowienie zabezpieczenia; w przypadku pożyczek udzielanych w ramach systemu zabezpieczenia płynności rozliczeń zabezpieczenie będzie ewidencjonowane na zasadach określonych w regulaminie, o którym mowa w:
-    - **a)** art. 50 ust. 1 ustawy o obrocie instrumentami finansowymi – w przypadku Krajowego Depozytu Papierów Wartościowych Spółka Akcyjna,
-    - **b)** art. 48 ust. 15 ustawy o obrocie instrumentami finansowymi – w przypadku spółki, której Krajowy Depozyt Papierów Wartościowych Spółka Akcyjna przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 ustawy o obrocie instrumentami finansowymi,
-    - **c)** art. 68d ust. 2 ustawy o obrocie instrumentami finansowymi – w przypadku izby rozliczeniowej, o której mowa w art. 68a ust. 1 ustawy o obrocie instrumentami finansowymi.
+    - **a)** art. 50 ust. 1 ustawy o obrocie instrumentami finansowymi w przypadku Krajowego Depozytu Papierów Wartościowych Spółka Akcyjna,
+    - **b)** art. 48 ust. 15 ustawy o obrocie instrumentami finansowymi w przypadku spółki, której Krajowy Depozyt Papierów Wartościowych Spółka Akcyjna przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 ustawy o obrocie instrumentami finansowymi,
+    - **c)** art. 68d ust. 2 ustawy o obrocie instrumentami finansowymi w przypadku izby rozliczeniowej, o której mowa w art. 68a ust. 1 ustawy o obrocie instrumentami finansowymi.
 
 2. Łączna wartość pożyczonych papierów wartościowych nie może przekroczyć 30 % wartości aktywów netto funduszu.
 
@@ -3764,8 +3954,8 @@ Art. 300–319. (pominięte)
 
 1. W razie śmierci uczestnika funduszu inwestycyjnego otwartego, fundusz jest obowiązany na żądanie:
 
-- **1)** osoby, która przedstawi rachunki stwierdzające wysokość poniesionych przez nią wydatków związanych z pogrzebem uczestnika – odkupić jednostki uczestnictwa uczestnika zapisane w rejestrze uczestników funduszu, do wartości nieprzekraczającej kosztów urządzenia pogrzebu zgodnie ze zwyczajami przyjętymi w danym środowisku, oraz wypłacić tej osobie kwotę uzyskaną z tego odkupienia;
-- **2)** osoby, którą uczestnik wskazał funduszowi w pisemnej dyspozycji – odkupić jednostki uczestnictwa uczestnika zapisane w rejestrze uczestników funduszu do wartości nie wyższej niż przypadające na ostatni miesiąc przed śmiercią uczestnika funduszu dwudziestokrotne przeciętne miesięczne wynagrodzenie w sektorze przedsiębiorstw bez wypłat nagród z zysku, ogłaszane przez Prezesa Głównego Urzędu Statystycznego, oraz nieprzekraczającej łącznej wartości jednostek uczestnictwa zapisanych w rejestrze uczestnika, oraz wypłacić tej osobie kwotę uzyskaną z tego odkupienia.
+- **1)** osoby, która przedstawi rachunki stwierdzające wysokość poniesionych przez nią wydatków związanych z pogrzebem uczestnika odkupić jednostki uczestnictwa uczestnika zapisane w rejestrze uczestników funduszu, do wartości nieprzekraczającej kosztów urządzenia pogrzebu zgodnie ze zwyczajami przyjętymi w danym środowisku, oraz wypłacić tej osobie kwotę uzyskaną z tego odkupienia;
+- **2)** osoby, którą uczestnik wskazał funduszowi w pisemnej dyspozycji odkupić jednostki uczestnictwa uczestnika zapisane w rejestrze uczestników funduszu do wartości nie wyższej niż przypadające na ostatni miesiąc przed śmiercią uczestnika funduszu dwudziestokrotne przeciętne miesięczne wynagrodzenie w sektorze przedsiębiorstw bez wypłat nagród z zysku, ogłaszane przez Prezesa Głównego Urzędu Statystycznego, oraz nieprzekraczającej łącznej wartości jednostek uczestnictwa zapisanych w rejestrze uczestnika, oraz wypłacić tej osobie kwotę uzyskaną z tego odkupienia.
 
 2. Przepis ust. 1 nie dotyczy jednostek uczestnictwa zapisanych we wspólnym rejestrze uczestnika i innej osoby.
 
@@ -3795,7 +3985,7 @@ Art. 300–319. (pominięte)
 
 - **1)** osoby prawne,
 - **2)** jednostki organizacyjne nieposiadające osobowości prawnej,
-- **3)** osoby fizyczne, które dokonają jednorazowej wpłaty do funduszu w wysokości nie mniejszej niż równowartość w złotych 40 000 euro, ustaloną przy zastosowaniu średniego kursu walut obcych ogłaszanego przez Narodowy Bank Polski – fundusz może, przy dokonywaniu lokat aktywów, stosować zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego, jeżeli statut tak stanowi.
+- **3)** osoby fizyczne, które dokonają jednorazowej wpłaty do funduszu w wysokości nie mniejszej niż równowartość w złotych 40 000 euro, ustaloną przy zastosowaniu średniego kursu walut obcych ogłaszanego przez Narodowy Bank Polski fundusz może, przy dokonywaniu lokat aktywów, stosować zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego, jeżeli statut tak stanowi.
 
 3a. Uczestnikami specjalistycznego funduszu inwestycyjnego otwartego, będącego funduszem zdefiniowanej daty, o którym mowa w art. 38 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, lub funduszu, o którym mowa w art. 39 tej ustawy, mogą być wyłącznie osoby fizyczne, w imieniu i na rzecz których została zawarta umowa o prowadzenie PPK, o której mowa w art. 14 tej ustawy.
 
@@ -3822,9 +4012,9 @@ Art. 300–319. (pominięte)
 - **1)** przejęcie zarządzania specjalistycznym funduszem inwestycyjnym otwartym przez inne towarzystwo;
 - **2)** przejęcie zarządzania specjalistycznym funduszem inwestycyjnym otwartym i prowadzenia jego spraw przez zarządzającego z UE.
 
-2. Zgromadzenie uczestników zwołuje towarzystwo zarządzające specjalistycznym funduszem inwestycyjnym otwartym, a w przypadku zawarcia umowy, o której mowa w art. 4 ust. 1b, jeżeli umowa ta tak stanowi – zarządzający z UE.
+2. Zgromadzenie uczestników zwołuje towarzystwo zarządzające specjalistycznym funduszem inwestycyjnym otwartym, a w przypadku zawarcia umowy, o której mowa w art. 4 ust. 1b, jeżeli umowa ta tak stanowi zarządzający z UE.
 
-3. Udział w zgromadzeniu uczestników może odbywać się przy wykorzystaniu środków komunikacji elektronicznej, na zasadach, o których mowa w art. 87a ust. 3b– 3d, chyba że statut funduszu stanowi inaczej. O udziale w zgromadzeniu uczestników w sposób, o którym mowa w zdaniu pierwszym, postanawia zwołujący to zgromadzenie.
+3. Udział w zgromadzeniu uczestników może odbywać się przy wykorzystaniu środków komunikacji elektronicznej, na zasadach, o których mowa w art. 87a ust. 3b–3d, chyba że statut funduszu stanowi inaczej. O udziale w zgromadzeniu uczestników w sposób, o którym mowa w zdaniu pierwszym, postanawia zwołujący to zgromadzenie.
 
 **Art. 114.**
 
@@ -3841,11 +4031,11 @@ Art. 300–319. (pominięte)
 
 2c. Udział w posiedzeniu rady inwestorów przy wykorzystaniu środków komunikacji elektronicznej może podlegać jedynie wymogom i ograniczeniom, które są niezbędne do identyfikacji członków rady inwestorów i zapewnienia bezpieczeństwa komunikacji elektronicznej.
 
-3. Rada inwestorów kontroluje realizację celu inwestycyjnego funduszu i polityki inwestycyjnej oraz stosowanie ograniczeń inwestycyjnych. W tym celu rada inwestorów może przeglądać księgi i dokumenty funduszu oraz żądać wyjaśnień od towarzystwa, a w przypadku zawarcia umowy, o której mowa w art. 4 ust. 1b – również od zarządzającego z UE.
+3. Rada inwestorów kontroluje realizację celu inwestycyjnego funduszu i polityki inwestycyjnej oraz stosowanie ograniczeń inwestycyjnych. W tym celu rada inwestorów może przeglądać księgi i dokumenty funduszu oraz żądać wyjaśnień od towarzystwa, a w przypadku zawarcia umowy, o której mowa w art. 4 ust. 1b również od zarządzającego z UE.
 
 4. Księgi i dokumenty specjalistycznego funduszu inwestycyjnego otwartego powinny być udostępniane członkom rady inwestorów w sposób uniemożliwiający identyfikację innych uczestników funduszu przez tych członków, z tym że obowiązek udostępnienia nie obejmuje rejestru uczestników funduszu.
 
-5. W przypadku stwierdzenia nieprawidłowości w realizowaniu celu inwestycyjnego, polityki inwestycyjnej lub stosowaniu ograniczeń inwestycyjnych, rada inwestorów wzywa towarzystwo, a w przypadku zawarcia umowy, o której mowa w art. 4 ust. 1b – również zarządzającego z UE, do niezwłocznego usunięcia nieprawidłowości oraz zawiadamia o nich Komisję.
+5. W przypadku stwierdzenia nieprawidłowości w realizowaniu celu inwestycyjnego, polityki inwestycyjnej lub stosowaniu ograniczeń inwestycyjnych, rada inwestorów wzywa towarzystwo, a w przypadku zawarcia umowy, o której mowa w art. 4 ust. 1b również zarządzającego z UE, do niezwłocznego usunięcia nieprawidłowości oraz zawiadamia o nich Komisję.
 
 6. Rada inwestorów może postanowić o rozwiązaniu specjalistycznego funduszu inwestycyjnego otwartego. Uchwała o rozwiązaniu funduszu jest podjęta, jeżeli głosy za rozwiązaniem funduszu oddali uczestnicy reprezentujący łącznie co najmniej 2/3 ogólnej liczby jednostek uczestnictwa danego funduszu.
 
@@ -3854,7 +4044,7 @@ Art. 300–319. (pominięte)
 1. Członkiem rady inwestorów specjalistycznego funduszu inwestycyjnego otwartego może być wyłącznie:
 
 - **1)** uczestnik funduszu posiadający jednostki uczestnictwa reprezentujące ponad 5 % ogólnej liczby jednostek w danym funduszu lub
-- **2)** przedstawiciel uczestników funduszu, ustanowiony zgodnie z ust. 2 – jeżeli wyraził pisemną zgodę na udział w radzie.
+- **2)** przedstawiciel uczestników funduszu, ustanowiony zgodnie z ust. 2 jeżeli wyraził pisemną zgodę na udział w radzie.
 
 2. Uczestnicy specjalistycznego funduszu inwestycyjnego otwartego reprezentujący łącznie ponad 5 % ogólnej liczby jednostek uczestnictwa tego funduszu mają prawo wyboru wspólnego przedstawiciela do rady inwestorów, jeżeli statut tak stanowi. O zamiarze dokonania wyboru wspólnego przedstawiciela uczestnicy informują fundusz, który niezwłocznie zawiadamia o spełnieniu przez nich wymagań statutowych, po uprzednim zbadaniu uprawnień tych uczestników.
 
@@ -3868,7 +4058,7 @@ Art. 300–319. (pominięte)
 
 7. Rada inwestorów wznawia działalność, gdy co najmniej trzy osoby spełnią warunki, o których mowa w ust. 1 lub ust. 2.
 
-8. Uprawnienia i obowiązki wynikające z członkostwa w radzie inwestorów członek rady wykonuje osobiście, a w przypadku członków niebędących osobami fizycznymi – przez osoby uprawnione do jego reprezentacji.
+8. Uprawnienia i obowiązki wynikające z członkostwa w radzie inwestorów członek rady wykonuje osobiście, a w przypadku członków niebędących osobami fizycznymi przez osoby uprawnione do jego reprezentacji.
 
 9. Każda jednostka uczestnictwa posiadana przez członka rady lub uczestników, którzy ustanowili przedstawiciela, o którym mowa w ust. 1, daje prawo do jednego głosu w radzie. Uchwały rady są podejmowane bezwzględną większością głosów oddanych.
 
@@ -3925,6 +4115,17 @@ Art. 300–319. (pominięte)
 
 **Art. 116d.** Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia:
 
+- **1)** warunki zawierania przez specjalistyczny fundusz inwestycyjny otwarty stosujący zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego umów, których przedmiotem są instrumenty pochodne,
+- **2)** warunki lokowania przez specjalistyczny fundusz inwestycyjny otwarty stosujący zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego aktywów w niewystandaryzowane instrumenty pochodne,
+- **3)** warunki, jakie powinny spełniać niewystandaryzowane instrumenty pochodne oraz podmioty będące stroną umowy ze specjalistycznym funduszem inwestycyjnym otwartym stosującym zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego,
+- **4)** warunki i zasady zajmowania przez specjalistyczny fundusz inwestycyjny otwarty stosujący zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego pozycji w instrumentach pochodnych,
+- **5)** warunki zajmowania przez specjalistyczny fundusz inwestycyjny otwarty stosujący zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego pozycji w lokatach, o których mowa w art. 145 ust. 1 pkt 5 i 6,
+- **6)** sposób ustalenia oraz maksymalną wartość ryzyka kontrahenta wynikającą z transakcji, których przedmiotem są niewystandaryzowane instrumenty pochodne,
+- **7)** sposób wyznaczenia maksymalnego zaangażowania specjalistycznego funduszu inwestycyjnego otwartego stosującego zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego w instrumenty pochodne,
+- **8)** sposób wyznaczenia maksymalnego zaangażowania specjalistycznego funduszu inwestycyjnego otwartego stosującego zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego w lokaty, o których mowa w art. 145 ust. 1 pkt 5 i 6,
+- **9)** warunki, jakie muszą spełniać uznane indeksy,
+- **10)** warunki, jakie muszą spełniać indeksy stanowiące bazę instrumentów pochodnych, w tym niewystandaryzowanych instrumentów pochodnych w celu zapewnienia ochrony interesu uczestników specjalistycznego funduszu inwestycyjnego otwartego, mając na względzie możliwość stosowania przez specjalistyczny fundusz inwestycyjny otwarty zasad i ograniczeń inwestycyjnych określonych dla funduszu inwestycyjnego otwartego albo funduszu inwestycyjnego zamkniętego.
+
 #### Rozdział 3 Fundusze inwestycyjne zamknięte
 
 **Art. 117.**
@@ -3961,14 +4162,14 @@ Art. 300–319. (pominięte)
 1. Do wniosku funduszu inwestycyjnego o wydanie zezwolenia, o którym mowa w art. 117a ust. 1, załącza się:
 
 - **1)** statut funduszu inwestycyjnego;
-- **2)** prospekt – jeżeli obowiązek jego sporządzenia i zatwierdzenia wynika z przepisów rozporządzenia 2017/1129 lub rozdziału 2 ustawy o ofercie publicznej;
+- **2)** prospekt jeżeli obowiązek jego sporządzenia i zatwierdzenia wynika z przepisów rozporządzenia 2017/1129 lub rozdziału 2 ustawy o ofercie publicznej;
 - **3)** umowę z depozytariuszem o wykonywanie funkcji depozytariusza funduszu inwestycyjnego;
 - **4)** dane osobowe członków zarządu depozytariusza odpowiedzialnych za wykonywanie funkcji depozytariusza przez jego jednostkę organizacyjną wraz z opisem ich kwalifikacji i doświadczeń zawodowych;
 - **5)** dane osobowe osób zatrudnionych w towarzystwie lub w podmiotach, o których mowa w art. 46 ust. 1–3, które mają istotny wpływ na działalność funduszu, w tym w szczególności na decyzje inwestycyjne funduszu;
 - **6)** dane osobowe osób wyznaczonych przez depozytariusza do wykonywania obowiązków określonych w umowie;
 - **7)** informacje o kwalifikacjach i doświadczeniu zawodowym osób, o których mowa w pkt 5, w szczególności w zakresie lokowania w papiery wartościowe i inne prawa majątkowe stanowiące przedmiot lokat funduszu, oraz informacje z Krajowego Rejestru Karnego;
 - **8)** odpisy z właściwego rejestru podmiotów, którym towarzystwo powierzyło wykonywanie czynności na podstawie umowy, o której mowa w art. 45a ust. 1;
-- **9)** wskazanie inicjatora przeniesienia ryzyka z wierzytelności oraz podstawowych warunków umów zawartych przez towarzystwo w związku z procesem przeniesienia ryzyka z wierzytelności – w przypadku standaryzowanego funduszu wierzytelności;
+- **9)** wskazanie inicjatora przeniesienia ryzyka z wierzytelności oraz podstawowych warunków umów zawartych przez towarzystwo w związku z procesem przeniesienia ryzyka z wierzytelności w przypadku standaryzowanego funduszu wierzytelności;
 - **10)** oświadczenie firmy audytorskiej o zgodności metod i zasad wyceny aktywów funduszu opisanych w statucie z przepisami dotyczącymi rachunkowości funduszy inwestycyjnych, a także o zgodności i kompletności tych zasad z przyjętą przez fundusz polityką inwestycyjną;
 - **11)** bilans i rachunek wyniku z operacji funduszu inwestycyjnego sporządzone w zakresie wskazanym w przepisach dotyczących rachunkowości funduszy inwestycyjnych, na dzień ostatniej wyceny aktywów funduszu;
 - **12)** opis portfela inwestycyjnego funduszu inwestycyjnego w zakresie nie mniejszym niż wskazany w przepisach dotyczących rachunkowości funduszy inwestycyjnych, sporządzony na dzień przypadający nie później niż 14 dni przed dniem złożenia wniosku;
@@ -3996,7 +4197,7 @@ Art. 300–319. (pominięte)
     - **b)** art. 1 ust. 4 lit. b rozporządzenia 2017/1129, lub
 
 - **2)** dopuszczone do obrotu na rynku regulowanym, lub
-- **3)** wprowadzone do alternatywnego systemu obrotu – w depozycie papierów wartościowych.
+- **3)** wprowadzone do alternatywnego systemu obrotu w depozycie papierów wartościowych.
 
 **Art. 118.**
 
@@ -4004,7 +4205,7 @@ Art. 300–319. (pominięte)
 
 2. (uchylony)
 
-3. Z wnioskiem o zatwierdzenie prospektu emisyjnego lub memorandum informacyjnego, o których mowa w ust. 1, występuje towarzystwo, a w przypadku, o którym mowa w art. 38 ust. 2 – spółka akcyjna ubiegająca się o uzyskanie zezwolenia na wykonywanie działalności przez towarzystwo.
+3. Z wnioskiem o zatwierdzenie prospektu emisyjnego lub memorandum informacyjnego, o których mowa w ust. 1, występuje towarzystwo, a w przypadku, o którym mowa w art. 38 ust. 2 spółka akcyjna ubiegająca się o uzyskanie zezwolenia na wykonywanie działalności przez towarzystwo.
 
 **Art. 119.**
 
@@ -4015,7 +4216,7 @@ Art. 300–319. (pominięte)
     - **b)** art. 1 ust. 4 lit. b rozporządzenia 2017/1129, lub
 
 - **2)** dopuszczone do obrotu na rynku regulowanym, lub
-- **3)** wprowadzone do alternatywnego systemu obrotu – jest równoznaczne z zatwierdzeniem prospektu lub memorandum informacyjnego pierwszej emisji certyfikatów inwestycyjnych funduszu zgodnie z przepisami rozporządzenia 2017/1129 lub rozdziału 2 ustawy o ofercie publicznej, jeżeli obowiązek ich sporządzenia i zatwierdzenia wynika z przepisów tego rozporządzenia lub tej ustawy.
+- **3)** wprowadzone do alternatywnego systemu obrotu jest równoznaczne z zatwierdzeniem prospektu lub memorandum informacyjnego pierwszej emisji certyfikatów inwestycyjnych funduszu zgodnie z przepisami rozporządzenia 2017/1129 lub rozdziału 2 ustawy o ofercie publicznej, jeżeli obowiązek ich sporządzenia i zatwierdzenia wynika z przepisów tego rozporządzenia lub tej ustawy.
 
 2. Publiczny fundusz inwestycyjny zamknięty jest obowiązany do emitowania certyfikatów inwestycyjnych wyłącznie w drodze oferty publicznej, z wyjątkiem oferty publicznej, która nie wymaga sporządzenia prospektu na podstawie:
 
@@ -4035,7 +4236,7 @@ Art. 300–319. (pominięte)
     - **b)** art. 1 ust. 4 lit. b rozporządzenia 2017/1129, lub
 
 - **2)** dopuszczone do obrotu na rynku regulowanym, lub
-- **3)** wprowadzone do alternatywnego systemu obrotu – jest obowiązany, w terminie 14 dni od dnia wpisania funduszu do rejestru funduszy inwestycyjnych oraz od dnia zamknięcia każdej kolejnej emisji certyfikatów, do złożenia wniosku o dopuszczenie certyfikatów inwestycyjnych do obrotu na rynku regulowanym lub o wprowadzenie do alternatywnego systemu obrotu.
+- **3)** wprowadzone do alternatywnego systemu obrotu jest obowiązany, w terminie 14 dni od dnia wpisania funduszu do rejestru funduszy inwestycyjnych oraz od dnia zamknięcia każdej kolejnej emisji certyfikatów, do złożenia wniosku o dopuszczenie certyfikatów inwestycyjnych do obrotu na rynku regulowanym lub o wprowadzenie do alternatywnego systemu obrotu.
 
 2. W przypadku zmiany statutu funduszu, o której mowa w art. 117a ust. 1, która nie jest połączona z nową emisją certyfikatów inwestycyjnych, fundusz jest obowiązany do złożenia wniosku, o którym mowa w ust. 1, w terminie 14 dni od dnia uzyskania zezwolenia.
 
@@ -4078,112 +4279,11 @@ Art. 300–319. (pominięte)
 
 **Art. 122.** Certyfikaty inwestycyjne nie mogą mieć formy dokumentu.
 
-**Art. 122a.**
-
-1. Certyfikaty inwestycyjne funduszu inwestycyjnego zamkniętego podlegają zarejestrowaniu w depozycie papierów wartościowych prowadzonym zgodnie z przepisami ustawy o obrocie instrumentami finansowymi.
-
-2. Certyfikaty inwestycyjne funduszu inwestycyjnego zamkniętego, który nie jest publicznym funduszem inwestycyjnym zamkniętym, mogą podlegać zarejestrowaniu w ewidencji uczestników funduszu, jeżeli statut funduszu tak stanowi.
-
-3. Ewidencję uczestników funduszu prowadzi towarzystwo będące organem funduszu inwestycyjnego zamkniętego, który nie jest publicznym funduszem inwestycyjnym zamkniętym, lub zarządzający z UE, który zarządza tym funduszem i prowadzi jego sprawy.
-
-4. Towarzystwo lub zarządzający z UE mogą powierzyć prowadzenie ewidencji uczestników funduszu:
-
-- **1)** podmiotowi, który na podstawie przepisów ustawy o obrocie instrumentami finansowymi jest uprawniony do prowadzenia rachunków papierów wartościowych, albo
-- **2)** podmiotowi prowadzącemu rejestr uczestników funduszu inwestycyjnego.
-
-5. W statucie funduszu inwestycyjnego zamkniętego, który nie jest publicznym funduszem inwestycyjnym zamkniętym, zamieszcza się informacje o systemie rejestracji certyfikatów inwestycyjnych tego funduszu, a w przypadku gdy certyfikaty inwestycyjne podlegają zarejestrowaniu w ewidencji uczestników funduszu, także firmę (nazwę), siedzibę i adres podmiotu prowadzącego tę ewidencję.
-
-6. Ewidencja uczestników funduszu zawiera:
-
-- **1)** nazwę funduszu inwestycyjnego zamkniętego, który nie jest publicznym funduszem inwestycyjnym zamkniętym;
-- **2)** firmę, siedzibę i adres towarzystwa zarządzającego funduszem inwestycyjnym zamkniętym, który nie jest publicznym funduszem inwestycyjnym zamkniętym, a w przypadku gdy towarzystwo zawarło umowę, o której mowa w art. 4 ust. 1b, dodatkowo firmę, siedzibę i adres zarządzającego z UE;
-- **3)** w przypadku osoby fizycznej:
-    - **a)** dane osobowe posiadacza certyfikatu inwestycyjnego,
-    - **b)** adres korespondencyjny posiadacza certyfikatu inwestycyjnego, jeżeli go posiada,
-    - **c)** adres poczty elektronicznej posiadacza certyfikatu inwestycyjnego, jeżeli posiadacz ten wyraził zgodę na komunikację w sprawach związanych z uczestnictwem w funduszu inwestycyjnym zamkniętym, który nie jest publicznym funduszem inwestycyjnym zamkniętym, przy wykorzystaniu środków komunikacji elektronicznej;
-
-- **4)** w przypadku osoby prawnej albo jednostki organizacyjnej nieposiadającej osobowości prawnej:
-    - **a)** firmę (nazwę) posiadacza certyfikatu inwestycyjnego,
-    - **b)** adres siedziby posiadacza certyfikatu inwestycyjnego oraz adres korespondencyjny tego posiadacza, jeżeli go posiada, albo adres do doręczeń elektronicznych, a także adres jego poczty elektronicznej, jeżeli posiadacz ten wyraził zgodę na komunikację w sprawach związanych z uczestnictwem w funduszu inwestycyjnym zamkniętym, który nie jest publicznym funduszem inwestycyjnym zamkniętym, przy wykorzystaniu środków komunikacji elektronicznej,
-    - **c)** numer w Krajowym Rejestrze Sądowym posiadacza certyfikatu inwestycyjnego oraz jego numer identyfikacyjny REGON, w przypadku gdy został mu nadany, a także identyfikator podmiotu prawnego zgodny z normą ISO 17442 nadany temu posiadaczowi przez podmiot uprawniony do rejestrowania takich identyfikatorów (kod LEI);
-
-- **5)** dane dotyczące certyfikatów inwestycyjnych poszczególnych emisji należących do posiadacza certyfikatów inwestycyjnych:
-    - **a)** liczbę i rodzaj certyfikatów oraz serię lub międzynarodowy numer identyfikacyjny papieru wartościowego zgodny z normą ISO 6166 nadany przez podmiot uprawniony do rejestrowania takich numerów (kod ISIN) certyfikatów inwestycyjnych,
-    - **b)** w przypadku certyfikatu inwestycyjnego imiennego uprzywilejowanego w zakresie prawa głosu – liczbę głosów przypadających na taki certyfikat,
-    - **c)** wskazanie ograniczeń zbywalności certyfikatu,
-    - **d)** wzmiankę o tym, czy certyfikaty zostały w pełni opłacone,
-    - **e)** informację o ustanowionych blokadach certyfikatów inwestycyjnych w ewidencji uczestników funduszu,
-    - **f)** informację o ustanowionych obciążeniach na certyfikatach inwestycyjnych,
-    - **g)** datę i czas operacji.
-
-7. Ewidencja uczestników funduszu jest prowadzona w postaci elektronicznej. Podmiot prowadzący tę ewidencję prowadzi ją w sposób, który zapewnia bezpieczeństwo i integralność zawartych w niej danych.
-
-8. Na żądanie uczestnika funduszu podmiot prowadzący ewidencję uczestników funduszu wydaje zaświadczenie o zarejestrowaniu certyfikatu inwestycyjnego w tej ewidencji. Zaświadczenie zawiera informacje określone w ust. 6.
-
-**Art. 122b.**
-
-1. Podmiot prowadzący ewidencję uczestników funduszu, w terminie 15 dni od dnia zakończenia miesiąca, w którym w ewidencji uczestników funduszu zostały zarejestrowane certyfikaty inwestycyjne funduszu inwestycyjnego zamkniętego, który nie jest publicznym funduszem inwestycyjnym zamkniętym, określonej emisji przekazuje Krajowemu Depozytowi Papierów Wartościowych Spółce Akcyjnej informacje dotyczące tych certyfikatów inwestycyjnych, sporządzone według stanu na ostatni dzień tego miesiąca:
-
-- **1)** oznaczenie ich emisji, a w przypadku gdy są związane z subfunduszem – oznaczenie tego subfunduszu;
-- **2)** liczbę zarejestrowanych certyfikatów inwestycyjnych tej emisji;
-- **3)** wskazanie świadczeń wynikających z certyfikatów inwestycyjnych oraz terminów, w których fundusz inwestycyjny zamknięty, który nie jest publicznym funduszem inwestycyjnym zamkniętym, powinien spełniać te świadczenia.
-
-2. Podmiot prowadzący ewidencję uczestników funduszu jest obowiązany przekazywać Krajowemu Depozytowi Papierów Wartościowych Spółce Akcyjnej, w terminie 15 dni od dnia zakończenia każdego kolejnego miesiąca, informacje o wartości świadczeń wynikających z certyfikatów inwestycyjnych funduszu inwestycyjnego zamkniętego, który nie jest publicznym funduszem inwestycyjnym zamkniętym, które stały się wymagalne, sporządzone według stanu na ostatni dzień tego miesiąca, ze wskazaniem, czy i w jakim zakresie świadczenia te zostały spełnione, a także aktualizować informacje, o których mowa w ust. 1, w przypadku gdy przestały one odpowiadać stanowi rzeczywistemu. Obowiązek ten wygasa wraz z przekazaniem Krajowemu Depozytowi Papierów Wartościowych Spółce Akcyjnej informacji, z której wynika, że fundusz inwestycyjny zamknięty, który nie jest publicznym funduszem inwestycyjnym zamkniętym, nie posiada zobowiązań z tytułu wyemitowanych certyfikatów inwestycyjnych.
-
-3. W informacjach, o których mowa w ust. 1 i 2, podmiot prowadzący ewidencję uczestników funduszu wskazuje kod LEI identyfikujący fundusz inwestycyjny zamknięty, który nie jest publicznym funduszem inwestycyjnym zamkniętym. Fundusz inwestycyjny zamknięty, który nie jest publicznym funduszem inwestycyjnym zamkniętym, jest obowiązany uzyskać kod LEI przed terminem przekazania po raz pierwszy informacji, o których mowa w ust. 1, oraz utrzymywać jego aktualność co najmniej do dnia, w którym wygaśnie obowiązek, o którym mowa w ust. 2.
-
-4. Informacje, o których mowa w ust. 1 i 2, są przekazywane w postaci elektronicznej za pomocą oprogramowania interfejsowego dostępnego na stronie internetowej Krajowego Depozytu Papierów Wartościowych Spółki Akcyjnej.
-
-**Art. 122c.**
-
-1. Rejestracja certyfikatów inwestycyjnych funduszu inwestycyjnego zamkniętego, który nie jest publicznym funduszem inwestycyjnym zamkniętym, w:
-
-- **1)** ewidencji uczestników funduszu – w przypadku gdy są one zarejestrowane w depozycie papierów wartościowych,
-- **2)** depozycie papierów wartościowych – w przypadku gdy są one zarejestrowane w ewidencji uczestników funduszu – wymaga zgody zgromadzenia inwestorów na zmianę systemu rejestracji certyfikatów inwestycyjnych oraz zmiany statutu funduszu w zakresie, o którym mowa w art. 122a ust. 5.
-
-2. Jeżeli statut funduszu inwestycyjnego zamkniętego, który nie jest publicznym funduszem inwestycyjnym zamkniętym, nie przewiduje działania zgromadzenia inwestorów, towarzystwo jest obowiązane do dokonania zmiany statutu funduszu w zakresie dotyczącym wprowadzenia zgromadzenia inwestorów w celu wyrażenia zgody na zmianę systemu rejestracji certyfikatów inwestycyjnych.
-
-3. Zmiana statutu funduszu w zakresie, o którym mowa w art. 122a ust. 5, wchodzi w życie w terminie, który nie może być krótszy niż 14 dni od dnia ogłoszenia o zmianie statutu funduszu.
-
-4. Zgoda, o której mowa w ust. 1, jest udzielana, jeżeli głosy za zmianą systemu rejestracji certyfikatów inwestycyjnych oddali uczestnicy reprezentujący łącznie więcej niż połowę ogólnej liczby certyfikatów inwestycyjnych funduszu. Jeżeli w głosowaniu głosy oddali uczestnicy reprezentujący nie więcej niż połowę ogólnej liczby certyfikatów inwestycyjnych funduszu, towarzystwo może zwołać kolejne zgromadzenie inwestorów funduszu w celu wyrażenia zgody na zmianę systemu rejestracji certyfikatów inwestycyjnych. W przypadku gdy mimo dwukrotnie prawidłowo zwołanego zgromadzenia inwestorów głosy oddali uczestnicy reprezentujący nie więcej niż połowę ogólnej liczby certyfikatów inwestycyjnych funduszu, przyjmuje się, że zgoda, o której mowa w ust. 1, jest udzielana, jeżeli głosy za zmianą systemu rejestracji certyfikatów inwestycyjnych oddała więcej niż połowa uczestników obecnych lub reprezentowanych podczas każdego głosowania.
-
-**Art. 122d.**
-
-1. W przypadku udzielenia przez zgromadzenie inwestorów zgody na zmianę systemu rejestracji certyfikatów inwestycyjnych, o której mowa w art. 122c ust. 1 pkt 1, fundusz inwestycyjny zamknięty, który nie jest publicznym funduszem inwestycyjnym zamkniętym, rozwiązuje umowę o wykonywanie funkcji agenta emisji certyfikatów inwestycyjnych albo umowę o rejestrację certyfikatów inwestycyjnych tego funduszu w depozycie papierów wartościowych.
-
-2. Rozwiązanie umowy, o której mowa w ust. 1, następuje z upływem 14 dni od dnia złożenia przez fundusz inwestycyjny zamknięty, który nie jest publicznym funduszem inwestycyjnym zamkniętym, oświadczenia o jej rozwiązaniu agentowi emisji, o którym mowa w art. 7a ustawy o obrocie instrumentami finansowymi, albo podmiotowi prowadzącemu depozyt papierów wartościowych, niewcześniej jednak niż z dniem wejścia w życie zmiany statutu funduszu w zakresie, o którym mowa w art. 122a ust. 5. Oświadczenie o rozwiązaniu umowy wskazuje dzień wejścia w życie zmiany statutu funduszu w zakresie, o którym mowa w art. 122a ust. 5. Do oświadczenia dołącza się uchwałę zgromadzenia inwestorów o wyrażeniu zgody, o której mowa w art. 122c ust. 1 pkt 1.
-
-3. Złożenie oświadczenia, o którym mowa w ust. 2, agentowi emisji, o którym mowa w art. 7a ustawy o obrocie instrumentami finansowymi, zwalnia tego agenta z obowiązku, o którym mowa w art. 7a ust. 8b zdanie pierwsze ustawy o obrocie instrumentami finansowymi, w odniesieniu do certyfikatów inwestycyjnych, których dotyczy rozwiązywana umowa.
-
-4. Z dniem rozwiązania umowy, o której mowa w ust. 1, następuje wyrejestrowanie certyfikatów inwestycyjnych z ewidencji prowadzonej przez agenta emisji, o którym mowa w art. 7a ustawy o obrocie instrumentami finansowymi, albo z depozytu papierów wartościowych.
-
-5. W przypadku rozwiązania umowy o rejestrację certyfikatów inwestycyjnych funduszu inwestycyjnego zamkniętego, który nie jest publicznym funduszem inwestycyjnym zamkniętym, w depozycie papierów wartościowych uczestnicy podmiotu prowadzącego ten depozyt są obowiązani przekazać towarzystwu będącemu organem tego funduszu lub zarządzającemu z UE, który zarządza tym funduszem i prowadzi jego sprawy, w terminie 5 dni roboczych od dnia rozwiązania tej umowy, będące w ich posiadaniu informacje, o których mowa w art. 122a ust. 6 pkt 1, 3 i 4 oraz pkt 5 lit. a – w zakresie liczby certyfikatów inwestycyjnych i ich kodu ISIN, oraz lit. e i f. Informacje te są sporządzane według stanu na dzień wyrejestrowania certyfikatów inwestycyjnych z depozytu papierów wartościowych, na podstawie:
-
-- **1)** zapisów dokonanych na prowadzonych przez uczestników rachunkach papierów wartościowych i rachunkach zbiorczych oraz
-- **2)** wskazań dokonanych przez posiadaczy rachunków zbiorczych zgodnie z art. 8a ust. 4 ustawy o obrocie instrumentami finansowymi.
-
-6. W zakresie, w jakim certyfikaty inwestycyjne funduszu inwestycyjnego zamkniętego, który nie jest publicznym funduszem inwestycyjnym zamkniętym, są zapisane na rachunku papierów wartościowych lub rachunku zbiorczym prowadzonym przez podmiot prowadzący depozyt papierów wartościowych, będące w posiadaniu tego podmiotu informacje, o których mowa w art. 122a ust. 6 pkt 1, 3 i 4 oraz pkt 5 lit. a – w zakresie liczby certyfikatów inwestycyjnych i ich kodu ISIN, oraz lit. e i f, są przekazywane przez podmiot prowadzący depozyt papierów wartościowych towarzystwu będącemu organem tego funduszu lub zarządzającemu z UE, który zarządza tym funduszem i prowadzi jego sprawy. Przepis ust. 5 stosuje się odpowiednio.
-
-7. W przypadku gdy certyfikaty inwestycyjne funduszu inwestycyjnego zamkniętego, który nie jest publicznym funduszem inwestycyjnym zamkniętym, są zapisane w ewidencji osób uprawnionych prowadzonej przez agenta emisji, o którym mowa w art. 7a ustawy o obrocie instrumentami finansowymi, agent emisji jest obowiązany przekazać towarzystwu będącemu organem tego funduszu lub zarządzającemu z UE, który zarządza tym funduszem i prowadzi jego sprawy, w terminie 5 dni roboczych od dnia rozwiązania umowy o wykonywanie funkcji agenta emisji certyfikatów inwestycyjnych, będące w jego posiadaniu informacje, o których mowa w art. 122a ust. 6 pkt 1, 3 i 4 oraz pkt 5 lit. a – w zakresie liczby certyfikatów inwestycyjnych i ich kodu ISIN, oraz lit. e i f. Informacje te są sporządzane według stanu na dzień wyrejestrowania certyfikatów inwestycyjnych z ewidencji osób uprawnionych.
-
-**Art. 122e.**
-
-1. W przypadku udzielenia przez zgromadzenie inwestorów zgody na zmianę systemu rejestracji certyfikatów inwestycyjnych, o której mowa w art. 122c ust. 1 pkt 2, towarzystwo będące organem funduszu inwestycyjnego zamkniętego, który nie jest publicznym funduszem inwestycyjnym zamkniętym, albo zarządzający z UE, który zarządza takim funduszem i prowadzi jego sprawy:
-
-- **1)** powierza prowadzenie ewidencji uczestników funduszu podmiotowi, który na podstawie przepisów ustawy o obrocie instrumentami finansowymi jest uprawniony do prowadzenia rachunków papierów wartościowych, będącemu uczestnikiem podmiotu prowadzącego depozyt papierów wartościowych, na okres do dnia zarejestrowania certyfikatów inwestycyjnych w depozycie papierów wartościowych, oraz
-- **2)** zawiera z podmiotem prowadzącym depozyt papierów wartościowych umowę, której przedmiotem jest rejestracja certyfikatów inwestycyjnych w depozycie papierów wartościowych, w terminie 3 miesięcy od dnia udzielenia tej zgody.
-
-2. Przepisu ust. 1 pkt 1 nie stosuje się, w przypadku gdy ewidencja uczestników funduszu prowadzona jest przez podmiot, o którym mowa w art. 122a ust. 4 pkt 1.
-
 **Art. 123.**
 
-1. Do powstawania oraz przenoszenia praw z certyfikatów inwestycyjnych zarejestrowanych w depozycie papierów wartościowych stosuje się przepisy ustawy o obrocie instrumentami finansowymi dotyczące praw ze zdematerializowanych papierów wartościowych.
+1. Certyfikaty inwestycyjne podlegają zarejestrowaniu w depozycie papierów wartościowych prowadzonym zgodnie z przepisami ustawy o obrocie instrumentami finansowymi.
 
-2. Prawa z certyfikatów inwestycyjnych zarejestrowanych w ewidencji uczestników funduszu powstają z chwilą dokonania zapisu w tej ewidencji i przysługują osobie w niej wskazanej jako posiadacz certyfikatu.
-
-3. Umowa zobowiązująca do przeniesienia praw z certyfikatów inwestycyjnych zarejestrowanych w ewidencji uczestników funduszu przenosi te prawa z chwilą dokonania w tej ewidencji zapisu wskazującego nabywcę oraz liczbę i rodzaj nabytych certyfikatów inwestycyjnych, a także ich serię lub kod ISIN.
-
-4. W przypadku gdy nabycie certyfikatu inwestycyjnego zarejestrowanego w ewidencji uczestników funduszu nastąpiło w wyniku zdarzenia powodującego z mocy prawa przeniesienie praw z tego certyfikatu, zapis w tej ewidencji jest dokonywany na żądanie nabywcy.
+2. Do powstawania oraz przenoszenia praw z certyfikatów inwestycyjnych stosuje się przepisy ustawy o obrocie instrumentami finansowymi dotyczące praw ze zdematerializowanych papierów wartościowych.
 
 **Art. 123a.**
 
@@ -4197,7 +4297,7 @@ Art. 300–319. (pominięte)
 
 5. W przypadku, o którym mowa w ust. 2, nie później niż w piątym dniu roboczym następującym po dniu wskazanym w żądaniu, o którym mowa w ust. 1, Krajowy Depozyt Papierów Wartościowych Spółka Akcyjna udostępnia funduszowi inwestycyjnemu zamkniętemu lub towarzystwu funduszy inwestycyjnych, przy wykorzystaniu środków komunikacji elektronicznej, informacje, o których mowa w ust. 1, otrzymane od uczestników, a także sporządzone na podstawie zapisów na rachunkach papierów wartościowych prowadzonych przez Krajowy Depozyt Papierów Wartościowych Spółkę Akcyjną.
 
-6. Fundusz inwestycyjny zamknięty lub towarzystwo funduszy inwestycyjnych może żądać sprostowania niekompletnych lub nieprawidłowych informacji przekazanych w odpowiedzi na żądanie, o którym mowa w ust. 1. Przepisy ust. 1– 5 stosuje się odpowiednio.
+6. Fundusz inwestycyjny zamknięty lub towarzystwo funduszy inwestycyjnych może żądać sprostowania niekompletnych lub nieprawidłowych informacji przekazanych w odpowiedzi na żądanie, o którym mowa w ust. 1. Przepisy ust. 1–5 stosuje się odpowiednio.
 
 7. Przepisy ust. 2–5 w zakresie dotyczącym Krajowego Depozytu Papierów Wartościowych Spółki Akcyjnej stosuje się odpowiednio do spółki, której Krajowy Depozyt Papierów Wartościowych Spółka Akcyjna przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1 ustawy o obrocie instrumentami finansowymi.
 
@@ -4263,7 +4363,7 @@ Art. 300–319. (pominięte)
 
 1. Wpłaty na certyfikaty inwestycyjne drugiej i następnych emisji funduszu inwestycyjnego zamkniętego są dokonywane na wydzielony rachunek bankowy lub rachunek papierów wartościowych funduszu prowadzony przez depozytariusza, z zastrzeżeniem ust. 2.
 
-2. W przypadku wpłat do funduszu dokonywanych w innych niż zdematerializowane papierach wartościowych, udziałach w spółkach z ograniczoną odpowiedzialnością lub prawach, o których mowa w art. 147 ust. 1 pkt 1 lit. a i b oraz pkt 2, osoba zapisująca się na certyfikaty inwestycyjne przenosi, w drodze umowy, zgodnie z odrębnymi przepisami, prawa z tych papierów, udziałów lub prawa, o których mowa w art. 147 ust. 1 pkt 1 lit. a i b oraz pkt 2, na fundusz oraz składa u depozytariusza kopię tej umowy, a w przypadku papierów wartościowych – także te papiery, jeżeli papiery wartościowe nie mają formy dokumentu, dokument potwierdzający ich posiadanie wydany na podstawie właściwych przepisów.
+2. W przypadku wpłat do funduszu dokonywanych w innych niż zdematerializowane papierach wartościowych, udziałach w spółkach z ograniczoną odpowiedzialnością lub prawach, o których mowa w art. 147 ust. 1 pkt 1 lit. a i b oraz pkt 2, osoba zapisująca się na certyfikaty inwestycyjne przenosi, w drodze umowy, zgodnie z odrębnymi przepisami, prawa z tych papierów, udziałów lub prawa, o których mowa w art. 147 ust. 1 pkt 1 lit. a i b oraz pkt 2, na fundusz oraz składa u depozytariusza kopię tej umowy, a w przypadku papierów wartościowych także te papiery, jeżeli papiery wartościowe nie mają formy dokumentu, dokument potwierdzający ich posiadanie wydany na podstawie właściwych przepisów.
 
 2a. Dokonanie wpłaty w prawach, o których mowa w art. 147 ust. 1 pkt 1 lit. a i b oraz pkt 2, wymaga dokonania wyceny tych praw przez fundusz nie później niż miesiąc przed zawarciem umowy, o której mowa w ust. 2, i nie później niż 2 miesiące przed terminem rozpoczęcia zapisów na certyfikaty inwestycyjne funduszu.
 
@@ -4301,11 +4401,7 @@ Art. 300–319. (pominięte)
 
 1. Osobom, które dokonały wpłaty na certyfikaty inwestycyjne drugiej i następnych emisji, fundusz inwestycyjny zamknięty jest obowiązany wydać przydzielone certyfikaty na warunkach i w sposób określony w prospekcie informacyjnym, prospekcie emisyjnym, memorandum informacyjnym albo warunkach emisji.
 
-2. Wydanie, o którym mowa w ust. 1, następuje w chwili zapisania certyfikatu:
-
-- **1)** na rachunku papierów wartościowych uczestnika albo właściwym rachunku zbiorczym, albo
-- **2)** w ewidencji osób uprawnionych z papierów wartościowych prowadzonej przez agenta emisji, o którym mowa w art. 7a ustawy o obrocie instrumentami finansowymi, albo
-- **3)** w ewidencji uczestników funduszu.
+2. Wydanie, o którym mowa w ust. 1, następuje w chwili zapisania certyfikatu na rachunku papierów wartościowych uczestnika albo na właściwym rachunku zbiorczym, albo w chwili wpisania certyfikatu do ewidencji osób uprawnionych z papierów wartościowych prowadzonej przez agenta emisji, o którym mowa w art. 7a ustawy o obrocie instrumentami finansowymi.
 
 3. (uchylony)
 
@@ -4357,7 +4453,7 @@ Art. 300–319. (pominięte)
 
 2a. Udział w posiedzeniu rady inwestorów może odbywać się przy wykorzystaniu środków komunikacji elektronicznej na zasadach, o których mowa w art. 114 ust. 2b–2c, chyba że statut funduszu stanowi inaczej. O udziale w posiedzeniu rady inwestorów w sposób, o którym mowa w zdaniu pierwszym, postanawia zwołujący posiedzenie.
 
-3. Rada inwestorów kontroluje realizację celu inwestycyjnego funduszu inwestycyjnego zamkniętego i polityki inwestycyjnej oraz przestrzeganie ograniczeń inwestycyjnych. W tym celu członkowie rady inwestorów mogą przeglądać księgi i dokumenty funduszu oraz żądać wyjaśnień od towarzystwa, a w przypadku zawarcia umowy, o której mowa w art. 4 ust. 1b – również od zarządzającego z UE.
+3. Rada inwestorów kontroluje realizację celu inwestycyjnego funduszu inwestycyjnego zamkniętego i polityki inwestycyjnej oraz przestrzeganie ograniczeń inwestycyjnych. W tym celu członkowie rady inwestorów mogą przeglądać księgi i dokumenty funduszu oraz żądać wyjaśnień od towarzystwa, a w przypadku zawarcia umowy, o której mowa w art. 4 ust. 1b również od zarządzającego z UE.
 
 4. Statut funduszu inwestycyjnego zamkniętego może rozszerzyć uprawnienia rady inwestorów, przy czym statut może przyznawać radzie inwestorów wpływ na politykę inwestycyjną funduszu, w tym w szczególności przyznawać prawo wiążącego dla zarządzającego funduszem towarzystwa albo zarządzającego z UE sprzeciwu wobec przedstawianych projektów inwestycyjnych, jeżeli w skład rady inwestorów wchodzą uczestnicy posiadający łącznie co najmniej 50 % ogólnej liczby certyfikatów inwestycyjnych funduszu.
 
@@ -4365,14 +4461,14 @@ Art. 300–319. (pominięte)
 
 4b. W przypadku określonym w ust. 4a do podejmowania uchwał przez radę inwestorów stosuje się warunki określone w ustawie lub statucie funduszu inwestycyjnego dotyczące podejmowania uchwał zgromadzenia inwestorów przez uczestników reprezentujących wymaganą minimalną liczbę certyfikatów inwestycyjnych.
 
-5. W przypadku stwierdzenia nieprawidłowości w realizowaniu celu inwestycyjnego, polityki inwestycyjnej lub przestrzeganiu ograniczeń inwestycyjnych, rada inwestorów wzywa towarzystwo, a w przypadku zawarcia umowy, o której mowa w art. 4 ust. 1b – również zarządzającego z UE, do niezwłocznego usunięcia nieprawidłowości oraz zawiadamia o nich Komisję.
+5. W przypadku stwierdzenia nieprawidłowości w realizowaniu celu inwestycyjnego, polityki inwestycyjnej lub przestrzeganiu ograniczeń inwestycyjnych, rada inwestorów wzywa towarzystwo, a w przypadku zawarcia umowy, o której mowa w art. 4 ust. 1b również zarządzającego z UE, do niezwłocznego usunięcia nieprawidłowości oraz zawiadamia o nich Komisję.
 
 6. Rada inwestorów może postanowić o rozwiązaniu funduszu inwestycyjnego zamkniętego. Uchwała o rozwiązaniu funduszu jest podjęta, jeżeli głosy za rozwiązaniem funduszu oddali uczestnicy reprezentujący łącznie co najmniej 2/3 ogólnej liczby certyfikatów inwestycyjnych danego funduszu.
 
 7. Statut funduszu, o którym mowa w art. 196:
 
 - **1)** niebędącego publicznym funduszem inwestycyjnym zamkniętym albo
-- **2)** będącego publicznym funduszem inwestycyjnym zamkniętym emitującym certyfikaty inwestycyjne o cenie emisyjnej jednego certyfikatu nie mniejszej niż równowartość w złotych kwoty 40 000 euro – może przewidywać, że w przypadku, o którym mowa w ust. 6, towarzystwo zarządzające tym funduszem, a w przypadku zawarcia umowy, o której mowa w art. 4 ust. 1b – również zarządzający z UE, będą uprawnieni do pobrania opłaty dodatkowej celem pokrycia kosztów organizacji funduszu i utraconych zysków, z tym że w przypadku uprawnienia obu tych podmiotów – proporcjonalnie do poniesionych kosztów organizacji funduszu i utraconych zysków przez każdy z tych podmiotów.
+- **2)** będącego publicznym funduszem inwestycyjnym zamkniętym emitującym certyfikaty inwestycyjne o cenie emisyjnej jednego certyfikatu nie mniejszej niż równowartość w złotych kwoty 40 000 euro może przewidywać, że w przypadku, o którym mowa w ust. 6, towarzystwo zarządzające tym funduszem, a w przypadku zawarcia umowy, o której mowa w art. 4 ust. 1b również zarządzający z UE, będą uprawnieni do pobrania opłaty dodatkowej celem pokrycia kosztów organizacji funduszu i utraconych zysków, z tym że w przypadku uprawnienia obu tych podmiotów proporcjonalnie do poniesionych kosztów organizacji funduszu i utraconych zysków przez każdy z tych podmiotów.
 
 8. Jeżeli do dokonania czynności prawnej ustawa wymaga zgody rady inwestorów lub zgromadzenia inwestorów, czynność prawna dokonana bez wymaganej zgody jest nieważna. Zgoda może być wyrażona przed dokonaniem czynności prawnej albo po jej dokonaniu, nie później jednak niż w terminie 2 miesięcy od dnia dokonania czynności prawnej. Potwierdzenie wyrażone po dokonaniu czynności prawnej ma moc wsteczną od chwili dokonania czynności prawnej.
 
@@ -4380,7 +4476,7 @@ Art. 300–319. (pominięte)
 
 **Art. 141.**
 
-1. Członkiem rady inwestorów może być wyłącznie uczestnik funduszu inwestycyjnego zamkniętego reprezentujący ponad 5 % ogólnej liczby certyfikatów inwestycyjnych w danym funduszu, który wyraził pisemną zgodę na udział w radzie oraz dokonał blokady certyfikatów inwestycyjnych w liczbie stanowiącej ponad 5 % ogólnej liczby certyfikatów na rachunku papierów wartościowych lub na rachunku zbiorczym, albo w ewidencji osób uprawnionych z papierów wartościowych prowadzonej przez agenta emisji, o którym mowa w art. 7a ustawy o obrocie instrumentami finansowymi, albo w ewidencji uczestników funduszu.
+1. Członkiem rady inwestorów może być wyłącznie uczestnik funduszu inwestycyjnego zamkniętego reprezentujący ponad 5 % ogólnej liczby certyfikatów inwestycyjnych w danym funduszu, który wyraził pisemną zgodę na udział w radzie oraz dokonał blokady certyfikatów inwestycyjnych w liczbie stanowiącej ponad 5 % ogólnej liczby certyfikatów na rachunku papierów wartościowych lub na rachunku zbiorczym, albo w ewidencji osób uprawnionych z papierów wartościowych prowadzonej przez agenta emisji, o którym mowa w art. 7a ustawy o obrocie instrumentami finansowymi.
 
 1a. W przypadku, o którym mowa w ust. 1, każdy certyfikat inwestycyjny objęty blokadą daje prawo do jednego głosu w radzie inwestorów.
 
@@ -4394,8 +4490,8 @@ Art. 300–319. (pominięte)
 
 6. Uprawnienia i obowiązki wynikające z członkostwa w radzie inwestorów uczestnik wykonuje:
 
-- **1)** osobiście lub przez nie więcej niż jednego pełnomocnika – w przypadku uczestników będących osobami fizycznymi;
-- **2)** przez osoby uprawnione do reprezentacji uczestnika lub przez nie więcej niż jednego pełnomocnika – w przypadku uczestników niebędących osobami fizycznymi.
+- **1)** osobiście lub przez nie więcej niż jednego pełnomocnika w przypadku uczestników będących osobami fizycznymi;
+- **2)** przez osoby uprawnione do reprezentacji uczestnika lub przez nie więcej niż jednego pełnomocnika w przypadku uczestników niebędących osobami fizycznymi.
 
 **Art. 142.**
 
@@ -4412,34 +4508,25 @@ Art. 300–319. (pominięte)
 
 1d. Protokół z przebiegu zgromadzenia inwestorów podpisują przewodniczący zgromadzenia inwestorów i osoba sporządzająca protokół. Do protokołu dołącza się listę obecności z podpisami uczestników zgromadzenia inwestorów oraz listę uczestników głosujących przy wykorzystaniu środków komunikacji elektronicznej.
 
-2. Zgromadzenie inwestorów zwołuje towarzystwo zarządzające funduszem, a w przypadku zawarcia umowy, o której mowa w art. 4 ust. 1b, jeżeli umowa ta tak stanowi – zarządzający z UE, ogłaszając o tym co najmniej na 21 dni przed terminem zgromadzenia.
+2. Zgromadzenie inwestorów zwołuje towarzystwo zarządzające funduszem, a w przypadku zawarcia umowy, o której mowa w art. 4 ust. 1b, jeżeli umowa ta tak stanowi zarządzający z UE, ogłaszając o tym co najmniej na 21 dni przed terminem zgromadzenia.
 
 2a. Jeżeli statut funduszu zamkniętego, który nie jest publicznym funduszem inwestycyjnym zamkniętym, tak stanowi, zgromadzenie inwestorów może powziąć uchwały mimo braku formalnego zwołania, jeżeli na zgromadzeniu reprezentowane są wszystkie certyfikaty inwestycyjne danego funduszu i nikt z obecnych nie zgłosił sprzeciwu co do odbycia zgromadzenia inwestorów lub wniesienia poszczególnych spraw do porządku obrad.
 
-3. Uczestnicy funduszu posiadający co najmniej 10 % wyemitowanych przez fundusz certyfikatów inwestycyjnych mogą domagać się zwołania zgromadzenia inwestorów, składając takie żądanie na piśmie zarządowi towarzystwa, a w przypadku zawarcia umowy, o której mowa w art. 4 ust. 1b, jeżeli umowa ta tak stanowi – zarządzającemu z UE.
+3. Uczestnicy funduszu posiadający co najmniej 10 % wyemitowanych przez fundusz certyfikatów inwestycyjnych mogą domagać się zwołania zgromadzenia inwestorów, składając takie żądanie na piśmie zarządowi towarzystwa, a w przypadku zawarcia umowy, o której mowa w art. 4 ust. 1b, jeżeli umowa ta tak stanowi zarządzającemu z UE.
 
 4. Jeżeli towarzystwo albo zarządzający z UE nie zwoła zgromadzenia w terminie 14 dni od dnia zgłoszenia żądania, o którym mowa w ust. 3, sąd rejestrowy może upoważnić do zwołania zgromadzenia, na koszt odpowiednio towarzystwa albo zarządzającego z UE, uczestników występujących z tym żądaniem.
 
 **Art. 143.**
 
-1. Uprawnionymi do udziału w zgromadzeniu inwestorów są uczestnicy funduszu, o których mowa w art. 6 ust. 1:
+1. Uprawnionymi do udziału w zgromadzeniu inwestorów są uczestnicy funduszu, którzy nie później niż na 7 dni przed dniem odbycia zgromadzenia, a w przypadku, o którym mowa w art. 142 ust. 2a, najpóźniej w dniu jego odbycia, złożą towarzystwu świadectwo depozytowe wydane zgodnie z przepisami ustawy o obrocie instrumentami finansowymi, albo zaświadczenie wydane przez agenta emisji, o którym mowa w art. 7a ustawy o obrocie instrumentami finansowymi, prowadzącego ewidencję osób uprawnionych z certyfikatów inwestycyjnych, potwierdzające zablokowanie certyfikatów inwestycyjnych uczestnika w tej ewidencji oraz wskazujące liczbę, rodzaj i serię tych certyfikatów.
 
-- **1)** pkt 1a, którzy niepóźniej niż na 7 dni przed dniem zgromadzenia, a w przypadku, o którym mowa w art. 142 ust. 2a, najpóźniej w dniu zgromadzenia złożą towarzystwu zaświadczenie wydane przez agenta emisji, o którym mowa w art. 7a ustawy o obrocie instrumentami finansowymi, prowadzącego ewidencję osób uprawnionych z certyfikatów inwestycyjnych, potwierdzające zablokowanie certyfikatów inwestycyjnych uczestnika w tej ewidencji oraz wskazujące liczbę, rodzaj i serię lub kod ISIN tych certyfikatów;
-- **2)** pkt 2, którzy niepóźniej niż na 7 dni przed dniem zgromadzenia, a w przypadku, o którym mowa w art. 142 ust. 2a, najpóźniej w dniu zgromadzenia złożą towarzystwu świadectwo depozytowe wydane zgodnie z przepisami ustawy o obrocie instrumentami finansowymi;
-- **3)** pkt 2a, którzy niepóźniej niż na 7 dni przed dniem zgromadzenia, a w przypadku, o którym mowa w art. 142 ust. 2a, najpóźniej w dniu zgromadzenia:
-    - **a)** złożą towarzystwu zaświadczenie, o którym mowa w art. 122a ust. 8, potwierdzające zablokowanie certyfikatów inwestycyjnych uczestnika w ewidencji uczestników funduszu albo
-    - **b)** zgłoszą towarzystwu zamiar udziału w zgromadzeniu – w przypadku gdy ewidencję uczestników funduszu prowadzi towarzystwo.
+1a. (uchylony)
 
-2. W przypadku zawarcia umowy, o której mowa w art. 4 ust. 1b:
+2. Sposób i warunki zwołania zgromadzenia oraz podejmowania uchwał określa statut funduszu.
 
-- **1)** świadectwo depozytowe lub zaświadczenie, o których mowa w ust. 1, składa się zarządzającemu z UE;
-- **2)** zamiar, o którym mowa w ust. 1 pkt 3 lit. b, zgłasza się zarządzającemu z UE, jeżeli prowadzi on ewidencję uczestników funduszu.
+3. (uchylony)
 
-3. Sposób i warunki zwołania zgromadzenia oraz podejmowania uchwał określa statut funduszu.
-
-4. W przypadku, o którym mowa w ust. 1 pkt 3 lit. b oraz ust. 2 pkt 2, odpowiednio towarzystwo albo zarządzający z UE blokuje certyfikaty inwestycyjne uczestnika funduszu w ewidencji uczestników funduszu do czasu zakończenia zgromadzenia inwestorów.
-
-5. W przypadku, o którym mowa w ust. 1 pkt 3 lit. a, blokada certyfikatów inwestycyjnych nie może zostać odwołana do czasu zakończenia zgromadzenia inwestorów.
+4. (uchylony)
 
 **Art. 144.**
 
@@ -4448,7 +4535,7 @@ Art. 300–319. (pominięte)
 2. Statut funduszu, o którym mowa w art. 196:
 
 - **1)** niebędącego publicznym funduszem inwestycyjnym zamkniętym albo
-- **2)** będącego publicznym funduszem inwestycyjnym zamkniętym emitującym certyfikaty inwestycyjne o cenie emisyjnej jednego certyfikatu nie mniejszej niż równowartość w złotych kwoty 40 000 euro – może przewidywać, że w przypadku, o którym mowa w ust. 1, towarzystwo zarządzające tym funduszem, a w przypadku zawarcia umowy, o której mowa w art. 4 ust. 1b – również zarządzający z UE, będą uprawnieni do pobrania opłaty dodatkowej celem pokrycia kosztów organizacji funduszu i utraconych zysków, przy czym w przypadku uprawnienia obu tych podmiotów – proporcjonalnie do poniesionych kosztów organizacji funduszu i utraconych zysków przez każdy z tych podmiotów.
+- **2)** będącego publicznym funduszem inwestycyjnym zamkniętym emitującym certyfikaty inwestycyjne o cenie emisyjnej jednego certyfikatu nie mniejszej niż równowartość w złotych kwoty 40 000 euro może przewidywać, że w przypadku, o którym mowa w ust. 1, towarzystwo zarządzające tym funduszem, a w przypadku zawarcia umowy, o której mowa w art. 4 ust. 1b również zarządzający z UE, będą uprawnieni do pobrania opłaty dodatkowej celem pokrycia kosztów organizacji funduszu i utraconych zysków, przy czym w przypadku uprawnienia obu tych podmiotów proporcjonalnie do poniesionych kosztów organizacji funduszu i utraconych zysków przez każdy z tych podmiotów.
 
 3. Zgromadzenie inwestorów wyraża zgodę na:
 
@@ -4459,8 +4546,7 @@ Art. 300–319. (pominięte)
 - **3)** zmiany statutu funduszu w zakresie wyłączenia prawa pierwszeństwa do nabycia nowej emisji certyfikatów inwestycyjnych;
 - **4)** emisję obligacji;
 - **5)** przekształcenie certyfikatów inwestycyjnych imiennych w certyfikaty na okaziciela;
-- **6)** zmianę statutu funduszu inwestycyjnego, o której mowa w art. 117a ust. 1;
-- **7)** zmianę systemu rejestracji certyfikatów inwestycyjnych, o której mowa w art. 122c ust. 1.
+- **6)** zmianę statutu funduszu inwestycyjnego, o której mowa w art. 117a ust. 1.
 
 4. Uchwała w sprawach, o których mowa w ust. 3 pkt 4–6, jest podjęta, jeżeli głosy za emisją obligacji, przekształceniem certyfikatów inwestycyjnych lub dokonaniem zmiany statutu funduszu inwestycyjnego oddali uczestnicy reprezentujący łącznie co najmniej 2/3 ogólnej liczby certyfikatów inwestycyjnych danego funduszu.
 
@@ -4482,7 +4568,7 @@ Art. 300–319. (pominięte)
 - **4)** waluty,
 - **5)** instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne,
 - **6)** prawa majątkowe, których cena zależy bezpośrednio lub pośrednio od oznaczonych co do gatunku rzeczy, określonych rodzajów energii, mierników i limitów wielkości produkcji lub emisji zanieczyszczeń, dopuszczone do obrotu na giełdach towarowych,
-- **7)** instrumenty rynku pieniężnego – pod warunkiem że są zbywalne.
+- **7)** instrumenty rynku pieniężnego pod warunkiem że są zbywalne.
 
 2. Fundusz inwestycyjny zamknięty, o którym mowa w art. 183 oraz art. 196, może lokować aktywa w zbywalne wierzytelności wobec osób fizycznych.
 
@@ -4514,7 +4600,7 @@ Art. 300–319. (pominięte)
 
 - **1)** regulamin,
 - **2)** prospekt informacyjny oraz kluczowe informacje lub kluczowe informacje dla inwestorów albo prospekt oraz informacje dla klienta alternatywnego funduszu inwestycyjnego,
-- **3)** ostatnie roczne i półroczne sprawozdanie finansowe, jeżeli zostały sporządzone – dotyczące instytucji wspólnego inwestowania, mającej siedzibę za granicą, której tytuły uczestnictwa będą przedmiotem lokat funduszu.
+- **3)** ostatnie roczne i półroczne sprawozdanie finansowe, jeżeli zostały sporządzone dotyczące instytucji wspólnego inwestowania, mającej siedzibę za granicą, której tytuły uczestnictwa będą przedmiotem lokat funduszu.
 
 4. Fundusz inwestycyjny zamknięty może nabywać jednostki uczestnictwa innych funduszy inwestycyjnych zarządzanych przez to samo towarzystwo, gdy możliwość nabywania jednostek uczestnictwa w takich funduszach została określona w statucie funduszu; możliwość ta nie dotyczy nabywania jednostek uczestnictwa w trybie art. 26 ust. 1.
 
@@ -4529,8 +4615,8 @@ Art. 300–319. (pominięte)
 8. Fundusz inwestycyjny zamknięty, o którym mowa w ust. 2, jest obowiązany udostępniać roczne i półroczne sprawozdania finansowe dotyczące instytucji wspólnego inwestowania, których tytuły uczestnictwa są przedmiotem jego lokat:
 
 - **1)** przy prowadzeniu zapisów na certyfikaty inwestycyjne funduszu;
-- **2)** niezwłocznie po ich sporządzeniu, nie później jednak niż w terminie podawania do publicznej wiadomości raportów okresowych zgodnie z przepisami ustawy o ofercie publicznej – w przypadku publicznego funduszu inwestycyjnego zamkniętego;
-- **3)** na żądanie uczestnika – w przypadku funduszu inwestycyjnego zamkniętego, który nie jest publicznym funduszem inwestycyjnym zamkniętym.
+- **2)** niezwłocznie po ich sporządzeniu, nie później jednak niż w terminie podawania do publicznej wiadomości raportów okresowych zgodnie z przepisami ustawy o ofercie publicznej w przypadku publicznego funduszu inwestycyjnego zamkniętego;
+- **3)** na żądanie uczestnika w przypadku funduszu inwestycyjnego zamkniętego, który nie jest publicznym funduszem inwestycyjnym zamkniętym.
 
 **Art. 147.**
 
@@ -4557,7 +4643,7 @@ Art. 300–319. (pominięte)
 
 4. Fundusz nie może przeznaczyć więcej niż 25 % wartości aktywów funduszu łącznie na nabycie jednego z przedmiotów lokat, o których mowa w art. 147 ust. 1, oraz na inwestycje w ten przedmiot lokat.
 
-5. Przez inwestycje, o których mowa w ust. 4, rozumie się budowę lub remont w rozumieniu ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418, 1080, 1535 i 1673).
+5. Przez inwestycje, o których mowa w ust. 4, rozumie się budowę lub remont w rozumieniu ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2025 r. poz. 418, 1080, 1535 i 1673).
 
 **Art. 148a.** W przypadku gdy w skład lokat funduszu inwestycyjnego zamkniętego wchodzą papiery wartościowe wyemitowane w ramach sekurytyzacji, która przestała spełniać wymagania określone w rozporządzeniu 2017/2402, fundusz ten, w przypadku gdy jest to konieczne, podejmuje stosowne działania w najlepiej pojętym interesie uczestników funduszu inwestycyjnego.
 
@@ -4565,7 +4651,7 @@ Art. 300–319. (pominięte)
 
 **Art. 150.**
 
-1. W przypadku określonym w art. 36a ust. 1 pkt 1 czynności wyceny aktywów funduszu określonych w art. 147 ust. 1 i 2 są dokonywane przez zespół co najmniej trzech osób, w skład którego wchodzą wyłącznie rzeczoznawcy majątkowi uprawnieni do szacowania nieruchomości na podstawie przepisów o gospodarce nieruchomościami, wybierani przez towarzystwo, a w przypadku zawarcia umowy, o której mowa w art. 4 ust. 1b – zarządzającego z UE.
+1. W przypadku określonym w art. 36a ust. 1 pkt 1 czynności wyceny aktywów funduszu określonych w art. 147 ust. 1 i 2 są dokonywane przez zespół co najmniej trzech osób, w skład którego wchodzą wyłącznie rzeczoznawcy majątkowi uprawnieni do szacowania nieruchomości na podstawie przepisów o gospodarce nieruchomościami, wybierani przez towarzystwo, a w przypadku zawarcia umowy, o której mowa w art. 4 ust. 1b zarządzającego z UE.
 
 2. Szczegółowy tryb i warunki pracy zespołu, o którym mowa w ust. 1, określa statut funduszu.
 
@@ -4608,8 +4694,8 @@ Art. 300–319. (pominięte)
 
 3. Statut funduszu powinien określać:
 
-- **1)** kryteria, jakie powinien spełniać pożyczkobiorca, zasady spłaty pożyczki oraz wskazywać rodzaje i minimalną wysokość zabezpieczeń, jakich ustanowienia fundusz będzie wymagał – w przypadku udzielania przez fundusz pożyczek;
-- **2)** kryteria, jakie powinien spełniać podmiot, któremu fundusz może udzielić poręczenia lub gwarancji, warunki udzielenia poręczenia lub gwarancji oraz wskazywać rodzaje i minimalną wysokość zabezpieczeń, jakich ustanowienia fundusz będzie wymagał – w przypadku udzielania przez fundusz poręczeń lub gwarancji.
+- **1)** kryteria, jakie powinien spełniać pożyczkobiorca, zasady spłaty pożyczki oraz wskazywać rodzaje i minimalną wysokość zabezpieczeń, jakich ustanowienia fundusz będzie wymagał w przypadku udzielania przez fundusz pożyczek;
+- **2)** kryteria, jakie powinien spełniać podmiot, któremu fundusz może udzielić poręczenia lub gwarancji, warunki udzielenia poręczenia lub gwarancji oraz wskazywać rodzaje i minimalną wysokość zabezpieczeń, jakich ustanowienia fundusz będzie wymagał w przypadku udzielania przez fundusz poręczeń lub gwarancji.
 
 **Art. 154.**
 
@@ -4632,7 +4718,7 @@ Art. 300–319. (pominięte)
 - **3)** sposób ustalenia oraz maksymalną wartość ryzyka kontrahenta wynikającą z transakcji, których przedmiotem są niewystandaryzowane instrumenty pochodne,
 - **4)** sposób wyznaczenia oraz wartość maksymalnego zaangażowania funduszu inwestycyjnego zamkniętego w lokaty, o których mowa w art. 145 ust. 1 pkt 5 i 6,
 - **5)** (uchylony)
-- **6)** warunki, jakie muszą spełniać indeksy stanowiące bazę instrumentów pochodnych, w tym niewystandaryzowanych instrumentów pochodnych – w celu zapewnienia ochrony interesów uczestników funduszu inwestycyjnego zamkniętego.
+- **6)** warunki, jakie muszą spełniać indeksy stanowiące bazę instrumentów pochodnych, w tym niewystandaryzowanych instrumentów pochodnych w celu zapewnienia ochrony interesów uczestników funduszu inwestycyjnego zamkniętego.
 
 **Art. 155.** (uchylony)
 
@@ -4695,7 +4781,7 @@ Art. 300–319. (pominięte)
 1. Jeżeli funduszem z wydzielonymi subfunduszami jest fundusz inwestycyjny otwarty lub specjalistyczny fundusz inwestycyjny otwarty:
 
 - **1)** fundusz wydziela w ramach rejestru, o którym mowa w art. 87, subrejestry uczestników funduszu dla każdego subfunduszu;
-- **2)** fundusz zbywa i odkupuje jednostki uczestnictwa subfunduszy po cenie wynikającej z podzielenia wartości aktywów netto każdego z subfunduszy przez liczbę jednostek uczestnictwa w tym subfunduszu ustaloną na podstawie subrejestru uczestników tego subfunduszu w dniu wyceny, a w przypadku subfunduszy posiadających jednostki uczestnictwa różniące się od siebie związanym z nimi sposobem lub wysokością pobierania opłat obciążających aktywa funduszu – po cenie wynikającej z podzielenia wartości aktywów netto każdego z subfunduszy przypadających na tę kategorię jednostek uczestnictwa przez liczbę jednostek uczestnictwa tej kategorii w tym subfunduszu ustaloną na podstawie subrejestru uczestników tego subfunduszu w dniu wyceny;
+- **2)** fundusz zbywa i odkupuje jednostki uczestnictwa subfunduszy po cenie wynikającej z podzielenia wartości aktywów netto każdego z subfunduszy przez liczbę jednostek uczestnictwa w tym subfunduszu ustaloną na podstawie subrejestru uczestników tego subfunduszu w dniu wyceny, a w przypadku subfunduszy posiadających jednostki uczestnictwa różniące się od siebie związanym z nimi sposobem lub wysokością pobierania opłat obciążających aktywa funduszu po cenie wynikającej z podzielenia wartości aktywów netto każdego z subfunduszy przypadających na tę kategorię jednostek uczestnictwa przez liczbę jednostek uczestnictwa tej kategorii w tym subfunduszu ustaloną na podstawie subrejestru uczestników tego subfunduszu w dniu wyceny;
 - **3)** we wszystkich subfunduszach powinny obowiązywać jednakowe zasady zbywania i odkupywania oraz zawieszania i wznawiania odkupywania jednostek uczestnictwa, w tym jednakowe warunki odkupywania jednostek uczestnictwa tej samej kategorii;
 - **4)** (uchylony)
 - **5)** jednostki uczestnictwa subfunduszu mogą być zamieniane na jednostki uczestnictwa innych subfunduszy funduszu, na zasadach określonych w statucie, z zastrzeżeniem pkt 7;
@@ -4708,6 +4794,12 @@ Art. 300–319. (pominięte)
 3. Przez zamianę, o której mowa w ust. 1 pkt 5, rozumie się jednoczesne umorzenie jednostek uczestnictwa subfunduszu funduszu inwestycyjnego z wydzielonymi subfunduszami i nabycie, za środki pieniężne uzyskane z tego umorzenia, jednostek uczestnictwa innego subfunduszu tego funduszu inwestycyjnego.
 
 **Art. 163.** Jeżeli funduszem z wydzielonymi subfunduszami jest fundusz inwestycyjny zamknięty:
+
+- **1)** prawa uczestników funduszu związane z inwestowaniem w dany subfundusz są inkorporowane w certyfikatach inwestycyjnych wskazanych w statucie (certyfikaty związane z danym subfunduszem);
+- **2)** certyfikaty inwestycyjne na okaziciela związane z danym subfunduszem reprezentują jednakowe prawa majątkowe;
+- **3)** cena emisyjna certyfikatów inwestycyjnych emitowanych w związku z istniejącym subfunduszem nie może być niższa niż wartość aktywów netto danego subfunduszu przypadająca na certyfikat inwestycyjny związany z danym subfunduszem według wyceny aktywów subfunduszu dokonanej na 7 dni przed dniem rozpoczęcia przyjmowania zapisów na te certyfikaty, chyba że statut funduszu określi maksymalną wysokość różnicy między wartością aktywów netto subfunduszu przypadającą na certyfikat inwestycyjny związany z danym subfunduszem według tej wyceny a ceną emisyjną certyfikatu kolejnej emisji;
+- **4)** cena wykupu certyfikatów inwestycyjnych związanych z danym subfunduszem jest równa wartości aktywów netto subfunduszu, przypadającej na certyfikat inwestycyjny związany z danym subfunduszem, według wyceny aktywów subfunduszu z dnia wykupu;
+- **5)** statut funduszu powinien zawierać dodatkowo informacje, o których mowa w art. 18 ust. 2 pkt 13 i art. 198 ust. 2, w odniesieniu do każdego subfunduszu oddzielnie, a także określać zasady tworzenia, w tym oznaczenie i liczbę subfunduszy, minimalną i maksymalną liczbę certyfikatów inwestycyjnych związanych z danym subfunduszem oraz prawa przysługujące uczestnikom z tytułu ich posiadania.
 
 **Art. 164.**
 
@@ -4768,30 +4860,30 @@ Art. 300–319. (pominięte)
 
 2. Do wniosku o wydanie zezwolenia, o którym mowa w ust. 1 pkt 2, załącza się, a do wniosku o wydanie zezwolenia, o którym mowa w ust. 1 pkt 1, załącza się dodatkowo:
 
-- **1)** statut funduszu podstawowego, a w przypadku gdy funduszem podstawowym ma być fundusz zagraniczny – regulamin tego funduszu, w rozumieniu art. 253 ust. 5;
+- **1)** statut funduszu podstawowego, a w przypadku gdy funduszem podstawowym ma być fundusz zagraniczny regulamin tego funduszu, w rozumieniu art. 253 ust. 5;
 - **2)** prospekt informacyjny funduszu podstawowego oraz:
-    - **a)** kluczowe informacje funduszu podstawowego – w przypadku udostępniania przez ten fundusz kluczowych informacji wszystkim inwestorom albo
-    - **b)** kluczowe informacje funduszu podstawowego i kluczowe informacje dla inwestorów funduszu podstawowego – w przypadku udostępniania przez ten fundusz kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo
-    - **c)** kluczowe informacje dla inwestorów funduszu podstawowego – w przypadku zbywania przez ten fundusz jednostek uczestnictwa lub tytułów uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów;
+    - **a)** kluczowe informacje funduszu podstawowego w przypadku udostępniania przez ten fundusz kluczowych informacji wszystkim inwestorom albo
+    - **b)** kluczowe informacje funduszu podstawowego i kluczowe informacje dla inwestorów funduszu podstawowego w przypadku udostępniania przez ten fundusz kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo
+    - **c)** kluczowe informacje dla inwestorów funduszu podstawowego w przypadku zbywania przez ten fundusz jednostek uczestnictwa lub tytułów uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów;
 
 - **3)** umowę, o której mowa w art. 169c ust. 1, albo wewnętrzne zasady prowadzenia działalności, o których mowa w art. 169c ust. 7;
-- **4)** w przypadku gdy fundusz, o którym mowa w ust. 1 pkt 1 albo 2, oraz fundusz podstawowy będą miały różnych depozytariuszy – umowę, o której mowa w art. 169e ust. 1;
-- **5)** w przypadku gdy fundusz, o którym mowa w ust. 1 pkt 1 albo 2, oraz fundusz podstawowy będą miały różne firmy audytorskie – umowę, o której mowa w art. 169f ust. 1;
-- **6)** w przypadku gdy funduszem podstawowym ma być fundusz zagraniczny – przetłumaczone na język polski zaświadczenie wydane przez właściwe organy państwa macierzystego tego funduszu stwierdzające, że fundusz działa zgodnie z prawem wspólnotowym regulującym zasady zbiorowego inwestowania w papiery wartościowe oraz nie prowadzi działalności polegającej na lokowaniu co najmniej 85 % aktywów funduszu w tytuły uczestnictwa innego funduszu, a także nie posiada tytułów uczestnictwa funduszu, który prowadzi taką działalność, w tym jednostek uczestnictwa funduszu powiązanego.
+- **4)** w przypadku gdy fundusz, o którym mowa w ust. 1 pkt 1 albo 2, oraz fundusz podstawowy będą miały różnych depozytariuszy umowę, o której mowa w art. 169e ust. 1;
+- **5)** w przypadku gdy fundusz, o którym mowa w ust. 1 pkt 1 albo 2, oraz fundusz podstawowy będą miały różne firmy audytorskie umowę, o której mowa w art. 169f ust. 1;
+- **6)** w przypadku gdy funduszem podstawowym ma być fundusz zagraniczny przetłumaczone na język polski zaświadczenie wydane przez właściwe organy państwa macierzystego tego funduszu stwierdzające, że fundusz działa zgodnie z prawem wspólnotowym regulującym zasady zbiorowego inwestowania w papiery wartościowe oraz nie prowadzi działalności polegającej na lokowaniu co najmniej 85 % aktywów funduszu w tytuły uczestnictwa innego funduszu, a także nie posiada tytułów uczestnictwa funduszu, który prowadzi taką działalność, w tym jednostek uczestnictwa funduszu powiązanego.
 
 3. Do wniosku funduszu inwestycyjnego otwartego o wydanie zezwolenia, o którym mowa w ust. 1 pkt 3 albo 4, załącza się:
 
-- **1)** statut tego funduszu oraz statut funduszu podstawowego, a w przypadku gdy funduszem podstawowym ma być fundusz zagraniczny – regulamin tego funduszu, w rozumieniu art. 253 ust. 5;
+- **1)** statut tego funduszu oraz statut funduszu podstawowego, a w przypadku gdy funduszem podstawowym ma być fundusz zagraniczny regulamin tego funduszu, w rozumieniu art. 253 ust. 5;
 - **2)** prospekt informacyjny funduszu inwestycyjnego otwartego i funduszu podstawowego oraz:
-    - **a)** w przypadku funduszu inwestycyjnego otwartego: – kluczowe informacje – w przypadku udostępniania przez ten fundusz kluczowych informacji wszystkim inwestorom albo – kluczowe informacje i kluczowe informacje dla inwestorów – w przypadku udostępniania przez ten fundusz kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo – kluczowe informacje dla inwestorów – w przypadku zbywania przez ten fundusz jednostek uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów,
-    - **b)** w przypadku funduszu podstawowego: – kluczowe informacje – w przypadku udostępniania przez ten fundusz kluczowych informacji wszystkim inwestorom albo – kluczowe informacje i kluczowe informacje dla inwestorów – w przypadku udostępniania przez ten fundusz kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo – kluczowe informacje dla inwestorów – w przypadku zbywania przez ten fundusz jednostek uczestnictwa lub tytułów uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów;
+    - **a)** w przypadku funduszu inwestycyjnego otwartego: kluczowe informacje w przypadku udostępniania przez ten fundusz kluczowych informacji wszystkim inwestorom albo kluczowe informacje i kluczowe informacje dla inwestorów w przypadku udostępniania przez ten fundusz kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo kluczowe informacje dla inwestorów w przypadku zbywania przez ten fundusz jednostek uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów,
+    - **b)** w przypadku funduszu podstawowego: kluczowe informacje w przypadku udostępniania przez ten fundusz kluczowych informacji wszystkim inwestorom albo kluczowe informacje i kluczowe informacje dla inwestorów w przypadku udostępniania przez ten fundusz kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo kluczowe informacje dla inwestorów w przypadku zbywania przez ten fundusz jednostek uczestnictwa lub tytułów uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów;
 
 - **3)** umowę, o której mowa w art. 169c ust. 1, albo wewnętrzne zasady prowadzenia działalności, o których mowa w art. 169c ust. 7;
 - **4)** uchwałę zgromadzenia uczestników, o której mowa w ust. 4;
-- **5)** informację o planowanym terminie, od którego fundusz ten zacznie nabywać jednostki uczestnictwa lub tytuły uczestnictwa funduszu podstawowego, a jeżeli fundusz posiada już takie jednostki uczestnictwa lub tytuły uczestnictwa – informację o dacie przekroczenia limitu, o którym mowa w art. 101 ust. 2 lub 3;
-- **6)** w przypadku gdy ten fundusz i fundusz podstawowy mają różnych depozytariuszy – umowę, o której mowa w art. 169e ust. 1;
-- **7)** w przypadku gdy ten fundusz i fundusz podstawowy mają różne firmy audytorskie – umowę, o której mowa w art. 169f ust. 1;
-- **8)** w przypadku gdy funduszem podstawowym ma być fundusz zagraniczny – przetłumaczone na język polski zaświadczenie wydane przez właściwe organy państwa macierzystego tego funduszu, stwierdzające, że fundusz działa zgodnie z prawem wspólnotowym regulującym zasady zbiorowego inwestowania w papiery wartościowe oraz nie prowadzi działalności polegającej na lokowaniu co najmniej 85 % aktywów funduszu w tytuły uczestnictwa innego funduszu, a także nie posiada tytułów uczestnictwa funduszu, który prowadzi taką działalność, w tym jednostek uczestnictwa funduszu powiązanego.
+- **5)** informację o planowanym terminie, od którego fundusz ten zacznie nabywać jednostki uczestnictwa lub tytuły uczestnictwa funduszu podstawowego, a jeżeli fundusz posiada już takie jednostki uczestnictwa lub tytuły uczestnictwa informację o dacie przekroczenia limitu, o którym mowa w art. 101 ust. 2 lub 3;
+- **6)** w przypadku gdy ten fundusz i fundusz podstawowy mają różnych depozytariuszy umowę, o której mowa w art. 169e ust. 1;
+- **7)** w przypadku gdy ten fundusz i fundusz podstawowy mają różne firmy audytorskie umowę, o której mowa w art. 169f ust. 1;
+- **8)** w przypadku gdy funduszem podstawowym ma być fundusz zagraniczny przetłumaczone na język polski zaświadczenie wydane przez właściwe organy państwa macierzystego tego funduszu, stwierdzające, że fundusz działa zgodnie z prawem wspólnotowym regulującym zasady zbiorowego inwestowania w papiery wartościowe oraz nie prowadzi działalności polegającej na lokowaniu co najmniej 85 % aktywów funduszu w tytuły uczestnictwa innego funduszu, a także nie posiada tytułów uczestnictwa funduszu, który prowadzi taką działalność, w tym jednostek uczestnictwa funduszu powiązanego.
 
 4. Warunkiem wydania przez Komisję zezwolenia na rozpoczęcie prowadzenia przez fundusz inwestycyjny otwarty działalności jako fundusz powiązany albo na rozpoczęcie prowadzenia przez subfundusz wydzielony w funduszu inwestycyjnym otwartym działalności jako subfundusz powiązany jest podjęcie przez zgromadzenie uczestników tego funduszu uchwały wyrażającej zgodę odpowiednio na rozpoczęcie prowadzenia przez ten fundusz lub ten subfundusz takiej działalności.
 
@@ -4806,7 +4898,7 @@ Art. 300–319. (pominięte)
 
 **Art. 169c.**
 
-1. Fundusz inwestycyjny otwarty zamierzający rozpocząć prowadzenie działalności jako fundusz powiązany, a w przypadku gdy fundusz inwestycyjny otwarty ma być utworzony jako fundusz powiązany – towarzystwo, które występuje z wnioskiem o wydanie zezwolenia na utworzenie tego funduszu, zawiera umowę z funduszem podstawowym, określającą zasady współpracy między funduszami. Umowa określa w szczególności:
+1. Fundusz inwestycyjny otwarty zamierzający rozpocząć prowadzenie działalności jako fundusz powiązany, a w przypadku gdy fundusz inwestycyjny otwarty ma być utworzony jako fundusz powiązany towarzystwo, które występuje z wnioskiem o wydanie zezwolenia na utworzenie tego funduszu, zawiera umowę z funduszem podstawowym, określającą zasady współpracy między funduszami. Umowa określa w szczególności:
 
 - **1)** zasady wymiany informacji oraz ich zakres;
 - **2)** zasady lokowania aktywów funduszu powiązanego w jednostki uczestnictwa lub tytuły uczestnictwa funduszu podstawowego;
@@ -4835,15 +4927,15 @@ Art. 300–319. (pominięte)
 8. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia:
 
 - **1)** niezbędny zakres treści umowy, o której mowa w ust. 1,
-- **2)** niezbędne elementy wewnętrznych zasad prowadzenia działalności, o których mowa w ust. 7 – mając na celu zapewnienie prowadzenia przez fundusz podstawowy i powiązany współpracy w sposób pozwalający na prawidłowe wykonywanie ich ustawowych obowiązków.
+- **2)** niezbędne elementy wewnętrznych zasad prowadzenia działalności, o których mowa w ust. 7 mając na celu zapewnienie prowadzenia przez fundusz podstawowy i powiązany współpracy w sposób pozwalający na prawidłowe wykonywanie ich ustawowych obowiązków.
 
 **Art. 169d.**
 
 1. W przypadku gdy fundusz inwestycyjny otwarty zamierza rozpocząć prowadzenie działalności jako fundusz powiązany, jest obowiązany przekazać swoim uczestnikom na papierze lub innym trwałym nośniku informacji następujące informacje:
 
 - **1)** oświadczenie, że fundusz uzyskał zezwolenie Komisji na rozpoczęcie prowadzenia działalności jako fundusz powiązany, ze wskazaniem funduszu podstawowego;
-- **2)** kluczowe informacje tego funduszu i funduszu podstawowego, a w przypadku uczestników będących inwestorami innymi niż inwestorzy indywidualni – kluczowe informacje dla inwestorów funduszu inwestycyjnego otwartego i kluczowe informacje dla inwestorów funduszu podstawowego, jeżeli fundusze te udostępniają kluczowe informacje dla inwestorów inwestorom innym niż inwestorzy indywidualni;
-- **3)** datę, od której fundusz zacznie nabywać jednostki uczestnictwa lub tytuły uczestnictwa funduszu podstawowego, a jeżeli fundusz posiada już takie jednostki uczestnictwa lub tytuły uczestnictwa – datę przekroczenia limitu, o którym mowa w art. 101 ust. 2 lub 3;
+- **2)** kluczowe informacje tego funduszu i funduszu podstawowego, a w przypadku uczestników będących inwestorami innymi niż inwestorzy indywidualni kluczowe informacje dla inwestorów funduszu inwestycyjnego otwartego i kluczowe informacje dla inwestorów funduszu podstawowego, jeżeli fundusze te udostępniają kluczowe informacje dla inwestorów inwestorom innym niż inwestorzy indywidualni;
+- **3)** datę, od której fundusz zacznie nabywać jednostki uczestnictwa lub tytuły uczestnictwa funduszu podstawowego, a jeżeli fundusz posiada już takie jednostki uczestnictwa lub tytuły uczestnictwa datę przekroczenia limitu, o którym mowa w art. 101 ust. 2 lub 3;
 - **4)** informację, że uczestnicy funduszu mają prawo zażądać, w terminie 30 dni przed datą, o której mowa w pkt 3, odkupienia posiadanych przez nich jednostek uczestnictwa funduszu bez ponoszenia opłat manipulacyjnych.
 
 2. Informacje, o których mowa w ust. 1, powinny zostać wysłane do uczestników funduszu najpóźniej na 21 dni przed rozpoczęciem biegu terminu 30 dni, o którym mowa w ust. 6.
@@ -4879,7 +4971,7 @@ Art. 300–319. (pominięte)
 6. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia:
 
 - **1)** niezbędny zakres treści umowy, o której mowa w ust. 1,
-- **2)** rodzaje nieprawidłowości, o których mowa w ust. 5, które uznaje się za mające negatywny wpływ na fundusz powiązany – mając na celu zapewnienie prowadzenia przez depozytariuszy współpracy w sposób pozwalający na prawidłowe wykonywanie ich ustawowych obowiązków.
+- **2)** rodzaje nieprawidłowości, o których mowa w ust. 5, które uznaje się za mające negatywny wpływ na fundusz powiązany mając na celu zapewnienie prowadzenia przez depozytariuszy współpracy w sposób pozwalający na prawidłowe wykonywanie ich ustawowych obowiązków.
 
 **Art. 169f.**
 
@@ -4901,6 +4993,9 @@ Art. 300–319. (pominięte)
 7. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, niezbędny zakres treści umowy, o której mowa w ust. 1, mając na celu zapewnienie prowadzenia między firmami audytorskimi współpracy w sposób pozwalający na wykonywanie ich ustawowych obowiązków.
 
 **Art. 169g.** Fundusz powiązany nie więcej niż 15 % swoich aktywów może:
+
+- **1)** utrzymywać na rachunkach bankowych na zasadach określonych w art. 109;
+- **2)** lokować w instrumenty pochodne na zasadach określonych w art. 94, jeżeli służy to ograniczeniu ryzyka inwestycyjnego związanego ze zmianą okoliczności, o których mowa w art. 94 ust. 1a pkt 2.
 
 **Art. 169h.** Fundusz podstawowy nie może być funduszem powiązanym ani posiadać jednostek uczestnictwa funduszu powiązanego lub tytułów uczestnictwa funduszu zagranicznego prowadzącego działalność polegającą na lokowaniu co najmniej 85 % swoich aktywów w tytuły uczestnictwa innego funduszu.
 
@@ -4933,9 +5028,9 @@ Art. 300–319. (pominięte)
 - **1)** funduszowi powiązanemu, zarządzającemu nim towarzystwu lub spółce zarządzającej,
 - **2)** funduszowi zagranicznemu prowadzącemu działalność polegającą na lokowaniu co najmniej 85 % aktywów funduszu w jednostki uczestnictwa tego funduszu podstawowego,
 - **3)** depozytariuszowi funduszu powiązanego i firmie audytorskiej badającej sprawozdania finansowe tego funduszu,
-- **4)** depozytariuszowi funduszu zagranicznego, o którym mowa w pkt 2, i firmie audytorskiej badającej sprawozdania finansowe tego funduszu – wszelkie informacje w zakresie niezbędnym dla zapewnienia wykonywania przez te podmioty ich obowiązków przewidzianych w przepisach prawa lub statucie funduszu.
+- **4)** depozytariuszowi funduszu zagranicznego, o którym mowa w pkt 2, i firmie audytorskiej badającej sprawozdania finansowe tego funduszu wszelkie informacje w zakresie niezbędnym dla zapewnienia wykonywania przez te podmioty ich obowiązków przewidzianych w przepisach prawa lub statucie funduszu.
 
-2. W przypadku planowanego połączenia funduszu inwestycyjnego otwartego będącego funduszem podstawowym, fundusz ten, co najmniej na 60 dni przed planowanym połączeniem, powiadamia fundusz powiązany, zarządzające nim towarzystwo lub spółkę zarządzającą oraz fundusz zagraniczny prowadzący działalność polegającą na lokowaniu co najmniej 85 % aktywów funduszu w jednostki uczestnictwa tego funduszu podstawowego, o terminie planowanego połączenia.
+2. W przypadku planowanego połączenia funduszu inwestycyjnego otwartego będącego funduszem podstawowym, fundusz ten, co najmniej na dni przed planowanym połączeniem, powiadamia fundusz powiązany, zarządzające nim towarzystwo lub spółkę zarządzającą oraz fundusz zagraniczny prowadzący działalność polegającą na lokowaniu co najmniej 85 % aktywów funduszu w jednostki uczestnictwa tego funduszu podstawowego, o terminie planowanego połączenia.
 
 **Art. 169o.**
 
@@ -4951,17 +5046,17 @@ Art. 300–319. (pominięte)
 
 2. Do wniosku o wydanie zezwolenia, o którym mowa w ust. 1, załącza się:
 
-- **1)** zmianę statutu funduszu powiązanego w zakresie wskazania nowego funduszu podstawowego oraz statut nowego funduszu podstawowego, a w przypadku gdy nowym funduszem podstawowym ma być fundusz zagraniczny – regulamin tego funduszu, w rozumieniu art. 253 ust. 5;
+- **1)** zmianę statutu funduszu powiązanego w zakresie wskazania nowego funduszu podstawowego oraz statut nowego funduszu podstawowego, a w przypadku gdy nowym funduszem podstawowym ma być fundusz zagraniczny regulamin tego funduszu, w rozumieniu art. 253 ust. 5;
 - **2)** zmiany prospektu informacyjnego funduszu powiązanego i prospekt informacyjny nowego funduszu podstawowego oraz:
-    - **a)** w przypadku funduszu powiązanego – zmiany: – kluczowych informacji – w przypadku udostępniania przez ten fundusz kluczowych informacji wszystkim inwestorom albo – kluczowych informacji i kluczowych informacji dla inwestorów – w przypadku udostępniania przez ten fundusz kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo – kluczowych informacji dla inwestorów – w przypadku zbywania przez ten fundusz jednostek uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów,
-    - **b)** w przypadku nowego funduszu podstawowego: – kluczowe informacje – w przypadku udostępniania przez ten fundusz kluczowych informacji wszystkim inwestorom albo – kluczowe informacje i kluczowe informacje dla inwestorów – w przypadku udostępniania przez ten fundusz kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo – kluczowe informacje dla inwestorów – w przypadku zbywania przez ten fundusz jednostek uczestnictwa lub tytułów uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów;
+    - **a)** w przypadku funduszu powiązanego zmiany: kluczowych informacji w przypadku udostępniania przez ten fundusz kluczowych informacji wszystkim inwestorom albo kluczowych informacji i kluczowych informacji dla inwestorów w przypadku udostępniania przez ten fundusz kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo kluczowych informacji dla inwestorów w przypadku zbywania przez ten fundusz jednostek uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów,
+    - **b)** w przypadku nowego funduszu podstawowego: kluczowe informacje w przypadku udostępniania przez ten fundusz kluczowych informacji wszystkim inwestorom albo kluczowe informacje i kluczowe informacje dla inwestorów w przypadku udostępniania przez ten fundusz kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo kluczowe informacje dla inwestorów w przypadku zbywania przez ten fundusz jednostek uczestnictwa lub tytułów uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów;
 
 - **3)** umowę, o której mowa w art. 169c ust. 1, zawartą z nowym funduszem podstawowym, albo wewnętrzne zasady prowadzenia działalności, o których mowa w art. 169c ust. 7;
 - **4)** uchwałę zgromadzenia uczestników, o której mowa w ust. 3;
-- **5)** informację o planowanym terminie, od którego fundusz zacznie nabywać jednostki uczestnictwa lub tytuły uczestnictwa nowego funduszu podstawowego, a jeżeli fundusz posiada już takie jednostki uczestnictwa lub tytuły uczestnictwa – datę przekroczenia limitu, o którym mowa w art. 101 ust. 2 lub 3;
-- **6)** w przypadku gdy fundusz powiązany i nowy fundusz podstawowy mają różnych depozytariuszy – umowę, o której mowa w art. 169e ust. 1;
-- **7)** w przypadku gdy fundusz powiązany i nowy fundusz podstawowy mają różne firmy audytorskie – umowę, o której mowa w art. 169f ust. 1;
-- **8)** w przypadku gdy nowym funduszem podstawowym ma być fundusz zagraniczny – przetłumaczone na język polski zaświadczenie wydane przez właściwe organy państwa macierzystego tego funduszu, stwierdzające, że fundusz działa zgodnie z prawem wspólnotowym regulującym zasady zbiorowego inwestowania w papiery wartościowe oraz nie prowadzi działalności polegającej na lokowaniu co najmniej 85 % aktywów funduszu w tytuły uczestnictwa innego funduszu, a także nie posiada tytułów uczestnictwa funduszu, który prowadzi taką działalność, w tym jednostek uczestnictwa funduszu powiązanego.
+- **5)** informację o planowanym terminie, od którego fundusz zacznie nabywać jednostki uczestnictwa lub tytuły uczestnictwa nowego funduszu podstawowego, a jeżeli fundusz posiada już takie jednostki uczestnictwa lub tytuły uczestnictwa datę przekroczenia limitu, o którym mowa w art. 101 ust. 2 lub 3;
+- **6)** w przypadku gdy fundusz powiązany i nowy fundusz podstawowy mają różnych depozytariuszy umowę, o której mowa w art. 169e ust. 1;
+- **7)** w przypadku gdy fundusz powiązany i nowy fundusz podstawowy mają różne firmy audytorskie umowę, o której mowa w art. 169f ust. 1;
+- **8)** w przypadku gdy nowym funduszem podstawowym ma być fundusz zagraniczny przetłumaczone na język polski zaświadczenie wydane przez właściwe organy państwa macierzystego tego funduszu, stwierdzające, że fundusz działa zgodnie z prawem wspólnotowym regulującym zasady zbiorowego inwestowania w papiery wartościowe oraz nie prowadzi działalności polegającej na lokowaniu co najmniej 85 % aktywów funduszu w tytuły uczestnictwa innego funduszu, a także nie posiada tytułów uczestnictwa funduszu, który prowadzi taką działalność, w tym jednostek uczestnictwa funduszu powiązanego.
 
 3. Warunkiem wydania przez Komisję zezwolenia, o którym mowa w ust. 1, jest podjęcie przez zgromadzenie uczestników funduszu powiązanego uchwały wyrażającej zgodę na zmianę funduszu podstawowego.
 
@@ -4977,8 +5072,8 @@ Art. 300–319. (pominięte)
 7. Niezwłocznie po otrzymaniu zezwolenia, o którym mowa w ust. 1, fundusz powiązany obowiązany jest przekazać swoim uczestnikom na papierze lub innym trwałym nośniku informacji następujące informacje:
 
 - **1)** oświadczenie, że fundusz uzyskał zezwolenie Komisji na dokonanie zmiany funduszu podstawowego, ze wskazaniem funduszu podstawowego;
-- **2)** kluczowe informacje funduszu powiązanego i nowego funduszu podstawowego, a w przypadku uczestników będących inwestorami innymi niż inwestorzy indywidualni – kluczowe informacje dla inwestorów funduszu powiązanego i kluczowe informacje dla inwestorów nowego funduszu podstawowego, jeżeli fundusze te udostępniają kluczowe informacje dla inwestorów inwestorom innym niż inwestorzy indywidualni;
-- **3)** datę, od której fundusz zacznie nabywać jednostki uczestnictwa lub tytuły uczestnictwa nowego funduszu podstawowego, a jeżeli fundusz posiada już takie jednostki uczestnictwa lub tytuły uczestnictwa – datę przekroczenia limitu, o którym mowa w art. 101 ust. 2 lub 3;
+- **2)** kluczowe informacje funduszu powiązanego i nowego funduszu podstawowego, a w przypadku uczestników będących inwestorami innymi niż inwestorzy indywidualni kluczowe informacje dla inwestorów funduszu powiązanego i kluczowe informacje dla inwestorów nowego funduszu podstawowego, jeżeli fundusze te udostępniają kluczowe informacje dla inwestorów inwestorom innym niż inwestorzy indywidualni;
+- **3)** datę, od której fundusz zacznie nabywać jednostki uczestnictwa lub tytuły uczestnictwa nowego funduszu podstawowego, a jeżeli fundusz posiada już takie jednostki uczestnictwa lub tytuły uczestnictwa datę przekroczenia limitu, o którym mowa w art. 101 ust. 2 lub 3;
 - **4)** informację, że uczestnicy funduszu mają prawo zażądać, w terminie 30 dni przed datą, o której mowa w pkt 3, odkupienia posiadanych przez nich jednostek uczestnictwa funduszu bez ponoszenia opłat manipulacyjnych.
 
 8. Do przekazywania informacji, o których mowa w ust. 7, stosuje się odpowiednio przepisy art. 169d ust. 2, 3 i 5.
@@ -4987,7 +5082,10 @@ Art. 300–319. (pominięte)
 
 10. Fundusz powiązany nie może pobierać od uczestników opłat manipulacyjnych z tytułu odkupienia jednostek uczestnictwa w okresie 30 dni przed datą, o której mowa w ust. 7 pkt 3.
 
-**Art. 169r.** Nie później niż w terminie 2 miesięcy od dnia otrzymania od funduszu podstawowego informacji o prawdopodobnym wystąpieniu przyczyny jego rozwiązania, a w przypadku gdy fundusz powiązany został poinformowany przez fundusz podstawowy wcześniej niż przed upływem 5 miesięcy przed dniem rozwiązania funduszu podstawowego – w terminie co najmniej 3 miesięcy przed tą datą, fundusz powiązany:
+**Art. 169r.** Nie później niż w terminie 2 miesięcy od dnia otrzymania od funduszu podstawowego informacji o prawdopodobnym wystąpieniu przyczyny jego rozwiązania, a w przypadku gdy fundusz powiązany został poinformowany przez fundusz podstawowy wcześniej niż przed upływem 5 miesięcy przed dniem rozwiązania funduszu podstawowego w terminie co najmniej 3 miesięcy przed tą datą, fundusz powiązany:
+
+- **1)** przekazuje Komisji informację o prawdopodobnym wystąpieniu przyczyny jego rozwiązania na podstawie art. 246 ust. 1 pkt 9 albo
+- **2)** występuje z wnioskiem o wydanie zezwolenia Komisji na dokonanie zmiany funduszu podstawowego, o którym mowa w art. 169p ust. 1, albo na zaprzestanie prowadzenia działalności jako fundusz powiązany, o którym mowa w art. 169s ust. 1.
 
 **Art. 169s.**
 
@@ -4998,9 +5096,9 @@ Art. 300–319. (pominięte)
 - **1)** uchwałę zgromadzenia uczestników, o której mowa w ust. 3;
 - **2)** zmianę statutu funduszu powiązanego w zakresie związanym z zaprzestaniem prowadzenia działalności jako fundusz powiązany;
 - **3)** zmiany prospektu informacyjnego oraz zmiany:
-    - **a)** kluczowych informacji – w przypadku udostępniania przez fundusz powiązany kluczowych informacji wszystkim inwestorom albo
-    - **b)** kluczowych informacji i kluczowych informacji dla inwestorów – w przypadku udostępniania przez fundusz powiązany kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo
-    - **c)** kluczowych informacji dla inwestorów – w przypadku zbywania przez fundusz powiązany jednostek uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów.
+    - **a)** kluczowych informacji w przypadku udostępniania przez fundusz powiązany kluczowych informacji wszystkim inwestorom albo
+    - **b)** kluczowych informacji i kluczowych informacji dla inwestorów w przypadku udostępniania przez fundusz powiązany kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo
+    - **c)** kluczowych informacji dla inwestorów w przypadku zbywania przez fundusz powiązany jednostek uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów.
 
 3. Warunkiem wydania przez Komisję zezwolenia, o którym mowa w ust. 1, jest podjęcie przez zgromadzenie uczestników funduszu powiązanego uchwały wyrażającej zgodę na zaprzestanie prowadzenia przez fundusz działalności jako fundusz powiązany.
 
@@ -5016,7 +5114,7 @@ Art. 300–319. (pominięte)
 7. Niezwłocznie po otrzymaniu zezwolenia, o którym mowa w ust. 1, fundusz powiązany obowiązany jest przekazać swoim uczestnikom na papierze lub innym trwałym nośniku informacji następujące informacje:
 
 - **1)** oświadczenie, że fundusz uzyskał zezwolenie Komisji na zaprzestanie prowadzenia działalności jako fundusz powiązany;
-- **2)** kluczowe informacje tego funduszu, a w przypadku uczestników będących inwestorami innymi niż inwestorzy indywidualni – kluczowe informacje dla inwestorów tego funduszu, jeżeli fundusz ten udostępnia kluczowe informacje dla inwestorów inwestorom innym niż inwestorzy indywidualni;
+- **2)** kluczowe informacje tego funduszu, a w przypadku uczestników będących inwestorami innymi niż inwestorzy indywidualni kluczowe informacje dla inwestorów tego funduszu, jeżeli fundusz ten udostępnia kluczowe informacje dla inwestorów inwestorom innym niż inwestorzy indywidualni;
 - **3)** datę obniżenia poziomu inwestycji w jednostki uczestnictwa lub tytuły uczestnictwa funduszu podstawowego poniżej limitu, o którym mowa w art. 101 ust. 2 lub 3;
 - **4)** informację, że uczestnicy funduszu mają prawo zażądać, w terminie 30 dni przed datą, o której mowa w pkt 3, odkupienia posiadanych przez nich jednostek uczestnictwa funduszu bez ponoszenia opłat manipulacyjnych.
 
@@ -5033,7 +5131,7 @@ Art. 300–319. (pominięte)
 2. W przypadku gdy wypłata środków z tytułu likwidacji funduszu podstawowego ma nastąpić przed datą, z którą:
 
 - **1)** fundusz powiązany rozpocznie nabywanie tytułów uczestnictwa nowego funduszu podstawowego albo
-- **2)** fundusz powiązany zaprzestanie prowadzenia działalności jako fundusz powiązany – środki uzyskane z tytułu likwidacji funduszu podstawowego w okresie poprzedzającym datę, o której mowa odpowiednio w pkt 1 albo 2, mogą być lokowane wyłącznie zgodnie z art. 93 ust. 1 pkt 3 i 4.
+- **2)** fundusz powiązany zaprzestanie prowadzenia działalności jako fundusz powiązany środki uzyskane z tytułu likwidacji funduszu podstawowego w okresie poprzedzającym datę, o której mowa odpowiednio w pkt 1 albo 2, mogą być lokowane wyłącznie zgodnie z art. 93 ust. 1 pkt 3 i 4.
 
 3. Środki z tytułu likwidacji funduszu podstawowego mogą zostać przekazane funduszowi powiązanemu:
 
@@ -5044,9 +5142,9 @@ Art. 300–319. (pominięte)
 
 1. W przypadku połączenia funduszu podstawowego lub podziału funduszu zagranicznego będącego funduszem podstawowym, rozwiązaniu ulega fundusz powiązany.
 
-2. Połączenie funduszu inwestycyjnego otwartego będącego funduszem podstawowym może dojść do skutku wyłącznie pod warunkiem udostępnienia przez ten fundusz informacji, które fundusz podstawowy przekazuje uczestnikom w związku z połączeniem, wszystkim swoim uczestnikom, Komisji, a w przypadku gdy prowadzącym działalność polegającą na lokowaniu co najmniej 85 % aktywów funduszu w jednostki uczestnictwa łączącego się funduszu podstawowego jest fundusz zagraniczny – właściwym organom państwa macierzystego funduszu zagranicznego, w terminie co najmniej 60 dni przed planowanym dniem połączenia.
+2. Połączenie funduszu inwestycyjnego otwartego będącego funduszem podstawowym może dojść do skutku wyłącznie pod warunkiem udostępnienia przez ten fundusz informacji, które fundusz podstawowy przekazuje uczestnikom w związku z połączeniem, wszystkim swoim uczestnikom, Komisji, a w przypadku gdy prowadzącym działalność polegającą na lokowaniu co najmniej 85 % aktywów funduszu w jednostki uczestnictwa łączącego się funduszu podstawowego jest fundusz zagraniczny właściwym organom państwa macierzystego funduszu zagranicznego, w terminie co najmniej dni przed planowanym dniem połączenia.
 
-3. Fundusz powiązany obowiązany jest przekazać Komisji informację o planowanym połączeniu funduszu podstawowego lub podziale funduszu zagranicznego będącego funduszem podstawowym nie później niż w terminie miesiąca od dnia jej uzyskania od funduszu podstawowego, a w przypadku gdy fundusz podstawowy przekazał funduszowi powiązanemu taką informację wcześniej niż na 4 miesiące przed planowanym dniem połączenia lub dokonania podziału – w terminie co najmniej 3 miesięcy przed tym dniem. O rozwiązaniu fundusz powiązany jest obowiązany niezwłocznie poinformować fundusz podstawowy.
+3. Fundusz powiązany obowiązany jest przekazać Komisji informację o planowanym połączeniu funduszu podstawowego lub podziale funduszu zagranicznego będącego funduszem podstawowym nie później niż w terminie miesiąca od dnia jej uzyskania od funduszu podstawowego, a w przypadku gdy fundusz podstawowy przekazał funduszowi powiązanemu taką informację wcześniej niż na 4 miesiące przed planowanym dniem połączenia lub dokonania podziału w terminie co najmniej 3 miesięcy przed tym dniem. O rozwiązaniu fundusz powiązany jest obowiązany niezwłocznie poinformować fundusz podstawowy.
 
 4. Fundusz powiązany nie ulega rozwiązaniu, mimo połączenia funduszu podstawowego lub podziału funduszu zagranicznego będącego funduszem podstawowym, w przypadku wydania przez Komisję zezwolenia na:
 
@@ -5058,21 +5156,21 @@ Art. 300–319. (pominięte)
 
 6. W przypadku gdy właściwe organy państwa macierzystego funduszu zagranicznego prowadzącego działalność polegającą na lokowaniu co najmniej 85 % aktywów funduszu w jednostki uczestnictwa funduszu inwestycyjnego otwartego będącego funduszem podstawowym odmówiły wydania zezwolenia na prowadzenie tej działalności w odniesieniu do dotychczasowego funduszu podstawowego po jego połączeniu lub odmówiły wydania zezwolenia na zmianę funduszu podstawowego na fundusz inwestycyjny powstały w wyniku połączenia, fundusz inwestycyjny otwarty będący funduszem podstawowym umożliwia temu funduszowi zagranicznemu odkupienie wszystkich jednostek uczestnictwa przed dojściem do skutku połączenia.
 
-7. Wnioski o wydanie zezwoleń, o których mowa w ust. 4, powinny zostać złożone nie później niż w terminie miesiąca od dnia otrzymania przez fundusz powiązany od funduszu podstawowego informacji o planowanym połączeniu funduszu podstawowego lub podziale funduszu zagranicznego będącego funduszem podstawowym, a w przypadku gdy fundusz podstawowy przekazał funduszowi powiązanemu taką informację wcześniej niż na 4 miesiące przed proponowanym dniem połączenia lub podziału – w terminie co najmniej 3 miesięcy przed tym dniem.
+7. Wnioski o wydanie zezwoleń, o których mowa w ust. 4, powinny zostać złożone nie później niż w terminie miesiąca od dnia otrzymania przez fundusz powiązany od funduszu podstawowego informacji o planowanym połączeniu funduszu podstawowego lub podziale funduszu zagranicznego będącego funduszem podstawowym, a w przypadku gdy fundusz podstawowy przekazał funduszowi powiązanemu taką informację wcześniej niż na 4 miesiące przed proponowanym dniem połączenia lub podziału w terminie co najmniej 3 miesięcy przed tym dniem.
 
 **Art. 169w.**
 
 1. Do wniosku o wydanie zezwolenia, o którym mowa w art. 169u ust. 4 pkt 1, załącza się:
 
-- **1)** statut funduszu powiązanego, jeżeli jest konieczna jego zmiana, oraz statut funduszu, który ma być funduszem podstawowym, a w przypadku gdy funduszem podstawowym ma być fundusz zagraniczny – regulamin tego funduszu, w rozumieniu art. 253 ust. 5;
+- **1)** statut funduszu powiązanego, jeżeli jest konieczna jego zmiana, oraz statut funduszu, który ma być funduszem podstawowym, a w przypadku gdy funduszem podstawowym ma być fundusz zagraniczny regulamin tego funduszu, w rozumieniu art. 253 ust. 5;
 - **2)** zmiany prospektu informacyjnego funduszu powiązanego, jeżeli jest konieczna jego zmiana, i prospekt informacyjny funduszu, który ma być funduszem podstawowym, oraz:
-    - **a)** w przypadku funduszu powiązanego – zmiany: – kluczowych informacji – w przypadku udostępniania przez ten fundusz kluczowych informacji wszystkim inwestorom albo – kluczowych informacji i kluczowych informacji dla inwestorów – w przypadku udostępniania przez ten fundusz kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo – kluczowych informacji dla inwestorów – w przypadku zbywania przez ten fundusz jednostek uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów – jeżeli jest konieczna zmiana tych dokumentów,
-    - **b)** w przypadku funduszu podstawowego: – kluczowe informacje – w przypadku udostępniania przez ten fundusz kluczowych informacji wszystkim inwestorom albo – kluczowe informacje i kluczowe informacje dla inwestorów – w przypadku udostępniania przez ten fundusz kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo – kluczowe informacje dla inwestorów – w przypadku zbywania przez ten fundusz jednostek uczestnictwa lub tytułów uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów;
+    - **a)** w przypadku funduszu powiązanego zmiany: kluczowych informacji w przypadku udostępniania przez ten fundusz kluczowych informacji wszystkim inwestorom albo kluczowych informacji i kluczowych informacji dla inwestorów w przypadku udostępniania przez ten fundusz kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo kluczowych informacji dla inwestorów w przypadku zbywania przez ten fundusz jednostek uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów jeżeli jest konieczna zmiana tych dokumentów,
+    - **b)** w przypadku funduszu podstawowego: kluczowe informacje w przypadku udostępniania przez ten fundusz kluczowych informacji wszystkim inwestorom albo kluczowe informacje i kluczowe informacje dla inwestorów w przypadku udostępniania przez ten fundusz kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo kluczowe informacje dla inwestorów w przypadku zbywania przez ten fundusz jednostek uczestnictwa lub tytułów uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów;
 
 - **3)** umowę, o której mowa w art. 169c ust. 1, zawartą z funduszem, który ma być funduszem podstawowym, albo wewnętrzne zasady prowadzenia działalności, o których mowa w art. 169c ust. 7;
-- **4)** w przypadku gdy fundusz powiązany i fundusz, który ma być funduszem podstawowym, mają różnych depozytariuszy – umowę, o której mowa w art. 169e ust. 1;
-- **5)** w przypadku gdy fundusz powiązany i fundusz, który ma być funduszem podstawowym, mają różne firmy audytorskie – umowę, o której mowa w art. 169f ust. 1;
-- **6)** w przypadku gdy funduszem podstawowym ma być fundusz zagraniczny – przetłumaczone na język polski zaświadczenie wydane przez właściwe organy państwa macierzystego tego funduszu, stwierdzające, że fundusz działa zgodnie z prawem wspólnotowym regulującym zasady zbiorowego inwestowania w papiery wartościowe oraz nie prowadzi działalności polegającej na lokowaniu co najmniej 85 % aktywów funduszu w tytuły uczestnictwa innego funduszu, a także nie posiada tytułów uczestnictwa funduszu, który prowadzi taką działalność, w tym jednostek uczestnictwa funduszu powiązanego.
+- **4)** w przypadku gdy fundusz powiązany i fundusz, który ma być funduszem podstawowym, mają różnych depozytariuszy umowę, o której mowa w art. 169e ust. 1;
+- **5)** w przypadku gdy fundusz powiązany i fundusz, który ma być funduszem podstawowym, mają różne firmy audytorskie umowę, o której mowa w art. 169f ust. 1;
+- **6)** w przypadku gdy funduszem podstawowym ma być fundusz zagraniczny przetłumaczone na język polski zaświadczenie wydane przez właściwe organy państwa macierzystego tego funduszu, stwierdzające, że fundusz działa zgodnie z prawem wspólnotowym regulującym zasady zbiorowego inwestowania w papiery wartościowe oraz nie prowadzi działalności polegającej na lokowaniu co najmniej 85 % aktywów funduszu w tytuły uczestnictwa innego funduszu, a także nie posiada tytułów uczestnictwa funduszu, który prowadzi taką działalność, w tym jednostek uczestnictwa funduszu powiązanego.
 
 2. Komisja rozpoznaje wniosek, o którym mowa w ust. 1, w terminie 15 dni roboczych od dnia złożenia wniosku zawierającego wszystkie dokumenty wymagane zgodnie z ust. 1.
 
@@ -5146,7 +5244,7 @@ Art. 300–319. (pominięte)
 
 2. Fundusz podstawowy utworzony jako fundusz inwestycyjny zamknięty nie ma obowiązku sporządzania prospektu emisyjnego lub warunków emisji.
 
-3. Fundusz powiązany utworzony jako specjalistyczny fundusz inwestycyjny otwarty ma obowiązek zamieszczania w prospekcie informacyjnym oraz w kluczowych informacjach, a w przypadku gdy fundusz powiązany udostępnia kluczowe informacje dla inwestorów inwestorom innym niż inwestorzy indywidualni – w kluczowych informacjach dla inwestorów, dodatkowo informacji o funduszu podstawowym oraz ryzyku inwestycyjnym związanym z polityką inwestycyjną tego funduszu w takim samym zakresie, jaki jest wymagany dla funduszu powiązanego.
+3. Fundusz powiązany utworzony jako specjalistyczny fundusz inwestycyjny otwarty ma obowiązek zamieszczania w prospekcie informacyjnym oraz w kluczowych informacjach, a w przypadku gdy fundusz powiązany udostępnia kluczowe informacje dla inwestorów inwestorom innym niż inwestorzy indywidualni w kluczowych informacjach dla inwestorów, dodatkowo informacji o funduszu podstawowym oraz ryzyku inwestycyjnym związanym z polityką inwestycyjną tego funduszu w takim samym zakresie, jaki jest wymagany dla funduszu powiązanego.
 
 4. Fundusz powiązany, utworzony jako fundusz inwestycyjny zamknięty, ma obowiązek zamieszczenia w prospekcie emisyjnym albo w warunkach emisji dodatkowo informacji o funduszu podstawowym oraz ryzyku inwestycyjnym związanym z polityką inwestycyjną tego funduszu w takim samym zakresie, jaki jest wymagany dla funduszu powiązanego.
 
@@ -5174,7 +5272,7 @@ Art. 300–319. (pominięte)
 - **1)** warunki, jakie muszą spełniać lokaty funduszu, emitenci, poręczyciele lub gwaranci instrumentów rynku pieniężnego, banki krajowe oraz instytucje kredytowe,
 - **2)** zasady oceny bezpieczeństwa lokat z uwzględnieniem zdolności do wywiązywania się emitentów lub banków krajowych, instytucji kredytowych z zobowiązań, w tym przez wskazanie minimalnego poziomu oceny inwestycyjnej (ratingu) dokonanej przez wyspecjalizowane instytucje określone w rozporządzeniu,
 - **3)** przypadki, w których fundusz jest obowiązany zbyć instrumenty rynku pieniężnego,
-- **4)** sposób obliczania maksymalnego średniego ważonego wartością lokat terminu do wykupu lokat wchodzących w skład portfela inwestycyjnego funduszu – w celu zapewnienia odpowiedniego poziomu bezpieczeństwa lokat funduszu rynku pieniężnego.
+- **4)** sposób obliczania maksymalnego średniego ważonego wartością lokat terminu do wykupu lokat wchodzących w skład portfela inwestycyjnego funduszu w celu zapewnienia odpowiedniego poziomu bezpieczeństwa lokat funduszu rynku pieniężnego.
 
 #### Rozdział 2 Fundusz portfelowy
 
@@ -5285,14 +5383,14 @@ Art. 300–319. (pominięte)
 
 3. Fundusz wierzytelności ma obowiązek oraz wyłączne prawo używania w nazwie oznaczenia:
 
-- **1)** „standaryzowany fundusz wierzytelności” – w przypadku funduszu, o którym mowa w ust. 2 pkt 1;
-- **2)** „niestandaryzowany fundusz wierzytelności” – w przypadku funduszu, o którym mowa w ust. 2 pkt 2.
+- **1)** „standaryzowany fundusz wierzytelności” w przypadku funduszu, o którym mowa w ust. 2 pkt 1;
+- **2)** „niestandaryzowany fundusz wierzytelności” w przypadku funduszu, o którym mowa w ust. 2 pkt 2.
 
 4. Umowa o przekazywanie funduszowi wszystkich świadczeń otrzymywanych przez inicjatora przeniesienia ryzyka z wierzytelności lub inny podmiot, o którym mowa w ust. 1 pkt 2, z określonej puli wierzytelności lub z określonych wierzytelności (umowa o subpartycypację) zawiera zobowiązanie tych podmiotów do przekazywania funduszowi:
 
 - **1)** całości pożytków z wierzytelności;
 - **2)** kwot głównych z wierzytelności;
-- **3)** kwot uzyskanych z tytułu realizacji zabezpieczeń wierzytelności – w przypadku gdy zaspokojenie się inicjatora przeniesienia ryzyka z wierzytelności lub uprawnionego z wierzytelności innego podmiotu, o którym mowa w ust. 1 pkt 2, nastąpiło przez realizację zabezpieczeń.
+- **3)** kwot uzyskanych z tytułu realizacji zabezpieczeń wierzytelności w przypadku gdy zaspokojenie się inicjatora przeniesienia ryzyka z wierzytelności lub uprawnionego z wierzytelności innego podmiotu, o którym mowa w ust. 1 pkt 2, nastąpiło przez realizację zabezpieczeń.
 
 5. Umowę zobowiązującą do nabycia wierzytelności, puli wierzytelności oraz umowę o subpartycypację zawiera się w formie pisemnej albo elektronicznej pod rygorem nieważności.
 
@@ -5303,9 +5401,9 @@ Art. 300–319. (pominięte)
 1. Towarzystwo lub fundusz wierzytelności mogą zawrzeć z:
 
 - **1)** bankiem krajowym lub instytucją kredytową, posiadającymi fundusze własne w wysokości nie mniejszej niż równowartość w złotych kwoty 10 000 000 euro, ustalonej przy zastosowaniu kursu średniego ogłaszanego przez Narodowy Bank Polski, lub
-- **2)** podmiotem, którego zdolność do terminowej spłaty zaciągniętych zobowiązań jest oceniona na poziomie inwestycyjnym przez wyspecjalizowaną agencję ratingową, uznaną na międzynarodowym rynku kapitałowym – umowę poręczenia lub gwarancji wypłaty określonej kwoty pieniężnej na rzecz uczestników funduszu wierzytelności posiadających certyfikaty inwestycyjne danej serii w dniu otwarcia likwidacji funduszu albo subfunduszu.
+- **2)** podmiotem, którego zdolność do terminowej spłaty zaciągniętych zobowiązań jest oceniona na poziomie inwestycyjnym przez wyspecjalizowaną agencję ratingową, uznaną na międzynarodowym rynku kapitałowym umowę poręczenia lub gwarancji wypłaty określonej kwoty pieniężnej na rzecz uczestników funduszu wierzytelności posiadających certyfikaty inwestycyjne danej serii w dniu otwarcia likwidacji funduszu albo subfunduszu.
 
-2. Wykonanie zobowiązań wynikających z umowy, o której mowa w ust. 1, następuje na wniosek i za pośrednictwem likwidatora funduszu, a w przypadku likwidacji subfunduszu – na wniosek i za pośrednictwem depozytariusza.
+2. Wykonanie zobowiązań wynikających z umowy, o której mowa w ust. 1, następuje na wniosek i za pośrednictwem likwidatora funduszu, a w przypadku likwidacji subfunduszu na wniosek i za pośrednictwem depozytariusza.
 
 **Art. 185.**
 
@@ -5326,7 +5424,7 @@ Art. 300–319. (pominięte)
 6. Standaryzowany fundusz wierzytelności ma obowiązek w terminie 3 miesięcy od dnia zarejestrowania funduszu zawrzeć:
 
 - **1)** umowę zobowiązującą do nabycia puli wierzytelności lub umowę o subpartycypację lub
-- **2)** umowy zobowiązujące do nabycia puli wierzytelności lub umowy o subpartycypację – w przypadku, o którym mowa w ust. 5.
+- **2)** umowy zobowiązujące do nabycia puli wierzytelności lub umowy o subpartycypację w przypadku, o którym mowa w ust. 5.
 
 **Art. 186.**
 
@@ -5339,7 +5437,7 @@ Art. 300–319. (pominięte)
 
 - **1)** większość wierzytelności została zaspokojona, a przewidywane koszty uzyskania zaspokojenia roszczeń wynikających z pozostałych wierzytelności przewyższałyby wartość należnych funduszowi świadczeń,
 - **2)** fundusz otrzymał od inicjatora przeniesienia ryzyka z wierzytelności większość należnych mu świadczeń, a koszty funkcjonowania subfunduszu do przewidywanego momentu uzyskania pozostałych należnych funduszowi świadczeń przewyższałyby wartość tych świadczeń;
-- **3)** co do wierzytelności, które nie zostały zaspokojone, istnieje orzeczenie wydane przez właściwy organ stwierdzające brak możliwości zaspokojenia się z wierzytelności, które nie zostały zaspokojone – pod warunkiem że likwidacja subfunduszu nie naruszy praw uczestników standaryzowanego funduszu wierzytelności określonych w statucie funduszu.
+- **3)** co do wierzytelności, które nie zostały zaspokojone, istnieje orzeczenie wydane przez właściwy organ stwierdzające brak możliwości zaspokojenia się z wierzytelności, które nie zostały zaspokojone pod warunkiem że likwidacja subfunduszu nie naruszy praw uczestników standaryzowanego funduszu wierzytelności określonych w statucie funduszu.
 
 **Art. 187.**
 
@@ -5347,7 +5445,7 @@ Art. 300–319. (pominięte)
 
 2. Do momentu utworzenia drugiego subfunduszu aktywa i zobowiązania subfunduszu stanowią aktywa i zobowiązania funduszu.
 
-3. Niestandaryzowany fundusz wierzytelności jest obowiązany lokować nie mniej niż 75 % wartości aktywów funduszu, a w przypadku niestandaryzowanego funduszu wierzytelności z wydzielonymi subfunduszami – nie mniej niż 75 % wartości aktywów każdego subfunduszu, w:
+3. Niestandaryzowany fundusz wierzytelności jest obowiązany lokować nie mniej niż 75 % wartości aktywów funduszu, a w przypadku niestandaryzowanego funduszu wierzytelności z wydzielonymi subfunduszami nie mniej niż 75 % wartości aktywów każdego subfunduszu, w:
 
 - **1)** określone wierzytelności;
 - **2)** papiery wartościowe inkorporujące wierzytelności pieniężne;
@@ -5375,8 +5473,8 @@ Art. 300–319. (pominięte)
 
 4. Fundusz wierzytelności, w którym działa zgromadzenie inwestorów, może dokonywać emisji obligacji w wysokości nieprzekraczającej:
 
-- **1)** 25 % wartości aktywów netto – w przypadku standaryzowanego funduszu wierzytelności,
-- **2)** 75 % wartości aktywów netto – w przypadku niestandaryzowanego funduszu wierzytelności – na dzień poprzedzający dzień podjęcia przez zgromadzenie inwestorów uchwały o emisji obligacji, pod warunkiem że statut funduszu wierzytelności, od dnia jego nadania przez towarzystwo zgodnie z art. 15 ust. 1 pkt 1, będzie dopuszczał dokonywanie emisji obligacji. Przepisy art. 144 ust. 3 i 4 stosuje się odpowiednio.
+- **1)** 25 % wartości aktywów netto w przypadku standaryzowanego funduszu wierzytelności,
+- **2)** 75 % wartości aktywów netto w przypadku niestandaryzowanego funduszu wierzytelności na dzień poprzedzający dzień podjęcia przez zgromadzenie inwestorów uchwały o emisji obligacji, pod warunkiem że statut funduszu wierzytelności, od dnia jego nadania przez towarzystwo zgodnie z art. 15 ust. 1 pkt 1, będzie dopuszczał dokonywanie emisji obligacji. Przepisy art. 144 ust. 3 i 4 stosuje się odpowiednio.
 
 **Art. 188a.**
 
@@ -5411,6 +5509,12 @@ Art. 300–319. (pominięte)
 
 **Art. 191.** Fundusz wierzytelności może, uwzględniając interes uczestników funduszu, zawierać umowy związane z procesem przeniesienia ryzyka z wierzytelności, w szczególności:
 
+- **1)** o nadanie oceny inwestycyjnej (rating);
+- **2)** ubezpieczenia, w tym od ryzyka niewypłacalności dłużników;
+- **3)** (uchylony)
+- **4)** o udzielenie poręczenia za zobowiązania funduszu;
+- **5)** gwarancji udzielane na rzecz funduszu.
+
 **Art. 192.**
 
 1. Zarządzanie wierzytelnościami, o których mowa w art. 183 ust. 1, w tym zarządzanie pulą wierzytelności, przez podmiot inny niż towarzystwo wymaga uzyskania przez ten podmiot zezwolenia Komisji.
@@ -5424,7 +5528,7 @@ Art. 300–319. (pominięte)
 - **1)** statut lub umowę spółki albo inny dokument określający formę prawną wnioskodawcy oraz odpis z właściwego rejestru;
 - **2)** procedury zarządzania wierzytelnościami, o których mowa w art. 183 ust. 1, w tym zasady windykacji tych wierzytelności;
 - **3)** schemat i opis powiązań kapitałowych wnioskodawcy;
-- **4)** ostatnie sprawozdanie finansowe wraz ze sprawozdaniem z badania, a w przypadku braku takiego sprawozdania – inne dokumenty i informacje przedstawiające rzetelnie aktualną sytuację finansową wnioskodawcy;
+- **4)** ostatnie sprawozdanie finansowe wraz ze sprawozdaniem z badania, a w przypadku braku takiego sprawozdania inne dokumenty i informacje przedstawiające rzetelnie aktualną sytuację finansową wnioskodawcy;
 - **5)** opis posiadanych przez wnioskodawcę warunków technicznych i organizacyjnych do wykonywania zarządzania wierzytelnościami, o których mowa w art. 183 ust. 1;
 - **6)** wskazanie osób odpowiedzialnych za zarządzanie wierzytelnościami, o których mowa w art. 183 ust. 1;
 - **7)** procedury zapobiegające ujawnieniu lub wykorzystaniu informacji stanowiących tajemnicę zawodową;
@@ -5475,8 +5579,8 @@ Art. 300–319. (pominięte)
 1. Fundusz inwestycyjny zamknięty lub specjalistyczny fundusz inwestycyjny otwarty stosujący zasady i ograniczenia inwestycyjne funduszu zamkniętego może być utworzony jako fundusz aktywów niepublicznych lokujący co najmniej 80 % wartości swoich aktywów w aktywa inne niż:
 
 - **1)** papiery wartościowe:
-    - **a)** będące przedmiotem oferty publicznej, z wyjątkiem papierów wartościowych będących przedmiotem oferty publicznej, która nie wymaga sporządzenia prospektu na podstawie: – art. 1 ust. 4 lit. a rozporządzenia 2017/1129, o ile jest kierowana do mniej niż 150 osób będących inwestorami kwalifikowanymi, lub – art. 1 pkt 4 lit. b rozporządzenia 2017/1129, lub
-    - **b)** dopuszczone do obrotu na rynku regulowanym – chyba że stały się one przedmiotem oferty publicznej, która wymaga sporządzenia prospektu na podstawie rozporządzenia 2017/1129, lub zostały dopuszczone do obrotu na rynku regulowanym po ich nabyciu przez fundusz;
+    - **a)** będące przedmiotem oferty publicznej, z wyjątkiem papierów wartościowych będących przedmiotem oferty publicznej, która nie wymaga sporządzenia prospektu na podstawie: art. 1 ust. 4 lit. a rozporządzenia 2017/1129, o ile jest kierowana do mniej niż 150 osób będących inwestorami kwalifikowanymi, lub art. 1 pkt 4 lit. b rozporządzenia 2017/1129, lub
+    - **b)** dopuszczone do obrotu na rynku regulowanym chyba że stały się one przedmiotem oferty publicznej, która wymaga sporządzenia prospektu na podstawie rozporządzenia 2017/1129, lub zostały dopuszczone do obrotu na rynku regulowanym po ich nabyciu przez fundusz;
 
 - **2)** instrumenty rynku pieniężnego, chyba że zostały wyemitowane przez spółki niepubliczne, których akcje lub udziały wchodzą w skład portfela inwestycyjnego funduszu.
 
@@ -5493,7 +5597,7 @@ Art. 300–319. (pominięte)
 4. W przypadku, w którym wpłaty na poczet opłacenia certyfikatów inwestycyjnych funduszu aktywów niepublicznych pochodzą w całości albo w części ze środków:
 
 - **1)** Unii Europejskiej, w tym w szczególności ze środków realizujących Politykę Spójności lub ze środków, o których mowa w art. 6 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/241 z dnia 12 lutego 2021 r. ustanawiającego Instrument na rzecz Odbudowy i Zwiększania Odporności (Dz. Urz. UE L 57 z 18.02.2021, str. 17, z późn. zm. ), lub
-- **2)** o których mowa w art. 16a ust. 1 ustawy z dnia 4 lipca 2019 r. o systemie instytucji rozwoju (Dz. U. z 2024 r. poz. 923 oraz z 2025 r. poz. 352, 769 i 1216) – do lokat funduszu przepisu art. 145 ust. 3 nie stosuje się.
+- **2)** o których mowa w art. 16a ust. 1 ustawy z dnia 4 lipca 2019 r. o systemie instytucji rozwoju (Dz. U. z 2024 r. poz. 923 oraz z 2025 r. poz. 352, 769 i 1216) do lokat funduszu przepisu art. 145 ust. 3 nie stosuje się.
 
 **Art. 198.**
 
@@ -5525,6 +5629,17 @@ Art. 300–319. (pominięte)
 
 **Art. 200.** Przez użyte w niniejszym dziale określenia:
 
+- **1)** fundusz krajowy rozumie się fundusz inwestycyjny otwarty lub specjalistyczny fundusz inwestycyjny otwarty;
+- **2)** subfundusz rozumie się subfundusz funduszu krajowego z wydzielonymi subfunduszami lub subfundusz funduszu zagranicznego z wydzielonymi subfunduszami;
+- **3)** majątek subfunduszu rozumie się aktywa i zobowiązania subfunduszu;
+- **4)** fundusz przejmowany rozumie się fundusz, którego majątek jest wnoszony do innego istniejącego lub do nowo tworzonego funduszu albo do istniejącego lub nowo tworzonego subfunduszu, w zamian za nabycie przez uczestników tego funduszu jednostek uczestnictwa albo tytułów uczestnictwa funduszu albo subfunduszu, do którego jest wnoszony ten majątek;
+- **5)** subfundusz przejmowany rozumie się subfundusz, którego majątek jest:
+    - **a)** wnoszony przez fundusz z wydzielonymi subfunduszami do innego istniejącego lub do nowo tworzonego funduszu albo
+    - **b)** wnoszony przez fundusz z wydzielonymi subfunduszami do istniejącego lub nowo tworzonego subfunduszu w innym lub tym samym funduszu z wydzielonymi subfunduszami w zamian za nabycie przez uczestników tego subfunduszu jednostek uczestnictwa albo tytułów uczestnictwa funduszu albo subfunduszu, do którego wnoszony jest ten majątek;
+
+- **6)** fundusz przejmujący rozumie się istniejący lub nowo tworzony fundusz, do którego wnoszony jest majątek jednego lub więcej funduszy lub subfunduszy przejmowanych;
+- **7)** subfundusz przejmujący rozumie się istniejący lub nowo tworzony subfundusz, do którego wnoszony jest majątek jednego lub więcej funduszy lub subfunduszy przejmowanych.
+
 **Art. 201.**
 
 1. Połączeniem wewnętrznym jest:
@@ -5532,7 +5647,7 @@ Art. 300–319. (pominięte)
 - **1)** połączenie funduszy krajowych, których organem jest to samo towarzystwo, albo
 - **2)** połączenie subfunduszu wydzielonego w funduszu krajowym z wydzielonymi subfunduszami z:
     - **a)** funduszem krajowym, którego organem jest to samo towarzystwo, albo
-    - **b)** subfunduszem wydzielonym w funduszu krajowym z wydzielonymi subfunduszami, którego organem jest to samo towarzystwo – jeżeli żaden z funduszy biorących udział w połączeniu nie jest uprawniony do zbywania jednostek uczestnictwa w państwie członkowskim.
+    - **b)** subfunduszem wydzielonym w funduszu krajowym z wydzielonymi subfunduszami, którego organem jest to samo towarzystwo jeżeli żaden z funduszy biorących udział w połączeniu nie jest uprawniony do zbywania jednostek uczestnictwa w państwie członkowskim.
 
 2. Połączenie wewnętrzne następuje przez:
 
@@ -5571,33 +5686,33 @@ Art. 300–319. (pominięte)
 
 - **1)** dwóch funduszy inwestycyjnych otwartych, których organem jest to samo towarzystwo lub
 - **2)** funduszu inwestycyjnego otwartego z subfunduszem wydzielonym w funduszu inwestycyjnym otwartym z wydzielonymi subfunduszami, których organem jest to samo towarzystwo, lub
-- **3)** dwóch subfunduszy wydzielonych w jednym lub dwóch funduszach inwestycyjnych otwartych z wydzielonymi subfunduszami, których organem jest to samo towarzystwo – jeżeli którykolwiek z funduszy biorących udział w połączeniu jest uprawniony do zbywania jednostek uczestnictwa w państwie członkowskim.
+- **3)** dwóch subfunduszy wydzielonych w jednym lub dwóch funduszach inwestycyjnych otwartych z wydzielonymi subfunduszami, których organem jest to samo towarzystwo jeżeli którykolwiek z funduszy biorących udział w połączeniu jest uprawniony do zbywania jednostek uczestnictwa w państwie członkowskim.
 
 **Art. 203.**
 
 1. Połączeniem transgranicznym jest:
 
 - **1)** połączenie funduszu inwestycyjnego otwartego lub subfunduszu wydzielonego w funduszu inwestycyjnym otwartym z wydzielonymi subfunduszami z jednym lub więcej funduszem zagranicznym lub z jednym lub więcej subfunduszem wydzielonym w funduszu lub funduszach zagranicznych albo
-- **2)** połączenie co najmniej dwóch funduszy inwestycyjnych otwartych lub co najmniej dwóch subfunduszy wydzielonych w funduszu lub funduszach inwestycyjnych otwartych z wydzielonymi subfunduszami – jeżeli w wyniku połączenia powstaje fundusz zagraniczny lub subfundusz wydzielony w funduszu zagranicznym, albo
-- **3)** połączenie co najmniej dwóch funduszy zagranicznych lub co najmniej dwóch subfunduszy wydzielonych w funduszu lub funduszach zagranicznych – jeżeli w wyniku połączenia powstaje fundusz inwestycyjny otwarty.
+- **2)** połączenie co najmniej dwóch funduszy inwestycyjnych otwartych lub co najmniej dwóch subfunduszy wydzielonych w funduszu lub funduszach inwestycyjnych otwartych z wydzielonymi subfunduszami jeżeli w wyniku połączenia powstaje fundusz zagraniczny lub subfundusz wydzielony w funduszu zagranicznym, albo
+- **3)** połączenie co najmniej dwóch funduszy zagranicznych lub co najmniej dwóch subfunduszy wydzielonych w funduszu lub funduszach zagranicznych jeżeli w wyniku połączenia powstaje fundusz inwestycyjny otwarty.
 
 2. Połączenie transgraniczne następuje przez:
 
 - **1)** przeniesienie majątku jednego lub więcej funduszu inwestycyjnego otwartego lub jednego lub więcej subfunduszu wydzielonego w funduszu lub funduszach inwestycyjnych otwartych z wydzielonymi subfunduszami:
     - **a)** do funduszu zagranicznego lub subfunduszu wydzielonego w funduszu zagranicznym albo
-    - **b)** do funduszu zagranicznego lub subfunduszu wydzielonego w funduszu zagranicznym łącznie z majątkiem jednego lub więcej funduszy zagranicznych lub jednego lub więcej subfunduszy wydzielonych w funduszu lub funduszach zagranicznych – oraz przydzielenie uczestnikom funduszu przejmowanego lub subfunduszu przejmowanego tytułów uczestnictwa funduszu przejmującego lub subfunduszu przejmującego w zamian za jednostki uczestnictwa lub tytuły uczestnictwa funduszu przejmowanego lub subfunduszu przejmowanego (połączenie transgraniczne przez przejęcie funduszu krajowego) albo
+    - **b)** do funduszu zagranicznego lub subfunduszu wydzielonego w funduszu zagranicznym łącznie z majątkiem jednego lub więcej funduszy zagranicznych lub jednego lub więcej subfunduszy wydzielonych w funduszu lub funduszach zagranicznych oraz przydzielenie uczestnikom funduszu przejmowanego lub subfunduszu przejmowanego tytułów uczestnictwa funduszu przejmującego lub subfunduszu przejmującego w zamian za jednostki uczestnictwa lub tytuły uczestnictwa funduszu przejmowanego lub subfunduszu przejmowanego (połączenie transgraniczne przez przejęcie funduszu krajowego) albo
 
 - **2)** utworzenie funduszu zagranicznego lub subfunduszu wydzielonego w funduszu zagranicznym, do którego zostaje wniesiony:
     - **a)** majątek dwóch lub więcej funduszy inwestycyjnych otwartych lub dwóch lub więcej subfunduszy wydzielonych w funduszu lub funduszach inwestycyjnych otwartych z wydzielonymi subfunduszami albo
-    - **b)** majątek jednego lub więcej funduszy inwestycyjnych otwartych lub jednego lub więcej subfunduszy wydzielonych w funduszu lub funduszach inwestycyjnych otwartych z wydzielonymi subfunduszami łącznie z majątkiem jednego lub więcej funduszy zagranicznych lub jednego lub więcej subfunduszy wydzielonych w funduszu lub funduszach zagranicznych – w zamian za przydzielenie uczestnikom funduszu przejmowanego lub subfunduszu przejmowanego tytułów uczestnictwa nowo tworzonego funduszu przejmującego lub subfunduszu przejmującego (połączenie transgraniczne przez utworzenie funduszu zagranicznego), albo
+    - **b)** majątek jednego lub więcej funduszy inwestycyjnych otwartych lub jednego lub więcej subfunduszy wydzielonych w funduszu lub funduszach inwestycyjnych otwartych z wydzielonymi subfunduszami łącznie z majątkiem jednego lub więcej funduszy zagranicznych lub jednego lub więcej subfunduszy wydzielonych w funduszu lub funduszach zagranicznych w zamian za przydzielenie uczestnikom funduszu przejmowanego lub subfunduszu przejmowanego tytułów uczestnictwa nowo tworzonego funduszu przejmującego lub subfunduszu przejmującego (połączenie transgraniczne przez utworzenie funduszu zagranicznego), albo
 
 - **3)** przeniesienie majątku jednego lub więcej funduszy zagranicznych lub jednego lub więcej subfunduszy wydzielonych w funduszu lub funduszach zagranicznych:
     - **a)** do funduszu inwestycyjnego otwartego lub do istniejącego lub nowo tworzonego subfunduszu wydzielonego w funduszu inwestycyjnym otwartym albo
-    - **b)** do funduszu inwestycyjnego otwartego lub do istniejącego lub nowo tworzonego subfunduszu wydzielonego w funduszu inwestycyjnym otwartym łącznie z majątkiem jednego lub więcej funduszy inwestycyjnych otwartych lub jednego lub więcej subfunduszy wydzielonych w funduszu lub funduszach inwestycyjnych otwartych z wydzielonymi subfunduszami – oraz przydzielenie uczestnikom funduszu przejmowanego lub subfunduszu przejmowanego jednostek uczestnictwa funduszu przejmującego lub subfunduszu przejmującego w zamian za jednostki uczestnictwa lub tytuły uczestnictwa funduszu przejmowanego (połączenie transgraniczne przez przejęcie funduszu zagranicznego), albo
+    - **b)** do funduszu inwestycyjnego otwartego lub do istniejącego lub nowo tworzonego subfunduszu wydzielonego w funduszu inwestycyjnym otwartym łącznie z majątkiem jednego lub więcej funduszy inwestycyjnych otwartych lub jednego lub więcej subfunduszy wydzielonych w funduszu lub funduszach inwestycyjnych otwartych z wydzielonymi subfunduszami oraz przydzielenie uczestnikom funduszu przejmowanego lub subfunduszu przejmowanego jednostek uczestnictwa funduszu przejmującego lub subfunduszu przejmującego w zamian za jednostki uczestnictwa lub tytuły uczestnictwa funduszu przejmowanego (połączenie transgraniczne przez przejęcie funduszu zagranicznego), albo
 
 - **4)** utworzenie funduszu inwestycyjnego otwartego, do którego zostaje wniesiony:
     - **a)** majątek dwóch lub więcej funduszy zagranicznych lub dwóch lub więcej subfunduszy wydzielonych w funduszu lub funduszach zagranicznych albo
-    - **b)** majątek jednego lub więcej funduszy zagranicznych lub jednego lub więcej subfunduszy wydzielonych w funduszu lub funduszach zagranicznych łącznie z majątkiem jednego lub więcej funduszy inwestycyjnych otwartych lub jednego lub więcej subfunduszy wydzielonych w funduszu lub funduszach inwestycyjnych otwartych z wydzielonymi subfunduszami – w zamian za przydzielenie uczestnikom funduszu przejmowanego lub subfunduszu przejmowanego jednostek uczestnictwa nowo tworzonego funduszu przejmującego (połączenie transgraniczne przez utworzenie funduszu krajowego).
+    - **b)** majątek jednego lub więcej funduszy zagranicznych lub jednego lub więcej subfunduszy wydzielonych w funduszu lub funduszach zagranicznych łącznie z majątkiem jednego lub więcej funduszy inwestycyjnych otwartych lub jednego lub więcej subfunduszy wydzielonych w funduszu lub funduszach inwestycyjnych otwartych z wydzielonymi subfunduszami w zamian za przydzielenie uczestnikom funduszu przejmowanego lub subfunduszu przejmowanego jednostek uczestnictwa nowo tworzonego funduszu przejmującego (połączenie transgraniczne przez utworzenie funduszu krajowego).
 
 3. Jeżeli jest to zgodne z przepisami prawa państwa macierzystego funduszu zagranicznego, połączenie transgraniczne przez przejęcie funduszu krajowego może nastąpić także przez przeniesienie na fundusz zagraniczny lub subfundusz wydzielony w funduszu zagranicznym wyłącznie aktywów netto funduszu inwestycyjnego otwartego lub subfunduszu wydzielonego w funduszu inwestycyjnym otwartym z wydzielonymi subfunduszami.
 
@@ -5607,8 +5722,8 @@ Art. 300–319. (pominięte)
 
 1. Połączenie funduszu powiązanego:
 
-- **1)** z innym funduszem powiązanym albo funduszem zagranicznym prowadzącym działalność polegającą na lokowaniu co najmniej 85 % aktywów funduszu w jednostki uczestnictwa funduszu podstawowego wymaga dodatkowo wcześniejszego uzyskania zezwolenia Komisji, o którym mowa w art. 169p ust. 1 – jeżeli połączenie skutkować będzie zmianą funduszu podstawowego;
-- **2)** z innym funduszem inwestycyjnym otwartym albo funduszem zagranicznym wymaga dodatkowo wcześniejszego uzyskania zezwolenia Komisji, o którym mowa w art. 169s ust. 1 – jeżeli połączenie skutkować będzie zaprzestaniem przez fundusz powiązany prowadzenia działalności jako fundusz powiązany.
+- **1)** z innym funduszem powiązanym albo funduszem zagranicznym prowadzącym działalność polegającą na lokowaniu co najmniej 85 % aktywów funduszu w jednostki uczestnictwa funduszu podstawowego wymaga dodatkowo wcześniejszego uzyskania zezwolenia Komisji, o którym mowa w art. 169p ust. 1 jeżeli połączenie skutkować będzie zmianą funduszu podstawowego;
+- **2)** z innym funduszem inwestycyjnym otwartym albo funduszem zagranicznym wymaga dodatkowo wcześniejszego uzyskania zezwolenia Komisji, o którym mowa w art. 169s ust. 1 jeżeli połączenie skutkować będzie zaprzestaniem przez fundusz powiązany prowadzenia działalności jako fundusz powiązany.
 
 2. Połączenie krajowe i transgraniczne wymaga sporządzenia dokumentu informacyjnego funduszu przejmowanego i funduszu przejmującego. Dokumentu informacyjnego funduszu przejmującego nie sporządza się w przypadku połączenia krajowego przez utworzenie funduszu.
 
@@ -5618,12 +5733,12 @@ Art. 300–319. (pominięte)
 - **2)** wskazanie rodzaju i metody połączenia;
 - **3)** wskazanie przyczyn i celu połączenia funduszy;
 - **4)** opis skutków łączenia funduszy:
-    - **a)** dla uczestników funduszu przejmującego – w przypadku dokumentu informacyjnego funduszu przejmującego,
-    - **b)** dla uczestników funduszu przejmowanego – w przypadku dokumentu informacyjnego funduszu przejmowanego;
+    - **a)** dla uczestników funduszu przejmującego w przypadku dokumentu informacyjnego funduszu przejmującego,
+    - **b)** dla uczestników funduszu przejmowanego w przypadku dokumentu informacyjnego funduszu przejmowanego;
 
 - **5)** wskazanie procedury połączenia i planowanej daty połączenia;
-- **6)** kopie kluczowych informacji funduszu przejmującego, a w przypadku dokumentu informacyjnego udostępnianego inwestorom innym niż inwestorzy indywidualni, którym fundusz przejmujący udostępnia kluczowe informacje dla inwestorów – kopie kluczowych informacji dla inwestorów, z tym że w przypadku dokumentu informacyjnego funduszu przejmującego wyłącznie w przypadku ich zmiany wynikającej z połączenia;
-- **7)** treść statutu funduszu przejmującego – w przypadku dokumentu informacyjnego funduszu przejmowanego.
+- **6)** kopie kluczowych informacji funduszu przejmującego, a w przypadku dokumentu informacyjnego udostępnianego inwestorom innym niż inwestorzy indywidualni, którym fundusz przejmujący udostępnia kluczowe informacje dla inwestorów kopie kluczowych informacji dla inwestorów, z tym że w przypadku dokumentu informacyjnego funduszu przejmującego wyłącznie w przypadku ich zmiany wynikającej z połączenia;
+- **7)** treść statutu funduszu przejmującego w przypadku dokumentu informacyjnego funduszu przejmowanego.
 
 4. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, szczegółowy zakres informacji, które powinny być zawarte w dokumencie informacyjnym funduszu przejmującego oraz dokumencie informacyjnym funduszu przejmowanego, mając na względzie konieczność przedstawienia tych informacji w sposób zrozumiały dla uczestników funduszy, umożliwienie uczestnikom dokonania należytej oceny wpływu połączenia na inwestycję w dany fundusz inwestycyjny oraz skorzystanie przez nich z praw określonych w art. 208p ust. 2.
 
@@ -5642,9 +5757,9 @@ Art. 300–319. (pominięte)
 - **1)** niedopuszczalne jest stwierdzenie nieważności uchwały zgromadzenia uczestników o wyrażeniu zgody na połączenie;
 - **2)** postępowanie w przedmiocie zaskarżenia uchwały zgromadzenia uczestników o wyrażeniu zgody na połączenie umarza się.
 
-2. Towarzystwo, a w przypadku zawarcia umowy, o której mowa w art. 4 ust. 1a – spółka zarządzająca, odpowiada wobec skarżącego za szkodę wyrządzoną uchwałą o połączeniu sprzeczną z ustawą lub statutem funduszu.
+2. Towarzystwo, a w przypadku zawarcia umowy, o której mowa w art. 4 ust. 1a spółka zarządzająca, odpowiada wobec skarżącego za szkodę wyrządzoną uchwałą o połączeniu sprzeczną z ustawą lub statutem funduszu.
 
-3. W przypadku połączenia krajowego oraz transgranicznego, towarzystwo, a w przypadku zawarcia umowy, o której mowa w art. 4 ust. 1a – spółka zarządzająca, może wystąpić do sądu, do którego zostało wniesione powództwo o stwierdzenie nieważności uchwały zgromadzenia uczestników o wyrażeniu zgody na połączenie funduszy, z wnioskiem o wydanie postanowienia zezwalającego na wykreślenie funduszu przejmowanego z rejestru funduszy inwestycyjnych albo na wpisanie funduszu przejmującego do tego rejestru.
+3. W przypadku połączenia krajowego oraz transgranicznego, towarzystwo, a w przypadku zawarcia umowy, o której mowa w art. 4 ust. 1a spółka zarządzająca, może wystąpić do sądu, do którego zostało wniesione powództwo o stwierdzenie nieważności uchwały zgromadzenia uczestników o wyrażeniu zgody na połączenie funduszy, z wnioskiem o wydanie postanowienia zezwalającego na wykreślenie funduszu przejmowanego z rejestru funduszy inwestycyjnych albo na wpisanie funduszu przejmującego do tego rejestru.
 
 4. Sąd wyda postanowienie, o którym mowa w ust. 3, jeżeli:
 
@@ -5652,7 +5767,7 @@ Art. 300–319. (pominięte)
 - **2)** powództwo jest oczywiście bezzasadne, albo
 - **3)** uzna, po rozpoznaniu wniosku na rozprawie, że interes uczestników funduszu przejmowanego uzasadnia przeprowadzenie połączenia bez zbędnej zwłoki.
 
-5. Sąd wydaje postanowienie, o którym mowa w ust. 3, niezwłocznie, jednak nie później niż w terminie 2 tygodni od dnia wpływu wniosku, a jeżeli sąd zadecyduje o rozpoznaniu wniosku na rozprawie – w terminie miesiąca.
+5. Sąd wydaje postanowienie, o którym mowa w ust. 3, niezwłocznie, jednak nie później niż w terminie 2 tygodni od dnia wpływu wniosku, a jeżeli sąd zadecyduje o rozpoznaniu wniosku na rozprawie w terminie miesiąca.
 
 6. Na postanowienie, o którym mowa w ust. 3, przysługuje zażalenie rozpatrywane w terminie 2 tygodni.
 
@@ -5660,7 +5775,7 @@ Art. 300–319. (pominięte)
 
 1. Koszty związane z przygotowaniem i przeprowadzeniem połączenia funduszy ponoszą wyłącznie towarzystwa, spółki zarządzające lub zarządzający z UE, którzy zarządzają tymi funduszami.
 
-2. Towarzystwo, a w przypadku zawarcia umowy, o której mowa w art. 4 ust. 1a albo 1b – spółka zarządzająca albo zarządzający z UE, ponosi odpowiedzialność wobec uczestników zarządzanego przez siebie funduszu inwestycyjnego za szkodę wyrządzoną połączeniem funduszy.
+2. Towarzystwo, a w przypadku zawarcia umowy, o której mowa w art. 4 ust. 1a albo 1b spółka zarządzająca albo zarządzający z UE, ponosi odpowiedzialność wobec uczestników zarządzanego przez siebie funduszu inwestycyjnego za szkodę wyrządzoną połączeniem funduszy.
 
 3. Połączenie funduszy nie może nastąpić z naruszeniem interesu uczestników funduszu krajowego lub subfunduszu wydzielonego w funduszu krajowym z wydzielonymi subfunduszami.
 
@@ -5674,9 +5789,9 @@ Art. 300–319. (pominięte)
 
 2. Do wniosku, o którym mowa w ust. 1, załącza się statuty, prospekty informacyjne funduszy biorących udział w połączeniu oraz:
 
-- **1)** kluczowe informacje – w przypadku udostępniania przez fundusze biorące udział w połączeniu kluczowych informacji wszystkim inwestorom albo
-- **2)** kluczowe informacje i kluczowe informacje dla inwestorów – w przypadku udostępniania przez fundusze biorące udział w połączeniu kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo
-- **3)** kluczowe informacje dla inwestorów – w przypadku zbywania przez fundusze biorące udział w połączeniu jednostek uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów.
+- **1)** kluczowe informacje w przypadku udostępniania przez fundusze biorące udział w połączeniu kluczowych informacji wszystkim inwestorom albo
+- **2)** kluczowe informacje i kluczowe informacje dla inwestorów w przypadku udostępniania przez fundusze biorące udział w połączeniu kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo
+- **3)** kluczowe informacje dla inwestorów w przypadku zbywania przez fundusze biorące udział w połączeniu jednostek uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów.
 
 3. Komisja odmawia udzielenia zgody, o której mowa w ust. 1, jeżeli planowane połączenie jest sprzeczne z przepisami prawa lub postanowieniami statutu funduszu lub jeżeli dokumenty załączone do wniosku nie są zgodne z przepisami prawa lub stanem faktycznym.
 
@@ -5742,7 +5857,7 @@ Art. 300–319. (pominięte)
 
 - **1)** sporządzenia planu połączenia;
 - **2)** uzyskania przez fundusz przejmowany zgody Komisji na połączenie funduszy;
-- **3)** zawiadomienia przez fundusz przejmowany, a w przypadku połączenia krajowego przez przejęcie – również przez fundusz przejmujący, każdego ze swoich uczestników o planowanym połączeniu;
+- **3)** zawiadomienia przez fundusz przejmowany, a w przypadku połączenia krajowego przez przejęcie również przez fundusz przejmujący, każdego ze swoich uczestników o planowanym połączeniu;
 - **4)** uzyskania zgody zgromadzenia uczestników funduszy przejmowanych na połączenie funduszy.
 
 2. Jeżeli połączenie krajowe ma nastąpić przez utworzenie funduszu, do utworzenia funduszu inwestycyjnego, który ma być funduszem przejmującym, o ile nic innego nie wynika z przepisów niniejszego działu, stosuje się przepisy o utworzeniu funduszu inwestycyjnego. Przed uzyskaniem zgody, o której mowa w ust. 1 pkt 2, wymagane jest uzyskanie zezwolenia Komisji na utworzenie funduszu inwestycyjnego, który ma być funduszem przejmującym, zgodnie z przepisami art. 22 i art. 23. Plan połączenia sporządza się niezwłocznie po uzyskaniu zezwolenia.
@@ -5751,7 +5866,7 @@ Art. 300–319. (pominięte)
 
 4. Jeżeli plan połączenia nie wymaga do skuteczności połączenia udziału w połączeniu wszystkich funduszy przejmowanych, połączenie dochodzi do skutku pod warunkiem uzyskania:
 
-- **1)** zgody Komisji na połączenie funduszy – przez co najmniej jeden fundusz przejmowany, a w przypadku połączenia krajowego przez utworzenie funduszu – przez co najmniej dwa fundusze przejmowane, oraz
+- **1)** zgody Komisji na połączenie funduszy przez co najmniej jeden fundusz przejmowany, a w przypadku połączenia krajowego przez utworzenie funduszu przez co najmniej dwa fundusze przejmowane, oraz
 - **2)** zgody zgromadzenia uczestników funduszy, które uzyskały zgodę Komisji, o której mowa w pkt 1.
 
 **Art. 208j.**
@@ -5772,14 +5887,14 @@ Art. 300–319. (pominięte)
 
 - **1)** odmowie udzielenia funduszowi przejmowanemu, bez którego zgodnie z planem połączenia połączenie nie dojdzie do skutku, zgody Komisji na połączenie funduszy,
 - **2)** podjęciu przez zgromadzenie uczestników funduszu przejmowanego, bez którego zgodnie z planem połączenia połączenie nie dojdzie do skutku, uchwały o niewyrażeniu zgody na połączenie,
-- **3)** nieodbyciu się ważnego zgromadzenia uczestników funduszu przejmowanego, bez którego zgodnie z planem połączenia połączenie nie dojdzie do skutku, chyba że w terminie określonym w ust. 1 jest możliwe zwołanie kolejnego zgromadzenia uczestników tego funduszu przejmowanego – towarzystwo zmieni statut funduszu w zakresie, o którym mowa w art. 208j ust. 2, dokona w prospekcie informacyjnym funduszu zmian niezbędnych do przeprowadzenia zapisów na jednostki uczestnictwa funduszu, przeprowadzi zapisy na jednostki uczestnictwa, dokona ich przydziału oraz złoży wniosek o wpisanie funduszu do rejestru funduszy inwestycyjnych. W takim przypadku art. 26 ust. 2–3, art. 27–29 i art. 30 ust. 1 i 3 stosuje się odpowiednio.
+- **3)** nieodbyciu się ważnego zgromadzenia uczestników funduszu przejmowanego, bez którego zgodnie z planem połączenia połączenie nie dojdzie do skutku, chyba że w terminie określonym w ust. 1 jest możliwe zwołanie kolejnego zgromadzenia uczestników tego funduszu przejmowanego towarzystwo zmieni statut funduszu w zakresie, o którym mowa w art. 208j ust. 2, dokona w prospekcie informacyjnym funduszu zmian niezbędnych do przeprowadzenia zapisów na jednostki uczestnictwa funduszu, przeprowadzi zapisy na jednostki uczestnictwa, dokona ich przydziału oraz złoży wniosek o wpisanie funduszu do rejestru funduszy inwestycyjnych. W takim przypadku art. 26 ust. 2–3, art. 27–29 i art. 30 ust. 1 i 3 stosuje się odpowiednio.
 
 **Art. 208l.**
 
 1. Plan połączenia sporządzają i podpisują:
 
-- **1)** fundusz przejmowany i fundusz przejmujący – w przypadku połączenia krajowego przez przejęcie;
-- **2)** fundusze przejmowane i towarzystwo, które będzie organem funduszu przejmującego – w przypadku połączenia krajowego przez utworzenie funduszu.
+- **1)** fundusz przejmowany i fundusz przejmujący w przypadku połączenia krajowego przez przejęcie;
+- **2)** fundusze przejmowane i towarzystwo, które będzie organem funduszu przejmującego w przypadku połączenia krajowego przez utworzenie funduszu.
 
 2. Plan połączenia zawiera co najmniej:
 
@@ -5789,8 +5904,8 @@ Art. 300–319. (pominięte)
 - **4)** analizę skutków połączenia dla uczestników funduszu przejmowanego, a w przypadku połączenia krajowego przez przejęcie także funduszu przejmującego, w tym skutków prawnych oraz finansowych;
 - **5)** wskazanie metod i zasad dokonywania wyceny aktywów oraz ustalania wartości aktywów netto funduszy w funduszu przejmowanym i funduszu przejmującym;
 - **6)** wskazanie:
-    - **a)** w przypadku połączenia krajowego przez przejęcie – metody obliczenia stosunku wymiany jednostek uczestnictwa funduszu przejmowanego i funduszu przejmującego, uwzględniającej wszelkie różnice w opłatach obciążających aktywa funduszy przypadających na jednostki uczestnictwa tych funduszy, w tym kategorie jednostek uczestnictwa w funduszu przejmowanym i funduszu przejmującym, albo wartości początkowej nowo tworzonego subfunduszu przejmującego,
-    - **b)** w przypadku połączenia krajowego przez utworzenie funduszu – wartości początkowej jednostki uczestnictwa funduszu przejmującego;
+    - **a)** w przypadku połączenia krajowego przez przejęcie metody obliczenia stosunku wymiany jednostek uczestnictwa funduszu przejmowanego i funduszu przejmującego, uwzględniającej wszelkie różnice w opłatach obciążających aktywa funduszy przypadających na jednostki uczestnictwa tych funduszy, w tym kategorie jednostek uczestnictwa w funduszu przejmowanym i funduszu przejmującym, albo wartości początkowej nowo tworzonego subfunduszu przejmującego,
+    - **b)** w przypadku połączenia krajowego przez utworzenie funduszu wartości początkowej jednostki uczestnictwa funduszu przejmującego;
 
 - **7)** wskazanie planowanego terminu połączenia.
 
@@ -5897,8 +6012,8 @@ Art. 300–319. (pominięte)
 
 1. W dniu obliczenia stosunku wymiany jednostek uczestnictwa:
 
-- **1)** w przypadku połączenia krajowego przez przejęcie – towarzystwo będące organem funduszu przejmującego przydziela uczestnikowi funduszu przejmowanego jednostki uczestnictwa funduszu przejmującego w liczbie wynikającej z podzielenia iloczynu liczby jednostek uczestnictwa funduszu przejmowanego posiadanych przez tego uczestnika i wartości aktywów netto funduszu przejmowanego przypadających na jednostkę uczestnictwa w dniu poprzedzającym dzień obliczenia stosunku wymiany przez wartość aktywów netto funduszu przejmującego przypadających na jednostkę uczestnictwa w tym funduszu w dniu poprzedzającym dzień obliczenia stosunku wymiany; w przypadku gdy przejmujący subfundusz jest nowo tworzony, jednostki uczestnictwa tego subfunduszu przydziela się uczestnikowi funduszu przejmowanego w liczbie wynikającej z podzielenia iloczynu liczby jednostek uczestnictwa funduszu przejmowanego posiadanych przez tego uczestnika i wartości aktywów netto funduszu przejmowanego przypadających na jednostkę uczestnictwa w dniu poprzedzającym dzień obliczenia stosunku wymiany przez wartość początkową jednostki uczestnictwa subfunduszu przejmującego podaną w planie połączenia;
-- **2)** w przypadku połączenia krajowego przez utworzenie funduszu – towarzystwo tworzące fundusz przejmujący przydziela uczestnikowi funduszu przejmowanego jednostki uczestnictwa funduszu przejmującego w liczbie wynikającej z podzielenia iloczynu liczby jednostek uczestnictwa funduszu przejmowanego posiadanych przez tego uczestnika i wartości aktywów netto funduszu przejmowanego przypadających na jednostkę uczestnictwa w dniu poprzedzającym dzień obliczenia stosunku wymiany przez wartość początkową jednostki uczestnictwa funduszu przejmującego.
+- **1)** w przypadku połączenia krajowego przez przejęcie towarzystwo będące organem funduszu przejmującego przydziela uczestnikowi funduszu przejmowanego jednostki uczestnictwa funduszu przejmującego w liczbie wynikającej z podzielenia iloczynu liczby jednostek uczestnictwa funduszu przejmowanego posiadanych przez tego uczestnika i wartości aktywów netto funduszu przejmowanego przypadających na jednostkę uczestnictwa w dniu poprzedzającym dzień obliczenia stosunku wymiany przez wartość aktywów netto funduszu przejmującego przypadających na jednostkę uczestnictwa w tym funduszu w dniu poprzedzającym dzień obliczenia stosunku wymiany; w przypadku gdy przejmujący subfundusz jest nowo tworzony, jednostki uczestnictwa tego subfunduszu przydziela się uczestnikowi funduszu przejmowanego w liczbie wynikającej z podzielenia iloczynu liczby jednostek uczestnictwa funduszu przejmowanego posiadanych przez tego uczestnika i wartości aktywów netto funduszu przejmowanego przypadających na jednostkę uczestnictwa w dniu poprzedzającym dzień obliczenia stosunku wymiany przez wartość początkową jednostki uczestnictwa subfunduszu przejmującego podaną w planie połączenia;
+- **2)** w przypadku połączenia krajowego przez utworzenie funduszu towarzystwo tworzące fundusz przejmujący przydziela uczestnikowi funduszu przejmowanego jednostki uczestnictwa funduszu przejmującego w liczbie wynikającej z podzielenia iloczynu liczby jednostek uczestnictwa funduszu przejmowanego posiadanych przez tego uczestnika i wartości aktywów netto funduszu przejmowanego przypadających na jednostkę uczestnictwa w dniu poprzedzającym dzień obliczenia stosunku wymiany przez wartość początkową jednostki uczestnictwa funduszu przejmującego.
 
 2. W przypadku połączenia krajowego przez przejęcie, w którym zgodnie z planem połączenia bierze udział więcej niż jeden fundusz przejmowany, dzień obliczenia stosunku wymiany kolejnego funduszu przejmowanego nie może przypadać przed dniem wykreślenia z rejestru funduszy inwestycyjnych poprzedniego funduszu przejmowanego, a w przypadku gdy poprzednio przejmowany był subfundusz, dzień obliczenia stosunku wymiany kolejnego funduszu przejmowanego nie może przypadać przed dniem wydania opinii przez firmę audytorską, o której mowa w art. 208u.
 
@@ -5953,8 +6068,8 @@ Art. 300–319. (pominięte)
 
 1. Dniem połączenia jest:
 
-- **1)** w przypadku połączenia krajowego przez przejęcie – dzień wykreślenia funduszu przejmowanego z rejestru funduszy inwestycyjnych, a w przypadku gdy przejęciu ulega subfundusz – dzień przydziału jednostek uczestnictwa funduszu przejmującego;
-- **2)** w przypadku połączenia krajowego przez utworzenie funduszu – dzień wpisania funduszu przejmującego do rejestru funduszy inwestycyjnych.
+- **1)** w przypadku połączenia krajowego przez przejęcie dzień wykreślenia funduszu przejmowanego z rejestru funduszy inwestycyjnych, a w przypadku gdy przejęciu ulega subfundusz dzień przydziału jednostek uczestnictwa funduszu przejmującego;
+- **2)** w przypadku połączenia krajowego przez utworzenie funduszu dzień wpisania funduszu przejmującego do rejestru funduszy inwestycyjnych.
 
 2. Z dniem połączenia:
 
@@ -5965,7 +6080,7 @@ Art. 300–319. (pominięte)
 
 - **1)** depozytariusz funduszu przejmowanego oraz inne podmioty przechowujące aktywa funduszu przejmowanego wydają depozytariuszowi funduszu przejmującego rejestr aktywów i przechowywane aktywa funduszu przejmowanego oraz dokumenty związane z wykonywaniem obowiązków określonych w art. 72;
 - **2)** fundusz przejmujący zamieszcza na stronach internetowych wskazanych w statucie informację o dokonanym połączeniu, ze wskazaniem dnia połączenia, oraz informuje o połączeniu Komisję;
-- **3)** fundusz przejmujący dokonuje zawiadomienia zgodnie z art. 261 w państwach członkowskich, na terytorium których fundusze przejmowane były uprawnione do zbywania jednostek uczestnictwa – w przypadku połączenia krajowego przez utworzenie funduszu.
+- **3)** fundusz przejmujący dokonuje zawiadomienia zgodnie z art. 261 w państwach członkowskich, na terytorium których fundusze przejmowane były uprawnione do zbywania jednostek uczestnictwa w przypadku połączenia krajowego przez utworzenie funduszu.
 
 2. Do dnia otrzymania powiadomienia, o którym mowa w art. 261a ust. 5, fundusz przejmujący nie może zbywać jednostek uczestnictwa na terytorium danego państwa członkowskiego.
 
@@ -5986,6 +6101,12 @@ Art. 300–319. (pominięte)
 **Art. 209.** Za zezwoleniem Komisji, wydanym na wniosek towarzystwa, towarzystwo może zarządzać zbiorczym portfelem papierów wartościowych.
 
 **Art. 210.** Do wniosku, o którym mowa w art. 209, załącza się:
+
+- **1)** dane osobowe osób zatrudnionych w towarzystwie, które mają istotny wpływ na zarządzanie zbiorczym portfelem papierów wartościowych, w tym w szczególności na decyzje inwestycyjne towarzystwa w tym zakresie;
+- **2)** firmę, siedzibę i adres depozytariusza;
+- **3)** listę osób wyznaczonych przez depozytariusza do wykonywania obowiązków określonych w umowie;
+- **4)** informacje o kwalifikacjach i doświadczeniu zawodowym osób, o których mowa w pkt 1 i 3, w szczególności w zakresie lokowania w papiery wartościowe i inne prawa majątkowe, które mogą wchodzić w skład zbiorczego portfela papierów wartościowych, oraz informacje z Krajowego Rejestru Karnego;
+- **5)** regulamin zbiorczego portfela papierów wartościowych.
 
 **Art. 211.** Do zezwolenia, o którym mowa w art. 209, stosuje się odpowiednio art. 23.
 
@@ -6082,9 +6203,9 @@ Art. 300–319. (pominięte)
 1. Fundusz inwestycyjny otwarty oraz specjalistyczny fundusz inwestycyjny otwarty mają obowiązek publikowania na stronach internetowych wskazanych w statucie funduszu:
 
 - **1)** prospektów informacyjnych oraz:
-    - **a)** kluczowych informacji – w przypadku udostępniania przez te fundusze kluczowych informacji wszystkim inwestorom albo
-    - **b)** kluczowych informacji i kluczowych informacji dla inwestorów – w przypadku udostępniania przez te fundusze kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo
-    - **c)** kluczowych informacji dla inwestorów – w przypadku zbywania przez te fundusze jednostek uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów;
+    - **a)** kluczowych informacji w przypadku udostępniania przez te fundusze kluczowych informacji wszystkim inwestorom albo
+    - **b)** kluczowych informacji i kluczowych informacji dla inwestorów w przypadku udostępniania przez te fundusze kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo
+    - **c)** kluczowych informacji dla inwestorów w przypadku zbywania przez te fundusze jednostek uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów;
 
 - **2)** rocznych i półrocznych sprawozdań finansowych, w tym połączonych sprawozdań funduszy z wydzielonymi subfunduszami i sprawozdań jednostkowych subfunduszy.
 
@@ -6119,7 +6240,7 @@ Art. 300–319. (pominięte)
 - **5)** w razie zmiany statutu funduszu, wpływającej na sposób dokonywania lokat przez fundusz lub prezentowania danych o poszczególnych składnikach lokat funduszu albo zmiany sposobu prezentacji informacji o składnikach lokat funduszu:
     - **a)** zamieszczać na stronie internetowej lub w informacji dla uczestnika szczegółowe informacje o przyczynach dokonania zmian w zakresie prezentacji informacji o poszczególnych składnikach lokat funduszu,
     - **b)** zamieszczać na stronie internetowej lub w informacji dla uczestnika różnice w zakresie prezentacji informacji o poszczególnych składnikach lokat funduszu wraz ze szczegółowym wyjaśnieniem tych różnic,
-    - **c)** jeżeli nastąpiła zmiana zakresu informacji o poszczególnych składnikach lokat funduszu lub zmiana okresu, za które prezentowane są informacje o poszczególnych składnikach lokat funduszu, obok informacji zawierającej dane za okres w nowym układzie prezentacyjnym: – ujawniać, przez okres 6 miesięcy, dane porównawcze za okres dotychczasowy w dotychczasowym układzie prezentacyjnym, – ujawniać, przez okres 6 miesięcy, dane porównawcze w nowym układzie prezentacyjnym za okres 6 miesięcy poprzedzających dzień prezentacji danych w nowym układzie prezentacyjnym.
+    - **c)** jeżeli nastąpiła zmiana zakresu informacji o poszczególnych składnikach lokat funduszu lub zmiana okresu, za które prezentowane są informacje o poszczególnych składnikach lokat funduszu, obok informacji zawierającej dane za okres w nowym układzie prezentacyjnym: ujawniać, przez okres 6 miesięcy, dane porównawcze za okres dotychczasowy w dotychczasowym układzie prezentacyjnym, ujawniać, przez okres 6 miesięcy, dane porównawcze w nowym układzie prezentacyjnym za okres 6 miesięcy poprzedzających dzień prezentacji danych w nowym układzie prezentacyjnym.
 
 **Art. 220.**
 
@@ -6176,15 +6297,15 @@ Art. 300–319. (pominięte)
 
 2a. Na żądanie podmiotu, o którym mowa w art. 32 ust. 1 pkt 2 i 3 lub ust. 2, towarzystwo przekazuje:
 
-- **1)** kluczowe informacje – w przypadku udostępniania przez fundusz kluczowych informacji wszystkim inwestorom albo
-- **2)** kluczowe informacje i kluczowe informacje dla inwestorów – w przypadku udostępniania przez fundusz kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo
-- **3)** kluczowe informacje dla inwestorów – w przypadku zbywania przez fundusz tytułów uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów.
+- **1)** kluczowe informacje w przypadku udostępniania przez fundusz kluczowych informacji wszystkim inwestorom albo
+- **2)** kluczowe informacje i kluczowe informacje dla inwestorów w przypadku udostępniania przez fundusz kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo
+- **3)** kluczowe informacje dla inwestorów w przypadku zbywania przez fundusz tytułów uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów.
 
 3. W przypadku przyjmowania oświadczeń woli związanych z przystąpieniem do funduszu inwestycyjnego za pośrednictwem osób, o których mowa w art. 33 ust. 1, obowiązek określony w ust. 1 oraz w art. 13 i art. 14 rozporządzenia 1286/2014 wykonuje się przez te osoby.
 
-4. Od dnia ogłoszenia o zwołaniu zgromadzenia uczestników funduszu inwestycyjnego otwartego przy zbywaniu jednostek uczestnictwa funduszu wraz z kluczowymi informacjami, a w przypadku gdy fundusz udostępnia kluczowe informacje dla inwestorów inwestorom innym niż inwestorzy indywidualni – wraz z kluczowymi informacjami dla inwestorów, udostępnia się informację o planowanym zgromadzeniu uczestników zawierającą informacje, o których mowa w art. 87c ust. 3.
+4. Od dnia ogłoszenia o zwołaniu zgromadzenia uczestników funduszu inwestycyjnego otwartego przy zbywaniu jednostek uczestnictwa funduszu wraz z kluczowymi informacjami, a w przypadku gdy fundusz udostępnia kluczowe informacje dla inwestorów inwestorom innym niż inwestorzy indywidualni wraz z kluczowymi informacjami dla inwestorów, udostępnia się informację o planowanym zgromadzeniu uczestników zawierającą informacje, o których mowa w art. 87c ust. 3.
 
-5. Od dnia zgromadzenia uczestników zwołanego w związku z planowanym połączeniem funduszy przy zbywaniu jednostek uczestnictwa funduszu wraz z kluczowymi informacjami, a w przypadku gdy fundusz udostępnia kluczowe informacje dla inwestorów inwestorom innym niż inwestorzy indywidualni – wraz z kluczowymi informacjami dla inwestorów, udostępnia się informację o planowanym połączeniu, chyba że zgromadzenie uczestników funduszu nie podjęło ważnej uchwały o wyrażeniu zgody na połączenie.
+5. Od dnia zgromadzenia uczestników zwołanego w związku z planowanym połączeniem funduszy przy zbywaniu jednostek uczestnictwa funduszu wraz z kluczowymi informacjami, a w przypadku gdy fundusz udostępnia kluczowe informacje dla inwestorów inwestorom innym niż inwestorzy indywidualni wraz z kluczowymi informacjami dla inwestorów, udostępnia się informację o planowanym połączeniu, chyba że zgromadzenie uczestników funduszu nie podjęło ważnej uchwały o wyrażeniu zgody na połączenie.
 
 6. Fundusz inwestycyjny otwarty jest obowiązany udostępnić uczestnikowi funduszu bezpłatnie, na jego żądanie, prospekt informacyjny wraz z aktualnymi informacjami o zmianach w tym prospekcie, a także roczne i półroczne sprawozdania finansowe, połączone sprawozdania finansowe funduszu z wydzielonymi subfunduszami oraz sprawozdania jednostkowe subfunduszy.
 
@@ -6196,16 +6317,16 @@ Art. 300–319. (pominięte)
 
 10. Fundusz inwestycyjny otwarty przekazuje Komisji:
 
-- **1)** prospekty informacyjne i kluczowe informacje lub kluczowe informacje dla inwestorów – niezwłocznie po ich sporządzeniu;
-- **2)** roczne sprawozdania finansowe, a w przypadku funduszu z wydzielonymi subfunduszami roczne połączone sprawozdanie finansowe funduszu oraz roczne sprawozdania jednostkowe subfunduszy – niezwłocznie po ich zbadaniu przez biegłego rewidenta;
-- **3)** półroczne sprawozdania finansowe, a w przypadku funduszu z wydzielonymi subfunduszami półroczne połączone sprawozdanie finansowe funduszu oraz półroczne sprawozdania jednostkowe subfunduszy – niezwłocznie po dokonaniu ich przeglądu przez biegłego rewidenta.
+- **1)** prospekty informacyjne i kluczowe informacje lub kluczowe informacje dla inwestorów niezwłocznie po ich sporządzeniu;
+- **2)** roczne sprawozdania finansowe, a w przypadku funduszu z wydzielonymi subfunduszami roczne połączone sprawozdanie finansowe funduszu oraz roczne sprawozdania jednostkowe subfunduszy niezwłocznie po ich zbadaniu przez biegłego rewidenta;
+- **3)** półroczne sprawozdania finansowe, a w przypadku funduszu z wydzielonymi subfunduszami półroczne połączone sprawozdanie finansowe funduszu oraz półroczne sprawozdania jednostkowe subfunduszy niezwłocznie po dokonaniu ich przeglądu przez biegłego rewidenta.
 
 11. Fundusz inwestycyjny otwarty będący funduszem powiązanym przekazuje Komisji, poza dokumentami wskazanymi w ust. 10, niezwłocznie:
 
 - **1)** prospekt informacyjny funduszu podstawowego, a także:
-    - **a)** kluczowe informacje – w przypadku udostępniania przez fundusz podstawowy kluczowych informacji wszystkim inwestorom albo
-    - **b)** kluczowe informacje i kluczowe informacje dla inwestorów – w przypadku udostępniania przez fundusz podstawowy kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo
-    - **c)** kluczowe informacje dla inwestorów – w przypadku zbywania przez fundusz podstawowy tytułów uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów – oraz zmiany tych dokumentów;
+    - **a)** kluczowe informacje w przypadku udostępniania przez fundusz podstawowy kluczowych informacji wszystkim inwestorom albo
+    - **b)** kluczowe informacje i kluczowe informacje dla inwestorów w przypadku udostępniania przez fundusz podstawowy kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo
+    - **c)** kluczowe informacje dla inwestorów w przypadku zbywania przez fundusz podstawowy tytułów uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów oraz zmiany tych dokumentów;
 
 - **2)** roczne i półroczne sprawozdania finansowe funduszu podstawowego.
 
@@ -6215,9 +6336,9 @@ Art. 300–319. (pominięte)
 
 14. Fundusz inwestycyjny otwarty jest obowiązany udostępniać we wszystkich miejscach zbywania jednostek uczestnictwa oraz na stronach internetowych wskazanych w statucie funduszu aktualne informacje o zmianach w prospekcie informacyjnym i ujednoliconą wersję:
 
-- **1)** kluczowych informacji – w przypadku udostępniania przez fundusz kluczowych informacji wszystkim inwestorom albo
-- **2)** kluczowych informacji i kluczowych informacji dla inwestorów – w przypadku udostępniania przez fundusz kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo
-- **3)** kluczowych informacji dla inwestorów – w przypadku zbywania przez fundusz jednostek uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów.
+- **1)** kluczowych informacji w przypadku udostępniania przez fundusz kluczowych informacji wszystkim inwestorom albo
+- **2)** kluczowych informacji i kluczowych informacji dla inwestorów w przypadku udostępniania przez fundusz kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo
+- **3)** kluczowych informacji dla inwestorów w przypadku zbywania przez fundusz jednostek uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów.
 
 **Art. 222a.**
 
@@ -6226,8 +6347,8 @@ Art. 300–319. (pominięte)
 2. Informacja dla klienta alternatywnego funduszu inwestycyjnego jest sporządzana w formie jednolitego dokumentu i zawiera:
 
 - **1)** firmę (nazwę), siedzibę i adres funduszu, alternatywnej spółki inwestycyjnej albo unijnego AFI, a w przypadku gdy są one:
-    - **a)** funduszem powiązanym albo działają jako AFI powiązany – także firmę (nazwę), siedzibę i adres funduszu podstawowego lub AFI podstawowego,
-    - **b)** funduszem funduszy – także firmę (nazwę), siedzibę i adres funduszy bazowych;
+    - **a)** funduszem powiązanym albo działają jako AFI powiązany także firmę (nazwę), siedzibę i adres funduszu podstawowego lub AFI podstawowego,
+    - **b)** funduszem funduszy także firmę (nazwę), siedzibę i adres funduszy bazowych;
 
 - **2)** firmę (nazwę), siedzibę i adres podmiotu, który zarządza funduszem, alternatywną spółką inwestycyjną lub unijnym AFI, a także depozytariusza, firmy audytorskiej oraz innych podmiotów świadczących usługi na rzecz funduszu, alternatywnej spółki inwestycyjnej lub unijnego AFI, z opisem ich obowiązków oraz praw uczestnika funduszu albo inwestora alternatywnej spółki inwestycyjnej lub unijnego AFI;
 - **3)** opis przedmiotu działalności funduszu, alternatywnej spółki inwestycyjnej albo unijnego AFI, w tym ich celu inwestycyjnego i polityki inwestycyjnej oraz strategii inwestycyjnych, w szczególności opis rodzajów aktywów, w które może inwestować, technik, które może stosować, rodzajów ryzyka związanego z inwestycją, ograniczeń inwestycyjnych, okoliczności, w których może korzystać z dźwigni finansowej AFI, dozwolonych rodzajów i źródeł dźwigni finansowej AFI oraz ryzyka i ograniczeń związanych z jej stosowaniem, ustaleń dotyczących zabezpieczeń i ich ponownego wykorzystania, a także maksymalnego poziomu dźwigni finansowej AFI, jaki może być stosowany w ich imieniu;
@@ -6254,7 +6375,7 @@ Art. 300–319. (pominięte)
 
 - **1)** prospekt informacyjny lub warunki emisji funduszu inwestycyjnego,
 - **2)** prospekt lub memorandum informacyjne funduszu inwestycyjnego albo alternatywnej spółki inwestycyjnej na podstawie przepisów rozporządzenia 2017/1129 albo ustawy o ofercie publicznej,
-- **3)** prospekt unijnego AFI na podstawie przepisów prawa właściwego dla tego AFI – obowiązek określony w ust. 1 obejmuje informacje, o których mowa w ust. 2, wyłącznie w zakresie, w jakim nie są one udostępniane w treści dokumentów, o których mowa w pkt 1–3.
+- **3)** prospekt unijnego AFI na podstawie przepisów prawa właściwego dla tego AFI obowiązek określony w ust. 1 obejmuje informacje, o których mowa w ust. 2, wyłącznie w zakresie, w jakim nie są one udostępniane w treści dokumentów, o których mowa w pkt 1–3.
 
 6. W przypadku określonym w ust. 5 informacje, o których mowa w ust. 2, udostępnia się w formie jednolitego dokumentu zawierającego dodatkowo wzmiankę, że informacje w nim zawarte stanowią uzupełnienie prospektu emisyjnego, memorandum informacyjnego, prospektu informacyjnego lub warunków emisji, wraz z informacją o miejscu, formie i terminie udostępnienia tych dokumentów.
 
@@ -6264,13 +6385,22 @@ Art. 300–319. (pominięte)
 
 **Art. 222b.** W przypadku gdy jednostki uczestnictwa specjalistycznego funduszu inwestycyjnego otwartego, certyfikaty inwestycyjne funduszu inwestycyjnego zamkniętego, alternatywna spółka inwestycyjna lub unijny AFI są odpowiednio zbywane, emitowane lub wprowadzane do obrotu na terytorium Rzeczypospolitej Polskiej, towarzystwo, zarządzający ASI prowadzący działalność na podstawie zezwolenia albo zarządzający z UE udostępniają odpowiednio uczestnikom funduszu oraz inwestorom alternatywnej spółki inwestycyjnej lub unijnego AFI, z uwzględnieniem art. 108 i art. 109 rozporządzenia 231/2013:
 
+- **1)** okresowo w odniesieniu do każdego funduszu, każdej alternatywnej spółki inwestycyjnej lub każdego unijnego AFI, informacje o:
+    - **a)** udziale procentowym aktywów, które są przedmiotem specjalnych ustaleń w związku z ich niepłynnością,
+    - **b)** zmianach regulacji wewnętrznych dotyczących zarządzania płynnością,
+    - **c)** aktualnym profilu ryzyka oraz systemach zarządzania ryzykiem stosowanych przez podmiot nim zarządzający;
+
+- **2)** regularnie w odniesieniu do funduszu, alternatywnej spółki inwestycyjnej lub unijnego AFI, które stosują dźwignię finansową AFI, informacje o:
+    - **a)** zmianach maksymalnego poziomu dźwigni finansowej AFI, który może być stosowany w ich imieniu, oraz prawie do ponownego wykorzystania zabezpieczeń lub gwarancji udzielonej na podstawie porozumienia dotyczącego dźwigni finansowej AFI,
+    - **b)** łącznej wysokości zastosowanej dźwigni finansowej AFI.
+
 **Art. 222c.**
 
 1. Towarzystwo oraz zarządzający ASI sporządzają i przekazują Komisji, z uwzględnieniem art. 110 rozporządzenia 231/2013, okresowe sprawozdania dotyczące:
 
 - **1)** działalności inwestycyjnej wykonywanej w imieniu zarządzanych specjalistycznych funduszy inwestycyjnych otwartych, funduszy inwestycyjnych zamkniętych, alternatywnych spółek inwestycyjnych i unijnych AFI;
-- **2)** płynności i zarządzania ryzykiem zarządzanych specjalistycznych funduszy inwestycyjnych otwartych, funduszy inwestycyjnych zamkniętych, alternatywnych spółek inwestycyjnych i unijnych AFI – w odniesieniu do każdego funduszu, każdej alternatywnej spółki inwestycyjnej i każdego unijnego AFI;
-- **3)** stosowania dźwigni finansowej AFI w zarządzanych specjalistycznych funduszach inwestycyjnych otwartych, funduszach inwestycyjnych zamkniętych, alternatywnych spółkach inwestycyjnych i unijnych AFI, które stosują dźwignię finansową AFI – w odniesieniu do każdego funduszu, każdej alternatywnej spółki inwestycyjnej i każdego unijnego AFI.
+- **2)** płynności i zarządzania ryzykiem zarządzanych specjalistycznych funduszy inwestycyjnych otwartych, funduszy inwestycyjnych zamkniętych, alternatywnych spółek inwestycyjnych i unijnych AFI w odniesieniu do każdego funduszu, każdej alternatywnej spółki inwestycyjnej i każdego unijnego AFI;
+- **3)** stosowania dźwigni finansowej AFI w zarządzanych specjalistycznych funduszach inwestycyjnych otwartych, funduszach inwestycyjnych zamkniętych, alternatywnych spółkach inwestycyjnych i unijnych AFI, które stosują dźwignię finansową AFI w odniesieniu do każdego funduszu, każdej alternatywnej spółki inwestycyjnej i każdego unijnego AFI.
 
 2. Towarzystwo oraz zarządzający ASI przekazują Komisji na jej żądanie, w zakresie określonym w ust. 1, dodatkowe informacje niezbędne do monitorowania skutków ich działalności o znaczeniu istotnym dla funkcjonowania rynku finansowego.
 
@@ -6286,7 +6416,7 @@ Art. 300–319. (pominięte)
 
 2. Towarzystwo oraz zarządzający ASI prowadzący działalność na podstawie zezwolenia w terminie 6 miesięcy od dnia zakończenia roku obrotowego przekazują Komisji oraz inwestorom odpowiednio alternatywnej spółki inwestycyjnej lub unijnego AFI na ich żądanie sprawozdanie roczne AFI sporządzone odrębnie w odniesieniu do:
 
-- **1)** każdej alternatywnej spółki inwestycyjnej, którą zarządza – w przypadku zarządzającego ASI;
+- **1)** każdej alternatywnej spółki inwestycyjnej, którą zarządza w przypadku zarządzającego ASI;
 - **2)** każdego unijnego AFI, którym zarządzają.
 
 3. Zarządzający z UE w terminie 6 miesięcy od dnia zakończenia roku obrotowego przekazuje inwestorom odpowiednio alternatywnej spółki inwestycyjnej lub unijnego AFI na ich żądanie sprawozdanie roczne AFI sporządzone odrębnie w odniesieniu do:
@@ -6298,17 +6428,17 @@ Art. 300–319. (pominięte)
 
 - **1)** bilansu za dany rok obrotowy;
 - **2)** rachunku zysków i strat za dany rok obrotowy;
-- **3)** zestawienia dodatkowych informacji o spółce oraz zestawienia lokat – w przypadku alternatywnej spółki inwestycyjnej;
+- **3)** zestawienia dodatkowych informacji o spółce oraz zestawienia lokat w przypadku alternatywnej spółki inwestycyjnej;
 - **4)** sprawozdania z działalności alternatywnego funduszu inwestycyjnego za dany rok obrotowy;
 - **5)** opisu istotnych zmian informacji wymienionych w informacji dla klienta alternatywnego funduszu inwestycyjnego zaistniałych w trakcie roku obrotowego;
-- **6)** informacji dotyczącej sytuacji na koniec okresu objętego sprawozdaniem rocznym oraz działalności w okresie objętym sprawozdaniem rocznym spółki nienotowanej na rynku regulowanym, nad którą specjalistyczny fundusz inwestycyjny otwarty, fundusz inwestycyjny zamknięty albo alternatywna spółka inwestycyjna przejęli kontrolę – chyba że informacje te są zawarte w sprawozdaniu finansowym tej spółki nienotowanej na rynku regulowanym;
+- **6)** informacji dotyczącej sytuacji na koniec okresu objętego sprawozdaniem rocznym oraz działalności w okresie objętym sprawozdaniem rocznym spółki nienotowanej na rynku regulowanym, nad którą specjalistyczny fundusz inwestycyjny otwarty, fundusz inwestycyjny zamknięty albo alternatywna spółka inwestycyjna przejęli kontrolę chyba że informacje te są zawarte w sprawozdaniu finansowym tej spółki nienotowanej na rynku regulowanym;
 - **7)** informacji obejmującej:
     - **a)** liczbę pracowników podmiotu, który zarządza alternatywnym funduszem inwestycyjnym,
     - **b)** całkowite kwoty wynagrodzeń wypłaconych przez podmiot, który zarządza alternatywnym funduszem inwestycyjnym, pracownikom, w tym odrębnie, całkowitą kwotę wynagrodzeń wypłaconych osobom, o których mowa w art. 47a ust. 1 i art. 70j ust. 1,
     - **c)** kwotę wynagrodzenia dodatkowego wypłaconego ze środków alternatywnego funduszu inwestycyjnego;
 
-- **8)** informacji, o których mowa w art. 12 ust. 1 zdanie drugie i trzecie rozporządzenia 345/2013 – w przypadku alternatywnego funduszu inwestycyjnego posługującego się nazwą „EuVECA”;
-- **9)** informacji, o których mowa w art. 13 ust. 1 zdanie drugie i trzecie oraz w ust. 2 rozporządzenia 346/2013 – w przypadku alternatywnego funduszu inwestycyjnego posługującego się nazwą „EuSEF”.
+- **8)** informacji, o których mowa w art. 12 ust. 1 zdanie drugie i trzecie rozporządzenia 345/2013 w przypadku alternatywnego funduszu inwestycyjnego posługującego się nazwą „EuVECA”;
+- **9)** informacji, o których mowa w art. 13 ust. 1 zdanie drugie i trzecie oraz w ust. 2 rozporządzenia 346/2013 w przypadku alternatywnego funduszu inwestycyjnego posługującego się nazwą „EuSEF”.
 
 5. Informacje, o których mowa w ust. 4 pkt 1–3, są zamieszczane w sprawozdaniu rocznym AFI po uprzednim ich zbadaniu przez biegłego rewidenta w ramach badania rocznego sprawozdania finansowego danego alternatywnego funduszu inwestycyjnego.
 
@@ -6320,8 +6450,8 @@ Art. 300–319. (pominięte)
 
 9. Przez wynagrodzenie dodatkowe, o którym mowa w ust. 4 pkt 7 lit. c, rozumie się:
 
-- **1)** w odniesieniu do funduszu inwestycyjnego – kwotę wynagrodzenia uzależnionego od wyników funduszu inwestycyjnego przypadającą towarzystwu;
-- **2)** w odniesieniu do unijnego AFI lub do alternatywnej spółki inwestycyjnej – kwotę stanowiącą część zysków unijnego AFI lub alternatywnej spółki inwestycyjnej przypadających towarzystwu lub zarządzającemu ASI jako wynagrodzenie za zarządzanie, z wyłączeniem kwot z tytułu dokonanych przez towarzystwo lub zarządzającego ASI inwestycji w unijny AFI lub alternatywną spółkę inwestycyjną.
+- **1)** w odniesieniu do funduszu inwestycyjnego kwotę wynagrodzenia uzależnionego od wyników funduszu inwestycyjnego przypadającą towarzystwu;
+- **2)** w odniesieniu do unijnego AFI lub do alternatywnej spółki inwestycyjnej kwotę stanowiącą część zysków unijnego AFI lub alternatywnej spółki inwestycyjnej przypadających towarzystwu lub zarządzającemu ASI jako wynagrodzenie za zarządzanie, z wyłączeniem kwot z tytułu dokonanych przez towarzystwo lub zarządzającego ASI inwestycji w unijny AFI lub alternatywną spółkę inwestycyjną.
 
 **Art. 222e.**
 
@@ -6335,9 +6465,13 @@ Art. 300–319. (pominięte)
 
 **Art. 223.** Biegły rewident jest obowiązany, za pośrednictwem firmy audytorskiej:
 
+- **1)** towarzystwa albo zarządzającego ASI prowadzącego działalność na podstawie zezwolenia albo zarządzającego ASI prowadzącego działalność na podstawie wpisu do rejestru zarządzających ASI,
+- **2)** funduszu inwestycyjnego albo alternatywnej spółki inwestycyjnej uprawnionej do posługiwania się nazwą „EuVECA” albo alternatywnej spółki inwestycyjnej uprawnionej do posługiwania się nazwą „EuSEF”,
+- **3)** innego podmiotu wykonującego na podstawie umowy zawartej z towarzystwem lub funduszem inwestycyjnym albo z zarządzającym ASI prowadzącym działalność na podstawie zezwolenia albo z zarządzającym ASI prowadzącym działalność na podstawie wpisu do rejestru zarządzających ASI czynności w zakresie zarządzania lub obsługi odpowiednio funduszu albo alternatywnej spółki inwestycyjnej powiadomić Komisję o stwierdzonych podczas badania, przeglądu sprawozdań finansowych lub atestacji sprawozdawczości zrównoważonego rozwoju tych podmiotów istotnych uchybieniach w działalności badanego lub podlegającego atestacji sprawozdawczości zrównoważonego rozwoju podmiotu oraz naruszeniach obowiązujących przepisów.
+
 **Art. 224.** Fundusz inwestycyjny ma obowiązek ogłaszać, w sposób określony w statucie, wartość aktywów netto na jednostkę uczestnictwa lub certyfikat inwestycyjny oraz cenę zbycia i odkupienia jednostek uczestnictwa, niezwłocznie po ich ustaleniu.
 
-**Art. 224a.** Nadzór Komisji w zakresie zgodności z prawem wykonywania działalności określonej w ustawie obejmuje zgodność tej działalności z przepisami ustawy i przepisami wydanymi na jej podstawie oraz z bezpośrednio stosowanymi przepisami prawa wspólnotowego regulującymi działalność w zakresie zbiorowego inwestowania oraz działalność zarządzania alternatywnymi funduszami inwestycyjnymi, a także z mającymi zastosowanie do tych działalności przepisami ustawy o ofercie publicznej, ustawy o obrocie instrumentami finansowymi, ustawy o rachunkowości, ustawy o nadzorze nad rynkiem kapitałowym, ustawy z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego (Dz. U. z 2024 r. poz. 707 oraz z 2025 r. poz.
+**Art. 224a.** Nadzór Komisji w zakresie zgodności z prawem wykonywania działalności określonej w ustawie obejmuje zgodność tej działalności z przepisami ustawy i przepisami wydanymi na jej podstawie oraz z bezpośrednio stosowanymi przepisami prawa wspólnotowego regulującymi działalność w zakresie zbiorowego inwestowania oraz działalność zarządzania alternatywnymi funduszami inwestycyjnymi, a także z mającymi zastosowanie do tych działalności przepisami ustawy o ofercie publicznej, ustawy o obrocie instrumentami finansowymi, ustawy o rachunkowości, ustawy o nadzorze nad rynkiem kapitałowym, ustawy z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego (Dz. U. z 2024 r. poz. 707 oraz z 2025 r. poz. 1216) oraz ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych.
 
 **Art. 225.**
 
@@ -6365,7 +6499,7 @@ Art. 300–319. (pominięte)
 - **4)** podmiot prowadzący rejestr uczestników funduszu inwestycyjnego w celu sprawdzenia, czy jego działalność w zakresie wykonywania obowiązków wynikających z umowy zawartej z funduszem inwestycyjnym jest zgodna z tą umową oraz statutem funduszu inwestycyjnego,
 - **5)** podmiot, o którym mowa w art. 192 ust. 1, w celu sprawdzenia, czy jego działalność w zakresie zarządzania wierzytelnościami, o których mowa w art. 183 ust. 1, jest zgodna z prawem, statutem funduszu inwestycyjnego, umową zawartą z towarzystwem oraz z udzielonym zezwoleniem,
 - **6)** przedstawiciel funduszu zagranicznego lub przedstawiciel funduszu inwestycyjnego otwartego z siedzibą w państwach należących do EEA w celu sprawdzenia, czy jego działalność w zakresie obowiązków przedstawiciela funduszu jest zgodna z prawem i umową zawartą z funduszem, a także w celu sprawdzenia, czy fundusz zagraniczny lub fundusz inwestycyjny otwarty z siedzibą w państwach należących do EEA wykonuje działalność zgodnie z przepisami obowiązującymi na terytorium Rzeczypospolitej Polskiej,
-- **7)** agent płatności w celu sprawdzenia, czy jego działalność w zakresie przyjmowania wpłat na nabycie tytułów uczestnictwa i dokonywania wypłat na rzecz uczestników funduszu zagranicznego lub funduszu inwestycyjnego otwartego z siedzibą w państwach należących do EEA jest zgodna z prawem i umową zawartą z funduszem – mają obowiązek dostarczania informacji, dokumentów lub wyjaśnień niezbędnych do wykonywania efektywnego nadzoru.
+- **7)** agent płatności w celu sprawdzenia, czy jego działalność w zakresie przyjmowania wpłat na nabycie tytułów uczestnictwa i dokonywania wypłat na rzecz uczestników funduszu zagranicznego lub funduszu inwestycyjnego otwartego z siedzibą w państwach należących do EEA jest zgodna z prawem i umową zawartą z funduszem mają obowiązek dostarczania informacji, dokumentów lub wyjaśnień niezbędnych do wykonywania efektywnego nadzoru.
 
 2. Komisja lub jej upoważniony przedstawiciel, kierując żądanie, o którym mowa w ust. 1, wskazuje termin jego wykonania.
 
@@ -6380,7 +6514,7 @@ Art. 300–319. (pominięte)
 - **5)** podmiot, któremu zarządzający ASI powierzył wykonywanie czynności na podstawie umowy, o której mowa w art. 70g ust. 1, oraz podmiot, któremu wykonywanie takich czynności zostało przekazane,
 - **6)** podmiot, któremu zarządzający ASI prowadzący działalność na podstawie wpisu do rejestru zarządzających ASI wpisany do rejestru zarządzających EuVECA lub wpisany do rejestru zarządzających EuSEF powierzył wykonywanie czynności na podstawie umowy, o której mowa w art. 70g ust. 1, oraz podmiot, któremu wykonywanie takich czynności zostało przekazane,
 - **7)** podmiot prowadzący rejestr uczestników funduszu inwestycyjnego,
-- **8)** podmiot, o którym mowa w art. 192 ust. 1 – o stwierdzonych nieprawidłowościach oraz wyznaczyć termin do ich usunięcia.
+- **8)** podmiot, o którym mowa w art. 192 ust. 1 o stwierdzonych nieprawidłowościach oraz wyznaczyć termin do ich usunięcia.
 
 2. Podmiot, o którym mowa w ust. 1, do którego zostało skierowane powiadomienie, może w terminie 7 dni od dnia doręczenia powiadomienia pisemnie zgłosić umotywowane zastrzeżenia do treści powiadomienia.
 
@@ -6401,27 +6535,27 @@ Art. 300–319. (pominięte)
 
 1. Na podstawie upoważnienia wydanego przez Przewodniczącego Komisji osoba w nim wskazana ma prawo wstępu do pomieszczeń:
 
-- **1)** towarzystwa – w celu sprawdzenia, czy jego działalność jest zgodna z prawem, ze statutem i regulacjami wewnętrznymi oraz z udzielonym zezwoleniem lub zgodą Komisji;
-- **1a)** zarządzającego ASI prowadzącego działalność na podstawie zezwolenia – w celu sprawdzenia, czy jego działalność jest zgodna z prawem, ze statutem albo umową spółki i regulacjami wewnętrznymi ASI oraz z udzielonym zezwoleniem;
-- **1b)** zarządzającego ASI prowadzącego działalność na podstawie wpisu do rejestru zarządzających ASI – w celu sprawdzenia, czy jego działalność jest zgodna z prawem;
-- **1c)** alternatywnej spółki inwestycyjnej – w celu sprawdzenia, czy jej działalność jest zgodna z przepisami regulującymi działalność takich spółek, przepisami ustawy o nadzorze nad rynkiem kapitałowym, ustawy o ofercie publicznej lub ustawy o obrocie instrumentami finansowymi, regulacjami wewnętrznymi ASI lub czy alternatywna spółka inwestycyjna działa zgodnie z postanowieniami prospektu emisyjnego;
-- **2)** depozytariusza – w celu sprawdzenia, czy jego działalność w zakresie wykonywania obowiązków depozytariusza jest zgodna z prawem oraz z umową o wykonywanie funkcji depozytariusza odpowiednio funduszu inwestycyjnego albo alternatywnej spółki inwestycyjnej;
-- **3)** podmiotu, o którym mowa w art. 32 ust. 2 – w celu sprawdzenia, czy jego działalność w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa lub tytułów uczestnictwa lub wykupywaniu certyfikatów inwestycyjnych jest zgodna z prawem, umową zawartą z funduszem i udzielonym zezwoleniem;
-- **4)** podmiotu, któremu towarzystwo powierzyło wykonywanie czynności na podstawie umowy, o której mowa w art. 45a ust. 1, oraz podmiotu, któremu wykonywanie takich czynności zostało przekazane – w celu sprawdzenia, czy działalność tego podmiotu w zakresie wykonywania obowiązków wynikających z zawartej umowy jest zgodna z tą umową, a także zgodna z prawem oraz ze statutem funduszu inwestycyjnego;
-- **4a)** podmiotu, któremu zarządzający ASI prowadzący działalność na podstawie zezwolenia powierzył wykonywanie czynności na podstawie umowy, o której mowa w art. 70g ust. 1, oraz podmiotu, któremu wykonywanie takich czynności zostało przekazane – w celu sprawdzenia, czy działalność takiego podmiotu w zakresie wykonywania obowiązków wynikających z zawartej umowy jest zgodna z tą umową, a także zgodna z prawem oraz ze statutem albo umową spółki będącej alternatywną spółką inwestycyjną;
-- **4b)** podmiotu, któremu zarządzający ASI prowadzący działalność na podstawie wpisu do rejestru zarządzających ASI wpisany do rejestru zarządzających EuVECA lub wpisany do rejestru zarządzających EuSEF powierzył wykonywanie czynności na podstawie umowy, o której mowa w art. 70g ust. 1, oraz podmiotu, któremu wykonywanie takich czynności zostało przekazane – w celu sprawdzenia, czy działalność takiego podmiotu w zakresie wykonywania obowiązków wynikających z zawartej umowy jest zgodna z tą umową, a także zgodna z prawem oraz ze statutem albo umową spółki będącej alternatywną spółką inwestycyjną;
-- **5)** podmiotu prowadzącego rejestr uczestników funduszu inwestycyjnego – w celu sprawdzenia, czy jego działalność w zakresie wykonywania obowiązków wynikających z umowy zawartej z funduszem inwestycyjnym jest zgodna z tą umową oraz statutem funduszu inwestycyjnego;
-- **6)** spółki zarządzającej, oddziału spółki zarządzającej lub funduszu zagranicznego, spółki zarządzającej funduszami inwestycyjnymi otwartymi z siedzibą w państwach należących do EEA, oddziału tej spółki lub funduszu inwestycyjnego otwartego z siedzibą w państwach należących do EEA, znajdujących się na terytorium Rzeczypospolitej Polskiej – w celu sprawdzenia, czy ich działalność jest wykonywana zgodnie z przepisami obowiązującymi na terytorium Rzeczypospolitej Polskiej;
-- **6a)** zarządzającego z UE lub jego oddziału znajdującego się na terytorium Rzeczypospolitej Polskiej – w celu sprawdzenia, czy ich działalność jest wykonywana zgodnie z przepisami obowiązującymi na terytorium Rzeczypospolitej Polskiej;
-- **7)** podmiotu, o którym mowa w art. 192 ust. 1 – w celu sprawdzenia, czy jego działalność w zakresie zarządzania wierzytelnościami, o których mowa w art. 183 ust. 1, jest zgodna z prawem, statutem funduszu inwestycyjnego, umową zawartą z towarzystwem oraz z udzielonym zezwoleniem;
-- **8)** przedstawiciela funduszu zagranicznego lub przedstawiciela funduszu inwestycyjnego otwartego z siedzibą w państwach należących do EEA – w celu sprawdzenia, czy jego działalność w zakresie obowiązków przedstawiciela funduszu jest zgodna z prawem i umową zawartą z funduszem, a także w celu sprawdzenia, czy fundusz zagraniczny lub fundusz inwestycyjny otwarty z siedzibą w państwach należących do EEA wykonuje działalność zgodnie z przepisami obowiązującymi na terytorium Rzeczypospolitej Polskiej;
-- **9)** agenta płatności – w celu sprawdzenia, czy jego działalność w zakresie przyjmowania wpłat na nabycie tytułów uczestnictwa i dokonywania wypłat na rzecz uczestników funduszu zagranicznego lub funduszu inwestycyjnego otwartego z siedzibą w państwach należących do EEA jest zgodna z prawem i umową zawartą z funduszem.
+- **1)** towarzystwa w celu sprawdzenia, czy jego działalność jest zgodna z prawem, ze statutem i regulacjami wewnętrznymi oraz z udzielonym zezwoleniem lub zgodą Komisji;
+- **1a)** zarządzającego ASI prowadzącego działalność na podstawie zezwolenia w celu sprawdzenia, czy jego działalność jest zgodna z prawem, ze statutem albo umową spółki i regulacjami wewnętrznymi ASI oraz z udzielonym zezwoleniem;
+- **1b)** zarządzającego ASI prowadzącego działalność na podstawie wpisu do rejestru zarządzających ASI w celu sprawdzenia, czy jego działalność jest zgodna z prawem;
+- **1c)** alternatywnej spółki inwestycyjnej w celu sprawdzenia, czy jej działalność jest zgodna z przepisami regulującymi działalność takich spółek, przepisami ustawy o nadzorze nad rynkiem kapitałowym, ustawy o ofercie publicznej lub ustawy o obrocie instrumentami finansowymi, regulacjami wewnętrznymi ASI lub czy alternatywna spółka inwestycyjna działa zgodnie z postanowieniami prospektu emisyjnego;
+- **2)** depozytariusza w celu sprawdzenia, czy jego działalność w zakresie wykonywania obowiązków depozytariusza jest zgodna z prawem oraz z umową o wykonywanie funkcji depozytariusza odpowiednio funduszu inwestycyjnego albo alternatywnej spółki inwestycyjnej;
+- **3)** podmiotu, o którym mowa w art. 32 ust. 2 w celu sprawdzenia, czy jego działalność w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa lub tytułów uczestnictwa lub wykupywaniu certyfikatów inwestycyjnych jest zgodna z prawem, umową zawartą z funduszem i udzielonym zezwoleniem;
+- **4)** podmiotu, któremu towarzystwo powierzyło wykonywanie czynności na podstawie umowy, o której mowa w art. 45a ust. 1, oraz podmiotu, któremu wykonywanie takich czynności zostało przekazane w celu sprawdzenia, czy działalność tego podmiotu w zakresie wykonywania obowiązków wynikających z zawartej umowy jest zgodna z tą umową, a także zgodna z prawem oraz ze statutem funduszu inwestycyjnego;
+- **4a)** podmiotu, któremu zarządzający ASI prowadzący działalność na podstawie zezwolenia powierzył wykonywanie czynności na podstawie umowy, o której mowa w art. 70g ust. 1, oraz podmiotu, któremu wykonywanie takich czynności zostało przekazane w celu sprawdzenia, czy działalność takiego podmiotu w zakresie wykonywania obowiązków wynikających z zawartej umowy jest zgodna z tą umową, a także zgodna z prawem oraz ze statutem albo umową spółki będącej alternatywną spółką inwestycyjną;
+- **4b)** podmiotu, któremu zarządzający ASI prowadzący działalność na podstawie wpisu do rejestru zarządzających ASI wpisany do rejestru zarządzających EuVECA lub wpisany do rejestru zarządzających EuSEF powierzył wykonywanie czynności na podstawie umowy, o której mowa w art. 70g ust. 1, oraz podmiotu, któremu wykonywanie takich czynności zostało przekazane w celu sprawdzenia, czy działalność takiego podmiotu w zakresie wykonywania obowiązków wynikających z zawartej umowy jest zgodna z tą umową, a także zgodna z prawem oraz ze statutem albo umową spółki będącej alternatywną spółką inwestycyjną;
+- **5)** podmiotu prowadzącego rejestr uczestników funduszu inwestycyjnego w celu sprawdzenia, czy jego działalność w zakresie wykonywania obowiązków wynikających z umowy zawartej z funduszem inwestycyjnym jest zgodna z tą umową oraz statutem funduszu inwestycyjnego;
+- **6)** spółki zarządzającej, oddziału spółki zarządzającej lub funduszu zagranicznego, spółki zarządzającej funduszami inwestycyjnymi otwartymi z siedzibą w państwach należących do EEA, oddziału tej spółki lub funduszu inwestycyjnego otwartego z siedzibą w państwach należących do EEA, znajdujących się na terytorium Rzeczypospolitej Polskiej w celu sprawdzenia, czy ich działalność jest wykonywana zgodnie z przepisami obowiązującymi na terytorium Rzeczypospolitej Polskiej;
+- **6a)** zarządzającego z UE lub jego oddziału znajdującego się na terytorium Rzeczypospolitej Polskiej w celu sprawdzenia, czy ich działalność jest wykonywana zgodnie z przepisami obowiązującymi na terytorium Rzeczypospolitej Polskiej;
+- **7)** podmiotu, o którym mowa w art. 192 ust. 1 w celu sprawdzenia, czy jego działalność w zakresie zarządzania wierzytelnościami, o których mowa w art. 183 ust. 1, jest zgodna z prawem, statutem funduszu inwestycyjnego, umową zawartą z towarzystwem oraz z udzielonym zezwoleniem;
+- **8)** przedstawiciela funduszu zagranicznego lub przedstawiciela funduszu inwestycyjnego otwartego z siedzibą w państwach należących do EEA w celu sprawdzenia, czy jego działalność w zakresie obowiązków przedstawiciela funduszu jest zgodna z prawem i umową zawartą z funduszem, a także w celu sprawdzenia, czy fundusz zagraniczny lub fundusz inwestycyjny otwarty z siedzibą w państwach należących do EEA wykonuje działalność zgodnie z przepisami obowiązującymi na terytorium Rzeczypospolitej Polskiej;
+- **9)** agenta płatności w celu sprawdzenia, czy jego działalność w zakresie przyjmowania wpłat na nabycie tytułów uczestnictwa i dokonywania wypłat na rzecz uczestników funduszu zagranicznego lub funduszu inwestycyjnego otwartego z siedzibą w państwach należących do EEA jest zgodna z prawem i umową zawartą z funduszem.
 
 2. (uchylony)
 
 3. (uchylony)
 
-4. Do kontroli podmiotów, o których mowa w ust. 1, stosuje się odpowiednio przepisy ustawy o nadzorze nad rynkiem kapitałowym oraz przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
+4. Do kontroli podmiotów, o których mowa w ust. 1, stosuje się odpowiednio przepisy ustawy o nadzorze nad rynkiem kapitałowym oraz przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
 
 **Art. 227.**
 
@@ -6446,7 +6580,7 @@ Art. 300–319. (pominięte)
 - **7)** spółce zarządzającej lub oddziałowi tej spółki albo spółce zarządzającej funduszami inwestycyjnymi otwartymi z siedzibą w państwach należących do EEA lub oddziałowi tej spółki, które naruszają przepisy prawa w zakresie prowadzenia działalności na terytorium Rzeczypospolitej Polskiej, 7a) zarządzającemu z UE, jeżeli działalność alternatywnej spółki inwestycyjnej, którą zarządza, narusza przepisy prawa, postanowienia statutu albo umowy spółki będącej alternatywną spółką inwestycyjną, warunki określone w zezwoleniu lub interes inwestorów spółki lub jest niezgodna z postanowieniami prospektu emisyjnego, 7b) zarządzającemu z UE lub jego oddziałowi, którzy naruszają przepisy prawa w zakresie prowadzenia działalności na terytorium Rzeczypospolitej Polskiej,
 - **8)** funduszowi zagranicznemu lub funduszowi inwestycyjnemu otwartemu z siedzibą w państwie należącym do EEA, które naruszają przepisy prawa, zasady uczciwego obrotu lub zasady zbywania na terytorium Rzeczypospolitej Polskiej tytułów uczestnictwa przedstawione w zawiadomieniu, o którym mowa w art. 253 ust. 1,
 - **9)** podmiotowi, o którym mowa w art. 192 ust. 1, który narusza przepisy prawa lub statutu funduszu wierzytelności, nie wypełnia warunków określonych w zezwoleniu lub przekracza zakres zezwolenia, lub wykonuje działalność z naruszeniem zasad uczciwego obrotu lub z naruszeniem interesów uczestników funduszu wierzytelności,
-- **10)** agentowi płatności lub przedstawicielowi funduszu zagranicznego lub funduszu inwestycyjnego otwartego z siedzibą w państwach należących do EEA, którzy wykonują obowiązki wynikające z umowy zawartej z takim funduszem niezgodnie z tą umową oraz przepisami ustawy – zaprzestanie tych działań.
+- **10)** agentowi płatności lub przedstawicielowi funduszu zagranicznego lub funduszu inwestycyjnego otwartego z siedzibą w państwach należących do EEA, którzy wykonują obowiązki wynikające z umowy zawartej z takim funduszem niezgodnie z tą umową oraz przepisami ustawy zaprzestanie tych działań.
 
 2. Środek określony w ust. 1 może być stosowany bez względu na zastosowanie sankcji określonych w art. 228, art. 229a, art. 229b, art. 232–234, art. 259, art. 259a, art. 273 i art. 276g.
 
@@ -6463,7 +6597,7 @@ Art. 300–319. (pominięte)
 4. W przypadku gdy stosowana przez towarzystwo albo zarządzającego ASI prowadzącego działalność na podstawie zezwolenia albo na podstawie wpisu do rejestru zarządzających ASI dźwignia finansowa AFI może przyczynić się do narastania ryzyka systemowego lub ryzyka zakłóceń na rynkach, Komisja, w celu zapewnienia stabilności i bezpieczeństwa systemu finansowego, w drodze decyzji, może:
 
 - **1)** określić limity dźwigni finansowej AFI, którą towarzystwo albo zarządzający ASI ma prawo stosować, lub
-- **2)** nałożyć na towarzystwo albo zarządzającego ASI inne ograniczenia w zarządzaniu alternatywnym funduszem inwestycyjnym w celu zmniejszenia ryzyka związanego ze stosowaną dźwignią finansową AFI – wyznaczając okres stosowania podjętych środków.
+- **2)** nałożyć na towarzystwo albo zarządzającego ASI inne ograniczenia w zarządzaniu alternatywnym funduszem inwestycyjnym w celu zmniejszenia ryzyka związanego ze stosowaną dźwignią finansową AFI wyznaczając okres stosowania podjętych środków.
 
 5. Okres stosowania środków, o których mowa w ust. 4, może zostać, w drodze decyzji, przedłużony.
 
@@ -6484,7 +6618,7 @@ Art. 300–319. (pominięte)
 1. W przypadku gdy towarzystwo narusza przepisy prawa odnoszące się do zasad wykonywania działalności towarzystwa, narusza przepisy prawa regulujące działalność towarzystwa w zakresie dotyczącym funduszy inwestycyjnych otwartych, funduszy zagranicznych lub zbiorczych portfeli papierów wartościowych, nie wypełnia warunków określonych w zezwoleniu na wykonywanie działalności przez towarzystwo lub zgodzie udzielonej przez Komisję, przekracza zakres tego zezwolenia lub narusza interes uczestników funduszu inwestycyjnego otwartego, uczestników funduszu zagranicznego lub uczestników zbiorczego portfela papierów wartościowych, Komisja może, w drodze decyzji:
 
 - **1)** cofnąć zezwolenie albo
-- **2)** nałożyć karę pieniężną w wysokości do 20 949 500 zł albo kwoty stanowiącej równowartość 10 % całkowitego rocznego przychodu wykazanego w ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, a w przypadku braku takiego sprawozdania – karę pieniężną w wysokości do 10 % prognozowanego całkowitego rocznego przychodu określonego w przedłożonej Komisji analizie ekonomiczno-finansowej, o której mowa w art. 58 ust. 1 pkt 3, jeżeli taka równowartość albo kwota 10 % prognozowanego całkowitego rocznego przychodu określonego w takiej analizie przekraczają 20 949 500 zł, albo
+- **2)** nałożyć karę pieniężną w wysokości do 20 949 500 zł albo kwoty stanowiącej równowartość 10 % całkowitego rocznego przychodu wykazanego w ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, a w przypadku braku takiego sprawozdania karę pieniężną w wysokości do 10 % prognozowanego całkowitego rocznego przychodu określonego w przedłożonej Komisji analizie ekonomiczno-finansowej, o której mowa w art. 58 ust. 1 pkt 3, jeżeli taka równowartość albo kwota 10 % prognozowanego całkowitego rocznego przychodu określonego w takiej analizie przekraczają 20 949 500 zł, albo
 - **3)** zastosować łącznie obie sankcje, o których mowa w pkt 1 i 2.
 
 1a. W przypadku gdy jest możliwe ustalenie kwoty korzyści osiągniętej przez towarzystwo w wyniku naruszeń, o których mowa w ust. 1, zamiast kary, o której mowa w ust. 1 pkt 2, Komisja może nałożyć karę pieniężną do wysokości dwukrotnej kwoty osiągniętej korzyści, nawet jeżeli kwota ta przekracza maksymalne kwoty określone w ust. 1 pkt 2.
@@ -6499,12 +6633,12 @@ Art. 300–319. (pominięte)
     - **c)** strategii inwestycyjnych, które mogą stosować alternatywne fundusze inwestycyjne, którymi zarządza lub może zarządzać towarzystwo, albo
 
 - **2)** cofnąć zezwolenie, albo
-- **3)** nałożyć karę pieniężną w wysokości do 20 949 500 zł albo kwoty stanowiącej równowartość 10 % całkowitego rocznego przychodu wykazanego w ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, a w przypadku braku takiego sprawozdania – karę pieniężną w wysokości do 10 % prognozowanego całkowitego rocznego przychodu określonego w przedłożonej Komisji analizie ekonomiczno-finansowej, o której mowa w art. 58 ust. 1 pkt 3, jeżeli taka równowartość albo kwota 10 % prognozowanego całkowitego rocznego przychodu określonego w takiej analizie przekraczają 20 949 500 zł, albo
+- **3)** nałożyć karę pieniężną w wysokości do 20 949 500 zł albo kwoty stanowiącej równowartość 10 % całkowitego rocznego przychodu wykazanego w ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, a w przypadku braku takiego sprawozdania karę pieniężną w wysokości do 10 % prognozowanego całkowitego rocznego przychodu określonego w przedłożonej Komisji analizie ekonomiczno-finansowej, o której mowa w art. 58 ust. 1 pkt 3, jeżeli taka równowartość albo kwota 10 % prognozowanego całkowitego rocznego przychodu określonego w takiej analizie przekraczają 20 949 500 zł, albo
 - **4)** zastosować łącznie sankcje, o których mowa w pkt 1 i 3 albo w pkt 2 i 3. 1ca. W przypadku gdy specjalistyczny fundusz inwestycyjny otwarty, fundusz inwestycyjny zamknięty lub unijny AFI, którym zarządza towarzystwo, jest funduszem z wydzielonymi subfunduszami, ograniczenie zakresu wykonywanej działalności zarządzania alternatywnymi funduszami inwestycyjnymi, o którym mowa w ust. 1c pkt 1 lit. a lub b, może dotyczyć jednego lub kilku subfunduszy wydzielonych w tym funduszu inwestycyjnym lub unijnym AFI. 1cb. Ograniczenie zakresu wykonywanej działalności zarządzania alternatywnymi funduszami inwestycyjnymi, o którym mowa w ust. 1c pkt 1 lit. a lub b, stosuje się także do specjalistycznego funduszu inwestycyjnego otwartego, który przy dokonywaniu lokat stosuje zasady i ograniczenia inwestycyjne funduszu inwestycyjnego zamkniętego, w tym utworzonego jako fundusz aktywów niepublicznych, lub do subfunduszu wydzielonego w specjalistycznym funduszu inwestycyjnym otwartym, który przy dokonywaniu lokat stosuje zasady i ograniczenia inwestycyjne funduszu inwestycyjnego zamkniętego. 1cc. Ograniczenie zakresu wykonywanej działalności zarządzania alternatywnymi funduszami inwestycyjnymi, o którym mowa w ust. 1c pkt 1, jest bezterminowe. Na uzasadniony wniosek towarzystwa Komisja może uchylić decyzję w sprawie ograniczenia zakresu wykonywanej działalności zarządzania alternatywnymi funduszami inwestycyjnymi. Wniosek może zostać złożony nie wcześniej niż po upływie 2 lat od dnia wydania decyzji ograniczającej zakres wykonywanej działalności zarządzania alternatywnymi funduszami inwestycyjnymi. 1cd. Od dnia wydania decyzji ograniczającej zakres wykonywanej działalności zarządzania alternatywnymi funduszami inwestycyjnymi towarzystwo nie może:
 - **1)** zarządzać alternatywnymi funduszami inwestycyjnymi, subfunduszami lub unijnymi AFI wskazanymi w decyzji;
 - **2)** tworzyć określonych w decyzji rodzajów alternatywnych funduszy inwestycyjnych, typów alternatywnych funduszy inwestycyjnych lub subfunduszy;
 - **3)** zarządzać określonymi w decyzji rodzajami alternatywnych funduszy inwestycyjnych, typami alternatywnych funduszy inwestycyjnych lub subfunduszy lub unijnymi AFI lub subfunduszami wydzielonymi w tych unijnych AFI;
-- **4)** stosować określonej w decyzji strategii inwestycyjnej. 1ce. W przypadku wydania decyzji ograniczającej zakres wykonywanej działalności zarządzania alternatywnymi funduszami inwestycyjnymi towarzystwo nie może zarządzać portfelem inwestycyjnym lub częścią portfela inwestycyjnego alternatywnego funduszu inwestycyjnego, którego organem jest inne towarzystwo, w zakresie odpowiadającym zakresowi ograniczenia wykonywanej działalności zarządzania alternatywnymi funduszami inwestycyjnymi wynikającego z decyzji ograniczającej zakres wykonywanej działalności zarządzania alternatywnymi funduszami inwestycyjnymi. Towarzystwo jest obowiązane niezwłocznie poinformować o wydanej decyzji towarzystwo będące organem alternatywnego funduszu inwestycyjnego, którego portfelem inwestycyjnym lub jego częścią zarządza, oraz niezwłocznie odpowiednio rozwiązać lub zmienić zawartą z tym towarzystwem umowę, której przedmiotem jest zlecenie zarządzania portfelem inwestycyjnym funduszu lub jego częścią. 1cf. Od dnia wydania decyzji ograniczającej zakres wykonywanej działalności zarządzania alternatywnymi funduszami inwestycyjnymi alternatywny fundusz inwestycyjny zarządzany przez towarzystwo, wskazany w tej decyzji, jest reprezentowany przez depozytariusza. W tym czasie fundusz nie może zbywać ani odkupywać jednostek uczestnictwa albo nie może emitować ani wykupywać certyfikatów inwestycyjnych. Przepisy art. 68 ust. 1a, 1b oraz 5–7 stosuje się odpowiednio. 1cg. Alternatywny fundusz inwestycyjny, o którym mowa w ust. 1cf, ulega rozwiązaniu, jeżeli w terminie 3 miesięcy od dnia wydania decyzji ograniczającej zakres wykonywanej działalności zarządzania alternatywnymi funduszami inwestycyjnymi inne towarzystwo nie przejmie zarządzania tym alternatywnym funduszem inwestycyjnym. Przepisy art. 68 ust. 3 i 4 stosuje się odpowiednio. 1ch. Od dnia wydania decyzji ograniczającej zakres wykonywanej działalności zarządzania alternatywnymi funduszami inwestycyjnymi zarządzanie specjalistycznym funduszem inwestycyjnym otwartym, będącym funduszem zdefiniowanej daty, o którym mowa w art. 38 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, lub funduszem, o którym mowa w art. 39 tej ustawy, wskazanym w tej decyzji, przejmuje wyznaczona instytucja finansowa, o której mowa w rozdziale 9 tej ustawy. Przepisów art. 238a ust. 1, ust. 2 pkt 1 i 2 oraz ust. 3, 4, 6 i 7 nie stosuje się. Przepis art. 68a ust. 2 stosuje się odpowiednio. 1ci. Jeżeli w dniu wydania decyzji ograniczającej zakres wykonywanej działalności zarządzania alternatywnymi funduszami inwestycyjnymi nie została wyznaczona, zgodnie z przepisami ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, wyznaczona instytucja finansowa, o której mowa w rozdziale 9 tej ustawy, fundusz inwestycyjny, o którym mowa w ust. 1ch, jest reprezentowany i zarządzany przez depozytariusza funduszu. Przepisy art. 68a ust. 4– 10 stosuje się odpowiednio. 1cj. W przypadku gdy ograniczenie zakresu wykonywanej działalności zarządzania alternatywnymi funduszami inwestycyjnymi, o którym mowa w ust. 1c pkt 1, dotyczy zarządzania jednym lub większą liczbą subfunduszy wydzielonych w funduszu z wydzielonymi subfunduszami, wskazanych w decyzji ograniczającej zakres wykonywanej działalności zarządzania alternatywnymi funduszami inwestycyjnymi, towarzystwo może reprezentować alternatywny fundusz inwestycyjny, w zakresie dotyczącym tego subfunduszu lub subfunduszy, do dnia połączenia subfunduszu z funduszem zarządzanym przez inne towarzystwo lub z subfunduszem wydzielonym w funduszu z wydzielonymi subfunduszami zarządzanym przez inne towarzystwo, nie dłużej jednak niż przez 6 miesięcy od dnia wydania decyzji. 1ck. Subfundusz, o którym mowa w ust. 1cj, wskazany w decyzji ograniczającej zakres wykonywanej działalności zarządzania alternatywnymi funduszami inwestycyjnymi, podlega likwidacji, jeżeli w terminie 6 miesięcy od dnia wydania tej decyzji nie zostanie połączony z funduszem zarządzanym przez inne towarzystwo lub z subfunduszem wydzielonym w funduszu z wydzielonymi subfunduszami zarządzanym przez inne towarzystwo. W takim przypadku likwidatorem subfunduszu jest depozytariusz funduszu, w którym subfundusz jest wydzielony. Do połączenia subfunduszu z funduszem zarządzanym przez inne towarzystwo lub z subfunduszem wydzielonym w funduszu z wydzielonymi subfunduszami zarządzanym przez inne towarzystwo stosuje się odpowiednio przepisy działu VIIIA.
+- **4)** stosować określonej w decyzji strategii inwestycyjnej. 1ce. W przypadku wydania decyzji ograniczającej zakres wykonywanej działalności zarządzania alternatywnymi funduszami inwestycyjnymi towarzystwo nie może zarządzać portfelem inwestycyjnym lub częścią portfela inwestycyjnego alternatywnego funduszu inwestycyjnego, którego organem jest inne towarzystwo, w zakresie odpowiadającym zakresowi ograniczenia wykonywanej działalności zarządzania alternatywnymi funduszami inwestycyjnymi wynikającego z decyzji ograniczającej zakres wykonywanej działalności zarządzania alternatywnymi funduszami inwestycyjnymi. Towarzystwo jest obowiązane niezwłocznie poinformować o wydanej decyzji towarzystwo będące organem alternatywnego funduszu inwestycyjnego, którego portfelem inwestycyjnym lub jego częścią zarządza, oraz niezwłocznie odpowiednio rozwiązać lub zmienić zawartą z tym towarzystwem umowę, której przedmiotem jest zlecenie zarządzania portfelem inwestycyjnym funduszu lub jego częścią. 1cf. Od dnia wydania decyzji ograniczającej zakres wykonywanej działalności zarządzania alternatywnymi funduszami inwestycyjnymi alternatywny fundusz inwestycyjny zarządzany przez towarzystwo, wskazany w tej decyzji, jest reprezentowany przez depozytariusza. W tym czasie fundusz nie może zbywać ani odkupywać jednostek uczestnictwa albo nie może emitować ani wykupywać certyfikatów inwestycyjnych. Przepisy art. 68 ust. 1a, 1b oraz 5–7 stosuje się odpowiednio. 1cg. Alternatywny fundusz inwestycyjny, o którym mowa w ust. 1cf, ulega rozwiązaniu, jeżeli w terminie 3 miesięcy od dnia wydania decyzji ograniczającej zakres wykonywanej działalności zarządzania alternatywnymi funduszami inwestycyjnymi inne towarzystwo nie przejmie zarządzania tym alternatywnym funduszem inwestycyjnym. Przepisy art. 68 ust. 3 i 4 stosuje się odpowiednio. 1ch. Od dnia wydania decyzji ograniczającej zakres wykonywanej działalności zarządzania alternatywnymi funduszami inwestycyjnymi zarządzanie specjalistycznym funduszem inwestycyjnym otwartym, będącym funduszem zdefiniowanej daty, o którym mowa w art. 38 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, lub funduszem, o którym mowa w art. 39 tej ustawy, wskazanym w tej decyzji, przejmuje wyznaczona instytucja finansowa, o której mowa w rozdziale 9 tej ustawy. Przepisów art. 238a ust. 1, ust. 2 pkt 1 i 2 oraz ust. 3, 4, 6 i 7 nie stosuje się. Przepis art. 68a ust. 2 stosuje się odpowiednio. 1ci. Jeżeli w dniu wydania decyzji ograniczającej zakres wykonywanej działalności zarządzania alternatywnymi funduszami inwestycyjnymi nie została wyznaczona, zgodnie z przepisami ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, wyznaczona instytucja finansowa, o której mowa w rozdziale 9 tej ustawy, fundusz inwestycyjny, o którym mowa w ust. 1ch, jest reprezentowany i zarządzany przez depozytariusza funduszu. Przepisy art. 68a ust. 4–10 stosuje się odpowiednio. 1cj. W przypadku gdy ograniczenie zakresu wykonywanej działalności zarządzania alternatywnymi funduszami inwestycyjnymi, o którym mowa w ust. 1c pkt 1, dotyczy zarządzania jednym lub większą liczbą subfunduszy wydzielonych w funduszu z wydzielonymi subfunduszami, wskazanych w decyzji ograniczającej zakres wykonywanej działalności zarządzania alternatywnymi funduszami inwestycyjnymi, towarzystwo może reprezentować alternatywny fundusz inwestycyjny, w zakresie dotyczącym tego subfunduszu lub subfunduszy, do dnia połączenia subfunduszu z funduszem zarządzanym przez inne towarzystwo lub z subfunduszem wydzielonym w funduszu z wydzielonymi subfunduszami zarządzanym przez inne towarzystwo, nie dłużej jednak niż przez 6 miesięcy od dnia wydania decyzji. 1ck. Subfundusz, o którym mowa w ust. 1cj, wskazany w decyzji ograniczającej zakres wykonywanej działalności zarządzania alternatywnymi funduszami inwestycyjnymi, podlega likwidacji, jeżeli w terminie 6 miesięcy od dnia wydania tej decyzji nie zostanie połączony z funduszem zarządzanym przez inne towarzystwo lub z subfunduszem wydzielonym w funduszu z wydzielonymi subfunduszami zarządzanym przez inne towarzystwo. W takim przypadku likwidatorem subfunduszu jest depozytariusz funduszu, w którym subfundusz jest wydzielony. Do połączenia subfunduszu z funduszem zarządzanym przez inne towarzystwo lub z subfunduszem wydzielonym w funduszu z wydzielonymi subfunduszami zarządzanym przez inne towarzystwo stosuje się odpowiednio przepisy działu VIIIA.
 
 1d. W przypadku gdy naruszenie, o którym mowa w ust. 1c, jest rażące, Komisja wydając decyzję, o której mowa w ust. 1c pkt 2, może również cofnąć towarzystwu zezwolenie na wykonywanie działalności określonej w art. 45 ust. 1.
 
@@ -6540,7 +6674,7 @@ Art. 300–319. (pominięte)
 3a. W przypadku rażącego naruszenia obowiązków, o których mowa w ust. 1, 1c, 2 oraz 2b, Komisja może nałożyć na osobę, która w tym okresie pełniła funkcję:
 
 - **1)** członka zarządu towarzystwa lub spółki zarządzającej lub
-- **2)** członka rady nadzorczej lub członka innego organu nadzorującego towarzystwa lub spółki zarządzającej – karę pieniężną w wysokości do 20 949 500 zł.
+- **2)** członka rady nadzorczej lub członka innego organu nadzorującego towarzystwa lub spółki zarządzającej karę pieniężną w wysokości do 20 949 500 zł.
 
 4. W przypadku gdy umowa lub umowy, o których mowa w art. 185 ust. 6, nie zostaną zawarte w terminie 3 miesięcy od dnia zarejestrowania funduszu, Komisja może nałożyć na towarzystwo karę pieniężną w wysokości do 500 000 zł.
 
@@ -6567,14 +6701,14 @@ Art. 300–319. (pominięte)
 9. Komisja przekazuje do publicznej wiadomości:
 
 - **1)** informację o treści rozstrzygnięcia oraz o rodzaju i charakterze naruszenia, firmę, siedzibę i adres towarzystwa lub spółki zarządzającej lub imię i nazwisko osoby, na które nałożona została sankcja, o której mowa w ust. 1, 1a, ust. 2 pkt 1, ust. 2b, 2c lub 3a;
-- **2)** w przypadku złożenia wniosku o ponowne rozpatrzenie sprawy – informację o jego złożeniu, o ile Komisja przekazała do publicznej wiadomości informację o decyzji, której ten wniosek dotyczy;
+- **2)** w przypadku złożenia wniosku o ponowne rozpatrzenie sprawy informację o jego złożeniu, o ile Komisja przekazała do publicznej wiadomości informację o decyzji, której ten wniosek dotyczy;
 - **3)** informację o treści rozstrzygnięcia ostatecznej decyzji.
 
 10. Przekazanie do publicznej wiadomości informacji określonych w ust. 9 pkt 1 lub 3 wymaga podjęcia przez Komisję uchwały.
 
 11. Komisja może w drodze uchwały opóźnić przekazanie do publicznej wiadomości informacji, o których mowa w ust. 9, lub przekazać te informacje bez wskazywania towarzystwa, spółki zarządzającej lub osoby, na które została nałożona sankcja w przypadku stwierdzenia, że podanie tych informacji do publicznej wiadomości:
 
-- **1)** w przypadku danych osobowych – jest nieproporcjonalne względem wagi stwierdzonego naruszenia;
+- **1)** w przypadku danych osobowych jest nieproporcjonalne względem wagi stwierdzonego naruszenia;
 - **2)** stanowiłoby poważne zagrożenia dla stabilności systemu finansowego lub będącego w toku postępowania administracyjnego, wyjaśniającego lub karnego;
 - **3)** wyrządziłoby niewspółmierną i znaczącą szkodę uczestnikom rynku finansowego.
 
@@ -6584,7 +6718,7 @@ Art. 300–319. (pominięte)
 
 **Art. 229.**
 
-1. Informacje dotyczące funduszu inwestycyjnego, a w przypadku zbiorczego portfela papierów wartościowych – także informacje reklamowe dotyczące zbiorczego portfela papierów wartościowych, publikowane przez towarzystwo rzetelnie przedstawiają sytuację finansową funduszu albo zbiorczego portfela papierów wartościowych oraz ryzyko związane z uczestnictwem w funduszu albo zbiorczym portfelu papierów wartościowych, a w przypadku, o którym mowa w art. 100 ust. 3, także wskazują emitenta, poręczyciela lub gwaranta papierów wartościowych.
+1. Informacje dotyczące funduszu inwestycyjnego, a w przypadku zbiorczego portfela papierów wartościowych także informacje reklamowe dotyczące zbiorczego portfela papierów wartościowych, publikowane przez towarzystwo rzetelnie przedstawiają sytuację finansową funduszu albo zbiorczego portfela papierów wartościowych oraz ryzyko związane z uczestnictwem w funduszu albo zbiorczym portfelu papierów wartościowych, a w przypadku, o którym mowa w art. 100 ust. 3, także wskazują emitenta, poręczyciela lub gwaranta papierów wartościowych.
 
 2. Do informacji reklamowych odnoszących się do nabywania certyfikatów inwestycyjnych, z których oferowaniem wiąże się obowiązek sporządzenia memorandum informacyjnego albo warunków emisji, stosuje się odpowiednio przepisy art. 4 ust. 2 rozporządzenia 2019/1156.
 
@@ -6661,12 +6795,12 @@ Art. 300–319. (pominięte)
 
 - **1)** dotyczące alternatywnej spółki inwestycyjnej, w tym uprawnionej do posługiwania się nazwą „EuVECA” lub „EuSEF”, o których mowa w ust. 1, wprowadzają lub mogą wprowadzić w błąd lub
 - **2)** reklamowe dotyczące alternatywnej spółki inwestycyjnej, w tym uprawnionej do posługiwania się nazwą „EuVECA” lub „EuSEF”, nie zawierają informacji wymaganych na podstawie art. 4 ust. 1–5 rozporządzenia 2019/1156 lub nie spełniają innych wymogów określonych w tych przepisach, lub
-- **3)** dotyczące zasad i zakresu nadzoru sprawowanego przez Komisję nad zarządzającymi ASI, w tym wpisanymi do rejestru zarządzających ASI, rejestru zarządzających EuVECA oraz rejestru zarządzających EuSEF, wprowadzają lub mogą wprowadzić w błąd – może zakazać ich ogłaszania lub nakazać ogłoszenie odpowiednich sprostowań w wyznaczonym terminie.
+- **3)** dotyczące zasad i zakresu nadzoru sprawowanego przez Komisję nad zarządzającymi ASI, w tym wpisanymi do rejestru zarządzających ASI, rejestru zarządzających EuVECA oraz rejestru zarządzających EuSEF, wprowadzają lub mogą wprowadzić w błąd może zakazać ich ogłaszania lub nakazać ogłoszenie odpowiednich sprostowań w wyznaczonym terminie.
 
 3. Jeżeli zakaz lub nakaz, o których mowa w ust. 2, nie zostanie wykonany, Komisja dokonuje ogłoszenia odpowiednich sprostowań na koszt zarządzającego ASI oraz nakłada:
 
 - **1)** na zewnętrznie zarządzającego ASI karę pieniężną w wysokości do 500 000 zł;
-- **2)** w przypadku wewnętrznie zarządzającego ASI – na członka zarządu zarządzającego ASI odpowiedzialnego za zaistniałe naruszenie karę pieniężną w wysokości do 100 000 zł.
+- **2)** w przypadku wewnętrznie zarządzającego ASI na członka zarządu zarządzającego ASI odpowiedzialnego za zaistniałe naruszenie karę pieniężną w wysokości do 100 000 zł.
 
 **Art. 230.**
 
@@ -6675,12 +6809,12 @@ Art. 300–319. (pominięte)
 - **1)** nakazać towarzystwu zastąpienie albo odwołanie osób, o których mowa w art. 22 ust. 1 pkt 6, art. 58 ust. 1 pkt 4 i 4a oraz art. 58a ust. 3 pkt 1 lit. d i pkt 2,
 - **2)** nakazać zarządzającemu ASI prowadzącemu działalność na podstawie zezwolenia zastąpienie albo odwołanie osób, o których mowa w art. 70s ust. 3 pkt 3 i 10,
 - **3)** nakazać zarządzającemu ASI prowadzącemu działalność na podstawie wpisu do rejestru zarządzających ASI wpisanemu do rejestru zarządzających EuVECA zastąpienie albo odwołanie osób, o których mowa w art. 70zc ust. 2 pkt 3, oraz osób, o których mowa w art. 14 ust. 1 lit. a rozporządzenia 345/2013,
-- **4)** nakazać zarządzającemu ASI prowadzącemu działalność na podstawie wpisu do rejestru zarządzających ASI wpisanemu do rejestru zarządzających EuSEF zastąpienie albo odwołanie osób, o których mowa w art. 70zc ust. 2 pkt 3, oraz osób, o których mowa w art. 15 ust. 1 lit. a rozporządzenia 346/2013 – wyznaczając termin na dokonanie tej zmiany, nie krótszy niż 14 dni.
+- **4)** nakazać zarządzającemu ASI prowadzącemu działalność na podstawie wpisu do rejestru zarządzających ASI wpisanemu do rejestru zarządzających EuSEF zastąpienie albo odwołanie osób, o których mowa w art. 70zc ust. 2 pkt 3, oraz osób, o których mowa w art. 15 ust. 1 lit. a rozporządzenia 346/2013 wyznaczając termin na dokonanie tej zmiany, nie krótszy niż 14 dni.
 
 2. Jeżeli zmiana, o której mowa w ust. 1, nie zostanie dokonana w określonym terminie, Komisja może, w drodze decyzji, odpowiednio:
 
 - **1)** nałożyć na towarzystwo albo na zewnętrznie zarządzającego ASI karę pieniężną w wysokości do 500 000 zł;
-- **2)** w przypadku wewnętrznie zarządzającego ASI – nałożyć na członka zarządu zarządzającego ASI odpowiedzialnego za naruszenie, które spowodowało wydanie nakazu, o którym mowa w ust. 1, karę pieniężną w wysokości do 100 000 zł.
+- **2)** w przypadku wewnętrznie zarządzającego ASI nałożyć na członka zarządu zarządzającego ASI odpowiedzialnego za naruszenie, które spowodowało wydanie nakazu, o którym mowa w ust. 1, karę pieniężną w wysokości do 100 000 zł.
 
 3. Jeżeli pomimo nałożenia kary pieniężnej zmiana nie zostanie dokonana, Komisja może, w drodze decyzji, odpowiednio:
 
@@ -6721,7 +6855,7 @@ Art. 300–319. (pominięte)
 
 2. W przypadku gdy podmiot, któremu towarzystwo powierzyło w odniesieniu do funduszu inwestycyjnego otwartego wykonywanie czynności na podstawie umowy, o której mowa w art. 45a ust. 1, albo podmiot, któremu wykonywanie takich czynności zostało przekazane, narusza przepisy ustawy lub wykonuje działalność w zakresie wykonywania obowiązków wynikających z zawartej umowy niezgodnie z przepisami prawa, z umową lub ze statutem otwartego funduszu inwestycyjnego, Komisja może, w drodze decyzji, nałożyć na ten podmiot karę pieniężną do wysokości 20 949 500 zł albo kwoty stanowiącej równowartość 10 % całkowitego rocznego przychodu wykazanego w ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, jeżeli przekracza ona 20 949 500 zł, lub nakazać odpowiednio towarzystwu albo podmiotowi, który przekazał wykonywanie czynności, odstąpienie od umowy. Przepisy art. 228 ust. 1a, 1b, 4b i 9–12 stosuje się odpowiednio.
 
-2a. W przypadku gdy podmiot, któremu towarzystwo powierzyło w odniesieniu do specjalistycznego funduszu inwestycyjnego otwartego lub funduszu inwestycyjnego zamkniętego wykonywanie czynności na podstawie umowy, o której mowa w art. 45a ust. 1, albo podmiot, któremu wykonywanie takich czynności zostało przekazane, narusza przepisy ustawy lub wykonuje działalność w zakresie wykonywania obowiązków wynikających z zawartej umowy niezgodnie z przepisami prawa, z umową lub ze statutem funduszu inwestycyjnego, Komisja może, w drodze decyzji, nałożyć na ten podmiot karę pieniężną do wysokości 500 000 zł, a w przypadku gdy naruszenie to dotyczy podmiotu, o którym mowa w art. 46 ust. 1– 3 oraz art. 46b ust. 1 i 2, któremu towarzystwo powierzyło zarządzanie portfelem inwestycyjnym funduszu inwestycyjnego lub jego częścią lub zarządzanie ryzykiem funduszu inwestycyjnego, albo podmiotu, któremu wykonywanie takich czynności zostało przekazane, karę pieniężną do wysokości 5 000 000 zł, lub nakazać odpowiednio towarzystwu albo podmiotowi, który przekazał wykonywanie czynności, odstąpienie od umowy.
+2a. W przypadku gdy podmiot, któremu towarzystwo powierzyło w odniesieniu do specjalistycznego funduszu inwestycyjnego otwartego lub funduszu inwestycyjnego zamkniętego wykonywanie czynności na podstawie umowy, o której mowa w art. 45a ust. 1, albo podmiot, któremu wykonywanie takich czynności zostało przekazane, narusza przepisy ustawy lub wykonuje działalność w zakresie wykonywania obowiązków wynikających z zawartej umowy niezgodnie z przepisami prawa, z umową lub ze statutem funduszu inwestycyjnego, Komisja może, w drodze decyzji, nałożyć na ten podmiot karę pieniężną do wysokości 500 000 zł, a w przypadku gdy naruszenie to dotyczy podmiotu, o którym mowa w art. 46 ust. 1–3 oraz art. 46b ust. 1 i 2, któremu towarzystwo powierzyło zarządzanie portfelem inwestycyjnym funduszu inwestycyjnego lub jego częścią lub zarządzanie ryzykiem funduszu inwestycyjnego, albo podmiotu, któremu wykonywanie takich czynności zostało przekazane, karę pieniężną do wysokości 5 000 000 zł, lub nakazać odpowiednio towarzystwu albo podmiotowi, który przekazał wykonywanie czynności, odstąpienie od umowy.
 
 2b. W przypadku gdy podmiot, któremu zarządzający ASI prowadzący działalność na podstawie zezwolenia powierzył wykonywanie czynności na podstawie umowy, o której mowa w art. 70g ust. 1, albo podmiot, któremu wykonywanie takich czynności zostało przekazane, narusza przepisy ustawy lub wykonuje działalność w zakresie wykonywania obowiązków wynikających z zawartej umowy niezgodnie z przepisami prawa, z umową lub ze statutem albo umową spółki będącej alternatywną spółką inwestycyjną, Komisja może, w drodze decyzji, nałożyć na ten podmiot karę pieniężną do wysokości 500 000 zł lub nakazać odpowiednio zarządzającemu ASI albo podmiotowi, który przekazał wykonywanie czynności, odstąpienie od umowy.
 
@@ -6732,6 +6866,10 @@ Art. 300–319. (pominięte)
 4. W przypadku gdy podmiot prowadzący działalność maklerską, o którym mowa w art. 32 ust. 1, narusza przepisy ustawy lub wykonuje działalność z naruszeniem przepisów statutu funduszu inwestycyjnego, interesów uczestników funduszu lub zasad uczciwego obrotu, Komisja może nałożyć karę pieniężną do wysokości 500 000 zł.
 
 **Art. 234.** W przypadku gdy podmiot, o którym mowa w art. 192 ust. 1, narusza przepisy prawa lub statutu funduszu wierzytelności, nie wypełnia warunków określonych w zezwoleniu lub przekracza zakres zezwolenia, lub wykonuje działalność z naruszeniem zasad uczciwego obrotu lub z naruszeniem interesów uczestników funduszu wierzytelności, Komisja może, w drodze decyzji:
+
+- **1)** cofnąć zezwolenie;
+- **2)** nałożyć karę pieniężną do wysokości 5 000 000 zł;
+- **3)** zastosować łącznie obie sankcje, o których mowa w pkt 1 i 2.
 
 **Art. 234a.**
 
@@ -6756,8 +6894,8 @@ Art. 300–319. (pominięte)
 
 1a. W przypadku gdy zezwolenie na zarządzanie alternatywnymi funduszami inwestycyjnymi jest udzielane:
 
-- **1)** towarzystwu – wysokość opłaty, o której mowa w ust. 1, nie może być większa niż równowartość w złotych 2000 euro;
-- **2)** spółce wraz z zezwoleniem na wykonywanie działalności przez towarzystwo – udzielenie obu tych zezwoleń podlega jednej opłacie w wysokości nie większej niż równowartość w złotych 4500 euro.
+- **1)** towarzystwu wysokość opłaty, o której mowa w ust. 1, nie może być większa niż równowartość w złotych 2000 euro;
+- **2)** spółce wraz z zezwoleniem na wykonywanie działalności przez towarzystwo udzielenie obu tych zezwoleń podlega jednej opłacie w wysokości nie większej niż równowartość w złotych 4500 euro.
 
 1b. Udzielenie przez Komisję zezwolenia na wykonywanie działalności przez zarządzającego ASI podlega opłacie w wysokości nie większej niż równowartość w złotych 4500 euro.
 
@@ -6793,7 +6931,7 @@ Art. 300–319. (pominięte)
 
 **Art. 237a.**
 
-1. Komisja przyjmuje zgłoszenia o naruszeniu lub podejrzeniu naruszenia przepisów ustawy przez fundusz inwestycyjny otwarty, a także – w zakresie dotyczącym funduszy inwestycyjnych otwartych – przez towarzystwo, spółkę zarządzającą, podmiot, o którym mowa w art. 32 ust. 2, przedsiębiorcę, z którym zawarto umowę, o której mowa w art. 45a, depozytariusza oraz przez osoby fizyczne lub prawne, które zawarły z tymi podmiotami umowę o pracę, umowę zlecenia, umowę o dzieło lub inną umowę o podobnym charakterze.
+1. Komisja przyjmuje zgłoszenia o naruszeniu lub podejrzeniu naruszenia przepisów ustawy przez fundusz inwestycyjny otwarty, a także w zakresie dotyczącym funduszy inwestycyjnych otwartych przez towarzystwo, spółkę zarządzającą, podmiot, o którym mowa w art. 32 ust. 2, przedsiębiorcę, z którym zawarto umowę, o której mowa w art. 45a, depozytariusza oraz przez osoby fizyczne lub prawne, które zawarły z tymi podmiotami umowę o pracę, umowę zlecenia, umowę o dzieło lub inną umowę o podobnym charakterze.
 
 2. Przekazanie Komisji zgłoszenia o naruszeniu lub podejrzeniu naruszenia przepisów ustawy nie narusza obowiązku zachowania tajemnicy zawodowej, a także innych obowiązków zachowania poufności informacji, wynikających z obowiązujących przepisów prawa lub umowy. Przekazanie Komisji zgłoszenia naruszenia lub podejrzenia naruszenia nie może stanowić przyczyny rozwiązania z osobą zgłaszającą umowy o pracę, umowy zlecenia, umowy o dzieło lub innej umowy o podobnym charakterze.
 
@@ -6805,7 +6943,7 @@ Art. 300–319. (pominięte)
 
 4. Komisja odbiera zgłoszenia oraz przechowuje ich treść w sposób zapewniający należytą ochronę danych osobowych osoby dokonującej zgłoszenia oraz osoby, której zarzuca się naruszenie. W tym celu Komisja wskazuje na swojej stronie internetowej bezpieczne kanały komunikacji, za pośrednictwem których jest możliwe dokonywanie zgłoszeń naruszenia lub podejrzenia naruszenia przepisów ustawy, przyjmuje procedury określające odbieranie zgłoszeń oraz działania, jakie mogą być podejmowane przez Komisję w związku z przyjętym zgłoszeniem.
 
-**Art. 237b.** Towarzystwo, spółka zarządzająca, podmiot, o którym mowa w art. 32 ust. 2, przedsiębiorca, z którym zawarto umowę, o której mowa w art. 45a, oraz depozytariusz posiadają procedury anonimowego zgłaszania wskazanemu członkowi zarządu, a w szczególnych przypadkach – radzie nadzorczej, a w przypadku braku tych organów – wskazanemu komplementariuszowi lub wspólnikowi uprawnionemu do prowadzenia spraw spółki zgodnie z przepisami Kodeksu spółek handlowych naruszeń przepisów ustawy, jakich dopuścili się pracownicy tych podmiotów.
+**Art. 237b.** Towarzystwo, spółka zarządzająca, podmiot, o którym mowa w art. 32 ust. 2, przedsiębiorca, z którym zawarto umowę, o której mowa w art. 45a, oraz depozytariusz posiadają procedury anonimowego zgłaszania wskazanemu członkowi zarządu, a w szczególnych przypadkach radzie nadzorczej, a w przypadku braku tych organów wskazanemu komplementariuszowi lub wspólnikowi uprawnionemu do prowadzenia spraw spółki zgodnie z przepisami Kodeksu spółek handlowych naruszeń przepisów ustawy, jakich dopuścili się pracownicy tych podmiotów.
 
 ### DZIAŁ XI Przejęcie zarządzania funduszem inwestycyjnym i alternatywną spółką inwestycyjną oraz przekształcenie, rozwiązanie i likwidacja funduszu inwestycyjnego
 
@@ -6817,7 +6955,7 @@ Art. 300–319. (pominięte)
 
 2. Przejęcie zarządzania wymaga:
 
-- **1)** zgody odpowiednio zgromadzenia uczestników funduszu inwestycyjnego otwartego, zgromadzenia uczestników specjalistycznego funduszu inwestycyjnego otwartego, a w przypadku funduszu inwestycyjnego zamkniętego – zgromadzenia inwestorów, na przejęcie zarządzania przez inne towarzystwo, z wyjątkiem przejęcia zarządzania w trybie i terminie określonych w art. 68 ust. 2 i 3;
+- **1)** zgody odpowiednio zgromadzenia uczestników funduszu inwestycyjnego otwartego, zgromadzenia uczestników specjalistycznego funduszu inwestycyjnego otwartego, a w przypadku funduszu inwestycyjnego zamkniętego zgromadzenia inwestorów, na przejęcie zarządzania przez inne towarzystwo, z wyjątkiem przejęcia zarządzania w trybie i terminie określonych w art. 68 ust. 2 i 3;
 - **2)** zezwolenia Komisji, z wyjątkiem przejęcia zarządzania funduszem inwestycyjnym zamkniętym, o którym mowa w art. 15 ust. 1a, oraz przejęcia zarządzania w trybie i terminie określonych w art. 68 ust. 2 i 3;
 - **3)** zmiany statutu funduszu w zakresie, o którym mowa w art. 18 ust. 2 pkt 2.
 
@@ -6829,7 +6967,7 @@ Art. 300–319. (pominięte)
 - **2)** informację o planowanym, w związku z przejęciem zarządzania, powierzeniu innym podmiotom wykonywania czynności na podstawie umowy, o której mowa w art. 45a ust. 1;
 - **3)** umowę o przejęcie zarządzania funduszem inwestycyjnym, prowadzenia jego spraw oraz reprezentowania funduszu w stosunkach z osobami trzecimi;
 - **4)** oświadczenie biegłego rewidenta o prawidłowości i zgodności z profilem ryzyka inwestycyjnego i polityką inwestycyjną funduszu inwestycyjnego systemu zarządzania ryzykiem w towarzystwie, przyjętych metod pomiaru i monitorowania ryzyka, wyznaczania całkowitej ekspozycji albo ekspozycji AFI oraz systemu limitów wewnętrznych przyjętego dla funduszu inwestycyjnego, w przypadku gdy towarzystwo nie zarządza funduszem inwestycyjnym o takim profilu ryzyka inwestycyjnego i polityce inwestycyjnej jak fundusz, którego dotyczy wniosek, albo oświadczenie towarzystwa, że towarzystwo zarządza funduszem inwestycyjnym o takim profilu ryzyka inwestycyjnego i polityce inwestycyjnej;
-- **5)** uchwałę zgromadzenia uczestników funduszu inwestycyjnego otwartego, zgromadzenia uczestników specjalistycznego funduszu inwestycyjnego otwartego, a w przypadku funduszu inwestycyjnego zamkniętego – zgromadzenia inwestorów o wyrażeniu zgody na przejęcie zarządzania funduszem przez inne towarzystwo.
+- **5)** uchwałę zgromadzenia uczestników funduszu inwestycyjnego otwartego, zgromadzenia uczestników specjalistycznego funduszu inwestycyjnego otwartego, a w przypadku funduszu inwestycyjnego zamkniętego zgromadzenia inwestorów o wyrażeniu zgody na przejęcie zarządzania funduszem przez inne towarzystwo.
 
 4. Komisja odmawia wydania zezwolenia, o którym mowa w ust. 2, jeżeli:
 
@@ -6844,7 +6982,7 @@ Art. 300–319. (pominięte)
 
 7. Towarzystwo przejmujące zarządzanie funduszem inwestycyjnym jest obowiązane przekazać uczestnikom tego funduszu na papierze lub innym trwałym nośniku informacji, przynajmniej na 45 dni przed planowaną datą przejęcia zarządzania funduszem inwestycyjnym, następujące informacje:
 
-- **1)** oświadczenie, że towarzystwo uzyskało zezwolenie Komisji, o którym mowa w ust. 2, a w przypadku funduszu inwestycyjnego zamkniętego, o którym mowa w art. 15 ust. 1a – oświadczenie, że zezwolenie Komisji, o którym mowa w ust. 2, nie jest wymagane;
+- **1)** oświadczenie, że towarzystwo uzyskało zezwolenie Komisji, o którym mowa w ust. 2, a w przypadku funduszu inwestycyjnego zamkniętego, o którym mowa w art. 15 ust. 1a oświadczenie, że zezwolenie Komisji, o którym mowa w ust. 2, nie jest wymagane;
 - **2)** datę ogłoszenia zmiany statutu funduszu inwestycyjnego, o której mowa w ust. 2;
 - **3)** informację o treści uprawnień określonych w ust. 6 i 6a.
 
@@ -7012,8 +7150,8 @@ Art. 300–319. (pominięte)
 - **6)** wystąpienie innych przyczyn określonych w statucie funduszu inwestycyjnego;
 - **7)** upływ 6-miesięcznego okresu, przez który towarzystwo będące organem funduszu lub spółka zarządzająca, która zarządza funduszem inwestycyjnym otwartym i prowadzi jego sprawy, pozostawały jedynym uczestnikiem tego funduszu;
 - **8)** wydanie przez Komisję decyzji, o której mowa w art. 50a ust. 5;
-- **9)** w przypadku funduszu powiązanego – rozwiązanie funduszu podstawowego;
-- **10)** w przypadku funduszu biorącego udział w połączeniu transgranicznym dokonywanym zgodnie z art. 208zk – przeniesienie aktywów netto tego funduszu na zagraniczny fundusz przejmujący zgodnie z art. 208zk ust. 1 pkt 2.
+- **9)** w przypadku funduszu powiązanego rozwiązanie funduszu podstawowego;
+- **10)** w przypadku funduszu biorącego udział w połączeniu transgranicznym dokonywanym zgodnie z art. 208zk przeniesienie aktywów netto tego funduszu na zagraniczny fundusz przejmujący zgodnie z art. 208zk ust. 1 pkt 2.
 
 1a. Przepisu ust. 1 pkt 4 nie stosuje się do specjalistycznego funduszu inwestycyjnego otwartego, będącego funduszem zdefiniowanej daty, o którym mowa w art. 38 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, lub funduszu inwestycyjnego, o którym mowa w art. 39 tej ustawy.
 
@@ -7047,7 +7185,7 @@ Art. 300–319. (pominięte)
 
 2b. Jeżeli towarzystwu, o którym mowa w ust. 2 i 2a, zostało cofnięte zezwolenie na wykonywanie działalności przez towarzystwo lub takie zezwolenie wygasło, likwidatorem funduszu jest depozytariusz.
 
-2c. W przypadku, o którym mowa w ust. 1a, gdy towarzystwo, a w przypadku, o którym mowa w ust. 2b – depozytariusz, nie może w dniu wystąpienia przesłanki rozwiązania funduszu inwestycyjnego, o której mowa w art. 246 ust. 1, lub w toku likwidacji funduszu, wykonywać czynności likwidatora, likwidatora wyznacza, na wniosek Komisji, sąd rejestrowy.
+2c. W przypadku, o którym mowa w ust. 1a, gdy towarzystwo, a w przypadku, o którym mowa w ust. 2b depozytariusz, nie może w dniu wystąpienia przesłanki rozwiązania funduszu inwestycyjnego, o której mowa w art. 246 ust. 1, lub w toku likwidacji funduszu, wykonywać czynności likwidatora, likwidatora wyznacza, na wniosek Komisji, sąd rejestrowy.
 
 2d. Likwidatorem wyznaczonym przez sąd może być osoba fizyczna, która posiada pełną zdolność do czynności prawnych i licencję doradcy restrukturyzacyjnego wydawaną na zasadach i w trybie określonych w ustawie z dnia 15 czerwca 2007 r. o licencji doradcy restrukturyzacyjnego (Dz. U. z 2022 r. poz. 1007), albo spółka handlowa, której co najmniej jeden wspólnik ponoszący odpowiedzialność za zobowiązania spółki bez ograniczenia całym swoim majątkiem albo co najmniej jeden członek zarządu reprezentujący spółkę posiada taką licencję.
 
@@ -7067,7 +7205,7 @@ Art. 300–319. (pominięte)
 
 1b. Z majątku funduszu w pierwszej kolejności zaspokaja się koszty likwidacji.
 
-1c. W przypadku gdy majątek funduszu nie pozwala na pokrycie kosztów likwidacji określonych w statucie funduszu, koszty te obciążają towarzystwo, które było organem funduszu w dniu wystąpienia przesłanki rozwiązania funduszu, o której mowa w art. 246 ust. 1, a w razie cofnięcia zezwolenia towarzystwu lub wygaśnięcia jego zezwolenia – spółkę, która w dniu wystąpienia przesłanki rozwiązania funduszu, o której mowa w art. 246 ust. 1, pełniła funkcję towarzystwa. Jeżeli płynność aktywów funduszu w likwidacji nie pozwala na bieżące pokrywanie kosztów likwidacji, likwidator może domagać się od towarzystwa lub spółki zaliczki na zaspokojenie takich kosztów. Towarzystwo lub spółka mogą żądać od funduszu w likwidacji zwrotu zaliczek wypłaconych likwidatorowi, jeżeli pozwalają na to aktywa funduszu pozostałe po zaspokojeniu pozostałych wierzycieli funduszu.
+1c. W przypadku gdy majątek funduszu nie pozwala na pokrycie kosztów likwidacji określonych w statucie funduszu, koszty te obciążają towarzystwo, które było organem funduszu w dniu wystąpienia przesłanki rozwiązania funduszu, o której mowa w art. 246 ust. 1, a w razie cofnięcia zezwolenia towarzystwu lub wygaśnięcia jego zezwolenia spółkę, która w dniu wystąpienia przesłanki rozwiązania funduszu, o której mowa w art. 246 ust. 1, pełniła funkcję towarzystwa. Jeżeli płynność aktywów funduszu w likwidacji nie pozwala na bieżące pokrywanie kosztów likwidacji, likwidator może domagać się od towarzystwa lub spółki zaliczki na zaspokojenie takich kosztów. Towarzystwo lub spółka mogą żądać od funduszu w likwidacji zwrotu zaliczek wypłaconych likwidatorowi, jeżeli pozwalają na to aktywa funduszu pozostałe po zaspokojeniu pozostałych wierzycieli funduszu.
 
 2. Zbywanie aktywów funduszu powinno być dokonywane z należytym uwzględnieniem interesów uczestników funduszu inwestycyjnego.
 
@@ -7092,8 +7230,8 @@ Art. 300–319. (pominięte)
 3. Wzór zawiadomienia, o którym mowa w ust. 1, określa rozporządzenie 584/2010. W części B zawiadomienie powinno zawierać:
 
 - **1)** szczegółowy opis sposobów zbywania na terytorium Rzeczypospolitej Polskiej tytułów uczestnictwa emitowanych przez fundusz zagraniczny, w tym zasad i warunków wpłacania i wypłacania kwot związanych z ich nabywaniem i odkupywaniem, oraz sposobu udostępniania informacji o funduszu;
-- **2)** wskazanie imienia i nazwiska lub firmy (nazwy) oraz miejsca zamieszkania lub siedziby oraz adresu w Rzeczypospolitej Polskiej przedstawiciela funduszu zagranicznego na terytorium Rzeczypospolitej Polskiej – w przypadku jego ustanowienia przez fundusz zagraniczny;
-- **3)** wskazanie firmy oraz siedziby i adresu agenta płatności funduszu zagranicznego na terytorium Rzeczypospolitej Polskiej – w przypadku jego ustanowienia przez fundusz zagraniczny;
+- **2)** wskazanie imienia i nazwiska lub firmy (nazwy) oraz miejsca zamieszkania lub siedziby oraz adresu w Rzeczypospolitej Polskiej przedstawiciela funduszu zagranicznego na terytorium Rzeczypospolitej Polskiej w przypadku jego ustanowienia przez fundusz zagraniczny;
+- **3)** wskazanie firmy oraz siedziby i adresu agenta płatności funduszu zagranicznego na terytorium Rzeczypospolitej Polskiej w przypadku jego ustanowienia przez fundusz zagraniczny;
 - **4)** treść dodatkowej informacji dla inwestorów nabywających tytuły uczestnictwa na terytorium Rzeczypospolitej Polskiej;
 - **5)** informacje niezbędne do wystawienia przez Komisję dokumentu potwierdzającego wniesienie przez fundusz zagraniczny opłaty za dokonanie wpisu do rejestru, o którym mowa w art. 263 ust. 1, lub przekazania przez Komisję informacji o opłatach na rzecz Komisji, jakim podlega fundusz zagraniczny.
 
@@ -7102,9 +7240,9 @@ Art. 300–319. (pominięte)
 - **1)** regulamin funduszu zagranicznego;
 - **2)** prospekt informacyjny funduszu zagranicznego;
 - **3)** następujące dokumenty:
-    - **a)** kluczowe informacje – w przypadku udostępniania przez fundusz zagraniczny kluczowych informacji wszystkim inwestorom albo
-    - **b)** kluczowe informacje i kluczowe informacje dla inwestorów – w przypadku udostępniania przez fundusz zagraniczny kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo
-    - **c)** kluczowe informacje dla inwestorów – w przypadku zbywania przez fundusz zagraniczny tytułów uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów;
+    - **a)** kluczowe informacje w przypadku udostępniania przez fundusz zagraniczny kluczowych informacji wszystkim inwestorom albo
+    - **b)** kluczowe informacje i kluczowe informacje dla inwestorów w przypadku udostępniania przez fundusz zagraniczny kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo
+    - **c)** kluczowe informacje dla inwestorów w przypadku zbywania przez fundusz zagraniczny tytułów uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów;
 
 - **4)** ostatnie roczne i półroczne sprawozdanie finansowe funduszu zagranicznego, jeżeli zostały sporządzone;
 - **5)** zaświadczenie sporządzone przez właściwe organy państwa macierzystego funduszu zagranicznego stwierdzające, że fundusz zagraniczny działa zgodnie z prawem wspólnotowym regulującym zasady zbiorowego inwestowania w papiery wartościowe.
@@ -7122,22 +7260,22 @@ Art. 300–319. (pominięte)
 1. Fundusz zagraniczny jest obowiązany do:
 
 - **1)** publikowania na terytorium Rzeczypospolitej Polskiej:
-    - **a)** regulaminu, prospektu informacyjnego, dodatkowej informacji dla inwestorów oraz: – kluczowych informacji – w przypadku udostępniania przez ten fundusz kluczowych informacji wszystkim inwestorom albo – kluczowych informacji i kluczowych informacji dla inwestorów – w przypadku udostępniania przez ten fundusz kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo – kluczowych informacji dla inwestorów – w przypadku zbywania przez ten fundusz tytułów uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów,
+    - **a)** regulaminu, prospektu informacyjnego, dodatkowej informacji dla inwestorów oraz: kluczowych informacji w przypadku udostępniania przez ten fundusz kluczowych informacji wszystkim inwestorom albo kluczowych informacji i kluczowych informacji dla inwestorów w przypadku udostępniania przez ten fundusz kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo kluczowych informacji dla inwestorów w przypadku zbywania przez ten fundusz tytułów uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów,
     - **b)** zmian dokonanych w prospekcie informacyjnym, dodatkowej informacji dla inwestorów, kluczowych informacjach lub kluczowych informacjach dla inwestorów,
     - **c)** rocznego i półrocznego sprawozdania finansowego;
 
 - **2)** udostępniania przy zbywaniu tytułów uczestnictwa:
-    - **a)** kluczowych informacji – w przypadku inwestorów indywidualnych oraz inwestorów innych niż inwestorzy indywidualni, jeżeli fundusz zagraniczny udostępnia kluczowe informacje inwestorom innym niż inwestorzy indywidualni,
-    - **b)** kluczowych informacji dla inwestorów – w przypadku inwestorów innych niż inwestorzy indywidualni, jeżeli fundusz zagraniczny nie udostępnia kluczowych informacji takim inwestorom,
+    - **a)** kluczowych informacji w przypadku inwestorów indywidualnych oraz inwestorów innych niż inwestorzy indywidualni, jeżeli fundusz zagraniczny udostępnia kluczowe informacje inwestorom innym niż inwestorzy indywidualni,
+    - **b)** kluczowych informacji dla inwestorów w przypadku inwestorów innych niż inwestorzy indywidualni, jeżeli fundusz zagraniczny nie udostępnia kluczowych informacji takim inwestorom,
     - **c)** dodatkowej informacji dla inwestorów,
-    - **d)** innych informacji i dokumentów, do których udostępniania jest obowiązany zgodnie z przepisami prawa obowiązującymi w państwie macierzystym – w taki sposób, aby umożliwić zapoznanie się z nimi przed nabyciem tytułów uczestnictwa.
+    - **d)** innych informacji i dokumentów, do których udostępniania jest obowiązany zgodnie z przepisami prawa obowiązującymi w państwie macierzystym w taki sposób, aby umożliwić zapoznanie się z nimi przed nabyciem tytułów uczestnictwa.
 
 1a. Dodatkowa informacja dla inwestorów zawiera:
 
 - **1)** podstawowe informacje na temat zbywania i odkupywania tytułów uczestnictwa na terytorium Rzeczypospolitej Polskiej, w tym listę podmiotów, które pośredniczą w zbywaniu i odkupywaniu tytułów uczestnictwa funduszu zagranicznego;
 - **2)** zwięzłe informacje na temat obowiązków podatkowych uczestników funduszu zagranicznego;
 - **3)** wskazanie strony internetowej funduszu zagranicznego prowadzonej w języku polskim, na której będą udostępniane informacje i dokumenty dla uczestników funduszu zagranicznego na terytorium Rzeczypospolitej Polskiej;
-- **4)** wskazanie przedstawiciela funduszu zagranicznego lub agenta płatności funduszu zagranicznego, wraz z krótkim opisem wykonywanej przez nich funkcji – w przypadku ich ustanowienia przez fundusz zagraniczny, a w przypadku gdy fundusz zagraniczny nie ustanowił przedstawiciela funduszu zagranicznego – wskazanie sposobu składania reklamacji przez uczestników funduszu zagranicznego oraz sposobu udostępniania uczestnikom funduszu zagranicznego informacji o funduszu.
+- **4)** wskazanie przedstawiciela funduszu zagranicznego lub agenta płatności funduszu zagranicznego, wraz z krótkim opisem wykonywanej przez nich funkcji w przypadku ich ustanowienia przez fundusz zagraniczny, a w przypadku gdy fundusz zagraniczny nie ustanowił przedstawiciela funduszu zagranicznego wskazanie sposobu składania reklamacji przez uczestników funduszu zagranicznego oraz sposobu udostępniania uczestnikom funduszu zagranicznego informacji o funduszu.
 
 1b. Termin publikowania na terytorium Rzeczypospolitej Polskiej zmian w prospekcie informacyjnym, kluczowych informacjach, kluczowych informacjach dla inwestorów i regulaminie funduszu zagranicznego oraz termin ich wejścia w życie wobec uczestników funduszu zagranicznego na terytorium Rzeczypospolitej Polskiej ustala się według prawa państwa macierzystego funduszu. Terminy te są tożsame odpowiednio z terminem publikowania tych zmian na terytorium państwa macierzystego funduszu i terminem ich wejścia w życie wobec uczestników funduszu na terytorium tego państwa.
 
@@ -7222,6 +7360,9 @@ Art. 300–319. (pominięte)
 
 **Art. 258.** Fundusz zagraniczny może zbywać tytuły uczestnictwa na terytorium Rzeczypospolitej Polskiej bezpośrednio lub za pośrednictwem:
 
+- **1)** spółki zarządzającej lub oddziału tej spółki po spełnieniu warunków określonych w rozdziale 2 niniejszego działu, firmy inwestycyjnej, banku krajowego wykonującego działalność, o której mowa w art. 70 ust. 2 ustawy o obrocie instrumentami finansowymi, lub krajowego oddziału instytucji kredytowej, uprawnionych do wykonywania działalności w zakresie przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych;
+- **2)** towarzystwa oraz podmiotu, o którym mowa w art. 32 ust. 2.
+
 **Art. 258a.**
 
 1. Fundusz zagraniczny może zaprzestać zbywania emitowanych przez siebie tytułów uczestnictwa na terytorium Rzeczypospolitej Polskiej, pod warunkiem że:
@@ -7293,9 +7434,9 @@ Art. 300–319. (pominięte)
 - **2)** prospekt informacyjny funduszu;
 - **3)** ostatnie roczne i półroczne sprawozdanie finansowe funduszu, jeżeli zostały sporządzone;
 - **4)** następujące dokumenty:
-    - **a)** kluczowe informacje – w przypadku udostępniania przez fundusz kluczowych informacji wszystkim inwestorom albo
-    - **b)** kluczowe informacje i kluczowe informacje dla inwestorów – w przypadku udostępniania przez fundusz kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo
-    - **c)** kluczowe informacje dla inwestorów – w przypadku zbywania przez fundusz tytułów uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów;
+    - **a)** kluczowe informacje w przypadku udostępniania przez fundusz kluczowych informacji wszystkim inwestorom albo
+    - **b)** kluczowe informacje i kluczowe informacje dla inwestorów w przypadku udostępniania przez fundusz kluczowych informacji dla inwestorów inwestorom innym niż inwestorzy indywidualni, albo
+    - **c)** kluczowe informacje dla inwestorów w przypadku zbywania przez fundusz tytułów uczestnictwa wyłącznie inwestorom innym niż inwestorzy indywidualni oraz udostępniania tym inwestorom kluczowych informacji dla inwestorów;
 
 4. Zawiadomienie, o którym mowa w ust. 1, wraz z dołączonymi do niego dokumentami przekazuje się Komisji również w formie elektronicznej, na adres poczty elektronicznej wskazany przez Komisję.
 
@@ -7339,7 +7480,7 @@ Art. 300–319. (pominięte)
 
 1. Jeżeli fundusz inwestycyjny otwarty zbywa jednostki uczestnictwa na terytorium goszczącego państwa członkowskiego, wypełnia obowiązki informacyjne wobec uczestników na terytorium tego państwa zgodnie z przepisami prawa polskiego, z tym że udostępnia te informacje w sposób określony przepisami państwa goszczącego.
 
-2. Kluczowe informacje, kluczowe informacje dla inwestorów oraz ich zmiany udostępniane uczestnikom na terytorium goszczącego państwa członkowskiego są sporządzane w języku urzędowym tego państwa lub tłumaczone na ten język, a inne informacje i dokumenty oraz ich zmiany – w języku angielskim lub w języku urzędowym tego państwa lub tłumaczone na ten język.
+2. Kluczowe informacje, kluczowe informacje dla inwestorów oraz ich zmiany udostępniane uczestnikom na terytorium goszczącego państwa członkowskiego są sporządzane w języku urzędowym tego państwa lub tłumaczone na ten język, a inne informacje i dokumenty oraz ich zmiany w języku angielskim lub w języku urzędowym tego państwa lub tłumaczone na ten język.
 
 3. Ustalanie i publikowanie na terytorium goszczącego państwa członkowskiego ceny zbycia i odkupienia jednostek uczestnictwa odbywa się zgodnie z częstotliwością wynikającą z art. 224.
 
@@ -7394,9 +7535,9 @@ Art. 300–319. (pominięte)
 2. Rejestr, o którym mowa w ust. 1, zawiera:
 
 - **1)** firmę (nazwę) oraz siedzibę i adres funduszu oraz spółki zarządzającej tym funduszem;
-- **2)** w przypadku gdy fundusz ustanowił przedstawiciela funduszu – imię i nazwisko albo firmę (nazwę) oraz miejsce zamieszkania lub siedzibę oraz adres w Rzeczypospolitej Polskiej przedstawiciela funduszu;
-- **3)** w przypadku gdy fundusz ustanowił agenta płatności – firmę oraz siedzibę i adres agenta płatności;
-- **4)** w przypadku gdy fundusz prowadzi działalność jako fundusz składający się z subfunduszy – nazwy wszystkich subfunduszy, z którymi są związane tytuły uczestnictwa, które mogą być zbywane na terytorium Rzeczypospolitej Polskiej.
+- **2)** w przypadku gdy fundusz ustanowił przedstawiciela funduszu imię i nazwisko albo firmę (nazwę) oraz miejsce zamieszkania lub siedzibę oraz adres w Rzeczypospolitej Polskiej przedstawiciela funduszu;
+- **3)** w przypadku gdy fundusz ustanowił agenta płatności firmę oraz siedzibę i adres agenta płatności;
+- **4)** w przypadku gdy fundusz prowadzi działalność jako fundusz składający się z subfunduszy nazwy wszystkich subfunduszy, z którymi są związane tytuły uczestnictwa, które mogą być zbywane na terytorium Rzeczypospolitej Polskiej.
 
 #### Rozdział 1a Wprowadzanie do obrotu unijnych AFI
 
@@ -7405,7 +7546,7 @@ Art. 300–319. (pominięte)
 1. Unijny AFI może być wprowadzany do obrotu na terytorium Rzeczypospolitej Polskiej wśród:
 
 - **1)** klientów profesjonalnych;
-- **2)** klientów detalicznych – w przypadku unijnego AFI, który uzyskał zezwolenie, o którym mowa w art. 5 ust. 1 rozporządzenia 2015/760.
+- **2)** klientów detalicznych w przypadku unijnego AFI, który uzyskał zezwolenie, o którym mowa w art. 5 ust. 1 rozporządzenia 2015/760.
 
 2. (uchylony) 2a. W przypadku, o którym mowa w ust. 1 pkt 2, wprowadzanie unijnego AFI do obrotu na terytorium Rzeczypospolitej Polskiej wymaga ustanowienia odpowiednich rozwiązań technicznych i organizacyjnych zapewniających:
 
@@ -7440,7 +7581,7 @@ Art. 300–319. (pominięte)
 - **7)** opis procedur ustanowionych w celu zapobiegania jego wprowadzaniu przez zarządzającego z UE lub podmioty działające na jego zlecenie do obrotu wśród klientów detalicznych;
 - **8)** informacje, o których mowa w art. 222a ust. 2, w zakresie, w jakim nie są objęte informacjami, o których mowa w pkt 1–7 i w ust. 3 pkt 1;
 - **9)** adres, na który Komisja ma przekazać informacje o opłatach na rzecz Komisji, jakim podlega unijny AFI, oraz informacje niezbędne do wystawienia przez Komisję dokumentu potwierdzającego wniesienie przez unijny AFI opłaty na rzecz Komisji;
-- **10)** informacje na temat rozwiązań technicznych i organizacyjnych, o których mowa w art. 263a ust. 2a – w przypadku, o którym mowa w art. 263a ust. 1 pkt 2.
+- **10)** informacje na temat rozwiązań technicznych i organizacyjnych, o których mowa w art. 263a ust. 2a w przypadku, o którym mowa w art. 263a ust. 1 pkt 2.
 
 3. Do zawiadomienia, o którym mowa w ust. 1, załącza się:
 
@@ -7481,7 +7622,7 @@ Art. 300–319. (pominięte)
 - **5)** opis procedur ustanowionych w celu zapobiegania jego wprowadzaniu przez towarzystwo albo zarządzającego ASI lub podmioty działające na ich zlecenie do obrotu wśród klientów detalicznych;
 - **6)** informacje, o których mowa w art. 222a ust. 2, w zakresie, w jakim nie są objęte informacjami, o których mowa w pkt 1–5 i w ust. 3;
 - **7)** adres, na który Komisja ma przekazać informacje o opłatach na rzecz Komisji, jakim podlega unijny AFI, oraz informacje niezbędne do wystawienia przez Komisję dokumentu potwierdzającego wniesienie przez unijny AFI opłaty na rzecz Komisji;
-- **8)** informacje na temat rozwiązań technicznych i organizacyjnych, o których mowa w art. 263a ust. 2a – w przypadku, o którym mowa w art. 263a ust. 1 pkt 2.
+- **8)** informacje na temat rozwiązań technicznych i organizacyjnych, o których mowa w art. 263a ust. 2a w przypadku, o którym mowa w art. 263a ust. 1 pkt 2.
 
 3. Do zawiadomienia, o którym mowa w ust. 1, załącza się regulacje wewnętrzne unijnego AFI.
 
@@ -7500,8 +7641,8 @@ Art. 300–319. (pominięte)
 
 1. Towarzystwo oraz zarządzający ASI są obowiązani informować Komisję o istotnych zmianach danych zawartych w zawiadomieniu, o którym mowa w art. 263c ust. 1, i dołączonych do niego dokumentach:
 
-- **1)** w przypadku zmian planowanych – co najmniej na miesiąc przed dokonaniem zmian;
-- **2)** w przypadku zmian nieplanowanych – niezwłocznie, nie później jednak niż w terminie 2 dni roboczych po powzięciu wiadomości o ich wystąpieniu.
+- **1)** w przypadku zmian planowanych co najmniej na miesiąc przed dokonaniem zmian;
+- **2)** w przypadku zmian nieplanowanych niezwłocznie, nie później jednak niż w terminie 2 dni roboczych po powzięciu wiadomości o ich wystąpieniu.
 
 2. W terminie 15 dni roboczych od dnia otrzymania wszystkich dokumentów i informacji, o których mowa w ust. 1, Komisja informuje towarzystwo albo zarządzającego ASI, że wskutek wprowadzenia planowanej zmiany zarządzanie unijnym AFI przez towarzystwo albo zarządzającego ASI nie będzie zgodne z przepisami prawa.
 
@@ -7525,7 +7666,7 @@ Art. 300–319. (pominięte)
 7. Po zaprzestaniu wprowadzania unijnego AFI do obrotu na terytorium Rzeczypospolitej Polskiej towarzystwo albo zarządzający ASI są obowiązani przekazywać informacje, o których mowa w:
 
 - **1)** art. 222a ust. 3 i 7, art. 222b i art. 222d ust. 2, inwestorom unijnego AFI, którzy mimo zaprzestania przez towarzystwo albo zarządzającego ASI wprowadzania unijnego AFI do obrotu na terytorium Rzeczypospolitej Polskiej posiadają prawa uczestnictwa tego unijnego AFI nabyte w drodze wprowadzania unijnego AFI do obrotu na terytorium Rzeczypospolitej Polskiej na podstawie art. 263c ust. 1;
-- **2)** art. 222c i art. 222d ust. 2, Komisji – do czasu odkupienia od inwestorów praw uczestnictwa tego unijnego AFI nabytych w drodze wprowadzania unijnego AFI do obrotu na terytorium Rzeczypospolitej Polskiej na podstawie art. 263c ust. 1.
+- **2)** art. 222c i art. 222d ust. 2, Komisji do czasu odkupienia od inwestorów praw uczestnictwa tego unijnego AFI nabytych w drodze wprowadzania unijnego AFI do obrotu na terytorium Rzeczypospolitej Polskiej na podstawie art. 263c ust. 1.
 
 8. Towarzystwo oraz zarządzający ASI mogą wypełniać obowiązki informacyjne, o których mowa w ust. 7, przy wykorzystaniu środków komunikacji elektronicznej lub innych środków porozumiewania się na odległość.
 
@@ -7547,10 +7688,10 @@ Art. 300–319. (pominięte)
 - **4)** wskazanie siedziby funduszu podstawowego albo AFI podstawowego, jeżeli fundusz inwestycyjny jest funduszem powiązanym albo alternatywna spółka inwestycyjna lub unijny AFI działają jako AFI powiązany;
 - **5)** wskazanie państwa członkowskiego, w którym zamierza się zbywać jednostki uczestnictwa, oferować certyfikaty inwestycyjne lub wprowadzać do obrotu alternatywną spółkę inwestycyjną lub unijny AFI;
 - **6)** opis zasad zbywania jednostek uczestnictwa, oferowania certyfikatów inwestycyjnych lub wprowadzania do obrotu alternatywnej spółki inwestycyjnej lub unijnego AFI;
-- **7)** opis procedur ustanowionych w celu zapobiegania zbywaniu jednostek uczestnictwa, oferowania certyfikatów inwestycyjnych lub wprowadzaniu do obrotu alternatywnej spółki inwestycyjnej lub unijnego AFI przez towarzystwo, zarządzającego ASI lub podmioty działające na ich zlecenie wśród klientów detalicznych, albo oświadczenie o dopuszczalności ich zbywania, oferowania albo wprowadzania do obrotu wśród klientów detalicznych – w przypadku gdy prawo państwa członkowskiego przewiduje takie dopuszczenie;
+- **7)** opis procedur ustanowionych w celu zapobiegania zbywaniu jednostek uczestnictwa, oferowania certyfikatów inwestycyjnych lub wprowadzaniu do obrotu alternatywnej spółki inwestycyjnej lub unijnego AFI przez towarzystwo, zarządzającego ASI lub podmioty działające na ich zlecenie wśród klientów detalicznych, albo oświadczenie o dopuszczalności ich zbywania, oferowania albo wprowadzania do obrotu wśród klientów detalicznych w przypadku gdy prawo państwa członkowskiego przewiduje takie dopuszczenie;
 - **8)** informacje, o których mowa w art. 222a ust. 2, w zakresie, w jakim nie są objęte informacjami, o których mowa w pkt 1–7 i w ust. 3;
 - **9)** adres, na który właściwy organ nadzoru państwa goszczącego ma przekazać informacje o opłatach na rzecz tego organu, jakim podlegają fundusz, alternatywna spółka inwestycyjna lub unijny AFI objęte zawiadomieniem, oraz informacje niezbędne do wystawienia przez właściwy organ nadzoru państwa goszczącego dokumentu potwierdzającego wniesienie opłaty na rzecz tego organu;
-- **10)** informacje na temat rozwiązań technicznych i organizacyjnych, o których mowa w art. 263a ust. 2a – w przypadku, o którym mowa w art. 263a ust. 1 pkt 2.
+- **10)** informacje na temat rozwiązań technicznych i organizacyjnych, o których mowa w art. 263a ust. 2a w przypadku, o którym mowa w art. 263a ust. 1 pkt 2.
 
 3. Do zawiadomienia, o którym mowa w ust. 1, załącza się statut i prospekt funduszu inwestycyjnego lub regulacje wewnętrzne ASI lub unijnego AFI.
 
@@ -7581,8 +7722,8 @@ Art. 300–319. (pominięte)
 
 1. Towarzystwo i zarządzający ASI są obowiązani informować Komisję o istotnych zmianach danych zawartych w zawiadomieniu, o którym mowa w art. 263f ust. 1, i dołączonych do niego dokumentach:
 
-- **1)** w przypadku zmian planowanych – co najmniej na miesiąc przed dokonaniem zmian;
-- **2)** w przypadku zmian nieplanowanych – niezwłocznie, nie później jednak niż w terminie 2 dni roboczych po powzięciu wiadomości o ich wystąpieniu.
+- **1)** w przypadku zmian planowanych co najmniej na miesiąc przed dokonaniem zmian;
+- **2)** w przypadku zmian nieplanowanych niezwłocznie, nie później jednak niż w terminie 2 dni roboczych po powzięciu wiadomości o ich wystąpieniu.
 
 2. Do przekazywania informacji, o których mowa w ust. 1, przepis art. 263f ust. 4 stosuje się odpowiednio.
 
@@ -7621,7 +7762,7 @@ Art. 300–319. (pominięte)
 8. Po zaprzestaniu zbywania jednostek uczestnictwa, oferowania certyfikatów inwestycyjnych oraz wprowadzania alternatywnej spółki inwestycyjnej lub unijnego AFI do obrotu na terytorium państwa członkowskiego towarzystwo albo zarządzający ASI są obowiązani przekazywać informacje, o których mowa w:
 
 - **1)** art. 222a ust. 3 i 7 i art. 222d ust. 1 i 2, klientom z państwa członkowskiego, którzy mimo zaprzestania przez towarzystwo albo zarządzającego ASI zbywania jednostek uczestnictwa, oferowania certyfikatów inwestycyjnych oraz wprowadzania alternatywnej spółki inwestycyjnej lub unijnego AFI do obrotu na terytorium państwa członkowskiego posiadają jednostki uczestnictwa, certyfikaty inwestycyjne albo prawa uczestnictwa, nabyte w drodze ich odpowiednio zbywania, oferowania lub wprowadzania do obrotu w państwie członkowskim na podstawie art. 263f ust. 1;
-- **2)** art. 222c i art. 222d ust. 1 i 2, Komisji – do czasu odkupienia od klientów z państwa członkowskiego jednostek uczestnictwa, certyfikatów inwestycyjnych albo praw uczestnictwa, nabytych w drodze ich odpowiednio zbywania, oferowania lub wprowadzania do obrotu w państwie członkowskim na podstawie art. 263f ust. 1.
+- **2)** art. 222c i art. 222d ust. 1 i 2, Komisji do czasu odkupienia od klientów z państwa członkowskiego jednostek uczestnictwa, certyfikatów inwestycyjnych albo praw uczestnictwa, nabytych w drodze ich odpowiednio zbywania, oferowania lub wprowadzania do obrotu w państwie członkowskim na podstawie art. 263f ust. 1.
 
 9. Towarzystwo oraz zarządzający ASI mogą wypełniać obowiązki informacyjne, o których mowa w ust. 8 pkt 1, przy wykorzystaniu środków komunikacji elektronicznej lub innych środków porozumiewania się na odległość.
 
@@ -7637,13 +7778,13 @@ Art. 300–319. (pominięte)
 
 2. Do wprowadzania do obrotu na terytorium Rzeczypospolitej Polskiej alternatywnego funduszu inwestycyjnego z siedzibą w państwie należącym do EEA zarządzanego przez:
 
-- **1)** zarządzającego z UE – stosuje się odpowiednio przepisy art. 263a i art. 263b;
-- **2)** towarzystwo albo zarządzającego ASI prowadzącego działalność na podstawie zezwolenia – stosuje się odpowiednio przepisy art. 263a, art. 263c i art. 263d.
+- **1)** zarządzającego z UE stosuje się odpowiednio przepisy art. 263a i art. 263b;
+- **2)** towarzystwo albo zarządzającego ASI prowadzącego działalność na podstawie zezwolenia stosuje się odpowiednio przepisy art. 263a, art. 263c i art. 263d.
 
 3. Do zaprzestania wprowadzania do obrotu na terytorium Rzeczypospolitej Polskiej alternatywnego funduszu inwestycyjnego z siedzibą w państwie należącym do EEA zarządzanego przez:
 
-- **1)** zarządzającego z UE – stosuje się odpowiednio przepisy art. 263ba;
-- **2)** towarzystwo albo zarządzającego ASI prowadzącego działalność na podstawie zezwolenia – stosuje się odpowiednio przepisy art. 263da.
+- **1)** zarządzającego z UE stosuje się odpowiednio przepisy art. 263ba;
+- **2)** towarzystwo albo zarządzającego ASI prowadzącego działalność na podstawie zezwolenia stosuje się odpowiednio przepisy art. 263da.
 
 **Art. 263i.**
 
@@ -7764,7 +7905,7 @@ Art. 300–319. (pominięte)
 
 - **1)** firmę (nazwę) oraz siedzibę i adres funduszu oraz podmiotu zarządzającego tym funduszem;
 - **2)** firmę (nazwę) oraz siedzibę i adres depozytariusza;
-- **3)** nazwy wszystkich subfunduszy, które są wprowadzane do obrotu na terytorium Rzeczypospolitej Polskiej – w przypadku gdy fundusz prowadzi działalność jako fundusz składający się z subfunduszy.
+- **3)** nazwy wszystkich subfunduszy, które są wprowadzane do obrotu na terytorium Rzeczypospolitej Polskiej w przypadku gdy fundusz prowadzi działalność jako fundusz składający się z subfunduszy.
 
 #### Rozdział 2 Tworzenie oddziałów i wykonywanie działalności przez towarzystwo i zarządzającego ASI na terytorium państw członkowskich, tworzenie oddziałów i wykonywanie działalności przez spółki zarządzające i zarządzających z UE na terytorium Rzeczypospolitej Polskiej oraz tworzenie oddziałów i wykonywanie działalności przez towarzystwa na terytorium państw należących do EEA
 
@@ -7785,8 +7926,8 @@ Art. 300–319. (pominięte)
 
 - **1)** strukturę organizacyjną oddziału;
 - **2)** plan prowadzenia działalności określający zakres usług świadczonych przez oddział, opis systemu zarządzania ryzykiem oraz opis procedur i środków stosowanych w zakresie udostępniania informacji na żądanie uczestników lub inwestorów w państwie goszczącym lub właściwych organów państwa goszczącego, a także:
-    - **a)** opis procedur i środków stosowanych w zakresie rozpatrywania reklamacji uczestników – w przypadku gdy oddział będzie prowadzić działalność w zakresie zarządzania funduszami zagranicznymi,
-    - **b)** wskazanie unijnego AFI, którym towarzystwo zamierza zarządzać, oraz adres oddziału, w którym możliwe będzie uzyskanie dokumentów dotyczących jego działalności – w przypadku gdy oddział będzie prowadzić działalność w zakresie zarządzania unijnymi AFI;
+    - **a)** opis procedur i środków stosowanych w zakresie rozpatrywania reklamacji uczestników w przypadku gdy oddział będzie prowadzić działalność w zakresie zarządzania funduszami zagranicznymi,
+    - **b)** wskazanie unijnego AFI, którym towarzystwo zamierza zarządzać, oraz adres oddziału, w którym możliwe będzie uzyskanie dokumentów dotyczących jego działalności w przypadku gdy oddział będzie prowadzić działalność w zakresie zarządzania unijnymi AFI;
 
 - **3)** dane osobowe i kontaktowe osób odpowiedzialnych za zarządzanie oddziałem.
 - **4)** (uchylony)
@@ -7800,8 +7941,8 @@ Art. 300–319. (pominięte)
 
 5b. Do zawiadomienia przekazywanego właściwym organom nadzoru państwa goszczącego Komisja załącza, w przypadku gdy zgodnie z planem, o którym mowa w ust. 4 pkt 2, oddział towarzystwa będzie prowadzić działalność w zakresie:
 
-- **1)** zarządzania funduszami zagranicznymi – zaświadczenie, że towarzystwo jest uprawnione do wykonywania działalności w zakresie zarządzania funduszami prowadzącymi działalność zgodnie z prawem wspólnotowym regulującym zasady zbiorowego inwestowania w papiery wartościowe, oraz wskazuje zakres działalności, do jakiej uprawnione jest towarzystwo, oraz charakterystykę celów inwestycyjnych i polityki inwestycyjnej funduszy inwestycyjnych otwartych, do których zarządzania uprawnione jest towarzystwo;
-- **2)** zarządzania unijnymi AFI – zaświadczenie, że towarzystwo jest uprawnione do wykonywania działalności w zakresie zarządzania alternatywnymi funduszami inwestycyjnymi, oraz wskazuje charakterystykę celów inwestycyjnych, polityki inwestycyjnej oraz strategii inwestycyjnej specjalistycznych funduszy inwestycyjnych otwartych lub funduszy inwestycyjnych zamkniętych, do których zarządzania uprawnione jest towarzystwo.
+- **1)** zarządzania funduszami zagranicznymi zaświadczenie, że towarzystwo jest uprawnione do wykonywania działalności w zakresie zarządzania funduszami prowadzącymi działalność zgodnie z prawem wspólnotowym regulującym zasady zbiorowego inwestowania w papiery wartościowe, oraz wskazuje zakres działalności, do jakiej uprawnione jest towarzystwo, oraz charakterystykę celów inwestycyjnych i polityki inwestycyjnej funduszy inwestycyjnych otwartych, do których zarządzania uprawnione jest towarzystwo;
+- **2)** zarządzania unijnymi AFI zaświadczenie, że towarzystwo jest uprawnione do wykonywania działalności w zakresie zarządzania alternatywnymi funduszami inwestycyjnymi, oraz wskazuje charakterystykę celów inwestycyjnych, polityki inwestycyjnej oraz strategii inwestycyjnej specjalistycznych funduszy inwestycyjnych otwartych lub funduszy inwestycyjnych zamkniętych, do których zarządzania uprawnione jest towarzystwo.
 
 5c. Komisja informuje właściwe organy państwa goszczącego o wszelkich zmianach w zaświadczeniu i informacjach przekazanych zgodnie z ust. 5b.
 
@@ -7813,15 +7954,15 @@ Art. 300–319. (pominięte)
 
 7. Oddział może być utworzony po otrzymaniu przez towarzystwo informacji o przekazaniu zawiadomienia właściwemu organowi nadzoru państwa goszczącego, o której mowa w ust. 5a, z tym że:
 
-- **1)** rozpoczęcie przez oddział działalności w zakresie zarządzania funduszami zagranicznymi może nastąpić najwcześniej po otrzymaniu przez towarzystwo od właściwych organów nadzoru państwa goszczącego informacji o warunkach i zasadach prowadzenia działalności obowiązujących w tym państwie albo bez otrzymania takich informacji – po upływie 2 miesięcy od dnia otrzymania informacji, o których mowa w ust. 3, 4, 5a i 5b, przez właściwe organy nadzoru państwa goszczącego, przy czym zbywanie jednostek uczestnictwa funduszy inwestycyjnych otwartych na terytorium tego państwa wymaga uprzedniego spełnienia warunków, o których mowa w art. 261 i art. 261a;
+- **1)** rozpoczęcie przez oddział działalności w zakresie zarządzania funduszami zagranicznymi może nastąpić najwcześniej po otrzymaniu przez towarzystwo od właściwych organów nadzoru państwa goszczącego informacji o warunkach i zasadach prowadzenia działalności obowiązujących w tym państwie albo bez otrzymania takich informacji po upływie 2 miesięcy od dnia otrzymania informacji, o których mowa w ust. 3, 4, 5a i 5b, przez właściwe organy nadzoru państwa goszczącego, przy czym zbywanie jednostek uczestnictwa funduszy inwestycyjnych otwartych na terytorium tego państwa wymaga uprzedniego spełnienia warunków, o których mowa w art. 261 i art. 261a;
 - **2)** zbywanie jednostek uczestnictwa specjalistycznych funduszy inwestycyjnych otwartych lub proponowanie objęcia certyfikatów inwestycyjnych funduszy inwestycyjnych zamkniętych na terytorium tego państwa lub wprowadzanie unijnego AFI, którym zarządza towarzystwo, do obrotu na terytorium tego państwa wymaga uprzedniego spełnienia warunków, o których mowa w art. 263f.
 
 8. (uchylony)
 
 9. W przypadku planowanej zmiany w zakresie określonym w ust. 3 pkt 2 i ust. 4 towarzystwo ma obowiązek zawiadomić o tym, w formie pisemnej:
 
-- **1)** Komisję – na co najmniej 2 miesiące przed jej wprowadzeniem;
-- **2)** właściwe organy państwa goszczącego – na co najmniej miesiąc przed jej wprowadzeniem.
+- **1)** Komisję na co najmniej 2 miesiące przed jej wprowadzeniem;
+- **2)** właściwe organy państwa goszczącego na co najmniej miesiąc przed jej wprowadzeniem.
 
 10. Komisja, w terminie 15 dni roboczych od dnia otrzymania wszystkich informacji o planowanych zmianach:
 
@@ -7835,8 +7976,8 @@ Art. 300–319. (pominięte)
 
 10b. Przepisów ust. 9 i 10 nie stosuje się w przypadku gdy zmiany w zakresie określonym w ust. 3 pkt 2 i ust. 4 dotyczą działalności zarządzania unijnymi AFI. W takim przypadku towarzystwo jest obowiązane informować o istotnych zmianach Komisję:
 
-- **1)** w przypadku zmian planowanych – co najmniej na miesiąc przed dokonaniem zmian;
-- **2)** w przypadku zmian nieplanowanych – niezwłocznie, nie później jednak niż w terminie 2 dni roboczych po powzięciu wiadomości o ich wystąpieniu.
+- **1)** w przypadku zmian planowanych co najmniej na miesiąc przed dokonaniem zmian;
+- **2)** w przypadku zmian nieplanowanych niezwłocznie, nie później jednak niż w terminie 2 dni roboczych po powzięciu wiadomości o ich wystąpieniu.
 
 10c. Komisja, w terminie 15 dni roboczych od dnia otrzymania wszystkich informacji, o których mowa w ust. 10b:
 
@@ -7860,14 +8001,14 @@ Art. 300–319. (pominięte)
 
 - **1)** nazwę państwa goszczącego;
 - **2)** plan prowadzenia działalności określający zakres świadczonych usług, opis systemu zarządzania ryzykiem oraz opis procedur i środków stosowanych w zakresie udostępniania informacji na żądanie uczestników lub inwestorów w państwie goszczącym lub właściwych organów nadzoru państwa goszczącego, a także:
-    - **a)** opis procedur i środków stosowanych w zakresie rozpatrywania reklamacji uczestników – w przypadku gdy towarzystwo będzie prowadzić działalność w zakresie zarządzania funduszami zagranicznymi,
-    - **b)** wskazanie unijnego AFI, którym towarzystwo zamierza zarządzać, oraz adres oddziału, w którym możliwe będzie uzyskanie dokumentów dotyczących jego działalności – w przypadku gdy towarzystwo będzie prowadzić działalność w zakresie zarządzania unijnymi AFI.
+    - **a)** opis procedur i środków stosowanych w zakresie rozpatrywania reklamacji uczestników w przypadku gdy towarzystwo będzie prowadzić działalność w zakresie zarządzania funduszami zagranicznymi,
+    - **b)** wskazanie unijnego AFI, którym towarzystwo zamierza zarządzać, oraz adres oddziału, w którym możliwe będzie uzyskanie dokumentów dotyczących jego działalności w przypadku gdy towarzystwo będzie prowadzić działalność w zakresie zarządzania unijnymi AFI.
 
 3. W terminie miesiąca od otrzymania zawiadomienia spełniającego wymagania, o których mowa w ust. 2, Komisja przesyła zawiadomienie właściwym organom państwa goszczącego wraz z:
 
 - **1)** informacją o obowiązującym na terytorium Rzeczypospolitej Polskiej systemie rekompensat;
-- **2)** zaświadczeniem, że towarzystwo jest uprawnione do wykonywania działalności w zakresie zarządzania funduszami prowadzącymi działalność zgodnie z prawem wspólnotowym regulującym zasady zbiorowego inwestowania w papiery wartościowe, a także wskazaniem zakresu działalności, do jakiej uprawnione jest towarzystwo, oraz charakterystyki celów inwestycyjnych i polityki inwestycyjnej funduszy inwestycyjnych otwartych, do których zarządzania uprawnione jest towarzystwo – w przypadku gdy zgodnie z planem, o którym mowa w ust. 2 pkt 2, towarzystwo będzie na terytorium państwa goszczącego prowadziło w formie innej niż oddział działalność w zakresie zarządzania funduszami zagranicznymi;
-- **3)** zaświadczeniem, że towarzystwo jest uprawnione do wykonywania działalności w zakresie zarządzania alternatywnymi funduszami inwestycyjnymi – w przypadku gdy zgodnie z planem, o którym mowa w ust. 2 pkt 2, towarzystwo będzie na terytorium państwa goszczącego prowadziło w formie innej niż oddział działalność w zakresie zarządzania unijnymi AFI, z zastrzeżeniem ust. 3b.
+- **2)** zaświadczeniem, że towarzystwo jest uprawnione do wykonywania działalności w zakresie zarządzania funduszami prowadzącymi działalność zgodnie z prawem wspólnotowym regulującym zasady zbiorowego inwestowania w papiery wartościowe, a także wskazaniem zakresu działalności, do jakiej uprawnione jest towarzystwo, oraz charakterystyki celów inwestycyjnych i polityki inwestycyjnej funduszy inwestycyjnych otwartych, do których zarządzania uprawnione jest towarzystwo w przypadku gdy zgodnie z planem, o którym mowa w ust. 2 pkt 2, towarzystwo będzie na terytorium państwa goszczącego prowadziło w formie innej niż oddział działalność w zakresie zarządzania funduszami zagranicznymi;
+- **3)** zaświadczeniem, że towarzystwo jest uprawnione do wykonywania działalności w zakresie zarządzania alternatywnymi funduszami inwestycyjnymi w przypadku gdy zgodnie z planem, o którym mowa w ust. 2 pkt 2, towarzystwo będzie na terytorium państwa goszczącego prowadziło w formie innej niż oddział działalność w zakresie zarządzania unijnymi AFI, z zastrzeżeniem ust. 3b.
 
 3a. Komisja informuje właściwe organy nadzoru państwa goszczącego o wszelkich zmianach w zaświadczeniu i informacjach przekazanych zgodnie z ust. 3 pkt 2 i 3.
 
@@ -7886,8 +8027,8 @@ Art. 300–319. (pominięte)
 
 7a. Przepisów ust. 6 i 7 nie stosuje się, w przypadku gdy zmiany w zakresie, o którym mowa w ust. 2 pkt 2, dotyczą działalności zarządzania unijnymi AFI. W takim przypadku towarzystwo jest obowiązane informować o istotnych zmianach Komisję:
 
-- **1)** w przypadku zmian planowanych – co najmniej na miesiąc przed dokonaniem zmian;
-- **2)** w przypadku zmian nieplanowanych – niezwłocznie, nie później jednak niż w terminie 2 dni roboczych po powzięciu wiadomości o ich wystąpieniu.
+- **1)** w przypadku zmian planowanych co najmniej na miesiąc przed dokonaniem zmian;
+- **2)** w przypadku zmian nieplanowanych niezwłocznie, nie później jednak niż w terminie 2 dni roboczych po powzięciu wiadomości o ich wystąpieniu.
 
 7b. Komisja, w terminie 15 dni roboczych od dnia otrzymania wszystkich informacji, o których mowa w ust. 7a:
 
@@ -7899,6 +8040,10 @@ Art. 300–319. (pominięte)
 8. Powierzenie osobie trzeciej zbywania jednostek uczestnictwa lub proponowania objęcia certyfikatów inwestycyjnych w państwie goszczącym lub wprowadzania unijnego AFI do obrotu w państwie goszczącym nie zwalnia towarzystwa z obowiązku zastosowania trybu, o którym mowa w ust. 1.
 
 **Art. 265a.** Towarzystwo może prowadzić na terytorium państwa członkowskiego działalność w formie oddziału lub w formie innej niż oddział:
+
+- **1)** w zakresie zarządzania funduszami zagranicznymi jeżeli zarządza co najmniej jednym funduszem inwestycyjnym otwartym;
+- **2)** w zakresie zarządzania unijnymi AFI jeżeli posiada zezwolenie na zarządzanie alternatywnymi funduszami inwestycyjnymi;
+- **3)** w zakresie zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, doradztwa inwestycyjnego oraz przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych jeżeli posiada zezwolenie na zarządzanie portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, zezwolenie na doradztwo inwestycyjne oraz zezwolenie na przyjmowanie i przekazywanie zleceń nabycia lub zbycia instrumentów finansowych.
 
 **Art. 265b.** Przepisy art. 264–265a stosuje się odpowiednio, w przypadku gdy towarzystwo, które na terytorium danego państwa członkowskiego prowadzi działalność w formie oddziału lub w formie innej niż oddział, zamierza prowadzić na terytorium tego państwa działalność wymienioną w art. 265a, która nie była objęta zawiadomieniem przekazanym właściwym organom nadzoru tego państwa.
 
@@ -7912,7 +8057,7 @@ Art. 300–319. (pominięte)
 
 2a. Do towarzystwa prowadzącego na terytorium państwa goszczącego działalność w zakresie zarządzania portfelem, w skład którego wchodzi jeden lub większa liczba instrumentów finansowych, doradztwa inwestycyjnego lub przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych stosuje się przepisy prawa polskiego, a towarzystwo podlega w tym zakresie nadzorowi Komisji.
 
-3. Towarzystwo prowadzące na terytorium państwa goszczącego działalność w formie oddziału lub w formie innej niż oddział jest obowiązane do udzielania informacji na żądanie uczestników, inwestorów lub właściwych organów nadzoru państwa goszczącego, a w zakresie działalności zarządzania funduszami zagranicznymi – również do zapewnienia na terytorium tego państwa możliwości składania reklamacji w języku urzędowym lub w jednym z języków urzędowych państwa goszczącego.
+3. Towarzystwo prowadzące na terytorium państwa goszczącego działalność w formie oddziału lub w formie innej niż oddział jest obowiązane do udzielania informacji na żądanie uczestników, inwestorów lub właściwych organów nadzoru państwa goszczącego, a w zakresie działalności zarządzania funduszami zagranicznymi również do zapewnienia na terytorium tego państwa możliwości składania reklamacji w języku urzędowym lub w jednym z języków urzędowych państwa goszczącego.
 
 4. W przypadku gdy towarzystwo będzie prowadziło na terytorium państwa goszczącego działalność w zakresie zarządzania funduszami zagranicznymi i złożyło wniosek o utworzenie funduszu zagranicznego lub o przejęcie zarządzania funduszem zagranicznym w państwie goszczącym, Komisja na wniosek właściwych organów państwa goszczącego, w terminie 10 dni roboczych od jego otrzymania, udziela wyjaśnień i informacji, czy towarzystwo jest uprawnione do zarządzania funduszem inwestycyjnym o takiej polityce inwestycyjnej i celach inwestycyjnych jak fundusz zagraniczny, którego dotyczy wniosek złożony przez towarzystwo.
 
@@ -7921,6 +8066,12 @@ Art. 300–319. (pominięte)
 6. W przypadku gdy w skład lokat funduszu zagranicznego lub unijnego AFI, którym zarządza towarzystwo, wchodzą papiery wartościowe wyemitowane w ramach sekurytyzacji, która przestała spełniać wymagania określone w rozporządzeniu 2017/2402, towarzystwo to, w przypadku gdy jest to konieczne, podejmuje stosowne działania w najlepiej pojętym interesie uczestników funduszu zagranicznego lub inwestorów unijnego AFI.
 
 **Art. 267.** W przypadku powiadomienia Komisji przez właściwe organy państwa goszczącego, że towarzystwo, które prowadzi na terytorium tego państwa działalność w formie oddziału lub w formie innej niż oddział, narusza przepisy prawa obowiązujące w tym państwie i nie usunęło nieprawidłowości w terminie wyznaczonym przez te organy, Komisja może:
+
+- **1)** wezwać towarzystwo do zaprzestania naruszania przepisów prawa na terytorium państwa członkowskiego;
+- **2)** nałożyć na towarzystwo karę pieniężną w wysokości do 500 000 zł;
+- **3)** zakazać wykonywania przez towarzystwo działalności na terytorium państwa członkowskiego w całości lub w części, w zakresie której stwierdzono naruszenie;
+- **4)** zastosować łącznie sankcje, o których mowa w pkt 2 i 3;
+- **5)** zakazać zbywania na terytorium państwa goszczącego jednostek uczestnictwa zarządzanych przez towarzystwo funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych, proponowania objęcia na terytorium państwa goszczącego certyfikatów inwestycyjnych funduszy inwestycyjnych zamkniętych zarządzanych przez towarzystwo lub wprowadzania do obrotu na terytorium państwa goszczącego unijnych AFI zarządzanych przez towarzystwo.
 
 **Art. 268.**
 
@@ -7959,7 +8110,7 @@ Art. 300–319. (pominięte)
 - **2)** adres miejsca w państwie macierzystym unijnego AFI, którym zarządzający ASI zamierza zarządzać, w którym są dostępne dokumenty dotyczące tego unijnego AFI;
 - **3)** dane osobowe i kontaktowe osób odpowiedzialnych za zarządzanie oddziałem.
 
-5. W terminie miesiąca, a w przypadku gdy zarządzający ASI zamierza ustanowić oddział na terytorium państwa członkowskiego – 2 miesięcy, od otrzymania zawiadomienia spełniającego wymagania, o których mowa w ust. 3 i 4, Komisja:
+5. W terminie miesiąca, a w przypadku gdy zarządzający ASI zamierza ustanowić oddział na terytorium państwa członkowskiego 2 miesięcy, od otrzymania zawiadomienia spełniającego wymagania, o których mowa w ust. 3 i 4, Komisja:
 
 - **1)** przekazuje zawiadomienie właściwemu organowi nadzoru państwa goszczącego albo
 - **2)** w drodze decyzji, odmawia przekazania zawiadomienia właściwemu organowi państwa goszczącego.
@@ -7976,17 +8127,15 @@ Art. 300–319. (pominięte)
 
 11. Zarządzający ASI jest obowiązany informować Komisję o istotnych zmianach w zakresie, o którym mowa w ust. 3 pkt 2 i ust. 4:
 
-- **1)** w przypadku zmian planowanych – co najmniej na miesiąc przed dokonaniem zmian;
-- **2)** w przypadku zmian nieplanowanych – niezwłocznie, nie później jednak niż w terminie 2 dni roboczych po powzięciu wiadomości o ich wystąpieniu.
+- **1)** w przypadku zmian planowanych co najmniej na miesiąc przed dokonaniem zmian;
+- **2)** w przypadku zmian nieplanowanych niezwłocznie, nie później jednak niż w terminie 2 dni roboczych po powzięciu wiadomości o ich wystąpieniu.
 
 12. Komisja, w terminie 15 dni roboczych od dnia otrzymania wszystkich informacji, o których mowa w ust. 11:
 
 - **1)** przekazuje te informacje właściwemu organowi nadzoru państwa goszczącego albo
 - **2)** informuje zarządzającego ASI, że wprowadzenie zmian może wpłynąć na prowadzenie działalności przez zarządzającego ASI, w tym zarządzanie przez niego unijnym AFI, z naruszeniem przepisów prawa.
 
-12a. W przypadku wprowadzenia planowanej zmiany, o której mowa w ust. 11 pkt 1, bez zawiadomienia Komisji lub gdy zmiana nieplanowana, o której mowa w ust. 11 pkt 2, prowadzi do sytuacji, o której mowa w ust. 12 pkt 2, Komisja może zastosować wobec zarządzającego ASI odpowiednio sankcje, o których mowa w art.
-
-229a. Komisja niezwłocznie informuje właściwe organy państwa goszczącego o zastosowanych sankcjach.
+12a. W przypadku wprowadzenia planowanej zmiany, o której mowa w ust. 11 pkt 1, bez zawiadomienia Komisji lub gdy zmiana nieplanowana, o której mowa w ust. 11 pkt 2, prowadzi do sytuacji, o której mowa w ust. 12 pkt 2, Komisja może zastosować wobec zarządzającego ASI odpowiednio sankcje, o których mowa w art. 229a. Komisja niezwłocznie informuje właściwe organy państwa goszczącego o zastosowanych sankcjach.
 
 13. Powierzenie osobie trzeciej wprowadzania alternatywnej spółki inwestycyjnej lub unijnego AFI, którymi zarządza zarządzający ASI, do obrotu na terytorium państwa goszczącego nie zwalnia zarządzającego ASI z obowiązku zastosowania trybu, o którym mowa w ust. 2.
 
@@ -8194,7 +8343,7 @@ Art. 300–319. (pominięte)
 1. Zarządzający z UE może rozpocząć wykonywanie działalności na terytorium Rzeczypospolitej Polskiej pod warunkiem otrzymania przez Komisję od właściwego organu nadzoru państwa macierzystego tego zarządzającego informacji obejmującej:
 
 - **1)** wskazanie, że zarządzający z UE zamierza wykonywać działalność na terytorium Rzeczypospolitej Polskiej w formie oddziału lub w formie innej niż oddział,
-- **2)** program działania zarządzającego z UE określający w szczególności świadczone usługi lub nazwę specjalistycznego funduszu inwestycyjnego otwartego lub funduszu inwestycyjnego zamkniętego, w stosunku do którego zarządzający z UE zamierza zawrzeć umowę, o której mowa w art. 4 ust. 1b, albo nazwę alternatywnej spółki inwestycyjnej, której komplementariuszem zamierza zostać zarządzający z UE – wraz z zaświadczeniem, że zarządzający z UE posiada wydane przez ten organ zezwolenie na wykonywanie działalności zarządzania alternatywnymi funduszami inwestycyjnymi.
+- **2)** program działania zarządzającego z UE określający w szczególności świadczone usługi lub nazwę specjalistycznego funduszu inwestycyjnego otwartego lub funduszu inwestycyjnego zamkniętego, w stosunku do którego zarządzający z UE zamierza zawrzeć umowę, o której mowa w art. 4 ust. 1b, albo nazwę alternatywnej spółki inwestycyjnej, której komplementariuszem zamierza zostać zarządzający z UE wraz z zaświadczeniem, że zarządzający z UE posiada wydane przez ten organ zezwolenie na wykonywanie działalności zarządzania alternatywnymi funduszami inwestycyjnymi.
 
 2. Zarządzający z UE może utworzyć na terytorium Rzeczypospolitej Polskiej oddział, jeżeli informacja, o której mowa w ust. 1, obejmuje dodatkowo:
 
@@ -8232,7 +8381,7 @@ Art. 300–319. (pominięte)
 - **9)** relacji z uczestnikami tych funduszy;
 - **10)** łączenia i przekształcania tych funduszy;
 - **11)** rozwiązania i likwidacji tych funduszy;
-- **12)** prowadzenia rejestru uczestników funduszu lub ewidencji uczestników funduszu;
+- **12)** prowadzenia rejestru uczestników tych funduszy;
 - **13)** opłat związanych z wydawaniem zezwoleń dotyczących funduszu oraz z nadzorem nad tymi funduszami;
 - **14)** wykonywania przez uczestników tych funduszy przysługujących im uprawnień.
 
@@ -8259,7 +8408,7 @@ Art. 300–319. (pominięte)
 
 1. Zarządzający z UE prowadzący działalność na terytorium Rzeczypospolitej Polskiej może, na podstawie zawartej z towarzystwem będącym organem specjalistycznego funduszu inwestycyjnego otwartego lub funduszu inwestycyjnego zamkniętego umowy, o której mowa w art. 4 ust. 1b, przejąć zarządzanie specjalistycznym funduszem inwestycyjnym otwartym lub funduszem inwestycyjnym zamkniętym i prowadzenie jego spraw.
 
-2. Przejęcie zarządzania specjalistycznym funduszem inwestycyjnym otwartym lub funduszem inwestycyjnym zamkniętym i prowadzenia jego spraw wymaga zgody zgromadzenia uczestników specjalistycznego funduszu inwestycyjnego otwartego, a w przypadku funduszu inwestycyjnego zamkniętego – zgody zgromadzenia inwestorów na przejęcie zarządzania funduszem inwestycyjnym i prowadzenia jego spraw przez zarządzającego z UE, zezwolenia Komisji oraz zmiany statutu funduszu w zakresie, o którym mowa w art. 18 ust. 2 pkt 3b.
+2. Przejęcie zarządzania specjalistycznym funduszem inwestycyjnym otwartym lub funduszem inwestycyjnym zamkniętym i prowadzenia jego spraw wymaga zgody zgromadzenia uczestników specjalistycznego funduszu inwestycyjnego otwartego, a w przypadku funduszu inwestycyjnego zamkniętego zgody zgromadzenia inwestorów na przejęcie zarządzania funduszem inwestycyjnym i prowadzenia jego spraw przez zarządzającego z UE, zezwolenia Komisji oraz zmiany statutu funduszu w zakresie, o którym mowa w art. 18 ust. 2 pkt 3b.
 
 3. Jeżeli statut funduszu inwestycyjnego zamkniętego nie przewiduje działania zgromadzenia inwestorów, towarzystwo jest obowiązane do dokonania zmiany statutu funduszu w zakresie dotyczącym wprowadzenia zgromadzenia inwestorów w celu wyrażenia zgody na przejęcie zarządzania funduszem inwestycyjnym zamkniętym.
 
@@ -8289,7 +8438,7 @@ Art. 300–319. (pominięte)
 
 11. Zarządzający z UE przejmujący zarządzanie specjalistycznym funduszem inwestycyjnym otwartym lub funduszem inwestycyjnym zamkniętym i prowadzenie ich spraw jest obowiązany przekazać uczestnikom tych funduszy na papierze lub innym trwałym nośniku informacji, przynajmniej na 45 dni przed planowaną datą przejęcia zarządzania funduszem i prowadzenia jego spraw, następujące informacje:
 
-- **1)** oświadczenie, że zarządzający z UE uzyskał zezwolenie Komisji, o którym mowa w ust. 2, a w przypadku funduszu inwestycyjnego zamkniętego, o którym mowa w art. 15 ust. 1a – oświadczenie, że zezwolenie Komisji, o którym mowa w ust. 2, nie jest wymagane;
+- **1)** oświadczenie, że zarządzający z UE uzyskał zezwolenie Komisji, o którym mowa w ust. 2, a w przypadku funduszu inwestycyjnego zamkniętego, o którym mowa w art. 15 ust. 1a oświadczenie, że zezwolenie Komisji, o którym mowa w ust. 2, nie jest wymagane;
 - **2)** datę ogłoszenia zmiany statutu funduszu inwestycyjnego, o której mowa w ust. 2;
 - **3)** informację o treści uprawnień, o których mowa w ust. 9 i 10.
 
@@ -8380,7 +8529,7 @@ Art. 300–319. (pominięte)
 
 **Art. 276i.** Przepisy niniejszego oddziału stosuje się do tworzenia oddziałów i prowadzenia działalności na terytorium Rzeczypospolitej Polskiej w formie innej niż oddział przez osoby prawne, z siedzibą w państwach należących do EEA, zarządzające alternatywnymi funduszami inwestycyjnymi na podstawie zezwolenia wydanego przez właściwy organ państwa siedziby, jeżeli działają zgodnie z prawem wspólnotowym regulującym działalność zarządzających alternatywnymi funduszami inwestycyjnymi, przy czym wszystkie jednostki organizacyjne takiej osoby prawnej zlokalizowane na terytorium Rzeczypospolitej Polskiej uważa się za jeden oddział.
 
-#### Rozdział 3
+#### Rozdział 3 (uchylony)
 
 ### DZIAŁ XIII Tajemnica zawodowa oraz współpraca organów nadzoru
 
@@ -8418,7 +8567,7 @@ Art. 300–319. (pominięte)
 - **1)** sądu lub prokuratora, jeżeli są niezbędne w toczącym się postępowaniu karnym, a w postępowaniu cywilnym, jeżeli informacje nie dotyczą osób trzecich niebędących stroną postępowania;
 - **2)** organu Krajowej Administracji Skarbowej:
     - **a)** w związku z toczącym się postępowaniem w sprawie o przestępstwo skarbowe lub o wykroczenie skarbowe, jeżeli są niezbędne w toczącym się postępowaniu, lub
-    - **b)** jeżeli jest to konieczne do skutecznego zapobieżenia przestępstwom lub przestępstwom skarbowym, ich wykrycia albo ustalenia ich sprawców i uzyskania dowodów ich popełnienia, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa lub przestępstwa skarbowego albo ich równowartości – w zakresie, o którym mowa w art. 127a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2025 r. poz. 1131 i 1423);
+    - **b)** jeżeli jest to konieczne do skutecznego zapobieżenia przestępstwom lub przestępstwom skarbowym, ich wykrycia albo ustalenia ich sprawców i uzyskania dowodów ich popełnienia, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa lub przestępstwa skarbowego albo ich równowartości w zakresie, o którym mowa w art. 127a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2025 r. poz. 1131 i 1423);
 
 - **2a)** organu podatkowego lub organu Krajowej Administracji Skarbowej w związku z trwającymi czynnościami sprawdzającymi lub toczącą się kontrolą podatkową, kontrolą celno-skarbową lub postępowaniem podatkowym;
 - **3)** Prezesa Najwyższej Izby Kontroli lub upoważnionego przez niego kontrolera w zakresie danych dotyczących jednostki kontrolowanej, niezbędnych do ustalenia stanu faktycznego w prowadzonym postępowaniu kontrolnym dotyczącym tej jednostki określonym w ustawie z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2022 r. poz. 623);
@@ -8431,15 +8580,14 @@ Art. 300–319. (pominięte)
 - **8b)** Centralnego Biura Antykorupcyjnego, jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawcy i uzyskania dowodów, lub weryfikacji prawdziwości oświadczenia albo deklaracji dotyczących konfliktu interesów, podlegających weryfikacji Centralnego Biura Antykorupcyjnego na podstawie przepisów odrębnych, na zasadach i w trybie określonych w art. 23 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2025 r. poz. 712 i 718);
 - **9)** Policji, jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636, 718 i 1366);
 - **9a)** Straży Granicznej, jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, na zasadach i w trybie określonych w art. 10c ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2025 r. poz. 914 i 1366);
-- **9b)** Żandarmerii Wojskowej, jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 40b ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2025 r. poz. 12 i
-- **179)** ;
+- **9b)** Żandarmerii Wojskowej, jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 40b ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2025 r. poz. 12 i 179);
 - **10)** komornika sądowego w związku z toczącym się postępowaniem egzekucyjnym lub zabezpieczającym albo wykonywaniem postanowienia o zabezpieczeniu spadku lub ze sporządzaniem spisu inwentarza, jeżeli są niezbędne w tym postępowaniu;
 - **10a)** administracyjnego organu egzekucyjnego oraz centralnego biura łącznikowego, o którym mowa w art. 9 ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. z 2023 r. poz. 2009), w zakresie wykonywania ich ustawowych zadań;
 - **11)** jedynego uczestnika funduszu, jeżeli statut funduszu tak stanowi, przy czym w przypadku, gdy uczestnikiem funduszu są podmioty należące do tej samej grupy kapitałowej, dla celów niniejszego przepisu grupa ta jest traktowana jako jedyny uczestnik;
 - **12)** Prezesa Urzędu Ochrony Konkurencji i Konsumentów w związku z toczącym się postępowaniem przed Prezesem Urzędu Ochrony Konkurencji i Konsumentów prowadzonym na podstawie przepisów ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2024 r. poz. 1616 oraz z 2025 r. poz. 794), jeżeli są niezbędne w toczącym się postępowaniu;
 - **13)** jedynego inwestora alternatywnej spółki inwestycyjnej, jeżeli regulacje wewnętrzne ASI tak stanowią, przy czym w przypadku, gdy wyłącznymi inwestorami alternatywnej spółki inwestycyjnej są podmioty należące do tej samej grupy kapitałowej, dla celów niniejszego przepisu grupa ta jest traktowana jako jedyny inwestor;
 - **14)** Polskiego Funduszu Rozwoju Spółki Akcyjnej, o którym mowa w art. 1 pkt 2 ustawy z dnia 4 lipca 2019 r. o systemie instytucji rozwoju (Dz. U. z 2024 r. poz. 923 oraz z 2025 r. poz. 352, 769 i 1216), lub Prezesa Głównego Urzędu Statystycznego, jeżeli są niezbędne do monitorowania i kontrolowania prawidłowości wydawania przez fundusz kapitałowy będący funduszem inwestycyjnym, alternatywną spółką inwestycyjną, zarządzającym ASI lub zarządzającym z państwa trzeciego środków pochodzących z finansowania udzielonego przez Polski Fundusz Rozwoju Spółkę Akcyjną lub Krajowy Fundusz Kapitałowy Spółkę Akcyjną;
-- **15)** Inspektora Nadzoru Wewnętrznego – jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, na zasadach i w trybie określonych w art. 11p ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. z 2025 r. poz. 529);
+- **15)** Inspektora Nadzoru Wewnętrznego jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, na zasadach i w trybie określonych w art. 11p ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. z 2025 r. poz. 529);
 - **15a)** (uchylony)
 - **16)** Prezesa Urzędu Ochrony Danych Osobowych w związku z toczącym się postępowaniem przed tym organem, jeżeli jest to niezbędne w toczącym się postępowaniu;
 - **17)** Rzecznika Finansowego, w zakresie niezbędnym do realizacji przez niego ustawowych zadań.
@@ -8452,12 +8600,12 @@ Art. 300–319. (pominięte)
 
 5. Zachowuje się w tajemnicy informację o przekazaniu danych:
 
-- **1)** Agencji Bezpieczeństwa Wewnętrznego – na zasadach i w trybie określonych w art. 34a ust. 3–9 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu;
-- **2)** Centralnemu Biuru Antykorupcyjnemu – na zasadach i w trybie określonych w art. 23 ust. 3–9 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym;
-- **3)** Policji – na zasadach i w trybie określonych w art. 20 ust. 4‒10 ustawy z dnia 6 kwietnia 1990 r. o Policji;
-- **4)** Straży Granicznej – na zasadach i w trybie określonych w art. 10c ust. 3–9 ustawy z dnia 12 października 1990 r. o Straży Granicznej;
-- **5)** Żandarmerii Wojskowej – na zasadach i w trybie określonych w art. 40b ust. 2– 6 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych;
-- **6)** Inspektorowi Nadzoru Wewnętrznego – na zasadach i w trybie określonych w art. 11p ust. 2–10 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych.
+- **1)** Agencji Bezpieczeństwa Wewnętrznego na zasadach i w trybie określonych w art. 34a ust. 3–9 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu;
+- **2)** Centralnemu Biuru Antykorupcyjnemu na zasadach i w trybie określonych w art. 23 ust. 3–9 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym;
+- **3)** Policji na zasadach i w trybie określonych w art. 20 ust. 4‒10 ustawy z dnia 6 kwietnia 1990 r. o Policji;
+- **4)** Straży Granicznej na zasadach i w trybie określonych w art. 10c ust. 3–9 ustawy z dnia 12 października 1990 r. o Straży Granicznej;
+- **5)** Żandarmerii Wojskowej na zasadach i w trybie określonych w art. 40b ust. 2–6 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych;
+- **6)** Inspektorowi Nadzoru Wewnętrznego na zasadach i w trybie określonych w art. 11p ust. 2–10 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych.
 
 6. Towarzystwo i fundusz inwestycyjny w przypadku wykonywania obowiązków w zakresie określonym w przepisach ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2025 r. poz. 644 i 1669) mogą przetwarzać i udostępniać informacje, w tym informacje stanowiące tajemnicę zawodową, instytucjom obowiązanym wchodzącym w skład grupy, o której mowa w art. 2 ust. 2 pkt 7 tej ustawy, do której należy towarzystwo.
 
@@ -8471,17 +8619,17 @@ Art. 300–319. (pominięte)
 
 - **1)** za zgodą osoby, której ta informacja dotyczy;
 - **2)** w zawiadomieniu o przestępstwie oraz dokumentach przekazywanych w uzupełnieniu do zawiadomienia;
-- **3)** Generalnemu Inspektorowi Informacji Finansowej, Szefowi Agencji Bezpieczeństwa Wewnętrznego, Szefowi Krajowego Centrum Informacji Kryminalnych, organom podatkowym lub organom Krajowej Administracji Skarbowej – w zakresie, trybie i na warunkach określonych w odrębnych ustawach;
-- **3a)** przez towarzystwo, zarządzającego ASI, spółkę zarządzającą lub zarządzającego z UE: z 2020 r. poz. 1413), zwanej dalej „ustawą o nadzorze uzupełniającym”,
-    - **a)** podmiotowi wiodącemu w rozumieniu art. 4 ust. 5 i 6 ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego (Dz. U.
+- **3)** Generalnemu Inspektorowi Informacji Finansowej, Szefowi Agencji Bezpieczeństwa Wewnętrznego, Szefowi Krajowego Centrum Informacji Kryminalnych, organom podatkowym lub organom Krajowej Administracji Skarbowej w zakresie, trybie i na warunkach określonych w odrębnych ustawach;
+- **3a)** przez towarzystwo, zarządzającego ASI, spółkę zarządzającą lub zarządzającego z UE:
+    - **a)** podmiotowi wiodącemu w rozumieniu art. 4 ust. 5 i 6 ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego (Dz. U. z 2020 r. poz. 1413), zwanej dalej „ustawą o nadzorze uzupełniającym”,
     - **b)** koordynatorowi w rozumieniu art. 3 pkt 19 ustawy o nadzorze uzupełniającym,
-    - **c)** koordynatorowi zagranicznemu w rozumieniu art. 3 pkt 20 ustawy o nadzorze uzupełniającym – w wykonaniu obowiązków określonych tą ustawą;
+    - **c)** koordynatorowi zagranicznemu w rozumieniu art. 3 pkt 20 ustawy o nadzorze uzupełniającym w wykonaniu obowiązków określonych tą ustawą;
 
-- **3b)** przez towarzystwo, zarządzającego ASI, spółkę zarządzającą lub zarządzającego z UE – podmiotowi, o którym mowa w art. 58 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, obowiązanemu do zgłoszenia informacji o beneficjentach rzeczywistych do Centralnego Rejestru Beneficjentów Rzeczywistych, o którym mowa w art. 55 tej ustawy, i ich aktualizacji – w zakresie niezbędnym do dokonania zgłoszenia informacji i ich aktualizacji;
-- **3c)** Komisji – w zakresie niezbędnym do wykonywania zadania określonego w art. 4 ust. 1 pkt 3b ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2025 r. poz. 640 i 1069);
+- **3b)** przez towarzystwo, zarządzającego ASI, spółkę zarządzającą lub zarządzającego z UE podmiotowi, o którym mowa w art. 58 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, obowiązanemu do zgłoszenia informacji o beneficjentach rzeczywistych do Centralnego Rejestru Beneficjentów Rzeczywistych, o którym mowa w art. 55 tej ustawy, i ich aktualizacji w zakresie niezbędnym do dokonania zgłoszenia informacji i ich aktualizacji;
+- **3c)** Komisji w zakresie niezbędnym do wykonywania zadania określonego w art. 4 ust. 1 pkt 3b ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2025 r. poz. 640 i 1069);
 - **4)** przez Komisję lub jej upoważnionego przedstawiciela:
-    - **a)** do publicznej wiadomości w zakresie dotyczącym, z zastrzeżeniem lit. b, treści podjętych uchwał i wydanych decyzji, także w sprawach indywidualnych – jeżeli ze względu na interes uczestników funduszy inwestycyjnych lub zbiorczych portfeli papierów wartościowych albo inwestorów alternatywnych spółek inwestycyjnych Komisja uznała przekazanie takiej informacji za uzasadnione,
-    - **b)** do publicznej wiadomości za pośrednictwem agencji informacyjnej, o której mowa w art. 58 ustawy o ofercie publicznej, o podejrzeniu popełnienia przestępstwa pozostającego w związku z działalnością funduszu inwestycyjnego lub alternatywnej spółki inwestycyjnej – w przypadku gdy wymaga tego ochrona inwestorów przed poniesieniem uszczerbku majątkowego na rynku instrumentów finansowych lub towarów giełdowych;
+    - **a)** do publicznej wiadomości w zakresie dotyczącym, z zastrzeżeniem lit. b, treści podjętych uchwał i wydanych decyzji, także w sprawach indywidualnych jeżeli ze względu na interes uczestników funduszy inwestycyjnych lub zbiorczych portfeli papierów wartościowych albo inwestorów alternatywnych spółek inwestycyjnych Komisja uznała przekazanie takiej informacji za uzasadnione,
+    - **b)** do publicznej wiadomości za pośrednictwem agencji informacyjnej, o której mowa w art. 58 ustawy o ofercie publicznej, o podejrzeniu popełnienia przestępstwa pozostającego w związku z działalnością funduszu inwestycyjnego lub alternatywnej spółki inwestycyjnej w przypadku gdy wymaga tego ochrona inwestorów przed poniesieniem uszczerbku majątkowego na rynku instrumentów finansowych lub towarów giełdowych;
 
 - **5)** w wykonaniu obowiązków informacyjnych, publikacyjnych, sprawozdawczych lub w ramach zasad dobrowolnego przekazywania informacji związanych ze zrównoważonym rozwojem w sektorze usług finansowych określonych w niniejszej ustawie lub przepisach wykonawczych wydanych na jej podstawie, ustawie o rachunkowości lub przepisach wykonawczych wydanych na podstawie tej ustawy lub w bezpośrednio stosowanych właściwych przedmiotowo przepisach prawa wspólnotowego, w szczególności w zakresie przewidzianym przepisami rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2088 z dnia 27 listopada 2019 r. w sprawie ujawniania informacji związanych ze zrównoważonym rozwojem w sektorze usług finansowych (Dz. Urz. UE L 317 z 09.12.2019, str. 1, z późn. zm. ) oraz przepisami rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/852 z dnia 18 czerwca 2020 r. w sprawie ustanowienia ram ułatwiających zrównoważone inwestycje, zmieniającego rozporządzenie (UE) 2019/2088 (Dz. Urz. UE L 198 z 22.06.2020, str. 13, z późn. zm. );
 - **6)** przez podmioty, o których mowa w art. 72a ust. 7, niezbędnych do wytoczenia powództwa, o którym mowa w art. 72a ust. 1;
@@ -8558,14 +8706,14 @@ Art. 300–319. (pominięte)
 
 8. Komisja może zwrócić się z wnioskiem do właściwych organów państwa członkowskiego o podjęcie współpracy w zakresie działalności nadzorczej.
 
-9. Komisja może wystąpić z wnioskiem o dopuszczenie pracowników urzędu Komisji do udziału w postępowaniu wszczętym przez właściwe organy państwa członkowskiego wskutek wniosku Komisji, o którym mowa w ust. 8, a jeżeli czynności na terytorium tego państwa są wykonywane w toku kontroli lub w postępowaniu wyjaśniającym prowadzonych przez Komisję – umożliwić udział w czynnościach pracowników tych organów.
+9. Komisja może wystąpić z wnioskiem o dopuszczenie pracowników urzędu Komisji do udziału w postępowaniu wszczętym przez właściwe organy państwa członkowskiego wskutek wniosku Komisji, o którym mowa w ust. 8, a jeżeli czynności na terytorium tego państwa są wykonywane w toku kontroli lub w postępowaniu wyjaśniającym prowadzonych przez Komisję umożliwić udział w czynnościach pracowników tych organów.
 
 10. Komisja może powiadomić Europejski Urząd Nadzoru Giełd i Papierów Wartościowych o sytuacjach, w których wniosek, o którym mowa w ust. 4, 8 i 9, nie został rozpatrzony niezwłocznie lub został odrzucony.
 
 11. W przypadku otrzymania od właściwych organów państwa członkowskiego, w ramach ich uprawnień, wniosku o podjęcie współpracy w zakresie działalności nadzorczej, Komisja może:
 
-- **1)** przeprowadzić kontrolę lub postępowanie wyjaśniające – w takim przypadku Komisja może umożliwić udział pracowników właściwych organów państwa członkowskiego w czynnościach podejmowanych w takich postępowaniach;
-- **2)** umożliwić właściwym organom państwa członkowskiego, które złożyły wniosek, lub wskazanym przez nie podmiotom przeprowadzenie działań kontrolnych lub wyjaśniających – w takim przypadku pracownicy urzędu Komisji mają prawo uczestniczyć w tych działaniach.
+- **1)** przeprowadzić kontrolę lub postępowanie wyjaśniające w takim przypadku Komisja może umożliwić udział pracowników właściwych organów państwa członkowskiego w czynnościach podejmowanych w takich postępowaniach;
+- **2)** umożliwić właściwym organom państwa członkowskiego, które złożyły wniosek, lub wskazanym przez nie podmiotom przeprowadzenie działań kontrolnych lub wyjaśniających w takim przypadku pracownicy urzędu Komisji mają prawo uczestniczyć w tych działaniach.
 
 12. Komisja może odmówić udzielenia informacji lub wyjaśnień na zapytanie, o którym mowa w ust. 5, lub podjęcia działań na podstawie wniosku, o którym mowa w ust. 11, wyłącznie jeżeli:
 
@@ -8576,8 +8724,8 @@ Art. 300–319. (pominięte)
 
 14. Do prowadzonych przez Komisję:
 
-- **1)** kontroli – stosuje się odpowiednio przepisy ustawy o nadzorze nad rynkiem kapitałowym;
-- **2)** postępowania wyjaśniającego – stosuje się odpowiednio przepisy ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym.
+- **1)** kontroli stosuje się odpowiednio przepisy ustawy o nadzorze nad rynkiem kapitałowym;
+- **2)** postępowania wyjaśniającego stosuje się odpowiednio przepisy ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym.
 
 **Art. 286a.** Komisja udostępnia na stronie internetowej treść przepisów określających zasady tworzenia i funkcjonowania funduszy inwestycyjnych otwartych w języku polskim oraz w języku angielskim.
 
@@ -8601,14 +8749,14 @@ Art. 300–319. (pominięte)
 
 9. Komisja może zwrócić się z wnioskiem do właściwych organów nadzoru państwa członkowskiego o podjęcie współpracy w zakresie działalności nadzorczej nad podmiotami wykonującymi działalność zarządzania alternatywnymi funduszami inwestycyjnymi.
 
-10. Komisja może wystąpić z wnioskiem o dopuszczenie pracowników urzędu Komisji do udziału w postępowaniu wszczętym przez właściwe organy nadzoru państwa członkowskiego wskutek wniosku Komisji, o którym mowa w ust. 9, a jeżeli czynności na terytorium tego państwa są wykonywane w toku kontroli lub w postępowaniu wyjaśniającym prowadzonych przez Komisję – umożliwić udział w czynnościach pracowników tych organów.
+10. Komisja może wystąpić z wnioskiem o dopuszczenie pracowników urzędu Komisji do udziału w postępowaniu wszczętym przez właściwe organy nadzoru państwa członkowskiego wskutek wniosku Komisji, o którym mowa w ust. 9, a jeżeli czynności na terytorium tego państwa są wykonywane w toku kontroli lub w postępowaniu wyjaśniającym prowadzonych przez Komisję umożliwić udział w czynnościach pracowników tych organów.
 
 11. Komisja może powiadomić Europejski Urząd Nadzoru Giełd i Papierów Wartościowych o sytuacjach, w których wniosek, o którym mowa w ust. 5, 9 i 10, nie został rozpatrzony niezwłocznie lub został odrzucony.
 
 12. W przypadku otrzymania od właściwych organów nadzoru państwa członkowskiego, w ramach ich uprawnień, wniosku o podjęcie współpracy w zakresie działalności nadzorczej nad podmiotami wykonującymi działalność zarządzania alternatywnymi funduszami inwestycyjnymi, Komisja może:
 
-- **1)** przeprowadzić kontrolę lub postępowanie wyjaśniające – w takim przypadku Komisja może umożliwić udział pracowników właściwych organów nadzoru państwa członkowskiego w czynnościach podejmowanych w takich postępowaniach;
-- **2)** umożliwić właściwym organom nadzoru państwa członkowskiego, które złożyły wniosek, lub wskazanym przez nie podmiotom przeprowadzenie działań kontrolnych lub wyjaśniających – w takim przypadku pracownicy urzędu Komisji mają prawo uczestniczyć w tych działaniach.
+- **1)** przeprowadzić kontrolę lub postępowanie wyjaśniające w takim przypadku Komisja może umożliwić udział pracowników właściwych organów nadzoru państwa członkowskiego w czynnościach podejmowanych w takich postępowaniach;
+- **2)** umożliwić właściwym organom nadzoru państwa członkowskiego, które złożyły wniosek, lub wskazanym przez nie podmiotom przeprowadzenie działań kontrolnych lub wyjaśniających w takim przypadku pracownicy urzędu Komisji mają prawo uczestniczyć w tych działaniach.
 
 13. Komisja może odmówić udzielenia informacji lub wyjaśnień na zapytanie, o którym mowa w ust. 6, lub podjęcia działań na podstawie wniosku, o którym mowa w ust. 12, wyłącznie jeżeli:
 
@@ -8619,7 +8767,7 @@ Art. 300–319. (pominięte)
 
 15. Do kontroli i postępowania wyjaśniającego prowadzonych przez Komisję stosuje się odpowiednio przepisy ustawy o nadzorze nad rynkiem kapitałowym.
 
-16. Komisja może przekazać organowi nadzoru państwa trzeciego informacje dotyczące sprawy indywidualnej prowadzonej przez Komisję, jeżeli spełnione są warunki, o których mowa w rozporządzeniu 2016/679 – w przypadku danych osobowych, oraz jeżeli ich przekazanie jest niezbędne dla realizacji zadań określonych ustawą. Komisja może również, jeżeli są spełnione warunki, o których mowa w rozporządzeniu 2016/679, wyrazić zgodę na dalsze przekazanie tych informacji organowi nadzoru innego państwa trzeciego.
+16. Komisja może przekazać organowi nadzoru państwa trzeciego informacje dotyczące sprawy indywidualnej prowadzonej przez Komisję, jeżeli spełnione są warunki, o których mowa w rozporządzeniu 2016/679 w przypadku danych osobowych, oraz jeżeli ich przekazanie jest niezbędne dla realizacji zadań określonych ustawą. Komisja może również, jeżeli są spełnione warunki, o których mowa w rozporządzeniu 2016/679, wyrazić zgodę na dalsze przekazanie tych informacji organowi nadzoru innego państwa trzeciego.
 
 ### DZIAŁ XIV Przepisy karne
 
@@ -8711,9 +8859,15 @@ Art. 300–319. (pominięte)
 
 **Art. 323.** W terminie 2 miesięcy od dnia wejścia w życie ustawy towarzystwo jest obowiązane dostarczyć Komisji:
 
+- **1)** listę podmiotów pośredniczących w zbywaniu i odkupywaniu jednostek uczestnictwa zarządzanych przez towarzystwo funduszy inwestycyjnych ze wskazaniem firmy (nazwy), adresu i siedziby tych podmiotów oraz nazwy funduszu inwestycyjnego, którego pośrednictwo dotyczy;
+- **2)** strukturę grupy kapitałowej towarzystwa ze wskazaniem firmy (nazwy), adresu i siedziby podmiotów wchodzących w skład grupy, procentowego udziału tych podmiotów w kapitale innych podmiotów należących do grupy oraz procentu ogólnej liczby posiadanych głosów na walnym zgromadzeniu akcjonariuszy lub zgromadzeniu wspólników tych podmiotów.
+
 **Art. 324.** W przypadku gdy towarzystwo zleciło zarządzanie portfelem inwestycyjnym funduszu lub jego częścią depozytariuszowi funduszu, fundusz inwestycyjny dokonuje zmiany depozytariusza w terminie 6 miesięcy od dnia wejścia w życie ustawy, chyba że towarzystwo w terminie miesiąca od dnia wejścia w życie ustawy zleci zarządzanie innemu podmiotowi.
 
 **Art. 325.** W terminie 2 miesięcy od dnia wejścia w życie ustawy podmiot posiadający zezwolenie, o którym mowa w art. 32 ust. 2, jest obowiązany dostarczyć Komisji:
+
+- **1)** dokumenty, o których mowa w art. 32 ust. 4 pkt 5, 6 i 11 w przypadku gdy jest bankiem krajowym lub instytucją kredytową;
+- **2)** dokumenty, o których mowa w art. 32 ust. 4 pkt 5, 6, 11, 13 i 14 w przypadku gdy nie jest bankiem krajowym lub instytucją kredytową.
 
 **Art. 326.** (uchylony)
 

@@ -8,12 +8,10 @@ pos: 2127
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej
-
-*USTAWA z dnia 7 października 2022 r.*
+# Ustawa z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku w związku z sytuacją na rynku energii elektrycznej
 
 | Pole | Wartość |
 |---|---|
@@ -24,143 +22,125 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2022-10-07 |
 | Data wydania | 2022-10-17 |
+| Wejście w życie | 2022-10-18 |
 | Ostatnia zmiana | 2025-12-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002127) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2127/text.pdf) |
 
-Art. 39‒51. (pominięte)
+1.
+Przepisy art. 193 ust. 1c-1e ustawy zmienianej w art. 43 stosuje się również do pozwolenia na wytwarzanie odpadów, które wygasa po dniu wejścia w życie niniejszej ustawy ze względu na upływ czasu, na jaki zostało wydane, w przypadku gdy posiadacz odpadów złożył wniosek o wydanie nowego pozwolenia na wytwarzanie odpadów przed dniem wejścia w życie niniejszej ustawy, przy czym wymogu zachowania terminu na złożenie wniosku o wydanie nowego pozwolenia, o którym mowa w art. 193 ust. 1c ustawy zmienianej w art. 43, nie stosuje się.
+2.
+Wymogu zachowania terminu na złożenie wniosku o wydanie nowego pozwolenia na wytwarzanie odpadów, o którym mowa w art. 193 ust. 1c ustawy zmienianej w art. 43, nie stosuje się także w przypadku wniosków złożonych po dniu wejścia w życie niniejszej ustawy, jeżeli dotychczasowe pozwolenie na wytwarzanie odpadów wygasa przed upływem 3 miesięcy od dnia wejścia w życie niniejszej ustawy, a posiadacz odpadów złożył wniosek w terminie obowiązywania dotychczasowego pozwolenia.
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa reguluje:
 
+- **1)** szczególne zasady rozliczania z niektórymi odbiorcami końcowymi energii elektrycznej;
+- **2)** zasady i tryb ustalania wysokości cen energii elektrycznej dla odbiorców uprawnionych do ich stosowania oraz właściwość organów w tych sprawach;
+- **3)** zasady i tryb przyznawania i wypłacania rekompensat dla podmiotów uprawnionych, w tym z tytułu stosowania upustu za obniżenie zużycia energii elektrycznej przez odbiorców uprawnionych do jego otrzymania, oraz właściwość organów w tych sprawach;
+- **4)** zasady i tryb przyznawania i wypłacania dodatku w przypadku, gdy główne źródło ogrzewania jest zasilane energią elektryczną, zwanego dalej „dodatkiem elektrycznym”, oraz właściwość organów w tych sprawach;
+- **5)** zasady realizacji celu w zakresie zmniejszenia zużycia energii elektrycznej.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** odbiorca uprawniony – odbiorca końcowy w rozumieniu art. 3 pkt 13a ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2022 r. poz. 1385 i 1723), zwanej dalej „ustawą – Prawo energetyczne”, dokonujący zakupu energii elektrycznej w celu jej zużycia na potrzeby: gospodarstw domowych, pomieszczeń gospodarczych związanych z prowadzeniem gospodarstw domowych, o ile nie jest w nich wykonywana działalność gospodarcza, lokali o charakterze zbiorowego mieszkania, o ile nie jest w nich wykonywana działalność gospodarcza, mieszkań rotacyjnych, mieszkań pracowników placówek dyplomatycznych i pracowników zagranicznych przedstawicielstw, domów letniskowych, domów kempingowych i altan w ogródkach działkowych, w których nie jest wykonywana działalność gospodarcza oraz w przypadkach wspólnego pomiaru – administracji ogródków działkowych, oświetlenia w budynkach mieszkalnych, zasilania dźwigów w budynkach mieszkalnych, węzłów cieplnych i hydroforni, będących w zarządzie administracji domów mieszkalnych, garaży, w których nie jest wykonywana działalność gospodarcza;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+
+- **2)** podmiot uprawniony – przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną lub przedsiębiorstwo energetyczne zajmujące się dystrybucją energii elektrycznej;
+- **3)** przedsiębiorstwo zintegrowane pionowo – przedsiębiorstwo zintegrowane pionowo, o którym mowa w art. 9d ust. 7 ustawy – Prawo energetyczne;
+- **4)** punkt poboru energii – punkt pomiarowy, o którym mowa w art. 3 pkt 67 ustawy – Prawo energetyczne;
+- **5)** sprzedawca z urzędu – przedsiębiorstwo energetyczne w rozumieniu art. 3 pkt 29 ustawy – Prawo energetyczne;
+- **6)** umowa z gwarancją stałej ceny – umowa zawarta przez przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną z odbiorcą uprawnionym, w której przedsiębiorstwo to zobowiązuje się do utrzymania niezmiennej ceny energii elektrycznej przez określony w umowie okres.
 
 #### Rozdział 2 Ceny energii elektrycznej i stawki opłat dystrybucyjnych dla odbiorców uprawnionych
 
 **Art. 3.**
 
-1. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną na potrzeby odbiorców uprawnionych, posiadające zatwierdzoną i obowiązującą taryfę dla energii elektrycznej, w taryfie na 2023 r. i na 2024 r. uwzględnia również ceny energii elektrycznej dla odbiorcy uprawnionego za zużycie wynoszące maksymalnie 3 MWh albo:
+1. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną na potrzeby odbiorców uprawnionych, posiadające zatwierdzoną i obowiązującą taryfę dla energii elektrycznej, w taryfie na 2023 r. uwzględnia również ceny energii elektrycznej dla odbiorcy uprawnionego za zużycie wynoszące maksymalnie 2 MWh albo:
 
-- **1)** 4 MWh – w przypadku odbiorcy uprawnionego prowadzącego, w dniu wejścia w życie ustawy, gospodarstwo rolne, o którym mowa w art. 2 ust. 1 ustawy z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2024 r. poz. 1176), lub prowadzącego dział specjalny produkcji rolnej w rozumieniu art. 2 ust. 3 i 3a ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2024 r. poz. 226, 232, 854, 858, 859 i 863), zwany dalej „działem specjalnym produkcji rolnej”, nieprowadzącego innego rodzaju działalności gospodarczej, którego punkty poboru energii oprócz budynku mieszkalnego służą również rozliczeniom zużytej energii elektrycznej na potrzeby urządzeń i instalacji położonych na gruntach gospodarstwa rolnego lub gruntach, na których prowadzi się dział specjalny produkcji rolnej oraz służą wyłącznie działalności rolniczej lub prowadzeniu działów specjalnych produkcji rolnej,
-- **2)** 4 MWh – w przypadku odbiorcy uprawnionego posiadającego, w dniu wejścia w życie ustawy, Kartę Dużej Rodziny jako rodzic rodziny wielodzietnej, o której mowa w art. 2 ustawy z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny (Dz. U. z 2023 r. poz. 2424 oraz z 2024 r. poz. 858),
-- **3)** 3,6 MWh – w przypadku odbiorcy uprawnionego posiadającego, w dniu wejścia w życie ustawy, orzeczenie o znacznym lub umiarkowanym stopniu niepełnosprawności, albo posiadających orzeczenie, o którym mowa w art. 5 pkt 1, 1a lub 2 albo art. 62 ust. 2 pkt 1 lub 2 albo ust. 3 pkt 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2024 r. poz. 44, 858, 1089 i
-- **1165)** lub zamieszkującego wspólnie z osobą posiadającą, w dniu wejścia w życie ustawy, orzeczenie o znacznym lub umiarkowanym stopniu niepełnosprawności albo orzeczenie o niepełnosprawności wydane osobie poniżej 16 roku życia albo posiadającego orzeczenie, o którym mowa w art. 5 pkt 1, 1a lub 2 albo art. 62 ust. 2 pkt 1 lub 2 albo ust. 3 pkt 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych,
-- **4)** iloczynu 250 kWh i liczby działek w rodzinnym ogrodzie działkowym – w przypadku zakupu energii elektrycznej w celu jej zużycia na potrzeby altan działkowych w rodzinnym ogrodzie działkowym, w których nie jest wykonywana działalność gospodarcza oraz administracji rodzinnego ogrodu działkowego – w przypadkach wspólnego pomiaru – w punkcie poboru energii w 2023 r. oraz w okresie od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r., równe cenom zawartym w taryfie obowiązującej na dzień 1 stycznia 2022 r., dla poszczególnych grup taryfowych.
+- **1)** 3 MWh – w przypadku odbiorcy uprawnionego prowadzącego, w dniu wejścia w życie ustawy, gospodarstwo rolne, o którym mowa w art. 2 ust. 1 ustawy z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2020 r. poz. 333), lub prowadzącego dział specjalny produkcji rolnej w rozumieniu art. 2 ust. 3 i 3a ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.), zwany dalej „działem specjalnym produkcji rolnej”, nieprowadzącego innego rodzaju działalności gospodarczej, którego punkty poboru energii oprócz budynku mieszkalnego służą również rozliczeniom zużytej energii elektrycznej na potrzeby urządzeń i instalacji położonych na gruntach gospodarstwa rolnego lub gruntach, na których prowadzi się dział specjalny produkcji rolnej oraz służą wyłącznie działalności rolniczej lub prowadzeniu działów specjalnych produkcji rolnej,
+- **2)** 3 MWh – w przypadku odbiorcy uprawnionego posiadającego, w dniu wejścia w życie ustawy, Kartę Dużej Rodziny jako rodzic rodziny wielodzietnej, o której mowa w art. 2 ustawy z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny (Dz. U. z 2021 r. poz. 1744),
+- **3)** 2,6 MWh – w przypadku odbiorcy uprawnionego posiadającego, w dniu wejścia w życie ustawy, orzeczenie o znacznym lub umiarkowanym stopniu niepełnosprawności, albo posiadających orzeczenie, o którym mowa w art. 5 pkt 1, 1a lub 2 albo art. 62 ust. 2 pkt 1 lub 2 albo ust. 3 pkt 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2021 r. poz. 573 i 1981 oraz z 2022 r. poz. 558, 1700 i 1812) lub zamieszkującego wspólnie z osobą posiadającą, w dniu wejścia w życie ustawy, orzeczenie o znacznym lub umiarkowanym stopniu niepełnosprawności albo orzeczenie o niepełnosprawności wydane osobie poniżej 16 roku życia albo posiadającego orzeczenie, o którym mowa w art. 5 pkt 1, 1a lub 2 albo art. 62 ust. 2 pkt 1 lub 2 albo ust. 3 pkt 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych w punkcie poboru energii w 2023 r., równe cenom zawartym w taryfie obowiązującej na dzień 1 stycznia 2022 r., dla poszczególnych grup taryfowych.
 
-2. Przedsiębiorstwo energetyczne, o którym mowa w ust. 1, w rozliczeniach z odbiorcami uprawnionymi w 2023 r. oraz w okresie od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r. stosuje ceny energii elektrycznej, o których mowa w ust. 1.
-
-3. Limity zużycia energii elektrycznej stosowane w okresie od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r. wynoszą 50 % limitów określonych w ust. 1.
-
-4. Przedsiębiorstwo energetyczne, o którym mowa w ust. 1, posiadające zatwierdzoną taryfę na 2023 r., do dnia wprowadzenia do stosowania taryfy na 2024 r., stosuje w rozliczeniach z odbiorcami uprawnionymi w okresie od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r. ceny, o których mowa w ust. 1.
+2. Przedsiębiorstwo energetyczne, o którym mowa w ust. 1, w rozliczeniach z odbiorcami uprawnionymi w 2023 r. stosuje ceny energii elektrycznej, o których mowa w ust. 1.
 
 **Art. 4.**
 
-1. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną na potrzeby odbiorców uprawnionych, wchodzące w skład przedsiębiorstwa zintegrowanego pionowo, którego taryfa zatwierdzona przed dniem wejścia w życie ustawy przestaje obowiązywać po dniu 31 grudnia 2022 r., od dnia 1 stycznia 2023 r. do dnia zatwierdzenia kolejnej taryfy albo zatwierdzenia zmiany dotychczasowej taryfy, stosuje w rozliczeniach z tymi odbiorcami w 2023 r. oraz w okresie od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r. ceny energii zawarte w dotychczasowej taryfie.
+1. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną na potrzeby odbiorców uprawnionych, wchodzące w skład przedsiębiorstwa zintegrowanego pionowo, którego taryfa zatwierdzona przed dniem wejścia w życie ustawy przestaje obowiązywać po dniu 31 grudnia 2022 r., od dnia 1 stycznia 2023 r. do dnia zatwierdzenia kolejnej taryfy albo zatwierdzenia zmiany dotychczasowej taryfy, stosuje w rozliczeniach z tymi odbiorcami w 2023 r. ceny energii zawarte w dotychczasowej taryfie.
 
-2. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną na potrzeby odbiorców uprawnionych, wchodzące w skład przedsiębiorstwa zintegrowanego pionowo, które składa wniosek o zatwierdzenie taryfy albo jej zmianę obejmującą 2023 r. lub okres od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r., uwzględnia w niej również ceny energii elektrycznej dla odbiorcy uprawnionego za zużycie wynoszące maksymalnie 3 MWh albo:
+2. Przedsiębiorstwo energetyczne, o którym mowa w ust. 1, składa wniosek o zatwierdzenie taryfy albo jej zmianę obejmującą 2023 r. i uwzględnia w niej również ceny energii elektrycznej dla odbiorcy uprawnionego za zużycie wynoszące maksymalnie 2 MWh albo:
 
-- **1)** 4 MWh – w przypadku odbiorcy uprawnionego prowadzącego, w dniu wejścia w życie ustawy, gospodarstwo rolne, o którym mowa w art. 2 ust. 1 ustawy z dnia 15 listopada 1984 r. o podatku rolnym, lub prowadzącego dział specjalny produkcji rolnej, nieprowadzącego innego rodzaju działalności gospodarczej, którego punkty poboru energii oprócz budynku mieszkalnego służą również rozliczeniom zużytej energii elektrycznej na potrzeby urządzeń i instalacji położonych na gruntach gospodarstwa rolnego lub gruntach, na których prowadzi się dział specjalny produkcji rolnej oraz służą wyłącznie działalności rolniczej lub prowadzeniu działów specjalnych produkcji rolnej,
-- **2)** 4 MWh – w przypadku odbiorcy uprawnionego posiadającego, w dniu wejścia w życie ustawy, Kartę Dużej Rodziny jako rodzic rodziny wielodzietnej, o której mowa w art. 2 ustawy z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny,
-- **3)** 3,6 MWh – w przypadku odbiorcy uprawnionego posiadającego, w dniu wejścia w życie ustawy, orzeczenie o znacznym lub umiarkowanym stopniu niepełnosprawności, albo posiadających orzeczenie, o którym mowa w art. 5 pkt 1, 1a lub 2 albo art. 62 ust. 2 pkt 1 lub 2 albo ust. 3 pkt 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych lub zamieszkującego wspólnie z osobą posiadającą, w dniu wejścia w życie ustawy, orzeczenie o znacznym lub umiarkowanym stopniu niepełnosprawności albo orzeczenie o niepełnosprawności wydane osobie poniżej 16 roku życia albo posiadającego orzeczenie, o którym mowa w art. 5 pkt 1, 1a lub 2 albo art. 62 ust. 2 pkt 1 lub 2 albo ust. 3 pkt 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych,
-- **4)** iloczynu 250 kWh i liczby działek w rodzinnym ogrodzie działkowym – w przypadku zakupu energii elektrycznej w celu jej zużycia na potrzeby altan działkowych w rodzinnym ogrodzie działkowym, w których nie jest wykonywana działalność gospodarcza oraz administracji rodzinnego ogrodu działkowego – w przypadkach wspólnego pomiaru – w punkcie poboru energii w 2023 r. oraz w okresie od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r., równe cenom zawartym w taryfie obowiązującej na dzień wejścia w życie ustawy, dla poszczególnych grup taryfowych.
+- **1)** 3 MWh – w przypadku odbiorcy uprawnionego prowadzącego, w dniu wejścia w życie ustawy, gospodarstwo rolne, o którym mowa w art. 2 ust. 1 ustawy z dnia 15 listopada 1984 r. o podatku rolnym, lub prowadzącego dział specjalny produkcji rolnej, nieprowadzącego innego rodzaju działalności gospodarczej, którego punkty poboru energii oprócz budynku mieszkalnego służą również rozliczeniom zużytej energii elektrycznej na potrzeby urządzeń i instalacji położonych na gruntach gospodarstwa rolnego lub gruntach, na których prowadzi się dział specjalny produkcji rolnej oraz służą wyłącznie działalności rolniczej lub prowadzeniu działów specjalnych produkcji rolnej,
+- **2)** 3 MWh – w przypadku odbiorcy uprawnionego posiadającego, w dniu wejścia w życie ustawy, Kartę Dużej Rodziny jako rodzic rodziny wielodzietnej, o której mowa w art. 2 ustawy z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny,
+- **3)** 2,6 MWh – w przypadku odbiorcy uprawnionego posiadającego, w dniu wejścia w życie ustawy, orzeczenie o znacznym lub umiarkowanym stopniu niepełnosprawności, albo posiadających orzeczenie, o którym mowa w art. 5 pkt 1, 1a lub 2 albo art. 62 ust. 2 pkt 1 lub 2 albo ust. 3 pkt 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych lub zamieszkującego wspólnie z osobą posiadającą, w dniu wejścia w życie ustawy, orzeczenie o znacznym lub umiarkowanym stopniu niepełnosprawności albo orzeczenie o niepełnosprawności wydane osobie poniżej 16 roku życia albo posiadającego orzeczenie, o którym mowa w art. 5 pkt 1, 1a lub 2 albo art. 62 ust. 2 pkt 1 lub 2 albo ust. 3 pkt 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych w punkcie poboru energii w 2023 r., równe cenom zawartym w taryfie obowiązującej na dzień wejścia w życie ustawy, dla poszczególnych grup taryfowych.
 
-3. Przedsiębiorstwo energetyczne, o którym mowa w ust. 1 lub 2, w rozliczeniach z odbiorcami uprawnionymi w 2023 r. oraz w okresie od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r. stosuje ceny energii elektrycznej, o których mowa w ust. 2.
-
-4. Limity zużycia energii elektrycznej stosowane w okresie od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r. wynoszą 50 % limitów określonych w ust. 2.
-
-5. Przedsiębiorstwo energetyczne, o którym mowa w ust. 1 lub 2, do dnia wprowadzenia do stosowania taryfy na 2024 r. oraz w okresie jej stosowania, stosuje w rozliczeniach z odbiorcami uprawnionymi w okresie od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r. ceny, o których mowa w ust. 2.
+3. Przedsiębiorstwo energetyczne, o którym mowa w ust. 1, w rozliczeniach z odbiorcami uprawnionymi w 2023 r. stosuje ceny energii elektrycznej, o których mowa w ust. 2.
 
 **Art. 5.**
 
-1. Przedsiębiorstwo energetyczne wykonujące zadania sprzedawcy z urzędu, wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną na potrzeby odbiorców uprawnionych, zwolnione z obowiązku przedkładania taryf do zatwierdzenia zgodnie z art. 49 ust. 1 ustawy – Prawo energetyczne przed dniem wejścia w życie ustawy, przedkłada Prezesowi Urzędu Regulacji Energetyki, zwanemu dalej „Prezesem URE”, do zatwierdzenia taryfę dla energii elektrycznej dla tych odbiorców na okres od dnia 1 stycznia 2023 r. do dnia 31 grudnia 2023 r. oraz na okres od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2024 r., i uwzględnia w niej również ceny energii elektrycznej dla odbiorcy uprawnionego za zużycie wynoszące maksymalnie 3 MWh albo:
+1. Przedsiębiorstwo energetyczne wykonujące zadania sprzedawcy z urzędu, wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną na potrzeby odbiorców uprawnionych, zwolnione z obowiązku przedkładania taryf do zatwierdzenia zgodnie z art. 49 ust. 1 ustawy – Prawo energetyczne przed dniem wejścia w życie ustawy, przedkłada Prezesowi Urzędu Regulacji Energetyki, zwanemu dalej „Prezesem URE”, do zatwierdzenia taryfę dla energii elektrycznej dla tych odbiorców na okres od dnia 1 stycznia 2023 r. do dnia 31 grudnia 2023 r., i uwzględnia w niej również ceny energii elektrycznej dla odbiorcy uprawnionego za zużycie wynoszące maksymalnie 2 MWh albo:
 
-- **1)** 4 MWh – w przypadku odbiorcy uprawnionego prowadzącego, w dniu wejścia w życie ustawy, gospodarstwo rolne, o którym mowa w art. 2 ust. 1 ustawy z dnia 15 listopada 1984 r. o podatku rolnym, lub prowadzącego dział specjalny produkcji rolnej, nieprowadzącego innego rodzaju działalności gospodarczej, którego punkty poboru energii oprócz budynku mieszkalnego służą również rozliczeniom zużytej energii elektrycznej na potrzeby urządzeń i instalacji położonych na gruntach gospodarstwa rolnego lub gruntach, na których prowadzi się dział specjalny produkcji rolnej oraz służą wyłącznie działalności rolniczej lub prowadzeniu działów specjalnych produkcji rolnej,
-- **2)** 4 MWh – w przypadku odbiorcy uprawnionego posiadającego, w dniu wejścia w życie ustawy, Kartę Dużej Rodziny jako rodzic rodziny wielodzietnej, o której mowa w art. 2 ustawy z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny,
-- **3)** 3,6 MWh – w przypadku odbiorcy uprawnionego posiadającego, w dniu wejścia w życie ustawy, orzeczenie o znacznym lub umiarkowanym stopniu niepełnosprawności, albo posiadających orzeczenie, o którym mowa w art. 5 pkt 1, 1a lub 2 albo art. 62 ust. 2 pkt 1 lub 2 albo ust. 3 pkt 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych lub zamieszkującego wspólnie z osobą posiadającą, w dniu wejścia w życie ustawy, orzeczenie o znacznym lub umiarkowanym stopniu niepełnosprawności albo orzeczenie o niepełnosprawności wydane osobie poniżej 16 roku życia albo posiadającego orzeczenie, o którym mowa w art. 5 pkt 1, 1a lub 2 albo art. 62 ust. 2 pkt 1 lub 2 albo ust. 3 pkt 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych,
-- **4)** iloczynu 250 kWh i liczby działek w rodzinnym ogrodzie działkowym – w przypadku zakupu energii elektrycznej w celu jej zużycia na potrzeby altan działkowych w rodzinnym ogrodzie działkowym, w których nie jest wykonywana działalność gospodarcza oraz administracji rodzinnego ogrodu działkowego – w przypadkach wspólnego pomiaru – w punkcie poboru energii w 2023 r. oraz w okresie od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r., równe średnim cenom wynikającym z taryf zatwierdzonych na 2022 r. przez Prezesa URE dla sprzedawców z urzędu, dla poszczególnych grup taryfowych z uwzględnieniem stref czasowych.
+- **1)** 3 MWh – w przypadku odbiorcy uprawnionego prowadzącego, w dniu wejścia w życie ustawy, gospodarstwo rolne, o którym mowa w art. 2 ust. 1 ustawy z dnia 15 listopada 1984 r. o podatku rolnym, lub prowadzącego dział specjalny produkcji rolnej, nieprowadzącego innego rodzaju działalności gospodarczej, którego punkty poboru energii oprócz budynku mieszkalnego służą również rozliczeniom zużytej energii elektrycznej na potrzeby urządzeń i instalacji położonych na gruntach gospodarstwa rolnego lub gruntach, na których prowadzi się dział specjalny produkcji rolnej oraz służą wyłącznie działalności rolniczej lub prowadzeniu działów specjalnych produkcji rolnej,
+- **2)** 3 MWh – w przypadku odbiorcy uprawnionego posiadającego, w dniu wejścia w życie ustawy, Kartę Dużej Rodziny jako rodzic rodziny wielodzietnej, o której mowa w art. 2 ustawy z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny,
+- **3)** 2,6 MWh – w przypadku odbiorcy uprawnionego posiadającego, w dniu wejścia w życie ustawy, orzeczenie o znacznym lub umiarkowanym stopniu niepełnosprawności, albo posiadających orzeczenie, o którym mowa w art. 5 pkt 1, 1a lub 2 albo art. 62 ust. 2 pkt 1 lub 2 albo ust. 3 pkt 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych lub zamieszkującego wspólnie z osobą posiadającą, w dniu wejścia w życie ustawy, orzeczenie o znacznym lub umiarkowanym stopniu niepełnosprawności albo orzeczenie o niepełnosprawności wydane osobie poniżej 16 roku życia albo posiadającego orzeczenie, o którym mowa w art. 5 pkt 1, 1a lub 2 albo art. 62 ust. 2 pkt 1 lub 2 albo ust. 3 pkt 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych w punkcie poboru energii w 2023 r., równe średnim cenom wynikającym z taryf zatwierdzonych na 2022 r. przez Prezesa URE dla sprzedawców z urzędu, dla poszczególnych grup taryfowych z uwzględnieniem stref czasowych.
 
-2. Przedsiębiorstwo energetyczne, o którym mowa w ust. 1, przedkłada Prezesowi URE do zatwierdzenia taryfę na okres od dnia 1 stycznia 2023 r. do dnia 31 grudnia 2023 r., do dnia 14 listopada 2022 r.
-
-2a. Przedsiębiorstwo energetyczne, o którym mowa w ust. 1, przedkłada Prezesowi URE do zatwierdzenia taryfę na okres od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2024 r., do dnia 12 stycznia 2024 r.
+2. Przedsiębiorstwo energetyczne, o którym mowa w ust. 1, przedkłada Prezesowi URE taryfę, o której mowa w ust. 1, do dnia 14 listopada 2022 r.
 
 3. W przypadku nieprzedłożenia Prezesowi URE do zatwierdzenia taryfy przez przedsiębiorstwo energetyczne, o którym mowa w ust. 1, lub jej niezatwierdzenia w terminie do dnia 17 grudnia 2022 r., w rozliczeniach z odbiorcami uprawnionymi w 2023 r., przedsiębiorstwo to stosuje średnie ceny energii dla poszczególnych grup taryfowych z uwzględnieniem stref czasowych wynikające z taryf na 2022 r. dla sprzedawców z urzędu.
 
-4. Przedsiębiorstwo energetyczne, o którym mowa w ust. 1, do dnia wprowadzenia do stosowania taryfy na 2024 r., stosuje w rozliczeniach z odbiorcami uprawnionymi w okresie od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r. ceny, o których mowa w ust. 1.
-
-5. Limity zużycia energii elektrycznej stosowane w okresie od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r. wynoszą 50 % limitów określonych w ust. 1.
-
-6. (uchylony)
-
 **Art. 6.**
 
-1. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną na potrzeby odbiorców uprawnionych, zwolnione z obowiązku przedkładania taryf do zatwierdzenia przez Prezesa URE zgodnie z art. 49 ust. 1 ustawy – Prawo energetyczne, w rozliczeniach z odbiorcami uprawnionymi w 2023 r. oraz w okresie od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r. stosuje średnie ceny energii elektrycznej wynikające z taryf zatwierdzonych na 2022 r. przez Prezesa URE dla sprzedawców z urzędu, za zużycie energii elektrycznej przez odbiorcę uprawnionego wynoszące maksymalnie 3 MWh albo:
+1. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną na potrzeby odbiorców uprawnionych, zwolnione z obowiązku przedkładania taryf do zatwierdzenia przez Prezesa URE zgodnie z art. 49 ust. 1 ustawy – Prawo energetyczne, w rozliczeniach z odbiorcami uprawnionymi w 2023 r. stosuje średnie ceny energii elektrycznej wynikające z taryf zatwierdzonych na 2022 r. przez Prezesa URE dla sprzedawców z urzędu, za zużycie energii elektrycznej przez odbiorcę uprawnionego wynoszące maksymalnie 2 MWh albo:
 
-- **1)** 4 MWh – w przypadku odbiorcy uprawnionego prowadzącego, w dniu wejścia w życie ustawy, gospodarstwo rolne, o którym mowa w art. 2 ust. 1 ustawy z dnia 15 listopada 1984 r. o podatku rolnym, lub prowadzącego dział specjalny produkcji rolnej, nieprowadzącego innego rodzaju działalności gospodarczej, którego punkty poboru energii oprócz budynku mieszkalnego służą również rozliczeniom zużytej energii elektrycznej na potrzeby urządzeń i instalacji położonych na gruntach gospodarstwa rolnego lub gruntach, na których prowadzi się dział specjalny produkcji rolnej oraz służą wyłącznie działalności rolniczej lub prowadzeniu działów specjalnych produkcji rolnej,
-- **2)** 4 MWh – w przypadku odbiorcy uprawnionego posiadającego, w dniu wejścia w życie ustawy, Kartę Dużej Rodziny jako rodzic rodziny wielodzietnej, o której mowa w art. 2 ustawy z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny,
-- **3)** 3,6 MWh – w przypadku odbiorcy uprawnionego posiadającego, w dniu wejścia w życie ustawy, orzeczenie o znacznym lub umiarkowanym stopniu niepełnosprawności, albo posiadających orzeczenie, o którym mowa w art. 5 pkt 1, 1a lub 2 albo art. 62 ust. 2 pkt 1 lub 2 albo ust. 3 pkt 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych lub zamieszkującego wspólnie z osobą posiadającą, w dniu wejścia w życie ustawy, orzeczenie o znacznym lub umiarkowanym stopniu niepełnosprawności albo orzeczenie o niepełnosprawności wydane osobie poniżej 16 roku życia albo posiadającego orzeczenie, o którym mowa w art. 5 pkt 1, 1a lub 2 albo art. 62 ust. 2 pkt 1 lub 2 albo ust. 3 pkt 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych,
-- **4)** iloczynu 250 kWh i liczby działek w rodzinnym ogrodzie działkowym – w przypadku zakupu energii elektrycznej w celu jej zużycia na potrzeby altan działkowych w rodzinnym ogrodzie działkowym, w których nie jest wykonywana działalność gospodarcza oraz administracji rodzinnego ogrodu działkowego – w przypadkach wspólnego pomiaru – w punkcie poboru energii, dla poszczególnych grup taryfowych z uwzględnieniem stref czasowych.
+- **1)** 3 MWh – w przypadku odbiorcy uprawnionego prowadzącego, w dniu wejścia w życie ustawy, gospodarstwo rolne, o którym mowa w art. 2 ust. 1 ustawy z dnia 15 listopada 1984 r. o podatku rolnym, lub prowadzącego dział specjalny produkcji rolnej, nieprowadzącego innego rodzaju działalności gospodarczej, którego punkty poboru energii oprócz budynku mieszkalnego służą również rozliczeniom zużytej energii elektrycznej na potrzeby urządzeń i instalacji położonych na gruntach gospodarstwa rolnego lub gruntach, na których prowadzi się dział specjalny produkcji rolnej oraz służą wyłącznie działalności rolniczej lub prowadzeniu działów specjalnych produkcji rolnej,
+- **2)** 3 MWh – w przypadku odbiorcy uprawnionego posiadającego, w dniu wejścia w życie ustawy, Kartę Dużej Rodziny jako rodzic rodziny wielodzietnej, o której mowa w art. 2 ustawy z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny,
+- **3)** 2,6 MWh – w przypadku odbiorcy uprawnionego posiadającego, w dniu wejścia w życie ustawy, orzeczenie o znacznym lub umiarkowanym stopniu niepełnosprawności, albo posiadających orzeczenie, o którym mowa w art. 5 pkt 1, 1a lub 2 albo art. 62 ust. 2 pkt 1 lub 2 albo ust. 3 pkt 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych lub zamieszkującego wspólnie z osobą posiadającą, w dniu wejścia w życie ustawy, orzeczenie o znacznym lub umiarkowanym stopniu niepełnosprawności albo orzeczenie o niepełnosprawności wydane osobie poniżej 16 roku życia albo posiadającego orzeczenie, o którym mowa w art. 5 pkt 1, 1a lub 2 albo art. 62 ust. 2 pkt 1 lub 2 albo ust. 3 pkt 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych w punkcie poboru energii, dla poszczególnych grup taryfowych z uwzględnieniem stref czasowych.
 
-2. W przypadku gdy ceny energii elektrycznej w umowie sprzedaży albo umowie kompleksowej, o których mowa odpowiednio w art. 5 ust. 1 albo w art. 5ab ustawy – Prawo energetyczne, stosowanych przez przedsiębiorstwo, o którym mowa w ust. 1, nie odpowiadają średnim cenom stosowanym przez sprzedawców z urzędu, o których mowa w art. 10 ust. 1, stosuje się w 2023 r. oraz w okresie od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r. najbardziej zbliżoną do nich grupę taryfową z taryfy zatwierdzonej na 2022 r. przez Prezesa URE dla tych sprzedawców.
-
-3. Limity zużycia energii elektrycznej stosowane w okresie od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r. wynoszą 50 % limitów określonych w ust. 1.
+2. W przypadku gdy ceny energii elektrycznej w umowie sprzedaży albo umowie kompleksowej, o których mowa odpowiednio w art. 5 ust. 1 albo w art. 5ab ustawy – Prawo energetyczne, stosowanych przez przedsiębiorstwo, o którym mowa w ust. 1, nie odpowiadają średnim cenom stosowanym przez sprzedawców z urzędu, o których mowa w art. 10 ust. 1, stosuje się najbardziej zbliżoną do nich grupę taryfową z taryfy zatwierdzonej na 2022 r. przez Prezesa URE dla tych sprzedawców.
 
 **Art. 7.**
 
-1. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie dystrybucji energii elektrycznej na potrzeby odbiorców uprawnionych, posiadające zatwierdzoną i obowiązującą taryfę dla energii elektrycznej, w taryfie na 2023 r. uwzględnia również stawki opłat za świadczenie usług dystrybucji uwzględnione w taryfie dla usług dystrybucji energii elektrycznej na rok 2022 do stosowania w rozliczeniach w 2023 r. z odbiorcą uprawnionym, o ile są one niższe, niż te dla roku 2023, a w taryfie na 2024 r. uwzględnia również stawki opłat za świadczenie usług dystrybucji uwzględnione w taryfie dla usług dystrybucji energii elektrycznej na rok 2022 do stosowania w rozliczeniach z odbiorcą uprawnionym w okresie od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r., o ile są one niższe, niż te dla roku 2024, za zużycie energii elektrycznej wynoszące maksymalnie 3 MWh albo:
+1. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie dystrybucji energii elektrycznej na potrzeby odbiorców uprawnionych, posiadające zatwierdzoną i obowiązującą taryfę dla energii elektrycznej, w taryfie na 2023 r. uwzględnia również stawki opłat za świadczenie usług dystrybucji uwzględnione w taryfie dla usług dystrybucji energii elektrycznej na rok 2022 do stosowania w rozliczeniach w 2023 r. z odbiorcą uprawnionym, o ile są one niższe, niż te dla roku 2023, za zużycie energii elektrycznej wynoszące maksymalnie 2 MWh albo:
 
-- **1)** 4 MWh – w przypadku odbiorcy uprawnionego prowadzącego, w dniu wejścia w życie ustawy, gospodarstwo rolne, o którym mowa w art. 2 ust. 1 ustawy z dnia 15 listopada 1984 r. o podatku rolnym, lub prowadzącego dział specjalny produkcji rolnej, nieprowadzącego innego rodzaju działalności gospodarczej, którego punkty poboru energii oprócz budynku mieszkalnego służą również rozliczeniom zużytej energii elektrycznej na potrzeby urządzeń i instalacji położonych na gruntach gospodarstwa rolnego lub gruntach, na których prowadzi się dział specjalny produkcji rolnej oraz służą wyłącznie działalności rolniczej lub prowadzeniu działów specjalnych produkcji rolnej,
-- **2)** 4 MWh – w przypadku odbiorcy uprawnionego posiadającego, w dniu wejścia w życie ustawy, Kartę Dużej Rodziny jako rodzic rodziny wielodzietnej, o której mowa w art. 2 ustawy z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny,
-- **3)** 3,6 MWh – w przypadku odbiorcy uprawnionego posiadającego, w dniu wejścia w życie ustawy, orzeczenie o znacznym lub umiarkowanym stopniu niepełnosprawności, albo posiadających orzeczenie, o którym mowa w art. 5 pkt 1, 1a lub 2 albo art. 62 ust. 2 pkt 1 lub 2 albo ust. 3 pkt 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych lub zamieszkującego wspólnie z osobą posiadającą, w dniu wejścia w życie ustawy, orzeczenie o znacznym lub umiarkowanym stopniu niepełnosprawności albo orzeczenie o niepełnosprawności wydane osobie poniżej 16 roku życia albo posiadającego orzeczenie, o którym mowa w art. 5 pkt 1, 1a lub 2 albo art. 62 ust. 2 pkt 1 lub 2 albo ust. 3 pkt 1 ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych,
-- **4)** iloczynu 250 kWh i liczby działek w rodzinnym ogrodzie działkowym – w przypadku zakupu energii elektrycznej w celu jej zużycia na potrzeby altan działkowych w rodzinnym ogrodzie działkowym, w których nie jest wykonywana działalność gospodarcza oraz administracji rodzinnego ogrodu działkowego – w przypadkach wspólnego pomiaru – w punkcie poboru energii.
+- **1)** 3 MWh – w przypadku odbiorcy uprawnionego prowadzącego, w dniu wejścia w życie ustawy, gospodarstwo rolne, o którym mowa w art. 2 ust. 1 ustawy z dnia 15 listopada 1984 r. o podatku rolnym, lub prowadzącego dział specjalny produkcji rolnej, nieprowadzącego innego rodzaju działalności gospodarczej, którego punkty poboru energii oprócz budynku mieszkalnego służą również rozliczeniom zużytej energii elektrycznej na potrzeby urządzeń i instalacji położonych na gruntach gospodarstwa rolnego lub gruntach, na których prowadzi się dział specjalny produkcji rolnej oraz służą wyłącznie działalności rolniczej lub prowadzeniu działów specjalnych produkcji rolnej,
+- **2)** 3 MWh – w przypadku odbiorcy uprawnionego posiadającego, w dniu wejścia w życie ustawy, Kartę Dużej Rodziny jako rodzic rodziny wielodzietnej, o której mowa w art. 2 ustawy z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny,
+- **3)** 2,6 MWh – w przypadku odbiorcy uprawnionego posiadającego, w dniu wejścia w życie ustawy, orzeczenie o znacznym lub umiarkowanym stopniu niepełnosprawności, albo posiadających orzeczenie, o którym mowa w art. 5 pkt 1, 1a lub 2 albo art. 62 ust. 2 pkt 1 lub 2 albo ust. 3 pkt 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych lub zamieszkującego wspólnie z osobą posiadającą, w dniu wejścia w życie ustawy, orzeczenie o znacznym lub umiarkowanym stopniu niepełnosprawności albo orzeczenie o niepełnosprawności wydane osobie poniżej 16 roku życia albo posiadającego orzeczenie, o którym mowa w art. 5 pkt 1, 1a lub 2 albo art. 62 ust. 2 pkt 1 lub 2 albo ust. 3 pkt 1 ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych w punkcie poboru energii.
 
 2. Przedsiębiorstwo energetyczne, o którym mowa w ust. 1, stosuje stawki opłat za świadczenie usługi dystrybucji energii elektrycznej, o których mowa w ust. 1, w rozliczeniach z:
 
 - **1)** odbiorcami uprawnionymi posiadającymi zawartą odrębną umowę o świadczenie usług dystrybucji energii elektrycznej;
-- **2)** przedsiębiorstwami energetycznymi, o których mowa w art. 3–6 – w przypadku odbiorców uprawnionych posiadających zawartą umowę kompleksową.
+- **2)** przedsiębiorstwami energetycznymi, o których mowa w art. 3 ust. 1, art. 4 ust. 1, art. 5 ust. 1, art. 6 ust. 1 – w przypadku odbiorców uprawnionych posiadających zawartą umowę kompleksową.
 
-3. Przedsiębiorstwo energetyczne, o którym mowa w art. 3–6, stosuje stawki opłat za świadczenie usługi dystrybucji energii elektrycznej, o których mowa w ust. 1, w rozliczeniach z odbiorcami uprawnionymi posiadającymi zawartą umowę kompleksową.
-
-4. Limity zużycia energii elektrycznej stosowane w okresie od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r. wynoszą 50 % limitów określonych w ust. 1.
-
-5. Przedsiębiorstwo energetyczne, o którym mowa w ust. 1, posiadające zatwierdzoną taryfę na 2023 r., do dnia wprowadzenia do stosowania taryfy na 2024 r., stosuje w rozliczeniach z odbiorcami uprawnionymi w okresie od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r. stawki opłat, o których mowa w ust. 1, o ile są one niższe, niż te dla roku 2023.
-
-**Art. 7a.** W przypadku gdy cena energii elektrycznej wynikająca z taryfy lub umowy sprzedaży energii elektrycznej, o której mowa w art. 2 pkt 6 ustawy z dnia 27 października 2022 r. o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w latach 2023–2025 (Dz. U. z 2024 r. poz. 190, 834 i 859) zawartej z odbiorcą uprawnionym jest niższa niż cena energii, o której mowa w art. 3–6, podmiot uprawniony stosuje w rozliczeniach z odbiorcą uprawnionym tę niższą cenę.
+3. Przedsiębiorstwo energetyczne, o którym mowa w art. 3 ust. 1, art. 4 ust. 1, art. 5 ust. 1 i art. 6 ust. 1, stosuje stawki opłat za świadczenie usługi dystrybucji energii elektrycznej, o których mowa w ust. 1, w rozliczeniach z odbiorcami uprawnionymi posiadającymi zawartą umowę kompleksową.
 
 **Art. 8.**
 
-1. W przypadku gdy przedsiębiorstwo energetyczne, o którym mowa w art. 4 ust. 1, art. 5 ust. 1 i art. 6 ust. 1, zawarło z odbiorcą uprawnionym umowę z gwarancją stałej ceny obejmującą cały albo część 2023 r., w 2023 r. przepisów art. 4 ust. 1, art. 5 ust. 1 i art. 6 ust. 1 nie stosuje się w okresie objętym umową z gwarancją stałej ceny.
+1. W przypadku gdy przedsiębiorstwo energetyczne, o którym mowa w art. 4 ust. 1, art. 5 ust. 1 i art. 6 ust. 1, zawarło z odbiorcą uprawnionym umowę z gwarancją stałej ceny obejmującą cały albo część 2023 r., przepisów art. 4 ust. 1, art. 5 ust. 1 i art. 6 ust. 1 nie stosuje się w okresie objętym umową z gwarancją stałej ceny.
 
-2. W przypadku odbiorcy uprawnionego, będącego prosumentem energii odnawialnej w rozumieniu art. 2 pkt 27a ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2023 r. poz. 1436, 1597, 1681 i 1762 oraz z 2024 r. poz. 834), rozliczanego na podstawie art. 4 ust. 1 tej ustawy, zużycie energii elektrycznej, o którym mowa w art. 3 ust. 1, art. 4 ust. 2, art. 5 ust. 1, art. 6 ust. 1 i art. 7 ust. 1, jest naliczane po uwzględnieniu rozliczenia, o którym mowa w art. 4 ust. 1 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii.
+2. W przypadku odbiorcy uprawnionego, będącego prosumentem energii odnawialnej w rozumieniu art. 2 pkt 27a ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2022 r. poz. 1378 i 1383), rozliczanego na podstawie art. 4 ust. 1 tej ustawy, zużycie energii elektrycznej, o którym mowa w art. 3 ust. 1, art. 4 ust. 2, art. 5 ust. 1, art. 6 ust. 1 i art. 7 ust. 1, jest naliczane po uwzględnieniu rozliczenia, o którym mowa w art. 4 ust. 1 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii.
 
 3. Do rozliczenia zużycia energii, o którym mowa w ust. 2, stosuje się odpowiednio art. 7 ust. 2 i 3.
 
-**Art. 8a.** Sprzedawca z urzędu jest obowiązany do zawarcia umowy sprzedaży energii elektrycznej albo umowy kompleksowej z odbiorcą uprawnionym.
-
-**Art. 8b.**
-
-1. Ceny, o których mowa w art. 3–6, stanowią jedyną składową opłat, jakie przedsiębiorstwo energetyczne, o którym mowa w tych przepisach, może stosować w rozliczeniach z odbiorcami uprawnionymi.
-
-2. Przedsiębiorstwa energetyczne stosujące w umowach z gwarancją stałej ceny stawki opłat inne niż cena energii elektrycznej, stosują w okresie od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r. te stawki opłat w wysokości nie wyższej niż:
-
-- **1)** stosowane w rozliczeniach z danym odbiorcą uprawnionym na dzień 16 sierpnia 2023 r., albo
-- **2)** średnia stawka opłat stosowana przez podmiot uprawniony w tego samego rodzaju umowach z gwarancją stałej ceny zawartych z odbiorcami uprawnionymi na dzień 16 sierpnia 2023 r. – w przypadku, gdy umowa została zawarta po dniu 16 sierpnia 2023 r.
-
-3. Miesięczna stawka opłat, o których mowa w ust. 2, nie może być wyższa niż 3,5 % średniej ceny energii elektrycznej wynikającej z taryf zatwierdzonych na 2024 r. przez Prezesa URE dla sprzedawców z urzędu opublikowanej przez Prezesa URE zgodnie z art. 10 ust. 1. W przypadku braku opublikowania przez Prezesa URE ceny, o której mowa w zdaniu pierwszym, miesięczna stawka opłat, o której mowa w ust. 2, nie może być wyższa niż 2 % średniej ceny energii elektrycznej wynikającej z taryf zatwierdzonych na 2023 r. przez Prezesa URE dla sprzedawców z urzędu opublikowanej przez Prezesa URE zgodnie z art. 10 ust. 1.
-
-4. Z tytułu stosowania stawek opłat, o których mowa w ust. 2, rekompensata nie przysługuje.
-
 **Art. 9.**
 
-1. Odbiorca uprawniony, o którym mowa w art. 3 ust. 1 pkt 1–4, art. 4 ust. 2 pkt 1–4, art. 5 ust. 1 pkt 1–4, art. 6 ust. 1 pkt 1–4 oraz art. 7 ust. 1 pkt 1–4, w celu umożliwienia stosowania wobec niego wyższego limitu zużycia energii elektrycznej, o którym mowa w tych przepisach, składa podmiotowi uprawnionemu oświadczenie o spełnianiu przez tego odbiorcę warunków pozwalających na uznanie go za odbiorcę uprawnionego, o którym mowa w tych przepisach. Odbiorca uprawniony, o którym mowa w art. 3 ust. 1 pkt 4, art. 4 ust. 2 pkt 4, art. 5 ust. 1 pkt 4, art. 6 ust. 1 pkt 4 oraz art. 7 ust. 1 pkt 4, w celu umożliwienia stosowania wobec niego limitu zużycia energii elektrycznej, o którym mowa w tych przepisach, składa podmiotowi uprawnionemu oświadczenie o spełnianiu przez tego odbiorcę warunków pozwalających na uznanie go za odbiorcę uprawnionego i liczbie działek w rodzinnym ogrodzie działkowym, o którym mowa w tych przepisach.
+1. Odbiorca uprawniony, o którym mowa w art. 3 ust. 1 pkt 1–3, art. 4 ust. 2 pkt 1–3, art. 5 ust. 1 pkt 1–3, art. 6 ust. 1 pkt 1–3 oraz art. 7 ust. 1 pkt 1–3, w celu umożliwienia stosowania wobec niego limitu zużycia energii elektrycznej wynoszącego maksymalnie 3 MWh albo 2,6 MWh, o którym mowa w tych przepisach, składa podmiotowi uprawnionemu oświadczenie o spełnianiu przez tego odbiorcę warunków pozwalających na uznanie go za odbiorcę uprawnionego, o którym mowa w tych przepisach.
 
 2. Odbiorca uprawniony, który zawarł odrębną umowę sprzedaży energii elektrycznej oraz umowę o świadczenie usług dystrybucji składa odrębne oświadczenia, o których mowa w ust. 1, podmiotom uprawnionym.
 
 3. Składając oświadczenie, o którym mowa w ust. 1:
 
-- **1)** odbiorca uprawniony, o którym mowa w art. 3 ust. 1 pkt 1, art. 4 ust. 2 pkt 1, art. 5 ust. 1 pkt 1, art. 6 ust. 1 pkt 1 oraz art. 7 ust. 1 pkt 1:
-    - **a)** podaje numer decyzji o wymierzeniu za 2022 r. podatku rolnego dla gruntów, na których zlokalizowane są oprócz budynku mieszkalnego również inne obiekty budowlane posiadające urządzenia i instalacje korzystające z wspólnego rozliczania zużytej energii elektrycznej należące do gospodarstwa rolnego lub na których prowadzi się dział specjalny produkcji rolnej,
-    - **b)** podaje nazwę organu podatkowego, który wydał decyzję, o której mowa w lit. a,
-    - **c)** załącza kopię decyzji, o której mowa w lit. a – a w przypadku gdy decyzja, o której mowa w lit. a, nie została wydana, oświadcza, że posiada grunty podlegające podatkowi rolnemu i podaje numer identyfikacyjny nadany mu w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności;
+- **1)** odbiorca uprawniony, o którym mowa w art. 3 ust. 1 pkt 1, art. 4 ust. 2 pkt 1, art. 5 ust. 1 pkt 1, art. 6 ust. 1 pkt 1 oraz art. 7 ust. 1 pkt 1: podaje numer decyzji o wymierzeniu za 2022 r. podatku rolnego dla gruntów, na których zlokalizowane są oprócz budynku mieszkalnego również inne obiekty budowlane posiadające urządzenia i instalacje korzystające z wspólnego rozliczania zużytej energii elektrycznej należące do gospodarstwa rolnego lub na których prowadzi się dział specjalny produkcji rolnej, podaje nazwę organu podatkowego, który wydał decyzję, o której mowa w lit. a, załącza kopię decyzji, o której mowa w lit. a;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **2)** odbiorca uprawniony, o którym mowa w art. 3 ust. 1 pkt 2, art. 4 ust. 2 pkt 2, art. 5 ust. 1 pkt 2, art. 6 ust. 1 pkt 2 oraz art. 7 ust. 1 pkt 2, podaje numer Karty Dużej Rodziny i załącza kopię tej Karty.
 
@@ -170,81 +150,60 @@ Art. 39‒51. (pominięte)
 
 6. Oświadczenie, o którym mowa w ust. 1, składa się na piśmie, w postaci papierowej lub elektronicznej.
 
-7. Oświadczenie, o którym mowa w ust. 1, złożone w postaci papierowej opatruje się podpisem własnoręcznym i składa osobiście w siedzibie przedsiębiorcy energetycznego albo w formie przesyłki w polskiej placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467 i 1222) lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej, co jest równoznaczne ze złożeniem go przedsiębiorcy energetycznemu.
+7. Oświadczenie, o którym mowa w ust. 1, złożone w postaci papierowej opatruje się podpisem własnoręcznym i składa osobiście w siedzibie przedsiębiorcy energetycznego albo w formie przesyłki w polskiej placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2022 r. poz. 896, 1933 i 2042) lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej, co jest równoznaczne ze złożeniem go przedsiębiorcy energetycznemu.
 
 8. Oświadczenie, o którym mowa w ust. 1, złożone w postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym i składa za pomocą środków komunikacji elektronicznej.
 
-9. Minister właściwy do spraw informatyzacji może udostępnić usługę umożliwiającą złożenie oświadczenia za jego pośrednictwem za pomocą środków komunikacji elektronicznej, w tym przy użyciu aplikacji mObywatel w rozumieniu ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. poz. 1234 oraz z 2024 r. poz. 854). Do oświadczenia składanego w sposób określony w zdaniu pierwszym ust. 5 stosuje się.
+9. Minister właściwy do spraw informatyzacji może udostępnić usługę umożliwiającą złożenie oświadczenia za jego pośrednictwem za pomocą środków komunikacji elektronicznej, w tym przy użyciu publicznej aplikacji mobilnej, o której mowa w art. 19e ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070 oraz z 2022 r. poz. 1087). Do oświadczenia składanego w sposób określony w zdaniu pierwszym ust. 5 stosuje się.
 
-10. Oświadczenie złożone przy użyciu aplikacji mObywatel opatruje się zaawansowaną pieczęcią elektroniczną ministra właściwego do spraw informatyzacji, po uwierzytelnieniu składającego oświadczenie z wykorzystaniem certyfikatu podstawowego, o którym mowa w art. 2 pkt 2 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel.
+10. Oświadczenie złożone przy użyciu publicznej aplikacji mobilnej opatruje się zaawansowaną pieczęcią elektroniczną ministra właściwego do spraw informatyzacji, po uwierzytelnieniu składającego oświadczenie z wykorzystaniem certyfikatu, o którym mowa w art. 19e ust. 2a ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, wydanego użytkownikowi publicznej aplikacji mobilnej po uwierzytelnieniu w sposób określony w art. 20a ust. 1 tej ustawy.
 
 11. Usługa, o której mowa w ust. 9, może być dostosowana do potrzeb użytkownika na podstawie jego danych, w szczególności danych:
 
 - **1)** osobowych tego użytkownika,
-- **2)** dotyczących sytuacji prawnej tego użytkownika lub praw mu przysługujących, umożliwiających identyfikację rzeczy związanej z tym użytkownikiem – pobranych z rejestrów publicznych lub systemów teleinformatycznych podmiotów publicznych.
+- **2)** dotyczących sytuacji prawnej tego użytkownika lub praw mu przysługujących, umożliwiających identyfikację rzeczy związanej z tym użytkownikiem pobranych z rejestrów publicznych lub systemów teleinformatycznych podmiotów publicznych.
 
-12. W celu umożliwienia przyjmowania oświadczeń złożonych przy użyciu aplikacji mObywatel:
+12. W celu umożliwienia przyjmowania oświadczeń złożonych przy użyciu publicznej aplikacji mobilnej:
 
 - **1)** podmiot uprawniony obowiązany jest do integracji swojego systemu teleinformatycznego z systemem teleinformatycznym ministra właściwego do spraw informatyzacji;
 - **2)** minister może nadać podmiotowi uprawnionemu, na jego wniosek, funkcjonalność podmiotu publicznego na ePUAP; przepisy wydane na podstawie art. 19a ust. 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne stosuje się odpowiednio.
 
-13. W celu objęcia wyższymi limitami zużycia, oświadczenie, o którym mowa w ust. 1, składa się:
+13. Oświadczenie, o którym mowa w ust. 1, składa się niezwłocznie, nie później niż do dnia 30 czerwca 2023 r.
 
-- **1)** na 2023 r. – nie później niż do dnia 30 czerwca 2023 r.;
-- **2)** na 2024 r. – nie później niż do dnia 31 marca 2024 r.
+14. Do odbiorców, o których mowa w art. 3 ust. 1 pkt 1–3, art. 4 ust. 2 pkt 1–3, art. 5 ust. 1 pkt 1–3, art. 6 ust. 1 pkt 1–3 oraz art. 7 ust. 1 pkt 1–3, którzy nie złożyli oświadczenia, o którym mowa w ust. 1, w terminie, o którym mowa w ust. 13, nie stosuje się limitu zużycia energii elektrycznej, o którym mowa w ust. 1.
 
-14. Do odbiorców, o których mowa w art. 3 ust. 1 pkt 1–4, art. 4 ust. 2 pkt 1–4, art. 5 ust. 1 pkt 1–4, art. 6 ust. 1 pkt 1–4 oraz art. 7 ust. 1 pkt 1–4, którzy nie złożyli oświadczenia, o którym mowa w ust. 1, w terminie, o którym mowa w ust. 13, nie stosuje się limitu zużycia energii elektrycznej, o którym mowa w ust. 1.
+15. W przypadku zmiany w 2023 r. odbiorcy uprawnionego pobierającego energię elektryczną z punktu poboru energii, przy obliczaniu limitów zużycia energii elektrycznej, o których mowa w art. 3 ust. 1, art. 4 ust. 2, art. 5 ust. 1, art. 6 ust. 1 i art. 7 ust. 1, uwzględnia się całkowite użycie energii elektrycznej w tym punkcie poboru energii w 2023 r.
 
-14a. Odbiorcy uprawnieni, którzy złożyli oświadczenie, o którym mowa w ust. 1, posiadali status odbiorcy uprawnionego do wyższego limitu na dzień 31 grudnia 2023 r. i spełniali warunki uznania za odbiorców uprawnionych do wyższego limitu zużycia na dzień 1 stycznia 2024 r., nie są obowiązani do składania nowych oświadczeń na 2024 r.
+16. W przypadku rozpoczęcia korzystania przez odbiorcę uprawnionego z nowego punktu poboru energii w 2023 r. przy obliczaniu limitów zużycia energii elektrycznej, o których mowa w art. 3 ust. 1, art. 4 ust. 2, art. 5 ust. 1, art. 6 ust. 1 i art. 7 ust. 1, uwzględnia się proporcjonalnie liczbę dni wykorzystywania tego punktu poboru w 2023 r.
 
-15. W przypadku zmiany w 2023 r. lub w 2024 r. odbiorcy uprawnionego pobierającego energię elektryczną z punktu poboru energii, przy obliczaniu limitów zużycia energii elektrycznej, o których mowa w art. 3–7, uwzględnia się całkowite zużycie energii elektrycznej w tym punkcie poboru energii, odpowiednio w 2023 r. lub 2024 r.
+17. W przypadku skorzystania w 2023 r. przez odbiorcę uprawnionego z prawa wyboru sprzedawcy energii elektrycznej, o którym mowa w art. 4j ustawy – Prawo energetyczne, przy obliczaniu limitów zużycia energii elektrycznej, o których mowa w art. 3 ust. 1, art. 4 ust. 2, art. 5 ust. 1, art. 6 ust. 1 i art. 7 ust. 1, uwzględnia się całkowite użycie energii elektrycznej w punkcie poboru energii w 2023 r.
 
-16. W przypadku rozpoczęcia korzystania przez odbiorcę uprawnionego z nowego punktu poboru energii w 2023 r. lub w 2024 r. przy obliczaniu limitów zużycia energii elektrycznej, o których mowa w art. 3–7, uwzględnia się proporcjonalnie liczbę dni wykorzystywania tego punktu poboru, odpowiednio w 2023 r. lub 2024 r.
+18. W sytuacji, o której mowa w ust. 17, dotychczasowy sprzedawca przekazuje nowemu sprzedawcy na jego wniosek informację o zużyciu energii w 2023 r.
 
-17. W przypadku skorzystania w 2023 r. lub w 2024 r. przez odbiorcę uprawnionego z prawa wyboru sprzedawcy energii elektrycznej, o którym mowa w art. 4j ustawy – Prawo energetyczne, przy obliczaniu limitów zużycia energii elektrycznej, o których mowa w art. 3–7, uwzględnia się całkowite zużycie energii elektrycznej w punkcie poboru energii, odpowiednio w 2023 r. lub 2024 r.
+19. Utrata warunków pozwalających na uznanie odbiorcy za uprawnionego do stosowania wobec niego limitu zużycia energii elektrycznej wynoszącego maksymalnie 3 MWh albo 2,6 MWh w trakcie 2023 r., nie wpływa na uprawnienie do zużycia energii elektrycznej w ilości maksymalnie 3 MWh albo 2,6 MWh, po cenach, o których mowa w art. 3–7.
 
-18. W sytuacji, o której mowa w ust. 17, dotychczasowy sprzedawca przekazuje nowemu sprzedawcy na jego wniosek informację o zużyciu energii, odpowiednio w 2023 r. albo 2024 r.
+20. Odbiorcy uprawnieni, o których mowa w art. 3 ust. 1 pkt 1–3, art. 4 ust. 2 pkt 1–3, art. 5 ust. 1 pkt 1–3, art. 6 ust. 1 pkt 1–3 oraz art. 7 ust. 1 pkt 1–3, którzy spełnili przesłanki, o których mowa w tych przepisach, w trakcie 2023 r., składają oświadczenie, o którym mowa w ust. 1, niezwłocznie po spełnieniu przesłanek, o których mowa w tych przepisach, jednak nie później niż w terminie 30 dni od dnia spełnienia tych przesłanek.
 
-19. Utrata warunków pozwalających na uznanie odbiorcy za uprawnionego do stosowania wobec niego wyższego limitu zużycia energii elektrycznej w trakcie 2023 r. lub 2024 r., nie wpływa na uprawnienie do zużycia energii elektrycznej według takiego wyższego limitu odpowiednio w 2023 r. lub 2024 r., po cenach, o których mowa w art. 3–7.
+21. W przypadku odbiorców uprawnionych, o których mowa w art. 3 ust. 1 pkt 1–3, art. 4 ust. 2 pkt 1–3, art. 5 ust. 1 pkt 1–3, art. 6 ust. 1 pkt 1–3 oraz art. 7 ust. 1 pkt 1–3, którzy spełnili przesłanki, o których mowa w tych przepisach, w trakcie 2023 r. oraz złożyli oświadczenie, o którym mowa w ust. 20, w terminie, limit zużycia energii elektrycznej, o którym mowa w ust. 1, stosuje się proporcjonalnie do liczby miesięcy w 2023 r., rozpoczynając od miesiąca, w którym w spełnione zostały te przesłanki.
 
-20. Odbiorcy uprawnieni, o których mowa w art. 3 ust. 1 pkt 1–4, art. 4 ust. 2 pkt 1–4, art. 5 ust. 1 pkt 1–4, art. 6 ust. 1 pkt 1–4 oraz art. 7 ust. 1 pkt 1–4, którzy spełnili przesłanki, o których mowa w tych przepisach, w trakcie 2023 r. lub 2024 r., składają oświadczenie, o którym mowa w ust. 1, niezwłocznie po spełnieniu przesłanek, o których mowa w tych przepisach, jednak nie później niż w terminie 30 dni od dnia spełnienia tych przesłanek.
-
-21. W przypadku odbiorców uprawnionych, o których mowa w art. 3 ust. 1 pkt 1–4, art. 4 ust. 2 pkt 1–4, art. 5 ust. 1 pkt 1–4, art. 6 ust. 1 pkt 1–4 oraz art. 7 ust. 1 pkt 1–4, którzy spełnili przesłanki, o których mowa w tych przepisach, w trakcie 2023 r. albo 2024 r. oraz złożyli oświadczenie, o którym mowa w ust. 20, w terminie, limit zużycia energii elektrycznej, o którym mowa w ust. 1, stosuje się proporcjonalnie do liczby miesięcy, odpowiednio w 2023 r. lub w 2024 r., rozpoczynając od miesiąca, w którym w spełnione zostały te przesłanki.
-
-22. W przypadku odbiorców uprawnionych, o których mowa w art. 3 ust. 1 pkt 1–4, art. 4 ust. 2 pkt 1–4, art. 5 ust. 1 pkt 1–4, art. 6 ust. 1 pkt 1–4 oraz art. 7 ust. 1 pkt 1–4, którzy spełnili przesłanki, o których mowa w tych przepisach, w trakcie 2023 r. albo 2024 r. oraz nie złożyli oświadczenia, o którym mowa w ust. 20, w terminie, limit zużycia energii elektrycznej, o którym mowa w ust. 1, stosuje się proporcjonalnie do liczby miesięcy, odpowiednio w 2023 r. lub w 2024 r., rozpoczynając od miesiąca następującego po miesiącu, w którym złożono oświadczenie.
-
-**Art. 9a.**
-
-1. Odbiorca uprawniony, o którym mowa w art. 2 pkt 1 lit. j, w celu umożliwienia stosowania wobec niego limitu zużycia energii elektrycznej wynoszącego maksymalnie 3 MWh w 2023 r. lub 1,5 MWh w okresie od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r., składa podmiotowi uprawnionemu oświadczenie o spełnianiu przez tego odbiorcę warunków pozwalających na uznanie go za odbiorcę uprawnionego, o którym mowa w tym przepisie.
-
-2. Przepisy art. 9 ust. 2 i 5–22 stosuje się odpowiednio.
+22. W przypadku odbiorców uprawnionych, o których mowa w art. 3 ust. 1 pkt 1–3, art. 4 ust. 2 pkt 1–3, art. 5 ust. 1 pkt 1–3, art. 6 ust. 1 pkt 1–3 oraz art. 7 ust. 1 pkt 1–3, którzy spełnili przesłanki, o których mowa w tych przepisach, w trakcie 2023 r. oraz nie złożyli oświadczenia, o którym mowa w ust. 20, w terminie, limit zużycia energii elektrycznej, o którym mowa w ust. 1, stosuje się proporcjonalnie do liczby miesięcy w 2023 r., rozpoczynając od miesiąca następującego po miesiącu, w którym złożono oświadczenie.
 
 **Art. 10.**
 
 1. Prezes URE oblicza oraz publikuje w Biuletynie Informacji Publicznej Urzędu Regulacji Energetyki łączne średnie ceny energii elektrycznej wynikające z taryf sprzedawców z urzędu oraz średnie ceny dla każdej z grup taryfowych zawartych w tych taryfach z uwzględnieniem stref czasowych:
 
 - **1)** na 2022 r. w terminie 7 dni od dnia wejścia w życie ustawy;
-- **2)** na 2023 r. w terminie do dnia 31 grudnia 2022 r.;
-- **3)** na 2024 r. w terminie do dnia 10 stycznia 2024 r.;
-- **4)** na 2024 r., w przypadku zatwierdzenia taryfy lub jej zmiany na podstawie art. 51a, w terminie do dnia 15 lipca 2024 r.;
-- **5)** na 2024 r., w przypadku niezatwierdzenia taryfy lub jej zmiany zgodnie z pkt 4, w terminie do dnia 16 lipca 2024 r., przy czym wówczas ceny te wynoszą 80 % średnich cen energii elektrycznej opublikowanych zgodnie z pkt 3 i są stosowane do dnia opublikowania cen zgodnie z pkt 4;
-- **6)** na okres od dnia 1 października 2025 r. do dnia 31 grudnia 2025 r., w przypadku zatwierdzenia taryfy lub jej zmiany na podstawie art. 51b, w terminie do dnia 1 października 2025 r.
+- **2)** na 2023 r. w terminie do dnia 31 grudnia 2022 r.
 
-2. Średnie ceny, o których mowa w ust. 1, oblicza się jako ceny średnioważone z przychodów z cen i wolumenów wynikających z taryf zatwierdzonych przez Prezesa URE dla sprzedawców z urzędu, odpowiednio na 2022 r., 2023 r., 2024 r. i 2025 r.
+2. Średnie ceny, o których mowa w ust. 1, oblicza się jako ceny średnioważone z przychodów z cen i wolumenów wynikających z taryf zatwierdzonych przez Prezesa URE dla sprzedawców z urzędu, odpowiednio na 2022 r. i 2023 r.
 
-**Art. 11.** W przypadku korzystania przez odbiorcę uprawnionego z usług sprzedawcy rezerwowego w rozumieniu art. 3 pkt 29a ustawy – Prawo energetyczne oraz w przypadku umowy, o której mowa w art. 5ab ust. 1 tej ustawy, zawieranej na rzecz odbiorcy uprawnionego, przepisy art. 3–7, art. 9 i art. 12–26 stosuje się odpowiednio.
-
-**Art. 11a.**
-
-1. Podmiot uprawniony dołącza do faktur za energię elektryczną odebraną w 2022 r. i 2023 r., wystawionych odbiorcom uprawnionym, o których mowa w art. 3 ust. 1, art. 4 ust. 2, art. 5 ust. 1 i art. 6 ust. 1, po dniu 1 grudnia 2022 r. informację o wpływie ustawy na cenę energii elektrycznej dla tych odbiorców.
-
-2. Minister właściwy do spraw energii udostępnia w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu wzór informacji, o której mowa w ust. 1.
+**Art. 11.** W przypadku korzystania przez odbiorcę uprawnionego z usług sprzedawcy rezerwowego w rozumieniu art. 3 pkt 29a ustawy – Prawo energetyczne, przepisy art. 3–7, art. 9 i art. 12–26 stosuje się odpowiednio.
 
 #### Rozdział 3 Zasady i tryb przyznawania i wypłacania rekompensat
 
 **Art. 12.**
 
-1. Podmiotom uprawnionym przysługuje rekompensata z tytułu stosowania w 2023 r. w rozliczeniach z odbiorcami uprawnionymi cen energii elektrycznej, o których mowa w art. 3 ust. 1, art. 4 ust. 1, art. 5 ust. 1 i art. 6 ust. 1, albo stawki opłat, o których mowa w art. 7 ust. 1.
+1. Podmiotom uprawnionym przysługuje rekompensata z tytułu stosowania w rozliczeniach z odbiorcami uprawnionymi cen energii elektrycznej, o których mowa w art. 3 ust. 1, art. 4 ust. 1, art. 5 ust. 1 i art. 6 ust. 1, albo stawki opłat, o których mowa w art. 7 ust. 1.
 
 2. Dla podmiotu uprawnionego, o którym mowa w art. 3 ust. 1, rekompensatę stanowi iloczyn energii elektrycznej zużytej w punkcie poboru energii, do maksymalnego limitu, o którym mowa w art. 3 ust. 1, i różnicy między ceną energii elektrycznej wynikającą z taryfy dla energii elektrycznej zatwierdzonej przez Prezesa URE na 2023 r. a cenami energii elektrycznej, o których mowa w art. 3 ust. 1.
 
@@ -254,52 +213,19 @@ Art. 39‒51. (pominięte)
 
 5. W przypadku nieprzedłożenia Prezesowi URE do zatwierdzenia taryfy przez podmiot uprawniony, o którym mowa w art. 5 ust. 1, albo jej niezatwierdzenia w terminie do dnia 17 grudnia 2022 r., rekompensatę stanowi różnica między średnią ceną wynikającą z taryf zatwierdzonych na 2023 r. przez Prezesa URE dla sprzedawców z urzędu a średnią ceną wynikającą z taryf zatwierdzonych na 2022 r. przez Prezesa URE dla tych sprzedawców.
 
-6. Dla podmiotu uprawnionego, o którym mowa w art. 6 ust. 1, rekompensatę stanowi iloczyn energii elektrycznej zużytej w punkcie poboru energii, zgodnie z art. 6 ust. 1, do maksymalnego limitu, o którym mowa w art. 6 ust. 1, i różnicy między średnią ceną energii elektrycznej wynikającą z taryf zatwierdzonych na 2023 r. przez Prezesa URE dla sprzedawcy z urzędu a średnią ceną wynikającą z taryf zatwierdzonych na 2022 r. przez Prezesa URE dla tych sprzedawców.
+6. Dla podmiotu uprawnionego, o którym mowa w art. 6 ust. 1, rekompensatę stanowi iloczyn energii elektrycznej zużytej w punkcie poboru energii, zgodnie z art. 6 ust. 1, do maksymalnego limitu, o którym mowa w art. 6 ust. 1, i różnicy między średnią ceną energii elektrycznej wynikającą z taryf zatwierdzonych na 2022 r. przez Prezesa URE dla sprzedawcy z urzędu a średnią ceną wynikającą z taryf zatwierdzonych na 2023 r. przez Prezesa URE dla tych sprzedawców.
 
 7. Dla podmiotu uprawnionego, o którym mowa w art. 7 ust. 1, rekompensatę stanowi różnica między wysokością opłat naliczonych za usługi dystrybucji energii elektrycznej wynikających ze stawek opłat taryfy dla usług dystrybucji energii elektrycznej na 2023 r. a wysokością opłat naliczonych za usługi dystrybucji energii elektrycznej wynikających ze stawek opłat taryfy dla usług dystrybucji energii elektrycznej na 2022 r., do maksymalnego limitu, o którym mowa w art. 7 ust. 1.
 
-**Art. 12a.**
-
-1. Podmiotom uprawnionym za okres od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r. przysługuje rekompensata z tytułu stosowania w rozliczeniach z odbiorcami uprawnionymi cen energii elektrycznej, o których mowa w art. 3 ust. 1, art. 4 ust. 2, art. 5 ust. 1 i art. 6 ust. 1, lub stawki opłat, o których mowa w art. 7 ust. 1.
-
-2. Dla podmiotu uprawnionego, o którym mowa w art. 3 ust. 1, rekompensatę stanowi iloczyn energii elektrycznej zużytej w punkcie poboru energii, do maksymalnego limitu, o którym mowa w art. 3 ust. 3, i różnicy między ceną energii elektrycznej wynikającą z taryfy dla energii elektrycznej zatwierdzonej przez Prezesa URE na 2024 r. a cenami energii elektrycznej, o których mowa w art. 3 ust. 1.
-
-3. Dla podmiotu uprawnionego, o którym mowa w art. 4 ust. 1, rekompensatę stanowi iloczyn energii elektrycznej zużytej w punkcie poboru energii, do maksymalnego limitu, o którym mowa w art. 4 ust. 4, i różnicy między ceną energii elektrycznej wynikającą z taryfy dla energii elektrycznej zatwierdzonej przez Prezesa URE na 2024 r., a ceną energii elektrycznej, o której mowa w art. 4 ust. 2.
-
-4. Dla podmiotu uprawnionego, o którym mowa w art. 5 ust. 1, rekompensatę stanowi iloczyn energii elektrycznej zużytej w punkcie poboru energii, do maksymalnego limitu, o którym mowa w art. 5 ust. 5, i różnicy między ceną energii elektrycznej wynikającą z taryfy zatwierdzonej przez Prezesa URE na 2024 r. a ceną energii elektrycznej, o której mowa w art. 5 ust. 1.
-
-5. Dla podmiotu uprawnionego, o którym mowa w art. 6 ust. 1, rekompensatę stanowi iloczyn energii elektrycznej zużytej w punkcie poboru energii, zgodnie z art. 6 ust. 3, do maksymalnego limitu, o którym mowa w art. 6 ust. 3, i różnicy między średnią ceną energii elektrycznej wynikającą z taryf zatwierdzonych na 2024 r. przez Prezesa URE dla sprzedawców z urzędu a średnią ceną energii elektrycznej, o której mowa odpowiednio w art. 6 ust. 1 albo 2.
-
-6. Dla podmiotów uprawnionych, o których mowa w art. 3–5, tymczasowa rekompensata wypłacana w okresie do dnia zatwierdzenia przez Prezesa URE taryfy, o której mowa odpowiednio w ust. 2, 3 i 4, obliczana jest na podstawie różnicy między 60 % ceny energii elektrycznej dla danej grupy taryfowej wynikającej z dotychczasowej taryfy, a cenami energii elektrycznej, o których mowa odpowiednio w art. 3 ust. 1, art. 4 ust. 2 albo art. 5 ust. 1.
-
-7. Dla podmiotów uprawnionych, o których mowa w art. 6 ust. 1, rekompensata wypłacana w okresie do dnia opublikowania przez Prezesa URE zgodnie z art. 10 ust. 1 średniej ceny energii elektrycznej wynikającej z taryf zatwierdzonych na 2024 r. dla sprzedawców z urzędu, obliczana jest na podstawie różnicy między 60 % średniej ceny energii elektrycznej wynikającej z taryf zatwierdzonych na 2023 r. przez Prezesa URE dla sprzedawców z urzędu a cenami energii elektrycznej, o których mowa odpowiednio w art. 6 ust. 1 albo 2.
-
-8. Różnica między kwotami rekompensat ustalonymi zgodnie z ust. 2, 3, 4 lub 5 a faktycznie wypłaconymi kwotami tymczasowej rekompensaty ustalonymi zgodnie z ust. 6 lub 7 rozliczana jest w ramach wniosku o wypłatę rekompensaty, składanego na podstawie art. 18 ust. 1, odpowiednio po zatwierdzeniu taryfy albo opublikowaniu przez Prezesa URE zgodnie z art. 10 ust. 1 średniej ceny energii elektrycznej wynikającej z taryf zatwierdzonych na 2024 r. dla sprzedawców z urzędu.
-
-9. Dla podmiotu uprawnionego, o którym mowa w art. 7 ust. 1, rekompensatę do maksymalnego limitu, o którym mowa w art. 7 ust. 4, stanowi różnica między wysokością opłat naliczonych za usługi dystrybucji energii elektrycznej wynikających ze stawek opłat taryfy dla usług dystrybucji energii elektrycznej na 2024 r. a wysokością opłat naliczonych za usługi dystrybucji energii elektrycznej, o których mowa w art. 7 ust. 1.
-
-10. Dla podmiotu uprawnionego, który zawarł z odbiorcą uprawnionym umowę z gwarancją stałej ceny, rekompensatę stanowi różnica między wysokością ceny energii elektrycznej wynikającej z zawartej z odbiorcą uprawnionym umowy z gwarancją stałej ceny w zł/MWh nie wyższej niż:
-
-- **1)** cena stosowana w rozliczeniach z tym odbiorcą na dzień 16 sierpnia 2023 r., albo
-- **2)** średnia cena energii elektrycznej dla umów z gwarancją stałej ceny stosowana przez podmiot uprawniony w umowach tego samego rodzaju zawartych z odbiorcami uprawnionymi na dzień 16 sierpnia 2023 r. – w przypadku, gdy umowa została zawarta po dniu 16 sierpnia 2023 r. – a cenami energii elektrycznej, o których mowa odpowiednio w art. 3–6.
-
-11. Cena energii elektrycznej, o której mowa w ust. 10 pkt 1 lub 2, nie może być wyższa niż średnia cena energii elektrycznej wynikająca z taryf zatwierdzonych na 2024 r. przez Prezesa URE dla sprzedawców z urzędu opublikowanej przez Prezesa URE zgodnie z art. 10 ust. 1. W przypadku braku opublikowania przez Prezesa URE ceny, o której mowa w zdaniu pierwszym, cena energii elektrycznej, o której mowa w ust. 10 pkt 1 lub 2, nie może być wyższa niż 60 % średniej ceny energii elektrycznej wynikającej z taryf zatwierdzonych na 2023 r. przez Prezesa URE dla sprzedawców z urzędu opublikowanej przez Prezesa URE zgodnie z art. 10 ust. 1.
-
-12. W przypadku gdy cena energii elektrycznej w kolejnej zatwierdzonej taryfie jest niższa niż w taryfie dotychczas obowiązującej, do ustalenia wysokości rekompensat, o których mowa w ust. 2–4, jako cenę energii elektrycznej wynikającą z taryfy zatwierdzonej przez Prezesa URE na 2024 r., przyjmuje się – od dnia zakończenia obowiązywania dotychczasowej taryfy – cenę z kolejnej zatwierdzonej taryfy.
-
-13. W przypadku, o którym mowa w art. 7a, rekompensata nie przysługuje.
-
 **Art. 13.**
 
-1. Rekompensata, o której mowa w art. 12 ust. 1 oraz art. 12a ust. 1, przysługuje za każdy miesiąc kalendarzowy od dnia rozpoczęcia stosowania przez podmiot uprawniony w rozliczeniach z odbiorcami uprawnionymi odpowiednio cen energii elektrycznej, o których mowa w art. 3–6, albo stawek opłat, o których mowa w art. 7.
+1. Rekompensata, o której mowa w art. 12 ust. 1, przysługuje za każdy miesiąc kalendarzowy od dnia rozpoczęcia stosowania przez podmiot uprawniony w rozliczeniach z odbiorcami uprawnionymi odpowiednio cen energii elektrycznej, o których mowa w art. 3 ust. 1, art. 4 ust. 1, art. 5 ust. 1 i art. 6 ust. 1, albo stawek opłat, o których mowa w art. 7 ust. 1.
 
-2. W każdym przypadku, gdy ceny energii elektrycznej, o których mowa w art. 3–6, albo stawki opłat, o których mowa w art. 7, były stosowane do wyliczenia kosztu energii elektrycznej zużytej lub kosztu świadczonej usługi dystrybucji energii elektrycznej w danym punkcie poboru energii elektrycznej przez niepełny miesiąc kalendarzowy, i w przypadku braku danych dobowych stosuje się proporcję liczby dni stosowania ceny do liczby dni w danym miesiącu.
+2. W każdym przypadku, gdy ceny energii elektrycznej, o których mowa w art. 3 ust. 1, art. 4 ust. 1, art. 5 ust. 1 oraz art. 6 ust. 1, albo stawki opłat, o których mowa w art. 7 ust. 1, były stosowane do wyliczenia kosztu energii elektrycznej zużytej lub kosztu świadczonej usługi dystrybucji energii elektrycznej w danym punkcie poboru energii elektrycznej przez niepełny miesiąc kalendarzowy, i w przypadku braku danych dobowych stosuje się proporcję liczby dni stosowania ceny do liczby dni w danym miesiącu.
 
 3. Podmioty uprawnione zamieszczają na swojej stronie internetowej również informacje o stosowanych w rozliczeniach z odbiorcami uprawnionymi cenach energii elektrycznej albo stawkach opłat, o których mowa w ust. 2.
 
 4. W każdym przypadku braku danych dobowych, gdy odczyt układu pomiarowego nastąpi po dniu 31 grudnia 2022 r., do ustalenia ilości zużytej energii w okresie od dnia 1 stycznia 2023 r. do dnia najbliższego odczytu układu pomiarowego stosuje się proporcję liczby dni w tym okresie do liczby dni od ostatniego odczytu w 2022 r.
-
-5. W każdym przypadku braku danych dobowych, gdy odczyt układu pomiarowego nastąpi po dniu 31 grudnia 2023 r., do ustalenia ilości zużytej energii w okresie od dnia 1 stycznia 2024 r. do dnia najbliższego odczytu układu pomiarowego stosuje się proporcję liczby dni w tym okresie do liczby dni od ostatniego odczytu w 2023 r.
 
 **Art. 14.**
 
@@ -330,7 +256,7 @@ Art. 39‒51. (pominięte)
 7. Druga rata zaliczki przysługuje:
 
 - **1)** podmiotom uprawnionym, o których mowa w art. 3 ust. 1, art. 4 ust. 1, art. 5 ust. 1 i art. 6 ust. 1 – w kwocie stanowiącej iloczyn energii elektrycznej sprzedanej przez podmiot uprawniony odbiorcom uprawnionym w miesiącu lutym 2022 r. i różnicy między ceną energii elektrycznej dla odbiorcy uprawnionego kupującego energię elektryczną jednostrefowo wynikającą z zatwierdzonej taryfy na 2023 r. i 2022 r. dla sprzedawcy zobowiązanego wyznaczonego zgodnie z art. 40 ust. 3 pkt 2 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii;
-- **2)** podmiotowi uprawnionemu, o którym mowa w art. 7 ust. 1 – w kwocie stanowiącej różnicę w wysokości opłat za usługi dystrybucji energii elektrycznej wynikających ze stawek opłat taryfy dla usług dystrybucji energii elektrycznej zatwierdzonej na 2023 r. a wysokością opłat za usługi dystrybucji energii elektrycznej wynikających ze stawek opłat taryfy dla usług dystrybucji energii elektrycznej zatwierdzonej na 2022 r., obliczonych na podstawie nośników stanowiących podstawę wyliczenia opłat za usługi dystrybucji energii elektrycznej odbiorcom uprawnionym w miesiącu lutym 2022 r. dla każdej grupy taryfowej.
+- **2)** podmiotowi uprawnionemu, o którym mowa w art. 7 ust. 1 – w kwocie stanowiącej różnicę w wysokości opłat za usługi dystrybucji energii elektrycznej wynikających ze stawek opłat taryfy dla usług dystrybucji energii elektrycznej zatwierdzonej na 2023 r. a wysokością opłat za usługi dystrybucji energii elektrycznej wynikających ze stawek opłat taryfy dla usług dystrybucji energii elektrycznej zatwierdzonej na 2022 r., obliczonych na podstawie nośników stanowiących podstawę wyliczenia opłat za usługi dystrybucji energii elektrycznej odbiorcom uprawnionym w miesiącu styczniu 2022 r. dla każdej grupy taryfowej.
 
 8. Wniosek o wypłatę raty zaliczki zawiera:
 
@@ -338,7 +264,7 @@ Art. 39‒51. (pominięte)
 - **2)** numer identyfikacji podatkowej (NIP) podmiotu uprawnionego;
 - **3)** adres poczty elektronicznej podmiotu uprawnionego;
 - **4)** wnioskowaną wysokość raty zaliczki;
-- **5)** oświadczenie o ilości energii elektrycznej sprzedanej odbiorcom uprawnionym odpowiednio w styczniu albo lutym 2022 r. podpisane przez osoby uprawnione do reprezentacji podmiotu uprawnionego, o którym mowa w art. 3 ust. 1, art. 4 ust. 2, art. 5 ust. 1 i art. 6 ust. 1, a w przypadku podmiotu, o którym mowa w art. 7 ust. 1, oświadczenie o ilości energii elektrycznej dostarczonej odbiorcom uprawnionym odpowiednio w tych miesiącach;
+- **5)** oświadczenie o ilości energii elektrycznej sprzedanej odbiorcom uprawnionym odpowiednio w styczniu albo lutym 2022 r. podpisane przez osoby uprawnione do reprezentacji podmiotu uprawnionego,
 - **6)** numer rachunku bankowego, na który ma zostać dokonana wypłata rekompensaty;
 - **7)** inne informacje niezbędne do obliczenia i wypłaty raty zaliczki.
 
@@ -346,19 +272,15 @@ Art. 39‒51. (pominięte)
 
 10. Druga rata zaliczki rozliczana jest z wnioskiem o rekompensatę składanym za miesiąc październik 2023 r. poprzez pomniejszenie kwoty rekompensaty za październik 2023 r.
 
-11. W przypadku gdy w wyniku pomniejszenia rekompensaty wystąpi kwota do zwrotu, jest ona zwracana przez podmiot uprawniony na wyodrębniony rachunek bankowy, zwany dalej „rachunkiem rekompensaty energii elektrycznej”, w terminie 14 dni od dnia otrzymania pisemnej informacji od zarządcy rozliczeń o kwocie zwrotu.
+11. W przypadku gdy w wyniku pomniejszenia rekompensaty wystąpi kwota do zwrotu, jest ona zwracana przez podmiot uprawniony na rachunek Funduszu Przeciwdziałania COVID-19, o którym mowa w art. 65 ust. 1 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.), zwanego dalej „Funduszem”, w terminie 14 dni od dnia otrzymania pisemnej informacji od zarządcy rozliczeń o kwocie zwrotu.
 
 12. Do rozpatrywania wniosku o wypłatę raty zaliczki stosuje się odpowiednio przepisy art. 17–26.
 
 **Art. 15.**
 
-1. W przypadku gdy poziom zużycia energii elektrycznej przez odbiorcę uprawnionego w okresie od dnia 1 października 2022 r. do dnia 31 grudnia 2023 r. w punkcie poboru energii wynosił nie więcej niż 90 % zużycia w stosunku do poziomu zużycia energii elektrycznej przez tego odbiorcę w okresie od dnia 1 października 2021 r. do dnia 31 grudnia 2022 r., podmiot uprawniony, będący sprzedawcą energii elektrycznej na rzecz odbiorcy uprawnionego w dniu 31 grudnia 2023 r. niezależnie od tego czy posiada zawartą z tym odbiorcą umowę sprzedaży energii elektrycznej lub umowę kompleksową lub podmiot uprawniony, o którym mowa w art. 7 ust. 1, w zakresie usługi dystrybucji energii elektrycznej świadczonych na podstawie umów o świadczenie usług dystrybucji energii elektrycznej, w 2024 r. stosuje wobec odbiorcy uprawnionego upust.
+1. W przypadku gdy poziom zużycia energii elektrycznej przez odbiorcę uprawnionego w okresie od dnia 1 października 2022 r. do dnia 31 grudnia 2023 r. w punkcie poboru energii wynosił nie więcej niż 90% zużycia w stosunku do poziomu zużycia energii elektrycznej przez tego odbiorcę w okresie od dnia 1 października 2021 r. do dnia 31 grudnia 2022 r., podmiot uprawniony w rozliczeniach z tym odbiorcą w 2024 r. stosuje upust.
 
-1a. W przypadku gdy podmiot uprawniony ma zawartą jedną z umów, o których mowa w ust. 1, z odbiorcą uprawnionym, zastosowanie upustu następuje przez obniżenie należności z pierwszej faktury za 2024 r. lub kolejnych faktur. W przypadku rozwiązania umowy z dniem 31 grudnia 2023 r. lub później, upust jest przekazywany jednorazowo na rachunek wskazany przez odbiorcę uprawnionego w terminie 14 dni od dnia otrzymania przez podmiot uprawniony informacji o rachunku płatniczym odbiorcy. Podmiot uprawniony wzywa odbiorcę uprawnionego do udostępnienia numeru rachunku w terminie 30 dni od dnia wejścia w życie ustawy z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego (Dz. U. poz. 859) lub nie później niż na 30 dni przed rozwiązaniem umowy, wskazując 14-dniowy termin na podanie rachunku płatniczego przez odbiorcę uprawnionego.
-
-1b. W przypadku odbiorcy uprawnionego, o którym mowa w ust. 1, będącego jednocześnie prosumentem energii odnawialnej w rozumieniu art. 2 pkt 27a ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, przez zużycie energii elektrycznej należy rozumieć pobór energii elektrycznej z sieci przed sumarycznym bilansowaniem, o którym mowa w art. 4 ust. 2a tej ustawy.
-
-2. Kwotę upustu stanowi równowartość 10 % łącznej kwoty brutto rozliczenia sprzedaży energii elektrycznej oraz usługi dystrybucji energii elektrycznej poniesionej przez odbiorcę uprawnionego w okresie od dnia 1 października 2022 r. do dnia 31 grudnia 2023 r.
+2. Kwotę upustu stanowi równowartość 10% łącznej kwoty rozliczenia sprzedaży energii elektrycznej oraz usługi dystrybucji energii elektrycznej poniesionej przez odbiorcę uprawnionego w okresie od dnia 1 października 2022 r. do dnia 31 grudnia 2023 r.
 
 3. Rekompensatę dla podmiotu uprawnionego stanowi kwota upustu.
 
@@ -366,47 +288,31 @@ Art. 39‒51. (pominięte)
 
 5. W rozliczeniach między przedsiębiorstwem energetycznym, o którym mowa w art. 7 ust. 1, a Zarządcą Rozliczeń S.A., o którym mowa w rozdziale 7 ustawy z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej (Dz. U. z 2022 r. poz. 311), zwanym dalej „zarządcą rozliczeń”, przepisy art. 17–26 stosuje się odpowiednio.
 
-6. W przypadku gdy podmiot uprawniony nie dysponuje danymi umożliwiającymi określenie poziomu zużycia energii elektrycznej, o którym mowa w ust. 1, dane te są udostępniane podmiotowi uprawnionemu przez przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie dystrybucji energii elektrycznej, do sieci którego odbiorca uprawniony jest przyłączony, w terminie 14 dni od dnia zgłoszenia zapotrzebowania przez przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną, pod warunkiem uprzedniego złożenia przez odbiorcę uprawnionego oświadczenia, o którym mowa w ust. 7.
-
-7. Odbiorca uprawniony, w terminie 30 dni od dnia otrzymania informacji od podmiotu uprawnionego o braku dysponowania danymi umożliwiającymi określenie poziomu zużycia energii elektrycznej, jest uprawniony do złożenia oświadczenia o akceptacji udostępnienia podmiotowi uprawnionemu danych w trybie określonym w ust. 6. Do oświadczenia stosuje się przepisy art. 9 ust. 6–8. Niezłożenie przez odbiorcę uprawnionego oświadczenia uprawnia podmiot uprawniony do niestosowania wobec tego odbiorcy upustu.
-
-8. W przypadku gdy odbiorca uprawniony w danym punkcie poboru energii, w okresie od dnia 1 października 2022 r. do dnia 31 grudnia 2023 r. nabywał energię elektryczną od więcej niż jednego sprzedawcy energii elektrycznej, w terminie miesiąca od dnia wejścia w życie ustawy z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego składa podmiotowi uprawnionemu, o którym mowa w ust. 1, oświadczenie o łącznej kwocie rozliczenia sprzedaży energii elektrycznej oraz usługi dystrybucji energii elektrycznej poniesionej w danym punkcie poboru i w tym okresie wobec sprzedawców energii elektrycznej innych niż podmiot uprawniony. Do oświadczenia składanego przez odbiorcę uprawnionego stosuje się przepisy art. 9 ust. 6–8.
-
-9. Oświadczenie odbiorcy uprawnionego, o którym mowa w ust. 8, jest składane pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Odbiorca uprawniony jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia, wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
-
-10. Niezłożenie przez odbiorcę uprawnionego oświadczenia, o którym mowa w ust. 8, w terminie wskazanym w ust. 8 i z klauzulą, o której mowa w ust. 9, uprawnia podmiot uprawniony do obliczenia kwoty upustu na podstawie łącznej kwoty rozliczenia sprzedaży energii elektrycznej dokonanej wyłącznie przez podmiot uprawniony.
-
 **Art. 16.**
 
 1. Ceny energii elektrycznej podaje się w złotych za kWh z dokładnością do czterech miejsc po przecinku. Cenę energii elektrycznej zaokrągla się powyżej czterech miejsc po przecinku w górę.
 
-2. Kwoty rekompensat, o których mowa w art. 12 i art. 12a, nie stanowią dotacji, subwencji i innych dopłat o podobnym charakterze, o których mowa w art. 29a ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2024 r. poz. 361 i 852).
+2. Kwoty rekompensat, o których mowa w art. 12, nie stanowią dotacji, subwencji i innych dopłat o podobnym charakterze, o których mowa w art. 29a ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, 974, 1137, 1301, 1488 i 1561).
 
-3. Cena energii elektrycznej nie zawiera podatku od towarów i usług, o którym mowa w ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług, oraz podatku akcyzowego, o którym mowa w ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2023 r. poz. 1542, 1598 i 1723).
+3. Cena energii elektrycznej nie zawiera podatku od towarów i usług, o którym mowa w ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług, oraz podatku akcyzowego, o którym mowa w ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2022 r. poz. 143, 1137, 1488 i 1967).
 
 4. Rekompensata stanowi przychód przedsiębiorstwa energetycznego ze sprzedaży energii elektrycznej lub usług.
 
 **Art. 17.**
 
-1. Rekompensata, o której mowa w art. 12 ust. 1 i art. 12a ust. 1, jest wypłacana za każdy miesiąc na wniosek podmiotu uprawnionego.
+1. Rekompensata, o której mowa w art. 12 ust. 1, jest wypłacana za każdy miesiąc na wniosek podmiotu uprawnionego.
 
-2. Wysokość rekompensaty, o której mowa w art. 12 ust. 1 i art. 12a ust. 1, za dany miesiąc rozliczeniowy oblicza podmiot uprawniony.
+2. Wysokość rekompensaty, o której mowa w art. 12 ust. 1, za dany miesiąc rozliczeniowy oblicza podmiot uprawniony.
 
-3. Podmiotem odpowiedzialnym za rozpatrywanie wniosków o wypłatę rekompensaty, o której mowa w art. 12 ust. 1 i art. 12a ust. 1, składanych przez podmioty uprawnione oraz jej wypłatę jest zarządca rozliczeń.
+3. Podmiotem odpowiedzialnym za rozpatrywanie wniosków o wypłatę rekompensaty, o której mowa w art. 12 ust. 1, składanych przez podmioty uprawnione oraz jej wypłatę jest zarządca rozliczeń.
 
 4. Zarządca rozliczeń weryfikuje wniosek o wypłatę rekompensaty pod względem jej wysokości, prawidłowości dokonanych obliczeń i kompletności wymaganych dokumentów i prawidłowego reprezentowania na podstawie podanych we wniosku danych i dokumentów, w tym dowodów potwierdzających uprawnienie do reprezentowania.
 
-5. Wraz z wnioskiem o wypłatę rekompensaty podmiot uprawniony składa oświadczenie o dokonaniu rozliczeń z odbiorcami uprawnionymi, o następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oświadczam, że ceny energii elektrycznej lub stawki opłat, za okres objęty wnioskiem o wypłatę rekompensaty, stosowane względem odbiorców uprawnionych, o których mowa w ustawie z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej (Dz. U. z 2024 r. poz. 1288), zostały zastosowane zgodnie z art. 3, art. 4, art. 5, art. 6 lub art. 7 tej ustawy.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
-
-6. Zarządca rozliczeń nie pobiera wynagrodzenia za realizację zadań wynikających z ustawy, a koszty z tym związane pokrywa w ramach kosztów działalności, o której mowa w art. 49 ust. 1 ustawy z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej.
+5. Wraz z wnioskiem o wypłatę rekompensaty podmiot uprawniony składa oświadczenie o dokonaniu rozliczeń z odbiorcami uprawnionymi, o następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oświadczam, że ceny energii elektrycznej lub stawki opłat, za okres objęty wnioskiem o wypłatę rekompensaty, stosowane względem odbiorców uprawnionych, o których mowa w ustawie z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku w związku z sytuacją na rynku energii elektrycznej (Dz. U. poz. 2127), zostały zastosowane zgodnie z art. 3 ust. 1, art. 4 ust. 1, art. 5 ust. 1, art. 6 ust. 1 lub art. 7 ust. 1 tej ustawy.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
 **Art. 18.**
 
-1. Wniosek o wypłatę rekompensaty składa się do zarządcy rozliczeń do
-
-25. dnia każdego miesiąca następującego po danym miesięcznym okresie rozliczeniowym, z wyjątkiem wniosku o wypłatę rekompensaty za styczeń 2024 r., który składa się w terminie do dnia 15 marca 2024 r., nie wcześniej jednak niż do dnia 15 lutego 2024 r. Termin przypadający w dzień wolny od pracy przypada w pierwszy dzień roboczy po tym terminie. W przypadku złożenia wniosku z niedochowaniem terminu wniosek pozostawia się bez rozpoznania.
-
-1a. W przypadkach, o których mowa w art. 12a ust. 6 i 7, we wniosku o wypłatę rekompensaty składanym odpowiednio po zatwierdzeniu taryfy albo opublikowaniu przez Prezesa URE zgodnie z art. 10 ust. 1 średniej ceny energii elektrycznej wynikającej z taryf zatwierdzonych na 2024 r. dla sprzedawców z urzędu, podmiot uprawniony dokonuje rozliczenia różnicy między kwotami rekompensat ustalonymi odpowiednio zgodnie z art. 12a ust. 2, 3, 4 albo 5 a faktycznie wypłaconymi zgodnie z art. 12a ust. 6 lub 7 kwotami tymczasowej rekompensaty.
+1. Wniosek o wypłatę rekompensaty składa się do zarządcy rozliczeń do 25. dnia każdego miesiąca następującego po danym miesięcznym okresie rozliczeniowym. Termin przypadający w dzień wolny od pracy przypada w pierwszy dzień roboczy po tym terminie. W przypadku złożenia wniosku z niedochowaniem terminu wniosek pozostawia się bez rozpoznania.
 
 2. W przypadku pozytywnej weryfikacji wniosku o wypłatę rekompensaty zarządca rozliczeń zatwierdza wniosek i dokonuje wypłaty rekompensaty w terminie 30 dni od dnia otrzymania prawidłowo sporządzonego wniosku, z uwzględnieniem ust. 3. Zatwierdzenie wniosku o wypłatę rekompensaty nie wymaga wydania decyzji administracyjnej.
 
@@ -416,50 +322,49 @@ Art. 39‒51. (pominięte)
 
 5. W przypadku nieusunięcia braków formalnych lub błędów obliczeniowych zawartych we wniosku o wypłatę rekompensaty lub wątpliwości zarządcy rozliczeń w terminie 7 dni od dnia otrzymania wezwania do ich usunięcia zarządca rozliczeń odmawia zatwierdzenia wniosku o wypłatę rekompensaty w zakresie, w jakim kwota rekompensaty budzi wątpliwości lub nie przysługuje, informując podmiot uprawniony o przyczynie tej odmowy. Odmowa zatwierdzenia wniosku o wypłatę rekompensaty nie wymaga wydania decyzji administracyjnej.
 
-6. Odmowa, o której mowa w ust. 4 i 5, nie pozbawia podmiotu uprawnionego możliwości ponownego złożenia wniosku o wypłatę rekompensaty, z wyjątkiem gdy rekompensata nie przysługuje. Wnioski o wypłatę rekompensaty niezatwierdzone przed dniem złożenia wniosku o rozliczenie rekompensaty, o którym mowa w art. 19 ust. 1 lub 1a, pozostawia się bez rozpoznania. Przepisy ust. 1–5 stosuje się odpowiednio.
+6. Odmowa, o której mowa w ust. 4 i 5, nie pozbawia podmiotu uprawnionego możliwości ponownego złożenia wniosku o wypłatę rekompensaty, z wyjątkiem gdy rekompensata nie przysługuje. Wnioski o wypłatę rekompensaty niezatwierdzone przed dniem złożenia wniosku o rozliczenie rekompensaty, o którym mowa w art. 19 ust. 1, pozostawia się bez rozpoznania. Przepisy ust. 1–5 stosuje się odpowiednio.
 
-7. Jeżeli podmiot uprawniony, w okresie 12 miesięcy od dnia wypłaty rekompensaty za ostatni miesiąc 2023 r. albo 2024 r., zaprzestał wykonywania działalności gospodarczej w zakresie obrotu energią elektryczną lub dystrybucji energii elektrycznej, kwotę rekompensaty za dany rok uznaje się za pobraną nienależnie i podmiot uprawniony jest obowiązany do jej zwrotu w całości wraz z odsetkami ustawowymi za opóźnienie liczonymi od dnia otrzymania rekompensaty. W przypadku gdy nie zostanie dokonany zwrot, zarządca rozliczeń wzywa ten podmiot do zwrotu nienależnie otrzymanych środków w terminie 14 dni od dnia otrzymania wezwania, a w przypadku zaniechania zwrotu środków, zarządca rozliczeń wydaje decyzję administracyjną określającą wysokość nienależnie pobranej kwoty podlegającej zwrotowi oraz termin dokonania tego zwrotu. Od nienależnie pobranej kwoty rekompensaty są naliczane odsetki ustawowe za opóźnienie od dnia jej otrzymania.
+7. Jeżeli podmiot uprawniony, w okresie 12 miesięcy od dnia wypłaty rekompensaty za ostatni miesiąc, zaprzestał wykonywania działalności gospodarczej w zakresie obrotu energią elektryczną lub dystrybucji energii elektrycznej, kwotę rekompensaty uznaje się za pobraną nienależnie i podmiot uprawniony jest obowiązany do jej zwrotu w całości wraz z odsetkami ustawowymi za opóźnienie liczonymi od dnia otrzymania rekompensaty. W przypadku gdy nie zostanie dokonany zwrot, zarządca rozliczeń wzywa ten podmiot do zwrotu nienależnie otrzymanych środków w terminie 14 dni od dnia otrzymania wezwania, a w przypadku zaniechania zwrotu środków, zarządca rozliczeń wydaje decyzję administracyjną określającą wysokość nienależnie pobranej kwoty podlegającej zwrotowi oraz termin dokonania tego zwrotu. Od nienależnie pobranej kwoty rekompensaty są naliczane odsetki ustawowe za opóźnienie od dnia jej otrzymania.
 
-8. Podmiot uprawniony jest obowiązany do przechowywania dokumentacji związanej z wnioskowaną rekompensatą przez 5 lat kalendarzowych począwszy od dnia, w którym została wypłacona lub zwrócona kwota wynikająca z wniosku o rozliczenie rekompensaty, o którym mowa odpowiednio w art. 19 ust. 1 lub 1a.
+8. Podmiot uprawniony jest obowiązany do przechowywania dokumentacji związanej z wnioskowaną rekompensatą przez 5 lat kalendarzowych począwszy od dnia, w którym została wypłacona lub zwrócona kwota wynikająca z wniosku o rozliczenie rekompensaty, o którym mowa w art. 18 ust. 1.
 
 **Art. 19.**
 
-1. Wniosek o rozliczenie rekompensaty za 2023 r. podmiot uprawniony składa do zarządcy rozliczeń od dnia 30 kwietnia 2024 r. do dnia 31 października 2024 r., z wyłączeniem rekompensaty, o której mowa w art. 15 ust. 3, której wniosek o rozliczenie składa się w terminie od dnia:
+1. Wniosek o rozliczenie rekompensaty podmiot uprawniony składa do zarządcy rozliczeń do dnia 30 kwietnia 2024 r., z wyłączeniem rekompensaty, o której mowa w art. 15 ust. 3, której wniosek o rozliczenie składa się:
 
-- **1)** 1 sierpnia 2024 r. do dnia 30 listopada 2024 r. – w przypadku odbiorców uprawnionych, którym udzielono upustu do dnia 30 czerwca 2024 r.;
-- **2)** 1 stycznia 2025 r. do dnia 31 stycznia 2025 r. – w przypadku odbiorców uprawnionych, którym udzielono upustu do dnia 31 grudnia 2024 r.
-
-1a. Wniosek o rozliczenie rekompensaty za okres od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r. podmiot uprawniony składa do zarządcy rozliczeń w terminie od dnia 31 października 2024 r. do dnia 30 kwietnia 2025 r.
-
-1b. W przypadkach, o których mowa w art. 12a ust. 6 i 7, do rozliczenia rekompensaty stosuje się ceny ustalone odpowiednio zgodnie z art. 12a ust. 2, 3, 4 albo
-
-5.
-
-1c. W przypadku niezatwierdzenia taryfy do dnia 30 września 2024 r. obejmującej okres co najmniej od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r. dla podmiotu, o którym mowa w art. 5 ust. 1, do rozliczenia rekompensaty stosuje się ceny ustalone zgodnie z art. 12a ust. 5.
+- **1)** w terminie do dnia 31 lipca 2024 r. – w przypadku odbiorców uprawnionych, których rozliczenie roczne za 2023 r. nastąpiło do dnia 30 czerwca 2024 r.;
+- **2)** w terminie do 31 stycznia 2025 r. – w przypadku odbiorców uprawnionych, których rozliczenie roczne za 2023 r. nastąpiło do dnia 31 grudnia 2024 r.
 
 2. Zarządca rozliczeń dokonuje weryfikacji rekompensat należnych podmiotowi uprawnionemu na podstawie wniosku o rozliczenie rekompensaty i niezwłocznie informuje o jej wynikach Prezesa URE.
 
-2a. W przypadku gdy wniosek o rozliczenie rekompensaty zawiera braki formalne lub błędy obliczeniowe lub budzi uzasadnione wątpliwości zarządcy rozliczeń co do zgodności ze stanem rzeczywistym, zarządca rozliczeń wzywa podmiot uprawniony do usunięcia braków formalnych lub błędów obliczeniowych lub usunięcia wątpliwości w terminie 21 dni od dnia otrzymania wezwania do ich usunięcia.
-
-2b. W zakresie, w jakim kwota rekompensaty nie budzi wątpliwości, kwota ta jest wypłacana przez zarządcę rozliczeń w terminie 30 dni od dnia otrzymania prawidłowo sporządzonego wniosku o rozliczenie rekompensaty. Zatwierdzenie wniosku o rozliczenie rekompensaty nie wymaga wydania decyzji administracyjnej.
-
-3. W przypadku niezłożenia wniosku o rozliczenie rekompensaty w terminach, o których mowa odpowiednio w ust. 1 lub 1a, lub w przypadku niezłożenia kolejnego wniosku w terminie 21 dni od dnia otrzymania odmowy zatwierdzenia wniosku, wypłaconą rekompensatę uznaje się za otrzymaną nienależnie i podmiot uprawniony jest obowiązany do jej zwrotu w całości wraz z odsetkami ustawowymi za opóźnienie liczonymi od dnia otrzymania rekompensaty.
+3. W przypadku niezłożenia wniosku o rozliczenie rekompensaty w terminie, o którym mowa w ust. 1, wypłaconą rekompensatę uznaje się za otrzymaną nienależnie i podmiot uprawniony jest obowiązany do jej zwrotu w całości wraz z odsetkami ustawowymi za opóźnienie liczonymi od daty otrzymania rekompensaty.
 
 4. Jeżeli z wniosku o rozliczenie rekompensaty wynika zwrot kwoty nadpłaconej rekompensaty, uznaje się ją za otrzymaną nienależnie i podmiot uprawniony zwraca ją w terminie 14 dni od dnia zatwierdzenia wniosku przez zarządcę rozliczeń.
-
-4a. Jeżeli z wniosku o rozliczenie rekompensaty wynika, że rekompensata wypłacona została w zaniżonej wysokości, zarządca rozliczeń wypłaca brakującą część rekompensaty w terminie 30 dni od dnia zatwierdzenia wniosku o rozliczenie rekompensaty.
 
 5. W przypadku gdy podmiot uprawniony nie zwrócił nienależnie otrzymanej rekompensaty zarządca rozliczeń wzywa ten podmiot do jej zwrotu w terminie 14 dni od dnia otrzymania wezwania.
 
 6. W przypadku gdy podmiot uprawniony nie dokona zwrotu rekompensaty zgodnie z ust. 5, zarządca rozliczeń wydaje decyzję administracyjną określającą wysokość nienależnie pobranej kwoty rekompensaty podlegającej zwrotowi oraz termin dokonania tego zwrotu. Od nienależnie pobranej kwoty rekompensaty nalicza się odsetki ustawowe za opóźnienie od dnia jej otrzymania.
 
-7. Przepisy art. 16 ust. 3, art. 18 ust. 2 i 4–8 oraz art. 20 stosuje się odpowiednio do wniosków o rozliczenie rekompensaty.
+7. Przepis art. 16 ust. 3, art. 18 ust. 2–8, art. 20 stosuje się odpowiednio do wniosków o rozliczenie rekompensaty.
 
 **Art. 20.** Wniosek o wypłatę rekompensaty oraz wniosek o rozliczenie rekompensaty zawiera:
 
-**Art. 21.** Środki wypłacone z tytułu rekompensat, o których mowa w art. 12 ust. 1, art. 12a ust. 1 oraz art. 15 ust. 3, zalicza się do kategorii drugiej należności podlegających zaspokojeniu z funduszów masy upadłości, o której mowa w art. 342 ust. 1 pkt 2 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2024 r. poz. 794 i 1222).
+- **1)** oznaczenie podmiotu, do którego jest kierowany wniosek;
+- **2)** oznaczenie podmiotu uprawnionego i jego siedziby;
+- **3)** numer identyfikacji podatkowej (NIP) podmiotu uprawnionego;
+- **4)** adres poczty elektronicznej podmiotu uprawnionego;
+- **5)** dla każdego punktu poboru energii: ilość energii elektrycznej, cenę energii elektrycznej albo stawki opłat z taryfy, o których mowa w art. 7 ust. 1, cenę energii elektrycznej zgodnie z odpowiednio art. 3 ust. 1, art. 4 ust. 1, art. 5 ust. 1, art. 6 ust. 1 lub stawki opłat, o których mowa w art. 7 ust. 1, PESEL odbiorcy uprawnionego – w przypadku odbiorcy uprawnionego, o którym mowa w art. 3 ust. 1 pkt 1–3, art. 4 ust. 2 pkt 1–3, art. 5 ust. 1 pkt 1–3, art. 6 ust. 1 pkt 1–3 lub art. 7 ust. 1 pkt 1–3, rodzaj odbiorcy uprawnionego – w przypadku odbiorcy uprawnionego, o którym mowa w art. 3 ust. 1, art. 4 ust. 2, art. 5 ust. 1, art. 6 ust. 1 lub art. 7 ust. 1;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
-**Art. 21a.** (uchylony)
+- **6)** wnioskowaną wysokość rekompensaty – w przypadku wniosku o wypłatę rekompensaty;
+- **7)** numer rachunku bankowego, na który ma zostać dokonana wypłata rekompensaty;
+- **8)** inne informacje niezbędne do obliczenia i wypłaty rekompensaty lub rozliczenia rekompensaty.
+
+**Art. 21.** Środki wypłacone z tytułu rekompensat, o których mowa w art. 12 ust. 1 oraz art. 15 ust. 3, zalicza się do kategorii drugiej należności podlegających zaspokojeniu z funduszów masy upadłości, o której mowa w art. 342 ust. 1 pkt 2 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2022 r. poz. 1520).
 
 **Art. 22.**
 
@@ -471,9 +376,9 @@ Art. 39‒51. (pominięte)
 
 **Art. 23.**
 
-1. Rekompensata, o której mowa w art. 12 oraz art. 12a, jest wypłacana przez zarządcę rozliczeń.
+1. Rekompensata, o której mowa w art. 12, jest wypłacana przez zarządcę rozliczeń.
 
-2. Zarządca rozliczeń otrzymuje środki na wypłatę rekompensat z Funduszu Przeciwdziałania COVID-19, o którym mowa w art. 65 ust. 1 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm. ), zwanego dalej „Funduszem”, w ramach limitu określonego na ten cel w planie finansowym Funduszu na rachunek rekompensaty energii elektrycznej.
+2. Zarządca rozliczeń otrzymuje środki na realizację wypłat rekompensat z Funduszu w ramach limitu określonego na ten cel w planie finansowym Funduszu na wyodrębniony rachunek bankowy, zwany dalej „rachunkiem rekompensaty energii elektrycznej”.
 
 3. Wniosek o przekazanie środków na wypłaty rekompensat dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 1, art. 4 ust. 1, art. 5 ust. 1, art. 6 ust. 1 oraz art. 7 ust. 1, zarządca rozliczeń składa co kwartał do ministra właściwego do spraw energii, określając łączną wysokość wnioskowanej kwoty i numer rachunku rekompensaty energii elektrycznej.
 
@@ -485,7 +390,7 @@ Art. 39‒51. (pominięte)
 
 7. Zarządca rozliczeń przedstawia ministrowi właściwemu do spraw energii zbiorcze rozliczenie środków oraz przekazuje niewykorzystane środki do Funduszu w terminie do dnia 31 grudnia 2025 r.
 
-8. Środki uzyskane z Funduszu oraz odsetki od środków zgromadzonych na rachunku rekompensaty energii elektrycznej nie stanowią przychodu zarządcy rozliczeń w rozumieniu ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2023 r. poz. 2805 oraz z 2024 r. poz. 232, 854 i 1222).
+8. Środki uzyskane z Funduszu oraz odsetki od środków zgromadzonych na rachunku rekompensaty energii elektrycznej nie stanowią przychodu zarządcy rozliczeń w rozumieniu ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2021 r. poz. 1800, z późn. zm.).
 
 9. Zarządca rozliczeń przeznacza całość odsetek od środków zgromadzonych na rachunku rekompensaty energii elektrycznej na wypłatę rekompensat. Niewydatkowane środki podlegają zwrotowi do Funduszu.
 
@@ -495,27 +400,27 @@ Art. 39‒51. (pominięte)
 
 **Art. 24.**
 
-1. W przypadku braku środków na wypłatę rekompensat zarządca rozliczeń wstrzymuje wypłatę do czasu zapewnienia środków na ten cel. Za okres wstrzymania wypłaty nie nalicza się odsetek za opóźnienie.
+1. W przypadku braku środków na wypłatę rekompensat zarządca rozliczeń wstrzymuje wypłatę do czasu zapewnienia środków na ten cel.
 
 2. O wypłaconych podmiotowi uprawnionemu kwotach rekompensat zarządca rozliczeń, w terminie 7 dni od dnia dokonania wypłaty informuje Prezesa URE.
 
 **Art. 25.**
 
-1. Zarządca rozliczeń może żądać od podmiotu uprawnionego przedłożenia dokumentów lub informacji uzasadniających wysokość wypłaconej rekompensaty do dnia 31 grudnia 2027 r.
+1. Zarządca rozliczeń może żądać od podmiotu uprawnionego przedłożenia dokumentów lub informacji uzasadniających wysokość wypłaconej rekompensaty do dnia 31 grudnia 2025 r.
 
 2. Jeżeli podmiot uprawniony nie przedłożył dokumentów lub informacji uzasadniających wysokość wypłaconej rekompensaty lub z dokumentów i informacji wynika, że całość lub część wysokości kwoty rekompensaty została wypłacona nienależnie, zarządca rozliczeń wzywa tego przedsiębiorcę do jej zwrotu w terminie 14 dni od dnia otrzymania wezwania wraz z odsetkami ustawowymi za opóźnienie od dnia otrzymania rekompensaty.
 
 3. W przypadku gdy podmiot uprawniony nie dokona zwrotu rekompensaty zgodnie z ust. 2, zarządca rozliczeń wydaje decyzję administracyjną określającą wysokość nienależnie pobranej kwoty rekompensaty podlegającej zwrotowi oraz termin dokonania tego zwrotu. Od nienależnie pobranej kwoty rekompensaty nalicza się odsetki ustawowe za opóźnienie od dnia jej otrzymania.
 
-4. W sprawach decyzji administracyjnych wydawanych przez zarządcę rozliczeń, o których mowa w art. 18 ust. 7, art. 19 ust. 6 oraz art. 25 ust. 3, organem wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) w stosunku do zarządcy rozliczeń jest minister właściwy do spraw energii.
+4. W sprawach decyzji administracyjnych wydawanych przez zarządcę rozliczeń, o których mowa w art. 18 ust. 7, art. 19 ust. 6 oraz art. 25 ust. 3, organem wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2022 r. poz. 2000) w stosunku do zarządcy rozliczeń jest minister właściwy do spraw energii.
 
-**Art. 26.** Rekompensaty, o których mowa w art. 12 ust. 1 oraz art. 12a ust. 1, są finansowane z Funduszu.
+**Art. 26.** Rekompensaty, o których mowa w art. 12 ust. 1, są finansowane z Funduszu.
 
-#### Rozdział 4 Dodatek elektryczny
+#### Rozdział 4 aaaDodatek elektryczny
 
 **Art. 27.**
 
-1. Dodatek elektryczny przysługuje odbiorcy energii elektrycznej w gospodarstwie domowym w rozumieniu art. 3 pkt 13b ustawy – Prawo energetyczne, w przypadku gdy główne źródło ogrzewania gospodarstwa domowego jest zasilane energią elektryczną, i źródło to zostało zgłoszone lub wpisane do centralnej ewidencji emisyjności budynków, o której mowa w art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2023 r. poz. 2496 oraz z 2024 r. poz. 1089), do dnia 11 sierpnia 2022 r., albo po tym dniu – w przypadku głównych źródeł ogrzewania zgłoszonych lub wpisanych po raz pierwszy do centralnej ewidencji emisyjności budynków, o których mowa w art. 27g ust. 1 tej ustawy.
+1. Dodatek elektryczny przysługuje odbiorcy energii elektrycznej w gospodarstwie domowym w rozumieniu art. 3 pkt 13b ustawy – Prawo energetyczne, w przypadku gdy główne źródło ogrzewania gospodarstwa domowego jest zasilane energią elektryczną, i źródło to zostało zgłoszone lub wpisane do centralnej ewidencji emisyjności budynków, o której mowa w art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2022 r. poz. 438, 1561, 1576 i 1967), do dnia 11 sierpnia 2022 r., albo po tym dniu – w przypadku głównych źródeł ogrzewania zgłoszonych lub wpisanych po raz pierwszy do centralnej ewidencji emisyjności budynków, o których mowa w art. 27g ust. 1 tej ustawy.
 
 2. W przypadku gdy gospodarstwo domowe zamieszkuje pod adresem zamieszkania, w którym jest wykorzystywana energia elektryczna pochodząca z mikroinstalacji, w rozumieniu art. 2 pkt 19 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, która jest rozliczana zgodnie z zasadami określonymi w art. 4 tej ustawy, dodatek elektryczny nie przysługuje.
 
@@ -530,23 +435,24 @@ Art. 39‒51. (pominięte)
 
 2. W przypadku gdy wniosek o wypłatę dodatku elektrycznego złożono dla więcej niż jednego gospodarstwa domowego mających ten sam adres miejsca zamieszkania, to dodatek ten jest wypłacany wnioskodawcy, który złożył wniosek jako pierwszy. Pozostałe wnioski pozostawia się bez rozpoznania.
 
-2a. W przypadku gdy pod jednym adresem miejsca zamieszkania zamieszkuje więcej niż jedno gospodarstwo domowe, i w terminie do dnia 1 lutego 2023 r. nie jest możliwe ustalenie odrębnego adresu miejsca zamieszkania dla poszczególnych gospodarstw domowych zamieszkujących pod tym adresem w odrębnych lokalach, nie stosuje się ust. 1 i 2 do gospodarstwa domowego, którego źródłem ogrzewania jest oddzielne lub współdzielone źródło ciepła zgłoszone lub wpisane do centralnej ewidencji emisyjności budynków zgodnie z art. 27 ust. 1.
-
-2b. W przypadku, o którym mowa w ust. 2a, gospodarstwu domowemu, które zajmuje lokal, dla którego nie było możliwe ustalenie odrębnego adresu, wójt, burmistrz albo prezydent przyznaje dodatek elektryczny w drodze decyzji administracyjnej, jeżeli w wyniku przeprowadzenia wywiadu środowiskowego organ ten ustalił zamieszkiwanie pod jednym adresem w odrębnych lokalach kilku gospodarstw domowych oraz wykorzystywanie przez te gospodarstwa oddzielnego lub współdzielonego źródła ogrzewania wpisanego lub zgłoszonego do centralnej ewidencji emisyjności budynków zgodnie z ust. 1.
-
-2c. W przypadku gdy w lokalu, o którym mowa w ust. 2b, zamieszkuje więcej niż jedno gospodarstwo domowe, jeden dodatek elektryczny przysługuje dla wszystkich gospodarstw domowych zamieszkujących w tym lokalu.
-
 3. W przypadku gdy wniosek o wypłatę dodatku elektrycznego dla gospodarstwa domowego wieloosobowego złożyła więcej niż jedna osoba, dodatek ten jest przyznawany wnioskodawcy, który złożył taki wniosek jako pierwszy.
 
 4. Dodatek elektryczny nie przysługuje osobie w gospodarstwie domowym, na potrzeby którego zostało zakupione paliwo stałe, po cenie i od przedsiębiorcy, o których mowa w art. 2 ust. 1 ustawy z dnia 23 czerwca 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców niektórych paliw stałych w związku z sytuacją na rynku tych paliw (Dz. U. poz. 1477 i 1692).
 
-5. Dodatek elektryczny nie przysługuje gospodarstwom domowym, objętym pozytywnie rozpatrzonym wnioskiem o wypłatę dodatku węglowego, o którym mowa w art. 2 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym (Dz. U. z 2024 r. poz. 1207).
+5. Dodatek elektryczny nie przysługuje gospodarstwom domowym, objętym pozytywnie rozpatrzonym wnioskiem o wypłatę dodatku węglowego, o którym mowa w art. 2 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym (Dz. U. poz. 1692 i 1967).
 
-6. Dodatek elektryczny nie przysługuje gospodarstwom domowym, objętym pozytywnie rozpatrzonym wnioskiem o wypłatę dodatku, o którym mowa w art. 24 ust. 1 ustawy z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw (Dz. U. z 2023 r. poz. 1772, 1693 i 2760 oraz z 2024 r. poz. 859).
+6. Dodatek elektryczny nie przysługuje gospodarstwom domowym, objętym pozytywnie rozpatrzonym wnioskiem o wypłatę dodatku, o którym mowa w art. 24 ust. 1 ustawy z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw (Dz. U. poz. 1967).
 
 7. Na potrzeby składania wniosków o wypłatę dodatku elektrycznego przyjmuje się, że jedna osoba może wchodzić w skład tylko jednego gospodarstwa domowego.
 
 **Art. 29.** Jeżeli umowy międzynarodowe nie stanowią inaczej, dodatek elektryczny przysługuje:
+
+- **1)** osobom posiadającym obywatelstwo polskie mającym miejsce zamieszkania i przebywającym na terytorium Rzeczypospolitej Polskiej;
+- **2)** cudzoziemcom mającym miejsce zamieszkania i przebywającym na terytorium Rzeczypospolitej Polskiej: na podstawie zezwolenia na pobyt stały, zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej, zezwolenia na pobyt czasowy udzielonego w związku z okolicznością, o której mowa w art. 159 ust. 1 pkt 1 lit. c lub d lub art. 186 ust. 1 pkt 3 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2021 r. poz. 2354, z późn. zm.), lub w związku z uzyskaniem w Rzeczypospolitej Polskiej statusu uchodźcy lub ochrony uzupełniającej, w związku z uzyskaniem w Rzeczypospolitej Polskiej zgody na pobyt ze względów humanitarnych lub zgody na pobyt tolerowany;
+    - **a)**
+    - **b)**
+
+- **3)** mającym miejsce zamieszkania i przebywającym na terytorium Rzeczypospolitej Polskiej obywatelom państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej oraz członkom ich rodzin w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2021 r. poz. 1697), posiadającym prawo pobytu lub prawo stałego pobytu na terytorium Rzeczypospolitej Polskiej.
 
 **Art. 30.**
 
@@ -564,17 +470,13 @@ Art. 39‒51. (pominięte)
 
 1. Wniosek o wypłatę dodatku elektrycznego składa się w gminie właściwej ze względu na miejsce zamieszkania osoby składającej ten wniosek.
 
-1a. W przypadku, o którym mowa w art. 30 ust. 2, do wniosku o wypłatę dodatku elektrycznego dołącza się rozliczenie z przedsiębiorstwem energetycznym wykonującym działalność gospodarczą w zakresie obrotu energią elektryczną lub zaświadczenie wydane przez to przedsiębiorstwo potwierdzające, że zużycie energii elektrycznej w gospodarstwie domowym w tym samym miejscu zamieszkania w 2021 r. wyniosło więcej niż 5 MWh.
-
-1b. Przedsiębiorstwo energetyczne, o którym mowa w ust. 1a, na wniosek odbiorcy, o którym mowa w art. 27 ust. 1, z którym to przedsiębiorstwo ma zawartą umowę sprzedaży energii elektrycznej, o której mowa w art. 5 ust. 2 pkt 1 ustawy – Prawo energetyczne, albo umowę kompleksową, o której mowa w art. 5 ust. 3 ustawy – Prawo energetyczne, wydaje temu odbiorcy, w terminie 10 dni roboczych od dnia złożenia wniosku, pisemne zaświadczenie o wolumenie energii elektrycznej zużytej przez tego odbiorcę w 2021 r.
-
-2. Wniosek o wypłatę dodatku elektrycznego składa się na piśmie lub za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344 oraz z 2024 r. poz. 1222).
+2. Wniosek o wypłatę dodatku elektrycznego składa się na piśmie lub za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344).
 
 3. W przypadku złożenia wniosku o wypłatę dodatku elektrycznego za pomocą środków komunikacji elektronicznej wniosek ten opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
 
-4. Minister właściwy do spraw informatyzacji może udostępnić usługę umożliwiającą złożenie wniosku o wypłatę dodatku elektrycznego za jego pośrednictwem za pomocą środków komunikacji elektronicznej, w tym przy użyciu aplikacji mObywatel.
+4. Minister właściwy do spraw informatyzacji może udostępnić usługę umożliwiającą złożenie wniosku o wypłatę dodatku elektrycznego za jego pośrednictwem za pomocą środków komunikacji elektronicznej, w tym przy użyciu publicznej aplikacji mobilnej, o której mowa w art. 19e ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
-5. Wniosek o wypłatę dodatku elektrycznego złożony przy użyciu aplikacji mObywatel opatruje się zaawansowaną pieczęcią elektroniczną ministra właściwego do spraw informatyzacji, po uwierzytelnieniu wnioskodawcy z wykorzystaniem certyfikatu podstawowego, o którym mowa w art. 2 pkt 2 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel.
+5. Wniosek o wypłatę dodatku elektrycznego złożony przy użyciu publicznej aplikacji mobilnej opatruje się zaawansowaną pieczęcią elektroniczną ministra właściwego do spraw informatyzacji, po uwierzytelnieniu wnioskodawcy z wykorzystaniem certyfikatu, o którym mowa w art. 19e ust. 2a ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, wydanego użytkownikowi publicznej aplikacji mobilnej po uwierzytelnieniu w sposób określony w art. 20a ust. 1 tej ustawy.
 
 **Art. 32.**
 
@@ -588,12 +490,6 @@ Art. 39‒51. (pominięte)
 
 5. Niewyrażenie zgody na przeprowadzenie wywiadu środowiskowego, lub uniemożliwienie jego przeprowadzenia, stanowi podstawę do odmowy przyznania dodatku elektrycznego.
 
-**Art. 32a.**
-
-1. W przypadku posiadania informacji wskazujących, że osoba, która nie złożyła wniosku o wypłatę dodatku elektrycznego, spełnia warunki jego przyznania wynikające z ustawy, wójt, burmistrz albo prezydent może przeprowadzić wywiad środowiskowy w celu ustalenia prawa do tego dodatku. W takim przypadku organ ten przyznaje dodatek w drodze decyzji administracyjnej z urzędu, bez konieczności składania wniosku oraz bez składania odpowiedniej deklaracji, dokonuje wpisu źródła ciepła do centralnej ewidencji emisyjności budynków, jeżeli źródło nie było wcześniej zgłoszone do tej ewidencji. Przepisy art. 34 stosuje się.
-
-2. Dodatek elektryczny przysługuje osobie w gospodarstwie domowym także w przypadku, gdy główne źródło ogrzewania gospodarstwa domowego, o którym mowa w art. 27 ust. 1, nie zostało zgłoszone lub wpisane do centralnej ewidencji emisyjności budynków, o której mowa w art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, do dnia 11 sierpnia 2022 r., a w wyniku przeprowadzenia wywiadu środowiskowego ustalono, że źródłem ogrzewania tego gospodarstwa jest źródło, o którym mowa w art. 27 ust. 1. Wpis do centralnej ewidencji emisyjności budynków dokonywany jest przez ten organ z urzędu bez konieczności składania odpowiedniej deklaracji.
-
 **Art. 33.**
 
 1. Przyznanie przez wójta, burmistrza albo prezydenta miasta dodatku elektrycznego nie wymaga wydania decyzji administracyjnej. Odmowa przyznania dodatku elektrycznego, uchylenie oraz rozstrzygnięcie w sprawie nienależnie pobranego dodatku elektrycznego wymagają wydania decyzji administracyjnej.
@@ -606,7 +502,7 @@ Art. 39‒51. (pominięte)
 
 **Art. 34.**
 
-1. Do postępowania w sprawie wypłaty dodatku elektrycznego przepisy art. 23 ust. 3, 12 i 13, art. 24a ust. 1 i 2, art. 25 ust. 3 i 4 oraz art. 29–30a ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2024 r. poz. 323 i 858) stosuje się odpowiednio, przy czym ilekroć w tych przepisach jest mowa o rodzinie, rozumie się przez to gospodarstwo domowe, o którym mowa w art. 27 ust. 3.
+1. Do postępowania w sprawie wypłaty dodatku elektrycznego przepisy art. 23 ust. 3, 12 i 13, art. 24a ust. 1 i 2, art. 25 ust. 3 i 4 oraz art. 29–30a ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2022 r. poz. 615 i 1265) stosuje się odpowiednio, przy czym ilekroć w tych przepisach jest mowa o rodzinie, rozumie się przez to gospodarstwo domowe, o którym mowa w art. 27 ust. 3.
 
 2. Wójt, burmistrz albo prezydent miasta może, na piśmie utrwalonym w postaci papierowej lub elektronicznej, upoważnić swojego zastępcę, pracownika urzędu gminy albo kierownika ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych (Dz. U. poz. 1818) – dyrektora centrum usług społecznych, lub kierownika innej jednostki organizacyjnej gminy, a także inną osobę na wniosek kierownika ośrodka pomocy społecznej, dyrektora centrum usług społecznych lub innej jednostki organizacyjnej gminy do prowadzenia postępowań w sprawach dotyczących wypłaty dodatku elektrycznego.
 
@@ -628,17 +524,11 @@ Art. 39‒51. (pominięte)
 
 6. Jeżeli w wyniku połączenia lub podziału gmin nastąpiły zmiany w podstawie obliczania kwoty środków, wojewoda uwzględnia te zmiany od pierwszego dnia następnego miesiąca po dniu ich wejścia w życie.
 
-**Art. 35a.**
-
-1. Wójt, burmistrz albo prezydent miasta przedstawia wojewodzie informację o liczbie toczących się postępowań w sprawie wypłaty dodatku elektrycznego, w których w związku z wniesieniem odwołania nie zapadło prawomocne rozstrzygnięcie organu administracji publicznej lub sądu administracyjnego, którego skutkiem jest przyznanie dodatku, oraz o łącznej wysokości dodatków elektrycznych będącej przedmiotem tych postępowań, w terminie do dnia 15 czerwca w latach 2023–2025.
-
-2. Wojewodowie przedstawiają ministrowi właściwemu do spraw energii zbiorczą informację o liczbie toczących się postępowań w sprawie wypłaty dodatku elektrycznego, w których w związku z wniesieniem odwołania nie zapadło prawomocne rozstrzygnięcie organu administracji publicznej lub sądu administracyjnego, którego skutkiem jest przyznanie dodatku, oraz o łącznej wysokości dodatków elektrycznych będącej przedmiotem tych postępowań, w terminie do dnia 30 czerwca w latach 2023–2025.
-
 **Art. 36.**
 
 1. Gminy otrzymują środki na realizację wypłat dodatku elektrycznego z Funduszu w granicach kwot określonych na ten cel w planie tego Funduszu.
 
-2. Przy ustalaniu wysokości środków na realizację wypłat dodatku elektrycznego uwzględnia się koszty wypłacania dodatku elektrycznego, w wysokości 2 % łącznej kwoty dotacji wypłaconych w gminie.
+2. Przy ustalaniu wysokości środków na realizację wypłat dodatku elektrycznego uwzględnia się koszty wypłacania dodatku elektrycznego, w wysokości 2% łącznej kwoty dotacji wypłaconych w gminie.
 
 3. Wójt, burmistrz albo prezydent miasta przedstawia wojewodzie, w terminie do dnia 30 kwietnia 2023 r., rozliczenie środków na realizację wypłat dodatku elektrycznego, z wyodrębnieniem liczby i kwoty wypłaconych dodatków elektrycznych.
 
@@ -646,30 +536,17 @@ Art. 39‒51. (pominięte)
 
 5. Wojewoda całość odsetek od otrzymanych środków przekazuje na rachunek Funduszu.
 
-6. Jeżeli dodatek elektryczny został przyznany na skutek prawomocnego rozstrzygnięcia organu administracji publicznej lub sądu administracyjnego w postępowaniu w sprawie wypłaty dodatku elektrycznego, wójt, burmistrz albo prezydent miasta może zwrócić się do wojewody z wnioskiem o przyznanie środków na ten cel po terminie, o którym mowa w ust. 4.
-
-7. Wypłata dodatku, o którym mowa w ust. 6, od dnia 1 stycznia 2025 r. jest zadaniem zleconym gminie, finansowanym ze środków budżetu państwa.
-
-8. Wojewoda składa wniosek o przyznanie środków na pokrycie dodatku, o którym mowa w ust. 6, w terminie:
-
-- **1)** do dnia 30 listopada 2024 r. – do ministra właściwego do spraw energii;
-- **2)** od dnia 1 stycznia 2025 r. – do ministra właściwego do spraw finansów publicznych – z rezerwy celowej budżetu państwa na zobowiązania wymagalne Skarbu Państwa.
-
-9. Wojewoda w terminie do dnia 31 grudnia 2024 r. składa korektę zbiorczego rozliczenia środków, o którym mowa w ust. 4.
-
 #### Rozdział 5 Cel w zakresie zmniejszenia zużycia energii elektrycznej
 
 **Art. 37.**
 
-1. Kierownicy jednostek sektora finansów publicznych, o których mowa w art. 9 pkt 1–2a, 6–9, 11–13 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ), od dnia 1 grudnia 2022 r. do dnia 31 grudnia 2022 r. podejmują działania w celu realizacji obowiązkowego celu zmniejszenia całkowitego zużycia energii elektrycznej w zajmowanych budynkach lub częściach budynków oraz przez wykorzystywane urządzenia techniczne, instalacje i pojazdy, w danym okresie w wymiarze określonym w ust. 2.
+1. Kierownicy jednostek sektora finansów publicznych, o których mowa w art. 9 pkt 1–2a, 6–9, 11–13 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, 1692, 1725, 1747, 1768 i 1964), od dnia 1 grudnia 2022 r. do dnia 31 grudnia 2022 r. podejmują działania w celu realizacji obowiązkowego celu zmniejszenia całkowitego zużycia energii elektrycznej w zajmowanych budynkach lub częściach budynków oraz przez wykorzystywane urządzenia techniczne, instalacje i pojazdy, w danym okresie w wymiarze określonym w ust. 2.
 
-2. Cel, o którym mowa w ust. 1, oznaczony symbolem „Cel ”, oblicza się według wzoru: Cel ZEE = ∙10 %, 12 gdzie ZEE oznacza średnioroczne zużycie energii elektrycznej w latach 2018–
-
-2019.
+2. Cel, o którym mowa w ust. 1, oznaczony symbolem „CelZZEE22”, oblicza się według wzoru: [wzór] gdzie ZEE oznacza średnioroczne zużycie energii elektrycznej w latach 2018–2019.
 
 3. Kierownicy jednostek sektora finansów publicznych, o których mowa w art. 9 pkt 1–2a, 6–9 i 11–13 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, od dnia 1 stycznia 2023 r. do 31 grudnia 2023 r. podejmują działania w celu realizacji obowiązkowego celu zmniejszenia całkowitego zużycia energii elektrycznej w zajmowanych budynkach lub częściach budynków oraz przez wykorzystywane urządzenia techniczne, instalacje i pojazdy w danym okresie w wymiarze określonym w ust. 4.
 
-4. Cel, o którym mowa w ust. 3, oznaczony symbolem „Cel ”, oblicza się według wzoru: Cel = ZEE ∙10 %, gdzie ZEE oznacza zużycie energii elektrycznej w 2022 r.
+4. Cel, o którym mowa w ust. 3, oznaczony symbolem „CelZZEE23”, oblicza się według wzoru: CelZZEE23 = ZEE22 · 10%, gdzie ZEE22 oznacza zużycie energii elektrycznej w 2022 r.
 
 5. Kierownicy jednostek sektora finansów publicznych, o których mowa w art. 9 pkt 1–2a, 6–9, 11–13 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, przekazują do Prezesa URE raport z realizacji celu, o którym mowa w ust. 1 i 3, w terminie do dnia 31 marca roku następującego po roku, którego dotyczy obowiązek.
 
@@ -677,7 +554,7 @@ Art. 39‒51. (pominięte)
 
 - **1)** w budynkach wykorzystywanych na potrzeby obronności państwa;
 - **2)** przez urządzenia techniczne i instalacje zapewniające ciągłość działania infrastruktury informatycznej jednostek sektora finansów publicznych, o których mowa w ust. 1;
-- **3)** obiektów stanowiących infrastrukturę krytyczną ujętą w wykazie, o którym mowa w art. 5b ust. 7 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122 oraz z 2024 r. poz. 834 i 1222), zlokalizowaną na terenie Rzeczypospolitej Polskiej.
+- **3)** obiektów stanowiących infrastrukturę krytyczną ujętą w wykazie, o którym mowa w art. 5b ust. 7 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2022 r. poz. 261 i 583), zlokalizowaną na terenie Rzeczypospolitej Polskiej.
 
 7. Prezes URE udostępnia wzór formularza raportu, o którym mowa w ust. 5, w Biuletynie Informacji Publicznej Urzędu Regulacji Energetyki, kierując się potrzebą zapewniania sprawności procesu weryfikacji wykonania obowiązku, o którym mowa w ust. 1 i 3.
 
@@ -687,14 +564,14 @@ Art. 39‒51. (pominięte)
 
 1. Karze pieniężnej podlega, kto:
 
-- **1)** nie realizuje obowiązków, o których mowa w art. 3, art. 4, art. 5 ust. 1, 3 lub 4, art. 6–7a, art. 8b ust. 1–3, art. 51a ust. 1, 3 i 4 lub art. 51b ust. 1, 3 i 4;
-- **2)** nie realizuje w terminie obowiązku, o którym mowa w art. 5 ust. 2;
+- **1)** nie realizuje obowiązków, o których mowa w art. 3, art. 4 ust. 2 i 3 lub art. 5 ust. 1 lub 3, art. 6 ust. 1 i 2 lub art. 7;
+- **2)** nie realizuje w terminie obowiązku, o którym mowa w art. 4 ust. 1 oraz art. 5 ust. 2;
 - **3)** nie realizuje obowiązku, o którym mowa w art. 37 ust. 1;
 - **4)** nie realizuje obowiązku, o którym mowa w art. 37 ust. 3.
 
 2. Kary pieniężne, o których mowa w ust. 1, wymierza Prezes URE w drodze decyzji administracyjnej.
 
-3. Wysokość kary pieniężnej, o której mowa w ust. 1 pkt 1 i 2, nie może być niższa niż 0,5 % i wyższa niż 5 % przychodu ukaranego podmiotu wynikającego z działalności koncesjonowanej osiągniętego w poprzednim roku podatkowym.
+3. Wysokość kary pieniężnej, o której mowa w ust. 1 pkt 1 i 2, nie może być niższa niż 0,5% i wyższa niż 5% przychodu ukaranego podmiotu wynikającego z działalności koncesjonowanej osiągniętego w poprzednim roku podatkowym.
 
 4. Wysokość kary pieniężnej wymierzonej w przypadkach, o których mowa w ust. 1 pkt 3 i 4, nie może być wyższa niż 20 000 zł.
 
@@ -702,87 +579,191 @@ Art. 39‒51. (pominięte)
 
 #### Rozdział 7 Zmiany w przepisach
 
+**Art. 39.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.) w art. 833 § 6 otrzymuje brzmienie: „
+
+§ 6. Nie podlegają egzekucji świadczenia alimentacyjne, świadczenia pieniężne wypłacane w przypadku bezskuteczności egzekucji alimentów, świadczenia rodzinne, dodatki rodzinne, pielęgnacyjne, porodowe, dla sierot zupełnych, zasiłki dla opiekunów, świadczenia z pomocy społecznej, świadczenia integracyjne, świadczenie wychowawcze, świadczenie dobry start, jednorazowe świadczenie, o którym mowa w art. 10 ustawy z dnia 4 listopada 2016 r. o wsparciu kobiet w ciąży i rodzin „Za życiem” (Dz. U. z 2020 r. poz. 1329), rodzinny kapitał opiekuńczy, o którym mowa w ustawie z dnia 17 listopada 2021 r. o rodzinnym kapitale opiekuńczym (Dz. U. poz. 2270), dofinansowanie obniżenia opłaty rodzica za pobyt dziecka w żłobku, klubie dziecięcym lub u dziennego opiekuna, o którym mowa w art. 64c ust. 1 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2022 r. poz. 1324 i 1383), dodatek osłonowy, o którym mowa w ustawie z dnia 17 grudnia 2021 r. o dodatku osłonowym (Dz. U. z 2022 r. poz. 1, 202 i 1692), dodatek węglowy, o którym mowa w ustawie z dnia 5 sierpnia 2022 r. o dodatku węglowym (Dz. U. poz. 1692 i 1967), dodatek dla gospodarstw domowych z tytułu wykorzystywania niektórych źródeł ciepła i dodatek dla niektórych podmiotów niebędących gospodarstwami domowymi z tytułu wykorzystania niektórych źródeł ciepła, o których mowa w ustawie z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw (Dz. U. poz. 1967), oraz dodatek elektryczny, o którym mowa w ustawie z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku w związku z sytuacją na rynku energii elektrycznej (Dz. U. poz. 2127). ” .
+
+**Art. 40.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, 1301, 1692 i 1967) wprowadza się następujące zmiany:
+
+- **1)** w art. 10 § 4 otrzymuje brzmienie: „
+
+§ 4. Nie podlegają egzekucji świadczenia alimentacyjne, świadczenia pieniężne wypłacane w przypadku bezskuteczności egzekucji alimentów, świadczenia rodzinne, dodatki rodzinne, pielęgnacyjne, porodowe, dla sierot zupełnych, zasiłki dla opiekunów, świadczenia z pomocy społecznej, świadczenie wychowawcze, jednorazowe świadczenie, o którym mowa w art. 10 ustawy z dnia 4 listopada 2016 r. o wsparciu kobiet w ciąży i rodzin „Za życiem” (Dz. U. z 2020 r. poz. 1329), rodzinny kapitał opiekuńczy, o którym mowa w ustawie z dnia 17 listopada 2021 r. o rodzinnym kapitale opiekuńczym (Dz. U. poz. 2270), dofinansowanie obniżenia opłaty rodzica za pobyt dziecka w żłobku, klubie dziecięcym lub u dziennego opiekuna, o którym mowa w art. 64c ust. 1 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2022 r. poz. 1324 i 1383), dodatek osłonowy, o którym mowa w ustawie z dnia 17 grudnia 2021 r. o dodatku osłonowym (Dz. U. z 2022 r. poz. 1, 202 i 1692), dodatek węglowy, o którym mowa w ustawie z dnia 5 sierpnia 2022 r. o dodatku węglowym (Dz. U. poz. 1692 i 1967), dodatek dla gospodarstw domowych z tytułu wykorzystywania niektórych źródeł ciepła i dodatek dla niektórych podmiotów niebędących gospodarstwami domowymi z tytułu wykorzystania niektórych źródeł ciepła, o których mowa w ustawie z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw (Dz. U. poz. 1967), oraz dodatek elektryczny, o którym mowa w ustawie z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku w związku z sytuacją na rynku energii elektrycznej (Dz. U. poz. 2127). ” ;
+
+- **2)** w art. 80 w § 2a pkt 1 otrzymuje brzmienie: „
+- **1)** świadczeń alimentacyjnych, świadczeń pieniężnych wypłacanych w przypadku bezskuteczności egzekucji alimentów, świadczeń rodzinnych, dodatków rodzinnych, pielęgnacyjnych, porodowych, dla sierot zupełnych, zasiłków dla opiekunów, świadczeń z pomocy społecznej, świadczeń integracyjnych, świadczeń wychowawczych, jednorazowych świadczeń, o których mowa w art. 10 ustawy z dnia 4 listopada 2016 r. o wsparciu kobiet w ciąży i rodzin „Za życiem”, świadczenia dobry start, rodzinnego kapitału opiekuńczego, o którym mowa w ustawie z dnia 17 listopada 2021 r. o rodzinnym kapitale opiekuńczym, dofinansowania obniżenia opłaty rodzica za pobyt dziecka w żłobku, klubie dziecięcym lub u dziennego opiekuna, o którym mowa w art. 64c ust. 1 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3, dodatku osłonowego, o którym mowa w ustawie z dnia 17 grudnia 2021 r. o dodatku osłonowym, dodatku węglowego, o którym mowa w ustawie z dnia 5 sierpnia 2022 r. o dodatku węglowym, dodatku dla gospodarstw domowych z tytułu wykorzystywania niektórych źródeł ciepła i dodatku dla niektórych podmiotów niebędących gospodarstwami domowymi z tytułu wykorzystania niektórych źródeł ciepła, o których mowa w ustawie z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw, oraz dodatku elektrycznego, o którym mowa w ustawie z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku w związku z sytuacją na rynku energii elektrycznej. ” .
+
+**Art. 41.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 26 w ust. 7e zdanie drugie otrzymuje brzmienie: „ Do dochodów, o których mowa w zdaniu pierwszym, nie zalicza się alimentów na rzecz dzieci, o których mowa w art. 6 ust. 4c, z uwzględnieniem art. 6 ust. 4e, świadczenia uzupełniającego, o którym mowa w art. 21 ust. 1 pkt 100a, dodatku energetycznego, o którym mowa w art. 5c ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, dodatku osłonowego, o którym mowa w art. 2 ust. 1 ustawy z dnia 17 grudnia 2021 r. o dodatku osłonowym (Dz. U. z 2022 r. poz. 1, 202 i 1692), dodatku węglowego, o którym mowa w art. 2 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym (Dz. U. poz. 1692 i 1967), dodatku dla gospodarstw domowych z tytułu wykorzystywania niektórych źródeł ciepła i dodatku dla niektórych podmiotów niebędących gospodarstwami domowymi z tytułu wykorzystywania niektórych źródeł ciepła, o których mowa w art. 1 pkt 2 i 3 ustawy z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw (Dz. U. poz. 1967), dodatku elektrycznego, o którym mowa w art. 27 ustawy z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku w związku z sytuacją na rynku energii elektrycznej (Dz. U. poz. 2127), oraz przyznanych na podstawie odrębnych przepisów zasiłku pielęgnacyjnego oraz dodatkowego rocznego świadczenia pieniężnego dla emerytów i rencistów. ” ;
+- **2)** art. 52jc otrzymuje brzmienie: „ Art. 52jc. Zwalnia się od podatku dochodowego dodatek osłonowy, o którym mowa w ustawie z dnia 17 grudnia 2021 r. o dodatku osłonowym, dodatek węglowy, o którym mowa w ustawie z dnia 5 sierpnia 2022 r. o dodatku węglowym, dodatek dla gospodarstw domowych z tytułu wykorzystywania niektórych źródeł ciepła i dodatek dla niektórych podmiotów niebędących gospodarstwami domowymi z tytułu wykorzystywania niektórych źródeł ciepła, o których mowa w ustawie z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw, oraz dodatek elektryczny, o którym mowa w ustawie z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku w związku z sytuacją na rynku energii elektrycznej. ” .
+
+**Art. 42.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2022 r. poz. 1385 i 1723) wprowadza się następujące zmiany:
+
+- **1)** w art. 62c: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. Dla odbiorców przyłączonych do systemu dystrybucyjnego gazowego lub systemu dystrybucyjnego elektroenergetycznego, o którym mowa w art. 9d ust. 7, do czasu wyznaczenia przez Prezesa URE lub wyłonienia w drodze przetargu sprzedawcy z urzędu, na zasadach określonych w art. 9i, zadania sprzedawcy z urzędu wykonuje przedsiębiorstwo zintegrowane pionowo, w skład którego wchodzi ten system dystrybucyjny. ” , dodaje się ust. 4 i 5 w brzmieniu: „
+
+- **b)**
+
+4. W przypadku gdy sprzedawca z urzędu zaprzestał sprzedaży energii elektrycznej do odbiorców końcowych przyłączonych do systemu dystrybucyjnego, o którym mowa w art. 9d ust. 7, zadania sprzedawcy z urzędu dla tych odbiorców pełni przedsiębiorstwo energetyczne będące sprzedawcą energii elektrycznej, o którym mowa w art. 40 ust. 3 pkt 2 aaaustawy z aaadnia 20 lutego 2020 r. o odnawialnych źródłach energii.
+
+5. Dla odbiorców końcowych, do których nie znajdują zastosowania rozwiązania zawarte w ust. 1–4, zadania sprzedawcy z urzędu wykonuje:
+
+- **1)** w zakresie sprzedaży paliw gazowych – przedsiębiorstwo energetyczne zajmujące się obrotem paliwami gazowymi, do którego wniesiono wkład niepieniężny, o którym mowa w art. 5b ust. 1;
+- **2)** w zakresie sprzedaży energii elektrycznej – przedsiębiorstwo energetyczne będące sprzedawcą energii elektrycznej, o którym mowa w art. 40 ust. 3 pkt 2 aaaustawy z aaadnia 20 lutego 2020 r. o odnawialnych źródłach energii. ” ;
+- **2)** po art. 62j dodaje się art. 62k w brzmieniu: „
+
+**Art. 62k.** Środki wypłacone z tytułu rekompensat, o których mowa w art. 62g oraz art. 62h, zalicza się do kategorii drugiej należności podlegających zaspokojeniu z funduszów masy upadłości, o której mowa w art. 342 ust. 1 pkt 2 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2022 r. poz. 1520). ” .
+
+**Art. 43.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2021 r. poz. 1973, z późn. zm.) w art. 193 po ust. 1b dodaje się ust. 1c-1e w brzmieniu: „ 1c. W okresie do dnia 31 grudnia 2025 r. pozwolenie, o którym mowa w art. 180a, nie wygasa, jeżeli posiadacz odpadów w terminie nie później niż trzy miesiące przed upływem czasu, na jaki zostało wydane to pozwolenie, złoży wniosek o wydanie nowego pozwolenia na wytwarzanie odpadów. 1d. Dotychczasowe pozwolenie, o którym mowa w art. 180a, wygasa w dniu następującym po dniu, w którym:
+
+- **1)** nowe pozwolenie, decyzja o odmowie wydania nowego pozwolenia albo decyzja o umorzeniu postępowania w sprawie wydania nowego pozwolenia stały się ostateczne, albo
+- **2)** wniosek o wydanie nowego pozwolenia właściwy organ pozostawił bez rozpatrzenia.
+
+1e. Posiadacz odpadów jest zobowiązany do utrzymania zabezpieczenia roszczeń, o którym mowa w art. 187, przez cały okres obowiązywania pozwolenia. ” .
+
+**Art. 44.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2021 r. poz. 2268, z późn. zm.) w art. 8 w ust. 4 w pkt 19 kropkę zastępuje się średnikiem i dodaje się pkt 20 w brzmieniu: „
+
+- **20)** kwoty dodatku elektrycznego, o którym mowa w art. 27 ust. 1 ustawy z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku w związku z sytuacją na rynku energii elektrycznej (Dz. U. poz. 2127). ” .
+
+**Art. 45.** W ustawie z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2022 r. poz. 699, 1250 i 1726) wprowadza się następujące zmiany:
+
+- **1)** w art. 48a: w ust. 8 po wyrazach „mających wpływ na wysokość określonego zabezpieczenia roszczeń” dodaje się wyrazy „lub jego formę”, w ust. 18 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+- **4)** w przypadku wydania ostatecznego postanowienia o zmianie formy zabezpieczenia roszczeń. ” , po ust. 18 dodaje się ust. 18a w brzmieniu: „
+    - **c)**
+
+18a. W przypadku, o którym mowa w ust. 18 pkt 4, zwrot zabezpieczenia roszczeń w dotychczasowej formie następuje po wniesieniu przez posiadacza odpadów zabezpieczenia roszczeń w nowej formie. ” , w ust. 19 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
+
+- **d)**
+- **4)** ostateczne postanowienie, w którym określono nową formę zabezpieczenia roszczeń, i odpowiednio informację o wpłaceniu zabezpieczenia roszczeń w formie depozytu albo oryginał gwarancji bankowej, gwarancji ubezpieczeniowej lub polisy ubezpieczeniowej. ” ;
+- **2)** po art. 226 dodaje się art. 226a w brzmieniu: „
+
+**Art. 226a.**
+
+1. W okresie do dnia 31 grudnia 2025 r. zezwolenie na zbieranie odpadów lub zezwolenie na przetwarzanie odpadów nie wygasa ze względu na upływ czasu, na jaki zostało wydane, jeżeli posiadacz odpadów w terminie nie później niż trzy miesiące przed upływem tego czasu złoży wniosek o wydanie nowego zezwolenia na zbieranie odpadów lub zezwolenia na przetwarzanie odpadów.
+
+2. Dotychczasowe zezwolenie na zbieranie odpadów zezwolenie na przetwarzanie odpadów wygasa w dniu następującym po dniu, w którym:
+
+- **1)** nowe zezwolenie, decyzja o odmowie wydania nowego zezwolenia albo decyzja o umorzeniu postępowania w sprawie wydania nowego zezwolenia stały się ostateczne, albo
+- **2)** wniosek o wydanie nowego zezwolenia właściwy organ pozostawił bez rozpatrzenia.
+
+3. W przypadku, o którym mowa w ust. 1, posiadacz odpadów jest zobowiązany do utrzymania zabezpieczenia roszczeń, o którym mowa w art. 48a, przez okres obowiązywania zezwolenia na zbieranie odpadów lub zezwolenia na przetwarzanie odpadów i po zakończeniu obowiązywania tych zezwoleń, do czasu uzyskania ostatecznej decyzji o zwrocie zabezpieczenia roszczeń, o której mowa w art. 48a ust. 18. ” .
+
+**Art. 46.** W ustawie z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. z 2022 r. poz. 1006, 1692 i 1967) w art. 2 w ust. 2 po wyrazach „dodatku dla gospodarstw domowych z tytułu wykorzystywania niektórych źródeł ciepła, o którym mowa w art. 1 pkt 2 ustawy z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw (Dz. U. poz. 1967),” dodaje się wyrazy „dodatku elektrycznego, o którym mowa w art. 27 ust. 1 ustawy z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku w związku z sytuacją na rynku energii elektrycznej (Dz. U. poz. 2127),”.
+
+**Art. 47.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2021 r. poz. 2095, z późn. zm.) w art. 31zzh:
+
+- **1)** w ust. 8: we wprowadzeniu do wyliczenia po wyrazach „do dnia 31 grudnia 2026 r.” dodaje się wyrazy „z zastrzeżeniem ust. 8a”, w pkt 1 lit. a otrzymuje brzmienie: „ posiada rating kredytowy dokonany przez instytucję wskazaną w ust. 3 na minimalnym poziomie określonym w ust. 4 lub według stanu na dzień 27 września 2022 r. był obowiązany do wykonania obowiązku, o którym mowa w art. 49a ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne w brzmieniu z dnia 28 września 2022 r., oraz ” ;
+    - **a)**
+    - **b)**
+    - **a)**
+
+- **2)** dodaje się ust. 8a w brzmieniu: „
+
+8a. Do dnia 31 grudnia 2024 r.:
+
+- **1)** zwolnienie z obowiązku ustanowienia zabezpieczenia finansowego, o którym mowa w ust. 8 pkt 1, wynosi maksymalnie 90% wartości wymaganych depozytów, o których mowa w ust. 1;
+- **2)** zabezpieczenie finansowe, o którym mowa w ust. 1 pkt 4, dla podmiotu będącego członkiem giełdowej izby rozrachunkowej, nie może być większe niż 90% wartości wymaganych depozytów, o których mowa w ust. 1. ” .
+
+**Art. 48.** W ustawie z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.) w art. 65 ust. 5 po pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „
+
+- **8)** wypłaty i obsługę rekompensat, o których mowa w art. 12 ust. 1 i art. 15 ust. 3 ustawy z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku w związku z sytuacją na rynku energii elektrycznej (Dz. U. poz. 2127), oraz dodatku elektrycznego, o którym mowa w art. 27 tej ustawy. ” .
+
+**Art. 49.** W ustawie z dnia 26 stycznia 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców paliw gazowych w związku z sytuacją na rynku gazu (Dz. U. poz. 202, 1477, 1692 i 1723) po art. 21 dodaje się art. 21a w brzmieniu: „ Środki wypłacone z tytułu rekompensat, o których mowa w art. 8, art. 11 i art. 12, zalicza się do kategorii drugiej należności podlegających zaspokojeniu z funduszów masy upadłości, o której mowa w art. 342 ust. 1 pkt 2 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2022 r. poz. 1520). ” .
+
+**Art. 50.** W ustawie z dnia 23 czerwca 2022 r. o zmianie ustawy o finansach publicznych oraz ustawy – Prawo ochrony środowiska (Dz. U. poz. 1747) po art. 4 dodaje się art. 4a w brzmieniu: „ W roku 2022 i roku 2023 do wydatków stanowiących nieprzekraczalny limit wydatków ustalony w ustawie budżetowej nie wlicza się wydatków:
+
+- **1)** państwowych funduszy celowych,
+- **2)** funduszy utworzonych, powierzonych lub przekazanych Bankowi Gospodarstwa Krajowego na podstawie odrębnych ustaw,
+- **3)** Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej wykonanych ponad kwoty objęte tym limitem. ” .
+
+**Art. 51.** W ustawie z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw (Dz. U. poz. 1967) wprowadza się następujące zmiany:
+
+- **1)** w art. 24 w ust. 6 dodaje się zdanie drugie w brzmieniu: „ Pozostałe wnioski pozostawia się bez rozpoznania. ” ;
+- **2)** w art. 26: po ust. 1 dodaje się ust. 1a-1d w brzmieniu: „
+    - **a)**
+
+1a. Dodatek dla podmiotów wrażliwych przysługuje także podmiotom, o których mowa w art. 4 ust. 1 pkt 2 lub 3, wytwarzającym ciepło na potrzeby podmiotów, o których mowa w art. 4 ust. 1, wprowadzane do sieci ciepłowniczej ze źródeł o mocy wyższej niż określona w art. 2 pkt 7 lit. b ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, które ponoszą koszty zakupu węgla kamiennego, brykietu lub peletu zawierających co najmniej 85% węgla kamiennego, peletu drzewnego albo innego rodzaju biomasy, gazu skroplonego LPG albo oleju opałowego, wykorzystywanych na cele ogrzewania.
+
+1b. Dodatek dla podmiotów wrażliwych przysługujący podmiotom, o których mowa w art. 4 ust. 1 pkt 2 lub 3, dotyczy wyłącznie ciepła zapewnianego w lokalach mieszkalnych na potrzeby zużycia przez gospodarstwa domowe i lokalach podmiotów, o których mowa w art. 4 ust. 1 pkt 4, w zakresie, w jakim zużywają ciepło na potrzeby określone w tych przepisach.
+
+1c. Podmiot, o którym mowa w art. 4 ust. 1 pkt 2 lub 3, który otrzymał dodatek dla podmiotów wrażliwych, uwzględnia ten dodatek w całości w rozliczeniu kosztów wytworzenia ciepła na poszczególne lokale, o których mowa w ust. 1b.
+
+1d. Przepis ust. 1 pkt 1 stosuje się także w przypadku, gdy koszty zakupu paliwa wymienionego w tym przepisie zostały poniesione przez organ prowadzący podmiot, o którym mowa w art. 4 ust. 1 pkt 4, i finansujący podstawową działalność tego podmiotu. ” , ust. 2–4 otrzymują brzmienie: „
+
+- **b)**
+
+2. Podmioty, którym przysługuje dodatek dla podmiotów wrażliwych, posiadają siedzibę oraz miejsce prowadzenia swojej działalności na terytorium Rzeczypospolitej Polskiej.
+
+3. Dodatek dla podmiotów wrażliwych wypłaca się na wniosek osoby albo osób uprawnionych do reprezentowania podmiotów, którym przysługuje dodatek dla podmiotów wrażliwych.
+
+4. W przypadku gdy wniosek o wypłatę dodatku dla podmiotów wrażliwych złożyła więcej niż jedna osoba uprawniona do reprezentowania podmiotu, któremu przysługuje dodatek dla podmiotów wrażliwych, dodatek ten jest przyznawany na podstawie wniosku, który został złożony jako pierwszy. ” , ust. 6 otrzymuje brzmienie: „
+
+- **c)**
+
+6. Wniosek o wypłatę dodatku dla podmiotów wrażliwych zawiera obliczenia wykonane na podstawie wzoru, o którym mowa w ust. 5. Do wniosku załącza się oryginały lub kopie poświadczone urzędowo lub notarialnie za zgodność z oryginałem dokumentów:
+
+- **1)** potwierdzających uprawnienie do reprezentowania podmiotu, któremu przysługuje dodatek dla podmiotów wrażliwych;
+- **2)** sprzedaży będących podstawą do wykonania obliczeń, o których mowa w ust. 5, potwierdzających datę nabycia, ilość oraz koszt zakupionego i dostarczonego paliwa. ” , po ust. 6 dodaje się ust. 6a w brzmieniu: „
+    - **d)**
+
+6a. Dokumentami sprzedaży będącymi podstawą do wykonania obliczeń, o których mowa w ust. 5, mogą być także dokumenty wystawione na organ prowadzący podmiot, o którym mowa w art. 4 ust. 1 pkt 4, i finansujący podstawową działalność tego podmiotu. ” , ust. 9 otrzymuje brzmienie: „
+
+- **e)**
+
+9. Wniosek o wypłatę dodatku dla podmiotów wrażliwych składa się w gminie właściwej ze względu na miejsce siedziby podmiotu, któremu przysługuje ten dodatek. ” , w ust. 10 pkt 5 otrzymuje brzmienie: „
+
+- **f)**
+- **5)** wskazanie, jakim podmiotem spośród podmiotów, którym przysługuje dodatek dla podmiotów wrażliwych, jest wnioskodawca; ” , w ust. 13 w zdaniu pierwszym po wyrazach „dodatku dla podmiotów wrażliwych,” dodaje się wyrazy „złożonego przez podmiot, o którym mowa w ust. 1,”, po ust. 13 dodaje się ust. 13a w brzmieniu: „
+    - **g)**
+    - **h)**
+
+13a. Wójt, burmistrz albo prezydent miasta dokonuje weryfikacji wniosku o wypłatę dodatku dla podmiotów wrażliwych złożonego przez podmiot, o którym mowa w ust. 1a, pod względem jego wysokości, prawidłowości dokonanych obliczeń i kompletności wymaganych dokumentów oraz prawidłowego reprezentowania na podstawie podanych we wniosku danych i dołączonych dokumentów, w tym dowodów potwierdzających uprawnienie do reprezentowania. ” ;
+
+- **3)** w art. 27 w ust. 2 w zdaniu drugim skreśla się wyrazy „oraz o niezłożeniu wniosku o przyznanie tego dodatku”;
+- **4)** po art. 63 dodaje się art. 63a w brzmieniu: „
+
+**Art. 63a.** Środki wypłacone z tytułu rekompensat, o których mowa w art. 12 ust. 1, zalicza się do kategorii drugiej należności podlegających zaspokojeniu z funduszów masy upadłości, o której mowa w art. 342 ust. 1 pkt 2 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2022 r. poz. 1520). ” .
+
 #### Rozdział 8 Przepisy przejściowe i końcowe
-
-**Art. 51a.**
-
-1. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną na potrzeby odbiorców uprawnionych:
-
-- **1)** posiadające zatwierdzoną i obowiązującą taryfę dla energii elektrycznej na 2024 r. występuje do Prezesa URE z wnioskiem o zmianę tej taryfy z okresem jej obowiązywania nie krótszym niż do dnia 31 grudnia 2025 r., w terminie 7 dni od dnia wejścia w życie ustawy z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego (Dz. U. poz. 859);
-- **2)** wykonujące zadania sprzedawcy z urzędu, zwolnione z obowiązku przedkładania taryf do zatwierdzenia zgodnie z art. 49 ust. 1 ustawy – Prawo energetyczne występuje do Prezesa URE z wnioskiem o zatwierdzenie albo o zmianę taryfy dla energii elektrycznej dla tych odbiorców na okres od dnia 1 lipca 2024 r. do dnia 31 grudnia 2025 r., w terminie 7 dni od dnia wejścia w życie ustawy z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego.
-
-2. W przypadku gdy przedsiębiorstwo energetyczne, o którym mowa w:
-
-- **1)** ust. 1 pkt 1, nie wystąpiło z wnioskiem o zmianę taryfy dla energii elektrycznej,
-- **2)** ust. 1 pkt 2, nie wystąpiło z wnioskiem o zatwierdzenie albo o zmianę taryfy dla energii elektrycznej – Prezes URE wzywa to przedsiębiorstwo do złożenia odpowiednio wniosku o zmianę taryfy dla energii elektrycznej albo wniosku o zatwierdzenie taryfy lub o zmianę taryfy, w terminie 7 dni od dnia otrzymania wezwania.
-
-3. W przypadku gdy mimo wezwania przedsiębiorstwo energetyczne, o którym mowa w ust. 1, nie złoży wniosków, o których mowa w ust. 1, lub nie uzupełni tych wniosków w terminie lub uzupełnione wnioski nadal zawierają braki formalne lub merytoryczne uniemożliwiające zatwierdzenie taryfy albo zmiany taryfy zgodnie z art. 44–45a ustawy – Prawo energetyczne oraz zgodnie z przepisami wydanymi na podstawie art. 46 ust. 3 i 4 tej ustawy, zarządca rozliczeń wstrzymuje wypłatę rekompensat po otrzymaniu informacji o tym fakcie od Prezesa URE.
-
-4. Przedsiębiorstwo energetyczne wprowadza do stosowania taryfę, o której mowa w ust. 1, od dnia 1 lipca 2024 r., a w przypadku nieopublikowania decyzji zatwierdzającej taryfę do dnia 30 czerwca 2024 r. – niezwłocznie z dniem następującym po dniu opublikowania tej decyzji.
-
-5. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną na potrzeby odbiorców uprawnionych, o których mowa w ust. 1, wchodzące w skład przedsiębiorstwa zintegrowanego pionowo przedkłada taryfę do zatwierdzenia w terminie wynikającym z art. 47 ust. 1 ustawy – Prawo energetyczne.
-
-**Art. 51b.**
-
-1. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną na potrzeby odbiorców uprawnionych:
-
-- **1)** posiadające zatwierdzoną i obowiązującą taryfę dla energii elektrycznej na okres od dnia 1 lipca 2024 r. do dnia 31 grudnia 2025 r. występuje do Prezesa URE z wnioskiem o zmianę tej taryfy bez zmiany okresu jej obowiązywania, w terminie do dnia 31 lipca 2025 r.;
-- **2)** wykonujące zadania sprzedawcy z urzędu, zwolnione z obowiązku przedkładania taryf do zatwierdzenia zgodnie z art. 49 ust. 1 ustawy – Prawo energetyczne występuje do Prezesa URE z wnioskiem o:
-    - **a)** zmianę taryfy dla energii elektrycznej dla tych odbiorców na okres od dnia 1 lipca 2024 r. do dnia 31 grudnia 2025 r. albo
-    - **b)** zatwierdzenie taryfy dla energii elektrycznej na okres od dnia 1 października 2025 r. do dnia 31 grudnia 2025 r. – w przypadku gdy nie posiada zatwierdzonej przez Prezesa URE taryfy – w terminie do dnia 31 lipca 2025 r.
-
-2. W przypadku gdy przedsiębiorstwo energetyczne, o którym mowa w:
-
-- **1)** ust. 1 pkt 1, nie wystąpiło z wnioskiem o zmianę taryfy dla energii elektrycznej,
-- **2)** ust. 1 pkt 2, nie wystąpiło z wnioskiem o zatwierdzenie albo o zmianę taryfy dla energii elektrycznej – Prezes URE wzywa to przedsiębiorstwo do złożenia odpowiednio wniosku o zmianę taryfy dla energii elektrycznej albo wniosku o zatwierdzenie taryfy lub o zmianę taryfy, w terminie 14 dni od dnia otrzymania wezwania.
-
-3. W przypadku gdy mimo wezwania przedsiębiorstwo energetyczne, o którym mowa w ust. 1, nie złoży wniosku, o którym mowa w ust. 1, lub nie uzupełni tego wniosku w terminie lub uzupełniony wniosek nadal zawiera braki formalne lub merytoryczne uniemożliwiające zatwierdzenie taryfy albo zmianę taryfy zgodnie z art. 44–45a ustawy – Prawo energetyczne oraz zgodnie z przepisami wydanymi na podstawie art. 46 ust. 3 i 4 tej ustawy, Prezes URE informuje o tym fakcie zarządcę rozliczeń. Zarządca rozliczeń wstrzymuje wypłatę rekompensat, o których mowa w art. 8 ust. 1 ustawy z dnia 27 października 2022 r. o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w latach 2023–2025, do czasu zakończenia postępowania taryfowego przez Prezesa URE.
-
-4. Przedsiębiorstwo energetyczne wprowadza do stosowania taryfę, o której mowa w ust. 1, od dnia 1 października 2025 r., a w przypadku nieopublikowania decyzji zatwierdzającej taryfę do dnia 30 września 2025 r. – niezwłocznie z dniem następującym po dniu opublikowania tej decyzji.
-
-5. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną na potrzeby odbiorców uprawnionych wchodzące w skład przedsiębiorstwa zintegrowanego pionowo przedkłada taryfę do zatwierdzenia w terminie wynikającym z art. 47 ust. 1 ustawy – Prawo energetyczne.
-
-**Art. 52.**
-
-1. Przepisy art. 193 ust. 1c–1e ustawy zmienianej w art. 43 stosuje się również do pozwolenia na wytwarzanie odpadów, które wygasa po dniu wejścia w życie niniejszej ustawy ze względu na upływ czasu, na jaki zostało wydane, w przypadku gdy posiadacz odpadów złożył wniosek o wydanie nowego pozwolenia na wytwarzanie odpadów przed dniem wejścia w życie niniejszej ustawy, przy czym wymogu zachowania terminu na złożenie wniosku o wydanie nowego pozwolenia, o którym mowa w art. 193 ust. 1c ustawy zmienianej w art. 43 , nie stosuje się.
-
-2. Wymogu zachowania terminu na złożenie wniosku o wydanie nowego pozwolenia na wytwarzanie odpadów, o którym mowa w art. 193 ust. 1c ustawy zmienianej w art. 43 , nie stosuje się także w przypadku wniosków złożonych po dniu wejścia w życie niniejszej ustawy, jeżeli dotychczasowe pozwolenie na wytwarzanie odpadów wygasa przed upływem 3 miesięcy od dnia wejścia w życie niniejszej ustawy, a posiadacz odpadów złożył wniosek w terminie obowiązywania dotychczasowego pozwolenia.
 
 **Art. 53.**
 
-1. Przepisy art. 226a ustawy zmienianej w art. 45 stosuje się również do zezwolenia na zbieranie odpadów, zezwolenia na przetwarzanie odpadów lub zezwolenia na zbieranie i przetwarzanie odpadów, które wygasa po dniu wejścia w życie niniejszej ustawy ze względu na upływ czasu, na jaki zostało wydane, w przypadku gdy posiadacz odpadów złożył wniosek o wydanie nowego zezwolenia na zbieranie odpadów, zezwolenia na przetwarzanie odpadów lub zezwolenia na zbieranie i przetwarzanie odpadów przed dniem wejścia w życie niniejszej ustawy, przy czym w takim przypadku wymogu zachowania terminu na złożenie wniosku o wydanie nowego zezwolenia, o którym w art. 226a ust. 1 ustawy zmienianej w art. 45 , nie stosuje się.
+1. Przepisy art. 226a ustawy zmienianej w art. 45 stosuje się również do zezwolenia na zbieranie odpadów, zezwolenia na przetwarzanie odpadów lub zezwolenia na zbieranie i przetwarzanie odpadów, które wygasa po dniu wejścia w życie niniejszej ustawy ze względu na upływ czasu, na jaki zostało wydane, w przypadku gdy posiadacz odpadów złożył wniosek o wydanie nowego zezwolenia na zbieranie odpadów, zezwolenia na przetwarzanie odpadów lub zezwolenia na zbieranie i przetwarzanie odpadów przed dniem wejścia w życie niniejszej ustawy, przy czym w takim przypadku wymogu zachowania terminu na złożenie wniosku o wydanie nowego zezwolenia, o którym w art. 226a ust. 1 ustawy zmienianej w art. 45, nie stosuje się.
 
-2. Wymogu zachowania terminu na złożenie wniosku o wydanie nowego zezwolenia na zbieranie odpadów, zezwolenia na przetwarzanie odpadów lub zezwolenia na zbieranie i przetwarzanie odpadów, o którym mowa w art. 226a ust. 1 ustawy zmienianej w art. 45 , nie stosuje się także w przypadku wniosków złożonych po dniu wejścia w życie niniejszej ustawy, jeżeli dotychczasowe zezwolenie na zbieranie odpadów, zezwolenie na przetwarzanie odpadów lub zezwolenie na zbieranie i przetwarzanie odpadów wygasa przed upływem 3 miesięcy od dnia wejścia w życie niniejszej ustawy, a posiadacz odpadów złożył wniosek w terminie obowiązywania dotychczasowego zezwolenia.
+2. Wymogu zachowania terminu na złożenie wniosku o wydanie nowego zezwolenia na zbieranie odpadów, zezwolenia na przetwarzanie odpadów lub zezwolenia na zbieranie i przetwarzanie odpadów, o którym mowa w art. 226a ust. 1 ustawy zmienianej w art. 45, nie stosuje się także w przypadku wniosków złożonych po dniu wejścia w życie niniejszej ustawy, jeżeli dotychczasowe zezwolenie na zbieranie odpadów, zezwolenie na przetwarzanie odpadów lub zezwolenie na zbieranie i przetwarzanie odpadów wygasa przed upływem 3 miesięcy od dnia wejścia w życie niniejszej ustawy, a posiadacz odpadów złożył wniosek w terminie obowiązywania dotychczasowego zezwolenia.
 
-**Art. 54.** (uchylony)
+**Art. 54.**
 
-**Art. 55.** Przepisy art. 48a ustawy zmienianej w art. 45 , w brzmieniu nadanym niniejszą ustawą, mają również zastosowanie do ostatecznych postanowień wydanych przed dniem wejścia w życie ustawy.
+1. Do postępowań w sprawie o wydanie nowego pozwolenia na wytwarzanie odpadów, wszczętych i niezakończonych ostateczną decyzją przed dniem 1 stycznia 2026 r., przepisy art. 193 ust. 1c-1e ustawy zmienianej w art. 43 stosuje się.
+
+2. Do postępowań w sprawie wydania nowego zezwolenia na zbieranie odpadów, zezwolenia na przetwarzanie odpadów lub zezwolenia na zbieranie i przetwarzanie odpadów, wszczętych i niezakończonych ostateczną decyzją przed dniem 1 stycznia 2026 r., przepisy art. 226a ustawy zmienianej w art. 45 stosuje się.
+
+**Art. 55.** Przepisy art. 48a ustawy zmienianej w art. 45, w brzmieniu nadanym niniejszą ustawą, mają również zastosowanie do ostatecznych postanowień wydanych przed dniem wejścia w życie ustawy.
 
 **Art. 56.**
 
-1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 24 ust. 29 oraz art. 26 ust. 24 ustawy zmienianej w art. 51 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 24 ust. 29 oraz art. 26 ust. 24 ustawy zmienianej w art. 51 , nie dłużej jednak niż przez 2 miesiące od dnia wejścia w życie niniejszej ustawy.
+1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 24 ust. 29 oraz art. 26 ust. 24 ustawy zmienianej w art. 51 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 24 ust. 29 oraz art. 26 ust. 24 ustawy zmienianej w art. 51, nie dłużej jednak niż przez 2 miesiące od dnia wejścia w życie niniejszej ustawy.
 
-2. Do wniosków, o których mowa w art. 24 ust. 3 oraz art. 26 ust. 3 ustawy zmienianej w art. 51 , złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 51 w brzmieniu dotychczasowym.
+2. Do wniosków, o których mowa w art. 24 ust. 3 oraz art. 26 ust. 3 ustawy zmienianej w art. 51, złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 51 w brzmieniu dotychczasowym.
 
 **Art. 57.**
 
-1. Maksymalny limit wydatków z Funduszu przeznaczonych na rekompensaty dla przedsiębiorstw energetycznych, o których mowa w art. 12 ust. 1 i art. 15 ust. 3, oraz wypłatę dodatku elektrycznego, o którym mowa w art. 27 ust. 1, w latach 2023–2025 – wynosi 24 255 459 679 zł, w tym na wypłatę:
+1. Maksymalny limit wydatków z Funduszu przeznaczonych na rekompensaty dla przedsiębiorstw energetycznych, o których mowa w art. 12 ust. 1 i art. 15 ust. 3, oraz wypłatę dodatku elektrycznego, o którym mowa w art. 27 ust. 1, w latach 2023–2025 – wynosi 26 837 500 000 zł, w tym na wypłatę:
 
-- **1)** w roku 2023:
-    - **a)** rekompensaty, o której mowa w art. 12 ust. 1 – 17 019 133 066 zł,
-    - **b)** dodatki elektryczne, o których mowa w art. 27 ust. 1 – 1 020 000 000 zł;
+- **1)** w roku 2023: rekompensaty, o których mowa w art. 12 ust. 1 – 23 005 000 000 zł, dodatki elektryczne, o których mowa w art. 27 ust. 1 – 1 020 000 000 zł;
+    - **a)**
+    - **b)**
 
-- **2)** w latach 2024–2025 – rekompensat, o których mowa w art. 12 ust. 1 i art. 15 ust. 3 – 6 216 326 613 zł;
-- **3)** w roku 2024 – dodatków elektrycznych, o których mowa w art. 27 ust. 1 – 20 000 000 zł;
-- **4)** w latach 2025–2035 – dodatków elektrycznych, o których mowa w art. 27 ust. 1 – 300 000 zł.
+- **2)** w latach 2024–2025 – rekompensaty, o których mowa w art. 15 ust. 3 – 2 812 500 000 zł.
 
-1a. Maksymalny limit wydatków z Funduszu przeznaczonych na rekompensaty dla przedsiębiorstw energetycznych, o których mowa w art. 12a ust. 1, w roku 2024 wynosi 7 030 000 000 zł.
+2. Minister właściwy do spraw energii monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1. W przypadku gdy wykorzystanie środków wyniesie więcej niż 80% środków, o których mowa w ust. 1, minister właściwy do spraw energii informuje o tym fakcie ministra właściwego do spraw finansów publicznych oraz Prezesa Rady Ministrów.
 
-2. Minister właściwy do spraw energii monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1. W przypadku gdy wykorzystanie środków wyniesie więcej niż 80 % środków, o których mowa w ust. 1 lub 1a, minister właściwy do spraw energii informuje o tym fakcie ministra właściwego do spraw finansów publicznych oraz Prezesa Rady Ministrów.
-
-3. W przypadku gdy wykorzystanie środków wyniesie więcej niż 95 % środków, o których mowa w ust. 1 lub 1a, wysokość wypłacanych rekompensat lub dodatków elektrycznych podlega proporcjonalnemu obniżeniu tak, aby łączna wysokość wypłacanych rekompensat lub dodatków była równa maksymalnemu limitowi środków finansowych przeznaczanych na przyznanie dodatków.
-
-4. W przypadku, o którym mowa w ust. 3, od dnia w którym wykorzystanie środków wyniesie 95 % zarządca rozliczeń wstrzymuje wypłaty rekompensat wynikających z wniosków złożonych po tym dniu. Po rozpatrzeniu wszystkich wniosków o wypłatę rekompensat złożonych od dnia stwierdzenia wykorzystania środków w wysokości 95 % odpowiednio do dnia 25 stycznia 2024 r. – w przypadku rekompensat za 2023 r. oraz do dnia 25 lipca 2024 r. – w przypadku rekompensat za 2024 r., zarządca rozliczeń dokonuje proporcjonalnego obniżenia każdej kwoty z każdego zatwierdzonego wniosku o rekompensatę, która nie została wypłacona po dniu, o którym mowa w zdaniu poprzedzającym, a następnie dokonuje wypłat tych rekompensat w obniżonej wysokości.
+3. W przypadku gdy wykorzystanie środków wyniesie więcej niż 95% środków, o których mowa w ust. 1, wysokość wypłacanych rekompensat lub dodatków elektrycznych podlega proporcjonalnemu obniżeniu tak, aby łączna wysokość wypłacanych rekompensat lub dodatków była równa maksymalnemu limitowi środków finansowych przeznaczanych na przyznanie dodatków.
 
 **Art. 58.**
 
@@ -791,15 +772,6 @@ Art. 39‒51. (pominięte)
 - **1)** uzgodnienia – ministrowi właściwemu do spraw finansów publicznych;
 - **2)** zatwierdzenia – Prezesowi Rady Ministrów.
 
-2. Prezes Rady Ministrów zatwierdza zmianę planu finansowego w terminie 14 dni od dnia przedstawienia projektu tej zmiany.
+2.
 
-**Art. 59.** Przepisy art. 37 ust. 5–7 i art. 38 ust. 4 stosuje się odpowiednio od dnia wejścia w życie art. 37 ust. 1 i 2.
-
-**Art. 60.**
-
-1. Przepisy art. 193 ust. 1c–1e ustawy zmienianej w art. 43 tracą moc z dniem 1 stycznia 2027 r.
-
-2. Przepisy art. 226a ustawy zmienianej w art. 45 tracą moc z dniem 1 stycznia 2027 r.
-
-**Art. 61.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia , z wyjątkiem:
 

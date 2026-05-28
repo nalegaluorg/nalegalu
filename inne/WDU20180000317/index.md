@@ -8,12 +8,10 @@ pos: 317
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o elektromobilności i paliwach alternatywnych
-
-*USTAWA z dnia 11 stycznia 2018 r.*
+# Ustawa z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych
 
 | Pole | Wartość |
 |---|---|
@@ -24,16 +22,53 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-01-11 |
 | Data wydania | 2018-02-07 |
+| Wejście w życie | 2018-02-22 |
 | Ostatnia zmiana | 2026-01-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000317) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/317/text.pdf) |
-
-Art. 48–59. (pominięte) Przepisy epizodyczne
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
 
-**Art. 2.** Użyte ustawie określenia oznaczają: 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm. ) oraz trolejbus rozumieniu art. 2 pkt 83 tej ustawy, wykorzystujące do napędu energię elektryczną, tym energię wytworzoną z wodoru zainstalowanych nich ogniwach paliwowych, lub wyłącznie silnik, którego cykl pracy nie prowadzi do emisji gazów cieplarnianych lub innych substancji objętych systemem zarządzania emisjami gazów cieplarnianych i innych substancji, o którym mowa ustawie z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. z 2022 r. poz. 673 oraz z 2024 r. poz. 834);
+- **1)** zasady rozwoju i funkcjonowania infrastruktury służącej do wykorzystania paliw alternatywnych w transporcie, zwanej dalej „infrastrukturą paliw alternatywnych”, w tym wymagania techniczne, jakie ma spełniać ta infrastruktura;
+- **2)** obowiązki podmiotów publicznych w zakresie rozwoju infrastruktury paliw alternatywnych;
+- **3)** obowiązki informacyjne w zakresie paliw alternatywnych;
+- **4)** warunki funkcjonowania stref czystego transportu;
+- **5)** Krajowe ramy polityki rozwoju infrastruktury paliw alternatywnych oraz sposób ich realizacji.
+
+**Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** autobus zeroemisyjny – autobus w rozumieniu art. 2 pkt 41 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2017 r. poz. 1260 i 1926 oraz z 2018 r. poz. 79, 106, 138 i 317), wykorzystujący do napędu energię elektryczną wytworzoną z wodoru w zainstalowanych w nim ogniwach paliwowych lub wyłącznie silnik, którego cykl pracy nie prowadzi do emisji gazów cieplarnianych lub innych substancji objętych systemem zarządzania emisjami gazów cieplarnianych, o którym mowa w ustawie z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. z 2017 r. poz. 286, 1566 i 1999), oraz trolejbus w rozumieniu art. 2 pkt 83 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym;
+- **2)** bunkrowanie skroplonym gazem ziemnym (LNG) – napełnianie zbiorników jednostek pływających skroplonym gazem ziemnym (LNG) służącym do napędu tych jednostek;
+- **3)** infrastruktura ładowania drogowego transportu publicznego – punkty ładowania lub tankowania wodoru wraz z niezbędną dla ich funkcjonowania infrastrukturą towarzyszącą, przeznaczone do ładowania lub tankowania, w szczególności autobusów zeroemisyjnych, wykorzystywanych w transporcie publicznym;
+- **4)** jednostka pływająca – statek w rozumieniu art. 5 ust. 1 pkt 1 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2017 r. poz. 2128) oraz statek morski w rozumieniu art. 2 § 1 ustawy z dnia 18 września 2001 r. – Kodeks morski (Dz. U. z 2016 r. poz. 66), mogące wykorzystywać do napędu paliwa alternatywne;
+- **5)** ładowanie – pobór energii elektrycznej przez pojazd elektryczny, pojazd hybrydowy, autobus zeroemisyjny, pojazd silnikowy niebędący pojazdem elektrycznym, motorower, rower lub wózek rowerowy, w rozumieniu ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, na potrzeby napędu tego pojazdu;
+- **6)** ogólnodostępna stacja ładowania – stację ładowania dostępną na zasadach równoprawnego traktowania dla każdego użytkownika pojazdu elektrycznego, pojazdu hybrydowego i pojazdu silnikowego niebędącego pojazdem elektrycznym w rozumieniu ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym;
+- **7)** operator ogólnodostępnej stacji ładowania – podmiot odpowiedzialny za budowę, zarządzanie, bezpieczeństwo funkcjonowania, eksploatację, konserwację i remonty ogólnodostępnej stacji ładowania;
+- **8)** operator stacji gazu ziemnego – podmiot świadczący usługę tankowania gazu ziemnego w postaci sprężonego gazu ziemnego (CNG) lub skroplonego gazu ziemnego (LNG), w tym pochodzącego z biometanu;
+- **9)** operator systemu dystrybucyjnego elektroenergetycznego – operatora systemu dystrybucyjnego w rozumieniu art. 3 pkt 25 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2017 r. poz. 220, z późn. zm.), zajmującego się dystrybucją energii elektrycznej;
+- **10)** operator systemu dystrybucyjnego gazowego – operatora systemu dystrybucyjnego w rozumieniu art. 3 pkt 25 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, zajmującego się dystrybucją paliw gazowych;
+- **11)** paliwa alternatywne – paliwa lub energię elektryczną wykorzystywane do napędu silników pojazdów samochodowych lub jednostek pływających stanowiące substytut dla paliw pochodzących z ropy naftowej lub otrzymywanych w procesach jej przetwórstwa, w szczególności energię elektryczną, wodór, biopaliwa ciekłe, paliwa syntetyczne i parafinowe, sprężony gaz ziemny (CNG), w tym pochodzący z biometanu, skroplony gaz ziemny (LNG), w tym pochodzący z biometanu, lub gaz płynny (LPG);
+- **12)** pojazd elektryczny – pojazd samochodowy w rozumieniu art. 2 pkt 33 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, wykorzystujący do napędu wyłącznie energię elektryczną akumulowaną przez podłączenie do zewnętrznego źródła zasilania;
+- **13)** pojazd hybrydowy – pojazd samochodowy w rozumieniu art. 2 pkt 33 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, o napędzie spalinowo-elektrycznym, w którym energia elektryczna jest akumulowana przez podłączenie do zewnętrznego źródła zasilania;
+- **14)** pojazd napędzany gazem ziemnym – pojazd samochodowy w rozumieniu art. 2 pkt 33 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, wykorzystujący do napędu sprężony gaz ziemny (CNG) lub skroplony gaz ziemny (LNG), w tym pochodzący z biometanu;
+- **15)** pojazd napędzany wodorem – pojazd samochodowy w rozumieniu art. 2 pkt 33 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, wykorzystujący do napędu energię elektryczną wytworzoną z wodoru w zainstalowanych w nim ogniwach paliwowych;
+- **16)** punkt bunkrowania skroplonego gazu ziemnego (LNG) – zespół urządzeń wraz z obiektami budowlanymi lub jednostkę pływającą, służące do zaopatrywania jednostek pływających w skroplony gaz ziemny (LNG), w tym pochodzący z biometanu;
+- **17)** punkt ładowania – urządzenie umożliwiające ładowanie pojedynczego pojazdu elektrycznego, pojazdu hybrydowego i autobusu zeroemisyjnego oraz miejsce, w którym wymienia się lub ładuje akumulator służący do napędu tego pojazdu;
+- **18)** punkt ładowania o normalnej mocy – punkt ładowania o mocy mniejszej lub równej 22 kW, z wyłączeniem urządzeń o mocy mniejszej lub równej 3,7 kW zainstalowanych w miejscach innych niż ogólnodostępne stacje ładowania, w szczególności w budynkach mieszkalnych;
+- **19)** punkt ładowania o dużej mocy – punkt ładowania o mocy większej niż 22 kW;
+- **20)** punkt tankowania sprężonego gazu ziemnego (CNG) – zespół urządzeń służących do zaopatrywania pojazdów samochodowych w sprężony gaz ziemny (CNG), w tym pochodzący z biometanu, w celu napędu silników tych pojazdów;
+- **21)** punkt tankowania skroplonego gazu ziemnego (LNG) – zespół urządzeń służących do zaopatrywania pojazdów samochodowych w skroplony gaz ziemny (LNG), w tym pochodzący z biometanu, w celu napędu silników tych pojazdów;
+- **22)** punkt zasilania jednostek pływających energią elektryczną z lądu – zespół urządzeń służących do zasilania energią elektryczną jednostek pływających w czasie postoju w porcie, gdy silniki pomocnicze tych jednostek są wyłączone;
+- **23)** sieć bazowa TEN-T – bazową transeuropejską sieć transportową, o której mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1315/2013 z dnia 11 grudnia 2013 r. w sprawie unijnych wytycznych dotyczących rozwoju transeuropejskiej sieci transportowej i uchylającym decyzję nr 661/2010/UE (Dz. Urz. UE L 348 z 20.12.2013, str. 1, z późn. zm.) ;
+- **24)** skroplony gaz ziemny (LNG) – skroplony gaz ziemny w rozumieniu art. 2 ust. 1 pkt 7a ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. z 2016 r. poz. 1928 i 1948 oraz z 2017 r. poz. 624 i 2290);
+- **25)** sprężony gaz ziemny (CNG) – sprężony gaz ziemny w rozumieniu art. 2 ust. 1 pkt 7 ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw;
+- **26)** stacja gazu ziemnego – zespół urządzeń, w tym punkt tankowania sprężonego gazu ziemnego (CNG) lub punkt tankowania skroplonego gazu ziemnego (LNG), przyłączonych do sieci dystrybucyjnej gazowej lub terminalu przeznaczonego do sprowadzania, wyładunku i regazyfikacji skroplonego gazu ziemnego (LNG) wraz z instalacjami pomocniczymi i zbiornikami magazynowymi wykorzystywanymi w procesie regazyfikacji;
+- **27)** stacja ładowania: urządzenie budowlane obejmujące punkt ładowania o normalnej mocy lub punkt ładowania o dużej mocy, związane z obiektem budowlanym, lub wolnostojący obiekt budowlany z zainstalowanym co najmniej jednym punktem ładowania o normalnej mocy lub punktem ładowania o dużej mocy wyposażone w oprogramowanie umożliwiające świadczenie usług ładowania, wraz ze stanowiskiem postojowym oraz instalacją prowadzącą od punktu ładowania do przyłącza elektroenergetycznego;
+    - **a)**
+    - **b)**
+
+- **28)** tankowanie gazu ziemnego – napełnianie zbiorników pojazdów samochodowych sprężonym gazem ziemnym (CNG) lub skroplonym gazem ziemnym (LNG), w tym pochodzącym z biometanu, służącym do napędu tych pojazdów.
 
 #### Rozdział 2 Zasady rozwoju i funkcjonowania infrastruktury paliw alternatywnych
 
@@ -41,786 +76,472 @@ Art. 48–59. (pominięte) Przepisy epizodyczne
 
 1. Operator ogólnodostępnej stacji ładowania:
 
-- **1)** zapewnia, aby:
-    - **a)** ogólnodostępnej stacji ładowania prowadził działalność co najmniej jeden dostawca usługi ładowania,
-    - **b)** ogólnodostępna stacja ładowania spełniała wymagania techniczne, o których mowa art. 13 oraz przepisach wydanych na podstawie art. 17;
+- **1)** zapewnia, aby: w ogólnodostępnej stacji ładowania prowadził działalność co najmniej jeden dostawca usługi ładowania, ogólnodostępna stacja ładowania spełniała wymagania techniczne, o których mowa w art. 13 oraz przepisach wydanych na podstawie art. 17;
+    - **a)**
+    - **b)**
 
 - **2)** zapewnia przeprowadzenie przez Urząd Dozoru Technicznego, zwany dalej „UDT”, badań ogólnodostępnej stacji ładowania;
 - **3)** zapewnia bezpieczną eksploatację ogólnodostępnej stacji ładowania;
-- **4)** wyposaża:
-    - **a)** ogólnodostępną stację ładowania oprogramowanie pozwalające na: – podłączenie i ładowanie pojazdu elektrycznego i pojazdu hybrydowego, – przekazywanie danych do Ewidencji Infrastruktury Paliw Alternatywnych, zwanej dalej „rejestrem”, o dostępności punktu ładowania i cenie za usługę ładowania,
-    - **b)** każdy punkt ładowania zainstalowany ogólnodostępnej stacji ładowania, którą zarządza, system pomiarowy umożliwiający pomiar zużycia energii elektrycznej i przekazywanie danych pomiarowych z tego systemu do systemu zarządzania stacji ładowania czasie zbliżonym do rzeczywistego;
+- **4)** wyposaża: ogólnodostępną stację ładowania w oprogramowanie pozwalające na: – podłączenie i ładowanie pojazdu elektrycznego i pojazdu hybrydowego, – przekazywanie danych do Ewidencji Infrastruktury Paliw Alternatywnych o dostępności punktu ładowania i cenie za usługę ładowania, każdy punkt ładowania zainstalowany w ogólnodostępnej stacji ładowania, którą zarządza, w układ pomiarowo-rozliczeniowy umożliwiający minutowy pomiar zużycia energii elektrycznej i przekazywanie danych pomiarowych z tego układu do układu pomiarowo-rozliczeniowego tej stacji ładowania w czasie zbliżonym do rzeczywistego;
+    - **a)**
+    - **b)**
 
-- **5)** zawiera umowę o świadczenie usług dystrybucji energii elektrycznej, o której mowa art. 5 ust. 2 pkt 2 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, na potrzeby funkcjonowania stacji ładowania oraz świadczenia usług ładowania – jeżeli stacja ładowania jest przyłączona do sieci energetyczne;
-- **6)** przekazuje dostawcy usługi ładowania dane niezbędne do dokonania rozliczenia świadczonej usługi ładowania;
-- **7)** zawiera umowę sprzedaży energii elektrycznej na potrzeby funkcjonowania stacji ładowania oraz na potrzeby świadczenia usług ładowania przez dostawców usług ładowania, którzy świadczą usługę ładowania na tej stacji;
+- **5)** zawiera umowę o świadczenie usług dystrybucji energii elektrycznej, o której mowa w art. 5 ust. 2 pkt 2 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, na potrzeby funkcjonowania stacji ładowania oraz świadczenia usług ładowania;
+- **6)** przekazuje operatorowi systemu dystrybucyjnego elektroenergetycznego, dostawcy usług ładowania i sprzedawcy energii elektrycznej, który zawarł umowę sprzedaży energii elektrycznej z dostawcą usług ładowania prowadzącym działalność na tej stacji, dane dotyczące ilości zużytej energii elektrycznej odrębnie na świadczenie usług ładowania oraz na potrzeby funkcjonowania stacji ładowania;
+- **7)** zawiera umowę sprzedaży energii elektrycznej na potrzeby funkcjonowania stacji ładowania;
 - **8)** rozlicza straty energii elektrycznej wynikające z funkcjonowania stacji ładowania;
-- **9)** udostępnia ogólnodostępnej stacji ładowania informacje dotyczące zasad korzystania z tej stacji oraz instrukcję jej obsługi;
-- **10)** zapewnia dostawcom usług ładowania dostęp do ogólnodostępnej stacji ładowania, na podstawie umowy zawartej na zasadach rynkowych;
-- **11)** uzgadnia z organem zarządzającym ruchem na drogach liczbę możliwych do wyznaczenia stanowisk postojowych przy ogólnodostępnych stacjach ładowania przypadkach, o których mowa art. 12b ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2024 r. poz. 320 i 1222).
+- **9)** udostępnia w ogólnodostępnej stacji ładowania informacje dotyczące zasad korzystania z tej stacji oraz instrukcję jej obsługi;
+- **10)** zapewnia dostawcom usług ładowania, na zasadach równoprawnego traktowania, dostęp do ogólnodostępnej stacji ładowania;
+- **11)** uzgadnia z organem zarządzającym ruchem na drogach liczbę możliwych do wyznaczenia stanowisk postojowych przy ogólnodostępnych stacjach ładowania w przypadkach, o których mowa w art. 12b ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2017 r. poz. 2222 oraz z 2018 r. poz. 12, 138, 159 i 317).
 
 2. Dostawca usługi ładowania:
 
-- **1)** (uchylony)
-- **2)** świadczy usługę ładowania, która obejmuje:
-    - **a)** ładowanie,
-    - **b)** zapewnienie możliwości korzystania z infrastruktury stacji ładowania na potrzeby ładowania, tym na potrzeby rejestracji użytkownika pojazdu elektrycznego lub pojazdu hybrydowego, autoryzacji sesji ładowania, prowadzenia ewidencji informacji o sesji ładowania, udostępnienia informacji o sesji ładowania użytkownikowi, naliczania i pobierania płatności, wystawiania dokumentów sprzedaży oraz obsługi zgłoszeń i reklamacji;
-
+- **1)** zawiera ze sprzedawcą energii elektrycznej umowę sprzedaży energii elektrycznej, o której mowa w art. 5 ust. 2 pkt 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **2)** świadczy usługę ładowania obejmującą ładowanie oraz zapewnienie możliwości korzystania z infrastruktury stacji ładowania, na potrzeby ładowania;
 - **3)** udostępnia, na swojej stronie internetowej, informacje o cenie usługi ładowania i warunkach jej świadczenia.
-
-**Art. 3a.**
-
-1. Operator systemu dystrybucyjnego elektroenergetycznego nie może być operatorem ogólnodostępnej stacji ładowania, właścicielem tej stacji lub dostawcą usługi ładowania. właścicielem ogólnodostępnej stacji ładowania przypadku spełnienia łącznie następujących warunków:
-
-- **1)** celu sprzedaży ogólnodostępnej stacji ładowania przeprowadził otwarty, przejrzysty i niedyskryminacyjny przetarg:
-    - **a)** którego ogólne warunki, na jego wniosek, zostały zatwierdzone przez Prezesa Urzędu Regulacji Energetyki, zwanego dalej „Prezesem URE”, drodze decyzji,
-    - **b)** wyniku którego nie została zawarta umowa sprzedaży tej stacji, szczególności z uwagi na brak możliwości zapewnienia świadczenia usług ładowania niezwłocznie po nabyciu tej stacji i po rynkowych cenach;
-
-- **2)** podejmuje działania celu zapewnienia, że ogólnodostępnej stacji ładowania, której jest właścicielem, operator tej stacji realizuje obowiązek, o którym mowa art. 3 ust. 1 pkt 10.
-
-3. W ogólnych warunkach przeprowadzenia przetargu, o których mowa ust. 2 pkt 1 lit. a, operator systemu dystrybucyjnego elektroenergetycznego może ustalić cenę sprzedaży danej ogólnodostępnej stacji ładowania, która uwzględnia wysokość kapitału zaangażowanego przez niego budowę tej stacji pomniejszoną o koszty odzyskane jako koszty uzasadnione rozumieniu art. 3 pkt 21 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, uwzględnione kalkulacji stawek opłat zawartych taryfie zatwierdzonej przez Prezesa URE. W przypadku ustalenia ceny sposób określony zdaniu pierwszym do wniosku o zatwierdzenie ogólnych warunków przeprowadzenia przetargu operator systemu dystrybucyjnego elektroenergetycznego dołącza dokumenty potwierdzające prawidłowość jej ustalenia.
-
-4. Operator systemu dystrybucyjnego elektroenergetycznego informuje Prezesa URE o przebiegu i wynikach przetargu, o którym mowa ust. 2 pkt 1, oraz o innym przypadku zbycia ogólnodostępnej stacji ładowania.
-
-5. Przepisów ust. 1–4 nie stosuje się do stacji ładowania wykorzystywanych przez operatora systemu dystrybucyjnego elektroenergetycznego wyłącznie do użytku własnego.
-
-5a. Prezes URE na wniosek operatora systemu dystrybucyjnego elektroenergetycznego, który uzyskał decyzję, o której mowa art. 9da ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, stwierdza, drodze decyzji, wyłączenie stosunku do tego operatora zakazu, o którym mowa ust. 1. niż okres, na jaki została wydana decyzja, o której mowa art. 9da ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.
-
-5c. Prezes URE uchyla z urzędu decyzję, o której mowa ust. 5a, przypadku uchylenia decyzji, o której mowa art. 9da ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.
-
-5d. W terminie 6 miesięcy od dnia wygaśnięcia albo uchylenia decyzji, o której mowa art. 9da ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, operator systemu dystrybucyjnego elektroenergetycznego ogłasza przetarg, o którym mowa ust. 2 pkt 1.
-
-6. Prezes URE opracowuje wytyczne dotyczące przeprowadzenia przetargu, o którym mowa ust. 2 pkt 1, zapewniające przeprowadzenie tego przetargu, sposób przejrzysty i niedyskryminacyjny. Wytyczne Prezes URE publikuje Biuletynie Informacji Publicznej Urzędu Regulacji Energetyki.
-
-7. Przepisy ust. 2–6 stosuje się wyłącznie do ogólnodostępnych stacji ładowania, o których mowa art. 25 ustawy z dnia 2 grudnia 2021 r. o zmianie ustawy o elektromobilności i paliwach alternatywnych oraz niektórych innych ustaw (Dz. U. poz. 2269, z 2023 r. poz. 1681 oraz z 2024 r. poz. 1006), oraz do ogólnodostępnych stacji ładowania będących dniu wejścia życie tej ustawy własnością operatora systemu dystrybucyjnego elektroenergetycznego.
-
-**Art. 3b.**
-
-1. Prezes URE, przynajmniej raz na 5 lat, przeprowadza konsultacje rynkowe celem ustalenia, czy istnieją podmioty zainteresowane nabyciem ogólnodostępnej stacji ładowania, której właścicielem, zgodnie z art. 3a ust. 2, jest operator systemu dystrybucyjnego elektroenergetycznego.
-
-2. Konsultacje rynkowe, o których mowa ust. 1, Prezes URE przeprowadza również na wniosek właściciela danej ogólnodostępnej stacji ładowania, z tym że odniesieniu do danej stacji wniosek można składać nie częściej niż raz na 3 lata i nie wcześniej niż rok po zakończeniu ostatnich konsultacji rynkowych. Przeprowadzenie konsultacji rynkowych na podstawie wniosku nie zwalnia Prezesa URE z przeprowadzenia konsultacji rynkowych zgodnie z ust. 1.
-
-3. Prezes URE wyznacza termin na zgłoszenie podmiotów zainteresowanych, o których mowa ust. 1, nie krótszy niż 3 miesiące od dnia ogłoszenia konsultacji rynkowych, o których mowa ust. 1. Informacje o ogłoszeniu konsultacji rynkowych Publicznej Urzędu Regulacji Energetyki.
-
-4. Jeżeli konsultacjach rynkowych, o których mowa ust. 1, terminie wyznaczonym zgodnie z ust. 3, zgłosił się co najmniej jeden podmiot zainteresowany nabyciem ogólnodostępnej stacji ładowania, Prezes URE wydaje decyzję, której zobowiązuje operatora systemu dystrybucyjnego elektroenergetycznego do przeprowadzenia, terminie 12 miesięcy od dnia wydania decyzji, przetargu na sprzedaż tej stacji. Przepisy art. 3a stosuje się.
-
-**Art. 3c.** Ogólnodostępnej stacji ładowania, której właścicielem jest operator systemu dystrybucyjnego elektroenergetycznego, nie może nabyć inny operator systemu dystrybucyjnego elektroenergetycznego.
 
 **Art. 4.** Dostawca usługi ładowania korzysta z ogólnodostępnej stacji ładowania na podstawie umowy zawartej z operatorem ogólnodostępnej stacji ładowania.
 
-**Art. 5.** Operator ogólnodostępnej stacji ładowania ponosi odpowiedzialność za szkody powstałe związku z niespełnieniem przez ogólnodostępną stację ładowania wymagań technicznych, określonych art. 13 oraz przepisach wydanych na podstawie art. 17, lub wyniku niezrealizowania obowiązków, o których mowa art. 3 ust. 1 pkt 3 i 9, na zasadach określonych art. 435 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061).
+**Art. 5.** Operator ogólnodostępnej stacji ładowania ponosi odpowiedzialność za szkody powstałe w związku z niespełnieniem przez ogólnodostępną stację ładowania wymagań technicznych, określonych w art. 13 oraz w przepisach wydanych na podstawie art. 17, lub w wyniku niezrealizowania obowiązków, o których mowa w art. 3 ust. 1 pkt 3 i 9, na zasadach określonych w art. 435 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2017 r. poz. 459, 933 i 1132).
 
 **Art. 6.** Operator ogólnodostępnej stacji ładowania może wykonywać zadania dostawcy usługi ładowania.
 
-**Art. 7.** Dostawca usługi ładowania nie może uzależniać świadczenia usługi ładowania od uprzedniego zawarcia przez użytkownika pojazdu elektrycznego lub pojazdu hybrydowego umowy formie pisemnej, postaci papierowej lub elektronicznej.
+**Art. 7.** Dostawca usługi ładowania nie może uzależniać świadczenia usługi ładowania od uprzedniego zawarcia przez użytkownika pojazdu elektrycznego lub pojazdu hybrydowego umowy w formie pisemnej, w postaci papierowej lub elektronicznej.
 
-**Art. 8.** Operator ogólnodostępnej stacji ładowania zapewnia, aby energia elektryczna dostarczana do ogólnodostępnej stacji ładowania była wykorzystywana wyłącznie celu:
+**Art. 8.** Operator ogólnodostępnej stacji ładowania zapewnia, aby energia elektryczna dostarczana do ogólnodostępnej stacji ładowania była wykorzystywana wyłącznie w celu:
 
-**Art. 9.** (uchylony)
+- **1)** ładowania;
+- **2)** ładowania lub wymiany akumulatora służącego do napędu pojazdu elektrycznego, pojazdu hybrydowego, autobusu zeroemisyjnego lub pojazdu silnikowego, w rozumieniu art. 2 pkt 32 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, niebędącego pojazdem elektrycznym;
+- **3)** zapewnienia funkcjonowania tej stacji.
+
+**Art. 9.**
+
+1. Dostawca usługi ładowania wskazuje operatorowi ogólnodostępnej stacji ładowania sprzedawcę energii elektrycznej, z którym zawarł umowę sprzedaży energii elektrycznej, najpóźniej w dniu rozpoczęcia świadczenia usług ładowania, oraz informuje operatora ogólnodostępnej stacji ładowania o każdorazowej zmianie tego sprzedawcy.
+
+2. Operator ogólnodostępnej stacji ładowania przekazuje operatorowi systemu dystrybucyjnego elektroenergetycznego informację o zmianie przez dostawcę usług ładowania sprzedawcy energii elektrycznej, w terminie 7 dni od dnia otrzymania tej informacji.
+
+3. Przepis art. 4j ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne stosuje się odpowiednio.
 
 **Art. 10.**
 
-1. Jeżeli pojeździe elektrycznym lub pojeździe hybrydowym zainstalowany jest układ pomiarowo-rozliczeniowy, który umożliwia komunikację z systemem teleinformatycznym ogólnodostępnej stacji ładowania oraz przekazanie do tego systemu informacji o warunkach, na jakich użytkownik tego pojazdu dokonuje zakupu energii elektrycznej na podstawie zawartej przez siebie umowy sprzedaży energii elektrycznej, o której mowa art. 5 ust. 2 pkt 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, dostawca usług ładowania zapewnia użytkownikowi tego pojazdu możliwość zapłaty za energię elektryczną pobraną do ładowania pojazdu na warunkach określonych tej umowie sprzedaży.
+1. Jeżeli w pojeździe elektrycznym lub pojeździe hybrydowym zainstalowany jest układ pomiarowo-rozliczeniowy, który umożliwia komunikację z systemem teleinformatycznym ogólnodostępnej stacji ładowania oraz przekazanie do tego systemu informacji o warunkach, na jakich użytkownik tego pojazdu dokonuje zakupu energii elektrycznej na podstawie zawartej przez siebie umowy sprzedaży energii elektrycznej, o której mowa w art. 5 ust. 2 pkt 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, dostawca usług ładowania zapewnia użytkownikowi tego pojazdu możliwość zapłaty za energię elektryczną pobraną do ładowania pojazdu na warunkach określonych w tej umowie sprzedaży.
 
-2. Jeżeli pojeździe elektrycznym lub pojeździe hybrydowym zainstalowany jest układ pomiarowo-rozliczeniowy, który umożliwia komunikację z układem pomiarowo-rozliczeniowym służącym do pomiaru energii elektrycznej pobranej przez użytkownika pojazdu budynku mieszkalnym jednorodzinnym albo lokalu mieszkalnym znajdującym się budynku mieszkalnym wielorodzinnym, do którego posiada on tytuł prawny, sprzedawca energii elektrycznej uwzględnia pobraną podczas ładowania energię elektryczną fakturze za energię elektryczną użytkownika tego pojazdu.
+2. Jeżeli w pojeździe elektrycznym lub pojeździe hybrydowym zainstalowany jest układ pomiarowo-rozliczeniowy, który umożliwia komunikację z układem pomiarowo-rozliczeniowym służącym do pomiaru energii elektrycznej pobranej przez użytkownika pojazdu w budynku mieszkalnym jednorodzinnym albo lokalu mieszkalnym znajdującym się w budynku mieszkalnym wielorodzinnym, do którego posiada on tytuł prawny, sprzedawca energii elektrycznej uwzględnia pobraną podczas ładowania energię elektryczną w fakturze za energię elektryczną użytkownika tego pojazdu.
 
-**Art. 11.** Budowa i utrzymanie infrastruktury ładowania drogowego transportu publicznego oraz przedsięwzięcia niezbędne do przyłączania do sieci punktów ładowania stanowiących element tej infrastruktury, polegające szczególności na modernizacji, rozbudowie albo budowie sieci, są celem publicznym rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2024 r. poz. 1145 i 1222).
+**Art. 11.** Budowa i utrzymanie infrastruktury ładowania drogowego transportu publicznego oraz przedsięwzięcia niezbędne do przyłączania do sieci punktów ładowania stanowiących element tej infrastruktury, polegające w szczególności na modernizacji, rozbudowie albo budowie sieci, są celem publicznym w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2018 r. poz. 121 i 50).
 
 **Art. 12.**
 
-1. Budynki użyteczności publicznej oraz budynki mieszkalne wielorodzinne, usytuowane gminach, o których mowa art. 60 ust. 1, oraz związane z nimi wewnętrzne i zewnętrzne stanowiska postojowe, projektuje się i buduje, zapewniając moc przyłączeniową pozwalającą wyposażyć te stanowiska punkty ładowania o mocy nie mniejszej niż 3,7 kW. ustalania minimalnej mocy przyłączeniowej, o której mowa ust. 1, kierując się koniecznością zapewnienia budynkach, o których mowa ust. 1, mocy przyłączeniowej pozwalającej instalować punkty ładowania oraz koniecznością stopniowego zwiększania liczby punktów ładowania i biorąc pod uwagę potrzebę zaspokojenia bieżącego zapotrzebowania na energię elektryczną wynikającego z używania tych budynków.
+1. Budynki użyteczności publicznej oraz budynki mieszkalne wielorodzinne, usytuowane w gminach, o których mowa w art. 60 ust. 1, oraz związane z nimi wewnętrzne i zewnętrzne stanowiska postojowe, projektuje się i buduje, zapewniając moc przyłączeniową pozwalającą wyposażyć te stanowiska w punkty ładowania o mocy nie mniejszej niż 3,7 kW.
 
-**Art. 12a.**
+2. Minister właściwy do spraw energii określi, w drodze rozporządzenia, sposób ustalania mocy przyłączeniowej, o której mowa w ust. 1, kierując się potrzebą stopniowego zwiększania liczby punktów ładowania i budowy sieci tych punktów umożliwiającej użytkowanie pojazdów elektrycznych i pojazdów hybrydowych.
 
-1. Budynki niemieszkalne, z którymi związanych jest więcej niż 10 stanowisk postojowych, projektuje się i buduje, zapewniając zainstalowanie co najmniej jednego punktu ładowania oraz kanałów na przewody i kable elektryczne umożliwiających zainstalowanie co najmniej jednego punktu ładowania na pięć stanowisk postojowych, jeżeli te stanowiska postojowe:
-
-- **1)** znajdują się wewnątrz budynku lub
-- **2)** przylegają do budynku.
-
-2. Budynki mieszkalne, z którymi związanych jest więcej niż 10 stanowisk postojowych, projektuje się i buduje, zapewniając zainstalowanie kanałów na przewody i kable elektryczne na wszystkich stanowiskach postojowych, umożliwiających zainstalowanie punktów ładowania na każdym stanowisku postojowym, jeżeli te stanowiska postojowe:
-
-- **1)** znajdują się wewnątrz budynku lub
-- **2)** przylegają do budynku.
-
-3. Wymagania, o których mowa ust. 1 i 2, mają również zastosowanie przypadku budynków poddawanych przebudowie albo remontowi, ramach których koszt wykonywanych prac związanych z przegrodami zewnętrznymi lub systemami technicznymi budynku wynosi więcej niż 25 % wartości budynku, nie wliczając wartości gruntu, na którym usytuowane są budynek i parking, oraz gdy koszty instalacji punktów ładowania i infrastruktury kanałowej nie przekraczają 7 % całkowitego kosztu przebudowy albo remontu, jeżeli stanowiska postojowe:
-
-- **1)** znajdują się wewnątrz budynku, a przebudowa albo remont obejmuje parking lub infrastrukturę elektryczną budynku, lub
-- **2)** przylegają do budynku, a przebudowa albo remont obejmuje parking lub infrastrukturę elektryczną parkingu. i ust. 3 pkt 2, rozumie się powiązanie z tym budynkiem, pod względem własności lub używania na podstawie innego tytułu prawnego, parkingu, który:
-- **1)** bezpośrednio przylega do tego budynku lub
-- **2)** nie przylega bezpośrednio do tego budynku.
-
-5. W przypadku budynków, o których mowa ust. 3, będących zabytkiem nieruchomym rozumieniu art. 3 pkt 2 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2022 r. poz. 840 oraz z 2023 r. poz. 951, 1688 i 1904), wpisanych do rejestru zabytków lub gminnej ewidencji zabytków, instalacja punktu ładowania oraz kanałów na przewody i kable elektryczne wymaga uzyskania zgody wojewódzkiego konserwatora zabytków właściwego dla lokalizacji tego zabytku, udzielonej drodze decyzji.
-
-6. W przypadku budynków będących własnością małych i średnich przedsiębiorców, o których mowa ustawie z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236 i 1222), przepisów ust. 1 i 3 zakresie budynków niemieszkalnych nie stosuje się.
-
-**Art. 12b.**
-
-1. W budynkach mieszkalnych wielorodzinnych, których liczba samodzielnych lokali mieszkalnych jest większa niż trzy, punkt ładowania instaluje się i eksploatuje po uzyskaniu zgody zarządu wspólnoty lub spółdzielni lub osoby sprawującej zarząd nad daną nieruchomością, wydawanej na wniosek osoby posiadającej tytuł prawny do lokalu tym budynku i stanowisko postojowe do wyłącznego użytku, zwanej dalej „wnioskodawcą”.
-
-2. W przypadku wspólnoty mieszkaniowej wydanie zgody na instalację i eksploatację punktu ładowania o mocy mniejszej niż 11 kW stanowi czynność zwykłego zarządu.
-
-3. Do wniosku, o którym mowa ust. 1, dołącza się:
-
-- **1)** oświadczenie o zobowiązaniu się wnioskodawcy do pokrycia wszelkich kosztów związanych z instalacją punktu ładowania, tym kosztów zakupu i montażu tego punktu;
-- **2)** oświadczenie o posiadaniu tytułu prawnego do lokalu;
-- **3)** zgodę właściciela lokalu na instalację punktu ładowania – przypadku gdy wnioskodawca nie jest właścicielem lokalu; zabytkiem nieruchomym rozumieniu art. 3 pkt 2 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, wpisanej do rejestru zabytków lub gminnej ewidencji zabytków.
-
-4. W terminie 30 dni od dnia złożenia wniosku, o którym mowa ust. 1, podmiot, o którym mowa ust. 1, zleca sporządzenie ekspertyzy dopuszczalności instalacji punktów ładowania, zwanej dalej „ekspertyzą”, i niezwłocznie po jej otrzymaniu udostępnia ją wnioskodawcy.
-
-5. Podmiot, o którym mowa ust. 1, rozpatruje wniosek, o którym mowa ust. 1, terminie 30 dni od dnia otrzymania ekspertyzy albo, przypadku gdy sporządzenie ekspertyzy nie jest wymagane, terminie 30 dni od dnia złożenia wniosku.
-
-6. Sporządzenie ekspertyzy nie jest wymagane przypadku budynków, których została zaprojektowana i wykonana instalacja elektryczna przeznaczona do zasilania punktów ładowania. W takim przypadku przy instalacji punktu ładowania uwzględnia się przyjęte rozwiązania dotyczące instalacji elektrycznej, szczególności jej parametry techniczne oraz zastosowane środki zabezpieczeń.
-
-7. W przypadku braku obowiązku sporządzenia ekspertyzy oraz gdy wszelkie koszty związane z instalacją punktu ładowania, tym koszt jego zakupu i montażu, zostaną pokryte przez wnioskodawcę, może on przystąpić do instalacji i eksploatacji tego punktu po bezskutecznym upływie terminu, o którym mowa ust. 5.
-
-8. Podmiot, o którym mowa ust. 1, odmawia udzielenia zgody na zainstalowanie i eksploatację punktu ładowania przypadku gdy:
-
-- **1)** z ekspertyzy wynika, że instalacja punktu ładowania zgodnie z wnioskiem, o którym mowa ust. 1, nie jest możliwa lub
-- **2)** wnioskodawca nie posiada tytułu prawnego do lokalu obrębie tego budynku i stanowiska postojowego do wyłącznego użytku, lub
-- **3)** wnioskodawca nie przedłożył zgody właściciela lokalu na instalację punktu ładowania – przypadku, o którym mowa ust. 3 pkt 3;
-- **4)** wnioskodawca nie zobowiązał się do pokrycia wszelkich kosztów związanych z instalacją oraz przyłączeniem do sieci elektroenergetycznej punktu ładowania objętego wnioskiem, o którym mowa ust. 1.
-
-9. W przypadku gdy z ekspertyzy wynika, że instalacja punktu ładowania objętego wnioskiem, o którym mowa ust. 1, jest możliwa jedynie po zmianie lub przebudowie istniejącej instalacji elektrycznej, zgody na instalację i eksploatację punktu ładowania można udzielić wyłącznie, jeżeli wnioskodawca zobowiąże się pokryć wszelkie koszty tych czynności.
-
-10. Jeżeli na stanowisku postojowym, do którego prawo do wyłącznego użytku posiada wnioskodawca, został zainstalowany punkt ładowania, operator systemu dystrybucyjnego elektroenergetycznego instaluje układ pomiarowo-rozliczeniowy, celu opomiarowania energii elektrycznej pobieranej przez ten punkt ładowania, po uprzednim zawarciu umowy, o której mowa art. 5 ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.
-
-11. W przypadku budynku będącego zabytkiem nieruchomym rozumieniu art. 3 pkt 2 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, wpisanego do rejestru zabytków lub gminnej ewidencji zabytków, instalacja punktu ładowania wymaga uzyskania zgody wojewódzkiego konserwatora zabytków właściwego dla lokalizacji tego zabytku, udzielonej drodze decyzji.
-
-12. Przepisy ust. 1–11 stosuje się odpowiednio do spółdzielni mieszkaniowej przypadkach, o których mowa art. 26 ust. 2 i art. 27 ust. 2 ustawy z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych (Dz. U. z 2024 r. poz. 558), oraz do spółdzielni mieszkaniowej budynkach mieszkalnych wielorodzinnych, których nie występują lokale stanowiące własność podmiotów innych niż spółdzielnia mieszkaniowa.
-
-**Art. 12c.**
-
-1. Przedmiotem ekspertyzy jest ocena instalacji elektrycznej obrębie budynku objętego wnioskiem, o którym mowa art. 12b ust. 1, oraz ocena stanowisk postojowych znajdujących się wewnątrz tego budynku lub do niego przylegających pod względem dopuszczalności przyłączenia do tej instalacji punktu ładowania objętego tym wnioskiem oraz zasad bezpieczeństwa związanych z jego używaniem.
-
-2. W przypadku gdy wnioski, o których mowa art. 12b ust. 1, złożyło kilku wnioskodawców, można sporządzić jedną ekspertyzę dotyczącą wszystkich lub wybranych punktów ładowania objętych tymi wnioskami.
-
-3. Ekspertyzę sporządza osoba posiadająca uprawnienia budowlane specjalności instalacyjnej zakresie sieci, instalacji i urządzeń elektrycznych i elektroenergetycznych do projektowania bez ograniczeń. ją sporządza, udostępnia się wyniki okresowego badania instalacji elektrycznej, o którym mowa art. 62 ust. 1 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2024 r. poz. 725, 834 i 1222), oraz dokumenty, tym opracowania, o których mowa art. 63 tej ustawy.
-
-5. Ekspertyza określa szczególności:
-
-- **1)** moc przyłączeniową budynku, która może zostać wykorzystana na potrzeby funkcjonowania punktu ładowania;
-- **2)** punkty instalacji elektrycznej, których przyłączenie punktu ładowania jest dopuszczalne, oraz parametry tego punktu, tym maksymalną moc punktu ładowania, który może być przyłączony do instalacji elektrycznej;
-- **3)** rozwiązania budowlane oraz techniczno-instalacyjne, jakie powinny być przyjęte przy instalacji punktu ładowania, tym wymagania dotyczące wyrobów zastosowanych do instalacji tego punktu;
-- **4)** warunki niezbędne do bezpiecznej eksploatacji punktu ładowania;
-- **5)** wymagania, jakie powinny być spełnione zakresie bezpieczeństwa pożarowego związku z zainstalowaniem punktu ładowania.
-
-6. Koszty sporządzenia ekspertyzy ponosi wnioskodawca.
-
-**Art. 13.** Stacje ładowania, punkty ładowania stanowiące element infrastruktury ładowania drogowego transportu publicznego oraz punkty zasilania jednostek pływających energią elektryczną z lądu spełniają wymagania techniczne i eksploatacyjne określone szczególności Polskich Normach, zapewniające ich bezpieczne używanie, tym bezpieczeństwo pożarowe, bezpieczne funkcjonowanie sieci elektroenergetycznych oraz dostęp do stacji ładowania dla osób niepełnosprawnych.
+**Art. 13.** Stacje ładowania, punkty ładowania stanowiące element infrastruktury ładowania drogowego transportu publicznego oraz punkty zasilania jednostek pływających energią elektryczną z lądu spełniają wymagania techniczne i eksploatacyjne określone w szczególności w Polskich Normach, zapewniające ich bezpieczne użytkowanie, w tym bezpieczeństwo pożarowe, bezpieczne funkcjonowanie sieci elektroenergetycznych oraz dostęp do stacji ładowania dla osób niepełnosprawnych .
 
 **Art. 14.**
 
 1. Eksploatację stacji ładowania, punktu ładowania stanowiącego element infrastruktury ładowania drogowego transportu publicznego oraz punktu zasilania jednostek pływających energią elektryczną z lądu prowadzi się zgodnie z ich przeznaczeniem oraz gdy ich stan techniczny zapewnia bezpieczne korzystanie z nich.
 
-2. Stacje ładowania, punkty ładowania stanowiące element infrastruktury ładowania drogowego transportu publicznego oraz punkty zasilania jednostek pływających energią elektryczną z lądu posiadają dokumenty określające ich właściwości konstrukcyjne, techniczne i eksploatacyjne. z wnioskiem do Prezesa Urzędu Dozoru Technicznego, zwanego dalej „Prezesem UDT”, o opinię zakresie zgodności dokumentacji technicznej projektowanej stacji z wymaganiami technicznymi określonymi art. 13 oraz przepisach wydanych na podstawie art. 17.
+2. Stacje ładowania, punkty ładowania stanowiące element infrastruktury ładowania drogowego transportu publicznego oraz punkty zasilania jednostek pływających energią elektryczną z lądu posiadają dokumenty określające ich właściwości konstrukcyjne, techniczne i eksploatacyjne.
 
-2. Prezes UDT wydaje opinię, o której mowa ust. 1, terminie 30 dni od dnia złożenia wniosku.
+**Art. 15.**
 
-3. Wydanie opinii, o której mowa ust. 1, podlega opłacie, która stanowi przychód UDT.
+1. Przed przystąpieniem do budowy stacji ładowania można wystąpić z wnioskiem do Prezesa Urzędu Dozoru Technicznego, zwanego dalej „Prezesem UDT”, o opinię w zakresie zgodności dokumentacji technicznej projektowanej stacji z wymaganiami technicznymi określonymi w art. 13 oraz w przepisach wydanych na podstawie art. 17.
+
+2. Prezes UDT wydaje opinię, o której mowa w ust. 1, w terminie 30 dni od dnia złożenia wniosku.
+
+3. Wydanie opinii, o której mowa w ust. 1, podlega opłacie, która stanowi przychód UDT.
 
 **Art. 16.**
 
-1. Stacje ładowania i punkty ładowania stanowiące element infrastruktury ładowania drogowego transportu publicznego zakresie ich bezpiecznej eksploatacji, naprawy i modernizacji podlegają badaniom technicznym przeprowadzanym przez UDT.
+1. Stacje ładowania i punkty ładowania stanowiące element infrastruktury ładowania drogowego transportu publicznego w zakresie ich bezpiecznej eksploatacji, naprawy i modernizacji podlegają badaniom technicznym przeprowadzanym przez UDT.
 
-2. Badanie, o którym mowa ust. 1, przeprowadza się:
+2. Badanie, o którym mowa w ust. 1, przeprowadza się:
 
 - **1)** przed oddaniem do eksploatacji stacji ładowania lub infrastruktury ładowania drogowego transportu publicznego;
-- **2)** każdorazowo przypadku naprawy lub modernizacji stacji ładowania lub infrastruktury ładowania drogowego transportu publicznego, tym polegającej na zwiększeniu liczby punktów ładowania, lub zmiany miejsca zainstalowania punktu ładowania tej stacji lub infrastrukturze, z wyłączeniem prac polegających wyłącznie na wymianie części lub podzespołów urządzenia na części lub podzespoły o takich samych parametrach i charakterystykach lub spełniające wymagania producenta.
+- **2)** każdorazowo w przypadku naprawy lub modernizacji takiej stacji lub infrastruktury, w tym polegającej na zwiększeniu liczby punktów ładowania, lub zmiany miejsca zainstalowania punktu ładowania w tej stacji lub infrastrukturze.
 
-3. Badanie, o którym mowa ust. 1, przeprowadza się odpowiednio na wniosek operatora ogólnodostępnej stacji ładowania lub podmiotu eksploatującego stację ładowania inną niż ogólnodostępna stacja ładowania lub infrastrukturę ładowania drogowego transportu publicznego.
+3. Badanie, o którym mowa w ust. 1, przeprowadza się odpowiednio na wniosek operatora ogólnodostępnej stacji ładowania lub podmiotu eksploatującego stację ładowania inną niż ogólnodostępna stacja ładowania lub infrastrukturę ładowania drogowego transportu publicznego.
 
-4. Prezes UDT wydaje decyzję o wstrzymaniu eksploatacji odpowiednio punktu ładowania zainstalowanego na stacji ładowania lub stacji ładowania, lub punktu ładowania stanowiącego element infrastruktury ładowania drogowego transportu publicznego, przypadku stwierdzenia, na podstawie wyników badań, o których mowa ust. 1, niespełnienia odpowiednio przez punkt ładowania zainstalowany na stacji ładowania lub stację ładowania, lub punkt ładowania stanowiący element określonych art. 13 lub przepisach wydanych na podstawie art. 17. W celu ponownego rozpoczęcia eksploatacji punktu ładowania zainstalowanego na stacji ładowania lub stacji ładowania, lub punktu ładowania stanowiącego element infrastruktury ładowania drogowego transportu publicznego przepis ust. 2 pkt 1 stosuje się.
+4. Prezes UDT wydaje decyzję o wstrzymaniu eksploatacji odpowiednio punktu ładowania zainstalowanego na stacji ładowania lub stacji ładowania, lub punktu ładowania stanowiącego element infrastruktury ładowania drogowego transportu publicznego, w przypadku stwierdzenia, na podstawie wyników badań, o których mowa w ust. 1, niespełnienia odpowiednio przez punkt ładowania zainstalowany na stacji ładowania lub stację ładowania, lub punkt ładowania stanowiący element infrastruktury ładowania drogowego transportu publicznego wymagań technicznych określonych w art. 13 lub w przepisach wydanych na podstawie art. 17.
 
-5. Za przeprowadzenie badań, o których mowa ust. 1, pobierane są opłaty, które stanowią przychód UDT.
+5. Za przeprowadzenie badań, o których mowa w ust. 1, pobierane są opłaty, które stanowią przychód UDT.
 
 **Art. 17.**
 
-1. Minister właściwy do spraw energii określi, drodze rozporządzenia:
+1. Minister właściwy do spraw energii określi, w drodze rozporządzenia:
 
-- **1)** szczegółowe wymagania techniczne, inne niż zakresie wymiany akumulatorów służących do napędu pojazdów:
-    - **a)** dotyczące bezpieczeństwa eksploatacji, naprawy i modernizacji stacji ładowania,
-    - **b)** dotyczące bezpieczeństwa eksploatacji, naprawy i modernizacji punktów ładowania stanowiących element infrastruktury ładowania drogowego transportu publicznego,
-    - **c)** jakie muszą spełniać ogólnodostępne stacje ładowania i punkty ładowania stanowiące element infrastruktury ładowania drogowego transportu publicznego zakresie dotyczącym gniazd wyjściowych lub złączy pojazdowych,
+- **1)** szczegółowe wymagania techniczne, inne niż w zakresie wymiany akumulatorów służących do napędu pojazdów: dotyczące bezpieczeństwa eksploatacji, naprawy i modernizacji stacji ładowania, dotyczące bezpieczeństwa eksploatacji, naprawy i modernizacji punktów ładowania stanowiących element infrastruktury ładowania drogowego transportu publicznego, jakie muszą spełniać ogólnodostępne stacje ładowania i punkty ładowania stanowiące element infrastruktury ładowania drogowego transportu publicznego w zakresie dotyczącym gniazd wyjściowych lub złączy pojazdowych,
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **2)** rodzaje badań, jakim podlegają stacje ładowania i punkty ładowania stanowiące element infrastruktury ładowania drogowego transportu publicznego, oraz sposób i terminy przeprowadzania tych badań przez UDT,
 - **3)** dokumenty dołączane do wniosku o przeprowadzenie badań,
-- **4)** wysokość opłaty, o której mowa art. 15 ust. 3 i art. 16 ust. 5 – biorąc pod uwagę konieczność zapewnienia jednolitości rozwiązań technicznych, bezpieczeństwa użytkowników, dostępu dla osób niepełnosprawnych, zakres badania przeprowadzanego przez UDT oraz rodzaj przedmiotu tego badania.
+- **4)** wysokość opłaty, o której mowa w art. 15 ust. 3 i art. 16 ust. 5 biorąc pod uwagę konieczność zapewnienia jednolitości rozwiązań technicznych, bezpieczeństwa użytkowników, dostępu dla osób niepełnosprawnych, zakres badania przeprowadzanego przez UDT oraz rodzaj przedmiotu tego badania.
 
-2. Minister właściwy do spraw energii może określić drodze rozporządzenia:
+2. Minister właściwy do spraw energii może określić w drodze rozporządzenia:
 
-- **1)** szczegółowe wymagania techniczne dotyczące bezpieczeństwa eksploatacji, naprawy i modernizacji punktów ładowania zakresie wymiany akumulatorów służących do napędu pojazdów elektrycznych lub pojazdów hybrydowych, o których mowa pkt 1,
+- **1)** szczegółowe wymagania techniczne dotyczące bezpieczeństwa eksploatacji, naprawy i modernizacji punktów ładowania w zakresie wymiany akumulatorów służących do napędu pojazdów elektrycznych lub pojazdów hybrydowych,
+- **2)** sposób i terminy przeprowadzania przez UDT badań punktów ładowania, o których mowa w pkt 1,
 - **3)** dokumenty dołączane do wniosku o przeprowadzenie badań,
-- **4)** wysokość opłaty, o której mowa art. 16 ust. 5 – biorąc pod uwagę konieczność zapewnienia jednolitości rozwiązań technicznych, bezpieczeństwa podczas wymiany i przechowywania akumulatorów służących do napędu pojazdów, zakres badania przeprowadzanego przez UDT oraz rodzaj przedmiotu badania.
+- **4)** wysokość opłaty, o której mowa w art. 16 ust. 5 biorąc pod uwagę konieczność zapewnienia jednolitości rozwiązań technicznych, bezpieczeństwa podczas wymiany i przechowywania akumulatorów służących do napędu pojazdów, zakres badania przeprowadzanego przez UDT oraz rodzaj przedmiotu badania.
 
 **Art. 18.**
 
-1. Punkty zasilania jednostek pływających energią elektryczną z lądu, zakresie ich bezpiecznej eksploatacji, naprawy i modernizacji, podlegają badaniom technicznym przeprowadzanym przez Transportowy Dozór Techniczny, zwany dalej „TDT”.
+1. Punkty zasilania jednostek pływających energią elektryczną z lądu, w zakresie ich bezpiecznej eksploatacji, naprawy i modernizacji, podlegają badaniom technicznym przeprowadzanym przez Transportowy Dozór Techniczny, zwany dalej „TDT”.
 
-2. Badanie, o którym mowa ust. 1, przeprowadza się przed oddaniem do eksploatacji punktu zasilania jednostek pływających energią elektryczną z lądu, każdorazowo przypadku naprawy lub modernizacji takiego punktu oraz każdorazowo przypadku powzięcia informacji o nieprawidłowościach funkcjonowaniu punktu lub wypadku związanym z jego eksploatacją przekazanych zgodnie z ust. 3a.
+2. Badanie, o którym mowa w ust. 1, przeprowadza się przed oddaniem do eksploatacji punktu zasilania jednostek pływających energią elektryczną z lądu oraz każdorazowo w przypadku naprawy lub modernizacji takiego punktu.
 
-3. Badanie, o którym mowa ust. 1, przeprowadza się na wniosek podmiotu eksploatującego punkt zasilania jednostek pływających energią elektryczną z lądu.
+3. Badanie, o którym mowa w ust. 1, przeprowadza się na wniosek podmiotu eksploatującego punkt zasilania jednostek pływających energią elektryczną z lądu.
 
-3a. Podmiot eksploatujący punkt zasilania jednostek pływających energią elektryczną z lądu jest obowiązany niezwłocznie zawiadomić TDT o każdej nieprawidłowości funkcjonowaniu tego punktu lub wypadku związanym z jego eksploatacją.
+4. Dyrektor Transportowego Dozoru Technicznego, zwany dalej „Dyrektorem TDT”, wydaje decyzję o wstrzymaniu eksploatacji punktów zasilania jednostek pływających energią elektryczną z lądu w przypadku stwierdzenia, na podstawie wyników badań, o których mowa w ust. 1, niespełnienia przez punkt zasilania jednostek pływających energią elektryczną z lądu wymagań technicznych określonych w art. 13 lub w przepisach wydanych na podstawie art. 19.
 
-4. Dyrektor Transportowego Dozoru Technicznego, zwany dalej „Dyrektorem TDT”, wydaje decyzję o wstrzymaniu eksploatacji punktów zasilania jednostek pływających energią elektryczną z lądu przypadku stwierdzenia, na podstawie wyników badań, o których mowa ust. 1, niespełnienia przez punkt zasilania jednostek pływających energią elektryczną z lądu wymagań technicznych określonych art. 13 lub przepisach wydanych na podstawie art. 19. W celu ponownego rozpoczęcia eksploatacji punktów zasilania jednostek pływających energią elektryczną z lądu przepis ust. 2 stosuje się. które stanowią przychód TDT.
+5. Za przeprowadzenie badań, o których mowa w ust. 1, pobierane są opłaty, które stanowią przychód TDT.
 
-**Art. 18a.**
+**Art. 19.** Minister właściwy do spraw energii, w porozumieniu z ministrem właściwym do spraw gospodarki morskiej i ministrem właściwym do spraw żeglugi śródlądowej, określi, w drodze rozporządzenia:
 
-1. Przed przystąpieniem do budowy punktu zasilania jednostek pływających energią elektryczną z lądu można wystąpić z wnioskiem do Dyrektora TDT o opinię zakresie zgodności dokumentacji technicznej projektowanego punktu zasilania jednostek pływających energią elektryczną z lądu z wymaganiami technicznymi określonymi art. 13 oraz przepisach wydanych na podstawie art.
-
-19.
-
-2. Dyrektor TDT wydaje opinię, o której mowa ust. 1, terminie 30 dni od dnia złożenia wniosku.
-
-3. Wydanie opinii, o której mowa ust. 1, podlega opłacie, która stanowi przychód TDT.
-
-**Art. 19.** Minister właściwy do spraw energii określi, drodze rozporządzenia:
+- **1)** szczegółowe wymagania techniczne, jakie muszą spełniać punkty zasilania jednostek pływających energią elektryczną z lądu, w zakresie bezpieczeństwa eksploatacji, naprawy i modernizacji tych punktów,
+- **2)** rodzaje badań punktów zasilania jednostek pływających energią elektryczną z lądu przeprowadzanych przez TDT oraz sposób i terminy ich przeprowadzania,
+- **3)** wysokość opłaty, o której mowa w art. 18 ust. 5 kierując się koniecznością zapewnienia bezpieczeństwa zasilania jednostek pływających, jednolitości rozwiązań technicznych i bezpieczeństwa działania sieci, dostępu dla osób niepełnosprawnych oraz biorąc pod uwagę zakres badania przeprowadzanego przez TDT oraz rodzaj przedmiotu badania.
 
 **Art. 20.**
 
-1. Operator systemu dystrybucyjnego gazowego, o którym mowa art. 9d ust. 1d ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, z wyłączeniem przedsiębiorstw, o których mowa art. 9d ust. 7 pkt 3 i 4 tej ustawy, opracowuje program budowy stacji gazu ziemnego oraz przedsięwzięć zakresie modernizacji, rozbudowy albo budowy sieci niezbędnych do przyłączenia tych stacji.
+1. Operator systemu dystrybucyjnego gazowego, który sporządza i uzgadnia z Prezesem Urzędu Regulacji Energetyki, zwanym dalej „Prezesem URE”, plan rozwoju w zakresie zaspokojenia obecnego i przyszłego zapotrzebowania na paliwa gazowe, o którym mowa w art. 16 ust. 4 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, opracowuje program budowy stacji gazu ziemnego oraz przedsięwzięć w zakresie modernizacji, rozbudowy albo budowy sieci niezbędnych do przyłączenia tych stacji.
 
-2. Program, o którym mowa ust. 1, stanowi wyodrębnioną część planu rozwoju zakresie zaspokojenia obecnego i przyszłego zapotrzebowania na paliwa gazowe, o którym mowa art. 16 ust. 4 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne. gazowego uwzględnia każdą gminę położoną na obszarze jego działania, która spełnia łącznie następujące kryteria:
+2. Program, o którym mowa w ust. 1, stanowi wyodrębnioną część planu rozwoju w zakresie zaspokojenia obecnego i przyszłego zapotrzebowania na paliwa gazowe, o którym mowa w art. 16 ust. 4 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.
+
+3. W programie, o którym mowa w ust. 1, operator systemu dystrybucyjnego gazowego uwzględnia każdą gminę położoną na obszarze jego działania, która spełnia łącznie następujące kryteria:
 
 - **1)** liczba mieszkańców tej gminy wynosi co najmniej 100 000 oraz
-- **2)** zostało tej gminie zarejestrowanych co najmniej 60 000 pojazdów samochodowych, oraz
+- **2)** zostało w tej gminie zarejestrowanych co najmniej 60 000 pojazdów samochodowych, oraz
 - **3)** na 1000 mieszkańców tej gminy przypada co najmniej 400 pojazdów samochodowych.
 
-4. Program, o którym mowa ust. 1, określa:
+4. Program, o którym mowa w ust. 1, określa:
 
 - **1)** liczbę planowanych stacji gazu ziemnego;
 - **2)** parametry techniczne oraz lokalizacje stacji gazu ziemnego planowanych do przyłączenia do sieci;
 - **3)** informację o dostępnych zdolnościach technicznych sieci gazowych, do których mają zostać przyłączone stacje gazu ziemnego;
-- **4)** informację o mocy przyłączeniowej dostępnej punkcie wyjścia.
+- **4)** informację o mocy przyłączeniowej dostępnej w punkcie wyjścia.
 
 **Art. 21.**
 
 1. Operator systemu dystrybucyjnego gazowego:
 
-- **1)** buduje stację gazu ziemnego zgodnie z programem, o którym mowa art. 20, tym punkty tankowania sprężonego gazu ziemnego (CNG) lub punkty tankowania skroplonego gazu ziemnego (LNG);
+- **1)** buduje stację gazu ziemnego zgodnie z programem, o którym mowa w art. 20, w tym punkty tankowania sprężonego gazu ziemnego (CNG);
 - **2)** dokonuje napraw i modernizacji stacji gazu ziemnego.
 
-2. Ponoszone przez operatora systemu dystrybucyjnego gazowego koszty budowy, napraw i modernizacji stacji gazu ziemnego, o których mowa ust. 1, z wyłączeniem kosztów, o których mowa art. 23 pkt 4, są zaliczane do jego kosztów uzasadnionych rozumieniu art. 3 pkt 21 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.
+2. Ponoszone przez operatora systemu dystrybucyjnego gazowego koszty budowy, napraw i modernizacji stacji gazu ziemnego, o których mowa w ust. 1, z wyłączeniem kosztów, o których mowa w art. 23 pkt 4, są zaliczane do jego kosztów uzasadnionych w rozumieniu art. 3 pkt 21 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.
 
 **Art. 22.**
 
-1. Operator systemu dystrybucyjnego gazowego wyłania operatora stacji gazu ziemnego drodze przetargu i zawiera z nim umowę na świadczenie usług tankowania i prowadzenie stacji gazu ziemnego. Przepisy ustawy z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi (Dz. U. z 2023 r. poz. 140) stosuje się odpowiednio.
+1. Operator systemu dystrybucyjnego gazowego wyłania operatora stacji gazu ziemnego w drodze przetargu i zawiera z nim umowę na świadczenie usług tankowania i prowadzenie stacji gazu ziemnego. Przepisy ustawy z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi (Dz. U. poz. 1920) stosuje się odpowiednio.
 
-2. W przypadku braku możliwości wyłonienia operatora stacji gazu ziemnego zgodnie z ust. 1, funkcję operatora stacji gazu ziemnego pełni przedsiębiorstwo wymi, do którego wniesiono na pokrycie kapitału zakładowego wkład niepieniężny, o którym mowa art. 5b ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.
+2. W przypadku braku możliwości wyłonienia operatora stacji gazu ziemnego zgodnie z ust. 1, funkcję operatora stacji gazu ziemnego pełni przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu paliwami gazowymi, do którego wniesiono na pokrycie kapitału zakładowego wkład niepieniężny, o którym mowa w art. 5b1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.
 
 **Art. 23.** Operator stacji gazu ziemnego:
 
-**Art. 24.** Podmiot zarządzający portem należącym do sieci bazowej TEN-T zapewnia, aby tym porcie był dostępny punkt bunkrowania skroplonego gazu ziemnego (LNG).
+- **1)** odpowiada za stan techniczny i bezpieczną eksploatację stacji gazu ziemnego;
+- **2)** zapewnia przeprowadzenie badań technicznych stacji gazu ziemnego, o których mowa w art. 27;
+- **3)** prowadzi stację gazu ziemnego zgodnie z umową, o której mowa w art. 22 ust. 1;
+- **4)** pokrywa koszty napraw i remontów wynikających z eksploatacji stacji gazu ziemnego prowadzonej w sposób niezgodny z warunkami umowy, o której mowa w art. 22 ust. 1;
+- **5)** świadczy usługę tankowania sprężonym gazem ziemnym (CNG).
 
-**Art. 25.** Stacje gazu ziemnego oraz punkty bunkrowania skroplonego gazu ziemnego (LNG) są budowane, eksploatowane, naprawiane i modernizowane sposób zgodny z wymaganiami technicznymi określonymi przepisach wydanych na podstawie art. 29 oraz warunkami tankowania pojazdów i bunkrowania jednostek pływających, zapewniającymi:
+**Art. 24.** Podmiot zarządzający portem należącym do sieci bazowej TEN-T zapewnia, aby w tym porcie był dostępny punkt bunkrowania skroplonego gazu ziemnego (LNG).
+
+**Art. 25.** Stacje gazu ziemnego oraz punkty bunkrowania skroplonego gazu ziemnego (LNG) są budowane, eksploatowane, naprawiane i modernizowane w sposób zgodny z wymaganiami technicznymi określonymi w przepisach wydanych na podstawie art. 29 oraz warunkami tankowania pojazdów i bunkrowania jednostek pływających, zapewniającymi:
+
+- **1)** bezpieczeństwo użytkowników;
+- **2)** prawidłowe funkcjonowanie sieci gazowej;
+- **3)** bezpieczeństwo pożarowe;
+- **4)** dostęp dla osób niepełnosprawnych;
+- **5)** właściwy stan techniczny wykorzystywanej infrastruktury.
 
 **Art. 26.**
 
-1. Przed przystąpieniem do budowy stacji gazu ziemnego operator systemu dystrybucyjnego gazowego może wystąpić z wnioskiem do UDT, a przypadku stacji gazu ziemnego zainstalowanych na obszarach kolejowych, bocznicach kolejowych, na terenie portów i przystani morskich oraz żeglugi śródlądowej do TDT, o opinię zakresie zgodności dokumentacji technicznej projektowanej stacji z wymaganiami technicznymi określonymi art. 25 oraz przepisach wydanych na podstawie art. 29 ust. 1. terminie 30 dni od dnia złożenia wniosku.
+1. Przed przystąpieniem do budowy stacji gazu ziemnego operator systemu dystrybucyjnego gazowego może wystąpić z wnioskiem do UDT o opinię w zakresie zgodności dokumentacji technicznej projektowanej stacji z wymaganiami technicznymi określonymi w art. 25 oraz w przepisach wydanych na podstawie art. 29 ust. 1.
 
-3. Wydanie opinii, o której mowa ust. 1, podlega opłacie, która stanowi przychód odpowiednio UDT albo TDT.
+2. Prezes UDT wydaje opinię, o której mowa w ust. 1, w terminie 30 dni od dnia otrzymania wniosku.
+
+3. Wydanie opinii, o której mowa w ust. 1, podlega opłacie, która stanowi przychód UDT.
 
 **Art. 27.**
 
-1. Stacje gazu ziemnego, zakresie ich bezpiecznej eksploatacji, naprawy i modernizacji, podlegają badaniom technicznym przeprowadzanym przez UDT albo, przypadku gdy są zainstalowane na obszarach kolejowych, bocznicach kolejowych, na terenie portów i przystani morskich oraz żeglugi śródlądowej, przez TDT.
+1. Stacje gazu ziemnego, w zakresie ich bezpiecznej eksploatacji, naprawy i modernizacji, podlegają badaniom technicznym przeprowadzanym przez UDT.
 
-2. Badanie, o którym mowa ust. 1, przeprowadza się przed oddaniem do eksploatacji stacji gazu ziemnego oraz każdorazowo przypadku naprawy lub modernizacji takiej stacji, z wyłączeniem naprawy wynikającej z instrukcji eksploatacji opracowanej przez producenta lub jego upoważnionego przedstawiciela.
+2. Badanie, o którym mowa w ust. 1, przeprowadza się przed oddaniem do eksploatacji stacji gazu ziemnego oraz każdorazowo w przypadku naprawy lub modernizacji takiej stacji.
 
-3. Badanie, o którym mowa ust. 1, przeprowadza się na wniosek operatora stacji gazu ziemnego.
+3. Badanie, o którym mowa w ust. 1, przeprowadza się na wniosek operatora stacji gazu ziemnego.
 
-4. Prezes UDT albo Dyrektor TDT wydaje decyzję o wstrzymaniu eksploatacji stacji gazu ziemnego przypadku stwierdzenia, na podstawie wyników badań, o których mowa ust. 1, że stacja gazu ziemnego nie spełnia wymagań określonych art. 25 lub przepisach wydanych na podstawie art. 29 ust. 1. W celu ponownego rozpoczęcia eksploatacji stacji gazu ziemnego przepis ust. 2 stosuje się.
+4. Prezes UDT wydaje decyzję o wstrzymaniu eksploatacji stacji gazu ziemnego w przypadku stwierdzenia, na podstawie wyników badań, o których mowa w ust. 1, niespełnienia przez stację gazu ziemnego wymagań określonych w art. 25 lub w przepisach wydanych na podstawie art. 29 ust. 1.
 
-5. Za przeprowadzenie badań, o których mowa ust. 1, pobierane są opłaty, które stanowią przychód odpowiednio UDT albo TDT.
+5. Za przeprowadzenie badań, o których mowa w ust. 1, pobierane są opłaty, które stanowią przychód UDT.
 
 **Art. 28.**
 
-1. Punkt bunkrowania skroplonego gazu ziemnego (LNG), zakresie jego bezpiecznej eksploatacji, naprawy i modernizacji, podlega badaniom technicznym przeprowadzanym przez TDT.
+1. Punkt bunkrowania skroplonego gazu ziemnego (LNG), w zakresie jego bezpiecznej eksploatacji, naprawy i modernizacji, podlega badaniom technicznym przeprowadzanym przez TDT.
 
-2. Badanie, o którym mowa ust. 1, przeprowadza się:
+2. Badanie, o którym mowa w ust. 1, przeprowadza się przed oddaniem do eksploatacji punktu bunkrowania skroplonego gazu ziemnego (LNG) oraz każdorazowo w przypadku naprawy lub modernizacji takiego punktu.
 
-- **1)** przed oddaniem punktu bunkrowania skroplonego gazu ziemnego (LNG) do eksploatacji;
-- **2)** każdorazowo przypadku naprawy lub modernizacji punktu bunkrowania skroplonego gazu ziemnego (LNG), z wyłączeniem naprawy wynikającej z instrukcji eksploatacji opracowanej przez producenta lub jego upoważnionego przedstawiciela;
-- **3)** okresowo – co najmniej raz roku; funkcjonowaniu punktu bunkrowania skroplonego gazu ziemnego (LNG) lub wypadku związanym z jego eksploatacją, przekazanych zgodnie z ust. 3a.
+3. Badanie, o którym mowa w ust. 1, przeprowadza się na wniosek podmiotu eksploatującego punkt bunkrowania skroplonego gazu ziemnego (LNG).
 
-3. Badanie, o którym mowa ust. 1, przeprowadza się na wniosek operatora punktu bunkrowania skroplonego gazu ziemnego (LNG), przy czym wniosek ten jest składany terminie:
+4. Dyrektor TDT wydaje decyzję o wstrzymaniu eksploatacji punktu bunkrowania skroplonego gazu ziemnego (LNG) w przypadku stwierdzenia, na podstawie wyników badań, o których mowa w ust. 1, niespełnienia przez ten punkt wymagań technicznych określonych w art. 25 lub w przepisach wydanych na podstawie art. 29 ust. 2.
 
-- **1)** do 7 dni od dnia, którym została zakończona naprawa lub modernizacja punktu bunkrowania skroplonego gazu ziemnego (LNG) – przypadku, o którym mowa ust. 2 pkt 2;
-- **2)** co najmniej 30 dni przed dniem, którym upływa termin przeprowadzenia następnego badania, o którym mowa ust. 1, określony przez TDT podczas ostatniego badania – przypadku, o którym mowa ust. 2 pkt 3;
-- **3)** 7 dni od dnia zawiadomienia TDT o nieprawidłowości funkcjonowaniu punktu bunkrowania skroplonego gazu ziemnego (LNG) lub wypadku związanym z jego eksploatacją – przypadku, o którym mowa ust. 2 pkt 4.
-
-3a. Operator punktu bunkrowania skroplonego gazu ziemnego (LNG) jest obowiązany niezwłocznie zawiadomić TDT o każdej nieprawidłowości funkcjonowaniu tego punktu lub wypadku związanym z jego eksploatacją.
-
-4. Dyrektor TDT wydaje decyzję o wstrzymaniu eksploatacji punktu bunkrowania skroplonego gazu ziemnego (LNG) przypadku stwierdzenia, na podstawie wyników badań, o których mowa ust. 1, niespełnienia przez ten punkt wymagań technicznych określonych art. 25 lub przepisach wydanych na podstawie art. 29 ust. 2.
-
-5. Za przeprowadzenie badań, o których mowa ust. 1, pobierane są opłaty, które stanowią przychód TDT.
-
-**Art. 28a.**
-
-1. Przed przystąpieniem do budowy punktu bunkrowania skroplonego gazu ziemnego (LNG) można wystąpić z wnioskiem do Dyrektora TDT o opinię zakresie zgodności dokumentacji technicznej projektowanego punktu bunkrowania gazu ziemnego z wymaganiami technicznymi określonymi art. 25 oraz przepisach wydanych na podstawie art. 29 ust. 2.
-
-2. Dyrektor TDT wydaje opinię, o której mowa ust. 1, terminie 30 dni od dnia złożenia wniosku. przychód TDT.
-
-**Art. 28b.**
-
-1. Podmiot zarządzający portem lub przystanią, właściwy ze względu na lokalizację punktu bunkrowania skroplonego gazu ziemnego (LNG), a przypadku jego braku – operator nabrzeża, na terenie którego zlokalizowany jest taki punkt bunkrowania, sporządza ocenę ryzyka.
-
-2. Ocenę ryzyka, o której mowa ust. 1, sporządza się dla danej lokalizacji punktu bunkrowania skroplonego gazu ziemnego (LNG) przed dokonaniem bunkrowania skroplonym gazem ziemnym (LNG) jednostki pływającej po raz pierwszy tej lokalizacji.
-
-3. Oceny ryzyka, o której mowa ust. 1, nie sporządza się dla punktów bunkrowania skroplonego gazu ziemnego (LNG) znajdujących się na terenie zakładów zwiększonego oraz dużego ryzyka.
-
-4. Operator punktu bunkrowania skroplonego gazu ziemnego (LNG) udziela podmiotowi odpowiedzialnemu za sporządzenie oceny ryzyka, o której mowa ust. 1, informacji niezbędnych do jej sporządzenia.
-
-5. Ocenę ryzyka, o której mowa ust. 1, uzgadnia się z dyrektorem urzędu morskiego albo dyrektorem urzędu żeglugi śródlądowej właściwym dla lokalizacji punktu bunkrowania skroplonego gazu ziemnego (LNG), po uprzednim zasięgnięciu opinii właściwego miejscowo komendanta powiatowego albo miejskiego Państwowej Straży Pożarnej.
-
-6. Podmiot odpowiedzialny za sporządzenie oceny ryzyka, o której mowa ust. 1, udostępnia tę ocenę ryzyka operatorowi punktu bunkrowania skroplonego gazu ziemnego (LNG), celu uwzględnienia jej wyników przy opracowaniu planu bunkrowania.
-
-**Art. 28c.**
-
-1. Operator punktu bunkrowania skroplonego gazu ziemnego (LNG), celu jego bezpiecznej eksploatacji, sporządza plan bunkrowania.
-
-1a. Plan bunkrowania, o którym mowa ust. 1, obejmuje:
-
-- **1)** charakterystykę punktu bunkrowania skroplonego gazu ziemnego (LNG), tym opis tego punktu;
-- **2)** zakres i warunki eksploatacji punktu bunkrowania skroplonego gazu ziemnego (LNG); skroplonego gazu ziemnego (LNG);
-- **4)** sposób określenia, monitorowania i zabezpieczenia obszaru monitorowanego i strzeżonego oraz strefy bezpieczeństwa;
-- **5)** zakres i sposoby komunikacji sytuacji zagrożenia oraz powiadomienia o zagrożeniu;
-- **6)** listy sprawdzające obejmujące swoim zakresem istotne elementy przygotowania, bezpiecznego przeprowadzenia i zakończenia bunkrowania skroplonym gazem ziemnym (LNG);
-- **7)** postępowanie sytuacjach awaryjnych obejmujących szczególności wyciek lub rozlew gazu, pożar, brak zasilania lub problemy z łącznością.
-
-1b. Obszar monitorowany i strzeżony, o którym mowa ust. 1a pkt 4, stanowi obszar wokół punktu bunkrowania skroplonego gazu ziemnego (LNG) oraz jednostki pływającej trakcie bunkrowania skroplonym gazem ziemnym (LNG), którym są monitorowane ruch innych jednostek pływających oraz inne działania podejmowane na tym obszarze.
-
-1c. Strefa bezpieczeństwa, o której mowa ust. 1a pkt 4, stanowi obszar wokół punktu bunkrowania skroplonego gazu ziemnego (LNG) oznaczony widoczny sposób, którym trakcie bunkrowania skroplonym gazem ziemnym (LNG) mogą przebywać wyłącznie wyznaczone osoby.
-
-2. Plan bunkrowania, o którym mowa ust. 1, uzgadnia się z właściwym terytorialnie dyrektorem urzędu morskiego albo dyrektorem urzędu żeglugi śródlądowej, po uprzednim zasięgnięciu opinii właściwego miejscowo komendanta powiatowego albo miejskiego Państwowej Straży Pożarnej.
-
-**Art. 28d.**
-
-1. Osoby zaangażowane bunkrowanie skroplonym gazem ziemnym (LNG) posiadają niezbędne tym zakresie kompetencje potwierdzone udokumentowanym uczestnictwem szkoleniach zakresie zasad bezpieczeństwa bunkrowania skroplonym gazem ziemnym (LNG) jednostek pływających oraz zakresie czynności wykonywanych przez te osoby.
-
-2. Operator punktu bunkrowania skroplonego gazu ziemnego (LNG):
-
-- **1)** zapewnia, że osoby zaangażowane bunkrowanie skroplonym gazem ziemnym (LNG) spełniają wymagania określone ust. 1; koordynację bunkrowania skroplonym gazem ziemnym (LNG), tym za współpracę z osobami odpowiedzialnymi za bezpieczeństwo bunkrowania skroplonym gazem ziemnym (LNG) ze strony bunkrowanej jednostki pływającej.
-
-3. Osoba odpowiedzialna, wyznaczona zgodnie z ust. 2 pkt 2, odpowiada za koordynację działań awaryjnych, do czasu ewentualnego przejęcia koordynacji przez wyspecjalizowane służby.
+5. Za przeprowadzenie badań, o których mowa w ust. 1, pobierane są opłaty, które stanowią przychód TDT.
 
 **Art. 29.**
 
-1. Minister właściwy do spraw gospodarki surowcami energetycznymi określi, drodze rozporządzenia:
+1. Minister właściwy do spraw energii określi, w drodze rozporządzenia:
 
 - **1)** szczegółowe wymagania techniczne dotyczące bezpiecznej eksploatacji, naprawy i modernizacji stacji gazu ziemnego,
-- **2)** rodzaje badań technicznych stacji gazu ziemnego przeprowadzanych przez UDT albo TDT oraz sposób i terminy ich przeprowadzania,
-- **3)** wysokość opłat, o których mowa art. 26 ust. 3 i art. 27 ust. 5 – kierując się koniecznością zapewnienia bezpieczeństwa funkcjonowania i korzystania z tych stacji, jednolitości rozwiązań technicznych oraz biorąc pod uwagę zakres badania przeprowadzanego przez UDT albo TDT oraz rodzaj przedmiotu tego badania.
+- **2)** rodzaje badań technicznych stacji gazu ziemnego przeprowadzanych przez UDT oraz sposób i terminy ich przeprowadzania,
+- **3)** wysokość opłat, o których mowa w art. 26 ust. 3 i art. 27 ust. 5 kierując się koniecznością zapewnienia bezpieczeństwa funkcjonowania i korzystania z tych stacji, jednolitości rozwiązań technicznych oraz biorąc pod uwagę zakres badania przeprowadzanego przez UDT oraz rodzaj przedmiotu tego badania.
 
-2. Minister właściwy do spraw gospodarki surowcami energetycznymi, porozumieniu z ministrem właściwym do spraw gospodarki morskiej oraz ministrem właściwym do spraw żeglugi śródlądowej określi, drodze rozporządzenia:
+2. Minister właściwy do spraw energii, w porozumieniu z ministrem właściwym do spraw gospodarki morskiej oraz ministrem właściwym do spraw żeglugi śródlądowej określi, w drodze rozporządzenia:
 
 - **1)** szczegółowe wymagania techniczne dotyczące bezpiecznej eksploatacji, naprawy i modernizacji punktów bunkrowania skroplonego gazu ziemnego (LNG),
-- **2)** rodzaje badań technicznych punktów bunkrowania skroplonego gazu ziemnego (LNG) przeprowadzanych przez TDT oraz sposób i terminy ich przeprowadzania, 2a) zakres szkoleń, o których mowa art. 28d ust. 1,
-- **3)** wysokość opłaty, o której mowa art. 28 ust. 5 i art. 28a ust. 3 – kierując się koniecznością zapewnienia bezpieczeństwa funkcjonowania i korzystania z tych punktów, jednolitości rozwiązań technicznych oraz biorąc pod badania.
+- **2)** rodzaje badań technicznych punktów bunkrowania skroplonego gazu ziemnego (LNG) przeprowadzanych przez TDT oraz sposób i terminy ich przeprowadzania,
+- **3)** wysokość opłaty, o której mowa w art. 28 ust. 5 kierując się koniecznością zapewnienia bezpieczeństwa funkcjonowania i korzystania z tych punktów, jednolitości rozwiązań technicznych oraz biorąc pod uwagę zakres badania przeprowadzanego przez TDT oraz rodzaj przedmiotu tego badania.
 
-**Art. 29a.**
-
-1. Eksploatację stacji wodoru prowadzi się zgodnie z jej przeznaczeniem oraz gdy jej stan techniczny zapewnia bezpieczne korzystanie z tej stacji.
-
-2. Stacje wodoru posiadają dokumenty określające ich właściwości konstrukcyjne, techniczne i eksploatacyjne.
-
-3. Stacje wodoru są budowane, eksploatowane, naprawiane i modernizowane sposób zgodny z wymaganiami technicznymi określonymi przepisach wydanych na podstawie art. 29d, zapewniającymi:
-
-- **1)** bezpieczeństwo użytkowników;
-- **2)** bezpieczeństwo pożarowe;
-- **3)** dostęp dla osób niepełnosprawnych;
-- **4)** właściwy stan techniczny wykorzystywanej infrastruktury.
-
-**Art. 29b.**
-
-1. Przed przystąpieniem do budowy stacji wodoru można wystąpić z wnioskiem do Prezesa UDT, a przypadku stacji wodoru zainstalowanych na obszarach kolejowych, bocznicach kolejowych, na terenie portów i przystani morskich oraz żeglugi śródlądowej – do Dyrektora TDT, o opinię zakresie zgodności dokumentacji technicznej projektowanej stacji wodoru z wymaganiami technicznymi określonymi art. 29a oraz przepisach wydanych na podstawie art. 29d.
-
-2. Prezes UDT albo Dyrektor TDT wydaje opinię, o której mowa ust. 1, terminie 30 dni od dnia złożenia wniosku.
-
-3. Wydanie opinii, o której mowa ust. 1, podlega opłacie, która stanowi przychód odpowiednio UDT albo TDT.
-
-**Art. 29c.**
-
-1. Stacje wodoru, zakresie ich bezpiecznej eksploatacji, naprawy i modernizacji, podlegają badaniom technicznym przeprowadzanym przez UDT albo, przypadku gdy są zainstalowane na obszarach kolejowych, bocznicach kolejowych, na terenie portów i przystani morskich oraz żeglugi śródlądowej, przez TDT.
-
-2. Badanie, o którym mowa ust. 1, przeprowadza się:
-
-- **1)** przed oddaniem do eksploatacji stacji wodoru;
-- **2)** każdorazowo przypadku naprawy lub modernizacji takiej stacji, z wyłączeniem naprawy wynikającej z instrukcji eksploatacji opracowanej przez producenta lub jego upoważnionego przedstawiciela. stacji wodoru.
-
-4. Prezes UDT albo Dyrektor TDT wydaje decyzję o wstrzymaniu eksploatacji stacji wodoru przypadku stwierdzenia, na podstawie wyników badań, o których mowa ust. 1, niespełnienia przez stację wodoru wymagań określonych art. 29a lub przepisach wydanych na podstawie art. 29d. W celu ponownego rozpoczęcia eksploatacji stacji wodoru przepis ust. 2 pkt 1 stosuje się.
-
-5. Za przeprowadzenie badań, o których mowa ust. 1, pobierane są opłaty, które stanowią przychód odpowiednio UDT albo TDT.
-
-6. Maksymalna wysokość opłaty, o której mowa ust. 5, wynosi 2000 zł.
-
-**Art. 29d.** Minister właściwy do spraw gospodarki surowcami energetycznymi porozumieniu z ministrem właściwym do spraw energii określi, drodze rozporządzenia:
-
-**Art. 29e.** Operator stacji wodoru zapewnia przeprowadzenie badań technicznych stacji wodoru, o których mowa art. 29c.
-
-**Art. 29f.**
-
-1. Prezes UDT przeprowadza kontrolę stacji ładowania, punktu ładowania stanowiącego element infrastruktury ładowania drogowego transportu publicznego, stacji gazu ziemnego lub stacji wodoru, z wyłączeniem stacji gazu ziemnego i stacji wodoru, zainstalowanych na obszarach kolejowych, bocznicach kolejowych oraz na terenie portów i przystani morskich oraz żeglugi śródlądowej, przypadku powzięcia informacji o: zagrożenia dla bezpieczeństwa ich użytkowników, lub o wypadku związanym z ich eksploatacją;
-
-- **2)** ich eksploatacji bez przeprowadzenia badań, o których mowa odpowiednio art. 16 ust. 1, art. 27 ust. 1 lub art. 29c ust. 1, lub pomimo wydania decyzji o wstrzymaniu eksploatacji, o której mowa odpowiednio art. 16 ust. 4, art. 27 ust. 4 lub art. 29c ust. 4.
-
-2. Prezes UDT przeprowadza kontrolę stacji ładowania, stacji gazu ziemnego lub stacji wodoru przypadku powzięcia informacji o niespełnieniu obowiązku, o którym mowa art. 42 ust. 5.
-
-3. Dyrektor TDT przeprowadza kontrolę stacji gazu ziemnego i stacji wodoru, zainstalowanych na obszarach kolejowych, bocznicach kolejowych, na terenie portów i przystani morskich oraz żeglugi śródlądowej, punktu zasilania jednostek pływających energią elektryczną z lądu lub punktu bunkrowania skroplonego gazu ziemnego (LNG) przypadku powzięcia informacji o:
-
-- **1)** nieprawidłowościach ich funkcjonowaniu, szczególności o podejrzeniu zagrożenia dla bezpieczeństwa ich użytkowników, lub o wypadku związanym z ich eksploatacją;
-- **2)** ich eksploatacji bez przeprowadzenia badań, o których mowa odpowiednio art. 18 ust. 1, art. 27 ust. 1, art. 28 ust. 1 lub art. 29c ust. 1, lub pomimo wydania decyzji o wstrzymaniu eksploatacji, o której mowa odpowiednio art. 18 ust. 4, art. 27 ust. 4, art. 28 ust. 4 lub art. 29c ust. 4.
-
-4. W ramach kontroli, o której mowa ust. 1–3, kontroluje się odpowiednio spełnianie przez stację ładowania, punkt ładowania stanowiący element infrastruktury ładowania drogowego transportu publicznego, stację gazu ziemnego, stację wodoru, punkt zasilania jednostek pływających energią elektryczną z lądu lub punkt bunkrowania skroplonego gazu ziemnego (LNG) wymagań technicznych określonych przepisach wydanych odpowiednio na podstawie art. 17, art. 19, art. 29 lub art. 29d, zależności od zakresu informacji, o której mowa ust. 1 lub 3, albo spełnienie obowiązku, o którym mowa art. 42 ust. 5.
-
-5. Ustalenia stanu faktycznego dokonuje się szczególności na podstawie wyników badań technicznych, oględzin, zgromadzonej dokumentacji, tym fotograficznej, pisemnych wyjaśnień i oświadczeń. z kontroli.
-
-7. Prezes UDT wyniku kontroli, o której mowa ust. 1, wydaje decyzję o wstrzymaniu eksploatacji:
-
-- **1)** stacji ładowania lub punktu ładowania stanowiącego element infrastruktury ładowania drogowego transportu publicznego – przypadku stwierdzenia, że nie spełniają one wymagań technicznych określonych przepisach wydanych na podstawie art. 17;
-- **2)** stacji gazu ziemnego – przypadku stwierdzenia, że nie spełnia wymagań technicznych określonych przepisach wydanych na podstawie art. 29 ust. 1;
-- **3)** stacji wodoru – przypadku stwierdzenia, że nie spełnia wymagań technicznych określonych przepisach wydanych na podstawie art. 29d.
-
-8. Dyrektor TDT wyniku kontroli, o której mowa ust. 3, wydaje decyzję o wstrzymaniu eksploatacji:
-
-- **1)** stacji gazu ziemnego zainstalowanej na obszarze kolejowym, bocznicy kolejowej, na terenie portu i przystani morskiej oraz żeglugi śródlądowej – przypadku stwierdzenia, że nie spełnia wymagań technicznych określonych przepisach wydanych na podstawie art. 29 ust. 1;
-- **2)** stacji wodoru zainstalowanej na obszarze kolejowym, bocznicy kolejowej, na terenie portu i przystani morskiej oraz żeglugi śródlądowej – przypadku stwierdzenia, że nie spełnia wymagań technicznych określonych przepisach wydanych na podstawie art. 29d;
-- **3)** punktu zasilania jednostek pływających energią elektryczną z lądu – przypadku stwierdzenia, że nie spełnia wymagań technicznych określonych przepisach wydanych na podstawie art. 19;
-- **4)** punktu bunkrowania skroplonego gazu ziemnego (LNG) – przypadku stwierdzenia, że nie spełnia wymagań technicznych określonych przepisach wydanych na podstawie art. 29 ust. 2.
-
-9. W celu ponownego rozpoczęcia eksploatacji stacji ładowania, punktu ładowania stanowiącego element infrastruktury ładowania drogowego transportu publicznego, stacji gazu ziemnego, stacji wodoru, punktu zasilania jednostek pływających energią elektryczną z lądu lub punktu bunkrowania skroplonego gazu ziemnego (LNG) po wydaniu decyzji, o której mowa ust. 7 albo ust. 8, przepisy pkt 1 stosuje się.
-
-10. Podstawę wszczęcia postępowania sprawie wydania decyzji o wstrzymaniu eksploatacji lub wymierzenia kary pieniężnej może stanowić protokół z kontroli stwierdzający wystąpienie nieprawidłowości, o których mowa ust. 1 i 3, lub niespełnienie obowiązku, o którym mowa art. 42 ust. 5.
-
-**Art. 29g.** Do kontroli stacji ładowania, punktu ładowania stanowiącego element infrastruktury ładowania drogowego transportu publicznego, stacji gazu ziemnego, stacji wodoru, punktu zasilania jednostek pływających energią elektryczną z lądu, punktu bunkrowania skroplonego gazu ziemnego (LNG) nie stosuje się przepisów rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
-
-**Art. 30.** Podstawą ustalenia wysokości opłat, o których mowa art. 15 ust. 3, art. 16 ust. 5, art. 18 ust. 5, art. 18a ust. 3, art. 26 ust. 3, art. 27 ust. 5, art. 28 ust. 5, art. 28a ust. 3, art. 29b ust. 3 i art. 29c ust. 5, jest przeciętne miesięczne wynagrodzenie gospodarce narodowej roku poprzednim ogłaszane przez Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, zgodnie z art. 5 ust. 7 ustawy z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz. U. z 2024 r. poz. 288), obowiązujące dniu złożenia wniosku o przeprowadzenie badania technicznego lub sporządzenie opinii.
+**Art. 30.** Podstawą ustalenia wysokości opłat, o których mowa w art. 15 ust. 3, art. 16 ust. 5, art. 18 ust. 5, art. 26 ust. 3, art. 27 ust. 5 i art. 28 ust. 5, jest przeciętne miesięczne wynagrodzenie w gospodarce narodowej w roku poprzednim ogłaszane przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, zgodnie z art. 5 ust. 7 ustawy z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz. U. z 2017 r. poz. 2191 i 2371), obowiązujące w dniu złożenia wniosku o przeprowadzenie badania technicznego lub sporządzenie opinii.
 
 **Art. 31.**
 
-1. Do postępowań sprawie wydania decyzji o wstrzymaniu eksploatacji, o których mowa art. 16 ust. 4, art. 18 ust. 4, art. 27 ust. 4, art. 28 ust. 4, art. 29c ust. 4 i art. 29f ust. 7 i 8, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
+1. Do postępowań w sprawie wydania decyzji o wstrzymaniu eksploatacji, o których mowa w art. 16 ust. 4, art. 18 ust. 4, art. 27 ust. 4 i art. 28 ust. 4, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257 oraz z 2018 r. poz. 149).
 
-2. Organem wyższego stopnia rozumieniu ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego przypadku odwołania od decyzji, o których mowa w:
+2. W przypadku odwołania od decyzji, o których mowa w art. 16 ust. 4, art. 18 ust. 4, art. 27 ust. 4 i art. 28 ust. 4, organem wyższego stopnia w rozumieniu ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego jest minister właściwy do spraw energii.
 
-- **1)** art. 16 ust. 4 i art. 18 ust. 4 – jest minister właściwy do spraw energii;
-- **2)** art. 27 ust. 4, art. 28 ust. 4 i art. 29c ust. 4 – jest minister właściwy do spraw gospodarki surowcami energetycznymi;
-- **3)** art. 29f ust. 7 i 8 – jest:
-    - **a)** minister właściwy do spraw energii – zakresie decyzji dotyczących stacji ładowania, punktu ładowania stanowiącego element infrastruktury pływających energią elektryczną z lądu,
-    - **b)** minister właściwy do spraw gospodarki surowcami energetycznymi – zakresie decyzji dotyczących stacji gazu ziemnego, stacji wodoru i punktu bunkrowania skroplonego gazu ziemnego (LNG).
-
-#### Rozdział 3 Obowiązki podmiotów publicznych zakresie rozwoju infrastruktury paliw alternatywnych
+#### Rozdział 3 Obowiązki podmiotów publicznych w zakresie rozwoju infrastruktury paliw alternatywnych
 
 **Art. 32.**
 
-1. Generalny Dyrektor Dróg Krajowych i Autostrad opracowuje plan lokalizacji ogólnodostępnych stacji ładowania oraz stacji gazu ziemnego wzdłuż pozostających jego zarządzie dróg sieci bazowej TEN-T, na okres nie krótszy niż 5 lat.
+1. Generalny Dyrektor Dróg Krajowych i Autostrad opracowuje plan lokalizacji ogólnodostępnych stacji ładowania oraz stacji gazu ziemnego wzdłuż pozostających w jego zarządzie dróg sieci bazowej TEN-T, na okres nie krótszy niż 5 lat.
 
-2. Plan, o którym mowa ust. 1, określa liczbę i miejsce położenia ogólnodostępnych stacji ładowania oraz stacji gazu ziemnego, z uwzględnieniem punktów tankowania sprężonego gazu ziemnego (CNG) oraz punktów tankowania skroplonego gazu ziemnego (LNG), niezbędnych do pokrycia zapotrzebowania na paliwa alternatywne pojazdach poruszających się po drogach sieci bazowej TEN-T.
+2. Plan, o którym mowa w ust. 1, określa liczbę i miejsce położenia ogólnodostępnych stacji ładowania oraz stacji gazu ziemnego, z uwzględnieniem punktów tankowania sprężonego gazu ziemnego (CNG) oraz punktów tankowania skroplonego gazu ziemnego (LNG), niezbędnych do pokrycia zapotrzebowania na paliwa alternatywne w pojazdach poruszających się po drogach sieci bazowej TEN-T.
 
-3. Generalny Dyrektor Dróg Krajowych i Autostrad konsultuje projekt planu, o którym mowa ust. 1, z właściwymi operatorami systemów dystrybucyjnych elektroenergetycznych i gazowych oraz z podmiotami zarządzającymi miejscami obsługi podróżnych, o których mowa przepisach wydanych na podstawie art. 7 ust. 2 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane.
+3. Generalny Dyrektor Dróg Krajowych i Autostrad konsultuje projekt planu, o którym mowa w ust. 1, z właściwymi operatorami systemów dystrybucyjnych elektroenergetycznych i gazowych oraz z podmiotami zarządzającymi miejscami obsługi podróżnych, o których mowa w przepisach wydanych na podstawie art. 7 ust. 2 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2017 r. poz. 1332 i 1529 oraz z 2018 r. poz. 12 i 317).
 
-4. Operatorzy systemów dystrybucyjnych elektroenergetycznych i gazowych oraz podmioty zarządzające miejscami obsługi podróżnych, o których mowa przepisach wydanych na podstawie art. 7 ust. 2 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, przekazują stanowisko do projektu planu, o którym mowa ust. 1, terminie 2 miesięcy od dnia otrzymania tego projektu. Stanowisko zawiera ocenę technicznych i ekonomicznych warunków przyłączenia punktów ładowania oraz stacji gazu ziemnego lokalizacjach wskazanych planie, o którym mowa ust. 1.
+4. Operatorzy systemów dystrybucyjnych elektroenergetycznych i gazowych oraz podmioty zarządzające miejscami obsługi podróżnych, o których mowa w przepisach wydanych na podstawie art. 7 ust. 2 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, przekazują stanowisko do projektu planu, o którym mowa w ust. 1, w terminie 2 miesięcy od dnia otrzymania tego projektu. Stanowisko zawiera ocenę technicznych i ekonomicznych warunków przyłączenia punktów ładowania oraz stacji gazu ziemnego w lokalizacjach wskazanych w planie, o którym mowa w ust. 1.
 
-5. Generalny Dyrektor Dróg Krajowych i Autostrad publikuje plan, o którym mowa ust. 1, wraz z wynikami konsultacji i stanowiskami operatorów systemów obsługującego go urzędu.
+5. Generalny Dyrektor Dróg Krajowych i Autostrad publikuje plan, o którym mowa w ust. 1, wraz z wynikami konsultacji i stanowiskami operatorów systemów dystrybucyjnych elektroenergetycznych i gazowych, na stronie internetowej obsługującego go urzędu.
 
-6. Generalny Dyrektor Dróg Krajowych i Autostrad planie, o którym mowa ust. 1, może ująć lokalizację punktów tankowania wodoru, czyli zespołów urządzeń służących do zaopatrywania wodór pojazdów napędzanych wodorem celu napędu silników tych pojazdów, jeśli lokalizacja takich punktów będzie uzasadniona potrzebami rozwoju rynku paliw alternatywnych. Przepisy ust. 2–5 stosuje się odpowiednio.
+6. Generalny Dyrektor Dróg Krajowych i Autostrad w planie, o którym mowa w ust. 1, może ująć lokalizację punktów tankowania wodoru, czyli zespołów urządzeń służących do zaopatrywania w wodór pojazdów napędzanych wodorem w celu napędu silników tych pojazdów, jeśli lokalizacja takich punktów będzie uzasadniona potrzebami rozwoju rynku paliw alternatywnych. Przepisy ust. 2–5 stosuje się odpowiednio.
 
 **Art. 33.**
 
-1. Podmiot zarządzający portem należącym do sieci bazowej TEN-T przygotowuje plan lokalizacji punktów bunkrowania skroplonego gazu ziemnego (LNG) lub możliwości bunkrowania za pomocą bunkierek oraz punktów zasilania jednostek pływających energią elektryczną z lądu, uwzględniając ocenę, o której mowa art. 43 ust. 2 pkt 8.
+1. Podmiot zarządzający portem należącym do sieci bazowej TEN-T przygotowuje plan lokalizacji punktów bunkrowania skroplonego gazu ziemnego (LNG) lub możliwości bunkrowania za pomocą bunkierek oraz punktów zasilania jednostek pływających energią elektryczną z lądu, uwzględniając ocenę, o której mowa w art. 43 ust. 2 pkt 8.
 
-2. Plan, o którym mowa ust. 1, określa liczbę i miejsce położenia punktów bunkrowania skroplonego gazu ziemnego (LNG) oraz punktów zasilania jednostek pływających energią elektryczną z lądu.
+2. Plan, o którym mowa w ust. 1, określa liczbę i miejsce położenia punktów bunkrowania skroplonego gazu ziemnego (LNG) oraz punktów zasilania jednostek pływających energią elektryczną z lądu.
 
-3. (uchylony)
+3. Podmiot zarządzający portem należącym do sieci bazowej TEN-T konsultuje projekt planu, o którym mowa w ust. 1, z właściwymi operatorami systemów dystrybucyjnych elektroenergetycznych i gazowych.
 
-4. (uchylony)
+4. Operatorzy systemów dystrybucyjnych elektroenergetycznych i gazowych przekazują stanowisko do projektu planu, o którym mowa w ust. 1, w terminie 2 miesięcy od dnia otrzymania tego projektu. Stanowisko zawiera ocenę technicznych i ekonomicznych warunków przyłączenia punktów bunkrowania skroplonego gazu ziemnego (LNG) oraz punktów zasilania jednostek pływających energią elektryczną z lądu.
 
-5. Podmiot zarządzający portem należącym do sieci bazowej TEN-T publikuje plan, o którym mowa ust. 1, na swojej stronie internetowej.
+5. Podmiot zarządzający portem należącym do sieci bazowej TEN-T publikuje plan, o którym mowa w ust. 1, wraz z wynikami konsultacji i stanowiskami operatorów systemów dystrybucyjnych elektroenergetycznych i gazowych, na swojej stronie internetowej.
 
 **Art. 34.**
 
-1. Naczelne i centralne organy administracji państwowej zapewniają, aby udział pojazdów elektrycznych we flocie użytkowanych pojazdów samochodowych rozumieniu art. 2 pkt 33 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym obsługującym je urzędzie lub instytucji gospodarki budżetowej, lub innym podmiocie zapewniającym obsługę zakresie transportu osób wynosił co najmniej 22 % liczby użytkowanych pojazdów samochodowych rozumieniu tej ustawy.
+1. Naczelne i centralne organy administracji państwowej zapewniają, aby udział pojazdów elektrycznych we flocie użytkowanych pojazdów w obsługującym je urzędzie lub instytucji gospodarki budżetowej lub innym podmiocie zapewniającym obsługę w zakresie transportu osób był równy lub wyższy niż 50% liczby użytkowanych pojazdów.
 
 2. Przepisu ust. 1 nie stosuje się do:
 
-- **1)** ministra właściwego do spraw zagranicznych zakresie pojazdów wykorzystywanych placówkach zagranicznych Rzeczypospolitej Polskiej z 2020 r. poz. 1854) ;
+- **1)** ministra właściwego do spraw zagranicznych w zakresie pojazdów wykorzystywanych w placówkach zagranicznych Rzeczypospolitej Polskiej w rozumieniu ustawy z dnia 27 lipca 2001 r. o służbie zagranicznej (Dz. U. z 2017 r. poz. 161 i 476 oraz z 2018 r. poz. 138);
 - **2)** Dyrektora Generalnego Służby Więziennej, Komendanta Głównego Policji, Głównego Inspektora Transportu Drogowego, Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu, Szefa Służby Kontrwywiadu Wojskowego, Szefa Służby Wywiadu Wojskowego, Szefa Centralnego Biura Antykorupcyjnego, Komendanta Głównego Straży Granicznej i Komendanta Głównego Państwowej Straży Pożarnej;
-- **3)** Szefa Krajowej Administracji Skarbowej zakresie pojazdów używanych do celów specjalnych rozumieniu art. 2 pkt 37 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym;
-- **4)** Generalnego Dyrektora Dróg Krajowych i Autostrad zakresie pojazdów innych niż wykorzystywane wyłącznie do przewozu osób;
-- **5)** Służby Ochrony Państwa;
-- **6)** Głównego Inspektora Ochrony Środowiska zakresie pojazdów innych niż wykorzystywane wyłącznie do przewozu osób;
-- **6a)** Ministra Obrony Narodowej oraz instytucji i podmiotów zapewniających realizację zadań zakresie transportu osób obsługującym go urzędzie, a także jednostek Sił Zbrojnych Rzeczypospolitej Polskiej;>
-- **7)** innych podmiotów, zakresie pojazdów używanych do realizacji ich ustawowych zadań związanych z ochroną ludności, bezpieczeństwem pożarowym oraz utrzymaniem porządku publicznego.
+- **3)** Szefa Krajowej Administracji Skarbowej w zakresie pojazdów używanych do celów specjalnych w rozumieniu art. 2 pkt 37 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym;
+- **4)** Generalnego Dyrektora Dróg Krajowych i Autostrad w zakresie pojazdów innych niż wykorzystywane wyłącznie do przewozu osób;
+- **5)** Służby Ochrony Państwa.
 
 **Art. 35.**
 
-1. Jednostka samorządu terytorialnego, z wyłączeniem gmin i powiatów, których liczba mieszkańców nie przekracza 50 000, zapewnia, aby udział pojazdów elektrycznych we flocie użytkowanych pojazdów samochodowych rozumieniu art. 2 pkt 33 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym obsługującym ją urzędzie wynosił co najmniej 22 % liczby użytkowanych pojazdów samochodowych rozumieniu tej ustawy.
+1. Jednostka samorządu terytorialnego, z wyłączeniem gmin i powiatów, których liczba mieszkańców nie przekracza 50 000, zapewnia, aby udział pojazdów elektrycznych we flocie użytkowanych pojazdów w obsługującym ją urzędzie był równy lub wyższy niż 30% liczby użytkowanych pojazdów.
 
-2. (uchylony)
+2. Jednostka samorządu terytorialnego, z wyłączeniem gmin i powiatów, których liczba mieszkańców nie przekracza 50 000:
 
-3. (uchylony) wykonuje przewozy pasażerskie transporcie drogowym, ramach komunikacji miejskiej rozumieniu art. 4 ust. 1 pkt 4 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2023 r. poz. 2778 oraz z 2024 r. poz. 1853), z przynajmniej częściowym wykorzystaniem autobusów zeroemisyjnych lub autobusów napędzanych gazem ziemnym pochodzącym z biometanu lub zleca, lub powierza wykonywanie takich przewozów podmiotom, które we flocie pojazdów przeznaczonych do wykonywania przewozów na jej obszarze przynajmniej częściowo wykorzystują autobusy zeroemisyjne lub autobusy napędzane gazem ziemnym pochodzącym z biometanu.
+- **1)** wykonuje zadanie publiczne, z wyłączeniem publicznego transportu zbiorowego, przy wykorzystaniu co najmniej 30% pojazdów elektrycznych lub pojazdów napędzanych gazem ziemnym lub
+- **2)** zleca wykonywanie zadania publicznego, z wyłączeniem publicznego transportu zbiorowego, podmiotowi, którego co najmniej 30% floty pojazdów użytkowanych przy wykonywaniu tego zadania stanowią pojazdy elektryczne lub pojazdy napędzane gazem ziemnym.
 
-2. Gmina, której liczba mieszkańców jest większa niż 100 000, oraz podmiot, któremu ta gmina zleciła lub powierzyła wykonywanie przewozów pasażerskich transporcie drogowym ramach komunikacji miejskiej rozumieniu art. 4 ust. 1 pkt 4 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym, nabywają na podstawie umowy sprzedaży, leasingu, najmu lub dzierżawy z opcją zakupu wyłącznie autobusy zeroemisyjne służące do wykonywania takich przewozów na obszarze tej gminy.
+**Art. 36.**
 
-3. Obowiązku, o którym mowa ust. 2, nie stosuje się do nabywania autobusów służących do realizacji przewozów pasażerskich transporcie drogowym ramach komunikacji miejskiej rozumieniu art. 4 ust. 1 pkt 4 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym:
+1. Jednostka samorządu terytorialnego, z wyłączeniem gmin i powiatów, których liczba mieszkańców nie przekracza 50 000, świadczy usługę lub zleca świadczenie usługi komunikacji miejskiej w rozumieniu ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2017 r. poz. 2136 i 2371 oraz z 2018 r. poz. 317) podmiotowi, którego udział autobusów zeroemisyjnych we flocie użytkowanych pojazdów na obszarze tej jednostki samorządu terytorialnego wynosi co najmniej 30%.
 
-- **1)** które wykraczają poza granice administracyjne miasta, którym liczba mieszkańców jest większa niż 100 000;
-- **2)** których organizatorem jest gmina, której liczba mieszkańców jest większa niż 100 000, realizowanych na terenie gminy o liczbie mieszkańców mniejszej niż 100 000 albo gmin o liczbie mieszkańców mniejszej niż 100 000 każda.
+2. Jednostka samorządu terytorialnego, z wyłączeniem gmin i powiatów, których liczba mieszkańców nie przekracza 50 000, świadczy usługę lub zleca świadczenie usługi komunikacji miejskiej w rozumieniu ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym podmiotowi, którego udział jednostek pływających wykorzystujących do napędu wyłącznie silnik, którego cykl pracy nie prowadzi do emisji gazów cieplarnianych lub innych substancji objętych systemem zarządzania emisjami gazów cieplarnianych, o którym mowa w ustawie z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji, we flocie użytkowanej na obszarze tej jednostki samorządu terytorialnego wynosi co najmniej 30%.
 
-**Art. 36a.** Udział pojazdów, o którym mowa art. 34, art. 35 ust. 1, art. 68 i art. 68a, oblicza się, stosując zasadę, zgodnie z którą wielkość tego udziału poniżej 0,5 zaokrągla się dół, a wielkość tego udziału 0,5 i powyżej zaokrągla się górę.
+**Art. 37.**
 
-**Art. 37.** (uchylony)
+1. Jednostka samorządu terytorialnego, o której mowa w art. 36, sporządza, co 36 miesięcy, analizę kosztów i korzyści związanych z wykorzystaniem, przy świadczeniu usług komunikacji miejskiej, autobusów zeroemisyjnych oraz innych środków transportu, w których do napędu wykorzystywane są wyłącznie silniki, których cykl pracy nie powoduje emisji gazów cieplarnianych lub innych substancji objętych systemem zarządzania emisjami gazów cieplarnianych, o którym mowa w ustawie z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji.
 
-**Art. 38.**
+2. Analiza, o której mowa w ust. 1, obejmuje w szczególności:
 
-1. Podmioty, o których mowa art. 34 i art. 35 ust. 1, do dnia 31 stycznia każdego roku przekazują ministrowi właściwemu do spraw energii oraz ministrowi właściwemu do spraw klimatu informację o liczbie pojazdów o ruchu drogowym we flocie wykorzystywanej do obsługi urzędu, z uwzględnieniem liczby oraz udziału procentowego pojazdów elektrycznych, według stanu na dzień 31 grudnia roku poprzedzającego przekazanie tej informacji.
+- **1)** analizę finansowo-ekonomiczną;
+- **2)** oszacowanie efektów środowiskowych związanych z emisją szkodliwych substancji dla środowiska naturalnego i zdrowia ludzi;
+- **3)** analizę społeczno-ekonomiczną uwzględniającą wycenę kosztów związanych z emisją szkodliwych substancji.
 
-2. Gmina, o której mowa art. 36 ust. 1, do dnia 31 stycznia każdego roku przekazuje ministrowi właściwemu do spraw energii oraz ministrowi właściwemu do spraw klimatu informację o liczbie autobusów we flocie wykorzystywanej do wykonywania przewozów pasażerskich transporcie drogowym ramach komunikacji miejskiej rozumieniu art. 4 ust. 1 pkt 4 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym, z uwzględnieniem liczby oraz udziału procentowego autobusów zeroemisyjnych oraz autobusów napędzanych gazem ziemnym pochodzącym z biometanu, według stanu na dzień 31 grudnia roku poprzedzającego przekazanie tej informacji.
+3. Jednostka samorządu terytorialnego, o której mowa w art. 36, zapewnia możliwość udziału społeczeństwa w opracowaniu analizy, o której mowa w ust. 1, na zasadach określonych w dziale III w rozdziałach 1 i 3 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2017 r. poz. 1405, 1566 i 1999).
+
+4. Analiza, o której mowa w ust. 1, niezwłocznie po jej sporządzeniu jest przekazywana ministrowi właściwemu do spraw energii, ministrowi właściwemu do spraw gospodarki i ministrowi właściwemu do spraw środowiska.
+
+5. Jeżeli wyniki analizy, o której mowa w ust. 2 pkt 3, wskazują na brak korzyści z wykorzystywania autobusów zeroemisyjnych, jednostka samorządu terytorialnego, o której mowa w art. 36, może nie realizować obowiązku osiągnięcia poziomu udziału autobusów zeroemisyjnych.
+
+**Art. 38.** Podmioty, o których mowa w art. 34–36, do dnia 31 stycznia każdego roku przekazują ministrowi właściwemu do spraw energii informację o liczbie i udziale procentowym pojazdów elektrycznych lub pojazdów napędzanych gazem ziemnym w użytkowanej flocie pojazdów, według stanu na dzień 31 grudnia roku poprzedzającego przekazanie tej informacji.
 
 **Art. 39.**
 
-1. W celu ograniczenia negatywnego oddziaływania emisji zanieczyszczeń z transportu na zdrowie ludzi i środowisko na terenie gminy można ustanowić strefę czystego transportu obejmującą drogi, których zarządcą jest gmina, do której zakazuje się wjazdu pojazdów samochodowych rozumieniu art. 2 pkt 33 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym innych niż:
+1. W celu zapobieżenia negatywnemu oddziaływaniu na zdrowie ludzi i środowisko w związku z emisją zanieczyszczeń z transportu, na obszarze zwartej zabudowy mieszkaniowej z koncentracją budynków użyteczności publicznej można ustanowić strefę czystego transportu, do której ogranicza się wjazd pojazdów innych niż:
 
 - **1)** elektryczne;
 - **2)** napędzane wodorem;
-- **3)** napędzane gazem ziemnym;
-- **4)** wyłączone na podstawie uchwały rady gminy, zgodnie z ust. 4.
+- **3)** napędzane gazem ziemnym.
 
-2. Od zakazu, o którym mowa ust. 1, zwolnione są:
+2. Posiadacz pojazdu napędzanego gazem ziemnym może skorzystać z wyłączenia, o którym mowa w ust. 1 pkt 3, jeżeli zapewni oznakowanie tego pojazdu na jego przedniej szybie zgodne z przepisami wydanymi na podstawie art. 76 ust. 1 pkt 1 lit. a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym. Oznakowanie to wydaje posiadaczowi pojazdu wójt, burmistrz albo prezydent miasta właściwy ze względu na miejsce zamieszkania albo siedziby posiadacza pojazdu.
 
-- **1)** pojazdy:
-    - **a)** Policji, Inspekcji Transportu Drogowego, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Służby Więziennej, Krajowej Administracji Skarbowej, jednostek ochrony przeciwpożarowej, Morskiej Służby Poszukiwania i Ratownictwa oraz służb ratowniczych,
-    - **b)** używane we flocie obsługującej Kancelarię Prezesa Rady Ministrów,
-    - **c)** zarządów dróg i realizujące zadania na rzecz zarządców dróg, obcych, jeżeli umowa międzynarodowa, której Rzeczpospolita Polska jest stroną, tak stanowi,
-    - **e)** urzędów morskich realizujących zadania pasie technicznym i ochronnym wybrzeża oraz portach i przystaniach morskich,
-    - **f)** posiadające odpowiednie oznaczenie, którymi poruszają się osoby niepełnosprawne,
-    - **g)** Głównego Inspektoratu Ochrony Środowiska, inne niż wykorzystywane wyłącznie do przewozu osób;
+3. Od ograniczenia, o którym mowa w ust. 1, są zwolnione:
+
+- **1)** pojazdy: Policji, Inspekcji Transportu Drogowego, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Służby Więziennej, Krajowej Administracji Skarbowej, jednostek ochrony przeciwpożarowej, Morskiej Służby Poszukiwania i Ratownictwa oraz służb ratowniczych, użytkowane we flocie obsługującej Kancelarię Prezesa Rady Ministrów, zarządów dróg i realizujące zadania na rzecz zarządców dróg, Sił Zbrojnych Rzeczypospolitej Polskiej, a także sił zbrojnych państw obcych, jeżeli umowa międzynarodowa, której Rzeczpospolita Polska jest stroną, tak stanowi, o dopuszczalnej masie całkowitej do 3,5 t, których właścicielami, posiadaczami lub użytkownikami są mieszkańcy strefy czystego transportu;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
 - **2)** specjalistyczne środki transportu sanitarnego, wykorzystywane przez zespoły ratownictwa medycznego oraz zespoły transportu sanitarnego;
 - **3)** autobusy zeroemisyjne;
 - **4)** autobusy szkolne.
 
-3. Strefę czystego transportu ustanawia się na czas nieoznaczony lub oznaczony nie krótszy niż 5 lat.
+4. Rada gminy, w uchwale ustanawiającej strefę czystego transportu, może ustanowić wyłączenia od ograniczenia wjazdu do tej strefy inne niż określone w ust. 3.
 
-3a. Jeżeli ocena poziomów substancji powietrzu, o której mowa art. 89 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, 834, 1089, 1222, 1847 i 1853), wykazała przekroczenie średniorocznego poziomu dopuszczalnego dwutlenku azotu mieście, którym liczba mieszkańców jest większa niż 100 000, to od dnia 1 stycznia roku następującego po roku, którym prezydent tego miasta otrzymał wyniki oceny zgodnie z art. 89 ust. 1a tej ustawy, rada gminy ustanawia drodze uchwały strefę czystego transportu tym mieście.
-
-3b. Strefa czystego transportu, o której mowa ust. 3a, może zostać zniesiona, jeżeli ocena poziomów substancji powietrzu, o której mowa art. 89 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, kolejnych trzech latach nie wykaże przekroczenia średniorocznego poziomu dopuszczalnego dwutlenku azotu mieście, którym ustanowiono strefę czystego transportu.
-
-4. Rada gminy, uchwale ustanawiającej strefę czystego transportu, może ustanowić dodatkowe wyłączenia podmiotowe i przedmiotowe od zakazu wjazdu do tej strefy, inne niż określone ust. 2.
-
-5. Rada gminy, uchwale ustanawiającej strefę czystego transportu, może dopuścić wjazd do strefy, godzinach określonych tej uchwale, okresie nie dłuższym niż 3 lata od dnia ustanowienia strefy, pojazdów innych niż określone uiszczenia opłaty.
-
-6. Opłata za wjazd do strefy czystego transportu, o której mowa ust. 5, stanowi dochód gminy, który może być wykorzystany wyłącznie na potrzeby:
-
-- **1)** oznakowania strefy czystego transportu;
-- **2)** zakupu autobusów zeroemisyjnych;
-- **3)** zakupu tramwajów;
-- **4)** zakupu innych środków transportu zbiorowego;
-- **5)** (uchylony)
-- **6)** finansowania programów wsparcia zakupu rowerów rozumieniu art. 2 pkt 47 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, wyposażonych uruchamiany naciskiem na pedały pomocniczy napęd elektryczny zasilany prądem o napięciu nie wyższym niż 48 V o znamionowej mocy ciągłej nie większej niż 250 W, którego moc wyjściowa zmniejsza się stopniowo i spada do zera po przekroczeniu prędkości 25 km/h.
-
-7. Opłata za wjazd do strefy czystego transportu, o której mowa ust. 5, nie może być wyższa niż:
-
-- **1)** 2,50 zł za godzinę przypadku opłaty jednorazowej;
-- **2)** 500 zł przypadku opłaty abonamentowej za jeden miesiąc.
-
-8. Opłatę za wjazd do strefy czystego transportu, o której mowa ust. 5, pobiera wójt, burmistrz albo prezydent miasta.
-
-9. W celu identyfikacji pojazdów samochodowych, o których mowa ust. 1 pkt 1–3, oraz korzystających z wyłączeń na podstawie ust. 4, uprawnionych do wjazdu do strefy czystego transportu, rada gminy uchwale ustanawiającej strefę czystego transportu określa sposób kontroli wjazdu do strefy czystego transportu:
-
-- **1)** poprzez obowiązek oznaczenia pojazdów samochodowych nalepką umieszczaną lewym dolnym rogu przedniej szyby pojazdu lub
-- **2)** za pomocą danych pozyskiwanych z centralnej ewidencji pojazdów, o której mowa art. 80a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
-
-9a. W przypadku, o którym mowa ust. 9 pkt 2, gmina nie może żądać podania danych, o których mowa art. 80cba ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, jeżeli dane te są zgromadzone centralnej ewidencji pojazdów.
-
-10. Oznaczenie nalepką, o której mowa ust. 9, nie jest wymagane, jeżeli pojazd elektryczny lub napędzany wodorem jest oznaczony tablicami, o których mowa umieszczoną na przedniej szybie pojazdu, o której mowa przepisach wydanych na podstawie art. 76 ust. 1 pkt 1 ustawy – Prawo o ruchu drogowym.
-
-11. Nalepkę, o której mowa ust. 9, wydaje wójt, burmistrz albo prezydent miasta za opłatą, której maksymalna wysokość wynosi 5 zł.
-
-12. Opłata za nalepkę, o której mowa ust. 9, stanowi dochód gminy.
-
-13. Minister właściwy do spraw energii określi, drodze rozporządzenia, wzór nalepki, o której mowa ust. 9, mając na uwadze konieczność łatwej i szybkiej identyfikacji pojazdów uprawnionych do wjazdu do strefy czystego transportu.
-
-14. Granice obszaru strefy czystego transportu gmina oznacza znakami drogowymi.
+5. Granice obszaru strefy czystego transportu oznacza się znakami drogowymi.
 
 **Art. 40.**
 
-1. W przypadku gdy rada gminy podejmie decyzję o ustanowieniu strefy czystego transportu, strefę tę ustanawia drodze uchwały.
+1. Strefę czystego transportu ustanawia, w drodze uchwały, rada gminy.
 
-2. Uchwała, o której mowa ust. 1, określa:
+2. Uchwała, o której mowa w ust. 1, określa:
 
 - **1)** granice obszaru strefy czystego transportu;
-- **2)** sposób organizacji ruchu strefie czystego transportu;
-- **3)** dodatkowe sposoby podania do publicznej wiadomości treści uchwały o ustanowieniu strefy czystego transportu;
-- **4)** wysokość oraz sposób poboru opłaty, o której mowa art. 39 ust. 5;
-- **5)** wysokość opłaty, o której mowa art. 39 ust. 11, i szczegółowy sposób wydawania nalepki, o której mowa art. 39 ust. 9.
+- **2)** sposób organizacji ograniczenia wjazdu do strefy czystego transportu;
+- **3)** dodatkowe sposoby podania do publicznej wiadomości treści uchwały o ustanowieniu strefy czystego transportu.
 
-3. Wójt, burmistrz albo prezydent miasta sporządza projekt uchwały, o której mowa ust. 1, i konsultuje go z mieszkańcami gminy, zamieszczając projekt na stronie internetowej obsługującego go urzędu i wyznaczając termin na zgłaszanie uwag. Termin ten nie może być krótszy niż 21 dni.
+3. Uchwała, o której mowa w ust. 1, stanowi akt prawa miejscowego.
 
-4. Wójt, burmistrz albo prezydent miasta przekazuje projekt uchwały, o której mowa ust. 1, radzie gminy niezwłocznie po rozpatrzeniu wszystkich uwag zgłoszonych ramach konsultacji publicznych.
-
-5. Rada gminy podejmuje uchwałę, o której mowa ust. 1, terminie 60 dni od dnia otrzymania projektu, o którym mowa ust. 4.
-
-6. Uchwała, o której mowa ust. 1, stanowi akt prawa miejscowego.
-
-**Art. 40a.**
-
-1. W celu ograniczenia negatywnego oddziaływania emisji zanieczyszczeń z transportu na zdrowie ludzi i środowisko, dyrektor parku ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2024 r. poz. 1478), że działalność edukacyjna parku narodowego oraz udostępnianie obszaru parku narodowego będą realizowane przy użyciu pojazdów, o których mowa art. 39 ust. 1 pkt 1–3.
-
-2. Do realizacji zadań ramach działalności edukacyjnej parku narodowego oraz udostępniania obszaru parku narodowego przy użyciu pojazdów, o których mowa ust. 1, nie mają zastosowania ograniczenia oraz zakazy ruchu ustanowione przez zarządcę drogi na odcinkach dróg publicznych znajdujących się na obszarze parku narodowego. Pojazdy, o których mowa ust. 1, użytkuje się, uwzględniając szczególności konieczność zapewnienia bezpieczeństwa wszystkim uczestnikom ruchu rozumieniu art. 2 pkt 17 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
-
-#### Rozdział 4 Obowiązki informacyjne zakresie paliw alternatywnych
+#### Rozdział 4 Obowiązki informacyjne w zakresie paliw alternatywnych
 
 **Art. 41.**
 
 1. Informacja o rodzaju paliwa alternatywnego wykorzystywanego do napędu pojazdu samochodowego jest umieszczana:
 
-- **1)** instrukcji obsługi tego pojazdu – przez producenta pojazdu samochodowego;
-- **2)** na korkach wlewu paliwa lub gniazdach pojazdowych lub pobliżu tych korków lub tych gniazd – przez producenta pojazdu samochodowego;
-- **3)** na terenie placówki handlowej prowadzącej sprzedaż pojazdów silnikowych – przez przedsiębiorcę wykonującego działalność gospodarczą tym zakresie.
+- **1)** w instrukcji obsługi tego pojazdu – przez producenta pojazdu samochodowego;
+- **2)** na korkach wlewu paliwa lub gniazdach pojazdowych lub w pobliżu tych korków lub tych gniazd – przez producenta pojazdu samochodowego;
+- **3)** na terenie placówki handlowej prowadzącej sprzedaż pojazdów silnikowych – przez właściciela tej placówki.
 
-2. Operator ogólnodostępnej stacji ładowania i operator stacji gazu ziemnego oznaczają odpowiednio ogólnodostępną stację ładowania lub stację gazu ziemnego sposób jednoznacznie wskazujący na możliwość ładowania lub tankowania pojazdu gazem ziemnym.
+2. Operator ogólnodostępnej stacji ładowania i operator stacji gazu ziemnego oznaczają odpowiednio ogólnodostępną stację ładowania lub stację gazu ziemnego w sposób jednoznacznie wskazujący na możliwość ładowania lub tankowania pojazdu gazem ziemnym.
 
-2a. Podmiot świadczący usługę tankowania pojazdu samochodowego paliwem alternatywnym, innym niż wymienione ust. 2, oznacza miejsce tankowania pojazdu samochodowego sposób jednoznacznie wskazujący na możliwość tankowania pojazdu paliwem alternatywnym danego rodzaju.
+3. Jeżeli na stacji paliw płynnych w rozumieniu przepisów wydanych na podstawie art. 7 ust. 2 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, pojazdy samochodowe mogą być ładowane lub tankowane paliwami alternatywnymi, właściciel tej stacji umieszcza na tej stacji porównanie cen jednostkowych oferowanych na niej paliw.
 
-3. Jeżeli na stacji paliw płynnych rozumieniu przepisów wydanych na podstawie art. 7 ust. 2 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane pojazdy samochodowe mogą być ładowane lub tankowane paliwami alternatywnymi, art. 41a ust. 1.
+4. Informacje, o których mowa w ust. 1–3, umieszcza się w widocznym i dostępnym miejscu.
 
-4. Informacje, o których mowa ust. 1–3, umieszcza się widocznym i dostępnym miejscu.
+5. Kontrolę wykonania obowiązków informacyjnych, o których mowa w ust. 1–4, przeprowadza Inspekcja Handlowa.
 
-5. Kontrolę wykonania obowiązków informacyjnych, o których mowa ust. 1– 4, przeprowadza Inspekcja Handlowa.
+6. Minister właściwy do spraw energii określi, w drodze rozporządzenia, sposób:
 
-6. Minister właściwy do spraw gospodarki surowcami energetycznymi porozumieniu z ministrem właściwym do spraw energii określi, drodze rozporządzenia, szczegółowy sposób:
-
-- **1)** formułowania i udostępniania informacji, o których mowa ust. 1,
-- **2)** oznakowania miejsc tankowania lub ładowania pojazdu samochodowego paliwem alternatywnym, tym urządzeń służących do tankowania lub ładowania
-- **3)** (uchylony) – biorąc pod uwagę konieczność udzielania użytkownikom pojazdów samochodowych kompletnych informacji zakresie poszczególnych rodzajów paliw alternatywnych, a przypadku, gdy zostały wydane odpowiednie Polskie Normy, także ich postanowienia.
-
-**Art. 41a.**
-
-1. Minister właściwy do spraw gospodarki surowcami energetycznymi porównuje ceny jednostkowe oferowanych na rynku paliw przeznaczonych do napędu samochodów osobowych rozumieniu art. 2 pkt 40 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, zgodnie z metodyką określoną rozporządzeniu wykonawczym Komisji (UE) 2018/732 z dnia 17 maja 2018 r. sprawie wspólnej metodyki porównywania ceny jednostkowej paliw alternatywnych zgodnie z dyrektywą Parlamentu Europejskiego i Rady 2014/94/UE (Dz. Urz. UE L 123 z 18.05.2018, str. 85, z późn. zm. ).
-
-2. Porównanie cen, o którym mowa ust. 1, minister właściwy do spraw gospodarki surowcami energetycznymi przygotowuje dla wybranych grup samochodów osobowych możliwych do porównania co najmniej pod względem masy i mocy. porównanie cen, o którym mowa ust. 1, do końca miesiąca następującego po kwartale, którego porównanie dotyczy, na swojej stronie podmiotowej Biuletynu Informacji Publicznej.
-
-**Art. 41b.**
-
-1. Operator ogólnodostępnej stacji ładowania, dostawca usługi ładowania, operator stacji gazu ziemnego oraz operator stacji wodoru świadczący usługę tankowania wodoru składa do Prezesa UDT wniosek o:
-
-- **1)** nadanie indywidualnego kodu identyfikacyjnego, zwanego dalej „numerem EIPA”;
-- **2)** uznanie kodu nadanego mu innym państwie członkowskim Unii Europejskiej, z którym Rzeczpospolita Polska nawiązała współpracę zakresie wzajemnego uznawania kodów, zwanego dalej „kodem”, za równorzędny numerowi EIPA, pod warunkiem że taki kod odpowiada strukturą numerowi EIPA.
-
-2. Wniosek, o którym mowa ust. 1, składa się przed rozpoczęciem działalności jako operator ogólnodostępnej stacji ładowania, dostawca usługi ładowania, operator stacji gazu ziemnego lub operator stacji wodoru, na której świadczona jest usługa tankowania wodoru, za pośrednictwem rejestru.
-
-3. Za nadanie numeru EIPA, uznanie kodu oraz utrzymanie go systemie teleinformatycznym Prezes UDT pobiera opłatę miesięczną:
-
-- **1)** od operatora ogólnodostępnej stacji ładowania, stacji gazu ziemnego lub stacji wodoru, na której świadczona jest usługa tankowania wodoru – równą iloczynowi stawki opłaty wynoszącej maksymalnie 25 zł i liczby jego ogólnodostępnych stacji ładowania, stacji gazu ziemnego lub stacji wodoru, na których świadczona jest usługa tankowania wodoru;
-- **2)** od dostawcy usługi ładowania – równą stawce opłaty wynoszącej maksymalnie 50 zł.
-
-4. Podmiot posiadający numer EIPA lub uznany kod wskazuje go we wniosku o przeprowadzenie badań technicznych, o których mowa art. 16 ust. 1, art. 27 ust. 1 lub art. 29c ust. 1.
-
-5. Minister właściwy do spraw energii porozumieniu z ministrem właściwym do spraw gospodarki surowcami energetycznymi określi, drodze rozporządzenia, terminie do dnia 15 grudnia każdego roku na kolejny rok kalendarzowy, wysokość stawek opłaty za nadanie numeru EIPA, uznanie kodu oraz ich utrzymanie systemie pokrycia niezbędnych kosztów prowadzenia i utrzymania rejestru oraz potrzebę ujednolicenia terminów wnoszenia opłaty, a także mając na uwadze, aby wysokość tej opłaty nie wpływała negatywnie na rozwój sieci stacji ładowania, stacji gazu ziemnego i stacji wodoru.
+- **1)** oznakowania miejsc tankowania lub ładowania pojazdu samochodowego,
+- **2)** formułowania i udostępniania informacji o możliwości ładowania lub tankowania pojazdu samochodowego paliwem alternatywnym,
+- **3)** porównywania cen paliw alternatywnych z cenami benzyny silnikowej oraz oleju napędowego biorąc pod uwagę konieczność udzielania użytkownikom pojazdów samochodowych kompletnych informacji w zakresie paliw alternatywnych oraz zapewnienia przejrzystości danych porównywanych cen paliw.
 
 **Art. 42.**
 
-1. Rejestr jest rejestrem publicznym prowadzonym dla zapewnienia użytkownikom pojazdów elektrycznych, pojazdów napędzanych gazem ziemnym i pojazdów napędzanych wodorem informacji ułatwiających korzystanie z tych pojazdów.
+1. Ewidencja Infrastruktury Paliw Alternatywnych, zwana dalej „rejestrem”, jest rejestrem publicznym prowadzonym dla zapewnienia użytkownikom pojazdów elektrycznych i pojazdów napędzanych gazem ziemnym informacji ułatwiających korzystanie z tych pojazdów.
 
 2. Rejestr prowadzi Prezes UDT przy użyciu systemu teleinformatycznego.
 
 3. Rejestr zawiera informacje o:
 
-- **1)** współrzędnych stacji gazu ziemnego, zgodnie z państwowym systemem odniesień przestrzennych układzie współrzędnych płaskich prostokątnych;
-- **2)** współrzędnych ogólnodostępnych stacji ładowania, zgodnie z państwowym systemem odniesień przestrzennych układzie współrzędnych płaskich prostokątnych;
-- **2a)** współrzędnych stacji wodoru zgodnie z państwowym systemem odniesień przestrzennych układzie współrzędnych płaskich prostokątnych;
-- **3)** aktualnych cenach paliw alternatywnych miejscach wskazanych pkt 1–2a oraz stosowanych tych miejscach metodach płatności;
-- **4)** dostępności punktów ładowania zainstalowanych ogólnodostępnych stacjach ładowania.
+- **1)** współrzędnych stacji gazu ziemnego, zgodnie z państwowym systemem odniesień przestrzennych w układzie współrzędnych płaskich prostokątnych;
+- **2)** współrzędnych ogólnodostępnych stacji ładowania, zgodnie z państwowym systemem odniesień przestrzennych w układzie współrzędnych płaskich prostokątnych;
+- **3)** aktualnych cenach paliw alternatywnych w miejscach wskazanych w pkt 1 i 2;
+- **4)** dostępności punktów ładowania zainstalowanych w ogólnodostępnych stacjach ładowania.
 
-4. W systemie teleinformatycznym, o którym mowa ust. 2, udostępnia się:
+4. W systemie teleinformatycznym, o którym mowa w ust. 2, udostępnia się:
 
-- **1)** usługi elektroniczne pozwalające na:
-    - **a)** zgłoszenie do rejestru oraz aktualizację danych, dotyczących punktu tankowania wodoru, punktu tankowania sprężonego gazu ziemnego (CNG), punktu tankowania skroplonego gazu ziemnego (LNG) lub punktu ładowania zainstalowanego ogólnodostępnej stacji ładowania, przy użyciu formularza elektronicznego,
-    - **b)** przesyłanie aktualnej informacji o dostępności punktu ładowania zainstalowanego ogólnodostępnej stacji ładowania i aktualnych cenach paliw alternatywnych, przy użyciu udostępnionej usługi sieciowej, art. 41b ust. 1;
+- **1)** usługi elektroniczne pozwalające na: zgłoszenie do rejestru oraz aktualizację danych, dotyczących punktu tankowania sprężonego gazu ziemnego (CNG), punktu tankowania skroplonego gazu ziemnego (LNG) lub punktu ładowania zainstalowanego w ogólnodostępnej stacji ładowania, przy użyciu formularza elektronicznego, przesyłanie aktualnej informacji o dostępności punktu ładowania zainstalowanego w ogólnodostępnej stacji ładowania i aktualnych cenach paliw alternatywnych, przy użyciu udostępnionej usługi sieciowej;
+    - **a)**
+    - **b)**
 
-- **2)** interaktywną mapę zawierającą informacje, o których mowa ust. 3.
+- **2)** interaktywną mapę zawierającą informacje, o których mowa w ust. 3.
 
-4a. Interaktywna mapa, o której mowa ust. 4 pkt 2:
+5. Operator ogólnodostępnej stacji ładowania oraz operator stacji gazu ziemnego są obowiązani do dokonania zgłoszenia do rejestru, przy użyciu formularza elektronicznego, o którym mowa w ust. 4 pkt 1 lit. a, danych dotyczących:
 
-- **1)** zawiera informacje dotyczące wyłącznie ogólnodostępnych stacji ładowania, stacji gazu ziemnego oraz stacji wodoru, na których zostały przeprowadzone badania techniczne, o których mowa odpowiednio art. 16 ust. 1, art. 27 ust. 1 lub art. 29c ust. 1;
-- **2)** identyfikuje ogólnodostępne stacje ładowania, stacje gazu ziemnego oraz stacje wodoru, dla których została wydana decyzja o wstrzymaniu eksploatacji, o której mowa odpowiednio art. 16 ust. 4, art. 27 ust. 4, art. 29c ust. 4 lub art. 29f ust. 7 i 8.
+- **1)** oznaczenia firmy operatora ogólnodostępnej stacji ładowania lub operatora stacji gazu ziemnego, adres jego siedziby oraz jego dane teleadresowe,
+- **2)** określenia rodzaju infrastruktury obsługiwanej przez operatora,
+- **3)** współrzędnych stacji gazu ziemnego lub ogólnodostępnej stacji ładowania, o których mowa w ust. 3 pkt 1 i 2 najpóźniej w dniu rozpoczęcia świadczenia usług ładowania lub usług tankowania gazu ziemnego oraz każdorazowo w przypadku zmiany tych danych.
 
-5. Operator ogólnodostępnej stacji ładowania, operator stacji gazu ziemnego lub operator stacji wodoru świadczący usługę tankowania wodoru są obowiązani do dokonania zgłoszenia do rejestru przy użyciu formularza elektronicznego, o którym mowa ust. 4 pkt 1 lit. a:
+6. Operator ogólnodostępnej stacji ładowania jest obowiązany do przekazywania, za pomocą usługi sieciowej, o której mowa w ust. 4 pkt 1 lit. b, informacji o:
 
-- **1)** danych obejmujących:
-    - **a)** firmę operatora ogólnodostępnej stacji ładowania, operatora stacji gazu ziemnego lub stacji wodoru, adresu jego miejsca zamieszkania albo siedziby oraz danych teleadresowych,
-    - **b)** rodzaj infrastruktury obsługiwanej przez operatora,
-    - **c)** współrzędne stacji gazu ziemnego, ogólnodostępnej stacji ładowania lub stacji wodoru, o których mowa ust. 3 pkt 1–2a – najpóźniej dniu złożenia wniosku o przeprowadzenie badania technicznego, o którym mowa art. 16 ust. 1, art. 27 ust. 1 lub art. 29c ust. 1, poprzedzającego oddanie do eksploatacji ogólnodostępnej stacji ładowania, stacji gazu ziemnego lub stacji wodoru oraz każdorazowo przypadku zmiany tych danych;
+- **1)** dostępności punktu ładowania zainstalowanego w ogólnodostępnej stacji ładowania – natychmiast po zmianie stanu dostępności tego punktu, w czasie wynikającym ze sposobu działania usługi sieciowej;
+- **2)** aktualnych cenach usług ładowania – w ciągu godziny od zmiany tej ceny.
 
-- **2)** zakończenia świadczenia na danej stacji usługi ładowania, usługi tankowania gazu ziemnego lub usługi tankowania wodoru celu usunięcia danego podmiotu z rejestru – najpóźniej dniu zakończenia świadczenia tej usługi.
+7. Operator stacji gazu ziemnego przekazuje informacje o aktualnych cenach gazu ziemnego, za pomocą usługi sieciowej, o której mowa w ust. 4 pkt 1 lit. b, w ciągu godziny od zmiany tej ceny.
 
-5a. Zgłoszenia do rejestru może dokonać jedynie podmiot posiadający numer EIPA lub uznany kod. o dopuszczeniu do eksploatacji stacji gazu ziemnego i stacji wodoru oraz o wydaniu decyzji o wstrzymaniu eksploatacji takiej stacji.
+8. Dane prezentowane na mapie, o której mowa w ust. 4 pkt 2, są aktualizowane w zakresie informacji, o których mowa w:
 
-6. Operator ogólnodostępnej stacji ładowania jest obowiązany do przekazywania, za pomocą usługi sieciowej, o której mowa ust. 4 pkt 1 lit. b, informacji o:
+- **1)** ust. 3 pkt 3 – w ciągu godziny od zmiany ceny;
+- **2)** ust. 3 pkt 4 – natychmiast po zmianie stanu dostępności, w czasie wynikającym ze sposobu działania usługi sieciowej, o której mowa w ust. 4 pkt 1 lit. b.
 
-- **1)** dostępności punktu ładowania zainstalowanego ogólnodostępnej stacji ładowania – natychmiast po zmianie stanu dostępności tego punktu, czasie wynikającym ze sposobu działania usługi sieciowej;
-- **2)** aktualnych cenach usług ładowania – ciągu godziny od zmiany tej ceny.
+9. Szczegółowa specyfikacja usługi sieciowej, o której mowa w ust. 4 pkt 1 lit. b, zdefiniowana językiem opisu usług sieciowych WSDL, jest udostępniana w Biuletynie Informacji Publicznej na stronie podmiotowej UDT.
 
-7. Operator stacji gazu ziemnego oraz operator stacji wodoru świadczący usługę tankowania wodoru przekazuje informacje o aktualnych cenach gazu ziemnego lub wodoru za pomocą usługi sieciowej, o której mowa ust. 4 pkt 1 lit. b, ciągu godziny od zmiany tej ceny.
+10. System teleinformatyczny, o którym mowa w ust. 2, umożliwia udostępnianie zgromadzonych w nim informacji, o których mowa w ust. 3, każdemu podmiotowi zainteresowanemu ich przetwarzaniem w celu udostępnienia na mapie.
 
-8. Dane prezentowane na mapie, o której mowa ust. 4 pkt 2, są aktualizowane zakresie informacji, o których mowa w:
+11. Minister właściwy do spraw energii określi, w drodze rozporządzenia, wzór zgłoszenia, o którym mowa w ust. 5, kierując się koniecznością ujednolicenia formy i sposobu przekazywania informacji zawartych w zgłoszeniu.
 
-- **1)** ust. 3 pkt 3 – ciągu godziny od zmiany ceny;
-- **2)** ust. 3 pkt 4 – natychmiast po zmianie stanu dostępności, czasie wynikającym ze sposobu działania usługi sieciowej, o której mowa ust. 4 pkt 1 lit. b.
-
-9. Szczegółowa specyfikacja usługi sieciowej, o której mowa ust. 4 pkt 1 lit. b, jest udostępniana Biuletynie Informacji Publicznej na stronie podmiotowej UDT.
-
-10. System teleinformatyczny, o którym mowa ust. 2, umożliwia udostępnianie zgromadzonych nim informacji, o których mowa ust. 3, dotyczących ogólnodostępnych stacji ładowania, stacji gazu ziemnego lub stacji wodoru, na których świadczona jest usługa tankowania wodoru, przedstawionych na mapie, o której mowa ust. 4 pkt 2, każdemu podmiotowi zainteresowanemu ich przetwarzaniem.
-
-11. Minister właściwy do spraw energii określi, drodze rozporządzenia, wzór zgłoszenia, o którym mowa ust. 5, kierując się koniecznością ujednolicenia formy i sposobu przekazywania informacji zawartych zgłoszeniu. Krajowe ramy polityki rozwoju infrastruktury paliw alternatywnych
+#### Rozdział 5 Krajowe ramy polityki rozwoju infrastruktury paliw alternatywnych
 
 **Art. 43.**
 
-1. Minister właściwy do spraw klimatu opracowuje Krajowe ramy polityki rozwoju infrastruktury paliw alternatywnych, zwane dalej „Krajowymi ramami”.
+1. Minister właściwy do spraw energii opracowuje Krajowe ramy polityki rozwoju infrastruktury paliw alternatywnych, zwane dalej „Krajowymi ramami”.
 
-2. Krajowe ramy zawierają szczególności:
+2. Krajowe ramy zawierają w szczególności:
 
-- **1)** ocenę istniejącego stanu i przyszłego rozwoju rynku paliw alternatywnych sektorze transportu;
-- **2)** krajowy cel zakresie liczby punktów ładowania zainstalowanych ogólnodostępnych stacjach ładowania gminach, o których mowa art. 60 ust. 1, podziale na punkty ładowania o normalnej mocy i punkty ładowania o dużej mocy;
-- **3)** krajowy cel zakresie liczby punktów tankowania sprężonego gazu ziemnego (CNG), punktów tankowania skroplonego gazu ziemnego (LNG) i punktów bunkrowania skroplonego gazu ziemnego (LNG);
-- **3a)** krajowy cel zakresie liczby stacji wodoru oferujących do tankowania wyłącznie wodór odnawialny i wodór odnawialny pochodzenia niebiologicznego, ustalony na poziomie wspierającym rozwój wodoru odnawialnego i wodoru odnawialnego pochodzenia niebiologicznego;
-- **3b)** krajowy cel zakresie udziału wodoru niskoemisyjnego, wodoru odnawialnego i wodoru odnawialnego pochodzenia niebiologicznego całości paliw wykorzystywanych transporcie, ustalony na poziomie wspierającym rozwój wodoru odnawialnego i wodoru odnawialnego pochodzenia niebiologicznego;
-- **4)** działania niezbędne do zapewnienia osiągnięcia krajowych celów, o których mowa pkt 2–3b;
-- **5)** działania służące wsparciu rozwoju infrastruktury paliw alternatywnych usługach publicznego transportu zbiorowego;
-- **6)** wykaz gmin i sieci transportowych, których, przy uwzględnieniu potrzeb rynkowych, mają zostać rozmieszczone punkty tankowania sprężonego gazu ziemnego (CNG);
-- **7)** ocenę potrzeby instalowania punktów bunkrowania skroplonego gazu ziemnego (LNG) portach morskich poza siecią bazową TEN-T; pływających energią elektryczną z lądu;
-- **9)** ocenę potrzeby instalowania portach lotniczych urządzeń do zasilania energią elektryczną samolotów podczas postoju.
+- **1)** ocenę istniejącego stanu i przyszłego rozwoju rynku paliw alternatywnych w sektorze transportu;
+- **2)** krajowy cel w zakresie liczby punktów ładowania zainstalowanych w ogólnodostępnych stacjach ładowania w gminach, o których mowa w art. 60 ust. 1, w podziale na punkty ładowania o normalnej mocy i punkty ładowania o dużej mocy;
+- **3)** krajowy cel w zakresie liczby punktów tankowania sprężonego gazu ziemnego (CNG), punktów tankowania skroplonego gazu ziemnego (LNG) i punktów bunkrowania skroplonego gazu ziemnego (LNG);
+- **4)** działania niezbędne do zapewnienia osiągnięcia krajowych celów, o których mowa w pkt 2 i 3;
+- **5)** działania służące wsparciu rozwoju infrastruktury paliw alternatywnych w usługach publicznego transportu zbiorowego;
+- **6)** wykaz gmin i sieci transportowych, w których, przy uwzględnieniu potrzeb rynkowych, mają zostać rozmieszczone punkty tankowania sprężonego gazu ziemnego (CNG);
+- **7)** ocenę potrzeby instalowania punktów bunkrowania skroplonego gazu ziemnego (LNG) w portach morskich poza siecią bazową TEN-T;
+- **8)** ocenę potrzeby instalowania w portach morskich punktów zasilania jednostek pływających energią elektryczną z lądu;
+- **9)** ocenę potrzeby instalowania w portach lotniczych urządzeń do zasilania energią elektryczną samolotów podczas postoju.
 
-3. Minister właściwy do spraw klimatu może określić Krajowych ramach cele i działania związane z rozwojem infrastruktury paliw alternatywnych portach śródlądowych.
+3. Minister właściwy do spraw energii może określić w Krajowych ramach cele i działania związane z rozwojem infrastruktury paliw alternatywnych w portach śródlądowych.
 
-4. Rada Ministrów przyjmuje Krajowe ramy, drodze uchwały, na wniosek ministra właściwego do spraw klimatu.
+4. Rada Ministrów przyjmuje Krajowe ramy, w drodze uchwały, na wniosek ministra właściwego do spraw energii.
 
-5. Krajowe ramy ogłasza się Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+5. Krajowe ramy ogłasza się w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
-6. Minister właściwy do spraw klimatu, niezwłocznie po przyjęciu przez Radę Ministrów Krajowych ram, przekazuje je Komisji Europejskiej.
+6. Minister właściwy do spraw energii, niezwłocznie po przyjęciu przez Radę Ministrów Krajowych ram, przekazuje je Komisji Europejskiej.
 
-7. Krajowe ramy aktualizuje się, biorąc pod uwagę ocenę ich funkcjonowania oraz wyniki monitorowania, ocenę i sprawozdanie, o których mowa art. 44 ust. 1. Do aktualizacji Krajowych ram przepisy ust. 2–6 stosuje się odpowiednio.
+7. Krajowe ramy aktualizuje się, biorąc pod uwagę ocenę ich funkcjonowania oraz wyniki monitorowania, ocenę i sprawozdanie, o których mowa w art. 44 ust. 1. Do aktualizacji Krajowych ram przepisy ust. 2–6 stosuje się odpowiednio.
 
 **Art. 44.**
 
-1. Minister właściwy do spraw klimatu:
+1. Minister właściwy do spraw energii:
 
-- **1)** monitoruje poziom osiągnięcia celów określonych Krajowych ramach, szczególności na podstawie danych zawartych rejestrze oraz wyników badań statystycznych prowadzonych zgodnie z programem badań statystycznych statystyki publicznej rozumieniu ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2023 r. poz. 773 oraz z 2024 r. poz. 1222);
-- **2)** dokonuje, corocznie, oceny poziomu osiągnięcia celów określonych Krajowych ramach i publikuje ją na stronie internetowej obsługującego go urzędu;
-- **3)** na podstawie oceny, o której mowa pkt 2, sporządza, co 3 lata, sprawozdanie z realizacji Krajowych ram, które przedstawia do zatwierdzenia Radzie Ministrów terminie do dnia 15 października trzeciego roku objętego sprawozdaniem;
-- **4)** przekazuje Komisji Europejskiej zatwierdzone przez Radę Ministrów sprawozdanie, o którym mowa pkt 3, terminie do dnia 18 listopada trzeciego roku objętego sprawozdaniem.
+- **1)** monitoruje poziom osiągnięcia celów określonych w Krajowych ramach, w szczególności na podstawie danych zawartych w rejestrze oraz wyników badań statystycznych prowadzonych zgodnie z programem badań statystycznych statystyki publicznej w rozumieniu ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2016 r. poz. 1068 oraz z 2017 r. poz. 60);
+- **2)** dokonuje, corocznie, oceny poziomu osiągnięcia celów określonych w Krajowych ramach i publikuje ją na stronie internetowej obsługującego go urzędu;
+- **3)** na podstawie oceny, o której mowa w pkt 2, sporządza, co 3 lata, sprawozdanie z realizacji Krajowych ram, które przedstawia do zatwierdzenia Radzie Ministrów w terminie do dnia 15 października trzeciego roku objętego sprawozdaniem;
+- **4)** przekazuje Komisji Europejskiej zatwierdzone przez Radę Ministrów sprawozdanie, o którym mowa w pkt 3, w terminie do dnia 18 listopada trzeciego roku objętego sprawozdaniem.
 
-2. Sprawozdanie, o którym mowa ust. 1 pkt 3, zawiera szczególności: oraz informacje o działaniach podjętych dla ich realizacji;
+2. Sprawozdanie, o którym mowa w ust. 1 pkt 3, zawiera w szczególności:
 
-- **2)** informacje o zastosowanych bezpośrednich instrumentach wsparcia, szczególności o instrumentach podatkowych oraz zachętach niefinansowych do nabywania pojazdów napędzanych paliwami alternatywnymi lub budowy infrastruktury tych paliw;
-- **3)** informacje o polityce stosowanej zakresie zamówień publicznych celu wspierania wykorzystania paliw alternatywnych transporcie;
-- **4)** ocenę konieczności instalacji punktów tankowania paliwa lotniczego ze źródeł odnawialnych portach lotniczych należących do sieci bazowej TEN-T;
-- **5)** informacje o procedurach i przepisach związanych z ułatwieniem obrotu paliwami alternatywnymi transporcie;
-- **6)** informacje o rocznej wielkości środków publicznych przeznaczonych na:
-    - **a)** rozwój infrastruktury paliw alternatywnych,
-    - **b)** wsparcie zakładów produkcyjnych zakresie technologii związanych z paliwami alternatywnymi,
-    - **c)** wsparcie badań naukowych, rozwoju technologicznego i projektów pilotażowych związanych z paliwami alternatywnymi – podziale na poszczególne paliwa alternatywne i rodzaje środków transportu;
+- **1)** omówienie poziomu realizacji celów, o których mowa w art. 43 ust. 2 pkt 2 i 3, oraz informacje o działaniach podjętych dla ich realizacji;
+- **2)** informacje o zastosowanych bezpośrednich instrumentach wsparcia, w szczególności o instrumentach podatkowych oraz zachętach niefinansowych do nabywania pojazdów napędzanych paliwami alternatywnymi lub budowy infrastruktury tych paliw;
+- **3)** informacje o polityce stosowanej w zakresie zamówień publicznych w celu wspierania wykorzystania paliw alternatywnych w transporcie;
+- **4)** ocenę konieczności instalacji punktów tankowania paliwa lotniczego ze źródeł odnawialnych w portach lotniczych należących do sieci bazowej TEN-T;
+- **5)** informacje o procedurach i przepisach związanych z ułatwieniem obrotu paliwami alternatywnymi w transporcie;
+- **6)** informacje o rocznej wielkości środków publicznych przeznaczonych na: rozwój infrastruktury paliw alternatywnych, wsparcie zakładów produkcyjnych w zakresie technologii związanych z paliwami alternatywnymi, wsparcie badań naukowych, rozwoju technologicznego i projektów pilotażowych związanych z paliwami alternatywnymi w podziale na poszczególne paliwa alternatywne i rodzaje środków transportu;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **7)** informacje o przewidywanej liczbie zarejestrowanych na terenie kraju pojazdów napędzanych paliwami alternatywnymi latach 2020, 2025 oraz 2030.
+- **7)** informacje o przewidywanej liczbie zarejestrowanych na terenie kraju pojazdów napędzanych paliwami alternatywnymi w latach 2020, 2025 oraz 2030.
 
 #### Rozdział 6 Kary pieniężne
 
@@ -828,183 +549,437 @@ Art. 48–59. (pominięte) Przepisy epizodyczne
 
 1. Karze pieniężnej podlega przedsiębiorca, który:
 
-- **1)** nie przestrzega obowiązku zapewnienia dostawcom usługi ładowania dostępu, o którym mowa art. 3 ust. 1 pkt 10;
-- **2)** uzależnia świadczenie usługi ładowania ogólnodostępnej stacji ładowania od uprzedniego zawarcia przez posiadacza pojazdu elektrycznego lub pojazdu hybrydowego umowy formie pisemnej lub elektronicznej;
-- **3)** nie zapewnia ogólnodostępnej stacji ładowania wykorzystania energii elektrycznej sposób wskazany art. 8;
-- **4)** nie zapewnia przeprowadzenia badań, o których mowa art. 16 ust. 1, art. 27 ust. 1 lub art. 29c ust. 1, lub eksploatuje stacje ładowania, punkty infrastruktury ładowania drogowego transportu publicznego, stacje gazu ziemnego lub stacje wodoru pomimo wydania decyzji o wstrzymaniu eksploatacji, o której mowa art. 16 ust. 4, art. 27 ust. 4, art. 29c ust. 4 lub art. 29f ust. 7 lub ust. 8 pkt 1 lub 2;
-- **4a)** nie zapewnia przeprowadzenia badań, o których mowa art. 18 ust. 1 lub art. 28 ust. 1, lub eksploatuje punkty zasilania jednostek pływających energią elektryczną z lądu lub punkty bunkrowania skroplonego gazu ziemnego (LNG) pomimo wydania decyzji o wstrzymaniu eksploatacji, o której mowa art. 18 ust. 4, art. 28 ust. 4 lub art. 29f ust. 8 pkt 3 lub 4;
-- **5)** (uchylony)
-- **6)** (uchylony)
-- **7)** nie opracowuje programu, o którym mowa art. 20 ust. 1;
-- **8)** nie buduje stacji gazu ziemnego zgodnie z art. 21 ust. 1 pkt 1;
-- **9)** nie wypełnia obowiązku, o którym mowa art. 24;
-- **10)** nie przestrzega obowiązków informacyjnych, o których mowa art. 41 ust. 1– 4;
-- **11)** nie wykonuje obowiązku, o którym mowa art. 42 ust. 5.
-- **12)** (uchylony)
+- **1)** nie przestrzega obowiązku zapewnienia dostawcom usługi ładowania dostępu, o którym mowa w art. 3 ust. 1 pkt 10;
+- **2)** uzależnia świadczenie usługi ładowania w ogólnodostępnej stacji ładowania od uprzedniego zawarcia przez użytkownika pojazdu elektrycznego lub elektrycznego hybrydowego umowy w formie pisemnej lub elektronicznej;
+- **3)** nie zapewnia w ogólnodostępnej stacji ładowania wykorzystania energii elektrycznej w sposób wskazany w art. 8;
+- **4)** nie zapewnia przeprowadzenia badań, o których mowa w art. 16 ust. 1 lub art. 27 ust. 1, lub eksploatuje ogólnodostępne stacje ładowania, punkty ładowania stanowiące element infrastruktury ładowania drogowego transportu publicznego lub stacje gazu ziemnego wbrew decyzji o wstrzymaniu eksploatacji, o której mowa w art. 16 ust. 4 i art. 27 ust. 4;
+- **5)** nie przestrzega wymagań technicznych określonych w przepisach wydanych na podstawie art. 17 lub art. 29 ust. 1;
+- **6)** nie przestrzega wymagań technicznych określonych w przepisach wydanych na podstawie art. 19 oraz art. 29 ust. 2;
+- **7)** nie opracowuje programu, o którym mowa w art. 20 ust. 1;
+- **8)** nie buduje stacji gazu ziemnego zgodnie z art. 21 ust. 1;
+- **9)** nie wypełnia obowiązku, o którym mowa w art. 24;
+- **10)** nie przestrzega obowiązków informacyjnych, o których mowa w art. 41 ust. 1–4;
+- **11)** nie wykonuje obowiązku, o którym mowa w art. 42 ust. 5.
 
-2. Wysokość kary przypadkach określonych ust. 1 w:
+2. Wysokość kary w przypadkach określonych w ust. 1 w:
 
 - **1)** pkt 1 wynosi od 5000 zł do 150 000 zł;
 - **2)** pkt 2 wynosi od 1000 zł do 50 000 zł;
 - **3)** pkt 3 wynosi od 5000 zł do 50 000 zł;
-- **4)** pkt 4 wynosi:
-    - **a)** 20 000 zł – przypadku niezapewnienia przeprowadzenia badań, o których mowa art. 16 ust. 1, lub eksploatacji stacji ładowania lub punktu ładowania zainstalowanego na stacji ładowania lub stanowiącego element infrastruktury ładowania drogowego transportu publicznego pomimo wydania decyzji, o której mowa art. 16 ust. 4,
-    - **b)** 50 000 zł – przypadku niezapewnienia przeprowadzenia badań, o których mowa art. 27 ust. 1 lub art. 29c ust. 1,
-    - **c)** 100 000 zł – przypadku eksploatacji stacji ładowania lub punktu ładowania stanowiącego element infrastruktury ładowania drogowego transportu publicznego lub stacji gazu ziemnego, lub stacji wodoru, pomimo ust. 7 lub ust. 8 pkt 1 i 2 – odpowiednio za każdą stację ładowania, również przypadku punktów ładowania zainstalowanych na stacji ładowania, punkt ładowania stanowiący element infrastruktury ładowania drogowego transportu publicznego, stację gazu ziemnego albo stację wodoru;
-
-- **4a)** pkt 4a wynosi od 20 000 zł do 100 000 zł;
+- **4)** pkt 4–6 wynosi od 1000 zł do 100 000 zł;
 - **5)** pkt 7 wynosi od 5000 zł do 500 000 zł;
 - **6)** pkt 8 wynosi od 10 000 zł do 2 000 000 zł;
 - **7)** pkt 9 wynosi 50 000 zł do 1 000 000 zł;
 - **8)** pkt 10 wynosi od 500 zł do 2000 zł;
-- **9)** pkt 11 wynosi 2000 zł.
+- **9)** pkt 11 wynosi od 500 zł do 10 000 zł.
 
-3. Wysokość kary pieniężnej, o której mowa ust. 1, nie może przekroczyć 15 % przychodu ukaranego przedsiębiorcy, osiągniętego poprzednim roku podatkowym.
+3. Wysokość kary pieniężnej, o której mowa w ust. 1, nie może przekroczyć 15% przychodu ukaranego przedsiębiorcy, osiągniętego w poprzednim roku podatkowym.
 
 **Art. 46.**
 
-1. Karę pieniężną, o której mowa art. 45 ust. 1:
+1. Karę pieniężną, o której mowa w art. 45 ust. 1:
 
 - **1)** pkt 1–3, 7 i 8 – wymierza Prezes URE;
-- **2)** pkt 4, z wyłączeniem postępowań dotyczących stacji gazu ziemnego i stacji wodoru, zainstalowanych na obszarach kolejowych, bocznicach kolejowych, na terenie portów i przystani morskich oraz żeglugi śródlądowej, i pkt 11 – wymierza Prezes UDT;
-- **2a)** pkt 4, zakresie stacji gazu ziemnego i stacji wodoru, zainstalowanych na obszarach kolejowych, bocznicach kolejowych, na terenie portów i przystani morskich oraz żeglugi śródlądowej, i pkt 4a – wymierza Dyrektor TDT;
-- **3)** (uchylony)
+- **2)** pkt 4, 5 i 11 – wymierza Prezes UDT;
+- **3)** pkt 6 – wymierza Dyrektor TDT;
 - **4)** pkt 9 – wymierza właściwy terytorialnie dyrektor urzędu morskiego;
 - **5)** pkt 10 – wymierza wojewódzki inspektor Inspekcji Handlowej.
 
-2. Prezes URE wymierza kary, o których mowa art. 45 ust. 1 pkt 1–3, 7 i 8, drodze decyzji, od której przysługuje odwołanie do Sądu Okręgowego Warszawie – sądu ochrony konkurencji i konsumentów, terminie 14 dni od dnia doręczenia decyzji. Karę pieniężną uiszcza się terminie 14 dni od dnia, którym decyzja o jej nałożeniu stała się prawomocna, na rachunek Urzędu Regulacji Energetyki. art. 45 ust. 1 pkt 10, drodze decyzji, od której przysługuje odwołanie do Prezesa Urzędu Ochrony Konkurencji i Konsumentów.
+2. Prezes URE wymierza kary, o których mowa w art. 45 ust. 1 pkt 1–3, 7 i 8, w drodze decyzji, od której przysługuje odwołanie do Sądu Okręgowego w Warszawie – sądu ochrony konkurencji i konsumentów. Karę pieniężną uiszcza się w terminie 14 dni od dnia, w którym decyzja o jej nałożeniu stała się prawomocna.
 
-4. Dyrektor urzędu morskiego wymierza karę, o której mowa art. 45 ust. 1 pkt 9, drodze decyzji, od której przysługuje odwołanie do ministra właściwego do spraw gospodarki morskiej.
+3. Wojewódzki inspektor Inspekcji Handlowej wymierza karę, o której mowa w art. 45 ust. 1 pkt 10, w drodze decyzji, od której przysługuje odwołanie do Prezesa Urzędu Ochrony Konkurencji i Konsumentów.
 
-5. Prezes UDT wymierza karę, o której mowa art. 45 ust. 1 pkt 4, z wyłączeniem postępowań dotyczących stacji gazu ziemnego i stacji wodoru, zainstalowanych na obszarach kolejowych, bocznicach kolejowych, na terenie portów i przystani morskich oraz żeglugi śródlądowej, i pkt 11, drodze decyzji, od której przysługuje odwołanie do:
+4. Dyrektor urzędu morskiego wymierza karę, o której mowa w art. 45 ust. 1 pkt 9, w drodze decyzji, od której przysługuje odwołanie do ministra właściwego do spraw gospodarki morskiej.
 
-- **1)** ministra właściwego do spraw energii – przypadku gdy decyzja dotyczy stacji ładowania, punktu ładowania stanowiącego element infrastruktury ładowania drogowego transportu publicznego i punktu zasilania jednostek pływających energią elektryczną z lądu;
-- **2)** ministra właściwego do spraw gospodarki surowcami energetycznymi – przypadku gdy decyzja dotyczy stacji gazu ziemnego, stacji wodoru i punktu bunkrowania skroplonego gazu ziemnego (LNG).
+5. Prezes UDT wymierza karę, o której mowa w art. 45 ust. 1 pkt 4, 5 i 11, w drodze decyzji, od której przysługuje odwołanie do ministra właściwego do spraw energii.
 
-6. (uchylony)
+6. Dyrektor TDT wymierza karę, o której mowa w art. 45 ust. 1 pkt 6, w drodze decyzji, od której przysługuje odwołanie do ministra właściwego do spraw transportu.
 
-7. Dyrektor TDT wymierza karę, o której mowa art. 45 ust. 1 pkt 4, zakresie stacji gazu ziemnego i stacji wodoru, zainstalowanych na obszarach kolejowych, bocznicach kolejowych, na terenie portów i przystani morskich oraz żeglugi śródlądowej, i pkt 4a, drodze decyzji, od której przysługuje odwołanie do ministra właściwego do spraw transportu.
+**Art. 47.** Należności pieniężne z tytułu kar, o których mowa w art. 46:
 
-**Art. 47.** Należności pieniężne z tytułu kar, o których mowa art. 46:
+- **1)** ust. 2–4 – stanowią dochód budżetu państwa;
+- **2)** ust. 5 – stanowią przychód UDT;
+- **3)** ust. 6 – stanowią przychód TDT.
 
-#### Rozdział 7 Zmiany przepisach obowiązujących
+#### Rozdział 7 Zmiany w przepisach obowiązujących
+
+**Art. 48.** W ustawie z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2015 r. poz. 1094, z późn. zm.) po art. 96b dodaje się art. 96c w brzmieniu: „
+
+**Art. 96c.** Kto nie przestrzega ograniczeń w dostępie do strefy czystego transportu podlega karze grzywny do 500 złotych. ” .
+
+**Art. 49.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2017 r. poz. 2222 oraz z 2018 r. poz. 12, 138 i 159) wprowadza się następujące zmiany:
+
+- **1)** po art. 12a dodaje się art. 12b w brzmieniu: „
+
+1. Organ właściwy do zarządzania ruchem na drogach, wyznaczając miejsca przeznaczone na postój pojazdów, wyznacza stanowiska postojowe przy ogólnodostępnych stacjach ładowania dla pojazdów elektrycznych, o których mowa w art. 2 pkt 12 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. poz. 317):
+
+- **1)** na drogach publicznych,
+- **2)** w strefach zamieszkania, o których mowa w art. 2 pkt 16 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym,
+- **3)** w strefach ruchu, o których mowa w art. 2 pkt 16a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym oznaczając je odpowiednimi znakami drogowymi pozwalającymi odróżnić je od miejsc postojowych dla pozostałych pojazdów samochodowych.
+
+2. Stanowiska postojowe, o których mowa w ust. 1, wyznacza się co najmniej w liczbie odpowiadającej liczbie punktów ładowania w danej lokalizacji.
+
+3. Pojazdy elektryczne mogą korzystać z miejsc postojowych, o których mowa w ust. 1, wyłącznie przez czas ładowania.
+
+4. Organ, o którym mowa w ust. 1, może wyznaczyć miejsca parkingowe przeznaczone na postój pojazdów elektrycznych i napędzanych gazem ziemnym również w miejscach, gdzie nie występują ogólnodostępne stacje ładowania, w celu promocji pojazdów napędzanych paliwami alternatywnymi. ” ;
+
+- **2)** w art. 13 w ust. 3 w pkt 1 w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „ pojazdy elektryczne, o których mowa w art. 2 pkt 12 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych; ” ;
+    - **e)**
+
+- **3)** w art. 13b w ust. 6 po pkt 1 dodaje się pkt 1a w brzmieniu: „
+- **1a)** wyznacza, w strefie płatnego parkowania, miejsca przeznaczone na postój pojazdów elektrycznych na czas ładowania przy punktach ładowania zainstalowanych w ogólnodostępnych stacjach ładowania, o których mowa w art. 2 pkt 6 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych; ” ;
+- **4)** w art. 39 ust. 1a otrzymuje brzmienie: „
+
+1a. Przepisu ust. 1 pkt 1 nie stosuje się do umieszczania, konserwacji, przebudowy i naprawy infrastruktury telekomunikacyjnej w rozumieniu ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2017 r. poz. 1907 i 2201 oraz z 2018 r. poz. 106 i 138) oraz urządzeń służących do doprowadzania lub odprowadzania płynów, pary, gazu, energii elektrycznej, w tym punktów ładowania stanowiących część infrastruktury ładowania drogowego transportu publicznego, oraz urządzeń związanych z ich eksploatacją, a także do innych czynności związanych z eksploatacją tej infrastruktury i tych urządzeń, jeżeli warunki techniczne i wymogi bezpieczeństwa na to pozwalają. ” ;
+
+- **5)** tytuł rozdziału 6 otrzymuje brzmienie: „ Zmiany w przepisach obowiązujących, przepisy epizodyczne, przejściowe i końcowe ” ;
+- **6)** po art. 50 dodaje się art. 50a w brzmieniu: „
+
+**Art. 50a.** W okresie do dnia 31 grudnia 2028 r. od opłat za przejazdy po drogach krajowych, o których mowa w art. 13 ust. 1 pkt 3, są zwolnione autobusy zeroemisyjne operatora publicznego transportu zbiorowego realizującego przewozy o charakterze użyteczności publicznej w rozumieniu art. 4 ust. 1 pkt 12 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2017 r. poz. 2136 i 2371 oraz z 2018 r. poz. 317). ” . W ustawie z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2017 r. poz. 2205) w art. 42 w ust. 2 w pkt 33 kropkę zastępuje się średnikiem i dodaje się pkt 34 w brzmieniu: „
+
+- **34)** kontroli podmiotów zarządzających portami morskimi w zakresie zapewnienia przez nie dostępności w porcie punktu bunkrowania skroplonego gazu ziemnego (LNG) określonej w przepisach ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. poz. 317). ” .
+
+**Art. 51.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 200, z 2017 r. poz. 2494 oraz z 2018 r. poz. 106 i 138) w art. 23 w ust. 1 pkt 4 otrzymuje brzmienie: „
+
+- **4)** odpisów z tytułu zużycia samochodu osobowego, dokonywanych według zasad określonych w art. 22a-22o, w części ustalonej od wartości samochodu przewyższającej równowartość: 30 000 euro – w przypadku samochodu osobowego będącego pojazdem elektrycznym w rozumieniu art. 2 pkt 12 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. poz. 317), 20 000 euro – w przypadku pozostałych samochodów osobowych przeliczonej na złote według kursu średniego euro ogłaszanego przez Narodowy Bank Polski z dnia przekazania samochodu do używania; ” .
+    - **a)**
+    - **b)**
+
+**Art. 52.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2017 r. poz. 2343, 2175, 2201 i 2369) w art. 16 w ust. 1 pkt 4 otrzymuje brzmienie: „
+
+- **4)** odpisów z tytułu zużycia samochodu osobowego, dokonywanych według zasad określonych w art. 16a-16m, w części ustalonej od wartości samochodu przewyższającej równowartość: 30 000 euro – w przypadku samochodu osobowego będącego pojazdem elektrycznym w rozumieniu art. 2 pkt 12 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. poz. 317), 20 000 euro – w przypadku pozostałych samochodów osobowych przeliczonej na złote według kursu średniego euro ogłaszanego przez Narodowy Bank Polski z dnia przekazania samochodu do używania; ” .
+    - **a)**
+    - **b)**
+
+**Art. 53.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2017 r. poz. 1332 i 1529 oraz z 2018 r. poz. 12) wprowadza się następujące zmiany:
+
+- **1)** w art. 29 w ust. 1 po pkt 8 dodaje się pkt 8a w brzmieniu: „
+- **8a)** stacji ładowania w rozumieniu art. 2 pkt 27 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. poz. 317) oraz punktów ładowania w rozumieniu art. 2 pkt 17 tej ustawy, z wyłączeniem infrastruktury ładowania drogowego transportu publicznego w rozumieniu art. 2 pkt 3 tej ustawy; ” ;
+- **2)** w art. 29a ust. 1 otrzymuje brzmienie: „
+
+1. Budowa przyłączy, o których mowa w art. 29 ust. 1 pkt 20, oraz stacji ładowania, w rozumieniu art. 2 pkt 27 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych, wymaga sporządzenia planu sytuacyjnego na kopii aktualnej mapy zasadniczej lub mapy jednostkowej przyjętej do państwowego zasobu geodezyjnego i kartograficznego. ” ;
+
+- **3)** w art. 30 w ust. 1 pkt 1a otrzymuje brzmienie: „
+- **1a)** budowa, o której mowa w art. 29 ust. 1 pkt 20, oraz budowa stacji ładowania w rozumieniu art. 2 pkt 27 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych, z zastrzeżeniem art. 29a; ” ;
+- **4)** w art. 43 ust. 1 i 1a otrzymują brzmienie: „
+
+1. Obiekty budowlane wymagające pozwolenia na budowę, obiekty, o których mowa w art. 29 ust. 1 pkt 1a, 2b i 19a-20b, oraz stacje ładowania w rozumieniu art. 2 pkt 27 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych, podlegają geodezyjnemu wyznaczeniu w terenie, a po ich wybudowaniu – geodezyjnej inwentaryzacji powykonawczej, obejmującej ich położenie na gruncie.
+
+1a. Obowiązkowi geodezyjnego wyznaczenia, o którym mowa w ust. 1, nie podlega:
+
+- **1)** przyłącze, o którym mowa w art. 29 ust. 1 pkt 20, jeżeli jego połączenie z siecią znajduje się na tej samej działce co przyłącze lub na działce do niej przyległej;
+- **2)** stacja ładowania w rozumieniu art. 2 pkt 27 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych. ” .
+
+**Art. 54.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2017 r. poz. 220, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 3: w pkt 5 część wspólna otrzymuje brzmienie: „ – z wyłączeniem sprzedaży tych paliw lub energii oraz sprężania gazu w stacji gazu ziemnego i dostarczania energii elektrycznej w ogólnodostępnej stacji ładowania do zainstalowanych w niej punktów ładowania w rozumieniu ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. poz. 317); ” , pkt 6a otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+- **6a)** sprzedaż – bezpośrednią sprzedaż paliw lub energii przez podmiot zajmujący się ich wytwarzaniem lub odsprzedaż tych paliw lub energii przez podmiot zajmujący się ich obrotem; sprzedaż ta nie obejmuje derywatu elektroenergetycznego i derywatu gazowego oraz tankowania pojazdów sprężonym gazem ziemnym (CNG) oraz skroplonym gazem ziemnym (LNG) na stacjach gazu ziemnego i ładowania energią elektryczną w punktach ładowania; ” , po pkt 10j dodaje się pkt 10k-10n w brzmieniu: „
+    - **c)**
+
+- **10k)** magazyn energii – instalację służącą do przechowywania energii, przyłączoną do sieci, mającą zdolność do dostawy energii elektrycznej do sieci;
+- **10l)** stacja gazu ziemnego – stację gazu ziemnego w rozumieniu art. 2 pkt 26 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych;
+- **10m)** ogólnodostępna stacja ładowania – ogólnodostępną stację ładowania w rozumieniu art. 2 pkt 6 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych;
+- **10n)** infrastruktura ładowania drogowego transportu publicznego – infrastrukturę ładowania drogowego transportu publicznego w rozumieniu art. 2 pkt 3 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych; ” , po pkt 11h dodaje się pkt 11i w brzmieniu: „
+    - **d)**
+
+- **11i)** instalacja zarządzania popytem – instalację odbiorcy końcowego, której urządzenia umożliwiają zmianę profilu poboru energii elektrycznej na żądanie operatora systemu dystrybucyjnego, operatora systemu przesyłowego lub operatora systemu połączonego, na którą może składać się w szczególności magazyn energii, instalacja wytwórcza niewspółpracująca bezpośrednio z siecią lub punkt ładowania w rozumieniu art. 2 pkt 17 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych; ” , pkt 13a otrzymuje brzmienie: „
+    - **e)**
+
+- **13a)** odbiorca końcowy – odbiorcę dokonującego zakupu paliw lub energii na własny użytek; do własnego użytku nie zalicza się energii elektrycznej zakupionej w celu jej zużycia na potrzeby wytwarzania, przesy łania lub dystrybucji energii elektrycznej oraz paliw gazowych zakupionych w celu ich zużycia na potrzeby przesyłania, dystrybucji, magazynowania paliw gazowych, skraplania gazu ziemnego lub regazyfikacji skroplonego gazu ziemnego; ” , w pkt 58 kropkę zastępuje się średnikiem i dodaje się pkt 59 w brzmieniu: „
+    - **f)**
+
+- **59)** magazynowanie energii – świadczenie usług przechowywania energii w magazynie energii. ” ;
+- **2)** w art. 4 ust. 1 otrzymuje brzmienie: „
+
+1. Przedsiębiorstwo energetyczne zajmujące się przesyłaniem lub dystrybucją paliw lub energii, magazynowaniem energii lub paliw gazowych, w tym skroplonego gazu ziemnego, skraplaniem gazu ziemnego lub regazyfikacją skroplonego gazu ziemnego jest obowiązane utrzymywać zdolność urządzeń, instalacji i sieci do realizacji zaopatrzenia w te paliwa lub energię w sposób ciągły i niezawodny, przy zachowaniu obowiązujących wymagań jakościowych. ” ;
+
+- **3)** po art. 4e1dodaje się art. 4e2wbrzmieniu: „ Przedsiębiorstwo energetyczne zajmujące się magazynowaniem energii jest obowiązane zapewniać, na zasadzie równoprawnego traktowania, świadczenie usług magazynowania energii. Świadczenie usług magazynowania energii odbywa się na podstawie umowy o świadczenie tych usług. ” ;
+- **4)** w art. 5 po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+1a. Dostarczanie energii elektrycznej do punktu ładowania w ogólnodostępnej stacji ładowania odbywa się na podstawie:
+
+- **1)** umowy o świadczenie usług dystrybucji tej energii, zawieranej przez operatora ogólnodostępnej stacji ładowania w rozumieniu art. 2 pkt 7 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych;
+- **2)** umowy sprzedaży tej energii zawieranej z dostawcą usług ładowania. ” ;
+- **5)** w art. 7: po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+
+1a. Przepis ust. 1 w zakresie przyłączenia do sieci w pierwszej kolejności stosuje się także do infrastruktury ładowania drogowego transportu publicznego. ” , w ust. 8 w pkt 3 w lit. b kropkę zastępuje się średnikiem i dodaje się pkt 4 i 5 w brzmieniu: „
+
+- **b)**
+- **4)** za przyłączenie infrastruktury ładowania drogowego transportu publicznego oraz ogólnodostępnych stacji ładowania: do sieci elektroenergetycznej o napięciu znamionowym wyższym niż 1 kV i nie wyższym niż 110 kV opłatę ustala się na podstawie jednej szesnastej rzeczywistych nakładów poniesionych na realizację przyłączenia, do sieci elektroenergetycznej o napięciu znamionowym nie wyższym niż 1 kV opłatę ustala się w oparciu o stawki opłat zawarte w taryfie, kalkulowane na podstawie jednej szesnastej średniorocznych nakładów inwestycyjnych na budowę odcinków sieci służących do przyłączania tych podmiotów, określonych w planie rozwoju, o którym mowa w art. 16; stawki te mogą być kalkulowane w odniesieniu do wielkości mocy przyłączeniowej, jednostki długości odcinka sieci służącego do przyłączenia lub rodzaju tego odcinka;
+    - **a)**
+    - **b)**
+
+- **5)** nie pobiera się opłat za przyłączenie do sieci instalacji zarządzania popytem, która spełnia wymagania określone w instrukcji, o której mowa w art. 9g, operatora systemu przesyłowego i operatora systemu dystrybucyjnego, do którego sieci instalacja ta jest przyłączana. ” ;
+- **6)** w art. 9c w ust. 3 pkt 9 otrzymuje brzmienie: „
+- **9)** dostarczanie użytkownikom sieci i operatorom innych systemów elektroenergetycznych, z którymi system jest połączony, informacji o warunkach świadczenia usług dystrybucji energii elektrycznej, w tym korzyściach z tytułu udostępnienia instalacji zarządzania popytem oraz zarządzaniu siecią, niezbędnych do uzyskania dostępu do sieci dystrybucyjnej i korzystania z tej sieci; ” ;
+- **7)** w art. 9g w ust. 4 po pkt 2 dodaje się pkt 2a w brzmieniu: „
+- **2a)** wymagań technicznych dla instalacji zarządzania popytem, w tym dla magazynów energii; ” ;
+- **8)** po art. 15f dodaje się art. 15g w brzmieniu: „ Minister właściwy do spraw energii jest właściwym organem krajowym odpowiedzialnym za ułatwianie i koordynowanie procesu wydawania pozwoleń i decyzji dla projektów infrastruktury energetycznej będących przedmiotem wspólnego zainteresowania Unii Europejskiej, zgodnie z art. 8 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 347/2013 z dnia 17 kwietnia 2013 r. w sprawie wytycznych dotyczących transeuropejskiej infrastruktury energetycznej, uchylającego decyzję nr 1364/2006/WE oraz zmieniającego rozporządzenia (WE) nr 713/2009, (WE) nr 714/2009 i (WE) nr 715/2009 (Dz. Urz. UE L 115 z 25.04.2013, str. 39, z późn. zm.) , działającym w trybie współpracy, o którym mowa w art. 8 ust. 3 lit. c tego rozporządzenia. ” ;
+- **9)** w art. 16 w ust. 1 w pkt 4 kropkę zastępuję się średnikiem i dodaje się pkt 5 w brzmieniu: „
+- **5)** politykę rozwoju infrastruktury i rynku paliw alternatywnych w transporcie. ” ;
+- **10)** w art. 45: w ust. 1 po pkt 2 dodaje się pkt 2a w brzmieniu: „
+    - **a)**
+
+- **2a)** pokrycie kosztów uzasadnionych działalności gospodarczej przedsiębiorstw energetycznych w zakresie budowy i przyłączania ogólnodostępnych stacji ładowania, wykorzystywanych do ładowania pojazdów transportu publicznego, i powiązanych z nimi instalacji magazynowania energii, wraz z uzasadnionym zwrotem z kapitału zaangażowanego w tę działalność w wysokości nie mniejszej niż stopa zwrotu na poziomie 6%; ” , po ust. 1f dodaje się ust. 1g w brzmieniu: „
+    - **b)**
+
+1g. Koszty związane z budową stacji gazu ziemnego, o której mowa w art. 21 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych, w liczbie, o której mowa w art. 60 ust. 2 tej ustawy, ogólnodostępnej stacji ładowania, o której mowa w art. 64 ust. 1 tej ustawy, lub punktu ładowania wykorzystywanego do ładowania pojazdów transportu publicznego, przedsiębiorstwo energetyczne zajmujące się dystrybucją paliw gazowych lub energii elektrycznej uwzględnia w kosztach swojej działalności. ” , po ust. 6 dodaje się ust. 6a i 6b w brzmieniu: „
+
+- **c)**
+
+6a. Taryfy dla energii elektrycznej uwzględniają charakterystykę poboru przez infrastrukturę ładowania drogowego transportu publicznego oraz konieczność rozwoju zbiorowego transportu publicznego wykorzystującego pojazdy elektryczne.
+
+6b. Taryfy dla energii elektrycznej i paliw gazowych uwzględniają przychody z działalności niezwiązanej z działalnością, o której mowa w art. 44 ust. 1 pkt 1, związane z przychodami odpowiednio ogólnodostępnych stacji ładowania, lub punktów tankowania sprężonego gazu ziemnego (CNG), o których mowa odpowiednio w art. 64 ust. 1 lub art. 60 ust. 2 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych. ” ;
+
+- **11)** w art. 46 ust. 3 otrzymuje brzmienie: „
+
+3. Minister właściwy do spraw energii, po zasięgnięciu opinii Prezesa URE, określi, w drodze rozporządzenia, szczegółowe zasady kształtowania i kalkulacji taryf dla energii elektrycznej oraz szczegółowe zasady rozliczeń w obrocie energią elektryczną, biorąc pod uwagę: politykę energetyczną państwa, zapewnienie pokrycia uzasadnionych kosztów przedsiębiorstw energetycznych, w tym kosztów ich rozwoju, ochronę interesów odbiorców przed nieuzasadnionym poziomem cen i opłat, poprawę efektywności dostarczania i wykorzystywania energii elektrycznej, równoprawne traktowanie odbiorców, eliminowanie subsydiowania skrośnego, przejrzystość cen i stawek opłat oraz potrzebę rozwoju drogowego elektrycznego transportu publicznego. ” .
+
+**Art. 55.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2017 r. poz. 1260 i 1926 oraz z 2018 r. poz. 79, 106 i 138) wprowadza się następujące zmiany:
+
+- **1)** po art. 65j dodaje się oddział 6 w brzmieniu: „
+
+##### Oddział 6 Wykorzystanie dróg na potrzeby prac badawczych nad pojazdami autonomicznymi
+
+**Art. 65k.** Ilekroć w niniejszym oddziale jest mowa o pojeździe autonomicznym, należy przez to rozumieć pojazd samochodowy, wyposażony w systemy sprawujące kontrolę nad ruchem tego pojazdu i umożliwiające jego ruch bez ingerencji kierującego, który w każdej chwili może przejąć kontrolę nad tym pojazdem. 1. Prowadzenie prac badawczych związanych z testowaniem pojazdów autonomicznych w ruchu drogowym na drogach publicznych, w szczególności na potrzeby zastosowania pojazdów autonomicznych w transporcie zbiorowym i realizacji innych zadań publicznych, jest możliwe pod warunkiem spełnienia wymagań bezpieczeństwa i uzyskania zezwolenia na przeprowadzenie tych prac. 2. Zezwolenie, o którym mowa w ust. 1, wydaje, w drodze decyzji, organ zarządzający ruchem na drodze, na której planuje się przeprowadzenie prac badawczych, na pisemny wniosek organizatora prac badawczych. 3. Wniosek, o którym mowa w ust. 2, zawiera w szczególności:
+
+- **1)** imię, nazwisko lub firmę (nazwę) oraz adres zamieszkania lub siedziby organizatora prac badawczych;
+- **2)** informację o miejscu i dacie rozpoczęcia oraz zakończenia prac badawczych;
+- **3)** planowany przebieg trasy, po której będzie poruszał się pojazd autonomiczny;
+- **4)** wykaz osób odpowiedzialnych za zabezpieczenie trasy pojazdu autonomicznego;
+- **5)** podpis organizatora prac badawczych lub jego przedstawiciela.
+
+4. Do wniosku, o którym mowa w ust. 2, dołącza się:
+
+- **1)** dokument potwierdzający zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej organizatora prac badawczych za szkody powstałe w związku z prowadzeniem prac badawczych związanych z prowadzeniem pojazdów autonomicznych, która wchodzi w życie w przypadku uzyskania pozwolenia na prowadzenie prac badawczych;
+- **2)** dowód opłacenia składki za to ubezpieczenie;
+- **3)** kopię decyzji o profesjonalnej rejestracji pojazdów wydanej na podstawie art. 80t ust. 2.
+
+5. Organ, o którym mowa w ust. 2, konsultuje z mieszkańcami gminy, na terenie której prowadzone będą prace badawcze, wniosek o przeprowadzenie prac badawczych, zamieszczając ten wniosek na swojej stronie internetowej i wyznaczając termin na zgłaszanie uwag. Termin ten nie może być krótszy niż 7 dni. W toku konsultacji właściciel nieruchomości położonej wzdłuż planowanej trasy, po której będzie poruszał się pojazd autonomiczny, może zgłosić sprzeciw.
+
+6. Organ, o którym mowa w ust. 2, wydaje zezwolenie, o którym mowa w ust. 1, po:
+
+- **1)** uzyskaniu zgody właściwego zarządcy drogi, na której planuje się przeprowadzenie prac badawczych, oraz
+- **2)** zasięgnięciu opinii właściwego ze względu na miejsce prowadzenia prac badawczych komendanta wojewódzkiego Policji dotyczącej wpływu badań na płynność ruchu po planowanej trasie, po której będzie poruszał się pojazd autonomiczny.
+
+1. Organ wydający zezwolenie, o którym mowa w art. 65l ust. 1, odmawia jego wydania, jeżeli:
+
+- **1)** organizator prac badawczych: nie podał we wniosku, o którym mowa w art. 65l ust. 2, informacji określonych w art. 65l ust. 3, nie dołączył do wniosku, o którym mowa w art. 65l ust. 2, dokumentów wskazanych w art. 65l ust. 4, nie uzyskał zgody i opinii, o których mowa w art. 65l ust. 6;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** pomimo spełnienia wymogów określonych w art. 65l ust. 3 i 4 istnieje niebezpieczeństwo, że prowadzenie prac badawczych będzie stanowić zagrożenie dla życia lub zdrowia ludzkiego albo mienia wielkiej wartości;
+- **3)** właściciel nieruchomości położonej wzdłuż planowanej trasy, po której będzie poruszał się pojazd autonomiczny, zgłosił sprzeciw.
+
+2. Organ wydający zezwolenie może:
+
+- **1)** cofnąć zezwolenie, jeżeli: organizator prac badawczych podał we wniosku, o którym mowa w art. 65l ust. 2, nieprawdziwe informacje, prace badawcze prowadzone są niezgodnie z informacjami podanymi we wniosku, o którym mowa w art. 65l ust. 2, dalsze prowadzenie prac badawczych stanowi zagrożenie dla życia lub zdrowia ludzkiego albo mienia wielkiej wartości;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** zawiesić zezwolenie, jeżeli dalsze prowadzenie prac badawczych może stanowić zagrożenie dla życia lub zdrowia ludzkiego albo mienia wielkiej wartości – do czasu ustania tego zagrożenia.
+
+1. Organizator prac badawczych jest obowiązany:
+
+- **1)** umożliwić Policji wykonywanie czynności niezbędnych do zapewnienia bezpieczeństwa ruchu drogowego oraz ochrony życia i zdrowia ludzi oraz mienia w trakcie prowadzenia prac badawczych;
+- **2)** zapewnić, aby w trakcie prowadzenia prac badawczych w pojeździe autonomicznym, w miejscu przeznaczonym dla kierującego, znajdowała się osoba posiadająca uprawnienia do kierowania pojazdem, która w każdej chwili może przejąć kontrolę nad tym pojazdem, w szczególności w razie wystąpienia zagrożenia dla bezpieczeństwa w ruchu drogowym;
+- **3)** przekazywać do wiadomości publicznej informacje o planowanych pracach badawczych i przebiegu trasy, po której będzie poruszał się pojazd autonomiczny;
+- **4)** przekazać Dyrektorowi Transportowego Dozoru Technicznego sprawozdanie z przeprowadzonych prac badawczych związanych z testowaniem pojazdów autonomicznych oraz ich wyposażenia, zgodnie z wzorem określonym w przepisach wydanych na podstawie ust. 2, w terminie 3 miesięcy od dnia zakończenia testów.
+
+2. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wzór sprawozdania składanego przez organizatorów prac badawczych związanych z testowaniem pojazdów autonomicznych oraz ich wyposażenia, kierując się potrzebą zapewnienia dostępu do jednolitych informacji o niezawodności funkcjonowania tych pojazdów, sposobie poruszania się po drogach, sposobie sterowania tymi pojazdami i bezpieczeństwie ruchu drogowego. ” ;
+
+- **2)** w art. 71 po ust. 2 dodaje się ust. 2a w brzmieniu: „
+
+2a. Pojazd elektryczny i pojazd napędzany wodorem posiadają tablice rejestracyjne wskazujące na rodzaj paliwa wykorzystywanego do ich napędu. ” ;
+
+- **3)** w art. 129b w ust. 2 w pkt 2 w lit. c kropkę zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „ ograniczeniu ruchu w strefie czystego transportu, określonej w uchwale rady gminy, wydanej na podstawie art. 40 ust. 1 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. poz. 317). ” ;
+    - **d)**
+
+- **4)** tytuł działu VI otrzymuje brzmienie: „ Zmiany w przepisach obowiązujących, przepisy epizodyczne, przejściowe i końcowe ” ;
+- **5)** po art. 148 dodaje się art. 148a i art. 148b w brzmieniu: „
+
+**Art. 148a.**
+
+1. Do dnia 1 stycznia 2026 r. dopuszcza się poruszanie pojazdów elektrycznych, o których mowa w art. 2 pkt 12 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych, po wyznaczonych przez zarządcę drogi pasach ruchu dla autobusów.
+
+2. Zarządca drogi może uzależnić poruszanie się pojazdów elektrycznych po wyznaczonych pasach ruchu dla autobusów od liczby osób poruszających się tymi pojazdami.
+
+1. Od dnia 1 lipca 2018 r. do dnia 31 grudnia 2019 r. pojazdy elektryczne i pojazdy napędzane wodorem oznacza się nalepką wskazującą na rodzaj paliwa wykorzystywanego do ich napędu umieszczaną na przedniej szybie pojazdu według wzoru określonego w przepisach wydanych na podstawie art. 76 ust. 1 pkt 1.
+
+2. Nalepkę, o której mowa w ust. 1, wydaje wójt, burmistrz albo prezydent miasta właściwy ze względu na miejsce zamieszkania albo siedziby właściciela pojazdu. ” .
+
+**Art. 56.** W ustawie z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2017 r. poz. 1040, 1555 i 2201) wprowadza się następujące zmiany:
+
+- **1)** w art. 37 w pkt 19 kropkę zastępuje się średnikiem i dodaje się pkt 20 w brzmieniu: „
+- **20)** wydawanie opinii, o których mowa w art. 15 ust. 1 i art. 26 ust. 1 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. poz. 317), oraz przeprowadzanie badań, o których mowa w art. 16 i art. 27 tej ustawy. ” ;
+- **2)** w art. 44 w ust. 1 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „
+- **9)** przeprowadzanie badań, o których mowa w art. 18 ust. 1 i art. 28 ust. 1 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych. ” .
+
+**Art. 57.** W ustawie z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2017 r. poz. 1453, 2203 i 2260) w art. 42:
+
+- **1)** w ust. 2 po pkt 5c dodaje się pkt 5d w brzmieniu: „
+- **5d)** związanych z budową infrastruktury ładowania drogowego transportu publicznego oraz stacji ładowania pojazdów elektrycznych, o których mowa w ustawie z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. poz. 317), wykorzystywanych do wykonywania zadań własnych jednostek samorządu terytorialnego; ” ;
+- **2)** dodaje się ust. 14 w brzmieniu: „
+
+14. Minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw energii określi, w drodze rozporządzenia, szczegółowe warunki i tryb udzielania dotacji z budżetu państwa na zadania, o których mowa w ust. 2 pkt 5d, uwzględniając konieczność efektywnego wykorzystania oraz rozliczenia przez jednostki samorządu terytorialnego środków budżetowych otrzymanych w formie dotacji oraz zabezpieczenia przez te jednostki udziału własnych środków w planowanych inwestycjach. ” .
+
+**Art. 58.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2017 r. poz. 43, 60, 937 i 2216 oraz z 2018 r. poz. 137) wprowadza się następujące zmiany:
+
+- **1)** po art. 109 dodaje się art. 109a w brzmieniu: „
+
+**Art. 109a.**
+
+1. Zwalnia się od akcyzy samochód osobowy stanowiący pojazd elektryczny w rozumieniu art. 2 pkt 12 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. poz. 317) i pojazd napędzany wodorem w rozumieniu art. 2 pkt 15 tej ustawy.
+
+2. W przypadku, o którym mowa w ust. 1, właściwy naczelnik urzędu skarbowego wydaje na wniosek zainteresowanego podmiotu zaświadczenie stwierdzające zwolnienie od akcyzy pod warunkiem, że podmiot ten przedstawi dokumentację potwierdzającą, iż pojazd, którego dotyczy zwolnienie, jest pojazdem elektrycznym lub pojazdem napędzanym wodorem. ” ;
+
+- **2)** w dziale VII tytuł rozdziału 2 otrzymuje brzmienie: „ Przepisy epizodyczne i przejściowe ” ;
+- **3)** po art. 163 dodaje się art. 163a w brzmieniu: „
+
+**Art. 163a.**
+
+1. W okresie do dnia 1 stycznia 2021 r. zwalnia się od akcyzy samochód osobowy stanowiący pojazd hybrydowy w rozumieniu art. 2 pkt 13 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych.
+
+2. W przypadku, o którym mowa w ust. 1, właściwy naczelnik urzędu skarbowego wydaje, na wniosek zainteresowanego podmiotu, zaświadczenie stwierdzające zwolnienie od akcyzy pod warunkiem, że podmiot ten przedstawi dokumentację potwierdzającą iż pojazd, którego dotyczy zwolnienie, jest pojazdem hybrydowym. ” .
+
+**Art. 59.** W ustawie z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2017 r. poz. 2136 i 2371) wprowadza się następujące zmiany:
+
+- **1)** w art. 4 w ust. 1: po pkt 9 dodaje się pkt 9a w brzmieniu: „
+    - **a)**
+
+- **9a)** autobus zeroemisyjny – autobus zeroemisyjny w rozumieniu art. 2 pkt 1 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. poz. 317); ” , pkt 19 otrzymuje brzmienie: „
+    - **b)**
+
+- **19)** transport inny szynowy – przewóz osób środkiem transportu poruszającym się po szynach lub torach kolejowych, w tym tramwajem lub metrem, lub przewóz osób środkiem transportu poruszającym się po jednej szynie lub na poduszkach powietrznych lub magnetycznych, inny niż transport kolejowy i transport linowo-terenowy; ” , pkt 22 otrzymuje brzmienie: „
+    - **c)**
+
+- **22)** transport linowo-terenowy – przewóz osób środkiem transportu poruszającym się po szynach lub po jednej szynie za pomocą liny napędowej; ” ;
+- **2)** w art. 12: w ust. 1 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „
+    - **a)**
+
+- **8)** linie komunikacyjne, na których przewidywane jest wykorzystanie pojazdów elektrycznych lub pojazdów napędzanych gazem ziemnym, oraz planowany termin rozpoczęcia ich użytkowania. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **b)**
+
+1a. Jeżeli plan transportowy przewiduje wykorzystanie autobusów zeroemisyjnych lub autobusów napędzanych gazem ziemnym, określa także:
+
+- **1)** geograficzne położenie stacji gazu ziemnego;
+- **2)** geograficzne położenie infrastruktury ładowania drogowego transportu publicznego w rozumieniu art. 2 pkt 3 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych, zwanej dalej „infrastrukturą ładowania”;
+- **3)** miejsce przyłączenia do: sieci dystrybucyjnej elektroenergetycznej – planowanej infrastruktury ładowania lub sieci dystrybucyjnej gazowej – planowanej stacji gazu ziemnego, lub magazynu energii, o którym mowa w art. 3 pkt 10k ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2017 r. poz. 220, z późn. zm.). ” , po ust. 2 dodaje się ust. 2a-2c w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **c)**
+
+2a. Przy opracowywaniu planu transportowego gminy należy uwzględnić również wyniki analizy, o której mowa w art. 37 ust. 1 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych, sporządzonej przez tę gminę.
+
+2b. Jeżeli wyniki analizy, o której mowa w art. 37 ust. 1 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych, sporządzonej przez gminę wskazują na zasadność wykorzystania w publicznym transporcie zbiorowym autobusów zeroemisyjnych, projekt planu transportowego, w zakresie wykorzystania tych autobusów, podlega konsultacjom odpowiednio z operatorem systemu dystrybucyjnego elektroenergetycznego oraz operatorem systemu dystrybucyjnego gazowego, w rozumieniu przepisów ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.
+
+2c. W toku konsultacji, o których mowa w ust. 2b:
+
+- **1)** operator systemu dystrybucyjnego elektroenergetycznego przedstawia ocenę technicznych i ekonomicznych warunków przyłączenia do sieci infrastruktury ładowania w miejscach wskazanych w projekcie planu transportowego jako jej lokalizacje oraz możliwości dostawy energii elektrycznej do sieci z magazynu energii stanowiącego część tej infrastruktury;
+- **2)** operator systemu dystrybucyjnego gazowego przedstawia ocenę technicznych i ekonomicznych warunków przyłączenia do sieci stacji gazu ziemnego w miejscach wskazanych w projekcie planu transportowego jako lokalizacje instalacji służących do zaopatrywania pojazdów publicznego transportu zbiorowego. ” .
+
+#### Rozdział 8 Przepisy epizodyczne
 
 **Art. 60.**
 
-1. Minimalna liczba punktów ładowania zainstalowanych do dnia 31 marca 2021 r. ogólnodostępnych stacjach ładowania, zlokalizowanych gminach wynosi:
+1. Minimalna liczba punktów ładowania zainstalowanych do dnia 31 grudnia 2020 r. w ogólnodostępnych stacjach ładowania, zlokalizowanych w gminach wynosi:
 
-- **1)** 1000 – gminach o liczbie mieszkańców wyższej niż 1 000 000, których zostało zarejestrowanych co najmniej 600 000 pojazdów samochodowych i na 1000 mieszkańców przypada co najmniej 700 pojazdów samochodowych;
-- **2)** 210 – gminach o liczbie mieszkańców wyższej niż 300 000, których zostało zarejestrowanych co najmniej 200 000 pojazdów samochodowych i na 1000 mieszkańców przypada co najmniej 500 pojazdów samochodowych;
-- **3)** 100 – gminach o liczbie mieszkańców wyższej niż 150 000, których zostało zarejestrowanych co najmniej 95 000 pojazdów samochodowych i na 1000 mieszkańców przypada co najmniej 400 pojazdów samochodowych;
-- **4)** 60 – gminach o liczbie mieszkańców wyższej niż 100 000, których zostało zarejestrowanych co najmniej 60 000 pojazdów samochodowych i na 1000 mieszkańców przypada co najmniej 400 pojazdów samochodowych.
+- **1)** 1000 – w gminach o liczbie mieszkańców wyższej niż 1 000 000, w których zostało zarejestrowanych co najmniej 600 000 pojazdów samochodowych i na 1000 mieszkańców przypada co najmniej 700 pojazdów samochodowych;
+- **2)** 210 – w gminach o liczbie mieszkańców wyższej niż 300 000, w których zostało zarejestrowanych co najmniej 200 000 pojazdów samochodowych i na 1000 mieszkańców przypada co najmniej 500 pojazdów samochodowych;
+- **3)** 100 – w gminach o liczbie mieszkańców wyższej niż 150 000, w których zostało zarejestrowanych co najmniej 95 000 pojazdów samochodowych i na 1000 mieszkańców przypada co najmniej 400 pojazdów samochodowych;
+- **4)** 60 – w gminach o liczbie mieszkańców wyższej niż 100 000, w których zostało zarejestrowanych co najmniej 60 000 pojazdów samochodowych i na 1000 mieszkańców przypada co najmniej 400 pojazdów samochodowych.
 
-2. Minimalna liczba punktów tankowania sprężonego gazu ziemnego (CNG) zlokalizowanych gminach do dnia 31 marca 2021 r. wynosi co najmniej:
+2. Minimalna liczba punktów tankowania sprężonego gazu ziemnego (CNG) zlokalizowanych w gminach do dnia 31 grudnia 2020 r. wynosi co najmniej:
 
-- **1)** 6 – gminach o liczbie mieszkańców wyższej niż 1 000 000, których zostało zarejestrowanych co najmniej 60 000 pojazdów samochodowych i na 1000 mieszkańców przypada co najmniej 700 pojazdów samochodowych;
-- **2)** 2 – gminach o liczbie mieszkańców wyższej niż 100 000, których zostało zarejestrowanych co najmniej 60 000 pojazdów samochodowych i na 1000 mieszkańców przypada co najmniej 400 pojazdów samochodowych.
+- **1)** 6 – w gminach o liczbie mieszkańców wyższej niż 1 000 000, w których zostało zarejestrowanych co najmniej 60 000 pojazdów samochodowych i na 1000 mieszkańców przypada co najmniej 700 pojazdów samochodowych;
+- **2)** 2 – w gminach o liczbie mieszkańców wyższej niż 100 000, w których zostało zarejestrowanych co najmniej 60 000 pojazdów samochodowych i na 1000 mieszkańców przypada co najmniej 400 pojazdów samochodowych.
 
-3. W liczbie punktów ładowania zainstalowanych ogólnodostępnych stacjach ładowania, o której mowa ust. 1, i liczbie punktów tankowania sprężonego gazu ziemnego (CNG), o której mowa ust. 2, uwzględnia się odpowiednio punkty ładowania i punkty tankowania sprężonego gazu ziemnego (CNG) zlokalizowane wzdłuż sieci bazowej TEN-T.
+3. W liczbie punktów ładowania zainstalowanych w ogólnodostępnych stacjach ładowania, o której mowa w ust. 1, i w liczbie punktów tankowania sprężonego gazu ziemnego (CNG), o której mowa w ust. 2, uwzględnia się odpowiednio punkty ładowania i punkty tankowania sprężonego gazu ziemnego (CNG) zlokalizowane wzdłuż sieci bazowej TEN-T.
 
 **Art. 61.**
 
-1. Wójt, burmistrz albo prezydent miasta, na podstawie informacji zgromadzonych Ewidencji Infrastruktury Paliw Alternatywnych oraz informacji uzyskanych od właściwego organu administracji architektoniczno-budowlanej, ładowania na obszarze gminy zainstalowanych ogólnodostępnych stacjach ładowania.
+1. Wójt, burmistrz albo prezydent miasta, na podstawie informacji zgromadzonych w Ewidencji Infrastruktury Paliw Alternatywnych oraz informacji uzyskanych od właściwego organu administracji architektoniczno-budowlanej, sporządza, w terminie do dnia 15 stycznia 2020 r., raport dotyczący punktów ładowania na obszarze gminy zainstalowanych w ogólnodostępnych stacjach ładowania.
 
 2. Raport zawiera informację o:
 
-- **1)** liczbie i lokalizacji ogólnodostępnych stacji ładowania, z uwzględnieniem mocy punktów ładowania zainstalowanych tych stacjach;
-- **2)** liczbie i lokalizacji planowanych do wybudowania do dnia 31 grudnia 2020 r. ogólnodostępnych stacji ładowania, z uwzględnieniem mocy punktów ładowania planowanych do zainstalowania tych stacjach;
-- **3)** liczbie punktów ładowania brakującej do osiągnięcia minimalnej liczby punktów ładowania wskazanej art. 60 ust. 1, na dzień 31 grudnia 2020 r., przy uwzględnieniu punktów ładowania, o których mowa pkt 2.
+- **1)** liczbie i lokalizacji ogólnodostępnych stacji ładowania, z uwzględnieniem mocy punktów ładowania zainstalowanych w tych stacjach;
+- **2)** liczbie i lokalizacji planowanych do wybudowania do dnia 31 grudnia 2020 r. ogólnodostępnych stacji ładowania, z uwzględnieniem mocy punktów ładowania planowanych do zainstalowania w tych stacjach;
+- **3)** liczbie punktów ładowania brakującej do osiągnięcia minimalnej liczby punktów ładowania wskazanej w art. 60 ust. 1, na dzień 31 grudnia 2020 r., przy uwzględnieniu punktów ładowania, o których mowa w pkt 2.
 
 **Art. 62.**
 
-1. W przypadku gdy z raportu, o którym mowa art. 61, wynika, że nie została osiągnięta minimalna liczba punktów ładowania wskazana art. 60 ust. 1, wójt, burmistrz albo prezydent miasta dla gminy:
+1. W przypadku gdy z raportu, o którym mowa w art. 61, wynika, że nie została osiągnięta minimalna liczba punktów ładowania wskazana w art. 60 ust. 1, wójt, burmistrz albo prezydent miasta dla gminy:
 
 - **1)** której liczba mieszkańców wynosi co najmniej 100 000 oraz
-- **2)** której zostało zarejestrowanych co najmniej 60 000 pojazdów samochodowych, oraz
-- **3)** której co najmniej 400 pojazdów samochodowych przypada na 1000 mieszkańców – sporządza plan budowy ogólnodostępnych stacji ładowania, zwany dalej „planem”.
+- **2)** w której zostało zarejestrowanych co najmniej 60 000 pojazdów samochodowych, oraz
+- **3)** w której co najmniej 400 pojazdów samochodowych przypada na 1000 mieszkańców sporządza plan budowy ogólnodostępnych stacji ładowania, zwany dalej „planem”.
 
 2. Plan określa:
 
-- **1)** liczbę i lokalizację planowanych ogólnodostępnych stacji ładowania z liczbą planowanych do zainstalowania nich punktów ładowania, z uwzględnieniem mocy każdego z tych punktów;
+- **1)** liczbę i lokalizację planowanych ogólnodostępnych stacji ładowania z liczbą planowanych do zainstalowania w nich punktów ładowania, z uwzględnieniem mocy każdego z tych punktów;
 - **2)** proponowany harmonogram budowy ogólnodostępnych stacji ładowania.
 
-3. Wójt, burmistrz albo prezydent miasta opracowuje projekt planu terminie do dnia 15 marca 2020 r. i konsultuje go z mieszkańcami gminy, zamieszczając go na stronie internetowej obsługującego go urzędu i wyznaczając termin na zgłaszanie uwag. Termin konsultacji nie może być krótszy niż 45 dni, przy czym koniec tego terminu nie może przypadać później niż dnia 31 maja 2020 r.
+3. Wójt, burmistrz albo prezydent miasta opracowuje projekt planu w terminie do dnia 15 marca 2020 r. i konsultuje go z mieszkańcami gminy, zamieszczając go na stronie internetowej obsługującego go urzędu i wyznaczając termin na zgłaszanie uwag. Termin ten nie może być krótszy niż 21 dni.
 
-4. Projekt planu wójt, burmistrz albo prezydent miasta przekazuje operatorom systemów dystrybucyjnych elektroenergetycznych, na obszarze działania których uzgodnienia. Termin na uzgodnienie projektu planu nie może być krótszy niż 30 dni od daty zakończenia konsultacji społecznych, o których ust. 3.
+4. Projekt planu wójt, burmistrz albo prezydent miasta przekazuje operatorom systemów dystrybucyjnych elektroenergetycznych, na obszarze działania których planowane jest rozmieszczenie ogólnodostępnych stacji ładowania, w celu uzgodnienia. Termin na uzgodnienie projektu planu nie może być krótszy niż 30 dni.
 
-5. Operatorzy uzgadniają projekt planu, biorąc pod uwagę moce przyłączeniowe istniejące oraz przewidywane planie rozwoju zakresie zaspokojenia obecnego i przyszłego zapotrzebowania na energię, o którym mowa art. 16 ust. 4 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.
+5. Operatorzy uzgadniają projekt planu, biorąc pod uwagę moce przyłączeniowe istniejące oraz przewidywane w planie rozwoju w zakresie zaspokojenia obecnego i przyszłego zapotrzebowania na energię, o którym mowa w art. 16 ust. 4 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.
 
-6. Operator systemu dystrybucyjnego elektroenergetycznego informuje o uzgodnieniu projektu planu wójta, burmistrza albo prezydenta miasta oraz przekazuje mu opracowany program przyłączania, o którym mowa ust. 11.
+6. Operator systemu dystrybucyjnego elektroenergetycznego informuje o uzgodnieniu projektu planu wójta, burmistrza albo prezydenta miasta oraz przekazuje mu opracowany program przyłączania, o którym mowa w ust. 11.
 
 7. Wójt, burmistrz albo prezydent miasta przekazuje projekt planu radzie gminy, niezwłocznie po jego uzgodnieniu przez ostatniego operatora systemu dystrybucyjnego elektroenergetycznego.
 
-8. Rada gminy przyjmuje plan, drodze uchwały, terminie 14 dni od dnia jego otrzymania.
+8. Rada gminy przyjmuje plan, w drodze uchwały, w terminie 14 dni od dnia jego otrzymania.
 
 9. Plan nie jest aktem prawa miejscowego.
 
 10. Wójt, burmistrz albo prezydent miasta przekazuje przyjęty plan operatorom systemów dystrybucyjnych elektroenergetycznych, informuje o jego przyjęciu Prezesa URE oraz publikuje ten plan na stronie internetowej obsługującego go urzędu.
 
-11. Na podstawie projektu planu przekazanego operatorowi systemu dystrybucyjnego elektroenergetycznego, operator ten opracowuje program przyłączania do systemu dystrybucyjnego elektroenergetycznego ogólnodostępnych stacji ładowania przewidzianych projekcie planu. Wójt, burmistrz albo prezydent miasta wyznacza termin na opracowanie tego programu, nie krótszy niż 30 dni, licząc od dnia przekazania temu operatorowi projektu planu.
+11. Na podstawie projektu planu przekazanego operatorowi systemu dystrybucyjnego elektroenergetycznego, operator ten opracowuje program przyłączania do systemu dystrybucyjnego elektroenergetycznego ogólnodostępnych stacji ładowania przewidzianych w projekcie planu. Wójt, burmistrz albo prezydent miasta wyznacza termin na opracowanie tego programu, nie krótszy niż 30 dni, licząc od dnia przekazania temu operatorowi projektu planu.
 
-12. Program przyłączania, o którym mowa ust. 11, określa techniczne i ekonomiczne warunki przyłączenia ogólnodostępnych stacji ładowania wskazanych projekcie planu wraz z przewidywanymi terminami przyłączenia.
+12. Program przyłączania, o którym mowa w ust. 11, określa techniczne i ekonomiczne warunki przyłączenia ogólnodostępnych stacji ładowania wskazanych w projekcie planu wraz z przewidywanymi terminami przyłączenia.
 
-**Art. 63.** Zadanie dotyczące sporządzenia planu jest zadaniem zleconym z zakresu administracji rządowej. Art. 64–66. (uchylone)
+**Art. 63.** Zadanie dotyczące sporządzenia planu jest zadaniem zleconym z zakresu administracji rządowej.
 
-**Art. 67.** Budowa ogólnodostępnych stacji ładowania wskazanych planie oraz realizacja przedsięwzięć niezbędnych do przyłączania ich do sieci, szczególności przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
+**Art. 64.**
+
+1. Operator systemu dystrybucyjnego elektroenergetycznego, właściwy ze względu na lokalizację ogólnodostępnej stacji ładowania wskazanej w planie, buduje taką stację.
+
+2. Ponoszone przez operatora systemu dystrybucyjnego elektroenergetycznego koszty budowy ogólnodostępnych stacji ładowania, o których mowa w ust. 1, są zaliczane do kosztów uzasadnionych w rozumieniu art. 3 pkt 21 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.
+
+1. Wójt, burmistrz albo prezydent miasta składa wniosek do Prezesa URE o wskazanie przedsiębiorstwa energetycznego, które będzie pełnić funkcję operatora ogólnodostępnej stacji ładowania, która zostanie wybudowana zgodnie z planem, wykonującego zadania w zakresie zarządzania, bezpieczeństwa funkcjonowania, eksploatacji, konserwacji i remontów takiej stacji oraz dostawcy usług ładowania na takiej stacji.
+
+2. Prezes URE wyznacza, w drodze decyzji administracyjnej, do pełnienia funkcji operatora ogólnodostępnej stacji ładowania oraz dostawcy usług ładowania, przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną, które dokonuje sprzedaży energii elektrycznej do co najmniej 40% odbiorców końcowych przyłączonych do sieci dystrybucyjnej elektroenergetycznej na terenie gminy, w której ma pełnić funkcję operatora ogólnodostępnej stacji ładowania.
+
+3. Operator systemu dystrybucyjnego elektroenergetycznego, który wybudował ogólnodostępną stację ładowania, w terminie roku od dnia objęcia funkcji operatora tej stacji przez przedsiębiorstwo energetyczne wyznaczone zgodnie z ust. 2, przeprowadza postępowanie w celu wyłonienia operatora ogólnodostępnej stacji ładowania prowadzącego działalność w zakresie wskazanym w ust. 1. Przepisy ustawy z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi stosuje się odpowiednio.
+
+**Art. 66.** Skarb Państwa, gmina oraz gminna osoba prawna ustanawiają nieodpłatnie służebność przesyłu na rzecz operatora systemu dystrybucyjnego elektroenergetycznego dla sieci dostarczającej energię elektryczną do ogólnodostępnej stacji ładowania wybudowanej przez tego operatora zgodnie z art. 64 ust. 1.
+
+**Art. 67.** Budowa ogólnodostępnych stacji ładowania wskazanych w planie oraz realizacja przedsięwzięć niezbędnych do przyłączania ich do sieci, w szczególności modernizacja, rozbudowa albo budowa sieci, stanowią cel publiczny w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
 **Art. 68.**
 
-1. Naczelny lub centralny organ administracji państwowej, o którym mowa art. 34, zapewnia, aby udział pojazdów elektrycznych we flocie użytkowanych pojazdów samochodowych rozumieniu art. 2 pkt 33 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym wynosił co najmniej:
+1. Naczelny lub centralny organ administracji państwowej, o którym mowa w art. 34, zapewnia, aby udział pojazdów elektrycznych we flocie użytkowanych pojazdów wynosił:
 
-- **1)** 10 % – od dnia 1 stycznia 2022 r.
-- **2)** (uchylony)
+- **1)** 10% – od dnia 1 stycznia 2020 r.;
+- **2)** 20% – od dnia 1 stycznia 2023 r.
 
-2. (uchylony)
+2. Jednostka samorządu terytorialnego, o której mowa w art. 35 ust. 1, zapewnia, aby udział pojazdów elektrycznych we flocie użytkowanych pojazdów, od dnia 1 stycznia 2020 r., wynosił 10%.
 
-3. (uchylony)
+3. Jednostka samorządu terytorialnego, o której mowa w art. 35 ust. 2, od dnia 1 stycznia 2020 r., wykonuje zadanie lub zleca wykonywanie zadania publicznego podmiotowi, którego udział pojazdów elektrycznych we flocie użytkowanych pojazdów przy wykonywaniu tego zadania wynosi 10%.
 
-4. (uchylony)
+4. Jednostka samorządu terytorialnego, o której mowa w art. 36 ust. 1, zapewnia udział autobusów zeroemisyjnych we flocie użytkowanych pojazdów wynoszący:
 
-**Art. 68a.**
-
-1. Zamawiający zapewnia, aby:
-
-- **1)** udział pojazdów kategorii M , M i N , o których mowa art. 4 ust. 1 lit. a i b rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/858 z dnia 30 maja 2018 r. sprawie homologacji i nadzoru rynku pojazdów silnikowych i ich przyczep oraz układów, komponentów i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów, zmieniającego rozporządzenie (WE) nr 715/2007 i (WE) nr 595/2009 oraz uchylającego dyrektywę 2007/46/WE (Dz. Urz. UE L 151 z 14.06.2018, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2018/858”, elektrycznych lub napędzanych wodorem, całkowitej liczbie pojazdów tych kategorii objętych zamówieniami, o których mowa art. 68b, do dnia 31 grudnia 2030 r., wynosił co najmniej 22 %, z tym że do dnia 31 grudnia 2025 r. do tego udziału, wlicza się pojazdy hybrydowe lub napędzane gazem ziemnym o maksymalnej emisji 50 g CO /km i emisji zanieczyszczeń rzeczywistych warunkach jazdy poniżej 80 % dopuszczalnych wartości emisji;
-- **2)** udział pojazdów kategorii N i N , o których mowa art. 4 ust. 1 lit. b rozporządzenia 2018/858, napędzanych paliwami alternatywnymi całkowitej liczbie pojazdów tych kategorii objętych zamówieniami, o których mowa art. 68b, wynosił co najmniej:
-    - **a)** 7 % – do dnia 31 grudnia 2025 r.,
-
-- **3)** udział autobusów zaliczanych do kategorii M , o której mowa art. 4 ust. 1 lit. a rozporządzenia 2018/858, klasy I i klasy A, o których mowa art. 3 pkt 2 i 3 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 661/2009 z dnia 13 lipca 2009 r. sprawie wymagań technicznych zakresie homologacji typu pojazdów silnikowych dotyczących ich bezpieczeństwa ogólnego, ich przyczep oraz przeznaczonych dla nich układów, części i oddzielnych zespołów technicznych (Dz. Urz. UE L 200 z 31.07.2009, str. 1, z późn. zm. ), wykorzystujących do napędu paliwa alternatywne, całkowitej liczbie autobusów objętych zamówieniami, o których mowa art. 68b, z zastrzeżeniem że połowa tego udziału ma być osiągnięta przez autobusy zeroemisyjne, wynosił co najmniej:
-    - **a)** 32 % – do dnia 31 grudnia 2025 r.,
-    - **b)** 46 % – od dnia 1 stycznia 2026 r. do dnia 31 grudnia 2030 r.
-
-2. Udziały pojazdów całkowitej liczbie pojazdów objętych zamówieniami, o których mowa ust. 1, zwane dalej „minimalnymi udziałami”, dotyczą łącznie wszystkich zamówień wymienionych ust. 1, udzielonych przez zamawiającego okresach do dnia 31 grudnia 2025 r. oraz od dnia 1 stycznia 2026 r. do dnia 31 grudnia 2030 r.
-
-3. Do minimalnych udziałów można zaliczyć pojazdy, które wyniku modernizacji spełniają wymagania dla pojazdów, o których mowa ust. 1, potwierdzone badaniem technicznym przed dopuszczeniem do ruchu.
-
-4. W przypadku zamówień, o których mowa art. 68b pkt 1, na potrzeby oceny zgodności z minimalnymi udziałami uwzględnia się liczbę pojazdów samochodowych nabytych, wziętych leasing, wynajętych lub dzierżawionych z opcją zakupu na podstawie każdej umowy.
-
-5. W przypadku zamówień, o których mowa art. 68b pkt 2 i 3, na potrzeby oceny zgodności z minimalnymi udziałami uwzględnia się liczbę pojazdów samochodowych, które mają być wykorzystywane do świadczenia usług objętych każdą umową. ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, pod warunkiem że uczestnicy tego zamówienia zachowają łącznie minimalne udziały, o których mowa ust. 1, określone dla poszczególnych okresów, o których mowa ust. 2.
-
-**Art. 68b.** Przepisy art. 68a stosuje się do zamówień:
-
-**Art. 68c.** Zamawiający, do dnia 31 stycznia każdego roku, przekazują ministrowi właściwemu do spraw transportu informację za poprzedni rok o liczbie i kategoriach pojazdów objętych zamówieniami, o których mowa art. 68b, tym o pojazdach elektrycznych, pojazdach napędzanych wodorem oraz pojazdach napędzanych innymi paliwami alternatywnymi.
-
-**Art. 68d.**
-
-1. Minister właściwy do spraw transportu:
-
-- **1)** monitoruje poziom osiągnięcia minimalnych udziałów, szczególności na podstawie danych dostarczonych przez Komisję Europejską ramach bazy danych Tenders Electronic Daily;
-- **2)** dokonuje corocznie oceny poziomu osiągnięcia minimalnych udziałów;
-- **3)** na podstawie oceny, o której mowa pkt 2, co 3 lata sporządza sprawozdanie;
-- **4)** przekazuje Komisji Europejskiej sprawozdanie, o którym mowa pkt 3, terminie do dnia 18 kwietnia każdego trzeciego roku objętego sprawozdaniem.
-
-2. Sprawozdanie, o którym mowa ust. 1 pkt 3, zawiera szczególności informacje o:
-
-- **1)** działaniach podjętych celu zwiększenia udziału zamówień na pojazdy, o których mowa art. 68a ust. 1;
-- **2)** działaniach planowanych do podjęcia celu zwiększenia wielkości udziału pojazdów, o których mowa art. 68a ust. 1, ogólnej liczbie udzielanych zamówień;
-- **3)** liczbie i kategoriach pojazdów objętych zamówieniami, o których mowa art. 68b.
-
-**Art. 68e.** Przepisu art. 68a nie stosuje się do pojazdów:
+- **1)** 5% – od dnia 1 stycznia 2021 r.;
+- **2)** 10% – od dnia 1 stycznia 2023 r.;
+- **3)** 20% – od dnia 1 stycznia 2025 r.
 
 #### Rozdział 9 Przepisy dostosowujące, przejściowe i końcowe
 
@@ -1012,45 +987,45 @@ Art. 48–59. (pominięte) Przepisy epizodyczne
 
 **Art. 70.**
 
-1. Krajowe ramy polityki rozwoju infrastruktury paliw alternatywnych przyjęte uchwałą Rady Ministrów dniu 29 marca 2017 r. stanowią Krajowe ramy polityki rozwoju infrastruktury paliw alternatywnych, o których mowa art. 43.
+1. Krajowe ramy polityki rozwoju infrastruktury paliw alternatywnych przyjęte uchwałą Rady Ministrów w dniu 29 marca 2017 r. stanowią Krajowe ramy polityki rozwoju infrastruktury paliw alternatywnych, o których mowa w art. 43.
 
-2. Krajowe ramy polityki rozwoju infrastruktury paliw alternatywnych, o których mowa ust. 1, ogłasza się Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, terminie 60 dni od dnia wejścia życie ustawy.
+2. Krajowe ramy polityki rozwoju infrastruktury paliw alternatywnych, o których mowa w ust. 1, ogłasza się w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w terminie 60 dni od dnia wejścia w życie ustawy.
 
-**Art. 71.** Minister właściwy do spraw energii po raz pierwszy przekaże Komisji Europejskiej sprawozdanie, o którym mowa art. 44 ust. 1 pkt 3, terminie do dnia 18 listopada 2019 r.
+**Art. 71.** Minister właściwy do spraw energii po raz pierwszy przekaże Komisji Europejskiej sprawozdanie, o którym mowa w art. 44 ust. 1 pkt 3, w terminie do dnia 18 listopada 2019 r.
 
-**Art. 72.** Jednostka samorządu terytorialnego po raz pierwszy sporządza analizę, o której mowa art. 37 ust. 1, terminie do dnia 31 grudnia 2018 r.
+**Art. 72.** Jednostka samorządu terytorialnego po raz pierwszy sporządza analizę, o której mowa w art. 37 ust. 1, w terminie do dnia 31 grudnia 2018 r.
 
-**Art. 73.** Informację, o której mowa art. 38, podmioty obowiązane do jej przekazania, po raz pierwszy przekazują ministrowi właściwemu do spraw energii terminie 3 miesięcy od dnia wejścia życie ustawy. Informacja obejmuje dane według stanu na dzień 31 grudnia roku poprzedzającego rok przekazania tej informacji.
+**Art. 73.** Informację, o której mowa w art. 38, podmioty obowiązane do jej przekazania, po raz pierwszy przekazują ministrowi właściwemu do spraw energii w terminie 3 miesięcy od dnia wejścia w życie ustawy. Informacja obejmuje dane według stanu na dzień 31 grudnia roku poprzedzającego rok przekazania tej informacji.
 
-**Art. 74.**
+**Art. 74.** Podmioty eksploatujące w dniu wejścia w życie ustawy stacje ładowania, punkty ładowania wchodzące w skład infrastruktury ładowania drogowego transportu publicznego pojazdów, punkty zasilania jednostek pływających energią elektryczną z lądu oraz stacje gazu ziemnego i punkty bunkrowania skroplonego gazu ziemnego (LNG), w celu ich dalszej eksploatacji są obowiązane w terminie 12 miesięcy od dnia wejścia w życie przepisów wykonawczych wydanych na podstawie odpowiednio art. 17, art. 19 i art. 29, dostosować je do wymagań określonych w niniejszej ustawie oraz w tych przepisach wykonawczych a także złożyć, odpowiednio do UDT lub TDT, wniosek o przeprowadzenie badania zezwalającego na ich dalszą eksploatację.
 
-1. Podmioty eksploatujące dniu wejścia życie ustawy stacje ładowania, punkty ładowania wchodzące skład infrastruktury ładowania drogowego transportu publicznego pojazdów, punkty zasilania jednostek pływających energią elektryczną z lądu oraz stacje gazu ziemnego i punkty bunkrowania skroplonego gazu ziemnego (LNG), celu ich dalszej eksploatacji są obowiązane terminie 12 miesięcy od dnia wejścia życie przepisów wykonawczych wydanych na podstawie odpowiednio art. 17, art. 19 i art. 29, dostosować je do wymagań określonych niniejszej ustawie oraz tych przepisach wykonawczych a także złożyć, odpowiednio do UDT lub TDT, wniosek o przeprowadzenie badania zezwalającego na ich dalszą eksploatację. punktów ładowania wchodzących skład infrastruktury ładowania drogowego transportu publicznego pojazdów, punktów zasilania jednostek pływających energią elektryczną z lądu oraz stacji gazu ziemnego i punktów bunkrowania skroplonego gazu ziemnego (LNG) po dniu wejścia życie niniejszej ustawy, a przed dniem wejścia życie przepisów wykonawczych, wydanych na podstawie odpowiednio art. 17, art. 19 i art. 29, celu rozpoczęcia lub ich dalszej eksploatacji są obowiązane terminie 12 miesięcy od dnia wejścia życie przepisów wykonawczych wydanych na podstawie odpowiednio art. 17, art. 19 i art. 29, dostosować się do wymagań określonych niniejszej ustawie oraz tych przepisach wykonawczych, a także złożyć, odpowiednio do UDT lub TDT, wniosek o przeprowadzenie badania zezwalającego na rozpoczęcie lub ich dalszą eksploatację. Przepisu art. 16 nie stosuje się.
+**Art. 75.** Przepisu art. 12 ust. 1 nie stosuje się do zamierzeń budowlanych, dla których przed dniem 1 stycznia 2019 r. złożono wniosek o wydanie decyzji o pozwolenie na budowę albo odrębnej decyzji o zatwierdzeniu projektu budowlanego.
 
-**Art. 75.**
+**Art. 76.** Umowy zawarte przez naczelny i centralny organ administracji państwowej z podmiotem zapewniającym obsługę gospodarczą w zakresie transportu oraz zawarte przez jednostki samorządu terytorialnego na wykonanie zadania publicznego, z wyłączeniem publicznego transportu zbiorowego, wygasają z dniem 31 grudnia 2019 r., jeżeli nie zapewniają wykorzystania pojazdów elektrycznych na poziomie określonym odpowiednio w art. 68 ust. 1 lub 3.
 
-1. Przepisu art. 12 ust. 1 nie stosuje się do zamierzeń budowlanych, dla których przed dniem 1 stycznia 2019 r. złożono wniosek o wydanie decyzji o pozwolenie na budowę albo odrębnej decyzji o zatwierdzeniu projektu budowlanego.
+**Art. 77.** Do dnia wejścia w życie art. 65l ust. 4 pkt 3 ustawy zmienianej w art. 55 do wniosku o zezwolenia na przeprowadzenie prac badawczych załącza się kopię decyzji o czasowej rejestracji pojazdu wydanej na podstawie art. 74 ust. 2 pkt 3 ustawy zmienianej w art. 55.
 
-2. Przepisów wykonawczych wydanych na podstawie art. 12 ust. 2 nie stosuje się do zamierzeń budowlanych, dla których wniosek o wydanie decyzji o pozwolenie na budowę albo odrębnej decyzji o zatwierdzeniu projektu budowlanego złożono przed dniem wejścia życie tych przepisów wykonawczych.
+**Art. 78.**
 
-**Art. 76.**
+1. Jeżeli termin sporządzenia przez operatora systemu dystrybucyjnego gazowego aktualizacji planu rozwoju w zakresie zaspokojenia obecnego i przyszłego zapotrzebowania na paliwa gazowe, o którym mowa w art. 16 ust. 4 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, przypada po upływie 6 miesięcy od dnia wejścia w życie niniejszej ustawy, operator ten opracowuje program, o którym mowa w art. 20 ust. 1, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy na okres obowiązywania planu rozwoju aktualnego na dzień wejścia w życie niniejszej ustawy, i uzgadnia go z operatorem systemu przesyłowego gazowego, a następnie z Prezesem URE.
 
-1. Umowy zawarte przez naczelny i centralny organ administracji państwowej z podmiotem zapewniającym obsługę gospodarczą zakresie transportu wygasają z dniem 31 grudnia 2021 r., jeżeli nie zapewniają wykorzystania pojazdów elektrycznych na poziomie określonym art. 68 ust. 1.
+2. W programie, o którym mowa w art. 20 ust. 1, operator systemu dystrybucyjnego gazowego określa liczbę planowanych punktów tankowania sprężonego gazu ziemnego (CNG), nie mniejszą niż określona w art. 60 ust. 2.
 
-2. (uchylony)
+3. Generalny Dyrektor Dróg Krajowych i Autostrad przygotowuje po raz pierwszy plan lokalizacji ogólnodostępnych stacji ładowania oraz stacji gazu ziemnego wzdłuż pozostających w jego zarządzie dróg sieci bazowej TEN-T, o którym mowa w art. 32 ust. 1, oraz przekazuje go do konsultacji z operatorami systemów dystrybucyjnych elektroenergetycznych i gazowych oraz z podmiotami zarządzającymi miejscami obsługi podróżnych, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 77.** Do dnia wejścia życie art. 65l ust. 4 pkt 3 ustawy zmienianej art. 55 do wniosku o zezwolenia na przeprowadzenie prac badawczych załącza się kopię decyzji o czasowej rejestracji pojazdu wydanej na podstawie art. 74 ust. 2 pkt 3 ustawy zmienianej art. 55 . gazowego aktualizacji planu rozwoju zakresie zaspokojenia obecnego i przyszłego zapotrzebowania na paliwa gazowe, o którym mowa art. 16 ust. 4 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, przypada po upływie 6 miesięcy od dnia wejścia życie niniejszej ustawy, operator ten opracowuje program, o którym mowa art. 20 ust. 1, terminie 6 miesięcy od dnia wejścia życie niniejszej ustawy na okres obowiązywania planu rozwoju aktualnego na dzień wejścia życie niniejszej ustawy, i uzgadnia go z operatorem systemu przesyłowego gazowego, a następnie z Prezesem URE. 2. W programie, o którym mowa art. 20 ust. 1, operator systemu dystrybucyjnego gazowego określa liczbę planowanych punktów tankowania sprężonego gazu ziemnego (CNG), nie mniejszą niż określona art. 60 ust. 2. 2a. Operator systemu dystrybucyjnego gazowego może pomniejszyć liczbę planowanych punktów, o której mowa ust. 2, o liczbę punktów tankowania sprężonego gazu ziemnego (CNG) zlokalizowanych na obszarze gminy dniu wejścia życie ustawy. 3. Generalny Dyrektor Dróg Krajowych i Autostrad przygotowuje po raz pierwszy plan lokalizacji ogólnodostępnych stacji ładowania oraz stacji gazu ziemnego wzdłuż pozostających jego zarządzie dróg sieci bazowej TEN-T, o którym mowa art. 32 ust. 1, oraz przekazuje go do konsultacji z operatorami systemów dystrybucyjnych elektroenergetycznych i gazowych oraz z podmiotami zarządzającymi miejscami obsługi podróżnych, terminie 6 miesięcy od dnia wejścia życie niniejszej ustawy. 4. Podmiot zarządzający portem należącym do sieci bazowej TEN-T przygotowuje po raz pierwszy plan lokalizacji punktów bunkrowania skroplonego gazu ziemnego (LNG) lub możliwości bunkrowania za pomocą bunkierek oraz punktów zasilania jednostek pływających energią elektryczną z lądu, o którym mowa art. 33 ust. 1, oraz przekazuje go do konsultacji z właściwymi operatorami systemów dystrybucyjnych elektroenergetycznych i gazowych, terminie 6 miesięcy od dnia wejścia życie niniejszej ustawy.
+4. Podmiot zarządzający portem należącym do sieci bazowej TEN-T przygotowuje po raz pierwszy plan lokalizacji punktów bunkrowania skroplonego gazu ziemnego (LNG) lub możliwości bunkrowania za pomocą bunkierek oraz punktów zasilania jednostek pływających energią elektryczną z lądu, o którym mowa w art. 33 ust. 1, oraz przekazuje go do konsultacji z właściwymi operatorami systemów dystrybucyjnych elektroenergetycznych i gazowych, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 79.** Podmioty obowiązane do przekazywania informacji do rejestru po raz pierwszy przekazują informacje, o których mowa art. 42 ust. 3, do dnia 15 stycznia 2019 r., z wyłączeniem podmiotów, o których mowa art. 74, eksploatujących informacje po raz pierwszy terminie miesiąca od dnia przeprowadzenia badania zezwalającego na dalszą eksploatację tych stacji.
+**Art. 79.** Podmioty obowiązane do przekazywania informacji do rejestru po raz pierwszy przekazują informacje, o których mowa w art. 42 ust. 3, do dnia 15 stycznia 2019 r., z wyłączeniem podmiotów, o których mowa w art. 74, eksploatujących ogólnodostępne stacje ładowania lub stacje gazu ziemnego, które przekazują te informacje po raz pierwszy w terminie miesiąca od dnia przeprowadzenia badania zezwalającego na dalszą eksploatację tych stacji.
 
-**Art. 80.** Plan zrównoważonego rozwoju publicznego transportu zbiorowego, o którym mowa art. 9 ustawy zmienianej art. 59 , podmiot obowiązany do jego opracowania aktualizuje celu uwzględnienia wymagań, o których mowa art. 12 ust. 1 pkt 8 oraz ust. 1a i 2a–2c ustawy zmienianej art. 59 , brzmieniu nadanym niniejszą ustawą, terminie roku od dnia wejścia życie niniejszej ustawy.
+**Art. 80.** Plan zrównoważonego rozwoju publicznego transportu zbiorowego, o którym mowa w art. 9 ustawy zmienianej w art. 59, podmiot obowiązany do jego opracowania aktualizuje w celu uwzględnienia wymagań, o których mowa w art. 12 ust. 1 pkt 8 oraz ust. 1a i 2a-2c ustawy zmienianej w art. 59, w brzmieniu nadanym niniejszą ustawą, w terminie roku od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 81.** Organ właściwy do zarządzania ruchem na drogach realizuje obowiązek, o którym mowa art. 12b i art. 13b ust. 6 pkt 1a ustawy zmienianej art. 49 , brzmieniu nadanym niniejszą ustawą, od pierwszego dnia miesiąca następującego po upływie 3 miesięcy od dnia wejścia życie przepisów określających warunki dla oznakowania miejsc postojowych dla pojazdów elektrycznych.
+**Art. 81.** Organ właściwy do zarządzania ruchem na drogach realizuje obowiązek, o którym mowa w art. 12b i art. 13b ust. 6 pkt 1a ustawy zmienianej w art. 49, w brzmieniu nadanym niniejszą ustawą, od pierwszego dnia miesiąca następującego po upływie 3 miesięcy od dnia wejścia w życie przepisów określających warunki dla oznakowania miejsc postojowych dla pojazdów elektrycznych.
 
-**Art. 82.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 46 ust. 3 ustawy zmienianej art. 54 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 46 ust. 3 ustawy zmienianej art. 54 , brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż 36 miesięcy.
+**Art. 82.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 46 ust. 3 ustawy zmienianej w art. 54 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 46 ust. 3 ustawy zmienianej w art. 54, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż 36 miesięcy.
 
 **Art. 83.**
 
-1. Maksymalny limit wydatków z budżetu państwa przeznaczonych na wykonywanie zadań naczelnych i centralnych organów administracji państwowej wynikających z niniejszej ustawy wynosi roku:
+1. Maksymalny limit wydatków z budżetu państwa przeznaczonych na wykonywanie zadań naczelnych i centralnych organów administracji państwowej wynikających z niniejszej ustawy wynosi w roku:
 
 - **1)** 2018 r. – 4 010 000 zł;
 - **2)** 2019 r. – 4 402 000 zł;
@@ -1060,28 +1035,44 @@ Art. 48–59. (pominięte) Przepisy epizodyczne
 - **6)** 2023 r. – 7 193 000 zł;
 - **7)** 2024 r. – 2 060 000 zł;
 - **8)** 2025 r. – 19 689 000 zł;
+- **9)** 2026 r. – 2 060 000 zł;
 - **10)** 2027 r. – 2 060 000 zł.
 
-2. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy limitu wydatków określonego ust. 1 stosuje się mechanizm korygujący polegający na ograniczeniu realizacji obowiązku zapewnienia udziału pojazdów elektrycznych we flocie użytkowanych pojazdów, określonego art. 34 i art. 35 ust. 1.
+2. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy limitu wydatków określonego w ust. 1 stosuje się mechanizm korygujący polegający na ograniczeniu realizacji obowiązku zapewnienia udziału pojazdów elektrycznych we flocie użytkowanych pojazdów, określonego w art. 34 i art. 35 ust. 1.
 
-3. Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa ust. 1, jest minister właściwy do spraw energii.
+3. Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa w ust. 1, jest minister właściwy do spraw energii.
 
-4. Naczelne i centralne organy administracji państwowej są odpowiedzialne za wdrożenie mechanizmu korygującego, o którym mowa ust. 2.
+4. Naczelne i centralne organy administracji państwowej są odpowiedzialne za wdrożenie mechanizmu korygującego, o którym mowa w ust. 2.
 
 **Art. 84.** Przepisy:
 
+- **1)** art. 66 niniejszej ustawy,
+- **2)** art. 50a ustawy zmienianej w art. 49 w brzmieniu nadanym niniejszą ustawą, stosuje się od dnia ogłoszenia pozytywnej decyzji Komisji Europejskiej o zgodności pomocy publicznej przewidzianej w tych przepisach ze wspólnym rynkiem lub stwierdzenia przez Komisję Europejską, że przepisy te nie stanowią pomocy publicznej.
+
 **Art. 85.**
 
-1. Przepisy art. 23 ust. 1 pkt 4 ustawy zmienianej art. 51 , brzmieniu nadanym niniejszą ustawą, oraz art. 16 ust. 1 pkt 4 ustawy zmienianej art. 52 , brzmieniu nadanym niniejszą ustawą, stosuje się:
+1. Przepisy art. 23 ust. 1 pkt 4 ustawy zmienianej w art. 51, w brzmieniu nadanym niniejszą ustawą, oraz art. 16 ust. 1 pkt 4 ustawy zmienianej w art. 52, w brzmieniu nadanym niniejszą ustawą, stosuje się:
 
-- **1)** od dnia ogłoszenia pozytywnej decyzji Komisji Europejskiej o zgodności pomocy publicznej przewidzianej tych przepisach ze wspólnym rynkiem lub stwierdzenia przez Komisję Europejską, że przepisy te nie stanowią pomocy publicznej;
-- **2)** odniesieniu do pojazdów elektrycznych rozumieniu niniejszej ustawy oddanych do używania po dniu określonym zgodnie z pkt 1.
+- **1)** od dnia ogłoszenia pozytywnej decyzji Komisji Europejskiej o zgodności pomocy publicznej przewidzianej w tych przepisach ze wspólnym rynkiem lub stwierdzenia przez Komisję Europejską, że przepisy te nie stanowią pomocy publicznej;
+- **2)** w odniesieniu do pojazdów elektrycznych w rozumieniu niniejszej ustawy oddanych do używania po dniu określonym zgodnie z pkt 1.
 
-2. Przepisy art. 109a oraz art. 163a ustawy zmienianej art. 58 , brzmieniu nadanym niniejszą ustawą, stosuje się: pomocy publicznej przewidzianej tych przepisach ze wspólnym rynkiem lub stwierdzenia przez Komisję Europejską, że przepisy te nie stanowią pomocy publicznej;
+2. Przepisy art. 109a oraz art. 163a ustawy zmienianej w art. 58, w brzmieniu nadanym niniejszą ustawą, stosuje się:
 
-- **2)** do pojazdów elektrycznych, pojazdów hybrydowych i pojazdów napędzanych wodorem, rozumieniu niniejszej ustawy, stosunku do których obowiązek podatkowy akcyzie powstał po dniu określonym zgodnie z pkt 1.
+- **1)** od dnia ogłoszenia pozytywnej decyzji Komisji Europejskiej o zgodności pomocy publicznej przewidzianej w tych przepisach ze wspólnym rynkiem lub stwierdzenia przez Komisję Europejską, że przepisy te nie stanowią pomocy publicznej;
+- **2)** do pojazdów elektrycznych, pojazdów hybrydowych i pojazdów napędzanych wodorem, w rozumieniu niniejszej ustawy, w stosunku do których obowiązek podatkowy w akcyzie powstał po dniu określonym zgodnie z pkt 1.
 
-**Art. 85a.** Przepis art. 3 ust. 1 pkt 10 stosuje się od dnia 1 stycznia 2023 r.
+**Art. 86.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
-**Art. 86.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem:
+- **1)** art. 3 ust. 1 pkt 8, który wchodzi w życie z dniem 1 stycznia 2023 r.;
+- **2)** art. 24, który wchodzi w życie z dniem 1 stycznia 2026 r.;
+- **3)** art. 34 i art. 35, które wchodzą w życie z dniem 1 stycznia 2025 r.;
+- **4)** art. 36, który wchodzi w życie z dniem 1 stycznia 2028 r.;
+- **5)** art. 39 ust. 2, który wchodzi w życie po upływie 6 miesięcy od dnia wejścia w życie ustawy;
+- **6)** art. 41 ust. 1, który wchodzi w życie po upływie 3 miesięcy od dnia wejścia w życie ustawy;
+- **7)** art. 42 i art. 69, które wchodzą w życie z dniem 1 stycznia 2019 r.;
+- **8)** art. 49 pkt 6, który wchodzi w życie z dniem 3 listopada 2018 r.;
+- **9)** art. 55: pkt 1 w zakresie dodawanego art. 65l ust. 4 pkt 3, który wchodzi w życie z dniem 1 lipca 2019 r., pkt 2, który wchodzi w życie z dniem 1 stycznia 2020 r.
+    - **a)**
+    - **b)**
+
 

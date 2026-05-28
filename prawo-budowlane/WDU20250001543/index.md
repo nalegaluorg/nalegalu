@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# zmieniająca ustawę o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw
-
-*USTAWA z dnia 26 września 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 listopada 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,20 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2025-09-26 |
 | Data wydania | 2025-11-12 |
+| Wejście w życie | 2025-11-27 |
 | Ostatnia zmiana | 2025-11-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001543) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1543/text.pdf) |
 
+Poz. 1543
+USTAWA z dnia 26 września 2025 r.
+zmieniająca ustawę o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw
+
 **Art. 1.** W ustawie z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688, z 2024 r. poz. 1824 oraz z 2025 r. poz. 527) w art. 59:
+
+- **1)** w ust. 2 we wprowadzeniu do wyliczenia skreśla się wyrazy „ustalenia lokalizacji inwestycji celu publicznego lub”;
+- **2)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Do spraw dotyczących ustalenia lokalizacji inwestycji celu publicznego, wszczętych od dnia wejścia w życie niniejszej ustawy i przed dniem wejścia w życie planu ogólnego gminy w danej gminie, stosuje się przepisy art. 54 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym.”;
+- **3)** ust. 3 otrzymuje brzmienie: „3. Wydanie decyzji o warunkach zabudowy na wniosek złożony od dnia 1 lipca 2026 r. jest możliwe, jeżeli w danej gminie wszedł w życie plan ogólny gminy, a w przypadku gdy wniosek dotyczy terenu położonego w więcej niż jednej gminie – jeżeli w tych gminach weszły w życie plany ogólne gmin.”;
+- **4)** dodaje się ust. 4 w brzmieniu: „4. Warunków, o których mowa w ust. 3, nie stosuje się w odniesieniu do terenów zamkniętych. Do spraw dotyczących wydania decyzji o warunkach zabudowy na terenach zamkniętych na wniosek złożony od dnia 1 lipca 2026 r. stosuje się odpowiednio przepisy ust. 2.”.
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie przeciwpożarowej
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 lutego 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 lutego 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-02-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000188) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/188/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 lutego 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie przeciwpożarowej
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2024 r. poz. 275), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U. poz. 1222),
 2) ustawą z dnia 11 października 2024 r. o zmianie ustawy o ochronie przeciwpożarowej oraz ustawy o ochotniczych strażach pożarnych (Dz. U. poz. 1692),
@@ -45,11 +45,30 @@ poz. 1222), który stanowi: „Art. 124. Ustawa wchodzi w życie po upływie 3 m
 
 **Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
 
+- **3)** art. 209 i art. 212 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907), które stanowią: „Art. 209. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 14 ust. 2 i art. 20 ustawy zmienianej w art. 170 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 14 ust. 2 i art. 20 ustawy zmienianej w art. 170 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 18 miesięcy od dnia wejścia w życie ustawy, i mogą być zmieniane na podstawie przepisów dotychczasowych.” „Art. 212. Ustawa wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem:
+- **1)** art. 16, art. 156, art. 198 i art. 199, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 76 ust. 5 i art. 78 ust. 2, które wchodzą w życie po upływie roku od dnia ogłoszenia;
+- **3)** art. 11 ust. 3 pkt 3, art. 45–48, art. 189 oraz art. 211, które wchodzą w życie z dniem 1 stycznia 2026 r.;
+- **4)** art. 187, który wchodzi w życie z dniem 1 stycznia 2027 r.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej
+
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ochrona przeciwpożarowa polega na realizacji przedsięwzięć mających na celu ochronę życia, zdrowia, mienia lub środowiska przed pożarem, klęską żywiołową lub innym miejscowym zagrożeniem poprzez:
 
+- **1)** zapobieganie powstawaniu i rozprzestrzenianiu się pożaru, klęski żywiołowej lub innego miejscowego zagrożenia;
+- **2)** zapewnianie sił i środków do zwalczania pożaru, klęski żywiołowej lub innego miejscowego zagrożenia oraz na rzecz ochrony ludności;
+- **3)** prowadzenie działań ratowniczych przez jednostki ochrony przeciwpożarowej.
+
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** zapobieżeniu powstawaniu i rozprzestrzenianiu się pożaru, klęski żywiołowej lub innego miejscowego zagrożenia rozumie się przez to:
+    - **a)** zapewnienie koniecznych warunków ochrony technicznej nieruchomościom i ruchomościom,
+    - **b)** tworzenie warunków organizacyjnych i formalnoprawnych zapewniających ochronę ludzi i mienia, a także przeciwdziałających powstawaniu lub minimalizujących skutki pożaru, klęski żywiołowej lub innego miejscowego zagrożenia;
+
+- **2)** działaniach ratowniczych rozumie się przez to każdą czynność podjętą w celu niezwłocznej likwidacji nagłych zagrożeń dla życia, zdrowia, dóbr kultury, środowiska i mienia występujących z powodu powstania pożaru, wystąpienia klęski żywiołowej lub innego miejscowego zagrożenia;
+- **2a)** działaniach pomocowych rozumie się przez to każdą czynność niebędącą działaniem ratowniczym wykonywaną w ramach pomocy doraźnej lub pomocy humanitarnej w rozumieniu ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907);
+- **3)** innym miejscowym zagrożeniu rozumie się przez to zdarzenie wynikające z rozwoju cywilizacyjnego i naturalnych praw przyrody niebędące pożarem ani klęską żywiołową, stanowiące zagrożenie dla życia, zdrowia, mienia lub środowiska, któremu zapobieżenie lub którego usunięcie skutków nie wymaga zastosowania nadzwyczajnych środków;
+- **4)** krajowym systemie ratowniczo-gaśniczym rozumie się przez to integralną część organizacji bezpieczeństwa wewnętrznego państwa, obejmującą, w celu ratowania życia, zdrowia, mienia lub środowiska, prognozowanie, rozpoznawanie i zwalczanie pożarów, klęsk żywiołowych lub innych miejscowych zagrożeń; system ten skupia jednostki ochrony przeciwpożarowej, inne służby, inspekcje, straże, instytucje oraz podmioty, które dobrowolnie w drodze umowy cywilnoprawnej zgodziły się współdziałać w akcjach ratowniczych.
 
 #### Rozdział 2 Zapobieganie pożarowi, klęsce żywiołowej lub innemu miejscowemu zagrożeniu
 
@@ -171,6 +190,9 @@ poz. 1222), który stanowi: „Art. 124. Ustawa wchodzi w życie po upływie 3 m
 
 **Art. 6c.** W przypadku gdy projekt zagospodarowania działki lub terenu, projekt architektoniczno-budowlany lub projekt techniczny obiektu budowlanego zawiera rozwiązania inne niż wynikające z przepisów dotyczących ochrony przeciwpożarowej, rzeczoznawca może uzgodnić te projekty, jeżeli dołączono do nich:
 
+- **1)** zgodę na odstępstwo od przepisów techniczno-budowlanych, o którym mowa w art. 9 ustawy z dnia 7 lipca 1994 r. Prawo budowlane;
+- **2)** zgodę na zastosowanie rozwiązań zamiennych albo zgodę na zastosowanie rozwiązań zamiennych wyrażoną pod warunkiem spełnienia dodatkowych wymagań.
+
 **Art. 6d.**
 
 1. Rzeczoznawca może uzgodnić projekt zagospodarowania działki lub terenu, projekt architektoniczno-budowlany, projekt techniczny oraz projekt urządzenia przeciwpożarowego bez uwag lub z uwagami. Uzgodnienie projektu w przypadku jego sporządzenia w postaci:
@@ -224,6 +246,12 @@ poz. 1222), który stanowi: „Art. 124. Ustawa wchodzi w życie po upływie 3 m
 4. Do uzgodnienia projektu technicznego stosuje się przepisy ust. 1–3.
 
 **Art. 6g.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+
+- **1)** rodzaje obiektów budowlanych istotnych ze względu na konieczność zapewnienia ochrony życia, zdrowia, mienia lub środowiska przed pożarem, klęską żywiołową lub innym miejscowym zagrożeniem, których projekty zagospodarowania działki lub terenu, projekty architektoniczno-budowlane oraz projekty techniczne wymagają uzgodnienia,
+- **2)** podstawowe dane dotyczące warunków ochrony przeciwpożarowej obiektu budowlanego, które stanowią podstawę uzgodnienia projektu zagospodarowania działki lub terenu, projektu architektoniczno-budowlanego oraz projektu technicznego,
+- **3)** szczegółowy sposób dokonywania uzgodnień projektu zagospodarowania działki lub terenu, projektu architektoniczno-budowlanego, projektu technicznego oraz projektu urządzenia przeciwpożarowego,
+- **4)** wzór pieczęci oraz karty uzgodnienia potwierdzających uzgodnienie projektu zagospodarowania działki lub terenu, projektu architektoniczno-budowlanego, projektu technicznego oraz projektu urządzenia przeciwpożarowego,
+- **5)** sposób i zakres zawiadomienia o uzgodnieniu projektu zagospodarowania działki lub terenu, projektu architektoniczno-budowlanego lub projektu technicznego, oraz wzór tego zawiadomienia biorąc pod uwagę przeznaczenie i parametry techniczne obiektów budowlanych, w tym dotyczące warunków ochrony przeciwpożarowej, efektywność procesu uzgadniania projektów zagospodarowania działki lub terenu, projektów architektoniczno-budowlanych oraz projektów technicznych i zawiadamiania o tym uzgodnieniu oraz że pieczęć musi identyfikować rzeczoznawcę dokonującego uzgodnienia.
 
 **Art. 7.**
 
@@ -502,6 +530,12 @@ poz. 1222), który stanowi: „Art. 124. Ustawa wchodzi w życie po upływie 3 m
 
 **Art. 11l.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
+- **1)** organizację pracy komisji egzaminacyjnej,
+- **2)** sposób przeprowadzania egzaminu na rzeczoznawcę oraz sprawdzianu dla rzeczoznawców oraz sposób ustalania wyniku z egzaminu lub sprawdzianu,
+- **3)** sposób i tryb wnoszenia oraz zwrotu opłaty za przeprowadzenie egzaminu na rzeczoznawcę,
+- **4)** wzór kwestionariusza osobowego,
+- **5)** wzór aktu powołania do wykonywania zawodu rzeczoznawcy mając na względzie zapewnienie przejrzystego procesu oceny przygotowania zawodowego kandydata na rzeczoznawcę oraz uwzględniając konieczność zapewnienia sprawnego przebiegu egzaminu i sprawdzianu.
+
 **Art. 11m.**
 
 1. Rzeczoznawca podlega obowiązkowemu ubezpieczeniu odpowiedzialności cywilnej za szkody wyrządzone w związku z:
@@ -555,6 +589,9 @@ poz. 1222), który stanowi: „Art. 124. Ustawa wchodzi w życie po upływie 3 m
 
 **Art. 11o.** W przypadku stwierdzenia nieprawidłowości w działalności rzeczoznawcy w ramach postępowania wyjaśniającego komendant wojewódzki Państwowej Straży Pożarnej właściwy dla miejsca lokalizacji obiektu budowlanego lub terenu, którego dotyczą wykonywane przez rzeczoznawcę czynności, lub dla jego miejsca zamieszkania może:
 
+- **1)** udzielić rzeczoznawcy upomnienia na piśmie, o czym niezwłocznie informuje Komendanta Głównego Państwowej Straży Pożarnej;
+- **2)** zawiadomić Komendanta Głównego Państwowej Straży Pożarnej o stwierdzeniu nieprawidłowości w działalności rzeczoznawcy i przekazać mu zebrany materiał dowodowy wraz z protokołem, gdy z okoliczności sprawy wynika potrzeba skierowania rzeczoznawcy na powtórny egzamin lub cofnięcia mu prawa do wykonywania zawodu.
+
 **Art. 11p.**
 
 1. Komendant Główny Państwowej Straży Pożarnej, po otrzymaniu zawiadomienia o stwierdzeniu nieprawidłowości w działalności rzeczoznawcy, prowadzi postępowanie wyjaśniające.
@@ -576,6 +613,10 @@ poz. 1222), który stanowi: „Art. 124. Ustawa wchodzi w życie po upływie 3 m
 4. Komendant Główny Państwowej Straży Pożarnej cofa prawo do wykonywania zawodu rzeczoznawcy w drodze decyzji administracyjnej. Decyzja podlega natychmiastowemu wykonaniu.
 
 **Art. 11s.** Komendant Główny Państwowej Straży Pożarnej cofa prawo do wykonywania zawodu rzeczoznawcy:
+
+- **1)** w przypadku gdy rzeczoznawca wykonuje zawód rzeczoznawcy, mimo zawieszenia prawa do wykonywania tego zawodu;
+- **2)** po upływie 2 lat od dnia zawieszenia mu prawa do wykonywania zawodu rzeczoznawcy, jeżeli w tym czasie nie ustały przyczyny tego zawieszenia;
+- **3)** na wniosek rzeczoznawcy.
 
 **Art. 11t.** Osoba, której w wyniku stwierdzenia nieprawidłowości w jej działalności lub wykonywania zawodu rzeczoznawcy mimo zawieszenia prawa do jego wykonywania cofnięto prawo do wykonywania zawodu rzeczoznawcy, nie może przystąpić do egzaminu przed upływem 3 lat od dnia cofnięcia jej prawa do wykonywania zawodu rzeczoznawcy.
 
@@ -669,6 +710,22 @@ poz. 1222), który stanowi: „Art. 124. Ustawa wchodzi w życie po upływie 3 m
 
 **Art. 14f.** (uchylony) Art. 14fa. 7) 1. W celu realizacji zadań krajowy system ratowniczo-gaśniczy na obszarze powiatu i województwa wykorzystuje systemy informacji geograficznej oraz powiatowe lub wojewódzkie plany ratownicze, zwane dalej „planami ratowniczymi”, zatwierdzane przez:
 
+- **1)** starostę (prezydenta miasta na prawach powiatu) dla obszaru powiatu, po zasięgnięciu opinii właściwego komendanta wojewódzkiego Państwowej Straży Pożarnej;
+- **2)** starostę i prezydenta miasta na prawach powiatu wspólne dla obszaru miasta na prawach powiatu i powiatu mającego siedzibę władz w tym mieście, po zasięgnięciu opinii właściwego komendanta wojewódzkiego Państwowej Straży Pożarnej;
+- **3)** wojewodę dla obszaru województwa, po zasięgnięciu opinii Komendanta Głównego Państwowej Straży Pożarnej.
+
+2. Plany ratownicze wspomagają organizację działań ratowniczych i zawierają:
+
+- **1)** wykaz zadań realizowanych przez służby i podmioty ochrony ludności oraz inne podmioty mogące wspomagać organizację i prowadzenie działań ratowniczych;
+- **2)** zbiór zalecanych zasad i procedur ratowniczych wynikających z zadań realizowanych przez podmioty ochrony ludności;
+- **3)** dane teleadresowe podmiotów ochrony ludności oraz innych podmiotów mogących wspomagać organizację i prowadzenie działań ratowniczych;
+- **4)** wykaz zasobów podmiotów ochrony ludności;
+- **5)** graficzne przedstawienie obszarów chronionych;
+- **6)** wykaz ekspertów do spraw prognozowania zagrożeń oraz specjalistów do spraw ratownictwa zawierający imiona, nazwiska, informacje o ich dziedzinach oraz numery telefonów służbowych;
+- **7)** arkusze uzgodnień i aktualizacji planu ratowniczego.
+
+3. Plany ratownicze w zakresie zdarzeń z dużą liczbą poszkodowanych oraz działań ratowniczych i działań pomocowych podczas katastrof, klęsk żywiołowych i zdarzeń nadzwyczajnych są skorelowane z planami zarządzania kryzysowego, o których mowa w art. 5 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, oraz z planami postępowania awaryjnego, o których mowa w art. 84 ust. 1 ustawy z dnia 29 listopada 2000 r. Prawo atomowe (Dz. U. z 2024 r. poz. 1277, 1897 i 1907).
+
 **Art. 14g.**
 
 1. Komendant Główny Państwowej Straży Pożarnej zapewnia funkcjonowanie Systemu Wspomagania Decyzji Państwowej Straży Pożarnej, zwanego dalej „SWD PSP”, stanowiącego system teleinformatyczny wspierający:
@@ -727,6 +784,17 @@ poz. 1222), który stanowi: „Art. 124. Ustawa wchodzi w życie po upływie 3 m
 2. SWD PSP uzyskuje nieodpłatnie dostęp do danych przestrzennych i związanych z nimi usług, udostępnianych za pośrednictwem systemu, o którym mowa w art. 40 ust. 3e ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151 i 1824).
 
 **Art. 15.** Jednostkami ochrony przeciwpożarowej są:
+
+- **1)** jednostki organizacyjne Państwowej Straży Pożarnej;
+- **1a)** jednostki organizacyjne Wojskowej Ochrony Przeciwpożarowej;
+- **2)** zakładowa straż pożarna;
+- **3)** zakładowa służba ratownicza;
+- **4)** gminna zawodowa straż pożarna;
+- **4a)** powiatowa (miejska) zawodowa straż pożarna;
+- **5)** terenowa służba ratownicza;
+- **6)** ochotnicza straż pożarna;
+- **7)** związek ochotniczych straży pożarnych;
+- **8)** inne jednostki ratownicze.
 
 **Art. 16.**
 
@@ -805,6 +873,11 @@ poz. 1222), który stanowi: „Art. 124. Ustawa wchodzi w życie po upływie 3 m
 **Art. 21a.** Organy administracji rządowej są obowiązane zasięgać opinii ogólnokrajowych organizacji zrzeszających strażaków jednostek ochrony przeciwpożarowej oraz Zarządu Głównego Związku Ochotniczych Straży Pożarnych Rzeczypospolitej Polskiej o projektach ustaw i rozporządzeń dotyczących ochrony przeciwpożarowej.
 
 **Art. 21b.** Do zadań własnych powiatu w zakresie ochrony przeciwpożarowej należy:
+
+- **1)** prowadzenie analiz i opracowywanie prognoz dotyczących pożarów, klęsk żywiołowych oraz innych miejscowych zagrożeń;
+- **2)** prowadzenie analizy sił i środków krajowego systemu ratowniczo-gaśniczego na obszarze powiatu;
+- **3)** budowanie systemu koordynacji działań jednostek ochrony przeciwpożarowej wchodzących w skład krajowego systemu ratowniczo-gaśniczego oraz służb, inspekcji, straży oraz innych podmiotów biorących udział w działaniach ratowniczych na obszarze powiatu;
+- **4)** organizowanie systemów teleinformatycznych, ostrzegania i alarmowania ludności oraz współdziałania podmiotów biorących udział w działaniach ratowniczych.
 
 #### Rozdział 4 Działanie ratownicze
 
@@ -890,6 +963,10 @@ poz. 1222), który stanowi: „Art. 124. Ustawa wchodzi w życie po upływie 3 m
 
 **Art. 27.** Z ochrony przewidzianej w Kodeksie karnym dla funkcjonariuszy publicznych korzystają:
 
+- **1)** uprawnieni do prowadzenia czynności kontrolno-rozpoznawczych;
+- **2)** strażacy jednostek ochrony przeciwpożarowej biorący udział w działaniach ratowniczych lub wykonujący inne zadania związane z ochroną przeciwpożarową;
+- **3)** osoby fizyczne, które na podstawie art. 25 ust. 2 zostały zobowiązane do udziału w działaniu ratowniczym.
+
 **Art. 27a.** Strażakowi jednostki ochrony przeciwpożarowej, o której mowa w art. 15 pkt 1a–5 i 8, o ile nie jest strażakiem Państwowej Straży Pożarnej, oraz żołnierzowi pełniącemu służbę w tej jednostce przysługuje prawo do odzieży specjalnej i ekwipunku osobistego, na zasadach określonych dla strażaków Państwowej Straży Pożarnej w ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej.
 
 **Art. 28.** (uchylony)
@@ -897,6 +974,11 @@ poz. 1222), który stanowi: „Art. 124. Ustawa wchodzi w życie po upływie 3 m
 #### Rozdział 6 Świadczenia rzeczowe i finansowe
 
 **Art. 29.** Koszty funkcjonowania jednostek ochrony przeciwpożarowej, z wyłączeniem ochotniczych straży pożarnych, są pokrywane z:
+
+- **1)** budżetu państwa;
+- **2)** budżetów jednostek samorządu terytorialnego;
+- **3)** dochodów instytucji ubezpieczeniowych, ubezpieczających osoby prawne i fizyczne;
+- **4)** środków własnych podmiotów, o których mowa w art. 17, które uzyskały zgodę ministra właściwego do spraw wewnętrznych na utworzenie jednostki ochrony przeciwpożarowej.
 
 **Art. 30.** Właściciel, zarządca lub użytkownik budynku, obiektu lub terenu ponosi w pełni koszty nabycia i utrzymania, w stanie zapewniającym sprawność, sprzętu, urządzeń przeciwpożarowych, środków gaśniczych, urządzeń sygnalizacyjno-alarmowych i innych urządzeń oraz instalacji ochrony przeciwpożarowej, do których posiadania zobowiązują go przepisy wydane na podstawie art. 13 ust. 1 i 3, a także koszty wykonania obowiązku określonego w art. 5.
 

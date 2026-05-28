@@ -2,8 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 7 lipca 1994 r. o zmianie ustawy - Prawo spółdzielcze oraz o zmianie niektórych innych ustaw.*
 
-Łącznie: **18** orzeczeń
-(pominięto 2 orzeczeń sądów rejonowych)
+Łącznie: **16** orzeczeń
 
 ## art. 1 (4)
 
@@ -40,21 +39,7 @@ Orzeczenia powołujące: *Ustawa z dnia 7 lipca 1994 r. o zmianie ustawy - Prawo
 
 - 2005-01-12 | SN | [I CK 445/04](https://www.saos.org.pl/judgments/162888) | Wyrok ★
 
-## art. 215 § 2 (1)
-
-- 2011-10-26 | SN | [I CSK 712/10](https://www.saos.org.pl/judgments/96103) | Wyrok ★
-
-## art. 219 (2)
+## art. 219 (1)
 
 - 2006-07-13 | SN | [III CZP 33/06](https://www.saos.org.pl/judgments/84451) | Uchwała ★
-- 2009-01-16 | SN | [III CZP 133/08](https://www.saos.org.pl/judgments/89451) | Postanowienie
-
-## art. 219 § 1 (2)
-
-- 2011-10-26 | SN | [I CSK 712/10](https://www.saos.org.pl/judgments/96103) | Wyrok ★
-- 2009-01-16 | SN | [III CZP 133/08](https://www.saos.org.pl/judgments/89451) | Postanowienie
-
-## art. 219 § 3 (1)
-
-- 2011-10-26 | SN | [I CSK 712/10](https://www.saos.org.pl/judgments/96103) | Wyrok ★
 

@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o referendum ogólnokrajowym
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 6 marca 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 marca 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-03-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000300) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/300/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 6 marca 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o referendum ogólnokrajowym
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 14 marca 2003 r. o referendum ogólnokrajowym (Dz. U. z 2024 r. poz. 574), z uwzględnieniem zmian wprowadzonych ustawą z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907) oraz zmian wynikających z przepisów ogłoszonych przed dniem 21 lutego 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 212 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907), który stanowi: „Art. 212. Ustawa wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem:
 1) art. 16, art. 156, art. 198 i art. 199, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
@@ -147,6 +147,10 @@ Art. 93–95. (pominięte)
 
 **Art. 10.** Referendum przeprowadzają:
 
+- **1)** Państwowa Komisja Wyborcza, powołana na podstawie przepisów ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy;
+- **2)** komisarze wyborczy, powołani na podstawie przepisów ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy;
+- **3)** obwodowe komisje do spraw referendum, zwane dalej „komisjami obwodowymi”.
+
 **Art. 11.**
 
 1. Państwowa Komisja Wyborcza zapewnia organizację oraz przeprowadzenie referendum.
@@ -164,6 +168,12 @@ Art. 93–95. (pominięte)
 3. Państwowa Komisja Wyborcza może określić, w drodze uchwały, warunki oraz sposób wykorzystania techniki elektronicznej przy ustalaniu wyników głosowania i wyniku referendum przez komisarzy wyborczych i komisje obwodowe oraz tryb przekazywania danych z protokołów za pośrednictwem sieci elektronicznego przekazywania danych.
 
 **Art. 12.** Do zadań komisarza wyborczego na obszarze należącym do jego właściwości terytorialnej należy w szczególności:
+
+- **1)** zapewnienie, we współdziałaniu z właściwymi organami samorządu terytorialnego, prawidłowego przygotowania i przeprowadzenia referendum;
+- **2)** sprawowanie nadzoru nad przestrzeganiem przepisów niniejszej ustawy przez komisje obwodowe;
+- **3)** rozpatrywanie skarg na działalność komisji obwodowych;
+- **4)** dostarczanie komisjom obwodowym kart do głosowania w trybie określonym przez Państwową Komisję Wyborczą;
+- **5)** ustalenie wyników głosowania i przekazanie ich do Państwowej Komisji Wyborczej.
 
 **Art. 13.**
 
@@ -199,6 +209,11 @@ Art. 93–95. (pominięte)
 2. W skład komisji obwodowej, o której mowa w ust. 1, wchodzi jedna osoba wskazana odpowiednio przez kapitana statku i konsula.
 
 **Art. 15.** Do zadań komisji obwodowej należy w szczególności:
+
+- **1)** przeprowadzenie głosowania w obwodzie;
+- **2)** czuwanie nad przestrzeganiem przepisów niniejszej ustawy w miejscu i w czasie głosowania;
+- **3)** ustalenie wyników głosowania w obwodzie i podanie ich do wiadomości publicznej;
+- **4)** przekazanie protokołu głosowania w obwodzie właściwemu komisarzowi wyborczemu.
 
 **Art. 16.**
 
@@ -636,6 +651,9 @@ Art. 93–95. (pominięte)
 
 **Art. 60.** W sprawach o szczególnym znaczeniu dla państwa referendum ma prawo zarządzić:
 
+- **1)** Sejm, uchwałą podjętą bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów, lub
+- **2)** Prezydent Rzeczypospolitej, za zgodą Senatu wyrażoną bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby senatorów.
+
 **Art. 61.**
 
 1. Sejm może postanowić o poddaniu pod referendum określonej sprawy z własnej inicjatywy, a także na wniosek Senatu, Rady Ministrów lub obywateli. W przypadku gdy Sejm, w drodze uchwały, nie uwzględni wniosku o przeprowadzenie referendum, Marszałek Sejmu informuje o tym wnioskodawcę.
@@ -774,6 +792,11 @@ Art. 93–95. (pominięte)
 
 **Art. 80.** Kto prowadzi kampanię referendalną:
 
+- **1)** w lokalu komisji obwodowej lub na terenie budynku, w którym ten lokal się znajduje,
+- **2)** na terenie zakładów pracy w sposób i w formach zakłócających ich normalne funkcjonowanie,
+- **3)** na terenie urzędów administracji rządowej lub administracji samorządu terytorialnego oraz sądów,
+- **4)** na terenie jednostek wojskowych i innych jednostek organizacyjnych podległych Ministrowi Obrony Narodowej bądź skoszarowanych jednostek podległych ministrowi właściwemu do spraw wewnętrznych podlega karze grzywny.
+
 **Art. 81.**
 
 1. Kto w związku z referendum:
@@ -859,6 +882,14 @@ Art. 93–95. (pominięte)
 #### Rozdział 13 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
 **Art. 96.** W przypadku pierwszego referendum ogólnokrajowego odbywającego się po dniu wejścia w życie niniejszej ustawy skróceniu ulegają terminy:
+
+- **1)** na utworzenie obwodów głosowania, o których mowa w art. 6 ust. 2, a także na dokonanie zmian obwodów głosowania lub siedzib obwodowych komisji do spraw referendum do 40 dnia przed dniem referendum;
+- **2)** o którym mowa w art. 6 ust. 5 do 35 dnia przed dniem referendum;
+- **3)** o którym mowa w art. 7 ust. 2 do 40 dnia przed dniem referendum;
+- **4)** o którym mowa w art. 13 ust. 1 do 16 dnia przed dniem referendum;
+- **5)** o którym mowa w art. 13 ust. 3 do 25 dnia przed dniem referendum;
+- **6)** o którym mowa w art. 48 ust. 6 do 2 dni;
+- **7)** o którym mowa w art. 48 ust. 7 do 3 dni.
 
 **Art. 97.** Traci moc ustawa z dnia 29 czerwca 1995 r. o referendum (Dz. U. poz. 487, z 2000 r. poz. 488 oraz z 2002 r. poz. 984).
 

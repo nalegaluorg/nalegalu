@@ -8,10 +8,10 @@ pos: 2863
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Warszawa, dnia 30 grudnia 2022 r.
+# Rozporządzenie Ministra Rozwoju i Technologiiz dnia 16 grudnia 2022 r. w sprawie udzielania pomocy de minimis lub pomocy publicznej na przedsięwzięcia realizowane w ramach inwestycji B2.2.2 „Instalacje OZE realizowane przez społeczności energetyczne” objętej wsparciem ze środków Instrumentu na rzecz Odbudowy i Zwiększania Odporności
 
 | Pole | Wartość |
 |---|---|
@@ -22,78 +22,180 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-16 |
 | Data wydania | 2022-12-30 |
+| Wejście w życie | 2023-01-14 |
 | Ostatnia zmiana | 2024-11-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002863) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2863/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ROZWOJU I TECHNOLOGII dnia 16 grudnia 2022 r.
-sprawie udzielania de minimis lub publicznej przedsięwzięcia realizowane ramach inwestycji B2.2.2 „Instalacje OZE realizowane przez społeczności energetyczne” objętej wsparciem ze środków Instrumentu rzecz Odbudowy Zwiększania Odporności Na podstawie 14lc 4 ustawy dnia 6 grudnia 2006 r. zasadach prowadzenia polityki rozwoju (Dz. U. 2021 r.
-poz. 1057 oraz 2022 r. poz. 1079 1846) zarządza się, co następuje:
-1. Rozporządzenie określa szczegółowe przeznaczenie, warunki tryb udzielania przedsiębiorcom przedsięwzięcia realizowane ramach inwestycji B2.2.2 „Instalacje OZE realizowane przez społeczności energetyczne” objętej wsparciem ze środków Instrumentu rzecz Odbudowy Zwiększania Odporności, a także podmiot udzielający pomocy.
-2. Ilekroć rozporządzeniu mowa o:
-1) intensywności oznacza to intensywność rozumieniu 26 Komisji (UE) 651/2014 dnia 17 czerwca 2014 r. uznającego niektóre rodzaje za zgodne rynkiem wewnętrznym zastosowaniu 107 108 Traktatu (Dz. Urz. UE L 187 26.06.2014, str. 1, późn. zm. ), zwanego dalej „rozporządzeniem 651/2014”;
-2) klastrach innowacyjnych oznacza to klastry innowacyjne rozumieniu 92
-3) energii ze źródeł odnawialnych oznacza to energię ze źródeł odnawialnych rozumieniu 109 rozporządzenia
-4) efektywnym energetycznie systemie ciepłowniczym chłodniczym oznacza to efektywny energetycznie system ciepłowniczy chłodniczy rozumieniu 124
-5) infrastrukturze energetycznej oznacza to infrastrukturę energetyczną rozumieniu 130
-6) przedsiębiorcy oznacza to przedsiębiorstwo rozumieniu 1 załącznika I do
-7) jednym przedsiębiorcy oznacza to jedno przedsiębiorstwo rozumieniu Komisji (UE) 1407/2013 dnia 18 grudnia 2013 r. sprawie stosowania 107 108 Traktatu funkcjonowaniu Unii Europejskiej do de minimis (Dz. Urz. UE L 352 24.12.2013, str. 1, późn. zm. ), zwanego dalej „rozporządzeniem 1407/2013”;
-8) mikroprzedsiębiorcy, małym lub średnim przedsiębiorcy oznacza to odpowiednio mikroprzedsiębiorstwo, małe lub średnie przedsiębiorstwo, którym mowa załączniku I do
-a) propagowanie energii ze źródeł odnawialnych,
-b) efektywny energetycznie system ciepłowniczy chłodniczy,
-c) infrastrukturę energetyczną;
-3) badania środowiska;
-4) de minimis.
-4. 1. Pomoc, której mowa 3 1–3, stanowi publiczną, do której mają zastosowanie przepisy rozporządzenia
-2. Pomoc, której mowa 3 4, stanowi de minimis, do której mają zastosowanie przepisy rozporządzenia 1407/2013.
-5. 1. Przepisów nie stosuje się do publicznej, której mowa 1 2, 3 lit. a–d, 4 lit. c 5 651/2014, a przypadku:
-1) publicznej, której mowa 3 lit. c, przepisów nie stosuje się również przypadkach, których mowa 48 6
-2) publicznej, której mowa 3 3, przepisów nie stosuje się również przypadkach, których mowa 49 5
-2. publiczna nie może zostać udzielona ani wypłacona przedsiębiorcy, którym ciąży obowiązek zwrotu publicznej, wynikający decyzji Komisji Europejskiej uznającej taką za niezgodną prawem oraz rynkiem wewnętrznym.
-6. publiczna może zostać udzielona, jeżeli wywołuje efekt zachęty rozumieniu 6 zdanie pierwsze
-7. publiczna na:
-1) wspieranie klastrów innowacyjnych, zgodnie 27
-2) propagowanie energii ze źródeł odnawialnych, zgodnie 41
-3) inwestycje efektywny energetycznie system ciepłowniczy chłodniczy, zgodnie 46
-4) wybudowanie lub modernizację infrastruktury energetycznej, zgodnie 48
-5) badania środowiska bezpośrednio związane inwestycjami, których mowa 2–4, zgodnie 49 rozporządzenia
-8. 1. publiczna, której mowa 3 1, udzielana, jeżeli są spełnione warunki, których mowa 27 2–4
-2. publiczna, której mowa 3 1, jako publiczna:
-1) operacyjna, której mowa 27 7, lub
-2) inwestycyjna, której mowa 27 5 zdanie pierwsze publiczna, której mowa 3 lit. a, udzielana, jeżeli są spełnione warunki, których mowa 41 2–5
-4. publiczna, której mowa 3 lit. c, udzielana, jeżeli są spełnione warunki, których mowa
-5. publiczna, której mowa 3 3, pokrycie kosztów kwalifikowalnych, których mowa 49
-10. 1. Intensywność publicznej, której mowa 3 1, przypadku inwestycyjnej dla klastrów innowacyjnych określa się zgodnie 27 6 zdanie pierwsze 651/2014, a przypadku operacyjnej dla klastrów innowacyjnych zgodnie 27 9 Intensywność inwestycyjnej dla klastrów innowacyjnych można zwiększyć o:
-1) 5 punktów procentowych przypadku klastrów innowacyjnych usytuowanych obszarach należących do województw dolnośląskiego wielkopolskiego oraz następujących gmin należących do regionu mazowieckiego regionalnego: Baranów, Błonie, Dąbrówka, Dobre, Góra Kalwaria, Grodzisk Mazowiecki, Jadów, Jaktorów, Kałuszyn, Kampinos, Kołbiel, Latowicz, Leoncin, Leszno, Mrozy, Nasielsk, Osieck, Prażmów, Serock, Siennica, Sobienie-Jeziory, Strachówka, Tarczyn, Tłuszcz, Zakroczym Żabia Wola;
-2) 15 punktów procentowych przypadku klastrów innowacyjnych usytuowanych obszarach należących do województw: kujawsko-pomorskiego, lubelskiego, lubuskiego, łódzkiego, małopolskiego, opolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego, zachodniopomorskiego oraz do regionu mazowieckiego regionalnego.
-2. Intensywność publicznej, której mowa 3 lit. a, określa się zgodnie 41 7 rozporządzenia Intensywność można zwiększyć 20 punktów procentowych przypadku rzecz małych przedsiębiorców 10 punktów procentowych przypadku rzecz średnich przedsiębiorców. Intensywność można zwiększyć o:
-1) 5 punktów procentowych przypadku gdy przedsięwzięcie realizowane obszarach należących do województw dolnośląskiego wielkopolskiego oraz następujących gmin należących do regionu mazowieckiego regionalnego: Baranów, Błonie, Dąbrówka, Dobre, Góra Kalwaria, Grodzisk Mazowiecki, Jadów, Jaktorów, Kałuszyn, Kampinos, Kołbiel, Latowicz, Leoncin, Leszno, Mrozy, Nasielsk, Osieck, Prażmów, Serock, Siennica, Sobienie-Jeziory, Strachówka, Tarczyn, Tłuszcz, Zakroczym Żabia Wola;
-2) 15 punktów procentowych przypadku gdy przedsięwzięcie realizowane obszarach należących do województw: kujawsko-pomorskiego, lubelskiego, lubuskiego, łódzkiego, małopolskiego, opolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego, zachodniopomorskiego oraz do regionu mazowieckiego regionalnego.
-Intensywność publicznej, której mowa 3 lit. b, pokrycie kosztów kwalifikowalnych przypadku zakładu produkcyjnego określa się zgodnie 46 3 zdanie pierwsze Intensywność można zwiększyć 20 punktów procentowych przypadku rzecz małych przedsiębiorców 10 punktów procentowych przypadku rzecz średnich przedsiębiorców. Intensywność można zwiększyć o:
-1) 5 punktów procentowych przypadku gdy przedsięwzięcie realizowane obszarach należących do województw dolnośląskiego wielkopolskiego oraz następujących gmin należących do regionu mazowieckiego regionalnego: Baranów, Błonie, Dąbrówka, Dobre, Góra Kalwaria, Grodzisk Mazowiecki, Jadów, Jaktorów, Kałuszyn, Kampinos, Kołbiel, Latowicz, Leoncin, Leszno, Mrozy, Nasielsk, Osieck, Prażmów, Serock, Siennica, Sobienie-Jeziory, Strachówka, Tarczyn, Tłuszcz, Zakroczym Żabia Wola;
-2) 15 punktów procentowych przypadku gdy przedsięwzięcie realizowane obszarach należących do województw: kujawsko-pomorskiego, lubelskiego, lubuskiego, łódzkiego, małopolskiego, opolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego, zachodniopomorskiego oraz do regionu mazowieckiego regionalnego.
-4. W przypadku publicznej, której mowa 3 lit. b, dotyczącej sieci dystrybucji kwotę publicznej określa się zgodnie 46 6
-5. Kwotę publicznej, której mowa 3 lit. c, określa się zgodnie 48 5 sposobu obliczania wartości publicznej udzielanej różnych formach (Dz. U. 2018 r. poz. 461).
-12. publiczna podlega kumulacji zasadach określonych 8
-13. publiczna przekraczająca kwoty określone 4 1 lit. k, s, oraz x 651/2014 stanowi indywidualną podlegającą notyfikacji Komisji Europejskiej może być udzielona po jej zatwierdzeniu przez Komisję Europejską.
-14. 1. de minimis może być przedsiębiorcom działającym we wszystkich sektorach, wyłączeniem przypadków, których mowa 1 1 1407/2013.
-2. Wartość dopuszczalnej de minimis udzielonej jednemu przedsiębiorcy określa się podstawie 3 2–9 1407/2013.
-de minimis podlega kumulacji inną pomocą zasadach określonych 5 1407/2013.
-15. Podmiotem udzielającym publicznej lub de minimis Narodowy Fundusz Ochrony Środowiska Gospodarki Wodnej.
-16. publiczna de minimis formie dotacji.
-17. publiczna lub de minimis może być udzielona, pod warunkiem że przedsiębiorca złożył wniosek objęcie przedsięwzięcia wsparciem planu rozwojowego, zwany dalej „wnioskiem”.
-18. 1. Przedsiębiorca składa wniosek do podmiotu udzielającego publicznej lub de minimis, którym mowa 15.
-2. Wniosek zawiera:
-1) nazwę przedsiębiorcy informację jego wielkości;
-2) opis przedsięwzięcia, tym daty jego rozpoczęcia zakończenia;
-3) lokalizację przedsięwzięcia;
-4) wykaz kosztów przedsięwzięcia.
-Podmiot udzielający publicznej lub de minimis może zażądać od przedsiębiorcy dodatkowych informacji niezbędnych do dokonania oceny wniosku.
-4. Po przeprowadzeniu oceny wniosku uwzględniającej:
-1) cel pomocy,
-2) koszty kwalifikowalne,
-3) wartość dopuszczalnej pomocy,
-4) kryteria wyboru przedsięwzięć określone przez instytucję odpowiedzialną za realizację inwestycji zgodnie 14lzb 1 ustawy dnia 6 grudnia 2006 r. zasadach prowadzenia polityki rozwoju publiczna lub de minimis może zostać udzielona przedsiębiorcy podstawie umowy objęcie przedsięwzięcia wsparciem bezzwrotnym planu rozwojowego, której mowa 14lzh ustawy dnia 6 grudnia 2006 r.
-zasadach prowadzenia polityki rozwoju.
-19. 1. de minimis do końca okresu, którym mowa 7 4 związku 8 rozporządzenia 1407/2013.
-2. publiczna do końca okresu dostosowawczego, którym mowa 58 4 zdanie pierw-
+Treść rozporządzenia
+Na podstawie art. 14lc ust. 4 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2021 r. poz. 1057 oraz z 2022 r. poz. 1079 i 1846) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przedsiębiorcom pomocy na przedsięwzięcia realizowane w ramach inwestycji B2.2.2 „Instalacje OZE realizowane przez społeczności energetyczne” objętej wsparciem ze środków Instrumentu na rzecz Odbudowy i Zwiększania Odporności, a także podmiot udzielający pomocy.
+§ 2.
+Ilekroć w rozporządzeniu jest mowa o:
+1)
+intensywności pomocy – oznacza to intensywność pomocy w rozumieniu art. 2 pkt 26 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 651/2014”;
+2)
+klastrach innowacyjnych – oznacza to klastry innowacyjne w rozumieniu art. 2 pkt 92 rozporządzenia nr 651/2014;
+3)
+energii ze źródeł odnawialnych – oznacza to energię ze źródeł odnawialnych w rozumieniu art. 2 pkt 109 rozporządzenia nr 651/2014;
+4)
+efektywnym energetycznie systemie ciepłowniczym i chłodniczym – oznacza to efektywny energetycznie system ciepłowniczy i chłodniczy w rozumieniu art. 2 pkt 124 rozporządzenia nr 651/2014;
+5)
+infrastrukturze energetycznej – oznacza to infrastrukturę energetyczną w rozumieniu art. 2 pkt 130 rozporządzenia nr 651/2014;
+6)
+przedsiębiorcy – oznacza to przedsiębiorstwo w rozumieniu art. 1 załącznika I do rozporządzenia nr 651/2014;
+7)
+jednym przedsiębiorcy – oznacza to jedno przedsiębiorstwo w rozumieniu art. 2 ust. 2 rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 1407/2013”;
+8)
+mikroprzedsiębiorcy, małym lub średnim przedsiębiorcy – oznacza to odpowiednio mikroprzedsiębiorstwo, małe lub średnie przedsiębiorstwo, o którym mowa w załączniku I do rozporządzenia nr 651/2014.
+§ 3.
+Pomoc jest udzielana jako:
+1)
+pomoc operacyjna lub inwestycyjna dla klastrów innowacyjnych;
+2)
+pomoc inwestycyjna na:
+a)
+propagowanie energii ze źródeł odnawialnych,
+b)
+efektywny energetycznie system ciepłowniczy i chłodniczy,
+c)
+infrastrukturę energetyczną;
+3)
+pomoc na badania środowiska;
+4)
+pomoc de minimis .
+§ 4.
+1.
+Pomoc, o której mowa w § 3 pkt 1–3, stanowi pomoc publiczną, do której mają zastosowanie przepisy rozporządzenia nr 651/2014.
+2.
+Pomoc, o której mowa w § 3 pkt 4, stanowi pomoc de minimis , do której mają zastosowanie przepisy rozporządzenia nr 1407/2013.
+§ 5.
+1.
+Przepisów rozporządzenia nie stosuje się do pomocy publicznej, o której mowa w art. 1 ust. 2, ust. 3 lit. a-d, ust. 4 lit. c i ust. 5 rozporządzenia nr 651/2014, a w przypadku:
+1)
+pomocy publicznej, o której mowa w § 3 pkt 2 lit. c, przepisów rozporządzenia nie stosuje się również w przypadkach, o których mowa w art. 48 ust. 6 rozporządzenia nr 651/2014;
+2)
+pomocy publicznej, o której mowa w § 3 pkt 3, przepisów rozporządzenia nie stosuje się również w przypadkach, o których mowa w art. 49 ust. 5 rozporządzenia nr 651/2014.
+2.
+Pomoc publiczna nie może zostać udzielona ani wypłacona przedsiębiorcy, na którym ciąży obowiązek zwrotu pomocy publicznej, wynikający z decyzji Komisji Europejskiej uznającej taką pomoc za niezgodną z prawem oraz z rynkiem wewnętrznym.
+§ 6.
+Pomoc publiczna może zostać udzielona, jeżeli wywołuje efekt zachęty w rozumieniu art. 6 ust. 2 zdanie pierwsze rozporządzenia nr 651/2014.
+§ 7.
+Pomoc publiczna jest udzielana na:
+1)
+wspieranie klastrów innowacyjnych, zgodnie z art. 27 rozporządzenia nr 651/2014;
+2)
+propagowanie energii ze źródeł odnawialnych, zgodnie z art. 41 rozporządzenia nr 651/2014;
+3)
+inwestycje w efektywny energetycznie system ciepłowniczy i chłodniczy, zgodnie z art. 46 rozporządzenia nr 651/2014;
+4)
+wybudowanie lub modernizację infrastruktury energetycznej, zgodnie z art. 48 rozporządzenia nr 651/2014;
+5)
+badania środowiska bezpośrednio związane z inwestycjami, o których mowa w pkt 2–4, zgodnie z art. 49 rozporządzenia nr 651/2014.
+§ 8.
+1.
+Pomoc publiczna, o której mowa w § 3 pkt 1, jest udzielana, jeżeli są spełnione warunki, o których mowa w art. 27 ust. 2–4 rozporządzenia nr 651/2014.
+2.
+Pomoc publiczna, o której mowa w § 3 pkt 1, jest udzielana jako pomoc publiczna:
+1)
+operacyjna, o której mowa w art. 27 ust. 7, lub
+2)
+inwestycyjna, o której mowa w art. 27 ust. 5 zdanie pierwsze
+rozporządzenia nr 651/2014.
+3.
+Pomoc publiczna, o której mowa w § 3 pkt 2 lit. a, jest udzielana, jeżeli są spełnione warunki, o których mowa w art. 41 ust. 2–5 rozporządzenia nr 651/2014.
+4.
+Pomoc publiczna, o której mowa w § 3 pkt 2 lit. c, jest udzielana, jeżeli są spełnione warunki, o których mowa w art. 48 ust. 2 i 3 rozporządzenia nr 651/2014.
+§ 9.
+1.
+Pomoc publiczna, o której mowa w § 3 pkt 1, jest udzielana na pokrycie kosztów kwalifikowalnych, o których mowa odpowiednio w art. 27 ust. 5 zdanie drugie lub art. 27 ust. 8 rozporządzenia nr 651/2014.
+2.
+Pomoc publiczna, o której mowa w § 3 pkt 2 lit. a, jest udzielana na pokrycie kosztów kwalifikowalnych, o których mowa w art. 41 ust. 6 rozporządzenia nr 651/2014.
+3.
+Pomoc publiczna, o której mowa w § 3 pkt 2 lit. b, jest udzielana na pokrycie kosztów kwalifikowalnych, o których mowa w art. 46 ust. 2 lub 5 rozporządzenia nr 651/2014.
+4.
+Pomoc publiczna, o której mowa w § 3 pkt 2 lit. c, jest udzielana na pokrycie kosztów kwalifikowalnych, o których mowa w art. 48 ust. 4 rozporządzenia nr 651/2014.
+5.
+Pomoc publiczna, o której mowa w § 3 pkt 3, jest udzielana na pokrycie kosztów kwalifikowalnych, o których mowa w art. 49 ust. 2 rozporządzenia nr 651/2014.
+§ 10.
+1.
+Intensywność pomocy publicznej, o której mowa w § 3 pkt 1, w przypadku pomocy inwestycyjnej dla klastrów innowacyjnych określa się zgodnie z art. 27 ust. 6 zdanie pierwsze rozporządzenia nr 651/2014, a w przypadku pomocy operacyjnej dla klastrów innowacyjnych – zgodnie z art. 27 ust. 9 rozporządzenia nr 651/2014. Intensywność pomocy inwestycyjnej dla klastrów innowacyjnych można zwiększyć o:
+1)
+5 punktów procentowych – w przypadku klastrów innowacyjnych usytuowanych na obszarach należących do województw dolnośląskiego i wielkopolskiego oraz następujących gmin należących do regionu mazowieckiego regionalnego: Baranów, Błonie, Dąbrówka, Dobre, Góra Kalwaria, Grodzisk Mazowiecki, Jadów, Jaktorów, Kałuszyn, Kampinos, Kołbiel, Latowicz, Leoncin, Leszno, Mrozy, Nasielsk, Osieck, Prażmów, Serock, Siennica, Sobienie-Jeziory, Strachówka, Tarczyn, Tłuszcz, Zakroczym i Żabia Wola;
+2)
+15 punktów procentowych – w przypadku klastrów innowacyjnych usytuowanych na obszarach należących do województw: kujawsko-pomorskiego, lubelskiego, lubuskiego, łódzkiego, małopolskiego, opolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego, zachodniopomorskiego oraz do regionu mazowieckiego regionalnego.
+2.
+Intensywność pomocy publicznej, o której mowa w § 3 pkt 2 lit. a, określa się zgodnie z art. 41 ust. 7 rozporządzenia nr 651/2014. Intensywność pomocy można zwiększyć o 20 punktów procentowych w przypadku pomocy na rzecz małych przedsiębiorców i o 10 punktów procentowych w przypadku pomocy na rzecz średnich przedsiębiorców. Intensywność pomocy można zwiększyć o:
+1)
+5 punktów procentowych – w przypadku gdy przedsięwzięcie jest realizowane na obszarach należących do województw dolnośląskiego i wielkopolskiego oraz następujących gmin należących do regionu mazowieckiego regionalnego: Baranów, Błonie, Dąbrówka, Dobre, Góra Kalwaria, Grodzisk Mazowiecki, Jadów, Jaktorów, Kałuszyn, Kampinos, Kołbiel, Latowicz, Leoncin, Leszno, Mrozy, Nasielsk, Osieck, Prażmów, Serock, Siennica, Sobienie-Jeziory, Strachówka, Tarczyn, Tłuszcz, Zakroczym i Żabia Wola;
+2)
+15 punktów procentowych – w przypadku gdy przedsięwzięcie jest realizowane na obszarach należących do województw: kujawsko-pomorskiego, lubelskiego, lubuskiego, łódzkiego, małopolskiego, opolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego, zachodniopomorskiego oraz do regionu mazowieckiego regionalnego.
+3.
+Intensywność pomocy publicznej, o której mowa w § 3 pkt 2 lit. b, na pokrycie kosztów kwalifikowalnych w przypadku zakładu produkcyjnego określa się zgodnie z art. 46 ust. 3 zdanie pierwsze rozporządzenia nr 651/2014. Intensywność pomocy można zwiększyć o 20 punktów procentowych w przypadku pomocy na rzecz małych przedsiębiorców i o 10 punktów procentowych w przypadku pomocy na rzecz średnich przedsiębiorców. Intensywność pomocy można zwiększyć o:
+1)
+5 punktów procentowych – w przypadku gdy przedsięwzięcie jest realizowane na obszarach należących do województw dolnośląskiego i wielkopolskiego oraz następujących gmin należących do regionu mazowieckiego regionalnego: Baranów, Błonie, Dąbrówka, Dobre, Góra Kalwaria, Grodzisk Mazowiecki, Jadów, Jaktorów, Kałuszyn, Kampinos, Kołbiel, Latowicz, Leoncin, Leszno, Mrozy, Nasielsk, Osieck, Prażmów, Serock, Siennica, Sobienie-Jeziory, Strachówka, Tarczyn, Tłuszcz, Zakroczym i Żabia Wola;
+2)
+15 punktów procentowych – w przypadku gdy przedsięwzięcie jest realizowane na obszarach należących do województw: kujawsko-pomorskiego, lubelskiego, lubuskiego, łódzkiego, małopolskiego, opolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego, zachodniopomorskiego oraz do regionu mazowieckiego regionalnego.
+4.
+W przypadku pomocy publicznej, o której mowa w § 3 pkt 2 lit. b, dotyczącej sieci dystrybucji kwotę pomocy publicznej określa się zgodnie z art. 46 ust. 6 rozporządzenia nr 651/2014.
+5.
+Kwotę pomocy publicznej, o której mowa w § 3 pkt 2 lit. c, określa się zgodnie z art. 48 ust. 5 rozporządzenia nr 651/2014.
+6.
+Intensywność pomocy publicznej, o której mowa w § 3 pkt 3, określa się zgodnie z art. 49 ust. 3 rozporządzenia nr 651/2014. Intensywność pomocy można zwiększyć o 20 punktów procentowych w przypadku badań przeprowadzanych w imieniu małych przedsiębiorców i o 10 punktów procentowych w przypadku badań przeprowadzanych w imieniu średnich przedsiębiorców.
+§ 11.
+1.
+Do obliczenia intensywności oraz wartości pomocy publicznej i kosztów kwalifikowalnych stosuje się art. 7 ust. 1 zdanie pierwsze i drugie oraz ust. 3 rozporządzenia nr 651/2014.
+2.
+Koszty kwalifikowalne są dyskontowane do wartości na dzień udzielenia pomocy, przy zastosowaniu stopy dyskontowej, o której mowa w § 2 pkt 3a rozporządzenia Rady Ministrów z dnia 11 sierpnia 2004 r. w sprawie szczegółowego sposobu obliczania wartości pomocy publicznej udzielanej w różnych formach (Dz. U. z 2018 r. poz. 461).
+§ 12.
+Pomoc publiczna podlega kumulacji na zasadach określonych w art. 8 rozporządzenia nr 651/2014.
+§ 13.
+Pomoc publiczna przekraczająca kwoty określone w art. 4 ust. 1 lit. k, s, w oraz x rozporządzenia nr 651/2014 stanowi pomoc indywidualną podlegającą notyfikacji Komisji Europejskiej i może być udzielona po jej zatwierdzeniu przez Komisję Europejską.
+§ 14.
+1.
+Pomoc de minimis może być udzielana przedsiębiorcom działającym we wszystkich sektorach, z wyłączeniem przypadków, o których mowa w art. 1 ust. 1 rozporządzenia nr 1407/2013.
+2.
+Wartość dopuszczalnej pomocy de minimis udzielonej jednemu przedsiębiorcy określa się na podstawie art. 3 ust. 2–9 rozporządzenia nr 1407/2013.
+3.
+Pomoc de minimis podlega kumulacji z inną pomocą na zasadach określonych w art. 5 rozporządzenia nr 1407/2013.
+§ 15.
+Podmiotem udzielającym pomocy publicznej lub pomocy de minimis jest Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej.
+§ 16.
+Pomoc publiczna i pomoc de minimis jest udzielana w formie dotacji.
+§ 17.
+Pomoc publiczna lub pomoc de minimis może być udzielona, pod warunkiem że przedsiębiorca złożył wniosek o objęcie przedsięwzięcia wsparciem z planu rozwojowego, zwany dalej „wnioskiem”.
+§ 18.
+1.
+Przedsiębiorca składa wniosek do podmiotu udzielającego pomocy publicznej lub pomocy de minimis , o którym mowa w § 15.
+2.
+Wniosek zawiera:
+1)
+nazwę przedsiębiorcy i informację o jego wielkości;
+2)
+opis przedsięwzięcia, w tym daty jego rozpoczęcia i zakończenia;
+3)
+lokalizację przedsięwzięcia;
+4)
+wykaz kosztów przedsięwzięcia.
+3.
+Podmiot udzielający pomocy publicznej lub pomocy de minimis może zażądać od przedsiębiorcy dodatkowych informacji niezbędnych do dokonania oceny wniosku.
+4.
+Po przeprowadzeniu oceny wniosku uwzględniającej:
+1)
+cel pomocy,
+2)
+koszty kwalifikowalne,
+3)
+wartość dopuszczalnej pomocy,
+4)
+kryteria wyboru przedsięwzięć określone przez instytucję odpowiedzialną za realizację inwestycji zgodnie z art. 14lzb ust. 1 i 2 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju
+pomoc publiczna lub pomoc de minimis może zostać udzielona przedsiębiorcy na podstawie umowy o objęcie przedsięwzięcia wsparciem bezzwrotnym z planu rozwojowego, o której mowa w art. 14lzh ust. 2 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
+§ 19.
+1.
+Pomoc de minimis jest udzielana do końca okresu, o którym mowa w art. 7 ust. 4 w związku z art. 8 rozporządzenia nr 1407/2013.
+2.
+Pomoc publiczna jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4 zdanie pierwsze w związku z art. 59 rozporządzenia nr 651/2014.
+§ 20.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+1) Minister Rozwoju i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39. 3) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 215 z 07.07.2020, str. 3.
 

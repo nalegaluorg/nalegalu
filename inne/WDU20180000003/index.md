@@ -22,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-08 |
 | Data wydania | 2018-01-02 |
+| Wejście w życie | 2018-01-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000003) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/3/text.pdf) |
 
@@ -39,12 +40,12 @@ source: "isap-pdf"
 
 4. Właściwa komisja sejmowa ustala listę kandydatów wybierając, spośród kandydatów wskazanych trybie 2 3, piętnastu kandydatów członków Rady, zastrzeżeniem, że liście uwzględnia się co najmniej jednego kandydata wskazanego każdy klub poselski, który działał terminie sześćdziesięciu pierwszego
 
-2. W przypadku, którym mowa 1, do wyboru członka stosuje się przepisy 9a 1 2 11d.
+2. W przypadku, którym mowa 1, do wyboru stosuje się przepisy 9a 1 2 11d.
 
-3. Kadencja członka wybranego związku potrzebą ponownego obsadzenia mandatu upływa dniem zakończenia kadencji członków wybranych spośród sędziów.”;
+3. Kadencja wybranego związku potrzebą ponownego obsadzenia mandatu upływa dniem zakończenia kadencji członków wybranych spośród sędziów.”;
 
 - **4)** uchyla się 12 13;
-- **5)** 14 3 otrzymuje brzmienie: „3. Wybór nowego członka spośród posłów lub senatorów powinien być dokonany terminie dwóch miesięcy wygaśnięcia mandatu.”;
+- **5)** 14 3 otrzymuje brzmienie: „3. Wybór nowego spośród posłów lub senatorów powinien być dokonany terminie dwóch miesięcy wygaśnięcia mandatu.”;
 - **6)** 20 1 dodaje się zdanie drugie trzecie brzmieniu: „Obrady są transmitowane za pośrednictwem Internetu, chyba że Rada podejmie uchwałę wyłączeniu jawności posiedzenia. Rada wyłącza jawność posiedzenia całości lub części, jeżeli jawność mogłaby prowadzić do ujawnienia informacji podlegających ochronie zasadach określonych ustawie 5 sierpnia 2010 ochronie informacji niejawnych (Dz. U. 2016 poz. 1167 1948 2017 poz. 935) lub naruszyć ważny interes prywatny ujawnienie danych, których mowa 27 1 ustawy 29 sierpnia 1997 ochronie danych osobowych (Dz. U. 2016 poz. 922).”;
 - **7)** 21 2 dodaje się 2a–2c brzmieniu: „2a. W uzasadnionych przypadkach Przewodniczący może zarządzić przeprowadzenie głosowania trybie obiegowym za pośrednictwem poczty elektronicznej. Przewodniczący przekazuje materiały zawierające dane osobowe sposób zapewniający ich ochronę, a także zawiadamia członków sposobie oddania głosu nieprzekraczalnym terminie, którym oświadczenie oddaniu głosu „za”, głosu „przeciw” albo wstrzymaniu się głosu przekazuje się adres poczty elektronicznej wskazany Przewodniczącego Rady.
 

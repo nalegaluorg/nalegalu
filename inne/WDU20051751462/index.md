@@ -8,12 +8,10 @@ pos: 1462
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie niektórych ustaw związku ze zmianami podziale zadań i kompetencji administracji terenowej
-
-*USTAWA z dnia 29 lipca 2005 r.*
+# Ustawa z dnia 29 lipca 2005 r. o zmianie niektórych ustaw w związku ze zmianami w podziale zadań i kompetencji administracji terenowej
 
 | Pole | Wartość |
 |---|---|
@@ -24,97 +22,627 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2005-07-29 |
 | Data wydania | 2005-09-12 |
+| Wejście w życie | 2006-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051751462) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1462/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 28 marca 1933 r. o grobach i cmentarzach wojennych (Dz. U. 39, 311, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 28 marca 1933 r. o grobach i cmentarzach wojennych (Dz. U. Nr 39, poz. 311, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2002 r. 171, 1396, z późn. zm. ) wprowadza się następujące zmiany:
+- **1)** po art. 1 dodaje się art. 1a w brzmieniu: „ Zadania, o których mowa w art. 4 ust. 1 i 2 oraz art. 5, są zadaniami z zakresu administracji rządowej. ” ;
+- **2)** użyty w art. 4 w ust. 1 i 2, w różnym przypadku, wyraz „Władza” zastępuje się użytymi w odpowiednim przypadku wyrazami „Wójt (burmistrz, prezydent miasta)”;
+- **3)** użyty w art. 5 dwukrotnie wyraz „władzy” zastępuje się wyrazem „wojewody”;
+- **4)** w art. 6: ust. 1 otrzymuje brzmienie: „
+    - **a)**
 
-**Art. 3.** W ustawie z dnia 6 kwietnia 1984 r. o fundacjach (Dz. U. z 1991 r. 46, 203, z późn. zm. ) wprowadza się następujące zmiany:
+1. Groby i cmentarze wojenne pozostają pod opieką Państwa; zwierzchni nadzór nad nimi sprawuje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, z zachowaniem uprawnień przysługujących związkom wyznaniowym oraz wójtom (burmistrzom, prezydentom miast) na podstawie ustawy z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 2000 r. Nr 23, poz. 295, z późn. zm.). ” , ust. 3 i 4 otrzymują brzmienie: „
 
-**Art. 4.** W ustawie z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U z 1993 r. 94, 431, z późn. zm. ) wprowadza się następujące zmiany:
+- **b)**
 
-**Art. 6.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2002 r. 9, 84, z późn. zm. ) art. 17:
+3. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego może, w drodze porozumienia, powierzyć gminie obowiązek utrzymania grobów i cmentarzy wojennych z jednoczesnym przekazaniem odpowiednich funduszy, jeżeli gmina nie przejmie tego obowiązku bezpłatnie.
 
-**Art. 8.** W ustawie z dnia 4 lutego 1994 r. - Prawo geologiczne i górnicze (Dz. U. 27, 96, z późn. zm. ) wprowadza się następujące zmiany:
+4. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego może powierzyć fundacjom, stowarzyszeniom i instytucjom społecznym, za ich zgodą, obowiązek utrzymania grobów i cmentarzy wojennych. ” .
 
-**Art. 9.** W ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. 111, 535, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2002 r. Nr 171, poz. 1396, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 10.** W ustawie z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2004 r. 121, 1266) wprowadza się następujące zmiany:
+- **1)** w art. 4 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
 
-**Art. 12.** W ustawie z dnia 10 kwietnia 1997 r. - Prawo energetyczne (Dz. U. z 2003 r. 153, 1504, z późn. zm. ) wprowadza się następujące zmiany:
+2. Zadania, o których mowa w art. 51b, art. 51f ust. 2, art. 51g ust. 1, 2, 4 i 5, art. 51h oraz art. 51j ust. 1 i 2, są zadaniami z zakresu administracji rządowej. ” ;
 
-**Art. 14.** W ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz. U. z 2005 r. 108, 908 i 109, 925) wprowadza się następujące zmiany:
+- **2)** użyty w art. 51b, w art. 51f w ust. 2, w art. 51g w ust. 1, 2, 4 i 5, w art. 51h oraz w art. 51j w ust. 1 i 2, w różnej liczbie i przypadku, wyraz „wojewoda” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „marszałek województwa”.
 
-**Art. 15.** W ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2003 r. 106, 1002, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 6 kwietnia 1984 r. o fundacjach (Dz. U. z 1991 r. Nr 46, poz. 203, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 2b.** Minister właściwy do spraw turystyki jest organem wyższego stopnia stosunku do marszałka województwa sprawach, o których mowa art. 9 ust. 3, art. 24 ust. 1, art. 28 ust. 1, art. 39a ust. 3, art. 42 ust. 1, oraz od decyzji marszałka województwa o odmowie wpisu do rejestru, o którym mowa art. 4 ust. 1.”;
+- **1)** w art. 9 ust. 2 otrzymuje brzmienie: „
 
-**Art. 17.** W ustawie z dnia 5 czerwca 1998 r. o administracji rządowej województwie (Dz. U. z 2001 r. 80, 872, z późn. zm. ) wprowadza się następujące zmiany:
+2. O wpisaniu fundacji do Krajowego Rejestru Sądowego sąd zawiadamia ministra właściwego ze względu na zakres jego działania oraz cele fundacji, zwanego dalej „właściwym ministrem”, oraz właściwego ze względu na siedzibę fundacji starostę, przesyłając jednocześnie statut. ” ;
 
-**Art. 18.** W ustawie z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. 88, 983, z 2003 r. 229, 2273 oraz z 2004 r. 162, 1694) wprowadza się następujące zmiany:
+- **2)** użyty w art. 12 w ust. 1 oraz w art. 13, w różnym przypadku, wyraz „wojewoda” zastępuje się użytym w odpowiednim przypadku wyrazem „starosta”;
+- **3)** po art. 15 dodaje się art. 15a w brzmieniu: „
 
-**Art. 19.** W ustawie z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska (Dz. U. 62, 627, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 15a.**
 
-**Art. 20.** W ustawie z dnia 27 kwietnia 2001 r. o odpadach (Dz. U. 62, 628, z późn. zm. ) wprowadza się następujące zmiany:
+1. W stosunku do fundacji korzystającej ze środków publicznych i prowadzącej działalność na obszarze całego kraju, w zakresie działalności prowadzonej na obszarze właściwości miejscowej samorządu powiatowego, starosta wykonuje uprawnienia wynikające z przepisów art. 12–15.
 
-**Art. 21.** W ustawie z dnia 18 lipca 2001 r. - Prawo wodne (Dz. U. 115, 1229, z późn. zm. ) wprowadza się następujące zmiany:
+2. Zadania starosty, o których mowa w ustawie, są zadaniami z zakresu administracji rządowej. ” .
 
-**Art. 22.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2004 r. 204, 2088, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 1993 r. Nr 94, poz. 431, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 24.** (uchylony).
+- **1)** po art. 3a dodaje się art. 3b w brzmieniu: „ Zadania sejmiku województwa, o których mowa w art. 5 ust. 2 i art. 13b ust. 2, są zadaniami z zakresu administracji rządowej. ” ;
+- **2)** w art. 5 ust. 2 otrzymuje brzmienie: „
 
-**Art. 25.** W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. 96, 873, z późn. zm. ) użyty art. 29 ust. 5 oraz art. 33 ust. 1, różnej liczbie i przypadku, wyraz „wojewoda” zastępuje się użytymi odpowiedniej liczbie i przypadku wyrazami „marszałek województwa”.
+2. Sejmik województwa na wniosek rady gminy może, po zasięgnięciu opinii izby rolniczej, w szczególnych, gospodarczo uzasadnionych wypadkach zaliczyć niektóre gminy do innego okręgu podatkowego niż określony w rozporządzeniu, o którym mowa w ust. 1, jednakże nie może to spowodować zmniejszenia liczby hektarów przeliczeniowych dla tego województwa o więcej niż 1,5%. ” ;
 
-**Art. 26.** W ustawie z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. 122, 1143 oraz z 2004 r. 69, 624 i 99, 1001) wprowadza się następujące zmiany:
+- **3)** w art. 13b ust. 2 otrzymuje brzmienie: „
 
-**Art. 27.** W ustawie z dnia 26 czerwca 2003 r. o nasiennictwie (Dz. U. 137, 1299 oraz z 2004 r. 96, 959, 173, 1808 i 273, 2703) art. 34:
+2. Za miejscowości położone na terenach podgórskich i górskich uważa się miejscowości, w których co najmniej 50% użytków rolnych jest położonych powyżej 350 m nad poziomem morza. Wykaz tych miejscowości w danym województwie ustala sejmik województwa. ” .
 
-**Art. 28.** W ustawie z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego (Dz. U. 223, 2221, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 1999 r. Nr 66, poz. 750, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 29.** (uchylony).
+- **1)** po art. 1 dodaje się art. 1a w brzmieniu: „ Zadania samorządu województwa, o których mowa w art. 6 ust. 2a, 2b i 3, art. 15 ust. 2 i 2b, art. 17 ust. 1, 3 i 4, art. 18, art. 20 ust. 3b, art. 27b ust. 2, są zadaniami z zakresu administracji rządowej. ” ;
+- **2)** użyty w art. 6 w ust. 2a, 2b i 3 oraz w art. 20 w ust. 3b, w różnym przypadku, wyraz „wojewoda” zastępuje się użytymi w odpowiednim przypadku wyrazami „zarząd województwa”;
+- **3)** w art. 15: ust. 2 otrzymuje brzmienie: „
+    - **a)**
 
-**Art. 30.** W ustawie z dnia 12 marca 2004 r. o krajowym systemie ekozarządzania i audytu (EMAS) (Dz. U. 70, 631) wprowadza się następujące zmiany:
+2. Obręby ochronne ustanawia lub znosi zarząd województwa. ” , po ust. 2a dodaje się ust. 2b w brzmieniu: „
 
-**Art. 31.** (uchylony).
+- **b)**
 
-**Art. 32.** Odwołania od decyzji starostów, wydanych sprawach należących do właściwości administracji geologicznej, rozpatrują samorządowe kolegia odwoławcze, jeżeli zostały wszczęte a niezakończone przed dniem wejścia życie ustawy.
+2b. Obręby hodowlane ustanawia lub znosi marszałek województwa, w drodze decyzji, na wniosek uprawnionego do rybactwa. ” ;
+
+- **4)** w art. 17: w ust. 1 i 3 wyraz „wojewoda” zastępuje się wyrazami „zarząd województwa”, dodaje się ust. 4 w brzmieniu: „
+    - **a)**
+    - **b)**
+
+4. Uchwałę zarządu województwa podjętą w sprawie, o której mowa w ust. 3, ogłasza się w sposób zwyczajowo przyjęty oraz publikuje w wojewódzkim dzienniku urzędowym. ” ;
+
+- **5)** art. 18 otrzymuje brzmienie: „
+
+**Art. 18.**
+
+1. W obwodach rybackich, przez które przebiega granica województw, w sprawach dotyczących rybactwa właściwy jest zarząd tego województwa, na którego terenie znajduje się większa część powierzchni obwodu rybackiego. W innych przypadkach właściwość miejscową w sprawach dotyczących rybactwa ustalają, w drodze porozumienia, zainteresowane zarządy województw.
+
+2. W obwodach rybackich, przez które przebiega granica powiatów, w sprawach dotyczących rybactwa właściwy jest starosta tego powiatu, na którego terenie znajduje się większa część powierzchni obwodu rybackiego. W innych przypadkach właściwość miejscową w sprawach dotyczących rybactwa ustalają, w drodze porozumienia, zainteresowani starostowie. ” ;
+
+- **6)** w art. 27b ust. 2 otrzymuje brzmienie: „
+
+2. Orzekanie w sprawach określonych w ust. 1 następuje w trybie przewidzianym przepisami Kodeksu postępowania w sprawach o wykroczenia, na podstawie wniosku o ukaranie złożonego przez właściwy zarząd województwa. ” .
+
+**Art. 6.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2002 r. Nr 9, poz. 84, z późn. zm.) w art. 17:
+
+- **1)** ust. 3 otrzymuje brzmienie: „
+
+3. Rada Ministrów, w drodze rozporządzenia, określa minimalne warunki, jakie powinna spełniać miejscowość, w której można pobierać opłatę miejscową, uwzględniając zróżnicowanie warunków regionalnych i lokalnych. ” ;
+
+- **2)** dodaje się ust. 4 i 5 w brzmieniu: „
+
+4. Rada Ministrów w rozporządzeniu, o którym mowa w ust. 3, określa warunki:
+
+- **1)** klimatyczne,
+- **2)** krajobrazowe,
+- **3)** umożliwiające pobyt osób w celach wypoczynkowych, zdrowotnych, szkoleniowych lub turystycznych.
+
+5. Rada gminy ustala miejscowości odpowiadające warunkom określonym w przepisach wydanych na podstawie ust. 3 i 4, w których pobiera się opłatę miejscową. ” .
+
+**Art. 7.** W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2005 r. Nr 45, poz. 435, Nr 157, poz. 1315, Nr 167, poz. 1399 i Nr 175, poz. 1460) wprowadza się następujące zmiany:
+
+- **1)** w art. 5: w ust. 1 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** starosta – w lasach niestanowiących własności Skarbu Państwa. ” , ust. 2 i 3 otrzymują brzmienie: „
+    - **b)**
+
+2. W przypadku lasu, który obejmuje obszar więcej niż jednego powiatu, właściwy miejscowo jest starosta powiatu, na którego terenie znajduje się większa część tego lasu. Starosta ten może powierzyć, w drodze porozumienia, prowadzenie w jego imieniu spraw z zakresu nadzoru, o którym mowa w ust. 1 pkt 2, w tym wydawanie decyzji administracyjnych w pierwszej instancji, dyrektorowi regionalnej dyrekcji Lasów Państwowych.
+
+3. W przypadku lasów, które znajdują się na terenie powiatu, starosta może powierzyć, w drodze porozumienia, prowadzenie w jego imieniu spraw z zakresu nadzoru, o którym mowa w ust. 1 pkt 2, w tym wydawanie decyzji administracyjnych w pierwszej instancji, nadleśniczemu Lasów Państwowych, zwanemu dalej „nadleśniczym”. ” , ust. 4 otrzymuje brzmienie: „
+
+- **c)**
+
+4. Dyrektor regionalnej dyrekcji Lasów Państwowych i nadleśniczy prowadzą powierzone przez starostę sprawy, o których mowa w ust. 2 i 3, po zapewnieniu przez powierzającego środków finansowych na te cele. ” , dodaje się ust. 5 w brzmieniu: „
+
+- **d)**
+
+5. Zadania starosty, o których mowa w art. 13 ust. 3 pkt 2, art. 16 ust. 1a, art. 22 ust. 2 i art. 38a ust. 2, są zadaniami z zakresu administracji rządowej. ” ;
+
+- **2)** w art. 13 w ust. 3 pkt 2 otrzymuje brzmienie: „
+- **2)** w stosunku do lasów niestanowiących własności Skarbu Państwa decyzję wydaje starosta na wniosek właściciela lasu. ” ;
+- **3)** w art. 16 ust. 1a otrzymuje brzmienie: „
+
+1a. Starosta, po uzgodnieniu z właścicielem lasu i po zasięgnięciu opinii rady gminy, w drodze decyzji, uznaje las za ochronny lub pozbawia go tego charakteru – w odniesieniu do pozostałych lasów. ” ;
+
+- **4)** w art. 22 ust. 2 otrzymuje brzmienie: „
+
+2. Starosta, po uzyskaniu opinii właściwego terytorialnie nadleśniczego, zatwierdza uproszczony plan urządzenia lasu. ” ;
+
+- **5)** w art. 35a w ust. 2 pkt 2 otrzymuje brzmienie: „
+- **2)** pracownikom starostw bezpośrednio zajmującym się nadzorem nad gospodarką leśną w lasach niestanowiących własności Skarbu Państwa; ” ;
+- **6)** w art. 38a ust. 2 otrzymuje brzmienie: „
+
+2. Ustanowienie trwałego zarządu stwierdza starosta w drodze decyzji. ” ;
+
+- **7)** w art. 40 w ust. 1 zdanie wstępne otrzymuje brzmienie: „ Dyrektor Generalny, na wniosek zainteresowanego ministra lub organu wykonawczego jednostki samorządu terytorialnego, może przekazać w użytkowanie wskazanej przez wnioskodawcę jednostce organizacyjnej lasy, grunty oraz inne nieruchomości, bez zmiany ich dotychczasowego przeznaczenia, jeżeli za tym przemawiają względy: ” .
+
+**Art. 8.** W ustawie z dnia 4 lutego 1994 r. – Prawo geologiczne i górnicze (Dz. U. Nr 27, poz. 96, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 14 ust. 2 otrzymuje brzmienie: „
+
+2. W odniesieniu do działalności, na którą ustawa nie wymaga koncesji, uprawnienia Skarbu Państwa, określone w art. 7 ust. 2, wykonują zarządy województw. W odniesieniu do takiej działalności, lecz prowadzonej w granicach obszarów morskich Rzeczypospolitej Polskiej, organem właściwym jest minister właściwy do spraw środowiska, działający w porozumieniu z ministrem właściwym do spraw gospodarki morskiej. ” ;
+
+- **2)** w art. 16: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. Z zastrzeżeniem przepisów ust. 1 i 2a, koncesji na poszukiwanie, rozpoznawanie lub wydobywanie kopalin podstawowych i pospolitych udziela marszałek województwa. ” , w ust. 3 pkt 6 otrzymuje brzmienie: „
+
+- **b)**
+- **6)** działalność, o której mowa w ust. 2a, wymaga uzgodnienia z właściwym organem nadzoru górniczego oraz zaopiniowania przez właściwego marszałka województwa. ” ;
+- **3)** w art. 31 w ust. 1a pkt 2 otrzymuje brzmienie: „
+- **2)** marszałek województwa – w odniesieniu do osób ubiegających się o uzyskanie uprawnień do wykonywania czynności dozoru geologicznego nad pracami geologicznymi, z wyjątkiem badań geofizycznych oraz uprawnień do kierowania w terenie robotami geologicznymi wykonywanymi poza granicami obszaru górniczego, wykonywanymi bez użycia materiałów wybuchowych, albo gdy projektowana głębokość wyrobiska nie przekracza 100 m. ” ;
+- **4)** w art. 84 po ust. 10 dodaje się ust. 10a w brzmieniu: „
+
+10a. W postępowaniu w sprawie wydania decyzji, o której mowa w ust. 10, gmina może uczestniczyć na prawach strony. ” ;
+
+- **5)** w art. 101 pkt 2 otrzymuje brzmienie: „
+- **2)** marszałkowie województw, działający przy pomocy geologów wojewódzkich, ” ;
+- **6)** w art. 103: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Starostowie działają jako organy pierwszej instancji w sprawach należących do właściwości administracji geologicznej, jeżeli nie zostały one zastrzeżone dla marszałków województw lub ministra właściwego do spraw środowiska. ” , w ust. 3 zdanie wstępne otrzymuje brzmienie: „ Do właściwości marszałków województw, jako organów pierwszej instancji, należą sprawy: ” , dodaje się ust. 4 w brzmieniu: „
+
+- **b)**
+- **c)**
+
+4. Od decyzji organów pierwszej instancji, o których mowa w ust. 3, przysługuje odwołanie do ministra właściwego do spraw środowiska. ” ;
+
+- **7)** w art. 103a uchyla się ust. 4;
+- **8)** po art. 103a dodaje się art. 103b w brzmieniu: „
+
+**Art. 103b.** Zadania samorządu województwa, o których mowa w art. 14 ust. 2, art. 16 ust. 2 i 3 pkt 6, art. 31 ust. 1a pkt 2 oraz art. 103 ust. 3, są zadaniami z zakresu administracji rządowej. ” .
+
+**Art. 9.** W ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. Nr 111, poz. 535, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 6 dodaje się ust. 3 w brzmieniu: „
+
+3. Zadania, o których mowa w art. 18 ust. 6 pkt 2 i art. 46 ust. 2b, są zadaniami z zakresu administracji rządowej. ” ;
+
+- **2)** użyty w art. 18 w ust. 6 w pkt 2 oraz w art. 46 w ust. 2b, w różnym przypadku, wyraz „wojewoda” zastępuje się użytymi w odpowiednim przypadku wyrazami „marszałek województwa”.
+
+**Art. 10.** W ustawie z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2004 r. Nr 121, poz. 1266) wprowadza się następujące zmiany:
+
+- **1)** w art. 5 dodaje się ust. 3 w brzmieniu: „
+
+3. Zadania marszałka województwa, o których mowa w art. 7 ust. 2 i 4 oraz w art. 26 ust. 1, są zadaniami z zakresu administracji rządowej. ” ;
+
+- **2)** użyty w art. 7 w ust. 2 i 4 oraz w art. 26 w ust. 1, w różnej liczbie i przypadku, wyraz „wojewoda” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „marszałek województwa”;
+- **3)** w art. 7 dodaje się ust. 6 w brzmieniu: „
+
+6. W sprawach dotyczących wyrażania zgody, o której mowa w ust. 2 pkt 3 i 4, organem wyższego stopnia jest minister właściwy do spraw rozwoju wsi. ” .
+
+**Art. 11.** W ustawie z dnia 13 października 1995 r. – Prawo łowieckie (Dz. U. z 2005 r. Nr 127, poz. 1066) wprowadza się następujące zmiany:
+
+- **1)** art. 7 otrzymuje brzmienie: „ Jeżeli ustawa nie stanowi inaczej, administrację w zakresie łowiectwa sprawuje samorząd województwa jako zadanie z zakresu administracji rządowej. ” ;
+- **2)** użyty w art. 8 w ust. 3e, w art. 17 w ust. 2, w art. 44 w ust. 2, w różnej liczbie i przypadku, wyraz „wojewoda” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „marszałek województwa”;
+- **3)** w art. 18 w ust. 3 pkt 3 otrzymuje brzmienie: „
+- **3)** blokadzie środków finansowych na rachunku bankowym, na rzecz właściwego zarządu województwa, w wysokości 4% rocznego przychodu z tytułu wykonywania przez przedsiębiorcę działalności gospodarczej, o której mowa w art. 17 ust. 1, uzyskanego w roku obrotowym poprzedzającym rok zawarcia umowy, jednak nie mniej niż równowartość w złotych 20 000 euro obliczoną według średniego kursu walut obcych ogłaszanego przez Narodowy Bank Polski ostatniego dnia miesiąca poprzedzającego miesiąc, w którym została dokonana blokada środków. ” ;
+- **4)** w art. 27 ust. 1 i 2 otrzymują brzmienie: „
+
+1. Podziału na obwody łowieckie oraz zmiany granic tych obwodów dokonuje w obrębie województwa właściwy sejmik województwa, w drodze uchwały, po zasięgnięciu opinii właściwego dyrektora regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe i Polskiego Związku Łowieckiego, a także właściwej izby rolniczej.
+
+2. Jeżeli obwód łowiecki ma się znajdować w obszarze więcej niż jednego województwa, uchwałę, o której mowa w ust. 1, podejmuje sejmik województwa właściwy dla przeważającego obszaru gruntów w uzgodnieniu z sejmikiem województwa właściwym dla pozostałego gruntu. ” ;
+
+- **5)** w art. 43 w ust. 2 w pkt 1 lit. a otrzymuje brzmienie: „ konieczność zapewnienia w składzie komisji egzaminacyjnej przedstawicieli Polskiego Związku Łowieckiego, zarządu województwa, Państwowego Gospodarstwa Leśnego Lasy Państwowe i Policji, ” ;
+    - **a)**
+
+- **6)** w art. 48 pkt 2 otrzymuje brzmienie: „
+- **2)** posiadaczom uszkodzonych upraw lub płodów rolnych, którzy nie dokonali ich sprzętu w terminie odbiegającym więcej niż 14 dni od dnia zakończenia okresu zbioru tego gatunku roślin w danym regionie, określonego przez zarząd województwa; ” ;
+- **7)** w art. 50 w ust. 2 pkt 2 otrzymuje brzmienie: „
+- **2)** obwodów łowieckich polnych i obszarach niewchodzących w skład obwodów łowieckich odszkodowania wypłaca zarząd województwa ze środków budżetu państwa. ” .
+
+**Art. 12.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2003 r. Nr 153, poz. 1504, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** art. 17 otrzymuje brzmienie: „
+
+**Art. 17.** Samorząd województwa uczestniczy w planowaniu zaopatrzenia w energię i paliwa na obszarze województwa w zakresie określonym w art. 19 ust. 5 oraz bada zgodność planów zaopatrzenia w energię i paliwa z polityką energetyczną państwa. ” ;
+
+- **2)** w art. 19 ust. 5 otrzymuje brzmienie: „
+
+5. Projekt założeń podlega opiniowaniu przez samorząd województwa w zakresie koordynacji współpracy z innymi gminami oraz w zakresie zgodności z polityką energetyczną państwa. ” ;
+
+- **3)** w art. 20: uchyla się ust. 3, ust. 5 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+5. W celu realizacji planu, o którym mowa w ust. 1, gmina może zawierać umowy z przedsiębiorstwami energetycznymi. ” .
+
+**Art. 13.** W ustawie z dnia 24 kwietnia 1997 r. o przeciwdziałaniu narkomanii (Dz. U. z 2003 r. Nr 24, poz. 198 i Nr 122, poz. 1143 oraz z 2004 r. Nr 238, poz. 2390) wprowadza się następujące zmiany:
+
+- **1)** w art. 3 po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+1a. Zadania samorządu województwa, o których mowa w art. 15 ust. 2, art. 33 ust. 2 i 4 oraz art. 34 ust. 1 pkt 2, są zadaniami z zakresu administracji rządowej. ” ;
+
+- **2)** użyty w art. 15 w ust. 2, w art. 33 w ust. 4, w art. 34 w ust. 1 w pkt 2, w różnym przypadku, wyraz „wojewoda” zastępuje się użytymi w odpowiednim przypadku wyrazami „marszałek województwa”;
+- **3)** w art. 33 ust. 2 otrzymuje brzmienie: „
+
+2. Sejmik województwa, na wniosek marszałka województwa, działającego w porozumieniu z ministrem właściwym do spraw zdrowia oraz z ministrem właściwym do spraw rolnictwa, określa w formie uchwały ogólną powierzchnię przeznaczaną corocznie pod uprawy maku lub konopi włóknistych oraz rejonizację tych upraw. ” .
+
+**Art. 14.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908 i Nr 109, poz. 925) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 dodaje się ust. 3 w brzmieniu: „
+
+3. Zadania samorządu województwa, o których mowa w art. 75a ust. 1, 3, 5 i 9, art. 97 ust. 3, art. 98 ust. 5, art. 110 ust. 1 pkt 10, art. 111 ust. 1, art. 112 ust. 1, art. 113 ust. 1, art. 114 ust. 3, art. 122 ust. 8 i 9, art. 124a ust. 3 i 10, art. 124b ust. 1–3 i 5, art. 140 ust. 4, art. 140g ust. 2, art. 140i i art. 140k, są zadaniami z zakresu administracji rządowej. ” ;
+
+- **2)** użyty w art. 75a w ust. 1 w zdaniu wstępnym, w ust. 3, 5 i 9, w art. 110 w ust. 1 w pkt 10, w art. 111 w ust. 1, w art. 112 w ust. 1, w art. 113 w ust. 1, w art. 122 w ust. 8, w art. 124a w ust. 3 i 10, w art. 124b w ust. 1–3 i 5, w art. 140g w ust. 2 i w art. 140k, w różnym przypadku, wyraz „wojewoda” zastępuje się użytymi w odpowiednim przypadku wyrazami „marszałek województwa”;
+- **3)** użyte w art. 97 w ust. 3, w art. 98 w ust. 5, w art. 114 w ust. 3, w art. 122 w ust. 9, w art. 140 w ust. 4 wyrazy „wojewoda mazowiecki” zastępuje się wyrazami „marszałek województwa mazowieckiego”;
+- **4)** art. 140i otrzymuje brzmienie: „
+
+**Art. 140i.** W skład Wojewódzkiej Rady wchodzą:
+
+- **1)** przewodniczący – marszałek województwa;
+- **2)** zastępcy przewodniczącego: wojewoda, wojewódzki komendant Policji;
+    - **a)**
+    - **b)**
+
+- **3)** sekretarz – wskazany przez marszałka województwa;
+- **4)** członkowie Wojewódzkiej Rady wskazani przez wojewodę, zarząd województwa, zarządy powiatów, wójtów (burmistrzów, prezydentów miast), komendanta wojewódzkiego Policji, Komendanta Państwowej Straży Pożarnej, dyrektora właściwego oddziału terenowego Generalnej Dyrekcji Dróg Krajowych i Autostrad, zarząd dróg wojewódzkich, zarządy dróg powiatowych, wojewódzkiego kuratora oświaty. ” . W ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2003 r. Nr 106, poz. 1002, z późn. zm.) wprowadza się następujące zmiany:
+- **1)** w art. 8 dodaje się ust. 5 w brzmieniu: „
+
+5. Zadania samorządu województwa, o których mowa w art. 13 ust. 1, art. 22 ust. 1, art. 22a i art. 33a ust. 2, są zadaniami z zakresu administracji rządowej. ” ;
+
+- **2)** użyty w art. 13 w ust. 1, w art. 22 w ust. 1 oraz w art. 22a, w różnym przypadku, wyraz „wojewoda” zastępuje się użytymi w odpowiednim przypadku wyrazami „marszałek województwa”;
+- **3)** w art. 33a ust. 2 otrzymuje brzmienie: „
+
+2. Sejmik województwa, po zasięgnięciu opinii Państwowej Rady Ochrony Przyrody, organizacji społecznej, której statutowym celem działania jest ochrona zwierząt, oraz Polskiego Związku Łowieckiego, określi, w drodze uchwały, miejsce, warunki, czas i sposoby ograniczenia populacji zwierząt, o których mowa w ust. 1. ” .
+
+**Art. 16.** W ustawie z dnia 29 sierpnia 1997 r. o usługach turystycznych (Dz. U. z 2004 r. Nr 223, poz. 2268 i Nr 273, poz. 2703) wprowadza się następujące zmiany:
+
+- **1)** po art. 2 dodaje się art. 2a i 2b w brzmieniu: „ Zadania marszałka województwa, o których mowa w ustawie, są zadaniami z zakresu administracji rządowej. Minister właściwy do spraw turystyki jest organem wyższego stopnia w stosunku do marszałka województwa w sprawach, o których mowa w art. 9 ust. 3, w art. 24 ust. 1, w art. 28 ust. 1, w art. 39a ust. 3, w art. 42 ust. 1, oraz od decyzji marszałka województwa o odmowie wpisu do rejestru, o którym mowa w art. 4 ust. 1. ” ;
+- **2)** użyty w art. 5 w ust. 1 w pkt 3, w ust. 4 i 5, w art. 7 w ust. 1 i 2, w art. 8 w ust. 1, 5, 6 i 9, w art. 9 w ust. 1–3, w art. 10a w pkt 2, w art. 23 w ust. 2, w art. 24 w ust. 1, w art. 24a w ust. 1–3, w art. 25 w ust. 1 i 2, w art. 26 w ust. 2, w art. 27 w pkt 3, w art. 28 w ust. 1–4, w art. 29 w ust. 3–5, w art. 32 w ust. 3, w art. 34 w ust. 1 w pkt 1 i w ust. 2, w art. 38 w ust. 1, w art. 39 w ust. 2 oraz w art. 39a w ust. 2 i 7, w różnej liczbie i przypadku, wyraz „wojewoda” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „marszałek województwa”. W ustawie z dnia 5 czerwca 1998 r. o administracji rządowej w województwie (Dz. U. z 2001 r. Nr 80, poz. 872, z późn. zm.) wprowadza się następujące zmiany:
+- **1)** uchyla się art. 22;
+- **2)** w załączniku uchyla się pkt 19. W ustawie z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. Nr 88, poz. 983, z 2003 r. Nr 229, poz. 2273 oraz z 2004 r. Nr 162, poz. 1694) wprowadza się następujące zmiany:
+- **1)** użyty w art. 7 w ust. 1, w art. 9 w ust. 1, 4 i 5, w art. 10, w art. 11, w art. 12 w ust. 1–3 i 10 oraz w art. 13, w różnym przypadku, wyraz „wojewoda” zastępuje się użytymi w odpowiednim przypadku wyrazami „marszałek województwa”;
+- **2)** w art. 7: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. Minister właściwy do spraw rolnictwa jest organem wyższego stopnia w sprawach, o których mowa w art. 7 ust. 1, art. 10 i 11. ” , dodaje się ust. 3 w brzmieniu: „
+
+- **b)**
+
+3. Zadania marszałka województwa określone w rozdziale 3 są zadaniami z zakresu administracji rządowej. ” .
+
+**Art. 19.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. Nr 62, poz. 627, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** użyty w art. 30 w ust. 2 w pkt 1, w art. 49 w ust. 5 pkt 1, w art. 91 w ust. 3 i 3a, w art. 94 w ust. 2, w art. 95 w ust. 1, w art. 162 w ust. 3, 6 i 7, w art. 163 w ust. 3 w pkt 4 i 5, w ust. 6 i 8, w art. 212 w ust. 2, w art. 346 w ust. 1, w art. 395 w ust. 4, w art. 396 w ust. 1 i 3 w pkt 1, w ust. 4 i 5, w art. 397 w ust. 2, w art. 426 w ust. 2 i 5, w art. 428 w ust. 1, w art. 430 w ust. 2, w art. 434, w art. 435 w ust. 2, 3, 5 i 6, w art. 437 w ust. 1, 4 i 8 oraz w art. 441 w ust. 1, 2 i 4, w różnej liczbie i przypadku, wyraz „wojewoda” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „marszałek województwa”;
+- **2)** w art. 91 ust. 1 otrzymuje brzmienie: „
+
+1. Dla stref, o których mowa w art. 89 ust. 1 pkt 1, sejmik województwa, w terminie 15 miesięcy od dnia otrzymania wyników oceny poziomu substancji w powietrzu i klasyfikacji stref, o których mowa w art. 89, po zasięgnięciu opinii właściwych starostów, określa, w drodze uchwały, program ochrony powietrza mający na celu osiągnięcie dopuszczalnych poziomów substancji w powietrzu. ” ;
+
+- **3)** art. 96 otrzymuje brzmienie: „
+
+**Art. 96.** Sejmik województwa może, w drodze uchwały, w celu zapobieżenia negatywnemu oddziaływaniu na środowisko lub na zabytki określić dla terenu województwa bądź jego części rodzaje lub jakość paliw dopuszczonych do stosowania, a także sposób realizacji i kontroli tego obowiązku. ” ;
+
+- **4)** w art. 119 ust. 2 otrzymuje brzmienie: „
+
+2. Dla terenów, o których mowa w art. 117 ust. 2 pkt 1 i ust. 3, programy uchwala rada powiatu, a dla terenów, o których mowa w art. 117 ust. 2 pkt 2, programy określa, w drodze uchwały, sejmik województwa. ” ;
+
+- **5)** w art. 135 ust. 2 otrzymuje brzmienie: „
+
+2. Obszar ograniczonego użytkowania dla przedsięwzięcia mogącego znacząco oddziaływać na środowisko, o którym mowa w art. 51 ust. 1 pkt 1, lub dla zakładów, lub innych obiektów, gdzie jest eksploatowana instalacja, która jest kwalifikowana jako takie przedsięwzięcie, tworzy sejmik województwa, w drodze uchwały. ” ;
+
+- **6)** w art. 376 po pkt 2 dodaje się pkt 2a i 2b w brzmieniu: „
+- **2a)** sejmik województwa,
+- **2b)** marszałek województwa, ” ;
+- **7)** po art. 377 dodaje się art. 377a w brzmieniu: „
+
+**Art. 377a.** Minister właściwy do spraw środowiska jest organem wyższego stopnia w stosunku do marszałka województwa w sprawach, o których mowa w art. 95 ust. 1, art. 378 ust. 2a, art. 434, art. 435 ust. 3 i 6 oraz art. 441 ust. 1 i 4. ” ;
+
+- **8)** w art. 378: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. Wojewoda jest właściwy w sprawach przedsięwzięć i zdarzeń na terenach zamkniętych. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+
+- **b)**
+
+2a. Marszałek województwa jest właściwy w sprawach:
+
+- **1)** przedsięwzięć i zdarzeń na terenach zakładów, gdzie jest eksploatowana instalacja, która jest kwalifikowana jako przedsięwzięcie mogące znacząco oddziaływać na środowisko, dla którego sporządzenie raportu o oddziaływaniu przedsięwzięcia na środowisko jest obowiązkowe,
+- **2)** przedsięwzięcia mogącego znacząco oddziaływać na środowisko, dla którego sporządzenie raportu o oddziaływaniu przedsięwzięcia na środowisko jest obowiązkowe, realizowanego na terenach innych niż wymienione w pkt 1. ” , dodaje się ust. 4 w brzmieniu: „
+    - **c)**
+
+4. Zadania samorządu województwa, o których mowa w ust. 2a, art. 30 ust. 2 pkt 1, art. 49 ust. 5 pkt 1, art. 91 ust. 1, 3 i 3a, art. 94 ust. 2, art. 95 ust. 1, art. 96, art. 119 ust. 2, art. 135 ust. 2, art. 162 ust. 3, 6 i 7, art. 395 ust. 4, art. 396 ust. 1, 2, 3 pkt 1, ust. 4 i 5, art. 397 ust. 2, art. 426 ust. 2 i 5, art. 428 ust. 1, art. 430 ust. 2, art. 434, art. 435 ust. 3, 5 i 6, art. 437 ust. 1, 2, 4 i 8 oraz art. 441 ust. 1, 2 i 4, są zadaniami z zakresu administracji rządowej. ” ;
+
+- **9)** w art. 396 ust. 2 otrzymuje brzmienie: „
+
+2. Przewodniczącego wojewódzkiej komisji, zastępcę przewodniczącego, sekretarza i członków komisji, w liczbie od 20 do 40, powołuje i odwołuje marszałek województwa w porozumieniu z wojewodą spośród przedstawicieli nauki, praktyki oraz organizacji ekologicznych. ” ;
+
+- **10)** w art. 397 ust. 1 otrzymuje brzmienie: „
+
+1. Wydatki związane z działalnością Krajowej Komisji pokrywane są z części budżetu państwa, której dysponentem jest minister właściwy do spraw środowiska. ” ;
+
+- **11)** w art. 437: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. W skład komisji wchodzi po jednej osobie delegowanej przez wojewódzkiego inspektora ochrony środowiska, marszałka województwa i wójta, burmistrza lub prezydenta miasta, z zastrzeżeniem ust. 3, dysponującej wiedzą fachową w dziedzinie ochrony środowiska. ” , uchyla się ust. 9.
+
+- **b)**
+
+**Art. 20.** W ustawie z dnia 27 kwietnia 2001 r. o odpadach (Dz. U. Nr 62, poz. 628, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** po art. 4 dodaje się art. 4a w brzmieniu: „
+
+1. Minister właściwy do spraw środowiska jest organem wyższego stopnia w stosunku do marszałka województwa w sprawach, o których mowa w art. 13 ust. 4, art. 19 ust. 2 pkt 1, art. 22 ust. 1, art. 26 ust. 2, art. 29, art. 53 ust. 3 pkt 1 oraz art. 54 ust. 2 pkt 1 i ust. 5.
+
+2. Zadania samorządu województwa, o których mowa w art. 13 ust. 4, art. 19 ust. 2 pkt 1 i ust. 4, art. 24 ust. 2 pkt 1, art. 26 ust. 2, art. 29 ust. 3, art. 49 ust. 2 i 4, art. 37 ust. 6, art. 53 ust. 3 pkt 1 oraz art. 54 ust. 2 pkt 1 i ust. 5, są zadaniami z zakresu administracji rządowej. ” ;
+
+- **2)** użyty w art. 13 w ust. 4, w art. 29 w ust. 3 oraz w art. 49 w ust. 2 i 4, w różnej liczbie i przypadku, wyraz „wojewoda” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „marszałek województwa”;
+- **3)** w art. 18 w ust. 4, w art. 19 w ust. 6, w art. 22 w ust. 2, w art. 24 w ust. 9, w art. 26 w ust. 7 i w art. 30 w ust. 7 skreśla się wyrazy „wojewoda lub”;
+- **4)** w art. 19: w ust. 2 pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** marszałek województwa – dla przedsięwzięć lub instalacji, o których mowa w art. 378 ust. 2a ustawy – Prawo ochrony środowiska, ” , ust. 4 otrzymuje brzmienie: „
+    - **b)**
+
+4. Marszałek województwa zatwierdza program gospodarki odpadami niebezpiecznymi, po zasięgnięciu opinii wójta, burmistrza lub prezydenta miasta, właściwego ze względu na miejsce wytwarzania odpadów niebezpiecznych. ” ;
+
+- **5)** w art. 24 w ust. 2 pkt 1 otrzymuje brzmienie: „
+- **1)** marszałek województwa – dla przedsięwzięć lub instalacji, o których mowa w art. 378 ust. 2a ustawy – Prawo ochrony środowiska, ” ;
+- **6)** w art. 26: w ust. 3 pkt 1 otrzymuje brzmienie: „
+    - **a)**
+
+- **1)** marszałek województwa – dla przedsięwzięć lub instalacji, o których mowa w art. 378 ust. 2a ustawy – Prawo ochrony środowiska, ” , ust. 5 otrzymuje brzmienie: „
+    - **b)**
+
+5. Marszałek województwa wydaje zezwolenie na prowadzenie działalności w zakresie odzysku lub unieszkodliwiania odpadów, po zasięgnięciu opinii wójta, burmistrza lub prezydenta miasta, właściwego ze względu na miejsce prowadzenia działalności w zakresie odzysku lub unieszkodliwiania odpadów. ” ;
+
+- **7)** w art. 37 ust. 6 otrzymuje brzmienie: „
+
+6. Na podstawie zbiorczych zestawień danych, o których mowa w ust. 1 i 2, informacji uzyskanych od starostów oraz sprawozdań i informacji, o których mowa w art. 30 ust. 1 i art. 38 ust. 2 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji (Dz. U. Nr 25, poz. 202 i Nr 175, poz. 1458), marszałek województwa prowadzi wojewódzką bazę danych, dotyczącą wytwarzania i gospodarowania odpadami wraz z rejestrem udzielanych zezwoleń w zakresie wytwarzania i gospodarowania odpadami oraz sporządza raport wojewódzki i przekazuje go ministrowi właściwemu do spraw środowiska. ” ;
+
+- **8)** w art. 53 w ust. 3 pkt 1 otrzymuje brzmienie: „
+- **1)** marszałek województwa – dla przedsięwzięć lub instalacji, o których mowa w art. 378 ust. 2a ustawy – Prawo ochrony środowiska, ” ;
+- **9)** w art. 54 w ust. 2 pkt 1 otrzymuje brzmienie: „
+- **1)** marszałek województwa – dla przedsięwzięć lub instalacji, o których mowa w art. 378 ust. 2a ustawy – Prawo ochrony środowiska, ” .
+
+**Art. 21.** W ustawie z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. Nr 115, poz. 1229, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 4 dodaje się ust. 5 w brzmieniu: „
+
+5. Zadania marszałka województwa, o których mowa w art. 15 ust. 2 pkt 2 i art. 140 ust. 2, są zadaniami z zakresu administracji rządowej. ” ;
+
+- **2)** użyty w art. 15 w ust. 2 w pkt 2 i w art. 140 w ust. 2, w różnym przypadku, wyraz „wojewoda” zastępuje się użytymi w odpowiednim przypadku wyrazami „marszałek województwa”.
+
+**Art. 22.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2004 r. Nr 204, poz. 2088, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 51 w ust. 1 pkt 2 otrzymuje brzmienie: „
+- **2)** wojewoda działający za pośrednictwem wojewódzkiego inspektora transportu drogowego, zwanego dalej „wojewódzkim inspektorem”, jako kierownika wojewódzkiej inspekcji transportu drogowego wchodzącej w skład wojewódzkiej administracji zespolonej. ” ;
+- **2)** w art. 53 ust. 4 i 5 otrzymują brzmienie: „
+
+4. Wojewódzkiego inspektora powołuje i odwołuje wojewoda w porozumieniu z Głównym Inspektorem.
+
+5. Zastępcę wojewódzkiego inspektora powołuje i odwołuje wojewoda na wniosek wojewódzkiego inspektora. ” .
+
+**Art. 23.** W ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. Nr 130, poz. 1112, z późn. zm.) w art. 197 ust. 1 otrzymuje brzmienie: „ 1. Na wniosek właściwej jednostki samorządu terytorialnego Prezes Urzędu może zarządzić, aby określona trasa o stosunkowo nieznacznym ruchu, lecz ważna dla miasta lub regionu, była obsługiwana na zasadzie obowiązku użyteczności publicznej, z zachowaniem przez przewoźnika określonych wymagań dotyczących w szczególności ciągłości i regularności przewozów, zdolności przewozowej i poziomu opłat za przewozy, ogłaszając ten fakt w dzienniku urzędowym Urzędu. ” .
+
+**Art. 24.** W ustawie z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg krajowych (Dz. U. Nr 80, poz. 721 i Nr 217, poz. 2124 oraz z 2005 r. Nr 113, poz. 954) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 dodaje się ust. 3 w brzmieniu: „
+
+3. Zadania marszałka województwa, o których mowa w ustawie, są zadaniami z zakresu administracji rządowej. ” ;
+
+- **2)** użyty w art. 2 w ust. 1, w art. 5 w ust. 5, w art. 7 w ust. 2, w art. 8, w art. 14 w ust. 2, w art. 15 w ust. 1, w art. 16 w ust. 1, w art. 17 w ust. 1, w art. 19 w ust. 1, w art. 20 w ust. 4, w art. 24 w ust. 1 i 3, w art. 28 w ust. 1, w art. 29, w art. 30 w ust. 1 oraz w art. 32 w ust. 1 i 2, w różnym przypadku, wyraz „wojewoda” zastępuje się użytymi w odpowiednim przypadku wyrazami „marszałek województwa”.
+
+**Art. 25.** W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. Nr 96, poz. 873, z późn. zm.) użyty w art. 29 w ust. 5 oraz w art. 33 w ust. 1, w różnej liczbie i przypadku, wyraz „wojewoda” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „marszałek województwa”.
+
+**Art. 26.** W ustawie z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. Nr 122, poz. 1143, z 2004 r. Nr 69, poz. 624 i Nr 99, poz. 1001 oraz z 2005 r. Nr 164, poz. 1366) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 dodaje się ust. 5 w brzmieniu: „
+
+5. Zadania marszałka województwa, o których mowa w art. 4 ust. 1, art. 5 ust. 1, 4 i 5, art. 6 ust. 1 i 2 oraz art. 13 ust. 7, są zadaniami z zakresu administracji rządowej. ” ;
+
+- **2)** użyty w art. 4 w ust. 1, w art. 5 w ust. 4 i 5, w art. 6 w ust. 1 i 2 oraz w art. 13 w ust. 7, w różnej liczbie i przypadku, wyraz „wojewoda” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „marszałek województwa”;
+- **3)** w art. 5 ust. 1 otrzymuje brzmienie: „
+
+1. Status Centrum przyznaje marszałek województwa w drodze decyzji administracyjnej, na podstawie wniosku, o którym mowa w art. 4, składanego w terminie 30 kwietnia i 30 września danego roku. ” .
+
+**Art. 27.** W ustawie z dnia 26 czerwca 2003 r. o nasiennictwie (Dz. U. Nr 137, poz. 1299 oraz z 2004 r. Nr 96, poz. 959, Nr 173, poz. 1808 i Nr 273, poz. 2703) w art. 34:
+
+- **1)** ust. 2 otrzymuje brzmienie: „
+
+2. Rejon zamknięty, o którym mowa w ust. 1, tworzy się na wniosek zarządu województwa, po uprzednim uzyskaniu zgody Komisji Europejskiej. ” ;
+
+- **2)** dodaje się ust. 6 w brzmieniu: „
+
+6. Zadanie zarządu województwa, o którym mowa w ust. 2, jest zadaniem z zakresu administracji rządowej. ” .
+
+**Art. 28.** W ustawie z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego (Dz. U. Nr 223, poz. 2221, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** po art. 1 dodaje się art. 1a w brzmieniu: „ Zadania marszałka województwa określone w niniejszej ustawie są zadaniami z zakresu administracji rządowej. ” ;
+- **2)** użyty w art. 2 w ust. 1 i 2, w art. 3, w art. 7 w ust. 1–3 i 10, w art. 8 w ust. 2 w pkt 2, w art. 13 w ust. 1 w pkt 6, w art. 20 w ust. 4 i 5, w art. 29 w ust. 1 i 2, w art. 30 w ust. 3 oraz w art. 31 w ust. 1 w pkt 2, w różnym przypadku, wyraz „wojewoda” zastępuje się użytymi w odpowiednim przypadku wyrazami „marszałek województwa”;
+- **3)** w art. 2 ust. 3 otrzymuje brzmienie: „
+
+3. Minister właściwy do spraw rynków rolnych jest organem wyższego stopnia w stosunku do marszałka województwa w sprawach, o których mowa w ust. 1. ” ;
+
+- **4)** w art. 20 dodaje się ust. 6 w brzmieniu: „
+
+6. Minister właściwy do spraw rynków rolnych jest organem wyższego stopnia w stosunku do marszałka województwa w sprawach, o których mowa w ust. 4. ” ;
+
+- **5)** w art. 29 dodaje się ust. 5 w brzmieniu: „
+
+5. Minister właściwy do spraw rynków rolnych jest organem wyższego stopnia w stosunku do marszałka województwa w sprawach, o których mowa w ust. 1. ” .
+
+**Art. 29.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. Nr 64, poz. 593, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** po art. 21 dodaje się art. 21a w brzmieniu: „
+
+1. Do zadań z zakresu administracji rządowej realizowanych przez samorząd województwa należy:
+
+- **1)** stwierdzanie zgodności programów naprawczych w zakresie osiągania standardów w jednostkach organizacyjnych pomocy społecznej oraz ocena stopnia ich realizacji;
+- **2)** wydawanie i cofanie zezwoleń lub zezwoleń warunkowych na prowadzenie domów pomocy społecznej oraz wydawanie i cofanie zezwoleń na prowadzenie placówek zapewniających całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku, w tym prowadzonych na podstawie przepisów o działalności gospodarczej;
+- **3)** prowadzenie rejestru domów pomocy społecznej, placówek zapewniających całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku, w tym prowadzonych na podstawie przepisów o działalności gospodarczej, placówek opiekuńczo-wychowawczych i ośrodków adopcyjno-opiekuńczych;
+- **4)** koordynowanie działań w zakresie integracji osób posiadających status uchodźcy, w szczególności w zakresie wskazania miejsca zamieszkania uchodźcy;
+- **5)** wyznaczanie, w uzgodnieniu ze starostami powiatów prowadzących ośrodki adopcyjno-opiekuńcze, ośrodka prowadzącego bank danych o dzieciach oczekujących na przysposobienie i kandydatach zakwalifikowanych do pełnienia funkcji rodziny zastępczej oraz o rodzinach zgłaszających gotowość przysposobienia dziecka.
+
+2. Środki na realizację zadań, o których mowa w ust. 1, zapewnia budżet państwa. ” ;
+
+- **2)** art. 22 otrzymuje brzmienie: „ Do zadań wojewody należy:
+- **1)** ustalanie sposobu wykonywania zadań z zakresu administracji rządowej realizowanych przez jednostki samorządu terytorialnego;
+- **2)** realizacja lub zlecanie jednostkom samorządu terytorialnego lub podmiotom niepublicznym zadań wynikających z programów rządowych;
+- **3)** nadzór nad realizacją zadań samorządu gminnego, powiatowego i województwa, w tym nad jakością działalności jednostek organizacyjnych pomocy społecznej oraz nad jakością usług, dla których minister właściwy do spraw zabezpieczenia społecznego określił standardy, w tym standardy opieki i wychowania, a także nad zgodnością zatrudnienia pracowników jednostek organizacyjnych pomocy społecznej z wymaganymi kwalifikacjami;
+- **4)** kontrola jakości usług, o których mowa w pkt 3, wykonywanych przez podmioty niepubliczne na podstawie umowy z organami administracji rządowej i samorządowej;
+- **5)** kontrola placówek zapewniających całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku, w tym prowadzonych na podstawie przepisów o działalności gospodarczej, w zakresie standardów usług socjalno-bytowych i przestrzegania praw tych osób;
+- **6)** sporządzanie sprawozdań oraz przekazywanie ich ministrowi właściwemu do spraw zabezpieczenia społecznego, również w wersji elektronicznej, z zastosowaniem systemu informatycznego;
+- **7)** realizacja zadań określanych przez ministra właściwego do spraw zabezpieczenia społecznego w zakresie utrzymania i rozwoju systemu informatycznego w jednostkach organizacyjnych pomocy społecznej w województwie oraz współfinansowanie i sprawowanie nadzoru nad jego funkcjonowaniem;
+- **8)** ocena stanu i efektywności pomocy społecznej. ” ;
+- **3)** w art. 23: w ust. 1 pkt 3 otrzymuje brzmienie: „
+    - **a)**
+
+- **3)** monitorowanie standardów, o których mowa w art. 22 pkt 3; ” , ust. 3 otrzymuje brzmienie: „
+    - **b)**
+
+3. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, standardy wymagań homologacyjnych i tryb homologacji systemów informatycznych, o których mowa w art. 17 ust. 1 pkt 17, art. 19 pkt 17, art. 21 pkt 7, art. 22 pkt 6, stosowanych w jednostkach organizacyjnych pomocy społecznej, przez wskazanie rodzajów oprogramowania objętych procedurami homologacji, ogólnego zakresu wymagań homologacyjnych, sposobu ogłaszania wymagań, warunków zgłaszania oprogramowania do homologacji, przebiegu procedury homologacji, mając na uwadze jednorodność zakresu i rodzaju danych, która umożliwia ich scalanie w zbiór centralny. ” ;
+
+- **4)** użyty w art. 57 w ust. 1–3, 6 i 7, w art. 67 w ust. 1–3 oraz w art. 84 w ust. 2, w różnym przypadku, wyraz „wojewoda” zastępuje się użytymi w odpowiednim przypadku wyrazami „marszałek województwa”;
+- **5)** w art. 83 ust. 8 otrzymuje brzmienie: „
+
+8. Ośrodek adopcyjno-opiekuńczy wyznaczony przez marszałka województwa w trybie określonym w art. 21a ust. 1 pkt 5 prowadzi bank danych o rodzinach zakwalifikowanych do pełnienia funkcji rodziny zastępczej, rodzinach zgłaszających gotowość przysposobienia dziecka oraz dzieciach oczekujących na przysposobienie, w granicach województwa. ” .
+
+**Art. 30.** W ustawie z dnia 12 marca 2004 r. o krajowym systemie ekozarządzania i audytu (EMAS) (Dz. U. Nr 70, poz. 631) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 pkt 2 otrzymuje brzmienie: „
+- **2)** samorząd województwa, jako zadanie z zakresu administracji rządowej; ” ;
+- **2)** użyty w art. 4 ust. 1, 2, 4 i 5 wyraz „wojewoda” zastępuje się wyrazami „marszałek województwa”;
+- **3)** użyty w art. 7 w ust. 1 i 2, w różnym przypadku, wyraz „wojewoda” zastępuje się użytymi w odpowiednim przypadku wyrazami „marszałek województwa”.
+
+**Art. 31.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. Nr 99, poz. 1001, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** po art. 8 dodaje się art. 8a w brzmieniu: „
+
+1. Do zadań z zakresu administracji rządowej realizowanych przez samorząd województwa należy:
+
+- **1)** sprawowanie kontroli w zakresie określonym w art. 116;
+- **2)** ustalanie kryteriów wydawania przyrzeczeń i zezwoleń na pracę cudzoziemców; kryteria te nie mogą zawierać wymagań dyskryminujących kandydatów ze względu na płeć, wiek, niepełnosprawność, rasę, narodowość, orientację seksualną, przekonania polityczne i wyznanie religijne ani ze względu na przynależność związkową;
+- **3)** wydawanie przyrzeczeń i zezwoleń na pracę cudzoziemców.
+
+2. Kryteria, o których mowa w ust. 1 pkt 2, podlegają ogłoszeniu w wojewódzkim dzienniku urzędowym.
+
+3. W sprawach, o których mowa w ust. 1 pkt 3, organem odwoławczym jest minister właściwy do spraw pracy. ” ;
+
+- **2)** w art. 10: w ust. 2 uchyla się pkt 1, 2 i 5, uchyla się ust. 3;
+    - **a)**
+    - **b)**
+
+- **3)** w art. 87 zdanie pierwsze otrzymuje brzmienie: „ Cudzoziemiec może wykonywać pracę na terytorium Rzeczypospolitej Polskiej, jeżeli posiada zezwolenie na pracę wydane przez marszałka województwa właściwego ze względu na siedzibę pracodawcy. ” ;
+- **4)** w art. 88: ust. 3 otrzymuje brzmienie: „
+    - **a)**
+
+3. W przypadku gdy cudzoziemiec posiada odpowiednią wizę lub zezwolenie na zamieszkanie na czas oznaczony na terytorium Rzeczypospolitej Polskiej, marszałek województwa wydaje decyzję w sprawie zezwolenia na pracę. Marszałek województwa wydaje decyzję w sprawie zezwolenia na pracę także na podstawie dokumentu podróży lub zezwoleń, o których mowa w przepisach o zasadach i warunkach wjazdu i pobytu obywateli państw członkowskich Unii Europejskiej oraz członków ich rodzin na terytorium Rzeczypospolitej Polskiej, lub na podstawie tymczasowego zaświadczenia tożsamości cudzoziemca i zaświadczenia potwierdzającego okres, jaki upłynął od dnia wszczęcia postępowania o nadanie statusu uchodźcy, i okoliczność, że przedłużenie postępowania nie nastąpiło z przyczyn leżących po stronie cudzoziemca. ” , w ust. 5 pkt 2 i 3 otrzymują brzmienie: „
+
+- **b)**
+- **2)** o których mowa w ust. 1 pkt 2 – występuje pracodawca zagraniczny; decyzję w sprawie przyrzeczenia i zezwolenia na pracę wydaje marszałek województwa właściwy ze względu na miejsce realizacji usługi eksportowej;
+- **3)** o których mowa w ust. 3 – występuje pracodawca zagraniczny lub podmiot, u którego będzie wykonywane zadanie określone przez delegującego; decyzję w sprawie przyrzeczenia i zezwolenia na pracę wydaje marszałek województwa właściwy ze względu na siedzibę podmiotu, u którego będzie wykonywane zadanie. ” , ust. 6–9 otrzymują brzmienie: „
+    - **c)**
+
+6. Przyrzeczenie i zezwolenie na pracę cudzoziemca w jednostkach podległych ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego, ministrowi właściwemu do spraw kultury fizycznej i sportu, ministrowi właściwemu do spraw nauki, ministrowi właściwemu do spraw turystyki, ministrowi właściwemu do spraw szkolnictwa wyższego, ministrowi właściwemu do spraw zdrowia, ministrowi właściwemu do spraw oświaty i wychowania oraz Prezesowi Polskiej Akademii Nauk wydaje marszałek województwa, jeżeli zostały spełnione warunki określone w przepisach ustawy oraz w odrębnych przepisach.
+
+7. Przyrzeczenie i zezwolenie na pracę wydaje pracodawcy marszałek województwa, uwzględniając sytuację na lokalnym rynku pracy oraz kryteria, o których mowa w art. 8a ust. 1 pkt 2. Marszałek województwa może, w przypadkach uzasadnionych sytuacją na rynku pracy, ograniczyć rodzaj pracy do czynności zarządzających i reprezentacji podmiotu. Marszałek województwa może także uwzględnić przydatność podmiotu dla rynku pracy i gospodarki.
+
+8. Przyrzeczenie i zezwolenie na pracę cudzoziemca są wydawane na wniosek pracodawcy, na czas określony, dla określonego cudzoziemca i pracodawcy, na określone stanowisko lub rodzaj wykonywanej pracy. Zezwolenie jest wydawane na warunkach określonych w przyrzeczeniu, na okres nie dłuższy niż czas pobytu określony w odpowiedniej wizie lub nie dłuższy niż okres ważności zezwolenia na zamieszkanie na czas oznaczony na terytorium Rzeczypospolitej Polskiej lub zezwolenia, o którym mowa w przepisach o zasadach i warunkach wjazdu i pobytu obywateli państw członkowskich Unii Europejskiej oraz członków ich rodzin na terytorium Rzeczypospolitej Polskiej, lub okres wskazany w zaświadczeniu wydanym na podstawie art. 30a ust. 1 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. Nr 128, poz. 1176, z późn. zm.). W przypadku gdy wydane zostało przyrzeczenie, zezwolenie wydaje się po uzyskaniu pisemnego potwierdzenia pracodawcy o dacie rozpoczęcia wykonywania pracy przez cudzoziemca. Data rozpoczęcia wykonywania przez cudzoziemca pracy nie może być wcześniejsza niż data wydania decyzji w sprawie zezwolenia na pracę. Na wniosek pracodawcy marszałek województwa może przedłużyć przyrzeczenie i zezwolenie na pracę cudzoziemca.
+
+9. Na wniosek właściwego urzędu skarbowego, Zakładu Ubezpieczeń Społecznych lub konsula marszałek województwa przekazuje kopie wydanych decyzji. ” , ust. 11 i 12 otrzymują brzmienie: „
+
+- **d)**
+
+11. Jeżeli odrębne przepisy uzależniają możliwość zajmowania określonego stanowiska, wykonywania zawodu lub prowadzenia innej działalności od uzyskania zgody właściwego organu, pracodawca przed wystąpieniem do marszałka województwa jest obowiązany uzyskać taką zgodę.
+
+12. Przyrzeczenie lub zezwolenie na pracę podlegają uchyleniu przez marszałka województwa, jeżeli:
+
+- **1)** cudzoziemiec wykonuje pracę nielegalnie;
+- **2)** cudzoziemiec utracił uprawnienia do wykonywania pracy;
+- **3)** uległy zmianie okoliczności lub dowody odnoszące się do wydanej decyzji;
+- **4)** ustała przyczyna, dla której zostało udzielone zezwolenie na pracę;
+- **5)** cudzoziemiec wykonujący za pracodawcę będącego jednostką organizacyjną czynności w sprawach z zakresu prawa pracy narusza to prawo; uchylenie przyrzeczenia lub zezwolenia na pracę w przypadku naruszenia przepisów prawa pracy następuje na wniosek właściwego inspektora pracy. ” , ust. 15 otrzymuje brzmienie: „
+    - **e)**
+
+15. Minister właściwy do spraw pracy i marszałek województwa gromadzą i przetwarzają dane dotyczące cudzoziemców, wydawania zezwoleń na pracę, kontroli przestrzegania przepisów ustawy i toczących się w tych sprawach postępowań, w zakresie niezbędnym do realizacji przepisów ustawy. ” ;
+
+- **5)** w art. 90 ust. 5 otrzymuje brzmienie: „
+
+5. Minister właściwy do spraw pracy może określić, w drodze rozporządzenia, przypadki, w których przyrzeczenie i zezwolenie na pracę cudzoziemca są wydawane przez marszałka województwa bez względu na sytuację na lokalnym rynku pracy i kryteria, o których mowa w art. 10 ust. 2 pkt 2, kierując się w szczególności zasadą wzajemności. ” ;
+
+- **6)** w art. 116: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Marszałek województwa sprawuje kontrolę przestrzegania:
+
+- **1)** legalności zatrudnienia, innej pracy zarobkowej, wykonywania działalności oraz wykonywania pracy przez cudzoziemców;
+- **2)** obowiązku informowania powiatowych urzędów pracy o zatrudnianiu bezrobotnego lub powierzeniu mu wykonywania innej pracy zarobkowej;
+- **3)** obowiązku informowania powiatowych urzędów pracy przez bezrobotnych o podjęciu zatrudnienia, innej pracy zarobkowej lub działalności;
+- **4)** obowiązku opłacania składek na Fundusz Pracy;
+- **5)** obowiązku dokonania wpisu do rejestru agencji zatrudnienia w przypadku prowadzenia działalności, której prowadzenie jest uzależnione od uzyskania wpisu do rejestru agencji zatrudnienia;
+- **6)** obowiązku prowadzenia agencji zatrudnienia zgodnie z warunkami określonymi w ustawie. ” , ust. 3a i 3b otrzymują brzmienie: „
+    - **b)**
+
+3a. Marszałek województwa w celu przeprowadzenia kontroli wykonuje czynności wstępne polegające na ustaleniu nazwy kontrolowanej jednostki, okresu kontroli oraz faktu przeprowadzania kontroli w kontrolowanej jednostce przez inny organ kontrolny. Wykonujący czynności wstępne są obowiązani do okazania kontrolowanej jednostce legitymacji służbowej.
+
+3b. Marszałek województwa po zakończeniu czynności wstępnych przeprowadza kontrolę, o której mowa w ust. 1. ” ;
+
+- **7)** art. 117 i 118 otrzymują brzmienie: „
+
+**Art. 117.**
+
+1. Marszałek województwa w zakresie ustalonym w art. 116 ust. 1 oraz organy celne w zakresie określonym w odrębnych przepisach współdziałają w szczególności ze związkami zawodowymi, organizacjami pracodawców, Państwową Inspekcją Pracy, Policją, Zakładem Ubezpieczeń Społecznych, Strażą Graniczną oraz urzędami kontroli skarbowej.
+
+2. Organy Policji, w razie uzasadnionej potrzeby oraz w celu zapewnienia bezpieczeństwa kontrolującym, są obowiązane, na wniosek właściwego marszałka województwa lub odpowiednio organu celnego, do udzielenia stosownej pomocy.
+
+3. Rada Ministrów określi, w drodze rozporządzenia, organizację i tryb przeprowadzania przez marszałków województw i organy celne kontroli oraz sposób ich współdziałania z innymi organami, uwzględniając konieczność zapewnienia sprawności i skuteczności wykonywanej kontroli.
+
+**Art. 118.**
+
+1. Marszałek województwa przekazuje ministrowi właściwemu do spraw pracy w terminie do dnia 31 stycznia wyniki przeprowadzonych w roku poprzednim kontroli oraz ich ocenę.
+
+2. Marszałek województwa niezwłocznie powiadamia ministra właściwego do spraw pracy o przypadkach naruszenia warunków prowadzenia agencji zatrudnienia określonych w ustawie.
+
+3. Marszałek województwa niezwłocznie powiadamia właściwego starostę o stwierdzonych przypadkach naruszenia przepisów ustawy przez bezrobotnego oraz przez pracodawcę. ” .
+
+**Art. 32.** Odwołania od decyzji starostów, wydanych w sprawach należących do właściwości administracji geologicznej, rozpatrują samorządowe kolegia odwoławcze, jeżeli zostały wszczęte a niezakończone przed dniem wejścia w życie ustawy.
 
 **Art. 33.**
 
-1. Z dniem 1 stycznia 2006 r. pracownicy urzędów wojewódzkich, wykonujący do dnia wejścia życie ustawy zadania i kompetencje podlegające przekazaniu jednostkom samorządu terytorialnego, stają się odpowiednio pracownikami urzędu marszałkowskiego lub starostwa powiatowego, z zastrzeżeniem art. 34.
+1. Z dniem 1 stycznia 2006 r. pracownicy urzędów wojewódzkich, wykonujący do dnia wejścia w życie ustawy zadania i kompetencje podlegające przekazaniu jednostkom samorządu terytorialnego, stają się odpowiednio pracownikami urzędu marszałkowskiego lub starostwa powiatowego, z zastrzeżeniem art. 34.
 
-2. Pracodawca jest obowiązany terminie 7 dni od dnia ogłoszenia ustawy zawiadomić na piśmie pracowników wykonujących zadania i kompetencje podlegające przekazaniu na podstawie ustawy o zmianach, jakie mają nastąpić zakresie ich stosunku pracy. Przepis art. 23 § 4 Kodeksu pracy stosuje się czerwca 2006 r., jeżeli przed upływem tego terminu nie zostaną im zaproponowane nowe warunki pracy lub płacy na dalszy okres albo razie nieprzyjęcia do dnia 15 czerwca 2006 r. nowych warunków pracy lub płacy.
+2. Pracodawca jest obowiązany w terminie 7 dni od dnia ogłoszenia ustawy zawiadomić na piśmie pracowników wykonujących zadania i kompetencje podlegające przekazaniu na podstawie ustawy o zmianach, jakie mają nastąpić w zakresie ich stosunku pracy. Przepis art. 231 § 4 Kodeksu pracy stosuje się odpowiednio.
 
-4. Wcześniejsze rozwiązanie stosunku pracy z pracownikiem może nastąpić za wypowiedzeniem. Przepis art. 41 Kodeksu pracy stosuje się odpowiednio.
+3. Stosunek pracy z pracownikami, o których mowa w ust. 1, wygasa z dniem 30 czerwca 2006 r., jeżeli przed upływem tego terminu nie zostaną im zaproponowane nowe warunki pracy lub płacy na dalszy okres albo w razie nieprzyjęcia do dnia 15 czerwca 2006 r. nowych warunków pracy lub płacy.
 
-5. Pracownicy, o których mowa ust. 1, zachowują uprawnienia pracownicze wynikające z aktów, na podstawie których powstał ich stosunek pracy przed dniem 1 stycznia 2006 r., do dnia:
+4. Wcześniejsze rozwiązanie stosunku pracy z pracownikiem może nastąpić za wypowiedzeniem. Przepis art. 411 Kodeksu pracy stosuje się odpowiednio.
+
+5. Pracownicy, o których mowa w ust. 1, zachowują uprawnienia pracownicze wynikające z aktów, na podstawie których powstał ich stosunek pracy przed dniem 1 stycznia 2006 r., do dnia:
 
 - **1)** 15 czerwca 2006 r., jeżeli przyjęli proponowane warunki pracy lub płacy na dalszy okres, albo
-- **2)** wygaśnięcia stosunku pracy, o którym mowa ust. 3, albo
-- **3)** wypowiedzenia, o którym mowa ust. 4.
+- **2)** wygaśnięcia stosunku pracy, o którym mowa w ust. 3, albo
+- **3)** wypowiedzenia, o którym mowa w ust. 4.
 
 **Art. 34.**
 
-1. Z dniem 1 stycznia 2008 r. pracownicy urzędów wojewódzkich, wykonujący do dnia 31 grudnia 2007 r. zadania i kompetencje podlegające przekazaniu jednostkom samorządu terytorialnego, określone ustawach, o których mowa art. 19 - 21, stają się odpowiednio pracownikami urzędu marszałkowskiego lub starostwa powiatowego.
+1. Z dniem 1 stycznia 2008 r. pracownicy urzędów wojewódzkich, wykonujący do dnia 31 grudnia 2007 r. zadania i kompetencje podlegające przekazaniu jednostkom samorządu terytorialnego, określone w ustawach, o których mowa w art. 19–21, stają się odpowiednio pracownikami urzędu marszałkowskiego lub starostwa powiatowego.
 
-2. Pracodawca jest obowiązany do dnia 1 września 2007 r. zawiadomić na piśmie pracowników wykonujących zadania i kompetencje podlegające przekazaniu na podstawie ustawy o zmianach, jakie mają nastąpić zakresie ich stosunku pracy. Przepis art. 23 § 4 Kodeksu pracy stosuje się odpowiednio.
+2. Pracodawca jest obowiązany do dnia 1 września 2007 r. zawiadomić na piśmie pracowników wykonujących zadania i kompetencje podlegające przekazaniu na podstawie ustawy o zmianach, jakie mają nastąpić w zakresie ich stosunku pracy. Przepis art. 231 § 4 Kodeksu pracy stosuje się odpowiednio.
 
-3. Stosunek pracy z pracownikami, o których mowa ust. 1, wygasa z dniem 30 czerwca 2008 r., jeżeli przed upływem tego terminu nie zostaną im zaproponowane nowe warunki pracy lub płacy na dalszy okres albo razie nieprzyjęcia do dnia 15 czerwca 2008 r. nowych warunków pracy lub płacy.
+3. Stosunek pracy z pracownikami, o których mowa w ust. 1, wygasa z dniem 30 czerwca 2008 r., jeżeli przed upływem tego terminu nie zostaną im zaproponowane nowe warunki pracy lub płacy na dalszy okres albo w razie nieprzyjęcia do dnia 15 czerwca 2008 r. nowych warunków pracy lub płacy.
 
-4. Wcześniejsze rozwiązanie stosunku pracy z pracownikiem może nastąpić za wypowiedzeniem. Przepis art. 41 Kodeksu pracy stosuje się odpowiednio.
+4. Wcześniejsze rozwiązanie stosunku pracy z pracownikiem może nastąpić za wypowiedzeniem. Przepis art. 411 Kodeksu pracy stosuje się odpowiednio.
 
-5. Pracownicy, o których mowa ust. 1, zachowują uprawnienia pracownicze wynikające z aktów, na podstawie których powstał ich stosunek pracy przed dniem 1 stycznia 2008 r., do dnia:
+5. Pracownicy, o których mowa w ust. 1, zachowują uprawnienia pracownicze wynikające z aktów, na podstawie których powstał ich stosunek pracy przed dniem 1 stycznia 2008 r., do dnia:
 
-- **1)** 15 czerwca 2008 r., jeżeli przyjęli proponowane warunki pracy lub płacy na
-- **3)** wypowiedzenia, o którym mowa ust. 4.
+- **1)** 15 czerwca 2008 r., jeżeli przyjęli proponowane warunki pracy lub płacy na dalszy okres, albo
+- **2)** wygaśnięcia stosunku pracy, o którym mowa w ust. 3, albo
+- **3)** wypowiedzenia, o którym mowa w ust. 4.
 
-**Art. 35.** Pracodawca terminie do dnia 15 listopada 2005 r. przygotuje imienne wykazy osób wykonujących zadania i kompetencje podlegające przekazaniu z dniem 1 stycznia 2006 r. i przekaże je odpowiednio organowi przejmującemu te zadania i kompetencje na podstawie ustawy.
+**Art. 35.** Pracodawca w terminie do dnia 15 listopada 2005 r. przygotuje imienne wykazy osób wykonujących zadania i kompetencje podlegające przekazaniu z dniem 1 stycznia 2006 r. i przekaże je odpowiednio organowi przejmującemu te zadania i kompetencje na podstawie ustawy.
 
-**Art. 36.** Pracodawca terminie do dnia 15 listopada 2007 r. przygotuje imienne wykazy osób wykonujących zadania i kompetencje podlegające przekazaniu z dniem 1 stycznia 2008 r. i przekaże je odpowiednio organowi przejmującemu te zadania i kompetencje na podstawie ustawy.
+**Art. 36.** Pracodawca w terminie do dnia 15 listopada 2007 r. przygotuje imienne wykazy osób wykonujących zadania i kompetencje podlegające przekazaniu z dniem 1 stycznia 2008 r. i przekaże je odpowiednio organowi przejmującemu te zadania i kompetencje na podstawie ustawy.
 
-**Art. 37.** Minister właściwy do spraw administracji publicznej określi, drodze rozporządzenia:
+**Art. 37.** Minister właściwy do spraw administracji publicznej określi, w drodze rozporządzenia:
+
+- **1)** sposób i tryb postępowania z pracownikami wykonującymi zadania lub kompetencje podlegające przekazaniu jednostkom samorządu terytorialnego,
+- **2)** sposób ustalania liczby etatów podlegających przekazaniu jednostkom samorządu terytorialnego kierując się koniecznością zapewnienia sprawnego i efektywnego wykonywania przekazanych zadań i kompetencji przez jednostki samorządu terytorialnego.
 
 **Art. 38.**
 
@@ -122,53 +650,61 @@ source: "isap-pdf"
 
 2. Z dniem 1 stycznia 2008 r. mienie Skarbu Państwa, niezbędne do wykonywania zadań podlegających przekazaniu ustawą z tym dniem, staje się z mocy prawa mieniem właściwej jednostki samorządu terytorialnego.
 
-3. Do dnia 15 listopada 2005 r. wojewodowie sporządzą wykazy mienia Skarbu Państwa, o którym mowa ust. 1.
+3. Do dnia 15 listopada 2005 r. wojewodowie sporządzą wykazy mienia Skarbu Państwa, o którym mowa w ust. 1.
 
-4. Do dnia 15 listopada 2007 r. wojewodowie sporządzą wykazy mienia Skarbu Państwa, o którym mowa ust. 2.
+4. Do dnia 15 listopada 2007 r. wojewodowie sporządzą wykazy mienia Skarbu Państwa, o którym mowa w ust. 2.
 
-5. Koszty uregulowania stanu prawnego mienia przekazywanego jednostkom samorządu terytorialnego ponosi Skarb Państwa. wojewoda drodze decyzji. Przepisu art. 49 ust. 1 ustawy o samorządzie województwa nie stosuje się
+5. Koszty uregulowania stanu prawnego mienia przekazywanego jednostkom samorządu terytorialnego ponosi Skarb Państwa.
 
-2. Nabycie przez jednostki samorządu terytorialnego mienia Skarbu Państwa niezbędnego do wykonywania zadań podlegających przekazaniu ustawą następuje wraz z ograniczonymi prawami rzeczowymi, które ujawnia się decyzji o przekazaniu. Ich ujawnienie nie narusza praw osób trzecich.
+**Art. 39.**
 
-3. Organem odwoławczym sprawach nabycia mienia, o którym mowa ust. 2, jest minister właściwy do spraw Skarbu Państwa.
+1. Nabycie mienia, o którym mowa w art. 38 ust. 1 i 2, stwierdza wojewoda w drodze decyzji. Przepisu art. 49 ust. 1 ustawy o samorządzie województwa nie stosuje się.
+
+2. Nabycie przez jednostki samorządu terytorialnego mienia Skarbu Państwa niezbędnego do wykonywania zadań podlegających przekazaniu ustawą następuje wraz z ograniczonymi prawami rzeczowymi, które ujawnia się w decyzji o przekazaniu. Ich ujawnienie nie narusza praw osób trzecich.
+
+3. Organem odwoławczym w sprawach nabycia mienia, o którym mowa w ust. 2, jest minister właściwy do spraw Skarbu Państwa.
 
 4. Przekazanie mienia właściwej jednostce samorządu terytorialnego jest nieodpłatne oraz wolne od podatków i opłat.
 
 5. Przepisów ust. 2 i 3 nie stosuje się do zobowiązań Skarbu Państwa wynikających z działalności organów władających przekazywanym mieniem, powstałych przed dniem jego przejęcia przez właściwą jednostkę samorządu terytorialnego.
 
-**Art. 40.** Do postępowania sprawie przekazania mienia właściwej jednostce samorządu terytorialnego, drodze decyzji, stosuje się odpowiednio przepisy Kodeksu postępowania administracyjnego.
+**Art. 40.** Do postępowania w sprawie przekazania mienia właściwej jednostce samorządu terytorialnego, w drodze decyzji, stosuje się odpowiednio przepisy Kodeksu postępowania administracyjnego.
 
 **Art. 41.**
 
-1. Ostateczna decyzja o przekazaniu właściwej jednostce samorządu terytorialnego praw, które są lub mogą być ujawnione księdze wieczystej, stanowi podstawę do wpisu księdze wieczystej.
+1. Ostateczna decyzja o przekazaniu właściwej jednostce samorządu terytorialnego praw, które są lub mogą być ujawnione w księdze wieczystej, stanowi podstawę do wpisu w księdze wieczystej.
 
-2. Postępowanie przedmiocie wpisu jest wolne od opłat sądowych.
+2. Postępowanie w przedmiocie wpisu jest wolne od opłat sądowych.
 
-**Art. 42.** Minister właściwy do spraw Skarbu Państwa porozumieniu z ministrem właściwym do spraw administracji publicznej określi, drodze rozporządzenia, tryb przekazywania mienia jednostkom samorządu terytorialnego, z uwzględnieniem potrzeb zakresie wykonywania zadań i kompetencji podlegających przekazaniu.
+**Art. 42.** Minister właściwy do spraw Skarbu Państwa w porozumieniu z ministrem właściwym do spraw administracji publicznej określi, w drodze rozporządzenia, tryb przekazywania mienia jednostkom samorządu terytorialnego, z uwzględnieniem potrzeb w zakresie wykonywania zadań i kompetencji podlegających przekazaniu.
 
 **Art. 43.**
 
-1. Z dniem wejścia życie ustawy stroną zawartych wcześniej porozumień zakresie zadań i kompetencji podlegających przekazaniu staje się właściwa jednostka samorządu terytorialnego.
+1. Z dniem wejścia w życie ustawy stroną zawartych wcześniej porozumień w zakresie zadań i kompetencji podlegających przekazaniu staje się właściwa jednostka samorządu terytorialnego.
 
-2. Koncesje, zezwolenia i inne decyzje wydane zakresie przekazywanych zmienione lub utracą ważność.
+2. Koncesje, zezwolenia i inne decyzje wydane w zakresie przekazywanych ustawą zadań i kompetencji zachowują ważność do upływu określonych w nich terminów ważności, chyba że na podstawie odrębnych przepisów wcześniej zostaną zmienione lub utracą ważność.
 
 **Art. 44.**
 
-1. W toczących się postępowaniach sądowych i administracyjnych zakresie zadań podlegających przekazaniu na podstawie ustawy, których stroną jest wojewoda, stroną staje się właściwa jednostka samorządu terytorialnego.
+1. W toczących się postępowaniach sądowych i administracyjnych w zakresie zadań podlegających przekazaniu na podstawie ustawy, w których stroną jest wojewoda, stroną staje się właściwa jednostka samorządu terytorialnego.
 
-2. Niezakończone postępowania administracyjne zakresie spraw podlegających przekazaniu na podstawie przepisów ustawy toczą się nadal przed organami, które przejęły zadania i kompetencje.
+2. Niezakończone postępowania administracyjne w zakresie spraw podlegających przekazaniu na podstawie przepisów ustawy toczą się nadal przed organami, które przejęły zadania i kompetencje.
 
-**Art. 45.** Minister właściwy do spraw administracji publicznej określi, drodze rozporządzenia, sposób i tryb przejęcia toczących się postępowań sądowych i administracyjnych zakresie zadań podlegających przekazaniu na podstawie ustawy, szczególności sposób przekazania dokumentacji dotyczącej tych postępowań, kierując się koniecznością zapewnienia sprawnego i efektywnego prowadzenia przejętych postępowań przez jednostki samorządu terytorialnego.
+**Art. 45.** Minister właściwy do spraw administracji publicznej określi, w drodze rozporządzenia, sposób i tryb przejęcia toczących się postępowań sądowych i administracyjnych w zakresie zadań podlegających przekazaniu na podstawie ustawy, w szczególności sposób przekazania dokumentacji dotyczącej tych postępowań, kierując się koniecznością zapewnienia sprawnego i efektywnego prowadzenia przejętych postępowań przez jednostki samorządu terytorialnego.
 
-**Art. 46.** Minister właściwy do spraw administracji publicznej do dnia wejścia życie ustawy wyznaczy spośród członków korpusu służby cywilnej zatrudnionych urzędach wojewódzkich pełnomocnika odpowiedzialnego za koordynację przekazywania mienia i spraw właściwym jednostkom samorządu terytorialnego oraz przechodzenia do nich pracowników urzędów wojewódzkich wykonujących zadania lub kompetencje podlegające przekazaniu właściwym jednostkom samorządu terytorialnego.
+**Art. 46.** Minister właściwy do spraw administracji publicznej do dnia wejścia w życie ustawy wyznaczy spośród członków korpusu służby cywilnej zatrudnionych w urzędach wojewódzkich pełnomocnika odpowiedzialnego za koordynację przekazywania mienia i spraw właściwym jednostkom samorządu terytorialnego oraz przechodzenia do nich pracowników urzędów wojewódzkich wykonujących zadania lub kompetencje podlegające przekazaniu właściwym jednostkom samorządu terytorialnego.
 
 **Art. 47.**
 
-1. Dotychczasowe przepisy wykonawcze, wydane na podstawie art. 35a ust. 4 ustawy zmienianej art. 7, art. 31 ust. 2 ustawy zmienianej art. 8, art. 8 ust. 4 i art. 43 ust. 2 ustawy zmienianej art. 11, art. 13 ust. 2 ustawy zmienianej art. 15, art. 8 ust. 8, art. 24b i art. 34 ust. 1 pkt 1 ustawy zmienianej art. 16, art. 12 ust. 11 ustawy zmienianej art. 18, art. 7 ust. 11 i art. 31 ust. 10 ustawy zmienianej art. 28, zachowują moc do czasu wejścia życie nowych przepisów, wydanych na podstawie art. 35a ust. 4 ustawy zmienianej art. 7, art. 31 ust. 2 ustawy zmienianej art. 8, art. 8 ust. 4 i art. 43 ust. 2 ustawy zmienianej art. 11, art. 13 ust. 2 ustawy zmienianej art. 15, art. 8 ust. 8, art. 24b i art. 34 ust. 1 pkt 1 ustawy zmienianej art. 16, art. 12 ust. 11 ustawy zmienianej art. 18, art. 7 ust. 11 i art. 31 ust. 10 ustawy niniejszej ustawy.
+1. Dotychczasowe przepisy wykonawcze, wydane na podstawie art. 35a ust. 4 ustawy zmienianej w art. 7, art. 31 ust. 2 ustawy zmienianej w art. 8, art. 8 ust. 4 i art. 43 ust. 2 ustawy zmienianej w art. 11, art. 13 ust. 2 ustawy zmienianej w art. 15, art. 8 ust. 8, art. 24b i art. 34 ust. 1 pkt 1 ustawy zmienianej w art. 16, art. 12 ust. 11 ustawy zmienianej w art. 18, art. 7 ust. 11 i art. 31 ust. 10 ustawy zmienianej w art. 28, zachowują moc do czasu wejścia w życie nowych przepisów, wydanych na podstawie art. 35a ust. 4 ustawy zmienianej w art. 7, art. 31 ust. 2 ustawy zmienianej w art. 8, art. 8 ust. 4 i art. 43 ust. 2 ustawy zmienianej w art. 11, art. 13 ust. 2 ustawy zmienianej w art. 15, art. 8 ust. 8, art. 24b i art. 34 ust. 1 pkt 1 ustawy zmienianej w art. 16, art. 12 ust. 11 ustawy zmienianej w art. 18, art. 7 ust. 11 i art. 31 ust. 10 ustawy zmienianej w art. 28, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 2. Akty prawa miejscowego wydane na podstawie przepisów zmienianych niniejszą ustawą z zakresu zadań i kompetencji podlegających przekazaniu niniejszą ustawą zachowują moc do czasu wydania nowych aktów prawa miejscowego przez organy przejmujące zadania i kompetencje.
 
-3. Wojewodowie ogłoszą terminie do dnia wejścia życie niniejszej ustawy wykazy aktów prawa miejscowego wydanych na podstawie przepisów zmienianych niniejszą ustawą z zakresu zadań i kompetencji podlegających przekazaniu niniejszą ustawą.
+3. Wojewodowie ogłoszą w terminie do dnia wejścia w życie niniejszej ustawy wykazy aktów prawa miejscowego wydanych na podstawie przepisów zmienianych niniejszą ustawą z zakresu zadań i kompetencji podlegających przekazaniu niniejszą ustawą.
 
-**Art. 48.** Ustawa wchodzi życie z dniem 1 stycznia 2006 r., z wyjątkiem:
+**Art. 48.** Ustawa wchodzi w życie z dniem 1 stycznia 2006 r., z wyjątkiem:
+
+- **1)** art. 35, art. 37, art. 38 ust. 2, art. 42, art. 45, art. 46 i art. 47 ust. 3, które wchodzą w życie z dniem ogłoszenia;
+- **2)** art. 19, art. 20 oraz art. 21, które wchodzą w życie z dniem 1 stycznia 2008 r.
+
 

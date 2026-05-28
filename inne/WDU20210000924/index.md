@@ -8,10 +8,10 @@ pos: 924
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 maja 2021 r.
+# Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 11 maja 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju i Finansów w sprawie szczególnych zasad rachunkowości Bankowego Funduszu Gwarancyjnego
 
 | Pole | Wartość |
 |---|---|
@@ -25,276 +25,702 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-04-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000924) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/924/text.pdf) |
 
-Poz. 924 OBWIESZCZENIE MINISTRA FINANSÓW, FUNDUSZY I POLITYKI REGIONALNEJ z dnia 11 maja 2021 r.
-w sprawieogłoszeniajednolitegoteksturozporządzeniaMinistraRozwojui Finansów w sprawieszczególnychzasadrachunkowościBankowegoFunduszuGwarancyjnego
-1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktówprawnych(Dz. U.z 2019 r.poz. 1461)ogłaszasięw załącznikudoniniejszegoobwieszczeniajednolitytekstrozporządzeniaMinistraRozwojui Finansówz dnia9grudnia2016 r.w sprawieszczególnychzasadrachunkowościBankowego FunduszuGwarancyjnego(Dz. U.poz. 2115),z uwzględnieniemzmianwprowadzonychrozporządzeniemMinistraFinansów z dnia 28 czerwca 2019 r. zmieniającym rozporządzenie w sprawie szczególnych zasad rachunkowości Bankowego FunduszuGwarancyjnego(Dz. U.poz. 1329).
-2. Podanyw załącznikudoniniejszegoobwieszczeniatekstjednolityrozporządzenianieobejmuje:
-1) § 15 i § 16 rozporządzenia Ministra Rozwoju i Finansów z dnia 9 grudnia 2016 r. w sprawie szczególnych zasad rachunkowościBankowegoFunduszuGwarancyjnego(Dz. U.poz. 2115),którestanowią: ,,§15.1.W sprawozdaniufinansowymzarok2016dodatkowowykazujesię:
-1) funduszzapasowy,
-2) funduszpomocowy,
-3) funduszstabilizacyjny,
-4) funduszśrodkówodzyskanychz masupadłości –którez dniemwejściaw życieustawyzostałyzlikwidowane.
-2. W sprawozdaniufinansowymzarok2016w pozycjiC.I WpływyRachunkuprzepływówpieniężnychpodaje sięwyłącznie:
-1. Obowiązkoweopłatywnoszoneprzezbanki
-2. Opłatyostrożnościowewnoszoneprzezbanki
-3. Obowiązkoweopłatywnoszoneprzezspółdzielczekasyoszczędnościowo-kredytowe
-4. Otrzymane dotacje
-5. Otrzymanekredytyi pożyczki
-6. Pozostałewpływyfinansowe.
-§16.RozporządzeniemazastosowanieporazpierwszydosprawozdaniafinansowegoBFGzarokobrotowykończącysię31grudnia2016 r.”;
-2) §2i §3rozporządzeniaMinistraFinansówz dnia28czerwca2019 r.zmieniającegorozporządzeniew sprawieszczególnychzasadrachunkowościBankowegoFunduszuGwarancyjnego(Dz. U.poz. 1329),którestanowią: ,,§ 2. Rozporządzenie ma zastosowanie po raz pierwszy do rocznego sprawozdania finansowego BFG za rok obrotowykończącysiędnia31grudnia2019 r.
-§3.Rozporządzeniewchodziw życiepoupływie14dnioddniaogłoszenia.”.
-MinisterFinansów,Funduszyi PolitykiRegionalnej:T. Kościński ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 9 grudnia 2016 r.
-w sprawieszczególnychzasadrachunkowościBankowegoFunduszuGwarancyjnego Napodstawieart.312ust. 2ustawyz dnia10czerwca2016 r.o BankowymFunduszuGwarancyjnym,systemiegwarantowaniadepozytóworazprzymusowejrestrukturyzacji(Dz. U.z 2020 r.poz. 842orazz 2021 r.poz. 680)zarządzasię, conastępuje:
-Rozdział1 Przepisyogólne § 1. RozporządzenieokreślaszczególnezasadyrachunkowościBankowegoFunduszuGwarancyjnego,zwanegodalej „BFG”,w tymzakresinformacjiwykazywanychw informacjidodatkowejsprawozdaniafinansowego.
-§ 2. 1. PrzychodamiBFGsąśrodkipochodzącezeźródełfinansowaniaBFGokreślonychw art.270ust. 1pkt 3,4i 12 ustawyz dnia10czerwca2016 r.o BankowymFunduszuGwarancyjnym,systemiegwarantowaniadepozytóworazprzymusowejrestrukturyzacji,zwanejdalej„ustawą”.
-2. KosztamidziałalnościBFGsąkosztyutrzymaniaorganówBFGi BiuraBFG,w tymamortyzacja,którąprezentuje sięw rachunkuzyskówi stratw pozycji„Amortyzacjaśrodkówtrwałychorazwartościniematerialnychi prawnych”.
-3. Rezerwylubzobowiązaniaz tytułu:
-1) gwarantowaniadepozytóww rozumieniuustawy,
-2) świadczeń,o którychmowaw art.112ust. 3pkt 2,art.179,art.188ust. 5,art.264ust. 2pkt 4i art.268aust. 2pkt 4 ustawy,
-3) gwarancji i poręczeń, w tym gwarancji pokrycia strat, o których mowa w art. 112 ust. 3 pkt 1, art. 264 ust. 2 pkt 3 i art. 268aust. 2pkt 3ustawy –niestanowiąkosztówBFG,leczzmniejszająodpowiedniefunduszewłasneBFG.
-4. ZarządBFGjestobowiązanyzłożyćdoogłoszenia:
-1) wprowadzeniedosprawozdaniafinansowego,
-2) bilans,
-3) rachunekzyskówi strat,
-4) zestawieniezmianw funduszachwłasnychzarokobrotowy,
-5) rachunekprzepływówpieniężnych – wrazzesprawozdaniemz badaniaorazodpisemuchwałyo podzialezyskulubpokryciustraty,w terminie15dnioddnia podjęciatejuchwały,w „MonitorzeSądowymi Gospodarczym”.
-5. NależnościBFGwynikającez pożyczekudzielonychz funduszurestrukturyzacjibankówspółdzielczychklasyfikuje siędonormalnychalbostraconych.Wysokośćodpisówaktualizującychtenależnościustalasięnadzieńbilansowyw wysokości100%wartościnależnościstraconych.W zakresiezasadklasyfikacjinależnościdokategoriistraconych,określania wartościzabezpieczeńorazpodstawydokonywaniaodpisówaktualizującychBFGstosujeodpowiednioprzepisyrozporządzeniaMinistraFinansówz dnia16grudnia2008 r.w sprawiezasadtworzeniarezerwnaryzykozwiązanez działalnością banków(Dz. U.z 2019 r.poz. 520,z 2020 r.poz. 687orazz 2021 r.poz. 51).
-6. Do wysokości odpisów aktualizujących, ustalanych na dzień bilansowy, należności inne niż wymienione w ust. 5, BFGstosujeodpowiednioprzepisyrozporządzeniaMinistraFinansówz dnia16grudnia2008 r.w sprawiezasadtworzenia rezerwnaryzykozwiązanez działalnościąbanków.
-7. JeżeliposporządzeniurocznegosprawozdaniafinansowegoBFGotrzymainformacjeo zdarzeniach,którenastąpiły posporządzeniutegosprawozdaniafinansowego,mającychistotnywpływnainformacjezawartew dodatkowychinformacjachi objaśnieniachinformacjidodatkowejrocznegosprawozdaniafinansowego,touwzględniajew sprawozdaniufinansowymobejmującymnastępnyrokobrotowy.
-Rozdział2 Prowadzenieksiągrachunkowych § 3. 1. KsięgirachunkowesąprowadzoneprzezBFG,w jegosiedzibie.
-2. W księgachrachunkowychujmujesięwszystkieosiągnięte,przypadającenarzeczBFGprzychodyi obciążającego kosztyzwiązanez tymiprzychodami,dotyczącedanegorokuobrotowego,niezależnieodterminuzapłaty.
-Rozdział3 Ujmowaniei wycenaniektórychaktywówi pasywóworazustalaniewynikufinansowego § 4. 1. Aktywa finansowe oraz zobowiązania finansowe, stanowiące instrumenty pochodne w rozumieniu przepisów o rachunkowości,ujmujesięw księgachrachunkowychnadzieńzawarciatransakcji.
-2. Dłużnepapierywartościoweorazakcjeujmujesięw księgachrachunkowychnadzieńrozliczeniatransakcji.
-3. Aktywafinansoweujmujesięw księgachrachunkowychw cenienabycia,tojestw wartościgodziwejponiesionych wydatków lub przekazanych w zamian innych składników majątkowych, a zobowiązania finansowe w wartości godziwej uzyskanejkwotylubwartościotrzymanychinnychskładnikówmajątkowych.
-4. Aktywaodpowiadającezobowiązaniomdozapłatyujmujesięw księgachrachunkowychw ostatnimdniuterminu downoszeniaskładek,określonegow uchwaleRadyBFG.
-§ 5. 1. Należnościi zobowiązaniafinansowe,w tymkredyty,pożyczki,zrealizowanegwarancjei poręczeniaorazdłużnepapierywartościowe,wyceniasięnadzieńbilansowywedługskorygowanejcenynabycia.
-2. Akcjenotowanenarynkuregulowanymwyceniasięnadzieńbilansowywedługwartościgodziwej.
-3. Akcjenienotowanenarynkuregulowanymwyceniasięnadzieńbilansowywedługcenynabycia,z uwzględnieniem trwałejutratywartości.
-4. Aktywa odpowiadające zobowiązaniom do zapłaty wycenia się na dzień bilansowy w kwocie wymaganej zapłaty, z uwzględnieniemzasadyostrożności.
-§ 6. 1. Odpisyaktualizującewartośćnabytychlubobjętychakcji,wierzytelnościprezentowanychw bilansieBFGjako należności,w tymskładek,o którychmowaw ustawie,lubaktywów,o którychmowaw art.112ust. 1ustawy,sfinansowanych z funduszy własnych BFG: funduszu gwarancyjnego banków, funduszu gwarancyjnego kas, funduszu przymusowej restrukturyzacjibanków,funduszuprzymusowejrestrukturyzacjikaslubfunduszurestrukturyzacjibankówspółdzielczych zmniejszająodpowiedniotefundusze. RozwiązanieodpisówaktualizującychteaktywaujmujesięjakozwiększeniefunduszywłasnychBFG.
-2. Wynik ze zbycia, wierzytelności prezentowanych w bilansie BFG jako należności lub aktywów, o których mowa w art. 112ust. 1ustawy,sfinansowanychz funduszywłasnychBFG:funduszugwarancyjnegobanków,funduszugwarancyjnegokas,funduszuprzymusowejrestrukturyzacjibanków,funduszuprzymusowejrestrukturyzacjikaslubfunduszurestrukturyzacjibankówspółdzielczych,ujmowanyjestjakozmniejszeniealbozwiększeniefunduszywłasnychBFG.
-3. Zwiększeniawartościakcji,wycenianychwedługwartościgodziwej,powyżejcenynabyciaorazzmniejszeniawartościtychakcjidopoziomucenynabyciaz wyższejwartościbilansowejujmujesięw wynikuz operacjifinansowych.
-4. Wynikzezbyciaakcjiodnoszonyjestzgodniez ust. 1i 3.
-§ 7. 1. Dodniapoprzedzającegodzieńspełnieniawarunkugwarancjiobowiązkiwynikającez gwarantowaniaśrodków pieniężnychstanowiązobowiązaniawarunkoweBFG.
-2. W przypadku spełnienia warunku gwarancji, równowartość rezerw z tytułu gwarantowania środków pieniężnych ujmujesięw pasywachw pozycji„Zmniejszeniefunduszywłasnychw przypadkuspełnieniawarunkugwarancjilubw przypadkuwykorzystanianarzędzirestrukturyzacji(wielkośćujemna)”.
-3. W przypadku gdy wypłata środków gwarantowanych zostanie sfinansowana środkami pieniężnymi pochodzącymi z funduszuochronyśrodkówgwarantowanych,równowartośćrezerwujmujesięw aktywachw pozycji„Należnościz tytułuobowiązkuwniesieniafunduszuochronyśrodkówgwarantowanych”.
-4. Zobowiązaniawobecdeponentówujmujesięw dniupodjęciaprzezwłaściwyorganBFGdecyzjio wypłacieśrodków gwarantowanych.
-5. Przyustalaniuwartościrezerwi zobowiązańwobecdeponentówpomijasiędyskontowanie.
-§ 8. (uchylony).
-§ 8a. Należnościz tytułuskładek,o którychmowaw ustawie,ujmujesięw księgachrachunkowychnadzieńpodjęcia przez Radę BFG uchwały określającej wysokość składek wnoszonych przez poszczególne podmioty zobowiązane do ich wniesienia.
-§ 9. 1. WartośćnależnościFunduszuwynikającychz roszczeń,o którychmowaw art.39ust. 1ustawy,pomniejszasię dochwiliichzapłatyo odpisyaktualizująceichwartośćw wysokości100%.
-2. Rozwiązanieodpisówaktualizującychwartośćnależności,o którychmowaw ust. 1,następujez chwiląspłatynależnościi ujmujesięjew pasywachw odpowiedniejpozycjifunduszywłasnych.
-3. Równowartośćodsetekodnależności,o którychmowaw ust. 1,powiększaodpisyaktualizującewartośćtychnależności.
-§ 10. 1. Równowartośćrezerwnagwarancjei poręczeniaudzieloneprzezBFGz funduszywłasnychzmniejszawartość pozycji funduszy własnych. Rozwiązanie rezerw na te gwarancje i poręczenia ujmuje się jako zwiększenie tych funduszy własnych.
-2. Rezerwy na świadczenia, o których mowa w art. 112 ust. 3 pkt 2, art. 179, art. 188 ust. 5, art. 264 ust. 2 pkt 4 i art. 268aust. 2pkt 4ustawy,udzielanew danymrokuobrotowym,ujmujesięw księgachrachunkowychw dniuprzejęcia podwarunkiem,żewartośćrezerwymożebyćwiarygodnieoszacowanai postronieBFGwystąpiłobowiązekprawnylub zwyczajowy.
-3. Rezerwy z tytułu udzielenia gwarancji pokrycia strat, o której mowa w art. 112 ust. 3 pkt 1, art. 264 ust. 2 pkt 3 i art. 268a ust. 2 pkt 3 ustawy, wycenia się na dzień bilansowy w oszacowanej kwocie wymaganej zapłaty za dany okres w ramachrokuobrotowegoBFG,objętytągwarancją.
-4. Aktywaz tytułuudzieleniagwarancjipokryciastrat,o którejmowaw art.112ust. 3pkt 1,art.264ust. 2pkt 3oraz art. 268aust. 2pkt 3ustawy,ujmujesięw księgachrachunkowychw dniupowstanianależnościw kwociewymaganejzapłaty.
-5. Równowartość aktywów i rezerw, o których mowa w ust. 3 i 4, zalicza się do odpowiednich funduszy własnych BFG.
-§ 11. Wynik finansowy BFG stanowi różnicę pomiędzy przychodami, w tym z tytułu odsetek i prowizji, a kosztami, z uwzględnieniemwynikuz operacjifinansowych.
-Rozdział4 RocznesprawozdaniefinansoweBFG § 12. RocznesprawozdaniefinansoweBFGskładasięz:
-1) bilansu;
-2) rachunkuzyskówi strat;
-3) zestawieniazmianw funduszachwłasnych;
-4) rachunkuprzepływówpieniężnych;
-5) informacjidodatkowej,obejmującejwprowadzeniedorocznegosprawozdaniafinansowegoorazdodatkoweinformacjei objaśnienia.
-§ 13. Zakresinformacjiwykazywanychw rocznymsprawozdaniufinansowymBFGokreślazałącznikdorozporządzenia.
-Rozdział5 Przepisyprzejściowei końcowe § 14. Aktywalubrezerwyz tytułuudzieleniagwarancjipokryciastrat,o którejmowaw art.20gust. 2pkt 3i art.20ba ust. 2pkt 3ustawyuchylanejnamocyart.388ustawy,wyceniasięnadzieńbilansowyw oszacowanejkwociewymagającej zapłatyzadanyokresw ramachrokuobrotowegoBFG,objętytągwarancją.Równowartośćaktywówlubrezerwzaliczasię doodpowiednichfunduszywłasnychBFG.
-§ 15. (pominięty).
-§ 16. (pominięty).
-§ 17. Rozporządzeniewchodziw życiez dniemnastępującympodniuogłoszenia .
-ZAKRESINFORMACJIWYKAZYWANYCH W ROCZNYMSPRAWOZDANIUFINANSOWYMBFG Wprowadzeniedorocznegosprawozdaniafinansowego obejmujew szczególności:
-1) nazwęi siedzibęBFGorazwskazaniepodstawyprawnejprowadzeniadziałalności;
-2) wskazanieokresuobjętegosprawozdaniemfinansowym;
-3) wskazanie,czyrocznesprawozdaniefinansowezostałosporządzoneprzyzałożeniukontynuowaniaprzezBFGdziałalnościw dającejsięprzewidziećprzyszłościorazczynieistniejąokolicznościwskazującenazagrożeniekontynuowaniadziałalności;
-4) stosowanezasadyrachunkowości,w tymmetodywycenyaktywówi pasywóworazustalaniaprzychodówi kosztów;
-5) dokonane w ciągu roku obrotowego zmianyzasad rachunkowości, w tym metodwyceny, wraz z uzasadnieniemich wprowadzenia,jeżeliwywierająoneistotnywpływnarocznesprawozdaniefinansowe,zewskazaniemspowodowanejtymizmianamiróżnicyw wynikufinansowym;
-6) dokonanew stosunkudopoprzedniegorocznegosprawozdaniafinansowegozmianysposobusporządzaniarocznego sprawozdania finansowego, wraz z uzasadnieniem ich wprowadzenia i skutkami w zakresie przedstawiania sytuacji majątkoweji finansowejBFG.
-Bilans Aktywa I. Środkipieniężne
-1. Środkipieniężnew kasie
-2. Środkipieniężnenarachunkachbieżących
-3. Środkipieniężnenarachunkulokatterminowych
-4. ŚrodkipieniężneZakładowegoFunduszuŚwiadczeńSocjalnych
-5. Środkipieniężnenapozostałychrachunkach II. Należnościodinstytucjifinansowych
-1. Należnościodbankówz tytułu:
-a) obowiązkuwniesieniafunduszuochronyśrodkówgwarantowanych
-b) składek(z wyłączeniemzobowiązańdozapłaty)
-c) zobowiązańdozapłaty
-d) udzielonychpożyczek
-e) zrealizowanychgwarancjii poręczeń
-f) nabytychwierzytelności
-g) pozostałychoperacji
-2. Należnościodspółdzielczychkasoszczędnościowo-kredytowychz tytułu:
-a) składek(z wyłączeniemzobowiązańdozapłaty)
-b) zobowiązańdozapłaty
-c) udzielonychpożyczek
-d) zrealizowanychgwarancjii poręczeń
-e) nabytychwierzytelności
-f) pozostałychoperacji III. Należnościz tytułupodatków,dotacji,ubezpieczeńspołecznychi zdrowotnychorazinnychświadczeń IV. Pozostałenależnościi roszczenia V. Papierywartościowei inneaktywafinansowe
-1. Dłużnepapierywartościowe:
-a) banków
-b) SkarbuPaństwa
-c) pozostałe
-2. Akcje:
-a) w instytucjachfinansowych
-b) w pozostałychjednostkach
-3. Pozostałepapierywartościowei inneaktywafinansowe VI. Rzeczoweaktywatrwałe VII. Wartościniematerialnei prawne VIII.Rozliczeniamiędzyokresowe IX. Inneaktywa Aktywarazem Pasywa I. Zobowiązania
-1. Zobowiązaniawobecdeponentów
-2. Pozostałezobowiązania II. Funduszespecjalne III. Rozliczeniamiędzyokresowe IV. Rezerwy V. Funduszstatutowy VI. Funduszgwarancyjnybanków
-1. Funduszgwarancyjnybankówdowykorzystania
-2. Funduszgwarancyjnybankówwykorzystany VII. Funduszprzymusowejrestrukturyzacjibanków
-1. Funduszprzymusowejrestrukturyzacjibankówdowykorzystania
-2. Funduszprzymusowejrestrukturyzacjibankówwykorzystany VIII.Funduszgwarancyjnykas
-1. Funduszgwarancyjnykasdowykorzystania
-2. Funduszgwarancyjnykaswykorzystany IX. Funduszprzymusowejrestrukturyzacjikas
-1. Funduszprzymusowejrestrukturyzacjikasdowykorzystania
-2. Funduszprzymusowejrestrukturyzacjikaswykorzystany X. Funduszrestrukturyzacjibankówspółdzielczych
-1. Funduszrestrukturyzacjibankówspółdzielczychdowykorzystania XI. Zmniejszeniefunduszywłasnychw przypadkuspełnieniawarunkugwarancjilubw przypadkuwykorzystanianarzędzi restrukturyzacji(wielkośćujemna) XII. Funduszz aktualizacjiwyceny XIII.Innefunduszewłasne XIV.Zysk(strata)z latubiegłych XV. Wynikfinansowy
-1. Zysknetto(wartośćdodatnia)
-2. Stratanetto(wartośćujemna) Pasywa razem Rachunekzyskówi strat I. Przychodyz działalnościstatutowej
-1. Przychodyz tytułuodsetek
-2. Przychodyz tytułuprowizji II. Kosztyrealizacjizadaństatutowych
-1. Odsetkiz tytułukredytówkrótkoterminowychotrzymanychz NarodowegoBankuPolskiego
-2. Odsetkiz tytułupożyczekotrzymanychześrodkówbudżetupaństwa
-3. Pozostałekoszty III. Wynikdziałalnościstatutowej(I−II) IV. Wynikz operacjifinansowych
-1. Papieramiwartościowymi
-2. Pozostałych V. Wynikz tytułuróżnickursowych VI. Kosztydziałalności
-1. Usługiobce
-2. Wynagrodzenia
-3. Ubezpieczeniai inneświadczenia
-4. Pozostałe VII. Amortyzacjaśrodkówtrwałychorazwartościniematerialnychi prawnych VIII.Odpisynarezerwyi aktualizacjawartości IX. Rozwiązanierezerwi aktualizacjawartości X. Pozostałeprzychodyoperacyjne XI. Pozostałekosztyoperacyjne XII. Wynikfinansowy(III+IV+/−V−VI−VII−VIII+IX+X−XI) Zestawieniezmianw funduszachwłasnych I. Funduszewłasnenapoczątekokresu(BO) – zmianyprzyjętychzasad(polityki)rachunkowości – korektybłędów II. Funduszewłasnenapoczątekokresu(BO),pokorektach
-1.1. Funduszstatutowynapoczątekokresu
-1.2. Zmianyfunduszustatutowego
-a) zwiększenia(z tytułu) …
-b) zmniejszenia(z tytułu) …
-1.3. Funduszstatutowynakoniecokresu
-2.1. Funduszgwarancyjnybankównapoczątekokresu
-2.2. Funduszgwarancyjnybankówdowykorzystanianapoczątekokresu
-2.3. Zmianyfunduszugwarancyjnegobankówdowykorzystania
-a) zwiększenia(z tytułu) …
-b) zmniejszenia(z tytułu) …
-2.4. Funduszgwarancyjnybankówdowykorzystanianakoniecokresu
-2.5. Funduszgwarancyjnybankówwykorzystanynapoczątekokresu
-2.6. Zmianyfunduszugwarancyjnegobankówwykorzystanego
-a) zwiększenia(z tytułu) …
-b) zmniejszenia(z tytułu) …
-2.7. Funduszgwarancyjnybankówwykorzystanynakoniecokresu
-2.8. Funduszgwarancyjnybankównakoniecokresu
-3.1. Funduszprzymusowejrestrukturyzacjibankównapoczątekokresu
-3.2. Funduszprzymusowejrestrukturyzacjibankówdowykorzystanianapoczątekokresu
-3.3. Zmianyfunduszuprzymusowejrestrukturyzacjibankówdowykorzystania
-a) zwiększenia(z tytułu) …
-b) zmniejszenia(z tytułu) …
-3.4. Funduszprzymusowejrestrukturyzacjibankówdowykorzystanianakoniecokresu
-3.5. Funduszprzymusowejrestrukturyzacjibankówwykorzystanynapoczątekokresu
-3.6. Zmianyfunduszuprzymusowejrestrukturyzacjibankówwykorzystanego
-a) zwiększenia(z tytułu) …
-b) zmniejszenia(z tytułu) …
-3.7. Funduszprzymusowejrestrukturyzacjibankówwykorzystanynakoniecokresu
-3.8. Funduszprzymusowejrestrukturyzacjibankównakoniecokresu
-4.1. Funduszgwarancyjnykasnapoczątekokresu
-4.3. Zmianyfunduszugwarancyjnegokasdowykorzystania
-a) zwiększenia(z tytułu) …
-b) zmniejszenia(z tytułu) …
-4.4. Funduszgwarancyjnykasdowykorzystanianakoniecokresu
-4.5. Funduszgwarancyjnykaswykorzystanynapoczątekokresu
-4.6. Zmianyfunduszugwarancyjnegokaswykorzystanego
-a) zwiększenia(z tytułu) …
-b) zmniejszenia(z tytułu) …
-4.7. Funduszgwarancyjnykaswykorzystanynakoniecokresu
-4.8. Funduszgwarancyjnykasnakoniecokresu
-5.1. Funduszprzymusowejrestrukturyzacjikasnapoczątekokresu
-5.2. Funduszprzymusowejrestrukturyzacjikasdowykorzystanianapoczątekokresu
-5.3. Zmianyfunduszuprzymusowejrestrukturyzacjikasdowykorzystania
-a) zwiększenia(z tytułu) …
-b) zmniejszenia(z tytułu) …
-5.4. Funduszprzymusowejrestrukturyzacjikasdowykorzystanianakoniecokresu
-5.5. Funduszprzymusowejrestrukturyzacjikaswykorzystanynapoczątekokresu
-5.6. Zmianyfunduszuprzymusowejrestrukturyzacjikaswykorzystanego
-a) zwiększenia(z tytułu) …
-b) zmniejszenia(z tytułu) …
-5.7. Funduszprzymusowejrestrukturyzacjikaswykorzystanynakoniecokresu
-5.8. Funduszprzymusowejrestrukturyzacjikasnakoniecokresu
-6.1. Funduszrestrukturyzacjibankówspółdzielczychnapoczątekokresu
-6.2. Funduszrestrukturyzacjibankówspółdzielczychdowykorzystanianapoczątekokresu
-6.3. Zmianyfunduszurestrukturyzacjibankówspółdzielczychdowykorzystania
-a) zwiększenia(z tytułu) …
-b) zmniejszenia(z tytułu) …
-6.4. Funduszrestrukturyzacjibankówspółdzielczychdowykorzystanianakoniecokresu
-6.5. Funduszrestrukturyzacjibankówspółdzielczychwykorzystanynapoczątekokresu
-6.6. Zmianyfunduszurestrukturyzacjibankówspółdzielczychwykorzystanego
-a) zwiększenia(z tytułu) …
-b) zmniejszenia(z tytułu)
-6.7. Funduszrestrukturyzacjibankówspółdzielczychwykorzystanynakoniecokresu
-6.8. Funduszrestrukturyzacjibankówspółdzielczychnakoniecokresu
-7.1. Funduszewłasnew przypadkuspełnieniawarunkugwarancjilubwykorzystanianarzędzirestrukturyzacji(wielkośćujemna)napoczątekokresu
-7.2. Zmianyfunduszywłasnychw przypadkuspełnieniawarunkugwarancjilubwykorzystanianarzędzirestrukturyzacji(wielkośćujemna)
-a) zwiększenia(z tytułu) …
-b) zmniejszenia(z tytułu) …
-7.3. Funduszewłasnew przypadkuspełnieniawarunkugwarancjilubwykorzystanianarzędzirestrukturyzacji(wielkośćujemna)nakoniecokresu
-8.1. Funduszz aktualizacjiwycenynapoczątekokresu
-8.2. Zmianyfunduszuz aktualizacjiwyceny
-a) zwiększenia(z tytułu) …
-b) zmniejszenia(z tytułu) …
-8.3. Funduszz aktualizacjiwycenynakoniecokresu (Innefunduszewłasne)
-9.1. Zysk(strata)z latubiegłychnapoczątekokresu – zmianyprzyjętychzasad(polityki)rachunkowości – korektybłędów
-9.2. Zysk(strata)z latubiegłychnapoczątekokresu,pokorektach
-9.3. Zmianazysku(straty)z latubiegłych
-a) zwiększenia(z tytułu) …
-b) zmniejszenia(z tytułu) …
-9.4. Zysk(strata)z latubiegłychnakoniecokresu
-10. Zysk(strata)netto III. Funduszewłasnenakoniecokresu(BZ) Rachunekprzepływówpieniężnych (metodapośrednia) A. Przepływyśrodkówpieniężnychz działalnościoperacyjnej I. Zysk(strata)netto II. Korektyrazem
-1. Amortyzacja
-2. Zysk(strata)z działalnościinwestycyjnej
-3. Zmiana stanu rezerw
-4. Zmianastanunależności,w tymudzielonychpożyczek
-5. Zmianastanuzobowiązańkrótkoterminowych(z wyjątkiemzaciągniętychpożyczeki kredytów)orazfun6. Zmianastanurozliczeńmiędzyokresowych
-7. Pozostałekorekty III. Przepływypieniężnenettoz działalnościoperacyjnej(I ±II) B. Przepływyśrodkówpieniężnychz działalnościinwestycyjnej I. Wpływy
-1. Zbyciewartościniematerialnychi prawnychorazrzeczowychaktywówtrwałych
-2. Zbycieinwestycjiw nieruchomościi wartościniematerialnei prawne
-3. Z aktywówfinansowych,w tym:
-a) zbyciei wykupaktywówfinansowych,z wyłączeniemudzielonychpożyczek
-b) dywidendy
-c) odsetki
-d) innewpływyz aktywówfinansowych
-4. Pozostałewpływyinwestycyjne II. Wydatki
-1. Nabyciewartościniematerialnychi prawnychorazrzeczowychaktywówtrwałych
-2. Naaktywafinansowe,w tym:
-a) nabyteaktywafinansowe,z wyłączeniemudzielonychpożyczek
-b) innewydatkinaaktywafinansowe
-3. Pozostałewydatkiinwestycyjne III. Przepływypieniężnenettoz działalnościinwestycyjnej(I −II) C. Przepływyśrodkówpieniężnychz działalnościfinansowej I. Wpływy:
-1. Obowiązkoweskładkiwnoszoneprzezbanki
-2. Obowiązkoweskładkiwnoszoneprzezspółdzielczekasyoszczędnościowo-kredytowe
-3. Obowiązkoweskładkiwnoszoneprzezfirmyinwestycyjne
-4. Wpłatyzobowiązańdozapłatydokonywaneprzezbanki
-5. Wpłatyzobowiązańdozapłatydokonywaneprzezspółdzielczekasyoszczędnościowo-kredytowe
-6. Wpłatyzobowiązańdozapłatydokonywaneprzezfirmyinwestycyjne
-7. Otrzymanedotacje
-8. Otrzymanekredytyi pożyczki
-9. Pozostałewpływyfinansowe II. Wydatki:
-1. Wypłataśrodkówgwarantowanychdeponentombanków
-2. Wypłataśrodkówgwarantowanychdeponentomspółdzielczychkasoszczędnościowo-kredytowych
-3. Spłatakredytówi pożyczek
-4. Spłaconeodsetki
-5. Pozostałewydatkifinansowe III. Przepływypieniężnenettoz działalnościfinansowej(I −II) D. Przepływypieniężnenetto,razem(A.III±B.III±C.III) E. Środkipieniężnenapoczątekokresu Dodatkoweinformacjei objaśnienia Dodatkoweinformacjei objaśnieniaobejmująw szczególności:
-1. Przedstawienie:
-1) informacji o znaczących w BFG zdarzeniach, które wystąpiły po dniu bilansowym i nie zostały uwzględnione w rocznymsprawozdaniufinansowym;
-2) informacjio znaczącychw BFGzdarzeniachdotyczącychlatubiegłych,którezostałyujętew rocznymsprawozdaniufinansowymrokuobrotowego,w tymo rodzajupopełnionegobłęduorazkwociekorekty;
-3) informacjio znaczącychzdarzeniachdotyczącychrokuobrotowego,mającychwpływnaistotnązmianęstrukturypozycjibilansowychorazwynikufinansowego;
-4) informacjiliczbowychzapewniającychporównywalnośćdanychrocznegosprawozdaniafinansowegozarokpoprzedzającyzesprawozdaniemzarokobrotowy.
-2. Daneuzupełniająceo aktywachi pasywach,pozycjachpozabilansowych,elementachrachunkuzyskówi strat,informacjew zakresieniezbędnymdolepszegozrozumieniasytuacjifinansoweji majątkowej,a takżewynikufinansowego BFG,w szczególności:
-1) informacjedotyczącestrukturynależnościwykazywanychw pozycjiIIaktywówbilansu,z uwzględnieniemnależnościzagrożonychi utworzonychodpisówaktualizujących;
-2) informacjedotyczącestrukturynależnościwykazywanychw pozycjiIIIi IVaktywówbilansu;
-3) danew zakresiezmianrzeczowychaktywówtrwałychorazwartościniematerialnychi prawnychBFG,zawierającestantychaktywównapoczątekrokuobrotowego,zwiększeniai zmniejszeniaz tytułu:aktualizacjiwartości nabycia,przemieszczeniawewnętrznegoorazstankońcowy,a dlamajątkuamortyzowanego–podobneprzedstawieniestanówi tytułówzmiandotychczasowejamortyzacjilubumorzenia;
-4) informacjedotyczącestrukturyzobowiązańwykazywanychw pozycjiI.2 pasywówbilansu;
-5) informacjeo strukturzefunduszyspecjalnychwykazywanychw pozycjiIIpasywówbilansu;
-6) strukturęzobowiązańwarunkowych,z podziałemnaudzielonegwarancjei poręczeniaorazpozostałezobowiązania,a takżestrukturęnależnościwarunkowych;
-7) strukturęzrealizowanychprzychodówzewskazaniemichźródeł;
-8) strukturękosztów;
-9) informacjeo proponowanympodzialezyskulubpokryciustratyzarokobrotowy;
-10) informacjeo:
-a) łącznejkwociekosztówwynagrodzeńBFG,z podziałemnawynagrodzeniazasadnicze,nagrodyi premie,
-b) wysokościrocznegowynagrodzeniałącznieczłonkówZarządui RadyBFG,z podziałemnawynagrodzenia zasadnicze, nagrody i premie,
-c) łącznejkwociewynagrodzeńz tytułuumówzleceniai o dzieło;
-11) inneinformacje,którenależyuznaćzaistotnedlazrozumieniarocznegosprawozdaniafinansowego.
+Treść obwieszczenia
+Załącznik – Rozporządzenie Ministra Rozwoju i Finansów z dnia 9 grudnia 2016 r. w sprawie szczególnych zasad rachunkowości Bankowego Funduszu Gwarancyjnego Rozdział 1 – Przepisy ogólne Rozdział 2 – Prowadzenie ksiąg rachunkowych Rozdział 3 – Ujmowanie i wycena niektórych aktywów i pasywów oraz ustalanie wyniku finansowego Rozdział 4 – Roczne sprawozdanie finansowe BFG Rozdział 5 – Przepisy przejściowe i końcowe
+Załącznik – Zakres informacji wykazywanych w rocznym sprawozdaniu finansowym BFG
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rozwoju i Finansów z dnia 9 grudnia 2016 r. w sprawie szczególnych zasad rachunkowości Bankowego Funduszu Gwarancyjnego (Dz. U. poz. 2115), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów z dnia 28 czerwca 2019 r. zmieniającym rozporządzenie w sprawie szczególnych zasad rachunkowości Bankowego Funduszu Gwarancyjnego (Dz. U. poz. 1329).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
+1)
+§ 15 i § 16 rozporządzenia Ministra Rozwoju i Finansów z dnia 9 grudnia 2016 r. w sprawie szczególnych zasad rachunkowości Bankowego Funduszu Gwarancyjnego (Dz. U. poz. 2115), które stanowią:
+„
+§ 15.
+1.
+W sprawozdaniu finansowym za rok 2016 dodatkowo wykazuje się:
+1)
+fundusz zapasowy,
+2)
+fundusz pomocowy,
+3)
+fundusz stabilizacyjny,
+4)
+fundusz środków odzyskanych z mas upadłości
+które z dniem wejścia w życie ustawy zostały zlikwidowane.
+2.
+W sprawozdaniu finansowym za rok 2016 w pozycji C.I Wpływy Rachunku przepływów pieniężnych podaje się wyłącznie:
+1.
+Obowiązkowe opłaty wnoszone przez banki
+2.
+Opłaty ostrożnościowe wnoszone przez banki
+3.
+Obowiązkowe opłaty wnoszone przez spółdzielcze kasy oszczędnościowo-kredytowe
+4.
+Otrzymane dotacje
+5.
+Otrzymane kredyty i pożyczki
+6.
+Pozostałe wpływy finansowe.
+§ 16.
+Rozporządzenie ma zastosowanie po raz pierwszy do sprawozdania finansowego BFG za rok obrotowy kończący się 31 grudnia 2016 r.
+” ;
+2)
+§ 2 i § 3 rozporządzenia Ministra Finansów z dnia 28 czerwca 2019 r. zmieniającego rozporządzenie w sprawie szczególnych zasad rachunkowości Bankowego Funduszu Gwarancyjnego (Dz. U. poz. 1329), które stanowią:
+„
+§ 2.
+Rozporządzenie ma zastosowanie po raz pierwszy do rocznego sprawozdania finansowego BFG za rok obrotowy kończący się dnia 31 grudnia 2019 r.
+§ 3.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+” .
+1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
+Załącznik – Rozporządzenie Ministra Rozwoju i Finansów z dnia 9 grudnia 2016 r. w sprawie szczególnych zasad rachunkowości Bankowego Funduszu Gwarancyjnego
+Na podstawie art. 312 ust. 2 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2020 r. poz. 842 oraz z 2021 r. poz. 680) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa szczególne zasady rachunkowości Bankowego Funduszu Gwarancyjnego, zwanego dalej „BFG”, w tym zakres informacji wykazywanych w informacji dodatkowej sprawozdania finansowego.
+§ 2.
+1.
+Przychodami BFG są środki pochodzące ze źródeł finansowania BFG określonych w art. 270 ust. 1 pkt 3, 4 i 12 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, zwanej dalej „ustawą”.
+2.
+Kosztami działalności BFG są koszty utrzymania organów BFG i Biura BFG, w tym amortyzacja, którą prezentuje się w rachunku zysków i strat w pozycji „Amortyzacja środków trwałych oraz wartości niematerialnych i prawnych”.
+3.
+Rezerwy lub zobowiązania z tytułu:
+1)
+gwarantowania depozytów w rozumieniu ustawy,
+2)
+świadczeń, o których mowa w art. 112 ust. 3 pkt 2, art. 179, art. 188 ust. 5, art. 264 ust. 2 pkt 4 i art. 268a ust. 2 pkt 4 ustawy,
+3)
+gwarancji i poręczeń, w tym gwarancji pokrycia strat, o których mowa w art. 112 ust. 3 pkt 1, art. 264 ust. 2 pkt 3 i art. 268a ust. 2 pkt 3 ustawy
+nie stanowią kosztów BFG, lecz zmniejszają odpowiednie fundusze własne BFG.
+4.
+Zarząd BFG jest obowiązany złożyć do ogłoszenia:
+1)
+wprowadzenie do sprawozdania finansowego,
+2)
+bilans,
+3)
+rachunek zysków i strat,
+4)
+zestawienie zmian w funduszach własnych za rok obrotowy,
+5)
+rachunek przepływów pieniężnych
+wraz ze sprawozdaniem z badania oraz odpisem uchwały o podziale zysku lub pokryciu straty, w terminie 15 dni od dnia podjęcia tej uchwały, w „Monitorze Sądowym i Gospodarczym”.
+5.
+Należności BFG wynikające z pożyczek udzielonych z funduszu restrukturyzacji banków spółdzielczych klasyfikuje się do normalnych albo straconych. Wysokość odpisów aktualizujących te należności ustala się na dzień bilansowy w wysokości 100% wartości należności straconych. W zakresie zasad klasyfikacji należności do kategorii straconych, określania wartości zabezpieczeń oraz podstawy dokonywania odpisów aktualizujących BFG stosuje odpowiednio przepisy rozporządzenia Ministra Finansów z dnia 16 grudnia 2008 r. w sprawie zasad tworzenia rezerw na ryzyko związane z działalnością banków (Dz. U. z 2019 r. poz. 520, z 2020 r. poz. 687 oraz z 2021 r. poz. 51).
+6.
+Do wysokości odpisów aktualizujących, ustalanych na dzień bilansowy, należności inne niż wymienione w ust. 5, BFG stosuje odpowiednio przepisy rozporządzenia Ministra Finansów z dnia 16 grudnia 2008 r. w sprawie zasad tworzenia rezerw na ryzyko związane z działalnością banków.
+7.
+Jeżeli po sporządzeniu rocznego sprawozdania finansowego BFG otrzyma informacje o zdarzeniach, które nastąpiły po sporządzeniu tego sprawozdania finansowego, mających istotny wpływ na informacje zawarte w dodatkowych informacjach i objaśnieniach informacji dodatkowej rocznego sprawozdania finansowego, to uwzględnia je w sprawozdaniu finansowym obejmującym następny rok obrotowy.
+§ 3.
+1.
+Księgi rachunkowe są prowadzone przez BFG, w jego siedzibie.
+2.
+W księgach rachunkowych ujmuje się wszystkie osiągnięte, przypadające na rzecz BFG przychody i obciążające go koszty związane z tymi przychodami, dotyczące danego roku obrotowego, niezależnie od terminu zapłaty.
+§ 4.
+1.
+Aktywa finansowe oraz zobowiązania finansowe, stanowiące instrumenty pochodne w rozumieniu przepisów o rachunkowości, ujmuje się w księgach rachunkowych na dzień zawarcia transakcji.
+2.
+Dłużne papiery wartościowe oraz akcje ujmuje się w księgach rachunkowych na dzień rozliczenia transakcji.
+3.
+Aktywa finansowe ujmuje się w księgach rachunkowych w cenie nabycia, to jest w wartości godziwej poniesionych wydatków lub przekazanych w zamian innych składników majątkowych, a zobowiązania finansowe w wartości godziwej uzyskanej kwoty lub wartości otrzymanych innych składników majątkowych.
+4.
+Aktywa odpowiadające zobowiązaniom do zapłaty ujmuje się w księgach rachunkowych w ostatnim dniu terminu do wnoszenia składek, określonego w uchwale Rady BFG.
+§ 5.
+1.
+Należności i zobowiązania finansowe, w tym kredyty, pożyczki, zrealizowane gwarancje i poręczenia oraz dłużne papiery wartościowe, wycenia się na dzień bilansowy według skorygowanej ceny nabycia.
+2.
+Akcje notowane na rynku regulowanym wycenia się na dzień bilansowy według wartości godziwej.
+3.
+Akcje nienotowane na rynku regulowanym wycenia się na dzień bilansowy według ceny nabycia, z uwzględnieniem trwałej utraty wartości.
+4.
+Aktywa odpowiadające zobowiązaniom do zapłaty wycenia się na dzień bilansowy w kwocie wymaganej zapłaty, z uwzględnieniem zasady ostrożności.
+§ 6.
+1.
+Odpisy aktualizujące wartość nabytych lub objętych akcji, wierzytelności prezentowanych w bilansie BFG jako należności, w tym składek, o których mowa w ustawie, lub aktywów, o których mowa w art. 112 ust. 1 ustawy, sfinansowanych z funduszy własnych BFG: funduszu gwarancyjnego banków, funduszu gwarancyjnego kas, funduszu przymusowej restrukturyzacji banków, funduszu przymusowej restrukturyzacji kas lub funduszu restrukturyzacji banków spółdzielczych zmniejszają odpowiednio te fundusze.Rozwiązanie odpisów aktualizujących te aktywa ujmuje się jako zwiększenie funduszy własnych BFG.
+2.
+Wynik ze zbycia, wierzytelności prezentowanych w bilansie BFG jako należności lub aktywów, o których mowa w art. 112 ust. 1 ustawy, sfinansowanych z funduszy własnych BFG: funduszu gwarancyjnego banków, funduszu gwarancyjnego kas, funduszu przymusowej restrukturyzacji banków, funduszu przymusowej restrukturyzacji kas lub funduszu restrukturyzacji banków spółdzielczych, ujmowany jest jako zmniejszenie albo zwiększenie funduszy własnych BFG.
+3.
+Zwiększenia wartości akcji, wycenianych według wartości godziwej, powyżej ceny nabycia oraz zmniejszenia wartości tych akcji do poziomu ceny nabycia z wyższej wartości bilansowej ujmuje się w wyniku z operacji finansowych.
+4.
+Wynik ze zbycia akcji odnoszony jest zgodnie z ust. 1 i 3.
+§ 7.
+1.
+Do dnia poprzedzającego dzień spełnienia warunku gwarancji obowiązki wynikające z gwarantowania środków pieniężnych stanowią zobowiązania warunkowe BFG.
+2.
+W przypadku spełnienia warunku gwarancji, równowartość rezerw z tytułu gwarantowania środków pieniężnych ujmuje się w pasywach w pozycji „Zmniejszenie funduszy własnych w przypadku spełnienia warunku gwarancji lub w przypadku wykorzystania narzędzi restrukturyzacji (wielkość ujemna)”.
+3.
+W przypadku gdy wypłata środków gwarantowanych zostanie sfinansowana środkami pieniężnymi pochodzącymi z funduszu ochrony środków gwarantowanych, równowartość rezerw ujmuje się w aktywach w pozycji „Należności z tytułu obowiązku wniesienia funduszu ochrony środków gwarantowanych”.
+4.
+Zobowiązania wobec deponentów ujmuje się w dniu podjęcia przez właściwy organ BFG decyzji o wypłacie środków gwarantowanych.
+5.
+Przy ustalaniu wartości rezerw i zobowiązań wobec deponentów pomija się dyskontowanie.
+§ 8.
+(uchylony).
+§ 8a.
+Należności z tytułu składek, o których mowa w ustawie, ujmuje się w księgach rachunkowych na dzień podjęcia przez Radę BFG uchwały określającej wysokość składek wnoszonych przez poszczególne podmioty zobowiązane do ich wniesienia.
+§ 9.
+1.
+Wartość należności Funduszu wynikających z roszczeń, o których mowa w art. 39 ust. 1 ustawy, pomniejsza się do chwili ich zapłaty o odpisy aktualizujące ich wartość w wysokości 100%.
+2.
+Rozwiązanie odpisów aktualizujących wartość należności, o których mowa w ust. 1, następuje z chwilą spłaty należności i ujmuje się je w pasywach w odpowiedniej pozycji funduszy własnych.
+3.
+Równowartość odsetek od należności, o których mowa w ust. 1, powiększa odpisy aktualizujące wartość tych należności.
+§ 10.
+1.
+Równowartość rezerw na gwarancje i poręczenia udzielone przez BFG z funduszy własnych zmniejsza wartość pozycji funduszy własnych. Rozwiązanie rezerw na te gwarancje i poręczenia ujmuje się jako zwiększenie tych funduszy własnych.
+2.
+Rezerwy na świadczenia, o których mowa w art. 112 ust. 3 pkt 2, art. 179, art. 188 ust. 5, art. 264 ust. 2 pkt 4 i art. 268a ust. 2 pkt 4 ustawy, udzielane w danym roku obrotowym, ujmuje się w księgach rachunkowych w dniu przejęcia pod warunkiem, że wartość rezerwy może być wiarygodnie oszacowana i po stronie BFG wystąpił obowiązek prawny lub zwyczajowy.
+3.
+Rezerwy z tytułu udzielenia gwarancji pokrycia strat, o której mowa w art. 112 ust. 3 pkt 1, art. 264 ust. 2 pkt 3 i art. 268a ust. 2 pkt 3 ustawy, wycenia się na dzień bilansowy w oszacowanej kwocie wymaganej zapłaty za dany okres w ramach roku obrotowego BFG, objęty tą gwarancją.
+4.
+Aktywa z tytułu udzielenia gwarancji pokrycia strat, o której mowa w art. 112 ust. 3 pkt 1, art. 264 ust. 2 pkt 3 oraz art. 268a ust. 2 pkt 3 ustawy, ujmuje się w księgach rachunkowych w dniu powstania należności w kwocie wymaganej zapłaty.
+5.
+Równowartość aktywów i rezerw, o których mowa w ust. 3 i 4, zalicza się do odpowiednich funduszy własnych BFG.
+§ 11.
+Wynik finansowy BFG stanowi różnicę pomiędzy przychodami, w tym z tytułu odsetek i prowizji, a kosztami, z uwzględnieniem wyniku z operacji finansowych.
+§ 12.
+Roczne sprawozdanie finansowe BFG składa się z:
+1)
+bilansu;
+2)
+rachunku zysków i strat;
+3)
+zestawienia zmian w funduszach własnych;
+4)
+rachunku przepływów pieniężnych;
+5)
+informacji dodatkowej, obejmującej wprowadzenie do rocznego sprawozdania finansowego oraz dodatkowe informacje i objaśnienia.
+§ 13.
+Zakres informacji wykazywanych w rocznym sprawozdaniu finansowym BFG określa załącznik do rozporządzenia.
+§ 14.
+Aktywa lub rezerwy z tytułu udzielenia gwarancji pokrycia strat, o której mowa w art. 20g ust. 2 pkt 3 i art. 20ba ust. 2 pkt 3 ustawy uchylanej na mocy art. 388 ustawy, wycenia się na dzień bilansowy w oszacowanej kwocie wymagającej zapłaty za dany okres w ramach roku obrotowego BFG, objęty tą gwarancją. Równowartość aktywów lub rezerw zalicza się do odpowiednich funduszy własnych BFG.
+§ 15.
+(pominięty).
+§ 16.
+(pominięty).
+§ 17.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+1) Obecnie działem administracji rządowej – instytucje finansowe kieruje Minister Finansów, Funduszy i Polityki Regionalnej, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Finansów z dnia 28 czerwca 2019 r. zmieniającego rozporządzenie w sprawie szczególnych zasad rachunkowości Bankowego Funduszu Gwarancyjnego (Dz. U. poz. 1329), które weszło w życie z dniem 1 sierpnia 2019 r. 3) Dodany przez § 1 pkt 1 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 4) Część wspólna ze zmianą wprowadzoną przez § 1 pkt 1 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 5) Dodany przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 2. 6) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 7) Zdanie pierwsze w brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 8) Przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 9) Dodany przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2. 10) W brzmieniu ustalonym przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 2. 11) Dodany przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 2. 12) Zamieszczony w obwieszczeniu. 13) Rozporządzenie zostało ogłoszone w dniu 22 grudnia 2016 r. 14) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 24 grudnia 2013 r. w sprawie szczególnych zasad rachunkowości Bankowego Funduszu Gwarancyjnego (Dz. U. poz. 1721), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 386 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996 i 1997).
+Załącznik – Zakres informacji wykazywanych w rocznym sprawozdaniu finansowym BFG
+Wprowadzenie do rocznego sprawozdania finansowego obejmuje w szczególności:
+1)
+nazwę i siedzibę BFG oraz wskazanie podstawy prawnej prowadzenia działalności;
+2)
+wskazanie okresu objętego sprawozdaniem finansowym;
+3)
+wskazanie, czy roczne sprawozdanie finansowe zostało sporządzone przy założeniu kontynuowania przez BFG działalności w dającej się przewidzieć przyszłości oraz czy nie istnieją okoliczności wskazujące na zagrożenie kontynuowania działalności;
+4)
+stosowane zasady rachunkowości, w tym metody wyceny aktywów i pasywów oraz ustalania przychodów i kosztów;
+5)
+dokonane w ciągu roku obrotowego zmiany zasad rachunkowości, w tym metod wyceny, wraz z uzasadnieniem ich wprowadzenia, jeżeli wywierają one istotny wpływ na roczne sprawozdanie finansowe, ze wskazaniem spowodowanej tymi zmianami różnicy w wyniku finansowym;
+6)
+dokonane w stosunku do poprzedniego rocznego sprawozdania finansowego zmiany sposobu sporządzania rocznego sprawozdania finansowego, wraz z uzasadnieniem ich wprowadzenia i skutkami w zakresie przedstawiania sytuacji majątkowej i finansowej BFG.
+Bilans Aktywa
+I.
+Środki pieniężne
+1.
+Środki pieniężne w kasie
+2.
+Środki pieniężne na rachunkach bieżących
+3.
+Środki pieniężne na rachunku lokat terminowych
+4.
+Środki pieniężne Zakładowego Funduszu Świadczeń Socjalnych
+5.
+Środki pieniężne na pozostałych rachunkach
+II.
+Należności od instytucji finansowych
+1.
+Należności od banków z tytułu:
+a)
+obowiązku wniesienia funduszu ochrony środków gwarantowanych
+b)
+składek (z wyłączeniem zobowiązań do zapłaty)
+c)
+zobowiązań do zapłaty
+d)
+udzielonych pożyczek
+e)
+zrealizowanych gwarancji i poręczeń
+f)
+nabytych wierzytelności
+g)
+pozostałych operacji
+2.
+Należności od spółdzielczych kas oszczędnościowo-kredytowych z tytułu:
+a)
+składek (z wyłączeniem zobowiązań do zapłaty)
+b)
+zobowiązań do zapłaty
+c)
+udzielonych pożyczek
+d)
+zrealizowanych gwarancji i poręczeń
+e)
+nabytych wierzytelności
+f)
+pozostałych operacji
+3.
+Należności od pozostałych instytucji finansowych
+III.
+Należności z tytułu podatków, dotacji, ubezpieczeń społecznych i zdrowotnych oraz innych świadczeń
+IV.
+Pozostałe należności i roszczenia
+V.
+Papiery wartościowe i inne aktywa finansowe
+1.
+Dłużne papiery wartościowe:
+a)
+banków
+b)
+Skarbu Państwa
+c)
+pozostałe
+2.
+Akcje:
+a)
+w instytucjach finansowych
+b)
+w pozostałych jednostkach
+3.
+Pozostałe papiery wartościowe i inne aktywa finansowe
+VI.
+Rzeczowe aktywa trwałe
+VII.
+Wartości niematerialne i prawne
+VIII.
+Rozliczenia międzyokresowe
+IX.
+Inne aktywa Aktywa razem
+Pasywa
+I.
+Zobowiązania
+1.
+Zobowiązania wobec deponentów
+2.
+Pozostałe zobowiązania
+II.
+Fundusze specjalne
+III.
+Rozliczenia międzyokresowe
+IV.
+Rezerwy
+V.
+Fundusz statutowy
+VI.
+Fundusz gwarancyjny banków
+1.
+Fundusz gwarancyjny banków do wykorzystania
+2.
+Fundusz gwarancyjny banków wykorzystany
+VII.
+Fundusz przymusowej restrukturyzacji banków
+1.
+Fundusz przymusowej restrukturyzacji banków do wykorzystania
+2.
+Fundusz przymusowej restrukturyzacji banków wykorzystany
+VIII.
+Fundusz gwarancyjny kas
+1.
+Fundusz gwarancyjny kas do wykorzystania
+2.
+Fundusz gwarancyjny kas wykorzystany
+IX.
+Fundusz przymusowej restrukturyzacji kas
+1.
+Fundusz przymusowej restrukturyzacji kas do wykorzystania
+2.
+Fundusz przymusowej restrukturyzacji kas wykorzystany
+X.
+Fundusz restrukturyzacji banków spółdzielczych
+1.
+Fundusz restrukturyzacji banków spółdzielczych do wykorzystania
+2.
+Fundusz restrukturyzacji banków spółdzielczych wykorzystany
+XI.
+Zmniejszenie funduszy własnych w przypadku spełnienia warunku gwarancji lub w przypadku wykorzystania narzędzi restrukturyzacji (wielkość ujemna)
+XII.
+Fundusz z aktualizacji wyceny
+XIII.
+Inne fundusze własne
+XIV.
+Zysk (strata) z lat ubiegłych
+XV.
+Wynik finansowy
+1.
+Zysk netto (wartość dodatnia)
+2.
+Strata netto (wartość ujemna)
+Pasywa razem Rachunek zysków i strat
+I.
+Przychody z działalności statutowej
+1.
+Przychody z tytułu odsetek
+2.
+Przychody z tytułu prowizji
+II.
+Koszty realizacji zadań statutowych
+1.
+Odsetki z tytułu kredytów krótkoterminowych otrzymanych z Narodowego Banku Polskiego
+2.
+Odsetki z tytułu pożyczek otrzymanych ze środków budżetu państwa
+3.
+Pozostałe koszty
+III.
+Wynik działalności statutowej (I – II)
+IV.
+Wynik z operacji finansowych
+1.
+Papierami wartościowymi
+2.
+Pozostałych
+V.
+Wynik z tytułu różnic kursowych
+VI.
+Koszty działalności
+1.
+Usługi obce
+2.
+Wynagrodzenia
+3.
+Ubezpieczenia i inne świadczenia
+4.
+Pozostałe
+VII.
+Amortyzacja środków trwałych oraz wartości niematerialnych i prawnych
+VIII.
+Odpisy na rezerwy i aktualizacja wartości
+IX.
+Rozwiązanie rezerw i aktualizacja wartości
+X.
+Pozostałe przychody operacyjne
+XI.
+Pozostałe koszty operacyjne
+XII.
+Wynik finansowy (III+IV+/-V-VI-VII-VIII+IX+X-XI)
+Zestawienie zmian w funduszach własnych
+I.
+Fundusze własne na początek okresu (BO)
+– zmiany przyjętych zasad (polityki) rachunkowości
+– korekty błędów
+II.
+Fundusze własne na początek okresu (BO), po korektach
+1.1.
+Fundusz statutowy na początek okresu
+1.2.
+Zmiany funduszu statutowego
+a)
+zwiększenia (z tytułu)
+b)
+zmniejszenia (z tytułu)
+1.3.
+Fundusz statutowy na koniec okresu
+2.1.
+Fundusz gwarancyjny banków na początek okresu
+2.2.
+Fundusz gwarancyjny banków do wykorzystania na początek okresu
+2.3.
+Zmiany funduszu gwarancyjnego banków do wykorzystania
+a)
+zwiększenia (z tytułu)
+b)
+zmniejszenia (z tytułu)
+2.4.
+Fundusz gwarancyjny banków do wykorzystania na koniec okresu
+2.5.
+Fundusz gwarancyjny banków wykorzystany na początek okresu
+2.6.
+Zmiany funduszu gwarancyjnego banków wykorzystanego
+a)
+zwiększenia (z tytułu)
+b)
+zmniejszenia (z tytułu)
+2.7.
+Fundusz gwarancyjny banków wykorzystany na koniec okresu
+2.8.
+Fundusz gwarancyjny banków na koniec okresu
+3.1.
+Fundusz przymusowej restrukturyzacji banków na początek okresu
+3.2.
+Fundusz przymusowej restrukturyzacji banków do wykorzystania na początek okresu
+3.3.
+Zmiany funduszu przymusowej restrukturyzacji banków do wykorzystania
+a)
+zwiększenia (z tytułu)
+b)
+zmniejszenia (z tytułu)
+3.4.
+Fundusz przymusowej restrukturyzacji banków do wykorzystania na koniec okresu
+3.5.
+Fundusz przymusowej restrukturyzacji banków wykorzystany na początek okresu
+3.6.
+Zmiany funduszu przymusowej restrukturyzacji banków wykorzystanego
+a)
+zwiększenia (z tytułu)
+b)
+zmniejszenia (z tytułu)
+3.7.
+Fundusz przymusowej restrukturyzacji banków wykorzystany na koniec okresu
+3.8.
+Fundusz przymusowej restrukturyzacji banków na koniec okresu
+4.1.
+Fundusz gwarancyjny kas na początek okresu
+4.2.
+Fundusz gwarancyjny kas do wykorzystania na początek okresu
+4.3.
+Zmiany funduszu gwarancyjnego kas do wykorzystania
+a)
+zwiększenia (z tytułu)
+b)
+zmniejszenia (z tytułu)
+4.4.
+Fundusz gwarancyjny kas do wykorzystania na koniec okresu
+4.5.
+Fundusz gwarancyjny kas wykorzystany na początek okresu
+4.6.
+Zmiany funduszu gwarancyjnego kas wykorzystanego
+a)
+zwiększenia (z tytułu)
+b)
+zmniejszenia (z tytułu)
+4.7.
+Fundusz gwarancyjny kas wykorzystany na koniec okresu
+4.8.
+Fundusz gwarancyjny kas na koniec okresu
+5.1.
+Fundusz przymusowej restrukturyzacji kas na początek okresu
+5.2.
+Fundusz przymusowej restrukturyzacji kas do wykorzystania na początek okresu
+5.3.
+Zmiany funduszu przymusowej restrukturyzacji kas do wykorzystania
+a)
+zwiększenia (z tytułu)
+b)
+zmniejszenia (z tytułu)
+5.4.
+Fundusz przymusowej restrukturyzacji kas do wykorzystania na koniec okresu
+5.5.
+Fundusz przymusowej restrukturyzacji kas wykorzystany na początek okresu
+5.6.
+Zmiany funduszu przymusowej restrukturyzacji kas wykorzystanego
+a)
+zwiększenia (z tytułu)
+b)
+zmniejszenia (z tytułu)
+5.7.
+Fundusz przymusowej restrukturyzacji kas wykorzystany na koniec okresu
+5.8.
+Fundusz przymusowej restrukturyzacji kas na koniec okresu
+6.1.
+Fundusz restrukturyzacji banków spółdzielczych na początek okresu
+6.2.
+Fundusz restrukturyzacji banków spółdzielczych do wykorzystania na początek okresu
+6.3.
+Zmiany funduszu restrukturyzacji banków spółdzielczych do wykorzystania
+a)
+zwiększenia (z tytułu)
+b)
+zmniejszenia (z tytułu)
+6.4.
+Fundusz restrukturyzacji banków spółdzielczych do wykorzystania na koniec okresu
+6.5.
+Fundusz restrukturyzacji banków spółdzielczych wykorzystany na początek okresu
+6.6.
+Zmiany funduszu restrukturyzacji banków spółdzielczych wykorzystanego
+a)
+zwiększenia (z tytułu)
+b)
+zmniejszenia (z tytułu)
+6.7.
+Fundusz restrukturyzacji banków spółdzielczych wykorzystany na koniec okresu
+6.8.
+Fundusz restrukturyzacji banków spółdzielczych na koniec okresu
+7.1.
+Fundusze własne w przypadku spełnienia warunku gwarancji lub wykorzystania narzędzi restrukturyzacji (wielkość ujemna) na początek okresu
+7.2.
+Zmiany funduszy własnych w przypadku spełnienia warunku gwarancji lub wykorzystania narzędzi restrukturyzacji (wielkość ujemna)
+a)
+zwiększenia (z tytułu)
+b)
+zmniejszenia (z tytułu)
+7.3.
+Fundusze własne w przypadku spełnienia warunku gwarancji lub wykorzystania narzędzi restrukturyzacji (wielkość ujemna) na koniec okresu
+8.1.
+Fundusz z aktualizacji wyceny na początek okresu
+8.2.
+Zmiany funduszu z aktualizacji wyceny
+a)
+zwiększenia (z tytułu)
+b)
+zmniejszenia (z tytułu)
+8.3.
+Fundusz z aktualizacji wyceny na koniec okresu (Inne fundusze własne)
+9.1.
+Zysk (strata) z lat ubiegłych na początek okresu
+– zmiany przyjętych zasad (polityki) rachunkowości
+– korekty błędów
+9.2.
+Zysk (strata) z lat ubiegłych na początek okresu, po korektach
+9.3.
+Zmiana zysku (straty) z lat ubiegłych
+a)
+zwiększenia (z tytułu)
+b)
+zmniejszenia (z tytułu)
+9.4.
+Zysk (strata) z lat ubiegłych na koniec okresu
+10.
+Zysk (strata) netto
+III.
+Fundusze własne na koniec okresu (BZ)
+Rachunek przepływów pieniężnych (metoda pośrednia)
+A.
+Przepływy środków pieniężnych z działalności operacyjnej
+I.
+Zysk (strata) netto
+II.
+Korekty razem
+1.
+Amortyzacja
+2.
+Zysk (strata) z działalności inwestycyjnej
+3.
+Zmiana stanu rezerw
+4.
+Zmiana stanu należności, w tym udzielonych pożyczek
+5.
+Zmiana stanu zobowiązań krótkoterminowych (z wyjątkiem zaciągniętych pożyczek i kredytów) oraz funduszy specjalnych
+6.
+Zmiana stanu rozliczeń międzyokresowych
+7.
+Pozostałe korekty
+III.
+Przepływy pieniężne netto z działalności operacyjnej (I ± II)
+B.
+Przepływy środków pieniężnych z działalności inwestycyjnej
+I.
+Wpływy
+1.
+Zbycie wartości niematerialnych i prawnych oraz rzeczowych aktywów trwałych
+2.
+Zbycie inwestycji w nieruchomości i wartości niematerialne i prawne
+3.
+Z aktywów finansowych, w tym:
+a)
+zbycie i wykup aktywów finansowych, z wyłączeniem udzielonych pożyczek
+b)
+dywidendy
+c)
+odsetki
+d)
+inne wpływy z aktywów finansowych
+4.
+Pozostałe wpływy inwestycyjne
+II.
+Wydatki
+1.
+Nabycie wartości niematerialnych i prawnych oraz rzeczowych aktywów trwałych
+2.
+Na aktywa finansowe, w tym:
+a)
+nabyte aktywa finansowe, z wyłączeniem udzielonych pożyczek
+b)
+inne wydatki na aktywa finansowe
+3.
+Pozostałe wydatki inwestycyjne
+III.
+Przepływy pieniężne netto z działalności inwestycyjnej (I – II)
+C.
+Przepływy środków pieniężnych z działalności finansowej
+I.
+Wpływy:
+1.
+Obowiązkowe składki wnoszone przez banki
+2.
+Obowiązkowe składki wnoszone przez spółdzielcze kasy oszczędnościowo-kredytowe
+3.
+Obowiązkowe składki wnoszone przez firmy inwestycyjne
+4.
+Wpłaty zobowiązań do zapłaty dokonywane przez banki
+5.
+Wpłaty zobowiązań do zapłaty dokonywane przez spółdzielcze kasy oszczędnościowo-kredytowe
+6.
+Wpłaty zobowiązań do zapłaty dokonywane przez firmy inwestycyjne
+7.
+Otrzymane dotacje
+8.
+Otrzymane kredyty i pożyczki
+9.
+Pozostałe wpływy finansowe
+II.
+Wydatki:
+1.
+Wypłata środków gwarantowanych deponentom banków
+2.
+Wypłata środków gwarantowanych deponentom spółdzielczych kas oszczędnościowo-kredytowych
+3.
+Spłata kredytów i pożyczek
+4.
+Spłacone odsetki
+5.
+Pozostałe wydatki finansowe
+III.
+Przepływy pieniężne netto z działalności finansowej (I – II)
+D.
+Przepływy pieniężne netto, razem (A.III ± B.III ± CIII)
+E.
+Środki pieniężne na początek okresu
+F.
+Środki pieniężne na koniec okresu (E ± D)
+Dodatkowe informacje i objaśnienia Dodatkowe informacje i objaśnienia obejmują w szczególności:
+1.
+Przedstawienie:
+1)
+informacji o znaczących w BFG zdarzeniach, które wystąpiły po dniu bilansowym i nie zostały uwzględnione w rocznym sprawozdaniu finansowym;
+2)
+informacji o znaczących w BFG zdarzeniach dotyczących lat ubiegłych, które zostały ujęte w rocznym sprawozdaniu finansowym roku obrotowego, w tym o rodzaju popełnionego błędu oraz kwocie korekty;
+3)
+informacji o znaczących zdarzeniach dotyczących roku obrotowego, mających wpływ na istotną zmianę struktury pozycji bilansowych oraz wyniku finansowego;
+4)
+informacji liczbowych zapewniających porównywalność danych rocznego sprawozdania finansowego za rok poprzedzający ze sprawozdaniem za rok obrotowy.
+2.
+Dane uzupełniające o aktywach i pasywach, pozycjach pozabilansowych, elementach rachunku zysków i strat, informacje w zakresie niezbędnym do lepszego zrozumienia sytuacji finansowej i majątkowej, a także wyniku finansowego BFG, w szczególności:
+1)
+informacje dotyczące struktury należności wykazywanych w pozycji II aktywów bilansu, z uwzględnieniem należności zagrożonych i utworzonych odpisów aktualizujących;
+2)
+informacje dotyczące struktury należności wykazywanych w pozycji III i IV aktywów bilansu;
+3)
+dane w zakresie zmian rzeczowych aktywów trwałych oraz wartości niematerialnych i prawnych BFG, zawierające stan tych aktywów na początek roku obrotowego, zwiększenia i zmniejszenia z tytułu: aktualizacji wartości nabycia, przemieszczenia wewnętrznego oraz stan końcowy, a dla majątku amortyzowanego – podobne przedstawienie stanów i tytułów zmian dotychczasowej amortyzacji lub umorzenia;
+4)
+informacje dotyczące struktury zobowiązań wykazywanych w pozycji I.2 pasywów bilansu;
+5)
+informacje o strukturze funduszy specjalnych wykazywanych w pozycji II pasywów bilansu;
+6)
+strukturę zobowiązań warunkowych, z podziałem na udzielone gwarancje i poręczenia oraz pozostałe zobowiązania, a także strukturę należności warunkowych;
+7)
+strukturę zrealizowanych przychodów ze wskazaniem ich źródeł;
+8)
+strukturę kosztów;
+9)
+informacje o proponowanym podziale zysku lub pokryciu straty za rok obrotowy;
+10)
+informacje o:
+a)
+łącznej kwocie kosztów wynagrodzeń BFG, z podziałem na wynagrodzenia zasadnicze, nagrody i premie,
+b)
+wysokości rocznego wynagrodzenia łącznie członków Zarządu i Rady BFG, z podziałem na wynagrodzenia zasadnicze, nagrody i premie,
+c)
+łącznej kwocie wynagrodzeń z tytułu umów zlecenia i o dzieło;
+11)
+inne informacje, które należy uznać za istotne dla zrozumienia rocznego sprawozdania finansowego.
+
+#### Rozdział 1 Przepisy ogólne
+
+#### Rozdział 2 Prowadzenie ksiąg rachunkowych
+
+#### Rozdział 3 Ujmowanie i wycena niektórych aktywów i pasywów oraz ustalanie wyniku finansowego
+
+#### Rozdział 4 Roczne sprawozdanie finansowe BFG
+
+#### Rozdział 5 Przepisy przejściowe i końcowe
 

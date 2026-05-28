@@ -8,12 +8,10 @@ pos: 497
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Przepisy wprowadzające ustawy reformujące funkcjonowanie gospodarki i administracji publicznej
-
-*USTAWA z dnia 8 sierpnia 1996 r.*
+# Ustawa z dnia 8 sierpnia 1996 r.Przepisy wprowadzające ustawy reformujące funkcjonowanie gospodarki i administracji publicznej
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +22,21 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1996-08-08 |
 | Data wydania | 1996-08-30 |
+| Wejście w życie | 1997-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961060497) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1996/497/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa zasady i tryb wprowadzenia w życie ustaw:
+
+- **1)** z dnia 8 sierpnia 1996 r. o organizacji i trybie pracy Rady Ministrów oraz o zakresie działania ministrów (Dz. U. Nr 106, poz. 492),
+- **2)** z dnia 21 czerwca 1996 r. o urzędzie Ministra Spraw Wewnętrznych i Administracji (Dz. U. Nr 106, poz. 491),
+- **3)** z dnia 21 czerwca 1996 r. o urzędzie Ministra Gospodarki (Dz. U. Nr 106, poz. 490),
+- **4)** z dnia 8 sierpnia 1996 r. o urzędzie Ministra Skarbu Państwa (Dz. U. Nr 106, poz. 493),
+- **5)** z dnia 21 czerwca 1996 r. o urzędzie Ministra Finansów oraz o urzędach i izbach skarbowych (Dz. U. Nr 106, poz. 489),
+- **6)** z dnia 8 sierpnia 1996 r. o Komitecie Integracji Europejskiej (Dz. U. Nr 106, poz. 494)
+- **7)** z dnia 8 sierpnia 1996 r. o Rządowym Centrum Studiów Strategicznych (Dz. U. Nr 106, poz. 495).
 
 **Art. 2.**
 
@@ -39,12 +46,13 @@ source: "isap-pdf"
 - **2)** Ministra Przekształceń Własnościowych,
 - **3)** Ministra Współpracy Gospodarczej z Zagranicą,
 - **4)** Ministra Gospodarki Przestrzennej i Budownictwa,
-- **5)** Ministra - Szefa Urzędu Rady Ministrów,
-- **6)** Ministra - Kierownika Centralnego Urzędu Planowania,
+- **5)** Ministra – Szefa Urzędu Rady Ministrów,
+- **6)** Ministra – Kierownika Centralnego Urzędu Planowania,
 - **7)** Ministra Spraw Wewnętrznych.
 
 2. Znosi się:
 
+- **1)** Centralny Urząd Planowania,
 - **2)** Urząd Rady Ministrów.
 
 3. Tworzy się urzędy:
@@ -57,7 +65,7 @@ source: "isap-pdf"
 
 5. Tworzy się urząd:
 
-- **1)** Prezesa Urzędu Mieszkalnictwa i Rozwoju Miast, działający na pod stawie odrębnych przepisów,
+- **1)** Prezesa Urzędu Mieszkalnictwa i Rozwoju Miast, działający na podstawie odrębnych przepisów,
 - **2)** Głównego Geodety Kraju, działający na podstawie odrębnych przepisów.
 
 6. Tworzy się:
@@ -77,17 +85,30 @@ source: "isap-pdf"
 
 #### Rozdział 2 Zakres zadań i kompetencji przekazanych Ministrom: Spraw Wewnętrznych i Administracji, Gospodarki oraz Skarbu Państwa
 
-**Art. 6.** Do zakresu działania Ministra Spraw Wewnętrznych i Administracji, Ministra Gospodarki oraz Ministra Skarbu Państwa należą zadania i kompetencje określone w ustawach, o których mowa w art. 1 pkt 2-4, z uwzględnieniem zasad określonych w niniejszej ustawie.
+**Art. 6.** Do zakresu działania Ministra Spraw Wewnętrznych i Administracji, Ministra Gospodarki oraz Ministra Skarbu Państwa należą zadania i kompetencje określone w ustawach, o których mowa w art. 1 pkt 2–4, z uwzględnieniem zasad określonych w niniejszej ustawie.
 
 **Art. 7.** Do zakresu działania Ministra Spraw Wewnętrznych i Administracji przechodzą zadania i kompetencje należące dotychczas do:
 
+- **1)** Ministra Spraw Wewnętrznych, określone w przepisach ustaw i innych aktach prawnych z mocą ustawy oraz wynikające z przepisów wydanych na podstawie upoważnień zawartych w ustawach lub w innych aktach prawnych z mocą ustawy, chyba że przepisy niniejszej ustawy lub przepisy odrębne stanowią inaczej,
+- **2)** ministra właściwego do spraw administracji, określone w przepisach ustaw i innych aktach prawnych z mocą ustawy oraz wynikające z przepisów wydanych na podstawie upoważnień zawartych w ustawach lub innych aktach prawnych z mocą ustawy,
+- **3)** Ministra – Szefa Urzędu Rady Ministrów, określone w przepisach ustaw i innych aktach prawnych z mocą ustawy oraz wynikające z przepisów wydanych na podstawie upoważnień zawartych w ustawach lub innych aktach prawnych z mocą ustawy,
+- **4)** Ministra Gospodarki Przestrzennej i Budownictwa, określone w przepisach ustaw i innych aktach prawnych z mocą ustawy oraz wynikające z przepisów wydanych na podstawie upoważnień zawartych w ustawach lub innych aktach prawnych z mocą ustawy, z wyjątkiem zadań i kompetencji, które na mocy przepisów niniejszej ustawy lub przepisów odrębnych przechodzą do zakresu działania Prezesa Urzędu Mieszkalnictwa i Rozwoju Miast albo innych organów administracji rządowej,
+- **5)** Urzędu Rady Ministrów, określone w przepisach ustaw i innych aktach prawnych z mocą ustawy oraz wynikające z przepisów wydanych na podstawie upoważnień zawartych w ustawach lub innych aktach prawnych z mocą ustawy.
+
 **Art. 8.** Do zakresu działania Ministra Gospodarki przechodzą zadania i kompetencje należące dotychczas do:
 
-**Art. 9.** Do zakresu działania Ministra Skarbu Państwa przechodzą zadania i kompe tencje należące dotychczas do:
+- **1)** Ministra Przemysłu i Handlu, określone w przepisach ustaw i innych aktach prawnych z mocą ustawy oraz wynikające z przepisów wydanych na podstawie upoważnień zawartych w ustawach lub w innych aktach prawnych z mocą ustawy, chyba że przepisy niniejszej ustawy lub przepisy odrębne stanowią inaczej,
+- **2)** Ministra Współpracy Gospodarczej z Zagranicą, określone w przepisach ustaw i innych aktach prawnych z mocą ustawy oraz wynikające z przepisów wydanych na podstawie upoważnień zawartych w ustawach lub w innych aktach prawnych z mocą ustawy, chyba że przepisy niniejszej ustawy lub przepisy odrębne stanowią inaczej,
+- **3)** Centralnego Urzędu Planowania i Ministra – Kierownika Centralnego Urzędu Planowania, określone w przepisach ustaw i innych aktach prawnych z mocą ustawy oraz wynikające z przepisów wydanych na podstawie upoważnień zawartych w ustawach lub w innych aktach prawnych z mocą ustawy, chyba że przepisy niniejszej ustawy lub przepisy odrębne stanowią inaczej.
+
+**Art. 9.** Do zakresu działania Ministra Skarbu Państwa przechodzą zadania i kompetencje należące dotychczas do:
+
+- **1)** Ministra Przekształceń Własnościowych, określone w przepisach ustaw i innych aktach prawnych z mocą ustawy oraz wynikające z przepisów wydanych na podstawie upoważnień zawartych w ustawach lub w innych aktach prawnych z mocą ustawy, chyba że przepisy niniejszej ustawy lub przepisy odrębne stanowią inaczej,
+- **2)** właściwego ministra, określone w ustawie z dnia 30 kwietnia 1993 r. o narodowych funduszach inwestycyjnych i ich prywatyzacji (Dz. U. Nr 44, poz. 202 i z 1994 r. Nr 84, poz. 385).
 
 **Art. 10.**
 
-1. Do zakresu działania Ministra Skarbu Państwa przechodzą również zada nia i kompetencje w zakresie wykonywania praw z akcji i udziałów należących do Skarbu Państwa, wykonywanych przed dniem wejścia w życie ustawy przez Ministrów:
+1. Do zakresu działania Ministra Skarbu Państwa przechodzą również zadania i kompetencje w zakresie wykonywania praw z akcji i udziałów należących do Skarbu Państwa, wykonywanych przed dniem wejścia w życie ustawy przez Ministrów:
 
 - **1)** Przemysłu i Handlu,
 - **2)** Przekształceń Własnościowych,
@@ -101,6 +122,9 @@ source: "isap-pdf"
 
 **Art. 11.** Rada Ministrów określi, w drodze rozporządzenia:
 
+- **1)** tryb przejęcia przez Ministra Skarbu Państwa należących do Skarbu Państwa akcji i udziałów, z których prawa wykonywali ministrowie, o których mowa w art. 10 ust. 1,
+- **2)** tryb i terminy przejęcia przez Ministra Skarbu Państwa należących do Skarbu Państwa akcji i udziałów, z których prawa wykonywały inne niż wymienione w art. 10 ust. 1 organy administracji rządowej oraz państwowe jednostki organizacyjne nie posiadające osobowości prawnej.
+
 **Art. 12.**
 
 1. Organy i jednostki, o których mowa w art. 10 ust. 2, przekażą Ministrowi Skarbu Państwa, w terminie trzech miesięcy od dnia wejścia w życie ustawy, informacje o akcjach i udziałach, w stosunku do których wykonywali, w dniu wejścia w życie ustawy, uprawnienia wynikające z praw majątkowych Skarbu Państwa.
@@ -111,7 +135,7 @@ source: "isap-pdf"
 
 **Art. 13.**
 
-1. Zadania i kompetencje organu założycielskiego przedsiębiorstw państwo wych, należące dotychczas do naczelnych i centralnych organów administracji rządowej, przejmują wojewodowie, z zastrzeżeniem ust. 2, 3 i 4 pkt 1-2.
+1. Zadania i kompetencje organu założycielskiego przedsiębiorstw państwowych, należące dotychczas do naczelnych i centralnych organów administracji rządowej, przejmują wojewodowie, z zastrzeżeniem ust. 2, 3 i 4 pkt 1 i 2.
 
 2. Przepisu ust. 1 nie stosuje się do przedsiębiorstw państwowych:
 
@@ -132,9 +156,9 @@ source: "isap-pdf"
 
 **Art. 15.**
 
-1. Zadania zniesionych organów, o których mowa w art. 2 ust. 1 i 2, w zakresie sprawowania nadzoru nad jednostkami badawczo-rozwojowymi przejmują organy lub jednostki, o których mowa w art. 2 ust. 3-5.
+1. Zadania zniesionych organów, o których mowa w art. 2 ust. 1 i 2, w zakresie sprawowania nadzoru nad jednostkami badawczo-rozwojowymi przejmują organy lub jednostki, o których mowa w art. 2 ust. 3–5.
 
-2. Rada Ministrów określi, w drodze rozporządzenia, listę jednostek badawczorozwojowych, przejmowanych przez organy lub jednostki, o których mowa w ust. 1.
+2. Rada Ministrów określi, w drodze rozporządzenia, listę jednostek badawczo-rozwojowych przejmowanych przez organy lub jednostki, o których mowa w ust. 1.
 
 **Art. 16.**
 
@@ -154,9 +178,7 @@ source: "isap-pdf"
 
 - **1)** regulaminu prac Rady Ministrów,
 - **2)** organów wewnętrznych Rady Ministrów,
-- **3)** aktów prawnych związanych z zakresem działania urzędu centralnego - zachowują moc przepisy dotychczasowe, z zastrzeżeniem art. 19.
-
-1a. Do czasu nadania ministerstwom statutów przez Prezesa Rady Ministrów zachowują moc dotychczasowe statuty tych ministerstw.
+- **3)** aktów prawnych związanych z zakresem działania urzędu centralnego zachowują moc przepisy dotychczasowe, z zastrzeżeniem art. 19.
 
 2. Akty powołania sekretarzy i podsekretarzy stanu oraz zakresy ich czynności zachowują moc:
 
@@ -167,10 +189,6 @@ source: "isap-pdf"
 
 1. Pełnomocnicy Rządu ustanowieni w urzędach, o których mowa w art. 2 ust. 1, pełnią swoje zadania w dotychczasowym zakresie do czasu ich odwołania.
 
-2. Prezes Rady Ministrów, w terminie trzech miesięcy od dnia wejścia w życie niniejszej ustawy, ustali:
+2.
 
-- **1)** listę pełnomocników, których zadania podlegają zniesieniu,
-- **2)** sposób zapewnienia pełnomocnikom obsługi przez nowo utworzone urzędy w zakresie określonym w art. 10 ust. 4 ustawy, o której mowa w art. 1 pkt 1.
-
-**Art. 20.**
 

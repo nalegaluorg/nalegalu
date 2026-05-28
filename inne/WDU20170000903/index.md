@@ -8,10 +8,10 @@ pos: 903
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Warszawa, dnia 9 maja rozporządzenie Ministra rozwoju finansów dnia 26 kwietnia sprawie sposobu oznakowania jednostek pływających Krajowej administracji skarbowej Na podstawie art. 136 ust. 11 ustawy dnia 16 listopada 2016 o Krajowej Administracji Skarbowej 1947, późn. zm. ) zarządza się, co następuje: § 1. 1. Jednostki pływające Krajowej Administracji Skarbowej, zwane dalej „jednostkami pływającymi”, oznakowuje się:
+# Rozporządzenie Ministra Rozwoju i Finansówz dnia 26 kwietnia 2017 r. w sprawie sposobu oznakowania jednostek pływających Krajowej Administracji Skarbowej
 
 | Pole | Wartość |
 |---|---|
@@ -22,18 +22,44 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2017-04-26 |
 | Data wydania | 2017-05-09 |
+| Wejście w życie | 2017-05-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000903) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/903/text.pdf) |
 
-1) banderą, której wzór określają przepisy ustawy dnia 31 stycznia 1980 o godle, barwach hymnie Rzeczypospolitej Polskiej o pieczęciach państwowych 2016 625 1948);
-2) flagą, której wzór jest określony przepisach wydanych na podstawie art. 9 ust. 3 ustawy dnia 31 stycznia 1980 o godle, barwach hymnie Rzeczypospolitej Polskiej o pieczęciach państwowych;
-3) nazwą jednostki pływającej kolorze czarnym umieszczoną na obu burtach części dziobowej powtórzoną części rufowej − o wysokości liter cyfr proporcjonalnej do wielkości jednostki pływającej, kolorze zielonym na kabinie po obu burtach jednostki pływającej − o długości kadłuba powyżej 6 m;
-4) nazwą portu macierzystego umieszczoną na rufie pod nazwą jednostki pływającej − kolorze czarnym, o wysokości liter proporcjonalnej do wielkości jednostki pływającej;
-5) napisem „SŁUŻBA CELNO-SKARBOWA” umieszczonym na sygnalizatorze świateł ostrzegawczych na obu burtach jednostki pływającej powyżej górnej krawędzi pasa zmiennego zanurzenia lub na kabinie jednostki pływającej − kolorze zielonym;
-6) napisem „CUSTOMS” umieszczonym na kabinie po obu burtach jednostki pływającej, poniżej napisu „SŁUŻBA CELNO-SKARBOWA” − kolorze zielonym;
-7) napisem „CUSTOMS” wraz nazwą jednostki pływającej umieszczonym na dachu nadbudówki − kolorze zielonym;
-8) kolorem:
-a) zielonym − nawodną zewnętrzną część kadłuba, o szerokości nie mniejszej niż 20% wysokości burty jednostki pływającej od górnej krawędzi pasa zmiennego zanurzenia, biegnącym pośrodku wzdłuż kadłuba,
-b) białym − kabinę.
-2. Graficzny sposób oznakowania jednostek pływających określa załącznik do rozporządzenia.
+Treść rozporządzenia
+Załącznik – Graficzny sposób oznakowania jednostek pływających Krajowej Administracji Skarbowej
+Treść rozporządzenia
+Na podstawie art. 136 ust. 11 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.) zarządza się, co następuje:
+§ 1.
+1.
+Jednostki pływające Krajowej Administracji Skarbowej, zwane dalej „jednostkami pływającymi”, oznakowuje się:
+1)
+banderą, której wzór określają przepisy ustawy z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2016 r. poz. 625 i 1948);
+2)
+flagą, której wzór jest określony w przepisach wydanych na podstawie art. 9 ust. 3 ustawy z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych;
+3)
+nazwą jednostki pływającej w kolorze czarnym umieszczoną na obu burtach w części dziobowej oraz powtórzoną w części rufowej – o wysokości liter i cyfr proporcjonalnej do wielkości jednostki pływającej, w kolorze zielonym na kabinie po obu burtach jednostki pływającej – o długości kadłuba powyżej 6 m;
+4)
+nazwą portu macierzystego umieszczoną na rufie pod nazwą jednostki pływającej – w kolorze czarnym, o wysokości liter proporcjonalnej do wielkości jednostki pływającej;
+5)
+napisem „SŁUŻBA CELNO-SKARBOWA” umieszczonym na sygnalizatorze świateł ostrzegawczych oraz na obu burtach jednostki pływającej powyżej górnej krawędzi pasa zmiennego zanurzenia lub na kabinie jednostki pływającej – w kolorze zielonym;
+6)
+napisem „CUSTOMS” umieszczonym na kabinie po obu burtach jednostki pływającej, poniżej napisu „SŁUŻBA CELNO-SKARBOWA” – w kolorze zielonym;
+7)
+napisem „CUSTOMS” wraz z nazwą jednostki pływającej umieszczonym na dachu nadbudówki – w kolorze zielonym;
+8)
+kolorem:
+a)
+zielonym – nawodną zewnętrzną część kadłuba, o szerokości nie mniejszej niż 20% wysokości burty jednostki pływającej od górnej krawędzi pasa zmiennego zanurzenia, biegnącym pośrodku wzdłuż kadłuba,
+b)
+białym – kabinę.
+2.
+Graficzny sposób oznakowania jednostek pływających określa załącznik do rozporządzenia.
+§ 2.
+Elementem składowym oznakowania jednostki pływającej jest jej nazwa, która składa się z liter „SCS” oddzielonych poziomą kreską od dwucyfrowego numeru jednostki pływającej.
+§ 3.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708 i 768. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 5 listopada 2009 r. w sprawie sposobu oznakowania jednostek pływających Służby Celnej (Dz. U. poz. 1497), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 4 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379).
+Załącznik – Graficzny sposób oznakowania jednostek pływających Krajowej Administracji Skarbowej
+patrz oryginał
 

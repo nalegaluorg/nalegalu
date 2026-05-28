@@ -8,12 +8,10 @@ pos: 95
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zakładach leczniczych dla zwierząt
-
-*USTAWA z dnia 18 grudnia 2003 r.*
+# Ustawa z dnia 18 grudnia 2003 r. o zakładach leczniczych dla zwierząt
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2003-12-18 |
 | Data wydania | 2004-01-27 |
+| Wejście w życie | 2004-02-11 |
 | Ostatnia zmiana | 2026-03-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040110095) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/95/text.pdf) |
 
@@ -35,7 +34,7 @@ source: "isap-pdf"
 
 2. Zakład leczniczy dla zwierząt może być utworzony i utrzymywany również w celu realizacji zadań dydaktycznych i badawczych w powiązaniu ze świadczeniem usług weterynaryjnych.
 
-3. (uchylony)
+3. Do zakładów leczniczych dla zwierząt nie stosuje się przepisów ustawy z dnia 19 listopada 1999 r. – Prawo działalności gospodarczej (Dz. U. Nr 101, poz. 1178, z późn. zm.).
 
 **Art. 2.**
 
@@ -47,7 +46,8 @@ source: "isap-pdf"
 - **4)** udzielaniu porad i konsultacji;
 - **5)** pielęgnacji zwierząt;
 - **6)** wydawaniu opinii i orzeczeń;
-- **7)** wykonywaniu czynności związanych z określeniem zdolności rozrodczych zwierząt i ich zaburzeń oraz biotechniką rozrodu; paszami leczniczymi oraz wyrobami medycznymi przeznaczonymi dla zwierząt, na zasadach określonych w odrębnych przepisach;
+- **7)** wykonywaniu czynności związanych z określeniem zdolności rozrodczych zwierząt i ich zaburzeń oraz biotechniką rozrodu;
+- **8)** wykonywaniu detalicznego obrotu produktami leczniczymi weterynaryjnymi, paszami leczniczymi oraz wyrobami medycznymi przeznaczonymi dla zwierząt, na zasadach określonych w odrębnych przepisach;
 - **9)** wykonywaniu badań laboratoryjnych i innych badań diagnostycznych, zwanym dalej „usługami laboratoryjnymi”.
 
 2. Usługi weterynaryjne mogą być świadczone przez lekarza weterynarii posiadającego prawo wykonywania zawodu, z zastrzeżeniem art. 3, w ramach działalności zakładu leczniczego dla zwierząt.
@@ -58,11 +58,11 @@ source: "isap-pdf"
 
 - **1)** pobieranie prób do badań laboratoryjnych;
 - **2)** czynności pomocnicze przy wykonywaniu sekcji zwłok zwierzęcych;
-- **3)** udzielanie pierwszej pomocy w przypadkach:
-    - **a)** niedyspozycji żołądkowo-jelitowych o przebiegu ostrym z zagrożeniem życia zwierzęcia,
-    - **b)** zadławienia,
-    - **c)** zranienia lub złamania,
-    - **d)** porodu niewymagającego cięcia płodu lub zabiegu chirurgicznego;
+- **3)** udzielanie pierwszej pomocy w przypadkach: niedyspozycji żołądkowo-jelitowych o przebiegu ostrym z zagrożeniem życia zwierzęcia, zadławienia, zranienia lub złamania, porodu niewymagającego cięcia płodu lub zabiegu chirurgicznego;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 - **4)** wykonywanie badań klinicznych w zakresie niezbędnym do udzielenia pierwszej pomocy;
 - **5)** podawanie leków przepisanych przez lekarza weterynarii lub dostępnych bez recepty;
@@ -80,6 +80,7 @@ source: "isap-pdf"
 - **2)** przychodnia weterynaryjna;
 - **3)** lecznica weterynaryjna;
 - **4)** klinika weterynaryjna;
+- **5)** weterynaryjne laboratorium diagnostyczne.
 
 2. Weterynaryjne laboratorium diagnostyczne jest przeznaczone do świadczenia usług laboratoryjnych, w szczególności badań diagnostycznych, na rzecz innych zakładów leczniczych dla zwierząt lub innych podmiotów.
 
@@ -107,7 +108,8 @@ source: "isap-pdf"
 
 1. Gabinet weterynaryjny jest wyposażony w szczególności w:
 
-- **1)** pokój przyjęć z poczekalnią; weterynaryjnych;
+- **1)** pokój przyjęć z poczekalnią;
+- **2)** aparaturę i sprzęt dostosowane do zakresu świadczonych usług weterynaryjnych;
 - **3)** sprzęt i urządzenia do przechowywania produktów leczniczych i wyrobów medycznych;
 - **4)** zaplecze sanitarne i socjalne.
 
@@ -134,6 +136,7 @@ source: "isap-pdf"
 - **3)** aparaturę i sprzęt dostosowane do zakresu świadczonych usług weterynaryjnych;
 - **4)** salę zabiegowo-operacyjną;
 - **5)** sprzęt i urządzenia do przechowywania produktów leczniczych i wyrobów medycznych;
+- **6)** magazyn środków i sprzętu dezynfekcyjnego;
 - **7)** zaplecze sanitarne i socjalne.
 
 2. Lecznica weterynaryjna zapewnia całodobową obserwację i leczenie zwierząt.
@@ -160,7 +163,11 @@ source: "isap-pdf"
 
 4. Klinika weterynaryjna współpracuje w zakresie świadczonych usług weterynaryjnych z innymi zakładami leczniczymi dla zwierząt, a w szczególności przyjmuje pacjentów skierowanych przez te zakłady do leczenia.
 
-5. Minister właściwy do spraw rolnictwa, po zasięgnięciu opinii Krajowej Rady Lekarsko-Weterynaryjnej oraz ogólnokrajowych organizacji zrzeszających osoby wykonujące zawody z zakresu medycyny weterynaryjnej, określi, w drodze rozporządzenia, szczegółowo wymagania, o których mowa w ust. 1, mając na względzie prawidłowe wykonywanie przez klinikę weterynaryjną usług weterynaryjnych oraz bezpieczeństwo epizootyczne i epidemiologiczne. w szczególności w:
+5. Minister właściwy do spraw rolnictwa, po zasięgnięciu opinii Krajowej Rady Lekarsko-Weterynaryjnej oraz ogólnokrajowych organizacji zrzeszających osoby wykonujące zawody z zakresu medycyny weterynaryjnej, określi, w drodze rozporządzenia, szczegółowo wymagania, o których mowa w ust. 1, mając na względzie prawidłowe wykonywanie przez klinikę weterynaryjną usług weterynaryjnych oraz bezpieczeństwo epizootyczne i epidemiologiczne.
+
+**Art. 11.**
+
+1. Weterynaryjne laboratorium diagnostyczne jest wyposażone w szczególności w:
 
 - **1)** pokój przyjęć prób do badań diagnostycznych;
 - **2)** salę laboratoryjną;
@@ -174,8 +181,8 @@ source: "isap-pdf"
 
 1. Zakłady lecznicze dla zwierząt mogą, z zastrzeżeniem ust. 2, prowadzić:
 
-- **1)** szkolenie praktyczne uczniów szkół ponadpodstawowych;
-- **2)** szkolenie praktyczne studentów kierunku weterynaria w zakresie wynikającym z programu studiów;
+- **1)** szkolenie praktyczne uczniów szkół ponadgimnazjalnych;
+- **2)** szkolenie praktyczne studentów wydziałów medycyny weterynaryjnej w zakresie wynikającym z programu studiów;
 - **3)** szkolenie podyplomowe lekarzy weterynarii;
 - **4)** szkolenie specjalizacyjne lekarzy weterynarii.
 
@@ -189,7 +196,9 @@ source: "isap-pdf"
 
 2. Przychodnią weterynaryjną kieruje lekarz weterynarii posiadający prawo wykonywania zawodu lekarza weterynarii oraz co najmniej roczny okres pracy w zawodzie lekarza weterynarii.
 
-3. Lecznicą weterynaryjną kieruje lekarz weterynarii posiadający prawo wykonywania zawodu lekarza weterynarii oraz co najmniej 2-letni okres pracy w zawodzie lekarza weterynarii. kieruje lekarz weterynarii posiadający prawo wykonywania zawodu lekarza weterynarii oraz co najmniej 5-letni okres pracy w zawodzie lekarza weterynarii.
+3. Lecznicą weterynaryjną kieruje lekarz weterynarii posiadający prawo wykonywania zawodu lekarza weterynarii oraz co najmniej 2-letni okres pracy w zawodzie lekarza weterynarii.
+
+4. Kliniką weterynaryjną lub weterynaryjnym laboratorium diagnostycznym kieruje lekarz weterynarii posiadający prawo wykonywania zawodu lekarza weterynarii oraz co najmniej 5-letni okres pracy w zawodzie lekarza weterynarii.
 
 5. Lekarz weterynarii może kierować tylko jednym zakładem leczniczym dla zwierząt.
 
@@ -215,18 +224,20 @@ source: "isap-pdf"
 
 **Art. 16.**
 
-1. Prowadzenie zakładu leczniczego dla zwierząt jest działalnością regulowaną w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. poz. 646, 1479, 1629, 1633 i 2212).
+1. Zakład leczniczy dla zwierząt świadczy usługi weterynaryjne po uzyskaniu wpisu do ewidencji zakładów leczniczych dla zwierząt, zwanej dalej „ewidencją”.
 
-2. Zakład leczniczy dla zwierząt świadczy usługi weterynaryjne po uzyskaniu wpisu do ewidencji zakładów leczniczych dla zwierząt, zwanej dalej „ewidencją”. Ewidencja jest rejestrem działalności regulowanej w rozumieniu przepisów ustawy, o której mowa w ust. 1. dla zwierząt okręgowa rada lekarsko-weterynaryjna.
+2. Ewidencję prowadzi właściwa ze względu na miejsce siedziby zakładu leczniczego dla zwierząt okręgowa rada lekarsko-weterynaryjna.
 
-4. Ewidencja jest jawna i zawiera:
+3. Ewidencja jest jawna.
 
-- **1)** imię i nazwisko albo nazwę podmiotu prowadzącego zakład leczniczy dla zwierząt oraz jego adres miejsca zamieszkania albo siedziby;
-- **2)** nazwę zakładu leczniczego dla zwierząt oraz jego adres i numer telefonu;
+4. Ewidencja zawiera:
+
+- **1)** nazwę zakładu leczniczego dla zwierząt oraz jego adres i numer telefonu;
+- **2)** siedzibę zakładu leczniczego dla zwierząt;
 - **3)** imię i nazwisko kierownika zakładu;
-- **4)** informację o liczbie pracowników, w tym lekarzy weterynarii i personelu pomocniczego.
+- **4)** liczbę pracowników, w tym lekarzy weterynarii i personelu pomocniczego.
 
-5. Za wpis do ewidencji oraz zmianę tego wpisu okręgowa rada lekarsko-weterynaryjna pobiera opłatę, która stanowi jej przychód. Opłata za zmianę wpisu wynosi 50% opłaty za wpis.
+5. Za wpis do ewidencji okręgowa rada lekarsko-weterynaryjna pobiera opłatę.
 
 6. Minister właściwy do spraw rolnictwa, po zasięgnięciu opinii Krajowej Rady Lekarsko-Weterynaryjnej, określi, w drodze rozporządzenia:
 
@@ -235,37 +246,19 @@ source: "isap-pdf"
 
 **Art. 17.**
 
-1. Podmiot ubiegający się o wpis do ewidencji spełnia wymogi określone w art. 5–11, a także posiada wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego.
+1. Podstawą podjęcia przez okręgową radę lekarsko-weterynaryjną uchwały w sprawie wpisu zakładu leczniczego dla zwierząt do ewidencji jest wniosek kierownika zakładu.
 
-2. Podstawą podjęcia przez okręgową radę lekarsko-weterynaryjną uchwały w sprawie wpisu zakładu leczniczego dla zwierząt do ewidencji jest wniosek podmiotu prowadzącego zakład.
+2. Wniosek, o którym mowa w ust. 1, zawiera:
 
-3. Wniosek, o którym mowa w ust. 2, zawiera:
-
-- **1)** imię i nazwisko albo nazwę podmiotu prowadzącego zakład leczniczy dla zwierząt oraz jego adres miejsca zamieszkania albo siedziby;
-- **2)** nazwę zakładu leczniczego dla zwierząt oraz jego adres i numer telefonu;
-- **3)** regulamin zakładu leczniczego dla zwierząt;
+- **1)** nazwę zakładu leczniczego dla zwierząt;
+- **2)** regulamin zakładu leczniczego dla zwierząt;
+- **3)** siedzibę, adres i numer telefonu zakładu leczniczego dla zwierząt;
 - **4)** informację o rodzaju i zakresie świadczonych usług weterynaryjnych;
-- **5)** imię i nazwisko kierownika zakładu leczniczego dla zwierząt;
-- **6)** informację o liczbie pracowników, w tym lekarzy weterynarii i personelu pomocniczego; przedsiębiorca taki numer posiada, oraz numer identyfikacji podatkowej (NIP).
+- **5)** oświadczenie kierownika zakładu, że kierowany przez niego zakład leczniczy dla zwierząt spełnia wymagania określone odpowiednio w art. 7–11;
+- **6)** imię i nazwisko kierownika zakładu;
+- **7)** liczbę pracowników, w tym lekarzy weterynarii i personelu pomocniczego.
 
-4. Wraz z wnioskiem, o którym mowa w ust. 2, podmiot prowadzący zakład leczniczy dla zwierząt składa oświadczenie następującej treści: „Oświadczam, że:
-
-- **1)** dane zawarte we wniosku o wpis do ewidencji zakładów leczniczych dla zwierząt są kompletne i zgodne z prawdą;
-- **2)** znane mi są i spełniam warunki wykonywania działalności gospodarczej w zakresie prowadzenia zakładu leczniczego dla zwierząt określone w ustawie z dnia 18 grudnia 2003 r. o zakładach leczniczych dla zwierząt (Dz. U. z 2019 r. poz. 24).”.
-
-5. Oświadczenie powinno również zawierać:
-
-- **1)** imię i nazwisko albo nazwę podmiotu prowadzącego zakład leczniczy dla zwierząt oraz jego adres miejsca zamieszkania albo siedziby;
-- **2)** oznaczenie miejsca i datę złożenia oświadczenia;
-- **3)** podpis osoby uprawnionej do reprezentowania podmiotu prowadzącego zakład leczniczy dla zwierząt, ze wskazaniem imienia i nazwiska oraz pełnionej funkcji.
-
-6. Organ prowadzący ewidencję, w terminie 50 dni od dnia złożenia wniosku, o którym mowa w ust. 2, oraz oświadczenia, o którym mowa w ust. 4, po sprawdzeniu tych dokumentów dokonuje wpisu do ewidencji oraz z urzędu wydaje wnioskodawcy zaświadczenie o wpisie.
-
-7. Jeżeli organ prowadzący ewidencję nie dokona wpisu w terminie, o którym mowa w ust. 6, a od dnia wpływu wniosku o wpis do tego organu upłynęło 60 dni, wnioskodawca może rozpocząć działalność po uprzednim zawiadomieniu o tym na piśmie organu, który nie dokonał wpisu. Nie dotyczy to przypadku, w którym organ wezwał wnioskodawcę do uzupełnienia wniosku o wpis nie później niż przed upływem 7 dni od dnia jego otrzymania. W takim przypadku termin, o którym mowa w zdaniu pierwszym, biegnie odpowiednio od dnia wpływu uzupełnienia wniosku o wpis.
-
-8. Do zmiany wpisu do ewidencji stosuje się odpowiednio przepisy dotyczące wpisu do ewidencji.
-
-9. Minister właściwy do spraw rolnictwa określi wzór wniosku, o którym mowa w ust. 2, zawierającego oświadczenie, o którym mowa w ust. 4, wzór wniosku o zmianę wpisu do ewidencji oraz wzór wniosku o wykreślenie z ewidencji, 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2017 r. poz. 570 oraz z 2018 r. poz. 1000, 1544 i 1669).
+3. Odmowa wpisu do ewidencji następuje w drodze decyzji administracyjnej.
 
 **Art. 18.**
 
@@ -275,21 +268,19 @@ source: "isap-pdf"
 
 **Art. 19.**
 
-1. W przypadku stwierdzenia, że zakład leczniczy dla zwierząt przestał spełniać wymogi określone odpowiednio w art. 5–11 lub narusza inne przepisy ustawy albo zostało stwierdzone naruszenie przepisów ustawy z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych (Dz. U. z 2016 r. poz. 1479 oraz z 2018 r. poz. 1669), okręgowa izba lekarsko-weterynaryjna wyznacza termin do usunięcia uchybień, a po jego bezskutecznym upływie może podjąć uchwałę o skreśleniu zakładu z ewidencji.
-
-1a. W przypadku stwierdzenia uchybień w prowadzeniu działalności polegającej na świadczeniu usług weterynaryjnych w ramach zakładu leczniczego dla zwierząt, które stwarzają zagrożenie epidemiologiczne, powiatowy lekarz weterynarii, w drodze decyzji, wstrzymuje prowadzenie tej działalności i nakazuje usunięcie tych uchybień w terminie wskazanym w tej decyzji, zawiadamiając o tym właściwą okręgową izbę lekarsko-weterynaryjną.
-
-1b. Jeżeli uchybienia, o których mowa w ust. 1a, nie zostaną usunięte w terminie wskazanym w decyzji, o której mowa w tym przepisie, okręgowa rada lekarsko-weterynaryjna na wniosek powiatowego lekarza weterynarii skreśla zakład leczniczy dla zwierząt z ewidencji.
+1. W przypadku stwierdzenia, że zakład leczniczy dla zwierząt przestał spełniać wymagania określone odpowiednio w art. 7–11 lub narusza inne przepisy ustawy albo zostało stwierdzone naruszenie przepisów ustawy z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych (Dz. U. z 2002 r. Nr 187, poz. 1567 i Nr 240, poz. 2052 oraz z 2003 r. Nr 59, poz. 532 i Nr 208, poz. 2018), okręgowa izba lekarsko-weterynaryjna wyznacza termin do usunięcia uchybień, a po jego bezskutecznym upływie może podjąć uchwałę o skreśleniu zakładu z ewidencji.
 
 2. Okręgowa rada lekarsko-weterynaryjna skreśla z ewidencji zakład leczniczy dla zwierząt bez wyznaczenia terminu do usunięcia uchybień w przypadku stwierdzenia, że usługi weterynaryjne świadczone są w tym zakładzie przez osoby nieuprawnione do świadczenia tego typu usług.
 
-3. Zakład leczniczy dla zwierząt podlega skreśleniu z ewidencji także wtedy, gdy okręgowa rada lekarsko-weterynaryjna dokonała wpisu z naruszeniem prawa. okręgowa rada lekarsko-weterynaryjna może skreślić zakład leczniczy dla zwierząt z ewidencji bez uprzedniego wyznaczenia terminu usunięcia uchybień.
+3. Zakład leczniczy dla zwierząt podlega skreśleniu z ewidencji także wtedy, gdy okręgowa rada lekarsko-weterynaryjna dokonała wpisu z naruszeniem prawa.
+
+4. Jeżeli uchybienie, o którym mowa w ust. 1, zostało stwierdzone powtórnie, okręgowa rada lekarsko-weterynaryjna może skreślić zakład leczniczy dla zwierząt z ewidencji bez uprzedniego wyznaczenia terminu usunięcia uchybień.
 
 5. Jeżeli zakład leczniczy dla zwierząt w terminie trzech miesięcy od dnia dokonania wpisu do ewidencji nie podjął działalności w zakresie świadczenia usług weterynaryjnych, okręgowa rada lekarsko-weterynaryjna wyznacza termin do podjęcia tej działalności, a po jego bezskutecznym upływie skreśla zakład z ewidencji.
 
 6. Okręgowa rada lekarsko-weterynaryjna skreśla zakład leczniczy z ewidencji na wniosek podmiotu prowadzącego ten zakład.
 
-7. (uchylony)
+7. Wykreślenie zakładu leczniczego dla zwierząt w przypadkach, o których mowa w ust. 1–6, następuje w drodze decyzji administracyjnej.
 
 **Art. 20.**
 
@@ -300,7 +291,7 @@ source: "isap-pdf"
 - **3)** zrzeczenia się przez lekarza weterynarii prawa wykonywania zawodu;
 - **4)** skreślenia lekarza weterynarii z rejestru członków okręgowej izby lekarsko-weterynaryjnej z przyczyn innych niż wymienione w pkt 1 i 3.
 
-2. (uchylony)
+2. Wykreślenie zakładu leczniczego dla zwierząt w przypadkach, o którym mowa w ust. 1, następuje w drodze decyzji administracyjnej.
 
 **Art. 21.**
 
@@ -308,7 +299,7 @@ source: "isap-pdf"
 
 2. Okręgowa rada lekarsko-weterynaryjna przekazuje właściwemu ze względu na miejsce siedziby zakładu leczniczego dla zwierząt powiatowemu lekarzowi weterynarii zawiadomienie o dokonaniu wpisu zakładu leczniczego dla zwierząt lub o jego skreśleniu z ewidencji.
 
-**Art. 22.** Do postępowania w sprawie wpisu, odmowy wpisu, zmiany wpisu i skreślenia z ewidencji stosuje się odpowiednio przepisy Kodeksu postępowania administracyjnego.
+**Art. 22.** Do uchwał okręgowych rad lekarsko-weterynaryjnych, o których mowa w art. 17 ust. 3, art. 19 ust. 7 i art. 20 ust. 2, stosuje się odpowiednio przepisy Kodeksu postępowania administracyjnego.
 
 **Art. 23.**
 
@@ -316,8 +307,10 @@ source: "isap-pdf"
 
 2. Okręgowa rada lekarsko-weterynaryjna jest uprawniona w ramach nadzoru, o którym mowa w ust. 1, do:
 
-- **a)** wizytację pomieszczeń, w których świadczone są usługi weterynaryjne,
-- **b)** obserwowanie czynności związanych ze świadczeniem usług weterynaryjnych;
+- **1)** przeprowadzania kontroli zakładów leczniczych dla zwierząt poprzez: wizytację pomieszczeń, w których świadczone są usługi weterynaryjne, obserwowanie czynności związanych ze świadczeniem usług weterynaryjnych;
+    - **a)**
+    - **b)**
+
 - **2)** żądania wglądu do dokumentacji świadczonych usług weterynaryjnych, prowadzonej przez zakład leczniczy dla zwierząt.
 
 3. Kontrola, o której mowa w ust. 2, odbywa się w obecności kierownika zakładu lub osoby przez niego upoważnionej.
@@ -342,7 +335,9 @@ source: "isap-pdf"
 
 2. Na podstawie zgłoszenia posiadacza zwierzęcia zakład leczniczy dla zwierząt może świadczyć usługi weterynaryjne poza swoją siedzibą.
 
-3. Lekarz weterynarii przed przystąpieniem do świadczenia usługi weterynaryjnej może żądać od posiadacza zwierzęcia wyrażenia pisemnej zgody na świadczenie tej usługi weterynaryjnej. dla zwierząt ma charakter umowny.
+3. Lekarz weterynarii przed przystąpieniem do świadczenia usługi weterynaryjnej może żądać od posiadacza zwierzęcia wyrażenia pisemnej zgody na świadczenie tej usługi weterynaryjnej.
+
+4. Wynagrodzenie za usługi weterynaryjne świadczone przez zakład leczniczy dla zwierząt ma charakter umowny.
 
 **Art. 26.** W przypadku braku możliwości świadczenia usługi weterynaryjnej zakład leczniczy dla zwierząt jest obowiązany do udzielenia posiadaczowi zwierzęcia informacji o możliwości uzyskania takiej usługi weterynaryjnej w innych zakładach leczniczych dla zwierząt.
 
@@ -364,7 +359,11 @@ source: "isap-pdf"
 
 4. Dokumentacja, o której mowa w ust. 1, powinna być przechowywana przez zakład leczniczy dla zwierząt przez okres 3 lat.
 
-5. Dane zawarte w dokumentacji związanej ze świadczeniem usługi weterynaryjnej mogą być wykorzystane w pracy naukowej oraz publikowane w czasopismach fachowych pod warunkiem ochrony danych osobowych posiadacza zwierzęcia. publicznej informacje o zakresie i rodzajach świadczonych usług weterynaryjnych, godzinach otwarcia zakładu leczniczego dla zwierząt oraz adresie zakładu leczniczego dla zwierząt. Forma i treść tych informacji nie mogą nosić cech reklamy.
+5. Dane zawarte w dokumentacji związanej ze świadczeniem usługi weterynaryjnej mogą być wykorzystane w pracy naukowej oraz publikowane w czasopismach fachowych pod warunkiem ochrony danych osobowych posiadacza zwierzęcia.
+
+**Art. 29.**
+
+1. Zakład leczniczy dla zwierząt może podawać do wiadomości publicznej informacje o zakresie i rodzajach świadczonych usług weterynaryjnych, godzinach otwarcia zakładu leczniczego dla zwierząt oraz adresie zakładu leczniczego dla zwierząt. Forma i treść tych informacji nie mogą nosić cech reklamy.
 
 2. Krajowa Rada Lekarsko-Weterynaryjna określa, w drodze uchwały, szczegółowe zasady podawania do publicznej wiadomości informacji, o których mowa w ust. 1, biorąc pod uwagę zakres świadczonych przez zakłady lecznicze dla zwierząt usług weterynaryjnych.
 
@@ -376,9 +375,17 @@ source: "isap-pdf"
 
 2. Orzekanie w sprawie o czyn określony w ust. 1 następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.
 
-**Art. 31.** (pominięty)
+**Art. 31.** W ustawie z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. Nr 12, poz. 114, z późn. zm.) art. 147a otrzymuje brzmienie: „
 
-**Art. 32.** (pominięty)
+**Art. 147a.**
+
+§ 1. Kto prowadzi zakład opieki zdrowotnej lub zakład leczniczy dla zwierząt bez wymaganego wpisu do rejestru lub ewidencji, podlega karze aresztu, ograniczenia wolności albo grzywny.
+
+§ 2. Tej samej karze podlega ten, kto podaje do wiadomości publicznej informacje o zakresie i rodzajach udzielanych świadczeń zdrowotnych lub usług z zakresu medycyny weterynaryjnej mające formę i treść reklamy. ” .
+
+**Art. 32.** W ustawie z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych (Dz. U. z 2002 r. Nr 187, poz. 1567 i Nr 240, poz. 2052 oraz z 2003 r. Nr 59, poz. 532 i Nr 208, poz. 2018) w art. 10 w ust. 2 dodaje się pkt 2a w brzmieniu: „
+
+- **2a)** prowadzenie ewidencji zakładów leczniczych dla zwierząt; ” .
 
 **Art. 33.**
 
@@ -386,7 +393,7 @@ source: "isap-pdf"
 
 2. Podmioty, o których mowa w ust. 1, są obowiązane dostosować prowadzony przez siebie zakład leczniczy dla zwierząt do przepisów niniejszej ustawy do dnia 1 stycznia 2006 r.
 
-**Art. 34.** Traci moc ustawa z dnia 1 lipca 1949 r. o zakładach leczniczych dla zwierząt (Dz. U. poz. 297, z 1988 r. poz. 324, z 1990 r. poz. 198, z 1998 r. poz. 668 oraz z 2003 r. poz. 450).
+**Art. 34.** Traci moc ustawa z dnia 1 lipca 1949 r. o zakładach leczniczych dla zwierząt (Dz. U. Nr 41, poz. 297, z 1988 r. Nr 41, poz. 324, z 1990 r. Nr 34, poz. 198, z 1998 r. Nr 106, poz. 668 oraz z 2003 r. Nr 52, poz. 450).
 
-**Art. 35.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+**Art. 35.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -8,12 +8,10 @@ pos: 194
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o samorządzie zawodowym niektórych przedsiębiorców
-
-*USTAWA z dnia 30 maja 1989 r.*
+# Ustawa z dnia 30 maja 1989 r. o samorządzie zawodowym niektórych podmiotów gospodarczych
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +22,13 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1989-05-30 |
 | Data wydania | 1989-06-08 |
+| Wejście w życie | 1989-07-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890350194) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1989/194/text.pdf) |
 
 **Art. 1.**
 
-1. Ustawa określa zasady tworzenia i działania samorządu zawodowego osób – przedsiębiorców prowadzących działalność gospodarczą w zakresie:
+1. Ustawa określa zasady tworzenia i działania samorządu zawodowego osób – podmiotów gospodarczych prowadzących działalność gospodarczą w zakresie:
 
 - **1)** handlu, gastronomii i usług,
 - **2)** transportu,
@@ -37,7 +36,11 @@ source: "isap-pdf"
 
 2. Ustawa nie dotyczy osób, które uzyskały status rzemieślnika.
 
-**Art. 2.** Przedsiębiorcy mogą, według wyboru, zrzeszać się w zawodowych samorządowych organizacjach:
+**Art. 2.** Podmioty gospodarcze mogą, według wyboru, zrzeszać się w zawodowych samorządowych organizacjach:
+
+- **1)** zrzeszeniach handlu i usług,
+- **2)** zrzeszeniach transportu,
+- **3)** innych organizacjach podmiotów gospodarczych.
 
 **Art. 3.**
 
@@ -70,17 +73,19 @@ source: "isap-pdf"
 
 **Art. 8.**
 
-1. Działające w dniu wejścia w życie ustawy zrzeszenia prywatnego handlu i usług, zrzeszenia transportu prywatnego, Naczelna Rada Zrzeszeń Prywatnego Handlu i Usług oraz Naczelna Rada Zrzeszeń Transportu Prywatnego ulegają przekształceniu lub likwidacji stosownie do wymogów określonych w art. 6 i 49 ustawy z dnia 23 grudnia 1988 r. o działalności gospodarczej (Dz. U. Nr 41, poz.
-
-- **324)** lub niniejszej ustawy.
+1. Działające w dniu wejścia w życie ustawy zrzeszenia prywatnego handlu i usług, zrzeszenia transportu prywatnego, Naczelna Rada Zrzeszeń Prywatnego Handlu i Usług oraz Naczelna Rada Zrzeszeń Transportu Prywatnego ulegają przekształceniu lub likwidacji stosownie do wymogów określonych w art. 6 i 49 ustawy z dnia 23 grudnia 1988 r. o działalności gospodarczej (Dz. U. Nr 41, poz. 324) lub niniejszej ustawy.
 
 2. Majątek i zobowiązania zrzeszeń prywatnego handlu i usług, zrzeszeń transportu prywatnego, Naczelnej Rady Zrzeszeń Prywatnego Handlu i Usług oraz Naczelnej Rady Zrzeszeń Transportu Prywatnego przechodzą odpowiednio na nowe organizacje z dniem ich przekształcenia.
 
 **Art. 9.**
 
-1. Organizacje, o których mowa w niniejszej ustawie, podlegają obowiązkowi wpisu do Krajowego Rejestru Sądowego.
+1. Organizacje, o których mowa w art. 2 i 5, podlegają wpisowi do rejestru właściwego dla siedziby organizacji sądu rejestrowego.
 
-2. Organizacje, o których mowa w ust. 1, uzyskują osobowość prawną z chwilą wpisania do Krajowego Rejestru Sądowego.
+2. Organizacje wymienione w ust. 1 uzyskują osobowość prawną z chwilą wpisania do rejestru.
+
+3. Do postępowania w sprawach rozpatrywanych przez sąd rejestrowy stosuje się przepisy Kodeksu postępowania cywilnego o postępowaniu nieprocesowym.
+
+4. Minister Sprawiedliwości w drodze rozporządzenia określi sposób prowadzenia rejestrów zrzeszeń i ich ogólnokrajowych reprezentacji.
 
 **Art. 10.** Ustawa wchodzi w życie z dniem 1 lipca 1989 r.
 

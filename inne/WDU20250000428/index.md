@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o wojewodzie i administracji rządowej województwie
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 24 marca 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 kwietnia 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-04-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000428) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/428/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 24 marca 2025 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o wojewodzie i administracji rządowej województwie
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 23 stycznia 2009 r. o wojewodzie i administracji rządowej województwie (Dz. U. z 2023 r. poz. 190), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U.
 poz. 1907) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 marca 2025 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 212 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907), który stanowi: „Art. 212. Ustawa wchodzi życie z dniem 1 stycznia 2025 r., z wyjątkiem:
@@ -43,7 +43,18 @@ Art. 65–77. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zakres działania oraz zasady funkcjonowania wojewody;
+- **2)** tryb powoływania i odwoływania wojewody;
+- **3)** organizację rządowej administracji zespolonej województwie i niezespolonej administracji rządowej.
+
 **Art. 2.** Zadania administracji rządowej województwie wykonują:
+
+- **1)** wojewoda;
+- **2)** organy rządowej administracji zespolonej województwie, tym kierownicy zespolonych służb, inspekcji i straży;
+- **3)** organy niezespolonej administracji rządowej;
+- **4)** jednostki samorządu terytorialnego i ich związki, jeżeli wykonywanie przez nie zadań administracji rządowej wynika z odrębnych ustaw lub z zawartego porozumienia;
+- **5)** starosta, jeżeli wykonywanie przez niego zadań administracji rządowej wynika z odrębnych ustaw;
+- **6)** inne podmioty, jeżeli wykonywanie przez nie zadań administracji rządowej wynika z odrębnych ustaw.
 
 **Art. 3.**
 
@@ -73,6 +84,11 @@ Art. 65–77. (pominięte)
 3. Zadania i kompetencje wojewody stanach nadzwyczajnych określają odrębne ustawy.
 
 **Art. 4.** Odrębne ustawy określają:
+
+- **1)** zasadniczy podział terytorialny państwa;
+- **2)** nazwę województwa i nazwę urzędu wojewody oraz jego siedzibę;
+- **3)** zasady i tryb ustalania granic województw oraz dokonywania ich zmian;
+- **4)** zasady ustalania niepokrywających się z zasadniczym podziałem terytorialnym państwa podziałów terytorialnych celu wykonywania zadań niezespolonej administracji rządowej.
 
 **Art. 5.** Zasady organizacji, funkcjonowania i zakres zadań organów rządowej administracji zespolonej województwie oraz organów niezespolonej administracji rządowej określają odrębne ustawy.
 
@@ -178,6 +194,14 @@ Art. 65–77. (pominięte)
 
 **Art. 22.** Wojewoda odpowiada za wykonywanie polityki Rady Ministrów województwie, a szczególności:
 
+- **1)** dostosowuje do miejscowych warunków cele polityki Rady Ministrów oraz, zakresie i na zasadach określonych odrębnych ustawach, koordynuje i kontroluje wykonanie wynikających stąd zadań;
+- **2)** zapewnia współdziałanie wszystkich organów administracji rządowej i samorządowej działających województwie i kieruje ich działalnością zakresie zapobiegania zagrożeniu życia, zdrowia lub mienia oraz zagrożeniom środowiska, bezpieczeństwa państwa i utrzymania porządku publicznego, ochrony praw obywatelskich, a także zapobiegania klęskom żywiołowym i innym nadzwyczajnym zagrożeniom oraz zwalczania i usuwania ich skutków, na zasadach określonych odrębnych ustawach;
+- **3)** dokonuje oceny stanu zabezpieczenia przeciwpowodziowego województwa, opracowuje plan operacyjny ochrony przed powodzią oraz ogłasza i odwołuje pogotowie i alarm przeciwpowodziowy;
+- **3a)** wykonuje zadania organu ochrony ludności i obrony cywilnej określone ustawie z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907);
+- **4)** wykonuje i koordynuje zadania zakresie obronności i bezpieczeństwa państwa oraz zarządzania kryzysowego, wynikające z odrębnych ustaw;
+- **5)** przedstawia Radzie Ministrów, za pośrednictwem ministra właściwego do spraw administracji publicznej, projekty dokumentów rządowych sprawach dotyczących województwa;
+- **6)** wykonuje inne zadania określone odrębnych ustawach oraz ustalone przez Radę Ministrów i Prezesa Rady Ministrów.
+
 **Art. 23.**
 
 1. Wojewoda:
@@ -236,6 +260,11 @@ Art. 65–77. (pominięte)
 #### Rozdział 4 Rządowa administracja zespolona województwie
 
 **Art. 51.** Wojewoda jako zwierzchnik rządowej administracji zespolonej województwie:
+
+- **1)** kieruje nią i koordynuje jej działalność;
+- **2)** kontroluje jej działalność;
+- **3)** zapewnia warunki skutecznego jej działania;
+- **4)** ponosi odpowiedzialność za rezultaty jej działania.
 
 **Art. 52.** Tryb powoływania i odwoływania organów rządowej administracji zespolonej województwie określają odrębne ustawy.
 

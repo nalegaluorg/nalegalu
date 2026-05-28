@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o wyposażeniu morskim
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 24 marca 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 kwietnia 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-05-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000572) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/572/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 24 marca 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o wyposażeniu morskim
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 2 grudnia 2016 r. o wyposażeniu morskim (Dz. U. z 2019 r. poz. 955), z uwzględnieniem zmian wprowadzonych ustawą z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U. poz. 1222) oraz zmian wynikających z przepisów ogłoszonych przed dniem 21 marca 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 124 ustawy z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U. poz. 1222), który stanowi: „Art. 124. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
 1) art. 1, art. 39 pkt 11 lit. b w zakresie art. 16a ust. 4 pkt 2c i 2d, art. 46 pkt 5, art. 52 pkt 1, art. 63, art. 68 ust. 2, art. 80 ust. 3 i 5–8 oraz art. 120, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
@@ -40,6 +40,9 @@ o wyposażeniu morskim
 
 **Art. 1.** Ustawa określa zasady:
 
+- **1)** funkcjonowania systemu oceny zgodności z wymaganiami dotyczącymi wyposażenia morskiego;
+- **2)** działania systemu kontroli wyposażenia morskiego.
+
 **Art. 2.**
 
 1. Przepisy ustawy stosuje się do wyposażenia morskiego, które jest umieszczone lub które ma być umieszczone na statkach UE.
@@ -48,7 +51,48 @@ o wyposażeniu morskim
 
 **Art. 3.** Ilekroć w ustawie jest mowa o:
 
+- **1)** konwencjach międzynarodowych należy przez to rozumieć:
+    - **a)** Konwencję w sprawie międzynarodowych przepisów o zapobieganiu zderzeniom na morzu z 1972 roku, sporządzoną w Londynie dnia 20 października 1972 r. (Dz. U. z 1977 r. poz. 61 i 62 oraz z 1984 r. poz. 106),
+    - **b)** Międzynarodową konwencję o zapobieganiu zanieczyszczaniu morza przez statki, 1973, sporządzoną w Londynie dnia 2 listopada 1973 r. (Dz. U. z 2016 r. poz. 761 i 773),
+    - **c)** Międzynarodową konwencję o bezpieczeństwie życia na morzu, 1974, sporządzoną w Londynie dnia 1 listopada 1974 r. (Dz. U. z 2016 r. poz. 869);
+
+- **2)** normach dotyczących badań należy przez to rozumieć normy dotyczące metod i wyników badań wyposażenia morskiego określone przez:
+    - **a)** Międzynarodową Organizację Morską,
+    - **b)** Międzynarodową Organizację Normalizacyjną,
+    - **c)** Międzynarodową Komisję Elektrotechniczną,
+    - **d)** Międzynarodowy Związek Telekomunikacyjny,
+    - **e)** Europejski Komitet do spraw Normalizacji Elektrotechniki,
+    - **f)** Europejski Instytut Norm Telekomunikacyjnych,
+    - **g)** Europejski Komitet Normalizacyjny,
+    - **h)** Komisję Europejską,
+    - **i)** organy regulacyjne uznane w ramach porozumień o wzajemnym uznawaniu, których stroną jest Unia Europejska;
+
+- **3)** wyposażeniu morskim należy przez to rozumieć wyroby umieszczone lub które mają być umieszczone na statkach UE i które zgodnie z przepisami międzynarodowymi wymagają zatwierdzenia przez administrację państwa bandery, niezależnie od tego, czy statek znajduje się na terytorium Unii Europejskiej w czasie, gdy wyposażenie morskie jest na nim umieszczone;
+- **4)** wyposażeniu radiokomunikacyjnym należy przez to rozumieć wyposażenie morskie określone w rozdziale IV konwencji, o której mowa w pkt 1 lit. c, oraz radiotelefon VHF do łączności dwukierunkowej określony w prawidle
+
+6. 2.1 rozdziału III tej konwencji;
+
+- **5)** przepisach międzynarodowych należy przez to rozumieć konwencje międzynarodowe, rezolucje i okólniki Międzynarodowej Organizacji Morskiej oraz normy dotyczące badań;
+- **6)** znaku zgodności należy przez to rozumieć oznakowanie określone w załączniku nr 1 do ustawy, potwierdzające zgodność wyposażenia morskiego lub procesu jego wytwarzania z wymaganiami;
+- **7)** statku należy przez to rozumieć urządzenie pływające używane w środowisku morskim, w tym wodoloty, poduszkowce, statki podwodne i platformy wiertnicze, podlegające konwencjom międzynarodowym;
+- **8)** statku UE należy przez to rozumieć statek pływający pod banderą państwa członkowskiego Unii Europejskiej i objęty zakresem przepisów międzynarodowych;
+- **9)** państwie członkowskim Unii Europejskiej należy przez to rozumieć również państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronę umowy o Europejskim Obszarze Gospodarczym;
+- **10)** państwie trzecim należy przez to rozumieć państwo niebędące państwem członkowskim Unii Europejskiej;
+- **11)** importerze należy przez to rozumieć osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, mającą siedzibę na terytorium państwa członkowskiego Unii Europejskiej, która wprowadza do obrotu na rynku państw członkowskich Unii Europejskiej wyposażenie morskie z państwa trzeciego;
+- **12)** dystrybutorze należy przez to rozumieć osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, inną niż producent lub importer, która udostępnia wyposażenie morskie na rynku;
+- **13)** odzyskaniu należy przez to rozumieć dowolny środek mający na celu doprowadzenie do zwrotu wyposażenia morskiego, które zostało już umieszczone na statkach UE lub nabyte z zamiarem umieszczenia na statkach UE;
+- **14)** deklaracji zgodności UE należy przez to rozumieć oświadczenie producenta albo jego upoważnionego przedstawiciela, na jego wyłączną odpowiedzialność, że wyposażenie morskie jest zgodne z wymaganiami;
+- **15)** wymaganiach należy przez to rozumieć wymagania dla wyposażenia morskiego określone w przepisach międzynarodowych.
+
 **Art. 4.** W przypadku gdy ustawa nie stanowi inaczej, do oceny zgodności wyposażenia morskiego, akredytacji, autoryzacji, notyfikacji, kontroli spełniania przez wyposażenie morskie wymagań, kontroli w zakresie stwarzania przez to wyposażenie zagrożenia oraz kontroli w zakresie niezgodności formalnych, a także postępowania w sprawie wprowadzonego do obrotu lub oddanego do użytku wyposażenia morskiego niezgodnego z wymaganiami lub stwarzającego zagrożenie oraz postępowania w sprawie niezgodności formalnych stosuje się odpowiednio przepisy art. 4 pkt 1–5, 7, 10–12, 13–16, 19, 20, 22–27 i 29, art. 7 ust. 2, art. 22–37, art. 58–87 oraz art. 95 i art. 96 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2022 r. poz. 1854, z 2024 r. poz. 1089 oraz z 2025 r. poz. 179), zwanej dalej „ustawą o systemach oceny zgodności i nadzoru rynku”, z tym że:
+
+- **1)** wprowadzenie do obrotu w rozumieniu art. 4 pkt 26 ustawy o systemach oceny zgodności i nadzoru rynku obejmuje również zainstalowanie lub umieszczenie na statku wyposażenia morskiego określonego w przepisach międzynarodowych, określonych w aktach wykonawczych wydanych przez Komisję Europejską na podstawie art. 35 ust. 2 dyrektywy Parlamentu Europejskiego i Rady 2014/90/UE z dnia 23 lipca 2014 r. w sprawie wyposażenia morskiego i uchylającej dyrektywę Rady 96/98/WE (Dz. Urz. UE L 257 z 28.08.2014, str. 146);
+- **2)** za niezgodności formalne uważa się niezgodności polegające na tym, że:
+    - **a)** podmiot gospodarczy naruszył obowiązki określone w art. 9 ust. 1 w zakresie wystawienia deklaracji zgodności UE lub umieszczenia na wyposażeniu morskim znaku zgodności,
+    - **b)** znak zgodności został umieszczony z naruszeniem art. 10 ust. 1–5 lub niezgodnie z załącznikiem nr 1 do ustawy,
+    - **c)** deklaracja zgodności UE została sporządzona niezgodnie z art. 9 ust. 2 lub wzorem określonym w załączniku nr 3 do ustawy lub nie zawiera elementów określonych w odpowiednich modułach, o których mowa w załączniku nr 2 do ustawy,
+    - **d)** do wyposażenia morskiego umieszczonego na statku nie dołączono kopii deklaracji zgodności UE,
+    - **e)** podmiot gospodarczy naruszył obowiązek: o którym mowa w art. 11 ust. 2, w zakresie sporządzenia dokumentacji technicznej, lub o którym mowa w art. 11 ust. 3, lub o którym mowa w art. 11 ust. 9 lub art. 13 ust. 2, w zakresie udostępnienia dyrektorowi urzędu morskiego dokumentacji technicznej.
 
 **Art. 5.** Wyposażenie morskie przed wprowadzeniem go do obrotu, umieszczeniem lub zainstalowaniem na statku podlega ocenie zgodności z wymaganiami.
 
@@ -233,11 +277,22 @@ o wyposażeniu morskim
 
 **Art. 22.** Importer wyposażenia morskiego wprowadzonego do obrotu lub oddanego do użytku, który nie dopełnia obowiązków w zakresie:
 
+- **1)** zapewnienia dołączenia do wyposażenia morskiego:
+    - **a)** instrukcji sporządzonej w języku polskim,
+    - **b)** informacji dotyczących bezpiecznego montażu wyposażenia morskiego na statku i jego bezpiecznego użytkowania,
+
+- **2)** zapewnienia dołączenia do wyposażenia morskiego informacji umożliwiających identyfikację tego wyposażenia morskiego,
+- **3)** umieszczenia na wyposażeniu morskim informacji umożliwiających jego identyfikację,
+- **4)** zapewnienia dołączenia do wyposażenia morskiego, w stosownych przypadkach, kopii deklaracji zgodności UE lub innych dokumentów podlega karze pieniężnej w wysokości do 10 000 zł.
+
 **Art. 23.** Producent, który nie dopełnia obowiązku sporządzenia i przechowywania dokumentacji technicznej wyposażenia morskiego, deklaracji zgodności UE oraz dokumentacji niezbędnej do wykazania zgodności wyposażenia morskiego, podlega karze pieniężnej w wysokości do 10 000 zł.
 
 **Art. 24.** Importer, który nie dopełnia obowiązku przechowywania kopii deklaracji zgodności UE lub obowiązku zapewnienia udostępniania organowi nadzoru rynku dokumentacji technicznej, podlega karze pieniężnej w wysokości do 10 000 zł.
 
 **Art. 25.** Upoważniony przedstawiciel, który nie dopełnia obowiązków w zakresie:
+
+- **1)** przechowywania dokumentacji technicznej wyposażenia morskiego, deklaracji zgodności UE oraz dokumentacji niezbędnej do wykazania zgodności wyposażenia morskiego,
+- **2)** udzielenia organowi nadzoru rynku informacji i udostępnienia dokumentacji w celu wykazania zgodności wyposażenia morskiego z wymaganiami podlega karze pieniężnej w wysokości do 10 000 zł.
 
 **Art. 26.**
 
@@ -279,4 +334,180 @@ o wyposażeniu morskim
 **Art. 38.** Traci moc ustawa z dnia 20 kwietnia 2004 r. o wyposażeniu morskim (Dz. U. poz. 899, z 2011 r. poz. 1368 oraz z 2016 r. poz. 542).
 
 **Art. 39.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia . WZÓR ZNAKU ZGODNOŚCI Wysokość znaku zgodności wynosi nie mniej niż 5 mm. W przypadku wyposażenia morskiego, na którym ze względu na jego rozmiar nie można umieścić znaku zgodności, dopuszcza się możliwość odstąpienia od minimalnego wymiaru. W przypadku zmniejszania lub powiększania znaku zgodności należy zachować proporcje podane na powyższym rysunku. PROCEDURY OCENY ZGODNOŚCI WYPOSAŻENIA MORSKIEGO Moduł B Badanie typu UE 1. Badanie typu UE to ta część procedury oceny zgodności, według której jednostka notyfikowana bada projekt techniczny wyposażenia morskiego oraz weryfikuje i poświadcza spełnienie przez projekt techniczny wyposażenia morskiego mających do niego zastosowanie wymagań. 2. Badanie typu UE można przeprowadzić jednym z następujących sposobów: badanie próbki kompletnego wyposażenia morskiego, reprezentatywnej dla przewidywanej produkcji (typ produkcji), ocena adekwatności projektu technicznego wyposażenia morskiego poprzez zbadanie dokumentacji technicznej i dowodów potwierdzających, o których mowa w pkt 3, oraz ocenę próbek reprezentatywnych dla przewidywanej produkcji, jednej lub więcej istotnych części wyposażenia morskiego (połączenie typu produkcji i typu projektu). 3. Producent składa wniosek o badanie typu UE w wybranej przez siebie jednostce notyfikowanej. Wniosek taki zawiera: nazwę i adres producenta oraz, w przypadku wniosku składanego przez upoważnionego przedstawiciela, dodatkowo jego nazwę i adres, pisemną deklarację, że ten sam wniosek nie został złożony w żadnej innej jednostce notyfikowanej, dokumentację techniczną, która umożliwia ocenę wyposażenia morskiego pod względem jego zgodności z wymaganiami oraz obejmuje odpowiednią analizę i ocenę ryzyka; dokumentacja techniczna określa wymagania i obejmuje, w stopniu odpowiednim dla takiej oceny, projekt, produkcję i działanie wyposażenia morskiego, zawierając, w stosownych przypadkach, co najmniej:
+
+- **a)** opis ogólny wyposażenia morskiego,
+- **b)** projekt koncepcyjny i rysunki dotyczące produkcji oraz schematy elementów, podzespołów, obwodów itd.,
+- **c)** opisy i wyjaśnienia, niezbędne do zrozumienia tych rysunków i schematów oraz działania wyposażenia morskiego,
+- **d)** wykaz wymagań, które mają zastosowanie do danego wyposażenia morskiego, oraz opisy rozwiązań przyjętych w celu spełnienia wymagań, jeżeli takie normy zharmonizowane nie zostały zastosowane,
+- **e)** wyniki wykonanych obliczeń projektowych, przeprowadzonych badań itp.,
+- **f)** sprawozdania z badań, próbki reprezentatywne dla przewidywanej produkcji; jednostka notyfikowana może zażądać dostarczenia dalszych próbek, jeśli jest to niezbędne do przeprowadzenia programu badań, dowody potwierdzające adekwatność technicznego rozwiązania projektowego, wymieniające wszelkie dokumenty, które zastosowano; dowody potwierdzające obejmują, w stosownych przypadkach, wyniki badań przeprowadzonych przez odpowiednie laboratorium producenta lub przez inne laboratorium badawcze w jego imieniu i na jego odpowiedzialność.
+
+4. Jednostka notyfikowana: w odniesieniu do wyposażenia morskiego:
+
+4. 1. bada dokumentację techniczną i dowody potwierdzające, o których mowa w pkt 3, w celu oceny adekwatności projektu technicznego wyposażenia morskiego; w odniesieniu do próbki (próbek):
+
+4. 2. weryfikuje, czy dana próbka (próbki) została wyprodukowana zgodnie z dokumentacją techniczną oraz identyfikuje części zaprojektowane zgodnie z odpowiednimi wymaganiami i normami dotyczącymi badań, jak również części, które zaprojektowano bez zastosowania postanowień tych norm;
+
+4. 3. przeprowadza odpowiednie badania i testy lub zleca ich wykonanie;
+
+4. 4. uzgadnia ze składającym wniosek producentem miejsce, w którym przeprowadzone zostaną badania i testy.
+
+5. Jednostka notyfikowana sporządza sprawozdanie z oceny, w którym odnotowuje działania podjęte zgodnie z pkt 4 i ich rezultaty. Jednostka notyfikowana udostępnia treść takiego sprawozdania, w całości lub w części, wyłącznie za zgodą producenta, chyba że udostępnianie sprawozdania wynika z realizacji obowiązku wobec organu notyfikującego.
+
+6. Jeżeli typ spełnia mające zastosowanie do danego wyposażenia morskiego wymagania, jednostka notyfikowana wydaje producentowi certyfikat. Certyfikat zawiera nazwę i adres producenta, wnioski z badań, warunki jego ważności (o ile występują) oraz dane niezbędne do identyfikacji zatwierdzonego typu. Do certyfikatu może być dołączony jeden lub więcej załączników. Certyfikat i jego załączniki zawierają wszelkie istotne informacje umożliwiające ocenę zgodności wytwarzanego wyposażenia morskiego w odniesieniu do badanego typu oraz kontrolę w trakcie eksploatacji. Jeżeli typ nie spełnia wymagań, jednostka notyfikowana odmawia wydania certyfikatu oraz informuje o tym wnioskodawcę, podając szczegółowe uzasadnienie odmowy.
+
+7. Jeżeli zatwierdzony typ nie spełnia już wymagań, jednostka notyfikowana ustala, czy zmiany takie wymagają dalszego badania lub przeprowadzenia nowej procedury oceny zgodności. Jeżeli zmiany wymagają dalszego badania lub przeprowadzenia nowej procedury oceny zgodności, jednostka notyfikowana informuje o tym producenta. Producent informuje jednostkę notyfikowaną, która przechowuje dokumentację techniczną dotyczącą certyfikatu, o wszelkich modyfikacjach zatwierdzonego typu mogących wpływać na zgodność wyposażenia morskiego z wymaganiami lub warunki ważności certyfikatu. Takie modyfikacje wymagają dodatkowego zatwierdzenia w formie dodatku do oryginalnego certyfikatu.
+
+8. Każda jednostka notyfikowana informuje organy notyfikujące o certyfikatach lub wszelkich dodatkach do nich, które wydała lub cofnęła, oraz, na żądanie, udostępnia organom notyfikującym wykaz certyfikatów lub wszelkich dodatków do nich, których wydania odmówiono, które zawieszono lub poddano innym ograniczeniom. Każda jednostka notyfikowana informuje pozostałe jednostki notyfikowane o certyfikatach lub wszelkich dodatkach do nich, których wydania odmówiła, które cofnęła, zawiesiła lub poddała innym ograniczeniom, oraz, na żądanie, o certyfikatach lub wszelkich dodatkach do nich, które wydała. Jednostka notyfikowana, na żądanie Komisji Europejskiej, państw członkowskich Unii Europejskiej i innych jednostek notyfikowanych, przekazuje kopie certyfikatów lub dodatków do nich. Jednostka notyfikowana, na żądanie Komisji Europejskiej i państw członkowskich Unii Europejskiej, przekazuje kopie dokumentacji technicznej oraz wyniki badań przeprowadzonych przez jednostkę notyfikowaną. Jednostka notyfikowana przechowuje kopię certyfikatu, załączników i dodatków do niego, a także dokumentów technicznych, w tym dokumentacji przedstawionej przez producenta, przez okres do wygaśnięcia ważności certyfikatu.
+
+9. Producent przechowuje kopię certyfikatu oraz załączników i dodatków do niego wraz z dokumentacją techniczną do dyspozycji właściwych organów przez okres 10 lat od umieszczenia znaku zgodności na ostatnim wyprodukowanym wyposażeniu morskim, jednak nie krócej niż przewidywany okres eksploatacji wyposażenia morskiego.
+
+10. Upoważniony przedstawiciel producenta może złożyć wniosek, o którym mowa w pkt 3, oraz wypełniać obowiązki określone w pkt 7 i 9, o ile zostały one określone w pełnomocnictwie. Moduł D Zgodność z typem w oparciu o zapewnienie jakości procesu produkcji
+
+1. Zgodność z typem w oparciu o zapewnienie jakości procesu produkcji to ta część procedury oceny zgodności, według której producent wywiązuje się z obowiązków przedstawionych w pkt 2 i 5 oraz na swoją wyłączną odpowiedzialność zapewnia i deklaruje, że dane wyposażenie morskie jest zgodne z typem opisanym w certyfikacie i spełnia mające do niego zastosowanie wymagania.
+
+2. Produkcja Producent posiada zatwierdzony system jakości w odniesieniu do produkcji oraz kontroli i badania gotowego wyposażenia morskiego zgodnie z pkt 3, a także podlega nadzorowi zgodnie z pkt 4.
+
+3. System jakości
+
+3. 1. Producent składa do wybranej przez siebie jednostki notyfikowanej wniosek o ocenę jego systemu jakości w odniesieniu do danego wyposażenia morskiego. Wniosek taki zawiera: nazwę i adres producenta oraz, w przypadku wniosku składanego przez upoważnionego przedstawiciela, dodatkowo jego nazwę i adres, pisemną deklarację, że ten sam wniosek nie został złożony w żadnej innej jednostce notyfikowanej, wszystkie informacje istotne dla przewidzianej kategorii wyposażenia morskiego, dokumentację dotyczącą systemu jakości, dokumentację techniczną zatwierdzonego typu oraz kopię certyfikatu.
+
+3. 2. System jakości zapewnia zgodność wyposażenia morskiego z typem opisanym w certyfikacie oraz z mającymi do niego zastosowanie wymaganiami. Wszystkie elementy, wymagania i przepisy przyjęte przez producenta są systematycznie i w uporządkowany sposób dokumentowane w formie pisemnych polityk, procedur i instrukcji. Dokumentacja systemu jakości musi umożliwiać spójną interpretację programów, planów, ksiąg i zapisów jakości. Dokumentacja ta w szczególności zawiera stosowny opis: systemu jakości i struktury organizacyjnej, obowiązków oraz uprawnień kierownictwa w odniesieniu do jakości wyposażenia morskiego, odpowiednich technik produkcyjnych, kontroli jakości i zapewnienia jakości, procesów i systematycznych działań, jakie będą podejmowane, badań i testów, które będą wykonywane przed, podczas i po zakończeniu produkcji, oraz ich częstotliwości, zapisów dotyczących jakości, takich jak sprawozdania z kontroli i dane z badań, dane dotyczące wzorcowania, sprawozdania dotyczące kwalifikacji odpowiedniego personelu itd., środków monitorowania osiągania wymaganej jakości wyposażenia morskiego oraz skutecznego funkcjonowania systemu jakości.
+
+3. 3. Jednostka notyfikowana ocenia system jakości, ustalając, czy spełnia on wymagania, o których mowa w pkt 3.2. Oprócz doświadczenia w zakresie systemów zarządzania jakością zespół audytowy ma co najmniej jednego członka dysponującego doświadczeniem z zakresu oceny w dziedzinie danego wyposażenia morskiego i danej technologii, a także znajomością odpowiednich wymagań. Audyt obejmuje wizytację oceniającą w zakładzie producenta. Zespół audytorski dokonuje przeglądu dokumentacji technicznej, o której mowa w pkt 3.1 tiret piąte, w celu weryfikacji zdolności producenta do zidentyfikowania wymagań oraz do przeprowadzenia koniecznych badań zapewniających zgodność wyposażenia morskiego z tymi wymaganiami. Decyzja jest przekazywana producentowi. Powiadomienie zawiera wnioski z audytu oraz uzasadnioną decyzję dotyczącą dokonanej oceny.
+
+3. 4. Producent podejmuje się wypełnienia obowiązków wynikających z zatwierdzonego systemu jakości oraz utrzymania go w taki sposób, aby pozostawał niezmiennie odpowiedni oraz wydajny.
+
+3. 5. Producent na bieżąco informuje jednostkę notyfikowaną, która zatwierdziła system jakości, o wszelkich zamierzonych modyfikacjach systemu jakości. Jednostka notyfikowana ocenia proponowane zmiany oraz decyduje, czy zmodyfikowany system jakości nadal będzie spełniał wymagania, o których mowa w pkt 3.2, lub czy konieczna jest jego ponowna ocena. Jednostka notyfikowana powiadamia producenta o swojej decyzji. Powiadomienie zawiera wnioski z badania oraz uzasadnioną decyzję dotyczącą dokonanej oceny.
+
+4. Nadzór jednostki notyfikowanej
+
+4. 1. Celem nadzoru jest sprawdzenie, czy producent należycie wypełnia obowiązki wynikające z zatwierdzonego systemu jakości.
+
+4. 2. Do celów oceny producent umożliwia jednostce notyfikowanej dostęp do miejsc produkcji, kontroli, badania i magazynowania oraz zapewnia jej wszelkie niezbędne informacje, w szczególności: dokumentację systemu jakości, zapisy dotyczące jakości, takie jak sprawozdania z kontroli i dane z badań, dane dotyczące wzorcowania, sprawozdania dotyczące kwalifikacji odpowiedniego personelu itp.
+
+4. 3. Jednostka notyfikowana przeprowadza okresowe audyty mające na celu sprawdzenie, czy producent utrzymuje i stosuje system jakości oraz przekazuje producentowi sprawozdanie z audytu.
+
+4. 4. Jednostka notyfikowana może ponadto składać producentowi wizytacje bez zapowiedzi. Podczas takich wizytacji jednostka notyfikowana może, w razie konieczności, przeprowadzić badania wyposażenia morskiego lub zlecić przeprowadzenie takich badań w celu weryfikacji prawidłowości funkcjonowania systemu jakości. Jednostka notyfikowana przekazuje producentowi sprawozdanie z wizytacji oraz, w przypadku przeprowadzenia badań, sprawozdanie z badań.
+
+5. Znak zgodności i deklaracja zgodności UE
+
+5. 1. Producent umieszcza wymagany znak zgodności oraz, na odpowiedzialność jednostki notyfikowanej, o której mowa w pkt 3.1, jej numer identyfikacyjny na każdym egzemplarzu wyposażenia morskiego zgodnym z typem opisanym w certyfikacie oraz spełniającym wymagania.
+
+5. 2. Producent sporządza pisemną deklarację zgodności UE dla każdego modelu wyposażenia morskiego i przechowuje ją do dyspozycji właściwych organów przez okres 10 lat od umieszczenia znaku zgodności na ostatnim wyprodukowanym wyposażeniu morskim, jednak nie krócej niż przewidywany okres eksploatacji wyposażenia morskiego. Deklaracja zgodności UE identyfikuje model wyposażenia morskiego, dla którego została sporządzona. Kopia deklaracji zgodności UE zostaje udostępniona na żądanie właściwych organów.
+
+6. Producent przechowuje przez okres co najmniej 10 lat od umieszczenia znaku zgodności na ostatnim wyprodukowanym wyposażeniu morskim, jednak nie krócej niż przewidywany okres eksploatacji wyposażenia morskiego, następujące dokumenty, które są udostępniane właściwym organom: dokumentację, o której mowa w pkt 3.1, zatwierdzoną zmianę, o której mowa w pkt 3.5, decyzje i sprawozdania jednostki notyfikowanej, o których mowa w pkt 3.5, 4.3 i 4.4.
+
+7. Każda jednostka notyfikowana informuje organy notyfikujące o wydanych lub cofniętych zatwierdzeniach systemów jakości oraz, na żądanie, udostępnia organom notyfikującym wykaz zatwierdzeń systemów jakości, których wydania odmówiła, które cofnęła, zawiesiła lub poddała innym ograniczeniom. Każda jednostka notyfikowana informuje pozostałe jednostki notyfikowane o zatwierdzeniach systemów jakości, których wydania odmówiła, które cofnęła, zawiesiła lub poddała innym ograniczeniom, oraz, na żądanie, o zatwierdzeniach systemów jakości, które wydała.
+
+8. Upoważniony przedstawiciel Obowiązki producenta określone w pkt 3.1, 3.5, 5 i 6 mogą być w jego imieniu i na jego odpowiedzialność wypełniane przez jego upoważnionego przedstawiciela, o ile zostały one określone w pełnomocnictwie. Moduł E Zgodność z typem w oparciu o zapewnienie jakości wyposażenia morskiego
+
+1. Zgodność z typem w oparciu o zapewnienie jakości wyposażenia morskiego to ta część procedury oceny zgodności, według której producent wywiązuje się z obowiązków przedstawionych w pkt 2 i 5 oraz na swoją wyłączną odpowiedzialność zapewnia i deklaruje, że dane wyposażenie morskie jest zgodne z typem opisanym w certyfikacie i spełnia mające do niego zastosowanie wymagania.
+
+2. Produkcja Producent posiada zatwierdzony system jakości w odniesieniu do kontroli i badania gotowego wyposażenia morskiego zgodnie z pkt 3, a także podlega nadzorowi zgodnie z pkt 4.
+
+3. System jakości
+
+3. 1. Producent składa do wybranej przez siebie jednostki notyfikowanej wniosek o ocenę jego systemu jakości w odniesieniu do danego wyposażenia morskiego. Wniosek taki zawiera: nazwę i adres producenta oraz, w przypadku wniosku składanego przez upoważnionego przedstawiciela, dodatkowo jego nazwę i adres, pisemną deklarację, że ten sam wniosek nie został złożony w żadnej innej jednostce notyfikowanej, wszystkie informacje istotne dla przewidzianej kategorii wyposażenia morskiego, dokumentację dotyczącą systemu jakości, dokumentację techniczną zatwierdzonego typu oraz kopię certyfikatu.
+
+3. 2. System jakości zapewnia zgodność wyposażenia morskiego z typem opisanym w certyfikacie oraz z wymaganiami. Wszystkie elementy, wymagania i przepisy przyjęte przez producenta są systematycznie i w uporządkowany sposób dokumentowane w formie pisemnych polityk, procedur i instrukcji. Dokumentacja systemu jakości musi umożliwiać spójną interpretację programów, planów, ksiąg i zapisów jakości. Dokumentacja ta w szczególności zawiera stosowny opis: systemu jakości i struktury organizacyjnej, obowiązków oraz uprawnień kierownictwa w odniesieniu do jakości wyposażenia morskiego, badań i testów, które będą wykonywane po zakończeniu produkcji, zapisów dotyczących jakości, takich jak sprawozdania z kontroli i dane z badań, dane dotyczące wzorcowania, sprawozdania dotyczące kwalifikacji odpowiedniego personelu itp., środków monitorowania skuteczności funkcjonowania systemu jakości.
+
+3. 3. Jednostka notyfikowana ocenia system jakości, ustalając, czy spełnia on wymagania, o których mowa w pkt 3.2. Oprócz doświadczenia w zakresie systemów zarządzania jakością zespół audytowy ma co najmniej jednego członka dysponującego doświadczeniem z zakresu oceny w dziedzinie danego wyposażenia morskiego i danej technologii, a także znajomością odpowiednich wymagań. Audyt obejmuje wizytację oceniającą w zakładzie producenta. Zespół audytorski dokonuje przeglądu dokumentacji technicznej, o której mowa w pkt 3.1 tiret piąte, w celu weryfikacji zdolności producenta do zidentyfikowania wymagań oraz do przeprowadzenia koniecznych badań zapewniających zgodność wyposażenia morskiego z tymi wymaganiami. Decyzja jest przekazywana producentowi. Powiadomienie zawiera wnioski z audytu oraz uzasadnioną decyzję dotyczącą dokonanej oceny.
+
+3. 4. Producent podejmuje się wypełnienia obowiązków wynikających z zatwierdzonego systemu jakości oraz utrzymania go w taki sposób, aby pozostawał odpowiedni oraz wydajny.
+
+3. 5. Producent na bieżąco informuje jednostkę notyfikowaną, która zatwierdziła system jakości, o wszelkich zamierzonych modyfikacjach systemu jakości. Jednostka notyfikowana ocenia proponowane zmiany oraz decyduje, czy zmodyfikowany system jakości nadal będzie spełniał wymagania, o których mowa w pkt 3.2, lub czy konieczna jest jego ponowna ocena. Jednostka notyfikowana powiadamia producenta o swojej decyzji. Powiadomienie zawiera wnioski z badania oraz uzasadnioną decyzję dotyczącą dokonanej oceny.
+
+4. Nadzór jednostki notyfikowanej
+
+4. 1. Celem nadzoru jest sprawdzenie, czy producent należycie wypełnia obowiązki wynikające z zatwierdzonego systemu jakości.
+
+4. 2. Do celów oceny producent umożliwia jednostce notyfikowanej dostęp do miejsc kontroli, badania i magazynowania, a także zapewnia jej wszelkie niezbędne informacje, w szczególności: dokumentację systemu jakości, zapisy dotyczące jakości, takie jak sprawozdania z kontroli i dane z badań, dane dotyczące wzorcowania, sprawozdania dotyczące kwalifikacji odpowiedniego personelu itp.
+
+4. 3. Jednostka notyfikowana przeprowadza okresowe audyty mające na celu sprawdzenie, czy producent utrzymuje i stosuje system jakości oraz przekazuje producentowi sprawozdanie z audytu.
+
+4. 4. Jednostka notyfikowana może ponadto składać producentowi wizytacje bez zapowiedzi. Podczas takich wizytacji jednostka notyfikowana może, w razie konieczności, przeprowadzić badania wyposażenia morskiego lub zlecić przeprowadzenie takich badań w celu weryfikacji prawidłowości funkcjonowania systemu jakości. Jednostka notyfikowana przekazuje producentowi sprawozdanie z wizytacji oraz, w przypadku przeprowadzenia badań, sprawozdanie z badań.
+
+5. Znak zgodności i deklaracja zgodności UE
+
+5. 1. Producent umieszcza wymagany znak zgodności oraz, na odpowiedzialność jednostki notyfikowanej, o której mowa w pkt 3.1, jej numer identyfikacyjny na każdym egzemplarzu wyposażenia morskiego zgodnym z typem opisanym w certyfikacie oraz spełniającym wymagania.
+
+5. 2. Producent sporządza pisemną deklarację zgodności UE dla każdego modelu wyposażenia morskiego i przechowuje ją do dyspozycji właściwych organów przez okres 10 lat od umieszczenia znaku zgodności na ostatnim wyprodukowanym wyposażeniu morskim, jednak nie krócej niż przewidywany okres eksploatacji wyposażenia morskiego. Deklaracja zgodności UE identyfikuje model wyposażenia morskiego, dla którego została sporządzona. Kopia deklaracji zgodności UE zostaje udostępniona właściwym organom na żądanie.
+
+6. Producent przechowuje przez okres co najmniej 10 lat od umieszczenia znaku zgodności na ostatnim wyprodukowanym wyposażeniu morskim, jednak nie krócej niż przewidywany okres eksploatacji wyposażenia morskiego, następujące dokumenty, które są udostępniane właściwym organom: dokumentację, o której mowa w pkt 3.1, zatwierdzoną zmianę, o której mowa w pkt 3.5, decyzje i sprawozdania jednostki notyfikowanej, o których mowa w pkt 3.5, 4.3 i 4.4.
+
+7. Każda jednostka notyfikowana informuje organy notyfikujące o wydanych lub cofniętych zatwierdzeniach systemów jakości oraz, na żądanie, udostępnia organom notyfikującym wykaz zatwierdzeń systemów jakości, których wydania odmówiono, które zawieszono lub poddano innym ograniczeniom. Każda jednostka notyfikowana informuje pozostałe jednostki notyfikowane o zatwierdzeniach systemów jakości, których wydania odmówiła, które cofnęła lub zawiesiła, oraz, na żądanie, o zatwierdzeniach systemów jakości, które wydała.
+
+8. Upoważniony przedstawiciel Obowiązki producenta określone w pkt 3.1, 3.5, 5 i 6 mogą być w jego imieniu i na jego odpowiedzialność wypełniane przez jego upoważnionego przedstawiciela, o ile zostały one określone w pełnomocnictwie. Moduł F Zgodność z typem w oparciu o weryfikację wyposażenia morskiego
+
+1. Zgodność z typem w oparciu o weryfikację wyposażenia morskiego to ta część procedury oceny zgodności, według której producent wywiązuje się z obowiązków określonych w pkt 2, 5.1 i 6 oraz na swoją wyłączną odpowiedzialność zapewnia i deklaruje, że wyposażenie morskie, wobec którego zastosowano wymagania pkt 3, jest zgodne z typem opisanym w certyfikacie i spełnia mające do niego zastosowanie wymagania.
+
+2. Produkcja Producent podejmuje wszelkie niezbędne środki, aby proces produkcji i jego monitorowanie zapewniały zgodność wytworzonego wyposażenia morskiego z zatwierdzonym typem opisanym w certyfikacie oraz z mającymi do niego zastosowanie wymaganiami.
+
+3. Weryfikacja Wybrana przez producenta jednostka notyfikowana przeprowadza odpowiednie badania i testy w celu sprawdzenia zgodności wyposażenia morskiego z zatwierdzonym typem opisanym w certyfikacie oraz z wymaganiami. Zależnie od wyboru producenta, badania i testy sprawdzające zgodność wyposażenia morskiego z wymaganiami przeprowadzane są w drodze badania i testowania każdego wyposażenia morskiego zgodnie z pkt 4 lub statystycznego badania i testowania wyposażenia morskiego zgodnie z pkt 5.
+
+4. Weryfikacja zgodności poprzez badanie i testowanie każdego wyposażenia morskiego
+
+4. 1. Wszystkie egzemplarze wyposażenia morskiego są pojedynczo poddawane badaniom i właściwym testom określonym w wymaganiach w celu zweryfikowania ich zgodności z zatwierdzonym typem opisanym w certyfikacie oraz wymaganiami.
+
+4. 2. Jednostka notyfikowana wydaje certyfikat w odniesieniu do przeprowadzonych badań i testów oraz umieszcza swój numer identyfikacyjny na każdym zatwierdzonym wyposażeniu morskim lub zleca jego umieszczenie na swoją odpowiedzialność. Producent przechowuje certyfikaty do dyspozycji właściwych organów przez okres co najmniej 10 lat od umieszczenia znaku zgodności na ostatnim wyprodukowanym wyposażeniu morskim, jednak nie krócej niż przewidywany okres eksploatacji wyposażenia morskiego.
+
+5. Statystyczna weryfikacja zgodności
+
+5. 1. Producent podejmuje wszelkie środki niezbędne, aby proces produkcji i jego monitorowanie zapewniały jednolitość każdej wytworzonej partii wyposażenia morskiego, oraz przedstawia swoje wyposażenie morskie do weryfikacji w formie jednolitych partii.
+
+5. 2. Z każdej partii pobiera się losowo próbkę wyposażenia morskiego. W celu zapewnienia zgodności wyposażenia morskiego z wymaganiami oraz ustalenia, czy daną partię należy przyjąć, czy odrzucić, przeprowadza się indywidualne badania i właściwe testy wszystkich egzemplarzy wyposażenia morskiego określone w normie dotyczącej badań.
+
+5. 3. W przypadku przyjęcia partii zatwierdza się wszystkie egzemplarze wyposażenia morskiego w partii, z wyjątkiem tego wyposażenia morskiego z próbki, które nie przeszło pomyślnie badań. Jednostka notyfikowana wydaje certyfikat w odniesieniu do przeprowadzonych badań i testów oraz umieszcza swój numer identyfikacyjny na każdym zatwierdzonym wyposażeniu morskim lub zleca jego umieszczenie na swoją odpowiedzialność. Producent przechowuje certyfikaty do dyspozycji właściwych organów przez okres co najmniej 10 lat od umieszczenia znaku zgodności na ostatnim wyprodukowanym wyposażeniu morskim, jednak nie krócej niż przewidywany okres eksploatacji wyposażenia morskiego.
+
+5. 4. W przypadku odrzucenia partii wyposażenia morskiego jednostka notyfikowana lub właściwe organy podejmują odpowiednie środki zapobiegające wprowadzeniu tej partii do obrotu. W przypadku częstego odrzucania partii wyposażenia morskiego jednostka notyfikowana może zawiesić weryfikację statystyczną i podjąć odpowiednie środki.
+
+6. Znak zgodności i deklaracja zgodności UE
+
+6. 1. Producent umieszcza wymagany znak zgodności oraz, na odpowiedzialność jednostki notyfikowanej, o której mowa w pkt 3, jej numer identyfikacyjny na każdym egzemplarzu wyposażenia morskiego zgodnym z typem opisanym w certyfikacie oraz spełniającym wymagania.
+
+6. 2. Producent sporządza pisemną deklarację zgodności UE dla każdego modelu wyposażenia morskiego i przechowuje ją do dyspozycji właściwych organów przez okres 10 lat od umieszczenia znaku zgodności na ostatnim wyprodukowanym wyposażeniu morskim, jednak nie krócej niż przewidywany okres eksploatacji wyposażenia morskiego. Deklaracja zgodności UE identyfikuje model wyposażenia morskiego, dla którego została sporządzona. Kopia deklaracji zgodności UE zostaje udostępniona właściwym organom na żądanie. Jeśli ustali tak jednostka notyfikowana, o której mowa w pkt 3, producent na jej odpowiedzialność umieszcza na wyposażeniu morskim także numer identyfikacyjny jednostki notyfikowanej.
+
+7. W uzgodnieniu z jednostką notyfikowaną i na jej odpowiedzialność producent może umieszczać na wyposażeniu morskim numer identyfikacyjny jednostki notyfikowanej podczas procesu produkcji.
+
+8. Upoważniony przedstawiciel Obowiązki producenta mogą być w jego imieniu i na jego odpowiedzialność wypełniane przez jego upoważnionego przedstawiciela, o ile zostały one określone w pełnomocnictwie. Upoważniony przedstawiciel nie może wykonać obowiązków producenta określonych w pkt 2 i 5.1. Moduł G Zgodność w oparciu o weryfikację jednostkową
+
+1. Zgodność w oparciu o weryfikację jednostkową to procedura oceny zgodności, według której producent wywiązuje się z obowiązków określonych w pkt 2, 3 i 5 oraz zapewnia i deklaruje, na swoją wyłączną odpowiedzialność, że dane wyposażenie morskie, wobec którego zastosowano wymagania pkt 4, jest zgodne z mającymi do niego zastosowanie wymaganiami.
+
+2. Dokumentacja techniczna Producent sporządza dokumentację techniczną i udostępnia ją jednostce notyfikowanej, o której mowa w pkt 4. Dokumentacja umożliwia ocenę wyposażenia morskiego pod względem jego zgodności z wymaganiami oraz obejmuje odpowiednią analizę i ocenę ryzyka. Dokumentacja techniczna określa wymagania i obejmuje, w stopniu odpowiednim dla takiej oceny, projekt, produkcję i działanie wyposażenia morskiego. Dokumentacja techniczna zawiera, w stosownych przypadkach, co najmniej: ogólny opis wyposażenia morskiego, projekt koncepcyjny i rysunki dotyczące produkcji oraz schematy elementów, podzespołów, obwodów itd., opisy i wyjaśnienia, niezbędne do zrozumienia działania wyposażenia morskiego oraz rysunków i schematów, o których mowa w tiret drugie, wykaz wymagań i norm dotyczących badań oraz opisy rozwiązań przyjętych w celu spełnienia wymagań, wyniki wykonanych obliczeń projektowych, przeprowadzonych badań itp., sprawozdania z badań. Producent przechowuje dokumentację techniczną do dyspozycji właściwych organów przez okres co najmniej 10 lat od umieszczenia znaku zgodności na ostatnim wyprodukowanym wyposażeniu morskim, jednak nie krócej niż przewidywany okres eksploatacji wyposażenia morskiego.
+
+3. Produkcja Producent podejmuje wszelkie niezbędne środki, aby proces produkcji i jego monitorowanie zapewniały zgodność wytworzonego wyposażenia morskiego z wymaganiami.
+
+4. Weryfikacja
+
+4. 1. W celu sprawdzenia zgodności wyposażenia morskiego z wymaganiami wybrana przez producenta jednostka notyfikowana przeprowadza lub zleca przeprowadzenie odpowiednich badań i testów określonych w normach dotyczących badań.
+
+4. 2. Jednostka notyfikowana wydaje certyfikat w odniesieniu do przeprowadzonych badań i testów oraz umieszcza swój numer identyfikacyjny na zatwierdzonym wyposażeniu morskim lub zleca jego umieszczenie na swoją odpowiedzialność.
+
+4. 3. Producent przechowuje certyfikaty do dyspozycji właściwych organów przez okres co najmniej 10 lat od umieszczenia znaku zgodności na ostatnim wyprodukowanym wyposażeniu morskim, jednak nie krócej niż przewidywany okres eksploatacji wyposażenia morskiego.
+
+5. Znak zgodności i deklaracja zgodności UE
+
+5. 1. Producent umieszcza wymagany znak zgodności oraz, na odpowiedzialność jednostki notyfikowanej, o której mowa w pkt 4, jej numer identyfikacyjny na każdym egzemplarzu wyposażenia morskiego spełniającym wymagania.
+
+5. 2. Producent sporządza pisemną deklarację zgodności UE i przechowuje ją do dyspozycji właściwych organów przez okres 10 lat od umieszczenia znaku zgodności na ostatnim wyprodukowanym wyposażeniu morskim, jednak nie krócej niż przewidywany okres eksploatacji wyposażenia morskiego. Deklaracja zgodności UE identyfikuje wyposażenie morskie, dla którego została sporządzona. Kopia deklaracji zgodności UE zostaje udostępniona na żądanie właściwych organów.
+
+6. Upoważniony przedstawiciel Obowiązki producenta określone w pkt 2 i 5 mogą być w jego imieniu i na jego odpowiedzialność wypełniane przez jego upoważnionego przedstawiciela, o ile zostały one określone w pełnomocnictwie. WZÓR DEKLARACJI ZGODNOŚCI UE (NR XXXX)
+
+1. Model aparatury/wyposażenie morskie (numer wyposażenia morskiego, typu, partii lub serii):
+
+2. Nazwa i adres producenta lub jego upoważnionego przedstawiciela:
+
+3. Niniejsza deklaracja zgodności wydana zostaje na wyłączną odpowiedzialność producenta.
+
+4. Przedmiot deklaracji (identyfikacja aparatury; w razie konieczności identyfikacji aparatury deklaracja zgodności może zawierać kolorową ilustrację o wystarczającej rozdzielczości):
+
+5. Wymieniony powyżej przedmiot niniejszej deklaracji jest zgodny z wymaganiami unijnego prawodawstwa harmonizacyjnego:
+
+6. Odwołania do norm zharmonizowanych, które zastosowano, wraz z datą normy, lub do innych specyfikacji technicznych, wraz z datą specyfikacji, w odniesieniu do których deklarowana jest zgodność:
+
+7. Jednostka notyfikowana ... (nazwa, numer) przeprowadziła ... (opis interwencji) i wydała certyfikat:
+
+8. Informacje dodatkowe: Podpisano w imieniu: (miejsce i data wydania) (nazwisko, stanowisko) (podpis)
+
 

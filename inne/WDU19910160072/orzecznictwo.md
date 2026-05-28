@@ -2,8 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 9 listopada 1990 r. o przejęciu majątku byłej Polskiej Zjednoczonej Partii Robotniczej.*
 
-Łącznie: **3** orzeczeń
-(pominięto 1 orzeczeń sądów rejonowych)
+Łącznie: **2** orzeczeń
 
 ## art. 1 (2)
 
@@ -13,8 +12,4 @@ Orzeczenia powołujące: *Ustawa z dnia 9 listopada 1990 r. o przejęciu majątk
 ## art. 5 (1)
 
 - 1996-04-25 | SN | [I PZP 28/95](https://www.saos.org.pl/judgments/77140) | Uchwała ★
-
-## (ogólnie) (1)
-
-- 2017-03-16 | SO | [III Ca 1620/16](https://www.saos.org.pl/judgments/282559) | Uzasadnienie
 

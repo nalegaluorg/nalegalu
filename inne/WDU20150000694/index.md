@@ -8,12 +8,10 @@ pos: 694
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy o Krajowej Szkole Sądownictwa i Prokuratury oraz niektórych innych ustaw
-
-*USTAWA z dnia 9 kwietnia 2015 r.*
+# Ustawa z dnia 9 kwietnia 2015 r. o zmianie ustawy o Krajowej Szkole Sądownictwa i Prokuratury oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +22,97 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2015-04-09 |
 | Data wydania | 2015-05-20 |
+| Wejście w życie | 2015-08-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000694) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/694/text.pdf) |
 
+1.
+Aplikant prokuratorski uprawniony jest do wykonywania czynności, o których mowa w art. 100a ust. 2 i 3.
+2.
+Aplikant prokuratorski po zaliczeniu kolokwium sprawdzającego, o którym mowa w art. 30 ust. 5 ustawy z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury (Dz. U. z 2012 r. poz. 1230, z 2014 r. poz. 1071 oraz z 2015 r. poz. 694), może występować przed sądem rejonowym, w tym w charakterze oskarżyciela publicznego w sprawach, w których postępowanie przygotowawcze zakończyło się w formie dochodzenia.
+Do aplikanta prokuratorskiego, w zakresie nieuregulowanym w ustawie z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury, stosuje się odpowiednio przepisy niniejszej ustawy.
+” .
+W ustawie z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. z 2011 r. Nr 109, poz. 639, z późn. zm.) w art. 3 ust. 3 otrzymuje brzmienie:
+„
+3.
+Od odbycia stażu urzędniczego zwolnione są osoby, które ukończyły aplikację sędziowską lub prokuratorską.
+” .
+
 **Art. 1.** W ustawie z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury (Dz. U. z 2012 r. poz. 1230 oraz z 2014 r. poz. 1071) wprowadza się następujące zmiany:
 
-**Art. 3.** Minister Sprawiedliwości, w drodze rozporządzenia, nadaje statut Krajowej Szkole, określający jej ustrój, organizację, siedzibę oraz symbole, mając na uwadze konieczność stworzenia odpowiednich warunków organizacyjnych niezbędnych dla prawidłowej realizacji zadań przez Krajową Szkołę.”;
+- **1)** art. 2 i art. 3 otrzymują brzmienie: „
+
+**Art. 2.**
+
+1. Zadaniami Krajowej Szkoły są:
+
+- **1)** szkolenie i doskonalenie zawodowe sędziów, prokuratorów i asesorów prokuratury w celu uzupełnienia ich specjalistycznej wiedzy i umiejętności zawodowych;
+- **2)** szkolenie i doskonalenie zawodowe referendarzy sądowych, asystentów sędziów, asystentów prokuratorów, kuratorów zawodowych oraz urzędników sądów i prokuratury w celu podniesienia ich kwalifikacji zawodowych;
+- **3)** prowadzenie aplikacji sędziowskiej i aplikacji prokuratorskiej, których celem jest uzyskanie przez aplikantów niezbędnej wiedzy i praktycznego przygotowania do zajmowania stanowisk sędziego, prokuratora i asesora prokuratury;
+- **4)** prowadzenie analiz i badań służących ustaleniu kompetencji i kwalifikacji wymaganych na stanowiskach pracy w sądach i prokuraturze celem ich wykorzystania w działalności szkoleniowej.
+
+2. Zadania Krajowej Szkoły realizowane są w szczególności przez:
+
+- **1)** opracowywanie programów i organizowanie szkoleń i innych cyklicznych form doskonalenia zawodowego;
+- **2)** koordynowanie działalności szkoleniowej sądów i prokuratury;
+- **3)** opracowywanie programów aplikacji sędziowskiej i aplikacji prokuratorskiej oraz organizowanie tych aplikacji;
+- **4)** przygotowywanie i organizowanie egzaminów sędziowskiego i prokuratorskiego;
+- **5)** przygotowywanie oraz organizowanie konferencji, sympozjów i seminariów;
+- **6)** współpracę międzynarodową oraz współdziałanie z podstawowymi jednostkami organizacyjnymi szkół wyższych prowadzącymi kształcenie na kierunku prawo, jednostkami badawczo-rozwojowymi oraz placówkami naukowymi Polskiej Akademii Nauk w zakresie działalności szkoleniowej oraz innych form doskonalenia zawodowego;
+- **7)** prowadzenie działalności wydawniczej związanej z realizacją zadań, o których mowa w ust. 1;
+- **8)** pozyskiwanie i wykorzystywanie funduszy pomocowych przeznaczonych na finansowanie zadań, o których mowa w ust. 1;
+- **9)** wykonywanie innych zadań związanych z doskonaleniem kadr sądów i prokuratury, a także z potrzebami sądownictwa i prokuratury, wskazanych przez Ministra Sprawiedliwości.
+
+3. Krajowa Szkoła ma prawo używania okrągłej pieczęci z wizerunkiem orła, ustalonym dla godła Rzeczypospolitej Polskiej, oraz nazwą szkoły w otoku na podstawie przepisów ustawy z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2005 r. Nr 235, poz. 2000, z późn. zm.).
+
+**Art. 3.** Minister Sprawiedliwości, w drodze rozporządzenia, nadaje statut Krajowej Szkole, określający jej ustrój, organizację, siedzibę oraz symbole, mając na uwadze konieczność stworzenia odpowiednich warunków organizacyjnych niezbędnych dla prawidłowej realizacji zadań przez Krajową Szkołę. ” ;
+
+- **2)** w art. 6: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. Rada składa się nie więcej niż z 18 członków, w tym:
+
+- **1)** 3 członków wskazanych przez Ministra Sprawiedliwości;
+- **2)** 3 członków wskazanych przez Krajową Radę Sądownictwa;
+- **3)** 3 członków wskazanych przez Prokuratora Generalnego;
+- **4)** 3 członków wskazanych przez Krajową Radę Prokuratury;
+- **5)** członka wskazanego przez Pierwszego Prezesa Sądu Najwyższego;
+- **6)** członka wskazanego przez Prezesa Naczelnego Sądu Administracyjnego;
+- **7)** członka wskazanego przez podstawowe jednostki organizacyjne szkół wyższych prowadzące kształcenie na kierunku prawo;
+- **8)** członka wskazanego przez Prezesa Naczelnej Rady Adwokackiej;
+- **9)** członka wskazanego przez Prezesa Krajowej Rady Radców Prawnych;
+- **10)** członka wskazanego przez Prezesa Krajowej Rady Notarialnej. ” , ust. 6 otrzymuje brzmienie: „
+    - **b)**
+
+6. Minister Sprawiedliwości na 3 miesiące przed dniem upływu kadencji członków Rady zwraca się do Krajowej Rady Sądownictwa, Prokuratora Generalnego, Krajowej Rady Prokuratury, Pierwszego Prezesa Sądu Najwyższego, Prezesa Naczelnego Sądu Administracyjnego, podstawowych jednostek organizacyjnych szkół wyższych prowadzących kształcenie na kierunku prawo, Prezesa Naczelnej Rady Adwokackiej, Prezesa Krajowej Rady Radców Prawnych oraz Prezesa Krajowej Rady Notarialnej o wskazanie kandydatów na członków Rady. Wskazanie kandydatów następuje najpóźniej na 30 dni przed dniem upływu kadencji członków Rady. ” ;
+
+- **3)** w art. 12: ust. 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+1. Dyrektor Krajowej Szkoły jest powoływany i odwoływany przez Ministra Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Sądownictwa oraz Krajowej Rady Prokuratury. Kadencja Dyrektora Krajowej Szkoły trwa 5 lat.
+
+2. Jeżeli Krajowa Rada Sądownictwa lub Krajowa Rada Prokuratury, w terminie 30 dni od dnia przedstawienia zamiaru powołania Dyrektora Krajowej Szkoły, nie wyrazi opinii, o której mowa w ust. 1, uznaje się, że opinia jest pozytywna. ” , ust. 4 otrzymuje brzmienie: „
+
+- **b)**
+
+4. W przypadku powołania sędziego lub prokuratora do pełnienia funkcji Dyrektora Krajowej Szkoły, Minister Sprawiedliwości lub Prokurator Generalny na wniosek Ministra Sprawiedliwości deleguje odpowiednio sędziego lub prokuratora do Krajowej Szkoły na zasadach określonych odpowiednio w ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r. poz. 133 i 509) lub w ustawie z dnia 20 czerwca 1985 r. o prokuraturze (Dz. U. z 2011 r. Nr 270, poz. 1599, ze zm.). ” , dodaje się ust. 6–9 w brzmieniu: „
+
+- **c)**
+
+6. Minister Sprawiedliwości powołuje i odwołuje zastępców Dyrektora Krajowej Szkoły na wniosek Dyrektora Krajowej Szkoły.
+
+7. Co najmniej jednym z zastępców Dyrektora Krajowej Szkoły jest sędzia albo sędzia w stanie spoczynku.
+
+8. Co najmniej jednym z zastępców Dyrektora Krajowej Szkoły jest prokurator albo prokurator w stanie spoczynku, powoływany za zgodą Prokuratora Generalnego.
+
+9. Do zastępców Dyrektora Krajowej Szkoły stosuje się odpowiednio przepisy ust. 4 i art. 14. ” ;
+
+- **4)** uchyla się art. 13;
+- **5)** w art. 15 w ust. 2 pkt 8 otrzymuje brzmienie: „
+- **8)** realizowanie zadań związanych z przygotowywaniem i przeprowadzaniem naboru na aplikację sędziowską i aplikację prokuratorską, a także prowadzeniem tych aplikacji, oraz przygotowywanie i przeprowadzanie egzaminów sędziowskiego i prokuratorskiego; ” ;
+- **6)** po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „
+
+#### Rozdział 2a Kształcenie ustawiczne
 
 **Art. 15a.**
 
@@ -43,17 +126,17 @@ source: "isap-pdf"
 
 5. Uwzględniając uzasadnione potrzeby, Krajowa Szkoła – niezależnie od szkoleń i innych form doskonalenia zawodowego ujętych w harmonogramie – może, po zatwierdzeniu przez Radę, organizować dodatkowe szkolenia i inne formy doskonalenia zawodowego, zawiadamiając o tym zainteresowanych.
 
-**Art. 15b.**
-
 1. Harmonogram uwzględnia potrzeby szkoleniowe zgłaszane przez Ministra Sprawiedliwości, Prokuratora Generalnego, Krajową Radę Sądownictwa, Krajową Radę Prokuratury, prezesów sądów apelacyjnych oraz prokuratorów apelacyjnych.
 
 2. Rada po opracowaniu harmonogramu przekazuje go do zaopiniowania Ministrowi Sprawiedliwości.
 
 3. Minister Sprawiedliwości, po uzyskaniu stanowiska Prokuratora Generalnego, może, w terminie 30 dni od dnia otrzymania harmonogramu, zaproponować wprowadzenie do niego zmian.
 
-4. Rada w terminie 30 dni od dnia zaproponowania przez Ministra Sprawiedliwości zmian odnosi się do nich.
+4. Rada w terminie 30 dni od dnia zaproponowania przez Ministra Sprawiedliwości zmian odnosi się do nich. Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób i tryb opracowania harmonogramu, mając na względzie konieczność zaspokojenia potrzeb szkoleniowych sędziów, referendarzy sądowych, asystentów sędziów, kuratorów zawodowych, prokuratorów, asesorów prokuratury, asystentów prokuratorów oraz urzędników sądów i prokuratury. ” ;
 
-**Art. 15c.** Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób i tryb opracowania harmonogramu, mając na względzie konieczność zaspokojenia potrzeb szkoleniowych sędziów, referendarzy sądowych, asystentów sędziów, kuratorów zawodowych, prokuratorów, asesorów prokuratury, asystentów prokuratorów oraz urzędników sądów i prokuratury.”;
+- **7)** rozdział 3 otrzymuje brzmienie: „
+
+#### Rozdział 3 Aplikacje sędziowska i prokuratorska
 
 **Art. 16.** Minister Sprawiedliwości sprawuje nadzór merytoryczny nad aplikacjami sędziowską i prokuratorską.
 
@@ -134,7 +217,7 @@ source: "isap-pdf"
 2. W skład komisji konkursowej wchodzi:
 
 - **1)** sekretarz wskazany przez Dyrektora Krajowej Szkoły spośród sędziów i prokuratorów delegowanych do Krajowej Szkoły;
-- **2)** 2 wykładowców Krajowej Szkoły wskazanych przez Dyrektora Krajowej Szkoły spośród sędziów i prokura-torów, specjalistów z poszczególnych dziedzin prawa, które podlegają sprawdzeniu w toku konkursu;
+- **2)** 2 wykładowców Krajowej Szkoły wskazanych przez Dyrektora Krajowej Szkoły spośród sędziów i prokuratorów, specjalistów z poszczególnych dziedzin prawa, które podlegają sprawdzeniu w toku konkursu;
 - **3)** 3 sędziów wskazanych przez Ministra Sprawiedliwości spośród sędziów Sądu Najwyższego, sędziów sądów apelacyjnych, sędziów sądów okręgowych, sędziów Naczelnego Sądu Administracyjnego lub sędziów wojewódzkich sądów administracyjnych, specjalistów z poszczególnych dziedzin prawa, które podlegają sprawdzeniu w toku konkursu;
 - **4)** 3 prokuratorów wskazanych przez Prokuratora Generalnego spośród prokuratorów Prokuratury Generalnej, prokuratorów prokuratur apelacyjnych lub prokuratorów prokuratur okręgowych, specjalistów z poszczególnych dziedzin prawa, które podlegają sprawdzeniu w toku konkursu;
 - **5)** przedstawiciel Krajowej Rady Sądownictwa;
@@ -326,10 +409,15 @@ source: "isap-pdf"
 
 1. Członkom zespołu konkursowego i zespołów egzaminacyjnych oraz komisji konkursowej i komisji egzaminacyjnych za udział w pracach przysługuje wynagrodzenie.
 
-2. Minister Sprawiedliwości określi, w drodze rozporządzenia, wysokość wynagrodzenia członków zespołu konkursowego i zespołów egzaminacyjnych oraz komisji konkursowej i komisji egzaminacyjnych, w wymiarze nie większym niż miesięczne wynagrodzenie zasadnicze sędziego w stawce piątej – uwzględniając zakres i rodzaj ich obowiązków oraz nakład pracy.”;
+2. Minister Sprawiedliwości określi, w drodze rozporządzenia, wysokość wynagrodzenia członków zespołu konkursowego i zespołów egzaminacyjnych oraz komisji konkursowej i komisji egzaminacyjnych, w wymiarze nie większym niż miesięczne wynagrodzenie zasadnicze sędziego w stawce piątej – uwzględniając zakres i rodzaj ich obowiązków oraz nakład pracy. ” ;
 
-- **8)** w art. 39 pkt 1 otrzymuje brzmienie: „1) praca w charakterze aplikanta sędziowskiego w sądzie lub aplikanta prokuratorskiego w prokuraturze, w tym uczestniczenie w zajęciach i praktykach przewidzianych programem aplikacji;”;
-- **9)** art. 40 otrzymuje brzmienie: „Art. 40. 1. Prezes sądu okręgowego lub prokurator okręgowy, po zasięgnięciu opinii Dyrektora Krajowej Szkoły, może udzielić aplikantowi aplikacji sędziowskiej lub aplikacji prokuratorskiej przerwy w odbywaniu aplikacji.
+- **8)** w art. 39 pkt 1 otrzymuje brzmienie: „
+- **1)** praca w charakterze aplikanta sędziowskiego w sądzie lub aplikanta prokuratorskiego w prokuraturze, w tym uczestniczenie w zajęciach i praktykach przewidzianych programem aplikacji; ” ;
+- **9)** art. 40 otrzymuje brzmienie: „
+
+**Art. 40.**
+
+1. Prezes sądu okręgowego lub prokurator okręgowy, po zasięgnięciu opinii Dyrektora Krajowej Szkoły, może udzielić aplikantowi aplikacji sędziowskiej lub aplikacji prokuratorskiej przerwy w odbywaniu aplikacji.
 
 2. Przerwa w odbywaniu aplikacji może być udzielona:
 
@@ -338,81 +426,179 @@ source: "isap-pdf"
 
 3. W przypadku, o którym mowa w ust. 2 pkt 2, aplikantowi udziela się urlopu bezpłatnego.
 
-4. Po zakończeniu przerwy w odbywaniu aplikacji aplikant kontynuuje aplikację od etapu, na którym została ona przerwana, jeżeli umożliwia to program aplikacji. W pozostałych przypadkach aplikant kontynuuje aplikację na warunkach określonych przez Dyrektora Krajowej Szkoły.”;
+4. Po zakończeniu przerwy w odbywaniu aplikacji aplikant kontynuuje aplikację od etapu, na którym została ona przerwana, jeżeli umożliwia to program aplikacji. W pozostałych przypadkach aplikant kontynuuje aplikację na warunkach określonych przez Dyrektora Krajowej Szkoły. ” ;
 
-- **10)** po art. 40 dodaje się art. 40a w brzmieniu: „Art. 40a. Aplikantowi przysługuje urlop szkoleniowy w wymiarze 30 dni kalendarzowych w okresie poprzedzającym bezpośrednio egzamin sędziowski lub prokuratorski.”;
-- **11)** w art. 41:
-    - **a)** w ust. 1: – pkt 2 otrzymuje brzmienie: „2) przestał spełniać wymagania określone w art. 24 ust. 1 pkt 1–3;”, – uchyla się pkt 3, – pkt 7 i 8 otrzymują brzmienie: „7) nie przystąpił do egzaminu sędziowskiego i nie złożył wniosku o zezwolenie, o którym mowa w art. 33 ust. 1;
+- **10)** po art. 40 dodaje się art. 40a w brzmieniu: „ Aplikantowi przysługuje urlop szkoleniowy w wymiarze 30 dni kalendarzowych w okresie poprzedzającym bezpośrednio egzamin sędziowski lub prokuratorski. ” ;
+- **11)** w art. 41: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) przestał spełniać wymagania określone w art. 24 ust. 1 pkt 1–3; ” , – uchyla się pkt 3, – pkt 7 i 8 otrzymują brzmienie: „ 7) nie przystąpił do egzaminu sędziowskiego i nie złożył wniosku o zezwolenie, o którym mowa w art. 33 ust. 1; 8) nie zdał kolokwium sprawdzającego, o którym mowa w art. 30 ust. 5. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+    - **b)**
 
-- **8)** nie zdał kolokwium sprawdzającego, o którym mowa w art. 30 ust.
+1a. Dyrektor Krajowej Szkoły skreśla aplikanta z listy aplikantów w razie rozwiązania umowy o pracę na podstawie art. 52 § 1 pkt 1, art. 53 § 1 albo art. 55 § 1 lub 11 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy. ” , w ust. 2: – uchyla się pkt 1, – pkt 2 i 3 otrzymują brzmienie: „ 2) opuścił bez usprawiedliwienia ponad 20% zajęć objętych programem aplikacji w danym roku szkoleniowym; 3) nie przystąpił w wyznaczonym terminie bez usprawiedliwienia do sprawdzianu przewidzianego w programie aplikacji lub sprawdzianu takiego nie zaliczył; ” , – pkt 4 otrzymuje brzmienie: „ 4) został dwukrotnie ukarany karą nagany, o której mowa w art. 51 ust. 2 pkt 2. ” ;
 
-5. ”,
-
-- **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Dyrektor Krajowej Szkoły skreśla aplikanta z listy aplikantów w razie rozwiązania umowy o pracę na podstawie art. 52 § 1 pkt 1, art. 53 § 1 albo art. 55 § 1 lub 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.”,
-- **c)** w ust. 2: – uchyla się pkt 1, – pkt 2 i 3 otrzymują brzmienie: „2) opuścił bez usprawiedliwienia ponad 20% zajęć objętych programem aplikacji w danym roku szkoleniowym;
-- **3)** nie przystąpił w wyznaczonym terminie bez usprawiedliwienia do sprawdzianu przewidzianego w programie aplikacji lub sprawdzianu takiego nie zaliczył;”, – pkt 4 otrzymuje brzmienie: „4) został dwukrotnie ukarany karą nagany, o której mowa w art. 51 ust. 2 pkt 2.”;
+- **c)**
 - **12)** uchyla się art. 42–46;
-- **13)** art. 47 otrzymuje brzmienie: „Art. 47. 1. Aplikant nie może podejmować dodatkowego zatrudnienia lub zajęcia, z wyjątkiem zatrudnienia na stanowisku dydaktycznym, naukowo-dydaktycznym lub naukowym oraz zajęcia o charakterze naukowym, dydaktycznym lub publicystycznym, jeżeli wykonywanie tego zatrudnienia lub zajęcia nie przeszkadza w wykonywaniu obowiązków aplikanta.
+- **13)** art. 47 otrzymuje brzmienie: „
+
+**Art. 47.**
+
+1. Aplikant nie może podejmować dodatkowego zatrudnienia lub zajęcia, z wyjątkiem zatrudnienia na stanowisku dydaktycznym, naukowo-dydaktycznym lub naukowym oraz zajęcia o charakterze naukowym, dydaktycznym lub publicystycznym, jeżeli wykonywanie tego zatrudnienia lub zajęcia nie przeszkadza w wykonywaniu obowiązków aplikanta.
 
 2. Aplikant jest obowiązany zawiadomić odpowiednio prezesa sądu okręgowego lub prokuratora okręgowego o zamiarze podjęcia dodatkowego zatrudnienia lub zajęcia, o których mowa w ust. 1.
 
-3. Prezes sądu okręgowego lub prokurator okręgowy po zasięgnięciu opinii Dyrektora Krajowej Szkoły mogą wyrazić sprzeciw wobec zamiaru podjęcia przez aplikanta dodatkowego zatrudnienia lub zajęcia, jeżeli uznają, że będzie to przeszkadzało w wykonywaniu obowiązków aplikanta.”;
+3. Prezes sądu okręgowego lub prokurator okręgowy po zasięgnięciu opinii Dyrektora Krajowej Szkoły mogą wyrazić sprzeciw wobec zamiaru podjęcia przez aplikanta dodatkowego zatrudnienia lub zajęcia, jeżeli uznają, że będzie to przeszkadzało w wykonywaniu obowiązków aplikanta. ” ;
 
-- **14)** art. 49 otrzymuje brzmienie: „Art. 49. 1. Patronów poszczególnych praktyk powołuje się spośród odpowiednio sędziów, referendarzy sądowych i prokuratorów, za ich zgodą. Za sprawowanie patronatu przysługuje wynagrodzenie.
+- **14)** art. 49 otrzymuje brzmienie: „
+
+**Art. 49.**
+
+1. Patronów poszczególnych praktyk powołuje się spośród odpowiednio sędziów, referendarzy sądowych i prokuratorów, za ich zgodą. Za sprawowanie patronatu przysługuje wynagrodzenie.
 
 2. Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowy tryb wyznaczania patronów poszczególnych praktyk, zakres ich obowiązków oraz warunki sprawowania patronatu nad aplikantami, uwzględniając zakres wiedzy teoretycznej i praktycznej niezbędnej do zajmowania stanowiska sędziego, asesora prokuratury oraz prokuratora, a także specyfikę tych urzędów.
 
-3. Minister Sprawiedliwości określi, w drodze rozporządzenia, wysokość wynagrodzenia patronów poszczególnych praktyk, w wymiarze nie większym niż 25% podstawy ustalenia wynagrodzenia zasadniczego sędziego i prokuratora, uwzględniając zakres obowiązków i nakład ich pracy.”;
+3. Minister Sprawiedliwości określi, w drodze rozporządzenia, wysokość wynagrodzenia patronów poszczególnych praktyk, w wymiarze nie większym niż 25% podstawy ustalenia wynagrodzenia zasadniczego sędziego i prokuratora, uwzględniając zakres obowiązków i nakład ich pracy. ” ;
 
-- **15)** w art. 50 w ust. 2 pkt 1 otrzymuje brzmienie: „1) nagroda pieniężna lub rzeczowa;”;
-- **16)** w art. 52:
-    - **a)** pkt 1 i 2 otrzymują brzmienie: „1) szczegółowe warunki i tryb przeprowadzania naboru dla kandydatów na aplikację sędziowską i aplikację prokuratorską, a także tryb powoływania i działania zespołu konkursowego i komisji konkursowej, mając na względzie konieczność określenia zakresu wiedzy podlegającej sprawdzeniu w trakcie konkursu, zapewnienia sprawnego i obiektywnego przeprowadzenia naboru oraz dokonania wyboru najlepszych kandydatów;
+- **15)** w art. 50 w ust. 2 pkt 1 otrzymuje brzmienie: „
+- **1)** nagroda pieniężna lub rzeczowa; ” ;
+- **16)** w art. 52: pkt 1 i 2 otrzymują brzmienie: „
+    - **a)**
 
-- **2)** organizację, szczegółowe warunki i tryb odbywania aplikacji sędziowskiej oraz aplikacji prokuratorskiej, sposób i tryb przeprowadzenia kolokwium sprawdzającego, o którym mowa w art. 30 ust. 5, jak również sposób ustalania systemu punktowego oceny sprawdzianów i ich poprawiania oraz systemu punktowego oceny praktyk, objętych programem aplikacji, mając na względzie zakres wiedzy teoretycznej i praktycznej niezbędnej do zajmowania stanowiska odpowiednio sędziego, asesora prokuratury i prokuratora oraz konieczność jednolitej i obiektywnej oceny wiedzy i kwalifikacji aplikantów;”,
-    - **b)** pkt 4 otrzymuje brzmienie: „4) wysokość wynagrodzenia aplikanta aplikacji sędziowskiej, mając na uwadze zakres powierzonych obowiązków i warunki odbywania aplikacji;”,
-    - **c)** po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) po zasięgnięciu opinii Prokuratora Generalnego, wysokość wynagrodzenia aplikanta aplikacji prokuratorskiej, mając na uwadze zakres powierzonych obowiązków i warunki odbywania aplikacji;”;
+- **1)** szczegółowe warunki i tryb przeprowadzania naboru dla kandydatów na aplikację sędziowską i aplikację prokuratorską, a także tryb powoływania i działania zespołu konkursowego i komisji konkursowej, mając na względzie konieczność określenia zakresu wiedzy podlegającej sprawdzeniu w trakcie konkursu, zapewnienia sprawnego i obiektywnego przeprowadzenia naboru oraz dokonania wyboru najlepszych kandydatów;
+- **2)** organizację, szczegółowe warunki i tryb odbywania aplikacji sędziowskiej oraz aplikacji prokuratorskiej, sposób i tryb przeprowadzenia kolokwium sprawdzającego, o którym mowa w art. 30 ust. 5, jak również sposób ustalania systemu punktowego oceny sprawdzianów i ich poprawiania oraz systemu punktowego oceny praktyk, objętych programem aplikacji, mając na względzie zakres wiedzy teoretycznej i praktycznej niezbędnej do zajmowania stanowiska odpowiednio sędziego, asesora prokuratury i prokuratora oraz konieczność jednolitej i obiektywnej oceny wiedzy i kwalifikacji aplikantów; ” , pkt 4 otrzymuje brzmienie: „
+    - **b)**
 
-- **17)** po art. 53 dodaje się art. 53a–53c w brzmieniu: „Art. 53a. 1. Dyrektor Krajowej Szkoły przedstawia do zaopiniowania Radzie kandydatów na wykładowców Krajowej Szkoły.
+- **4)** wysokość wynagrodzenia aplikanta aplikacji sędziowskiej, mając na uwadze zakres powierzonych obowiązków i warunki odbywania aplikacji; ” , po pkt 4 dodaje się pkt 4a w brzmieniu: „
+    - **c)**
+
+- **4a)** po zasięgnięciu opinii Prokuratora Generalnego, wysokość wynagrodzenia aplikanta aplikacji prokuratorskiej, mając na uwadze zakres powierzonych obowiązków i warunki odbywania aplikacji; ” ;
+- **17)** po art. 53 dodaje się art. 53a-53c w brzmieniu: „
+
+**Art. 53a.**
+
+1. Dyrektor Krajowej Szkoły przedstawia do zaopiniowania Radzie kandydatów na wykładowców Krajowej Szkoły.
 
 2. Kandydatów na wykładowców Krajowej Szkoły po pozytywnym zaopiniowaniu przez Radę Dyrektor Krajowej Szkoły przedstawia Ministrowi Sprawiedliwości i Prokuratorowi Generalnemu.
 
-**Art. 53b.**
-
 1. Minister Sprawiedliwości może zgłosić sprzeciw wobec kandydatów na wykładowców Krajowej Szkoły niebędących prokuratorami lub prokuratorami w stanie spoczynku w terminie 14 dni od dnia przedstawienia mu kandydatów. Sprzeciw jest wiążący.
 
-2. Prokurator Generalny może zgłosić sprzeciw wobec kandydatów na wykładowców Krajowej Szkoły będących prokuratorami lub prokuratorami w stanie spoczynku w terminie 14 dni od dnia przedstawienia mu kandydatów. Sprzeciw jest wiążący.
+2. Prokurator Generalny może zgłosić sprzeciw wobec kandydatów na wykładowców Krajowej Szkoły będących prokuratorami lub prokuratorami w stanie spoczynku w terminie 14 dni od dnia przedstawienia mu kandydatów. Sprzeciw jest wiążący. Dyrektor Krajowej Szkoły może powierzyć prowadzenie zajęć kandydatom na wykładowców, wobec których nie zgłoszono sprzeciwu. ” ;
 
-**Art. 53c.** Dyrektor Krajowej Szkoły może powierzyć prowadzenie zajęć kandydatom na wykładowców, wobec których nie zgłoszono sprzeciwu.”;
+- **18)** w art. 54 ust. 2 otrzymuje brzmienie: „
 
-**Art. 2.** W ustawie z dnia 20 czerwca 1985 r. o prokuraturze (Dz. U. z 2011 r. Nr 270, poz. 1599, ze zm. ) wprowadza się następujące zmiany:
+2. Do pracowników Krajowej Szkoły stosuje się odpowiednio przepisy art. 9–11, art. 12–12c i art. 14a ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. z 2011 r. Nr 109, poz. 639, z późn. zm.) oraz art. 10, art. 17 ust. 1–3, art. 22, art. 23, art. 26–28 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2013 r. poz. 269 oraz z 2014 r. poz. 1199). Do pracowników administracyjnych stosuje się odpowiednio także art. 17 ust. 4 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych. ” ;
 
-**Art. 100d.**
+- **19)** art. 56 ust. 1 otrzymuje brzmienie: „
 
-1. Aplikant prokuratorski uprawniony jest do wykonywania czynności, o których mowa w art. 100a ust. 2 i 3.
+1. Dyrektor Krajowej Szkoły przetwarza dane osobowe aplikantów, kandydatów na aplikantów, wykładowców oraz kandydatów na wykładowców Krajowej Szkoły, a także osób objętych szkoleniem lub doskonaleniem zawodowym prowadzonym przez Krajową Szkołę, w zakresie niezbędnym do realizacji zadań Krajowej Szkoły. ” . W ustawie z dnia 20 czerwca 1985 r. o prokuraturze (Dz. U. z 2011 r. Nr 270, poz. 1599, ze zm.) wprowadza się następujące zmiany:
 
-2. Aplikant prokuratorski po zaliczeniu kolokwium sprawdzającego, o którym mowa w art. 30 ust. 5 ustawy z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury (Dz. U. z 2012 r. poz. 1230, z 2014 r. poz. 1071 oraz z 2015 r. poz. 694), może występować przed sądem rejonowym, w tym w charakterze oskarżyciela publicznego w sprawach, w których postępowanie przygotowawcze zakończyło się w formie dochodzenia.
+- **1)** w art. 24 w pkt 22 kropkę zastępuje się średnikiem i dodaje się pkt 23 w brzmieniu: „
+- **23)** opiniuje programy szkolenia w ramach aplikacji prokuratorskiej, zakres i sposób przeprowadzania konkursów na aplikację prokuratorską oraz egzaminów prokuratorskich. ” ;
+- **2)** w art. 100a: ust. 1 otrzymuje brzmienie: „
+    - **a)**
 
-**Art. 100e.** Do aplikanta prokuratorskiego, w zakresie nieuregulowanym w ustawie z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury, stosuje się odpowiednio przepisy niniejszej ustawy.”.
+1. W powszechnych jednostkach organizacyjnych prokuratury mogą być zatrudnieni asystenci prokuratorów i starsi asystenci prokuratorów. Ilekroć w przepisach jest mowa o asystentach prokuratorów, rozumie się przez to także starszych asystentów prokuratorów. ” , ust. 5 otrzymuje brzmienie: „
 
-**Art. 3.** W ustawie z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. z 2011 r. Nr 109, poz. 639, z późn. zm. ) w art. 3 ust. 3 otrzymuje brzmienie: „3. Od odbycia stażu urzędniczego zwolnione są osoby, które ukończyły aplikację sędziowską lub prokuratorską.”.
+- **b)**
 
-**Art. 4.** W ustawie z dnia 11 kwietnia 2001 r. o rzecznikach patentowych (Dz. U. z 2011 r. Nr 155, poz. 925, z późn. zm. ) w art. 23a w ust. 1 pkt 2 otrzymuje brzmienie: „2) sprawowania urzędu sędziego, wykonywania zawodu notariusza, komornika, zajmowania stanowiska prokuratora, asesora prokuratorskiego lub notarialnego, albo odbywania aplikacji sędziowskiej, prokuratorskiej, notarialnej lub komorniczej, oraz w razie podjęcia pracy w organach wymiaru sprawiedliwości lub w organach ścigania.”.
+5. Na stanowisku asystenta prokuratora może być zatrudniony ten, kto:
+
+- **1)** posiada obywatelstwo polskie i korzysta z pełni praw cywilnych i obywatelskich;
+- **2)** jest nieskazitelnego charakteru;
+- **3)** ukończył wyższe studia prawnicze w Rzeczypospolitej Polskiej i uzyskał tytuł zawodowy magistra lub zagraniczne studia prawnicze uznane w Rzeczypospolitej Polskiej;
+- **4)** ukończył 24 lata. ” , po ust. 6 dodaje się ust. 6a w brzmieniu: „
+    - **c)**
+
+6a. Na stanowisku starszego asystenta prokuratora może być zatrudniony:
+
+- **1)** asystent, który zajmował stanowisko asystenta prokuratora przez co najmniej dziesięć lat, i nie był karany za przewinienia dyscyplinarne oraz uzyskiwał pozytywne okresowe oceny, albo
+- **2)** osoba, która złożyła egzamin prokuratorski lub egzamin sędziowski. ” , ust. 11 otrzymuje brzmienie: „
+    - **d)**
+
+11. Asystent prokuratora po przepracowaniu pięciu lat na tym stanowisku może przystąpić do egzaminu prokuratorskiego. Asystent prokuratora, który złożył egzamin notarialny, adwokacki lub radcowski, może przystąpić do egzaminu prokuratorskiego po przepracowaniu czterech lat na stanowisku asystenta prokuratorskiego. Wniosek o dopuszczenie do egzaminu prokuratorskiego asystent prokuratora zgłasza Dyrektorowi Krajowej Szkoły Sądownictwa i Prokuratury na trzy miesiące przed terminem egzaminu, uiszczając wymaganą opłatę. ” , po ust. 11 dodaje się ust. 11a w brzmieniu: „
+
+- **e)**
+
+11a. W przypadku złożenia przez asystenta prokuratora, nie później niż czternaście dni przed terminem egzaminu prokuratorskiego, pisemnego oświadczenia o odstąpieniu od udziału w egzaminie, Dyrektor Krajowej Szkoły Sądownictwa i Prokuratury, na wniosek kandydata, zwraca 2/3 uiszczonej opłaty. ” ;
+
+- **3)** po art. 100a dodaje się art. 100aa w brzmieniu: „ Art. 100aa.
+
+1. Osoby podejmujące po raz pierwszy pracę asystenta prokuratora odbywają staż asystencki w powszechnej jednostce organizacyjnej prokuratury, w której są zatrudniani. Staż trwa sześć miesięcy.
+
+2. Do czasu ukończenia stażu asystenta prokuratora zatrudnia się na podstawie umowy o pracę na czas określony, z możliwością jej wcześniejszego rozwiązania za dwutygodniowym wypowiedzeniem.
+
+3. Z obowiązku odbycia stażu są zwolnione osoby, które zdały egzamin sędziowski, prokuratorski, notarialny, adwokacki lub radcowski. ” ;
+
+- **4)** po rozdziale 5a dodaje się rozdział 5b w brzmieniu: „
+
+#### Rozdział 5b Aplikanci prokuratorscy
+
+**Art. 4.** W ustawie z dnia 11 kwietnia 2001 r. o rzecznikach patentowych (Dz. U. z 2011 r. Nr 155, poz. 925, z późn. zm.) w art. 23a w ust. 1 pkt 2 otrzymuje brzmienie: „
+
+- **2)** sprawowania urzędu sędziego, wykonywania zawodu notariusza, komornika, zajmowania stanowiska prokuratora, asesora prokuratorskiego lub notarialnego, albo odbywania aplikacji sędziowskiej, prokuratorskiej, notarialnej lub komorniczej, oraz w razie podjęcia pracy w organach wymiaru sprawiedliwości lub w organach ścigania. ” .
 
 **Art. 5.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r. poz. 133 i 509) wprowadza się następujące zmiany:
 
-**Art. 6.** W ustawie z dnia 12 maja 2011 r. o Krajowej Radzie Sądownictwa (Dz. U. Nr 126, poz. 714 i Nr 203, poz. 1192 oraz z 2014 r. poz. 512) w art. 3 w ust. 1 pkt 7 otrzymuje brzmienie: „7) opiniowanie programów szkolenia w ramach aplikacji sędziowskiej, zakresu i sposobu przeprowadzania konkursów na aplikację sędziowską oraz egzaminów sędziowskich;”.
+- **1)** w art. 22 dodaje się § 1b w brzmieniu: „
 
-**Art. 7.** W ustawie z dnia 11 lipca 2014 r. o zmianie ustawy o Krajowej Szkole Sądownictwa i Prokuratury oraz ustawy – Prawo o ustroju sądów powszechnych (Dz. U. poz. 1071) po art. 3 dodaje się art. 3a–3c w brzmieniu: „Art. 3a. 1. Dyrektor Krajowej Szkoły Sądownictwa i Prokuratury, najpóźniej na 30 dni przed rozpoczęciem stażu na stanowisku referendarza sądowego, zwanego dalej „stażem”, w uzgodnieniu z patronem koordynatorem, wyznacza aplikantowi, o którym mowa w art. 3, który zdał egzamin sędziowski, patrona stażu. 2. Patron stażu sprawuje jednocześnie patronat nad jednym aplikantem. 3. Patron stażu zapoznaje aplikanta z czynnościami należącymi do zakresu jego obowiązków w trakcie stażu i kontroluje prawidłowość wykonanych przez aplikanta czynności, a niezwłocznie po zakończeniu stażu przedstawia patronowi koordynatorowi pisemną opinię wraz z oceną przebiegu stażu. 4. Wyznaczenie patrona stażu, dokonane na podstawie przepisów dotychczasowych zachowuje moc.
+§ 1b. Prezes sądu okręgowego jest zwierzchnikiem służbowym aplikantów aplikacji sędziowskiej zatrudnionych w danym sądzie. ” ;
 
-**Art. 3b.** Patron stażu, wyznaczony aplikantowi odbywającemu aplikację sędziowską, otrzymuje wynagrodzenie w wysokości 10% podstawy ustalenia wynagrodzenia zasadniczego sędziego i prokuratora, za każdy miesiąc sprawowania patronatu. Jeżeli patron sprawuje patronat przez okres krótszy niż 30 dni, wynagrodzenie ulega proporcjonalnemu obniżeniu.
+- **2)** w art. 31a w § 1 pkt 3 i 4 otrzymują brzmienie: „
+- **3)** jest zwierzchnikiem służbowym i dokonuje czynności z zakresu prawa pracy oraz reprezentuje sąd w tym zakresie wobec pracowników sądu, z wyłączeniem sędziów, referendarzy sądowych, kuratorów zawodowych, asystentów sędziów oraz aplikantów aplikacji sędziowskiej;
+- **4)** określa, w porozumieniu z prezesem sądu, rozmieszczenie i liczbę w wydziałach sądu poszczególnych stanowisk, na których są zatrudniani pracownicy sądu, z wyłączeniem sędziów, referendarzy sądowych, asystentów sędziów oraz aplikantów aplikacji sędziowskiej; ” ;
+- **3)** w art. 61: w § 1 pkt 7 otrzymuje brzmienie: „
+    - **a)**
 
-**Art. 3c.** Odbycie stażu, o którym mowa w art. 31 ust. 2 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, uznaje się za spełnienie wymogu świadczenia pracy przez okres co najmniej 18 miesięcy na stanowisku referendarza sądowego, o którym mowa w art. 61 § 1 pkt 7 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą.”.
+- **7)** ukończył aplikację sędziowską w Krajowej Szkole Sądownictwa i Prokuratury i był zatrudniony przez okres co najmniej dwóch lat na stanowisku referendarza sądowego lub asystenta sędziego w pełnym wymiarze czasu pracy albo pracował w charakterze asesora prokuratorskiego – co najmniej przez trzy lata przed wystąpieniem o powołanie na stanowisko sędziego. ” , § 3 otrzymuje brzmienie: „
+    - **b)**
+
+§ 3. Na stanowisko sędziego sądu rejonowego może być powołany ten, kto spełnia wymagania określone w § 1 pkt 1–6, ukończył aplikację notarialną, adwokacką lub radcowską i złożył odpowiedni egzamin, oraz przez okres co najmniej pięciu lat był zatrudniony na stanowisku referendarza sądowego w pełnym wymiarze czasu pracy. ” , w § 4 pkt 1 otrzymuje brzmienie: „
+
+- **c)**
+- **1)** ukończył aplikację notarialną, adwokacką lub radcowską i złożył odpowiedni egzamin, oraz przez okres co najmniej pięciu lat był zatrudniony na stanowisku asystenta sędziego w pełnym wymiarze czasu pracy albo ” ;
+- **4)** w art. 147 § 4 otrzymuje brzmienie: „
+
+§ 4. W sądach mogą być zatrudniani asystenci sędziów i starsi asystenci sędziów. Ilekroć w przepisach jest mowa o asystentach sędziów, rozumie się przez to także starszych asystentów sędziów. ” ;
+
+- **5)** w art. 149 w § 1 pkt 5 otrzymuje brzmienie: „
+- **5)** zdał egzamin sędziowski, prokuratorski, notarialny, adwokacki lub radcowski. ” ;
+- **6)** art. 151c otrzymuje brzmienie: „
+
+**Art. 151c.**
+
+§ 1. Referendarz może przystąpić do egzaminu sędziowskiego po przepracowaniu trzech lat na stanowisku referendarza lub asystenta sędziego. Wniosek o dopuszczenie do egzaminu sędziowskiego referendarz zgłasza Dyrektorowi Krajowej Szkoły Sądownictwa i Prokuratury na trzy miesiące przed terminem egzaminu, uiszczając wymaganą opłatę.
+
+§ 2. W przypadku złożenia przez referendarza, nie później niż 14 dni przed terminem egzaminu sędziowskiego, pisemnego oświadczenia o odstąpieniu od udziału w egzaminie, Dyrektor Krajowej Szkoły Sądownictwa i Prokuratury zwraca 2/3 uiszczonej opłaty. ” ;
+
+- **7)** w art. 155: dodaje się § 3b w brzmieniu: „
+    - **a)**
+
+§ 3b. Na stanowisku starszego asystenta sędziego może być zatrudniony:
+
+- **1)** asystent, który zajmował stanowisko asystenta sędziego przez co najmniej dziesięć lat, i nie był karany za przewinienia dyscyplinarne oraz uzyskiwał pozytywne okresowe oceny, albo
+- **2)** osoba, która złożyła egzamin sędziowski lub egzamin prokuratorski. ” , § 7 otrzymuje brzmienie: „
+    - **b)**
+
+§ 7. Asystent sędziego po przepracowaniu pięciu lat na tym stanowisku może przystąpić do egzaminu sędziowskiego. Asystent sędziego, który złożył egzamin notarialny, adwokacki lub radcowski może przystąpić do egzaminu sędziowskiego po przepracowaniu czterech lat na stanowisku asystenta sędziego lub referendarza sądowego. Wniosek o dopuszczenie do egzaminu sędziowskiego asystent sędziego zgłasza Dyrektorowi Krajowej Szkoły Sądownictwa i Prokuratury na trzy miesiące przed terminem egzaminu, uiszczając wymaganą opłatę. ” , po § 7 dodaje się § 7a w brzmieniu: „
+
+- **c)**
+
+§ 7a. W przypadku złożenia przez asystenta sędziego, nie później niż 14 dni przed terminem egzaminu sędziowskiego, pisemnego oświadczenia o odstąpieniu od udziału w egzaminie, Dyrektor Krajowej Szkoły Sądownictwa i Prokuratury zwraca 2/3 uiszczonej opłaty. ” ;
+
+- **8)** uchyla się art. 155c;
+- **9)** w art. 155ca § 3 otrzymuje brzmienie: „
+
+§ 3. Z obowiązku odbycia stażu asystenckiego są zwolnione osoby, które zdały egzamin sędziowski, prokuratorski, notarialny, adwokacki lub radcowski. ” .
+
+**Art. 6.** W ustawie z dnia 12 maja 2011 r. o Krajowej Radzie Sądownictwa (Dz. U. Nr 126, poz. 714 i Nr 203, poz. 1192 oraz z 2014 r. poz. 512) w art. 3 w ust. 1 pkt 7 otrzymuje brzmienie: „
+
+- **7)** opiniowanie programów szkolenia w ramach aplikacji sędziowskiej, zakresu i sposobu przeprowadzania konkursów na aplikację sędziowską oraz egzaminów sędziowskich; ” .
+
+**Art. 7.** W ustawie z dnia 11 lipca 2014 r. o zmianie ustawy o Krajowej Szkole Sądownictwa i Prokuratury oraz ustawy – Prawo o ustroju sądów powszechnych (Dz. U. poz. 1071) po art. 3 dodaje się art. 3a-3c w brzmieniu: „ 1. Dyrektor Krajowej Szkoły Sądownictwa i Prokuratury, najpóźniej na 30 dni przed rozpoczęciem stażu na stanowisku referendarza sądowego, zwanego dalej „stażem”, w uzgodnieniu z patronem koordynatorem, wyznacza aplikantowi, o którym mowa w art. 3, który zdał egzamin sędziowski, patrona stażu. 2. Patron stażu sprawuje jednocześnie patronat nad jednym aplikantem. 3. Patron stażu zapoznaje aplikanta z czynnościami należącymi do zakresu jego obowiązków w trakcie stażu i kontroluje prawidłowość wykonanych przez aplikanta czynności, a niezwłocznie po zakończeniu stażu przedstawia patronowi koordynatorowi pisemną opinię wraz z oceną przebiegu stażu. 4. Wyznaczenie patrona stażu, dokonane na podstawie przepisów dotychczasowych zachowuje moc. Patron stażu, wyznaczony aplikantowi odbywającemu aplikację sędziowską, otrzymuje wynagrodzenie w wysokości 10% podstawy ustalenia wynagrodzenia zasadniczego sędziego i prokuratora, za każdy miesiąc sprawowania patronatu. Jeżeli patron sprawuje patronat przez okres krótszy niż 30 dni, wynagrodzenie ulega proporcjonalnemu obniżeniu. Odbycie stażu, o którym mowa w art. 31 ust. 2 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, uznaje się za spełnienie wymogu świadczenia pracy przez okres co najmniej 18 miesięcy na stanowisku referendarza sądowego, o którym mowa w art. 61 § 1 pkt 7 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą. ” .
 
 **Art. 8.**
 
 1. Aplikacja ogólna, aplikacja sędziowska i aplikacja prokuratorska prowadzone przez Krajową Szkołę Sądownictwa i Prokuratury, rozpoczęte przed dniem wejścia w życie niniejszej ustawy odbywają się na podstawie przepisów dotychczasowych.
 
-2. Do aplikacji ogólnej rozpoczynającej się w latach 2016 i 2017 oraz aplikacji sędziowskiej i aplikacji prokuratorskiej, o których mowa w art. 19 ust. 2, stosuje się ust. 1.
+2. Do aplikacji ogólnej rozpoczynającej się w 2016 r. oraz aplikacji sędziowskiej i aplikacji prokuratorskiej, o których mowa w art. 19 ust. 2, stosuje się ust. 1.
 
 **Art. 9.**
 
@@ -422,13 +608,11 @@ source: "isap-pdf"
 
 **Art. 10.**
 
-1. Aplikant aplikacji sędziowskiej oraz aplikant aplikacji prokuratorskiej, który odbywał aplikację na podstawie przepisów ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, wobec którego została wydana decyzja o zawieszeniu w prawach i obowiązkach aplikanta, po uchyleniu tej decyzji kontynuuje aplikację na warunkach wyznaczonych przez Dyrektora Krajowej Szkoły Sądownictwa i Prokuratury, jednak nie dłużej niż do ukończenia odpowiednio aplikacji sędziowskiej albo aplikacji prokuratorskiej, rozpoczętej w roku 2018.
+1. Aplikant aplikacji sędziowskiej oraz aplikant aplikacji prokuratorskiej, który odbywał aplikację na podstawie przepisów ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, wobec którego została wydana decyzja o zawieszeniu w prawach i obowiązkach aplikanta, po uchyleniu tej decyzji kontynuuje aplikację na warunkach wyznaczonych przez Dyrektora Krajowej Szkoły Sądownictwa i Prokuratury, jednak nie dłużej niż do ukończenia odpowiednio aplikacji sędziowskiej albo aplikacji prokuratorskiej, rozpoczętej w roku 2017.
 
 2. Jeżeli zachowanie terminu, o którym mowa w ust. 1, nie jest możliwe, aplikant kontynuuje aplikację w ramach odpowiednio aplikacji sędziowskiej albo aplikacji prokuratorskiej, prowadzonej na podstawie przepisów ustawy zmienianej w art. 1, w brzmieniu obowiązującym od dnia wejścia w życie niniejszej ustawy, na warunkach wyznaczonych przez Dyrektora Krajowej Szkoły Sądownictwa i Prokuratury.
 
 3. W przypadku określonym w ust. 2 właściwy organ, o którym mowa w art. 29 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, przydziela etaty aplikanckie w ilości odpowiadającej liczbie aplikantów kontynuujących aplikację.
-
-**Art. 10a.** Aplikant aplikacji prokuratorskiej, odbywający aplikację na podstawie przepisów ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, uprawniony jest do wykonywania czynności, o których mowa w art. 175 § 2 i 3 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. poz. 177) oraz może występować przed sądem rejonowym, w tym w charakterze oskarżyciela publicznego w sprawach, w których postępowanie przygotowawcze zakończyło się w formie dochodzenia.
 
 **Art. 11.** Osoby zatrudnione na stanowisku asystenta prokuratora albo asystenta sędziego, które ukończyły aplikację ogólną prowadzoną przez Krajową Szkołę Sądownictwa i Prokuratury, zwaną dalej „aplikacją ogólną”, są zwolnione z obowiązku odbycia stażu asystenckiego, o którym mowa w art. 100aa ust. 1 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, oraz art. 155ca § 1 ustawy zmienianej w art. 5.
 
@@ -436,45 +620,5 @@ source: "isap-pdf"
 
 **Art. 13.** Osoby, które ukończyły aplikację ogólną, są zwolnione z obowiązku odbycia stażu urzędniczego, o którym mowa w art. 2 pkt 7 ustawy zmienianej w art. 3.
 
-**Art. 14.** Osoby, które złożyły egzamin sędziowski na podstawie przepisów dotychczasowych, mogą być zatrudnione na stanowisku starszego asystenta sędziego.
-
-**Art. 15.**
-
-1. (uchylony)
-
-2. (uchylony)
-
-3. Na stanowisko referendarza sądowego może być mianowany ten, kto spełnia wymagania określone w art. 149 § 1 pkt 1–4 ustawy zmienianej w art. 5, i ukończył aplikację ogólną.
-
-4. (uchylony)
-
-**Art. 16.** Do aplikantów, którzy rozpoczęli aplikację sędziowską w roku 2015, oraz osób, o których mowa w art. 19 ust. 3, stosuje się art. 61 § 1 pkt 7 ustawy zmienianej w art. 5, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy.
-
-**Art. 17.**
-
-1. Do aplikantów aplikacji sędziowskiej oraz aplikacji prokuratorskiej, o których mowa w art. 8, stosuje się art. 44 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy.
-
-2. Do aplikantów aplikacji sędziowskiej i aplikacji prokuratorskiej, o których mowa w art. 8, oraz osób, które odbyły aplikację ogólną na podstawie przepisów dotychczasowych, stosuje się art. 46 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy.
-
-**Art. 18.** Konkursy na aplikację ogólną w latach 2015 i 2016 odbywają się na podstawie przepisów dotychczasowych.
-
-**Art. 19.**
-
-1. Osoby uprawnione, o których mowa w art. 27 ust. 1 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, mogą złożyć wniosek o umieszczenie na liście klasyfikacyjnej aplikantów, o której mowa w art. 26 ust. 2 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, nie później jednak niż do dnia zakończenia aplikacji ogólnej rozpoczętej w roku 2017.
-
-2. Do sporządzania list klasyfikacyjnych aplikantów, którzy ukończyli aplikację ogólną, oraz do składania wniosków o kontynuowanie szkolenia na aplikacji sędziowskiej lub aplikacji prokuratorskiej w latach 2016–2018, stosuje się przepisy dotychczasowe.
-
-3. Kandydaci przyjęci na aplikację sędziowską albo aplikację prokuratorską w latach 2016–2018 na podstawie art. 29 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, odbywają aplikację sędziowską albo aplikację prokuratorską na podstawie przepisów dotychczasowych.
-
-**Art. 20.**
-
-1. W przypadku uwzględnienia skargi, o której mowa w art. 23 ust. 3 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, po rozpoczęciu aplikacji ogólnej w roku 2017, Dyrektor Krajowej Szkoły Sądownictwa i Prokuratury wydaje decyzję o przyjęciu na aplikację sędziowską albo aplikację prokuratorską, prowadzoną na podstawie ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, której cykl szkoleniowy rozpoczyna się po dniu wydania decyzji.
-
-2. W przypadku konieczności wydania decyzji o przyjęciu na aplikację sędziowską albo aplikację prokuratorską na skutek uwzględnienia skargi, o której mowa w art. 29 ust. 5 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, po rozpoczęciu w roku 2018 odpowiednio aplikacji sędziowskiej albo aplikacji prokuratorskiej, prowadzonej na podstawie przepisów obowiązujących przed dniem wejścia w życie niniejszej ustawy, wydaje się decyzję o przyjęciu odpowiednio na aplikację sędziowską albo aplikację prokuratorską, prowadzoną na podstawie ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, której cykl szkoleniowy rozpoczyna się po dniu wydania decyzji.
-
-3. W przypadkach, o których mowa w ust. 1 i 2, kolejność umieszczenia na liście kwalifikacyjnej w celu ustalenia prawa wyboru etatu aplikanckiego, o którym mowa w art. 29 ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, ustala się w oparciu o stosunek punktów uzyskanych przez daną osobę z obu etapów konkursu, o którym mowa w art. 17 ust. 1 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, do całkowitej liczby punktów możliwych do uzyskania w tym konkursie, oraz stosunek liczby punktów, uzyskanych przez pozostałych aplikantów umieszczanych na liście kwalifikacyjnej z obu etapów konkursu, o którym mowa w art. 18 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, do całkowitej liczby punktów możliwych do uzyskania w tym konkursie. Przepis art. 29 ust. 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się.
-
-**Art. 21.** Kadencja członków Rady Programowej Krajowej Szkoły Sądownictwa i Prokuratury trwa do końca okresu, na który zostali wybrani. Prokurator Generalny wskazuje trzech członków Rady Programowej Krajowej Szkoły Sądownictwa i Prokuratury, którzy dołączają do jej obecnego składu. Kadencja członków wskazanych przez Prokuratora Generalnego upływa wraz z kadencją pozostałych członków Rady Programowej Krajowej Szkoły Sądownictwa i Prokuratury.
-
-**Art. 22.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 7, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
+**Art. 14.** Osoby, które złożyły egzamin sędziowski na podstawie przepisów dotychczasowych, mogą być zatrudnione na stanowisku starszego asystenta sędziego. 1. Na stanowisko sędziego sądu rejonowego może być powołany ten, kto spełnia wymagania określone w art. 61 § 1 pkt 1–6 ustawy zmienianej w art. 5, ukończył aplikację ogólną oraz przez okres co najmniej pięciu lat był zatrudniony na stanowisku referendarza sądowego w pełnym wymiarze czasu pracy. W przypadku zatrudnienia w niepełnym wymiarze czasu pracy, okres wymaganego zatrudnienia podlega proporcjonalnemu wydłużeniu. 2. Na stanowisko sędziego sądu rejonowego może być powołany ten, kto spełnia wymagania określone w art. 61 § 1 pkt 1–6 ustawy zmienianej w art. 5, ukończył aplikację ogólną oraz przez okres co najmniej pięciu lat był zatrudniony na stanowisku asystenta sędziego w pełnym wymiarze czasu pracy. W przypadku zatrudnienia w niepełnym wymiarze czasu pracy, okres wymaganego zatrudnienia podlega proporcjonalnemu wydłużeniu. 3. Na stanowisko referendarza sądowego może być mianowany ten, kto spełnia wymagania określone w art. 149 § 1 pkt 1–4 ustawy zmienianej w art. 5, i ukończył aplikację ogólną. 4. Asystent sędziego, który ukończył aplikację ogólną, może przystąpić do egzaminu sędziowskiego, o którym mowa w art. 61 § 1 pkt 6 ustawy zmienianej w art. 5, po przepracowaniu czterech lat na stanowisku asystenta sędziego lub referendarza sądowego. Wniosek o dopuszczenie do egzaminu sędziowskiego asystent sędziego zgłasza Dyrektorowi Krajowej Szkoły Sądownictwa i Prokuratury na trzy miesiące przed terminem egzaminu, uiszczając wymaganą opłatę. Do aplikantów, którzy rozpoczęli aplikację sędziowską w roku 2015, oraz osób, o których mowa w art. 19 ust. 3, stosuje się art. 61 § 1 pkt 7 ustawy zmienianej w art. 5, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy. 1. Do aplikantów aplikacji sędziowskiej oraz aplikacji prokuratorskiej, o których mowa w art. 8, stosuje się art. 44 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy. 2. Do aplikantów aplikacji sędziowskiej i aplikacji prokuratorskiej, o których mowa w art. 8, oraz osób, które odbyły aplikację ogólną na podstawie przepisów dotychczasowych, stosuje się art. 46 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy. Konkurs na aplikację ogólną w roku 2015 odbywa się na podstawie przepisów dotychczasowych. 1. Osoby uprawnione, o których mowa w art. 27 ust. 1 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, mogą złożyć wniosek o umieszczenie na liście klasyfikacyjnej aplikantów, o której mowa w art. 26 ust. 2 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, nie później jednak niż do dnia zakończenia aplikacji ogólnej rozpoczętej w roku 2016. 2. Do sporządzania list klasyfikacyjnych aplikantów, którzy ukończyli aplikację ogólną, oraz do składania wniosków o kontynuowanie szkolenia na aplikacji sędziowskiej lub aplikacji prokuratorskiej w latach 2016 i 2017, stosuje się przepisy dotychczasowe. 3. Kandydaci przyjęci na aplikację sędziowską albo aplikację prokuratorską w latach 2016 i 2017 na podstawie art. 29 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, odbywają aplikację sędziowską albo aplikację prokuratorską na podstawie przepisów dotychczasowych. 1. W przypadku uwzględnienia skargi, o której mowa w art. 23 ust. 3 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, po rozpoczęciu aplikacji ogólnej w roku 2016, Dyrektor Krajowej Szkoły Sądownictwa i Prokuratury wydaje decyzję o przyjęciu na aplikację sędziowską albo aplikację prokuratorską, prowadzoną na podstawie ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, której cykl szkoleniowy rozpoczyna się po dniu wydania decyzji. 2. W przypadku konieczności wydania decyzji o przyjęciu na aplikację sędziowską albo aplikację prokuratorską na skutek uwzględnienia skargi, o której mowa w art. 29 ust. 5 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, po rozpoczęciu w roku 2017 odpowiednio aplikacji sędziowskiej albo aplikacji prokuratorskiej, prowadzonej na podstawie przepisów obowiązujących przed dniem wejścia w życie niniejszej ustawy, wydaje się decyzję o przyjęciu odpowiednio na aplikację sędziowską albo aplikację prokuratorską, prowadzoną na podstawie ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, której cykl szkoleniowy rozpoczyna się po dniu wydania decyzji. 3. W przypadkach, o których mowa w ust. 1 i 2, kolejność umieszczenia na liście kwalifikacyjnej w celu ustalenia prawa wyboru etatu aplikanckiego, o którym mowa w art. 29 ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, ustala się w oparciu o stosunek punktów uzyskanych przez daną osobę z obu etapów konkursu, o którym mowa w art. 17 ust. 1 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, do całkowitej liczby punktów możliwych do uzyskania w tym konkursie, oraz stosunek liczby punktów, uzyskanych przez pozostałych aplikantów umieszczanych na liście kwalifikacyjnej z obu etapów konkursu, o którym mowa w art. 18 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, do całkowitej liczby punktów możliwych do uzyskania w tym konkursie. Przepis art. 29 ust. 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się. Kadencja członków Rady Programowej Krajowej Szkoły Sądownictwa i Prokuratury trwa do końca okresu, na który zostali wybrani. Prokurator Generalny wskazuje trzech członków Rady Programowej Krajowej Szkoły Sądownictwa i Prokuratury, którzy dołączają do jej obecnego składu. Kadencja członków wskazanych przez Prokuratora Generalnego upływa wraz z kadencją pozostałych członków Rady Programowej Krajowej Szkoły Sądownictwa i Prokuratury. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 7, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

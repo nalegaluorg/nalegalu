@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o środkach ochrony roślin
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 22 kwietnia 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 maja 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-05-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000624) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/624/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 22 kwietnia 2026 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o środkach ochrony roślin
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. z 2024 r. poz. 630), z uwzględnieniem stanu prawnego na dzień 21 kwietnia 2026 r. oraz zmian wprowadzonych:
 1) ustawą z dnia 25 lipca 2025 r. o zmianie niektórych ustaw celu uproszczenia procedur administracyjnych oraz wsparcia przedsiębiorczości (Dz. U. poz. 1168);
 2) ustawą z dnia 7 listopada 2025 r. o zmianie ustawy o ochronie roślin przed agrofagami oraz niektórych innych ustaw (Dz. U. poz. 1709);
@@ -36,13 +36,15 @@ source: "isap-pdf"
 
 **Art. 11.** Ustawa wchodzi życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem art. 5, który wchodzi życie z dniem 1 stycznia 2026 r.”;
 
+- **2)** art. 8–15 ustawy z dnia 7 listopada 2025 r. o zmianie ustawy o ochronie roślin przed agrofagami oraz niektórych innych ustaw (Dz. U. poz. 1709), które stanowią: „Art. 8. Do spraw objętych postępowaniami wszczętymi na podstawie art. 46 ust. 1 pkt 1 ustawy zmienianej art. 4 i niezakończonymi przed dniem wejścia życie niniejszej ustawy stosuje się przepisy art. 46 ust. 1 pkt 1 i ust. 2–5 ustawy zmienianej art. 4 brzmieniu nadanym niniejszą ustawą, z tym że przez płody rolne, o których mowa art. 46 ust. 1 ustawy zmienianej art. 4 brzmieniu dotychczasowym, rozumie się żywność lub paszę, o których mowa art. 46 ust. 1 ustawy zmienianej art. 4 brzmieniu nadanym niniejszą ustawą.
+
 **Art. 9.** Do spraw objętych postępowaniami wszczętymi na podstawie art. 66 ust. 1 ustawy zmienianej art. 4 i niezakończonymi przed dniem wejścia życie niniejszej ustawy stosuje się przepisy art. 66 ust. 1 ustawy zmienianej art. 4 brzmieniu nadanym niniejszą ustawą.
 
-**Art. 10.** Do wniosków o wydanie certyfikatu poświadczającego stosowanie integrowanej produkcji roślin złożonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy ustawy zmienianej art. 4 brzmieniu dotychczasowym.
-
-**Art. 11.** Do dnia 30 marca 2027 r. zaświadczenia, o których mowa art. 64 ust. 4 pkt 1 ustawy zmienianej art. 4, potwierdzają posiadanie uprawnień do nabycia środków ochrony roślin przeznaczonych dla użytkowników profesjonalnych innych niż środki ochrony roślin, o których mowa art. 25 ust. 3 pkt 4a ustawy zmienianej art. 4.
+**Art. 10.** Do wniosków o wydanie certyfikatu poświadczającego stosowanie integrowanej produkcji roślin złożonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy ustawy zmienianej art. 4 brzmieniu dotychczasowym. profesjonalnych innych niż środki ochrony roślin, o których mowa art. 25 ust. 3 pkt 4a ustawy zmienianej art. 4.
 
 **Art. 12.** Do spraw objętych postępowaniami wszczętymi na podstawie art. 75 ust. 1 pkt 5 ustawy zmienianej art. 4 i niezakończonymi przed dniem wejścia życie niniejszej ustawy stosuje się przepis art. 75 ust. 1 pkt 5 ustawy zmienianej art. 4 brzmieniu dotychczasowym.
+
+**Art. 13.** Do czynów określonych art. 76 ust. 1 pkt 5 lit. d ustawy zmienianej art. 4 popełnionych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
 **Art. 14.**
 
@@ -66,11 +68,57 @@ source: "isap-pdf"
 
 **Art. 15.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia z wyjątkiem art. 1 pkt 6 i 7, art. 4 i art. 5, które wchodzą życie po upływie 3 miesięcy od dnia ogłoszenia.”;
 
+- **3)** art. 2 ustawy z dnia 21 listopada 2025 r. o zmianie ustawy o środkach ochrony roślin (Dz. U. poz. 1697), który stanowi: „Art. 2. Ustawa wchodzi życie z dniem 1 stycznia 2026 r.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 8 marca 2013 r. o środkach ochrony roślin
+
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa reguluje:
 
+- **1)** zadania i właściwość organów administracji publicznej oraz jednostek organizacyjnych zakresie wykonania przepisów:
+    - **a)** rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1107/2009 z dnia 21 października 2009 r. dotyczącego wprowadzania do obrotu środków ochrony roślin i uchylającego dyrektywy Rady 79/117/EWG i 91/414/EWG (Dz. Urz. UE L 309 z 24.11.2009, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem nr 1107/2009”, oraz przepisów Unii Europejskiej wydanych na podstawie przepisów rozporządzenia nr 1107/2009, szczególności sprawach zezwoleń i pozwoleń zakresie wprowadzania środków ochrony roślin do obrotu,
+    - **b)** rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/625 z dnia 15 marca 2017 r. sprawie kontroli urzędowych i innych czynności urzędowych przeprowadzanych celu zapewnienia stosowania prawa żywnościowego i paszowego oraz zasad dotyczących zdrowia i dobrostanu zwierząt, zdrowia roślin i środków ochrony roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001, (WE) nr 396/2005, (WE) nr 1069/2009, (WE) nr 1107/2009, (UE) nr 1151/2012, (UE) nr 652/2014, (UE) 2016/429 i (UE) 2016/2031, rozporządzenia Rady (WE) nr 1/2005 i (WE) nr 1099/2009 oraz dyrektywy Rady 98/58/WE, 1999/74/WE, 2007/43/WE, 2008/119/WE i 2008/120/WE, oraz uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 854/2004 i (WE) nr 882/2004, dyrektywy Rady 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/WE, 96/93/WE i 97/78/WE oraz decyzję Rady 92/438/EWG (rozporządzenie sprawie kontroli urzędowych) (Dz. Urz. UE L 95 z 07.04.2017, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2017/625”, oraz przepisów Unii Europejskiej wydanych na podstawie rozporządzenia 2017/625, odniesieniu do obszaru, o którym mowa art. 1 ust. 2 lit. h rozporządzenia 2017/625, zakresie środków ochrony roślin;
+
+- **2)** zasady:
+    - **a)** wprowadzania środków ochrony roślin do obrotu,
+    - **b)** stosowania środków ochrony roślin,
+    - **d)** prowadzenia integrowanej produkcji roślin,
+    - **e)** prowadzenia szkoleń zakresie środków ochrony roślin,
+    - **f)** gromadzenia informacji o zatruciach środkami ochrony roślin zakresie nieokreślonym przepisach rozporządzenia nr 1107/2009 lub przepisach Unii Europejskiej wydanych na podstawie przepisów tego rozporządzenia.
+
 **Art. 2.** Użyte ustawie określenia oznaczają:
+
+- **1)** środek ochrony roślin środek ochrony roślin, o którym mowa art. 2 ust. 1 rozporządzenia nr 1107/2009;
+- **2)** substancje czynne substancje czynne, o których mowa art. 2 ust. 2 rozporządzenia nr 1107/2009;
+- **3)** sejfner sejfner, o którym mowa art. 2 ust. 3 lit. a rozporządzenia nr 1107/2009;
+- **4)** synergetyk synergetyk, o którym mowa art. 2 ust. 3 lit. b rozporządzenia nr 1107/2009;
+- **5)** składnik obojętny składnik obojętny, o którym mowa art. 2 ust. 3 lit. c rozporządzenia nr 1107/2009;
+- **5a)** adiuwant adiuwant, o którym mowa art. 2 ust. 3 lit. d rozporządzenia nr 1107/2009;
+- **6)** pozostałości środka ochrony roślin pozostałości rozumieniu art. 3 pkt 1 rozporządzenia nr 1107/2009;
+- **7)** rośliny rośliny rozumieniu art. 3 pkt 5 rozporządzenia nr 1107/2009;
+- **8)** produkty roślinne produkty roślinne rozumieniu art. 3 pkt 6 rozporządzenia nr 1107/2009;
+- **9)** organizmy szkodliwe organizmy szkodliwe rozumieniu art. 3 pkt 7 rozporządzenia nr 1107/2009;
+- **10)** wprowadzanie do obrotu wprowadzanie do obrotu rozumieniu art. 3 pkt 9 rozporządzenia nr 1107/2009;
+- **11)** zezwolenie na wprowadzanie środka ochrony roślin do obrotu zezwolenie na wprowadzanie środka ochrony roślin do obrotu rozumieniu art. 3 pkt 10 rozporządzenia nr 1107/2009;
+- **12)** producent producenta rozumieniu art. 3 pkt 11 rozporządzenia nr 1107/2009;
+- **13)** środowisko środowisko rozumieniu art. 3 pkt 13 rozporządzenia nr 1107/2009;
+- **14)** posiadacz zezwolenia na wprowadzanie środka ochrony roślin do obrotu posiadacza zezwolenia rozumieniu art. 3 pkt 24 rozporządzenia nr 1107/2009;
+- **15)** metody niechemiczne metody ochrony roślin przed organizmami szkodliwymi inne niż wykorzystujące chemiczne środki ochrony roślin, szczególności metody agrotechniczne, fizyczne, mechaniczne lub biologiczne;
+- **16)** integrowana ochrona roślin sposób ochrony roślin przed organizmami szkodliwymi polegający na wykorzystaniu wszystkich dostępnych metod ochrony roślin, szczególności metod niechemicznych, sposób minimalizujący zagrożenie dla zdrowia ludzi, zwierząt oraz dla środowiska;
+- **17)** integrowana produkcja roślin produkcję roślin, z zastosowaniem integrowanej ochrony roślin oraz z wykorzystaniem postępu technicznego i biologicznego uprawie i nawożeniu, ze szczególnym uwzględnieniem zdrowia ludzi i zwierząt oraz ochrony środowiska;
+- **18)** konfekcjonowanie pakowanie lub przepakowywanie, lub etykietowanie, lub przeetykietowywanie środka ochrony roślin;
+- **19)** ostateczny nabywca środków ochrony roślin podmiot, który nabywa środki ochrony roślin, które nie będą następnie wprowadzane do obrotu;
+- **20)** państwo trzecie państwo niebędące członkiem Unii Europejskiej;
+- **21)** sprzęt przeznaczony do stosowania środków ochrony roślin wszelkie urządzenia przeznaczone do stosowania środków ochrony roślin, tym akcesoria, które mają znaczenie dla skutecznego działania takiego sprzętu, szczególności: rozumieniu Prawa lotniczego, tym na samolotach i śmigłowcach;
+    - **a)** rozpylacze,
+    - **b)** manometry,
+    - **c)** filtry i sita,
+    - **d)** instalacje do przepłukiwania zbiornika;
+
+- **23)** sprzęt naziemny sprzęt przeznaczony do stosowania środków ochrony roślin inny niż montowany na statkach powietrznych rozumieniu Prawa lotniczego;
+- **24)** użytkownik profesjonalny osobę fizyczną, która stosuje środki ochrony roślin celach innych niż własne niezarobkowe potrzeby, szczególności ramach działalności gospodarczej lub zawodowej, tym rolnictwie i leśnictwie;
+- **25)** użytkownik nieprofesjonalny osobę fizyczną, która stosuje środki ochrony roślin, niebędącą użytkownikiem profesjonalnym;
+- **26)** podrobiony środek ochrony roślin środek ochrony roślin, z wyłączeniem środka ochrony roślin z niezamierzoną wadą jakościową, przedstawiany jako środek, który uzyskał zezwolenie na wprowadzanie do obrotu państwie członkowskim Unii Europejskiej, którego jakikolwiek składnik określony dokumentacji, o której mowa art. 33 ust. 3 lit. a lub b rozporządzenia nr 1107/2009, dotyczącej tego środka ochrony roślin, został usunięty całości lub części, dodany lub zmieniony, lub który został wytworzony przez podmiot inny niż wskazany tej dokumentacji;
+- **27)** importer osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, mającą miejsce zamieszkania albo siedzibę na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, lub na terytorium państwa trzeciego, która wprowadza środki ochrony roślin pochodzące z państw trzecich na obszar celny Unii Europejskiej.
 
 **Art. 3.**
 
@@ -218,7 +266,7 @@ source: "isap-pdf"
 
 3. Upoważniony do opracowywania oceny lub uwag określonym zakresie może być podmiot, który spełnia następujące warunki:
 
-- **1)** zapewnia, że osoby, które będą opracowywały ocenę lub uwagi: mach oceny zgodności i nadzoru rynku (Dz. U. z 2025 r. poz. 568) lub przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawiającego wymagania zakresie akredytacji i nadzoru rynku odnoszące się do warunków wprowadzania produktów do obrotu i uchylającego rozporządzenie (EWG) nr 339/93 (Dz. Urz. UE L 218 z 13.08.2008, str. 30), zwanego dalej „rozporządzeniem nr 765/2008”.
+- **1)** zapewnia, że osoby, które będą opracowywały ocenę lub uwagi: systemy zarządzania posiadającą akredytację wydaną trybie przepisów ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2025 r. poz. 568) lub przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawiającego wymagania zakresie akredytacji i nadzoru rynku odnoszące się do warunków wprowadzania produktów do obrotu i uchylającego rozporządzenie (EWG) nr 339/93 (Dz. Urz. UE L 218 z 13.08.2008, str. 30), zwanego dalej „rozporządzeniem nr 765/2008”.
     - **a)** posiadają odpowiednie kwalifikacje, tym wykształcenie oraz doświadczenie, zakresie opracowywanej oceny lub uwag, a przypadku braku doświadczenia, że będą nadzorowane przez osoby posiadające odpowiednie kwalifikacje zakresie opracowywanej oceny lub uwag,
     - **b)** nie pozostają z producentami, posiadaczami zezwoleń na wprowadzanie środka ochrony roślin do obrotu lub podmiotami posiadającymi pozwolenie na handel równoległy, takim stosunku prawnym lub faktycznym, który może budzić wątpliwości co do ich bezstronności zakresie opracowywania oceny lub uwag,
     - **c)** dają rękojmię zachowania tajemnicy wszelkich informacji, wyników badań i danych związanych z opracowaniem oceny lub uwag;
@@ -293,7 +341,7 @@ source: "isap-pdf"
 - **2)** złożył oświadczenie, o którym mowa art. 10 ust. 5 pkt 3, niezgodne ze stanem faktycznym, lub
 - **3)** uniemożliwia lub utrudnia przeprowadzenie kontroli, o której mowa ust. 2, lub
 - **4)** sposób rażący naruszył warunki, o których mowa ust. 1, lub
-- **5)** nie usunął wyznaczonym terminie uchybień, o których mowa ust. 11, lub
+- **5)** nie usunął wyznaczonym terminie uchybień, o których mowa ust. 11, lub nierzetelny, lub
 - **7)** złożył wniosek o cofnięcie tego upoważnienia minister właściwy do spraw rolnictwa cofa, drodze decyzji, upoważnienie do opracowywania oceny lub uwag.
 
 13. Podmiot, któremu cofnięto upoważnienie do opracowywania oceny lub uwag jest obowiązany do niezwłocznego zwrócenia ministrowi właściwemu do spraw rolnictwa, jednak niepóźniej niż terminie 30 dni od dnia cofnięcia upoważnienia, kopii dokumentacji umożliwiającej opracowanie oceny lub uwag.
@@ -373,7 +421,7 @@ source: "isap-pdf"
 
 - **1)** oświadczenie posiadacza zezwolenia na wprowadzanie środka ochrony roślin do obrotu o przekazaniu uprawnień i obowiązków wynikających z tego zezwolenia;
 - **2)** oświadczenie podmiotu, któremu na podstawie umowy zostały przekazane uprawnienia i obowiązki wynikające z zezwolenia na wprowadzanie środka ochrony roślin do obrotu o przejęciu tych uprawnień i obowiązków;
-- **3)** oświadczenie podmiotu, któremu na podstawie umowy zostały przekazane uprawnienia i obowiązki wynikające z zezwolenia na wprowadzanie środka ochrony roślin do obrotu, że środek ochrony roślin nadal spełnia wymagania określone tym zezwoleniu; jące z zezwolenia na wprowadzanie środka ochrony roślin do obrotu, który nie posiada numeru Krajowym Rejestrze Sądowym albo który nie podlega wpisowi do Centralnej Ewidencji i Informacji o Działalności Gospodarczej.
+- **3)** oświadczenie podmiotu, któremu na podstawie umowy zostały przekazane uprawnienia i obowiązki wynikające z zezwolenia na wprowadzanie środka ochrony roślin do obrotu, że środek ochrony roślin nadal spełnia wymagania określone tym zezwoleniu; państwie, przypadku podmiotu, któremu na podstawie umowy zostały przekazane uprawnienia i obowiązki wynikające z zezwolenia na wprowadzanie środka ochrony roślin do obrotu, który nie posiada numeru Krajowym Rejestrze Sądowym albo który nie podlega wpisowi do Centralnej Ewidencji i Informacji o Działalności Gospodarczej.
 
 5. Oświadczenia, o których mowa ust. 4 pkt 1–3, przedkłada się języku polskim.
 
@@ -507,11 +555,18 @@ source: "isap-pdf"
 
 **Art. 21.** Opakowania jednostkowe środków ochrony roślin wprowadzanych do obrotu:
 
+- **1)** są szczelnie zamknięte i nieuszkodzone;
+- **2)** są zaopatrzone etykietę:
+    - **a)** zawierającą informacje określone zezwoleniu na wprowadzanie środka ochrony roślin do obrotu lub pozwoleniu na handel równoległy,
+    - **b)** sporządzoną języku polskim;
+
+- **3)** spełniają wymagania określone zezwoleniu na wprowadzanie środka ochrony roślin do obrotu lub pozwoleniu na handel równoległy.
+
 **Art. 22.** Informacje, o których mowa art. 49 ust. 4 rozporządzenia nr 1107/2009, umieszczone na opakowaniu wprowadzanego do obrotu materiału siewnego zaprawionego środkiem ochrony roślin, sporządza się języku polskim.
 
 **Art. 23.**
 
-- **11)** Środek ochrony roślin, który został wprowadzony do obrotu przed upływem okresu ważności zezwolenia na jego wprowadzanie do obrotu lub pozwolenia na handel równoległy, może pozostawać obrocie i być unieszkodliwiany, składowany i stosowany do dnia upływu okresu ważności tego zezwolenia na wprowadzanie do obrotu albo tego pozwolenia na handel równoległy, chyba że zezwoleniu na wprowadzanie środka ochrony roślin do obrotu lub pozwoleniu na handel równoległy, lub decyzji sprawie cofnięcia tego zezwolenia na wprowadzanie do obrotu lub tego pozwolenia na handel równoległy określono inaczej. przeprowadzone przez laboratorium posiadające certyfikat Dobrej Praktyki Laboratoryjnej wydany na podstawie art. 16 ust. 4 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U. z 2022 r. poz. 1816) lub uzyskany innym państwie członkowskim Unii Europejskiej na podstawie przepisów obowiązujących tym państwie, potwierdzają jego przydatność do zastosowania zgodnie z przeznaczeniem.
+- **11)** Środek ochrony roślin, który został wprowadzony do obrotu przed upływem okresu ważności zezwolenia na jego wprowadzanie do obrotu lub pozwolenia na handel równoległy, może pozostawać obrocie i być unieszkodliwiany, składowany i stosowany do dnia upływu okresu ważności tego zezwolenia na wprowadzanie do obrotu albo tego pozwolenia na handel równoległy, chyba że zezwoleniu na wprowadzanie środka ochrony roślin do obrotu lub pozwoleniu na handel równoległy, lub decyzji sprawie cofnięcia tego zezwolenia na wprowadzanie do obrotu lub tego pozwolenia na handel równoległy określono inaczej. terminu jego ważności przez okres niedłuższy niż 12 miesięcy, jeżeli wyniki badań trwałości tego środka ochrony roślin, przeprowadzone przez laboratorium posiadające certyfikat Dobrej Praktyki Laboratoryjnej wydany na podstawie art. 16 ust. 4 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U. z 2022 r. poz. 1816) lub uzyskany innym państwie członkowskim Unii Europejskiej na podstawie przepisów obowiązujących tym państwie, potwierdzają jego przydatność do zastosowania zgodnie z przeznaczeniem.
 
 2. Badania, o których mowa ust. 1, przeprowadza się na koszt zainteresowanego podmiotu, zgodnie z przepisami wydanymi na podstawie art. 84 lit. c rozporządzenia nr 1107/2009.
 
@@ -537,7 +592,7 @@ source: "isap-pdf"
 
 3. Przedsiębiorca wykonujący działalność gospodarczą, o której mowa ust. 1, zakresie obrotu środkami ochrony roślin, jest obowiązany:
 
-- **1)** zapewnić, aby osoby dokonujące zbycia środków ochrony roślin ostatecznemu nabywcy: ochrony roślin, na jego żądanie, informacji o zagrożeniach związanych ze stosowaniem nabywanych środków ochrony roślin oraz prawidłowym i bezpiecznym ich stosowaniu;
+- **1)** zapewnić, aby osoby dokonujące zbycia środków ochrony roślin ostatecznemu nabywcy: konsultacji z osobą posiadającą kwalifikacje określone pkt 1 lit. a lub b, która będzie udzielała nabywcy środków ochrony roślin, na jego żądanie, informacji o zagrożeniach związanych ze stosowaniem nabywanych środków ochrony roślin oraz prawidłowym i bezpiecznym ich stosowaniu;
     - **a)** ukończyły szkolenie zakresie doradztwa dotyczącego środków ochrony roślin Rzeczypospolitej Polskiej potwierdzone zaświadczeniem o ukończeniu tego szkolenia, z zastrzeżeniem art. 64 ust. 4, 5, 7 i 8, lub
     - **b)** nie wcześniej niż przed upływem 5 lat, przed wykonywaniem tych czynności, ukończyły szkolenie wymagane od osób dokonujących zbycia środków ochrony roślin innym państwie członkowskim Unii Europejskiej lub państwie będącym stroną umowy o Europejskim Obszarze Gospodarczym, na podstawie przepisów obowiązujących tym państwie, potwierdzone dokumentem o ukończeniu tego szkolenia, lub przedstawiły inny dokument wydany na podstawie przepisów obowiązujących tym państwie, potwierdzający uzyskanie uprawnień do prowadzenia działalności zakresie dokonywania zbycia środków ochrony roślin ostatecznemu nabywcy,
     - **c)** udzielały nabywcy środków ochrony roślin, na jego żądanie, informacji dotyczących zagrożeń związanych ze stosowaniem nabywanych środków ochrony roślin oraz dotyczących prawidłowego i bezpiecznego ich stosowania, przy czym przypadku zbywania środków ochrony roślin użytkownikowi nieprofesjonalnemu podstawowych informacji dotyczących szczególności: zagrożeń stwarzanych przez te środki dla zdrowia człowieka, z uwzględnieniem różnych sposobów narażenia na kontakt z tymi środkami, właściwego przechowywania tych środków, właściwego stosowania tych środków, właściwego postępowania z resztkami tych środków, sposobów ograniczania zagrożeń związanych ze stosowaniem środków ochrony roślin;
@@ -619,7 +674,7 @@ source: "isap-pdf"
 
 **Art. 27b.**
 
-1. Wojewódzki inspektor prowadzący rejestr, o którym mowa art. 25 ust. 1, jest obowiązany dokonać wpisu przedsiębiorcy do rejestru terminie 7 dni od dnia wpływu do niego wniosku o wpis wraz z załącznikami, o których mowa art. 26 ust. 2. Nie dotyczy to przypadku, gdy wojewódzki inspektor wezwał przedsiębiorcę do uzupełnienia wniosku o wpis niepóźniej niż przed upływem 7 dni od dnia jego otrzymania. W takiej sytuacji termin, o którym mowa zdaniu pierwszym, biegnie odpowiednio od dnia wpływu uzupełnienia wniosku o wpis.
+1. Wojewódzki inspektor prowadzący rejestr, o którym mowa art. 25 ust. 1, jest obowiązany dokonać wpisu przedsiębiorcy do rejestru terminie 7 dni od dnia wpływu do niego wniosku o wpis wraz z załącznikami, o których mowa art. 26 ust. 2. o którym mowa ust. 1, a od dnia wpływu do niego wniosku upłynęło 14 dni, przedsiębiorca może rozpocząć działalność. Nie dotyczy to przypadku, gdy wojewódzki inspektor wezwał przedsiębiorcę do uzupełnienia wniosku o wpis niepóźniej niż przed upływem 7 dni od dnia jego otrzymania. W takiej sytuacji termin, o którym mowa zdaniu pierwszym, biegnie odpowiednio od dnia wpływu uzupełnienia wniosku o wpis.
 
 3. Wojewódzki inspektor prowadzący rejestr, o którym mowa art. 25 ust. 1, wydaje z urzędu zaświadczenie o dokonaniu wpisu do rejestru.
 
@@ -648,6 +703,12 @@ source: "isap-pdf"
 **Art. 27e.** Wojewódzki inspektor prowadzący rejestr, o którym mowa art. 25 ust. 1, wykreśla przedsiębiorcę z rejestru na jego wniosek, a także po uzyskaniu informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego o wykreśleniu przedsiębiorcy.
 
 **Art. 28.** Środki ochrony roślin przeznaczone dla użytkowników profesjonalnych inne niż środki ochrony roślin, o których mowa art. 25 ust. 3 pkt 4a, mogą być zbywane osobom, które spełniają następujące warunki:
+
+- **1)** ukończyły szkolenie zakresie stosowania środków ochrony roślin Rzeczypospolitej Polskiej potwierdzone zaświadczeniem o ukończeniu tego szkolenia, z zastrzeżeniem art. 64 ust. 4, 5, 7 i 8, lub
+- **2)** ukończyły szkolenie zakresie doradztwa dotyczącego środków ochrony roślin Rzeczypospolitej Polskiej potwierdzone zaświadczeniem o ukończeniu tego szkolenia, z zastrzeżeniem art. 64 ust. 4, 5, 7 i 8, lub
+- **3)** ukończyły szkolenie zakresie integrowanej produkcji roślin potwierdzone zaświadczeniem o ukończeniu tego szkolenia, z zastrzeżeniem art. 64 ust. 4, 5, 7 i 8 lub,
+- **4)** nie wcześniej niż przed upływem 5 lat, przed nabyciem tych środków, ukończyły szkolenie wymagane od użytkowników profesjonalnych innym państwie członkowskim Unii Europejskiej lub państwie będącym stroną umowy o Europejskim Obszarze Gospodarczym, na podstawie przepisów obowiązujących tym państwie, potwierdzone dokumentem o ukończeniu tego szkolenia, lub przedstawiły inny dokument wydany na podstawie przepisów obowiązujących tym państwie, potwierdzający uzyskanie uprawnień do nabywania środków ochrony roślin przeznaczonych dla użytkowników profesjonalnych;
+- **5)** posiadają pisemne upoważnienie do nabycia środków ochrony roślin udzielone przez osobę spełniającą warunki określone pkt 1, 2, 3 lub 4. czyły szkolenie zakresie stosowania środków ochrony roślin metodą fumigacji Rzeczypospolitej Polskiej potwierdzone zaświadczeniem o ukończeniu tego szkolenia. Wymagania tego nie stosuje się wobec osób, o których mowa art. 64 ust. 7, przez okres, o którym mowa art. 64 ust. 8.
 
 **Art. 28b.**
 
@@ -741,6 +802,16 @@ source: "isap-pdf"
 
 **Art. 31.** Zabrania się:
 
+- **1)** zbywania środka ochrony roślin oraz składania oferty zbycia takiego środka:
+    - **a)** osobie, której zachowanie wskazuje, że znajduje się stanie nietrzeźwości, lub osobie niepełnoletniej,
+    - **b)** opakowaniu zastępczym, żywności, chyba że przypadku środka ochrony roślin przeznaczonego dla użytkownika nieprofesjonalnego środek ten jest przechowywany pod zamknięciem sposób zapewniający brak jego kontaktu z żywnością, pasz, chyba że środek ten jest przechowywany pod zamknięciem sposób zapewniający brak jego kontaktu z paszą,
+    - **d)** przy zastosowaniu automatu, samoobsługi lub sprzedaży dokonywanej poza punktem stałej lokalizacji (sprzedaż obwoźna i obnośna na targowiskach rozumieniu przepisów o podatkach i opłatach lokalnych),
+    - **e)** po upływie terminu jego ważności, z zastrzeżeniem art. 24;
+
+- **2)** podawania informacji niezgodnych z zawartymi etykiecie wymaganiami, o których mowa art. 31 ust. 1–3 lub ust. 4 lit. a–d lub lit. f–h rozporządzenia nr 1107/2009;
+- **3)** zbywania środka ochrony roślin, o którym mowa art. 25 ust. 3 pkt 4a, i składania oferty zbycia takiego środka ramach umowy na odległość;
+- **4)** doręczania zbytego środka ochrony roślin przeznaczonego dla użytkowników profesjonalnych do skrzynek pocztowych, automatów do pocztowej obsługi klientów i pomieszczeń, których jest prowadzona sprzedaż żywności lub pasz, także przypadku gdy środek ten jest doręczany przez podmiot trzeci.
+
 **Art. 31a.**
 
 - **23)** Przepisu art. 31 pkt 3 nie stosuje się do zbywania środka ochrony roślin i składania oferty zbycia środka ochrony roślin podmiotowi prowadzącemu działalność gospodarczą zakresie:
@@ -748,6 +819,9 @@ source: "isap-pdf"
 - **2)** usługowego wykonywania zabiegów z zastosowaniem środków ochrony roślin metodą fumigacji.
 
 **Art. 32.** W przypadku podejrzenia wprowadzenia do obrotu:
+
+- **1)** środka ochrony roślin, którego skład lub właściwości fizyczne, lub właściwości chemiczne zostały zmienione, lub
+- **2)** produktu, który imituje środek ochrony roślin lub podrobionego środka ochrony roślin wojewódzki inspektor, drodze decyzji, wstrzymuje obrót tym środkiem ochrony roślin lub produktem, do czasu zakończenia badań laboratoryjnych prowadzonych celu wykluczenia albo potwierdzenia tego podejrzenia.
 
 **Art. 33.**
 
@@ -936,7 +1010,7 @@ source: "isap-pdf"
 7. Wojewódzki inspektor, terminie 3 dni od dnia otrzymania informacji, o której mowa ust. 6, drodze decyzji, zakazuje wykonania zabiegu z zastosowaniem środka ochrony roślin, jeżeli:
 
 - **1)** wskazane środki ochrony roślin, zgodnie z zezwoleniem na ich wprowadzanie do obrotu lub pozwoleniem na handel równoległy, lub pozwoleniem na prowadzenie badań, nie mogą być stosowane przy użyciu sprzętu agrolotniczego lub
-- **2)** na wskazanym obszarze nie można wykonywać zabiegu z zastosowaniem środka ochrony roślin przy użyciu sprzętu agrolotniczego. wykonanie takiego zabiegu nie stwarza zagrożenia dla zdrowia ludzi, zwierząt oraz dla środowiska.
+- **2)** na wskazanym obszarze nie można wykonywać zabiegu z zastosowaniem środka ochrony roślin przy użyciu sprzętu agrolotniczego. nie zabiegu z zastosowaniem środka ochrony roślin przy użyciu sprzętu agrolotniczego nieujętego planie zabiegów, jeżeli wykonanie takiego zabiegu nie stwarza zagrożenia dla zdrowia ludzi, zwierząt oraz dla środowiska.
 
 9. Podmiot planujący wykonanie zabiegu, o którym mowa ust. 8, informuje wojewódzkiego inspektora właściwego ze względu na planowane miejsce wykonania tego zabiegu o zamiarze przeprowadzenia takiego zabiegu terminie 7 dni przed dniem planowanego zabiegu.
 
@@ -974,9 +1048,14 @@ source: "isap-pdf"
     - **d)** postępowania podczas czyszczenia sprzętu przeznaczonego do stosowania środków ochrony roślin,
 
 - **2)** wymagania, jakie powinny spełniać miejsca lub obiekty, których są przechowywane środki ochrony roślin, uwzględniające minimalne odległości, od określonych miejsc lub obiektów, po uwzględnieniu których można przechowywać te środki,
-- **3)** sposób ostrzegania o zamiarze przeprowadzenia zabiegu z zastosowaniem środków ochrony roślin stwarzającego szczególne zagrożenie dla zdrowia ludzi lub zwierząt lub dla środowiska osób, które mogą zostać narażone na kontakt z tymi środkami lub są posiadaczami zwierząt gospodarskich, które mogą zostać narażone na kontakt z tymi środkami mając na względzie ograniczenie zagrożenia dla zdrowia ludzi, zwierząt oraz dla środowiska związanego ze stosowaniem środków ochrony roślin. mając na względzie ograniczenie ryzyka naniesienia cieczy użytkowej na obszar niebędący celem tego zabiegu.
+- **3)** sposób ostrzegania o zamiarze przeprowadzenia zabiegu z zastosowaniem środków ochrony roślin stwarzającego szczególne zagrożenie dla zdrowia ludzi lub zwierząt lub dla środowiska osób, które mogą zostać narażone na kontakt z tymi środkami lub są posiadaczami zwierząt gospodarskich, które mogą zostać narażone na kontakt z tymi środkami mając na względzie ograniczenie zagrożenia dla zdrowia ludzi, zwierząt oraz dla środowiska związanego ze stosowaniem środków ochrony roślin. zastosowane podczas wykonywania zabiegów z zastosowaniem środków ochrony roślin przy użyciu sprzętu agrolotniczego, mając na względzie ograniczenie ryzyka naniesienia cieczy użytkowej na obszar niebędący celem tego zabiegu.
 
 **Art. 41.** Zabieg z zastosowaniem przeznaczonych dla użytkowników profesjonalnych środków ochrony roślin innych niż środki ochrony roślin, o których mowa art. 41a ust. 1, może być wykonywany przez osoby, które:
+
+- **1)** ukończyły szkolenie zakresie stosowania środków ochrony roślin Rzeczypospolitej Polskiej potwierdzone zaświadczeniem o ukończeniu tego szkolenia, z zastrzeżeniem art. 64 ust. 4, 5, 7 i 8, lub
+- **2)** ukończyły szkolenie zakresie doradztwa dotyczącego środków ochrony roślin Rzeczypospolitej Polskiej potwierdzone zaświadczeniem o ukończeniu tego szkolenia, z zastrzeżeniem art. 64 ust. 4, 5, 7 i 8, lub
+- **3)** ukończyły szkolenie zakresie integrowanej produkcji roślin potwierdzone zaświadczeniem o ukończeniu tego szkolenia, z zastrzeżeniem art. 64 ust. 4, 5, 7 i 8, lub
+- **4)** nie wcześniej niż przed upływem 5 lat, przed zastosowaniem tych środków, ukończyły szkolenie wymagane od użytkowników profesjonalnych innym państwie członkowskim Unii Europejskiej lub państwie będącym stroną umowy o Europejskim Obszarze Gospodarczym, na podstawie przepisów obowiązujących tym państwie, potwierdzone dokumentem o ukończeniu tego szkolenia, lub przedstawiły inny dokument wydany na podstawie przepisów obowiązujących tym państwie, potwierdzający uzyskanie uprawnień do wykonywania zabiegów z zastosowaniem środków ochrony roślin przeznaczonych dla użytkowników profesjonalnych.
 
 **Art. 41a.**
 
@@ -986,7 +1065,7 @@ source: "isap-pdf"
     - **a)** ukończyły szkolenie zakresie stosowania środków ochrony roślin przy użyciu sprzętu agrolotniczego Rzeczypospolitej Polskiej, potwierdzone zaświadczeniem o ukończeniu tego szkolenia, z tym że wymagania tego nie stosuje się wobec osób, o których mowa art. 64 ust. 4, przez okres, o którym mowa art. 64 ust. 5, i osób, o których mowa art. 64 ust. 7, przez okres, o którym mowa art. 64 ust. 8, lub
     - **b)** ukończyły szkolenie wymagane od użytkowników profesjonalnych stosujących środki ochrony roślin przy użyciu sprzętu agrolotniczego innym państwie członkowskim Unii Europejskiej lub państwie będącym stroną umowy o Europejskim Obszarze Gospodarczym, na podstawie przepisów obowiązujących tym państwie, niewcześniej niż przed upływem 5 lat przed zastosowaniem tych środków, potwierdzone dokumentem o ukończeniu tego szkolenia lub przedstawiły inny dokument wydany na podstawie przepisów obowiązujących tym państwie potwierdzający uzyskanie uprawnień do wykonywania zabiegów z zastosowaniem środków ochrony roślin przy użyciu sprzętu agrolotniczego;
 
-- **3)** przy użyciu sprzętu montowanego na pojazdach szynowych lub innego sprzętu stosowanego kolejnictwie może być wykonywany przez osoby, które: przez osoby, które:
+- **3)** przy użyciu sprzętu montowanego na pojazdach szynowych lub innego sprzętu stosowanego kolejnictwie może być wykonywany przez osoby, które: oraz stosowania środków ochrony roślin, tym wykonywane ramach działalności marketingowej, mogą być świadczone przez osoby, które:
     - **a)** ukończyły szkolenie zakresie stosowania środków ochrony roślin przy użyciu sprzętu montowanego na pojazdach szynowych lub innego sprzętu stosowanego kolejnictwie Rzeczypospolitej Polskiej, potwierdzone zaświadczeniem o ukończeniu tego szkolenia, z tym że wymagania tego nie stosuje się wobec osób, o których mowa art. 64 ust. 4, przez okres, o którym mowa art. 64 ust. 5, i osób, o których mowa art. 64 ust. 7, przez okres, o którym mowa art. 64 ust. 8, lub
     - **b)** ukończyły szkolenie wymagane od użytkowników profesjonalnych stosujących środki ochrony roślin przy użyciu sprzętu montowanego na pojazdach szynowych lub innego sprzętu stosowanego kolejnictwie innym państwie członkowskim Unii Europejskiej lub państwie będącym stroną umowy o Europejskim Obszarze Gospodarczym, na podstawie przepisów obowiązujących tym państwie, niewcześniej niż przed upływem 5 lat przed zastosowaniem tych środków, potwierdzone dokumentem o ukończeniu tego szkolenia lub przedstawiły inny dokument wydany na podstawie przepisów obowiązujących tym państwie potwierdzający uzyskanie uprawnień do wykonywania zabiegów z zastosowaniem środków ochrony roślin przy użyciu sprzętu montowanego na pojazdach szynowych lub innego sprzętu stosowanego kolejnictwie.
 
@@ -1070,7 +1149,7 @@ source: "isap-pdf"
 1. Do zabiegu z zastosowaniem środków ochrony roślin używa się sprzętu przeznaczonego do stosowania środków ochrony roślin, który:
 
 - **1)** użyty zgodnie z przeznaczeniem nie stwarza zagrożenia dla zdrowia ludzi, zwierząt oraz dla środowiska;
-- **2)** jest sprawny technicznie i skalibrowany, tak aby zapewnić prawidłowe stosowanie środków ochrony roślin. lub dla środowiska, poddaje się okresowym badaniom celu potwierdzenia tej sprawności.
+- **2)** jest sprawny technicznie i skalibrowany, tak aby zapewnić prawidłowe stosowanie środków ochrony roślin. nalnych, który przypadku braku sprawności technicznej może stwarzać szczególne zagrożenie dla zdrowia ludzi, zwierząt lub dla środowiska, poddaje się okresowym badaniom celu potwierdzenia tej sprawności.
 
 3. Do czasu przeprowadzenia pierwszego badania celu potwierdzenia sprawności technicznej sprzętu przeznaczonego do stosowania środków ochrony roślin, o którym mowa ust. 2, posiadacz tego sprzętu jest obowiązany do przechowywania dowodów jego nabycia.
 
@@ -1096,7 +1175,7 @@ source: "isap-pdf"
 - **4)** dokumentować działania związane z prowadzeniem badań sprawności technicznej sprzętu przeznaczonego do stosowania środków ochrony roślin, celu potwierdzenia jego sprawności technicznej; jeżeli posiadaczem tego sprzętu jest osoba fizyczna, dokumentacja ta powinna zawierać następujące dane osobowe posiadacza tego sprzętu: imię, nazwisko, adres i miejsce zamieszkania oraz numer PESEL albo nazwę i numer dokumentu potwierdzającego jego tożsamość, przypadku posiadacza tego sprzętu, nieposiadającego obywatelstwa polskiego;
 - **5)** przekazywać wojewódzkiemu inspektorowi informacje o sprzęcie przeznaczonym do stosowania środków ochrony roślin, poddanym badaniom sprawności technicznej, tym dane osobowe posiadacza tego sprzętu, o których mowa pkt 4;
 - **6)** udostępniać dokumenty dotyczące prowadzenia badań sprawności technicznej sprzętu przeznaczonego do stosowania środków ochrony roślin, celu potwierdzenia jego sprawności technicznej, na żądanie wojewódzkiego inspektora;
-- **7)** wydawać posiadaczowi sprzętu przeznaczonego do stosowania środków ochrony roślin, który został poddany badaniom celu potwierdzenia jego sprawności technicznej, dokument potwierdzający przeprowadzenie tych badań oraz umieszczać na tym sprzęcie, jeżeli jego sprawność techniczna została potwierdzona, znak kontrolny zawierający indywidualny numer.
+- **7)** wydawać posiadaczowi sprzętu przeznaczonego do stosowania środków ochrony roślin, który został poddany badaniom celu potwierdzenia jego sprawności technicznej, dokument potwierdzający przeprowadzenie tych badań oraz umieszczać na tym sprzęcie, jeżeli jego sprawność techniczna została potwierdzona, znak kontrolny zawierający indywidualny numer. następujące dane:
 - **1)** imię, nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę przedsiębiorcy, z tym że przypadku gdy przedsiębiorcą jest osoba fizyczna, zamiast adresu i miejsca zamieszkania tej osoby adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania;
 - **2)** numer Krajowym Rejestrze Sądowym wnioskodawcy, o ile wnioskodawca taki numer posiada;
 - **3)** numer identyfikacji podatkowej (NIP) wnioskodawcy;
@@ -1217,7 +1296,7 @@ source: "isap-pdf"
 
 2. Wojewódzki inspektor sprawuje kontrolę nad prowadzeniem działalności zakresie potwierdzania sprawności technicznej sprzętu przeznaczonego do stosowania środków ochrony roślin.
 
-3. Wojewódzki inspektor przeprowadza kontrolę podmiotów wpisanych do rejestru, zakresie spełniania warunków określonych art. 49 ust. 3.
+3. Wojewódzki inspektor przeprowadza kontrolę podmiotów wpisanych do rejestru, zakresie spełniania warunków określonych art. 49 ust. 3. inspektor może nakazać, drodze zaleceń pokontrolnych, usunięcie uchybień oznaczonym terminie.
 
 5. W przypadku:
 
@@ -1240,6 +1319,12 @@ source: "isap-pdf"
 10. Wojewódzki inspektor terminie 7 dni od dnia otrzymania informacji, o której mowa ust. 1, dokonuje odpowiednio aktualizacji danych zawartych rejestrze albo wykreśla podmiot z tego rejestru.
 
 **Art. 54.** Minister właściwy do spraw rolnictwa określi, drodze rozporządzenia, szczegółowe warunki prowadzenia działalności zakresie potwierdzania sprawności technicznej sprzętu przeznaczonego do stosowania środków ochrony roślin, o których mowa art. 49 ust. 3, obejmujące:
+
+- **1)** warunki organizacyjno-techniczne prowadzenia badań sprawności technicznej sprzętu przeznaczonego do stosowania środków ochrony roślin celu potwierdzenia jego sprawności technicznej,
+- **2)** metodykę badań sprawności technicznej sprzętu przeznaczonego do stosowania środków ochrony roślin, prowadzonych celu potwierdzenia jego sprawności technicznej,
+- **3)** zakres i sposób dokumentowania badań sprawności technicznej sprzętu przeznaczonego do stosowania środków ochrony roślin, prowadzonych celu potwierdzenia jego sprawności technicznej, oraz zakres informacji, jakie powinien zawierać dokument potwierdzający przeprowadzenie badań sprawności technicznej tego sprzętu,
+- **4)** zakres informacji o sprzęcie przeznaczonym do stosowania środków ochrony roślin, poddanym badaniom sprawności technicznej celu potwierdzenia jego sprawności technicznej, przekazywanych wojewódzkiemu inspektorowi oraz termin przekazywania tych informacji,
+- **5)** wymagania, jakie powinien spełniać znak kontrolny umieszczany na sprzęcie przeznaczonym do stosowania środków ochrony roślin, którego sprawność techniczna została potwierdzona, oraz wzór tego znaku mając na względzie rodzaj sprzętu do stosowania środków ochrony roślin oraz zapewnienie prawidłowego przebiegu badań sprawności technicznej tego sprzętu.
 
 #### Rozdział 6 Integrowana produkcja roślin
 
@@ -1285,7 +1370,7 @@ source: "isap-pdf"
 
 1. Podmiot certyfikujący prowadzi kontrolę producentów roślin stosujących integrowaną produkcję roślin.
 
-2. Czynności kontrolne obejmują szczególności sprawdzenie spełnienia wymagań określonych art. 57 ust. 2 pkt 1–5 oraz pobieranie próbek roślin i produktów roślinnych do badań na obecność pozostałości środków ochrony roślin oraz poziomów azotanów, azotynów i metali ciężkich celu sprawdzenia wymagań określonych art. 57 ust. 2 pkt 6. u producentów roślin, przypadku których istnieje podejrzenie niestosowania wymagań integrowanej produkcji roślin.
+2. Czynności kontrolne obejmują szczególności sprawdzenie spełnienia wymagań określonych art. 57 ust. 2 pkt 1–5 oraz pobieranie próbek roślin i produktów roślinnych do badań na obecność pozostałości środków ochrony roślin oraz poziomów azotanów, azotynów i metali ciężkich celu sprawdzenia wymagań określonych art. 57 ust. 2 pkt 6. roślin wpisanych do rejestru, o którym mowa art. 55 ust. 6, przy czym pierwszej kolejności badania przeprowadza się u producentów roślin, przypadku których istnieje podejrzenie niestosowania wymagań integrowanej produkcji roślin.
 
 4. Badania, o których mowa ust. 2, przeprowadza się laboratoriach posiadających akredytację odpowiednim zakresie udzieloną trybie przepisów ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku lub przepisów rozporządzenia nr 765/2008.
 
@@ -1323,7 +1408,7 @@ source: "isap-pdf"
 
 13. Za przeprowadzenie czynności kontrolnych, tym pobranie próbek roślin i produktów roślinnych do badań, o których mowa ust. 2, oraz za przeprowadzenie tych badań podmiot certyfikujący może pobrać wynagrodzenie.
 
-14. Podmiot certyfikujący zamieszcza na swojej stronie internetowej cennik opłat pobieranych za przeprowadzenie czynności kontrolnych, tym za pobranie próbek roślin i produktów roślinnych do badań, o których mowa ust. 2, oraz za przeprowadzenie tych badań. producenta roślin, dotyczące tego producenta roślin:
+14. Podmiot certyfikujący zamieszcza na swojej stronie internetowej cennik opłat pobieranych za przeprowadzenie czynności kontrolnych, tym za pobranie próbek roślin i produktów roślinnych do badań, o których mowa ust. 2, oraz za przeprowadzenie tych badań. prowadził kontrolę tego producenta roślin, przekazuje podmiotowi certyfikującemu, który będzie prowadził kontrolę tego producenta roślin, dotyczące tego producenta roślin:
 
 - **1)** informacje:
     - **a)** zawarte w: rejestrze, o którym mowa art. 55 ust. 6, wykazie, o którym mowa art. 60 ust. 1 pkt 2a,
@@ -1510,6 +1595,9 @@ source: "isap-pdf"
 
 **Art. 63.** Minister właściwy do spraw rolnictwa określi, drodze rozporządzenia:
 
+- **1)** kwalifikacje, tym wykształcenie oraz doświadczenie, o których mowa art. 58 ust. 3, wymagane od osób prowadzących czynności kontrolne przestrzegania wymagań integrowanej produkcji roślin,
+- **2)** wzór certyfikatu poświadczającego stosowanie integrowanej produkcji roślin mając na względzie zapewnienie prawidłowego przebiegu certyfikacji integrowanej produkcji roślin oraz ujednolicenie wydawanych certyfikatów.
+
 #### Rozdział 7 Szkolenia zakresie środków ochrony roślin
 
 **Art. 64.**
@@ -1680,7 +1768,7 @@ source: "isap-pdf"
 - **2)** numer wpisu do rejestru;
 - **3)** datę wpisu do rejestru.
 
-3. Rejestr, o którym mowa art. 67 ust. 1, udostępnia się na stronie internetowej administrowanej przez wojewódzki inspektorat ochrony roślin i nasiennictwa.
+3. Rejestr, o którym mowa art. 67 ust. 1, udostępnia się na stronie internetowej administrowanej przez wojewódzki inspektorat ochrony roślin i nasiennictwa. rejestru zawierający oczywiste błędy lub niezgodności ze stanem faktycznym.
 
 2. W przypadku zmiany danych wpisanych do rejestru, o którym mowa art. 67 ust. 1, przedsiębiorca jest obowiązany złożyć wniosek o zmianę wpisu tym rejestrze terminie 14 dni od dnia zajścia zdarzenia, które spowodowało zmianę tych danych.
 
@@ -1776,7 +1864,7 @@ source: "isap-pdf"
 - **4)** nieusunięcia wyznaczonym terminie uchybień, o których mowa ust. 4, lub
 - **5)** zaprzestania wykonywania działalności, o której mowa art. 70 ust. 1 wojewódzki inspektor wykreśla, drodze decyzji, podmiot z rejestru.
 
-6. Decyzja, o której mowa ust. 5, podlega natychmiastowemu wykonaniu. niewcześniej niż po upływie 3 lat od dnia wydania decyzji o wykreśleniu z tego rejestru.
+7. Podmiot, który został wykreślony z rejestru na podstawie ust. 5 pkt 1–4, może uzyskać ponowny wpis do tego rejestru niewcześniej niż po upływie 3 lat od dnia wydania decyzji o wykreśleniu z tego rejestru.
 
 8. Wojewódzki inspektor, przypadku stwierdzenia prowadzenia szkoleń zakresie środków ochrony roślin przez podmiot, który nie posiada wymaganego wpisu do rejestru, zakazuje, drodze decyzji, prowadzenia tej działalności. Decyzja podlega natychmiastowemu wykonaniu.
 
@@ -1788,9 +1876,23 @@ source: "isap-pdf"
 
 **Art. 72.** Minister właściwy do spraw rolnictwa określi, drodze rozporządzenia, szczegółowe warunki prowadzenia działalności polegającej na prowadzeniu szkoleń zakresie środków ochrony roślin, o których mowa art. 67 ust. 2, obejmujące:
 
+- **1)** warunki organizacyjno-techniczne prowadzenia poszczególnych rodzajów szkoleń zakresie środków ochrony roślin,
+- **2)** kwalifikacje wymagane od osób prowadzących poszczególne rodzaje szkoleń zakresie środków ochrony roślin, z uwzględnieniem programu szkolenia dla osób prowadzących szkolenia zakresie integrowanej produkcji roślin,
+- **3)** programy poszczególnych rodzajów szkoleń podstawowych i uzupełniających zakresie środków ochrony roślin, uwzględniające, przypadku szkoleń zakresie:
+    - **a)** stosowania środków ochrony roślin sposób stosowania tych środków,
+    - **b)** badań sprawności technicznej sprzętu przeznaczonego do stosowania środków ochrony roślin rodzaje tego sprzętu,
+
+- **4)** maksymalną liczbę osób grupie, dla jakiej prowadzi się szkolenia zakresie środków ochrony roślin,
+- **5)** zakres i sposób dokumentowania prowadzenia szkoleń zakresie środków ochrony roślin,
+- **6)** zakres danych przekazywanych wojewódzkiemu inspektorowi oraz termin przekazywania tych informacji,
+- **7)** wzór zaświadczenia o ukończeniu szkolenia zakresie środków ochrony roślin mając na względzie zapewnienie prawidłowego przebiegu szkoleń zakresie środków ochrony roślin oraz zakres tych szkoleń.
+
 #### Rozdział 8 Gromadzenie informacji o zatruciach środkami ochrony roślin
 
 **Art. 73.** Urząd obsługujący ministra właściwego do spraw rolnictwa gromadzi informacje o zatruciach:
+
+- **1)** ludzi środkami ochrony roślin;
+- **2)** pszczół środkami ochrony roślin.
 
 **Art. 74.** Minister właściwy do spraw rolnictwa udostępnia informacje dotyczące zharmonizowanych wskaźników ryzyka związanego ze stosowaniem środków ochrony roślin, terminie 20 miesięcy od zakończenia roku, dla którego te wskaźniki zostały obliczone, oraz środków ograniczających to ryzyko na stronie internetowej administrowanej przez urząd obsługujący ministra właściwego do spraw rolnictwa.
 
@@ -1798,7 +1900,8 @@ source: "isap-pdf"
 
 **Art. 74a.** Główny Inspektor i wojewódzki inspektor mogą za opłatą świadczyć usługi zakresie badań laboratoryjnych mających na celu oznaczenie pozostałości środków ochrony roślin lub pobierania próbek do tych badań, jeżeli świadczenie tych usług nie wpłynie negatywnie na wykonywanie przez Państwową Inspekcję Ochrony Roślin i Nasiennictwa jej zadań.
 
-**Art. 74b.** Organem właściwym do pobierania opłat, o których mowa w: o którym mowa art. 1 ust. 2 lit. h rozporządzenia 2017/625, zakresie środków ochrony roślin, jest Główny Inspektor albo wojewódzki inspektor przeprowadzający te kontrole;
+- **1)** art. 79 ust. 2 lit. c rozporządzenia 2017/625, odniesieniu do kontroli urzędowych przeprowadzanych obszarze, o którym mowa art. 1 ust. 2 lit. h rozporządzenia 2017/625, zakresie środków ochrony roślin, jest Główny Inspektor albo wojewódzki inspektor przeprowadzający te kontrole;
+- **2)** art. 74a, jest Główny Inspektor albo wojewódzki inspektor świadczący usługi.
 
 **Art. 74c.**
 
@@ -2032,6 +2135,9 @@ source: "isap-pdf"
 
 **Art. 88.** Do dnia 25 listopada 2015 r. przepisy art. 28 oraz art. 76 ust. 1 pkt 6 niniejszej ustawy stosuje się wyłącznie do zbywania środków ochrony roślin oznakowanych:
 
+- **1)** zgodnie z przepisami o substancjach chemicznych i ich mieszaninach znakiem ostrzegawczym odpowiadającym symbolowi T toksyczne lub znakiem ostrzegawczym odpowiadającym symbolowi T+ bardzo toksyczne albo
+- **2)** zgodnie z przepisami rozporządzenia nr 1272/2008: piktogramem odpowiadającym symbolowi GHS06 oraz co najmniej jednym z następujących zwrotów wskazujących rodzaj zagrożenia: H300, H301, H310, H311, H330, H331 lub piktogramem odpowiadającym symbolowi GHS08 oraz co najmniej jednym z następujących zwrotów wskazujących rodzaj zagrożenia: H340, H350, H350i, H360, H370, H372.
+
 **Art. 89.**
 
 1. Do środków ochrony roślin, o których mowa art. 61 ust. 1 pkt 2 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin, wprowadzonych na terytorium Rzeczypospolitej Polskiej przed dniem wejścia życie niniejszej ustawy, stosuje się art. 61 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin.
@@ -2113,7 +2219,7 @@ source: "isap-pdf"
 - **1)** stają się zaświadczeniami o ukończeniu szkolenia zakresie stosowania środków ochrony roślin rozumieniu niniejszej ustawy;
 - **2)** zachowują ważność przez okres, na jaki zostały wydane.
 
-2. Zaświadczenia o ukończeniu szkolenia zakresie stosowania środków ochrony roślin, o których mowa art. 66 ust. 1 pkt 1 i art. 74 pkt 1 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin, są równoważne z zaświadczeniami o ukończeniu szkolenia podstawowego zakresie stosowania środków ochrony roślin rozumieniu niniejszej ustawy.
+2. Zaświadczenia o ukończeniu szkolenia zakresie stosowania środków ochrony roślin, o których mowa art. 66 ust. 1 pkt 1 i art. 74 pkt 1 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin, są równoważne z zaświadczeniami o ukończeniu szkolenia podstawowego zakresie stosowania środków ochrony roślin rozumieniu niniejszej ustawy. pkt 1 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin:
 
 - **1)** stają się zaświadczeniami o ukończeniu szkolenia zakresie integrowanej produkcji roślin rozumieniu niniejszej ustawy;
 - **2)** zachowują ważność przez okres, na jaki zostały wydane.
@@ -2131,4 +2237,10 @@ source: "isap-pdf"
 **Art. 108.** Przepisy wykonawcze wydane na podstawie art. 5 ust. 7, art. 43a ust. 14 pkt 1, art. 75 ust. 8 oraz art. 76 ust. 7 i 8 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 10 ust. 8, art. 48 ust. 5, art. 54, art. 57 ust. 9 i art. 72 niniejszej ustawy, niedłużej jednak niż przez okres 36 miesięcy od dnia wejścia życie niniejszej ustawy.
 
 **Art. 109.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** przepisów art. 42, art. 66 oraz art. 76 ust. 1 pkt 31 i 40, które wchodzą życie z dniem 26 listopada 2013 r.;
+- **2)** przepisów:
+    - **a)** art. 35 ust. 3, art. 37 ust. 2, art. 48 ust. 1–4, art. 49–53, art. 55, art. 56, art. 57 ust. 1–8, art. 60–62, art. 76 ust. 1 pkt 25, 26, 32 i 35–37,
+    - **b)** art. 77: pkt 1 zakresie art. 1 pkt 3, pkt 3, pkt 5 zakresie art. 76 i art. 77 ust. 1 i 2, pkt 7, pkt 9: lit. b zakresie art. 85 pkt 7 lit. c, lit. c, pkt 11: lit. a tiret pierwsze, lit. c, pkt 13 zakresie art. 107 ust. 1 pkt 3a, 30 i 31 które wchodzą życie z dniem 1 stycznia 2014 r.
+
 

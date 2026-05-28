@@ -8,10 +8,10 @@ pos: 205
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 lutego 2024 r.
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 15 lutego 2024 r. w sprawie szczegółowych warunków udzielania przez Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej horyzontalnej pomocy publicznej na inwestycje w infrastrukturę ładowania lub infrastrukturę tankowania
 
 | Pole | Wartość |
 |---|---|
@@ -22,65 +22,137 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2024-02-15 |
 | Data wydania | 2024-02-16 |
+| Wejście w życie | 2024-02-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000205) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/205/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA dnia 15 lutego 2024 r.
-w sprawie szczegółowych warunków udzielania przez Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej horyzontalnej pomocy publicznej na inwestycje w infrastrukturę ładowania lub infrastrukturę tankowania Na podstawie art. 400a ust. 2 ustawy dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. 2024 r. poz. 54) zarządza się, co następuje: § 1. Horyzontalna pomoc publiczna na inwestycje w infrastrukturę ładowania lub infrastrukturę tankowania ze środków pozostających w dyspozycji Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, zwana dalej „pomocą”, jest udzielana zgodnie rozporządzeniem Komisji (UE) 651/2014 dnia 17 czerwca 2014 r. uznającym niektóre rodzaje pomocy za zgodne rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 26.06.2014, str. 1, późn. zm. ), zwanym dalej „rozporządzeniem Komisji (UE) 651/2014”.
-§ 2. Ilekroć w rozporządzeniu jest mowa o:
-1) dniu udzielenia pomocy oznacza to dzień udzielenia pomocy w rozumieniu art. 2 pkt 11 ustawy dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. 2023 r. poz. 702);
-dużym przedsiębiorcy oznacza to duże przedsiębiorstwo w rozumieniu art. 2 pkt 24 rozporządzenia Komisji (UE) 651/2014;
-3) energii elektrycznej ze źródeł odnawialnych oznacza to energię elektryczną ze źródeł odnawialnych w rozumieniu art. 2 pkt 102d rozporządzenia Komisji (UE) 651/2014;
-4) infrastrukturze ładowania oznacza to infrastrukturę ładowania w rozumieniu art. 2 pkt 102a rozporządzenia Komisji (UE) 651/2014;
-5) infrastrukturze tankowania oznacza to infrastrukturę tankowania w rozumieniu art. 2 pkt 102b rozporządzenia Komisji (UE) 651/2014;
-6) intensywności pomocy oznacza to stosunek całkowitej wartości pomocy do kosztów kwalifikujących się do objęcia pomocą;
-7) małym przedsiębiorcy oznacza to małe przedsiębiorstwo, o którym mowa w załączniku I do rozporządzenia Komisji (UE) 651/2014;
-8) mikroprzedsiębiorcy oznacza to mikroprzedsiębiorstwo, o którym mowa w załączniku I do rozporządzenia Komisji (UE) 651/2014;
-9) średnim przedsiębiorcy oznacza to średnie przedsiębiorstwo, o którym mowa w załączniku I do rozporządzenia Komisji (UE) 651/2014;
-11) wartości pomocy oznacza to ekwiwalent dotacji brutto ustalany zgodnie przepisami rozporządzenia Rady Ministrów dnia 11 sierpnia 2004 r. w sprawie szczegółowego sposobu obliczania wartości pomocy publicznej udzielanej w różnych formach (Dz. U. 2018 r. poz. 461);
-12) wodorze odnawialnym oznacza to wodór odnawialny w rozumieniu art. 2 pkt 102c rozporządzenia Komisji (UE) 651/2014.
-§ 3. 1. Przepisów rozporządzenia nie stosuje się do pomocy, o której mowa w art. 1 ust. 2 lit. c i d, ust. 3 lit. a–d oraz ust. 5 i 6 rozporządzenia Komisji (UE) 651/2014.
-2. Pomoc nie może zostać:
-1) udzielona przedsiębiorcy znajdującemu się w trudnej sytuacji w rozumieniu art. 2 pkt 18 rozporządzenia Komisji (UE) 651/2014;
-udzielona ani wypłacona przedsiębiorcy, na którym ciąży obowiązek zwrotu pomocy wynikający decyzji Komisji Europejskiej uznającej taką pomoc przyznaną przez Rzeczpospolitą Polską za niezgodną prawem oraz rynkiem wewnętrznym.
-§ 4. Pomoc może zostać udzielona na inwestycje w:
-1) budowę, instalację, modernizację lub rozbudowę infrastruktury ładowania lub infrastruktury tankowania;
+Treść rozporządzenia
+Na podstawie art. 400a ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54) zarządza się, co następuje:
+§ 1.
+Horyzontalna pomoc publiczna na inwestycje w infrastrukturę ładowania lub infrastrukturę tankowania ze środków pozostających w dyspozycji Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, zwana dalej „pomocą”, jest udzielana zgodnie z rozporządzeniem Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającym niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), zwanym dalej „rozporządzeniem Komisji (UE) nr 651/2014”.
+§ 2.
+Ilekroć w rozporządzeniu jest mowa o:
+1)
+dniu udzielenia pomocy – oznacza to dzień udzielenia pomocy w rozumieniu art. 2 pkt 11 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2023 r. poz. 702);
+2)
+dużym przedsiębiorcy – oznacza to duże przedsiębiorstwo w rozumieniu art. 2 pkt 24 rozporządzenia Komisji (UE) nr 651/2014;
+3)
+energii elektrycznej ze źródeł odnawialnych – oznacza to energię elektryczną ze źródeł odnawialnych w rozumieniu art. 2 pkt 102d rozporządzenia Komisji (UE) nr 651/2014;
+4)
+infrastrukturze ładowania – oznacza to infrastrukturę ładowania w rozumieniu art. 2 pkt 102a rozporządzenia Komisji (UE) nr 651/2014;
+5)
+infrastrukturze tankowania – oznacza to infrastrukturę tankowania w rozumieniu art. 2 pkt 102b rozporządzenia Komisji (UE) nr 651/2014;
+6)
+intensywności pomocy – oznacza to stosunek całkowitej wartości pomocy do kosztów kwalifikujących się do objęcia pomocą;
+7)
+małym przedsiębiorcy – oznacza to małe przedsiębiorstwo, o którym mowa w załączniku I do rozporządzenia Komisji (UE) nr 651/2014;
+8)
+mikroprzedsiębiorcy – oznacza to mikroprzedsiębiorstwo, o którym mowa w załączniku I do rozporządzenia Komisji (UE) nr 651/2014;
+9)
+średnim przedsiębiorcy – oznacza to średnie przedsiębiorstwo, o którym mowa w załączniku I do rozporządzenia Komisji (UE) nr 651/2014;
+10)
+procedurze przetargowej zgodnej z zasadami konkurencji – oznacza to procedurę przetargową zgodną z zasadami konkurencji w rozumieniu art. 2 pkt 38 rozporządzenia Komisji (UE) nr 651/2014;
+11)
+wartości pomocy – oznacza to ekwiwalent dotacji brutto ustalany zgodnie z przepisami rozporządzenia Rady Ministrów z dnia 11 sierpnia 2004 r. w sprawie szczegółowego sposobu obliczania wartości pomocy publicznej udzielanej w różnych formach (Dz. U. z 2018 r. poz. 461);
+12)
+wodorze odnawialnym – oznacza to wodór odnawialny w rozumieniu art. 2 pkt 102c rozporządzenia Komisji (UE) nr 651/2014.
+§ 3.
+1.
+Przepisów rozporządzenia nie stosuje się do pomocy, o której mowa w art. 1 ust. 2 lit. c i d, ust. 3 lit. a-d oraz ust. 5 i 6 rozporządzenia Komisji (UE) nr 651/2014.
+2.
+Pomoc nie może zostać:
+1)
+udzielona przedsiębiorcy znajdującemu się w trudnej sytuacji w rozumieniu art. 2 pkt 18 rozporządzenia Komisji (UE) nr 651/2014;
+2)
+udzielona ani wypłacona przedsiębiorcy, na którym ciąży obowiązek zwrotu pomocy wynikający z decyzji Komisji Europejskiej uznającej taką pomoc przyznaną przez Rzeczpospolitą Polską za niezgodną z prawem oraz z rynkiem wewnętrznym.
+§ 4.
+Pomoc może zostać udzielona na inwestycje w:
+1)
+budowę, instalację, modernizację lub rozbudowę infrastruktury ładowania lub infrastruktury tankowania;
+2)
 wytwarzanie na miejscu energii elektrycznej ze źródeł odnawialnych lub wodoru odnawialnego;
-3) jednostki magazynowania energii elektrycznej ze źródeł odnawialnych lub wodoru odnawialnego wytwarzanych na miejscu.
-§ 5. 1. Pomoc może zostać udzielona pod warunkiem, że wniosek o jej udzielenie został złożony przed rozpoczęciem inwestycji.
-2. Wniosek o udzielenie pomocy zawiera:
-1) informacje, o których mowa w art. 6 ust. 2 zdanie drugie rozporządzenia Komisji (UE) 651/2014;
+3)
+jednostki magazynowania energii elektrycznej ze źródeł odnawialnych lub wodoru odnawialnego wytwarzanych na miejscu.
+§ 5.
+1.
+Pomoc może zostać udzielona pod warunkiem, że wniosek o jej udzielenie został złożony przed rozpoczęciem inwestycji.
+2.
+Wniosek o udzielenie pomocy zawiera:
+1)
+informacje, o których mowa w art. 6 ust. 2 zdanie drugie rozporządzenia Komisji (UE) nr 651/2014;
+2)
 imię i nazwisko albo nazwę wnioskodawcy;
-3) siedzibę i adres wnioskodawcy;
-4) numer Krajowego Rejestru Sądowego (KRS) wnioskodawcy, a w przypadku rejestru innego niż KRS pełną nazwę odpowiedniego rejestru oraz numer wpisu wnioskodawcy;
-5) numer identyfikacji podatkowej (NIP) wnioskodawcy;
-6) inne informacje niezbędne do udzielenia pomocy niebędące danymi osobowymi.
-3. Przez rozpoczęcie inwestycji należy rozumieć podjęcie robót budowlanych lub złożenie pierwszego prawnie wiążącego zobowiązania do zamówienia urządzeń lub jakiegokolwiek zobowiązania, w wyniku którego realizacja inwestycji stanie się nieodwracalna.
-4. Przez podjęcie robót budowlanych należy rozumieć rozpoczęcie budowy, o którym mowa w art. 41 ust. 1 ustawy dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. 2023 r. poz. 682, późn. zm. ).
-§ 6. Pomoc może zostać udzielona w formie:
-1) dotacji lub pożyczek, lub
-3) częściowych umorzeń pożyczek.
-§ 7. Pomoc jest udzielana zgodnie art. 36a ust. 2 zdanie drugie i trzecie, ust. 3 zdanie czwarte oraz ust. 8, 9, 12 i 13 rozporządzenia Komisji (UE) 651/2014.
-§ 8. Konieczność udzielenia pomocy jest ustalana zgodnie art. 36a ust. 10 i 11 rozporządzenia Komisji (UE) 651/2014.
-§ 9. Pomoc może zostać udzielona w:
-1) procedurze przetargowej zgodnej zasadami konkurencji spełniającej warunki określone w art. 36a ust. 4 rozporządzenia Komisji (UE) 651/2014;
-2. Kosztami kwalifikującymi się do objęcia pomocą są koszty inwestycji poniesione po dniu złożenia wniosku o udzielenie pomocy.
-3. Do obliczania wartości kosztów kwalifikujących się do objęcia pomocą stosuje się art. 7 ust. 1 i 3 rozporządzenia Komisji (UE) 651/2014.
-§ 11. 1. W przypadku gdy pomoc jest udzielana w procedurze, o której mowa w § 9 pkt 1, intensywność pomocy nie może przekroczyć 100%.
-2. W przypadku gdy pomoc jest udzielana w procedurze, o której mowa w § 9 pkt 2, intensywność pomocy nie może przekroczyć:
-1) 20% w przypadku dużego przedsiębiorcy;
-40% w przypadku średniego przedsiębiorcy;
-3) 50% w przypadku mikroprzedsiębiorcy oraz małego przedsiębiorcy.
-3. W okresie obowiązywania mapy pomocy regionalnej, ustalonej w rozporządzeniu Rady Ministrów dnia 14 grudnia 2021 r. w sprawie ustalenia mapy pomocy regionalnej na lata 2022–2027 (Dz. U. poz. 2422), intensywność pomocy, o której mowa w ust. 2, ulega zwiększeniu o:
-1) 15 punktów procentowych gdy inwestycja będzie realizowana na obszarach należących do województw: kujawsko-pomorskiego, lubelskiego, lubuskiego, łódzkiego, małopolskiego, opolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego i zachodniopomorskiego oraz do regionu mazowieckiego regionalnego;
-5 punktów procentowych gdy inwestycja będzie realizowana na obszarach należących do województw dolnośląskiego i wielkopolskiego oraz następujących gmin należących do regionu warszawskiego stołecznego: Baranów, Błonie, Dąbrówka, Dobre, Góra Kalwaria, Grodzisk Mazowiecki, Jadów, Jaktorów, Kałuszyn, Kampinos, Kołbiel, Latowicz, Leoncin, Leszno, Mrozy, Nasielsk, Osieck, Prażmów, Serock, Siennica, Sobienie-Jeziory, Strachówka, Tarczyn, Tłuszcz, Zakroczym i Żabia Wola.
-§ 12. Całkowita wartość pomocy udzielanej zgodnie niniejszym rozporządzeniem przedsiębiorcy, uwzględnieniem związków, o których mowa w art. 3 ust. 3 załącznika I do rozporządzenia Komisji (UE) 651/2014, nie może przekroczyć limitu, o którym mowa w art. 36a ust. 7 tego rozporządzenia.
-§ 13. 1. Pomoc sumuje się inną pomocą publiczną lub pomocą de minimis, udzielaną na te same koszty kwalifikujące się do objęcia pomocą, bez względu na jej formę i źródło pochodzenia, w tym pomocą udzielaną ze środków pochodzących budżetu Unii Europejskiej.
-2. W przypadku gdy na te same koszty kwalifikujące się do objęcia pomocą zostało udzielone finansowanie Unii Europejskiej zarządzane centralnie, o którym mowa w art. 8 ust. 2 rozporządzenia Komisji (UE) 651/2014, stosuje się zasady kumulacji określone w tym przepisie.
-3. W przypadku gdy na te same koszty kwalifikujące się do objęcia pomocą zostało udzielone dofinansowanie przy wsparciu Funduszu InvestEU, o którym mowa w sekcji 16 rozdziału III rozporządzenia Komisji (UE) 651/2014, stosuje się zasady kumulacji określone w art. 8 ust. 3 lit. b akapit drugi–czwarty rozporządzenia Komisji (UE) 651/2014.
-§ 14. 1. Rozporządzenie nie ma zastosowania do pomocy, której całkowita wartość przekracza 30 mln euro na przedsiębiorcę na inwestycję.
-2. Kwoty wyrażone w euro przelicza się na złote według średniego kursu ogłoszonego przez Narodowy Bank Polski w dniu udzielenia pomocy.
-§ 15. Pomoc jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4 zdanie pierwsze w związku art. 59 rozporządzenia Komisji (UE) 651/2014.
-§ 16. Rozporządzenie wchodzi w życie dniem następującym po dniu ogłoszenia.
-Minister Klimatu i Środowiska: wz. U. Zielińska
+3)
+siedzibę i adres wnioskodawcy;
+4)
+numer Krajowego Rejestru Sądowego (KRS) wnioskodawcy, a w przypadku rejestru innego niż KRS – pełną nazwę odpowiedniego rejestru oraz numer wpisu wnioskodawcy;
+5)
+numer identyfikacji podatkowej (NIP) wnioskodawcy;
+6)
+inne informacje niezbędne do udzielenia pomocy niebędące danymi osobowymi.
+3.
+Przez rozpoczęcie inwestycji należy rozumieć podjęcie robót budowlanych lub złożenie pierwszego prawnie wiążącego zobowiązania do zamówienia urządzeń lub jakiegokolwiek zobowiązania, w wyniku którego realizacja inwestycji stanie się nieodwracalna.
+4.
+Przez podjęcie robót budowlanych należy rozumieć rozpoczęcie budowy, o którym mowa w art. 41 ust. 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm.).
+§ 6.
+Pomoc może zostać udzielona w formie:
+1)
+dotacji lub
+2)
+pożyczek, lub
+3)
+częściowych umorzeń pożyczek.
+§ 7.
+Pomoc jest udzielana zgodnie z art. 36a ust. 2 zdanie drugie i trzecie, ust. 3 zdanie czwarte oraz ust. 8, 9, 12 i 13 rozporządzenia Komisji (UE) nr 651/2014.
+§ 8.
+Konieczność udzielenia pomocy jest ustalana zgodnie z art. 36a ust. 10 i 11 rozporządzenia Komisji (UE) nr 651/2014.
+§ 9.
+Pomoc może zostać udzielona w:
+1)
+procedurze przetargowej zgodnej z zasadami konkurencji spełniającej warunki określone w art. 36a ust. 4 rozporządzenia Komisji (UE) nr 651/2014;
+2)
+procedurze innej niż procedura, o której mowa w pkt 1.
+§ 10.
+1.
+Koszty kwalifikujące się do objęcia pomocą ustala się zgodnie z art. 36a ust. 3 rozporządzenia Komisji (UE) nr 651/2014.
+2.
+Kosztami kwalifikującymi się do objęcia pomocą są koszty inwestycji poniesione po dniu złożenia wniosku o udzielenie pomocy.
+3.
+Do obliczania wartości kosztów kwalifikujących się do objęcia pomocą stosuje się art. 7 ust. 1 i 3 rozporządzenia Komisji (UE) nr 651/2014.
+§ 11.
+1.
+W przypadku gdy pomoc jest udzielana w procedurze, o której mowa w § 9 pkt 1, intensywność pomocy nie może przekroczyć 100%.
+2.
+W przypadku gdy pomoc jest udzielana w procedurze, o której mowa w § 9 pkt 2, intensywność pomocy nie może przekroczyć:
+1)
+20% – w przypadku dużego przedsiębiorcy;
+2)
+40% – w przypadku średniego przedsiębiorcy;
+3)
+50% – w przypadku mikroprzedsiębiorcy oraz małego przedsiębiorcy.
+3.
+W okresie obowiązywania mapy pomocy regionalnej, ustalonej w rozporządzeniu Rady Ministrów z dnia 14 grudnia 2021 r. w sprawie ustalenia mapy pomocy regionalnej na lata 2022–2027 (Dz. U. poz. 2422), intensywność pomocy, o której mowa w ust. 2, ulega zwiększeniu o:
+1)
+15 punktów procentowych – gdy inwestycja będzie realizowana na obszarach należących do województw: kujawsko-pomorskiego, lubelskiego, lubuskiego, łódzkiego, małopolskiego, opolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego i zachodniopomorskiego oraz do regionu mazowieckiego regionalnego;
+2)
+5 punktów procentowych – gdy inwestycja będzie realizowana na obszarach należących do województw dolnośląskiego i wielkopolskiego oraz następujących gmin należących do regionu warszawskiego stołecznego: Baranów, Błonie, Dąbrówka, Dobre, Góra Kalwaria, Grodzisk Mazowiecki, Jadów, Jaktorów, Kałuszyn, Kampinos, Kołbiel, Latowicz, Leoncin, Leszno, Mrozy, Nasielsk, Osieck, Prażmów, Serock, Siennica, Sobienie-Jeziory, Strachówka, Tarczyn, Tłuszcz, Zakroczym i Żabia Wola.
+§ 12.
+Całkowita wartość pomocy udzielanej zgodnie z niniejszym rozporządzeniem przedsiębiorcy, z uwzględnieniem związków, o których mowa w art. 3 ust. 3 załącznika I do rozporządzenia Komisji (UE) nr 651/2014, nie może przekroczyć limitu, o którym mowa w art. 36a ust. 7 tego rozporządzenia.
+§ 13.
+1.
+Pomoc sumuje się z inną pomocą publiczną lub pomocą de minimis , udzielaną na te same koszty kwalifikujące się do objęcia pomocą, bez względu na jej formę i źródło pochodzenia, w tym z pomocą udzielaną ze środków pochodzących z budżetu Unii Europejskiej.
+2.
+W przypadku gdy na te same koszty kwalifikujące się do objęcia pomocą zostało udzielone finansowanie Unii Europejskiej zarządzane centralnie, o którym mowa w art. 8 ust. 2 rozporządzenia Komisji (UE) nr 651/2014, stosuje się zasady kumulacji określone w tym przepisie.
+3.
+W przypadku gdy na te same koszty kwalifikujące się do objęcia pomocą zostało udzielone dofinansowanie przy wsparciu z Funduszu InvestEU, o którym mowa w sekcji 16 rozdziału III rozporządzenia Komisji (UE) nr 651/2014, stosuje się zasady kumulacji określone w art. 8 ust. 3 lit. b akapit drugi-czwarty rozporządzenia Komisji (UE) nr 651/2014.
+§ 14.
+1.
+Rozporządzenie nie ma zastosowania do pomocy, której całkowita wartość przekracza 30 mln euro na przedsiębiorcę na inwestycję.
+2.
+Kwoty wyrażone w euro przelicza się na złote według średniego kursu ogłoszonego przez Narodowy Bank Polski w dniu udzielenia pomocy.
+§ 15.
+Pomoc jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4 zdanie pierwsze w związku z art. 59 rozporządzenia Komisji (UE) nr 651/2014.
+§ 16.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 553, 967, 1506, 1597, 1681, 1688, 1762, 1890, 1963 i 2029.
 

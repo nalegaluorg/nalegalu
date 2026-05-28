@@ -1,0 +1,191 @@
+---
+title: "Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 22 grudnia 2015 r. zmieniające rozporządzenie w sprawie zakresu informacji o okolicznościach mających wpływ na prawo do zasiłków z ubezpieczenia społecznego w razie choroby i macierzyństwa lub ich wysokość oraz dokumentów niezbędnych do przyznania i wypłaty zasiłków"
+address: WDU20150002253
+eli: DU/2015/2253
+publisher: DU
+year: 2015
+pos: 2253
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 22 grudnia 2015 r. zmieniające rozporządzenie w sprawie zakresu informacji o okolicznościach mających wpływ na prawo do zasiłków z ubezpieczenia społecznego w razie choroby i macierzyństwa lub ich wysokość oraz dokumentów niezbędnych do przyznania i wypłaty zasiłków
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2015 poz. 2253 |
+| ISAP | WDU20150002253 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2015-12-22 |
+| Data wydania | 2015-12-29 |
+| Wejście w życie | 2016-01-02 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002253) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2253/text.pdf) |
+
+Treść rozporządzenia
+Na podstawie art. 61b ust. 6 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2014 r. poz. 159, z późn. zm.) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Ministra Rodziny, Pracy i Polityki Społecznej z dnia 8 grudnia 2015 r. w sprawie zakresu informacji o okolicznościach mających wpływ na prawo do zasiłków z ubezpieczenia społecznego w razie choroby i macierzyństwa lub ich wysokość oraz dokumentów niezbędnych do przyznania i wypłaty zasiłków (Dz. U. poz. 2205) wprowadza się następujące zmiany:
+1)
+w § 12:
+a)
+w ust. 1:
+– pkt 2 otrzymuje brzmienie: „ 2) zaświadczenie sądu opiekuńczego o dacie wystąpienia do sądu o przysposobienie dziecka zawierające datę urodzenia dziecka lub jego kopia potwierdzona za zgodność z oryginałem przez płatnika składek albo przez Zakład, lub kopia wniosku o wszczęcie postępowania w sprawie przysposobienia dziecka, zawierającego datę urodzenia dziecka, z poświadczeniem sądu opiekuńczego o dacie wystąpienia do sądu; ” ,
+– w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „ 3) decyzja ostateczna o odroczeniu obowiązku szkolnego lub jej kopia potwierdzona za zgodność z oryginałem przez płatnika składek albo przez Zakład, w przypadku gdy wniosek dotyczy dziecka, wobec którego podjęto taką decyzję. ” ,
+b)
+w ust. 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu:
+„
+3)
+decyzja ostateczna o odroczeniu obowiązku szkolnego lub jej kopia potwierdzona za zgodność z oryginałem przez płatnika składek albo przez Zakład, w przypadku gdy wniosek dotyczy dziecka, wobec którego podjęto taką decyzję.
+” ;
+2)
+w § 14 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Dokumentami niezbędnymi do zaniechania wypłaty zasiłku macierzyńskiego w związku z rezygnacją z pobierania zasiłku macierzyńskiego przez ubezpieczoną matkę dziecka za okres ustalony przepisami Kodeksu pracy jako okres urlopu macierzyńskiego w przypadku, o którym mowa w art. 180 § 4 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.), są: ” ;
+3)
+po § 14 dodaje się § 14a w brzmieniu:
+„
+§ 14a.
+Dokumentem niezbędnym do zaniechania wypłaty zasiłku macierzyńskiego w przypadku umieszczenia dziecka na podstawie orzeczenia sądu w pieczy zastępczej, zakładzie opiekuńczo-leczniczym, zakładzie pielęgnacyjno-opiekuńczym albo zakładzie rehabilitacji leczniczej jest, złożone w formie papierowej lub w formie dokumentu elektronicznego uwierzytelnionego z wykorzystaniem kwalifikowanego certyfikatu lub profilu zaufanego ePUAP na elektroniczną skrzynkę podawczą Zakładu, oświadczenie ubezpieczonej matki dziecka o dacie umieszczenia dziecka w pieczy zastępczej, zakładzie opiekuńczo-leczniczym, zakładzie pielęgnacyjno-opiekuńczym albo zakładzie rehabilitacji leczniczej.
+” ;
+4)
+§ 16 otrzymuje brzmienie:
+„
+§ 16.
+Dokumentami niezbędnymi do zaniechania wypłaty zasiłku macierzyńskiego w związku z rezygnacją z pobierania zasiłku macierzyńskiego za okres ustalony przepisami Kodeksu pracy jako okres urlopu macierzyńskiego przez ubezpieczoną matkę dziecka, legitymującą się orzeczeniem o niezdolności do samodzielnej egzystencji, są:
+1)
+złożone w formie papierowej lub w formie dokumentu elektronicznego uwierzytelnionego z wykorzystaniem kwalifikowanego certyfikatu lub profilu zaufanego ePUAP na elektroniczną skrzynkę podawczą Zakładu, oświadczenie ubezpieczonej, od kiedy ubezpieczony ojciec dziecka albo ubezpieczony inny członek najbliższej rodziny będzie korzystał z uprawnień do zasiłku macierzyńskiego;
+2)
+złożone w formie papierowej lub w formie dokumentu elektronicznego uwierzytelnionego z wykorzystaniem kwalifikowanego certyfikatu lub profilu zaufanego ePUAP na elektroniczną skrzynkę podawczą Zakładu, zaświadczenie pracodawcy o dacie zaprzestania korzystania z urlopu macierzyńskiego – w przypadku pracownicy, której zasiłek macierzyński jest wypłacany przez Zakład;
+3)
+złożony w formie papierowej lub w formie dokumentu elektronicznego uwierzytelnionego z wykorzystaniem kwalifikowanego certyfikatu lub profilu zaufanego ePUAP na elektroniczną skrzynkę podawczą Zakładu, wniosek ubezpieczonej zawierający datę, od której rezygnuje ona z pobierania zasiłku macierzyńskiego – w przypadku ubezpieczonej niebędącej pracownikiem;
+4)
+orzeczenie o niezdolności ubezpieczonej matki dziecka do samodzielnej egzystencji lub jego kopia potwierdzona za zgodność z oryginałem przez płatnika składek albo przez Zakład.
+” ;
+5)
+w § 18 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Dokumentami niezbędnymi do przyznania i wypłaty zasiłku macierzyńskiego ubezpieczonemu ojcu dziecka lub ubezpieczonemu innemu członkowi najbliższej rodziny z tytułu sprawowania osobistej opieki nad dzieckiem za okres, o którym mowa w art. 180 § 10 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, są: ” ;
+6)
+w § 19:
+a)
+w ust. 1 pkt 2 i 3 otrzymują brzmienie:
+„
+2)
+złożone w formie papierowej lub w formie dokumentu elektronicznego uwierzytelnionego z wykorzystaniem kwalifikowanego certyfikatu lub profilu zaufanego ePUAP na elektroniczną skrzynkę podawczą Zakładu, oświadczenie ubezpieczonej o dacie, od której ubezpieczony ojciec dziecka albo ubezpieczony inny członek najbliższej rodziny będzie korzystał z uprawnień do zasiłku macierzyńskiego;
+3)
+złożone w formie papierowej lub w formie dokumentu elektronicznego uwierzytelnionego z wykorzystaniem kwalifikowanego certyfikatu lub profilu zaufanego ePUAP na elektroniczną skrzynkę podawczą Zakładu, zaświadczenie pracodawcy o terminie zaprzestania korzystania z urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego lub urlopu rodzicielskiego – w przypadku pracownicy, której zasiłek macierzyński jest wypłacany przez Zakład.
+” ;
+b)
+ust. 2 otrzymuje brzmienie:
+„
+2.
+Dokumentem niezbędnym do podjęcia wypłaty zasiłku macierzyńskiego ubezpieczonej matce dziecka za okres po przerwie w pobieraniu tego zasiłku spowodowanej pobytem ubezpieczonej w placówce leczniczej jest, złożone w formie papierowej lub w formie dokumentu elektronicznego uwierzytelnionego z wykorzystaniem kwalifikowanego certyfikatu lub profilu zaufanego ePUAP na elektroniczną skrzynkę podawczą Zakładu, zaświadczenie płatnika zasiłku o okresie, za który wypłacono zasiłek macierzyński ubezpieczonemu ojcu dziecka albo ubezpieczonemu innemu członkowi najbliższej rodziny, zawierające imię, nazwisko i numer PESEL ubezpieczonego ojca dziecka albo ubezpieczonego innego członka najbliższej rodziny albo serię i numer dokumentu stwierdzającego tożsamość, jeżeli nie nadano numeru PESEL.
+” ;
+7)
+po § 19 dodaje się § 19a w brzmieniu:
+„
+§ 19a.
+Dokumentami niezbędnymi do przyznania i wypłaty zasiłku macierzyńskiego ubezpieczonemu ojcu dziecka z tytułu sprawowania osobistej opieki nad dzieckiem, w związku z podjęciem przez matkę dziecka, nieposiadającą tytułu do objęcia ubezpieczeniem społecznym w razie choroby i macierzyństwa, zatrudnienia w wymiarze nie niższym niż połowa pełnego wymiaru czasu pracy, o której mowa w art. 180 § 17 Kodeksu pracy, są:
+1)
+odpis skrócony aktu urodzenia dziecka lub jego kopia potwierdzona za zgodność z oryginałem przez płatnika składek albo Zakład lub odpowiednio dokumenty, o których mowa w § 12 ust. 1 pkt 1–3 lub ust. 2;
+2)
+zaświadczenie pracodawcy o okresie zatrudnienia i wymiarze czasu pracy matki dziecka zawierające jej imię, nazwisko i numer PESEL albo serię i numer dokumentu stwierdzającego tożsamość, jeżeli nie nadano numeru PESEL lub oświadczenie matki dziecka o dacie podjęcia zatrudnienia w wymiarze nie niższym niż połowa pełnego wymiaru czasu pracy zawierające jej imię, nazwisko i numer PESEL albo serię i numer dokumentu stwierdzającego tożsamość, jeżeli nie nadano numeru PESEL oraz nazwę i NIP pracodawcy;
+3)
+złożone w formie papierowej lub w formie dokumentu elektronicznego uwierzytelnionego z wykorzystaniem kwalifikowanego certyfikatu lub profilu zaufanego ePUAP na elektroniczną skrzynkę podawczą Zakładu, oświadczenie, w którym ubezpieczony:
+a)
+wskazuje datę, od której ma zamiar pobierać zasiłek macierzyński, przypadającą w okresie trwania zatrudnienia matki dziecka,
+b)
+zobowiązuje się poinformować płatnika zasiłku o ustaniu zatrudnienia matki dziecka, jeżeli ustało ono w czasie pobierania przez ubezpieczonego ojca dziecka zasiłku macierzyńskiego za okres ustalony przepisami Kodeksu pracy jako okres urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego lub urlopu rodzicielskiego.
+” ;
+8)
+uchyla się § 20;
+9)
+§ 21 otrzymuje brzmienie:
+„
+§ 21.
+Dokumentami niezbędnymi do wypłaty kwoty podwyższenia zasiłku macierzyńskiego do wysokości świadczenia rodzicielskiego są, składane w formie papierowej lub w formie dokumentu elektronicznego uwierzytelnionego z wykorzystaniem kwalifikowanego certyfikatu lub profilu zaufanego ePUAP na elektroniczną skrzynkę podawczą Zakładu:
+1)
+oświadczenie ubezpieczonego, w którym wskazuje czy zasiłek macierzyński przysługuje mu z więcej niż jednego tytułu, a jeżeli tak, to który płatnik jest zobowiązany do wypłacenia kwoty podwyższenia zasiłku macierzyńskiego oraz potwierdza, że podwyższenie zasiłku macierzyńskiego nie jest pobierane z innego tytułu;
+2)
+zaświadczenia pozostałych płatników zasiłku za miesiąc, w którym przysługuje podwyższenie zasiłku do kwoty świadczenia rodzicielskiego, zawierające informacje o okresie przysługującego zasiłku oraz o miesięcznej kwocie zasiłku po pomniejszeniu o zaliczkę na podatek dochodowy od osób fizycznych oraz za miesiące, w których nastąpiła zmiana w wysokości przysługującego zasiłku macierzyńskiego i jego okresie.
+” ;
+10)
+w § 22 pkt 2 otrzymuje brzmienie:
+„
+2)
+złożone w formie papierowej lub w formie dokumentu elektronicznego uwierzytelnionego z wykorzystaniem kwalifikowanego certyfikatu lub profilu zaufanego ePUAP na elektroniczną skrzynkę podawczą Zakładu, zaświadczenie pracodawcy o okresie udzielonego urlopu rodzicielskiego oraz zaświadczenie pracodawcy o okresie i wymiarze czasu pracy wykonywanej w czasie urlopu rodzicielskiego zawierające informację, czy i w jakim wymiarze pracownik będzie wykonywał pracę w okresie urlopu rodzicielskiego wydłużonego zgodnie z art. 1821f § 3–7 Kodeksu pracy – w przypadku pracownika, któremu zasiłek macierzyński jest wypłacany przez Zakład;
+” ;
+11)
+uchyla się § 23;
+12)
+w § 24:
+a)
+pkt 3 otrzymuje brzmienie:
+„
+3)
+złożone w formie papierowej lub w formie dokumentu elektronicznego uwierzytelnionego z wykorzystaniem kwalifikowanego certyfikatu lub profilu zaufanego ePUAP na elektroniczną skrzynkę podawczą Zakładu, zaświadczenie pracodawcy o okresie i wymiarze czasu pracy wykonywanej w czasie urlopu rodzicielskiego zawierające informację, czy i w jakim wymiarze pracownik będzie wykonywał pracę w czasie urlopu rodzicielskiego wydłużonego zgodnie z art. 1821f § 3–7 Kodeksu pracy – w przypadku pracownika, któremu zasiłek macierzyński jest wypłacany przez Zakład;
+” ;
+b)
+pkt 5 otrzymuje brzmienie:
+„
+5)
+odpis skrócony aktu urodzenia dziecka albo jego kopia potwierdzona za zgodność z oryginałem przez płatnika składek albo przez Zakład, albo
+” ,
+c)
+po pkt 5 dodaje się pkt 6–8 w brzmieniu:
+„
+6)
+złożone w formie papierowej lub w formie dokumentu elektronicznego uwierzytelnionego z wykorzystaniem kwalifikowanego certyfikatu lub profilu zaufanego ePUAP na elektroniczną skrzynkę podawczą Zakładu, oświadczenie ubezpieczonego, kiedy dziecko zostało przyjęte na wychowanie oraz kopia wniosku o wszczęcie postępowania w sprawie przysposobienia dziecka, zawierającego datę urodzenia dziecka, z poświadczeniem sądu opiekuńczego o dacie wystąpienia do sądu, lub zaświadczenie sądu opiekuńczego o wystąpieniu do sądu o przysposobienie dziecka, zawierające datę urodzenia dziecka, albo jego kopia potwierdzona za zgodność z oryginałem przez płatnika składek albo przez Zakład, albo
+7)
+prawomocne orzeczenie sądu opiekuńczego o umieszczeniu dziecka w rodzinie zastępczej albo umowa cywilnoprawna zawarta między rodziną zastępczą a starostą albo kopie tych dokumentów potwierdzone za zgodność z oryginałem przez płatnika składek albo przez Zakład oraz dokument potwierdzający wiek dziecka;
+8)
+decyzja ostateczna o odroczeniu obowiązku szkolnego lub jej kopia potwierdzona za zgodność z oryginałem przez płatnika składek albo przez Zakład, w przypadku gdy wniosek dotyczy dziecka, wobec którego podjęto taką decyzję.
+” ;
+13)
+w § 25:
+a)
+w ust. 1:
+– wprowadzenie do wyliczenia otrzymuje brzmienie: „ Dokumentami niezbędnymi do zaniechania wypłaty zasiłku macierzyńskiego w związku z rezygnacją z pobierania zasiłku macierzyńskiego przez ubezpieczoną matkę dziecka za okres ustalony przepisami Kodeksu pracy jako okres urlopu rodzicielskiego w całości lub w części, w przypadkach, o których mowa w art. 1791§ 4 pkt 1 i art. 1824 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, są: ” ,
+– pkt 2 otrzymuje brzmienie: „ 2) złożone w formie papierowej lub w formie dokumentu elektronicznego uwierzytelnionego z wykorzystaniem kwalifikowanego certyfikatu lub profilu zaufanego ePUAP na elektroniczną skrzynkę podawczą Zakładu, zaświadczenie pracodawcy o terminie zaprzestania korzystania z urlopu rodzicielskiego, w przypadku pracownicy, której zasiłek macierzyński jest wypłacany przez Zakład; ” ,
+b)
+ust. 2 otrzymuje brzmienie:
+„
+2.
+Przepis ust. 1 stosuje się odpowiednio w przypadku rezygnacji z pobierania zasiłku macierzyńskiego przez ubezpieczonego ojca dziecka za okres ustalony przepisami Kodeksu pracy jako okres urlopu rodzicielskiego w całości lub w części, w przypadkach, o których mowa w art. 1791 § 4 pkt 1 i art. 1824 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
+” ;
+14)
+po § 25 dodaje się § 25a w brzmieniu:
+„
+§ 25a.
+Dokumentami niezbędnymi do przyznania i wypłaty zasiłku macierzyńskiego przysługującego ubezpieczonemu za okres ustalony przepisami Kodeksu pracy jako okres urlopu rodzicielskiego, nieprzypadający bezpośrednio po poprzednim okresie wypłaty zasiłku macierzyńskiego, w przypadku, o którym mowa w art. 1821c § 3 Kodeksu pracy, są, złożone w formie papierowej lub w formie dokumentu elektronicznego uwierzytelnionego z wykorzystaniem kwalifikowanego certyfikatu lub profilu zaufanego ePUAP na elektroniczną skrzynkę podawczą Zakładu:
+1)
+oświadczenie ubezpieczonego, zawierające NIP i nazwy płatników zasiłku oraz informacje o okresie, za który wypłacono zasiłek macierzyński za okres ustalony przepisami Kodeksu pracy jako okres urlopu rodzicielskiego, liczbie części wypłaconego zasiłku za okres tego urlopu, okresie, w którym urlop rodzicielski został wydłużony na podstawie art. 1821f Kodeksu pracy, stawce procentowej, w jakiej zasiłek macierzyński został wypłacony oraz czy drugi z rodziców dziecka pobierał zasiłek macierzyński za okres ustalony przepisami Kodeksu pracy jako okres urlopu rodzicielskiego lub
+2)
+zaświadczenia poprzednich płatników zasiłku macierzyńskiego o okresie, za który zasiłek macierzyński za okres ustalony przepisami Kodeksu pracy jako okres urlopu rodzicielskiego wypłacono ubezpieczonemu, liczbie części wypłaconego zasiłku za okres tego urlopu, okresie, w którym urlop rodzicielski został wydłużony na podstawie art. 1821f Kodeksu pracy oraz stawce procentowej, w jakiej zasiłek macierzyński został wypłacony, oraz oświadczenie ubezpieczonego, w którym informuje czy drugi z rodziców dziecka pobierał zasiłek macierzyński za okres ustalony przepisami Kodeksu pracy jako okres urlopu rodzicielskiego;
+3)
+zaświadczenie płatnika zasiłku o okresie, za który zasiłek macierzyński za okres ustalony przepisami Kodeksu pracy jako okres urlopu rodzicielskiego wypłacono drugiemu z rodziców dziecka, liczbie części wypłaconego zasiłku za okres ustalony przepisami Kodeksu pracy jako okres urlopu rodzicielskiego, okresie, w którym urlop rodzicielski został wydłużony na podstawie art. 1821f Kodeksu pracy oraz stawce procentowej, w jakiej zasiłek macierzyński został wypłacony drugiemu z rodziców dziecka, zawierające imię, nazwisko, numer PESEL tego rodzica albo serię i numer dokumentu stwierdzającego tożsamość, jeżeli nie nadano numeru PESEL lub oświadczenie drugiego z rodziców dziecka zawierające powyższe dane i wskazujące NIP i nazwę płatnika.
+” ;
+15)
+w § 26 pkt 2 otrzymuje brzmienie:
+„
+2)
+złożone w formie papierowej lub w formie dokumentu elektronicznego uwierzytelnionego z wykorzystaniem kwalifikowanego certyfikatu lub profilu zaufanego ePUAP na elektroniczną skrzynkę podawczą Zakładu, oświadczenie ubezpieczonego czy zasiłek macierzyński za okres urlopu ojcowskiego został pobrany z innego tytułu;
+” ;
+16)
+w § 30:
+a)
+pkt 3 otrzymuje brzmienie:
+„
+3)
+orzeczenie o niezdolności ubezpieczonej matki dziecka do samodzielnej egzystencji lub jego kopia potwierdzona za zgodność z oryginałem przez płatnika składek albo przez Zakład;
+” ;
+b)
+w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu:
+„
+4)
+złożone w formie papierowej lub w formie dokumentu elektronicznego uwierzytelnionego z wykorzystaniem kwalifikowanego certyfikatu lub profilu zaufanego ePUAP na elektroniczną skrzynkę podawczą Zakładu, oświadczenie ubezpieczonego o porzuceniu dziecka przez matkę dziecka, zawierające datę porzucenia.
+” .
+§ 2.
+Rozporządzenie wchodzi w życie z dniem 2 stycznia 2016 r. z wyjątkiem § 1 pkt 9, który wchodzi w życie z dniem 1 stycznia 2016 r. oraz § 1 pkt 3, który wchodzi w życie z dniem 22 lutego 2016 r.
+

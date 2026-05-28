@@ -2,42 +2,23 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 3 lutego 1993 r. o restrukturyzacji finansowej przedsiębiorstw i banków oraz o zmianie niektórych ustaw.*
 
-Łącznie: **10** orzeczeń
-(pominięto 1 orzeczeń sądów rejonowych)
+Łącznie: **5** orzeczeń
 
 ## art. 5 (1)
 
 - 1995-06-27 | TK | [K 4/94](https://www.saos.org.pl/judgments/205641) | Wyrok ★
 
-## art. 11 (2)
+## art. 11 (1)
 
 - 2008-02-28 | SN | [III CZP 150/07](https://www.saos.org.pl/judgments/87465) | Uchwała ★
-- 2010-10-29 | SN | [I CSK 699/09](https://www.saos.org.pl/judgments/93236) | Wyrok ★
 
-## art. 14 (1)
+## art. 20 (1)
 
-- 2010-10-29 | SN | [I CSK 699/09](https://www.saos.org.pl/judgments/93236) | Wyrok ★
-
-## art. 20 (2)
-
-- 2010-10-29 | SN | [I CSK 699/09](https://www.saos.org.pl/judgments/93236) | Wyrok ★
 - 2005-07-13 | SN | [I UK 292/04](https://www.saos.org.pl/judgments/83589) | Wyrok ★
-
-## art. 23 (1)
-
-- 2008-12-16 | SN | [III CZP 102/08](https://www.saos.org.pl/judgments/89375) | Uchwała ★
 
 ## art. 24 (1)
 
 - 1995-06-27 | TK | [K 4/94](https://www.saos.org.pl/judgments/205641) | Wyrok ★
-
-## art. 25 (1)
-
-- 2010-10-29 | SN | [I CSK 699/09](https://www.saos.org.pl/judgments/93236) | Wyrok ★
-
-## art. 28 (1)
-
-- 2008-12-16 | SN | [III CZP 102/08](https://www.saos.org.pl/judgments/89375) | Uchwała ★
 
 ## art. 34 (2)
 
@@ -51,10 +32,4 @@ Orzeczenia powołujące: *Ustawa z dnia 3 lutego 1993 r. o restrukturyzacji fina
 ## art. 54 (1)
 
 - 1995-03-20 | TK | [U 10/94](https://www.saos.org.pl/judgments/205670) | Postanowienie ★
-
-## (ogólnie) (3)
-
-- 2016-04-26 | SO | [III AUa 2056/15](https://www.saos.org.pl/judgments/226007) | Wyrok
-- 2015-02-26 | SO | [I ACa 1705/14](https://www.saos.org.pl/judgments/227035) | Wyrok
-- 2021-03-25 | SO | [XIV C 894/18](https://www.saos.org.pl/judgments/441656) | Wyrok
 

@@ -8,10 +8,10 @@ pos: 761
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Poz.
+# Rozporządzenie Rady Ministrówz dnia 21 kwietnia 2023 r. zmieniające rozporządzenie w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa
 
 | Pole | Wartość |
 |---|---|
@@ -22,52 +22,135 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2023-04-21 |
 | Data wydania | 2023-04-21 |
+| Wejście w życie | 2023-04-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000761) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/761/text.pdf) |
 
-ROZPORZĄDZENIE RADY MINISTRÓW z 21 kwietnia zmieniające rozporządzenie sprawie szczegółowego zakresu sposobów realizacji niektórych zadań Restrukturyzacji Modernizacji Rolnictwa Na podstawie art. 4 6 ustawy z 9 maja 2008 Restrukturyzacji Modernizacji Rolnictwa (Dz. U.
-z 2022 poz. 2157 2727 z poz. 412 588) zarządza się, co następuje: § 1. W rozporządzeniu Rady Ministrów z 27 stycznia 2015 sprawie szczegółowego zakresu sposobów realizacji niektórych zadań Restrukturyzacji Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm. ) wprowadza się następujące zmiany:
-1) § 13zt:
-a) 3 wyrazy „30 czerwca” zastępuje się wyrazami „31 maja”,
-b) 4 pkt 4 lit. b 5 wyrazy „15 grudnia 2022 do 31 maja” zastępuje się wyrazami „1 grudnia 2022 do 14 kwietnia”;
-2) po § 13zv dodaje się § 13zw § 13zx brzmieniu: „§ 13zw. 1. W Agencja udziela pomocy finansowej realizację innych zadań wynikających z polityki państwa zakresie rolnictwa rozwoju wsi, § 2 pkt 6, producentowi rolnemu:
-1) któremu został nadany numer identyfikacyjny trybie przepisów krajowym ewidencji producentów, ewidencji ewidencji płatności;
-2) będącemu mikroprzedsiębiorstwem, małym albo średnim przedsiębiorstwem rozumieniu załącznika I do rozporządzenia Komisji (UE) 2022/2472 z 14 grudnia 2022 uznającego niektóre kategorie pomocy sektorach leśnym obszarach wiejskich za zgodne z rynkiem wewnętrznym zastosowaniu art. 107 108 Traktatu funkcjonowaniu Unii Europejskiej;
-3) któremu zagraża utrata płynności finansowej związku z zakłóceniami rynku spowodowanymi agresją Federacji Rosyjskiej wobec Ukrainy;
-4) który złożył 2022 wniosek płatności rozumieniu przepisów płatnościach ramach systemów wsparcia bezpośredniego;
-5) który prowadzi gospodarstwo rolne rozumieniu przepisów podatku powierzchni do 300 ha użytków rolnych.
-2. 1, jest udzielana do wysokości środków przewidzianych realizację tej pomocy
-6. Wniosek, którym 3 pkt 1, zawiera:
-1) imię nazwisko, adres albo nazwę, siedzibę adres producenta ubiegającego się pomoc, 1;
-2) numer identyfikacyjny producenta ubiegającego się pomoc, 1, nadany trybie przepisów krajowym ewidencji producentów, ewidencji ewidencji płatności;
-3) numer identyfikacyjny powszechnego elektronicznego systemu ewidencji ludności (numer PESEL) numer identyfikacji podatkowej (NIP) producenta ubiegającego się pomoc, 1, jeżeli został nadany, a przypadku osób fizycznych nieposiadających numeru PESEL – numer paszportu albo innego dokumentu stwierdzającego tożsamość;
-4) oświadczenie producenta ubiegającego się pomoc, 1:
-a) zagrożeniu utratą płynności finansowej związku z zakłóceniami rynku spowodowanymi agresją Federacji Rosyjskiej wobec Ukrainy,
-b) dokonaniu sprzedaży pszenicy podmiotom prowadzącym działalność zakresie obrotu zbożami, skupu lub przetwórstwa zbóż okresie od 15 kwietnia do 15 czerwca
-7. Do wniosku, którym 3 pkt 1, dołącza się kopie faktur VAT lub ich duplikaty potwierdzające sprzedaż pszenicy podmiotom prowadzącym działalność zakresie obrotu zbożami, skupu lub przetwórstwa zbóż okresie od 15 kwietnia do 15 czerwca
-8. Wysokość pomocy, 1, nie może przekroczyć iloczynu stawki pomocy powierzchni upraw pszenicy:
-1) do producent rolny otrzymał płatności rozumieniu przepisów płatnościach ramach systemów wsparcia bezpośredniego za 2022 r., pomniejszonej powierzchnię upraw pszenicy, do producentowi rolnemu przyznano pomoc, § 13zt 1;
-2) stanowiącej iloraz liczby ton pszenicy wynikającej z dokumentów, których 7, liczby 5,5.
-9. Wysokość stawki, 8, wynosi 2200 zł ha powierzchni upraw pszenicy.
-10. 1, jest wypłacana rachunek producenta wskazany ewidencji producentów, ewidencji ewidencji płatności.
-§ 13zx. 1. W Agencja udziela pomocy finansowej realizację innych zadań wynikających z polityki państwa zakresie rolnictwa rozwoju wsi, § 2 pkt 6, producentowi rolnemu:
-1) któremu został nadany numer identyfikacyjny trybie przepisów krajowym ewidencji producentów, ewidencji ewidencji płatności,
-2) będącemu mikroprzedsiębiorstwem, małym albo średnim przedsiębiorstwem rozumieniu załącznika I do rozporządzenia Komisji (UE) 2022/2472 z 14 grudnia 2022 uznającego niektóre kategorie pomocy sektorach leśnym obszarach wiejskich za zgodne z rynkiem wewnętrznym zastosowaniu art. 107 108 Traktatu funkcjonowaniu Unii Europejskiej,
-3) któremu zagraża utrata płynności finansowej związku z zakłóceniami rynku spowodowanymi agresją Federacji Rosyjskiej wobec Ukrainy,
-4) który złożył wniosek płatności bezpośrednich, których ustawie z
-5. Wniosek, którym 2 pkt 1, zawiera:
-1) imię nazwisko, adres albo nazwę, siedzibę adres producenta ubiegającego się pomoc, 1;
-2) numer identyfikacyjny producenta ubiegającego się pomoc, 1, nadany trybie przepisów krajowym ewidencji producentów, ewidencji ewidencji płatności;
-3) numer identyfikacyjny powszechnego elektronicznego systemu ewidencji ludności (numer PESEL) numer identyfikacji podatkowej (NIP) producenta ubiegającego się pomoc, 1, jeżeli został nadany, a przypadku osób fizycznych nieposiadających numeru PESEL – numer paszportu albo innego dokumentu stwierdzającego tożsamość;
-4) oświadczenie producenta ubiegającego się pomoc, 1:
-a) zagrożeniu utratą płynności finansowej związku z zakłóceniami rynku spowodowanymi agresją Federacji Rosyjskiej wobec Ukrainy,
-b) dokonaniu zakupu okresie od 16 maja 2022 do 31 marca nawozów mineralnych innych niż wapno nawozowe wapno nawozowe zawierające magnez od podmiotów prowadzących działalność zakresie obrotu nawozami lub sprzedaży nawozów.
-6. Do wniosku, którym 2 pkt 1, dołącza się kopie faktur, ich duplikaty lub imienne dokumenty księgowe równoznacznej wartości dowodowej dokumentujące zakup okresie od 16 maja 2022 do 31 marca nawozów mineralnych innych niż wapno nawozowe wapno nawozowe zawierające magnez.
-7. Wysokość pomocy, 1, nie może przekroczyć iloczynu:
-1) deklarowanej przez producenta we wniosku płatności bezpośrednich, których ustawie z 8 lutego Planie Strategicznym dla Wspólnej Polityki Rolnej lata 2023–2027, powierzchni upraw stawki pomocy;
-2) liczby ton nawozów mineralnych innych niż wapno nawozowe wapno nawozowe zawierające magnez, zakupionych okresie od 16 maja 2022 do 31 marca r., różnicy ceny za tonę nawozów mineralnych innych niż wapno nawozowe wapno nawozowe zawierające magnez, zakupionych okresie od 16 maja 2022 do 31 marca r., średniej ceny danego typu nawozu mineralnego ogłoszonej przez ministra właściwego do spraw rolnictwa Biuletynie Informacji Publicznej stronie podmiotowej obsługującego go urzędu.
-8. Wysokość stawki, 7 pkt 1, wynosi:
-1) 500 zł ha powierzchni upraw rolnych, z wyłączeniem traw gruntach ornych łąk pastwisk;
-2) 250 zł ha powierzchni łąk pastwisk traw gruntach ornych, z wyłączeniem powierzchni, które przyznano pomoc finansową ramach działania „Działanie rolno-środowiskowo-klimatyczne” objętego Programem Rozwoju Obszarów Wiejskich lata 2014–2020, za realizację zobowiązań rolno-środowiskowo-klimatycznych, ramach których obowiązuje całkowity zakaz nawożenia.
-9. W przypadku gdy złożonych wniosków, których 2 pkt 1, wynika, że zapotrzebowanie pomoc, 1, przekracza łącznie kwotę 4,7 mld zł, do obliczenia wysokości tej pomocy stosuje się współczynnik korygujący. Współczynnik korygujący stanowi iloraz kwoty 4,7 mld zł kwoty równej zapotrzebowaniu Prezes Rady Ministrów: M. Morawiecki
+Treść rozporządzenia
+Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2022 r. poz. 2157 i 2727 oraz z 2023 r. poz. 412 i 588) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm.) wprowadza się następujące zmiany:
+1)
+w § 13zt:
+a)
+w ust. 3 wyrazy „30 czerwca” zastępuje się wyrazami „31 maja”,
+b)
+w ust. 4 w pkt 4 w lit. b i w ust. 5 wyrazy „15 grudnia 2022 r. do dnia 31 maja” zastępuje się wyrazami „1 grudnia 2022 r. do dnia 14 kwietnia”;
+2)
+po § 13zv dodaje się § 13zw i § 13zx w brzmieniu:
+„
+§ 13zw.
+1.
+W 2023 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, producentowi rolnemu:
+1)
+któremu został nadany numer identyfikacyjny w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności;
+2)
+będącemu mikroprzedsiębiorstwem, małym albo średnim przedsiębiorstwem w rozumieniu załącznika I do rozporządzenia Komisji (UE) 2022/2472 z dnia 14 grudnia 2022 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej;
+3)
+któremu zagraża utrata płynności finansowej w związku z zakłóceniami na rynku rolnym spowodowanymi agresją Federacji Rosyjskiej wobec Ukrainy;
+4)
+który złożył w 2022 r. wniosek o przyznanie płatności w rozumieniu przepisów o płatnościach w ramach systemów wsparcia bezpośredniego;
+5)
+który prowadzi gospodarstwo rolne w rozumieniu przepisów o podatku rolnym o powierzchni do 300 ha użytków rolnych.
+2.
+Pomoc, o której mowa w ust. 1, jest udzielana do wysokości środków przewidzianych na realizację tej pomocy w planie finansowym Agencji, według kolejności złożenia wniosków, o których mowa w ust. 3 pkt 1.
+3.
+Pomoc, o której mowa w ust. 1, jest przyznawana:
+1)
+na wniosek producenta rolnego złożony do kierownika biura powiatowego Agencji właściwego ze względu na miejsce zamieszkania albo siedzibę producenta rolnego na formularzu opracowanym przez Agencję i udostępnionym na jej stronie internetowej;
+2)
+w wysokości ustalonej zgodnie z ust. 8 i 9.
+4.
+Wniosek, o którym mowa w ust. 3 pkt 1, składa się raz do dnia 31 lipca 2023 r.
+5.
+W przypadku złożenia wniosku, o którym mowa w ust. 3 pkt 1, po dniu 31 lipca 2023 r. nie wszczyna się postępowania w sprawie przyznania pomocy, o której mowa w ust. 1.
+6.
+Wniosek, o którym mowa w ust. 3 pkt 1, zawiera:
+1)
+imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres producenta rolnego ubiegającego się o pomoc, o której mowa w ust. 1;
+2)
+numer identyfikacyjny producenta rolnego ubiegającego się o pomoc, o której mowa w ust. 1, nadany w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności;
+3)
+numer identyfikacyjny powszechnego elektronicznego systemu ewidencji ludności (numer PESEL) oraz numer identyfikacji podatkowej (NIP) producenta rolnego ubiegającego się o pomoc, o której mowa w ust. 1, jeżeli został nadany, a w przypadku osób fizycznych nieposiadających numeru PESEL – numer paszportu albo innego dokumentu stwierdzającego tożsamość;
+4)
+oświadczenie producenta rolnego ubiegającego się o pomoc, o której mowa w ust. 1:
+a)
+o zagrożeniu utratą płynności finansowej w związku z zakłóceniami na rynku rolnym spowodowanymi agresją Federacji Rosyjskiej wobec Ukrainy,
+b)
+o dokonaniu sprzedaży pszenicy podmiotom prowadzącym działalność w zakresie obrotu zbożami, skupu lub przetwórstwa zbóż w okresie od dnia 15 kwietnia 2023 r. do dnia 15 czerwca 2023 r.
+7.
+Do wniosku, o którym mowa w ust. 3 pkt 1, dołącza się kopie faktur VAT lub ich duplikaty potwierdzające sprzedaż pszenicy podmiotom prowadzącym działalność w zakresie obrotu zbożami, skupu lub przetwórstwa zbóż w okresie od dnia 15 kwietnia 2023 r. do dnia 15 czerwca 2023 r.
+8.
+Wysokość pomocy, o której mowa w ust. 1, nie może przekroczyć iloczynu stawki pomocy i powierzchni upraw pszenicy:
+1)
+do której producent rolny otrzymał płatności w rozumieniu przepisów o płatnościach w ramach systemów wsparcia bezpośredniego za 2022 r., pomniejszonej o powierzchnię upraw pszenicy, do której producentowi rolnemu przyznano pomoc, o której mowa w § 13zt ust. 1;
+2)
+stanowiącej iloraz liczby ton pszenicy wynikającej z dokumentów, o których mowa w ust. 7, i liczby 5,5.
+9.
+Wysokość stawki, o której mowa w ust. 8, wynosi 2200 zł na 1 ha powierzchni upraw pszenicy.
+10.
+Pomoc, o której mowa w ust. 1, jest wypłacana na rachunek producenta rolnego wskazany w systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności.
+§ 13zx.
+1.
+W 2023 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, producentowi rolnemu:
+1)
+któremu został nadany numer identyfikacyjny w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności,
+2)
+będącemu mikroprzedsiębiorstwem, małym albo średnim przedsiębiorstwem w rozumieniu załącznika I do rozporządzenia Komisji (UE) 2022/2472 z dnia 14 grudnia 2022 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej,
+3)
+któremu zagraża utrata płynności finansowej w związku z zakłóceniami na rynku rolnym spowodowanymi agresją Federacji Rosyjskiej wobec Ukrainy,
+4)
+który w 2023 r. złożył wniosek o przyznanie płatności bezpośrednich, o których mowa w ustawie z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412),
+5)
+który prowadzi gospodarstwo rolne w rozumieniu przepisów o podatku rolnym o powierzchni do 300 ha użytków rolnych
+na dofinansowanie zakupu w okresie od dnia 16 maja 2022 r. do dnia 31 marca 2023 r. nawozów mineralnych innych niż wapno nawozowe i wapno nawozowe zawierające magnez od podmiotów prowadzących działalność w zakresie obrotu nawozami lub sprzedaży nawozów.
+2.
+Pomoc, o której mowa w ust. 1, jest przyznawana:
+1)
+na wniosek producenta rolnego złożony do kierownika biura powiatowego Agencji właściwego ze względu na miejsce zamieszkania albo siedzibę producenta rolnego na formularzu opracowanym przez Agencję i udostępnionym na jej stronie internetowej;
+2)
+w wysokości ustalonej zgodnie z ust. 7 i 8.
+3.
+Wniosek, o którym mowa w ust. 2 pkt 1, składa się raz do dnia 14 lipca 2023 r.
+4.
+W przypadku złożenia wniosku, o którym mowa w ust. 2 pkt 1, po dniu 14 lipca 2023 r., nie wszczyna się postępowania w sprawie przyznania pomocy, o której mowa w ust. 1.
+5.
+Wniosek, o którym mowa w ust. 2 pkt 1, zawiera:
+1)
+imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres producenta rolnego ubiegającego się o pomoc, o której mowa w ust. 1;
+2)
+numer identyfikacyjny producenta rolnego ubiegającego się o pomoc, o której mowa w ust. 1, nadany w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności;
+3)
+numer identyfikacyjny powszechnego elektronicznego systemu ewidencji ludności (numer PESEL) oraz numer identyfikacji podatkowej (NIP) producenta rolnego ubiegającego się o pomoc, o której mowa w ust. 1, jeżeli został nadany, a w przypadku osób fizycznych nieposiadających numeru PESEL – numer paszportu albo innego dokumentu stwierdzającego tożsamość;
+4)
+oświadczenie producenta rolnego ubiegającego się o pomoc, o której mowa w ust. 1:
+a)
+o zagrożeniu utratą płynności finansowej w związku z zakłóceniami na rynku rolnym spowodowanymi agresją Federacji Rosyjskiej wobec Ukrainy,
+b)
+o dokonaniu zakupu w okresie od dnia 16 maja 2022 r. do dnia 31 marca 2023 r. nawozów mineralnych innych niż wapno nawozowe i wapno nawozowe zawierające magnez od podmiotów prowadzących działalność w zakresie obrotu nawozami lub sprzedaży nawozów.
+6.
+Do wniosku, o którym mowa w ust. 2 pkt 1, dołącza się kopie faktur, ich duplikaty lub imienne dokumenty księgowe o równoznacznej wartości dowodowej dokumentujące zakup w okresie od dnia 16 maja 2022 r. do dnia 31 marca 2023 r. nawozów mineralnych innych niż wapno nawozowe i wapno nawozowe zawierające magnez.
+7.
+Wysokość pomocy, o której mowa w ust. 1, nie może przekroczyć iloczynu:
+1)
+deklarowanej przez producenta rolnego we wniosku o przyznanie płatności bezpośrednich, o których mowa w ustawie z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027, powierzchni upraw rolnych i stawki pomocy;
+2)
+liczby ton nawozów mineralnych innych niż wapno nawozowe i wapno nawozowe zawierające magnez, zakupionych w okresie od dnia 16 maja 2022 r. do dnia 31 marca 2023 r., i różnicy ceny za tonę nawozów mineralnych innych niż wapno nawozowe i wapno nawozowe zawierające magnez, zakupionych w okresie od dnia 16 maja 2022 r. do dnia 31 marca 2023 r., oraz średniej ceny danego typu nawozu mineralnego ogłoszonej przez ministra właściwego do spraw rolnictwa w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu.
+8.
+Wysokość stawki, o której mowa w ust. 7 pkt 1, wynosi:
+1)
+500 zł na 1 ha powierzchni upraw rolnych, z wyłączeniem traw na gruntach ornych oraz łąk i pastwisk;
+2)
+250 zł na 1 ha powierzchni łąk i pastwisk oraz traw na gruntach ornych, z wyłączeniem powierzchni, na które przyznano pomoc finansową w ramach działania „Działanie rolno-środowiskowo-klimatyczne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, za realizację zobowiązań rolno-środowiskowo-klimatycznych, w ramach których obowiązuje całkowity zakaz nawożenia.
+9.
+W przypadku gdy ze złożonych wniosków, o których mowa w ust. 2 pkt 1, wynika, że zapotrzebowanie na pomoc, o której mowa w ust. 1, przekracza łącznie kwotę 4,7 mld zł, do obliczenia wysokości tej pomocy stosuje się współczynnik korygujący. Współczynnik korygujący stanowi iloraz kwoty 4,7 mld zł i kwoty równej zapotrzebowaniu na tę pomoc wynikającemu ze złożonych wniosków oraz jest ustalany z dokładnością do dwóch miejsc po przecinku.
+10.
+Pomoc, o której mowa w ust. 1, jest wypłacana na rachunek producenta rolnego wskazany w systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności.
+” .
+§ 2.
+Do postępowań w sprawach o przyznanie pomocy, o której mowa w § 13zt ust. 1 rozporządzenia zmienianego w § 1, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, przepisy § 13zt rozporządzenia zmienianego w § 1 stosuje się w brzmieniu nadanym przez § 1 pkt 1 niniejszego rozporządzenia.
+§ 3.
+Pomoc publiczna określona w § 13zw ust. 1 i § 13zx ust. 1 rozporządzenia zmienianego w § 1 może być udzielana od dnia ogłoszenia pozytywnej decyzji Komisji Europejskiej o zgodności ze wspólnym rynkiem pomocy publicznej określonej w tych przepisach.
+§ 4.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
 

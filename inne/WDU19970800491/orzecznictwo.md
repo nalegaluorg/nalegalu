@@ -3,7 +3,6 @@
 Orzeczenia powołujące: *Ustawa z dnia 17 lipca 1997 r. o stosowaniu szczególnych rozwiązań w związku z likwidacją skutków powodzi, która miała miejsce w lipcu 1997 r.*
 
 Łącznie: **2** orzeczeń
-(pominięto 2 orzeczeń sądów rejonowych)
 
 ## art. 3 (1)
 

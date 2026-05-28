@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# o Centralnym Biurze Antykorupcyjnym
-
-*USTAWA z dnia 9 czerwca 2006 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 czerwca 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,29 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-02-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000712) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/712/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 10 kwietnia 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o Centralnym Biurze Antykorupcyjnym
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2024 r. poz. 184), z uwzględnieniem zmian wprowadzonych:
+1) ustawą z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U. poz. 1222),
+2) ustawą z dnia 6 grudnia 2024 r. o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw (Dz. U. poz. 1871),
+3) ustawą z dnia 24 stycznia 2025 r. o zmianie ustawy Prawo lotnicze oraz niektórych innych ustaw (Dz. U. poz. 179) oraz zmian wynikających z przepisów ogłoszonych przed dniem 3 kwietnia 2025 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+1) art. 124 ustawy z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U.
+poz. 1222), który stanowi: „Art. 124. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
+1) art. 1, art. 39 pkt 11 lit. b w zakresie art. 16a ust. 4 pkt 2c i 2d, art. 46 pkt 5, art. 52 pkt 1, art. 63, art. 68 ust. 2, art. 80 ust. 3 i 5–8 oraz art. 120, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+2) art. 44 pkt 9 w zakresie art. 20 ust. 1 pkt 2 lit. b, który wchodzi w życie z dniem 1 grudnia 2024 r.;
+3) art. 39 pkt 24 i 27, które wchodzą w życie z dniem 1 stycznia 2025 r.;
+4) art. 39 pkt 31, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;
+5) art. 49 i art. 106, które wchodzą w życie z dniem 18 października 2024 r.”;
+2) art. 26, art. 30 i art. 32 ustawy z dnia 6 grudnia 2024 r. o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw (Dz. U. poz. 1871), które stanowią: „Art. 26. 1. Pracownicy, którzy w dniu wejścia w życie niniejszej ustawy są uprawnieni do korzystania lub korzystają z urlopu macierzyńskiego albo urlopu na warunkach urlopu macierzyńskiego, mają prawo do uzupełniającego urlopu macierzyńskiego, o którym mowa w art. 180 albo art. 183 § 3 ustawy zmienianej w art. 1.
+2. Uzupełniający urlop macierzyński jest udzielany jednorazowo na wniosek składany w postaci papierowej lub elektronicznej przez pracownicę albo pracownika ojca wychowującego dziecko najpóźniej w ostatnim dniu urlopu macierzyńskiego albo urlopu na warunkach urlopu macierzyńskiego.” „Art. 30. Przepisy art. 26 stosuje się odpowiednio do żołnierza zawodowego oraz funkcjonariuszy Policji, Państwowej Straży Pożarnej, Straży Granicznej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura Antykorupcyjnego, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Więziennej, Służby Celno-Skarbowej, Służby Ochrony Państwa i Straży Marszałkowskiej.” „Art. 32. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.”;
+3) art. 33 ustawy z dnia 24 stycznia 2025 r. o zmianie ustawy Prawo lotnicze oraz niektórych innych ustaw (Dz. U.
+poz. 179), który stanowi: „Art. 33. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+1) art. 1 pkt 3 lit. c, art. 7 i art. 20, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+2) art. 1 pkt 25 i 26, które wchodzą w życie po upływie 9 miesięcy od dnia ogłoszenia.”.
+Marszałek Sejmu: wz. P. Zgorzelski
+USTAWA z dnia 9 czerwca 2006 r.
+o Centralnym Biurze Antykorupcyjnym
 Art. 141–210. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
@@ -48,30 +69,26 @@ Art. 141–210. (pominięte)
 
 - **1)** jednostki sektora finansów publicznych w rozumieniu przepisów o finansach publicznych,
 - **2)** jednostki niezaliczanej do sektora finansów publicznych otrzymującej środki publiczne,
-- **3)** przedsiębiorcy z udziałem Skarbu Państwa lub jednostki samorządu terytorialnego – znaczną szkodę w rozumieniu art. 115 § 7 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383).
+- **3)** przedsiębiorcy z udziałem Skarbu Państwa lub jednostki samorządu terytorialnego znaczną szkodę w rozumieniu art. 115 § 7 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2025 r. poz. 383).
 
 **Art. 2.**
 
 1. Do zadań CBA, w zakresie właściwości określonej w art. 1 ust. 1, należy:
 
-- **1)** rozpoznawanie, zapobieganie i wykrywanie przestępstw przeciwko: o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2023 r. poz. 1090 oraz z 2024 r. poz. 1840), o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722 i 1863 oraz z 2025 r. poz. 146), jeżeli pozostają w związku z korupcją lub działalnością godzącą w interesy ekonomiczne państwa,
-    - **a)** działalności instytucji państwowych oraz samorządu terytorialnego, określonych w art. 228–231 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, a także o którym mowa w art. 14 ustawy z dnia 21 sierpnia 1997 r.
-    - **b)** wymiarowi sprawiedliwości, określonych w art. 232, art. 233, art. 234, art. 235, art. 236 § 1 i art. 239 § 1, wyborom i referendum, określonych w art. 250a, porządkowi publicznemu, określonych w art. 258, wiarygodności dokumentów, określonych w art. 270–273 i art. 277a § 1, mieniu, określonych w art. 286, obrotowi gospodarczemu, określonych w art. 296–297, art. 299 i art. 305, obrotowi pieniędzmi i papierami wartościowymi, określonych w art. 310 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, a także o których mowa w art. 586–592 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96) oraz określonych w art. 179–183 ustawy z dnia 29 lipca 2005 r.
-    - **c)** finansowaniu partii politycznych, określonych w art. 49d i 49f ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (Dz. U. z 2023 r. poz.
-
-- **1215)** , jeżeli pozostają w związku z korupcją,
-    - **d)** obowiązkom podatkowym i rozliczeniom z tytułu dotacji i subwencji, określonych w rozdziale 6 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2024 r. poz. 628, z późn. zm. ), jeżeli pozostają w związku z korupcją lub działalnością godzącą w interesy ekonomiczne państwa,
-    - **e)** zasadom rywalizacji sportowej, określonych w art. 46–48 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2024 r. poz. 1488 oraz z 2025 r. poz.
-
-- **28)** ,
-    - **f)** obrotowi lekami, środkami spożywczymi specjalnego przeznaczenia żywieniowego, wyrobami medycznymi określonymi w art. 54 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2024 r. poz. 930 oraz z 2025 r. poz. 129) – oraz ściganie ich sprawców;
+- **1)** rozpoznawanie, zapobieganie i wykrywanie przestępstw przeciwko: poz. 146), jeżeli pozostają w związku z korupcją lub działalnością godzącą w interesy ekonomiczne państwa, z 2024 r. poz. 1488 oraz z 2025 r. poz. 28),
+    - **a)** działalności instytucji państwowych oraz samorządu terytorialnego, określonych w art. 228–231 ustawy z dnia 6 czerwca 1997 r. Kodeks karny, a także o którym mowa w art. 14 ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2023 r. poz. 1090 oraz z 2024 r. poz. 1840),
+    - **b)** wymiarowi sprawiedliwości, określonych w art. 232, art. 233, art. 234, art. 235, art. 236 § 1 i art. 239 § 1, wyborom i referendum, określonych w art. 250a, porządkowi publicznemu, określonych w art. 258, wiarygodności dokumentów, określonych w art. 270–273 i art. 277a § 1, mieniu, określonych w art. 286, obrotowi gospodarczemu, określonych w art. 296–297, art. 299 i art. 305, obrotowi pieniędzmi i papierami wartościowymi, określonych w art. 310 ustawy z dnia 6 czerwca 1997 r. Kodeks karny, a także o których mowa w art. 586–592 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96) oraz określonych w art. 179–183 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722 i 1863 oraz z 2025 r.
+    - **c)** finansowaniu partii politycznych, określonych w art. 49d i 49f ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (Dz. U. z 2023 r. poz. 1215), jeżeli pozostają w związku z korupcją,
+    - **d)** obowiązkom podatkowym i rozliczeniom z tytułu dotacji i subwencji, określonych w rozdziale 6 ustawy z dnia 10 września 1999 r. Kodeks karny skarbowy (Dz. U. z 2024 r. poz. 628, z późn. zm. ), jeżeli pozostają w związku z korupcją lub działalnością godzącą w interesy ekonomiczne państwa,
+    - **e)** zasadom rywalizacji sportowej, określonych w art. 46–48 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U.
+    - **f)** obrotowi lekami, środkami spożywczymi specjalnego przeznaczenia żywieniowego, wyrobami medycznymi określonymi w art. 54 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2024 r. poz. 930 oraz z 2025 r. poz. 129) oraz ściganie ich sprawców;
 
 - **1a)** ujawnianie mienia zagrożonego przepadkiem w związku z przestępstwami, o których mowa w pkt 1;
 - **2)** ujawnianie i przeciwdziałanie przypadkom nieprzestrzegania przepisów ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne;
 - **3)** dokumentowanie podstaw i inicjowanie realizacji przepisów ustawy z dnia 21 czerwca 1990 r. o zwrocie korzyści uzyskanych niesłusznie kosztem Skarbu Państwa lub innych państwowych osób prawnych (Dz. U. poz. 255, z późn. zm. );
 - **4)** ujawnianie przypadków nieprzestrzegania określonych przepisami prawa procedur podejmowania i realizacji decyzji w przedmiocie: prywatyzacji i komercjalizacji, wsparcia finansowego, udzielania zamówień publicznych, rozporządzania mieniem jednostek lub przedsiębiorców, o których mowa w art. 1 ust. 4 oraz przyznawania koncesji, zezwoleń, zwolnień podmiotowych i przedmiotowych, ulg, preferencji, kontyngentów, plafonów, poręczeń i gwarancji kredytowych;
 - **4a)** kontrola prawidłowości realizacji umów dotyczących partnerstwa publiczno-prywatnego;
-- **5)** kontrola prawidłowości i prawdziwości oświadczeń majątkowych lub oświadczeń o prowadzeniu działalności gospodarczej osób pełniących funkcje publiczne, o których mowa w art. 115 § 19 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, składanych na podstawie odrębnych przepisów;
+- **5)** kontrola prawidłowości i prawdziwości oświadczeń majątkowych lub oświadczeń o prowadzeniu działalności gospodarczej osób pełniących funkcje publiczne, o których mowa w art. 115 § 19 ustawy z dnia 6 czerwca 1997 r. Kodeks karny, składanych na podstawie odrębnych przepisów;
 - **6)** prowadzenie działalności analitycznej dotyczącej zjawisk występujących w obszarze właściwości CBA oraz przedstawianie w tym zakresie informacji Prezesowi Rady Ministrów, Prezydentowi Rzeczypospolitej Polskiej, Sejmowi oraz Senatowi;
 - **7)** podejmowanie innych działań określonych w odrębnych ustawach i umowach międzynarodowych.
 
@@ -87,11 +104,18 @@ Art. 141–210. (pominięte)
 
 **Art. 3a.** Obowiązku doręczenia korespondencji przy wykorzystaniu publicznej usługi rejestrowanego doręczenia elektronicznego albo publicznej usługi hybrydowej, o których mowa w ustawie z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841), nie stosuje się:
 
+- **1)** w sprawach dotyczących przyjęcia do służby albo pracy w CBA;
+- **2)** w sprawach wynikających ze stosunku służbowego funkcjonariuszy CBA;
+- **3)** w sprawach wynikających ze stosunku pracy pracowników CBA;
+- **4)** w sprawach wynikających ze stosunku służbowego byłych funkcjonariuszy CBA;
+- **5)** w sprawach wynikających ze stosunku pracy byłych pracowników CBA;
+- **6)** jeżeli doręczenie korespondencji przy wykorzystaniu publicznej usługi rejestrowanego doręczenia elektronicznego albo publicznej usługi hybrydowej mogłoby wpłynąć negatywnie na sposób realizacji zadań CBA.
+
 **Art. 4.**
 
 1. Działalność CBA jest finansowana z budżetu państwa.
 
-2. Koszty realizacji zadań CBA, w zakresie których – ze względu na wyłączenie ich jawności – nie mogą być stosowane przepisy o finansach publicznych, rachunkowości i zamówieniach publicznych, są finansowane z utworzonego na ten cel funduszu operacyjnego.
+2. Koszty realizacji zadań CBA, w zakresie których ze względu na wyłączenie ich jawności nie mogą być stosowane przepisy o finansach publicznych, rachunkowości i zamówieniach publicznych, są finansowane z utworzonego na ten cel funduszu operacyjnego.
 
 3. Szef Centralnego Biura Antykorupcyjnego określi, w drodze zarządzenia, stanowiące informacje niejawne szczegółowe zasady tworzenia funduszu operacyjnego, o którym mowa w ust. 2, oraz gospodarowania tym funduszem.
 
@@ -127,7 +151,7 @@ Art. 141–210. (pominięte)
 - **4)** nie była skazana za przestępstwo popełnione umyślnie ścigane z oskarżenia publicznego lub przestępstwo skarbowe;
 - **5)** spełnia wymagania określone w przepisach o ochronie informacji niejawnych w zakresie dostępu do informacji niejawnych o klauzuli tajności „ściśle tajne”;
 - **6)** posiada wyższe wykształcenie;
-- **7)** nie pełniła służby zawodowej, nie pracowała i nie była współpracownikiem organów bezpieczeństwa państwa, wymienionych w art. 5 ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2023 r. poz. 102), ani też nie była sędzią, który orzekając uchybił godności urzędu, sprzeniewierzając się niezawisłości sędziowskiej.
+- **7)** nie pełniła służby zawodowej, nie pracowała i nie była współpracownikiem organów bezpieczeństwa państwa, wymienionych w art. 5 ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2023 r. poz. 102), ani też nie była sędzią, który orzekając uchybił godności urzędu, sprzeniewierzając się niezawisłości sędziowskiej.
 
 2. Funkcji Szefa CBA lub zastępcy Szefa CBA nie można łączyć z inną funkcją publiczną.
 
@@ -136,6 +160,10 @@ Art. 141–210. (pominięte)
 4. Szef CBA lub zastępca Szefa CBA nie może być członkiem partii politycznej ani uczestniczyć w działalności tej partii lub na jej rzecz.
 
 **Art. 8.** Odwołanie Szefa CBA z zajmowanego stanowiska następuje w przypadku:
+
+- **1)** rezygnacji z zajmowanego stanowiska;
+- **2)** niespełniania któregokolwiek z warunków określonych w art. 7;
+- **3)** niewykonywania obowiązków z powodu choroby trwającej nieprzerwanie ponad 3 miesiące.
 
 **Art. 9.** W przypadku zwolnienia stanowiska Szefa CBA lub czasowej niemożności sprawowania przez niego funkcji, Prezes Rady Ministrów może powierzyć pełnienie obowiązków Szefa, na czas nie dłuższy niż 3 miesiące, jego zastępcy lub innej osobie, która spełnia warunki określone w art. 7.
 
@@ -173,13 +201,13 @@ Art. 141–210. (pominięte)
 
 1. W granicach zadań, o których mowa w art. 2, funkcjonariusze CBA wykonują:
 
-- **1)** czynności operacyjno-rozpoznawcze w celu zapobiegania popełnieniu przestępstw, ich rozpoznania i wykrywania oraz – jeżeli istnieje uzasadnione podejrzenie popełnienia przestępstwa – czynności dochodzeniowo-śledcze w celu ścigania sprawców przestępstw;
+- **1)** czynności operacyjno-rozpoznawcze w celu zapobiegania popełnieniu przestępstw, ich rozpoznania i wykrywania oraz jeżeli istnieje uzasadnione podejrzenie popełnienia przestępstwa czynności dochodzeniowo-śledcze w celu ścigania sprawców przestępstw;
 - **2)** czynności kontrolne w celu ujawniania przypadków korupcji w instytucjach państwowych i samorządzie terytorialnym oraz nadużyć osób pełniących funkcje publiczne, a także działalności godzącej w interesy ekonomiczne państwa;
 - **3)** czynności operacyjno-rozpoznawcze i analityczno-informacyjne w celu uzyskiwania i przetwarzania informacji istotnych dla zwalczania korupcji w instytucjach państwowych i samorządzie terytorialnym oraz działalności godzącej w interesy ekonomiczne państwa.
 
-2. CBA wykonuje również czynności na polecenie sądu lub prokuratora w zakresie określonym w ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46 i 304) oraz ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2024 r. poz. 706 i 1907).
+2. CBA wykonuje również czynności na polecenie sądu lub prokuratora w zakresie określonym w ustawie z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46 i 304) oraz ustawie z dnia 6 czerwca 1997 r. Kodeks karny wykonawczy (Dz. U. z 2024 r. poz. 706 i 1907).
 
-3. Funkcjonariusze CBA wykonują czynności tylko w zakresie właściwości CBA i w tym zakresie przysługują im uprawnienia procesowe Policji, wynikające z przepisów ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
+3. Funkcjonariusze CBA wykonują czynności tylko w zakresie właściwości CBA i w tym zakresie przysługują im uprawnienia procesowe Policji, wynikające z przepisów ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego.
 
 4. Funkcjonariusze CBA podczas wykonywania czynności, o których mowa w ust. 1 i 2, mają obowiązek poszanowania godności ludzkiej oraz przestrzegania i ochrony praw człowieka niezależnie od jego narodowości, pochodzenia, sytuacji społecznej, przekonań politycznych lub religijnych albo światopoglądowych.
 
@@ -210,7 +238,7 @@ Art. 141–210. (pominięte)
 7. Na sposób przeprowadzenia czynności, o których mowa w ust. 1:
 
 - **1)** pkt 1, 2, 7 i 8, w terminie 7 dni od dnia dokonania czynności,
-- **2)** pkt 6, w terminie 7 dni od dnia, gdy podmiot dowiedział się o dokonanych wobec niego czynnościach – przysługuje zażalenie do prokuratora właściwego ze względu na miejsce przeprowadzenia czynności. Do zażalenia stosuje się przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego w zakresie dotyczącym postępowania odwoławczego.
+- **2)** pkt 6, w terminie 7 dni od dnia, gdy podmiot dowiedział się o dokonanych wobec niego czynnościach przysługuje zażalenie do prokuratora właściwego ze względu na miejsce przeprowadzenia czynności. Do zażalenia stosuje się przepisy ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego w zakresie dotyczącym postępowania odwoławczego.
 
 8. Materiały z czynności, o których mowa w ust. 1 pkt 6, które nie stanowią informacji potwierdzających popełnienie przestępstwa lub przestępstwa skarbowego, podlegają niezwłocznie protokolarnemu, komisyjnemu zniszczeniu. Zniszczenie materiałów zarządza Szef CBA.
 
@@ -236,7 +264,7 @@ Art. 141–210. (pominięte)
 
 2. Funkcjonariusz dokonuje kontroli osobistej w sposób możliwie najmniej naruszający dobra osobiste osoby kontrolowanej oraz w zakresie niezbędnym w danych okolicznościach do zrealizowania celu dokonywanej kontroli. Podczas sprawdzenia, o którym mowa w ust. 1 pkt 3 i 5, osoba kontrolowana powinna być częściowo ubrana. Funkcjonariusz najpierw sprawdza część odzieży, a przed sprawdzeniem kolejnej części umożliwia osobie kontrolowanej włożenie odzieży już sprawdzonej.
 
-3. Sprawdzenia, o którym mowa w ust. 1 pkt 1–3, można dokonać wzrokowo, manualnie lub z wykorzystaniem psa służbowego lub środków technicznych niezbędnych do wykrywania materiałów i urządzeń, których posiadanie jest zabronione, w szczególności broni, materiałów wybuchowych, środków odurzających, substancji psychotropowych i ich prekursorów, a sprawdzenia, o którym mowa w ust. 1 pkt 4 i 5 – wzrokowo lub manualnie.
+3. Sprawdzenia, o którym mowa w ust. 1 pkt 1–3, można dokonać wzrokowo, manualnie lub z wykorzystaniem psa służbowego lub środków technicznych niezbędnych do wykrywania materiałów i urządzeń, których posiadanie jest zabronione, w szczególności broni, materiałów wybuchowych, środków odurzających, substancji psychotropowych i ich prekursorów, a sprawdzenia, o którym mowa w ust. 1 pkt 4 i 5 wzrokowo lub manualnie.
 
 4. Funkcjonariusz dokonujący kontroli osobistej:
 
@@ -270,7 +298,7 @@ Art. 141–210. (pominięte)
 - **7)** pouczenie osoby kontrolowanej o jej prawach;
 - **8)** w miarę potrzeby stwierdzenie innych okoliczności dotyczących przebiegu czynności.
 
-11. Osobie kontrolowanej przysługuje zażalenie do sądu rejonowego właściwego ze względu na miejsce dokonania kontroli osobistej, w terminie 7 dni od dnia jej dokonania, w celu zbadania zasadności, legalności oraz prawidłowości jej dokonania. Do zażalenia stosuje się odpowiednio przepisy rozdziału 50 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
+11. Osobie kontrolowanej przysługuje zażalenie do sądu rejonowego właściwego ze względu na miejsce dokonania kontroli osobistej, w terminie 7 dni od dnia jej dokonania, w celu zbadania zasadności, legalności oraz prawidłowości jej dokonania. Do zażalenia stosuje się odpowiednio przepisy rozdziału 50 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego.
 
 12. W przypadku stwierdzenia bezzasadności, nielegalności lub nieprawidłowości dokonania kontroli osobistej sąd zawiadamia o tym prokuratora i Szefa CBA.
 
@@ -283,7 +311,7 @@ Art. 141–210. (pominięte)
 - **1)** wzrokowej i manualnej kontroli zawartości bagaży lub ładunków, w tym manualnym sprawdzeniu ładunków, elementów konstrukcyjnych bagaży oraz znajdujących się w nich przedmiotów;
 - **2)** sprawdzeniu bagaży i ładunków z wykorzystaniem psa służbowego lub z wykorzystaniem środków technicznych niezbędnych do wykrywania materiałów i urządzeń zabronionych, w szczególności broni, materiałów wybuchowych, środków odurzających, substancji psychotropowych i ich prekursorów.
 
-2. Czynności, o których mowa w ust. 1, wykonuje się w obecności posiadacza bagaży lub ładunków, a w przypadku gdy nie można ustalić posiadacza bagaży lub ładunków lub w przypadku jego nieobecności – w obecności przedstawiciela przewoźnika, spedytora lub agenta morskiego.
+2. Czynności, o których mowa w ust. 1, wykonuje się w obecności posiadacza bagaży lub ładunków, a w przypadku gdy nie można ustalić posiadacza bagaży lub ładunków lub w przypadku jego nieobecności w obecności przedstawiciela przewoźnika, spedytora lub agenta morskiego.
 
 3. W przypadku bagaży lub ładunków przyjętych do przewozu, czynności, o których mowa w ust. 1, wykonuje się wyłącznie w obecności przedstawiciela przewoźnika, spedytora lub agenta morskiego.
 
@@ -301,7 +329,7 @@ Art. 141–210. (pominięte)
 
 10. Z dokonania czynności, o których mowa w ust. 1, sporządza się protokół w przypadku, gdy posiadacz bagaży lub ładunków lub przedstawiciel przewoźnika, spedytora lub agenta morskiego, w obecności którego dokonano tych czynności, zgłosił takie żądanie bezpośrednio po dokonaniu tych czynności oraz w przypadku, gdy w toku czynności znaleziono broń lub inne poszukiwane przedmioty. Do sporządzenia protokołu stosuje się odpowiednio przepis art. 14aa ust. 10 zdanie drugie.
 
-11. Posiadaczowi bagaży lub ładunków lub przedstawicielowi przewoźnika, spedytora lub agenta morskiego, w obecności którego dokonano czynności określonych w ust. 1, przysługuje zażalenie do sądu rejonowego właściwego ze względu na miejsce dokonania czynności, w terminie 7 dni od dnia jej dokonania, w celu zbadania zasadności, legalności oraz prawidłowości jej dokonania. Do zażalenia stosuje się odpowiednio przepisy rozdziału 50 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego. W przypadku stwierdzenia bezzasadności, nielegalności lub nieprawidłowości dokonania czynności, przepis art. 14aa ust. 12 stosuje się odpowiednio.
+11. Posiadaczowi bagaży lub ładunków lub przedstawicielowi przewoźnika, spedytora lub agenta morskiego, w obecności którego dokonano czynności określonych w ust. 1, przysługuje zażalenie do sądu rejonowego właściwego ze względu na miejsce dokonania czynności, w terminie 7 dni od dnia jej dokonania, w celu zbadania zasadności, legalności oraz prawidłowości jej dokonania. Do zażalenia stosuje się odpowiednio przepisy rozdziału 50 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego. W przypadku stwierdzenia bezzasadności, nielegalności lub nieprawidłowości dokonania czynności, przepis art. 14aa ust. 12 stosuje się odpowiednio.
 
 12. W przypadku gdy w toku czynności, o których mowa w ust. 1, nie znaleziono broni lub poszukiwanych przedmiotów lub gdy posiadacz bagaży lub ładunków, przedstawiciel przewoźnika, spedytora lub agenta morskiego, w obecności którego dokonano tych czynności, nie zażądał sporządzenia protokołu, czynności dokumentuje się w dokumentacji służbowej, określając datę, czas, miejsce i przyczynę ich dokonania, dane osób w nich uczestniczących oraz rodzaj i wynik czynności, a także informację o pouczeniu osoby, o którym mowa w ust. 9.
 
@@ -323,9 +351,9 @@ Art. 141–210. (pominięte)
 
 1. Przy wykonywaniu czynności operacyjno-rozpoznawczych, podejmowanych przez CBA w celu rozpoznawania, zapobiegania i wykrywania przestępstw, uzyskania i utrwalenia dowodów przestępstw, a także ujawnienia mienia zagrożonego przepadkiem w związku z przestępstwami:
 
-- **1)** określonymi w art. 228–231, art. 250a, art. 258, art. 270a § 1 i 2, art. 271a § 1 i 2, art. 277a § 1, art. 286, art. 296–297, art. 299, art. 305, art. 310 § 1, 2 i 4 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny,
+- **1)** określonymi w art. 228–231, art. 250a, art. 258, art. 270a § 1 i 2, art. 271a § 1 i 2, art. 277a § 1, art. 286, art. 296–297, art. 299, art. 305, art. 310 § 1, 2 i 4 ustawy z dnia 6 czerwca 1997 r. Kodeks karny,
 - **2)** skarbowymi, o których mowa w art. 2 ust. 1 pkt 1 lit. d, jeżeli wartość przedmiotu czynu lub uszczuplenie należności publicznoprawnej przekraczają pięćdziesięciokrotną wysokość minimalnego wynagrodzenia za pracę określonego na podstawie przepisów ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773),
-- **3)** określonymi w art. 232, art. 233 § 1, 1a, 4 i 6, art. 234, art. 235, art. 236 § 1 i art. 239 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, jeżeli dotyczą przestępstw, o których mowa w pkt 1 i 2 – gdy inne środki okazały się bezskuteczne albo będą nieprzydatne, sąd, na pisemny wniosek Szefa CBA, złożony po uzyskaniu pisemnej zgody Pierwszego Zastępcy Prokuratora Generalnego Prokuratora Krajowego, może, w drodze postanowienia, zarządzić kontrolę operacyjną.
+- **3)** określonymi w art. 232, art. 233 § 1, 1a, 4 i 6, art. 234, art. 235, art. 236 § 1 i art. 239 § 1 ustawy z dnia 6 czerwca 1997 r. Kodeks karny, jeżeli dotyczą przestępstw, o których mowa w pkt 1 i 2 gdy inne środki okazały się bezskuteczne albo będą nieprzydatne, sąd, na pisemny wniosek Szefa CBA, złożony po uzyskaniu pisemnej zgody Pierwszego Zastępcy Prokuratora Generalnego Prokuratora Krajowego, może, w drodze postanowienia, zarządzić kontrolę operacyjną.
 
 1a. Wniosek, o którym mowa w ust. 1, przedstawia się wraz z materiałami uzasadniającymi potrzebę zastosowania kontroli operacyjnej.
 
@@ -361,31 +389,31 @@ Art. 141–210. (pominięte)
 
 10. Do wniosków, o których mowa w ust. 3, 8 i 9, stosuje się odpowiednio przepisy ust. 1a i 7. Sąd przed wydaniem postanowienia, o którym mowa w ust. 1, 3, 8 i 9, zapoznaje się z materiałami uzasadniającymi wniosek, w szczególności zgromadzonymi podczas stosowania kontroli operacyjnej zarządzonej w tej sprawie.
 
-11. Wnioski, o których mowa w ust. 1, 3, 8 i 9, sąd rozpoznaje jednoosobowo, przy czym czynności sądu związane z rozpoznawaniem tych wniosków powinny być realizowane w warunkach przewidzianych dla przekazywania, przechowywania i udostępniania informacji niejawnych oraz z odpowiednim zastosowaniem przepisów wydanych na podstawie art. 181 § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego. W posiedzeniu sądu może wziąć udział wyłącznie prokurator i wyznaczony przez Szefa CBA funkcjonariusz CBA.
+11. Wnioski, o których mowa w ust. 1, 3, 8 i 9, sąd rozpoznaje jednoosobowo, przy czym czynności sądu związane z rozpoznawaniem tych wniosków powinny być realizowane w warunkach przewidzianych dla przekazywania, przechowywania i udostępniania informacji niejawnych oraz z odpowiednim zastosowaniem przepisów wydanych na podstawie art. 181 § 2 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego. W posiedzeniu sądu może wziąć udział wyłącznie prokurator i wyznaczony przez Szefa CBA funkcjonariusz CBA.
 
 12. Przedsiębiorca telekomunikacyjny, operator pocztowy oraz usługodawca świadczący usługi drogą elektroniczną są obowiązani do zapewnienia na własny koszt warunków technicznych i organizacyjnych umożliwiających prowadzenie przez CBA kontroli operacyjnej.
 
-12a. Usługodawca świadczący usługi drogą elektroniczną będący mikroprzedsiębiorcą lub małym przedsiębiorcą w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871 oraz z 2025 r. poz. 222) zapewnia warunki techniczne i organizacyjne umożliwiające prowadzenie przez CBA kontroli operacyjnej stosownie do posiadanej infrastruktury.
+12a. Usługodawca świadczący usługi drogą elektroniczną będący mikroprzedsiębiorcą lub małym przedsiębiorcą w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871 oraz z 2025 r. poz. 222) zapewnia warunki techniczne i organizacyjne umożliwiające prowadzenie przez CBA kontroli operacyjnej stosownie do posiadanej infrastruktury.
 
 13. Kontrola operacyjna powinna być zakończona niezwłocznie po ustaniu przyczyn jej zarządzenia, najpóźniej jednak z upływem okresu, na który została wprowadzona.
 
 14. Szef CBA informuje Pierwszego Zastępcę Prokuratora Generalnego Prokuratora Krajowego o wynikach kontroli operacyjnej po jej zakończeniu, a na jego żądanie również o przebiegu tej kontroli, przedstawiając zebrane w jej toku materiały.
 
-15. W przypadku uzyskania dowodów pozwalających na wszczęcie postępowania karnego lub mających znaczenie dla toczącego się postępowania karnego Szef CBA przekazuje Pierwszemu Zastępcy Prokuratora Generalnego Prokuratorowi Krajowemu wszystkie materiały zgromadzone podczas stosowania kontroli operacyjnej. W postępowaniu przed sądem, w odniesieniu do tych materiałów, stosuje się odpowiednio art. 393 § 1 zdanie pierwsze ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
+15. W przypadku uzyskania dowodów pozwalających na wszczęcie postępowania karnego lub mających znaczenie dla toczącego się postępowania karnego Szef CBA przekazuje Pierwszemu Zastępcy Prokuratora Generalnego Prokuratorowi Krajowemu wszystkie materiały zgromadzone podczas stosowania kontroli operacyjnej. W postępowaniu przed sądem, w odniesieniu do tych materiałów, stosuje się odpowiednio art. 393 § 1 zdanie pierwsze ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego.
 
 15a. (uchylony) 15b. (uchylony) 15c. (uchylony) 15d. (uchylony) 15e. (uchylony) 15f. W przypadku, gdy materiały, o których mowa w ust. 15:
 
-- **1)** zawierają informacje, o których mowa w art. 178 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, Szef CBA zarządza ich niezwłoczne, komisyjne i protokolarne zniszczenie;
-- **2)** mogą zawierać informacje, o których mowa w art. 178a i art. 180 § 3 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, z wyłączeniem informacji o przestępstwach, o których mowa w art. 240 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, albo informacje stanowiące tajemnice związane z wykonywaniem zawodu lub funkcji, o których mowa w art. 180 § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, Szef CBA przekazuje Pierwszemu Zastępcy Prokuratora Generalnego Prokuratorowi Krajowemu te materiały.
+- **1)** zawierają informacje, o których mowa w art. 178 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego, Szef CBA zarządza ich niezwłoczne, komisyjne i protokolarne zniszczenie;
+- **2)** mogą zawierać informacje, o których mowa w art. 178a i art. 180 § 3 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego, z wyłączeniem informacji o przestępstwach, o których mowa w art. 240 § 1 ustawy z dnia 6 czerwca 1997 r. Kodeks karny, albo informacje stanowiące tajemnice związane z wykonywaniem zawodu lub funkcji, o których mowa w art. 180 § 2 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego, Szef CBA przekazuje Pierwszemu Zastępcy Prokuratora Generalnego Prokuratorowi Krajowemu te materiały.
 
 15g. W przypadku, o którym mowa w ust. 15f pkt 2, Pierwszy Zastępca Prokuratora Generalnego Prokurator Krajowy niezwłocznie po otrzymaniu materiałów, kieruje je do sądu, który zarządził kontrolę operacyjną albo wyraził na nią zgodę w trybie określonym w ust. 3, wraz z wnioskiem o:
 
 - **1)** stwierdzenie, które z przekazanych materiałów zawierają informacje, o których mowa w ust. 15f pkt 2;
-- **2)** dopuszczenie do wykorzystania w postępowaniu karnym materiałów zawierających informacje stanowiące tajemnice związane z wykonywaniem zawodu lub funkcji, o których mowa w art. 180 § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, nieobjęte zakazami określonymi w art. 178a i art. 180 § 3 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego z wyłączeniem informacji o przestępstwach, o których mowa w art. 240 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.
+- **2)** dopuszczenie do wykorzystania w postępowaniu karnym materiałów zawierających informacje stanowiące tajemnice związane z wykonywaniem zawodu lub funkcji, o których mowa w art. 180 § 2 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego, nieobjęte zakazami określonymi w art. 178a i art. 180 § 3 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego z wyłączeniem informacji o przestępstwach, o których mowa w art. 240 § 1 ustawy z dnia 6 czerwca 1997 r. Kodeks karny.
 
 15h. Sąd, niezwłocznie po złożeniu wniosku przez Pierwszego Zastępcę Prokuratora Generalnego Prokuratora Krajowego, wydaje postanowienie o dopuszczeniu do wykorzystania w postępowaniu karnym materiałów, o których mowa w ust. 15g pkt 2, gdy jest to niezbędne dla dobra wymiaru sprawiedliwości, a okoliczność nie może być ustalona na podstawie innego dowodu, a także zarządza niezwłoczne zniszczenie materiałów, których wykorzystanie w postępowaniu karnym jest niedopuszczalne.
 
-15i. Na postanowienie sądu w przedmiocie dopuszczenia do wykorzystania w postępowaniu karnym materiałów, o których mowa w ust. 15g pkt 2, Pierwszemu Zastępcy Prokuratora Generalnego Prokuratorowi Krajowemu przysługuje zażalenie. Do zażalenia stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
+15i. Na postanowienie sądu w przedmiocie dopuszczenia do wykorzystania w postępowaniu karnym materiałów, o których mowa w ust. 15g pkt 2, Pierwszemu Zastępcy Prokuratora Generalnego Prokuratorowi Krajowemu przysługuje zażalenie. Do zażalenia stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego.
 
 15j. Szef CBA jest obowiązany do wykonania zarządzenia sądu o zniszczeniu materiałów, o którym mowa w ust. 15h, oraz niezwłocznego, komisyjnego i protokolarnego zniszczenia materiałów, których wykorzystanie w postępowaniu karnym jest niedopuszczalne. Szef CBA niezwłocznie informuje Pierwszego Zastępcę Prokuratora Generalnego Prokuratora Krajowego o zniszczeniu tych materiałów.
 
@@ -395,8 +423,8 @@ Art. 141–210. (pominięte)
 
 17. Na postanowienia sądu, o których mowa w:
 
-- **1)** ust. 1, 3, 8 i 9 – przysługuje zażalenie Szefowi CBA;
-- **2)** ust. 3 – przysługuje zażalenie Pierwszemu Zastępcy Prokuratora Generalnego Prokuratorowi Krajowemu. Do zażalenia stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
+- **1)** ust. 1, 3, 8 i 9 przysługuje zażalenie Szefowi CBA;
+- **2)** ust. 3 przysługuje zażalenie Pierwszemu Zastępcy Prokuratora Generalnego Prokuratorowi Krajowemu. Do zażalenia stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego.
 
 17a. Sąd, Pierwszy Zastępca Prokuratora Generalnego Prokurator Krajowy i Szef CBA prowadzą rejestry, odpowiednio postanowień, pisemnych zgód, zarządzeń i wniosków dotyczących kontroli operacyjnej. Rejestry prowadzi się w formie elektronicznej, z zachowaniem przepisów o ochronie informacji niejawnych.
 
@@ -406,9 +434,9 @@ Art. 141–210. (pominięte)
 
 1. CBA może uzyskiwać niezbędne do realizacji zadań, o których mowa w art. 2, dane niestanowiące treści odpowiednio, komunikatu elektronicznego przesyłanego w ramach świadczonej publicznie dostępnej usługi telekomunikacyjnej, przesyłki pocztowej albo przekazu w ramach usługi świadczonej drogą elektroniczną, określone w:
 
-- **1)** art. 45 ust. 1 i art. 49 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221), zwane dalej „danymi telekomunikacyjnymi”,
-- **2)** art. 82 ust. 1 pkt 1 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366), zwane dalej „danymi pocztowymi”,
-- **3)** art. 18 ust. 1–5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513), zwane dalej „danymi internetowymi” – oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
+- **1)** art. 45 ust. 1 i art. 49 ustawy z dnia 12 lipca 2024 r. Prawo komunikacji elektronicznej (Dz. U. poz. 1221), zwane dalej „danymi telekomunikacyjnymi”,
+- **2)** art. 82 ust. 1 pkt 1 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2025 r. poz. 366), zwane dalej „danymi pocztowymi”,
+- **3)** art. 18 ust. 1–5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513), zwane dalej „danymi internetowymi” oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
 
 2. Przedsiębiorca telekomunikacyjny, operator pocztowy lub usługodawca świadczący usługi drogą elektroniczną udostępnia nieodpłatnie dane, o których mowa w ust. 1:
 
@@ -451,10 +479,10 @@ Art. 141–210. (pominięte)
 
 1. W celu realizacji zadań, o których mowa w art. 2, CBA może uzyskiwać dane:
 
-- **1)** o których mowa w art. 43 ust. 1 pkt 1 lit. a tiret drugie ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej,
-- **2)** o których mowa w art. 389 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej,
+- **1)** o których mowa w art. 43 ust. 1 pkt 1 lit. a tiret drugie ustawy z dnia 12 lipca 2024 r. Prawo komunikacji elektronicznej,
+- **2)** o których mowa w art. 389 ustawy z dnia 12 lipca 2024 r. Prawo komunikacji elektronicznej,
 - **3)** w przypadku użytkownika, który nie jest osobą fizyczną numer zakończenia sieci oraz siedzibę lub miejsce wykonywania działalności gospodarczej, firmę lub nazwę i formę organizacyjną tego użytkownika,
-- **4)** w przypadku stacjonarnej publicznej sieci telekomunikacyjnej – także nazwę miejscowości oraz ulicy, przy której znajduje się zakończenie sieci, udostępnione użytkownikowi – oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
+- **4)** w przypadku stacjonarnej publicznej sieci telekomunikacyjnej także nazwę miejscowości oraz ulicy, przy której znajduje się zakończenie sieci, udostępnione użytkownikowi oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
 
 2. Do udostępniania i przetwarzania danych, o których mowa w ust. 1, art. 18 ust. 2–7 stosuje się.
 
@@ -470,7 +498,7 @@ Art. 141–210. (pominięte)
 
 4. Czynności określone w ust. 1 nie mogą polegać na kierowaniu działaniami wyczerpującymi znamiona czynu zabronionego pod groźbą kary.
 
-5. W przypadku potwierdzenia informacji o przestępstwie określonym w art. 2 ust. 1 pkt 1 Szef CBA przekazuje Pierwszemu Zastępcy Prokuratora Generalnego Prokuratorowi Krajowemu wszystkie materiały zgromadzone w wyniku wykonywania czynności. W postępowaniu przed sądem, w odniesieniu do tych materiałów, stosuje się odpowiednio art. 393 § 1 zdanie pierwsze ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
+5. W przypadku potwierdzenia informacji o przestępstwie określonym w art. 2 ust. 1 pkt 1 Szef CBA przekazuje Pierwszemu Zastępcy Prokuratora Generalnego Prokuratorowi Krajowemu wszystkie materiały zgromadzone w wyniku wykonywania czynności. W postępowaniu przed sądem, w odniesieniu do tych materiałów, stosuje się odpowiednio art. 393 § 1 zdanie pierwsze ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego.
 
 6. Prezes Rady Ministrów określi, w drodze rozporządzenia, sposób przeprowadzania i dokumentowania czynności, o których mowa w ust. 1. Rozporządzenie powinno, uwzględniając niejawny charakter czynności, określić sposób przechowywania, przekazywania i niszczenia materiałów i dokumentów uzyskanych lub wytworzonych w związku z realizacją czynności, o których mowa w ust. 1, a także określać wzory stosowanych druków i rejestrów.
 
@@ -561,8 +589,7 @@ Art. 141–210. (pominięte)
 2. Przepis ust. 1 stosuje się odpowiednio do:
 
 - **1)** spółdzielczych kas oszczędnościowo-kredytowych;
-- **2)** podmiotów wykonujących działalność na podstawie ustawy z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2024 r. poz. 910 i
-- **1881)** ;
+- **2)** podmiotów wykonujących działalność na podstawie ustawy z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2024 r. poz. 910 i 1881);
 - **3)** podmiotów wykonujących działalność ubezpieczeniową;
 - **4)** funduszy inwestycyjnych oraz alternatywnych spółek inwestycyjnych;
 - **5)** podmiotów wykonujących działalność w zakresie obrotu papierami wartościowymi i innymi instrumentami finansowymi na podstawie ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
@@ -597,7 +624,7 @@ Art. 141–210. (pominięte)
 
 13. Materiały zgromadzone w trybie, o którym mowa w ust. 1–10, niestanowiące informacji potwierdzających zaistnienie przestępstwa, podlegają niezwłocznemu, protokolarnemu, komisyjnemu zniszczeniu. Zniszczenie materiałów zarządza Szef CBA.
 
-14. Skarb Państwa ponosi odpowiedzialność za szkody wyrządzone naruszeniem przepisów ust. 3 na zasadach określonych w ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237).
+14. Skarb Państwa ponosi odpowiedzialność za szkody wyrządzone naruszeniem przepisów ust. 3 na zasadach określonych w ustawie z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237).
 
 15. Prezes Rady Ministrów określi, w drodze rozporządzenia, sposoby przetwarzania danych i informacji, o których mowa w ust. 1, w zbiorach danych, rodzaje jednostek organizacyjnych CBA uprawnionych do korzystania z tych zbiorów oraz wzory dokumentów obowiązujących przy przetwarzaniu danych, uwzględniając potrzebę ochrony danych przed nieuprawnionym dostępem.
 
@@ -641,10 +668,10 @@ Art. 141–210. (pominięte)
 - **2)** osób zajmujących kierownicze stanowiska państwowe, o których mowa w art. 2 ustawy z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. z 2023 r. poz. 624);
 - **3)** dyrektorów generalnych w ministerstwach, urzędach centralnych lub urzędach wojewódzkich;
 - **4)** sędziów, asesorów sądowych, prokuratorów, adwokatów i radców prawnych;
-- **5)** członków rady nadzorczej, członków zarządu oraz dyrektorów programów „Telewizji Polskiej – Spółka Akcyjna” i „Polskiego Radia – Spółka Akcyjna”, a także dyrektorów terenowych oddziałów „Telewizji Polskiej – Spółka Akcyjna”;
-- **6)** dyrektora generalnego, dyrektorów biur oraz kierowników oddziałów regionalnych „Polskiej Agencji Prasowej – Spółka Akcyjna”;
+- **5)** członków rady nadzorczej, członków zarządu oraz dyrektorów programów „Telewizji Polskiej Spółka Akcyjna” i „Polskiego Radia Spółka Akcyjna”, a także dyrektorów terenowych oddziałów „Telewizji Polskiej Spółka Akcyjna”;
+- **6)** dyrektora generalnego, dyrektorów biur oraz kierowników oddziałów regionalnych „Polskiej Agencji Prasowej Spółka Akcyjna”;
 - **7)** nadawców w rozumieniu art. 4 pkt 5 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2022 r. poz. 1722 oraz z 2024 r. poz. 96 i 1222);
-- **8)** redaktorów naczelnych, dziennikarzy lub osób prowadzących działalność wydawniczą, o których mowa w ustawie z dnia 26 stycznia 1984 r. – Prawo prasowe (Dz. U. z 2018 r. poz. 1914);
+- **8)** redaktorów naczelnych, dziennikarzy lub osób prowadzących działalność wydawniczą, o których mowa w ustawie z dnia 26 stycznia 1984 r. Prawo prasowe (Dz. U. z 2018 r. poz. 1914);
 - **9)** rektorów;
 - **10)** członków Rady Głównej Nauki i Szkolnictwa Wyższego, Polskiej Komisji Akredytacyjnej i Rady Doskonałości Naukowej.
 
@@ -710,9 +737,9 @@ Art. 141–210. (pominięte)
     - **a)** środków płatniczych i przedmiotów wartościowych, dokumentów tożsamości, środków łączności oraz urządzeń technicznych służących do rejestrowania i odtwarzania informacji,
     - **b)** przedmiotów, które mogą stanowić zagrożenie życia lub zdrowia lub bezpieczeństwa osoby poddanej sprawdzeniu prewencyjnemu lub innych osób albo bezpieczeństwa przeprowadzanych czynności, w tym broni lub przedmiotów, których posiadanie jest zabronione, lub innych niebezpiecznych przedmiotów mogących służyć do popełnienia przestępstwa lub wykroczenia lub przedmiotów mogących stanowić dowód w postępowaniu prowadzonym w związku z realizacją zadań, o których mowa w art. 2 ust. 1, lub podlegających przepadkowi,
 
-- **5)** odebraniu przedmiotów, o których mowa w pkt 4, oraz odpowiednio ich przyjęciu do depozytu, zabezpieczeniu lub zajęciu – w szczególności gdy czynności te przeprowadza się w przypadku zatrzymywania osoby zgodnie z art. 14 ust. 1 pkt 3, lub innej czynności związanej z osobą zatrzymaną, konwojowaną lub doprowadzoną z innymi osobami lub po każdorazowej utracie kontaktu wzrokowego z osobą konwojowaną lub doprowadzaną.
+- **5)** odebraniu przedmiotów, o których mowa w pkt 4, oraz odpowiednio ich przyjęciu do depozytu, zabezpieczeniu lub zajęciu w szczególności gdy czynności te przeprowadza się w przypadku zatrzymywania osoby zgodnie z art. 14 ust. 1 pkt 3, lub innej czynności związanej z osobą zatrzymaną, konwojowaną lub doprowadzoną z innymi osobami lub po każdorazowej utracie kontaktu wzrokowego z osobą konwojowaną lub doprowadzaną.
 
-3. Czynności, o których mowa w ust. 2 pkt 1–3, wykonuje się w sposób umożliwiający osobie pozostawanie części odzieży na ciele, a po sprawdzeniu zdjętej odzieży – jej włożenie przed zdjęciem pozostałej niesprawdzonej części odzieży oraz w warunkach zapewniających poszanowanie jej intymności.
+3. Czynności, o których mowa w ust. 2 pkt 1–3, wykonuje się w sposób umożliwiający osobie pozostawanie części odzieży na ciele, a po sprawdzeniu zdjętej odzieży jej włożenie przed zdjęciem pozostałej niesprawdzonej części odzieży oraz w warunkach zapewniających poszanowanie jej intymności.
 
 4. Sprawdzanie bagaży, środków transportu i ładunków polega na sprawdzeniu zawartości bagaży i sprawdzeniu ładunku poprzez manualne sprawdzenie ładunków i elementów konstrukcyjnych bagaży oraz znajdujących się w nich przedmiotów lub sprawdzenie bagaży i ładunków z wykorzystaniem urządzeń i sprzętu specjalistycznego lub psa służbowego lub sprawdzeniu środków transportu z wykorzystaniem urządzeń i sprzętu specjalistycznego lub psa służbowego, jeżeli jest to niezbędne dla zapewnienia bezpieczeństwa ochranianych obiektów.
 
@@ -784,7 +811,7 @@ Art. 141–210. (pominięte)
 
 2. Kontrolowany lub osoba przez niego upoważniona, z zachowaniem przepisów o ochronie informacji niejawnych, zapewnia kontrolującemu warunki i środki niezbędne do sprawnego przeprowadzenia kontroli, w szczególności przez niezwłoczne przedstawianie do kontroli żądanych dokumentów i materiałów oraz udzielanie ustnych i pisemnych wyjaśnień przez pracowników jednostki.
 
-3. Kontrola lub poszczególne jej czynności przeprowadzane w obiektach pozostających w zarządzie Kancelarii i Kancelarii Senatu mogą być przeprowadzane w uzgodnieniu odpowiednio z Marszałkiem Rzeczypospolitej Polskiej lub Marszałkiem Senatu Rzeczypospolitej Polskiej. Uzgodnienia dokonuje Prezes Rady Ministrów, a w przypadku braku uzgodnienia czynność nie może być wykonana.
+3. Kontrola lub poszczególne jej czynności przeprowadzane w obiektach pozostających w zarządzie Kancelarii Sejmu i Kancelarii Senatu mogą być przeprowadzane w uzgodnieniu odpowiednio z Marszałkiem Sejmu Rzeczypospolitej Polskiej lub Marszałkiem Senatu Rzeczypospolitej Polskiej. Uzgodnienia dokonuje Prezes Rady Ministrów, a w przypadku braku uzgodnienia czynność nie może być wykonana.
 
 **Art. 37.**
 
@@ -802,11 +829,11 @@ Art. 141–210. (pominięte)
 - **2)** przechowanie w jednostce kontrolowanej w oddzielnym, zamkniętym i opieczętowanym pomieszczeniu;
 - **3)** pobranie z jednostki kontrolowanej za pokwitowaniem.
 
-6. O zwolnieniu materiałów dowodowych spod zabezpieczenia decyduje funkcjonariusz kontrolujący, a w przypadku jego odmowy – kierownik właściwej jednostki organizacyjnej CBA.
+6. O zwolnieniu materiałów dowodowych spod zabezpieczenia decyduje funkcjonariusz kontrolujący, a w przypadku jego odmowy kierownik właściwej jednostki organizacyjnej CBA.
 
 **Art. 38.**
 
-1. Funkcjonariusz kontrolujący dokonuje pobrania rzeczy w obecności kontrolowanego lub osoby przez niego upoważnionej, a w przypadku ich nieobecności – pracownika wyznaczonego przez kontrolowanego lub osobę przez niego upoważnioną. Pobraną rzecz oznacza się w sposób uniemożliwiający jej zamianę.
+1. Funkcjonariusz kontrolujący dokonuje pobrania rzeczy w obecności kontrolowanego lub osoby przez niego upoważnionej, a w przypadku ich nieobecności pracownika wyznaczonego przez kontrolowanego lub osobę przez niego upoważnioną. Pobraną rzecz oznacza się w sposób uniemożliwiający jej zamianę.
 
 2. Z pobrania rzeczy sporządza się protokół, który podpisuje funkcjonariusz kontrolujący i osoba uczestnicząca w pobraniu.
 
@@ -816,13 +843,13 @@ Art. 141–210. (pominięte)
 
 1a. Kontrolowanego, u którego mają nastąpić oględziny, należy przed rozpoczęciem czynności zawiadomić o ich celu i wezwać do okazania wskazanych przedmiotów.
 
-2. Oględziny przeprowadza się w obecności kontrolowanego lub osoby przez niego upoważnionej, a w przypadku ich nieobecności – pracownika wyznaczonego przez kontrolowanego lub osobę przez niego upoważnioną.
+2. Oględziny przeprowadza się w obecności kontrolowanego lub osoby przez niego upoważnionej, a w przypadku ich nieobecności pracownika wyznaczonego przez kontrolowanego lub osobę przez niego upoważnioną.
 
 2a. Oględziny powinny być dokonane zgodnie z celem tej czynności, z zachowaniem umiaru i poszanowania godności osób, których ta czynność dotyczy, oraz bez wyrządzania niepotrzebnych szkód i dolegliwości.
 
 3. Z przebiegu i wyniku oględzin sporządza się niezwłocznie protokół, który podpisuje funkcjonariusz kontrolujący i osoba wymieniona w ust. 2.
 
-3a. Protokół oględzin powinien zawierać oznaczenie sprawy, z którą czynność ta ma związek, miejsca, daty oraz godziny rozpoczęcia i zakończenia czynności, osób w niej uczestniczących, przedmiotów poddanych oględzinom wraz z ich opisem, przytoczenie oświadczeń i wniosków uczestników czynności. Przepisy art. 148 § 2 zdanie drugie oraz § 4 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego stosuje się.
+3a. Protokół oględzin powinien zawierać oznaczenie sprawy, z którą czynność ta ma związek, miejsca, daty oraz godziny rozpoczęcia i zakończenia czynności, osób w niej uczestniczących, przedmiotów poddanych oględzinom wraz z ich opisem, przytoczenie oświadczeń i wniosków uczestników czynności. Przepisy art. 148 § 2 zdanie drugie oraz § 4 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego stosuje się.
 
 4. Przebieg i wyniki oględzin mogą być ponadto utrwalone:
 
@@ -833,7 +860,7 @@ Art. 141–210. (pominięte)
 
 6. W przypadku stwierdzenia zbędności posiadanych danych dla potrzeb postępowania, które stanowiło podstawę ich uzyskania, Szef CBA lub osoba przez niego upoważniona niezwłocznie zarządza ich komisyjne i protokolarne zniszczenie.
 
-7. Przepis art. 207 § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego stosuje się odpowiednio.
+7. Przepis art. 207 § 2 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego stosuje się odpowiednio.
 
 **Art. 40.** (uchylony)
 
@@ -914,7 +941,7 @@ Art. 141–210. (pominięte)
 
 2. Na podstawie protokołu kontroli, w przypadku uzasadnionego podejrzenia popełnienia przestępstwa, o którym mowa w art. 2 ust. 1 pkt 1, CBA wszczyna i prowadzi postępowanie przygotowawcze.
 
-3. W przypadkach, o których mowa w art. 309 pkt 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, jeżeli zaistniały okoliczności określone w ust. 2, materiały postępowania kontrolnego wraz z wnioskiem o wszczęcie postępowania przygotowawczego Szef CBA przekazuje Pierwszemu Zastępcy Prokuratora Generalnego Prokuratorowi Krajowemu.
+3. W przypadkach, o których mowa w art. 309 pkt 2 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego, jeżeli zaistniały okoliczności określone w ust. 2, materiały postępowania kontrolnego wraz z wnioskiem o wszczęcie postępowania przygotowawczego Szef CBA przekazuje Pierwszemu Zastępcy Prokuratora Generalnego Prokuratorowi Krajowemu.
 
 4. W przypadku ujawnienia innych czynów niż określone w ust. 2, za które ustawowo przewidziana jest odpowiedzialność dyscyplinarna lub karna, CBA zawiadamia o tym właściwe organy.
 
@@ -922,17 +949,25 @@ Art. 141–210. (pominięte)
 
 **Art. 46a.**
 
-1. Do kontroli działalności gospodarczej przedsiębiorcy nie stosuje się przepisów rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
+1. Do kontroli działalności gospodarczej przedsiębiorcy nie stosuje się przepisów rozdziału 5 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
 
-2. Do kontroli udzielania zamówień publicznych nie stosuje się przepisów działu XI rozdziału 1 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320).
+2. Do kontroli udzielania zamówień publicznych nie stosuje się przepisów działu XI rozdziału 1 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320).
 
-**Art. 46b.** Do dokonywanych w toku kontroli doręczeń i wezwań, a także obliczania terminów, w zakresie nieuregulowanym w ustawie stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
+**Art. 46b.** Do dokonywanych w toku kontroli doręczeń i wezwań, a także obliczania terminów, w zakresie nieuregulowanym w ustawie stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
 
 **Art. 47.** Rada Ministrów określi, w drodze rozporządzenia, szczegółowe warunki i tryb przygotowywania i prowadzenia czynności kontrolnych, dokumentowania poszczególnych czynności kontrolnych, sporządzania protokołu kontroli oraz wniosków i wystąpień pokontrolnych przez funkcjonariuszy CBA, uwzględniając możliwości składania zastrzeżeń i odmowy podpisania protokołu oraz wzory dokumentów obowiązujących przy przeprowadzaniu czynności kontrolnych.
 
 #### Rozdział 5 Służba funkcjonariuszy Centralnego Biura Antykorupcyjnego
 
 **Art. 48.** Służbę w CBA może pełnić osoba:
+
+- **1)** posiadająca wyłącznie obywatelstwo polskie;
+- **2)** korzystająca z pełni praw publicznych;
+- **3)** wykazująca nieskazitelną postawę moralną, obywatelską i patriotyczną;
+- **4)** która nie była skazana za popełnione umyślnie przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe;
+- **5)** dająca rękojmię zachowania tajemnicy stosownie do wymogów określonych w przepisach o ochronie informacji niejawnych;
+- **6)** posiadająca co najmniej wykształcenie średnie lub średnie branżowe i wymagane kwalifikacje zawodowe oraz zdolność fizyczną i psychiczną do pełnienia służby;
+- **7)** która nie pełniła służby zawodowej, nie pracowała i nie była współpracownikiem organów bezpieczeństwa państwa, wymienionych w art. 5 ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.
 
 **Art. 49.**
 
@@ -1022,7 +1057,7 @@ Art. 141–210. (pominięte)
 7. W trakcie pełnienia służby w formie zdalnej funkcjonariusz może używać narzędzi lub materiałów niezapewnionych przez bezpośredniego przełożonego, jeżeli:
 
 - **1)** narzędzia i materiały spełniają wymagania, o których mowa w ust. 6;
-- **2)** narzędzia spełniają wymagania określone w rozdziale IV działu dziesiątego ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277), zwanej dalej „Kodeksem pracy”.
+- **2)** narzędzia spełniają wymagania określone w rozdziale IV działu dziesiątego ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277), zwanej dalej „Kodeksem pracy”.
 
 8. Na polecenie bezpośredniego przełożonego funkcjonariusz pełniący służbę w formie zdalnej ma obowiązek prowadzić ewidencję wykonanych czynności, uwzględniającą w szczególności opis tych czynności, a także datę ich wykonania. Ewidencję wykonanych czynności funkcjonariusz sporządza w formie i z częstotliwością określonymi w poleceniu.
 
@@ -1065,7 +1100,7 @@ Art. 141–210. (pominięte)
 
 **Art. 56a.**
 
-1. W sprawach bezpieczeństwa i higieny służby stosuje się odpowiednio przepisy działu dziesiątego Kodeksu pracy, a także przepisy wykonawcze wydane na jego podstawie, z wyłączeniem przepisów art. 207 § 2 pkt 7, art. 209 § 4, art. 228, art. 229 § 1–1 , art. 230 § 2, art. 231, art. 234 § 1–3 , art. 235– 235 , art. 237–237 , art. 237 , art. 237 i art. 237 § 1 i 2 w zakresie dotyczącym odzieży i obuwia roboczego, art. 237 § 3, art. 237 § 4, art. 237 § 1 i 3–6 oraz art. 237 –237 .
+1. W sprawach bezpieczeństwa i higieny służby stosuje się odpowiednio przepisy działu dziesiątego Kodeksu pracy, a także przepisy wykonawcze wydane na jego podstawie, z wyłączeniem przepisów art. 207 § 2 pkt 7, art. 209 § 4, art. 228, art. 229 § 1–1 , art. 230 § 2, art. 231, art. 234 § 1–3 , art. 235–235 , art. 237–237 , art. 237 , art. 237 i art. 237 § 1 i 2 w zakresie dotyczącym odzieży i obuwia roboczego, art. 237 § 3, art. 237 § 4, art. 237 § 1 i 3–6 oraz art. 237 –237 .
 
 2. W zakresie określonym w ust. 1:
 
@@ -1153,8 +1188,8 @@ Art. 141–210. (pominięte)
 
 1. Funkcjonariusz może być skierowany do komisji lekarskiej, o której mowa w art. 49:
 
-- **1)** z urzędu lub na jego wniosek – w celu określenia stanu zdrowia oraz ustalenia zdolności fizycznej i psychicznej do służby, jak również związku poszczególnych chorób ze służbą;
-- **2)** z urzędu – w celu sprawdzenia prawidłowości orzekania o czasowej niezdolności do służby z powodu choroby lub prawidłowości wykorzystania zwolnienia lekarskiego.
+- **1)** z urzędu lub na jego wniosek w celu określenia stanu zdrowia oraz ustalenia zdolności fizycznej i psychicznej do służby, jak również związku poszczególnych chorób ze służbą;
+- **2)** z urzędu w celu sprawdzenia prawidłowości orzekania o czasowej niezdolności do służby z powodu choroby lub prawidłowości wykorzystania zwolnienia lekarskiego.
 
 1a. Funkcjonariusz jest obowiązany poddać się badaniom zleconym przez komisję lekarską, w tym również badaniom specjalistycznym, psychologicznym i dodatkowym.
 
@@ -1190,6 +1225,9 @@ Art. 141–210. (pominięte)
 3. Funkcjonariusza zwalnia się ze służby w terminie do 3 miesięcy od dnia pisemnego zgłoszenia przez niego wystąpienia ze służby.
 
 **Art. 65.** Stosunek służbowy funkcjonariusza wygasa w przypadku:
+
+- **1)** śmierci funkcjonariusza lub stwierdzenia zaginięcia, o którym mowa w art. 98 ust. 4;
+- **2)** nieobecności funkcjonariusza w służbie przez okres powyżej 3 miesięcy z powodu tymczasowego aresztowania, chyba że wcześniej nastąpiło zwolnienie funkcjonariusza ze służby.
 
 **Art. 66.**
 
@@ -1318,6 +1356,10 @@ Art. 141–210. (pominięte)
 
 **Art. 83.** Prezes Rady Ministrów określi, w drodze rozporządzenia, przebieg służby funkcjonariuszy. Rozporządzenie powinno określać:
 
+- **1)** szczegółowe warunki i tryb załatwiania spraw, w tym spraw osobowych funkcjonariuszy, nawiązania, rozwiązania lub wygaśnięcia stosunku służbowego, mianowania, przenoszenia, odwoływania i zwalniania ze stanowisk służbowych;
+- **2)** sposób usprawiedliwiania nieobecności w służbie;
+- **3)** rodzaje informacji, których ze względu na przebieg służby funkcjonariusza jest on obowiązany udzielić.
+
 **Art. 84.**
 
 1. Funkcjonariuszowi przysługuje prawo do corocznego płatnego urlopu wypoczynkowego w wymiarze 28 dni roboczych.
@@ -1338,12 +1380,12 @@ Art. 141–210. (pominięte)
 
 2. Funkcjonariuszowi, który uzyskał zezwolenie na pobieranie nauki lub odbywanie studiów i naukę tę pobiera lub odbywa studia, jak również uzyskał zezwolenie na złożenie wniosku o wszczęcie postępowania w sprawie nadania stopnia doktora lub stopnia doktora habilitowanego, a także na odbycie aplikacji radcowskiej lub legislacyjnej, udziela się płatnego urlopu szkoleniowego w wymiarze:
 
-- **1)** na przygotowanie się do egzaminu wstępnego i jego złożenie – 7 dni;
-- **2)** w szkołach wyższych, w każdym roku studiów – 21 dni;
-- **3)** dla funkcjonariuszy pobierających naukę w szkołach pomaturalnych i na studiach podyplomowych – 14 dni w celu przygotowania się i złożenia egzaminu końcowego;
-- **4)** w celu przygotowania się do złożenia egzaminów doktorskich i obrony rozprawy doktorskiej lub dla przygotowania się do kolokwium habilitacyjnego – 28 dni;
-- **5)** w celu przygotowania się i złożenia egzaminu radcowskiego – 30 dni;
-- **6)** w celu przygotowania się i złożenia egzaminu po zakończeniu aplikacji legislacyjnej – 14 dni.
+- **1)** na przygotowanie się do egzaminu wstępnego i jego złożenie 7 dni;
+- **2)** w szkołach wyższych, w każdym roku studiów 21 dni;
+- **3)** dla funkcjonariuszy pobierających naukę w szkołach pomaturalnych i na studiach podyplomowych 14 dni w celu przygotowania się i złożenia egzaminu końcowego;
+- **4)** w celu przygotowania się do złożenia egzaminów doktorskich i obrony rozprawy doktorskiej lub dla przygotowania się do kolokwium habilitacyjnego 28 dni;
+- **5)** w celu przygotowania się i złożenia egzaminu radcowskiego 30 dni;
+- **6)** w celu przygotowania się i złożenia egzaminu po zakończeniu aplikacji legislacyjnej 14 dni.
 
 3. Funkcjonariuszowi w służbie stałej, na pisemny wniosek uzasadniony ważnymi względami osobistymi, można udzielić urlopu bezpłatnego w wymiarze do 6 miesięcy.
 
@@ -1359,7 +1401,7 @@ Art. 141–210. (pominięte)
 
 **Art. 87.**
 
-1. Prezes Rady Ministrów określi, w drodze rozporządzenia, warunki i tryb udzielania funkcjonariuszom urlopów, o których mowa w art. 84 i art. 85 ust. 1– 4, mając na uwadze:
+1. Prezes Rady Ministrów określi, w drodze rozporządzenia, warunki i tryb udzielania funkcjonariuszom urlopów, o których mowa w art. 84 i art. 85 ust. 1–4, mając na uwadze:
 
 - **1)** przełożonych właściwych w sprawach urlopów;
 - **2)** warunki udzielania płatnych urlopów szkoleniowych i okolicznościowych;
@@ -1369,6 +1411,11 @@ Art. 141–210. (pominięte)
 2. Rozporządzenie powinno uwzględniać prawo funkcjonariusza do odpoczynku oraz zapewnienie ciągłości i skuteczności realizacji zadań.
 
 **Art. 88.** Funkcjonariuszowi, który osiąga znaczące wyniki w służbie, Szef CBA może udzielić następujących wyróżnień:
+
+- **1)** krótkoterminowego urlopu wypoczynkowego w wymiarze do 7 dni roboczych;
+- **2)** nagrody pieniężnej lub rzeczowej;
+- **3)** mianowania na wyższe stanowisko służbowe;
+- **4)** przedstawienia do orderu lub odznaczenia.
 
 **Art. 89.**
 
@@ -1400,7 +1447,7 @@ Art. 141–210. (pominięte)
 
 - **1)** popełnienia przez funkcjonariusza przestępstwa, przestępstwa skarbowego lub przewinienia dyscyplinarnego,
 - **2)** niewywiązywania się przez funkcjonariusza z realizacji zadań służbowych,
-- **3)** znacznego obniżenia efektywności pracy funkcjonariusza – może obniżyć wysokość premii przed upływem sześciomiesięcznego okresu, na który została ustalona.
+- **3)** znacznego obniżenia efektywności pracy funkcjonariusza może obniżyć wysokość premii przed upływem sześciomiesięcznego okresu, na który została ustalona.
 
 4f. Szef CBA może ustalić wyższą wysokość premii, przed upływem sześciomiesięcznego okresu, na który została ustalona, jeżeli jest to uzasadnione charakterem i efektami bieżąco realizowanych zadań lub wykonywaniem przez funkcjonariusza czynności wykraczających poza zakres jego obowiązków służbowych.
 
@@ -1420,8 +1467,8 @@ Art. 141–210. (pominięte)
 
 4l. Dodatek stołeczny przyznaje, w drodze decyzji:
 
-- **1)** Prezes Rady Ministrów – Szefowi CBA;
-- **2)** Szef CBA – zastępcy Szefa CBA oraz funkcjonariuszowi pełniącemu służbę w jednostce organizacyjnej CBA znajdującej się na obszarze miasta stołecznego Warszawy.
+- **1)** Prezes Rady Ministrów Szefowi CBA;
+- **2)** Szef CBA zastępcy Szefa CBA oraz funkcjonariuszowi pełniącemu służbę w jednostce organizacyjnej CBA znajdującej się na obszarze miasta stołecznego Warszawy.
 
 4m. Decyzja, o której mowa w ust. 4l, wygasa z dniem:
 
@@ -1440,7 +1487,7 @@ Art. 141–210. (pominięte)
 
 - **1)** operacyjno-rozpoznawcze,
 - **2)** dochodzeniowo-śledcze,
-- **3)** kontrolne – poza obszarem województwa, na którym znajduje się jednostka organizacyjna CBA, w której pełni służbę, za każdy dzień wykonywania tych czynności przysługuje dodatek terenowy w wysokości 6 % kwoty bazowej, o której mowa w art. 89 ust. 5.
+- **3)** kontrolne poza obszarem województwa, na którym znajduje się jednostka organizacyjna CBA, w której pełni służbę, za każdy dzień wykonywania tych czynności przysługuje dodatek terenowy w wysokości 6 % kwoty bazowej, o której mowa w art. 89 ust. 5.
 
 2. Dodatek terenowy wypłaca się z dołu do dnia 10. każdego miesiąca za miesiąc poprzedni.
 
@@ -1521,7 +1568,7 @@ Art. 141–210. (pominięte)
 
 - **3)** zwolnienia ze służby na podstawie art. 64 ust. 1 pkt 2, 4 lub 5 albo art. 64 ust. 2 pkt 1.
 
-9. Obniżenie lub pozbawienie prawa do nagrody rocznej następuje za rok kalendarzowy, w którym funkcjonariusz popełnił czyn będący przedmiotem postępowania karnego, karnego skarbowego lub dyscyplinarnego, a jeżeli nagroda została funkcjonariuszowi wypłacona – za rok, w którym postępowanie zostało zakończone prawomocnym orzeczeniem.
+9. Obniżenie lub pozbawienie prawa do nagrody rocznej następuje za rok kalendarzowy, w którym funkcjonariusz popełnił czyn będący przedmiotem postępowania karnego, karnego skarbowego lub dyscyplinarnego, a jeżeli nagroda została funkcjonariuszowi wypłacona za rok, w którym postępowanie zostało zakończone prawomocnym orzeczeniem.
 
 10. Nagrodę roczną wypłaca się w ciągu pierwszych trzech miesięcy kalendarzowych następujących po roku, za który przysługuje nagroda roczna, z wyjątkiem nagrody rocznej przysługującej funkcjonariuszowi zwalnianemu ze służby oraz nagrody rocznej przysługującej zmarłemu funkcjonariuszowi, które wypłaca się niezwłocznie, po stwierdzeniu wygaśnięcia stosunku służbowego.
 
@@ -1584,7 +1631,7 @@ Art. 141–210. (pominięte)
 
 **Art. 95.**
 
-1. Z uposażenia funkcjonariuszy mogą być dokonywane potrącenia na podstawie sądowych i administracyjnych tytułów wykonawczych oraz na podstawie przepisów szczególnych – na zasadach określonych w przepisach o egzekucji sądowej lub postępowaniu egzekucyjnym w administracji albo w innych przepisach szczególnych.
+1. Z uposażenia funkcjonariuszy mogą być dokonywane potrącenia na podstawie sądowych i administracyjnych tytułów wykonawczych oraz na podstawie przepisów szczególnych na zasadach określonych w przepisach o egzekucji sądowej lub postępowaniu egzekucyjnym w administracji albo w innych przepisach szczególnych.
 
 2. Prezes Rady Ministrów określi, w drodze rozporządzenia, terminy płatności uposażenia i innych świadczeń pieniężnych, a także właściwość i tryb postępowania w sprawach wypłacania świadczeń pieniężnych oraz dokonywania potrąceń z tych należności, uwzględniając formy wypłaty świadczeń pieniężnych oraz maksymalny dopuszczalny okres opóźnienia w ich wypłacie.
 
@@ -1632,9 +1679,9 @@ Art. 141–210. (pominięte)
 3. Świadczenia teleinformatycznego, o którym mowa w art. 5 ustawy z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa, nie przyznaje się funkcjonariuszowi:
 
 - **1)** przeciwko któremu wszczęto postępowanie karne lub dyscyplinarne do czasu prawomocnego zakończenia tego postępowania;
-- **2)** ukaranemu karą dyscyplinarną – do czasu jej zatarcia;
+- **2)** ukaranemu karą dyscyplinarną do czasu jej zatarcia;
 - **3)** tymczasowo aresztowanemu;
-- **4)** skazanemu wyrokiem sądu lub w stosunku do którego postępowanie karne zostało warunkowo umorzone – przez okres jednego roku od dnia uprawomocnienia się orzeczenia.
+- **4)** skazanemu wyrokiem sądu lub w stosunku do którego postępowanie karne zostało warunkowo umorzone przez okres jednego roku od dnia uprawomocnienia się orzeczenia.
 
 4. Jeżeli po przyznaniu świadczenia teleinformatycznego, o którym mowa w art. 5 ustawy z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa, funkcjonariusz przestanie realizować zadania, o których mowa w ust. 1, Szef CBA niezwłocznie wydaje decyzję o cofnięciu świadczenia teleinformatycznego.
 
@@ -1642,7 +1689,7 @@ Art. 141–210. (pominięte)
 
 - **1)** przerw w wykonywaniu obowiązków służbowych, wymienionych w art. 105 ust. 1–3, za które funkcjonariusz nie zachował prawa do uposażenia;
 - **2)** o którym mowa w art. 102b ust. 2 pkt 1 i 3–5;
-- **3)** innej nieobecności trwającej co najmniej jeden miesiąc, z wyłączeniem urlopu wypoczynkowego lub dodatkowego, o którym mowa w art. 85 ust. 1 – proporcjonalnie do tego okresu.
+- **3)** innej nieobecności trwającej co najmniej jeden miesiąc, z wyłączeniem urlopu wypoczynkowego lub dodatkowego, o którym mowa w art. 85 ust. 1 proporcjonalnie do tego okresu.
 
 6. Świadczenie teleinformatyczne, o którym mowa w art. 5 ustawy z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa, wypłaca się w każdym kolejnym miesiącu kalendarzowym, począwszy od miesiąca następującego po miesiącu, w którym została wydana decyzja o przyznaniu świadczenia teleinformatycznego.
 
@@ -1654,8 +1701,8 @@ Art. 141–210. (pominięte)
 
 1. Funkcjonariuszowi przyznaje się świadczenie motywacyjne po osiągnięciu:
 
-- **1)** 25 lat służby, ale nie więcej niż 28 lat i 6 miesięcy – w wysokości 1500 zł miesięcznie albo
-- **2)** 28 lat i 6 miesięcy służby – w wysokości 2500 zł miesięcznie.
+- **1)** 25 lat służby, ale nie więcej niż 28 lat i 6 miesięcy w wysokości 1500 zł miesięcznie albo
+- **2)** 28 lat i 6 miesięcy służby w wysokości 2500 zł miesięcznie.
 
 2. Do stażu służby, o którym mowa w ust. 1, zalicza się okresy:
 
@@ -1673,10 +1720,10 @@ Art. 141–210. (pominięte)
 
 7. Świadczenia motywacyjnego nie przyznaje się funkcjonariuszowi:
 
-- **1)** który podczas ostatniego opiniowania służbowego otrzymał jedną z opinii służbowych, o których mowa w art. 61 ust. 2 pkt 2 albo 3 albo art. 64 ust. 1 pkt 2 albo ust. 2 pkt 1 – przez okres jednego roku od dnia wydania ostatecznej opinii służbowej;
-- **2)** przeciwko któremu wszczęto postępowanie karne w sprawie o przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe lub postępowanie dyscyplinarne – do czasu prawomocnego zakończenia tego postępowania;
-- **3)** ukaranemu karą dyscyplinarną – do czasu jej zatarcia;
-- **4)** skazanemu wyrokiem sądu lub w stosunku do którego postępowanie karne zostało warunkowo umorzone – przez okres jednego roku od dnia uprawomocnienia się orzeczenia.
+- **1)** który podczas ostatniego opiniowania służbowego otrzymał jedną z opinii służbowych, o których mowa w art. 61 ust. 2 pkt 2 albo 3 albo art. 64 ust. 1 pkt 2 albo ust. 2 pkt 1 przez okres jednego roku od dnia wydania ostatecznej opinii służbowej;
+- **2)** przeciwko któremu wszczęto postępowanie karne w sprawie o przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe lub postępowanie dyscyplinarne do czasu prawomocnego zakończenia tego postępowania;
+- **3)** ukaranemu karą dyscyplinarną do czasu jej zatarcia;
+- **4)** skazanemu wyrokiem sądu lub w stosunku do którego postępowanie karne zostało warunkowo umorzone przez okres jednego roku od dnia uprawomocnienia się orzeczenia.
 
 8. Jeżeli po przyznaniu świadczenia motywacyjnego wystąpią okoliczności, o których mowa w ust. 7, niezwłocznie wydaje się decyzję stwierdzającą ustanie prawa do wypłaty tego świadczenia.
 
@@ -1688,7 +1735,7 @@ Art. 141–210. (pominięte)
 - **2)** przerw w wykonywaniu obowiązków służbowych, za które funkcjonariusz nie zachował prawa do uposażenia, wymienionych w art. 105 ust. 1–3,
 - **3)** zawieszenia w czynnościach służbowych albo tymczasowego aresztowania,
 - **4)** zwolnienia od zajęć służbowych, o którym mowa w art. 102b ust. 2 pkt 1 i 3–5,
-- **5)** innej nieobecności trwającej co najmniej jeden miesiąc – proporcjonalnie do tego okresu.
+- **5)** innej nieobecności trwającej co najmniej jeden miesiąc proporcjonalnie do tego okresu.
 
 11. Świadczenie motywacyjne wypłaca się w każdym kolejnym miesiącu kalendarzowym, począwszy od miesiąca następującego po miesiącu, w którym wydano decyzję o przyznaniu świadczenia motywacyjnego.
 
@@ -1708,7 +1755,7 @@ Art. 141–210. (pominięte)
 
 1. W przypadku śmierci funkcjonariusza, niezależnie od odprawy pośmiertnej, o której mowa w art. 98 ust. 1, przysługuje zasiłek pogrzebowy w wysokości:
 
-- **1)** 7000 zł, jeżeli koszty pogrzebu ponosi małżonek, dzieci, wnuki, rodzeństwo lub rodzice;
+- **1)** 4000 zł, jeżeli koszty pogrzebu ponosi małżonek, dzieci, wnuki, rodzeństwo lub rodzice;
 - **2)** kosztów rzeczywiście poniesionych, najwyżej jednak do wysokości określonej w pkt 1, jeżeli koszty pogrzebu ponosi inna osoba.
 
 2. Jeżeli śmierć funkcjonariusza nastąpiła na skutek wypadku pozostającego w związku ze służbą, koszty pogrzebu pokrywa się ze środków CBA. Szef CBA może wyrazić zgodę na pokrycie kosztów pogrzebu funkcjonariusza zmarłego wskutek choroby pozostającej w związku ze służbą.
@@ -1717,7 +1764,7 @@ Art. 141–210. (pominięte)
 
 1. W przypadku śmierci członka rodziny funkcjonariuszowi przysługuje zasiłek pogrzebowy w wysokości:
 
-- **1)** 7000 zł – jeżeli koszty pogrzebu ponosi funkcjonariusz;
+- **1)** 4000 zł jeżeli koszty pogrzebu ponosi funkcjonariusz;
 - **2)** kosztów rzeczywiście poniesionych, najwyżej jednak do wysokości określonej w pkt 1, jeżeli koszty pogrzebu ponosi inna osoba.
 
 2. Zasiłek pogrzebowy, o którym mowa w ust. 1, przysługuje w przypadku śmierci członków rodziny funkcjonariusza:
@@ -1731,28 +1778,26 @@ Art. 141–210. (pominięte)
 
 3. (uchylony)
 
-**Art. 101a.** Zasiłek pogrzebowy, o którym mowa w art. 100 ust. 1 pkt 1 oraz art. 101 ust. 1 pkt 1, podlega zwiększeniu w terminach i na zasadach określonych w art. 80 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
-
 **Art. 102.** W przypadku urlopu, zwolnienia od zajęć służbowych oraz w okresie pozostawania w dyspozycji Szefa CBA funkcjonariusz otrzymuje uposażenie i inne należności pieniężne przysługujące na ostatnio zajmowanym stanowisku służbowym, z uwzględnieniem powstałych w tym okresie zmian, mających wpływ na prawo do uposażenia i innych świadczeń pieniężnych lub na ich wysokość.
 
 **Art. 102a.**
 
-1. Miesięczne uposażenie funkcjonariusza za okres ustalony przepisami Kodeksu pracy jako okres urlopu macierzyńskiego, okres uzupełniającego urlopu macierzyńskiego, okres urlopu na warunkach urlopu macierzyńskiego oraz okres urlopu ojcowskiego wynosi 100 % uposażenia, o którym mowa w art. 102.
+- **11)** 1. Miesięczne uposażenie funkcjonariusza za okres ustalony przepisami Kodeksu pracy jako okres urlopu macierzyńskiego, okres uzupełniającego urlopu macierzyńskiego, okres urlopu na warunkach urlopu macierzyńskiego oraz okres urlopu ojcowskiego wynosi 100 % uposażenia, o którym mowa w art. 102.
 
 2. Miesięczne uposażenie funkcjonariusza za okres ustalony przepisami Kodeksu pracy jako okres urlopu rodzicielskiego wynosi:
 
 - **1)** 100 % miesięcznego uposażenia, o którym mowa w art. 102, za okres do:
-    - **a)** 6 tygodni urlopu rodzicielskiego – w przypadkach, o których mowa w art. 182 § 1 pkt 1 i § 2 pkt 1 oraz art. 183 § 4 pkt 1, § 4 pkt 1, § 4 pkt 1 i § 4 pkt 1 Kodeksu pracy,
-    - **b)** 8 tygodni urlopu rodzicielskiego – w przypadkach, o których mowa w art. 182 § 1 pkt 2 i § 2 pkt 2 oraz art. 183 § 4 pkt 2, § 4 pkt 2, § 4 pkt 2 i § 4 pkt 2 Kodeksu pracy,
-    - **c)** 3 tygodni urlopu rodzicielskiego – w przypadkach, o których mowa w art. 183 § 4 pkt 3, § 4 i § 4 pkt 3 Kodeksu pracy;
+    - **a)** 6 tygodni urlopu rodzicielskiego w przypadkach, o których mowa w art. 182 § 1 pkt 1 i § 2 pkt 1 oraz art. 183 § 4 pkt 1, § 4 pkt 1, § 4 pkt 1 i § 4 pkt 1 Kodeksu pracy,
+    - **b)** 8 tygodni urlopu rodzicielskiego w przypadkach, o których mowa w art. 182 § 1 pkt 2 i § 2 pkt 2 oraz art. 183 § 4 pkt 2, § 4 pkt 2, § 4 pkt 2 i § 4 pkt 2 Kodeksu pracy,
+    - **c)** 3 tygodni urlopu rodzicielskiego w przypadkach, o których mowa w art. 183 § 4 pkt 3, § 4 i § 4 pkt 3 Kodeksu pracy;
 
 - **2)** 70 % miesięcznego uposażenia, o którym mowa w art. 102, za okres urlopu rodzicielskiego przypadający po okresach, o których mowa w pkt 1.
 
-3. Miesięczne uposażenie funkcjonariusza – kobiety, która we wniosku złożonym nie później niż 21 dni po porodzie wystąpi o udzielenie jej bezpośrednio po urlopie macierzyńskim urlopu rodzicielskiego w pełnym wymiarze, wynosi 81,5 % miesięcznego uposażenia, o którym mowa w art. 102, za cały okres odpowiadający okresowi tych urlopów, z wyłączeniem okresu, o którym mowa w art. 182 § 4 Kodeksu pracy.
+3. Miesięczne uposażenie funkcjonariusza kobiety, która we wniosku złożonym nie później niż 21 dni po porodzie wystąpi o udzielenie jej bezpośrednio po urlopie macierzyńskim urlopu rodzicielskiego w pełnym wymiarze, wynosi 81,5 % miesięcznego uposażenia, o którym mowa w art. 102, za cały okres odpowiadający okresowi tych urlopów, z wyłączeniem okresu, o którym mowa w art. 182 § 4 Kodeksu pracy.
 
 4. Miesięczne uposażenie funkcjonariusza, który we wniosku złożonym nie później niż 21 dni po przyjęciu dziecka na wychowanie i wystąpieniu do sądu opiekuńczego z wnioskiem o wszczęcie postępowania w sprawie przysposobienia dziecka albo po przyjęciu dziecka na wychowanie jako rodzina zastępcza, z wyjątkiem rodziny zastępczej zawodowej, wystąpi o udzielenie mu urlopu na warunkach urlopu macierzyńskiego i urlopu rodzicielskiego w pełnym wymiarze, wynosi 81,5 % uposażenia, o którym mowa w art. 102, za cały okres odpowiadający okresowi tych urlopów, z wyłączeniem okresu, o którym mowa w art. 182 § 4 Kodeksu pracy.
 
-5. W przypadku gdy wysokość uposażenia funkcjonariusza pomniejszonego o zaliczkę na podatek dochodowy od osób fizycznych, obliczonego zgodnie z ust. 1– 4, jest niższa niż kwota świadczenia rodzicielskiego określonego w ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2024 r. poz. 323, 858, 1615 i 1871), kwotę uposażenia funkcjonariusza pomniejszonego o zaliczkę na podatek dochodowy od osób fizycznych podwyższa się do wysokości świadczenia rodzicielskiego.
+5. W przypadku gdy wysokość uposażenia funkcjonariusza pomniejszonego o zaliczkę na podatek dochodowy od osób fizycznych, obliczonego zgodnie z ust. 1–4, jest niższa niż kwota świadczenia rodzicielskiego określonego w ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2024 r. poz. 323, 858, 1615 i 1871), kwotę uposażenia funkcjonariusza pomniejszonego o zaliczkę na podatek dochodowy od osób fizycznych podwyższa się do wysokości świadczenia rodzicielskiego.
 
 6. Uposażenie za okres odpowiadający okresowi urlopu rodzicielskiego w części przysługującej drugiemu rodzicowi dziecka będącemu funkcjonariuszem CBA, o której mowa w art. 182 § 4 Kodeksu pracy, wynosi 70 % uposażenia, o którym mowa w art. 102.
 
@@ -1777,7 +1822,7 @@ Art. 141–210. (pominięte)
     - **b)** porodu lub choroby małżonka funkcjonariusza lub rodzica dziecka funkcjonariusza, stale opiekujących się dzieckiem, jeżeli poród lub choroba uniemożliwia temu małżonkowi lub rodzicowi sprawowanie opieki nad dzieckiem,
     - **c)** pobytu małżonka funkcjonariusza lub rodzica dziecka funkcjonariusza, stale opiekujących się dzieckiem, w szpitalu lub innym zakładzie leczniczym podmiotu leczniczego wykonującego działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne.
 
-3. Zwolnienie od zajęć służbowych z powodu konieczności osobistego sprawowania opieki, o której mowa w ust. 2 pkt 3 i 5, przysługuje przez okres nie dłuższy niż 60 dni w roku kalendarzowym, a w przypadku, o którym mowa w ust. 2 pkt 4 – przez okres nie dłuższy niż 14 dni w roku kalendarzowym, przy czym okresy te łącznie nie mogą przekroczyć 60 dni w roku kalendarzowym.
+3. Zwolnienie od zajęć służbowych z powodu konieczności osobistego sprawowania opieki, o której mowa w ust. 2 pkt 3 i 5, przysługuje przez okres nie dłuższy niż 60 dni w roku kalendarzowym, a w przypadku, o którym mowa w ust. 2 pkt 4 przez okres nie dłuższy niż 14 dni w roku kalendarzowym, przy czym okresy te łącznie nie mogą przekroczyć 60 dni w roku kalendarzowym.
 
 4. Przepis ust. 3 stosuje się bez względu na liczbę dzieci i innych członków rodziny wymagających opieki.
 
@@ -1789,7 +1834,7 @@ Art. 141–210. (pominięte)
 - **4)** choroby przypadającej w czasie ciąży,
 - **5)** poddania się niezbędnym badaniom lekarskim przewidzianym dla kandydatów na dawców komórek, tkanek i narządów oraz poddania się zabiegowi pobrania komórek, tkanek i narządów,
 - **6)** oddania krwi lub jej składników w jednostkach organizacyjnych publicznej służby krwi lub z powodu badania lekarskiego dawców krwi,
-- **7)** przebywania na obserwacji w podmiocie leczniczym w wyniku skierowania przez komisję lekarską – zachowuje on prawo do 100 % uposażenia.
+- **7)** przebywania na obserwacji w podmiocie leczniczym w wyniku skierowania przez komisję lekarską zachowuje on prawo do 100 % uposażenia.
 
 6. Prawo do 100 % uposażenia przysługuje również wtedy, gdy funkcjonariusz został zwolniony od zajęć służbowych:
 
@@ -1804,9 +1849,9 @@ Art. 141–210. (pominięte)
 
 1. Okres przebywania na zwolnieniu lekarskim stwierdza zaświadczenie lekarskie wystawione przez lekarza na zwykłym druku, z tym że:
 
-- **1)** w przypadku, o którym mowa w art. 102b ust. 2 pkt 2 – zaświadczenie jednostki organizacyjnej publicznej służby krwi;
-- **2)** w przypadku, o którym mowa w art. 102b ust. 2 pkt 5 lit. a – oświadczenie funkcjonariusza;
-- **3)** w przypadku, o którym mowa w art. 6 ust. 2 pkt 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa – decyzja wydana przez właściwy organ albo uprawniony podmiot na podstawie przepisów o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi.
+- **1)** w przypadku, o którym mowa w art. 102b ust. 2 pkt 2 zaświadczenie jednostki organizacyjnej publicznej służby krwi;
+- **2)** w przypadku, o którym mowa w art. 102b ust. 2 pkt 5 lit. a oświadczenie funkcjonariusza;
+- **3)** w przypadku, o którym mowa w art. 6 ust. 2 pkt 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa decyzja wydana przez właściwy organ albo uprawniony podmiot na podstawie przepisów o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi.
 
 2. W przypadkach uzasadnionych charakterem, miejscem, sposobem lub rodzajem zadań służbowych wykonywanych przez funkcjonariusza okres jego przebywania na zwolnieniu lekarskim stwierdza się w inny sposób niż określony w ust. 1.
 
@@ -1826,8 +1871,8 @@ Art. 141–210. (pominięte)
 
 2. Kontrolę przeprowadzają:
 
-- **1)** komisje lekarskie podległe ministrowi właściwemu do spraw wewnętrznych – w zakresie prawidłowości orzekania o czasowej niezdolności do służby z powodu choroby oraz prawidłowości wykorzystania zwolnienia lekarskiego;
-- **2)** przełożony funkcjonariusza właściwy w sprawach osobowych – w zakresie prawidłowości wykorzystania zwolnienia lekarskiego i spełnienia wymogów formalnych zaświadczeń lekarskich oraz w zakresie oświadczenia funkcjonariusza, o którym mowa w art. 102c ust. 1 pkt 2.
+- **1)** komisje lekarskie podległe ministrowi właściwemu do spraw wewnętrznych w zakresie prawidłowości orzekania o czasowej niezdolności do służby z powodu choroby oraz prawidłowości wykorzystania zwolnienia lekarskiego;
+- **2)** przełożony funkcjonariusza właściwy w sprawach osobowych w zakresie prawidłowości wykorzystania zwolnienia lekarskiego i spełnienia wymogów formalnych zaświadczeń lekarskich oraz w zakresie oświadczenia funkcjonariusza, o którym mowa w art. 102c ust. 1 pkt 2.
 
 3. Jeżeli w wyniku kontroli zostanie ustalone nieprawidłowe wykorzystanie zwolnienia lekarskiego, funkcjonariusz traci prawo do uposażenia za cały okres zwolnienia.
 
@@ -1928,6 +1973,9 @@ Art. 141–210. (pominięte)
 - **10)** ujawnianie informacji pozostającej w związku z wykonywaniem czynności służbowych.
 
 **Art. 108.** Przewinienie dyscyplinarne jest zawinione wtedy, gdy funkcjonariusz:
+
+- **1)** ma zamiar jego popełnienia, to jest chce je popełnić albo przewidując możliwość jego popełnienia, na to się godzi;
+- **2)** nie mając zamiaru jego popełnienia, popełnia je jednak na skutek niezachowania ostrożności wymaganej w danych okolicznościach, mimo że możliwość taką przewidywał albo mógł i powinien przewidzieć.
 
 **Art. 109.**
 
@@ -2262,12 +2310,12 @@ Art. 141–210. (pominięte)
 
 2. Komisja przedstawia Szefowi CBA sprawozdanie, o którym mowa w ust. 1, w terminie 21 dni od dnia jej powołania.
 
-3. Rozpatrzenie odwołania przez Szefa CBA powinno nastąpić w terminie 14 dni od dnia wpływu odwołania, a w przypadku powołania komisji – w terminie 7 dni od dnia otrzymania sprawozdania, o którym mowa w ust. 1.
+3. Rozpatrzenie odwołania przez Szefa CBA powinno nastąpić w terminie 14 dni od dnia wpływu odwołania, a w przypadku powołania komisji w terminie 7 dni od dnia otrzymania sprawozdania, o którym mowa w ust. 1.
 
 4. Szef CBA może zaskarżone orzeczenie:
 
 - **1)** utrzymać w mocy albo
-- **2)** uchylić w całości albo w części i w tym zakresie uniewinnić obwinionego, odstąpić od ukarania, względnie wymierzyć inną karę, bądź uchylając to orzeczenie – umorzyć postępowanie dyscyplinarne w pierwszej instancji, albo
+- **2)** uchylić w całości albo w części i w tym zakresie uniewinnić obwinionego, odstąpić od ukarania, względnie wymierzyć inną karę, bądź uchylając to orzeczenie umorzyć postępowanie dyscyplinarne w pierwszej instancji, albo
 - **3)** uchylić w całości i przekazać sprawę do ponownego rozpatrzenia przez przełożonego dyscyplinarnego, gdy rozstrzygnięcie sprawy wymaga przeprowadzenia czynności dowodowych w całości lub w znacznej części.
 
 5. Postępowanie odwoławcze umarza się w przypadku cofnięcia odwołania.
@@ -2291,7 +2339,7 @@ Art. 141–210. (pominięte)
 
 **Art. 135.**
 
-1. W zakresie nieuregulowanym w niniejszej ustawie do postępowania dyscyplinarnego stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, dotyczące wezwań, terminów, doręczeń i świadków, z wyłączeniem możliwości nakładania kar porządkowych oraz zatrzymania i doprowadzenia świadków. W postępowaniu dyscyplinarnym do świadków nie stosuje się art. 184 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
+1. W zakresie nieuregulowanym w niniejszej ustawie do postępowania dyscyplinarnego stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego, dotyczące wezwań, terminów, doręczeń i świadków, z wyłączeniem możliwości nakładania kar porządkowych oraz zatrzymania i doprowadzenia świadków. W postępowaniu dyscyplinarnym do świadków nie stosuje się art. 184 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego.
 
 2. O zwolnieniu od złożenia zeznania lub odpowiedzi na pytania osoby pozostającej z obwinionym w szczególnie bliskim stosunku osobistym rozstrzyga rzecznik dyscyplinarny. Na odmowę zwolnienia od złożenia zeznania lub odpowiedzi na pytania służy zażalenie w terminie 3 dni od dnia doręczenia postanowienia.
 
@@ -2327,7 +2375,7 @@ Art. 141–210. (pominięte)
 - **2)** zostały ujawnione istotne dla sprawy okoliczności, które nie były znane w toku postępowania dyscyplinarnego;
 - **3)** orzeczenie wydano z naruszeniem obowiązujących przepisów, jeżeli mogło to mieć wpływ na treść orzeczenia;
 - **4)** orzeczenie zostało wydane w oparciu o inną decyzję lub orzeczenie sądu, które zostały następnie uchylone lub zmienione;
-- **5)** prowadzone o ten sam czyn postępowanie karne, karne skarbowe lub w sprawach o wykroczenia zostało zakończone prawomocnym wyrokiem uniewinniającym albo orzeczeniem o umorzeniu postępowania ze względu na okoliczności określone w art. 17 § 1 pkt 1 lub 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego albo w art. 5 § 1 pkt 1 lub 2 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977 i 1544).
+- **5)** prowadzone o ten sam czyn postępowanie karne, karne skarbowe lub w sprawach o wykroczenia zostało zakończone prawomocnym wyrokiem uniewinniającym albo orzeczeniem o umorzeniu postępowania ze względu na okoliczności określone w art. 17 § 1 pkt 1 lub 2 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego albo w art. 5 § 1 pkt 1 lub 2 ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977 i 1544).
 
 2. Postępowanie dyscyplinarne wznawia się na wniosek ukaranego lub obwinionego albo, w przypadku jego śmierci, na wniosek jego małżonka, krewnych w linii prostej, rodzeństwa, przysposabiającego lub przysposobionego oraz rzecznika dyscyplinarnego, jeżeli w wyniku orzeczenia Trybunału Konstytucyjnego stracił moc lub uległ zmianie przepis prawny będący podstawą wydania orzeczenia dyscyplinarnego.
 

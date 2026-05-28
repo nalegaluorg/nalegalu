@@ -22,10 +22,13 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-16 |
 | Data wydania | 2015-12-28 |
+| Wejście w życie | 2016-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002198) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2198/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 22 lipca 2014 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. poz. 1138 i 1491) w art. 26 pkt 2 otrzymuje brzmienie: „
+
+- **2)** art. 1 pkt 52–54 i pkt 55 w zakresie art. 149 ust. 1 pkt 7, oraz art. 8 pkt 1, które wchodzą w życie z dniem 1 lipca 2016 r.; ” .
 
 **Art. 2.**
 

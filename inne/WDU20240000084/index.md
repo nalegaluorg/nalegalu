@@ -8,12 +8,10 @@ pos: 84
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# 1. Na podstawie art. 16 ust. 3 ustawy z 20 lipca 2000 ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z 14 sprawie warunków i sposobu naliczeń etatowych Granicznej (Dz. U. z 2021 poz. 2287), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z 13 lipca 2023 zmieniającym rozporządzenie sprawie warunków i sposobu naliczeń etatowych Granicznej (Dz. U. poz. 1401).
-
-*OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z 11 stycznia 2024 sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji sprawie warunków i sposobu naliczeń etatowych Granicznej*
+# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 11 stycznia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie warunków i sposobu naliczeń etatowych w Straży Granicznej
 
 | Pole | Wartość |
 |---|---|
@@ -27,52 +25,131 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000084) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/84/text.pdf) |
 
-Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z 13 lipca 2023 zmieniającego rozporządzenie sprawie warunków i sposobu naliczeń etatowych Granicznej (Dz. U. poz. 1401), który stanowi: „§ Rozporządzenie wchodzi życie z dniem października 2023 r.”.
-Minister Spraw Wewnętrznych i Administracji: wz. C. Mroczek Na podstawie art. 7 ustawy z 12 października 1990 Granicznej (Dz. U. z 2023 poz. 1080, 1088, 1489, 1723, 1860 i 2608) zarządza się, co następuje:
-1. 1. W Komendzie Głównej Granicznej, zwanej dalej „Komendą Główną”, naliczenia etatowe dokonywane są przy uwzględnieniu:
-1) zakresu, rodzaju i liczby realizowanych funkcjonariuszy i pracowników Komendy Głównej ustawowych zadań Granicznej;
-2) zakresu zadań wynikających ze sprawowania Komendanta Głównego Granicznej nadzoru nad terenowymi organami Granicznej, Biurem Spraw Wewnętrznych Granicznej, Wyższą Szkołą Granicznej, ośrodkami szkolenia Granicznej oraz ośrodkami Granicznej;
-zakresu zadań wynikających z prowadzenia współpracy międzynarodowej z organami i instytucjami właściwymi sprawach ochrony granic państwowych.
-1a. W Biurze Spraw Wewnętrznych Granicznej naliczenia etatowe dokonywane są przy uwzględnieniu:
-1) zakresu, rodzaju i liczby realizowanych funkcjonariuszy i pracowników Biura Spraw Wewnętrznych Granicznej ustawowych zadań Granicznej, szczególności zakresie rozpoznawania, zapobiegania i zwalczania przestępczości popełnianej funkcjonariuszy i pracowników Granicznej oraz wykrywania i ścigania sprawców tych przestępstw, a także funkcjonariuszy i pracowników Policji i Służby Ochrony Państwa lub strażaków i pracowników Państwowej Pożarnej;
-2) zakresu zadań wynikających ze współdziałania z innymi jednostkami organizacyjnymi Granicznej oraz właściwymi organami i instytucjami, tym innych państw.
-1b. W Wyższej Szkole Granicznej naliczenia etatowe dokonywane są przy uwzględnieniu:
-1) zakresu programów studiów oraz szkoleń;
-2) zadań realizowanych ramach posiadanych kompetencji;
+Treść obwieszczenia
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 14 czerwca 2002 r. w sprawie warunków i sposobu naliczeń etatowych w Straży Granicznej
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 14 czerwca 2002 r. w sprawie warunków i sposobu naliczeń etatowych w Straży Granicznej (Dz. U. z 2021 r. poz. 2287), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 13 lipca 2023 r. zmieniającym rozporządzenie w sprawie warunków i sposobu naliczeń etatowych w Straży Granicznej (Dz. U. poz. 1401).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 13 lipca 2023 r. zmieniającego rozporządzenie w sprawie warunków i sposobu naliczeń etatowych w Straży Granicznej (Dz. U. poz. 1401), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie z dniem 1 października 2023 r.
+” .
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 14 czerwca 2002 r. w sprawie warunków i sposobu naliczeń etatowych w Straży Granicznej
+Na podstawie art. 7 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080, 1088, 1489, 1723, 1860 i 2608) zarządza się, co następuje:
+§ 1.
+1.
+W Komendzie Głównej Straży Granicznej, zwanej dalej „Komendą Główną”, naliczenia etatowe dokonywane są przy uwzględnieniu:
+1)
+zakresu, rodzaju i liczby realizowanych przez funkcjonariuszy i pracowników Komendy Głównej ustawowych zadań Straży Granicznej;
+2)
+zakresu zadań wynikających ze sprawowania przez Komendanta Głównego Straży Granicznej nadzoru nad terenowymi organami Straży Granicznej, Biurem Spraw Wewnętrznych Straży Granicznej, Wyższą Szkołą Straży Granicznej, ośrodkami szkolenia Straży Granicznej oraz ośrodkami Straży Granicznej;
+3)
+zakresu zadań wynikających z prowadzenia współpracy międzynarodowej z organami i instytucjami właściwymi w sprawach ochrony granic państwowych.
+1a.
+W Biurze Spraw Wewnętrznych Straży Granicznej naliczenia etatowe dokonywane są przy uwzględnieniu:
+1)
+zakresu, rodzaju i liczby realizowanych przez funkcjonariuszy i pracowników Biura Spraw Wewnętrznych Straży Granicznej ustawowych zadań Straży Granicznej, w szczególności w zakresie rozpoznawania, zapobiegania i zwalczania przestępczości popełnianej przez funkcjonariuszy i pracowników Straży Granicznej oraz wykrywania i ścigania sprawców tych przestępstw, a także funkcjonariuszy i pracowników Policji i Służby Ochrony Państwa lub strażaków i pracowników Państwowej Straży Pożarnej;
+2)
+zakresu zadań wynikających ze współdziałania z innymi jednostkami organizacyjnymi Straży Granicznej oraz właściwymi organami i instytucjami, w tym innych państw.
+1b.
+W Wyższej Szkole Straży Granicznej naliczenia etatowe dokonywane są przy uwzględnieniu:
+1)
+zakresu programów studiów oraz szkoleń;
+2)
+zadań realizowanych w ramach posiadanych kompetencji;
+3)
 liczby studentów i słuchaczy;
+4)
 liczby i formy studiów oraz rodzaju i formy szkoleń;
+5)
 przewidywanych potrzeb szkoleniowych;
-6) posiadanego zabezpieczenia logistycznego.
-W komendach oddziałów Granicznej, zwanych dalej „komendami oddziałów”, naliczenia etatowe dokonywane są przy uwzględnieniu:
-1) zakresu, rodzaju i liczby realizowanych funkcjonariuszy i pracowników komend oddziałów ustawowych zadań Granicznej;
-2) liczby, rodzaju i kategorii podległych komendantowi oddziału Granicznej jednostek organizacyjnych Granicznej;
-ustawowych zadań Granicznej, szczególności zaludnienia, infrastruktury drogowej, ukształtowania terenu, zalesienia lub istnienia przeszkód wodnych, a przypadku placówki, której wyznaczono do ochrony odcinek granicy państwowej, także długości tego odcinka;
-istniejącego i przewidywanego natężenia i rodzaju ruchu granicznego;
-stopnia zagrożenia i rodzaju przestępczości oraz przewidywanej tendencji rozwoju sytuacji tym zakresie terytorialnym zasięgu działania placówki;
-kategorii placówki.
-4. (uchylony).
-5. W dywizjonach Granicznej naliczenia etatowe dokonywane są przy uwzględnieniu:
-1) stopnia zagrożenia i rodzaju przestępczości;
-2) długości ochranianego brzegu morskiego;
-sytuacji na ochranianym odcinku granicy państwowej;
-obszaru strefy ekonomicznej, której prowadzą działania jednostki pływające Granicznej;
-liczby i rodzaju jednostek pływających;
-6) innych warunków terenowych mających wpływ na prowadzone działania.
-6. W ośrodkach szkolenia Granicznej, zwanych dalej „ośrodkami szkolenia”, naliczenia etatowe dokonywane są przy uwzględnieniu:
-1) zakresu programów szkoleń;
-2) zadań realizowanych ramach posiadanych kompetencji;
-liczby słuchaczy;
-liczby i rodzaju kierunków szkoleń;
-przewidywanych potrzeb szkoleniowych;
-6) dyslokacji ośrodka szkolenia;
-7) posiadanego zabezpieczenia logistycznego.
-7. W ośrodkach Granicznej naliczenia etatowe dokonywane są przy uwzględnieniu:
-1) zakresu zadań realizowanych na rzecz innych jednostek organizacyjnych Granicznej lub celu wsparcia działań prowadzonych te jednostki;
-2) zakresu, rodzaju i liczby realizowanych zadań zleconych Komendanta Głównego Granicznej;
-zadań realizowanych ramach posiadanych kompetencji;
-dyslokacji ośrodków Granicznej;
+6)
 posiadanego zabezpieczenia logistycznego.
+2.
+W komendach oddziałów Straży Granicznej, zwanych dalej „komendami oddziałów”, naliczenia etatowe dokonywane są przy uwzględnieniu:
+1)
+zakresu, rodzaju i liczby realizowanych przez funkcjonariuszy i pracowników komend oddziałów ustawowych zadań Straży Granicznej;
+2)
+liczby, rodzaju i kategorii podległych komendantowi oddziału Straży Granicznej jednostek organizacyjnych Straży Granicznej;
+3)
+terytorialnego zasięgu działania oddziału Straży Granicznej oraz długości ochranianego odcinka granicy państwowej;
+4)
+natężenia i rodzaju ruchu granicznego;
+5)
+stopnia zagrożenia i rodzaju przestępczości, której zwalczanie należy do zadań komendanta oddziału.
+3.
+W placówkach Straży Granicznej, zwanych dalej „placówkami”, naliczenia etatowe dokonywane są przy uwzględnieniu:
+1)
+zakresu, rodzaju i liczby realizowanych przez funkcjonariuszy i pracowników placówki zadań Straży Granicznej;
+2)
+terytorialnego zasięgu działania placówki i występujących w tym zasięgu czynników mających znaczenie dla realizacji ustawowych zadań Straży Granicznej, w szczególności zaludnienia, infrastruktury drogowej, ukształtowania terenu, zalesienia lub istnienia przeszkód wodnych, a w przypadku placówki, której wyznaczono do ochrony odcinek granicy państwowej, także długości tego odcinka;
+3)
+istniejącego i przewidywanego natężenia i rodzaju ruchu granicznego;
+4)
+stopnia zagrożenia i rodzaju przestępczości oraz przewidywanej tendencji rozwoju sytuacji w tym zakresie w terytorialnym zasięgu działania placówki;
+5)
+kategorii placówki.
+4.
+(uchylony).
+5.
+W dywizjonach Straży Granicznej naliczenia etatowe dokonywane są przy uwzględnieniu:
+1)
+stopnia zagrożenia i rodzaju przestępczości;
+2)
+długości ochranianego brzegu morskiego;
+3)
+sytuacji na ochranianym odcinku granicy państwowej;
+4)
+obszaru strefy ekonomicznej, w której prowadzą działania jednostki pływające Straży Granicznej;
+5)
+liczby i rodzaju jednostek pływających;
+6)
+innych warunków terenowych mających wpływ na prowadzone działania.
+6.
+W ośrodkach szkolenia Straży Granicznej, zwanych dalej „ośrodkami szkolenia”, naliczenia etatowe dokonywane są przy uwzględnieniu:
+1)
+zakresu programów szkoleń;
+2)
+zadań realizowanych w ramach posiadanych kompetencji;
+3)
+liczby słuchaczy;
+4)
+liczby i rodzaju kierunków szkoleń;
+5)
+przewidywanych potrzeb szkoleniowych;
+6)
+dyslokacji ośrodka szkolenia;
+7)
+posiadanego zabezpieczenia logistycznego.
+7.
+W ośrodkach Straży Granicznej naliczenia etatowe dokonywane są przy uwzględnieniu:
+1)
+zakresu zadań realizowanych na rzecz innych jednostek organizacyjnych Straży Granicznej lub w celu wsparcia działań prowadzonych przez te jednostki;
+2)
+zakresu, rodzaju i liczby realizowanych zadań zleconych przez Komendanta Głównego Straży Granicznej;
+3)
+zadań realizowanych w ramach posiadanych kompetencji;
+4)
+dyslokacji ośrodków Straży Granicznej;
+5)
+posiadanego zabezpieczenia logistycznego.
+§ 2.
 Liczba i rodzaj tworzonych etatów powinny zapewniać:
-1) efektywne wykorzystanie posiadanych zasobów ludzkich;
-2) możliwość realizacji ustawowych zadań Granicznej;
+1)
+efektywne wykorzystanie posiadanych zasobów ludzkich;
+2)
+możliwość realizacji ustawowych zadań Straży Granicznej;
+3)
+płynność odpraw granicznych;
+4)
+właściwy system zarządzania;
+5)
+utrzymanie w należytym stanie technicznym posiadanych pojazdów, statków powietrznych, jednostek pływających, innego sprzętu oraz obiektów.
+§ 3.
+Przepisy rozporządzenia stosuje się od dnia 16 czerwca 2002 r.
+§ 4.
+Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708). 2) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 13 lipca 2023 r. zmieniającego rozporządzenie w sprawie warunków i sposobu naliczeń etatowych w Straży Granicznej (Dz. U. poz. 1401), które weszło w życie z dniem 1 października 2023 r. 3) Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 6) Rozporządzenie zostało ogłoszone w dniu 26 czerwca 2002 r.
 

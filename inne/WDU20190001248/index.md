@@ -8,12 +8,10 @@ pos: 1248
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy o Polskiej Agencji Kosmicznej oraz ustawy o działach administracji rządowej
-
-*USTAWA z dnia 13 czerwca 2019 r.*
+# Ustawa z dnia 13 czerwca 2019 r. o zmianie ustawy o Polskiej Agencji Kosmicznej oraz ustawy o działach administracji rządowej
 
 | Pole | Wartość |
 |---|---|
@@ -24,36 +22,272 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2019-06-13 |
 | Data wydania | 2019-07-05 |
+| Wejście w życie | 2019-07-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001248) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1248/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 26 września 2014 r. o Polskiej Agencji Kosmicznej (Dz. U. z 2018 r. poz. 601 i 1669) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2019 r. poz. 945) wprowadza się następujące zmiany:
+- **1)** art. 2 otrzymuje brzmienie: „
 
-**Art. 3.**
+**Art. 2.** Agencja podlega ministrowi właściwemu do spraw gospodarki. ” ;
 
-1. Prezes Polskiej Agencji Kosmicznej, zwanej dalej „Agencją”, powołany przed dniem wejścia życie niniejszej ustawy pełni funkcję do czasu wygaśnięcia kadencji, na którą został powołany. Do odwołania Prezesa Agencji przed upływem kadencji mają zastosowanie przepisy ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
+- **2)** w art. 3: ust. 1 otrzymuje brzmienie: „
+    - **a)**
 
-2. Wiceprezesi Agencji powołani przed dniem wejścia życie niniejszej ustawy pełnią obowiązki do dnia powołania wiceprezesa Agencji zgodnie z przepisami ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
+1. Agencja realizuje zadania w zakresie wspierania:
 
-3. Osoby powołane do składu Rady Agencji na podstawie przepisów ustawy zmienianej art. 1 zachowują członkostwo Radzie do czasu wygaśnięcia kadencji, na którą zostali powołani. Do odwołania członka Rady Agencji przed upływem kadencji mają zastosowanie przepisy ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
+- **1)** przemysłu kosmicznego;
+- **2)** badań;
+- **3)** użytkowania przestrzeni kosmicznej;
+- **4)** rozwoju techniki kosmicznej, w tym inżynierii satelitarnej;
+- **5)** wykorzystania badań i ich wyników do celów użytkowych, gospodarczych, obronnych, bezpieczeństwa państwa i naukowych. ” , w ust. 2: – uchyla się pkt 2 i 3, – pkt 4 otrzymuje brzmienie: „ 4) identyfikowanie i analizowanie, we współpracy z właściwymi ministrami, wyzwań i problemów współpracy międzynarodowej w dziedzinie badania i użytkowania przestrzeni kosmicznej; ” , – uchyla się pkt 6, – pkt 7–11 otrzymują brzmienie: „ 7) współdziałanie z Polskim Komitetem Normalizacyjnym, właściwymi organami państwa i organizacjami międzynarodowymi w zakresie tworzenia definicji, norm i specyfikacji technicznych z zakresu techniki kosmicznej, w tym inżynierii satelitarnej; 8) sprawowanie doradztwa w dziedzinie użytkowania przestrzeni kosmicznej oraz udział w europejskim procesie harmonizacji technologii kosmicznych i satelitarnych w charakterze wsparcia eksperckiego; 9) wspieranie organów państwa w sprawach dotyczących polityki kosmicznej, w tym przygotowywanie i udostępnianie tym organom analiz i raportów z zakresu badań przestrzeni kosmicznej oraz jej użytkowania w różnych sektorach gospodarki, a także w obszarach obronności i bezpieczeństwa państwa; 10) prowadzenie rejestru obiektów znajdujących się w przestrzeni kosmicznej na zasadach określonych w Konwencji o rejestracji obiektów wypuszczonych w przestrzeń kosmiczną, otwartej do podpisania w Nowym Jorku dnia 14 stycznia 1975 r. (Dz. U. z 1979 r. poz. 22); 11) uczestniczenie, na wniosek właściwych organów państwa, w procesie konsultacji dotyczących polskiej aktywności w dziedzinie badań i użytkowania przestrzeni kosmicznej, w szczególności przez wskazywanie doradców i ekspertów do polskich delegacji i przedstawicielstw w instytucjach Unii Europejskiej, Europejskiej Agencji Kosmicznej, Europejskiej Organizacji Eksploatacji Satelitów Meteorologicznych (EUMETSAT), Europejskiej Agencji Obrony (EDA), Europejskiej Organizacji Badań Astronomicznych na Półkuli Południowej (ESO), Organizacji Traktatu Północnoatlantyckiego (NATO), Komitetu Organizacji Narodów Zjednoczonych do spraw Pokojowego Wykorzystania Przestrzeni Kosmicznej (UN COPUOS) i innych organizacji międzynarodowych; ” , – pkt 14–16 otrzymują brzmienie: „ 14) prowadzenie działalności edukacyjnej w zakresie badania i użytkowania przestrzeni kosmicznej, a także wspieranie organizacji i przedsięwzięć promujących sprzyjające warunki dla prowadzenia badań naukowych i prac rozwojowych w dziedzinie użytkowania przestrzeni kosmicznej; 15) identyfikowanie i analizowanie, we współpracy z ministrem właściwym do spraw szkolnictwa wyższego i nauki, potrzeb kształcenia na poziomie wyższym specjalistów w zakresie użytkowania przestrzeni kosmicznej i wspieranie kształcenia ekspertów w dziedzinie techniki kosmicznej, w szczególności inżynierii satelitarnej, w kooperacji z krajowymi i zagranicznymi uczelniami i instytucjami badawczymi; 16) wykonywanie zadań z zakresu obronności i bezpieczeństwa państwa określonych przez Ministra Obrony Narodowej lub inny organ administracji rządowej, uzgodnionych z ministrem właściwym do spraw gospodarki, w tym dotyczących: a) satelitarnej obserwacji powierzchni Ziemi, b) obserwacji przestrzeni kosmicznej, c) nawigacji i łączności satelitarnej, d) analiz zagrożeń w przestrzeni kosmicznej, e) technologii rakietowych. ” , dodaje się ust. 5 w brzmieniu: „
+    - **b)**
+    - **c)**
+
+5. Realizacja zadań, o których mowa w ust. 2 pkt 16, jest finansowana ze środków budżetu państwa, których dysponentem jest organ określający zakres realizowanych zadań. ” ;
+
+- **3)** po art. 3 dodaje się art. 3a w brzmieniu: „
+
+**Art. 3a.**
+
+1. Agencja może udzielać wsparcia w związku z realizacją zadań określonych w art. 3 ust. 2 pkt 1, 8 i 12–14, w szczególności z przeznaczeniem na:
+
+- **1)** prace badawczo-rozwojowe;
+- **2)** wspieranie innowacyjności;
+- **3)** szkolenia;
+- **4)** doradztwo;
+- **5)** udział w targach, misjach gospodarczych oraz innych wydarzeniach.
+
+2. Wsparcie może być udzielane jako:
+
+- **1)** pomoc publiczna w ramach wyłączeń grupowych;
+- **2)** pomoc de minimis;
+- **3)** pomoc niestanowiąca pomocy publicznej oraz pomocy de minimis.
+
+3. Wsparcie jest udzielane:
+
+- **1)** osobom fizycznym nieprowadzącym działalności gospodarczej;
+- **2)** przedsiębiorcom;
+- **3)** podmiotom, do których zadań statutowych należy działalność w dziedzinie użytkowania przestrzeni kosmicznej;
+- **4)** partnerom społecznym i gospodarczym w rozumieniu art. 5 pkt 7 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2018 r. poz. 1307 i 1669);
+- **5)** innym niż wymienione w pkt 1–4 podmiotom działającym w dziedzinie użytkowania przestrzeni kosmicznej lub wspierającym tę dziedzinę.
+
+4. Wsparcie nie może być udzielane:
+
+- **1)** osobie albo podmiotowi, o których mowa w ust. 3, jeżeli nie wykonały albo nienależycie wykonały w istotnym stopniu projekt realizowany na zlecenie Agencji, organizacji międzynarodowych, o których mowa w art. 3 ust. 2 pkt 11, oraz innych organizacji, których działalność jest związana z zakresem spraw należących do zadań Agencji, co doprowadziło do rozwiązania umowy, na podstawie której realizowały projekt, lub zasądzenia odszkodowania;
+- **2)** osobom, wobec których prawomocnie orzeczono naruszenie zasad etyki w nauce, o których mowa w art. 112 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2019 r. poz. 1183), art. 56 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2018 r. poz. 736 i 1669 oraz z 2019 r. poz. 534) i art. 287 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.).
+
+5. Wsparcie jest udzielane na wniosek, do którego dołącza się oświadczenie o braku przesłanek uniemożliwiających udzielenie wsparcia określonych w ust. 4 składane pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 Kodeksu karnego oświadczam, że nie zachodzą przesłanki uniemożliwiające udzielenie przez Polską Agencję Kosmiczną wsparcia, o których mowa w art. 3a ust. 4 ustawy z dnia 26 września 2014 r. o Polskiej Agencji Kosmicznej (Dz. U. z 2018 r. poz. 601 i 1669 oraz z 2019 r. poz. 1248).”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+6. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, szczegółowe przeznaczenie oraz szczegółowe warunki i tryb udzielania wsparcia przez Agencję, mając na względzie efektywne i skuteczne wykorzystanie tego wsparcia oraz zapewnienie przejrzystości jego udzielania w ramach pomocy publicznej, pomocy de minimis i pomocy niestanowiącej pomocy publicznej oraz pomocy de minimis, a także potrzebę uzyskania informacji niezbędnych do udzielenia wsparcia. ” ;
+
+- **4)** użyte w art. 6 w ust. 2 we wprowadzeniu do wyliczenia, w art. 7 w ust. 2 w pkt 8, w art. 8 w ust. 2 we wprowadzeniu do wyliczenia, w art. 14 w ust. 6 we wprowadzeniu do wyliczenia, w art. 16 w ust. 1 i 3, w art. 17 w ust. 2 w zdaniu drugim oraz w art. 19 w ust. 12 w różnych przypadkach wyrazy „Prezes Rady Ministrów” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw gospodarki”;
+- **5)** w art. 8: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Prezes Agencji jest powoływany przez ministra właściwego do spraw gospodarki na 5-letnią kadencję spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru. Powołanie następuje w terminie 3 miesięcy od dnia przedstawienia ministrowi właściwemu do spraw gospodarki kandydatów, o których mowa w art. 9 ust. 7, po zasięgnięciu opinii Rady Agencji, Ministra Obrony Narodowej oraz ministra właściwego do spraw szkolnictwa wyższego i nauki. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+- **b)**
+
+1a. Nieprzedstawienie opinii, o której mowa w ust. 1, w terminie miesiąca od dnia otrzymania wystąpienia o opinię jest równoznaczne z przedstawieniem opinii pozytywnej. ” , w ust. 2 pkt 6 otrzymuje brzmienie: „
+
+- **c)**
+- **6)** niezatwierdzenia lub nieprzedstawienia w terminie określonym w art. 19 ust. 11 któregokolwiek ze sprawozdań, o których mowa w tym przepisie, jeżeli pełnił funkcję przez cały rok, za który sprawozdanie jest składane. ” , w ust. 3: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Minister właściwy do spraw gospodarki może odwołać Prezesa Agencji przed upływem kadencji, po zasięgnięciu opinii Ministra Obrony Narodowej oraz ministra właściwego do spraw szkolnictwa wyższego i nauki, w przypadku: ” , – w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „ 4) niezatwierdzenia lub nieprzedstawienia w terminie określonym w art. 19 ust. 11 któregokolwiek ze sprawozdań, o których mowa w tym przepisie, jeżeli pełnił funkcję w roku, za który sprawozdanie jest składane, krócej niż 12 miesięcy. ” , po ust. 3 dodaje się ust. 3a w brzmieniu: „
+    - **d)**
+    - **e)**
+
+3a. Nieprzedstawienie opinii, o której mowa w ust. 3, w terminie 2 tygodni od dnia otrzymania wystąpienia o opinię jest równoznaczne z przedstawieniem opinii pozytywnej. ” , ust. 4 otrzymuje brzmienie: „
+
+- **f)**
+
+4. W przypadku odwołania Prezesa Agencji minister właściwy do spraw gospodarki powierza wiceprezesowi albo innej osobie spełniającej kryteria określone w art. 15 ust. 1 pełnienie obowiązków Prezesa Agencji, na okres nie dłuższy niż 3 miesiące, z możliwością jednorazowego przedłużenia tego okresu o kolejne 3 miesiące. ” , dodaje się ust. 5–7 w brzmieniu: „
+
+- **g)**
+
+5. W przypadku niepowołania Prezesa Agencji w terminie 6 miesięcy od dnia odwołania dotychczasowego Prezesa Agencji, minister właściwy do spraw gospodarki powierza kolejnemu wiceprezesowi albo innej osobie spełniającej kryteria określone w art. 15 ust. 1 pełnienie obowiązków Prezesa Agencji, na okres nie dłuższy niż 3 miesiące, z możliwością jednorazowego przedłużenia tego okresu o kolejne 3 miesiące.
+
+6. Osoba pełniąca obowiązki Prezesa Agencji przestaje pełnić swoją funkcję z dniem powołania Prezesa Agencji.
+
+7. Minister właściwy do spraw gospodarki zarządza nabór na stanowisko Prezesa Agencji w terminie 2 tygodni od dnia odwołania Prezesa Agencji. ” ;
+
+- **6)** w art. 9: w ust. 1: – pkt 4 otrzymuje brzmienie: „ 4) posiada co najmniej: tytuł zawodowy magistra lub równorzędny, 2-letnią praktykę na stanowisku kierowniczym oraz 4-letni staż pracy w sektorze naukowym, przemysłowym lub administracji publicznej związany z zakresem spraw należących do zadań Agencji; ” , – w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „ 7) posiada autorytet dający rękojmię prawidłowej realizacji zadań Agencji. ” , w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Informację o naborze na stanowisko Prezesa Agencji ogłasza się w miejscu powszechnie dostępnym w siedzibie Agencji, a także w Biuletynie Informacji Publicznej na stronie podmiotowej odpowiednio ministra właściwego do spraw gospodarki i Agencji. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+2a. Ogłoszenie informacji o naborze następuje co najmniej na 4 miesiące przed upływem kadencji Prezesa Agencji albo w terminie 2 tygodni od zarządzenia naboru zgodnie z art. 8 ust. 7. ” , ust. 3 otrzymuje brzmienie: „
+
+- **d)**
+
+3. Termin, o którym mowa w ust. 2 pkt 6, nie może być krótszy niż 10 dni i dłuższy niż 21 dni od dnia zamieszczenia ogłoszenia w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw gospodarki. ” , w ust. 4 zdanie pierwsze otrzymuje brzmienie: „ Nabór na stanowisko Prezesa Agencji przeprowadza zespół, powołany przez ministra właściwego do spraw gospodarki, liczący co najmniej 3 osoby, których wiedza i doświadczenie dają rękojmię wyłonienia najlepszych kandydatów. ” , ust. 7 otrzymuje brzmienie: „
+
+- **e)**
+- **f)**
+
+7. W toku naboru zespół wyłania nie więcej niż 3 kandydatów, których przedstawia ministrowi właściwemu do spraw gospodarki w terminie miesiąca od dnia upływu terminu, o którym mowa w ust. 2 pkt 6. ” , ust. 9 otrzymuje brzmienie: „
+
+- **g)**
+
+9. Wynik naboru ogłasza się niezwłocznie w Biuletynie Informacji Publicznej na stronie podmiotowej odpowiednio ministra właściwego do spraw gospodarki i Agencji. ” , uchyla się ust. 10;
+
+- **h)**
+- **7)** w art. 10: ust. 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+1. Prezes Agencji kieruje Agencją przy pomocy nie więcej niż dwóch wiceprezesów.
+
+2. Wiceprezesa powołuje minister właściwy do spraw gospodarki, na wniosek Prezesa Agencji, spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru, po zasięgnięciu opinii Ministra Obrony Narodowej oraz ministra właściwego do spraw szkolnictwa wyższego i nauki. Minister właściwy do spraw gospodarki odwołuje wiceprezesa. Do odwołania wiceprezesa przepisy art. 8 ust. 2–3a stosuje się odpowiednio. ” , w ust. 3 w zdaniu drugim wyrazy „art. 9 ust. 2–10” zastępuje się wyrazami „art. 9 ust. 2–9”, w ust. 4: – po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) posiada co najmniej: tytuł zawodowy magistra lub równorzędny, 2-letnią praktykę na stanowisku kierowniczym i 3-letni staż pracy w sektorze naukowym, przemysłowym lub administracji publicznej związany z zakresem spraw należących do zadań Agencji; ” , – w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „ 6) posiada autorytet dający rękojmię prawidłowej realizacji zadań Agencji. ” , uchyla się ust. 5 i 6, ust. 7 otrzymuje brzmienie: „
+
+- **b)**
+- **c)**
+- **d)**
+- **e)**
+
+7. W przypadku odwołania wiceprezesa minister właściwy do spraw gospodarki, po zasięgnięciu opinii Prezesa Agencji, powierza innej osobie pełnienie obowiązków wiceprezesa do czasu wyłonienia kandydata w drodze konkursu, na okres nie dłuższy niż 3 miesiące, z możliwością jednorazowego przedłużenia tego okresu o kolejne 3 miesiące. ” ;
+
+- **8)** art. 11 otrzymuje brzmienie: „
+
+**Art. 11.**
+
+1. Prezes Agencji powołuje i odwołuje dyrektorów oddziałów terenowych oraz dyrektorów komórek organizacyjnych Agencji.
+
+2. Stanowisko dyrektora oddziału terenowego Agencji może zajmować osoba, która:
+
+- **1)** jest obywatelem polskim;
+- **2)** posiada wyższe wykształcenie i tytuł zawodowy magistra, magistra inżyniera lub równorzędny;
+- **3)** korzysta z pełni praw publicznych;
+- **4)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+- **5)** posiada co najmniej 2-letnią praktykę na stanowisku kierowniczym;
+- **6)** posiada co najmniej 3-letni staż pracy w sektorze naukowym, przemysłowym lub administracji publicznej związany z zakresem spraw należących do zadań Agencji;
+- **7)** posiada autorytet dający rękojmię prawidłowej realizacji zadań Agencji.
+
+3. Prezes Agencji powołuje zastępcę dyrektora oddziału terenowego Agencji na wniosek dyrektora oddziału. Do kandydata na zastępcę dyrektora stosuje się przepisy ust. 2 pkt 1–4.
+
+4. Prezes Agencji odwołuje dyrektora oddziału terenowego Agencji w przypadku:
+
+- **1)** niewykonywania albo nieprawidłowego wykonywania obowiązków dyrektora;
+- **2)** zaprzestania spełniania jednego z wymogów, o których mowa w ust. 2 pkt 1, 3, 4 i 7.
+
+5. Do odwołania zastępcy dyrektora oddziału terenowego Agencji przepisy ust. 4 stosuje się odpowiednio. ” ;
+
+- **9)** w art. 13: ust. 3 otrzymuje brzmienie: „
+    - **a)**
+
+3. Prezes Agencji niezwłocznie udostępnia członkom Rady Agencji, na pisemne żądanie, wszelkie dokumenty związane z działalnością Agencji. ” , po ust. 3 dodaje się ust. 3a-3c w brzmieniu: „
+
+- **b)**
+
+3a. Posiedzenia Rady Agencji odbywają się co najmniej 2 razy w roku, w szczególności w celu omówienia projektów planów i sprawozdań, o których mowa w ust. 1 pkt 3 i 7.
+
+3b. Przewodniczący Rady Agencji zwołuje posiedzenia Rady z własnej inicjatywy, na wniosek Prezesa Agencji lub co najmniej 4 członków Rady, w terminie 3 tygodni od dnia otrzymania wniosku.
+
+3c. Rada Agencji podejmuje uchwały bezwzględną większością głosów w obecności co najmniej połowy członków Rady. ” ;
+
+- **10)** w art. 14: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. Minister właściwy do spraw gospodarki powołuje do członkostwa w Radzie Agencji jedną osobę jako swojego przedstawiciela oraz po jednym przedstawicielu na wniosek:
+
+- **1)** Szefa Kancelarii Prezesa Rady Ministrów,
+- **2)** Ministra Obrony Narodowej,
+- **3)** ministra właściwego do spraw szkolnictwa wyższego i nauki,
+- **4)** ministra właściwego do spraw zagranicznych,
+- **5)** ministra właściwego do spraw wewnętrznych,
+- **6)** ministra właściwego do spraw administracji publicznej,
+- **7)** ministra właściwego do spraw informatyzacji,
+- **8)** ministra właściwego do spraw rolnictwa,
+- **9)** ministra właściwego do spraw środowiska,
+- **10)** ministra właściwego do spraw transportu pełniących funkcję co najmniej dyrektora departamentu oraz posiadających wiedzę z zakresu spraw należących do właściwości Agencji. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+    - **b)**
+
+2a. W przypadku gdy minister kieruje więcej niż jednym działem administracji rządowej wymienionym w ust. 2, do członkostwa w Radzie Agencji wyznacza jednego przedstawiciela. ” , uchyla się ust. 3, ust. 4 i 5 otrzymują brzmienie: „
+
+- **c)**
+- **d)**
+
+4. Minister właściwy do spraw gospodarki powołuje do członkostwa w Radzie Agencji po 4 członków:
+
+- **1)** przedstawicieli nauki – spośród osób rekomendowanych przez Prezesa Polskiej Akademii Nauk w porozumieniu z Komitetem Badań Kosmicznych i Satelitarnych;
+- **2)** przedstawicieli przemysłu – z własnej inicjatywy, spośród przedsiębiorców prowadzących działalność w zakresie technologii satelitarnych uczestniczących w realizacji projektów Europejskiej Agencji Kosmicznej.
+
+5. Powołanie członka Rady Agencji następuje w terminie miesiąca od dnia wygaśnięcia kadencji dotychczasowego członka Rady albo w przypadku konieczności zapewnienia składu Rady zgodnego z ust. 2a. ” , ust. 7–9 otrzymują brzmienie: „
+
+- **e)**
+
+7. Kadencja członka Rady Agencji trwa 5 lat i rozpoczyna się z dniem powołania.
+
+8. Członkostwo w Radzie Agencji wygasa w przypadku upływu kadencji członka Rady Agencji, śmierci członka Rady Agencji, jego odwołania albo rezygnacji.
+
+9. Minister właściwy do spraw gospodarki odwołuje członka Rady Agencji z własnej inicjatywy, na wniosek organu, który go wyznaczył, lub na wniosek Przewodniczącego Rady Agencji. Minister właściwy do spraw gospodarki odwołuje członka Rady Agencji w przypadku:
+
+- **1)** niewykonywania obowiązków członka Rady Agencji;
+- **2)** utraty autorytetu dającego rękojmię prawidłowej realizacji zadań Rady Agencji;
+- **3)** choroby uniemożliwiającej sprawowanie funkcji członka Rady Agencji;
+- **4)** zaprzestania spełniania wymogu, o którym mowa w ust. 2;
+- **5)** konieczności zapewnienia składu Rady zgodnego z ust. 2a. ” , dodaje się ust. 11 w brzmieniu: „
+    - **f)**
+
+11. Do kandydatów na członków Rady Agencji nie stosuje się wymogu posiadania pozytywnej opinii Rady do spraw spółek z udziałem Skarbu Państwa i państwowych osób prawnych, o której mowa w art. 24 pkt 1 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2018 r. poz. 1182, z późn. zm.), oraz wymogów wymienionych w art. 19 ust. 1 pkt 1 lit. a-j tej ustawy. ” ;
+
+- **11)** w art. 15: ust. 1 i 2 otrzymują brzmienie: „
+    - **a)**
+
+1. Nabór kandydatów do zatrudnienia na wolne stanowiska pracy w Agencji jest otwarty i konkurencyjny. W Agencji mogą być zatrudnione osoby, które posiadają:
+
+- **1)** wykształcenie średnie albo wyższe – w zależności od zadań wykonywanych na danym stanowisku pracy;
+- **2)** wiedzę z zakresu spraw należących do właściwości Agencji;
+- **3)** umiejętności i doświadczenie niezbędne do wykonywania zadań na danym stanowisku pracy.
+
+2. Informację o naborze ogłasza się w miejscu powszechnie dostępnym w siedzibie Agencji oraz w Biuletynie Informacji Publicznej na stronie podmiotowej odpowiednio ministra właściwego do spraw gospodarki i Agencji. Termin składania dokumentów określony w ogłoszeniu o naborze nie może być krótszy niż 10 dni od dnia zamieszczenia ogłoszenia w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw gospodarki. ” , ust. 6 otrzymuje brzmienie: „
+
+- **b)**
+
+6. Wyniki naboru ogłasza się w miejscu powszechnie dostępnym w siedzibie Agencji oraz w Biuletynie Informacji Publicznej na stronie podmiotowej odpowiednio ministra właściwego do spraw gospodarki i Agencji. ” ;
+
+- **12)** w art. 18 w ust. 1 w pkt 4 w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „ komercjalizacji wyników wdrażanych działań i projektów; ” ;
+    - **e)**
+
+- **13)** w art. 19: ust. 11 otrzymuje brzmienie: „
+    - **a)**
+
+11. Prezes Agencji przedstawia ministrowi właściwemu do spraw gospodarki do zatwierdzenia:
+
+- **1)** sprawozdanie finansowe Agencji wraz ze sprawozdaniem z badania,
+- **2)** roczne sprawozdanie z działalności Agencji za rok ubiegły w terminie do dnia 31 marca następnego roku; do sprawozdań dołącza się opinię Rady Agencji. ” , uchyla się ust. 13. W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2019 r. poz. 945) wprowadza się następujące zmiany:
+    - **b)**
+
+- **1)** w art. 9: w ust. 2 w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „
+    - **a)**
+
+- **12)** kształtowania i prowadzenia polityki kosmicznej, w tym na arenie międzynarodowej, w szczególności w ramach współpracy z Unią Europejską i Europejską Agencją Kosmiczną. ” , ust. 4 otrzymuje brzmienie: „
+    - **b)**
+
+4. Ministrowi właściwemu do spraw gospodarki podlega Urząd Dozoru Technicznego, Polska Agencja Rozwoju Przedsiębiorczości oraz Polska Agencja Kosmiczna. ” ;
+
+- **2)** w art. 33a w ust. 1 uchyla się pkt 16.
+
+1. Prezes Polskiej Agencji Kosmicznej, zwanej dalej „Agencją”, powołany przed dniem wejścia w życie niniejszej ustawy pełni funkcję do czasu wygaśnięcia kadencji, na którą został powołany. Do odwołania Prezesa Agencji przed upływem kadencji mają zastosowanie przepisy ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
+
+2. Wiceprezesi Agencji powołani przed dniem wejścia w życie niniejszej ustawy pełnią obowiązki do dnia powołania wiceprezesa Agencji zgodnie z przepisami ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
+
+3. Osoby powołane do składu Rady Agencji na podstawie przepisów ustawy zmienianej w art. 1 zachowują członkostwo w Radzie do czasu wygaśnięcia kadencji, na którą zostali powołani. Do odwołania członka Rady Agencji przed upływem kadencji mają zastosowanie przepisy ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 4.**
 
-1. Stosunki pracy z osobami zatrudnionymi Agencji dniu wejścia życie niniejszej ustawy wygasają po upływie 3 miesięcy od dnia wejścia życie niniejszej ustawy, jeżeli przed upływem tego terminu nie zostaną im zaproponowane nowe warunki pracy lub płacy na dalszy okres albo razie nieprzyjęcia nowych warunków pracy lub płacy terminie miesiąca od dnia ich zaproponowania.
+1. Stosunki pracy z osobami zatrudnionymi w Agencji w dniu wejścia w życie niniejszej ustawy wygasają po upływie 3 miesięcy od dnia wejścia w życie niniejszej ustawy, jeżeli przed upływem tego terminu nie zostaną im zaproponowane nowe warunki pracy lub płacy na dalszy okres albo w razie nieprzyjęcia nowych warunków pracy lub płacy w terminie miesiąca od dnia ich zaproponowania.
 
 2. Wcześniejsze rozwiązanie stosunku pracy może nastąpić za wypowiedzeniem przez pracownika.
 
-3. W przypadku wygaśnięcia stosunków pracy na podstawie ust. 1, pracownikom Agencji przysługuje odprawa pieniężna wysokości i na zasadach określonych art. 8 ustawy z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników (Dz. U. z 2018 r. poz. 1969).
+3. W przypadku wygaśnięcia stosunków pracy na podstawie ust. 1, pracownikom Agencji przysługuje odprawa pieniężna w wysokości i na zasadach określonych w art. 8 ustawy z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników (Dz. U. z 2018 r. poz. 1969).
 
-4. Postępowania dotyczące naboru na stanowiska pracy Agencji wszczęte i niezakończone przed dniem wejścia życie niniejszej ustawy ulegają zakończeniu z tym dniem bez wyboru kandydata.
+4. Postępowania dotyczące naboru na stanowiska pracy w Agencji wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy ulegają zakończeniu z tym dniem bez wyboru kandydata.
 
 **Art. 5.**
 
-1. Sprawozdanie finansowe Agencji i roczne sprawozdanie z działalności Agencji, o których mowa art. 19 ustawy zmienianej art. 1, za rok kalendarzowy, którym niniejsza ustawa weszła życie, są zatwierdzane przez ministra właściwego do spraw gospodarki.
+1. Sprawozdanie finansowe Agencji i roczne sprawozdanie z działalności Agencji, o których mowa w art. 19 ustawy zmienianej w art. 1, za rok kalendarzowy, w którym niniejsza ustawa weszła w życie, są zatwierdzane przez ministra właściwego do spraw gospodarki.
 
-2. Projekty planów działalności Agencji, o których mowa art. 16 ust. 1 ustawy zmienianej art. 1, na rok 2019, przekazane do zatwierdzenia Prezesowi Rady Ministrów i niezatwierdzone do dnia wejścia życie niniejszej ustawy, zatwierdza minister właściwy do spraw gospodarki. Niezatwierdzone projekty planów działalności Agencji Prezes Rady Ministrów przesyła ministrowi właściwemu do spraw gospodarki.
+2. Projekty planów działalności Agencji, o których mowa w art. 16 ust. 1 ustawy zmienianej w art. 1, na rok 2019, przekazane do zatwierdzenia Prezesowi Rady Ministrów i niezatwierdzone do dnia wejścia w życie niniejszej ustawy, zatwierdza minister właściwy do spraw gospodarki. Niezatwierdzone projekty planów działalności Agencji Prezes Rady Ministrów przesyła ministrowi właściwemu do spraw gospodarki.
 
-**Art. 6.** Prezes Rady Ministrów dokona, drodze rozporządzenia, przeniesienia planowanych wydatków budżetowych, tym dotacji podmiotowej i celowej, między częścią budżetu państwa, której dysponentem jest Szef Kancelarii Prezesa Rady Ministrów, a częścią, której dysponentem jest minister właściwy do spraw gospodarki, z zachowaniem przeznaczenia środków publicznych wynikających z ustawy budżetowej.
+**Art. 6.**
 

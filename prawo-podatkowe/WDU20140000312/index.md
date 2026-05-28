@@ -22,10 +22,28 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2014-02-07 |
 | Data wydania | 2014-03-13 |
+| Wejście w życie | 2014-04-01 |
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000312) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/312/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 w pkt 33 kropkę zastępuje się średnikiem i dodaje się pkt 34 w brzmieniu: „
+- **34)** pojazdach samochodowych – rozumie się przez to pojazdy samochodowe w rozumieniu przepisów o ruchu drogowym o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 tony. ” ;
+- **2)** w art. 8 dodaje się ust. 5 i 6 w brzmieniu: „
+
+5. Przepis ust. 2 pkt 1 nie ma zastosowania w przypadku użycia pojazdów samochodowych do celów innych niż działalność gospodarcza podatnika, jeżeli podatnikowi przysługiwało, w całości lub w części, prawo do obniżenia kwoty podatku należnego o kwotę podatku naliczonego, obliczoną zgodnie z art. 86a ust. 1, z tytułu:
+
+- **1)** nabycia, importu lub wytworzenia tych pojazdów lub
+- **2)** nabycia, importu lub wytworzenia części składowych do tych pojazdów, jeżeli z tytułu nabycia, importu lub wytworzenia tych pojazdów podatnikowi nie przysługiwało prawo do obniżenia kwoty podatku należnego o kwotę podatku naliczonego.
+
+6. W przypadku, o którym mowa w ust. 2 pkt 1 i ust. 5, za nabycie towarów uznaje się również przyjęcie ich w używanie na podstawie umowy najmu, dzierżawy, leasingu lub innej umowy o podobnym charakterze. ” ;
+
+- **3)** w art. 32 w ust. 1 pkt 1–3 otrzymują brzmienie: „
+- **1)** niższe od wartości rynkowej, a nabywca towarów lub usług nie ma zgodnie z art. 86, art. 86a, art. 88 i art. 90 oraz z przepisami wydanymi na podstawie art. 92 ust. 3 pełnego prawa do obniżenia kwoty podatku należnego o kwotę podatku naliczonego,
+- **2)** niższe od wartości rynkowej, a dokonujący dostawy towarów lub usługodawca nie ma zgodnie z art. 86, art. 86a, art. 88 i art. 90 oraz z przepisami wydanymi na podstawie art. 92 ust. 3 pełnego prawa do obniżenia kwoty podatku należnego o kwotę podatku naliczonego, a dostawa towarów lub świadczenie usług są zwolnione od podatku,
+- **3)** wyższe od wartości rynkowej, a dokonujący dostawy towarów lub usługodawca nie ma zgodnie z art. 86, art. 86a, art. 88 i art. 90 oraz z przepisami wydanymi na podstawie art. 92 ust. 3 pełnego prawa do obniżenia kwoty podatku należnego o kwotę podatku naliczonego ” ;
+- **4)** art. 86a otrzymuje brzmienie: „
 
 **Art. 86a.**
 
@@ -161,11 +179,67 @@ source: "eli-html"
 
 **Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.) wprowadza się następujące zmiany:
 
+- **1)** w art. 5a pkt 19a otrzymuje brzmienie: „
+- **19a)** samochodzie osobowym – oznacza to pojazd samochodowy w rozumieniu przepisów o ruchu drogowym o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 tony, konstrukcyjnie przeznaczony do przewozu nie więcej niż 9 osób łącznie z kierowcą, z wyjątkiem: pojazdu samochodowego mającego jeden rząd siedzeń, który oddzielony jest od części przeznaczonej do przewozu ładunków ścianą lub trwałą przegrodą: – klasyfikowanego na podstawie przepisów o ruchu drogowym do podrodzaju: wielozadaniowy, van lub – z otwartą częścią przeznaczoną do przewozu ładunków, pojazdu samochodowego, który posiada kabinę kierowcy z jednym rzędem siedzeń i nadwozie przeznaczone do przewozu ładunków jako konstrukcyjnie oddzielne elementy pojazdu, pojazdu specjalnego, jeżeli z dokumentów wydanych zgodnie z przepisami o ruchu drogowym wynika, że dany pojazd jest pojazdem specjalnym, i jeżeli spełnione są również warunki zawarte w odrębnych przepisach, określone dla następujących przeznaczeń: – agregat elektryczny/spawalniczy, – do prac wiertniczych, – koparka, koparko-spycharka, – ładowarka, – podnośnik do prac konserwacyjno-montażowych, – żuraw samochodowy, pojazdu samochodowego określonego w przepisach wydanych na podstawie art. 86a ust. 16 ustawy o podatku od towarów i usług; ” ;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **2)** art. 5d otrzymuje brzmienie: „
+
 **Art. 5d.** Spełnienie wymagań dla pojazdów samochodowych określonych w:
+
+- **1)** art. 5a pkt 19a lit. a i b stwierdza się na podstawie dodatkowego badania technicznego przeprowadzonego przez okręgową stację kontroli pojazdów, potwierdzonego zaświadczeniem wydanym przez tę stację, oraz dowodu rejestracyjnego pojazdu zawierającego odpowiednią adnotację o spełnieniu tych wymagań;
+- **2)** art. 5a pkt 19a lit. c stwierdza się na podstawie dokumentów wydanych zgodnie z przepisami o ruchu drogowym. ” ;
+- **3)** w art. 14: w ust. 2 w pkt 7f część wspólna otrzymuje brzmienie: „ – w tej części, w jakiej dokonano korekty powodującej zwiększenie podatku odliczonego zgodnie z przepisami ustawy o podatku od towarów i usług; ” , ust. 2d otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2d. Przepis ust. 2 pkt 7f stosuje się odpowiednio w przypadku zmiany prawa do obniżenia kwoty podatku należnego o kwotę podatku naliczonego, o której mowa w przepisach ustawy o podatku od towarów i usług. ” ;
+
+- **4)** w art. 23: w ust. 1 w pkt 43 lit. c otrzymuje brzmienie: „ kwota podatku od towarów i usług, nieuwzględniona w wartości początkowej środków trwałych oraz wartości niematerialnych i prawnych, podlegających amortyzacji zgodnie z art. 22a-22o, lub dotycząca innych rzeczy lub praw niebędących środkami trwałymi lub wartościami niematerialnymi i prawnymi podlegającymi tej amortyzacji – w tej części, w jakiej dokonano korekty powodującej zmniejszenie podatku odliczonego zgodnie z przepisami ustawy o podatku od towarów i usług; ” , ust. 3c otrzymuje brzmienie: „
+    - **a)**
+    - **c)**
+    - **b)**
+
+3c. Przepis ust. 1 pkt 43 lit. c stosuje się odpowiednio w przypadku zmiany prawa do obniżenia kwoty podatku należnego o kwotę podatku naliczonego, o której mowa w przepisach ustawy o podatku od towarów i usług. ” .
 
 **Art. 3.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2011 r. Nr 74, poz. 397, z późn. zm.) wprowadza się następujące zmiany:
 
+- **1)** w art. 4a pkt 9a otrzymuje brzmienie: „
+- **9a)** samochodzie osobowym – oznacza to pojazd samochodowy w rozumieniu przepisów o ruchu drogowym o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 tony, konstrukcyjnie przeznaczony do przewozu nie więcej niż 9 osób łącznie z kierowcą, z wyjątkiem: pojazdu samochodowego mającego jeden rząd siedzeń, który oddzielony jest od części przeznaczonej do przewozu ładunków ścianą lub trwałą przegrodą: – klasyfikowanego na podstawie przepisów o ruchu drogowym do podrodzaju: wielozadaniowy, van lub – z otwartą częścią przeznaczoną do przewozu ładunków, pojazdu samochodowego, który posiada kabinę kierowcy z jednym rzędem siedzeń i nadwozie przeznaczone do przewozu ładunków jako konstrukcyjnie oddzielne elementy pojazdu, pojazdu specjalnego, jeżeli z dokumentów wydanych zgodnie z przepisami o ruchu drogowym wynika, że dany pojazd jest pojazdem specjalnym, i jeżeli spełnione są również warunki zawarte w odrębnych przepisach, określone dla następujących przeznaczeń: – agregat elektryczny/spawalniczy, – do prac wiertniczych, – koparka, koparko-spycharka, – ładowarka, – podnośnik do prac konserwacyjno-montażowych, – żuraw samochodowy, pojazdu samochodowego określonego w przepisach wydanych na podstawie art. 86a ust. 16 ustawy o podatku od towarów i usług; ” ;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **2)** art. 4c otrzymuje brzmienie: „
+
 **Art. 4c.** Spełnienie wymagań dla pojazdów samochodowych określonych w:
+
+- **1)** art. 4a pkt 9a lit. a i b stwierdza się na podstawie dodatkowego badania technicznego przeprowadzonego przez okręgową stację kontroli pojazdów, potwierdzonego zaświadczeniem wydanym przez tę stację, oraz dowodu rejestracyjnego pojazdu zawierającego odpowiednią adnotację o spełnieniu tych wymagań;
+- **2)** art. 4a pkt 9a lit. c stwierdza się na podstawie dokumentów wydanych zgodnie z przepisami o ruchu drogowym. ” ;
+- **3)** w art. 12: w ust. 1 w pkt 4g część wspólna otrzymuje brzmienie: „ – w tej części, w jakiej dokonano korekty powodującej zwiększenie podatku odliczonego zgodnie z przepisami ustawy o podatku od towarów i usług; ” , ust. 10 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+10. Przepis ust. 1 pkt 4g stosuje się odpowiednio w przypadku zmiany prawa do obniżenia kwoty podatku należnego o kwotę podatku naliczonego, o której mowa w przepisach ustawy o podatku od towarów i usług. ” ;
+
+- **4)** w art. 16: w ust. 1 w pkt 46 lit. c otrzymuje brzmienie: „ kwota podatku od towarów i usług, nieuwzględniona w wartości początkowej środków trwałych oraz wartości niematerialnych i prawnych, podlegających amortyzacji zgodnie z art. 16a-16m, lub dotycząca innych rzeczy lub praw niebędących środkami trwałymi lub wartościami niematerialnymi i prawnymi podlegającymi tej amortyzacji – w tej części, w jakiej dokonano korekty powodującej zmniejszenie podatku odliczonego zgodnie z przepisami ustawy o podatku od towarów i usług; ” , ust. 7c otrzymuje brzmienie: „
+    - **a)**
+    - **c)**
+    - **b)**
+
+7c. Przepis ust. 1 pkt 46 lit. c stosuje się odpowiednio w przypadku zmiany prawa do obniżenia kwoty podatku należnego o kwotę podatku naliczonego, o której mowa w przepisach ustawy o podatku od towarów i usług. ” . W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 72: w ust. 1 uchyla się pkt 8, uchyla się ust. 1a;
+    - **a)**
+    - **b)**
+
+- **2)** w art. 74 ust. 2a otrzymuje brzmienie: „
+
+2a. Czasowej rejestracji, o której mowa w ust. 2 pkt 1, można dokonać pomimo braku dołączonych do wniosku o rejestrację dokumentów, o których mowa w art. 72 ust. 1 pkt 6 i 6a. Dokumenty te powinny zostać złożone przed wydaniem dowodu rejestracyjnego. ” . W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2013 r. poz. 186, z późn. zm.) po art. 56 dodaje się art. 56a w brzmieniu: „
 
 **Art. 56a.**
 
@@ -197,6 +271,9 @@ source: "eli-html"
 2. Na potrzeby ust. 1 przepis art. 8 ust. 6 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
 
 **Art. 8.** W przypadku pojazdów, o których mowa w art. 86a ust. 4 pkt 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nabytych, importowanych lub wytworzonych przez podatnika, lub używanych na podstawie umowy najmu, dzierżawy, leasingu lub innej umowy o podobnym charakterze przed dniem wejścia w życie niniejszej ustawy:
+
+- **1)** ewidencję, o której mowa w art. 86a ust. 4 pkt 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, prowadzi się począwszy od dnia, w którym poniesiono pierwszy, od dnia wejścia w życie niniejszej ustawy, wydatek związany z tymi pojazdami;
+- **2)** informację, o której mowa w art. 86a ust. 12 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, składa się w terminie 7 dni od dnia, w którym poniesiono pierwszy, od dnia wejścia w życie niniejszej ustawy, wydatek związany z tymi pojazdami.
 
 **Art. 9.**
 

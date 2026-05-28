@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz ustawy o wykonywaniu działalności gospodarczej zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym
-
-*USTAWA z dnia 13 marca 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 kwietnia 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,114 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2026-03-13 |
 | Data wydania | 2026-04-07 |
+| Wejście w życie | 2026-04-22 |
 | Ostatnia zmiana | 2026-04-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000471) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/471/text.pdf) |
 
+USTAWA z dnia 13 marca 2026 r.
+o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz ustawy o wykonywaniu działalności gospodarczej zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym
+
 **Art. 1.** W ustawie z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2023 r. poz. 1582) wprowadza się następujące zmiany:
+
+- **1)** do tytułu ustawy dodaje się odnośnik nr 1 brzmieniu: „ Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/821 z dnia 20 maja 2021 r. ustanawiającego unijny system kontroli wywozu, pośrednictwa, pomocy technicznej, tranzytu i transferu produktów podwójnego zastosowania (Dz. Urz. UE L 206 z 11.06.2021, str. 1, Dz. Urz. UE L 3 z 06.01.2022, str. 1, Dz. Urz. UE L 20 z 31.01.2022, str. 282, Dz. Urz. UE L 130I z 04.05.2022, str. 1, Dz. Urz. UE L 277 z 27.10.2022, str. 315, Dz. Urz. UE L 9 z 11.01.2023, str. 1, Dz. Urz. UE L 138 z 25.05.2023, str. 1, Dz. Urz. UE L 2023/2616 z 15.12.2023, Dz. Urz. UE L 2024/2547 z 07.11.2024 oraz Dz. Urz. UE L 2025/2003 z 14.11.2025).”;
+- **2)** art. 2 otrzymuje brzmienie: „Art. 2. Obrót z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa jest dozwolony na zasadach określonych rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2021/821 z dnia 20 maja 2021 r. ustanawiającym unijny system kontroli wywozu, pośrednictwa, pomocy technicznej, tranzytu i transferu produktów podwójnego zastosowania (Dz. Urz. UE L 206 z 11.06.2021, str. 1, z późn. zm. ), zwanym dalej „rozporządzeniem 2021/821”, ustawach oraz umowach i innych zobowiązaniach międzynarodowych.”;
+    - **a)** pkt 1 otrzymuje brzmienie: „1) produkty podwójnego zastosowania produkty podwójnego zastosowania rozumieniu art. 2 pkt 1 rozporządzenia 2021/821;”,
+    - **b)** pkt 5 otrzymuje brzmienie: „5) wywóz wywóz rozumieniu art. 2 pkt 2 rozporządzenia 2021/821;”,
+    - **c)** pkt 5a we wprowadzeniu do wyliczenia wyrazy „art. 2 pkt 5 rozporządzenia nr 428/2009” zastępuje się wyrazami „art. 2 pkt 7 rozporządzenia 2021/821”,
+    - **d)** pkt 5b otrzymuje brzmienie: „5b) pomoc techniczna pomoc techniczną rozumieniu art. 2 pkt 9 rozporządzenia 2021/821 lub przypadku uzbrojenia jakiekolwiek wsparcie techniczne związane z naprawami, rozwojem, wytwarzaniem, testowaniem, utrzymaniem lub innymi usługami technicznymi, które może przyjąć formy udzielania instrukcji, szkolenia, przekazywania wiedzy oraz umiejętności lub świadczenia usług konsultingowych;”,
+    - **e)** pkt 7 otrzymuje brzmienie: „7) tranzyt tranzyt rozumieniu art. 2 pkt 11 rozporządzenia 2021/821 lub przypadku uzbrojenia przemieszczanie pomiędzy państwem członkowskim Unii Europejskiej, z wyłączeniem Rzeczypospolitej Polskiej, i krajem trzecim lub pomiędzy krajami trzecimi przez terytorium Rzeczypospolitej Polskiej;”,
+    - **f)** pkt 8d we wprowadzeniu do wyliczenia wyrazy „rozporządzenia nr 428/2009” zastępuje się wyrazami „rozporządzenia 2021/821”,
+    - **g)** pkt 8f otrzymuje brzmienie: „8f) pośrednik pośrednika rozumieniu art. 2 pkt 8 rozporządzenia 2021/821 lub przypadku uzbrojenia podmiot wykonujący usługę pośrednictwa odniesieniu do uzbrojenia;”,
+    - **h)** pkt 8h i 8i otrzymują brzmienie: „8h) zezwolenie indywidualne zezwolenie rozumieniu art. 2 pkt 12 rozporządzenia 2021/821 lub przypadku uzbrojenia, a także innych niż wywóz form obrotu produktami podwójnego zastosowania zezwolenie udzielone jednemu podmiotowi odniesieniu do jednego końcowego użytkownika, importera lub odbiorcy jednym państwie, dotyczące określonej ilości i wartości jednoznacznie określonych towarów o znaczeniu strategicznym;
+
+- **8i)** zezwolenie globalne zezwolenie rozumieniu art. 2 pkt 13 rozporządzenia 2021/821 lub przypadku uzbrojenia, a także innych niż wywóz form obrotu produktami podwójnego zastosowania zezwolenie udzielone jednemu podmiotowi odniesieniu do jednego lub większej liczby końcowych użytkowników, importerów lub odbiorców jednym państwie lub większej liczbie państw, dotyczące określonych typów lub kategorii towarów o znaczeniu strategicznym;”,
+    - **i)** po pkt 8i dodaje się pkt 8j i 8k brzmieniu: „8j) krajowe zezwolenie generalne zezwolenie rozumieniu art. 2 pkt 16 rozporządzenia 2021/821 lub przypadku uzbrojenia zezwolenie uprawniające podmiot zamieszkujący albo mający siedzibę na terytorium Rzeczypospolitej Polskiej, spełniający warunki określone przepisach wydanych na podstawie art. 8 ust. 2, a także wymogi, o których mowa art. 8 ust. 3, do dokonywania obrotu uzbrojeniem;
+
+- **8k)** generalne unijne zezwolenie na wywóz zezwolenie rozumieniu art. 2 pkt 15 rozporządzenia 2021/821;”;
+- **4)** art. 6 otrzymuje brzmienie: „Art. 6. 1. Na wywóz produktów podwójnego zastosowania wymienionych załączniku I do rozporządzenia 2021/821 oraz transfer wewnątrzunijny produktów podwójnego zastosowania wymienionych załączniku IV do rozporządzenia 2021/821 jest wymagane zezwolenie indywidualne albo zezwolenie globalne.
+
+2. Na wywóz produktów podwójnego zastosowania niewymienionych załączniku I do rozporządzenia 2021/821 jest wymagane zezwolenie indywidualne albo zezwolenie globalne, przypadkach, o których mowa art. 4 ust. 1 i 2 rozporządzenia 2021/821.
+
+3. Na pomoc techniczną zakresie produktów podwójnego zastosowania jest wymagane zezwolenie indywidualne przypadkach, o których mowa art. 8 ust. 1 i 2 rozporządzenia 2021/821, chyba że zaistnieją przypadki określone art. 8 ust. 3 rozporządzenia 2021/821. dualne przypadkach, o których mowa art. 6 ust. 1 i 2 rozporządzenia 2021/821.
+
+5. Na tranzyt produktów podwójnego zastosowania jest wymagane zezwolenie indywidualne przypadku, gdy organ kontroli obrotu nałoży taki wymóg zgodnie z art. 7 ust. 2 rozporządzenia 2021/821.
+
+6. W przypadku gdy określony wywóz produktów podwójnego zastosowania jest objęty generalnym unijnym zezwoleniem na wywóz albo krajowym zezwoleniem generalnym, wywóz ten jest dokonywany odpowiednio na podstawie generalnego unijnego zezwolenia na wywóz albo krajowego zezwolenia generalnego.”;
+
+- **5)** art. 7 uchyla się ust. 1;
+- **6)** art. 8:
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Prowadzenie obrotu na podstawie krajowego zezwolenia generalnego wymaga złożenia organowi kontroli obrotu oświadczenia o terminie rozpoczęcia obrotu co najmniej na 14 dni przed jego rozpoczęciem. W przypadku krajowego zezwolenia generalnego na obrót uzbrojeniem do oświadczenia dołącza się kopię albo odwzorowanie cyfrowe certyfikatu, o którym mowa art. 11 ust. 5.”,
+    - **b)** dodaje się ust. 4–6 brzmieniu: „4. Oświadczenie, o którym mowa ust. 3, składa się sposób określony art. 9 ust. 7a albo 7b.
+
+5. W przypadku gdy oświadczenie o terminie rozpoczęcia obrotu na podstawie krajowego zezwolenia generalnego nie spełnia wymogów, o których mowa ust. 3, lub zostało złożone przez podmiot nieuprawniony do korzystania z danego krajowego zezwolenia generalnego, organ kontroli obrotu odmawia przyjęcia takiego oświadczenia. Odmowa następuje drodze decyzji administracyjnej.
+
+6. Terminu, o którym mowa ust. 3, nie stosuje się, jeżeli rozpoczęcie obrotu na podstawie krajowego zezwolenia generalnego jest uzasadnione ze względu na ważny interes publiczny, tym istotne interesy państwa, a szczególności jego bezpieczeństwa, obronności lub porządku publicznego.”;
+
+- **7)** art. 9: zm. Dz. Urz. UE Polskie wydanie specjalne, rozdz. 2, t. 2, str. 382);”, „7) informację o sposobie końcowego wykorzystania towarów o znaczeniu strategicznym przez końcowego użytkownika, tym informację, czy towar jest przeznaczony dla przedstawicielstwa dyplomatycznego określonego państwa innym państwie lub przy organizacji międzynarodowej;”, pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 brzmieniu: „11) dane osoby odpowiedzialnej u wnioskodawcy za koordynację kontroli obrotu towarami o znaczeniu strategicznym: imię i nazwisko, stanowisko, numer telefonu oraz adres poczty elektronicznej.”,
+    - **a)** ust. 2: pkt 1 otrzymuje brzmienie: „1) oznaczenie wnioskodawcy, tym jego nazwę, adres siedziby albo adres zamieszkania na terytorium Rzeczypospolitej Polskiej, adres do korespondencji, a także informację o wyborze elektronicznej albo pisemnej formy komunikacji z organem kontroli obrotu;”, pkt 3 otrzymuje brzmienie: „3) określenie rodzaju wykonywanej przez wnioskodawcę działalności gospodarczej, jeżeli jest przedsiębiorcą;”, pkt 5 otrzymuje brzmienie: „5) określenie towarów o znaczeniu strategicznym będących przedmiotem obrotu, tym ich:
+    - **a)** wartość, ilość oraz walutę, jakiej planuje się dokonać obrotu,
+    - **b)** numer kontrolny określony wykazie, o którym mowa przepisach wydanych na podstawie art. 6a ust. 3, albo załącznikach I i IV do rozporządzenia 2021/821, albo wskazanie, że towar nie znajduje się załącznikach I i IV do rozporządzenia 2021/821,
+    - **c)** kategorię uzbrojenia określoną przepisach wydanych na podstawie art. 27b jeżeli towar taką kategorię posiada,
+    - **d)** kod klasyfikacyjny układzie odpowiadającym Nomenklaturze Scalonej (CN) zgodnej z rozporządzeniem Rady (EWG) nr 2658/87 z dnia 23 lipca 1987 r. sprawie nomenklatury taryfowej i statystycznej oraz sprawie Wspólnej Taryfy Celnej (Dz. Urz. WE L 256 z 07.09.1987, str. 1, z późn.
+    - **b)** ust. 6 pkt 2–5 otrzymują brzmienie: „2) kopię albo odwzorowanie cyfrowe projektu umowy lub umowy dotyczącej obrotu, jeżeli taka umowa jest wymagana odniesieniu do danego obrotu, albo kopię albo odwzorowanie cyfrowe listu intencyjnego lub kopię albo odwzorowanie cyfrowe zapytania ofertowego;
+
+- **3)** kopię albo odwzorowanie cyfrowe certyfikatu, o którym mowa art. 11 ust. 5, przypadku gdy jego posiadanie jest wymagane; przypadku wywozu lub transferu wewnątrzunijnego, z wyłączeniem przypadków:
+    - **a)** gdy krajem końcowego przeznaczenia towaru o znaczeniu strategicznym jest Rzeczpospolita Polska,
+    - **b)** zbycia lub nieodpłatnego przekazywania towarów o znaczeniu strategicznym siłom zbrojnym państw obcych, odpowiednio na podstawie art. 57 ust. 1 lub art. 92 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2025 r. poz. 817), lub importerom lub odbiorcom wchodzącym skład sił zbrojnych państw członkowskich Unii Europejskiej, lub instytucjom pozyskującym towary o znaczeniu strategicznym na wyłączny użytek sił zbrojnych państw członkowskich Unii Europejskiej,
+    - **c)** udostępniania produktów podwójnego zastosowania na podstawie art. 19 ustawy z dnia 17 grudnia 2020 r. o rezerwach strategicznych (Dz. U. z 2024 r. poz. 1598 i 1907 oraz z 2026 r. poz. 203);
+
+- **5)** zgodę właściwego zagranicznego organu na określone dysponowanie towarem, przypadku gdy importer lub końcowy użytkownik zobowiązał się do uzyskania takiej zgody, albo kopię albo odwzorowanie cyfrowe zgody wraz z oświadczeniem o posiadaniu oryginału takiej zgody, albo oświadczenie, że wnioskodawca nie posiada wiedzy zakresie zobowiązania, o którym mowa ust. 2 pkt 10.”,
+    - **c)** po ust. 6 dodaje się ust. 6a–6c brzmieniu: „6a. W przypadku gdy do wniosku o zezwolenie dołącza się kopię albo odwzorowanie cyfrowe dokumentów, o których mowa ust. 6 pkt 4, wnioskodawca dołącza również oświadczenie o posiadaniu oryginału tych dokumentów.
+
+6b. Oświadczenie, o którym mowa ust. 6a, składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Składający oświadczenie zawiera nim klauzulę o treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu kontroli obrotu o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
+
+6c. Wnioskodawca przechowuje dokumenty, o których mowa ust. 6 pkt 4, przez okres 5 lat od dnia wydania zezwolenia na obrót towarami o znaczeniu strategicznym celu realizacji zadań ustawowych organu kontroli obrotu, o których mowa rozdziale 5 i 6.”,
+
+- **d)** ust. 7 otrzymuje brzmienie: „7. Do dokumentu sporządzonego języku obcym należy dołączyć tłumaczenie tego dokumentu na język polski sporządzone przez tłumacza przysięgłego albo kopię tego tłumaczenia, albo odwzorowanie cyfrowe, wraz z oświadczeniem o posiadaniu oryginału tłumaczenia.”,
+- **e)** po ust. 7 dodaje się ust. 7a i 7b brzmieniu: „7a. Wniosek o zezwolenie składa się postaci papierowej albo postaci elektronicznej na adres do doręczeń elektronicznych, o którym mowa art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2026 r. poz. 3), zgodnie ze wzorem określonym przepisach wydanych na podstawie ust. 8 pkt 1.
+
+7b. Przedsiębiorca może złożyć wniosek o zezwolenie postaci elektronicznej za pośrednictwem Punktu Informacji dla Przedsiębiorcy, o którym mowa art. 51 ust. 1 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. z 2026 r. poz. 30), zwanego dalej „systemem PIP”, na formularzu, który zawiera dane i informacje, o których mowa ust. 2–5, oraz załączniki, o których mowa ust. 6, 6a i 7.”;
+
+- **8)** art. 12 ust. 2 skreśla się zdanie drugie;
+- **9)** art. 14:
+    - **a)** ust. 5 skreśla się zdanie drugie,
+    - **b)** po ust. 5 dodaje się ust. 5a i 5b brzmieniu: „5a. W przypadku obrotu uzbrojeniem zezwolenie indywidualne jest ważne niedłużej niż rok, a zezwolenie globalne jest ważne niedłużej niż 3 lata.
+
+5b. W przypadku obrotu produktami podwójnego zastosowania zezwolenie indywidualne i zezwolenie globalne są ważne niedłużej niż 2 lata. Zezwolenia, o których mowa art. 12 ust. 3 zdanie drugie rozporządzenia 2021/821, są ważne niedłużej niż 4 lata.”; „Art. 17a. 1. Organ kontroli obrotu jest organem właściwym zakresie:
+
+- **1)** wykonywania obowiązków informacyjnych określonych art. 4 ust. 1, 4 i 5, art. 5 ust. 1, 4 i 5, art. 6 ust. 1, art. 8 ust. 1, art. 9 ust. 2 i 3, art. 10, art. 11 ust. 5, art. 12 ust. 6 i 7, art. 16 ust. 1–5, art. 22 ust. 2, art. 23 ust. 1–3 i art. 26 ust. 3 rozporządzenia 2021/821;
+- **2)** rozstrzygania o konieczności uzyskania zezwolenia na obrót przypadkach, o których mowa art. 4 ust. 2, art. 5 ust. 2, art. 6 ust. 2, art. 7 ust. 2 i art. 8 ust. 2 rozporządzenia 2021/821;
+- **3)** wydawania zakazu tranzytu przypadku, o którym mowa art. 7 ust. 1 rozporządzenia 2021/821;
+- **4)** wydawania zakazu wywozu albo nakładania wymogu uzyskania zezwolenia na wywóz, o którym mowa art. 9 ust. 1 rozporządzenia 2021/821;
+- **5)** nakładania wymogu uzyskania zezwolenia, o którym mowa art. 11 ust. 2 rozporządzenia 2021/821;
+- **6)** wydawania zakazu korzystania z generalnego unijnego zezwolenia na wywóz, o którym mowa art. 12 ust. 7 rozporządzenia 2021/821;
+- **7)** zasięgania i wydawania opinii przypadku, o którym mowa art. 14 ust. 1, art. 16 ust. 5 i art. 21 ust. 4 rozporządzenia 2021/821;
+- **8)** występowania do właściwego organu państwa członkowskiego Unii Europejskiej o nieudzielenie zezwolenia na wywóz albo jego unieważnienie, zawieszenie, modyfikację lub odwołanie przypadku, o którym mowa art. 14 ust. 2 zdanie pierwsze rozporządzenia 2021/821, a także prowadzenia konsultacji, zgodnie z art. 14 ust. 2 zdanie drugie rozporządzenia 2021/821, z właściwym organem państwa członkowskiego Unii Europejskiej, który wystąpił do organu kontroli obrotu o nieudzielenie zezwolenia na wywóz, jego unieważnienie, zawieszenie, modyfikację lub odwołanie;
+- **9)** zawieszania wywozu z terytorium Rzeczypospolitej Polskiej produktów podwójnego zastosowania, które zostały albo nie zostały objęte ważnym zezwoleniem na wywóz, przypadku spełnienia przesłanek, o których mowa art. 21 ust. 3 rozporządzenia 2021/821;
+- **10)** wyznaczania przedstawiciela Rzeczypospolitej Polskiej do Grupy Koordynacyjnej ds. Produktów Podwójnego Zastosowania, o której mowa art. 24 rozporządzenia 2021/821;
+- **11)** wzywania eksportera, pośrednika lub dostawcy pomocy technicznej do okazania zapisów lub rejestrów oraz dokumentów określonych art. 27 ust. 1 i 2 rozporządzenia 2021/821 oraz wzywania podmiotu dokonującego wewnątrzunijnego transferu produktów podwójnego zastosowania wymienionych załączniku I do rozporządzenia 2021/821 do okazania dokumentów i rejestrów, o których mowa art. 27 ust. 4 rozporządzenia 2021/821.
+
+2. Organ kontroli obrotu przed rozstrzygnięciem o konieczności uzyskania zezwolenia na wywóz produktów podwójnego zastosowania niewymienionych załączniku I do rozporządzenia 2021/821 przypadku, o którym mowa art. 4 ust. 2 rozporządzenia 2021/821, oraz przed wydaniem zakazu tranzytu przypadku, o którym mowa art. 7 ust. 1 rozporządzenia 2021/821, może wystąpić do organów opiniujących o zajęcie stanowiska. Przepisy art. 12 ust. 2 i art. 12a stosuje się odpowiednio.”;
+
+- **11)** po art. 17a dodaje się art. 17b brzmieniu: „Art. 17b. W przypadku złożenia wniosku o zezwolenie sposób określony art. 9 ust. 7b doręczenie decyzji administracyjnej, o której mowa art. 12 ust. 1, art. 15 ust. 1 oraz art. 16 ust. 1 i 2, następuje za pośrednictwem systemu PIP przypadku, gdy wnioskodawca wybierze elektroniczną formę komunikacji z organem kontroli obrotu.”;
+- **12)** uchyla się art. 21;
+- **13)** art. 21a wyrazy „rozporządzenia nr 428/2009” zastępuje się wyrazami „rozporządzenia 2021/821”;
+- **14)** art. 22:
+    - **a)** ust. 1 i 1a otrzymują brzmienie: „1. W przypadku gdy właściwe organy kraju zagranicznego eksportera lub zagranicznego dostawcy tego wymagają, organ kontroli obrotu, na wniosek podmiotu, może wydać certyfikat importowy lub poświadczyć oświadczenie końcowego użytkownika.
+
+1a. W przypadku gdy właściwe organy kraju zagranicznego eksportera lub zagranicznego dostawcy tego wymagają, organ kontroli obrotu, ramach poświadczenia oświadczenia końcowego użytkownika, może zobowiązać się do uznania ograniczeń i warunków związanych z obrotem towarami o znaczeniu strategicznym określonych przez te organy.”,
+
+- **c)** ust. 2 otrzymuje brzmienie: „2. Do wniosku o wydanie certyfikatu importowego lub poświadczenia oświadczenia końcowego użytkownika stosuje się odpowiednio przepisy art. 9 ust. 2, 6, 6a i 7. Wniosek o wydanie certyfikatu importowego lub poświadczenia oświadczenia końcowego użytkownika składa się:
+- **1)** postaci papierowej albo postaci elektronicznej na adres do doręczeń elektronicznych, o którym mowa art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, zgodnie ze wzorem określonym przepisach wydanych na podstawie art. 9 ust. 8 pkt 1 albo
+- **2)** postaci elektronicznej za pośrednictwem systemu PIP, na formularzu, który zawiera dane i informacje, o których mowa art. 9 ust. 2, oraz załączniki, o których mowa art. 9 ust. 6, 6a i 7.”,
+    - **d)** po ust. 2a dodaje się ust. 2b brzmieniu: „2b. Wydanie certyfikatu importowego następuje drodze decyzji administracyjnej.”,
+    - **e)** ust. 6 dodaje się zdanie drugie brzmieniu: „Odmowa wydania certyfikatu importowego lub poświadczenia oświadczenia końcowego użytkownika następuje drodze decyzji administracyjnej.”,
+    - **f)** po ust. 6 dodaje się ust. 6a brzmieniu: „6a. Certyfikat importowy traci ważność, o ile nie został przedstawiony właściwym władzom poza granicami Rzeczypospolitej Polskiej, terminie 12 miesięcy od jego wydania.”,
+    - **g)** ust. 8 wprowadzenie do wyliczenia otrzymuje brzmienie: „Wzór certyfikatu, o którym mowa ust. 7, zawiera szczególności: nazwę importera lub odbiorcy, nazwę zagranicznego eksportera lub zagranicznego dostawcy, ich adresy, nazwę i opis towaru o znaczeniu strategicznym, numer kontrolny, ilość i wartość, opis końcowego zastosowania towaru o znaczeniu strategicznym, informację o dacie utraty ważności certyfikatu importowego oraz oświadczenie, że importer lub odbiorca:”,
+    - **h)** dodaje się ust. 9 brzmieniu: „9. W przypadku złożenia wniosku o wydanie certyfikatu importowego lub wniosku o wydanie poświadczenia oświadczenia końcowego użytkownika sposób określony art. 9 ust. 7b doręczenie decyzji administracyjnej, o której mowa ust. 2b i 6, oraz doręczenie poświadczenia oświadczenia końcowego użytkownika następuje za pośrednictwem systemu PIP przypadku, gdy wnioskodawca wybierze elektroniczną formę komunikacji z organem kontroli obrotu.”;
+
+- **15)** art. 23 ust. 6 otrzymuje brzmienie: „6. W przypadku wywozu uzbrojenia do końcowych użytkowników posiadających siedzibę poza obszarem Unii Europejskiej, z wyłączeniem końcowych użytkowników posiadających siedzibę krajach określonych części 2 sekcji A załącznika II do rozporządzenia 2021/821, oświadczenie, o którym mowa ust. 2, legalizuje konsul sposób określony art. 32 ustawy z dnia 25 czerwca 2015 r. Prawo konsularne (Dz. U. z 2023 r. poz. 1329 oraz z 2025 r. poz. 1006 i 1171).”;
+- **16)** po rozdziale 3 dodaje się rozdział 3a brzmieniu: „Rozdział 3a Rejestr udzielonych zezwoleń indywidualnych i zezwoleń globalnych oraz podmiotów korzystających z krajowych zezwoleń generalnych i generalnych unijnych zezwoleń na wywóz
 
 **Art. 24a.**
 
@@ -35,7 +137,7 @@ source: "isap-pdf"
 
 - **1)** udzielonych zezwoleń indywidualnych,
 - **2)** udzielonych zezwoleń globalnych,
-- **3)** podmiotów korzystających z krajowych zezwoleń generalnych udzielonych na podstawie przepisów wydanych na podstawie art. 8 ust. 2 oraz podmiotów korzystających z generalnych unijnych zezwoleń na wywóz – zwany dalej „rejestrem”.
+- **3)** podmiotów korzystających z krajowych zezwoleń generalnych udzielonych na podstawie przepisów wydanych na podstawie art. 8 ust. 2 oraz podmiotów korzystających z generalnych unijnych zezwoleń na wywóz zwany dalej „rejestrem”.
 - **1)** udzielonych zezwoleń indywidualnych i zezwoleń globalnych:
     - **a)** nazwę i adres siedziby albo miejsca zamieszkania wnioskodawcy,
     - **b)** nazwę i adres siedziby albo miejsca zamieszkania eksportera lub dostawcy,
@@ -45,7 +147,7 @@ source: "isap-pdf"
     - **f)** numer udzielonego zezwolenia indywidualnego lub zezwolenia globalnego,
     - **g)** datę wydania i ważności zezwolenia indywidualnego lub zezwolenia globalnego,
     - **h)** numer kontrolny określony wykazie, o którym mowa przepisach wydanych na podstawie art. 6a ust. 3, albo załącznikach I i IV do rozporządzenia 2021/821, albo wskazanie, że towar nie znajduje się załącznikach I i IV do rozporządzenia 2021/821,
-    - **i)** kategorię uzbrojenia określoną przepisach wydanych na podstawie art. 27b – jeżeli towar taką kategorię posiada,
+    - **i)** kategorię uzbrojenia określoną przepisach wydanych na podstawie art. 27b jeżeli towar taką kategorię posiada,
     - **j)** kod klasyfikacyjny układzie odpowiadającym Nomenklaturze Scalonej (CN) zgodnej z rozporządzeniem Rady (EWG) nr 2658/87 z dnia 23 lipca 1987 r. sprawie nomenklatury taryfowej i statystycznej oraz sprawie Wspólnej Taryfy Celnej,
     - **k)** ilość i wartość towarów o znaczeniu strategicznym oraz walutę transakcji,
     - **l)** informację o sposobie końcowego wykorzystania towarów o znaczeniu strategicznym przez końcowego użytkownika, tym informację, czy towar jest przeznaczony dla przedstawicielstwa dyplomatycznego określonego państwa innym państwie lub przy organizacji międzynarodowej,
@@ -66,9 +168,9 @@ source: "isap-pdf"
 
 - **1)** zapewnia ochronę przed nieuprawnionym dostępem do rejestru;
 - **2)** dokonuje niezwłocznej aktualizacji danych zawartych rejestrze;
-- **3)** zapewnia integralność danych zawartych rejestrze. ministrowi właściwemu do spraw gospodarki terminie 14 dni od dnia zmiany danych. Minister właściwy do spraw gospodarki zmienia dane rejestrze terminie 14 dni od zgłoszenia.
+- **3)** zapewnia integralność danych zawartych rejestrze.
 
-7. Dane osobowe podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi do tych danych lub ich przekazywaniu. Zabezpieczenia te polegają co najmniej na:
+6. W przypadku zmiany danych osobowych wpisanych do rejestru, podmiot wpisany do rejestru zgłasza te zmiany ministrowi właściwemu do spraw gospodarki terminie 14 dni od dnia zmiany danych. Minister właściwy do spraw gospodarki zmienia dane rejestrze terminie 14 dni od zgłoszenia. powi do tych danych lub ich przekazywaniu. Zabezpieczenia te polegają co najmniej na:
 
 - **1)** dopuszczeniu przez administratora danych do przetwarzania danych osobowych wyłącznie osób pisemnie do tego upoważnionych;
 - **2)** pisemnym zobowiązaniu się osób upoważnionych do przetwarzania danych osobowych do zachowania ich tajemnicy;
@@ -86,7 +188,7 @@ source: "isap-pdf"
 
 - **1)** dane osoby fizycznej uprawnionej do reprezentowania podmiotu, o którym mowa ust. 1:
     - **a)** imię i nazwisko,
-    - **b)** numer PESEL, a przypadku jego braku – rodzaj, serię i numer dokumentu tożsamości oraz nazwę państwa, które go wydało,
+    - **b)** numer PESEL, a przypadku jego braku rodzaj, serię i numer dokumentu tożsamości oraz nazwę państwa, które go wydało,
     - **c)** adres poczty elektronicznej lub numer telefonu do kontaktu sprawie wniosku;
 
 - **2)** dane podmiotu, o którym mowa ust. 1:
@@ -95,23 +197,21 @@ source: "isap-pdf"
 
 - **3)** dane osoby fizycznej, której będzie nadany dostęp do rejestru:
     - **a)** imię i nazwisko,
-    - **b)** numer PESEL, a przypadku jego braku – rodzaj, serię i numer dokumentu tożsamości oraz nazwę państwa, które go wydało;
+    - **b)** numer PESEL, a przypadku jego braku rodzaj, serię i numer dokumentu tożsamości oraz nazwę państwa, które go wydało;
 
 - **4)** dane osoby fizycznej upoważnionej do prowadzenia ewidencji, o której mowa art. 25 ust. 1, o ile ewidencja ta jest prowadzona postaci elektronicznej systemie, z wykorzystaniem usługi online udostępnionej systemie PIP:
     - **a)** imię i nazwisko,
-    - **b)** numer PESEL, a przypadku jego braku – rodzaj, serię i numer dokumentu tożsamości oraz nazwę państwa, które go wydało.
+    - **b)** numer PESEL, a przypadku jego braku rodzaj, serię i numer dokumentu tożsamości oraz nazwę państwa, które go wydało.
 
 4. Wniosek o uzyskanie dostępu do danych z rejestru opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym osoby fizycznej uprawnionej do reprezentowania podmiotu, o którym mowa ust. 1.
 
 5. Jeżeli wniosek o uzyskanie dostępu do danych z rejestru jest niekompletny lub zawiera nieprawidłowe lub błędne dane, organ kontroli obrotu informuje podmiot składający wniosek o uchybieniach za pośrednictwem systemu PIP.
 
-6. Do rozpatrywania wniosku o uzyskanie dostępu do danych z rejestru nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691).
+6. Do rozpatrywania wniosku o uzyskanie dostępu do danych z rejestru nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691).
 
 **Art. 24d.**
 
-1. Minister właściwy do spraw gospodarki może, drodze porozumienia, powierzyć instytutowi badawczemu rozumieniu art. 1 ust. 1 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534, z 2025 r. poz. 1017 i 1080 oraz z 2026 r. poz. 160) lub instytutowi działającemu ramach Sieci Badawczej Łukasiewicz rozumieniu ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz (Dz. U. z 2026 r. poz. 194), polegających na zapewnianiu jego ciągłej i bezawaryjnej pracy, podejmowaniu działań serwisowych oraz wdrażaniu nowych funkcjonalności tego systemu.
-
-2. Zadania, o których mowa ust. 1, są finansowane z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw gospodarki.
+1. Minister właściwy do spraw gospodarki może, drodze porozumienia, powierzyć instytutowi badawczemu rozumieniu art. 1 ust. 1 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534, z 2025 r. poz. 1017 i 1080 oraz z 2026 r. poz. 160) lub instytutowi działającemu ramach Sieci Badawczej Łukasiewicz rozumieniu ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz (Dz. U. z 2026 r. poz. 194), którego przedmiocie i zakresie działalności znajdują się badania naukowe i prace rozwojowe dziedzinie pozostałych nauk przyrodniczych i technicznych, realizację niektórych zadań związanych z utrzymaniem i rozwojem systemu, polegających na zapewnianiu jego ciągłej i bezawaryjnej pracy, podejmowaniu działań serwisowych oraz wdrażaniu nowych funkcjonalności tego systemu. właściwy do spraw gospodarki.
 
 3. Porozumienie, o którym mowa ust. 1, określa szczególności:
 
@@ -140,10 +240,10 @@ source: "isap-pdf"
 - **17)** art. 25:
     - **a)** po ust. 1 dodaje się ust. 1a i 1b brzmieniu: „1a. Ewidencję, o której mowa ust. 1, prowadzi się postaci papierowej albo postaci elektronicznej systemie, z wykorzystaniem usługi online udostępnionej systemie PIP, albo innym systemie teleinformatycznym posiadającym rozwiązania umożliwiające rejestrację i przechowywanie wpisów wraz z kopią zapasową oraz pozwalającym na weryfikację wpisów na podstawie dokumentów przechowywanych przez podmiot prowadzący tę ewidencję.
 
-1b. Podmiot zamierzający prowadzić ewidencję systemie składa wniosek o dostęp do danych i informacji zawartych rejestrze za pośrednictwem systemu PIP, sposób określony art. 24c.”, „1. Podmiot, który dokonuje obrotu na podstawie krajowego zezwolenia generalnego lub generalnego unijnego zezwolenia na wywóz, jest obowiązany przekazać organowi kontroli obrotu roczną informację o realizacji tego obrotu albo jego braku terminie do końca I kwartału roku kalendarzowego następującego po roku, którego dotyczy ta informacja. Informacja ta jest przekazywana postaci papierowej albo postaci elektronicznej na adres do doręczeń elektronicznych, o którym mowa art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, albo za pośrednictwem systemu PIP.”;
+1b. Podmiot zamierzający prowadzić ewidencję systemie składa wniosek o dostęp do danych i informacji zawartych rejestrze za pośrednictwem systemu PIP, sposób określony art. 24c.”,
 
 - **b)** ust. 2 pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 brzmieniu: „7) numer zezwolenia indywidualnego albo zezwolenia globalnego na obrót towarami o znaczeniu strategicznym albo numer krajowego zezwolenia generalnego albo generalnego unijnego zezwolenia na wywóz, przypadku gdy jest wymagane.”;
-- **19)** art. 27a:
+- **18)** art. 26 ust. 1 otrzymuje brzmienie: „1. Podmiot, który dokonuje obrotu na podstawie krajowego zezwolenia generalnego lub generalnego unijnego zezwolenia na wywóz, jest obowiązany przekazać organowi kontroli obrotu roczną informację o realizacji tego obrotu albo jego braku terminie do końca I kwartału roku kalendarzowego następującego po roku, którego dotyczy ta informacja. Informacja ta jest przekazywana postaci papierowej albo postaci elektronicznej na adres do doręczeń elektronicznych, o którym mowa art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, albo za pośrednictwem systemu PIP.”;
     - **a)** ust. 1 otrzymuje brzmienie: „1. Podmiot dokonujący wywozu lub transferu wewnątrzunijnego uzbrojenia z terytorium Rzeczypospolitej Polskiej jest obowiązany przekazać ministrowi właściwemu do spraw zagranicznych roczny raport z faktycznego wykonania tego wywozu lub transferu wewnątrzunijnego z terytorium Rzeczypospolitej Polskiej terminie do końca kwietnia następnego roku.”,
     - **b)** ust. 2 pkt 1 otrzymuje brzmienie: „1) nazwę, ilość i wartość uzbrojenia będącego przedmiotem wywozu lub transferu wewnątrzunijnego z terytorium Rzeczypospolitej Polskiej;”;
 
@@ -155,13 +255,24 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2023 r. poz. 1743) wprowadza się następujące zmiany:
 
+- **1)** odnośnik nr 1 do tytułu ustawy otrzymuje brzmienie: „ Niniejsza ustawa zakresie swojej regulacji wdraża:
+- **1)** dyrektywę Parlamentu Europejskiego i Rady 2014/28/UE z dnia 26 lutego 2014 r. sprawie harmonizacji ustawodawstw państw członkowskich odnoszących się do udostępniania na rynku i kontroli materiałów wybuchowych przeznaczonych do użytku cywilnego (Dz. Urz. UE L 96 z 29.03.2014, str. 1);
+- **2)** dyrektywę wykonawczą Komisji (UE) 2019/68 z dnia 16 stycznia 2019 r. ustanawiającą specyfikacje techniczne dotyczące oznakowania broni palnej i jej istotnych komponentów zgodnie z dyrektywą Parlamentu Europejskiego i Rady (UE) 2021/555 sprawie kontroli nabywania i posiadania broni (Dz. Urz. UE L 15 z 17.01.2019, str. 18 oraz Dz. Urz. UE L 2024/325 z 22.01.2024);
+- **3)** dyrektywę wykonawczą Komisji (UE) 2019/69 z dnia 16 stycznia 2019 r. ustanawiającą specyfikacje techniczne dotyczące broni alarmowej i sygnałowej zgodnie z dyrektywą Rady 91/477/EWG sprawie kontroli nabywania i posiadania broni (Dz. Urz. UE L 15 z 17.01.2019, str. 22);
+- **4)** dyrektywę Parlamentu Europejskiego i Rady (UE) 2021/555 z dnia 24 marca 2021 r. sprawie kontroli nabywania i posiadania broni (Dz. Urz. UE L 115 z 06.04.2021, str. 1).”;
+- **2)** art. 44:
+    - **a)** po ust. 2a dodaje się ust. 2aa brzmieniu: „2aa. Minimalna głębokość oznakowania wynosi 0,0762 mm.”,
+    - **b)** ust. 4 wyrazy „ust. 2” zastępuje się wyrazami „ust. 2–2d”;
+
+- **3)** art. 56 ust. 4 wyrazy „ust. 2, 2a, 2c i 2d” zastępuje się wyrazami „ust. 2–2aa, 2c i 2d”.
+
+**Art. 3.** Dotychczasowy rejestr prowadzony na podstawie art. 21 ust. 1 ustawy zmienianej art. 1 staje się rejestrem, o którym mowa art. 24a ust. 1 ustawy zmienianej art. 1.
+
 **Art. 4.**
 
 1. Oświadczenie, o którym mowa art. 8 ust. 3 ustawy zmienianej art. 1, złożone przed dniem wejścia życie niniejszej ustawy zachowuje ważność.
 
-2. Do oświadczenia, o którym mowa art. 8 ust. 3 ustawy zmienianej art. 1, złożonego przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
-
-**Art. 5.** Do wniosków, o których mowa art. 9 i art. 22 ust. 2 ustawy zmienianej art. 1, złożonych i nierozpatrzonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy ustawy zmienianej art. 1 brzmieniu dotychczasowym. Zezwolenia indywidualne i zezwolenia globalne oraz certyfikaty importowe odpowiednio udzielone albo wydane na podstawie wniosków, o których mowa zdaniu pierwszym, wpisuje się do rejestru, o którym mowa art. 24a ust. 1 ustawy zmienianej art. 1, zakresie określonym przepisach dotychczasowych.
+2. Do oświadczenia, o którym mowa art. 8 ust. 3 ustawy zmienianej art. 1, złożonego przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe. nych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy ustawy zmienianej art. 1 brzmieniu dotychczasowym. Zezwolenia indywidualne i zezwolenia globalne oraz certyfikaty importowe odpowiednio udzielone albo wydane na podstawie wniosków, o których mowa zdaniu pierwszym, wpisuje się do rejestru, o którym mowa art. 24a ust. 1 ustawy zmienianej art. 1, zakresie określonym przepisach dotychczasowych.
 
 **Art. 6.** Do zezwoleń indywidualnych, zezwoleń globalnych, certyfikatów importowych oraz poświadczeń oświadczenia końcowego użytkownika wydanych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 

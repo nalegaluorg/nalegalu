@@ -8,12 +8,10 @@ pos: 2008
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o przygotowaniu finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012
-
-*USTAWA z dnia 7 września 2007 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 8 października 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o przygotowaniu finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,18 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-02-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002008) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2008/text.pdf) |
 
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 7 września 2007 r. o przygotowaniu finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012 Rozdział 1 – Przepisy ogólne Rozdział 2 – Zasady tworzenia i działania spółek celowych Rozdział 3 – Umowa o powierzenie przygotowania lub wykonania albo koordynowania i kontroli przedsięwzięć Euro 2012 oraz innych przygotowań do finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012 Rozdział 4 – Przygotowanie przedsięwzięć Euro 2012 Rozdział 5 Rozdział 6 – Postępowanie administracyjne dla realizacji przedsięwzięć Euro 2012 Rozdział 7 – Przepis zmieniający i przepisy końcowe
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 września 2007 r. o przygotowaniu finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012 (Dz. U. z 2017 r. poz. 1372), z uwzględnieniem zmian wprowadzonych ustawą z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284) oraz zmian wynikających z przepisów ogłoszonych przed dniem 1 października 2020 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 114 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), który stanowi:
+„
+(uchylony)
+
+**Art. 114.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 106 ust. 4, art. 107 ust. 2 i art. 108 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 7 września 2007 r. o przygotowaniu finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012
+
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
@@ -36,7 +46,7 @@ source: "isap-pdf"
 2. Ustawa określa w szczególności warunki realizacji:
 
 - **1)** przedsięwzięć w zakresie projektowania, budowy, przebudowy lub remontu stadionów i innych obiektów budowlanych na terytorium Rzeczypospolitej Polskiej niezbędnych do przeprowadzenia turnieju, o którym mowa w ust. 1,
-- **2)** innych przedsięwzięć niezbędnych do przeprowadzenia turnieju, o którym mowa w ust. 1 – zwanych dalej „przedsięwzięciami Euro 2012”.
+- **2)** innych przedsięwzięć niezbędnych do przeprowadzenia turnieju, o którym mowa w ust. 1 zwanych dalej „przedsięwzięciami Euro 2012”.
 
 3. Przepisów ustawy nie stosuje się do przygotowania i realizacji inwestycji dotyczących linii kolejowych o państwowym znaczeniu i dróg krajowych zarządzanych przez Generalnego Dyrektora Dróg Krajowych i Autostrad lub drogową spółkę specjalnego przeznaczenia.
 
@@ -82,7 +92,10 @@ source: "isap-pdf"
 - **5)** okres realizacji programu;
 - **6)** łączne nakłady, w tym z budżetu państwa, na realizację programu.
 
-**Art. 6.** (uchylony)
+**Art. 6.** Minister właściwy do spraw kultury fizycznej przedstawia sprawozdanie z realizacji przedsięwzięć Euro 2012:
+
+- **1)** Radzie Ministrów dwa razy w roku, do dnia 31 stycznia i 31 lipca;
+- **2)** Sejmowi raz w roku, do dnia 30 marca każdego roku.
 
 #### Rozdział 2 Zasady tworzenia i działania spółek celowych
 
@@ -90,9 +103,7 @@ source: "isap-pdf"
 
 1. W celu przygotowania i wykonania przedsięwzięć Euro 2012 Skarb Państwa tworzy spółki z ograniczoną odpowiedzialnością, zwane dalej „spółkami celowymi”.
 
-1a. Spółka celowa może być tworzona również w celu koordynacji i kontroli przygotowywania lub wykonywania przedsięwzięć Euro 2012 oraz innych przygotowań do finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO
-
-2012.
+1a. Spółka celowa może być tworzona również w celu koordynacji i kontroli przygotowywania lub wykonywania przedsięwzięć Euro 2012 oraz innych przygotowań do finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012.
 
 2. Oświadczenie woli o utworzeniu spółki celowej i objęciu udziału albo udziałów w tej spółce składa w imieniu Skarbu Państwa minister właściwy do spraw kultury fizycznej, w formie aktu notarialnego.
 
@@ -116,9 +127,9 @@ source: "isap-pdf"
 
 1. (uchylony)
 
-2. W stosunku do spółki celowej utworzonej przez miasta, o których mowa w art. 7 ust. 6, uprawnienia, o których mowa w ust. 1, wykonuje wyłącznie prezydent miasta.
+2. W stosunku do spółki celowej utworzonej przez miasta, o których mowa w art. 7 ust. 6, uprawnienia, o których mowa w ust. 1 , wykonuje wyłącznie prezydent miasta.
 
-3. W stosunku do spółki celowej utworzonej przez województwo śląskie uprawnienia, o których mowa w ust. 1, wykonuje wyłącznie zarząd województwa śląskiego.
+3. W stosunku do spółki celowej utworzonej przez województwo śląskie uprawnienia, o których mowa w ust. 1 , wykonuje wyłącznie zarząd województwa śląskiego.
 
 **Art. 9.**
 
@@ -179,15 +190,15 @@ source: "isap-pdf"
 
 4. Przedmiotem działalności spółki celowej, o której mowa w ust. 1 pkt 2, jest w szczególności:
 
-- **1)** opracowanie:
-    - **a)** zasad współpracy i wymiany informacji pomiędzy podmiotami realizującymi przygotowania do finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012,
-    - **b)** projektów harmonogramów działań związanych z przygotowaniami do finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012,
-    - **c)** zasad polityki informacyjnej dotyczącej realizacji przygotowań do finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012;
+- **1)** opracowanie: zasad współpracy i wymiany informacji pomiędzy podmiotami realizującymi przygotowania do finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012, projektów harmonogramów działań związanych z przygotowaniami do finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012, zasad polityki informacyjnej dotyczącej realizacji przygotowań do finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012;
+    - **a)**
+    - **b)**
+    - **c)**
 
 - **2)** koordynowanie działań podmiotów realizujących przygotowania do finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012 oraz współpracy tych podmiotów z instytucjami lub podmiotami odpowiedzialnymi za realizację przygotowań do finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012 oraz z Unią Europejskich Związków Piłkarskich (UEFA);
-- **3)** kontrola:
-    - **a)** stanu przygotowań do finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012,
-    - **b)** wykonywania przedsięwzięć Euro 2012;
+- **3)** kontrola: stanu przygotowań do finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012, wykonywania przedsięwzięć Euro 2012;
+    - **a)**
+    - **b)**
 
 - **4)** przedstawianie sprawozdań z przygotowań do finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012 ministrowi właściwemu do spraw kultury fizycznej oraz Unii Europejskich Związków Piłkarskich (UEFA);
 - **5)** inicjowanie i realizacja działań zmierzających do poprawy efektywności przygotowań do finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012;
@@ -245,9 +256,12 @@ source: "isap-pdf"
 
 - **1)** Skarbu Państwa, reprezentowanego przez ministra właściwego do spraw kultury fizycznej albo inny organ administracji rządowej;
 - **2)** jednostki samorządu terytorialnego;
-- **3)** przedsiębiorcy prowadzącego działalność gospodarczą w zakresie transportu publicznego.
-
-**Art. 18a.** W umowie, w której powierzono koordynowanie i kontrolę przedsięwzięć Euro 2012 oraz innych przygotowań do finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012 określa się w szczególności:
+- **3)** przedsiębiorcy prowadzącego działalność gospodarczą w zakresie transportu publicznego. W umowie, w której powierzono koordynowanie i kontrolę przedsięwzięć Euro 2012 oraz innych przygotowań do finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012 określa się w szczególności:
+- **1)** zakres czynności wykonywanych przez spółkę, a także zakres praw i obowiązków spółki celowej z tym związanych;
+- **2)** czas obowiązywania umowy;
+- **3)** postanowienia, o których mowa w art. 18 ust. 1 pkt 2, pkt 7 oraz pkt 11–15;
+- **4)** zasady sprawozdawczości dotyczącej realizacji przez spółkę celową powierzonych jej zadań;
+- **5)** sposób rozwiązywania sporów wynikłych w związku z realizacją przez spółkę celową powierzonych jej zadań.
 
 **Art. 19.** Skarb Państwa, reprezentowany przez ministra właściwego do spraw kultury fizycznej albo inny organ administracji rządowej, jednostka samorządu terytorialnego albo przedsiębiorca prowadzący działalność gospodarczą w zakresie transportu publicznego udziela spółce celowej pełnomocnictw niezbędnych do przygotowania lub wykonania zadań powierzonych spółce celowej w umowie, o której mowa w art. 17 ust. 1.
 
@@ -276,19 +290,19 @@ source: "isap-pdf"
 - **3)** mapy zawierające projekty podziału nieruchomości, w przypadku konieczności dokonania podziału nieruchomości, sporządzone zgodnie z przepisami o gospodarce nieruchomościami i przepisami prawa geodezyjnego i kartograficznego;
 - **4)** oznaczenie nieruchomości lub ich części według katastru nieruchomości, które staną się własnością Skarbu Państwa lub właściwej jednostki samorządu terytorialnego;
 - **5)** decyzję o środowiskowych uwarunkowaniach w rozumieniu przepisów ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2020 r. poz. 283, 284, 322, 471 i 1378);
-- **6)** opinie: – Prawo lotnicze (Dz. U. z 2019 r. poz. 1580 i 1495 oraz z 2020 r. poz. 284 i 1378), o ochronie przyrody (Dz. U. z 2020 r. poz. 55, 471 i 1378).
-    - **a)** ministra właściwego do spraw zdrowia – w odniesieniu do przedsięwzięć Euro 2012 lokalizowanych na obszarach, którym został nadany status uzdrowiska albo status obszaru ochrony uzdrowiskowej, zgodnie z przepisami ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2020 r. poz. 1662),
-    - **b)** dyrektora właściwego urzędu morskiego – w odniesieniu do morskich portów i przystani wraz z obszarami pasa technicznego oraz pasa ochronnego,
-    - **c)** właściwego organu nadzoru górniczego – w odniesieniu do terenów górniczych,
-    - **d)** dyrektora właściwej regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe – w odniesieniu do gruntów leśnych stanowiących własność Skarbu Państwa, będących w zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe,
-    - **e)** właściwego wojewódzkiego konserwatora zabytków – w odniesieniu do zabytków chronionych na podstawie przepisów ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2020 r. poz. 282, 782 i 1378),
-    - **f)** właściwych miejscowo zarządu województwa, zarządu powiatu oraz wójta (burmistrza, prezydenta miasta) – w odniesieniu do ochrony samorządowych obiektów infrastruktury,
-    - **g)** Prezesa Urzędu Lotnictwa Cywilnego – w odniesieniu do lokalizacji przedsięwzięć Euro 2012 w rozumieniu inwestycji dotyczących lotnisk użytku publicznego albo w odniesieniu do obiektów budowlanych w otoczeniu lotnisk, lotniczych urządzeń naziemnych lub stanowiących przeszkody lotnicze w rozumieniu przepisów ustawy z dnia 3 lipca 2002 r.
-    - **h)** Prezesa Polskiej Agencji Żeglugi Powietrznej – w odniesieniu do obszarów lotniczych urządzeń naziemnych,
-    - **i)** właściwego zarządcy infrastruktury kolejowej – w odniesieniu do linii kolejowych,
-    - **j)** właściwego zarządcy drogi – w odniesieniu do obszarów pasa drogowego,
-    - **k)** właściwego organu administracji geologicznej – w odniesieniu do terenów zagrożonych osuwaniem się mas ziemnych,
-    - **l)** dyrektora parku narodowego – w odniesieniu do obszarów położonych w granicach parku i jego otuliny zgodnie z ustawą z dnia 16 kwietnia 2004 r.
+- **6)** opinie: ministra właściwego do spraw zdrowia – w odniesieniu do przedsięwzięć Euro 2012 lokalizowanych na obszarach, którym został nadany status uzdrowiska albo status obszaru ochrony uzdrowiskowej, zgodnie z przepisami ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2020 r. poz. 1662), dyrektora właściwego urzędu morskiego – w odniesieniu do morskich portów i przystani wraz z obszarami pasa technicznego oraz pasa ochronnego, właściwego organu nadzoru górniczego – w odniesieniu do terenów górniczych, dyrektora właściwej regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe – w odniesieniu do gruntów leśnych stanowiących własność Skarbu Państwa, będących w zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe, właściwego wojewódzkiego konserwatora zabytków – w odniesieniu do zabytków chronionych na podstawie przepisów ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2020 r. poz. 282, 782 i 1378), właściwych miejscowo zarządu województwa, zarządu powiatu oraz wójta (burmistrza, prezydenta miasta) – w odniesieniu do ochrony samorządowych obiektów infrastruktury, Prezesa Urzędu Lotnictwa Cywilnego – w odniesieniu do lokalizacji przedsięwzięć Euro 2012 w rozumieniu inwestycji dotyczących lotnisk użytku publicznego albo w odniesieniu do obiektów budowlanych w otoczeniu lotnisk, lotniczych urządzeń naziemnych lub stanowiących przeszkody lotnicze w rozumieniu przepisów ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2019 r. poz. 1580 i 1495 oraz z 2020 r. poz. 284 i 1378), Prezesa Polskiej Agencji Żeglugi Powietrznej – w odniesieniu do obszarów lotniczych urządzeń naziemnych, właściwego zarządcy infrastruktury kolejowej – w odniesieniu do linii kolejowych, właściwego zarządcy drogi – w odniesieniu do obszarów pasa drogowego, właściwego organu administracji geologicznej – w odniesieniu do terenów zagrożonych osuwaniem się mas ziemnych, dyrektora parku narodowego – w odniesieniu do obszarów położonych w granicach parku i jego otuliny zgodnie z ustawą z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2020 r. poz. 55, 471 i 1378).
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
+    - **j)**
+    - **k)**
+    - **l)**
 
 2a. Właściwy organ, na wniosek spółki celowej lub innego właściwego podmiotu, wydaje opinie, o których mowa w ust. 2 pkt 6, w terminie nie dłuższym niż 30 dni od dnia otrzymania wniosku o wydanie opinii. Niewydanie opinii w tym terminie traktuje się jako brak zastrzeżeń do wniosku o wydanie decyzji o ustaleniu lokalizacji przedsięwzięcia Euro 2012.
 
@@ -325,8 +339,6 @@ source: "isap-pdf"
 
 6. Termin, o którym mowa w ust. 1 pkt 7, nie może być krótszy niż 30 dni od dnia, w którym decyzja o ustaleniu lokalizacji przedsięwzięcia Euro 2012 stała się ostateczna.
 
-**Art. 24a.**
-
 1. Decyzją o ustaleniu lokalizacji przedsięwzięcia Euro 2012 zatwierdza się podział nieruchomości. Mapy z projektami podziału nieruchomości stanowią integralną część decyzji o ustaleniu lokalizacji przedsięwzięcia Euro 2012.
 
 2. Linie rozgraniczające teren ustalone decyzją o ustaleniu lokalizacji przedsięwzięcia Euro 2012 stanowią linie podziału nieruchomości.
@@ -339,13 +351,7 @@ source: "isap-pdf"
 
 6. Do dnia uzyskania pozwolenia na budowę, nieruchomości, o których mowa w ust. 3, mogą być użytkowane nieodpłatnie przez dotychczasowych właścicieli lub osoby, które posiadały inne tytuły prawne do nieruchomości.
 
-7. Z dniem wydania decyzji o ustaleniu lokalizacji przedsięwzięcia Euro 2012 spółka celowa lub inny właściwy podmiot uzyskuje prawo do dysponowania nieruchomościami, o których mowa w ust. 3, na cele budowlane w rozumieniu ustawy z dnia 7 lipca 1994 r. – Prawo budowlane.
-
-**Art. 24b.** Jeżeli w przypadku, o którym mowa w art. 24a ust. 3, została przejęta część nieruchomości, a pozostała część nie nadaje się do prawidłowego wykorzystania na dotychczasowe cele, spółka celowa lub inny właściwy podmiot, nabywa, w drodze umowy, na wniosek właściciela lub użytkownika wieczystego nieruchomości, w imieniu i na rzecz Skarbu Państwa albo jednostki samorządu terytorialnego tę część nieruchomości.
-
-**Art. 24c.** Do egzekucji obowiązków wynikających z decyzji o ustaleniu lokalizacji przedsięwzięcia Euro 2012 stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
-
-**Art. 24d.**
+7. Z dniem wydania decyzji o ustaleniu lokalizacji przedsięwzięcia Euro 2012 spółka celowa lub inny właściwy podmiot uzyskuje prawo do dysponowania nieruchomościami, o których mowa w ust. 3, na cele budowlane w rozumieniu ustawy z dnia 7 lipca 1994 r. – Prawo budowlane. Jeżeli w przypadku, o którym mowa w art. 24a ust. 3, została przejęta część nieruchomości, a pozostała część nie nadaje się do prawidłowego wykorzystania na dotychczasowe cele, spółka celowa lub inny właściwy podmiot, nabywa, w drodze umowy, na wniosek właściciela lub użytkownika wieczystego nieruchomości, w imieniu i na rzecz Skarbu Państwa albo jednostki samorządu terytorialnego tę część nieruchomości. Do egzekucji obowiązków wynikających z decyzji o ustaleniu lokalizacji przedsięwzięcia Euro 2012 stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
 
 1. Decyzja o ustaleniu lokalizacji przedsięwzięcia Euro 2012 stanowi podstawę do wydania przez wojewodę decyzji o wygaśnięciu trwałego zarządu ustanowionego na nieruchomościach przeznaczonych dla realizacji przedsięwzięcia Euro 2012, stanowiących własność Skarbu Państwa, jednostki samorządu terytorialnego albo zarządu w odniesieniu do gruntów będących w zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe.
 
@@ -354,8 +360,6 @@ source: "isap-pdf"
 3. Jeżeli nieruchomość przeznaczona dla realizacji przedsięwzięcia Euro 2012 stanowiąca własność Skarbu Państwa albo jednostki samorządu terytorialnego została oddana w użytkowanie wieczyste, użytkowanie to wygasa za odszkodowaniem, z dniem w którym decyzja o ustaleniu lokalizacji przedsięwzięcia Euro 2012 stała się ostateczna, ustalonym według zasad określonych w przepisach o gospodarce nieruchomościami, z zastrzeżeniem art. 24e.
 
 4. Przepis ust. 3 stosuje się odpowiednio do użytkowania wieczystego nabytego w sposób inny niż w drodze umowy zawartej w formie aktu notarialnego.
-
-**Art. 24e.**
 
 1. Za nieruchomości oraz ograniczone prawa rzeczowe do nieruchomości, o których mowa w art. 24a ust. 3 oraz w art. 24d ust. 3, przysługuje odszkodowanie w wysokości uzgodnionej między spółką celową lub innym właściwym podmiotem, a dotychczasowym właścicielem lub użytkownikiem wieczystym nieruchomości, a także osobą, której przysługują ograniczone prawa rzeczowe do nieruchomości.
 
@@ -374,18 +378,14 @@ source: "isap-pdf"
 8. Jeżeli dotychczasowy właściciel lub użytkownik wieczysty nieruchomości objętej decyzją o ustaleniu lokalizacji przedsięwzięcia Euro 2012 odpowiednio wyda tę nieruchomość lub wyda nieruchomość i opróżni lokal oraz inne pomieszczenia niezwłocznie, lecz nie później niż w terminie 14 dni od dnia:
 
 - **1)** doręczenia zawiadomienia o wydaniu decyzji, o którym mowa w art. 24 ust. 2, albo
-- **2)** w którym decyzja o ustaleniu lokalizacji przedsięwzięcia Euro 2012 stała się ostateczna – wysokość odszkodowania powiększa się o kwotę równą 5% wartości nieruchomości lub wartości prawa użytkowania wieczystego.
+- **2)** w którym decyzja o ustaleniu lokalizacji przedsięwzięcia Euro 2012 stała się ostateczna wysokość odszkodowania powiększa się o kwotę równą 5% wartości nieruchomości lub wartości prawa użytkowania wieczystego.
 
 9. W przypadku gdy decyzja o ustaleniu lokalizacji przedsięwzięcia Euro 2012 dotyczy nieruchomości zabudowanej budynkiem mieszkalnym albo budynkiem, w którym został wyodrębniony lokal mieszkalny, wysokość odszkodowania przysługującego dotychczasowemu właścicielowi lub użytkownikowi wieczystemu zamieszkałemu w tym budynku albo lokalu powiększa się o kwotę 10 000 zł w odniesieniu do tej nieruchomości.
 
 10. Odszkodowanie za nieruchomości jest wypłacane odpowiednio ze środków budżetu państwa albo jednostki samorządu terytorialnego w terminie 14 dni od dnia, w którym:
 
 - **1)** została uzgodniona wysokość odszkodowania z dotychczasowym właścicielem lub użytkownikiem wieczystym nieruchomości, a także z osobą, której przysługują ograniczone prawa rzeczowe do nieruchomości;
-- **2)** decyzja o ustaleniu odszkodowania stała się ostateczna.
-
-**Art. 24f.** W sprawach nieuregulowanych w niniejszym rozdziale stosuje się przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2020 r. poz. 65, 284, 471 i 782).
-
-**Art. 24g.**
+- **2)** decyzja o ustaleniu odszkodowania stała się ostateczna. W sprawach nieuregulowanych w niniejszym rozdziale stosuje się przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2020 r. poz. 65, 284, 471 i 782).
 
 1. W przypadku gdy decyzja o ustaleniu lokalizacji przedsięwzięcia Euro 2012 dotyczy nieruchomości zabudowanej budynkiem mieszkalnym albo budynkiem, w którym został wyodrębniony lokal mieszkalny, spółka celowa lub inny właściwy podmiot jest obowiązany w terminie faktycznego objęcia nieruchomości w posiadanie do wskazania lokalu zamiennego, z zastrzeżeniem ust. 2.
 
@@ -393,13 +393,9 @@ source: "isap-pdf"
 
 3. Osoba, której wskazano lokal zamienny, jest obowiązana do jego opróżnienia najpóźniej w dniu upływu terminu, o którym mowa w art. 24 ust. 6.
 
-**Art. 24h.**
-
 1. Do gruntów rolnych i leśnych objętych decyzjami o ustaleniu lokalizacji przedsięwzięcia Euro 2012 nie stosuje się przepisów o ochronie gruntów rolnych i leśnych, z tym że określone w tych przepisach należności oraz jednorazowe odszkodowania w razie dokonania przedwczesnego wyrębu drzewostanu w odniesieniu do gruntów leśnych przeznacza się na Fundusz Leśny w Państwowym Gospodarstwie Leśnym Lasy Państwowe z tytułu wyłączenia gruntów Skarbu Państwa, zarządzanych przez Państwowe Gospodarstwo Leśne Lasy Państwowe.
 
-2. Należności oraz jednorazowe odszkodowania w wysokości ustalonej przez organy właściwe w sprawach ochrony gruntów leśnych spółka celowa lub inny właściwy podmiot przekazuje na rachunek bankowy funduszu, o którym mowa w ust. 1, po przejęciu wszystkich gruntów w danym obrębie katastru nieruchomości, w terminie do dnia 30 czerwca każdego roku.
-
-**Art. 24i.** Jeżeli realizacja przedsięwzięcia Euro 2012 wymaga wydania pozwolenia wodnoprawnego, odpowiednio marszałek województwa albo starosta wydają to pozwolenie w terminie nie dłuższym niż 30 dni od dnia złożenia wniosku o jego wydanie. Dla ustalenia stanu prawnego nieruchomości, o których mowa w art. 132 ust. 2 pkt 2 lit. c ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2017 r. poz. 1121), siedziby i adresy właścicieli tych nieruchomości określa się według katastru nieruchomości.
+2. Należności oraz jednorazowe odszkodowania w wysokości ustalonej przez organy właściwe w sprawach ochrony gruntów leśnych spółka celowa lub inny właściwy podmiot przekazuje na rachunek bankowy funduszu, o którym mowa w ust. 1, po przejęciu wszystkich gruntów w danym obrębie katastru nieruchomości, w terminie do dnia 30 czerwca każdego roku. Jeżeli realizacja przedsięwzięcia Euro 2012 wymaga wydania pozwolenia wodnoprawnego, odpowiednio marszałek województwa albo starosta wydają to pozwolenie w terminie nie dłuższym niż 30 dni od dnia złożenia wniosku o jego wydanie. Dla ustalenia stanu prawnego nieruchomości, o których mowa w art. 132 ust. 2 pkt 2 lit. c ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2017 r. poz. 1121), siedziby i adresy właścicieli tych nieruchomości określa się według katastru nieruchomości.
 
 **Art. 25.**
 
@@ -410,8 +406,6 @@ source: "isap-pdf"
 3. O wszczęciu postępowania o wydanie decyzji o pozwoleniu na budowę przedsięwzięcia Euro 2012 wojewoda zawiadamia, w drodze obwieszczeń, w urzędach gmin i w prasie lokalnej.
 
 4. Ilekroć w przepisach prawa budowlanego jest mowa o decyzji o warunkach zabudowy i zagospodarowania terenu, rozumie się przez to także decyzję o ustaleniu lokalizacji przedsięwzięcia Euro 2012.
-
-**Art. 25a.**
 
 1. Jeżeli z decyzji o pozwoleniu na budowę przedsięwzięcia Euro 2012 wynika obowiązek dokonania przebudowy istniejących urządzeń infrastruktury technicznej wojewoda, na wniosek spółki celowej lub innego właściwego podmiotu, może ograniczyć, w drodze decyzji, sposób korzystania z nieruchomości przez udzielenie zezwolenia na zakładanie i przeprowadzanie na nieruchomości ciągów drenażowych, przewodów i urządzeń służących do przesyłania płynów, pary, gazów i energii elektrycznej oraz urządzeń łączności publicznej i sygnalizacji, a także innych podziemnych, naziemnych lub nadziemnych obiektów i urządzeń niezbędnych do korzystania z tych przewodów i urządzeń, jeżeli właściciel lub użytkownik wieczysty nieruchomości nie wyraża na to zgody. Przepisy art. 124 ust. 2–7 oraz art. 124a ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami stosuje się odpowiednio.
 
@@ -448,9 +442,14 @@ source: "isap-pdf"
 
 **Art. 37.** (uchylony)
 
-**Art. 38.** Z zastrzeżeniem przepisów ustawy do realizacji przedsięwzięć Euro 2012 określonych w rozporządzeniu wydanym na podstawie art. 4 ust. 1 stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+**Art. 38.** Z zastrzeżeniem przepisów ustawy do realizacji przedsięwzięć Euro 2012 określonych w rozporządzeniu wydanym na podstawie art. 4 ust. 1 stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. W okresie od dnia 1 czerwca 2012 r. do dnia 4 lipca 2012 r., nie stosuje się ograniczeń w zakresie operacji lotniczych obejmujących starty i lądowania w porze dziennej i nocnej wynikających z wymagań w zakresie ochrony środowiska, w następujących portach lotniczych:
 
-**Art. 38a.** W okresie od dnia 1 czerwca 2012 r. do dnia 4 lipca 2012 r., nie stosuje się ograniczeń w zakresie operacji lotniczych obejmujących starty i lądowania w porze dziennej i nocnej wynikających z wymagań w zakresie ochrony środowiska, w następujących portach lotniczych:
+- **1)** Międzynarodowym Porcie Lotniczym im. Jana Pawła II Kraków-Balice Sp. z o. o.;
+- **2)** Międzynarodowym Porcie Lotniczym „Katowice” w Pyrzowicach;
+- **3)** Porcie Lotniczym Poznań-Ławica;
+- **4)** Porcie Lotniczym Wrocław-Strachowice;
+- **5)** Porcie Lotniczym Gdańsk im. Lecha Wałęsy;
+- **6)** Porcie Lotniczym im. Fryderyka Chopina w Warszawie.
 
 #### Rozdział 7 Przepis zmieniający i przepisy końcowe
 
@@ -462,5 +461,5 @@ source: "isap-pdf"
 
 2. Przepisy art. 24 ust. 7b ustawy, o której mowa w art. 39, w brzmieniu nadanym niniejszą ustawą, stosuje się do dnia 31 grudnia 2012 r.
 
-**Art. 41.** Ustawa wchodzi w życie z dniem ogłoszenia .
+**Art. 41.** Ustawa wchodzi w życie z dniem ogłoszenia.
 

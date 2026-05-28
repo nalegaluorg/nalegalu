@@ -8,12 +8,10 @@ pos: 18
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Kodeks spółek handlowych
-
-*USTAWA z dnia 15 września 2000 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 7 grudnia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy – Kodeks spółek handlowych
 
 | Pole | Wartość |
 |---|---|
@@ -27,11 +25,110 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-03-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000018) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/18/text.pdf) |
 
-Art. 596–609. (pominięte)
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych Tytuł I – Przepisy ogólne Dział I – Przepisy wspólne Dział II – Spółki osobowe Dział III – Spółki kapitałowe Dział IV – Grupa spółek Tytuł II – Spółki osobowe Dział I – Spółka jawna Rozdział 1 – Przepisy ogólne Rozdział 2 – Stosunek do osób trzecich Rozdział 3 – Stosunki wewnętrzne spółki Rozdział 4 – Rozwiązanie spółki i wystąpienie wspólnika Rozdział 5 – Likwidacja Dział II – Spółka partnerska Rozdział 1 – Przepisy ogólne Rozdział 2 – Stosunek do osób trzecich Rozdział 3 – Rozwiązanie spółki Dział III – Spółka komandytowa Rozdział 1 – Przepisy ogólne Rozdział 2 – Stosunek do osób trzecich Rozdział 3 – Stosunki wewnętrzne spółki Dział IV – Spółka komandytowo-akcyjna Rozdział 1 – Przepisy ogólne Rozdział 2 – Powstanie spółki Rozdział 3 – Stosunek do osób trzecich Rozdział 4 – Stosunki wewnętrzne spółki Rozdział 5 – Rozwiązanie i likwidacja spółki Tytuł III – Spółki kapitałowe Dział I – Spółka z ograniczoną odpowiedzialnością Rozdział 1 – Powstanie spółki Rozdział 2 – Prawa i obowiązki wspólników Rozdział 3 – Organy spółki Rozdział 4 – Zmiana umowy spółki Rozdział 5 – Wyłączenie wspólnika Rozdział 6 – Rozwiązanie i likwidacja spółki Rozdział 7 – Odpowiedzialność cywilnoprawna Dział IA – Prosta spółka akcyjna Rozdział 1 – Powstanie spółki Rozdział 2 – Prawa i obowiązki akcjonariuszy Rozdział 3 – Organy spółki Rozdział 4 – Zmiana umowy spółki i emisja akcji Rozdział 5 – Rozwiązanie i likwidacja spółki Rozdział 6 – Odpowiedzialność cywilnoprawna Dział II – Spółka akcyjna Rozdział 1 – Powstanie spółki Rozdział 2 – Prawa i obowiązki akcjonariuszy Rozdział 3 – Organy spółki Rozdział 4 – Zmiana statutu i zwykłe podwyższenie kapitału zakładowego Rozdział 5 – Kapitał docelowy Warunkowe podwyższenie kapitału zakładowego Podwyższenie kapitału zakładowego w drodze zamiany obligacji kapitałowych na akcje Rozdział 6 – Obniżenie kapitału zakładowego Rozdział 7 – Rozwiązanie i likwidacja spółki Rozdział 8 – Odpowiedzialność cywilnoprawna Tytuł IV – Łączenie, podział i przekształcanie spółek Dział I – Łączenie się spółek Rozdział 1 – Przepisy ogólne Rozdział 2 – Łączenie się spółek kapitałowych Rozdział 2_1 – Transgraniczne łączenie się spółek kapitałowych i spółki komandytowo-akcyjnej Rozdział 3 – Łączenie się z udziałem spółek osobowych Dział II – Podział spółek Rozdział 1 – Przepisy ogólne Rozdział 2 – Podział spółek kapitałowych Rozdział 3 – Transgraniczny podział spółek kapitałowych i spółki komandytowo-akcyjnej Rozdział 4 – Podział spółki komandytowo-akcyjnej Dział III – Przekształcenia spółek Rozdział 1 – Przepisy ogólne Rozdział 2 – Przekształcenie spółki osobowej w spółkę kapitałową Rozdział 3 – Przekształcenie spółki kapitałowej w spółkę osobową Rozdział 4 – Przekształcenie spółki kapitałowej w inną spółkę kapitałową Rozdział 4 – Transgraniczne przekształcenie spółek kapitałowych i spółki komandytowo-akcyjnej Rozdział 5 – Przekształcenie spółki osobowej w inną spółkę osobową Rozdział 6 – Przekształcenie przedsiębiorcy w spółkę kapitałową Tytuł V – Przepisy karne Tytuł VI – Zmiany w przepisach obowiązujących, przepisy przejściowe i przepisy końcowe Dział I – Zmiany w przepisach obowiązujących Dział II – Przepisy przejściowe Dział III – Przepisy końcowe
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2022 r. poz. 1467), z uwzględnieniem zmian wprowadzonych:
+1)
+ustawą z dnia 7 lipca 2022 r. o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom (Dz. U. poz. 1488),
+2)
+ustawą z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. poz. 2280),
+3)
+ustawą z dnia 4 listopada 2022 r. o zmianie ustawy o Krajowym Rejestrze Sądowym, ustawy – Kodeks postępowania cywilnego oraz ustawy – Kodeks spółek handlowych (Dz. U. poz. 2436),
+4)
+wyrokiem Trybunału Konstytucyjnego z dnia 12 kwietnia 2023 r. sygn. akt P 5/19 (Dz. U. poz. 739),
+5)
+ustawą z dnia 14 kwietnia 2023 r. o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, ustawy o obligacjach, ustawy o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji oraz niektórych innych ustaw (Dz. U. poz. 825),
+6)
+ustawą z dnia 16 sierpnia 2023 r. o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw (Dz. U. poz. 1705)
+oraz zmian wynikających z przepisów ogłoszonych przed dniem 5 grudnia 2023 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+1)
+art. 93 ustawy z dnia 7 lipca 2022 r. o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom (Dz. U. poz. 1488), który stanowi:
+„
+Zarząd spółki
+Wystąpienie wspólnika
+§ 1.
+Prawo kontroli służy każdemu wspólnikowi. W tym celu wspólnik lub wspólnik z upoważnioną przez siebie osobą może w każdym czasie przeglądać księgi i dokumenty spółki, sporządzać bilans dla swego użytku lub żądać wyjaśnień od zarządu.
+§ 2.
+Zarząd może odmówić wspólnikowi wyjaśnień oraz udostępnienia do wglądu ksiąg i dokumentów spółki, jeżeli istnieje uzasadniona obawa, że wspólnik wykorzysta je w celach sprzecznych z interesem spółki i przez to wyrządzi spółce znaczną szkodę.
+§ 3.
+W przypadku, o którym mowa w § 2, wspólnik może żądać rozstrzygnięcia sprawy uchwałą wspólników. Uchwała powinna być powzięta w terminie miesiąca od dnia zgłoszenia żądania.
+§ 4.
+Wspólnik, któremu odmówiono wyjaśnień lub wglądu do dokumentów bądź ksiąg spółki, może złożyć wniosek do sądu rejestrowego o zobowiązanie zarządu do udzielenia wyjaśnień lub udostępnienia do wglądu dokumentów bądź ksiąg spółki. Wniosek należy złożyć w terminie siedmiu dni od dnia otrzymania zawiadomienia o uchwale lub od upływu terminu określonego w § 3, w przypadku niepowzięcia uchwały wspólników w tym terminie.
+§ 1.
+Umowa spółki może ustanowić radę nadzorczą lub komisję rewizyjną albo oba te organy.
+§ 2.
+W spółkach, w których kapitał zakładowy przewyższa kwotę 500 000 złotych, a wspólników jest więcej niż dwudziestu pięciu, powinna być ustanowiona rada nadzorcza lub komisja rewizyjna.
+§ 3.
+W przypadku ustanowienia rady nadzorczej lub komisji rewizyjnej umowa spółki może wyłączyć albo ograniczyć indywidualną kontrolę wspólników.
+§ 1.
+Członek zarządu, prokurent, likwidator, kierownik oddziału lub zakładu oraz zatrudniony w spółce główny księgowy, radca prawny lub adwokat nie może być jednocześnie członkiem rady nadzorczej lub komisji rewizyjnej.
+§ 2.
+Przepis § 1 stosuje się również do innych osób, które podlegają bezpośrednio członkowi zarządu albo likwidatorowi.
+§ 3.
+Przepis § 1 stosuje się odpowiednio do członków zarządu i likwidatorów spółki lub spółdzielni zależnej.
+Art. 596–609.
+(pominięte)
 
-## TYTUŁ I Przepisy ogólne
+**Art. 93.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
-### DZIAŁ I Przepisy wspólne
+- **1)** art. 53, art. 60, art. 67, art. 72 i art. 77–79, które wchodzą w życie z dniem 31 lipca 2022 r.;
+- **2)** art. 48 i art. 57 pkt 4 lit. a, które wchodzą w życie z dniem 10 listopada 2023 r. ” ;
+- **2)** art. 166 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. poz. 2280), który stanowi: „
+
+**Art. 166.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 31 ust. 4, art. 68 ust. 2 pkt 5 i ust. 3, art. 76 pkt 23, art. 88 pkt 9 lit. c tiret drugie, art. 147 pkt 2 oraz art. 149 pkt 1–4 i 12–17, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia;
+- **2)** art. 149 pkt 5–11 oraz art. 152–154, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” ;
+- **3)** art. 5 ustawy z dnia 4 listopada 2022 r. o zmianie ustawy o Krajowym Rejestrze Sądowym, ustawy – Kodeks postępowania cywilnego oraz ustawy – Kodeks spółek handlowych (Dz. U. poz. 2436), który stanowi: „
+
+**Art. 5.** Ustawa wchodzi w życie z dniem 15 grudnia 2022 r. ” ;
+
+- **4)** art. 26 ustawy z dnia 14 kwietnia 2023 r. o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, ustawy o obligacjach, ustawy o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji oraz niektórych innych ustaw (Dz. U. poz. 825), który stanowi: „
+
+**Art. 26.** Ustawa wchodzi w życie z dniem 1 października 2023 r., z wyjątkiem:
+
+- **1)** art. 16, art. 19 i art. 20, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 18, który wchodzi w życie z dniem 22 maja 2023 r.;
+- **3)** art. 1, art. 3, art. 4, art. 9 pkt 1, 2 i 7, pkt 10 lit. b i c oraz pkt 12, art. 11 pkt 1 i 5, art. 15, art. 17, art. 21, art. 22 oraz art. 24, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia. ” ;
+- **5)** art. 12–14 i art. 16 ustawy z dnia 16 sierpnia 2023 r. o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw (Dz. U. poz. 1705), które stanowią: „
+
+**Art. 12.** Jeżeli plan połączenia, połączenia transgranicznego, podziału albo przekształcenia złożono w sądzie rejestrowym przed dniem wejścia w życie niniejszej ustawy, do postępowań odpowiednio połączeniowych, podziałowych albo przekształceniowych stosuje się przepisy dotychczasowe.
+
+**Art. 13.** Do dnia 1 września 2023 r. Komisja Nadzoru Finansowego przekaże Ministrowi Sprawiedliwości, za pośrednictwem środków komunikacji elektronicznej, wykaz osób, które na dzień 1 września 2023 r. są objęte zakazem pełnienia funkcji członka zarządu lub funkcji kierowniczych, na podstawie decyzji Komisji Nadzoru Finansowego, obejmujący: imię (imiona), nazwisko, numer PESEL, a w przypadku jego nieposiadania – datę urodzenia, datę wydania decyzji, sygnaturę sprawy, okres obowiązywania zakazu, podstawę prawną wydania decyzji oraz każdorazowo informację o zmianie w tym wykazie do dnia 15 września 2023 r.
+
+**Art. 14.**
+
+1. Maksymalny limit wydatków z budżetu państwa przeznaczonych na wykonywanie zadań wynikających z niniejszej ustawy, z wyłączeniem zadań, o których mowa w art. 15, wynosi w roku:
+
+- **1)** 2023 – 0 zł;
+- **2)** 2024 – 1,03 mln zł;
+- **3)** 2025 – 1,03 mln zł;
+- **4)** 2026 – 1,03 mln zł;
+- **5)** 2027 – 1,03 mln zł;
+- **6)** 2028 – 1,03 mln zł;
+- **7)** 2029 – 1,03 mln zł;
+- **8)** 2030 – 1,03 mln zł;
+- **9)** 2031 – 1,03 mln zł;
+- **10)** 2032 – 1,03 mln zł.
+
+2. Minister Sprawiedliwości monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu na koniec każdego kwartału.
+
+3. W przypadku zagrożenia przekroczeniem lub przekroczenia przyjętego na dany rok budżetowy limitu wydatków, o którym mowa w ust. 1, stosuje się mechanizm korygujący polegający na ograniczeniu kosztów rzeczowych Ministra Sprawiedliwości związanych z realizacją zadań, o których mowa w ust. 1.
+
+4. Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 3, jest Minister Sprawiedliwości. ” „
+
+**Art. 16.** Ustawa wchodzi w życie z dniem 15 września 2023 r., z wyjątkiem:
+
+- **1)** art. 11, który wchodzi w życie z dniem 1 stycznia 2024 r.;
+- **2)** art. 13, który wchodzi w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych
+
+## Tytuł I Przepisy ogólne
+
+### Dział I Przepisy wspólne
 
 **Art. 1.**
 
@@ -50,15 +147,16 @@ Art. 596–609. (pominięte)
 - **1)** spółka osobowa – spółkę jawną, spółkę partnerską, spółkę komandytową i spółkę komandytowo-akcyjną;
 - **2)** spółka kapitałowa – spółkę z ograniczoną odpowiedzialnością, prostą spółkę akcyjną i spółkę akcyjną;
 - **3)** spółka jednoosobowa – spółkę kapitałową, której wszystkie udziały albo akcje należą do jednego wspólnika albo akcjonariusza;
-- **4)** spółka dominująca – spółkę handlową w przypadku, gdy:
-    - **a)** dysponuje bezpośrednio lub pośrednio większością głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu, także jako zastawnik albo użytkownik, bądź w zarządzie innej spółki kapitałowej (spółki zależnej), także na podstawie porozumień z innymi osobami, lub
-    - **b)** jest uprawniona do powoływania lub odwoływania większości członków zarządu innej spółki kapitałowej (spółki zależnej) albo spółdzielni (spółdzielni zależnej), także na podstawie porozumień z innymi osobami, lub
-    - **c)** jest uprawniona do powoływania lub odwoływania większości członków rady nadzorczej innej spółki kapitałowej (spółki zależnej) albo spółdzielni (spółdzielni zależnej), także na podstawie porozumień z innymi osobami, lub
-    - **d)** członkowie jej zarządu stanowią więcej niż połowę członków zarządu innej spółki kapitałowej (spółki zależnej) albo spółdzielni (spółdzielni zależnej), lub
-    - **e)** dysponuje bezpośrednio lub pośrednio większością głosów w spółce osobowej zależnej albo na walnym zgromadzeniu spółdzielni zależnej, także na podstawie porozumień z innymi osobami, lub
-    - **f)** wywiera decydujący wpływ na działalność spółki kapitałowej zależnej albo spółdzielni zależnej, w szczególności przez zawarcie między spółką dominującą a spółką zależną umowy przewidującej zarządzanie spółką zależną lub przekazywanie zysku przez taką spółkę;
+- **4)** spółka dominująca – spółkę handlową w przypadku, gdy: dysponuje bezpośrednio lub pośrednio większością głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu, także jako zastawnik albo użytkownik, bądź w zarządzie innej spółki kapitałowej (spółki zależnej), także na podstawie porozumień z innymi osobami, lub jest uprawniona do powoływania lub odwoływania większości członków zarządu innej spółki kapitałowej (spółki zależnej) albo spółdzielni (spółdzielni zależnej), także na podstawie porozumień z innymi osobami, lub jest uprawniona do powoływania lub odwoływania większości członków rady nadzorczej innej spółki kapitałowej (spółki zależnej) albo spółdzielni (spółdzielni zależnej), także na podstawie porozumień z innymi osobami, lub członkowie jej zarządu stanowią więcej niż połowę członków zarządu innej spółki kapitałowej (spółki zależnej) albo spółdzielni (spółdzielni zależnej), lub dysponuje bezpośrednio lub pośrednio większością głosów w spółce osobowej zależnej albo na walnym zgromadzeniu spółdzielni zależnej, także na podstawie porozumień z innymi osobami, lub wywiera decydujący wpływ na działalność spółki kapitałowej zależnej albo spółdzielni zależnej, w szczególności przez zawarcie między spółką dominującą a spółką zależną umowy przewidującej zarządzanie spółką zależną lub przekazywanie zysku przez taką spółkę;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
 
-- **5)** spółka powiązana – spółkę kapitałową, w której inna spółka handlowa albo spółdzielnia dysponuje bezpośrednio lub pośrednio co najmniej 20% głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu, także jako zastawnik lub użytkownik, albo na podstawie porozumień z innymi osobami lub która posiada bezpośrednio co najmniej 20% udziałów albo akcji w innej spółce kapitałowej; 5 ) grupa spółek – spółkę dominującą i spółkę albo spółki zależne, będące spółkami kapitałowymi, kierujące się zgodnie z uchwałą o uczestnictwie w grupie spółek wspólną strategią w celu realizacji wspólnego interesu (interes grupy spółek), uzasadniającą sprawowanie przez spółkę dominującą jednolitego kierownictwa nad spółką zależną albo spółkami zależnymi;
+- **5)** spółka powiązana – spółkę kapitałową, w której inna spółka handlowa albo spółdzielnia dysponuje bezpośrednio lub pośrednio co najmniej 20% głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu, także jako zastawnik lub użytkownik, albo na podstawie porozumień z innymi osobami lub która posiada bezpośrednio co najmniej 20% udziałów albo akcji w innej spółce kapitałowej;
+- **51)** grupa spółek – spółkę dominującą i spółkę albo spółki zależne, będące spółkami kapitałowymi, kierujące się zgodnie z uchwałą o uczestnictwie w grupie spółek wspólną strategią w celu realizacji wspólnego interesu (interes grupy spółek), uzasadniającą sprawowanie przez spółkę dominującą jednolitego kierownictwa nad spółką zależną albo spółkami zależnymi;
 - **6)** spółka publiczna – spółkę publiczną w rozumieniu przepisów o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych;
 - **7)** instytucja finansowa – bank, fundusz inwestycyjny, towarzystwo funduszy inwestycyjnych, alternatywną spółkę inwestycyjną zarządzaną przez zarządzającego ASI w rozumieniu przepisów o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, prowadzącego działalność na podstawie zezwolenia oraz takiego zarządzającego, zakład ubezpieczeń, zakład reasekuracji, towarzystwo emerytalne, fundusz emerytalny lub dom maklerski, mające siedzibę w Rzeczypospolitej Polskiej albo w państwie należącym do Organizacji Współpracy Gospodarczej i Rozwoju (OECD);
 - **8)** rejestr – rejestr przedsiębiorców;
@@ -73,20 +171,18 @@ Art. 596–609. (pominięte)
 
 § 2. Ilekroć w ustawie mowa jest o „umowie spółki”, należy przez to rozumieć także akt założycielski sporządzony przez jedynego wspólnika albo akcjonariusza spółki kapitałowej.
 
-§ 2. Ilekroć w niniejszej ustawie, z wyłączeniem art. 300 –300 , albo odrębnej ustawie mowa jest o zarządzie lub członku zarządu spółki, w przypadku prostej spółki akcyjnej, w której powołano radę dyrektorów, należy przez to rozumieć, odpowiednio, radę dyrektorów lub dyrektora.
+§ 21. Ilekroć w niniejszej ustawie, z wyłączeniem art. 30052–30067, albo odrębnej ustawie mowa jest o zarządzie lub członku zarządu spółki, w przypadku prostej spółki akcyjnej, w której powołano radę dyrektorów, należy przez to rozumieć, odpowiednio, radę dyrektorów lub dyrektora.
 
-§ 2. Ilekroć w niniejszej ustawie mowa jest o:
+§ 22. Ilekroć w niniejszej ustawie mowa jest o:
 
 - **1)** udziale akcjonariusza w kapitale zakładowym spółki – w przypadku prostej spółki akcyjnej należy przez to rozumieć stosunek liczby akcji przysługujących temu akcjonariuszowi do liczby wszystkich akcji wyemitowanych w tej spółce;
 - **2)** wpisie zmiany wysokości kapitału zakładowego do rejestru – w przypadku prostej spółki akcyjnej należy przez to rozumieć wpis zmiany liczby akcji do rejestru.
 
-§ 3. W przypadku gdy dwie spółki handlowe dysponują wzajemnie większością głosów obliczoną zgodnie z § 1 pkt 4 lit. a, za spółkę dominującą uważa się spółkę handlową, która posiada większy procent głosów na zgromadzeniu wspólników albo walnym zgromadzeniu drugiej spółki (spółki zależnej). W przypadku gdy każda ze spółek handlowych posiada równy procent głosów na zgromadzeniu wspólników albo walnym zgromadzeniu drugiej spółki, za spółkę dominującą uważa się tę spółkę, która wywiera wpływ na spółkę zależną także na podstawie powiązania przewidzianego w § 1 pkt 4 lit. b–f.
+§ 3. W przypadku gdy dwie spółki handlowe dysponują wzajemnie większością głosów obliczoną zgodnie z § 1 pkt 4 lit. a, za spółkę dominującą uważa się spółkę handlową, która posiada większy procent głosów na zgromadzeniu wspólników albo walnym zgromadzeniu drugiej spółki (spółki zależnej). W przypadku gdy każda ze spółek handlowych posiada równy procent głosów na zgromadzeniu wspólników albo walnym zgromadzeniu drugiej spółki, za spółkę dominującą uważa się tę spółkę, która wywiera wpływ na spółkę zależną także na podstawie powiązania przewidzianego w § 1 pkt 4 lit. b-f.
 
-§ 4. W przypadku gdy stosując kryteria przewidziane w § 3, nie można ustalić stosunku dominacji i zależności między dwiema spółkami handlowymi, za spółkę dominującą uważa się tę spółkę handlową, która może wywierać wpływ na inną spółkę na podstawie większej liczby powiązań, o których mowa w § 1 pkt 4 lit. b–f.
+§ 4. W przypadku gdy stosując kryteria przewidziane w § 3, nie można ustalić stosunku dominacji i zależności między dwiema spółkami handlowymi, za spółkę dominującą uważa się tę spółkę handlową, która może wywierać wpływ na inną spółkę na podstawie większej liczby powiązań, o których mowa w § 1 pkt 4 lit. b-f.
 
 § 5. W przypadku niemożności ustalenia na podstawie § 3 i 4, która ze spółek jest spółką dominującą, obie spółki są spółkami wzajemnie dominującymi i zależnymi.
-
-**Art. 5.**
 
 § 1. Dokumenty i informacje o spółce kapitałowej oraz spółce komandytowo-akcyjnej wymagają ogłoszenia lub złożenia dokumentu lub informacji do sądu rejestrowego, z uwzględnieniem przepisów o Krajowym Rejestrze Sądowym.
 
@@ -116,13 +212,13 @@ Art. 596–609. (pominięte)
 
 **Art. 7.** (uchylony)
 
-**Art. 7¹.**
+**Art. 71.**
 
 § 1. Jeżeli przepis ustawy tak stanowi, zawarcie umowy spółki lub wykonanie innej czynności dotyczącej spółki może nastąpić także przy wykorzystaniu wzorca umowy lub innych wzorców udostępnionych w systemie teleinformatycznym.
 
-§ 2. Czynności, o których mowa w § 1, są wykonywane w systemie teleinformatycznym za pośrednictwem konta, o którym mowa w art. 53d ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r. poz. 217, z późn. zm. ).
+§ 2. Czynności, o których mowa w § 1, są wykonywane w systemie teleinformatycznym za pośrednictwem konta, o którym mowa w art. 53d ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r. poz. 217, z późn. zm.).
 
-### DZIAŁ II Spółki osobowe
+### Dział II Spółki osobowe
 
 **Art. 8.**
 
@@ -144,41 +240,35 @@ Art. 596–609. (pominięte)
 
 § 5. Oświadczenia woli złożone w sposób, o którym mowa w § 4, są równoważne z oświadczeniami woli złożonymi w formie pisemnej.
 
-**Art. 10¹.** Jeżeli spółka osobowa nie jest obowiązana do prowadzenia ksiąg rachunkowych na podstawie ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598) przepisy kodeksu, które przewidują konieczność sporządzania sprawozdania finansowego, wykonuje się w oparciu o podsumowanie zapisów w podatkowej księdze przychodów i rozchodów oraz innych ewidencji prowadzonych przez spółkę dla celów podatkowych, spis z natury, a także inne dokumenty pozwalające na sporządzanie tego sprawozdania.
+**Art. 101.** Jeżeli spółka osobowa nie jest obowiązana do prowadzenia ksiąg rachunkowych na podstawie ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598) przepisy kodeksu, które przewidują konieczność sporządzania sprawozdania finansowego, wykonuje się w oparciu o podsumowanie zapisów w podatkowej księdze przychodów i rozchodów oraz innych ewidencji prowadzonych przez spółkę dla celów podatkowych, spis z natury, a także inne dokumenty pozwalające na sporządzanie tego sprawozdania.
 
-### DZIAŁ III Spółki kapitałowe
+### Dział III Spółki kapitałowe
 
 **Art. 11.**
 
-§ 1. Spółki kapitałowe w organizacji, o których mowa w art. 161, art. 300 i art. 323, mogą we własnym imieniu nabywać prawa, w tym własność nieruchomości i inne prawa rzeczowe, zaciągać zobowiązania, pozywać i być pozywane.
+§ 1. Spółki kapitałowe w organizacji, o których mowa w art. 161, art. 30011 i art. 323, mogą we własnym imieniu nabywać prawa, w tym własność nieruchomości i inne prawa rzeczowe, zaciągać zobowiązania, pozywać i być pozywane.
 
 § 2. Do spółki kapitałowej w organizacji w sprawach nieuregulowanych w ustawie stosuje się odpowiednio przepisy dotyczące danej formy prawnej spółki po jej wpisie do rejestru.
 
-§ 3. Firma spółki kapitałowej w organizacji powinna zawierać dodatkowe oznaczenie „w organizacji”.
-
-**Art. 12.** Spółka z ograniczoną odpowiedzialnością w organizacji, prosta spółka akcyjna w organizacji albo spółka akcyjna w organizacji z chwilą wpisu do rejestru staje się spółką z ograniczoną odpowiedzialnością, prostą spółką akcyjną albo spółką akcyjną i uzyskuje osobowość prawną. Z tą chwilą staje się ona podmiotem praw i obowiązków spółki w organizacji.
-
-**Art. 13.**
+§ 3. Firma spółki kapitałowej w organizacji powinna zawierać dodatkowe oznaczenie „w organizacji”. Spółka z ograniczoną odpowiedzialnością w organizacji, prosta spółka akcyjna w organizacji albo spółka akcyjna w organizacji z chwilą wpisu do rejestru staje się spółką z ograniczoną odpowiedzialnością, prostą spółką akcyjną albo spółką akcyjną i uzyskuje osobowość prawną. Z tą chwilą staje się ona podmiotem praw i obowiązków spółki w organizacji.
 
 § 1. Za zobowiązania spółki kapitałowej w organizacji odpowiadają solidarnie spółka i osoby, które działały w jej imieniu.
 
 § 2. Wspólnik albo akcjonariusz spółki kapitałowej w organizacji odpowiada solidarnie z podmiotami, o których mowa w § 1, za jej zobowiązania do wartości niewniesionego wkładu na pokrycie objętych udziałów lub akcji.
 
-**Art. 14.**
-
 § 1. Przedmiotem wkładu niepieniężnego do spółki z ograniczoną odpowiedzialnością, spółki akcyjnej albo przeznaczonego na kapitał akcyjny prostej spółki akcyjnej nie może być prawo niezbywalne lub świadczenie pracy bądź usług.
 
 § 2. W przypadku gdy wspólnik albo akcjonariusz wniósł wkład niepieniężny mający wady, jest on zobowiązany do wyrównania spółce kapitałowej różnicy między wartością przyjętą w umowie albo statucie spółki a zbywczą wartością wkładu. Umowa albo statut spółki może przewidywać, że spółce przysługują wówczas także inne uprawnienia.
 
-§ 3. (uchylony) § 4. Wspólnik i akcjonariusz nie może potrącać swoich wierzytelności wobec spółki kapitałowej z wierzytelnością spółki względem wspólnika z tytułu należnej wpłaty na poczet udziałów albo akcji. Nie wyłącza to potrącenia umownego.
+§ 3. (uchylony)
+
+§ 4. Wspólnik i akcjonariusz nie może potrącać swoich wierzytelności wobec spółki kapitałowej z wierzytelnością spółki względem wspólnika z tytułu należnej wpłaty na poczet udziałów albo akcji. Nie wyłącza to potrącenia umownego.
 
 **Art. 15.**
 
 § 1. Zawarcie przez spółkę kapitałową umowy kredytu, pożyczki, poręczenia lub innej podobnej umowy z członkiem zarządu, rady nadzorczej, komisji rewizyjnej, prokurentem, likwidatorem albo na rzecz którejkolwiek z tych osób, wymaga zgody zgromadzenia wspólników albo walnego zgromadzenia, chyba że ustawa stanowi inaczej.
 
-§ 2. Zawarcie przez spółkę zależną umowy wymienionej w § 1 z członkiem zarządu, prokurentem lub likwidatorem spółki dominującej wymaga zgody zgromadzenia wspólników albo walnego zgromadzenia spółki dominującej. Do wyrażenia zgody i skutków braku zgody stosuje się przepisy art. 17 § 1 i 2.
-
-**Art. 16.** Rozporządzenie udziałem albo akcją dokonane przed wpisem spółki kapitałowej do rejestru albo przed zarejestrowaniem podwyższenia kapitału zakładowego albo emisji nowych akcji bez wartości nominalnej jest nieważne.
+§ 2. Zawarcie przez spółkę zależną umowy wymienionej w § 1 z członkiem zarządu, prokurentem lub likwidatorem spółki dominującej wymaga zgody zgromadzenia wspólników albo walnego zgromadzenia spółki dominującej. Do wyrażenia zgody i skutków braku zgody stosuje się przepisy art. 17 § 1 i 2. Rozporządzenie udziałem albo akcją dokonane przed wpisem spółki kapitałowej do rejestru albo przed zarejestrowaniem podwyższenia kapitału zakładowego albo emisji nowych akcji bez wartości nominalnej jest nieważne.
 
 **Art. 17.**
 
@@ -192,7 +282,7 @@ Art. 596–609. (pominięte)
 
 § 1. Członkiem zarządu, rady nadzorczej, komisji rewizyjnej albo likwidatorem może być tylko osoba fizyczna mająca pełną zdolność do czynności prawnych.
 
-§ 2. Nie może być członkiem zarządu, rady nadzorczej, komisji rewizyjnej, likwidatorem albo prokurentem osoba, która została skazana prawomocnym wyrokiem za przestępstwo określone w art. 587–587 , art. 590 i art. 591 ustawy oraz art. 228–231 i rozdziałach XXXIII–XXXVII ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138, z późn. zm. ).
+§ 2. Nie może być członkiem zarządu, rady nadzorczej, komisji rewizyjnej, likwidatorem albo prokurentem osoba, która została skazana prawomocnym wyrokiem za przestępstwo określone w art. 587–5872, art. 590 i art. 591 ustawy oraz art. 228–231 i rozdziałach XXXIII-XXXVII ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138, z późn. zm.).
 
 § 3. Zakaz, o którym mowa w § 2, ustaje z upływem piątego roku od dnia uprawomocnienia się wyroku skazującego, chyba że wcześniej nastąpiło zatarcie skazania.
 
@@ -223,19 +313,19 @@ Art. 596–609. (pominięte)
 
 § 6. Orzeczenie o rozwiązaniu spółki nie wpływa na ważność czynności prawnych zarejestrowanej spółki.
 
-### DZIAŁ IV Grupa spółek
+### Dział IV Grupa spółek
 
-**Art. 21¹.**
+**Art. 211.**
 
 § 1. Spółka dominująca oraz spółka zależna, które uczestniczą w grupie spółek, kierują się obok interesu spółki interesem grupy spółek, o ile nie zmierza to do pokrzywdzenia wierzycieli lub wspólników mniejszościowych albo akcjonariuszy mniejszościowych spółki zależnej.
 
 § 2. Zgromadzenie wspólników albo walne zgromadzenie spółki zależnej podejmuje większością trzech czwartych głosów uchwałę o uczestnictwie w grupie spółek ze wskazaniem spółki dominującej.
 
-§ 3. Spółka dominująca i spółka zależna ujawniają w rejestrze uczestnictwo w grupie spółek. Ujawnienie uczestnictwa w grupie spółek następuje przez wpisanie wzmianki do rejestru. Przepisów art. 21 –21 , art. 21 , art. 21 , art. 21 –21 nie stosuje się przed ujawnieniem uczestnictwa w grupie spółek. Jeżeli spółka dominująca posiada siedzibę za granicą, uczestnictwo w grupie spółek wystarczy ujawnić w rejestrze spółki zależnej.
+§ 3. Spółka dominująca i spółka zależna ujawniają w rejestrze uczestnictwo w grupie spółek. Ujawnienie uczestnictwa w grupie spółek następuje przez wpisanie wzmianki do rejestru. Przepisów art. 212–214, art. 216, art. 217, art. 2110–2114nie stosuje się przed ujawnieniem uczestnictwa w grupie spółek. Jeżeli spółka dominująca posiada siedzibę za granicą, uczestnictwo w grupie spółek wystarczy ujawnić w rejestrze spółki zależnej.
 
 § 4. Członek zarządu, rady nadzorczej, komisji rewizyjnej, prokurent oraz likwidator spółki uczestniczącej w grupie spółek może powoływać się na działanie lub zaniechanie w określonym interesie grupy spółek, jeżeli spółka ujawniła uczestnictwo w grupie spółek.
 
-**Art. 21².**
+**Art. 212.**
 
 § 1. Spółka dominująca może wydać spółce zależnej uczestniczącej w grupie spółek wiążące polecenie dotyczące prowadzenia spraw spółki (wiążące polecenie), jeżeli jest to uzasadnione interesem grupy spółek oraz przepisy szczególne nie stanowią inaczej.
 
@@ -248,17 +338,17 @@ Art. 596–609. (pominięte)
 - **3)** spodziewane korzyści lub szkody spółki zależnej, które będą następstwem wykonania wiążącego polecenia, o ile występują;
 - **4)** przewidywany sposób i termin naprawienia spółce zależnej szkody poniesionej w wyniku wykonania wiążącego polecenia.
 
-**Art. 21³.**
+**Art. 213.**
 
 § 1. Wykonanie wiążącego polecenia przez spółkę zależną uczestniczącą w grupie spółek wymaga uprzedniej uchwały zarządu spółki zależnej.
 
-§ 2. Uchwała zawiera co najmniej elementy treści wiążącego polecenia, o których mowa w art. 21 § 3.
+§ 2. Uchwała zawiera co najmniej elementy treści wiążącego polecenia, o których mowa w art. 212§ 3.
 
-§ 3. Uchwała o wykonaniu wiążącego polecenia jest podejmowana, o ile nie wystąpiły przesłanki określone w art. 21 § 1–3.
+§ 3. Uchwała o wykonaniu wiążącego polecenia jest podejmowana, o ile nie wystąpiły przesłanki określone w art. 214§ 1–3.
 
 § 4. Spółka zależna uczestnicząca w grupie spółek informuje spółkę dominującą o podjęciu uchwały o wykonaniu wiążącego polecenia albo uchwały o odmowie wykonania wiążącego polecenia.
 
-**Art. 21⁴.**
+**Art. 214.**
 
 § 1. Spółka zależna uczestnicząca w grupie spółek podejmuje uchwałę o odmowie wykonania wiążącego polecenia, jeżeli jego wykonanie doprowadziłoby do niewypłacalności albo zagrożenia niewypłacalnością tej spółki.
 
@@ -270,21 +360,21 @@ Art. 596–609. (pominięte)
 
 § 5. Odmowa wykonania wiążącego polecenia, o której mowa w § 1 lub 2, wymaga uprzedniej uchwały zarządu spółki zależnej uczestniczącej w grupie spółek. Uchwała zawiera uzasadnienie.
 
-**Art. 21⁵.**
+**Art. 215.**
 
-§ 1. Członek zarządu, rady nadzorczej, komisji rewizyjnej oraz likwidator spółki zależnej nie ponosi odpowiedzialności za szkodę wyrządzoną wykonaniem wiążącego polecenia, w tym na podstawie art. 293, art. 300 i art. 483.
+§ 1. Członek zarządu, rady nadzorczej, komisji rewizyjnej oraz likwidator spółki zależnej nie ponosi odpowiedzialności za szkodę wyrządzoną wykonaniem wiążącego polecenia, w tym na podstawie art. 293, art. 300125 i art. 483.
 
 § 2. Przepis § 1 stosuje się odpowiednio do członka zarządu, rady nadzorczej, komisji rewizyjnej i likwidatora spółki dominującej działających w interesie grupy spółek.
 
-**Art. 21⁶.**
+**Art. 216.**
 
 § 1. Spółka dominująca może w każdym czasie przeglądać księgi i dokumenty spółki zależnej uczestniczącej w grupie spółek oraz żądać od niej udzielenia informacji, z uwzględnieniem przepisów szczególnych.
 
-§ 2. Przepisów art. 212, art. 300 i art. 428 nie stosuje się.
+§ 2. Przepisów art. 212, art. 30097 i art. 428 nie stosuje się.
 
 § 3. Spółka dominująca, której nie udostępniono ksiąg i dokumentów lub nie udzielono informacji, może złożyć wniosek do sądu rejestrowego o zobowiązanie zarządu spółki zależnej uczestniczącej w grupie spółek do udostępnienia ksiąg i dokumentów lub udzielenia informacji.
 
-**Art. 21⁷.**
+**Art. 217.**
 
 § 1. Rada nadzorcza spółki dominującej sprawuje stały nadzór nad realizacją interesu grupy spółek przez spółkę zależną uczestniczącą w grupie spółek, chyba że umowa albo statut spółki dominującej lub spółki zależnej przewiduje inaczej.
 
@@ -294,13 +384,13 @@ Art. 596–609. (pominięte)
 
 § 4. Jeżeli umowa spółki dominującej nie przewiduje ustanowienia rady nadzorczej, kompetencje rady nadzorczej, o których mowa w § 1, wykonuje zarząd spółki dominującej.
 
-**Art. 21⁸.**
+**Art. 218.**
 
-§ 1. Zarząd spółki zależnej uczestniczącej w grupie spółek sporządza sprawozdanie o powiązaniach umownych tej spółki ze spółką dominującą za okres ostatniego roku obrotowego i przedstawia je zgromadzeniu wspólników albo walnemu zgromadzeniu. Sprawozdanie to może stanowić część sprawozdania, o którym mowa w art. 231 § 2 pkt 1, art. 300 § 2 pkt 1 albo art. 395 § 2 pkt 1.
+§ 1. Zarząd spółki zależnej uczestniczącej w grupie spółek sporządza sprawozdanie o powiązaniach umownych tej spółki ze spółką dominującą za okres ostatniego roku obrotowego i przedstawia je zgromadzeniu wspólników albo walnemu zgromadzeniu. Sprawozdanie to może stanowić część sprawozdania, o którym mowa w art. 231 § 2 pkt 1, art. 30082§ 2 pkt 1 albo art. 395 § 2 pkt 1.
 
 § 2. W sprawozdaniu o powiązaniach umownych spółki zależnej uczestniczącej w grupie spółek ze spółką dominującą są wskazywane w szczególności wiążące polecenia wydane tej spółce zależnej.
 
-**Art. 21⁹.**
+**Art. 219.**
 
 § 1. Wspólnik lub wspólnicy mniejszościowi albo akcjonariusz lub akcjonariusze mniejszościowi spółki zależnej uczestniczącej w grupie spółek reprezentujący co najmniej 10% kapitału zakładowego mogą zwrócić się do sądu rejestrowego z wnioskiem o wyznaczenie firmy audytorskiej w celu zbadania rachunkowości oraz działalności grupy spółek. Przepisy art. 224–226 stosuje się odpowiednio.
 
@@ -310,19 +400,19 @@ Art. 596–609. (pominięte)
 
 § 4. Na wniosek spółki dominującej lub spółki zależnej uczestniczącej w grupie spółek sąd rejestrowy może ograniczyć przedmiot badania lub określić sposób udostępnienia wyników badania, uwzględniając uzasadnione interesy wnioskodawcy, o którym mowa w § 1, lub pozostałych spółek uczestniczących w grupie spółek, w szczególności potrzebę zabezpieczenia tajemnic przedsiębiorstwa lub innych prawnie chronionych informacji.
 
-**Art. 21¹⁰.**
+**Art. 2110.**
 
-§ 1. Wspólnik lub wspólnicy mniejszościowi albo akcjonariusz lub akcjonariusze mniejszościowi reprezentujący nie więcej niż 10% kapitału zakładowego spółki zależnej uczestniczącej w grupie spółek mogą żądać umieszczenia w porządku obrad najbliższego zgromadzenia wspólników albo walnego zgromadzenia sprawy podjęcia uchwały o przymusowym odkupie ich udziałów albo akcji przez spółkę dominującą, która reprezentuje bezpośrednio, pośrednio lub na podstawie porozumień z innymi osobami co najmniej 90% kapitału zakładowego spółki zależnej uczestniczącej w grupie spółek. Do dnia uiszczenia całej sumy odkupu wspólnik albo akcjonariusz mniejszościowy zachowuje wszystkie uprawnienia z udziałów albo akcji. Przepisy art. 417 § 1–3 i art. 418 § 2–4 i 8 stosuje się odpowiednio.
+§ 1. Wspólnik lub wspólnicy mniejszościowi albo akcjonariusz lub akcjonariusze mniejszościowi reprezentujący nie więcej niż 10% kapitału zakładowego spółki zależnej uczestniczącej w grupie spółek mogą żądać umieszczenia w porządku obrad najbliższego zgromadzenia wspólników albo walnego zgromadzenia sprawy podjęcia uchwały o przymusowym odkupie ich udziałów albo akcji przez spółkę dominującą, która reprezentuje bezpośrednio, pośrednio lub na podstawie porozumień z innymi osobami co najmniej 90% kapitału zakładowego spółki zależnej uczestniczącej w grupie spółek. Do dnia uiszczenia całej sumy odkupu wspólnik albo akcjonariusz mniejszościowy zachowuje wszystkie uprawnienia z udziałów albo akcji. Przepisy art. 417 § 1–3 i art. 4181§ 2–4 i 8 stosuje się odpowiednio.
 
 § 2. Żądanie, o którym mowa w § 1, może być złożone w każdym roku obrotowym tylko raz, nie wcześniej niż po upływie trzech miesięcy od dnia ujawnienia w rejestrze uczestnictwa spółki zależnej w grupie spółek.
 
-**Art. 21¹¹.**
+**Art. 2111.**
 
 § 1. Zgromadzenie wspólników albo walne zgromadzenie spółki zależnej uczestniczącej w grupie spółek może podjąć uchwałę o przymusowym wykupie udziałów albo akcji wspólników albo akcjonariuszy reprezentujących nie więcej niż 10% kapitału zakładowego przez spółkę dominującą, która reprezentuje bezpośrednio co najmniej 90% kapitału zakładowego. Przepisy art. 417 § 1–3 i art. 418 § 2, 2b oraz § 3 zdanie drugie i trzecie stosuje się odpowiednio.
 
-§ 2. Umowa albo statut spółki zależnej może przewidywać, że uprawnienie, o którym mowa w § 1, przysługuje spółce dominującej, która bezpośrednio lub pośrednio reprezentuje w spółce zależnej uczestniczącej w grupie spółek mniej niż 90% kapitału zakładowego takiej spółki, lecz nie mniej niż 75% tego kapitału. Przepis art. 21 § 4 stosuje się odpowiednio.
+§ 2. Umowa albo statut spółki zależnej może przewidywać, że uprawnienie, o którym mowa w § 1, przysługuje spółce dominującej, która bezpośrednio lub pośrednio reprezentuje w spółce zależnej uczestniczącej w grupie spółek mniej niż 90% kapitału zakładowego takiej spółki, lecz nie mniej niż 75% tego kapitału. Przepis art. 214§ 4 stosuje się odpowiednio.
 
-**Art. 21¹².**
+**Art. 2112.**
 
 § 1. Spółka dominująca odpowiada wobec spółki zależnej uczestniczącej w grupie spółek za szkodę, która została wyrządzona wykonaniem wiążącego polecenia i która nie została naprawiona w terminie wskazanym w wiążącym poleceniu, chyba że nie ponosi winy.
 
@@ -334,11 +424,11 @@ Art. 596–609. (pominięte)
 
 § 5. Powództwo o naprawienie szkody, o której mowa w § 1, 2 i 4, wytacza się według miejsca siedziby spółki zależnej.
 
-§ 6. Przepisy art. 295 § 2–4, art. 296, art. 297, art. 300 § 2–4, art. 300 , art. 486 § 2–4, art. 487 i art. 488 stosuje się odpowiednio.
+§ 6. Przepisy art. 295 § 2–4, art. 296, art. 297, art. 300127§ 2–4, art. 300130, art. 486 § 2–4, art. 487 i art. 488 stosuje się odpowiednio.
 
 § 7. Przepisy § 1–6 nie naruszają prawa spółki zależnej, jej wspólników albo akcjonariuszy oraz osób trzecich do dochodzenia naprawienia szkody na zasadach ogólnych.
 
-**Art. 21¹³.**
+**Art. 2113.**
 
 § 1. Spółka dominująca, która na dzień wydania wiążącego polecenia spółce zależnej uczestniczącej w grupie spółek dysponuje, bezpośrednio lub pośrednio, większością głosów umożliwiającą podjęcie uchwały o uczestnictwie w grupie spółek oraz o zmianie umowy albo statutu tej spółki zależnej, odpowiada wobec wspólnika albo akcjonariusza tej spółki za obniżenie wartości przysługującego mu udziału albo akcji, jeżeli obniżenie było następstwem wykonania przez spółkę zależną wiążącego polecenia.
 
@@ -350,9 +440,9 @@ Art. 596–609. (pominięte)
 
 § 5. Roszczenie o naprawienie szkody, o której mowa w § 1, przedawnia się z upływem trzech lat od dnia, w którym wspólnik albo akcjonariusz, o którym mowa w § 1, dowiedział się o szkodzie. Jednakże w każdym przypadku roszczenie przedawnia się z upływem pięciu lat od dnia, w którym nastąpiło zdarzenie wyrządzające szkodę.
 
-**Art. 21¹⁴.**
+**Art. 2114.**
 
-§ 1. Jeżeli egzekucja przeciwko spółce zależnej uczestniczącej w grupie spółek okaże się bezskuteczna, spółka dominująca odpowiada za szkodę wyrządzoną wierzycielowi spółki zależnej, chyba że nie ponosi winy lub szkoda nie powstała w następstwie wykonania przez spółkę zależną wiążącego polecenia. Przepis art. 21 § 3 stosuje się odpowiednio.
+§ 1. Jeżeli egzekucja przeciwko spółce zależnej uczestniczącej w grupie spółek okaże się bezskuteczna, spółka dominująca odpowiada za szkodę wyrządzoną wierzycielowi spółki zależnej, chyba że nie ponosi winy lub szkoda nie powstała w następstwie wykonania przez spółkę zależną wiążącego polecenia. Przepis art. 2112§ 3 stosuje się odpowiednio.
 
 § 2. Domniemywa się, że szkoda, o której mowa w § 1, obejmuje wysokość niezaspokojonej wierzytelności wobec spółki zależnej.
 
@@ -362,9 +452,9 @@ Art. 596–609. (pominięte)
 
 § 5. Powództwo o naprawienie szkody, o której mowa w § 1, wytacza się według miejsca siedziby spółki zależnej uczestniczącej w grupie spółek.
 
-**Art. 21¹⁵.** Ustanie uczestnictwa w grupie spółek następuje wskutek podjęcia większością trzech czwartych głosów uchwały zgromadzenia wspólników albo walnego zgromadzenia spółki zależnej uczestniczącej w grupie spółek lub przez złożenie przez spółkę dominującą spółce zależnej uczestniczącej w grupie spółek oświadczenia o ustaniu tego uczestnictwa.
+**Art. 2115.** Ustanie uczestnictwa w grupie spółek następuje wskutek podjęcia większością trzech czwartych głosów uchwały zgromadzenia wspólników albo walnego zgromadzenia spółki zależnej uczestniczącej w grupie spółek lub przez złożenie przez spółkę dominującą spółce zależnej uczestniczącej w grupie spółek oświadczenia o ustaniu tego uczestnictwa.
 
-**Art. 21¹⁶.**
+**Art. 2116.**
 
 § 1. Przepisy ustawy o grupie spółek dotyczące spółki zależnej stosuje się odpowiednio do spółki powiązanej ze spółką dominującą, jeżeli umowa albo statut spółki powiązanej tak stanowią.
 
@@ -374,9 +464,9 @@ Art. 596–609. (pominięte)
 - **2)** spółki, która jest spółką w likwidacji i rozpoczęła podział swego majątku albo jest spółką w upadłości;
 - **3)** spółki będącej podmiotem objętym nadzorem nad rynkiem finansowym w rozumieniu art. 1 ust. 2 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2023 r. poz. 753, 825, 1705, 1723 i 1843).
 
-## TYTUŁ II Spółki osobowe
+## Tytuł II Spółki osobowe
 
-### DZIAŁ I Spółka jawna
+### Dział I Spółka jawna
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -388,7 +478,7 @@ Art. 596–609. (pominięte)
 
 **Art. 23.** Umowa spółki powinna być zawarta na piśmie pod rygorem nieważności.
 
-**Art. 23¹.**
+**Art. 231.**
 
 § 1. Umowa spółki jawnej może być zawarta również przy wykorzystaniu wzorca umowy.
 
@@ -410,13 +500,16 @@ Art. 596–609. (pominięte)
 
 **Art. 25.** Umowa spółki jawnej powinna zawierać:
 
-**Art. 25¹.**
+- **1)** firmę i siedzibę spółki;
+- **2)** określenie wkładów wnoszonych przez każdego wspólnika i ich wartość;
+- **3)** przedmiot działalności spółki;
+- **4)** czas trwania spółki, jeżeli jest oznaczony.
+
+**Art. 251.**
 
 § 1. Spółka jawna powstaje z chwilą wpisu do rejestru.
 
 § 2. Osoby, które działały w imieniu spółki po jej zawiązaniu, a przed jej wpisaniem do rejestru, za zobowiązania wynikające z tego działania odpowiadają solidarnie.
-
-**Art. 26.**
 
 § 1. Zgłoszenie spółki jawnej do sądu rejestrowego powinno zawierać:
 
@@ -509,7 +602,7 @@ Art. 596–609. (pominięte)
 
 § 2. Jeżeli prowadzenie spraw spółki powierzono kilku wspólnikom, do prowadzenia przez nich spraw spółki stosuje się przepisy ustawy dotyczące prowadzenia spraw przez wszystkich wspólników. Uchwałę wszystkich wspólników zastępuje wówczas uchwała tych wspólników, którym powierzono prowadzenie spraw spółki.
 
-**Art. 40¹.**
+**Art. 401.**
 
 § 1. Wspólnicy spółki, której umowa została zawarta przy wykorzystaniu wzorca umowy, mogą podjąć przy wykorzystaniu wzorca uchwały udostępnionego w systemie teleinformatycznym uchwałę o zmianie adresu spółki oraz o zatwierdzeniu sprawozdania finansowego. W takim przypadku wniosek o wpis do rejestru składany jest za pośrednictwem systemu teleinformatycznego.
 
@@ -543,7 +636,7 @@ Art. 596–609. (pominięte)
 
 § 2. Wkład wspólnika może polegać na przeniesieniu lub obciążeniu własności rzeczy lub innych praw, a także na dokonaniu innych świadczeń na rzecz spółki.
 
-§ 2. W przypadku zawarcia lub zmiany umowy spółki przy wykorzystaniu wzorca umowy wkład wspólnika może być wyłącznie pieniężny.
+§ 21. W przypadku zawarcia lub zmiany umowy spółki przy wykorzystaniu wzorca umowy wkład wspólnika może być wyłącznie pieniężny.
 
 § 3. Prawa, które wspólnik zobowiązuje się wnieść do spółki, uważa się za przeniesione na spółkę.
 
@@ -686,8 +779,6 @@ Art. 596–609. (pominięte)
 
 § 2. Na miejsce wspólnika upadłego wchodzi syndyk.
 
-**Art. 71.**
-
 § 1. Sąd rejestrowy może, z ważnych powodów, na wniosek wspólnika lub innej osoby mającej interes prawny, ustanowić likwidatorami tylko niektórych spośród wspólników, jak również inne osoby.
 
 § 2. Przeciwne postanowienia umowy są nieważne.
@@ -706,7 +797,9 @@ Art. 596–609. (pominięte)
 
 § 1. Do sądu rejestrowego należy zgłosić: otwarcie likwidacji, nazwiska i imiona likwidatorów oraz ich adresy albo adresy do doręczeń elektronicznych, sposób reprezentowania spółki przez likwidatorów i wszelkie w tym zakresie zmiany, nawet gdyby nie nastąpiła żadna zmiana w dotychczasowej reprezentacji spółki. Każdy likwidator ma prawo i obowiązek dokonania zgłoszenia.
 
-§ 2. (uchylony) § 3. Wpis likwidatorów ustanowionych przez sąd i wykreślenie likwidatorów odwołanych przez sąd następuje z urzędu.
+§ 2. (uchylony)
+
+§ 3. Wpis likwidatorów ustanowionych przez sąd i wykreślenie likwidatorów odwołanych przez sąd następuje z urzędu.
 
 § 4. Likwidację prowadzi się pod firmą spółki z dodaniem oznaczenia „w likwidacji”.
 
@@ -766,7 +859,7 @@ Art. 596–609. (pominięte)
 
 § 2. Spółka nie ulega rozwiązaniu, w przypadku gdy postępowanie upadłościowe zostało zakończone w wyniku zaspokojenia wszystkich wierzycieli w całości lub zatwierdzenia układu albo gdy postępowanie upadłościowe zostało uchylone lub umorzone.
 
-### DZIAŁ II Spółka partnerska
+### Dział II Spółka partnerska
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -780,7 +873,9 @@ Art. 596–609. (pominięte)
 
 § 1. Partnerami w spółce mogą być wyłącznie osoby fizyczne, uprawnione do wykonywania wolnych zawodów, określonych w art. 88 lub w odrębnej ustawie.
 
-§ 2. Wykonywanie wolnego zawodu w spółce może być uzależnione od spełnienia dodatkowych wymagań przewidzianych w odrębnej ustawie. [Art. 88. Partnerami w spółce mogą być osoby uprawnione do wykonywania następujących zawodów: adwokata, aptekarza, architekta, fizjoterapeuty, inżyniera budownictwa, biegłego rewidenta, brokera ubezpieczeniowego, diagnosty laboratoryjnego, doradcy podatkowego, maklera papierów wartościowych, doradcy inwestycyjnego, księgowego, lekarza, lekarza dentysty, lekarza weterynarii, notariusza, pielęgniarki, położnej, radcy prawnego, rzecznika patentowego, rzeczoznawcy majątkowego i tłumacza przysięgłego.] <Art. 88. Partnerami w spółce mogą być osoby uprawnione do wykonywania następujących zawodów: adwokata, aptekarza, architekta, fizjoterapeuty, inżyniera budownictwa, biegłego rewidenta, brokera ubezpieczeniowego, diagnosty laboratoryjnego, doradcy podatkowego, maklera papierów wartościowych, doradcy inwestycyjnego, księgowego, lekarza, lekarza dentysty, lekarza weterynarii, notariusza, pielęgniarki, położnej, psychologa, radcy prawnego, rzecznika patentowego, rzeczoznawcy majątkowego i tłumacza przysięgłego.>
+§ 2. Wykonywanie wolnego zawodu w spółce może być uzależnione od spełnienia dodatkowych wymagań przewidzianych w odrębnej ustawie.
+
+**Art. 88.** Partnerami w spółce mogą być osoby uprawnione do wykonywania następujących zawodów: adwokata, aptekarza, architekta, fizjoterapeuty, inżyniera budownictwa, biegłego rewidenta, brokera ubezpieczeniowego, diagnosty laboratoryjnego, doradcy podatkowego, maklera papierów wartościowych, doradcy inwestycyjnego, księgowego, lekarza, lekarza dentysty, lekarza weterynarii, notariusza, pielęgniarki, położnej, radcy prawnego, rzecznika patentowego, rzeczoznawcy majątkowego i tłumacza przysięgłego.
 
 **Art. 89.** W sprawach nieuregulowanych w niniejszym dziale do spółki partnerskiej stosuje się odpowiednio przepisy o spółce jawnej, chyba że ustawa stanowi inaczej.
 
@@ -794,9 +889,15 @@ Art. 596–609. (pominięte)
 
 **Art. 91.** Umowa spółki partnerskiej powinna zawierać:
 
-**Art. 92.** Umowa spółki partnerskiej powinna być zawarta na piśmie pod rygorem nieważności.
+- **1)** określenie wolnego zawodu wykonywanego przez partnerów w ramach spółki;
+- **2)** przedmiot działalności spółki;
+- **3)** nazwiska i imiona partnerów, którzy ponoszą nieograniczoną odpowiedzialność za zobowiązania spółki, w przypadku przewidzianym w art. 95 § 2;
+- **4)** w przypadku gdy spółkę reprezentują tylko niektórzy partnerzy, nazwiska i imiona tych partnerów;
+- **5)** firmę i siedzibę spółki;
+- **6)** czas trwania spółki, jeżeli jest oznaczony;
+- **7)** określenie wkładów wnoszonych przez każdego partnera i ich wartość.
 
-**Art. 93.**
+**Art. 92.** Umowa spółki partnerskiej powinna być zawarta na piśmie pod rygorem nieważności.
 
 § 1. Zgłoszenie spółki partnerskiej do sądu rejestrowego powinno zawierać:
 
@@ -813,7 +914,7 @@ Art. 596–609. (pominięte)
 
 **Art. 94.** Spółka partnerska powstaje z chwilą wpisu do rejestru.
 
-#### Rozdział 2 Stosunek do osób trzecich Zarząd spółki
+#### Rozdział 2 Stosunek do osób trzecich
 
 **Art. 95.**
 
@@ -853,17 +954,19 @@ Art. 596–609. (pominięte)
 
 **Art. 99.** Przepisy art. 59–62 i art. 64–66 stosuje się w przypadku:
 
+- **1)** śmierci partnera;
+- **2)** ogłoszenia upadłości partnera;
+- **3)** wypowiedzenia umowy spółki przez partnera lub wierzyciela partnera.
+
 **Art. 100.**
 
 § 1. W przypadku utraty przez partnera uprawnień do wykonywania wolnego zawodu, powinien on wystąpić ze spółki najpóźniej z końcem roku obrotowego, w którym utracił prawo wykonywania wolnego zawodu.
 
 § 2. Wystąpienie następuje przez pisemne oświadczenie skierowane do zarządu albo do partnera uprawnionego do reprezentowania spółki.
 
-§ 3. Po bezskutecznym upływie terminu określonego w § 1 uważa się, że partner wystąpił ze spółki w ostatnim dniu tego terminu.
+§ 3. Po bezskutecznym upływie terminu określonego w § 1 uważa się, że partner wystąpił ze spółki w ostatnim dniu tego terminu. Spadkobierca partnera nie wstępuje do spółki w miejsce zmarłego partnera, chyba że umowa spółki stanowi inaczej, z uwzględnieniem art. 87.
 
-**Art. 101.** Spadkobierca partnera nie wstępuje do spółki w miejsce zmarłego partnera, chyba że umowa spółki stanowi inaczej, z uwzględnieniem art. 87.
-
-### DZIAŁ III Spółka komandytowa
+### Dział III Spółka komandytowa
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -887,9 +990,15 @@ Art. 596–609. (pominięte)
 
 **Art. 105.** Umowa spółki komandytowej powinna zawierać:
 
+- **1)** firmę i siedzibę spółki;
+- **2)** przedmiot działalności spółki;
+- **3)** czas trwania spółki, jeżeli jest oznaczony;
+- **4)** oznaczenie wkładów wnoszonych przez każdego wspólnika i ich wartość;
+- **5)** oznaczony kwotowo zakres odpowiedzialności każdego komandytariusza wobec wierzycieli (sumę komandytową).
+
 **Art. 106.** Umowa spółki komandytowej powinna być zawarta w formie aktu notarialnego.
 
-**Art. 106¹.**
+**Art. 1061.**
 
 § 1. Umowa spółki komandytowej może być zawarta również przy wykorzystaniu wzorca umowy.
 
@@ -1001,7 +1110,7 @@ Art. 596–609. (pominięte)
 
 § 2. Podział udziału komandytariusza w majątku spółki między spadkobierców jest skuteczny wobec spółki jedynie za zgodą pozostałych wspólników.
 
-### DZIAŁ IV Spółka komandytowo-akcyjna
+### Dział IV Spółka komandytowo-akcyjna
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1040,6 +1149,15 @@ Art. 596–609. (pominięte)
 **Art. 129.** Osoby podpisujące statut są założycielami spółki. Statut powinni podpisać co najmniej wszyscy komplementariusze.
 
 **Art. 130.** Statut spółki komandytowo-akcyjnej powinien zawierać:
+
+- **1)** firmę i siedzibę spółki;
+- **2)** przedmiot działalności spółki;
+- **3)** czas trwania spółki, jeżeli jest oznaczony;
+- **4)** oznaczenie wkładów wnoszonych przez każdego komplementariusza oraz ich wartość;
+- **5)** wysokość kapitału zakładowego, sposób jego zebrania, wartość nominalną akcji i ich liczbę ze wskazaniem, czy akcje są imienne, czy na okaziciela;
+- **6)** liczbę akcji poszczególnych rodzajów i związane z nimi uprawnienia, jeżeli mają być wprowadzone akcje różnych rodzajów;
+- **7)** nazwiska i imiona albo firmy (nazwy) komplementariuszy oraz ich siedziby, adresy albo adresy do doręczeń albo adresy do doręczeń elektronicznych;
+- **8)** organizację walnego zgromadzenia i rady nadzorczej, jeżeli ustawa lub statut przewiduje ustanowienie rady nadzorczej.
 
 **Art. 131.** Statut spółki komandytowo-akcyjnej powinien być sporządzony w formie aktu notarialnego.
 
@@ -1182,7 +1300,7 @@ Art. 596–609. (pominięte)
 
 § 2. Jeżeli statut nie stanowi inaczej, komplementariuszowi niepozbawionemu prawa prowadzenia spraw spółki, który pobiera wynagrodzenie z tytułu podejmowania czynności wymienionych w art. 137 § 1 i art. 141, nie przysługuje udział w zysku spółki w części odpowiadającej wkładowi jego pracy do spółki.
 
-#### Rozdział 5 Rozwiązanie i likwidacja spółki Wystąpienie wspólnika
+#### Rozdział 5 Rozwiązanie i likwidacja spółki
 
 **Art. 148.**
 
@@ -1208,9 +1326,9 @@ Art. 596–609. (pominięte)
 
 § 2. Likwidatorami są komplementariusze mający prawo prowadzenia spraw spółki, chyba że statut lub uchwała walnego zgromadzenia, powzięta za zgodą wszystkich komplementariuszy, stanowi inaczej.
 
-## TYTUŁ III Spółki kapitałowe
+## Tytuł III Spółki kapitałowe
 
-### DZIAŁ I Spółka z ograniczoną odpowiedzialnością
+### Dział I Spółka z ograniczoną odpowiedzialnością
 
 #### Rozdział 1 Powstanie spółki
 
@@ -1253,7 +1371,7 @@ Art. 596–609. (pominięte)
 
 § 2. Umowa spółki z ograniczoną odpowiedzialnością powinna być zawarta w formie aktu notarialnego.
 
-**Art. 157¹.**
+**Art. 1571.**
 
 § 1. Umowa spółki z ograniczoną odpowiedzialnością może być zawarta również przy wykorzystaniu wzorca umowy.
 
@@ -1261,7 +1379,9 @@ Art. 596–609. (pominięte)
 
 § 3. Umowa, o której mowa w § 1, zawarta jest po wprowadzeniu do systemu teleinformatycznego wszystkich danych koniecznych do jej zawarcia i z chwilą opatrzenia ich podpisem elektronicznym.
 
-§ 4. (uchylony) § 5. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzorzec umowy oraz wzorzec uchwały zmieniającej umowę spółki z ograniczoną odpowiedzialnością, a także wzorce innych uchwał i czynności wykonywanych w systemie teleinformatycznym, mając na względzie potrzebę ułatwienia zakładania spółek, zapewnienia sprawności postępowania przy ich zakładaniu oraz sprawności postępowania sądowego w przedmiocie ich rejestracji, wdrożenia ułatwień w ich funkcjonowaniu, a także konieczność zapewnienia bezpieczeństwa i pewności obrotu gospodarczego.
+§ 4. (uchylony)
+
+§ 5. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzorzec umowy oraz wzorzec uchwały zmieniającej umowę spółki z ograniczoną odpowiedzialnością, a także wzorce innych uchwał i czynności wykonywanych w systemie teleinformatycznym, mając na względzie potrzebę ułatwienia zakładania spółek, zapewnienia sprawności postępowania przy ich zakładaniu oraz sprawności postępowania sądowego w przedmiocie ich rejestracji, wdrożenia ułatwień w ich funkcjonowaniu, a także konieczność zapewnienia bezpieczeństwa i pewności obrotu gospodarczego.
 
 § 6. (uchylony)
 
@@ -1269,9 +1389,9 @@ Art. 596–609. (pominięte)
 
 § 1. Jeżeli wkładem do spółki w celu pokrycia udziału ma być w całości albo w części wkład niepieniężny (aport), umowa spółki powinna szczegółowo określać przedmiot tego wkładu oraz osobę wspólnika wnoszącego aport, jak również liczbę i wartość nominalną objętych w zamian udziałów.
 
-§ 1. W przypadku spółki, której umowę zawarto przy wykorzystaniu wzorca umowy, na pokrycie kapitału zakładowego wnosi się wyłącznie wkłady pieniężne. Pokrycie kapitału zakładowego powinno nastąpić nie później niż w terminie siedmiu dni od dnia jej wpisu do rejestru. Przepis art. 161 stosuje się odpowiednio.
+§ 11. W przypadku spółki, której umowę zawarto przy wykorzystaniu wzorca umowy, na pokrycie kapitału zakładowego wnosi się wyłącznie wkłady pieniężne. Pokrycie kapitału zakładowego powinno nastąpić nie później niż w terminie siedmiu dni od dnia jej wpisu do rejestru. Przepis art. 1611 stosuje się odpowiednio.
 
-§ 1. Podwyższenie kapitału zakładowego dokonywane po wpisie do rejestru spółki, której umowa została zawarta przy wykorzystaniu wzorca umowy, może być pokryte wyłącznie wkładami pieniężnymi, jeżeli zmiany umowy spółki dokonano przy wykorzystaniu wzorca uchwały zmieniającej umowę spółki z ograniczoną odpowiedzialnością, a w przypadku gdy zmiany umowy spółki dokonano w formie aktu notarialnego – także wkładami niepieniężnymi.
+§ 12. Podwyższenie kapitału zakładowego dokonywane po wpisie do rejestru spółki, której umowa została zawarta przy wykorzystaniu wzorca umowy, może być pokryte wyłącznie wkładami pieniężnymi, jeżeli zmiany umowy spółki dokonano przy wykorzystaniu wzorca uchwały zmieniającej umowę spółki z ograniczoną odpowiedzialnością, a w przypadku gdy zmiany umowy spółki dokonano w formie aktu notarialnego – także wkładami niepieniężnymi.
 
 § 2. Wynagrodzenia za usługi świadczone przy powstaniu spółki nie można wypłacać ze środków wpłaconych na pokrycie kapitału zakładowego, jak również zaliczać na poczet wkładu wspólnika.
 
@@ -1293,13 +1413,19 @@ Art. 596–609. (pominięte)
 
 § 3. Odpowiedzialność osób, o których mowa w art. 13 § 1, ustaje wobec spółki z chwilą zatwierdzenia ich czynności przez zgromadzenie wspólników.
 
-§ 4. Zmiana umowy spółki z ograniczoną odpowiedzialnością w organizacji wymaga zawarcia umowy przez wspólników. Przepisu nie stosuje się do umowy spółki z ograniczoną odpowiedzialnością zawartej zgodnie z art. 157 .
+§ 4. Zmiana umowy spółki z ograniczoną odpowiedzialnością w organizacji wymaga zawarcia umowy przez wspólników. Przepisu nie stosuje się do umowy spółki z ograniczoną odpowiedzialnością zawartej zgodnie z art. 1571.
 
-**Art. 161¹.** Spółka w organizacji umożliwia rozliczenie z tytułu wpłaty na poczet udziałów przez wykonanie transakcji płatniczej z wykorzystaniem połączenia z siecią Internet na rachunek płatniczy prowadzony przez bank, świadczący usługi na terytorium Unii Europejskiej lub państwa – strony umowy o Europejskim Obszarze Gospodarczym, oraz przedstawienie dowodu takiej transakcji z wykorzystaniem połączenia z siecią Internet.
+**Art. 1611.** Spółka w organizacji umożliwia rozliczenie z tytułu wpłaty na poczet udziałów przez wykonanie transakcji płatniczej z wykorzystaniem połączenia z siecią Internet na rachunek płatniczy prowadzony przez bank, świadczący usługi na terytorium Unii Europejskiej lub państwa – strony umowy o Europejskim Obszarze Gospodarczym, oraz przedstawienie dowodu takiej transakcji z wykorzystaniem połączenia z siecią Internet.
 
 **Art. 162.** W spółce jednoosobowej w organizacji jedyny wspólnik nie ma prawa reprezentowania spółki. Nie dotyczy to zgłoszenia spółki do sądu rejestrowego.
 
 **Art. 163.** Do powstania spółki z ograniczoną odpowiedzialnością wymaga się:
+
+- **1)** zawarcia umowy spółki;
+- **2)** wniesienia przez wspólników wkładów na pokrycie całego kapitału zakładowego, a w razie objęcia udziału za cenę wyższą od wartości nominalnej, także wniesienia nadwyżki, z uwzględnieniem art. 158 § 11;
+- **3)** powołania zarządu;
+- **4)** ustanowienia rady nadzorczej lub komisji rewizyjnej, jeżeli wymaga tego ustawa lub umowa spółki;
+- **5)** wpisu do rejestru.
 
 **Art. 164.**
 
@@ -1310,8 +1436,6 @@ Art. 596–609. (pominięte)
 § 3. Sąd rejestrowy nie może odmówić wpisania spółki do rejestru z powodu drobnych uchybień, które nie naruszają interesu spółki oraz interesu publicznego, a nie mogą być usunięte bez poniesienia niewspółmiernie wysokich kosztów.
 
 **Art. 165.** W przypadku stwierdzenia w zgłoszeniu braku usuwalnego sąd rejestrowy wyznaczy spółce w organizacji stosowny termin do jego usunięcia pod rygorem odmowy wpisu do rejestru.
-
-**Art. 166.**
 
 § 1. Zgłoszenie spółki z ograniczoną odpowiedzialnością do sądu rejestrowego powinno zawierać:
 
@@ -1339,7 +1463,9 @@ Art. 596–609. (pominięte)
 
 § 2. Jednocześnie ze zgłoszeniem należy złożyć podpisaną przez wszystkich członków zarządu listę wspólników z podaniem nazwiska i imienia lub firmy (nazwy) oraz liczby i wartości nominalnej udziałów każdego z nich.
 
-§ 3. (uchylony) § 4. Przepisów § 1–3 nie stosuje się do zgłoszenia spółki, której umowę zawarto przy wykorzystaniu wzorca umowy. Do zgłoszenia tej spółki należy dołączyć, sporządzone na formularzach udostępnianych w systemie teleinformatycznym:
+§ 3. (uchylony)
+
+§ 4. Przepisów § 13 nie stosuje się do zgłoszenia spółki, której umowę zawarto przy wykorzystaniu wzorca umowy. Do zgłoszenia tej spółki należy dołączyć, sporządzone na formularzach udostępnianych w systemie teleinformatycznym:
 
 - **1)** umowę spółki opatrzoną kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym;
 - **2)** listę wspólników z podaniem nazwiska i imienia lub firmy (nazwy) oraz liczby i wartości nominalnej udziałów każdego z nich, opatrzoną przez każdego z członków zarządu kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym;
@@ -1382,7 +1508,9 @@ Art. 596–609. (pominięte)
 
 § 1. W przypadku gdy wszystkie udziały spółki przysługują jedynemu wspólnikowi albo jedynemu wspólnikowi i spółce, oświadczenie woli takiego wspólnika składane spółce wymaga formy pisemnej pod rygorem nieważności, chyba że ustawa stanowi inaczej.
 
-§ 2. (uchylony) § 3. (uchylony)
+§ 2. (uchylony)
+
+§ 3. (uchylony)
 
 #### Rozdział 2 Prawa i obowiązki wspólników
 
@@ -1460,7 +1588,7 @@ Art. 596–609. (pominięte)
 
 § 5. Jeżeli wskazana przez spółkę osoba nie uiściła ceny nabycia w wyznaczonym terminie, wspólnik może rozporządzać swobodnie swoim udziałem, jego częścią lub ułamkową częścią udziału, chyba że nie przyjął oferowanej zapłaty.
 
-**Art. 182¹.**
+**Art. 1821.**
 
 § 1. Oferta nabycia udziałów w spółce nie może być składana nieoznaczonemu adresatowi.
 
@@ -1474,7 +1602,7 @@ Art. 596–609. (pominięte)
 
 § 3. Jeżeli według umowy spółki wspólnik mógł mieć tylko jeden udział, udział ten może być podzielony między spadkobierców, chyba że umowa spółki wyłącza lub ogranicza w określony sposób podział tego udziału między spadkobierców. Wskutek podziału nie mogą powstać udziały niższe niż 50 złotych.
 
-**Art. 183¹.** Umowa spółki może ograniczyć lub wyłączyć wstąpienie do spółki współmałżonka wspólnika w przypadku, gdy udział lub udziały są objęte wspólnością majątkową małżeńską.
+**Art. 1831.** Umowa spółki może ograniczyć lub wyłączyć wstąpienie do spółki współmałżonka wspólnika w przypadku, gdy udział lub udziały są objęte wspólnością majątkową małżeńską.
 
 **Art. 184.**
 
@@ -1550,7 +1678,7 @@ Art. 596–609. (pominięte)
 
 § 1. Spółka może wypłacić zaliczkę na poczet przewidywanej dywidendy, jeżeli jej zatwierdzone sprawozdanie finansowe za poprzedni rok obrotowy wykazuje zysk. Zaliczka może stanowić najwyżej połowę zysku osiągniętego od końca poprzedniego roku obrotowego, powiększonego o kapitały rezerwowe utworzone z zysku, którymi w celu wypłaty zaliczek może dysponować zarząd, oraz pomniejszonego o niepokryte straty i udziały własne.
 
-§ 1. W przypadku gdy w danym roku obrotowym zaliczka na poczet przewidywanej dywidendy została wypłacona wspólnikom, a spółka odnotowała stratę albo osiągnęła zysk w wysokości mniejszej od wypłaconych zaliczek, wspólnicy zwracają zaliczki w:
+§ 11. W przypadku gdy w danym roku obrotowym zaliczka na poczet przewidywanej dywidendy została wypłacona wspólnikom, a spółka odnotowała stratę albo osiągnęła zysk w wysokości mniejszej od wypłaconych zaliczek, wspólnicy zwracają zaliczki w:
 
 - **1)** całości – w przypadku odnotowania straty albo
 - **2)** części odpowiadającej wysokości przekraczającej zysk przypadający wspólnikowi za dany rok obrotowy – w przypadku osiągnięcia zysku w wysokości mniejszej od wypłaconych zaliczek na poczet przewidywanej dywidendy.
@@ -1613,7 +1741,7 @@ Art. 596–609. (pominięte)
 
 § 5. Uchwała wspólników lub umowa spółki może określać wymagania jakie powinni spełniać kandydaci na stanowisko członka zarządu.
 
-**Art. 201¹.**
+**Art. 2011.**
 
 § 1. Uchwała wspólników lub umowa spółki może określać, że członek zarządu jest powoływany przez radę nadzorczą po przeprowadzeniu postępowania kwalifikacyjnego.
 
@@ -1631,7 +1759,7 @@ Art. 596–609. (pominięte)
 
 § 5. Do złożenia rezygnacji przez członka zarządu stosuje się odpowiednio przepisy o wypowiedzeniu zlecenia przez przyjmującego zlecenie.
 
-§ 6. Jeżeli w wyniku rezygnacji członka zarządu żaden mandat w zarządzie nie byłby obsadzony, członek zarządu składa rezygnację wspólnikom, zwołując jednocześnie zgromadzenie wspólników, o którym mowa w art. 233 , chyba że umowa spółki stanowi inaczej. Zaproszenie na zgromadzenie wspólników zawiera także oświadczenie o rezygnacji członka zarządu. Rezygnacja jest skuteczna z dniem następującym po dniu, na który zwołano zgromadzenie wspólników.
+§ 6. Jeżeli w wyniku rezygnacji członka zarządu żaden mandat w zarządzie nie byłby obsadzony, członek zarządu składa rezygnację wspólnikom, zwołując jednocześnie zgromadzenie wspólników, o którym mowa w art. 2331, chyba że umowa spółki stanowi inaczej. Zaproszenie na zgromadzenie wspólników zawiera także oświadczenie o rezygnacji członka zarządu. Rezygnacja jest skuteczna z dniem następującym po dniu, na który zwołano zgromadzenie wspólników.
 
 **Art. 203.**
 
@@ -1641,7 +1769,7 @@ Art. 596–609. (pominięte)
 
 § 3. Były członek zarządu jest uprawniony i obowiązany do złożenia wyjaśnień w toku sporządzania sprawozdania zarządu z działalności i sprawozdania finansowego, obejmujących okres pełnienia przez niego funkcji członka zarządu, oraz do udziału w zgromadzeniu wspólników zatwierdzającym te sprawozdania, chyba że uchwała zgromadzenia wspólników stanowi inaczej.
 
-**Art. 203¹.** Uchwała wspólników może ustalać zasady wynagradzania członków zarządu, w szczególności maksymalną wysokość wynagrodzenia, przyznawania członkom zarządu prawa do świadczeń dodatkowych lub maksymalną wartość takich świadczeń. Wynagrodzenie członków zarządu zatrudnionych na podstawie umowy o pracę lub innej umowy określa organ albo osoba powołana uchwałą zgromadzenia wspólników do zawarcia umowy z członkiem zarządu.
+**Art. 2031.** Uchwała wspólników może ustalać zasady wynagradzania członków zarządu, w szczególności maksymalną wysokość wynagrodzenia, przyznawania członkom zarządu prawa do świadczeń dodatkowych lub maksymalną wartość takich świadczeń. Wynagrodzenie członków zarządu zatrudnionych na podstawie umowy o pracę lub innej umowy określa organ albo osoba powołana uchwałą zgromadzenia wspólników do zawarcia umowy z członkiem zarządu.
 
 **Art. 204.**
 
@@ -1667,7 +1795,9 @@ Art. 596–609. (pominięte)
 - **4)** wysokość kapitału zakładowego, a dla spółki, której umowę zawarto przy wykorzystaniu wzorca umowy, do czasu pokrycia kapitału zakładowego, także informację, że wymagane wkłady na kapitał zakładowy nie zostały wniesione;
 - **5)** oznaczenie grupy spółek, jeżeli spółka do niej należy.
 
-§ 2. (uchylony) § 3. Przepis § 1 stosuje się odpowiednio do oddziału spółki z ograniczoną odpowiedzialnością mającej siedzibę za granicą.
+§ 2. (uchylony)
+
+§ 3. Przepis § 1 stosuje się odpowiednio do oddziału spółki z ograniczoną odpowiedzialnością mającej siedzibę za granicą.
 
 **Art. 207.** Wobec spółki członkowie zarządu podlegają ograniczeniom ustanowionym w niniejszym dziale, w umowie spółki oraz, jeżeli umowa spółki nie stanowi inaczej, w uchwałach wspólników.
 
@@ -1683,11 +1813,11 @@ Art. 596–609. (pominięte)
 
 § 5. Uchwały zarządu mogą być powzięte, jeżeli wszyscy członkowie zostali prawidłowo zawiadomieni o posiedzeniu zarządu. Uchwały zarządu zapadają bezwzględną większością głosów.
 
-§ 5. W posiedzeniu zarządu można uczestniczyć przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość, chyba że umowa spółki stanowi inaczej.
+§ 51. W posiedzeniu zarządu można uczestniczyć przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość, chyba że umowa spółki stanowi inaczej.
 
-§ 5. Zarząd może podejmować uchwały w trybie pisemnym lub przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość, chyba że umowa spółki stanowi inaczej.
+§ 52. Zarząd może podejmować uchwały w trybie pisemnym lub przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość, chyba że umowa spółki stanowi inaczej.
 
-§ 5. Członkowie zarządu mogą brać udział w podejmowaniu uchwał zarządu, oddając swój głos na piśmie za pośrednictwem innego członka zarządu, chyba że umowa spółki stanowi inaczej.
+§ 53. Członkowie zarządu mogą brać udział w podejmowaniu uchwał zarządu, oddając swój głos na piśmie za pośrednictwem innego członka zarządu, chyba że umowa spółki stanowi inaczej.
 
 § 6. Powołanie prokurenta wymaga zgody wszystkich członków zarządu.
 
@@ -1701,11 +1831,11 @@ Art. 596–609. (pominięte)
 
 § 11. Na zasadach określonych w § 9 i 10 można podjąć również uchwałę o zmianie adresu spółki.
 
-**Art. 208¹.** Uchwały zarządu są protokołowane. Protokół powinien zawierać porządek obrad, imiona i nazwiska obecnych członków zarządu i liczbę głosów oddanych na poszczególne uchwały. W protokole zaznacza się również zdanie odrębne zgłoszone przez członka zarządu wraz z jego ewentualnym umotywowaniem. Protokół podpisuje co najmniej członek zarządu prowadzący posiedzenie lub zarządzający głosowanie, chyba że umowa spółki lub regulamin zarządu stanowi inaczej.
+**Art. 2081.** Uchwały zarządu są protokołowane. Protokół powinien zawierać porządek obrad, imiona i nazwiska obecnych członków zarządu i liczbę głosów oddanych na poszczególne uchwały. W protokole zaznacza się również zdanie odrębne zgłoszone przez członka zarządu wraz z jego ewentualnym umotywowaniem. Protokół podpisuje co najmniej członek zarządu prowadzący posiedzenie lub zarządzający głosowanie, chyba że umowa spółki lub regulamin zarządu stanowi inaczej.
 
 **Art. 209.** W przypadku sprzeczności interesów spółki z interesami członka zarządu, jego współmałżonka, krewnych i powinowatych do drugiego stopnia oraz osób, z którymi jest powiązany osobiście, członek zarządu powinien ujawnić sprzeczność interesów i wstrzymać się od udziału w rozstrzyganiu takich spraw oraz może żądać zaznaczenia tego w protokole.
 
-**Art. 209¹.**
+**Art. 2091.**
 
 § 1. Członek zarządu powinien przy wykonywaniu swoich obowiązków dołożyć staranności wynikającej z zawodowego charakteru swojej działalności oraz dochować lojalności wobec spółki.
 
@@ -1715,13 +1845,11 @@ Art. 596–609. (pominięte)
 
 § 1. W umowie między spółką a członkiem zarządu oraz w sporze z nim spółkę reprezentuje rada nadzorcza lub pełnomocnik powołany uchwałą zgromadzenia wspólników.
 
-§ 1. Uchwała o powołaniu pełnomocnika, o którym mowa w § 1, powołanego w celu zawarcia z członkiem zarządu umowy spółki, która ma zostać zawarta przy wykorzystaniu wzorca umowy, może być podjęta przy wykorzystaniu wzorca udostępnionego w systemie teleinformatycznym.
+§ 11. Uchwała o powołaniu pełnomocnika, o którym mowa w § 1, powołanego w celu zawarcia z członkiem zarządu umowy spółki, która ma zostać zawarta przy wykorzystaniu wzorca umowy, może być podjęta przy wykorzystaniu wzorca udostępnionego w systemie teleinformatycznym.
 
 § 2. W przypadku gdy wspólnik, o którym mowa w art. 173 § 1, jest zarazem jedynym członkiem zarządu, przepisu § 1 nie stosuje się. Czynność prawna między tym wspólnikiem a reprezentowaną przez niego spółką wymaga formy aktu notarialnego. O każdorazowym dokonaniu takiej czynności prawnej notariusz zawiadamia sąd rejestrowy za pośrednictwem systemu teleinformatycznego.
 
 § 3. Wymogu zachowania formy aktu notarialnego, o którym mowa w § 2, nie stosuje się do czynności prawnej dokonywanej przy wykorzystaniu wzorca udostępnionego w systemie teleinformatycznym.
-
-**Art. 211.**
 
 § 1. Członek zarządu nie może bez zgody spółki zajmować się interesami konkurencyjnymi ani też uczestniczyć w spółce konkurencyjnej jako wspólnik spółki cywilnej, spółki osobowej lub jako członek organu spółki kapitałowej bądź uczestniczyć w innej konkurencyjnej osobie prawnej jako członek organu. Zakaz ten obejmuje także udział w konkurencyjnej spółce kapitałowej w przypadku posiadania przez członka zarządu co najmniej 10% udziałów lub akcji tej spółki albo prawa do powołania co najmniej jednego członka zarządu.
 
@@ -1729,61 +1857,25 @@ Art. 596–609. (pominięte)
 
 ##### Oddział 2 Nadzór
 
-**Art. 212.**
-
-§ 1. Prawo kontroli służy każdemu wspólnikowi. W tym celu wspólnik lub wspólnik z upoważnioną przez siebie osobą może w każdym czasie przeglądać księgi i dokumenty spółki, sporządzać bilans dla swego użytku lub żądać wyjaśnień od zarządu.
-
-§ 2. Zarząd może odmówić wspólnikowi wyjaśnień oraz udostępnienia do wglądu ksiąg i dokumentów spółki, jeżeli istnieje uzasadniona obawa, że wspólnik wykorzysta je w celach sprzecznych z interesem spółki i przez to wyrządzi spółce znaczną szkodę.
-
-§ 3. W przypadku, o którym mowa w § 2, wspólnik może żądać rozstrzygnięcia sprawy uchwałą wspólników. Uchwała powinna być powzięta w terminie miesiąca od dnia zgłoszenia żądania.
-
-§ 4. Wspólnik, któremu odmówiono wyjaśnień lub wglądu do dokumentów bądź ksiąg spółki, może złożyć wniosek do sądu rejestrowego o zobowiązanie zarządu do udzielenia wyjaśnień lub udostępnienia do wglądu dokumentów bądź ksiąg spółki. Wniosek należy złożyć w terminie siedmiu dni od dnia otrzymania zawiadomienia o uchwale lub od upływu terminu określonego w § 3, w przypadku niepowzięcia uchwały wspólników w tym terminie.
-
-**Art. 213.**
-
-§ 1. Umowa spółki może ustanowić radę nadzorczą lub komisję rewizyjną albo oba te organy.
-
-§ 2. W spółkach, w których kapitał zakładowy przewyższa kwotę 500 000 złotych, a wspólników jest więcej niż dwudziestu pięciu, powinna być ustanowiona rada nadzorcza lub komisja rewizyjna.
-
-§ 3. W przypadku ustanowienia rady nadzorczej lub komisji rewizyjnej umowa spółki może wyłączyć albo ograniczyć indywidualną kontrolę wspólników.
-
-**Art. 214.**
-
-§ 1. Członek zarządu, prokurent, likwidator, kierownik oddziału lub zakładu oraz zatrudniony w spółce główny księgowy, radca prawny lub adwokat nie może być jednocześnie członkiem rady nadzorczej lub komisji rewizyjnej.
-
-§ 2. Przepis § 1 stosuje się również do innych osób, które podlegają bezpośrednio członkowi zarządu albo likwidatorowi.
-
-§ 3. Przepis § 1 stosuje się odpowiednio do członków zarządu i likwidatorów spółki lub spółdzielni zależnej.
-
-**Art. 214¹.**
+**Art. 2141.**
 
 § 1. Członek rady nadzorczej lub komisji rewizyjnej powinien przy wykonywaniu swoich obowiązków dołożyć staranności wynikającej z zawodowego charakteru swojej działalności oraz dochować lojalności wobec spółki.
 
 § 2. Członek rady nadzorczej lub komisji rewizyjnej nie może ujawniać tajemnic spółki także po wygaśnięciu mandatu.
 
-**Art. 215.**
-
 § 1. Rada nadzorcza składa się co najmniej z trzech członków powoływanych i odwoływanych uchwałą wspólników.
 
 § 2. Umowa spółki może przewidywać inny sposób powoływania lub odwoływania członków rady nadzorczej.
 
-**Art. 216.**
-
 § 1. Członków rady nadzorczej powołuje się na rok, jeżeli umowa spółki nie stanowi inaczej.
 
-§ 2. Uchwałą wspólników członkowie rady nadzorczej mogą być odwołani w każdym czasie.
-
-**Art. 217.** Komisja rewizyjna składa się co najmniej z trzech członków, powoływanych i odwoływanych według tych samych zasad, co członkowie rady nadzorczej.
-
-**Art. 218.**
+§ 2. Uchwałą wspólników członkowie rady nadzorczej mogą być odwołani w każdym czasie. Komisja rewizyjna składa się co najmniej z trzech członków, powoływanych i odwoływanych według tych samych zasad, co członkowie rady nadzorczej.
 
 § 1. Jeżeli umowa spółki nie stanowi inaczej, mandaty członków rady nadzorczej i komisji rewizyjnej wygasają z dniem odbycia zgromadzenia wspólników zatwierdzającego sprawozdanie finansowe za pierwszy pełny rok obrotowy pełnienia funkcji członka.
 
 § 2. W przypadku powołania członków rady nadzorczej i komisji rewizyjnej na okres dłuższy niż rok, ich mandaty wygasają z dniem odbycia zgromadzenia wspólników zatwierdzającego sprawozdanie finansowe za ostatni pełny rok obrotowy pełnienia tej funkcji. Kadencję oblicza się w pełnych latach obrotowych, chyba że umowa spółki stanowi inaczej.
 
 § 3. Przepisy art. 202 § 3–5 stosuje się odpowiednio.
-
-**Art. 219.**
 
 § 1. Rada nadzorcza sprawuje stały nadzór nad działalnością spółki we wszystkich dziedzinach jej działalności.
 
@@ -1797,23 +1889,23 @@ Art. 596–609. (pominięte)
 
 § 4. W celu wykonania swoich obowiązków rada nadzorcza może badać wszystkie dokumenty spółki, dokonywać rewizji stanu majątku spółki oraz żądać od zarządu, prokurentów i osób zatrudnionych w spółce na podstawie umowy o pracę lub wykonujących na rzecz spółki w sposób regularny określone czynności na podstawie umowy o dzieło, umowy zlecenia albo innej umowy o podobnym charakterze sporządzenia lub przekazania wszelkich informacji, dokumentów, sprawozdań lub wyjaśnień dotyczących spółki, w szczególności jej działalności lub majątku. Przedmiotem żądania mogą być również posiadane przez organ lub osobę obowiązaną informacje, sprawozdania lub wyjaśnienia dotyczące spółek zależnych oraz spółek powiązanych.
 
-§ 4. Informacje, dokumenty, sprawozdania lub wyjaśnienia, o których mowa w § 4, są przekazywane radzie nadzorczej niezwłocznie, nie później niż w terminie dwóch tygodni od dnia zgłoszenia żądania do organu lub osoby obowiązanej, chyba że w żądaniu określono dłuższy termin.
+§ 41. Informacje, dokumenty, sprawozdania lub wyjaśnienia, o których mowa w § 4, są przekazywane radzie nadzorczej niezwłocznie, nie później niż w terminie dwóch tygodni od dnia zgłoszenia żądania do organu lub osoby obowiązanej, chyba że w żądaniu określono dłuższy termin.
 
-§ 4. Zarząd nie może ograniczać członkom rady nadzorczej dostępu do żądanych przez nich informacji, dokumentów, sprawozdań lub wyjaśnień, o których mowa w § 4.
+§ 42. Zarząd nie może ograniczać członkom rady nadzorczej dostępu do żądanych przez nich informacji, dokumentów, sprawozdań lub wyjaśnień, o których mowa w § 4.
 
 § 5. Każdy członek rady nadzorczej może samodzielnie wykonywać prawo nadzoru, chyba że umowa spółki stanowi inaczej.
 
 § 6. W przypadku gdy sprawozdanie finansowe spółki podlega badaniu ustawowemu, rada nadzorcza jest obowiązana, z co najmniej tygodniowym wyprzedzeniem, zawiadomić kluczowego biegłego rewidenta, który przeprowadzał badanie sprawozdania finansowego spółki, o terminie posiedzenia, którego przedmiotem są sprawy określone w § 3. Spółka zapewnia uczestnictwo kluczowego biegłego rewidenta lub innego przedstawiciela firmy audytorskiej w posiedzeniu rady nadzorczej. W trakcie posiedzenia kluczowy biegły rewident lub inny przedstawiciel firmy audytorskiej przedstawia radzie nadzorczej sprawozdanie z badania, w tym ocenę podstaw przyjętego oświadczenia odnoszącego się do zdolności spółki do kontynuowania działalności, oraz udziela odpowiedzi na pytania członków rady nadzorczej.
 
-**Art. 219¹.**
+**Art. 2191.**
 
 § 1. Rada nadzorcza może ustanowić doraźny lub stały komitet rady nadzorczej, składający się z członków rady nadzorczej, do pełnienia określonych czynności nadzorczych (komitet rady nadzorczej).
 
 § 2. Skorzystanie przez radę nadzorczą z uprawnienia określonego w § 1 nie zwalnia jej członków z odpowiedzialności za sprawowanie nadzoru.
 
-§ 3. Komitet rady nadzorczej ma prawo podejmować czynności nadzorcze określone w art. 219 § 4, chyba że rada nadzorcza postanowi inaczej. Przepis art. 219 § 4 stosuje się.
+§ 3. Komitet rady nadzorczej ma prawo podejmować czynności nadzorcze określone w art. 219 § 4, chyba że rada nadzorcza postanowi inaczej. Przepis art. 219 § 41stosuje się.
 
-**Art. 219².**
+**Art. 2192.**
 
 § 1. Jeżeli umowa spółki tak stanowi, rada nadzorcza może podjąć uchwałę w sprawie zbadania na koszt spółki określonej sprawy dotyczącej działalności spółki lub jej majątku przez wybranego doradcę (doradca rady nadzorczej). Doradca rady nadzorczej może zostać wybrany również w celu przygotowania określonych analiz oraz opinii.
 
@@ -1831,7 +1923,7 @@ Art. 596–609. (pominięte)
 
 § 2. W spółce niemającej rady nadzorczej umowa spółki może rozszerzyć obowiązki komisji rewizyjnej.
 
-**Art. 221¹.**
+**Art. 2211.**
 
 § 1. Pracami rady nadzorczej kieruje przewodniczący, na którym spoczywa obowiązek należytego organizowania jej prac, a w szczególności zwoływania posiedzeń rady nadzorczej. Umowa spółki może przyznawać określone uprawnienia związane z organizacją rady nadzorczej i sposobem wykonywania przez nią czynności również innym jej członkom.
 
@@ -1853,7 +1945,7 @@ Art. 596–609. (pominięte)
 
 § 1. Rada nadzorcza podejmuje uchwały, jeżeli na posiedzeniu jest obecna co najmniej połowa jej członków, a wszyscy jej członkowie zostali zaproszeni. Umowa spółki może przewidywać surowsze wymagania dotyczące kworum rady nadzorczej.
 
-§ 1. W posiedzeniu rady nadzorczej można uczestniczyć przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość, chyba że umowa spółki stanowi inaczej.
+§ 11. W posiedzeniu rady nadzorczej można uczestniczyć przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość, chyba że umowa spółki stanowi inaczej.
 
 § 2. Uchwały rady nadzorczej są protokołowane. Do protokołów rady nadzorczej stosuje się odpowiednio przepisy dotyczące protokołów zarządu.
 
@@ -1861,17 +1953,19 @@ Art. 596–609. (pominięte)
 
 § 4. Rada nadzorcza może podejmować uchwały w trybie pisemnym lub przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość, chyba że umowa spółki stanowi inaczej. Uchwała jest ważna, gdy wszyscy członkowie rady zostali powiadomieni o treści projektu uchwały oraz co najmniej połowa członków rady wzięła udział w podejmowaniu uchwały. Umowa spółki może przewidywać surowsze wymagania dotyczące podejmowania uchwał w trybie określonym w zdaniu pierwszym.
 
-§ 4. Głosowania rady nadzorczej są jawne, chyba że umowa spółki lub regulamin rady nadzorczej stanowi inaczej.
+§ 41. Głosowania rady nadzorczej są jawne, chyba że umowa spółki lub regulamin rady nadzorczej stanowi inaczej.
 
-§ 4. Uchwały rady nadzorczej zapadają bezwzględną większością głosów, chyba że umowa spółki stanowi inaczej.
+§ 42. Uchwały rady nadzorczej zapadają bezwzględną większością głosów, chyba że umowa spółki stanowi inaczej.
 
-§ 4. Przepis art. 209 stosuje się odpowiednio.
+§ 43. Przepis art. 209 stosuje się odpowiednio.
 
-§ 5. (uchylony) § 6. Zgromadzenie wspólników może uchwalać regulamin rady nadzorczej, określający jej organizację i sposób wykonywania czynności. Zgromadzenie wspólników może upoważnić radę nadzorczą do uchwalenia jej regulaminu.
+§ 5. (uchylony)
+
+§ 6. Zgromadzenie wspólników może uchwalać regulamin rady nadzorczej, określający jej organizację i sposób wykonywania czynności. Zgromadzenie wspólników może upoważnić radę nadzorczą do uchwalenia jej regulaminu.
 
 § 7. Przepisy § 1–6 stosuje się odpowiednio do komisji rewizyjnej.
 
-**Art. 222¹.**
+**Art. 2221.**
 
 § 1. Członkom rady nadzorczej może zostać przyznane wynagrodzenie. Wynagrodzenie określa umowa spółki lub uchwała wspólników.
 
@@ -1901,13 +1995,18 @@ Art. 596–609. (pominięte)
 
 **Art. 228.** Uchwały wspólników, poza innymi sprawami wymienionymi w niniejszym dziale lub umowie spółki, wymaga:
 
-**Art. 228¹.** Uchwała wspólników lub umowa spółki może określać zasady postępowania w zakresie rozporządzania składnikami aktywów trwałych lub dokonywania niektórych czynności prawnych.
+- **1)** rozpatrzenie i zatwierdzenie sprawozdania zarządu z działalności spółki, sprawozdania finansowego za ubiegły rok obrotowy oraz udzielenie absolutorium członkom organów spółki z wykonania przez nich obowiązków;
+- **2)** postanowienie dotyczące roszczeń o naprawienie szkody wyrządzonej przy zawiązaniu spółki lub sprawowaniu zarządu albo nadzoru;
+- **3)** zbycie i wydzierżawienie przedsiębiorstwa lub jego zorganizowanej części oraz ustanowienie na nich ograniczonego prawa rzeczowego;
+- **4)** nabycie i zbycie nieruchomości, użytkowania wieczystego lub udziału w nieruchomości, jeżeli umowa spółki nie stanowi inaczej;
+- **5)** zwrot dopłat;
+- **6)** zawarcie umowy, o której mowa w art. 4 § 1 pkt 4 lit. f.
+
+**Art. 2281.** Uchwała wspólników lub umowa spółki może określać zasady postępowania w zakresie rozporządzania składnikami aktywów trwałych lub dokonywania niektórych czynności prawnych.
 
 **Art. 229.** Umowa o nabycie dla spółki nieruchomości albo udziału w nieruchomości lub środków trwałych za cenę przewyższającą jedną czwartą kapitału zakładowego, nie niższą jednak od 50 000 złotych, zawarta przed upływem dwóch lat od dnia zarejestrowania spółki, wymaga uchwały wspólników, chyba że umowa ta była przewidziana w umowie spółki.
 
 **Art. 230.** Rozporządzenie prawem lub zaciągnięcie zobowiązania do świadczenia o wartości dwukrotnie przewyższającej wysokość kapitału zakładowego wymaga uchwały wspólników, chyba że umowa spółki stanowi inaczej. Przepisu art. 17 § 1 nie stosuje się.
-
-**Art. 231.**
 
 § 1. Zwyczajne zgromadzenie wspólników powinno odbyć się w terminie sześciu miesięcy po upływie każdego roku obrotowego.
 
@@ -1919,7 +2018,9 @@ Art. 596–609. (pominięte)
 
 § 3. Przepis § 2 pkt 3 dotyczy wszystkich osób, które pełniły funkcję członków zarządu, rady nadzorczej lub komisji rewizyjnej spółki w ostatnim roku obrotowym. Członkowie organów spółki, których mandaty wygasły przed dniem zgromadzenia wspólników, mają prawo uczestniczyć w zgromadzeniu, przeglądać sprawozdanie zarządu i sprawozdanie finansowe wraz z odpisem sprawozdania rady nadzorczej lub komisji rewizyjnej oraz biegłego rewidenta i przedkładać do nich opinie na piśmie. Żądanie dotyczące skorzystania z tych uprawnień powinno być złożone zarządowi na piśmie najpóźniej na tydzień przed zgromadzeniem wspólników.
 
-§ 4. (uchylony) § 4 . Dokumenty odpowiadające treścią sprawozdaniu zarządu z działalności spółki, sprawozdaniu finansowemu, sprawozdaniu rady nadzorczej lub sprawozdaniu z badania są wydawane wspólnikowi na jego żądanie, które może zostać zgłoszone zarządowi licząc od dnia zwołania zwyczajnego zgromadzenia wspólników. Dokumenty udostępnia się niezwłocznie, nie później niż w terminie dwóch dni powszednich od dnia zgłoszenia żądania. Na żądanie wspólnika dokumenty udostępnia się w postaci elektronicznej, w tym przy wykorzystaniu środków komunikacji elektronicznej.
+§ 4. (uchylony)
+
+§ 41. Dokumenty odpowiadające treścią sprawozdaniu zarządu z działalności spółki, sprawozdaniu finansowemu, sprawozdaniu rady nadzorczej lub sprawozdaniu z badania są wydawane wspólnikowi na jego żądanie, które może zostać zgłoszone zarządowi licząc od dnia zwołania zwyczajnego zgromadzenia wspólników. Dokumenty udostępnia się niezwłocznie, nie później niż w terminie dwóch dni powszednich od dnia zgłoszenia żądania. Na żądanie wspólnika dokumenty udostępnia się w postaci elektronicznej, w tym przy wykorzystaniu środków komunikacji elektronicznej.
 
 § 5. Przedmiotem zwyczajnego zgromadzenia wspólników może być również rozpatrzenie i zatwierdzenie sprawozdania finansowego grupy kapitałowej w rozumieniu przepisów o rachunkowości oraz inne sprawy niż wymienione w § 2.
 
@@ -1933,7 +2034,7 @@ Art. 596–609. (pominięte)
 
 § 2. Przepis § 1 stosuje się odpowiednio, gdy bilans spółki został sporządzony zgodnie z przepisami art. 223–225.
 
-**Art. 233¹.** W przypadku, o którym mowa w art. 202 § 6, członek zarządu jest obowiązany zwołać zgromadzenie wspólników. Przepisu art. 235 § 1 nie stosuje się.
+**Art. 2331.** W przypadku, o którym mowa w art. 202 § 6, członek zarządu jest obowiązany zwołać zgromadzenie wspólników. Przepisu art. 235 § 1 nie stosuje się.
 
 **Art. 234.**
 
@@ -1941,7 +2042,7 @@ Art. 596–609. (pominięte)
 
 § 2. Zgromadzenie wspólników może się odbyć również w innym miejscu na terytorium Rzeczypospolitej Polskiej, jeżeli wszyscy wspólnicy wyrażą na to zgodę na piśmie.
 
-**Art. 234¹.**
+**Art. 2341.**
 
 § 1. Udział w zgromadzeniu wspólników można wziąć także przy wykorzystaniu środków komunikacji elektronicznej, chyba że umowa spółki stanowi inaczej. O udziale w zgromadzeniu wspólników w sposób, o którym mowa w zdaniu pierwszym, postanawia zwołujący to zgromadzenie.
 
@@ -1966,15 +2067,15 @@ Art. 596–609. (pominięte)
 
 § 1. Wspólnik lub wspólnicy reprezentujący co najmniej jedną dziesiątą kapitału zakładowego mogą żądać zwołania nadzwyczajnego zgromadzenia wspólników i umieszczenia określonych spraw w porządku obrad tego zgromadzenia wspólników. Żądanie takie należy złożyć na piśmie zarządowi najpóźniej na miesiąc przed proponowanym terminem zgromadzenia wspólników.
 
-§ 1. Wspólnik lub wspólnicy reprezentujący co najmniej jedną dwudziestą kapitału zakładowego mogą żądać umieszczenia określonych spraw w porządku obrad najbliższego zgromadzenia wspólników. Żądanie takie należy złożyć na piśmie zarządowi najpóźniej na trzy tygodnie przed terminem zgromadzenia wspólników. Zarząd wprowadza sprawy objęte żądaniem wspólników do porządku obrad najbliższego zgromadzenia wspólników i zawiadamia o tym wspólników zgodnie z art. 238.
+§ 11. Wspólnik lub wspólnicy reprezentujący co najmniej jedną dwudziestą kapitału zakładowego mogą żądać umieszczenia określonych spraw w porządku obrad najbliższego zgromadzenia wspólników. Żądanie takie należy złożyć na piśmie zarządowi najpóźniej na trzy tygodnie przed terminem zgromadzenia wspólników. Zarząd wprowadza sprawy objęte żądaniem wspólników do porządku obrad najbliższego zgromadzenia wspólników i zawiadamia o tym wspólników zgodnie z art. 238.
 
-§ 2. Umowa spółki może przyznać uprawnienia, o których mowa w § 1 i § 1 wspólnikom reprezentującym niższy udział w kapitale zakładowym.
+§ 2. Umowa spółki może przyznać uprawnienia, o których mowa w § 1 i § 11wspólnikom reprezentującym niższy udział w kapitale zakładowym.
 
 § 3. Wspólnik lub wspólnicy, którzy zażądali zwołania nadzwyczajnego zgromadzenia wspólników, mają wyłączne prawo jego odwołania.
 
 **Art. 237.**
 
-§ 1. Jeżeli w terminie dwóch tygodni od dnia przedstawienia zarządowi żądania, o którym mowa w art. 236 § 1, nadzwyczajne zgromadzenie wspólników nie zostanie zwołane z porządkiem obrad zgodnym z żądaniem, albo gdy w porządku obrad najbliższego zgromadzenia wspólników nie zostaną zamieszczone sprawy, o których mowa w art. 236 § 1 , sąd rejestrowy może, po wezwaniu zarządu do złożenia oświadczenia, upoważnić do zwołania nadzwyczajnego zgromadzenia wspólnika lub wspólników występujących z żądaniem. Sąd wyznacza przewodniczącego tego zgromadzenia.
+§ 1. Jeżeli w terminie dwóch tygodni od dnia przedstawienia zarządowi żądania, o którym mowa w art. 236 § 1, nadzwyczajne zgromadzenie wspólników nie zostanie zwołane z porządkiem obrad zgodnym z żądaniem, albo gdy w porządku obrad najbliższego zgromadzenia wspólników nie zostaną zamieszczone sprawy, o których mowa w art. 236 § 11, sąd rejestrowy może, po wezwaniu zarządu do złożenia oświadczenia, upoważnić do zwołania nadzwyczajnego zgromadzenia wspólnika lub wspólników występujących z żądaniem. Sąd wyznacza przewodniczącego tego zgromadzenia.
 
 § 2. Zgromadzenie, o którym mowa w § 1, podejmuje uchwałę rozstrzygającą, czy koszty zwołania i odbycia zgromadzenia ma ponieść spółka. Wspólnik lub wspólnicy, na żądanie których zostało zwołane zgromadzenie, mogą zwrócić się do sądu rejestrowego o zwolnienie z obowiązku pokrycia kosztów nałożonych uchwałą zgromadzenia.
 
@@ -1996,7 +2097,7 @@ Art. 596–609. (pominięte)
 
 **Art. 240.** Uchwały można powziąć pomimo braku formalnego zwołania zgromadzenia wspólników, jeżeli cały kapitał zakładowy jest reprezentowany, a nikt z obecnych nie zgłosił sprzeciwu dotyczącego odbycia zgromadzenia lub wniesienia poszczególnych spraw do porządku obrad.
 
-**Art. 240¹.**
+**Art. 2401.**
 
 § 1. W spółce, której umowa została zawarta przy wykorzystaniu wzorca umowy, uchwały wspólników mogą być podjęte przy wykorzystaniu wzorca uchwały udostępnionego w systemie teleinformatycznym. W takim przypadku wniosek o wpis do rejestru składany jest za pośrednictwem systemu teleinformatycznego.
 
@@ -2048,9 +2149,9 @@ Art. 596–609. (pominięte)
 
 § 1. Uchwały zgromadzenia wspólników powinny być wpisane do księgi protokołów i podpisane przez obecnych lub co najmniej przez przewodniczącego i osobę sporządzającą protokół. Jeżeli protokół sporządza notariusz, zarząd wnosi wypis protokołu do księgi protokołów.
 
-§ 2. W protokole należy stwierdzić prawidłowość zwołania zgromadzenia wspólników i jego zdolność do powzięcia uchwał, wymienić powzięte uchwały, liczbę głosów oddanych za każdą uchwałą i zgłoszone sprzeciwy. Do protokołu należy dołączyć listę obecności z podpisami uczestników zgromadzenia wspólników oraz listę wspólników głosujących przy wykorzystaniu środków komunikacji elektronicznej. Podpisy uczestników zgromadzenia wspólników odbytego w trybie art. 234 nie są wymagane. Dowody zwołania zgromadzenia wspólników zarząd powinien dołączyć do księgi protokołów.
+§ 2. W protokole należy stwierdzić prawidłowość zwołania zgromadzenia wspólników i jego zdolność do powzięcia uchwał, wymienić powzięte uchwały, liczbę głosów oddanych za każdą uchwałą i zgłoszone sprzeciwy. Do protokołu należy dołączyć listę obecności z podpisami uczestników zgromadzenia wspólników oraz listę wspólników głosujących przy wykorzystaniu środków komunikacji elektronicznej. Podpisy uczestników zgromadzenia wspólników odbytego w trybie art. 2341 nie są wymagane. Dowody zwołania zgromadzenia wspólników zarząd powinien dołączyć do księgi protokołów.
 
-§ 3. Uchwały pisemne powzięte zgodnie z art. 227 § 2 zarząd wpisuje do księgi protokołów. Uchwały powzięte zgodnie z art. 240 dołącza się do księgi protokołów w postaci wydruków uchwał z systemu teleinformatycznego poświadczonych podpisami zarządu.
+§ 3. Uchwały pisemne powzięte zgodnie z art. 227 § 2 zarząd wpisuje do księgi protokołów. Uchwały powzięte zgodnie z art. 2401 dołącza się do księgi protokołów w postaci wydruków uchwał z systemu teleinformatycznego poświadczonych podpisami zarządu.
 
 § 4. Wspólnicy mogą przeglądać księgę protokołów, a także żądać wydania poświadczonych przez zarząd odpisów uchwał.
 
@@ -2062,7 +2163,11 @@ Art. 596–609. (pominięte)
 
 **Art. 250.** Prawo do wytoczenia powództwa o uchylenie uchwały wspólników przysługuje:
 
-**Art. 251.** Powództwo o uchylenie uchwały wspólników należy wnieść w terminie miesiąca od dnia otrzymania wiadomości o uchwale, nie później jednak niż w terminie sześciu miesięcy od dnia powzięcia uchwały.
+- **1)** zarządowi, radzie nadzorczej, komisji rewizyjnej oraz poszczególnym ich członkom;
+- **2)** wspólnikowi, który głosował przeciwko uchwale, a po jej powzięciu zażądał zaprotokołowania sprzeciwu;
+- **3)** wspólnikowi bezzasadnie niedopuszczonemu do udziału w zgromadzeniu wspólników;
+- **4)** wspólnikowi, który nie był obecny na zgromadzeniu, jedynie w przypadku wadliwego zwołania zgromadzenia wspólników lub też powzięcia uchwały w sprawie nieobjętej porządkiem obrad;
+- **5)** w przypadku pisemnego głosowania, wspólnikowi, którego pominięto przy głosowaniu lub który nie zgodził się na głosowanie pisemne albo też który głosował przeciwko uchwale i po otrzymaniu wiadomości o uchwale w terminie dwóch tygodni zgłosił sprzeciw. Powództwo o uchylenie uchwały wspólników należy wnieść w terminie miesiąca od dnia otrzymania wiadomości o uchwale, nie później jednak niż w terminie sześciu miesięcy od dnia powzięcia uchwały.
 
 **Art. 252.**
 
@@ -2100,7 +2205,7 @@ Art. 596–609. (pominięte)
 
 § 3. Uchwały, o których mowa w § 1 i 2, powinny być umieszczone w protokole sporządzonym przez notariusza.
 
-§ 4. Umowa spółki zawarta przy wykorzystaniu wzorca umowy może być również zmieniona, w zakresie postanowień zmiennych umowy, w tym również co do wysokości kapitału spółki, przy wykorzystaniu wzorca uchwały zmieniającej umowę spółki z ograniczoną odpowiedzialnością udostępnionego w systemie teleinformatycznym, podjętej zgodnie z art. 240 . Uchwała jest równoważna z uchwałą, o której mowa w § 3.
+§ 4. Umowa spółki zawarta przy wykorzystaniu wzorca umowy może być również zmieniona, w zakresie postanowień zmiennych umowy, w tym również co do wysokości kapitału spółki, przy wykorzystaniu wzorca uchwały zmieniającej umowę spółki z ograniczoną odpowiedzialnością udostępnionego w systemie teleinformatycznym, podjętej zgodnie z art. 2401. Uchwała jest równoważna z uchwałą, o której mowa w § 3.
 
 **Art. 256.**
 
@@ -2118,7 +2223,7 @@ Art. 596–609. (pominięte)
 
 § 3. Jeżeli podwyższenie kapitału zakładowego następuje na podstawie dotychczasowych postanowień umowy spółki, przy zachowaniu wymagań określonych w § 1, oświadczenia dotychczasowych wspólników o objęciu nowych udziałów wymagają formy pisemnej pod rygorem nieważności. Art. 260 § 2 stosuje się odpowiednio.
 
-**Art. 257¹.**
+**Art. 2571.**
 
 § 1. Oferta objęcia nowych udziałów w spółce nie może być składana nieoznaczonemu adresatowi.
 
@@ -2134,7 +2239,7 @@ Art. 596–609. (pominięte)
 
 **Art. 259.** Oświadczenie nowego wspólnika powinno zawierać przystąpienie do spółki oraz objęcie udziału lub udziałów o oznaczonej wartości nominalnej. Oświadczenie takie wymaga formy aktu notarialnego.
 
-**Art. 259¹.** Jeżeli podwyższenie kapitału zakładowego dotyczy spółki, której umowa została zawarta przy wykorzystaniu wzorca umowy, i nastąpiło przy zastosowaniu art. 255 § 4, do oświadczeń, o których mowa w art. 258 § 2 i art. 259, nie stosuje się formy aktu notarialnego. Oświadczenia wymagają złożenia ich w systemie teleinformatycznym i opatrzenia kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+**Art. 2591.** Jeżeli podwyższenie kapitału zakładowego dotyczy spółki, której umowa została zawarta przy wykorzystaniu wzorca umowy, i nastąpiło przy zastosowaniu art. 255 § 4, do oświadczeń, o których mowa w art. 258 § 2 i art. 259, nie stosuje się formy aktu notarialnego. Oświadczenia wymagają złożenia ich w systemie teleinformatycznym i opatrzenia kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
 
 **Art. 260.**
 
@@ -2212,7 +2317,16 @@ Art. 596–609. (pominięte)
 
 **Art. 270.** Rozwiązanie spółki powodują:
 
+- **1)** przyczyny przewidziane w umowie spółki;
+- **2)** uchwała wspólników o rozwiązaniu spółki albo o przeniesieniu siedziby spółki za granicę, stwierdzona protokołem sporządzonym przez notariusza, chyba że przeniesienie siedziby ma nastąpić do innego państwa członkowskiego Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym, a prawo tego państwa to dopuszcza;
+- **21)** w przypadku spółki, której umowa została zawarta przy wykorzystaniu wzorca umowy, również uchwała wspólników o rozwiązaniu spółki opatrzona przez wszystkich wspólników kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym;
+- **3)** ogłoszenie upadłości spółki;
+- **4)** inne przyczyny przewidziane prawem.
+
 **Art. 271.** Poza przypadkami, o których mowa w art. 21, sąd może wyrokiem orzec rozwiązanie spółki:
+
+- **1)** na żądanie wspólnika lub członka organu spółki, jeżeli osiągnięcie celu spółki stało się niemożliwe albo jeżeli zaszły inne ważne przyczyny wywołane stosunkami spółki;
+- **2)** na żądanie oznaczonego w odrębnej ustawie organu państwowego, jeżeli działalność spółki naruszająca prawo zagraża interesowi publicznemu.
 
 **Art. 272.** Rozwiązanie spółki następuje po przeprowadzeniu likwidacji, z chwilą wykreślenia spółki z rejestru.
 
@@ -2238,7 +2352,7 @@ Art. 596–609. (pominięte)
 
 § 1. Likwidatorami są członkowie zarządu, chyba że umowa spółki lub uchwała wspólników stanowi inaczej.
 
-§ 1. Sposób reprezentacji spółki w okresie likwidacji określa się w umowie spółki, uchwale wspólników albo orzeczeniu sądu. W każdym przypadku sąd może zmienić sposób reprezentacji spółki w okresie likwidacji.
+§ 11. Sposób reprezentacji spółki w okresie likwidacji określa się w umowie spółki, uchwale wspólników albo orzeczeniu sądu. W każdym przypadku sąd może zmienić sposób reprezentacji spółki w okresie likwidacji.
 
 § 2. Jeżeli umowa spółki nie stanowi inaczej, likwidatorzy mogą być odwołani na mocy uchwały wspólników. Likwidatorów ustanowionych przez sąd tylko sąd może odwołać.
 
@@ -2252,7 +2366,9 @@ Art. 596–609. (pominięte)
 
 § 1. Do sądu rejestrowego należy zgłosić: otwarcie likwidacji, nazwiska i imiona likwidatorów oraz ich adresy albo adresy do doręczeń elektronicznych, sposób reprezentowania spółki przez likwidatorów i wszelkie w tym zakresie zmiany, nawet gdyby nie nastąpiła żadna zmiana w dotychczasowej reprezentacji spółki. Każdy likwidator ma prawo i obowiązek dokonania zgłoszenia.
 
-§ 2. (uchylony) § 3. Wpis likwidatorów ustanowionych przez sąd i wykreślenie likwidatorów przez sąd odwołanych następuje z urzędu.
+§ 2. (uchylony)
+
+§ 3. Wpis likwidatorów ustanowionych przez sąd i wykreślenie likwidatorów przez sąd odwołanych następuje z urzędu.
 
 **Art. 278.** W przypadku uchylenia likwidacji, likwidatorzy powinni tę okoliczność zgłosić do sądu rejestrowego.
 
@@ -2332,7 +2448,9 @@ Art. 596–609. (pominięte)
 
 § 1. Członek zarządu, rady nadzorczej, komisji rewizyjnej oraz likwidator odpowiada wobec spółki za szkodę wyrządzoną działaniem lub zaniechaniem sprzecznym z prawem lub postanowieniami umowy spółki, chyba że nie ponosi winy.
 
-§ 2. (uchylony) § 3. Członek zarządu, rady nadzorczej, komisji rewizyjnej oraz likwidator nie narusza obowiązku dołożenia staranności wynikającej z zawodowego charakteru swojej działalności, jeżeli postępując w sposób lojalny wobec spółki, działa w granicach uzasadnionego ryzyka gospodarczego, w tym na podstawie informacji, analiz i opinii, które powinny być w danych okolicznościach uwzględnione przy dokonywaniu starannej oceny.
+§ 2. (uchylony)
+
+§ 3. Członek zarządu, rady nadzorczej, komisji rewizyjnej oraz likwidator nie narusza obowiązku dołożenia staranności wynikającej z zawodowego charakteru swojej działalności, jeżeli postępując w sposób lojalny wobec spółki, działa w granicach uzasadnionego ryzyka gospodarczego, w tym na podstawie informacji, analiz i opinii, które powinny być w danych okolicznościach uwzględnione przy dokonywaniu starannej oceny.
 
 **Art. 294.** Jeżeli szkodę, o której mowa w art. 292 i art. 293 § 1, wyrządziło kilka osób wspólnie, odpowiadają za szkodę solidarnie.
 
@@ -2362,13 +2480,15 @@ Art. 596–609. (pominięte)
 
 § 4. Osoby, o których mowa w § 1, nie ponoszą odpowiedzialności za niezłożenie wniosku o ogłoszenie upadłości w czasie, gdy prowadzona jest egzekucja przez zarząd przymusowy albo przez sprzedaż przedsiębiorstwa, na podstawie przepisów Kodeksu postępowania cywilnego, jeżeli obowiązek złożenia wniosku o ogłoszenie upadłości powstał w czasie prowadzenia egzekucji.
 
-**Art. 299¹.** Do likwidatorów spółki z ograniczoną odpowiedzialnością, z wyjątkiem likwidatorów ustanowionych przez sąd, przepis art. 299 stosuje się odpowiednio.
+**Art. 2991.** Do likwidatorów spółki z ograniczoną odpowiedzialnością, z wyjątkiem likwidatorów ustanowionych przez sąd, przepis art. 299 stosuje się odpowiednio.
 
-**Art. 300.** Przepisy art. 291–299 nie naruszają praw wspólników oraz osób trzecich do dochodzenia naprawienia szkody na zasadach ogólnych. Prosta spółka akcyjna
+**Art. 300.** Przepisy art. 291–299 nie naruszają praw wspólników oraz osób trzecich do dochodzenia naprawienia szkody na zasadach ogólnych.
+
+### Dział IA Prosta spółka akcyjna
 
 #### Rozdział 1 Powstanie spółki
 
-**Art. 300¹.**
+**Art. 3001.**
 
 § 1. Prosta spółka akcyjna może być utworzona przez jedną albo więcej osób w każdym celu prawnie dopuszczalnym, chyba że ustawa stanowi inaczej.
 
@@ -2378,7 +2498,7 @@ Art. 596–609. (pominięte)
 
 § 4. Akcjonariusze nie odpowiadają za zobowiązania spółki.
 
-**Art. 300².**
+**Art. 3002.**
 
 § 1. Akcje są obejmowane w zamian za wkłady pieniężne lub niepieniężne.
 
@@ -2386,15 +2506,20 @@ Art. 596–609. (pominięte)
 
 § 3. Akcje nie posiadają wartości nominalnej, nie stanowią części kapitału akcyjnego i są niepodzielne.
 
-**Art. 300³.**
+**Art. 3003.**
 
 § 1. W spółce tworzy się wyrażony w złotych kapitał akcyjny, na który przeznacza się wniesione wkłady pieniężne oraz niepieniężne, z uwzględnieniem art. 14 § 1. Kapitał akcyjny powinien wynosić co najmniej 1 złoty.
 
 § 2. Wysokość kapitału akcyjnego nie jest określana w umowie spółki. Do zmian wysokości kapitału akcyjnego nie stosuje się przepisów o zmianie umowy spółki.
 
-**Art. 300⁴.** Do powstania spółki wymaga się:
+**Art. 3004.** Do powstania spółki wymaga się:
 
-**Art. 300⁵.**
+- **1)** zawarcia umowy spółki;
+- **2)** ustanowienia organów spółki wymaganych przez ustawę lub umowę spółki;
+- **3)** wniesienia przez akcjonariuszy wkładów na pokrycie kapitału akcyjnego co najmniej w kwocie, o której mowa w art. 3003 § 1;
+- **4)** wpisu do rejestru.
+
+**Art. 3005.**
 
 § 1. Umowa prostej spółki akcyjnej powinna określać:
 
@@ -2409,9 +2534,9 @@ Art. 596–609. (pominięte)
 
 § 2. Umowa prostej spółki akcyjnej może określać terminy wniesienia wkładów albo zawierać upoważnienie do ich określenia w uchwale akcjonariuszy. W przeciwnym razie terminy wniesienia wkładów określa zarząd.
 
-**Art. 300⁶.** Umowa prostej spółki akcyjnej powinna być zawarta w formie aktu notarialnego.
+**Art. 3006.** Umowa prostej spółki akcyjnej powinna być zawarta w formie aktu notarialnego.
 
-**Art. 300⁷.**
+**Art. 3007.**
 
 § 1. Umowa prostej spółki akcyjnej może być zawarta również przy wykorzystaniu wzorca umowy.
 
@@ -2423,13 +2548,13 @@ Art. 596–609. (pominięte)
 
 § 5. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzorzec umowy prostej spółki akcyjnej, a także wzorce uchwał i innych czynności wykonywanych w systemie teleinformatycznym, mając na względzie potrzebę ułatwienia zakładania spółek, zapewnienia sprawności postępowania przy ich zakładaniu oraz sprawności postępowania sądowego w przedmiocie ich rejestracji, wdrożenia ułatwień w ich funkcjonowaniu, a także konieczność zapewnienia bezpieczeństwa i pewności obrotu gospodarczego.
 
-**Art. 300⁸.**
+**Art. 3008.**
 
 § 1. Firma spółki może być obrana dowolnie; powinna jednak zawierać dodatkowe oznaczenie „prosta spółka akcyjna”.
 
 § 2. Dopuszczalne jest używanie w obrocie skrótu „P.S.A.”.
 
-**Art. 300⁹.**
+**Art. 3009.**
 
 § 1. Wkłady powinny zostać wniesione do spółki w całości w ciągu trzech lat od dnia wpisu spółki do rejestru.
 
@@ -2437,13 +2562,13 @@ Art. 596–609. (pominięte)
 
 § 3. Wkłady wniesione do spółki powinny być zaliczane równomiernie na pokrycie wszystkich akcji akcjonariusza, chyba że umowa spółki stanowi inaczej.
 
-**Art. 300¹⁰.**
+**Art. 30010.**
 
 § 1. Jeżeli wartość wkładu niepieniężnego przeznaczonego na kapitał akcyjny została znacznie zawyżona w stosunku do jego wartości godziwej w dniu objęcia akcji, akcjonariusz, który wniósł taki wkład, jest obowiązany wyrównać spółce brakującą wartość. Członkowie zarządu odpowiadają solidarnie z akcjonariuszem, chyba że nie ponoszą winy.
 
 § 2. Od obowiązku określonego w § 1 akcjonariusz i członkowie zarządu nie mogą być zwolnieni.
 
-**Art. 300¹¹.**
+**Art. 30011.**
 
 § 1. Z chwilą zawarcia umowy prostej spółki akcyjnej powstaje prosta spółka akcyjna w organizacji.
 
@@ -2451,9 +2576,9 @@ Art. 596–609. (pominięte)
 
 § 3. Odpowiedzialność osób, o których mowa w art. 13 § 1, ustaje wobec spółki z chwilą zatwierdzenia ich czynności uchwałą akcjonariuszy.
 
-§ 4. Zmiana umowy prostej spółki akcyjnej w organizacji wymaga zawarcia umowy przez akcjonariuszy. Przepisu nie stosuje się do umowy prostej spółki akcyjnej zawartej zgodnie z art. 300 .
+§ 4. Zmiana umowy prostej spółki akcyjnej w organizacji wymaga zawarcia umowy przez akcjonariuszy. Przepisu nie stosuje się do umowy prostej spółki akcyjnej zawartej zgodnie z art. 3007.
 
-**Art. 300¹².**
+**Art. 30012.**
 
 § 1. Zarząd zgłasza zawiązanie spółki do sądu rejestrowego właściwego ze względu na siedzibę spółki w celu wpisania spółki do rejestru. Wniosek o wpis spółki do rejestru podpisują wszyscy członkowie zarządu.
 
@@ -2485,13 +2610,13 @@ Art. 596–609. (pominięte)
 
 § 6. Wszelkie zmiany danych wymienionych w § 2 zarząd powinien zgłosić sądowi rejestrowemu w celu wpisania do rejestru lub ujawnienia w aktach rejestrowych.
 
-**Art. 300¹³.**
+**Art. 30013.**
 
 § 1. Przepisy art. 164 § 3, art. 165, art. 169, art. 170 i art. 172 stosuje się odpowiednio do zgłoszenia spółki do rejestru, postępowania w przedmiocie wpisu spółki do rejestru i stwierdzenia braków wynikłych z niedopełnienia przepisów prawa po zarejestrowaniu spółki.
 
 § 2. Do zgłoszenia spółki do rejestru w sprawach nieuregulowanych w ustawie stosuje się przepisy o Krajowym Rejestrze Sądowym.
 
-**Art. 300¹⁴.**
+**Art. 30014.**
 
 § 1. W spółce jednoosobowej jedyny akcjonariusz wykonuje uprawnienia walnego zgromadzenia. Przepisy o walnym zgromadzeniu stosuje się odpowiednio.
 
@@ -2501,7 +2626,7 @@ Art. 596–609. (pominięte)
 
 ##### Oddział 1 Akcje i uprawnienia indywidualne akcjonariusza
 
-**Art. 300¹⁵.**
+**Art. 30015.**
 
 § 1. Akcjonariusz ma prawo do udziału w zysku oraz prawo do wypłaty z kapitału akcyjnego w kwocie wynikającej z rocznego sprawozdania finansowego, która została przeznaczona do wypłaty w uchwale akcjonariuszy, chyba że umowa spółki stanowi inaczej.
 
@@ -2515,7 +2640,7 @@ Art. 596–609. (pominięte)
 
 § 6. Wypłata z kapitału akcyjnego może nastąpić po wpisie zmiany jego wysokości do rejestru. W przypadku, o którym mowa w § 4, przepis art. 458 § 2 pkt 4 stosuje się odpowiednio do wniosku o wpis zmiany wysokości kapitału akcyjnego.
 
-**Art. 300¹⁶.**
+**Art. 30016.**
 
 § 1. Uprawnionymi do dywidendy za dany rok obrotowy są akcjonariusze, którym przysługiwały akcje w dniu podjęcia uchwały o wypłacie dywidendy.
 
@@ -2525,24 +2650,24 @@ Art. 596–609. (pominięte)
 
 § 4. Dywidendę wypłaca się w dniu określonym w uchwale walnego zgromadzenia. Jeżeli uchwała walnego zgromadzenia nie określa takiego dnia, dywidenda jest wypłacana w dniu określonym przez zarząd.
 
-**Art. 300¹⁷.**
+**Art. 30017.**
 
-§ 1. Umowa spółki może upoważniać zarząd do wypłaty akcjonariuszom zaliczki na poczet przewidywanej dywidendy na koniec roku obrotowego. Zaliczka nie może być wypłacana z kapitału akcyjnego. Przepisy art. 300 § 2, 3 i 5 stosuje się odpowiednio.
+§ 1. Umowa spółki może upoważniać zarząd do wypłaty akcjonariuszom zaliczki na poczet przewidywanej dywidendy na koniec roku obrotowego. Zaliczka nie może być wypłacana z kapitału akcyjnego. Przepisy art. 30015 § 2, 3 i 5 stosuje się odpowiednio.
 
 § 2. W przypadku gdy w danym roku obrotowym zaliczka na poczet przewidywanej dywidendy została wypłacona akcjonariuszom, a spółka odnotowała stratę albo osiągnęła zysk w wysokości mniejszej od wypłaconych zaliczek, akcjonariusze zwracają zaliczki w:
 
 - **1)** całości – w przypadku odnotowania straty albo
 - **2)** części odpowiadającej wysokości przekraczającej zysk przypadający akcjonariuszowi za dany rok obrotowy – w przypadku osiągnięcia zysku w wysokości mniejszej od wypłaconych zaliczek.
 
-**Art. 300¹⁸.** Umowa spółki może przewidywać, że akcjonariuszowi, któremu nie wypłacono w pełni albo częściowo dywidendy z akcji uprzywilejowanych w zakresie dywidendy w danym roku obrotowym, przysługuje wyrównanie z zysku w następnych latach, nie później jednak niż w ciągu kolejnych pięciu lat obrotowych.
+**Art. 30018.** Umowa spółki może przewidywać, że akcjonariuszowi, któremu nie wypłacono w pełni albo częściowo dywidendy z akcji uprzywilejowanych w zakresie dywidendy w danym roku obrotowym, przysługuje wyrównanie z zysku w następnych latach, nie później jednak niż w ciągu kolejnych pięciu lat obrotowych.
 
-**Art. 300¹⁹.** Na pokrycie strat należy zasilić kapitał akcyjny, przeznaczając na ten cel co najmniej 8% zysku za dany rok obrotowy, jeżeli kapitał ten nie osiągnął 5% sumy zobowiązań spółki wynikającej z zatwierdzonego sprawozdania finansowego za ostatni rok obrotowy.
+**Art. 30019.** Na pokrycie strat należy zasilić kapitał akcyjny, przeznaczając na ten cel co najmniej 8% zysku za dany rok obrotowy, jeżeli kapitał ten nie osiągnął 5% sumy zobowiązań spółki wynikającej z zatwierdzonego sprawozdania finansowego za ostatni rok obrotowy.
 
-**Art. 300²⁰.** Uchwała akcjonariuszy może przeznaczyć na kapitał akcyjny środki, o których mowa w art. 300 § 2. Uchwała ta nie uprawnia akcjonariuszy do objęcia nowych akcji.
+**Art. 30020.** Uchwała akcjonariuszy może przeznaczyć na kapitał akcyjny środki, o których mowa w art. 30015 § 2. Uchwała ta nie uprawnia akcjonariuszy do objęcia nowych akcji.
 
-**Art. 300²¹.** Wartość świadczeń spełnianych przez spółkę na rzecz akcjonariuszy z innego tytułu niż prawa wynikające z akcji, a także na rzecz spółek lub spółdzielni z nimi powiązanych albo pozostających wobec nich w stosunku dominacji lub zależności, nie może przekraczać wartości godziwej świadczenia wzajemnego otrzymanego przez spółkę.
+**Art. 30021.** Wartość świadczeń spełnianych przez spółkę na rzecz akcjonariuszy z innego tytułu niż prawa wynikające z akcji, a także na rzecz spółek lub spółdzielni z nimi powiązanych albo pozostających wobec nich w stosunku dominacji lub zależności, nie może przekraczać wartości godziwej świadczenia wzajemnego otrzymanego przez spółkę.
 
-**Art. 300²².**
+**Art. 30022.**
 
 § 1. Akcjonariusz, który otrzymał wypłatę dokonaną wbrew przepisom prawa lub postanowieniom umowy spółki (odbiorca), jest obowiązany do jej zwrotu.
 
@@ -2552,21 +2677,21 @@ Art. 596–609. (pominięte)
 
 § 4. Roszczenia, o których mowa w § 1 i 2, przedawniają się z upływem trzech lat od dnia wypłaty, z wyjątkiem roszczeń wobec odbiorcy, który wiedział o bezprawności otrzymanej wypłaty.
 
-**Art. 300²³.**
+**Art. 30023.**
 
 § 1. Akcja daje prawo do jednego głosu.
 
 § 2. Zastawnik i użytkownik akcji mogą wykonywać prawo głosu, jeżeli przewiduje to czynność prawna ustanawiająca ograniczone prawo rzeczowe oraz gdy w rejestrze akcjonariuszy dokonano wzmianki o jego ustanowieniu i upoważnieniu do wykonywania prawa głosu, chyba że umowa spółki zakazuje przyznawania prawa głosu zastawnikowi lub użytkownikowi akcji albo uzależnia je od zgody organu spółki.
 
-**Art. 300²⁴.** Prawo kontroli służy każdemu akcjonariuszowi. Przepis art. 212 stosuje się odpowiednio do wykonywania prawa kontroli.
+**Art. 30024.** Prawo kontroli służy każdemu akcjonariuszowi. Przepis art. 212 stosuje się odpowiednio do wykonywania prawa kontroli.
 
-**Art. 300²⁵.**
+**Art. 30025.**
 
 § 1. Spółka może emitować akcje o szczególnych uprawnieniach, które powinny być określone w umowie spółki (akcje uprzywilejowane).
 
 § 2. Uprzywilejowanie, o którym mowa w § 1, może dotyczyć w szczególności prawa głosu, prawa do dywidendy lub podziału majątku w przypadku likwidacji spółki.
 
-**Art. 300²⁶.**
+**Art. 30026.**
 
 § 1. Z akcji uprzywilejowanych może wynikać szczególne uprawnienie, zgodnie z którym każda kolejna emisja nowych akcji nie może naruszać określonego minimalnego stosunku liczby głosów przypadających na te akcje uprzywilejowane do ogólnej liczby głosów przypadających na wszystkie akcje spółki (akcje założycielskie). W przypadku emisji nowych akcji, która mogłaby naruszyć ten stosunek, liczba głosów z akcji założycielskich ulega odpowiedniemu zwiększeniu.
 
@@ -2574,9 +2699,9 @@ Art. 596–609. (pominięte)
 
 § 3. Akcje założycielskie mogą być przedmiotem kolejnych emisji.
 
-**Art. 300²⁷.** Wobec akcji uprzywilejowanej w zakresie dywidendy może być wyłączone prawo głosu (akcja niema). Umowa spółki może określać okoliczności, w których uprawniony z akcji niemej uzyskuje prawo głosu.
+**Art. 30027.** Wobec akcji uprzywilejowanej w zakresie dywidendy może być wyłączone prawo głosu (akcja niema). Umowa spółki może określać okoliczności, w których uprawniony z akcji niemej uzyskuje prawo głosu.
 
-**Art. 300²⁸.**
+**Art. 30028.**
 
 § 1. Umowa spółki może przyznać oznaczonemu akcjonariuszowi uprawnienia indywidualne, w szczególności uprawnienie do powołania lub odwołania członków zarządu lub rady nadzorczej.
 
@@ -2584,26 +2709,26 @@ Art. 596–609. (pominięte)
 
 ##### Oddział 2 Forma akcji
 
-**Art. 300²⁹.**
+**Art. 30029.**
 
 § 1. Akcje nie mają formy dokumentu.
 
 § 2. Przepisy o akcjach stosuje się odpowiednio do warrantów subskrypcyjnych i innych tytułów uczestnictwa w dochodach lub podziale majątku spółki.
 
-**Art. 300³⁰.**
+**Art. 30030.**
 
 § 1. Akcje podlegają zarejestrowaniu w rejestrze akcjonariuszy.
 
 § 2. W przypadku objęcia akcji wpis do rejestru akcjonariuszy następuje po wpisie spółki do rejestru albo wpisie do rejestru nowej emisji akcji.
 
-**Art. 300³¹.**
+**Art. 30031.**
 
 § 1. Rejestr akcjonariuszy prowadzi:
 
 - **1)** podmiot, który na podstawie ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2023 r. poz. 646, 825, 1723 i 1941) jest uprawniony do prowadzenia rachunków papierów wartościowych;
 - **2)** notariusz prowadzący kancelarię notarialną na terytorium Rzeczypospolitej Polskiej.
 
-§ 2. Do zadań podmiotu prowadzącego rejestr akcjonariuszy należy zapewnienie zgodności liczby akcji zarejestrowanych w rejestrze z liczbą wyemitowanych akcji oraz dokonywanie wpisów zmian danych, o których mowa w art. 300 .
+§ 2. Do zadań podmiotu prowadzącego rejestr akcjonariuszy należy zapewnienie zgodności liczby akcji zarejestrowanych w rejestrze z liczbą wyemitowanych akcji oraz dokonywanie wpisów zmian danych, o których mowa w art. 30033.
 
 § 3. Rejestr akcjonariuszy jest prowadzony w postaci elektronicznej, która może mieć formę rozproszonej i zdecentralizowanej bazy danych.
 
@@ -2611,44 +2736,39 @@ Art. 596–609. (pominięte)
 
 § 5. Wybór podmiotu prowadzącego rejestr akcjonariuszy wymaga uchwały akcjonariuszy. Przy zawiązaniu spółki wyboru dokonują akcjonariusze.
 
-**Art. 300³².**
+**Art. 30032.**
 
-§ 1. Spółka jest obowiązana do niezwłocznego zawarcia umowy o prowadzenie rejestru akcjonariuszy z podmiotem wybranym zgodnie z art. 300 § 5. <§ 1 . Zarząd zgłasza zawarcie umowy, o której mowa w § 1, do sądu rejestrowego.
+§ 1. Spółka jest obowiązana do niezwłocznego zawarcia umowy o prowadzenie rejestru akcjonariuszy z podmiotem wybranym zgodnie z art. 30031 § 5.
 
-§ 1. Zgłoszenie zawiera, w przypadku zawarcia umowy z:
+§ 2. Rozwiązanie przez spółkę umowy, o której mowa w § 1, jest dopuszczalne jedynie pod warunkiem zawarcia nowej umowy o prowadzenie rejestru akcjonariuszy. Rozwiązanie umowy przez podmiot prowadzący rejestr akcjonariuszy jest dopuszczalne jedynie z ważnych powodów, z zachowaniem terminu wypowiedzenia nie krótszego niż trzy miesiące.
 
-- **1)** podmiotem, który na podstawie ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi jest uprawniony do prowadzenia rachunków papierów wartościowych – jego firmę (nazwę), numer we właściwym rejestrze i nazwę tego rejestru oraz numer identyfikacji podatkowej (NIP);
-- **2)** notariuszem prowadzącym kancelarię notarialną na terytorium Rzeczypospolitej Polskiej – imię i nazwisko notariusza oraz siedzibę i adres jego kancelarii, a jeżeli umowę zawarła osoba wyznaczona do zastępstwa notariusza albo upoważniona do dokonywania czynności notarialnych ‒ ponadto imię i nazwisko tej osoby.
-
-§ 1. Do zgłoszenia należy dołączyć oświadczenie zarządu potwierdzające zawarcie takiej umowy.> § 2. Rozwiązanie przez spółkę umowy, o której mowa w § 1, jest dopuszczalne jedynie pod warunkiem zawarcia nowej umowy o prowadzenie rejestru akcjonariuszy. Rozwiązanie umowy przez podmiot prowadzący rejestr akcjonariuszy jest dopuszczalne jedynie z ważnych powodów, z zachowaniem terminu wypowiedzenia nie krótszego niż trzy miesiące. <§ 3. Podmiot prowadzący rejestr akcjonariuszy zawiadamia sąd rejestrowy za pośrednictwem systemu teleinformatycznego o wygaśnięciu albo rozwiązaniu umowy, o której mowa w § 1, ze wskazaniem daty jej wygaśnięcia albo rozwiązania, w terminie siedmiu dni od tej daty.>
-
-**Art. 300³³.**
+**Art. 30033.**
 
 § 1. Rejestr akcjonariuszy zawiera:
 
 - **1)** firmę, siedzibę i adres spółki;
 - **2)** oznaczenie sądu rejestrowego i numer, pod którym spółka jest wpisana do rejestru;
 - **3)** datę zarejestrowania spółki i emisji akcji;
-- **4)** serię i numer, rodzaj danej akcji i uprawnienia szczególne z akcji; [5) nazwisko i imię albo firmę (nazwę) akcjonariusza oraz adres jego zamieszkania albo siedziby albo inny adres do doręczeń albo adres do doręczeń elektronicznych, a także adres poczty elektronicznej, jeżeli akcjonariusz wyraził zgodę na komunikację w stosunkach ze spółką i podmiotem prowadzącym rejestr akcjonariuszy przy wykorzystaniu poczty elektronicznej;] <5) nazwisko, imię, numer PESEL albo datę urodzenia akcjonariusza, a w przypadku osoby niebędącej osobą fizyczną ‒ firmę (nazwę) oraz numer akcjonariusza we właściwym rejestrze i nazwę tego rejestru, jeżeli akcjonariusz jest wpisany do rejestru – adres jego zamieszkania albo siedziby albo inny adres do doręczeń albo adres do doręczeń elektronicznych, a także adres poczty elektronicznej, jeżeli akcjonariusz wyraził zgodę na komunikację przy wykorzystaniu poczty elektronicznej w stosunkach ze spółką i podmiotem prowadzącym rejestr akcjonariuszy; w przypadku współwłasności akcji także imię, nazwisko albo firmę (nazwę) pozostałych współwłaścicieli, rodzaj współwłasności, a w przypadku współwłasności w częściach ułamkowych ‒ wielkość udziału akcjonariusza;> [6) na żądanie osoby mającej interes prawny – wpis o przejściu akcji lub praw zastawniczych na inną osobę albo o ustanowieniu na akcji ograniczonego prawa rzeczowego wraz z datą wpisu oraz wskazaniem nabywcy albo zastawnika lub użytkownika, adresu ich zamieszkania albo siedziby lub innych adresów do doręczeń albo adresów do doręczeń elektronicznych, a także adresu poczty elektronicznej, jeżeli osoby te wyraziły zgodę na komunikację w stosunkach ze spółką i podmiotem prowadzącym rejestr akcjonariuszy przy wykorzystaniu poczty elektronicznej oraz liczby, rodzaju, serii i numerów nabytych albo obciążonych akcji;] <6) na żądanie osoby mającej interes prawny – wpis o przejściu akcji lub praw zastawniczych na inną osobę albo ustanowieniu na akcji ograniczonego prawa rzeczowego wraz z datą wpisu oraz ze wskazaniem następujących danych:
-    - **a)** nazwiska, imienia, numeru PESEL albo daty urodzenia nabywcy albo zastawnika lub użytkownika, a w przypadku osoby niebędącej osobą fizyczną ‒ firmy (nazwy), numeru we właściwym rejestrze oraz nazwy tego rejestru w przypadku gdy osoba ta jest wpisana do rejestru,
-    - **b)** adresu zamieszkania albo siedziby albo innych adresów do doręczeń albo adresów do doręczeń elektronicznych nabywcy albo zastawnika lub użytkownika, a także adresu poczty elektronicznej, jeżeli osoba ta wyraziła zgodę na komunikację przy wykorzystaniu poczty elektronicznej w stosunkach ze spółką i podmiotem prowadzącym rejestr akcjonariuszy,
-    - **c)** liczby, rodzaju, serii i numerów nabytych albo obciążonych akcji;>
-
+- **4)** serię i numer, rodzaj danej akcji i uprawnienia szczególne z akcji;
+- **5)** nazwisko i imię albo firmę (nazwę) akcjonariusza oraz adres jego zamieszkania albo siedziby albo inny adres do doręczeń albo adres do doręczeń elektronicznych, a także adres poczty elektronicznej, jeżeli akcjonariusz wyraził zgodę na komunikację w stosunkach ze spółką i podmiotem prowadzącym rejestr akcjonariuszy przy wykorzystaniu poczty elektronicznej;
+- **6)** na żądanie osoby mającej interes prawny – wpis o przejściu akcji lub praw zastawniczych na inną osobę albo o ustanowieniu na akcji ograniczonego prawa rzeczowego wraz z datą wpisu oraz wskazaniem nabywcy albo zastawnika lub użytkownika, adresu ich zamieszkania albo siedziby lub innych adresów do doręczeń albo adresów do doręczeń elektronicznych, a także adresu poczty elektronicznej, jeżeli osoby te wyraziły zgodę na komunikację w stosunkach ze spółką i podmiotem prowadzącym rejestr akcjonariuszy przy wykorzystaniu poczty elektronicznej oraz liczby, rodzaju, serii i numerów nabytych albo obciążonych akcji;
 - **7)** na żądanie zastawnika albo użytkownika – wpis, że przysługuje mu prawo wykonywania prawa głosu z obciążonej akcji;
 - **8)** na żądanie akcjonariusza – wpis o wykreśleniu obciążenia jego akcji ograniczonym prawem rzeczowym;
 - **9)** wzmiankę o tym, czy akcje zostały w całości pokryte;
 - **10)** ograniczenia co do rozporządzania akcją;
 - **11)** postanowienia umowy spółki o związanych z akcją obowiązkach wobec spółki.
 
-§ 2. Umowa spółki może zawierać dodatkowe postanowienia dotyczące informacji ujawnianych w rejestrze akcjonariuszy. <§ 3. Wszelkie zmiany danych, o których mowa w § 1 pkt 1‒4 oraz 9‒11, zarząd zgłasza podmiotowi prowadzącemu rejestr akcjonariuszy w terminie siedmiu dni od dnia wystąpienia zdarzenia uzasadniającego dokonanie wpisu.>
+§ 2. Umowa spółki może zawierać dodatkowe postanowienia dotyczące informacji ujawnianych w rejestrze akcjonariuszy.
 
-**Art. 300³⁴.**
+**Art. 30034.**
 
-§ 1. Podmiot prowadzący rejestr akcjonariuszy dokonuje wpisu w rejestrze akcjonariuszy, na żądanie spółki lub innej osoby mającej interes prawny w dokonaniu wpisu, niezwłocznie, ale nie później niż w terminie siedmiu dni od dnia otrzymania żądania. Jeżeli dokonanie wpisu wymaga usunięcia przeszkody, wpis powinien być dokonany w terminie [siedmiu dni] <tygodnia> od dnia jej usunięcia.
+§ 1. Podmiot prowadzący rejestr akcjonariuszy dokonuje wpisu w rejestrze akcjonariuszy, na żądanie spółki lub innej osoby mającej interes prawny w dokonaniu wpisu, niezwłocznie, ale nie później niż w terminie siedmiu dni od dnia otrzymania żądania. Jeżeli dokonanie wpisu wymaga usunięcia przeszkody, wpis powinien być dokonany w terminie siedmiu dni od dnia jej usunięcia.
 
-§ 2. W przypadku zajęcia praw majątkowych akcjonariusza przez komornika sądowego w trybie art. 911 § 2 Kodeksu postępowania cywilnego, a także w przypadku przekazania zawiadomienia przez organ egzekucyjny w trybie art. 95a pkt 2 lit. b ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505) albo wniosku w trybie art. 95f § 2 tej ustawy, ujawnienie w rejestrze akcjonariuszy zajęcia praw majątkowych akcjonariusza następuje z urzędu i jest wolne od opłat.
+§ 2. W przypadku zajęcia praw majątkowych akcjonariusza przez komornika sądowego w trybie art. 9113 § 2 Kodeksu postępowania cywilnego, a także w przypadku przekazania zawiadomienia przez organ egzekucyjny w trybie art. 95a pkt 2 lit. b ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505) albo wniosku w trybie art. 95f § 2 tej ustawy, ujawnienie w rejestrze akcjonariuszy zajęcia praw majątkowych akcjonariusza następuje z urzędu i jest wolne od opłat.
 
-§ 3. Przed wpisem w rejestrze akcjonariuszy, z wyłączeniem przypadku, o którym mowa w § 2, podmiot prowadzący rejestr akcjonariuszy powiadamia o treści zamierzonego wpisu osobę, której uprawnienia mają być wykreślone, zmienione lub obciążone przez wpis, chyba że wyraziła ona zgodę na wpis. <Zgodę na wpis składa się w formie pisemnej z podpisem notarialnie poświadczonym albo w formie pisemnej w obecności osoby upoważnionej przez podmiot prowadzący rejestr akcjonariuszy, która potwierdza swoją obecność podpisem, albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.> § 4. Osoba żądająca wpisu jest obowiązana przedłożyć podmiotowi prowadzącemu rejestr akcjonariuszy dokumenty uzasadniające dokonanie wpisu. Podstawę dokonania wpisu stanowi także oświadczenie akcjonariusza o zobowiązaniu do przeniesienia akcji albo obciążenia akcji ograniczonym prawem rzeczowym.
+§ 3. Przed wpisem w rejestrze akcjonariuszy, z wyłączeniem przypadku, o którym mowa w § 2, podmiot prowadzący rejestr akcjonariuszy powiadamia o treści zamierzonego wpisu osobę, której uprawnienia mają być wykreślone, zmienione lub obciążone przez wpis, chyba że wyraziła ona zgodę na wpis.
+
+§ 4. Osoba żądająca wpisu jest obowiązana przedłożyć podmiotowi prowadzącemu rejestr akcjonariuszy dokumenty uzasadniające dokonanie wpisu. Podstawę dokonania wpisu stanowi także oświadczenie akcjonariusza o zobowiązaniu do przeniesienia akcji albo obciążenia akcji ograniczonym prawem rzeczowym.
 
 § 5. Podmiot prowadzący rejestr akcjonariuszy bada treść i formę dokumentów uzasadniających dokonanie wpisu. Podmiot ten nie ma jednak obowiązku badania zgodności z prawem oraz prawdziwości dokumentów uzasadniających dokonanie wpisu, w tym podpisów zbywcy akcji lub osób ustanawiających ograniczone prawo rzeczowe na akcji, chyba że poweźmie w tym względzie uzasadnione wątpliwości.
 
@@ -2656,17 +2776,19 @@ Art. 596–609. (pominięte)
 
 § 7. O dokonanym wpisie podmiot prowadzący rejestr akcjonariuszy niezwłocznie powiadamia osobę żądającą wpisu oraz spółkę. W przypadku niedokonania wpisu podmiot prowadzący rejestr akcjonariuszy niezwłocznie powiadamia o tym osobę żądającą wpisu, podając przyczyny niedokonania wpisu.
 
-§ 8. Po otrzymaniu powiadomienia, o którym mowa w § 7 zdanie pierwsze, zarząd niezwłocznie składa do sądu rejestrowego podpisaną przez wszystkich członków zarządu nową listę akcjonariuszy z podaniem nazwiska i imienia albo firmy (nazwy) oraz liczby i serii akcji posiadanych przez każdego z nich oraz wzmianką o ustanowieniu zastawu lub użytkowania na akcjach w przypadku ustanowienia na akcjach ograniczonego prawa rzeczowego. <§ 9. Powiadomienia, o których mowa w § 3 zdanie pierwsze oraz § 7 zdanie pierwsze, mogą być automatycznie przesyłane na żądanie ich adresata za pośrednictwem systemu teleinformatycznego podmiotu prowadzącego rejestr akcjonariuszy na konto adresata w tym systemie lub wskazany przez niego adres poczty elektronicznej, adres do doręczeń elektronicznych albo inny adres umożliwiający odbiór korespondencji w postaci elektronicznej.>
+§ 8. Po otrzymaniu powiadomienia, o którym mowa w § 7 zdanie pierwsze, zarząd niezwłocznie składa do sądu rejestrowego podpisaną przez wszystkich członków zarządu nową listę akcjonariuszy z podaniem nazwiska i imienia albo firmy (nazwy) oraz liczby i serii akcji posiadanych przez każdego z nich oraz wzmianką o ustanowieniu zastawu lub użytkowania na akcjach w przypadku ustanowienia na akcjach ograniczonego prawa rzeczowego.
 
-**Art. 300³⁵.**
+**Art. 30035.**
 
-§ 1. Rejestr akcjonariuszy jest jawny dla spółki i każdego akcjonariusza. <§ 1 . Informacji o numerze PESEL, dacie urodzenia ani adresie zamieszkania akcjonariusza nie udostępnia się pozostałym akcjonariuszom.> § 2. Podmioty, o których mowa w § 1, mają prawo dostępu do danych zawartych w rejestrze akcjonariuszy za pośrednictwem podmiotu prowadzącego rejestr akcjonariuszy.
+§ 1. Rejestr akcjonariuszy jest jawny dla spółki i każdego akcjonariusza.
 
-§ 3. Podmioty, o których mowa w § 1, mają prawo żądać wydania, w postaci papierowej lub elektronicznej, informacji z rejestru akcjonariuszy. <§ 4. Przepisy § 1, 2 i 3 stosuje się odpowiednio do sądów, prokuratury, komorników sądowych oraz administracyjnych organów egzekucyjnych w związku z toczącymi się przed nimi postępowaniami.>
+§ 2. Podmioty, o których mowa w § 1, mają prawo dostępu do danych zawartych w rejestrze akcjonariuszy za pośrednictwem podmiotu prowadzącego rejestr akcjonariuszy.
+
+§ 3. Podmioty, o których mowa w § 1, mają prawo żądać wydania, w postaci papierowej lub elektronicznej, informacji z rejestru akcjonariuszy.
 
 ##### Oddział 3 Rozporządzanie akcją
 
-**Art. 300³⁶.**
+**Art. 30036.**
 
 § 1. Akcje są zbywalne.
 
@@ -2676,11 +2798,13 @@ Art. 596–609. (pominięte)
 
 § 4. Zbycie lub obciążenie akcji powinno być dokonane w formie dokumentowej pod rygorem nieważności.
 
-**Art. 300³⁷.**
+**Art. 30037.**
 
-§ 1. Nabycie akcji albo ustanowienie na niej ograniczonego prawa rzeczowego następuje z chwilą dokonania w rejestrze akcjonariuszy wpisu wskazującego nabywcę albo zastawnika albo użytkownika, liczbę oraz rodzaj, serie i numery nabytych albo obciążonych akcji. [§ 2. Przepisu § 1 nie stosuje się w przypadku objęcia akcji, z wyjątkiem art. 300 , a także powołania do spadku, zapisu windykacyjnego, wniesienia akcji jako wkładu niepieniężnego do spółki, połączenia, podziału lub przekształcenia spółki lub zajścia innego zdarzenia prawnego powodującego z mocy prawa przejście akcji lub ustanowionego na niej ograniczonego prawa rzeczowego na inną osobę. Przepis art. 300 § 1 stosuje się.] <§ 2. Przepisu § 1 nie stosuje się w przypadku objęcia akcji, z wyjątkiem art. 300 , a także powołania do spadku, zapisu windykacyjnego, wniesienia akcji jako wkładu niepieniężnego do spółki, połączenia, podziału lub przekształcenia spółki lub zajścia innego zdarzenia prawnego powodującego z mocy prawa przejście akcji lub ustanowionego na niej ograniczonego prawa rzeczowego na inną osobę albo ustanowienia na akcji ograniczonego prawa rzeczowego w wyniku wpisu w rejestrze, o którym mowa w art. 43 § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ), albo w rejestrze, o którym mowa w ustawie z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów (Dz. U. z 2018 r. poz. 2017 oraz z 2025 r. poz. 1792). Przepis art. 300 § 1 stosuje się.>
+§ 1. Nabycie akcji albo ustanowienie na niej ograniczonego prawa rzeczowego następuje z chwilą dokonania w rejestrze akcjonariuszy wpisu wskazującego nabywcę albo zastawnika albo użytkownika, liczbę oraz rodzaj, serie i numery nabytych albo obciążonych akcji.
 
-**Art. 300³⁸.**
+§ 2. Przepisu § 1 nie stosuje się w przypadku objęcia akcji, z wyjątkiem art. 300118, a także powołania do spadku, zapisu windykacyjnego, wniesienia akcji jako wkładu niepieniężnego do spółki, połączenia, podziału lub przekształcenia spółki lub zajścia innego zdarzenia prawnego powodującego z mocy prawa przejście akcji lub ustanowionego na niej ograniczonego prawa rzeczowego na inną osobę. Przepis art. 30038 § 1 stosuje się.
+
+**Art. 30038.**
 
 § 1. Wobec spółki uważa się za akcjonariusza tylko tę osobę, która jest wpisana do rejestru akcjonariuszy.
 
@@ -2690,11 +2814,11 @@ Art. 596–609. (pominięte)
 
 § 4. Jeżeli współuprawnieni nie wskazali wspólnego przedstawiciela, oświadczenia spółki mogą być dokonywane wobec któregokolwiek z nich.
 
-**Art. 300³⁹.**
+**Art. 30039.**
 
 § 1. Umowa spółki może uzależnić rozporządzenie akcją od zgody spółki lub w inny sposób je ograniczyć.
 
-§ 2. Jeżeli zbycie akcji jest uzależnione od zgody spółki, stosuje się przepisy § 3– 6, chyba że umowa spółki stanowi inaczej.
+§ 2. Jeżeli zbycie akcji jest uzależnione od zgody spółki, stosuje się przepisy § 3–6, chyba że umowa spółki stanowi inaczej.
 
 § 3. Jeżeli spółka odmawia zgody na zbycie akcji, powinna wskazać innego nabywcę. Termin do wskazania nabywcy, cenę nabycia albo sposób jej określenia oraz termin zapłaty określa umowa spółki. W braku tych postanowień akcja może być zbyta bez ograniczenia. Termin do wskazania nabywcy nie może być dłuższy niż miesiąc od dnia zgłoszenia spółce zamiaru zbycia akcji.
 
@@ -2704,7 +2828,7 @@ Art. 596–609. (pominięte)
 
 § 6. Zbycie akcji w postępowaniu egzekucyjnym nie wymaga zgody spółki.
 
-**Art. 300⁴⁰.**
+**Art. 30040.**
 
 § 1. Zbycie akcji nie w pełni pokrytej wymaga zgody spółki aż do chwili wniesienia wkładu w całości. Zgoda spółki wymaga formy dokumentowej pod rygorem nieważności, chyba że umowa spółki stanowi inaczej.
 
@@ -2712,15 +2836,15 @@ Art. 596–609. (pominięte)
 
 § 3. Nabywca akcji nie w pełni pokrytej odpowiada wobec spółki solidarnie ze zbywcą za wniesienie pozostałej części wkładu.
 
-**Art. 300⁴¹.**
+**Art. 30041.**
 
 § 1. Umowa spółki może ograniczyć lub wyłączyć wstąpienie do spółki spadkobierców na miejsce zmarłego akcjonariusza. W tym przypadku umowa spółki powinna określać warunki spłaty spadkobierców niewstępujących do spółki, pod rygorem bezskuteczności ograniczenia lub wyłączenia. Spłata należna spadkobiercom powinna uwzględnić stosunek wartości wkładu wniesionego do wartości wkładu niewniesionego.
 
-§ 2. W razie śmierci akcjonariusza uprawnionego z akcji objętych za wkład, którego przedmiotem jest świadczenie pracy lub usług, który nie został w całości wniesiony, wstąpienie do spółki spadkobierców wymaga zgody spółki, chyba że umowa spółki stanowi inaczej. Przepis § 1 zdanie drugie i trzecie oraz przepis art. 300 § 2 stosuje się odpowiednio.
+§ 2. W razie śmierci akcjonariusza uprawnionego z akcji objętych za wkład, którego przedmiotem jest świadczenie pracy lub usług, który nie został w całości wniesiony, wstąpienie do spółki spadkobierców wymaga zgody spółki, chyba że umowa spółki stanowi inaczej. Przepis § 1 zdanie drugie i trzecie oraz przepis art. 30040 § 2 stosuje się odpowiednio.
 
 § 3. Umowa spółki może wyłączyć lub w określony sposób ograniczyć podział akcji między spadkobierców.
 
-**Art. 300⁴².**
+**Art. 30042.**
 
 § 1. Umowa spółki może przewidywać, że pozostali akcjonariusze mają prawo pierwszeństwa nabycia akcji przeznaczonych do zbycia przez innego akcjonariusza (prawo pierwszeństwa). Jeżeli umowa spółki nie stanowi inaczej, stosuje się przepisy § 2–7.
 
@@ -2736,11 +2860,11 @@ Art. 596–609. (pominięte)
 
 § 7. Zarząd wyraża zgodę na zbycie akcji, jeżeli spełnione zostały wymogi, o których mowa w § 3–5 albo § 6.
 
-**Art. 300⁴³.** Przepisy niniejszego oddziału stosuje się odpowiednio do ułamkowych części akcji.
+**Art. 30043.** Przepisy niniejszego oddziału stosuje się odpowiednio do ułamkowych części akcji.
 
 ##### Oddział 4 Umorzenie akcji i nabycie akcji własnych
 
-**Art. 300⁴⁴.**
+**Art. 30044.**
 
 § 1. Akcja może być umorzona za zgodą akcjonariusza (umorzenie dobrowolne) albo bez zgody akcjonariusza (umorzenie przymusowe).
 
@@ -2748,17 +2872,17 @@ Art. 596–609. (pominięte)
 
 § 3. Od chwili uiszczenia spłaty za akcje podlegające umorzeniu dobrowolnemu akcjonariusz nie może wykonywać z nich praw udziałowych.
 
-§ 4. Na spłatę z tytułu umorzenia akcji mogą być przeznaczone środki, o których mowa w art. 300 § 2. Do uiszczenia spłaty stosuje się przepisy art. 300 § 4–6.
+§ 4. Na spłatę z tytułu umorzenia akcji mogą być przeznaczone środki, o których mowa w art. 30015 § 2. Do uiszczenia spłaty stosuje się przepisy art. 30015 § 4–6.
 
-**Art. 300⁴⁵.**
+**Art. 30045.**
 
 § 1. Umorzenie przymusowe jest dopuszczalne, o ile umowa spółki tak stanowi i określa przesłanki umorzenia przymusowego. Zmiana umowy spółki przewidująca umorzenie przymusowe akcji objętych przed zmianą umowy spółki wymaga zgody uprawnionego z tych akcji.
 
 § 2. Umorzenie przymusowe następuje za spłatą, która nie może być niższa od wartości godziwej akcji. Spółka uiszcza spłatę po dokonaniu wpisu umorzenia akcji do rejestru.
 
-**Art. 300⁴⁶.** Umowa spółki może stanowić, że akcje ulegają umorzeniu w przypadku ziszczenia się określonego zdarzenia bez podjęcia uchwały akcjonariuszy. W przypadku ziszczenia się określonego w umowie spółki zdarzenia zarząd niezwłocznie podejmuje uchwałę stwierdzającą umorzenie akcji i zgłasza ją do rejestru albo podejmuje uchwałę stwierdzającą, że umorzenie nie doszło do skutku, jeżeli spółka nie dysponuje środkami, o których mowa w art. 300 § 2, na uiszczenie pełnej spłaty za umarzane akcje.
+**Art. 30046.** Umowa spółki może stanowić, że akcje ulegają umorzeniu w przypadku ziszczenia się określonego zdarzenia bez podjęcia uchwały akcjonariuszy. W przypadku ziszczenia się określonego w umowie spółki zdarzenia zarząd niezwłocznie podejmuje uchwałę stwierdzającą umorzenie akcji i zgłasza ją do rejestru albo podejmuje uchwałę stwierdzającą, że umorzenie nie doszło do skutku, jeżeli spółka nie dysponuje środkami, o których mowa w art. 30015 § 2, na uiszczenie pełnej spłaty za umarzane akcje.
 
-**Art. 300⁴⁷.**
+**Art. 30047.**
 
 § 1. Spółka nie może nabywać wyemitowanych przez nią akcji (akcje własne). Zakaz ten nie dotyczy nabycia akcji:
 
@@ -2772,9 +2896,9 @@ Art. 596–609. (pominięte)
 
 - **1)** akcje są w pełni pokryte;
 - **2)** łączna liczba akcji, wliczając w to akcje nabyte na podstawie innych tytułów oraz akcje nabyte przez spółki lub spółdzielnie zależne, nie przekracza 25% wszystkich akcji spółki;
-- **3)** łączna cena nabycia akcji, powiększona o koszty ich nabycia, nie jest wyższa od kwoty kapitału rezerwowego, utworzonego w tym celu z kwoty, o której mowa w art. 300 § 2.
+- **3)** łączna cena nabycia akcji, powiększona o koszty ich nabycia, nie jest wyższa od kwoty kapitału rezerwowego, utworzonego w tym celu z kwoty, o której mowa w art. 30015 § 2.
 
-§ 3. Przepisy art. 300 § 4–6 stosuje się odpowiednio do zapłaty ceny nabycia akcji własnych w przypadku określonym w § 1 pkt 2.
+§ 3. Przepisy art. 30015 § 4–6 stosuje się odpowiednio do zapłaty ceny nabycia akcji własnych w przypadku określonym w § 1 pkt 2.
 
 § 4. Przepisy § 1 i 2 stosuje się odpowiednio do ustanowienia zastawu na akcjach własnych.
 
@@ -2788,7 +2912,7 @@ Art. 596–609. (pominięte)
 
 § 9. Przepisy § 1–8 stosuje się odpowiednio do nabycia akcji spółki przez osobę trzecią, działającą na rachunek spółki. Dotyczy to także nabycia akcji spółki dominującej przez spółkę lub spółdzielnię zależną.
 
-**Art. 300⁴⁸.**
+**Art. 30048.**
 
 § 1. Spółka nie może obejmować akcji własnych. Zakaz ten dotyczy również obejmowania akcji spółki dominującej przez spółkę lub spółdzielnię zależną.
 
@@ -2798,17 +2922,17 @@ Art. 596–609. (pominięte)
 
 § 4. Jeżeli akcje spółki zostały objęte przez osobę, która działała we własnym imieniu, lecz na rachunek spółki albo spółki lub spółdzielni zależnej, obejmującego uważa się za osobę działającą na własny rachunek.
 
-§ 5. Przepisy art. 300 § 6–8 stosuje się odpowiednio do akcji własnych objętych przez spółkę z naruszeniem § 1.
+§ 5. Przepisy art. 30047 § 6–8 stosuje się odpowiednio do akcji własnych objętych przez spółkę z naruszeniem § 1.
 
 ##### Oddział 5 Wyłączenie i ustąpienie akcjonariusza oraz unieważnienie akcji
 
-**Art. 300⁴⁹.**
+**Art. 30049.**
 
 § 1. Na żądanie akcjonariusza lub akcjonariuszy reprezentujących więcej niż połowę ogólnej liczby głosów sąd, z ważnych przyczyn dotyczących danego akcjonariusza, może orzec jego wyłączenie ze spółki. Umowa spółki może ograniczyć to uprawnienie do akcjonariusza lub akcjonariuszy reprezentujących większą liczbę głosów.
 
 § 2. Przepisy art. 266 § 2 zdanie drugie i § 3 oraz art. 267–269 stosuje się odpowiednio do wyłączenia akcjonariusza ze spółki.
 
-**Art. 300⁵⁰.**
+**Art. 30050.**
 
 § 1. Na żądanie akcjonariusza sąd może orzec jego ustąpienie ze spółki, jeżeli zachodzi ważna przyczyna uzasadniona stosunkami między akcjonariuszami lub między spółką a akcjonariuszem ustępującym, skutkująca rażącym pokrzywdzeniem akcjonariusza ustępującego.
 
@@ -2818,7 +2942,7 @@ Art. 596–609. (pominięte)
 
 § 4. Wykupu akcji posiadanych przez akcjonariusza ustępującego dokonuje spółka na rachunek pozostałych akcjonariuszy, proporcjonalnie do liczby posiadanych przez nich akcji. Za zapłatę ceny wykupu spółka i akcjonariusze, przeciwko którym wytoczono powództwo, odpowiadają solidarnie.
 
-**Art. 300⁵¹.**
+**Art. 30051.**
 
 § 1. Na żądanie akcjonariusza albo spółki sąd może unieważnić wszystkie albo niektóre akcje w przypadku niewykonania lub nienależytego wykonania zobowiązania do wniesienia wkładów na pokrycie tych akcji.
 
@@ -2830,7 +2954,7 @@ Art. 596–609. (pominięte)
 
 ##### Oddział 1 Przepisy ogólne
 
-**Art. 300⁵².**
+**Art. 30052.**
 
 § 1. W spółce ustanawia się zarząd albo radę dyrektorów.
 
@@ -2838,11 +2962,11 @@ Art. 596–609. (pominięte)
 
 § 3. Ilekroć w przepisach niniejszego oddziału mowa jest o organie, należy przez to rozumieć odpowiednio zarząd, radę nadzorczą albo radę dyrektorów.
 
-**Art. 300⁵³.** Wobec spółki członkowie zarządu i dyrektorzy podlegają ograniczeniom ustanowionym w umowie spółki oraz, jeżeli umowa spółki nie stanowi inaczej, w uchwałach akcjonariuszy.
+**Art. 30053.** Wobec spółki członkowie zarządu i dyrektorzy podlegają ograniczeniom ustanowionym w umowie spółki oraz, jeżeli umowa spółki nie stanowi inaczej, w uchwałach akcjonariuszy.
 
-**Art. 300⁵⁴.** Członek organu powinien przy wykonywaniu swoich obowiązków dołożyć staranności wynikającej z zawodowego charakteru swojej działalności oraz dochować lojalności wobec spółki.
+**Art. 30054.** Członek organu powinien przy wykonywaniu swoich obowiązków dołożyć staranności wynikającej z zawodowego charakteru swojej działalności oraz dochować lojalności wobec spółki.
 
-**Art. 300⁵⁵.**
+**Art. 30055.**
 
 § 1. W przypadku sprzeczności interesów spółki z interesami członka organu, jego współmałżonka, krewnych i powinowatych do drugiego stopnia oraz osób, z którymi jest powiązany osobiście, członek organu powinien ujawnić sprzeczność interesów i wstrzymać się od udziału w rozstrzyganiu takich spraw oraz może żądać zaznaczenia tego w protokole.
 
@@ -2850,7 +2974,7 @@ Art. 596–609. (pominięte)
 
 § 3. Członek zarządu ani dyrektor nie mogą bez zgody spółki zajmować się interesami konkurencyjnymi ani uczestniczyć w spółce konkurencyjnej jako wspólnik spółki cywilnej, spółki osobowej lub jako członek organu spółki kapitałowej albo uczestniczyć w innej konkurencyjnej osobie prawnej jako członek organu, chyba że umowa spółki stanowi inaczej. Zakaz ten obejmuje także udział w konkurencyjnej spółce kapitałowej w przypadku posiadania w niej przez członka zarządu albo dyrektora co najmniej 10% ogólnej liczby głosów lub ogólnej liczby udziałów albo akcji, albo prawa do powołania co najmniej jednego członka zarządu albo dyrektora. Jeżeli umowa spółki nie stanowi inaczej, zgody udziela organ uprawniony do powoływania członka organu.
 
-**Art. 300⁵⁶.**
+**Art. 30056.**
 
 § 1. Mandat członka organu wygasa z dniem odbycia walnego zgromadzenia zatwierdzającego sprawozdanie finansowe za pierwszy pełny rok obrotowy przypadający po dniu powołania, chyba że umowa spółki stanowi inaczej, w szczególności przewiduje powołanie na czas nieoznaczony.
 
@@ -2862,9 +2986,9 @@ Art. 596–609. (pominięte)
 
 § 5. Przepisy o wypowiedzeniu zlecenia przez przyjmującego zlecenie stosuje się odpowiednio do złożenia rezygnacji przez członka organu.
 
-§ 6. Jeżeli w wyniku rezygnacji członka zarządu albo dyrektora żaden mandat w zarządzie albo radzie dyrektorów nie byłby obsadzony, członek zarządu albo dyrektor składa rezygnację akcjonariuszom, zwołując jednocześnie walne zgromadzenie, o którym mowa w art. 300 § 4, chyba że umowa spółki stanowi inaczej. Zawiadomienie o zwołaniu walnego zgromadzenia zawiera także oświadczenie o rezygnacji członka zarządu albo dyrektora. Rezygnacja jest skuteczna z dniem następującym po dniu, na który zwołano walne zgromadzenie.
+§ 6. Jeżeli w wyniku rezygnacji członka zarządu albo dyrektora żaden mandat w zarządzie albo radzie dyrektorów nie byłby obsadzony, członek zarządu albo dyrektor składa rezygnację akcjonariuszom, zwołując jednocześnie walne zgromadzenie, o którym mowa w art. 30084 § 4, chyba że umowa spółki stanowi inaczej. Zawiadomienie o zwołaniu walnego zgromadzenia zawiera także oświadczenie o rezygnacji członka zarządu albo dyrektora. Rezygnacja jest skuteczna z dniem następującym po dniu, na który zwołano walne zgromadzenie.
 
-**Art. 300⁵⁷.**
+**Art. 30057.**
 
 § 1. Jeżeli organ jest wieloosobowy, na prezesie albo przewodniczącym organu oraz na członkach organu spoczywa obowiązek należytego organizowania prac organu, a w szczególności, gdy jest to konieczne, określenia organizacji organu i sposobu wykonywania czynności w regulaminie organu. Umowa spółki może przewidywać zatwierdzenie regulaminu uchwałą akcjonariuszy albo rady nadzorczej.
 
@@ -2872,7 +2996,7 @@ Art. 596–609. (pominięte)
 
 § 3. W skład komitetu wchodzi co najmniej dwóch członków organu. W skład komitetu mogą wchodzić także inne osoby z głosem doradczym.
 
-**Art. 300⁵⁸.**
+**Art. 30058.**
 
 § 1. Uchwała organu może być podjęta, jeżeli wszyscy członkowie organu zostali prawidłowo zawiadomieni o posiedzeniu organu albo głosowaniu na piśmie albo przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość.
 
@@ -2888,19 +3012,19 @@ Art. 596–609. (pominięte)
 
 § 7. W spółce, której umowa została zawarta przy wykorzystaniu wzorca umowy, uchwała o ustanowieniu prokury może zostać podjęta przy wykorzystaniu wzorca udostępnionego w systemie teleinformatycznym.
 
-**Art. 300⁵⁹.**
+**Art. 30059.**
 
 § 1. Członek rady nadzorczej lub członek zarządu albo dyrektor mogą żądać zwołania posiedzenia rady nadzorczej albo rady dyrektorów, podając proponowany porządek obrad, lub podjęcia określonej uchwały na piśmie albo przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość.
 
 § 2. Jeżeli przewodniczący rady nadzorczej albo rady dyrektorów nie zwoła posiedzenia albo nie zarządzi głosowania na piśmie albo przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość na dzień przypadający w terminie dwóch tygodni od dnia otrzymania żądania, wnioskodawca może samodzielnie zwołać posiedzenie, podając jego datę i miejsce.
 
-**Art. 300⁶⁰.**
+**Art. 30060.**
 
 § 1. W umowie między spółką a firmą audytorską wybraną do badania lub przeglądu sprawozdania finansowego spółkę reprezentuje pełnomocnik powołany uchwałą akcjonariuszy albo rada nadzorcza.
 
 § 2. Umowa spółki może przewidywać, że w umowie między spółką a firmą audytorską wybraną do badania lub przeglądu sprawozdania finansowego spółkę może także reprezentować dyrektor niewykonawczy działający na podstawie uchwały rady dyrektorów podjętej wyłącznie przez dyrektorów niewykonawczych.
 
-**Art. 300⁶¹.**
+**Art. 30061.**
 
 § 1. Pisma i zamówienia handlowe składane przez spółkę w formie papierowej i elektronicznej, a także informacje na stronach internetowych spółki powinny zawierać:
 
@@ -2914,7 +3038,7 @@ Art. 596–609. (pominięte)
 
 ##### Oddział 2 Zarząd
 
-**Art. 300⁶².**
+**Art. 30062.**
 
 § 1. Zarząd prowadzi sprawy spółki i reprezentuje spółkę.
 
@@ -2924,13 +3048,13 @@ Art. 596–609. (pominięte)
 
 § 4. Jeżeli w spółce została ustanowiona rada nadzorcza, członków zarządu powołuje i odwołuje oraz zawiesza w czynnościach, z ważnych powodów, rada nadzorcza, chyba że umowa spółki stanowi inaczej.
 
-**Art. 300⁶³.**
+**Art. 30063.**
 
 § 1. Członek zarządu może być w każdym czasie odwołany uchwałą akcjonariuszy. Nie pozbawia go to roszczeń ze stosunku prawnego dotyczącego pełnienia funkcji członka zarządu.
 
 § 2. Umowa spółki może zawierać inne postanowienia, w szczególności ograniczać prawo odwołania do ważnych powodów.
 
-**Art. 300⁶⁴.**
+**Art. 30064.**
 
 § 1. Jeżeli zarząd jest wieloosobowy, wszyscy jego członkowie są obowiązani i uprawnieni do wspólnego prowadzenia spraw spółki, chyba że umowa spółki lub regulamin zarządu stanowią inaczej.
 
@@ -2938,13 +3062,13 @@ Art. 596–609. (pominięte)
 
 § 3. Odwołać prokurę może każdy członek zarządu.
 
-**Art. 300⁶⁵.**
+**Art. 30065.**
 
 § 1. Prawo członka zarządu do reprezentowania spółki dotyczy wszystkich czynności sądowych i pozasądowych spółki.
 
 § 2. Prawa członka zarządu do reprezentowania spółki nie można ograniczyć ze skutkiem prawnym wobec osób trzecich.
 
-**Art. 300⁶⁶.**
+**Art. 30066.**
 
 § 1. Jeżeli zarząd jest wieloosobowy, a umowa spółki nie zawiera żadnych postanowień w tym przedmiocie, do składania oświadczeń w imieniu spółki jest wymagane współdziałanie dwóch członków zarządu albo jednego członka zarządu łącznie z prokurentem.
 
@@ -2952,23 +3076,23 @@ Art. 596–609. (pominięte)
 
 § 3. Przepisy § 1 i 2 nie wyłączają ustanowienia prokury i nie ograniczają praw prokurentów wynikających z przepisów o prokurze.
 
-**Art. 300⁶⁷.**
+**Art. 30067.**
 
 § 1. W umowie między spółką a członkiem zarządu, jak również w sporze z nim spółkę reprezentuje pełnomocnik powołany uchwałą akcjonariuszy albo rada nadzorcza.
 
 § 2. Uchwała akcjonariuszy może określić wynagrodzenie członków zarządu.
 
-§ 3. W przypadku gdy akcjonariusz, o którym mowa w art. 300 , jest zarazem członkiem zarządu, przepisu § 1 nie stosuje się. Czynność prawna między tym akcjonariuszem a reprezentowaną przez niego spółką wymaga formy aktu notarialnego. O każdorazowym dokonaniu takiej czynności prawnej notariusz zawiadamia sąd rejestrowy za pośrednictwem systemu teleinformatycznego.
+§ 3. W przypadku gdy akcjonariusz, o którym mowa w art. 30014, jest zarazem członkiem zarządu, przepisu § 1 nie stosuje się. Czynność prawna między tym akcjonariuszem a reprezentowaną przez niego spółką wymaga formy aktu notarialnego. O każdorazowym dokonaniu takiej czynności prawnej notariusz zawiadamia sąd rejestrowy za pośrednictwem systemu teleinformatycznego.
 
 ##### Oddział 3 Rada nadzorcza
 
-**Art. 300⁶⁸.**
+**Art. 30068.**
 
 § 1. Rada nadzorcza składa się co najmniej z trzech członków, powoływanych i odwoływanych uchwałą akcjonariuszy.
 
 § 2. Umowa spółki może przewidywać inny sposób powoływania lub odwoływania członków rady nadzorczej.
 
-**Art. 300⁶⁹.**
+**Art. 30069.**
 
 § 1. Rada nadzorcza sprawuje stały nadzór nad działalnością spółki.
 
@@ -2976,33 +3100,31 @@ Art. 596–609. (pominięte)
 
 § 3. Do szczególnych obowiązków rady nadzorczej należą:
 
-- **1)** ocena prawidłowości i rzetelności sprawozdań, o których mowa w art. 300 § 2 pkt 1;
+- **1)** ocena prawidłowości i rzetelności sprawozdań, o których mowa w art. 30082§ 2 pkt 1;
 - **2)** ocena wniosków zarządu dotyczących podziału zysku albo pokrycia straty;
 - **3)** sporządzanie oraz składanie walnemu zgromadzeniu corocznego pisemnego sprawozdania z wyników ocen, o których mowa w pkt 1 i 2, oraz pisemnego sprawozdania z działalności rady nadzorczej za ubiegły rok obrotowy (sprawozdanie rady nadzorczej).
 
-§ 3. W przypadku gdy sprawozdanie finansowe spółki podlega badaniu ustawowemu, rada nadzorcza jest obowiązana, z co najmniej tygodniowym wyprzedzeniem, zawiadomić kluczowego biegłego rewidenta, który przeprowadzał badanie sprawozdania finansowego spółki, o terminie posiedzenia, którego przedmiotem są sprawy określone w § 3. Spółka zapewnia uczestnictwo kluczowego biegłego rewidenta lub innego przedstawiciela firmy audytorskiej w posiedzeniu rady nadzorczej. W trakcie posiedzenia kluczowy biegły rewident lub inny przedstawiciel firmy audytorskiej przedstawia radzie nadzorczej sprawozdanie z badania, w tym ocenę podstaw przyjętego oświadczenia odnoszącego się do zdolności spółki do kontynuowania działalności, oraz udziela odpowiedzi na pytania członków rady nadzorczej.
+§ 31. W przypadku gdy sprawozdanie finansowe spółki podlega badaniu ustawowemu, rada nadzorcza jest obowiązana, z co najmniej tygodniowym wyprzedzeniem, zawiadomić kluczowego biegłego rewidenta, który przeprowadzał badanie sprawozdania finansowego spółki, o terminie posiedzenia, którego przedmiotem są sprawy określone w § 3. Spółka zapewnia uczestnictwo kluczowego biegłego rewidenta lub innego przedstawiciela firmy audytorskiej w posiedzeniu rady nadzorczej. W trakcie posiedzenia kluczowy biegły rewident lub inny przedstawiciel firmy audytorskiej przedstawia radzie nadzorczej sprawozdanie z badania, w tym ocenę podstaw przyjętego oświadczenia odnoszącego się do zdolności spółki do kontynuowania działalności, oraz udziela odpowiedzi na pytania członków rady nadzorczej.
 
 § 4. Umowa spółki może rozszerzyć uprawnienia rady nadzorczej, a w szczególności przewidywać, że zarząd jest obowiązany uzyskać zgodę rady nadzorczej przed dokonaniem określonych w umowie spółki czynności. Rada nadzorcza może określić uchwałą czynności, do których podjęcia zarząd jest obowiązany uzyskać zgodę rady nadzorczej, chyba że umowa spółki stanowi inaczej.
 
-**Art. 300⁷⁰.**
+**Art. 30070.**
 
 § 1. Rada nadzorcza może delegować członków rady nadzorczej, na okres nie dłuższy niż trzy miesiące, do czasowego wykonywania czynności członków zarządu, którzy zostali zawieszeni albo których mandaty wygasły z innych przyczyn niż upływ kadencji, albo którzy z innych przyczyn nie mogą wykonywać swoich czynności.
 
 § 2. Prawa i obowiązki delegowanego członka rady nadzorczej są zawieszone na czas delegacji, co nie uchybia zdolności rady nadzorczej do podejmowania uchwał.
 
-§ 3. Do delegowanego członka rady nadzorczej stosuje się przepis art. 300 § 3.
+§ 3. Do delegowanego członka rady nadzorczej stosuje się przepis art. 30055 § 3.
 
-**Art. 300⁷¹.**
+**Art. 30071.**
 
 § 1. W celu wykonania swoich obowiązków rada nadzorcza może badać wszystkie dokumenty spółki, dokonywać rewizji stanu majątku spółki oraz żądać od zarządu, prokurentów i osób zatrudnionych w spółce na podstawie umowy o pracę lub wykonujących na rzecz spółki w sposób regularny określone czynności na podstawie umowy o dzieło, umowy zlecenia albo innej umowy o podobnym charakterze sporządzenia lub przekazania wszelkich informacji, dokumentów, sprawozdań lub wyjaśnień dotyczących spółki, w szczególności jej działalności lub majątku. Przedmiotem żądania mogą być również posiadane przez organ lub osobę obowiązaną informacje, sprawozdania lub wyjaśnienia dotyczące spółek zależnych oraz spółek powiązanych.
 
-§ 1. Informacje, dokumenty, sprawozdania lub wyjaśnienia, o których mowa w § 1, są przekazywane radzie nadzorczej niezwłocznie, nie później niż w terminie dwóch tygodni od dnia zgłoszenia żądania do organu lub osoby obowiązanej, chyba że w żądaniu określono dłuższy termin.
+§ 11. Informacje, dokumenty, sprawozdania lub wyjaśnienia, o których mowa w § 1, są przekazywane radzie nadzorczej niezwłocznie, nie później niż w terminie dwóch tygodni od dnia zgłoszenia żądania do organu lub osoby obowiązanej, chyba że w żądaniu określono dłuższy termin.
 
-§ 1. Zarząd nie może ograniczać członkom rady nadzorczej dostępu do żądanych przez nich informacji, dokumentów, sprawozdań lub wyjaśnień, o których mowa w § 1.
+§ 12. Zarząd nie może ograniczać członkom rady nadzorczej dostępu do żądanych przez nich informacji, dokumentów, sprawozdań lub wyjaśnień, o których mowa w § 1.
 
 § 2. Jeżeli umowa spółki nie stanowi inaczej, każdy członek rady nadzorczej może żądać przedstawienia radzie nadzorczej na najbliższym posiedzeniu określonych informacji, dokumentów, sprawozdań lub wyjaśnień.
-
-**Art. 300⁷¹a.**
 
 § 1. Rada nadzorcza może podjąć uchwałę w sprawie zbadania na koszt spółki określonej sprawy dotyczącej działalności spółki lub jej majątku przez wybranego doradcę (doradca rady nadzorczej). Doradca rady nadzorczej może zostać wybrany również w celu przygotowania określonych analiz oraz opinii.
 
@@ -3016,7 +3138,7 @@ Art. 596–609. (pominięte)
 
 § 6. Umowa spółki może wyłączyć albo ograniczyć prawo rady nadzorczej do zawierania umów z doradcą rady nadzorczej, w szczególności przez upoważnienie walnego zgromadzenia do określenia maksymalnego łącznego kosztu wynagrodzenia wszystkich doradców rady nadzorczej, który spółka może ponieść w trakcie roku obrotowego.
 
-**Art. 300⁷².**
+**Art. 30072.**
 
 § 1. Członek zarządu, prokurent, likwidator oraz kierownik oddziału lub zakładu nie mogą być jednocześnie członkami rady nadzorczej.
 
@@ -3028,7 +3150,7 @@ Art. 596–609. (pominięte)
 
 ##### Oddział 4 Rada dyrektorów
 
-**Art. 300⁷³.**
+**Art. 30073.**
 
 § 1. Rada dyrektorów prowadzi sprawy spółki, reprezentuje spółkę oraz sprawuje nadzór nad prowadzeniem spraw spółki.
 
@@ -3036,13 +3158,13 @@ Art. 596–609. (pominięte)
 
 § 3. Dyrektorów powołują i odwołują oraz zawieszają w czynnościach, z ważnych powodów, akcjonariusze uchwałą, chyba że umowa spółki stanowi inaczej.
 
-**Art. 300⁷⁴.**
+**Art. 30074.**
 
 § 1. Dyrektor może być w każdym czasie odwołany uchwałą akcjonariuszy. Nie pozbawia go to roszczeń ze stosunku dotyczącego pełnienia funkcji dyrektora.
 
 § 2. Umowa spółki może zawierać inne postanowienia, w szczególności ograniczać prawo odwołania do ważnych powodów.
 
-**Art. 300⁷⁵.**
+**Art. 30075.**
 
 § 1. Jeżeli rada dyrektorów jest wieloosobowa, wszyscy dyrektorzy są obowiązani i uprawnieni do wspólnego prowadzenia spraw spółki, chyba że umowa spółki lub regulamin rady dyrektorów stanowią inaczej.
 
@@ -3054,30 +3176,30 @@ Art. 596–609. (pominięte)
 
 § 3. Powołanie prokurenta wymaga zgody wszystkich dyrektorów. Odwołać prokurę może każdy dyrektor.
 
-**Art. 300⁷⁶.**
+**Art. 30076.**
 
-§ 1. Z wyjątkiem art. 300 § 2 i 3, umowa spółki, regulamin rady dyrektorów lub uchwała rady dyrektorów mogą delegować niektóre albo wszystkie czynności prowadzenia przedsiębiorstwa spółki na jednego dyrektora albo niektórych dyrektorów (dyrektorzy wykonawczy). Dyrektorzy niebędący dyrektorami wykonawczymi (dyrektorzy niewykonawczy) sprawują stały nadzór nad prowadzeniem spraw spółki.
+§ 1. Z wyjątkiem art. 30075 § 2 i 3, umowa spółki, regulamin rady dyrektorów lub uchwała rady dyrektorów mogą delegować niektóre albo wszystkie czynności prowadzenia przedsiębiorstwa spółki na jednego dyrektora albo niektórych dyrektorów (dyrektorzy wykonawczy). Dyrektorzy niebędący dyrektorami wykonawczymi (dyrektorzy niewykonawczy) sprawują stały nadzór nad prowadzeniem spraw spółki.
 
 § 2. W celu wykonywania czynności prowadzenia przedsiębiorstwa spółki może zostać powołany komitet wykonawczy, w którego skład wchodzą wyłącznie dyrektorzy wykonawczy.
 
 § 3. Do szczególnych obowiązków dyrektorów niewykonawczych należą:
 
-- **1)** ocena prawidłowości i rzetelności sprawozdań, o których mowa w art. 300 § 2 pkt 1;
+- **1)** ocena prawidłowości i rzetelności sprawozdań, o których mowa w art. 30082§ 2 pkt 1;
 - **2)** sporządzanie oraz składanie walnemu zgromadzeniu corocznego pisemnego sprawozdania za ubiegły rok obrotowy (sprawozdanie dyrektorów niewykonawczych).
 
-§ 3. W przypadku gdy sprawozdanie finansowe spółki podlega badaniu ustawowemu, rada dyrektorów lub jej komitet są obowiązani, z co najmniej tygodniowym wyprzedzeniem, zawiadomić kluczowego biegłego rewidenta, który przeprowadzał badanie sprawozdania finansowego spółki, o terminie posiedzenia, którego przedmiotem są sprawy określone w § 3. Spółka zapewnia uczestnictwo kluczowego biegłego rewidenta lub innego przedstawiciela firmy audytorskiej w posiedzeniu rady dyrektorów lub jej komitetu. W trakcie posiedzenia kluczowy biegły rewident lub inny przedstawiciel firmy audytorskiej przedstawia radzie dyrektorów lub jej komitetowi sprawozdanie z badania, w tym ocenę podstaw przyjętego oświadczenia odnoszącego się do zdolności spółki do kontynuowania działalności, oraz udziela odpowiedzi na pytania dyrektorów.
+§ 31. W przypadku gdy sprawozdanie finansowe spółki podlega badaniu ustawowemu, rada dyrektorów lub jej komitet są obowiązani, z co najmniej tygodniowym wyprzedzeniem, zawiadomić kluczowego biegłego rewidenta, który przeprowadzał badanie sprawozdania finansowego spółki, o terminie posiedzenia, którego przedmiotem są sprawy określone w § 3. Spółka zapewnia uczestnictwo kluczowego biegłego rewidenta lub innego przedstawiciela firmy audytorskiej w posiedzeniu rady dyrektorów lub jej komitetu. W trakcie posiedzenia kluczowy biegły rewident lub inny przedstawiciel firmy audytorskiej przedstawia radzie dyrektorów lub jej komitetowi sprawozdanie z badania, w tym ocenę podstaw przyjętego oświadczenia odnoszącego się do zdolności spółki do kontynuowania działalności, oraz udziela odpowiedzi na pytania dyrektorów.
 
 § 4. W celu sprawowania stałego nadzoru nad prowadzeniem spraw spółki może zostać powołany komitet rady dyrektorów, w skład którego wchodzą wyłącznie dyrektorzy niewykonawczy.
 
 § 5. W celu wykonania swoich obowiązków każdy dyrektor niewykonawczy może badać wszystkie dokumenty spółki, dokonywać rewizji stanu majątku spółki oraz żądać od dyrektorów, prokurentów i osób zatrudnionych w spółce na podstawie umowy o pracę lub wykonujących na rzecz spółki w sposób regularny określone czynności na podstawie umowy o dzieło, umowy zlecenia albo innej umowy o podobnym charakterze wszelkich dokumentów, informacji, sprawozdań lub wyjaśnień oraz żądać ich przedstawienia na wskazanym posiedzeniu rady dyrektorów lub jej komitetu. Przedmiotem żądania mogą być również posiadane przez jego adresata dokumenty, informacje, sprawozdania lub wyjaśnienia dotyczące spółek zależnych oraz spółek powiązanych.
 
-**Art. 300⁷⁷.**
+**Art. 30077.**
 
 § 1. Prawo dyrektora do reprezentowania spółki dotyczy wszystkich czynności sądowych i pozasądowych spółki.
 
 § 2. Prawa dyrektora do reprezentowania spółki nie można ograniczyć ze skutkiem prawnym wobec osób trzecich.
 
-**Art. 300⁷⁸.**
+**Art. 30078.**
 
 § 1. Jeżeli rada dyrektorów jest wieloosobowa, a umowa spółki nie zawiera żadnych postanowień w tym przedmiocie, do składania oświadczeń w imieniu spółki jest wymagane współdziałanie dwóch dyrektorów albo jednego dyrektora łącznie z prokurentem.
 
@@ -3085,7 +3207,7 @@ Art. 596–609. (pominięte)
 
 § 3. Przepisy § 1 i 2 nie wyłączają ustanowienia prokury i nie ograniczają praw prokurentów wynikających z przepisów o prokurze.
 
-**Art. 300⁷⁹.**
+**Art. 30079.**
 
 § 1. W umowie między spółką a dyrektorem, jak również w sporze z nim, spółkę reprezentuje pełnomocnik powołany uchwałą akcjonariuszy.
 
@@ -3093,21 +3215,27 @@ Art. 596–609. (pominięte)
 
 § 3. Umowa spółki może przewidywać, że w umowie, jak również sporze między spółką a dyrektorem wykonawczym spółkę może reprezentować także dyrektor niewykonawczy, działający na podstawie uchwały rady dyrektorów, podjętej wyłącznie przez dyrektorów niewykonawczych.
 
-§ 4. W przypadku gdy akcjonariusz, o którym mowa w art. 300 , jest zarazem dyrektorem, przepisów § 1 i 3 nie stosuje się. Czynność prawna między tym akcjonariuszem a reprezentowaną przez niego spółką wymaga formy aktu notarialnego. O każdorazowym dokonaniu takiej czynności prawnej notariusz zawiadamia sąd rejestrowy za pośrednictwem systemu teleinformatycznego.
+§ 4. W przypadku gdy akcjonariusz, o którym mowa w art. 30014, jest zarazem dyrektorem, przepisów § 1 i 3 nie stosuje się. Czynność prawna między tym akcjonariuszem a reprezentowaną przez niego spółką wymaga formy aktu notarialnego. O każdorazowym dokonaniu takiej czynności prawnej notariusz zawiadamia sąd rejestrowy za pośrednictwem systemu teleinformatycznego.
 
 ##### Oddział 5 Walne zgromadzenie
 
-**Art. 300⁸⁰.**
+**Art. 30080.**
 
 § 1. Uchwały akcjonariuszy są podejmowane na walnym zgromadzeniu albo poza walnym zgromadzeniem na piśmie albo przy wykorzystaniu środków komunikacji elektronicznej.
 
 § 2. Akcjonariusze mogą głosować przy wykorzystaniu środków komunikacji elektronicznej, jeżeli zostały one wskazane w umowie spółki albo wszyscy akcjonariusze wyrazili w formie dokumentowej zgodę na taki tryb głosowania. Akcjonariusze mogą głosować na piśmie, jeżeli wszyscy akcjonariusze wyrazili w formie dokumentowej zgodę na taki tryb głosowania.
 
-§ 3. Do uchwał podejmowanych zgodnie z § 2 przepisu art. 300 § 2 nie stosuje się.
+§ 3. Do uchwał podejmowanych zgodnie z § 2 przepisu art. 30099 § 2 nie stosuje się.
 
-**Art. 300⁸¹.** Uchwały akcjonariuszy, poza innymi sprawami wymienionymi w niniejszym dziale lub umowie spółki, wymaga:
+**Art. 30081.** Uchwały akcjonariuszy, poza innymi sprawami wymienionymi w niniejszym dziale lub umowie spółki, wymaga:
 
-**Art. 300⁸².**
+- **1)** rozpatrzenie i zatwierdzenie sprawozdania zarządu z działalności spółki oraz sprawozdania finansowego za ubiegły rok obrotowy oraz udzielenie absolutorium członkom organów spółki z wykonania przez nich obowiązków;
+- **2)** zbycie i wydzierżawienie przedsiębiorstwa albo jego zorganizowanej części oraz ustanowienie na nich ograniczonego prawa rzeczowego;
+- **3)** nabycie i zbycie nieruchomości, użytkowania wieczystego lub udziału w nieruchomości, chyba że umowa spółki stanowi inaczej;
+- **4)** emisja obligacji zamiennych lub z prawem pierwszeństwa i emisja warrantów subskrypcyjnych, o których mowa w art. 300119;
+- **5)** zawarcie umowy, o której mowa w art. 4 § 1 pkt 4 lit. f.
+
+**Art. 30082.**
 
 § 1. Zwyczajne walne zgromadzenie powinno się odbyć w terminie sześciu miesięcy po upływie każdego roku obrotowego.
 
@@ -3125,9 +3253,9 @@ Art. 596–609. (pominięte)
 
 § 6. Za rok obrotowy, w którym działalność spółki przez cały czas pozostawała zawieszona i nie doszło do zamknięcia ksiąg rachunkowych na koniec tego roku obrotowego, zwyczajne walne zgromadzenie może się nie odbyć, jeżeli akcjonariusze tak postanowią. W takim przypadku przedmiotem obrad następnego zwyczajnego walnego zgromadzenia są również sprawy, o których mowa w § 2, dotyczące roku obrotowego, w którym działalność spółki pozostawała zawieszona.
 
-**Art. 300⁸³.** Umowa spółki nie może ograniczać wskazanych w przepisach niniejszego oddziału uprawnień akcjonariuszy mniejszościowych, natomiast może przyznać te uprawnienia akcjonariuszom reprezentującym mniejszy ułamek ogólnej liczby głosów lub ogólnej liczby akcji.
+**Art. 30083.** Umowa spółki nie może ograniczać wskazanych w przepisach niniejszego oddziału uprawnień akcjonariuszy mniejszościowych, natomiast może przyznać te uprawnienia akcjonariuszom reprezentującym mniejszy ułamek ogólnej liczby głosów lub ogólnej liczby akcji.
 
-**Art. 300⁸⁴.**
+**Art. 30084.**
 
 § 1. Walne zgromadzenie zwołuje zarząd.
 
@@ -3135,11 +3263,11 @@ Art. 596–609. (pominięte)
 
 § 3. Umowa spółki może przyznać uprawnienie, o którym mowa w § 2, także innej osobie.
 
-§ 4. W przypadku, o którym mowa w art. 300 § 6, członek zarządu jest obowiązany zwołać walne zgromadzenie. Przepisu § 1 nie stosuje się.
+§ 4. W przypadku, o którym mowa w art. 30056 § 6, członek zarządu jest obowiązany zwołać walne zgromadzenie. Przepisu § 1 nie stosuje się.
 
-§ 5. Zwołujący ma prawo odwołania walnego zgromadzenia, z uwzględnieniem art. 300 § 6.
+§ 5. Zwołujący ma prawo odwołania walnego zgromadzenia, z uwzględnieniem art. 30085 § 6.
 
-**Art. 300⁸⁵.**
+**Art. 30085.**
 
 § 1. Akcjonariusz lub akcjonariusze reprezentujący co najmniej jedną dwudziestą ogólnej liczby głosów lub ogólnej liczby akcji mogą żądać zwołania nadzwyczajnego walnego zgromadzenia i umieszczenia określonych spraw w porządku obrad tego zgromadzenia.
 
@@ -3153,7 +3281,7 @@ Art. 596–609. (pominięte)
 
 § 6. Akcjonariusz lub akcjonariusze, którzy zażądali zwołania nadzwyczajnego walnego zgromadzenia, mają wyłączne prawo jego odwołania.
 
-**Art. 300⁸⁶.**
+**Art. 30086.**
 
 § 1. Akcjonariusz lub akcjonariusze reprezentujący co najmniej jedną dwudziestą ogólnej liczby głosów lub ogólnej liczby akcji mogą żądać umieszczenia określonych spraw w porządku obrad najbliższego walnego zgromadzenia. Żądanie powinno zostać zgłoszone zarządowi nie później niż na dziesięć dni przed wyznaczonym terminem walnego zgromadzenia. Żądanie powinno zawierać uzasadnienie lub projekt uchwały dotyczącej proponowanego punktu porządku obrad.
 
@@ -3161,7 +3289,7 @@ Art. 596–609. (pominięte)
 
 § 3. Zarząd jest obowiązany niezwłocznie, jednak nie później niż na siedem dni przed wyznaczonym terminem walnego zgromadzenia, zawiadomić o zmianach w porządku obrad, wprowadzonych na żądanie akcjonariusza lub akcjonariuszy. Zawiadomienie następuje w sposób właściwy dla zwołania walnego zgromadzenia.
 
-**Art. 300⁸⁷.**
+**Art. 30087.**
 
 § 1. Walne zgromadzenie zwołuje się pocztą elektroniczną na adres akcjonariusza wpisany do rejestru akcjonariuszy, na adres do doręczeń elektronicznych lub za pomocą listu poleconego lub przesyłki nadanej pocztą kurierską. Zawiadomienie o walnym zgromadzeniu wysyła się co najmniej dwa tygodnie przed wyznaczonym terminem walnego zgromadzenia.
 
@@ -3171,7 +3299,7 @@ Art. 596–609. (pominięte)
 
 § 4. Jeżeli przewiduje się możliwość udziału w walnym zgromadzeniu przy wykorzystaniu środków komunikacji elektronicznej, zawiadomienie o walnym zgromadzeniu powinno zawierać dokładny opis sposobu uczestnictwa w walnym zgromadzeniu i wykonywania prawa głosu.
 
-**Art. 300⁸⁸.**
+**Art. 30088.**
 
 § 1. Walne zgromadzenie odbywa się w siedzibie spółki, jeżeli umowa spółki nie wskazuje innego miejsca. W przypadku gdy umowa spółki wskazuje miejsce walnego zgromadzenia poza terytorium Rzeczypospolitej Polskiej, powinna wskazywać dodatkowo przynajmniej jedno miejsce walnego zgromadzenia na terytorium Rzeczypospolitej Polskiej. Zmiana umowy spółki ustalająca miejsce walnego zgromadzenia poza terytorium Rzeczypospolitej Polskiej wymaga jednomyślnej uchwały walnego zgromadzenia.
 
@@ -3179,17 +3307,17 @@ Art. 596–609. (pominięte)
 
 § 3. Walne zgromadzenie odbywające się poza terytorium Rzeczypospolitej Polskiej nie może podejmować uchwał wymagających umieszczenia w protokole sporządzonym przez notariusza.
 
-**Art. 300⁸⁹.**
+**Art. 30089.**
 
 § 1. W sprawach nieobjętych porządkiem obrad nie można podjąć uchwały, chyba że wszystkie akcje są reprezentowane na walnym zgromadzeniu, a nikt z obecnych nie zgłosił sprzeciwu dotyczącego podjęcia uchwały.
 
 § 2. Wniosek o zwołanie nadzwyczajnego walnego zgromadzenia oraz wnioski o charakterze porządkowym mogą być uchwalone, mimo że nie były umieszczone w porządku obrad.
 
-**Art. 300⁹⁰.** Uchwały można podjąć mimo braku formalnego zwołania walnego zgromadzenia, jeżeli wszystkie akcje są reprezentowane, a nikt z obecnych nie zgłosił sprzeciwu dotyczącego odbycia walnego zgromadzenia lub umieszczenia poszczególnych spraw w porządku obrad.
+**Art. 30090.** Uchwały można podjąć mimo braku formalnego zwołania walnego zgromadzenia, jeżeli wszystkie akcje są reprezentowane, a nikt z obecnych nie zgłosił sprzeciwu dotyczącego odbycia walnego zgromadzenia lub umieszczenia poszczególnych spraw w porządku obrad.
 
-**Art. 300⁹¹.** Uprawnionym do uczestnictwa w walnym zgromadzeniu jest osoba wpisana do rejestru akcjonariuszy w dniu przypadającym na trzy dni przed dniem walnego zgromadzenia.
+**Art. 30091.** Uprawnionym do uczestnictwa w walnym zgromadzeniu jest osoba wpisana do rejestru akcjonariuszy w dniu przypadającym na trzy dni przed dniem walnego zgromadzenia.
 
-**Art. 300⁹².**
+**Art. 30092.**
 
 § 1. Umowa spółki może dopuszczać uczestnictwo w walnym zgromadzeniu przy wykorzystaniu środków komunikacji elektronicznej, co obejmuje w szczególności:
 
@@ -3199,13 +3327,13 @@ Art. 596–609. (pominięte)
 
 § 2. Uczestnictwo akcjonariuszy w walnym zgromadzeniu może podlegać jedynie wymogom i ograniczeniom, które są niezbędne do identyfikacji akcjonariuszy i zapewnienia bezpieczeństwa komunikacji elektronicznej. Szczegółowe zasady dotyczące sposobu uczestnictwa w walnym zgromadzeniu przy wykorzystaniu środków komunikacji elektronicznej określa regulamin walnego zgromadzenia.
 
-**Art. 300⁹³.**
+**Art. 30093.**
 
-§ 1. W dniu walnego zgromadzenia zarząd wykłada w miejscu odbycia walnego zgromadzenia listę uprawnionych do uczestnictwa w walnym zgromadzeniu zgodnie z art. 300 , podpisaną przez zarząd, zawierającą nazwiska i imiona albo firmy (nazwy) uprawnionych, ich adresy do doręczeń albo adresy do doręczeń elektronicznych lub adresy poczty elektronicznej, liczbę, serie, numery i rodzaj akcji oraz liczbę przysługujących im głosów.
+§ 1. W dniu walnego zgromadzenia zarząd wykłada w miejscu odbycia walnego zgromadzenia listę uprawnionych do uczestnictwa w walnym zgromadzeniu zgodnie z art. 30091, podpisaną przez zarząd, zawierającą nazwiska i imiona albo firmy (nazwy) uprawnionych, ich adresy do doręczeń albo adresy do doręczeń elektronicznych lub adresy poczty elektronicznej, liczbę, serie, numery i rodzaj akcji oraz liczbę przysługujących im głosów.
 
 § 2. Uprawniony może żądać przesłania mu listy, o której mowa w § 1, nieodpłatnie pocztą elektroniczną, podając adres, na który lista powinna być wysłana.
 
-**Art. 300⁹⁴.**
+**Art. 30094.**
 
 § 1. Jeżeli przepisy niniejszego działu lub umowy spółki nie stanowią inaczej, walne zgromadzenie jest ważne bez względu na liczbę reprezentowanych na nim akcji.
 
@@ -3213,7 +3341,7 @@ Art. 596–609. (pominięte)
 
 § 3. Przewodniczący walnego zgromadzenia nie ma prawa, bez jednomyślnej uchwały walnego zgromadzenia, usuwać lub zmieniać kolejności spraw umieszczonych w porządku obrad.
 
-**Art. 300⁹⁵.**
+**Art. 30095.**
 
 § 1. Akcjonariusz może uczestniczyć w walnym zgromadzeniu oraz wykonywać prawo głosu osobiście lub przez pełnomocnika.
 
@@ -3223,15 +3351,15 @@ Art. 596–609. (pominięte)
 
 § 4. Przepisy o wykonywaniu prawa głosu przez pełnomocnika stosuje się do wykonywania prawa głosu przez innego przedstawiciela.
 
-**Art. 300⁹⁶.** Akcjonariusz nie może ani osobiście, ani przez pełnomocnika, ani jako pełnomocnik innej osoby głosować przy podejmowaniu uchwał dotyczących jego odpowiedzialności wobec spółki z jakiegokolwiek tytułu, w tym dotyczących udzielenia absolutorium, zwolnienia z zobowiązania wobec spółki oraz sporu między nim a spółką.
+**Art. 30096.** Akcjonariusz nie może ani osobiście, ani przez pełnomocnika, ani jako pełnomocnik innej osoby głosować przy podejmowaniu uchwał dotyczących jego odpowiedzialności wobec spółki z jakiegokolwiek tytułu, w tym dotyczących udzielenia absolutorium, zwolnienia z zobowiązania wobec spółki oraz sporu między nim a spółką.
 
-**Art. 300⁹⁷.**
+**Art. 30097.**
 
 § 1. Podczas obrad walnego zgromadzenia zarząd jest obowiązany do udzielenia akcjonariuszowi, na jego żądanie, informacji dotyczących spółki, jeżeli jest to uzasadnione dla oceny sprawy objętej porządkiem obrad.
 
 § 2. Przepisy art. 428 § 2–7 oraz art. 429 stosuje się odpowiednio do udzielania akcjonariuszowi informacji przez zarząd.
 
-**Art. 300⁹⁸.**
+**Art. 30098.**
 
 § 1. Uchwały zapadają bezwzględną większością głosów, jeżeli przepisy niniejszego działu lub umowa spółki nie stanowią inaczej.
 
@@ -3240,7 +3368,7 @@ Art. 596–609. (pominięte)
 - **1)** zmiany umowy spółki,
 - **2)** zbycia przedsiębiorstwa albo jego zorganizowanej części,
 - **3)** emisji obligacji zamiennych i obligacji z prawem pierwszeństwa,
-- **4)** rozwiązania spółki – zapada większością trzech czwartych głosów, chyba że umowa spółki przewiduje surowsze warunki.
+- **4)** rozwiązania spółki zapada większością trzech czwartych głosów, chyba że umowa spółki przewiduje surowsze warunki.
 
 § 3. Uchwała dotycząca zmiany umowy spółki, zwiększająca świadczenia akcjonariuszy lub uszczuplająca prawa indywidualne poszczególnych akcjonariuszy, wymaga zgody wszystkich akcjonariuszy, których dotyczy.
 
@@ -3252,13 +3380,13 @@ Art. 596–609. (pominięte)
 
 § 7. Zniesienie przywileju akcji niemej powoduje uzyskanie przez akcjonariusza prawa głosu z takiej akcji.
 
-**Art. 300⁹⁹.**
+**Art. 30099.**
 
 § 1. Głosowanie jest jawne.
 
 § 2. Tajne głosowanie zarządza się przy podejmowaniu uchwały w sprawie powołania, odwołania lub zawieszenia w czynnościach członków organów spółki, udzielenia im absolutorium lub pociągnięcia ich do odpowiedzialności. Tajne głosowanie zarządza się ponadto na żądanie choćby jednego z akcjonariuszy obecnych lub reprezentowanych na walnym zgromadzeniu.
 
-**Art. 300¹⁰⁰.**
+**Art. 300100.**
 
 § 1. Uchwały walnego zgromadzenia umieszcza się w protokole. W protokole stwierdza się prawidłowość zwołania walnego zgromadzenia i jego zdolność do podjęcia uchwał oraz wymienia się podjęte uchwały, a także w odniesieniu do każdej uchwały liczbę akcji, z których oddano ważne głosy, procentowy udział tych akcji w ogólnej liczbie akcji, łączną liczbę ważnych głosów, liczbę głosów „za”, „przeciw” i „wstrzymujących się” oraz zgłoszone sprzeciwy. Do protokołu dołącza się dowody zwołania walnego zgromadzenia, listę obecności z podpisami uczestników walnego zgromadzenia oraz listę akcjonariuszy głosujących przy wykorzystaniu środków komunikacji elektronicznej.
 
@@ -3266,17 +3394,17 @@ Art. 596–609. (pominięte)
 
 § 3. Uchwały walnego zgromadzenia powinny być podpisane przez obecnych lub co najmniej przez przewodniczącego i osobę sporządzającą protokół.
 
-§ 4. Uchwały podjęte na piśmie zgodnie z art. 300 zarząd wpisuje do księgi protokołów. Uchwały podjęte przy wykorzystaniu środków komunikacji elektronicznej dołącza się do księgi protokołów w postaci wydruków uchwał poświadczonych podpisem członka zarządu.
+§ 4. Uchwały podjęte na piśmie zgodnie z art. 30080 zarząd wpisuje do księgi protokołów. Uchwały podjęte przy wykorzystaniu środków komunikacji elektronicznej dołącza się do księgi protokołów w postaci wydruków uchwał poświadczonych podpisem członka zarządu.
 
 § 5. Akcjonariusze mogą przeglądać księgę protokołów, a także żądać wydania poświadczonych przez zarząd odpisów uchwał.
 
-**Art. 300¹⁰¹.** Przepisy art. 422–427 stosuje się odpowiednio do uchwał akcjonariuszy.
+**Art. 300101.** Przepisy art. 422–427 stosuje się odpowiednio do uchwał akcjonariuszy.
 
 #### Rozdział 4 Zmiana umowy spółki i emisja akcji
 
 ##### Oddział 1 Zmiana umowy spółki i zwykła emisja akcji
 
-**Art. 300¹⁰².**
+**Art. 300102.**
 
 § 1. Zmiana umowy spółki wymaga uchwały walnego zgromadzenia i wpisu do rejestru.
 
@@ -3284,9 +3412,9 @@ Art. 596–609. (pominięte)
 
 § 3. Przepisy art. 164 § 3, art. 165, art. 169 i art. 172 stosuje się odpowiednio do zarejestrowania zmiany umowy spółki i skutków stwierdzenia braków wynikłych z niedopełnienia przepisów prawa po zarejestrowaniu zmian.
 
-**Art. 300¹⁰³.** Emisja akcji stanowi zmianę umowy spółki. Zachowanie przepisów o zmianie umowy spółki nie jest wymagane, jeżeli emisja akcji następuje uchwałą akcjonariuszy podejmowaną na podstawie dotychczasowych postanowień umowy spółki przewidujących maksymalną liczbę akcji i termin ich emisji.
+**Art. 300103.** Emisja akcji stanowi zmianę umowy spółki. Zachowanie przepisów o zmianie umowy spółki nie jest wymagane, jeżeli emisja akcji następuje uchwałą akcjonariuszy podejmowaną na podstawie dotychczasowych postanowień umowy spółki przewidujących maksymalną liczbę akcji i termin ich emisji.
 
-**Art. 300¹⁰⁴.**
+**Art. 300104.**
 
 § 1. Uchwała o emisji akcji powinna określać:
 
@@ -3300,7 +3428,7 @@ Art. 596–609. (pominięte)
 
 § 2. Przepisy niniejszego działu dotyczące akcji, wkładów i kapitału akcyjnego stosuje się odpowiednio przy emisji akcji.
 
-**Art. 300¹⁰⁵.**
+**Art. 300105.**
 
 § 1. Akcje nowej emisji są obejmowane na podstawie umowy objęcia akcji. W umowie objęcia akcji spółka zobowiązuje się wyemitować akcje na rzecz subskrybenta, a subskrybent zobowiązuje się do wniesienia wkładu.
 
@@ -3308,7 +3436,7 @@ Art. 596–609. (pominięte)
 
 § 3. Umowa objęcia akcji powinna być zawarta w formie dokumentowej pod rygorem nieważności.
 
-**Art. 300¹⁰⁶.**
+**Art. 300106.**
 
 § 1. Jeżeli umowa spółki lub uchwała akcjonariuszy nie stanowią inaczej, wszyscy dotychczasowi akcjonariusze mają prawo pierwszeństwa objęcia nowych akcji proporcjonalnie do liczby swoich dotychczasowych akcji (prawo poboru). Listę akcjonariuszy, którym przysługuje prawo poboru, ustala się na dzień podjęcia uchwały o emisji akcji.
 
@@ -3322,7 +3450,7 @@ Art. 596–609. (pominięte)
 
 § 6. Jeżeli uchwała o emisji akcji nie stanowi inaczej, akcje nieobjęte w wykonaniu prawa poboru albo co do których prawo poboru zostało wyłączone, zarząd oferuje według swojego uznania, jednak po cenie nie niższej niż cena emisyjna.
 
-**Art. 300¹⁰⁷.**
+**Art. 300107.**
 
 § 1. Emisję akcji zarząd zgłasza do rejestru.
 
@@ -3335,13 +3463,13 @@ Art. 596–609. (pominięte)
 
 § 3. Akcje nowej emisji powstają z chwilą wpisu do rejestru.
 
-**Art. 300¹⁰⁸.** Przepisy niniejszego oddziału stosuje się odpowiednio do emisji akcji na podstawie upoważnienia zarządu i warunkowej emisji akcji, chyba że przepisy oddziałów 2 i 3 stanowią inaczej.
+**Art. 300108.** Przepisy niniejszego oddziału stosuje się odpowiednio do emisji akcji na podstawie upoważnienia zarządu i warunkowej emisji akcji, chyba że przepisy oddziałów 2 i 3 stanowią inaczej.
 
-**Art. 300¹⁰⁹.** Udzielenie zarządowi upoważnienia do emisji akcji i warunkowa emisja akcji nie naruszają kompetencji walnego zgromadzenia do emisji akcji.
+**Art. 300109.** Udzielenie zarządowi upoważnienia do emisji akcji i warunkowa emisja akcji nie naruszają kompetencji walnego zgromadzenia do emisji akcji.
 
 ##### Oddział 2 Upoważnienie zarządu do emisji akcji
 
-**Art. 300¹¹⁰.**
+**Art. 300110.**
 
 § 1. Umowa spółki może upoważnić zarząd, na okres nie dłuższy niż pięć lat, do emisji akcji na zasadach określonych w niniejszym oddziale. Zarząd może wykonać udzielone upoważnienie przez dokonanie jednej albo kilku kolejnych emisji akcji w granicach, o których mowa w § 3.
 
@@ -3353,29 +3481,29 @@ Art. 596–609. (pominięte)
 
 § 5. Zarząd nie może emitować akcji uprzywilejowanych ani przyznawać akcjonariuszom uprawnień indywidualnych.
 
-**Art. 300¹¹¹.** Uchwała walnego zgromadzenia dotycząca zmiany umowy spółki przewidująca upoważnienie zarządu do emisji akcji powinna być umotywowana.
+**Art. 300111.** Uchwała walnego zgromadzenia dotycząca zmiany umowy spółki przewidująca upoważnienie zarządu do emisji akcji powinna być umotywowana.
 
-**Art. 300¹¹².** Uchwała zarządu podjęta w granicach upoważnienia zawartego w umowie spółki zastępuje uchwałę walnego zgromadzenia o emisji akcji. Zarząd decyduje o wszystkich sprawach związanych z emisją akcji, chyba że przepisy niniejszego oddziału lub upoważnienie udzielone zarządowi zawierają odmienne postanowienia.
+**Art. 300112.** Uchwała zarządu podjęta w granicach upoważnienia zawartego w umowie spółki zastępuje uchwałę walnego zgromadzenia o emisji akcji. Zarząd decyduje o wszystkich sprawach związanych z emisją akcji, chyba że przepisy niniejszego oddziału lub upoważnienie udzielone zarządowi zawierają odmienne postanowienia.
 
-**Art. 300¹¹³.**
+**Art. 300113.**
 
-§ 1. Pozbawienie prawa poboru w całości lub w części dotyczące każdej emisji akcji w granicach upoważnienia, o którym mowa w art. 300 , wymaga uchwały akcjonariuszy podjętej zgodnie z art. 300 § 2.
+§ 1. Pozbawienie prawa poboru w całości lub w części dotyczące każdej emisji akcji w granicach upoważnienia, o którym mowa w art. 300110, wymaga uchwały akcjonariuszy podjętej zgodnie z art. 300106 § 2.
 
 § 2. Umowa spółki może upoważniać zarząd do pozbawienia prawa poboru w całości lub w części. Uchwała zarządu o pozbawieniu prawa poboru w całości lub w części może zostać podjęta, jeżeli przemawia za tym interes spółki.
 
-§ 3. Podjęcie przez walne zgromadzenie uchwały zmieniającej umowę spółki, która przewiduje udzielenie zarządowi upoważnienia do pozbawienia prawa poboru akcji w całości lub w części, wymaga spełnienia warunków określonych w art. 300 § 2.
+§ 3. Podjęcie przez walne zgromadzenie uchwały zmieniającej umowę spółki, która przewiduje udzielenie zarządowi upoważnienia do pozbawienia prawa poboru akcji w całości lub w części, wymaga spełnienia warunków określonych w art. 300106 § 2.
 
 ##### Oddział 3 Warunkowa emisja akcji
 
-**Art. 300¹¹⁴.**
+**Art. 300114.**
 
-§ 1. Walne zgromadzenie może podjąć uchwałę o emisji akcji, z zastrzeżeniem że osoby, którym przyznano prawa do objęcia akcji, wykonają je na warunkach określonych w uchwale, o której mowa w art. 300 , i w trybie określonym w art. 300 (warunkowa emisja akcji).
+§ 1. Walne zgromadzenie może podjąć uchwałę o emisji akcji, z zastrzeżeniem że osoby, którym przyznano prawa do objęcia akcji, wykonają je na warunkach określonych w uchwale, o której mowa w art. 300115, i w trybie określonym w art. 300117 (warunkowa emisja akcji).
 
 § 2. Uchwała o warunkowej emisji akcji może zostać podjęta w celu przyznania praw do objęcia akcji:
 
 - **1)** obligatariuszom obligacji zamiennych lub obligacji z prawem pierwszeństwa albo
 - **2)** osobom, które uzyskały te prawa na podstawie umowy zawartej ze spółką, albo
-- **3)** posiadaczom warrantów subskrypcyjnych, o których mowa w art. 300 .
+- **3)** posiadaczom warrantów subskrypcyjnych, o których mowa w art. 300119.
 
 § 3. Zawarcie umowy, o której mowa w § 2 pkt 2, wymaga zgody walnego zgromadzenia wyrażonej większością trzech czwartych głosów.
 
@@ -3383,7 +3511,7 @@ Art. 596–609. (pominięte)
 
 § 5. Emisja akcji w celu realizacji praw do objęcia akcji, o których mowa w § 2, może nastąpić wyłącznie w trybie warunkowej emisji akcji, z uwzględnieniem przepisów o obligacjach.
 
-**Art. 300¹¹⁵.**
+**Art. 300115.**
 
 § 1. Uchwała o warunkowej emisji akcji powinna określać w szczególności:
 
@@ -3393,32 +3521,32 @@ Art. 596–609. (pominięte)
 - **4)** termin wykonania prawa do objęcia warunkowo emitowanych akcji;
 - **5)** określenie grona osób uprawnionych do objęcia warunkowo emitowanych akcji.
 
-§ 2. Uchwała o warunkowej emisji akcji skutkuje wyłączeniem prawa poboru tych akcji. Uchwała ta powinna spełniać warunki określone w art. 300 § 2.
+§ 2. Uchwała o warunkowej emisji akcji skutkuje wyłączeniem prawa poboru tych akcji. Uchwała ta powinna spełniać warunki określone w art. 300106 § 2.
 
-**Art. 300¹¹⁶.**
+**Art. 300116.**
 
 § 1. Warunkową emisję akcji zarząd zgłasza do rejestru. Do zgłoszenia należy dołączyć uchwały:
 
 - **1)** o warunkowej emisji akcji;
-- **2)** w sprawie przyznania praw do objęcia akcji, o których mowa w art. 300 § 2.
+- **2)** w sprawie przyznania praw do objęcia akcji, o których mowa w art. 300114 § 2.
 
-§ 2. Prawa do objęcia akcji, o których mowa w art. 300 § 2, mogą zostać przyznane dopiero po dokonaniu wpisu do rejestru zmiany umowy spółki w przedmiocie warunkowej emisji akcji.
+§ 2. Prawa do objęcia akcji, o których mowa w art. 300114 § 2, mogą zostać przyznane dopiero po dokonaniu wpisu do rejestru zmiany umowy spółki w przedmiocie warunkowej emisji akcji.
 
-**Art. 300¹¹⁷.**
+**Art. 300117.**
 
 § 1. Osoby uprawnione do objęcia akcji, określone w uchwale o warunkowej emisji akcji, obejmują akcje w drodze pisemnego oświadczenia.
 
 § 2. Niezwłocznie po otrzymaniu oświadczenia, o którym mowa w § 1, zarząd wydaje dyspozycję dokonania wpisu akcji do rejestru akcjonariuszy zgodnie z uchwałą o warunkowej emisji akcji i treścią wykonanego prawa do objęcia akcji.
 
-**Art. 300¹¹⁸.**
+**Art. 300118.**
 
-§ 1. Wraz z wpisem akcji do rejestru akcjonariuszy zgodnie z art. 300 § 2 następuje nabycie praw z akcji.
+§ 1. Wraz z wpisem akcji do rejestru akcjonariuszy zgodnie z art. 300117 § 2 następuje nabycie praw z akcji.
 
 § 2. W terminie trzydziestu dni po upływie każdego roku kalendarzowego zarząd zgłasza do rejestru wykaz akcji objętych w danym roku w celu uaktualnienia wpisów w rejestrze dotyczących akcji.
 
 § 3. Do zgłoszenia, o którym mowa w § 2, należy dołączyć wykaz osób, które wykonały prawo objęcia akcji. Wykaz powinien zawierać nazwiska i imiona albo firmy (nazwy) akcjonariuszy, liczbę objętych przez nich akcji oraz wartość wniesionych przez każdego akcjonariusza wkładów.
 
-**Art. 300¹¹⁹.**
+**Art. 300119.**
 
 § 1. W celu warunkowej emisji akcji spółka może emitować papiery wartościowe, uprawniające ich posiadacza do objęcia akcji z wyłączeniem prawa poboru (warranty subskrypcyjne).
 
@@ -3431,7 +3559,7 @@ Art. 596–609. (pominięte)
 
 #### Rozdział 5 Rozwiązanie i likwidacja spółki
 
-**Art. 300¹²⁰.**
+**Art. 300120.**
 
 § 1. Rozwiązanie spółki powodują:
 
@@ -3441,15 +3569,15 @@ Art. 596–609. (pominięte)
 - **4)** ogłoszenie upadłości spółki;
 - **5)** inne przyczyny przewidziane prawem.
 
-§ 2. Jeżeli przyczyna żądania rozwiązania spółki, o której mowa w § 1 pkt 3, zachodzi po stronie jednego z akcjonariuszy, a w toku postępowania została uprawdopodobniona możliwość dalszego funkcjonowania spółki z udziałem pozostałych akcjonariuszy, sąd może orzec o ustąpieniu akcjonariusza, zgodnie z art. 300 .
+§ 2. Jeżeli przyczyna żądania rozwiązania spółki, o której mowa w § 1 pkt 3, zachodzi po stronie jednego z akcjonariuszy, a w toku postępowania została uprawdopodobniona możliwość dalszego funkcjonowania spółki z udziałem pozostałych akcjonariuszy, sąd może orzec o ustąpieniu akcjonariusza, zgodnie z art. 30050.
 
-§ 3. Rozwiązanie spółki następuje, z wyjątkiem art. 300 , po przeprowadzeniu likwidacji, z chwilą wykreślenia spółki z rejestru.
+§ 3. Rozwiązanie spółki następuje, z wyjątkiem art. 300122, po przeprowadzeniu likwidacji, z chwilą wykreślenia spółki z rejestru.
 
 § 4. W przypadkach, o których mowa w § 1 pkt 1 i 2, do dnia złożenia wniosku o wykreślenie spółki z rejestru rozwiązaniu może zapobiec uchwała walnego zgromadzenia podjęta większością trzech czwartych głosów, oddanych w obecności akcjonariuszy reprezentujących co najmniej połowę ogólnej liczby akcji.
 
-§ 5. W sprawach nieuregulowanych w niniejszym rozdziale przepisy art. 461– 464, art. 466–473, art. 475 § 1, art. 476 i art. 477 stosuje się odpowiednio do likwidacji spółki.
+§ 5. W sprawach nieuregulowanych w niniejszym rozdziale przepisy art. 461–464, art. 466–473, art. 475 § 1, art. 476 i art. 477 stosuje się odpowiednio do likwidacji spółki.
 
-**Art. 300¹²¹.**
+**Art. 300121.**
 
 § 1. Likwidatorzy ogłaszają o rozwiązaniu spółki i otwarciu likwidacji jednokrotnie, wzywając wierzycieli do zgłoszenia ich wierzytelności w terminie trzech miesięcy od tej daty.
 
@@ -3465,7 +3593,7 @@ Art. 596–609. (pominięte)
 
 § 7. Akcjonariusze, którzy po ziszczeniu się przesłanek określonych w § 1 i 3 otrzymali w dobrej wierze przypadającą na nich część majątku spółki, nie są obowiązani do jej zwrotu celem pokrycia należności wierzycieli.
 
-**Art. 300¹²².**
+**Art. 300122.**
 
 § 1. Cały majątek spółki może zostać przejęty przez oznaczonego akcjonariusza (akcjonariusza przejmującego), z obowiązkiem zaspokojenia wierzycieli i pozostałych akcjonariuszy, jeżeli przewiduje tak uchwała walnego zgromadzenia, podjęta większością trzech czwartych głosów, oddanych w obecności akcjonariuszy reprezentujących co najmniej połowę ogólnej liczby akcji, a sąd rejestrowy zezwoli na przejęcie.
 
@@ -3487,19 +3615,19 @@ Art. 596–609. (pominięte)
 
 #### Rozdział 6 Odpowiedzialność cywilnoprawna
 
-**Art. 300¹²³.** Jeżeli członkowie zarządu umyślnie lub przez niedbalstwo podali fałszywe dane w oświadczeniu, o którym mowa w art. 300 § 3 pkt 3 lub art. 300 § 2 pkt 3, odpowiadają wobec wierzycieli spółki solidarnie ze spółką przez trzy lata od dnia zarejestrowania spółki lub zarejestrowania emisji nowych akcji.
+**Art. 300123.** Jeżeli członkowie zarządu umyślnie lub przez niedbalstwo podali fałszywe dane w oświadczeniu, o którym mowa w art. 30012 § 3 pkt 3 lub art. 300107 § 2 pkt 3, odpowiadają wobec wierzycieli spółki solidarnie ze spółką przez trzy lata od dnia zarejestrowania spółki lub zarejestrowania emisji nowych akcji.
 
-**Art. 300¹²⁴.** Kto, biorąc udział w tworzeniu spółki, wbrew przepisom prawa z winy swojej wyrządził spółce szkodę, jest obowiązany do jej naprawienia.
+**Art. 300124.** Kto, biorąc udział w tworzeniu spółki, wbrew przepisom prawa z winy swojej wyrządził spółce szkodę, jest obowiązany do jej naprawienia.
 
-**Art. 300¹²⁵.**
+**Art. 300125.**
 
 § 1. Członek organu odpowiada wobec spółki za szkodę wynikłą z niewykonania lub nienależytego wykonania swoich obowiązków, w tym z niedołożenia należytej staranności wynikającej z zawodowego charakteru jego działalności lub niedochowania lojalności wobec spółki, chyba że nie ponosi winy.
 
 § 2. Członek organu nie narusza obowiązku dołożenia należytej staranności, jeżeli, postępując w sposób lojalny wobec spółki, działa w granicach uzasadnionego ryzyka gospodarczego, w tym na podstawie informacji, analiz i opinii, które powinny być w danych okolicznościach uwzględnione przy dokonywaniu starannej oceny.
 
-**Art. 300¹²⁶.** Jeżeli szkodę, o której mowa w art. 300 i art. 300 § 1, wyrządziło kilka osób wspólnie, odpowiadają za szkodę solidarnie.
+**Art. 300126.** Jeżeli szkodę, o której mowa w art. 300124 i art. 300125 § 1, wyrządziło kilka osób wspólnie, odpowiadają za szkodę solidarnie.
 
-**Art. 300¹²⁷.**
+**Art. 300127.**
 
 § 1. Jeżeli spółka nie wytoczy powództwa o naprawienie szkody wyrządzonej jej przez członka organu lub akcjonariusza w terminie roku od dnia ujawnienia czynu wyrządzającego szkodę, każdy akcjonariusz może wytoczyć powództwo o naprawienie szkody wyrządzonej spółce.
 
@@ -3509,15 +3637,15 @@ Art. 596–609. (pominięte)
 
 § 4. Jeżeli powództwo okaże się nieuzasadnione, a powód, wnosząc je, działał w złej wierze lub dopuścił się rażącego niedbalstwa, jest obowiązany naprawić szkodę wyrządzoną pozwanemu.
 
-**Art. 300¹²⁸.** W przypadku wytoczenia powództwa przez akcjonariusza na podstawie art. 300 § 1 oraz w razie upadłości spółki osoby obowiązane do naprawienia szkody nie mogą powoływać się na uchwałę akcjonariuszy udzielającą im absolutorium ani dokonane przez spółkę zrzeczenie się roszczeń o odszkodowanie.
+**Art. 300128.** W przypadku wytoczenia powództwa przez akcjonariusza na podstawie art. 300127 § 1 oraz w razie upadłości spółki osoby obowiązane do naprawienia szkody nie mogą powoływać się na uchwałę akcjonariuszy udzielającą im absolutorium ani dokonane przez spółkę zrzeczenie się roszczeń o odszkodowanie.
 
-**Art. 300¹²⁹.** Przepisy art. 300 i art. 300 stosuje się odpowiednio do roszczeń spółki o zwrot wypłat, o których mowa w art. 300 .
+**Art. 300129.** Przepisy art. 300127 i art. 300128 stosuje się odpowiednio do roszczeń spółki o zwrot wypłat, o których mowa w art. 30022.
 
-**Art. 300¹³⁰.** Roszczenie o naprawienie szkody przedawnia się z upływem trzech lat od dnia, w którym spółka dowiedziała się o szkodzie i osobie obowiązanej do jej naprawienia. Jednakże w każdym przypadku roszczenie przedawnia się z upływem dziesięciu lat od dnia, w którym nastąpiło zdarzenie wyrządzające szkodę.
+**Art. 300130.** Roszczenie o naprawienie szkody przedawnia się z upływem trzech lat od dnia, w którym spółka dowiedziała się o szkodzie i osobie obowiązanej do jej naprawienia. Jednakże w każdym przypadku roszczenie przedawnia się z upływem dziesięciu lat od dnia, w którym nastąpiło zdarzenie wyrządzające szkodę.
 
-**Art. 300¹³¹.** Powództwo o odszkodowanie przeciwko członkom organów spółki oraz likwidatorom wytacza się według miejsca siedziby spółki.
+**Art. 300131.** Powództwo o odszkodowanie przeciwko członkom organów spółki oraz likwidatorom wytacza się według miejsca siedziby spółki.
 
-**Art. 300¹³².**
+**Art. 300132.**
 
 § 1. Jeżeli egzekucja przeciwko spółce okaże się bezskuteczna, członkowie zarządu odpowiadają solidarnie za jej zobowiązania.
 
@@ -3527,11 +3655,11 @@ Art. 596–609. (pominięte)
 
 § 4. Osoby, o których mowa w § 1, nie ponoszą odpowiedzialności za niezłożenie wniosku o ogłoszenie upadłości w czasie, gdy jest prowadzona egzekucja przez zarząd przymusowy albo przez sprzedaż przedsiębiorstwa, na podstawie przepisów Kodeksu postępowania cywilnego, jeżeli obowiązek złożenia wniosku o ogłoszenie upadłości powstał w czasie prowadzenia egzekucji.
 
-**Art. 300¹³³.** Przepisy art. 300 i art. 300 stosuje się odpowiednio do likwidatorów spółki, z wyjątkiem likwidatorów ustanowionych przez sąd.
+**Art. 300133.** Przepisy art. 300125 i art. 300132 stosuje się odpowiednio do likwidatorów spółki, z wyjątkiem likwidatorów ustanowionych przez sąd.
 
-**Art. 300¹³⁴.** Przepisy art. 300 –300 nie naruszają praw akcjonariuszy oraz osób trzecich do dochodzenia naprawienia szkody na zasadach ogólnych.
+**Art. 300134.** Przepisy art. 300123–300133 nie naruszają praw akcjonariuszy oraz osób trzecich do dochodzenia naprawienia szkody na zasadach ogólnych.
 
-### DZIAŁ II Spółka akcyjna
+### Dział II Spółka akcyjna
 
 #### Rozdział 1 Powstanie spółki
 
@@ -3555,7 +3683,9 @@ Art. 596–609. (pominięte)
 
 § 2. W przypadku gdy wszystkie akcje spółki przysługują jedynemu akcjonariuszowi albo jedynemu akcjonariuszowi i spółce, oświadczenie woli takiego akcjonariusza składane spółce wymaga formy pisemnej pod rygorem nieważności, chyba że ustawa stanowi inaczej.
 
-§ 3. (uchylony) § 4. (uchylony)
+§ 3. (uchylony)
+
+§ 4. (uchylony)
 
 **Art. 304.**
 
@@ -3564,7 +3694,8 @@ Art. 596–609. (pominięte)
 - **1)** firmę i siedzibę spółki;
 - **2)** przedmiot działalności spółki;
 - **3)** czas trwania spółki, jeżeli jest oznaczony;
-- **4)** wysokość kapitału zakładowego oraz kwotę wpłaconą przed zarejestrowaniem na pokrycie kapitału zakładowego; [5) wartość nominalną akcji i ich liczbę ze wskazaniem, czy akcje są imienne, czy na okaziciela;] <5) wartość nominalną akcji i ich liczbę;>
+- **4)** wysokość kapitału zakładowego oraz kwotę wpłaconą przed zarejestrowaniem na pokrycie kapitału zakładowego;
+- **5)** wartość nominalną akcji i ich liczbę ze wskazaniem, czy akcje są imienne, czy na okaziciela;
 - **6)** liczbę akcji poszczególnych rodzajów i związane z nimi uprawnienia, jeżeli mają być wprowadzone akcje różnych rodzajów;
 - **7)** nazwiska i imiona albo firmy (nazwy) założycieli;
 - **8)** liczbę członków zarządu i rady nadzorczej albo co najmniej minimalną lub maksymalną liczbę członków tych organów oraz podmiot uprawniony do ustalenia składu zarządu lub rady nadzorczej;
@@ -3591,6 +3722,11 @@ Art. 596–609. (pominięte)
 § 2. Dopuszczalne jest używanie w obrocie skrótu „S.A.”.
 
 **Art. 306.** Do powstania spółki akcyjnej wymaga się:
+
+- **1)** zawiązania spółki, w tym podpisania statutu przez założycieli;
+- **2)** wniesienia przez akcjonariuszy wkładów na pokrycie całego kapitału zakładowego, z uwzględnieniem art. 309 § 3 i § 4;
+- **3)** ustanowienia zarządu i rady nadzorczej;
+- **4)** wpisu do rejestru.
 
 **Art. 307.** Spółki akcyjne mające siedzibę za granicą mogą tworzyć oddziały lub przedstawicielstwa na terytorium Rzeczypospolitej Polskiej. Warunki tworzenia takich oddziałów lub przedstawicielstw określa odrębna ustawa.
 
@@ -3634,7 +3770,7 @@ Art. 596–609. (pominięte)
 
 § 2. W sprawozdaniu należy umotywować zamierzone transakcje, w tym także objęcie akcji za wkłady niepieniężne i wysokość przyznanego wynagrodzenia lub zapłaty. Do sprawozdania należy dołączyć odpowiednie dokumenty w oryginałach lub urzędowo poświadczonych odpisach.
 
-§ 3. Jeżeli przedmiotem wkładu lub nabycia jest przedsiębiorstwo, do sprawozdania założycieli należy dołączyć sprawozdania finansowe dotyczące tego przedsiębiorstwa za okres ostatnich dwóch lat obrotowych. Jeżeli przedsiębiorstwo prowadzono przez okres krótszy niż dwa lata, sprawozdanie finansowe powinno obejmować cały okres działalności. Przepis art. 10 stosuje się odpowiednio.
+§ 3. Jeżeli przedmiotem wkładu lub nabycia jest przedsiębiorstwo, do sprawozdania założycieli należy dołączyć sprawozdania finansowe dotyczące tego przedsiębiorstwa za okres ostatnich dwóch lat obrotowych. Jeżeli przedsiębiorstwo prowadzono przez okres krótszy niż dwa lata, sprawozdanie finansowe powinno obejmować cały okres działalności. Przepis art. 101stosuje się odpowiednio.
 
 § 4. Jeżeli przedmiotem wkładu lub nabycia jest przedsiębiorstwo, w sprawozdaniu założycieli można nie ujmować mienia nabytego w zakresie zwykłych czynności tego przedsiębiorstwa.
 
@@ -3656,7 +3792,7 @@ Art. 596–609. (pominięte)
 
 § 8. W przypadku rozbieżności zdań między założycielami a biegłym rewidentem spór rozstrzyga sąd rejestrowy na wniosek założycieli. Na postanowienie sądu wydane w wyniku rozpatrzenia wniosku nie przysługuje środek odwoławczy. Sąd rejestrowy może wyznaczyć nowego biegłego rewidenta, jeżeli uzna to za uzasadnione.
 
-**Art. 312¹.**
+**Art. 3121.**
 
 § 1. Sprawozdania założycieli można nie poddawać badaniu przez biegłego rewidenta w odniesieniu do wkładów niepieniężnych, których przedmiotem są:
 
@@ -3710,6 +3846,19 @@ Art. 596–609. (pominięte)
 § 2. Sąd rejestrowy nie może odmówić wpisania spółki do rejestru z powodu drobnych uchybień, które nie naruszają interesu spółki oraz interesu publicznego, a nie mogą być usunięte bez poniesienia niewspółmiernie wysokich kosztów.
 
 **Art. 318.** Zgłoszenie spółki akcyjnej do sądu rejestrowego powinno zawierać:
+
+- **1)** firmę, siedzibę i adres spółki albo adres do doręczeń;
+- **2)** przedmiot działalności spółki;
+- **3)** wysokość kapitału zakładowego, liczbę i wartość nominalną akcji;
+- **4)** wysokość kapitału docelowego, jeżeli statut to przewiduje;
+- **5)** liczbę akcji uprzywilejowanych i rodzaj uprzywilejowania;
+- **6)** wzmiankę, jaka część kapitału zakładowego została pokryta przed zarejestrowaniem;
+- **7)** nazwiska i imiona członków zarządu oraz sposób reprezentowania spółki;
+- **8)** nazwiska i imiona członków rady nadzorczej;
+- **9)** jeżeli akcjonariusze wnoszą wkłady niepieniężne – zaznaczenie tej okoliczności;
+- **10)** czas trwania spółki, jeżeli jest oznaczony;
+- **11)** jeżeli statut wskazuje pismo przeznaczone do ogłoszeń spółki – oznaczenie tego pisma;
+- **12)** jeżeli statut przewiduje przyznanie uprawnień osobistych określonym akcjonariuszom lub tytuły uczestnictwa w dochodach lub majątku spółki niewynikające z akcji – zaznaczenie tych okoliczności.
 
 **Art. 319.**
 
@@ -3785,9 +3934,15 @@ Art. 596–609. (pominięte)
 
 § 2. Przepisy o akcjach stosuje się odpowiednio do warrantów subskrypcyjnych, świadectw użytkowych, świadectw założycielskich i innych tytułów uczestnictwa w dochodach lub podziale majątku spółki.
 
-§ 3. (uchylony) § 4. (uchylony) § 5. (uchylony) § 6. (uchylony)
+§ 3. (uchylony)
 
-**Art. 328¹.**
+§ 4. (uchylony)
+
+§ 5. (uchylony)
+
+§ 6. (uchylony)
+
+**Art. 3281.**
 
 § 1. Akcje spółki niebędącej spółką publiczną podlegają zarejestrowaniu w rejestrze akcjonariuszy.
 
@@ -3799,29 +3954,24 @@ Art. 596–609. (pominięte)
 
 § 5. Wybór podmiotu prowadzącego rejestr akcjonariuszy wymaga uchwały walnego zgromadzenia. Przy zawiązaniu spółki wyboru dokonują założyciele.
 
-**Art. 328².**
+**Art. 3282.**
 
-§ 1. Spółka jest obowiązana do niezwłocznego zawarcia umowy o prowadzenie rejestru akcjonariuszy z podmiotem wybranym zgodnie z art. 328 § 5. <§ 1 . Zarząd zgłasza zawarcie umowy o prowadzenie rejestru akcjonariuszy do sądu rejestrowego.
+§ 1. Spółka jest obowiązana do niezwłocznego zawarcia umowy o prowadzenie rejestru akcjonariuszy z podmiotem wybranym zgodnie z art. 3281 § 5.
 
-§ 1. Zgłoszenie zawiera:
+§ 2. Rozwiązanie przez spółkę umowy, o której mowa w § 1, jest dopuszczalne jedynie pod warunkiem zawarcia nowej umowy o prowadzenie rejestru akcjonariuszy, z uwzględnieniem art. 32811. Rozwiązanie umowy przez podmiot prowadzący rejestr akcjonariuszy jest dopuszczalne jedynie z ważnych powodów, z zachowaniem terminu wypowiedzenia nie krótszego niż trzy miesiące.
 
-- **1)** firmę (nazwę) podmiotu, z którym zawarto umowę o prowadzenie rejestru akcjonariuszy;
-- **2)** numer podmiotu, o którym mowa w pkt 1, we właściwym rejestrze i nazwę tego rejestru oraz numer identyfikacji podatkowej (NIP) tego podmiotu.
+§ 3. Umowa o prowadzenie rejestru akcjonariuszy stanowi podstawę do rejestrowania także praw poboru akcji oraz, o ile statut nie stanowi inaczej, powierzenia podmiotowi prowadzącemu ten rejestr pośredniczenia w wykonywaniu zobowiązań pieniężnych spółki wobec akcjonariuszy z tytułu przysługujących im praw z akcji.
 
-§ 1. Do zgłoszenia należy dołączyć oświadczenie zarządu potwierdzające zawarcie takiej umowy.> § 2. Rozwiązanie przez spółkę umowy, o której mowa w § 1, jest dopuszczalne jedynie pod warunkiem zawarcia nowej umowy o prowadzenie rejestru akcjonariuszy, z uwzględnieniem art. 328 . Rozwiązanie umowy przez podmiot prowadzący rejestr akcjonariuszy jest dopuszczalne jedynie z ważnych powodów, z zachowaniem terminu wypowiedzenia nie krótszego niż trzy miesiące. <§ 2 . Podmiot prowadzący rejestr akcjonariuszy zawiadamia sąd rejestrowy za pośrednictwem systemu teleinformatycznego o wygaśnięciu albo rozwiązaniu umowy, o której mowa w § 1, ze wskazaniem daty jej wygaśnięcia albo rozwiązania, w terminie siedmiu dni od tej daty.> § 3. Umowa o prowadzenie rejestru akcjonariuszy stanowi podstawę do rejestrowania także praw poboru akcji oraz, o ile statut nie stanowi inaczej, powierzenia podmiotowi prowadzącemu ten rejestr pośredniczenia w wykonywaniu zobowiązań pieniężnych spółki wobec akcjonariuszy z tytułu przysługujących im praw z akcji.
-
-**Art. 328³.**
+**Art. 3283.**
 
 § 1. Rejestr akcjonariuszy zawiera:
 
 - **1)** firmę, siedzibę i adres spółki;
 - **2)** oznaczenie sądu rejestrowego i numer, pod którym spółka jest wpisana do rejestru;
 - **3)** datę zarejestrowania spółki i emisji akcji;
-- **4)** wartość nominalną, serię i numer, rodzaj danej akcji i uprawnienia szczególne z akcji; [5) nazwisko i imię albo firmę (nazwę) akcjonariusza oraz adres jego zamieszkania albo siedziby albo inny adres do doręczeń albo adres do doręczeń elektronicznych, a także adres poczty elektronicznej, jeżeli akcjonariusz wyraził zgodę na komunikację w stosunkach ze spółką i podmiotem prowadzącym rejestr akcjonariuszy przy wykorzystaniu poczty elektronicznej;] <5) nazwisko, imię, numer PESEL albo datę urodzenia akcjonariusza, a w przypadku osoby niebędącej osobą fizyczną ‒ firmę (nazwę) oraz numer akcjonariusza we właściwym rejestrze i nazwę tego rejestru; jeżeli akcjonariusz jest wpisany do rejestru ‒ adres jego zamieszkania albo siedziby albo inny adres do doręczeń albo adres do doręczeń elektronicznych, a także adres poczty elektronicznej, jeżeli akcjonariusz wyraził zgodę na komunikację przy wykorzystaniu poczty elektronicznej w stosunkach ze spółką i podmiotem prowadzącym rejestr akcjonariuszy; w przypadku współwłasności akcji także imię, nazwisko albo firmę (nazwę) pozostałych współwłaścicieli, rodzaj współwłasności, a w przypadku współwłasności w częściach ułamkowych ‒ wielkość udziału akcjonariusza;> [6) na żądanie osoby mającej interes prawny – wpis o przejściu akcji lub praw zastawniczych na inną osobę albo o ustanowieniu na akcji ograniczonego prawa rzeczowego wraz z datą wpisu oraz wskazaniem nabywcy albo zastawnika lub użytkownika, adresu ich zamieszkania albo siedziby lub innych adresów do doręczeń albo adresów do doręczeń elektronicznych, a także adresu poczty elektronicznej, jeżeli osoby te wyraziły zgodę na komunikację w stosunkach ze spółką i podmiotem prowadzącym rejestr akcjonariuszy przy wykorzystaniu poczty elektronicznej oraz liczby, rodzaju, serii i numerów nabytych albo obciążonych akcji;] <6) na żądanie osoby mającej interes prawny – wpis o przejściu akcji lub praw zastawniczych na inną osobę albo ustanowieniu na akcji ograniczonego prawa rzeczowego wraz z datą wpisu oraz ze wskazaniem następujących danych:
-    - **a)** nazwiska, imienia, numeru PESEL albo daty urodzenia nabywcy albo zastawnika lub użytkownika, a w przypadku osoby niebędącej osobą fizyczną ‒ firmy (nazwy), numeru we właściwym rejestrze oraz nazwy tego rejestru w przypadku gdy osoba ta jest wpisana do rejestru,
-    - **b)** adresu zamieszkania albo siedziby albo innych adresów do doręczeń albo adresów do doręczeń elektronicznych nabywcy albo zastawnika lub użytkownika, a także adresu poczty elektronicznej, jeżeli osoba ta wyraziła zgodę na komunikację przy wykorzystaniu poczty elektronicznej w stosunkach ze spółką i podmiotem prowadzącym rejestr akcjonariuszy,
-    - **c)** liczby, rodzaju, serii i numerów nabytych albo obciążonych akcji;>
-
+- **4)** wartość nominalną, serię i numer, rodzaj danej akcji i uprawnienia szczególne z akcji;
+- **5)** nazwisko i imię albo firmę (nazwę) akcjonariusza oraz adres jego zamieszkania albo siedziby albo inny adres do doręczeń albo adres do doręczeń elektronicznych, a także adres poczty elektronicznej, jeżeli akcjonariusz wyraził zgodę na komunikację w stosunkach ze spółką i podmiotem prowadzącym rejestr akcjonariuszy przy wykorzystaniu poczty elektronicznej;
+- **6)** na żądanie osoby mającej interes prawny – wpis o przejściu akcji lub praw zastawniczych na inną osobę albo o ustanowieniu na akcji ograniczonego prawa rzeczowego wraz z datą wpisu oraz wskazaniem nabywcy albo zastawnika lub użytkownika, adresu ich zamieszkania albo siedziby lub innych adresów do doręczeń albo adresów do doręczeń elektronicznych, a także adresu poczty elektronicznej, jeżeli osoby te wyraziły zgodę na komunikację w stosunkach ze spółką i podmiotem prowadzącym rejestr akcjonariuszy przy wykorzystaniu poczty elektronicznej oraz liczby, rodzaju, serii i numerów nabytych albo obciążonych akcji;
 - **7)** na żądanie zastawnika albo użytkownika – wpis, że przysługuje mu prawo wykonywania prawa głosu z obciążonej akcji;
 - **8)** na żądanie akcjonariusza – wpis o wykreśleniu obciążenia jego akcji ograniczonym prawem rzeczowym;
 - **9)** wzmiankę o tym, czy akcje zostały w całości pokryte;
@@ -3830,29 +3980,33 @@ Art. 596–609. (pominięte)
 
 § 2. Statut może zawierać dodatkowe postanowienia dotyczące informacji ujawnianych w rejestrze akcjonariuszy.
 
-§ 3. Jeżeli umowa o prowadzenie rejestru akcjonariuszy tak stanowi, rejestr akcjonariuszy może, zamiast danych, o których mowa w § 1 pkt 1–4, 10 i 11, zawierać odrębne oznaczenie, o którym mowa w art. 55 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi. W takim przypadku dane, o których mowa w § 1 pkt 6, nie obejmują rodzaju, serii i numerów nabytych albo obciążonych akcji, lecz ich odrębne oznaczenie. <§ 4. Wszelkie zmiany danych, o których mowa w § 1 pkt 1‒4 oraz 9‒11, zarząd zgłasza podmiotowi prowadzącemu rejestr akcjonariuszy w terminie siedmiu dni od dnia wystąpienia zdarzenia uzasadniającego dokonanie wpisu.>
+§ 3. Jeżeli umowa o prowadzenie rejestru akcjonariuszy tak stanowi, rejestr akcjonariuszy może, zamiast danych, o których mowa w § 1 pkt 1–4, 10 i 11, zawierać odrębne oznaczenie, o którym mowa w art. 55 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi. W takim przypadku dane, o których mowa w § 1 pkt 6, nie obejmują rodzaju, serii i numerów nabytych albo obciążonych akcji, lecz ich odrębne oznaczenie.
 
-**Art. 328⁴.**
+**Art. 3284.**
 
 § 1. Podmiot prowadzący rejestr akcjonariuszy dokonuje wpisu w rejestrze akcjonariuszy, na żądanie spółki lub osoby mającej interes prawny w dokonaniu wpisu, niezwłocznie, ale nie później niż w terminie tygodnia od dnia otrzymania żądania. Jeżeli dokonanie wpisu wymaga usunięcia przeszkody, wpis powinien być dokonany w terminie tygodnia od dnia jej usunięcia.
 
-§ 2. W przypadku zajęcia praw majątkowych akcjonariusza przez komornika sądowego w trybie art. 911 § 2 Kodeksu postępowania cywilnego, a także w przypadku przekazania zawiadomienia przez organ egzekucyjny w trybie art. 95a pkt 2 lit. b ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji albo wniosku w trybie art. 95f § 2 tej ustawy, ujawnienie w rejestrze akcjonariuszy zajęcia praw majątkowych akcjonariusza następuje z urzędu i jest wolne od opłat.
+§ 2. W przypadku zajęcia praw majątkowych akcjonariusza przez komornika sądowego w trybie art. 9113 § 2 Kodeksu postępowania cywilnego, a także w przypadku przekazania zawiadomienia przez organ egzekucyjny w trybie art. 95a pkt 2 lit. b ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji albo wniosku w trybie art. 95f § 2 tej ustawy, ujawnienie w rejestrze akcjonariuszy zajęcia praw majątkowych akcjonariusza następuje z urzędu i jest wolne od opłat.
 
-§ 3. Przed wpisem w rejestrze akcjonariuszy, z wyłączeniem przypadku, o którym mowa w § 2, podmiot prowadzący rejestr akcjonariuszy powiadamia o treści zamierzonego wpisu osobę, której uprawnienia mają być wykreślone, zmienione lub obciążone przez wpis, chyba że wyraziła ona zgodę na wpis. <Zgodę na wpis składa się w formie pisemnej z podpisem notarialnie poświadczonym albo w formie pisemnej w obecności osoby upoważnionej przez podmiot prowadzący rejestr akcjonariuszy, która potwierdza swoją obecność podpisem, albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.> § 4. Osoba żądająca wpisu jest obowiązana przedłożyć podmiotowi prowadzącemu rejestr akcjonariuszy dokumenty uzasadniające dokonanie wpisu. Podstawę dokonania wpisu stanowi także oświadczenie akcjonariusza o zobowiązaniu do przeniesienia akcji albo obciążenia akcji ograniczonym prawem rzeczowym.
+§ 3. Przed wpisem w rejestrze akcjonariuszy, z wyłączeniem przypadku, o którym mowa w § 2, podmiot prowadzący rejestr akcjonariuszy powiadamia o treści zamierzonego wpisu osobę, której uprawnienia mają być wykreślone, zmienione lub obciążone przez wpis, chyba że wyraziła ona zgodę na wpis.
+
+§ 4. Osoba żądająca wpisu jest obowiązana przedłożyć podmiotowi prowadzącemu rejestr akcjonariuszy dokumenty uzasadniające dokonanie wpisu. Podstawę dokonania wpisu stanowi także oświadczenie akcjonariusza o zobowiązaniu do przeniesienia akcji albo obciążenia akcji ograniczonym prawem rzeczowym.
 
 § 5. Podmiot prowadzący rejestr akcjonariuszy bada treść i formę dokumentów uzasadniających dokonanie wpisu. Podmiot ten nie ma jednak obowiązku badania zgodności z prawem oraz prawdziwości dokumentów uzasadniających dokonanie wpisu, w tym podpisów zbywcy akcji lub osób ustanawiających ograniczone prawo rzeczowe na akcji, chyba że poweźmie w tym względzie uzasadnione wątpliwości.
 
 § 6. Przy dokonywaniu wpisów do rejestru akcjonariuszy podmiot prowadzący rejestr akcjonariuszy uwzględnia ograniczenia co do rozporządzania akcją.
 
-§ 7. O dokonanym wpisie podmiot prowadzący rejestr akcjonariuszy niezwłocznie powiadamia osobę żądającą wpisu oraz spółkę. W przypadku niedokonania wpisu podmiot prowadzący rejestr akcjonariuszy niezwłocznie powiadamia o tym osobę żądającą wpisu, podając przyczyny niedokonania wpisu. <§ 8. Powiadomienia, o których mowa w § 3 zdanie pierwsze oraz § 7 zdanie pierwsze, mogą być automatycznie przesyłane na żądanie ich adresata za pośrednictwem systemu teleinformatycznego podmiotu prowadzącego rejestr akcjonariuszy na konto adresata w tym systemie lub wskazany przez niego adres poczty elektronicznej, adres do doręczeń elektronicznych lub inny adres umożliwiający odbiór korespondencji w postaci elektronicznej.>
+§ 7. O dokonanym wpisie podmiot prowadzący rejestr akcjonariuszy niezwłocznie powiadamia osobę żądającą wpisu oraz spółkę. W przypadku niedokonania wpisu podmiot prowadzący rejestr akcjonariuszy niezwłocznie powiadamia o tym osobę żądającą wpisu, podając przyczyny niedokonania wpisu.
 
-**Art. 328⁵.**
+**Art. 3285.**
 
-§ 1. Rejestr akcjonariuszy jest jawny dla spółki i każdego akcjonariusza. <§ 1 . Informacji o numerze PESEL, dacie urodzenia ani adresie zamieszkania akcjonariusza nie udostępnia się pozostałym akcjonariuszom.> § 2. Podmioty, o których mowa w § 1, mają prawo dostępu do danych zawartych w rejestrze akcjonariuszy za pośrednictwem podmiotu prowadzącego rejestr akcjonariuszy.
+§ 1. Rejestr akcjonariuszy jest jawny dla spółki i każdego akcjonariusza.
 
-§ 3. Podmioty, o których mowa w § 1, mają prawo żądać wydania, w postaci papierowej lub elektronicznej, informacji z rejestru akcjonariuszy. <§ 4. Przepisy § 1, 2 i 3 stosuje się odpowiednio do sądów, prokuratury, komorników sądowych oraz administracyjnych organów egzekucyjnych w związku z toczącymi się przed nimi postępowaniami.>
+§ 2. Podmioty, o których mowa w § 1, mają prawo dostępu do danych zawartych w rejestrze akcjonariuszy za pośrednictwem podmiotu prowadzącego rejestr akcjonariuszy.
 
-**Art. 328⁶.**
+§ 3. Podmioty, o których mowa w § 1, mają prawo żądać wydania, w postaci papierowej lub elektronicznej, informacji z rejestru akcjonariuszy.
+
+**Art. 3286.**
 
 § 1. Na żądanie akcjonariusza albo zastawnika albo użytkownika uprawnionego do wykonywania prawa głosu z akcji podmiot prowadzący rejestr akcjonariuszy wystawia imienne świadectwo rejestrowe (świadectwo rejestrowe).
 
@@ -3860,7 +4014,7 @@ Art. 596–609. (pominięte)
 
 § 3. Podmiot prowadzący rejestr akcjonariuszy jest obowiązany wydać dokument świadectwa rejestrowego niezwłocznie, nie później jednak niż w terminie tygodnia od dnia zgłoszenia żądania.
 
-§ 4. Na każdy rodzaj akcji wystawia się odrębne świadectwo rejestrowe. W przypadku, o którym mowa w art. 328 § 3, odrębne świadectwa rejestrowe wystawia się na akcje oznaczone poszczególnymi odrębnymi oznaczeniami, o których mowa w art. 55 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
+§ 4. Na każdy rodzaj akcji wystawia się odrębne świadectwo rejestrowe. W przypadku, o którym mowa w art. 3283 § 3, odrębne świadectwa rejestrowe wystawia się na akcje oznaczone poszczególnymi odrębnymi oznaczeniami, o których mowa w art. 55 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
 
 § 5. Świadectwo rejestrowe zawiera:
 
@@ -3877,20 +4031,20 @@ Art. 596–609. (pominięte)
 - **11)** wskazanie, że jest to nowy dokument świadectwa rejestrowego, w przypadku gdy poprzednio wystawione świadectwo rejestrowe, dotyczące tych samych akcji, było nieważne albo dokument został zniszczony lub utracony przed upływem terminu swojej ważności;
 - **12)** podpis osoby upoważnionej do wystawienia w imieniu wystawiającego świadectwa rejestrowego.
 
-§ 6. Dokument świadectwa rejestrowego wystawiony z naruszeniem § 5 pkt 1– 6, 8, 10 lub 12 jest nieważny. Brak podpisu, o którym mowa w § 5 pkt 12, nie powoduje nieważności, jeżeli dokument świadectwa rejestrowego został wystawiony przy zachowaniu formy dokumentowej.
+§ 6. Dokument świadectwa rejestrowego wystawiony z naruszeniem § 5 pkt 1–6, 8, 10 lub 12 jest nieważny. Brak podpisu, o którym mowa w § 5 pkt 12, nie powoduje nieważności, jeżeli dokument świadectwa rejestrowego został wystawiony przy zachowaniu formy dokumentowej.
 
-**Art. 328⁷.**
+**Art. 3287.**
 
 § 1. Akcje w liczbie wskazanej w treści świadectwa rejestrowego nie mogą być przedmiotem rozporządzeń od chwili jego wystawienia do chwili utraty jego ważności albo zwrotu świadectwa rejestrowego wystawiającemu przed upływem terminu jego ważności. Na okres ten wystawiający dokonuje blokady odpowiedniej liczby akcji w rejestrze akcjonariuszy.
 
 § 2. W okresie, o którym mowa w § 1, te same akcje mogą być wskazane w treści kilku świadectw rejestrowych, pod warunkiem że cel wystawienia każdego ze świadectw rejestrowych jest odmienny. W kolejnych świadectwach rejestrowych zamieszcza się informację o dokonaniu blokady akcji w związku z wcześniejszym wystawieniem innych świadectw rejestrowych.
 
-**Art. 328⁸.**
+**Art. 3288.**
 
 § 1. Utratę ważności świadectwa rejestrowego powoduje:
 
 - **1)** upływ terminu jego ważności;
-- **2)** przeniesienie akcji obciążonych zastawem w celu zaspokojenia zastawnika – w przypadku świadectwa rejestrowego dotyczącego tych akcji, wystawionego zastawcy; <2 ) wygaśnięcie zastawu z innej przyczyny niż wskazana w pkt 2 ‒ w przypadku świadectwa rejestrowego dotyczącego tych akcji, wystawionego zastawnikowi;>
+- **2)** przeniesienie akcji obciążonych zastawem w celu zaspokojenia zastawnika – w przypadku świadectwa rejestrowego dotyczącego tych akcji, wystawionego zastawcy;
 - **3)** przeniesienie akcji w postępowaniu egzekucyjnym – w przypadku świadectwa rejestrowego dotyczącego akcji objętych egzekucją, wystawionego dłużnikowi;
 - **4)** dokonanie przymusowego wykupu akcji – w przypadku świadectwa rejestrowego dotyczącego akcji objętych przymusowym wykupem;
 - **5)** zniszczenie lub utrata dokumentu świadectwa rejestrowego.
@@ -3899,37 +4053,42 @@ Art. 596–609. (pominięte)
 
 § 3. W przypadku utraty ważności świadectwa rejestrowego z przyczyny określonej w § 1 pkt 5, na żądanie akcjonariusza albo zastawnika albo użytkownika uprawnionego do wykonywania prawa głosu, zgłoszone przed upływem terminu ważności wskazanego w zniszczonym lub utraconym dokumencie świadectwa rejestrowego, podmiot prowadzący rejestr akcjonariuszy wystawia nowy dokument świadectwa rejestrowego, po złożeniu przez tę osobę oświadczenia o fakcie i okoliczności zniszczenia lub utraty dokumentu świadectwa rejestrowego.
 
-**Art. 328⁹.**
+**Art. 3289.**
 
-§ 1. Nabycie akcji albo ustanowienie na niej ograniczonego prawa rzeczowego następuje z chwilą dokonania w rejestrze akcjonariuszy wpisu wskazującego nabywcę albo zastawnika albo użytkownika, liczbę oraz rodzaj, serie i numery albo odrębne oznaczenia, o których mowa w art. 55 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, nabytych albo obciążonych akcji. [§ 2. Przepisu § 1 nie stosuje się w przypadku objęcia akcji, z wyjątkiem art. 452 § 1, a także powołania do spadku, zapisu windykacyjnego, wniesienia akcji jako wkładu niepieniężnego do spółki, połączenia, podziału lub przekształcenia spółki lub zajścia innego zdarzenia prawnego powodującego z mocy prawa przejście akcji lub ustanowionego na niej ograniczonego prawa rzeczowego na inną osobę. Przepis art. 343 § 1 stosuje się.] <§ 2. Przepisu § 1 nie stosuje się w przypadku objęcia akcji, z wyjątkiem art. 452 § 1, a także powołania do spadku, zapisu windykacyjnego, wniesienia akcji jako wkładu niepieniężnego do spółki, połączenia, podziału lub przekształcenia spółki lub zajścia innego zdarzenia prawnego powodującego z mocy prawa przejście akcji lub ustanowionego na niej ograniczonego prawa rzeczowego na inną osobę albo ustanowienia na akcji ograniczonego prawa rzeczowego w wyniku wpisu w rejestrze, o którym mowa w art. 43 § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, albo w rejestrze, o którym mowa w ustawie z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów. Przepis art. 343 § 1 stosuje się.> § 3. W przypadku objęcia akcji wpis do rejestru akcjonariuszy może nastąpić po wpisie spółki do rejestru albo wpisie do rejestru podwyższenia kapitału zakładowego.
+§ 1. Nabycie akcji albo ustanowienie na niej ograniczonego prawa rzeczowego następuje z chwilą dokonania w rejestrze akcjonariuszy wpisu wskazującego nabywcę albo zastawnika albo użytkownika, liczbę oraz rodzaj, serie i numery albo odrębne oznaczenia, o których mowa w art. 55 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, nabytych albo obciążonych akcji.
 
-**Art. 328¹⁰.** Spółka wykonuje zobowiązania pieniężne spółki wobec akcjonariuszy z przysługujących im praw z akcji za pośrednictwem podmiotu prowadzącego rejestr akcjonariuszy, chyba że statut stanowi inaczej.
+§ 2. Przepisu § 1 nie stosuje się w przypadku objęcia akcji, z wyjątkiem art. 452 § 1, a także powołania do spadku, zapisu windykacyjnego, wniesienia akcji jako wkładu niepieniężnego do spółki, połączenia, podziału lub przekształcenia spółki lub zajścia innego zdarzenia prawnego powodującego z mocy prawa przejście akcji lub ustanowionego na niej ograniczonego prawa rzeczowego na inną osobę. Przepis art. 343 § 1 stosuje się.
 
-**Art. 328¹¹.**
+§ 3. W przypadku objęcia akcji wpis do rejestru akcjonariuszy może nastąpić po wpisie spółki do rejestru albo wpisie do rejestru podwyższenia kapitału zakładowego.
+
+**Art. 32810.** Spółka wykonuje zobowiązania pieniężne spółki wobec akcjonariuszy z przysługujących im praw z akcji za pośrednictwem podmiotu prowadzącego rejestr akcjonariuszy, chyba że statut stanowi inaczej.
+
+**Art. 32811.**
 
 § 1. Jeżeli uchwała walnego zgromadzenia tak stanowi, akcje spółki niebędącej spółką publiczną podlegają zarejestrowaniu w depozycie papierów wartościowych w rozumieniu art. 3 pkt 21 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, zwanym dalej „depozytem papierów wartościowych”.
 
-§ 2. Dematerializację akcji spółki niebędącej spółką publiczną, które mają być zarejestrowane w depozycie papierów wartościowych, oraz spółki publicznej, a także wynikające stąd skutki prawne dla spółki i akcjonariusza, reguluje ustawa z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi. <§ 3. Przepisy art. 328 § 1 –1 stosuje się odpowiednio.>
+§ 2. Dematerializację akcji spółki niebędącej spółką publiczną, które mają być zarejestrowane w depozycie papierów wartościowych, oraz spółki publicznej, a także wynikające stąd skutki prawne dla spółki i akcjonariusza, reguluje ustawa z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
 
-**Art. 328¹².** Akcje tej samej spółki nie mogą być zarejestrowane jednocześnie w rejestrze akcjonariuszy i depozycie papierów wartościowych.
+**Art. 32812.** Akcje tej samej spółki nie mogą być zarejestrowane jednocześnie w rejestrze akcjonariuszy i depozycie papierów wartościowych.
 
-**Art. 328¹³.**
+**Art. 32813.**
 
-§ 1. Na żądanie spółki niebędącej spółką publiczną, której akcje są zarejestrowane w depozycie papierów wartościowych lub na żądanie jej akcjonariusza, podmioty prowadzące rachunki papierów wartościowych, są obowiązane udostępnić, za pośrednictwem Krajowego Depozytu Papierów Wartościowych S.A., następujące informacje: [1) imiona i nazwiska albo firmy (nazwy), miejsca zamieszkania albo siedziby oraz adresy albo adresy do doręczeń akcjonariuszy spółki;] <1) imiona i nazwiska albo firmy (nazwy), miejsca zamieszkania albo siedziby oraz adresy albo adresy do doręczeń akcjonariuszy spółki, przy czym informacji o adresie zamieszkania akcjonariusza nie udostępnia się pozostałym akcjonariuszom;>
+§ 1. Na żądanie spółki niebędącej spółką publiczną, której akcje są zarejestrowane w depozycie papierów wartościowych lub na żądanie jej akcjonariusza, podmioty prowadzące rachunki papierów wartościowych, są obowiązane udostępnić, za pośrednictwem Krajowego Depozytu Papierów Wartościowych S.A., następujące informacje:
 
+- **1)** imiona i nazwiska albo firmy (nazwy), miejsca zamieszkania albo siedziby oraz adresy albo adresy do doręczeń akcjonariuszy spółki;
 - **2)** liczbę oraz odrębne oznaczenia, o których mowa w art. 55 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, akcji spółki posiadanych przez poszczególnych akcjonariuszy;
 - **3)** informację o ustanowieniu zastawu albo użytkowania na akcjach spółki, ze wskazaniem liczby i odrębnych oznaczeń, o których mowa w art. 55 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, akcji objętych tym prawem oraz zastawnika albo użytkownika;
 - **4)** informację, czy na rachunku papierów wartościowych dokonano wzmianki o upoważnieniu zastawnika albo użytkownika do wykonywania prawa głosu z obciążonych akcji.
 
 § 2. W zakresie, w jakim żądanie, o którym mowa w § 1, dotyczy akcji rejestrowanych na rachunkach zbiorczych, w rozumieniu art. 8a ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, podmioty prowadzące te rachunki są obowiązane udostępnić, za pośrednictwem Krajowego Depozytu Papierów Wartościowych S.A., informacje o ogólnej liczbie oraz odrębnych oznaczeniach, o których mowa w art. 55 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, akcji zapisanych na tych rachunkach.
 
-§ 3. Żądanie, o którym mowa w § 1, spółka składa do Krajowego Depozytu Papierów Wartościowych S.A., a jej akcjonariusz do podmiotu prowadzącego dla niego rachunek papierów wartościowych. <W żądaniu określa się dzień, według stanu na który mają zostać sporządzone informacje, o których mowa w § 1, przypadający niewcześniej niż dzień złożenia żądania.> § 4. Jeżeli żądanie, o którym mowa w § 1, dotyczy akcji rejestrowanych na rachunkach zbiorczych, akcjonariusz składa je do podmiotu prowadzącego rachunek zbiorczy w rozumieniu art. 8a ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi za pośrednictwem posiadacza tego rachunku. W takim przypadku złożenie żądania wymaga jednoczesnego wskazania żądającego przez posiadacza rachunku zbiorczego, jako osoby uprawnionej z akcji, których dotyczy żądanie, zgodnie z art. 8a ust. 4 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi. <§ 5. W terminie sześciu dni roboczych od dnia złożenia żądania, o którym mowa w § 1, Krajowy Depozyt Papierów Wartościowych S.A. udostępnia spółce niebędącej spółką publiczną lub jej akcjonariuszowi, przy wykorzystaniu środków komunikacji elektronicznej, informacje, o których mowa w § 1, otrzymane od podmiotów prowadzących rachunki papierów wartościowych, a także sporządzone na podstawie zapisów na rachunkach papierów wartościowych oraz rachunkach zbiorczych prowadzonych przez Krajowy Depozyt Papierów Wartościowych S.A.
+§ 3. Żądanie, o którym mowa w § 1, spółka składa do Krajowego Depozytu Papierów Wartościowych S.A., a jej akcjonariusz do podmiotu prowadzącego dla niego rachunek papierów wartościowych.
 
-§ 6. Przepisy § 1‒5 w zakresie dotyczącym Krajowego Depozytu Papierów Wartościowych S.A. stosuje się odpowiednio do spółki, której Krajowy Depozyt Papierów Wartościowych S.A. przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.>
+§ 4. Jeżeli żądanie, o którym mowa w § 1, dotyczy akcji rejestrowanych na rachunkach zbiorczych, akcjonariusz składa je do podmiotu prowadzącego rachunek zbiorczy w rozumieniu art. 8a ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi za pośrednictwem posiadacza tego rachunku. W takim przypadku złożenie żądania wymaga jednoczesnego wskazania żądającego przez posiadacza rachunku zbiorczego, jako osoby uprawnionej z akcji, których dotyczy żądanie, zgodnie z art. 8a ust. 4 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
 
-**Art. 328¹⁴.** Do spółki niebędącej spółką publiczną, której akcje są zarejestrowane w depozycie papierów wartościowych, stosuje się przepisy o organizacji walnego zgromadzenia spółki publicznej. W odniesieniu do takiej spółki nie stosuje się przewidzianego w art. 402 § 1 wymogu zwołania walnego zgromadzenia w sposób określony dla przekazywania informacji bieżących zgodnie z przepisami o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych.
+**Art. 32814.** Do spółki niebędącej spółką publiczną, której akcje są zarejestrowane w depozycie papierów wartościowych, stosuje się przepisy o organizacji walnego zgromadzenia spółki publicznej. W odniesieniu do takiej spółki nie stosuje się przewidzianego w art. 4021 § 1 wymogu zwołania walnego zgromadzenia w sposób określony dla przekazywania informacji bieżących zgodnie z przepisami o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych.
 
-**Art. 328¹⁵.** Do spółki niebędącej spółką publiczną, której co najmniej jedna akcja jest dopuszczona do obrotu na rynku regulowanym na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej lub państwa będącego stroną umowy o Europejskim Obszarze Gospodarczym, stosuje się odpowiednio przepisy o organizacji walnego zgromadzenia spółki publicznej.
+**Art. 32815.** Do spółki niebędącej spółką publiczną, której co najmniej jedna akcja jest dopuszczona do obrotu na rynku regulowanym na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej lub państwa będącego stroną umowy o Europejskim Obszarze Gospodarczym, stosuje się odpowiednio przepisy o organizacji walnego zgromadzenia spółki publicznej.
 
 **Art. 329.**
 
@@ -3957,9 +4116,15 @@ Art. 596–609. (pominięte)
 
 § 2. Pozbawienie akcjonariusza praw udziałowych wymaga uchwały zarządu. Statut może stanowić, że uchwała zarządu w sprawie pozbawienia akcjonariusza praw udziałowych wymaga zgody rady nadzorczej.
 
-§ 3. (uchylony) § 4. (uchylony) § 5. (uchylony) § 6. (uchylony)
+§ 3. (uchylony)
 
-**Art. 331¹.**
+§ 4. (uchylony)
+
+§ 5. (uchylony)
+
+§ 6. (uchylony)
+
+**Art. 3311.**
 
 § 1. W przypadku zamiaru pozbawienia akcjonariusza jego praw udziałowych spółka wzywa go do spełnienia świadczenia i wyznacza mu na to dodatkowy termin. Wezwanie należy wysłać listem poleconym, na adres do doręczeń elektronicznych, przesyłką nadaną pocztą kurierską lub pocztą elektroniczną na adres wskazany w rejestrze akcjonariuszy oraz udostępnić informację o wezwaniu na stronie internetowej spółki w miejscu wydzielonym na komunikację z akcjonariuszami przez okres od dnia wysłania wezwania do dnia upływu dodatkowego terminu. Dodatkowy termin nie może być krótszy niż dwa tygodnie od dnia doręczenia wezwania.
 
@@ -3969,7 +4134,7 @@ Art. 596–609. (pominięte)
 
 § 4. O pozbawieniu akcjonariusza jego praw udziałowych spółka zawiadamia akcjonariusza oraz jego prawnych poprzedników, którzy w ciągu ostatnich trzech lat byli wpisani do rejestru akcjonariuszy. Zawiadomienia należy wysłać listem poleconym, przesyłką nadaną pocztą kurierską, na adres do doręczeń elektronicznych lub pocztą elektroniczną na adres wskazany w rejestrze akcjonariuszy. Spółka udostępnia informację o pozbawieniu akcjonariusza jego praw udziałowych na stronie internetowej spółki w miejscu wydzielonym na komunikację z akcjonariuszami przez okres trzech miesięcy od dnia wysłania zawiadomienia.
 
-**Art. 331².**
+**Art. 3312.**
 
 § 1. Po udostępnieniu informacji o pozbawieniu akcjonariusza jego praw udziałowych spółka jest obowiązana sprzedać niezwłocznie te prawa udziałowe.
 
@@ -3981,7 +4146,7 @@ Art. 596–609. (pominięte)
 
 **Art. 332.** (uchylony)
 
-**Art. 332¹.** (uchylony)
+**Art. 3321.** (uchylony)
 
 **Art. 333.**
 
@@ -3991,9 +4156,13 @@ Art. 596–609. (pominięte)
 
 § 3. Jeżeli współuprawnieni nie wskazali wspólnego przedstawiciela, oświadczenia spółki mogą być dokonywane wobec któregokolwiek z nich.
 
-§ 4. Statut może ograniczyć lub wyłączyć wstąpienie do spółki współmałżonka akcjonariusza w przypadku, gdy akcja jest objęta wspólnością majątkową małżeńską. [Art. 334. § 1. Akcje mogą być imienne lub na okaziciela.
+§ 4. Statut może ograniczyć lub wyłączyć wstąpienie do spółki współmałżonka akcjonariusza w przypadku, gdy akcja jest objęta wspólnością majątkową małżeńską.
 
-§ 2. Zamiana akcji imiennych na akcje na okaziciela albo odwrotnie może być dokonana na żądanie akcjonariusza, jeżeli ustawa lub statut nie stanowi inaczej.]
+**Art. 334.**
+
+§ 1. Akcje mogą być imienne lub na okaziciela.
+
+§ 2. Zamiana akcji imiennych na akcje na okaziciela albo odwrotnie może być dokonana na żądanie akcjonariusza, jeżeli ustawa lub statut nie stanowi inaczej.
 
 **Art. 335.** (uchylony)
 
@@ -4001,9 +4170,13 @@ Art. 596–609. (pominięte)
 
 **Art. 337.**
 
-§ 1. Akcje są zbywalne. [§ 2. Statut może uzależnić rozporządzenie akcjami imiennymi od zgody spółki albo w inny sposób ograniczyć możliwość rozporządzenia akcjami imiennymi.] <§ 2. Statut może uzależnić rozporządzenie akcjami od zgody spółki albo w inny sposób ograniczyć możliwość rozporządzenia akcjami. Nie dotyczy to akcji dopuszczonych do obrotu na rynku regulowanym albo wprowadzonych do obrotu w alternatywnym systemie obrotu.> <§ 2 . Akcje, o których mowa w § 2 zdanie pierwsze, oznacza się w statucie przez podanie ich liczby oraz odrębnego oznaczenia, o którym mowa w art. 55 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, a jeżeli nie zostało im nadane odrębne oznaczenie, oznacza się je przez podanie ich serii i numerów.> § 3. W przypadku gdy statut uzależnia przeniesienie akcji od zgody spółki, zgody udziela zarząd w formie pisemnej pod rygorem nieważności, jeżeli statut nie stanowi inaczej.
+§ 1. Akcje są zbywalne.
 
-§ 4. Jeżeli spółka odmawia zgody na przeniesienie akcji, powinna wskazać innego nabywcę. Termin do wskazania nabywcy, cenę albo sposób jej określenia oraz termin zapłaty określa statut. W przypadku braku tych postanowień akcja [imienna] może być zbyta bez ograniczenia. Termin do wskazania nabywcy nie może być dłuższy niż dwa miesiące od dnia zgłoszenia spółce zamiaru przeniesienia akcji.
+§ 2. Statut może uzależnić rozporządzenie akcjami imiennymi od zgody spółki albo w inny sposób ograniczyć możliwość rozporządzenia akcjami imiennymi.
+
+§ 3. W przypadku gdy statut uzależnia przeniesienie akcji od zgody spółki, zgody udziela zarząd w formie pisemnej pod rygorem nieważności, jeżeli statut nie stanowi inaczej.
+
+§ 4. Jeżeli spółka odmawia zgody na przeniesienie akcji, powinna wskazać innego nabywcę. Termin do wskazania nabywcy, cenę albo sposób jej określenia oraz termin zapłaty określa statut. W przypadku braku tych postanowień akcja imienna może być zbyta bez ograniczenia. Termin do wskazania nabywcy nie może być dłuższy niż dwa miesiące od dnia zgłoszenia spółce zamiaru przeniesienia akcji.
 
 § 5. Zbycie akcji w postępowaniu egzekucyjnym nie wymaga zgody spółki.
 
@@ -4105,9 +4278,17 @@ Art. 596–609. (pominięte)
 
 § 2. Roszczenia, o których mowa w § 1, przedawniają się z upływem trzech lat, licząc od dnia wypłaty, z wyjątkiem wierzytelności w stosunku do odbiorcy, który wiedział o bezprawności świadczenia.
 
-**Art. 351.** [§ 1. Jeżeli statut przewiduje akcje o szczególnych uprawnieniach, uprawnienia te powinny być określone w statucie (akcje uprzywilejowane). Akcje uprzywilejowane, z wyjątkiem akcji niemych, powinny być imienne.] <§ 1. Jeżeli statut przewiduje akcje o szczególnych uprawnieniach, uprawnienia te określa się w statucie (akcje uprzywilejowane). Akcje uprzywilejowane oznacza się w statucie przez podanie ich liczby oraz odrębnego oznaczenia, o którym mowa w art. 55 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, a jeżeli nie zostało im nadane odrębne oznaczenie, oznacza się je przez podanie ich serii i numerów.> § 2. Uprzywilejowanie, o którym mowa w § 1, może dotyczyć w szczególności prawa głosu, prawa do dywidendy lub podziału majątku w przypadku likwidacji spółki. Uprzywilejowanie w zakresie prawa głosu nie dotyczy spółki publicznej.
+**Art. 351.**
 
-**Art. 352.** Jednej akcji nie można przyznać więcej niż dwa głosy. [W przypadku zamiany takiej akcji na akcję na okaziciela lub w razie jej zbycia wbrew zastrzeżonym warunkom uprzywilejowanie to wygasa.] <W przypadku jej zbycia wbrew zastrzeżonym warunkom uprzywilejowanie to wygasa.>
+§ 1. Jeżeli statut przewiduje akcje o szczególnych uprawnieniach, uprawnienia te powinny być określone w statucie (akcje uprzywilejowane). Akcje uprzywilejowane, z wyjątkiem akcji niemych, powinny być imienne.
+
+§ 2. Uprzywilejowanie, o którym mowa w § 1, może dotyczyć w szczególności prawa głosu, prawa do dywidendy lub podziału majątku w przypadku likwidacji spółki. Uprzywilejowanie w zakresie prawa głosu nie dotyczy spółki publicznej.
+
+§ 3. Statut może uzależniać przyznanie szczególnych uprawnień od spełnienia dodatkowych świadczeń na rzecz spółki, upływu terminu lub ziszczenia się warunku.
+
+§ 4. Akcjonariusz może wykonywać przyznane mu szczególne uprawnienia związane z akcją uprzywilejowaną po zakończeniu roku obrotowego, w którym wniósł w pełni swój wkład na pokrycie kapitału zakładowego.
+
+**Art. 352.** Jednej akcji nie można przyznać więcej niż dwa głosy. W przypadku zamiany takiej akcji na akcję na okaziciela lub w razie jej zbycia wbrew zastrzeżonym warunkom uprzywilejowanie to wygasa.
 
 **Art. 353.**
 
@@ -4139,7 +4320,15 @@ Art. 596–609. (pominięte)
 
 § 3. Wynagrodzenie za usługi lub inne świadczenia spełnione na rzecz spółki przez założycieli, akcjonariuszy, a także spółki i spółdzielnie z nimi powiązane albo pozostające w stosunku zależności bądź dominacji, nie może przewyższać zwykłego wynagrodzenia przyjętego w obrocie.
 
-**Art. 356.** [§ 1. Z akcją imienną może być związany obowiązek powtarzających się świadczeń niepieniężnych.] <§ 1. Z akcją może być związany obowiązek powtarzających się świadczeń niepieniężnych. Akcje takie oznacza się w statucie przez podanie ich liczby oraz odrębnego oznaczenia, o którym mowa w art. 55 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, a jeżeli nie zostało im nadane odrębne oznaczenie, oznacza się je przez podanie ich serii i numerów.> § 2. Akcje takie mogą być przenoszone tylko za zgodą spółki. Spółka może odmówić zgody jedynie z ważnych powodów, bez obowiązku wskazania innego nabywcy.
+**Art. 356.**
+
+§ 1. Z akcją imienną może być związany obowiązek powtarzających się świadczeń niepieniężnych.
+
+§ 2. Akcje takie mogą być przenoszone tylko za zgodą spółki. Spółka może odmówić zgody jedynie z ważnych powodów, bez obowiązku wskazania innego nabywcy.
+
+§ 3. Statut może przewidywać odszkodowanie umowne za niewykonanie lub nienależyte wykonanie powtarzających się świadczeń związanych z akcją.
+
+§ 4. Spółka zobowiązana jest spełnić wynagrodzenie za świadczenia określone w § 1, nawet gdy bilans nie wykazuje zysku. Przepis art. 355 § 3 stosuje się odpowiednio.
 
 **Art. 357.** (uchylony)
 
@@ -4177,7 +4366,9 @@ Art. 596–609. (pominięte)
 
 **Art. 361.**
 
-§ 1. Statut może przewidywać, że w zamian za akcje umorzone spółka emituje świadectwa użytkowe bez określonej wartości nominalnej. [Świadectwa użytkowe mogą być imienne lub na okaziciela.] § 2. Jeżeli statut nie stanowi inaczej, świadectwa użytkowe uczestniczą na równi z akcjami w dywidendzie oraz w nadwyżce majątku spółki, pozostałej po pokryciu wartości nominalnej akcji.
+§ 1. Statut może przewidywać, że w zamian za akcje umorzone spółka emituje świadectwa użytkowe bez określonej wartości nominalnej. Świadectwa użytkowe mogą być imienne lub na okaziciela.
+
+§ 2. Jeżeli statut nie stanowi inaczej, świadectwa użytkowe uczestniczą na równi z akcjami w dywidendzie oraz w nadwyżce majątku spółki, pozostałej po pokryciu wartości nominalnej akcji.
 
 § 3. Uprawniony ze świadectwa użytkowego nie ponosi odpowiedzialności za zobowiązania związane z umorzoną akcją i nie przysługują mu żadne prawa udziałowe, z wyjątkiem uprawnień określonych w § 2.
 
@@ -4267,7 +4458,7 @@ Art. 596–609. (pominięte)
 
 § 5. Uchwała walnego zgromadzenia lub statut spółki może określać wymagania, jakie powinni spełniać kandydaci na stanowisko członka zarządu.
 
-**Art. 368¹.**
+**Art. 3681.**
 
 § 1. Uchwała walnego zgromadzenia lub statut spółki może określać, że członek zarządu jest powoływany przez radę nadzorczą po przeprowadzeniu postępowania kwalifikacyjnego.
 
@@ -4285,9 +4476,9 @@ Art. 596–609. (pominięte)
 
 § 5. Mandat członka zarządu wygasa również wskutek śmierci, rezygnacji albo odwołania go ze składu zarządu.
 
-§ 5. Jeżeli w wyniku rezygnacji członka zarządu żaden mandat w zarządzie nie byłby obsadzony, członek zarządu składa rezygnację radzie nadzorczej.
+§ 51. Jeżeli w wyniku rezygnacji członka zarządu żaden mandat w zarządzie nie byłby obsadzony, członek zarządu składa rezygnację radzie nadzorczej.
 
-§ 5. Jeżeli żaden mandat w radzie nadzorczej nie jest obsadzony, członek zarządu składa rezygnację akcjonariuszom, zwołując jednocześnie walne zgromadzenie, o którym mowa w art. 397 , chyba że statut spółki stanowi inaczej. Ogłoszenie o walnym zgromadzeniu zawiera także oświadczenie o rezygnacji członka zarządu. Rezygnacja jest skuteczna z dniem następującym po dniu, na który zwołano walne zgromadzenie.
+§ 52. Jeżeli żaden mandat w radzie nadzorczej nie jest obsadzony, członek zarządu składa rezygnację akcjonariuszom, zwołując jednocześnie walne zgromadzenie, o którym mowa w art. 3971, chyba że statut spółki stanowi inaczej. Ogłoszenie o walnym zgromadzeniu zawiera także oświadczenie o rezygnacji członka zarządu. Rezygnacja jest skuteczna z dniem następującym po dniu, na który zwołano walne zgromadzenie.
 
 § 6. Do złożenia rezygnacji przez członka zarządu stosuje się odpowiednio przepisy o wypowiedzeniu zlecenia przez przyjmującego zlecenie.
 
@@ -4307,11 +4498,11 @@ Art. 596–609. (pominięte)
 
 § 3. Uchwały zarządu mogą być powzięte, jeżeli wszyscy członkowie zostali prawidłowo zawiadomieni o posiedzeniu zarządu.
 
-§ 3. W posiedzeniu zarządu można uczestniczyć również przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość, chyba że statut spółki stanowi inaczej; przepis art. 406 § 3 stosuje się odpowiednio.
+§ 31. W posiedzeniu zarządu można uczestniczyć również przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość, chyba że statut spółki stanowi inaczej; przepis art. 4065 § 3 stosuje się odpowiednio.
 
-§ 3. Zarząd może podejmować uchwały w trybie pisemnym lub przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość, chyba że statut spółki stanowi inaczej.
+§ 32. Zarząd może podejmować uchwały w trybie pisemnym lub przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość, chyba że statut spółki stanowi inaczej.
 
-§ 3. Członkowie zarządu mogą brać udział w podejmowaniu uchwał zarządu, oddając swój głos na piśmie za pośrednictwem innego członka zarządu, chyba że statut spółki stanowi inaczej.
+§ 33. Członkowie zarządu mogą brać udział w podejmowaniu uchwał zarządu, oddając swój głos na piśmie za pośrednictwem innego członka zarządu, chyba że statut spółki stanowi inaczej.
 
 § 4. Powołanie prokurenta wymaga zgody wszystkich członków zarządu.
 
@@ -4343,17 +4534,21 @@ Art. 596–609. (pominięte)
 - **4)** wysokość kapitału zakładowego i kapitału wpłaconego;
 - **5)** oznaczenie grupy spółek, jeżeli spółka do niej należy.
 
-§ 2. (uchylony) § 3. (uchylony) § 4. Przepis § 1 stosuje się odpowiednio do oddziału spółki akcyjnej mającej siedzibę za granicą.
+§ 2. (uchylony)
+
+§ 3. (uchylony)
+
+§ 4. Przepis § 1 stosuje się odpowiednio do oddziału spółki akcyjnej mającej siedzibę za granicą.
 
 **Art. 375.** Wobec spółki członkowie zarządu podlegają ograniczeniom ustanowionym w niniejszym dziale, w statucie, regulaminie zarządu oraz w uchwałach rady nadzorczej i walnego zgromadzenia.
 
-**Art. 375¹.** Walne zgromadzenie i rada nadzorcza nie mogą wydawać zarządowi wiążących poleceń dotyczących prowadzenia spraw spółki.
+**Art. 3751.** Walne zgromadzenie i rada nadzorcza nie mogą wydawać zarządowi wiążących poleceń dotyczących prowadzenia spraw spółki.
 
 **Art. 376.** Uchwały zarządu są protokołowane. Protokół powinien zawierać porządek obrad, imiona i nazwiska członków zarządu uczestniczących w głosowaniu i liczbę głosów oddanych na poszczególne uchwały. W protokole zaznacza się również zdanie odrębne zgłoszone przez członka zarządu wraz z jego ewentualnym umotywowaniem. Protokół podpisuje co najmniej członek zarządu prowadzący posiedzenie lub zarządzający głosowanie, chyba że statut spółki lub regulamin zarządu stanowi inaczej.
 
 **Art. 377.** W przypadku sprzeczności interesów spółki z interesami członka zarządu, jego współmałżonka, krewnych i powinowatych do drugiego stopnia oraz osób, z którymi jest powiązany osobiście, członek zarządu powinien ujawnić sprzeczność interesów i wstrzymać się od udziału w rozstrzyganiu takich spraw oraz może żądać zaznaczenia tego w protokole.
 
-**Art. 377¹.**
+**Art. 3771.**
 
 § 1. Członek zarządu powinien przy wykonywaniu swoich obowiązków dołożyć staranności wynikającej z zawodowego charakteru swojej działalności oraz dochować lojalności wobec spółki.
 
@@ -4369,7 +4564,7 @@ Art. 596–609. (pominięte)
 
 § 1. W umowie między spółką a członkiem zarządu, jak również w sporze z nim spółkę reprezentuje rada nadzorcza albo pełnomocnik powołany uchwałą walnego zgromadzenia.
 
-§ 1. Uchwała o powołaniu pełnomocnika, o którym mowa w § 1, powołanego w celu zawarcia z członkiem zarządu umowy spółki, która ma zostać zawarta przy wykorzystaniu wzorca umowy, może być podjęta przy wykorzystaniu wzorca udostępnionego w systemie teleinformatycznym.
+§ 11. Uchwała o powołaniu pełnomocnika, o którym mowa w § 1, powołanego w celu zawarcia z członkiem zarządu umowy spółki, która ma zostać zawarta przy wykorzystaniu wzorca umowy, może być podjęta przy wykorzystaniu wzorca udostępnionego w systemie teleinformatycznym.
 
 § 2. W przypadku gdy akcjonariusz, o którym mowa w art. 303 § 2, jest zarazem jedynym członkiem zarządu, przepisu § 1 nie stosuje się. Czynność prawna między tym akcjonariuszem a reprezentowaną przez niego spółką wymaga formy aktu notarialnego. O każdorazowym dokonaniu takiej czynności prawnej notariusz zawiadamia sąd rejestrowy za pośrednictwem systemu teleinformatycznego.
 
@@ -4381,7 +4576,7 @@ Art. 596–609. (pominięte)
 
 § 2. Jeżeli statut nie stanowi inaczej, zgody udziela organ uprawniony do powoływania zarządu.
 
-**Art. 380¹.**
+**Art. 3801.**
 
 § 1. Zarząd jest obowiązany, bez dodatkowego wezwania, do udzielenia radzie nadzorczej informacji o:
 
@@ -4410,19 +4605,21 @@ Art. 596–609. (pominięte)
 
 § 1. Rada nadzorcza sprawuje stały nadzór nad działalnością spółki we wszystkich dziedzinach jej działalności.
 
-§ 2. (uchylony) § 3. Do szczególnych obowiązków rady nadzorczej należą:
+§ 2. (uchylony)
+
+§ 3. Do szczególnych obowiązków rady nadzorczej należą:
 
 - **1)** ocena sprawozdań, o których mowa w art. 395 § 2 pkt 1, w zakresie ich zgodności z księgami, dokumentami i ze stanem faktycznym;
 - **2)** ocena wniosków zarządu dotyczących podziału zysku albo pokrycia straty;
 - **3)** sporządzanie oraz składanie walnemu zgromadzeniu corocznego pisemnego sprawozdania za ubiegły rok obrotowy (sprawozdanie rady nadzorczej).
 
-§ 3. Sprawozdanie rady nadzorczej zawiera co najmniej:
+§ 31. Sprawozdanie rady nadzorczej zawiera co najmniej:
 
 - **1)** wyniki ocen, o których mowa w § 3 pkt 1 i 2;
 - **2)** ocenę sytuacji spółki, z uwzględnieniem adekwatności i skuteczności stosowanych w spółce systemów kontroli wewnętrznej, zarządzania ryzykiem, zapewniania zgodności działalności z normami lub mającymi zastosowanie praktykami oraz audytu wewnętrznego;
-- **3)** ocenę realizacji przez zarząd obowiązków, o których mowa w art. 380 ;
+- **3)** ocenę realizacji przez zarząd obowiązków, o których mowa w art. 3801;
 - **4)** ocenę sposobu sporządzania lub przekazywania radzie nadzorczej przez zarząd informacji, dokumentów, sprawozdań lub wyjaśnień zażądanych w trybie określonym w § 4;
-- **5)** informację o łącznym wynagrodzeniu należnym od spółki z tytułu wszystkich badań zleconych przez radę nadzorczą w trakcie roku obrotowego w trybie określonym w art. 382 .
+- **5)** informację o łącznym wynagrodzeniu należnym od spółki z tytułu wszystkich badań zleconych przez radę nadzorczą w trakcie roku obrotowego w trybie określonym w art. 3821.
 
 § 4. W celu wykonania swoich obowiązków rada nadzorcza może badać wszystkie dokumenty spółki, dokonywać rewizji stanu majątku spółki oraz żądać od zarządu, prokurentów i osób zatrudnionych w spółce na podstawie umowy o pracę lub wykonujących na rzecz spółki w sposób regularny określone czynności na podstawie umowy o dzieło, umowy zlecenia albo innej umowy o podobnym charakterze sporządzenia lub przekazania wszelkich informacji, dokumentów, sprawozdań lub wyjaśnień dotyczących spółki, w szczególności jej działalności lub majątku. Przedmiotem żądania mogą być również posiadane przez organ lub osobę obowiązaną informacje, sprawozdania lub wyjaśnienia dotyczące spółek zależnych oraz spółek powiązanych.
 
@@ -4432,7 +4629,7 @@ Art. 596–609. (pominięte)
 
 § 7. W przypadku gdy sprawozdanie finansowe spółki podlega badaniu ustawowemu, rada nadzorcza jest obowiązana, z co najmniej tygodniowym wyprzedzeniem, zawiadomić kluczowego biegłego rewidenta, który przeprowadzał badanie sprawozdania finansowego spółki, o terminie posiedzenia, którego przedmiotem są sprawy określone w § 3. Spółka zapewnia uczestnictwo kluczowego biegłego rewidenta lub innego przedstawiciela firmy audytorskiej w posiedzeniu rady nadzorczej. W trakcie posiedzenia kluczowy biegły rewident lub inny przedstawiciel firmy audytorskiej przedstawia radzie nadzorczej sprawozdanie z badania, w tym ocenę podstaw przyjętego oświadczenia odnoszącego się do zdolności spółki do kontynuowania działalności, oraz udziela odpowiedzi na pytania członków rady nadzorczej.
 
-**Art. 382¹.**
+**Art. 3821.**
 
 § 1. Rada nadzorcza może podjąć uchwałę w sprawie zbadania na koszt spółki określonej sprawy dotyczącej działalności spółki lub jej majątku przez wybranego doradcę (doradca rady nadzorczej). Doradca rady nadzorczej może zostać wybrany również w celu przygotowania określonych analiz oraz opinii.
 
@@ -4462,7 +4659,7 @@ Art. 596–609. (pominięte)
 
 § 2. Jeżeli rada nadzorcza nie wyrazi zgody na dokonanie określonej czynności, zarząd może zwrócić się do walnego zgromadzenia, aby powzięło uchwałę udzielającą zgodę na dokonanie tej czynności.
 
-**Art. 384¹.**
+**Art. 3841.**
 
 § 1. Zawarcie przez spółkę ze spółką dominującą, spółką zależną lub spółką powiązaną transakcji, której wartość zsumowana z wartością transakcji zawartych z tą samą spółką w okresie roku obrotowego przekracza 10% sumy aktywów spółki w rozumieniu przepisów o rachunkowości, ustalonych na podstawie ostatniego zatwierdzonego sprawozdania finansowego spółki, wymaga zgody rady nadzorczej, chyba że statut stanowi inaczej.
 
@@ -4512,7 +4709,7 @@ Art. 596–609. (pominięte)
 
 § 3. Przepis § 1 stosuje się odpowiednio do członków zarządu i likwidatorów spółki lub spółdzielni zależnej.
 
-**Art. 387¹.**
+**Art. 3871.**
 
 § 1. Członek rady nadzorczej powinien przy wykonywaniu swoich obowiązków dołożyć staranności wynikającej z zawodowego charakteru swojej działalności oraz dochować lojalności wobec spółki.
 
@@ -4522,15 +4719,17 @@ Art. 596–609. (pominięte)
 
 § 1. Rada nadzorcza podejmuje uchwały, jeżeli na posiedzeniu jest obecna co najmniej połowa jej członków, a wszyscy jej członkowie zostali zaproszeni. Statut może przewidywać surowsze wymagania dotyczące kworum rady nadzorczej.
 
-§ 1. W posiedzeniu rady nadzorczej można uczestniczyć również przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość, chyba że statut spółki stanowi inaczej; przepis art. 406 § 3 stosuje się odpowiednio.
+§ 11. W posiedzeniu rady nadzorczej można uczestniczyć również przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość, chyba że statut spółki stanowi inaczej; przepis art. 4065 § 3 stosuje się odpowiednio.
 
 § 2. Członkowie rady nadzorczej mogą brać udział w podejmowaniu uchwał rady nadzorczej, oddając swój głos na piśmie za pośrednictwem innego członka rady nadzorczej, chyba że statut spółki stanowi inaczej. Oddanie głosu na piśmie nie może dotyczyć spraw wprowadzonych do porządku obrad na posiedzeniu rady nadzorczej.
 
 § 3. Rada nadzorcza może podejmować uchwały w trybie pisemnym lub przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość, chyba że statut spółki stanowi inaczej. Uchwała jest ważna, gdy wszyscy członkowie rady zostali powiadomieni o treści projektu uchwały oraz co najmniej połowa członków rady wzięła udział w podejmowaniu uchwały. Statut spółki może przewidywać surowsze wymagania dotyczące podejmowania uchwał w trybie określonym w zdaniu pierwszym.
 
-§ 3. Głosowania rady nadzorczej są jawne, chyba że statut spółki lub regulamin rady nadzorczej stanowi inaczej.
+§ 31. Głosowania rady nadzorczej są jawne, chyba że statut spółki lub regulamin rady nadzorczej stanowi inaczej.
 
-§ 4. (uchylony) § 5. Przepis art. 377 stosuje się odpowiednio.
+§ 4. (uchylony)
+
+§ 5. Przepis art. 377 stosuje się odpowiednio.
 
 **Art. 389.**
 
@@ -4556,7 +4755,7 @@ Art. 596–609. (pominięte)
 
 § 3. Członkowie rady nadzorczej, o których mowa w § 2, otrzymują wynagrodzenie, którego wysokość ustala walne zgromadzenie. Walne zgromadzenie może powierzyć to uprawnienie radzie nadzorczej. Do takich członków stosuje się zakaz konkurencji, o którym mowa w art. 380.
 
-**Art. 390¹.**
+**Art. 3901.**
 
 § 1. Rada nadzorcza może również:
 
@@ -4589,7 +4788,15 @@ Art. 596–609. (pominięte)
 
 **Art. 393.** Uchwały walnego zgromadzenia, poza innymi sprawami wymienionymi w niniejszym dziale lub w statucie, wymaga:
 
-**Art. 393¹.** Uchwała walnego zgromadzenia lub statut spółki może określać zasady postępowania w zakresie rozporządzania składnikami aktywów trwałych lub dokonywania niektórych czynności prawnych.
+- **1)** rozpatrzenie i zatwierdzenie sprawozdania zarządu z działalności spółki oraz sprawozdania finansowego za ubiegły rok obrotowy oraz udzielenie absolutorium członkom organów spółki z wykonania przez nich obowiązków;
+- **2)** postanowienie dotyczące roszczeń o naprawienie szkody wyrządzonej przy zawiązaniu spółki lub sprawowaniu zarządu albo nadzoru;
+- **3)** zbycie i wydzierżawienie przedsiębiorstwa lub jego zorganizowanej części oraz ustanowienie na nich ograniczonego prawa rzeczowego;
+- **4)** nabycie i zbycie nieruchomości, użytkowania wieczystego lub udziału w nieruchomości, chyba że statut stanowi inaczej;
+- **5)** emisja obligacji zamiennych lub z prawem pierwszeństwa i emisja warrantów subskrypcyjnych, o których mowa w art. 453 § 2;
+- **6)** nabycie własnych akcji w przypadku określonym w art. 362 § 1 pkt 2 oraz upoważnienie do ich nabywania w przypadku określonym w art. 362 § 1 pkt 8;
+- **7)** zawarcie umowy, o której mowa w art. 4 § 1 pkt 4 lit. f.
+
+**Art. 3931.** Uchwała walnego zgromadzenia lub statut spółki może określać zasady postępowania w zakresie rozporządzania składnikami aktywów trwałych lub dokonywania niektórych czynności prawnych.
 
 **Art. 394.**
 
@@ -4597,7 +4804,7 @@ Art. 596–609. (pominięte)
 
 § 2. Przepis § 1 stosuje się również do nabycia mienia od spółki dominującej albo spółki lub spółdzielni zależnej.
 
-§ 3. Walnemu zgromadzeniu należy przedłożyć sprawozdanie zarządu spełniające warunki określone w art. 311. Sprawozdanie powinno być poddane badaniu i ogłoszone przed walnym zgromadzeniem w sposób określony w art. 312 § 7. Przepisy art. 312 stosuje się odpowiednio.
+§ 3. Walnemu zgromadzeniu należy przedłożyć sprawozdanie zarządu spełniające warunki określone w art. 311. Sprawozdanie powinno być poddane badaniu i ogłoszone przed walnym zgromadzeniem w sposób określony w art. 312 § 7. Przepisy art. 3121stosuje się odpowiednio.
 
 § 4. Przepisów § 1–3 nie stosuje się do nabycia mienia na podstawie przepisów o zamówieniach publicznych, postępowaniu likwidacyjnym, upadłościowym i egzekucyjnym oraz do nabycia papierów wartościowych i towarów na rynku regulowanym.
 
@@ -4611,7 +4818,7 @@ Art. 596–609. (pominięte)
 - **2)** powzięcie uchwały o podziale zysku albo o pokryciu straty;
 - **3)** udzielenie członkom organów spółki absolutorium z wykonania przez nich obowiązków.
 
-§ 2. W spółkach, o których mowa w art. 90c ust. 1 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2022 r. poz. 2554 oraz z 2023 r. poz. 825 i 1723), przedmiotem obrad zwyczajnego walnego zgromadzenia powinno być również powzięcie uchwały, o której mowa w art. 90g ust. 6 tej ustawy, lub przeprowadzenie dyskusji, o której mowa w art. 90g ust. 7 tej ustawy.
+§ 21. W spółkach, o których mowa w art. 90c ust. 1 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2022 r. poz. 2554 oraz z 2023 r. poz. 825 i 1723), przedmiotem obrad zwyczajnego walnego zgromadzenia powinno być również powzięcie uchwały, o której mowa w art. 90g ust. 6 tej ustawy, lub przeprowadzenie dyskusji, o której mowa w art. 90g ust. 7 tej ustawy.
 
 § 3. Przepis § 2 pkt 3 dotyczy wszystkich osób, które pełniły funkcję członków organów spółki w ostatnim roku obrotowym. Członkowie organów spółki, których mandaty wygasły przed dniem walnego zgromadzenia, mają prawo uczestniczyć w zgromadzeniu, przeglądać dokumenty, o których mowa w § 4, oraz przedkładać do nich uwagi na piśmie. Żądanie dotyczące skorzystania z tych uprawnień powinno być złożone zarządowi na piśmie najpóźniej na tydzień przed walnym zgromadzeniem.
 
@@ -4635,7 +4842,7 @@ Art. 596–609. (pominięte)
 
 **Art. 397.** Jeżeli bilans sporządzony przez zarząd wykaże stratę przewyższającą sumę kapitałów zapasowego i rezerwowych oraz jedną trzecią kapitału zakładowego, zarząd obowiązany jest niezwłocznie zwołać walne zgromadzenie celem powzięcia uchwały dotyczącej dalszego istnienia spółki.
 
-**Art. 397¹.** W przypadku, o którym mowa w art. 369 § 5 , członek zarządu jest obowiązany zwołać walne zgromadzenie. Przepisu art. 399 § 1 nie stosuje się.
+**Art. 3971.** W przypadku, o którym mowa w art. 369 § 52, członek zarządu jest obowiązany zwołać walne zgromadzenie. Przepisu art. 399 § 1 nie stosuje się.
 
 **Art. 398.** Nadzwyczajne walne zgromadzenie zwołuje się w przypadkach określonych w niniejszym dziale lub w statucie, a także gdy organy lub osoby uprawnione do zwoływania walnych zgromadzeń uznają to za wskazane.
 
@@ -4661,8 +4868,6 @@ Art. 596–609. (pominięte)
 
 § 5. W zawiadomieniu o zwołaniu nadzwyczajnego walnego zgromadzenia, o którym mowa w § 3, należy powołać się na postanowienie sądu rejestrowego.
 
-**Art. 401.**
-
 § 1. Akcjonariusz lub akcjonariusze reprezentujący co najmniej jedną dwudziestą kapitału zakładowego mogą żądać umieszczenia określonych spraw w porządku obrad najbliższego walnego zgromadzenia. Żądanie powinno zostać zgłoszone zarządowi nie później niż na czternaście dni przed wyznaczonym terminem zgromadzenia. W spółce publicznej termin ten wynosi dwadzieścia jeden dni. Żądanie powinno zawierać uzasadnienie lub projekt uchwały dotyczącej proponowanego punktu porządku obrad. Żądanie może zostać złożone w postaci elektronicznej.
 
 § 2. Zarząd jest obowiązany niezwłocznie, jednak nie później niż na cztery dni przed wyznaczonym terminem walnego zgromadzenia, ogłosić zmiany w porządku obrad, wprowadzone na żądanie akcjonariuszy. W spółce publicznej termin ten wynosi osiemnaście dni. Ogłoszenie następuje w sposób właściwy dla zwołania walnego zgromadzenia.
@@ -4683,15 +4888,31 @@ Art. 596–609. (pominięte)
 
 § 3. Walne zgromadzenie może być zwołane za pomocą listów poleconych lub przesyłek nadanych pocztą kurierską, wysłanych co najmniej dwa tygodnie przed terminem walnego zgromadzenia. Dzień wysłania listów lub przesyłek uważa się za dzień ogłoszenia. Zamiast listu lub przesyłki zawiadomienie może być wysłane akcjonariuszowi na adres do doręczeń elektronicznych, pocztą elektroniczną na adres wskazany w rejestrze akcjonariuszy albo za pisemną zgodą akcjonariusza na wskazany przez niego inny adres poczty elektronicznej.
 
-**Art. 402¹.**
+**Art. 4021.**
 
 § 1. Walne zgromadzenie spółki publicznej zwołuje się przez ogłoszenie dokonywane na stronie internetowej spółki oraz w sposób określony dla przekazywania informacji bieżących zgodnie z przepisami o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych.
 
 § 2. Ogłoszenie powinno być dokonane co najmniej na dwadzieścia sześć dni przed terminem walnego zgromadzenia.
 
-**Art. 402².** Ogłoszenie o walnym zgromadzeniu spółki publicznej powinno zawierać co najmniej:
+**Art. 4022.** Ogłoszenie o walnym zgromadzeniu spółki publicznej powinno zawierać co najmniej:
 
-**Art. 402³.**
+- **1)** datę, godzinę i miejsce walnego zgromadzenia oraz szczegółowy porządek obrad;
+- **2)** precyzyjny opis procedur dotyczących uczestniczenia w walnym zgromadzeniu i wykonywania prawa głosu, w szczególności informacje o: prawie akcjonariusza do żądania umieszczenia określonych spraw w porządku obrad walnego zgromadzenia, prawie akcjonariusza do zgłaszania projektów uchwał dotyczących spraw wprowadzonych do porządku obrad walnego zgromadzenia lub spraw, które mają zostać wprowadzone do porządku obrad przed terminem walnego zgromadzenia, prawie akcjonariusza do zgłaszania projektów uchwał dotyczących spraw wprowadzonych do porządku obrad podczas walnego zgromadzenia, sposobie wykonywania prawa głosu przez pełnomocnika, w tym w szczególności o formularzach stosowanych podczas głosowania przez pełnomocnika, oraz sposobie zawiadamiania spółki przy wykorzystaniu środków komunikacji elektronicznej o ustanowieniu pełnomocnika, możliwości i sposobie uczestniczenia w walnym zgromadzeniu przy wykorzystaniu środków komunikacji elektronicznej, sposobie wypowiadania się w trakcie walnego zgromadzenia przy wykorzystaniu środków komunikacji elektronicznej, sposobie wykonywania prawa głosu drogą korespondencyjną lub przy wykorzystaniu środków komunikacji elektronicznej, prawie akcjonariusza do zadawania pytań dotyczących spraw umieszczonych w porządku obrad walnego zgromadzenia;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+
+- **3)** dzień rejestracji uczestnictwa w walnym zgromadzeniu, o którym mowa w art. 4061;
+- **4)** informację, że prawo uczestniczenia w walnym zgromadzeniu mają tylko osoby będące akcjonariuszami spółki w dniu rejestracji uczestnictwa w walnym zgromadzeniu;
+- **5)** wskazanie, gdzie i w jaki sposób osoba uprawniona do uczestnictwa w walnym zgromadzeniu może uzyskać pełny tekst dokumentacji, która ma być przedstawiona walnemu zgromadzeniu, oraz projekty uchwał lub, jeżeli nie przewiduje się podejmowania uchwał, uwagi zarządu lub rady nadzorczej spółki, dotyczące spraw wprowadzonych do porządku obrad walnego zgromadzenia lub spraw, które mają zostać wprowadzone do porządku obrad przed terminem walnego zgromadzenia;
+- **6)** wskazanie adresu strony internetowej, na której będą udostępnione informacje dotyczące walnego zgromadzenia.
+
+**Art. 4023.**
 
 § 1. Spółka publiczna zamieszcza na własnej stronie internetowej od dnia zwołania walnego zgromadzenia:
 
@@ -4710,7 +4931,7 @@ Art. 596–609. (pominięte)
 - **3)** złożenie sprzeciwu przez akcjonariuszy głosujących przeciwko uchwale;
 - **4)** zamieszczenie instrukcji dotyczących sposobu głosowania w odniesieniu do każdej z uchwał, nad którą głosować ma pełnomocnik.
 
-**Art. 402⁴.**
+**Art. 4024.**
 
 § 1. W celu należytego informowania akcjonariuszy o dokładności i wiarygodności podejmowanych przez siebie działań doradca akcjonariusza do spraw głosowania co rok zamieszcza na swojej stronie internetowej informacje związane z przygotowywaniem przez niego badań, porad i rekomendacji dotyczących głosowania. Informacje te obejmują w szczególności:
 
@@ -4724,7 +4945,7 @@ Art. 596–609. (pominięte)
 
 § 2. Informacje, o których mowa w § 1, są dostępne na stronie internetowej doradcy akcjonariusza do spraw głosowania bezpłatnie przez co najmniej trzy lata od dnia ich publikacji.
 
-**Art. 402⁵.**
+**Art. 4025.**
 
 § 1. Doradca akcjonariusza do spraw głosowania zamieszcza na swojej stronie internetowej informację o stosowanych przez niego zasadach etyki zawodowej oraz sprawozdania dotyczące stosowania tych zasad.
 
@@ -4732,9 +4953,9 @@ Art. 596–609. (pominięte)
 
 § 3. Informacje, o których mowa w § 1 i 2, są co rok aktualizowane.
 
-§ 4. Informacje, o których mowa w § 1 i 2, mogą być publikowane razem z informacjami, o których mowa w art. 402 § 1.
+§ 4. Informacje, o których mowa w § 1 i 2, mogą być publikowane razem z informacjami, o których mowa w art. 4024 § 1.
 
-**Art. 402⁶.** Doradca akcjonariusza do spraw głosowania niezwłocznie informuje podmioty, na rzecz których świadczy usługi, o istniejących lub potencjalnych sprzecznościach interesów lub o relacjach biznesowych, które mogą mieć wpływ na przygotowanie przez niego badań, porad lub rekomendacji dotyczących głosowania, jak również o działaniach, które podjął w celu wyeliminowania lub ograniczenia takich sprzeczności interesów lub które podjął w celu zarządzania nimi.
+**Art. 4026.** Doradca akcjonariusza do spraw głosowania niezwłocznie informuje podmioty, na rzecz których świadczy usługi, o istniejących lub potencjalnych sprzecznościach interesów lub o relacjach biznesowych, które mogą mieć wpływ na przygotowanie przez niego badań, porad lub rekomendacji dotyczących głosowania, jak również o działaniach, które podjął w celu wyeliminowania lub ograniczenia takich sprzeczności interesów lub które podjął w celu zarządzania nimi.
 
 **Art. 403.** Walne zgromadzenie odbywa się w siedzibie spółki. Walne zgromadzenie spółki publicznej może odbyć się także w miejscowości będącej siedzibą spółki prowadzącej rynek regulowany, na którym akcje tej spółki są przedmiotem obrotu. Statut może zawierać odmienne postanowienia dotyczące miejsca zwołania walnego zgromadzenia, jednakże zgromadzenia mogą odbywać się wyłącznie na terytorium Rzeczypospolitej Polskiej.
 
@@ -4756,13 +4977,15 @@ Art. 596–609. (pominięte)
 
 § 2. (uchylony)
 
-**Art. 406¹.**
+**Art. 4061.**
 
-§ 1. Prawo uczestniczenia w walnym zgromadzeniu spółki publicznej mają tylko osoby będące akcjonariuszami spółki na szesnaście dni przed datą walnego zgromadzenia (dzień rejestracji uczestnictwa w walnym zgromadzeniu). [§ 2. Dzień rejestracji uczestnictwa w walnym zgromadzeniu jest jednolity dla uprawnionych z akcji na okaziciela i akcji imiennych.]
+§ 1. Prawo uczestniczenia w walnym zgromadzeniu spółki publicznej mają tylko osoby będące akcjonariuszami spółki na szesnaście dni przed datą walnego zgromadzenia (dzień rejestracji uczestnictwa w walnym zgromadzeniu).
 
-**Art. 406².** Zastawnicy i użytkownicy, którym przysługuje prawo głosu, mają prawo uczestniczenia w walnym zgromadzeniu spółki publicznej, jeżeli ustanowienie na ich rzecz ograniczonego prawa rzeczowego jest zarejestrowane na rachunku papierów wartościowych w dniu rejestracji uczestnictwa w walnym zgromadzeniu.
+§ 2. Dzień rejestracji uczestnictwa w walnym zgromadzeniu jest jednolity dla uprawnionych z akcji na okaziciela i akcji imiennych.
 
-**Art. 406³.**
+**Art. 4062.** Zastawnicy i użytkownicy, którym przysługuje prawo głosu, mają prawo uczestniczenia w walnym zgromadzeniu spółki publicznej, jeżeli ustanowienie na ich rzecz ograniczonego prawa rzeczowego jest zarejestrowane na rachunku papierów wartościowych w dniu rejestracji uczestnictwa w walnym zgromadzeniu.
+
+**Art. 4063.**
 
 § 1. Na żądanie uprawnionego z akcji spółki publicznej oraz zastawnika lub użytkownika, którym przysługuje prawo głosu, zgłoszone nie wcześniej niż po ogłoszeniu o zwołaniu walnego zgromadzenia i nie później niż w pierwszym dniu powszednim po dniu rejestracji uczestnictwa w walnym zgromadzeniu, podmiot prowadzący rachunek papierów wartościowych wystawia imienne zaświadczenie o prawie uczestnictwa w walnym zgromadzeniu. Zaświadczenie zawiera:
 
@@ -4788,9 +5011,9 @@ Art. 596–609. (pominięte)
 
 § 6. Podmiot prowadzący depozyt papierów wartościowych udostępnia spółce publicznej wykaz, o którym mowa w § 4, przy wykorzystaniu środków komunikacji elektronicznej nie później niż na tydzień przed dniem walnego zgromadzenia. Jeżeli z przyczyn technicznych wykaz nie może zostać udostępniony w taki sposób, podmiot prowadzący depozyt papierów wartościowych wydaje go w postaci dokumentu sporządzonego na piśmie nie później niż na sześć dni przed dniem walnego zgromadzenia; wydanie następuje w siedzibie organu zarządzającego podmiotem.
 
-**Art. 406⁴.** Akcjonariusz spółki publicznej może przenosić akcje w okresie między dniem rejestracji uczestnictwa w walnym zgromadzeniu a dniem zakończenia walnego zgromadzenia.
+**Art. 4064.** Akcjonariusz spółki publicznej może przenosić akcje w okresie między dniem rejestracji uczestnictwa w walnym zgromadzeniu a dniem zakończenia walnego zgromadzenia.
 
-**Art. 406⁵.**
+**Art. 4065.**
 
 § 1. Udział w walnym zgromadzeniu można wziąć również przy wykorzystaniu środków komunikacji elektronicznej, chyba że statut spółki stanowi inaczej. O udziale w walnym zgromadzeniu w sposób, o którym mowa w zdaniu pierwszym, postanawia zwołujący to zgromadzenie.
 
@@ -4809,13 +5032,13 @@ Art. 596–609. (pominięte)
 
 § 7. W przypadku gdy potwierdzenie, o którym mowa w § 6, otrzyma pośrednik, o którym mowa w art. 68i ust. 1 pkt 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi lub podmiot, o którym mowa w art. 68i ust. 2 tej ustawy, niezwłocznie przekazuje on potwierdzenie akcjonariuszowi lub jego pełnomocnikowi. Przepis art. 68k ust. 6 tej ustawy stosuje się odpowiednio.
 
-**Art. 406⁶.** Członkowie zarządu i rady nadzorczej mają prawo uczestniczenia w walnym zgromadzeniu.
+**Art. 4066.** Członkowie zarządu i rady nadzorczej mają prawo uczestniczenia w walnym zgromadzeniu.
 
 **Art. 407.**
 
 § 1. Lista akcjonariuszy uprawnionych do uczestnictwa w walnym zgromadzeniu, podpisana przez zarząd, zawierająca nazwiska i imiona albo firmy (nazwy) uprawnionych, ich miejsce zamieszkania (siedzibę), liczbę, rodzaj i numery akcji oraz liczbę przysługujących im głosów, powinna być wyłożona w lokalu zarządu przez trzy dni powszednie przed odbyciem walnego zgromadzenia. Osoba fizyczna może podać adres do doręczeń albo adres do doręczeń elektronicznych zamiast miejsca zamieszkania. Akcjonariusz może przeglądać listę akcjonariuszy w lokalu zarządu oraz żądać odpisu listy za zwrotem kosztów jego sporządzenia.
 
-§ 1. Akcjonariusz spółki publicznej może żądać przesłania mu listy akcjonariuszy nieodpłatnie na adres do doręczeń elektronicznych albo pocztą elektroniczną, podając adres, na który lista powinna być wysłana.
+§ 11. Akcjonariusz spółki publicznej może żądać przesłania mu listy akcjonariuszy nieodpłatnie na adres do doręczeń elektronicznych albo pocztą elektroniczną, podając adres, na który lista powinna być wysłana.
 
 § 2. Akcjonariusz ma prawo żądać wydania odpisu wniosków w sprawach objętych porządkiem obrad w terminie tygodnia przed walnym zgromadzeniem.
 
@@ -4849,17 +5072,17 @@ Art. 596–609. (pominięte)
 
 § 4. Statut może przewidywać także kumulację głosów należących do akcjonariuszy, między którymi istnieje stosunek dominacji lub zależności w rozumieniu niniejszej lub odrębnej ustawy, a także określać zasady redukcji głosów. W takim przypadku do głosów z akcji spółki dominującej dolicza się głosy z akcji spółki lub spółdzielni zależnej.
 
-**Art. 411¹.**
+**Art. 4111.**
 
 § 1. Akcjonariusz spółki publicznej może oddać głos na walnym zgromadzeniu drogą korespondencyjną, jeżeli przewiduje to regulamin walnego zgromadzenia.
 
-§ 2. Spółka publiczna niezwłocznie udostępnia na stronie internetowej formularze pozwalające na wykonywanie prawa głosu dotyczące projektów uchwał zgłoszonych przez akcjonariuszy i ogłoszonych na stronie internetowej zgodnie z art. 401 § 4. Przepis art. 402 § 2 stosuje się.
+§ 2. Spółka publiczna niezwłocznie udostępnia na stronie internetowej formularze pozwalające na wykonywanie prawa głosu dotyczące projektów uchwał zgłoszonych przez akcjonariuszy i ogłoszonych na stronie internetowej zgodnie z art. 401 § 4. Przepis art. 4023§ 2 stosuje się.
 
-§ 3. Głos oddany w innej formie niż na formularzu, na formularzu niespełniającym wymagań wskazanych w art. 402 § 3 lub dodatkowych wymagań przewidzianych statutem spółki lub regulaminem walnego zgromadzenia jest nieważny.
+§ 3. Głos oddany w innej formie niż na formularzu, na formularzu niespełniającym wymagań wskazanych w art. 4023§ 3 lub dodatkowych wymagań przewidzianych statutem spółki lub regulaminem walnego zgromadzenia jest nieważny.
 
 § 4. Spółka publiczna podejmuje odpowiednie działania służące identyfikacji akcjonariusza głosującego drogą korespondencyjną. Działania te powinny być proporcjonalne do celu.
 
-**Art. 411².**
+**Art. 4112.**
 
 § 1. Przy obliczaniu kworum oraz wyników głosowania uwzględnia się głosy oddane korespondencyjnie, które spółka otrzymała nie później niż w chwili zarządzenia głosowania na walnym zgromadzeniu.
 
@@ -4871,13 +5094,13 @@ Art. 596–609. (pominięte)
 
 § 5. Głosowanie korespondencyjne może dotyczyć także spraw wskazanych w art. 420 § 2, chyba że regulamin walnego zgromadzenia stanowi inaczej. Oddanie głosu korespondencyjnie jest równoznaczne ze zgodą akcjonariusza na rezygnację z tajnego trybu głosowania.
 
-**Art. 411³.** Akcjonariusz może głosować odmiennie z każdej z posiadanych akcji.
+**Art. 4113.** Akcjonariusz może głosować odmiennie z każdej z posiadanych akcji.
 
 **Art. 412.**
 
 § 1. Akcjonariusz może uczestniczyć w walnym zgromadzeniu oraz wykonywać prawo głosu osobiście lub przez pełnomocnika.
 
-§ 1. Pełnomocnikiem akcjonariusza spółki publicznej może być w szczególności pośrednik, o którym mowa w art. 68i ust. 1 pkt 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
+§ 11. Pełnomocnikiem akcjonariusza spółki publicznej może być w szczególności pośrednik, o którym mowa w art. 68i ust. 1 pkt 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
 
 § 2. Nie można ograniczać prawa ustanawiania pełnomocnika na walnym zgromadzeniu i liczby pełnomocników.
 
@@ -4887,13 +5110,13 @@ Art. 596–609. (pominięte)
 
 § 5. Pełnomocnik może reprezentować więcej niż jednego akcjonariusza i głosować odmiennie z akcji każdego akcjonariusza.
 
-§ 5. Akcjonariusz spółki publicznej, posiadający akcje zapisane na rachunku zbiorczym, może ustanowić oddzielnych pełnomocników do wykonywania praw z akcji zapisanych na tym rachunku.
+§ 51. Akcjonariusz spółki publicznej, posiadający akcje zapisane na rachunku zbiorczym, może ustanowić oddzielnych pełnomocników do wykonywania praw z akcji zapisanych na tym rachunku.
 
 § 6. Akcjonariusz spółki publicznej posiadający akcje zapisane na więcej niż jednym rachunku papierów wartościowych może ustanowić oddzielnych pełnomocników do wykonywania praw z akcji zapisanych na każdym z rachunków.
 
 § 7. Przepisy o wykonywaniu prawa głosu przez pełnomocnika stosuje się do wykonywania prawa głosu przez innego przedstawiciela.
 
-**Art. 412¹.**
+**Art. 4121.**
 
 § 1. Pełnomocnictwo do uczestniczenia w walnym zgromadzeniu i wykonywania prawa głosu wymaga formy pisemnej pod rygorem nieważności.
 
@@ -4907,7 +5130,7 @@ Art. 596–609. (pominięte)
 
 § 6. Przepisy § 1–5 stosuje się odpowiednio do odwołania pełnomocnictwa.
 
-**Art. 412².**
+**Art. 4122.**
 
 § 1. Członek zarządu i pracownik spółki nie mogą być pełnomocnikami na walnym zgromadzeniu.
 
@@ -4921,7 +5144,7 @@ Art. 596–609. (pominięte)
 
 § 1. Akcjonariusz nie może ani osobiście, ani przez pełnomocnika, ani jako pełnomocnik innej osoby głosować przy powzięciu uchwał dotyczących jego odpowiedzialności wobec spółki z jakiegokolwiek tytułu, w tym udzielenia absolutorium, zwolnienia z zobowiązania wobec spółki oraz sporu pomiędzy nim a spółką.
 
-§ 2. Akcjonariusz spółki publicznej może głosować jako pełnomocnik przy powzięciu uchwał dotyczących jego osoby, o których mowa w § 1. Przepisy art. 412 § 3 i 4 stosuje się odpowiednio.
+§ 2. Akcjonariusz spółki publicznej może głosować jako pełnomocnik przy powzięciu uchwał dotyczących jego osoby, o których mowa w § 1. Przepisy art. 4122§ 3 i 4 stosuje się odpowiednio.
 
 **Art. 414.** Uchwały zapadają bezwzględną większością głosów, jeżeli przepisy niniejszego działu lub statut nie stanowią inaczej.
 
@@ -4929,7 +5152,7 @@ Art. 596–609. (pominięte)
 
 § 1. Uchwała dotycząca emisji obligacji zamiennych i obligacji z prawem pierwszeństwa objęcia akcji, zmiany statutu, umorzenia akcji, obniżenia kapitału zakładowego, zbycia przedsiębiorstwa albo jego zorganizowanej części i rozwiązania spółki zapada większością trzech czwartych głosów.
 
-§ 1. Uchwała dotycząca finansowania przez spółkę nabycia lub objęcia emitowanych przez nią akcji zapada większością dwóch trzecich głosów. Jeżeli jednak na walnym zgromadzeniu jest reprezentowana co najmniej połowa kapitału zakładowego, do podjęcia uchwały wystarczy bezwzględna większość głosów.
+§ 11. Uchwała dotycząca finansowania przez spółkę nabycia lub objęcia emitowanych przez nią akcji zapada większością dwóch trzecich głosów. Jeżeli jednak na walnym zgromadzeniu jest reprezentowana co najmniej połowa kapitału zakładowego, do podjęcia uchwały wystarczy bezwzględna większość głosów.
 
 § 2. W przypadku, o którym mowa w art. 397, do powzięcia uchwały o rozwiązaniu spółki wystarczy bezwzględna większość głosów, jeżeli statut nie stanowi inaczej.
 
@@ -4967,13 +5190,15 @@ Art. 596–609. (pominięte)
 
 § 2. Uchwała, o której mowa w § 1, powinna określać akcje podlegające wykupowi oraz akcjonariuszy, którzy zobowiązują się wykupić akcje, jak również określać akcje przypadające każdemu z nabywców. Akcjonariusze, którzy mają nabyć akcje i głosowali za uchwałą, odpowiadają solidarnie wobec spółki za spłacenie całej sumy wykupu.
 
-§ 2a. (uchylony) § 2b. Skuteczność uchwały o przymusowym wykupie akcji zależy od wykupienia akcji przedstawionych do wykupu przez akcjonariuszy mniejszościowych, których akcje nie zostały objęte uchwałą, o której mowa w § 1. Akcjonariusze ci, obecni na walnym zgromadzeniu, powinni, w terminie dwóch dni od dnia walnego zgromadzenia, natomiast nieobecni w terminie miesiąca od dnia ogłoszenia uchwały, zgłosić żądanie wykupienia ich akcji. Akcjonariuszy, którzy nie zgłoszą żądania wykupienia ich akcji w terminie, uważa się za wyrażających zgodę na pozostanie w spółce.
+§ 2a. (uchylony)
+
+§ 2b. Skuteczność uchwały o przymusowym wykupie akcji zależy od wykupienia akcji przedstawionych do wykupu przez akcjonariuszy mniejszościowych, których akcje nie zostały objęte uchwałą, o której mowa w § 1. Akcjonariusze ci, obecni na walnym zgromadzeniu, powinni, w terminie dwóch dni od dnia walnego zgromadzenia, natomiast nieobecni w terminie miesiąca od dnia ogłoszenia uchwały, zgłosić żądanie wykupienia ich akcji. Akcjonariuszy, którzy nie zgłoszą żądania wykupienia ich akcji w terminie, uważa się za wyrażających zgodę na pozostanie w spółce.
 
 § 3. Przepisy art. 417 § 1–3 stosuje się odpowiednio. Po uiszczeniu ceny wykupu, obejmującej również akcje, o których mowa w § 2b, zarząd powinien niezwłocznie przenieść wykupione akcje na nabywców. Do dnia uiszczenia całej sumy wykupu akcjonariusze mniejszościowi zachowują wszystkie uprawnienia z akcji.
 
 § 4. Przepisów o przymusowym wykupie akcji nie stosuje się do spółek publicznych.
 
-**Art. 418¹.**
+**Art. 4181.**
 
 § 1. Akcjonariusz lub akcjonariusze reprezentujący nie więcej niż 5% kapitału zakładowego mogą żądać umieszczenia w porządku obrad najbliższego walnego zgromadzenia sprawę podjęcia uchwały o przymusowym odkupie ich akcji przez nie więcej niż pięciu akcjonariuszy reprezentujących łącznie nie mniej niż 95% kapitału zakładowego, z których każdy posiada nie mniej niż 5% kapitału zakładowego (akcjonariusze większościowi). Przepisy art. 416 § 2 i 3 stosuje się odpowiednio.
 
@@ -4983,7 +5208,9 @@ Art. 596–609. (pominięte)
 
 § 4. Jeżeli uchwała, o której mowa w § 1, nie zostanie podjęta na walnym zgromadzeniu, spółka jest obowiązana do nabycia akcji akcjonariuszy mniejszościowych, w terminie 3 miesięcy od dnia walnego zgromadzenia, w celu umorzenia. Akcjonariusze większościowi odpowiadają wobec spółki za spłacenie całej sumy odkupu proporcjonalnie do akcji posiadanych w dniu walnego zgromadzenia, o którym mowa w § 1.
 
-§ 5. (uchylony) § 6. Cena odkupu akcji jest równa wartości przypadających na akcję aktywów netto, wykazanych w sprawozdaniu finansowym za ostatni rok obrotowy, pomniejszonych o kwotę przeznaczoną do podziału między akcjonariuszy. Do dnia uiszczenia całej sumy odkupu akcjonariusze mniejszościowi zachowują wszystkie uprawnienia z akcji. Przepisy art. 417 § 2 i 3 stosuje się odpowiednio.
+§ 5. (uchylony)
+
+§ 6. Cena odkupu akcji jest równa wartości przypadających na akcję aktywów netto, wykazanych w sprawozdaniu finansowym za ostatni rok obrotowy, pomniejszonych o kwotę przeznaczoną do podziału między akcjonariuszy. Do dnia uiszczenia całej sumy odkupu akcjonariusze mniejszościowi zachowują wszystkie uprawnienia z akcji. Przepisy art. 417 § 2 i 3 stosuje się odpowiednio.
 
 § 7. Jeżeli akcjonariusz lub spółka, uczestniczący w odkupie akcji, nie zgadzają się z ceną odkupu określoną w § 6, mogą zwrócić się do sądu rejestrowego o wyznaczenie biegłego rewidenta w celu ustalenia ich ceny rynkowej, a w jej braku, godziwej ceny odkupu. Przepisy art. 312 § 5, 6 i 8 stosuje się odpowiednio.
 
@@ -5128,13 +5355,14 @@ Art. 596–609. (pominięte)
 
 § 6. Objęcie akcji zgodnie z § 2 pkt 1 nie może być uzależnione od warunku lub terminu.
 
-§ 7. Do podwyższenia kapitału zakładowego stosuje się odpowiednio przepisy art. 308–312 , art. 315 § 2, art. 316 § 2, art. 317 i art. 321 § 2.
+§ 7. Do podwyższenia kapitału zakładowego stosuje się odpowiednio przepisy art. 308–3121, art. 315 § 2, art. 316 § 2, art. 317 i art. 321 § 2.
 
 **Art. 432.**
 
 § 1. Uchwała o podwyższeniu kapitału zakładowego powinna zawierać:
 
-- **1)** sumę, o jaką kapitał zakładowy ma być podwyższony; [2) oznaczenie, czy akcje nowej emisji są na okaziciela, czy imienne;]
+- **1)** sumę, o jaką kapitał zakładowy ma być podwyższony;
+- **2)** oznaczenie, czy akcje nowej emisji są na okaziciela, czy imienne;
 - **3)** szczególne uprawnienia, jeżeli uchwała przewiduje przyznanie takich uprawnień akcjom nowej emisji;
 - **4)** cenę emisyjną nowych akcji lub upoważnienie zarządu albo rady nadzorczej do oznaczenia ceny emisyjnej;
 - **5)** datę, od której nowe akcje mają uczestniczyć w dywidendzie;
@@ -5182,7 +5410,7 @@ Art. 596–609. (pominięte)
 - **8)** termin, do którego akcjonariusze mogą wykonywać prawo poboru akcji; termin ten nie może być krótszy niż trzy tygodnie od dnia ogłoszenia;
 - **9)** termin ogłoszenia przydziału akcji.
 
-§ 3. [Jeżeli wszystkie dotychczasowe akcje w spółce są akcjami imiennymi, zarząd może zrezygnować z dokonywania ogłoszeń.] <Zarząd spółki niebędącej spółką publiczną może zrezygnować z dokonywania ogłoszeń o prawie poboru.> W takim przypadku wszyscy akcjonariusze powinni być poinformowani o treści ogłoszenia, o którym mowa w § 1, listami poleconymi albo na adresy do doręczeń elektronicznych. Termin do wykonania prawa poboru nie może być krótszy niż dwa tygodnie od dnia wysłania zawiadomienia do akcjonariusza listem poleconym albo na adres do doręczeń elektronicznych.
+§ 3. Jeżeli wszystkie dotychczasowe akcje w spółce są akcjami imiennymi, zarząd może zrezygnować z dokonywania ogłoszeń. W takim przypadku wszyscy akcjonariusze powinni być poinformowani o treści ogłoszenia, o którym mowa w § 1, listami poleconymi albo na adresy do doręczeń elektronicznych. Termin do wykonania prawa poboru nie może być krótszy niż dwa tygodnie od dnia wysłania zawiadomienia do akcjonariusza listem poleconym albo na adres do doręczeń elektronicznych.
 
 **Art. 435.**
 
@@ -5220,7 +5448,7 @@ Art. 596–609. (pominięte)
 - **4)** podpisy subskrybenta oraz spółki albo innego podmiotu upoważnionego do przyjmowania zapisów i wpłat na akcje;
 - **5)** adres podmiotu upoważnionego do przyjmowania zapisów i wpłat na akcje.
 
-§ 2. W przypadku złożenia zapisu na akcje w postaci elektronicznej przepisu § 2 pkt 4 nie stosuje się.
+§ 21. W przypadku złożenia zapisu na akcje w postaci elektronicznej przepisu § 2 pkt 4 nie stosuje się.
 
 § 3. Przyjęcie zapisu może być poświadczone pieczęcią lub mechanicznie odtwarzanym podpisem. Przyjęcie zapisu w postaci elektronicznej wymaga poświadczenia przez podmiot przyjmujący zapis.
 
@@ -5341,11 +5569,11 @@ Art. 596–609. (pominięte)
 
 § 2. Powzięcie przez walne zgromadzenie uchwały zmieniającej statut, która przewiduje przyznanie zarządowi kompetencji do pozbawienia prawa poboru akcji w całości lub w części za zgodą rady nadzorczej, wymaga spełnienia warunków określonych w art. 433 § 2.
 
-**Art. 447¹.** Jeżeli odstąpiono od badania przez biegłego rewidenta wkładów niepieniężnych, o których mowa w art. 312 , spółka ogłasza, przed wniesieniem wkładów, datę podjęcia uchwały o podwyższeniu kapitału zakładowego w granicach kapitału docelowego oraz informacje wskazane w art. 312 § 5. W terminie miesiąca od dnia wniesienia wkładów spółka ogłasza oświadczenie stwierdzające brak nadzwyczajnych bądź nowych okoliczności wpływających na wycenę wkładów niepieniężnych.
+**Art. 4471.** Jeżeli odstąpiono od badania przez biegłego rewidenta wkładów niepieniężnych, o których mowa w art. 3121, spółka ogłasza, przed wniesieniem wkładów, datę podjęcia uchwały o podwyższeniu kapitału zakładowego w granicach kapitału docelowego oraz informacje wskazane w art. 3121§ 5. W terminie miesiąca od dnia wniesienia wkładów spółka ogłasza oświadczenie stwierdzające brak nadzwyczajnych bądź nowych okoliczności wpływających na wycenę wkładów niepieniężnych.
 
 **Art. 448.**
 
-§ 1. Walne zgromadzenie może uchwalić podwyższenie kapitału zakładowego z zastrzeżeniem, że osoby, którym przyznano prawo do objęcia akcji, wykonają je na warunkach określonych w uchwale w trybie określonym w art. 448– 452 (warunkowe podwyższenie kapitału zakładowego).
+§ 1. Walne zgromadzenie może uchwalić podwyższenie kapitału zakładowego z zastrzeżeniem, że osoby, którym przyznano prawo do objęcia akcji, wykonają je na warunkach określonych w uchwale w trybie określonym w art. 448–452 (warunkowe podwyższenie kapitału zakładowego).
 
 § 2. Uchwała o warunkowym podwyższeniu kapitału zakładowego może zostać powzięta w celu:
 
@@ -5368,7 +5596,7 @@ Art. 596–609. (pominięte)
 
 § 2. Do wkładów wnoszonych przez obligatariuszy obligacji zamiennych nie stosuje się przepisów dotyczących wkładów niepieniężnych.
 
-§ 3. Jeżeli uchwała o warunkowym podwyższeniu kapitału zakładowego przewiduje obejmowanie akcji w zamian za wkłady niepieniężne, powinny być one poddane badaniu przez biegłego rewidenta. Sąd rejestrowy oddala wniosek o rejestrację podwyższenia kapitału zakładowego, jeżeli wartość wkładu jest niższa co najmniej o jedną piątą od ceny emisyjnej akcji, które mają być obejmowane za wkłady niepieniężne. Przepisy art. 311 § 1 oraz art. 312 i art. 312 stosuje się odpowiednio.
+§ 3. Jeżeli uchwała o warunkowym podwyższeniu kapitału zakładowego przewiduje obejmowanie akcji w zamian za wkłady niepieniężne, powinny być one poddane badaniu przez biegłego rewidenta. Sąd rejestrowy oddala wniosek o rejestrację podwyższenia kapitału zakładowego, jeżeli wartość wkładu jest niższa co najmniej o jedną piątą od ceny emisyjnej akcji, które mają być obejmowane za wkłady niepieniężne. Przepisy art. 311 § 1 oraz art. 312 i art. 3121stosuje się odpowiednio.
 
 § 4. W przypadku warunkowego podwyższenia kapitału zakładowego w celu oferowania akcji obligatariuszom obligacji zamiennych nie stosuje się przepisu art. 431 § 3.
 
@@ -5387,7 +5615,7 @@ Art. 596–609. (pominięte)
 
 § 1. Osoby uprawnione do objęcia akcji, określone w uchwale walnego zgromadzenia, obejmują akcje w warunkowo podwyższonym kapitale zakładowym w drodze pisemnego oświadczenia na formularzach przygotowanych przez spółkę. Do oświadczeń tych stosuje się odpowiednio przepisy art. 437.
 
-§ 2. Po zarejestrowaniu warunkowego podwyższenia kapitału zakładowego następuje przyznanie akcji zgodnie z uchwałą, o której mowa w art. 449 § 1, i oświadczeniem osoby uprawnionej do objęcia akcji. Przyznanie akcji staje się skuteczne z chwilą dokonania wpisu w rejestrze akcjonariuszy, a w przypadku spółki, której akcje są zarejestrowane w depozycie papierów wartościowych – z chwilą ich zapisania na rachunku papierów wartościowych lub rachunku zbiorczym.
+§ 2. Po zarejestrowaniu warunkowego podwyższenia kapitału zakładowego następuje przyznanie akcji zgodnie z uchwałą, o której mowa w art. 449 § 1, i oświadczeniem osoby uprawnionej do objęcia akcji. Przyznanie akcji staje się skuteczne z chwilą dokonania wpisu w rejestrze akcjonariuszy, a w przypadku spółki, której akcje są zarejestrowane w depozycie papierów wartościowych – z chwilą ich zapisania na rachunku papierów wartościowych lub rachunku zbiorczym .
 
 § 3. Akcje mogą być przyznane tylko tym akcjonariuszom, którzy wnieśli w pełni wkłady. Przepisów art. 309 § 3 i 4 nie stosuje się.
 
@@ -5407,7 +5635,7 @@ Art. 596–609. (pominięte)
 
 § 1. Do docelowego i warunkowego podwyższenia kapitału zakładowego stosuje się odpowiednio przepisy rozdziału 4, chyba że przepisy niniejszego rozdziału stanowią inaczej.
 
-§ 2. W celu podwyższenia kapitału zakładowego zgodnie z przepisami niniejszego rozdziału spółka może emitować papiery wartościowe [imienne lub na okaziciela] uprawniające ich posiadacza do zapisu lub objęcia akcji, z wyłączeniem prawa poboru (warranty subskrypcyjne).
+§ 2. W celu podwyższenia kapitału zakładowego zgodnie z przepisami niniejszego rozdziału spółka może emitować papiery wartościowe imienne lub na okaziciela uprawniające ich posiadacza do zapisu lub objęcia akcji, z wyłączeniem prawa poboru (warranty subskrypcyjne).
 
 § 3. Uchwała o emisji warrantów subskrypcyjnych powinna określać:
 
@@ -5418,12 +5646,12 @@ Art. 596–609. (pominięte)
 
 **Art. 454.** Przepisy o kapitale docelowym i warunkowym nie naruszają kompetencji walnego zgromadzenia do zwykłego podwyższenia kapitału zakładowego w trybie określonym w art. 431 w okresie korzystania przez zarząd z uprawnień określonych w niniejszym rozdziale.
 
-**Art. 454¹.**
+**Art. 4541.**
 
 § 1. Walne zgromadzenie może uchwalić podwyższenie kapitału zakładowego w drodze zamiany obligacji kapitałowych, o których mowa w art. 27a ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2022 r. poz. 2244 oraz z 2023 r. poz. 825 i 1723), na akcje w przypadku wystąpienia zdarzenia inicjującego, o którym mowa w:
 
-- **1)** art. 54 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm. ),
-- **2)** art. 71 ust. 8 rozporządzenia delegowanego Komisji (UE) nr 2015/35 z dnia 10 października 2014 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady nr 2009/138/WE w sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) (Dz. Urz. UE L 12 z 17.01.2015, str. 1, z późn. zm. ) – zwanego dalej „zdarzeniem inicjującym”, na zasadach określonych w warunkach emisji (podwyższenie kapitału zakładowego w drodze zamiany obligacji kapitałowych na akcje).
+- **1)** art. 54 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm.),
+- **2)** art. 71 ust. 8 rozporządzenia delegowanego Komisji (UE) nr 2015/35 z dnia 10 października 2014 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady nr 2009/138/WE w sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) (Dz. Urz. UE L 12 z 17.01.2015, str. 1, z późn. zm.) zwanego dalej „zdarzeniem inicjującym”, na zasadach określonych w warunkach emisji (podwyższenie kapitału zakładowego w drodze zamiany obligacji kapitałowych na akcje).
 
 § 2. Uchwała walnego zgromadzenia w sprawie podwyższenia kapitału zakładowego w drodze zamiany obligacji kapitałowych na akcje zawiera upoważnienie zarządu do podjęcia uchwały o przyznaniu akcji w przypadku wystąpienia zdarzeń, o których mowa w § 1. Udzielenie upoważnienia wymaga zmiany statutu.
 
@@ -5431,7 +5659,7 @@ Art. 596–609. (pominięte)
 
 § 4. Podwyższenie kapitału zakładowego w celu przyznania akcji w zamian za obligacje kapitałowe może nastąpić wyłącznie w trybie podwyższenia kapitału zakładowego w drodze zamiany obligacji kapitałowych na akcje, z uwzględnieniem przepisów ustawy z dnia 15 stycznia 2015 r. o obligacjach.
 
-**Art. 454².**
+**Art. 4542.**
 
 § 1. Uchwała walnego zgromadzenia w sprawie podwyższenia kapitału zakładowego w drodze zamiany obligacji kapitałowych na akcje wymaga większości trzech czwartych głosów.
 
@@ -5446,13 +5674,13 @@ Art. 596–609. (pominięte)
 
 § 4. Nowe akcje przyznane podmiotom uprawnionym na mocy uchwały zarządu nie wymagają objęcia i mogą być przyznane wyłącznie w zamian za obligacje kapitałowe, które zostały w pełni opłacone.
 
-**Art. 454³.**
+**Art. 4543.**
 
 § 1. Podwyższenie kapitału zakładowego w drodze zamiany obligacji kapitałowych na akcje zarząd zgłasza do sądu rejestrowego. Do zgłoszenia należy dołączyć uchwałę w sprawie podwyższenia kapitału zakładowego w drodze zamiany obligacji kapitałowych na akcje oraz uchwałę o emisji obligacji kapitałowych.
 
 § 2. Uchwałę w sprawie podwyższenia kapitału zakładowego w drodze zamiany obligacji kapitałowych na akcje zarząd ogłasza najpóźniej w terminie sześciu tygodni od dnia wpisu do rejestru podwyższenia kapitału zakładowego.
 
-**Art. 454⁴.**
+**Art. 4544.**
 
 § 1. W terminie 21 dni od dnia wystąpienia zdarzenia inicjującego zarząd podejmuje uchwałę o przyznaniu akcji na zasadach określonych w warunkach emisji obligacji kapitałowych podmiotom uprawnionym na dzień wyrejestrowania tych obligacji z depozytu papierów wartościowych oraz zawiadamia o jej podjęciu podmiot, w którym te obligacje zostały zarejestrowane.
 
@@ -5462,7 +5690,7 @@ Art. 596–609. (pominięte)
 
 § 4. W terminie 14 dni od dnia przyznania akcji zarząd zgłasza uchwałę o przyznaniu akcji do sądu rejestrowego wraz z wykazem przyznanych na jej podstawie akcji. Wykaz zawiera nazwiska i imiona albo firmy (nazwy) akcjonariuszy oraz liczbę przyznanych im akcji. Do zgłoszenia należy dołączyć oświadczenie zarządu, że akcje zostały przyznane w zamian za obligacje kapitałowe, które zostały w pełni opłacone.
 
-**Art. 454⁵.**
+**Art. 4545.**
 
 § 1. W przypadku podjęcia przez zarząd uchwały o przyznaniu akcji uczestnicy depozytu papierów wartościowych przekazują spółce w terminie wskazanym przez podmiot, w którym obligacje zostały zarejestrowane, nazwiska i imiona albo firmy (nazwy) obligatariuszy oraz adresy ich miejsca zamieszkania albo siedziby albo inne adresy do doręczeń, albo adresy do doręczeń elektronicznych, ze wskazaniem liczby obligacji posiadanych przez każdego z nich. Informacje te są sporządzane według stanu na dzień wyrejestrowania obligacji z depozytu papierów wartościowych.
 
@@ -5472,7 +5700,7 @@ Art. 596–609. (pominięte)
 
 § 4. W przypadku gdy akcje spółki są rejestrowane w rejestrze akcjonariuszy, spółka przekazuje podmiotowi prowadzącemu rejestr akcjonariuszy dane osobowe, o których mowa w § 1, ze wskazaniem liczby akcji, w celu zapisania akcji w tym rejestrze.
 
-**Art. 454⁶.**
+**Art. 4546.**
 
 § 1. Do podwyższenia kapitału zakładowego w drodze zamiany obligacji kapitałowych na akcje stosuje się odpowiednio przepisy rozdziału 4, chyba że przepisy niniejszego rozdziału stanowią inaczej.
 
@@ -5527,23 +5755,22 @@ Art. 596–609. (pominięte)
 
 #### Rozdział 7 Rozwiązanie i likwidacja spółki
 
-**Art. 459.**
+**Art. 459.** Rozwiązanie spółki powodują:
 
-- **8)** Rozwiązanie spółki powodują:
 - **1)** przyczyny przewidziane w statucie;
-- **2)** uchwała walnego zgromadzenia o rozwiązaniu spółki albo o przeniesieniu siedziby spółki za granicę, chyba że przeniesienie siedziby ma nastąpić do innego państwa członkowskiego Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym, a prawo tego państwa to dopuszcza;
+- **2)** uchwała walnego zgromadzenia o rozwiązaniu spółki albo o przeniesieniu siedziby spółki za granicę, chyba że przeniesienie siedziby ma nastąpić do innego państwa członkowskiego Unii Europejskiej lub państwa -strony umowy o Europejskim Obszarze Gospodarczym, a prawo tego państwa to dopuszcza;
 - **3)** ogłoszenie upadłości spółki;
 - **4)** inne przyczyny przewidziane prawem.
 
 **Art. 460.**
 
-- **8)** § 1. Do dnia złożenia wniosku o wykreślenie spółki z rejestru rozwiązaniu może zapobiec uchwała walnego zgromadzenia powzięta wymaganą dla zmiany statutu większością głosów, oddanych w obecności akcjonariuszy reprezentujących co najmniej połowę kapitału zakładowego.
+§ 1. Do dnia złożenia wniosku o wykreślenie spółki z rejestru rozwiązaniu może zapobiec uchwała walnego zgromadzenia powzięta wymaganą dla zmiany statutu większością głosów, oddanych w obecności akcjonariuszy reprezentujących co najmniej połowę kapitału zakładowego.
 
 § 2. Przepisu § 1 nie stosuje się w przypadku, gdy rozwiązanie następuje z mocy prawomocnego orzeczenia sądowego.
 
 **Art. 461.**
 
-- **8)** § 1. Otwarcie likwidacji następuje z dniem uprawomocnienia się orzeczenia o rozwiązaniu spółki przez sąd, powzięcia przez walne zgromadzenie uchwały o rozwiązaniu spółki lub zaistnienia innej przyczyny jej rozwiązania.
+§ 1. Otwarcie likwidacji następuje z dniem uprawomocnienia się orzeczenia o rozwiązaniu spółki przez sąd, powzięcia przez walne zgromadzenie uchwały o rozwiązaniu spółki lub zaistnienia innej przyczyny jej rozwiązania.
 
 § 2. Likwidację prowadzi się pod firmą spółki z dodaniem oznaczenia „w likwidacji”.
 
@@ -5551,19 +5778,19 @@ Art. 596–609. (pominięte)
 
 **Art. 462.**
 
-- **8)** § 1. Do spółki w okresie likwidacji stosuje się przepisy dotyczące organów spółki, praw i obowiązków akcjonariuszy oraz inne przepisy niniejszego działu, jeżeli przepisy niniejszego rozdziału nie stanowią inaczej lub z celu likwidacji nie wynika co innego.
+§ 1. Do spółki w okresie likwidacji stosuje się przepisy dotyczące organów spółki, praw i obowiązków akcjonariuszy oraz inne przepisy niniejszego działu, jeżeli przepisy niniejszego rozdziału nie stanowią inaczej lub z celu likwidacji nie wynika co innego.
 
 § 2. W okresie likwidacji nie można, nawet częściowo, wypłacać akcjonariuszom zysków ani dokonywać podziału majątku spółki przed spłaceniem wszystkich zobowiązań.
 
 **Art. 463.**
 
-- **8)** § 1. Likwidatorami są członkowie zarządu, chyba że statut lub uchwała walnego zgromadzenia stanowi inaczej.
+§ 1. Likwidatorami są członkowie zarządu, chyba że statut lub uchwała walnego zgromadzenia stanowi inaczej.
 
 § 2. Na wniosek akcjonariuszy reprezentujących co najmniej jedną dziesiątą kapitału zakładowego sąd rejestrowy może uzupełnić liczbę likwidatorów, ustanawiając jednego lub dwóch likwidatorów.
 
 § 3. Jeżeli o likwidacji orzeka sąd, może on jednocześnie ustanowić likwidatorów.
 
-§ 3. Sposób reprezentacji spółki w okresie likwidacji określa się w statucie spółki, uchwale walnego zgromadzenia albo orzeczeniu sądu. W każdym przypadku sąd może zmienić sposób reprezentacji spółki w okresie likwidacji.
+§ 31. Sposób reprezentacji spółki w okresie likwidacji określa się w statucie spółki, uchwale walnego zgromadzenia albo orzeczeniu sądu. W każdym przypadku sąd może zmienić sposób reprezentacji spółki w okresie likwidacji.
 
 § 4. Na wniosek osób mających w tym interes prawny sąd rejestrowy może, z ważnych powodów, odwołać likwidatorów i ustanowić innych. Likwidatorów ustanowionych przez sąd tylko sąd może odwołać.
 
@@ -5571,25 +5798,25 @@ Art. 596–609. (pominięte)
 
 **Art. 464.**
 
-- **8)** § 1. Otwarcie likwidacji, nazwiska i imiona likwidatorów oraz ich adresy albo adresy do doręczeń albo adresy do doręczeń elektronicznych, sposób reprezentacji spółki przez likwidatorów i wszelkie w tym względzie zmiany należy zgłosić, nawet gdyby nie nastąpiła żadna zmiana w dotychczasowej reprezentacji spółki. Każdy likwidator ma prawo i obowiązek dokonania tego zgłoszenia.
+§ 1. Otwarcie likwidacji, nazwiska i imiona likwidatorów oraz ich adresy albo adresy do doręczeń albo adresy do doręczeń elektronicznych, sposób reprezentacji spółki przez likwidatorów i wszelkie w tym względzie zmiany należy zgłosić, nawet gdyby nie nastąpiła żadna zmiana w dotychczasowej reprezentacji spółki. Każdy likwidator ma prawo i obowiązek dokonania tego zgłoszenia.
 
-§ 2. (uchylony) § 3. Wpis likwidatorów ustanowionych przez sąd i wykreślenie likwidatorów odwołanych przez sąd następuje z urzędu.
+§ 2. (uchylony)
+
+§ 3. Wpis likwidatorów ustanowionych przez sąd i wykreślenie likwidatorów odwołanych przez sąd następuje z urzędu.
 
 § 4. W przypadku uchylenia likwidacji likwidatorzy powinni tę okoliczność zgłosić do sądu rejestrowego w celu wpisania do rejestru.
 
 **Art. 465.**
 
-- **8)** § 1. Likwidatorzy powinni ogłosić dwukrotnie o rozwiązaniu spółki i otwarciu likwidacji, wzywając wierzycieli do zgłoszenia ich wierzytelności w terminie sześciu miesięcy od dnia ostatniego ogłoszenia.
+§ 1. Likwidatorzy powinni ogłosić dwukrotnie o rozwiązaniu spółki i otwarciu likwidacji, wzywając wierzycieli do zgłoszenia ich wierzytelności w terminie sześciu miesięcy od dnia ostatniego ogłoszenia.
 
 § 2. Ogłoszenia, o których mowa w § 1, nie mogą być dokonywane w odstępie czasu dłuższym niż miesiąc ani krótszym niż dwa tygodnie.
 
-**Art. 466.**
-
-- **8)** Do likwidatorów stosuje się przepisy dotyczące członków zarządu, chyba że przepisy niniejszego rozdziału stanowią inaczej.
+**Art. 466.** Do likwidatorów stosuje się przepisy dotyczące członków zarządu, chyba że przepisy niniejszego rozdziału stanowią inaczej.
 
 **Art. 467.**
 
-- **8)** § 1. Likwidatorzy powinni sporządzić bilans otwarcia likwidacji. Bilans ten likwidatorzy składają walnemu zgromadzeniu do zatwierdzenia.
+§ 1. Likwidatorzy powinni sporządzić bilans otwarcia likwidacji. Bilans ten likwidatorzy składają walnemu zgromadzeniu do zatwierdzenia.
 
 § 2. Likwidatorzy powinni po upływie każdego roku obrotowego składać walnemu zgromadzeniu sprawozdanie ze swej działalności oraz sprawozdanie finansowe.
 
@@ -5597,13 +5824,13 @@ Art. 596–609. (pominięte)
 
 **Art. 468.**
 
-- **8)** § 1. Likwidatorzy powinni zakończyć interesy bieżące spółki, ściągnąć wierzytelności, wypełnić zobowiązania i upłynnić majątek spółki (czynności likwidacyjne). Nowe interesy mogą podejmować tylko wówczas, gdy to jest potrzebne do ukończenia spraw w toku. Nieruchomości mogą być zbywane w drodze publicznej licytacji, a z wolnej ręki – jedynie na mocy uchwały walnego zgromadzenia i po cenie nie niższej od uchwalonej przez zgromadzenie.
+§ 1. Likwidatorzy powinni zakończyć interesy bieżące spółki, ściągnąć wierzytelności, wypełnić zobowiązania i upłynnić majątek spółki (czynności likwidacyjne). Nowe interesy mogą podejmować tylko wówczas, gdy to jest potrzebne do ukończenia spraw w toku. Nieruchomości mogą być zbywane w drodze publicznej licytacji, a z wolnej ręki – jedynie na mocy uchwały walnego zgromadzenia i po cenie nie niższej od uchwalonej przez zgromadzenie.
 
 § 2. W stosunku wewnętrznym likwidatorzy są zobowiązani stosować się do uchwał walnego zgromadzenia. Zasady tej nie stosuje się do likwidatorów ustanowionych przez sąd.
 
 **Art. 469.**
 
-- **8)** § 1. W granicach swoich kompetencji określonych w art. 468 likwidatorzy mają prawo prowadzenia spraw oraz reprezentowania spółki.
+§ 1. W granicach swoich kompetencji określonych w art. 468 likwidatorzy mają prawo prowadzenia spraw oraz reprezentowania spółki.
 
 § 2. Ograniczenia kompetencji likwidatorów nie mają skutku prawnego wobec osób trzecich.
 
@@ -5611,25 +5838,19 @@ Art. 596–609. (pominięte)
 
 **Art. 470.**
 
-- **8)** § 1. Otwarcie likwidacji powoduje wygaśnięcie prokury.
+§ 1. Otwarcie likwidacji powoduje wygaśnięcie prokury.
 
 § 2. W okresie likwidacji nie może być ustanowiona prokura.
 
-**Art. 471.**
+**Art. 471.** Jeżeli kapitału zakładowego nie wpłacono całkowicie, a majątek spółki nie wystarcza na pokrycie jej zobowiązań, likwidatorzy powinni ściągnąć od każdego akcjonariusza, poczynając od akcji nieuprzywilejowanych co do podziału majątku, wpłaty należności w takiej wysokości, jakiej potrzeba do pokrycia zobowiązań.
 
-- **8)** Jeżeli kapitału zakładowego nie wpłacono całkowicie, a majątek spółki nie wystarcza na pokrycie jej zobowiązań, likwidatorzy powinni ściągnąć od każdego akcjonariusza, poczynając od akcji nieuprzywilejowanych co do podziału majątku, wpłaty należności w takiej wysokości, jakiej potrzeba do pokrycia zobowiązań.
+**Art. 472.** Jeżeli majątek spółki nie wystarcza na zwrot sum wpłaconych na akcje uprzywilejowane co do podziału majątku, a pozostałe akcje nie zostały w pełni pokryte, należy ściągnąć od akcjonariuszy zwykłych dalsze wpłaty należności.
 
-**Art. 472.**
-
-- **8)** Jeżeli majątek spółki nie wystarcza na zwrot sum wpłaconych na akcje uprzywilejowane co do podziału majątku, a pozostałe akcje nie zostały w pełni pokryte, należy ściągnąć od akcjonariuszy zwykłych dalsze wpłaty należności.
-
-**Art. 473.**
-
-- **8)** Sumy potrzebne do zaspokojenia lub zabezpieczenia znanych spółce wierzycieli, którzy się nie zgłosili lub których wierzytelności nie są wymagalne albo są sporne, należy złożyć do depozytu sądowego.
+**Art. 473.** Sumy potrzebne do zaspokojenia lub zabezpieczenia znanych spółce wierzycieli, którzy się nie zgłosili lub których wierzytelności nie są wymagalne albo są sporne, należy złożyć do depozytu sądowego.
 
 **Art. 474.**
 
-- **8)** § 1. Podział między akcjonariuszy majątku pozostałego po zaspokojeniu lub zabezpieczeniu wierzycieli nie może nastąpić przed upływem roku od dnia ostatniego ogłoszenia o otwarciu likwidacji i wezwaniu wierzycieli.
+§ 1. Podział między akcjonariuszy majątku pozostałego po zaspokojeniu lub zabezpieczeniu wierzycieli nie może nastąpić przed upływem roku od dnia ostatniego ogłoszenia o otwarciu likwidacji i wezwaniu wierzycieli.
 
 § 2. Majątek, o którym mowa w § 1, dzieli się między akcjonariuszy w stosunku do dokonanych przez każdego z nich wpłat na kapitał zakładowy.
 
@@ -5639,29 +5860,29 @@ Art. 596–609. (pominięte)
 
 **Art. 475.**
 
-- **8)** § 1. Wierzyciele spółki, którzy nie zgłosili swoich roszczeń we właściwym terminie ani nie byli spółce znani, mogą żądać zaspokojenia swoich należności z majątku spółki jeszcze niepodzielonego.
+§ 1. Wierzyciele spółki, którzy nie zgłosili swoich roszczeń we właściwym terminie ani nie byli spółce znani, mogą żądać zaspokojenia swoich należności z majątku spółki jeszcze niepodzielonego.
 
 § 2. Akcjonariusze, którzy po upływie terminu określonego w art. 474 § 1 otrzymali w dobrej wierze przypadającą na nich część majątku spółki, nie są obowiązani do jej zwrotu celem pokrycia należności wierzycieli.
 
 **Art. 476.**
 
-- **8)** § 1. Po zatwierdzeniu przez walne zgromadzenie sprawozdania finansowego na dzień poprzedzający podział między akcjonariuszy majątku pozostałego po zaspokojeniu lub zabezpieczeniu wierzycieli (sprawozdanie likwidacyjne) i po zakończeniu likwidacji, likwidatorzy powinni ogłosić w siedzibie spółki to sprawozdanie i złożyć je sądowi rejestrowemu, z jednoczesnym zgłoszeniem wniosku o wykreślenie spółki z rejestru. <§ 1 . Do wniosku o wykreślenie spółki z rejestru dołącza się wykaz akcjonariuszy spółki sporządzony na podstawie informacji, o których mowa w:
-- **1)** art. 91 ust. 15 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych albo
-- **2)** art. 328 § 1 według stanu po zatwierdzeniu sprawozdania likwidacyjnego ‒ zawierający informacje o ich imionach i nazwiskach albo firmach (nazwach), miejscach zamieszkania albo siedzibach oraz adresach albo innych adresach do doręczeń albo adresach do doręczeń elektronicznych oraz o liczbie, seriach i numerach albo odrębnych oznaczeniach, o których mowa w art. 55 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, posiadanych przez nich akcji.> § 2. Jeżeli walne zgromadzenie zwołane w celu zatwierdzenia sprawozdania nie odbyło się z powodu braku kworum, likwidatorzy mogą wykonać czynności, o których mowa w § 1, bez zatwierdzenia sprawozdania likwidacyjnego. <§ 2 . W przypadku zgłoszenia wniosku o wykreślenie spółki z rejestru bez zatwierdzenia sprawozdania likwidacyjnego, wykaz akcjonariuszy spółki, o którym mowa w § 1 , sporządza się na podstawie informacji, o których mowa w art. 328 § 1, według stanu po dniu, na który walne zgromadzenie w celu zatwierdzenia sprawozdania zostało zwołane.> § 3. Księgi i dokumenty spółki rozwiązanej powinny być oddane na przechowanie osobie wskazanej w statucie lub uchwale walnego zgromadzenia. W braku takiego wskazania, przechowawcę wyznacza sąd rejestrowy.
+§ 1. Po zatwierdzeniu przez walne zgromadzenie sprawozdania finansowego na dzień poprzedzający podział między akcjonariuszy majątku pozostałego po zaspokojeniu lub zabezpieczeniu wierzycieli (sprawozdanie likwidacyjne) i po zakończeniu likwidacji, likwidatorzy powinni ogłosić w siedzibie spółki to sprawozdanie i złożyć je sądowi rejestrowemu, z jednoczesnym zgłoszeniem wniosku o wykreślenie spółki z rejestru.
+
+§ 2. Jeżeli walne zgromadzenie zwołane w celu zatwierdzenia sprawozdania nie odbyło się z powodu braku kworum, likwidatorzy mogą wykonać czynności, o których mowa w § 1, bez zatwierdzenia sprawozdania likwidacyjnego.
+
+§ 3. Księgi i dokumenty spółki rozwiązanej powinny być oddane na przechowanie osobie wskazanej w statucie lub uchwale walnego zgromadzenia. W braku takiego wskazania, przechowawcę wyznacza sąd rejestrowy.
 
 § 4. Z upoważnienia sądu rejestrowego akcjonariusze i osoby mające w tym interes prawny mogą przeglądać księgi i dokumenty.
 
 **Art. 477.**
 
-- **8)** § 1. W przypadku upadłości spółki jej rozwiązanie następuje po zakończeniu postępowania upadłościowego, z chwilą wykreślenia z rejestru. Wniosek o wykreślenie z rejestru składa syndyk.
+§ 1. W przypadku upadłości spółki jej rozwiązanie następuje po zakończeniu postępowania upadłościowego, z chwilą wykreślenia z rejestru. Wniosek o wykreślenie z rejestru składa syndyk.
 
 § 2. Spółka nie ulega rozwiązaniu, w przypadku gdy postępowanie upadłościowe zostało zakończone w wyniku zaspokojenia wszystkich wierzycieli w całości lub zatwierdzenia układu albo gdy postępowanie upadłościowe zostało uchylone lub umorzone.
 
 § 3. O rozwiązaniu spółki likwidatorzy lub syndyk powinni zawiadomić właściwy urząd skarbowy, przekazując odpis sprawozdania likwidacyjnego; powinni również zawiadomić inne organy i instytucje określone w odrębnych przepisach, przekazując im, w przypadku zgłoszenia takiego żądania, odpis sprawozdania likwidacyjnego.
 
-**Art. 478.**
-
-- **8)** Rozwiązanie spółki następuje po przeprowadzeniu likwidacji z chwilą wykreślenia spółki z rejestru.
+**Art. 478.** Rozwiązanie spółki następuje po przeprowadzeniu likwidacji z chwilą wykreślenia spółki z rejestru.
 
 #### Rozdział 8 Odpowiedzialność cywilnoprawna
 
@@ -5684,7 +5905,9 @@ Art. 596–609. (pominięte)
 
 § 1. Członek zarządu, rady nadzorczej oraz likwidator odpowiada wobec spółki za szkodę wyrządzoną działaniem lub zaniechaniem sprzecznym z prawem lub postanowieniami statutu spółki, chyba że nie ponosi winy.
 
-§ 2. (uchylony) § 3. Członek zarządu, rady nadzorczej oraz likwidator nie narusza obowiązku dołożenia staranności wynikającej z zawodowego charakteru swojej działalności, jeżeli postępując w sposób lojalny wobec spółki, działa w granicach uzasadnionego ryzyka gospodarczego, w tym na podstawie informacji, analiz i opinii, które powinny być w danych okolicznościach uwzględnione przy dokonywaniu starannej oceny.
+§ 2. (uchylony)
+
+§ 3. Członek zarządu, rady nadzorczej oraz likwidator nie narusza obowiązku dołożenia staranności wynikającej z zawodowego charakteru swojej działalności, jeżeli postępując w sposób lojalny wobec spółki, działa w granicach uzasadnionego ryzyka gospodarczego, w tym na podstawie informacji, analiz i opinii, które powinny być w danych okolicznościach uwzględnione przy dokonywaniu starannej oceny.
 
 **Art. 484.** Kto współdziałał w przyznawaniu przez spółkę bezpośrednio lub za pośrednictwem osób trzecich akcji, obligacji lub innych tytułów uczestnictwa w zyskach albo podziale majątku, jest obowiązany do naprawienia wyrządzonej szkody, jeżeli zamieścił w ogłoszeniach lub zapisach fałszywe dane lub w inny sposób dane te rozpowszechniał albo, podając dane o stanie majątkowym spółki, zataił okoliczności, które powinny być ujawnione zgodnie z obowiązującymi przepisami.
 
@@ -5708,9 +5931,9 @@ Art. 596–609. (pominięte)
 
 **Art. 490.** Przepisy art. 479–489 nie naruszają praw akcjonariuszy oraz innych osób do dochodzenia naprawienia szkody na zasadach ogólnych.
 
-## TYTUŁ IV Łączenie, podział i przekształcanie spółek
+## Tytuł IV Łączenie, podział i przekształcanie spółek
 
-### DZIAŁ I Łączenie się spółek
+### Dział I Łączenie się spółek
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -5718,7 +5941,7 @@ Art. 596–609. (pominięte)
 
 § 1. Spółki kapitałowe mogą się łączyć ze sobą oraz ze spółkami osobowymi; spółka osobowa, z wyłączeniem spółki komandytowo-akcyjnej, nie może jednakże być spółką przejmującą albo spółką nowo zawiązaną.
 
-§ 1. Spółka kapitałowa oraz spółka komandytowo-akcyjna mogą się łączyć ze spółką zagraniczną, o której mowa w art. 119 pkt 1 dyrektywy Parlamentu Europejskiego i Rady (UE) 2017/1132 z dnia 14 czerwca 2017 r. w sprawie niektórych aspektów prawa spółek (Dz. Urz. UE L 169 z 30.06.2017, str. 46–127, z późn. zm. ), utworzoną zgodnie z prawem państwa członkowskiego Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym i mającą siedzibę statutową, zarząd główny lub główny zakład na terenie Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym (połączenie transgraniczne).
+§ 11. Spółka kapitałowa oraz spółka komandytowo-akcyjna mogą się łączyć ze spółką zagraniczną, o której mowa w art. 119 pkt 1 dyrektywy Parlamentu Europejskiego i Rady (UE) 2017/1132 z dnia 14 czerwca 2017 r. w sprawie niektórych aspektów prawa spółek (Dz. Urz. UE L 169 z 30.06.2017, str. 46–127, z późn. zm.), utworzoną zgodnie z prawem państwa członkowskiego Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym i mającą siedzibę statutową, zarząd główny lub główny zakład na terenie Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym (połączenie transgraniczne).
 
 § 2. Spółki osobowe mogą się łączyć ze sobą tylko przez zawiązanie spółki kapitałowej albo spółki komandytowo-akcyjnej albo przejęcie przez spółkę komandytowo-akcyjną.
 
@@ -5812,7 +6035,7 @@ Art. 596–609. (pominięte)
 
 § 2. Plan połączenia powinien być ogłoszony nie później niż na miesiąc przed datą zgromadzenia wspólników lub walnego zgromadzenia, na którym ma być podjęta uchwała o połączeniu.
 
-§ 2. Przepisu § 2 nie stosuje się do spółki, która nie później niż na miesiąc przed dniem rozpoczęcia zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o połączeniu, nieprzerwanie do dnia zakończenia zgromadzenia podejmującego uchwałę w sprawie połączenia bezpłatnie udostępni do publicznej wiadomości plan połączenia na swojej stronie internetowej.
+§ 21. Przepisu § 2 nie stosuje się do spółki, która nie później niż na miesiąc przed dniem rozpoczęcia zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o połączeniu, nieprzerwanie do dnia zakończenia zgromadzenia podejmującego uchwałę w sprawie połączenia bezpłatnie udostępni do publicznej wiadomości plan połączenia na swojej stronie internetowej.
 
 § 3. W przypadku gdy spółki uczestniczące w połączeniu złożą wspólnie wniosek o ogłoszenie planu połączenia, ogłoszenie powinno nastąpić nie później niż na miesiąc przed datą zgromadzenia wspólników lub walnego zgromadzenia, na którym ma być podjęta pierwsza uchwała o połączeniu.
 
@@ -5838,11 +6061,11 @@ Art. 596–609. (pominięte)
 - **2)** wskazanie metody albo metod użytych dla określenia proponowanego w planie połączenia stosunku wymiany udziałów lub akcji wraz z oceną zasadności ich zastosowania;
 - **3)** wskazanie szczególnych trudności związanych z wyceną udziałów lub akcji łączących się spółek.
 
-§ 1. W przypadku wskazania przez spółkę informacji stanowiących tajemnicę przedsiębiorstwa lub innych prawnie chronionych informacji zawartych w opinii biegły składa do sądu rejestrowego dodatkowo odpis opinii z pominięciem tych informacji.
+§ 11. W przypadku wskazania przez spółkę informacji stanowiących tajemnicę przedsiębiorstwa lub innych prawnie chronionych informacji zawartych w opinii biegły składa do sądu rejestrowego dodatkowo odpis opinii z pominięciem tych informacji.
 
 § 2. Na pisemne żądanie biegłego zarządy łączących się spółek przedłożą mu dodatkowe wyjaśnienia lub dokumenty.
 
-**Art. 503¹.**
+**Art. 5031.**
 
 § 1. Jeżeli wszyscy wspólnicy każdej z łączących się spółek wyrazili zgodę, nie jest wymagane:
 
@@ -5850,7 +6073,7 @@ Art. 596–609. (pominięte)
 - **2)** udzielenie informacji, o których mowa w art. 501 § 2, lub
 - **3)** badanie planu połączenia przez biegłego i jego opinia.
 
-§ 2. W przypadku określonym w § 1 pkt 3 do majątku spółki przejmowanej albo majątków spółek łączących się przez zawiązanie nowej spółki stosuje się odpowiednio przepisy art. 311–312 , jeżeli spółka przejmująca albo spółka nowo zawiązana jest spółką akcyjną.
+§ 2. W przypadku określonym w § 1 pkt 3 do majątku spółki przejmowanej albo majątków spółek łączących się przez zawiązanie nowej spółki stosuje się odpowiednio przepisy art. 311–3121, jeżeli spółka przejmująca albo spółka nowo zawiązana jest spółką akcyjną.
 
 **Art. 504.**
 
@@ -5875,7 +6098,7 @@ Art. 596–609. (pominięte)
 
 § 3. Wspólnicy mogą żądać udostępnienia im bezpłatnie w lokalu spółki odpisów dokumentów, o których mowa w § 1 i 2. Wspólnikom, którzy wyrazili zgodę na wykorzystanie przez spółkę środków komunikacji elektronicznej w celu przekazywania informacji, można przesłać odpisy tych dokumentów w formie elektronicznej.
 
-§ 3. Przepisów § 1, 2 i § 3 zdanie pierwsze nie stosuje się, gdy spółka nie później niż na miesiąc przed dniem rozpoczęcia zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o połączeniu, nieprzerwanie do dnia zakończenia zgromadzenia podejmującego uchwałę w sprawie połączenia bezpłatnie udostępni do publicznej wiadomości dokumenty, o których mowa w § 1 i 2, na swojej stronie internetowej bądź w tym terminie umożliwi wspólnikom na swojej stronie internetowej dostęp do tych dokumentów w wersji elektronicznej i ich druk.
+§ 31. Przepisów § 1, 2 i § 3 zdanie pierwsze nie stosuje się, gdy spółka nie później niż na miesiąc przed dniem rozpoczęcia zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o połączeniu, nieprzerwanie do dnia zakończenia zgromadzenia podejmującego uchwałę w sprawie połączenia bezpłatnie udostępni do publicznej wiadomości dokumenty, o których mowa w § 1 i 2, na swojej stronie internetowej bądź w tym terminie umożliwi wspólnikom na swojej stronie internetowej dostęp do tych dokumentów w wersji elektronicznej i ich druk.
 
 § 4. Bezpośrednio przed powzięciem uchwały o połączeniu spółek, wspólnikom należy ustnie przedstawić istotne elementy treści planu połączenia, sprawozdania zarządu i opinii biegłego oraz wszelkie istotne zmiany w zakresie aktywów i pasywów, które nastąpiły między dniem sporządzenia planu połączenia a dniem powzięcia uchwały.
 
@@ -5929,7 +6152,7 @@ Art. 596–609. (pominięte)
 
 § 1. Członkowie zarządu, rady nadzorczej lub komisji rewizyjnej oraz likwidatorzy łączących się spółek odpowiadają wobec wspólników tych spółek solidarnie za szkody wyrządzone działaniem lub zaniechaniem, sprzecznym z prawem lub postanowieniami umowy albo statutu spółki, chyba że nie ponoszą winy.
 
-§ 2. Roszczenia z tytułu naprawienia szkody przedawniają się z upływem trzech lat od dnia ogłoszenia o połączeniu. Przepisy art. 209 § 1, art. 214 § 1, art. 293 § 3, art. 295 § 2–4, art. 296, art. 298, art. 300 lub art. 377 § 1, art. 387 § 1, art. 483 § 3, art. 484, art. 486 § 2–4, art. 489 i art. 490 stosuje się odpowiednio.
+§ 2. Roszczenia z tytułu naprawienia szkody przedawniają się z upływem trzech lat od dnia ogłoszenia o połączeniu. Przepisy art. 2091§ 1, art. 2141§ 1, art. 293 § 3, art. 295 § 2–4, art. 296, art. 298, art. 300 lub art. 3771§ 1, art. 3871§ 1, art. 483 § 3, art. 484, art. 486 § 2–4, art. 489 i art. 490 stosuje się odpowiednio.
 
 **Art. 513.**
 
@@ -5945,11 +6168,11 @@ Art. 596–609. (pominięte)
 
 **Art. 515.**
 
-§ 1. Spółka przejmująca może przyznać wspólnikom spółki przejmowanej udziały albo akcje ustanowione w wyniku podwyższenia kapitału zakładowego, akcje bez wartości nominalnej albo udziały albo akcje własne nabyte zgodnie z art. 200, art. 300 i art. 362 oraz objęte w przypadkach, o których mowa w art. 300 i art. 366. Spółka przejmująca może przyznać wspólnikom spółki przejmowanej udziały albo akcje własne, które nabyła w wyniku połączenia z tą spółką.
+§ 1. Spółka przejmująca może przyznać wspólnikom spółki przejmowanej udziały albo akcje ustanowione w wyniku podwyższenia kapitału zakładowego, akcje bez wartości nominalnej albo udziały albo akcje własne nabyte zgodnie z art. 200, art. 30047 i art. 362 oraz objęte w przypadkach, o których mowa w art. 30048 i art. 366. Spółka przejmująca może przyznać wspólnikom spółki przejmowanej udziały albo akcje własne, które nabyła w wyniku połączenia z tą spółką.
 
 § 2. W celu przyznania udziałów albo akcji wspólnikom spółki przejmowanej spółka przejmująca może nabyć udziały albo akcje własne, których łączna wartość nominalna, wraz z udziałami albo akcjami nabytymi uprzednio przez tę spółkę, spółki lub spółdzielnie od niej zależne lub osoby działające na jej rachunek, nie przekracza 10% kapitału zakładowego.
 
-**Art. 515¹.**
+**Art. 5151.**
 
 § 1. Połączenie może być przeprowadzone bez przyznania udziałów albo akcji spółki przejmującej w przypadku, gdy jeden wspólnik posiada bezpośrednio lub pośrednio wszystkie udziały lub akcje w łączących się spółkach albo wspólnicy łączących się spółek posiadają udziały lub akcje w tej samej proporcji we wszystkich łączących się spółkach.
 
@@ -5969,25 +6192,28 @@ Art. 596–609. (pominięte)
 
 § 5. Do łączenia przez przejęcie, o którym mowa w § 1, nie stosuje się przepisów art. 501–503, art. 505 § 1 pkt 4–5, art. 512 i art. 513.
 
-§ 6. Przepisy § 1, 2, 4 i 5 stosuje się odpowiednio w przypadku przejęcia przez spółkę przejmującą swojej spółki jednoosobowej. W tym przypadku nie stosuje się także przepisów art. 494 § 4 i art. 499 § 1 pkt 2–4; ogłoszenie albo udostępnienie planu połączenia, o którym mowa w art. 500 § 2 i 2 , oraz udostępnienie dokumentów, o których mowa w art. 505, musi nastąpić co najmniej na miesiąc przed dniem złożenia wniosku o zarejestrowanie połączenia.
+§ 6. Przepisy § 1, 2, 4 i 5 stosuje się odpowiednio w przypadku przejęcia przez spółkę przejmującą swojej spółki jednoosobowej. W tym przypadku nie stosuje się także przepisów art. 494 § 4 i art. 499 § 1 pkt 2–4; ogłoszenie albo udostępnienie planu połączenia, o którym mowa w art. 500 § 2 i 21, oraz udostępnienie dokumentów, o których mowa w art. 505, musi nastąpić co najmniej na miesiąc przed dniem złożenia wniosku o zarejestrowanie połączenia.
 
-§ 6. Do łączenia się przez przejęcie przez spółkę, w której jeden wspólnik posiada bezpośrednio lub pośrednio wszystkie udziały lub akcje w spółce przejmującej i w spółce albo spółkach przejmowanych bez przyznania udziałów lub akcji spółki przejmującej, nie stosuje się przepisów art. 494 § 4, art. 499 § 1 pkt 2–4, art. 502 i art. 503. Wobec spółki przejmowanej nie stosuje się przepisów art. 501 i art. 506. Ogłoszenie albo udostępnienie planu połączenia, o którym mowa w art. 500 § 2 i 2 , oraz udostępnienie dokumentów, o których mowa w art. 505 § 1, musi nastąpić co najmniej na miesiąc przed datą zgromadzenia wspólników albo walnego zgromadzenia spółki przejmującej, na którym ma być powzięta uchwała o połączeniu.
+§ 61. Do łączenia się przez przejęcie przez spółkę, w której jeden wspólnik posiada bezpośrednio lub pośrednio wszystkie udziały lub akcje w spółce przejmującej i w spółce albo spółkach przejmowanych bez przyznania udziałów lub akcji spółki przejmującej, nie stosuje się przepisów art. 494 § 4, art. 499 § 1 pkt 2–4, art. 502 i art. 503. Wobec spółki przejmowanej nie stosuje się przepisów art. 501 i art. 506. Ogłoszenie albo udostępnienie planu połączenia, o którym mowa w art. 500 § 2 i 21, oraz udostępnienie dokumentów, o których mowa w art. 505 § 1, musi nastąpić co najmniej na miesiąc przed datą zgromadzenia wspólników albo walnego zgromadzenia spółki przejmującej, na którym ma być powzięta uchwała o połączeniu.
 
 § 7. Do łączenia się spółek z ograniczoną odpowiedzialnością, których wspólnikami są wyłącznie osoby fizyczne w liczbie nieprzekraczającej we wszystkich łączących się spółkach dziesięciu osób, nie stosuje się przepisów art. 500 § 2 i art. 502–504, chyba że przynajmniej jeden wspólnik zgłosi sprzeciw spółce, nie później niż w terminie miesiąca od dnia zgłoszenia planu połączenia do sądu rejestrowego.
 
-#### Rozdział 2 Transgraniczne łączenie się spółek kapitałowych i spółki komandytowo-akcyjnej
+#### Rozdział 21 Transgraniczne łączenie się spółek kapitałowych i spółki komandytowo-akcyjnej
 
 ##### Oddział 1 Transgraniczne łączenie się spółek kapitałowych
 
-**Art. 516¹.**
+**Art. 5161.**
 
 § 1. Połączenie transgraniczne spółek kapitałowych podlega przepisom rozdziału 2, jeżeli przepisy niniejszego rozdziału nie stanowią inaczej.
 
 § 2. Do dnia otrzymania zaświadczenia o zgodności połączenia transgranicznego z prawem krajowym połączenie transgraniczne podlega w odniesieniu do każdej z łączących się spółek prawu państwa jej siedziby, a po tym dniu podlega prawu państwa siedziby spółki przejmującej albo spółki nowo zawiązanej.
 
-**Art. 516².** W połączeniu transgranicznym nie może uczestniczyć:
+**Art. 5162.** W połączeniu transgranicznym nie może uczestniczyć:
 
-**Art. 516³.**
+- **1)** zagraniczna spółdzielnia, choćby spełniała kryteria spółki zagranicznej, o której mowa w art. 491 § 11;
+- **2)** spółka, której celem jest zbiorowe inwestowanie kapitału pozyskanego w drodze emisji publicznej, działająca na zasadzie dywersyfikacji ryzyka oraz której jednostki uczestnictwa są na żądanie ich posiadaczy odkupywane lub umarzane bezpośrednio lub pośrednio z aktywów tej spółki; działania podjęte przez taką spółkę w celu zapewnienia, aby giełdowa wartość jednostek uczestnictwa nie różniła się w znaczny sposób od wartości netto aktywów, uważa się za równoznaczne z takim odkupieniem lub umorzeniem jednostek.
+
+**Art. 5163.**
 
 § 1. Plan połączenia transgranicznego powinien zawierać co najmniej:
 
@@ -5998,8 +6224,10 @@ Art. 596–609. (pominięte)
 - **5)** inne warunki dotyczące przyznania udziałów, akcji lub innych papierów wartościowych w spółce przejmującej bądź w spółce nowo zawiązanej;
 - **6)** dzień, od którego udziały albo akcje uprawniają do uczestnictwa w zysku spółki przejmującej bądź spółki nowo zawiązanej, a także inne warunki dotyczące nabycia lub wykonywania tego prawa, jeżeli takie warunki zostały ustanowione;
 - **7)** dzień, od którego inne papiery wartościowe uprawniają do uczestnictwa w zysku spółki przejmującej bądź spółki nowo zawiązanej, a także inne warunki dotyczące nabycia lub wykonywania tego prawa, jeżeli takie warunki zostały ustanowione;
-- **8)** szczególne korzyści przyznane członkom organów łączących się spółek; 8 ) zabezpieczenia roszczeń proponowane wierzycielom;
-- **9)** warunki wykonywania praw wierzycieli, pracowników i wspólników każdej z łączących się spółek oraz adres strony internetowej, na której można bezpłatnie uzyskać informacje na temat tych warunków; 9 ) cenę odkupu, o której mowa w art. 516 § 2 ;
+- **8)** szczególne korzyści przyznane członkom organów łączących się spółek;
+- **81)** zabezpieczenia roszczeń proponowane wierzycielom;
+- **9)** warunki wykonywania praw wierzycieli, pracowników i wspólników każdej z łączących się spółek oraz adres strony internetowej, na której można bezpłatnie uzyskać informacje na temat tych warunków;
+- **91)** cenę odkupu, o której mowa w art. 51611 § 21;
 - **10)** procedury, według których zostaną określone zasady udziału pracowników w ustaleniu ich praw uczestnictwa w organach spółki przejmującej bądź spółki nowo zawiązanej, zgodnie z odrębnymi przepisami;
 - **11)** prawdopodobny wpływ połączenia na stan zatrudnienia w spółce przejmującej bądź spółce nowo zawiązanej;
 - **12)** dzień, od którego czynności łączących się spółek będą uważane, dla celów rachunkowości, za czynności dokonywane na rachunek spółki przejmującej bądź spółki nowo zawiązanej, z uwzględnieniem przepisów ustawy z dnia 29 września 1994 r. o rachunkowości;
@@ -6009,105 +6237,105 @@ Art. 596–609. (pominięte)
 
 § 2. Wspólnicy, wierzyciele i przedstawiciele pracowników łączącej się spółki, a w braku takich przedstawicieli – pracownicy, mogą złożyć spółce uwagi dotyczące planu połączenia transgranicznego co najmniej na pięć dni roboczych przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o połączeniu transgranicznym.
 
-**Art. 516⁴.**
+**Art. 5164.**
 
 § 1. Spółka składa do sądu rejestrowego co najmniej na pięć tygodni przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o połączeniu transgranicznym, następujące dokumenty:
 
 - **1)** plan połączenia transgranicznego,
-- **2)** zawiadomienie wspólników, wierzycieli i przedstawicieli pracowników łączącej się spółki, a w braku takich przedstawicieli – pracowników, o możliwości złożenia spółce uwag dotyczących planu połączenia transgranicznego – w celu wpisania do rejestru wzmianki o złożeniu tych dokumentów oraz ujawnienia w aktach rejestrowych co najmniej na miesiąc przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o połączeniu transgranicznym.
+- **2)** zawiadomienie wspólników, wierzycieli i przedstawicieli pracowników łączącej się spółki, a w braku takich przedstawicieli – pracowników, o możliwości złożenia spółce uwag dotyczących planu połączenia transgranicznego w celu wpisania do rejestru wzmianki o złożeniu tych dokumentów oraz ujawnienia w aktach rejestrowych co najmniej na miesiąc przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o połączeniu transgranicznym.
 
-§ 2. (uchylony) § 3. Spółka nie jest obowiązana do złożenia do sądu rejestrowego dokumentów, o których mowa w § 1, jeżeli nie później niż na pięć tygodni przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o połączeniu transgranicznym, nieprzerwanie do dnia zakończenia zgromadzenia, na którym ma być powzięta uchwała o połączeniu transgranicznym, bezpłatnie udostępni do publicznej wiadomości dokumenty, o których mowa w § 1, oraz opinię biegłego, o której mowa w art. 516 § 2 , na swojej stronie internetowej.
+§ 2. (uchylony)
+
+§ 3. Spółka nie jest obowiązana do złożenia do sądu rejestrowego dokumentów, o których mowa w § 1, jeżeli nie później niż na pięć tygodni przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o połączeniu transgranicznym, nieprzerwanie do dnia zakończenia zgromadzenia, na którym ma być powzięta uchwała o połączeniu transgranicznym, bezpłatnie udostępni do publicznej wiadomości dokumenty, o których mowa w § 1, oraz opinię biegłego, o której mowa w art. 5166 § 21, na swojej stronie internetowej.
 
 § 4. W przypadku, o którym mowa w § 3, spółka składa do sądu rejestrowego co najmniej na pięć tygodni przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o połączeniu transgranicznym, następujące informacje:
 
 - **1)** w odniesieniu do każdej z łączących się spółek – formę prawną, firmę i siedzibę statutową oraz formę prawną, firmę i siedzibę statutową proponowane dla spółki powstałej w wyniku połączenia transgranicznego,
 - **2)** oznaczenie rejestru, do którego zostały złożone dokumenty łączących się spółek, oraz numer w rejestrze każdej z łączących się spółek,
 - **3)** warunki wykonywania praw wierzycieli, pracowników i wspólników każdej z łączących się spółek,
-- **4)** adres strony internetowej, na której bezpłatnie udostępniane są dokumenty, o których mowa w § 1, oraz opinia biegłego, o której mowa w art. 516 § 2 – w celu wpisania do rejestru wzmianki o złożeniu tych informacji oraz ujawnienia w aktach rejestrowych co najmniej na miesiąc przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o połączeniu transgranicznym.
+- **4)** adres strony internetowej, na której bezpłatnie udostępniane są dokumenty, o których mowa w § 1, oraz opinia biegłego, o której mowa w art. 5166 § 21 w celu wpisania do rejestru wzmianki o złożeniu tych informacji oraz ujawnienia w aktach rejestrowych co najmniej na miesiąc przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o połączeniu transgranicznym.
 
 § 5. Sąd rejestrowy wpisuje do rejestru wzmiankę o złożeniu dokumentów, o których mowa w § 1, albo wzmiankę o złożeniu informacji, o których mowa w § 4.
 
 § 6. W przypadku gdy w odniesieniu do spółki przejmującej połączenie transgraniczne może być dokonane bez powzięcia uchwały, o której mowa w art. 506, dokumenty albo informacje, o których mowa w § 1 i 4, składa się do sądu rejestrowego co najmniej na pięć tygodni przed datą zgromadzenia wspólników albo walnego zgromadzenia pozostałych łączących się spółek albo spółki, na którym ma być powzięta uchwała o połączeniu transgranicznym, w celu wpisania do rejestru wzmianki o złożeniu tych dokumentów albo informacji oraz ujawnienia w aktach rejestrowych co najmniej na miesiąc przed tą datą.
 
-**Art. 516⁵.**
+**Art. 5165.**
 
 § 1. Zarząd spółki sporządza sprawozdanie dla wspólników i pracowników wyjaśniające podstawy prawne i uzasadniające ekonomiczne aspekty połączenia transgranicznego, w tym wyjaśniające skutki tego połączenia dla pracowników oraz dla przyszłej działalności spółki.
 
-§ 1. Sprawozdanie zawiera część przeznaczoną dla wspólników oraz część przeznaczoną dla pracowników. Spółka może zdecydować o sporządzeniu dwóch oddzielnych sprawozdań, odpowiednio dla wspólników oraz dla pracowników.
+§ 11. Sprawozdanie zawiera część przeznaczoną dla wspólników oraz część przeznaczoną dla pracowników. Spółka może zdecydować o sporządzeniu dwóch oddzielnych sprawozdań, odpowiednio dla wspólników oraz dla pracowników.
 
 § 2. Sprawozdanie w części przeznaczonej dla wspólników określa w szczególności:
 
-- **1)** cenę odkupu, o której mowa w art. 516 § 2 , oraz metodę albo metody użyte do określenia tej ceny;
+- **1)** cenę odkupu, o której mowa w art. 51611 § 21, oraz metodę albo metody użyte do określenia tej ceny;
 - **2)** stosunek wymiany udziałów lub akcji oraz metodę albo metody użyte do jego określania, chyba że nie dochodzi do takiej wymiany;
 - **3)** skutki połączenia transgranicznego dla wspólników;
-- **4)** uprawnienia i środki prawne przysługujące wspólnikom zgodnie z art. 516 .
+- **4)** uprawnienia i środki prawne przysługujące wspólnikom zgodnie z art. 51611.
 
-§ 2. Sprawozdanie w części przeznaczonej dla pracowników określa w szczególności:
+§ 21. Sprawozdanie w części przeznaczonej dla pracowników określa w szczególności:
 
 - **1)** skutki połączenia transgranicznego dla stosunków pracy, a także środki stosowane w celu ochrony tych stosunków, jeżeli są wymagane;
 - **2)** istotne zmiany w obowiązujących warunkach zatrudnienia oraz w odniesieniu do miejsca prowadzenia działalności przez spółkę;
 - **3)** w jakim zakresie informacje wymienione w pkt 1 i 2 odnoszą się do spółek zależnych.
 
-§ 3. Zarząd spółki dołącza do sprawozdania opinię przedstawicieli pracowników, a w braku takich przedstawicieli – pracowników, na temat informacji, o których mowa w § 1 i 2 , oraz informuje o niej wspólników, jeżeli otrzyma ją w odpowiednim czasie.
+§ 3. Zarząd spółki dołącza do sprawozdania opinię przedstawicieli pracowników, a w braku takich przedstawicieli – pracowników, na temat informacji, o których mowa w § 1 i 21, oraz informuje o niej wspólników, jeżeli otrzyma ją w odpowiednim czasie.
 
 § 4. Sprawozdanie w części przeznaczonej dla wspólników nie jest wymagane w przypadku spółki jednoosobowej ani w przypadku, gdy wszyscy wspólnicy spółki wyrazili zgodę na odstąpienie od wymogu sporządzenia tego sprawozdania.
 
 § 5. Sprawozdanie w części przeznaczonej dla pracowników nie jest wymagane w przypadku, gdy łącząca się spółka i jej spółki zależne nie zatrudniają pracowników innych niż pracownicy wchodzący w skład zarządu łączącej się spółki.
 
-**Art. 516⁶.**
+**Art. 5166.**
 
 § 1. Sąd rejestrowy właściwy według siedziby spółki wyznacza, na jej wniosek, biegłego w celu zbadania planu połączenia.
 
 § 2. Łączące się spółki mogą wystąpić ze wspólnym wnioskiem do sądu rejestrowego właściwego dla spółki krajowej albo do organu właściwego dla spółki zagranicznej o wyznaczenie wspólnego biegłego lub biegłych w celu zbadania planu połączenia.
 
-§ 2. Opinia biegłego zawiera co najmniej:
+§ 21. Opinia biegłego zawiera co najmniej:
 
-- **1)** ocenę, czy cena odkupu, o której mowa w art. 516 § 2 , i stosunek wymiany udziałów lub akcji są ustalone należycie; przy dokonywaniu oceny biegły uwzględnia cenę rynkową udziałów lub akcji łączących się spółek przed ujawnieniem lub udostępnieniem planu połączenia transgranicznego lub wartość spółek, z wyłączeniem efektu proponowanego połączenia, określonego zgodnie z ogólnie przyjętymi metodami wyceny;
-- **2)** wskazanie metody albo metod użytych dla określenia proponowanej w planie połączenia transgranicznego ceny odkupu, o której mowa w art. 516 § 2 ;
+- **1)** ocenę, czy cena odkupu, o której mowa w art. 51611 § 21, i stosunek wymiany udziałów lub akcji są ustalone należycie; przy dokonywaniu oceny biegły uwzględnia cenę rynkową udziałów lub akcji łączących się spółek przed ujawnieniem lub udostępnieniem planu połączenia transgranicznego lub wartość spółek, z wyłączeniem efektu proponowanego połączenia, określonego zgodnie z ogólnie przyjętymi metodami wyceny;
+- **2)** wskazanie metody albo metod użytych dla określenia proponowanej w planie połączenia transgranicznego ceny odkupu, o której mowa w art. 51611 § 21;
 - **3)** wskazanie metody albo metod użytych dla określenia proponowanego w planie połączenia transgranicznego stosunku wymiany udziałów lub akcji;
-- **4)** stwierdzenie, czy metoda albo metody użyte dla określenia proponowanej w planie połączenia transgranicznego ceny odkupu, o której mowa w art. 516 § 2 , są adekwatne do oceny tej ceny, oraz stosunku wymiany udziałów lub akcji, wskazanie wartości określonej przy zastosowaniu każdej z tych metod oraz opinię na temat względnego znaczenia przypisywanego tym metodom przy określaniu wybranych wartości, a także, w przypadku zastosowania różnych metod w łączących się spółkach, stwierdzenie, czy zastosowanie różnych metod było uzasadnione;
+- **4)** stwierdzenie, czy metoda albo metody użyte dla określenia proponowanej w planie połączenia transgranicznego ceny odkupu, o której mowa w art. 51611 § 21, są adekwatne do oceny tej ceny, oraz stosunku wymiany udziałów lub akcji, wskazanie wartości określonej przy zastosowaniu każdej z tych metod oraz opinię na temat względnego znaczenia przypisywanego tym metodom przy określaniu wybranych wartości, a także, w przypadku zastosowania różnych metod w łączących się spółkach, stwierdzenie, czy zastosowanie różnych metod było uzasadnione;
 - **5)** wskazanie szczególnych trudności związanych z wyceną.
 
 § 3. Badanie planu połączenia transgranicznego przez biegłego ani sporządzenie opinii przez biegłego nie są wymagane w przypadku spółki jednoosobowej ani w przypadku, gdy wszyscy wspólnicy łączących się spółek wyrazili zgodę na odstąpienie od wymogu badania planu połączenia transgranicznego przez biegłego i sporządzenia przez niego opinii.
 
-**Art. 516⁶a.**
-
 § 1. Zarząd spółki zawiadamia wspólników o zamiarze połączenia z inną spółką dwukrotnie, w sposób przewidziany dla zwoływania zgromadzeń wspólników albo walnych zgromadzeń. Pierwszego zawiadomienia dokonuje się nie później niż na sześć tygodni przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o połączeniu transgranicznym, a drugiego w odstępie nie krótszym niż dwa tygodnie od daty pierwszego zawiadomienia.
 
-§ 2. Zawiadomienia, o których mowa w § 1, zawierają co najmniej miejsce oraz termin, w których wspólnicy mogą się zapoznać z dokumentami, o których mowa w art. 516 § 1.
+§ 2. Zawiadomienia, o których mowa w § 1, zawierają co najmniej miejsce oraz termin, w których wspólnicy mogą się zapoznać z dokumentami, o których mowa w art. 5167 § 1.
 
-**Art. 516⁷.**
+**Art. 5167.**
 
 § 1. Wspólnicy łączących się spółek i przedstawiciele pracowników, a w braku takich przedstawicieli – pracownicy, mają prawo przeglądać następujące dokumenty:
 
 - **1)** plan połączenia;
 - **2)** sprawozdania finansowe oraz sprawozdania zarządów z działalności łączących się spółek za trzy ostatnie lata obrotowe wraz ze sprawozdaniem z badania, jeżeli sprawozdanie z badania było sporządzane;
-- **3)** sprawozdanie, o którym mowa w art. 516 ;
+- **3)** sprawozdanie, o którym mowa w art. 5165;
 - **4)** opinię biegłego z badania planu połączenia;
-- **5)** uwagi, o których mowa w art. 516 § 2;
-- **6)** opinię, o której mowa w art. 516 § 3.
+- **5)** uwagi, o których mowa w art. 5163 § 2;
+- **6)** opinię, o której mowa w art. 5165 § 3.
 
 § 2. Wspólnicy i przedstawiciele pracowników, a w braku takich przedstawicieli – pracownicy, mogą żądać udostępnienia im bezpłatnie w lokalu spółki odpisów dokumentów, o których mowa w § 1. Wspólnikom i przedstawicielom pracowników, a w braku takich przedstawicieli – pracownikom, którzy wyrazili zgodę na wykorzystanie przez spółkę środków komunikacji elektronicznej w celu przekazywania informacji, można przesłać odpisy tych dokumentów w postaci elektronicznej.
 
 § 3. Przepisów § 1 i § 2 zdanie pierwsze nie stosuje się, gdy spółka nie później niż w terminach, o których mowa w § 4, nieprzerwanie do dnia zakończenia zgromadzenia, na którym ma być powzięta uchwała o połączeniu transgranicznym bezpłatnie udostępni do publicznej wiadomości dokumenty, o których mowa w § 1, na swojej stronie internetowej bądź w tym terminie umożliwi wspólnikom oraz przedstawicielom pracowników, a w braku takich przedstawicieli – pracownikom, na swojej stronie internetowej dostęp do tych dokumentów w postaci elektronicznej i ich druk.
 
-§ 4. Spółka udostępnia dokumenty, o których mowa w § 1 pkt 2 i 4, co najmniej na miesiąc przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o połączeniu transgranicznym, a sprawozdanie, o którym mowa w art. 516 , wraz z planem połączenia, o ile go sporządzono, co najmniej na sześć tygodni przed tym dniem. Jeżeli w odniesieniu do spółki przejmującej połączenie transgraniczne może być przeprowadzone bez powzięcia uchwały, o której mowa w art. 506, dokumenty te udostępnia się odpowiednio przed datą zgromadzenia wspólników albo walnego zgromadzenia pozostałych łączących się spółek albo spółki.
+§ 4. Spółka udostępnia dokumenty, o których mowa w § 1 pkt 2 i 4, co najmniej na miesiąc przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o połączeniu transgranicznym, a sprawozdanie, o którym mowa w art. 5165, wraz z planem połączenia, o ile go sporządzono, co najmniej na sześć tygodni przed tym dniem. Jeżeli w odniesieniu do spółki przejmującej połączenie transgraniczne może być przeprowadzone bez powzięcia uchwały, o której mowa w art. 506, dokumenty te udostępnia się odpowiednio przed datą zgromadzenia wspólników albo walnego zgromadzenia pozostałych łączących się spółek albo spółki.
 
-**Art. 516⁸.**
+**Art. 5168.**
 
 § 1. W uchwale o połączeniu można uzależnić skuteczność połączenia od zatwierdzenia przez zgromadzenie wspólników lub walne zgromadzenie warunków uczestnictwa przedstawicieli pracowników.
 
 § 2. Uchwała o połączeniu transgranicznym nie podlega zaskarżeniu ze względu na zastrzeżenia dotyczące wyłącznie tego, że:
 
-- **1)** stosunek wymiany udziałów lub akcji, o którym mowa w art. 516 § 1 pkt 2, nie został ustalony należycie lub
-- **2)** cena odkupu, o której mowa w art. 516 § 2 , nie została ustalona należycie, lub
-- **3)** informacje podane w odniesieniu do stosunku wymiany udziałów lub akcji, o którym mowa w art. 516 § 1 pkt 2, lub ceny odkupu, o której mowa w art. 516 § 2 , nie spełniają wymogów prawnych.
+- **1)** stosunek wymiany udziałów lub akcji, o którym mowa w art. 5163 § 1 pkt 2, nie został ustalony należycie lub
+- **2)** cena odkupu, o której mowa w art. 51611 § 21, nie została ustalona należycie, lub
+- **3)** informacje podane w odniesieniu do stosunku wymiany udziałów lub akcji, o którym mowa w art. 5163 § 1 pkt 2, lub ceny odkupu, o której mowa w art. 51611 § 21, nie spełniają wymogów prawnych.
 
 § 3. Przepis § 2 nie ogranicza prawa do dochodzenia odszkodowania na zasadach ogólnych.
 
-**Art. 516⁹.** Zasady uczestnictwa przedstawicieli pracowników w organach spółki powstałej w wyniku połączenia transgranicznego określają odrębne przepisy.
+**Art. 5169.** Zasady uczestnictwa przedstawicieli pracowników w organach spółki powstałej w wyniku połączenia transgranicznego określają odrębne przepisy.
 
-**Art. 516¹⁰.**
+**Art. 51610.**
 
 § 1. Jeżeli spółką przejmującą lub spółką nowo zawiązaną jest spółka zagraniczna, przepisów art. 495 i 496 nie stosuje się.
 
@@ -6119,24 +6347,28 @@ Art. 596–609. (pominięte)
 
 § 5. Wykonanie zabezpieczenia jest uzależnione od skuteczności połączenia transgranicznego.
 
-**Art. 516¹¹.**
+**Art. 51611.**
 
 § 1. Jeżeli spółką przejmującą albo spółką nowo zawiązaną jest spółka zagraniczna, wspólnik:
 
 - **1)** który głosował przeciwko uchwale o połączeniu transgranicznym i zażądał zaprotokołowania sprzeciwu najpóźniej na zgromadzeniu wspólników albo walnym zgromadzeniu, na którym została powzięta uchwała o połączeniu transgranicznym; wymóg głosowania nie dotyczy akcjonariusza akcji niemej,
-- **2)** bezzasadnie niedopuszczony do udziału w zgromadzeniu wspólników albo walnym zgromadzeniu, na którym została powzięta uchwała o połączeniu transgranicznym – może żądać odkupu jego udziałów albo akcji; w odniesieniu do wspólnika, który skorzystał z prawa odkupu, przepisu art. 494 § 4 nie stosuje się.
+- **2)** bezzasadnie niedopuszczony do udziału w zgromadzeniu wspólników albo walnym zgromadzeniu, na którym została powzięta uchwała o połączeniu transgranicznym może żądać odkupu jego udziałów albo akcji; w odniesieniu do wspólnika, który skorzystał z prawa odkupu, przepisu art. 494 § 4 nie stosuje się.
 
 § 2. Wspólnik składa spółce żądanie odkupu w terminie dziesięciu dni od dnia podjęcia uchwały o połączeniu transgranicznym. Żądanie odkupu może być przesłane na adres do doręczeń elektronicznych.
 
-§ 2. Cena odkupu odpowiada wartości godziwej udziałów albo akcji w łączącej się spółce.
+§ 21. Cena odkupu odpowiada wartości godziwej udziałów albo akcji w łączącej się spółce.
 
-§ 3. (uchylony) § 4. Akcjonariusze dołączają do żądania odkupu świadectwo rejestrowe albo imienne świadectwo depozytowe wystawione zgodnie z ustawą z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi. Termin ważności świadectwa nie może upływać przed dniem dokonania odkupu.
+§ 3. (uchylony)
+
+§ 4. Akcjonariusze dołączają do żądania odkupu świadectwo rejestrowe albo imienne świadectwo depozytowe wystawione zgodnie z ustawą z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi. Termin ważności świadectwa nie może upływać przed dniem dokonania odkupu.
 
 § 5. Spółka dokonuje odkupu udziałów albo akcji na rachunek własny lub rachunek wspólników pozostających w spółce nie później niż w terminie dwóch miesięcy od dnia połączenia transgranicznego. Skuteczność odkupu zależy od zapłaty ceny odkupu wspólnikom żądającym odkupu lub złożenia kwoty równej tej cenie do depozytu sądowego.
 
 § 6. Spółka może nabyć na rachunek własny udziały albo akcje, których łączna wartość nominalna, wraz z udziałami albo akcjami nabytymi dotychczas przez nią, przez spółki lub spółdzielnie od niej zależne lub przez osoby działające na jej rachunek, nie przekracza 25% kapitału zakładowego albo łączna liczba akcji nie przekracza 25% ogólnej liczby akcji w prostej spółce akcyjnej.
 
-§ 7. (uchylony) § 8. Wspólnik, który złożył żądanie odkupu i nie zgadza się na cenę odkupu, może wnieść powództwo o dodatkowe wynagrodzenie pieniężne w terminie dwóch tygodni od dnia podjęcia uchwały o połączeniu transgranicznym. Wniesienie powództwa nie wstrzymuje odkupu ani rejestracji połączenia transgranicznego.
+§ 7. (uchylony)
+
+§ 8. Wspólnik, który złożył żądanie odkupu i nie zgadza się na cenę odkupu, może wnieść powództwo o dodatkowe wynagrodzenie pieniężne w terminie dwóch tygodni od dnia podjęcia uchwały o połączeniu transgranicznym. Wniesienie powództwa nie wstrzymuje odkupu ani rejestracji połączenia transgranicznego.
 
 § 9. Prawomocne orzeczenie o przyznaniu wspólnikowi dodatkowego wynagrodzenia pieniężnego ma moc obowiązującą w stosunku do spółki oraz wszystkich wspólników, którzy złożyli żądanie odkupu zgodnie z § 2.
 
@@ -6148,28 +6380,32 @@ Art. 596–609. (pominięte)
 
 § 13. Spółka przejmująca albo spółka nowo zawiązana może przyznać wspólnikom dodatkowe udziały albo akcje zamiast dopłaty w gotówce.
 
-**Art. 516¹².**
+**Art. 51612.**
 
 § 1. Zarząd spółki składa do sądu rejestrowego wniosek o wydanie zaświadczenia o zgodności z prawem polskim połączenia transgranicznego w zakresie procedury podlegającej temu prawu wraz z wnioskiem do właściwego organu podatkowego o wydanie opinii zgodnie z ustawą z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383). Sąd rejestrowy niezwłocznie przesyła wniosek do właściwego organu podatkowego. Przepisu art. 507 § 1 nie stosuje się.
 
 § 2. Do wniosku należy dołączyć:
 
-- **1)** plan połączenia transgranicznego, chyba że został złożony do sądu rejestrowego zgodnie z art. 516 § 1;
-- **2)** sprawozdanie, o którym mowa w art. 516 , w części przeznaczonej dla wspólników albo odpis zgody wszystkich wspólników spółki na odstąpienie od wymogu sporządzenia tego sprawozdania; 2 ) sprawozdanie, o którym mowa w art. 516 , w części przeznaczonej dla pracowników albo informację o niezatrudnianiu w łączących się spółkach lub ich spółkach zależnych pracowników innych niż pracownicy wchodzący w skład zarządu; 2 ) uwagi, o których mowa w art. 516 § 2;
+- **1)** plan połączenia transgranicznego, chyba że został złożony do sądu rejestrowego zgodnie z art. 5164 § 1;
+- **2)** sprawozdanie, o którym mowa w art. 5165, w części przeznaczonej dla wspólników albo odpis zgody wszystkich wspólników spółki na odstąpienie od wymogu sporządzenia tego sprawozdania;
+- **21)** sprawozdanie, o którym mowa w art. 5165, w części przeznaczonej dla pracowników albo informację o niezatrudnianiu w łączących się spółkach lub ich spółkach zależnych pracowników innych niż pracownicy wchodzący w skład zarządu;
+- **22)** uwagi, o których mowa w art. 5163 § 2;
 - **3)** opinię przedstawicieli pracowników, a w braku takich przedstawicieli – pracowników, jeżeli zarząd otrzymał ją w odpowiednim czasie;
 - **4)** opinię biegłego albo odpis zgody wszystkich wspólników łączących się spółek na odstąpienie od wymogu badania planu połączenia transgranicznego przez biegłego i sporządzenia przez niego opinii, chyba że opinia została złożona zgodnie z art. 503;
 - **5)** dowód wyznaczenia wspólnego biegłego, jeżeli został on wyznaczony;
 - **6)** dowód zawiadomienia wspólników o zamiarze połączenia;
 - **7)** odpis uchwały o połączeniu;
 - **8)** oświadczenie podpisane przez wszystkich członków zarządu, że uchwała o połączeniu nie została zaskarżona w wyznaczonym terminie albo powództwo o jej zaskarżenie zostało prawomocnie oddalone bądź odrzucone albo minął termin do wniesienia środka odwoławczego, o ile nie zachodzi przypadek wskazany w pkt 9;
-- **9)** odpis oświadczenia o zrzeczeniu się na piśmie przez wszystkich uprawnionych prawa zaskarżenia uchwały o połączeniu lub odpis postanowienia sądu, o którym mowa w art. 516 ;
+- **9)** odpis oświadczenia o zrzeczeniu się na piśmie przez wszystkich uprawnionych prawa zaskarżenia uchwały o połączeniu lub odpis postanowienia sądu, o którym mowa w art. 51618;
 - **10)** oświadczenie podpisane przez wszystkich członków zarządu o sposobie realizacji uprawnień wierzycieli i wspólników wynikających z przepisów prawa oraz uchwały o połączeniu;
-- **11)** oświadczenie zarządu dotyczące celu połączenia transgranicznego, jeżeli nie jest wymagane sporządzenie sprawozdania, o którym mowa w art. 516 ;
+- **11)** oświadczenie zarządu dotyczące celu połączenia transgranicznego, jeżeli nie jest wymagane sporządzenie sprawozdania, o którym mowa w art. 5165;
 - **12)** oświadczenie zarządu dotyczące miejsca rzeczywistego zarządzania lub działalności gospodarczej spółki po dniu połączenia;
 - **13)** oświadczenie zarządu o tym, czy rozpoczęło się postępowanie dotyczące uczestnictwa pracowników, jeżeli wymagają tego odrębne przepisy;
 - **14)** zaświadczenie Zakładu Ubezpieczeń Społecznych o liczbie ubezpieczonych i o niezaleganiu w opłacaniu składek, na ostatni dzień miesiąca poprzedzającego miesiąc złożenia wniosku o wydanie zaświadczenia.
 
-§ 3. (uchylony) § 4. Do wniosku o wydanie zaświadczenia o zgodności z prawem polskim połączenia transgranicznego przepisy o postępowaniu rejestrowym stosuje się odpowiednio.
+§ 3. (uchylony)
+
+§ 4. Do wniosku o wydanie zaświadczenia o zgodności z prawem polskim połączenia transgranicznego przepisy o postępowaniu rejestrowym stosuje się odpowiednio.
 
 § 5. Sąd rejestrowy bada w szczególności, czy plan połączenia transgranicznego zawiera informacje o procedurach dotyczących uczestnictwa pracowników, na podstawie których dokonuje się odpowiednich uzgodnień, oraz o możliwych wariantach takich uzgodnień.
 
@@ -6183,7 +6419,7 @@ Art. 596–609. (pominięte)
 
 § 10. Jeżeli wydanie zaświadczenia o zgodności z prawem polskim połączenia transgranicznego w zakresie procedury podlegającej temu prawu wymaga uwzględnienia dodatkowych informacji lub przeprowadzenia dodatkowych czynności wyjaśniających, termin przewidziany w § 6 można przedłużyć o trzy miesiące.
 
-**Art. 516¹³.**
+**Art. 51613.**
 
 § 1. Zarząd spółki przejmującej lub zarządy albo organy administrujące spółek łączących się w drodze zawiązania nowej spółki zgłaszają połączenie transgraniczne do sądu rejestrowego właściwego według siedziby spółki przejmującej lub spółki nowo zawiązanej w celu wpisania do rejestru.
 
@@ -6196,23 +6432,28 @@ Art. 596–609. (pominięte)
 
 § 3. Sąd rejestrowy bada w szczególności, czy łączące się spółki zatwierdziły plan połączenia na tych samych warunkach oraz, jeżeli wymagają tego odrębne przepisy, czy zostały określone warunki uczestnictwa pracowników.
 
-§ 4. (uchylony) § 5. Sąd rejestrowy przyjmuje zaświadczenie o zgodności z prawem połączenia transgranicznego wydane przez właściwy organ jako ostateczne potwierdzenie należytego dopełnienia procedur i formalności w zakresie procedury podlegającej prawu właściwemu dla łączącej się spółki.
+§ 4. (uchylony)
 
-**Art. 516¹⁴.** Udziały lub akcje w spółce przejmowanej nie podlegają zamianie na udziały lub akcje w spółce przejmującej, jeżeli są one w posiadaniu:
+§ 5. Sąd rejestrowy przyjmuje zaświadczenie o zgodności z prawem połączenia transgranicznego wydane przez właściwy organ jako ostateczne potwierdzenie należytego dopełnienia procedur i formalności w zakresie procedury podlegającej prawu właściwemu dla łączącej się spółki.
 
-**Art. 516¹⁵.**
+**Art. 51614.** Udziały lub akcje w spółce przejmowanej nie podlegają zamianie na udziały lub akcje w spółce przejmującej, jeżeli są one w posiadaniu:
 
-§ 1. Jeżeli spółka przejmująca posiada w spółce albo spółkach przejmowanych wszystkie udziały, akcje i inne papiery wartościowe, zapewniające prawo do głosowania na zgromadzeniu wspólników albo walnym zgromadzeniu spółki albo spółek przejmowanych, albo w przypadku gdy połączenie transgraniczne przez przejęcie jest przeprowadzane przez spółkę, w której jeden wspólnik posiada bezpośrednio lub pośrednio wszystkie udziały lub akcje w spółce przejmującej i w spółce albo spółkach przejmowanych, a spółka przejmująca nie przyznaje żadnych udziałów albo akcji na podstawie połączenia, nie stosuje się przepisów art. 494 § 4, art. 516 § 1 pkt 2, 3, 5–7 i 9 oraz art. 516 .
+- **1)** spółki przejmującej albo osoby działającej we własnym imieniu, ale na rachunek tej spółki;
+- **2)** spółki przejmowanej albo osoby działającej we własnym imieniu, ale na rachunek tej spółki.
 
-§ 2. Wobec spółki przejmowanej nie stosuje się przepisów art. 506 oraz art. 516 .
+**Art. 51615.**
+
+§ 1. Jeżeli spółka przejmująca posiada w spółce albo spółkach przejmowanych wszystkie udziały, akcje i inne papiery wartościowe, zapewniające prawo do głosowania na zgromadzeniu wspólników albo walnym zgromadzeniu spółki albo spółek przejmowanych, albo w przypadku gdy połączenie transgraniczne przez przejęcie jest przeprowadzane przez spółkę, w której jeden wspólnik posiada bezpośrednio lub pośrednio wszystkie udziały lub akcje w spółce przejmującej i w spółce albo spółkach przejmowanych, a spółka przejmująca nie przyznaje żadnych udziałów albo akcji na podstawie połączenia, nie stosuje się przepisów art. 494 § 4, art. 5163 § 1 pkt 2, 3, 5–7 i 91 oraz art. 5166.
+
+§ 2. Wobec spółki przejmowanej nie stosuje się przepisów art. 506 oraz art. 5165.
 
 § 3. Jeżeli spółka przejmująca posiada udziały albo akcje o łącznej wartości nominalnej nie niższej niż 90% kapitału zakładowego spółki przejmowanej lecz nieobejmującej całego jej kapitału, do łączącej się spółki stosuje się art. 502 i art. 503.
 
-§ 4. Jeżeli przepisy państw członkowskich Unii Europejskiej lub państw-stron umowy o Europejskim Obszarze Gospodarczym wszystkich łączących się spółek przewidują zwolnienie z obowiązku podjęcia uchwały, o której mowa w art. 506, plan połączenia transgranicznego lub informacje i dokumenty, o których mowa w art. 516 § 1 i 4, sprawozdanie, o którym mowa w art. 516 , i opinię biegłego, o której mowa w art. 516 § 2 , ujawnia lub udostępnia się co najmniej na miesiąc przed podjęciem przez spółkę decyzji w sprawie połączenia.
+§ 4. Jeżeli przepisy państw członkowskich Unii Europejskiej lub państw-stron umowy o Europejskim Obszarze Gospodarczym wszystkich łączących się spółek przewidują zwolnienie z obowiązku podjęcia uchwały, o której mowa w art. 506, plan połączenia transgranicznego lub informacje i dokumenty, o których mowa w art. 5164 § 1 i 4, sprawozdanie, o którym mowa w art. 5165, i opinię biegłego, o której mowa w art. 5166 § 21, ujawnia lub udostępnia się co najmniej na miesiąc przed podjęciem przez spółkę decyzji w sprawie połączenia.
 
-**Art. 516¹⁶.** W przypadku połączenia transgranicznego nie ma zastosowania uproszczony tryb łączenia, o którym mowa w art. 516 § 7.
+**Art. 51616.** W przypadku połączenia transgranicznego nie ma zastosowania uproszczony tryb łączenia, o którym mowa w art. 516 § 7.
 
-**Art. 516¹⁷.**
+**Art. 51617.**
 
 § 1. Po dniu połączenia niedopuszczalne jest uchylenie albo stwierdzenie nieważności uchwały o połączeniu. Przepisów art. 21, art. 497 § 2, art. 509 § 1 i art. 510 nie stosuje się.
 
@@ -6220,7 +6461,7 @@ Art. 596–609. (pominięte)
 
 § 3. Spółka odpowiada wobec skarżącego za szkodę wyrządzoną uchwałą o połączeniu sprzeczną z ustawą, umową bądź statutem spółki lub dobrymi obyczajami.
 
-**Art. 516¹⁸.**
+**Art. 51618.**
 
 § 1. Spółka może wystąpić do sądu, do którego został wniesiony pozew o uchylenie albo stwierdzenie nieważności uchwały, z wnioskiem o wydanie postanowienia zezwalającego na rejestrację połączenia.
 
@@ -6236,7 +6477,7 @@ Art. 596–609. (pominięte)
 
 ##### Oddział 2 Transgraniczne łączenie się spółki komandytowo-akcyjnej
 
-**Art. 516¹⁹.** Do transgranicznego łączenia się spółki komandytowo-akcyjnej stosuje się odpowiednio przepisy oddziału 1 oraz art. 522, 525 i 526.
+**Art. 51619.** Do transgranicznego łączenia się spółki komandytowo-akcyjnej stosuje się odpowiednio przepisy oddziału 1 oraz art. 522, 525 i 526.
 
 #### Rozdział 3 Łączenie się z udziałem spółek osobowych
 
@@ -6311,11 +6552,11 @@ Art. 596–609. (pominięte)
 
 § 2. Wspólnicy prowadzący sprawy łączącej się spółki osobowej odpowiadają wobec wspólników tej spółki na zasadach określonych w § 1.
 
-§ 3. Roszczenia z tytułu naprawienia szkody przedawniają się z upływem trzech lat od dnia ogłoszenia o połączeniu. Przepisy art. 209 § 1, art. 214 § 1, art. 293 § 3, art. 295 § 2–4, art. 296, art. 298, art. 300 lub art. 377 § 1, art. 387 § 1, art. 483 § 3, art. 484, art. 486 § 2–4, art. 489 i art. 490 stosuje się odpowiednio.
+§ 3. Roszczenia z tytułu naprawienia szkody przedawniają się z upływem trzech lat od dnia ogłoszenia o połączeniu. Przepisy art. 2091§ 1, art. 2141§ 1, art. 293 § 3, art. 295 § 2–4, art. 296, art. 298, art. 300 lub art. 3771§ 1, art. 3871§ 1, art. 483 § 3, art. 484, art. 486 § 2–4, art. 489 i art. 490 stosuje się odpowiednio.
 
 **Art. 527.** Biegły odpowiada na zasadach określonych w przepisach art. 513.
 
-### DZIAŁ II Podział spółek
+### Dział II Podział spółek
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -6323,7 +6564,7 @@ Art. 596–609. (pominięte)
 
 § 1. Spółkę kapitałową i spółkę komandytowo-akcyjną można podzielić na dwie albo więcej spółek kapitałowych lub spółek komandytowo-akcyjnych. Nie jest dopuszczalny podział spółki akcyjnej i spółki komandytowo-akcyjnej, jeżeli kapitał zakładowy nie został pokryty w całości.
 
-§ 1. Spółkę kapitałową i spółkę komandytowo-akcyjną można podzielić na dwie albo więcej spółek mających formę wymienioną w załączniku II do dyrektywy Parlamentu Europejskiego i Rady (UE) 2017/1132 z dnia 14 czerwca 2017 r. w sprawie niektórych aspektów prawa spółek, utworzonych zgodnie z prawem państwa członkowskiego Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym i mających siedzibę statutową, zarząd główny lub główny zakład na terenie Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym, pod warunkiem że co najmniej dwie ze spółek uczestniczących w podziale podlegają prawu różnych państw członkowskich Unii Europejskiej lub państw-stron umowy o Europejskim Obszarze Gospodarczym (podział transgraniczny).
+§ 11. Spółkę kapitałową i spółkę komandytowo-akcyjną można podzielić na dwie albo więcej spółek mających formę wymienioną w załączniku II do dyrektywy Parlamentu Europejskiego i Rady (UE) 2017/1132 z dnia 14 czerwca 2017 r. w sprawie niektórych aspektów prawa spółek, utworzonych zgodnie z prawem państwa członkowskiego Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym i mających siedzibę statutową, zarząd główny lub główny zakład na terenie Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym, pod warunkiem że co najmniej dwie ze spółek uczestniczących w podziale podlegają prawu różnych państw członkowskich Unii Europejskiej lub państw-stron umowy o Europejskim Obszarze Gospodarczym (podział transgraniczny).
 
 § 2. Spółka osobowa inna niż spółka komandytowo-akcyjna nie podlega podziałowi.
 
@@ -6359,7 +6600,7 @@ Art. 596–609. (pominięte)
 
 § 2. Na spółkę przejmującą lub spółkę nowo zawiązaną powstałą w związku z podziałem przechodzą z dniem podziału albo z dniem wydzielenia albo z dniem wyodrębnienia w szczególności zezwolenia, koncesje oraz ulgi, pozostające w związku z przydzielonymi jej w planie podziału składnikami majątku spółki dzielonej, a które zostały przyznane spółce dzielonej, chyba że ustawa lub decyzja o udzieleniu zezwolenia, koncesji lub ulgi stanowi inaczej.
 
-§ 2. Spółka, która w toku postępowania o prawo objęte przeniesionym majątkiem nabyła w wyniku podziału przez wydzielenie albo podziału przez wyodrębnienie część majątku spółki dzielonej, wstępuje do postępowania o to prawo w miejsce spółki dzielonej bez potrzeby uzyskania zgody strony przeciwnej.
+§ 21. Spółka, która w toku postępowania o prawo objęte przeniesionym majątkiem nabyła w wyniku podziału przez wydzielenie albo podziału przez wyodrębnienie część majątku spółki dzielonej, wstępuje do postępowania o to prawo w miejsce spółki dzielonej bez potrzeby uzyskania zgody strony przeciwnej.
 
 § 3. Do składników majątku spółki dzielonej nieprzypisanych w planie podziału określonej spółce przejmującej lub spółce nowo zawiązanej stosuje się odpowiednio przepisy o współwłasności w częściach ułamkowych. Udział spółki przejmującej lub spółki nowo zawiązanej we wspólności jest proporcjonalny do wartości aktywów przypadających każdej z tych spółek w planie podziału. Za zobowiązania spółki dzielonej, nieprzypisane w planie podziału spółkom przejmującym lub spółkom nowo zawiązanym, spółki te odpowiadają solidarnie.
 
@@ -6392,7 +6633,8 @@ Art. 596–609. (pominięte)
 § 1. Plan podziału powinien zawierać co najmniej:
 
 - **1)** formę prawną, firmę i siedzibę każdej ze spółek uczestniczących w podziale;
-- **2)** stosunek wymiany udziałów albo akcji spółki dzielonej na udziały lub akcje spółek przejmujących bądź spółek nowo zawiązanych i wysokość ewentualnych dopłat pieniężnych, chyba że nie dochodzi do takiej wymiany; 2 ) w przypadku podziału przez wyodrębnienie informację o liczbie i wartości udziałów lub akcji w spółce albo spółkach przejmujących lub nowo zawiązanych obejmowanych przez spółkę dzieloną;
+- **2)** stosunek wymiany udziałów albo akcji spółki dzielonej na udziały lub akcje spółek przejmujących bądź spółek nowo zawiązanych i wysokość ewentualnych dopłat pieniężnych, chyba że nie dochodzi do takiej wymiany;
+- **21)** w przypadku podziału przez wyodrębnienie informację o liczbie i wartości udziałów lub akcji w spółce albo spółkach przejmujących lub nowo zawiązanych obejmowanych przez spółkę dzieloną;
 - **3)** zasady dotyczące przyznania udziałów lub akcji w spółkach przejmujących lub w spółkach nowo zawiązanych;
 - **4)** dzień, od którego udziały lub akcje wymienione w pkt 3 uprawniają do uczestnictwa w zysku poszczególnych spółek przejmujących bądź spółek nowo zawiązanych;
 - **5)** prawa przyznane przez spółki przejmujące lub spółki nowo zawiązane wspólnikom oraz osobom szczególnie uprawnionym w spółce dzielonej;
@@ -6428,7 +6670,9 @@ Art. 596–609. (pominięte)
 
 § 2. Zarząd spółki dzielonej wykonuje w odniesieniu do spółki nowo zawiązanej czynności zarządów spółek uczestniczących w podziale przewidziane w przepisach § 1 i § 3 oraz w art. 537–539.
 
-§ 3. (uchylony) § 4. Zarząd spółki dzielonej zawiadamia zarządy każdej spółki przejmującej lub spółki nowo zawiązanej w organizacji o wszelkich istotnych zmianach w zakresie składników majątkowych (aktywów i pasywów), które nastąpiły między dniem sporządzenia planu podziału a dniem powzięcia uchwały o podziale.
+§ 3. (uchylony)
+
+§ 4. Zarząd spółki dzielonej zawiadamia zarządy każdej spółki przejmującej lub spółki nowo zawiązanej w organizacji o wszelkich istotnych zmianach w zakresie składników majątkowych (aktywów i pasywów), które nastąpiły między dniem sporządzenia planu podziału a dniem powzięcia uchwały o podziale.
 
 **Art. 537.**
 
@@ -6446,11 +6690,11 @@ Art. 596–609. (pominięte)
 - **2)** wskazanie metody albo metod użytych dla określenia proponowanego w planie podziału stosunku wymiany udziałów lub akcji wraz z oceną zasadności ich zastosowania;
 - **3)** wskazanie szczególnych trudności związanych z wyceną udziałów lub akcji dzielonej spółki.
 
-§ 1. W przypadku wskazania przez spółkę informacji stanowiących tajemnicę przedsiębiorstwa lub innych prawnie chronionych informacji zawartych w opinii biegły składa do sądu rejestrowego dodatkowo odpis opinii z pominięciem tych informacji.
+§ 11. W przypadku wskazania przez spółkę informacji stanowiących tajemnicę przedsiębiorstwa lub innych prawnie chronionych informacji zawartych w opinii biegły składa do sądu rejestrowego dodatkowo odpis opinii z pominięciem tych informacji.
 
 § 2. Na pisemne żądanie biegłego zarządy spółek uczestniczących w podziale przedłożą mu dodatkowe wyjaśnienia lub dokumenty.
 
-**Art. 538¹.**
+**Art. 5381.**
 
 § 1. Jeżeli wszyscy wspólnicy każdej ze spółek uczestniczących w podziale wyrazili zgodę, nie jest wymagane:
 
@@ -6460,7 +6704,7 @@ Art. 596–609. (pominięte)
 
 § 2. Sporządzenie dokumentów, o których mowa w art. 534 § 2 pkt 4 oraz w art. 536 § 1, a także badanie planu podziału przez biegłego i jego opinia nie są wymagane w przypadku podziału przez zawiązanie nowych spółek, jeżeli plan podziału przewiduje, że wspólnicy spółki dzielonej zachowają udział posiadany w kapitale zakładowym spółki dzielonej w kapitałach zakładowych wszystkich spółek nowo zawiązanych.
 
-§ 3. Jeżeli zgodnie z § 1 lub 2 lub w przypadku podziału przez wyodrębnienie plan podziału nie jest poddany badaniu przez biegłego, do składników majątku przypadających w planie podziału spółce przejmującej albo spółce nowo zawiązanej, będącej spółką akcyjną, stosuje się odpowiednio przepisy art. 311–312 . Jeżeli sporządzane jest sprawozdanie, o którym mowa w art. 536 § 1, należy do niego dołączyć informację o sporządzeniu w trybie art. 312 opinii biegłych rewidentów oraz wskazać sąd rejestrowy, w którym opinia biegłych rewidentów została złożona.
+§ 3. Jeżeli zgodnie z § 1 lub 2 lub w przypadku podziału przez wyodrębnienie plan podziału nie jest poddany badaniu przez biegłego, do składników majątku przypadających w planie podziału spółce przejmującej albo spółce nowo zawiązanej, będącej spółką akcyjną, stosuje się odpowiednio przepisy art. 311–3121. Jeżeli sporządzane jest sprawozdanie, o którym mowa w art. 536 § 1, należy do niego dołączyć informację o sporządzeniu w trybie art. 312 opinii biegłych rewidentów oraz wskazać sąd rejestrowy, w którym opinia biegłych rewidentów została złożona.
 
 **Art. 539.**
 
@@ -6485,7 +6729,7 @@ Art. 596–609. (pominięte)
 
 § 3. Wspólnicy mogą żądać udostępnienia im bezpłatnie w lokalu spółki dokumentów, o których mowa w § 1. Wspólnikom, którzy wyrazili zgodę na wykorzystanie przez spółkę środków komunikacji elektronicznej w celu przekazywania informacji, można przesłać odpisy tych dokumentów w formie elektronicznej.
 
-§ 3. Przepisów § 1, 2 i § 3 zdanie pierwsze nie stosuje się, gdy spółka nie później niż na miesiąc przed dniem rozpoczęcia zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała w sprawie podziału, nieprzerwanie do dnia zakończenia zgromadzenia podejmującego uchwałę w sprawie podziału, bezpłatnie udostępni do publicznej wiadomości dokumenty, o których mowa w § 1 i 2, na swojej stronie internetowej bądź w tym terminie umożliwi wspólnikom na swojej stronie internetowej dostęp do tych dokumentów w wersji elektronicznej i ich druk.
+§ 31. Przepisów § 1, 2 i § 3 zdanie pierwsze nie stosuje się, gdy spółka nie później niż na miesiąc przed dniem rozpoczęcia zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała w sprawie podziału, nieprzerwanie do dnia zakończenia zgromadzenia podejmującego uchwałę w sprawie podziału, bezpłatnie udostępni do publicznej wiadomości dokumenty, o których mowa w § 1 i 2, na swojej stronie internetowej bądź w tym terminie umożliwi wspólnikom na swojej stronie internetowej dostęp do tych dokumentów w wersji elektronicznej i ich druk.
 
 § 4. Bezpośrednio przed powzięciem uchwały o podziale spółki wspólnikom należy ustnie przedstawić istotne elementy treści planu podziału, sprawozdania zarządu i opinii biegłego oraz wszelkie istotne zmiany w zakresie aktywów i pasywów, które nastąpiły między dniem sporządzenia planu podziału a dniem powzięcia uchwały.
 
@@ -6555,7 +6799,7 @@ Art. 596–609. (pominięte)
 
 § 1. Członkowie zarządu, rady nadzorczej lub komisji rewizyjnej oraz likwidatorzy spółek uczestniczących w podziale odpowiadają wobec wspólników tych spółek solidarnie za szkody wyrządzone działaniem lub zaniechaniem, sprzecznym z prawem lub postanowieniami umowy albo statutu spółki, chyba że nie ponoszą winy.
 
-§ 2. Roszczenia z tytułu naprawienia szkody przedawniają się z upływem trzech lat od dnia ogłoszenia o podziale. Przepisy art. 209 § 1, art. 214 § 1, art. 293 § 3, art. 295 § 2–4, art. 296, art. 298, art. 300 lub art. 377 § 1, art. 387 § 1, art. 483 § 3, art. 484, art. 486 § 2–4, art. 489 i art. 490 stosuje się odpowiednio.
+§ 2. Roszczenia z tytułu naprawienia szkody przedawniają się z upływem trzech lat od dnia ogłoszenia o podziale. Przepisy art. 2091§ 1, art. 2141§ 1, art. 293 § 3, art. 295 § 2–4, art. 296, art. 298, art. 300 lub art. 3771§ 1, art. 3871§ 1, art. 483 § 3, art. 484, art. 486 § 2–4, art. 489 i art. 490 stosuje się odpowiednio.
 
 **Art. 549.**
 
@@ -6569,21 +6813,21 @@ Art. 596–609. (pominięte)
 
 § 2. Zakaz, o którym mowa w § 1, dotyczy również objęcia udziałów lub akcji własnych przez osoby działające we własnym imieniu, lecz na rachunek spółki przejmującej bądź spółki dzielonej.
 
-**Art. 550¹.** W przypadku podziału przez przejęcie podział może być przeprowadzony bez powzięcia przez zgromadzenie wspólników albo walne zgromadzenie spółki dzielonej uchwały, o której mowa w art. 541, jeżeli spółki przejmujące posiadają wszystkie udziały albo akcje spółki dzielonej. W tym przypadku ogłoszenie albo udostępnienie planu podziału, o którym mowa w art. 535 § 3, oraz udostępnienie dokumentów, o których mowa w art. 540, następuje co najmniej na miesiąc przed dniem złożenia wniosku o wykreślenie spółki dzielonej; informacje o których mowa w art. 536 § 4 dotyczą wszelkich istotnych zmian w zakresie składników majątkowych (aktywów i pasywów), które nastąpiły między dniem sporządzenia planu podziału a dniem wpisu podziału do rejestru.
+**Art. 5501.** W przypadku podziału przez przejęcie podział może być przeprowadzony bez powzięcia przez zgromadzenie wspólników albo walne zgromadzenie spółki dzielonej uchwały, o której mowa w art. 541, jeżeli spółki przejmujące posiadają wszystkie udziały albo akcje spółki dzielonej. W tym przypadku ogłoszenie albo udostępnienie planu podziału, o którym mowa w art. 535 § 3, oraz udostępnienie dokumentów, o których mowa w art. 540, następuje co najmniej na miesiąc przed dniem złożenia wniosku o wykreślenie spółki dzielonej; informacje o których mowa w art. 536 § 4 dotyczą wszelkich istotnych zmian w zakresie składników majątkowych (aktywów i pasywów), które nastąpiły między dniem sporządzenia planu podziału a dniem wpisu podziału do rejestru.
 
 #### Rozdział 3 Transgraniczny podział spółek kapitałowych i spółki komandytowo-akcyjnej
 
 ##### Oddział 1 Transgraniczny podział spółek kapitałowych
 
-**Art. 550².** Do transgranicznego podziału spółek kapitałowych stosuje się odpowiednio przepisy rozdziału 2, jeżeli przepisy niniejszego rozdziału nie stanowią inaczej.
+**Art. 5502.** Do transgranicznego podziału spółek kapitałowych stosuje się odpowiednio przepisy rozdziału 2, jeżeli przepisy niniejszego rozdziału nie stanowią inaczej.
 
-**Art. 550³.** Do dnia otrzymania zaświadczenia o zgodności podziału transgranicznego z prawem krajowym podział transgraniczny podlega prawu państwa siedziby spółki dzielonej, a po tym dniu podlega w odniesieniu do każdej ze spółek nowo zawiązanych prawu państwa jej siedziby.
+**Art. 5503.** Do dnia otrzymania zaświadczenia o zgodności podziału transgranicznego z prawem krajowym podział transgraniczny podlega prawu państwa siedziby spółki dzielonej, a po tym dniu podlega w odniesieniu do każdej ze spółek nowo zawiązanych prawu państwa jej siedziby.
 
-**Art. 550⁴.** W podziale transgranicznym nie może uczestniczyć spółka, której celem jest zbiorowe inwestowanie kapitału pozyskanego w drodze emisji publicznej, działająca na zasadzie dywersyfikacji ryzyka oraz której jednostki uczestnictwa są na żądanie ich posiadaczy odkupywane lub umarzane bezpośrednio lub pośrednio z aktywów tej spółki. Działania podjęte przez taką spółkę w celu zapewnienia, aby giełdowa wartość jednostek uczestnictwa nie różniła się w znaczny sposób od wartości netto aktywów, uważa się za równoznaczne z takim odkupieniem lub umorzeniem jednostek.
+**Art. 5504.** W podziale transgranicznym nie może uczestniczyć spółka, której celem jest zbiorowe inwestowanie kapitału pozyskanego w drodze emisji publicznej, działająca na zasadzie dywersyfikacji ryzyka oraz której jednostki uczestnictwa są na żądanie ich posiadaczy odkupywane lub umarzane bezpośrednio lub pośrednio z aktywów tej spółki. Działania podjęte przez taką spółkę w celu zapewnienia, aby giełdowa wartość jednostek uczestnictwa nie różniła się w znaczny sposób od wartości netto aktywów, uważa się za równoznaczne z takim odkupieniem lub umorzeniem jednostek.
 
-**Art. 550⁵.** Podział transgraniczny może być dokonany przez przeniesienie majątku spółki dzielonej na spółkę nowo zawiązaną albo spółki nowo zawiązane.
+**Art. 5505.** Podział transgraniczny może być dokonany przez przeniesienie majątku spółki dzielonej na spółkę nowo zawiązaną albo spółki nowo zawiązane.
 
-**Art. 550⁶.**
+**Art. 5506.**
 
 § 1. Plan podziału transgranicznego zawiera co najmniej:
 
@@ -6604,13 +6848,13 @@ Art. 596–609. (pominięte)
 - **15)** informacje na temat wyceny aktywów i pasywów przyznawanych każdej spółce uczestniczącej w podziale transgranicznym;
 - **16)** dzień zamknięcia ksiąg rachunkowych spółki dzielonej, wykorzystanych do ustalenia warunków podziału transgranicznego, z uwzględnieniem przepisów ustawy z dnia 29 września 1994 r. o rachunkowości;
 - **17)** podział między wspólników spółki dzielonej udziałów lub akcji lub innych papierów wartościowych spółki nowo zawiązanej albo spółek nowo zawiązanych lub spółki dzielonej oraz kryterium będące podstawą takiego podziału, chyba że nie jest wymagany;
-- **18)** cenę odkupu, o której mowa w art. 550 § 3, chyba że nie jest wymagana;
+- **18)** cenę odkupu, o której mowa w art. 55013§ 3, chyba że nie jest wymagana;
 - **19)** zabezpieczenia roszczeń proponowane wierzycielom;
 - **20)** warunki wykonywania praw wierzycieli, pracowników i wspólników oraz adres strony internetowej, na której można bezpłatnie uzyskać informacje na temat tych warunków.
 
 § 2. Wspólnicy, wierzyciele i przedstawiciele pracowników spółki dzielonej, a w braku takich przedstawicieli – pracownicy, mogą złożyć spółce uwagi dotyczące planu podziału transgranicznego co najmniej na pięć dni roboczych przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o podziale transgranicznym.
 
-**Art. 550⁷.**
+**Art. 5507.**
 
 § 1. Zarząd spółki dzielonej sporządza sprawozdanie dla wspólników i pracowników wyjaśniające podstawy prawne i uzasadniające ekonomiczne aspekty podziału transgranicznego, w tym wyjaśniające skutki tego podziału dla pracowników oraz dla przyszłej działalności spółki.
 
@@ -6618,10 +6862,10 @@ Art. 596–609. (pominięte)
 
 § 3. Sprawozdanie w części przeznaczonej dla wspólników określa w szczególności:
 
-- **1)** cenę odkupu, o której mowa w art. 550 § 3, oraz metodę albo metody użyte do określenia tej ceny;
+- **1)** cenę odkupu, o której mowa w art. 55013§ 3, oraz metodę albo metody użyte do określenia tej ceny;
 - **2)** stosunek wymiany udziałów lub akcji oraz metodę albo metody użyte do jego określania, chyba że nie dochodzi do takiej wymiany;
 - **3)** skutki podziału transgranicznego dla wspólników;
-- **4)** uprawnienia i środki prawne przysługujące wspólnikom zgodnie z art. 550 .
+- **4)** uprawnienia i środki prawne przysługujące wspólnikom zgodnie z art. 55013.
 
 § 4. Sprawozdanie w części przeznaczonej dla wspólników nie jest wymagane w przypadku spółki jednoosobowej ani w przypadku, gdy wszyscy wspólnicy spółki wyrazili zgodę na odstąpienie od wymogu sporządzenia tego sprawozdania.
 
@@ -6635,60 +6879,60 @@ Art. 596–609. (pominięte)
 
 § 7. Sprawozdanie w części przeznaczonej dla pracowników nie jest wymagane w przypadku, gdy spółka dzielona i jej spółki zależne nie zatrudniają pracowników innych niż pracownicy wchodzący w skład zarządu spółki dzielonej.
 
-**Art. 550⁸.**
+**Art. 5508.**
 
 § 1. Opinia biegłego zawiera co najmniej:
 
-- **1)** ocenę, czy cena odkupu, o której mowa w art. 550 § 3, i stosunek wymiany udziałów lub akcji są ustalone należycie; przy dokonywaniu oceny biegły uwzględnia cenę rynkową udziałów albo akcji spółki dzielonej przed ujawnieniem lub udostępnieniem planu podziału transgranicznego lub wartość spółki, z wyłączeniem efektu proponowanego podziału, określonego zgodnie z ogólnie przyjętymi metodami wyceny;
-- **2)** wskazanie metody albo metod użytych dla określenia proponowanej w planie podziału transgranicznego ceny odkupu, o której mowa w art. 550 § 3;
+- **1)** ocenę, czy cena odkupu, o której mowa w art. 55013§ 3, i stosunek wymiany udziałów lub akcji są ustalone należycie; przy dokonywaniu oceny biegły uwzględnia cenę rynkową udziałów albo akcji spółki dzielonej przed ujawnieniem lub udostępnieniem planu podziału transgranicznego lub wartość spółki, z wyłączeniem efektu proponowanego podziału, określonego zgodnie z ogólnie przyjętymi metodami wyceny;
+- **2)** wskazanie metody albo metod użytych dla określenia proponowanej w planie podziału transgranicznego ceny odkupu, o której mowa w art. 55013§ 3;
 - **3)** wskazanie metody albo metod użytych dla określenia proponowanego stosunku wymiany udziałów lub akcji;
-- **4)** stwierdzenie, czy metoda albo metody użyte dla określenia proponowanej w planie podziału transgranicznego ceny odkupu, o której mowa w art. 550 § 3, są adekwatne do oceny tej ceny, oraz stosunku wymiany udziałów lub akcji, wskazanie wartości określonej przy zastosowaniu każdej z tych metod, a także opinię na temat względnego znaczenia przypisywanego tym metodom przy określaniu wybranej wartości;
+- **4)** stwierdzenie, czy metoda albo metody użyte dla określenia proponowanej w planie podziału transgranicznego ceny odkupu, o której mowa w art. 55013§ 3, są adekwatne do oceny tej ceny, oraz stosunku wymiany udziałów lub akcji, wskazanie wartości określonej przy zastosowaniu każdej z tych metod, a także opinię na temat względnego znaczenia przypisywanego tym metodom przy określaniu wybranej wartości;
 - **5)** wskazanie szczególnych trudności związanych z wyceną.
 
 § 2. Badanie planu podziału transgranicznego przez biegłego ani opinia biegłego nie są wymagane w przypadku spółki jednoosobowej ani w przypadku, gdy wszyscy wspólnicy spółki dzielonej wyrazili zgodę na odstąpienie od wymogu badania planu podziału transgranicznego przez biegłego i sporządzenie przez niego opinii.
 
-**Art. 550⁹.**
+**Art. 5509.**
 
 § 1. Spółka składa do sądu rejestrowego co najmniej na pięć tygodni przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o podziale transgranicznym, następujące dokumenty:
 
 - **1)** plan podziału transgranicznego,
-- **2)** zawiadomienie wspólników, wierzycieli i przedstawicieli pracowników spółki dzielonej, a w braku takich przedstawicieli – pracowników, o możliwości złożenia spółce uwag dotyczących planu podziału transgranicznego – w celu wpisania do rejestru wzmianki o złożeniu tych dokumentów oraz ujawnienia w aktach rejestrowych co najmniej na miesiąc przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o podziale transgranicznym.
+- **2)** zawiadomienie wspólników, wierzycieli i przedstawicieli pracowników spółki dzielonej, a w braku takich przedstawicieli – pracowników, o możliwości złożenia spółce uwag dotyczących planu podziału transgranicznego w celu wpisania do rejestru wzmianki o złożeniu tych dokumentów oraz ujawnienia w aktach rejestrowych co najmniej na miesiąc przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o podziale transgranicznym.
 
-§ 2. Spółka nie jest obowiązana do złożenia do sądu rejestrowego dokumentów, o których mowa w § 1, jeżeli nie później niż na pięć tygodni przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o podziale transgranicznym, nieprzerwanie do dnia zakończenia zgromadzenia, na którym ma być powzięta uchwała o podziale transgranicznym, bezpłatnie udostępni do publicznej wiadomości dokumenty, o których mowa w § 1, oraz opinię biegłego, o której mowa w art. 550 , na swojej stronie internetowej.
+§ 2. Spółka nie jest obowiązana do złożenia do sądu rejestrowego dokumentów, o których mowa w § 1, jeżeli nie później niż na pięć tygodni przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o podziale transgranicznym, nieprzerwanie do dnia zakończenia zgromadzenia, na którym ma być powzięta uchwała o podziale transgranicznym, bezpłatnie udostępni do publicznej wiadomości dokumenty, o których mowa w § 1, oraz opinię biegłego, o której mowa w art. 5508, na swojej stronie internetowej.
 
 § 3. W przypadku, o którym mowa w § 2, spółka składa do sądu rejestrowego co najmniej na pięć tygodni przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o podziale transgranicznym, następujące informacje:
 
 - **1)** formę prawną, firmę i siedzibę statutową spółki dzielonej oraz formę prawną, firmę i siedzibę statutową proponowane dla spółki albo spółek nowo zawiązanych,
 - **2)** oznaczenie rejestru, do którego zostały złożone dokumenty spółki dzielonej, oraz numer spółki w rejestrze,
 - **3)** warunki wykonywania praw wierzycieli, pracowników i wspólników,
-- **4)** adres strony internetowej, na której bezpłatnie udostępniane są dokumenty, o których mowa w § 1, oraz opinia biegłego, o której mowa w art. 550 – w celu wpisania do rejestru wzmianki o złożeniu tych informacji oraz ujawnienia w aktach rejestrowych co najmniej na miesiąc przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o podziale transgranicznym.
+- **4)** adres strony internetowej, na której bezpłatnie udostępniane są dokumenty, o których mowa w § 1, oraz opinia biegłego, o której mowa w art. 5508 w celu wpisania do rejestru wzmianki o złożeniu tych informacji oraz ujawnienia w aktach rejestrowych co najmniej na miesiąc przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o podziale transgranicznym.
 
 § 4. Sąd rejestrowy wpisuje wzmiankę o złożeniu dokumentów, o których mowa w § 1, albo wzmiankę o złożeniu informacji, o których mowa w § 3.
 
-**Art. 550¹⁰.**
+**Art. 55010.**
 
 § 1. Zarząd spółki zawiadamia wspólników o zamiarze podziału spółki dzielonej i przeniesienia jej majątku na spółki nowo zawiązane dwukrotnie, w sposób przewidziany dla zwoływania zgromadzeń wspólników albo walnych zgromadzeń. Pierwszego zawiadomienia dokonuje się nie później niż na sześć tygodni przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o podziale transgranicznym, a drugiego w odstępie nie krótszym niż dwa tygodnie od daty pierwszego zawiadomienia.
 
-§ 2. Zawiadomienia, o których mowa w § 1, zawierają co najmniej miejsce oraz termin, w których wspólnicy mogą się zapoznać z dokumentami, o których mowa w art. 550 § 1.
+§ 2. Zawiadomienia, o których mowa w § 1, zawierają co najmniej miejsce oraz termin, w których wspólnicy mogą się zapoznać z dokumentami, o których mowa w art. 55011§ 1.
 
-**Art. 550¹¹.**
+**Art. 55011.**
 
 § 1. Wspólnicy spółki dzielonej i przedstawiciele pracowników, a w braku takich przedstawicieli – pracownicy, mają prawo przeglądać następujące dokumenty:
 
 - **1)** plan podziału transgranicznego;
 - **2)** sprawozdania finansowe oraz sprawozdania zarządów z działalności spółki dzielonej za trzy ostatnie lata obrotowe wraz ze sprawozdaniem z badania, jeżeli sprawozdanie z badania było sporządzane;
-- **3)** sprawozdanie, o którym mowa w art. 550 ;
-- **4)** opinię, o której mowa w art. 550 § 6;
-- **5)** opinię biegłego, o której mowa w art. 550 ;
-- **6)** uwagi, o których mowa w art. 550 § 2.
+- **3)** sprawozdanie, o którym mowa w art. 5507;
+- **4)** opinię, o której mowa w art. 5507§ 6;
+- **5)** opinię biegłego, o której mowa w art. 5508;
+- **6)** uwagi, o których mowa w art. 5506§ 2.
 
 § 2. Wspólnicy i przedstawiciele pracowników, a w braku takich przedstawicieli – pracownicy, mogą żądać udostępnienia im bezpłatnie w lokalu spółki odpisów dokumentów, o których mowa w § 1. Wspólnikom i przedstawicielom pracowników, a w braku takich przedstawicieli – pracownikom, którzy wyrazili zgodę na wykorzystanie przez spółkę środków komunikacji elektronicznej w celu przekazywania informacji, można przesłać odpisy tych dokumentów w postaci elektronicznej.
 
 § 3. Przepisów § 1 i § 2 zdanie pierwsze nie stosuje się, gdy spółka nie później niż w terminach, o których mowa w § 4, nieprzerwanie do dnia zakończenia zgromadzenia, na którym ma być powzięta uchwała o podziale transgranicznym, bezpłatnie udostępni do publicznej wiadomości dokumenty, o których mowa w § 1, na swojej stronie internetowej bądź w tym terminie umożliwi wspólnikom oraz przedstawicielom pracowników, a w braku takich przedstawicieli – pracownikom, na swojej stronie internetowej dostęp do tych dokumentów w postaci elektronicznej i ich druk.
 
-§ 4. Spółka udostępnia dokumenty, o których mowa w § 1 pkt 2 i 5, co najmniej na miesiąc przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o podziale transgranicznym, a sprawozdanie, o którym mowa w art. 550 , wraz z planem podziału transgranicznego, o ile go sporządzono, co najmniej na sześć tygodni przed tym dniem.
+§ 4. Spółka udostępnia dokumenty, o których mowa w § 1 pkt 2 i 5, co najmniej na miesiąc przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o podziale transgranicznym, a sprawozdanie, o którym mowa w art. 5507, wraz z planem podziału transgranicznego, o ile go sporządzono, co najmniej na sześć tygodni przed tym dniem.
 
-**Art. 550¹².**
+**Art. 55012.**
 
 § 1. W uchwale o podziale transgranicznym można uzależnić skuteczność podziału transgranicznego od zatwierdzenia przez zgromadzenie wspólników albo walne zgromadzenie warunków uczestnictwa przedstawicieli pracowników.
 
@@ -6698,18 +6942,18 @@ Art. 596–609. (pominięte)
 
 § 4. Uchwała o podziale transgranicznym nie podlega zaskarżeniu ze względu na zastrzeżenia dotyczące wyłącznie tego, że:
 
-- **1)** stosunek wymiany udziałów lub akcji, o którym mowa w art. 550 § 1 pkt 3, nie został ustalony należycie lub
-- **2)** cena odkupu, o której mowa w art. 550 § 3, nie została ustalona należycie, lub
-- **3)** informacje podane w odniesieniu do stosunku wymiany udziałów lub akcji, o którym mowa w art. 550 § 1 pkt 3, lub ceny odkupu, o której mowa w art. 550 § 3, nie spełniają wymogów prawnych.
+- **1)** stosunek wymiany udziałów lub akcji, o którym mowa w art. 5506§ 1 pkt 3, nie został ustalony należycie lub
+- **2)** cena odkupu, o której mowa w art. 55013§ 3, nie została ustalona należycie, lub
+- **3)** informacje podane w odniesieniu do stosunku wymiany udziałów lub akcji, o którym mowa w art. 5506§ 1 pkt 3, lub ceny odkupu, o której mowa w art. 55013§ 3, nie spełniają wymogów prawnych.
 
 § 5. Przepis § 4 nie ogranicza prawa do dochodzenia odszkodowania na zasadach ogólnych.
 
-**Art. 550¹³.**
+**Art. 55013.**
 
 § 1. Jeżeli spółką nowo zawiązaną jest spółka zagraniczna, wspólnik:
 
 - **1)** który głosował przeciwko uchwale o podziale transgranicznym i zażądał zaprotokołowania sprzeciwu najpóźniej na zgromadzeniu wspólników albo walnym zgromadzeniu, na którym została powzięta uchwała o podziale transgranicznym; wymóg głosowania nie dotyczy akcjonariusza akcji niemej,
-- **2)** bezzasadnie niedopuszczony do udziału w zgromadzeniu wspólników albo walnym zgromadzeniu, na którym została powzięta uchwała o podziale transgranicznym – może żądać odkupu jego udziałów albo akcji w spółce dzielonej; w odniesieniu do wspólnika, który skorzystał z prawa odkupu, przepisu art. 531 § 5 nie stosuje się.
+- **2)** bezzasadnie niedopuszczony do udziału w zgromadzeniu wspólników albo walnym zgromadzeniu, na którym została powzięta uchwała o podziale transgranicznym może żądać odkupu jego udziałów albo akcji w spółce dzielonej; w odniesieniu do wspólnika, który skorzystał z prawa odkupu, przepisu art. 531 § 5 nie stosuje się.
 
 § 2. Akcjonariusz dołącza do żądania odkupu świadectwo rejestrowe albo imienne świadectwo depozytowe wystawione zgodnie z ustawą z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi. Termin ważności świadectwa nie może upływać przed dniem dokonania odkupu.
 
@@ -6733,7 +6977,7 @@ Art. 596–609. (pominięte)
 
 § 12. Spółka powstająca w wyniku podziału transgranicznego, a w przypadku podziału przez wydzielenie spółka dzielona, może przyznać udziały albo akcje zamiast dopłaty w gotówce.
 
-**Art. 550¹⁴.**
+**Art. 55014.**
 
 § 1. Wierzyciel spółki dzielonej może w terminie miesiąca od dnia ujawnienia lub udostępnienia planu podziału transgranicznego żądać zabezpieczenia swoich roszczeń, które nie stały się wymagalne w chwili ujawnienia lub udostępnienia tego planu, jeżeli uprawdopodobni, że ich zaspokojenie jest zagrożone przez podział.
 
@@ -6745,23 +6989,23 @@ Art. 596–609. (pominięte)
 
 § 5. Jeżeli roszczenie wierzyciela spółki dzielonej nie zostanie zaspokojone przez spółkę, której przypisane jest zobowiązanie w planie podziału transgranicznego, pozostałe spółki, na które został przeniesiony majątek, oraz – w przypadku podziału przez wydzielenie albo podziału przez wyodrębnienie – spółka dzielona odpowiadają solidarnie wraz ze spółką, której przypisano to zobowiązanie. Odpowiedzialność ta jest ograniczona do wartości aktywów netto przyznanych każdej spółce uczestniczącej w podziale w dniu, o którym mowa w art. 530.
 
-**Art. 550¹⁵.**
+**Art. 55015.**
 
 § 1. Zarząd spółki składa do sądu rejestrowego wniosek o wydanie zaświadczenia o zgodności z prawem polskim podziału transgranicznego w zakresie procedury podlegającej temu prawu wraz z wnioskiem do właściwego organu podatkowego o wydanie opinii zgodnie z ustawą z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa. Sąd rejestrowy niezwłocznie przesyła wniosek do właściwego organu podatkowego.
 
 § 2. Do wniosku należy dołączyć:
 
-- **1)** plan podziału transgranicznego, chyba że został złożony do sądu rejestrowego zgodnie z art. 550 § 1;
-- **2)** sprawozdanie, o którym mowa w art. 550 , w części przeznaczonej dla wspólników, albo odpis zgody wszystkich wspólników spółki dzielonej na odstąpienie od wymogu sporządzenia tego sprawozdania;
-- **3)** sprawozdanie, o którym mowa w art. 550 , w części przeznaczonej dla pracowników, albo informację o niezatrudnianiu w spółce dzielonej lub jej spółkach zależnych pracowników innych niż pracownicy wchodzący w skład zarządu;
+- **1)** plan podziału transgranicznego, chyba że został złożony do sądu rejestrowego zgodnie z art. 5509§ 1;
+- **2)** sprawozdanie, o którym mowa w art. 5507, w części przeznaczonej dla wspólników, albo odpis zgody wszystkich wspólników spółki dzielonej na odstąpienie od wymogu sporządzenia tego sprawozdania;
+- **3)** sprawozdanie, o którym mowa w art. 5507, w części przeznaczonej dla pracowników, albo informację o niezatrudnianiu w spółce dzielonej lub jej spółkach zależnych pracowników innych niż pracownicy wchodzący w skład zarządu;
 - **4)** opinię przedstawicieli pracowników, a w braku takich przedstawicieli – pracowników, jeżeli zarząd otrzymał ją w odpowiednim czasie;
 - **5)** opinię biegłego albo odpis zgody wszystkich wspólników spółki dzielonej na odstąpienie od wymogu badania planu podziału transgranicznego przez biegłego i sporządzenia przez niego opinii, chyba że opinia została złożona do sądu rejestrowego zgodnie z art. 538;
-- **6)** uwagi, o których mowa w art. 550 § 2;
+- **6)** uwagi, o których mowa w art. 5506§ 2;
 - **7)** odpis uchwały o podziale transgranicznym;
 - **8)** oświadczenie podpisane przez wszystkich członków zarządu, że uchwała o podziale transgranicznym nie została zaskarżona w wyznaczonym terminie albo powództwo o jej zaskarżenie zostało prawomocnie oddalone bądź odrzucone, albo minął termin do wniesienia środka odwoławczego, o ile nie zachodzi przypadek wskazany w pkt 9;
-- **9)** odpis oświadczenia o zrzeczeniu się na piśmie przez wszystkich uprawnionych prawa zaskarżenia uchwały o podziale transgranicznym albo odpis postanowienia sądu, o którym mowa w art. 550 ;
+- **9)** odpis oświadczenia o zrzeczeniu się na piśmie przez wszystkich uprawnionych prawa zaskarżenia uchwały o podziale transgranicznym albo odpis postanowienia sądu, o którym mowa w art. 55020;
 - **10)** oświadczenie podpisane przez wszystkich członków zarządu o sposobie realizacji uprawnień wierzycieli i wspólników wynikających z przepisów prawa oraz uchwały o podziale transgranicznym;
-- **11)** oświadczenie zarządu dotyczące celu podziału transgranicznego, jeżeli nie jest wymagane sporządzenie sprawozdania, o którym mowa w art. 550 ;
+- **11)** oświadczenie zarządu dotyczące celu podziału transgranicznego, jeżeli nie jest wymagane sporządzenie sprawozdania, o którym mowa w art. 5507;
 - **12)** oświadczenie zarządu dotyczące miejsca rzeczywistego zarządzania lub działalności gospodarczej spółki po dniu, o którym mowa w art. 530;
 - **13)** oświadczenie zarządu o tym, czy rozpoczęło się postępowanie dotyczące uczestnictwa pracowników, jeżeli wymagają tego odrębne przepisy;
 - **14)** zaświadczenie Zakładu Ubezpieczeń Społecznych o liczbie ubezpieczonych i o niezaleganiu w opłacaniu składek, na ostatni dzień miesiąca poprzedzającego miesiąc złożenia wniosku o wydanie zaświadczenia.
@@ -6780,7 +7024,7 @@ Art. 596–609. (pominięte)
 
 § 9. Jeżeli wydanie zaświadczenia o zgodności z prawem polskim podziału transgranicznego w zakresie procedury podlegającej temu prawu wymaga uwzględnienia dodatkowych informacji lub przeprowadzenia dodatkowych czynności wyjaśniających, termin przewidziany w § 5 można przedłużyć o trzy miesiące.
 
-**Art. 550¹⁶.**
+**Art. 55016.**
 
 § 1. Zarząd spółki nowo zawiązanej albo zarządy spółek nowo zawiązanych zgłaszają podział transgraniczny do sądów rejestrowych właściwych dla tych spółek w celu wpisania do rejestru.
 
@@ -6794,11 +7038,11 @@ Art. 596–609. (pominięte)
 
 § 4. Sąd rejestrowy przyjmuje zaświadczenie o zgodności z prawem podziału transgranicznego wydane przez właściwy organ jako ostateczne potwierdzenie należytego dopełnienia procedur i formalności w zakresie procedury podlegającej prawu właściwemu dla spółki dzielonej.
 
-**Art. 550¹⁷.** Do podziału przez wyodrębnienie nie stosuje przepisów się art. 537, art. 538, art. 550 § 1 pkt 3, 5, 8, 11, 17 i 18, art. 550 , art. 550 i art. 550 .
+**Art. 55017.** Do podziału przez wyodrębnienie nie stosuje przepisów się art. 537, art. 538, art. 5506§ 1 pkt 3, 5, 8, 11, 17 i 18, art. 5507, art. 5508 i art. 55013.
 
-**Art. 550¹⁸.** Do składników majątku spółki dzielonej nieprzypisanych w planie podziału transgranicznego określonej spółce nowo zawiązanej, a w przypadku podziału przez wydzielenie albo podziału przez wyodrębnienie również spółce dzielonej, stosuje się odpowiednio przepisy o współwłasności w częściach ułamkowych. Udział spółki nowo zawiązanej, a w przypadku podziału przez wydzielenie albo podziału przez wyodrębnienie również spółki dzielonej, we wspólności jest proporcjonalny do wartości aktywów netto przypadających spółkom nowo zawiązanym i spółce dzielonej. Za zobowiązania spółki dzielonej, nieprzypisane w planie podziału transgranicznego spółkom nowo zawiązanym, spółki te, a w przypadku podziału przez wydzielenie albo podziału przez wyodrębnienie, również spółka dzielona, odpowiadają solidarnie.
+**Art. 55018.** Do składników majątku spółki dzielonej nieprzypisanych w planie podziału transgranicznego określonej spółce nowo zawiązanej, a w przypadku podziału przez wydzielenie albo podziału przez wyodrębnienie również spółce dzielonej, stosuje się odpowiednio przepisy o współwłasności w częściach ułamkowych. Udział spółki nowo zawiązanej, a w przypadku podziału przez wydzielenie albo podziału przez wyodrębnienie również spółki dzielonej, we wspólności jest proporcjonalny do wartości aktywów netto przypadających spółkom nowo zawiązanym i spółce dzielonej. Za zobowiązania spółki dzielonej, nieprzypisane w planie podziału transgranicznego spółkom nowo zawiązanym, spółki te, a w przypadku podziału przez wydzielenie albo podziału przez wyodrębnienie, również spółka dzielona, odpowiadają solidarnie.
 
-**Art. 550¹⁹.**
+**Art. 55019.**
 
 § 1. Po dniu, o którym mowa w art. 530, niedopuszczalne jest uchylenie albo stwierdzenie nieważności uchwały o podziale transgranicznym. Przepisów art. 21, art. 532 § 3, art. 544 i art. 545 nie stosuje się.
 
@@ -6806,7 +7050,7 @@ Art. 596–609. (pominięte)
 
 § 3. Spółka odpowiada wobec skarżącego za szkodę wyrządzoną uchwałą o podziale transgranicznym sprzeczną z ustawą, umową bądź statutem spółki lub dobrymi obyczajami.
 
-**Art. 550²⁰.**
+**Art. 55020.**
 
 § 1. Spółka może wystąpić do sądu, do którego został wniesiony pozew o uchylenie albo stwierdzenie nieważności uchwały, z wnioskiem o wydanie postanowienia zezwalającego na rejestrację podziału transgranicznego.
 
@@ -6822,29 +7066,29 @@ Art. 596–609. (pominięte)
 
 ##### Oddział 2 Transgraniczny podział spółki komandytowo-akcyjnej
 
-**Art. 550²¹.** Do transgranicznego podziału spółki komandytowo-akcyjnej stosuje się odpowiednio przepisy oddziału 1 oraz art. 550 i art. 550 .
+**Art. 55021.** Do transgranicznego podziału spółki komandytowo-akcyjnej stosuje się odpowiednio przepisy oddziału 1 oraz art. 55027 i art. 55028.
 
-**Art. 550²².** Do podjęcia uchwały o podziale transgranicznym wymagana jest zgoda wszystkich komplementariuszy oraz uchwała akcjonariuszy, za którą wypowiedzą się osoby reprezentujące co najmniej trzy czwarte kapitału zakładowego, chyba że statut przewiduje surowsze warunki dla wymaganej większości, z tym że większość ta nie może przekraczać 90% głosów.
+**Art. 55022.** Do podjęcia uchwały o podziale transgranicznym wymagana jest zgoda wszystkich komplementariuszy oraz uchwała akcjonariuszy, za którą wypowiedzą się osoby reprezentujące co najmniej trzy czwarte kapitału zakładowego, chyba że statut przewiduje surowsze warunki dla wymaganej większości, z tym że większość ta nie może przekraczać 90% głosów.
 
 #### Rozdział 4 Podział spółki komandytowo-akcyjnej
 
-**Art. 550²³.** Do podziału spółki komandytowo-akcyjnej stosuje się odpowiednio przepisy rozdziału 2, jeżeli przepisy niniejszego rozdziału nie stanowią inaczej.
+**Art. 55023.** Do podziału spółki komandytowo-akcyjnej stosuje się odpowiednio przepisy rozdziału 2, jeżeli przepisy niniejszego rozdziału nie stanowią inaczej.
 
-**Art. 550²⁴.** Zawiadomienia, o których mowa w art. 539 § 1, dotyczą wspólników, którzy nie prowadzą spraw spółki.
+**Art. 55024.** Zawiadomienia, o których mowa w art. 539 § 1, dotyczą wspólników, którzy nie prowadzą spraw spółki.
 
-**Art. 550²⁵.** Plan podziału zawiera liczbę i wartość udziałów albo akcji spółki przejmującej bądź spółki nowo zawiązanej przyznanych wspólnikom spółki dzielonej oraz wysokość ewentualnych dopłat pieniężnych.
+**Art. 55025.** Plan podziału zawiera liczbę i wartość udziałów albo akcji spółki przejmującej bądź spółki nowo zawiązanej przyznanych wspólnikom spółki dzielonej oraz wysokość ewentualnych dopłat pieniężnych.
 
-**Art. 550²⁶.** Do podjęcia uchwały o podziale wymagana jest zgoda wszystkich komplementariuszy oraz uchwała akcjonariuszy, za którą wypowiedzą się osoby reprezentujące co najmniej trzy czwarte kapitału zakładowego, chyba że statut przewiduje surowsze warunki dla wymaganej większości.
+**Art. 55026.** Do podjęcia uchwały o podziale wymagana jest zgoda wszystkich komplementariuszy oraz uchwała akcjonariuszy, za którą wypowiedzą się osoby reprezentujące co najmniej trzy czwarte kapitału zakładowego, chyba że statut przewiduje surowsze warunki dla wymaganej większości.
 
-**Art. 550²⁷.**
+**Art. 55027.**
 
 § 1. Komplementariusze odpowiadają na dotychczasowych zasadach, subsydiarnie wobec wierzycieli spółki, solidarnie ze spółką przejmującą albo spółką nowo zawiązaną, za zobowiązania spółki komandytowo-akcyjnej powstałe przed dniem, o którym mowa w art. 530, przez okres trzech lat, licząc od tego dnia.
 
 § 2. Przepis art. 31 stosuje się odpowiednio.
 
-**Art. 550²⁸.** Wspólnicy prowadzący sprawy spółki komandytowo-akcyjnej uczestniczącej w podziale odpowiadają wobec wspólników tej spółki solidarnie za szkody wyrządzone działaniem lub zaniechaniem, sprzecznym z prawem lub postanowieniami statutu spółki, chyba że nie ponoszą winy.
+**Art. 55028.** Wspólnicy prowadzący sprawy spółki komandytowo-akcyjnej uczestniczącej w podziale odpowiadają wobec wspólników tej spółki solidarnie za szkody wyrządzone działaniem lub zaniechaniem, sprzecznym z prawem lub postanowieniami statutu spółki, chyba że nie ponoszą winy.
 
-### DZIAŁ III Przekształcenia spółek
+### Dział III Przekształcenia spółek
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -6852,7 +7096,7 @@ Art. 596–609. (pominięte)
 
 § 1. Spółka jawna, spółka partnerska, spółka komandytowa, spółka komandytowo-akcyjna, spółka z ograniczoną odpowiedzialnością, prosta spółka akcyjna oraz spółka akcyjna (spółka przekształcana) może być przekształcona w inną spółkę handlową (spółkę przekształconą).
 
-§ 1. Spółka kapitałowa oraz spółka komandytowo-akcyjna mogą być przekształcone w spółkę zagraniczną mającą formę wymienioną w załączniku II do dyrektywy Parlamentu Europejskiego i Rady (UE) 2017/1132 z dnia 14 czerwca 2017 r. w sprawie niektórych aspektów prawa spółek, podlegającą prawu państwa członkowskiego Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym i mającą siedzibę statutową, zarząd główny lub główny zakład na terenie Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym, z jednoczesnym przeniesieniem co najmniej siedziby statutowej do tego państwa (przekształcenie transgraniczne).
+§ 11. Spółka kapitałowa oraz spółka komandytowo-akcyjna mogą być przekształcone w spółkę zagraniczną mającą formę wymienioną w załączniku II do dyrektywy Parlamentu Europejskiego i Rady (UE) 2017/1132 z dnia 14 czerwca 2017 r. w sprawie niektórych aspektów prawa spółek, podlegającą prawu państwa członkowskiego Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym i mającą siedzibę statutową, zarząd główny lub główny zakład na terenie Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym, z jednoczesnym przeniesieniem co najmniej siedziby statutowej do tego państwa (przekształcenie transgraniczne).
 
 § 2. Spółka cywilna może być przekształcona w spółkę handlową, inną niż spółka jawna. Przepis ten nie narusza przepisów art. 26 § 4–6.
 
@@ -6870,7 +7114,7 @@ Art. 596–609. (pominięte)
 
 § 2. Spółka przekształcona pozostaje podmiotem w szczególności zezwoleń, koncesji oraz ulg, które zostały przyznane spółce przed jej przekształceniem, chyba że ustawa lub decyzja o udzieleniu zezwolenia, koncesji albo ulgi stanowi inaczej.
 
-§ 3. Wspólnicy spółki przekształcanej stają się z dniem przekształcenia wspólnikami spółki przekształconej, z uwzględnieniem art. 576 .
+§ 3. Wspólnicy spółki przekształcanej stają się z dniem przekształcenia wspólnikami spółki przekształconej, z uwzględnieniem art. 5761.
 
 **Art. 554.** W przypadku gdy zmiana brzmienia firmy dokonywana w związku z przekształceniem nie polega tylko na zmianie dodatkowego oznaczenia wskazującego na charakter spółki, spółka przekształcona ma obowiązek podawania w nawiasie dawnej firmy obok nowej firmy z dodaniem wyrazu „dawniej”, przez okres co najmniej roku od dnia przekształcenia.
 
@@ -6881,6 +7125,12 @@ Art. 596–609. (pominięte)
 § 2. Spółka przekształcona nie może powstać przez jej zawiązanie przy wykorzystaniu wzorca umowy.
 
 **Art. 556.** Do przekształcenia spółki wymaga się:
+
+- **1)** sporządzenia planu przekształcenia spółki wraz z załącznikami, a w przypadku przekształcenia w spółkę akcyjną – wraz z opinią biegłego rewidenta;
+- **2)** powzięcia uchwały o przekształceniu spółki;
+- **3)** powołania członków organów spółki przekształconej albo określenia wspólników prowadzących sprawy tej spółki i reprezentujących ją;
+- **4)** (uchylony)
+- **5)** dokonania w rejestrze wpisu spółki przekształconej i wykreślenia spółki przekształcanej.
 
 **Art. 557.**
 
@@ -6928,7 +7178,7 @@ Art. 596–609. (pominięte)
 
 § 1. Wspólnicy mają prawo przeglądać w lokalu spółki dokumenty, o których mowa w art. 558 i art. 559 § 4, oraz żądać wydania im bezpłatnie odpisów tych dokumentów. Wspólnikom, którzy wyrazili zgodę na wykorzystanie przez spółkę środków komunikacji elektronicznej w celu przekazywania informacji, można przesłać odpisy tych dokumentów w postaci elektronicznej.
 
-§ 1. Przepisu § 1 zdanie pierwsze nie stosuje się, gdy spółka nie później niż na dwa tygodnie przed dniem rozpoczęcia zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o przekształceniu, nieprzerwanie do dnia zakończenia zgromadzenia, na którym ma być powzięta uchwała o przekształceniu, bezpłatnie udostępni do publicznej wiadomości dokumenty, o których mowa w art. 558 i art. 559 § 4, na swojej stronie internetowej bądź w tym terminie umożliwi wspólnikom na swojej stronie internetowej dostęp do tych dokumentów w postaci elektronicznej i ich druk.
+§ 11. Przepisu § 1 zdanie pierwsze nie stosuje się, gdy spółka nie później niż na dwa tygodnie przed dniem rozpoczęcia zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o przekształceniu, nieprzerwanie do dnia zakończenia zgromadzenia, na którym ma być powzięta uchwała o przekształceniu, bezpłatnie udostępni do publicznej wiadomości dokumenty, o których mowa w art. 558 i art. 559 § 4, na swojej stronie internetowej bądź w tym terminie umożliwi wspólnikom na swojej stronie internetowej dostęp do tych dokumentów w postaci elektronicznej i ich druk.
 
 § 2. Bezpośrednio przed podjęciem uchwały o przekształceniu spółki wspólnikom należy ustnie przedstawić istotne elementy planu przekształcenia i opinii biegłego rewidenta z badania planu przekształcenia, jeżeli została ona sporządzona.
 
@@ -6960,7 +7210,7 @@ Art. 596–609. (pominięte)
 
 § 1. Do uchylenia uchwały o przekształceniu spółki osobowej bądź spółki kapitałowej albo stwierdzenia nieważności tej uchwały stosuje się odpowiednio przepisy art. 422–427.
 
-§ 2. Nie można zaskarżyć uchwały jedynie na podstawie zastrzeżeń dotyczących wartości udziałów albo akcji ustalonej na potrzeby odkupu, o którym mowa w art. 576 .
+§ 2. Nie można zaskarżyć uchwały jedynie na podstawie zastrzeżeń dotyczących wartości udziałów albo akcji ustalonej na potrzeby odkupu, o którym mowa w art. 5761.
 
 § 3. Powództwo o uchylenie uchwały albo stwierdzenie jej nieważności należy wnieść w terminie miesiąca od dnia otrzymania wiadomości o uchwale, nie później jednak niż w terminie trzech miesięcy od dnia powzięcia uchwały.
 
@@ -6976,7 +7226,7 @@ Art. 596–609. (pominięte)
 
 § 1. Wniosek o wpis przekształcenia do rejestru wnoszą wszyscy członkowie zarządu albo wspólnicy mający prawo reprezentacji spółki przekształconej.
 
-§ 2. Do wniosku o wpis przekształcenia do rejestru dołącza się oświadczenie wszystkich członków zarządu, że wszystkie udziały albo akcje wspólników, którzy żądali odkupu, zostały odkupione zgodnie z art. 576 .
+§ 2. Do wniosku o wpis przekształcenia do rejestru dołącza się oświadczenie wszystkich członków zarządu, że wszystkie udziały albo akcje wspólników, którzy żądali odkupu, zostały odkupione zgodnie z art. 5761.
 
 **Art. 570.** Ogłoszenie o przekształceniu spółki jest dokonywane na wniosek zarządu spółki przekształconej albo wszystkich wspólników prowadzących sprawy spółki przekształconej.
 
@@ -7004,12 +7254,12 @@ Art. 596–609. (pominięte)
 
 § 2. W przypadku przekształcenia spółki akcyjnej w spółkę komandytowo-akcyjną przepis art. 573 stosuje się odpowiednio.
 
-**Art. 576¹.**
+**Art. 5761.**
 
 § 1. Wspólnik:
 
 - **1)** który głosował przeciwko uchwale o przekształceniu spółki kapitałowej w spółkę osobową i zażądał zaprotokołowania sprzeciwu; wymóg głosowania nie dotyczy akcjonariusza akcji niemej,
-- **2)** bezzasadnie niedopuszczony do udziału w zgromadzeniu wspólników albo walnym zgromadzeniu, na którym została powzięta uchwała o przekształceniu – może żądać odkupu jego udziałów albo akcji w spółce przekształcanej.
+- **2)** bezzasadnie niedopuszczony do udziału w zgromadzeniu wspólników albo walnym zgromadzeniu, na którym została powzięta uchwała o przekształceniu może żądać odkupu jego udziałów albo akcji w spółce przekształcanej.
 
 § 2. Wspólnicy składają spółce pisemne żądanie odkupu w terminie tygodnia od dnia podjęcia uchwały o przekształceniu.
 
@@ -7050,7 +7300,7 @@ Art. 596–609. (pominięte)
 
 § 4. Przepisu art. 415 § 3 nie stosuje się.
 
-**Art. 579¹.**
+**Art. 5791.**
 
 § 1. W przypadku przekształcenia w prostą spółkę akcyjną plan przekształcenia podlega ogłoszeniu. W przypadku gdy spółką przekształcaną jest spółka akcyjna, jej wierzyciel może w terminie miesiąca od dnia ogłoszenia planu przekształcenia żądać zabezpieczenia swoich roszczeń, jeżeli uprawdopodobni, że ich zaspokojenie jest zagrożone przez przekształcenie.
 
@@ -7068,13 +7318,13 @@ Art. 596–609. (pominięte)
 
 ##### Oddział 1 Transgraniczne przekształcenie spółek kapitałowych
 
-**Art. 580¹.** Do transgranicznego przekształcenia spółek kapitałowych stosuje się odpowiednio przepisy rozdziału 4, jeżeli przepisy niniejszego rozdziału nie stanowią inaczej.
+**Art. 5801.** Do transgranicznego przekształcenia spółek kapitałowych stosuje się odpowiednio przepisy rozdziału 4, jeżeli przepisy niniejszego rozdziału nie stanowią inaczej.
 
-**Art. 580².** Do dnia otrzymania zaświadczenia o zgodności przekształcenia transgranicznego z prawem krajowym przekształcenie transgraniczne podlega prawu państwa siedziby spółki przekształcanej, a po tym dniu podlega prawu państwa siedziby spółki przekształconej.
+**Art. 5802.** Do dnia otrzymania zaświadczenia o zgodności przekształcenia transgranicznego z prawem krajowym przekształcenie transgraniczne podlega prawu państwa siedziby spółki przekształcanej, a po tym dniu podlega prawu państwa siedziby spółki przekształconej.
 
-**Art. 580³.** W przekształceniu transgranicznym nie może uczestniczyć spółka, której celem jest zbiorowe inwestowanie kapitału pozyskanego w drodze emisji publicznej, działająca na zasadzie dywersyfikacji ryzyka oraz której jednostki uczestnictwa są na żądanie ich posiadaczy odkupywane lub umarzane bezpośrednio lub pośrednio z aktywów tej spółki. Działania podjęte przez taką spółkę w celu zapewnienia, aby giełdowa wartość jednostek uczestnictwa nie różniła się w znaczny sposób od wartości netto aktywów, uważa się za równoznaczne z takim odkupieniem lub umorzeniem jednostek.
+**Art. 5803.** W przekształceniu transgranicznym nie może uczestniczyć spółka, której celem jest zbiorowe inwestowanie kapitału pozyskanego w drodze emisji publicznej, działająca na zasadzie dywersyfikacji ryzyka oraz której jednostki uczestnictwa są na żądanie ich posiadaczy odkupywane lub umarzane bezpośrednio lub pośrednio z aktywów tej spółki. Działania podjęte przez taką spółkę w celu zapewnienia, aby giełdowa wartość jednostek uczestnictwa nie różniła się w znaczny sposób od wartości netto aktywów, uważa się za równoznaczne z takim odkupieniem lub umorzeniem jednostek.
 
-**Art. 580⁴.**
+**Art. 5804.**
 
 § 1. Plan przekształcenia transgranicznego zawiera co najmniej:
 
@@ -7086,14 +7336,14 @@ Art. 596–609. (pominięte)
 - **6)** zabezpieczenia roszczeń proponowane wierzycielom;
 - **7)** szczególne korzyści przyznane członkom organów spółki;
 - **8)** informację, czy spółka przekształcana w ciągu poprzednich pięciu lat otrzymała zachęty lub subsydia;
-- **9)** cenę odkupu, o której mowa w art. 580 § 3;
+- **9)** cenę odkupu, o której mowa w art. 58011§ 3;
 - **10)** prawdopodobne skutki przekształcenia transgranicznego dla stanu zatrudnienia;
 - **11)** procedury, według których zostaną określone zasady udziału pracowników w ustaleniu ich praw uczestnictwa w organach spółki przekształconej, zgodnie z przepisami odrębnymi;
 - **12)** warunki wykonywania praw wierzycieli, pracowników i wspólników oraz adres strony internetowej, na której można bezpłatnie uzyskać informacje na temat tych warunków.
 
 § 2. Wspólnicy, wierzyciele i przedstawiciele pracowników spółki, a w braku takich przedstawicieli – pracownicy, mogą złożyć spółce uwagi dotyczące planu przekształcenia transgranicznego co najmniej na pięć dni roboczych przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o przekształceniu transgranicznym.
 
-**Art. 580⁵.**
+**Art. 5805.**
 
 § 1. Zarząd spółki przekształcanej sporządza sprawozdanie dla wspólników i pracowników wyjaśniające podstawy prawne i uzasadniające ekonomiczne aspekty przekształcenia transgranicznego, w tym wyjaśniające skutki tego przekształcenia dla pracowników oraz dla przyszłej działalności spółki.
 
@@ -7101,9 +7351,9 @@ Art. 596–609. (pominięte)
 
 § 3. Sprawozdanie w części przeznaczonej dla wspólników określa w szczególności:
 
-- **1)** cenę odkupu, o której mowa w art. 580 § 3, i metodę albo metody użyte do określenia tej ceny;
+- **1)** cenę odkupu, o której mowa w art. 58011§ 3, i metodę albo metody użyte do określenia tej ceny;
 - **2)** skutki przekształcenia transgranicznego dla wspólników;
-- **3)** uprawnienia i środki prawne przysługujące wspólnikom zgodnie z art. 580 .
+- **3)** uprawnienia i środki prawne przysługujące wspólnikom zgodnie z art. 58011.
 
 § 4. Sprawozdanie w części przeznaczonej dla wspólników nie jest wymagane w przypadku spółki jednoosobowej ani w przypadku, gdy wszyscy wspólnicy spółki wyrazili zgodę na odstąpienie od wymogu sporządzenia tego sprawozdania.
 
@@ -7117,61 +7367,61 @@ Art. 596–609. (pominięte)
 
 § 7. Sprawozdanie w części przeznaczonej dla pracowników nie jest wymagane w przypadku, gdy spółka przekształcana i jej spółki zależne nie zatrudniają pracowników innych niż pracownicy wchodzący w skład zarządu spółki przekształcanej.
 
-**Art. 580⁶.**
+**Art. 5806.**
 
 § 1. Plan przekształcenia transgranicznego należy poddać badaniu przez biegłego w zakresie poprawności i rzetelności. Przepisy art. 559 § 2–5 stosuje się.
 
 § 2. Opinia biegłego zawiera co najmniej:
 
-- **1)** ocenę, czy cena odkupu, o której mowa w art. 580 § 3, jest ustalona należycie; przy dokonywaniu tej oceny biegły uwzględnia cenę rynkową udziałów albo akcji spółki przekształcanej przed ujawnieniem lub udostępnieniem planu przekształcenia transgranicznego lub wartość spółki, z wyłączeniem efektu proponowanego przekształcenia, określonego zgodnie z ogólnie przyjętymi metodami wyceny;
-- **2)** wskazanie metody albo metod użytych dla określenia proponowanej w planie przekształcenia transgranicznego ceny odkupu, o której mowa w art. 580 § 3;
-- **3)** stwierdzenie, czy metoda albo metody użyte dla określenia proponowanej w planie przekształcenia transgranicznego ceny odkupu, o której mowa w art. 580 § 3, są adekwatne do oceny tej ceny, wskazanie wartości określonej przy zastosowaniu każdej z tych metod oraz opinię na temat względnego znaczenia przypisywanego tym metodom przy określaniu wybranych wartości;
+- **1)** ocenę, czy cena odkupu, o której mowa w art. 58011§ 3, jest ustalona należycie; przy dokonywaniu tej oceny biegły uwzględnia cenę rynkową udziałów albo akcji spółki przekształcanej przed ujawnieniem lub udostępnieniem planu przekształcenia transgranicznego lub wartość spółki, z wyłączeniem efektu proponowanego przekształcenia, określonego zgodnie z ogólnie przyjętymi metodami wyceny;
+- **2)** wskazanie metody albo metod użytych dla określenia proponowanej w planie przekształcenia transgranicznego ceny odkupu, o której mowa w art. 58011§ 3;
+- **3)** stwierdzenie, czy metoda albo metody użyte dla określenia proponowanej w planie przekształcenia transgranicznego ceny odkupu, o której mowa w art. 58011§ 3, są adekwatne do oceny tej ceny, wskazanie wartości określonej przy zastosowaniu każdej z tych metod oraz opinię na temat względnego znaczenia przypisywanego tym metodom przy określaniu wybranych wartości;
 - **4)** wskazanie szczególnych trudności związanych z wyceną.
 
 § 3. Badanie planu przekształcenia transgranicznego przez biegłego ani opinia biegłego nie są wymagane w przypadku spółki jednoosobowej ani w przypadku, gdy wszyscy wspólnicy spółki przekształcanej wyrazili zgodę na odstąpienie od wymogu badania planu przekształcenia transgranicznego przez biegłego i sporządzenia przez niego opinii.
 
-**Art. 580⁷.**
+**Art. 5807.**
 
 § 1. Spółka składa do sądu rejestrowego co najmniej na pięć tygodni przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o przekształceniu transgranicznym, następujące dokumenty:
 
 - **1)** plan przekształcenia transgranicznego,
-- **2)** zawiadomienie wspólników, wierzycieli i przedstawicieli pracowników spółki, a w braku takich przedstawicieli – pracowników, o możliwości złożenia spółce uwag dotyczących planu przekształcenia transgranicznego – w celu wpisania do rejestru wzmianki o złożeniu tych dokumentów oraz ujawnienia w aktach rejestrowych co najmniej na miesiąc przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o przekształceniu transgranicznym.
+- **2)** zawiadomienie wspólników, wierzycieli i przedstawicieli pracowników spółki, a w braku takich przedstawicieli – pracowników, o możliwości złożenia spółce uwag dotyczących planu przekształcenia transgranicznego w celu wpisania do rejestru wzmianki o złożeniu tych dokumentów oraz ujawnienia w aktach rejestrowych co najmniej na miesiąc przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o przekształceniu transgranicznym.
 
-§ 2. Spółka nie jest obowiązana do złożenia do sądu rejestrowego dokumentów, o których mowa w § 1, jeżeli nie później niż na pięć tygodni przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o przekształceniu transgranicznym, nieprzerwanie do dnia zakończenia zgromadzenia, na którym ma być powzięta uchwała o przekształceniu transgranicznym, bezpłatnie udostępni do publicznej wiadomości dokumenty, o których mowa w § 1, oraz opinię biegłego, o której mowa w art. 580 , na swojej stronie internetowej.
+§ 2. Spółka nie jest obowiązana do złożenia do sądu rejestrowego dokumentów, o których mowa w § 1, jeżeli nie później niż na pięć tygodni przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o przekształceniu transgranicznym, nieprzerwanie do dnia zakończenia zgromadzenia, na którym ma być powzięta uchwała o przekształceniu transgranicznym, bezpłatnie udostępni do publicznej wiadomości dokumenty, o których mowa w § 1, oraz opinię biegłego, o której mowa w art. 5806, na swojej stronie internetowej.
 
 § 3. W przypadku, o którym mowa w § 2, spółka składa do sądu rejestrowego co najmniej na pięć tygodni przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o przekształceniu transgranicznym, następujące informacje:
 
 - **1)** formę prawną, firmę i siedzibę spółki przekształcanej oraz formę prawną, firmę i siedzibę proponowane dla spółki przekształconej,
 - **2)** oznaczenie rejestru, do którego zostały złożone dokumenty spółki, oraz numer spółki w rejestrze,
 - **3)** warunki wykonywania praw wierzycieli, pracowników i wspólników,
-- **4)** adres strony internetowej, na której bezpłatnie udostępniane są dokumenty, o których mowa w § 1, oraz opinia biegłego, o której mowa w art. 580 – w celu wpisania do rejestru wzmianki o złożeniu tych informacji oraz ujawnienia w aktach rejestrowych co najmniej na miesiąc przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o przekształceniu transgranicznym.
+- **4)** adres strony internetowej, na której bezpłatnie udostępniane są dokumenty, o których mowa w § 1, oraz opinia biegłego, o której mowa w art. 5806 w celu wpisania do rejestru wzmianki o złożeniu tych informacji oraz ujawnienia w aktach rejestrowych co najmniej na miesiąc przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o przekształceniu transgranicznym.
 
 § 4. Sąd rejestrowy wpisuje do rejestru wzmiankę o złożeniu dokumentów, o których mowa w § 1, albo wzmiankę o złożeniu informacji, o których mowa w § 3.
 
-**Art. 580⁸.**
+**Art. 5808.**
 
 § 1. Zarząd spółki zawiadamia wspólników o zamiarze przekształcenia transgranicznego spółki dwukrotnie, w sposób przewidziany dla zwoływania zgromadzeń wspólników albo walnych zgromadzeń. Pierwszego zawiadomienia dokonuje się nie później niż na sześć tygodni przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o przekształceniu transgranicznym, a drugiego w odstępie nie krótszym niż dwa tygodnie od daty pierwszego zawiadomienia.
 
-§ 2. Zawiadomienia, o których mowa w § 1, zawierają co najmniej miejsce oraz termin, w którym wspólnicy mogą się zapoznać z dokumentami, o których mowa w art. 580 § 1.
+§ 2. Zawiadomienia, o których mowa w § 1, zawierają co najmniej miejsce oraz termin, w którym wspólnicy mogą się zapoznać z dokumentami, o których mowa w art. 5809§ 1.
 
-**Art. 580⁹.**
+**Art. 5809.**
 
 § 1. Wspólnicy spółki przekształcanej i przedstawiciele pracowników, a w braku takich przedstawicieli – pracownicy, mają prawo przeglądać następujące dokumenty:
 
 - **1)** plan przekształcenia transgranicznego;
 - **2)** sprawozdania finansowe oraz sprawozdania zarządów z działalności spółki przekształcanej za trzy ostatnie lata obrotowe wraz ze sprawozdaniem z badania, jeżeli sprawozdanie z badania było sporządzane;
-- **3)** sprawozdanie, o którym mowa w art. 580 ;
-- **4)** opinię, o której mowa w art. 580 § 6;
-- **5)** opinię biegłego, o której mowa w art. 580 ;
-- **6)** uwagi, o których mowa w art. 580 § 2.
+- **3)** sprawozdanie, o którym mowa w art. 5805;
+- **4)** opinię, o której mowa w art. 5805§ 6;
+- **5)** opinię biegłego, o której mowa w art. 5806;
+- **6)** uwagi, o których mowa w art. 5804§ 2.
 
 § 2. Wspólnicy i przedstawiciele pracowników, a w braku takich przedstawicieli – pracownicy, mogą żądać udostępnienia im bezpłatnie w lokalu spółki odpisów dokumentów, o których mowa w § 1. Wspólnikom i przedstawicielom pracowników, a w braku takich przedstawicieli – pracownikom, którzy wyrazili zgodę na wykorzystanie przez spółkę środków komunikacji elektronicznej w celu przekazywania informacji, można przesłać odpisy tych dokumentów w postaci elektronicznej.
 
 § 3. Przepisów § 1 i § 2 zdanie pierwsze nie stosuje się, gdy spółka nie później niż w terminach, o których mowa w § 4, nieprzerwanie do dnia zakończenia zgromadzenia, na którym ma być powzięta uchwała o przekształceniu transgranicznym, bezpłatnie udostępni do publicznej wiadomości dokumenty, o których mowa w § 1, na swojej stronie internetowej bądź w tym terminie umożliwi wspólnikom oraz przedstawicielom pracowników, a w braku takich przedstawicieli – pracownikom, na swojej stronie internetowej dostęp do tych dokumentów w postaci elektronicznej i ich druk.
 
-§ 4. Spółka udostępnia dokumenty, o których mowa w § 1 pkt 2 i 5, co najmniej na miesiąc przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o przekształceniu transgranicznym, a sprawozdanie, o którym mowa w art. 580 , wraz z planem przekształcenia transgranicznego, o ile go sporządzono, co najmniej na sześć tygodni przed tym dniem.
+§ 4. Spółka udostępnia dokumenty, o których mowa w § 1 pkt 2 i 5, co najmniej na miesiąc przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o przekształceniu transgranicznym, a sprawozdanie, o którym mowa w art. 5805, wraz z planem przekształcenia transgranicznego, o ile go sporządzono, co najmniej na sześć tygodni przed tym dniem.
 
-**Art. 580¹⁰.**
+**Art. 58010.**
 
 § 1. W uchwale o przekształceniu transgranicznym można uzależnić skuteczność przekształcenia transgranicznego od zatwierdzenia przez zgromadzenie wspólników albo walne zgromadzenie warunków uczestnictwa przedstawicieli pracowników.
 
@@ -7181,17 +7431,17 @@ Art. 596–609. (pominięte)
 
 § 4. Uchwała o przekształceniu transgranicznym nie podlega zaskarżeniu ze względu na zastrzeżenia dotyczące wyłącznie tego, że:
 
-- **1)** cena odkupu, o której mowa w art. 580 § 3, nie została ustalona należycie lub
-- **2)** informacje podane w odniesieniu do ceny odkupu, o której mowa w art. 580 § 3, nie spełniają wymogów prawnych.
+- **1)** cena odkupu, o której mowa w art. 58011§ 3, nie została ustalona należycie lub
+- **2)** informacje podane w odniesieniu do ceny odkupu, o której mowa w art. 58011§ 3, nie spełniają wymogów prawnych.
 
 § 5. Przepis § 4 nie ogranicza prawa do dochodzenia odszkodowania na zasadach ogólnych.
 
-**Art. 580¹¹.**
+**Art. 58011.**
 
 § 1. Wspólnik:
 
 - **1)** który głosował przeciwko uchwale o przekształceniu transgranicznym i zażądał zaprotokołowania sprzeciwu najpóźniej na zgromadzeniu wspólników albo walnym zgromadzeniu, na którym została powzięta uchwała o przekształceniu transgranicznym; wymóg głosowania nie dotyczy akcjonariusza akcji niemej,
-- **2)** bezzasadnie niedopuszczony do udziału w zgromadzeniu wspólników albo walnym zgromadzeniu, na którym została powzięta uchwała o przekształceniu transgranicznym – może żądać odkupu jego udziałów albo akcji w spółce przekształcanej; w odniesieniu do wspólnika, który skorzystał z prawa odkupu, przepisu art. 553 § 3 nie stosuje się.
+- **2)** bezzasadnie niedopuszczony do udziału w zgromadzeniu wspólników albo walnym zgromadzeniu, na którym została powzięta uchwała o przekształceniu transgranicznym może żądać odkupu jego udziałów albo akcji w spółce przekształcanej; w odniesieniu do wspólnika, który skorzystał z prawa odkupu, przepisu art. 553 § 3 nie stosuje się.
 
 § 2. Akcjonariusz dołącza do żądania odkupu świadectwo rejestrowe albo imienne świadectwo depozytowe wystawione zgodnie z ustawą z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi. Termin ważności świadectwa nie może upływać przed dniem dokonania odkupu.
 
@@ -7209,7 +7459,7 @@ Art. 596–609. (pominięte)
 
 § 9. Sprawy związane z ochroną wspólników w związku z przekształceniem transgranicznym, o których mowa w § 1–8, podlegają prawu i wyłącznej jurysdykcji sądu właściwego według siedziby spółki przekształcanej.
 
-**Art. 580¹².**
+**Art. 58012.**
 
 § 1. Wierzyciel spółki przekształcanej może w terminie miesiąca od dnia ujawnienia lub udostępnienia planu przekształcenia transgranicznego żądać zabezpieczenia swoich roszczeń, które nie stały się wymagalne w chwili ujawnienia lub udostępnienia tego planu, jeżeli uprawdopodobni, że ich zaspokojenie jest zagrożone przez przekształcenie.
 
@@ -7221,23 +7471,23 @@ Art. 596–609. (pominięte)
 
 § 5. W terminie dwóch lat od dnia przekształcenia wierzyciele spółki przekształcanej, których roszczenia powstały przed ujawnieniem lub udostępnieniem planu przekształcenia transgranicznego, mogą dochodzić swoich roszczeń przed sądem właściwym według siedziby spółki przekształcanej.
 
-**Art. 580¹³.**
+**Art. 58013.**
 
 § 1. Zarząd spółki składa do sądu rejestrowego wniosek o wydanie zaświadczenia o zgodności z prawem polskim przekształcenia transgranicznego w zakresie procedury podlegającej temu prawu wraz z wnioskiem do właściwego organu podatkowego o wydanie opinii zgodnie z ustawą z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa. Sąd rejestrowy niezwłocznie przesyła wniosek do właściwego organu podatkowego.
 
 § 2. Do wniosku należy dołączyć:
 
-- **1)** plan przekształcenia transgranicznego, chyba że został złożony do sądu rejestrowego zgodnie z art. 580 § 1;
-- **2)** sprawozdanie, o którym mowa w art. 580 , w części przeznaczonej dla wspólników, albo odpis zgody wszystkich wspólników spółki przekształcanej na odstąpienie od wymogu sporządzenia tego sprawozdania;
-- **3)** sprawozdanie, o którym mowa w art. 580 , w części przeznaczonej dla pracowników, albo informację o niezatrudnianiu w spółce przekształcanej lub jej spółkach zależnych pracowników innych niż pracownicy wchodzący w skład zarządu;
+- **1)** plan przekształcenia transgranicznego, chyba że został złożony do sądu rejestrowego zgodnie z art. 5807§ 1;
+- **2)** sprawozdanie, o którym mowa w art. 5805, w części przeznaczonej dla wspólników, albo odpis zgody wszystkich wspólników spółki przekształcanej na odstąpienie od wymogu sporządzenia tego sprawozdania;
+- **3)** sprawozdanie, o którym mowa w art. 5805, w części przeznaczonej dla pracowników, albo informację o niezatrudnianiu w spółce przekształcanej lub jej spółkach zależnych pracowników innych niż pracownicy wchodzący w skład zarządu;
 - **4)** opinię przedstawicieli pracowników, a w braku takich przedstawicieli – pracowników, jeżeli zarząd otrzymał ją w odpowiednim czasie;
 - **5)** opinię biegłego albo odpis zgody wszystkich wspólników spółki przekształcanej na odstąpienie od wymogu badania planu przekształcenia transgranicznego przez biegłego i sporządzenia przez niego opinii, chyba że opinia została złożona do sądu rejestrowego zgodnie z art. 559;
-- **6)** uwagi, o których mowa w art. 580 § 2;
+- **6)** uwagi, o których mowa w art. 5804§ 2;
 - **7)** odpis uchwały o przekształceniu transgranicznym;
 - **8)** oświadczenie podpisane przez wszystkich członków zarządu, że uchwała o przekształceniu transgranicznym nie została zaskarżona w wyznaczonym terminie albo powództwo o jej zaskarżenie zostało prawomocnie oddalone bądź odrzucone, albo minął termin do wniesienia środka odwoławczego, o ile nie zachodzi przypadek wskazany w pkt 9;
-- **9)** odpis oświadczenia o zrzeczeniu się na piśmie przez wszystkich uprawnionych prawa zaskarżenia uchwały o przekształceniu transgranicznym lub odpis postanowienia sądu, o którym mowa w art. 580 ;
+- **9)** odpis oświadczenia o zrzeczeniu się na piśmie przez wszystkich uprawnionych prawa zaskarżenia uchwały o przekształceniu transgranicznym lub odpis postanowienia sądu, o którym mowa w art. 58016;
 - **10)** oświadczenie podpisane przez wszystkich członków zarządu o sposobie realizacji uprawnień wierzycieli i wspólników wynikających z przepisów prawa oraz uchwały o przekształceniu transgranicznym;
-- **11)** oświadczenie zarządu dotyczące celu przekształcenia transgranicznego, jeżeli nie jest wymagane sporządzenie sprawozdania, o którym mowa w art. 580 ;
+- **11)** oświadczenie zarządu dotyczące celu przekształcenia transgranicznego, jeżeli nie jest wymagane sporządzenie sprawozdania, o którym mowa w art. 5805;
 - **12)** oświadczenie zarządu dotyczące miejsca rzeczywistego zarządzania lub działalności gospodarczej spółki po dniu przekształcenia;
 - **13)** oświadczenie zarządu o tym, czy rozpoczęło się postępowanie dotyczące uczestnictwa pracowników, jeżeli wymagają tego odrębne przepisy;
 - **14)** zaświadczenie Zakładu Ubezpieczeń Społecznych o liczbie ubezpieczonych i o niezaleganiu w opłacaniu składek, na ostatni dzień miesiąca poprzedzającego miesiąc złożenia wniosku o wydanie zaświadczenia.
@@ -7256,7 +7506,7 @@ Art. 596–609. (pominięte)
 
 § 9. Jeżeli wydanie zaświadczenia o zgodności z prawem polskim przekształcenia transgranicznego w zakresie procedury podlegającej temu prawu wymaga uwzględnienia dodatkowych informacji lub przeprowadzenia dodatkowych czynności wyjaśniających, termin przewidziany w § 5 można przedłużyć o trzy miesiące.
 
-**Art. 580¹⁴.**
+**Art. 58014.**
 
 § 1. Zarząd spółki przekształconej zgłasza przekształcenie transgraniczne do sądu rejestrowego właściwego według siedziby spółki przekształconej w celu wpisania do rejestru.
 
@@ -7270,7 +7520,7 @@ Art. 596–609. (pominięte)
 
 § 4. Sąd rejestrowy przyjmuje zaświadczenie o zgodności z prawem przekształcenia transgranicznego wydane przez właściwy organ jako ostateczne potwierdzenie należytego dopełnienia procedur i formalności w zakresie procedury podlegającej prawu właściwemu dla spółki przekształcanej.
 
-**Art. 580¹⁵.**
+**Art. 58015.**
 
 § 1. Po dniu przekształcenia niedopuszczalne jest uchylenie albo stwierdzenie nieważności uchwały o przekształceniu transgranicznym. Przepisów art. 21 i art. 567 nie stosuje się.
 
@@ -7278,7 +7528,7 @@ Art. 596–609. (pominięte)
 
 § 3. Spółka odpowiada wobec skarżącego za szkodę wyrządzoną uchwałą o przekształceniu transgranicznym sprzeczną z ustawą, umową bądź statutem spółki lub dobrymi obyczajami.
 
-**Art. 580¹⁶.**
+**Art. 58016.**
 
 § 1. Spółka może wystąpić do sądu, do którego został wniesiony pozew o uchylenie albo stwierdzenie nieważności uchwały, z wnioskiem o wydanie postanowienia zezwalającego na rejestrację przekształcenia transgranicznego.
 
@@ -7292,7 +7542,7 @@ Art. 596–609. (pominięte)
 
 § 4. Na postanowienie przysługuje zażalenie rozpatrywane w terminie dwóch tygodni.
 
-**Art. 580¹⁷.**
+**Art. 58017.**
 
 § 1. Biegły odpowiada wobec spółki i wspólników spółki przekształcanej za szkody wyrządzone z jego winy. W przypadku gdy biegłych jest kilku, ich odpowiedzialność jest solidarna.
 
@@ -7300,9 +7550,9 @@ Art. 596–609. (pominięte)
 
 ##### Oddział 2 Transgraniczne przekształcenie spółki komandytowo-akcyjnej
 
-**Art. 580¹⁸.** Do transgranicznego przekształcenia spółki komandytowo-akcyjnej stosuje się odpowiednio przepisy oddziału 1 oraz art. 574.
+**Art. 58018.** Do transgranicznego przekształcenia spółki komandytowo-akcyjnej stosuje się odpowiednio przepisy oddziału 1 oraz art. 574.
 
-**Art. 580¹⁹.** Do podjęcia uchwały o przekształceniu transgranicznym wymagana jest zgoda wszystkich komplementariuszy oraz uchwała akcjonariuszy, za którą wypowiedzą się osoby reprezentujące co najmniej trzy czwarte kapitału zakładowego, chyba że statut przewiduje surowsze warunki dla wymaganej większości, z tym że większość ta nie może przekraczać 90% głosów.
+**Art. 58019.** Do podjęcia uchwały o przekształceniu transgranicznym wymagana jest zgoda wszystkich komplementariuszy oraz uchwała akcjonariuszy, za którą wypowiedzą się osoby reprezentujące co najmniej trzy czwarte kapitału zakładowego, chyba że statut przewiduje surowsze warunki dla wymaganej większości, z tym że większość ta nie może przekraczać 90% głosów.
 
 #### Rozdział 5 Przekształcenie spółki osobowej w inną spółkę osobową
 
@@ -7326,9 +7576,9 @@ Art. 596–609. (pominięte)
 
 #### Rozdział 6 Przekształcenie przedsiębiorcy w spółkę kapitałową
 
-**Art. 584¹.** Przedsiębiorca przekształcany staje się spółką przekształconą z chwilą wpisu do rejestru (dzień przekształcenia).
+**Art. 5841.** Przedsiębiorca przekształcany staje się spółką przekształconą z chwilą wpisu do rejestru (dzień przekształcenia).
 
-**Art. 584².**
+**Art. 5842.**
 
 § 1. Spółce przekształconej przysługują wszystkie prawa i obowiązki przedsiębiorcy przekształcanego.
 
@@ -7336,15 +7586,21 @@ Art. 596–609. (pominięte)
 
 § 3. Osoba fizyczna, o której mowa w art. 551 § 5, staje się z dniem przekształcenia wspólnikiem albo akcjonariuszem spółki przekształconej.
 
-**Art. 584³.** W przypadku gdy zmiana firmy przedsiębiorcy przekształcanego w związku z przekształceniem nie polega tylko na dodaniu części identyfikującej formę prawną spółki przekształconej, spółka przekształcona ma obowiązek podawania w nawiasie dawnej firmy, obok nowej firmy, z dodaniem wyrazu „dawniej” – przez okres co najmniej roku od dnia przekształcenia.
+**Art. 5843.** W przypadku gdy zmiana firmy przedsiębiorcy przekształcanego w związku z przekształceniem nie polega tylko na dodaniu części identyfikującej formę prawną spółki przekształconej, spółka przekształcona ma obowiązek podawania w nawiasie dawnej firmy, obok nowej firmy, z dodaniem wyrazu „dawniej” – przez okres co najmniej roku od dnia przekształcenia.
 
-**Art. 584⁴.** Do przekształcenia przedsiębiorcy stosuje się odpowiednio przepisy dotyczące powstania spółki przekształconej, jeżeli przepisy niniejszego rozdziału nie stanowią inaczej.
+**Art. 5844.** Do przekształcenia przedsiębiorcy stosuje się odpowiednio przepisy dotyczące powstania spółki przekształconej, jeżeli przepisy niniejszego rozdziału nie stanowią inaczej.
 
-**Art. 584⁵.** Do przekształcenia przedsiębiorcy wymaga się:
+**Art. 5845.** Do przekształcenia przedsiębiorcy wymaga się:
 
-**Art. 584⁶.** Plan przekształcenia przedsiębiorcy sporządza się w formie aktu notarialnego.
+- **1)** sporządzenia planu przekształcenia przedsiębiorcy wraz z załącznikami oraz opinią biegłego rewidenta;
+- **2)** złożenia oświadczenia o przekształceniu przedsiębiorcy;
+- **3)** powołania członków organów spółki przekształconej;
+- **4)** zawarcia umowy spółki albo podpisania statutu spółki przekształconej;
+- **5)** dokonania w rejestrze wpisu spółki przekształconej i wykreślenia przedsiębiorcy przekształcanego z Centralnej Ewidencji i Informacji o Działalności Gospodarczej.
 
-**Art. 584⁷.**
+**Art. 5846.** Plan przekształcenia przedsiębiorcy sporządza się w formie aktu notarialnego.
+
+**Art. 5847.**
 
 § 1. Plan przekształcenia przedsiębiorcy powinien zawierać co najmniej ustalenie wartości bilansowej majątku przedsiębiorcy przekształcanego na określony dzień w miesiącu poprzedzającym sporządzenie planu przekształcenia przedsiębiorcy.
 
@@ -7357,7 +7613,7 @@ Art. 596–609. (pominięte)
 
 § 3. Jeżeli przedsiębiorca nie jest obowiązany do prowadzenia ksiąg rachunkowych na podstawie ustawy z dnia 29 września 1994 r. o rachunkowości, sprawozdanie finansowe, o którym mowa w § 2 pkt 4, sporządza się w oparciu o podsumowanie zapisów w podatkowej księdze przychodów i rozchodów oraz innych ewidencji prowadzonych przez przedsiębiorcę dla celów podatkowych, spis z natury, a także inne dokumenty pozwalające na sporządzenie tego sprawozdania.
 
-**Art. 584⁸.**
+**Art. 5848.**
 
 § 1. Plan przekształcenia przedsiębiorcy należy poddać badaniu przez biegłego rewidenta w zakresie poprawności i rzetelności.
 
@@ -7369,9 +7625,14 @@ Art. 596–609. (pominięte)
 
 § 5. Sąd rejestrowy określa wynagrodzenie za pracę biegłego rewidenta i zatwierdza rachunki jego wydatków. Jeżeli przedsiębiorca przekształcany dobrowolnie tych należności nie uiści w terminie dwóch tygodni, sąd rejestrowy ściągnie je w trybie przewidzianym dla egzekucji opłat sądowych.
 
-**Art. 584⁹.** Oświadczenie o przekształceniu przedsiębiorcy powinno zostać sporządzone w formie aktu notarialnego i określać co najmniej:
+**Art. 5849.** Oświadczenie o przekształceniu przedsiębiorcy powinno zostać sporządzone w formie aktu notarialnego i określać co najmniej:
 
-**Art. 584¹⁰.**
+- **1)** formę prawną spółki, w jaką zostaje przekształcony przedsiębiorca;
+- **2)** wysokość kapitału zakładowego albo kapitału akcyjnego;
+- **3)** zakres praw przyznanych osobiście przedsiębiorcy przekształcanemu jako wspólnikowi albo akcjonariuszowi spółki przekształconej, jeżeli przyznanie takich praw jest przewidziane;
+- **4)** nazwiska i imiona członków zarządu spółki przekształconej.
+
+**Art. 58410.**
 
 § 1. Osoby działające za przedsiębiorcę przekształcanego odpowiadają solidarnie wobec tego przedsiębiorcy, spółki, wspólników oraz osób trzecich za szkody wyrządzone działaniem lub zaniechaniem, sprzecznym z prawem albo postanowieniami umowy lub statutu spółki, chyba że nie ponoszą winy.
 
@@ -7381,13 +7642,13 @@ Art. 596–609. (pominięte)
 
 § 4. Roszczenia, o których mowa w § 1–3, przedawniają się po upływie trzech lat, licząc od dnia przekształcenia.
 
-**Art. 584¹¹.** Wniosek o wpis przekształcenia do rejestru wnoszą wszyscy członkowie zarządu spółki przekształconej.
+**Art. 58411.** Wniosek o wpis przekształcenia do rejestru wnoszą wszyscy członkowie zarządu spółki przekształconej.
 
-**Art. 584¹².** Ogłoszenie o przekształceniu przedsiębiorcy jest dokonywane na wniosek zarządu spółki przekształconej.
+**Art. 58412.** Ogłoszenie o przekształceniu przedsiębiorcy jest dokonywane na wniosek zarządu spółki przekształconej.
 
-**Art. 584¹³.** Osoba fizyczna, o której mowa w art. 551 § 5, odpowiada solidarnie ze spółką przekształconą za zobowiązania przedsiębiorcy przekształcanego związane z prowadzoną działalnością gospodarczą powstałe przed dniem przekształcenia, przez okres trzech lat, licząc od dnia przekształcenia.
+**Art. 58413.** Osoba fizyczna, o której mowa w art. 551 § 5, odpowiada solidarnie ze spółką przekształconą za zobowiązania przedsiębiorcy przekształcanego związane z prowadzoną działalnością gospodarczą powstałe przed dniem przekształcenia, przez okres trzech lat, licząc od dnia przekształcenia.
 
-## TYTUŁ V Przepisy karne
+## Tytuł V Przepisy karne
 
 **Art. 585.** (uchylony)
 
@@ -7399,15 +7660,15 @@ Art. 596–609. (pominięte)
 
 § 2. Jeżeli sprawca działa nieumyślnie – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
-**Art. 587¹.**
+**Art. 5871.**
 
-§ 1. Kto, wbrew obowiązkom wynikającym z art. 219 § 4 i 4 , art. 300 § 1–2, art. 300 § 5 albo art. 382 § 4 i 5, nie przekazuje informacji, dokumentów, sprawozdań lub wyjaśnień w terminie lub przekazuje je niezgodne ze stanem faktycznym, lub zataja dane wpływające w istotny sposób na treść tych informacji, dokumentów, sprawozdań lub wyjaśnień – podlega grzywnie nie niższej niż 20 000 złotych i nie wyższej niż 50 000 złotych albo karze ograniczenia wolności.
+§ 1. Kto, wbrew obowiązkom wynikającym z art. 219 § 4 i 41, art. 30071§ 1–2, art. 30076§ 5 albo art. 382 § 4 i 5, nie przekazuje informacji, dokumentów, sprawozdań lub wyjaśnień w terminie lub przekazuje je niezgodne ze stanem faktycznym, lub zataja dane wpływające w istotny sposób na treść tych informacji, dokumentów, sprawozdań lub wyjaśnień – podlega grzywnie nie niższej niż 20 000 złotych i nie wyższej niż 50 000 złotych albo karze ograniczenia wolności.
 
 § 2. Jeżeli sprawca działa nieumyślnie – podlega grzywnie nie niższej niż 6000 złotych i nie wyższej niż 20 000 złotych.
 
-**Art. 587².**
+**Art. 5872.**
 
-§ 1. Kto wbrew obowiązkom wynikającym z art. 219 § 3, art. 300 § 3 albo art. 382 § 3, doprowadza do tego, że zarząd nie zapewnia doradcy rady nadzorczej dostępu do dokumentów, nie udziela mu żądanych informacji, przekazuje je niezgodne ze stanem faktycznym, lub zataja dane wpływające w istotny sposób na treść tych informacji lub dokumentów – podlega grzywnie nie niższej niż 20 000 złotych i nie wyższej niż 50 000 złotych albo karze ograniczenia wolności.
+§ 1. Kto wbrew obowiązkom wynikającym z art. 2192§ 3, art. 30071a § 3 albo art. 3821§ 3, doprowadza do tego, że zarząd nie zapewnia doradcy rady nadzorczej dostępu do dokumentów, nie udziela mu żądanych informacji, przekazuje je niezgodne ze stanem faktycznym, lub zataja dane wpływające w istotny sposób na treść tych informacji lub dokumentów – podlega grzywnie nie niższej niż 20 000 złotych i nie wyższej niż 50 000 złotych albo karze ograniczenia wolności.
 
 § 2. Jeżeli sprawca działa nieumyślnie – podlega grzywnie nie niższej niż 6000 złotych i nie wyższej niż 20 000 złotych.
 
@@ -7415,28 +7676,55 @@ Art. 596–609. (pominięte)
 
 **Art. 589.** Kto, będąc członkiem zarządu albo likwidatorem spółki z ograniczoną odpowiedzialnością, dopuszcza do wydania przez spółkę dokumentów imiennych, na okaziciela lub dokumentów na zlecenie na udziały lub prawa do zysków w spółce – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do 6 miesięcy.
 
-**Art. 589¹.** Kto, będąc członkiem zarządu albo likwidatorem prostej spółki akcyjnej, dopuszcza do wydania przez spółkę dokumentów na akcje, warranty subskrypcyjne lub na inne tytuły uczestnictwa w dochodach lub podziale majątku spółki – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do 6 miesięcy.
+**Art. 5891.** Kto, będąc członkiem zarządu albo likwidatorem prostej spółki akcyjnej, dopuszcza do wydania przez spółkę dokumentów na akcje, warranty subskrypcyjne lub na inne tytuły uczestnictwa w dochodach lub podziale majątku spółki – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do 6 miesięcy.
 
-**Art. 589².** Kto, będąc uprawnionym samodzielnie lub łącznie z innymi osobami na podstawie ustawy lub statutu do prowadzenia spraw i reprezentowania spółki akcyjnej albo spółki komandytowo-akcyjnej, dopuszcza do wydania przez spółkę dokumentów na akcje, warranty subskrypcyjne, świadectwa użytkowe, świadectwa założycielskie, lub na inne tytuły uczestnictwa w dochodach lub w podziale majątku spółki – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do 6 miesięcy.
+**Art. 5892.** Kto, będąc uprawnionym samodzielnie lub łącznie z innymi osobami na podstawie ustawy lub statutu do prowadzenia spraw i reprezentowania spółki akcyjnej albo spółki komandytowo-akcyjnej, dopuszcza do wydania przez spółkę dokumentów na akcje, warranty subskrypcyjne, świadectwa użytkowe, świadectwa założycielskie, lub na inne tytuły uczestnictwa w dochodach lub w podziale majątku spółki – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do 6 miesięcy.
 
 **Art. 590.** Kto w celu umożliwienia bezprawnego głosowania na walnym zgromadzeniu lub bezprawnego wykonywania praw mniejszości:
 
+- **1)** wystawia fałszywe zaświadczenie o złożeniu dokumentu akcji uprawniającej do głosowania lub fałszywe świadectwo rejestrowe,
+- **2)** użycza innemu dokumentu akcji, która nie uprawnia jej właściciela do głosowania,
+- **3)** wystawia fałszywe zaświadczenie o prawie uczestnictwa w walnym zgromadzeniu spółki publicznej,
+- **4)** przekazuje lub udostępnia fałszywy wykaz akcjonariuszy uprawnionych do uczestnictwa w walnym zgromadzeniu spółki publicznej podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+
 **Art. 591.** Kto przy głosowaniu na walnym zgromadzeniu lub wykonywaniu praw mniejszości posługuje się:
 
-**Art. 592.** [§ 1. Członek zarządu, który dopuszcza do wydania dokumentów akcji:
+- **1)** fałszywym zaświadczeniem o złożeniu dokumentu akcji uprawniającej do głosowania lub fałszywym świadectwem rejestrowym,
+- **2)** cudzym dokumentem akcji bez zgody właściciela,
+- **3)** cudzym dokumentem akcji, która nie uprawnia jej właściciela do głosowania,
+- **4)** fałszywym zaświadczeniem o prawie uczestnictwa w walnym zgromadzeniu spółki publicznej,
+- **5)** fałszywymi instrukcjami do głosowania na walnym zgromadzeniu spółki publicznej podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
-**Art. 593.** Sprawy o przestępstwa wymienione w [art. 586–592] <art. 586–591 i art. 592 § 2 i 3> należą do właściwości sądów rejonowych.
+**Art. 592.**
+
+§ 1. Członek zarządu, który dopuszcza do wydania dokumentów akcji:
+
+- **1)** niedostatecznie opłaconych,
+- **2)** przed zarejestrowaniem spółki,
+- **3)** w przypadku podwyższenia kapitału zakładowego – przed zarejestrowaniem podwyższenia podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+
+§ 2. Tej samej karze podlega ten, kto będąc uprawnionym samodzielnie lub łącznie z innymi osobami na podstawie ustawy lub statutu do prowadzenia spraw i reprezentowania spółki akcyjnej albo spółki komandytowo-akcyjnej, dopuszcza do zarejestrowania akcji w rejestrze akcjonariuszy albo depozycie papierów wartościowych:
+
+- **1)** przed zarejestrowaniem spółki;
+- **2)** w przypadku podwyższenia kapitału zakładowego – przed zarejestrowaniem podwyższenia.
+
+§ 3. Tej samej karze podlega członek zarządu, który dopuszcza do zarejestrowania akcji w rejestrze akcjonariuszy przed:
+
+- **1)** zarejestrowaniem prostej spółki akcyjnej;
+- **2)** wpisem do rejestru zmiany liczby akcji – w przypadku emisji nowych akcji prostej spółki akcyjnej.
+
+**Art. 593.** Sprawy o przestępstwa wymienione w art. 586–592 należą do właściwości sądów rejonowych.
 
 **Art. 594.**
 
 § 1. Kto, będąc członkiem zarządu spółki handlowej, wbrew obowiązkowi dopuszcza do tego, że zarząd:
 
 - **1)** nie składa sądowi rejestrowemu listy wspólników albo listy akcjonariuszy,
-- **2)** nie prowadzi księgi udziałów zgodnie z przepisami art. 188 § 1 [albo nie prowadzi księgi akcyjnej zgodnie z art. 341 § 1,] albo dopuszcza do nieprowadzenia rejestru akcjonariuszy zgodnie z przepisami ustawy lub nierejestrowania akcji w depozycie papierów wartościowych, <2 ) nie zgłasza zmian, o których mowa w art. 300 § 3 albo art. 328 § 4,>
+- **2)** nie prowadzi księgi udziałów zgodnie z przepisami art. 188 § 1 albo nie prowadzi księgi akcyjnej zgodnie z art. 341 § 1, albo dopuszcza do nieprowadzenia rejestru akcjonariuszy zgodnie z przepisami ustawy lub nierejestrowania akcji w depozycie papierów wartościowych,
 - **3)** nie zwołuje zgromadzenia wspólników albo walnego zgromadzenia,
 - **4)** odmawia wyjaśnień osobie powołanej do rewizji lub nie dopuszcza jej do pełnienia obowiązków,
 - **5)** nie przedstawia sądowi rejestrowemu wniosku o wyznaczenie biegłych rewidentów,
-- **6)** nie ogłasza wzmianki o złożeniu opinii przez biegłego rewidenta w sądzie rejestrowym zgodnie z przepisem art. 312 § 7 – podlega grzywnie do 20 000 złotych.
+- **6)** nie ogłasza wzmianki o złożeniu opinii przez biegłego rewidenta w sądzie rejestrowym zgodnie z przepisem art. 312 § 7 podlega grzywnie do 20 000 złotych.
 
 § 2. Kto, będąc członkiem zarządu, dopuszcza do tego, że spółka przez czas dłuższy niż trzy miesiące wbrew prawu lub umowie pozostaje bez rady nadzorczej w należytym składzie – podlega grzywnie w tej samej wysokości.
 
@@ -7446,31 +7734,43 @@ Art. 596–609. (pominięte)
 
 **Art. 595.**
 
-§ 1. Kto, będąc członkiem zarządu spółki kapitałowej, dopuszcza do tego, że pisma i zamówienia handlowe oraz informacje, o których mowa w art. 206 § 1, art. 300 § 1 i art. 374 § 1, nie zawierają danych określonych w tych przepisach albo, będąc komplementariuszem spółki komandytowo-akcyjnej uprawnionym do reprezentowania spółki, dopuszcza do tego, że pisma i zamówienia handlowe oraz informacje, o których mowa w art. 127 § 5, nie zawierają danych określonych w tym przepisie – podlega grzywnie do 5000 złotych.
+§ 1. Kto, będąc członkiem zarządu spółki kapitałowej, dopuszcza do tego, że pisma i zamówienia handlowe oraz informacje, o których mowa w art. 206 § 1, art. 30061§ 1 i art. 374 § 1, nie zawierają danych określonych w tych przepisach albo, będąc komplementariuszem spółki komandytowo-akcyjnej uprawnionym do reprezentowania spółki, dopuszcza do tego, że pisma i zamówienia handlowe oraz informacje, o których mowa w art. 127 § 5, nie zawierają danych określonych w tym przepisie – podlega grzywnie do 5000 złotych.
 
 § 2. Przepisy art. 594 § 3 i § 4 stosuje się odpowiednio.
 
-**Art. 595¹.**
+**Art. 5951.**
 
-§ 1. Kto składa ofertę nabycia udziałów w spółce z ograniczoną odpowiedzialnością w sposób określony w art. 182 § 1 – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do 6 miesięcy.
+§ 1. Kto składa ofertę nabycia udziałów w spółce z ograniczoną odpowiedzialnością w sposób określony w art. 1821§ 1 – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do 6 miesięcy.
 
-§ 2. Tej samej karze podlega, kto promuje nabycie udziałów w spółce z ograniczoną odpowiedzialnością w sposób określony w art. 182 § 2.
+§ 2. Tej samej karze podlega, kto promuje nabycie udziałów w spółce z ograniczoną odpowiedzialnością w sposób określony w art. 1821§ 2.
 
-**Art. 595².**
+**Art. 5952.**
 
-§ 1. Kto składa ofertę objęcia nowych udziałów w spółce z ograniczoną odpowiedzialnością w sposób określony w art. 257 § 1 – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do 6 miesięcy.
+§ 1. Kto składa ofertę objęcia nowych udziałów w spółce z ograniczoną odpowiedzialnością w sposób określony w art. 2571§ 1 – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do 6 miesięcy.
 
-§ 2. Tej samej karze podlega, kto promuje objęcie nowych udziałów w spółce z ograniczoną odpowiedzialnością w sposób określony w art. 257 § 2.
+§ 2. Tej samej karze podlega, kto promuje objęcie nowych udziałów w spółce z ograniczoną odpowiedzialnością w sposób określony w art. 2571§ 2.
 
-## TYTUŁ VI Zmiany w przepisach obowiązujących, przepisy przejściowe i przepisy końcowe
+## Tytuł VI Zmiany w przepisach obowiązujących, przepisy przejściowe i przepisy końcowe
 
-### DZIAŁ I Zmiany w przepisach obowiązujących
+### Dział I Zmiany w przepisach obowiązujących
 
-### DZIAŁ II Przepisy przejściowe
+### Dział II Przepisy przejściowe
 
 **Art. 610.** Z dniem wejścia w życie ustawy tracą moc przepisy dotyczące spraw w niej unormowanych, chyba że przepisy poniższe stanowią inaczej.
 
 **Art. 611.** Pozostają w mocy przepisy szczególne dotyczące:
+
+- **1)** (uchylony)
+- **2)** spółek prowadzących działalność bankową;
+- **3)** spółek prowadzących giełdy albo rynki pozagiełdowe;
+- **4)** spółek prowadzących domy maklerskie;
+- **5)** Krajowego Depozytu Papierów Wartościowych S.A.;
+- **6)** spółek prowadzących działalność ubezpieczeniową;
+- **7)** towarzystw funduszy inwestycyjnych;
+- **8)** towarzystw emerytalnych;
+- **9)** spółek publicznej radiofonii i telewizji;
+- **10)** spółek powstałych w wyniku komercjalizacji i prywatyzacji przedsiębiorstw państwowych;
+- **11)** innych spółek handlowych uregulowanych w odrębnych ustawach.
 
 **Art. 612.** Do stosunków prawnych w zakresie spółek handlowych istniejących w dniu wejścia w życie ustawy stosuje się jej przepisy, chyba że przepisy poniższe stanowią inaczej.
 
@@ -7513,6 +7813,9 @@ Art. 596–609. (pominięte)
 
 **Art. 621.** Do roszczeń powstałych przed dniem wejścia w życie ustawy, a według przepisów Kodeksu handlowego w tym dniu jeszcze nieprzedawnionych, stosuje się przepisy ustawy dotyczące przedawnienia z następującymi ograniczeniami:
 
+- **1)** początek, zawieszenie i przerwanie biegu przedawnienia ocenia się według przepisów Kodeksu handlowego, za okres przed dniem wejścia w życie ustawy;
+- **2)** jeżeli termin przedawnienia według przepisów ustawy jest krótszy niż według przepisów Kodeksu handlowego, bieg przedawnienia rozpoczyna się z dniem wejścia w życie ustawy; jeżeli jednak przedawnienie rozpoczęte przed dniem wejścia w życie ustawy nastąpiłoby przy uwzględnieniu terminu przedawnienia określonego w Kodeksie handlowym wcześniej, przedawnienie następuje z upływem tego wcześniejszego terminu.
+
 **Art. 622.** Do spraw wszczętych przed sądami powszechnymi lub sądami polubownymi w zakresie spółek handlowych przed dniem wejścia w życie ustawy stosuje się przepisy dotychczasowe.
 
 **Art. 623.**
@@ -7549,11 +7852,14 @@ Art. 596–609. (pominięte)
 
 **Art. 629.** Jeżeli obowiązujące przepisy powołują się na przepisy rozporządzenia Prezydenta Rzeczypospolitej – Kodeks handlowy bądź rozporządzenia Prezydenta Rzeczypospolitej – Przepisy wprowadzające Kodeks handlowy, uchylone przepisem art. 631, albo odsyłają ogólnie do przepisów Kodeksu handlowego o spółkach jawnych, spółkach komandytowych, spółkach z ograniczoną odpowiedzialnością lub spółkach akcyjnych, stosuje się w tym zakresie właściwe przepisy ustawy.
 
-**Art. 630.** Jeżeli obowiązujące przepisy powołują się na dotyczące rejestru handlowego, firmy lub prokury przepisy rozporządzenia Prezydenta Rzeczypospolitej, uchylonego przepisem art. 631 pkt 1, albo odsyłają ogólnie do przepisów o rejestrze handlowym, firmie lub prokurze, stosuje się w tym zakresie przepis art. 632.
+**Art. 630.** Jeżeli obowiązujące przepisy powołują się na dotyczące rejestru handlowego, firmy lub prokury przepisy rozporządzenia Prezydenta Rzeczypospolitej, uchylonego przepisem art. 631 pkt 1, albo odsyłają ogólnie do przepisów o rejestrze handlowym, firmie lub prokurze, stosuje się w tym zakresie przepis art. 632 .
 
-### DZIAŁ III Przepisy końcowe
+### Dział III Przepisy końcowe
 
 **Art. 631.** Z uwzględnieniem przepisu art. 632 ustawy, tracą moc:
+
+- **1)** rozporządzenie Prezydenta Rzeczypospolitej z dnia 27 czerwca 1934 r. – Kodeks handlowy (Dz. U. poz. 502, z 1946 r. poz. 321, z 1950 r. poz. 312, z 1964 r. poz. 94, z 1988 r. poz. 326, z 1990 r. poz. 98 i 298, z 1991 r. poz. 155, 418 i 480, z 1994 r. poz. 591, z 1995 r. poz. 478, z 1996 r. poz. 43, z 1997 r. poz. 554, 754, 769 i 770, z 1999 r. poz. 1178 oraz z 2000 r. poz. 702);
+- **2)** rozporządzenie Prezydenta Rzeczypospolitej z dnia 27 czerwca 1934 r. – Przepisy wprowadzające Kodeks handlowy (Dz. U. poz. 503, z 1945 r. poz. 224, z 1946 r. poz. 197 i 329, z 1947 r. poz. 20, z 1961 r. poz. 319, z 1964 r. poz. 94, z 1997 r. poz. 769 oraz z 1999 r. poz. 1178).
 
 **Art. 632.** (uchylony)
 

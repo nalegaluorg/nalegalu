@@ -8,10 +8,10 @@ pos: 409
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Opracowano na podstawie: Dz.U. 1996 Nr 91 poz. 409, zm. 1996 149 poz. 704
+# Ustawa z dnia 4 lipca 1996 r. o zmianie ustaw o podatku rolnym, o lasach, o podatkach i opłatach lokalnych oraz o ochronie przyrody
 
 | Pole | Wartość |
 |---|---|
@@ -22,27 +22,323 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1996-07-04 |
 | Data wydania | 1996-07-30 |
+| Wejście w życie | 1997-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960910409) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1996/409/text.pdf) |
 
-USTAWA z dnia 4 lipca 1996 r.
-o zmianie ustaw o podatku rolnym, o lasach, o podatkach i opłatach lokalnych oraz o ochronie przyrody
+**Art. 1.** W ustawie z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 1993 r. Nr 94, poz. 431 i z 1994 r. Nr 1, poz. 3) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 15 listopada 1984 r. o podatku rolnym (Dz.U. z 1993 r. Nr 94, poz. 431 i z 1994 r. Nr 1, poz.
+- **1)** w art. 1: ust. 2 otrzymuje brzmienie: „
+    - **a)**
 
-**Art. 2.** W ustawie z dnia 28 września 1991 r. o lasach (Dz.U. Nr 101, poz. 444, z 1992 r. Nr 21, poz. 85 i Nr 54, poz. 254, z 1994 r. Nr 1, poz. 3 i Nr 127, poz. 627 oraz z 1995 r. Nr 147, poz. 713) wprowadza się następujące zmiany:
+2. Za gospodarstwo rolne dla celów podatku rolnego uważa się obszar użytków rolnych, gruntów pod stawami oraz, sklasyfikowanych w operatach ewidencyjnych jako użytki rolne, gruntów pod zabudowaniami związanymi z prowadzeniem tego gospodarstwa o łącznej powierzchni przekraczającej 1 ha lub o powierzchni użytków rolnych przekraczającej 1 ha przeliczeniowy, stanowiących własność lub znajdujących się w posiadaniu osoby fizycznej lub osoby prawnej albo jednostki organizacyjnej nie mającej osobowości prawnej. ” , ust. 3 otrzymuje brzmienie: „
 
-**Art. 4.** W ustawie z dnia 16 października 1991 r. o ochronie przyrody (Dz.U. Nr 114, poz. 492, z 1992 r. Nr 54, poz. 254, z 1994 r. Nr 89, poz. 415 i z 1995 r. Nr 147, poz. 713) w art. 14 w ust. 13 skreśla się kropkę i dodaje wyrazy "z wyjątkiem podatku leśnego obliczonego według zasad określonych dla lasów ochronnych oraz podatku rolnego od gruntów rolnych obliczonego według zasad określonych w odrębnych ustawach.".
+- **b)**
 
-**Art. 5.** Ulgi w podatku rolnym, przyznane na podstawie dotychczasowych przepisów, stosuje się do czasu ich wyczerpania.
+3. Jeżeli gospodarstwo rolne jest współwłasnością albo jest we współposiadaniu dwóch lub więcej osób prawnych lub osób fizycznych, z wyjątkiem małżonków, to grunty tego gospodarstwa stanowią odrębny przedmiot opodatkowania. ” ;
 
-**Art. 6.** W latach 1997 i 1998 zwalnia się od podatku od nieruchomości budynki gospodarcze lub ich części, z wyjątkiem zajętych na prowadzenie innej działalności gospodarczej niż rolnicza, wchodzące w skład nieruchomości, które w rozumieniu obowiązujących w 1996 r. przepisów ustawy o podatku rolnym stanowiły gospodarstwa rolne.
+- **2)** art. 2 otrzymuje brzmienie: „
+
+**Art. 2.**
+
+1. Nie podlegają opodatkowaniu, z zastrzeżeniem ust. 2, grunty:
+
+- **1)** pod jeziorami i wodami płynącymi, grunty, na których mieszczą się zbiorniki wody służące do zaopatrzenia ludności w wodę, oraz grunty pod wałami przeciwpowodziowymi,
+- **2)** stanowiące nieużytki,
+- **3)** wpisane do rejestru zabytków, pod warunkiem ich zagospodarowania i utrzymania zgodnie z przepisami o ochronie zabytków,
+- **4)** zajęte na prowadzenie innej działalności gospodarczej niż działalność rolnicza,
+- **5)** stanowiące dziatki przyzagrodowe członków rolniczych spółdzielni produkcyjnych, którzy osiągnęli wiek emerytalny bądź są inwalidami I lub II grupy,
+- **6)** wyłączone na cele nierolnicze na podstawie ostatecznych decyzji administracyjnych.
+
+2. Grunty, o których mowa w ust. 1 pkt 6, podlegają jednak opodatkowaniu podatkiem rolnym przez okres do 2 lat od dnia wydania ostatecznej decyzji administracyjnej, w wypadku gdy w tym okresie na gruntach tych prowadzona jest działalność rolnicza. ” ;
+
+- **3)** art. 3 otrzymuje brzmienie: „
+
+**Art. 3.**
+
+1. Obowiązek podatkowy w podatku rolnym z zastrzeżeniem ust. 2, ciąży na osobach fizycznych, osobach prawnych, jednostkach organizacyjnych nie mających osobowości prawnej, które:
+
+- **1)** są właścicielami albo samoistnymi posiadaczami gruntów wchodzących w skład gospodarstw rolnych lub
+- **2)** posiadają – na podstawie zawartej umowy albo innego tytułu prawnego, a także bezumownie – grunty wchodzące w skład gospodarstw rolnych stanowiących własność Skarbu Państwa lub gminy.
+
+2. Obowiązek podatkowy od gruntów pozostających w zarządzie Lasów Państwowych oraz wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa, nie objętych obowiązkiem podatkowym na podstawie ust. 1 pkt 2, ciąży odpowiednio na nadleśnictwach i na jednostkach organizacyjnych Agencji Własności Rolnej Skarbu Państwa, faktycznie władających gruntami.
+
+3. Jeżeli grunty wchodzące w skład gospodarstwa rolnego zostały w całości lub w części wydzierżawione na podstawie umowy zawartej stosownie do przepisów o ubezpieczeniu społecznym rolników, obowiązek podatkowy od tych gruntów ciąży na dzierżawcy.
+
+4. Obowiązek podatkowy w podatku rolnym od gruntów wchodzących w skład gospodarstwa rolnego, wniesionych do spółdzielni produkcyjnych jako wkład gruntowy, ciąży na spółdzielni produkcyjnej.
+
+5. Jeżeli gospodarstwo rolne stanowi współwłasność małżonków lub odrębną własność każdego z nich, obowiązek podatkowy ciąży łącznie na obojgu małżonkach.
+
+6. Obowiązek podatkowy w podatku rolnym od gruntów wchodzących w skład gospodarstwa rolnego, o którym mowa w art. 1 ust. 3, ciąży na tej osobie będącej współwłaścicielem lub współposiadaczem, która to gospodarstwo prowadzi w całości, a jeżeli gospodarstwo rolne prowadzą wszyscy lub niektórzy spośród współwłaścicieli (współposiadaczy) albo żaden z nich – obowiązek podatkowy ciąży solidarnie na wszystkich współwłaścicielach (współposiadaczach). ” ;
+
+- **4)** w art. 6 ust. 1 i 2 otrzymują brzmienie: „
+
+1. Podatek rolny od 1 ha przeliczeniowego za rok podatkowy wynosi równowartość pieniężną 2,5 q żyta, obliczoną według średniej ceny skupu żyta za pierwsze trzy kwartały roku poprzedzającego rok podatkowy.
+
+2. Średnią cenę skupu, o której mowa w ust. 1, ustala się na podstawie komunikatu Prezesa Głównego Urzędu Statystycznego, ogłaszanego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” w terminie 20 dni po upływie trzeciego kwartału. ” ;
+
+- **5)** art. 6a otrzymuje brzmienie: „
+
+**Art. 6a.**
+
+1. Obowiązek podatkowy powstaje od pierwszego dnia miesiąca następującego po miesiącu, w którym zaistniały okoliczności uzasadniające powstanie tego obowiązku.
+
+2. Obowiązek podatkowy wygasa ostatniego dnia miesiąca, w którym przestały istnieć okoliczności uzasadniające ten obowiązek.
+
+3. Jeżeli obowiązek podatkowy powstał lub wygasł w ciągu roku, podatek rolny za ten rok ustala się proporcjonalnie do liczby miesięcy, w których istniał ten obowiązek.
+
+4. Jeżeli w ciągu roku podatkowego grunty gospodarstwa rolnego zostały zajęte na prowadzenie innej działalności gospodarczej niż działalność rolnicza lub po zaprzestaniu prowadzenia tej działalności przywrócono na tych gruntach działalność rolniczą albo z innych powodów ich powierzchnia uległa zmniejszeniu lub zwiększeniu, kwota należnego podatku rolnego ulega obniżeniu lub podwyższeniu, poczynając od pierwszego dnia miesiąca następującego po miesiącu, w którym nastąpiła ta zmiana.
+
+5. Osoby fizyczne są obowiązane złożyć właściwemu organowi gminy pisemne informacje w terminie 14 dni od dnia zaistnienia okoliczności uzasadniających powstanie albo wygaśnięcie obowiązku w podatku rolnym lub o zaistnieniu zmian, o których mowa w ust. 4.
+
+6. Podatek rolny na rok podatkowy od osób fizycznych ustala, w drodze decyzji, wójt (burmistrz, prezydent) właściwy ze względu na miejsce położenia gruntów. Podatek jest płatny w ratach, w terminach do dnia 15 marca, 15 maja, 15 września i 15 listopada roku podatkowego.
+
+7. Jeżeli w ciągu roku podatkowego nastąpiło wygaśnięcie obowiązku podatkowego w podatku rolnym lub zaistniały zmiany, o których mowa w ust. 4, wójt (burmistrz, prezydent) dokonuje zmiany decyzji, którą ustalono ten podatek.
+
+8. Osoby prawne, jednostki organizacyjne nie mające osobowości prawnej, jednostki organizacyjne Agencji Własności Rolnej Skarbu Państwa oraz jednostki organizacyjne Lasów Państwowych są obowiązane:
+
+- **1)** składać, w terminie do dnia 15 stycznia, organowi gminy, właściwemu ze względu na miejsce położenia gruntów, deklaracje na podatek rolny na dany rok podatkowy, sporządzone na formularzu według ustalonego wzoru, a jeżeli obowiązek podatkowy powstał po tym dniu – w terminie 14 dni od dnia zaistnienia okoliczności uzasadniających powstanie tego obowiązku,
+- **2)** odpowiednio skorygować deklaracje, w razie zaistnienia zmian, o których mowa w ust. 4, w terminie 14 dni od dnia zaistnienia tych zmian,
+- **3)** wpłacać obliczony w deklaracji podatek rolny – bez wezwania – na rachunek budżetu właściwej gminy w terminach do dnia 15 marca, 15 maja, 15 września i 15 listopada. ” ;
+- **6)** w art. 6b wyrazy „innych osób i jednostek niż wymienione w art. 6a” zastępuje się wyrazami „osób fizycznych”;
+- **7)** w art. 12: w ust. 1: – pkt 4 otrzymuje brzmienie: „ 4) grunty lub prawo wieczystego użytkowania gruntów, nabyte w drodze kupna na utworzenie nowego lub powiększenie już istniejącego gospodarstwa do powierzchni nie przekraczającej 100 ha, oraz grunty Państwowego Funduszu Ziemi i Zasobu Własności Rolnej Skarbu Państwa objęte w trwałe zagospodarowanie w celu utworzenia nowego gospodarstwa lub powiększenia gospodarstwa już istniejącego do powierzchni nie przekraczającej 100 ha – na okres 5 lat, ” – pkt 7 otrzymuje brzmienie: „ 7) użytki rolne, na których zaprzestano produkcji rolnej, z tym że zwolnienie może dotyczyć nie więcej niż 20% powierzchni użytków rolnych gospodarstwa rolnego, lecz nie więcej niż 10 ha – na okres nie dłuższy niż 3 lata. ” , ust. 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+2. Okres zwolnienia, o którym mowa w ust. 1 pkt 4, liczy się od pierwszego dnia miesiąca następującego po miesiącu, w którym zawarto umowę sprzedaży gruntów bądź prawa wieczystego użytkowania gruntów lub objęto grunty w trwałe zagospodarowanie. ” , w ust. 3 skreśla się wyraz „podatkowym”, w ust. 5 po wyrazie „Ziemi” dodaje się wyrazy „lub z Zasobu Własności Rolnej Skarbu Państwa”, dodaje się ust. 8 w brzmieniu: „
+
+- **c)**
+- **d)**
+- **e)**
+
+8. Rady gmin mogą wprowadzać inne zwolnienia lub ulgi niż określone w ust. 1 i 3. ” ;
+
+- **8)** w art. 13 w ust. 2 po wyrazach „podatku rolnego” dodaje się wyrazy „od gruntów położonych na terenie gminy, w której została dokonana inwestycja – w wysokości”;
+- **9)** w art. 13a: w ust. 2 po wyrazach „w tych gospodarstwach” dodaje się wyrazy „zamieszkiwały i nie osiągały przychodów z innych źródeł,” ust. 3 otrzymuje brzmienie „
+    - **a)**
+    - **b)**
+
+3. Ulgi określone w ust. 1 i 2 stosuje się od pierwszego dnia miesiąca następującego po miesiącu, w którym osoba została powołana do odbycia służby wojskowej, do końca miesiąca, w którym nastąpiło zwolnienie z tej służby. ” ;
+
+- **10)** dodaje się art. 13d w brzmieniu: „
+
+**Art. 13d.**
+
+1. Zwolnienia i ulgi podatkowe określone w art. 12 ust. 1 pkt 1 i 2 oraz w art. 13b stosuje się z urzędu, przy ustalaniu podatku rolnego na dany rok podatkowy, a pozostałe zwolnienia i ulgi podatkowe przyznaje, w drodze decyzji, wójt (burmistrz, prezydent) na wniosek podatnika.
+
+2. W przypadku zbiegu prawa do zwolnień i ulg z różnych tytułów, przy ustalaniu zobowiązania podatkowego w podatku rolnym na dany rok podatkowy w pierwszej kolejności stosuje się ulgi określone w art. 13b, a następnie w art. 12, w art. 13a i w art. 13. Podstawę obliczenia ulgi z danego tytułu stanowi należny podatek po zastosowaniu ulgi z tytułu poprzedzającego. ” W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. Nr 101, poz. 444, z 1992 r. Nr 21, poz. 85 i Nr 54, poz. 254, z 1994 r. Nr 1, poz. 3 i Nr 127, poz. 627 oraz z 1995 r. Nr 147, poz. 713) wprowadza się następujące zmiany:
+
+- **1)** w art. 6 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
+
+2. Przepisu ust. 1 pkt 3 nie stosuje się do rozdziału 9. ” ;
+
+- **2)** w art. 60 dotychczasowa treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
+
+2. Jeżeli las jest współwłasnością albo jest we współposiadaniu dwóch lub więcej osób prawnych lub jednostek organizacyjnych nie mających osobowości prawnej albo osób fizycznych z wyjątkiem małżonków, to las ten stanowi odrębny przedmiot opodatkowania. ” ;
+
+- **3)** art. 61 otrzymuje brzmienie „
+
+**Art. 61.**
+
+1. Obowiązek podatkowy w podatku leśnym, z zastrzeżeniem ust. 2, ciąży na osobach fizycznych, osobach prawnych, jednostkach organizacyjnych nie mających osobowości prawnej, które:
+
+- **1)** są właścicielami albo samoistnymi posiadaczami lasów lub
+- **2)** posiadają lasy stanowiące własność Skarbu Państwa lub gminy na podstawie zawartej umowy lub innego tytułu prawnego, a także bezumownie. Obowiązek podatkowy w podatku leśnym od lasów pozostających w zarządzie Lasów Państwowych oraz wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa, nie objętych obowiązkiem podatkowym na podstawie ust. 1 pkt 2, ciąży odpowiednio na nadleśnictwach i na jednostkach organizacyjnych Agencji Własności Rolnej Skarbu Państwa, faktycznie władających lasami.
+- **3)** Jeżeli las stanowi współwłasność małżonków lub odrębną własność każdego z nich, obowiązek podatkowy ciąży łącznie na obojgu małżonkach. Obowiązek podatkowy w podatku leśnym w przypadku, o którym mowa w art. 60 ust. 2, ciąży solidarnie na wszystkich współwłaścicielach lub współposiadaczach. ” ;
+- **4)** w art. 62 w ust. 1 skreśla się pkt 2 i 3;
+- **5)** skreśla się art. 63;
+- **6)** w art. 64 ust. 1 otrzymuje brzmienie: „
+
+1. Podstawę opodatkowania podatkiem leśnym, z zastrzeżeniem art. 65a, stanowi liczba hektarów przeliczeniowych – ustalona na podstawie powierzchni głównych gatunków drzew w drzewostanie i klas bonitacji drzewostanu dla głównych gatunków drzew – wynikających z planu urządzenia lasu lub uproszczonego planu urządzenia lasu. ” ;
+
+- **7)** art. 65 otrzymuje brzmienie: „
+
+**Art. 65.**
+
+1. Podatek leśny od 1 ha przeliczeniowego za rok podatkowy wynosi równowartość pieniężną 0,200 m3 drewna tartacznego iglastego, obliczoną według średniej ceny sprzedaży drewna uzyskanej przez nadleśnictwa za pierwsze trzy kwartały roku poprzedzającego rok podatkowy.
+
+2. Średnią cenę sprzedaży drewna tartacznego iglastego, o której mowa w ust. 1, ustala się na podstawie komunikatu Prezesa Głównego Urzędu Statystycznego, ogłaszanego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” w terminie 20 dni po upływie trzeciego kwartału. ” ;
+
+- **8)** dodaje się art. 65a w brzmieniu: „ Dla lasów ochronnych, lasów wchodzących w skład rezerwatów przyrody i parków narodowych oraz lasów, dla których nie ma sporządzonego planu urządzenia lasu lub uproszczonego planu urządzenia lasu, podatek leśny za rok podatkowy wynosi równowartość pieniężna 0,3 q żyta od powierzchni 1 ha fizycznego lasów i gruntów leśnych, ustalonej na podstawie ewidencji gruntów. Równowartość pieniężną żyta ustala się według ceny określonej w komunikacie Prezesa Głównego Urzędu Statystycznego dla celów podatku rolnego. ” ;
+- **9)** art. 66 otrzymuje brzmienie: „
+
+**Art. 66.**
+
+1. Obowiązek podatkowy powstaje od pierwszego dnia miesiąca następującego po miesiącu, w którym zaistniały okoliczności uzasadniające powstanie tego obowiązku.
+
+2. Obowiązek podatkowy wygasa ostatniego dnia miesiąca, w którym przestały istnieć okoliczności uzasadniające ten obowiązek.
+
+3. Jeżeli obowiązek podatkowy powstał lub wygasł w ciągu roku, podatek leśny za ten rok ustala się proporcjonalnie do liczby miesięcy, w których istniał obowiązek.
+
+4. Jeżeli w ciągu roku podatkowego las został zajęty na prowadzenie innej działalności gospodarczej niż działalność leśna lub po zaprzestaniu prowadzenia tej działalności przywrócono działalność leśną, albo z innych powodów jego powierzchnia uległa zmniejszeniu lub zwiększeniu – kwota należnego podatku leśnego ulega obniżeniu lub podwyższeniu, poczynając od pierwszego dnia miesiąca następującego po miesiącu, w którym nastąpiła ta zmiana.
+
+5. Osoby fizyczne są obowiązane złożyć właściwemu organowi gminy informacje w terminie 14 dni od dnia zaistnienia okoliczności uzasadniających powstanie albo wygaśnięcie obowiązku w podatku leśnym lub o zaistnieniu zmian, o których mowa w ust. 4.
+
+6. Podatek leśny na rok podatkowy od osób fizycznych ustala w drodze decyzji, wójt (burmistrz, prezydent) właściwy ze względu na miejsce położenia lasu. Podatek jest płatny w ratach, w terminach do dnia 15 marca, 15 maja, 15 września i 15 listopada roku podatkowego.
+
+7. Jeżeli w ciągu roku podatkowego nastąpiło wygaśnięcie obowiązku podatkowego w podatku leśnym lub zaistniały zmiany, o których mowa w ust. 4, wójt (burmistrz prezydent) dokonuje zmiany decyzji, którą ustalono ten podatek.
+
+8. Osoby prawne, jednostki organizacyjne nie mające osobowości prawnej, nadleśnictwa oraz jednostki organizacyjne Agencji Własności Rolnej Skarbu Państwa są obowiązane:
+
+- **1)** składać, w terminie do dnia 15 stycznia, organowi gminy, właściwemu ze względu na miejsce położenia lasów, deklaracje na podatek leśny na dany rok podatkowy, sporządzone na formularzu według ustalonego wzoru, a jeżeli obowiązek podatkowy powstał po tym dniu – w terminie 14 dni od dnia wystąpienia okoliczności uzasadniających powstanie tego obowiązku,
+- **2)** odpowiednio skorygować deklaracje, w razie zaistnienia zmian, o których mowa w ust. 4, w terminie 14 dni od dnia zaistnienia tych zmian,
+- **3)** wpłacać obliczony w deklaracji podatek leśny – bez wezwania – na rachunek budżetu właściwej gminy za poszczególne miesiące do dnia 15 każdego miesiąca.
+
+9. Rada gminy może zarządzać pobór podatku leśnego od osób wymienionych w ust. 5 w drodze inkasa oraz określać inkasentów i wysokość wynagrodzenia za inkaso. ” ;
+
+- **10)** skreśla się art. 80. W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. Nr 9, poz. 31 i Nr 101, poz. 444, z 1992 r. Nr 21, poz. 86 oraz z 1994 r. Nr 123, poz. 600) wprowadza się następujące zmiany:
+- **1)** art. 2 otrzymuje brzmienie: „
+
+1. Obowiązek podatkowy w podatku od nieruchomości, z zastrzeżeniem ust. 2, ciąży na osobach fizycznych, osobach prawnych oraz jednostkach organizacyjnych nie mających osobowości prawnej, które:
+
+- **1)** są właścicielami lub samoistnymi posiadaczami nieruchomości albo obiektów budowlanych nie złączonych trwale z gruntem,
+- **2)** są użytkownikami wieczystymi nieruchomości lub ich części,
+- **3)** są posiadaczami nieruchomości albo obiektów budowlanych nie złączonych trwale z gruntem, stanowiących własność Skarbu Państwa lub gminy, jeżeli posiadanie wynika z umowy zawartej z właścicielem lub innego tytułu prawnego, a także umowy zawartej z Agencją Własności Rolnej Skarbu Państwa albo z ustanowionego zarządu,
+- **4)** posiadają bez tytułu prawnego nieruchomości lub ich części albo obiekty budowlane nie złączone trwale z gruntem, stanowiące własność Skarbu Państwa lub gminy, z wyjątkiem nieruchomości wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa lub będących w zarządzie Lasów Państwowych.
+
+2. Obowiązek podatkowy w podatku od nieruchomości lub obiektów budowlanych nie złączonych trwale z gruntem, pozostających w zarządzie Lasów Państwowych oraz wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa, nie objętych obowiązkiem podatkowym na podstawie ust. 1 pkt 3, ciąży odpowiednio na nadleśnictwach i na jednostkach organizacyjnych Agencji Własności Rolnej Skarbu Państwa, faktycznie władających nieruchomościami i obiektami budowlanymi nie złączonymi trwale z gruntem.
+
+3. Jeżeli nieruchomość stanowi współwłasność małżonków lub odrębną własność każdego z nich, obowiązek podatkowy ciąży łącznie na obojgu małżonkach.
+
+4. Jeżeli nieruchomość stanowi współwłasność lub współposiadanie, z zastrzeżeniem ust. 5, innych osób niż małżonkowie, obowiązek podatkowy od tej nieruchomości ciąży solidarnie na wszystkich współwłaścicielach lub współposiadaczach.
+
+5. Jeżeli w nieruchomości ustanowiona jest odrębna własność lokali, obowiązek podatkowy w podatku od nieruchomości od gruntu oraz części budynku stanowiących współwłasność ciąży na właścicielach lokali w zakresie odpowiadającym częściom ułamkowym wynikającym ze stosunku powierzchni użytkowej lokalu do powierzchni użytkowej całego budynku.
+
+6. Jeżeli nieruchomość jest współwłasnością albo jest we współposiadaniu dwóch lub więcej osób prawnych albo osób fizycznych, z wyjątkiem nieruchomości, o których mowa w ust. 3 i 5, to stanowi odrębny przedmiot opodatkowania. ” ;
+
+- **2)** w art. 3: w ust. 1: – pkt 2 otrzymuje brzmienie: „ 2) budowle lub ich części związane z prowadzeniem działalności gospodarczej innej niż działalność rolnicza lub leśna, ” – w pkt 4 po wyrazie „leśna” dodaje się wyrazy „oraz nie sklasyfikowane grunty – jako użytki rolne położone na terenie miast, a także grunty wyłączone ostatecznymi decyzjami administracyjnymi na cele inne niż rolnicze lub leśne, z wyjątkiem gruntów, na których przez okres do 2 lat od dnia wydania ostatecznej decyzji administracyjnej wyłączającej te grunty na cele nierolnicze prowadzona jest działalność rolnicza,” – dodaje się pkt 5 w brzmieniu: „ 5) grunty pod jeziorami, grunty zajęte na zbiorniki wodne retencyjne lub elektrowni wodnych. ” , dodaje się ust. 1a w brzmieniu: „
+    - **a)**
+    - **b)**
+
+1a. Za działalność gospodarczą w rozumieniu ustawy nie uważa się wynajmu pokoi gościnnych w budynkach mieszkalnych położonych na terenach wiejskich osobom przebywającym na wypoczynku, jeżeli liczba wynajmowanych pokoi nie przekracza 5. ” ;
+
+- **3)** art. 5 otrzymuje brzmienie: „
+
+**Art. 5.**
+
+1. Rada gminy określa wysokość stawek podatku od nieruchomości, z tym że podatek ten nie może przekroczyć rocznie:
+
+- **1)** od 1 m2 powierzchni użytkowej budynków mieszkalnych lub ich części w gminie o liczbie mieszkańców faktycznie w niej zamieszkałych: do 10 000 mieszkańców włącznie 0,20 zł, powyżej 10 000 do 50 000 mieszkańców włącznie 0,21 zł, powyżej 50 000 mieszkańców 0,23 zł,
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **2)** od 1 m2 powierzchni użytkowej budynków lub ich części związanych z działalnością gospodarczą inną niż rolnicza lub leśna, z wyjątkiem budynków lub ich części przydzielonych na potrzeby bytowe osób zajmujących lokale mieszkalne, oraz od części budynków mieszkalnych zajętych na prowadzenie działalności gospodarczej w gminie o liczbie mieszkańców faktycznie w niej zamieszkałych: do 10 000 mieszkańców włącznie 7,32 zł, powyżej 10 000 do 50 000 mieszkańców włącznie 7,75 zł, powyżej 50 000 mieszkańców 8,61 zł,
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **3)** od 1 m2 powierzchni użytkowej budynków lub ich części zajętych na prowadzenie działalności gospodarczej w zakresie obrotu kwalifikowanym materiałem siewnym 4 zł,
+- **4)** od 1 m2 powierzchni użytkowej pozostałych budynków lub ich części w gminie o liczbie mieszkańców faktycznie w niej zamieszkałych: do 10 000 mieszkańców włącznie 2,44 zł, powyżej 10 000 do 50 000 mieszkańców włącznie 2,58 zł, powyżej 50 000 mieszkańców 2,87 zł,
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **5)** od budowli – 2% ich wartości,
+- **6)** od 1 m2 powierzchni gruntów związanych z działalnością gospodarczą inną niż działalność rolnicza lub leśna, z wyjątkiem związanych z budynkami mieszkalnymi, w gminie o liczbie mieszkańców faktycznie w niej zamieszkałych: do 10 000 mieszkańców włącznie 0,24 zł, powyżej 10 000 do 50 000 mieszkańców włącznie 0,25 zł, powyżej 50 000 mieszkańców 0,28 zł,
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **7)** od gruntów: będących użytkami rolnymi nie wchodzącymi w skład gospodarstw rolnych w rozumieniu przepisów ustawy z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 1993 r. Nr 94, poz. 431 i z 1994 r. Nr 1, poz. 3) wykorzystywanych na cele rolnicze – 0,50 zł od jednego ara powierzchni, pod jeziorami, zajętych na zbiorniki wodne retencyjne lub elektrowni wodnych -1 zł od 1 ha powierzchni, pozostałych – 0,03 zł od 1 m2 powierzchni.
+    - **a)**
+    - **b)**
+    - **c)**
+
+2. Faktyczną liczbę mieszkańców zamieszkałych w gminie przyjmuje się według stanu na dzień 30 czerwca roku poprzedzającego rok, na który rada gminy określa wysokość stawek podatku od nieruchomości.
+
+3. Stawki podatku od nieruchomości określane przez radę gminy nie mogą być niższe niż 50% górnych granic stawek wymienionych w ust. 1.
+
+4. Za grunty związane z działalnością gospodarczą uważa się grunty zabudowane i nie zabudowane, będące w posiadaniu podmiotu gospodarczego, a w szczególności:
+
+- **1)** grunty pod budynkami produkcyjnymi, magazynowymi, administracyjnymi, socjalnymi i hotelowymi,
+- **2)** grunty pod budowlami i urządzeniami,
+- **3)** grunty zajęte na drogi wewnętrzne i place manewrowe, place składowe, zieleńce oraz tereny, na których są lub mają być realizowane zadania inwestycyjne,
+- **4)** grunty wyłączone na cele nierolnicze lub nieleśne: na skutek prowadzonej działalności gospodarczej innej niż działalność rolnicza lub leśna albo na podstawie ostatecznej decyzji administracyjnej, do czasu przywrócenia tym gruntom charakteru rolniczego lub leśnego. ” ;
+    - **a)**
+    - **b)**
+
+- **4)** w art. 6: w ust. 6 skreśla się wyrazy „oraz jednostki organizacyjne nie mające osobowości prawnej, z wyjątkiem wymienionych w ust. 8,” w ust. 7 wyrazy „i jednostek wymienionych w ust. 6” zastępuje się wyrazem „fizycznych”, dodaje się ust. 7a w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+7a. Jeżeli w ciągu roku podatkowego nastąpiło wygaśnięcie obowiązku podatkowego w podatku od nieruchomości lub zaistniały zmiany, o których mowa w ust. 3, wójt (burmistrz, prezydent) dokonuje zmiany decyzji, którą ustalono ten podatek. ” , ust. 8 otrzymuje brzmienie: „
+
+- **d)**
+
+8. Osoby prawne, jednostki organizacyjne nie mające osobowości prawnej, jednostki organizacyjne Agencji Własności Rolnej Skarbu Państwa oraz jednostki organizacyjne Lasów Państwowych są obowiązane:
+
+- **1)** składać, w terminie do dnia 15 stycznia, organowi gminy właściwemu ze względu na miejsce położenia nieruchomości deklaracje na podatek od nieruchomości na dany rok podatkowy, sporządzone na formularzu według ustalonego wzoru, a jeżeli obowiązek podatkowy powstał po tym dniu – w terminie 14 dni od dnia zaistnienia okoliczności uzasadniających powstanie tego obowiązku,
+- **2)** odpowiednio skorygować deklaracje w razie zaistnienia zmian, o których mowa w ust. 3, w terminie 14 dni od dnia zaistnienia tych zmian,
+- **3)** wpłacać obliczony w deklaracji podatek od nieruchomości – bez wezwania – na rachunek budżetu właściwej gminy za poszczególne miesiące, w terminie do dnia 15 każdego miesiąca. ” , w ust. 9 wyrazy „wymienionych w ust. 6” zastępuje się wyrazem „fizycznych”;
+    - **e)**
+
+- **5)** w art. 7 w ust. 1: pkt 3 otrzymuje brzmienie: „
+    - **a)**
+
+- **3)** budowle dróg publicznych oraz grunty zajęte pod te drogi, wraz z pasami drogowymi, ” pkt 5 otrzymuje brzmienie: „
+    - **b)**
+
+- **5)** budowle wykorzystywane bezpośrednio do wytwarzania energii elektrycznej lub ciepła, linie elektroenergetyczne przesyłowe i rozdzielcze, rurociągi i przewody sieci rozdzielczej gazów, ciepła, paliw i wody, budowle służące do odprowadzania i oczyszczania ścieków, budynki lub ich części bezpośrednio związane z procesem poboru i uzdatniania wody, ” pkt 6 otrzymuje brzmienie: „
+    - **c)**
+
+- **6)** grunty pod wodami płynącymi i kanałami żeglownymi, z wyjątkiem jezior oraz gruntów zajętych na zbiorniki wodne retencyjne lub elektrowni wodnych, ” ; pkt 7 otrzymuje brzmienie: „
+    - **d)**
+
+- **7)** budynki gospodarcze lub ich części związane z działalnością leśną, zajęte na prowadzenie działów specjalnych produkcji rolnej, oraz w gospodarstwach rolnych, w rozumieniu przepisów o podatku rolnym, budynki gospodarcze lub ich części związane z działalnością rolniczą, ” pkt 10 otrzymuje brzmienie: „
+    - **e)**
+
+- **10)** budynki i grunty wpisane indywidualnie do rejestru zabytków, pod warunkiem ich utrzymania i konserwacji zgodnie z przepisami o ochronie zabytków, z wyjątkiem części zajętych na prowadzenie działalności gospodarczej, ” ;
+- **6)** art. 10 otrzymuje brzmienie: „
+
+**Art. 10.**
+
+1. Rada gminy określa, w drodze uchwały, wysokość stawek podatku od środków transportowych, z tym że roczna stawka podatku od jednego środka transportowego nie może przekroczyć:
+
+- **1)** od motoroweru – 23,14 zł,
+- **2)** od motocykla -165,10 zł,
+- **3)** od samochodu osobowego – 994,18 zł,
+- **4)** od samochodu ciężarowego o ładowności powyżej 12 ton -1 500 zł,
+- **5)** od ciągnika rolniczego -150 zł,
+- **6)** od przyczepy o ładowności do 5 ton – 150 zł,
+- **7)** od pozostałych – 1 159,87 zł.
+
+2. Przy określaniu stawek, o których mowa w ust. 1, rada gminy uwzględnia rodzaj środka, pojemność skokową silnika lub moc silnika, ładowność, masę całkowitą, a także może uwzględniać wiek albo wartość środka transportowego. ” ;
+
+- **7)** w art. 11 w ust. 3 wyrazy „w rozporządzeniu, o którym mowa” zastępuje się wyrazami „w uchwale rady gminy, o której mowa”;
+- **8)** w art. 12: w ust. 1 w pkt 3 wyrazy „należące do” zastępuje się wyrazami „stanowiące wyłączną własność”, w ust. 2 w pkt 4 skreśla się wyrazy „i wojskowych”, w ust. 3 po wyrazach „z rodziców” dodaje się wyrazy „osoby niepełnosprawnej lub”;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **9)** w art. 13 w ust. 2 w pkt 4 skreśla się wyrazy „, a utrzymywanych w celu pilnowania stad na pastwiskach – bez względu na liczbę”;
+- **10)** w art. 14 w pkt 1 wyrazy „40 tys. zł” zastępuje się wyrazami „22,86 zł”;
+- **11)** w art. 15 ust. 2 otrzymuje brzmienie: „
+
+2. Targowiskami, o których mowa w ust. 1, są wszelkie miejsca, w których prowadzony jest handel, w szczególności z ręki, koszów, stoisk, wozów konnych, przyczep, pojazdów samochodowych, a także sprzedaż zwierząt, środków transportowych i części do środków transportowych. ” ;
+
+- **12)** art. 16 otrzymuje brzmienie: „
+
+**Art. 16.** Zwalnia się od opłaty targowej osoby i jednostki wymienione w art. 15 ust. 1, które są podatnikami podatku od nieruchomości w związku z nieruchomościami położonymi na targowisku. ” ;
+
+- **13)** w art. 19 pkt 1 otrzymuje brzmienie: „
+- **1)** określa zasady ustalania i poboru oraz terminy płatności i wysokość stawek opłat określonych w ustawie, z tym że: stawka opłaty targowej nie może przekroczyć 344,63 zł dziennie, stawka opłaty miejscowej nie może przekroczyć 0,78 zł dziennie, opłata administracyjna nie może przekroczyć 114,98 zł, ” ;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **14)** w art. 20: w ust. 1 wyrazy „od 1991 r.” zastępuje się wyrazami „od 1997 r.”, w ust. 2 po wyrazach „w ust. 1 „ dodaje się wyrazy „zaokrąglając je w górę do pełnych groszy”.
+    - **a)**
+    - **b)**
+
+**Art. 4.** W ustawie z dnia 16 października 1991 r. o ochronie przyrody (Dz. U. Nr 114, poz. 492, z 1992 r. Nr 54, poz. 254, z 1994 r. Nr 89, poz. 415 i z 1995 r. Nr 147, poz. 713) w art. 14 w ust. 13 skreśla się kropkę i dodaje wyrazy „z wyjątkiem podatku leśnego obliczonego według zasad określonych dla lasów ochronnych oraz podatku rolnego od gruntów rolnych obliczonego według zasad określonych w odrębnych ustawach.” Ulgi w podatku rolnym, przyznane na podstawie dotychczasowych przepisów, stosuje się do czasu ich wyczerpania. W latach 1997 i 1998 zwalnia się od podatku od nieruchomości budynki gospodarcze lub ich części, z wyjątkiem zajętych na prowadzenie innej działalności gospodarczej niż rolnicza, wchodzące w skład nieruchomości, które w rozumieniu obowiązujących w 1996 r. przepisów ustawy o podatku rolnym stanowiły gospodarstwa rolne.
 
 **Art. 7.**
 
-1. Średnią cenę skupu żyta, o której mowa w przepisach ustawy o podatku rolnym, do celów ustalenia podatku rolnego w 1997 r., obliczoną według cen skupu żyta za okres pierwszych trzech kwartałów 1996 r., określi Prezes Głównego Urzędu Statystycznego w drodze komunikatu ogłoszonego w Dzienniku Urzędowym Rzeczypospolitej Polskiej "Monitor Polski" w terminie 20 dni po upływie trzeciego kwartału 1996 r.
+1. Średnią cenę skupu żyta, o której mowa w przepisach ustawy o podatku rolnym, do celów ustalenia podatku rolnego w 1997 r., obliczoną według cen skupu żyta za okres pierwszych trzech kwartałów 1996 r., określi Prezes Głównego Urzędu Statystycznego w drodze komunikatu ogłoszonego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” w terminie 20 dni po upływie trzeciego kwartału 1996 r.
 
-2. Średnią cenę sprzedaży drewna, o której mowa w przepisach ustawy o lasach, do celów ustalenia podatku leśnego w 1997 r., obliczoną według cen sprzedaży przez nadleśnictwa drewna tartacznego iglastego za okres pierwszych trzech kwartałów 1996 r., określi Prezes Głównego Urzędu Statystycznego w drodze komunikatu ogłoszonego w Dzienniku Urzędowym Rzeczypospolitej Polskiej "Monitor Polski" w terminie 20 dni po upływie trzeciego kwartału 1996 r.
+2. Średnią cenę sprzedaży drewna, o której mowa w przepisach ustawy o lasach, do celów ustalenia podatku leśnego w 1997 r., obliczoną według cen sprzedaży przez nadleśnictwa drewna tartacznego iglastego za okres pierwszych trzech kwartałów 1996 r., określi Prezes Głównego Urzędu Statystycznego w drodze komunikatu ogłoszonego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” w terminie 20 dni po upływie trzeciego kwartału 1996 r.
 
-**Art. 8.** Ustawa wchodzi w życie z dniem 1 stycznia 1997 r., z tym że art. 7 wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 8.** Ustawa wchodzi w życie z dniem 1 stycznia 1997 r. z tym że art. 7 wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

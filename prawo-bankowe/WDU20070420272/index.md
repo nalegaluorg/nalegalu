@@ -1,0 +1,377 @@
+---
+title: "Ustawa z dnia 26 stycznia 2007 r. o zmianie ustawy - Prawo bankowe"
+address: WDU20070420272
+eli: DU/2007/272
+publisher: DU
+year: 2007
+pos: 272
+act_type: Ustawa
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Ustawa z dnia 26 stycznia 2007 r. o zmianie ustawy – Prawo bankowe
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2007 nr 42 poz. 272 |
+| ISAP | WDU20070420272 |
+| Typ aktu | Ustawa |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2007-01-26 |
+| Data wydania | 2007-03-09 |
+| Wejście w życie | 2007-04-01 |
+| Ostatnia zmiana | 2024-03-15 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070420272) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/272/text.pdf) |
+
+– zmienia ustawę z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym.
+
+**Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 4 w ust. 1 dodaje się pkt 28–31 w brzmieniu: „
+- **28)** instytucja dominująca w państwie członkowskim – instytucję kredytową lub bank krajowy, w stosunku do których podmiotem zależnym lub blisko powiązanym w rozumieniu pkt 15 lit. a jest instytucja kredytowa, instytucja finansowa lub bank krajowy, oraz które nie są podmiotami zależnymi w stosunku do instytucji kredytowej działającej na podstawie zezwolenia udzielonego w tym samym państwie lub instytucji finansowej z siedzibą na terytorium tego samego państwa, lub banku krajowego,
+- **29)** podmiot dominujący w holdingu finansowym w państwie członkowskim – podmiot dominujący w holdingu finansowym lub hybrydowym, który nie jest podmiotem zależnym w stosunku do instytucji kredytowej działającej na podstawie zezwolenia udzielonego w tym samym państwie lub w stosunku do instytucji finansowej z siedzibą na terytorium tego samego państwa, lub nie jest podmiotem zależnym w stosunku do banku krajowego, jeżeli podmiot ten ma siedzibę na terytorium Rzeczypospolitej Polskiej,
+- **30)** unijna instytucja dominująca – instytucję dominującą w państwie członkowskim, która nie jest podmiotem zależnym w stosunku do instytucji kredytowej lub banku krajowego, lub instytucji finansowej z siedzibą na terytorium państwa członkowskiego,
+- **31)** unijny podmiot dominujący w holdingu finansowym – podmiot dominujący w holdingu finansowym w państwie członkowskim, który nie jest podmiotem zależnym w stosunku do instytucji kredytowej lub banku krajowego, lub instytucji finansowej z siedzibą na terytorium państwa członkowskiego ” ;
+- **2)** art. 9–9d otrzymują brzmienie: „
+
+**Art. 9.**
+
+1. W banku funkcjonuje system zarządzania.
+
+2. System zarządzania stanowi zbiór zasad i mechanizmów odnoszących się do procesów decyzyjnych, zachodzących w banku oraz do oceny prowadzonej działalności bankowej.
+
+3. W ramach systemu zarządzania w banku funkcjonuje co najmniej:
+
+- **1)** system zarządzania ryzykiem,
+- **2)** system kontroli wewnętrznej.
+
+1. Zarząd banku projektuje, wprowadza oraz zapewnia działanie systemu zarządzania.
+
+2. Rada nadzorcza banku sprawuje nadzór nad wprowadzeniem systemu zarządzania oraz ocenia adekwatność i skuteczność tego systemu.
+
+1. Zadaniem systemu zarządzania ryzykiem jest identyfikacja, pomiar lub szacowanie oraz monitorowanie ryzyka występującego w działalności banku służące zapewnieniu prawidłowości procesu wyznaczania i realizacji szczegółowych celów prowadzonej przez bank działalności.
+
+2. W ramach systemu zarządzania ryzykiem bank:
+
+- **1)** stosuje sformalizowane zasady służące określaniu wielkości podejmowanego ryzyka i zasady zarządzania ryzykiem,
+- **2)** stosuje sformalizowane procedury mające na celu identyfikację, pomiar lub szacowanie oraz monitorowanie ryzyka występującego w działalności banku, uwzględniające również przewidywany poziom ryzyka w przyszłości,
+- **3)** stosuje sformalizowane limity ograniczające ryzyko i zasady postępowania w przypadku przekroczenia limitów,
+- **4)** stosuje przyjęty system sprawozdawczości zarządczej umożliwiający monitorowanie poziomu ryzyka,
+- **5)** posiada strukturę organizacyjną dostosowaną do wielkości i profilu ponoszonego przez bank ryzyka.
+
+3. Bank sprawuje nadzór nad ryzykiem związanym z działalnością podmiotów zależnych.
+
+1. Celem systemu kontroli wewnętrznej jest wspomaganie procesów decyzyjnych przyczyniające się do zapewnienia:
+
+- **1)** skuteczności i efektywności działania banku,
+- **2)** wiarygodności sprawozdawczości finansowej,
+- **3)** zgodności działania banku z przepisami prawa i regulacjami wewnętrznymi.
+
+2. System kontroli wewnętrznej obejmuje:
+
+- **1)** mechanizmy kontroli ryzyka,
+- **2)** badanie zgodności działania banku z przepisami prawa i regulacjami wewnętrznymi,
+- **3)** audyt wewnętrzny.
+
+1. W bankach działających w formie spółki akcyjnej, w bankach państwowych i w bankach spółdzielczych, w których kontrola wewnętrzna nie jest realizowana na podstawie art. 10, funkcjonuje komórka organizacyjna przeprowadzająca audyt wewnętrzny, zwana dalej „komórką audytu wewnętrznego”.
+
+2. Zadaniem komórki audytu wewnętrznego jest badanie i ocena, w sposób niezależny i obiektywny, adekwatności i skuteczności systemu kontroli wewnętrznej oraz opiniowanie systemu zarządzania bankiem, w tym skuteczności zarządzania ryzykiem związanym z działalnością banku. ” ;
+
+- **3)** po art. 9d dodaje się art. 9e i 9f w brzmieniu: „
+
+1. informacje na temat stwierdzonych nieprawidłowości i wniosków wynikających z przeprowadzonego audytu wewnętrznego oraz działań podejmowanych w celu ich usunięcia są przekazywane okresowo, co najmniej raz w roku, radzie nadzorczej banku.
+
+2. Rada nadzorcza banku może powołać spośród jej członków komitet do spraw audytu wewnętrznego, który sprawuje nadzór nad działalnością komórki audytu wewnętrznego. Komisja Nadzoru Bankowego określi, w drodze uchwały, szczegółowe zasady funkcjonowania systemu zarządzania ryzykiem i systemu kontroli wewnętrznej. ” ;
+
+- **4)** w art. 11 w ust. 1 po pkt 19 dodaje się pkt 19a i 19b w brzmieniu: „
+- **19a)** zobowiązania banku do zwiększenia funduszy własnych, o którym mowa w art. 138a ust. 1 pkt 1,
+- **19b)** nałożenia na bank dodatkowego wymogu kapitałowego, ” ;
+- **5)** w art. 22a ust. 2 otrzymuje brzmienie: „
+
+2. Rada nadzorcza informuje Komisję Nadzoru Bankowego o składzie zarządu oraz o zmianie jego składu niezwłocznie po jego powołaniu lub po dokonaniu zmiany jego składu. Rada nadzorcza informuje Komisję Nadzoru Bankowego także o członkach zarządu, którym w ramach podziału kompetencji podlega w szczególności zarządzanie ryzykiem i komórka audytu wewnętrznego. ” ;
+
+- **6)** w art. 59 ust. 7 otrzymuje brzmienie: „
+
+7. Przepisy ust. 3–6 stosuje się w przypadku, gdy powierzenie środków pieniężnych nastąpiło w wykonaniu umowy, o której mowa w ust. 1, z datą pewną. ” ;
+
+- **7)** w art. 70 dodaje się ust. 5 i 6 w brzmieniu: „
+
+5. Na wniosek ubiegającego się o kredyt przedsiębiorcy, bank przekazuje, w formie pisemnej, wyjaśnienie dotyczące dokonanej przez siebie oceny zdolności kredytowej. Opłata za sporządzenie takiego wyjaśnienia powinna być odpowiednia do wysokości kredytu.
+
+6. Przepis ust. 5 stosuje się odpowiednio do przedsiębiorcy ubiegającego się o pożyczkę pieniężną. ” ;
+
+- **8)** w art. 71: w ust. 1 zdanie wstępne otrzymuje brzmienie: „ Suma wierzytelności banku, udzielonych przez bank zobowiązań pozabilansowych oraz posiadanych przez bank bezpośrednio lub pośrednio akcji lub udziałów w innym podmiocie, wniesionych dopłat w spółce z ograniczoną odpowiedzialnością lub też wkładów albo sum komandytowych – w zależności od tego, która z tych kwot jest większa – w spółce komandytowej lub komandytowo-akcyjnej (zaangażowanie), obciążonych ryzykiem jednego podmiotu lub podmiotów powiązanych kapitałowo lub organizacyjnie nie może przekroczyć limitu koncentracji zaangażowań, który wynosi: ” , ust. 3 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+3. Przepisów ust. 1 i 2 nie stosuje się wobec, określonych przez Komisję Nadzoru Bankowego, zaangażowań niezagrażających bezpiecznemu prowadzeniu działalności bankowej i prawidłowemu zarządzaniu ryzykiem w banku. ” , ust. 5 otrzymuje brzmienie: „
+
+- **c)**
+
+5. Komisja Nadzoru Bankowego określi, w drodze uchwały, zaangażowania, o których mowa w ust. 3, warunki, jakie muszą one spełniać oraz zaangażowania, wobec których wymagane jest uzyskanie zgody Komisji Nadzoru Bankowego na niestosowanie przepisów ust. 1 i 2, kierując się potrzebą odzwierciedlenia faktycznego obciążenia funduszy własnych banku ryzykiem prowadzonej działalności, wynikającym z koncentracji zaangażowań oraz dużych zaangażowań. ” , ust. 7 otrzymuje brzmienie: „
+
+- **d)**
+
+7. Banki, z zachowaniem limitów określonych w ustawie, ustalają i weryfikują wewnętrzne limity zaangażowań według kryteriów uwzględniających specyfikę ich działalności. ” , dodaje się ust. 8 w brzmieniu: „
+
+- **e)**
+
+8. Komisja Nadzoru Bankowego określi, w drodze uchwały, wymagania dotyczące identyfikacji, monitorowania i kontroli koncentracji zaangażowań, w tym dużych zaangażowań. ” ;
+
+- **9)** w art. 92a: ust. 3 otrzymuje brzmienie: „
+    - **a)**
+
+3. Bank może także przenieść w drodze umowy wierzytelności na, niebędącą towarzystwem funduszy inwestycyjnych tworzącym fundusz sekurytyzacyjny albo funduszem sekurytyzacyjnym, spółkę kapitałową (podmiot emisyjny) w celu emisji przez ten podmiot papierów wartościowych, których zabezpieczenie stanowią sekurytyzowane wierzytelności. ” , uchyla się ust. 5 i 6;
+
+- **b)**
+- **10)** po art. 92c dodaje się art. 92d w brzmieniu: „
+
+**Art. 92d.** Bank może zawrzeć umowę o kredytowy instrument pochodny lub inną umowę niż wymieniona w art. 92a ust. 1 i 3, na podstawie których następuje przeniesienie całości lub części ryzyka związanego z wierzytelnościami tego banku. ” ;
+
+- **11)** w art. 104 w ust. 2 pkt 6 otrzymuje brzmienie: „
+- **6)** udzielenie informacji objętych tajemnicą bankową jest niezbędne do zawarcia i wykonania umów, o których mowa w art. 92a ust. 3 i art. 92d, oraz związanych z nimi umów o: nadanie oceny inwestycyjnej (rating) sekurytyzowanym wierzytelnościom, obsługę sekurytyzowanych wierzytelności, organizację i przeprowadzenie emisji papierów wartościowych, ubezpieczenie od ryzyka niewypłacalności dłużników sekurytyzowanych wierzytelności. ” ;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **12)** w art. 105: w ust. 1: – pkt 1b otrzymuje brzmienie: „ 1b) innym bankom, instytucjom kredytowym lub instytucjom finansowym, w zakresie niezbędnym dla: a) wykonywania obowiązujących je przepisów dotyczących nadzoru skonsolidowanego, w tym w szczególności dla sporządzania skonsolidowanych sprawozdań finansowych, obejmujących także bank, b) zarządzania ryzykiem dużych zaangażowań, c) stosowania metod statystycznych, o którym mowa w art. 128d ust. 1 i 6, ” , – po pkt 1b dodaje się pkt 1c w brzmieniu: „ 1c) instytucjom, o których mowa w ust. 4, w zakresie niezbędnym dla stosowania metod statystycznych, o którym mowa w art. 128d ust. 1 i 6, ” , – w pkt 2 dodaje się lit. q w brzmieniu: „ q) właściwej władzy nadzorczej, z którą Komisja Nadzoru Bankowego zawarła porozumienie, o którym mowa w art. 131 ust. 2 lub w art. 141f ust. 3, w związku z wykonywaniem przez tę władzę nadzoru skonsolidowanego, ” , ust. 4 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+4. Banki mogą, wspólnie z bankowymi izbami gospodarczymi, utworzyć instytucje upoważnione do gromadzenia, przetwarzania i udostępniania:
+
+- **1)** bankom – informacji stanowiących tajemnicę bankową w zakresie, w jakim informacje te są potrzebne w związku z wykonywaniem czynności bankowych oraz w związku ze stosowaniem metod statystycznych, o których mowa w art. 128 ust. 3 oraz w art. 128d ust. 1,
+- **2)** innym instytucjom ustawowo upoważnionym do udzielania kredytów – informacji stanowiących tajemnicę bankową w zakresie, w jakim informacje te są niezbędne w związku z udzielaniem kredytów, pożyczek pieniężnych, gwarancji bankowych i poręczeń. ” ;
+- **13)** art. 105a otrzymuje brzmienie: „
+
+**Art. 105a.**
+
+1. Przetwarzanie przez banki, inne instytucje ustawowo upoważnione do udzielania kredytów oraz instytucje utworzone na podstawie art. 105 ust. 4, informacji stanowiących tajemnicę bankową w zakresie dotyczącym osób fizycznych może być wykonywane, z zastrzeżeniem art. 104, art. 105 i art. 106–106c, w celu oceny zdolności kredytowej i analizy ryzyka kredytowego.
+
+2. Instytucje, o których mowa w ust. 1, mogą, z zastrzeżeniem ust. 3, przetwarzać informacje stanowiące tajemnicę bankową w zakresie dotyczącym osób fizycznych po wygaśnięciu zobowiązania wynikającego z umowy zawartej z bankiem lub inną instytucją ustawowo upoważnioną do udzielania kredytów, pod warunkiem uzyskania pisemnej zgody osoby, której informacje te dotyczą. Zgoda ta może być w każdym czasie odwołana.
+
+3. Instytucje, o których mowa w ust. 1, mogą przetwarzać informacje stanowiące tajemnicę bankową dotyczące osób fizycznych po wygaśnięciu zobowiązania wynikającego z umowy zawartej z bankiem lub inną instytucją ustawowo upoważnioną do udzielania kredytów, bez zgody osoby, której informacje dotyczą, gdy osoba ta nie wykonała zobowiązania lub dopuściła się zwłoki powyżej 60 dni w spełnieniu świadczenia wynikającego z umowy zawartej z bankiem lub inną instytucją ustawowo upoważnioną do udzielania kredytów, a po zaistnieniu tych okoliczności upłynęło co najmniej 30 dni od poinformowania tej osoby przez bank lub inną instytucję ustawowo upoważnioną do udzielania kredytów o zamiarze przetwarzania dotyczących jej informacji stanowiących tajemnicę bankową, bez jej zgody.
+
+4. Banki oraz instytucje, o których mowa w art. 105 ust. 4, mogą przetwarzać informacje stanowiące tajemnicę bankową dotyczące osób fizycznych po wygaśnięciu zobowiązania wynikającego z umowy zawartej z bankiem lub inną instytucją ustawowo upoważnioną do udzielania kredytów, bez zgody osoby, której informacje dotyczą, dla celów stosowania metod statystycznych, o których mowa w art. 128 ust. 3.
+
+5. Przetwarzanie informacji stanowiących tajemnicę bankową w przypadkach, o których mowa w ust. 3, może być wykonywane przez okres nie dłuższy niż 5 lat od dnia wygaśnięcia zobowiązania, a w przypadku, o którym mowa w ust. 4, przez okres 12 lat od dnia wygaśnięcia zobowiązania.
+
+6. Zakres przetwarzanych informacji, o których mowa w ust. 3 i 4, może obejmować dane dotyczące osoby fizycznej lub dane dotyczące zobowiązania.
+
+7. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii właściwych nadzorów, określi, w drodze rozporządzenia, szczegółowy zakres przetwarzanych informacji, o których mowa w ust. 6, oraz tryb ich usuwania, uwzględniając właściwą ochronę praw osób, których informacje dotyczą, oraz konieczność zapewnienia bezpieczeństwa środków zgromadzonych w bankach i innych instytucjach ustawowo upoważnionych do udzielania kredytów. ” ;
+
+- **14)** po art. 111 dodaje art. 111a w brzmieniu: „
+
+**Art. 111a.**
+
+1. Bank obowiązany jest, z zastrzeżeniem ust. 2, ogłaszać w sposób ogólnie dostępny informacje o charakterze jakościowym i ilościowym dotyczące adekwatności kapitałowej.
+
+2. Obowiązek, o którym mowa w ust. 1, nie dotyczy:
+
+- **1)** informacji, których pominięcie lub zniekształcenie nie może zmienić oceny lub decyzji osoby wykorzystującej takie informacje przy podejmowaniu decyzji ekonomicznych, albo wpłynąć na taką ocenę lub decyzję (informacje nieistotne),
+- **2)** informacji, których ujawnienie może mieć niekorzystny wpływ na pozycję banku na rynku właściwym w rozumieniu przepisów o ochronie konkurencji i konsumentów,
+- **3)** informacji objętych tajemnicą prawnie chronioną.
+
+3. W przypadku, o którym mowa w ust. 2 pkt 2 i 3, bank podaje przyczyny odstąpienia od ogłoszenia informacji oraz ujawnia ogólne dane z tego zakresu, o ile nie są to informacje, o których mowa w ust. 2 pkt 2 i 3.
+
+4. Komisja Nadzoru Bankowego określi, w drodze uchwały, szczegółowe zasady i sposób ogłaszania informacji, o których mowa w ust. 1 i 3, oraz zakres informacji podlegających ogłaszaniu. ” ;
+
+- **15)** tytuł rozdziału 10 otrzymuje brzmienie: „ Fundusze własne, kapitał wewnętrzny i gospodarka finansowa banków ” ;
+- **16)** w art. 127: w ust. 1 uchyla się pkt 3, w ust. 2: – w pkt 2 dodaje się lit. d w brzmieniu: „ d) inne pozycje bilansu banku, określone przez Komisję Nadzoru Bankowego, ” , – w pkt 3 dodaje się lit. f w brzmieniu: „ f) inne pomniejszenia funduszy podstawowych banku, określone przez Komisję Nadzoru Bankowego ” , w ust. 3: – pkt 1 otrzymuje brzmienie: „ 1) kapitał (fundusz) z aktualizacji wyceny rzeczowych aktywów trwałych – utworzony na podstawie odrębnych przepisów, ” , – dodaje się pkt 4 w brzmieniu: „ 4) pomniejszenia funduszy uzupełniających, określone przez Komisję Nadzoru Bankowego ” , w ust. 5 pkt 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **2)** może określić, w drodze uchwały: inne pozycje bilansu banku, o których mowa w ust. 2 pkt 2 lit. d, ich wysokość, zakres i warunki ich zaliczania do funduszy podstawowych banku, wysokość, zakres i warunki pomniejszania funduszy podstawowych banku o pozycje, o których mowa w ust. 2 pkt 3 lit. a-e, inne pomniejszenia funduszy podstawowych, o których mowa w ust. 2 pkt 3 lit. f, ich wysokość, zakres i warunki pomniejszania o nie funduszy podstawowych banku, inne pozycje bilansu banku, o których mowa w ust. 3 pkt 3, ich wysokość, zakres i warunki ich zaliczania do funduszy uzupełniających banku, pomniejszenia funduszy uzupełniających, o których mowa w ust. 3 pkt 4, ich wysokość, zakres i warunki pomniejszania o nie funduszy uzupełniających banku. ” , ust. 6 i 7 otrzymują brzmienie: „
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **e)**
+
+6. Na wniosek banku realizującego program postępowania naprawczego lub banku przejmującego bank zagrożony upadłością lub likwidacją, Komisja Nadzoru Bankowego może wydać zgodę na nieuwzględnianie w pomniejszeniach funduszy podstawowych lub uzupełniających, dla celów wyznaczania limitów, o których mowa w art. 71 ust. 1 i 2, części lub całości zaangażowania kapitałowego banku w instytucje finansowe, instytucje kredytowe, banki i zakłady ubezpieczeń, wyrażonego w postaci:
+
+- **1)** posiadanych akcji lub udziałów,
+- **2)** kwot zakwalifikowanych do zobowiązań podporządkowanych,
+- **3)** innego zaangażowania kapitałowego w składniki zaliczane do funduszy własnych lub kapitałów tych podmiotów, w tym dopłaty na rzecz spółki z ograniczoną odpowiedzialnością, według wartości bilansowej.
+
+7. Zaliczanie lub pomniejszenie, o których mowa w ust. 5 pkt 1 i 2, może wymagać zgody Komisji Nadzoru Bankowego. Wymóg uzyskania zgody Komisji określą uchwały, o których mowa w ust. 5 pkt 1 i 2. ” ;
+
+- **17)** art. 128 otrzymuje brzmienie: „
+
+**Art. 128.**
+
+1. Bank jest obowiązany utrzymywać:
+
+- **1)** fundusze własne na poziomie nie niższym niż równowartość w złotych kwoty określonej w art. 32 ust. 1, a w przypadku banków spółdzielczych będących członkami zrzeszenia, określonej w art. 32 ust. 2, z uwzględnieniem art. 172 ust. 3, przeliczonej według kursu średniego ogłaszanego przez Narodowy Bank Polski, obowiązującego w dniu sprawozdawczym, z tym że wkłady niepieniężne nie mogą przekroczyć 15% funduszy zasadniczych banku,
+- **2)** sumę funduszy własnych i dodatkowych pozycji bilansu banku określonych przez Komisję Nadzoru Bankowego na poziomie nie niższym niż wyższa z następujących wartości: suma wymogów kapitałowych z tytułu poszczególnych rodzajów ryzyka oraz wymogów kapitałowych z tytułu przekroczenia limitów i naruszenia innych norm określonych w ustawie, oszacowana przez bank kwota, niezbędna do pokrycia wszystkich zidentyfikowanych, istotnych rodzajów ryzyka występujących w działalności banku oraz zmian otoczenia gospodarczego, uwzględniająca przewidywany poziom ryzyka (kapitał wewnętrzny),
+    - **a)**
+    - **b)**
+
+- **3)** współczynnik wypłacalności na poziomie co najmniej 8%, a bank rozpoczynający działalność operacyjną na poziomie co najmniej 15% przez pierwsze 12 miesięcy działalności, a przez następne 12 miesięcy działalności – co najmniej 12%.
+
+2. Bank dokonuje regularnych przeglądów procesu szacowania i utrzymywania kapitału wewnętrznego w celu zapewnienia, że proces ten jest kompleksowy i odpowiedni do charakteru, skali i złożoności działalności banku.
+
+3. Za zgodą Komisji Nadzoru Bankowego bank może stosować metody statystyczne do obliczania wymogów kapitałowych.
+
+4. Bank, w celu ustalania wymogów kapitałowych, może na warunkach, zasadach i w sposób określony w uchwale Komisji Nadzoru Bankowego, o której mowa w ust. 6 pkt 5, korzystać z ocen wiarygodności kredytowej nadawanych przez:
+
+- **1)** zewnętrzne instytucje oceny wiarygodności kredytowej, określonych w uchwale Komisji Nadzoru Bankowego, o której mowa w ust. 6 pkt 6,
+- **2)** agencje kredytów eksportowych.
+
+5. Banki, zewnętrzne instytucje oceny wiarygodności kredytowej oraz agencje kredytów eksportowych, z których ocen korzystają banki, są obowiązane udzielać Komisji Nadzoru Bankowego informacji niezbędnych do weryfikacji spełniania warunków korzystania z tych ocen.
+
+6. Komisja Nadzoru Bankowego określi, w drodze uchwały:
+
+- **1)** dodatkowe pozycje bilansu banku, o których mowa w ust. 1 pkt 2, oraz zakres, sposób i warunki ich wyznaczania,
+- **2)** szczegółowe warunki szacowania kapitału wewnętrznego i dokonywania przez bank przeglądów, o których mowa w ust. 2,
+- **3)** zakres i szczegółowe zasady wyznaczania wymogów kapitałowych, w tym zakres i warunki stosowania metod, o których mowa w ust. 3, oraz zakres informacji załączanych przez bank do wniosków o wydanie zgody, o której mowa w ust. 3 i w art. 128d ust. 1,
+- **4)** sposób i szczegółowe zasady obliczania współczynnika wypłacalności banku,
+- **5)** warunki i sposób korzystania z ocen wiarygodności kredytowej nadawanych przez zewnętrzne instytucje oceny wiarygodności kredytowej oraz agencje kredytów eksportowych, zasady powiązania ocen wiarygodności kredytowej nadawanych przez zewnętrzne instytucje oceny wiarygodności kredytowej ze stopniami jakości kredytowej i warunki zmiany takich powiązań oraz zasady korzystania przez bank z ocen wiarygodności kredytowej nadawanych przez agencje kredytów eksportowych w celu ustalenia wymogów kapitałowych,
+- **6)** oceny wiarygodności kredytowej nadawane przez zewnętrzne instytucje oceny wiarygodności kredytowej, z których bank może korzystać w celu ustalenia wymogów kapitałowych i zakres korzystania z tych ocen oraz ich powiązanie ze stopniami jakości kredytowej,
+- **7)** zasady i warunki, zgodnie z którymi bank może uwzględniać zawarcie umów, o których mowa w art. 92a ust. 1 i 3 oraz art. 92d, na potrzeby wyznaczania wymogów kapitałowych, o których mowa w ust. 1 pkt 2.
+
+7. W przypadku niespełnienia wymogów, o których mowa w ust. 1, bank jest obowiązany niezwłocznie powiadomić Komisję Nadzoru Bankowego.
+
+8. Komisja Nadzoru Bankowego może określić, w drodze uchwały, wiążące banki normy ostrożnościowe, określające dopuszczalne ryzyko w działalności banków inne niż wymogi kapitałowe, oraz zakres ich stosowania.
+
+9. Komisja Nadzoru Bankowego może, w szczególnie uzasadnionych przypadkach, wyrazić zgodę na przekroczenie limitu dotyczącego wielkości wkładów niepieniężnych, o którym mowa w ust. 1 pkt 1.
+
+10. Uwzględnienie przez bank dodatkowych pozycji bilansu, o których mowa w ust. 6 pkt 1, oraz stosowanie metod, o których mowa w ust. 6 pkt 3, przy spełnieniu warunków określonych na podstawie tych przepisów może być uzależnione od uzyskania zgody Komisji Nadzoru Bankowego innej niż wskazana w ust. 3. ” ;
+
+- **18)** po art. 128c dodaje się art. 128d w brzmieniu: „
+
+1. Bank będący unijną instytucją dominującą i podmioty zależne od tego banku działające z tym bankiem w holdingu, oraz podmioty zależne od unijnego podmiotu dominującego w holdingu finansowym, mogą stosować wspólnie metody statystyczne, o których mowa w art. 128 ust. 3, po uzyskaniu zgody Komisji Nadzoru Bankowego. Komisja Nadzoru Bankowego, udzielając zgody może określić w jej treści warunki i terminy dotyczące stosowania tych metod.
+
+2. Komisja Nadzoru Bankowego wydaje zgodę, o której mowa w ust. 1, w terminie 6 miesięcy od dnia wpłynięcia kompletnego wniosku o jej wydanie. Do postępowania z wnioskiem w sprawie o wydanie zgody stosuje się odpowiednio art. 33.
+
+3. Komisja Nadzoru Bankowego wydając zgodę współpracuje z właściwymi władzami nadzorczymi, dążąc do osiągnięcia wspólnego stanowiska, zarówno co do samego rozstrzygnięcia, jak i jego przesłanek.
+
+4. Jeżeli w terminie, o którym mowa w ust. 2, Komisja Nadzoru Bankowego oraz właściwe władze nadzorcze nie osiągną porozumienia, Komisja Nadzoru Bankowego wydaje zgodę, biorąc pod uwagę opinie wyrażone przez właściwe władze nadzorcze. W treści uzasadnienia decyzji Komisja Nadzoru Bankowego uwzględnia poglądy i zastrzeżenia innych właściwych władz nadzorczych otrzymane w terminie, o którym mowa w ust. 2.
+
+5. Decyzję w sprawie zgody otrzymują właściwe władze nadzorcze.
+
+6. W przypadku gdy zgodę na wspólne stosowanie z bankiem metod statystycznych przez unijne instytucje dominujące i ich podmioty zależne lub podmioty zależne od unijnego podmiotu dominującego w holdingu finansowym wydają inne właściwe władze nadzorcze, Komisja Nadzoru Bankowego współpracuje z nimi przy wydawaniu przez te władze zgody.
+
+7. Bank, o którym mowa w ust. 6, informuje Komisję Nadzoru Bankowego o zamiarze wspólnego stosowania metod statystycznych oraz o planowanym zakresie i terminie złożenia wniosku o wydanie zgody przez właściwą władzę nadzorczą, o której mowa w ust. 6.
+
+8. Bank, o którym mowa w ust. 6, niezwłocznie po złożeniu wniosku o wydanie zgody, przez właściwą władzę nadzorczą, o której mowa w ust. 6, przedstawia Komisji Nadzoru Bankowego wniosek w zakresie dotyczącym banku. Art. 141g ust. 3 stosuje się odpowiednio.
+
+9. Komisja Nadzoru Bankowego może wyrazić opinię w zakresie postępowania, o którym mowa w ust. 6, w terminie umożliwiającym wydanie przez właściwą władzę nadzorczą zgody w terminie 6 miesięcy od dnia otrzymania przez tę władzę wniosku o jej wydanie.
+
+10. Komisja Nadzoru Bankowego przekazuje bankowi, o którym mowa w ust. 6, rozstrzygnięcie w przedmiocie wniosku o wspólne stosowanie metod statystycznych wydane przez właściwą władzę nadzorczą. ” ;
+
+- **19)** w art. 133 w ust. 2: pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** badaniu jakości systemu zarządzania bankiem, w szczególności systemu zarządzania ryzykiem oraz systemu kontroli wewnętrznej, ” , pkt 5 i 6 otrzymują brzmienie: „
+    - **b)**
+
+- **5)** badaniu przestrzegania limitów, o których mowa w art. 71 i art. 79a, oraz ocenie procesu identyfikacji, monitorowania i kontroli koncentracji zaangażowań, w tym dużych zaangażowań,
+- **6)** badaniu przestrzegania przez bank, określonych przez Komisję Nadzoru Bankowego norm dopuszczalnego ryzyka w działalności banków, zarządzania ryzykiem prowadzonej działalności, w tym dostosowania do rodzaju i skali działalności banku procesu identyfikacji i monitorowania ryzyka oraz sprawozdawania o ryzyku, ” , dodaje się pkt 7 w brzmieniu: „
+    - **c)**
+
+- **7)** dokonywaniu oceny szacowania, utrzymywania i przeglądu kapitału wewnętrznego. ” ;
+- **20)** w art. 138: w ust. 1 dodaje się pkt 4–6 w brzmieniu: „
+    - **a)**
+
+- **4)** opracowanie i stosowanie procedur, które zapewnią utrzymywanie, bieżące szacowanie i przegląd kapitału wewnętrznego oraz funkcjonowanie systemu zarządzania bankiem,
+- **5)** zastosowanie szczególnych zasad tworzenia rezerw na ryzyko związane z działalnością banków lub odpisów z tytułu utraty wartości aktywów, lub szczególnego traktowania aktywów przy obliczaniu wymogów kapitałowych,
+- **6)** ograniczenie ryzyka występującego w działalności banku ” , w ust. 3 pkt 3 otrzymuje brzmienie: „
+    - **b)**
+
+- **3)** ograniczyć zakres działalności banku lub jego jednostek organizacyjnych, ” , ust. 7 otrzymuje brzmienie: „
+    - **c)**
+
+7. Środki podejmowane w ramach nadzoru nie mogą naruszać umów zawartych przez bank, z wyłączeniem umów:
+
+- **1)** o których mowa w art. 92a ust. 1 i 3 oraz w art. 92d,
+- **2)** zawartych przez bank krajowy z podmiotami działającymi w tym samym holdingu oraz umów zawartych przez bank krajowy z podmiotami, z którymi posiada bliskie powiązania. ” ;
+- **21)** po art. 138 dodaje się art. 138a w brzmieniu: „
+
+**Art. 138a.**
+
+1. Komisja Nadzoru Bankowego może:
+
+- **1)** zobowiązać bank do zwiększenia funduszy własnych,
+- **2)** nałożyć na bank dodatkowy wymóg kapitałowy ponad wartość wynikającą z wymogów kapitałowych obliczonych zgodnie ze szczegółowymi zasadami określonymi przez Komisję Nadzoru Bankowego na podstawie uchwały, o której mowa w art. 128 ust. 6 pkt 1 i 3–7, w szczególności w przypadku negatywnych ustaleń dokonanych w trakcie czynności podejmowanych w ramach nadzoru bankowego, w tym odnoszących się do funkcjonowania systemu zarządzania ryzykiem i systemu kontroli wewnętrznej lub identyfikacji, monitorowania i kontroli koncentracji zaangażowań, w tym dużych zaangażowań.
+
+2. Komisja Nadzoru Bankowego może także nałożyć dodatkowy wymóg kapitałowy w przypadku stwierdzenia niedostosowania kapitału wewnętrznego do skali ryzyka występującego w działalności banku oraz istotnych nieprawidłowości w zarządzaniu ryzykiem. ” ;
+
+- **22)** w art. 141f dodaje się ust. 6–11 w brzmieniu: „
+
+6. Nadzór skonsolidowany w przypadku gdy:
+
+- **1)** pierwotnym podmiotem dominującym w holdingu jest instytucja dominująca w państwie członkowskim albo unijna instytucja dominująca – sprawuje władza nadzorcza, która udzieliła zezwolenia na prowadzenie działalności tej instytucji,
+- **2)** podmiotem dominującym wobec banku jest podmiot dominujący w holdingu finansowym w państwie członkowskim albo unijny podmiot dominujący w holdingu finansowym – sprawuje Komisja Nadzoru Bankowego,
+- **3)** podmiotem dominującym wobec instytucji kredytowej jest podmiot dominujący w holdingu finansowym w państwie członkowskim albo unijny podmiot dominujący w holdingu finansowym – sprawuje władza nadzorcza, która udzieliła zezwolenia na prowadzenie działalności instytucji kredytowej,
+- **4)** unijny podmiot dominujący w holdingu finansowym albo podmiot dominujący w holdingu finansowym jest podmiotem dominującym wobec instytucji kredytowych, działających na podstawie zezwoleń udzielonych w państwach członkowskich – sprawuje władza nadzorcza, która udzieliła zezwolenia na prowadzenie działalności instytucji kredytowej z państwa, w którym ma siedzibę unijny podmiot dominujący w holdingu finansowym albo podmiot dominujący w holdingu finansowym,
+- **5)** unijny podmiot dominujący w holdingu finansowym albo podmiot dominujący w holdingu finansowym z siedzibą na terytorium Rzeczypospolitej Polskiej jest podmiotem dominującym wobec banku krajowego i instytucji kredytowych – sprawuje Komisja Nadzoru Bankowego,
+- **6)** instytucje finansowe z siedzibą w różnych państwach członkowskich są podmiotami dominującymi wobec banku lub instytucji kredytowych działających na podstawie zezwoleń udzielonych w państwach członkowskich, w których mają siedziby te instytucje finansowe – sprawuje władza nadzorcza, która udzieliła zezwolenia na prowadzenie działalności bankowi lub instytucji kredytowej o najwyższej sumie bilansowej,
+- **7)** instytucja finansowa jest podmiotem dominującym wobec banku lub instytucji kredytowych działających na podstawie zezwoleń udzielonych w państwach członkowskich innych niż państwo siedziby tej instytucji finansowej – sprawuje władza nadzorcza, która udzieliła zezwolenia na prowadzenie działalności bankowi lub instytucji kredytowej o najwyższej sumie bilansowej, a bank lub instytucję kredytową uważa się za podmioty zależne od unijnego podmiotu dominującego w holdingu finansowym.
+
+7. Właściwe władze nadzorcze mogą uzgodnić, że kryteriów, o których mowa w ust. 6 pkt 1–6, nie stosuje się, jeżeli są one niewłaściwe z uwagi na specyfikę banku, instytucji kredytowych lub względną istotność ich działalności w państwach członkowskich.
+
+8. W przypadku, o którym mowa w ust. 7, właściwe władze nadzorcze uzgadniają, która z władz sprawuje nadzór skonsolidowany.
+
+9. W celu dokonania uzgodnienia, o którym mowa w ust. 8, właściwe władze nadzorcze mogą zasięgnąć opinii unijnej instytucji dominującej, unijnego podmiotu dominującego w holdingu finansowym albo instytucji kredytowej lub banku o najwyższej sumie bilansowej, o których mowa w ust. 6 pkt 1–7.
+
+10. Komisja Nadzoru Bankowego informuje Komisję Europejską o sprawowaniu przez siebie nadzoru skonsolidowanego w wyniku ustaleń, o których mowa w ust. 8.
+
+11. Komisja Nadzoru Bankowego informuje unijną instytucję dominującą, unijny podmiot dominujący w holdingu finansowym albo bank o najwyższej sumie bilansowej, o których mowa w ust. 6 pkt 1–7, o sprawowaniu przez siebie nadzoru skonsolidowanego. ” .
+
+**Art. 2.** W ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. Nr 157, poz. 1119) w art. 33:
+
+- **1)** pkt 1 otrzymuje brzmienie: „
+- **1)** art. 11 otrzymuje brzmienie: „
+
+**Art. 11.**
+
+1. Do określonych w ustawie decyzji Prezesa Narodowego Banku Polskiego w przedmiocie udzielenia zgody stosuje się odpowiednio przepisy Kodeksu postępowania administracyjnego, o ile niniejsza ustawa nie stanowi inaczej.
+
+2. Decyzje Komisji Nadzoru Finansowego w przedmiocie:
+
+- **1)** wyrażenia oceny,
+- **2)** zezwolenia,
+- **3)** zgody,
+- **4)** nakazania bankowi zmiany lub rozwiązania umowy,
+- **5)** nakazania sprzedaży akcji w oznaczonym terminie,
+- **6)** odmowy przesłania właściwym władzom nadzorczym państwa goszczącego zawiadomienia,
+- **7)** odmowy powiadomienia właściwych władz nadzorczych państwa goszczącego,
+- **8)** zakazania instytucji finansowej prowadzenia działalności na terenie państwa goszczącego,
+- **9)** nakazania bankowi wstrzymania wypłat z zysku,
+- **10)** nakazania wstrzymania tworzenia nowych jednostek organizacyjnych banku, oddziału banku zagranicznego lub oddziału instytucji kredytowej,
+- **11)** zawieszenia w czynnościach członków zarządu banku lub instytucji finansowej,
+- **12)** ograniczenia zakresu działalności banku, oddziału banku zagranicznego lub oddziału instytucji kredytowej,
+- **13)** nałożenia kary finansowej na bank, oddział banku zagranicznego, oddział instytucji kredytowej lub instytucję finansową,
+- **14)** likwidacji banku lub oddziału banku zagranicznego,
+- **15)** określenia zakresu uprawnień likwidatora lub innej osoby wyznaczonej przez właściwe władze nadzorcze państwa członkowskiego do przeprowadzenia likwidacji instytucji kredytowej,
+- **16)** odwołania członka zarządu banku,
+- **17)** nałożenia na członków zarządu banku lub instytucji finansowej oraz na władze oddziału instytucji kredytowej kary pieniężnej,
+- **18)** zakazania udzielania lub ograniczenia udzielania kredytów i pożyczek pieniężnych akcjonariuszom (członkom) oraz członkom zarządu, rady nadzorczej i pracownikom banku,
+- **19)** żądania zwołania nadzwyczajnego walnego zgromadzenia,
+- **20)** zobowiązania banku do zwiększenia funduszy własnych, o którym mowa w art. 138a,
+- **21)** nałożenia na bank dodatkowego wymogu kapitałowego,
+- **22)** ustanowienia i odwołania kuratora,
+- **23)** ustanowienia zarządu komisarycznego,
+- **24)** przejęcia banku przez inny bank za zgodą banku przejmującego,
+- **25)** wystąpienia do Rady Ministrów o likwidację banku państwowego,
+- **26)** odwołania likwidatora banku wyznaczonego przez bank,
+- **27)** zawieszenia działalności banku mają moc ostatecznych decyzji administracyjnych i podlegają natychmiastowemu wykonaniu.
+
+3. O ile ustawa nie stanowi inaczej, termin wydania określonych w niej opinii wynosi 30 dni.”; ” ; ” ;
+
+- **2)** pkt 10 otrzymuje brzmienie: „
+- **10)** użyte w art. 4 w ust. 1 w pkt 8 w lit. b i w pkt 15 w lit. b, w art. 4a, w art. 6a w ust. 1 w pkt 1 w lit. k i w ust. 3, w art. 6c w ust. 1 w pkt 1 i 2 oraz w ust. 2–6, w art. 6d w ust. 1, w ust. 4 we wprowadzeniu do wyliczenia i w pkt 2, w art. 9f, w art. 14 w ust. 1, w art. 17 w ust. 3, w art. 19, w art. 22 w ust. 3, w art. 22a w ust. 2, w art. 22b w ust. 1–5, w art. 22c w ust. 2, w art. 25 w ust. 1, 2, 4 i 6–9, w art. 26a w ust. 1 i 4–6, w art. 28 w ust. 1, w art. 30 w ust. la i w ust. 4, w art. 30a, w art. 31 w ust. 1 we wprowadzeniu do wyliczenia, w ust. 2 w pkt 3 i w ust. 4, w art. 32 w ust. 5, w art. 33 w ust. 1 we wprowadzeniu do wyliczenia i w ust. 2, w art. 34 w ust. 1 i 2, w art. 35, w art. 36 w ust. 1, w art. 37, w art. 39 w ust. 1, w art. 40 w ust. 1, 4 i 8, w art. 40a w ust. 2, w art. 42 w ust. 1, w art. 44 we wprowadzeniu do wyliczenia, w art. 48c w ust. 1, 3 i 4, w art. 48d w ust. 1 we wprowadzeniu do wyliczenia i w ust. 2, w art. 48e-48g, w art. 48h w ust. 1 w pkt 6, w ust. 2, 2a i 3–5, w art. 48l, w art. 48ł, w art. 53 w ust. 4, w art. 71 w ust. 3–6 i 8, w art. 79b w ust. 1, w art. 92b w ust. 3, w art. 105 w ust. 1 w pkt 2 w lit. r. w art. 110 w pkt 3, w art. 111a w ust. 4, w art. 122 w ust. 3, w art. 124 w ust. 1 i 2, w art. 124a, w art. 127 w ust. 2 w pkt 2 w lit. d oraz w pkt 3 w lit. f, w ust. 3 w pkt 2 we wprowadzeniu do wyliczenia i w pkt 2 w lit. a, b i d, w pkt 3 i 4 oraz w ust. 4–7, w art. 128 w ust. 1 w pkt 2 i w ust. 3–10, w art. 128a-128c, w art. 128d w ust. 1–4 oraz w ust. 6–10, w art. 129 w ust. 3, w art. 131 w ust. 1, w art. 132, w art. 133 w ust. 2 w pkt 6, w art. 134 w ust. 2, w art. 135 w ust. 1 i 3, w art. 136 w ust. 1 we wprowadzeniu do wyliczenia, w art. 137 we wprowadzeniu do wyliczenia, w art. 138 w ust. 1 we wprowadzeniu do wyliczenia oraz w ust. 2–5, w ust. 6 w pkt 4 i w ust. 6a-6d, w art. 138a w ust. 1 we wprowadzeniu do wyliczenia oraz w pkt 2 i w ust. 2, w art. 139 w ust. 1 w pkt 1 i 3, w art. 140, w art. 140a w ust. 1 we wprowadzeniu do wyliczenia i w ust. 2, w art. 140b i 140c, w art. 141 w ust. 1 i 4, w art. 141a w ust. 1 we wprowadzeniu do wyliczenia oraz w ust. 2–5, w art. 141b, w art. 141c w ust. 2 i 3, w art. 141d w ust. 2, w art. 141e, w art. 141f w ust. 3 i 4, w ust. 6 w pkt 2 i 5 oraz w ust. 10 i 11, w art. 141g w ust. 1 we wprowadzeniu do wyliczenia oraz w ust. 2 i 5, w art. 141 h w ust. 1 i 3 we wprowadzeniu do wyliczenia, w art. 141i w ust. 1 i 4, w art. 141j, w art. 141k w ust. 3 i 4, w art. 141l, w art. 142 w ust. 1–3, w art. 143 w ust. 1 we wprowadzeniu do wyliczenia i w ust. 2, w art. 144 w ust. 1 i w ust. 7–10, w art. 145 w ust. 1, 2a i 5, w art. 146 w ust. 3, w art. 147 w ust. 1 we wprowadzeniu do wyliczenia i w ust. 2, w art. 148 w ust. 1 we wprowadzeniu do wyliczenia i w ust. 3, w art. 153 w ust. 1, w art. 154 w pkt 2 i 3, w art. 155 w ust. 2, w art. 156a, w art. 157, w art. 157a-157d, w art. 158 w ust. 1, 3 i 5 i w art. 171 w ust. 6 i 7 w różnych przypadkach wyrazy „Komisja Nadzoru Bankowego” zastępuje się użytymi w odpowiednim przypadku wyrazami „Komisja Nadzoru Finansowego”. ” .
+
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 kwietnia 2007 r., z wyjątkiem art. 2, który wchodzi w życie z dniem 1 stycznia 2008 r.
+
+- **1)** Niniejsza ustawa: – wdraża postanowienia dyrektywy 2006/48/WE Parlamentu Europejskiego i Rady z dnia 14 czerwca 2006 r. w sprawie podejmowania i prowadzenia działalności przez instytucje kredytowe (Dz. Urz. UE L 177 z 30.06.2006, str. 1) oraz dyrektywy 2006/49/WE Parlamentu Europejskiego i Rady z dnia 14 czerwca 2006 r. w sprawie adekwatności kapitałowej firm inwestycyjnych i instytucji kredytowych (Dz. Urz. UE L 177 z 30.06.2006, str. 201), – zmienia ustawę z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym.
+
+

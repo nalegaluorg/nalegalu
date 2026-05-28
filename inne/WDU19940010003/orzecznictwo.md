@@ -2,23 +2,17 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 29 grudnia 1993 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz o zmianie niektórych ustaw.*
 
-Łącznie: **19** orzeczeń
+Łącznie: **14** orzeczeń
 
-## art. 1 (2)
+## art. 1 (1)
 
-- 2013-01-17 | SN | [III CZP 97/12](https://www.saos.org.pl/judgments/100386) | Uchwała ★
 - 1995-09-05 | SN | [III AZP 18/95](https://www.saos.org.pl/judgments/76922) | Uchwała ★
 
-## art. 13 (1)
-
-- 2016-09-06 | SO | [I C 64/16](https://www.saos.org.pl/judgments/252447) | Wyrok
-
-## art. 17 (11)
+## art. 17 (10)
 
 - 2002-12-19 | TK | [K 33/02](https://www.saos.org.pl/judgments/106035) | Wyrok ★
 - 2001-02-05 | TK | [Ts 99/00](https://www.saos.org.pl/judgments/105796) | Postanowienie ★
 - 2000-11-29 | TK | [Ts 99/00](https://www.saos.org.pl/judgments/105622) | Postanowienie ★
-- 2009-04-16 | SN | [I CSK 350/08](https://www.saos.org.pl/judgments/90045) | Wyrok ★
 - 2008-03-12 | SN | [I CSK 430/07](https://www.saos.org.pl/judgments/87553) | Wyrok ★
 - 2007-12-13 | SN | [I CSK 315/07](https://www.saos.org.pl/judgments/165003) | Wyrok ★
 - 2007-01-12 | SN | [IV CSK 318/06](https://www.saos.org.pl/judgments/84979) | Wyrok ★
@@ -35,9 +29,4 @@ Orzeczenia powołujące: *Ustawa z dnia 29 grudnia 1993 r. o zmianie ustawy o go
 ## art. 42 (1)
 
 - 2000-09-28 | SN | [IV CKN 108/00](https://www.saos.org.pl/judgments/79961) | Wyrok ★
-
-## (ogólnie) (2)
-
-- 2025-12-10 | SO | [I ACa 236/23](https://www.saos.org.pl/judgments/539525) | Wyrok
-- 2022-04-14 | SO | [II Ca 2150/21](https://www.saos.org.pl/judgments/492328) | Postanowienie
 

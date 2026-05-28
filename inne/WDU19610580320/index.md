@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1961-12-01 |
 | Data wydania | 1961-12-05 |
+| Wejście w życie | 1962-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19610580320) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1961/320/text.pdf) |
 
